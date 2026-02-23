@@ -1,18 +1,17 @@
 var a29540 =
 [
-    [ "_ACORE_CORE_CONFIG", "d2/d6c/a04754.html#ga1d466b8deaea4c5b80b4abcdc38991fd", null ],
-    [ "ClearOnlineAccounts", "d2/d6c/a04754.html#ga285010ee0ae83f9198f08fa3145877d7", null ],
-    [ "GetConsoleArguments", "d2/d6c/a04754.html#gab889056920cce8fbe96e920cea5fd9e6", null ],
-    [ "LoadRealmInfo", "d2/d6c/a04754.html#ga74b21e249952fe0d6d779ee217c76dc5", null ],
-    [ "main", "d2/d6c/a04754.html#ga3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "ShutdownCLIThread", "d2/d6c/a04754.html#gaafe46b3c9a56a31faa60963b6a1f202a", null ],
-    [ "SignalHandler", "d2/d6c/a04754.html#gad82d96de9a84a7d0325afcd3121344a4", null ],
-    [ "StartDB", "d2/d6c/a04754.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StartRaSocketAcceptor", "d2/d6c/a04754.html#ga0781c2ca38d89a89b174f81fb895285b", null ],
-    [ "StopDB", "d2/d6c/a04754.html#ga927af1587546ee7503a3b9a18f6439c0", null ],
-    [ "WorldUpdateLoop", "d2/d6c/a04754.html#ga62605923595bdfa644784c8a929fa1a7", null ],
-    [ "m_ServiceStatus", "d2/d6c/a04754.html#gabad888b856358b30aa3928d7e01916fb", null ],
-    [ "serviceDescription", "d2/d6c/a04754.html#ga2994dda4045f1e2d3d675565a16a4dd2", null ],
-    [ "serviceLongName", "d2/d6c/a04754.html#ga34b5207234887e0d62724cf770037f6f", null ],
-    [ "serviceName", "d2/d6c/a04754.html#ga69c549a4f4a1e88fa4a2c38cde62f569", null ]
+    [ "SpellInfoBuilder", "d3/d91/a29540.html#a1af4c9aaf8b9707697c1e030beee389a", null ],
+    [ "Build", "d3/d91/a29540.html#ab8ba5082d8c0d5d98837e7df20229906", null ],
+    [ "BuildUnique", "d3/d91/a29540.html#a96bd1eea56970fdc051fe3c494ee6396", null ],
+    [ "WithDmgClass", "d3/d91/a29540.html#aae876b0fda0da198b04bb43cf9b8851e", null ],
+    [ "WithEffect", "d3/d91/a29540.html#aec11a1d4ff5ce438e052d58bd6dbbd1f", null ],
+    [ "WithEffectTriggerSpell", "d3/d91/a29540.html#ab7e6d316ff67f1610695b89723b7e364", null ],
+    [ "WithId", "d3/d91/a29540.html#a1f23f2372b8fd2e7ce8e6aad99868892", null ],
+    [ "WithProcChance", "d3/d91/a29540.html#a9a82d31ff56c42ad264d1daf97c1a445", null ],
+    [ "WithProcCharges", "d3/d91/a29540.html#a49152801fbf954772dfdf6c94cb91fb8", null ],
+    [ "WithProcFlags", "d3/d91/a29540.html#a76fd05f8130f02bba9b159e9e09c4f52", null ],
+    [ "WithSchoolMask", "d3/d91/a29540.html#adbc655e188cade9675943e2f57a4a242", null ],
+    [ "WithSpellFamilyFlags", "d3/d91/a29540.html#aa4f184402512fd50c6066910787c4595", null ],
+    [ "WithSpellFamilyName", "d3/d91/a29540.html#ae64bb11a8877c42ed63addc210fae8cc", null ],
+    [ "_entryHelper", "d3/d91/a29540.html#a764a57f15f5383d3555b7763c0dc718b", null ]
 ];

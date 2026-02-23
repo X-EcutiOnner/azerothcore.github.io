@@ -1,5 +1,5 @@
 var a10828 =
 [
-    [ "Icon", "d1/d4a/a10828.html#ae47c09144b18e42aa48499de3e3fe276", null ],
-    [ "Name", "d1/d4a/a10828.html#a19c79529bbfe25701c9f8253f3e0f9d8", null ]
+    [ "GuildDeclineInvitation", "d1/d4a/a10828.html#a11a70a9974bb139e53f76c8b78944fe7", null ],
+    [ "Read", "d1/d4a/a10828.html#ad034438e18a7feddbac376a599c1e01a", null ]
 ];

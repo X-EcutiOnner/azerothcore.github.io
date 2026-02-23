@@ -1,7 +1,10 @@
 var a18752 =
 [
-    [ "npc_valithria_portalAI", "d5/de4/a18752.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
-    [ "GetData", "d5/de4/a18752.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
-    [ "OnSpellClick", "d5/de4/a18752.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
-    [ "_used", "d5/de4/a18752.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
+    [ "HandleScript", "d5/de4/a18752.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
+    [ "Load", "d5/de4/a18752.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
+    [ "PrepareSpellScript", "d5/de4/a18752.html#afcc1efc69d73086a9ab686855911e516", null ],
+    [ "Register", "d5/de4/a18752.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
+    [ "ReplaceTarget", "d5/de4/a18752.html#a01cb7d25bef14a2266d81594544f6283", null ],
+    [ "SelectTarget", "d5/de4/a18752.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
+    [ "_target", "d5/de4/a18752.html#a3a84a9d7109845d201b395f05f66d109", null ]
 ];

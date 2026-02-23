@@ -1,7 +1,6 @@
 var a23724 =
 [
-    [ "boss_the_maker", "d3/da2/a23724.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
-    [ "JustDied", "d3/da2/a23724.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
-    [ "JustEngagedWith", "d3/da2/a23724.html#a6b0a4442dbabde69ca9352017ee23675", null ],
-    [ "KilledUnit", "d3/da2/a23724.html#a40643ca00fe7d7029a291335e47c722a", null ]
+    [ "AfterRemove", "d3/da2/a23724.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
+    [ "PrepareAuraScript", "d3/da2/a23724.html#ad5871ce865820456177362c6b790778f", null ],
+    [ "Register", "d3/da2/a23724.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
 ];

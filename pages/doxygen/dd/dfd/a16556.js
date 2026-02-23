@@ -1,6 +1,10 @@
 var a16556 =
 [
-    [ "npc_toc5_player_vehicleAI", "d3/da4/a16560.html", "d3/da4/a16560" ],
-    [ "npc_toc5_player_vehicle", "dd/dfd/a16556.html#a8786627999d3d1681d9de58cd8c46744", null ],
-    [ "GetAI", "dd/dfd/a16556.html#af89c559eff828130df821c0c30c61f7a", null ]
+    [ "spell_halion_damage_aoe_summon", "dd/dfd/a16556.html#a6152e7a0515076af2c7c2155506257b0", null ],
+    [ "HandleSummon", "dd/dfd/a16556.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
+    [ "PrepareSpellScript", "dd/dfd/a16556.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
+    [ "Register", "dd/dfd/a16556.html#aa1f9239a2910d53c85539abba6333893", null ],
+    [ "Validate", "dd/dfd/a16556.html#acb359257b29354b5962d9865e06137e7", null ],
+    [ "_auraSpell", "dd/dfd/a16556.html#a497a74eca703470964157639a6f372e2", null ],
+    [ "_explosionSpell", "dd/dfd/a16556.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
 ];

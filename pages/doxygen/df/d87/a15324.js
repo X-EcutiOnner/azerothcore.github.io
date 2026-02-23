@@ -1,6 +1,6 @@
 var a15324 =
 [
-    [ "FilterTargets", "df/d87/a15324.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
-    [ "PrepareSpellScript", "df/d87/a15324.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
-    [ "Register", "df/d87/a15324.html#a3168a3f97ddb38b261a0730405ba27db", null ]
+    [ "instance_dire_maul_InstanceMapScript", "d5/db2/a15328.html", "d5/db2/a15328" ],
+    [ "instance_dire_maul", "df/d87/a15324.html#a54ac2c7095a99481c7efbe4237533fac", null ],
+    [ "GetInstanceScript", "df/d87/a15324.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
 ];

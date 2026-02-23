@@ -1,6 +1,6 @@
 var a20952 =
 [
-    [ "PrepareSpellScript", "d9/d71/a20952.html#a525025d429743f9d606289ca1a660796", null ],
-    [ "Register", "d9/d71/a20952.html#a66f565c07d495f27aaba393fdcce9d24", null ],
-    [ "SelectTarget", "d9/d71/a20952.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
+    [ "achievement_yogg_saron_darkness", "d9/d71/a20952.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
+    [ "OnCheck", "d9/d71/a20952.html#a809902fca87abaeb4334132763624ed6", null ],
+    [ "_keepersCount", "d9/d71/a20952.html#a765ec4606bb489760ed1e15db10de1dc", null ]
 ];

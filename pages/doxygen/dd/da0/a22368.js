@@ -1,5 +1,6 @@
 var a22368 =
 [
-    [ "go_brazier", "dd/da0/a22368.html#a432a07256fde679a889de7ba0f64f092", null ],
-    [ "OnGossipHello", "dd/da0/a22368.html#a3e0be690d58be4d7bbbb5b624ac4bd5b", null ]
+    [ "npc_released_offspring_harkoaAI", "de/d72/a22372.html", "de/d72/a22372" ],
+    [ "npc_released_offspring_harkoa", "dd/da0/a22368.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
+    [ "GetAI", "dd/da0/a22368.html#ae3d2a02c496be1b2606fce596625d12e", null ]
 ];

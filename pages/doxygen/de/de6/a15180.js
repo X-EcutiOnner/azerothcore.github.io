@@ -1,10 +1,12 @@
 var a15180 =
 [
-    [ "CurrId", "de/de6/a15180.html#a126d1c0e7d475a07acd91de471cb7cab", null ],
-    [ "DestId", "de/de6/a15180.html#a7b12c520ee50ab29e5047a1c71b22729", null ],
-    [ "o", "de/de6/a15180.html#a94c284d63e66765c4d484c8edea8fdb8", null ],
-    [ "spellId", "de/de6/a15180.html#a7240ecd6f50a6db0e2be4eb4e55b3a48", null ],
-    [ "x", "de/de6/a15180.html#a41c7bdb057d984f552a41835651d84f5", null ],
-    [ "y", "de/de6/a15180.html#abe083129d7a4e514e97eeae7cff40af5", null ],
-    [ "z", "de/de6/a15180.html#ac49d886d09e2ebf8ccf8abd59a9649ec", null ]
+    [ "boss_mal_ganisAI", "de/de6/a15180.html#aa8b70930372cd0729686f7c6032d3152", null ],
+    [ "DamageTaken", "de/de6/a15180.html#a4873386266ce3b4b849377028ff746a5", null ],
+    [ "JustDied", "de/de6/a15180.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
+    [ "JustEngagedWith", "de/de6/a15180.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
+    [ "KilledUnit", "de/de6/a15180.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
+    [ "Reset", "de/de6/a15180.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
+    [ "UpdateAI", "de/de6/a15180.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
+    [ "events", "de/de6/a15180.html#a194c002efe244b8c94a072faf72be771", null ],
+    [ "finished", "de/de6/a15180.html#ac4c90c814aa55781f863c958253e9df2", null ]
 ];

@@ -1,5 +1,7 @@
 var a14700 =
 [
-    [ "go_loosely_turned_soilAI", "df/d50/a14700.html#a603641bc52d26521d64afaaeed3abc4d", null ],
-    [ "CanBeSeen", "df/d50/a14700.html#a424b51b08d17ceb04b015cd535256889", null ]
+    [ "FilterTargets", "df/d50/a14700.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
+    [ "HandleDummy", "df/d50/a14700.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
+    [ "PrepareSpellScript", "df/d50/a14700.html#a6ac4db072beae6ae7a700774667da613", null ],
+    [ "Register", "df/d50/a14700.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
 ];

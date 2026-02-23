@@ -1,9 +1,7 @@
 var a15804 =
 [
-    [ "npc_thrall_warchiefAI", "dd/dda/a15808.html", "dd/dda/a15808" ],
-    [ "npc_thrall_warchief", "d2/daf/a15804.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
-    [ "GetAI", "d2/daf/a15804.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
-    [ "OnGossipHello", "d2/daf/a15804.html#a5cd40c062fb07d2ddfffdc159f2935d3", null ],
-    [ "OnGossipSelect", "d2/daf/a15804.html#a63367ca0b252c148f625b305575fd768", null ],
-    [ "OnQuestReward", "d2/daf/a15804.html#a6576664c201d62cab1fa2f073cddee6e", null ]
+    [ "npc_webbed_creatureAI", "d2/daf/a15804.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
+    [ "JustDied", "d2/daf/a15804.html#a153d461124ec9266ffcac147a217f6d9", null ],
+    [ "JustEngagedWith", "d2/daf/a15804.html#ac52ad6512bcaee35932f856abdac80d4", null ],
+    [ "Reset", "d2/daf/a15804.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
 ];

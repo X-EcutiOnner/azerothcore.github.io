@@ -1,5 +1,10 @@
 var a14848 =
 [
-    [ "achievement_pb_terokkar_turkey_time", "df/d5d/a14848.html#a68e536379b04e060f44819c9831766c2", null ],
-    [ "OnCheck", "df/d5d/a14848.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
+    [ "boss_headless_horseman_pumpkin", "df/d5d/a14848.html#a62191ae523401ac57a947db96a245f7a", null ],
+    [ "AttackStart", "df/d5d/a14848.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
+    [ "MoveInLineOfSight", "df/d5d/a14848.html#a212f9803f66d297cd276ef842247776a", null ],
+    [ "Reset", "df/d5d/a14848.html#a9d5f6922a52146b61168f1c50b378294", null ],
+    [ "SpellHit", "df/d5d/a14848.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
+    [ "UpdateAI", "df/d5d/a14848.html#aca53b8839bce5e180ba8583490d694c3", null ],
+    [ "timer", "df/d5d/a14848.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
 ];

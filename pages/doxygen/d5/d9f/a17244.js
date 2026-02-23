@@ -1,6 +1,6 @@
 var a17244 =
 [
-    [ "instance_halls_of_reflection_InstanceMapScript", "d0/dcf/a17248.html", "d0/dcf/a17248" ],
-    [ "instance_halls_of_reflection", "d5/d9f/a17244.html#a8872b51ceec25dbf4831f45b27206ed1", null ],
-    [ "GetInstanceScript", "d5/d9f/a17244.html#aca27a4f654f41fe6f238c905b48285b7", null ]
+    [ "instance_forge_of_souls_InstanceScript", "d0/dcf/a17248.html", "d0/dcf/a17248" ],
+    [ "instance_forge_of_souls", "d5/d9f/a17244.html#a504896f6e191c87ce77231c4ef267b27", null ],
+    [ "GetInstanceScript", "d5/d9f/a17244.html#a64982b527cfa6057315b8e628549480b", null ]
 ];

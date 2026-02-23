@@ -1,12 +1,13 @@
 var a13612 =
 [
-    [ "boss_sathrovarr", "d8/d49/a13612.html#a92bff830219f795d0aae4511f3d524bb", null ],
-    [ "CanAIAttack", "d8/d49/a13612.html#a053dcf604aed91ac7c888d682653da54", null ],
-    [ "DoAction", "d8/d49/a13612.html#ad0b549678e5b4eb7dfc1c1879885b45a", null ],
-    [ "JustDied", "d8/d49/a13612.html#aa6683f0ccb70260e24f79d86ec4ae2d1", null ],
-    [ "JustEngagedWith", "d8/d49/a13612.html#a1f3a74ac6f83673eed9b2a4276a5cf49", null ],
-    [ "KilledUnit", "d8/d49/a13612.html#a17e2a5d253536c25cd04269b71a5c0ed", null ],
-    [ "Reset", "d8/d49/a13612.html#a171c0e2c07ddf4c5271af8ed83f15257", null ],
-    [ "UpdateAI", "d8/d49/a13612.html#a99c5c8801333f2eaf6b9fee287588093", null ],
-    [ "_instance", "d8/d49/a13612.html#af7bfd6a65db102b5010f7b300e4acd27", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "d8/d49/a13612.html#aabb179f16f6a61d1cfc842482880ea0b", null ],
+    [ "Initialize", "d8/d49/a13612.html#a8381b4ead52e3515359cc2c10d52c29a", null ],
+    [ "OnCreatureCreate", "d8/d49/a13612.html#a3f9cca96886b97f7657edc04f4997d41", null ],
+    [ "OnGameObjectCreate", "d8/d49/a13612.html#ad420b6b549b8d76a80844d81548b1143", null ],
+    [ "ReadSaveDataMore", "d8/d49/a13612.html#a83a24703aafb973809618d3ac3ac0375", null ],
+    [ "SetData", "d8/d49/a13612.html#abdc105e9306d9abc776259be97e2488f", null ],
+    [ "WriteSaveDataMore", "d8/d49/a13612.html#a8be19e9a77d3796d3c09e75c5b31c19c", null ],
+    [ "_apothecaryHummel", "d8/d49/a13612.html#a3f77ecd2edf0989fcb957b56153807eb", null ],
+    [ "_crazedApothecaryGeneratorGUIDs", "d8/d49/a13612.html#a00880eedbbc2deb4dc36e4c851558861", null ],
+    [ "_encounters", "d8/d49/a13612.html#acfc196d008166d7b9da9b85c1ef4521e", null ]
 ];

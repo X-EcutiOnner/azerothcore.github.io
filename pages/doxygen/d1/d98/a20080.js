@@ -1,6 +1,6 @@
 var a20080 =
 [
-    [ "npc_hodirs_furyAI", "d8/def/a20084.html", "d8/def/a20084" ],
-    [ "npc_hodirs_fury", "d1/d98/a20080.html#af5e0f1cb4c478bd4fc9ec246aa7d7e08", null ],
-    [ "GetAI", "d1/d98/a20080.html#ad8856a6da86a8f4ce744d57614ee16e6", null ]
+    [ "PrepareSpellScript", "d1/d98/a20080.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
+    [ "RecalculateDamage", "d1/d98/a20080.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
+    [ "Register", "d1/d98/a20080.html#aac131aa2d2e5342cf0303b918a077b45", null ]
 ];

@@ -1,7 +1,5 @@
 var a18828 =
 [
-    [ "OnApply", "df/d75/a18828.html#ac35f5d98980f54470a75a72b3578681f", null ],
-    [ "OnRemove", "df/d75/a18828.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
-    [ "PrepareAuraScript", "df/d75/a18828.html#a83c90d16fa151026a1e02927e31922ee", null ],
-    [ "Register", "df/d75/a18828.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
+    [ "npc_icc_lk_checktargetAI", "df/d75/a18828.html#a9a5953a9353be61a3fa96eaf7df7c489", null ],
+    [ "CanAIAttack", "df/d75/a18828.html#a4dfce75e23f1093c3de0ce75b049a20a", null ]
 ];

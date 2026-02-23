@@ -1,18 +1,16 @@
 var a29524 =
 [
-    [ "_ACORE_CORE_CONFIG", "d2/d6c/a04754.html#ga1d466b8deaea4c5b80b4abcdc38991fd", null ],
-    [ "ClearOnlineAccounts", "d2/d6c/a04754.html#ga285010ee0ae83f9198f08fa3145877d7", null ],
-    [ "GetConsoleArguments", "d2/d6c/a04754.html#gab889056920cce8fbe96e920cea5fd9e6", null ],
-    [ "LoadRealmInfo", "d2/d6c/a04754.html#ga74b21e249952fe0d6d779ee217c76dc5", null ],
-    [ "main", "d2/d6c/a04754.html#ga3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "ShutdownCLIThread", "d2/d6c/a04754.html#gaafe46b3c9a56a31faa60963b6a1f202a", null ],
-    [ "SignalHandler", "d2/d6c/a04754.html#gad82d96de9a84a7d0325afcd3121344a4", null ],
-    [ "StartDB", "d2/d6c/a04754.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StartRaSocketAcceptor", "d2/d6c/a04754.html#ga0781c2ca38d89a89b174f81fb895285b", null ],
-    [ "StopDB", "d2/d6c/a04754.html#ga927af1587546ee7503a3b9a18f6439c0", null ],
-    [ "WorldUpdateLoop", "d2/d6c/a04754.html#ga62605923595bdfa644784c8a929fa1a7", null ],
-    [ "m_ServiceStatus", "d2/d6c/a04754.html#gabad888b856358b30aa3928d7e01916fb", null ],
-    [ "serviceDescription", "d2/d6c/a04754.html#ga2994dda4045f1e2d3d675565a16a4dd2", null ],
-    [ "serviceLongName", "d2/d6c/a04754.html#ga34b5207234887e0d62724cf770037f6f", null ],
-    [ "serviceName", "d2/d6c/a04754.html#ga69c549a4f4a1e88fa4a2c38cde62f569", null ]
+    [ "ProcTestScenario", "da/d55/a29524.html#aba69369df56d3d631a9a62bcde791537", null ],
+    [ "AdvanceTime", "da/d55/a29524.html#a3b6e8c7f5207be98b7696b478559b24a", null ],
+    [ "GetActor", "da/d55/a29524.html#a52dcbfa52c49f54ce29cb73253746f70", null ],
+    [ "GetActor", "da/d55/a29524.html#a7b2084c740b51289f6e2f7ec74dacf17", null ],
+    [ "GetAura", "da/d55/a29524.html#aa5e30fdf4a8b4912a48ce12aa7763624", null ],
+    [ "GetNow", "da/d55/a29524.html#a014a9082421c022c2fac91070f8f062e", null ],
+    [ "SimulateProc", "da/d55/a29524.html#af3f83abbfbd4a902689b232853fdbcfb", null ],
+    [ "WithActorLevel", "da/d55/a29524.html#ad0ca3530818d3091ab420bd76aab8dcb", null ],
+    [ "WithAura", "da/d55/a29524.html#a6c6dc6438b7503dcda2a89f1e53bc324", null ],
+    [ "WithWeaponSpeed", "da/d55/a29524.html#a05d00a17b60c3fd94e85c75d896ca2bb", null ],
+    [ "_actor", "da/d55/a29524.html#a8928fbb771f94e66af2a24c6c2a3351d", null ],
+    [ "_aura", "da/d55/a29524.html#a81e71f6e78e8c715899c85dcb9423589", null ],
+    [ "_now", "da/d55/a29524.html#ae20c57ecb893219e52fe055d1662e527", null ]
 ];

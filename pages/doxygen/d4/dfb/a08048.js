@@ -1,20 +1,10 @@
 var a08048 =
 [
-    [ "LFGDungeonData", "d4/dfb/a08048.html#af609ccb3be2e80fa6cd0339f91f6d094", null ],
-    [ "LFGDungeonData", "d4/dfb/a08048.html#ada24faec77a2174bd436535eb283ebc2", null ],
-    [ "Entry", "d4/dfb/a08048.html#ad421a384c1e1c37ff897cc50421fe3d9", null ],
-    [ "difficulty", "d4/dfb/a08048.html#a310b9d83b84a6f8896ac62b89ca16be3", null ],
-    [ "expansion", "d4/dfb/a08048.html#a0d5bc7c615666f52aca24ee34d849992", null ],
-    [ "group", "d4/dfb/a08048.html#a8791fcc476a5ebec99327f497f53db04", null ],
-    [ "id", "d4/dfb/a08048.html#ae25732254c64f1a2bca8a938a240e509", null ],
-    [ "map", "d4/dfb/a08048.html#ac981fbb0aaf96ea75482273c50bc53e7", null ],
-    [ "maxlevel", "d4/dfb/a08048.html#a9419e8826804b6d0a2c8b65de3b513dd", null ],
-    [ "minlevel", "d4/dfb/a08048.html#a4ef8f3bbf52a2ac8c45eeaa61aa22e2d", null ],
-    [ "name", "d4/dfb/a08048.html#a6eef80ccf8defe89696cec1675033ea2", null ],
-    [ "o", "d4/dfb/a08048.html#a42dd178512ebfbba612889f3ff5384bb", null ],
-    [ "seasonal", "d4/dfb/a08048.html#ad8b1d936512ebb1075fe2a15f29abff1", null ],
-    [ "type", "d4/dfb/a08048.html#aaea170ae5069dc46022652bfacd22edf", null ],
-    [ "x", "d4/dfb/a08048.html#a90ca0afe02dfe5aa50bfd378e38de865", null ],
-    [ "y", "d4/dfb/a08048.html#a32ef5d26a8c16690889eed2e3e230de1", null ],
-    [ "z", "d4/dfb/a08048.html#a7ec9ddbd30f0cd2c602cfef7d2eb8956", null ]
+    [ "RedirectThreatInfo", "d4/dfb/a08048.html#a23b5adf3087ddba3b92133199aa42cf8", null ],
+    [ "GetTargetGUID", "d4/dfb/a08048.html#ae206110e4d7155bb87079ebd58800e3d", null ],
+    [ "GetThreatPct", "d4/dfb/a08048.html#a58bd2c745f92625ff7eac0ddca6a23a0", null ],
+    [ "ModifyThreatPct", "d4/dfb/a08048.html#ac7093218d9b8c6ea03683dd5624bde8f", null ],
+    [ "Set", "d4/dfb/a08048.html#a140b7a0adb6e6b71b21e8d6db7125ae2", null ],
+    [ "_targetGUID", "d4/dfb/a08048.html#a98f9efc5209ef7200e71ff39310520dd", null ],
+    [ "_threatPct", "d4/dfb/a08048.html#a95d6d366d664888f532d40afd1cc57d2", null ]
 ];

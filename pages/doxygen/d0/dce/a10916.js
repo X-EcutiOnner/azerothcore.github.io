@@ -1,10 +1,9 @@
 var a10916 =
 [
-    [ "BuyItem", "d0/dce/a10916.html#a3069d333bccadf53310ce86118b2c224", null ],
-    [ "Read", "d0/dce/a10916.html#aeeda3c4a9200cfdc3372f1a3510f453b", null ],
-    [ "Count", "d0/dce/a10916.html#a72fee9e84781ae2be25f9f15a2bb6de2", null ],
-    [ "Item", "d0/dce/a10916.html#a07c03ec8db8e498b417b7dbabb9412b3", null ],
-    [ "Slot", "d0/dce/a10916.html#a7db43e484bf82fb81ccca197c24df2d1", null ],
-    [ "Unk", "d0/dce/a10916.html#aaf2b6aefb11379325b8cf9931abff638", null ],
-    [ "VendorGuid", "d0/dce/a10916.html#aab9a5ff8f6f71a311e58e78b81ef7021", null ]
+    [ "GuildBankUpdateTab", "d0/dce/a10916.html#a2950da8bfc40df57a3f5a66eee47a7ef", null ],
+    [ "Read", "d0/dce/a10916.html#ac261ff0102489efb4d69bd866ffc9283", null ],
+    [ "Banker", "d0/dce/a10916.html#a7ab950cee095221f9114224a624d46db", null ],
+    [ "BankTab", "d0/dce/a10916.html#a66284a4d9cb40b025ef265d443e6e62f", null ],
+    [ "Icon", "d0/dce/a10916.html#a75a219a9e2ab677a41920f39a1613a1b", null ],
+    [ "Name", "d0/dce/a10916.html#a44261fbc379b3137548922faf4b5cbda", null ]
 ];

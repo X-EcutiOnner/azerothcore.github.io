@@ -1,6 +1,6 @@
 var a17740 =
 [
-    [ "npc_icc_blood_beastAI", "d9/dbf/a17744.html", "d9/dbf/a17744" ],
-    [ "npc_icc_blood_beast", "d0/dcd/a17740.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
-    [ "GetAI", "d0/dcd/a17740.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
+    [ "AddExtraDamage", "d0/dcd/a17740.html#adeedfdd7555dfd009c99db6f002f7488", null ],
+    [ "PrepareSpellScript", "d0/dcd/a17740.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
+    [ "Register", "d0/dcd/a17740.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
 ];

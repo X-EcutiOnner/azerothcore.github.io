@@ -1,13 +1,7 @@
 var a27740 =
 [
-    [ "npc_nelsonAI", "dc/d74/a27740.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
-    [ "DoAction", "dc/d74/a27740.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
-    [ "JustEngagedWith", "dc/d74/a27740.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
-    [ "JustSummoned", "dc/d74/a27740.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
-    [ "Reset", "dc/d74/a27740.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
-    [ "SpellHit", "dc/d74/a27740.html#afab81d8a6077c755c186bb619944d78d", null ],
-    [ "SummonedCreatureDies", "dc/d74/a27740.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
-    [ "UpdateAI", "dc/d74/a27740.html#ac68749942f37de5f9105556fe7b904b7", null ],
-    [ "events", "dc/d74/a27740.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
-    [ "shouldDespawn", "dc/d74/a27740.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
+    [ "HandleApplyAura", "dc/d74/a27740.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
+    [ "PrepareSpellScript", "dc/d74/a27740.html#adf09900347264bc341884092ea0fee40", null ],
+    [ "Register", "dc/d74/a27740.html#ac56484d4048817a164963e519a97d137", null ],
+    [ "Validate", "dc/d74/a27740.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
 ];

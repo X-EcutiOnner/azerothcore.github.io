@@ -1,5 +1,8 @@
 var a20876 =
 [
-    [ "go_thorim_lever", "dd/d45/a20876.html#a7641a89c3c369d26753a6e97dd435802", null ],
-    [ "OnGossipHello", "dd/d45/a20876.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
+    [ "OnApply", "dd/d45/a20876.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
+    [ "OnRemove", "dd/d45/a20876.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "dd/d45/a20876.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "dd/d45/a20876.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "dd/d45/a20876.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

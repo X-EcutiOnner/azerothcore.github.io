@@ -1,8 +1,9 @@
 var a13516 =
 [
-    [ "npc_madrigosa", "d2/d7b/a13516.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
-    [ "DoAction", "d2/d7b/a13516.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
-    [ "UpdateAI", "d2/d7b/a13516.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
-    [ "events", "d2/d7b/a13516.html#a5859e4c8454371eb71740616d4763c0e", null ],
-    [ "instance", "d2/d7b/a13516.html#a09525d3bb35d1da4246bd84bbadea304", null ]
+    [ "npc_risen_guardianAI", "d2/d7b/a13516.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
+    [ "IsSummonedBy", "d2/d7b/a13516.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
+    [ "KilledUnit", "d2/d7b/a13516.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
+    [ "Gandling", "d2/d7b/a13516.html#a93013b905260aa51341b22d1627cc986", null ],
+    [ "instance", "d2/d7b/a13516.html#a96f1835989f646c708b8ef0cc9999e63", null ],
+    [ "room", "d2/d7b/a13516.html#a5862a184b6daa92da133cc6c360a993d", null ]
 ];

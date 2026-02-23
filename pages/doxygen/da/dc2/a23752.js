@@ -1,6 +1,5 @@
 var a23752 =
 [
-    [ "HandleScriptEffect", "da/dc2/a23752.html#adf350bccc5862252f6928faa4ae3a001", null ],
-    [ "PrepareSpellScript", "da/dc2/a23752.html#a0d1ff479da3b8f50ed698da9f9029589", null ],
-    [ "Register", "da/dc2/a23752.html#afaf23967ede6e120caa7758ff2d3c974", null ]
+    [ "npc_thaladred", "da/dc2/a23752.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
+    [ "ScheduleEvents", "da/dc2/a23752.html#a24febff1fc8b155bca0fb177a8119dbb", null ]
 ];

@@ -1,5 +1,5 @@
 var a19000 =
 [
-    [ "at_icc_start_frostwing_gauntlet", "d0/dd4/a19000.html#a285cd9046d5658fc5d917c3427bbbe83", null ],
-    [ "OnTrigger", "d0/dd4/a19000.html#a7137166f281876f00d4e03c846875d85", null ]
+    [ "achievement_portal_jockey", "d0/dd4/a19000.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
+    [ "OnCheck", "d0/dd4/a19000.html#a2695b1fee353be7340f319c632a43efc", null ]
 ];

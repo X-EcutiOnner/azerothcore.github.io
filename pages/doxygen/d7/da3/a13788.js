@@ -1,6 +1,7 @@
 var a13788 =
 [
-    [ "HandleSendEvent", "d7/da3/a13788.html#af62c176d53589228d5e0077c9fc268a3", null ],
-    [ "PrepareSpellScript", "d7/da3/a13788.html#acea8e256f267dd496e5f573e982dba5f", null ],
-    [ "Register", "d7/da3/a13788.html#a0827e177a8268994bb4e63f07993a354", null ]
+    [ "OnRemove", "d7/da3/a13788.html#a2438d8c85ff2a446572286b0d058ecf1", null ],
+    [ "PrepareAuraScript", "d7/da3/a13788.html#ade353aafb960cabdb615718f41f485e8", null ],
+    [ "Register", "d7/da3/a13788.html#af1c312778a13f7fe8d174247f69258ac", null ],
+    [ "Validate", "d7/da3/a13788.html#afd75cdeb9430833fa6a59d7913c86a97", null ]
 ];

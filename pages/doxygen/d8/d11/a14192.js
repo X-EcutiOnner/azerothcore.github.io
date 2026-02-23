@@ -1,6 +1,6 @@
 var a14192 =
 [
-    [ "npc_eagle_trash_aggro_trigger", "d8/d11/a14192.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
-    [ "MoveInLineOfSight", "d8/d11/a14192.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
-    [ "_instance", "d8/d11/a14192.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "d9/d3a/a14196.html", "d9/d3a/a14196" ],
+    [ "npc_lady_sylvanas_windrunner_bfu", "d8/d11/a14192.html#a77e98bc345f7d27f145d4b29c4deb58e", null ],
+    [ "GetAI", "d8/d11/a14192.html#a94fdd0778818fcc6a8b818d38dde6f75", null ]
 ];

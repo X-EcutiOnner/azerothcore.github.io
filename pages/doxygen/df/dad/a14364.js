@@ -1,6 +1,8 @@
 var a14364 =
 [
-    [ "OnRemove", "df/dad/a14364.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
-    [ "PrepareAuraScript", "df/dad/a14364.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
-    [ "Register", "df/dad/a14364.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
+    [ "HandleScriptEffect", "df/dad/a14364.html#af7f22d3b7ba136ec2af88656b9805168", null ],
+    [ "PrepareSpellScript", "df/dad/a14364.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3", null ],
+    [ "Register", "df/dad/a14364.html#a6a6d95c6d33bc8d90a2022e1ce23c635", null ],
+    [ "Validate", "df/dad/a14364.html#a94a5697e9d8a068fe6ae34b8aaf974fd", null ],
+    [ "spells", "df/dad/a14364.html#a902fc17746af82a4c58fe599c9616ce2", null ]
 ];

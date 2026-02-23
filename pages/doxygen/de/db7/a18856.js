@@ -1,6 +1,5 @@
 var a18856 =
 [
-    [ "npc_rotting_frost_giantAI", "d0/db9/a18860.html", "d0/db9/a18860" ],
-    [ "npc_rotting_frost_giant", "de/db7/a18856.html#ad4440216e11a00d97af43dc5f3957e95", null ],
-    [ "GetAI", "de/db7/a18856.html#aabc388b3690f2d03e903c7f480d52842", null ]
+    [ "achievement_been_waiting_long_time", "de/db7/a18856.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
+    [ "OnCheck", "de/db7/a18856.html#a5e72304220d3a649d2182cb287215da6", null ]
 ];

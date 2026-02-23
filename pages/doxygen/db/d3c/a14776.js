@@ -1,6 +1,6 @@
 var a14776 =
 [
-    [ "HandleAfterEffectApply", "db/d3c/a14776.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
-    [ "PrepareAuraScript", "db/d3c/a14776.html#a917379c33352721b5b76c1d9dac0c025", null ],
-    [ "Register", "db/d3c/a14776.html#a846d79564d76d6000c2276045775d7da", null ]
+    [ "gameobjectId", "db/d3c/a14776.html#a5cebf652fccc66cb5f98968036405d14", null ],
+    [ "spawnIndex", "db/d3c/a14776.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
+    [ "timestamp", "db/d3c/a14776.html#a0c49f62b35e906637890fee896c74951", null ]
 ];

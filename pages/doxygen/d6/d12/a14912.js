@@ -1,18 +1,8 @@
 var a14912 =
 [
-    [ "boss_archimonde", "d6/d12/a14912.html#a25e52499f80d4c3edb4dd5cf02b95d18", null ],
-    [ "DoAction", "d6/d12/a14912.html#aba420f926ccdfc6feeb16a0e6d67267f", null ],
-    [ "DoCastDoomFire", "d6/d12/a14912.html#a409cad381c6562f44fcf8f66a5965ec4", null ],
-    [ "EnterEvadeMode", "d6/d12/a14912.html#aac09090d17c336e9935cfce7ff1c8d60", null ],
-    [ "JustEngagedWith", "d6/d12/a14912.html#a31c526a5e72c4244df101918388c777c", null ],
-    [ "JustSummoned", "d6/d12/a14912.html#a6db990f64d884f1290c77b8ec73b8fb0", null ],
-    [ "KilledUnit", "d6/d12/a14912.html#a341ab97e59cfe989572fdcceff434e4e", null ],
-    [ "Reset", "d6/d12/a14912.html#a905918f9fc654c4c1fa1aa99980d39e6", null ],
-    [ "SetGUID", "d6/d12/a14912.html#ac4246d0fd80ed0edfd39b2008a97eeca", null ],
-    [ "UnleashSoulCharge", "d6/d12/a14912.html#a93f93fe116c75a24dc15bb521b038a27", null ],
-    [ "_availableAuras", "d6/d12/a14912.html#a552869a0fd5141094a021e3aaaada051", null ],
-    [ "_availableSpells", "d6/d12/a14912.html#a388a8bafb4407e371a58d3a7d090c754", null ],
-    [ "_enraged", "d6/d12/a14912.html#a1e295ff6ae857c7a022acf967afd0de0", null ],
-    [ "_isChanneling", "d6/d12/a14912.html#ad967688caad8a6c7530bfd4709aecb06", null ],
-    [ "_wispCount", "d6/d12/a14912.html#aa2ec2fcd92ed81f76fb238af9dbad53e", null ]
+    [ "OnApply", "d6/d12/a14912.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
+    [ "OnRemove", "d6/d12/a14912.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
+    [ "PrepareAuraScript", "d6/d12/a14912.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
+    [ "Register", "d6/d12/a14912.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
+    [ "Validate", "d6/d12/a14912.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
 ];

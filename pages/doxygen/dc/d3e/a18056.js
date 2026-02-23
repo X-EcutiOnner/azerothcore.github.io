@@ -1,7 +1,8 @@
 var a18056 =
 [
-    [ "npc_coldflameAI", "dc/d3e/a18056.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
-    [ "IsSummonedBy", "dc/d3e/a18056.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
-    [ "UpdateAI", "dc/d3e/a18056.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
-    [ "events", "dc/d3e/a18056.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
+    [ "HandlePeriodic", "dc/d3e/a18056.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "dc/d3e/a18056.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "dc/d3e/a18056.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "dc/d3e/a18056.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "dc/d3e/a18056.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

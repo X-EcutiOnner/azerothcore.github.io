@@ -1,7 +1,5 @@
 var a28284 =
 [
-    [ "bit_index", "dc/d26/a28284.html#a1e5cb3fc001169a204507a084435a211", null ],
-    [ "ID", "dc/d26/a28284.html#a63fe7a87e019780d20e86e48efb02eac", null ],
-    [ "nameFemale", "dc/d26/a28284.html#ad0380caf2526715faaddc9330062d90a", null ],
-    [ "nameMale", "dc/d26/a28284.html#a74a767731c96d3d815ddde5a06f68599", null ]
+    [ "item_disgusting_jar", "dc/d26/a28284.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
+    [ "OnExpire", "dc/d26/a28284.html#a4f6967035a4d247914a6034fcebac5c5", null ]
 ];

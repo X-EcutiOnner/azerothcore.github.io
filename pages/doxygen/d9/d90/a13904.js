@@ -1,6 +1,6 @@
 var a13904 =
 [
-    [ "npc_grand_magister_rommathAI", "d3/d37/a13908.html", "d3/d37/a13908" ],
-    [ "npc_grand_magister_rommath", "d9/d90/a13904.html#a63b9786bfbd9c7b462b0549e2f6941ea", null ],
-    [ "GetAI", "d9/d90/a13904.html#abd64eff4712e8209e39e938b1813250c", null ]
+    [ "instance_sunwell_plateau_InstanceMapScript", "d9/d90/a13904.html#aae99b35ff990fd7486d5b70693b6729a", null ],
+    [ "Load", "d9/d90/a13904.html#a5398f0aa153f7c4eaea390e33c400b02", null ],
+    [ "OnPlayerEnter", "d9/d90/a13904.html#ab45827eaa92aea4746378b3c11fda219", null ]
 ];

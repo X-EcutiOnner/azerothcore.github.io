@@ -1,8 +1,7 @@
 var a08800 =
 [
-    [ "CleanDamage", "db/dbe/a08800.html#ad25ab816a679e323c07873efbc1c2f20", null ],
-    [ "absorbed_damage", "db/dbe/a08800.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
-    [ "attackType", "db/dbe/a08800.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
-    [ "hitOutCome", "db/dbe/a08800.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
-    [ "mitigated_damage", "db/dbe/a08800.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
+    [ "ItemPosCount", "db/dbe/a08800.html#a43458da1fc31d827b6de726754f7901e", null ],
+    [ "isContainedIn", "db/dbe/a08800.html#a6977c544a2d39ca5872b75f27517974f", null ],
+    [ "count", "db/dbe/a08800.html#a4e09f94aa0808f76b2d5ff23691abb27", null ],
+    [ "pos", "db/dbe/a08800.html#ad8954f1a6323316510cfe0f332ee495f", null ]
 ];

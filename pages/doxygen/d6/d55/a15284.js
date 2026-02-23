@@ -1,7 +1,9 @@
 var a15284 =
 [
-    [ "boss_kurinnaxx", "d6/d55/a15284.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
-    [ "InitializeAI", "d6/d55/a15284.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
-    [ "JustDied", "d6/d55/a15284.html#adb749c8737888a099ad7a3d58292a612", null ],
-    [ "JustEngagedWith", "d6/d55/a15284.html#a451cd7ee80b0428a199c33012562bdb3", null ]
+    [ "boss_chrono_lord_deja", "d6/d55/a15284.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
+    [ "JustDied", "d6/d55/a15284.html#a68eb4941364f9fac121aa3d610d45f48", null ],
+    [ "JustEngagedWith", "d6/d55/a15284.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
+    [ "KilledUnit", "d6/d55/a15284.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
+    [ "MoveInLineOfSight", "d6/d55/a15284.html#a535c0c157c60804188ad8c4413c277dd", null ],
+    [ "OwnTalk", "d6/d55/a15284.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
 ];

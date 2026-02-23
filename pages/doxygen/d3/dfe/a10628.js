@@ -1,6 +1,6 @@
 var a10628 =
 [
-    [ "PlayedTimeClient", "d3/dfe/a10628.html#a1c82d4d153606da9887d64599f319883", null ],
-    [ "Read", "d3/dfe/a10628.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3", null ],
-    [ "TriggerScriptEvent", "d3/dfe/a10628.html#a092b32f76df529a4f1284d7231b8fc6b", null ]
+    [ "WorldMapScript", "d3/dfe/a10628.html#a49300e796ceb6ab1a40ed9cbb89a9e4d", null ],
+    [ "checkValidity", "d3/dfe/a10628.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
+    [ "isAfterLoadScript", "d3/dfe/a10628.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
 ];

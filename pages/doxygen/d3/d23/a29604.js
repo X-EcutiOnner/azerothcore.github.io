@@ -1,9 +1,9 @@
 var a29604 =
 [
-    [ "npc_fireworkAI", "d3/d23/a29604.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
-    [ "FindNearestLauncher", "d3/d23/a29604.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
-    [ "GetFireworkGameObjectId", "d3/d23/a29604.html#ae17b4abbbb2088799cec188457677d44", null ],
-    [ "GetFireworkSpell", "d3/d23/a29604.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
-    [ "isCluster", "d3/d23/a29604.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
-    [ "Reset", "d3/d23/a29604.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
+    [ "SetUp", "d3/d23/a29604.html#a20b3a8161766a47ae37349f02cbe5b90", null ],
+    [ "TearDown", "d3/d23/a29604.html#a9b41e4a95a6ca160c70272dfb90b5f8a", null ],
+    [ "creatureQuestMap", "d3/d23/a29604.html#ae8b815994792f237cf6e1803b9eaa7f7", null ],
+    [ "TEST_CREATURE_ID", "d3/d23/a29604.html#a80a79959d4b5520f7acf671677a671e9", null ],
+    [ "TEST_POOL_ID", "d3/d23/a29604.html#aa81759d0539b72ad3cdda7d2231f8e63", null ],
+    [ "TEST_QUEST_ID", "d3/d23/a29604.html#a26e68107bb625d0c5b6281c7df9199be", null ]
 ];

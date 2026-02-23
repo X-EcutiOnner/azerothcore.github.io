@@ -1,10 +1,11 @@
 var a23720 =
 [
-    [ "boss_kelidan_the_breaker", "d6/dea/a23720.html#a6774e4a0315b30266f6c55da608cd193", null ],
-    [ "ApplyImmunities", "d6/dea/a23720.html#adc84fae23d68c0c75ac21c3f3b32973a", null ],
-    [ "DoAction", "d6/dea/a23720.html#a3fa0117ce1079f651025116684f5e2f4", null ],
-    [ "JustDied", "d6/dea/a23720.html#a4d3f0171b7889a96f19999b28e549866", null ],
-    [ "JustEngagedWith", "d6/dea/a23720.html#a12eb8fb73353042e4bb4ea31cbdc1c3c", null ],
-    [ "KilledUnit", "d6/dea/a23720.html#a1c1613b165c25025a2a11bf3c38d6747", null ],
-    [ "Reset", "d6/dea/a23720.html#a46c592f6c46ea568ad368702e1640e06", null ]
+    [ "boss_high_astromancer_solarian", "d6/dea/a23720.html#a2db48cc179539f81b55188de08a7e180", null ],
+    [ "AttackStart", "d6/dea/a23720.html#acaf94134aef553447e766a5e431c8b83", null ],
+    [ "JustDied", "d6/dea/a23720.html#a510eb2e4f0770670d6767bc2545375b7", null ],
+    [ "JustEngagedWith", "d6/dea/a23720.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
+    [ "JustSummoned", "d6/dea/a23720.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
+    [ "KilledUnit", "d6/dea/a23720.html#a561a78193615575b7e43e0f21387f1b8", null ],
+    [ "Reset", "d6/dea/a23720.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
+    [ "UpdateAI", "d6/dea/a23720.html#a07a76c34a978c31212390cf10ed3e382", null ]
 ];

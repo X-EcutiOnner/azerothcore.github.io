@@ -1,5 +1,8 @@
 var a28592 =
 [
-    [ "id", "dd/def/a28592.html#a4667f55651f20c85f5b3da9384bac078", null ],
-    [ "QuestRewFactionValue", "dd/def/a28592.html#a9a42feddeef8e054cd52b72cfc812867", null ]
+    [ "npc_minion_spawner", "dd/def/a28592.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
+    [ "CanSpawnRareMinion", "dd/def/a28592.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
+    [ "JustSummoned", "dd/def/a28592.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
+    [ "Reset", "dd/def/a28592.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
+    [ "UpdateAI", "dd/def/a28592.html#a24f93f1314bb73edb369e188eda83104", null ]
 ];

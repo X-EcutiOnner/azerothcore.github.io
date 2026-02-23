@@ -1,6 +1,6 @@
 var a23252 =
 [
-    [ "PrepareAuraScript", "d3/d93/a23252.html#a0dca39c324a5431d4861c1f20a34355e", null ],
-    [ "Register", "d3/d93/a23252.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
-    [ "Update", "d3/d93/a23252.html#a6201eaa3b961e838a535b80679996ada", null ]
+    [ "HandleScript", "d3/d93/a23252.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
+    [ "PrepareSpellScript", "d3/d93/a23252.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
+    [ "Register", "d3/d93/a23252.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
 ];

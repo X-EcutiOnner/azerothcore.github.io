@@ -1,6 +1,9 @@
 var a24156 =
 [
-    [ "npc_nether_drakeAI", "d9/d32/a24160.html", "d9/d32/a24160" ],
-    [ "npc_nether_drake", "de/df2/a24156.html#a253ec3c91857b899ea9e2c824870b760", null ],
-    [ "GetAI", "de/df2/a24156.html#a58d269e2c73cae07bb507162b742fe8f", null ]
+    [ "npc_enraged_spiritAI", "de/df2/a24156.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
+    [ "JustDied", "de/df2/a24156.html#a9322622f679dbc311bd8983f5037bd2e", null ],
+    [ "JustEngagedWith", "de/df2/a24156.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
+    [ "Reset", "de/df2/a24156.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
+    [ "UpdateAI", "de/df2/a24156.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
+    [ "_scheduler", "de/df2/a24156.html#afa6825696b0622849f877b392df4b326", null ]
 ];

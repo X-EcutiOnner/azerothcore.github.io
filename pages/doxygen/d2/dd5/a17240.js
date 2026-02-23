@@ -1,7 +1,6 @@
 var a17240 =
 [
-    [ "UtherBatteredHiltEvent", "d2/dd5/a17240.html#a7bb34b75a3e371260a231aea72f75b40", null ],
-    [ "Execute", "d2/dd5/a17240.html#ad2eb37877155b6dbc9916338e30d0306", null ],
-    [ "_eventId", "d2/dd5/a17240.html#a5045e057b2c5d468aa579751d2c799b8", null ],
-    [ "_owner", "d2/dd5/a17240.html#a588974708f4a48f5a7b097a63a0c0899", null ]
+    [ "entry", "d2/dd5/a17240.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "d2/dd5/a17240.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "d2/dd5/a17240.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

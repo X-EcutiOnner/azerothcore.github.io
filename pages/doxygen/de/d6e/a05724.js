@@ -1,9 +1,6 @@
 var a05724 =
 [
-    [ "AccountFlags", "de/d6e/a05724.html#aa8e111f748d165f854b2deff5a81577f", null ],
-    [ "cmd", "de/d6e/a05724.html#a5846630b9df94b9f4784e59e7f320257", null ],
-    [ "error", "de/d6e/a05724.html#a5cbbda99be5cd0549dd43fc0e546007e", null ],
-    [ "LoginFlags", "de/d6e/a05724.html#adb807963195c0abbb840aca64499f630", null ],
-    [ "M2", "de/d6e/a05724.html#a2199b33bc93fb6a8add5ba36eab0514e", null ],
-    [ "SurveyId", "de/d6e/a05724.html#ad05c428ccd8fbdce40dc4f337de19fb8", null ]
+    [ "~AsyncProcessResult", "de/d6e/a05724.html#a16f0ce13c7401ce07e91b349c91365e0", null ],
+    [ "GetFutureResult", "de/d6e/a05724.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8", null ],
+    [ "Terminate", "de/d6e/a05724.html#af3951c38d2b368c15c0ac7d415b96ebd", null ]
 ];

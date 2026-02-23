@@ -1,6 +1,12 @@
 var a23100 =
 [
-    [ "boss_essence_of_desireAI", "d6/d9d/a23104.html", "d6/d9d/a23104" ],
-    [ "boss_essence_of_desire", "d7/db5/a23100.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "d7/db5/a23100.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "boss_leotheras_the_blind", "d7/db5/a23100.html#a9229850f996812366a20508931965a87", null ],
+    [ "AttackStart", "d7/db5/a23100.html#a678ed3eba7d53976fd6efa9051d11124", null ],
+    [ "DemonTime", "d7/db5/a23100.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
+    [ "DoAction", "d7/db5/a23100.html#a4f3fd791f12b3f176ce109237c516889", null ],
+    [ "ElfTime", "d7/db5/a23100.html#a52f101530de8883231faa7f5fe689691", null ],
+    [ "MoveToTargetIfOutOfRange", "d7/db5/a23100.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
+    [ "Reset", "d7/db5/a23100.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
+    [ "UpdateAI", "d7/db5/a23100.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
+    [ "_recentlySpoken", "d7/db5/a23100.html#ad5231f13a247247dd7095b16c381fc7c", null ]
 ];

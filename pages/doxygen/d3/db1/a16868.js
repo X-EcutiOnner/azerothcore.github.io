@@ -1,6 +1,7 @@
 var a16868 =
 [
-    [ "boss_eydisAI", "d6/d86/a16872.html", "d6/d86/a16872" ],
-    [ "boss_eydis", "d3/db1/a16868.html#aa555f80882499bc4627e622fbb48b2a4", null ],
-    [ "GetAI", "d3/db1/a16868.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
+    [ "npc_toc_mageAI", "d3/db1/a16868.html#a188831088c892f68cef7498468b24899", null ],
+    [ "myCanCast", "d3/db1/a16868.html#aaf7fd7b143a4eb410465c7cb34c32d2f", null ],
+    [ "UpdateAI", "d3/db1/a16868.html#a0f4393341a6c565aef2c0b79a39c0699", null ],
+    [ "events", "d3/db1/a16868.html#ab1910ce98f3d1b14e45acba22782d536", null ]
 ];

@@ -1,6 +1,7 @@
 var a18312 =
 [
-    [ "UnchainedMagicTargetSelector", "df/d0c/a18312.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
-    [ "operator()", "df/d0c/a18312.html#af28ce8f46154ae6152e9025775a7f84f", null ],
-    [ "_removeHealers", "df/d0c/a18312.html#a35a7981ce5495cba8b3a5391e4031431", null ]
+    [ "HandleExtraEffect", "df/d0c/a18312.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "df/d0c/a18312.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "df/d0c/a18312.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "df/d0c/a18312.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

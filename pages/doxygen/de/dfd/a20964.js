@@ -1,6 +1,6 @@
 var a20964 =
 [
-    [ "PrepareSpellScript", "de/dfd/a20964.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
-    [ "Register", "de/dfd/a20964.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
-    [ "SelectTarget", "de/dfd/a20964.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
+    [ "instance_ulduar_InstanceMapScript", "db/d4d/a20968.html", "db/d4d/a20968" ],
+    [ "instance_ulduar", "de/dfd/a20964.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
+    [ "GetInstanceScript", "de/dfd/a20964.html#ad15f003a90e656910fc32d661ca9baba", null ]
 ];

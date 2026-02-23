@@ -1,6 +1,5 @@
 var a17396 =
 [
-    [ "HandleEffectPeriodic", "d6/da9/a17396.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
-    [ "PrepareAuraScript", "d6/da9/a17396.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
-    [ "Register", "d6/da9/a17396.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
+    [ "at_hor_battered_hilt_throw", "d6/da9/a17396.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
+    [ "OnTrigger", "d6/da9/a17396.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
 ];

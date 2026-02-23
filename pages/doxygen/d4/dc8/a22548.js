@@ -1,7 +1,6 @@
 var a22548 =
 [
-    [ "npc_wg_demolisher_engineer", "d4/dc8/a22548.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "d4/dc8/a22548.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "d4/dc8/a22548.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "d4/dc8/a22548.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "instance_mana_tombs_InstanceMapScript", "d3/d3a/a22552.html", "d3/d3a/a22552" ],
+    [ "instance_mana_tombs", "d4/dc8/a22548.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
+    [ "GetInstanceScript", "d4/dc8/a22548.html#a26e4dad0957df886bc446396ab48ceda", null ]
 ];

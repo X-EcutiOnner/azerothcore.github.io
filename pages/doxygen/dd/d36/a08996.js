@@ -1,10 +1,7 @@
 var a08996 =
 [
-    [ "PetLevelInfo", "dd/d36/a08996.html#ad8e757abeae500063e963ffef5469809", null ],
-    [ "armor", "dd/d36/a08996.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
-    [ "health", "dd/d36/a08996.html#a322dcab3af8f98726aa6addf38e8891b", null ],
-    [ "mana", "dd/d36/a08996.html#a27352e73d6ed3945e398e0634dee1e96", null ],
-    [ "max_dmg", "dd/d36/a08996.html#a092f2600f64f2af885142b2e96d1fe64", null ],
-    [ "min_dmg", "dd/d36/a08996.html#a299d1c7f4c28893e09de79cd816afa95", null ],
-    [ "stats", "dd/d36/a08996.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
+    [ "VehicleDespawnEvent", "dd/d36/a08996.html#a53c96e023186cfb36084814b69e62d15", null ],
+    [ "Execute", "dd/d36/a08996.html#a39284ca2343e54cec915ac3ecf51f4a8", null ],
+    [ "_duration", "dd/d36/a08996.html#a9ac4ab83b785691285fb20364925b7ca", null ],
+    [ "_self", "dd/d36/a08996.html#a0d472ea9a1a7b615f01c73d20cfc6573", null ]
 ];

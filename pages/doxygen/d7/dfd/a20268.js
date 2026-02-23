@@ -1,6 +1,6 @@
 var a20268 =
 [
-    [ "boss_freya_healthy_sporeAI", "d0/de1/a20272.html", "d0/de1/a20272" ],
-    [ "boss_freya_healthy_spore", "d7/dfd/a20268.html#a16633136393061aa98c7a98f535d421e", null ],
-    [ "GetAI", "d7/dfd/a20268.html#ae76eb3b334f82c536f71fdcfc86e4382", null ]
+    [ "achievement_flame_leviathan_towers", "d7/dfd/a20268.html#a491d66bdd373b6044e406126719ef910", null ],
+    [ "OnCheck", "d7/dfd/a20268.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
+    [ "_towerCount", "d7/dfd/a20268.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
 ];

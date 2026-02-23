@@ -1,15 +1,16 @@
 var a20092 =
 [
-    [ "npc_mimirons_infernoAI", "d8/d89/a20092.html#ae412b49c76e76b322e779665d895080f", null ],
-    [ "AttackStart", "d8/d89/a20092.html#a5676eb2a790be80e539dd71a3b8e140a", null ],
-    [ "DoAction", "d8/d89/a20092.html#a499301a57e57a54aa8f1249c12247be7", null ],
-    [ "JustSummoned", "d8/d89/a20092.html#a586f15a02d77ed6831eb787e2bdf477c", null ],
-    [ "MoveInLineOfSight", "d8/d89/a20092.html#a6ae48c92d9fec13d66c445a2176b58eb", null ],
-    [ "Reset", "d8/d89/a20092.html#adf35df754ce212e9937f4b7833b81bf6", null ],
-    [ "SummonedCreatureDespawn", "d8/d89/a20092.html#a8019ef0c505c6b71a44da13ed0dd081b", null ],
-    [ "UpdateAI", "d8/d89/a20092.html#a661199c38d5bce921632191132767c32", null ],
-    [ "WaypointReached", "d8/d89/a20092.html#a9619ab9bb68a3da71a6c78e4092632f4", null ],
-    [ "_recastTimer", "d8/d89/a20092.html#ad6f7e7f6a745ba9b7b860030a9a22e9a", null ],
-    [ "_spellTimer", "d8/d89/a20092.html#adc8ed31e1d0d2aac5bd75391b21b7bfb", null ],
-    [ "summons", "d8/d89/a20092.html#ad3a5853ee86922f5854ddf757dada8e9", null ]
+    [ "boss_steelbreaker", "d8/d89/a20092.html#a724e315f9508b02cadc5560f6525afc7", null ],
+    [ "DoAction", "d8/d89/a20092.html#a2f945dac566b3d24009b486cb4e37cd3", null ],
+    [ "JustDied", "d8/d89/a20092.html#af69b423bd844f946dede44e136344077", null ],
+    [ "JustEngagedWith", "d8/d89/a20092.html#afa14e6571e7772d9c978d45a94a40afa", null ],
+    [ "JustReachedHome", "d8/d89/a20092.html#ad73d9abcfdf9a2fcf3345a024db1f653", null ],
+    [ "KilledUnit", "d8/d89/a20092.html#a153f72f75fc0758591b418fe82c2628d", null ],
+    [ "Reset", "d8/d89/a20092.html#a66e5f9c30d30ed7dc42b8ae3ef4f46b6", null ],
+    [ "SpellHit", "d8/d89/a20092.html#adf32e50b2fc6f8d373933cc0295c7d54", null ],
+    [ "UpdateAI", "d8/d89/a20092.html#ad96ac1dcde103ddf71b2ded15e757834", null ],
+    [ "UpdatePhase", "d8/d89/a20092.html#a42ab7be0d80ece19dd726ed29d425183", null ],
+    [ "_phase", "d8/d89/a20092.html#a1b94dfb3b76278475aae50720a2e85c0", null ],
+    [ "events", "d8/d89/a20092.html#add48973c02460691e0f32a3ae3897836", null ],
+    [ "pInstance", "d8/d89/a20092.html#acf1e2229be9f931d0825ce252116b499", null ]
 ];

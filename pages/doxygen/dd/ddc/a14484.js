@@ -1,6 +1,6 @@
 var a14484 =
 [
-    [ "HandleEffectApply", "dd/ddc/a14484.html#a06d50e8c0f7bfd1b055d8a3f5c14d357", null ],
-    [ "PrepareAuraScript", "dd/ddc/a14484.html#a5f8abd33848c554f9a530ad23c86a7a0", null ],
-    [ "Register", "dd/ddc/a14484.html#a2b39daf6fe325cfa909b964da62c2571", null ]
+    [ "HandleOnHit", "dd/ddc/a14484.html#a76b09288d14d399735250607e2105eb3", null ],
+    [ "PrepareSpellScript", "dd/ddc/a14484.html#a2270ce546ae286ffa701d094df591aa2", null ],
+    [ "Register", "dd/ddc/a14484.html#a710f2a60bf6ae00909d279b98ac6b7d6", null ]
 ];

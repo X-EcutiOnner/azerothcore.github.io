@@ -1,12 +1,14 @@
 var a16984 =
 [
-    [ "boss_trollgoreAI", "db/d8e/a16984.html#a958deb54a8460cc2dc61958bd9acb338", null ],
-    [ "CheckInRoom", "db/d8e/a16984.html#a6428a1c4fc7d3da4e016ed17ea3684df", null ],
-    [ "JustDied", "db/d8e/a16984.html#a32a309084b6b7c4b4e5db10d9c8a95bd", null ],
-    [ "JustEngagedWith", "db/d8e/a16984.html#a25414dc1b13aa1372e397c5cb11afdaa", null ],
-    [ "JustSummoned", "db/d8e/a16984.html#abd2199877e0e1465a7e5783b80ad2a44", null ],
-    [ "KilledUnit", "db/d8e/a16984.html#aa65d03d8879c6177753b8316c1343ad4", null ],
-    [ "Reset", "db/d8e/a16984.html#a4fe22aebe6e814196ac1914d158a62de", null ],
-    [ "UpdateAI", "db/d8e/a16984.html#a3fa3247442edb81136647f7fdf5834cf", null ],
-    [ "events2", "db/d8e/a16984.html#a94e8c9616ac332f33f2b976c074092af", null ]
+    [ "npc_snobold_vassalAI", "db/d8e/a16984.html#a2ecc5e8289252b2936f36de9921294e0", null ],
+    [ "AttackStart", "db/d8e/a16984.html#a50afc82c80cede8dcf3240a116463411", null ],
+    [ "DoAction", "db/d8e/a16984.html#a8beac97ea5f7c797d2ae52e2f3c3be50", null ],
+    [ "JustDied", "db/d8e/a16984.html#aef408460584a17f15a84e8a6435c6348", null ],
+    [ "JustEngagedWith", "db/d8e/a16984.html#a60c1704617e99239d60d24d6b7513c1a", null ],
+    [ "MoveInLineOfSight", "db/d8e/a16984.html#aae75a4e69e27c1e4778a7f76caff04ba", null ],
+    [ "Reset", "db/d8e/a16984.html#af794f46b1a7af97b52683954b556c27d", null ],
+    [ "UpdateAI", "db/d8e/a16984.html#ac1d282da6f2d9133619a212a349c777f", null ],
+    [ "events", "db/d8e/a16984.html#adfb6df0ee8ab19b58de24da8d4e6d9df", null ],
+    [ "pInstance", "db/d8e/a16984.html#afc140e6f9fc1ec78914aecc5150345b0", null ],
+    [ "TargetGUID", "db/d8e/a16984.html#a0d36e4903448c5a03115df0dff3480c8", null ]
 ];

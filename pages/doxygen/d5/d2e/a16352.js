@@ -1,13 +1,7 @@
 var a16352 =
 [
-    [ "boss_twilight_halionAI", "d5/d2e/a16352.html#aab05bab963d603c3cb70edfd62a84b49", null ],
-    [ "DamageTaken", "d5/d2e/a16352.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
-    [ "EnterEvadeMode", "d5/d2e/a16352.html#af7076251fc1fad1dc259d747934910e2", null ],
-    [ "JustDied", "d5/d2e/a16352.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
-    [ "JustEngagedWith", "d5/d2e/a16352.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
-    [ "KilledUnit", "d5/d2e/a16352.html#ada770d51f63c841c500ffc3197a7a89f", null ],
-    [ "Reset", "d5/d2e/a16352.html#a9c945841926d5b08f37c6a720dd25a14", null ],
-    [ "UpdateAI", "d5/d2e/a16352.html#a6ab1d215ed077883781b0c0188282c5e", null ],
-    [ "_events", "d5/d2e/a16352.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
-    [ "_instance", "d5/d2e/a16352.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
+    [ "HandleEffectRemove", "d5/d2e/a16352.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
+    [ "PrepareAuraScript", "d5/d2e/a16352.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
+    [ "Register", "d5/d2e/a16352.html#a7c0533650e772713233ea45b0264cbff", null ],
+    [ "Validate", "d5/d2e/a16352.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
 ];

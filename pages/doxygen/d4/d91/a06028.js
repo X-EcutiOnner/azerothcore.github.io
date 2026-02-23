@@ -1,10 +1,24 @@
 var a06028 =
 [
-    [ "Storage", "d4/d91/a06028.html#a49a70316b169e50ad64ff51d6a568bbc", null ],
-    [ "AchievementCriteriaDataSet", "d4/d91/a06028.html#a5055f8710c48379035e132e8f20577dc", null ],
-    [ "Add", "d4/d91/a06028.html#a297f02665679b19961998fb529d064e4", null ],
-    [ "Meets", "d4/d91/a06028.html#a8edbe32d695308633fa7abfc91d2a1a1", null ],
-    [ "SetCriteriaId", "d4/d91/a06028.html#addedfd39d9948923a2704b51eaacecbc", null ],
-    [ "_criteria_id", "d4/d91/a06028.html#a0abc37729d2f3c400bb7cfde212f51c0", null ],
-    [ "_storage", "d4/d91/a06028.html#a6abf189d95226b370cfcfe7b628ed7c0", null ]
+    [ "QueryCallbackData", "d7/d13/a06020.html", "d7/d13/a06020" ],
+    [ "QueryCallback", "d4/d91/a06028.html#a66ee303783486beec802351027c466e0", null ],
+    [ "QueryCallback", "d4/d91/a06028.html#ac3ff3ce98767a2df178586b28f753b1e", null ],
+    [ "QueryCallback", "d4/d91/a06028.html#a6dd1e7c0b80f6420d820629b1d4c7f83", null ],
+    [ "~QueryCallback", "d4/d91/a06028.html#a85c9655f50b29e696adc0498615498fe", null ],
+    [ "QueryCallback", "d4/d91/a06028.html#a18c36fe01e5bc1ffa92b1ddf9a1873e8", null ],
+    [ "InvokeIfReady", "d4/d91/a06028.html#a4fa575b3a905906cde2fe1c24362639e", null ],
+    [ "operator=", "d4/d91/a06028.html#a825e0907ca606c764e967696dd4397a8", null ],
+    [ "operator=", "d4/d91/a06028.html#aecac362ce15206aef0f544e9485a5bcd", null ],
+    [ "SetNextQuery", "d4/d91/a06028.html#a88ad1ca3946b0db8db4f7befca1d1b9e", null ],
+    [ "WithCallback", "d4/d91/a06028.html#a5e53829af90b6661ffcf0eefdb5c8f25", null ],
+    [ "WithChainingCallback", "d4/d91/a06028.html#ab96af2084492fb64756ab1d751da2283", null ],
+    [ "WithChainingPreparedCallback", "d4/d91/a06028.html#a9c098ed933e0fcd1f639c23dae546f8a", null ],
+    [ "WithPreparedCallback", "d4/d91/a06028.html#af881e4cbb2742817a4075d9d6deef26c", null ],
+    [ "ConstructActiveMember", "d4/d91/a06028.html#a63276ee687270e668e7c51876ced5fb1", null ],
+    [ "DestroyActiveMember", "d4/d91/a06028.html#aac0ba6a0017441eb25c4b294fde99186", null ],
+    [ "MoveFrom", "d4/d91/a06028.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa", null ],
+    [ "_callbacks", "d4/d91/a06028.html#a0c1c3dbbe82846340770760cf9c11aa4", null ],
+    [ "_isPrepared", "d4/d91/a06028.html#a4421543960dfbf550988ba4e7aa71a1f", null ],
+    [ "_prepared", "d4/d91/a06028.html#a2de8fa0d761f5e412b95209db02ceb11", null ],
+    [ "_string", "d4/d91/a06028.html#a127cf43567892ef69ac864862165308a", null ]
 ];

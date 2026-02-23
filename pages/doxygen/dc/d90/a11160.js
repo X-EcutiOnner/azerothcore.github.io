@@ -1,7 +1,8 @@
 var a11160 =
 [
-    [ "TimeQueryResponse", "dc/d90/a11160.html#abefcc15670a85ae023d24bfa5dc26a11", null ],
-    [ "Write", "dc/d90/a11160.html#a5fbfca11889684a0ab6b437eb30527cc", null ],
-    [ "ServerTime", "dc/d90/a11160.html#a9dfc03a60bb8a1f20eb850e3f8a00b88", null ],
-    [ "TimeResponse", "dc/d90/a11160.html#a4f528e5c08dc67a2c6f7826b21a771ed", null ]
+    [ "PauseMirrorTimer", "dc/d90/a11160.html#a05ccc52cb56d38cadb27fbde2563df45", null ],
+    [ "PauseMirrorTimer", "dc/d90/a11160.html#ad6e7a6eb3edadc235dc5bb97802381ac", null ],
+    [ "Write", "dc/d90/a11160.html#aea61f9e668173b65eac3b9f42ddd68a1", null ],
+    [ "Paused", "dc/d90/a11160.html#a7adf6dcd7e712792ea94bad77f8be232", null ],
+    [ "Timer", "dc/d90/a11160.html#a4a041bf772ef3f145bde6be9f8ecdc13", null ]
 ];

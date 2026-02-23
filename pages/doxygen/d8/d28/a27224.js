@@ -1,7 +1,11 @@
 var a27224 =
 [
-    [ "HandleScript", "d8/d28/a27224.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
-    [ "PrepareSpellScript", "d8/d28/a27224.html#ab363d596d2d1e030f0cc07126b40e921", null ],
-    [ "Register", "d8/d28/a27224.html#ab9041b811e80e220828d5db59b724682", null ],
-    [ "Validate", "d8/d28/a27224.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
+    [ "AddTarget", "d8/d28/a27224.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
+    [ "HandleApply", "d8/d28/a27224.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
+    [ "HandleEffectPeriodic", "d8/d28/a27224.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
+    [ "HandleRemove", "d8/d28/a27224.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
+    [ "PrepareAuraScript", "d8/d28/a27224.html#abd535f756fae06c9fae613d69ef4e353", null ],
+    [ "Register", "d8/d28/a27224.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
+    [ "Validate", "d8/d28/a27224.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
+    [ "_targets", "d8/d28/a27224.html#ad2467bc150cb08766c57cca23d4d9843", null ]
 ];

@@ -1,14 +1,13 @@
 var a13196 =
 [
-    [ "npc_death_knight_initiateAI", "da/d7b/a13196.html#aa03a128068072b85bf0926cdececaaf2", null ],
-    [ "DamageTaken", "da/d7b/a13196.html#ac83f7d28886eaf5fb44c3c6ce44a7acd", null ],
-    [ "GetData", "da/d7b/a13196.html#ac3216c0cf7284fd7a8d5ece153467b41", null ],
-    [ "Reset", "da/d7b/a13196.html#ad152856d614c8f4c900f77749ac55dd9", null ],
-    [ "SpellHit", "da/d7b/a13196.html#a308f2f29ec7f9277d102564ff6d39e32", null ],
-    [ "UpdateAI", "da/d7b/a13196.html#a6e67cda0b83578818a5e3b34ed9517cf", null ],
-    [ "_duelGUID", "da/d7b/a13196.html#a32dd4a91841f2e75c8bca109015fc56a", null ],
-    [ "_duelInProgress", "da/d7b/a13196.html#a3fdcf062b22c08b1dd616dad591a1021", null ],
-    [ "events", "da/d7b/a13196.html#aa1c6d513e04253d0b83522c9c1cc2ac8", null ],
-    [ "playerGUIDs", "da/d7b/a13196.html#ac12adec2cb751e2e41008954bbe20248", null ],
-    [ "timer", "da/d7b/a13196.html#ad22e8bc9e0d22a5ba164a60e438d98a7", null ]
+    [ "boss_crone", "da/d7b/a13196.html#a710bdf6fac05be54cf10e40cd661c837", null ],
+    [ "EnterEvadeMode", "da/d7b/a13196.html#a4dcdde0b699f445cfa6be7e0c7dbb8d0", null ],
+    [ "JustDied", "da/d7b/a13196.html#a545de2a25b48590d11896c41b6e94df0", null ],
+    [ "JustEngagedWith", "da/d7b/a13196.html#a9801cd39667d1a08770820bd17beac00", null ],
+    [ "JustReachedHome", "da/d7b/a13196.html#a59d40cda923cb8b72413b9d5f267f52a", null ],
+    [ "KilledUnit", "da/d7b/a13196.html#ae4d343636955589d740d1df4e21fba99", null ],
+    [ "Reset", "da/d7b/a13196.html#a247db7fc1329ef00e48fd9bd09fb27a1", null ],
+    [ "UpdateAI", "da/d7b/a13196.html#a8bd505acd55ca5292d29c96916a461e5", null ],
+    [ "_scheduler", "da/d7b/a13196.html#a7f9e2e45c0bbb60fc19dd54bc380f814", null ],
+    [ "instance", "da/d7b/a13196.html#a3795fe3185005693ed9bba49177bb35a", null ]
 ];

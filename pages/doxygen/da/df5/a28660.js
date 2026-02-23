@@ -1,10 +1,18 @@
 var a28660 =
 [
-    [ "attackSpeed", "da/df5/a28660.html#ab5242f7367e8799a556176178c72fc88", null ],
-    [ "creatureType", "da/df5/a28660.html#a3dff9074b85261932ed8a8a550c5395b", null ],
-    [ "flags1", "da/df5/a28660.html#a026745f2ce754d754858d69ee219b518", null ],
-    [ "ID", "da/df5/a28660.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
-    [ "modelID_A", "da/df5/a28660.html#a86dfa61342583d920b7d8496bce4b49d", null ],
-    [ "modelID_H", "da/df5/a28660.html#a1ee597d6fd02507b682874929645e01d", null ],
-    [ "stanceSpell", "da/df5/a28660.html#a08f54b905e905fb5a59e449f8c613c08", null ]
+    [ "DBCStorageBase", "da/df5/a28660.html#ad688053187f77a4a016274f7e46a76a3", null ],
+    [ "~DBCStorageBase", "da/df5/a28660.html#a39d4e4f05a50b952c2f952a452beb010", null ],
+    [ "GetFieldCount", "da/df5/a28660.html#a867375a50bcf7ec8c40b6ff7305a5e81", null ],
+    [ "GetFormat", "da/df5/a28660.html#ab333cdbf4cb7c6f527045902256fdf2f", null ],
+    [ "Load", "da/df5/a28660.html#a779bd666cbdc6587eab6a81e51e894d8", null ],
+    [ "Load", "da/df5/a28660.html#a14dfcde7f1c9c63a293638009b6ce16b", null ],
+    [ "LoadFromDB", "da/df5/a28660.html#abea56cf48880a3ae02d322b6283032b4", null ],
+    [ "LoadFromDB", "da/df5/a28660.html#a7156af21138d19a978b9551a2ca24708", null ],
+    [ "LoadStringsFrom", "da/df5/a28660.html#a912b4793ddc3e3ff3bc9279693373b79", null ],
+    [ "LoadStringsFrom", "da/df5/a28660.html#a0e3e3be24e2404fad11c322190e0e337", null ],
+    [ "_dataTable", "da/df5/a28660.html#ab13a1018e69345a3665f50d696bc7236", null ],
+    [ "_fieldCount", "da/df5/a28660.html#aa9bebefe18610016bef2c7d087d20abe", null ],
+    [ "_fileFormat", "da/df5/a28660.html#a3ac1c70817c9b7a351ea0e0d2e602351", null ],
+    [ "_indexTableSize", "da/df5/a28660.html#aa17bb429de3b9df9bb6ffcbc9bf9010b", null ],
+    [ "_stringPool", "da/df5/a28660.html#a8d571b107344a2dbde0b2cbcfa3c9b52", null ]
 ];

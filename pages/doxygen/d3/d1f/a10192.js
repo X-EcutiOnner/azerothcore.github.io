@@ -1,18 +1,15 @@
 var a10192 =
 [
-    [ "MoveSplineInitArgs", "d3/d1f/a10192.html#aa2b6c8940e7dc8bdd4ea6047a5ff1a68", null ],
-    [ "_checkPathBounds", "d3/d1f/a10192.html#a984db18cdbd061605a9d486b061dc7c0", null ],
-    [ "Validate", "d3/d1f/a10192.html#a17beca23a7a7eaa298debb5e9638daca", null ],
-    [ "facing", "d3/d1f/a10192.html#a8800fca5b50ab5123e92b28e921ec8b0", null ],
-    [ "flags", "d3/d1f/a10192.html#ac4271ed0434fc8e7f7a70e8869d81a0e", null ],
-    [ "HasVelocity", "d3/d1f/a10192.html#acad05815ff039fe1fea3d7cf56afb4f2", null ],
-    [ "initialOrientation", "d3/d1f/a10192.html#ab0b66cba791fc206be5b64310480cb88", null ],
-    [ "parabolic_amplitude", "d3/d1f/a10192.html#a133d1d0172fde0564a58a004cb354ed0", null ],
-    [ "path", "d3/d1f/a10192.html#a3857df1ab2d6dafef4a6d796e6593341", null ],
-    [ "path_Idx_offset", "d3/d1f/a10192.html#a6b6aaf43685649798db46d7b409d3e32", null ],
-    [ "splineId", "d3/d1f/a10192.html#ac8c84e828c23801a68524c9811f0336b", null ],
-    [ "time_perc", "d3/d1f/a10192.html#afe51d24d71b71e87015eeb4851418503", null ],
-    [ "TransformForTransport", "d3/d1f/a10192.html#ad9e8518e61b2f5f6ff8380518a6ad0cc", null ],
-    [ "velocity", "d3/d1f/a10192.html#af042454593bfd4dc888c1700af437933", null ],
-    [ "walk", "d3/d1f/a10192.html#aa58f23e75134e46a9ccbb2c563ecdc22", null ]
+    [ "HomeMovementGenerator", "d3/d1f/a10192.html#af52495a86296d288d2312bf8616108d0", null ],
+    [ "~HomeMovementGenerator", "d3/d1f/a10192.html#a9d889b5112f6c93a0707227fc65dd902", null ],
+    [ "_setTargetLocation", "d3/d1f/a10192.html#a7ac3be92303b77b640c7199ec65184dd", null ],
+    [ "DoFinalize", "d3/d1f/a10192.html#ab1ce2df22dba7759ca28a77532a17db1", null ],
+    [ "DoInitialize", "d3/d1f/a10192.html#aaa6f7b1aa064be00a726539830d6c30e", null ],
+    [ "DoReset", "d3/d1f/a10192.html#acfebf75bcd7cc62c1b0105eb0c5e9100", null ],
+    [ "DoUpdate", "d3/d1f/a10192.html#a4e3c1f79f8115312f22612a4b8c6fede", null ],
+    [ "GetMovementGeneratorType", "d3/d1f/a10192.html#aaa203c37c8259c8b54ad5ec70db484f1", null ],
+    [ "unitSpeedChanged", "d3/d1f/a10192.html#ac5078f624899e574a7b56b72e2824b9a", null ],
+    [ "_walk", "d3/d1f/a10192.html#a97f3cd9b1c5919ffe9ab979d8ad4e747", null ],
+    [ "arrived", "d3/d1f/a10192.html#aab9cd0057a625afef2d96feebd6428fb", null ],
+    [ "i_recalculateTravel", "d3/d1f/a10192.html#a77b40bcbada8ea43accae23ceb642628", null ]
 ];

@@ -1,5 +1,6 @@
 var a05352 =
 [
-    [ "_elements", "dd/d2f/a05352.html#adca71d306b9b5ee6b1dc0dc75cec1f2c", null ],
-    [ "_TailElements", "dd/d2f/a05352.html#a7d3b640a8d68089436c3792b3db088f1", null ]
+    [ "AppendToBack", "dd/d2f/a05352.html#a631dbb5771929cb72bd090e3ced49523", null ],
+    [ "GenerateRandomIV", "dd/d2f/a05352.html#afd4b9dd6223e8bd48810b88adc24a4b7", null ],
+    [ "SplitFromBack", "dd/d2f/a05352.html#ac27f3335f0fadf98dbd0bedebbfd8390", null ]
 ];

@@ -1,7 +1,6 @@
 var a22224 =
 [
-    [ "HandleScript", "dc/dcd/a22224.html#a359814a44d4fe58c9f6e7a31c75d7c49", null ],
-    [ "PrepareSpellScript", "dc/dcd/a22224.html#a4c6c0903180f3f18d6d9e715efc9f391", null ],
-    [ "Register", "dc/dcd/a22224.html#a713b82bc3d82a8324ce4dd090059f463", null ],
-    [ "Validate", "dc/dcd/a22224.html#ac8e362d9f76350da106e128138737c5c", null ]
+    [ "CheckCast", "dc/dcd/a22224.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
+    [ "PrepareSpellScript", "dc/dcd/a22224.html#ab4025d8a4acee4723dcca972bce01f45", null ],
+    [ "Register", "dc/dcd/a22224.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
 ];

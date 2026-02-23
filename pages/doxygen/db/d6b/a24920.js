@@ -1,9 +1,11 @@
 var a24920 =
 [
-    [ "Absorb", "db/d6b/a24920.html#a5d4b54569b16175ae84d3c94a1a6fcff", null ],
-    [ "CalculateAmount", "db/d6b/a24920.html#a3800ed0d14eacf39a3930c1b5e139f85", null ],
-    [ "Load", "db/d6b/a24920.html#a79e3012cb5c78851809d9f4c4d6c4487", null ],
-    [ "PrepareAuraScript", "db/d6b/a24920.html#a1bdab939c229c466ce6b71a7e00dedf9", null ],
-    [ "Register", "db/d6b/a24920.html#a47bd5ef93255a2d926874d6d70861374", null ],
-    [ "absorbPct", "db/d6b/a24920.html#a0c067ba7bbfd5cde53f1323b5c2f47cb", null ]
+    [ "spell_gen_relocaste_dest", "db/d6b/a24920.html#a5b839f3bd5571ff3b23701c0cd862568", null ],
+    [ "PrepareSpellScript", "db/d6b/a24920.html#a135638c19c130f43f7f3c3c14f1d1570", null ],
+    [ "Register", "db/d6b/a24920.html#a9fd403a48ac9cec79fdf4ac485bbaa6a", null ],
+    [ "RelocateDest", "db/d6b/a24920.html#a1efeb8d17fa6f7cfd9d098d7e97381d9", null ],
+    [ "_o", "db/d6b/a24920.html#a31ecfa99e580c8fb828c1a4ee988ac94", null ],
+    [ "_x", "db/d6b/a24920.html#aa0d6afcc49e6fa41b6ae37d16e0c25e5", null ],
+    [ "_y", "db/d6b/a24920.html#a0152bc47b5950546d9e9505512ed842b", null ],
+    [ "_z", "db/d6b/a24920.html#a40136ab0219829dfb0dcfe234aa73af7", null ]
 ];

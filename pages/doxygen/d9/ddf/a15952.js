@@ -1,7 +1,7 @@
 var a15952 =
 [
-    [ "npc_paoka_swiftmountainAI", "d9/ddf/a15952.html#a92a229f76de3bc46ae14910439db0004", null ],
-    [ "DoSpawnWyvern", "d9/ddf/a15952.html#a7997a3d398db82c205e3a8af77ac1684", null ],
-    [ "Reset", "d9/ddf/a15952.html#acae0427957aba04a54e6001823bc7eb4", null ],
-    [ "WaypointReached", "d9/ddf/a15952.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
+    [ "npc_giant_spotlightAI", "d9/ddf/a15952.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
+    [ "Reset", "d9/ddf/a15952.html#a79f6703107eed52a3aeae30393507c0f", null ],
+    [ "UpdateAI", "d9/ddf/a15952.html#a8567f936dd15933300497d5abe80a272", null ],
+    [ "events", "d9/ddf/a15952.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
 ];

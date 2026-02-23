@@ -1,7 +1,6 @@
 var a22084 =
 [
-    [ "HandleScriptEffect", "da/db8/a22084.html#a8df8d5addea956e80ad0a30ff8f73050", null ],
-    [ "PrepareSpellScript", "da/db8/a22084.html#adf6593e47a5766c40e7e3859fce00f81", null ],
-    [ "Register", "da/db8/a22084.html#a6e3bbfb11816f72ae85efb4defb23ad7", null ],
-    [ "Validate", "da/db8/a22084.html#afdabca016ed5eae85a0bdb3fd9d695ec", null ]
+    [ "npc_mcmanus", "da/db8/a22084.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
+    [ "OnGossipHello", "da/db8/a22084.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
+    [ "OnGossipSelect", "da/db8/a22084.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
 ];

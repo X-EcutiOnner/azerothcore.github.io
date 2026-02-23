@@ -1,6 +1,7 @@
 var a18120 =
 [
-    [ "npc_gas_cloudAI", "d0/dbd/a18124.html", "d0/dbd/a18124" ],
-    [ "npc_gas_cloud", "df/dec/a18120.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
-    [ "GetAI", "df/dec/a18120.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
+    [ "HandleDummy", "df/dec/a18120.html#a6e5d70c35420384305d7faf991072b38", null ],
+    [ "PrepareSpellScript", "df/dec/a18120.html#a64f912555853aab5693692b22eba52c4", null ],
+    [ "Register", "df/dec/a18120.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
+    [ "Validate", "df/dec/a18120.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
 ];

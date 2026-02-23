@@ -1,9 +1,9 @@
 var a20664 =
 [
-    [ "HandleEffectPeriodic", "dd/db5/a20664.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
-    [ "Load", "dd/db5/a20664.html#a60deabce505dd3993dca0e71402dc190", null ],
-    [ "PrepareAuraScript", "dd/db5/a20664.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
-    [ "Register", "dd/db5/a20664.html#a524c071390365b7dab59bc7a79b50f15", null ],
-    [ "_lastMSTime", "dd/db5/a20664.html#a013e9e0eef93583722f7d347c2ebbc49", null ],
-    [ "_lastOrientation", "dd/db5/a20664.html#a2537b325ff57b867092f3d9a1bd0fa8b", null ]
+    [ "npc_ulduar_dark_rune_sentinel", "dd/db5/a20664.html#aa618a5c21a3f8c8ad5fa9b1dbd0ad267", null ],
+    [ "CanAIAttack", "dd/db5/a20664.html#a6549068c5035af4e9ed8f67d38c8b23f", null ],
+    [ "Reset", "dd/db5/a20664.html#ab5401b3309fffcaebbcbc6b665ab77a1", null ],
+    [ "UpdateAI", "dd/db5/a20664.html#ae0c37055a213f91a46b68d7286ef3867", null ],
+    [ "timer1", "dd/db5/a20664.html#a836d5ed8691a08303622389475380eae", null ],
+    [ "timer2", "dd/db5/a20664.html#aa1985f0abdfa41a0fb9568e30048f24b", null ]
 ];

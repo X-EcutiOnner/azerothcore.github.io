@@ -1,12 +1,7 @@
 var a14168 =
 [
-    [ "npc_forest_frog", "df/d04/a14168.html#a6a5e24a11f8d2add6a3e9d71e2e647bb", null ],
-    [ "DoSpawnRandom", "df/d04/a14168.html#aac140826b8c4b7ce55925b5abeee936e", null ],
-    [ "JustEngagedWith", "df/d04/a14168.html#aa22c4eb7eb3a84db94ce8eb38afd18f5", null ],
-    [ "MovementInform", "df/d04/a14168.html#a8260157062b3e4ef48ad47b4f9bf66ac", null ],
-    [ "SpellHit", "df/d04/a14168.html#a9501955507e1f236bb48384928fd6a32", null ],
-    [ "UpdateAI", "df/d04/a14168.html#a5e6785d71bfb7f1d7b915723898a99fc", null ],
-    [ "eventTimer", "df/d04/a14168.html#ac6bf7433f79a9c2803072e7b5370a1c7", null ],
-    [ "instance", "df/d04/a14168.html#a6294f89eccdb9e5f9edbe8bccb164690", null ],
-    [ "PlayerGUID", "df/d04/a14168.html#a3544a83bb22e12d247e562ef32e378c0", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "df/d04/a14168.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
+    [ "Reset", "df/d04/a14168.html#a18de805428ce0954a5fbfffbf5975342", null ],
+    [ "UpdateAI", "df/d04/a14168.html#a48b191d0812bfe3212511a52ef0df817", null ],
+    [ "_events", "df/d04/a14168.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
 ];

@@ -1,7 +1,6 @@
 var a18564 =
 [
-    [ "OnPeriodic", "d8/d26/a18564.html#a9635bf496ee3098e412ba7de633250b3", null ],
-    [ "PrepareAuraScript", "d8/d26/a18564.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
-    [ "Register", "d8/d26/a18564.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
-    [ "Validate", "d8/d26/a18564.html#a5675fef373315edd34d096bb91c733b0", null ]
+    [ "npc_sindragosa_trashAI", "d8/da7/a18568.html", "d8/da7/a18568" ],
+    [ "npc_sindragosa_trash", "d8/d26/a18564.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
+    [ "GetAI", "d8/d26/a18564.html#ab1de715d98236a853a793d830bc601d7", null ]
 ];

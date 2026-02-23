@@ -1,6 +1,6 @@
 var a10696 =
 [
-    [ "GuildUpdateMotdText", "dc/d3e/a10696.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
-    [ "Read", "dc/d3e/a10696.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
-    [ "MotdText", "dc/d3e/a10696.html#a5b2ee458a919be7f912d49cf984490ac", null ]
+    [ "ShowBank", "dc/d3e/a10696.html#a57c189db7f6338f73d4e0028d846cfcf", null ],
+    [ "Write", "dc/d3e/a10696.html#a39e1b86a7d4d6163ab504797be1af505", null ],
+    [ "Banker", "dc/d3e/a10696.html#aeceda879d837508d95b79fbd3ee8d892", null ]
 ];

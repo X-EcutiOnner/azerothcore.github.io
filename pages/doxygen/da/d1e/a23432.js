@@ -1,6 +1,8 @@
 var a23432 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "d4/d19/a23436.html", "d4/d19/a23436" ],
-    [ "instance_serpent_shrine", "da/d1e/a23432.html#aac4fc7113307805138ba4ce4a9adff09", null ],
-    [ "GetInstanceScript", "da/d1e/a23432.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "da/d1e/a23432.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
+    [ "GetData", "da/d1e/a23432.html#a410630dbbe00acf0b69603cfc357d503", null ],
+    [ "SetBossState", "da/d1e/a23432.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
+    [ "SetData", "da/d1e/a23432.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
+    [ "_addsKilled", "da/d1e/a23432.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
 ];

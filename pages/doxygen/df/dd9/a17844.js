@@ -1,12 +1,8 @@
 var a17844 =
 [
-    [ "gunship_npc_AI", "df/dd9/a17844.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
-    [ "EnterEvadeMode", "df/dd9/a17844.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
-    [ "JustDied", "df/dd9/a17844.html#ad40c976be4decd9054dad031a4caab78", null ],
-    [ "MovementInform", "df/dd9/a17844.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
-    [ "SetData", "df/dd9/a17844.html#acfd5e331155d7787ada33acbca73fece", null ],
-    [ "SetSlotInfo", "df/dd9/a17844.html#afdfc3f9add2952f90baf24d55425670f", null ],
-    [ "Index", "df/dd9/a17844.html#ae120874514cf5921136821b820a04da7", null ],
-    [ "Instance", "df/dd9/a17844.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
-    [ "Slot", "df/dd9/a17844.html#a59d237475ae309755d429cfac77d6630", null ]
+    [ "npc_high_overlord_saurfangAI", "dd/d3f/a17848.html", "dd/d3f/a17848" ],
+    [ "npc_high_overlord_saurfang_icc", "df/dd9/a17844.html#ac02fe80550572e142406c2d80c0392df", null ],
+    [ "GetAI", "df/dd9/a17844.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
+    [ "OnGossipHello", "df/dd9/a17844.html#a515a87f751527412222cfdd968febe7c", null ],
+    [ "OnGossipSelect", "df/dd9/a17844.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
 ];

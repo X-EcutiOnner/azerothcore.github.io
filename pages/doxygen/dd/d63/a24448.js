@@ -1,6 +1,6 @@
 var a24448 =
 [
-    [ "CheckRequirement", "dd/d63/a24448.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
-    [ "PrepareSpellScript", "dd/d63/a24448.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
-    [ "Register", "dd/d63/a24448.html#aa4f62292b32347179a5534e4bc0417f8", null ]
+    [ "HandleProc", "dd/d63/a24448.html#a8fb0e7e5e50fcb201e8e55ee9621034e", null ],
+    [ "PrepareAuraScript", "dd/d63/a24448.html#a2f42e70482f71a4c275f70897b90ed72", null ],
+    [ "Register", "dd/d63/a24448.html#a048f59b6b0d52232e3a953f173324fc2", null ]
 ];

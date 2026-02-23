@@ -1,18 +1,14 @@
 var a21256 =
 [
-    [ "boss_ingvar_the_plunderer", "d2/d4e/a21256.html#af37159882b0faabe46e6f7c26ea84913", null ],
-    [ "DamageTaken", "d2/d4e/a21256.html#a14ec746bb57e77373e4c3f924dd9f952", null ],
-    [ "EnterEvadeMode", "d2/d4e/a21256.html#a5bd8e575292b487a3381854f5ae87306", null ],
-    [ "FeignDeath", "d2/d4e/a21256.html#afb732c1e7c74e88f63b2c3eee5ba3dd3", null ],
-    [ "JustDied", "d2/d4e/a21256.html#ab3b0ea55dfb6bb90f7d60fec7f2ff8ff", null ],
-    [ "JustEngagedWith", "d2/d4e/a21256.html#aedd8ccb3ab3b89cae9d80443ffa3edaa", null ],
-    [ "JustSummoned", "d2/d4e/a21256.html#a9101d4c988585f221b503971df87621b", null ],
-    [ "KilledUnit", "d2/d4e/a21256.html#ae8d5a148c7089f644db8ee686a04a2a8", null ],
-    [ "Reset", "d2/d4e/a21256.html#a57ecf5f8008714c3f067afe5a2ec2ffe", null ],
-    [ "UpdateAI", "d2/d4e/a21256.html#a59ee4cc1cf9cfe95ac77bdb637d01f71", null ],
-    [ "events", "d2/d4e/a21256.html#ae2155e079dc748bfa1026a05916a8534", null ],
-    [ "pInstance", "d2/d4e/a21256.html#ad4855d14fe94168f454a6b77a1ce5fde", null ],
-    [ "summons", "d2/d4e/a21256.html#a687b5cd37794ff530180f6ba5c208162", null ],
-    [ "ThrowGUID", "d2/d4e/a21256.html#af3b3c0ff36d28a3a7151a27a13879fe2", null ],
-    [ "ValkyrGUID", "d2/d4e/a21256.html#a556e9720346ba84a858170bfd8e9f358", null ]
+    [ "boss_cyanigosaAI", "d2/d4e/a21256.html#a4b24132889b17b3e682a15009a1ae910", null ],
+    [ "EnterEvadeMode", "d2/d4e/a21256.html#a8da6ddc9b1c9f7b145920205046ce095", null ],
+    [ "JustDied", "d2/d4e/a21256.html#a805117db567dd3d529a1c862bc24179c", null ],
+    [ "JustEngagedWith", "d2/d4e/a21256.html#a4ef85c0178120f14f2a7b29efb7a9abf", null ],
+    [ "KilledUnit", "d2/d4e/a21256.html#a5e69b631ab6844160b1e53fd1d731bae", null ],
+    [ "MoveInLineOfSight", "d2/d4e/a21256.html#adb699a22dbf1c14cb80f8fdcca9c6f82", null ],
+    [ "Reset", "d2/d4e/a21256.html#a7b0fdaa4f2603db8fd2d0c1ee6975817", null ],
+    [ "SpellHitTarget", "d2/d4e/a21256.html#ae8218b69e6dc7489e65d891048d84da1", null ],
+    [ "UpdateAI", "d2/d4e/a21256.html#ae69afba77636c962045160b610177bd9", null ],
+    [ "events", "d2/d4e/a21256.html#ab5fe766d46e9445b9e7cfc605073983f", null ],
+    [ "pInstance", "d2/d4e/a21256.html#a075f4a592202dc73d9b5d63ca5178093", null ]
 ];

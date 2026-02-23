@@ -1,6 +1,6 @@
 var a15192 =
 [
-    [ "instance_onyxias_lair_InstanceMapScript", "d8/d58/a15196.html", "d8/d58/a15196" ],
-    [ "instance_onyxias_lair", "df/d23/a15192.html#a1be32e45cb8af86477d300efb6e545cc", null ],
-    [ "GetInstanceScript", "df/d23/a15192.html#abbdc474ce17bca0cb55180661c5204a8", null ]
+    [ "boss_salrammAI", "d8/d58/a15196.html", "d8/d58/a15196" ],
+    [ "boss_salramm", "df/d23/a15192.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
+    [ "GetAI", "df/d23/a15192.html#ab6b400f0d329d4def074d012de47f53d", null ]
 ];

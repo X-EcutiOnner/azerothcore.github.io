@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: BaseTable Struct Reference</title>
+<title>AzerothCore: SpellScript::HitHandler Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,81 +105,92 @@ $(document).ready(function(){initNavTree('db/d95/a11696.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d5/dcf/a11693.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">BaseTable Struct Reference</div></div>
+  <div class="headertitle"><div class="title">SpellScript::HitHandler Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a0f308af88812c110c490c94368bda482"><td class="memItemLeft" align="right" valign="top">char const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d95/a11696.html#a0f308af88812c110c490c94368bda482">TableName</a></td></tr>
-<tr class="separator:a0f308af88812c110c490c94368bda482"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7c1ef4d19fb49e5813868ff2ccfe12fc"><td class="memItemLeft" align="right" valign="top">char const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d95/a11696.html#a7c1ef4d19fb49e5813868ff2ccfe12fc">PrimaryKey</a></td></tr>
-<tr class="separator:a7c1ef4d19fb49e5813868ff2ccfe12fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a629a600c48376d04293c225390f747ff"><td class="memItemLeft" align="right" valign="top">char const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d95/a11696.html#a629a600c48376d04293c225390f747ff">PlayerGuid</a></td></tr>
-<tr class="separator:a629a600c48376d04293c225390f747ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9bea7cf549813010b55c23417d65edc6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d20/a01160.html#a786729c2a29db8efe3400a170aeb9073">GuidType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d95/a11696.html#a9bea7cf549813010b55c23417d65edc6">StoredType</a></td></tr>
-<tr class="separator:a9bea7cf549813010b55c23417d65edc6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a41c5a6853bf72c113388995dc3ebaba7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d95/a11696.html#a41c5a6853bf72c113388995dc3ebaba7">HitHandler</a> (SpellHitFnType _pHitHandlerScript)</td></tr>
+<tr class="separator:a41c5a6853bf72c113388995dc3ebaba7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a157baaa3ceba62a9910cba5377bd7699"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d95/a11696.html#a157baaa3ceba62a9910cba5377bd7699">Call</a> (<a class="el" href="../../d2/d40/a11676.html">SpellScript</a> *spellScript)</td></tr>
+<tr class="separator:a157baaa3ceba62a9910cba5377bd7699"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:ac24144e49930a01a3049740a4072f626"><td class="memItemLeft" align="right" valign="top">SpellHitFnType&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d95/a11696.html#ac24144e49930a01a3049740a4072f626">pHitHandlerScript</a></td></tr>
+<tr class="separator:ac24144e49930a01a3049740a4072f626"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a629a600c48376d04293c225390f747ff" name="a629a600c48376d04293c225390f747ff"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a629a600c48376d04293c225390f747ff">&#9670;&#160;</a></span>PlayerGuid</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a41c5a6853bf72c113388995dc3ebaba7" name="a41c5a6853bf72c113388995dc3ebaba7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a41c5a6853bf72c113388995dc3ebaba7">&#9670;&#160;</a></span>HitHandler()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">char const* BaseTable::PlayerGuid</td>
+          <td class="memname">SpellScript::HitHandler::HitHandler </td>
+          <td>(</td>
+          <td class="paramtype">SpellHitFnType&#160;</td>
+          <td class="paramname"><em>_pHitHandlerScript</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00237">AssertBaseTable()</a>.</p>
-
+<div class="fragment"><div class="line"><span class="lineno">  218</span>{</div>
+<div class="line"><span class="lineno">  219</span>    <a class="code hl_variable" href="../../db/d95/a11696.html#ac24144e49930a01a3049740a4072f626">pHitHandlerScript</a> = _pHitHandlerScript;</div>
+<div class="line"><span class="lineno">  220</span>}</div>
+<div class="ttc" id="aa11696_html_ac24144e49930a01a3049740a4072f626"><div class="ttname"><a href="../../db/d95/a11696.html#ac24144e49930a01a3049740a4072f626">SpellScript::HitHandler::pHitHandlerScript</a></div><div class="ttdeci">SpellHitFnType pHitHandlerScript</div><div class="ttdef"><b>Definition:</b> SpellScript.h:243</div></div>
+</div><!-- fragment -->
 </div>
 </div>
-<a id="a7c1ef4d19fb49e5813868ff2ccfe12fc" name="a7c1ef4d19fb49e5813868ff2ccfe12fc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7c1ef4d19fb49e5813868ff2ccfe12fc">&#9670;&#160;</a></span>PrimaryKey</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a157baaa3ceba62a9910cba5377bd7699" name="a157baaa3ceba62a9910cba5377bd7699"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a157baaa3ceba62a9910cba5377bd7699">&#9670;&#160;</a></span>Call()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">char const* BaseTable::PrimaryKey</td>
+          <td class="memname">void SpellScript::HitHandler::Call </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d40/a11676.html">SpellScript</a> *&#160;</td>
+          <td class="paramname"><em>spellScript</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00237">AssertBaseTable()</a>.</p>
-
+<div class="fragment"><div class="line"><span class="lineno">  223</span>{</div>
+<div class="line"><span class="lineno">  224</span>    (spellScript-&gt;*<a class="code hl_variable" href="../../db/d95/a11696.html#ac24144e49930a01a3049740a4072f626">pHitHandlerScript</a>)();</div>
+<div class="line"><span class="lineno">  225</span>}</div>
+</div><!-- fragment -->
 </div>
 </div>
-<a id="a9bea7cf549813010b55c23417d65edc6" name="a9bea7cf549813010b55c23417d65edc6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9bea7cf549813010b55c23417d65edc6">&#9670;&#160;</a></span>StoredType</h2>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="ac24144e49930a01a3049740a4072f626" name="ac24144e49930a01a3049740a4072f626"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac24144e49930a01a3049740a4072f626">&#9670;&#160;</a></span>pHitHandlerScript</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../da/d20/a01160.html#a786729c2a29db8efe3400a170aeb9073">GuidType</a> BaseTable::StoredType</td>
+          <td class="memname">SpellHitFnType SpellScript::HitHandler::pHitHandlerScript</td>
         </tr>
       </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a0f308af88812c110c490c94368bda482" name="a0f308af88812c110c490c94368bda482"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0f308af88812c110c490c94368bda482">&#9670;&#160;</a></span>TableName</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">char const* BaseTable::TableName</td>
-        </tr>
-      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
@@ -189,8 +200,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../db/d95/a11696.html">BaseTable</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:11:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d2/d40/a11676.html">SpellScript</a></li><li class="navelem"><a class="el" href="../../db/d95/a11696.html">HitHandler</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:16:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

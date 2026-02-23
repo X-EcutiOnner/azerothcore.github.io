@@ -1,14 +1,14 @@
 var a08860 =
 [
-    [ "SafeUnitPointer", "d7/d4d/a08860.html#a05ee5199683b1e68189a7d122bf3f5f4", null ],
-    [ "SafeUnitPointer", "d7/d4d/a08860.html#a9ac4023d6ec32f96c757206dd4aa3fd6", null ],
-    [ "~SafeUnitPointer", "d7/d4d/a08860.html#ad9c2be82f67eb4e825a9ffd07307983a", null ],
-    [ "Initialize", "d7/d4d/a08860.html#a40f6e04585ca487c457d17ce10cc7b8c", null ],
-    [ "operator Unit *", "d7/d4d/a08860.html#afee1d290f436472dd719ff83f41721f5", null ],
-    [ "operator->", "d7/d4d/a08860.html#af63a04a7c6e6cb3002f5a99f90f70328", null ],
-    [ "operator=", "d7/d4d/a08860.html#a44f522d9c22861f853df0286a3764d3e", null ],
-    [ "SetPointedTo", "d7/d4d/a08860.html#a6603c67b736224a8e6559340afa8b275", null ],
-    [ "UnitDeleted", "d7/d4d/a08860.html#a872b0a86328fb03e5feccdf364ea5cce", null ],
-    [ "defaultValue", "d7/d4d/a08860.html#a38dce117cb135c9b84918a9bbc884f28", null ],
-    [ "ptr", "d7/d4d/a08860.html#aa8bf5e4728aeb1ca7a8de1a727a84884", null ]
+    [ "SocialMap", "d7/d4d/a08860.html#a2b80fa18a6f1ed54fda7719867f45ebd", null ],
+    [ "SocialMgr", "d7/d4d/a08860.html#a3cff8262ce10d2e8c8c38dc834230545", null ],
+    [ "~SocialMgr", "d7/d4d/a08860.html#aef859e6c923a6ba4bb7ac0049f17463d", null ],
+    [ "BroadcastToFriendListers", "d7/d4d/a08860.html#a55b35ea17ebfea4ff31710186b87865f", null ],
+    [ "GetFriendInfo", "d7/d4d/a08860.html#a7d0c4638b6fde1bf614d90492160ee55", null ],
+    [ "instance", "d7/d4d/a08860.html#a223f3d7811d8c360da7f467b70af808f", null ],
+    [ "LoadFromDB", "d7/d4d/a08860.html#aab17f5c27494cfdf2b1c5d5038f446a0", null ],
+    [ "MakeFriendStatusPacket", "d7/d4d/a08860.html#af30fe2f3223dc7ad9094e44393420d3a", null ],
+    [ "RemovePlayerSocial", "d7/d4d/a08860.html#af537c83cc3d481dde68d0a60aa122289", null ],
+    [ "SendFriendStatus", "d7/d4d/a08860.html#acf245ca689bd5c0efe4a791b9e0e3c5f", null ],
+    [ "m_socialMap", "d7/d4d/a08860.html#a2f8a276598ad01d350aa245fcef82a7a", null ]
 ];

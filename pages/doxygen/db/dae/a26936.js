@@ -1,6 +1,7 @@
 var a26936 =
 [
-    [ "FilterTargets", "db/dae/a26936.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
-    [ "PrepareSpellScript", "db/dae/a26936.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
-    [ "Register", "db/dae/a26936.html#abe63ec69fe15fd8924fb63235489e088", null ]
+    [ "HandleEffectRemove", "db/dae/a26936.html#a814687d3938e966f8721438e1a722f77", null ],
+    [ "PrepareAuraScript", "db/dae/a26936.html#a2144b0602501471a4001883ce9de6db3", null ],
+    [ "Register", "db/dae/a26936.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
+    [ "AuraEffectHandleModes", "db/dae/a26936.html#ab291f6c6f269ec7004df39a043f49efd", null ]
 ];

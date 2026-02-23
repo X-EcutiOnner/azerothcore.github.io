@@ -1,17 +1,14 @@
 var a19720 =
 [
-    [ "boss_bjarngrim", "dd/d91/a19720.html#a1bf90864479939ba3f251c38b173e23a", null ],
-    [ "InitializeWaypoints", "dd/d91/a19720.html#a87eab2b27b48d98b94a030936722781e", null ],
-    [ "JustDied", "dd/d91/a19720.html#a5a1ea3f7825d5a90feabc2b18865e75f", null ],
-    [ "JustEngagedWith", "dd/d91/a19720.html#ad150ab7d9837861e8c4673a78978bb11", null ],
-    [ "KilledUnit", "dd/d91/a19720.html#abd4d83ebc59cac8cf97fa495d42675f8", null ],
-    [ "RemoveStanceAura", "dd/d91/a19720.html#a55a695e27192313c6cbe263a739e669e", null ],
-    [ "Reset", "dd/d91/a19720.html#a1f61ac153bb78129c89e6caba7dc7522", null ],
-    [ "RollStance", "dd/d91/a19720.html#acd511435f9d77aa4839e1c856382ea51", null ],
-    [ "UpdateEscortAI", "dd/d91/a19720.html#ab0c5aea43ef8c40c0af6a336dccd2b97", null ],
-    [ "WaypointReached", "dd/d91/a19720.html#a9706ccb196a09fe5f16efb20578f83f0", null ],
-    [ "events", "dd/d91/a19720.html#ac72b38eced65a3246b4c83a82caf44cb", null ],
-    [ "m_pInstance", "dd/d91/a19720.html#ad72abbd2eaa7d56fd1b409ffd2980d87", null ],
-    [ "m_uiStance", "dd/d91/a19720.html#aec11755c71f056c8294a8af1c1084353", null ],
-    [ "summons", "dd/d91/a19720.html#a9cacb3d985fb9e4b2501ab4b4334cdab", null ]
+    [ "boss_keristrasza", "dd/d91/a19720.html#a5f83fee9a5616751601f0c1155afab36", null ],
+    [ "CanRemovePrison", "dd/d91/a19720.html#a900a4a8428a04b880462b20196e94858", null ],
+    [ "GetData", "dd/d91/a19720.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
+    [ "JustDied", "dd/d91/a19720.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
+    [ "JustEngagedWith", "dd/d91/a19720.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
+    [ "KilledUnit", "dd/d91/a19720.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
+    [ "RemovePrison", "dd/d91/a19720.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
+    [ "Reset", "dd/d91/a19720.html#a13dce974fa83577397a80ff52de5d835", null ],
+    [ "SetData", "dd/d91/a19720.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
+    [ "UpdateAI", "dd/d91/a19720.html#a46a2e61e27cc72710c7aa14212673eae", null ],
+    [ "aGuids", "dd/d91/a19720.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
 ];

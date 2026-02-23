@@ -1,10 +1,10 @@
 var a05820 =
 [
-    [ "MySQLConnectionInfo", "d9/d0b/a05820.html#ae60c54053d71eb9325df10701b1f42d3", null ],
-    [ "database", "d9/d0b/a05820.html#a7e65a418ad668772e4ce1b298d92f10a", null ],
-    [ "host", "d9/d0b/a05820.html#a2659372561aae5feb8da121984354ef3", null ],
-    [ "password", "d9/d0b/a05820.html#af5a51bd38ce1d58f65444d69b0283966", null ],
-    [ "port_or_socket", "d9/d0b/a05820.html#a37b89660afb3ee085e817836e9d1d01f", null ],
-    [ "ssl", "d9/d0b/a05820.html#a90e5a934b4ec46e5783248a1a80a4830", null ],
-    [ "user", "d9/d0b/a05820.html#a6bf4166ebb99ea30a3894e3d8833bde6", null ]
+    [ "ListIterator", "d9/d0b/a05820.html#a2d6f26f422402c3dcc0e026587201f9e", null ],
+    [ "begin", "d9/d0b/a05820.html#ab7d2c8fa95d8256bba7b6b3ccdcff251", null ],
+    [ "end", "d9/d0b/a05820.html#a6dffd4b0ef103e34fca8d474856ca8d3", null ],
+    [ "operator+=", "d9/d0b/a05820.html#a3a4a52377c59e360b9aa164940b06285", null ],
+    [ "operator-=", "d9/d0b/a05820.html#ae5c430c031dffae3c3b270c527b0cc70", null ],
+    [ "size", "d9/d0b/a05820.html#a13d85caabd15541389f8e93e99b768b0", null ],
+    [ "m_list", "d9/d0b/a05820.html#a5bb439ae8dd02302f19581d2771c570c", null ]
 ];

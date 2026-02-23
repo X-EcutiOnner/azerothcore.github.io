@@ -1,7 +1,12 @@
 var a13416 =
 [
-    [ "npc_apothecary_genericAI", "dc/df1/a13416.html#afb2b04b51e28d0795e7781effa68dffd", null ],
-    [ "DoAction", "dc/df1/a13416.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
-    [ "MovementInform", "dc/df1/a13416.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
-    [ "_movePos", "dc/df1/a13416.html#a53d10ab64df212b043cc21e054f6528c", null ]
+    [ "npc_koltira_deathweaverAI", "dc/df1/a13416.html#adbc46fce90170aec986faacf012bd2b2", null ],
+    [ "MovementInform", "dc/df1/a13416.html#afed53c190d875d0e59775ebfeb749fcf", null ],
+    [ "Reset", "dc/df1/a13416.html#ac07053d3798d57449c23bfff68e12f1b", null ],
+    [ "sGossipSelect", "dc/df1/a13416.html#af481beffaeb97a69483a62fd5f110616", null ],
+    [ "sQuestAccept", "dc/df1/a13416.html#a83fa04558bc7617b561ec05da9f2a6a1", null ],
+    [ "StartEvent", "dc/df1/a13416.html#aa4f0df71fb88f6685f2c27f19a34b2b3", null ],
+    [ "SummonedCreatureDies", "dc/df1/a13416.html#a967575fafe29db364b4e6a00a5e0457b", null ],
+    [ "UpdateAI", "dc/df1/a13416.html#ac90ed956ba45b6363a21af76393126ac", null ],
+    [ "_valrothGUID", "dc/df1/a13416.html#ad041942412fb8288ff5f850ee6472e78", null ]
 ];

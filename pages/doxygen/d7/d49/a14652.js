@@ -1,7 +1,9 @@
 var a14652 =
 [
-    [ "HandleEffectApply", "d7/d49/a14652.html#a22f3143b10155635194abe22994a397c", null ],
-    [ "HandleEffectRemove", "d7/d49/a14652.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
-    [ "PrepareAuraScript", "d7/d49/a14652.html#abb4f53a42e701323b2fc66598ec3503c", null ],
-    [ "Register", "d7/d49/a14652.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
+    [ "CheckCast", "d7/d49/a14652.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
+    [ "FilterTargets", "d7/d49/a14652.html#a9638048b4107db116474abf8e18d7760", null ],
+    [ "HandleBeforeHit", "d7/d49/a14652.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
+    [ "HandleScriptEffect", "d7/d49/a14652.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
+    [ "PrepareSpellScript", "d7/d49/a14652.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
+    [ "Register", "d7/d49/a14652.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
 ];

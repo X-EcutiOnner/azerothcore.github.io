@@ -1,10 +1,7 @@
 var a14948 =
 [
-    [ "boss_rage_winterchill", "d8/d92/a14948.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
-    [ "DoAction", "d8/d92/a14948.html#a45333aea6d6a180473ca4823ea83920a", null ],
-    [ "JustDied", "d8/d92/a14948.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
-    [ "JustEngagedWith", "d8/d92/a14948.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
-    [ "KilledUnit", "d8/d92/a14948.html#a69d69530a080379add7be73c552f4937", null ],
-    [ "PathEndReached", "d8/d92/a14948.html#aec47befdf3246710a5158780fa797fa7", null ],
-    [ "_recentlySpoken", "d8/d92/a14948.html#ae2141b4ea1d10cb74146aec63d65214c", null ]
+    [ "HandleFinish", "d8/d92/a14948.html#a8927aaa07145b46067d5807c2048330a", null ],
+    [ "PrepareSpellScript", "d8/d92/a14948.html#a5a0bfef668242fc5f21ad5a4e3e714b5", null ],
+    [ "Register", "d8/d92/a14948.html#a1ffdc199a04bd6ead1a09bc977ae964c", null ],
+    [ "Validate", "d8/d92/a14948.html#a3fd3265e5a08f81b3e9e789f1799abd4", null ]
 ];

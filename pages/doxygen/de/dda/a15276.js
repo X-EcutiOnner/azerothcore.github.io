@@ -1,9 +1,10 @@
 var a15276 =
 [
-    [ "npc_buru_egg", "de/dda/a15276.html#a6aa2896342b802caecde1c1dffcf4907", null ],
-    [ "JustDied", "de/dda/a15276.html#a3de169b252374f0b2daed3ecb5a11502", null ],
-    [ "JustEngagedWith", "de/dda/a15276.html#a8cde6848569671876a17b00d75228ebe", null ],
-    [ "JustSummoned", "de/dda/a15276.html#abebb96dcb3d653bddd4210da6567fb87", null ],
-    [ "UpdateAI", "de/dda/a15276.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
-    [ "_instance", "de/dda/a15276.html#a5b168226755a57368f17827e3457a0ca", null ]
+    [ "npc_tarethaAI", "de/dda/a15276.html#ad403cdcdc2648bb23687e3a3a7bdbb03", null ],
+    [ "AttackStart", "de/dda/a15276.html#a09d91ea8e5923ebc3c0ad01f09f93408", null ],
+    [ "DoAction", "de/dda/a15276.html#adbb40db0b70532a20731cf5039e44d0b", null ],
+    [ "MoveInLineOfSight", "de/dda/a15276.html#afa0427372e43316851018bf78274707f", null ],
+    [ "Reset", "de/dda/a15276.html#ae4d9f3d5751e8a8e0468a80d46f4a4c4", null ],
+    [ "WaypointReached", "de/dda/a15276.html#a6946bc02ec686c8af943c9e913c8aee6", null ],
+    [ "instance", "de/dda/a15276.html#a3c0f4a61cf5b8da6b885ef7bf9813205", null ]
 ];

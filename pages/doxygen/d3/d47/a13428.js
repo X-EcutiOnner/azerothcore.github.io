@@ -1,7 +1,6 @@
 var a13428 =
 [
-    [ "HandleAfterCast", "d3/d47/a13428.html#afa662fbe1b777047259ac6212961f7a5", null ],
-    [ "HandleScript", "d3/d47/a13428.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
-    [ "PrepareSpellScript", "d3/d47/a13428.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
-    [ "Register", "d3/d47/a13428.html#a4a898b0b096583af33f1f691a252b2ed", null ]
+    [ "npc_a_special_surpriseAI", "df/d95/a13432.html", "df/d95/a13432" ],
+    [ "npc_a_special_surprise", "d3/d47/a13428.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
+    [ "GetAI", "d3/d47/a13428.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
 ];

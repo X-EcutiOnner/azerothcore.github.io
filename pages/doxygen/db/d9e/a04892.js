@@ -1,25 +1,10 @@
 var a04892 =
 [
-    [ "achievement", "d1/d10/a07885.html", "d1/d10/a07885" ],
-    [ "base_tag", "d5/daa/a07881.html", "d5/daa/a07881" ],
-    [ "enchant", "d6/d34/a07889.html", "d6/d34/a07889" ],
-    [ "glyph", "d4/db3/a07893.html", "d4/db3/a07893" ],
-    [ "item", "dc/d00/a07897.html", "dc/d00/a07897" ],
-    [ "quest", "d7/de5/a07901.html", "d7/de5/a07901" ],
-    [ "spell", "de/d87/a07905.html", "de/d87/a07905" ],
-    [ "talent", "d4/d9c/a07909.html", "d4/d9c/a07909" ],
-    [ "trade", "db/d7f/a07913.html", "db/d7f/a07913" ],
-    [ "make_base_tag", "db/d9e/a04892.html#a6ebb455ff3abbea4ad68bd1d7d05fd3a", null ],
-    [ "make_base_tag", "db/d9e/a04892.html#a0803de4bbc9edad4f5bb2afc3c242dca", null ],
-    [ "make_base_tag", "db/d9e/a04892.html#aa8156f2996632fd42a2e39b974426995", null ],
-    [ "make_base_tag", "db/d9e/a04892.html#a321da5d63921d41c561a1460929ac730", null ],
-    [ "make_base_tag", "db/d9e/a04892.html#afc9dbd840048c0031231bcdb7b2fcf04", null ],
-    [ "make_base_tag", "db/d9e/a04892.html#a7083d48423b83ff39095030678b29877", null ],
-    [ "make_base_tag", "db/d9e/a04892.html#aae3a6cd0fbf426755d93a387882ff767", null ],
-    [ "make_base_tag", "db/d9e/a04892.html#aa0ca4a111a856da9091a377934f8de93", null ],
-    [ "make_base_tag", "db/d9e/a04892.html#a9990339040b491e108594df755f03a6c", null ],
-    [ "make_base_tag", "db/d9e/a04892.html#aa0200f5ae02cb0b03a9ab7097ca2a2ec", null ],
-    [ "make_base_tag", "db/d9e/a04892.html#a32cfa3bc188d1b731f3e9e5dcc2de664", null ],
-    [ "make_base_tag", "db/d9e/a04892.html#ae0c637d10c728f04dc2468c15c3f8dca", null ],
-    [ "make_base_tag", "db/d9e/a04892.html#abe0a588f1c0e66d33c8bc7a7d0a04459", null ]
+    [ "ArenaHookDefaultsTest", "d4/dfa/a29560.html", "d4/dfa/a29560" ],
+    [ "TEST_F", "db/d9e/a04892.html#af7f1863961720e96f331f17dd1d7ad7a", null ],
+    [ "TEST_F", "db/d9e/a04892.html#acede4c371594a1fd0528b8197fcc6cbb", null ],
+    [ "TEST_F", "db/d9e/a04892.html#a6677d75c2b2c5b8a1b910e5b7a943867", null ],
+    [ "TEST_F", "db/d9e/a04892.html#abb810fe89abdcbd96e44ddf079e86cf3", null ],
+    [ "TEST_F", "db/d9e/a04892.html#a107778bcf48a658ed6e9f2a52234d6d0", null ],
+    [ "TEST_F", "db/d9e/a04892.html#ab81f733e33491c5907ae23252337725c", null ]
 ];

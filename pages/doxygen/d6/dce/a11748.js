@@ -1,7 +1,6 @@
 var a11748 =
 [
-    [ "CompressedData", "d6/dce/a11748.html#a22e1d740e6c3094fea83eb1a44e40944", null ],
-    [ "CompressedSize", "d6/dce/a11748.html#ab57879b41c825623a989db13a53f2f4e", null ],
-    [ "Id", "d6/dce/a11748.html#af1e6a5cc01ee05432be5c41c88d84794", null ],
-    [ "Key", "d6/dce/a11748.html#ad100540b5c6722a19c938b134a985aed", null ]
+    [ "EffectCalcSpellModHandler", "d6/dce/a11748.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
+    [ "Call", "d6/dce/a11748.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
+    [ "pEffectHandlerScript", "d6/dce/a11748.html#a15c0b24641cb04f31bb3d651dae59448", null ]
 ];

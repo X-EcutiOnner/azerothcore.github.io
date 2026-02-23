@@ -1,8 +1,8 @@
 var a17872 =
 [
-    [ "npc_gunship_mageAI", "d0/d25/a17872.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
-    [ "AttackStart", "d0/d25/a17872.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
-    [ "CanAIAttack", "d0/d25/a17872.html#aadcb217a9df96bee02287d75a23e32c2", null ],
-    [ "MovementInform", "d0/d25/a17872.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
-    [ "UpdateAI", "d0/d25/a17872.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
+    [ "CheckProc", "d0/d25/a17872.html#a11620e4d645b3bfd35924700b5dad289", null ],
+    [ "HandleProc", "d0/d25/a17872.html#aa80a032f2ec80aba36f6fe0208412587", null ],
+    [ "PrepareAuraScript", "d0/d25/a17872.html#afe04f0cb6539238412253b63dd3c82b9", null ],
+    [ "Register", "d0/d25/a17872.html#ac18d1d1a1d19b0dfa5cb1565377ba273", null ],
+    [ "Validate", "d0/d25/a17872.html#ac42fe3248fadf0ecca95893e06c490ee", null ]
 ];

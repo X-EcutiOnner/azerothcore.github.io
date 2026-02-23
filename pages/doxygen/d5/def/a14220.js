@@ -1,15 +1,12 @@
 var a14220 =
 [
-    [ "boss_arlokkAI", "d5/def/a14220.html#adb598bf47620cd077fb689fb8f9a4ad8", null ],
-    [ "EnterEvadeMode", "d5/def/a14220.html#a8553c4d173e7c39315f022f69587c6c0", null ],
-    [ "JustDied", "d5/def/a14220.html#ac03a6599a5b41e01bd4ed9ebd55cc0ba", null ],
-    [ "JustEngagedWith", "d5/def/a14220.html#ac4ee55299a9389c4fee1ad96140b00d0", null ],
-    [ "JustReachedHome", "d5/def/a14220.html#ab0499a80ea8406457e6bfaac96eae975", null ],
-    [ "Reset", "d5/def/a14220.html#a3ea2c720ac5c4b1fa6ea4d2eb8bf163f", null ],
-    [ "SetData", "d5/def/a14220.html#a7eedf1d1b55740698c314d4afbb2b0b2", null ],
-    [ "UpdateAI", "d5/def/a14220.html#a3a2d07d42be88244c0c72b998792dd28", null ],
-    [ "_summonCountA", "d5/def/a14220.html#a77f83909fca59d1c5d72dc583d7ec22e", null ],
-    [ "_summonCountB", "d5/def/a14220.html#a7e7d091ea00fb42e7f97cb79168e0dc3", null ],
-    [ "_triggersSideAGUID", "d5/def/a14220.html#aedc8dda728ed849f33dc83396da51bce", null ],
-    [ "_triggersSideBGUID", "d5/def/a14220.html#a0fc797fd56c4f12272b647087492670a", null ]
+    [ "npc_daphne_stilwellAI", "d5/def/a14220.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
+    [ "AttackStart", "d5/def/a14220.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
+    [ "JustSummoned", "d5/def/a14220.html#ae56554d30e9de7644efab891555c57e0", null ],
+    [ "Reset", "d5/def/a14220.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
+    [ "SummonedCreatureDies", "d5/def/a14220.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
+    [ "Update", "d5/def/a14220.html#a4099d75c4a6bca1525781a5753ef9972", null ],
+    [ "WaypointReached", "d5/def/a14220.html#a1035eb0a1696730d8304593b5fb079e4", null ],
+    [ "summons", "d5/def/a14220.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
+    [ "textCounter", "d5/def/a14220.html#a62ab24169c1b7c3028ab33303b217f63", null ]
 ];

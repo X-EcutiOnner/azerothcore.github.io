@@ -1,7 +1,9 @@
 var a25228 =
 [
-    [ "HandleEffectApply", "d2/de1/a25228.html#a2854357f92b1faac6e7840f1576138e0", null ],
-    [ "HandleEffectRemove", "d2/de1/a25228.html#a7960ca4deb4ff61d04ea7fe7ec0f0471", null ],
-    [ "PrepareAuraScript", "d2/de1/a25228.html#a2120cecbca61e4c7380892fe8d43772a", null ],
-    [ "Register", "d2/de1/a25228.html#a98c71c0d4c4b0503e66ed2033946cb2e", null ]
+    [ "PrepareAuraScript", "d2/de1/a25228.html#aebfc1dfb1ff025b0ef4a8c0062a000f1", null ],
+    [ "RefreshVisualShields", "d2/de1/a25228.html#aeefbbdd391c347b350ec7738b9825f8c", null ],
+    [ "Register", "d2/de1/a25228.html#aacd9f12cddd0c698816916d9cdf5f0ea", null ],
+    [ "RemoveDummyFromDriver", "d2/de1/a25228.html#a399641ce72b74038a4517868267bd86a", null ],
+    [ "RemoveVisualShields", "d2/de1/a25228.html#aed4bb9ec815ac4e22b952a64c8bd3b51", null ],
+    [ "Validate", "d2/de1/a25228.html#ae5799f72b7fbce82799fd730f1525948", null ]
 ];

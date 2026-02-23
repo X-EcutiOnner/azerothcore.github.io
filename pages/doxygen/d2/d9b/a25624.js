@@ -1,10 +1,8 @@
 var a25624 =
 [
-    [ "Load", "d2/d9b/a25624.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
-    [ "OnApply", "d2/d9b/a25624.html#a83d922c434442e22482410d61aa0198f", null ],
-    [ "OnPetApply", "d2/d9b/a25624.html#a6df5e59e29cb89310a1c78bf93029545", null ],
-    [ "OnRemove", "d2/d9b/a25624.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
-    [ "PrepareAuraScript", "d2/d9b/a25624.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
-    [ "Register", "d2/d9b/a25624.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
-    [ "Validate", "d2/d9b/a25624.html#ab318472ea9f4aaa79e45f18783586eed", null ]
+    [ "HandleFinish", "d2/d9b/a25624.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
+    [ "PrepareSpellScript", "d2/d9b/a25624.html#a73865997890d4f58cc09d54c2c4e5243", null ],
+    [ "Register", "d2/d9b/a25624.html#a106cf5d53956b66f8f548caceda41dc8", null ],
+    [ "SelectTarget", "d2/d9b/a25624.html#ab33513df20e942ba354932df5082efa8", null ],
+    [ "_target", "d2/d9b/a25624.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
 ];

@@ -1,10 +1,23 @@
 var a19652 =
 [
-    [ "npc_oculus_drakegiverAI", "d6/d1b/a19652.html#a4bba380256a0ede70b8d90611249b444", null ],
-    [ "MovementInform", "d6/d1b/a19652.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
-    [ "UpdateAI", "d6/d1b/a19652.html#a652a8c364687d51de62356964f6f33f9", null ],
-    [ "m_pInstance", "d6/d1b/a19652.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
-    [ "moved", "d6/d1b/a19652.html#a069e202a84d99cd757862bd1a43b5562", null ],
-    [ "resetPosition", "d6/d1b/a19652.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
-    [ "timer", "d6/d1b/a19652.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
+    [ "boss_malygos", "d6/d1b/a19652.html#acd26b3f587a379b568c496ea1ec3194f", null ],
+    [ "AttackStart", "d6/d1b/a19652.html#affc05cb6c51b8116257a4b1aef46ff00", null ],
+    [ "DamageTaken", "d6/d1b/a19652.html#a28a85c719c91835b5f6f52d267990c0c", null ],
+    [ "EnterEvadeMode", "d6/d1b/a19652.html#a53c5686a8cf473d8ed1569890bdf70a5", null ],
+    [ "HandleIntroSpeech", "d6/d1b/a19652.html#a648e2f73ffead8912659bc342ec70774", null ],
+    [ "InitializeAI", "d6/d1b/a19652.html#a549d5333ad95dfe7ef55a7bfbdc93899", null ],
+    [ "JustDied", "d6/d1b/a19652.html#a597f5291a656746becdb058c538cff89", null ],
+    [ "JustEngagedWith", "d6/d1b/a19652.html#a110748ba104014f161c8bb51bb6ba566", null ],
+    [ "JustSummoned", "d6/d1b/a19652.html#a743aba102bcad0f032113a32c34a131e", null ],
+    [ "KilledUnit", "d6/d1b/a19652.html#ad471155b4ff59d163218653cc3dfc104", null ],
+    [ "MoveInLineOfSight", "d6/d1b/a19652.html#a92ba2c3af50769e45327f4081b753d1d", null ],
+    [ "MovementInform", "d6/d1b/a19652.html#ab1a3fa752819f459e6eb50748f8f65b0", null ],
+    [ "Reset", "d6/d1b/a19652.html#a0b2603b3691b4961977acbc593202306", null ],
+    [ "SpellHit", "d6/d1b/a19652.html#ab520ae358e31225469e96d8628c6314c", null ],
+    [ "UpdateAI", "d6/d1b/a19652.html#aabdec2e6a2e955cc682b122430cbdcce", null ],
+    [ "_executingVortex", "d6/d1b/a19652.html#a1a838052f9465530a586132a24c7ec5b", null ],
+    [ "bLockHealthCheck", "d6/d1b/a19652.html#a8809894ee687da3133030b4d4f080b35", null ],
+    [ "IntroCounter", "d6/d1b/a19652.html#a88f42418d5a96d3b2630ee2975d420b1", null ],
+    [ "timer1", "d6/d1b/a19652.html#ad779ad4e63ce426421fab327fc9bf9ed", null ],
+    [ "timer2", "d6/d1b/a19652.html#a5cccd64acbf07ab2cbd5650feb2bb115", null ]
 ];

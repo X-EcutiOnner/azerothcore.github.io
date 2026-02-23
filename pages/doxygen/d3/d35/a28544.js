@@ -1,7 +1,9 @@
 var a28544 =
 [
-    [ "ID", "d3/d35/a28544.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
-    [ "Index", "d3/d35/a28544.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
-    [ "Skill", "d3/d35/a28544.html#aed5e58cf605d3c28cd0d26015722be03", null ],
-    [ "Type", "d3/d35/a28544.html#a39b0b548efd795c162926bddcdd301b5", null ]
+    [ "npc_arcanite_dragonling", "d3/d35/a28544.html#a9b7e4cefa312a16c90018d655ad94758", null ],
+    [ "CanAIAttack", "d3/d35/a28544.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
+    [ "IsSummonedBy", "d3/d35/a28544.html#a921b35a91c4f21258efdb41fd87413db", null ],
+    [ "JustEngagedWith", "d3/d35/a28544.html#a65f6d779681861117f750b70154b3e0d", null ],
+    [ "Reset", "d3/d35/a28544.html#a4468d91430add821bf7a7ab11d8063da", null ],
+    [ "UpdateAI", "d3/d35/a28544.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
 ];

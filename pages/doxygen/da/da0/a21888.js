@@ -1,9 +1,8 @@
 var a21888 =
 [
-    [ "npc_minigob_manabonk", "da/da0/a21888.html#aade5e005b68b25ede4e653629390ceb9", null ],
-    [ "Reset", "da/da0/a21888.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
-    [ "SelectTargetInDalaran", "da/da0/a21888.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
-    [ "SendMailToPlayer", "da/da0/a21888.html#a1973b7885c9fce15aab9843722bf112e", null ],
-    [ "UpdateAI", "da/da0/a21888.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
-    [ "playerGUID", "da/da0/a21888.html#ac8dccd333691f717fdbffe22126330d5", null ]
+    [ "HandleEffectApply", "da/da0/a21888.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
+    [ "HandleEffectPeriodic", "da/da0/a21888.html#a183976530ebf604656db12e41449427e", null ],
+    [ "PrepareAuraScript", "da/da0/a21888.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
+    [ "Register", "da/da0/a21888.html#a76be53d506933d4b3c758578b7c33d5f", null ],
+    [ "_posZ", "da/da0/a21888.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
 ];

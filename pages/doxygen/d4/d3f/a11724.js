@@ -1,7 +1,6 @@
 var a11724 =
 [
-    [ "PlayerDumpReader", "d4/d3f/a11724.html#ad630b61e298fb1ddf165481c9a14e077", null ],
-    [ "LoadDump", "d4/d3f/a11724.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
-    [ "LoadDumpFromFile", "d4/d3f/a11724.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
-    [ "LoadDumpFromString", "d4/d3f/a11724.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
+    [ "AuraDispelHandler", "d4/d3f/a11724.html#ab6e675b4db931c601b3d6aef65ae0ff6", null ],
+    [ "Call", "d4/d3f/a11724.html#a147d8a6d95f011f27600d052ef7b4000", null ],
+    [ "pHandlerScript", "d4/d3f/a11724.html#ab7dd73a36aa517354a023deb7db0cf19", null ]
 ];

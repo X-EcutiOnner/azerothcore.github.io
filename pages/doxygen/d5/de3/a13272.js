@@ -1,6 +1,8 @@
 var a13272 =
 [
-    [ "npc_a_special_surpriseAI", "d8/d39/a13276.html", "d8/d39/a13276" ],
-    [ "npc_a_special_surprise", "d5/de3/a13272.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
-    [ "GetAI", "d5/de3/a13272.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
+    [ "CheckProc", "d5/de3/a13272.html#a085f6affd2bf76fe66f9023e67725848", null ],
+    [ "HandleProc", "d5/de3/a13272.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
+    [ "PrepareAuraScript", "d5/de3/a13272.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
+    [ "Register", "d5/de3/a13272.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
+    [ "Validate", "d5/de3/a13272.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
 ];

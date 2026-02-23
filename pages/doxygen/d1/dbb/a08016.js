@@ -1,10 +1,9 @@
 var a08016 =
 [
-    [ "LfgUpdateData", "d1/dbb/a08016.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
-    [ "LfgUpdateData", "d1/dbb/a08016.html#a656873ea6ef9b3f23791827617a000c6", null ],
-    [ "LfgUpdateData", "d1/dbb/a08016.html#a248682a712dd43b8c4601830aae4ddec", null ],
-    [ "comment", "d1/dbb/a08016.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
-    [ "dungeons", "d1/dbb/a08016.html#a0e9b49693248b438dbc508e230a870db", null ],
-    [ "state", "d1/dbb/a08016.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
-    [ "updateType", "d1/dbb/a08016.html#a146e43854f66bf57f703d7089a24481e", null ]
+    [ "HyperlinkColor", "d1/dbb/a08016.html#a4b246814aa2e2ac930e1e9e4e79345f0", null ],
+    [ "operator==", "d1/dbb/a08016.html#aad186f06a8d61834ec94d29d305fa0f2", null ],
+    [ "a", "d1/dbb/a08016.html#a57d68da0bcaec609d89efb18185b7f03", null ],
+    [ "b", "d1/dbb/a08016.html#a5ef7a2aab07e2e9a5097a27a466adeca", null ],
+    [ "g", "d1/dbb/a08016.html#a4570365880f14c7f7c5e7d96332ae150", null ],
+    [ "r", "d1/dbb/a08016.html#a1b4e0f604b95a773d28b93601af8ffe0", null ]
 ];

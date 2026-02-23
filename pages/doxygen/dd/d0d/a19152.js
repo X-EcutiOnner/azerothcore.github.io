@@ -1,6 +1,6 @@
 var a19152 =
 [
-    [ "RespawnEvent", "dd/d0d/a19152.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
-    [ "Execute", "dd/d0d/a19152.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
-    [ "_owner", "dd/d0d/a19152.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
+    [ "PrepareSpellScript", "dd/d0d/a19152.html#aac12da39c503615036120e3e0cd55622", null ],
+    [ "Register", "dd/d0d/a19152.html#a808d2283be9714c14f22a2df0a52dd61", null ],
+    [ "RelocateDest", "dd/d0d/a19152.html#a843c9dc403404ddd2de667e57e01f00c", null ]
 ];

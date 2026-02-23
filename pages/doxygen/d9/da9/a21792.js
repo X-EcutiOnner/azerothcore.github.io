@@ -1,9 +1,11 @@
 var a21792 =
 [
-    [ "npc_bloodmage_laurithAI", "d9/da9/a21792.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "d9/da9/a21792.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "d9/da9/a21792.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
-    [ "UpdateAI", "d9/da9/a21792.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "d9/da9/a21792.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "d9/da9/a21792.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "npc_torturer_lecraftAI", "d9/da9/a21792.html#a0886d83c8ab8b7db728928ecf922031b", null ],
+    [ "JustEngagedWith", "d9/da9/a21792.html#ac6fa83aa5673bd6c90e128f06e56049e", null ],
+    [ "Reset", "d9/da9/a21792.html#a13177e318e7777ecb13ba71c4f10f425", null ],
+    [ "SpellHit", "d9/da9/a21792.html#a837805efcb6c99de55646a232f151ae8", null ],
+    [ "UpdateAI", "d9/da9/a21792.html#a45919da006b0e767ec38810a6fcbac5d", null ],
+    [ "_events", "d9/da9/a21792.html#a7879e11a94c32266ed11dc352ae7e802", null ],
+    [ "_playerGUID", "d9/da9/a21792.html#ab792ceb52fe5c04851f69b9c2922822d", null ],
+    [ "_textCounter", "d9/da9/a21792.html#aa7560f419ca1486efb9d6c3bda3cedf1", null ]
 ];

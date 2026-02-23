@@ -1,7 +1,8 @@
 var a26624 =
 [
-    [ "HandleDummy", "d9/dba/a26624.html#a123ddc812fb358b7517eba60d1f90eba", null ],
-    [ "Load", "d9/dba/a26624.html#a64ca188f58b4f34827f03ae2878deef0", null ],
-    [ "PrepareSpellScript", "d9/dba/a26624.html#a7068dd9e6f7838d9ad7023c2d61482cc", null ],
-    [ "Register", "d9/dba/a26624.html#aff7ea1c5c569022ece56ecdb3f434723", null ]
+    [ "Load", "d9/dba/a26624.html#a7662d85a5469c20edf6d2eefca820db3", null ],
+    [ "PrepareAuraScript", "d9/dba/a26624.html#a252bd975a7639eab4e151249db974b7c", null ],
+    [ "Register", "d9/dba/a26624.html#a51723a22f1062f44e8eb6848e1398595", null ],
+    [ "Split", "d9/dba/a26624.html#a08e982eae6030fdc679663bfd38bca47", null ],
+    [ "remainingAmount", "d9/dba/a26624.html#afaab88988769ddc720deb44f06de3d7d", null ]
 ];

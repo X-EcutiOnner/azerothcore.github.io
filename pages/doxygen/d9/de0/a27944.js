@@ -1,9 +1,8 @@
 var a27944 =
 [
-    [ "npc_herald_of_the_lich_king", "d9/de0/a27944.html#a62e373796ce4e6509692e6837cdb561f", null ],
-    [ "ChangeZoneEventStatus", "d9/de0/a27944.html#a30c44f2f62badd27b105a55527d40670", null ],
-    [ "DoAction", "d9/de0/a27944.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
-    [ "InitializeAI", "d9/de0/a27944.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
-    [ "UpdateAI", "d9/de0/a27944.html#a21a5093a46959f4b69777b63de12c557", null ],
-    [ "UpdateWeather", "d9/de0/a27944.html#a3c6d076171596c9ce472cddda18a42be", null ]
+    [ "CharacterActionIpLogger", "d9/de0/a27944.html#a39861f7348a79031a8215b435ba81059", null ],
+    [ "CharacterIPLogAction", "d9/de0/a27944.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
+    [ "OnPlayerCreate", "d9/de0/a27944.html#a48844efac9d9af9c6415ad49d2473688", null ],
+    [ "OnPlayerLogin", "d9/de0/a27944.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
+    [ "OnPlayerLogout", "d9/de0/a27944.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
 ];

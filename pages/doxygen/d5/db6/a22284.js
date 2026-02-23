@@ -1,7 +1,8 @@
 var a22284 =
 [
-    [ "Absorb", "d5/db6/a22284.html#a784b48553696734abac77545df2fc045", null ],
-    [ "CalculateAmount", "d5/db6/a22284.html#a456ee99a71062f6217bda7561e4e7766", null ],
-    [ "PrepareAuraScript", "d5/db6/a22284.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
-    [ "Register", "d5/db6/a22284.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
+    [ "npc_wg_queueAI", "d5/dab/a22288.html", "d5/dab/a22288" ],
+    [ "npc_wg_queue", "d5/db6/a22284.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
+    [ "GetAI", "d5/db6/a22284.html#ad2d7746a32b520d37ea826b03627de4e", null ],
+    [ "OnGossipHello", "d5/db6/a22284.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
+    [ "OnGossipSelect", "d5/db6/a22284.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
 ];

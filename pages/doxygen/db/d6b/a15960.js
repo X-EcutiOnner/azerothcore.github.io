@@ -1,9 +1,13 @@
 var a15960 =
 [
-    [ "npc_pluckyAI", "db/d6b/a15960.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
-    [ "ReceiveEmote", "db/d6b/a15960.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
-    [ "Reset", "db/d6b/a15960.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
-    [ "UpdateAI", "db/d6b/a15960.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
-    [ "NormFaction", "db/d6b/a15960.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
-    [ "ResetTimer", "db/d6b/a15960.html#ac9808c21666cd17b0603e7e67a61d015", null ]
+    [ "npc_shenthulAI", "db/d6b/a15960.html#ae056474022c27be5565bf018a1b56f0b", null ],
+    [ "JustEngagedWith", "db/d6b/a15960.html#acb202ef530bc11ea807f580ff5dfc621", null ],
+    [ "ReceiveEmote", "db/d6b/a15960.html#ab2ddc3e447b36cb0fceffdaff0fca592", null ],
+    [ "Reset", "db/d6b/a15960.html#af077e96eb8bf89af2d6eb79907444a17", null ],
+    [ "UpdateAI", "db/d6b/a15960.html#a2ae643c11c6ea3808be922de96a24e8f", null ],
+    [ "CanEmote", "db/d6b/a15960.html#a920209c374e611e96347d209337c044f", null ],
+    [ "CanTalk", "db/d6b/a15960.html#a82ea8d2ee50538135add120be7616f86", null ],
+    [ "PlayerGUID", "db/d6b/a15960.html#a4b262388aca789d19231426a8cb73379", null ],
+    [ "ResetTimer", "db/d6b/a15960.html#a475a141d639f0136ac943e6afb1ecd15", null ],
+    [ "SaluteTimer", "db/d6b/a15960.html#ae76b4bbde77b6029a788abfbbbe84df8", null ]
 ];

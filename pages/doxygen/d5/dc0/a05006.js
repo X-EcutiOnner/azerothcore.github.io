@@ -1,8 +1,12 @@
 var a05006 =
 [
-    [ "MMapData", "d5/dc0/a05006.html#ab6aa577df2b8bc749e68515b7b5ef96c", null ],
-    [ "~MMapData", "d5/dc0/a05006.html#a28ad87f05014c49373557369e9177df5", null ],
-    [ "loadedTileRefs", "d5/dc0/a05006.html#afa8799db33459dd5e36b7a43eae7d16b", null ],
-    [ "navMesh", "d5/dc0/a05006.html#a786a4b43773e4402451bed82cf221f66", null ],
-    [ "navMeshQueries", "d5/dc0/a05006.html#abb7a9f9131b3657eff54ed17fc329b43", null ]
+    [ "InstanceLockResponse", "df/d45/a11028.html", "df/d45/a11028" ],
+    [ "InstanceReset", "dc/d5a/a10996.html", "dc/d5a/a10996" ],
+    [ "InstanceResetFailed", "d4/d70/a11000.html", "d4/d70/a11000" ],
+    [ "ResetFailedNotify", "d0/d19/a11012.html", "d0/d19/a11012" ],
+    [ "ResetInstances", "d8/dfc/a11024.html", "d8/dfc/a11024" ],
+    [ "SetDungeonDifficulty", "d6/dd8/a11004.html", "d6/dd8/a11004" ],
+    [ "SetDungeonDifficultyClient", "da/d95/a11008.html", "da/d95/a11008" ],
+    [ "SetRaidDifficulty", "d6/d60/a11016.html", "d6/d60/a11016" ],
+    [ "SetRaidDifficultyClient", "d8/d39/a11020.html", "d8/d39/a11020" ]
 ];

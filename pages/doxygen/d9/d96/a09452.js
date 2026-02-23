@@ -1,9 +1,8 @@
 var a09452 =
 [
-    [ "AnyFriendlyUnitInObjectRangeCheck", "d9/d96/a09452.html#a4ed3a469f35cb7b64ad5f144281b7910", null ],
-    [ "operator()", "d9/d96/a09452.html#a6e1026191fd4b1b45696a60f45b1b7b8", null ],
-    [ "i_funit", "d9/d96/a09452.html#a9ebd1a1d9716dfda55509396947c1a83", null ],
-    [ "i_obj", "d9/d96/a09452.html#adacade7450b0af19540ea705e1bd438b", null ],
-    [ "i_playerOnly", "d9/d96/a09452.html#a6b0d852333ee74a20281ce7de5a45b98", null ],
-    [ "i_range", "d9/d96/a09452.html#a2af638499152888a698b0fc1570e46ed", null ]
+    [ "GameObjectWorker", "d9/d96/a09452.html#a79dd3983b007d982bbb1f0b33c5c7a54", null ],
+    [ "Visit", "d9/d96/a09452.html#a754197d7a9aa3203cda964cbee81ae9a", null ],
+    [ "Visit", "d9/d96/a09452.html#a47a10a6790179eb5b78cbb66dd9d7b54", null ],
+    [ "_func", "d9/d96/a09452.html#abeaa251f909368e3ebeeff4dcefbda94", null ],
+    [ "_phaseMask", "d9/d96/a09452.html#accfe66385f5bbfb461d0493c22fde20e", null ]
 ];

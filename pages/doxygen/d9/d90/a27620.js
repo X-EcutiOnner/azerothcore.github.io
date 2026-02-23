@@ -1,6 +1,9 @@
 var a27620 =
 [
-    [ "go_bellsAI", "d4/d99/a27624.html", "d4/d99/a27624" ],
-    [ "go_bells", "d9/d90/a27620.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
-    [ "GetAI", "d9/d90/a27620.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
+    [ "CheckCast", "d9/d90/a27620.html#a846862b62f5750801cd804133f290d5d", null ],
+    [ "HandleDummy", "d9/d90/a27620.html#aa56609d3c75a69fb62e302622fd11c3c", null ],
+    [ "Load", "d9/d90/a27620.html#acec7437ba80e4ae491020448a36e4559", null ],
+    [ "PrepareSpellScript", "d9/d90/a27620.html#ab5e281028c009a4b317111de9a0a17e3", null ],
+    [ "Register", "d9/d90/a27620.html#a865fa526f2131703a668e113ba0d7849", null ],
+    [ "Validate", "d9/d90/a27620.html#a6c6dee3de2c54536765cfdd97f4fd0c0", null ]
 ];

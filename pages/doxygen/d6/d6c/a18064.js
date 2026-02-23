@@ -1,10 +1,6 @@
 var a18064 =
 [
-    [ "npc_bone_spikeAI", "d6/d6c/a18064.html#a1b54aaa7b5ed142561fbc02e9593e87c", null ],
-    [ "DoAction", "d6/d6c/a18064.html#a38b2944fb4e9d7fcc7205423faa8a994", null ],
-    [ "IsSummonedBy", "d6/d6c/a18064.html#af2794484ee3ebf0579ce7357d222240d", null ],
-    [ "JustDied", "d6/d6c/a18064.html#ae9c8fa649ba9fac74187913d29be9dd6", null ],
-    [ "UpdateAI", "d6/d6c/a18064.html#a8eff2bcc6507c65e563ed272977f224e", null ],
-    [ "events", "d6/d6c/a18064.html#a6a35900435d41d0603919f29415667a5", null ],
-    [ "hasTrappedUnit", "d6/d6c/a18064.html#aeb7236ef0d313fd3799458f3d50276f7", null ]
+    [ "PrepareSpellScript", "d6/d6c/a18064.html#a47df21229183b628c1d82bf34cbbe396", null ],
+    [ "Register", "d6/d6c/a18064.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
+    [ "RelocateTransportOffset", "d6/d6c/a18064.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
 ];

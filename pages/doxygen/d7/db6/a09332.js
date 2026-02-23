@@ -1,8 +1,7 @@
 var a09332 =
 [
-    [ "GameObjectWorker", "d7/db6/a09332.html#a79dd3983b007d982bbb1f0b33c5c7a54", null ],
-    [ "Visit", "d7/db6/a09332.html#a754197d7a9aa3203cda964cbee81ae9a", null ],
-    [ "Visit", "d7/db6/a09332.html#a47a10a6790179eb5b78cbb66dd9d7b54", null ],
-    [ "_func", "d7/db6/a09332.html#abeaa251f909368e3ebeeff4dcefbda94", null ],
-    [ "_phaseMask", "d7/db6/a09332.html#accfe66385f5bbfb461d0493c22fde20e", null ]
+    [ "flags", "d7/db6/a09332.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
+    [ "fourcc", "d7/db6/a09332.html#a93b48dd741d13ff036eac8a77df9f916", null ],
+    [ "gridHeight", "d7/db6/a09332.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
+    [ "gridMaxHeight", "d7/db6/a09332.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
 ];

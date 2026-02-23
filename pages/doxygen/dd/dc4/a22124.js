@@ -1,9 +1,15 @@
 var a22124 =
 [
-    [ "npc_wounded_skirmisher", "dd/dc4/a22124.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
-    [ "Initialize", "dd/dc4/a22124.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
-    [ "JustEngagedWith", "dd/dc4/a22124.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
-    [ "Reset", "dd/dc4/a22124.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
-    [ "SpellHit", "dd/dc4/a22124.html#a891e879af5da1f181c94e528c59a81f1", null ],
-    [ "UpdateAI", "dd/dc4/a22124.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
+    [ "npc_jungle_punch_targetAI", "dd/dc4/a22124.html#a04f09361f6bc4bc752ca773878187f79", null ],
+    [ "MoveInLineOfSight", "dd/dc4/a22124.html#adc08551a256220bab144ef26d89c4263", null ],
+    [ "proceedCwEvent", "dd/dc4/a22124.html#a54f8a5c7414f4a9fd019e02fede1970d", null ],
+    [ "Reset", "dd/dc4/a22124.html#a56faff3edbe0d13969e8d20e6c3e03a2", null ],
+    [ "SpellHit", "dd/dc4/a22124.html#a3515e873adf5a097f66764887e3cc5a3", null ],
+    [ "UpdateAI", "dd/dc4/a22124.html#afa2a1bcdeef51e9f984307f576a1ff6e", null ],
+    [ "orphanGUID", "dd/dc4/a22124.html#a5947a4415b63f8bbda4d53c44ccebf74", null ],
+    [ "phase", "dd/dc4/a22124.html#a737a9016c93d621bf8cfa29d6b66b345", null ],
+    [ "playerGUID", "dd/dc4/a22124.html#afbb4e4c74c2634a442171f06bb2eff08", null ],
+    [ "sayStep", "dd/dc4/a22124.html#a1b1757dd6e0775f1f4791b4feafd86fb", null ],
+    [ "sayTimer", "dd/dc4/a22124.html#a4edf558dbc54ff1acab15d6daf0a5613", null ],
+    [ "timer", "dd/dc4/a22124.html#a0fa884bf3003267501f048d3f1287d42", null ]
 ];

@@ -1,5 +1,6 @@
 var a18040 =
 [
-    [ "at_lady_deathwhisper_entrance", "de/d05/a18040.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
-    [ "OnTrigger", "de/d05/a18040.html#a769c838c94a88af5492057909d88f3de", null ]
+    [ "npc_gunship_gunnerAI", "d0/d86/a18044.html", "d0/d86/a18044" ],
+    [ "npc_gunship_gunner", "de/d05/a18040.html#a409711f22b35eae0c0d48bc23545e592", null ],
+    [ "GetAI", "de/d05/a18040.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
 ];

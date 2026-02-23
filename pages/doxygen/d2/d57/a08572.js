@@ -1,6 +1,5 @@
 var a08572 =
 [
-    [ "active", "d2/d57/a08572.html#a9460571d6fc219ab8c475aab34fc9494", null ],
-    [ "state", "d2/d57/a08572.html#a0600418cb460fdaf8093bfa609e796c8", null ],
-    [ "type", "d2/d57/a08572.html#a4c4a7d0f299ae4e2ceb146a741057032", null ]
+    [ "InventoryType", "d2/d57/a08572.html#a5d2733f6b8e3fda906f18fb45330d437", null ],
+    [ "name", "d2/d57/a08572.html#a67245cff18aad700717b7b7af9f07458", null ]
 ];

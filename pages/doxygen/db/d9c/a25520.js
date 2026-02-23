@@ -1,6 +1,7 @@
 var a25520 =
 [
-    [ "CalculateDamage", "db/d9c/a25520.html#a2b0d2465c42bb32a2e0a2be1884eddb6", null ],
-    [ "PrepareSpellScript", "db/d9c/a25520.html#a4271f026fd9cddeb109761e9b864c381", null ],
-    [ "Register", "db/d9c/a25520.html#a03bb4cf19328efa783600273663b609a", null ]
+    [ "HandleProc", "db/d9c/a25520.html#a107d4e1650c6044b60ab711b01c607f6", null ],
+    [ "PrepareAuraScript", "db/d9c/a25520.html#ad14fb132bbbcb7d378521530372a5a7c", null ],
+    [ "Register", "db/d9c/a25520.html#ad49679e2b6966ddcd70bb48c44927bad", null ],
+    [ "Validate", "db/d9c/a25520.html#adfd2e27d6f40356bfacf7cad424e7e4d", null ]
 ];

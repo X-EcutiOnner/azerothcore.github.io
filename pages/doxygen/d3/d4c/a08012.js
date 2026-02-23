@@ -1,7 +1,6 @@
 var a08012 =
 [
-    [ "LfgJoinResultData", "d3/d4c/a08012.html#a1d711d49a6b49f55eb3771352b294b95", null ],
-    [ "lockmap", "d3/d4c/a08012.html#aff918b3c02ca76982a964402175f8ad7", null ],
-    [ "result", "d3/d4c/a08012.html#aa713cbc1930962d520883523f6f6446c", null ],
-    [ "state", "d3/d4c/a08012.html#a2eee5e81651a7a9be245e4b717ab53ed", null ]
+    [ "value_type", "d3/d4c/a08012.html#a39c517c76f9109f1bccd27cd04ec88cd", null ],
+    [ "StoreTo", "d3/d4c/a08012.html#a5658d34ee9af224a3d19ba5d5123535e", null ],
+    [ "tag", "d3/d4c/a08012.html#a3538ae91cb7d37c3d0a6a4964f4baaf9", null ]
 ];

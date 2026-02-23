@@ -1,8 +1,6 @@
 var a27736 =
 [
-    [ "npc_nelsonAI", "dc/d74/a27740.html", "dc/d74/a27740" ],
-    [ "npc_nelson", "d4/df4/a27736.html#ada597926a6db1aa7823ddabc19945b11", null ],
-    [ "GetAI", "d4/df4/a27736.html#a75fea281fb49249345c48236bf44b1c8", null ],
-    [ "OnGossipHello", "d4/df4/a27736.html#aa693b365a15d4617f214f9c3c229bf89", null ],
-    [ "OnGossipSelect", "d4/df4/a27736.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
+    [ "HandleCast", "d4/df4/a27736.html#ac6afa94be0da1f99b12afebe935bcb5d", null ],
+    [ "PrepareSpellScript", "d4/df4/a27736.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
+    [ "Register", "d4/df4/a27736.html#a81bc86c83ffc70602410912870e61700", null ]
 ];

@@ -1,17 +1,12 @@
 var a13020 =
 [
-    [ "boss_dorothee", "d5/d4b/a13020.html#a8bd5b4753c2d8f8aced0c036912f10f1", null ],
-    [ "DoAction", "d5/d4b/a13020.html#a1b9cf1e58d68d249249a8b0d082b725a", null ],
-    [ "EnterEvadeMode", "d5/d4b/a13020.html#a6dfc4109370d4e932e7376a443bd64ad", null ],
-    [ "JustDied", "d5/d4b/a13020.html#a289dfa1f257ca25acba9487908e6223c", null ],
-    [ "JustEngagedWith", "d5/d4b/a13020.html#aa35dafeb9faf8eeea55caa0eeb669db3", null ],
-    [ "JustReachedHome", "d5/d4b/a13020.html#a762209d2bf78cc21c48a426732f2354e", null ],
-    [ "Reset", "d5/d4b/a13020.html#ae3f123a6a9223b7928295812326b0cb4", null ],
-    [ "SummonedCreatureDies", "d5/d4b/a13020.html#a0e76c828a1c7c49741963b6e98003a66", null ],
-    [ "SummonTito", "d5/d4b/a13020.html#a5c04074aab40ecaeeb84b33205b40144", null ],
-    [ "UpdateAI", "d5/d4b/a13020.html#a30fbcc5e7ca4ed74b9d2895b94a9a19e", null ],
-    [ "_scheduler", "d5/d4b/a13020.html#a840bcbad78ff881ef3a803ffa23d3c6e", null ],
-    [ "_startIntro", "d5/d4b/a13020.html#a20e6555e2117a62fce3af7f7fb7167cc", null ],
-    [ "instance", "d5/d4b/a13020.html#ac6a6f1c9074697f761e4e09550cfea71", null ],
-    [ "titoDied", "d5/d4b/a13020.html#a258cc9ce32f314e723d5345ac18336bf", null ]
+    [ "BoardCell", "d5/d4b/a13020.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
+    [ "Reset", "d5/d4b/a13020.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
+    [ "SetData", "d5/d4b/a13020.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
+    [ "SetPiece", "d5/d4b/a13020.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
+    [ "col", "d5/d4b/a13020.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
+    [ "pieceEntry", "d5/d4b/a13020.html#a7697506ccc800d38968e457c44bfa019", null ],
+    [ "pieceGUID", "d5/d4b/a13020.html#a74f494e406c56d4c61d79539acea684c", null ],
+    [ "row", "d5/d4b/a13020.html#a195c187e134be546f224cbb0eef8c844", null ],
+    [ "triggerGUID", "d5/d4b/a13020.html#a9cafdea50739b014a97e60611adcd3f1", null ]
 ];

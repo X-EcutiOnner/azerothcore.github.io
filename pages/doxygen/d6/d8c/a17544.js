@@ -1,6 +1,6 @@
 var a17544 =
 [
-    [ "npc_blood_queen_lana_thelAI", "dd/d61/a17548.html", "dd/d61/a17548" ],
-    [ "npc_blood_queen_lana_thel", "d6/d8c/a17544.html#a39adef3ae54efd4433805bd8ad4719be", null ],
-    [ "GetAI", "d6/d8c/a17544.html#a02d928ac4ef1704cee2498ebe6533561", null ]
+    [ "HandleDummy", "d6/d8c/a17544.html#aef592aafe931351186edf98f7aba7e22", null ],
+    [ "PrepareSpellScript", "d6/d8c/a17544.html#ab79a160e0d5b0c6e0ecfa842a4da2819", null ],
+    [ "Register", "d6/d8c/a17544.html#a7594952f23cba22b886c2c3b10f363d4", null ]
 ];

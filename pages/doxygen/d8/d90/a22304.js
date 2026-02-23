@@ -1,6 +1,6 @@
 var a22304 =
 [
-    [ "ChangeSummonPos", "d8/d90/a22304.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "d8/d90/a22304.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "d8/d90/a22304.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "go_wg_vehicle_teleporterAI", "d0/da2/a22308.html", "d0/da2/a22308" ],
+    [ "go_wg_vehicle_teleporter", "d8/d90/a22304.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
+    [ "GetAI", "d8/d90/a22304.html#a113aaf42c095000c1a016bfe60df11e7", null ]
 ];

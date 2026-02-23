@@ -1,7 +1,7 @@
 var a17196 =
 [
-    [ "npc_hor_leader_secondAI", "da/d73/a17200.html", "da/d73/a17200" ],
-    [ "npc_hor_leader_second", "dc/d62/a17196.html#a9fa1f38ab8a0b5d2207857b75e272ee0", null ],
-    [ "GetAI", "dc/d62/a17196.html#af5b97ecca35501a75658919d384a18f7", null ],
-    [ "OnGossipSelect", "dc/d62/a17196.html#a8355f7f2f8e7655c7ebc7145a847ab87", null ]
+    [ "HandlePeriodicTick", "dc/d62/a17196.html#a7fa0334a0a33b15758b6362aa0a9bd7d", null ],
+    [ "PrepareAuraScript", "dc/d62/a17196.html#aabaef31a3c699c322e24e064f357f82f", null ],
+    [ "Register", "dc/d62/a17196.html#ae9602bc623422c124dfc37a18c0dbfec", null ],
+    [ "Validate", "dc/d62/a17196.html#a18d92a82760992bc5d8503e3f774f208", null ]
 ];

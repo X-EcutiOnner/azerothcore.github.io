@@ -1,5 +1,4 @@
 var a07848 =
 [
-    [ "Quest", "db/d0d/a07848.html#aca1cbcd3319031b549c0ec6441b2c821", null ],
-    [ "QuestLevel", "db/d0d/a07848.html#ad162701af62caac909ef9f57f68bf848", null ]
+    [ "type", "db/d0d/a07848.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9", null ]
 ];

@@ -1,6 +1,8 @@
 var a15132 =
 [
-    [ "instance_the_black_morass_InstanceMapScript", "de/daa/a15136.html", "de/daa/a15136" ],
-    [ "instance_the_black_morass", "d1/de6/a15132.html#aa59c960a89dbd66a4c0ad2105792efb4", null ],
-    [ "GetInstanceScript", "d1/de6/a15132.html#a44b01fc7ab23c8f4ecfa1e375a237463", null ]
+    [ "hyjalTyrandeAI", "d1/de6/a15132.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
+    [ "JustDied", "d1/de6/a15132.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
+    [ "JustEngagedWith", "d1/de6/a15132.html#a158589b567d22c8f6e0be462bad8299d", null ],
+    [ "Reset", "d1/de6/a15132.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
+    [ "UpdateAI", "d1/de6/a15132.html#a9e825f9d87df6227b73eb965488eff8a", null ]
 ];

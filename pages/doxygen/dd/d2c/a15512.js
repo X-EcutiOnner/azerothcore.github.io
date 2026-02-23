@@ -1,6 +1,8 @@
 var a15512 =
 [
-    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "de/d96/a15516.html", "de/d96/a15516" ],
-    [ "instance_temple_of_ahnqiraj", "dd/d2c/a15512.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
-    [ "GetInstanceScript", "dd/d2c/a15512.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
+    [ "npc_obsidian_destroyer", "dd/d2c/a15512.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
+    [ "JustDied", "dd/d2c/a15512.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
+    [ "JustEngagedWith", "dd/d2c/a15512.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
+    [ "Reset", "dd/d2c/a15512.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
+    [ "UpdateAI", "dd/d2c/a15512.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
 ];

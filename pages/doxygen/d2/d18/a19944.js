@@ -1,5 +1,6 @@
 var a19944 =
 [
-    [ "achievement_algalon_herald_of_the_titans", "d2/d18/a19944.html#a13c75b878f4669d212eeb09b55336384", null ],
-    [ "OnCheck", "d2/d18/a19944.html#a20811d7bb453b1758967c11545e630e9", null ]
+    [ "CalculateDamage", "d2/d18/a19944.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
+    [ "PrepareSpellScript", "d2/d18/a19944.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
+    [ "Register", "d2/d18/a19944.html#a02851f0b94687512a8e016bfb9b826e3", null ]
 ];

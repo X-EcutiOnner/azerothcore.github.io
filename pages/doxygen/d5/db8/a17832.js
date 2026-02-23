@@ -1,5 +1,7 @@
 var a17832 =
 [
-    [ "npc_zafod_boomboxAI", "d5/db8/a17832.html#a6540d8f5787ce1da211123721ef659f3", null ],
-    [ "sGossipSelect", "d5/db8/a17832.html#a6378748a168e4e668f696bd9c6dfbc31", null ]
+    [ "achievement_once_bitten_twice_shy", "d5/db8/a17832.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
+    [ "OnCheck", "d5/db8/a17832.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
+    [ "_spawnMode", "d5/db8/a17832.html#a6f02f5ab07143ddff553279049714902", null ],
+    [ "_wasVampire", "d5/db8/a17832.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
 ];

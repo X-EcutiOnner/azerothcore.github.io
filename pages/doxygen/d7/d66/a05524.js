@@ -1,17 +1,9 @@
 var a05524 =
 [
-    [ "CircularBuffer", "d7/d66/a05524.html#a169d3975fbe8eda83c02f62b34347bc9", null ],
-    [ "capacity", "d7/d66/a05524.html#aed04549e911fb6ecebbac1cbd01e9dcd", null ],
-    [ "content", "d7/d66/a05524.html#ad364f8ee7c9176b912ea053e2f3c928f", null ],
-    [ "empty", "d7/d66/a05524.html#a7509cc5ef0dd0a9f731c47b05929580c", null ],
-    [ "full", "d7/d66/a05524.html#a2a2f13f00dca028142c250b5f2183097", null ],
-    [ "peak_back", "d7/d66/a05524.html#ad4bb17889033526da4605ebddd60f3c7", null ],
-    [ "put", "d7/d66/a05524.html#a2a5e093804731b69969c18e49a206572", null ],
-    [ "size", "d7/d66/a05524.html#af429f831da3fd31618d1c1612cd94ce7", null ],
-    [ "buf_", "d7/d66/a05524.html#aa2b9389da6cd912b4dd54d89ca1d69ee", null ],
-    [ "full_", "d7/d66/a05524.html#a1dfcbf9f9d2760d7d82144c57ff8a60e", null ],
-    [ "head_", "d7/d66/a05524.html#a43ba1c722307cdbbf38f8ba1ec7f64c6", null ],
-    [ "max_size_", "d7/d66/a05524.html#a4ad34b67dc4924addf79905732203d2a", null ],
-    [ "mutex_", "d7/d66/a05524.html#aa4762ba2167d8b9560ff39328b4b3afa", null ],
-    [ "tail_", "d7/d66/a05524.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f", null ]
+    [ "IpLocationStore", "d7/d66/a05524.html#a1b3a38bbd932ae50d55ff15374aa2f37", null ],
+    [ "~IpLocationStore", "d7/d66/a05524.html#a82360c1ce130670fde23d42135f91324", null ],
+    [ "GetLocationRecord", "d7/d66/a05524.html#a06384169031d2417a7f6bac54d3187a9", null ],
+    [ "instance", "d7/d66/a05524.html#ad740adf9b81b37cf147dc00e220b29db", null ],
+    [ "Load", "d7/d66/a05524.html#a411302e6bf5e5e82e5cd59e78e66bd0b", null ],
+    [ "_ipLocationStore", "d7/d66/a05524.html#af7b7a5a4fc65c6af966be27f7bf7e07d", null ]
 ];

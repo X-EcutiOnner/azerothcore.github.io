@@ -1,6 +1,6 @@
 var a15864 =
 [
-    [ "npc_braug_dimspirit", "d0/d94/a15864.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
-    [ "OnGossipHello", "d0/d94/a15864.html#aeaed026edf5a1fa82c941f667c05815b", null ],
-    [ "OnGossipSelect", "d0/d94/a15864.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
+    [ "npc_tiger_matriarch_creditAI", "d0/d94/a15864.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
+    [ "UpdateAI", "d0/d94/a15864.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
+    [ "events", "d0/d94/a15864.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
 ];

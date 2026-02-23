@@ -1,12 +1,14 @@
 var a13052 =
 [
-    [ "boss_bigbadwolf", "dc/d6d/a13052.html#a1e4ad63c96d64f81e8b9ea82f118cdcc", null ],
-    [ "EnterEvadeMode", "dc/d6d/a13052.html#a4f2d5307f5d05ed58bfc200f53bf2969", null ],
-    [ "JustDied", "dc/d6d/a13052.html#a167083a43e00a60e9c3792cadaf6e80c", null ],
-    [ "JustEngagedWith", "dc/d6d/a13052.html#a529fad938a0ef7261f1c2d589b6ff29c", null ],
-    [ "JustReachedHome", "dc/d6d/a13052.html#a7755bf925d919c73075a41f8774280c0", null ],
-    [ "KilledUnit", "dc/d6d/a13052.html#a8e004a1feac796ed467eba744f211827", null ],
-    [ "UpdateAI", "dc/d6d/a13052.html#ab788a0155a3ffe6535d58263eea16dee", null ],
-    [ "_scheduler", "dc/d6d/a13052.html#a661d9b619be30764ba5b89d71de870e9", null ],
-    [ "instance", "dc/d6d/a13052.html#aed0e9edc52f13b7b0cfa5047849c26a9", null ]
+    [ "boss_midnight", "dc/d6d/a13052.html#aacf45b21a30d671d5e9720a30336f72c", null ],
+    [ "CanMeleeHit", "dc/d6d/a13052.html#ad46a3726f398e5db56612d78d33fb13f", null ],
+    [ "DamageTaken", "dc/d6d/a13052.html#a47be6bc98217cf32a54dc522b7983bdb", null ],
+    [ "DoAction", "dc/d6d/a13052.html#a6831149d56f432aa3116d4172ef95a18", null ],
+    [ "EnterEvadeMode", "dc/d6d/a13052.html#a7ef9e935ac932f5a9e4fd435b8180783", null ],
+    [ "JustEngagedWith", "dc/d6d/a13052.html#afbb95384e6c747e73c87c5a5eb40843e", null ],
+    [ "JustSummoned", "dc/d6d/a13052.html#a2644deaf0a2970835b0cd508565e7279", null ],
+    [ "KilledUnit", "dc/d6d/a13052.html#a14dcbec9dc43cc12a124b6f140e0e8e6", null ],
+    [ "Reset", "dc/d6d/a13052.html#a4f9cb414779705c179bc5447975b35e9", null ],
+    [ "UpdateAI", "dc/d6d/a13052.html#a17c86571df6263fe1cc3657ca596e3ae", null ],
+    [ "_phase", "dc/d6d/a13052.html#ae5f3f452f5141cecab1b99616eb2bf74", null ]
 ];

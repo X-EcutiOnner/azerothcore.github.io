@@ -1,6 +1,9 @@
 var a24700 =
 [
-    [ "PrepareSpellScript", "df/d98/a24700.html#a6c49fad4dc5d080b9a5550f8f30cae4d", null ],
-    [ "RecalculateDamage", "df/d98/a24700.html#ab6a781160532d7cbb3bb3304eb412514", null ],
-    [ "Register", "df/d98/a24700.html#a82395d00066e90abc58103b18a5ef4dc", null ]
+    [ "HandleApply", "df/d98/a24700.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
+    [ "HandleRemove", "df/d98/a24700.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
+    [ "PrepareAuraScript", "df/d98/a24700.html#af2b8e669737cd4282beb6a5035f496fc", null ],
+    [ "RecalculateBaseArmor", "df/d98/a24700.html#a693720558c7b2b22c41a49a402522014", null ],
+    [ "Register", "df/d98/a24700.html#aff9bc58342383afe5a08be696cddedf6", null ],
+    [ "Validate", "df/d98/a24700.html#ad712e1e05d94372defdfa4fe67e65716", null ]
 ];

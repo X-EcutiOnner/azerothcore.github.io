@@ -1,6 +1,6 @@
 var a18380 =
 [
-    [ "npc_rimefangAI", "d1/d25/a18384.html", "d1/d25/a18384" ],
-    [ "npc_rimefang", "d5/dd6/a18380.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
-    [ "GetAI", "d5/dd6/a18380.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
+    [ "boss_rotfaceAI", "d1/d25/a18384.html", "d1/d25/a18384" ],
+    [ "boss_rotface", "d5/dd6/a18380.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "d5/dd6/a18380.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

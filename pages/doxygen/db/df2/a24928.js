@@ -1,6 +1,9 @@
 var a24928 =
 [
-    [ "PrepareAuraScript", "db/df2/a24928.html#a31bde31b6db4f71ce65c6e1a862df771", null ],
-    [ "Register", "db/df2/a24928.html#aebe64c4760d13d8afaebcf4a4b1196fa", null ],
-    [ "UpdateAmount", "db/df2/a24928.html#a621e73a09438f3f9cbaa232125df3b87", null ]
+    [ "PrepareAuraScript", "db/df2/a24928.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
+    [ "Register", "db/df2/a24928.html#a04efbc64bfa0312bc1f372e403803c32", null ],
+    [ "Update", "db/df2/a24928.html#aa463442b994b6275b2e12fe06ae7805c", null ],
+    [ "amplitude", "db/df2/a24928.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
+    [ "amplitude", "db/df2/a24928.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
+    [ "isPeriodic", "db/df2/a24928.html#a0732bf60822bbb547be014566d0e092c", null ]
 ];

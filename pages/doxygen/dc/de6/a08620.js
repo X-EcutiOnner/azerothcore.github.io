@@ -1,6 +1,7 @@
 var a08620 =
 [
-    [ "PlayerCreateInfoItem", "dc/de6/a08620.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
-    [ "item_amount", "dc/de6/a08620.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
-    [ "item_id", "dc/de6/a08620.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
+    [ "ObjectDistanceOrderPred", "dc/de6/a08620.html#adced3fdc6d99b7506361eb7700fa4cec", null ],
+    [ "operator()", "dc/de6/a08620.html#aaa5023735568f6df28a177fbd9ed866e", null ],
+    [ "m_ascending", "dc/de6/a08620.html#a313cd0450096e49716bfb52f8f238bfc", null ],
+    [ "m_refObj", "dc/de6/a08620.html#aec421fd45a60545bf92b7236e0d0b360", null ]
 ];

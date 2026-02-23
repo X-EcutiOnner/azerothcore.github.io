@@ -1,5 +1,8 @@
 var a19132 =
 [
-    [ "at_icc_spire_frostwyrm", "d2/d7a/a19132.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
-    [ "_OnTrigger", "d2/d7a/a19132.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
+    [ "CountTargets", "d2/d7a/a19132.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "d2/d7a/a19132.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "d2/d7a/a19132.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "d2/d7a/a19132.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "d2/d7a/a19132.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

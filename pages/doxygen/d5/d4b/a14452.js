@@ -1,6 +1,9 @@
 var a14452 =
 [
-    [ "npc_brewfest_bark_trigger", "d5/d4b/a14452.html#a110d654792e1f5dae8b17f014ea3d425", null ],
-    [ "GetTextFor", "d5/d4b/a14452.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
-    [ "MoveInLineOfSight", "d5/d4b/a14452.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
+    [ "boss_hazzarah", "d5/d4b/a14452.html#a73ba49b91addc9c03e1692587fe66a52", null ],
+    [ "CanAIAttack", "d5/d4b/a14452.html#a9038a5b4276fda8a6865217a7c494eec", null ],
+    [ "JustEngagedWith", "d5/d4b/a14452.html#a18e382c03ff923bb851a9cd8e2541788", null ],
+    [ "JustSummoned", "d5/d4b/a14452.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
+    [ "SummonedCreatureDies", "d5/d4b/a14452.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
+    [ "UpdateAI", "d5/d4b/a14452.html#a61d92f1650a84ed9684d33879e54bd09", null ]
 ];

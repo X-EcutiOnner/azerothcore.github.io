@@ -1,9 +1,6 @@
 var a27788 =
 [
-    [ "npc_target_dummyAI", "d5/d19/a27788.html#a117e45559ea721877d73df4b3c18a259", null ],
-    [ "EnterEvadeMode", "d5/d19/a27788.html#a8f7f2e4decc676e378b4929516f8a147", null ],
-    [ "MoveInLineOfSight", "d5/d19/a27788.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
-    [ "Reset", "d5/d19/a27788.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
-    [ "UpdateAI", "d5/d19/a27788.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
-    [ "deathTimer", "d5/d19/a27788.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
+    [ "HandleHeal", "d5/d19/a27788.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
+    [ "PrepareSpellScript", "d5/d19/a27788.html#a61a601108cd59e5d87634c02b002e20d", null ],
+    [ "Register", "d5/d19/a27788.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
 ];

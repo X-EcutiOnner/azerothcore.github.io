@@ -1,8 +1,10 @@
 var a10632 =
 [
-    [ "PlayedTime", "d5/d9e/a10632.html#abc477d90a27dc41a7c643448302464cf", null ],
-    [ "Write", "d5/d9e/a10632.html#a147071f2545cd91213d6c92dab7438c7", null ],
-    [ "LevelTime", "d5/d9e/a10632.html#a2bf832827f9497a59bbfac714799b4b5", null ],
-    [ "TotalTime", "d5/d9e/a10632.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
-    [ "TriggerScriptEvent", "d5/d9e/a10632.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
+    [ "WorldObjectScript", "d5/d9e/a10632.html#af044c3699a591c137abc5e03c772890b", null ],
+    [ "IsDatabaseBound", "d5/d9e/a10632.html#a48f037dd6152ff68ebef672de68df45e", null ],
+    [ "OnWorldObjectCreate", "d5/d9e/a10632.html#a2b32bc661e5a377de98902f3bc16679b", null ],
+    [ "OnWorldObjectDestroy", "d5/d9e/a10632.html#a7856d4b561cd99a7f405f86fffd57fef", null ],
+    [ "OnWorldObjectResetMap", "d5/d9e/a10632.html#a32e6b907a20d84377e1ddfce79b5cfe1", null ],
+    [ "OnWorldObjectSetMap", "d5/d9e/a10632.html#a12cf83d65dded66b41ca54a3c1bd31cb", null ],
+    [ "OnWorldObjectUpdate", "d5/d9e/a10632.html#abc139d1aa728f8a70886eed65d28f566", null ]
 ];

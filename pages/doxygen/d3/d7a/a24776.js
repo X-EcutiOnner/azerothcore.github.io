@@ -1,7 +1,7 @@
 var a24776 =
 [
-    [ "HandleDummy", "d3/d7a/a24776.html#a54f7f56a9122b623855eb9d11e34dfca", null ],
-    [ "PrepareSpellScript", "d3/d7a/a24776.html#a2fe4b009fa3741c180e18730af5853e3", null ],
-    [ "Register", "d3/d7a/a24776.html#a762c2320ab8d48e1284d81962a4b078f", null ],
-    [ "Validate", "d3/d7a/a24776.html#a42fbc381d7ae89f1ac265fb15ebd864f", null ]
+    [ "CalculateAmount", "d3/d7a/a24776.html#ab705e67f7abb72a13dfd32e7a6da4561", null ],
+    [ "Load", "d3/d7a/a24776.html#ac87f1c7ccb9aa9985d538c9d8611c850", null ],
+    [ "PrepareAuraScript", "d3/d7a/a24776.html#ae4a75ef8bc755c8220b768d5ac87a728", null ],
+    [ "Register", "d3/d7a/a24776.html#a636331452bc95a4434f1b85e85ea6e7b", null ]
 ];

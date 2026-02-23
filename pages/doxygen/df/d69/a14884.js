@@ -1,9 +1,7 @@
 var a14884 =
 [
-    [ "boss_azuregosAI", "df/d69/a14884.html#a839ab1e096d30062d64c1c515a7462a4", null ],
-    [ "JustDied", "df/d69/a14884.html#aea4d204173b7882d2d9acf8204410947", null ],
-    [ "JustEngagedWith", "df/d69/a14884.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
-    [ "KilledUnit", "df/d69/a14884.html#aeefc791e17d2a687f8beae809c44d123", null ],
-    [ "Reset", "df/d69/a14884.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
-    [ "UpdateAI", "df/d69/a14884.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
+    [ "OnApply", "df/d69/a14884.html#a42148069675e663456bb5495fa5c8702", null ],
+    [ "OnPeriodic", "df/d69/a14884.html#ad3582b02b369e3029e20817dd19aede0", null ],
+    [ "PrepareAuraScript", "df/d69/a14884.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
+    [ "Register", "df/d69/a14884.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
 ];

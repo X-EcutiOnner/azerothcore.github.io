@@ -1,6 +1,9 @@
 var a18060 =
 [
-    [ "npc_bone_spikeAI", "d6/d6c/a18064.html", "d6/d6c/a18064" ],
-    [ "npc_bone_spike", "d2/d88/a18060.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
-    [ "GetAI", "d2/d88/a18060.html#a887a9156f550ca55047fa501e1709d95", null ]
+    [ "CheckAreaTarget", "d2/d88/a18060.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
+    [ "HandleApply", "d2/d88/a18060.html#a9ce86d32957af07313af379b4176d0b3", null ],
+    [ "HandleRemove", "d2/d88/a18060.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
+    [ "Load", "d2/d88/a18060.html#aa10821981f3e80262850e5c46449d5d0", null ],
+    [ "PrepareAuraScript", "d2/d88/a18060.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
+    [ "Register", "d2/d88/a18060.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
 ];

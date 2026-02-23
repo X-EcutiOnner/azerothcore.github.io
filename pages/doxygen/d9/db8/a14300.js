@@ -1,6 +1,7 @@
 var a14300 =
 [
-    [ "FilterTargets", "d9/db8/a14300.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
-    [ "PrepareSpellScript", "d9/db8/a14300.html#a0a1cbde8aff10303d91a791276a865f4", null ],
-    [ "Register", "d9/db8/a14300.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
+    [ "npc_zuljin_vortex", "d9/db8/a14300.html#af3af996adc0a0dba4af992234f8356fb", null ],
+    [ "ChangeToNewPlayer", "d9/db8/a14300.html#ab353794ef978151999fdd2294783e757", null ],
+    [ "Reset", "d9/db8/a14300.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
+    [ "UpdateAI", "d9/db8/a14300.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
 ];

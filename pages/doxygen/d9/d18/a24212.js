@@ -1,6 +1,6 @@
 var a24212 =
 [
-    [ "npc_ancestral_wolfAI", "d3/d51/a24216.html", "d3/d51/a24216" ],
-    [ "npc_ancestral_wolf", "d9/d18/a24212.html#a7cadf2848a086db63792f8068ee9463d", null ],
-    [ "GetAI", "d9/d18/a24212.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
+    [ "PrepareSpellScript", "d9/d18/a24212.html#aba1979c98f7d0e162cb7aee36c57f568", null ],
+    [ "Register", "d9/d18/a24212.html#a07f75e1ad374118ab0195dd1a17376ed", null ],
+    [ "SetDest", "d9/d18/a24212.html#a23afed27143ca0b8e4cdc477d47ab6e0", null ]
 ];

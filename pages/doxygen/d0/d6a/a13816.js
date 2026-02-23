@@ -1,6 +1,6 @@
 var a13816 =
 [
-    [ "npc_maredis_firestarAI", "d0/d6a/a13816.html#ac2d4ed4b205146524dcf11585d65ae12", null ],
-    [ "sGossipHello", "d0/d6a/a13816.html#a72790dc9525249a4b558c37c4a0bd03f", null ],
-    [ "sGossipSelect", "d0/d6a/a13816.html#acefb2bc09fe8f7ad77d53ee6eb8bbb71", null ]
+    [ "HandlePeriodic", "d0/d6a/a13816.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
+    [ "PrepareAuraScript", "d0/d6a/a13816.html#a7ac99d626990f068a00f403847bfa6bc", null ],
+    [ "Register", "d0/d6a/a13816.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
 ];

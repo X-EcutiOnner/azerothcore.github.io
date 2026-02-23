@@ -1,11 +1,7 @@
 var a05224 =
 [
-    [ "AuthCrypt", "d1/d94/a05224.html#a8c5239631bd6cf700059af31f04126a3", null ],
-    [ "DecryptRecv", "d1/d94/a05224.html#a552bd409afb5fcda8a11627ccb20e4b0", null ],
-    [ "EncryptSend", "d1/d94/a05224.html#a385fe62742cdbbf62725ace616a06b37", null ],
-    [ "Init", "d1/d94/a05224.html#ac76e9a59dc6bcef074e3213cecb4c7b8", null ],
-    [ "IsInitialized", "d1/d94/a05224.html#a911330ec40c0ca881af2f0c6fd6b0fef", null ],
-    [ "_clientDecrypt", "d1/d94/a05224.html#ae67fcb84288ebd120ad71bedc52086c2", null ],
-    [ "_initialized", "d1/d94/a05224.html#a99de2f8dd625cef94d70eeddefc9ac5c", null ],
-    [ "_serverEncrypt", "d1/d94/a05224.html#af30b0691f7089d52c2fbd9c5b9f52e68", null ]
+    [ "GameobjectModelData", "d1/d94/a05224.html#a7d259df5a5541f95e0f548674d023fc8", null ],
+    [ "bound", "d1/d94/a05224.html#ab133a32c9eefff0a35acaa4e157a3f05", null ],
+    [ "isWmo", "d1/d94/a05224.html#ac51305f0d800ff993e9a9cba2ccb6939", null ],
+    [ "name", "d1/d94/a05224.html#ac8a053b6f01a9917ee6b1fc2a738bb4e", null ]
 ];

@@ -1,6 +1,6 @@
 var a22604 =
 [
-    [ "CheckCast", "d7/d8c/a22604.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
-    [ "PrepareSpellScript", "d7/d8c/a22604.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
-    [ "Register", "d7/d8c/a22604.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
+    [ "PrepareSpellScript", "d7/d8c/a22604.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
+    [ "Register", "d7/d8c/a22604.html#aa41700bf097963c5a352442723181037", null ],
+    [ "SelectTarget", "d7/d8c/a22604.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
 ];

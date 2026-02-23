@@ -1,12 +1,11 @@
 var a14228 =
 [
-    [ "npc_zulian_prowlerAI", "df/d11/a14228.html#a367613efead335b060173011267ddcff", null ],
-    [ "JustDied", "df/d11/a14228.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
-    [ "JustEngagedWith", "df/d11/a14228.html#a207504b15ecd22b78088593b80433581", null ],
-    [ "Reset", "df/d11/a14228.html#a62d14bae970d8a70a997c683e0e94259", null ],
-    [ "SpellHit", "df/d11/a14228.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
-    [ "UpdateAI", "df/d11/a14228.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
-    [ "_events", "df/d11/a14228.html#a994ae5b4e72429141155d1342830e5ad", null ],
-    [ "_instance", "df/d11/a14228.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
-    [ "_sideData", "df/d11/a14228.html#afa44e09c5677c2fc567be6a67b766bde", null ]
+    [ "npc_tapoke_slim_jahnAI", "df/d11/a14228.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
+    [ "AttackedBy", "df/d11/a14228.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
+    [ "DamageTaken", "df/d11/a14228.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
+    [ "JustEngagedWith", "df/d11/a14228.html#a544b8eaee365217a4a735ed39b4607b2", null ],
+    [ "JustSummoned", "df/d11/a14228.html#ae468305fbe930baf0a1547f2e6de9953", null ],
+    [ "Reset", "df/d11/a14228.html#a5aeaa5511584d1095639e7df584019c5", null ],
+    [ "WaypointReached", "df/d11/a14228.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
+    [ "IsFriendSummoned", "df/d11/a14228.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
 ];

@@ -1,6 +1,5 @@
 var a27884 =
 [
-    [ "npc_experience", "d7/d40/a27884.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
-    [ "OnGossipHello", "d7/d40/a27884.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
-    [ "OnGossipSelect", "d7/d40/a27884.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
+    [ "achievement_bg_ic_resource_glut", "d7/d40/a27884.html#ace247962dccee2601ceade593b0874d4", null ],
+    [ "OnCheck", "d7/d40/a27884.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
 ];

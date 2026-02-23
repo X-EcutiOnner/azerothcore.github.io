@@ -1,9 +1,6 @@
 var a23072 =
 [
-    [ "FilterTargets", "d6/d49/a23072.html#aa8f0401dd004e816b8071381289116fa", null ],
-    [ "HandleTeleportUnits", "d6/d49/a23072.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
-    [ "PrepareSpellScript", "d6/d49/a23072.html#a47898c213cdd125714c80d327bf42d8c", null ],
-    [ "Register", "d6/d49/a23072.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
-    [ "SetDest", "d6/d49/a23072.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
-    [ "Validate", "d6/d49/a23072.html#a814083360970284a325621f45e109b5b", null ]
+    [ "HandleEffectApply", "d6/d49/a23072.html#adbfce9b247a8a36d143243955372dc91", null ],
+    [ "PrepareAuraScript", "d6/d49/a23072.html#a7a04c4f4c9cb1070d02d58bfa3d0c8e6", null ],
+    [ "Register", "d6/d49/a23072.html#afb919ed484440d382b9d1ac7cf6f3f14", null ]
 ];

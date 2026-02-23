@@ -1,18 +1,9 @@
 var a08732 =
 [
-    [ "PlayerSocialMap", "dc/d0b/a08732.html#abfb2167fc86ea41b8cf66eebdaa95ceb", null ],
-    [ "PlayerSocial", "dc/d0b/a08732.html#ad505f01fad548b70cf070a86dce40278", null ],
-    [ "_checkContact", "dc/d0b/a08732.html#a1c94f00cd1955a8c93dea5d4e67f166a", null ],
-    [ "AddToSocialList", "dc/d0b/a08732.html#af7bf3dd0cddc41715d5122829aa5f281", null ],
-    [ "GetNumberOfSocialsWithFlag", "dc/d0b/a08732.html#ad4b6d7563aa448307c71fd01d0b748c3", null ],
-    [ "GetPlayerGUID", "dc/d0b/a08732.html#a253736ece6f1b1ec6617929ca92d2e77", null ],
-    [ "HasFriend", "dc/d0b/a08732.html#a8c5e3e13b6e912de5048c6a1d6e4003a", null ],
-    [ "HasIgnore", "dc/d0b/a08732.html#afdda7de77a9c5b48730b9b7fca36b080", null ],
-    [ "RemoveFromSocialList", "dc/d0b/a08732.html#a422b92edba3d2b3a7eaa5749dbceea4f", null ],
-    [ "SendSocialList", "dc/d0b/a08732.html#aa31ca078f363c5d5f6cfabcc4126fa9b", null ],
-    [ "SetFriendNote", "dc/d0b/a08732.html#ace28c99a43b6c9645550d0c30f8184df", null ],
-    [ "SetPlayerGUID", "dc/d0b/a08732.html#a1206fafb9f3ea29ee954e4f7684e0051", null ],
-    [ "SocialMgr", "dc/d0b/a08732.html#ac90a13e772eca1f96d98f76cfc8bf396", null ],
-    [ "m_playerGUID", "dc/d0b/a08732.html#accf6a40286cca75dd9d5eed8cc3c6790", null ],
-    [ "m_playerSocialMap", "dc/d0b/a08732.html#a608444605a276e67a868b7ceac94a954", null ]
+    [ "category", "dc/d0b/a08732.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
+    [ "end", "dc/d0b/a08732.html#a8cc857ef51745900398765164a450a50", null ],
+    [ "itemid", "dc/d0b/a08732.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
+    [ "maxduration", "dc/d0b/a08732.html#a94b98afb7651e2c6b99ee79f85702259", null ],
+    [ "needSendToClient", "dc/d0b/a08732.html#a678f56b6723567f984a0188b85a6f9df", null ],
+    [ "sendToSpectator", "dc/d0b/a08732.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
 ];

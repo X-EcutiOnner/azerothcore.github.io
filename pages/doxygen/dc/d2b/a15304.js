@@ -1,18 +1,16 @@
 var a15304 =
 [
-    [ "boss_ossirian", "dc/d2b/a15304.html#ab03a53ee2c0dc70ab86328e9a7ad1495", null ],
-    [ "InitializeAI", "dc/d2b/a15304.html#a76731e2594cfadf5305d8abc502f665a", null ],
-    [ "JustEngagedWith", "dc/d2b/a15304.html#a78616bb875bd51d5727e85d0b65d1a73", null ],
-    [ "JustSummoned", "dc/d2b/a15304.html#ad462996cd1b12395f6cdaa33a7b876f1", null ],
-    [ "KilledUnit", "dc/d2b/a15304.html#a716acecfc8e38eb663557fafb56719fd", null ],
-    [ "MoveInLineOfSight", "dc/d2b/a15304.html#a16aa4ac59c1c8f6f844c311745b6e969", null ],
-    [ "Reset", "dc/d2b/a15304.html#a17a31cf7827cdb904efa64d954b19c4a", null ],
-    [ "SetGUID", "dc/d2b/a15304.html#a87369e8995c096301908ec209e17b274", null ],
-    [ "SpawnNextCrystal", "dc/d2b/a15304.html#a2a95c315af6a9e2bcedc8a9c9a9d9789", null ],
-    [ "SpellHit", "dc/d2b/a15304.html#a0b5b92a9bce9a5dd0054cb833a56d32f", null ],
-    [ "SummonedCreatureDespawn", "dc/d2b/a15304.html#a5c3ac7bddf52e2390f91599bb3ce3a64", null ],
-    [ "UpdateAI", "dc/d2b/a15304.html#a8f3822d1cc3354efa5292d88fedd4087", null ],
-    [ "_crystalIterator", "dc/d2b/a15304.html#adc049248fa851c954d5fcbf643d47c16", null ],
-    [ "_firstCrystalGUID", "dc/d2b/a15304.html#a498d562d4ceeaecc6a01047bc4559235", null ],
-    [ "_saidIntro", "dc/d2b/a15304.html#a5a9b0b7ae7421a4554f4c4abc8850220", null ]
+    [ "npc_medivh_bm", "dc/d2b/a15304.html#a23f04c433faf7da663b2edffb2a0440d", null ],
+    [ "AttackStart", "dc/d2b/a15304.html#a8eb87f4d80d83725af017657c599d458", null ],
+    [ "DoAction", "dc/d2b/a15304.html#aa5a54d0b2b069947dd59eee77cbdf21b", null ],
+    [ "JustDied", "dc/d2b/a15304.html#ad6dbbef1b6fbccd9dd224af1a15a6c90", null ],
+    [ "JustSummoned", "dc/d2b/a15304.html#a16d8d3be1dd148e149f4e49570f092a6", null ],
+    [ "MoveInLineOfSight", "dc/d2b/a15304.html#a87f092fccd5b485bdf0bd0449bd57265", null ],
+    [ "Reset", "dc/d2b/a15304.html#a1a33f613b083763c952882cdb82a35c1", null ],
+    [ "SummonOrcs", "dc/d2b/a15304.html#a13964b4c460a664442be7eebe768edf5", null ],
+    [ "UpdateAI", "dc/d2b/a15304.html#aefc693d7be0c06c5056cae18d4e4eb1e", null ],
+    [ "_airArray", "dc/d2b/a15304.html#a6e766596b69b52690635ee91e6e8d164", null ],
+    [ "_events", "dc/d2b/a15304.html#a1d4fe5bc964d12e812a178c68e2f037f", null ],
+    [ "_groundArray", "dc/d2b/a15304.html#a6fd3a75ddec2a6bda3e5d1bd3e33722c", null ],
+    [ "_instance", "dc/d2b/a15304.html#a45e129d61c3987e4bff94485db739eb1", null ]
 ];

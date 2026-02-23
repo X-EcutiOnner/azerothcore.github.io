@@ -1,7 +1,7 @@
 var a29512 =
 [
-    [ "checkDirectories", "d2/db1/a29512.html#ab24803c49e5019c665aa545cfd2d32dc", null ],
-    [ "finish", "d2/db1/a29512.html#a32e7545f3a98690aeb284a4eb66f272d", null ],
-    [ "handleArgs", "d2/db1/a29512.html#a9da584ba5e81bed140f90563dd648d38", null ],
-    [ "main", "d2/db1/a29512.html#a3c04138a5bfe5d72780bb7e82a18e627", null ]
+    [ "flatModifier", "d2/db1/a29512.html#a781485dfaede63716eddba66971600e3", null ],
+    [ "hasSpellModOwner", "d2/db1/a29512.html#aa80132f8b5cb980a4a703810fe3fa1a4", null ],
+    [ "hasSpellProto", "d2/db1/a29512.html#a96607da311b5774eeaa01674d32ab22e", null ],
+    [ "pctModifier", "d2/db1/a29512.html#aaf5a1e1118b0dcd155529978bdc172db", null ]
 ];

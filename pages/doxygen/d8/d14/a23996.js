@@ -1,6 +1,7 @@
 var a23996 =
 [
-    [ "AfterRemove", "d8/d14/a23996.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "d8/d14/a23996.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "d8/d14/a23996.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "npc_kurenai_captiveAI", "d8/dd2/a24000.html", "d8/dd2/a24000" ],
+    [ "npc_kurenai_captive", "d8/d14/a23996.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "d8/d14/a23996.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "d8/d14/a23996.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
 ];

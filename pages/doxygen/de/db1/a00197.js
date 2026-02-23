@@ -1,10 +1,12 @@
 var a00197 =
 [
-    [ "BoundsTrait< VMAP::GroupModel >", "d2/d9c/a05149.html", "d2/d9c/a05149" ],
-    [ "VMAP::TriBoundFunc", "d0/d88/a05153.html", "d0/d88/a05153" ],
-    [ "VMAP::GModelRayCallback", "d1/df0/a05157.html", "d1/df0/a05157" ],
-    [ "VMAP::WModelRayCallBack", "d9/d42/a05161.html", "d9/d42/a05161" ],
-    [ "VMAP::WModelAreaCallback", "d3/dbb/a05165.html", "d3/dbb/a05165" ],
-    [ "IntersectTriangle", "de/db1/a00197.html#a4fa75e5ca5211394c63abc7ff28eb741", null ],
-    [ "IsInsideOrAboveBound", "de/db1/a00197.html#a830eb7f04e05a094cc7cefbc43fa6f91", null ]
+    [ "Escort_Waypoint", "d9/d58/a06424.html", "d9/d58/a06424" ],
+    [ "npc_escortAI", "de/df0/a06428.html", "de/df0/a06428" ],
+    [ "DEFAULT_MAX_PLAYER_DISTANCE", "de/db1/a00197.html#ad23dc39ce2da634e67360fab90e3b9e2", null ],
+    [ "eEscortState", "de/db1/a00197.html#af40ca4990501264cb0359ab6d93fb08a", [
+      [ "STATE_ESCORT_NONE", "de/db1/a00197.html#af40ca4990501264cb0359ab6d93fb08aa7cc35d82589d473e8265c67eccc9ecd5", null ],
+      [ "STATE_ESCORT_ESCORTING", "de/db1/a00197.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92", null ],
+      [ "STATE_ESCORT_RETURNING", "de/db1/a00197.html#af40ca4990501264cb0359ab6d93fb08aaae71d59813ca4d9bb6e84769e1eeec48", null ],
+      [ "STATE_ESCORT_PAUSED", "de/db1/a00197.html#af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6", null ]
+    ] ]
 ];

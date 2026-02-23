@@ -1,7 +1,6 @@
 var a17576 =
 [
-    [ "HandleDummyTick", "d0/da9/a17576.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
-    [ "PrepareAuraScript", "d0/da9/a17576.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
-    [ "Register", "d0/da9/a17576.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
-    [ "Validate", "d0/da9/a17576.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
+    [ "boss_drakkari_colossusAI", "d5/da8/a17580.html", "d5/da8/a17580" ],
+    [ "boss_drakkari_colossus", "d0/da9/a17576.html#abe1bf28b9147b72c81e5c5efcdeeaf84", null ],
+    [ "GetAI", "d0/da9/a17576.html#a75c6c9c56fe11342dd8aece031059e77", null ]
 ];

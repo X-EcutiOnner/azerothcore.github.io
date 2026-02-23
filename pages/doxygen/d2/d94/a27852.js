@@ -1,7 +1,7 @@
 var a27852 =
 [
-    [ "npc_sayge", "d2/d94/a27852.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
-    [ "OnGossipHello", "d2/d94/a27852.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
-    [ "OnGossipSelect", "d2/d94/a27852.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
-    [ "SendAction", "d2/d94/a27852.html#aed1988335672423d024546654aa95298", null ]
+    [ "HandleProc", "d2/d94/a27852.html#a41b42a2d219904cdaf2a714d97e500f7", null ],
+    [ "PrepareAuraScript", "d2/d94/a27852.html#a95c26300614ecdab588ddcc256fc1fd6", null ],
+    [ "Register", "d2/d94/a27852.html#afb32150ac10ad392b63f40db05433835", null ],
+    [ "Validate", "d2/d94/a27852.html#ab012775206fb6011eff8fbed293319c8", null ]
 ];

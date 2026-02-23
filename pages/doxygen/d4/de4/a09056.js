@@ -1,7 +1,10 @@
 var a09056 =
 [
-    [ "IsFitToRequirements", "d4/de4/a09056.html#ac175634ed2eab2911c3749fa208a073a", null ],
-    [ "castFlags", "d4/de4/a09056.html#a03cd65a460ea252818de9230cb656c1c", null ],
-    [ "spellId", "d4/de4/a09056.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
-    [ "userType", "d4/de4/a09056.html#adcf285572403481cb418bddebc5f4bfa", null ]
+    [ "MapType", "d4/de4/a09056.html#a8fa5f0aca9316901f42b2df8251c5a5d", null ],
+    [ "HashMapHolder", "d4/de4/a09056.html#ad10240097462af2a8a76c9429bd7cbca", null ],
+    [ "Find", "d4/de4/a09056.html#a314b4ce3265136fe326b909fe6ef6716", null ],
+    [ "GetContainer", "d4/de4/a09056.html#ad9dfe5d223496a379a4aec0fc12c42d9", null ],
+    [ "GetLock", "d4/de4/a09056.html#a52cc052c8d73d5b700c7f9253138942f", null ],
+    [ "Insert", "d4/de4/a09056.html#af5c618228c141e28ffa11468cfffb21a", null ],
+    [ "Remove", "d4/de4/a09056.html#a7b9c3761746641133d4a9837559c0bb0", null ]
 ];

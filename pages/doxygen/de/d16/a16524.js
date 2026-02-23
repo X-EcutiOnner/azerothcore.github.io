@@ -1,6 +1,6 @@
 var a16524 =
 [
-    [ "boss_black_knightAI", "dd/d1c/a16528.html", "dd/d1c/a16528" ],
-    [ "boss_black_knight", "de/d16/a16524.html#af55a307f282a68bc83e45c6de647ebf4", null ],
-    [ "GetAI", "de/d16/a16524.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
+    [ "npc_orb_carrierAI", "dd/d1c/a16528.html", "dd/d1c/a16528" ],
+    [ "npc_orb_carrier", "de/d16/a16524.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
+    [ "GetAI", "de/d16/a16524.html#ab5b7bbffc43b840c686dc889805ea401", null ]
 ];

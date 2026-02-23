@@ -1,8 +1,5 @@
 var a25696 =
 [
-    [ "HandleFinish", "d5/db9/a25696.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
-    [ "PrepareSpellScript", "d5/db9/a25696.html#a73865997890d4f58cc09d54c2c4e5243", null ],
-    [ "Register", "d5/db9/a25696.html#a106cf5d53956b66f8f548caceda41dc8", null ],
-    [ "SelectTarget", "d5/db9/a25696.html#ab33513df20e942ba354932df5082efa8", null ],
-    [ "_target", "d5/db9/a25696.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
+    [ "PrepareSpellScript", "d5/db9/a25696.html#acb39fd85035670fb98dcea66c29b2ff7", null ],
+    [ "Register", "d5/db9/a25696.html#a7fe416070962ba582d59ddff70c13590", null ]
 ];

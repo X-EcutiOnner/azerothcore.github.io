@@ -1,6 +1,9 @@
 var a26652 =
 [
-    [ "HandleDummy", "d1/d8f/a26652.html#a39c913c3e3225a9b27d17d4ceadd3c70", null ],
-    [ "PrepareSpellScript", "d1/d8f/a26652.html#a7936186af106ae3ddeec3bc9b39ff127", null ],
-    [ "Register", "d1/d8f/a26652.html#aa8ce1f0413e19d8f6d403b220fc6749c", null ]
+    [ "CheckCast", "d1/d8f/a26652.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
+    [ "HandleTriggerSpellHit", "d1/d8f/a26652.html#aca027bb2995456bfcedd33c06966eb88", null ],
+    [ "HandleTriggerSpellLaunch", "d1/d8f/a26652.html#aa67bf9f81086a3837037d67306979072", null ],
+    [ "PrepareSpellScript", "d1/d8f/a26652.html#a9247b5f3a376bebdcf857565b5049944", null ],
+    [ "Register", "d1/d8f/a26652.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
+    [ "Validate", "d1/d8f/a26652.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
 ];

@@ -1,6 +1,7 @@
 var a18092 =
 [
-    [ "UnboundPlagueTargetSelector", "d8/d59/a18092.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "d8/d59/a18092.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "d8/d59/a18092.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "FilterTargets", "d8/d59/a18092.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
+    [ "Load", "d8/d59/a18092.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
+    [ "PrepareSpellScript", "d8/d59/a18092.html#a7526a6df4c25136f4be78e753c6abf62", null ],
+    [ "Register", "d8/d59/a18092.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
 ];

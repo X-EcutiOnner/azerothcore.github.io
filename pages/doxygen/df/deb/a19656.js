@@ -1,6 +1,10 @@
 var a19656 =
 [
-    [ "npc_oculus_drakeAI", "d2/dc1/a19660.html", "d2/dc1/a19660" ],
-    [ "npc_oculus_drake", "df/deb/a19656.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
-    [ "GetAI", "df/deb/a19656.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
+    [ "npc_power_spark", "df/deb/a19656.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
+    [ "DamageTaken", "df/deb/a19656.html#afe33d511823666929232bfd0179ee72a", null ],
+    [ "DoAction", "df/deb/a19656.html#ab99a859ee718d49ce59171e7e7159abc", null ],
+    [ "UpdateAI", "df/deb/a19656.html#ab36e75c87aa262a57be1594289284730", null ],
+    [ "_checkTimer", "df/deb/a19656.html#ae63f0f359037363b840fe51a797969b5", null ],
+    [ "_instance", "df/deb/a19656.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
+    [ "_moveTimer", "df/deb/a19656.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
 ];

@@ -1,6 +1,13 @@
 var a15172 =
 [
-    [ "instance_maraudon_InstanceMapScript", "d8/d47/a15176.html", "d8/d47/a15176" ],
-    [ "instance_maraudon", "db/dbf/a15172.html#aaae11d2569d04b42840b101a5702cf24", null ],
-    [ "GetInstanceScript", "db/dbf/a15172.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
+    [ "boss_infinite_corruptorAI", "db/dbf/a15172.html#add36192941eaabf7f3d1d41c572783bd", null ],
+    [ "DoAction", "db/dbf/a15172.html#a8ff0a9731ad7bc118a1014bdbb0e1daf", null ],
+    [ "JustDied", "db/dbf/a15172.html#a6d2f445bf0819ac644d7de14d3b7034d", null ],
+    [ "JustEngagedWith", "db/dbf/a15172.html#a644725505db4fc7a98c4255d0eb34616", null ],
+    [ "JustSummoned", "db/dbf/a15172.html#a2b12c03184b169a56a0e6696a107dc35", null ],
+    [ "Reset", "db/dbf/a15172.html#a4dbff495bfcda6fb715dec68616e1764", null ],
+    [ "UpdateAI", "db/dbf/a15172.html#aaa0a45066ab7ad7d5a7543822d399947", null ],
+    [ "beamTimer", "db/dbf/a15172.html#a2f8048e591a818f073a65bfcfa49e66c", null ],
+    [ "events", "db/dbf/a15172.html#a5491db8f5e063ca84f18f1ca63c1e846", null ],
+    [ "summons", "db/dbf/a15172.html#aa5de5f986f8a6d3ba5f3aad84422eab6", null ]
 ];

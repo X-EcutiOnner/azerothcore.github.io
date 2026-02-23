@@ -1,6 +1,5 @@
 var a00290 =
 [
-    [ "GetRandomBytes", "de/d25/a00290.html#ab09d7cc2f8e11fc5fe6b2323d57b7184", null ],
-    [ "GetRandomBytes", "de/d25/a00290.html#a797cfc74306f60b5c63eecb37a2061d3", null ],
-    [ "GetRandomBytes", "de/d25/a00290.html#a2ff283a7b883696205a91f122b194f6f", null ]
+    [ "GetAISpellInfo", "de/d25/a00290.html#a1ed41ad074263f6c0c63f38b7f51414b", null ],
+    [ "IsValidCombatTarget", "de/d25/a00290.html#a981f03ba3b8c59eb1fa9d22df158ba19", null ]
 ];

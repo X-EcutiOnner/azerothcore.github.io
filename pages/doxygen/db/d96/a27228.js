@@ -1,6 +1,9 @@
 var a27228 =
 [
-    [ "HandleEffectCalcSpellMod", "db/d96/a27228.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
-    [ "PrepareAuraScript", "db/d96/a27228.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
-    [ "Register", "db/d96/a27228.html#af60592a9f1e595f31814eae405d03d5a", null ]
+    [ "CheckCast", "db/d96/a27228.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
+    [ "FilterTargets", "db/d96/a27228.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
+    [ "HandleDummy", "db/d96/a27228.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
+    [ "PrepareSpellScript", "db/d96/a27228.html#a9c992e732b525e29f684947398d20efb", null ],
+    [ "Register", "db/d96/a27228.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
+    [ "Validate", "db/d96/a27228.html#abca1e5aa46e7753588c8120090775195", null ]
 ];

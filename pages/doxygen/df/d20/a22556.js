@@ -1,5 +1,12 @@
 var a22556 =
 [
-    [ "npc_wg_spirit_guideAI", "df/d20/a22556.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
-    [ "UpdateAI", "df/d20/a22556.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
+    [ "boss_anzu", "df/d20/a22556.html#aef8c5c57afa95936d8c2809fa1257799", null ],
+    [ "JustEngagedWith", "df/d20/a22556.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
+    [ "Reset", "df/d20/a22556.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
+    [ "SummonBroods", "df/d20/a22556.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
+    [ "SummonedCreatureDies", "df/d20/a22556.html#a2e35df609db069c8d31afffabcfead34", null ],
+    [ "SummonSpirits", "df/d20/a22556.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
+    [ "UpdateAI", "df/d20/a22556.html#a06373460d454bfaf8db793e591cc0abd", null ],
+    [ "AnzuSpiritPos", "df/d20/a22556.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
+    [ "talkTimer", "df/d20/a22556.html#a2afae53534d9e777c90d09456f834b5d", null ]
 ];

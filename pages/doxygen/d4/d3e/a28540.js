@@ -1,7 +1,6 @@
 var a28540 =
 [
-    [ "Id", "d4/d3e/a28540.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
-    [ "SoundBank", "d4/d3e/a28540.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
-    [ "SpellId", "d4/d3e/a28540.html#aa010947f5fbec6867b005b25728e720b", null ],
-    [ "Type", "d4/d3e/a28540.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
+    [ "npc_venomhide_hatchlingAI", "d4/d3e/a28540.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "d4/d3e/a28540.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "d4/d3e/a28540.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

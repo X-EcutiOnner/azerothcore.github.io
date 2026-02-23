@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::ChatCommands::WTail Struct Reference</title>
+<title>AzerothCore: GameTeleVisitor Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,44 +108,32 @@ $(document).ready(function(){initNavTree('de/d73/a07772.html','../../'); initRes
 <a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="../../d0/db3/a07769.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::ChatCommands::WTail Struct Reference</div></div>
+  <div class="headertitle"><div class="title">GameTeleVisitor Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">ChatCommandTags.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for Acore::ChatCommands::WTail:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../de/d73/a07772.png" usemap="#Acore::ChatCommands::WTail_map" alt=""/>
-  <map id="Acore::ChatCommands::WTail_map" name="Acore::ChatCommands::WTail_map">
-<area href="../../dc/d65/a07756.html" alt="Acore::Impl::ChatCommands::ContainerTag" shape="rect" coords="260,0,510,24"/>
-  </map>
-</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
 Public Types</h2></td></tr>
-<tr class="memitem:ae75362e108b0a7323fe92cae75c4729c"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d73/a07772.html#ae75362e108b0a7323fe92cae75c4729c">value_type</a> = std::wstring</td></tr>
-<tr class="separator:ae75362e108b0a7323fe92cae75c4729c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_types_a07756"><td colspan="2" onclick="javascript:toggleInherit('pub_types_a07756')"><img src="../../closed.png" alt="-"/>&#160;Public Types inherited from <a class="el" href="../../dc/d65/a07756.html">Acore::Impl::ChatCommands::ContainerTag</a></td></tr>
-<tr class="memitem:a6150ebd46977676b2ddeebfb818e86a9 inherit pub_types_a07756"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d65/a07756.html#a6150ebd46977676b2ddeebfb818e86a9">ChatCommandResult</a> = <a class="el" href="../../d7/d60/a07752.html">Acore::Impl::ChatCommands::ChatCommandResult</a></td></tr>
-<tr class="separator:a6150ebd46977676b2ddeebfb818e86a9 inherit pub_types_a07756"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adbfeb8f2823f763fdae25b87fbbdcfbf"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d73/a07772.html#adbfeb8f2823f763fdae25b87fbbdcfbf">value_type</a> = <a class="el" href="../../d0/d27/a09068.html">GameTele</a> const  *</td></tr>
+<tr class="separator:adbfeb8f2823f763fdae25b87fbbdcfbf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a19112294c2e36c8e36fb3f77f2ccabba"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d65/a07756.html#a6150ebd46977676b2ddeebfb818e86a9">ChatCommandResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d73/a07772.html#a19112294c2e36c8e36fb3f77f2ccabba">TryConsume</a> (<a class="el" href="../../d6/dcc/a07596.html">ChatHandler</a> const *handler, std::string_view args)</td></tr>
-<tr class="separator:a19112294c2e36c8e36fb3f77f2ccabba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abeff0e73688ad4745201c5d817f7a442"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d73/a07772.html#adbfeb8f2823f763fdae25b87fbbdcfbf">value_type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d73/a07772.html#abeff0e73688ad4745201c5d817f7a442">operator()</a> (<a class="el" href="../../d7/dfd/a07908.html">Hyperlink</a>&lt; tele &gt; tele) const</td></tr>
+<tr class="separator:abeff0e73688ad4745201c5d817f7a442"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8ee9220d4226b4dd028f3f9c438f34ba"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d73/a07772.html#adbfeb8f2823f763fdae25b87fbbdcfbf">value_type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d73/a07772.html#a8ee9220d4226b4dd028f3f9c438f34ba">operator()</a> (std::string_view tele) const</td></tr>
+<tr class="separator:a8ee9220d4226b4dd028f3f9c438f34ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="ae75362e108b0a7323fe92cae75c4729c" name="ae75362e108b0a7323fe92cae75c4729c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae75362e108b0a7323fe92cae75c4729c">&#9670;&#160;</a></span>value_type</h2>
+<a id="adbfeb8f2823f763fdae25b87fbbdcfbf" name="adbfeb8f2823f763fdae25b87fbbdcfbf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adbfeb8f2823f763fdae25b87fbbdcfbf">&#9670;&#160;</a></span>value_type</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">using <a class="el" href="../../de/d73/a07772.html#ae75362e108b0a7323fe92cae75c4729c">Acore::ChatCommands::WTail::value_type</a> =  std::wstring</td>
+          <td class="memname">using <a class="el" href="../../de/d73/a07772.html#adbfeb8f2823f763fdae25b87fbbdcfbf">GameTeleVisitor::value_type</a> =  <a class="el" href="../../d0/d27/a09068.html">GameTele</a> const*</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -153,8 +141,8 @@ Public Member Functions</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a19112294c2e36c8e36fb3f77f2ccabba" name="a19112294c2e36c8e36fb3f77f2ccabba"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a19112294c2e36c8e36fb3f77f2ccabba">&#9670;&#160;</a></span>TryConsume()</h2>
+<a id="abeff0e73688ad4745201c5d817f7a442" name="abeff0e73688ad4745201c5d817f7a442"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abeff0e73688ad4745201c5d817f7a442">&#9670;&#160;</a></span>operator()() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -163,21 +151,11 @@ Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/d65/a07756.html#a6150ebd46977676b2ddeebfb818e86a9">ChatCommandResult</a> Acore::ChatCommands::WTail::TryConsume </td>
+          <td class="memname"><a class="el" href="../../de/d73/a07772.html#adbfeb8f2823f763fdae25b87fbbdcfbf">value_type</a> GameTeleVisitor::operator() </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/dcc/a07596.html">ChatHandler</a> const *&#160;</td>
-          <td class="paramname"><em>handler</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>args</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="paramtype"><a class="el" href="../../d7/dfd/a07908.html">Hyperlink</a>&lt; tele &gt;&#160;</td>
+          <td class="paramname"><em>tele</em></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
@@ -186,17 +164,39 @@ Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  131</span>        {</div>
-<div class="line"><span class="lineno">  132</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d8/dc8/a04757.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a>(args, *<span class="keyword">this</span>))</div>
-<div class="line"><span class="lineno">  133</span>                <span class="keywordflow">return</span> std::string_view();</div>
-<div class="line"><span class="lineno">  134</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  135</span>                <span class="keywordflow">return</span> <a class="code hl_function" href="../../d5/d8e/a04874.html#a1106e69269315156c6019b7812547ce9">Acore::Impl::ChatCommands::GetAcoreString</a>(handler, <a class="code hl_enumvalue" href="../../d6/d7d/a00161.html#af9ee42b1cf006ecb2d2e74fe71c0761aafa07aec7bd59db026c454dcf92ef600d">LANG_CMDPARSER_INVALID_UTF8</a>);</div>
-<div class="line"><span class="lineno">  136</span>        }</div>
-<div class="ttc" id="aa00161_html_af9ee42b1cf006ecb2d2e74fe71c0761aafa07aec7bd59db026c454dcf92ef600d"><div class="ttname"><a href="../../d6/d7d/a00161.html#af9ee42b1cf006ecb2d2e74fe71c0761aafa07aec7bd59db026c454dcf92ef600d">LANG_CMDPARSER_INVALID_UTF8</a></div><div class="ttdeci">@ LANG_CMDPARSER_INVALID_UTF8</div><div class="ttdef"><b>Definition:</b> Language.h:1005</div></div>
-<div class="ttc" id="aa04757_html_a096388bd1034eb78e43e5d60cc4f657a"><div class="ttname"><a href="../../d8/dc8/a04757.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a></div><div class="ttdeci">bool Utf8toWStr(char const *utf8str, std::size_t csize, wchar_t *wstr, std::size_t &amp;wsize)</div><div class="ttdef"><b>Definition:</b> Util.cpp:281</div></div>
-<div class="ttc" id="aa04874_html_a1106e69269315156c6019b7812547ce9"><div class="ttname"><a href="../../d5/d8e/a04874.html#a1106e69269315156c6019b7812547ce9">Acore::Impl::ChatCommands::GetAcoreString</a></div><div class="ttdeci">AC_GAME_API std::string GetAcoreString(ChatHandler const *handler, AcoreStrings which)</div><div class="ttdef"><b>Definition:</b> ChatCommandHelpers.cpp:27</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   51</span>{ <span class="keywordflow">return</span> <a class="code hl_define" href="../../df/dee/a01646.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetGameTele(tele); }</div>
+<div class="ttc" id="aa01646_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../df/dee/a01646.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1699</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00027">Acore::Impl::ChatCommands::GetAcoreString()</a>, <a class="el" href="../../#l01005">LANG_CMDPARSER_INVALID_UTF8</a>, and <a class="el" href="../../#l00281">Utf8toWStr()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01699">sObjectMgr</a>.</p>
+
+</div>
+</div>
+<a id="a8ee9220d4226b4dd028f3f9c438f34ba" name="a8ee9220d4226b4dd028f3f9c438f34ba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8ee9220d4226b4dd028f3f9c438f34ba">&#9670;&#160;</a></span>operator()() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d73/a07772.html#adbfeb8f2823f763fdae25b87fbbdcfbf">value_type</a> GameTeleVisitor::operator() </td>
+          <td>(</td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>tele</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   52</span>{ <span class="keywordflow">return</span> <a class="code hl_define" href="../../df/dee/a01646.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetGameTele(tele); }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l01699">sObjectMgr</a>.</p>
 
 </div>
 </div>
@@ -205,8 +205,8 @@ Public Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/d15/a04833.html">Acore</a></li><li class="navelem"><a class="el" href="../../d1/d89/a04875.html">ChatCommands</a></li><li class="navelem"><a class="el" href="../../de/d73/a07772.html">WTail</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:12:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../de/d73/a07772.html">GameTeleVisitor</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:15:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,9 +1,8 @@
 var a15124 =
 [
-    [ "boss_chrono_lord_deja", "d6/da3/a15124.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
-    [ "JustDied", "d6/da3/a15124.html#a68eb4941364f9fac121aa3d610d45f48", null ],
-    [ "JustEngagedWith", "d6/da3/a15124.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
-    [ "KilledUnit", "d6/da3/a15124.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
-    [ "MoveInLineOfSight", "d6/da3/a15124.html#a535c0c157c60804188ad8c4413c277dd", null ],
-    [ "OwnTalk", "d6/da3/a15124.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
+    [ "hyjalThrallAI", "d6/da3/a15124.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
+    [ "JustDied", "d6/da3/a15124.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
+    [ "JustEngagedWith", "d6/da3/a15124.html#a96706138634275ae7639c14f53cdd842", null ],
+    [ "Reset", "d6/da3/a15124.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
+    [ "UpdateAI", "d6/da3/a15124.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
 ];

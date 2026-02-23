@@ -1,8 +1,6 @@
 var a24132 =
 [
-    [ "instance_mechanar_InstanceMapScript", "d3/d9d/a24132.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
-    [ "OnCreatureCreate", "d3/d9d/a24132.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
-    [ "OnGameObjectCreate", "d3/d9d/a24132.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
-    [ "OnGameObjectRemove", "d3/d9d/a24132.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
-    [ "_pathaleonGUID", "d3/d9d/a24132.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
+    [ "npc_lord_illidan_stormrageAI", "d4/df6/a24136.html", "d4/df6/a24136" ],
+    [ "npc_lord_illidan_stormrage", "d3/d9d/a24132.html#ad2f213749e170ec4f9903396d132f5f3", null ],
+    [ "GetAI", "d3/d9d/a24132.html#a9aaedc4326b90621965dad522f4af897", null ]
 ];

@@ -1,6 +1,6 @@
 var a17836 =
 [
-    [ "npc_igb_ship_crewAI", "d9/dcc/a17840.html", "d9/dcc/a17840" ],
-    [ "npc_igb_ship_crew", "d3/d38/a17836.html#a5f4380aba94766a6a75b97026998b881", null ],
-    [ "GetAI", "d3/d38/a17836.html#a48955817e21a01a726b50685b467c229", null ]
+    [ "boss_deathbringer_saurfangAI", "d9/dcc/a17840.html", "d9/dcc/a17840" ],
+    [ "boss_deathbringer_saurfang", "d3/d38/a17836.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
+    [ "GetAI", "d3/d38/a17836.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
 ];

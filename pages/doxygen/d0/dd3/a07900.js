@@ -1,12 +1,12 @@
 var a07900 =
 [
-    [ "HyperlinkInfo", "d0/dd3/a07900.html#aa61aad1a1e2cf1a699ff67ee25cc474b", null ],
-    [ "HyperlinkInfo", "d0/dd3/a07900.html#ac08518b3afb878fc7979807d764b7872", null ],
-    [ "operator bool", "d0/dd3/a07900.html#a834ac95bb310f6653208026e203e065f", null ],
-    [ "color", "d0/dd3/a07900.html#a38c0121d4001ad938d9bc53ca08217db", null ],
-    [ "data", "d0/dd3/a07900.html#a7d7d839de8eb48a25e2b687b69a092ea", null ],
-    [ "ok", "d0/dd3/a07900.html#a54c7a812f79593258002d367110b2403", null ],
-    [ "tag", "d0/dd3/a07900.html#a2171d081c4eb0a23d00e637dfa64bcfc", null ],
-    [ "tail", "d0/dd3/a07900.html#a065d1a0942abbe5739f44126d5c3ce00", null ],
-    [ "text", "d0/dd3/a07900.html#a2b914c9bdc41771b8cb058468bfa23db", null ]
+    [ "value_type", "d0/dd3/a07900.html#ad430aafb433483e30d12567e7e8c2915", null ],
+    [ "GetID", "d0/dd3/a07900.html#a73dd0adf980c5c3d2e272f9709ece880", null ],
+    [ "GetName", "d0/dd3/a07900.html#aae4efee3e6e7d403b0c6f5d484814b81", null ],
+    [ "operator std::string const &", "d0/dd3/a07900.html#a3530d83607efda9b3f50a61959da3267", null ],
+    [ "operator std::string_view", "d0/dd3/a07900.html#a6b77a74762705e00d73b751a5f947e05", null ],
+    [ "operator uint32", "d0/dd3/a07900.html#abffff20cfe5d5b3936ac345c5082258f", null ],
+    [ "TryConsume", "d0/dd3/a07900.html#abc0041bef0d0171b54acbdcf6b18f611", null ],
+    [ "_id", "d0/dd3/a07900.html#a844e7f79db885f3076958b0e6d423b4e", null ],
+    [ "_name", "d0/dd3/a07900.html#a63bb52a0619ceef7b1af1b97d52a7373", null ]
 ];

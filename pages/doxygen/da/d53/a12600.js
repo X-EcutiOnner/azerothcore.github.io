@@ -1,7 +1,6 @@
 var a12600 =
 [
-    [ "HandleDummy", "da/d53/a12600.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
-    [ "PrepareSpellScript", "da/d53/a12600.html#a5308de47023b89e4ff8680158a502ac0", null ],
-    [ "Register", "da/d53/a12600.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
-    [ "Validate", "da/d53/a12600.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
+    [ "instance_blackrock_spireMapScript", "db/dd8/a12604.html", "db/dd8/a12604" ],
+    [ "instance_blackrock_spire", "da/d53/a12600.html#a3238be88efcdc9669e7e6a1d725649b3", null ],
+    [ "GetInstanceScript", "da/d53/a12600.html#a5ee2cc38a36ce2cd8c1196ce9f687e2a", null ]
 ];

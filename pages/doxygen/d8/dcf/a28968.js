@@ -1,7 +1,7 @@
 var a28968 =
 [
-    [ "fcc", "d8/dcf/a28968.html#afbaa5fdd612d1c93f7f07aa299d144ad", null ],
-    [ "fcc_txt", "d8/dcf/a28968.html#a89ed22b0a63dae9f1443309e54e9e421", null ],
-    [ "size", "d8/dcf/a28968.html#a0b9002c302e4dfef6dc533bf8c5bcdcc", null ],
-    [ "ver", "d8/dcf/a28968.html#adb92d3e9f7e35255a2e6e147d51ba8fc", null ]
+    [ "Class", "d8/dcf/a28968.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
+    [ "Gender", "d8/dcf/a28968.html#aba6251a7020c6e66b9fc7a21859df271", null ],
+    [ "ItemId", "d8/dcf/a28968.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
+    [ "Race", "d8/dcf/a28968.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
 ];

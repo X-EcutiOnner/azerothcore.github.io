@@ -1,6 +1,6 @@
 var a27484 =
 [
-    [ "go_heatAI", "d7/ddf/a27484.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
-    [ "UpdateAI", "d7/ddf/a27484.html#a2332206ee47b2cea9e4707d16ea79325", null ],
-    [ "timer", "d7/ddf/a27484.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
+    [ "PeriodicTick", "d7/ddf/a27484.html#a8765e8f662c4279669c955108ff356e3", null ],
+    [ "PrepareAuraScript", "d7/ddf/a27484.html#a15f077618950e4526ffcee9ee172d89f", null ],
+    [ "Register", "d7/ddf/a27484.html#aeeca3a2be368025147702c4aa8c518ce", null ]
 ];

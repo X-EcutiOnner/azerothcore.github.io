@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: GuildBankRightsAndSlots Class Reference</title>
+<title>AzerothCore: Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,50 +106,42 @@ $(document).ready(function(){initNavTree('d3/db3/a09628.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d9/d96/a09625.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">GuildBankRightsAndSlots Class Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Guild.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ae00a8b8f227d7afdcf08847e3787ee0d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db3/a09628.html#ae00a8b8f227d7afdcf08847e3787ee0d">GuildBankRightsAndSlots</a> ()</td></tr>
-<tr class="separator:ae00a8b8f227d7afdcf08847e3787ee0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af5f0087090a7145a22baa1396822318b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db3/a09628.html#af5f0087090a7145a22baa1396822318b">GuildBankRightsAndSlots</a> (<a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _tabId)</td></tr>
-<tr class="separator:af5f0087090a7145a22baa1396822318b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4bdf40d99704211b9e80b554ebade54f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db3/a09628.html#a4bdf40d99704211b9e80b554ebade54f">GuildBankRightsAndSlots</a> (<a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _tabId, <a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _rights, <a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> _slots)</td></tr>
-<tr class="separator:a4bdf40d99704211b9e80b554ebade54f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1399f191b3b0a44dc1e76fc49adc1412"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db3/a09628.html#a1399f191b3b0a44dc1e76fc49adc1412">SetGuildMasterValues</a> ()</td></tr>
-<tr class="separator:a1399f191b3b0a44dc1e76fc49adc1412"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abe84f6bcdfd48d70b894470d025f3aae"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db3/a09628.html#abe84f6bcdfd48d70b894470d025f3aae">SetTabId</a> (<a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _tabId)</td></tr>
-<tr class="separator:abe84f6bcdfd48d70b894470d025f3aae"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8ed33a4e1d2a957d61c5f7556533f225"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db3/a09628.html#a8ed33a4e1d2a957d61c5f7556533f225">SetSlots</a> (<a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> _slots)</td></tr>
-<tr class="separator:a8ed33a4e1d2a957d61c5f7556533f225"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abf4e1f1556554e7f756dc566fbdd7f40"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db3/a09628.html#abf4e1f1556554e7f756dc566fbdd7f40">SetRights</a> (<a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _rights)</td></tr>
-<tr class="separator:abf4e1f1556554e7f756dc566fbdd7f40"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6ba7c49480a1c5325d3702fb61d397cc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db3/a09628.html#a6ba7c49480a1c5325d3702fb61d397cc">GetTabId</a> () const</td></tr>
-<tr class="separator:a6ba7c49480a1c5325d3702fb61d397cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a51780060b5699bed6b78cc9ba4e95371"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db3/a09628.html#a51780060b5699bed6b78cc9ba4e95371">GetSlots</a> () const</td></tr>
-<tr class="separator:a51780060b5699bed6b78cc9ba4e95371"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a19b76bebdb62434191189ba789c2810f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db3/a09628.html#a19b76bebdb62434191189ba789c2810f">GetRights</a> () const</td></tr>
-<tr class="separator:a19b76bebdb62434191189ba789c2810f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa9f15d071efe7ca7bb975489fec2afbd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db3/a09628.html#aa9f15d071efe7ca7bb975489fec2afbd">NearestCreatureEntryWithLiveStateInObjectRangeCheck</a> (<a class="el" href="../../d5/dcc/a08616.html">WorldObject</a> const &amp;obj, <a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> entry, bool alive, float range)</td></tr>
+<tr class="separator:aa9f15d071efe7ca7bb975489fec2afbd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abc2ab6f33a6a58a6e692cc32e8139839"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db3/a09628.html#abc2ab6f33a6a58a6e692cc32e8139839">operator()</a> (<a class="el" href="../../d3/d6d/a08204.html">Creature</a> *u)</td></tr>
+<tr class="separator:abc2ab6f33a6a58a6e692cc32e8139839"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a1e25384d08beeee84d83e401f5a5a565"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db3/a09628.html#a1e25384d08beeee84d83e401f5a5a565">NearestCreatureEntryWithLiveStateInObjectRangeCheck</a> (<a class="el" href="../../d3/db3/a09628.html">NearestCreatureEntryWithLiveStateInObjectRangeCheck</a> const &amp;)</td></tr>
+<tr class="separator:a1e25384d08beeee84d83e401f5a5a565"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:ab09825a02a7a21a4915595230d2a5839"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db3/a09628.html#ab09825a02a7a21a4915595230d2a5839">tabId</a></td></tr>
-<tr class="separator:ab09825a02a7a21a4915595230d2a5839"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2a8f5acf21828bfa15d0b3dd6874b5cb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db3/a09628.html#a2a8f5acf21828bfa15d0b3dd6874b5cb">rights</a></td></tr>
-<tr class="separator:a2a8f5acf21828bfa15d0b3dd6874b5cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5a327399d94704bc290199baa21ff8d7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db3/a09628.html#a5a327399d94704bc290199baa21ff8d7">slots</a></td></tr>
-<tr class="separator:a5a327399d94704bc290199baa21ff8d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa0340c79c37f3494b01c52f034705aa4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/dcc/a08616.html">WorldObject</a> const  &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db3/a09628.html#aa0340c79c37f3494b01c52f034705aa4">i_obj</a></td></tr>
+<tr class="separator:aa0340c79c37f3494b01c52f034705aa4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae2bf2c0a0f431f5de445fbee26b60a57"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db3/a09628.html#ae2bf2c0a0f431f5de445fbee26b60a57">i_entry</a></td></tr>
+<tr class="separator:ae2bf2c0a0f431f5de445fbee26b60a57"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7a01388f86d25fa0728d94c6e1a7f752"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db3/a09628.html#a7a01388f86d25fa0728d94c6e1a7f752">i_alive</a></td></tr>
+<tr class="separator:a7a01388f86d25fa0728d94c6e1a7f752"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a695af00612b17e0182ad76a5c3be2356"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db3/a09628.html#a695af00612b17e0182ad76a5c3be2356">i_range</a></td></tr>
+<tr class="separator:a695af00612b17e0182ad76a5c3be2356"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ae00a8b8f227d7afdcf08847e3787ee0d" name="ae00a8b8f227d7afdcf08847e3787ee0d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae00a8b8f227d7afdcf08847e3787ee0d">&#9670;&#160;</a></span>GuildBankRightsAndSlots() <span class="overload">[1/3]</span></h2>
+<a id="aa9f15d071efe7ca7bb975489fec2afbd" name="aa9f15d071efe7ca7bb975489fec2afbd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa9f15d071efe7ca7bb975489fec2afbd">&#9670;&#160;</a></span>NearestCreatureEntryWithLiveStateInObjectRangeCheck() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -158,79 +150,28 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">GuildBankRightsAndSlots::GuildBankRightsAndSlots </td>
+          <td class="memname">Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::NearestCreatureEntryWithLiveStateInObjectRangeCheck </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  265</span>: <a class="code hl_variable" href="../../d3/db3/a09628.html#ab09825a02a7a21a4915595230d2a5839">tabId</a>(<a class="code hl_enumvalue" href="../../da/dd1/a00629.html#a06a462b77a279ae7e2e901b2a8b42fbaa5f9926dc31dd8f1dbf88e9131c7f1a74">TAB_UNDEFINED</a>), <a class="code hl_variable" href="../../d3/db3/a09628.html#a2a8f5acf21828bfa15d0b3dd6874b5cb">rights</a>(0), <a class="code hl_variable" href="../../d3/db3/a09628.html#a5a327399d94704bc290199baa21ff8d7">slots</a>(0) { }</div>
-<div class="ttc" id="aa00629_html_a06a462b77a279ae7e2e901b2a8b42fbaa5f9926dc31dd8f1dbf88e9131c7f1a74"><div class="ttname"><a href="../../da/dd1/a00629.html#a06a462b77a279ae7e2e901b2a8b42fbaa5f9926dc31dd8f1dbf88e9131c7f1a74">TAB_UNDEFINED</a></div><div class="ttdeci">@ TAB_UNDEFINED</div><div class="ttdef"><b>Definition:</b> Guild.h:51</div></div>
-<div class="ttc" id="aa09628_html_a2a8f5acf21828bfa15d0b3dd6874b5cb"><div class="ttname"><a href="../../d3/db3/a09628.html#a2a8f5acf21828bfa15d0b3dd6874b5cb">GuildBankRightsAndSlots::rights</a></div><div class="ttdeci">uint8 rights</div><div class="ttdef"><b>Definition:</b> Guild.h:285</div></div>
-<div class="ttc" id="aa09628_html_a5a327399d94704bc290199baa21ff8d7"><div class="ttname"><a href="../../d3/db3/a09628.html#a5a327399d94704bc290199baa21ff8d7">GuildBankRightsAndSlots::slots</a></div><div class="ttdeci">uint32 slots</div><div class="ttdef"><b>Definition:</b> Guild.h:286</div></div>
-<div class="ttc" id="aa09628_html_ab09825a02a7a21a4915595230d2a5839"><div class="ttname"><a href="../../d3/db3/a09628.html#ab09825a02a7a21a4915595230d2a5839">GuildBankRightsAndSlots::tabId</a></div><div class="ttdeci">uint8 tabId</div><div class="ttdef"><b>Definition:</b> Guild.h:284</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="af5f0087090a7145a22baa1396822318b" name="af5f0087090a7145a22baa1396822318b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af5f0087090a7145a22baa1396822318b">&#9670;&#160;</a></span>GuildBankRightsAndSlots() <span class="overload">[2/3]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">GuildBankRightsAndSlots::GuildBankRightsAndSlots </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>_tabId</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  266</span>: <a class="code hl_variable" href="../../d3/db3/a09628.html#ab09825a02a7a21a4915595230d2a5839">tabId</a>(_tabId), <a class="code hl_variable" href="../../d3/db3/a09628.html#a2a8f5acf21828bfa15d0b3dd6874b5cb">rights</a>(0), <a class="code hl_variable" href="../../d3/db3/a09628.html#a5a327399d94704bc290199baa21ff8d7">slots</a>(0) { }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a4bdf40d99704211b9e80b554ebade54f" name="a4bdf40d99704211b9e80b554ebade54f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4bdf40d99704211b9e80b554ebade54f">&#9670;&#160;</a></span>GuildBankRightsAndSlots() <span class="overload">[3/3]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">GuildBankRightsAndSlots::GuildBankRightsAndSlots </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>_tabId</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d5/dcc/a08616.html">WorldObject</a> const &amp;&#160;</td>
+          <td class="paramname"><em>obj</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>_rights</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>entry</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>_slots</em>&#160;</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>alive</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>range</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -244,13 +185,43 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  267</span>: <a class="code hl_variable" href="../../d3/db3/a09628.html#ab09825a02a7a21a4915595230d2a5839">tabId</a>(_tabId), <a class="code hl_variable" href="../../d3/db3/a09628.html#a2a8f5acf21828bfa15d0b3dd6874b5cb">rights</a>(_rights), <a class="code hl_variable" href="../../d3/db3/a09628.html#a5a327399d94704bc290199baa21ff8d7">slots</a>(_slots) { }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1329</span>            : <a class="code hl_variable" href="../../d3/db3/a09628.html#aa0340c79c37f3494b01c52f034705aa4">i_obj</a>(obj), <a class="code hl_variable" href="../../d3/db3/a09628.html#ae2bf2c0a0f431f5de445fbee26b60a57">i_entry</a>(entry), <a class="code hl_variable" href="../../d3/db3/a09628.html#a7a01388f86d25fa0728d94c6e1a7f752">i_alive</a>(alive), <a class="code hl_variable" href="../../d3/db3/a09628.html#a695af00612b17e0182ad76a5c3be2356">i_range</a>(range) {}</div>
+<div class="ttc" id="aa09628_html_a695af00612b17e0182ad76a5c3be2356"><div class="ttname"><a href="../../d3/db3/a09628.html#a695af00612b17e0182ad76a5c3be2356">Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::i_range</a></div><div class="ttdeci">float i_range</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1344</div></div>
+<div class="ttc" id="aa09628_html_a7a01388f86d25fa0728d94c6e1a7f752"><div class="ttname"><a href="../../d3/db3/a09628.html#a7a01388f86d25fa0728d94c6e1a7f752">Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::i_alive</a></div><div class="ttdeci">bool i_alive</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1343</div></div>
+<div class="ttc" id="aa09628_html_aa0340c79c37f3494b01c52f034705aa4"><div class="ttname"><a href="../../d3/db3/a09628.html#aa0340c79c37f3494b01c52f034705aa4">Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::i_obj</a></div><div class="ttdeci">WorldObject const  &amp; i_obj</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1341</div></div>
+<div class="ttc" id="aa09628_html_ae2bf2c0a0f431f5de445fbee26b60a57"><div class="ttname"><a href="../../d3/db3/a09628.html#ae2bf2c0a0f431f5de445fbee26b60a57">Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::i_entry</a></div><div class="ttdeci">uint32 i_entry</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1342</div></div>
 </div><!-- fragment -->
+</div>
+</div>
+<a id="a1e25384d08beeee84d83e401f5a5a565" name="a1e25384d08beeee84d83e401f5a5a565"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1e25384d08beeee84d83e401f5a5a565">&#9670;&#160;</a></span>NearestCreatureEntryWithLiveStateInObjectRangeCheck() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::NearestCreatureEntryWithLiveStateInObjectRangeCheck </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/db3/a09628.html">NearestCreatureEntryWithLiveStateInObjectRangeCheck</a> const &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a19b76bebdb62434191189ba789c2810f" name="a19b76bebdb62434191189ba789c2810f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a19b76bebdb62434191189ba789c2810f">&#9670;&#160;</a></span>GetRights()</h2>
+<a id="abc2ab6f33a6a58a6e692cc32e8139839" name="abc2ab6f33a6a58a6e692cc32e8139839"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abc2ab6f33a6a58a6e692cc32e8139839">&#9670;&#160;</a></span>operator()()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -259,99 +230,10 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> GuildBankRightsAndSlots::GetRights </td>
+          <td class="memname">bool Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::operator() </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  281</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/db3/a09628.html#a2a8f5acf21828bfa15d0b3dd6874b5cb">rights</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00285">rights</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00286">Guild::RankInfo::CreateMissingTabsIfNeeded()</a>, and <a class="el" href="../../#l00359">Guild::RankInfo::SetBankTabSlotsAndRights()</a>.</p>
-
-</div>
-</div>
-<a id="a51780060b5699bed6b78cc9ba4e95371" name="a51780060b5699bed6b78cc9ba4e95371"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a51780060b5699bed6b78cc9ba4e95371">&#9670;&#160;</a></span>GetSlots()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GuildBankRightsAndSlots::GetSlots </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  280</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/db3/a09628.html#a5a327399d94704bc290199baa21ff8d7">slots</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00286">slots</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00286">Guild::RankInfo::CreateMissingTabsIfNeeded()</a>, and <a class="el" href="../../#l00359">Guild::RankInfo::SetBankTabSlotsAndRights()</a>.</p>
-
-</div>
-</div>
-<a id="a6ba7c49480a1c5325d3702fb61d397cc" name="a6ba7c49480a1c5325d3702fb61d397cc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6ba7c49480a1c5325d3702fb61d397cc">&#9670;&#160;</a></span>GetTabId()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> GuildBankRightsAndSlots::GetTabId </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  279</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/db3/a09628.html#ab09825a02a7a21a4915595230d2a5839">tabId</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00284">tabId</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l02516">Guild::_SetRankBankTabRightsAndSlots()</a>, <a class="el" href="../../#l00286">Guild::RankInfo::CreateMissingTabsIfNeeded()</a>, and <a class="el" href="../../#l00359">Guild::RankInfo::SetBankTabSlotsAndRights()</a>.</p>
-
-</div>
-</div>
-<a id="a1399f191b3b0a44dc1e76fc49adc1412" name="a1399f191b3b0a44dc1e76fc49adc1412"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1399f191b3b0a44dc1e76fc49adc1412">&#9670;&#160;</a></span>SetGuildMasterValues()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void GuildBankRightsAndSlots::SetGuildMasterValues </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d3/d6d/a08204.html">Creature</a> *&#160;</td>
+          <td class="paramname"><em>u</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -361,112 +243,27 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  270</span>    {</div>
-<div class="line"><span class="lineno">  271</span>        <a class="code hl_variable" href="../../d3/db3/a09628.html#a2a8f5acf21828bfa15d0b3dd6874b5cb">rights</a> = <a class="code hl_enumvalue" href="../../da/dd1/a00629.html#a1421de756a2a78653351a892c55a2627a736a48200760aa1ab5d2987407928871">GUILD_BANK_RIGHT_FULL</a>;</div>
-<div class="line"><span class="lineno">  272</span>        <a class="code hl_variable" href="../../d3/db3/a09628.html#a5a327399d94704bc290199baa21ff8d7">slots</a> = <a class="code hl_typedef" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_enumvalue" href="../../da/dd1/a00629.html#a06a462b77a279ae7e2e901b2a8b42fbaa571aa585445117cda99224482dd773c3">GUILD_WITHDRAW_SLOT_UNLIMITED</a>);</div>
-<div class="line"><span class="lineno">  273</span>    }</div>
-<div class="ttc" id="aa00629_html_a06a462b77a279ae7e2e901b2a8b42fbaa571aa585445117cda99224482dd773c3"><div class="ttname"><a href="../../da/dd1/a00629.html#a06a462b77a279ae7e2e901b2a8b42fbaa571aa585445117cda99224482dd773c3">GUILD_WITHDRAW_SLOT_UNLIMITED</a></div><div class="ttdeci">@ GUILD_WITHDRAW_SLOT_UNLIMITED</div><div class="ttdef"><b>Definition:</b> Guild.h:49</div></div>
-<div class="ttc" id="aa00629_html_a1421de756a2a78653351a892c55a2627a736a48200760aa1ab5d2987407928871"><div class="ttname"><a href="../../da/dd1/a00629.html#a1421de756a2a78653351a892c55a2627a736a48200760aa1ab5d2987407928871">GUILD_BANK_RIGHT_FULL</a></div><div class="ttdeci">@ GUILD_BANK_RIGHT_FULL</div><div class="ttdef"><b>Definition:</b> Guild.h:192</div></div>
-<div class="ttc" id="aa04331_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1332</span>        {</div>
+<div class="line"><span class="lineno"> 1333</span>            <span class="keywordflow">if</span> (u-&gt;<a class="code hl_function" href="../../da/d14/a08580.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == <a class="code hl_variable" href="../../d3/db3/a09628.html#ae2bf2c0a0f431f5de445fbee26b60a57">i_entry</a> &amp;&amp; u-&gt;<a class="code hl_function" href="../../d4/d43/a08960.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() == <a class="code hl_variable" href="../../d3/db3/a09628.html#a7a01388f86d25fa0728d94c6e1a7f752">i_alive</a> &amp;&amp; <a class="code hl_variable" href="../../d3/db3/a09628.html#aa0340c79c37f3494b01c52f034705aa4">i_obj</a>.<a class="code hl_function" href="../../d5/dcc/a08616.html#ae4ac4fb3c927029f132b38a0e875788d">IsWithinDist</a>(u, <a class="code hl_variable" href="../../d3/db3/a09628.html#a695af00612b17e0182ad76a5c3be2356">i_range</a>) &amp;&amp; <a class="code hl_variable" href="../../d3/db3/a09628.html#aa0340c79c37f3494b01c52f034705aa4">i_obj</a>.<a class="code hl_function" href="../../d5/dcc/a08616.html#a9194d2edf982e08c6a17e2893d9969f9">InSamePhase</a>(u))</div>
+<div class="line"><span class="lineno"> 1334</span>            {</div>
+<div class="line"><span class="lineno"> 1335</span>                <a class="code hl_variable" href="../../d3/db3/a09628.html#a695af00612b17e0182ad76a5c3be2356">i_range</a> = <a class="code hl_variable" href="../../d3/db3/a09628.html#aa0340c79c37f3494b01c52f034705aa4">i_obj</a>.<a class="code hl_function" href="../../d5/dcc/a08616.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(u);         <span class="comment">// use found unit range as new range limit for next check</span></div>
+<div class="line"><span class="lineno"> 1336</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1337</span>            }</div>
+<div class="line"><span class="lineno"> 1338</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1339</span>        }</div>
+<div class="ttc" id="aa08580_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../da/d14/a08580.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition:</b> Object.h:116</div></div>
+<div class="ttc" id="aa08616_html_a9194d2edf982e08c6a17e2893d9969f9"><div class="ttname"><a href="../../d5/dcc/a08616.html#a9194d2edf982e08c6a17e2893d9969f9">WorldObject::InSamePhase</a></div><div class="ttdeci">bool InSamePhase(WorldObject const *obj) const</div><div class="ttdef"><b>Definition:</b> Object.h:513</div></div>
+<div class="ttc" id="aa08616_html_acaa0cccbbb9cac74080c8279a571a68c"><div class="ttname"><a href="../../d5/dcc/a08616.html#acaa0cccbbb9cac74080c8279a571a68c">WorldObject::GetDistance</a></div><div class="ttdeci">float GetDistance(WorldObject const *obj) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1271</div></div>
+<div class="ttc" id="aa08616_html_ae4ac4fb3c927029f132b38a0e875788d"><div class="ttname"><a href="../../d5/dcc/a08616.html#ae4ac4fb3c927029f132b38a0e875788d">WorldObject::IsWithinDist</a></div><div class="ttdeci">bool IsWithinDist(WorldObject const *obj, float dist2compare, bool is3D=true, bool incOwnRadius=true, bool incTargetRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1342</div></div>
+<div class="ttc" id="aa08960_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d4/d43/a08960.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1784</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00192">GUILD_BANK_RIGHT_FULL</a>, <a class="el" href="../../#l00049">GUILD_WITHDRAW_SLOT_UNLIMITED</a>, <a class="el" href="../../#l00285">rights</a>, and <a class="el" href="../../#l00286">slots</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00286">Guild::RankInfo::CreateMissingTabsIfNeeded()</a>, and <a class="el" href="../../#l00359">Guild::RankInfo::SetBankTabSlotsAndRights()</a>.</p>
-
-</div>
-</div>
-<a id="abf4e1f1556554e7f756dc566fbdd7f40" name="abf4e1f1556554e7f756dc566fbdd7f40"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abf4e1f1556554e7f756dc566fbdd7f40">&#9670;&#160;</a></span>SetRights()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void GuildBankRightsAndSlots::SetRights </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>_rights</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  277</span>{ <a class="code hl_variable" href="../../d3/db3/a09628.html#a2a8f5acf21828bfa15d0b3dd6874b5cb">rights</a> = _rights; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00285">rights</a>.</p>
-
-</div>
-</div>
-<a id="a8ed33a4e1d2a957d61c5f7556533f225" name="a8ed33a4e1d2a957d61c5f7556533f225"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8ed33a4e1d2a957d61c5f7556533f225">&#9670;&#160;</a></span>SetSlots()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void GuildBankRightsAndSlots::SetSlots </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>_slots</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  276</span>{ <a class="code hl_variable" href="../../d3/db3/a09628.html#a5a327399d94704bc290199baa21ff8d7">slots</a> = _slots; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00286">slots</a>.</p>
-
-</div>
-</div>
-<a id="abe84f6bcdfd48d70b894470d025f3aae" name="abe84f6bcdfd48d70b894470d025f3aae"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abe84f6bcdfd48d70b894470d025f3aae">&#9670;&#160;</a></span>SetTabId()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void GuildBankRightsAndSlots::SetTabId </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>_tabId</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  275</span>{ <a class="code hl_variable" href="../../d3/db3/a09628.html#ab09825a02a7a21a4915595230d2a5839">tabId</a> = _tabId; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00284">tabId</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00286">Guild::RankInfo::CreateMissingTabsIfNeeded()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01271">WorldObject::GetDistance()</a>, <a class="el" href="../../#l00116">Object::GetEntry()</a>, <a class="el" href="../../#l01343">i_alive</a>, <a class="el" href="../../#l01342">i_entry</a>, <a class="el" href="../../#l01341">i_obj</a>, <a class="el" href="../../#l01344">i_range</a>, <a class="el" href="../../#l00513">WorldObject::InSamePhase()</a>, <a class="el" href="../../#l01784">Unit::IsAlive()</a>, and <a class="el" href="../../#l01342">WorldObject::IsWithinDist()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a2a8f5acf21828bfa15d0b3dd6874b5cb" name="a2a8f5acf21828bfa15d0b3dd6874b5cb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2a8f5acf21828bfa15d0b3dd6874b5cb">&#9670;&#160;</a></span>rights</h2>
+<a id="a7a01388f86d25fa0728d94c6e1a7f752" name="a7a01388f86d25fa0728d94c6e1a7f752"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7a01388f86d25fa0728d94c6e1a7f752">&#9670;&#160;</a></span>i_alive</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -475,7 +272,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> GuildBankRightsAndSlots::rights</td>
+          <td class="memname">bool Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::i_alive</td>
         </tr>
       </table>
   </td>
@@ -485,12 +282,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00281">GetRights()</a>, <a class="el" href="../../#l00269">SetGuildMasterValues()</a>, and <a class="el" href="../../#l00277">SetRights()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01331">operator()()</a>.</p>
 
 </div>
 </div>
-<a id="a5a327399d94704bc290199baa21ff8d7" name="a5a327399d94704bc290199baa21ff8d7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5a327399d94704bc290199baa21ff8d7">&#9670;&#160;</a></span>slots</h2>
+<a id="ae2bf2c0a0f431f5de445fbee26b60a57" name="ae2bf2c0a0f431f5de445fbee26b60a57"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae2bf2c0a0f431f5de445fbee26b60a57">&#9670;&#160;</a></span>i_entry</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -499,7 +296,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GuildBankRightsAndSlots::slots</td>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::i_entry</td>
         </tr>
       </table>
   </td>
@@ -509,12 +306,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00280">GetSlots()</a>, <a class="el" href="../../#l00269">SetGuildMasterValues()</a>, and <a class="el" href="../../#l00276">SetSlots()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01331">operator()()</a>.</p>
 
 </div>
 </div>
-<a id="ab09825a02a7a21a4915595230d2a5839" name="ab09825a02a7a21a4915595230d2a5839"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab09825a02a7a21a4915595230d2a5839">&#9670;&#160;</a></span>tabId</h2>
+<a id="aa0340c79c37f3494b01c52f034705aa4" name="aa0340c79c37f3494b01c52f034705aa4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa0340c79c37f3494b01c52f034705aa4">&#9670;&#160;</a></span>i_obj</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -523,7 +320,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> GuildBankRightsAndSlots::tabId</td>
+          <td class="memname"><a class="el" href="../../d5/dcc/a08616.html">WorldObject</a> const&amp; Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::i_obj</td>
         </tr>
       </table>
   </td>
@@ -533,7 +330,31 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00279">GetTabId()</a>, and <a class="el" href="../../#l00275">SetTabId()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01331">operator()()</a>.</p>
+
+</div>
+</div>
+<a id="a695af00612b17e0182ad76a5c3be2356" name="a695af00612b17e0182ad76a5c3be2356"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a695af00612b17e0182ad76a5c3be2356">&#9670;&#160;</a></span>i_range</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float Acore::NearestCreatureEntryWithLiveStateInObjectRangeCheck::i_range</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01331">operator()()</a>.</p>
 
 </div>
 </div>
@@ -542,8 +363,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/db3/a09628.html">GuildBankRightsAndSlots</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:11:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/d47/a04938.html">Acore</a></li><li class="navelem"><a class="el" href="../../d3/db3/a09628.html">NearestCreatureEntryWithLiveStateInObjectRangeCheck</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:16:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

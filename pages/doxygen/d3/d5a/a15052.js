@@ -1,6 +1,11 @@
 var a15052 =
 [
-    [ "npc_crate_helperAI", "df/d5c/a15056.html", "df/d5c/a15056" ],
-    [ "npc_crate_helper", "d3/d5a/a15052.html#ae08751928234656dcda84dd5c7e4cc37", null ],
-    [ "GetAI", "d3/d5a/a15052.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
+    [ "boss_anetheron", "d3/d5a/a15052.html#a6c103caa3f137756599a75bff03a6648", null ],
+    [ "DoAction", "d3/d5a/a15052.html#a2fd485de26c820fec5240f9141a09964", null ],
+    [ "JustDied", "d3/d5a/a15052.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
+    [ "JustEngagedWith", "d3/d5a/a15052.html#aa34ac87ad4014fbecb481be7896c577c", null ],
+    [ "JustSummoned", "d3/d5a/a15052.html#af9c156e28c7eca710d8367bd2a99387d", null ],
+    [ "KilledUnit", "d3/d5a/a15052.html#a4471af823278a3664574729bf5c749be", null ],
+    [ "PathEndReached", "d3/d5a/a15052.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
+    [ "_recentlySpoken", "d3/d5a/a15052.html#accd9455c3b1d536ca177be6028f3503d", null ]
 ];

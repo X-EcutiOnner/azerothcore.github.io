@@ -1,11 +1,6 @@
 var a18428 =
 [
-    [ "NonTankLKTargetSelector", "d5/d94/a18428.html#a41c5372505c0c74e93f2c583a0259777", null ],
-    [ "operator()", "d5/d94/a18428.html#a2e496088092b9885f8e2391c2df91993", null ],
-    [ "_exclude1", "d5/d94/a18428.html#abe4e56597fa2918b15a003413887ac71", null ],
-    [ "_exclude2", "d5/d94/a18428.html#a6aa63c93c4e68998f621349760d9ab43", null ],
-    [ "_maxDist", "d5/d94/a18428.html#ac7e28c908079fbd2e1ca5374731d521e", null ],
-    [ "_playerOnly", "d5/d94/a18428.html#a5ab89af79aa4840c9a024996a848540c", null ],
-    [ "_reqLOS", "d5/d94/a18428.html#a61966d6b825f25b6bbf589676cef19f9", null ],
-    [ "_source", "d5/d94/a18428.html#a86e3ebd2425b76103df7413b5ed4af70", null ]
+    [ "CheckTarget", "d5/d94/a18428.html#afce64ba75f8370cab6b8f1e561b10587", null ],
+    [ "PrepareSpellScript", "d5/d94/a18428.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
+    [ "Register", "d5/d94/a18428.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
 ];

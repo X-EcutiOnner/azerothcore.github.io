@@ -1,6 +1,6 @@
 var a22036 =
 [
-    [ "npc_q24545_vegardAI", "d6/d77/a22040.html", "d6/d77/a22040" ],
-    [ "npc_q24545_vegard", "d7/dbe/a22036.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
-    [ "GetAI", "d7/dbe/a22036.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
+    [ "npc_guardian_pavilionAI", "d6/d77/a22040.html", "d6/d77/a22040" ],
+    [ "npc_guardian_pavilion", "d7/dbe/a22036.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "d7/dbe/a22036.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

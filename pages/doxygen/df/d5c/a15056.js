@@ -1,6 +1,6 @@
 var a15056 =
 [
-    [ "npc_crate_helperAI", "df/d5c/a15056.html#ad58a2f3746da7862658fb3b9e1580836", null ],
-    [ "SpellHit", "df/d5c/a15056.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
-    [ "_marked", "df/d5c/a15056.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
+    [ "FilterTargets", "df/d5c/a15056.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
+    [ "PrepareSpellScript", "df/d5c/a15056.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
+    [ "Register", "df/d5c/a15056.html#a6375482bd9d1fc6c6941607273c506dc", null ]
 ];

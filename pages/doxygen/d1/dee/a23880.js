@@ -1,6 +1,7 @@
 var a23880 =
 [
-    [ "npc_millhouse_manastormAI", "dd/d11/a23884.html", "dd/d11/a23884" ],
-    [ "npc_millhouse_manastorm", "d1/dee/a23880.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
-    [ "GetAI", "d1/dee/a23880.html#ac4516785f7daf544718fc201197ba977", null ]
+    [ "OnPeriodic", "d1/dee/a23880.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "d1/dee/a23880.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "d1/dee/a23880.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "d1/dee/a23880.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

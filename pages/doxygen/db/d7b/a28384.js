@@ -1,10 +1,8 @@
 var a28384 =
 [
-    [ "HasFlag", "db/d7b/a28384.html#abe23ca5437589a38ea57bc93a6197911", null ],
-    [ "CollisionHeight", "db/d7b/a28384.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
-    [ "CollisionWidth", "db/d7b/a28384.html#ab79497759cf169348b8922301fc43b2f", null ],
-    [ "Flags", "db/d7b/a28384.html#a3bb96e232124771e78f8b5db53405106", null ],
-    [ "Id", "db/d7b/a28384.html#aa19fec147703c7542be260c8ec5a0446", null ],
-    [ "MountHeight", "db/d7b/a28384.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
-    [ "Scale", "db/d7b/a28384.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
+    [ "npc_elder_clearwaterAI", "db/d36/a28388.html", "db/d36/a28388" ],
+    [ "npc_elder_clearwater", "db/d7b/a28384.html#abeee1650938a71762bb0c148ea9834d1", null ],
+    [ "GetAI", "db/d7b/a28384.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
+    [ "OnGossipHello", "db/d7b/a28384.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
+    [ "OnQuestReward", "db/d7b/a28384.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
 ];

@@ -1,6 +1,6 @@
 var a16384 =
 [
-    [ "HandleForceCast", "d1/d78/a16384.html#a975b69649aba9de341f4e52c82a3c111", null ],
-    [ "PrepareSpellScript", "d1/d78/a16384.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
-    [ "Register", "d1/d78/a16384.html#a794a59e5fd3bda75f30d559f422895b5", null ]
+    [ "HandleScriptEffect", "d1/d78/a16384.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "d1/d78/a16384.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "d1/d78/a16384.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

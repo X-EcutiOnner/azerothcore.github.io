@@ -1,6 +1,7 @@
 var a26880 =
 [
-    [ "HandleAfterCast", "dc/d41/a26880.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "dc/d41/a26880.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "dc/d41/a26880.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "HandleProc", "dc/d41/a26880.html#af27f9408725ff9c7ec17e8ae352234a9", null ],
+    [ "PrepareAuraScript", "dc/d41/a26880.html#a11c2e125d7a583966be3f8a64064a5ad", null ],
+    [ "Register", "dc/d41/a26880.html#a283f05b3649e3c137679ab92386f7a84", null ],
+    [ "Validate", "dc/d41/a26880.html#a4805c758dc85e065cdb9550a5856fe31", null ]
 ];

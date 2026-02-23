@@ -1,6 +1,9 @@
 var a20260 =
 [
-    [ "boss_freya_lifebinderAI", "d2/dcc/a20264.html", "d2/dcc/a20264" ],
-    [ "boss_freya_lifebinder", "d9/de2/a20260.html#ad7a3bc09aacf35b4a6a39e65c966b824", null ],
-    [ "GetAI", "d9/de2/a20260.html#a978e4472a080f0fc53848abaa305cd77", null ]
+    [ "Absorb", "d9/de2/a20260.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
+    [ "CalculateAmount", "d9/de2/a20260.html#a9166627cbaa536405975444c4ef601de", null ],
+    [ "Load", "d9/de2/a20260.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
+    [ "PrepareAuraScript", "d9/de2/a20260.html#aa5793741c2f8179db68a9fb1222a9085", null ],
+    [ "Register", "d9/de2/a20260.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
+    [ "_absorbPct", "d9/de2/a20260.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
 ];

@@ -1,17 +1,11 @@
 var a09292 =
 [
-    [ "MessageDistDeliverer", "d2/d3e/a09292.html#a8f8c9fb2dadaa8c521b5036a94a4c9a4", null ],
-    [ "SendPacket", "d2/d3e/a09292.html#af085a9490dfd5a1e577bda6d8333fe1d", null ],
-    [ "Visit", "d2/d3e/a09292.html#af44878b494b1412f0d08248f6a88fff6", null ],
-    [ "Visit", "d2/d3e/a09292.html#a2e8d0ad4bdc5fc8961d9f67b6a93b69d", null ],
-    [ "Visit", "d2/d3e/a09292.html#a8c56d33ec988bfb6ba078fce00beab1a", null ],
-    [ "Visit", "d2/d3e/a09292.html#a09171ca5e494d7cc4b19340e95367a64", null ],
-    [ "Visit", "d2/d3e/a09292.html#ab8bf1e8d9f81dac6baa006262835628f", null ],
-    [ "i_distSq", "d2/d3e/a09292.html#a871dda581863f0919f1d5b2f60c2fcd9", null ],
-    [ "i_message", "d2/d3e/a09292.html#ac49c2d8b9120edbafd6b04656a6d2909", null ],
-    [ "i_phaseMask", "d2/d3e/a09292.html#abca07d041f9b45b4002f15dfff6e1c9e", null ],
-    [ "i_source", "d2/d3e/a09292.html#aa65c4e298a1302647fdaad1b1227a3a2", null ],
-    [ "required3dDist", "d2/d3e/a09292.html#abdce98d93c98513a434df80b97c096c6", null ],
-    [ "skipped_receiver", "d2/d3e/a09292.html#a7f92e1c65cdc8346dd4bac47f1ba8b5b", null ],
-    [ "teamId", "d2/d3e/a09292.html#acfda3713bbde51a110cb160f0325f848", null ]
+    [ "~GridCell", "d2/d3e/a09292.html#a042be8f85e83068d4bb39a0de0618146", null ],
+    [ "AddFarVisibleObject", "d2/d3e/a09292.html#a9a81bdbf151463b4687227df0fa39ece", null ],
+    [ "AddGridObject", "d2/d3e/a09292.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
+    [ "RemoveFarVisibleObject", "d2/d3e/a09292.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
+    [ "Visit", "d2/d3e/a09292.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
+    [ "Visit", "d2/d3e/a09292.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
+    [ "_farVisibleObjects", "d2/d3e/a09292.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
+    [ "_gridObjects", "d2/d3e/a09292.html#ac5a741aebc11124aa228e5107e664335", null ]
 ];

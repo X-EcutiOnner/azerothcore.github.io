@@ -1,5 +1,6 @@
 var a21200 =
 [
-    [ "achievement_yogg_saron_kiss_and_make_up", "d0/dc9/a21200.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
-    [ "OnCheck", "d0/dc9/a21200.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
+    [ "boss_koralonAI", "de/d56/a21204.html", "de/d56/a21204" ],
+    [ "boss_koralon", "d0/dc9/a21200.html#a43b9fb1224abeba44080fb02062451b0", null ],
+    [ "GetAI", "d0/dc9/a21200.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
 ];

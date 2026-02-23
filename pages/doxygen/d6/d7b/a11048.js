@@ -1,8 +1,7 @@
 var a11048 =
 [
-    [ "TrainerBuyFailed", "d6/d7b/a11048.html#a01e7709ea4fe86de57f61ba8ffc5ba6d", null ],
-    [ "Write", "d6/d7b/a11048.html#a75c3bff5da4699fc412793caef1b75af", null ],
-    [ "SpellID", "d6/d7b/a11048.html#a807873fb60cfa1bafa78f3f479fef75b", null ],
-    [ "TrainerFailedReason", "d6/d7b/a11048.html#a746ff497fba16adb16bbb647dff385df", null ],
-    [ "TrainerGUID", "d6/d7b/a11048.html#ac8d286ad6add18b92dd7e2111a4ec28c", null ]
+    [ "AutoEquipItem", "d6/d7b/a11048.html#a60accc2bf5c484753f94a8fe947e8f36", null ],
+    [ "Read", "d6/d7b/a11048.html#a187bcedbc110adc332c0cb1de2bd7d9c", null ],
+    [ "SourceBag", "d6/d7b/a11048.html#ad8fe37595168bc57fcd4af46bdbfafdc", null ],
+    [ "SourceSlot", "d6/d7b/a11048.html#aee1f081b0775d7fc9eb67764a9249ec5", null ]
 ];

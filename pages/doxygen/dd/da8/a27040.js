@@ -1,6 +1,8 @@
 var a27040 =
 [
-    [ "HandleBanish", "dd/da8/a27040.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "dd/da8/a27040.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "dd/da8/a27040.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "HandleDummy", "dd/da8/a27040.html#a923fa966dc7109f7cb02c25bbd23b0ff", null ],
+    [ "Load", "dd/da8/a27040.html#a5b336f402a256c80d8d3f8c5b1cbda2f", null ],
+    [ "PrepareSpellScript", "dd/da8/a27040.html#a79dc24ba1f2f059d77a06b457a78fcf1", null ],
+    [ "Register", "dd/da8/a27040.html#afb1c744f263b21c30a5dfd3675acb364", null ],
+    [ "Validate", "dd/da8/a27040.html#acaaeacf371538cafbbb4cc7cc036280e", null ]
 ];

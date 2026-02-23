@@ -1,9 +1,6 @@
 var a14496 =
 [
-    [ "CheckCast", "d5/d05/a14496.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
-    [ "FilterTargets", "d5/d05/a14496.html#a9638048b4107db116474abf8e18d7760", null ],
-    [ "HandleBeforeHit", "d5/d05/a14496.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
-    [ "HandleScriptEffect", "d5/d05/a14496.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
-    [ "PrepareSpellScript", "d5/d05/a14496.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
-    [ "Register", "d5/d05/a14496.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
+    [ "boss_mandokirAI", "d0/d0b/a14500.html", "d0/d0b/a14500" ],
+    [ "boss_mandokir", "d5/d05/a14496.html#aad13c8302cef7fb4981f0d2178630def", null ],
+    [ "GetAI", "d5/d05/a14496.html#a215842d5ab23824ec20db64e2fa4407e", null ]
 ];

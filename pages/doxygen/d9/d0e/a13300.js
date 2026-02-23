@@ -1,8 +1,5 @@
 var a13300 =
 [
-    [ "CheckCast", "d9/d0e/a13300.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
-    [ "HandleScriptEffect", "d9/d0e/a13300.html#a36bb2b95651889eaa0321a7a327e173f", null ],
-    [ "PrepareSpellScript", "d9/d0e/a13300.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
-    [ "Register", "d9/d0e/a13300.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
-    [ "Validate", "d9/d0e/a13300.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
+    [ "boss_eramas_brightblaze", "d9/d0e/a13300.html#a14d1528750036f27948f5de8a2b44bd3", null ],
+    [ "JustEngagedWith", "d9/d0e/a13300.html#ad34613d2795f7371a43891488044392a", null ]
 ];

@@ -1,7 +1,8 @@
 var a27696 =
 [
-    [ "npc_engineering_tele_trinket", "db/d40/a27696.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
-    [ "CanLearn", "db/d40/a27696.html#a8a35f1c09a9df609561e76f4ed578647", null ],
-    [ "OnGossipHello", "db/d40/a27696.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
-    [ "OnGossipSelect", "db/d40/a27696.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
+    [ "CheckProc", "db/d40/a27696.html#a4713f3cdce1ee793a8f2232202314ff7", null ],
+    [ "HandleProc", "db/d40/a27696.html#ab892bc268feccba594a5b4b0be3e86f7", null ],
+    [ "PrepareAuraScript", "db/d40/a27696.html#a92a141fcf24f63bc41f6f828f72bf277", null ],
+    [ "Register", "db/d40/a27696.html#a93806efcc1e5976cca2eab57c9e55a7e", null ],
+    [ "Validate", "db/d40/a27696.html#a28801b99335380a7e366e766b6aaea2c", null ]
 ];

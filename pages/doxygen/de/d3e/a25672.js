@@ -1,9 +1,8 @@
 var a25672 =
 [
-    [ "CheckProc", "de/d3e/a25672.html#a05a15654fd3c6175b59ab18197fc3c77", null ],
-    [ "HandleProc", "de/d3e/a25672.html#a5345da73b9c4c9fe4ae5d272e3574955", null ],
-    [ "OnRemove", "de/d3e/a25672.html#a27b1b744d88b4c870c0baa0b8f88317f", null ],
-    [ "PrepareAuraScript", "de/d3e/a25672.html#a2e13f63459342fb749594f7fbb517c80", null ],
-    [ "Register", "de/d3e/a25672.html#a6fc9a3945a736ba4a62ad754090d8525", null ],
-    [ "Validate", "de/d3e/a25672.html#a008ec43da50deb568ec453e992f89887", null ]
+    [ "CheckProc", "de/d3e/a25672.html#a86e6da13f7162318e5c0a7c6f89c69c2", null ],
+    [ "HandleProc", "de/d3e/a25672.html#a4ac70c7765266f36b7689ffcc2bed15d", null ],
+    [ "PrepareAuraScript", "de/d3e/a25672.html#acc41c53bf96695dc8cc43ccaf08e4125", null ],
+    [ "Register", "de/d3e/a25672.html#a1dcd66a66f7b069fede39b57f0abbb56", null ],
+    [ "Validate", "de/d3e/a25672.html#a269711969d98851c8275e3f44a706b97", null ]
 ];

@@ -1,8 +1,6 @@
 var a15480 =
 [
-    [ "boss_veklor", "d4/d3b/a15480.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
-    [ "AttackStart", "d4/d3b/a15480.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
-    [ "IAmVeklor", "d4/d3b/a15480.html#a4c43713c24b5537f292be1e0fcaee703", null ],
-    [ "JustEngagedWith", "d4/d3b/a15480.html#a05913da666b1715eac68441195dd9df4", null ],
-    [ "SpellHit", "d4/d3b/a15480.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
+    [ "FilterTargets", "d4/d3b/a15480.html#ac4f353ac54e7a461d5411fd8eae33cc1", null ],
+    [ "PrepareSpellScript", "d4/d3b/a15480.html#a8cb8041b71dd3175b627fe7ec5b2c2f3", null ],
+    [ "Register", "d4/d3b/a15480.html#a07d56d19b95c8d24f6908815e4ceb13f", null ]
 ];

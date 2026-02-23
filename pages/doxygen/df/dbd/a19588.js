@@ -1,6 +1,6 @@
 var a19588 =
 [
-    [ "instance_nexus_InstanceMapScript", "d9/d9b/a19592.html", "d9/d9b/a19592" ],
-    [ "instance_nexus", "df/dbd/a19588.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
-    [ "GetInstanceScript", "df/dbd/a19588.html#a156210ba08caa0572c775dbd5851b250", null ]
+    [ "FilterTargets", "df/dbd/a19588.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
+    [ "PrepareSpellScript", "df/dbd/a19588.html#a452937a4e95b40366f915213ec475a84", null ],
+    [ "Register", "df/dbd/a19588.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
 ];

@@ -1,8 +1,8 @@
 var a24908 =
 [
-    [ "AfterRemove", "dd/d3f/a24908.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
-    [ "HandleDispel", "dd/d3f/a24908.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
-    [ "PrepareAuraScript", "dd/d3f/a24908.html#a44e66753516d693c31dba27c9d1ad250", null ],
-    [ "Register", "dd/d3f/a24908.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
-    [ "Validate", "dd/d3f/a24908.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
+    [ "HandleSchoolDMG", "dd/d3f/a24908.html#ab273304fdbeea8768622c3e6b222aaf2", null ],
+    [ "HandleScriptEffect", "dd/d3f/a24908.html#a06f9cf29387b49f3e5950661173c77eb", null ],
+    [ "PrepareSpellScript", "dd/d3f/a24908.html#ac1a2b89eda37ed4e6c5946a93e7a58a2", null ],
+    [ "Register", "dd/d3f/a24908.html#a9bdbf7578509976d482a26869e9068aa", null ],
+    [ "Validate", "dd/d3f/a24908.html#a20a7b3a25711a90ab5f0e14991112ea0", null ]
 ];

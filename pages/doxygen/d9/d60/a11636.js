@@ -1,12 +1,14 @@
 var a11636 =
 [
-    [ "BroadcastTextBuilder", "d9/d60/a11636.html#adafc60b68bed31fdd87f5c71244c96f2", null ],
-    [ "operator()", "d9/d60/a11636.html#a16f9719278e00013c25902846fa1be5b", null ],
-    [ "operator()", "d9/d60/a11636.html#ac87701626dddffb6b09bf504b97c4d55", null ],
-    [ "_achievementId", "d9/d60/a11636.html#a82de25331657b17ce0de33f2b374abda", null ],
-    [ "_gender", "d9/d60/a11636.html#a71032b0749dd75f552107503528e8166", null ],
-    [ "_msgType", "d9/d60/a11636.html#a232325cefa217843da5cc6db7e5d80fe", null ],
-    [ "_source", "d9/d60/a11636.html#ab73315225b3aa36a309f45596f7089f4", null ],
-    [ "_target", "d9/d60/a11636.html#a958b154f3c82188e9684be0f0b7dae56", null ],
-    [ "_textId", "d9/d60/a11636.html#a0bbe45b38a92967f145fb1d608d647b1", null ]
+    [ "IsFitToRequirements", "d9/d60/a11636.html#af1585273701356a591bf9d9483e996a3", null ],
+    [ "areaId", "d9/d60/a11636.html#af7e6f7b027388447a1f99e759975ca09", null ],
+    [ "auraSpell", "d9/d60/a11636.html#adaf2f6f7c56701fe42a2674aca74fba0", null ],
+    [ "autocast", "d9/d60/a11636.html#a38b42b82e4a588e102eb393cc907cd27", null ],
+    [ "gender", "d9/d60/a11636.html#af4314cba9c91fd1e2c09905c17c67d22", null ],
+    [ "questEnd", "d9/d60/a11636.html#a075cc2bc4d8c9663b2bdb2cf8ba77f5f", null ],
+    [ "questEndStatus", "d9/d60/a11636.html#ac6c7ed326628642da138bb3835db9a1d", null ],
+    [ "questStart", "d9/d60/a11636.html#afc99b14a3724fef7c5dd70e976a479a8", null ],
+    [ "questStartStatus", "d9/d60/a11636.html#a7f4466dfd9ab56850a36d0d09ff84798", null ],
+    [ "raceMask", "d9/d60/a11636.html#a402373ff841bd2aa47b4b36a581624cc", null ],
+    [ "spellId", "d9/d60/a11636.html#a8a299d901e2c13cdc3c00d6cf0a856d3", null ]
 ];

@@ -1,6 +1,7 @@
 var a27360 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "df/d3b/a27360.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "df/d3b/a27360.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "df/d3b/a27360.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "CalculateAmount", "df/d3b/a27360.html#adc34e5742173d039f6050d5ccc0a2cae", null ],
+    [ "PrepareAuraScript", "df/d3b/a27360.html#aa966d001c3687403dfa2b13e998ca241", null ],
+    [ "Register", "df/d3b/a27360.html#aeecb9756d4304ed2316b6d2a8f0d6ac4", null ],
+    [ "Validate", "df/d3b/a27360.html#af1eee4d8e966d66fea04173e7481b5ce", null ]
 ];

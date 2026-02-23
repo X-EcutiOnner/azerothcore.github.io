@@ -1,9 +1,9 @@
 var a13864 =
 [
-    [ "npc_partygoer", "d7/d81/a13864.html#af053caedfd1fa8173b875f521d279418", null ],
-    [ "Initialize", "d7/d81/a13864.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
-    [ "Reset", "d7/d81/a13864.html#ad1936099ec5696a2a593e5041b0360c6", null ],
-    [ "UpdateAI", "d7/d81/a13864.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
-    [ "_events", "d7/d81/a13864.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
-    [ "_facing", "d7/d81/a13864.html#a9e934091894987ec091b03090bf733e5", null ]
+    [ "boss_entropius", "d7/d81/a13864.html#a458deaa80c9694cd2608150bc5519c76", null ],
+    [ "EnterEvadeMode", "d7/d81/a13864.html#a01889b192525af082471d092bff28c88", null ],
+    [ "JustDied", "d7/d81/a13864.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
+    [ "JustEngagedWith", "d7/d81/a13864.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
+    [ "Reset", "d7/d81/a13864.html#ad9da990a540703d38cb45dd2da72c179", null ],
+    [ "UpdateAI", "d7/d81/a13864.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
 ];

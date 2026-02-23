@@ -1,7 +1,13 @@
 var a19776 =
 [
-    [ "HandleScript", "da/d2a/a19776.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
-    [ "PrepareSpellScript", "da/d2a/a19776.html#a34337690029eedb60a17572dbbf1e1f9", null ],
-    [ "Register", "da/d2a/a19776.html#ad554d79e1a98490085b22f5038d058da", null ],
-    [ "Validate", "da/d2a/a19776.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
+    [ "npc_oculus_unstable_sphereAI", "da/d2a/a19776.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
+    [ "AttackStart", "da/d2a/a19776.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
+    [ "MoveInLineOfSight", "da/d2a/a19776.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
+    [ "MovementInform", "da/d2a/a19776.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
+    [ "PickNewLocation", "da/d2a/a19776.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
+    [ "Reset", "da/d2a/a19776.html#ac2e391d0149b62823ac9074d45c694cf", null ],
+    [ "UpdateAI", "da/d2a/a19776.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
+    [ "gonext", "da/d2a/a19776.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
+    [ "located", "da/d2a/a19776.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
+    [ "timer", "da/d2a/a19776.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
 ];

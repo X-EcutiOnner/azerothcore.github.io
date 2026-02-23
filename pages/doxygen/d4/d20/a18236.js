@@ -1,10 +1,7 @@
 var a18236 =
 [
-    [ "FilterTargets", "d4/d20/a18236.html#aefba5226671b6217549bd34059519179", null ],
-    [ "Load", "d4/d20/a18236.html#af8a2b651782783dc29ac7266ed02c028", null ],
-    [ "NotifyTargets", "d4/d20/a18236.html#a618e98fbd5c6ae21047cc4f911099730", null ],
-    [ "PrepareSpellScript", "d4/d20/a18236.html#a0cd63fa27a1ee853c5d73c766d1c4de6", null ],
-    [ "Register", "d4/d20/a18236.html#ae72a470c87f7d90e4bd635e239d09f9b", null ],
-    [ "ReplaceTargets", "d4/d20/a18236.html#a5d3df9715d04ea4b663b061c7c02ae03", null ],
-    [ "_target", "d4/d20/a18236.html#a10c85fd3909e56f457d73add8021c0b7", null ]
+    [ "HandleSpikes", "d4/d20/a18236.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
+    [ "PrepareSpellScript", "d4/d20/a18236.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
+    [ "Register", "d4/d20/a18236.html#a893345cf191d084a0f97a8464b7d381a", null ],
+    [ "Validate", "d4/d20/a18236.html#aa6545760706d8695aefd4064c3c71c6b", null ]
 ];

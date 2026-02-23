@@ -1,5 +1,5 @@
 var a14764 =
 [
-    [ "PrepareSpellScript", "df/d1f/a14764.html#af219083d127afe24b2541a95bfd449ff", null ],
-    [ "Register", "df/d1f/a14764.html#a03f7ac8d5968970f769191c7df7f5899", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "df/d1f/a14764.html#a40207493c75d8a63284e08f1f75d56c4", null ],
+    [ "MoveInLineOfSight", "df/d1f/a14764.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
 ];

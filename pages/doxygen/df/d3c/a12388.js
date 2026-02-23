@@ -1,6 +1,6 @@
 var a12388 =
 [
-    [ "npc_rookery_hatcherAI", "d8/df2/a12392.html", "d8/df2/a12392" ],
-    [ "npc_rookery_hatcher", "df/d3c/a12388.html#aa385f8a93384d4db9b92eecd1b152ce0", null ],
-    [ "GetAI", "df/d3c/a12388.html#a76e27f10dd58ec15a8e8f9d579f1c176", null ]
+    [ "boss_hedrumAI", "d8/df2/a12392.html", "d8/df2/a12392" ],
+    [ "boss_hedrum", "df/d3c/a12388.html#a655d348dec9ce9b585ea12f3629b0aa7", null ],
+    [ "GetAI", "df/d3c/a12388.html#a7033d315852aa4905784e957679ee261", null ]
 ];

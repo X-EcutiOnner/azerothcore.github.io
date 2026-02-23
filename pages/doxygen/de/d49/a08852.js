@@ -1,8 +1,11 @@
 var a08852 =
 [
-    [ "RedirectSpellEvent", "de/d49/a08852.html#a77d243d64c2fc651d71c42e10a315161", null ],
-    [ "Execute", "de/d49/a08852.html#a34ae2bc23904558bd5f5b99e8f1c5fdc", null ],
-    [ "_auraEffect", "de/d49/a08852.html#a010f14a7d389b4e9ae9896061fa18a65", null ],
-    [ "_auraOwnerGUID", "de/d49/a08852.html#a1b3fb598748362379fef15b3172d8e2b", null ],
-    [ "_self", "de/d49/a08852.html#aecfa190843c1493b47652ccdac7ae9c3", null ]
+    [ "FriendInfo", "de/d49/a08852.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
+    [ "FriendInfo", "de/d49/a08852.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
+    [ "Area", "de/d49/a08852.html#adf16884b55545ed9302dbb54d653867b", null ],
+    [ "Class", "de/d49/a08852.html#a8b797fcfda05d52d4297f32e458be519", null ],
+    [ "Flags", "de/d49/a08852.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
+    [ "Level", "de/d49/a08852.html#a70d9a74f4587f648db5bf49b61091213", null ],
+    [ "Note", "de/d49/a08852.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
+    [ "Status", "de/d49/a08852.html#a380f11d65b34e1e598b7861987cecfe6", null ]
 ];

@@ -1,6 +1,8 @@
 var a11628 =
 [
-    [ "EffectProcHandler", "d5/d8f/a11628.html#a613d5e85c3a7449e4f31719966dcdcc1", null ],
-    [ "Call", "d5/d8f/a11628.html#ae03d27451f687319629b3c54c5a7eed5", null ],
-    [ "_EffectHandlerScript", "d5/d8f/a11628.html#a8cb9ec4cfee59bc44063ac5cbf25844f", null ]
+    [ "target_mapId", "d5/d8f/a11628.html#a6dbbb558810388e0d051d84a0279a444", null ],
+    [ "target_Orientation", "d5/d8f/a11628.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
+    [ "target_X", "d5/d8f/a11628.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
+    [ "target_Y", "d5/d8f/a11628.html#a6f432d8770adebf513346713b7890b5c", null ],
+    [ "target_Z", "d5/d8f/a11628.html#a3af706b81f8fbef12277c518964f717a", null ]
 ];

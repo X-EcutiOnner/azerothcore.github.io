@@ -1,6 +1,7 @@
 var a26588 =
 [
-    [ "CheckRequirement", "df/d8c/a26588.html#acaae3858de4d56028e3cb4581a57450c", null ],
-    [ "PrepareSpellScript", "df/d8c/a26588.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
-    [ "Register", "df/d8c/a26588.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
+    [ "HandleDummy", "df/d8c/a26588.html#a82ff05f6150750ecb6ef3b5f8c40f703", null ],
+    [ "PrepareSpellScript", "df/d8c/a26588.html#a6856f05f2cc25267f1d3023d3cb48dc2", null ],
+    [ "Register", "df/d8c/a26588.html#adadd0254d68281ac1063bcc57574ed77", null ],
+    [ "Validate", "df/d8c/a26588.html#a61923f636ad8b3d48eb2dbc6a1803527", null ]
 ];

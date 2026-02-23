@@ -1,6 +1,7 @@
 var a28320 =
 [
-    [ "AreaGroupId", "dd/de2/a28320.html#a2868a59574e635d5f5859cfa01811151", null ],
-    [ "AreaId", "dd/de2/a28320.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
-    [ "nextGroup", "dd/de2/a28320.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
+    [ "npc_engineering_tele_trinket", "dd/de2/a28320.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
+    [ "CanLearn", "dd/de2/a28320.html#a8a35f1c09a9df609561e76f4ed578647", null ],
+    [ "OnGossipHello", "dd/de2/a28320.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
+    [ "OnGossipSelect", "dd/de2/a28320.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
 ];

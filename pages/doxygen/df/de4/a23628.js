@@ -1,7 +1,9 @@
 var a23628 =
 [
-    [ "HandleScript", "df/de4/a23628.html#a42052a416290a54d5479a402de578a73", null ],
-    [ "PrepareSpellScript", "df/de4/a23628.html#a5f6aa972879b65c0207e47435d436a33", null ],
-    [ "Register", "df/de4/a23628.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
-    [ "Validate", "df/de4/a23628.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
+    [ "boss_dalliah_the_doomsayer", "df/de4/a23628.html#ad6edf9623942297b28bc7420ec0cc733", null ],
+    [ "InitializeAI", "df/de4/a23628.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
+    [ "JustDied", "df/de4/a23628.html#a431edc9c25fb125d7d267073eb1c1423", null ],
+    [ "JustEngagedWith", "df/de4/a23628.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
+    [ "KilledUnit", "df/de4/a23628.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
+    [ "Reset", "df/de4/a23628.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
 ];

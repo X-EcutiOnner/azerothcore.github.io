@@ -1,9 +1,6 @@
 var a17728 =
 [
-    [ "FilterTargetsInitial", "df/d6e/a17728.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
-    [ "FilterTargetsSubsequent", "df/d6e/a17728.html#a11732039155235c287757980129d5a8e", null ],
-    [ "Load", "df/d6e/a17728.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
-    [ "PrepareSpellScript", "df/d6e/a17728.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
-    [ "Register", "df/d6e/a17728.html#a56a4e65df08a95fddde75162358155c2", null ],
-    [ "_target", "df/d6e/a17728.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
+    [ "npc_kinetic_bombAI", "d8/d93/a17732.html", "d8/d93/a17732" ],
+    [ "npc_kinetic_bomb", "df/d6e/a17728.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
+    [ "GetAI", "df/d6e/a17728.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
 ];

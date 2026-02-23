@@ -1,7 +1,8 @@
 var a04499 =
 [
-    [ "gobject_commandscript", "d9/de1/a11993.html", "d9/de1/a11993" ],
-    [ "GameObjectEntry", "da/dec/a04499.html#af6e4fdc2f36213d5f2a9fa6f335517b8", null ],
-    [ "GameObjectSpawnId", "da/dec/a04499.html#ad5bd2a208bd6c6213df595ee7369126f", null ],
-    [ "AddSC_gobject_commandscript", "da/dec/a04499.html#a0cc4be9c12b1a892f031cb1ff47e23d9", null ]
+    [ "LIQUID_TILE_SIZE", "da/dec/a04499.html#a1596e8a465c0638086c77467a2dde3a6", null ],
+    [ "readChunk", "da/dec/a04499.html#a166f3eeee53079ac9df4f15ccd577974", null ],
+    [ "GAMEOBJECT_MODELS", "da/dec/a04499.html#ada4191301386f881525b3f0b0760cb60", null ],
+    [ "RAW_VMAP_MAGIC", "da/dec/a04499.html#ab44884fb6c05cb4ae128d5882a2c4b7c", null ],
+    [ "VMAP_MAGIC", "da/dec/a04499.html#aa7e5a571fdcb9d62ceefdcf5744746cb", null ]
 ];

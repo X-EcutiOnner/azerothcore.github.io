@@ -1,7 +1,8 @@
 var a14204 =
 [
-    [ "HandleTriggerSpell", "d9/d14/a14204.html#a66b366f4989d99a58b331e56024e4520", null ],
-    [ "PrepareAuraScript", "d9/d14/a14204.html#a4b00497e095b5c43571b543252b31e58", null ],
-    [ "Register", "d9/d14/a14204.html#abacee7689888bf8c5d21b534a6d71b40", null ],
-    [ "Validate", "d9/d14/a14204.html#a6bef0ac760a319deed6f71fee213e885", null ]
+    [ "npc_the_scourge_cauldronAI", "d9/d14/a14204.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
+    [ "DoDie", "d9/d14/a14204.html#a9f720a27db2943a66b11ad6355690bf5", null ],
+    [ "JustEngagedWith", "d9/d14/a14204.html#a89954dec2f7d57d933c18822333243ac", null ],
+    [ "MoveInLineOfSight", "d9/d14/a14204.html#a256195dbe75859d72afcd0defb9ff76e", null ],
+    [ "Reset", "d9/d14/a14204.html#ab18bb2eb344f45827685786c665b1750", null ]
 ];

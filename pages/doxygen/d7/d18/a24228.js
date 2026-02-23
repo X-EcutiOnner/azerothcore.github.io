@@ -1,6 +1,7 @@
 var a24228 =
 [
-    [ "npc_fel_guard_houndAI", "d2/ddd/a24232.html", "d2/ddd/a24232" ],
-    [ "npc_fel_guard_hound", "d7/d18/a24228.html#a324179695f04a31b233b0ce94a46634c", null ],
-    [ "GetAI", "d7/d18/a24228.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
+    [ "HandlePeriodic", "d7/d18/a24228.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
+    [ "PrepareAuraScript", "d7/d18/a24228.html#a58dc6668172d046cef3046649928c124", null ],
+    [ "Register", "d7/d18/a24228.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
+    [ "Validate", "d7/d18/a24228.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
 ];

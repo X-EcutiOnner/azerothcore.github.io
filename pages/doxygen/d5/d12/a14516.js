@@ -1,17 +1,10 @@
 var a14516 =
 [
-    [ "npc_coren_direbrew", "d5/d12/a14516.html#a51ab68feb3dde3fb23c708afcdcdbd34", null ],
-    [ "CanBeSeen", "d5/d12/a14516.html#ad4db2a85c92f69e54036f4133396f201", null ],
-    [ "DamageTaken", "d5/d12/a14516.html#a782a08ed525eab8a9e9044dc1d5814b3", null ],
-    [ "DoAction", "d5/d12/a14516.html#a2d417a9310b5b75df09879678d967794", null ],
-    [ "JustDied", "d5/d12/a14516.html#a39913e601440fcd6ffbc77ad7c204ac8", null ],
-    [ "JustSummoned", "d5/d12/a14516.html#a2cb3d9de6ccdffa73f709b82cfae790a", null ],
-    [ "MoveInLineOfSight", "d5/d12/a14516.html#a9c48c7e4a97998c2091992f51b734679", null ],
-    [ "Reset", "d5/d12/a14516.html#a49eb75eb89742ee70ca957d4e2f0b5d0", null ],
-    [ "sGossipSelect", "d5/d12/a14516.html#ad8b665606985984ad633f66ad9b73bd2", null ],
-    [ "SummonedCreatureDies", "d5/d12/a14516.html#aafdc2d271d1e267f5b3deba7d00e07fc", null ],
-    [ "SummonSister", "d5/d12/a14516.html#a358fe5922a85ea3eee6abe9451869b66", null ],
-    [ "UpdateAI", "d5/d12/a14516.html#af6615292fa853883979dc37c6e247289", null ],
-    [ "_events", "d5/d12/a14516.html#a81ee26c215b7581a13faf56ee041b9fe", null ],
-    [ "_summons", "d5/d12/a14516.html#a261d4c4dea56748e66752cb11588086a", null ]
+    [ "npc_vilebranch_speaker", "d5/d12/a14516.html#acd8dfc95c5969fe67e1386d5dbd5884b", null ],
+    [ "JustDied", "d5/d12/a14516.html#aa7708f176879db3acd50399b74e4a90c", null ],
+    [ "JustEngagedWith", "d5/d12/a14516.html#a236afb8512c2d941479f8a7c18f688a6", null ],
+    [ "Reset", "d5/d12/a14516.html#a248195a137cb91f10a882ec12974c7c5", null ],
+    [ "UpdateAI", "d5/d12/a14516.html#a75f263fa9241319b58bf77cbf1b75088", null ],
+    [ "_scheduler", "d5/d12/a14516.html#abd52bbd2ce88b011176d93ae92b851d0", null ],
+    [ "instance", "d5/d12/a14516.html#a88fb28d2c39f0da967ab6706872e68b2", null ]
 ];

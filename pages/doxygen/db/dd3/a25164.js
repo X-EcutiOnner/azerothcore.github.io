@@ -1,8 +1,8 @@
 var a25164 =
 [
-    [ "Absorb", "db/dd3/a25164.html#aecfcbafe098adddba0a73965c447558c", null ],
-    [ "Load", "db/dd3/a25164.html#a1883cb4c86478359dd1ff8df25e2ec65", null ],
-    [ "PrepareAuraScript", "db/dd3/a25164.html#a3a65787dd5b7c1c796b98ce79f180d4d", null ],
-    [ "Register", "db/dd3/a25164.html#ab6bea7d62539841fa21fa8f3c8122707", null ],
-    [ "_limit", "db/dd3/a25164.html#a5985a97749e318e3ccba4c96724d8704", null ]
+    [ "AchievementCredit", "db/dd3/a25164.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "db/dd3/a25164.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "db/dd3/a25164.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "db/dd3/a25164.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "db/dd3/a25164.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

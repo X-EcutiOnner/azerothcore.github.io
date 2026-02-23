@@ -1,7 +1,9 @@
 var a00017 =
 [
-    [ "Crash", "d4/d51/a00017.html#a510bae7d9948cf497418ec913452009f", null ],
-    [ "GetDebugInfo", "d4/d51/a00017.html#a29601d3ea684d75bac9c331eb4866951", null ],
-    [ "MakeAbortMessage", "d4/d51/a00017.html#a52b8a43ee2424672ac8de45dcc283eda", null ],
-    [ "MakeMessage", "d4/d51/a00017.html#a31219fe016a9b170fc6ae111157ba552", null ]
+    [ "FactionState", "d9/d24/a10412.html", "d9/d24/a10412" ],
+    [ "ReputationMgr", "d1/d11/a10416.html", "d1/d11/a10416" ],
+    [ "FactionStateList", "d4/d51/a00017.html#ad6532434415723ae38cfd01814db70c4", null ],
+    [ "ForcedReactions", "d4/d51/a00017.html#a7f488a06b2477791f620e975ea444f4e", null ],
+    [ "RepListID", "d4/d51/a00017.html#a5d6355bb0de767f549aeb8f1e6481624", null ],
+    [ "ReputationRankStrIndex", "d4/d51/a00017.html#a6fbbe7a01d0d6b56a15a773ad0199b5b", null ]
 ];

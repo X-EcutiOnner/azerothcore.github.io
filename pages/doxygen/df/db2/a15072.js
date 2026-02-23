@@ -1,14 +1,18 @@
 var a15072 =
 [
-    [ "npc_cos_stratholme_citizienAI", "df/db2/a15072.html#a591aaf16ef5befada12378acfbef9465", null ],
-    [ "DoAction", "df/db2/a15072.html#af9d6fa1dfa83a75194797e99ee80ae0e", null ],
-    [ "InfectMe", "df/db2/a15072.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b", null ],
-    [ "MoveInLineOfSight", "df/db2/a15072.html#ab7a8f6423e12ca0ea9bcb085594013a2", null ],
-    [ "Reset", "df/db2/a15072.html#a0dbb5f295aa9061fa3457c9590ea9b10", null ],
-    [ "SpellHit", "df/db2/a15072.html#aa8b9a05d3c7d89aa054af919672a69ec", null ],
-    [ "UpdateAI", "df/db2/a15072.html#a81a1382493091a99cae1c2bb580a7f32", null ],
-    [ "allowTimer", "df/db2/a15072.html#ae92384763b3cfe4a4bc4180d1c404456", null ],
-    [ "changeTimer", "df/db2/a15072.html#aa757ab2eef813dceaaad65d84681099b", null ],
-    [ "locked", "df/db2/a15072.html#aa644050a5fc0b3cd04573e8b3def87ee", null ],
-    [ "pInstance", "df/db2/a15072.html#aadae06c487a7755114f856a835d48c7e", null ]
+    [ "boss_archimonde", "df/db2/a15072.html#a25e52499f80d4c3edb4dd5cf02b95d18", null ],
+    [ "DoAction", "df/db2/a15072.html#aba420f926ccdfc6feeb16a0e6d67267f", null ],
+    [ "DoCastDoomFire", "df/db2/a15072.html#a409cad381c6562f44fcf8f66a5965ec4", null ],
+    [ "EnterEvadeMode", "df/db2/a15072.html#aac09090d17c336e9935cfce7ff1c8d60", null ],
+    [ "JustEngagedWith", "df/db2/a15072.html#a31c526a5e72c4244df101918388c777c", null ],
+    [ "JustSummoned", "df/db2/a15072.html#a6db990f64d884f1290c77b8ec73b8fb0", null ],
+    [ "KilledUnit", "df/db2/a15072.html#a341ab97e59cfe989572fdcceff434e4e", null ],
+    [ "Reset", "df/db2/a15072.html#a905918f9fc654c4c1fa1aa99980d39e6", null ],
+    [ "SetGUID", "df/db2/a15072.html#ac4246d0fd80ed0edfd39b2008a97eeca", null ],
+    [ "UnleashSoulCharge", "df/db2/a15072.html#a93f93fe116c75a24dc15bb521b038a27", null ],
+    [ "_availableAuras", "df/db2/a15072.html#a552869a0fd5141094a021e3aaaada051", null ],
+    [ "_availableSpells", "df/db2/a15072.html#a388a8bafb4407e371a58d3a7d090c754", null ],
+    [ "_enraged", "df/db2/a15072.html#a1e295ff6ae857c7a022acf967afd0de0", null ],
+    [ "_isChanneling", "df/db2/a15072.html#ad967688caad8a6c7530bfd4709aecb06", null ],
+    [ "_wispCount", "df/db2/a15072.html#aa2ec2fcd92ed81f76fb238af9dbad53e", null ]
 ];

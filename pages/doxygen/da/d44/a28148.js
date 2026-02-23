@@ -1,9 +1,7 @@
 var a28148 =
 [
-    [ "CinematicSequence", "da/d44/a28148.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
-    [ "ClassID", "da/d44/a28148.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
-    [ "expansion", "da/d44/a28148.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
-    [ "name", "da/d44/a28148.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
-    [ "powerType", "da/d44/a28148.html#a74aec35dc161a7e830453b9365a6f107", null ],
-    [ "spellfamily", "da/d44/a28148.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
+    [ "go_darkmoon_faire_musicAI", "da/d44/a28148.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
+    [ "UpdateAI", "da/d44/a28148.html#af3d802bd852fc0483f72781edb13b5d5", null ],
+    [ "_events", "da/d44/a28148.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
+    [ "rnd", "da/d44/a28148.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
 ];

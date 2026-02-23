@@ -1,8 +1,9 @@
 var a09368 =
 [
-    [ "PlayerListSearcher", "db/d4a/a09368.html#a82520531c26a6c9645956739538cd286", null ],
-    [ "Visit", "db/d4a/a09368.html#a5cec285c685fce6ac215ac0cde740168", null ],
-    [ "Visit", "db/d4a/a09368.html#a87980d05e12069a42baea27ee0e937d3", null ],
-    [ "i_check", "db/d4a/a09368.html#ad49658237a1e6bf54852d4fc127ea660", null ],
-    [ "i_phaseMask", "db/d4a/a09368.html#ae61e586baa621b0dbd15d453d1320091", null ]
+    [ "LiquidData", "db/d4a/a09368.html#ac2435178323f480d2dae449b49b39146", null ],
+    [ "DepthLevel", "db/d4a/a09368.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
+    [ "Entry", "db/d4a/a09368.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
+    [ "Flags", "db/d4a/a09368.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
+    [ "Level", "db/d4a/a09368.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
+    [ "Status", "db/d4a/a09368.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
 ];

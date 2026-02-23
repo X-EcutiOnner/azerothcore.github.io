@@ -1,5 +1,6 @@
 var a21852 =
 [
-    [ "npc_steam_powered_auctioneerAI", "d9/df7/a21852.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
-    [ "CanBeSeen", "d9/df7/a21852.html#a3352588abda326f7c72d0764a3f53370", null ]
+    [ "CheckRequirement", "d9/df7/a21852.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
+    [ "PrepareSpellScript", "d9/df7/a21852.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
+    [ "Register", "d9/df7/a21852.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
 ];

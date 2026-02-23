@@ -1,9 +1,7 @@
 var a14808 =
 [
-    [ "HandlePeriodic", "d4/d0a/a14808.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
-    [ "Load", "d4/d0a/a14808.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
-    [ "PrepareAuraScript", "d4/d0a/a14808.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
-    [ "Register", "d4/d0a/a14808.html#ac331de3219ae7da9e35e962011540bdf", null ],
-    [ "Validate", "d4/d0a/a14808.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
-    [ "_buffGiven", "d4/d0a/a14808.html#aec2476ad5e046213b90af04ad91f0230", null ]
+    [ "HandleEffectApply", "d4/d0a/a14808.html#a22f3143b10155635194abe22994a397c", null ],
+    [ "HandleEffectRemove", "d4/d0a/a14808.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
+    [ "PrepareAuraScript", "d4/d0a/a14808.html#abb4f53a42e701323b2fc66598ec3503c", null ],
+    [ "Register", "d4/d0a/a14808.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
 ];

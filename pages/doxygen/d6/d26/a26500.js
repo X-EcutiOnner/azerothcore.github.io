@@ -1,7 +1,6 @@
 var a26500 =
 [
-    [ "HandleApplyEffect", "d6/d26/a26500.html#af95120b26a165196e0310956c245f36f", null ],
-    [ "HandleRemoveEffect", "d6/d26/a26500.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
-    [ "PrepareAuraScript", "d6/d26/a26500.html#ae19e002407db1466f0655db3d14fe0d7", null ],
-    [ "Register", "d6/d26/a26500.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
+    [ "HandleProc", "d6/d26/a26500.html#a81736c5dd5fd02181673a9f12d4d9ab2", null ],
+    [ "PrepareAuraScript", "d6/d26/a26500.html#a1710a08cfe8b6f9b3890840bac97c711", null ],
+    [ "Register", "d6/d26/a26500.html#a2e65cb7fa379f1330610aaa56e002ba3", null ]
 ];

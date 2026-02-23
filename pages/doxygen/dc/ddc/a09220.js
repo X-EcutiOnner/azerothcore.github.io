@@ -1,6 +1,12 @@
 var a09220 =
 [
-    [ "AreaMapType", "dc/ddc/a09220.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6", null ],
-    [ "areaMap", "dc/ddc/a09220.html#a21673b134ee6b5fb20bab06c3e1b2238", null ],
-    [ "gridArea", "dc/ddc/a09220.html#a37e8598e7a22dcb17637243fbeeecb0c", null ]
+    [ "IsTeamAward1", "dc/ddc/a09220.html#a25f928a8f8c3a19b1aa9a5c41b0ba612", null ],
+    [ "IsTeamAward2", "dc/ddc/a09220.html#a053bd7825d0464ac322b449f3d243722", null ],
+    [ "RepFaction1", "dc/ddc/a09220.html#a4e75bb4149f8bb0b83a5aacba47800dd", null ],
+    [ "RepFaction2", "dc/ddc/a09220.html#a5934590811c666d06b68216428574d8a", null ],
+    [ "ReputationMaxCap1", "dc/ddc/a09220.html#a292b78f629723c3993a796eb256dd9b8", null ],
+    [ "ReputationMaxCap2", "dc/ddc/a09220.html#ac90d17e82d6c8a763d3ea868250b44a7", null ],
+    [ "RepValue1", "dc/ddc/a09220.html#a4c5f965e028c45d6ad4d5875f76b2458", null ],
+    [ "RepValue2", "dc/ddc/a09220.html#a74f46afc59593d7ae71ab65aa9e1f1c2", null ],
+    [ "TeamDependent", "dc/ddc/a09220.html#a66e60a90f166e5fc12ea4dbe615c998f", null ]
 ];

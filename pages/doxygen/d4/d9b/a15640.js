@@ -1,6 +1,8 @@
 var a15640 =
 [
-    [ "npc_webbed_creatureAI", "da/db5/a15644.html", "da/db5/a15644" ],
-    [ "npc_webbed_creature", "d4/d9b/a15640.html#ae52152939766c411e45e827e9ab52d4f", null ],
-    [ "GetAI", "d4/d9b/a15640.html#a30fd53b81260b7fd6ca06881930b79e9", null ]
+    [ "boss_veklor", "d4/d9b/a15640.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "d4/d9b/a15640.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "d4/d9b/a15640.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "d4/d9b/a15640.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "d4/d9b/a15640.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

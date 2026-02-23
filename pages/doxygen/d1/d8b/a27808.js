@@ -1,9 +1,10 @@
 var a27808 =
 [
-    [ "npc_chicken_cluckAI", "d1/d8b/a27808.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "d1/d8b/a27808.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "d1/d8b/a27808.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "d1/d8b/a27808.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "d1/d8b/a27808.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "d1/d8b/a27808.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "CheckProc", "d1/d8b/a27808.html#a68a559c46266fc7337f7d56bb66af542", null ],
+    [ "HandleProc", "d1/d8b/a27808.html#a69cdd92cea54ec5bf11f6011578b2338", null ],
+    [ "Load", "d1/d8b/a27808.html#ad571b0d2f47cff037030d7a8184f60fd", null ],
+    [ "PrepareAuraScript", "d1/d8b/a27808.html#aa20e2911e60f3ae7a9dcceee8f96b6ef", null ],
+    [ "Register", "d1/d8b/a27808.html#a8af18925b317c717fcd6b2fae14a16e4", null ],
+    [ "Validate", "d1/d8b/a27808.html#ac0cf25901d70e37bb887b3baa38790b5", null ],
+    [ "_procTarget", "d1/d8b/a27808.html#ad48f21d3a45e97857265e6047f253910", null ]
 ];

@@ -1,7 +1,5 @@
 var a16476 =
 [
-    [ "CountAllies", "d9/dc9/a16476.html#a207c1fd89fd726054a881e342391d2a0", null ],
-    [ "PrepareSpellScript", "d9/dc9/a16476.html#ae1e230ad204a280a261ebe0f21c7f8a5", null ],
-    [ "Register", "d9/dc9/a16476.html#a47574795b2a262625c65ab23a4179684", null ],
-    [ "Validate", "d9/dc9/a16476.html#a0178e7c4f5509a4bb2c6ed3811fc9685", null ]
+    [ "at_baltharus_plateau", "d9/dc9/a16476.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
+    [ "OnTrigger", "d9/dc9/a16476.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
 ];

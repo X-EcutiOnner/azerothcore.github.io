@@ -1,5 +1,7 @@
 var a22764 =
 [
-    [ "OutdoorPvP_zangarmarsh", "d3/d9e/a22764.html#ae287d5df21bf75efab6c651f4f3d875e", null ],
-    [ "GetOutdoorPvP", "d3/d9e/a22764.html#a145ddfe383663ed3fb46960e39691f8f", null ]
+    [ "PrepareAuraScript", "d3/d9e/a22764.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
+    [ "ReflectDamage", "d3/d9e/a22764.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
+    [ "Register", "d3/d9e/a22764.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
+    [ "Validate", "d3/d9e/a22764.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
 ];

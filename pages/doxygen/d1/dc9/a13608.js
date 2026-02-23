@@ -1,7 +1,6 @@
 var a13608 =
 [
-    [ "boss_kalec", "d1/dc9/a13608.html#a9c36e31c750e93840f30f001cdaca0da", null ],
-    [ "JustDied", "d1/dc9/a13608.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
-    [ "JustEngagedWith", "d1/dc9/a13608.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
-    [ "UpdateAI", "d1/dc9/a13608.html#ab55da7584fa7f545761a5bd547245747", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "d8/d49/a13612.html", "d8/d49/a13612" ],
+    [ "instance_shadowfang_keep", "d1/dc9/a13608.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
+    [ "GetInstanceScript", "d1/dc9/a13608.html#a5c076ed86470247de5b4e3733b70fa25", null ]
 ];

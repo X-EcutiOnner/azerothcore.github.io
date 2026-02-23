@@ -1,6 +1,7 @@
 var a24720 =
 [
-    [ "HandleEffectApply", "d9/d85/a24720.html#a4bc121ecc9357709ec2f1ea395d0b6b1", null ],
-    [ "PrepareAuraScript", "d9/d85/a24720.html#ac7f16aed55aedba6da0672c3102a5fae", null ],
-    [ "Register", "d9/d85/a24720.html#a83e15d7db1b9aa4ce4fbc8a359795091", null ]
+    [ "HandleProc", "d9/d85/a24720.html#a2d38c32b4eb2ba91c657801b21a3b90d", null ],
+    [ "PrepareAuraScript", "d9/d85/a24720.html#ac5988a79ab42ec1bbcc9b69bb649fc29", null ],
+    [ "Register", "d9/d85/a24720.html#affd88326ea293f82055700ec7183d194", null ],
+    [ "Validate", "d9/d85/a24720.html#acc8797afece569e68c6d754ca09e206d", null ]
 ];

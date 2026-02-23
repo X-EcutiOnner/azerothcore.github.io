@@ -1,8 +1,8 @@
 var a28556 =
 [
-    [ "areaTriggerText", "d9/d38/a28556.html#a32bb8c4a4defce661d108627e25b645a", null ],
-    [ "Difficulty", "d9/d38/a28556.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
-    [ "MapId", "d9/d38/a28556.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
-    [ "maxPlayers", "d9/d38/a28556.html#a7ab33229ffee11a27861439053c79831", null ],
-    [ "resetTime", "d9/d38/a28556.html#a891a741efb049b51996e1a6110efc52d", null ]
+    [ "npc_traveler_mammoth_vendor", "d9/d38/a28556.html#af3b5fc14371eb03e8259799b296967c1", null ],
+    [ "Reset", "d9/d38/a28556.html#a2b8cf527d2a42b4884f0a4e03a15e8ef", null ],
+    [ "UpdateAI", "d9/d38/a28556.html#a98129bb78476ddc0b1a09593b8894fff", null ],
+    [ "_hasEjected", "d9/d38/a28556.html#af801e9849a795358c812fddf69ec8434", null ],
+    [ "_playerGuid", "d9/d38/a28556.html#a9e657a91bedc5643b2de6a135e97d89c", null ]
 ];

@@ -1,7 +1,6 @@
 var a21184 =
 [
-    [ "HandleProc", "d8/d6d/a21184.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "d8/d6d/a21184.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "d8/d6d/a21184.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "d8/d6d/a21184.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "boss_emalonAI", "d0/ddd/a21188.html", "d0/ddd/a21188" ],
+    [ "boss_emalon", "d8/d6d/a21184.html#a2dd481292e02337bebd450f5c9821886", null ],
+    [ "GetAI", "d8/d6d/a21184.html#a345b0663ba89de5e37b87a436c48e446", null ]
 ];

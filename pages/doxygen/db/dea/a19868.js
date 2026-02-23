@@ -1,6 +1,8 @@
 var a19868 =
 [
-    [ "npc_brann_bronzebeard_algalonAI", "dc/da7/a19872.html", "dc/da7/a19872" ],
-    [ "npc_brann_bronzebeard_algalon", "db/dea/a19868.html#a2760d42de8f78250ca5862bfcb23ed2e", null ],
-    [ "GetAI", "db/dea/a19868.html#ad8bc8bde865adcce1e9f6fd6234f1a0a", null ]
+    [ "HandleOnEffectApply", "db/dea/a19868.html#ac852d761940494f78b50ba3b060057a2", null ],
+    [ "HandleOnEffectRemove", "db/dea/a19868.html#a6764750586be8b57d52a2dba87d89e76", null ],
+    [ "PrepareAuraScript", "db/dea/a19868.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
+    [ "Register", "db/dea/a19868.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
+    [ "Validate", "db/dea/a19868.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
 ];

@@ -1,6 +1,8 @@
 var a18944 =
 [
-    [ "npc_arthas_teleport_visualAI", "d7/de0/a18948.html", "d7/de0/a18948" ],
-    [ "npc_arthas_teleport_visual", "dd/dfe/a18944.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
-    [ "GetAI", "dd/dfe/a18944.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
+    [ "npc_suppresserAI", "dd/dfe/a18944.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
+    [ "AttackStart", "dd/dfe/a18944.html#ae36105de1df1dd9841332d9a8e7799be", null ],
+    [ "IsSummonedBy", "dd/dfe/a18944.html#a35ec340b2d02a14707fc353428b1298d", null ],
+    [ "UpdateAI", "dd/dfe/a18944.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
+    [ "_instance", "dd/dfe/a18944.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
 ];

@@ -1,7 +1,6 @@
 var a25436 =
 [
-    [ "EjectPassenger", "d4/d24/a25436.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
-    [ "PrepareSpellScript", "d4/d24/a25436.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
-    [ "Register", "d4/d24/a25436.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
-    [ "Validate", "d4/d24/a25436.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
+    [ "OnProc", "d4/d24/a25436.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
+    [ "PrepareAuraScript", "d4/d24/a25436.html#a6a7b011f151ff81672221b84eb4456b8", null ],
+    [ "Register", "d4/d24/a25436.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
 ];

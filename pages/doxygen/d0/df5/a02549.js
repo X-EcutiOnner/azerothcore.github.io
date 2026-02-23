@@ -1,10 +1,27 @@
 var a02549 =
 [
-    [ "spell_summon_noblegarden_bunny_controller", "d6/d09/a14804.html", "d6/d09/a14804" ],
-    [ "spell_item_noblegarden_chocolate", "d4/d0a/a14808.html", "d4/d0a/a14808" ],
-    [ "eNoblegarden", "d0/df5/a02549.html#a2009b91b1ae924c27559f49fd9fc0e3d", [
-      [ "SPELL_NOBLEGARDEN_BUNNY", "d0/df5/a02549.html#a2009b91b1ae924c27559f49fd9fc0e3da713d80d4de08c5ec515a4d2164f00510", null ],
-      [ "SPELL_WELL_FED", "d0/df5/a02549.html#a2009b91b1ae924c27559f49fd9fc0e3da5e004e090ce4bb16a1328cc8423247ae", null ]
+    [ "npc_shenthul", "d8/d67/a15956.html", "d8/d67/a15956" ],
+    [ "npc_shenthul::npc_shenthulAI", "db/d6b/a15960.html", "db/d6b/a15960" ],
+    [ "npc_thrall_warchief", "dd/dba/a15964.html", "dd/dba/a15964" ],
+    [ "npc_thrall_warchief::npc_thrall_warchiefAI", "df/d6e/a15968.html", "df/d6e/a15968" ],
+    [ "Shenthul", "d0/df5/a02549.html#a032512bb2693fda342f4d77dba794fbe", [
+      [ "QUEST_SHATTERED_SALUTE", "d0/df5/a02549.html#a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0", null ]
     ] ],
-    [ "AddSC_event_noblegarden_scripts", "d0/df5/a02549.html#a60b11fd113b9059778bb843dd1806c79", null ]
+    [ "ThrallWarchief", "d0/df5/a02549.html#a1cdad3bda3b93500c342a64dce6d15d9", [
+      [ "SPELL_CHAIN_LIGHTNING", "d0/df5/a02549.html#a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d", null ],
+      [ "SPELL_SHOCK", "d0/df5/a02549.html#a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab", null ],
+      [ "QUEST_FOR_THE_HORDE", "d0/df5/a02549.html#a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af", null ],
+      [ "SPELL_WARCHIEF_BLESSING", "d0/df5/a02549.html#a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225", null ],
+      [ "NPC_HERALD_OF_THRALL", "d0/df5/a02549.html#a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc", null ],
+      [ "ACTION_START_TALKING", "d0/df5/a02549.html#a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd", null ],
+      [ "SAY_THRALL_ON_QUEST_REWARD_0", "d0/df5/a02549.html#a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b", null ],
+      [ "SAY_THRALL_ON_QUEST_REWARD_1", "d0/df5/a02549.html#a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302", null ],
+      [ "GO_UNADORNED_SPIKE", "d0/df5/a02549.html#a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153", null ],
+      [ "QUEST_WHAT_THE_WIND_CARRIES", "d0/df5/a02549.html#a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287", null ],
+      [ "GOSSIP_MENU_THRALL", "d0/df5/a02549.html#a1cdad3bda3b93500c342a64dce6d15d9a502d5aed1ed2917d36573a355656ce86", null ],
+      [ "GOSSIP_RESPONSE_THRALL_FIRST", "d0/df5/a02549.html#a1cdad3bda3b93500c342a64dce6d15d9a710a8ed7a2d8ddb38e5e0f7db188132d", null ],
+      [ "QUEST_WARCHIEFS_BLESSING", "d0/df5/a02549.html#a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047", null ]
+    ] ],
+    [ "AddSC_orgrimmar", "d0/df5/a02549.html#aec4388ea6d2e4bbc1d279b3a4687c4c6", null ],
+    [ "heraldOfThrallPos", "d0/df5/a02549.html#a016aeee1d0eac9c78c522520663670f0", null ]
 ];

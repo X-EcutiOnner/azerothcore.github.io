@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/apps/worldserver/Main.cpp File Reference</title>
+<title>AzerothCore: Member List</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('db/de3/a29497.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('d4/d02/a29500.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,114 +104,51 @@ $(document).ready(function(){initNavTree('db/de3/a29497.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">Main.cpp File Reference<div class="ingroups"><a class="el" href="../../da/d9d/a04751.html">Acore Daemon</a></div></div></div>
+  <div class="headertitle"><div class="title">ProcChanceTestHelper Member List</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ACSoap.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AppenderDB.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AsyncAcceptor.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Banner.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BigNumber.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CliRunnable.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Config.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DatabaseLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GitRevision.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">IoContext.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Metric.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ModuleMgr.h</a>&quot;</code><br />
-<code>#include &quot;ModulesScriptLoader.h&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MySQLThreading.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">OpenSSLCrypto.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">OutdoorPvPMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ProcessPriority.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">RASession.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">RealmList.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Resolver.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SecretMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SteadyTimer.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldSessionMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldSocket.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldSocketMgr.h</a>&quot;</code><br />
-<code>#include &lt;boost/asio/signal_set.hpp&gt;</code><br />
-<code>#include &lt;boost/program_options.hpp&gt;</code><br />
-<code>#include &lt;csignal&gt;</code><br />
-<code>#include &lt;filesystem&gt;</code><br />
-<code>#include &lt;iostream&gt;</code><br />
-<code>#include &lt;openssl/crypto.h&gt;</code><br />
-<code>#include &lt;openssl/opensslv.h&gt;</code><br />
-<code>#include &quot;<a class="el" href="../../">ServiceWin32.h</a>&quot;</code><br />
-<code>#include &lt;boost/dll/shared_library.hpp&gt;</code><br />
-<code>#include &lt;timeapi.h&gt;</code><br />
-</div>
-<p><a href="">Go to the source code of this file.</a></p>
-<table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d28/a05644.html">FreezeDetector</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:ga1d466b8deaea4c5b80b4abcdc38991fd"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9d/a04751.html#ga1d466b8deaea4c5b80b4abcdc38991fd">_ACORE_CORE_CONFIG</a>&#160;&#160;&#160;&quot;worldserver.conf&quot;</td></tr>
-<tr class="separator:ga1d466b8deaea4c5b80b4abcdc38991fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:gad82d96de9a84a7d0325afcd3121344a4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9d/a04751.html#gad82d96de9a84a7d0325afcd3121344a4">SignalHandler</a> (boost::system::error_code const &amp;error, int signalNumber)</td></tr>
-<tr class="separator:gad82d96de9a84a7d0325afcd3121344a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga285010ee0ae83f9198f08fa3145877d7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9d/a04751.html#ga285010ee0ae83f9198f08fa3145877d7">ClearOnlineAccounts</a> ()</td></tr>
-<tr class="memdesc:ga285010ee0ae83f9198f08fa3145877d7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Clear 'online' status for all accounts with characters in this realm.  <a href="../../da/d9d/a04751.html#ga285010ee0ae83f9198f08fa3145877d7">More...</a><br /></td></tr>
-<tr class="separator:ga285010ee0ae83f9198f08fa3145877d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga1551df43a48f1dbf64dbec1e47b07eea"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9d/a04751.html#ga1551df43a48f1dbf64dbec1e47b07eea">StartDB</a> ()</td></tr>
-<tr class="memdesc:ga1551df43a48f1dbf64dbec1e47b07eea"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initialize connection to the databases.  <a href="../../da/d9d/a04751.html#ga1551df43a48f1dbf64dbec1e47b07eea">More...</a><br /></td></tr>
-<tr class="separator:ga1551df43a48f1dbf64dbec1e47b07eea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga927af1587546ee7503a3b9a18f6439c0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9d/a04751.html#ga927af1587546ee7503a3b9a18f6439c0">StopDB</a> ()</td></tr>
-<tr class="separator:ga927af1587546ee7503a3b9a18f6439c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga74b21e249952fe0d6d779ee217c76dc5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9d/a04751.html#ga74b21e249952fe0d6d779ee217c76dc5">LoadRealmInfo</a> (<a class="el" href="../../db/dde/a04856.html">Acore::Asio::IoContext</a> &amp;ioContext)</td></tr>
-<tr class="separator:ga74b21e249952fe0d6d779ee217c76dc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga0781c2ca38d89a89b174f81fb895285b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d3d/a28348.html">AsyncAcceptor</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9d/a04751.html#ga0781c2ca38d89a89b174f81fb895285b">StartRaSocketAcceptor</a> (<a class="el" href="../../db/dde/a04856.html">Acore::Asio::IoContext</a> &amp;ioContext)</td></tr>
-<tr class="separator:ga0781c2ca38d89a89b174f81fb895285b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gaafe46b3c9a56a31faa60963b6a1f202a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9d/a04751.html#gaafe46b3c9a56a31faa60963b6a1f202a">ShutdownCLIThread</a> (std::thread *cliThread)</td></tr>
-<tr class="separator:gaafe46b3c9a56a31faa60963b6a1f202a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga62605923595bdfa644784c8a929fa1a7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9d/a04751.html#ga62605923595bdfa644784c8a929fa1a7">WorldUpdateLoop</a> ()</td></tr>
-<tr class="separator:ga62605923595bdfa644784c8a929fa1a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gab889056920cce8fbe96e920cea5fd9e6"><td class="memItemLeft" align="right" valign="top">variables_map&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9d/a04751.html#gab889056920cce8fbe96e920cea5fd9e6">GetConsoleArguments</a> (int argc, char **argv, fs::path &amp;configFile, std::string &amp;cfg_service)</td></tr>
-<tr class="separator:gab889056920cce8fbe96e920cea5fd9e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga3c04138a5bfe5d72780bb7e82a18e627"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9d/a04751.html#ga3c04138a5bfe5d72780bb7e82a18e627">main</a> (int argc, char **argv)</td></tr>
-<tr class="memdesc:ga3c04138a5bfe5d72780bb7e82a18e627"><td class="mdescLeft">&#160;</td><td class="mdescRight">Launch the Azeroth server.  <a href="../../da/d9d/a04751.html#ga3c04138a5bfe5d72780bb7e82a18e627">More...</a><br /></td></tr>
-<tr class="separator:ga3c04138a5bfe5d72780bb7e82a18e627"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:ga69c549a4f4a1e88fa4a2c38cde62f569"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9d/a04751.html#ga69c549a4f4a1e88fa4a2c38cde62f569">serviceName</a> [] = &quot;worldserver&quot;</td></tr>
-<tr class="separator:ga69c549a4f4a1e88fa4a2c38cde62f569"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga34b5207234887e0d62724cf770037f6f"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9d/a04751.html#ga34b5207234887e0d62724cf770037f6f">serviceLongName</a> [] = &quot;AzerothCore world service&quot;</td></tr>
-<tr class="separator:ga34b5207234887e0d62724cf770037f6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga2994dda4045f1e2d3d675565a16a4dd2"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9d/a04751.html#ga2994dda4045f1e2d3d675565a16a4dd2">serviceDescription</a> [] = &quot;AzerothCore <a class="el" href="../../d6/d5a/a11512.html">World</a> of Warcraft emulator world service&quot;</td></tr>
-<tr class="separator:ga2994dda4045f1e2d3d675565a16a4dd2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gabad888b856358b30aa3928d7e01916fb"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9d/a04751.html#gabad888b856358b30aa3928d7e01916fb">m_ServiceStatus</a> = -1</td></tr>
-<tr class="separator:gabad888b856358b30aa3928d7e01916fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
-</div><!-- contents -->
+
+<p>This is the complete list of members for <a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a>, including all inherited members.</p>
+<table class="directory">
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#afdbe9b23c7bbe076f45ec94d1289b297">ApplyDisableEffectsMask</a>(uint8 initialMask, uint32 disableEffectsMask)</td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#a42fe0520c1fb9cedfdc5c28687641751">ApplyLevel60Reduction</a>(float baseChance, uint32 actorLevel)</td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#a57d351c38a433d00432bbb97a40b6a27">ApplyProcCooldown</a>(AuraStub *aura, std::chrono::steady_clock::time_point now, uint32 cooldownMs)</td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#aa954818dda0fc9921217b052ddd1a169">AUTO_ATTACK_PROC_FLAG_MASK</a></td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#af0f724a2ed57a03dab9a640b61ced974">BASE_ATTACK</a></td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#a050a7405275f53b24207e5a94f0f2dcd">CalculateEffectivePPM</a>(float chancePerSwing, uint32 actualSwingSpeedMs)</td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">CalculatePPMChance</a>(uint32 weaponSpeed, float ppm, float ppmModifier=0.0f)</td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#ade540a47821c835766adbc6f26b571a7">CalculatePPMChanceWithModifiers</a>(uint32 weaponSpeed, float basePPM, PPMModifierConfig const &amp;modConfig)</td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#a0030bcefe26a228bb36f5b3913fa1e48">FORM_SPEED_BEAR</a></td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#a32a5ea319a6b7b7d64c997345fddf5a8">FORM_SPEED_CAT</a></td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#ab9fa7b4e963eef370817b26fc07a14e5">GetWeaponSlotForAttackType</a>(uint8 attackType)</td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#af0ea5c345c43d31902bc9d55c2ac7308">IsProcOnCooldown</a>(AuraStub const *aura, std::chrono::steady_clock::time_point now)</td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#af1b7930d947922e39bb11e4414338a96">ITEM_CLASS_ANY</a></td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#a18ec153c8dc0b47c0bf92ca3ac95b27c">ITEM_CLASS_ARMOR</a></td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#addc4abaac2862092dec9206cf746a84a">ITEM_CLASS_WEAPON</a></td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#a97323266b01f9dcf63a38b00684d12c9">OFF_ATTACK</a></td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#a7439889744f4ef6e5c8e38d0c29760a4">PPM_JUDGEMENT_OF_LIGHT</a></td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#af3edb0d11fc98b2a470c76d5614764f5">PPM_OMEN_OF_CLARITY</a></td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#a8dc56ead24e175f021aacf33410b8dbb">PPM_WINDFURY_WEAPON</a></td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#a37eb38df7f1ea2b2fa2f21d9f348e575">RANGED_ATTACK</a></td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#a2a1c402850c063484c273d6fb4962771">ShouldBlockDueToConditions</a>(ConditionsConfig const &amp;config)</td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#a6f7564c8a12d1531afe97c4f61fb23ac">ShouldBlockDueToDisabledEffects</a>(uint8 initialMask, uint32 disableEffectsMask)</td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#ad4b553c3a909671e7ca72a8e5fe46b2a">ShouldBlockDueToEquipment</a>(EquipmentConfig const &amp;config)</td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#ad11bf4c6cd4a5bb1bcd80699f1d4a16e">ShouldBlockExtraAttackChainProc</a>(ExtraAttackProcConfig const &amp;config)</td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#ab3d733d9e66b5e9554501be5e09349f7">ShouldBlockTriggeredSpell</a>(TriggeredSpellConfig const &amp;config, SpellProcEntry const &amp;procEntry, uint32 eventTypeMask)</td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#a439a1b27d17320fdd1769859d7a35eb1">SimulateCalcProcChance</a>(SpellProcEntry const &amp;procEntry, uint32 actorLevel=80, uint32 weaponSpeed=2500, float chanceModifier=0.0f, float ppmModifier=0.0f, bool hasDamageInfo=true, bool hasHealInfo=false)</td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#a23aff9444cb03891a4d5c4cabad28610">SimulateConsumeProcCharges</a>(AuraStub *aura, SpellProcEntry const &amp;procEntry)</td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#abe1c702ac0906af725a638f04dcdeb69">SpellHasManaCost</a>(SpellInfo const *spellInfo)</td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#a60e65cf6041a78aef313c020578c83ac">WEAPON_SPEED_FAST_DAGGER</a></td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#a5fe1998243d3c2d6ebf5969a8a8fe971">WEAPON_SPEED_NORMAL_SWORD</a></td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#a7e6ac7a1826cb4120992404ba8f1a277">WEAPON_SPEED_SLOW_2H</a></td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#acffda28a662863f651d0aae5587300cd">WEAPON_SPEED_STAFF</a></td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/d02/a29500.html#a0caf6370ed23834f2a948c98410eaf42">WEAPON_SPEED_VERY_SLOW</a></td><td class="entry"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+</table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c8498b4bff487486cc5ffdac4c412cf7.html">apps</a></li><li class="navelem"><a class="el" href="../../dir_4a0dc471e712914507a0672b672729a4.html">worldserver</a></li><li class="navelem"><a class="el" href="../../db/de3/a29497.html">Main.cpp</a></li>
-    <li class="footer">Generated on Mon May 5 2025 20:44:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:15:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

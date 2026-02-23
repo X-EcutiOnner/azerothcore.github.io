@@ -1,12 +1,9 @@
 var a21548 =
 [
-    [ "boss_moraggAI", "d2/d92/a21548.html#a3ae881c9adca20a2cb894af85297d53e", null ],
-    [ "EnterEvadeMode", "d2/d92/a21548.html#a4e70e42407f452c4685c732949fd2b52", null ],
-    [ "JustDied", "d2/d92/a21548.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
-    [ "JustEngagedWith", "d2/d92/a21548.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
-    [ "MoveInLineOfSight", "d2/d92/a21548.html#a52a99d72dfa017baacb76717e6db931b", null ],
-    [ "Reset", "d2/d92/a21548.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
-    [ "UpdateAI", "d2/d92/a21548.html#aec7645eaae190d1e7982aae181ff9224", null ],
-    [ "events", "d2/d92/a21548.html#acd021e4216e3920f0534da95d69ba5eb", null ],
-    [ "pInstance", "d2/d92/a21548.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
+    [ "npc_bloodmage_laurithAI", "d2/d92/a21548.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
+    [ "Reset", "d2/d92/a21548.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
+    [ "SetGUID", "d2/d92/a21548.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
+    [ "UpdateAI", "d2/d92/a21548.html#a9752f518441071dd4a60cd63423bf9a3", null ],
+    [ "_events", "d2/d92/a21548.html#a35facab84094071d952792a4c3e5015d", null ],
+    [ "_playerGUID", "d2/d92/a21548.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
 ];

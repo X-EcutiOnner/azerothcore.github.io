@@ -1,5 +1,7 @@
 var a09024 =
 [
-    [ "creatures", "d9/d74/a09024.html#a9ae0351e4964d22bcf7c454c8b1027fe", null ],
-    [ "gameobjects", "d9/d74/a09024.html#a14fee7108cb388abd1ec2057cc7ed2a1", null ]
+    [ "Done", "d9/d74/a09024.html#abc88850d392fb4b62e778d09445de0be", null ],
+    [ "DoneWorldState", "d9/d74/a09024.html#a380755d90c958b6532bae7f8a4d70b44", null ],
+    [ "MaxWorldState", "d9/d74/a09024.html#a8c144531f876b6def613c0011e0efe47", null ],
+    [ "ReqNum", "d9/d74/a09024.html#ae1d182aef449388993e4965de447d971", null ]
 ];

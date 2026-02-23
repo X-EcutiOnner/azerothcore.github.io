@@ -1,10 +1,7 @@
 var a27816 =
 [
-    [ "npc_dancing_flamesAI", "d3/da7/a27816.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
-    [ "JustEngagedWith", "d3/da7/a27816.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
-    [ "ReceiveEmote", "d3/da7/a27816.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
-    [ "Reset", "d3/da7/a27816.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
-    [ "UpdateAI", "d3/da7/a27816.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
-    [ "Active", "d3/da7/a27816.html#aa79036bed206327847bf5ad2e768e8f6", null ],
-    [ "CanIteract", "d3/da7/a27816.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
+    [ "HandleGlyph", "d3/da7/a27816.html#a9ec1133587bb6f0d7faa1beafc8415d9", null ],
+    [ "PrepareSpellScript", "d3/da7/a27816.html#adffd8b39adef397a886a66465e09f68b", null ],
+    [ "Register", "d3/da7/a27816.html#a77ff80bffd5c3f75dd60f2d901dfd84e", null ],
+    [ "Validate", "d3/da7/a27816.html#aa8bf4fc8457d122e46d12bc6b1cc7586", null ]
 ];

@@ -1,5 +1,6 @@
 var a20068 =
 [
-    [ "boss_flame_leviathan_overload_deviceAI", "dd/daf/a20068.html#ab28c1371c20672e717f92fbc3656fb99", null ],
-    [ "OnSpellClick", "dd/daf/a20068.html#af432be27e1b91ecf5a5a53c7b6add39e", null ]
+    [ "PrepareSpellScript", "dd/daf/a20068.html#af7426e99a49f8618fc38242ded7132f1", null ],
+    [ "RecalculateDamage", "dd/daf/a20068.html#a94e70b20f2139f668227dccb623c1af6", null ],
+    [ "Register", "dd/daf/a20068.html#acd911f78780e052d88f5f47574092d62", null ]
 ];

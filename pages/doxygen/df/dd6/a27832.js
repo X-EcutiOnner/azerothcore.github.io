@@ -1,11 +1,8 @@
 var a27832 =
 [
-    [ "npc_injured_patientAI", "df/dd6/a27832.html#a0973487623f1771c598648bc06a6d9a3", null ],
-    [ "JustEngagedWith", "df/dd6/a27832.html#a621a8cc3f6b9655760431d52766ca589", null ],
-    [ "Reset", "df/dd6/a27832.html#a007c9c7a4047374574cad17e9309d7c1", null ],
-    [ "SpellHit", "df/dd6/a27832.html#ac9381e7c958348ae7a5e98fea7dcbe37", null ],
-    [ "UpdateAI", "df/dd6/a27832.html#a54d0a5574175747779878dce0ebfd44f", null ],
-    [ "_scheduler", "df/dd6/a27832.html#a60428fa97c8f6520338d53ed368c4c35", null ],
-    [ "Coord", "df/dd6/a27832.html#af5a6f87c0379edd07a8756018b0c8661", null ],
-    [ "DoctorGUID", "df/dd6/a27832.html#ad1de0d556a784aa16d87b8367fdb38e3", null ]
+    [ "CheckProc", "df/dd6/a27832.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
+    [ "HandleEffectProc", "df/dd6/a27832.html#af01d160cb2a55124361a2dd113acd0a7", null ],
+    [ "PrepareAuraScript", "df/dd6/a27832.html#aeffb8490a7208ae6e32a505283afbc03", null ],
+    [ "Register", "df/dd6/a27832.html#a5436413d098dde4b0fa1ed2259a47779", null ],
+    [ "Validate", "df/dd6/a27832.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
 ];

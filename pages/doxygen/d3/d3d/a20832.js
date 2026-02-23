@@ -1,8 +1,8 @@
 var a20832 =
 [
-    [ "boss_thorim_pillarAI", "d3/d3d/a20832.html#ae00c9e72f14e3f2c94da118a1fe27130", null ],
-    [ "Reset", "d3/d3d/a20832.html#ae9043ed9b72cc0eda6fb7c859355da57", null ],
-    [ "SpellHit", "d3/d3d/a20832.html#a1cb3ef9fdfc9e375d15e14b9230dd51e", null ],
-    [ "UpdateAI", "d3/d3d/a20832.html#afd8e05444eeea620a7ef21e97c345d41", null ],
-    [ "_resetTimer", "d3/d3d/a20832.html#a6ef7c9e23280564aec1b82eb670bc4f9", null ]
+    [ "boss_yoggsaron_crusher_tentacle", "d3/d3d/a20832.html#aa550582ebb2fddc8574f1ca96faeb9a5", null ],
+    [ "DamageTaken", "d3/d3d/a20832.html#aa38dbd7050000d3aab774a7b719912f4", null ],
+    [ "DoAction", "d3/d3d/a20832.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
+    [ "Reset", "d3/d3d/a20832.html#aba082f8d2fa200eca9c52336df544221", null ],
+    [ "UpdateAI", "d3/d3d/a20832.html#ae22a12401dc98534da1cb771468a58ce", null ]
 ];

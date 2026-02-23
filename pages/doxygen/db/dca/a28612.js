@@ -1,8 +1,7 @@
 var a28612 =
 [
-    [ "canLink", "db/dca/a28612.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
-    [ "categoryId", "db/dca/a28612.html#abf285e69e8e2a90626a157cb0c50d158", null ],
-    [ "id", "db/dca/a28612.html#a7740b26f1bde19a05b002c00eded25e3", null ],
-    [ "name", "db/dca/a28612.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
-    [ "spellIcon", "db/dca/a28612.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
+    [ "HandleDummy", "db/dca/a28612.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
+    [ "PrepareSpellScript", "db/dca/a28612.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
+    [ "Register", "db/dca/a28612.html#a3fda4d652c1264b3cfababdd98297c61", null ],
+    [ "Validate", "db/dca/a28612.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
 ];

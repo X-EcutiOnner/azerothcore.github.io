@@ -1,16 +1,19 @@
 var a05528 =
 [
-    [ "difference_type", "df/d63/a05528.html#aeb2086c6034a734b92b3cb8d0382a293", null ],
-    [ "iterator_category", "df/d63/a05528.html#a60f6936503d386c555d012e8763611ca", null ],
-    [ "pointer", "df/d63/a05528.html#aa25ef6456bed8f4e599a48c7c1448363", null ],
-    [ "reference", "df/d63/a05528.html#a95fa5b0dac0017e43bc5683fb040836d", null ],
-    [ "value_type", "df/d63/a05528.html#ab19bfdfea57f6de2bbef93aff14481ec", null ],
-    [ "CheckedBufferOutputIterator", "df/d63/a05528.html#a49de38fe9f4e296bcd229d486864c65e", null ],
-    [ "check", "df/d63/a05528.html#ab8414d5a971d77718de7f610bb000443", null ],
-    [ "operator*", "df/d63/a05528.html#a2d4635aa952b03df738046667197b6f9", null ],
-    [ "operator++", "df/d63/a05528.html#a1bdbf99823ee46a88094480b5040211b", null ],
-    [ "operator++", "df/d63/a05528.html#a8a72bd229fb92e389ec311142ca2a139", null ],
-    [ "remaining", "df/d63/a05528.html#ae804b558c6912a00405070e170572407", null ],
-    [ "_buf", "df/d63/a05528.html#abee1c6def8872acea5f34f0ae22aa467", null ],
-    [ "_end", "df/d63/a05528.html#a83a86f648edeeaf34b01581b972b2f1d", null ]
+    [ "Appender", "df/d63/a05528.html#aed555d5a182fefce9bb570201e9f005f", null ],
+    [ "~Appender", "df/d63/a05528.html#a7194b4ff5130399352c356852023004d", null ],
+    [ "_write", "df/d63/a05528.html#a04e6bf8aca909a3fbadcd053dda85b83", null ],
+    [ "getFlags", "df/d63/a05528.html#a57fad2f7bd4da733633051f47efd6555", null ],
+    [ "getId", "df/d63/a05528.html#a643046505390b3988572c53051d7d4c1", null ],
+    [ "getLogLevel", "df/d63/a05528.html#a0013fabdf34579153a2d145fdbd8009b", null ],
+    [ "getLogLevelString", "df/d63/a05528.html#aa0ec99ab59463bfe249b64e5f9a7645d", null ],
+    [ "getName", "df/d63/a05528.html#a8414d7de4187a3deb55024278734836f", null ],
+    [ "getType", "df/d63/a05528.html#a0efa3e131b7c130a9ece375135682ea4", null ],
+    [ "setLogLevel", "df/d63/a05528.html#ae6c4e7120a54b7069e157fe9a397d455", null ],
+    [ "setRealmId", "df/d63/a05528.html#ae13f18ba2b26260f64aedc1ce1806fef", null ],
+    [ "write", "df/d63/a05528.html#a33d9f53e1853633d15c78f4edc33e5d3", null ],
+    [ "flags", "df/d63/a05528.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd", null ],
+    [ "id", "df/d63/a05528.html#a2cf4849307b65727645d3caf4205064f", null ],
+    [ "level", "df/d63/a05528.html#a2dd9209b754c6676ef86f1a6f7f2295f", null ],
+    [ "name", "df/d63/a05528.html#a0d47660ee41c8816342001825f626a8b", null ]
 ];

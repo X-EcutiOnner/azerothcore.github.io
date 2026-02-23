@@ -1,11 +1,6 @@
 var a13016 =
 [
-    [ "boss_terestian_illhoof", "d8/d01/a13016.html#a5750bf4f12ac01216335a926f885e136", null ],
-    [ "JustDied", "d8/d01/a13016.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
-    [ "JustEngagedWith", "d8/d01/a13016.html#adc1f9195954eda7ec406ac9a084b7508", null ],
-    [ "JustSummoned", "d8/d01/a13016.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
-    [ "KilledUnit", "d8/d01/a13016.html#ab7de8b406de200eec981fab79a56dcd7", null ],
-    [ "Reset", "d8/d01/a13016.html#a685b00f0e3317740412adfc48df1c3fb", null ],
-    [ "SpellHit", "d8/d01/a13016.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
-    [ "SummonKilrek", "d8/d01/a13016.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
+    [ "HandleTriggerSpell", "d8/d01/a13016.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
+    [ "PrepareSpellScript", "d8/d01/a13016.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
+    [ "Register", "d8/d01/a13016.html#a7e9c140aecea892ee6971bc97d385640", null ]
 ];

@@ -1,6 +1,8 @@
 var a16932 =
 [
-    [ "HandleDummy", "d3/d11/a16932.html#a84fb6e08a523f375cd8bc43e9cc73eab", null ],
-    [ "PrepareSpellScript", "d3/d11/a16932.html#accbf8f40b1ab123a2be81a514c94c836", null ],
-    [ "Register", "d3/d11/a16932.html#a1805904d5e50bbf5aeccf37d2cadd09e", null ]
+    [ "npc_toc_pet_warlockAI", "d3/d11/a16932.html#a0f4128d5fd7a855f1fb2870465bc1ce7", null ],
+    [ "EnterEvadeMode", "d3/d11/a16932.html#a62219f63e82fc67f63db2cbd713647a0", null ],
+    [ "myCanCast", "d3/d11/a16932.html#a81607ebd90d8f511bb18b03ff497d9eb", null ],
+    [ "UpdateAI", "d3/d11/a16932.html#a05a150e01f519675ac7b69d3c2a97ed4", null ],
+    [ "events", "d3/d11/a16932.html#a8edadebd7e6660041233a24fb07173bf", null ]
 ];

@@ -1,10 +1,10 @@
 var a10476 =
 [
-    [ "ServerScript", "d6/d30/a10476.html#a164286c210360b97b9efb48aed33b0d8", null ],
-    [ "CanPacketReceive", "d6/d30/a10476.html#a9c817a6f922029c9c58f783c4ebc18ff", null ],
-    [ "CanPacketSend", "d6/d30/a10476.html#a6682dfb556d137feb5fc95a66ccd6917", null ],
-    [ "OnNetworkStart", "d6/d30/a10476.html#ab51ce520816236687820d1f72bae0ed6", null ],
-    [ "OnNetworkStop", "d6/d30/a10476.html#a1f2e87caed202bbcde98e2cb0c8f19c6", null ],
-    [ "OnSocketClose", "d6/d30/a10476.html#a8386aef9c139f06732a5f36eadccec6c", null ],
-    [ "OnSocketOpen", "d6/d30/a10476.html#a22e84aee366a0010a753b7ed3403172f", null ]
+    [ "ArenaTeamScript", "d6/d30/a10476.html#ab86543c6ce76ff21e4306c799b99c896", null ],
+    [ "IsDatabaseBound", "d6/d30/a10476.html#a4d30f94084ae63eadd952c05b13f3ff4", null ],
+    [ "OnGetArenaPoints", "d6/d30/a10476.html#aa4b2d40921443cefee2775da6ca31b3e", null ],
+    [ "OnGetSlotByType", "d6/d30/a10476.html#a1ff67b327073bb8ebf10e7fddce92835", null ],
+    [ "OnQueueIdToArenaType", "d6/d30/a10476.html#a2a26e8c87c5fa7e85eb2f0517ced29e8", null ],
+    [ "OnSetArenaMaxPlayersPerTeam", "d6/d30/a10476.html#a776548946a09dcb3e76bd97f3c425e7f", null ],
+    [ "OnTypeIDToQueueID", "d6/d30/a10476.html#abcdd905b695f926e503db610d80ada3c", null ]
 ];

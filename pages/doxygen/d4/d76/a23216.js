@@ -1,6 +1,7 @@
 var a23216 =
 [
-    [ "HandleSchoolDamage", "d4/d76/a23216.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
-    [ "PrepareSpellScript", "d4/d76/a23216.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
-    [ "Register", "d4/d76/a23216.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
+    [ "go_ahune_ice_spear", "d4/d76/a23216.html#a22922e47b819bc60e331cffbc7c353b3", null ],
+    [ "Reset", "d4/d76/a23216.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
+    [ "UpdateAI", "d4/d76/a23216.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
+    [ "_scheduler", "d4/d76/a23216.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
 ];

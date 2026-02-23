@@ -1,6 +1,8 @@
 var a19608 =
 [
-    [ "npc_oculus_unstable_sphereAI", "dd/d3f/a19612.html", "dd/d3f/a19612" ],
-    [ "npc_oculus_unstable_sphere", "d2/d98/a19608.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
-    [ "GetAI", "d2/d98/a19608.html#adda2a9e7eab03444742e85729673ab2f", null ]
+    [ "HandleDamage", "d2/d98/a19608.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
+    [ "HandleTargets", "d2/d98/a19608.html#ac36e689bad93aa17738f390680764a7e", null ],
+    [ "PrepareSpellScript", "d2/d98/a19608.html#a149db071722ce12cded16087c8eec1df", null ],
+    [ "Register", "d2/d98/a19608.html#abd073f34a414fab7ee23ee933863f1c7", null ],
+    [ "Validate", "d2/d98/a19608.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
 ];

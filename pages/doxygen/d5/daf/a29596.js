@@ -1,6 +1,6 @@
 var a29596 =
 [
-    [ "npc_experience", "d5/daf/a29596.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
-    [ "OnGossipHello", "d5/daf/a29596.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
-    [ "OnGossipSelect", "d5/daf/a29596.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
+    [ "SetUp", "d5/daf/a29596.html#ac7db18817aa330aedefd1f688d53219b", null ],
+    [ "TearDown", "d5/daf/a29596.html#a0cb70a624f55509497866a1fac787800", null ],
+    [ "_previousWorld", "d5/daf/a29596.html#afec905a799e8fe7522a2fa6756fa41d9", null ]
 ];

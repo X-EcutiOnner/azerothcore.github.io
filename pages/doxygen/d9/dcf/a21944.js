@@ -1,6 +1,7 @@
 var a21944 =
 [
-    [ "npc_mindless_ghoulAI", "d9/dcf/a21944.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
-    [ "CanAIAttack", "d9/dcf/a21944.html#a18fbc44ad760a69d952d003622ec75b2", null ],
-    [ "JustDied", "d9/dcf/a21944.html#a272067bef6dbab24024f7de990c10b64", null ]
+    [ "HandleScript", "d9/dcf/a21944.html#ac55fd613d1ea17ae89361fbf8759fec3", null ],
+    [ "PrepareSpellScript", "d9/dcf/a21944.html#a26e704fd016cdf9b1d47fb9edcff7a72", null ],
+    [ "Register", "d9/dcf/a21944.html#a9b8efef83b515f2250bda500ff741aa3", null ],
+    [ "Validate", "d9/dcf/a21944.html#ad5e9b0ae8a8103b7d901dd333e62fc35", null ]
 ];

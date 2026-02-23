@@ -1,11 +1,13 @@
 var a21096 =
 [
-    [ "boss_yoggsaron_llaneAI", "d1/db7/a21096.html#a8524834b7dff49844d96b7dc49fd265d", null ],
-    [ "NextStep", "d1/db7/a21096.html#a6587e7873455950bda97b2a7d78e6fc5", null ],
-    [ "Reset", "d1/db7/a21096.html#a86f9d594562f842d478b63de18e52455", null ],
-    [ "Say", "d1/db7/a21096.html#ab619684f15f5325383a413dced7c930e", null ],
-    [ "UpdateAI", "d1/db7/a21096.html#a545378189f85968ac925baa06ad608b5", null ],
-    [ "_checkTimer", "d1/db7/a21096.html#aa4956f6943adce94a9ed4fec951317d6", null ],
-    [ "_running", "d1/db7/a21096.html#a6d6d186febc408ecb830bf7eea3c72bd", null ],
-    [ "_step", "d1/db7/a21096.html#a718c0bf307934b9ee9cbb933899c6324", null ]
+    [ "npc_frenzied_worgenAI", "d1/db7/a21096.html#a3a87e1285fb40a4fe31e7e9c2916f2a8", null ],
+    [ "DoAction", "d1/db7/a21096.html#a7b7b34c2206cd1003c2abff3fb839c34", null ],
+    [ "JustDied", "d1/db7/a21096.html#a33b723baef468ef79e67aaadba1b2691", null ],
+    [ "JustEngagedWith", "d1/db7/a21096.html#a902bb6f89a2a210f2e0d18ebad7613f9", null ],
+    [ "JustReachedHome", "d1/db7/a21096.html#a9b50182cd407811d0f0aeeba378a37ee", null ],
+    [ "MoveInLineOfSight", "d1/db7/a21096.html#a3c2b76ccb6e00a24619f769f0d44ba2b", null ],
+    [ "Reset", "d1/db7/a21096.html#adccac21b6eff18db096eb79dab4a27a0", null ],
+    [ "UpdateAI", "d1/db7/a21096.html#ad83478b5946fd93e1b4fe7916342b1ee", null ],
+    [ "events", "d1/db7/a21096.html#a8619650ae4396aafbdc1533f8b174ab8", null ],
+    [ "m_pInstance", "d1/db7/a21096.html#a425720ce11714b145685f6d9c78a3dc1", null ]
 ];

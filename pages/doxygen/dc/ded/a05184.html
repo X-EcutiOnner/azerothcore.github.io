@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: VMAP::IntersectionCallBack&lt; TValue &gt; Class Template Reference</title>
+<title>AzerothCore: VMAP::LocationInfo Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,68 +108,44 @@ $(document).ready(function(){initNavTree('dc/ded/a05184.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d1/d2b/a05181.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">VMAP::IntersectionCallBack&lt; TValue &gt; Class Template Reference</div></div>
+  <div class="headertitle"><div class="title">VMAP::LocationInfo Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">VMapTools.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">MapTree.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:af1b2d9b7517b57a5a0a598f58b470c33"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ded/a05184.html#af1b2d9b7517b57a5a0a598f58b470c33">operator()</a> (const G3D::Ray &amp;ray, const TValue *entity, bool StopAtFirstHit, float &amp;distance)</td></tr>
-<tr class="separator:af1b2d9b7517b57a5a0a598f58b470c33"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae2e70dc65cd3b0379600a67dce7de6ba"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ded/a05184.html#ae2e70dc65cd3b0379600a67dce7de6ba">LocationInfo</a> ()</td></tr>
+<tr class="separator:ae2e70dc65cd3b0379600a67dce7de6ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ab377424b7edd0274f61967619700f841"><td class="memItemLeft" align="right" valign="top">TValue *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ded/a05184.html#ab377424b7edd0274f61967619700f841">closestEntity</a></td></tr>
-<tr class="separator:ab377424b7edd0274f61967619700f841"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a00e778dd78dca96391d200e18dfc2c9d"><td class="memItemLeft" align="right" valign="top">G3D::Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ded/a05184.html#a00e778dd78dca96391d200e18dfc2c9d">hitLocation</a></td></tr>
-<tr class="separator:a00e778dd78dca96391d200e18dfc2c9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a57f40f48c26829f7da9e48efd839d773"><td class="memItemLeft" align="right" valign="top">G3D::Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ded/a05184.html#a57f40f48c26829f7da9e48efd839d773">hitNormal</a></td></tr>
-<tr class="separator:a57f40f48c26829f7da9e48efd839d773"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5e3fc81a2b7353808dc0c95eebe570be"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d5/d47/a05240.html">ModelInstance</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ded/a05184.html#a5e3fc81a2b7353808dc0c95eebe570be">hitInstance</a> {nullptr}</td></tr>
+<tr class="separator:a5e3fc81a2b7353808dc0c95eebe570be"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2a7e0be8d8e43b055dd1d43cd5331738"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d1/d54/a05272.html">GroupModel</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ded/a05184.html#a2a7e0be8d8e43b055dd1d43cd5331738">hitModel</a> {nullptr}</td></tr>
+<tr class="separator:a2a7e0be8d8e43b055dd1d43cd5331738"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ffbfcfc677809dda6250855d9594ca5"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ded/a05184.html#a0ffbfcfc677809dda6250855d9594ca5">ground_Z</a></td></tr>
+<tr class="separator:a0ffbfcfc677809dda6250855d9594ca5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae82d7d8518db5e131d6a327927c75a2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ded/a05184.html#aae82d7d8518db5e131d6a327927c75a2">rootId</a> = -1</td></tr>
+<tr class="separator:aae82d7d8518db5e131d6a327927c75a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;class TValue&gt;<br />
-class VMAP::IntersectionCallBack&lt; TValue &gt;</div></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="af1b2d9b7517b57a5a0a598f58b470c33" name="af1b2d9b7517b57a5a0a598f58b470c33"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af1b2d9b7517b57a5a0a598f58b470c33">&#9670;&#160;</a></span>operator()()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="ae2e70dc65cd3b0379600a67dce7de6ba" name="ae2e70dc65cd3b0379600a67dce7de6ba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae2e70dc65cd3b0379600a67dce7de6ba">&#9670;&#160;</a></span>LocationInfo()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class TValue &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../dc/ded/a05184.html">VMAP::IntersectionCallBack</a>&lt; TValue &gt;::operator() </td>
+          <td class="memname">VMAP::LocationInfo::LocationInfo </td>
           <td>(</td>
-          <td class="paramtype">const G3D::Ray &amp;&#160;</td>
-          <td class="paramname"><em>ray</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype">const TValue *&#160;</td>
-          <td class="paramname"><em>entity</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>StopAtFirstHit</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float &amp;&#160;</td>
-          <td class="paramname"><em>distance</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -178,66 +154,73 @@ template&lt;class TValue &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   41</span>        {</div>
-<div class="line"><span class="lineno">   42</span>            entity-&gt;intersect(ray, distance, StopAtFirstHit, <a class="code hl_variable" href="../../dc/ded/a05184.html#a00e778dd78dca96391d200e18dfc2c9d">hitLocation</a>, <a class="code hl_variable" href="../../dc/ded/a05184.html#a57f40f48c26829f7da9e48efd839d773">hitNormal</a>);</div>
-<div class="line"><span class="lineno">   43</span>        }</div>
-<div class="ttc" id="aa05184_html_a00e778dd78dca96391d200e18dfc2c9d"><div class="ttname"><a href="../../dc/ded/a05184.html#a00e778dd78dca96391d200e18dfc2c9d">VMAP::IntersectionCallBack::hitLocation</a></div><div class="ttdeci">G3D::Vector3 hitLocation</div><div class="ttdef"><b>Definition:</b> VMapTools.h:37</div></div>
-<div class="ttc" id="aa05184_html_a57f40f48c26829f7da9e48efd839d773"><div class="ttname"><a href="../../dc/ded/a05184.html#a57f40f48c26829f7da9e48efd839d773">VMAP::IntersectionCallBack::hitNormal</a></div><div class="ttdeci">G3D::Vector3 hitNormal</div><div class="ttdef"><b>Definition:</b> VMapTools.h:38</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   41</span>:  <a class="code hl_variable" href="../../dc/ded/a05184.html#a0ffbfcfc677809dda6250855d9594ca5">ground_Z</a>(-G3D::inf()) { }</div>
+<div class="ttc" id="aa05184_html_a0ffbfcfc677809dda6250855d9594ca5"><div class="ttname"><a href="../../dc/ded/a05184.html#a0ffbfcfc677809dda6250855d9594ca5">VMAP::LocationInfo::ground_Z</a></div><div class="ttdeci">float ground_Z</div><div class="ttdef"><b>Definition:</b> MapTree.h:44</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00037">VMAP::IntersectionCallBack&lt; TValue &gt;::hitLocation</a>, and <a class="el" href="../../#l00038">VMAP::IntersectionCallBack&lt; TValue &gt;::hitNormal</a>.</p>
-
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="ab377424b7edd0274f61967619700f841" name="ab377424b7edd0274f61967619700f841"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab377424b7edd0274f61967619700f841">&#9670;&#160;</a></span>closestEntity</h2>
+<a id="a0ffbfcfc677809dda6250855d9594ca5" name="a0ffbfcfc677809dda6250855d9594ca5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ffbfcfc677809dda6250855d9594ca5">&#9670;&#160;</a></span>ground_Z</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class TValue &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">TValue* <a class="el" href="../../dc/ded/a05184.html">VMAP::IntersectionCallBack</a>&lt; TValue &gt;::closestEntity</td>
+          <td class="memname">float VMAP::LocationInfo::ground_Z</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l00292">DynamicMapTree::GetAreaAndLiquidData()</a>, <a class="el" href="../../#l00256">VMAP::VMapMgr2::GetAreaAndLiquidData()</a>, <a class="el" href="../../#l00066">VMAP::ModelInstance::GetLocationInfo()</a>, and <a class="el" href="../../#l00206">GameObjectModel::GetLocationInfo()</a>.</p>
+
 </div>
 </div>
-<a id="a00e778dd78dca96391d200e18dfc2c9d" name="a00e778dd78dca96391d200e18dfc2c9d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a00e778dd78dca96391d200e18dfc2c9d">&#9670;&#160;</a></span>hitLocation</h2>
+<a id="a5e3fc81a2b7353808dc0c95eebe570be" name="a5e3fc81a2b7353808dc0c95eebe570be"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5e3fc81a2b7353808dc0c95eebe570be">&#9670;&#160;</a></span>hitInstance</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class TValue &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">G3D::Vector3 <a class="el" href="../../dc/ded/a05184.html">VMAP::IntersectionCallBack</a>&lt; TValue &gt;::hitLocation</td>
+          <td class="memname">const <a class="el" href="../../d5/d47/a05240.html">ModelInstance</a>* VMAP::LocationInfo::hitInstance {nullptr}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00040">VMAP::IntersectionCallBack&lt; TValue &gt;::operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00256">VMAP::VMapMgr2::GetAreaAndLiquidData()</a>, and <a class="el" href="../../#l00066">VMAP::ModelInstance::GetLocationInfo()</a>.</p>
 
 </div>
 </div>
-<a id="a57f40f48c26829f7da9e48efd839d773" name="a57f40f48c26829f7da9e48efd839d773"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a57f40f48c26829f7da9e48efd839d773">&#9670;&#160;</a></span>hitNormal</h2>
+<a id="a2a7e0be8d8e43b055dd1d43cd5331738" name="a2a7e0be8d8e43b055dd1d43cd5331738"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2a7e0be8d8e43b055dd1d43cd5331738">&#9670;&#160;</a></span>hitModel</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class TValue &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">G3D::Vector3 <a class="el" href="../../dc/ded/a05184.html">VMAP::IntersectionCallBack</a>&lt; TValue &gt;::hitNormal</td>
+          <td class="memname">const <a class="el" href="../../d1/d54/a05272.html">GroupModel</a>* VMAP::LocationInfo::hitModel {nullptr}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00040">VMAP::IntersectionCallBack&lt; TValue &gt;::operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00292">DynamicMapTree::GetAreaAndLiquidData()</a>, <a class="el" href="../../#l00256">VMAP::VMapMgr2::GetAreaAndLiquidData()</a>, <a class="el" href="../../#l00110">VMAP::ModelInstance::GetLiquidLevel()</a>, <a class="el" href="../../#l00234">GameObjectModel::GetLiquidLevel()</a>, and <a class="el" href="../../#l00066">VMAP::ModelInstance::GetLocationInfo()</a>.</p>
+
+</div>
+</div>
+<a id="aae82d7d8518db5e131d6a327927c75a2" name="aae82d7d8518db5e131d6a327927c75a2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aae82d7d8518db5e131d6a327927c75a2">&#9670;&#160;</a></span>rootId</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> VMAP::LocationInfo::rootId = -1</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00292">DynamicMapTree::GetAreaAndLiquidData()</a>, <a class="el" href="../../#l00256">VMAP::VMapMgr2::GetAreaAndLiquidData()</a>, and <a class="el" href="../../#l00066">VMAP::ModelInstance::GetLocationInfo()</a>.</p>
 
 </div>
 </div>
@@ -246,8 +229,8 @@ template&lt;class TValue &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../de/daa/a04840.html">VMAP</a></li><li class="navelem"><a class="el" href="../../dc/ded/a05184.html">IntersectionCallBack</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:12:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d7/dde/a04945.html">VMAP</a></li><li class="navelem"><a class="el" href="../../dc/ded/a05184.html">LocationInfo</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:16:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

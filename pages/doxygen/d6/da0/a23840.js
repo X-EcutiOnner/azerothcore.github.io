@@ -1,15 +1,9 @@
 var a23840 =
 [
-    [ "npc_shattered_hand_scout", "d6/da0/a23840.html#a51a57eaaad75817a9b5a81210e01ed51", null ],
-    [ "DamageTaken", "d6/da0/a23840.html#ad37c34ae2dee082f1b4eed90bc4a3618", null ],
-    [ "FireArrows", "d6/da0/a23840.html#aa3043011d7d9e7b7c5826b9afc7581d1", null ],
-    [ "GetPorung", "d6/da0/a23840.html#a575b12c40aeccd6d0cdd63f71a3b93d6", null ],
-    [ "MoveInLineOfSight", "d6/da0/a23840.html#a2ddb6fd6aa6221768ff71257f4bdd81b", null ],
-    [ "MovementInform", "d6/da0/a23840.html#a6f6198c2faf68823b1d4c8237044784b", null ],
-    [ "Reset", "d6/da0/a23840.html#a1fcf0da2cc4a0554f04b3624b68de598", null ],
-    [ "SetData", "d6/da0/a23840.html#a9416dd89c4728538971abc5975c7080f", null ],
-    [ "UpdateAI", "d6/da0/a23840.html#a91c2c7eca064d6eaafe5ecaeca4344b4", null ],
-    [ "_firstZealots", "d6/da0/a23840.html#a2b5fd63b01e4ecb96b006e3870b37609", null ],
-    [ "_scheduler", "d6/da0/a23840.html#a376f6eab11f8399493d5d33b5c4ea35a", null ],
-    [ "_zealotGUIDs", "d6/da0/a23840.html#a26381a05bb007fdb4b7da97a19a878da", null ]
+    [ "boss_nethermancer_sepethrea", "d6/da0/a23840.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
+    [ "EnterEvadeMode", "d6/da0/a23840.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
+    [ "JustDied", "d6/da0/a23840.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
+    [ "JustEngagedWith", "d6/da0/a23840.html#a89851b9f6eb94270fe22151d3a968bec", null ],
+    [ "JustSummoned", "d6/da0/a23840.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
+    [ "KilledUnit", "d6/da0/a23840.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
 ];

@@ -1,5 +1,5 @@
 var a28632 =
 [
-    [ "CastTime", "d8/d5a/a28632.html#af0bf895b1a5d61974cb63230b786c55e", null ],
-    [ "ID", "d8/d5a/a28632.html#a41b1059fc4059bd198925861a9414497", null ]
+    [ "npc_sunwell_gate", "d8/d5a/a28632.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
+    [ "OnQuestReward", "d8/d5a/a28632.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
 ];

@@ -1,7 +1,7 @@
 var a18128 =
 [
-    [ "HandleScript", "d8/d3c/a18128.html#afc76149cb44a4d2aab48350fb4392036", null ],
-    [ "PrepareSpellScript", "d8/d3c/a18128.html#a8598de219c2402596fe97b5dd32c534e", null ],
-    [ "Register", "d8/d3c/a18128.html#ac9d4842632431e52932f66d09042ea70", null ],
-    [ "ScaleRange", "d8/d3c/a18128.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
+    [ "HandleScript", "d8/d3c/a18128.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
+    [ "PrepareSpellScript", "d8/d3c/a18128.html#ab69926839f72ee76eba2b225aba9690c", null ],
+    [ "Register", "d8/d3c/a18128.html#aad8925e891d7537993f02f3bc2552fea", null ],
+    [ "SelectRandomTarget", "d8/d3c/a18128.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
 ];

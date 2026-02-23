@@ -1,6 +1,9 @@
 var a22320 =
 [
-    [ "npc_tournament_training_dummyAI", "db/deb/a22324.html", "db/deb/a22324" ],
-    [ "npc_tournament_training_dummy", "d9/d41/a22320.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
-    [ "GetAI", "d9/d41/a22320.html#a31257c155c3a49c69771156800cf6340", null ]
+    [ "HandleFinish", "d9/d41/a22320.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
+    [ "Load", "d9/d41/a22320.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
+    [ "PrepareSpellScript", "d9/d41/a22320.html#a8326b3f9f78aab65225e81d274cc37df", null ],
+    [ "Register", "d9/d41/a22320.html#a749858f56e15a0bb6074d15ba166625d", null ],
+    [ "Validate", "d9/d41/a22320.html#a64005c52e7112c466f6206b7f6c847c0", null ],
+    [ "handled", "d9/d41/a22320.html#a7afe3007a016cb553f437544f8fd6f89", null ]
 ];

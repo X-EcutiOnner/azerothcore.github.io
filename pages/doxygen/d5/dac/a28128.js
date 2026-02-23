@@ -1,8 +1,6 @@
 var a28128 =
 [
-    [ "gender", "d5/dac/a28128.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
-    [ "hair_id", "d5/dac/a28128.html#af4646a9adb0a1dc18b34158de2116b84", null ],
-    [ "Id", "d5/dac/a28128.html#a05de87081cf628e806d6518eef1424e4", null ],
-    [ "race", "d5/dac/a28128.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
-    [ "type", "d5/dac/a28128.html#a289bb362ba13235c754647ba67be1e56", null ]
+    [ "go_brewfest_musicAI", "d7/d23/a28132.html", "d7/d23/a28132" ],
+    [ "go_brewfest_music", "d5/dac/a28128.html#a787963a5ee591933d62fdb52911f9a77", null ],
+    [ "GetAI", "d5/dac/a28128.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
 ];

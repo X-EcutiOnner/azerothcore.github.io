@@ -1,4 +1,5 @@
 var a28184 =
 [
-    [ "ID", "de/da6/a28184.html#a27cfc07c5aa7efe7a6f0cb62ea691f81", null ]
+    [ "go_tele_to_dalaran_crystal", "de/da6/a28184.html#ab41268b7d568e8f189338f27cd90a62c", null ],
+    [ "OnGossipHello", "de/da6/a28184.html#a7f754a29249653ca7848494310ef1a8d", null ]
 ];

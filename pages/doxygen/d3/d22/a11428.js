@@ -1,7 +1,11 @@
 var a11428 =
 [
-    [ "SpellImmune", "d3/d22/a11428.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
-    [ "blockType", "d3/d22/a11428.html#a13a353d02a7330820df170eb46e7a26d", null ],
-    [ "spellId", "d3/d22/a11428.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
-    [ "type", "d3/d22/a11428.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
+    [ "Player", "d3/d22/a11428.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "d3/d22/a11428.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Face", "d3/d22/a11428.html#a6334464eea38be514f3faa7538b39a5a", null ],
+    [ "FacialHair", "d3/d22/a11428.html#a44643270b211d275eb94283842791407", null ],
+    [ "Gender", "d3/d22/a11428.html#a14321ea3595debe2836eceab8a82f944", null ],
+    [ "HairColor", "d3/d22/a11428.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
+    [ "HairStyle", "d3/d22/a11428.html#ade5b2dff213547ab4d707070f8979085", null ],
+    [ "Skin", "d3/d22/a11428.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
 ];

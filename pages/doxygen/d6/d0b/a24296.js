@@ -1,5 +1,6 @@
 var a24296 =
 [
-    [ "at_commander_dawnforge", "d6/d0b/a24296.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
-    [ "OnTrigger", "d6/d0b/a24296.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
+    [ "achievement", "d6/d0b/a24296.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "d6/d0b/a24296.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "d6/d0b/a24296.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
 ];

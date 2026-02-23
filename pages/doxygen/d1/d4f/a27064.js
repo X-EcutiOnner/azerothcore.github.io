@@ -1,10 +1,7 @@
 var a27064 =
 [
-    [ "CalculateAmount", "d1/d4f/a27064.html#a9e0e28d871f9d3c89cf2dc862971321d", null ],
-    [ "Detonate", "d1/d4f/a27064.html#adc622aae157984546dfe3d8373c0c413", null ],
-    [ "HandleProc", "d1/d4f/a27064.html#a3b5812649b67830d8dc6d10b5dd1c937", null ],
-    [ "OnRemove", "d1/d4f/a27064.html#a5067cef0afc99d487f995f8d6edea21f", null ],
-    [ "PrepareAuraScript", "d1/d4f/a27064.html#abc23ebb3761e3505486ac578bdeaeeed", null ],
-    [ "Register", "d1/d4f/a27064.html#acc4819698e175889a0491d7f7cc680fd", null ],
-    [ "Validate", "d1/d4f/a27064.html#a0649826ce0d66c9f21be8d47c76f4941", null ]
+    [ "HandleScript", "d1/d4f/a27064.html#a1b20a7fb4487876f305aa3a8d493ed17", null ],
+    [ "PrepareSpellScript", "d1/d4f/a27064.html#a5ac848029ef03f6779cf094f4b80dd24", null ],
+    [ "Register", "d1/d4f/a27064.html#a3d378e0eac09b00792b293b2cd7f3192", null ],
+    [ "Validate", "d1/d4f/a27064.html#a36963610ad939ec36848ff70185f47a2", null ]
 ];

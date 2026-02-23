@@ -1,6 +1,8 @@
 var a27384 =
 [
-    [ "boss_lethonAI", "dc/da9/a27388.html", "dc/da9/a27388" ],
-    [ "boss_lethon", "d5/db6/a27384.html#a5d758979b061646830373de64b2b3af4", null ],
-    [ "GetAI", "d5/db6/a27384.html#a493baf37aac400635dd0409e79375a1c", null ]
+    [ "CheckFireTotem", "d5/db6/a27384.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "d5/db6/a27384.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "d5/db6/a27384.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "d5/db6/a27384.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "d5/db6/a27384.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

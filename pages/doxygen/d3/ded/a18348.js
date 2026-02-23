@@ -1,9 +1,6 @@
 var a18348 =
 [
-    [ "FilterTargets", "d3/ded/a18348.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
-    [ "FilterTargetsSubseq", "d3/ded/a18348.html#a88a53a855e01b550fbd106ac318a891e", null ],
-    [ "PrepareSpellScript", "d3/ded/a18348.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
-    [ "Register", "d3/ded/a18348.html#a27e8768422b311f6db16757e167f4102", null ],
-    [ "Validate", "d3/ded/a18348.html#a96ef76527449a138685830b52fa95146", null ],
-    [ "_targetList", "d3/ded/a18348.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
+    [ "OnRemove", "d3/ded/a18348.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
+    [ "PrepareAuraScript", "d3/ded/a18348.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
+    [ "Register", "d3/ded/a18348.html#afa993cb14444989feac16c9fa2d7b8df", null ]
 ];

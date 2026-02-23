@@ -1,8 +1,7 @@
 var a07496 =
 [
-    [ "NodeId", "de/d42/a07496.html#a09d4904c622dd7810e154bc0f3bd7eaf", null ],
-    [ "TextAllianceTaken", "de/d42/a07496.html#a20cb8eaefa0e45b45a57645c62409ba4", null ],
-    [ "TextAssaulted", "de/d42/a07496.html#a2e49a6d7f8ca935800062d98f1c660de", null ],
-    [ "TextDefended", "de/d42/a07496.html#a27ee2d5be23a110943438a8888b14202", null ],
-    [ "TextHordeTaken", "de/d42/a07496.html#a835c00ebdc2fe61f7e7757b0ed26bd1d", null ]
+    [ "BattlegroundObjectInfo", "de/d42/a07496.html#a848f2b15f47ceeb91c40e916d5659486", null ],
+    [ "object", "de/d42/a07496.html#a6722b83d6969c1a34b4846f19865075a", null ],
+    [ "spellid", "de/d42/a07496.html#ae0233a1078bc735e40855ea7608f5f11", null ],
+    [ "timer", "de/d42/a07496.html#a7eaf1fbe40f3a7918965da8d5ac81a50", null ]
 ];

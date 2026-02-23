@@ -1,7 +1,5 @@
 var a24200 =
 [
-    [ "HandleDummy", "d5/dff/a24200.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "d5/dff/a24200.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "d5/dff/a24200.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "d5/dff/a24200.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "npc_shattrath_daily_quest", "d5/dff/a24200.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "d5/dff/a24200.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

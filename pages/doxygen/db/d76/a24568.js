@@ -1,6 +1,6 @@
 var a24568 =
 [
-    [ "achievement", "db/d76/a24568.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "db/d76/a24568.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "db/d76/a24568.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
+    [ "CheckTargets", "db/d76/a24568.html#abb6ffb41731b05b868f82498b373d8b9", null ],
+    [ "PrepareSpellScript", "db/d76/a24568.html#a4ce2790448bd39c19daf8caae7ef5a9d", null ],
+    [ "Register", "db/d76/a24568.html#aeefc7910c2960dbf3a49da6ed3c15523", null ]
 ];

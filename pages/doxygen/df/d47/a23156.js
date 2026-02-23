@@ -1,7 +1,7 @@
 var a23156 =
 [
-    [ "npc_ashtongue_channeler", "df/d47/a23156.html#af7217d00f87e56e5cdb411fcad161b51", null ],
-    [ "Reset", "df/d47/a23156.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
-    [ "UpdateAI", "df/d47/a23156.html#af855dfa521404c4e6127a9bf12a75604", null ],
-    [ "scheduler", "df/d47/a23156.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
+    [ "FilterTargets", "df/d47/a23156.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
+    [ "HandleDummy", "df/d47/a23156.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
+    [ "PrepareSpellScript", "df/d47/a23156.html#ae7714acbe0a08781e3bc297847c47870", null ],
+    [ "Register", "df/d47/a23156.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
 ];

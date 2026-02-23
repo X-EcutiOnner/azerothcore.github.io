@@ -1,6 +1,7 @@
 var a18052 =
 [
-    [ "npc_coldflameAI", "dc/d3e/a18056.html", "dc/d3e/a18056" ],
-    [ "npc_coldflame", "de/ddf/a18052.html#a573b887358e2ba2281c4c119a267c33f", null ],
-    [ "GetAI", "de/ddf/a18052.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
+    [ "npc_gunship_rocketeerAI", "de/ddf/a18052.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
+    [ "CanAIAttack", "de/ddf/a18052.html#a4b4e2839e426bdb752beea09394f13dc", null ],
+    [ "MovementInform", "de/ddf/a18052.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
+    [ "UpdateAI", "de/ddf/a18052.html#af73d71750f116fb90be1c2acba75ca70", null ]
 ];

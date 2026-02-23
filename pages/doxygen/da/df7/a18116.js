@@ -1,5 +1,7 @@
 var a18116 =
 [
-    [ "npc_volatile_oozeAI", "da/df7/a18116.html#af042d4c22482aabcdad6fa867dfe093f", null ],
-    [ "CastMainSpell", "da/df7/a18116.html#a91890785174ecc60c9553a0aedf1961b", null ]
+    [ "FilterTargets", "da/df7/a18116.html#a77afd0b56c9bddd74999d5df30457b7f", null ],
+    [ "HandleDummy", "da/df7/a18116.html#a04166e4e5a4ba082755433555855cb30", null ],
+    [ "PrepareSpellScript", "da/df7/a18116.html#aaefa58014db12fb76e3416ae807c69e8", null ],
+    [ "Register", "da/df7/a18116.html#a497ee30669d45341023abe549c91ddaf", null ]
 ];

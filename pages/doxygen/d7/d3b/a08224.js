@@ -1,10 +1,19 @@
 var a08224 =
 [
-    [ "IsCastable", "d7/d3b/a08224.html#a677b21866e24d2c94de28d96db07aafd", null ],
-    [ "MoneyCost", "d7/d3b/a08224.html#af20caa962ba1f5edb376b78b6b35b119", null ],
-    [ "ReqAbility", "d7/d3b/a08224.html#a101686190208be6fb46a46768ca779f9", null ],
-    [ "ReqLevel", "d7/d3b/a08224.html#a45e87439b1ae356ccb9ff381f58f942e", null ],
-    [ "ReqSkillLine", "d7/d3b/a08224.html#a008ff0df36f2e19534a5fda97616f14f", null ],
-    [ "ReqSkillRank", "d7/d3b/a08224.html#aa151d559cb276797a39dd203fd1b24c2", null ],
-    [ "SpellId", "d7/d3b/a08224.html#ac289744925387c199fde756867bbfc57", null ]
+    [ "CreatureMovementData", "d7/d3b/a08224.html#acb8099aff89bb3526a78073fd5503e9b", null ],
+    [ "GetChase", "d7/d3b/a08224.html#aa9e0267e4c73ec837653113394841fcf", null ],
+    [ "GetInteractionPauseTimer", "d7/d3b/a08224.html#ac16489cdc845f350e98da595269b7770", null ],
+    [ "GetRandom", "d7/d3b/a08224.html#af2c8281192f6234bd19e030237c77b5a", null ],
+    [ "IsFlightAllowed", "d7/d3b/a08224.html#ad2e480bc7a0b98c417be077305392647", null ],
+    [ "IsGroundAllowed", "d7/d3b/a08224.html#a0820b5840321870dafa9119d404ad0d9", null ],
+    [ "IsRooted", "d7/d3b/a08224.html#a530b2bbf530e553687c23555f3ffe655", null ],
+    [ "IsSwimAllowed", "d7/d3b/a08224.html#a3ed4b7f140537f9d066344c50a79b0b1", null ],
+    [ "ToString", "d7/d3b/a08224.html#ad76c73b59fa83682a9ae43389fed95b0", null ],
+    [ "Chase", "d7/d3b/a08224.html#ae2a19ebf47bacb304a450f7d9c6dbc6d", null ],
+    [ "Flight", "d7/d3b/a08224.html#aa535d32995ba28e11915dd56494f4a72", null ],
+    [ "Ground", "d7/d3b/a08224.html#ae603273724f448c95dc3a7cd3aec5b68", null ],
+    [ "InteractionPauseTimer", "d7/d3b/a08224.html#ae701d7622d7e24c0b8673863a2d75742", null ],
+    [ "Random", "d7/d3b/a08224.html#a1457436a01d5007235224fa9bfb93745", null ],
+    [ "Rooted", "d7/d3b/a08224.html#a0ca3905bb168b81853091a7d56796c1f", null ],
+    [ "Swim", "d7/d3b/a08224.html#a04966dc48fffcd65574314f238ba9be2", null ]
 ];

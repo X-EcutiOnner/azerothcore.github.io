@@ -1,6 +1,7 @@
 var a20200 =
 [
-    [ "CheckCast", "db/d09/a20200.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
-    [ "PrepareSpellScript", "db/d09/a20200.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
-    [ "Register", "db/d09/a20200.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
+    [ "boss_flame_leviathan_safety_container", "db/d09/a20200.html#a4519a6bf9c96ff13df4ae019b02f3593", null ],
+    [ "MovementInform", "db/d09/a20200.html#a42842de299fd9346cc0d61b649b652a4", null ],
+    [ "UpdateAI", "db/d09/a20200.html#a55119d077f905a8207ad2afbe31f17a4", null ],
+    [ "_allowTimer", "db/d09/a20200.html#a70134398c054c837407d6a22591a2d96", null ]
 ];

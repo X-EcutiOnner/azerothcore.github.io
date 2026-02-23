@@ -1,12 +1,15 @@
 var a17476 =
 [
-    [ "boss_moorabiAI", "d1/dd0/a17476.html#a60a03c3840a3743719996929d2ca9e59", null ],
-    [ "EnterEvadeMode", "d1/dd0/a17476.html#a7b77a6da820e9b3be80c94a37fe07db4", null ],
-    [ "JustDied", "d1/dd0/a17476.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
-    [ "JustEngagedWith", "d1/dd0/a17476.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
-    [ "KilledUnit", "d1/dd0/a17476.html#a265855d2972e534e927bfa609fbf2cf5", null ],
-    [ "Reset", "d1/dd0/a17476.html#a9daf89ed0f4e5795cafc63a6a81e5d1d", null ],
-    [ "SpellHitTarget", "d1/dd0/a17476.html#af1f30a0f3bf0f88725f8a146c528b77a", null ],
-    [ "UpdateAI", "d1/dd0/a17476.html#a9f9956aaaa60d5d0005a55a87d0424eb", null ],
-    [ "events2", "d1/dd0/a17476.html#a02a3bc20ca7b1b750bfd1bd29f093dd2", null ]
+    [ "npc_pos_deathwhisper_necrolyteAI", "d1/dd0/a17476.html#ae03f3fef42fcbcecedaf38692d1e9131", null ],
+    [ "DamageTaken", "d1/dd0/a17476.html#aad000cc1310f22325a29131fad169cbc", null ],
+    [ "DoAction", "d1/dd0/a17476.html#a5d7a324073cfdbd01ae267964959f15b", null ],
+    [ "InitializeAI", "d1/dd0/a17476.html#ad84905d1385bce0e431c2baf1158a343", null ],
+    [ "JustEngagedWith", "d1/dd0/a17476.html#ae095fa3ceb484cc289a086be8c2f2552", null ],
+    [ "MoveInLineOfSight", "d1/dd0/a17476.html#a1d43b002628080d5faf2fd59347a7f79", null ],
+    [ "MovementInform", "d1/dd0/a17476.html#a849b06a045de5529706e83b03febe135", null ],
+    [ "Reset", "d1/dd0/a17476.html#a0e6b326b3c8102dd711c002537f2c339", null ],
+    [ "UpdateAI", "d1/dd0/a17476.html#ade1c91217b6c6e33bfca60a69a51bbc0", null ],
+    [ "events", "d1/dd0/a17476.html#a30d65bc3625ed22e11ed7e040451643c", null ],
+    [ "isInvincible", "d1/dd0/a17476.html#a0216b301112656fb75907ff1f0d50d0f", null ],
+    [ "pInstance", "d1/dd0/a17476.html#afb71e537115d36795c2568360b2d58ce", null ]
 ];

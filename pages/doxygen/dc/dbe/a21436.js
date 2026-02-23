@@ -1,7 +1,6 @@
 var a21436 =
 [
-    [ "HandlePeriodicDummy", "dc/dbe/a21436.html#a295f37cddccc696d450a0c4380d43c29", null ],
-    [ "PrepareAuraScript", "dc/dbe/a21436.html#a9453aa189ba53de3d89bbab183927cfc", null ],
-    [ "Register", "dc/dbe/a21436.html#a1ca87e8523c020a9e4e0970c68957c14", null ],
-    [ "Validate", "dc/dbe/a21436.html#a475480c072aaccde7b00cf28aedff3ec", null ]
+    [ "HandleEffectPeriodic", "dc/dbe/a21436.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "dc/dbe/a21436.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "dc/dbe/a21436.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

@@ -1,10 +1,6 @@
 var a15536 =
 [
-    [ "npc_anubisath_defender", "d0/db9/a15536.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
-    [ "DamageTaken", "d0/db9/a15536.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
-    [ "JustDied", "d0/db9/a15536.html#a225ca1b3144953bcc5890caf0d32b606", null ],
-    [ "JustEngagedWith", "d0/db9/a15536.html#a6505fcae0e99cae44750f16daddc3309", null ],
-    [ "Reset", "d0/db9/a15536.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
-    [ "UpdateAI", "d0/db9/a15536.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
-    [ "_enraged", "d0/db9/a15536.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
+    [ "HandleScriptEffect", "d0/db9/a15536.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
+    [ "PrepareSpellScript", "d0/db9/a15536.html#aa109d61baba87acf5bce5d44bff55214", null ],
+    [ "Register", "d0/db9/a15536.html#ac8412777c84abfe56262d6d83163e9a1", null ]
 ];

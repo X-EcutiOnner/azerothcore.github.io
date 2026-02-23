@@ -1,9 +1,6 @@
 var a17348 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d8/d36/a17348.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
-    [ "SpellHitTarget", "d8/d36/a17348.html#aea107ede3b11726b3f7caae590edaf52", null ],
-    [ "UpdateAI", "d8/d36/a17348.html#ade416a422e67ce61e8874320cce7143b", null ],
-    [ "pInstance", "d8/d36/a17348.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
-    [ "timer1", "d8/d36/a17348.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
-    [ "timer2", "d8/d36/a17348.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
+    [ "npc_hor_lich_kingAI", "d5/d89/a17352.html", "d5/d89/a17352" ],
+    [ "npc_hor_lich_king", "d8/d36/a17348.html#aab2562a7a204699735a89e7a15b3b472", null ],
+    [ "GetAI", "d8/d36/a17348.html#ad670ae69daa742c19c06267399445a11", null ]
 ];

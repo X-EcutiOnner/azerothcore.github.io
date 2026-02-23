@@ -1,6 +1,7 @@
 var a24248 =
 [
-    [ "go_magtheridons_head", "df/d74/a24248.html#af5816b083f1856196bec7a75f0a995f3", null ],
-    [ "InitializeAI", "df/d74/a24248.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
-    [ "OnStateChanged", "df/d74/a24248.html#a28682d161074b71e1f2d70236ff2b897", null ]
+    [ "npc_isla_starmaneAI", "d0/d62/a24252.html", "d0/d62/a24252" ],
+    [ "npc_isla_starmane", "df/d74/a24248.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
+    [ "GetAI", "df/d74/a24248.html#a0ea2dbaab4115772f92849e06aa85575", null ],
+    [ "OnQuestAccept", "df/d74/a24248.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
 ];

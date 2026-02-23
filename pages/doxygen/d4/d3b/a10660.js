@@ -1,11 +1,9 @@
 var a10660 =
 [
-    [ "BackgroundColor", "d4/d3b/a10660.html#abab86dd497de86088873178bf1d54b5b", null ],
-    [ "BorderColor", "d4/d3b/a10660.html#abb2489b9be8a0d4a20d209d6293d7d46", null ],
-    [ "BorderStyle", "d4/d3b/a10660.html#acd5105c31e0f56e680f3384e86186872", null ],
-    [ "EmblemColor", "d4/d3b/a10660.html#a2e8a4768292d3566bb61009056a8a230", null ],
-    [ "EmblemStyle", "d4/d3b/a10660.html#aa6309467f9f09725a8698de864b4e63c", null ],
-    [ "GuildName", "d4/d3b/a10660.html#a74d4e1690c07a647c97ca2225e8488dd", null ],
-    [ "RankCount", "d4/d3b/a10660.html#acddb77850a86348df197afc724c4eaa0", null ],
-    [ "Ranks", "d4/d3b/a10660.html#aec9fd9a1a3bfa040375193027b32cf24", null ]
+    [ "fX", "d4/d3b/a10660.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
+    [ "fY", "d4/d3b/a10660.html#a9b158e247014eec0d35e465ab9469ac7", null ],
+    [ "fZ", "d4/d3b/a10660.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
+    [ "uiCreatureEntry", "d4/d3b/a10660.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
+    [ "uiPointId", "d4/d3b/a10660.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
+    [ "uiWaitTime", "d4/d3b/a10660.html#a305620aad71152c1139a88dea05a1887", null ]
 ];

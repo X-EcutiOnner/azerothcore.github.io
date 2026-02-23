@@ -1,8 +1,16 @@
 var a04796 =
 [
-    [ "fixname2", "d8/dc6/a04796.html#ac0029be4572a61d00eb1435db5526a74", null ],
-    [ "fixnamen", "d8/dc6/a04796.html#abdc56edc46e0804c456749761cff8daf", null ],
-    [ "GetExtension", "d8/dc6/a04796.html#ac3f75fc482c41471364c2c3e8bd1dd96", null ],
-    [ "GetPlainName", "d8/dc6/a04796.html#a5e577b4c8e75312883ba4e8c571908ca", null ],
-    [ "GetPlainName", "d8/dc6/a04796.html#a939d4568b4058bf826a517f55cb963af", null ]
+    [ "frand", "d8/dc6/a04796.html#a19bd31014583536af788a65b398e4406", null ],
+    [ "GetRng", "d8/dc6/a04796.html#a8602a67daa881e92c3eb9204c88b7733", null ],
+    [ "irand", "d8/dc6/a04796.html#a6ae07d2bb0593d8339e65c136f63ecc0", null ],
+    [ "rand32", "d8/dc6/a04796.html#ac699324b85bb2266ea8978796967c541", null ],
+    [ "rand_chance", "d8/dc6/a04796.html#a66621d09a8cc2aa9476391004fe2c427", null ],
+    [ "rand_norm", "d8/dc6/a04796.html#af2f9363ceebb6f78067b4a146d1de9df", null ],
+    [ "randtime", "d8/dc6/a04796.html#a9ecda65ea9686c86f47934d04d38ec69", null ],
+    [ "randtime", "d8/dc6/a04796.html#a7c8533961af63b720553e868fdaabd85", null ],
+    [ "urand", "d8/dc6/a04796.html#ab17def34ccbbd868dc87a16bf35acdbd", null ],
+    [ "urandms", "d8/dc6/a04796.html#af901d57f29ff48f701a375e44a0f1261", null ],
+    [ "urandweighted", "d8/dc6/a04796.html#a3f7e714c8fc3a6f6ccbe91d524a84f23", null ],
+    [ "engine", "d8/dc6/a04796.html#a8ab11e2fa939d9f333dfa1a858e7690b", null ],
+    [ "sfmtRand", "d8/dc6/a04796.html#a131ba7587aa544a7e73ff9884d6bc784", null ]
 ];

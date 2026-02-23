@@ -1,8 +1,6 @@
 var a28400 =
 [
-    [ "DamagedDisplayId", "de/d61/a28400.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
-    [ "DestroyedDisplayId", "de/d61/a28400.html#afc891df0c9491a34f784e8f141434be5", null ],
-    [ "Id", "de/d61/a28400.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
-    [ "RebuildingDisplayId", "de/d61/a28400.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
-    [ "SmokeDisplayId", "de/d61/a28400.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
+    [ "npc_training_dummyAI", "d4/d86/a28404.html", "d4/d86/a28404" ],
+    [ "npc_training_dummy", "de/d61/a28400.html#acfed4da3b1a01bc58e599d2dc134cb7d", null ],
+    [ "GetAI", "de/d61/a28400.html#a87a48a42e8349ce9125de91a429d4ffa", null ]
 ];

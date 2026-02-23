@@ -1,10 +1,7 @@
 var a19196 =
 [
-    [ "boss_isle_of_conquestAI", "db/df0/a19196.html#a7880ea86e7a03f5b14875065a83a206a", null ],
-    [ "CheckRageBuff", "db/df0/a19196.html#a6d60480e39fa89dbcc0facce9f0b69a3", null ],
-    [ "JustEngagedWith", "db/df0/a19196.html#a878635ef0673325943e6026ad76c2b06", null ],
-    [ "Reset", "db/df0/a19196.html#add59669e5f6c3c882ac008c720349573", null ],
-    [ "UpdateAI", "db/df0/a19196.html#ab33aa7e735c5837428a4cf2b76e4275e", null ],
-    [ "events", "db/df0/a19196.html#a38e308b66b0f35d3efe6916b03e4391c", null ],
-    [ "rage", "db/df0/a19196.html#aa16ebdd6e2f486d3a6e4b58f4cb5e696", null ]
+    [ "HandleDummy", "db/df0/a19196.html#a4bfc155129bd80c94b4b59474f30d748", null ],
+    [ "PrepareSpellScript", "db/df0/a19196.html#a9c72772f9d17b34562bd11418d67872d", null ],
+    [ "Register", "db/df0/a19196.html#a10c9f511da4eb366117d356c118408c6", null ],
+    [ "Validate", "db/df0/a19196.html#a655f2081d17c06c155641efc45efc1f8", null ]
 ];

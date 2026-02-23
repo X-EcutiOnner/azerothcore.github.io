@@ -1,10 +1,16 @@
 var a08088 =
 [
-    [ "AssistDelayEvent", "de/d0b/a08088.html#a022b9cf38b8e059df2dceca38e366b7d", null ],
-    [ "AssistDelayEvent", "de/d0b/a08088.html#a5371fc2a2f9334b821058b96d0c6bc13", null ],
-    [ "AddAssistant", "de/d0b/a08088.html#a987303ec41927528e9a5abfd9ab75512", null ],
-    [ "Execute", "de/d0b/a08088.html#a5afd295abeb1295e43f48b8951b24c35", null ],
-    [ "m_assistants", "de/d0b/a08088.html#ac6de6befda582bd38f92afda01204e94", null ],
-    [ "m_owner", "de/d0b/a08088.html#aabcce364c8009e8172b9d090059ce48c", null ],
-    [ "m_victim", "de/d0b/a08088.html#a47aff9ce39f5fec3718d6564e53b799e", null ]
+    [ "DisableMap", "de/d0b/a08088.html#adf2cad99fa4b2b3ddbff05931928c1c5", null ],
+    [ "DisableTypeMap", "de/d0b/a08088.html#a70c68e93cdd77f5e54bae1b96c66da13", null ],
+    [ "DisableMgr", "de/d0b/a08088.html#afadb62b96ab43f983f8a8c3077cbe205", null ],
+    [ "~DisableMgr", "de/d0b/a08088.html#ae1483ae3fdeeb98cceb29905f7181b1a", null ],
+    [ "AddDisable", "de/d0b/a08088.html#a343955ca73dabce8e7b81bf2803992fc", null ],
+    [ "CheckQuestDisables", "de/d0b/a08088.html#a2f9fa5dadf6f2da5f01651d37d996377", null ],
+    [ "HandleDisableType", "de/d0b/a08088.html#a203bb85bc7ecb9be3cf09b5d093b90fa", null ],
+    [ "instance", "de/d0b/a08088.html#ac3787801d677b0ed6592476d648743db", null ],
+    [ "IsDisabledFor", "de/d0b/a08088.html#accac4f17d8411544e22ba2231b04f36f", null ],
+    [ "IsPathfindingEnabled", "de/d0b/a08088.html#a8dce4846886ded6ec2b882820abdc517", null ],
+    [ "IsVMAPDisabledFor", "de/d0b/a08088.html#a38b182e1836b2197303b2809006f5148", null ],
+    [ "LoadDisables", "de/d0b/a08088.html#adb464165caf6cd436499fa84969eeaf8", null ],
+    [ "m_DisableMap", "de/d0b/a08088.html#a7a299346248eb6dc692f9e56ae9efffd", null ]
 ];

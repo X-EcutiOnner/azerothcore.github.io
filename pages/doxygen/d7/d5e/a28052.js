@@ -1,5 +1,8 @@
 var a28052 =
 [
-    [ "ID", "d7/d5e/a28052.html#a4a79da5825cf01d38d6ab9d98e033964", null ],
-    [ "parentCategory", "d7/d5e/a28052.html#a705e301dff461a8d7aefdc6fb29d39cc", null ]
+    [ "FilterTargets", "d7/d5e/a28052.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
+    [ "HandleEffect", "d7/d5e/a28052.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
+    [ "PrepareSpellScript", "d7/d5e/a28052.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
+    [ "Register", "d7/d5e/a28052.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
+    [ "Validate", "d7/d5e/a28052.html#aabc063155fad404ffd044c9f79b88051", null ]
 ];

@@ -1,7 +1,10 @@
 var a10608 =
 [
-    [ "LogoutResponse", "d9/d2e/a10608.html#a434ee19fbc4d3e336444b1c62ac2be84", null ],
-    [ "Write", "d9/d2e/a10608.html#a0b08225b6ac303afd20ec213aafe4bcb", null ],
-    [ "Instant", "d9/d2e/a10608.html#aad6819dc426b91b6ad43f180a53e12ef", null ],
-    [ "LogoutResult", "d9/d2e/a10608.html#a5543bf1a6342e9a217cd906e4a185b2e", null ]
+    [ "TicketScript", "d9/d2e/a10608.html#aec2b310ba0b26aa84a245207256edb0e", null ],
+    [ "IsDatabaseBound", "d9/d2e/a10608.html#afa21fa5aaf58c4ff964bcb3f81afbb32", null ],
+    [ "OnTicketClose", "d9/d2e/a10608.html#add082bd9a2d3a068bbb8f3a97d130887", null ],
+    [ "OnTicketCreate", "d9/d2e/a10608.html#a3436bbc78425bf5144c81f6309060b33", null ],
+    [ "OnTicketResolve", "d9/d2e/a10608.html#abd4d9cdf0fd99c10d6d86c395adecb9a", null ],
+    [ "OnTicketStatusUpdate", "d9/d2e/a10608.html#ae30b28cef4497cbed153c3e98e26d00d", null ],
+    [ "OnTicketUpdateLastChange", "d9/d2e/a10608.html#a3535e5592bc5f9ceb6b642b80a4f46b7", null ]
 ];

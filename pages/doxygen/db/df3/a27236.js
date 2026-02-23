@@ -1,8 +1,8 @@
 var a27236 =
 [
-    [ "CheckProc", "db/df3/a27236.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
-    [ "HandleEffectProc", "db/df3/a27236.html#af01d160cb2a55124361a2dd113acd0a7", null ],
-    [ "PrepareAuraScript", "db/df3/a27236.html#aeffb8490a7208ae6e32a505283afbc03", null ],
-    [ "Register", "db/df3/a27236.html#a5436413d098dde4b0fa1ed2259a47779", null ],
-    [ "Validate", "db/df3/a27236.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
+    [ "HandleDummy", "db/df3/a27236.html#a308880cf9c61c76de0fdee05fff2b463", null ],
+    [ "Load", "db/df3/a27236.html#acafb9d6ac4fde694dc44cbf13b7f97ad", null ],
+    [ "PrepareSpellScript", "db/df3/a27236.html#a3a2672c39f36229c0dd6cdea0fad3299", null ],
+    [ "Register", "db/df3/a27236.html#a1857b342ae34a57f079f45019645c688", null ],
+    [ "Validate", "db/df3/a27236.html#a121c30045281eab5fee4f65d38d1dfc3", null ]
 ];

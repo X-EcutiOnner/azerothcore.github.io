@@ -1,10 +1,6 @@
 var a25008 =
 [
-    [ "FilterTargets", "d2/d2b/a25008.html#a033c63470d406ad2249c5aa223c00b2f", null ],
-    [ "HandleFinish", "d2/d2b/a25008.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
-    [ "HandleScript", "d2/d2b/a25008.html#a2c26838015f1b21715fc1438537e15d3", null ],
-    [ "Load", "d2/d2b/a25008.html#a669aefa81d57358ef452f4c247b2ceff", null ],
-    [ "PrepareSpellScript", "d2/d2b/a25008.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
-    [ "Register", "d2/d2b/a25008.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
-    [ "haveTarget", "d2/d2b/a25008.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
+    [ "OnPeriodic", "d2/d2b/a25008.html#a3bcef6bd4501489320ef1242a66c50e8", null ],
+    [ "PrepareAuraScript", "d2/d2b/a25008.html#ab18f839ab70cc61e52c5e9ddb4847140", null ],
+    [ "Register", "d2/d2b/a25008.html#afbc707f30b7db0329f24b9ab8e8134e0", null ]
 ];

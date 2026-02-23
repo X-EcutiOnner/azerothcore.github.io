@@ -1,20 +1,9 @@
 var a09984 =
 [
-    [ "ZoneScript", "dc/d12/a09984.html#a3519b281545e348167893060c2aa352c", null ],
-    [ "~ZoneScript", "dc/d12/a09984.html#af4aa4d8f6b48d7d63fb6daa85d50c756", null ],
-    [ "GetCreatureEntry", "dc/d12/a09984.html#a8cabd274bffe18004c3fced46ae325b0", null ],
-    [ "GetData", "dc/d12/a09984.html#a8997612fdbdacbf5e28e4de60d03e805", null ],
-    [ "GetData64", "dc/d12/a09984.html#ab7aecf55fb84288840465dd69eacc8eb", null ],
-    [ "GetGameObjectEntry", "dc/d12/a09984.html#a3101d469bb171957177011fc0a76999b", null ],
-    [ "GetGuidData", "dc/d12/a09984.html#aa1483a9ca7f97cef589dd141d669cc46", null ],
-    [ "OnCreatureCreate", "dc/d12/a09984.html#ae61020e57e9ca8ae0d42a51e39b1fee0", null ],
-    [ "OnCreatureEvade", "dc/d12/a09984.html#a8113c8738b772b740dbc7a2352637669", null ],
-    [ "OnCreatureRemove", "dc/d12/a09984.html#adf80a1b08c7ab4451cd6967138727b56", null ],
-    [ "OnGameObjectCreate", "dc/d12/a09984.html#afa02089edff085ecd4eb7178b94ffe26", null ],
-    [ "OnGameObjectRemove", "dc/d12/a09984.html#a61c1ab81f65b4bfdf638eec002cb498c", null ],
-    [ "OnUnitDeath", "dc/d12/a09984.html#afaf1aecaaaac82508b8f1c50712b8204", null ],
-    [ "ProcessEvent", "dc/d12/a09984.html#ab32f7102df50af48e43f544bd107f964", null ],
-    [ "SetData", "dc/d12/a09984.html#a949e67ea24c7e4b70a20806952735576", null ],
-    [ "SetData64", "dc/d12/a09984.html#a321c2fc00f1d3d261a4887a1e74f4244", null ],
-    [ "SetGuidData", "dc/d12/a09984.html#ac465d5e7d00a7e3b935942f1627763f4", null ]
+    [ "RectangleBoundary", "dc/d12/a09984.html#af401f84700a15fa1d4fcf78358a74735", null ],
+    [ "IsWithinBoundaryArea", "dc/d12/a09984.html#a2d6c735d080382263a401d91da37b934", null ],
+    [ "_maxX", "dc/d12/a09984.html#a3eff421dfe942634814e7526334f1c07", null ],
+    [ "_maxY", "dc/d12/a09984.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
+    [ "_minX", "dc/d12/a09984.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
+    [ "_minY", "dc/d12/a09984.html#af5a7e35d5d9ff23c722643141f01a916", null ]
 ];

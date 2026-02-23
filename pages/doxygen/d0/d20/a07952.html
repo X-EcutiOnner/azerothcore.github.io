@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ConditionSourceInfo Struct Reference</title>
+<title>AzerothCore: LinkValidator&lt; LinkTags::trade &gt; Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,31 +105,23 @@ $(document).ready(function(){initNavTree('d0/d20/a07952.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="../../d0/d86/a07949.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ConditionSourceInfo Struct Reference</div></div>
+  <div class="headertitle"><div class="title">LinkValidator&lt; LinkTags::trade &gt; Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">ConditionMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:adc6441ec52fab3ab8d2b58a146a3fef3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#adc6441ec52fab3ab8d2b58a146a3fef3">ConditionSourceInfo</a> (<a class="el" href="../../d8/dc4/a08492.html">WorldObject</a> *target0, <a class="el" href="../../d8/dc4/a08492.html">WorldObject</a> *target1=nullptr, <a class="el" href="../../d8/dc4/a08492.html">WorldObject</a> *target2=nullptr)</td></tr>
-<tr class="separator:adc6441ec52fab3ab8d2b58a146a3fef3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:acb67deba44021698a447e8288bca0bd4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/dc4/a08492.html">WorldObject</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#acb67deba44021698a447e8288bca0bd4">mConditionTargets</a> [<a class="el" href="../../d4/d41/a01661.html#ae7c221b877c671251f317a43dbea2583a153d6f442357998ef78b878dacace376">MAX_CONDITION_TARGETS</a>]</td></tr>
-<tr class="separator:acb67deba44021698a447e8288bca0bd4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a099d3457a0a15d8feeacc0dc8c32d439"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d0c/a07956.html">Condition</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a099d3457a0a15d8feeacc0dc8c32d439">mLastFailedCondition</a></td></tr>
-<tr class="separator:a099d3457a0a15d8feeacc0dc8c32d439"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a33f6c3e46c24571a8eec083087618fed"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a33f6c3e46c24571a8eec083087618fed">IsTextValid</a> (<a class="el" href="../../dd/dfc/a07976.html">TradeskillLinkData</a> const &amp;data, std::string_view text)</td></tr>
+<tr class="separator:a33f6c3e46c24571a8eec083087618fed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a075621e69c80c128ec44cfb4f3ba0cf6"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a07952.html#a075621e69c80c128ec44cfb4f3ba0cf6">IsColorValid</a> (<a class="el" href="../../dd/dfc/a07976.html">TradeskillLinkData</a> const &amp;, <a class="el" href="../../d1/dbb/a08016.html">HyperlinkColor</a> c)</td></tr>
+<tr class="separator:a075621e69c80c128ec44cfb4f3ba0cf6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="adc6441ec52fab3ab8d2b58a146a3fef3" name="adc6441ec52fab3ab8d2b58a146a3fef3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adc6441ec52fab3ab8d2b58a146a3fef3">&#9670;&#160;</a></span>ConditionSourceInfo()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a075621e69c80c128ec44cfb4f3ba0cf6" name="a075621e69c80c128ec44cfb4f3ba0cf6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a075621e69c80c128ec44cfb4f3ba0cf6">&#9670;&#160;</a></span>IsColorValid()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -138,22 +130,16 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">ConditionSourceInfo::ConditionSourceInfo </td>
+          <td class="memname">static bool <a class="el" href="../../dc/d2e/a07920.html">LinkValidator</a>&lt; <a class="el" href="../../d3/d4c/a08012.html">LinkTags::trade</a> &gt;::IsColorValid </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/dc4/a08492.html">WorldObject</a> *&#160;</td>
-          <td class="paramname"><em>target0</em>, </td>
+          <td class="paramtype"><a class="el" href="../../dd/dfc/a07976.html">TradeskillLinkData</a> const &amp;&#160;</td>
+          <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/dc4/a08492.html">WorldObject</a> *&#160;</td>
-          <td class="paramname"><em>target1</em> = <code>nullptr</code>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/dc4/a08492.html">WorldObject</a> *&#160;</td>
-          <td class="paramname"><em>target2</em> = <code>nullptr</code>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d1/dbb/a08016.html">HyperlinkColor</a>&#160;</td>
+          <td class="paramname"><em>c</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -163,53 +149,58 @@ Public Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  188</span>    {</div>
-<div class="line"><span class="lineno">  189</span>        <a class="code hl_variable" href="../../d0/d20/a07952.html#acb67deba44021698a447e8288bca0bd4">mConditionTargets</a>[0] = target0;</div>
-<div class="line"><span class="lineno">  190</span>        <a class="code hl_variable" href="../../d0/d20/a07952.html#acb67deba44021698a447e8288bca0bd4">mConditionTargets</a>[1] = target1;</div>
-<div class="line"><span class="lineno">  191</span>        <a class="code hl_variable" href="../../d0/d20/a07952.html#acb67deba44021698a447e8288bca0bd4">mConditionTargets</a>[2] = target2;</div>
-<div class="line"><span class="lineno">  192</span>        <a class="code hl_variable" href="../../d0/d20/a07952.html#a099d3457a0a15d8feeacc0dc8c32d439">mLastFailedCondition</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  193</span>    }</div>
-<div class="ttc" id="aa07952_html_a099d3457a0a15d8feeacc0dc8c32d439"><div class="ttname"><a href="../../d0/d20/a07952.html#a099d3457a0a15d8feeacc0dc8c32d439">ConditionSourceInfo::mLastFailedCondition</a></div><div class="ttdeci">Condition * mLastFailedCondition</div><div class="ttdef"><b>Definition:</b> ConditionMgr.h:186</div></div>
-<div class="ttc" id="aa07952_html_acb67deba44021698a447e8288bca0bd4"><div class="ttname"><a href="../../d0/d20/a07952.html#acb67deba44021698a447e8288bca0bd4">ConditionSourceInfo::mConditionTargets</a></div><div class="ttdeci">WorldObject * mConditionTargets[MAX_CONDITION_TARGETS]</div><div class="ttdef"><b>Definition:</b> ConditionMgr.h:185</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  321</span>    {</div>
+<div class="line"><span class="lineno">  322</span>        <span class="keywordflow">return</span> c == <a class="code hl_enumvalue" href="../../dd/d90/a04127.html#aff4462a11392766622feb9f20463ffb6a08bcbc3172b1ac53afb9dac0fb8472b3">CHAT_LINK_COLOR_TRADE</a>;</div>
+<div class="line"><span class="lineno">  323</span>    }</div>
+<div class="ttc" id="aa04127_html_aff4462a11392766622feb9f20463ffb6a08bcbc3172b1ac53afb9dac0fb8472b3"><div class="ttname"><a href="../../dd/d90/a04127.html#aff4462a11392766622feb9f20463ffb6a08bcbc3172b1ac53afb9dac0fb8472b3">CHAT_LINK_COLOR_TRADE</a></div><div class="ttdeci">@ CHAT_LINK_COLOR_TRADE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3450</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00185">mConditionTargets</a>, and <a class="el" href="../../#l00186">mLastFailedCondition</a>.</p>
+<p class="reference">References <a class="el" href="../../#l03450">CHAT_LINK_COLOR_TRADE</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="acb67deba44021698a447e8288bca0bd4" name="acb67deba44021698a447e8288bca0bd4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acb67deba44021698a447e8288bca0bd4">&#9670;&#160;</a></span>mConditionTargets</h2>
+<a id="a33f6c3e46c24571a8eec083087618fed" name="a33f6c3e46c24571a8eec083087618fed"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a33f6c3e46c24571a8eec083087618fed">&#9670;&#160;</a></span>IsTextValid()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/dc4/a08492.html">WorldObject</a>* ConditionSourceInfo::mConditionTargets[<a class="el" href="../../d4/d41/a01661.html#ae7c221b877c671251f317a43dbea2583a153d6f442357998ef78b878dacace376">MAX_CONDITION_TARGETS</a>]</td>
+          <td class="memname">static bool <a class="el" href="../../dc/d2e/a07920.html">LinkValidator</a>&lt; <a class="el" href="../../d3/d4c/a08012.html">LinkTags::trade</a> &gt;::IsTextValid </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/dfc/a07976.html">TradeskillLinkData</a> const &amp;&#160;</td>
+          <td class="paramname"><em>data</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l05604">Spell::CheckCast()</a>, <a class="el" href="../../#l00187">ConditionSourceInfo()</a>, <a class="el" href="../../#l00037">Condition::Meets()</a>, and <a class="el" href="../../#l08963">Acore::WorldObjectSpellTargetCheck::operator()()</a>.</p>
-
-</div>
-</div>
-<a id="a099d3457a0a15d8feeacc0dc8c32d439" name="a099d3457a0a15d8feeacc0dc8c32d439"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a099d3457a0a15d8feeacc0dc8c32d439">&#9670;&#160;</a></span>mLastFailedCondition</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/d0c/a07956.html">Condition</a>* ConditionSourceInfo::mLastFailedCondition</td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>text</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l05604">Spell::CheckCast()</a>, <a class="el" href="../../#l00187">ConditionSourceInfo()</a>, and <a class="el" href="../../#l00037">Condition::Meets()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  316</span>    {</div>
+<div class="line"><span class="lineno">  317</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dc/d2e/a07920.html#a1c9a027ff1f355b16fe629b7c4af7b98">LinkValidator&lt;LinkTags::spell&gt;::IsTextValid</a>(data.Spell, text);</div>
+<div class="line"><span class="lineno">  318</span>    }</div>
+<div class="ttc" id="aa07920_html_a1c9a027ff1f355b16fe629b7c4af7b98"><div class="ttname"><a href="../../dc/d2e/a07920.html#a1c9a027ff1f355b16fe629b7c4af7b98">LinkValidator::IsTextValid</a></div><div class="ttdeci">static bool IsTextValid(typename T::value_type, std::string_view)</div><div class="ttdef"><b>Definition:</b> Hyperlinks.cpp:107</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00107">LinkValidator&lt; T &gt;::IsTextValid()</a>, and <a class="el" href="../../#l00083">Acore::Hyperlinks::TradeskillLinkData::Spell</a>.</p>
 
 </div>
 </div>
@@ -218,8 +209,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d0/d20/a07952.html">ConditionSourceInfo</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:11:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d0/d20/a07952.html">LinkValidator&lt; LinkTags::trade &gt;</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:15:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

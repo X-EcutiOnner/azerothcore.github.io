@@ -1,6 +1,6 @@
 var a16320 =
 [
-    [ "boss_general_zarithrianAI", "d7/ded/a16324.html", "d7/ded/a16324" ],
-    [ "boss_general_zarithrian", "d2/d36/a16320.html#a030c53b6ef1d75027ddfd298d49ab330", null ],
-    [ "GetAI", "d2/d36/a16320.html#a22ba4e0769dd9404ae043fb9c16233ff", null ]
+    [ "PrepareSpellScript", "d2/d36/a16320.html#a2a3602af522bb8658c1bfdede1234efd", null ],
+    [ "Register", "d2/d36/a16320.html#aba235111ea4e186064a85295466f2a3f", null ],
+    [ "SetDest", "d2/d36/a16320.html#a89827e4db37bea4847c79265d95386c6", null ]
 ];

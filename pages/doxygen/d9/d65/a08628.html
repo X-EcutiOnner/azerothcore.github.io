@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: PlayerClassInfo Struct Reference</title>
+<title>AzerothCore: PackedGuidReader Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,26 +108,26 @@ $(document).ready(function(){initNavTree('d9/d65/a08628.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d5/d89/a08625.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">PlayerClassInfo Struct Reference</div></div>
+  <div class="headertitle"><div class="title">PackedGuidReader Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a6a0a6db24e144593356e0505946e8f06"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d65/a08628.html#a6a0a6db24e144593356e0505946e8f06">PlayerClassInfo</a> ()=default</td></tr>
-<tr class="separator:a6a0a6db24e144593356e0505946e8f06"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aec7af2ed383e06998a0fa12b94da90e3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d65/a08628.html#aec7af2ed383e06998a0fa12b94da90e3">PackedGuidReader</a> (<a class="el" href="../../d7/dac/a08632.html">ObjectGuid</a> &amp;guid)</td></tr>
+<tr class="separator:aec7af2ed383e06998a0fa12b94da90e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:aa234b353361ef0017ec974ca4c8e86f1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/dc8/a08624.html">PlayerClassLevelInfo</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d65/a08628.html#aa234b353361ef0017ec974ca4c8e86f1">levelInfo</a> {nullptr}</td></tr>
-<tr class="separator:aa234b353361ef0017ec974ca4c8e86f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4de5d725a22f0a8ae4bb83cb51a72588"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/dac/a08632.html">ObjectGuid</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d65/a08628.html#a4de5d725a22f0a8ae4bb83cb51a72588">Guid</a></td></tr>
+<tr class="separator:a4de5d725a22f0a8ae4bb83cb51a72588"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a6a0a6db24e144593356e0505946e8f06" name="a6a0a6db24e144593356e0505946e8f06"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6a0a6db24e144593356e0505946e8f06">&#9670;&#160;</a></span>PlayerClassInfo()</h2>
+<a id="aec7af2ed383e06998a0fa12b94da90e3" name="aec7af2ed383e06998a0fa12b94da90e3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aec7af2ed383e06998a0fa12b94da90e3">&#9670;&#160;</a></span>PackedGuidReader()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -136,35 +136,38 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">PlayerClassInfo::PlayerClassInfo </td>
+          <td class="memname">PackedGuidReader::PackedGuidReader </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d7/dac/a08632.html">ObjectGuid</a> &amp;&#160;</td>
+          <td class="paramname"><em>guid</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-
+<div class="fragment"><div class="line"><span class="lineno">  113</span>: <a class="code hl_variable" href="../../d9/d65/a08628.html#a4de5d725a22f0a8ae4bb83cb51a72588">Guid</a>(guid) { }</div>
+<div class="ttc" id="aa08628_html_a4de5d725a22f0a8ae4bb83cb51a72588"><div class="ttname"><a href="../../d9/d65/a08628.html#a4de5d725a22f0a8ae4bb83cb51a72588">PackedGuidReader::Guid</a></div><div class="ttdeci">ObjectGuid &amp; Guid</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:114</div></div>
+</div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="aa234b353361ef0017ec974ca4c8e86f1" name="aa234b353361ef0017ec974ca4c8e86f1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa234b353361ef0017ec974ca4c8e86f1">&#9670;&#160;</a></span>levelInfo</h2>
+<a id="a4de5d725a22f0a8ae4bb83cb51a72588" name="a4de5d725a22f0a8ae4bb83cb51a72588"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4de5d725a22f0a8ae4bb83cb51a72588">&#9670;&#160;</a></span>Guid</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/dc8/a08624.html">PlayerClassLevelInfo</a>* PlayerClassInfo::levelInfo {nullptr}</td>
+          <td class="memname"><a class="el" href="../../d7/dac/a08632.html">ObjectGuid</a>&amp; PackedGuidReader::Guid</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l04777">ObjectMgr::GetPlayerClassLevelInfo()</a>, <a class="el" href="../../#l04156">ObjectMgr::LoadPlayerInfo()</a>, and <a class="el" href="../../#l00316">ObjectMgr::~ObjectMgr()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00087">operator&gt;&gt;()</a>.</p>
 
 </div>
 </div>
@@ -173,8 +176,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d9/d65/a08628.html">PlayerClassInfo</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:11:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/d65/a08628.html">PackedGuidReader</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:15:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

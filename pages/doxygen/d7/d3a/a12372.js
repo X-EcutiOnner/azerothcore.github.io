@@ -1,11 +1,6 @@
 var a12372 =
 [
-    [ "npc_blackhand_incarceratorAI", "d7/d3a/a12372.html#adecfd5bcc6bf5fee0688459ebac03e18", null ],
-    [ "DamageTaken", "d7/d3a/a12372.html#a3bc090518cba2bc64fb5c454bbb47b72", null ],
-    [ "JustEngagedWith", "d7/d3a/a12372.html#a2026328f428c4e5c15551773255da21f", null ],
-    [ "Reset", "d7/d3a/a12372.html#a3a98f2d5fd764c852a1d9418315cd56b", null ],
-    [ "SetData", "d7/d3a/a12372.html#ae9d92237c6327abd78ada9a306ee8a09", null ],
-    [ "UpdateAI", "d7/d3a/a12372.html#a1bc6aa88d7bc5163e2cc4e2cc1779076", null ],
-    [ "_events", "d7/d3a/a12372.html#abcd817233c0cb85656856c4107d86793", null ],
-    [ "_fleedForAssistance", "d7/d3a/a12372.html#ab4e59b91b47dffc19db6b49ecd4c9fd8", null ]
+    [ "boss_gorosh_the_dervishAI", "d0/ddf/a12376.html", "d0/ddf/a12376" ],
+    [ "boss_gorosh_the_dervish", "d7/d3a/a12372.html#a18c39f21ebf6a9d43d37eb92857083a3", null ],
+    [ "GetAI", "d7/d3a/a12372.html#abae1fa2a7e959d1b7b02e0850aff4fb9", null ]
 ];

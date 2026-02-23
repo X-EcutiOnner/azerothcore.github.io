@@ -1,6 +1,6 @@
 var a15376 =
 [
-    [ "HandleScriptEffect", "d3/dbe/a15376.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
-    [ "PrepareSpellScript", "d3/dbe/a15376.html#aa109d61baba87acf5bce5d44bff55214", null ],
-    [ "Register", "d3/dbe/a15376.html#ac8412777c84abfe56262d6d83163e9a1", null ]
+    [ "npc_belnistraszAI", "d5/dbd/a15380.html", "d5/dbd/a15380" ],
+    [ "npc_belnistrasz", "d3/dbe/a15376.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
+    [ "GetAI", "d3/dbe/a15376.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
 ];

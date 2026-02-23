@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Containers Namespace Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellProcDBCValidationTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,64 +105,105 @@ $(document).ready(function(){initNavTree('d7/d61/a04868.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Containers Namespace Reference</div></div>
+  <div class="headertitle"><div class="title">SpellProcDBCValidationTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><a class="el" href="../../d4/d43/a08960.html">Unit</a> tests for validating spell_proc entries against Spell.dbc.  
+<a href="#details">More...</a></p>
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">SpellProcTestData.h</a>&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
+<code>#include &lt;algorithm&gt;</code><br />
+<code>#include &lt;map&gt;</code><br />
+<code>#include &lt;set&gt;</code><br />
+</div>
+<p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/df9/a29644.html">SpellProcDBCValidationTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dbf/a29648.html">SpellProcDBCValidationParamTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ad8b2c621f5a22f8ae253a1c9733794b9"><td class="memTemplParams" colspan="2">template&lt;class C &gt; </td></tr>
-<tr class="memitem:ad8b2c621f5a22f8ae253a1c9733794b9"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html#ad8b2c621f5a22f8ae253a1c9733794b9">RandomResize</a> (C &amp;container, std::size_t requestedSize)</td></tr>
-<tr class="separator:ad8b2c621f5a22f8ae253a1c9733794b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a356dc36492769fc1473e5f5214bd6a11"><td class="memTemplParams" colspan="2">template&lt;class C , class Predicate &gt; </td></tr>
-<tr class="memitem:a356dc36492769fc1473e5f5214bd6a11"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html#a356dc36492769fc1473e5f5214bd6a11">RandomResize</a> (C &amp;container, Predicate &amp;&amp;predicate, std::size_t requestedSize)</td></tr>
-<tr class="separator:a356dc36492769fc1473e5f5214bd6a11"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8ca673d18562735d4ed20a11519b3d46"><td class="memTemplParams" colspan="2">template&lt;class C &gt; </td></tr>
-<tr class="memitem:a8ca673d18562735d4ed20a11519b3d46"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html#a8ca673d18562735d4ed20a11519b3d46">SelectRandomContainerElement</a> (C const &amp;container) -&gt; typename std::add_const&lt; decltype(*std::begin(container))&gt;::type &amp;</td></tr>
-<tr class="separator:a8ca673d18562735d4ed20a11519b3d46"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1a2b0eddd5cd5b91e5dc86ca27f0bb86"><td class="memTemplParams" colspan="2">template&lt;class C , class Predicate &gt; </td></tr>
-<tr class="memitem:a1a2b0eddd5cd5b91e5dc86ca27f0bb86"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html#a1a2b0eddd5cd5b91e5dc86ca27f0bb86">SelectRandomContainerElementIf</a> (C const &amp;container, Predicate &amp;&amp;predicate) -&gt; decltype(std::begin(container))</td></tr>
-<tr class="separator:a1a2b0eddd5cd5b91e5dc86ca27f0bb86"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a220cb6c43559036273f478f15d047eb9"><td class="memTemplParams" colspan="2">template&lt;class C &gt; </td></tr>
-<tr class="memitem:a220cb6c43559036273f478f15d047eb9"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html#a220cb6c43559036273f478f15d047eb9">SelectRandomWeightedContainerElement</a> (C const &amp;container, std::vector&lt; double &gt; weights) -&gt; decltype(std::begin(container))</td></tr>
-<tr class="separator:a220cb6c43559036273f478f15d047eb9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4e1de71c76e525a6fdf4c76b0d09c94b"><td class="memTemplParams" colspan="2">template&lt;class C , class Fn &gt; </td></tr>
-<tr class="memitem:a4e1de71c76e525a6fdf4c76b0d09c94b"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html#a4e1de71c76e525a6fdf4c76b0d09c94b">SelectRandomWeightedContainerElement</a> (C const &amp;container, Fn weightExtractor) -&gt; decltype(std::begin(container))</td></tr>
-<tr class="separator:a4e1de71c76e525a6fdf4c76b0d09c94b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a288324cfca487d8ecc2eab8a6014c513"><td class="memTemplParams" colspan="2">template&lt;class M &gt; </td></tr>
-<tr class="memitem:a288324cfca487d8ecc2eab8a6014c513"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html#a288324cfca487d8ecc2eab8a6014c513">MapGetValuePtr</a> (M &amp;map, typename M::key_type const &amp;key) -&gt; decltype(<a class="el" href="../../db/d08/a04848.html#aa676a34e943f3ea366194be6f31da865">AddressOrSelf</a>(map.find(key) -&gt;second))</td></tr>
-<tr class="separator:a288324cfca487d8ecc2eab8a6014c513"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4585a27b1f592547062d7bc039cff3b4"><td class="memTemplParams" colspan="2">template&lt;class C &gt; </td></tr>
-<tr class="memitem:a4585a27b1f592547062d7bc039cff3b4"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html#a4585a27b1f592547062d7bc039cff3b4">RandomShuffle</a> (C &amp;container)</td></tr>
-<tr class="separator:a4585a27b1f592547062d7bc039cff3b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a965e5e257e71e0d1a8c708fbd00867a7"><td class="memTemplParams" colspan="2">template&lt;class K , class V , template&lt; class, class, class... &gt; class M, class... Rest&gt; </td></tr>
-<tr class="memitem:a965e5e257e71e0d1a8c708fbd00867a7"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html#a965e5e257e71e0d1a8c708fbd00867a7">MultimapErasePair</a> (M&lt; K, V, Rest... &gt; &amp;multimap, K const &amp;key, V const &amp;value)</td></tr>
-<tr class="separator:a965e5e257e71e0d1a8c708fbd00867a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7821713bb3723db62da8a4d0e3711407"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html#a7821713bb3723db62da8a4d0e3711407">EraseIf</a> (<a class="el" href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &amp;c, Predicate p)</td></tr>
-<tr class="separator:a7821713bb3723db62da8a4d0e3711407"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8700eb31c04be5cf6c6ecc86e76cadad"><td class="memTemplParams" colspan="2">template&lt;class M &gt; </td></tr>
-<tr class="memitem:a8700eb31c04be5cf6c6ecc86e76cadad"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html#a8700eb31c04be5cf6c6ecc86e76cadad">MapEqualRange</a> (M &amp;map, typename M::key_type const &amp;key) -&gt; <a class="el" href="../../d3/d99/a05585.html">IteratorPair</a>&lt; decltype(map.begin())&gt;</td></tr>
-<tr class="separator:a8700eb31c04be5cf6c6ecc86e76cadad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c2b63e811e5bae6092ac12f33e514b8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html#a9c2b63e811e5bae6092ac12f33e514b8">TEST_P</a> (<a class="el" href="../../d2/dbf/a29648.html">SpellProcDBCValidationParamTest</a>, EntryHasValidSpellId)</td></tr>
+<tr class="separator:a9c2b63e811e5bae6092ac12f33e514b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1bcaae4dcd5fec113966d51c2f6f60d0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html#a1bcaae4dcd5fec113966d51c2f6f60d0">INSTANTIATE_TEST_SUITE_P</a> (AllSpellProcEntries, <a class="el" href="../../d2/dbf/a29648.html">SpellProcDBCValidationParamTest</a>, ::testing::ValuesIn(<a class="el" href="../../db/dab/a04877.html#a39025d5b336e745566f739e9d1f68e78">GetAllSpellProcTestEntries</a>()), [](const testing::TestParamInfo&lt; <a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a> &gt; &amp;info) { int32_t id=info.param.SpellId;if(id&lt; 0) return &quot;SpellId_N&quot;+std::to_string(-id);return &quot;SpellId_&quot;+std::to_string(id);})</td></tr>
+<tr class="separator:a1bcaae4dcd5fec113966d51c2f6f60d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3140cdc3c6be8230853a19725adce0df"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html#a3140cdc3c6be8230853a19725adce0df">TEST_F</a> (<a class="el" href="../../d7/df9/a29644.html">SpellProcDBCValidationTest</a>, CountEntriesWithDBCData)</td></tr>
+<tr class="separator:a3140cdc3c6be8230853a19725adce0df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4dd4a9f2ad7b9f9c90f178e412d6853a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html#a4dd4a9f2ad7b9f9c90f178e412d6853a">TEST_F</a> (<a class="el" href="../../d7/df9/a29644.html">SpellProcDBCValidationTest</a>, CountEntriesAddingValue)</td></tr>
+<tr class="separator:a4dd4a9f2ad7b9f9c90f178e412d6853a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae6111f031cb367b403d6c1fae593245"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html#aae6111f031cb367b403d6c1fae593245">TEST_F</a> (<a class="el" href="../../d7/df9/a29644.html">SpellProcDBCValidationTest</a>, CategorizeEntriesByFeature)</td></tr>
+<tr class="separator:aae6111f031cb367b403d6c1fae593245"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67fce2ede01fc117b24ed6c0015ee5d5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html#a67fce2ede01fc117b24ed6c0015ee5d5">TEST_F</a> (<a class="el" href="../../d7/df9/a29644.html">SpellProcDBCValidationTest</a>, IdentifyDBCOverrides)</td></tr>
+<tr class="separator:a67fce2ede01fc117b24ed6c0015ee5d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a16d0dc4448f95f4d571e474baa22b657"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html#a16d0dc4448f95f4d571e474baa22b657">TEST_F</a> (<a class="el" href="../../d7/df9/a29644.html">SpellProcDBCValidationTest</a>, CountNegativeSpellIds)</td></tr>
+<tr class="separator:a16d0dc4448f95f4d571e474baa22b657"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a14eea23ad6fde730eac3ff84fdffc8ad"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html#a14eea23ad6fde730eac3ff84fdffc8ad">TEST_F</a> (<a class="el" href="../../d7/df9/a29644.html">SpellProcDBCValidationTest</a>, CoverageBySpellFamily)</td></tr>
+<tr class="separator:a14eea23ad6fde730eac3ff84fdffc8ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a918f689a14967e97deeb88c36f959a81"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html#a918f689a14967e97deeb88c36f959a81">TEST_F</a> (<a class="el" href="../../d7/df9/a29644.html">SpellProcDBCValidationTest</a>, NoDuplicateSpellIds)</td></tr>
+<tr class="separator:a918f689a14967e97deeb88c36f959a81"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5d68edc629baf508a75ad0306d5a9123"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html#a5d68edc629baf508a75ad0306d5a9123">TEST_F</a> (<a class="el" href="../../d7/df9/a29644.html">SpellProcDBCValidationTest</a>, AllEntriesHaveValidStructure)</td></tr>
+<tr class="separator:a5d68edc629baf508a75ad0306d5a9123"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a7821713bb3723db62da8a4d0e3711407" name="a7821713bb3723db62da8a4d0e3711407"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7821713bb3723db62da8a4d0e3711407">&#9670;&#160;</a></span>EraseIf()</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p ><a class="el" href="../../d4/d43/a08960.html">Unit</a> tests for validating spell_proc entries against Spell.dbc. </p>
+<p >Tests validate that spell_proc entries provide value beyond DBC defaults:</p><ul>
+<li>Entries that override DBC ProcFlags/ProcChance/ProcCharges</li>
+<li>Entries that add new functionality (PPM, cooldowns, filtering)</li>
+<li>Identification of potentially redundant entries</li>
+</ul>
+<hr  />
+ <h1><a class="anchor" id="autotoc_md4"></a>
+DBC DATA POPULATION STATUS</h1>
+<p >The DBC_ProcFlags, DBC_ProcChance, and DBC_ProcCharges fields in <a class="el" href="../../da/deb/a29696.html" title="Test data entry from spell_proc table with DBC comparison data.">SpellProcTestEntry</a> are currently populated with zeros (0, 0, 0) for all entries. To fully validate spell_proc entries against DBC:</p>
+<ol type="1">
+<li>Use the generate_spell_proc_dbc_data.py script with MCP connection</li>
+<li>Or manually query: get_spell_dbc_proc_info(spell_id) for each spell</li>
+</ol>
+<p >Tests that require DBC data will check HasDBCData() and skip appropriately. Once DBC data is populated, the statistics tests will show:</p><ul>
+<li>How many entries override DBC defaults</li>
+<li>How many entries add new functionality not in DBC </li>
+</ul>
+<h1><a class="anchor" id="autotoc_md5"></a>
+- How many entries might be redundant (just duplicate DBC values)</h1>
+
+<p class="definition">Definition in file <a class="el" href="../../">SpellProcDBCValidationTest.cpp</a>.</p>
+</div><h2 class="groupheader">Function Documentation</h2>
+<a id="a1bcaae4dcd5fec113966d51c2f6f60d0" name="a1bcaae4dcd5fec113966d51c2f6f60d0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1bcaae4dcd5fec113966d51c2f6f60d0">&#9670;&#160;</a></span>INSTANTIATE_TEST_SUITE_P()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void Acore::Containers::EraseIf </td>
+          <td class="memname">INSTANTIATE_TEST_SUITE_P </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &amp;&#160;</td>
-          <td class="paramname"><em>c</em>, </td>
+          <td class="paramtype">AllSpellProcEntries&#160;</td>
+          <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Predicate&#160;</td>
-          <td class="paramname"><em>p</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d2/dbf/a29648.html">SpellProcDBCValidationParamTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">::testing::ValuesIn(<a class="el" href="../../db/dab/a04877.html#a39025d5b336e745566f739e9d1f68e78">GetAllSpellProcTestEntries</a>())&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">[] (const testing::TestParamInfo&lt; <a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a> &gt; &amp;info) { int32_t id=info.param.SpellId;if(id&lt; 0) return &quot;SpellId_N&quot;+std::to_string(-id);return &quot;SpellId_&quot;+std::to_string(id);}&#160;</td>
+          <td class="paramname">&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -171,144 +212,26 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  254</span>    {</div>
-<div class="line"><span class="lineno">  255</span>        <span class="keyword">auto</span> wpos = c.begin();</div>
-<div class="line"><span class="lineno">  256</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> rpos = c.begin(), end = c.end(); rpos != end; ++rpos)</div>
-<div class="line"><span class="lineno">  257</span>        {</div>
-<div class="line"><span class="lineno">  258</span>            <span class="keywordflow">if</span> (!p(*rpos))</div>
-<div class="line"><span class="lineno">  259</span>            {</div>
-<div class="line"><span class="lineno">  260</span>                <span class="keywordflow">if</span> (rpos != wpos)</div>
-<div class="line"><span class="lineno">  261</span>                {</div>
-<div class="line"><span class="lineno">  262</span>                    std::swap(*rpos, *wpos);</div>
-<div class="line"><span class="lineno">  263</span>                }</div>
-<div class="line"><span class="lineno">  264</span>                ++wpos;</div>
-<div class="line"><span class="lineno">  265</span>            }</div>
-<div class="line"><span class="lineno">  266</span>        }</div>
-<div class="line"><span class="lineno">  267</span>        c.erase(wpos, c.end());</div>
-<div class="line"><span class="lineno">  268</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
 
 </div>
 </div>
-<a id="a8700eb31c04be5cf6c6ecc86e76cadad" name="a8700eb31c04be5cf6c6ecc86e76cadad"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8700eb31c04be5cf6c6ecc86e76cadad">&#9670;&#160;</a></span>MapEqualRange()</h2>
+<a id="a5d68edc629baf508a75ad0306d5a9123" name="a5d68edc629baf508a75ad0306d5a9123"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5d68edc629baf508a75ad0306d5a9123">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/8]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class M &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">auto Acore::Containers::MapEqualRange </td>
+          <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype">M &amp;&#160;</td>
-          <td class="paramname"><em>map</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d7/df9/a29644.html">SpellProcDBCValidationTest</a>&#160;</td>
+          <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">typename M::key_type const &amp;&#160;</td>
-          <td class="paramname"><em>key</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> -&gt; <a class="el" href="../../d3/d99/a05585.html">IteratorPair</a>&lt;decltype(map.begin())&gt;
-        </td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   49</span>        {</div>
-<div class="line"><span class="lineno">   50</span>            <span class="keywordflow">return</span> { map.equal_range(key) };</div>
-<div class="line"><span class="lineno">   51</span>        }</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00605">SpellMgr::GetSpellsRequiredForSpellBounds()</a>.</p>
-
-</div>
-</div>
-<a id="a288324cfca487d8ecc2eab8a6014c513" name="a288324cfca487d8ecc2eab8a6014c513"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a288324cfca487d8ecc2eab8a6014c513">&#9670;&#160;</a></span>MapGetValuePtr()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class M &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">auto Acore::Containers::MapGetValuePtr </td>
-          <td>(</td>
-          <td class="paramtype">M &amp;&#160;</td>
-          <td class="paramname"><em>map</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">typename M::key_type const &amp;&#160;</td>
-          <td class="paramname"><em>key</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> -&gt; decltype(<a class="el" href="../../db/d08/a04848.html#aa676a34e943f3ea366194be6f31da865">AddressOrSelf</a>(map.find(key)-&gt;second))
-    </td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<p >Returns a pointer to mapped value (or the value itself if map stores pointers) </p>
-<div class="fragment"><div class="line"><span class="lineno">  217</span>    {</div>
-<div class="line"><span class="lineno">  218</span>        <span class="keyword">auto</span> itr = map.find(key);</div>
-<div class="line"><span class="lineno">  219</span>        <span class="keywordflow">return</span> itr != map.end() ? <a class="code hl_function" href="../../db/d08/a04848.html#aa676a34e943f3ea366194be6f31da865">AddressOrSelf</a>(itr-&gt;second) : nullptr;</div>
-<div class="line"><span class="lineno">  220</span>    }</div>
-<div class="ttc" id="aa04848_html_aa676a34e943f3ea366194be6f31da865"><div class="ttname"><a href="../../db/d08/a04848.html#aa676a34e943f3ea366194be6f31da865">Acore::AddressOrSelf</a></div><div class="ttdeci">constexpr T * AddressOrSelf(T *ptr)</div><div class="ttdef"><b>Definition:</b> Containers.h:31</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">Acore::AddressOrSelf()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01440">ObjectMgr::GetCreatureMovementOverride()</a>, <a class="el" href="../../#l00254">GetFlyByCameras()</a>, <a class="el" href="../../#l09852">ObjectMgr::GetTrainer()</a>, <a class="el" href="../../#l00039">WeatherMgr::GetWeatherData()</a>, <a class="el" href="../../#l09707">ObjectMgr::LoadTrainers()</a>, and <a class="el" href="../../#l00175">Arena::RemovePlayerAtLeave()</a>.</p>
-
-</div>
-</div>
-<a id="a965e5e257e71e0d1a8c708fbd00867a7" name="a965e5e257e71e0d1a8c708fbd00867a7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a965e5e257e71e0d1a8c708fbd00867a7">&#9670;&#160;</a></span>MultimapErasePair()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class K , class V , template&lt; class, class, class... &gt; class M, class... Rest&gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void Acore::Containers::MultimapErasePair </td>
-          <td>(</td>
-          <td class="paramtype">M&lt; K, V, Rest... &gt; &amp;&#160;</td>
-          <td class="paramname"><em>multimap</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">K const &amp;&#160;</td>
-          <td class="paramname"><em>key</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">V const &amp;&#160;</td>
-          <td class="paramname"><em>value</em>&#160;</td>
+          <td class="paramtype">AllEntriesHaveValidStructure&#160;</td>
+          <td class="paramname">&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -317,50 +240,56 @@ template&lt;class K , class V , template&lt; class, class, class... &gt; class M
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  237</span>    {</div>
-<div class="line"><span class="lineno">  238</span>        <span class="keyword">auto</span> range = multimap.equal_range(key);</div>
-<div class="line"><span class="lineno">  239</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> itr = range.first; itr != range.second;)</div>
-<div class="line"><span class="lineno">  240</span>        {</div>
-<div class="line"><span class="lineno">  241</span>            <span class="keywordflow">if</span> (itr-&gt;second == value)</div>
-<div class="line"><span class="lineno">  242</span>            {</div>
-<div class="line"><span class="lineno">  243</span>                itr = multimap.erase(itr);</div>
-<div class="line"><span class="lineno">  244</span>            }</div>
-<div class="line"><span class="lineno">  245</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  246</span>            {</div>
-<div class="line"><span class="lineno">  247</span>                ++itr;</div>
-<div class="line"><span class="lineno">  248</span>            }</div>
-<div class="line"><span class="lineno">  249</span>        }</div>
-<div class="line"><span class="lineno">  250</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  340</span>{</div>
+<div class="line"><span class="lineno">  341</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; entry : _allEntries)</div>
+<div class="line"><span class="lineno">  342</span>    {</div>
+<div class="line"><span class="lineno">  343</span>        <span class="comment">// SpellId must be non-zero</span></div>
+<div class="line"><span class="lineno">  344</span>        EXPECT_NE(entry.SpellId, 0)</div>
+<div class="line"><span class="lineno">  345</span>            &lt;&lt; <span class="stringliteral">&quot;SpellId cannot be zero&quot;</span>;</div>
+<div class="line"><span class="lineno">  346</span> </div>
+<div class="line"><span class="lineno">  347</span>        <span class="comment">// If Chance is set, it should be reasonable (0-100, or 101 for 100% from DBC)</span></div>
+<div class="line"><span class="lineno">  348</span>        <span class="keywordflow">if</span> (entry.Chance &gt; 0)</div>
+<div class="line"><span class="lineno">  349</span>        {</div>
+<div class="line"><span class="lineno">  350</span>            EXPECT_LE(entry.Chance, 101.0f)</div>
+<div class="line"><span class="lineno">  351</span>                &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; entry.SpellId &lt;&lt; <span class="stringliteral">&quot; has unusual Chance: &quot;</span> &lt;&lt; entry.Chance;</div>
+<div class="line"><span class="lineno">  352</span>        }</div>
+<div class="line"><span class="lineno">  353</span> </div>
+<div class="line"><span class="lineno">  354</span>        <span class="comment">// PPM should be reasonable (typically 0-60)</span></div>
+<div class="line"><span class="lineno">  355</span>        <span class="keywordflow">if</span> (entry.ProcsPerMinute &gt; 0)</div>
+<div class="line"><span class="lineno">  356</span>        {</div>
+<div class="line"><span class="lineno">  357</span>            EXPECT_LE(entry.ProcsPerMinute, 60.0f)</div>
+<div class="line"><span class="lineno">  358</span>                &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; entry.SpellId &lt;&lt; <span class="stringliteral">&quot; has unusual PPM: &quot;</span> &lt;&lt; entry.ProcsPerMinute;</div>
+<div class="line"><span class="lineno">  359</span>        }</div>
+<div class="line"><span class="lineno">  360</span> </div>
+<div class="line"><span class="lineno">  361</span>        <span class="comment">// SpellPhaseMask should use valid values</span></div>
+<div class="line"><span class="lineno">  362</span>        <span class="keywordflow">if</span> (entry.SpellPhaseMask != 0)</div>
+<div class="line"><span class="lineno">  363</span>        {</div>
+<div class="line"><span class="lineno">  364</span>            <span class="comment">// Valid phase masks: PROC_SPELL_PHASE_CAST(1), PROC_SPELL_PHASE_HIT(2), PROC_SPELL_PHASE_FINISH(4)</span></div>
+<div class="line"><span class="lineno">  365</span>            EXPECT_LE(entry.SpellPhaseMask, 7u)</div>
+<div class="line"><span class="lineno">  366</span>                &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; entry.SpellId &lt;&lt; <span class="stringliteral">&quot; has unusual SpellPhaseMask: &quot;</span> &lt;&lt; entry.SpellPhaseMask;</div>
+<div class="line"><span class="lineno">  367</span>        }</div>
+<div class="line"><span class="lineno">  368</span>    }</div>
+<div class="line"><span class="lineno">  369</span>}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00340">Creature::RemoveFromWorld()</a>, and <a class="el" href="../../#l00173">GameObject::RemoveFromWorld()</a>.</p>
-
 </div>
 </div>
-<a id="a356dc36492769fc1473e5f5214bd6a11" name="a356dc36492769fc1473e5f5214bd6a11"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a356dc36492769fc1473e5f5214bd6a11">&#9670;&#160;</a></span>RandomResize() <span class="overload">[1/2]</span></h2>
+<a id="aae6111f031cb367b403d6c1fae593245" name="aae6111f031cb367b403d6c1fae593245"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aae6111f031cb367b403d6c1fae593245">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/8]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class C , class Predicate &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">void Acore::Containers::RandomResize </td>
+          <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype">C &amp;&#160;</td>
-          <td class="paramname"><em>container</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d7/df9/a29644.html">SpellProcDBCValidationTest</a>&#160;</td>
+          <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Predicate &amp;&amp;&#160;</td>
-          <td class="paramname"><em>predicate</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::size_t&#160;</td>
-          <td class="paramname"><em>requestedSize</em>&#160;</td>
+          <td class="paramtype">CategorizeEntriesByFeature&#160;</td>
+          <td class="paramname">&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -369,320 +298,420 @@ template&lt;class C , class Predicate &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<p >First use predicate filter</p>
-<div class="fragment"><div class="line"><span class="lineno">  114</span>    {</div>
-<div class="line"><span class="lineno">  116</span>        C containerCopy;</div>
-<div class="line"><span class="lineno">  117</span>        std::copy_if(std::begin(container), std::end(container), std::inserter(containerCopy, std::end(containerCopy)), predicate);</div>
-<div class="line"><span class="lineno">  118</span> </div>
-<div class="line"><span class="lineno">  119</span>        <span class="keywordflow">if</span> (requestedSize)</div>
-<div class="line"><span class="lineno">  120</span>        {</div>
-<div class="line"><span class="lineno">  121</span>            <a class="code hl_function" href="../../d7/d61/a04868.html#ad8b2c621f5a22f8ae253a1c9733794b9">RandomResize</a>(containerCopy, requestedSize);</div>
-<div class="line"><span class="lineno">  122</span>        }</div>
-<div class="line"><span class="lineno">  123</span> </div>
-<div class="line"><span class="lineno">  124</span>        container = std::move(containerCopy);</div>
-<div class="line"><span class="lineno">  125</span>    }</div>
-<div class="ttc" id="aa04868_html_ad8b2c621f5a22f8ae253a1c9733794b9"><div class="ttname"><a href="../../d7/d61/a04868.html#ad8b2c621f5a22f8ae253a1c9733794b9">Acore::Containers::RandomResize</a></div><div class="ttdeci">void RandomResize(C &amp;container, std::size_t requestedSize)</div><div class="ttdef"><b>Definition:</b> Containers.h:79</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00079">RandomResize()</a>.</p>
-
-</div>
-</div>
-<a id="ad8b2c621f5a22f8ae253a1c9733794b9" name="ad8b2c621f5a22f8ae253a1c9733794b9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad8b2c621f5a22f8ae253a1c9733794b9">&#9670;&#160;</a></span>RandomResize() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class C &gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void Acore::Containers::RandomResize </td>
-          <td>(</td>
-          <td class="paramtype">C &amp;&#160;</td>
-          <td class="paramname"><em>container</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::size_t&#160;</td>
-          <td class="paramname"><em>requestedSize</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   80</span>    {</div>
-<div class="line"><span class="lineno">   81</span>        <span class="keyword">static_assert</span>(std::is_base_of&lt;std::forward_iterator_tag, typename std::iterator_traits&lt;typename C::iterator&gt;::iterator_category&gt;::value, <span class="stringliteral">&quot;Invalid container passed to Acore::Containers::RandomResize&quot;</span>);</div>
-<div class="line"><span class="lineno">   82</span> </div>
-<div class="line"><span class="lineno">   83</span>        <span class="keywordflow">if</span> (std::size(container) &lt;= requestedSize)</div>
-<div class="line"><span class="lineno">   84</span>        {</div>
-<div class="line"><span class="lineno">   85</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   86</span>        }</div>
-<div class="line"><span class="lineno">   87</span> </div>
-<div class="line"><span class="lineno">   88</span>        <span class="keyword">auto</span> keepIt = std::begin(container), curIt = std::begin(container);</div>
-<div class="line"><span class="lineno">   89</span>        <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> elementsToKeep = requestedSize, elementsToProcess = std::size(container);</div>
-<div class="line"><span class="lineno">   90</span> </div>
-<div class="line"><span class="lineno">   91</span>        <span class="keywordflow">while</span> (elementsToProcess)</div>
-<div class="line"><span class="lineno">   92</span>        {</div>
-<div class="line"><span class="lineno">   93</span>            <span class="comment">// this element has chance (elementsToKeep / elementsToProcess) of being kept</span></div>
-<div class="line"><span class="lineno">   94</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d0/d89/a00071.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(1, elementsToProcess) &lt;= elementsToKeep)</div>
-<div class="line"><span class="lineno">   95</span>            {</div>
-<div class="line"><span class="lineno">   96</span>                <span class="keywordflow">if</span> (keepIt != curIt)</div>
-<div class="line"><span class="lineno">   97</span>                {</div>
-<div class="line"><span class="lineno">   98</span>                    *keepIt = std::move(*curIt);</div>
-<div class="line"><span class="lineno">   99</span>                }</div>
-<div class="line"><span class="lineno">  100</span> </div>
-<div class="line"><span class="lineno">  101</span>                ++keepIt;</div>
-<div class="line"><span class="lineno">  102</span>                --elementsToKeep;</div>
-<div class="line"><span class="lineno">  103</span>            }</div>
-<div class="line"><span class="lineno">  104</span> </div>
-<div class="line"><span class="lineno">  105</span>            ++curIt;</div>
-<div class="line"><span class="lineno">  106</span>            --elementsToProcess;</div>
-<div class="line"><span class="lineno">  107</span>        }</div>
-<div class="line"><span class="lineno">  108</span> </div>
-<div class="line"><span class="lineno">  109</span>        container.erase(keepIt, std::end(container));</div>
-<div class="line"><span class="lineno">  110</span>    }</div>
-<div class="ttc" id="aa00071_html_ab17def34ccbbd868dc87a16bf35acdbd"><div class="ttname"><a href="../../d0/d89/a00071.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a></div><div class="ttdeci">uint32 urand(uint32 min, uint32 max)</div><div class="ttdef"><b>Definition:</b> Random.cpp:44</div></div>
-<div class="ttc" id="aa00485_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00044">urand()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00098">at_hol_hall_of_watchers::_OnTrigger()</a>, <a class="el" href="../../#l00080">boss_chromaggus::boss_chromaggusAI::boss_chromaggusAI()</a>, <a class="el" href="../../#l00241">boss_victor_nefarius::boss_victor_nefariusAI::boss_victor_nefariusAI()</a>, <a class="el" href="../../#l00788">npc_hallows_end_soh::CastFires()</a>, <a class="el" href="../../#l00590">spell_pal_divine_storm_dummy::CountTargets()</a>, <a class="el" href="../../#l01114">spell_class_call_polymorph::FilterTargets()</a>, <a class="el" href="../../#l00121">spell_shazzrah_gate_dummy::FilterTargets()</a>, <a class="el" href="../../#l00370">spell_malchezaar_enfeeble::FilterTargets()</a>, <a class="el" href="../../#l00409">spell_flamewreath::FilterTargets()</a>, <a class="el" href="../../#l00404">spell_eredar_twins_flame_sear::FilterTargets()</a>, <a class="el" href="../../#l00442">spell_kalecgos_spectral_blast_dummy::FilterTargets()</a>, <a class="el" href="../../#l00342">spell_blood_siphon::FilterTargets()</a>, <a class="el" href="../../#l00031">spell_axe_flurry::FilterTargets()</a>, <a class="el" href="../../#l00146">spell_anetheron_sleep::FilterTargets()</a>, <a class="el" href="../../#l00152">spell_moam_mana_drain_filter::FilterTargets()</a>, <a class="el" href="../../#l00443">spell_mutate_explode_bug::FilterTargets()</a>, <a class="el" href="../../#l00693">spell_blood_queen_bloodbolt::FilterTargets()</a>, <a class="el" href="../../#l01263">spell_deathbringer_boiling_blood::FilterTargets()</a>, <a class="el" href="../../#l01173">spell_putricide_unbound_plague::FilterTargets()</a>, <a class="el" href="../../#l01192">spell_hodir_periodic_icicle::FilterTargets()</a>, <a class="el" href="../../#l01485">spell_q24545_aod_special::FilterTargets()</a>, <a class="el" href="../../#l00154">spell_talon_king_ikiss_blink::FilterTargets()</a>, <a class="el" href="../../#l00295">spell_mother_shahraz_fatal_attraction::FilterTargets()</a>, <a class="el" href="../../#l00354">spell_lady_vashj_summons::FilterTargets()</a>, <a class="el" href="../../#l00153">spell_morogrim_tidewalker_watery_grave::FilterTargets()</a>, <a class="el" href="../../#l00389">spell_magtheridon_debris_target_selector::FilterTargets()</a>, <a class="el" href="../../#l00260">spell_blade_dance_targeting::FilterTargets()</a>, <a class="el" href="../../#l00925">spell_dru_starfall_dummy::FilterTargets()</a>, <a class="el" href="../../#l00669">spell_gen_select_target_count::FilterTargets()</a>, <a class="el" href="../../#l00866">spell_sindragosa_unchained_magic::FilterTargets()</a>, <a class="el" href="../../#l00192">spell_morogrim_tidewalker_water_globule_new_target::FilterTargets()</a>, <a class="el" href="../../#l00286">spell_tsh_shoot_flame_arrow::FilterTargets()</a>, <a class="el" href="../../#l00542">npc_hyjal_ground_trash::GetNearbyFriendlyTrashCreature()</a>, <a class="el" href="../../#l03491">SmartScript::GetTargets()</a>, <a class="el" href="../../#l01173">npc_echo_of_medivh::HandleCheat()</a>, <a class="el" href="../../#l01082">spell_kaelthas_nether_beam::HandleScriptEffect()</a>, <a class="el" href="../../#l00089">boss_priestess_delrissa::InitializeAI()</a>, <a class="el" href="../../#l00240">npc_obsidian_eradicator::JustEngagedWith()</a>, <a class="el" href="../../#l00364">npc_obsidian_nullifier::JustEngagedWith()</a>, <a class="el" href="../../#l01311">spell_dreamwalker_summon_suppresser_aura::PeriodicTick()</a>, <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>, <a class="el" href="../../#l00113">RandomResize()</a>, <a class="el" href="../../#l02112">spell_svalna_revive_champion::RemoveAliveTarget()</a>, <a class="el" href="../../#l01261">Spell::SelectImplicitAreaTargets()</a>, <a class="el" href="../../#l01215">Spell::SelectImplicitConeTargets()</a>, <a class="el" href="../../#l02190">spell_igb_explosion::SelectTarget()</a>, <a class="el" href="../../#l00282">UnitAI::SelectTargetList()</a>, <a class="el" href="../../#l00306">PoolGroup&lt; T &gt;::SpawnObject()</a>, <a class="el" href="../../#l00064">boss_fankriss::SummonWorms()</a>, <a class="el" href="../../#l00139">boss_chromaggus::boss_chromaggusAI::UpdateAI()</a>, <a class="el" href="../../#l00122">boss_renataki::boss_renatakiAI::UpdateAI()</a>, <a class="el" href="../../#l00323">boss_blood_queen_lana_thel::boss_blood_queen_lana_thelAI::UpdateAI()</a>, and <a class="el" href="../../#l00376">boss_hodir::UpdateAI()</a>.</p>
-
-</div>
-</div>
-<a id="a4585a27b1f592547062d7bc039cff3b4" name="a4585a27b1f592547062d7bc039cff3b4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4585a27b1f592547062d7bc039cff3b4">&#9670;&#160;</a></span>RandomShuffle()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class C &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void Acore::Containers::RandomShuffle </td>
-          <td>(</td>
-          <td class="paramtype">C &amp;&#160;</td>
-          <td class="paramname"><em>container</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  231</span>    {</div>
-<div class="line"><span class="lineno">  232</span>        std::shuffle(std::begin(container), std::end(container), <a class="code hl_function" href="../../df/d1e/a05593.html#a5ff7fcb1f8d34861b0c210eddc450681">RandomEngine::Instance</a>());</div>
-<div class="line"><span class="lineno">  233</span>    }</div>
-<div class="ttc" id="aa05593_html_a5ff7fcb1f8d34861b0c210eddc450681"><div class="ttname"><a href="../../df/d1e/a05593.html#a5ff7fcb1f8d34861b0c210eddc450681">RandomEngine::Instance</a></div><div class="ttdeci">static RandomEngine &amp; Instance()</div><div class="ttdef"><b>Definition:</b> Random.cpp:103</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00103">RandomEngine::Instance()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00165">boss_maexxna::boss_maexxnaAI::DoCastWebWrap()</a>, <a class="el" href="../../#l00692">npc_midsummer_ribbon_pole_target::DoSpewLavaChecks()</a>, <a class="el" href="../../#l00089">npc_cameron::MoveTheChildren()</a>, <a class="el" href="../../#l01290">WorldState::StartScourgeInvasion()</a>, and <a class="el" href="../../#l00122">boss_renataki::boss_renatakiAI::UpdateAI()</a>.</p>
-
-</div>
-</div>
-<a id="a8ca673d18562735d4ed20a11519b3d46" name="a8ca673d18562735d4ed20a11519b3d46"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8ca673d18562735d4ed20a11519b3d46">&#9670;&#160;</a></span>SelectRandomContainerElement()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class C &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">auto Acore::Containers::SelectRandomContainerElement </td>
-          <td>(</td>
-          <td class="paramtype">C const &amp;&#160;</td>
-          <td class="paramname"><em>container</em></td><td>)</td>
-          <td> -&gt; typename std::add_const&lt;decltype(*std::begin(container))&gt;::type&amp;
-    </td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  134</span>    {</div>
-<div class="line"><span class="lineno">  135</span>        <span class="keyword">auto</span> it = std::begin(container);</div>
-<div class="line"><span class="lineno">  136</span>        std::advance(it, <a class="code hl_function" href="../../d0/d89/a00071.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(std::size(container)) - 1));</div>
-<div class="line"><span class="lineno">  137</span>        <span class="keywordflow">return</span> *it;</div>
-<div class="line"><span class="lineno">  138</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00044">urand()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00091">boss_mor_grayhoof::CastRandomSpell()</a>, <a class="el" href="../../#l00246">lfg::LFGQueue::CheckCompatibility()</a>, <a class="el" href="../../#l01153">spell_dk_corpse_explosion::CheckTargets()</a>, <a class="el" href="../../#l01965">spell_dk_raise_dead::CheckTargets()</a>, <a class="el" href="../../#l00185">npc_forest_frog::DoSpawnRandom()</a>, <a class="el" href="../../#l01878">Spell::EffectEnergize()</a>, <a class="el" href="../../#l00620">boss_lady_deathwhisper::boss_lady_deathwhisperAI::EmpowerCultist()</a>, <a class="el" href="../../#l00068">boss_sulfuron::boss_sulfuronAI::ExecuteEvent()</a>, <a class="el" href="../../#l00415">spell_apothecary_validate_area::FilterTargets()</a>, <a class="el" href="../../#l01927">spell_send_mug_target_picker::FilterTargets()</a>, <a class="el" href="../../#l00477">spell_mistress_kiss_area::FilterTargets()</a>, <a class="el" href="../../#l01263">spell_deathbringer_boiling_blood::FilterTargets()</a>, <a class="el" href="../../#l02417">spell_igb_burning_pitch_selector::FilterTargets()</a>, <a class="el" href="../../#l00517">spell_rotface_mutated_infection::FilterTargets()</a>, <a class="el" href="../../#l01696">spell_frostwarden_handler_order_whelp::FilterTargets()</a>, <a class="el" href="../../#l01269">spell_dreamwalker_summoner::FilterTargets()</a>, <a class="el" href="../../#l01462">spell_pursue::FilterTargets()</a>, <a class="el" href="../../#l00799">spell_ice_spear_target_picker::FilterTargets()</a>, <a class="el" href="../../#l01268">npc_echo_of_medivh::GetPiece()</a>, <a class="el" href="../../#l00145">SummonList::GetRandomCreatureWithEntry()</a>, <a class="el" href="../../#l00199">boss_moroes::GetRandomGuest()</a>, <a class="el" href="../../#l00376">spell_apothecary_lingering_fumes::HandleAfterCast()</a>, <a class="el" href="../../#l01152">spell_corrupted_totems::HandleDummy()</a>, <a class="el" href="../../#l01205">spell_shadowblink::HandleDummy()</a>, <a class="el" href="../../#l00151">spell_dred_raptor_call::HandleDummy()</a>, <a class="el" href="../../#l01965">spell_item_mingos_fortune_generator::HandleDummy()</a>, <a class="el" href="../../#l00304">spell_rog_killing_spree_aura::HandleEffectPeriodic()</a>, <a class="el" href="../../#l01707">spell_frostwarden_handler_order_whelp::HandleForcedCast()</a>, <a class="el" href="../../#l00783">spell_scourge_disguise_instability::HandleRemove()</a>, <a class="el" href="../../#l00514">spell_ragnaros_lava_burst_randomizer::HandleScript()</a>, <a class="el" href="../../#l00349">spell_item_create_heart_candy::HandleScript()</a>, <a class="el" href="../../#l00276">spell_ayamiss_swarmer_teleport_trigger::HandleScript()</a>, <a class="el" href="../../#l00868">spell_summon_amanishi_sentries::HandleScriptEffect()</a>, <a class="el" href="../../#l00209">spell_tractor_beam_creator::HandleScriptEffect()</a>, <a class="el" href="../../#l00205">misc_commandscript::HandleSkirmishCommand()</a>, <a class="el" href="../../#l00173">boss_grand_warlock_nethekurse::IntroRP()</a>, <a class="el" href="../../#l00127">boss_priestess_delrissa::JustEngagedWith()</a>, <a class="el" href="../../#l00267">boss_alythess::JustEngagedWith()</a>, <a class="el" href="../../#l00085">boss_fankriss::JustEngagedWith()</a>, <a class="el" href="../../#l02262">spell_dragonblight_flame_fury::OnRemove()</a>, <a class="el" href="../../#l00902">spell_torch_target_picker::PrepareSpellScript()</a>, <a class="el" href="../../#l00163">SmartScript::ProcessAction()</a>, <a class="el" href="../../#l04083">SmartScript::ProcessEvent()</a>, <a class="el" href="../../#l01292">LootTemplate::LootGroup::Roll()</a>, <a class="el" href="../../#l00180">boss_razuvious::boss_razuviousAI::ScheduleRP()</a>, <a class="el" href="../../#l00843">npc_pallid_horror::ScheduleTasks()</a>, <a class="el" href="../../#l17260">Unit::SelectNearbyNoTotemTarget()</a>, <a class="el" href="../../#l17225">Unit::SelectNearbyTarget()</a>, <a class="el" href="../../#l02486">spell_igb_rocket_artillery::SelectRandomTarget()</a>, <a class="el" href="../../#l00238">UnitAI::SelectTarget()</a>, <a class="el" href="../../#l01050">spell_putricide_ooze_channel::SelectTarget()</a>, <a class="el" href="../../#l02684">spell_the_lich_king_valkyr_target_search::SelectTarget()</a>, <a class="el" href="../../#l02824">spell_the_lich_king_vile_spirit_move_target_search::SelectTarget()</a>, <a class="el" href="../../#l00532">npc_minigob_manabonk::SelectTargetInDalaran()</a>, <a class="el" href="../../#l01875">instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript::SetPositionTraps()</a>, <a class="el" href="../../#l00459">PoolGroup&lt; T &gt;::SpawnObject()</a>, <a class="el" href="../../#l00140">boss_ouro::Submerge()</a>, <a class="el" href="../../#l00226">boss_elder_nadox::SummonHelpers()</a>, <a class="el" href="../../#l00427">GameObject::Update()</a>, <a class="el" href="../../#l00633">boss_nefarian::UpdateAI()</a>, <a class="el" href="../../#l00261">boss_ragnaros::boss_ragnarosAI::UpdateAI()</a>, <a class="el" href="../../#l00300">boss_anub_arak::UpdateAI()</a>, and <a class="el" href="../../#l01321">npc_captain_arnath::npc_captain_arnathAI::UpdateAI()</a>.</p>
-
-</div>
-</div>
-<a id="a1a2b0eddd5cd5b91e5dc86ca27f0bb86" name="a1a2b0eddd5cd5b91e5dc86ca27f0bb86"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1a2b0eddd5cd5b91e5dc86ca27f0bb86">&#9670;&#160;</a></span>SelectRandomContainerElementIf()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class C , class Predicate &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">auto Acore::Containers::SelectRandomContainerElementIf </td>
-          <td>(</td>
-          <td class="paramtype">C const &amp;&#160;</td>
-          <td class="paramname"><em>container</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Predicate &amp;&amp;&#160;</td>
-          <td class="paramname"><em>predicate</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> -&gt; decltype(std::begin(container))
-    </td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  151</span>    {</div>
-<div class="line"><span class="lineno">  152</span>        std::vector&lt;<span class="keyword">decltype</span>(std::begin(container))&gt; matchingElements;</div>
-<div class="line"><span class="lineno">  153</span> </div>
-<div class="line"><span class="lineno">  154</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> it = std::begin(container); it != std::end(container); ++it)</div>
-<div class="line"><span class="lineno">  155</span>            <span class="keywordflow">if</span> (predicate(*it))</div>
-<div class="line"><span class="lineno">  156</span>                matchingElements.push_back(it);</div>
-<div class="line"><span class="lineno">  157</span> </div>
-<div class="line"><span class="lineno">  158</span>        <span class="keywordflow">if</span> (matchingElements.empty())</div>
-<div class="line"><span class="lineno">  159</span>            <span class="keywordflow">return</span> std::end(container);</div>
-<div class="line"><span class="lineno">  160</span> </div>
-<div class="line"><span class="lineno">  161</span>        <span class="keyword">auto</span> randomIt = matchingElements[<a class="code hl_function" href="../../d0/d89/a00071.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, matchingElements.size() - 1)];</div>
-<div class="line"><span class="lineno">  162</span>        <span class="keywordflow">return</span> randomIt;</div>
-<div class="line"><span class="lineno">  163</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00044">urand()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00088">boss_laj::ScheduleTasks()</a>.</p>
-
-</div>
-</div>
-<a id="a4e1de71c76e525a6fdf4c76b0d09c94b" name="a4e1de71c76e525a6fdf4c76b0d09c94b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4e1de71c76e525a6fdf4c76b0d09c94b">&#9670;&#160;</a></span>SelectRandomWeightedContainerElement() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class C , class Fn &gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">auto Acore::Containers::SelectRandomWeightedContainerElement </td>
-          <td>(</td>
-          <td class="paramtype">C const &amp;&#160;</td>
-          <td class="paramname"><em>container</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Fn&#160;</td>
-          <td class="paramname"><em>weightExtractor</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> -&gt; decltype(std::begin(container))
-    </td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  192</span>    {</div>
-<div class="line"><span class="lineno">  193</span>        std::vector&lt;double&gt; weights;</div>
-<div class="line"><span class="lineno">  194</span>        weights.reserve(std::size(container));</div>
-<div class="line"><span class="lineno">  195</span>        <span class="keywordtype">double</span> weightSum = 0.0;</div>
-<div class="line"><span class="lineno">  196</span> </div>
-<div class="line"><span class="lineno">  197</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; val : container)</div>
-<div class="line"><span class="lineno">  198</span>        {</div>
-<div class="line"><span class="lineno">  199</span>            <span class="keywordtype">double</span> weight = weightExtractor(val);</div>
-<div class="line"><span class="lineno">  200</span>            weights.push_back(weight);</div>
-<div class="line"><span class="lineno">  201</span>            weightSum += weight;</div>
-<div class="line"><span class="lineno">  202</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  165</span>{</div>
+<div class="line"><span class="lineno">  166</span>    <span class="keywordtype">size_t</span> hasPPM = 0;</div>
+<div class="line"><span class="lineno">  167</span>    <span class="keywordtype">size_t</span> hasCooldown = 0;</div>
+<div class="line"><span class="lineno">  168</span>    <span class="keywordtype">size_t</span> hasSpellTypeMask = 0;</div>
+<div class="line"><span class="lineno">  169</span>    <span class="keywordtype">size_t</span> hasSpellPhaseMask = 0;</div>
+<div class="line"><span class="lineno">  170</span>    <span class="keywordtype">size_t</span> hasHitMask = 0;</div>
+<div class="line"><span class="lineno">  171</span>    <span class="keywordtype">size_t</span> hasAttributesMask = 0;</div>
+<div class="line"><span class="lineno">  172</span>    <span class="keywordtype">size_t</span> hasSpellFamilyMask = 0;</div>
+<div class="line"><span class="lineno">  173</span>    <span class="keywordtype">size_t</span> hasSchoolMask = 0;</div>
+<div class="line"><span class="lineno">  174</span>    <span class="keywordtype">size_t</span> hasCharges = 0;</div>
+<div class="line"><span class="lineno">  175</span>    <span class="keywordtype">size_t</span> hasDisableEffectsMask = 0;</div>
+<div class="line"><span class="lineno">  176</span> </div>
+<div class="line"><span class="lineno">  177</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; entry : _allEntries)</div>
+<div class="line"><span class="lineno">  178</span>    {</div>
+<div class="line"><span class="lineno">  179</span>        <span class="keywordflow">if</span> (entry.ProcsPerMinute &gt; 0) hasPPM++;</div>
+<div class="line"><span class="lineno">  180</span>        <span class="keywordflow">if</span> (entry.Cooldown &gt; 0) hasCooldown++;</div>
+<div class="line"><span class="lineno">  181</span>        <span class="keywordflow">if</span> (entry.SpellTypeMask != 0) hasSpellTypeMask++;</div>
+<div class="line"><span class="lineno">  182</span>        <span class="keywordflow">if</span> (entry.SpellPhaseMask != 0) hasSpellPhaseMask++;</div>
+<div class="line"><span class="lineno">  183</span>        <span class="keywordflow">if</span> (entry.HitMask != 0) hasHitMask++;</div>
+<div class="line"><span class="lineno">  184</span>        <span class="keywordflow">if</span> (entry.AttributesMask != 0) hasAttributesMask++;</div>
+<div class="line"><span class="lineno">  185</span>        <span class="keywordflow">if</span> (entry.SpellFamilyMask0 != 0 || entry.SpellFamilyMask1 != 0 || entry.SpellFamilyMask2 != 0)</div>
+<div class="line"><span class="lineno">  186</span>            hasSpellFamilyMask++;</div>
+<div class="line"><span class="lineno">  187</span>        <span class="keywordflow">if</span> (entry.SchoolMask != 0) hasSchoolMask++;</div>
+<div class="line"><span class="lineno">  188</span>        <span class="keywordflow">if</span> (entry.Charges &gt; 0) hasCharges++;</div>
+<div class="line"><span class="lineno">  189</span>        <span class="keywordflow">if</span> (entry.DisableEffectsMask != 0) hasDisableEffectsMask++;</div>
+<div class="line"><span class="lineno">  190</span>    }</div>
+<div class="line"><span class="lineno">  191</span> </div>
+<div class="line"><span class="lineno">  192</span>    std::cout &lt;&lt; <span class="stringliteral">&quot;[  INFO    ] Feature usage (adds value beyond DBC):\n&quot;</span></div>
+<div class="line"><span class="lineno">  193</span>              &lt;&lt; <span class="stringliteral">&quot;             PPM: &quot;</span> &lt;&lt; hasPPM &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span></div>
+<div class="line"><span class="lineno">  194</span>              &lt;&lt; <span class="stringliteral">&quot;             Cooldown: &quot;</span> &lt;&lt; hasCooldown &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span></div>
+<div class="line"><span class="lineno">  195</span>              &lt;&lt; <span class="stringliteral">&quot;             SpellTypeMask: &quot;</span> &lt;&lt; hasSpellTypeMask &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span></div>
+<div class="line"><span class="lineno">  196</span>              &lt;&lt; <span class="stringliteral">&quot;             SpellPhaseMask: &quot;</span> &lt;&lt; hasSpellPhaseMask &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span></div>
+<div class="line"><span class="lineno">  197</span>              &lt;&lt; <span class="stringliteral">&quot;             HitMask: &quot;</span> &lt;&lt; hasHitMask &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span></div>
+<div class="line"><span class="lineno">  198</span>              &lt;&lt; <span class="stringliteral">&quot;             AttributesMask: &quot;</span> &lt;&lt; hasAttributesMask &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span></div>
+<div class="line"><span class="lineno">  199</span>              &lt;&lt; <span class="stringliteral">&quot;             SpellFamilyMask: &quot;</span> &lt;&lt; hasSpellFamilyMask &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span></div>
+<div class="line"><span class="lineno">  200</span>              &lt;&lt; <span class="stringliteral">&quot;             SchoolMask: &quot;</span> &lt;&lt; hasSchoolMask &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span></div>
+<div class="line"><span class="lineno">  201</span>              &lt;&lt; <span class="stringliteral">&quot;             Charges: &quot;</span> &lt;&lt; hasCharges &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span></div>
+<div class="line"><span class="lineno">  202</span>              &lt;&lt; <span class="stringliteral">&quot;             DisableEffectsMask: &quot;</span> &lt;&lt; hasDisableEffectsMask &lt;&lt; std::endl;</div>
 <div class="line"><span class="lineno">  203</span> </div>
-<div class="line"><span class="lineno">  204</span>        <span class="keywordflow">if</span> (weightSum &lt;= 0.0)</div>
-<div class="line"><span class="lineno">  205</span>        {</div>
-<div class="line"><span class="lineno">  206</span>            weights.assign(std::size(container), 1.0);</div>
-<div class="line"><span class="lineno">  207</span>        }</div>
-<div class="line"><span class="lineno">  208</span> </div>
-<div class="line"><span class="lineno">  209</span>        <span class="keywordflow">return</span> SelectRandomWeightedContainerElement(container, weights);</div>
-<div class="line"><span class="lineno">  210</span>    }</div>
+<div class="line"><span class="lineno">  204</span>    <span class="comment">// Most entries should use at least one extended feature</span></div>
+<div class="line"><span class="lineno">  205</span>    <span class="keywordtype">size_t</span> usingExtendedFeatures = 0;</div>
+<div class="line"><span class="lineno">  206</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; entry : _allEntries)</div>
+<div class="line"><span class="lineno">  207</span>    {</div>
+<div class="line"><span class="lineno">  208</span>        <span class="keywordflow">if</span> (entry.ProcsPerMinute &gt; 0 || entry.Cooldown &gt; 0 ||</div>
+<div class="line"><span class="lineno">  209</span>            entry.SpellTypeMask != 0 || entry.SpellPhaseMask != 0 ||</div>
+<div class="line"><span class="lineno">  210</span>            entry.HitMask != 0 || entry.AttributesMask != 0 ||</div>
+<div class="line"><span class="lineno">  211</span>            entry.SpellFamilyMask0 != 0 || entry.SpellFamilyMask1 != 0 ||</div>
+<div class="line"><span class="lineno">  212</span>            entry.SpellFamilyMask2 != 0 || entry.SchoolMask != 0 ||</div>
+<div class="line"><span class="lineno">  213</span>            entry.DisableEffectsMask != 0)</div>
+<div class="line"><span class="lineno">  214</span>        {</div>
+<div class="line"><span class="lineno">  215</span>            usingExtendedFeatures++;</div>
+<div class="line"><span class="lineno">  216</span>        }</div>
+<div class="line"><span class="lineno">  217</span>    }</div>
+<div class="line"><span class="lineno">  218</span> </div>
+<div class="line"><span class="lineno">  219</span>    std::cout &lt;&lt; <span class="stringliteral">&quot;[  INFO    ] Entries using extended features: &quot;</span> &lt;&lt; usingExtendedFeatures</div>
+<div class="line"><span class="lineno">  220</span>              &lt;&lt; <span class="stringliteral">&quot; / &quot;</span> &lt;&lt; _allEntries.size() &lt;&lt; std::endl;</div>
+<div class="line"><span class="lineno">  221</span> </div>
+<div class="line"><span class="lineno">  222</span>    <span class="comment">// At least 80% should use extended features</span></div>
+<div class="line"><span class="lineno">  223</span>    EXPECT_GT(usingExtendedFeatures, _allEntries.size() * 80 / 100)</div>
+<div class="line"><span class="lineno">  224</span>        &lt;&lt; <span class="stringliteral">&quot;Most entries should use extended features&quot;</span>;</div>
+<div class="line"><span class="lineno">  225</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00175">SelectRandomWeightedContainerElement()</a>.</p>
-
 </div>
 </div>
-<a id="a220cb6c43559036273f478f15d047eb9" name="a220cb6c43559036273f478f15d047eb9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a220cb6c43559036273f478f15d047eb9">&#9670;&#160;</a></span>SelectRandomWeightedContainerElement() <span class="overload">[2/2]</span></h2>
+<a id="a4dd4a9f2ad7b9f9c90f178e412d6853a" name="a4dd4a9f2ad7b9f9c90f178e412d6853a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4dd4a9f2ad7b9f9c90f178e412d6853a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/8]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class C &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">auto Acore::Containers::SelectRandomWeightedContainerElement </td>
+          <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype">C const &amp;&#160;</td>
-          <td class="paramname"><em>container</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d7/df9/a29644.html">SpellProcDBCValidationTest</a>&#160;</td>
+          <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">std::vector&lt; double &gt;&#160;</td>
-          <td class="paramname"><em>weights</em>&#160;</td>
+          <td class="paramtype">CountEntriesAddingValue&#160;</td>
+          <td class="paramname">&#160;</td>
         </tr>
         <tr>
           <td></td>
           <td>)</td>
-          <td></td><td> -&gt; decltype(std::begin(container))
-    </td>
+          <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  176</span>    {</div>
-<div class="line"><span class="lineno">  177</span>        <span class="keyword">auto</span> it = std::begin(container);</div>
-<div class="line"><span class="lineno">  178</span>        std::advance(it, <a class="code hl_function" href="../../d0/d89/a00071.html#a3f7e714c8fc3a6f6ccbe91d524a84f23">urandweighted</a>(weights.size(), weights.data()));</div>
-<div class="line"><span class="lineno">  179</span>        <span class="keywordflow">return</span> it;</div>
-<div class="line"><span class="lineno">  180</span>    }</div>
-<div class="ttc" id="aa00071_html_a3f7e714c8fc3a6f6ccbe91d524a84f23"><div class="ttname"><a href="../../d0/d89/a00071.html#a3f7e714c8fc3a6f6ccbe91d524a84f23">urandweighted</a></div><div class="ttdeci">uint32 urandweighted(std::size_t count, double const *chances)</div><div class="ttdef"><b>Definition:</b> Random.cpp:97</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  129</span>{</div>
+<div class="line"><span class="lineno">  130</span>    <span class="keywordtype">size_t</span> addsValue = 0;</div>
+<div class="line"><span class="lineno">  131</span>    <span class="keywordtype">size_t</span> potentiallyRedundant = 0;</div>
+<div class="line"><span class="lineno">  132</span>    <span class="keywordtype">size_t</span> noDBCYet = 0;</div>
+<div class="line"><span class="lineno">  133</span> </div>
+<div class="line"><span class="lineno">  134</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; entry : _allEntries)</div>
+<div class="line"><span class="lineno">  135</span>    {</div>
+<div class="line"><span class="lineno">  136</span>        <span class="comment">// SKIP REASON: Entries without DBC data populated cannot be compared</span></div>
+<div class="line"><span class="lineno">  137</span>        <span class="comment">// against DBC defaults. The HasDBCData() check returns false when</span></div>
+<div class="line"><span class="lineno">  138</span>        <span class="comment">// DBC_ProcFlags, DBC_ProcChance, and DBC_ProcCharges are all zero.</span></div>
+<div class="line"><span class="lineno">  139</span>        <span class="comment">// Once DBC data is populated via MCP tools, this count should be 0.</span></div>
+<div class="line"><span class="lineno">  140</span>        <span class="keywordflow">if</span> (!entry.HasDBCData())</div>
+<div class="line"><span class="lineno">  141</span>        {</div>
+<div class="line"><span class="lineno">  142</span>            noDBCYet++;</div>
+<div class="line"><span class="lineno">  143</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  144</span>        }</div>
+<div class="line"><span class="lineno">  145</span> </div>
+<div class="line"><span class="lineno">  146</span>        <span class="keywordflow">if</span> (entry.AddsValueBeyondDBC())</div>
+<div class="line"><span class="lineno">  147</span>            addsValue++;</div>
+<div class="line"><span class="lineno">  148</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  149</span>            potentiallyRedundant++;</div>
+<div class="line"><span class="lineno">  150</span>    }</div>
+<div class="line"><span class="lineno">  151</span> </div>
+<div class="line"><span class="lineno">  152</span>    std::cout &lt;&lt; <span class="stringliteral">&quot;[  INFO    ] Entries adding value: &quot;</span> &lt;&lt; addsValue &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span>;</div>
+<div class="line"><span class="lineno">  153</span>    std::cout &lt;&lt; <span class="stringliteral">&quot;[  INFO    ] Potentially redundant: &quot;</span> &lt;&lt; potentiallyRedundant &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span>;</div>
+<div class="line"><span class="lineno">  154</span>    std::cout &lt;&lt; <span class="stringliteral">&quot;[  INFO    ] DBC data not yet populated: &quot;</span> &lt;&lt; noDBCYet &lt;&lt; std::endl;</div>
+<div class="line"><span class="lineno">  155</span> </div>
+<div class="line"><span class="lineno">  156</span>    <span class="comment">// Most entries should add value (have PPM, cooldowns, filtering, etc.)</span></div>
+<div class="line"><span class="lineno">  157</span>    <span class="keywordflow">if</span> (addsValue + potentiallyRedundant &gt; 0)</div>
+<div class="line"><span class="lineno">  158</span>    {</div>
+<div class="line"><span class="lineno">  159</span>        <span class="keywordtype">float</span> valueRate = <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(addsValue) / (addsValue + potentiallyRedundant) * 100;</div>
+<div class="line"><span class="lineno">  160</span>        std::cout &lt;&lt; <span class="stringliteral">&quot;[  INFO    ] Value-add rate: &quot;</span> &lt;&lt; valueRate &lt;&lt; <span class="stringliteral">&quot;%&quot;</span> &lt;&lt; std::endl;</div>
+<div class="line"><span class="lineno">  161</span>    }</div>
+<div class="line"><span class="lineno">  162</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00097">urandweighted()</a>.</p>
+</div>
+</div>
+<a id="a3140cdc3c6be8230853a19725adce0df" name="a3140cdc3c6be8230853a19725adce0df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3140cdc3c6be8230853a19725adce0df">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/8]</span></h2>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00915">BattlegroundMgr::GetRandomBG()</a>, <a class="el" href="../../#l00119">CreatureTemplate::GetRandomValidModel()</a>, <a class="el" href="../../#l00191">SelectRandomWeightedContainerElement()</a>, and <a class="el" href="../../#l00199">CreatureTextMgr::SendChat()</a>.</p>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/df9/a29644.html">SpellProcDBCValidationTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">CountEntriesWithDBCData&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  108</span>{</div>
+<div class="line"><span class="lineno">  109</span>    <span class="keywordtype">size_t</span> withDBC = 0;</div>
+<div class="line"><span class="lineno">  110</span>    <span class="keywordtype">size_t</span> withoutDBC = 0;</div>
+<div class="line"><span class="lineno">  111</span> </div>
+<div class="line"><span class="lineno">  112</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; entry : _allEntries)</div>
+<div class="line"><span class="lineno">  113</span>    {</div>
+<div class="line"><span class="lineno">  114</span>        <span class="keywordflow">if</span> (entry.HasDBCData())</div>
+<div class="line"><span class="lineno">  115</span>            withDBC++;</div>
+<div class="line"><span class="lineno">  116</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  117</span>            withoutDBC++;</div>
+<div class="line"><span class="lineno">  118</span>    }</div>
+<div class="line"><span class="lineno">  119</span> </div>
+<div class="line"><span class="lineno">  120</span>    std::cout &lt;&lt; <span class="stringliteral">&quot;[  INFO    ] Entries with DBC data: &quot;</span> &lt;&lt; withDBC &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span>;</div>
+<div class="line"><span class="lineno">  121</span>    std::cout &lt;&lt; <span class="stringliteral">&quot;[  INFO    ] Entries without DBC data: &quot;</span> &lt;&lt; withoutDBC &lt;&lt; std::endl;</div>
+<div class="line"><span class="lineno">  122</span> </div>
+<div class="line"><span class="lineno">  123</span>    <span class="comment">// All entries should eventually have DBC data</span></div>
+<div class="line"><span class="lineno">  124</span>    <span class="comment">// For now, just verify the count</span></div>
+<div class="line"><span class="lineno">  125</span>    EXPECT_EQ(_allEntries.size(), 869u);</div>
+<div class="line"><span class="lineno">  126</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a16d0dc4448f95f4d571e474baa22b657" name="a16d0dc4448f95f4d571e474baa22b657"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a16d0dc4448f95f4d571e474baa22b657">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/8]</span></h2>
 
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/df9/a29644.html">SpellProcDBCValidationTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">CountNegativeSpellIds&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  262</span>{</div>
+<div class="line"><span class="lineno">  263</span>    <span class="keywordtype">size_t</span> negativeIds = 0;</div>
+<div class="line"><span class="lineno">  264</span>    <span class="keywordtype">size_t</span> positiveIds = 0;</div>
+<div class="line"><span class="lineno">  265</span> </div>
+<div class="line"><span class="lineno">  266</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; entry : _allEntries)</div>
+<div class="line"><span class="lineno">  267</span>    {</div>
+<div class="line"><span class="lineno">  268</span>        <span class="keywordflow">if</span> (entry.SpellId &lt; 0)</div>
+<div class="line"><span class="lineno">  269</span>            negativeIds++;</div>
+<div class="line"><span class="lineno">  270</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  271</span>            positiveIds++;</div>
+<div class="line"><span class="lineno">  272</span>    }</div>
+<div class="line"><span class="lineno">  273</span> </div>
+<div class="line"><span class="lineno">  274</span>    std::cout &lt;&lt; <span class="stringliteral">&quot;[  INFO    ] Negative SpellIds (effect-specific): &quot;</span> &lt;&lt; negativeIds &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span>;</div>
+<div class="line"><span class="lineno">  275</span>    std::cout &lt;&lt; <span class="stringliteral">&quot;[  INFO    ] Positive SpellIds: &quot;</span> &lt;&lt; positiveIds &lt;&lt; std::endl;</div>
+<div class="line"><span class="lineno">  276</span> </div>
+<div class="line"><span class="lineno">  277</span>    <span class="comment">// Both types should exist</span></div>
+<div class="line"><span class="lineno">  278</span>    EXPECT_GT(negativeIds, 0u) &lt;&lt; <span class="stringliteral">&quot;Should have some effect-specific (negative ID) entries&quot;</span>;</div>
+<div class="line"><span class="lineno">  279</span>    EXPECT_GT(positiveIds, 0u) &lt;&lt; <span class="stringliteral">&quot;Should have some spell-wide (positive ID) entries&quot;</span>;</div>
+<div class="line"><span class="lineno">  280</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a14eea23ad6fde730eac3ff84fdffc8ad" name="a14eea23ad6fde730eac3ff84fdffc8ad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a14eea23ad6fde730eac3ff84fdffc8ad">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/df9/a29644.html">SpellProcDBCValidationTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">CoverageBySpellFamily&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  287</span>{</div>
+<div class="line"><span class="lineno">  288</span>    std::map&lt;uint32_t, size_t&gt; familyCounts;</div>
+<div class="line"><span class="lineno">  289</span>    std::map&lt;uint32_t, std::string&gt; familyNames = {</div>
+<div class="line"><span class="lineno">  290</span>        {0, <span class="stringliteral">&quot;Generic&quot;</span>}, {3, <span class="stringliteral">&quot;Mage&quot;</span>}, {4, <span class="stringliteral">&quot;Warrior&quot;</span>}, {5, <span class="stringliteral">&quot;Warlock&quot;</span>},</div>
+<div class="line"><span class="lineno">  291</span>        {6, <span class="stringliteral">&quot;Priest&quot;</span>}, {7, <span class="stringliteral">&quot;Druid&quot;</span>}, {8, <span class="stringliteral">&quot;Rogue&quot;</span>}, {9, <span class="stringliteral">&quot;Hunter&quot;</span>},</div>
+<div class="line"><span class="lineno">  292</span>        {10, <span class="stringliteral">&quot;Paladin&quot;</span>}, {11, <span class="stringliteral">&quot;Shaman&quot;</span>}, {15, <span class="stringliteral">&quot;DeathKnight&quot;</span>}</div>
+<div class="line"><span class="lineno">  293</span>    };</div>
+<div class="line"><span class="lineno">  294</span> </div>
+<div class="line"><span class="lineno">  295</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; entry : _allEntries)</div>
+<div class="line"><span class="lineno">  296</span>    {</div>
+<div class="line"><span class="lineno">  297</span>        familyCounts[entry.SpellFamilyName]++;</div>
+<div class="line"><span class="lineno">  298</span>    }</div>
+<div class="line"><span class="lineno">  299</span> </div>
+<div class="line"><span class="lineno">  300</span>    std::cout &lt;&lt; <span class="stringliteral">&quot;[  INFO    ] Entries by SpellFamily:\n&quot;</span>;</div>
+<div class="line"><span class="lineno">  301</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; [family, count] : familyCounts)</div>
+<div class="line"><span class="lineno">  302</span>    {</div>
+<div class="line"><span class="lineno">  303</span>        std::string name = familyNames.count(family) ? familyNames[family] : <span class="stringliteral">&quot;Unknown&quot;</span>;</div>
+<div class="line"><span class="lineno">  304</span>        std::cout &lt;&lt; <span class="stringliteral">&quot;             &quot;</span> &lt;&lt; name &lt;&lt; <span class="stringliteral">&quot; (&quot;</span> &lt;&lt; family &lt;&lt; <span class="stringliteral">&quot;): &quot;</span> &lt;&lt; count &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span>;</div>
+<div class="line"><span class="lineno">  305</span>    }</div>
+<div class="line"><span class="lineno">  306</span> </div>
+<div class="line"><span class="lineno">  307</span>    <span class="comment">// Should have entries from multiple spell families</span></div>
+<div class="line"><span class="lineno">  308</span>    EXPECT_GT(familyCounts.size(), 5u) &lt;&lt; <span class="stringliteral">&quot;Should cover multiple spell families&quot;</span>;</div>
+<div class="line"><span class="lineno">  309</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a67fce2ede01fc117b24ed6c0015ee5d5" name="a67fce2ede01fc117b24ed6c0015ee5d5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a67fce2ede01fc117b24ed6c0015ee5d5">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/df9/a29644.html">SpellProcDBCValidationTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IdentifyDBCOverrides&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  228</span>{</div>
+<div class="line"><span class="lineno">  229</span>    <span class="keywordtype">size_t</span> overridesProcFlags = 0;</div>
+<div class="line"><span class="lineno">  230</span>    <span class="keywordtype">size_t</span> overridesChance = 0;</div>
+<div class="line"><span class="lineno">  231</span>    <span class="keywordtype">size_t</span> overridesCharges = 0;</div>
+<div class="line"><span class="lineno">  232</span> </div>
+<div class="line"><span class="lineno">  233</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; entry : _allEntries)</div>
+<div class="line"><span class="lineno">  234</span>    {</div>
+<div class="line"><span class="lineno">  235</span>        <span class="comment">// SKIP REASON: Cannot compare against DBC defaults when DBC data</span></div>
+<div class="line"><span class="lineno">  236</span>        <span class="comment">// is not populated. All 869 entries currently have DBC fields = 0.</span></div>
+<div class="line"><span class="lineno">  237</span>        <span class="comment">// Once populated, this loop will count actual DBC overrides.</span></div>
+<div class="line"><span class="lineno">  238</span>        <span class="keywordflow">if</span> (!entry.HasDBCData())</div>
+<div class="line"><span class="lineno">  239</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  240</span> </div>
+<div class="line"><span class="lineno">  241</span>        <span class="keywordflow">if</span> (entry.ProcFlags != 0 &amp;&amp; entry.ProcFlags != entry.DBC_ProcFlags)</div>
+<div class="line"><span class="lineno">  242</span>            overridesProcFlags++;</div>
+<div class="line"><span class="lineno">  243</span> </div>
+<div class="line"><span class="lineno">  244</span>        <span class="keywordflow">if</span> (entry.Chance != 0 &amp;&amp; <span class="keyword">static_cast&lt;</span>uint32_t<span class="keyword">&gt;</span>(entry.Chance) != entry.DBC_ProcChance)</div>
+<div class="line"><span class="lineno">  245</span>            overridesChance++;</div>
+<div class="line"><span class="lineno">  246</span> </div>
+<div class="line"><span class="lineno">  247</span>        <span class="keywordflow">if</span> (entry.Charges != 0 &amp;&amp; entry.Charges != entry.DBC_ProcCharges)</div>
+<div class="line"><span class="lineno">  248</span>            overridesCharges++;</div>
+<div class="line"><span class="lineno">  249</span>    }</div>
+<div class="line"><span class="lineno">  250</span> </div>
+<div class="line"><span class="lineno">  251</span>    std::cout &lt;&lt; <span class="stringliteral">&quot;[  INFO    ] DBC Overrides:\n&quot;</span></div>
+<div class="line"><span class="lineno">  252</span>              &lt;&lt; <span class="stringliteral">&quot;             ProcFlags: &quot;</span> &lt;&lt; overridesProcFlags &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span></div>
+<div class="line"><span class="lineno">  253</span>              &lt;&lt; <span class="stringliteral">&quot;             Chance: &quot;</span> &lt;&lt; overridesChance &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span></div>
+<div class="line"><span class="lineno">  254</span>              &lt;&lt; <span class="stringliteral">&quot;             Charges: &quot;</span> &lt;&lt; overridesCharges &lt;&lt; std::endl;</div>
+<div class="line"><span class="lineno">  255</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a918f689a14967e97deeb88c36f959a81" name="a918f689a14967e97deeb88c36f959a81"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a918f689a14967e97deeb88c36f959a81">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/df9/a29644.html">SpellProcDBCValidationTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">NoDuplicateSpellIds&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  316</span>{</div>
+<div class="line"><span class="lineno">  317</span>    std::set&lt;int32_t&gt; seenIds;</div>
+<div class="line"><span class="lineno">  318</span>    std::vector&lt;int32_t&gt; duplicates;</div>
+<div class="line"><span class="lineno">  319</span> </div>
+<div class="line"><span class="lineno">  320</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; entry : _allEntries)</div>
+<div class="line"><span class="lineno">  321</span>    {</div>
+<div class="line"><span class="lineno">  322</span>        <span class="keywordflow">if</span> (seenIds.count(entry.SpellId))</div>
+<div class="line"><span class="lineno">  323</span>            duplicates.push_back(entry.SpellId);</div>
+<div class="line"><span class="lineno">  324</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  325</span>            seenIds.insert(entry.SpellId);</div>
+<div class="line"><span class="lineno">  326</span>    }</div>
+<div class="line"><span class="lineno">  327</span> </div>
+<div class="line"><span class="lineno">  328</span>    <span class="keywordflow">if</span> (!duplicates.empty())</div>
+<div class="line"><span class="lineno">  329</span>    {</div>
+<div class="line"><span class="lineno">  330</span>        std::cout &lt;&lt; <span class="stringliteral">&quot;[  WARN    ] Duplicate SpellIds found: &quot;</span>;</div>
+<div class="line"><span class="lineno">  331</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keywordtype">id</span> : duplicates)</div>
+<div class="line"><span class="lineno">  332</span>            std::cout &lt;&lt; <span class="keywordtype">id</span> &lt;&lt; <span class="stringliteral">&quot; &quot;</span>;</div>
+<div class="line"><span class="lineno">  333</span>        std::cout &lt;&lt; std::endl;</div>
+<div class="line"><span class="lineno">  334</span>    }</div>
+<div class="line"><span class="lineno">  335</span> </div>
+<div class="line"><span class="lineno">  336</span>    EXPECT_TRUE(duplicates.empty()) &lt;&lt; <span class="stringliteral">&quot;Should have no duplicate SpellIds&quot;</span>;</div>
+<div class="line"><span class="lineno">  337</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a9c2b63e811e5bae6092ac12f33e514b8" name="a9c2b63e811e5bae6092ac12f33e514b8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9c2b63e811e5bae6092ac12f33e514b8">&#9670;&#160;</a></span>TEST_P()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_P </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dbf/a29648.html">SpellProcDBCValidationParamTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">EntryHasValidSpellId&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   78</span>{</div>
+<div class="line"><span class="lineno">   79</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; entry = GetParam();</div>
+<div class="line"><span class="lineno">   80</span>    int32_t spellId = std::abs(entry.SpellId);</div>
+<div class="line"><span class="lineno">   81</span> </div>
+<div class="line"><span class="lineno">   82</span>    <span class="comment">// Spell ID must be positive after abs</span></div>
+<div class="line"><span class="lineno">   83</span>    EXPECT_GT(spellId, 0) &lt;&lt; <span class="stringliteral">&quot;SpellId must be non-zero&quot;</span>;</div>
+<div class="line"><span class="lineno">   84</span> </div>
+<div class="line"><span class="lineno">   85</span>    <span class="comment">// Spell IDs in WotLK should be &lt; 80000</span></div>
+<div class="line"><span class="lineno">   86</span>    EXPECT_LT(spellId, 80000u)</div>
+<div class="line"><span class="lineno">   87</span>        &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; spellId &lt;&lt; <span class="stringliteral">&quot; seems out of range for WotLK&quot;</span>;</div>
+<div class="line"><span class="lineno">   88</span>}</div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -690,8 +719,8 @@ template&lt;class C &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../db/d08/a04848.html">Acore</a></li><li class="navelem"><a class="el" href="../../d7/d61/a04868.html">Containers</a></li>
-    <li class="footer">Generated on Mon Feb 16 2026 21:02:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d7/d61/a04868.html">SpellProcDBCValidationTest.cpp</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:14:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,8 +1,7 @@
 var a23924 =
 [
-    [ "boss_commander_sarannis", "d7/d77/a23924.html#ace0957feb37f864798008849be25f607", null ],
-    [ "JustDied", "d7/d77/a23924.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
-    [ "JustEngagedWith", "d7/d77/a23924.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
-    [ "KilledUnit", "d7/d77/a23924.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
-    [ "ScheduleReinforcements", "d7/d77/a23924.html#a293f0b860a66396a30c6d255eef85309", null ]
+    [ "HandleEffect", "d7/d77/a23924.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
+    [ "PrepareSpellScript", "d7/d77/a23924.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
+    [ "Register", "d7/d77/a23924.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
+    [ "Validate", "d7/d77/a23924.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
 ];

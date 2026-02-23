@@ -1,8 +1,9 @@
 var a12336 =
 [
-    [ "boss_highlordomokkAI", "d5/da2/a12336.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
-    [ "JustDied", "d5/da2/a12336.html#ac7e125b4350880d3d195b915c8be9de0", null ],
-    [ "JustEngagedWith", "d5/da2/a12336.html#a072dc582f931deb7d1e0db9ad535f146", null ],
-    [ "Reset", "d5/da2/a12336.html#a627390013798de7a53a95817624417e3", null ],
-    [ "UpdateAI", "d5/da2/a12336.html#a38e6008d616131d2876ae5a085a083ff", null ]
+    [ "npc_burning_spiritAI", "d5/da2/a12336.html#a52f63423d09794446b0c01da2feb325d", null ],
+    [ "EnterEvadeMode", "d5/da2/a12336.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
+    [ "IsSummonedBy", "d5/da2/a12336.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
+    [ "MovementInform", "d5/da2/a12336.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
+    [ "_events", "d5/da2/a12336.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
+    [ "_flamelasherGUID", "d5/da2/a12336.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
 ];

@@ -1,6 +1,6 @@
 var a18080 =
 [
-    [ "PrepareSpellScript", "d3/d12/a18080.html#a9041ce6139de9a48621d6898ddcca673", null ],
-    [ "RecalculateDamage", "d3/d12/a18080.html#abfb7c002577a59864fb2aa069b713c0a", null ],
-    [ "Register", "d3/d12/a18080.html#a4308449e8cbe7ed59598a837024141cb", null ]
+    [ "IgbExplosionCheck", "d3/d12/a18080.html#ae67cca111f26a275614810cbe053bcd8", null ],
+    [ "operator()", "d3/d12/a18080.html#a28ce6685366e99db2aa1e4022012f943", null ],
+    [ "_source", "d3/d12/a18080.html#a413ee8f2218621d274d118aea967dc9b", null ]
 ];

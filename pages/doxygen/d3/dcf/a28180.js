@@ -1,5 +1,5 @@
 var a28180 =
 [
-    [ "ID", "d3/dcf/a28180.html#a01bcdc3543d3ff250354acf5e0724c14", null ],
-    [ "spellId", "d3/dcf/a28180.html#aabbb95c091e0b0946bcb05746b1c23f3", null ]
+    [ "go_southfury_moonstone", "d3/dcf/a28180.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
+    [ "OnGossipHello", "d3/dcf/a28180.html#a9d9708da940c1ee37f9eb4558ed97737", null ]
 ];

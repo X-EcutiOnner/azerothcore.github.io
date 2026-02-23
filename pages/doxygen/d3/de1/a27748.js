@@ -1,11 +1,7 @@
 var a27748 =
 [
-    [ "npc_franklinAI", "d3/de1/a27748.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
-    [ "DamageTaken", "d3/de1/a27748.html#afa494098126ce3291e234cfc2b36336f", null ],
-    [ "JustEngagedWith", "d3/de1/a27748.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
-    [ "Reset", "d3/de1/a27748.html#a51a260460facf06ec6bb1486f434d885", null ],
-    [ "ScheduleEncounterStart", "d3/de1/a27748.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
-    [ "SpellHit", "d3/de1/a27748.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
-    [ "UpdateAI", "d3/de1/a27748.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
-    [ "events", "d3/de1/a27748.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
+    [ "FilterTargets", "d3/de1/a27748.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
+    [ "PrepareSpellScript", "d3/de1/a27748.html#a954f00317eab544dd57e657368aab7fb", null ],
+    [ "Register", "d3/de1/a27748.html#a1804684c8685372faf2e88e56b48f5be", null ],
+    [ "Validate", "d3/de1/a27748.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
 ];

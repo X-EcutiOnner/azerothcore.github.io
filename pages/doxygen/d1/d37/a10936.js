@@ -1,9 +1,7 @@
 var a10936 =
 [
-    [ "WrapItem", "d1/d37/a10936.html#a7de705fe4ac1b4d71a6487533f40f2aa", null ],
-    [ "Read", "d1/d37/a10936.html#adcd87a65cc32bc0096b650a705de9a55", null ],
-    [ "GiftBag", "d1/d37/a10936.html#a45ebce1daa3de00eca9ff7fb352a9063", null ],
-    [ "GiftSlot", "d1/d37/a10936.html#acd6da351e2ad9108921e2d9c7b13e82b", null ],
-    [ "ItemBag", "d1/d37/a10936.html#a577a588900d74f22cfe67a1fbe82424b", null ],
-    [ "ItemSlot", "d1/d37/a10936.html#a6a4bd31c0d4b97a019caca716a79c073", null ]
+    [ "GuildBankWithdrawMoney", "d1/d37/a10936.html#a7bd310d1fa4fb332cd815a259de3ef2d", null ],
+    [ "Read", "d1/d37/a10936.html#a420aac24befdc5ac26171faa15c3c350", null ],
+    [ "Banker", "d1/d37/a10936.html#a68f9a4191c349702881774bff4069f03", null ],
+    [ "Money", "d1/d37/a10936.html#a349f8608d589ac3a5697c7c1cf73723e", null ]
 ];

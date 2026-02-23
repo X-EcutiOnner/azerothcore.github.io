@@ -1,6 +1,6 @@
 var a14528 =
 [
-    [ "npc_direbrew_antagonist", "da/dde/a14528.html#a30fed4e6888d98af576dea8e13c510d3", null ],
-    [ "DoAction", "da/dde/a14528.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
-    [ "JustEngagedWith", "da/dde/a14528.html#aaf54b03d66d726901c289ff28d362787", null ]
+    [ "LaunchHit", "da/dde/a14528.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
+    [ "PrepareSpellScript", "da/dde/a14528.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
+    [ "Register", "da/dde/a14528.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
 ];

@@ -1,6 +1,7 @@
 var a22880 =
 [
-    [ "PrepareSpellScript", "dd/d2b/a22880.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
-    [ "Register", "dd/d2b/a22880.html#aa41700bf097963c5a352442723181037", null ],
-    [ "SelectTarget", "dd/d2b/a22880.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
+    [ "npc_ashtongue_channeler", "dd/d2b/a22880.html#af7217d00f87e56e5cdb411fcad161b51", null ],
+    [ "Reset", "dd/d2b/a22880.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
+    [ "UpdateAI", "dd/d2b/a22880.html#af855dfa521404c4e6127a9bf12a75604", null ],
+    [ "scheduler", "dd/d2b/a22880.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
 ];

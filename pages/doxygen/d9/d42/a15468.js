@@ -1,6 +1,6 @@
 var a15468 =
 [
-    [ "FilterTargets", "d9/d42/a15468.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
-    [ "PrepareSpellScript", "d9/d42/a15468.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
-    [ "Register", "d9/d42/a15468.html#aaf7b4fba94d94331f6b35add2b836061", null ]
+    [ "go_ossirian_crystalAI", "d8/dcc/a15472.html", "d8/dcc/a15472" ],
+    [ "go_ossirian_crystal", "d9/d42/a15468.html#a783f0f0570ee0f667920e29613b565b2", null ],
+    [ "GetAI", "d9/d42/a15468.html#a2f7b12eddc6504917614913e347ec0a0", null ]
 ];

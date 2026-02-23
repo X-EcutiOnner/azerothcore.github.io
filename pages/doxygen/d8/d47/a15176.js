@@ -1,10 +1,6 @@
 var a15176 =
 [
-    [ "instance_maraudon_InstanceMapScript", "d8/d47/a15176.html#a9c46508320d3973006561444feae0586", null ],
-    [ "Initialize", "d8/d47/a15176.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
-    [ "OnGameObjectCreate", "d8/d47/a15176.html#a3a287b97db58c3489815f20ee0d37977", null ],
-    [ "ReadSaveDataMore", "d8/d47/a15176.html#ac2cd336874b25ad20dac104037de1df5", null ],
-    [ "SetData", "d8/d47/a15176.html#a6e90bf60a076c164e432128f7ec62fba", null ],
-    [ "WriteSaveDataMore", "d8/d47/a15176.html#a6e4072342e66689d343912de85e66b34", null ],
-    [ "_encounters", "d8/d47/a15176.html#af2e752a791d75e50001060c4a9f18173", null ]
+    [ "boss_mal_ganisAI", "de/de6/a15180.html", "de/de6/a15180" ],
+    [ "boss_mal_ganis", "d8/d47/a15176.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
+    [ "GetAI", "d8/d47/a15176.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
 ];

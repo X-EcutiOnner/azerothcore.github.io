@@ -1,8 +1,6 @@
 var a24280 =
 [
-    [ "npc_captain_saeedAI", "d7/de0/a24284.html", "d7/de0/a24284" ],
-    [ "npc_captain_saeed", "df/d96/a24280.html#a8a5bee9f908b10451b8d4720dff85670", null ],
-    [ "GetAI", "df/d96/a24280.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
-    [ "OnGossipHello", "df/d96/a24280.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
-    [ "OnGossipSelect", "df/d96/a24280.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
+    [ "npc_pet_dk_army_of_the_dead", "df/d96/a24280.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
+    [ "InitializeAI", "df/d96/a24280.html#add16c667f3e614f9d6ceebbe17cf0515", null ],
+    [ "IsSummonedBy", "df/d96/a24280.html#a4f1acbbccd68c83a7c3ea14b26a56305", null ]
 ];

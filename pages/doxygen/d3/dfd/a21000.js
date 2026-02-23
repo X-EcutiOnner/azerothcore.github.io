@@ -1,6 +1,5 @@
 var a21000 =
 [
-    [ "boss_yoggsaron_guardian_of_ysAI", "d8/d18/a21004.html", "d8/d18/a21004" ],
-    [ "boss_yoggsaron_guardian_of_ys", "d3/dfd/a21000.html#a299b346a4e9ac5190d554702dcf00faf", null ],
-    [ "GetAI", "d3/dfd/a21000.html#a86380b3ad87e0070541d22d3fb74058f", null ]
+    [ "AreaTrigger_at_celestial_planetarium_enterance", "d3/dfd/a21000.html#ae1503a754a05a77991d9955a2fb74265", null ],
+    [ "OnTrigger", "d3/dfd/a21000.html#aa7aa93e00170313de251af4e562c422c", null ]
 ];

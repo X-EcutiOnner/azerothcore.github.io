@@ -1,6 +1,7 @@
 var a27392 =
 [
-    [ "npc_spirit_shadeAI", "d9/d5d/a27396.html", "d9/d5d/a27396" ],
-    [ "npc_spirit_shade", "d8/d15/a27392.html#a891ede5651789274496d6426daf9937d", null ],
-    [ "GetAI", "d8/d15/a27392.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
+    [ "HandleDummy", "d8/d15/a27392.html#a00d36b914f5fd0466ae775e1fc95aa4f", null ],
+    [ "PrepareSpellScript", "d8/d15/a27392.html#a86a5c2b8ff373af7e98645b8b380145c", null ],
+    [ "Register", "d8/d15/a27392.html#a1b879ab84b8d6227ee5b2cccccd38bc2", null ],
+    [ "Validate", "d8/d15/a27392.html#aa7d437146a96bb40c1a66a453e3e4339", null ]
 ];

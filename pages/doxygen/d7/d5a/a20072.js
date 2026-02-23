@@ -1,6 +1,9 @@
 var a20072 =
 [
-    [ "npc_freya_wardAI", "d0/d4f/a20076.html", "d0/d4f/a20076" ],
-    [ "npc_freya_ward", "d7/d5a/a20072.html#aebaadcc001922c78e8ec43084a827ac9", null ],
-    [ "GetAI", "d7/d5a/a20072.html#a90c0e7a0be1717bf1793415b6fcafbed", null ]
+    [ "CheckTargets", "d7/d5a/a20072.html#a9340c167ef70508635092e273c23dcde", null ],
+    [ "CountTargets", "d7/d5a/a20072.html#a996db37b678143fbc0a392032d29fff5", null ],
+    [ "Load", "d7/d5a/a20072.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
+    [ "PrepareSpellScript", "d7/d5a/a20072.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
+    [ "Register", "d7/d5a/a20072.html#aed312a4408134589fd02bbcb844fd1b7", null ],
+    [ "_targetCount", "d7/d5a/a20072.html#ac780614674e748274081f9f99a5165fe", null ]
 ];

@@ -1,6 +1,6 @@
 var a16036 =
 [
-    [ "npc_sergeant_blyAI", "d8/dec/a16040.html", "d8/dec/a16040" ],
-    [ "npc_sergeant_bly", "d1/dc4/a16036.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
-    [ "GetAI", "d1/dc4/a16036.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
+    [ "npc_aquementasAI", "d8/dec/a16040.html", "d8/dec/a16040" ],
+    [ "npc_aquementas", "d1/dc4/a16036.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
+    [ "GetAI", "d1/dc4/a16036.html#a8a071b3073d69306feb84aca347a22c8", null ]
 ];

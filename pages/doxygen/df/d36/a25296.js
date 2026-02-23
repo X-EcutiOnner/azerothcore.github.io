@@ -1,7 +1,7 @@
 var a25296 =
 [
-    [ "HandleDummy", "df/d36/a25296.html#af5d0fc4e596c04c6ca3faf4079f6b602", null ],
-    [ "Load", "df/d36/a25296.html#a4098aa621012c5e3623ee905d2d2c8eb", null ],
-    [ "PrepareSpellScript", "df/d36/a25296.html#ad9d1823fa4302334419e6f9a01f0a728", null ],
-    [ "Register", "df/d36/a25296.html#a4d683270dc086454630475d39f0105e8", null ]
+    [ "HandleScript", "df/d36/a25296.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
+    [ "PrepareSpellScript", "df/d36/a25296.html#a7909f23da8385abdabb62e5196d88d38", null ],
+    [ "Register", "df/d36/a25296.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
+    [ "Validate", "df/d36/a25296.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
 ];

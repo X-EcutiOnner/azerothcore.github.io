@@ -1,7 +1,6 @@
 var a25632 =
 [
-    [ "HandleScriptEffect", "d3/d07/a25632.html#ab1d476e7a07da5db80908fb669b6fa6b", null ],
-    [ "PrepareSpellScript", "d3/d07/a25632.html#acf30d245bab2e7a1ee1121008345e667", null ],
-    [ "Register", "d3/d07/a25632.html#a303a38a41f3d9be6e3083690b234e51f", null ],
-    [ "Validate", "d3/d07/a25632.html#a77a3256cdea185ce0ea95d88283c55d7", null ]
+    [ "CheckProc", "d3/d07/a25632.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
+    [ "PrepareAuraScript", "d3/d07/a25632.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
+    [ "Register", "d3/d07/a25632.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
 ];

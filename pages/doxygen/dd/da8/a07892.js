@@ -1,6 +1,5 @@
 var a07892 =
 [
-    [ "value_type", "dd/da8/a07892.html#a39c517c76f9109f1bccd27cd04ec88cd", null ],
-    [ "StoreTo", "dd/da8/a07892.html#a5658d34ee9af224a3d19ba5d5123535e", null ],
-    [ "tag", "dd/da8/a07892.html#a3538ae91cb7d37c3d0a6a4964f4baaf9", null ]
+    [ "value_type", "dd/da8/a07892.html#ae75362e108b0a7323fe92cae75c4729c", null ],
+    [ "TryConsume", "dd/da8/a07892.html#a19112294c2e36c8e36fb3f77f2ccabba", null ]
 ];

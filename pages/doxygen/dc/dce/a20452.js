@@ -1,7 +1,5 @@
 var a20452 =
 [
-    [ "HandleAfterEffectApply", "dc/dce/a20452.html#adab765d78094eec673abce5140145267", null ],
-    [ "OnApply", "dc/dce/a20452.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
-    [ "PrepareAuraScript", "dc/dce/a20452.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
-    [ "Register", "dc/dce/a20452.html#ac1007ce2ee5e046639829558855f0188", null ]
+    [ "achievement_getting_cold_in_here", "dc/dce/a20452.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
+    [ "OnCheck", "dc/dce/a20452.html#aeafd382d378381f754da6ee04d382276", null ]
 ];

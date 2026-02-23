@@ -1,6 +1,7 @@
 var a29372 =
 [
-    [ "generic_creatureAI", "d2/daf/a29376.html", "d2/daf/a29376" ],
-    [ "generic_creature", "da/d54/a29372.html#a2da1630d1a336193ea51cf59f8cb9825", null ],
-    [ "GetAI", "da/d54/a29372.html#a5635106fb7d3a58a27d20ee2ec07c422", null ]
+    [ "TalentSpellPos", "da/d54/a29372.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
+    [ "TalentSpellPos", "da/d54/a29372.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
+    [ "rank", "da/d54/a29372.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
+    [ "talent_id", "da/d54/a29372.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
 ];

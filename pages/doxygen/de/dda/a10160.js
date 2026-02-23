@@ -1,8 +1,7 @@
 var a10160 =
 [
-    [ "Location", "de/dda/a10160.html#a0c601d413eeb398eb75d386c264ef5ab", null ],
-    [ "Location", "de/dda/a10160.html#ae013ab2bf44bb250644573625bf93265", null ],
-    [ "Location", "de/dda/a10160.html#a0d50c28ba40b409a0c5a9776bfe8ef42", null ],
-    [ "Location", "de/dda/a10160.html#a1270aec177f47a607cb5a1472819c738", null ],
-    [ "orientation", "de/dda/a10160.html#a9fc2637d4441d90c528eaef0f0414b98", null ]
+    [ "Finalize", "de/dda/a10160.html#a90c8b42ef67968bf58acae5678dc7496", null ],
+    [ "Initialize", "de/dda/a10160.html#ad6b97c3e2884dfbe3f17e2579b31ac66", null ],
+    [ "Reset", "de/dda/a10160.html#a6db99ea9863dc60d032bacda37afa078", null ],
+    [ "Update", "de/dda/a10160.html#af044c8725ef11e8a152987225521ef8b", null ]
 ];

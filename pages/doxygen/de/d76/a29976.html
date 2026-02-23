@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/tools/map_extractor/dbcfile.h File Reference</title>
+<title>AzerothCore: WMODoodadData Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,35 +105,98 @@ $(document).ready(function(){initNavTree('de/d76/a29976.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a>  </div>
-  <div class="headertitle"><div class="title">dbcfile.h File Reference</div></div>
+<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="../../d6/dab/a29973.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">WMODoodadData Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;cassert&gt;</code><br />
-<code>#include &lt;string&gt;</code><br />
-</div>
-<p><a href="">Go to the source code of this file.</a></p>
+
+<p><code>#include &quot;<a class="el" href="../../">wmo.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3b/a28952.html">DBCFile</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc2/a28956.html">DBCFile::Exception</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dad/a28960.html">DBCFile::NotFound</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dff/a28964.html">DBCFile::Record</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a28968.html">DBCFile::Iterator</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a43774f8dd70e85e16aa8d49b5c6a25b6"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../de/d84/a29968.html">WMO::MODS</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d76/a29976.html#a43774f8dd70e85e16aa8d49b5c6a25b6">Sets</a></td></tr>
+<tr class="separator:a43774f8dd70e85e16aa8d49b5c6a25b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff167c694a55441bcf5504f5d1933f41"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; char[]&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d76/a29976.html#aff167c694a55441bcf5504f5d1933f41">Paths</a></td></tr>
+<tr class="separator:aff167c694a55441bcf5504f5d1933f41"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51f24c059516683f0744b81819186c0e"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../df/d6c/a29972.html">WMO::MODD</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d76/a29976.html#a51f24c059516683f0744b81819186c0e">Spawns</a></td></tr>
+<tr class="separator:a51f24c059516683f0744b81819186c0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a07f0d7daa9cd934768b8a603dc52bea3"><td class="memItemLeft" align="right" valign="top">std::unordered_set&lt; <a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d76/a29976.html#a07f0d7daa9cd934768b8a603dc52bea3">References</a></td></tr>
+<tr class="separator:a07f0d7daa9cd934768b8a603dc52bea3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="aff167c694a55441bcf5504f5d1933f41" name="aff167c694a55441bcf5504f5d1933f41"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aff167c694a55441bcf5504f5d1933f41">&#9670;&#160;</a></span>Paths</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::unique_ptr&lt;char[]&gt; WMODoodadData::Paths</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00181">Doodad::ExtractSet()</a>, and <a class="el" href="../../#l00038">WMORoot::open()</a>.</p>
+
+</div>
+</div>
+<a id="a07f0d7daa9cd934768b8a603dc52bea3" name="a07f0d7daa9cd934768b8a603dc52bea3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a07f0d7daa9cd934768b8a603dc52bea3">&#9670;&#160;</a></span>References</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::unordered_set&lt;<a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt; WMODoodadData::References</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00181">Doodad::ExtractSet()</a>, and <a class="el" href="../../#l00098">ExtractSingleWmo()</a>.</p>
+
+</div>
+</div>
+<a id="a43774f8dd70e85e16aa8d49b5c6a25b6" name="a43774f8dd70e85e16aa8d49b5c6a25b6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a43774f8dd70e85e16aa8d49b5c6a25b6">&#9670;&#160;</a></span>Sets</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt;<a class="el" href="../../de/d84/a29968.html">WMO::MODS</a>&gt; WMODoodadData::Sets</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00181">Doodad::ExtractSet()</a>, and <a class="el" href="../../#l00038">WMORoot::open()</a>.</p>
+
+</div>
+</div>
+<a id="a51f24c059516683f0744b81819186c0e" name="a51f24c059516683f0744b81819186c0e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a51f24c059516683f0744b81819186c0e">&#9670;&#160;</a></span>Spawns</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt;<a class="el" href="../../df/d6c/a29972.html">WMO::MODD</a>&gt; WMODoodadData::Spawns</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00181">Doodad::ExtractSet()</a>, <a class="el" href="../../#l00098">ExtractSingleWmo()</a>, and <a class="el" href="../../#l00038">WMORoot::open()</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_ac5beb3152ba3ce8038adbba12e192c7.html">tools</a></li><li class="navelem"><a class="el" href="../../dir_816589248c496bc2270bc4e83dc7035c.html">map_extractor</a></li><li class="navelem"><a class="el" href="../../de/d76/a29976.html">dbcfile.h</a></li>
-    <li class="footer">Generated on Mon Feb 2 2026 23:14:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../de/d76/a29976.html">WMODoodadData</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:16:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

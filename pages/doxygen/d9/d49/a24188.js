@@ -1,6 +1,6 @@
 var a24188 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d5/dcb/a24192.html", "d5/dcb/a24192" ],
-    [ "npc_oscillating_frequency_scanner_master_bunny", "d9/d49/a24188.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
-    [ "GetAI", "d9/d49/a24188.html#a60d55e2eda4484ceea4e475ac8653977", null ]
+    [ "npc_zephyr", "d9/d49/a24188.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
+    [ "OnGossipHello", "d9/d49/a24188.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
+    [ "OnGossipSelect", "d9/d49/a24188.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
 ];

@@ -1,5 +1,7 @@
 var a27268 =
 [
-    [ "achievement_bg_ic_mowed_down", "d5/dfd/a27268.html#ab05387d1e14958e87123bd0fc2188445", null ],
-    [ "OnCheck", "d5/dfd/a27268.html#a385e09c605084900f374090e5e19c24f", null ]
+    [ "HandleEffect", "d5/dfd/a27268.html#ab33c9312c9ac4096140a82f381d83235", null ],
+    [ "PrepareSpellScript", "d5/dfd/a27268.html#a6117d7b2720f719d801b5f6e0e719f5f", null ],
+    [ "Register", "d5/dfd/a27268.html#a1f5983124756eca5666ca6adbe5a4544", null ],
+    [ "Validate", "d5/dfd/a27268.html#a08f7e508b50fc44ced0b7ff04e22b333", null ]
 ];

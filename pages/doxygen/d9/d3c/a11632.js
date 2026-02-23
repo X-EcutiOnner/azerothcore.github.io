@@ -1,7 +1,13 @@
 var a11632 =
 [
-    [ "ScriptStateStore", "d9/d3c/a11632.html#a51baffee5c9dbf255591db8ea13ee516", null ],
-    [ "_auraApplication", "d9/d3c/a11632.html#af5098bcedac048808e11bf2f82d705a7", null ],
-    [ "_currentScriptState", "d9/d3c/a11632.html#adddf594d9468b16455da6e2aef683d44", null ],
-    [ "_defaultActionPrevented", "d9/d3c/a11632.html#a63cf373d469af72bc96a3e72351e3256", null ]
+    [ "PetAuraMap", "d9/d3c/a11632.html#a6c020340ff467b5f2d00c3b5f9fee817", null ],
+    [ "PetAura", "d9/d3c/a11632.html#a8cd7e3284837b30a8a3c6739ab5cb9b3", null ],
+    [ "PetAura", "d9/d3c/a11632.html#a79a2f086e2d8dbe1af47716b53df0524", null ],
+    [ "AddAura", "d9/d3c/a11632.html#ae33bb99ab341f66fb2f296ccd6617e63", null ],
+    [ "GetAura", "d9/d3c/a11632.html#a6f8318410229a89e0b3aa2af28d6cb2b", null ],
+    [ "GetDamage", "d9/d3c/a11632.html#a38087712cef92ad55dc84f96e2b9e300", null ],
+    [ "IsRemovedOnChangePet", "d9/d3c/a11632.html#adc1b329e1f303b5ad3f353abb4343cdf", null ],
+    [ "auras", "d9/d3c/a11632.html#abacd738dfb04687810b981297b1a1567", null ],
+    [ "damage", "d9/d3c/a11632.html#a216021a7ad893ae6ca65ea068dd6eedb", null ],
+    [ "removeOnChangePet", "d9/d3c/a11632.html#aa5b3219cd2021341ce0910dce81d8b56", null ]
 ];

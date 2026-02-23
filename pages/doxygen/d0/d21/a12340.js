@@ -1,6 +1,6 @@
 var a12340 =
 [
-    [ "boss_lord_valthalakAI", "dc/da0/a12344.html", "dc/da0/a12344" ],
-    [ "boss_lord_valthalak", "d0/d21/a12340.html#a180ecb2e2b11ee79c80de18124de3dbc", null ],
-    [ "GetAI", "d0/d21/a12340.html#a771bd8ff3918d71007b5e4b05baf3df3", null ]
+    [ "boss_anubshiahAI", "dc/da0/a12344.html", "dc/da0/a12344" ],
+    [ "boss_anubshiah", "d0/d21/a12340.html#a7176d98f966dac62f7ac1a10d3f2afa1", null ],
+    [ "GetAI", "d0/d21/a12340.html#a157420b5f0c4c05e7dc2ee327ef81cb9", null ]
 ];

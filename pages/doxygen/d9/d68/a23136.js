@@ -1,7 +1,5 @@
 var a23136 =
 [
-    [ "HandleEffectRemove", "d9/d68/a23136.html#a6adc572bb13dde9b83a44a1c27833019", null ],
-    [ "PrepareAuraScript", "d9/d68/a23136.html#a877c26735531508d1806273117f3e8bc", null ],
-    [ "Register", "d9/d68/a23136.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5", null ],
-    [ "Validate", "d9/d68/a23136.html#a8c45ba806d865f7b9d56950013bdd81c", null ]
+    [ "go_strange_pool", "d9/d68/a23136.html#aa44feb353ad1cb440e5b6707112af680", null ],
+    [ "OnGossipHello", "d9/d68/a23136.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
 ];

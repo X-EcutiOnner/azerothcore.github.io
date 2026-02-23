@@ -1,6 +1,11 @@
 var a15140 =
 [
-    [ "NpcRunToHome", "dd/d7d/a15140.html#ac190e89b494554e391e6ebd878d7f8e8", null ],
-    [ "Execute", "dd/d7d/a15140.html#a0da766e3bae0d8d97a46ef82b3873cc0", null ],
-    [ "_owner", "dd/d7d/a15140.html#a7dd38171a6e55665fc28a74212313e51", null ]
+    [ "npc_hyjal_ground_trash", "dd/d7d/a15140.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
+    [ "AttackStart", "dd/d7d/a15140.html#a0ab86d651644dcc579585176c2b5c07e", null ],
+    [ "DoAction", "dd/d7d/a15140.html#aa92481bcf993c4eda5ef271145200d77", null ],
+    [ "GetNearbyFriendlyTrashCreature", "dd/d7d/a15140.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
+    [ "JustEngagedWith", "dd/d7d/a15140.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
+    [ "PathEndReached", "dd/d7d/a15140.html#a035610284a56e690200f978b0fd496ab", null ],
+    [ "Reset", "dd/d7d/a15140.html#aa38b45f63841c049a2add0a9832268ef", null ],
+    [ "UpdateAI", "dd/d7d/a15140.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
 ];

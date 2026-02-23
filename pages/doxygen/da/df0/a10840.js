@@ -1,6 +1,8 @@
 var a10840 =
 [
-    [ "GuildBankLogQuery", "da/df0/a10840.html#ab094e91a48d0259b4247157b92997bb2", null ],
-    [ "Read", "da/df0/a10840.html#a5eed269e9285a33ffc61fcfa7d639083", null ],
-    [ "Tab", "da/df0/a10840.html#ae966e3ac144b86e20f65b742ff3be9e3", null ]
+    [ "GuildEvent", "da/df0/a10840.html#a78be16122c01d4c68d67e050ede92006", null ],
+    [ "Write", "da/df0/a10840.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
+    [ "Guid", "da/df0/a10840.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
+    [ "Params", "da/df0/a10840.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
+    [ "Type", "da/df0/a10840.html#a961ae90991fa23bfc94a054dba357392", null ]
 ];

@@ -1,7 +1,10 @@
 var a22568 =
 [
-    [ "npc_wg_quest_giver", "d9/d00/a22568.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "d9/d00/a22568.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "d9/d00/a22568.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "d9/d00/a22568.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "boss_talon_king_ikiss", "d9/d00/a22568.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "JustDied", "d9/d00/a22568.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "d9/d00/a22568.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "d9/d00/a22568.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "d9/d00/a22568.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "d9/d00/a22568.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "d9/d00/a22568.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

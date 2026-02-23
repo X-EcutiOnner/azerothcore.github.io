@@ -1,9 +1,7 @@
 var a15128 =
 [
-    [ "boss_temporus", "d9/df6/a15128.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "d9/df6/a15128.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "d9/df6/a15128.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "d9/df6/a15128.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "d9/df6/a15128.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "d9/df6/a15128.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "hyjalTyrandeAI", "d1/de6/a15132.html", "d1/de6/a15132" ],
+    [ "npc_hyjal_tyrande", "d9/df6/a15128.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
+    [ "GetAI", "d9/df6/a15128.html#a2f863e616352a98763eef9a717d73388", null ],
+    [ "OnGossipSelect", "d9/df6/a15128.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
 ];

@@ -1,7 +1,6 @@
 var a15908 =
 [
-    [ "npc_giltharesAI", "da/dd5/a15912.html", "da/dd5/a15912" ],
-    [ "npc_gilthares", "d5/dc0/a15908.html#af1e0746350b32b68825710e1c3ed91a5", null ],
-    [ "GetAI", "d5/dc0/a15908.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
-    [ "OnQuestAccept", "d5/dc0/a15908.html#a018cc6240a79216acb371241f63e3234", null ]
+    [ "npcs_riverbreeze_and_silversky", "d5/dc0/a15908.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
+    [ "OnGossipHello", "d5/dc0/a15908.html#a7de032322a37f929c316aadfdadda768", null ],
+    [ "OnGossipSelect", "d5/dc0/a15908.html#a93c7b159dda733da5030de747bad30b5", null ]
 ];

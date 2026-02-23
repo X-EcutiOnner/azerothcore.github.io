@@ -1,6 +1,6 @@
 var a18032 =
 [
-    [ "HandlePeriodicTick", "d4/d95/a18032.html#a29bf443cdb53b10032ba382b8ae44828", null ],
-    [ "PrepareAuraScript", "d4/d95/a18032.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
-    [ "Register", "d4/d95/a18032.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
+    [ "npc_gunship_mageAI", "d3/d16/a18036.html", "d3/d16/a18036" ],
+    [ "npc_gunship_mage", "d4/d95/a18032.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
+    [ "GetAI", "d4/d95/a18032.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
 ];

@@ -1,6 +1,9 @@
 var a21528 =
 [
-    [ "npc_ichor_globuleAI", "d0/d3d/a21532.html", "d0/d3d/a21532" ],
-    [ "npc_ichor_globule", "d6/d83/a21528.html#a4dbd3b057e319ba83e0e1c94b99cd2ab", null ],
-    [ "GetAI", "d6/d83/a21528.html#a4fed5ebd2e1b6ff6867a9488a6e1aef2", null ]
+    [ "npc_warmage_coldarraAI", "d6/d83/a21528.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
+    [ "AttackStart", "d6/d83/a21528.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
+    [ "JustEngagedWith", "d6/d83/a21528.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
+    [ "Reset", "d6/d83/a21528.html#adf5094ba2bee34ec793124e798d5af8f", null ],
+    [ "UpdateAI", "d6/d83/a21528.html#a14b221265cc38b4061c52b687274a398", null ],
+    [ "m_uiTimer", "d6/d83/a21528.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
 ];

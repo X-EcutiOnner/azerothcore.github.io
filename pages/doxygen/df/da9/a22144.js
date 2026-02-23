@@ -1,11 +1,6 @@
 var a22144 =
 [
-    [ "npc_lake_frogAI", "df/da9/a22144.html#ac08eeed39d046ce35d7d6aa65d53cab5", null ],
-    [ "ReceiveEmote", "df/da9/a22144.html#abd58e65b6829c70818c578ed615a980b", null ],
-    [ "Reset", "df/da9/a22144.html#a3773b3a21ea25db316481f1da5e6dd3c", null ],
-    [ "sGossipSelect", "df/da9/a22144.html#a95906677ff65e004408ae65df3f49b5c", null ],
-    [ "UpdateAI", "df/da9/a22144.html#aed8368ec27fed5cd14e4a54091aa9584", null ],
-    [ "_events", "df/da9/a22144.html#a314d7d7891c05bda288ea0d590f0cfa4", null ],
-    [ "_following", "df/da9/a22144.html#a0078f9134a61f0ec2465ce103523e341", null ],
-    [ "_runningScript", "df/da9/a22144.html#af76102ba6c9ffd80baa95623b7312980", null ]
+    [ "HandleScript", "df/da9/a22144.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
+    [ "PrepareSpellScript", "df/da9/a22144.html#a5a4ce9453638d61fe52514240f0a9384", null ],
+    [ "Register", "df/da9/a22144.html#a889f931aaa37d3a283f4d585b384a68e", null ]
 ];

@@ -1,11 +1,9 @@
 var a24728 =
 [
-    [ "CalcPeriodic", "db/d86/a24728.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
-    [ "CalculateHasteAmount", "db/d86/a24728.html#a75d428e0b3619d53bd9436712d2e394e", null ],
-    [ "CalculateSPAmount", "db/d86/a24728.html#a81805b43a47065281f83889d8be95c54", null ],
-    [ "CalculateStatAmount", "db/d86/a24728.html#a763276aaa00bb6953e0b52118662e7a8", null ],
-    [ "HandleEffectApply", "db/d86/a24728.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
-    [ "HandlePeriodic", "db/d86/a24728.html#ab3c7d479eae88ab4a59b06610af19429", null ],
-    [ "PrepareAuraScript", "db/d86/a24728.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
-    [ "Register", "db/d86/a24728.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
+    [ "Absorb", "db/d86/a24728.html#a5d4b54569b16175ae84d3c94a1a6fcff", null ],
+    [ "CalculateAmount", "db/d86/a24728.html#a3800ed0d14eacf39a3930c1b5e139f85", null ],
+    [ "Load", "db/d86/a24728.html#a79e3012cb5c78851809d9f4c4d6c4487", null ],
+    [ "PrepareAuraScript", "db/d86/a24728.html#a1bdab939c229c466ce6b71a7e00dedf9", null ],
+    [ "Register", "db/d86/a24728.html#a47bd5ef93255a2d926874d6d70861374", null ],
+    [ "absorbPct", "db/d86/a24728.html#a0c067ba7bbfd5cde53f1323b5c2f47cb", null ]
 ];

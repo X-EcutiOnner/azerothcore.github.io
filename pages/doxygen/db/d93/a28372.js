@@ -1,7 +1,11 @@
 var a28372 =
 [
-    [ "Displayid", "db/d93/a28372.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
-    [ "ExtendedDisplayInfoID", "db/d93/a28372.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
-    [ "ModelId", "db/d93/a28372.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
-    [ "scale", "db/d93/a28372.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
+    [ "npc_franklinAI", "db/d93/a28372.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
+    [ "DamageTaken", "db/d93/a28372.html#afa494098126ce3291e234cfc2b36336f", null ],
+    [ "JustEngagedWith", "db/d93/a28372.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
+    [ "Reset", "db/d93/a28372.html#a51a260460facf06ec6bb1486f434d885", null ],
+    [ "ScheduleEncounterStart", "db/d93/a28372.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
+    [ "SpellHit", "db/d93/a28372.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
+    [ "UpdateAI", "db/d93/a28372.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
+    [ "events", "db/d93/a28372.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
 ];

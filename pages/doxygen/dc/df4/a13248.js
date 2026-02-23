@@ -1,7 +1,17 @@
 var a13248 =
 [
-    [ "HandleEffectApply", "dc/df4/a13248.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "dc/df4/a13248.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "dc/df4/a13248.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "dc/df4/a13248.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "npc_barnesAI", "dc/df4/a13248.html#acf165009e5b2164d8244e709043eba09", null ],
+    [ "JustEngagedWith", "dc/df4/a13248.html#a1f24ea5604563c9a16c5a2a91ae078f1", null ],
+    [ "PrepareEncounter", "dc/df4/a13248.html#acdefdf68be1d870f76cbd0e329e3c890", null ],
+    [ "Reset", "dc/df4/a13248.html#a67ee1ef5c6012e499a9d9d7b77938fbe", null ],
+    [ "StartEvent", "dc/df4/a13248.html#ab5ed76e189150b2bb8a57095289246fe", null ],
+    [ "Talk", "dc/df4/a13248.html#a8a5c4a97e9093220a5d8642fcf6ceece", null ],
+    [ "UpdateAI", "dc/df4/a13248.html#a19c6ac3829ae4c38263eda116d56df88", null ],
+    [ "WaypointReached", "dc/df4/a13248.html#acae5cbc4bcbe91b6810d649385a889a9", null ],
+    [ "instance", "dc/df4/a13248.html#a9094deb17c0c77c968bbfb4f9f05e521", null ],
+    [ "m_uiEventId", "dc/df4/a13248.html#a47ac00c081635aeba9ef02a7f1bbd645", null ],
+    [ "m_uiSpotlightGUID", "dc/df4/a13248.html#aceae6d1588aec9035fb80678af32e96c", null ],
+    [ "PerformanceReady", "dc/df4/a13248.html#a27a8ceb27724f074de840d24dcf0e284", null ],
+    [ "TalkCount", "dc/df4/a13248.html#a555a152b2f4981dc824a6fb0f66b5702", null ],
+    [ "TalkTimer", "dc/df4/a13248.html#afa7fd12da57b887f1254e24d444f43d1", null ]
 ];

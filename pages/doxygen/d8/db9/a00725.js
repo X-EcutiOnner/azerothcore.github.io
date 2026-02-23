@@ -1,8 +1,6 @@
 var a00725 =
 [
-    [ "LootScript", "d5/de8/a10473.html", "d5/de8/a10473" ],
-    [ "LootHook", "d8/db9/a00725.html#a39ce94de1e8ce6b7055130ac7f40632b", [
-      [ "LOOTHOOK_ON_LOOT_MONEY", "d8/db9/a00725.html#a39ce94de1e8ce6b7055130ac7f40632ba71990fd8692b46e728ad526346d0f1f1", null ],
-      [ "LOOTHOOK_END", "d8/db9/a00725.html#a39ce94de1e8ce6b7055130ac7f40632bab03a0874b2fda00aeb19e4b5ab077fea", null ]
-    ] ]
+    [ "clearAcceptTradeMode", "d8/db9/a00725.html#ab516bffb39dfd3d3133b1d3a515c9fb1", null ],
+    [ "clearAcceptTradeMode", "d8/db9/a00725.html#a7b5fc6374a945ebbe9b397c1e115e952", null ],
+    [ "setAcceptTradeMode", "d8/db9/a00725.html#a63b255ea813e0ea4f109492ed7f0213c", null ]
 ];

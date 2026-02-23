@@ -1,6 +1,5 @@
 var a19316 =
 [
-    [ "HandleHit", "d0/dcf/a19316.html#aa6302d9372bf6ea514d49d8c8e280781", null ],
-    [ "PrepareSpellScript", "d0/dcf/a19316.html#a87b57541a36d711ecbca6f485915c9ab", null ],
-    [ "Register", "d0/dcf/a19316.html#ad7290a8d786f64fdf7b5b04a7770ff6d", null ]
+    [ "creatureEntry", "d0/dcf/a19316.html#afab12c40af70303dff2a9553d47dbb7d", null ],
+    [ "questId", "d0/dcf/a19316.html#ace2a7dd58d442b6afb2173311c89593b", null ]
 ];

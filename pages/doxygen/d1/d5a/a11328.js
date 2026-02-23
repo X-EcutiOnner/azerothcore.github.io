@@ -1,8 +1,9 @@
 var a11328 =
 [
-    [ "SkillExtraItemEntry", "d1/d5a/a11328.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
-    [ "SkillExtraItemEntry", "d1/d5a/a11328.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
-    [ "additionalCreateChance", "d1/d5a/a11328.html#a299d886468e9caf22f9d6ce80a64c247", null ],
-    [ "newMaxOrEntry", "d1/d5a/a11328.html#adfda967d36154b039495f0b289a5c9d1", null ],
-    [ "requiredSpecialization", "d1/d5a/a11328.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
+    [ "TotemCreated", "d1/d5a/a11328.html#a24c9e483d1edb526330311c719d750df", null ],
+    [ "Write", "d1/d5a/a11328.html#a554900ae7442f00a63c983ea7ea74510", null ],
+    [ "Duration", "d1/d5a/a11328.html#aff6335b86ac051bccb623124905c7180", null ],
+    [ "Slot", "d1/d5a/a11328.html#a0889c816fbef728f1a0a6c530c801eac", null ],
+    [ "SpellID", "d1/d5a/a11328.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
+    [ "Totem", "d1/d5a/a11328.html#a684d15c5368e8065c78e9320eebb676b", null ]
 ];

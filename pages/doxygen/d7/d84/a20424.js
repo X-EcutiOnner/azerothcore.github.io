@@ -1,6 +1,6 @@
 var a20424 =
 [
-    [ "DestroyWinterCache", "d7/d84/a20424.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
-    [ "PrepareSpellScript", "d7/d84/a20424.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
-    [ "Register", "d7/d84/a20424.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
+    [ "FilterTargets", "d7/d84/a20424.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
+    [ "PrepareSpellScript", "d7/d84/a20424.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
+    [ "Register", "d7/d84/a20424.html#af6704b0789566b2b385ac573eaa50f06", null ]
 ];

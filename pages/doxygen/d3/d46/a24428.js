@@ -1,9 +1,6 @@
 var a24428 =
 [
-    [ "npc_enraged_spiritAI", "d3/d46/a24428.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
-    [ "JustDied", "d3/d46/a24428.html#a9322622f679dbc311bd8983f5037bd2e", null ],
-    [ "JustEngagedWith", "d3/d46/a24428.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
-    [ "Reset", "d3/d46/a24428.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
-    [ "UpdateAI", "d3/d46/a24428.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
-    [ "_scheduler", "d3/d46/a24428.html#afa6825696b0622849f877b392df4b326", null ]
+    [ "PrepareSpellScript", "d3/d46/a24428.html#ad6190cf9ab80ebfd982c1b166d950656", null ],
+    [ "Register", "d3/d46/a24428.html#a4b349a325759517c35d04202e5df9cec", null ],
+    [ "SetDest", "d3/d46/a24428.html#a951f733ab2452655a3b579f8ed190fb0", null ]
 ];

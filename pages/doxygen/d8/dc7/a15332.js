@@ -1,6 +1,6 @@
 var a15332 =
 [
-    [ "HandleDamageCalc", "d8/dc7/a15332.html#a03eb92eff300872cd5fca452a99375ab", null ],
-    [ "PrepareSpellScript", "d8/dc7/a15332.html#ac07421b62bb6044dad89431839a70bd8", null ],
-    [ "Register", "d8/dc7/a15332.html#a70cbf764ab475e2358fa6630798cab9d", null ]
+    [ "instance_maraudon_InstanceMapScript", "d8/d1f/a15336.html", "d8/d1f/a15336" ],
+    [ "instance_maraudon", "d8/dc7/a15332.html#aaae11d2569d04b42840b101a5702cf24", null ],
+    [ "GetInstanceScript", "d8/dc7/a15332.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
 ];

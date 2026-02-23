@@ -1,6 +1,7 @@
 var a20980 =
 [
-    [ "x", "d6/d11/a20980.html#ae4223168378b602a0a96dbb424a22be4", null ],
-    [ "y", "d6/d11/a20980.html#a30f361d8104e4de44541d75945105963", null ],
-    [ "z", "d6/d11/a20980.html#ae68a79519c35302b89976ac29bb77e26", null ]
+    [ "HandleEffectPeriodic", "d6/d11/a20980.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
+    [ "PrepareAuraScript", "d6/d11/a20980.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
+    [ "Register", "d6/d11/a20980.html#a74052d7da1523b3c4010465510e5fe04", null ],
+    [ "Validate", "d6/d11/a20980.html#a587a469c649877f80e8fe80062e8b5d4", null ]
 ];

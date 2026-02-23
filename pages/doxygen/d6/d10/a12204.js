@@ -1,8 +1,9 @@
 var a12204 =
 [
-    [ "boss_evisceratorAI", "d6/d10/a12204.html#a26bfcd3390e987a9fe13dd1a2bc2a7a4", null ],
-    [ "DamageTaken", "d6/d10/a12204.html#aab3e8290963ca6c312715f18727d3e82", null ],
-    [ "JustEngagedWith", "d6/d10/a12204.html#a60f3942b352206888569f60776041a28", null ],
-    [ "UpdateAI", "d6/d10/a12204.html#aa201d35455f2e6eb41df27e264c2c03c", null ],
-    [ "SpellShieldReady", "d6/d10/a12204.html#a3e5d8a40bfca16cc811f35b1293c19aa", null ]
+    [ "send_commandscript", "d6/d10/a12204.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
+    [ "GetCommands", "d6/d10/a12204.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
+    [ "HandleSendItemsCommand", "d6/d10/a12204.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
+    [ "HandleSendMailCommand", "d6/d10/a12204.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
+    [ "HandleSendMessageCommand", "d6/d10/a12204.html#a91017e6171ac9e4dfff6c2036228de47", null ],
+    [ "HandleSendMoneyCommand", "d6/d10/a12204.html#a26938bb54bb3cb678c49737a92cadb56", null ]
 ];

@@ -1,6 +1,8 @@
 var a12980 =
 [
-    [ "HandleHit", "dd/dbd/a12980.html#ae6dbaebdc4b0248215416e8d4550d2cb", null ],
-    [ "PrepareSpellScript", "dd/dbd/a12980.html#ae08237f9eb95cc8a4b53a7de50af7b91", null ],
-    [ "Register", "dd/dbd/a12980.html#a84853f416eb8250dc3d863dbe22a157f", null ]
+    [ "npc_lava_spawn", "dd/dbd/a12980.html#aff97441b2cfbcd68e0788be022ee6236", null ],
+    [ "JustEngagedWith", "dd/dbd/a12980.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
+    [ "Reset", "dd/dbd/a12980.html#ab774d354991c90b1421e6783c0513e59", null ],
+    [ "UpdateAI", "dd/dbd/a12980.html#a6a17c8c40b0110b688ff5faef5585185", null ],
+    [ "_scheduler", "dd/dbd/a12980.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
 ];

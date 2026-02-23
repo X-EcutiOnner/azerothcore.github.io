@@ -1,10 +1,7 @@
 var a12708 =
 [
-    [ "npc_core_ragerAI", "d5/dac/a12708.html#a3c5125e0a10043f6181c10ba749fa579", null ],
-    [ "DamageTaken", "d5/dac/a12708.html#a758eb158eb9d232d74514281028efcb3", null ],
-    [ "Reset", "d5/dac/a12708.html#acf83e469d3d8108276227a942fda28b3", null ],
-    [ "UpdateAI", "d5/dac/a12708.html#a2183cf5ab22b737413b86a657fde6d3c", null ],
-    [ "instance", "d5/dac/a12708.html#a7cfddba62f737214b8cfc7fbffa8c2e2", null ],
-    [ "mangleTimer", "d5/dac/a12708.html#a081333b967abb3812b9ddae2f933a324", null ],
-    [ "rangeCheckTimer", "d5/dac/a12708.html#ade427bdd9ec99807b6f190c890136414", null ]
+    [ "ClassCallSelector", "d5/dac/a12708.html#a223895c97121b0727aac258c12c89e0b", null ],
+    [ "operator()", "d5/dac/a12708.html#ab0d2ab1d94d72c6a202ed0cb2900dd2e", null ],
+    [ "_me", "d5/dac/a12708.html#a5347a24609a21ae0a342682104b1dc14", null ],
+    [ "_targetClass", "d5/dac/a12708.html#a7ce861956ec8d216d2f8cba82c69ea50", null ]
 ];

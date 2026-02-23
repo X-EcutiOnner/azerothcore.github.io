@@ -1,6 +1,7 @@
 var a27756 =
 [
-    [ "npc_taxi", "d2/de6/a27756.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
-    [ "OnGossipHello", "d2/de6/a27756.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
-    [ "OnGossipSelect", "d2/de6/a27756.html#a5a7443abba8cf98a3073195177981edc", null ]
+    [ "HandleDummy", "d2/de6/a27756.html#a0eae8fe2faee05bad7a34e84dddd3317", null ],
+    [ "PrepareSpellScript", "d2/de6/a27756.html#a24634405a8d0ccdd22f4832815262446", null ],
+    [ "Register", "d2/de6/a27756.html#a3394b9b9e5899550251d553ac9f77f8a", null ],
+    [ "Validate", "d2/de6/a27756.html#ae56a900b3484fd6397d38c4ad8efe5c2", null ]
 ];

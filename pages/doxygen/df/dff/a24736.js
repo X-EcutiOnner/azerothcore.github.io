@@ -1,14 +1,6 @@
 var a24736 =
 [
-    [ "Absorb", "df/dff/a24736.html#a401274543919a81efea81008f8020ed1", null ],
-    [ "CalculateAmount", "df/dff/a24736.html#a837b0e3f0135f7b8393f1ee630d90c50", null ],
-    [ "HandleEffectApply", "df/dff/a24736.html#a0acb2be86ed6da238e8769d4871526d3", null ],
-    [ "HandleEffectRemove", "df/dff/a24736.html#a2b1e9dbb5d3543acd36f9253f224b9a7", null ],
-    [ "Load", "df/dff/a24736.html#ab22271735c240c0d375324f54efc8313", null ],
-    [ "PrepareAuraScript", "df/dff/a24736.html#af040fefa0f25f319f98340b9908bb85e", null ],
-    [ "Register", "df/dff/a24736.html#af89379413ea3b10477ea267ac8e51004", null ],
-    [ "Trigger", "df/dff/a24736.html#ae1704ed58255389c7483f75b5f0a227c", null ],
-    [ "Validate", "df/dff/a24736.html#a58faaf03fc6a0974049da2af0fc70825", null ],
-    [ "absorbPct", "df/dff/a24736.html#a3a9bd069cf4732f64990277227d71d0d", null ],
-    [ "hpPct", "df/dff/a24736.html#a83ef3e3f9534366c24311f3281a8d0b8", null ]
+    [ "PrepareAuraScript", "df/dff/a24736.html#a31bde31b6db4f71ce65c6e1a862df771", null ],
+    [ "Register", "df/dff/a24736.html#aebe64c4760d13d8afaebcf4a4b1196fa", null ],
+    [ "UpdateAmount", "df/dff/a24736.html#a621e73a09438f3f9cbaa232125df3b87", null ]
 ];

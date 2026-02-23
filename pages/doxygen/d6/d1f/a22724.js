@@ -1,5 +1,7 @@
 var a22724 =
 [
-    [ "outdoorpvp_na_halaa_creatures", "d6/d1f/a22724.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
-    [ "UpdateAI", "d6/d1f/a22724.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
+    [ "VerasEnvenom", "d6/d1f/a22724.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "d6/d1f/a22724.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "d6/d1f/a22724.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "d6/d1f/a22724.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

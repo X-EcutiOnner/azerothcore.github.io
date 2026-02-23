@@ -1,6 +1,7 @@
 var a19064 =
 [
-    [ "npc_icc_valkyr_heraldAI", "d5/dad/a19068.html", "d5/dad/a19068" ],
-    [ "npc_icc_valkyr_herald", "d1/dab/a19064.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
-    [ "GetAI", "d1/dab/a19064.html#a7537269841d0380d2dc9e4641705acf9", null ]
+    [ "npc_captain_arnathAI", "d1/dab/a19064.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
+    [ "FindFriendlyCreature", "d1/dab/a19064.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
+    [ "Reset", "d1/dab/a19064.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
+    [ "UpdateAI", "d1/dab/a19064.html#a020efd7adc0d60152007906e3229988d", null ]
 ];

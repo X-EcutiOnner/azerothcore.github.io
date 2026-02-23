@@ -1,12 +1,13 @@
 var a23104 =
 [
-    [ "boss_essence_of_desireAI", "d6/d9d/a23104.html#a02f6dec07038297c15c264fb501b01ab", null ],
-    [ "DamageTaken", "d6/d9d/a23104.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
-    [ "DoAction", "d6/d9d/a23104.html#ad55459d8e75f34783c1516be05cbb97f", null ],
-    [ "JustEngagedWith", "d6/d9d/a23104.html#a0976078399b2190cca25aa2ae5c3c201", null ],
-    [ "KilledUnit", "d6/d9d/a23104.html#a07509843bd658e3fc0b02cb817da37e9", null ],
-    [ "MovementInform", "d6/d9d/a23104.html#ad65068c5f56db269b4dc711745f96cfb", null ],
-    [ "Reset", "d6/d9d/a23104.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
-    [ "UpdateAI", "d6/d9d/a23104.html#af348a1b996a8e7704ba55185ef79fe7d", null ],
-    [ "_recentlySpoken", "d6/d9d/a23104.html#a6507c0da056a74d961d28e96120cd676", null ]
+    [ "npc_inner_demon", "d6/d9d/a23104.html#a12063a0125e0e9b5ba5a73f669bfcd84", null ],
+    [ "CanAIAttack", "d6/d9d/a23104.html#a7498fd32b0ace832b38dc624d07478ed", null ],
+    [ "CanBeSeen", "d6/d9d/a23104.html#a5e61d5fc45bf95efaa06f81df58b5fab", null ],
+    [ "CanReceiveDamage", "d6/d9d/a23104.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2", null ],
+    [ "IsSummonedBy", "d6/d9d/a23104.html#a5ed405dd9315cb255d14d3e5f808dc9d", null ],
+    [ "JustDied", "d6/d9d/a23104.html#a15ab3cd6576055ec7ba29a5ed44e73db", null ],
+    [ "OnCalculateMeleeDamageReceived", "d6/d9d/a23104.html#ae95022548b44b23ef93fae24729b5af5", null ],
+    [ "OnCalculatePeriodicTickReceived", "d6/d9d/a23104.html#a546281a2257d0407d294fba1f7d3426f", null ],
+    [ "OnCalculateSpellDamageReceived", "d6/d9d/a23104.html#aa40ee81a4456e1a1f7254d2169f50e88", null ],
+    [ "UpdateAI", "d6/d9d/a23104.html#a977a76b54c4eae6461559d7b15cfc4b2", null ]
 ];

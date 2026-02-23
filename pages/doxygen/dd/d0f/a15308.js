@@ -1,6 +1,15 @@
 var a15308 =
 [
-    [ "go_ossirian_crystalAI", "d4/d2f/a15312.html", "d4/d2f/a15312" ],
-    [ "go_ossirian_crystal", "dd/d0f/a15308.html#a783f0f0570ee0f667920e29613b565b2", null ],
-    [ "GetAI", "dd/d0f/a15308.html#a2f7b12eddc6504917614913e347ec0a0", null ]
+    [ "npc_time_rift", "dd/d0f/a15308.html#ab553bcc40699a63310feaaa7b1bd2604", null ],
+    [ "DoSelectSummon", "dd/d0f/a15308.html#af2932c60efaea64d27d52b118b9a8095", null ],
+    [ "DoSummonAtRift", "dd/d0f/a15308.html#a6cb4717848efe7e5e0b0113a9ff7dcb5", null ],
+    [ "JustSummoned", "dd/d0f/a15308.html#a1d96b081db3cb2a9c40f5adb1c9b109d", null ],
+    [ "Reset", "dd/d0f/a15308.html#ad08ca716f120a45ee1688e03d2049aba", null ],
+    [ "SummonedCreatureDies", "dd/d0f/a15308.html#ae0ebd0268454ac0cac83235afd7f6363", null ],
+    [ "UpdateAI", "dd/d0f/a15308.html#ab5924378c7978c6fae95f9861040c63d", null ],
+    [ "_events", "dd/d0f/a15308.html#a12ffd459f8d63f299269da5b65f60128", null ],
+    [ "_instance", "dd/d0f/a15308.html#a8eab9c3011c885321d59e2884318d0e8", null ],
+    [ "_riftKeeperGUID", "dd/d0f/a15308.html#ad554d8266ded70cadd8c00a3ff5a3321", null ],
+    [ "waveMobIndex", "dd/d0f/a15308.html#aa312223ece9f0f1c4ac2861aed3988a9", null ],
+    [ "waveMobs", "dd/d0f/a15308.html#a7872706f9b5bdee7e6ca2d94e39e592f", null ]
 ];

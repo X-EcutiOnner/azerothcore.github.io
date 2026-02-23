@@ -1,13 +1,8 @@
 var a21392 =
 [
-    [ "MoveX", "dd/daf/a21392.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
-    [ "MoveY", "dd/daf/a21392.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
-    [ "MoveZ", "dd/daf/a21392.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
-    [ "npc", "dd/daf/a21392.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
-    [ "say", "dd/daf/a21392.html#adcd8647fc0ee9799e24173780209f2d9", null ],
-    [ "SpawnO", "dd/daf/a21392.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
-    [ "SpawnX", "dd/daf/a21392.html#af3ae27adaecafe9a09802bc202973d68", null ],
-    [ "SpawnY", "dd/daf/a21392.html#a749e9c6edcc87f258f250344d652145c", null ],
-    [ "SpawnZ", "dd/daf/a21392.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
-    [ "trigger", "dd/daf/a21392.html#ad2291d89a874c79859b3140754594ed7", null ]
+    [ "npc_azure_raiderAI", "dd/daf/a21392.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
+    [ "Reset", "dd/daf/a21392.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
+    [ "UpdateAI", "dd/daf/a21392.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
+    [ "uiConcussionBlowTimer", "dd/daf/a21392.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
+    [ "uiMagicReflectionTimer", "dd/daf/a21392.html#acb262ab506ea58201abfe2057525c548", null ]
 ];

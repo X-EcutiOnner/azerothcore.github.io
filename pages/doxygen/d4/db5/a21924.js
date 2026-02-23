@@ -1,6 +1,6 @@
 var a21924 =
 [
-    [ "npc_hourglass_of_eternityAI", "d9/dac/a21928.html", "d9/dac/a21928" ],
-    [ "npc_hourglass_of_eternity", "d4/db5/a21924.html#a40500ff582ead06bd646be86baad7d35", null ],
-    [ "GetAI", "d4/db5/a21924.html#a6cdec424e78e5c9decac73d091eec0ed", null ]
+    [ "npc_razael_and_lyana", "d4/db5/a21924.html#aec7257a1136a3580e2b4542e032429d6", null ],
+    [ "OnGossipHello", "d4/db5/a21924.html#a9c9085db92853d5275c12e804a68b0fc", null ],
+    [ "OnGossipSelect", "d4/db5/a21924.html#a407d8344280e8e38efb3991fda1d52cd", null ]
 ];

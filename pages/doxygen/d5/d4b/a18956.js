@@ -1,7 +1,6 @@
 var a18956 =
 [
-    [ "HandleEvent", "d5/d4b/a18956.html#a7aea0f5c4cd3765a8266e5478322910b", null ],
-    [ "PrepareSpellScript", "d5/d4b/a18956.html#a2e59f7f9eb67790c59c2e94cf877b4f3", null ],
-    [ "Register", "d5/d4b/a18956.html#a96c6a479141f765b9c0f96b5f148a428", null ],
-    [ "Validate", "d5/d4b/a18956.html#aa86d2cea5cb41b1e0a86248d95b5bfdb", null ]
+    [ "npc_gluttonous_abominationAI", "dc/dde/a18960.html", "dc/dde/a18960" ],
+    [ "npc_gluttonous_abomination", "d5/d4b/a18956.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
+    [ "GetAI", "d5/d4b/a18956.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
 ];

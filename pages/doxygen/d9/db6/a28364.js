@@ -1,8 +1,13 @@
 var a28364 =
 [
-    [ "ID", "d9/db6/a28364.html#a36958c346c8554d9ab1cfb73ac583818", null ],
-    [ "Model", "d9/db6/a28364.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
-    [ "Origin", "d9/db6/a28364.html#a684c69add50ee545ee606ae456a93336", null ],
-    [ "OriginFacing", "d9/db6/a28364.html#a460723250353c7720cd87677991283cf", null ],
-    [ "SoundID", "d9/db6/a28364.html#aa56be05c7ab4015738e049d75ff365c6", null ]
+    [ "npc_nelsonAI", "d9/db6/a28364.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
+    [ "DoAction", "d9/db6/a28364.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
+    [ "JustEngagedWith", "d9/db6/a28364.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
+    [ "JustSummoned", "d9/db6/a28364.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
+    [ "Reset", "d9/db6/a28364.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
+    [ "SpellHit", "d9/db6/a28364.html#afab81d8a6077c755c186bb619944d78d", null ],
+    [ "SummonedCreatureDies", "d9/db6/a28364.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
+    [ "UpdateAI", "d9/db6/a28364.html#ac68749942f37de5f9105556fe7b904b7", null ],
+    [ "events", "d9/db6/a28364.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
+    [ "shouldDespawn", "d9/db6/a28364.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
 ];

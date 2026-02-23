@@ -1,7 +1,6 @@
 var a27524 =
 [
-    [ "go_darkmoon_faire_musicAI", "df/d35/a27524.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
-    [ "UpdateAI", "df/d35/a27524.html#af3d802bd852fc0483f72781edb13b5d5", null ],
-    [ "_events", "df/d35/a27524.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
-    [ "rnd", "df/d35/a27524.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
+    [ "HandleProc", "df/d35/a27524.html#afb4fb2152937e62982aab2a17820d1d9", null ],
+    [ "PrepareAuraScript", "df/d35/a27524.html#a43ec587b6e8ac94baba7253dfec47640", null ],
+    [ "Register", "df/d35/a27524.html#ad0824cc4c53915239d609aa117fc4691", null ]
 ];

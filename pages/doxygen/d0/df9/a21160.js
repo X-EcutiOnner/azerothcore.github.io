@@ -1,7 +1,6 @@
 var a21160 =
 [
-    [ "HandleEffectCalcPeriodic", "d0/df9/a21160.html#af01eb94174952de52615734055b17c1a", null ],
-    [ "HandleEffectPeriodic", "d0/df9/a21160.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
-    [ "PrepareAuraScript", "d0/df9/a21160.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
-    [ "Register", "d0/df9/a21160.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
+    [ "instance_utgarde_pinnacle_InstanceMapScript", "d5/d66/a21164.html", "d5/d66/a21164" ],
+    [ "instance_utgarde_pinnacle", "d0/df9/a21160.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
+    [ "GetInstanceScript", "d0/df9/a21160.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
 ];

@@ -1,13 +1,15 @@
 var a14352 =
 [
-    [ "npc_ohganAI", "d4/dce/a14352.html#a43f7fa66ff39bca177d30fc1d0d78080", null ],
-    [ "JustDied", "d4/dce/a14352.html#a89e506868e3191362545e34d21528b8f", null ],
-    [ "JustEngagedWith", "d4/dce/a14352.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
-    [ "KilledUnit", "d4/dce/a14352.html#a4e202eef928e54bd52160705bba5cc35", null ],
-    [ "Reset", "d4/dce/a14352.html#ac3e1bc9dc819138741eb3b4448051547", null ],
-    [ "SetGUID", "d4/dce/a14352.html#a575531a144c46ae3084e56e452125f16", null ],
-    [ "UpdateAI", "d4/dce/a14352.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
-    [ "_scheduler", "d4/dce/a14352.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
-    [ "instance", "d4/dce/a14352.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],
-    [ "reviveGUID", "d4/dce/a14352.html#afc066ae0c6d370f6632408b08de3c3bb", null ]
+    [ "npc_amanishi_tempest", "d4/dce/a14352.html#a8e15b39501998e9f8c45baef0963d160", null ],
+    [ "DoAction", "d4/dce/a14352.html#a50963cc0aac2560f6ddbf81000943ac3", null ],
+    [ "EnterEvadeMode", "d4/dce/a14352.html#a66c787bd318fdcad83b7b5008b4979f9", null ],
+    [ "JustDied", "d4/dce/a14352.html#aadda903d17a5f4560ce2db896bd7b257", null ],
+    [ "JustEngagedWith", "d4/dce/a14352.html#af277f5d1f73cf79ea8cfcb1e4fc744e3", null ],
+    [ "JustSummoned", "d4/dce/a14352.html#aac72fdc33051370c3cffa388f466b6be", null ],
+    [ "Reset", "d4/dce/a14352.html#aa921f85142f9103bea839bdc0330e1cc", null ],
+    [ "ScheduleEvents", "d4/dce/a14352.html#a09ba0ce51ad981578adcc1950c89d5ae", null ],
+    [ "SummonedCreatureEvade", "d4/dce/a14352.html#a61eebb122c9288c826cdf352c17e0590", null ],
+    [ "UpdateAI", "d4/dce/a14352.html#ad8f6b32c3f08eb2a4ac36a8d91434a4d", null ],
+    [ "_instance", "d4/dce/a14352.html#ab88e1d1ad979192f0519045d8ed2e14f", null ],
+    [ "_summons", "d4/dce/a14352.html#a4337b2bc417d8dafc4a6d5d10bbd0db9", null ]
 ];

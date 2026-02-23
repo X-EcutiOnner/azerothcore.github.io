@@ -1,11 +1,10 @@
 var a22436 =
 [
-    [ "npc_iron_watcherAI", "d0/d66/a22436.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
-    [ "MovementInform", "d0/d66/a22436.html#aaf329f0160efa778abdebf86b1cf230b", null ],
-    [ "Reset", "d0/d66/a22436.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
-    [ "SpellHit", "d0/d66/a22436.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
-    [ "UpdateAI", "d0/d66/a22436.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
-    [ "charging", "d0/d66/a22436.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
-    [ "hpTimer", "d0/d66/a22436.html#afcbb113387345361baf0351a19e6eb1d", null ],
-    [ "spellTimer", "d0/d66/a22436.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
+    [ "OPvPCapturePointHP", "d0/d66/a22436.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
+    [ "ChangeState", "d0/d66/a22436.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
+    [ "FillInitialWorldStates", "d0/d66/a22436.html#aa8d725422951485970d9106450fb6a38", null ],
+    [ "HandlePlayerEnter", "d0/d66/a22436.html#ad9738c621df084d5a3f0070c80403642", null ],
+    [ "HandlePlayerLeave", "d0/d66/a22436.html#a86e849e5387383a6c751e69350ffa07c", null ],
+    [ "SendChangePhase", "d0/d66/a22436.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
+    [ "m_TowerType", "d0/d66/a22436.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
 ];

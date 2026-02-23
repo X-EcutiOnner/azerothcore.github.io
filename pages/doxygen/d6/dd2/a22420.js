@@ -1,6 +1,5 @@
 var a22420 =
 [
-    [ "HandleScript", "d6/dd2/a22420.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
-    [ "PrepareSpellScript", "d6/dd2/a22420.html#a5a4ce9453638d61fe52514240f0a9384", null ],
-    [ "Register", "d6/dd2/a22420.html#a889f931aaa37d3a283f4d585b384a68e", null ]
+    [ "OutdoorPvP_grizzly_hills", "d6/dd2/a22420.html#aa020d8120c62874fb15b4623bbb714d9", null ],
+    [ "GetOutdoorPvP", "d6/dd2/a22420.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
 ];

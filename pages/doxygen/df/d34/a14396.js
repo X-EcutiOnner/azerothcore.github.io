@@ -1,6 +1,8 @@
 var a14396 =
 [
-    [ "boss_renatakiAI", "de/dad/a14400.html", "de/dad/a14400" ],
-    [ "boss_renataki", "df/d34/a14396.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
-    [ "GetAI", "df/d34/a14396.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
+    [ "FilterTargets", "df/d34/a14396.html#a3405b21202d423c649e0b8d341b42d9c", null ],
+    [ "HandleWipeThreat", "df/d34/a14396.html#a2bbcce83bffebc509e9ec54778e82639", null ],
+    [ "PrepareSpellScript", "df/d34/a14396.html#a59948484b528cab69c695f08b39b886d", null ],
+    [ "Register", "df/d34/a14396.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
+    [ "_wipeThreat", "df/d34/a14396.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
 ];

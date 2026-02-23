@@ -1,6 +1,7 @@
 var a16680 =
 [
-    [ "npc_toc_priestAI", "d6/ddf/a16684.html", "d6/ddf/a16684" ],
-    [ "npc_toc_priest", "d1/df1/a16680.html#a0e360a2cc053434d2f76826683da8eee", null ],
-    [ "GetAI", "d1/df1/a16680.html#a6056a81bef962a02537d525f07d1c302", null ]
+    [ "HandleAfterEffectAbsorb", "d1/df1/a16680.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "d1/df1/a16680.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "d1/df1/a16680.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "d1/df1/a16680.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

@@ -1,8 +1,6 @@
 var a11320 =
 [
-    [ "SkillDiscoveryEntry", "d6/df4/a11320.html#a54c0f12153c6e63a37e5da44d233b271", null ],
-    [ "SkillDiscoveryEntry", "d6/df4/a11320.html#a301cae078fe1943cae045e94dc3d38ad", null ],
-    [ "chance", "d6/df4/a11320.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
-    [ "reqSkillValue", "d6/df4/a11320.html#a61e0edc8fee1fa4045d846668d08449c", null ],
-    [ "spellId", "d6/df4/a11320.html#a75ca40729917317173b2953c8f47f833", null ]
+    [ "CorpseMapPositionQuery", "d6/df4/a11320.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
+    [ "Read", "d6/df4/a11320.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
+    [ "unk", "d6/df4/a11320.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
 ];

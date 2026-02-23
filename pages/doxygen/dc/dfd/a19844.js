@@ -1,6 +1,7 @@
 var a19844 =
 [
-    [ "HandleApplyTouch", "dc/dfd/a19844.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "dc/dfd/a19844.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "dc/dfd/a19844.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "CalcDamage", "dc/dfd/a19844.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
+    [ "PrepareSpellScript", "dc/dfd/a19844.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
+    [ "Register", "dc/dfd/a19844.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
+    [ "Validate", "dc/dfd/a19844.html#a773c608119a84cc3f02e7b4d786f2741", null ]
 ];

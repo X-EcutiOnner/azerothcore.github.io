@@ -1,6 +1,6 @@
 var a22328 =
 [
-    [ "npc_blessed_bannerAI", "d7/dbd/a22332.html", "d7/dbd/a22332" ],
-    [ "npc_blessed_banner", "d8/dd7/a22328.html#a779a0c653088b2d206226e146a19101f", null ],
-    [ "GetAI", "d8/dd7/a22328.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
+    [ "CheckCast", "d8/dd7/a22328.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
+    [ "PrepareSpellScript", "d8/dd7/a22328.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
+    [ "Register", "d8/dd7/a22328.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
 ];

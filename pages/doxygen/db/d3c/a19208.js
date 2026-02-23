@@ -1,8 +1,6 @@
 var a19208 =
 [
-    [ "HandleScript", "db/d3c/a19208.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
-    [ "HandleScript2", "db/d3c/a19208.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
-    [ "Load", "db/d3c/a19208.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
-    [ "PrepareSpellScript", "db/d3c/a19208.html#a2d1dbae570206b358878020879708000", null ],
-    [ "Register", "db/d3c/a19208.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "d2/df2/a19212.html", "d2/df2/a19212" ],
+    [ "npc_icc_skybreaker_marksman", "db/d3c/a19208.html#a1d870b78e1acf2d17782265e28698d1c", null ],
+    [ "GetAI", "db/d3c/a19208.html#a374017d37da15705d51ab8edc75683ff", null ]
 ];

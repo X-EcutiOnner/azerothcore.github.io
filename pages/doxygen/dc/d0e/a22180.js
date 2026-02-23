@@ -1,6 +1,6 @@
 var a22180 =
 [
-    [ "npc_attracted_reef_bullAI", "dc/d0e/a22180.html#aa8917a912fb31a5987332e53e8d268e7", null ],
-    [ "MovementInform", "dc/d0e/a22180.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
-    [ "SpellHit", "dc/d0e/a22180.html#ab06ee7ef84d881262ae682b69fae3135", null ]
+    [ "npc_brunnhildar_prisonerAI", "d6/d9d/a22184.html", "d6/d9d/a22184" ],
+    [ "npc_brunnhildar_prisoner", "dc/d0e/a22180.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
+    [ "GetAI", "dc/d0e/a22180.html#aa2a1787849c74a5163a39137c9d03d57", null ]
 ];

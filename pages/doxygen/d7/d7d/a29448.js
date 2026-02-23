@@ -1,8 +1,9 @@
 var a29448 =
 [
-    [ "_ACORE_DB_IMPORT_CONFIG", "d7/d7d/a29448.html#a97392c73658eeeb49d256527b19ad90f", null ],
-    [ "GetConsoleArguments", "d7/d7d/a29448.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "main", "d7/d7d/a29448.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "StartDB", "d7/d7d/a29448.html#a1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "d7/d7d/a29448.html#a927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "chargeConsumed", "d7/d7d/a29448.html#a49f170e5f66cecdf6d719d1f6ac97254", null ],
+    [ "cooldownSet", "d7/d7d/a29448.html#a60219087858953e3ea124b1b784516b2", null ],
+    [ "effectMask", "d7/d7d/a29448.html#ae0feb161d225551bba25d466541cde84", null ],
+    [ "procChance", "d7/d7d/a29448.html#a0299896836a739f2601a5ee1078f53bb", null ],
+    [ "shouldProc", "d7/d7d/a29448.html#a497babcaf1a36b0abd10b4e360c231f2", null ],
+    [ "spellsCast", "d7/d7d/a29448.html#a12d58d19ba4df25b8bd9dc6e1d089408", null ]
 ];

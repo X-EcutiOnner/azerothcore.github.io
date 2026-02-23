@@ -1,8 +1,12 @@
 var a05012 =
 [
-    [ "AreaInfo", "d5/d66/a05016.html", "d5/d66/a05016" ],
-    [ "LiquidInfo", "d4/d79/a05020.html", "d4/d79/a05020" ],
-    [ "areaInfo", "db/dd9/a05012.html#a0d30ac3fa0cefd6eafc1690c75f46f0f", null ],
-    [ "floorZ", "db/dd9/a05012.html#af7c8710b5d296c1d792b4fc34302278f", null ],
-    [ "liquidInfo", "db/dd9/a05012.html#ae59e1e7fdf4913c48a0d82e1d19366a7", null ]
+    [ "DismissCritter", "d5/d14/a11268.html", "d5/d14/a11268" ],
+    [ "PetAbandon", "d8/dcf/a11272.html", "d8/dcf/a11272" ],
+    [ "PetActionSound", "de/d3e/a11296.html", "de/d3e/a11296" ],
+    [ "PetDismissSound", "de/d47/a11300.html", "de/d47/a11300" ],
+    [ "PetLearnedSpell", "d9/da9/a11284.html", "d9/da9/a11284" ],
+    [ "PetSpellAutocast", "d2/d50/a11280.html", "d2/d50/a11280" ],
+    [ "PetStopAttack", "d8/d40/a11276.html", "d8/d40/a11276" ],
+    [ "PetUnlearnedSpell", "dd/d1d/a11288.html", "dd/d1d/a11288" ],
+    [ "RequestPetInfo", "d1/dac/a11292.html", "d1/dac/a11292" ]
 ];

@@ -1,7 +1,8 @@
 var a19028 =
 [
-    [ "HandleDummy", "da/d13/a19028.html#a4bfc155129bd80c94b4b59474f30d748", null ],
-    [ "PrepareSpellScript", "da/d13/a19028.html#a9c72772f9d17b34562bd11418d67872d", null ],
-    [ "Register", "da/d13/a19028.html#a10c9f511da4eb366117d356c118408c6", null ],
-    [ "Validate", "da/d13/a19028.html#a655f2081d17c06c155641efc45efc1f8", null ]
+    [ "npc_rotting_frost_giantAI", "da/d13/a19028.html#a7b412075e17a81bf50aba63f96c16e53", null ],
+    [ "JustDied", "da/d13/a19028.html#a68b4e823de82fdfd31ccf765192e8768", null ],
+    [ "Reset", "da/d13/a19028.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
+    [ "UpdateAI", "da/d13/a19028.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
+    [ "_events", "da/d13/a19028.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
 ];

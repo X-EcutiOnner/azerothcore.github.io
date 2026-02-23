@@ -1,9 +1,7 @@
 var a12180 =
 [
-    [ "npc_burning_spiritAI", "d5/de2/a12180.html#a52f63423d09794446b0c01da2feb325d", null ],
-    [ "EnterEvadeMode", "d5/de2/a12180.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
-    [ "IsSummonedBy", "d5/de2/a12180.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
-    [ "MovementInform", "d5/de2/a12180.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
-    [ "_events", "d5/de2/a12180.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
-    [ "_flamelasherGUID", "d5/de2/a12180.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
+    [ "FoundObjects", "d5/de2/a12180.html#a061c4e27b4a9646bc3636b7642ad9fce", null ],
+    [ "X", "d5/de2/a12180.html#a9a184093c44a45addd7a7bae891496c0", null ],
+    [ "Y", "d5/de2/a12180.html#a86ac02df716e991f629647941dcb29cb", null ],
+    [ "Z", "d5/de2/a12180.html#a50477b2e983580c94b348f7e408a8363", null ]
 ];

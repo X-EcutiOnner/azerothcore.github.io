@@ -1,7 +1,8 @@
 var a12888 =
 [
-    [ "boss_maiden_of_virtue", "d6/d86/a12888.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
-    [ "JustDied", "d6/d86/a12888.html#a6eded246318f6b47b46f45168e4a8069", null ],
-    [ "JustEngagedWith", "d6/d86/a12888.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
-    [ "KilledUnit", "d6/d86/a12888.html#a32dd66a297d11f5ffac1841bae15727a", null ]
+    [ "MajordomoAddData", "d6/d86/a12888.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
+    [ "MajordomoAddData", "d6/d86/a12888.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
+    [ "creatureEntry", "d6/d86/a12888.html#ae3a0444e88158123f4d6359328e89a1d", null ],
+    [ "guid", "d6/d86/a12888.html#a2f2b0aaace557361a21d1072f36933dc", null ],
+    [ "spawnPos", "d6/d86/a12888.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
 ];

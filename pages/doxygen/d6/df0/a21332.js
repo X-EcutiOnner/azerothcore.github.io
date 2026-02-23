@@ -1,13 +1,11 @@
 var a21332 =
 [
-    [ "npc_ravenous_furbolgAI", "d6/df0/a21332.html#a3e2a0cac8a02d2d6105b06b5c21f1628", null ],
-    [ "DoAction", "d6/df0/a21332.html#a837b442d7812b0c5708995d35c0d45f6", null ],
-    [ "JustDied", "d6/df0/a21332.html#a03e5dd969fcc2e3dcebc714247e18bf2", null ],
-    [ "JustEngagedWith", "d6/df0/a21332.html#a003eb350a11f3f5c2355a58958633f36", null ],
-    [ "JustReachedHome", "d6/df0/a21332.html#a09fc5ba4680c1e5a7a49a81c50cee540", null ],
-    [ "MoveInLineOfSight", "d6/df0/a21332.html#a0b4db9708b9b0288ddb1be2f2205e03a", null ],
-    [ "Reset", "d6/df0/a21332.html#aca5ae47050590ec22e6e929f44e09276", null ],
-    [ "UpdateAI", "d6/df0/a21332.html#ad044c04381a8d61a8fefc55129453ddf", null ],
-    [ "events", "d6/df0/a21332.html#a8bf068c63d7ae10c6edf0af3aab1a6c3", null ],
-    [ "m_pInstance", "d6/df0/a21332.html#aeb0a7644ada4d44e649b4ae45e0d2dc2", null ]
+    [ "npc_vh_void_sentryAI", "d6/df0/a21332.html#a312f4bbc07e6d786e85c2b4e89d36344", null ],
+    [ "DoAction", "d6/df0/a21332.html#a0bc95eea54b5cdc16a4d3f588f3ff900", null ],
+    [ "JustDied", "d6/df0/a21332.html#add5121ed38a74be9ae168df5f893f89e", null ],
+    [ "SummonedCreatureDespawn", "d6/df0/a21332.html#a24ff36cdb049da7c67c1f041361e17e4", null ],
+    [ "UpdateAI", "d6/df0/a21332.html#ae1f683d5ef920213c9c86da35c626381", null ],
+    [ "checkTimer", "d6/df0/a21332.html#a675bcae4119e45490403013534c731ef", null ],
+    [ "pInstance", "d6/df0/a21332.html#a7527473944681143bab89fd12b475645", null ],
+    [ "SummonedGUID", "d6/df0/a21332.html#a4420eb2cf4d3b6d161355b0f4ad9516d", null ]
 ];

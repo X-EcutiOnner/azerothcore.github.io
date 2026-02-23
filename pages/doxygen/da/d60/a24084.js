@@ -1,16 +1,14 @@
 var a24084 =
 [
-    [ "instance_the_eye_InstanceMapScript", "da/d60/a24084.html#a0c2b90c0f155e279aece7cd36d9de6d7", null ],
-    [ "GetGuidData", "da/d60/a24084.html#a882432d126cc9e90322eaa16f5ef15c8", null ],
-    [ "OnCreatureCreate", "da/d60/a24084.html#a8a89f56945022e34cc5d9ead06a58b63", null ],
-    [ "OnGameObjectCreate", "da/d60/a24084.html#a56c6933c2c231c228ca147107fbfc930", null ],
-    [ "AlarGUID", "da/d60/a24084.html#a2a5323d92963da3b4b99ef1f7debaa4d", null ],
-    [ "BridgeWindowGUID", "da/d60/a24084.html#a1fa987352d6c4c5f11d5415d4b886aaa", null ],
-    [ "GrandAstromancerCapernianGUID", "da/d60/a24084.html#aa8e267617231a7816a43e9957c745c58", null ],
-    [ "KaelStateLeftGUID", "da/d60/a24084.html#ab2ca710f119fbfc1a7b57a88462d145b", null ],
-    [ "KaelStateRightGUID", "da/d60/a24084.html#a25ba703325800d2976eff860437f3d57", null ],
-    [ "KaelthasGUID", "da/d60/a24084.html#a547528fbfe31974759b0e6fbdf12df31", null ],
-    [ "LordSanguinarGUID", "da/d60/a24084.html#a5794e1c326ad2eb4fee2bdfab8261257", null ],
-    [ "MasterEngineerTelonicusGUID", "da/d60/a24084.html#abded7dc13c226ccad53c151d75ced243", null ],
-    [ "ThaladredTheDarkenerGUID", "da/d60/a24084.html#ada64ef9f71d61ea19144cec596ba06e2", null ]
+    [ "npc_mature_netherwing_drakeAI", "da/d60/a24084.html#a32281f8dfa1c8af8fe6bcac2a8be4220", null ],
+    [ "JustReachedHome", "da/d60/a24084.html#a0de69b5fda6342217697ad264d64d4e6", null ],
+    [ "MovementInform", "da/d60/a24084.html#a456b5de60672120f82506d177faf6b47", null ],
+    [ "Reset", "da/d60/a24084.html#a72eb39e259aed0ab230d4d43722cba13", null ],
+    [ "SpellHit", "da/d60/a24084.html#a749690b386c0c726d11b77bc705b9b01", null ],
+    [ "UpdateAI", "da/d60/a24084.html#a624c256f29d3cefed0bb909da3841853", null ],
+    [ "bCanEat", "da/d60/a24084.html#ad4c671be4f16f23ddf2f2f84b0bd4c94", null ],
+    [ "bIsEating", "da/d60/a24084.html#a0519438fda724a06a0c6f8ed2d7d533d", null ],
+    [ "CastTimer", "da/d60/a24084.html#a630312f70a2f22683311a66e5a4f9ec6", null ],
+    [ "EatTimer", "da/d60/a24084.html#aa50d3a21103dc769d162b1c917100630", null ],
+    [ "uiPlayerGUID", "da/d60/a24084.html#a6b9a435245ddce156d0657aa9e35175b", null ]
 ];

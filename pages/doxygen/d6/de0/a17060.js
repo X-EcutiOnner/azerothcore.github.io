@@ -1,8 +1,6 @@
 var a17060 =
 [
-    [ "npc_fos_leaderAI", "da/dce/a17064.html", "da/dce/a17064" ],
-    [ "npc_fos_leader", "d6/de0/a17060.html#a4223072bc180e990ff9e01bf772def5b", null ],
-    [ "GetAI", "d6/de0/a17060.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
-    [ "OnGossipHello", "d6/de0/a17060.html#a3858054505d439902624378b9355f40d", null ],
-    [ "OnGossipSelect", "d6/de0/a17060.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
+    [ "HandleEffectPeriodic", "d6/de0/a17060.html#a8775f4e2cb6be96f57596413d560206c", null ],
+    [ "PrepareAuraScript", "d6/de0/a17060.html#a45118f9887d248a5eb840b945dee5b79", null ],
+    [ "Register", "d6/de0/a17060.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
 ];

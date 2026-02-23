@@ -1,7 +1,6 @@
 var a15540 =
 [
-    [ "npc_vekniss_stinger", "d1/de9/a15540.html#ad48098961715a924270cb8bbbe77e4b0", null ],
-    [ "JustEngagedWith", "d1/de9/a15540.html#ae7c758687c81cfb223066f0a9348eab8", null ],
-    [ "Reset", "d1/de9/a15540.html#a2a79f3775aad83410ff2670aa438e811", null ],
-    [ "UpdateAI", "d1/de9/a15540.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
+    [ "FilterTargets", "d1/de9/a15540.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
+    [ "PrepareSpellScript", "d1/de9/a15540.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
+    [ "Register", "d1/de9/a15540.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
 ];

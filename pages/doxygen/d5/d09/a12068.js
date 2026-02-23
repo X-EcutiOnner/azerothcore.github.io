@@ -1,9 +1,9 @@
 var a12068 =
 [
-    [ "titles_commandscript", "d5/d09/a12068.html#ac088fd907013150a0508b79c99f6c2f3", null ],
-    [ "GetCommands", "d5/d09/a12068.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
-    [ "HandleTitlesAddCommand", "d5/d09/a12068.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
-    [ "HandleTitlesCurrentCommand", "d5/d09/a12068.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
-    [ "HandleTitlesRemoveCommand", "d5/d09/a12068.html#a2001bcc2eddc5688d57154f9906218e4", null ],
-    [ "HandleTitlesSetMaskCommand", "d5/d09/a12068.html#a9517b10295b856779cdd067234f640c8", null ]
+    [ "event_commandscript", "d5/d09/a12068.html#a160db0ad8874b0834ef863043b1796ae", null ],
+    [ "GetCommands", "d5/d09/a12068.html#aac32a7f3d2d11dc73dfa3e9f8224560e", null ],
+    [ "HandleEventActiveListCommand", "d5/d09/a12068.html#a6752be35103bb585984083a449c85714", null ],
+    [ "HandleEventInfoCommand", "d5/d09/a12068.html#a1f0815bccd6cef61826ada4e349708d9", null ],
+    [ "HandleEventStartCommand", "d5/d09/a12068.html#ad46dbd8892db3548d889d4127461c8e3", null ],
+    [ "HandleEventStopCommand", "d5/d09/a12068.html#a1322b3206a1846dc0404a3fb5c74e025", null ]
 ];

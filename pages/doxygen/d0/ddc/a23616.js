@@ -1,7 +1,6 @@
 var a23616 =
 [
-    [ "HandleScript", "d0/ddc/a23616.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
-    [ "PrepareSpellScript", "d0/ddc/a23616.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
-    [ "Register", "d0/ddc/a23616.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
-    [ "Validate", "d0/ddc/a23616.html#a46aca18049e02d50f57579b3fdc705bd", null ]
+    [ "npc_warden_mellicharAI", "d0/d32/a23620.html", "d0/d32/a23620" ],
+    [ "npc_warden_mellichar", "d0/ddc/a23616.html#aba5c3d005097430941bd40bbbb0d3562", null ],
+    [ "GetAI", "d0/ddc/a23616.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
 ];

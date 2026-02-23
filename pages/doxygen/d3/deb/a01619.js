@@ -1,4 +1,5 @@
 var a01619 =
 [
-    [ "WardenPayloadMgr", "d6/d47/a11849.html", "d6/d47/a11849" ]
+    [ "MotdMgr", "d7/d25/a10132.html", "d7/d25/a10132" ],
+    [ "sMotdMgr", "d3/deb/a01619.html#a0ad6ba4db6e433e72e172e659af2cada", null ]
 ];

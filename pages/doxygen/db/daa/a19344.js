@@ -1,7 +1,6 @@
 var a19344 =
 [
-    [ "HandleScript", "db/daa/a19344.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
-    [ "PrepareAuraScript", "db/daa/a19344.html#aa3053519be0101f55450d76b1291f0f7", null ],
-    [ "Register", "db/daa/a19344.html#ada596a7f19115c7178fd07fb9e956f58", null ],
-    [ "Validate", "db/daa/a19344.html#a768dec18bc0e879c457a64135ec27ad9", null ]
+    [ "npc_four_car_garageAI", "d0/d56/a19348.html", "d0/d56/a19348" ],
+    [ "npc_four_car_garage", "db/daa/a19344.html#ae9b811544ab5cbdcb9c44abdc2da41a8", null ],
+    [ "GetAI", "db/daa/a19344.html#ac55346f9733c5502a9e9f2d6d48feefb", null ]
 ];

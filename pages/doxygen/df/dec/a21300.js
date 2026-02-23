@@ -1,7 +1,6 @@
 var a21300 =
 [
-    [ "HandleOnEffectRemove", "df/dec/a21300.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
-    [ "PrepareAuraScript", "df/dec/a21300.html#a72e6468602d40eb479a80c611d60eb2e", null ],
-    [ "Register", "df/dec/a21300.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
-    [ "Validate", "df/dec/a21300.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
+    [ "boss_moraggAI", "db/d5c/a21304.html", "db/d5c/a21304" ],
+    [ "boss_moragg", "df/dec/a21300.html#aeb43f9cc4c41f049fd0a13e79cadfcd1", null ],
+    [ "GetAI", "df/dec/a21300.html#a5ea2f210038b3e44bf2cb9c402e1b761", null ]
 ];

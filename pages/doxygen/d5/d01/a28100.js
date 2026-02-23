@@ -1,7 +1,6 @@
 var a28100 =
 [
-    [ "Class", "d5/d01/a28100.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
-    [ "Gender", "d5/d01/a28100.html#aba6251a7020c6e66b9fc7a21859df271", null ],
-    [ "ItemId", "d5/d01/a28100.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
-    [ "Race", "d5/d01/a28100.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
+    [ "go_flamesAI", "d5/d01/a28100.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
+    [ "UpdateAI", "d5/d01/a28100.html#a2d4c91f0bff924335881d1096c0af313", null ],
+    [ "timer", "d5/d01/a28100.html#ae53c7c6c669e982babf304f173b58b1a", null ]
 ];

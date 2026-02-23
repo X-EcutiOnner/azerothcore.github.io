@@ -1,6 +1,14 @@
 var a11532 =
 [
-    [ "CheckCastHandler", "db/d70/a11532.html#a8647582abeea09779e05d809cbdb0d06", null ],
-    [ "Call", "db/d70/a11532.html#a805de70601b15de19639ca01c75ae7f7", null ],
-    [ "_checkCastHandlerScript", "db/d70/a11532.html#af13f11d14772afbea06f0020df4bbe6c", null ]
+    [ "alive", "db/d70/a11532.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
+    [ "crit", "db/d70/a11532.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
+    [ "damage", "db/d70/a11532.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
+    [ "damageBeforeTakenMods", "db/d70/a11532.html#a85196e5b5865856962898c18001880c7", null ],
+    [ "effectMask", "db/d70/a11532.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
+    [ "missCondition", "db/d70/a11532.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
+    [ "processed", "db/d70/a11532.html#a2de96d62297ff614fc3702bec035ce5b", null ],
+    [ "reflectResult", "db/d70/a11532.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
+    [ "scaleAura", "db/d70/a11532.html#a89bba366b26686d41288e9b2e725eb75", null ],
+    [ "targetGUID", "db/d70/a11532.html#acf55c1dd6f00c94296c592d988f959cf", null ],
+    [ "timeDelay", "db/d70/a11532.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
 ];

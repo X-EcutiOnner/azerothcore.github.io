@@ -1,5 +1,7 @@
 var a04517 =
 [
-    [ "quest_commandscript", "d3/d54/a12101.html", "d3/d54/a12101" ],
-    [ "AddSC_quest_commandscript", "d8/df9/a04517.html#ae9edb5f21eaacbfd73cc01543cb2fcdd", null ]
+    [ "VMAP::MeshTriangle", "df/d65/a05264.html", "df/d65/a05264" ],
+    [ "VMAP::WmoLiquid", "d9/d33/a05268.html", "d9/d33/a05268" ],
+    [ "VMAP::GroupModel", "d1/d54/a05272.html", "d1/d54/a05272" ],
+    [ "VMAP::WorldModel", "d7/da2/a05276.html", "d7/da2/a05276" ]
 ];

@@ -1,7 +1,9 @@
 var a25592 =
 [
-    [ "HandleScript", "da/da0/a25592.html#a4788a8ce7c88378c8b55d1fe60200b71", null ],
-    [ "PrepareSpellScript", "da/da0/a25592.html#a3317bfc299c6c8c81ef6dfd75ff773f0", null ],
-    [ "Register", "da/da0/a25592.html#a1a44bfb68010c34470ee72c9dcdfc3b4", null ],
-    [ "Validate", "da/da0/a25592.html#ad242bd4bb5f9be8767b170fd2cc9c444", null ]
+    [ "CheckCast", "da/da0/a25592.html#a005565dd77de97b5aa04553a1d6a0185", null ],
+    [ "HandleScript", "da/da0/a25592.html#a7313a3d9840d7dc81e5a894e83cb6347", null ],
+    [ "Load", "da/da0/a25592.html#aadfc8a873c72e31d65001ce00518ca45", null ],
+    [ "PrepareSpellScript", "da/da0/a25592.html#a169b60644259855f0614271e4769f6b9", null ],
+    [ "Register", "da/da0/a25592.html#a9e7f8cbc7ec3de507069b69678005da3", null ],
+    [ "Validate", "da/da0/a25592.html#a9e69eb36c1a2640ff616ae5744c04f4f", null ]
 ];

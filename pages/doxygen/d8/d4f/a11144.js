@@ -1,7 +1,8 @@
 var a11144 =
 [
-    [ "PetDismissSound", "d8/d4f/a11144.html#a035aeb40e5de8b5d3d5d9703ad0f19c9", null ],
-    [ "Write", "d8/d4f/a11144.html#a06f3c97d815a3e8de55bcd2b3eecdb64", null ],
-    [ "ModelId", "d8/d4f/a11144.html#aba65e6547adde55978ce7b2abb779d51", null ],
-    [ "ModelPosition", "d8/d4f/a11144.html#a06e6bff9d70996ba890c31ea74363dad", null ]
+    [ "MinimapPing", "d8/d4f/a11144.html#a846074f55e6224bf322b96c7bfe9e008", null ],
+    [ "Write", "d8/d4f/a11144.html#a94eb49e309ce83b04ccaf8f7e3e8bde7", null ],
+    [ "MapX", "d8/d4f/a11144.html#ab747a36a7dfefb0692e8c6abb1d161e2", null ],
+    [ "MapY", "d8/d4f/a11144.html#a2f8504ddba41dd09f69763d66331373b", null ],
+    [ "SourceGuid", "d8/d4f/a11144.html#abf5d5980b360cbf9332460b01d5816f5", null ]
 ];

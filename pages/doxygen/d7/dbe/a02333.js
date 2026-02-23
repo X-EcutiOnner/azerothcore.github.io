@@ -1,19 +1,37 @@
 var a02333 =
 [
-    [ "ArenaSeasonReward", "db/dc8/a07333.html", "db/dc8/a07333" ],
-    [ "ArenaSeasonRewardGroup", "d9/da9/a07337.html", "d9/da9/a07337" ],
-    [ "ArenaSeasonMgr", "da/dea/a07341.html", "da/dea/a07341" ],
-    [ "sArenaSeasonMgr", "d7/dbe/a02333.html#ac46c94dc4c6cf0de37233cdd42a97ccf", null ],
-    [ "ArenaSeasonRewardGroupCriteriaType", "d7/dbe/a02333.html#a983281e9aada2538d6bc53ae4dd4d266", [
-      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE", "d7/dbe/a02333.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422", null ],
-      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE", "d7/dbe/a02333.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63", null ]
+    [ "npc_bunthen_plainswind", "d2/d30/a15920.html", "d2/d30/a15920" ],
+    [ "npc_great_bear_spirit", "da/ded/a15924.html", "da/ded/a15924" ],
+    [ "npc_silva_filnaveth", "d4/dc7/a15928.html", "d4/dc7/a15928" ],
+    [ "npc_clintar_spirit", "d4/dd5/a15932.html", "d4/dd5/a15932" ],
+    [ "npc_clintar_spirit::npc_clintar_spiritAI", "db/dcb/a15936.html", "db/dcb/a15936" ],
+    [ "npc_omen", "dc/dcd/a15940.html", "dc/dcd/a15940" ],
+    [ "npc_omen::npc_omenAI", "d4/dfe/a15944.html", "d4/dfe/a15944" ],
+    [ "npc_giant_spotlight", "de/d2c/a15948.html", "de/d2c/a15948" ],
+    [ "npc_giant_spotlight::npc_giant_spotlightAI", "d9/ddf/a15952.html", "d9/ddf/a15952" ],
+    [ "Bunthen", "d7/dbe/a02333.html#adbbeebdb932cdc68f2ad2b58d4c922fb", [
+      [ "QUEST_SEA_LION_HORDE", "d7/dbe/a02333.html#adbbeebdb932cdc68f2ad2b58d4c922fba19a2ff94115fefe241626f3331ce747f", null ],
+      [ "QUEST_SEA_LION_ALLY", "d7/dbe/a02333.html#adbbeebdb932cdc68f2ad2b58d4c922fba9333cbca83acf867219e50edeeb6ad5a", null ],
+      [ "TAXI_PATH_ID_ALLY", "d7/dbe/a02333.html#adbbeebdb932cdc68f2ad2b58d4c922fba5f9b640f23c79dda3001d48c5d714b08", null ],
+      [ "TAXI_PATH_ID_HORDE", "d7/dbe/a02333.html#adbbeebdb932cdc68f2ad2b58d4c922fbaa6f489a16374ddf85329d3ee985c460b", null ]
     ] ],
-    [ "ArenaSeasonRewardType", "d7/dbe/a02333.html#a89a1f93759bb943ff9ef0e4991579265", [
-      [ "ARENA_SEASON_REWARD_TYPE_ITEM", "d7/dbe/a02333.html#a89a1f93759bb943ff9ef0e4991579265a124351d53a1d14813bc7af90043d8a32", null ],
-      [ "ARENA_SEASON_REWARD_TYPE_ACHIEVEMENT", "d7/dbe/a02333.html#a89a1f93759bb943ff9ef0e4991579265ad12571a956e334946d72aa118f464444", null ]
+    [ "ClintarSpirit", "d7/dbe/a02333.html#af06e96ced22feb1885564950e05417a2", [
+      [ "ASPECT_RAVEN", "d7/dbe/a02333.html#af06e96ced22feb1885564950e05417a2a5aa355f8770a619dd97c43a1ed6c8e7f", null ],
+      [ "CLINTAR_SPIRIT_SAY_START", "d7/dbe/a02333.html#af06e96ced22feb1885564950e05417a2a4003cbd90da80c6fb02ae957c7e3e60e", null ]
     ] ],
-    [ "ArenaSeasonState", "d7/dbe/a02333.html#a64f8715fead51dc9727d105bce4d0e38", [
-      [ "ARENA_SEASON_STATE_DISABLED", "d7/dbe/a02333.html#a64f8715fead51dc9727d105bce4d0e38ac019cd8397ba38ebc1d327c337d48017", null ],
-      [ "ARENA_SEASON_STATE_IN_PROGRESS", "d7/dbe/a02333.html#a64f8715fead51dc9727d105bce4d0e38a455a35a5e6e89efd32818e52ca82f5f8", null ]
-    ] ]
+    [ "Omen", "d7/dbe/a02333.html#a7fb152206db70a70437b235647a95793", [
+      [ "NPC_OMEN", "d7/dbe/a02333.html#a7fb152206db70a70437b235647a95793a6d34405f4268188f4709fddd135879a1", null ],
+      [ "SPELL_OMEN_CLEAVE", "d7/dbe/a02333.html#a7fb152206db70a70437b235647a95793a525d07772748bd50623894654941eebb", null ],
+      [ "SPELL_OMEN_STARFALL", "d7/dbe/a02333.html#a7fb152206db70a70437b235647a95793a8a65e86a799ba7daf95b45212e2d0cac", null ],
+      [ "SPELL_OMEN_SUMMON_SPOTLIGHT", "d7/dbe/a02333.html#a7fb152206db70a70437b235647a95793a09afe0a7256990b201fc144424201c79", null ],
+      [ "SPELL_ELUNE_CANDLE", "d7/dbe/a02333.html#a7fb152206db70a70437b235647a95793a333999af862b8d1706a4b34ced3448e6", null ],
+      [ "GO_ELUNE_TRAP_1", "d7/dbe/a02333.html#a7fb152206db70a70437b235647a95793a55d48a597022d003e1e18a7cb332c3e3", null ],
+      [ "GO_ELUNE_TRAP_2", "d7/dbe/a02333.html#a7fb152206db70a70437b235647a95793a70bba7030d170525f9351e8643ed8e51", null ],
+      [ "EVENT_CAST_CLEAVE", "d7/dbe/a02333.html#a7fb152206db70a70437b235647a95793a9b4959d7ea485f12c7d67e5bd7672383", null ],
+      [ "EVENT_CAST_STARFALL", "d7/dbe/a02333.html#a7fb152206db70a70437b235647a95793a59097ac157a655e4c9371e19a53820fc", null ],
+      [ "EVENT_DESPAWN", "d7/dbe/a02333.html#a7fb152206db70a70437b235647a95793a37c22b84c74c36e2af467a6bd1047f15", null ]
+    ] ],
+    [ "AddSC_moonglade", "d7/dbe/a02333.html#a849e20dbd083abdfb7fb96857fb7d89f", null ],
+    [ "AspectRavenSummon", "d7/dbe/a02333.html#a8b390a1d926d93da400a7e199a1da6b6", null ],
+    [ "Clintar_spirit_WP", "d7/dbe/a02333.html#adcc622dc5710ac246cbdd4f072ad52fe", null ]
 ];

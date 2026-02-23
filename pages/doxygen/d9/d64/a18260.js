@@ -1,6 +1,6 @@
 var a18260 =
 [
-    [ "CheckTarget", "d9/d64/a18260.html#afce64ba75f8370cab6b8f1e561b10587", null ],
-    [ "PrepareSpellScript", "d9/d64/a18260.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
-    [ "Register", "d9/d64/a18260.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
+    [ "MalleableGooSelector", "d9/d64/a18260.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
+    [ "operator()", "d9/d64/a18260.html#adf73957539fdcc604f849944473e0015", null ],
+    [ "me", "d9/d64/a18260.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
 ];

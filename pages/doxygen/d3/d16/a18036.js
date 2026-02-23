@@ -1,7 +1,8 @@
 var a18036 =
 [
-    [ "OnPeriodic", "d3/d16/a18036.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
-    [ "PrepareAuraScript", "d3/d16/a18036.html#a0e87dae1be4f69e6412129f14056eb79", null ],
-    [ "Register", "d3/d16/a18036.html#a1b26d102252bf7e0fd480076820d343f", null ],
-    [ "Validate", "d3/d16/a18036.html#a211d52aa385a874730abc43b083f2d22", null ]
+    [ "npc_gunship_mageAI", "d3/d16/a18036.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
+    [ "AttackStart", "d3/d16/a18036.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
+    [ "CanAIAttack", "d3/d16/a18036.html#aadcb217a9df96bee02287d75a23e32c2", null ],
+    [ "MovementInform", "d3/d16/a18036.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
+    [ "UpdateAI", "d3/d16/a18036.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
 ];

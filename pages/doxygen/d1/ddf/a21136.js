@@ -1,7 +1,5 @@
 var a21136 =
 [
-    [ "FilterTargets", "d1/ddf/a21136.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
-    [ "HandleDummyEffect", "d1/ddf/a21136.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
-    [ "PrepareSpellScript", "d1/ddf/a21136.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
-    [ "Register", "d1/ddf/a21136.html#a337cdb940a2001ac370768b02126d3c0", null ]
+    [ "npc_ritual_channelerAI", "d1/ddf/a21136.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
+    [ "AttackStart", "d1/ddf/a21136.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
 ];

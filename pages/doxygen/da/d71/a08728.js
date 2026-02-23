@@ -1,11 +1,10 @@
 var a08728 =
 [
-    [ "FriendInfo", "da/d71/a08728.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
-    [ "FriendInfo", "da/d71/a08728.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
-    [ "Area", "da/d71/a08728.html#adf16884b55545ed9302dbb54d653867b", null ],
-    [ "Class", "da/d71/a08728.html#a8b797fcfda05d52d4297f32e458be519", null ],
-    [ "Flags", "da/d71/a08728.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
-    [ "Level", "da/d71/a08728.html#a70d9a74f4587f648db5bf49b61091213", null ],
-    [ "Note", "da/d71/a08728.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
-    [ "Status", "da/d71/a08728.html#a380f11d65b34e1e598b7861987cecfe6", null ]
+    [ "SpellModifier", "da/d71/a08728.html#adba5fad6b904d09a43be7302e7eb62bd", null ],
+    [ "mask", "da/d71/a08728.html#aba1b01bf3486d61cc1876b03078a35ee", null ],
+    [ "op", "da/d71/a08728.html#a21d017f0c8d3108a0eb5f48798103356", null ],
+    [ "ownerAura", "da/d71/a08728.html#a5e180553fb4739eb7f947da70fbe7ef8", null ],
+    [ "spellId", "da/d71/a08728.html#a465803efab27b2ba0a49c6571b65b908", null ],
+    [ "type", "da/d71/a08728.html#a22f64b9c021f5a87f30f01ef117ebb0b", null ],
+    [ "value", "da/d71/a08728.html#a31742662ba8112c9e9b972897a928e57", null ]
 ];

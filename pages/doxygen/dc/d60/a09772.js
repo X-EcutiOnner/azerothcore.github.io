@@ -1,14 +1,15 @@
 var a09772 =
 [
-    [ "LootItemStorage", "dc/d60/a09772.html#aa6ece474f05744f2ce24a9fef42734af", null ],
-    [ "~LootItemStorage", "dc/d60/a09772.html#a36faeed6ef556fd13118c4ad34e38548", null ],
-    [ "AddNewStoredLoot", "dc/d60/a09772.html#a4c463773b50ae1b312865fbf72dfed18", null ],
-    [ "instance", "dc/d60/a09772.html#a58d6dc6afa42364ca1dd6cbdcfb55b2b", null ],
-    [ "LoadStorageFromDB", "dc/d60/a09772.html#a377c75f9d06eb246072b29d19baf2b62", null ],
-    [ "LoadStoredLoot", "dc/d60/a09772.html#ad9804f564302d6ea4db4b84a6cbb093b", null ],
-    [ "RemoveEntryFromDB", "dc/d60/a09772.html#a8ab68725c0525d162d325a2131db4c49", null ],
-    [ "RemoveStoredLoot", "dc/d60/a09772.html#a414dee93f9852a64f01f9d9bf8dc8b40", null ],
-    [ "RemoveStoredLootItem", "dc/d60/a09772.html#a6fd3f2ac820784ba51413b3781df3bcc", null ],
-    [ "RemoveStoredLootMoney", "dc/d60/a09772.html#ab22d267a6701fedf824f801e4b703f70", null ],
-    [ "lootItemStore", "dc/d60/a09772.html#a58ae52b9812e5752ba00d00a58eb56b0", null ]
+    [ "LogHolder", "dc/d60/a09772.html#a3432ee2f32857bd02e75fdb5ba922bd1", null ],
+    [ "AddEvent", "dc/d60/a09772.html#a5f6d81d9048290815053bb4aa3531d73", null ],
+    [ "CanInsert", "dc/d60/a09772.html#aefdb4e57b5bf35b00564491547e6e2a9", null ],
+    [ "GetGuildId", "dc/d60/a09772.html#ada98449548b389a1cd8177087e3aa5e8", null ],
+    [ "GetGuildLog", "dc/d60/a09772.html#a17593c12663e8c4251f94636e511c73a", null ],
+    [ "GetGuildLog", "dc/d60/a09772.html#ae43929001324d6bece4e45bc95115535", null ],
+    [ "GetNextGUID", "dc/d60/a09772.html#aed00250b6a1036a91dd971af510f7750", null ],
+    [ "LoadEvent", "dc/d60/a09772.html#a22e87750252d1c4f62f2e5686a2e008d", null ],
+    [ "m_guildId", "dc/d60/a09772.html#a3827f9fb3fc13300f60d9f7dd27154c7", null ],
+    [ "m_log", "dc/d60/a09772.html#aca25adbc1c1e9397c837a53793568b64", null ],
+    [ "m_maxRecords", "dc/d60/a09772.html#a755788eaede72a131f74ae7de88c37b4", null ],
+    [ "m_nextGUID", "dc/d60/a09772.html#a267cecce9b2f244235800c93a086e8e2", null ]
 ];

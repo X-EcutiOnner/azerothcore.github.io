@@ -1,9 +1,5 @@
 var a24112 =
 [
-    [ "boss_nethermancer_sepethrea", "dc/d79/a24112.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "EnterEvadeMode", "dc/d79/a24112.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
-    [ "JustDied", "dc/d79/a24112.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
-    [ "JustEngagedWith", "dc/d79/a24112.html#a89851b9f6eb94270fe22151d3a968bec", null ],
-    [ "JustSummoned", "dc/d79/a24112.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
-    [ "KilledUnit", "dc/d79/a24112.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
+    [ "creature", "dc/d79/a24112.html#ab4b8f837dbfb42bcbb161f81f846aad9", null ],
+    [ "Timer", "dc/d79/a24112.html#a2be497dc190c1f01f939e12083739882", null ]
 ];

@@ -1,7 +1,6 @@
 var a23644 =
 [
-    [ "OnApply", "d6/d4d/a23644.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
-    [ "PeriodicTick", "d6/d4d/a23644.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
-    [ "PrepareAuraScript", "d6/d4d/a23644.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
-    [ "Register", "d6/d4d/a23644.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
+    [ "instance_arcatraz_InstanceMapScript", "d6/d0b/a23648.html", "d6/d0b/a23648" ],
+    [ "instance_arcatraz", "d6/d4d/a23644.html#a6fc8860651573353b54fd26bddea32aa", null ],
+    [ "GetInstanceScript", "d6/d4d/a23644.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
 ];

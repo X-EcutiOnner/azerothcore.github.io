@@ -1,9 +1,8 @@
 var a26352 =
 [
-    [ "CountTargets", "d6/de7/a26352.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
-    [ "HandleDummy", "d6/de7/a26352.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
-    [ "PrepareSpellScript", "d6/de7/a26352.html#adfb7e3fbb52aa349573b95c457823900", null ],
-    [ "Register", "d6/de7/a26352.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
-    [ "Validate", "d6/de7/a26352.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
-    [ "_targetCount", "d6/de7/a26352.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
+    [ "HandleProc", "d6/de7/a26352.html#a89982759474f6f2d8f64ae406f722816", null ],
+    [ "OnRemove", "d6/de7/a26352.html#a29dfea997f49052f683cabdf01295126", null ],
+    [ "PrepareAuraScript", "d6/de7/a26352.html#a19094a96e052ec5b1b82aa9a124b30cc", null ],
+    [ "Register", "d6/de7/a26352.html#a696b244e898a7aca0ead5ae5596eb192", null ],
+    [ "Validate", "d6/de7/a26352.html#a5a9e58d16a055b3991e5f8b8ac5f1cad", null ]
 ];

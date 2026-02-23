@@ -1,11 +1,8 @@
 var a20800 =
 [
-    [ "boss_thorim_sifAI", "d5/d37/a20800.html#af63f344d3a5650baaa9b96204abc39a9", null ],
-    [ "AttackStart", "d5/d37/a20800.html#ae9354f2e97c88cd1af86fae050e810d6", null ],
-    [ "DoAction", "d5/d37/a20800.html#a8aac66a64c5ca6491595c2b3b6cbbd95", null ],
-    [ "MoveInLineOfSight", "d5/d37/a20800.html#a3e7d07ca6fc8f4619173f3fd74d63ccb", null ],
-    [ "Reset", "d5/d37/a20800.html#ab30d73613bafac5b92021677d69b3aae", null ],
-    [ "UpdateAI", "d5/d37/a20800.html#a09ee3373177e84a5e4e51ebb48c68525", null ],
-    [ "_allowCast", "d5/d37/a20800.html#ade272764f09375d8e5fda937d42aad90", null ],
-    [ "events", "d5/d37/a20800.html#a8fd3c7073a250d054e3edc73d5867fbd", null ]
+    [ "CheckProc", "d5/d37/a20800.html#a2bbcd3aca15eb271759c2a64276bb9d3", null ],
+    [ "HandleProc", "d5/d37/a20800.html#a6761dd910808090d78c9b9ad88ba7bda", null ],
+    [ "PrepareAuraScript", "d5/d37/a20800.html#ab9f98c6a93f31b2c76ca75c8fe7c2c60", null ],
+    [ "Register", "d5/d37/a20800.html#a430a5c4d0e3f77d4d966a4bf8f629e1e", null ],
+    [ "Validate", "d5/d37/a20800.html#a683a37c787ae5797d8c68aca1af0742a", null ]
 ];

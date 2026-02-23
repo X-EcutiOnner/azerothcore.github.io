@@ -1,5 +1,7 @@
 var a22672 =
 [
-    [ "OutdoorPvP_eastern_plaguelands", "d5/d45/a22672.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
-    [ "GetOutdoorPvP", "d5/d45/a22672.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
+    [ "HandleEffectRemove", "d5/d45/a22672.html#a0d8d042e6e9bf8fd26b6f283f6da6194", null ],
+    [ "PrepareAuraScript", "d5/d45/a22672.html#a84ec7db2aab055bc4328a4d8862bd3f5", null ],
+    [ "Register", "d5/d45/a22672.html#a9ee8e71020c17f593472de5a9c130753", null ],
+    [ "Validate", "d5/d45/a22672.html#a08be3cb2bef2f4697b7e258b231bd35b", null ]
 ];

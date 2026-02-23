@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: WorldUpdateTime Class Reference</title>
+<title>AzerothCore: SpellScript::EffectHandler Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,154 +108,89 @@ $(document).ready(function(){initNavTree('d7/d6e/a11688.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d8/d1e/a11685.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">WorldUpdateTime Class Reference</div></div>
+  <div class="headertitle"><div class="title">SpellScript::EffectHandler Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">UpdateTime.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code></p>
 <div class="dynheader">
-Inheritance diagram for WorldUpdateTime:</div>
+Inheritance diagram for SpellScript::EffectHandler:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../d7/d6e/a11688.png" usemap="#WorldUpdateTime_map" alt=""/>
-  <map id="WorldUpdateTime_map" name="WorldUpdateTime_map">
-<area href="../../df/d9a/a11684.html" alt="UpdateTime" shape="rect" coords="0,0,110,24"/>
+  <img src="../../d7/d6e/a11688.png" usemap="#SpellScript::EffectHandler_map" alt=""/>
+  <map id="SpellScript::EffectHandler_map" name="SpellScript::EffectHandler_map">
+<area href="../../d6/dae/a11668.html" alt="_SpellScript::EffectNameCheck" shape="rect" coords="0,0,187,24"/>
+<area href="../../da/d44/a11664.html" alt="_SpellScript::EffectHook" shape="rect" coords="197,0,384,24"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a97552c4ce99bd40919f199c17fe203ed"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6e/a11688.html#a97552c4ce99bd40919f199c17fe203ed">WorldUpdateTime</a> ()</td></tr>
-<tr class="separator:a97552c4ce99bd40919f199c17fe203ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acb2b9d56504fc760e7df1c93621ab788"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6e/a11688.html#acb2b9d56504fc760e7df1c93621ab788">LoadFromConfig</a> ()</td></tr>
-<tr class="separator:acb2b9d56504fc760e7df1c93621ab788"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ada81050229ccacc49d5b6a9f6101174c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6e/a11688.html#ada81050229ccacc49d5b6a9f6101174c">SetRecordUpdateTimeInterval</a> (<a class="el" href="../../d4/dc9/a04742.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> t)</td></tr>
-<tr class="separator:ada81050229ccacc49d5b6a9f6101174c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a88d773c8029cebeab6b99444c25c8379"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6e/a11688.html#a88d773c8029cebeab6b99444c25c8379">RecordUpdateTime</a> (<a class="el" href="../../d4/dc9/a04742.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> gameTimeMs, <a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff, <a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> sessionCount)</td></tr>
-<tr class="separator:a88d773c8029cebeab6b99444c25c8379"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3ae299cfba6adcbb4e38af40313428fc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6e/a11688.html#a3ae299cfba6adcbb4e38af40313428fc">RecordUpdateTimeDuration</a> (std::string const &amp;text)</td></tr>
-<tr class="separator:a3ae299cfba6adcbb4e38af40313428fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a11684"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a11684')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../df/d9a/a11684.html">UpdateTime</a></td></tr>
-<tr class="memitem:a12ec461e5d33845ed375c0965fb024ae inherit pub_methods_a11684"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d9a/a11684.html#a12ec461e5d33845ed375c0965fb024ae">GetAverageUpdateTime</a> () const</td></tr>
-<tr class="separator:a12ec461e5d33845ed375c0965fb024ae inherit pub_methods_a11684"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a29b8d4c5394820b71aaf8864ba4b8327 inherit pub_methods_a11684"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d9a/a11684.html#a29b8d4c5394820b71aaf8864ba4b8327">GetTimeWeightedAverageUpdateTime</a> () const</td></tr>
-<tr class="separator:a29b8d4c5394820b71aaf8864ba4b8327 inherit pub_methods_a11684"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab5b77fcf7746e613e2997601fac659fc inherit pub_methods_a11684"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d9a/a11684.html#ab5b77fcf7746e613e2997601fac659fc">GetMaxUpdateTime</a> () const</td></tr>
-<tr class="separator:ab5b77fcf7746e613e2997601fac659fc inherit pub_methods_a11684"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab5f1c144429d1a8fe3937fd22cab8206 inherit pub_methods_a11684"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d9a/a11684.html#ab5f1c144429d1a8fe3937fd22cab8206">GetMaxUpdateTimeOfCurrentTable</a> () const</td></tr>
-<tr class="separator:ab5f1c144429d1a8fe3937fd22cab8206 inherit pub_methods_a11684"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a28ab3fb6bd445bf1b36f7cb3b73acff2 inherit pub_methods_a11684"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d9a/a11684.html#a28ab3fb6bd445bf1b36f7cb3b73acff2">GetLastUpdateTime</a> () const</td></tr>
-<tr class="separator:a28ab3fb6bd445bf1b36f7cb3b73acff2 inherit pub_methods_a11684"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2073ed7e673a5db381432267861d64ec inherit pub_methods_a11684"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d9a/a11684.html#a2073ed7e673a5db381432267861d64ec">GetDatasetSize</a> () const</td></tr>
-<tr class="separator:a2073ed7e673a5db381432267861d64ec inherit pub_methods_a11684"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a45b460f5fec335763e20bfe06fa33980 inherit pub_methods_a11684"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d9a/a11684.html#a45b460f5fec335763e20bfe06fa33980">GetPercentile</a> (<a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> p)</td></tr>
-<tr class="separator:a45b460f5fec335763e20bfe06fa33980 inherit pub_methods_a11684"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8837b608acde446f1eda813ca530c63f inherit pub_methods_a11684"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d9a/a11684.html#a8837b608acde446f1eda813ca530c63f">UpdateWithDiff</a> (<a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff)</td></tr>
-<tr class="separator:a8837b608acde446f1eda813ca530c63f inherit pub_methods_a11684"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9089665d344f9b0b4e85351dd04e0a5b inherit pub_methods_a11684"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d9a/a11684.html#a9089665d344f9b0b4e85351dd04e0a5b">RecordUpdateTimeReset</a> ()</td></tr>
-<tr class="separator:a9089665d344f9b0b4e85351dd04e0a5b inherit pub_methods_a11684"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aebdff9758b3ec51a75220be43b0d7b44"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6e/a11688.html#aebdff9758b3ec51a75220be43b0d7b44">EffectHandler</a> (SpellEffectFnType _pEffectHandlerScript, <a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _effIndex, <a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> _effName)</td></tr>
+<tr class="separator:aebdff9758b3ec51a75220be43b0d7b44"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5b583dc87f0146f06c9a38a5db92f4fb"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6e/a11688.html#a5b583dc87f0146f06c9a38a5db92f4fb">ToString</a> ()</td></tr>
+<tr class="separator:a5b583dc87f0146f06c9a38a5db92f4fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8eeff14be65159b6f9a88b04abe14e8b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6e/a11688.html#a8eeff14be65159b6f9a88b04abe14e8b">CheckEffect</a> (<a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <a class="el" href="../../da/d44/a11664.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a>) override</td></tr>
+<tr class="separator:a8eeff14be65159b6f9a88b04abe14e8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7696d64688fa8b10cd58220fdd5fa5ba"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6e/a11688.html#a7696d64688fa8b10cd58220fdd5fa5ba">Call</a> (<a class="el" href="../../d2/d40/a11676.html">SpellScript</a> *spellScript, <a class="el" href="../../dd/d90/a04127.html#a091a832125de330a1d2fb91d57c0e1ff">SpellEffIndex</a> <a class="el" href="../../da/d44/a11664.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a>)</td></tr>
+<tr class="separator:a7696d64688fa8b10cd58220fdd5fa5ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a11668"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a11668')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d6/dae/a11668.html">_SpellScript::EffectNameCheck</a></td></tr>
+<tr class="memitem:aa82307388bdda7864bb085a349b63f29 inherit pub_methods_a11668"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dae/a11668.html#aa82307388bdda7864bb085a349b63f29">EffectNameCheck</a> (<a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> _effName)</td></tr>
+<tr class="separator:aa82307388bdda7864bb085a349b63f29 inherit pub_methods_a11668"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a729d7f07669dedec50f009a87b8f32a4 inherit pub_methods_a11668"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dae/a11668.html#a729d7f07669dedec50f009a87b8f32a4">Check</a> (<a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> effIndex)</td></tr>
+<tr class="separator:a729d7f07669dedec50f009a87b8f32a4 inherit pub_methods_a11668"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a31e545b0ae22cad4be815ea9e3b44377 inherit pub_methods_a11668"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dae/a11668.html#a31e545b0ae22cad4be815ea9e3b44377">ToString</a> ()</td></tr>
+<tr class="separator:a31e545b0ae22cad4be815ea9e3b44377 inherit pub_methods_a11668"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a11664"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a11664')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../da/d44/a11664.html">_SpellScript::EffectHook</a></td></tr>
+<tr class="memitem:a4a197e061d918dfba2bc486f3393b00d inherit pub_methods_a11664"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d44/a11664.html#a4a197e061d918dfba2bc486f3393b00d">EffectHook</a> (<a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _effIndex)</td></tr>
+<tr class="separator:a4a197e061d918dfba2bc486f3393b00d inherit pub_methods_a11664"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa234f63b530764d12064acbe3f5c9299 inherit pub_methods_a11664"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d44/a11664.html#aa234f63b530764d12064acbe3f5c9299">~EffectHook</a> ()</td></tr>
+<tr class="separator:aa234f63b530764d12064acbe3f5c9299 inherit pub_methods_a11664"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a31faa86590e22f5ab3ca518f4df02840 inherit pub_methods_a11664"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d44/a11664.html#a31faa86590e22f5ab3ca518f4df02840">GetAffectedEffectsMask</a> (<a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *spellInfo)</td></tr>
+<tr class="separator:a31faa86590e22f5ab3ca518f4df02840 inherit pub_methods_a11664"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a697041ffa562bb6fff792beb159c7af2 inherit pub_methods_a11664"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d44/a11664.html#a697041ffa562bb6fff792beb159c7af2">IsEffectAffected</a> (<a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <a class="el" href="../../da/d44/a11664.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a>)</td></tr>
+<tr class="separator:a697041ffa562bb6fff792beb159c7af2 inherit pub_methods_a11664"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae8823c5d649d182f572818bf3db72902 inherit pub_methods_a11664"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d44/a11664.html#ae8823c5d649d182f572818bf3db72902">CheckEffect</a> (<a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <a class="el" href="../../da/d44/a11664.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a>)=0</td></tr>
+<tr class="separator:ae8823c5d649d182f572818bf3db72902 inherit pub_methods_a11664"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab818ed274cfd66ecc565b8535b751517 inherit pub_methods_a11664"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d44/a11664.html#ab818ed274cfd66ecc565b8535b751517">EffIndexToString</a> ()</td></tr>
+<tr class="separator:ab818ed274cfd66ecc565b8535b751517 inherit pub_methods_a11664"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a5486477b0a604f0207336e423f42c2b1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/dc9/a04742.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6e/a11688.html#a5486477b0a604f0207336e423f42c2b1">_recordUpdateTimeInverval</a></td></tr>
-<tr class="separator:a5486477b0a604f0207336e423f42c2b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6b8a8d1b61f9ecec591165fa334972fc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/dc9/a04742.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6e/a11688.html#a6b8a8d1b61f9ecec591165fa334972fc">_recordUpdateTimeMin</a></td></tr>
-<tr class="separator:a6b8a8d1b61f9ecec591165fa334972fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7bc68a1a700deb4bc4d19992edf3ffa7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/dc9/a04742.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6e/a11688.html#a7bc68a1a700deb4bc4d19992edf3ffa7">_lastRecordTime</a></td></tr>
-<tr class="separator:a7bc68a1a700deb4bc4d19992edf3ffa7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a88fbf00b2e35c462423ddeff55ac3dee"><td class="memItemLeft" align="right" valign="top">SpellEffectFnType&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6e/a11688.html#a88fbf00b2e35c462423ddeff55ac3dee">pEffectHandlerScript</a></td></tr>
+<tr class="separator:a88fbf00b2e35c462423ddeff55ac3dee"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
-<tr class="inherit_header pro_methods_a11684"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a11684')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../df/d9a/a11684.html">UpdateTime</a></td></tr>
-<tr class="memitem:a5ca37c4eb70f9131276099b65256243b inherit pro_methods_a11684"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d9a/a11684.html#a5ca37c4eb70f9131276099b65256243b">UpdateTime</a> ()</td></tr>
-<tr class="separator:a5ca37c4eb70f9131276099b65256243b inherit pro_methods_a11684"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a451d39365491ae8d38816783865d2a75 inherit pro_methods_a11684"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d9a/a11684.html#a451d39365491ae8d38816783865d2a75">SortUpdateTimeDataTable</a> ()</td></tr>
-<tr class="separator:a451d39365491ae8d38816783865d2a75 inherit pro_methods_a11684"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pro_attribs_a11664"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_a11664')"><img src="../../closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="../../da/d44/a11664.html">_SpellScript::EffectHook</a></td></tr>
+<tr class="memitem:ab5eb48ef7ac903938f92db0e856e0295 inherit pro_attribs_a11664"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d44/a11664.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a></td></tr>
+<tr class="separator:ab5eb48ef7ac903938f92db0e856e0295 inherit pro_attribs_a11664"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a97552c4ce99bd40919f199c17fe203ed" name="a97552c4ce99bd40919f199c17fe203ed"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a97552c4ce99bd40919f199c17fe203ed">&#9670;&#160;</a></span>WorldUpdateTime()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">WorldUpdateTime::WorldUpdateTime </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   67</span>: <a class="code hl_function" href="../../df/d9a/a11684.html#a5ca37c4eb70f9131276099b65256243b">UpdateTime</a>(), <a class="code hl_variable" href="../../d7/d6e/a11688.html#a5486477b0a604f0207336e423f42c2b1">_recordUpdateTimeInverval</a>(0), <a class="code hl_variable" href="../../d7/d6e/a11688.html#a6b8a8d1b61f9ecec591165fa334972fc">_recordUpdateTimeMin</a>(0), <a class="code hl_variable" href="../../d7/d6e/a11688.html#a7bc68a1a700deb4bc4d19992edf3ffa7">_lastRecordTime</a>(0) { }</div>
-<div class="ttc" id="aa11684_html_a5ca37c4eb70f9131276099b65256243b"><div class="ttname"><a href="../../df/d9a/a11684.html#a5ca37c4eb70f9131276099b65256243b">UpdateTime::UpdateTime</a></div><div class="ttdeci">UpdateTime()</div><div class="ttdef"><b>Definition:</b> UpdateTime.cpp:29</div></div>
-<div class="ttc" id="aa11688_html_a5486477b0a604f0207336e423f42c2b1"><div class="ttname"><a href="../../d7/d6e/a11688.html#a5486477b0a604f0207336e423f42c2b1">WorldUpdateTime::_recordUpdateTimeInverval</a></div><div class="ttdeci">Milliseconds _recordUpdateTimeInverval</div><div class="ttdef"><b>Definition:</b> UpdateTime.h:74</div></div>
-<div class="ttc" id="aa11688_html_a6b8a8d1b61f9ecec591165fa334972fc"><div class="ttname"><a href="../../d7/d6e/a11688.html#a6b8a8d1b61f9ecec591165fa334972fc">WorldUpdateTime::_recordUpdateTimeMin</a></div><div class="ttdeci">Milliseconds _recordUpdateTimeMin</div><div class="ttdef"><b>Definition:</b> UpdateTime.h:75</div></div>
-<div class="ttc" id="aa11688_html_a7bc68a1a700deb4bc4d19992edf3ffa7"><div class="ttname"><a href="../../d7/d6e/a11688.html#a7bc68a1a700deb4bc4d19992edf3ffa7">WorldUpdateTime::_lastRecordTime</a></div><div class="ttdeci">Milliseconds _lastRecordTime</div><div class="ttdef"><b>Definition:</b> UpdateTime.h:76</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="acb2b9d56504fc760e7df1c93621ab788" name="acb2b9d56504fc760e7df1c93621ab788"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acb2b9d56504fc760e7df1c93621ab788">&#9670;&#160;</a></span>LoadFromConfig()</h2>
+<a id="aebdff9758b3ec51a75220be43b0d7b44" name="aebdff9758b3ec51a75220be43b0d7b44"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aebdff9758b3ec51a75220be43b0d7b44">&#9670;&#160;</a></span>EffectHandler()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void WorldUpdateTime::LoadFromConfig </td>
+          <td class="memname">SpellScript::EffectHandler::EffectHandler </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  153</span>{</div>
-<div class="line"><span class="lineno">  154</span>    <a class="code hl_variable" href="../../d7/d6e/a11688.html#a5486477b0a604f0207336e423f42c2b1">_recordUpdateTimeInverval</a> = <a class="code hl_typedef" href="../../d4/dc9/a04742.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>(<a class="code hl_define" href="../../d6/da4/a30001.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(<span class="stringliteral">&quot;RecordUpdateTimeDiffInterval&quot;</span>, 300000));</div>
-<div class="line"><span class="lineno">  155</span>    <a class="code hl_variable" href="../../d7/d6e/a11688.html#a6b8a8d1b61f9ecec591165fa334972fc">_recordUpdateTimeMin</a> = <a class="code hl_typedef" href="../../d4/dc9/a04742.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>(<a class="code hl_define" href="../../d6/da4/a30001.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;<a class="code hl_typedef" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;(<span class="stringliteral">&quot;MinRecordUpdateTimeDiff&quot;</span>, 100));</div>
-<div class="line"><span class="lineno">  156</span>}</div>
-<div class="ttc" id="aa04331_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa04742_html_a1c3834b9e3853535027d58bf21bec81f"><div class="ttname"><a href="../../d4/dc9/a04742.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a></div><div class="ttdeci">std::chrono::milliseconds Milliseconds</div><div class="ttdoc">Milliseconds shorthand typedef.</div><div class="ttdef"><b>Definition:</b> Duration.h:27</div></div>
-<div class="ttc" id="aa30001_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../d6/da4/a30001.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:93</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00074">_recordUpdateTimeInverval</a>, <a class="el" href="../../#l00075">_recordUpdateTimeMin</a>, and <a class="el" href="../../#l00093">sConfigMgr</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00164">World::LoadConfigSettings()</a>.</p>
-
-</div>
-</div>
-<a id="a88d773c8029cebeab6b99444c25c8379" name="a88d773c8029cebeab6b99444c25c8379"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a88d773c8029cebeab6b99444c25c8379">&#9670;&#160;</a></span>RecordUpdateTime()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void WorldUpdateTime::RecordUpdateTime </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/dc9/a04742.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td>
-          <td class="paramname"><em>gameTimeMs</em>, </td>
+          <td class="paramtype">SpellEffectFnType&#160;</td>
+          <td class="paramname"><em>_pEffectHandlerScript</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>diff</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>_effIndex</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>sessionCount</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>_effName</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -264,77 +199,122 @@ Additional Inherited Members</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  164</span>{</div>
-<div class="line"><span class="lineno">  165</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d6e/a11688.html#a5486477b0a604f0207336e423f42c2b1">_recordUpdateTimeInverval</a> &gt; 0ms &amp;&amp; diff &gt; <a class="code hl_variable" href="../../d7/d6e/a11688.html#a6b8a8d1b61f9ecec591165fa334972fc">_recordUpdateTimeMin</a>.count())</div>
-<div class="line"><span class="lineno">  166</span>    {</div>
-<div class="line"><span class="lineno">  167</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d7/d47/a04685.html#a580dc71f654c9783c7f2637a871222fa">GetMSTimeDiff</a>(<a class="code hl_variable" href="../../d7/d6e/a11688.html#a7bc68a1a700deb4bc4d19992edf3ffa7">_lastRecordTime</a>, gameTimeMs) &gt; <a class="code hl_variable" href="../../d7/d6e/a11688.html#a5486477b0a604f0207336e423f42c2b1">_recordUpdateTimeInverval</a>)</div>
-<div class="line"><span class="lineno">  168</span>        {</div>
-<div class="line"><span class="lineno">  169</span>            <a class="code hl_define" href="../../d6/d12/a04661.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;time.update&quot;</span>, <span class="stringliteral">&quot;Update time diff: {}ms with {} players online&quot;</span>, <a class="code hl_function" href="../../df/d9a/a11684.html#a28ab3fb6bd445bf1b36f7cb3b73acff2">GetLastUpdateTime</a>(), sessionCount);</div>
-<div class="line"><span class="lineno">  170</span>            <a class="code hl_define" href="../../d6/d12/a04661.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;time.update&quot;</span>, <span class="stringliteral">&quot;Last {} diffs summary:&quot;</span>, <a class="code hl_function" href="../../df/d9a/a11684.html#a2073ed7e673a5db381432267861d64ec">GetDatasetSize</a>());</div>
-<div class="line"><span class="lineno">  171</span>            <a class="code hl_define" href="../../d6/d12/a04661.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;time.update&quot;</span>, <span class="stringliteral">&quot;|- Mean: {}ms&quot;</span>, <a class="code hl_function" href="../../df/d9a/a11684.html#a12ec461e5d33845ed375c0965fb024ae">GetAverageUpdateTime</a>());</div>
-<div class="line"><span class="lineno">  172</span>            <a class="code hl_define" href="../../d6/d12/a04661.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;time.update&quot;</span>, <span class="stringliteral">&quot;|- Median: {}ms&quot;</span>, <a class="code hl_function" href="../../df/d9a/a11684.html#a45b460f5fec335763e20bfe06fa33980">GetPercentile</a>(50));</div>
-<div class="line"><span class="lineno">  173</span>            <a class="code hl_define" href="../../d6/d12/a04661.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;time.update&quot;</span>, <span class="stringliteral">&quot;|- Percentiles (95, 99, max): {}ms, {}ms, {}ms&quot;</span>, <a class="code hl_function" href="../../df/d9a/a11684.html#a45b460f5fec335763e20bfe06fa33980">GetPercentile</a>(95), <a class="code hl_function" href="../../df/d9a/a11684.html#a45b460f5fec335763e20bfe06fa33980">GetPercentile</a>(99), <a class="code hl_function" href="../../df/d9a/a11684.html#a45b460f5fec335763e20bfe06fa33980">GetPercentile</a>(100));</div>
-<div class="line"><span class="lineno">  174</span>            <a class="code hl_variable" href="../../d7/d6e/a11688.html#a7bc68a1a700deb4bc4d19992edf3ffa7">_lastRecordTime</a> = gameTimeMs;</div>
-<div class="line"><span class="lineno">  175</span>        }</div>
-<div class="line"><span class="lineno">  176</span>    }</div>
-<div class="line"><span class="lineno">  177</span>}</div>
-<div class="ttc" id="aa04661_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d6/d12/a04661.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
-<div class="ttc" id="aa04685_html_a580dc71f654c9783c7f2637a871222fa"><div class="ttname"><a href="../../d7/d47/a04685.html#a580dc71f654c9783c7f2637a871222fa">GetMSTimeDiff</a></div><div class="ttdeci">Milliseconds GetMSTimeDiff(Milliseconds oldMSTime, Milliseconds newMSTime)</div><div class="ttdef"><b>Definition:</b> Timer.h:91</div></div>
-<div class="ttc" id="aa11684_html_a12ec461e5d33845ed375c0965fb024ae"><div class="ttname"><a href="../../df/d9a/a11684.html#a12ec461e5d33845ed375c0965fb024ae">UpdateTime::GetAverageUpdateTime</a></div><div class="ttdeci">uint32 GetAverageUpdateTime() const</div><div class="ttdef"><b>Definition:</b> UpdateTime.cpp:41</div></div>
-<div class="ttc" id="aa11684_html_a2073ed7e673a5db381432267861d64ec"><div class="ttname"><a href="../../df/d9a/a11684.html#a2073ed7e673a5db381432267861d64ec">UpdateTime::GetDatasetSize</a></div><div class="ttdeci">uint32 GetDatasetSize() const</div><div class="ttdef"><b>Definition:</b> UpdateTime.cpp:77</div></div>
-<div class="ttc" id="aa11684_html_a28ab3fb6bd445bf1b36f7cb3b73acff2"><div class="ttname"><a href="../../df/d9a/a11684.html#a28ab3fb6bd445bf1b36f7cb3b73acff2">UpdateTime::GetLastUpdateTime</a></div><div class="ttdeci">uint32 GetLastUpdateTime() const</div><div class="ttdef"><b>Definition:</b> UpdateTime.cpp:72</div></div>
-<div class="ttc" id="aa11684_html_a45b460f5fec335763e20bfe06fa33980"><div class="ttname"><a href="../../df/d9a/a11684.html#a45b460f5fec335763e20bfe06fa33980">UpdateTime::GetPercentile</a></div><div class="ttdeci">uint32 GetPercentile(uint8 p)</div><div class="ttdef"><b>Definition:</b> UpdateTime.cpp:82</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  187</span>    : <a class="code hl_class" href="../../d6/dae/a11668.html">_SpellScript::EffectNameCheck</a>(_effName), <a class="code hl_class" href="../../da/d44/a11664.html">_SpellScript::EffectHook</a>(_effIndex)</div>
+<div class="line"><span class="lineno">  188</span>{</div>
+<div class="line"><span class="lineno">  189</span>    <a class="code hl_variable" href="../../d7/d6e/a11688.html#a88fbf00b2e35c462423ddeff55ac3dee">pEffectHandlerScript</a> = _pEffectHandlerScript;</div>
+<div class="line"><span class="lineno">  190</span>}</div>
+<div class="ttc" id="aa11664_html"><div class="ttname"><a href="../../da/d44/a11664.html">_SpellScript::EffectHook</a></div><div class="ttdef"><b>Definition:</b> SpellScript.h:72</div></div>
+<div class="ttc" id="aa11668_html"><div class="ttname"><a href="../../d6/dae/a11668.html">_SpellScript::EffectNameCheck</a></div><div class="ttdef"><b>Definition:</b> SpellScript.h:86</div></div>
+<div class="ttc" id="aa11688_html_a88fbf00b2e35c462423ddeff55ac3dee"><div class="ttname"><a href="../../d7/d6e/a11688.html#a88fbf00b2e35c462423ddeff55ac3dee">SpellScript::EffectHandler::pEffectHandlerScript</a></div><div class="ttdeci">SpellEffectFnType pEffectHandlerScript</div><div class="ttdef"><b>Definition:</b> SpellScript.h:224</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">_lastRecordTime</a>, <a class="el" href="../../#l00074">_recordUpdateTimeInverval</a>, <a class="el" href="../../#l00075">_recordUpdateTimeMin</a>, <a class="el" href="../../#l00041">UpdateTime::GetAverageUpdateTime()</a>, <a class="el" href="../../#l00077">UpdateTime::GetDatasetSize()</a>, <a class="el" href="../../#l00072">UpdateTime::GetLastUpdateTime()</a>, <a class="el" href="../../#l00091">GetMSTimeDiff()</a>, <a class="el" href="../../#l00082">UpdateTime::GetPercentile()</a>, and <a class="el" href="../../#l00166">LOG_INFO</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01092">World::Update()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00224">pEffectHandlerScript</a>.</p>
 
 </div>
 </div>
-<a id="a3ae299cfba6adcbb4e38af40313428fc" name="a3ae299cfba6adcbb4e38af40313428fc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3ae299cfba6adcbb4e38af40313428fc">&#9670;&#160;</a></span>RecordUpdateTimeDuration()</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a7696d64688fa8b10cd58220fdd5fa5ba" name="a7696d64688fa8b10cd58220fdd5fa5ba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7696d64688fa8b10cd58220fdd5fa5ba">&#9670;&#160;</a></span>Call()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void WorldUpdateTime::RecordUpdateTimeDuration </td>
+          <td class="memname">void SpellScript::EffectHandler::Call </td>
           <td>(</td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>text</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d2/d40/a11676.html">SpellScript</a> *&#160;</td>
+          <td class="paramname"><em>spellScript</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../dd/d90/a04127.html#a091a832125de330a1d2fb91d57c0e1ff">SpellEffIndex</a>&#160;</td>
+          <td class="paramname"><em>effIndex</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  203</span>{</div>
+<div class="line"><span class="lineno">  204</span>    (spellScript-&gt;*<a class="code hl_variable" href="../../d7/d6e/a11688.html#a88fbf00b2e35c462423ddeff55ac3dee">pEffectHandlerScript</a>)(<a class="code hl_variable" href="../../da/d44/a11664.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a>);</div>
+<div class="line"><span class="lineno">  205</span>}</div>
+<div class="ttc" id="aa11664_html_ab5eb48ef7ac903938f92db0e856e0295"><div class="ttname"><a href="../../da/d44/a11664.html#ab5eb48ef7ac903938f92db0e856e0295">_SpellScript::EffectHook::effIndex</a></div><div class="ttdeci">uint8 effIndex</div><div class="ttdef"><b>Definition:</b> SpellScript.h:82</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a8eeff14be65159b6f9a88b04abe14e8b" name="a8eeff14be65159b6f9a88b04abe14e8b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8eeff14be65159b6f9a88b04abe14e8b">&#9670;&#160;</a></span>CheckEffect()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool SpellScript::EffectHandler::CheckEffect </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname"><em>spellInfo</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>effIndex</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implements <a class="el" href="../../da/d44/a11664.html#ae8823c5d649d182f572818bf3db72902">_SpellScript::EffectHook</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  198</span>{</div>
+<div class="line"><span class="lineno">  199</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d6/dae/a11668.html#a729d7f07669dedec50f009a87b8f32a4">_SpellScript::EffectNameCheck::Check</a>(spellInfo, <a class="code hl_variable" href="../../da/d44/a11664.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a>);</div>
+<div class="line"><span class="lineno">  200</span>}</div>
+<div class="ttc" id="aa11668_html_a729d7f07669dedec50f009a87b8f32a4"><div class="ttname"><a href="../../d6/dae/a11668.html#a729d7f07669dedec50f009a87b8f32a4">_SpellScript::EffectNameCheck::Check</a></div><div class="ttdeci">bool Check(SpellInfo const *spellInfo, uint8 effIndex)</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:122</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00122">_SpellScript::EffectNameCheck::Check()</a>.</p>
 
 </div>
 </div>
-<a id="ada81050229ccacc49d5b6a9f6101174c" name="ada81050229ccacc49d5b6a9f6101174c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ada81050229ccacc49d5b6a9f6101174c">&#9670;&#160;</a></span>SetRecordUpdateTimeInterval()</h2>
+<a id="a5b583dc87f0146f06c9a38a5db92f4fb" name="a5b583dc87f0146f06c9a38a5db92f4fb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5b583dc87f0146f06c9a38a5db92f4fb">&#9670;&#160;</a></span>ToString()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void WorldUpdateTime::SetRecordUpdateTimeInterval </td>
+          <td class="memname">std::string SpellScript::EffectHandler::ToString </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/dc9/a04742.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td>
-          <td class="paramname"><em>t</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  159</span>{</div>
-<div class="line"><span class="lineno">  160</span>    <a class="code hl_variable" href="../../d7/d6e/a11688.html#a5486477b0a604f0207336e423f42c2b1">_recordUpdateTimeInverval</a> = t;</div>
-<div class="line"><span class="lineno">  161</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  193</span>{</div>
+<div class="line"><span class="lineno">  194</span>    <span class="keywordflow">return</span> <span class="stringliteral">&quot;Index: &quot;</span> + <a class="code hl_function" href="../../da/d44/a11664.html#ab818ed274cfd66ecc565b8535b751517">EffIndexToString</a>() + <span class="stringliteral">&quot; Name: &quot;</span> + <a class="code hl_function" href="../../d6/dae/a11668.html#a31e545b0ae22cad4be815ea9e3b44377">_SpellScript::EffectNameCheck::ToString</a>();</div>
+<div class="line"><span class="lineno">  195</span>}</div>
+<div class="ttc" id="aa11664_html_ab818ed274cfd66ecc565b8535b751517"><div class="ttname"><a href="../../da/d44/a11664.html#ab818ed274cfd66ecc565b8535b751517">_SpellScript::EffectHook::EffIndexToString</a></div><div class="ttdeci">std::string EffIndexToString()</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:104</div></div>
+<div class="ttc" id="aa11668_html_a31e545b0ae22cad4be815ea9e3b44377"><div class="ttname"><a href="../../d6/dae/a11668.html#a31e545b0ae22cad4be815ea9e3b44377">_SpellScript::EffectNameCheck::ToString</a></div><div class="ttdeci">std::string ToString()</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:131</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00074">_recordUpdateTimeInverval</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00131">_SpellScript::EffectNameCheck::ToString()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a7bc68a1a700deb4bc4d19992edf3ffa7" name="a7bc68a1a700deb4bc4d19992edf3ffa7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7bc68a1a700deb4bc4d19992edf3ffa7">&#9670;&#160;</a></span>_lastRecordTime</h2>
+<a id="a88fbf00b2e35c462423ddeff55ac3dee" name="a88fbf00b2e35c462423ddeff55ac3dee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a88fbf00b2e35c462423ddeff55ac3dee">&#9670;&#160;</a></span>pEffectHandlerScript</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -343,7 +323,7 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d4/dc9/a04742.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> WorldUpdateTime::_lastRecordTime</td>
+          <td class="memname">SpellEffectFnType SpellScript::EffectHandler::pEffectHandlerScript</td>
         </tr>
       </table>
   </td>
@@ -353,55 +333,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00163">RecordUpdateTime()</a>.</p>
-
-</div>
-</div>
-<a id="a5486477b0a604f0207336e423f42c2b1" name="a5486477b0a604f0207336e423f42c2b1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5486477b0a604f0207336e423f42c2b1">&#9670;&#160;</a></span>_recordUpdateTimeInverval</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d4/dc9/a04742.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> WorldUpdateTime::_recordUpdateTimeInverval</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00152">LoadFromConfig()</a>, <a class="el" href="../../#l00163">RecordUpdateTime()</a>, and <a class="el" href="../../#l00158">SetRecordUpdateTimeInterval()</a>.</p>
-
-</div>
-</div>
-<a id="a6b8a8d1b61f9ecec591165fa334972fc" name="a6b8a8d1b61f9ecec591165fa334972fc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6b8a8d1b61f9ecec591165fa334972fc">&#9670;&#160;</a></span>_recordUpdateTimeMin</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d4/dc9/a04742.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> WorldUpdateTime::_recordUpdateTimeMin</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00152">LoadFromConfig()</a>, and <a class="el" href="../../#l00163">RecordUpdateTime()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00186">EffectHandler()</a>.</p>
 
 </div>
 </div>
@@ -410,8 +342,8 @@ Additional Inherited Members</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d7/d6e/a11688.html">WorldUpdateTime</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:12:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d2/d40/a11676.html">SpellScript</a></li><li class="navelem"><a class="el" href="../../d7/d6e/a11688.html">EffectHandler</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:16:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

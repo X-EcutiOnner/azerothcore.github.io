@@ -1,14 +1,9 @@
 var a15472 =
 [
-    [ "boss_twinemperorsAI", "d8/dcc/a15472.html#ae0857b191dbbf086533062aee5885237", null ],
-    [ "DamageTaken", "d8/dcc/a15472.html#a118151851f36de9dfc22971a965cb047", null ],
-    [ "DoAction", "d8/dcc/a15472.html#a2b5e585749b7a59663813c7a9d56c223", null ],
-    [ "EnterEvadeMode", "d8/dcc/a15472.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
-    [ "GetTwin", "d8/dcc/a15472.html#af23aa54bca9752c242e80331862ace4d", null ],
-    [ "IAmVeklor", "d8/dcc/a15472.html#acdccdde2ee573f51e1783ea493577258", null ],
-    [ "JustDied", "d8/dcc/a15472.html#a9cc74619908c2aa9f8deda2689616735", null ],
-    [ "JustEngagedWith", "d8/dcc/a15472.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
-    [ "KilledUnit", "d8/dcc/a15472.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
-    [ "UpdateAI", "d8/dcc/a15472.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
-    [ "_introDone", "d8/dcc/a15472.html#a1b4689b0c403f7246ae100e4f716b138", null ]
+    [ "go_ossirian_crystalAI", "d8/dcc/a15472.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
+    [ "DoAction", "d8/dcc/a15472.html#a581436335d190466520c07fde56ad441", null ],
+    [ "GossipHello", "d8/dcc/a15472.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
+    [ "SetGUID", "d8/dcc/a15472.html#a9b4af48363a6d3194a22312fafa48587", null ],
+    [ "_instance", "d8/dcc/a15472.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
+    [ "_triggerGUID", "d8/dcc/a15472.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
 ];

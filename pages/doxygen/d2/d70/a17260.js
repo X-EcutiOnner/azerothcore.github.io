@@ -1,9 +1,6 @@
 var a17260 =
 [
-    [ "FilterTargets", "d2/d70/a17260.html#aefebf504286394cf3caffa566543e4a4", null ],
-    [ "FilterTargetsNext", "d2/d70/a17260.html#a356b6ace97d07df22a232d2287072b5e", null ],
-    [ "PrepareSpellScript", "d2/d70/a17260.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
-    [ "Register", "d2/d70/a17260.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
-    [ "Unload", "d2/d70/a17260.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
-    [ "targetList", "d2/d70/a17260.html#a3c839185938e0b67b97f652d1d15e213", null ]
+    [ "boss_marwynAI", "d6/dba/a17264.html", "d6/dba/a17264" ],
+    [ "boss_marwyn", "d2/d70/a17260.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
+    [ "GetAI", "d2/d70/a17260.html#af1c83878d2121163994bc327ae8e04f7", null ]
 ];

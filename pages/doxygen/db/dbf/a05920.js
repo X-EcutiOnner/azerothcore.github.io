@@ -1,11 +1,8 @@
 var a05920 =
 [
-    [ "SQLOperation", "db/dbf/a05920.html#a0f69657715b7d24458227b22a3b40b1a", null ],
-    [ "~SQLOperation", "db/dbf/a05920.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
-    [ "SQLOperation", "db/dbf/a05920.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
-    [ "call", "db/dbf/a05920.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
-    [ "Execute", "db/dbf/a05920.html#aff1090554bc4a6fe7a33270e63416e19", null ],
-    [ "operator=", "db/dbf/a05920.html#ac31349ed45ea051540ac345bd4b814d5", null ],
-    [ "SetConnection", "db/dbf/a05920.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
-    [ "m_conn", "db/dbf/a05920.html#adf322db48064fcf4528f713f857f1b40", null ]
+    [ "Statements", "db/dbf/a05920.html#a7527387a1261a4307515ed0c56dd6520", null ],
+    [ "CharacterDatabaseConnection", "db/dbf/a05920.html#aa7308d6978756861043c1c0c861bfffc", null ],
+    [ "CharacterDatabaseConnection", "db/dbf/a05920.html#af7c6148029613ce06159b5867bba9cad", null ],
+    [ "~CharacterDatabaseConnection", "db/dbf/a05920.html#a01224074cff69c86792d0b77e804d7f4", null ],
+    [ "DoPrepareStatements", "db/dbf/a05920.html#afbbb8d2bb335119e5bc8b37764301db5", null ]
 ];

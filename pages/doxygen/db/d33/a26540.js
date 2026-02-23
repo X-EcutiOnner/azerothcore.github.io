@@ -1,6 +1,7 @@
 var a26540 =
 [
-    [ "HandleScriptEffect", "db/d33/a26540.html#a8b60ae77f13045a582548fe5d1186d54", null ],
-    [ "PrepareSpellScript", "db/d33/a26540.html#ad68619783c4a1aad5a24826bf5d89858", null ],
-    [ "Register", "db/d33/a26540.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
+    [ "PrepareSpellScript", "db/d33/a26540.html#ade3a3f956ae8be922bd1d2204919d360", null ],
+    [ "Register", "db/d33/a26540.html#a71d397da4a4804cf6023806c15e8bedf", null ],
+    [ "TriggerHypothermia", "db/d33/a26540.html#af40f92afae93778e477c50ddf18c8adc", null ],
+    [ "Validate", "db/d33/a26540.html#a1f0cef532c2bd13d94e647722f85457a", null ]
 ];

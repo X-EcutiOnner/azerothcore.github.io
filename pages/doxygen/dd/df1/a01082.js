@@ -1,7 +1,7 @@
 var a01082 =
 [
-    [ "operator<<", "dd/df1/a01082.html#a71323635f122d24189054da615cb39e1", null ],
-    [ "operator<<", "dd/df1/a01082.html#ab63323f8a9ade40ddd90338538b5c9b5", null ],
-    [ "operator>>", "dd/df1/a01082.html#a72e22c3226b5f361848aef2c75a6d3fb", null ],
-    [ "operator>>", "dd/df1/a01082.html#af223d782e9dcf0f80ed4009360aa0d80", null ]
+    [ "ChannelMgr", "dc/de8/a07704.html", "dc/de8/a07704" ],
+    [ "AllianceChannelMgr", "dc/d23/a07708.html", "dc/d23/a07708" ],
+    [ "HordeChannelMgr", "de/dbe/a07712.html", "de/dbe/a07712" ],
+    [ "MAX_CHANNEL_PASS_STR", "dd/df1/a01082.html#a06f16ee81d2214d67575f108b76f6333", null ]
 ];

@@ -1,6 +1,11 @@
 var a08908 =
 [
-    [ "Condition", "d7/d5e/a08908.html#a78172859719e85a21c0a39e41c692cf4", null ],
-    [ "EventId", "d7/d5e/a08908.html#aa5d7e88828c9f44b5913d4593496894f", null ],
-    [ "Num", "d7/d5e/a08908.html#a7cf6141e00b1a33063409c9828773b94", null ]
+    [ "AuraMunchingQueue", "d7/d5e/a08908.html#abf9787bcfa9393619ffebe2ad7b5cd46", null ],
+    [ "Execute", "d7/d5e/a08908.html#a8f025a0ea1db81fb283db563402d1c40", null ],
+    [ "_auraType", "d7/d5e/a08908.html#add694e24c38d585784f236acf9118b76", null ],
+    [ "_aurEff", "d7/d5e/a08908.html#a8ac00964608170d5375242c1b19c4be3", null ],
+    [ "_basePoints", "d7/d5e/a08908.html#a9cf03046c9595e81bf119b7aacb1a81a", null ],
+    [ "_owner", "d7/d5e/a08908.html#a472aaf46c2f167a10ce38267ace0b8bb", null ],
+    [ "_spellId", "d7/d5e/a08908.html#a6674c43b906e45e2ad29100a7ff06f44", null ],
+    [ "_targetGUID", "d7/d5e/a08908.html#a441b328296f0b7a75bdaee06d2cb94f1", null ]
 ];

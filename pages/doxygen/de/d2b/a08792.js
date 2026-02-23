@@ -1,8 +1,6 @@
 var a08792 =
 [
-    [ "DiminishingReturn", "de/d2b/a08792.html#acd4828637710636d0164fced285c854d", null ],
-    [ "DRGroup", "de/d2b/a08792.html#add3ab95d65e283a326e1922129941ae4", null ],
-    [ "hitCount", "de/d2b/a08792.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
-    [ "hitTime", "de/d2b/a08792.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
-    [ "stack", "de/d2b/a08792.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
+    [ "SkillStatusData", "de/d2b/a08792.html#a7594ceb20110da34f3aa68ac69996b94", null ],
+    [ "pos", "de/d2b/a08792.html#a51ccb328b807f2c7fd275d843218f466", null ],
+    [ "uState", "de/d2b/a08792.html#a232801ad25897a82739916d5be4fdc22", null ]
 ];

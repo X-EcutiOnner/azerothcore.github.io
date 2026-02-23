@@ -1,7 +1,7 @@
 var a20944 =
 [
-    [ "npc_xt002_life_sparkAI", "d7/dc3/a20944.html#a763ec1834d3b71c88bfa80bc0e34966a", null ],
-    [ "Reset", "d7/dc3/a20944.html#a596e2ed45b9221915781b03bf2d18e5b", null ],
-    [ "UpdateAI", "d7/dc3/a20944.html#af0a1e717b08b2fa35dd4ff83778a87c1", null ],
-    [ "_attackTimer", "d7/dc3/a20944.html#a79bf005de95aa1fee60dfc73b8920dad", null ]
+    [ "HandleProc", "d7/dc3/a20944.html#a1b8782a4f22522cfe224073515abdf45", null ],
+    [ "PrepareAuraScript", "d7/dc3/a20944.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
+    [ "Register", "d7/dc3/a20944.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
+    [ "Validate", "d7/dc3/a20944.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
 ];

@@ -1,8 +1,6 @@
 var a10064 =
 [
-    [ "TimedFleeingMovementGenerator", "d7/d9f/a10064.html#ae3eed5f4b5a8d11ad4eed67ce5329742", null ],
-    [ "Finalize", "d7/d9f/a10064.html#a1a18f033663fa93ef0b9885aae21f766", null ],
-    [ "GetMovementGeneratorType", "d7/d9f/a10064.html#a1533d13f4e786e498353805a2a2daf85", null ],
-    [ "Update", "d7/d9f/a10064.html#a53688aae55bfdd3a33eb24484fcc157e", null ],
-    [ "i_totalFleeTime", "d7/d9f/a10064.html#a2858047459ff675383e7b86805702369", null ]
+    [ "UpdateRequest", "d7/d9f/a10064.html#a23b3dbcff54691b2710109a822a486a0", null ],
+    [ "~UpdateRequest", "d7/d9f/a10064.html#a240bdc56685c270c597588231c3bf8f8", null ],
+    [ "call", "d7/d9f/a10064.html#a8221fa415f828a4866f85f3983f7dab9", null ]
 ];

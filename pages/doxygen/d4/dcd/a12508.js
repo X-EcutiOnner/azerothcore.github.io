@@ -1,14 +1,6 @@
 var a12508 =
 [
-    [ "boss_chromaggusAI", "d4/dcd/a12508.html#a06f811fb8aa0c15e07e8a771ac722056", null ],
-    [ "CanAIAttack", "d4/dcd/a12508.html#a4643974601831ced1f6173965009ad20", null ],
-    [ "Initialize", "d4/dcd/a12508.html#a0697edb4aa9fb60a0db2ccf54c32dc19", null ],
-    [ "JustEngagedWith", "d4/dcd/a12508.html#a66b6f31ebcfdb2fe9adba85311e655bb", null ],
-    [ "PathEndReached", "d4/dcd/a12508.html#a2805052cd90212ecb9b5f313f4ecc384", null ],
-    [ "Reset", "d4/dcd/a12508.html#aaa72a25326e9c4e1936020a1e6e7b87a", null ],
-    [ "SetGUID", "d4/dcd/a12508.html#ac2f3f6efccc3d48ddd2a7f9175439123", null ],
-    [ "UpdateAI", "d4/dcd/a12508.html#a4a120f99c6586fd06af6699bfe913d24", null ],
-    [ "_breathSpells", "d4/dcd/a12508.html#a10e18592d163d4be586701de47da48c9", null ],
-    [ "_playerGUID", "d4/dcd/a12508.html#a03a7fc87c67b04eb0b1289276023c1b4", null ],
-    [ "Enraged", "d4/dcd/a12508.html#acc8b5cfbae8debb22a0493400ec310c4", null ]
+    [ "boss_overlordwyrmthalakAI", "d6/d5a/a12512.html", "d6/d5a/a12512" ],
+    [ "boss_overlord_wyrmthalak", "d4/dcd/a12508.html#a2af6edf776c189d43cb82cc35bb838fe", null ],
+    [ "GetAI", "d4/dcd/a12508.html#a56de538f25cbabc9346b987dbfe680a1", null ]
 ];

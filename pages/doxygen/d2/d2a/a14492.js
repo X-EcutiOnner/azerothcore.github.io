@@ -1,7 +1,5 @@
 var a14492 =
 [
-    [ "GetEmptyEntry", "d2/d2a/a14492.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "d2/d2a/a14492.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "d2/d2a/a14492.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "d2/d2a/a14492.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "npc_brain_wash_totem", "d2/d2a/a14492.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
+    [ "EnterEvadeMode", "d2/d2a/a14492.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
 ];

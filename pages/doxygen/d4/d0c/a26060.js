@@ -1,7 +1,8 @@
 var a26060 =
 [
-    [ "HandleDummy", "d4/d0c/a26060.html#aec0b2ad3b10f2ccbc755cf7278a5ed46", null ],
-    [ "PrepareSpellScript", "d4/d0c/a26060.html#ac1ba0d23cbf805c234ac9d898f6bab85", null ],
-    [ "Register", "d4/d0c/a26060.html#afd1588dc55730c52a922f37e60ec134a", null ],
-    [ "Validate", "d4/d0c/a26060.html#aaed3ba3d986173b5941e048370d5ebe2", null ]
+    [ "HandleDummy", "d4/d0c/a26060.html#a13b4ea32e03dec26d0cdaa9537abb3b0", null ],
+    [ "Load", "d4/d0c/a26060.html#a78506404ba25b054a9ab3f7176a5d4fc", null ],
+    [ "PrepareSpellScript", "d4/d0c/a26060.html#a070e83b84feb418f02327240daebede7", null ],
+    [ "Register", "d4/d0c/a26060.html#a0c2965e62feb26ca764636fcd3a1f885", null ],
+    [ "Validate", "d4/d0c/a26060.html#a48934cde38c6f3b18087267b616ff338", null ]
 ];

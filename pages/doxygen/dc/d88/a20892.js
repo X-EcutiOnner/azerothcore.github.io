@@ -1,5 +1,8 @@
 var a20892 =
 [
-    [ "achievement_thorim_lose_your_illusion", "dc/d88/a20892.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
-    [ "OnCheck", "dc/d88/a20892.html#a322df4f30445a84085615925f74a8a6b", null ]
+    [ "FilterTargets", "dc/d88/a20892.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
+    [ "HandleDummyEffect", "dc/d88/a20892.html#afbf3aab6724d12426ab0197fb9459562", null ],
+    [ "PrepareSpellScript", "dc/d88/a20892.html#a7ec441904bc100c6b15ee219617489ff", null ],
+    [ "Register", "dc/d88/a20892.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
+    [ "Validate", "dc/d88/a20892.html#a85388adbc15d449e687f9f463cce3833", null ]
 ];

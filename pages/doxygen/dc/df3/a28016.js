@@ -1,5 +1,6 @@
 var a28016 =
 [
-    [ "go_transport_the_thundercaller", "dc/df3/a28016.html#a79d5ed60a112c5f352f9f0b94f9f3a17", null ],
-    [ "EventInform", "dc/df3/a28016.html#ad2e981ff6223ec2cbd8a897485a61204", null ]
+    [ "npc_spirit_shadeAI", "de/de4/a28020.html", "de/de4/a28020" ],
+    [ "npc_spirit_shade", "dc/df3/a28016.html#a891ede5651789274496d6426daf9937d", null ],
+    [ "GetAI", "dc/df3/a28016.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
 ];

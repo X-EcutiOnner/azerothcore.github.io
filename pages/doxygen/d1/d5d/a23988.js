@@ -1,6 +1,6 @@
 var a23988 =
 [
-    [ "OnApply", "d1/d5d/a23988.html#a472220f22165c6d21eab5f4b5f75921e", null ],
-    [ "PrepareAuraScript", "d1/d5d/a23988.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
-    [ "Register", "d1/d5d/a23988.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "d9/dac/a23992.html", "d9/dac/a23992" ],
+    [ "npc_creditmarker_visit_with_ancestors", "d1/d5d/a23988.html#a60f7abac7198d8504d944828dceb1ffa", null ],
+    [ "GetAI", "d1/d5d/a23988.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
 ];

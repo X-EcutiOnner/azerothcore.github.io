@@ -1,5 +1,13 @@
 var a08984 =
 [
-    [ "creatures", "de/d7c/a08984.html#a9ae0351e4964d22bcf7c454c8b1027fe", null ],
-    [ "gameobjects", "de/d7c/a08984.html#a14fee7108cb388abd1ec2057cc7ed2a1", null ]
+    [ "BuildValuesCachePosPointers", "de/d7c/a08984.html#ae84124e042e8ba50d755ccef3c02fdd8", null ],
+    [ "ApplyOffset", "de/d7c/a08984.html#a31a13ea07b3eb9e3d045996e8a6074b2", null ],
+    [ "other", "de/d7c/a08984.html#ad56ddc5f2d7ea4937b49a61d80b8b138", null ],
+    [ "UnitDynamicFlagsPos", "de/d7c/a08984.html#a230385a8646ebce01faaadce648b1a61", null ],
+    [ "UnitFieldAuraStatePos", "de/d7c/a08984.html#a69592cf42c5f6663c8ada3468fcbe658", null ],
+    [ "UnitFieldBytes2Pos", "de/d7c/a08984.html#aa1df8492f0a3c576b067469ee3552796", null ],
+    [ "UnitFieldDisplayPos", "de/d7c/a08984.html#a1058d1650d656498f7dcd5139363a315", null ],
+    [ "UnitFieldFactionTemplatePos", "de/d7c/a08984.html#a9b8eae9da685231956dca3e92b845cbb", null ],
+    [ "UnitFieldFlagsPos", "de/d7c/a08984.html#a04e607123d1d1dde24611b573d25fedb", null ],
+    [ "UnitNPCFlagsPos", "de/d7c/a08984.html#aa9412413e1a867d1f3857d18f4d52906", null ]
 ];

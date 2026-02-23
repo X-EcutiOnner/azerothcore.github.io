@@ -1,14 +1,13 @@
 var a14104 =
 [
-    [ "boss_hexlord_malacrass", "da/d31/a14104.html#aaf3fdf0b34904d1c5798ebcc291cdcde", null ],
-    [ "JustEngagedWith", "da/d31/a14104.html#ac5af0a5ec11ab8529e74a1ea7f0b4b66", null ],
-    [ "KilledUnit", "da/d31/a14104.html#a69e7a3aa2cb068706651bad34363099f", null ],
-    [ "Reset", "da/d31/a14104.html#af00159c9e2c54033f52f46d60881f22e", null ],
-    [ "ScheduleClassAbility", "da/d31/a14104.html#aefffbab821a4abb4ab0e6779ba73d5ac", null ],
-    [ "SpawnAdds", "da/d31/a14104.html#a8ffb01ebe267b4eb935e373bd0d99eed", null ],
-    [ "UseAbility", "da/d31/a14104.html#afdad8cc36235f11dc5c4b4f579f5b46b", null ],
-    [ "_classAbilityTimer", "da/d31/a14104.html#a40ccd2e586895ab1cde3c51bcd56c11b", null ],
-    [ "_creatureIndex", "da/d31/a14104.html#ac13b0f08fec4270ed372f00ae540fdc3", null ],
-    [ "_currentClass", "da/d31/a14104.html#ab7e531fccbb486b7b429d77d804841c2", null ],
-    [ "_timeUntilNextDrainPower", "da/d31/a14104.html#aa6963eb30a6e8555d4695bf284b13cac", null ]
+    [ "npc_lord_gregor_lescovarAI", "da/d31/a14104.html#ab3ed8a9536fc6be948f280e319d4fec7", null ],
+    [ "DoGuardsDisappearAndDie", "da/d31/a14104.html#a8588cae3dc8aa3dd46c55439d355df9b", null ],
+    [ "EnterEvadeMode", "da/d31/a14104.html#a95e60614808191e4c1f909f5e38e4741", null ],
+    [ "JustEngagedWith", "da/d31/a14104.html#ad0ca7d80d68b9623b99c644daa8f4c57", null ],
+    [ "Reset", "da/d31/a14104.html#a06df695e9acd96b07f4e58c9461a708c", null ],
+    [ "UpdateAI", "da/d31/a14104.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
+    [ "WaypointReached", "da/d31/a14104.html#ad91850dc72d0307e28b881717bfba6db", null ],
+    [ "MarzonGUID", "da/d31/a14104.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
+    [ "uiPhase", "da/d31/a14104.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
+    [ "uiTimer", "da/d31/a14104.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]
 ];

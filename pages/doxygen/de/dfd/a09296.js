@@ -1,13 +1,15 @@
 var a09296 =
 [
-    [ "MessageDistDelivererToHostile", "de/dfd/a09296.html#a4e1642660288eeb46867d4e19944cc78", null ],
-    [ "SendPacket", "de/dfd/a09296.html#aced79e7b19918408fa4d81667fbeb7f0", null ],
-    [ "Visit", "de/dfd/a09296.html#af9c5269b0266e9e28a70118e62d25e58", null ],
-    [ "Visit", "de/dfd/a09296.html#a224eeb339614d7a9f5e43d498b245958", null ],
-    [ "Visit", "de/dfd/a09296.html#a304c0be3c55bd2817abeaa1d53563a27", null ],
-    [ "Visit", "de/dfd/a09296.html#ae2a44055a4363eeff81a799b8a93d74d", null ],
-    [ "i_distSq", "de/dfd/a09296.html#a0fc7e00f191801869c3fd8eeae032af8", null ],
-    [ "i_message", "de/dfd/a09296.html#ae10ac98c489ec48ed49daf835e7a361d", null ],
-    [ "i_phaseMask", "de/dfd/a09296.html#a0a932cd193e847ee0cfddae0946e39d1", null ],
-    [ "i_source", "de/dfd/a09296.html#a174aade6dc85233e8481a452f800ec0e", null ]
+    [ "CoordPair", "de/dfd/a09296.html#a53b5f24cfdf13b246549a0c1543924c9", null ],
+    [ "CoordPair", "de/dfd/a09296.html#aab92ece0f01ebc00cdac4966e02fa8fd", null ],
+    [ "dec_x", "de/dfd/a09296.html#a69be5b72b710722120104f0c502fbb70", null ],
+    [ "dec_y", "de/dfd/a09296.html#aefa33f8766212bb71e5fd19a318142cc", null ],
+    [ "GetId", "de/dfd/a09296.html#ae4f7f304faf2c2363cffe2170b4c5c97", null ],
+    [ "inc_x", "de/dfd/a09296.html#aa6a4942253e87ae57e2d69a2563ddef1", null ],
+    [ "inc_y", "de/dfd/a09296.html#a120946c5a8c8b49bbdf9a1ee54ded9ec", null ],
+    [ "IsCoordValid", "de/dfd/a09296.html#a082960c54e2077df370f891c0534b44f", null ],
+    [ "normalize", "de/dfd/a09296.html#afac8086374bfc499e3a8d74d6afc58db", null ],
+    [ "operator=", "de/dfd/a09296.html#a27f81c359c4ae278d663e85eccbeebb9", null ],
+    [ "x_coord", "de/dfd/a09296.html#a101dd71af6a2cba18140aea2e502ef8b", null ],
+    [ "y_coord", "de/dfd/a09296.html#aacae12844cc0c0d70e26b137ad28f700", null ]
 ];

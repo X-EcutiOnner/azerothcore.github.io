@@ -1,5 +1,8 @@
 var a20256 =
 [
-    [ "boss_freya_iron_rootAI", "d7/df8/a20256.html#a5e982f5f41433f43a7a0e1d18e009b7b", null ],
-    [ "JustDied", "d7/df8/a20256.html#ad35297f0fa2039749b89d38c2b4f08b9", null ]
+    [ "HandleOnEffectApply", "d7/df8/a20256.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "d7/df8/a20256.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "d7/df8/a20256.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "d7/df8/a20256.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "d7/df8/a20256.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

@@ -1,5 +1,6 @@
 var a13140 =
 [
-    [ "boss_ellris_duskhallow", "d5/d3c/a13140.html#a85dc1f923c8211180cc5b250fb509ba7", null ],
-    [ "JustEngagedWith", "d5/d3c/a13140.html#a5bb5bc51b62ad371bf086c6ced2eee89", null ]
+    [ "HandleCast", "d5/d3c/a13140.html#aefe0621647cd9e25f19063eb5ce4dd69", null ],
+    [ "PrepareSpellScript", "d5/d3c/a13140.html#afb4d3414a0da5e2701ee114349cf64ce", null ],
+    [ "Register", "d5/d3c/a13140.html#a261a63e366c22c6bf2d1d7dfec97c6e2", null ]
 ];

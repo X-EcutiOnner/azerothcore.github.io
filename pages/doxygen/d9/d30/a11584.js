@@ -1,6 +1,7 @@
 var a11584 =
 [
-    [ "EffectUpdatePeriodicHandler", "d9/d30/a11584.html#a6b18a259aa84c847bcc064c5243eb590", null ],
-    [ "Call", "d9/d30/a11584.html#a38802863e7859453cbbe58ad91018c67", null ],
-    [ "pEffectHandlerScript", "d9/d30/a11584.html#a0e51245e089fcd9532d5789056ab944c", null ]
+    [ "SpellImmune", "d9/d30/a11584.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
+    [ "blockType", "d9/d30/a11584.html#a13a353d02a7330820df170eb46e7a26d", null ],
+    [ "spellId", "d9/d30/a11584.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
+    [ "type", "d9/d30/a11584.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
 ];

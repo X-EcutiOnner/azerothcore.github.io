@@ -1,5 +1,5 @@
 var a08300 =
 [
-    [ "CastBarCaption", "d7/d9a/a08300.html#ae78195bdc8edd6f4996c617e7a541e12", null ],
-    [ "Name", "d7/d9a/a08300.html#a462917eda1e095c99054495abf70cd67", null ]
+    [ "GossipActionMenuId", "d7/d9a/a08300.html#a377beba97be2b81a0c2bbeb933f1927b", null ],
+    [ "GossipActionPoi", "d7/d9a/a08300.html#afdaf27e370e3c84659fdc3784cafad29", null ]
 ];

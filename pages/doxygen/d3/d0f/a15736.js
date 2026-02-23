@@ -1,8 +1,13 @@
 var a15736 =
 [
-    [ "CheckRequirement", "d3/d0f/a15736.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "d3/d0f/a15736.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "d3/d0f/a15736.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "d3/d0f/a15736.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "d3/d0f/a15736.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "d3/d0f/a15736.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
+    [ "GetData", "d3/d0f/a15736.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
+    [ "Initialize", "d3/d0f/a15736.html#a870ab2322971767fa37986743b31d20c", null ],
+    [ "OnCreatureCreate", "d3/d0f/a15736.html#aed3807432711105589d0b060a21836cc", null ],
+    [ "ReadSaveDataMore", "d3/d0f/a15736.html#ad348102f71e070e7ef12da62238c7b0f", null ],
+    [ "SetData", "d3/d0f/a15736.html#a0333b4728e9288937711174743f19f60", null ],
+    [ "WriteSaveDataMore", "d3/d0f/a15736.html#a78bece51279e3f9e62800e4d80b00f64", null ],
+    [ "_encounters", "d3/d0f/a15736.html#a0f049806007e59363418d4e39f9e389b", null ],
+    [ "DiscipleOfNaralexGUID", "d3/d0f/a15736.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
+    [ "SerpentisGUID", "d3/d0f/a15736.html#a7ba205e4988a20404f5e597331dd5d56", null ]
 ];

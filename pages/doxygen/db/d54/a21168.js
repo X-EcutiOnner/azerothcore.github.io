@@ -1,7 +1,8 @@
 var a21168 =
 [
-    [ "HandleScriptEffect", "db/d54/a21168.html#aae469190c1edc1fe45914bad1dac4e93", null ],
-    [ "PrepareSpellScript", "db/d54/a21168.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
-    [ "Register", "db/d54/a21168.html#a97265071f226fbd17c37d432cf9e2350", null ],
-    [ "Validate", "db/d54/a21168.html#aeec0bdd2e39db2da657247376ddcd195", null ]
+    [ "CheckProc", "db/d54/a21168.html#ac955cc78dd3206816906dd06b3e006f6", null ],
+    [ "HandleProc", "db/d54/a21168.html#a966d23cc5714fe35d80b2964dddda536", null ],
+    [ "PrepareAuraScript", "db/d54/a21168.html#a5c8464dcf2f8b62a624f38dec2f4a0a5", null ],
+    [ "Register", "db/d54/a21168.html#a3e7479f97e4105f2c12536d9c66284aa", null ],
+    [ "Validate", "db/d54/a21168.html#a5d8e764dafd26548af8588593bf27990", null ]
 ];

@@ -1,6 +1,7 @@
 var a23212 =
 [
-    [ "HandleDummy", "d6/d1a/a23212.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
-    [ "PrepareSpellScript", "d6/d1a/a23212.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
-    [ "Register", "d6/d1a/a23212.html#a972574075c86c32593982add71dc893f", null ]
+    [ "npc_ahune_ice_spear_bunny", "d6/d1a/a23212.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
+    [ "InitializeAI", "d6/d1a/a23212.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
+    [ "UpdateAI", "d6/d1a/a23212.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
+    [ "_scheduler", "d6/d1a/a23212.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
 ];

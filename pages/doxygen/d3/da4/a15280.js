@@ -1,6 +1,10 @@
 var a15280 =
 [
-    [ "HandleDummyHitTarget", "d3/da4/a15280.html#ae773d73496578170061baedd8f7daec1", null ],
-    [ "PrepareSpellScript", "d3/da4/a15280.html#a822fe6d19c2ee0d02dc5561b4f910cf9", null ],
-    [ "Register", "d3/da4/a15280.html#a651cc94581130224ba23e864f8ad7060", null ]
+    [ "boss_aeonus", "d3/da4/a15280.html#af823ef2187b852dc72d2f63020e1701b", null ],
+    [ "IsSummonedBy", "d3/da4/a15280.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
+    [ "JustDied", "d3/da4/a15280.html#a649275c31e61f542a13fd791ee85277b", null ],
+    [ "JustEngagedWith", "d3/da4/a15280.html#a5f193144e36a889630d5dbadb4aa665f", null ],
+    [ "JustReachedHome", "d3/da4/a15280.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
+    [ "KilledUnit", "d3/da4/a15280.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
+    [ "MoveInLineOfSight", "d3/da4/a15280.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
 ];

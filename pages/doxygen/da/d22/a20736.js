@@ -1,6 +1,5 @@
 var a20736 =
 [
-    [ "npc_ulduar_harpoonfirestateAI", "d0/d65/a20740.html", "d0/d65/a20740" ],
-    [ "npc_ulduar_harpoonfirestate", "da/d22/a20736.html#a85043e64606ba7c9ce2da7a37bbf0e8e", null ],
-    [ "GetAI", "da/d22/a20736.html#a8c9e1882c0706cb0b576c24b62215238", null ]
+    [ "achievement_thorim_lose_your_illusion", "da/d22/a20736.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
+    [ "OnCheck", "da/d22/a20736.html#a322df4f30445a84085615925f74a8a6b", null ]
 ];

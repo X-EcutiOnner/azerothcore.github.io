@@ -1,6 +1,4 @@
 var a10368 =
 [
-    [ "BattlegroundScript", "d4/d9d/a10368.html#a306231f1c7346a00a3f877c7cef3897b", null ],
-    [ "GetBattleground", "d4/d9d/a10368.html#a782c6e81f4ed9a63f9276dcc4f0f9116", null ],
-    [ "IsDatabaseBound", "d4/d9d/a10368.html#a35b571d570c85a861af6f949b51453cb", null ]
+    [ "MaxLimit", "d4/d9d/a10368.html#a38ba12a67e99cabba2388a63f12a2b53", null ]
 ];

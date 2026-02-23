@@ -1,5 +1,6 @@
 var a15500 =
 [
-    [ "npc_toxic_slime", "d8/d38/a15500.html#a4c3a03916280342ec9aec07049de161f", null ],
-    [ "InitializeAI", "d8/d38/a15500.html#ae69f228040aaa5bc4df40a652f551992", null ]
+    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "de/d22/a15504.html", "de/d22/a15504" ],
+    [ "instance_ruins_of_ahnqiraj", "d8/d38/a15500.html#adeacb1c68e4b12995a335d1bedde075a", null ],
+    [ "GetInstanceScript", "d8/d38/a15500.html#a6a661e961c2599498de0ccd41c0763b4", null ]
 ];

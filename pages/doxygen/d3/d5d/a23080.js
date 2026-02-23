@@ -1,7 +1,6 @@
 var a23080 =
 [
-    [ "SuckBackEvent", "d3/d5d/a23080.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
-    [ "Execute", "d3/d5d/a23080.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
-    [ "_action", "d3/d5d/a23080.html#abc54669df2dba0238723a40ababe4c0a", null ],
-    [ "_owner", "d3/d5d/a23080.html#a4d8bc09803f7786022c1836457ded488", null ]
+    [ "HandleEffectRemove", "d3/d5d/a23080.html#adfbbb75ace34ab5c0fec35e6aa88505a", null ],
+    [ "PrepareAuraScript", "d3/d5d/a23080.html#a94b91d27b9a218b5fdce91d6a6e72f62", null ],
+    [ "Register", "d3/d5d/a23080.html#a2b7fb2d6d0f92a970a45e0b9c409408d", null ]
 ];

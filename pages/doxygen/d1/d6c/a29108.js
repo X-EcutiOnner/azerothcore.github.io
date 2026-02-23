@@ -1,7 +1,4 @@
 var a29108 =
 [
-    [ "W", "d1/d6c/a29108.html#adc2e55b935dcc2daefd60739bdb31cec", null ],
-    [ "X", "d1/d6c/a29108.html#a2676f1a5ec3a2f69ebb953e4b5741c4b", null ],
-    [ "Y", "d1/d6c/a29108.html#aa3353a9f5afdf3614e37f9681441ae05", null ],
-    [ "Z", "d1/d6c/a29108.html#a533b5e90b6333d89190828f28721e61d", null ]
+    [ "ratio", "d1/d6c/a29108.html#ac22c096d41c6fb7ebdc824fc1ca8601b", null ]
 ];

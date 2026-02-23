@@ -1,8 +1,8 @@
 var a09872 =
 [
-    [ "EllipseBoundary", "d5/da1/a09872.html#aeb8c822a8c4c745de0c848721a624545", null ],
-    [ "IsWithinBoundaryArea", "d5/da1/a09872.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
-    [ "_center", "d5/da1/a09872.html#aa84bae8bced77e38fec652e473cf39c7", null ],
-    [ "_radiusYSq", "d5/da1/a09872.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
-    [ "_scaleXSq", "d5/da1/a09872.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
+    [ "BossInfo", "d5/da1/a09872.html#a455f533d647927d182176c3cceb21f42", null ],
+    [ "boundary", "d5/da1/a09872.html#aa4fb2bc78efb3393004c0f827000e4f1", null ],
+    [ "door", "d5/da1/a09872.html#a858af8825ed4fe183ee19b6f10239304", null ],
+    [ "minion", "d5/da1/a09872.html#abec1469d41f286d02c34223171373cd3", null ],
+    [ "state", "d5/da1/a09872.html#a1e4413b3a8bac20ed9e7ac878e3066f7", null ]
 ];

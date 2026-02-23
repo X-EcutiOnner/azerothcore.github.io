@@ -1,7 +1,9 @@
 var a15040 =
 [
-    [ "OnRemove", "d6/def/a15040.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
-    [ "PrepareAuraScript", "d6/def/a15040.html#ab082adc51983f124d0467cbff63cffb7", null ],
-    [ "Register", "d6/def/a15040.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
-    [ "Validate", "d6/def/a15040.html#a73421b82f483e73314dbb862fb0a11c7", null ]
+    [ "boss_azuregosAI", "d6/def/a15040.html#a839ab1e096d30062d64c1c515a7462a4", null ],
+    [ "JustDied", "d6/def/a15040.html#aea4d204173b7882d2d9acf8204410947", null ],
+    [ "JustEngagedWith", "d6/def/a15040.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
+    [ "KilledUnit", "d6/def/a15040.html#aeefc791e17d2a687f8beae809c44d123", null ],
+    [ "Reset", "d6/def/a15040.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
+    [ "UpdateAI", "d6/def/a15040.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
 ];

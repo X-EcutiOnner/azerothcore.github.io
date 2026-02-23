@@ -1,7 +1,7 @@
 var a08968 =
 [
-    [ "IsFitToRequirements", "dd/d24/a08968.html#ac175634ed2eab2911c3749fa208a073a", null ],
-    [ "castFlags", "dd/d24/a08968.html#a03cd65a460ea252818de9230cb656c1c", null ],
-    [ "spellId", "dd/d24/a08968.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
-    [ "userType", "dd/d24/a08968.html#adcf285572403481cb418bddebc5f4bfa", null ]
+    [ "HealthPctOrderPred", "dd/d24/a08968.html#a5c83c0ba35b9febbe6a62dae63995f97", null ],
+    [ "operator()", "dd/d24/a08968.html#a2c7f4043e5268b13bf0d9f46e9709a9b", null ],
+    [ "operator()", "dd/d24/a08968.html#a23f2dc594fd531d02cd6eae0faa7f6b7", null ],
+    [ "_ascending", "dd/d24/a08968.html#a4c34feefafc014b50ba2869a9bdb9959", null ]
 ];

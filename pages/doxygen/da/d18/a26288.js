@@ -1,10 +1,6 @@
 var a26288 =
 [
-    [ "AfterCheckProc", "da/d18/a26288.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb", null ],
-    [ "HandleProc", "da/d18/a26288.html#a613182c741769d0983206bdfa89242f6", null ],
-    [ "PrepareAuraScript", "da/d18/a26288.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
-    [ "Register", "da/d18/a26288.html#acd807de02a83a97a78572d672fb16027", null ],
-    [ "Validate", "da/d18/a26288.html#a3d2d6f1a00825ac66f507a790f468198", null ],
-    [ "_spellInfo", "da/d18/a26288.html#a66a5eb4caa7b43c34b2830d9a3d2f994", null ],
-    [ "_ticksModifier", "da/d18/a26288.html#ae23b54499fff879a096bd459e264c4f0", null ]
+    [ "CheckProc", "da/d18/a26288.html#ae67afabe644d2e11f85950d02325373a", null ],
+    [ "PrepareAuraScript", "da/d18/a26288.html#adf2825375a332d2829778d2a57c6f511", null ],
+    [ "Register", "da/d18/a26288.html#ad9f4946abaf474e31b518b57e1de5bf1", null ]
 ];

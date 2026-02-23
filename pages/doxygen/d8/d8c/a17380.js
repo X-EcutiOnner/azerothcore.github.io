@@ -1,6 +1,6 @@
 var a17380 =
 [
-    [ "SlaveRunEvent", "d8/d8c/a17380.html#a4560b275b0870cdbd192b2610893b47c", null ],
-    [ "Execute", "d8/d8c/a17380.html#a81db67be136525dea5a9cd84180be165", null ],
-    [ "_owner", "d8/d8c/a17380.html#a33e2ce4cea1edf2e0967696c41667f15", null ]
+    [ "npc_hor_lumbering_abominationAI", "d1/dbd/a17384.html", "d1/dbd/a17384" ],
+    [ "npc_hor_lumbering_abomination", "d8/d8c/a17380.html#a0d394d1ba52a05a6db0ae983daea7123", null ],
+    [ "GetAI", "d8/d8c/a17380.html#a0601ac0af85e545617013846c48de29a", null ]
 ];

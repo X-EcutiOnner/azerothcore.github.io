@@ -1,6 +1,6 @@
 var a17592 =
 [
-    [ "ModAuraStack", "d9/d70/a17592.html#a7535ef148e047e32a5f7a1944585e396", null ],
-    [ "PrepareSpellScript", "d9/d70/a17592.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
-    [ "Register", "d9/d70/a17592.html#ab44b362197e74b98b3ffeb98eff52742", null ]
+    [ "npc_living_mojoAI", "d8/d42/a17596.html", "d8/d42/a17596" ],
+    [ "npc_living_mojo", "d9/d70/a17592.html#af24190023549b4ec5fa47b5959618a8a", null ],
+    [ "GetAI", "d9/d70/a17592.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
 ];

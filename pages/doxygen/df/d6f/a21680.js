@@ -1,6 +1,12 @@
 var a21680 =
 [
-    [ "HandleEffectPeriodic", "df/d6f/a21680.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
-    [ "PrepareAuraScript", "df/d6f/a21680.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
-    [ "Register", "df/d6f/a21680.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
+    [ "npc_wintergarde_gryphon", "df/d6f/a21680.html#ada46ecdbc8c3a33a7b3ce09296c0db72", null ],
+    [ "getVillager", "df/d6f/a21680.html#a7f20f5e124e013ad8f57ca31b9fb86d7", null ],
+    [ "IsSummonedBy", "df/d6f/a21680.html#acd7cea6226034d53b854c5ed659ff949", null ],
+    [ "JustDied", "df/d6f/a21680.html#a6c87d55ef29e14b4b8b87a0321179542", null ],
+    [ "MovementInform", "df/d6f/a21680.html#a8f2faf49533d27d971110681e050c060", null ],
+    [ "PassengerBoarded", "df/d6f/a21680.html#a16c01d26aef06358f979f59fe68c09ca", null ],
+    [ "SpellHit", "df/d6f/a21680.html#acf64143ea83321556156fde30e1a34d4", null ],
+    [ "UpdateAI", "df/d6f/a21680.html#aa161f280e7a7370696cecc27c51ee55c", null ],
+    [ "villagerGUID", "df/d6f/a21680.html#a56a7973a05061197192111ecf55ef14a", null ]
 ];

@@ -1,7 +1,7 @@
 var a16408 =
 [
-    [ "OnApply", "d1/dc0/a16408.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
-    [ "OnRemove", "d1/dc0/a16408.html#a781994b0be4588f4df29399fc900ec69", null ],
-    [ "PrepareAuraScript", "d1/dc0/a16408.html#aee648b80e7352edffb20fd60697e1d88", null ],
-    [ "Register", "d1/dc0/a16408.html#a53c56711e31500f827123c08f44072cb", null ]
+    [ "boss_sartharion_shadron", "d1/dc0/a16408.html#ab4a7991c276a12af0b54936c271bfd0b", null ],
+    [ "ExecuteEvent", "d1/dc0/a16408.html#a1f1a235d4d5654e273ef821ebf962491", null ],
+    [ "Reset", "d1/dc0/a16408.html#a8511eb55a486665a248d555337c25002", null ],
+    [ "SummonedCreatureDies", "d1/dc0/a16408.html#a3967c70698675d2c925a1a0366bf1d00", null ]
 ];

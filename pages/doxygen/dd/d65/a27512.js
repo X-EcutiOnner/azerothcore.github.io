@@ -1,6 +1,7 @@
 var a27512 =
 [
-    [ "go_pirate_day_musicAI", "db/df8/a27516.html", "db/df8/a27516" ],
-    [ "go_pirate_day_music", "dd/d65/a27512.html#aa8d19102357639bd160eae9e90a87505", null ],
-    [ "GetAI", "dd/d65/a27512.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
+    [ "HandleProc", "dd/d65/a27512.html#a9531d72f68dfc46cb6a49c9d10ee14dc", null ],
+    [ "PrepareAuraScript", "dd/d65/a27512.html#a4bd22c4f4cbd80ca26b0e27081dcb406", null ],
+    [ "Register", "dd/d65/a27512.html#a5cdc48d549e97060e837c6396e19cfb4", null ],
+    [ "Validate", "dd/d65/a27512.html#ad69695289aca17548b11199a84bbaf37", null ]
 ];

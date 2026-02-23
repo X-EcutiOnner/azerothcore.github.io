@@ -1,6 +1,6 @@
 var a20572 =
 [
-    [ "FilterTargets", "db/df5/a20572.html#ae8d940a89be9b63286911bd55dcd3844", null ],
-    [ "PrepareSpellScript", "db/df5/a20572.html#a8f4b4d82e53c8f820b620896478681a9", null ],
-    [ "Register", "db/df5/a20572.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
+    [ "HandleDamage", "db/df5/a20572.html#af2578478e83eb2f6c2de32a692e9be91", null ],
+    [ "PrepareSpellScript", "db/df5/a20572.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
+    [ "Register", "db/df5/a20572.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
 ];

@@ -1,5 +1,5 @@
 var a08628 =
 [
-    [ "PlayerClassInfo", "d9/d65/a08628.html#a6a0a6db24e144593356e0505946e8f06", null ],
-    [ "levelInfo", "d9/d65/a08628.html#aa234b353361ef0017ec974ca4c8e86f1", null ]
+    [ "PackedGuidReader", "d9/d65/a08628.html#aec7af2ed383e06998a0fa12b94da90e3", null ],
+    [ "Guid", "d9/d65/a08628.html#a4de5d725a22f0a8ae4bb83cb51a72588", null ]
 ];

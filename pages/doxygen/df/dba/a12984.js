@@ -1,6 +1,6 @@
 var a12984 =
 [
-    [ "HandleCast", "df/dba/a12984.html#aefe0621647cd9e25f19063eb5ce4dd69", null ],
-    [ "PrepareSpellScript", "df/dba/a12984.html#afb4d3414a0da5e2701ee114349cf64ce", null ],
-    [ "Register", "df/dba/a12984.html#a261a63e366c22c6bf2d1d7dfec97c6e2", null ]
+    [ "boss_mr_smiteAI", "d3/db6/a12988.html", "d3/db6/a12988" ],
+    [ "boss_mr_smite", "df/dba/a12984.html#a011d41112ef7376b71d2959f806be262", null ],
+    [ "GetAI", "df/dba/a12984.html#a619ca0aede1eb33f992328048319c4f0", null ]
 ];

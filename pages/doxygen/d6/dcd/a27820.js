@@ -1,7 +1,7 @@
 var a27820 =
 [
-    [ "npc_doctorAI", "d5/d7f/a27824.html", "d5/d7f/a27824" ],
-    [ "npc_doctor", "d6/dcd/a27820.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
-    [ "GetAI", "d6/dcd/a27820.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
-    [ "OnQuestAccept", "d6/dcd/a27820.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
+    [ "HandleScript", "d6/dcd/a27820.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
+    [ "PrepareSpellScript", "d6/dcd/a27820.html#ab363d596d2d1e030f0cc07126b40e921", null ],
+    [ "Register", "d6/dcd/a27820.html#ab9041b811e80e220828d5db59b724682", null ],
+    [ "Validate", "d6/dcd/a27820.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
 ];

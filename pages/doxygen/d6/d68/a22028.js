@@ -1,6 +1,6 @@
 var a22028 =
 [
-    [ "npc_q24545_vegard_dummyAI", "d0/dd9/a22032.html", "d0/dd9/a22032" ],
-    [ "npc_q24545_vegard_dummy", "d6/d68/a22028.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
-    [ "GetAI", "d6/d68/a22028.html#a201d1dec206887c26e33f795a0fd0887", null ]
+    [ "ChangeSummonPos", "d6/d68/a22028.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "d6/d68/a22028.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "d6/d68/a22028.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

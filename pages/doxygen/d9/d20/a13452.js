@@ -1,6 +1,7 @@
 var a13452 =
 [
-    [ "instance_shadowfang_keep_InstanceMapScript", "db/dba/a13456.html", "db/dba/a13456" ],
-    [ "instance_shadowfang_keep", "d9/d20/a13452.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
-    [ "GetInstanceScript", "d9/d20/a13452.html#a5c076ed86470247de5b4e3733b70fa25", null ]
+    [ "HandleHit", "d9/d20/a13452.html#aa06c722fbd75f11fa3ba43c77e68f15f", null ],
+    [ "Load", "d9/d20/a13452.html#affe2cd261752db89b1b418eb18a3370c", null ],
+    [ "PrepareSpellScript", "d9/d20/a13452.html#a90a11fb3309325c93e7c052e172a0d0b", null ],
+    [ "Register", "d9/d20/a13452.html#aaadaf49a3757e78d69ffc32768945d16", null ]
 ];

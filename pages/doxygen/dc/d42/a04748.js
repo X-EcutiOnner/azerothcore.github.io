@@ -1,10 +1,18 @@
 var a04748 =
 [
-    [ "ListFilesResult", "dc/d42/a04748.html#a030b28c9f552c0de4a4b4844fc5e6101", [
-      [ "LISTFILE_DIRECTORY_NOT_FOUND", "dc/d42/a04748.html#a030b28c9f552c0de4a4b4844fc5e6101a868c0f60f6afa222577730606ed493a6", null ],
-      [ "LISTFILE_OK", "dc/d42/a04748.html#a030b28c9f552c0de4a4b4844fc5e6101a952e90f65bfd2eefbd80a8b830eb5687", null ]
-    ] ],
-    [ "executableDirectoryPath", "dc/d42/a04748.html#acc9fa8dfc5903454eab1eb410866b694", null ],
-    [ "getDirContents", "dc/d42/a04748.html#a3620968f3c1f5c1a3bb0c809ab0eb4ab", null ],
-    [ "matchWildcardFilter", "dc/d42/a04748.html#a0b1c31a5b3e8bebc7fa860b40f7997e1", null ]
+    [ "Days", "dc/d42/a04748.html#af5dc5e7ad7b3f6d8e84530de842d125b", null ],
+    [ "Hours", "dc/d42/a04748.html#aa0f87984d2b3835a61dffc22ae8bf083", null ],
+    [ "Microseconds", "dc/d42/a04748.html#a201a83ed0d59d2baf946daf42dac834f", null ],
+    [ "Milliseconds", "dc/d42/a04748.html#a1c3834b9e3853535027d58bf21bec81f", null ],
+    [ "Minutes", "dc/d42/a04748.html#af2161f9db850581e2228078614990df8", null ],
+    [ "Months", "dc/d42/a04748.html#a5f2ffeea2459944dfaa4443f1efb7f42", null ],
+    [ "Seconds", "dc/d42/a04748.html#a3cd82f1c195a0b935b4d66b02a41acd8", null ],
+    [ "SystemTimePoint", "dc/d42/a04748.html#ada798961abc5a533d616ff780f567bb6", null ],
+    [ "TimePoint", "dc/d42/a04748.html#ae5ca775e8d8c664b6edef818ce1251b9", null ],
+    [ "Weeks", "dc/d42/a04748.html#a983745490d3d3a0322c4ccf0f418f179", null ],
+    [ "Years", "dc/d42/a04748.html#ab4fa20b33a9b5ee358963159b01d72f3", null ],
+    [ "operator\"\"_days", "dc/d42/a04748.html#ae62919aa53468bfadd4984bdd0498c03", null ],
+    [ "operator\"\"_months", "dc/d42/a04748.html#a7f38d5f5e7db75251b49712f910059ac", null ],
+    [ "operator\"\"_weeks", "dc/d42/a04748.html#a7ff3ff81243ee7b2ce873364bb7ad676", null ],
+    [ "operator\"\"_years", "dc/d42/a04748.html#a25baa64022678f43cf423c945dbd0226", null ]
 ];

@@ -1,10 +1,14 @@
 var a09424 =
 [
-    [ "MostHPPercentMissingInRange", "d3/dc7/a09424.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
-    [ "operator()", "d3/dc7/a09424.html#ab1734490a3db95ad715756e85ecfaf77", null ],
-    [ "i_hpPct", "d3/dc7/a09424.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
-    [ "i_maxHpPct", "d3/dc7/a09424.html#afd12795ef0cd99e05e4e21f869582416", null ],
-    [ "i_minHpPct", "d3/dc7/a09424.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
-    [ "i_obj", "d3/dc7/a09424.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
-    [ "i_range", "d3/dc7/a09424.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
+    [ "WorldObjectSearcher", "d3/dc7/a09424.html#a4c8b6202710f1539e55eb8d30031ce62", null ],
+    [ "Visit", "d3/dc7/a09424.html#ace0642ee6949a06f9b94e350b49e64c1", null ],
+    [ "Visit", "d3/dc7/a09424.html#ac484deeb43ead6b9ea73182da97ff3ba", null ],
+    [ "Visit", "d3/dc7/a09424.html#a28a30052c55b2ffad85e8d2f4f008ff3", null ],
+    [ "Visit", "d3/dc7/a09424.html#a42fce9834443194e090e022f3f7618b0", null ],
+    [ "Visit", "d3/dc7/a09424.html#aae2b654236e3a85d9ba0b5ce48d5c315", null ],
+    [ "Visit", "d3/dc7/a09424.html#aa2742bc25a4773a487e9e8ff760644ea", null ],
+    [ "i_check", "d3/dc7/a09424.html#aa8af931f3d562aa1c31e774347db2e24", null ],
+    [ "i_mapTypeMask", "d3/dc7/a09424.html#a2910a3c0a932f2d3ea7d10d4541cbb39", null ],
+    [ "i_object", "d3/dc7/a09424.html#a8f705e476d2a32ca90d589d9b58b2c8d", null ],
+    [ "i_phaseMask", "d3/dc7/a09424.html#a5688db61fc9d297252987830eadb0ee5", null ]
 ];

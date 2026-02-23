@@ -1,9 +1,14 @@
 var a22460 =
 [
-    [ "npc_brunnhildar_prisonerAI", "d5/d5e/a22460.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
-    [ "JustRespawned", "d5/d5e/a22460.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
-    [ "Reset", "d5/d5e/a22460.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
-    [ "SpellHit", "d5/d5e/a22460.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
-    [ "UpdateAI", "d5/d5e/a22460.html#a0702d4cf577ac00688a7b93bfe656952", null ],
-    [ "freed", "d5/d5e/a22460.html#a46e03a19bac91a800154e3c873235800", null ]
+    [ "OutdoorPvPNA", "d5/d5e/a22460.html#acbdae42245c71e4274296649d8d08e9e", null ],
+    [ "FillInitialWorldStates", "d5/d5e/a22460.html#a49ac785929dd16bf0735b32b787763e9", null ],
+    [ "GetCapturePoint", "d5/d5e/a22460.html#a7bab429e723c0ac1eb2f8cd3501f13be", null ],
+    [ "HandleKill", "d5/d5e/a22460.html#ab55683b771104878c69239314a9782f4", null ],
+    [ "HandleKillImpl", "d5/d5e/a22460.html#a2ede6e7dc54424d9729a094557b14792", null ],
+    [ "HandlePlayerEnterZone", "d5/d5e/a22460.html#a312c5f2aaa35a9f83740c1bdd9772b9e", null ],
+    [ "HandlePlayerLeaveZone", "d5/d5e/a22460.html#ae7dd540746946513cd7bf8e29296c068", null ],
+    [ "SendRemoveWorldStates", "d5/d5e/a22460.html#ae9a93ddac1ca439f0f269d7ac7597593", null ],
+    [ "SetupOutdoorPvP", "d5/d5e/a22460.html#a09369a62ec5584dd6ce5eddf7b2bb80f", null ],
+    [ "Update", "d5/d5e/a22460.html#a4074a96974fe1b5e6d9149c8eee36e71", null ],
+    [ "m_obj", "d5/d5e/a22460.html#a7538d64bb494644eae3cc7db03dd631f", null ]
 ];

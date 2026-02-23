@@ -1,6 +1,7 @@
 var a16028 =
 [
-    [ "HandleSummon", "d2/d8b/a16028.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
-    [ "PrepareSpellScript", "d2/d8b/a16028.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
-    [ "Register", "d2/d8b/a16028.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
+    [ "npc_kaya_flathoofAI", "d7/dd0/a16032.html", "d7/dd0/a16032" ],
+    [ "npc_kaya_flathoof", "d2/d8b/a16028.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
+    [ "GetAI", "d2/d8b/a16028.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
+    [ "OnQuestAccept", "d2/d8b/a16028.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
 ];

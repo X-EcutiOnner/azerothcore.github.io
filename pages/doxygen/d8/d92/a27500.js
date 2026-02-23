@@ -1,6 +1,7 @@
 var a27500 =
 [
-    [ "go_l70_etc_musicAI", "d8/d92/a27500.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
-    [ "UpdateAI", "d8/d92/a27500.html#a182a5a9bbe53ced25740de9a4a368469", null ],
-    [ "_events", "d8/d92/a27500.html#aa0cda672b4491b3cfc75214038aa2132", null ]
+    [ "CheckProc", "d8/d92/a27500.html#a982264a8ea20344b66269a3edd814db7", null ],
+    [ "HandleProc", "d8/d92/a27500.html#adf79a132d1ae20e27b07dc77e103fb3c", null ],
+    [ "PrepareAuraScript", "d8/d92/a27500.html#abd0ac0c324e3323140812c7d4c937e1e", null ],
+    [ "Register", "d8/d92/a27500.html#ac24fe502aa899f953b694fe3ebf46012", null ]
 ];

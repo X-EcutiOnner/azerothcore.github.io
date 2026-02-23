@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: WGWorkshop Struct Reference</title>
+<title>AzerothCore: AuctionHouseUsablePlayerInfo Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,322 +108,243 @@ $(document).ready(function(){initNavTree('d1/d49/a07296.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../df/ded/a07293.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">WGWorkshop Struct Reference</div></div>
+  <div class="headertitle"><div class="title">AuctionHouseUsablePlayerInfo Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">BattlefieldWG.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">AuctionHouseSearcher.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a2d2d7b24ec77275f24efa54d31e98bbb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d49/a07296.html#a2d2d7b24ec77275f24efa54d31e98bbb">WGWorkshop</a> (<a class="el" href="../../d3/d13/a07264.html">BattlefieldWG</a> *_bf, <a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _workshopId)</td></tr>
-<tr class="separator:a2d2d7b24ec77275f24efa54d31e98bbb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6b69312f4ffa562b0e8fdcf5da3568d3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d49/a07296.html#a6b69312f4ffa562b0e8fdcf5da3568d3">GiveControlTo</a> (<a class="el" href="../../d0/dd3/a04121.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> team, bool init)</td></tr>
-<tr class="separator:a6b69312f4ffa562b0e8fdcf5da3568d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2ff11801fb50cd3a463c44fafbddaed4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d49/a07296.html#a2ff11801fb50cd3a463c44fafbddaed4">UpdateGraveyardAndWorkshop</a> ()</td></tr>
-<tr class="separator:a2ff11801fb50cd3a463c44fafbddaed4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adede1c780178f20dc8339320a021e4b6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d49/a07296.html#adede1c780178f20dc8339320a021e4b6">Save</a> ()</td></tr>
-<tr class="separator:adede1c780178f20dc8339320a021e4b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aee11f4f45f83664483344e3bbfba7463"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d49/a07296.html#aee11f4f45f83664483344e3bbfba7463">PlayerCanUseItem</a> (<a class="el" href="../../de/d41/a08564.html">ItemTemplate</a> const *proto) const</td></tr>
+<tr class="separator:aee11f4f45f83664483344e3bbfba7463"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f5894a5729d4c8d26376bbe1a2ac29e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d49/a07296.html#a8f5894a5729d4c8d26376bbe1a2ac29e">GetSkillValue</a> (<a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> skill) const</td></tr>
+<tr class="separator:a8f5894a5729d4c8d26376bbe1a2ac29e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3400ad05d8423ae6878fab815521ec6f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d49/a07296.html#a3400ad05d8423ae6878fab815521ec6f">HasSpell</a> (<a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spell) const</td></tr>
+<tr class="separator:a3400ad05d8423ae6878fab815521ec6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ae2b7e050289ad5922ddcd73c6da9f5a5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d13/a07264.html">BattlefieldWG</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d49/a07296.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a></td></tr>
-<tr class="separator:ae2b7e050289ad5922ddcd73c6da9f5a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a42d7337c67e4f19886b0ec86f0e60596"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d49/a07296.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a></td></tr>
-<tr class="separator:a42d7337c67e4f19886b0ec86f0e60596"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a196c8d0094a34c18835840e046fd39ef"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dd3/a04121.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d49/a07296.html#a196c8d0094a34c18835840e046fd39ef">teamControl</a></td></tr>
-<tr class="separator:a196c8d0094a34c18835840e046fd39ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a279d47c85843e884edef1f82b9654cd8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d49/a07296.html#a279d47c85843e884edef1f82b9654cd8">state</a></td></tr>
-<tr class="separator:a279d47c85843e884edef1f82b9654cd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a41a57c372871c84a572d2f3697cb18aa"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d49/a07296.html#a41a57c372871c84a572d2f3697cb18aa">classMask</a></td></tr>
+<tr class="separator:a41a57c372871c84a572d2f3697cb18aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96e56943da42f1a1258fc1d716259e1a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d49/a07296.html#a96e56943da42f1a1258fc1d716259e1a">raceMask</a></td></tr>
+<tr class="separator:a96e56943da42f1a1258fc1d716259e1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a870f632b54e4638b1f5a4e93b6bd9e52"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d49/a07296.html#a870f632b54e4638b1f5a4e93b6bd9e52">level</a></td></tr>
+<tr class="separator:a870f632b54e4638b1f5a4e93b6bd9e52"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a55c2ad9d1cdea4913cb35deb4adc87fd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d71/a01055.html#a1b900c09f81e1b28037da303e33bd597">AuctionPlayerSkills</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d49/a07296.html#a55c2ad9d1cdea4913cb35deb4adc87fd">skills</a></td></tr>
+<tr class="separator:a55c2ad9d1cdea4913cb35deb4adc87fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac83cc019ceb1752ce8d6b5a3aa3d350f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d71/a01055.html#add0df1394d287b79672ebf01c59138c1">AuctionPlayerSpells</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d49/a07296.html#ac83cc019ceb1752ce8d6b5a3aa3d350f">spells</a></td></tr>
+<tr class="separator:ac83cc019ceb1752ce8d6b5a3aa3d350f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a2d2d7b24ec77275f24efa54d31e98bbb" name="a2d2d7b24ec77275f24efa54d31e98bbb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2d2d7b24ec77275f24efa54d31e98bbb">&#9670;&#160;</a></span>WGWorkshop()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a8f5894a5729d4c8d26376bbe1a2ac29e" name="a8f5894a5729d4c8d26376bbe1a2ac29e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8f5894a5729d4c8d26376bbe1a2ac29e">&#9670;&#160;</a></span>GetSkillValue()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">WGWorkshop::WGWorkshop </td>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> AuctionHouseUsablePlayerInfo::GetSkillValue </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d13/a07264.html">BattlefieldWG</a> *&#160;</td>
-          <td class="paramname"><em>_bf</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>_workshopId</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>skill</em></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1424</span>    {</div>
-<div class="line"><span class="lineno"> 1425</span>        <a class="code hl_define" href="../../dd/d7a/a04568.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(_bf || _workshopId &lt; <a class="code hl_variable" href="../../da/d24/a00068.html#ad60d096a6b2eeda76a6150d8258cd811">WG_MAX_WORKSHOP</a>);</div>
-<div class="line"><span class="lineno"> 1426</span> </div>
-<div class="line"><span class="lineno"> 1427</span>        <a class="code hl_variable" href="../../d1/d49/a07296.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a> = _bf;</div>
-<div class="line"><span class="lineno"> 1428</span>        <a class="code hl_variable" href="../../d1/d49/a07296.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a> = _workshopId;</div>
-<div class="line"><span class="lineno"> 1429</span>        <a class="code hl_variable" href="../../d1/d49/a07296.html#a196c8d0094a34c18835840e046fd39ef">teamControl</a> = <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a>;</div>
-<div class="line"><span class="lineno"> 1430</span>        <a class="code hl_variable" href="../../d1/d49/a07296.html#a279d47c85843e884edef1f82b9654cd8">state</a> = <a class="code hl_enumvalue" href="../../da/d24/a00068.html#af094ad05f7b14210534e8def57b86fe8a1f2bef644b1416fccc23fb1759c20664">BATTLEFIELD_WG_OBJECTSTATE_NONE</a>;</div>
-<div class="line"><span class="lineno"> 1431</span>    }</div>
-<div class="ttc" id="aa00068_html_ad60d096a6b2eeda76a6150d8258cd811"><div class="ttname"><a href="../../da/d24/a00068.html#ad60d096a6b2eeda76a6150d8258cd811">WG_MAX_WORKSHOP</a></div><div class="ttdeci">uint8 const WG_MAX_WORKSHOP</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:1029</div></div>
-<div class="ttc" id="aa00068_html_af094ad05f7b14210534e8def57b86fe8a1f2bef644b1416fccc23fb1759c20664"><div class="ttname"><a href="../../da/d24/a00068.html#af094ad05f7b14210534e8def57b86fe8a1f2bef644b1416fccc23fb1759c20664">BATTLEFIELD_WG_OBJECTSTATE_NONE</a></div><div class="ttdeci">@ BATTLEFIELD_WG_OBJECTSTATE_NONE</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:477</div></div>
-<div class="ttc" id="aa04121_html_abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5"><div class="ttname"><a href="../../d0/dd3/a04121.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a></div><div class="ttdeci">@ TEAM_NEUTRAL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:773</div></div>
-<div class="ttc" id="aa04568_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../dd/d7a/a04568.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
-<div class="ttc" id="aa07296_html_a196c8d0094a34c18835840e046fd39ef"><div class="ttname"><a href="../../d1/d49/a07296.html#a196c8d0094a34c18835840e046fd39ef">WGWorkshop::teamControl</a></div><div class="ttdeci">TeamId teamControl</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:1419</div></div>
-<div class="ttc" id="aa07296_html_a279d47c85843e884edef1f82b9654cd8"><div class="ttname"><a href="../../d1/d49/a07296.html#a279d47c85843e884edef1f82b9654cd8">WGWorkshop::state</a></div><div class="ttdeci">uint32 state</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:1421</div></div>
-<div class="ttc" id="aa07296_html_a42d7337c67e4f19886b0ec86f0e60596"><div class="ttname"><a href="../../d1/d49/a07296.html#a42d7337c67e4f19886b0ec86f0e60596">WGWorkshop::workshopId</a></div><div class="ttdeci">uint8 workshopId</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:1417</div></div>
-<div class="ttc" id="aa07296_html_ae2b7e050289ad5922ddcd73c6da9f5a5"><div class="ttname"><a href="../../d1/d49/a07296.html#ae2b7e050289ad5922ddcd73c6da9f5a5">WGWorkshop::bf</a></div><div class="ttdeci">BattlefieldWG * bf</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:1415</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  707</span>{</div>
+<div class="line"><span class="lineno">  708</span>    <span class="keywordflow">if</span> (!skill)</div>
+<div class="line"><span class="lineno">  709</span>        <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  710</span> </div>
+<div class="line"><span class="lineno">  711</span>    AuctionPlayerSkills::const_iterator itr = <a class="code hl_variable" href="../../d1/d49/a07296.html#a55c2ad9d1cdea4913cb35deb4adc87fd">skills</a>.find(skill);</div>
+<div class="line"><span class="lineno">  712</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../d1/d49/a07296.html#a55c2ad9d1cdea4913cb35deb4adc87fd">skills</a>.end())</div>
+<div class="line"><span class="lineno">  713</span>        <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  714</span> </div>
+<div class="line"><span class="lineno">  715</span>    <span class="keywordflow">return</span> itr-&gt;second;</div>
+<div class="line"><span class="lineno">  716</span>}</div>
+<div class="ttc" id="aa07296_html_a55c2ad9d1cdea4913cb35deb4adc87fd"><div class="ttname"><a href="../../d1/d49/a07296.html#a55c2ad9d1cdea4913cb35deb4adc87fd">AuctionHouseUsablePlayerInfo::skills</a></div><div class="ttdeci">AuctionPlayerSkills skills</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:122</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00477">BATTLEFIELD_WG_OBJECTSTATE_NONE</a>, <a class="el" href="../../#l01415">bf</a>, <a class="el" href="../../#l01421">state</a>, <a class="el" href="../../#l00773">TEAM_NEUTRAL</a>, <a class="el" href="../../#l01419">teamControl</a>, <a class="el" href="../../#l01029">WG_MAX_WORKSHOP</a>, and <a class="el" href="../../#l01417">workshopId</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00122">skills</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00663">PlayerCanUseItem()</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a6b69312f4ffa562b0e8fdcf5da3568d3" name="a6b69312f4ffa562b0e8fdcf5da3568d3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6b69312f4ffa562b0e8fdcf5da3568d3">&#9670;&#160;</a></span>GiveControlTo()</h2>
+<a id="a3400ad05d8423ae6878fab815521ec6f" name="a3400ad05d8423ae6878fab815521ec6f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3400ad05d8423ae6878fab815521ec6f">&#9670;&#160;</a></span>HasSpell()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void WGWorkshop::GiveControlTo </td>
+          <td class="memname">bool AuctionHouseUsablePlayerInfo::HasSpell </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dd3/a04121.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td>
-          <td class="paramname"><em>team</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>init</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>spell</em></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1434</span>    {</div>
-<div class="line"><span class="lineno"> 1435</span>        <span class="keywordflow">switch</span> (team)</div>
-<div class="line"><span class="lineno"> 1436</span>        {</div>
-<div class="line"><span class="lineno"> 1437</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#abfb349736a7699bdfcdb134035ef7865a1d009932a5dde84d818f627cfcfe3fe5">TEAM_NEUTRAL</a>:</div>
-<div class="line"><span class="lineno"> 1438</span>                {</div>
-<div class="line"><span class="lineno"> 1439</span>                    <span class="comment">// Send warning message to all player to inform a faction attack to a workshop</span></div>
-<div class="line"><span class="lineno"> 1440</span>                    <span class="comment">// alliance / horde attacking a workshop</span></div>
-<div class="line"><span class="lineno"> 1441</span>                    <a class="code hl_variable" href="../../d1/d49/a07296.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../d5/d4a/a07244.html#a709eb579668329424b44794df75bf85b">SendWarning</a>(<a class="code hl_variable" href="../../d1/d49/a07296.html#a196c8d0094a34c18835840e046fd39ef">teamControl</a> ? <a class="code hl_variable" href="../../da/d24/a00068.html#a1c77d9e019ffe8d4bad9e01823bf27b8">WorkshopsData</a>[<a class="code hl_variable" href="../../d1/d49/a07296.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>].attackText : (<a class="code hl_variable" href="../../da/d24/a00068.html#a1c77d9e019ffe8d4bad9e01823bf27b8">WorkshopsData</a>[<a class="code hl_variable" href="../../d1/d49/a07296.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>].attackText + 2));</div>
-<div class="line"><span class="lineno"> 1442</span> </div>
-<div class="line"><span class="lineno"> 1443</span>                    <span class="comment">// Updating worldstate, update icon to neutral</span></div>
-<div class="line"><span class="lineno"> 1444</span>                    <a class="code hl_variable" href="../../d1/d49/a07296.html#a279d47c85843e884edef1f82b9654cd8">state</a> = <a class="code hl_enumvalue" href="../../da/d24/a00068.html#af094ad05f7b14210534e8def57b86fe8aa27f366d6a832de752fdfb9eb9392101">BATTLEFIELD_WG_OBJECTSTATE_NEUTRAL_INTACT</a>;</div>
-<div class="line"><span class="lineno"> 1445</span>                    <a class="code hl_variable" href="../../d1/d49/a07296.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../d5/d4a/a07244.html#af08665cd919b9d39798cd02c110b3241">SendUpdateWorldState</a>(<a class="code hl_variable" href="../../da/d24/a00068.html#a1c77d9e019ffe8d4bad9e01823bf27b8">WorkshopsData</a>[<a class="code hl_variable" href="../../d1/d49/a07296.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>].worldstate, <a class="code hl_variable" href="../../d1/d49/a07296.html#a279d47c85843e884edef1f82b9654cd8">state</a>);</div>
-<div class="line"><span class="lineno"> 1446</span> </div>
-<div class="line"><span class="lineno"> 1447</span>                    <span class="comment">// Found associate graveyard and update it</span></div>
-<div class="line"><span class="lineno"> 1448</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d1/d49/a07296.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a> &lt; <a class="code hl_enumvalue" href="../../da/d24/a00068.html#af6456fe46d30e11f415d2482c2861a59a3427f199cf38c866916ee6ca23296567">BATTLEFIELD_WG_WORKSHOP_KEEP_WEST</a>)</div>
-<div class="line"><span class="lineno"> 1449</span>                        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d1/d49/a07296.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../d5/d4a/a07244.html#a76f8ac667475e8813488808b9df25ed8">GetGraveyardById</a>(<a class="code hl_variable" href="../../d1/d49/a07296.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>))</div>
-<div class="line"><span class="lineno"> 1450</span>                            <a class="code hl_variable" href="../../d1/d49/a07296.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../d5/d4a/a07244.html#a76f8ac667475e8813488808b9df25ed8">GetGraveyardById</a>(<a class="code hl_variable" href="../../d1/d49/a07296.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>)-&gt;<a class="code hl_function" href="../../df/d3a/a07240.html#a9fe22d9ebbe1b652322b9a8e5f18ee91">GiveControlTo</a>(team);</div>
-<div class="line"><span class="lineno"> 1451</span> </div>
-<div class="line"><span class="lineno"> 1452</span>                    <a class="code hl_variable" href="../../d1/d49/a07296.html#a196c8d0094a34c18835840e046fd39ef">teamControl</a> = team;</div>
-<div class="line"><span class="lineno"> 1453</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1454</span>                }</div>
-<div class="line"><span class="lineno"> 1455</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a>:</div>
-<div class="line"><span class="lineno"> 1456</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a>:</div>
-<div class="line"><span class="lineno"> 1457</span>                {</div>
-<div class="line"><span class="lineno"> 1458</span>                    <span class="comment">// Updating worldstate</span></div>
-<div class="line"><span class="lineno"> 1459</span>                    <a class="code hl_variable" href="../../d1/d49/a07296.html#a279d47c85843e884edef1f82b9654cd8">state</a> = team == <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a> ? <a class="code hl_enumvalue" href="../../da/d24/a00068.html#af094ad05f7b14210534e8def57b86fe8aad32b4fd44d8b851ddf6b6c6e899254d">BATTLEFIELD_WG_OBJECTSTATE_ALLIANCE_INTACT</a> : <a class="code hl_enumvalue" href="../../da/d24/a00068.html#af094ad05f7b14210534e8def57b86fe8ad42a6ac2ffae24fb1b8cfcf1bebf3cf3">BATTLEFIELD_WG_OBJECTSTATE_HORDE_INTACT</a>;</div>
-<div class="line"><span class="lineno"> 1460</span>                    <a class="code hl_variable" href="../../d1/d49/a07296.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../d5/d4a/a07244.html#af08665cd919b9d39798cd02c110b3241">SendUpdateWorldState</a>(<a class="code hl_variable" href="../../da/d24/a00068.html#a1c77d9e019ffe8d4bad9e01823bf27b8">WorkshopsData</a>[<a class="code hl_variable" href="../../d1/d49/a07296.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>].worldstate, <a class="code hl_variable" href="../../d1/d49/a07296.html#a279d47c85843e884edef1f82b9654cd8">state</a>);</div>
-<div class="line"><span class="lineno"> 1461</span> </div>
-<div class="line"><span class="lineno"> 1462</span>                    <span class="comment">// Warning message</span></div>
-<div class="line"><span class="lineno"> 1463</span>                    <span class="keywordflow">if</span> (!init)                              <span class="comment">// workshop taken - alliance</span></div>
-<div class="line"><span class="lineno"> 1464</span>                        <a class="code hl_variable" href="../../d1/d49/a07296.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../d5/d4a/a07244.html#a709eb579668329424b44794df75bf85b">SendWarning</a>(team == <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a> ? <a class="code hl_variable" href="../../da/d24/a00068.html#a1c77d9e019ffe8d4bad9e01823bf27b8">WorkshopsData</a>[<a class="code hl_variable" href="../../d1/d49/a07296.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>].takenText : (<a class="code hl_variable" href="../../da/d24/a00068.html#a1c77d9e019ffe8d4bad9e01823bf27b8">WorkshopsData</a>[<a class="code hl_variable" href="../../d1/d49/a07296.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>].takenText + 2));</div>
-<div class="line"><span class="lineno"> 1465</span> </div>
-<div class="line"><span class="lineno"> 1466</span>                    <span class="comment">// Found associate graveyard and update it</span></div>
-<div class="line"><span class="lineno"> 1467</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d1/d49/a07296.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a> &lt; <a class="code hl_enumvalue" href="../../da/d24/a00068.html#af6456fe46d30e11f415d2482c2861a59a3427f199cf38c866916ee6ca23296567">BATTLEFIELD_WG_WORKSHOP_KEEP_WEST</a>)</div>
-<div class="line"><span class="lineno"> 1468</span>                        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d1/d49/a07296.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../d5/d4a/a07244.html#a76f8ac667475e8813488808b9df25ed8">GetGraveyardById</a>(<a class="code hl_variable" href="../../d1/d49/a07296.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>))</div>
-<div class="line"><span class="lineno"> 1469</span>                            <a class="code hl_variable" href="../../d1/d49/a07296.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../d5/d4a/a07244.html#a76f8ac667475e8813488808b9df25ed8">GetGraveyardById</a>(<a class="code hl_variable" href="../../d1/d49/a07296.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>)-&gt;<a class="code hl_function" href="../../df/d3a/a07240.html#a9fe22d9ebbe1b652322b9a8e5f18ee91">GiveControlTo</a>(team);</div>
-<div class="line"><span class="lineno"> 1470</span> </div>
-<div class="line"><span class="lineno"> 1471</span>                    <a class="code hl_variable" href="../../d1/d49/a07296.html#a196c8d0094a34c18835840e046fd39ef">teamControl</a> = team;</div>
-<div class="line"><span class="lineno"> 1472</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1473</span>                }</div>
-<div class="line"><span class="lineno"> 1474</span>        }</div>
-<div class="line"><span class="lineno"> 1475</span> </div>
-<div class="line"><span class="lineno"> 1476</span>        <span class="keywordflow">if</span> (!init)</div>
-<div class="line"><span class="lineno"> 1477</span>        {</div>
-<div class="line"><span class="lineno"> 1478</span>            <a class="code hl_variable" href="../../d1/d49/a07296.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../d3/d13/a07264.html#a241873a0d0875b5cc040ff775f182171">UpdateCounterVehicle</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno"> 1479</span>            <a class="code hl_variable" href="../../d1/d49/a07296.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../d3/d13/a07264.html#a9a0271f0b293c0254ce7d62de4feffad">CapturePointTaken</a>(<a class="code hl_variable" href="../../d1/d49/a07296.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../d3/d13/a07264.html#a575c3c315ace0a0bb258b27b08931068">GetAreaByGraveyardId</a>(<a class="code hl_variable" href="../../d1/d49/a07296.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>));</div>
-<div class="line"><span class="lineno"> 1480</span>        }</div>
-<div class="line"><span class="lineno"> 1481</span>    }</div>
-<div class="ttc" id="aa00068_html_a1c77d9e019ffe8d4bad9e01823bf27b8"><div class="ttname"><a href="../../da/d24/a00068.html#a1c77d9e019ffe8d4bad9e01823bf27b8">WorkshopsData</a></div><div class="ttdeci">WGWorkshopData const WorkshopsData[WG_MAX_WORKSHOP]</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:1039</div></div>
-<div class="ttc" id="aa00068_html_af094ad05f7b14210534e8def57b86fe8aa27f366d6a832de752fdfb9eb9392101"><div class="ttname"><a href="../../da/d24/a00068.html#af094ad05f7b14210534e8def57b86fe8aa27f366d6a832de752fdfb9eb9392101">BATTLEFIELD_WG_OBJECTSTATE_NEUTRAL_INTACT</a></div><div class="ttdeci">@ BATTLEFIELD_WG_OBJECTSTATE_NEUTRAL_INTACT</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:478</div></div>
-<div class="ttc" id="aa00068_html_af094ad05f7b14210534e8def57b86fe8aad32b4fd44d8b851ddf6b6c6e899254d"><div class="ttname"><a href="../../da/d24/a00068.html#af094ad05f7b14210534e8def57b86fe8aad32b4fd44d8b851ddf6b6c6e899254d">BATTLEFIELD_WG_OBJECTSTATE_ALLIANCE_INTACT</a></div><div class="ttdeci">@ BATTLEFIELD_WG_OBJECTSTATE_ALLIANCE_INTACT</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:484</div></div>
-<div class="ttc" id="aa00068_html_af094ad05f7b14210534e8def57b86fe8ad42a6ac2ffae24fb1b8cfcf1bebf3cf3"><div class="ttname"><a href="../../da/d24/a00068.html#af094ad05f7b14210534e8def57b86fe8ad42a6ac2ffae24fb1b8cfcf1bebf3cf3">BATTLEFIELD_WG_OBJECTSTATE_HORDE_INTACT</a></div><div class="ttdeci">@ BATTLEFIELD_WG_OBJECTSTATE_HORDE_INTACT</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:481</div></div>
-<div class="ttc" id="aa00068_html_af6456fe46d30e11f415d2482c2861a59a3427f199cf38c866916ee6ca23296567"><div class="ttname"><a href="../../da/d24/a00068.html#af6456fe46d30e11f415d2482c2861a59a3427f199cf38c866916ee6ca23296567">BATTLEFIELD_WG_WORKSHOP_KEEP_WEST</a></div><div class="ttdeci">@ BATTLEFIELD_WG_WORKSHOP_KEEP_WEST</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:495</div></div>
-<div class="ttc" id="aa04121_html_abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e"><div class="ttname"><a href="../../d0/dd3/a04121.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a></div><div class="ttdeci">@ TEAM_ALLIANCE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:771</div></div>
-<div class="ttc" id="aa04121_html_abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a"><div class="ttname"><a href="../../d0/dd3/a04121.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a></div><div class="ttdeci">@ TEAM_HORDE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:772</div></div>
-<div class="ttc" id="aa07240_html_a9fe22d9ebbe1b652322b9a8e5f18ee91"><div class="ttname"><a href="../../df/d3a/a07240.html#a9fe22d9ebbe1b652322b9a8e5f18ee91">BfGraveyard::GiveControlTo</a></div><div class="ttdeci">void GiveControlTo(TeamId team)</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:753</div></div>
-<div class="ttc" id="aa07244_html_a709eb579668329424b44794df75bf85b"><div class="ttname"><a href="../../d5/d4a/a07244.html#a709eb579668329424b44794df75bf85b">Battlefield::SendWarning</a></div><div class="ttdeci">void SendWarning(uint8 id, WorldObject const *target=nullptr)</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:480</div></div>
-<div class="ttc" id="aa07244_html_a76f8ac667475e8813488808b9df25ed8"><div class="ttname"><a href="../../d5/d4a/a07244.html#a76f8ac667475e8813488808b9df25ed8">Battlefield::GetGraveyardById</a></div><div class="ttdeci">BfGraveyard * GetGraveyardById(uint32 id) const</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:588</div></div>
-<div class="ttc" id="aa07244_html_af08665cd919b9d39798cd02c110b3241"><div class="ttname"><a href="../../d5/d4a/a07244.html#af08665cd919b9d39798cd02c110b3241">Battlefield::SendUpdateWorldState</a></div><div class="ttdeci">void SendUpdateWorldState(uint32 field, uint32 value)</div><div class="ttdoc">Update data of a worldstate to all players present in zone.</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:486</div></div>
-<div class="ttc" id="aa07264_html_a241873a0d0875b5cc040ff775f182171"><div class="ttname"><a href="../../d3/d13/a07264.html#a241873a0d0875b5cc040ff775f182171">BattlefieldWG::UpdateCounterVehicle</a></div><div class="ttdeci">void UpdateCounterVehicle(bool init)</div><div class="ttdoc">Vehicle world states update.</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.cpp:301</div></div>
-<div class="ttc" id="aa07264_html_a575c3c315ace0a0bb258b27b08931068"><div class="ttname"><a href="../../d3/d13/a07264.html#a575c3c315ace0a0bb258b27b08931068">BattlefieldWG::GetAreaByGraveyardId</a></div><div class="ttdeci">uint32 GetAreaByGraveyardId(uint8 gId) const</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.cpp:543</div></div>
-<div class="ttc" id="aa07264_html_a9a0271f0b293c0254ce7d62de4feffad"><div class="ttname"><a href="../../d3/d13/a07264.html#a9a0271f0b293c0254ce7d62de4feffad">BattlefieldWG::CapturePointTaken</a></div><div class="ttdeci">void CapturePointTaken(uint32 areaId)</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.cpp:339</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  719</span>{</div>
+<div class="line"><span class="lineno">  720</span>    AuctionPlayerSpells::const_iterator itr = <a class="code hl_enumeration" href="../../d0/d08/a02936.html#abdbd89eacbc02a7997082886574e8ec2">spells</a>.find(spell);</div>
+<div class="line"><span class="lineno">  721</span>    <span class="keywordflow">return</span> (itr != <a class="code hl_enumeration" href="../../d0/d08/a02936.html#abdbd89eacbc02a7997082886574e8ec2">spells</a>.end());</div>
+<div class="line"><span class="lineno">  722</span>}</div>
+<div class="ttc" id="aa02936_html_abdbd89eacbc02a7997082886574e8ec2"><div class="ttname"><a href="../../d0/d08/a02936.html#abdbd89eacbc02a7997082886574e8ec2">spells</a></div><div class="ttdeci">spells</div><div class="ttdef"><b>Definition:</b> boss_krystallus.cpp:26</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00484">BATTLEFIELD_WG_OBJECTSTATE_ALLIANCE_INTACT</a>, <a class="el" href="../../#l00481">BATTLEFIELD_WG_OBJECTSTATE_HORDE_INTACT</a>, <a class="el" href="../../#l00478">BATTLEFIELD_WG_OBJECTSTATE_NEUTRAL_INTACT</a>, <a class="el" href="../../#l00495">BATTLEFIELD_WG_WORKSHOP_KEEP_WEST</a>, <a class="el" href="../../#l01415">bf</a>, <a class="el" href="../../#l00339">BattlefieldWG::CapturePointTaken()</a>, <a class="el" href="../../#l00543">BattlefieldWG::GetAreaByGraveyardId()</a>, <a class="el" href="../../#l00588">Battlefield::GetGraveyardById()</a>, <a class="el" href="../../#l00753">BfGraveyard::GiveControlTo()</a>, <a class="el" href="../../#l00486">Battlefield::SendUpdateWorldState()</a>, <a class="el" href="../../#l00480">Battlefield::SendWarning()</a>, <a class="el" href="../../#l01421">state</a>, <a class="el" href="../../#l00771">TEAM_ALLIANCE</a>, <a class="el" href="../../#l00772">TEAM_HORDE</a>, <a class="el" href="../../#l00773">TEAM_NEUTRAL</a>, <a class="el" href="../../#l01419">teamControl</a>, <a class="el" href="../../#l00301">BattlefieldWG::UpdateCounterVehicle()</a>, <a class="el" href="../../#l01417">workshopId</a>, and <a class="el" href="../../#l01039">WorkshopsData</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01244">WintergraspCapturePoint::ChangeTeam()</a>, <a class="el" href="../../#l00046">BattlefieldWG::SetupBattlefield()</a>, and <a class="el" href="../../#l01483">UpdateGraveyardAndWorkshop()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00663">PlayerCanUseItem()</a>.</p>
 
 </div>
 </div>
-<a id="adede1c780178f20dc8339320a021e4b6" name="adede1c780178f20dc8339320a021e4b6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adede1c780178f20dc8339320a021e4b6">&#9670;&#160;</a></span>Save()</h2>
+<a id="aee11f4f45f83664483344e3bbfba7463" name="aee11f4f45f83664483344e3bbfba7463"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aee11f4f45f83664483344e3bbfba7463">&#9670;&#160;</a></span>PlayerCanUseItem()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void WGWorkshop::Save </td>
+          <td class="memname">bool AuctionHouseUsablePlayerInfo::PlayerCanUseItem </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/d41/a08564.html">ItemTemplate</a> const *&#160;</td>
+          <td class="paramname"><em>proto</em></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1492</span>    {</div>
-<div class="line"><span class="lineno"> 1493</span>        <a class="code hl_define" href="../../d6/d27/a01163.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a>-&gt;setWorldState(<a class="code hl_variable" href="../../da/d24/a00068.html#a1c77d9e019ffe8d4bad9e01823bf27b8">WorkshopsData</a>[<a class="code hl_variable" href="../../d1/d49/a07296.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>].worldstate, <a class="code hl_variable" href="../../d1/d49/a07296.html#a279d47c85843e884edef1f82b9654cd8">state</a>);</div>
-<div class="line"><span class="lineno"> 1494</span>    }</div>
-<div class="ttc" id="aa01163_html_a3a4f495a024c9f1774c913dd8ac4929f"><div class="ttname"><a href="../../d6/d27/a01163.html#a3a4f495a024c9f1774c913dd8ac4929f">sWorldState</a></div><div class="ttdeci">#define sWorldState</div><div class="ttdef"><b>Definition:</b> WorldState.h:377</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  664</span>{</div>
+<div class="line"><span class="lineno">  665</span>    <a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> itemSkill = proto-&gt;GetSkill();</div>
+<div class="line"><span class="lineno">  666</span>    <span class="keywordflow">if</span> (itemSkill != 0)</div>
+<div class="line"><span class="lineno">  667</span>    {</div>
+<div class="line"><span class="lineno">  668</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d1/d49/a07296.html#a8f5894a5729d4c8d26376bbe1a2ac29e">GetSkillValue</a>(itemSkill) == 0)</div>
+<div class="line"><span class="lineno">  669</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  670</span>    }</div>
+<div class="line"><span class="lineno">  671</span> </div>
+<div class="line"><span class="lineno">  672</span>    <span class="keywordflow">if</span> ((proto-&gt;AllowableClass &amp; <a class="code hl_variable" href="../../d1/d49/a07296.html#a41a57c372871c84a572d2f3697cb18aa">classMask</a>) == 0 || (proto-&gt;AllowableRace &amp; <a class="code hl_variable" href="../../d1/d49/a07296.html#a96e56943da42f1a1258fc1d716259e1a">raceMask</a>) == 0)</div>
+<div class="line"><span class="lineno">  673</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  674</span> </div>
+<div class="line"><span class="lineno">  675</span>    <span class="keywordflow">if</span> (proto-&gt;RequiredSkill != 0)</div>
+<div class="line"><span class="lineno">  676</span>    {</div>
+<div class="line"><span class="lineno">  677</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d1/d49/a07296.html#a8f5894a5729d4c8d26376bbe1a2ac29e">GetSkillValue</a>(proto-&gt;RequiredSkill) == 0)</div>
+<div class="line"><span class="lineno">  678</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  679</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d1/d49/a07296.html#a8f5894a5729d4c8d26376bbe1a2ac29e">GetSkillValue</a>(proto-&gt;RequiredSkill) &lt; proto-&gt;RequiredSkillRank)</div>
+<div class="line"><span class="lineno">  680</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  681</span>    }</div>
+<div class="line"><span class="lineno">  682</span> </div>
+<div class="line"><span class="lineno">  683</span>    <span class="keywordflow">if</span> (proto-&gt;RequiredSpell != 0 &amp;&amp; !<a class="code hl_function" href="../../d1/d49/a07296.html#a3400ad05d8423ae6878fab815521ec6f">HasSpell</a>(proto-&gt;RequiredSpell))</div>
+<div class="line"><span class="lineno">  684</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  685</span> </div>
+<div class="line"><span class="lineno">  686</span>    <span class="keywordflow">if</span> (level &lt; proto-&gt;RequiredLevel)</div>
+<div class="line"><span class="lineno">  687</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  688</span> </div>
+<div class="line"><span class="lineno">  689</span>    <span class="keywordflow">if</span> (proto-&gt;Spells[0].SpellId)</div>
+<div class="line"><span class="lineno">  690</span>    {</div>
+<div class="line"><span class="lineno">  691</span>        <span class="comment">// this check is for vanilla recipies. Spells are learned through individual learning spells instead of spell 483 and 55884</span></div>
+<div class="line"><span class="lineno">  692</span>        <a class="code hl_struct" href="../../d7/d90/a29252.html">SpellEntry</a> <span class="keyword">const</span>* spellEntry = <a class="code hl_variable" href="../../d6/d82/a01607.html#ab07c8126df92da43a32dfe00d7986cf6">sSpellStore</a>.LookupEntry(proto-&gt;Spells[0].SpellId);</div>
+<div class="line"><span class="lineno">  693</span>        <span class="keywordflow">if</span> (spellEntry &amp;&amp; spellEntry-&gt;<a class="code hl_variable" href="../../d7/d90/a29252.html#a9b37b50c55d7a887d61805e6197bfa21">Effect</a>[0] == <a class="code hl_enumvalue" href="../../dd/d90/a04127.html#a292c893150c454dd75628b719db1fe97acef490c9f3480852d33dbbec7727fa7f">SPELL_EFFECT_LEARN_SPELL</a> &amp;&amp; spellEntry-&gt;<a class="code hl_variable" href="../../d7/d90/a29252.html#a2a76a4db284742bee6b7293fb291c18d">EffectTriggerSpell</a>[0])</div>
+<div class="line"><span class="lineno">  694</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d1/d49/a07296.html#a3400ad05d8423ae6878fab815521ec6f">HasSpell</a>(spellEntry-&gt;<a class="code hl_variable" href="../../d7/d90/a29252.html#a2a76a4db284742bee6b7293fb291c18d">EffectTriggerSpell</a>[0]))</div>
+<div class="line"><span class="lineno">  695</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  696</span> </div>
+<div class="line"><span class="lineno">  697</span>        <span class="comment">// this check is for tbc/wotlk recipies. Spells are learned through 483 and 55884, the second spell in the item will be the actual spell learned.</span></div>
+<div class="line"><span class="lineno">  698</span>        <span class="keywordflow">if</span> (proto-&gt;Spells[0].SpellId == 483 || proto-&gt;Spells[0].SpellId == 55884)</div>
+<div class="line"><span class="lineno">  699</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d1/d49/a07296.html#a3400ad05d8423ae6878fab815521ec6f">HasSpell</a>(proto-&gt;Spells[1].SpellId))</div>
+<div class="line"><span class="lineno">  700</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  701</span>    }</div>
+<div class="line"><span class="lineno">  702</span> </div>
+<div class="line"><span class="lineno">  703</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  704</span>}</div>
+<div class="ttc" id="aa01607_html_ab07c8126df92da43a32dfe00d7986cf6"><div class="ttname"><a href="../../d6/d82/a01607.html#ab07c8126df92da43a32dfe00d7986cf6">sSpellStore</a></div><div class="ttdeci">DBCStorage&lt; SpellEntry &gt; sSpellStore(SpellEntryfmt)</div></div>
+<div class="ttc" id="aa04127_html_a292c893150c454dd75628b719db1fe97acef490c9f3480852d33dbbec7727fa7f"><div class="ttname"><a href="../../dd/d90/a04127.html#a292c893150c454dd75628b719db1fe97acef490c9f3480852d33dbbec7727fa7f">SPELL_EFFECT_LEARN_SPELL</a></div><div class="ttdeci">@ SPELL_EFFECT_LEARN_SPELL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:825</div></div>
+<div class="ttc" id="aa04337_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa07296_html_a3400ad05d8423ae6878fab815521ec6f"><div class="ttname"><a href="../../d1/d49/a07296.html#a3400ad05d8423ae6878fab815521ec6f">AuctionHouseUsablePlayerInfo::HasSpell</a></div><div class="ttdeci">bool HasSpell(uint32 spell) const</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.cpp:718</div></div>
+<div class="ttc" id="aa07296_html_a41a57c372871c84a572d2f3697cb18aa"><div class="ttname"><a href="../../d1/d49/a07296.html#a41a57c372871c84a572d2f3697cb18aa">AuctionHouseUsablePlayerInfo::classMask</a></div><div class="ttdeci">uint32 classMask</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:119</div></div>
+<div class="ttc" id="aa07296_html_a8f5894a5729d4c8d26376bbe1a2ac29e"><div class="ttname"><a href="../../d1/d49/a07296.html#a8f5894a5729d4c8d26376bbe1a2ac29e">AuctionHouseUsablePlayerInfo::GetSkillValue</a></div><div class="ttdeci">uint16 GetSkillValue(uint32 skill) const</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.cpp:706</div></div>
+<div class="ttc" id="aa07296_html_a96e56943da42f1a1258fc1d716259e1a"><div class="ttname"><a href="../../d1/d49/a07296.html#a96e56943da42f1a1258fc1d716259e1a">AuctionHouseUsablePlayerInfo::raceMask</a></div><div class="ttdeci">uint32 raceMask</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:120</div></div>
+<div class="ttc" id="aa29252_html"><div class="ttname"><a href="../../d7/d90/a29252.html">SpellEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1642</div></div>
+<div class="ttc" id="aa29252_html_a2a76a4db284742bee6b7293fb291c18d"><div class="ttname"><a href="../../d7/d90/a29252.html#a2a76a4db284742bee6b7293fb291c18d">SpellEntry::EffectTriggerSpell</a></div><div class="ttdeci">std::array&lt; uint32, MAX_SPELL_EFFECTS &gt; EffectTriggerSpell</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1712</div></div>
+<div class="ttc" id="aa29252_html_a9b37b50c55d7a887d61805e6197bfa21"><div class="ttname"><a href="../../d7/d90/a29252.html#a9b37b50c55d7a887d61805e6197bfa21">SpellEntry::Effect</a></div><div class="ttdeci">std::array&lt; uint32, MAX_SPELL_EFFECTS &gt; Effect</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1697</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01421">state</a>, <a class="el" href="../../#l00377">sWorldState</a>, <a class="el" href="../../#l01417">workshopId</a>, and <a class="el" href="../../#l01039">WorkshopsData</a>.</p>
-
-</div>
-</div>
-<a id="a2ff11801fb50cd3a463c44fafbddaed4" name="a2ff11801fb50cd3a463c44fafbddaed4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2ff11801fb50cd3a463c44fafbddaed4">&#9670;&#160;</a></span>UpdateGraveyardAndWorkshop()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void WGWorkshop::UpdateGraveyardAndWorkshop </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1484</span>    {</div>
-<div class="line"><span class="lineno"> 1485</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d1/d49/a07296.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a> &lt; <a class="code hl_enumvalue" href="../../da/d24/a00068.html#af6456fe46d30e11f415d2482c2861a59a3427f199cf38c866916ee6ca23296567">BATTLEFIELD_WG_WORKSHOP_KEEP_WEST</a>)</div>
-<div class="line"><span class="lineno"> 1486</span>            <a class="code hl_variable" href="../../d1/d49/a07296.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../d5/d4a/a07244.html#a76f8ac667475e8813488808b9df25ed8">GetGraveyardById</a>(<a class="code hl_variable" href="../../d1/d49/a07296.html#a42d7337c67e4f19886b0ec86f0e60596">workshopId</a>)-&gt;<a class="code hl_function" href="../../df/d3a/a07240.html#a9fe22d9ebbe1b652322b9a8e5f18ee91">GiveControlTo</a>(<a class="code hl_enumeration" href="../../d0/dd3/a04121.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>(<a class="code hl_variable" href="../../d1/d49/a07296.html#a196c8d0094a34c18835840e046fd39ef">teamControl</a>));</div>
-<div class="line"><span class="lineno"> 1487</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 1488</span>            <a class="code hl_function" href="../../d1/d49/a07296.html#a6b69312f4ffa562b0e8fdcf5da3568d3">GiveControlTo</a>(<a class="code hl_variable" href="../../d1/d49/a07296.html#ae2b7e050289ad5922ddcd73c6da9f5a5">bf</a>-&gt;<a class="code hl_function" href="../../d5/d4a/a07244.html#a6199f0a6ab9a392b650d3d1f83396ec4">GetDefenderTeam</a>(), <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 1489</span>    }</div>
-<div class="ttc" id="aa04121_html_abfb349736a7699bdfcdb134035ef7865"><div class="ttname"><a href="../../d0/dd3/a04121.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a></div><div class="ttdeci">TeamId</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:770</div></div>
-<div class="ttc" id="aa07244_html_a6199f0a6ab9a392b650d3d1f83396ec4"><div class="ttname"><a href="../../d5/d4a/a07244.html#a6199f0a6ab9a392b650d3d1f83396ec4">Battlefield::GetDefenderTeam</a></div><div class="ttdeci">TeamId GetDefenderTeam()</div><div class="ttdef"><b>Definition:</b> Battlefield.h:276</div></div>
-<div class="ttc" id="aa07296_html_a6b69312f4ffa562b0e8fdcf5da3568d3"><div class="ttname"><a href="../../d1/d49/a07296.html#a6b69312f4ffa562b0e8fdcf5da3568d3">WGWorkshop::GiveControlTo</a></div><div class="ttdeci">void GiveControlTo(TeamId team, bool init)</div><div class="ttdef"><b>Definition:</b> BattlefieldWG.h:1433</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00495">BATTLEFIELD_WG_WORKSHOP_KEEP_WEST</a>, <a class="el" href="../../#l01415">bf</a>, <a class="el" href="../../#l00276">Battlefield::GetDefenderTeam()</a>, <a class="el" href="../../#l00588">Battlefield::GetGraveyardById()</a>, <a class="el" href="../../#l00753">BfGraveyard::GiveControlTo()</a>, <a class="el" href="../../#l01433">GiveControlTo()</a>, <a class="el" href="../../#l01419">teamControl</a>, and <a class="el" href="../../#l01417">workshopId</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00633">ItemTemplate::AllowableClass</a>, <a class="el" href="../../#l00634">ItemTemplate::AllowableRace</a>, <a class="el" href="../../#l00119">classMask</a>, <a class="el" href="../../#l01697">SpellEntry::Effect</a>, <a class="el" href="../../#l01712">SpellEntry::EffectTriggerSpell</a>, <a class="el" href="../../#l00782">ItemTemplate::GetSkill()</a>, <a class="el" href="../../#l00706">GetSkillValue()</a>, <a class="el" href="../../#l00718">HasSpell()</a>, <a class="el" href="../../#l00120">raceMask</a>, <a class="el" href="../../#l00637">ItemTemplate::RequiredSkill</a>, <a class="el" href="../../#l00638">ItemTemplate::RequiredSkillRank</a>, <a class="el" href="../../#l00639">ItemTemplate::RequiredSpell</a>, <a class="el" href="../../#l00825">SPELL_EFFECT_LEARN_SPELL</a>, <a class="el" href="../../#l00591">_Spell::SpellId</a>, <a class="el" href="../../#l00662">ItemTemplate::Spells</a>, and <a class="el" href="../../d6/d82/a01607.html#ab07c8126df92da43a32dfe00d7986cf6">sSpellStore</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="ae2b7e050289ad5922ddcd73c6da9f5a5" name="ae2b7e050289ad5922ddcd73c6da9f5a5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae2b7e050289ad5922ddcd73c6da9f5a5">&#9670;&#160;</a></span>bf</h2>
+<a id="a41a57c372871c84a572d2f3697cb18aa" name="a41a57c372871c84a572d2f3697cb18aa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a41a57c372871c84a572d2f3697cb18aa">&#9670;&#160;</a></span>classMask</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/d13/a07264.html">BattlefieldWG</a>* WGWorkshop::bf</td>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AuctionHouseUsablePlayerInfo::classMask</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01433">GiveControlTo()</a>, <a class="el" href="../../#l01483">UpdateGraveyardAndWorkshop()</a>, and <a class="el" href="../../#l01423">WGWorkshop()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00672">WorldSession::HandleAuctionListItems()</a>, and <a class="el" href="../../#l00663">PlayerCanUseItem()</a>.</p>
 
 </div>
 </div>
-<a id="a279d47c85843e884edef1f82b9654cd8" name="a279d47c85843e884edef1f82b9654cd8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a279d47c85843e884edef1f82b9654cd8">&#9670;&#160;</a></span>state</h2>
+<a id="a870f632b54e4638b1f5a4e93b6bd9e52" name="a870f632b54e4638b1f5a4e93b6bd9e52"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a870f632b54e4638b1f5a4e93b6bd9e52">&#9670;&#160;</a></span>level</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WGWorkshop::state</td>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> AuctionHouseUsablePlayerInfo::level</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01433">GiveControlTo()</a>, <a class="el" href="../../#l01491">Save()</a>, and <a class="el" href="../../#l01423">WGWorkshop()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00672">WorldSession::HandleAuctionListItems()</a>.</p>
 
 </div>
 </div>
-<a id="a196c8d0094a34c18835840e046fd39ef" name="a196c8d0094a34c18835840e046fd39ef"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a196c8d0094a34c18835840e046fd39ef">&#9670;&#160;</a></span>teamControl</h2>
+<a id="a96e56943da42f1a1258fc1d716259e1a" name="a96e56943da42f1a1258fc1d716259e1a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a96e56943da42f1a1258fc1d716259e1a">&#9670;&#160;</a></span>raceMask</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/dd3/a04121.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> WGWorkshop::teamControl</td>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AuctionHouseUsablePlayerInfo::raceMask</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01433">GiveControlTo()</a>, <a class="el" href="../../#l01483">UpdateGraveyardAndWorkshop()</a>, and <a class="el" href="../../#l01423">WGWorkshop()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00672">WorldSession::HandleAuctionListItems()</a>, and <a class="el" href="../../#l00663">PlayerCanUseItem()</a>.</p>
 
 </div>
 </div>
-<a id="a42d7337c67e4f19886b0ec86f0e60596" name="a42d7337c67e4f19886b0ec86f0e60596"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a42d7337c67e4f19886b0ec86f0e60596">&#9670;&#160;</a></span>workshopId</h2>
+<a id="a55c2ad9d1cdea4913cb35deb4adc87fd" name="a55c2ad9d1cdea4913cb35deb4adc87fd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a55c2ad9d1cdea4913cb35deb4adc87fd">&#9670;&#160;</a></span>skills</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> WGWorkshop::workshopId</td>
+          <td class="memname"><a class="el" href="../../d2/d71/a01055.html#a1b900c09f81e1b28037da303e33bd597">AuctionPlayerSkills</a> AuctionHouseUsablePlayerInfo::skills</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01433">GiveControlTo()</a>, <a class="el" href="../../#l01491">Save()</a>, <a class="el" href="../../#l01483">UpdateGraveyardAndWorkshop()</a>, and <a class="el" href="../../#l01423">WGWorkshop()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00706">GetSkillValue()</a>, and <a class="el" href="../../#l00672">WorldSession::HandleAuctionListItems()</a>.</p>
+
+</div>
+</div>
+<a id="ac83cc019ceb1752ce8d6b5a3aa3d350f" name="ac83cc019ceb1752ce8d6b5a3aa3d350f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac83cc019ceb1752ce8d6b5a3aa3d350f">&#9670;&#160;</a></span>spells</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/d71/a01055.html#add0df1394d287b79672ebf01c59138c1">AuctionPlayerSpells</a> AuctionHouseUsablePlayerInfo::spells</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00672">WorldSession::HandleAuctionListItems()</a>.</p>
 
 </div>
 </div>
@@ -432,8 +353,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d1/d49/a07296.html">WGWorkshop</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:12:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d1/d49/a07296.html">AuctionHouseUsablePlayerInfo</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:14:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

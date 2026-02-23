@@ -1,16 +1,14 @@
 var a21432 =
 [
-    [ "boss_emalonAI", "dd/de7/a21432.html#ac87b3ea34e9781f3843321ef874321fe", null ],
-    [ "AttackStart", "dd/de7/a21432.html#ab08f49aabe76b623496da2fc0198a6c1", null ],
-    [ "JustDied", "dd/de7/a21432.html#a79a05156b690140e955a6e850ac41e5b", null ],
-    [ "JustEngagedWith", "dd/de7/a21432.html#a9a3b4e6df73586125c0369aa2d3666df", null ],
-    [ "JustSummoned", "dd/de7/a21432.html#a895f302d336faa0c3f93854314d3b427", null ],
-    [ "Reset", "dd/de7/a21432.html#ae5d33f728077d5bbc3b7d74db8015f5d", null ],
-    [ "ResetSummons", "dd/de7/a21432.html#a7df4da85c40ba1c34063df9b2df5874b", null ],
-    [ "SpellHitTarget", "dd/de7/a21432.html#a2c60642848b73bc00d1a8244d4fb4733", null ],
-    [ "SummonedCreatureDies", "dd/de7/a21432.html#a25a18c4d110b407c5fcf09c14444e8b0", null ],
-    [ "UpdateAI", "dd/de7/a21432.html#a4701d5a77b6ae7ce3432c81b7b6d14cf", null ],
-    [ "events", "dd/de7/a21432.html#a78312371e28b4be3c072dc870370b577", null ],
-    [ "pInstance", "dd/de7/a21432.html#af4cc6489905f9702999cc23fd6a920c2", null ],
-    [ "summons", "dd/de7/a21432.html#a1b6ccd418114e57a0c843cc980a56243", null ]
+    [ "npc_azure_saboteurAI", "dd/de7/a21432.html#a09fc1e8f171209471c5403af33b05a58", null ],
+    [ "FinishPointReached", "dd/de7/a21432.html#a322380edef5dbefe5ac4ab0040183010", null ],
+    [ "MoveInLineOfSight", "dd/de7/a21432.html#a21868549892cdd0e67d6403dece9efce", null ],
+    [ "UpdateAI", "dd/de7/a21432.html#a9ccbb54a41aef3a252a46545649c2c91", null ],
+    [ "WaypointReached", "dd/de7/a21432.html#ac17dc46bfe75582a789a2056978218fb", null ],
+    [ "bAddedWPs", "dd/de7/a21432.html#a9cabb9053b3c6b51be184b2144e5ec54", null ],
+    [ "bOpening", "dd/de7/a21432.html#a924ceb13552f0f01d55375af0324bf5a", null ],
+    [ "count", "dd/de7/a21432.html#a38bf10a96c8eae45b4aa0bd095924f85", null ],
+    [ "pInstance", "dd/de7/a21432.html#a1375420fe4bf16f122aa93f5c847a464", null ],
+    [ "timer", "dd/de7/a21432.html#a30745320b9cc64fb690fa7bd6d7525f2", null ],
+    [ "uiBoss", "dd/de7/a21432.html#a36f60e44bd8f1de85429a75f3e928d77", null ]
 ];

@@ -1,5 +1,5 @@
 var a28200 =
 [
-    [ "Itemlvl", "d5/dad/a28200.html#a39d9dcee397a1f5984184c769f9b8b17", null ],
-    [ "multiplier", "d5/dad/a28200.html#a5c6c206a6185a546223de7501ff846f6", null ]
+    [ "go_scourge_cage", "d5/dad/a28200.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
+    [ "OnGossipHello", "d5/dad/a28200.html#ab4e97cd290342d623d212cc7cec227d5", null ]
 ];

@@ -1,9 +1,10 @@
 var a13804 =
 [
-    [ "npc_professor_phizzlethorpeAI", "da/d96/a13804.html#a92af4732575008c1a4f061cef0f23902", null ],
-    [ "JustEngagedWith", "da/d96/a13804.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
-    [ "JustSummoned", "da/d96/a13804.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
-    [ "sQuestAccept", "da/d96/a13804.html#ad4a4bd9af581abe832933da69b18d76f", null ],
-    [ "UpdateAI", "da/d96/a13804.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
-    [ "WaypointReached", "da/d96/a13804.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ]
+    [ "MoveDelayed", "da/d96/a13804.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
+    [ "Execute", "da/d96/a13804.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
+    [ "_o", "da/d96/a13804.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
+    [ "_owner", "da/d96/a13804.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
+    [ "_x", "da/d96/a13804.html#aa490d19022c27932e76af38281fe158b", null ],
+    [ "_y", "da/d96/a13804.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
+    [ "_z", "da/d96/a13804.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
 ];

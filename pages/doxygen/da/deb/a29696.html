@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/tools/dbimport/Main.cpp File Reference</title>
+<title>AzerothCore: SpellProcTestEntry Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,309 +105,539 @@ $(document).ready(function(){initNavTree('da/deb/a29696.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#define-members">Macros</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">Main.cpp File Reference</div></div>
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="../../dd/d45/a29693.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">SpellProcTestEntry Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Banner.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Config.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DatabaseLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">IoContext.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MySQLThreading.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">OpenSSLCrypto.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
-<code>#include &lt;boost/program_options.hpp&gt;</code><br />
-<code>#include &lt;boost/version.hpp&gt;</code><br />
-<code>#include &lt;csignal&gt;</code><br />
-<code>#include &lt;filesystem&gt;</code><br />
-<code>#include &lt;iostream&gt;</code><br />
-<code>#include &lt;openssl/crypto.h&gt;</code><br />
-<code>#include &lt;openssl/opensslv.h&gt;</code><br />
-</div>
-<p><a href="">Go to the source code of this file.</a></p>
+
+<p>Test data entry from spell_proc table with DBC comparison data.  
+ <a href="../../da/deb/a29696.html#details">More...</a></p>
+
+<p><code>#include &quot;<a class="el" href="../../">SpellProcTestData.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a97392c73658eeeb49d256527b19ad90f"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#a97392c73658eeeb49d256527b19ad90f">_ACORE_DB_IMPORT_CONFIG</a>&#160;&#160;&#160;&quot;dbimport.conf&quot;</td></tr>
-<tr class="separator:a97392c73658eeeb49d256527b19ad90f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a70ebb9c47633f6c55f863593d1f1b0d7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d12/a11608.html">SpellProcEntry</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#a70ebb9c47633f6c55f863593d1f1b0d7">ToSpellProcEntry</a> () const</td></tr>
+<tr class="memdesc:a70ebb9c47633f6c55f863593d1f1b0d7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Convert to <a class="el" href="../../d6/d12/a11608.html">SpellProcEntry</a> for testing.  <a href="../../da/deb/a29696.html#a70ebb9c47633f6c55f863593d1f1b0d7">More...</a><br /></td></tr>
+<tr class="separator:a70ebb9c47633f6c55f863593d1f1b0d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ada68807ba3950313c5a7652a7fe85c40"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#ada68807ba3950313c5a7652a7fe85c40">AddsValueBeyondDBC</a> () const</td></tr>
+<tr class="memdesc:ada68807ba3950313c5a7652a7fe85c40"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check if this entry adds value beyond DBC defaults.  <a href="../../da/deb/a29696.html#ada68807ba3950313c5a7652a7fe85c40">More...</a><br /></td></tr>
+<tr class="separator:ada68807ba3950313c5a7652a7fe85c40"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a70c20b8efd966a3051591e4292957f21"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#a70c20b8efd966a3051591e4292957f21">HasDBCData</a> () const</td></tr>
+<tr class="memdesc:a70c20b8efd966a3051591e4292957f21"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check if DBC values are available for this entry.  <a href="../../da/deb/a29696.html#a70c20b8efd966a3051591e4292957f21">More...</a><br /></td></tr>
+<tr class="separator:a70c20b8efd966a3051591e4292957f21"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a1551df43a48f1dbf64dbec1e47b07eea"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#a1551df43a48f1dbf64dbec1e47b07eea">StartDB</a> ()</td></tr>
-<tr class="memdesc:a1551df43a48f1dbf64dbec1e47b07eea"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initialize connection to the database.  <a href="../../da/deb/a29696.html#a1551df43a48f1dbf64dbec1e47b07eea">More...</a><br /></td></tr>
-<tr class="separator:a1551df43a48f1dbf64dbec1e47b07eea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a927af1587546ee7503a3b9a18f6439c0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#a927af1587546ee7503a3b9a18f6439c0">StopDB</a> ()</td></tr>
-<tr class="memdesc:a927af1587546ee7503a3b9a18f6439c0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Close the connection to the database.  <a href="../../da/deb/a29696.html#a927af1587546ee7503a3b9a18f6439c0">More...</a><br /></td></tr>
-<tr class="separator:a927af1587546ee7503a3b9a18f6439c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6f250d3a28ed2192d175846c6ce5795b"><td class="memItemLeft" align="right" valign="top">variables_map&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#a6f250d3a28ed2192d175846c6ce5795b">GetConsoleArguments</a> (int argc, char **argv, fs::path &amp;configFile)</td></tr>
-<tr class="separator:a6f250d3a28ed2192d175846c6ce5795b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3c04138a5bfe5d72780bb7e82a18e627"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#a3c04138a5bfe5d72780bb7e82a18e627">main</a> (int argc, char **argv)</td></tr>
-<tr class="memdesc:a3c04138a5bfe5d72780bb7e82a18e627"><td class="mdescLeft">&#160;</td><td class="mdescRight">Launch the db import server.  <a href="../../da/deb/a29696.html#a3c04138a5bfe5d72780bb7e82a18e627">More...</a><br /></td></tr>
-<tr class="separator:a3c04138a5bfe5d72780bb7e82a18e627"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:ad78ff047d8971788febae990abc86698"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#ad78ff047d8971788febae990abc86698">SpellId</a></td></tr>
+<tr class="separator:ad78ff047d8971788febae990abc86698"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab76502dd0f6d6e9fa8608800547b097c"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#ab76502dd0f6d6e9fa8608800547b097c">SchoolMask</a></td></tr>
+<tr class="separator:ab76502dd0f6d6e9fa8608800547b097c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a11a0c26f6d3e6f3b8e47e1c968841094"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#a11a0c26f6d3e6f3b8e47e1c968841094">SpellFamilyName</a></td></tr>
+<tr class="separator:a11a0c26f6d3e6f3b8e47e1c968841094"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8b316b64763de61fabe8eee119a3c33b"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#a8b316b64763de61fabe8eee119a3c33b">SpellFamilyMask0</a></td></tr>
+<tr class="separator:a8b316b64763de61fabe8eee119a3c33b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0f2454783d5fcd2b751b40b8e32d8476"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#a0f2454783d5fcd2b751b40b8e32d8476">SpellFamilyMask1</a></td></tr>
+<tr class="separator:a0f2454783d5fcd2b751b40b8e32d8476"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a74093101a8fe41b8bb641da9957d6ef2"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#a74093101a8fe41b8bb641da9957d6ef2">SpellFamilyMask2</a></td></tr>
+<tr class="separator:a74093101a8fe41b8bb641da9957d6ef2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac62ba46b22a759991731a15b17ccf3d9"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#ac62ba46b22a759991731a15b17ccf3d9">ProcFlags</a></td></tr>
+<tr class="separator:ac62ba46b22a759991731a15b17ccf3d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8ac8ca4ac8ed7eb60de720bb0bac36b1"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#a8ac8ca4ac8ed7eb60de720bb0bac36b1">SpellTypeMask</a></td></tr>
+<tr class="separator:a8ac8ca4ac8ed7eb60de720bb0bac36b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab2356da98d2b2c9d250d1c86056a427c"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#ab2356da98d2b2c9d250d1c86056a427c">SpellPhaseMask</a></td></tr>
+<tr class="separator:ab2356da98d2b2c9d250d1c86056a427c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aac7528939d9f28432649a5e947cb112b"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#aac7528939d9f28432649a5e947cb112b">HitMask</a></td></tr>
+<tr class="separator:aac7528939d9f28432649a5e947cb112b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a32a562ccd8812c33b385fb6a4812693f"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#a32a562ccd8812c33b385fb6a4812693f">AttributesMask</a></td></tr>
+<tr class="separator:a32a562ccd8812c33b385fb6a4812693f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8ae054e7700edebf204b6b9d5285b570"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#a8ae054e7700edebf204b6b9d5285b570">Cooldown</a></td></tr>
+<tr class="separator:a8ae054e7700edebf204b6b9d5285b570"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9e4e897bb784e63d991e76f8efd393ab"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#a9e4e897bb784e63d991e76f8efd393ab">Chance</a></td></tr>
+<tr class="separator:a9e4e897bb784e63d991e76f8efd393ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1005dd21ca315c4ee18cc1f0b1147590"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#a1005dd21ca315c4ee18cc1f0b1147590">ProcsPerMinute</a></td></tr>
+<tr class="separator:a1005dd21ca315c4ee18cc1f0b1147590"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1795067c9622f90fe10afaa9086729d2"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#a1795067c9622f90fe10afaa9086729d2">Charges</a></td></tr>
+<tr class="separator:a1795067c9622f90fe10afaa9086729d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a255f45e42d9ad7f4a1a71b12289f6280"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#a255f45e42d9ad7f4a1a71b12289f6280">DisableEffectsMask</a></td></tr>
+<tr class="separator:a255f45e42d9ad7f4a1a71b12289f6280"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aba345f90612d66a1ae8ff83b863c3752"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#aba345f90612d66a1ae8ff83b863c3752">DBC_ProcFlags</a></td></tr>
+<tr class="separator:aba345f90612d66a1ae8ff83b863c3752"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a687725337f68ab28c9f862997666b979"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#a687725337f68ab28c9f862997666b979">DBC_ProcChance</a></td></tr>
+<tr class="separator:a687725337f68ab28c9f862997666b979"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a674bdd693e94bea55c93985a04a3cde5"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html#a674bdd693e94bea55c93985a04a3cde5">DBC_ProcCharges</a></td></tr>
+<tr class="separator:a674bdd693e94bea55c93985a04a3cde5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a97392c73658eeeb49d256527b19ad90f" name="a97392c73658eeeb49d256527b19ad90f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a97392c73658eeeb49d256527b19ad90f">&#9670;&#160;</a></span>_ACORE_DB_IMPORT_CONFIG</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >Test data entry from spell_proc table with DBC comparison data. </p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="ada68807ba3950313c5a7652a7fe85c40" name="ada68807ba3950313c5a7652a7fe85c40"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ada68807ba3950313c5a7652a7fe85c40">&#9670;&#160;</a></span>AddsValueBeyondDBC()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">#define _ACORE_DB_IMPORT_CONFIG&#160;&#160;&#160;&quot;dbimport.conf&quot;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a6f250d3a28ed2192d175846c6ce5795b" name="a6f250d3a28ed2192d175846c6ce5795b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6f250d3a28ed2192d175846c6ce5795b">&#9670;&#160;</a></span>GetConsoleArguments()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">variables_map GetConsoleArguments </td>
+          <td class="memname">bool SpellProcTestEntry::AddsValueBeyondDBC </td>
           <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>argc</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">char **&#160;</td>
-          <td class="paramname"><em>argv</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">fs::path &amp;&#160;</td>
-          <td class="paramname"><em>configFile</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  137</span>{</div>
-<div class="line"><span class="lineno">  138</span>    options_description all(<span class="stringliteral">&quot;Allowed options&quot;</span>);</div>
-<div class="line"><span class="lineno">  139</span>    all.add_options()</div>
-<div class="line"><span class="lineno">  140</span>        (<span class="stringliteral">&quot;help,h&quot;</span>, <span class="stringliteral">&quot;print usage message&quot;</span>)</div>
-<div class="line"><span class="lineno">  141</span>        (<span class="stringliteral">&quot;version,v&quot;</span>, <span class="stringliteral">&quot;print version build info&quot;</span>)</div>
-<div class="line"><span class="lineno">  142</span>        (<span class="stringliteral">&quot;dry-run,d&quot;</span>, <span class="stringliteral">&quot;Dry run&quot;</span>)</div>
-<div class="line"><span class="lineno">  143</span>        (<span class="stringliteral">&quot;config,c&quot;</span>, value&lt;fs::path&gt;(&amp;configFile)-&gt;default_value(fs::path(<a class="code hl_define" href="../../da/de7/a04643.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetConfigPath() + std::string(<a class="code hl_define" href="../../da/deb/a29696.html#a97392c73658eeeb49d256527b19ad90f">_ACORE_DB_IMPORT_CONFIG</a>))), <span class="stringliteral">&quot;use &lt;arg&gt; as configuration file&quot;</span>);</div>
-<div class="line"><span class="lineno">  144</span> </div>
-<div class="line"><span class="lineno">  145</span>    variables_map variablesMap;</div>
-<div class="line"><span class="lineno">  146</span> </div>
-<div class="line"><span class="lineno">  147</span>    <span class="keywordflow">try</span></div>
-<div class="line"><span class="lineno">  148</span>    {</div>
-<div class="line"><span class="lineno">  149</span>        store(command_line_parser(argc, argv).options(all).allow_unregistered().run(), variablesMap);</div>
-<div class="line"><span class="lineno">  150</span>        notify(variablesMap);</div>
-<div class="line"><span class="lineno">  151</span>    }</div>
-<div class="line"><span class="lineno">  152</span>    <span class="keywordflow">catch</span> (std::exception <span class="keyword">const</span>&amp; e)</div>
-<div class="line"><span class="lineno">  153</span>    {</div>
-<div class="line"><span class="lineno">  154</span>        std::cerr &lt;&lt; e.what() &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span>;</div>
-<div class="line"><span class="lineno">  155</span>    }</div>
-<div class="line"><span class="lineno">  156</span> </div>
-<div class="line"><span class="lineno">  157</span>    <span class="keywordflow">if</span> (variablesMap.count(<span class="stringliteral">&quot;help&quot;</span>))</div>
-<div class="line"><span class="lineno">  158</span>    {</div>
-<div class="line"><span class="lineno">  159</span>        std::cout &lt;&lt; all &lt;&lt; <span class="stringliteral">&quot;\n&quot;</span>;</div>
-<div class="line"><span class="lineno">  160</span>    }</div>
-<div class="line"><span class="lineno">  161</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (variablesMap.count(<span class="stringliteral">&quot;dry-run&quot;</span>))</div>
-<div class="line"><span class="lineno">  162</span>    {</div>
-<div class="line"><span class="lineno">  163</span>        <a class="code hl_define" href="../../da/de7/a04643.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;setDryRun(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  164</span>    }</div>
-<div class="line"><span class="lineno">  165</span> </div>
-<div class="line"><span class="lineno">  166</span>    <span class="keywordflow">return</span> variablesMap;</div>
-<div class="line"><span class="lineno">  167</span>}</div>
-<div class="ttc" id="aa04643_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../da/de7/a04643.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:74</div></div>
-<div class="ttc" id="aa29696_html_a97392c73658eeeb49d256527b19ad90f"><div class="ttname"><a href="../../da/deb/a29696.html#a97392c73658eeeb49d256527b19ad90f">_ACORE_DB_IMPORT_CONFIG</a></div><div class="ttdeci">#define _ACORE_DB_IMPORT_CONFIG</div><div class="ttdef"><b>Definition:</b> Main.cpp:36</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00036">_ACORE_DB_IMPORT_CONFIG</a>, and <a class="el" href="../../#l00074">sConfigMgr</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00047">main()</a>.</p>
-
-</div>
-</div>
-<a id="a3c04138a5bfe5d72780bb7e82a18e627" name="a3c04138a5bfe5d72780bb7e82a18e627"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3c04138a5bfe5d72780bb7e82a18e627">&#9670;&#160;</a></span>main()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">int main </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>argc</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">char **&#160;</td>
-          <td class="paramname"><em>argv</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p>Launch the db import server. </p>
-<div class="fragment"><div class="line"><span class="lineno">   48</span>{</div>
-<div class="line"><span class="lineno">   49</span>    signal(SIGABRT, &amp;<a class="code hl_function" href="../../d2/d5c/a04788.html#ad49ea597ac6ffd8eb9ae06bab8c38b43">Acore::AbortHandler</a>);</div>
-<div class="line"><span class="lineno">   50</span> </div>
-<div class="line"><span class="lineno">   51</span>    <span class="comment">// Command line parsing</span></div>
-<div class="line"><span class="lineno">   52</span>    <span class="keyword">auto</span> configFile = fs::path(<a class="code hl_define" href="../../da/de7/a04643.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetConfigPath() + std::string(<a class="code hl_define" href="../../da/deb/a29696.html#a97392c73658eeeb49d256527b19ad90f">_ACORE_DB_IMPORT_CONFIG</a>));</div>
-<div class="line"><span class="lineno">   53</span>    <span class="keyword">auto</span> vm = <a class="code hl_function" href="../../da/deb/a29696.html#a6f250d3a28ed2192d175846c6ce5795b">GetConsoleArguments</a>(argc, argv, configFile);</div>
-<div class="line"><span class="lineno">   54</span> </div>
-<div class="line"><span class="lineno">   55</span>    <span class="comment">// exit if help is enabled</span></div>
-<div class="line"><span class="lineno">   56</span>    <span class="keywordflow">if</span> (vm.count(<span class="stringliteral">&quot;help&quot;</span>))</div>
-<div class="line"><span class="lineno">   57</span>        <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">   58</span> </div>
-<div class="line"><span class="lineno">   59</span>    <span class="comment">// Add file and args in config</span></div>
-<div class="line"><span class="lineno">   60</span>    <a class="code hl_define" href="../../da/de7/a04643.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;Configure(configFile.generic_string(), std::vector&lt;std::string&gt;(argv, argv + argc));</div>
-<div class="line"><span class="lineno">   61</span> </div>
-<div class="line"><span class="lineno">   62</span>    <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../da/de7/a04643.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;LoadAppConfigs())</div>
-<div class="line"><span class="lineno">   63</span>        <span class="keywordflow">return</span> 1;</div>
-<div class="line"><span class="lineno">   64</span> </div>
-<div class="line"><span class="lineno">   65</span>    std::vector&lt;std::string&gt; overriddenKeys = <a class="code hl_define" href="../../da/de7/a04643.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;OverrideWithEnvVariablesIfAny();</div>
-<div class="line"><span class="lineno">   66</span> </div>
-<div class="line"><span class="lineno">   67</span>    <span class="comment">// Init logging</span></div>
-<div class="line"><span class="lineno">   68</span>    <a class="code hl_define" href="../../de/d76/a04607.html#ab5487500f5b4b12072043104b916d582">sLog</a>-&gt;Initialize();</div>
-<div class="line"><span class="lineno">   69</span> </div>
-<div class="line"><span class="lineno">   70</span>    <a class="code hl_function" href="../../da/d11/a04792.html#af6170962feecf3d126a80593221a357d">Acore::Banner::Show</a>(<span class="stringliteral">&quot;dbimport&quot;</span>,</div>
-<div class="line"><span class="lineno">   71</span>        [](std::string_view text)</div>
-<div class="line"><span class="lineno">   72</span>        {</div>
-<div class="line"><span class="lineno">   73</span>            <a class="code hl_define" href="../../de/d76/a04607.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;dbimport&quot;</span>, text);</div>
-<div class="line"><span class="lineno">   74</span>        },</div>
-<div class="line"><span class="lineno">   75</span>        []()</div>
-<div class="line"><span class="lineno">   76</span>        {</div>
-<div class="line"><span class="lineno">   77</span>            <a class="code hl_define" href="../../de/d76/a04607.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;dbimport&quot;</span>, <span class="stringliteral">&quot;&gt; Using configuration file:       {}&quot;</span>, <a class="code hl_define" href="../../da/de7/a04643.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetFilename());</div>
-<div class="line"><span class="lineno">   78</span>            <a class="code hl_define" href="../../de/d76/a04607.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;dbimport&quot;</span>, <span class="stringliteral">&quot;&gt; Using SSL version:              {} (library: {})&quot;</span>, OPENSSL_VERSION_TEXT, OpenSSL_version(OPENSSL_VERSION));</div>
-<div class="line"><span class="lineno">   79</span>            <a class="code hl_define" href="../../de/d76/a04607.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;dbimport&quot;</span>, <span class="stringliteral">&quot;&gt; Using Boost version:            {}.{}.{}&quot;</span>, BOOST_VERSION / 100000, BOOST_VERSION / 100 % 1000, BOOST_VERSION % 100);</div>
-<div class="line"><span class="lineno">   80</span>        }</div>
-<div class="line"><span class="lineno">   81</span>    );</div>
-<div class="line"><span class="lineno">   82</span> </div>
-<div class="line"><span class="lineno">   83</span>    <span class="keywordflow">for</span> (std::string <span class="keyword">const</span>&amp; key : overriddenKeys)</div>
-<div class="line"><span class="lineno">   84</span>        <a class="code hl_define" href="../../de/d76/a04607.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;dbimport&quot;</span>, <span class="stringliteral">&quot;Configuration field {} was overridden with environment variable.&quot;</span>, key);</div>
-<div class="line"><span class="lineno">   85</span> </div>
-<div class="line"><span class="lineno">   86</span>    <a class="code hl_function" href="../../da/d54/a04801.html#ae2c343f2efc8fa69b50e1bd35bf410fd">OpenSSLCrypto::threadsSetup</a>();</div>
-<div class="line"><span class="lineno">   87</span> </div>
-<div class="line"><span class="lineno">   88</span>    std::shared_ptr&lt;void&gt; opensslHandle(<span class="keyword">nullptr</span>, [](<span class="keywordtype">void</span>*) { <a class="code hl_function" href="../../da/d54/a04801.html#af868d9171650614810772c5675c47fd3">OpenSSLCrypto::threadsCleanup</a>(); });</div>
+<p>Check if this entry adds value beyond DBC defaults. </p>
+<p >Returns true if the spell_proc entry provides functionality not available in Spell.dbc alone. </p>
+<div class="fragment"><div class="line"><span class="lineno">   73</span>    {</div>
+<div class="line"><span class="lineno">   74</span>        <span class="comment">// New fields not in DBC (always add value)</span></div>
+<div class="line"><span class="lineno">   75</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/deb/a29696.html#a1005dd21ca315c4ee18cc1f0b1147590">ProcsPerMinute</a> &gt; 0) <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   76</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/deb/a29696.html#a8ae054e7700edebf204b6b9d5285b570">Cooldown</a> &gt; 0) <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   77</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/deb/a29696.html#a8ac8ca4ac8ed7eb60de720bb0bac36b1">SpellTypeMask</a> != 0) <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   78</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/deb/a29696.html#ab2356da98d2b2c9d250d1c86056a427c">SpellPhaseMask</a> != 0) <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   79</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/deb/a29696.html#aac7528939d9f28432649a5e947cb112b">HitMask</a> != 0) <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   80</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/deb/a29696.html#a255f45e42d9ad7f4a1a71b12289f6280">DisableEffectsMask</a> != 0) <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   81</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/deb/a29696.html#a32a562ccd8812c33b385fb6a4812693f">AttributesMask</a> != 0) <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   82</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/deb/a29696.html#ab76502dd0f6d6e9fa8608800547b097c">SchoolMask</a> != 0) <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   83</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/deb/a29696.html#a8b316b64763de61fabe8eee119a3c33b">SpellFamilyMask0</a> != 0 || <a class="code hl_variable" href="../../da/deb/a29696.html#a0f2454783d5fcd2b751b40b8e32d8476">SpellFamilyMask1</a> != 0 || <a class="code hl_variable" href="../../da/deb/a29696.html#a74093101a8fe41b8bb641da9957d6ef2">SpellFamilyMask2</a> != 0) <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   84</span> </div>
+<div class="line"><span class="lineno">   85</span>        <span class="comment">// Override fields (add value if different from DBC)</span></div>
+<div class="line"><span class="lineno">   86</span>        <span class="keywordflow">if</span> (<a class="code hl_enumeration" href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6">ProcFlags</a> != 0 &amp;&amp; <a class="code hl_enumeration" href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6">ProcFlags</a> != <a class="code hl_variable" href="../../da/deb/a29696.html#aba345f90612d66a1ae8ff83b863c3752">DBC_ProcFlags</a>) <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   87</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/deb/a29696.html#a9e4e897bb784e63d991e76f8efd393ab">Chance</a> != 0 &amp;&amp; <span class="keyword">static_cast&lt;</span>uint32_t<span class="keyword">&gt;</span>(<a class="code hl_variable" href="../../da/deb/a29696.html#a9e4e897bb784e63d991e76f8efd393ab">Chance</a>) != <a class="code hl_variable" href="../../da/deb/a29696.html#a687725337f68ab28c9f862997666b979">DBC_ProcChance</a>) <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   88</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/deb/a29696.html#a1795067c9622f90fe10afaa9086729d2">Charges</a> != 0 &amp;&amp; <a class="code hl_variable" href="../../da/deb/a29696.html#a1795067c9622f90fe10afaa9086729d2">Charges</a> != <a class="code hl_variable" href="../../da/deb/a29696.html#a674bdd693e94bea55c93985a04a3cde5">DBC_ProcCharges</a>) <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">   89</span> </div>
-<div class="line"><span class="lineno">   90</span>    <span class="comment">// Initialize the database connection</span></div>
-<div class="line"><span class="lineno">   91</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../da/deb/a29696.html#a1551df43a48f1dbf64dbec1e47b07eea">StartDB</a>())</div>
-<div class="line"><span class="lineno">   92</span>        <span class="keywordflow">return</span> 1;</div>
-<div class="line"><span class="lineno">   93</span> </div>
-<div class="line"><span class="lineno">   94</span>    std::shared_ptr&lt;void&gt; dbHandle(<span class="keyword">nullptr</span>, [](<span class="keywordtype">void</span>*) { <a class="code hl_function" href="../../da/deb/a29696.html#a927af1587546ee7503a3b9a18f6439c0">StopDB</a>(); });</div>
-<div class="line"><span class="lineno">   95</span> </div>
-<div class="line"><span class="lineno">   96</span>    <a class="code hl_define" href="../../de/d76/a04607.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;dbimport&quot;</span>, <span class="stringliteral">&quot;Halting process...&quot;</span>);</div>
-<div class="line"><span class="lineno">   97</span> </div>
-<div class="line"><span class="lineno">   98</span>    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">   99</span>}</div>
-<div class="ttc" id="aa04607_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../de/d76/a04607.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
-<div class="ttc" id="aa04607_html_ab5487500f5b4b12072043104b916d582"><div class="ttname"><a href="../../de/d76/a04607.html#ab5487500f5b4b12072043104b916d582">sLog</a></div><div class="ttdeci">#define sLog</div><div class="ttdef"><b>Definition:</b> Log.h:127</div></div>
-<div class="ttc" id="aa04788_html_ad49ea597ac6ffd8eb9ae06bab8c38b43"><div class="ttname"><a href="../../d2/d5c/a04788.html#ad49ea597ac6ffd8eb9ae06bab8c38b43">Acore::AbortHandler</a></div><div class="ttdeci">AC_COMMON_API void AbortHandler(int sigval)</div><div class="ttdef"><b>Definition:</b> Errors.cpp:148</div></div>
-<div class="ttc" id="aa04792_html_af6170962feecf3d126a80593221a357d"><div class="ttname"><a href="../../da/d11/a04792.html#af6170962feecf3d126a80593221a357d">Acore::Banner::Show</a></div><div class="ttdeci">AC_COMMON_API void Show(std::string_view applicationName, void(*log)(std::string_view text), void(*logExtraInfo)())</div><div class="ttdef"><b>Definition:</b> Banner.cpp:22</div></div>
-<div class="ttc" id="aa04801_html_ae2c343f2efc8fa69b50e1bd35bf410fd"><div class="ttname"><a href="../../da/d54/a04801.html#ae2c343f2efc8fa69b50e1bd35bf410fd">OpenSSLCrypto::threadsSetup</a></div><div class="ttdeci">AC_COMMON_API void threadsSetup()</div><div class="ttdoc">Needs to be called before threads using openssl are spawned.</div><div class="ttdef"><b>Definition:</b> OpenSSLCrypto.cpp:41</div></div>
-<div class="ttc" id="aa04801_html_af868d9171650614810772c5675c47fd3"><div class="ttname"><a href="../../da/d54/a04801.html#af868d9171650614810772c5675c47fd3">OpenSSLCrypto::threadsCleanup</a></div><div class="ttdeci">AC_COMMON_API void threadsCleanup()</div><div class="ttdoc">Needs to be called after threads using openssl are despawned.</div><div class="ttdef"><b>Definition:</b> OpenSSLCrypto.cpp:50</div></div>
-<div class="ttc" id="aa29696_html_a1551df43a48f1dbf64dbec1e47b07eea"><div class="ttname"><a href="../../da/deb/a29696.html#a1551df43a48f1dbf64dbec1e47b07eea">StartDB</a></div><div class="ttdeci">bool StartDB()</div><div class="ttdoc">Initialize connection to the database.</div><div class="ttdef"><b>Definition:</b> Main.cpp:102</div></div>
-<div class="ttc" id="aa29696_html_a6f250d3a28ed2192d175846c6ce5795b"><div class="ttname"><a href="../../da/deb/a29696.html#a6f250d3a28ed2192d175846c6ce5795b">GetConsoleArguments</a></div><div class="ttdeci">variables_map GetConsoleArguments(int argc, char **argv, fs::path &amp;configFile)</div><div class="ttdef"><b>Definition:</b> Main.cpp:136</div></div>
-<div class="ttc" id="aa29696_html_a927af1587546ee7503a3b9a18f6439c0"><div class="ttname"><a href="../../da/deb/a29696.html#a927af1587546ee7503a3b9a18f6439c0">StopDB</a></div><div class="ttdeci">void StopDB()</div><div class="ttdoc">Close the connection to the database.</div><div class="ttdef"><b>Definition:</b> Main.cpp:128</div></div>
+<div class="line"><span class="lineno">   90</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   91</span>    }</div>
+<div class="ttc" id="aa00104_html_ade1c2af066d4cf1bbcd88f13f01cd4d6"><div class="ttname"><a href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6">ProcFlags</a></div><div class="ttdeci">ProcFlags</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:104</div></div>
+<div class="ttc" id="aa29696_html_a0f2454783d5fcd2b751b40b8e32d8476"><div class="ttname"><a href="../../da/deb/a29696.html#a0f2454783d5fcd2b751b40b8e32d8476">SpellProcTestEntry::SpellFamilyMask1</a></div><div class="ttdeci">uint32_t SpellFamilyMask1</div><div class="ttdef"><b>Definition:</b> SpellProcTestData.h:24</div></div>
+<div class="ttc" id="aa29696_html_a1005dd21ca315c4ee18cc1f0b1147590"><div class="ttname"><a href="../../da/deb/a29696.html#a1005dd21ca315c4ee18cc1f0b1147590">SpellProcTestEntry::ProcsPerMinute</a></div><div class="ttdeci">float ProcsPerMinute</div><div class="ttdef"><b>Definition:</b> SpellProcTestData.h:33</div></div>
+<div class="ttc" id="aa29696_html_a1795067c9622f90fe10afaa9086729d2"><div class="ttname"><a href="../../da/deb/a29696.html#a1795067c9622f90fe10afaa9086729d2">SpellProcTestEntry::Charges</a></div><div class="ttdeci">uint8_t Charges</div><div class="ttdef"><b>Definition:</b> SpellProcTestData.h:34</div></div>
+<div class="ttc" id="aa29696_html_a255f45e42d9ad7f4a1a71b12289f6280"><div class="ttname"><a href="../../da/deb/a29696.html#a255f45e42d9ad7f4a1a71b12289f6280">SpellProcTestEntry::DisableEffectsMask</a></div><div class="ttdeci">uint8_t DisableEffectsMask</div><div class="ttdef"><b>Definition:</b> SpellProcTestData.h:35</div></div>
+<div class="ttc" id="aa29696_html_a32a562ccd8812c33b385fb6a4812693f"><div class="ttname"><a href="../../da/deb/a29696.html#a32a562ccd8812c33b385fb6a4812693f">SpellProcTestEntry::AttributesMask</a></div><div class="ttdeci">uint32_t AttributesMask</div><div class="ttdef"><b>Definition:</b> SpellProcTestData.h:30</div></div>
+<div class="ttc" id="aa29696_html_a674bdd693e94bea55c93985a04a3cde5"><div class="ttname"><a href="../../da/deb/a29696.html#a674bdd693e94bea55c93985a04a3cde5">SpellProcTestEntry::DBC_ProcCharges</a></div><div class="ttdeci">uint32_t DBC_ProcCharges</div><div class="ttdef"><b>Definition:</b> SpellProcTestData.h:40</div></div>
+<div class="ttc" id="aa29696_html_a687725337f68ab28c9f862997666b979"><div class="ttname"><a href="../../da/deb/a29696.html#a687725337f68ab28c9f862997666b979">SpellProcTestEntry::DBC_ProcChance</a></div><div class="ttdeci">uint32_t DBC_ProcChance</div><div class="ttdef"><b>Definition:</b> SpellProcTestData.h:39</div></div>
+<div class="ttc" id="aa29696_html_a74093101a8fe41b8bb641da9957d6ef2"><div class="ttname"><a href="../../da/deb/a29696.html#a74093101a8fe41b8bb641da9957d6ef2">SpellProcTestEntry::SpellFamilyMask2</a></div><div class="ttdeci">uint32_t SpellFamilyMask2</div><div class="ttdef"><b>Definition:</b> SpellProcTestData.h:25</div></div>
+<div class="ttc" id="aa29696_html_a8ac8ca4ac8ed7eb60de720bb0bac36b1"><div class="ttname"><a href="../../da/deb/a29696.html#a8ac8ca4ac8ed7eb60de720bb0bac36b1">SpellProcTestEntry::SpellTypeMask</a></div><div class="ttdeci">uint32_t SpellTypeMask</div><div class="ttdef"><b>Definition:</b> SpellProcTestData.h:27</div></div>
+<div class="ttc" id="aa29696_html_a8ae054e7700edebf204b6b9d5285b570"><div class="ttname"><a href="../../da/deb/a29696.html#a8ae054e7700edebf204b6b9d5285b570">SpellProcTestEntry::Cooldown</a></div><div class="ttdeci">uint32_t Cooldown</div><div class="ttdef"><b>Definition:</b> SpellProcTestData.h:31</div></div>
+<div class="ttc" id="aa29696_html_a8b316b64763de61fabe8eee119a3c33b"><div class="ttname"><a href="../../da/deb/a29696.html#a8b316b64763de61fabe8eee119a3c33b">SpellProcTestEntry::SpellFamilyMask0</a></div><div class="ttdeci">uint32_t SpellFamilyMask0</div><div class="ttdef"><b>Definition:</b> SpellProcTestData.h:23</div></div>
+<div class="ttc" id="aa29696_html_a9e4e897bb784e63d991e76f8efd393ab"><div class="ttname"><a href="../../da/deb/a29696.html#a9e4e897bb784e63d991e76f8efd393ab">SpellProcTestEntry::Chance</a></div><div class="ttdeci">float Chance</div><div class="ttdef"><b>Definition:</b> SpellProcTestData.h:32</div></div>
+<div class="ttc" id="aa29696_html_aac7528939d9f28432649a5e947cb112b"><div class="ttname"><a href="../../da/deb/a29696.html#aac7528939d9f28432649a5e947cb112b">SpellProcTestEntry::HitMask</a></div><div class="ttdeci">uint32_t HitMask</div><div class="ttdef"><b>Definition:</b> SpellProcTestData.h:29</div></div>
+<div class="ttc" id="aa29696_html_ab2356da98d2b2c9d250d1c86056a427c"><div class="ttname"><a href="../../da/deb/a29696.html#ab2356da98d2b2c9d250d1c86056a427c">SpellProcTestEntry::SpellPhaseMask</a></div><div class="ttdeci">uint32_t SpellPhaseMask</div><div class="ttdef"><b>Definition:</b> SpellProcTestData.h:28</div></div>
+<div class="ttc" id="aa29696_html_ab76502dd0f6d6e9fa8608800547b097c"><div class="ttname"><a href="../../da/deb/a29696.html#ab76502dd0f6d6e9fa8608800547b097c">SpellProcTestEntry::SchoolMask</a></div><div class="ttdeci">uint32_t SchoolMask</div><div class="ttdef"><b>Definition:</b> SpellProcTestData.h:21</div></div>
+<div class="ttc" id="aa29696_html_aba345f90612d66a1ae8ff83b863c3752"><div class="ttname"><a href="../../da/deb/a29696.html#aba345f90612d66a1ae8ff83b863c3752">SpellProcTestEntry::DBC_ProcFlags</a></div><div class="ttdeci">uint32_t DBC_ProcFlags</div><div class="ttdef"><b>Definition:</b> SpellProcTestData.h:38</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00036">_ACORE_DB_IMPORT_CONFIG</a>, <a class="el" href="../../#l00148">Acore::AbortHandler()</a>, <a class="el" href="../../#l00136">GetConsoleArguments()</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, <a class="el" href="../../#l00022">Acore::Banner::Show()</a>, <a class="el" href="../../#l00127">sLog</a>, <a class="el" href="../../#l00102">StartDB()</a>, <a class="el" href="../../#l00128">StopDB()</a>, <a class="el" href="../../#l00050">OpenSSLCrypto::threadsCleanup()</a>, and <a class="el" href="../../#l00041">OpenSSLCrypto::threadsSetup()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00030">AttributesMask</a>, <a class="el" href="../../#l00032">Chance</a>, <a class="el" href="../../#l00034">Charges</a>, <a class="el" href="../../#l00031">Cooldown</a>, <a class="el" href="../../#l00039">DBC_ProcChance</a>, <a class="el" href="../../#l00040">DBC_ProcCharges</a>, <a class="el" href="../../#l00038">DBC_ProcFlags</a>, <a class="el" href="../../#l00035">DisableEffectsMask</a>, <a class="el" href="../../#l00029">HitMask</a>, <a class="el" href="../../#l00033">ProcsPerMinute</a>, <a class="el" href="../../#l00021">SchoolMask</a>, <a class="el" href="../../#l00023">SpellFamilyMask0</a>, <a class="el" href="../../#l00024">SpellFamilyMask1</a>, <a class="el" href="../../#l00025">SpellFamilyMask2</a>, <a class="el" href="../../#l00028">SpellPhaseMask</a>, and <a class="el" href="../../#l00027">SpellTypeMask</a>.</p>
 
 </div>
 </div>
-<a id="a1551df43a48f1dbf64dbec1e47b07eea" name="a1551df43a48f1dbf64dbec1e47b07eea"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1551df43a48f1dbf64dbec1e47b07eea">&#9670;&#160;</a></span>StartDB()</h2>
+<a id="a70c20b8efd966a3051591e4292957f21" name="a70c20b8efd966a3051591e4292957f21"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a70c20b8efd966a3051591e4292957f21">&#9670;&#160;</a></span>HasDBCData()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool SpellProcTestEntry::HasDBCData </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Check if DBC values are available for this entry. </p>
+<div class="fragment"><div class="line"><span class="lineno">   97</span>    {</div>
+<div class="line"><span class="lineno">   98</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../da/deb/a29696.html#aba345f90612d66a1ae8ff83b863c3752">DBC_ProcFlags</a> != 0 || <a class="code hl_variable" href="../../da/deb/a29696.html#a687725337f68ab28c9f862997666b979">DBC_ProcChance</a> != 0 || <a class="code hl_variable" href="../../da/deb/a29696.html#a674bdd693e94bea55c93985a04a3cde5">DBC_ProcCharges</a> != 0;</div>
+<div class="line"><span class="lineno">   99</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00039">DBC_ProcChance</a>, <a class="el" href="../../#l00040">DBC_ProcCharges</a>, and <a class="el" href="../../#l00038">DBC_ProcFlags</a>.</p>
+
+</div>
+</div>
+<a id="a70ebb9c47633f6c55f863593d1f1b0d7" name="a70ebb9c47633f6c55f863593d1f1b0d7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a70ebb9c47633f6c55f863593d1f1b0d7">&#9670;&#160;</a></span>ToSpellProcEntry()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d12/a11608.html">SpellProcEntry</a> SpellProcTestEntry::ToSpellProcEntry </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Convert to <a class="el" href="../../d6/d12/a11608.html">SpellProcEntry</a> for testing. </p>
+<div class="fragment"><div class="line"><span class="lineno">   46</span>    {</div>
+<div class="line"><span class="lineno">   47</span>        <a class="code hl_struct" href="../../d6/d12/a11608.html">SpellProcEntry</a> entry = {};</div>
+<div class="line"><span class="lineno">   48</span>        entry.<a class="code hl_variable" href="../../d6/d12/a11608.html#acf72c4a783235770bbff952bdc002324">SchoolMask</a> = <a class="code hl_variable" href="../../da/deb/a29696.html#ab76502dd0f6d6e9fa8608800547b097c">SchoolMask</a>;</div>
+<div class="line"><span class="lineno">   49</span>        entry.<a class="code hl_variable" href="../../d6/d12/a11608.html#a2cb738b0d4579503fcb9bca7988f7e36">SpellFamilyName</a> = <a class="code hl_variable" href="../../da/deb/a29696.html#a11a0c26f6d3e6f3b8e47e1c968841094">SpellFamilyName</a>;</div>
+<div class="line"><span class="lineno">   50</span>        entry.<a class="code hl_variable" href="../../d6/d12/a11608.html#a8688e9282cb78d4f24b310cc2521c22b">SpellFamilyMask</a>[0] = <a class="code hl_variable" href="../../da/deb/a29696.html#a8b316b64763de61fabe8eee119a3c33b">SpellFamilyMask0</a>;</div>
+<div class="line"><span class="lineno">   51</span>        entry.<a class="code hl_variable" href="../../d6/d12/a11608.html#a8688e9282cb78d4f24b310cc2521c22b">SpellFamilyMask</a>[1] = <a class="code hl_variable" href="../../da/deb/a29696.html#a0f2454783d5fcd2b751b40b8e32d8476">SpellFamilyMask1</a>;</div>
+<div class="line"><span class="lineno">   52</span>        entry.<a class="code hl_variable" href="../../d6/d12/a11608.html#a8688e9282cb78d4f24b310cc2521c22b">SpellFamilyMask</a>[2] = <a class="code hl_variable" href="../../da/deb/a29696.html#a74093101a8fe41b8bb641da9957d6ef2">SpellFamilyMask2</a>;</div>
+<div class="line"><span class="lineno">   53</span>        entry.<a class="code hl_variable" href="../../d6/d12/a11608.html#a9e5de790c4f61537397a1ce2bce8a9b0">ProcFlags</a> = <a class="code hl_variable" href="../../da/deb/a29696.html#ac62ba46b22a759991731a15b17ccf3d9">ProcFlags</a>;</div>
+<div class="line"><span class="lineno">   54</span>        entry.<a class="code hl_variable" href="../../d6/d12/a11608.html#a99e20d3979a532e1ca90ee83edcff3eb">SpellTypeMask</a> = <a class="code hl_variable" href="../../da/deb/a29696.html#a8ac8ca4ac8ed7eb60de720bb0bac36b1">SpellTypeMask</a>;</div>
+<div class="line"><span class="lineno">   55</span>        entry.<a class="code hl_variable" href="../../d6/d12/a11608.html#ab4c4bfa1493a7a5924d3cd094127f973">SpellPhaseMask</a> = <a class="code hl_variable" href="../../da/deb/a29696.html#ab2356da98d2b2c9d250d1c86056a427c">SpellPhaseMask</a>;</div>
+<div class="line"><span class="lineno">   56</span>        entry.<a class="code hl_variable" href="../../d6/d12/a11608.html#a8ac3331576b4eb761157fa3d0d622bea">HitMask</a> = <a class="code hl_variable" href="../../da/deb/a29696.html#aac7528939d9f28432649a5e947cb112b">HitMask</a>;</div>
+<div class="line"><span class="lineno">   57</span>        entry.<a class="code hl_variable" href="../../d6/d12/a11608.html#a7cc9dfa91e034f5052ebd3bf8eaea42a">AttributesMask</a> = <a class="code hl_variable" href="../../da/deb/a29696.html#a32a562ccd8812c33b385fb6a4812693f">AttributesMask</a>;</div>
+<div class="line"><span class="lineno">   58</span>        entry.<a class="code hl_variable" href="../../d6/d12/a11608.html#a4e6185aea35599a3efc2e806145cb1d2">Cooldown</a> = <a class="code hl_typedef" href="../../dc/d42/a04748.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>(<a class="code hl_variable" href="../../da/deb/a29696.html#a8ae054e7700edebf204b6b9d5285b570">Cooldown</a>);</div>
+<div class="line"><span class="lineno">   59</span>        entry.<a class="code hl_variable" href="../../d6/d12/a11608.html#aea5ca609c75ea7b314aec8ae0246297e">Chance</a> = <a class="code hl_variable" href="../../da/deb/a29696.html#a9e4e897bb784e63d991e76f8efd393ab">Chance</a>;</div>
+<div class="line"><span class="lineno">   60</span>        entry.<a class="code hl_variable" href="../../d6/d12/a11608.html#a3815765c08f6b95cae6efb93fa98623b">ProcsPerMinute</a> = <a class="code hl_variable" href="../../da/deb/a29696.html#a1005dd21ca315c4ee18cc1f0b1147590">ProcsPerMinute</a>;</div>
+<div class="line"><span class="lineno">   61</span>        entry.<a class="code hl_variable" href="../../d6/d12/a11608.html#a75f0484dad60eec59b399a188fd9908f">Charges</a> = <a class="code hl_variable" href="../../da/deb/a29696.html#a1795067c9622f90fe10afaa9086729d2">Charges</a>;</div>
+<div class="line"><span class="lineno">   62</span>        entry.<a class="code hl_variable" href="../../d6/d12/a11608.html#adc34c0ba25af2e1b1fc3b0fc7c45c019">DisableEffectsMask</a> = <a class="code hl_variable" href="../../da/deb/a29696.html#a255f45e42d9ad7f4a1a71b12289f6280">DisableEffectsMask</a>;</div>
+<div class="line"><span class="lineno">   63</span>        <span class="keywordflow">return</span> entry;</div>
+<div class="line"><span class="lineno">   64</span>    }</div>
+<div class="ttc" id="aa04748_html_a1c3834b9e3853535027d58bf21bec81f"><div class="ttname"><a href="../../dc/d42/a04748.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a></div><div class="ttdeci">std::chrono::milliseconds Milliseconds</div><div class="ttdoc">Milliseconds shorthand typedef.</div><div class="ttdef"><b>Definition:</b> Duration.h:27</div></div>
+<div class="ttc" id="aa11608_html"><div class="ttname"><a href="../../d6/d12/a11608.html">SpellProcEntry</a></div><div class="ttdef"><b>Definition:</b> SpellMgr.h:283</div></div>
+<div class="ttc" id="aa11608_html_a2cb738b0d4579503fcb9bca7988f7e36"><div class="ttname"><a href="../../d6/d12/a11608.html#a2cb738b0d4579503fcb9bca7988f7e36">SpellProcEntry::SpellFamilyName</a></div><div class="ttdeci">uint32 SpellFamilyName</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:285</div></div>
+<div class="ttc" id="aa11608_html_a3815765c08f6b95cae6efb93fa98623b"><div class="ttname"><a href="../../d6/d12/a11608.html#a3815765c08f6b95cae6efb93fa98623b">SpellProcEntry::ProcsPerMinute</a></div><div class="ttdeci">float ProcsPerMinute</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:293</div></div>
+<div class="ttc" id="aa11608_html_a4e6185aea35599a3efc2e806145cb1d2"><div class="ttname"><a href="../../d6/d12/a11608.html#a4e6185aea35599a3efc2e806145cb1d2">SpellProcEntry::Cooldown</a></div><div class="ttdeci">Milliseconds Cooldown</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:295</div></div>
+<div class="ttc" id="aa11608_html_a75f0484dad60eec59b399a188fd9908f"><div class="ttname"><a href="../../d6/d12/a11608.html#a75f0484dad60eec59b399a188fd9908f">SpellProcEntry::Charges</a></div><div class="ttdeci">uint32 Charges</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:296</div></div>
+<div class="ttc" id="aa11608_html_a7cc9dfa91e034f5052ebd3bf8eaea42a"><div class="ttname"><a href="../../d6/d12/a11608.html#a7cc9dfa91e034f5052ebd3bf8eaea42a">SpellProcEntry::AttributesMask</a></div><div class="ttdeci">uint32 AttributesMask</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:291</div></div>
+<div class="ttc" id="aa11608_html_a8688e9282cb78d4f24b310cc2521c22b"><div class="ttname"><a href="../../d6/d12/a11608.html#a8688e9282cb78d4f24b310cc2521c22b">SpellProcEntry::SpellFamilyMask</a></div><div class="ttdeci">flag96 SpellFamilyMask</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:286</div></div>
+<div class="ttc" id="aa11608_html_a8ac3331576b4eb761157fa3d0d622bea"><div class="ttname"><a href="../../d6/d12/a11608.html#a8ac3331576b4eb761157fa3d0d622bea">SpellProcEntry::HitMask</a></div><div class="ttdeci">uint32 HitMask</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:290</div></div>
+<div class="ttc" id="aa11608_html_a99e20d3979a532e1ca90ee83edcff3eb"><div class="ttname"><a href="../../d6/d12/a11608.html#a99e20d3979a532e1ca90ee83edcff3eb">SpellProcEntry::SpellTypeMask</a></div><div class="ttdeci">uint32 SpellTypeMask</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:288</div></div>
+<div class="ttc" id="aa11608_html_a9e5de790c4f61537397a1ce2bce8a9b0"><div class="ttname"><a href="../../d6/d12/a11608.html#a9e5de790c4f61537397a1ce2bce8a9b0">SpellProcEntry::ProcFlags</a></div><div class="ttdeci">uint32 ProcFlags</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:287</div></div>
+<div class="ttc" id="aa11608_html_ab4c4bfa1493a7a5924d3cd094127f973"><div class="ttname"><a href="../../d6/d12/a11608.html#ab4c4bfa1493a7a5924d3cd094127f973">SpellProcEntry::SpellPhaseMask</a></div><div class="ttdeci">uint32 SpellPhaseMask</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:289</div></div>
+<div class="ttc" id="aa11608_html_acf72c4a783235770bbff952bdc002324"><div class="ttname"><a href="../../d6/d12/a11608.html#acf72c4a783235770bbff952bdc002324">SpellProcEntry::SchoolMask</a></div><div class="ttdeci">uint32 SchoolMask</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:284</div></div>
+<div class="ttc" id="aa11608_html_adc34c0ba25af2e1b1fc3b0fc7c45c019"><div class="ttname"><a href="../../d6/d12/a11608.html#adc34c0ba25af2e1b1fc3b0fc7c45c019">SpellProcEntry::DisableEffectsMask</a></div><div class="ttdeci">uint32 DisableEffectsMask</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:292</div></div>
+<div class="ttc" id="aa11608_html_aea5ca609c75ea7b314aec8ae0246297e"><div class="ttname"><a href="../../d6/d12/a11608.html#aea5ca609c75ea7b314aec8ae0246297e">SpellProcEntry::Chance</a></div><div class="ttdeci">float Chance</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:294</div></div>
+<div class="ttc" id="aa29696_html_a11a0c26f6d3e6f3b8e47e1c968841094"><div class="ttname"><a href="../../da/deb/a29696.html#a11a0c26f6d3e6f3b8e47e1c968841094">SpellProcTestEntry::SpellFamilyName</a></div><div class="ttdeci">uint32_t SpellFamilyName</div><div class="ttdef"><b>Definition:</b> SpellProcTestData.h:22</div></div>
+<div class="ttc" id="aa29696_html_ac62ba46b22a759991731a15b17ccf3d9"><div class="ttname"><a href="../../da/deb/a29696.html#ac62ba46b22a759991731a15b17ccf3d9">SpellProcTestEntry::ProcFlags</a></div><div class="ttdeci">uint32_t ProcFlags</div><div class="ttdef"><b>Definition:</b> SpellProcTestData.h:26</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00291">SpellProcEntry::AttributesMask</a>, <a class="el" href="../../#l00030">AttributesMask</a>, <a class="el" href="../../#l00294">SpellProcEntry::Chance</a>, <a class="el" href="../../#l00032">Chance</a>, <a class="el" href="../../#l00296">SpellProcEntry::Charges</a>, <a class="el" href="../../#l00034">Charges</a>, <a class="el" href="../../#l00295">SpellProcEntry::Cooldown</a>, <a class="el" href="../../#l00031">Cooldown</a>, <a class="el" href="../../#l00292">SpellProcEntry::DisableEffectsMask</a>, <a class="el" href="../../#l00035">DisableEffectsMask</a>, <a class="el" href="../../#l00290">SpellProcEntry::HitMask</a>, <a class="el" href="../../#l00029">HitMask</a>, <a class="el" href="../../#l00287">SpellProcEntry::ProcFlags</a>, <a class="el" href="../../#l00026">ProcFlags</a>, <a class="el" href="../../#l00293">SpellProcEntry::ProcsPerMinute</a>, <a class="el" href="../../#l00033">ProcsPerMinute</a>, <a class="el" href="../../#l00284">SpellProcEntry::SchoolMask</a>, <a class="el" href="../../#l00021">SchoolMask</a>, <a class="el" href="../../#l00286">SpellProcEntry::SpellFamilyMask</a>, <a class="el" href="../../#l00023">SpellFamilyMask0</a>, <a class="el" href="../../#l00024">SpellFamilyMask1</a>, <a class="el" href="../../#l00025">SpellFamilyMask2</a>, <a class="el" href="../../#l00285">SpellProcEntry::SpellFamilyName</a>, <a class="el" href="../../#l00022">SpellFamilyName</a>, <a class="el" href="../../#l00289">SpellProcEntry::SpellPhaseMask</a>, <a class="el" href="../../#l00028">SpellPhaseMask</a>, <a class="el" href="../../#l00288">SpellProcEntry::SpellTypeMask</a>, and <a class="el" href="../../#l00027">SpellTypeMask</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00078">SpellProcFullCoverageTest::SetUp()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a32a562ccd8812c33b385fb6a4812693f" name="a32a562ccd8812c33b385fb6a4812693f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a32a562ccd8812c33b385fb6a4812693f">&#9670;&#160;</a></span>AttributesMask</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool StartDB </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname">uint32_t SpellProcTestEntry::AttributesMask</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p>Initialize connection to the database. </p>
-<div class="fragment"><div class="line"><span class="lineno">  103</span>{</div>
-<div class="line"><span class="lineno">  104</span>    <a class="code hl_function" href="../../db/da7/a04817.html#a70b74137156f0a22792c3cf95c54decc">MySQL::Library_Init</a>();</div>
-<div class="line"><span class="lineno">  105</span> </div>
-<div class="line"><span class="lineno">  106</span>    <span class="comment">// Load modules conditionally based on what modules are allowed to auto-update or none</span></div>
-<div class="line"><span class="lineno">  107</span>    std::string modules = <a class="code hl_define" href="../../da/de7/a04643.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;Updates.AllowedModules&quot;</span>, <span class="stringliteral">&quot;all&quot;</span>);</div>
-<div class="line"><span class="lineno">  108</span>    <a class="code hl_define" href="../../de/d76/a04607.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;dbimport&quot;</span>, <span class="stringliteral">&quot;Loading modules: {}&quot;</span>, modules.empty() ? <span class="stringliteral">&quot;none&quot;</span> : modules);</div>
-<div class="line"><span class="lineno">  109</span> </div>
-<div class="line"><span class="lineno">  110</span>    <a class="code hl_class" href="../../d2/d02/a05708.html">DatabaseLoader</a> loader =</div>
-<div class="line"><span class="lineno">  111</span>        modules.empty() ? <a class="code hl_class" href="../../d2/d02/a05708.html">DatabaseLoader</a>(<span class="stringliteral">&quot;dbimport&quot;</span>) :</div>
-<div class="line"><span class="lineno">  112</span>        (modules == <span class="stringliteral">&quot;all&quot;</span>) ? <a class="code hl_class" href="../../d2/d02/a05708.html">DatabaseLoader</a>(<span class="stringliteral">&quot;dbimport&quot;</span>, <a class="code hl_class" href="../../d2/d02/a05708.html">DatabaseLoader</a>::DATABASE_NONE, AC_MODULES_LIST) :</div>
-<div class="line"><span class="lineno">  113</span>        <a class="code hl_class" href="../../d2/d02/a05708.html">DatabaseLoader</a>(<span class="stringliteral">&quot;dbimport&quot;</span>, <a class="code hl_class" href="../../d2/d02/a05708.html">DatabaseLoader</a>::DATABASE_NONE, modules);</div>
-<div class="line"><span class="lineno">  114</span> </div>
-<div class="line"><span class="lineno">  115</span>    loader</div>
-<div class="line"><span class="lineno">  116</span>        .<a class="code hl_function" href="../../d2/d02/a05708.html#a90e78741afab5e8acae41e24ba256675">AddDatabase</a>(<a class="code hl_variable" href="../../de/d93/a04235.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>, <span class="stringliteral">&quot;Login&quot;</span>)</div>
-<div class="line"><span class="lineno">  117</span>        .<a class="code hl_function" href="../../d2/d02/a05708.html#a90e78741afab5e8acae41e24ba256675">AddDatabase</a>(<a class="code hl_variable" href="../../de/d93/a04235.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>, <span class="stringliteral">&quot;Character&quot;</span>)</div>
-<div class="line"><span class="lineno">  118</span>        .<a class="code hl_function" href="../../d2/d02/a05708.html#a90e78741afab5e8acae41e24ba256675">AddDatabase</a>(<a class="code hl_variable" href="../../de/d93/a04235.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a>, <span class="stringliteral">&quot;World&quot;</span>);</div>
-<div class="line"><span class="lineno">  119</span> </div>
-<div class="line"><span class="lineno">  120</span>    <span class="keywordflow">if</span> (!loader.<a class="code hl_function" href="../../d2/d02/a05708.html#ab0ffcdb400e9e5d80598f89dddb3bea8">Load</a>())</div>
-<div class="line"><span class="lineno">  121</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  122</span> </div>
-<div class="line"><span class="lineno">  123</span>    <a class="code hl_define" href="../../de/d76/a04607.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;dbimport&quot;</span>, <span class="stringliteral">&quot;Started database connection pool.&quot;</span>);</div>
-<div class="line"><span class="lineno">  124</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  125</span>}</div>
-<div class="ttc" id="aa04235_html_a2cf25eafe7f2f73b61ccde11d55daf0c"><div class="ttname"><a href="../../de/d93/a04235.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; LoginDatabaseConnection &gt; LoginDatabase</div><div class="ttdoc">Accessor to the realm/login database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:22</div></div>
-<div class="ttc" id="aa04235_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../de/d93/a04235.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:21</div></div>
-<div class="ttc" id="aa04235_html_afa9a6509f9913c9c7dd3081523badd7c"><div class="ttname"><a href="../../de/d93/a04235.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; WorldDatabaseConnection &gt; WorldDatabase</div><div class="ttdoc">Accessor to the world database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:20</div></div>
-<div class="ttc" id="aa04817_html_a70b74137156f0a22792c3cf95c54decc"><div class="ttname"><a href="../../db/da7/a04817.html#a70b74137156f0a22792c3cf95c54decc">MySQL::Library_Init</a></div><div class="ttdeci">AC_DATABASE_API void Library_Init()</div><div class="ttdef"><b>Definition:</b> MySQLThreading.cpp:21</div></div>
-<div class="ttc" id="aa05708_html"><div class="ttname"><a href="../../d2/d02/a05708.html">DatabaseLoader</a></div><div class="ttdef"><b>Definition:</b> DatabaseLoader.h:33</div></div>
-<div class="ttc" id="aa05708_html_a90e78741afab5e8acae41e24ba256675"><div class="ttname"><a href="../../d2/d02/a05708.html#a90e78741afab5e8acae41e24ba256675">DatabaseLoader::AddDatabase</a></div><div class="ttdeci">DatabaseLoader &amp; AddDatabase(DatabaseWorkerPool&lt; T &gt; &amp;pool, std::string const &amp;name)</div><div class="ttdef"><b>Definition:</b> DatabaseLoader.cpp:35</div></div>
-<div class="ttc" id="aa05708_html_ab0ffcdb400e9e5d80598f89dddb3bea8"><div class="ttname"><a href="../../d2/d02/a05708.html#ab0ffcdb400e9e5d80598f89dddb3bea8">DatabaseLoader::Load</a></div><div class="ttdeci">bool Load()</div><div class="ttdef"><b>Definition:</b> DatabaseLoader.cpp:154</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">DatabaseLoader::AddDatabase()</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00046">DatabaseLoader::DATABASE_NONE</a>, <a class="el" href="../../#l00021">MySQL::Library_Init()</a>, <a class="el" href="../../#l00154">DatabaseLoader::Load()</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00047">main()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00072">AddsValueBeyondDBC()</a>, and <a class="el" href="../../#l00045">ToSpellProcEntry()</a>.</p>
 
 </div>
 </div>
-<a id="a927af1587546ee7503a3b9a18f6439c0" name="a927af1587546ee7503a3b9a18f6439c0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a927af1587546ee7503a3b9a18f6439c0">&#9670;&#160;</a></span>StopDB()</h2>
+<a id="a9e4e897bb784e63d991e76f8efd393ab" name="a9e4e897bb784e63d991e76f8efd393ab"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9e4e897bb784e63d991e76f8efd393ab">&#9670;&#160;</a></span>Chance</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void StopDB </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname">float SpellProcTestEntry::Chance</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p>Close the connection to the database. </p>
-<div class="fragment"><div class="line"><span class="lineno">  129</span>{</div>
-<div class="line"><span class="lineno">  130</span>    <a class="code hl_variable" href="../../de/d93/a04235.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Close();</div>
-<div class="line"><span class="lineno">  131</span>    <a class="code hl_variable" href="../../de/d93/a04235.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a>.Close();</div>
-<div class="line"><span class="lineno">  132</span>    <a class="code hl_variable" href="../../de/d93/a04235.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Close();</div>
-<div class="line"><span class="lineno">  133</span>    <a class="code hl_function" href="../../db/da7/a04817.html#aff44554b66bd7ef0e21f1db5beb0b81a">MySQL::Library_End</a>();</div>
-<div class="line"><span class="lineno">  134</span>}</div>
-<div class="ttc" id="aa04817_html_aff44554b66bd7ef0e21f1db5beb0b81a"><div class="ttname"><a href="../../db/da7/a04817.html#aff44554b66bd7ef0e21f1db5beb0b81a">MySQL::Library_End</a></div><div class="ttdeci">AC_DATABASE_API void Library_End()</div><div class="ttdef"><b>Definition:</b> MySQLThreading.cpp:26</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00026">MySQL::Library_End()</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00072">AddsValueBeyondDBC()</a>, and <a class="el" href="../../#l00045">ToSpellProcEntry()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00047">main()</a>.</p>
+</div>
+</div>
+<a id="a1795067c9622f90fe10afaa9086729d2" name="a1795067c9622f90fe10afaa9086729d2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1795067c9622f90fe10afaa9086729d2">&#9670;&#160;</a></span>Charges</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint8_t SpellProcTestEntry::Charges</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00072">AddsValueBeyondDBC()</a>, and <a class="el" href="../../#l00045">ToSpellProcEntry()</a>.</p>
+
+</div>
+</div>
+<a id="a8ae054e7700edebf204b6b9d5285b570" name="a8ae054e7700edebf204b6b9d5285b570"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8ae054e7700edebf204b6b9d5285b570">&#9670;&#160;</a></span>Cooldown</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t SpellProcTestEntry::Cooldown</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00072">AddsValueBeyondDBC()</a>, and <a class="el" href="../../#l00045">ToSpellProcEntry()</a>.</p>
+
+</div>
+</div>
+<a id="a687725337f68ab28c9f862997666b979" name="a687725337f68ab28c9f862997666b979"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a687725337f68ab28c9f862997666b979">&#9670;&#160;</a></span>DBC_ProcChance</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t SpellProcTestEntry::DBC_ProcChance</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00072">AddsValueBeyondDBC()</a>, and <a class="el" href="../../#l00096">HasDBCData()</a>.</p>
+
+</div>
+</div>
+<a id="a674bdd693e94bea55c93985a04a3cde5" name="a674bdd693e94bea55c93985a04a3cde5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a674bdd693e94bea55c93985a04a3cde5">&#9670;&#160;</a></span>DBC_ProcCharges</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t SpellProcTestEntry::DBC_ProcCharges</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00072">AddsValueBeyondDBC()</a>, and <a class="el" href="../../#l00096">HasDBCData()</a>.</p>
+
+</div>
+</div>
+<a id="aba345f90612d66a1ae8ff83b863c3752" name="aba345f90612d66a1ae8ff83b863c3752"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aba345f90612d66a1ae8ff83b863c3752">&#9670;&#160;</a></span>DBC_ProcFlags</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t SpellProcTestEntry::DBC_ProcFlags</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00072">AddsValueBeyondDBC()</a>, and <a class="el" href="../../#l00096">HasDBCData()</a>.</p>
+
+</div>
+</div>
+<a id="a255f45e42d9ad7f4a1a71b12289f6280" name="a255f45e42d9ad7f4a1a71b12289f6280"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a255f45e42d9ad7f4a1a71b12289f6280">&#9670;&#160;</a></span>DisableEffectsMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint8_t SpellProcTestEntry::DisableEffectsMask</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00072">AddsValueBeyondDBC()</a>, and <a class="el" href="../../#l00045">ToSpellProcEntry()</a>.</p>
+
+</div>
+</div>
+<a id="aac7528939d9f28432649a5e947cb112b" name="aac7528939d9f28432649a5e947cb112b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aac7528939d9f28432649a5e947cb112b">&#9670;&#160;</a></span>HitMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t SpellProcTestEntry::HitMask</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00072">AddsValueBeyondDBC()</a>, <a class="el" href="../../#l00153">SpellProcDatabaseTest::GetEffectiveHitMask()</a>, and <a class="el" href="../../#l00045">ToSpellProcEntry()</a>.</p>
+
+</div>
+</div>
+<a id="ac62ba46b22a759991731a15b17ccf3d9" name="ac62ba46b22a759991731a15b17ccf3d9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac62ba46b22a759991731a15b17ccf3d9">&#9670;&#160;</a></span>ProcFlags</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t SpellProcTestEntry::ProcFlags</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00045">ToSpellProcEntry()</a>.</p>
+
+</div>
+</div>
+<a id="a1005dd21ca315c4ee18cc1f0b1147590" name="a1005dd21ca315c4ee18cc1f0b1147590"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1005dd21ca315c4ee18cc1f0b1147590">&#9670;&#160;</a></span>ProcsPerMinute</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float SpellProcTestEntry::ProcsPerMinute</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00072">AddsValueBeyondDBC()</a>, and <a class="el" href="../../#l00045">ToSpellProcEntry()</a>.</p>
+
+</div>
+</div>
+<a id="ab76502dd0f6d6e9fa8608800547b097c" name="ab76502dd0f6d6e9fa8608800547b097c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab76502dd0f6d6e9fa8608800547b097c">&#9670;&#160;</a></span>SchoolMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t SpellProcTestEntry::SchoolMask</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00072">AddsValueBeyondDBC()</a>, and <a class="el" href="../../#l00045">ToSpellProcEntry()</a>.</p>
+
+</div>
+</div>
+<a id="a8b316b64763de61fabe8eee119a3c33b" name="a8b316b64763de61fabe8eee119a3c33b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8b316b64763de61fabe8eee119a3c33b">&#9670;&#160;</a></span>SpellFamilyMask0</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t SpellProcTestEntry::SpellFamilyMask0</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00072">AddsValueBeyondDBC()</a>, and <a class="el" href="../../#l00045">ToSpellProcEntry()</a>.</p>
+
+</div>
+</div>
+<a id="a0f2454783d5fcd2b751b40b8e32d8476" name="a0f2454783d5fcd2b751b40b8e32d8476"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0f2454783d5fcd2b751b40b8e32d8476">&#9670;&#160;</a></span>SpellFamilyMask1</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t SpellProcTestEntry::SpellFamilyMask1</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00072">AddsValueBeyondDBC()</a>, and <a class="el" href="../../#l00045">ToSpellProcEntry()</a>.</p>
+
+</div>
+</div>
+<a id="a74093101a8fe41b8bb641da9957d6ef2" name="a74093101a8fe41b8bb641da9957d6ef2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a74093101a8fe41b8bb641da9957d6ef2">&#9670;&#160;</a></span>SpellFamilyMask2</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t SpellProcTestEntry::SpellFamilyMask2</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00072">AddsValueBeyondDBC()</a>, and <a class="el" href="../../#l00045">ToSpellProcEntry()</a>.</p>
+
+</div>
+</div>
+<a id="a11a0c26f6d3e6f3b8e47e1c968841094" name="a11a0c26f6d3e6f3b8e47e1c968841094"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a11a0c26f6d3e6f3b8e47e1c968841094">&#9670;&#160;</a></span>SpellFamilyName</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t SpellProcTestEntry::SpellFamilyName</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00201">SpellProcDatabaseTest::RequiresSpellFamilyMatch()</a>, and <a class="el" href="../../#l00045">ToSpellProcEntry()</a>.</p>
+
+</div>
+</div>
+<a id="ad78ff047d8971788febae990abc86698" name="ad78ff047d8971788febae990abc86698"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad78ff047d8971788febae990abc86698">&#9670;&#160;</a></span>SpellId</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int32_t SpellProcTestEntry::SpellId</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ab2356da98d2b2c9d250d1c86056a427c" name="ab2356da98d2b2c9d250d1c86056a427c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab2356da98d2b2c9d250d1c86056a427c">&#9670;&#160;</a></span>SpellPhaseMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t SpellProcTestEntry::SpellPhaseMask</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00072">AddsValueBeyondDBC()</a>, <a class="el" href="../../#l00187">SpellProcDatabaseTest::GetEffectiveSpellPhaseMask()</a>, and <a class="el" href="../../#l00045">ToSpellProcEntry()</a>.</p>
+
+</div>
+</div>
+<a id="a8ac8ca4ac8ed7eb60de720bb0bac36b1" name="a8ac8ca4ac8ed7eb60de720bb0bac36b1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8ac8ca4ac8ed7eb60de720bb0bac36b1">&#9670;&#160;</a></span>SpellTypeMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t SpellProcTestEntry::SpellTypeMask</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00072">AddsValueBeyondDBC()</a>, <a class="el" href="../../#l00170">SpellProcDatabaseTest::GetEffectiveSpellTypeMask()</a>, and <a class="el" href="../../#l00045">ToSpellProcEntry()</a>.</p>
 
 </div>
 </div>
@@ -416,8 +646,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_ac5beb3152ba3ce8038adbba12e192c7.html">tools</a></li><li class="navelem"><a class="el" href="../../dir_641f68e763fd61f0f25b36c08d43d6d4.html">dbimport</a></li><li class="navelem"><a class="el" href="../../da/deb/a29696.html">Main.cpp</a></li>
-    <li class="footer">Generated on Mon Aug 25 2025 20:46:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:16:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

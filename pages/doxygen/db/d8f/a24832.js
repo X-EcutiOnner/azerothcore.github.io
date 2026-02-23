@@ -1,9 +1,8 @@
 var a24832 =
 [
-    [ "Absorb", "db/d8f/a24832.html#ae5101c9adc7b9d09daf9c78d5e6d9d14", null ],
-    [ "CalculateAmount", "db/d8f/a24832.html#a0e88abc0dfc1f0aa5c52f3602f99d45a", null ],
-    [ "Load", "db/d8f/a24832.html#ab7eae0747736dea5633ef51eb0945fae", null ],
-    [ "PrepareAuraScript", "db/d8f/a24832.html#a760b72149ee11ad88e290c9537b3094b", null ],
-    [ "Register", "db/d8f/a24832.html#a0d25efee128ee95f9ad268b53358f376", null ],
-    [ "absorbPct", "db/d8f/a24832.html#a31091ef6a0d39e1d498420a85f6c84fa", null ]
+    [ "CheckProc", "db/d8f/a24832.html#a1b9f36ea8dae6ad947a75bbe23f7fc2d", null ],
+    [ "HandleProc", "db/d8f/a24832.html#a506420e3e109bf8f4e7c83b101c80c3c", null ],
+    [ "PrepareAuraScript", "db/d8f/a24832.html#a5e81587c47cbb6f331b6d5f8f22d7616", null ],
+    [ "Register", "db/d8f/a24832.html#a38de7578466df47ebe6fc7b5bfab616b", null ],
+    [ "Validate", "db/d8f/a24832.html#ad81044da0924211cbbaccc671839983c", null ]
 ];

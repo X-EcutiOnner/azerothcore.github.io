@@ -1,10 +1,7 @@
 var a25268 =
 [
-    [ "Load", "d1/da2/a25268.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
-    [ "OnApply", "d1/da2/a25268.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
-    [ "OnRemove", "d1/da2/a25268.html#a29834c598d6ef8299d54e48a3461e603", null ],
-    [ "PrepareAuraScript", "d1/da2/a25268.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
-    [ "Register", "d1/da2/a25268.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
-    [ "Validate", "d1/da2/a25268.html#aeaf16594f569af671d221234a4aa2c8b", null ],
-    [ "prevItem", "d1/da2/a25268.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
+    [ "HandleStun", "d1/da2/a25268.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
+    [ "PrepareAuraScript", "d1/da2/a25268.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
+    [ "Register", "d1/da2/a25268.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
+    [ "Validate", "d1/da2/a25268.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
 ];

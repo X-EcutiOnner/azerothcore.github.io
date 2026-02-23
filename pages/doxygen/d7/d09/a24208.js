@@ -1,9 +1,7 @@
 var a24208 =
 [
-    [ "npc_aeranasAI", "d7/d09/a24208.html#a2142cebc84e64919fa5c2ef630453282", null ],
-    [ "Reset", "d7/d09/a24208.html#a2c1bbe079c065745782adfa13b030515", null ],
-    [ "UpdateAI", "d7/d09/a24208.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
-    [ "envelopingWinds_Timer", "d7/d09/a24208.html#a566b5d648abe630efc191f9d6d4938a2", null ],
-    [ "faction_Timer", "d7/d09/a24208.html#aac071887c100f91cc7ffc545ea6439d9", null ],
-    [ "shock_Timer", "d7/d09/a24208.html#aba8ad016f0e470b07163fef07b603380", null ]
+    [ "HandleEffectRemove", "d7/d09/a24208.html#a63c0fede080591df9ebf8b3de2cd2fc3", null ],
+    [ "PrepareAuraScript", "d7/d09/a24208.html#a19ce53b5731b0789896612fa55f38849", null ],
+    [ "Register", "d7/d09/a24208.html#a7d60c5b18bbf77a18ab683a101782ada", null ],
+    [ "Validate", "d7/d09/a24208.html#ae3c3c1bce38882cd5de32295813b1a47", null ]
 ];

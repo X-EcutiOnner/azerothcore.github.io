@@ -1,25 +1,11 @@
 var a17532 =
 [
-    [ "boss_prince_taldaramAI", "d0/d5e/a17532.html#a8887ecc2d5eae177dbc7adbd087b9c7e", null ],
-    [ "DamageDealt", "d0/d5e/a17532.html#a7fdce83dce5c425aa6ba266860808f8a", null ],
-    [ "DamageTaken", "d0/d5e/a17532.html#aeb85f808b766fb8e7a27c778c25b79f0", null ],
-    [ "DoAction", "d0/d5e/a17532.html#ace782c6784cccf5dee01aa4de57ca0fb", null ],
-    [ "EnterEvadeMode", "d0/d5e/a17532.html#a145d62ce132c3cdaeb7918790122967b", null ],
-    [ "InitializeAI", "d0/d5e/a17532.html#a86ffd0e0da7bff506bad5508c32de505", null ],
-    [ "JustDied", "d0/d5e/a17532.html#a5433de81912a208ea79533e0650d8687", null ],
-    [ "JustEngagedWith", "d0/d5e/a17532.html#ae9b82e54daa62b196c6064143253b0d7", null ],
-    [ "JustReachedHome", "d0/d5e/a17532.html#a448dcc055b5a4f57b6ad1ed09a4e19de", null ],
-    [ "JustRespawned", "d0/d5e/a17532.html#a692da5cd278c64a6e14c9a997e02a433", null ],
-    [ "JustSummoned", "d0/d5e/a17532.html#af62d0d20e8f7f312c1cd57ba3816bf70", null ],
-    [ "KilledUnit", "d0/d5e/a17532.html#a1b3b2ce6d33becceb9a0426932b351be", null ],
-    [ "Reset", "d0/d5e/a17532.html#acb777001e906749c81328df787732938", null ],
-    [ "SpellHit", "d0/d5e/a17532.html#ae6258962c56bb67fdc09abe695a48fd7", null ],
-    [ "SummonedCreatureDespawn", "d0/d5e/a17532.html#af512a9920b3e21641776197a570d87fa", null ],
-    [ "UpdateAI", "d0/d5e/a17532.html#a1c15de4b477bbab2bb7d73df9f524d77", null ],
-    [ "_canDie", "d0/d5e/a17532.html#aabe7cd8c61d97e1b3ea5a5736245aba0", null ],
-    [ "_evading", "d0/d5e/a17532.html#a9dd90a58ca89477b9d18e3931edfec45", null ],
-    [ "_isEmpowered", "d0/d5e/a17532.html#af5299914d228a49622524c13a63bb5cb", null ],
-    [ "events", "d0/d5e/a17532.html#ae6e957dbd34e2c10d26875647faabe6b", null ],
-    [ "instance", "d0/d5e/a17532.html#a45e9131b837b3967cc5b8d08ce7946cd", null ],
-    [ "summons", "d0/d5e/a17532.html#aa198916309f31e243afc879c289269f8", null ]
+    [ "npc_pos_leader_secondAI", "d0/d5e/a17532.html#a2ded8591da2548921cd016d592d1f1c8", null ],
+    [ "DoAction", "d0/d5e/a17532.html#a941d3b42d6a0e58496b724af56fee44a", null ],
+    [ "MovementInform", "d0/d5e/a17532.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
+    [ "SpellHitTarget", "d0/d5e/a17532.html#ae630b7b225379831d15a11f66507bc6a", null ],
+    [ "UpdateAI", "d0/d5e/a17532.html#a640aea9ce4a47dd13d417748e533fc33", null ],
+    [ "barrierGUID", "d0/d5e/a17532.html#a452c096475581c12bf2f4ccb12448026", null ],
+    [ "events", "d0/d5e/a17532.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
+    [ "pInstance", "d0/d5e/a17532.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
 ];

@@ -1,6 +1,8 @@
 var a23388 =
 [
-    [ "FilterTargets", "dc/dc0/a23388.html#ac20676c292d87276e444bad56d71960d", null ],
-    [ "PrepareSpellScript", "dc/dc0/a23388.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
-    [ "Register", "dc/dc0/a23388.html#ae356b768872de3e87806c19bf8cccb08", null ]
+    [ "ApplyStun", "dc/dc0/a23388.html#a5a5b921dc45418485919e599e80f8ca8", null ],
+    [ "HandleScriptEffect", "dc/dc0/a23388.html#a32619710179250a6a0b408856a888153", null ],
+    [ "PrepareSpellScript", "dc/dc0/a23388.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
+    [ "Register", "dc/dc0/a23388.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
+    [ "Validate", "dc/dc0/a23388.html#a66d91a87078c663903cd836344eec867", null ]
 ];

@@ -1,7 +1,8 @@
 var a26536 =
 [
-    [ "if", "d2/d55/a26536.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
-    [ "PrepareAuraScript", "d2/d55/a26536.html#aa31810077c241e77193e378cb297b7de", null ],
-    [ "Register", "d2/d55/a26536.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
-    [ "AuraEffectHandleModes", "d2/d55/a26536.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
+    [ "ApplyPermafrost", "d2/d55/a26536.html#a06bb458e038b97696362681a6fd28104", null ],
+    [ "PrepareAuraScript", "d2/d55/a26536.html#a3d96d6f5f798efc92572e2a52349102d", null ],
+    [ "Register", "d2/d55/a26536.html#a613e5af53064357f4e8e4d6260c6856a", null ],
+    [ "RemovePermafrost", "d2/d55/a26536.html#a9414746a76f53a5258cf617abefd5bd6", null ],
+    [ "Validate", "d2/d55/a26536.html#addd58a0138e3cdb5cb274c8a38151a45", null ]
 ];

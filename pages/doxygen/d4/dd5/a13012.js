@@ -1,11 +1,8 @@
 var a13012 =
 [
-    [ "npc_demon_chain", "d4/dd5/a13012.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
-    [ "AttackStart", "d4/dd5/a13012.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
-    [ "IsSummonedBy", "d4/dd5/a13012.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
-    [ "JustDied", "d4/dd5/a13012.html#a35d1b7de8612f11cdf61b9d663990686", null ],
-    [ "JustEngagedWith", "d4/dd5/a13012.html#a9743ebc31c5159a03889bfd40b09d749", null ],
-    [ "MoveInLineOfSight", "d4/dd5/a13012.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
-    [ "Reset", "d4/dd5/a13012.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
-    [ "sacrificeGUID", "d4/dd5/a13012.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
+    [ "npc_kernobeeAI", "d4/dd5/a13012.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
+    [ "SetGUID", "d4/dd5/a13012.html#ab704b138670279f6d731a6bb58ac6d10", null ],
+    [ "UpdateAI", "d4/dd5/a13012.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
+    [ "checkTimer", "d4/dd5/a13012.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
+    [ "playerGUID", "d4/dd5/a13012.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
 ];

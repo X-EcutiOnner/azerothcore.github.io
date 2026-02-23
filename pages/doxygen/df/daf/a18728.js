@@ -1,14 +1,8 @@
 var a18728 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "df/daf/a18728.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
-    [ "AttackStart", "df/daf/a18728.html#a5457c18c60a8301ea60ef34d810a14c9", null ],
-    [ "CanAIAttack", "df/daf/a18728.html#aaf12ae21dddfa6b47ffa7880f65487a4", null ],
-    [ "DoAction", "df/daf/a18728.html#abbd08537ed245084ca7d4cf852a749a2", null ],
-    [ "EnterEvadeMode", "df/daf/a18728.html#a32bd4ed61bc62206ccedcf4acaeb8df8", null ],
-    [ "JustEngagedWith", "df/daf/a18728.html#ad7385306f8058699ee004b7bc5f1b538", null ],
-    [ "JustReachedHome", "df/daf/a18728.html#a2ae1c178a84c6d6899cf6400cb963e44", null ],
-    [ "MoveInLineOfSight", "df/daf/a18728.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
-    [ "Reset", "df/daf/a18728.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ],
-    [ "UpdateAI", "df/daf/a18728.html#a89ce158e08b3da1e54b0be6caa3950b8", null ],
-    [ "checkTimer", "df/daf/a18728.html#ae5c238e2e201c431ceccc59a3a26078b", null ]
+    [ "ChangeDamageAndGrow", "df/daf/a18728.html#a017ade08eca93f326d2e5115c4d88c33", null ],
+    [ "CorrectRange", "df/daf/a18728.html#a9022b9efab89bc562428520b3551ff37", null ],
+    [ "PrepareSpellScript", "df/daf/a18728.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
+    [ "Register", "df/daf/a18728.html#a998b810cdbecbca2bf65f18cee14d286", null ],
+    [ "Validate", "df/daf/a18728.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
 ];

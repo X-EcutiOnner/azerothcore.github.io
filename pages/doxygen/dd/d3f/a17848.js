@@ -1,17 +1,12 @@
 var a17848 =
 [
-    [ "npc_gunship_boarding_addAI", "dd/d3f/a17848.html#accf0e65592983cc0199cb445aea55f99", null ],
-    [ "CanAIAttack", "dd/d3f/a17848.html#a7d30e525342d1cb13103a4d7ebe1bb39", null ],
-    [ "DamageTaken", "dd/d3f/a17848.html#a3b4eac0143e3c9eb2730c9bcf54f90b0", null ],
-    [ "EnterEvadeMode", "dd/d3f/a17848.html#a5350433e352e0302d03c750a143880cf", null ],
-    [ "MovementInform", "dd/d3f/a17848.html#aa2bd88e4539ddc99f888d41fcb78c383", null ],
-    [ "SetData", "dd/d3f/a17848.html#a4fd0655356a2f9b5820e0f42f267715e", null ],
-    [ "SetSlotInfo", "dd/d3f/a17848.html#adb50c92c76763733dbec025769d62a40", null ],
-    [ "UpdateAI", "dd/d3f/a17848.html#af25bee85b38d70d1b792d7c1752e45f5", null ],
-    [ "_usedDesperateResolve", "dd/d3f/a17848.html#aaf154d9774154e868d563b3c47916746", null ],
-    [ "anyValid", "dd/d3f/a17848.html#a7fafebb9c6076dbe7fc621788910f63b", null ],
-    [ "checkTimer", "dd/d3f/a17848.html#a9a6b6d68743b1e1e993fa32435ba6722", null ],
-    [ "Index", "dd/d3f/a17848.html#a18b570e7bae0e2c4d0dcfc788d9deec3", null ],
-    [ "Instance", "dd/d3f/a17848.html#a07eeeedf7c1315a41c073cfc83361c9f", null ],
-    [ "Slot", "dd/d3f/a17848.html#a1aef6abcddaca26da2d09d3d2e6e1152", null ]
+    [ "npc_high_overlord_saurfangAI", "dd/d3f/a17848.html#a5c31259d9eb26e09d2b645d826e75328", null ],
+    [ "DoAction", "dd/d3f/a17848.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
+    [ "MovementInform", "dd/d3f/a17848.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
+    [ "Reset", "dd/d3f/a17848.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
+    [ "SpellHit", "dd/d3f/a17848.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
+    [ "UpdateAI", "dd/d3f/a17848.html#a92124e7490a066bf63836397a3bdc71b", null ],
+    [ "_events", "dd/d3f/a17848.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
+    [ "_guardList", "dd/d3f/a17848.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
+    [ "_instance", "dd/d3f/a17848.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
 ];

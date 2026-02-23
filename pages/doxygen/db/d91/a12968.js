@@ -1,5 +1,6 @@
 var a12968 =
 [
-    [ "at_karazhan_atiesh_aran", "db/d91/a12968.html#ac84f5848b8a26cbfdd2544108567a6cc", null ],
-    [ "OnTrigger", "db/d91/a12968.html#a5a6646c573b6e0bab0cbc288e594979e", null ]
+    [ "npc_mc_core_houndAI", "dc/dd6/a12972.html", "dc/dd6/a12972" ],
+    [ "npc_mc_core_hound", "db/d91/a12968.html#aee1ef71447dbd1494de5e0065bd5ae78", null ],
+    [ "GetAI", "db/d91/a12968.html#a3aa8c5332b509b4d5498cd726ab47e40", null ]
 ];

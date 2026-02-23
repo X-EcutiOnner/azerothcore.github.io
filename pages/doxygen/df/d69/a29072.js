@@ -1,9 +1,6 @@
 var a29072 =
 [
-    [ "Flags", "df/d69/a29072.html#a4471edebd870d3dfaaf34292341e5f60", null ],
-    [ "Id", "df/d69/a29072.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
-    [ "Position", "df/d69/a29072.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
-    [ "Rotation", "df/d69/a29072.html#a986c3ea05d510db03ec969f0d116fb34", null ],
-    [ "Scale", "df/d69/a29072.html#af8bcb02c541b9261dbf879353ba6893a", null ],
-    [ "UniqueId", "df/d69/a29072.html#a374c9893af515badc54b22b2a4d5e024", null ]
+    [ "Id", "df/d69/a29072.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
+    [ "Order", "df/d69/a29072.html#a16fca42d9a0a98e034a93984c4362b53", null ],
+    [ "TypeFlags", "df/d69/a29072.html#ac7246adc7c6c3217de8ac093983b7553", null ]
 ];

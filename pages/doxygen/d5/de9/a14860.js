@@ -1,6 +1,5 @@
 var a14860 =
 [
-    [ "HandleTriggerSpell", "d5/de9/a14860.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
-    [ "PrepareSpellScript", "d5/de9/a14860.html#a76a070da8e719198463010499f595599", null ],
-    [ "Register", "d5/de9/a14860.html#ae237c4972167a5a17b59800983496a9d", null ]
+    [ "go_pumpkin_shrine", "d5/de9/a14860.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
+    [ "OnGossipSelect", "d5/de9/a14860.html#a35763a67d39c1d68974a9602ce26b699", null ]
 ];

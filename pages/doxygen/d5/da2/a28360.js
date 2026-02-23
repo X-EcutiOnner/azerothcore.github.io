@@ -1,13 +1,8 @@
 var a28360 =
 [
-    [ "HasFlag", "d5/da2/a28360.html#a5d13e1af17cddf3acdbfc5387869e43f", null ],
-    [ "CinematicSequence", "d5/da2/a28360.html#a33a01b1c26b21706d9898af246f2a0df", null ],
-    [ "expansion", "d5/da2/a28360.html#ab6547f8b08d4d1bf57a37f9574b71e43", null ],
-    [ "FactionID", "d5/da2/a28360.html#a5c66801f2f89aeb847699a2dd87486c7", null ],
-    [ "Flags", "d5/da2/a28360.html#a8c2d30fb87284806a93d4c1da4a6edb0", null ],
-    [ "model_f", "d5/da2/a28360.html#a4807227fd863e247b18d29db0ea8236a", null ],
-    [ "model_m", "d5/da2/a28360.html#a50b5409352d7fe3e6f5919d83c9a0eae", null ],
-    [ "name", "d5/da2/a28360.html#a4970323e45feb3f74b47420648371ab6", null ],
-    [ "RaceID", "d5/da2/a28360.html#a853f3262af3408cf2791e7cd08ec8d32", null ],
-    [ "TeamID", "d5/da2/a28360.html#addd21f5fbf6868e7cf2cd3c54c7172a1", null ]
+    [ "npc_nelsonAI", "d9/db6/a28364.html", "d9/db6/a28364" ],
+    [ "npc_nelson", "d5/da2/a28360.html#ada597926a6db1aa7823ddabc19945b11", null ],
+    [ "GetAI", "d5/da2/a28360.html#a75fea281fb49249345c48236bf44b1c8", null ],
+    [ "OnGossipHello", "d5/da2/a28360.html#aa693b365a15d4617f214f9c3c229bf89", null ],
+    [ "OnGossipSelect", "d5/da2/a28360.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
 ];

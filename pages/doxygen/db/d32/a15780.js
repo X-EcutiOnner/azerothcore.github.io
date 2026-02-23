@@ -1,6 +1,8 @@
 var a15780 =
 [
-    [ "npc_omenAI", "d6/d25/a15784.html", "d6/d25/a15784" ],
-    [ "npc_omen", "db/d32/a15780.html#aff955303a8b9741838779a59dd496f62", null ],
-    [ "GetAI", "db/d32/a15780.html#a8023ad3298000d9819c46f46a93166d4", null ]
+    [ "npc_death_ravagerAI", "db/d32/a15780.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "db/d32/a15780.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "db/d32/a15780.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "db/d32/a15780.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "db/d32/a15780.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

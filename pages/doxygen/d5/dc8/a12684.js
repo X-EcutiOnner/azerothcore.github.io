@@ -1,7 +1,6 @@
 var a12684 =
 [
-    [ "HandleHit", "d5/dc8/a12684.html#a18f86449945ade16140ee934a7d8703e", null ],
-    [ "PrepareSpellScript", "d5/dc8/a12684.html#abaf09043858db27b05fbe544d7a15a8f", null ],
-    [ "Register", "d5/dc8/a12684.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
-    [ "Validate", "d5/dc8/a12684.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
+    [ "boss_ebonrocAI", "d4/d31/a12688.html", "d4/d31/a12688" ],
+    [ "boss_ebonroc", "d5/dc8/a12684.html#a3f71b5a687ab10a228e560429b8a4709", null ],
+    [ "GetAI", "d5/dc8/a12684.html#acf2dc7391e1f642dff3c7f56024aaea5", null ]
 ];

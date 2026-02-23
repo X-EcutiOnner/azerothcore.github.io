@@ -1,15 +1,10 @@
 var a12116 =
 [
-    [ "boss_vanndarAI", "de/dfe/a12116.html#ada061b4363340602fd1f4744433d9cf9", null ],
-    [ "AttackStart", "de/dfe/a12116.html#a76ab9327e04b82b534a9b3ea59b377d1", null ],
-    [ "EnterEvadeMode", "de/dfe/a12116.html#a9ba6e2620a25728bf30d4d813a82b781", null ],
-    [ "JustEngagedWith", "de/dfe/a12116.html#abde00baf4099361b8c26e6e0cf6c1517", null ],
-    [ "Reset", "de/dfe/a12116.html#a1c2fdf4351a43047f02bec1d46423cb8", null ],
-    [ "UpdateAI", "de/dfe/a12116.html#ab410ed8d64cd91bd6c4b78b2ed678eab", null ],
-    [ "Attacked", "de/dfe/a12116.html#ac5994c76a9d84cf303021a9298673d68", null ],
-    [ "AvatarTimer", "de/dfe/a12116.html#a3bed38b10a87baf50e9c9a57229bd464", null ],
-    [ "ResetTimer", "de/dfe/a12116.html#ae1c4e16cd9ad68e4700d68ed64baa8e2", null ],
-    [ "StormboltTimer", "de/dfe/a12116.html#a71ef70c1b504be2b00be1a70e85bc18a", null ],
-    [ "ThunderclapTimer", "de/dfe/a12116.html#a681a103b6cf937dad3fb15e5be358c26", null ],
-    [ "YellTimer", "de/dfe/a12116.html#a2b8503aaae0fd5e8cd92bb9650ee6ee3", null ]
+    [ "lfg_commandscript", "de/dfe/a12116.html#a90faaca821e4162e0aea40a4d98af62c", null ],
+    [ "GetCommands", "de/dfe/a12116.html#a324310f9b04675c277ceae44ea09fbaf", null ],
+    [ "HandleLfgCleanCommand", "de/dfe/a12116.html#a93db689dbdb97a0318d62409a863767e", null ],
+    [ "HandleLfgGroupInfoCommand", "de/dfe/a12116.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
+    [ "HandleLfgOptionsCommand", "de/dfe/a12116.html#a73187a97c883d8d1bb3765943dd98c39", null ],
+    [ "HandleLfgPlayerInfoCommand", "de/dfe/a12116.html#acdf12aff45f16904df5724ab158e3b97", null ],
+    [ "HandleLfgQueueInfoCommand", "de/dfe/a12116.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
 ];

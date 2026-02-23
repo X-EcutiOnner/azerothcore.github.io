@@ -1,7 +1,6 @@
 var a14148 =
 [
-    [ "OnPeriodic", "de/dd1/a14148.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
-    [ "PrepareAuraScript", "de/dd1/a14148.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
-    [ "Register", "de/dd1/a14148.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
-    [ "Validate", "de/dd1/a14148.html#a7ed214de6769314a45540e9afdb82949", null ]
+    [ "npc_parqual_fintallas", "de/dd1/a14148.html#a9edaf1f7cf4e81ce24c54faa4aed6cf6", null ],
+    [ "OnGossipHello", "de/dd1/a14148.html#af7c1f119d91aa63ee96765f2092b0a6c", null ],
+    [ "OnGossipSelect", "de/dd1/a14148.html#a39276ef82ec5214a1727ebd60235a506", null ]
 ];

@@ -1,8 +1,12 @@
 var a12128 =
 [
-    [ "ironhand_guardianAI", "d4/da6/a12128.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
-    [ "SetData", "d4/da6/a12128.html#ab4e6402951bf45910fb3399ea107b207", null ],
-    [ "UpdateAI", "d4/da6/a12128.html#a095b11f44935c8ddb43a20c095495507", null ],
-    [ "events", "d4/da6/a12128.html#a13ed887285809d2fcad0d23fdf37face", null ],
-    [ "flames_enabled", "d4/da6/a12128.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
+    [ "message_commandscript", "d4/da6/a12128.html#a2b0b67076e1cb4c51964d13ec4ab9829", null ],
+    [ "GetCommands", "d4/da6/a12128.html#a9fc83cb2d161a4158f98ec0b580bcc32", null ],
+    [ "HandleAnnounceCommand", "d4/da6/a12128.html#a85e2965e4a8fe01ba4a7775a28ef0005", null ],
+    [ "HandleGMAnnounceCommand", "d4/da6/a12128.html#ac927dceadf96feebf4301ea37b5aec1d", null ],
+    [ "HandleGMNameAnnounceCommand", "d4/da6/a12128.html#aa667bd6e81cf7c3dbabfa40d08c45475", null ],
+    [ "HandleGMNotifyCommand", "d4/da6/a12128.html#a0ff57aadce36fddb3c0d36adea8a3e28", null ],
+    [ "HandleNameAnnounceCommand", "d4/da6/a12128.html#a786902b70345712c6dba9f638695dd9e", null ],
+    [ "HandleNotifyCommand", "d4/da6/a12128.html#a0d53b2414931451b30abd2fe5acee1af", null ],
+    [ "HandleWhispersCommand", "d4/da6/a12128.html#a9a02c97677250136f9717968a9f47b73", null ]
 ];

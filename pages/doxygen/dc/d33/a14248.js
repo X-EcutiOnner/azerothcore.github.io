@@ -1,6 +1,7 @@
 var a14248 =
 [
-    [ "boss_grilekAI", "de/dc5/a14252.html", "de/dc5/a14252" ],
-    [ "boss_grilek", "dc/d33/a14248.html#acffe0061db18c5725c8c290822c5fed7", null ],
-    [ "GetAI", "dc/d33/a14248.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
+    [ "FilterTargets", "dc/d33/a14248.html#aebe9055301495dd3a21736b9a2a35f31", null ],
+    [ "HandleDamageCalc", "dc/d33/a14248.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
+    [ "PrepareSpellScript", "dc/d33/a14248.html#a03b8e21e58988d9fc774205263c0817f", null ],
+    [ "Register", "dc/d33/a14248.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
 ];

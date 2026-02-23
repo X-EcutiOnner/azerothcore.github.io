@@ -1,5 +1,8 @@
 var a27648 =
 [
-    [ "item_only_for_flight", "d6/d56/a27648.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
-    [ "OnUse", "d6/d56/a27648.html#a88cdf17a85630aef703f93143ba41d4d", null ]
+    [ "Load", "d6/d56/a27648.html#af6c19828b80a6cc06e4c9c207e7c52b8", null ],
+    [ "OnRemove", "d6/d56/a27648.html#a097cf2a2abecda1e89f85bc4bd4ec029", null ],
+    [ "PrepareAuraScript", "d6/d56/a27648.html#a2161d27a90b3f87fd07f75723b6d9e13", null ],
+    [ "Register", "d6/d56/a27648.html#a932760326c822f1b47df1afdec6bb9cb", null ],
+    [ "Validate", "d6/d56/a27648.html#a69bcfedb7f566c572201aadc9e75df08", null ]
 ];

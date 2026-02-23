@@ -1,11 +1,7 @@
 var a07432 =
 [
-    [ "BattlegroundABScore", "da/dfa/a07432.html#ae219ecb551c89ad5a5cb22f1996a598b", null ],
-    [ "BuildObjectivesBlock", "da/dfa/a07432.html#a86ac6e9b19eaa7ed257f25f9f73c22cf", null ],
-    [ "GetAttr1", "da/dfa/a07432.html#af0f066f76f4d84e844946862ae819b4f", null ],
-    [ "GetAttr2", "da/dfa/a07432.html#a8ac00679dd8dfeef81f159b7a2b22027", null ],
-    [ "UpdateScore", "da/dfa/a07432.html#a43aaefd97c8880cbf70381282d81f7cf", null ],
-    [ "BattlegroundAB", "da/dfa/a07432.html#ad5365fcb2edd84180065badd1572ba8e", null ],
-    [ "BasesAssaulted", "da/dfa/a07432.html#a25643abf67d1ae2f8498951c11833994", null ],
-    [ "BasesDefended", "da/dfa/a07432.html#a450504481d335230b3e035d4337694be", null ]
+    [ "ArenaSeasonReward", "da/dfa/a07432.html#ae0871effd7fcac1006d8a16f9c7d7d04", null ],
+    [ "operator==", "da/dfa/a07432.html#a2f04bbb871ab3b90f5dc3121e2bff213", null ],
+    [ "entry", "da/dfa/a07432.html#ab3144a4701e1ebd88a3a94544ee76cdf", null ],
+    [ "type", "da/dfa/a07432.html#ac4c8cff64cf2eb7f34d28080a2a5528b", null ]
 ];

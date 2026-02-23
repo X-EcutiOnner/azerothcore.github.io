@@ -1,6 +1,10 @@
 var a25552 =
 [
-    [ "HandleScript", "d0/d1f/a25552.html#a5a30dc1dad5b51af02043bd85c486a68", null ],
-    [ "PrepareSpellScript", "d0/d1f/a25552.html#a16c358062cee300e4c54f046a6c1accf", null ],
-    [ "Register", "d0/d1f/a25552.html#a1f53f1345c418f82c6d140cf6cf80b3c", null ]
+    [ "Load", "d0/d1f/a25552.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
+    [ "OnApply", "d0/d1f/a25552.html#a83d922c434442e22482410d61aa0198f", null ],
+    [ "OnPetApply", "d0/d1f/a25552.html#a6df5e59e29cb89310a1c78bf93029545", null ],
+    [ "OnRemove", "d0/d1f/a25552.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
+    [ "PrepareAuraScript", "d0/d1f/a25552.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
+    [ "Register", "d0/d1f/a25552.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
+    [ "Validate", "d0/d1f/a25552.html#ab318472ea9f4aaa79e45f18783586eed", null ]
 ];

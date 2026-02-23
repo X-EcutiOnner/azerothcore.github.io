@@ -1,9 +1,5 @@
 var a28276 =
 [
-    [ "HolidayWorldStateId", "d6/d18/a28276.html#a3f70ffbb1abb5a96fe91c2eec3682c8b", null ],
-    [ "id", "d6/d18/a28276.html#a52f7840f9247d2af63062dd280b37341", null ],
-    [ "mapid", "d6/d18/a28276.html#a11e1326eeb24b436b10db53acc323c13", null ],
-    [ "maxGroupSize", "d6/d18/a28276.html#adbdae47b424c3b61b76b48ea5798f52d", null ],
-    [ "name", "d6/d18/a28276.html#a9a56ca930ff8425d4b77066e47a1e09f", null ],
-    [ "type", "d6/d18/a28276.html#a647669b97599d7edf02b5a38dd1d5116", null ]
+    [ "item_incendiary_explosives", "d6/d18/a28276.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
+    [ "OnUse", "d6/d18/a28276.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
 ];

@@ -1,6 +1,6 @@
 var a12620 =
 [
-    [ "boss_vaelAI", "d6/dbc/a12624.html", "d6/dbc/a12624" ],
-    [ "boss_vaelastrasz", "d1/d72/a12620.html#a0b51f3b50cde4907bd9064e8bf51c005", null ],
-    [ "GetAI", "d1/d72/a12620.html#a42dde198f5fc0ab2e7ca28ac32c42b7e", null ]
+    [ "near_scarshield_infiltrator", "d1/d72/a12620.html#a38d2e75946c429b4d80b007f190406bc", null ],
+    [ "OnTrigger", "d1/d72/a12620.html#aeb761433e3210ce85c1de4dab653a87c", null ],
+    [ "whisperedTargets", "d1/d72/a12620.html#a5655e241d2551798a960cb6375c7df23", null ]
 ];

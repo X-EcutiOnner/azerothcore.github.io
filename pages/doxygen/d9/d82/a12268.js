@@ -1,5 +1,6 @@
 var a12268 =
 [
-    [ "boss_high_priestess_thaurissan", "d9/d82/a12268.html#a53d3fd78f6a1a3b5028c6fc2940dfbd0", null ],
-    [ "GetAI", "d9/d82/a12268.html#a7d2bb83a766b8eaa9bdbbb0f45a4fe62", null ]
+    [ "boss_vanndarAI", "d1/da9/a12272.html", "d1/da9/a12272" ],
+    [ "boss_vanndar", "d9/d82/a12268.html#a66d190d1b48fd2259a95d88235ffb7d2", null ],
+    [ "GetAI", "d9/d82/a12268.html#ad1879cc6123a323ada04c49a2c691349", null ]
 ];

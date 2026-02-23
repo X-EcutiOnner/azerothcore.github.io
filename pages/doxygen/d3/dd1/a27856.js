@@ -1,6 +1,6 @@
 var a27856 =
 [
-    [ "npc_steam_tonkAI", "d1/dbd/a27860.html", "d1/dbd/a27860" ],
-    [ "npc_steam_tonk", "d3/dd1/a27856.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
-    [ "GetAI", "d3/dd1/a27856.html#a38e51485a3610a204a45677fce15c943", null ]
+    [ "HandleProc", "d3/dd1/a27856.html#a72d56ccc2c6f0337fa68c2759d90c5d6", null ],
+    [ "PrepareAuraScript", "d3/dd1/a27856.html#a49a96d3aa0220b4ec77fb1a384826614", null ],
+    [ "Register", "d3/dd1/a27856.html#adf0852d1aad8097143df205a66a49f2f", null ]
 ];

@@ -1,5 +1,8 @@
 var a11392 =
 [
-    [ "effectMask", "d4/dc2/a11392.html#a3161ec2ffdf794c000cc94b91519d009", null ],
-    [ "item", "d4/dc2/a11392.html#afce5eba99c3dc33698dd12af8432f357", null ]
+    [ "ServerPktHeader", "d4/dc2/a11392.html#a761e294fccc02055a46bfc46656da706", null ],
+    [ "getHeaderLength", "d4/dc2/a11392.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
+    [ "isLargePacket", "d4/dc2/a11392.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
+    [ "header", "d4/dc2/a11392.html#adc69128832b16124c284c584e7540b11", null ],
+    [ "size", "d4/dc2/a11392.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
 ];

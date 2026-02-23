@@ -1,6 +1,6 @@
 var a17664 =
 [
-    [ "FilterTargets", "d9/dea/a17664.html#a59255a2cee0f9d8a75ca183647851779", null ],
-    [ "PrepareSpellScript", "d9/dea/a17664.html#af8d1cc9c709aeb3a68d1f452bb605c71", null ],
-    [ "Register", "d9/dea/a17664.html#a6b6dbeaa8feb8eac4441a87cdf371a36", null ]
+    [ "instance_gundrak_InstanceMapScript", "da/d40/a17668.html", "da/d40/a17668" ],
+    [ "instance_gundrak", "d9/dea/a17664.html#ad6acbbcd96740a011f2a72a63fb211c3", null ],
+    [ "GetInstanceScript", "d9/dea/a17664.html#a738b4ea54d1e0d7b1db90b9cc3a9c83c", null ]
 ];

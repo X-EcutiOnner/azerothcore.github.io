@@ -1,17 +1,21 @@
 var a04553 =
 [
-    [ "GetBranch", "d3/d56/a04553.html#a0353e7a37f6f7102283a92975eb1f56f", null ],
-    [ "GetBuildDirectory", "d3/d56/a04553.html#a51523316de8184739b710e472a8ce843", null ],
-    [ "GetCMakeCommand", "d3/d56/a04553.html#a9d2cbfd79c6c215859ddad44996a8a8c", null ],
-    [ "GetCMakeVersion", "d3/d56/a04553.html#a83b62eaf53be851b0bd82c3a00b934d1", null ],
-    [ "GetCompanyNameStr", "d3/d56/a04553.html#a72b700a0bbbdb2829e283fe892f1ba51", null ],
-    [ "GetDate", "d3/d56/a04553.html#a10817e6a26ea352c0f79233d2ef552a8", null ],
-    [ "GetFileVersionStr", "d3/d56/a04553.html#a631c2811f3f8b72a16dfa2ceb7c4cb42", null ],
-    [ "GetFullVersion", "d3/d56/a04553.html#ad68b75fc60314941c3cbade8eafcda23", null ],
-    [ "GetHash", "d3/d56/a04553.html#addcf1401768f04ea13a6e868d9580605", null ],
-    [ "GetHostOSVersion", "d3/d56/a04553.html#ad63ab422bd364927fa88a394e82fc2a7", null ],
-    [ "GetLegalCopyrightStr", "d3/d56/a04553.html#abd1a810f85a1f404d88e3f7e61cc85cc", null ],
-    [ "GetMySQLExecutable", "d3/d56/a04553.html#a13f3b200d2427f6546ebddd3b54b7fcf", null ],
-    [ "GetProductVersionStr", "d3/d56/a04553.html#abbfa02a4b9aba10f263252be4d3f48fc", null ],
-    [ "GetSourceDirectory", "d3/d56/a04553.html#a1062fcec3676f562803f4775d95a9594", null ]
+    [ "MmapTileRecastConfig", "d9/dab/a05164.html", "d9/dab/a05164" ],
+    [ "MmapTileHeader", "df/d18/a05168.html", "df/d18/a05168" ],
+    [ "MAX_NUMBER_OF_CELLS", "d3/d56/a04553.html#a2c6994ea025f427f1485c1c7aaee01fe", null ],
+    [ "MAX_NUMBER_OF_GRIDS", "d3/d56/a04553.html#a857252154f120575d940ffbdf63bace6", null ],
+    [ "MMAP_MAGIC", "d3/d56/a04553.html#af7a9a5e840ab3ad1c160e832500016d1", null ],
+    [ "MMAP_VERSION", "d3/d56/a04553.html#aea71555fdd0af33ccc21c76c67574421", null ],
+    [ "SIZE_OF_GRIDS", "d3/d56/a04553.html#a55c9adba46c0c14cd4ac80ab51228816", null ],
+    [ "NavTerrain", "d3/d56/a04553.html#a8a4d0b36dd46d60b691b894fb8c1c5db", [
+      [ "NAV_EMPTY", "d3/d56/a04553.html#a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5", null ],
+      [ "NAV_GROUND", "d3/d56/a04553.html#a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98", null ],
+      [ "NAV_MAGMA", "d3/d56/a04553.html#a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670", null ],
+      [ "NAV_SLIME", "d3/d56/a04553.html#a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75", null ],
+      [ "NAV_WATER", "d3/d56/a04553.html#a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1", null ],
+      [ "NAV_UNUSED1", "d3/d56/a04553.html#a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03", null ],
+      [ "NAV_UNUSED2", "d3/d56/a04553.html#a8a4d0b36dd46d60b691b894fb8c1c5dba4c61900269be6dee2e26cbeb4e09d0bb", null ],
+      [ "NAV_UNUSED3", "d3/d56/a04553.html#a8a4d0b36dd46d60b691b894fb8c1c5dba3055dd71ec523facb0cba2976316d530", null ],
+      [ "NAV_UNUSED4", "d3/d56/a04553.html#a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56", null ]
+    ] ]
 ];

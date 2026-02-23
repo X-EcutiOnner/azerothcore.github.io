@@ -1,6 +1,5 @@
 var a22432 =
 [
-    [ "npc_iron_watcherAI", "d0/d66/a22436.html", "d0/d66/a22436" ],
-    [ "npc_iron_watcher", "d1/dc0/a22432.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
-    [ "GetAI", "d1/dc0/a22432.html#af3b80b838e192737762ceed599b0be9a", null ]
+    [ "OutdoorPvP_hellfire_peninsula", "d1/dc0/a22432.html#a8ef74076d03225c889c6f027fbbfe25d", null ],
+    [ "GetOutdoorPvP", "d1/dc0/a22432.html#aee93a8191457d7a264053809a5c082e8", null ]
 ];

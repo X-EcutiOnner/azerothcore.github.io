@@ -1,19 +1,12 @@
 var a08360 =
 [
-    [ "GameObjectData", "d1/d53/a08360.html#a6b505cde2173265da5c3a504b68c552c", null ],
-    [ "animprogress", "d1/d53/a08360.html#aadec9e3088063532fd879fdaad3c3d74", null ],
-    [ "artKit", "d1/d53/a08360.html#a4e5d0f2b99f1bd87aa22c943594ce355", null ],
-    [ "dbData", "d1/d53/a08360.html#a0268f5ac8e2c0e18a1c225e074c990be", null ],
-    [ "go_state", "d1/d53/a08360.html#ae8c523cb24a55fcde5d8caac3f82dfd5", null ],
-    [ "id", "d1/d53/a08360.html#ae12c8c5e7b3c848a57960e4c51d76e84", null ],
-    [ "mapid", "d1/d53/a08360.html#ab4f0ed59a0ddc809fbfa1cd96d770d41", null ],
-    [ "orientation", "d1/d53/a08360.html#a2ac5b28981ef5b4bb4b5ccf52cc83f98", null ],
-    [ "phaseMask", "d1/d53/a08360.html#ac0918795bd3c37534ad7b7ac64256b16", null ],
-    [ "posX", "d1/d53/a08360.html#abe0de5925bbdc047e1b0fc3baff039b1", null ],
-    [ "posY", "d1/d53/a08360.html#adfb0111d7183eefd893e0cce7691a08e", null ],
-    [ "posZ", "d1/d53/a08360.html#a2b0581c5879b16ae7a4d471aa23d178c", null ],
-    [ "rotation", "d1/d53/a08360.html#a81da3cac2ac1a3cf71579b1da6873fe9", null ],
-    [ "ScriptId", "d1/d53/a08360.html#aef60d19e3edd35f2ddc82ab4684dbb2f", null ],
-    [ "spawnMask", "d1/d53/a08360.html#a8125fbacd3e701d19f9dcff04371f0db", null ],
-    [ "spawntimesecs", "d1/d53/a08360.html#a6afeb167bb136c3ddabcc350007788db", null ]
+    [ "GameObjectModelOwnerImpl", "d1/d53/a08360.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
+    [ "DebugVisualizeCorner", "d1/d53/a08360.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
+    [ "GetDisplayId", "d1/d53/a08360.html#a4a694456955c19e76d8c84befc02c920", null ],
+    [ "GetOrientation", "d1/d53/a08360.html#acb968e3bd921aac111a2e06f2604b040", null ],
+    [ "GetPhaseMask", "d1/d53/a08360.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
+    [ "GetPosition", "d1/d53/a08360.html#a9ba2b29d30b38895effe97637e050988", null ],
+    [ "GetScale", "d1/d53/a08360.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
+    [ "IsSpawned", "d1/d53/a08360.html#ae47eb25d16de37122042402443db6f3d", null ],
+    [ "_owner", "d1/d53/a08360.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
 ];

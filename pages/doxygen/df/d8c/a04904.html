@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: anonymous_namespace{ModuleMgr.cpp} Namespace Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/mocks/AuraScriptTestFramework.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,31 +105,110 @@ $(document).ready(function(){initNavTree('df/d8c/a04904.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">anonymous_namespace{ModuleMgr.cpp} Namespace Reference</div></div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#define-members">Macros</a>  </div>
+  <div class="headertitle"><div class="title">AuraScriptTestFramework.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">AuraStub.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DamageHealInfoStub.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ProcEventInfoHelper.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellInfoTestHelper.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">UnitStub.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
+<code>#include &quot;gmock/gmock.h&quot;</code><br />
+<code>#include &lt;memory&gt;</code><br />
+<code>#include &lt;vector&gt;</code><br />
+</div>
+<p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:aa8df8c5e3d2ad2852ea850d12636d578"><td class="memItemLeft" align="right" valign="top">std::string_view&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d8c/a04904.html#aa8df8c5e3d2ad2852ea850d12636d578">_modulesList</a> = {}</td></tr>
-<tr class="separator:aa8df8c5e3d2ad2852ea850d12636d578"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d7d/a29448.html">ProcTestResult</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Simulated proc result for testing.  <a href="../../d7/d7d/a29448.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html">ProcTestContext</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Context for a proc test scenario.  <a href="../../db/dd5/a29452.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de5/a29456.html">AuraScriptProcTestFixture</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Base fixture for <a class="el" href="../../d1/d05/a11716.html">AuraScript</a> proc testing.  <a href="../../de/de5/a29456.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Helper class for testing specific proc scenarios.  <a href="../../db/d08/a29460.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:ad89bc4ac2d1077d7e73a7e08336ff303"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d8c/a04904.html#ad89bc4ac2d1077d7e73a7e08336ff303">EXPECT_PROC_TRIGGERS</a>(procEntry,  scenario)</td></tr>
+<tr class="separator:ad89bc4ac2d1077d7e73a7e08336ff303"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab8dc66c27ffce0980153941e8e7ab701"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d8c/a04904.html#ab8dc66c27ffce0980153941e8e7ab701">EXPECT_PROC_DOES_NOT_TRIGGER</a>(procEntry,  scenario)</td></tr>
+<tr class="separator:ab8dc66c27ffce0980153941e8e7ab701"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="aa8df8c5e3d2ad2852ea850d12636d578" name="aa8df8c5e3d2ad2852ea850d12636d578"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa8df8c5e3d2ad2852ea850d12636d578">&#9670;&#160;</a></span>_modulesList</h2>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="ab8dc66c27ffce0980153941e8e7ab701" name="ab8dc66c27ffce0980153941e8e7ab701"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab8dc66c27ffce0980153941e8e7ab701">&#9670;&#160;</a></span>EXPECT_PROC_DOES_NOT_TRIGGER</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::string_view anonymous_namespace{ModuleMgr.cpp}::_modulesList = {}</td>
+          <td class="memname">#define EXPECT_PROC_DOES_NOT_TRIGGER</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">procEntry, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">scenario&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<b>Value:</b><div class="fragment"><div class="line">    <span class="keywordflow">do</span> { \</div>
+<div class="line">        <span class="keyword">auto</span> _eventInfo = (scenario).Build(); \</div>
+<div class="line">        EXPECT_FALSE(<a class="code hl_define" href="../../d0/dc2/a00104.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;CanSpellTriggerProcOnEvent(procEntry, _eventInfo)); \</div>
+<div class="line">    } <span class="keywordflow">while</span>(0)</div>
+<div class="ttc" id="aa00104_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../d0/dc2/a00104.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:814</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ad89bc4ac2d1077d7e73a7e08336ff303" name="ad89bc4ac2d1077d7e73a7e08336ff303"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad89bc4ac2d1077d7e73a7e08336ff303">&#9670;&#160;</a></span>EXPECT_PROC_TRIGGERS</h2>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00031">Acore::Module::GetEnableModulesList()</a>, and <a class="el" href="../../#l00026">Acore::Module::SetEnableModulesList()</a>.</p>
-
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define EXPECT_PROC_TRIGGERS</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">procEntry, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">scenario&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Value:</b><div class="fragment"><div class="line">    <span class="keywordflow">do</span> { \</div>
+<div class="line">        <span class="keyword">auto</span> _eventInfo = (scenario).Build(); \</div>
+<div class="line">        EXPECT_TRUE(<a class="code hl_define" href="../../d0/dc2/a00104.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;CanSpellTriggerProcOnEvent(procEntry, _eventInfo)); \</div>
+<div class="line">    } <span class="keywordflow">while</span>(0)</div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -137,8 +216,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/d8c/a04904.html">anonymous_namespace{ModuleMgr.cpp}</a></li>
-    <li class="footer">Generated on Mon Feb 16 2026 21:02:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_d35b7636bdd4a8db0bf316c0b0a1358d.html">mocks</a></li><li class="navelem"><a class="el" href="../../df/d8c/a04904.html">AuraScriptTestFramework.h</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:14:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

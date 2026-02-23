@@ -1,8 +1,10 @@
 var a26800 =
 [
-    [ "CheckCast", "dd/d20/a26800.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
-    [ "CheckQuest", "dd/d20/a26800.html#abc927d932c1d5e05eab1918364d68ed5", null ],
-    [ "HandleActiveObject", "dd/d20/a26800.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
-    [ "PrepareSpellScript", "dd/d20/a26800.html#a96e69476965cc2466213a5371a57093a", null ],
-    [ "Register", "dd/d20/a26800.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
+    [ "CheckProc", "dd/d20/a26800.html#adce0da60782bcdadbb42ec1c73fddec1", null ],
+    [ "HandleProc", "dd/d20/a26800.html#a82218c6f6319c60c26a7d4ec01b64bf9", null ],
+    [ "Load", "dd/d20/a26800.html#ab9054a6d771022e4bf2b495c30ad8361", null ],
+    [ "PrepareAuraScript", "dd/d20/a26800.html#ab8f483be4d01aa2460c90b043d7a441b", null ],
+    [ "Register", "dd/d20/a26800.html#a4cb08499767ab58f0e525c382b662fbd", null ],
+    [ "Validate", "dd/d20/a26800.html#aa6165f28706d49940dd1f62065631119", null ],
+    [ "_procTarget", "dd/d20/a26800.html#a7b9426e18b454bf631992518c2bdbde0", null ]
 ];

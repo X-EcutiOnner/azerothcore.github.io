@@ -1,12 +1,10 @@
 var a09216 =
 [
-    [ "flags", "d7/dec/a09216.html#ab1c2612a57fcfce78e10de45dfc1c28d", null ],
-    [ "fourcc", "d7/dec/a09216.html#a5e7b1d32e42afbeb6898ee02014847cd", null ],
-    [ "height", "d7/dec/a09216.html#ab064dde684394c3aa84f9b151749d524", null ],
-    [ "liquidFlags", "d7/dec/a09216.html#a90f22c454f03ecee6aa1b9f9392e10a0", null ],
-    [ "liquidLevel", "d7/dec/a09216.html#ae4f34f9b8139b18416862bcd413f4aaa", null ],
-    [ "liquidType", "d7/dec/a09216.html#ab2ce1920efaec0a4fc0a81df9d6539e3", null ],
-    [ "offsetX", "d7/dec/a09216.html#a2ddee980eda8b7321b55ba44697688b5", null ],
-    [ "offsetY", "d7/dec/a09216.html#abc57f9e6c2f9fae58f575d8e1309f420", null ],
-    [ "width", "d7/dec/a09216.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed", null ]
+    [ "creatureRate", "d7/dec/a09216.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
+    [ "questDailyRate", "d7/dec/a09216.html#a1798044bdf25ce774191b00e261add1e", null ],
+    [ "questMonthlyRate", "d7/dec/a09216.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
+    [ "questRate", "d7/dec/a09216.html#a914118aa28b3736ff4e6c5b61d738834", null ],
+    [ "questRepeatableRate", "d7/dec/a09216.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
+    [ "questWeeklyRate", "d7/dec/a09216.html#a0fb31ebc33d0ce11f392be845907e043", null ],
+    [ "spellRate", "d7/dec/a09216.html#a508485f1e6833c58a11706667a2c24fd", null ]
 ];

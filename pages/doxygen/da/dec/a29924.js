@@ -1,7 +1,9 @@
 var a29924 =
 [
-    [ "MPQArchive", "d7/d2b/a28918.html", "d7/d2b/a28918" ],
-    [ "MPQFile", "db/d83/a28922.html", "db/d83/a28922" ],
-    [ "ArchiveSet", "da/dec/a29924.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "da/dec/a29924.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "Flags", "da/dec/a29924.html#a4471edebd870d3dfaaf34292341e5f60", null ],
+    [ "Id", "da/dec/a29924.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
+    [ "Position", "da/dec/a29924.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
+    [ "Rotation", "da/dec/a29924.html#a986c3ea05d510db03ec969f0d116fb34", null ],
+    [ "Scale", "da/dec/a29924.html#af8bcb02c541b9261dbf879353ba6893a", null ],
+    [ "UniqueId", "da/dec/a29924.html#a374c9893af515badc54b22b2a4d5e024", null ]
 ];

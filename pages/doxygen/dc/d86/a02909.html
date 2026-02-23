@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Kalimdor/CavernsOfTime/TheBlackMorass/instance_the_black_morass.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Northrend/Ulduar/Ulduar/instance_ulduar.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,57 +108,70 @@ $(document).ready(function(){initNavTree('dc/d86/a02909.html','../../'); initRes
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">instance_the_black_morass.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">instance_ulduar.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaDefines.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">WorldStateDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">the_black_morass.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldStatePackets.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ulduar.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d3e/a15197.html">instance_the_black_morass</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dfd/a20964.html">instance_ulduar</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d20/a15201.html">instance_the_black_morass::instance_the_black_morass_InstanceMapScript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4d/a20968.html">instance_ulduar::instance_ulduar_InstanceMapScript</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a665f808519def7182fa25d9c0a4525f6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d86/a02909.html#a665f808519def7182fa25d9c0a4525f6">AddSC_instance_the_black_morass</a> ()</td></tr>
-<tr class="separator:a665f808519def7182fa25d9c0a4525f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a93e6e71a7717be3946c53d3b6093e517"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d86/a02909.html#a93e6e71a7717be3946c53d3b6093e517">AddSC_instance_ulduar</a> ()</td></tr>
+<tr class="separator:a93e6e71a7717be3946c53d3b6093e517"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a744b7235a198467a51550de127971bb1"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../de/dd8/a08565.html">Position</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d86/a02909.html#a744b7235a198467a51550de127971bb1">PortalLocation</a> [4]</td></tr>
-<tr class="separator:a744b7235a198467a51550de127971bb1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a412286b689bd324fedd65ddd8dde8afb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/dc1/a09777.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d86/a02909.html#a412286b689bd324fedd65ddd8dde8afb">creatureData</a> []</td></tr>
+<tr class="memitem:a69c4a0ca4694d5ed1d42f0373dd5d80c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d22/a09852.html">DoorData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d86/a02909.html#a69c4a0ca4694d5ed1d42f0373dd5d80c">doorData</a> []</td></tr>
+<tr class="separator:a69c4a0ca4694d5ed1d42f0373dd5d80c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a412286b689bd324fedd65ddd8dde8afb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d7e/a09868.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d86/a02909.html#a412286b689bd324fedd65ddd8dde8afb">creatureData</a> []</td></tr>
 <tr class="separator:a412286b689bd324fedd65ddd8dde8afb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a845a92716bd40c99a93eb0715cd737b0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d7e/a09868.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d86/a02909.html#a845a92716bd40c99a93eb0715cd737b0">gameobjectData</a> []</td></tr>
+<tr class="separator:a845a92716bd40c99a93eb0715cd737b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a41c6fcb7a2c575fa74a8e566a49bf1e1"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../de/dda/a08664.html">Position</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d86/a02909.html#a41c6fcb7a2c575fa74a8e566a49bf1e1">vehiclePositions</a> [30]</td></tr>
+<tr class="separator:a41c6fcb7a2c575fa74a8e566a49bf1e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a665f808519def7182fa25d9c0a4525f6" name="a665f808519def7182fa25d9c0a4525f6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a665f808519def7182fa25d9c0a4525f6">&#9670;&#160;</a></span>AddSC_instance_the_black_morass()</h2>
+<a id="a93e6e71a7717be3946c53d3b6093e517" name="a93e6e71a7717be3946c53d3b6093e517"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a93e6e71a7717be3946c53d3b6093e517">&#9670;&#160;</a></span>AddSC_instance_ulduar()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_instance_the_black_morass </td>
+          <td class="memname">void AddSC_instance_ulduar </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  471</span>{</div>
-<div class="line"><span class="lineno">  472</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d4/d3e/a15197.html">instance_the_black_morass</a>();</div>
-<div class="line"><span class="lineno">  473</span>}</div>
-<div class="ttc" id="aa15197_html"><div class="ttname"><a href="../../d4/d3e/a15197.html">instance_the_black_morass</a></div><div class="ttdef"><b>Definition:</b> instance_the_black_morass.cpp:39</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1074</span>{</div>
+<div class="line"><span class="lineno"> 1075</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../de/dfd/a20964.html">instance_ulduar</a>();</div>
+<div class="line"><span class="lineno"> 1076</span>}</div>
+<div class="ttc" id="aa20964_html"><div class="ttname"><a href="../../de/dfd/a20964.html">instance_ulduar</a></div><div class="ttdef"><b>Definition:</b> instance_ulduar.cpp:120</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00099">AddKalimdorScripts()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00122">instance_ulduar::instance_ulduar()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00183">AddNorthrendScripts()</a>.</p>
 
 </div>
 </div>
@@ -170,42 +183,83 @@ Variables</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d5/dc1/a09777.html">ObjectData</a> const creatureData[]</td>
+          <td class="memname"><a class="el" href="../../de/d7e/a09868.html">ObjectData</a> const creatureData[]</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d4/db9/a02918.html#a92f6fd626e1834a4cc509efc1186963ea9e034e8b11eeb7b7ba07599e8a15d8fe">NPC_MEDIVH</a>, <a class="code hl_enumvalue" href="../../d4/db9/a02918.html#afb6eb4f28419b652027fad41104a6d22a0215f4ae99efc061f52ec79b9eb60ee0">DATA_MEDIVH</a> },</div>
-<div class="line">    { 0,          0           }</div>
-<div class="line">}</div>
-<div class="ttc" id="aa02918_html_a92f6fd626e1834a4cc509efc1186963ea9e034e8b11eeb7b7ba07599e8a15d8fe"><div class="ttname"><a href="../../d4/db9/a02918.html#a92f6fd626e1834a4cc509efc1186963ea9e034e8b11eeb7b7ba07599e8a15d8fe">NPC_MEDIVH</a></div><div class="ttdeci">@ NPC_MEDIVH</div><div class="ttdef"><b>Definition:</b> the_black_morass.h:57</div></div>
-<div class="ttc" id="aa02918_html_afb6eb4f28419b652027fad41104a6d22a0215f4ae99efc061f52ec79b9eb60ee0"><div class="ttname"><a href="../../d4/db9/a02918.html#afb6eb4f28419b652027fad41104a6d22a0215f4ae99efc061f52ec79b9eb60ee0">DATA_MEDIVH</a></div><div class="ttdeci">@ DATA_MEDIVH</div><div class="ttdef"><b>Definition:</b> the_black_morass.h:36</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00050">instance_the_black_morass::instance_the_black_morass_InstanceMapScript::instance_the_black_morass_InstanceMapScript()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00131">instance_ulduar::instance_ulduar_InstanceMapScript::instance_ulduar_InstanceMapScript()</a>.</p>
 
 </div>
 </div>
-<a id="a744b7235a198467a51550de127971bb1" name="a744b7235a198467a51550de127971bb1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a744b7235a198467a51550de127971bb1">&#9670;&#160;</a></span>PortalLocation</h2>
+<a id="a69c4a0ca4694d5ed1d42f0373dd5d80c" name="a69c4a0ca4694d5ed1d42f0373dd5d80c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a69c4a0ca4694d5ed1d42f0373dd5d80c">&#9670;&#160;</a></span>doorData</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="el" href="../../de/dd8/a08565.html">Position</a> PortalLocation[4]</td>
+          <td class="memname"><a class="el" href="../../d8/d22/a09852.html">DoorData</a> const doorData[]</td>
         </tr>
       </table>
 </div><div class="memdoc">
 <b>Initial value:</b><div class="fragment"><div class="line">=</div>
 <div class="line">{</div>
-<div class="line">    { -2030.8318f, 7024.9443f, 23.071817f, 3.14159f },</div>
-<div class="line">    { -1961.7335f, 7029.5280f, 21.811401f, 2.12931f },</div>
-<div class="line">    { -1887.6950f, 7106.5570f, 22.049500f, 4.95673f },</div>
-<div class="line">    { -1930.9106f, 7183.5970f, 23.007639f, 3.59537f }</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d4/d04/a02888.html#a73f5d28752ceaaa887c1a1a2c7006904a40663836f0442fb68686d97605f88ce1">GO_LEVIATHAN_DOORS</a>,   <a class="code hl_enumvalue" href="../../d4/d04/a02888.html#a578eceaac26622326c101b3ef711d392a1939f0ebfd87a4a94730f934c450fcb3">BOSS_LEVIATHAN</a>, <a class="code hl_enumvalue" href="../../d5/d3e/a01139.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>    },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d4/d04/a02888.html#a73f5d28752ceaaa887c1a1a2c7006904a8d5b9b08ae4a34284a11dc866ff9dc40">GO_XT002_DOORS</a>,       <a class="code hl_enumvalue" href="../../d4/d04/a02888.html#a578eceaac26622326c101b3ef711d392a9d89e49785117dadef0895926a2abe6b">BOSS_XT002</a>,     <a class="code hl_enumvalue" href="../../d5/d3e/a01139.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>    },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d4/d04/a02888.html#a73f5d28752ceaaa887c1a1a2c7006904a746d2fa12f134bd556892e28d01eb920">GO_KOLOGARN_DOORS</a>,    <a class="code hl_enumvalue" href="../../d4/d04/a02888.html#a578eceaac26622326c101b3ef711d392a7976ce60f95785ec2d431b33be36d11c">BOSS_KOLOGARN</a>,  <a class="code hl_enumvalue" href="../../d5/d3e/a01139.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>    },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d4/d04/a02888.html#a73f5d28752ceaaa887c1a1a2c7006904a8eb745af3c6dca408adfbe7e9530d679">GO_ASSEMBLY_DOORS</a>,    <a class="code hl_enumvalue" href="../../d4/d04/a02888.html#a578eceaac26622326c101b3ef711d392ad79f82c4a13d82b55a09830b1886a4e4">BOSS_ASSEMBLY</a>,  <a class="code hl_enumvalue" href="../../d5/d3e/a01139.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>    },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d4/d04/a02888.html#a73f5d28752ceaaa887c1a1a2c7006904a3381b2797c303daa66f728e2d649e2d6">GO_ARCHIVUM_DOORS</a>,    <a class="code hl_enumvalue" href="../../d4/d04/a02888.html#a578eceaac26622326c101b3ef711d392ad79f82c4a13d82b55a09830b1886a4e4">BOSS_ASSEMBLY</a>,  <a class="code hl_enumvalue" href="../../d5/d3e/a01139.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a> },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d4/d04/a02888.html#a73f5d28752ceaaa887c1a1a2c7006904a26e4721b2a25cedfa9b0f5aab89ee14e">GO_YOGG_SARON_DOORS</a>,  <a class="code hl_enumvalue" href="../../d4/d04/a02888.html#a578eceaac26622326c101b3ef711d392a4ca6733d8e65ec5a0a9e170c5924ebc9">BOSS_YOGGSARON</a>, <a class="code hl_enumvalue" href="../../d5/d3e/a01139.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>    },</div>
+<div class="line">    { 0,                    0,              <a class="code hl_enumvalue" href="../../d5/d3e/a01139.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>    }</div>
 <div class="line">}</div>
+<div class="ttc" id="aa01139_html_ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70"><div class="ttname"><a href="../../d5/d3e/a01139.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a></div><div class="ttdeci">@ DOOR_TYPE_ROOM</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:68</div></div>
+<div class="ttc" id="aa01139_html_ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905"><div class="ttname"><a href="../../d5/d3e/a01139.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a></div><div class="ttdeci">@ DOOR_TYPE_PASSAGE</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:69</div></div>
+<div class="ttc" id="aa02888_html_a578eceaac26622326c101b3ef711d392a1939f0ebfd87a4a94730f934c450fcb3"><div class="ttname"><a href="../../d4/d04/a02888.html#a578eceaac26622326c101b3ef711d392a1939f0ebfd87a4a94730f934c450fcb3">BOSS_LEVIATHAN</a></div><div class="ttdeci">@ BOSS_LEVIATHAN</div><div class="ttdef"><b>Definition:</b> ulduar.h:31</div></div>
+<div class="ttc" id="aa02888_html_a578eceaac26622326c101b3ef711d392a4ca6733d8e65ec5a0a9e170c5924ebc9"><div class="ttname"><a href="../../d4/d04/a02888.html#a578eceaac26622326c101b3ef711d392a4ca6733d8e65ec5a0a9e170c5924ebc9">BOSS_YOGGSARON</a></div><div class="ttdeci">@ BOSS_YOGGSARON</div><div class="ttdef"><b>Definition:</b> ulduar.h:43</div></div>
+<div class="ttc" id="aa02888_html_a578eceaac26622326c101b3ef711d392a7976ce60f95785ec2d431b33be36d11c"><div class="ttname"><a href="../../d4/d04/a02888.html#a578eceaac26622326c101b3ef711d392a7976ce60f95785ec2d431b33be36d11c">BOSS_KOLOGARN</a></div><div class="ttdeci">@ BOSS_KOLOGARN</div><div class="ttdef"><b>Definition:</b> ulduar.h:36</div></div>
+<div class="ttc" id="aa02888_html_a578eceaac26622326c101b3ef711d392a9d89e49785117dadef0895926a2abe6b"><div class="ttname"><a href="../../d4/d04/a02888.html#a578eceaac26622326c101b3ef711d392a9d89e49785117dadef0895926a2abe6b">BOSS_XT002</a></div><div class="ttdeci">@ BOSS_XT002</div><div class="ttdef"><b>Definition:</b> ulduar.h:34</div></div>
+<div class="ttc" id="aa02888_html_a578eceaac26622326c101b3ef711d392ad79f82c4a13d82b55a09830b1886a4e4"><div class="ttname"><a href="../../d4/d04/a02888.html#a578eceaac26622326c101b3ef711d392ad79f82c4a13d82b55a09830b1886a4e4">BOSS_ASSEMBLY</a></div><div class="ttdeci">@ BOSS_ASSEMBLY</div><div class="ttdef"><b>Definition:</b> ulduar.h:35</div></div>
+<div class="ttc" id="aa02888_html_a73f5d28752ceaaa887c1a1a2c7006904a26e4721b2a25cedfa9b0f5aab89ee14e"><div class="ttname"><a href="../../d4/d04/a02888.html#a73f5d28752ceaaa887c1a1a2c7006904a26e4721b2a25cedfa9b0f5aab89ee14e">GO_YOGG_SARON_DOORS</a></div><div class="ttdeci">@ GO_YOGG_SARON_DOORS</div><div class="ttdef"><b>Definition:</b> ulduar.h:293</div></div>
+<div class="ttc" id="aa02888_html_a73f5d28752ceaaa887c1a1a2c7006904a3381b2797c303daa66f728e2d649e2d6"><div class="ttname"><a href="../../d4/d04/a02888.html#a73f5d28752ceaaa887c1a1a2c7006904a3381b2797c303daa66f728e2d649e2d6">GO_ARCHIVUM_DOORS</a></div><div class="ttdeci">@ GO_ARCHIVUM_DOORS</div><div class="ttdef"><b>Definition:</b> ulduar.h:257</div></div>
+<div class="ttc" id="aa02888_html_a73f5d28752ceaaa887c1a1a2c7006904a40663836f0442fb68686d97605f88ce1"><div class="ttname"><a href="../../d4/d04/a02888.html#a73f5d28752ceaaa887c1a1a2c7006904a40663836f0442fb68686d97605f88ce1">GO_LEVIATHAN_DOORS</a></div><div class="ttdeci">@ GO_LEVIATHAN_DOORS</div><div class="ttdef"><b>Definition:</b> ulduar.h:243</div></div>
+<div class="ttc" id="aa02888_html_a73f5d28752ceaaa887c1a1a2c7006904a746d2fa12f134bd556892e28d01eb920"><div class="ttname"><a href="../../d4/d04/a02888.html#a73f5d28752ceaaa887c1a1a2c7006904a746d2fa12f134bd556892e28d01eb920">GO_KOLOGARN_DOORS</a></div><div class="ttdeci">@ GO_KOLOGARN_DOORS</div><div class="ttdef"><b>Definition:</b> ulduar.h:260</div></div>
+<div class="ttc" id="aa02888_html_a73f5d28752ceaaa887c1a1a2c7006904a8d5b9b08ae4a34284a11dc866ff9dc40"><div class="ttname"><a href="../../d4/d04/a02888.html#a73f5d28752ceaaa887c1a1a2c7006904a8d5b9b08ae4a34284a11dc866ff9dc40">GO_XT002_DOORS</a></div><div class="ttdeci">@ GO_XT002_DOORS</div><div class="ttdef"><b>Definition:</b> ulduar.h:262</div></div>
+<div class="ttc" id="aa02888_html_a73f5d28752ceaaa887c1a1a2c7006904a8eb745af3c6dca408adfbe7e9530d679"><div class="ttname"><a href="../../d4/d04/a02888.html#a73f5d28752ceaaa887c1a1a2c7006904a8eb745af3c6dca408adfbe7e9530d679">GO_ASSEMBLY_DOORS</a></div><div class="ttdeci">@ GO_ASSEMBLY_DOORS</div><div class="ttdef"><b>Definition:</b> ulduar.h:258</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00062">instance_the_black_morass::instance_the_black_morass_InstanceMapScript::CleanupInstance()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00131">instance_ulduar::instance_ulduar_InstanceMapScript::instance_ulduar_InstanceMapScript()</a>.</p>
+
+</div>
+</div>
+<a id="a845a92716bd40c99a93eb0715cd737b0" name="a845a92716bd40c99a93eb0715cd737b0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a845a92716bd40c99a93eb0715cd737b0">&#9670;&#160;</a></span>gameobjectData</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d7e/a09868.html">ObjectData</a> const gameobjectData[]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00131">instance_ulduar::instance_ulduar_InstanceMapScript::instance_ulduar_InstanceMapScript()</a>.</p>
+
+</div>
+</div>
+<a id="a41c6fcb7a2c575fa74a8e566a49bf1e1" name="a41c6fcb7a2c575fa74a8e566a49bf1e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a41c6fcb7a2c575fa74a8e566a49bf1e1">&#9670;&#160;</a></span>vehiclePositions</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../de/dda/a08664.html">Position</a> vehiclePositions[30]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01038">instance_ulduar::instance_ulduar_InstanceMapScript::SpawnLeviathanEncounterVehicles()</a>.</p>
 
 </div>
 </div>
@@ -214,8 +268,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ee14a0f6ab8ad29bd27b6821baacc69.html">Kalimdor</a></li><li class="navelem"><a class="el" href="../../dir_5833980719a36b6f6a864b11e72f0bc7.html">CavernsOfTime</a></li><li class="navelem"><a class="el" href="../../dir_0a95014d09215914835c277ca75ca7c3.html">TheBlackMorass</a></li><li class="navelem"><a class="el" href="../../dc/d86/a02909.html">instance_the_black_morass.cpp</a></li>
-    <li class="footer">Generated on Mon Feb 16 2026 21:00:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_fd35eb90f0e73b64930f951fffa7a603.html">Ulduar</a></li><li class="navelem"><a class="el" href="../../dir_10467085a1f56260d3e93e65d32ed8de.html">Ulduar</a></li><li class="navelem"><a class="el" href="../../dc/d86/a02909.html">instance_ulduar.cpp</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:14:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

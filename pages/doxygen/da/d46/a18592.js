@@ -1,7 +1,9 @@
 var a18592 =
 [
-    [ "PrepareSpellScript", "da/d46/a18592.html#a3283e829757b50bb52f66ee1e64033ae", null ],
-    [ "Register", "da/d46/a18592.html#a0162c92c32210f2873686610f4f00b87", null ],
-    [ "TriggerHeal", "da/d46/a18592.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
-    [ "Validate", "da/d46/a18592.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
+    [ "ShadowTrapLKTargetSelector", "da/d46/a18592.html#a33561775948e07ac6ade2037f237441d", null ],
+    [ "operator()", "da/d46/a18592.html#a3770329509c6ab2f16ae369ea8d72645", null ],
+    [ "_maxDist", "da/d46/a18592.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
+    [ "_playerOnly", "da/d46/a18592.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
+    [ "_reqLOS", "da/d46/a18592.html#a7911be23196f59d55028affc3be23c20", null ],
+    [ "_source", "da/d46/a18592.html#af416013aabf3b217b07228072076603d", null ]
 ];

@@ -1,10 +1,6 @@
 var a23968 =
 [
-    [ "CheckProc", "d3/dd6/a23968.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
-    [ "Load", "d3/dd6/a23968.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
-    [ "PrepareAuraScript", "d3/dd6/a23968.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
-    [ "Register", "d3/dd6/a23968.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
-    [ "_lastForm", "d3/dd6/a23968.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
-    [ "_lastSchool", "d3/dd6/a23968.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
-    [ "_swapTime", "d3/dd6/a23968.html#af832dc200e928df3849ab7d7f93cb412", null ]
+    [ "go_beaconAI", "d3/d66/a23972.html", "d3/d66/a23972" ],
+    [ "go_beacon", "d3/dd6/a23968.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
+    [ "GetAI", "d3/dd6/a23968.html#abd168f0c1ac9a64cece280758f3120d4", null ]
 ];

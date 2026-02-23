@@ -1,6 +1,7 @@
 var a16804 =
 [
-    [ "npc_mistress_of_painAI", "d0/dd9/a16808.html", "d0/dd9/a16808" ],
-    [ "npc_mistress_of_pain", "d1/d4c/a16804.html#a0261ed835454725e0e5629c295be4330", null ],
-    [ "GetAI", "d1/d4c/a16804.html#ae32e9b907e2e31556e72d7feb4e24e8a", null ]
+    [ "HandleEffectPeriodic", "d1/d4c/a16804.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
+    [ "PrepareAuraScript", "d1/d4c/a16804.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
+    [ "Register", "d1/d4c/a16804.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
+    [ "Validate", "d1/d4c/a16804.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
 ];

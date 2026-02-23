@@ -1,10 +1,12 @@
 var a23472 =
 [
-    [ "npc_frozen_core", "dd/df8/a23472.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
-    [ "DoAction", "dd/df8/a23472.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
-    [ "Initialize", "dd/df8/a23472.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
-    [ "JustDied", "dd/df8/a23472.html#a476e086b0379e0cef3a44d250b020d6a", null ],
-    [ "UpdateAI", "dd/df8/a23472.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
-    [ "_events", "dd/df8/a23472.html#a3a5efec3279644ef713722e1556a3c84", null ],
-    [ "_instance", "dd/df8/a23472.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
+    [ "boss_nazan", "dd/df8/a23472.html#a4390d3e181c4db46e364df3302612763", null ],
+    [ "AttackStart", "dd/df8/a23472.html#a7acea69f908e7a004c2a78c103528975", null ],
+    [ "DoAction", "dd/df8/a23472.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
+    [ "EnterEvadeMode", "dd/df8/a23472.html#ab6338a7d240014e548b22044b788ce8f", null ],
+    [ "JustEngagedWith", "dd/df8/a23472.html#a4d44b759530f32207a46a608fb7d6209", null ],
+    [ "MovementInform", "dd/df8/a23472.html#ad35866322ff55263b1f8b105d2cad952", null ],
+    [ "Reset", "dd/df8/a23472.html#a5c10e932075130399a9127869f45ce1d", null ],
+    [ "UpdateAI", "dd/df8/a23472.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
+    [ "_scheduler", "dd/df8/a23472.html#a8915d84ec4ffb8dade18041d5e910018", null ]
 ];

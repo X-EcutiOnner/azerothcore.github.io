@@ -1,6 +1,6 @@
 var a17640 =
 [
-    [ "FilterTargets", "d8/d6e/a17640.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
-    [ "PrepareSpellScript", "d8/d6e/a17640.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
-    [ "Register", "d8/d6e/a17640.html#add40d7731b07b30b595f76f7d4e983f4", null ]
+    [ "HandlePeriodic", "d8/d6e/a17640.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
+    [ "PrepareAuraScript", "d8/d6e/a17640.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
+    [ "Register", "d8/d6e/a17640.html#a9753daf5cdc812e9027c1153b450686d", null ]
 ];

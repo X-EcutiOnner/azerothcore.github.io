@@ -1,6 +1,7 @@
 var a20136 =
 [
-    [ "npc_mechanoliftAI", "da/d2f/a20140.html", "da/d2f/a20140" ],
-    [ "npc_mechanolift", "d6/d0f/a20136.html#a7b753a3426213706c899745a6d0d989b", null ],
-    [ "GetAI", "d6/d0f/a20136.html#a823a929bf65f32cdbe9b56df5d33c66d", null ]
+    [ "npc_auriaya_sanctum_sentry", "d6/d0f/a20136.html#ae5ed159c476c8b4569de7e2730edf447", null ],
+    [ "JustEngagedWith", "d6/d0f/a20136.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
+    [ "Reset", "d6/d0f/a20136.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
+    [ "UpdateAI", "d6/d0f/a20136.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
 ];

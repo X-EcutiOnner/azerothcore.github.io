@@ -1,7 +1,9 @@
 var a14112 =
 [
-    [ "HandleDispel", "dd/d3b/a14112.html#a415977576283972ce4a1050c70826d7c", null ],
-    [ "PrepareAuraScript", "dd/d3b/a14112.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
-    [ "Register", "dd/d3b/a14112.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
-    [ "Validate", "dd/d3b/a14112.html#ac496e7bef875ca46660217e74fc3bc74", null ]
+    [ "npc_marzon_silent_bladeAI", "dd/d3b/a14112.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
+    [ "EnterEvadeMode", "dd/d3b/a14112.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
+    [ "JustEngagedWith", "dd/d3b/a14112.html#a116b3458f342811e378713e6a67f76a6", null ],
+    [ "MovementInform", "dd/d3b/a14112.html#a32201d45f0c19212becb6319a48366f8", null ],
+    [ "Reset", "dd/d3b/a14112.html#a51c2b16c767ce2922564dc9e4048e089", null ],
+    [ "UpdateAI", "dd/d3b/a14112.html#aa6686399b41d32429d530dcc2ec41185", null ]
 ];

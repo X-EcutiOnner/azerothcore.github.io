@@ -1,10 +1,7 @@
 var a22300 =
 [
-    [ "npc_infra_green_bomber_genericAI", "d5/db5/a22300.html#aed712ea3625971e059e2ecd158227287", null ],
-    [ "DamageTaken", "d5/db5/a22300.html#a8f860368df96e430b441c8316db99c93", null ],
-    [ "GetSummoner", "d5/db5/a22300.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
-    [ "IsSummonedBy", "d5/db5/a22300.html#a79676717b7c6219ea74ebe5a580eab28", null ],
-    [ "SpreadFire", "d5/db5/a22300.html#a5727c839b7dd02ea64eccce3606688d1", null ],
-    [ "UpdateAI", "d5/db5/a22300.html#a252875777655e963965676a24c15e766", null ],
-    [ "events", "d5/db5/a22300.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
+    [ "npc_wg_siege_machineAI", "d5/db5/a22300.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
+    [ "CanControlVehicle", "d5/db5/a22300.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
+    [ "UpdateAI", "d5/db5/a22300.html#a8ddd21047a857facc767a9edc0ec5408", null ],
+    [ "checkTimer", "d5/db5/a22300.html#abf4b06eae50adeefedba02e2186ea48a", null ]
 ];

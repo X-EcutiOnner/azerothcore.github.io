@@ -1,7 +1,6 @@
 var a16128 =
 [
-    [ "HandleScript", "dc/d8e/a16128.html#ae9939f2795b8ba428277c7d658af715c", null ],
-    [ "PrepareSpellScript", "dc/d8e/a16128.html#aabe244008103ff317e3fc1e26b04115a", null ],
-    [ "Register", "dc/d8e/a16128.html#a4f492bdd96ef190354f37c95217bb696", null ],
-    [ "Validate", "dc/d8e/a16128.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
+    [ "npc_cairne_bloodhoofAI", "da/d38/a16132.html", "da/d38/a16132" ],
+    [ "npc_cairne_bloodhoof", "dc/d8e/a16128.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
+    [ "GetAI", "dc/d8e/a16128.html#a1c34470c46ae9e98684de0e786be28b7", null ]
 ];

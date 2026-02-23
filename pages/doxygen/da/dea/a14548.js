@@ -1,7 +1,7 @@
 var a14548 =
 [
-    [ "HandleScriptEffect", "da/dea/a14548.html#ae758c224878aebdde0124b5d4ec902a5", null ],
-    [ "PrepareSpellScript", "da/dea/a14548.html#ac3755ef09a905d90ce7df328b83d51aa", null ],
-    [ "Register", "da/dea/a14548.html#a051d0fe383e5675e39e4ac8ed7a6e329", null ],
-    [ "Validate", "da/dea/a14548.html#a56f71954e122f651c6e2ec68453e16cc", null ]
+    [ "HandleApply", "da/dea/a14548.html#a92734043e53b5e1ef81fa9b5ccce135e", null ],
+    [ "HandleRemove", "da/dea/a14548.html#a56bf9c77cf96b1e34543a59fc2a308b2", null ],
+    [ "PrepareAuraScript", "da/dea/a14548.html#ae3bcbf588e46cb0e81160fdd48502566", null ],
+    [ "Register", "da/dea/a14548.html#af2343add2ed014832bd34d11519b391b", null ]
 ];

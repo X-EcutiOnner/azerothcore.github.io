@@ -1,6 +1,7 @@
 var a11128 =
 [
-    [ "PetLearnedSpell", "d4/d4b/a11128.html#a5d105cca08515b9550998f2c86b13a1a", null ],
-    [ "Write", "d4/d4b/a11128.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
-    [ "SpellID", "d4/d4b/a11128.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
+    [ "PlayMusic", "d4/d4b/a11128.html#afee4b7ae9ac5f4f2b7365d3d00e7b581", null ],
+    [ "PlayMusic", "d4/d4b/a11128.html#ad3d833f70de5937365c2351aa5206bbf", null ],
+    [ "Write", "d4/d4b/a11128.html#ad01a67d76fe9dff269eac9108a27c75a", null ],
+    [ "SoundKitID", "d4/d4b/a11128.html#ad2342dd0c1461283c595af29c3bc9fe6", null ]
 ];

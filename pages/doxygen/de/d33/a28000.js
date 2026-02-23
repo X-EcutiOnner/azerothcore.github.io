@@ -1,5 +1,6 @@
 var a28000 =
 [
-    [ "ServerMailReward", "de/d33/a28000.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
-    [ "OnPlayerLogin", "de/d33/a28000.html#ada945e805278d54746b6fabaf48b4546", null ]
+    [ "boss_ysondreAI", "d6/d50/a28004.html", "d6/d50/a28004" ],
+    [ "boss_ysondre", "de/d33/a28000.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
+    [ "GetAI", "de/d33/a28000.html#a0da215d7bc8ee86216887e682b9335c3", null ]
 ];

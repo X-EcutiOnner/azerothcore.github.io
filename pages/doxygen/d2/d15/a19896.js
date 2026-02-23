@@ -1,8 +1,12 @@
 var a19896 =
 [
-    [ "npc_algalon_worm_holeAI", "d2/d15/a19896.html#a07b36b40972bebea6b17890aa8fee50c", null ],
-    [ "JustSummoned", "d2/d15/a19896.html#a148de5da4502813e369ec6c52b1671a0", null ],
-    [ "Reset", "d2/d15/a19896.html#a915a8e5e23062cb10da9a3dbe387cf51", null ],
-    [ "UpdateAI", "d2/d15/a19896.html#a9df88d81aa4f4dd7e1dcdf6209832c32", null ],
-    [ "_summonTimer", "d2/d15/a19896.html#a73a55560e5ff7957d883f732bc0d2a82", null ]
+    [ "npc_spark_of_ionar", "d2/d15/a19896.html#a93df0828e409a44008257294855f8d7a", null ],
+    [ "AttackStart", "d2/d15/a19896.html#a36181ef97213713c104edf4b085bc46e", null ],
+    [ "DamageTaken", "d2/d15/a19896.html#a8588089b67b8b53a9e3dead149aaa5f7", null ],
+    [ "DoAction", "d2/d15/a19896.html#ac9f1cb076f8d9072c88343f2deb7c0a0", null ],
+    [ "MoveInLineOfSight", "d2/d15/a19896.html#a1316e69a928d28c805a94bb2bb6f557a", null ],
+    [ "Reset", "d2/d15/a19896.html#a1a7c2e034333efdc80117b03f2e6740e", null ],
+    [ "UpdateAI", "d2/d15/a19896.html#ae251d676f0505db2383e61ef007932a0", null ],
+    [ "_events", "d2/d15/a19896.html#a73265e8783c32a09c9d4ee13f1ecba58", null ],
+    [ "returning", "d2/d15/a19896.html#acd1c868f422a7758ce19f6ef7f5bda17", null ]
 ];

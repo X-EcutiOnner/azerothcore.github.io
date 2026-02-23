@@ -1,8 +1,6 @@
 var a13252 =
 [
-    [ "HandleDummy", "d1/d0e/a13252.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "d1/d0e/a13252.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "d1/d0e/a13252.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "d1/d0e/a13252.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "d1/d0e/a13252.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "npc_image_of_medivhAI", "db/d4f/a13256.html", "db/d4f/a13256" ],
+    [ "npc_image_of_medivh", "d1/d0e/a13252.html#a55ee6f97bc7f144209927a2813cab6a9", null ],
+    [ "GetAI", "d1/d0e/a13252.html#a11769c47fda3f1c4d8d80329f70d1957", null ]
 ];

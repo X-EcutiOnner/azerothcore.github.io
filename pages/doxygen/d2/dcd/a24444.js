@@ -1,6 +1,7 @@
 var a24444 =
 [
-    [ "PrepareSpellScript", "d2/dcd/a24444.html#aa858fff409e5c75d865c91cb5fbef679", null ],
-    [ "Register", "d2/dcd/a24444.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
-    [ "SetDest", "d2/dcd/a24444.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
+    [ "HandleProc", "d2/dcd/a24444.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
+    [ "PrepareAuraScript", "d2/dcd/a24444.html#a2840931b939b95e6a476c07f08ca66b5", null ],
+    [ "Register", "d2/dcd/a24444.html#ae769fddc14aed4d1055d2f947d292fcf", null ],
+    [ "lastChargeUsedTime", "d2/dcd/a24444.html#a69e1d242b6d4bfc752e7e0921aa0f90c", null ]
 ];

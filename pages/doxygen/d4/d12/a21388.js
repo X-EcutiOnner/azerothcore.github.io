@@ -1,6 +1,6 @@
 var a21388 =
 [
-    [ "CalculateAmount", "d4/d12/a21388.html#a79019ef395c9b66f6a88759b0517005d", null ],
-    [ "PrepareAuraScript", "d4/d12/a21388.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
-    [ "Register", "d4/d12/a21388.html#a9bce52699983fe798c903385faa42462", null ]
+    [ "npc_azure_raiderAI", "dd/daf/a21392.html", "dd/daf/a21392" ],
+    [ "npc_azure_raider", "d4/d12/a21388.html#a249abee0df263e183341193b828a310c", null ],
+    [ "GetAI", "d4/d12/a21388.html#a88a45e3b117c5105f7541d640dda8470", null ]
 ];

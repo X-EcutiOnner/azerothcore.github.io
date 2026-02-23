@@ -1,6 +1,7 @@
 var a27020 =
 [
-    [ "CheckCast", "d9/d2f/a27020.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
-    [ "PrepareSpellScript", "d9/d2f/a27020.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
-    [ "Register", "d9/d2f/a27020.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
+    [ "HandleEffectApply", "d9/d2f/a27020.html#a475d0bab96e226853368be3b68c5a2d3", null ],
+    [ "HandleEffectRemove", "d9/d2f/a27020.html#aa22a095e40789ac562a64c20d7eadb28", null ],
+    [ "PrepareAuraScript", "d9/d2f/a27020.html#a2b06b0dc1a4c2f5b5e4657e11a097660", null ],
+    [ "Register", "d9/d2f/a27020.html#a91e75a059828a30d509fd22be19048f8", null ]
 ];

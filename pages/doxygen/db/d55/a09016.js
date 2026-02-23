@@ -1,13 +1,9 @@
 var a09016 =
 [
-    [ "entry", "db/d55/a09016.html#a9b4a88edefbc1e4b08a8ee03dfd90274", null ],
-    [ "height", "db/d55/a09016.html#a40fcdb1274bc2587e8870b39a64289e1", null ],
-    [ "length", "db/d55/a09016.html#a8e1ac424a973e546aa7c35e387e32a23", null ],
-    [ "map", "db/d55/a09016.html#a9ecb58fde45a318ba0d6306c603aba4b", null ],
-    [ "orientation", "db/d55/a09016.html#a5db58eaf63aceeaeb93bf6f4d5961a97", null ],
-    [ "radius", "db/d55/a09016.html#ae4195d9f29b425394296009c22654380", null ],
-    [ "width", "db/d55/a09016.html#af914195a4e7f2314a6241fb81cc8cfa8", null ],
-    [ "x", "db/d55/a09016.html#a423077ceaf75c367831a6d9f55427a6f", null ],
-    [ "y", "db/d55/a09016.html#a55ab832828addcef1b2f570bda81f2ce", null ],
-    [ "z", "db/d55/a09016.html#ae5d0d4e9ef4006ad6c7195b999ef00c2", null ]
+    [ "TransportBase", "db/d55/a09016.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
+    [ "~TransportBase", "db/d55/a09016.html#a81dca3435a1a1666a90acd8e154e3287", null ],
+    [ "CalculatePassengerOffset", "db/d55/a09016.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
+    [ "CalculatePassengerOffset", "db/d55/a09016.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
+    [ "CalculatePassengerPosition", "db/d55/a09016.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
+    [ "CalculatePassengerPosition", "db/d55/a09016.html#a328fbc464c56eca89138380182a0108c", null ]
 ];

@@ -1,6 +1,7 @@
 var a19836 =
 [
-    [ "HandleScript", "d7/d5e/a19836.html#a992dbad02eab01824d870bdd3fca93d0", null ],
-    [ "PrepareSpellScript", "d7/d5e/a19836.html#a0e6b4d1f59896a255929556baa943bdb", null ],
-    [ "Register", "d7/d5e/a19836.html#a6bd2b3f20ee88fbba18ea6da6e8a23ab", null ]
+    [ "Apply", "d7/d5e/a19836.html#add8e95d38b0c437833c11cded72fe2a7", null ],
+    [ "PrepareAuraScript", "d7/d5e/a19836.html#ad2112b571d97e537983b4d11207015e6", null ],
+    [ "Register", "d7/d5e/a19836.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
+    [ "Validate", "d7/d5e/a19836.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
 ];

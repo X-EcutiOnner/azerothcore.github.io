@@ -1,6 +1,6 @@
 var a14932 =
 [
-    [ "OnRemove", "de/d84/a14932.html#af9da33426d8ea4462f7d9957c4312019", null ],
-    [ "PrepareAuraScript", "de/d84/a14932.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
-    [ "Register", "de/d84/a14932.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
+    [ "HandleAfterEffectApply", "de/d84/a14932.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
+    [ "PrepareAuraScript", "de/d84/a14932.html#a917379c33352721b5b76c1d9dac0c025", null ],
+    [ "Register", "de/d84/a14932.html#a846d79564d76d6000c2276045775d7da", null ]
 ];

@@ -1,14 +1,9 @@
 var a11152 =
 [
-    [ "NameQueryResponse", "da/d8e/a11152.html#a04a03faa1ab655eb87d755b603f7b427", null ],
-    [ "Write", "da/d8e/a11152.html#a8bbf006e3b84b9b47df8f1497a6c4eb8", null ],
-    [ "Class", "da/d8e/a11152.html#acd3c6d5f56924fe32bb8a0bddddce13a", null ],
-    [ "Declined", "da/d8e/a11152.html#abe147a5c99db99148cc3b76136eccb2b", null ],
-    [ "DeclinedNames", "da/d8e/a11152.html#a4d3a2f218c8e1763889cc45adc514f0b", null ],
-    [ "Guid", "da/d8e/a11152.html#ae45b2723b1b5a3313566df2d353114f9", null ],
-    [ "Name", "da/d8e/a11152.html#ad2d16050d9229912105c8f2136538d91", null ],
-    [ "NameUnknown", "da/d8e/a11152.html#ab15e54b3abb638a8782ce4eefa77d489", null ],
-    [ "Race", "da/d8e/a11152.html#a74463c6218d56c913df7f24b7491003f", null ],
-    [ "RealmName", "da/d8e/a11152.html#ab52bc81a49ff62ea23f1dd05e4826f6c", null ],
-    [ "Sex", "da/d8e/a11152.html#ae3f54cab19cf94fef55ef1dcac1f1ad8", null ]
+    [ "RandomRoll", "da/d8e/a11152.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
+    [ "Write", "da/d8e/a11152.html#aab5879874745603dd448a7f5084d60d4", null ],
+    [ "Max", "da/d8e/a11152.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
+    [ "Min", "da/d8e/a11152.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
+    [ "Result", "da/d8e/a11152.html#a34fd2c1d018bb292836724671163ff07", null ],
+    [ "Roller", "da/d8e/a11152.html#af02aa97826259885791d0f4afc0c1a84", null ]
 ];

@@ -1,7 +1,6 @@
 var a12944 =
 [
-    [ "npc_malchezaar_axe", "d1/dfc/a12944.html#a1a5615f2def10add30e7917b770ebc74", null ],
-    [ "Initialize", "d1/dfc/a12944.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
-    [ "JustEngagedWith", "d1/dfc/a12944.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
-    [ "UpdateAI", "d1/dfc/a12944.html#a202ba6922a426f87909eefbccd070175", null ]
+    [ "boss_sulfuronAI", "d1/dfc/a12944.html#a63c76fb94131830924e2bf77477261ba", null ],
+    [ "ExecuteEvent", "d1/dfc/a12944.html#ae038aa8140f5b4128c39c592966321f1", null ],
+    [ "JustEngagedWith", "d1/dfc/a12944.html#a35394690b8d25529c91c147025f6ad92", null ]
 ];

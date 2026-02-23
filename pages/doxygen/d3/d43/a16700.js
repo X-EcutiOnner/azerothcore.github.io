@@ -1,8 +1,6 @@
 var a16700 =
 [
-    [ "npc_toc_warlockAI", "d3/d43/a16700.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
-    [ "JustSummoned", "d3/d43/a16700.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
-    [ "myCanCast", "d3/d43/a16700.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
-    [ "UpdateAI", "d3/d43/a16700.html#a554849d02d923439bd810b7d8c242afa", null ],
-    [ "events", "d3/d43/a16700.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
+    [ "npc_black_knight_ghoulAI", "da/d31/a16704.html", "da/d31/a16704" ],
+    [ "npc_black_knight_ghoul", "d3/d43/a16700.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
+    [ "GetAI", "d3/d43/a16700.html#a52308f8d168e1ccea22de653813b7f6f", null ]
 ];

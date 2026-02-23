@@ -1,8 +1,8 @@
 var a11004 =
 [
-    [ "PauseMirrorTimer", "d6/dd8/a11004.html#a05ccc52cb56d38cadb27fbde2563df45", null ],
-    [ "PauseMirrorTimer", "d6/dd8/a11004.html#ad6e7a6eb3edadc235dc5bb97802381ac", null ],
-    [ "Write", "d6/dd8/a11004.html#aea61f9e668173b65eac3b9f42ddd68a1", null ],
-    [ "Paused", "d6/dd8/a11004.html#a7adf6dcd7e712792ea94bad77f8be232", null ],
-    [ "Timer", "d6/dd8/a11004.html#a4a041bf772ef3f145bde6be9f8ecdc13", null ]
+    [ "SetDungeonDifficulty", "d6/dd8/a11004.html#a3adea4e58ba48bc438e11056cb49e5ab", null ],
+    [ "Write", "d6/dd8/a11004.html#a9e3eaebd002b3ed9599c9c2671f9b78e", null ],
+    [ "Difficulty", "d6/dd8/a11004.html#a5e216ba7ada0d073b5aebaaa3f221752", null ],
+    [ "IsInGroup", "d6/dd8/a11004.html#aff9bae997a9ff6dc64b7b60f736527d7", null ],
+    [ "Unk", "d6/dd8/a11004.html#aea436cf338c4bd6b0d2dbc11edda9e3e", null ]
 ];

@@ -1,6 +1,14 @@
 var a16452 =
 [
-    [ "boss_saviana_ragefireAI", "d4/d4b/a16456.html", "d4/d4b/a16456" ],
-    [ "boss_saviana_ragefire", "dd/dcf/a16452.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
-    [ "GetAI", "dd/dcf/a16452.html#a0a0073d8710af066d9711636f4d5b01e", null ]
+    [ "boss_baltharus_the_warbornAI", "dd/dcf/a16452.html#adaf6cb6ab81a461b202d40900b4b744c", null ],
+    [ "DoAction", "dd/dcf/a16452.html#ab22f46e2514c10ce0e8141b3f69f069d", null ],
+    [ "InitializeAI", "dd/dcf/a16452.html#ac188db2a727e2fb3c411f8616f8a2f41", null ],
+    [ "JustDied", "dd/dcf/a16452.html#aaeb3e9b1bd25464cec4a1b0adf88afbe", null ],
+    [ "JustEngagedWith", "dd/dcf/a16452.html#a4b670f4d89f9ed9ffeebf9d9426d79dc", null ],
+    [ "JustReachedHome", "dd/dcf/a16452.html#ab178ccb3ee8bfa2649f03bfc18f1e424", null ],
+    [ "JustSummoned", "dd/dcf/a16452.html#a7947c96290ea2cbe1b7ed6b6a8db65fe", null ],
+    [ "KilledUnit", "dd/dcf/a16452.html#adb1a9e2af865292215c02cc1fb959cd3", null ],
+    [ "Reset", "dd/dcf/a16452.html#a68e503ddac7be2f4e08d68e64aa2e725", null ],
+    [ "UpdateAI", "dd/dcf/a16452.html#abe2e7188e33e70d52ab1985f821fa9c5", null ],
+    [ "_introDone", "dd/dcf/a16452.html#a463209610cbc8e34d9839abeaf6df0e6", null ]
 ];

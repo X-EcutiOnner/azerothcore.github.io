@@ -1,9 +1,14 @@
 var a09324 =
 [
-    [ "GameObjectLastSearcher", "da/df4/a09324.html#a9f478f784f46fa502910f621f10238f2", null ],
-    [ "Visit", "da/df4/a09324.html#a2ba394a2da9f72c7621567092c175f0b", null ],
-    [ "Visit", "da/df4/a09324.html#a4298bd100890e61a34e827f96d70e752", null ],
-    [ "i_check", "da/df4/a09324.html#a06f8a6b33e26cdc17508198a9ee08f87", null ],
-    [ "i_object", "da/df4/a09324.html#a4573ba382a79a34f6c006b7c175f84f1", null ],
-    [ "i_phaseMask", "da/df4/a09324.html#a7130ecacc379e9f41779a8e0f422b32c", null ]
+    [ "areaMapOffset", "da/df4/a09324.html#a70f82337112bb8cbff0b3344666885a1", null ],
+    [ "areaMapSize", "da/df4/a09324.html#adfbbb622974b7942f47dd16d2300246f", null ],
+    [ "buildMagic", "da/df4/a09324.html#a82d0f500f9e84cf6c8bf917a98f92115", null ],
+    [ "heightMapOffset", "da/df4/a09324.html#a7623bee6b8cf7d6e39b8716aa72f8514", null ],
+    [ "heightMapSize", "da/df4/a09324.html#a71c9cd42801697a927543e3acd4c3daf", null ],
+    [ "holesOffset", "da/df4/a09324.html#a876d70dcd6ccec9ad09de77718c02150", null ],
+    [ "holesSize", "da/df4/a09324.html#a3c3cc1895a47dc69265f4b58166c3f6b", null ],
+    [ "liquidMapOffset", "da/df4/a09324.html#ac62deafcc7b435caf4a0f6aafd3d85be", null ],
+    [ "liquidMapSize", "da/df4/a09324.html#a5aa18af3a8e029e8842ddf72fc5d5267", null ],
+    [ "mapMagic", "da/df4/a09324.html#a2691fbc981b2ed5e1d748cd9c0859548", null ],
+    [ "versionMagic", "da/df4/a09324.html#abe722f653ba057fbba84401acbaffbfa", null ]
 ];

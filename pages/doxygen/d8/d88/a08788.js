@@ -1,11 +1,8 @@
 var a08788 =
 [
-    [ "AuraMunchingQueue", "d8/d88/a08788.html#abf9787bcfa9393619ffebe2ad7b5cd46", null ],
-    [ "Execute", "d8/d88/a08788.html#a8f025a0ea1db81fb283db563402d1c40", null ],
-    [ "_auraType", "d8/d88/a08788.html#add694e24c38d585784f236acf9118b76", null ],
-    [ "_aurEff", "d8/d88/a08788.html#a8ac00964608170d5375242c1b19c4be3", null ],
-    [ "_basePoints", "d8/d88/a08788.html#a9cf03046c9595e81bf119b7aacb1a81a", null ],
-    [ "_owner", "d8/d88/a08788.html#a472aaf46c2f167a10ce38267ace0b8bb", null ],
-    [ "_spellId", "d8/d88/a08788.html#a6674c43b906e45e2ad29100a7ff06f44", null ],
-    [ "_targetGUID", "d8/d88/a08788.html#a441b328296f0b7a75bdaee06d2cb94f1", null ]
+    [ "EnchantDuration", "d8/d88/a08788.html#a1ce5f81deaa60494c247673c113632d8", null ],
+    [ "EnchantDuration", "d8/d88/a08788.html#a52448f2bb8b788193a69fe9a2d8729f3", null ],
+    [ "item", "d8/d88/a08788.html#ae803f6a9ce9cdb0dbb133bc85b6613ab", null ],
+    [ "leftduration", "d8/d88/a08788.html#a3f4edafbc9b09cb5ab660bc68af435f3", null ],
+    [ "slot", "d8/d88/a08788.html#a3de1a8d64aea4c5c1f984a74c6bb017d", null ]
 ];

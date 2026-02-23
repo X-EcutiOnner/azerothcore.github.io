@@ -1,6 +1,7 @@
 var a23444 =
 [
-    [ "HandleEffectRemove", "d1/d9f/a23444.html#ac74d25501690970c607a146eec02ab24", null ],
-    [ "PrepareAuraScript", "d1/d9f/a23444.html#a858929800089fee1a06948bda1c8806f", null ],
-    [ "Register", "d1/d9f/a23444.html#a003e9c77e59008ea78b3f1e9977ab5d6", null ]
+    [ "PeriodicTick", "d1/d9f/a23444.html#a53541105e40202e4a73ecc38d84e9eca", null ],
+    [ "PrepareAuraScript", "d1/d9f/a23444.html#a79c8829a86db535e254db009d5286430", null ],
+    [ "Register", "d1/d9f/a23444.html#a58cd762eb10d224bb188aaf167c816b9", null ],
+    [ "Validate", "d1/d9f/a23444.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f", null ]
 ];

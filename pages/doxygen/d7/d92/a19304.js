@@ -1,9 +1,9 @@
 var a19304 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "d7/d92/a19304.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
-    [ "KilledUnit", "d7/d92/a19304.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
-    [ "Reset", "d7/d92/a19304.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
-    [ "UpdateAI", "d7/d92/a19304.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
-    [ "auraVisualTimer", "d7/d92/a19304.html#a74aea4294c26414d3b60983d14d36e31", null ],
-    [ "sizeTimer", "d7/d92/a19304.html#a73f775b30ad36a595e0d8532067ba042", null ]
+    [ "spell_trigger_spell_from_caster", "d7/d92/a19304.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
+    [ "HandleTrigger", "d7/d92/a19304.html#afc11c9408ea11cb04e476999a9bdf522", null ],
+    [ "PrepareSpellScript", "d7/d92/a19304.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
+    [ "Register", "d7/d92/a19304.html#ae44cc1a87267c1d08603d1aff2384957", null ],
+    [ "Validate", "d7/d92/a19304.html#a3aace9a309bc848b887b03c949c921bd", null ],
+    [ "_triggerId", "d7/d92/a19304.html#a29af52a9035f18936515a464889fefe5", null ]
 ];

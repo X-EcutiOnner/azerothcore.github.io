@@ -1,10 +1,11 @@
 var a09004 =
 [
-    [ "creatureRate", "de/d91/a09004.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
-    [ "questDailyRate", "de/d91/a09004.html#a1798044bdf25ce774191b00e261add1e", null ],
-    [ "questMonthlyRate", "de/d91/a09004.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
-    [ "questRate", "de/d91/a09004.html#a914118aa28b3736ff4e6c5b61d738834", null ],
-    [ "questRepeatableRate", "de/d91/a09004.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
-    [ "questWeeklyRate", "de/d91/a09004.html#a0fb31ebc33d0ce11f392be845907e043", null ],
-    [ "spellRate", "de/d91/a09004.html#a508485f1e6833c58a11706667a2c24fd", null ]
+    [ "VehicleSeatAddon", "de/d91/a09004.html#a307b278917998116156e41f9189a582c", null ],
+    [ "VehicleSeatAddon", "de/d91/a09004.html#adaec12df869a9ffc81174f5ef1f65606", null ],
+    [ "ExitParameter", "de/d91/a09004.html#afbb8de193522f1182efff50064e5f83d", null ],
+    [ "ExitParameterO", "de/d91/a09004.html#a06e385ea5cf0441721432925251a5a63", null ],
+    [ "ExitParameterX", "de/d91/a09004.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
+    [ "ExitParameterY", "de/d91/a09004.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
+    [ "ExitParameterZ", "de/d91/a09004.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
+    [ "SeatOrientationOffset", "de/d91/a09004.html#a374c73b40f6e6dad103b172d1829a31d", null ]
 ];

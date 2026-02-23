@@ -1,14 +1,12 @@
 var a05580 =
 [
-    [ "SFMTRand", "d4/d33/a05580.html#aa40843ec8c3162e4be6cbf8067f93c9b", null ],
-    [ "operator delete", "d4/d33/a05580.html#a20ef76641899ebf23ecfdfa03933d1d9", null ],
-    [ "operator delete", "d4/d33/a05580.html#ac6267ac04c03814f574a155a4a0cffcb", null ],
-    [ "operator delete[]", "d4/d33/a05580.html#a5051cdb95e18230b7fee753beb621603", null ],
-    [ "operator delete[]", "d4/d33/a05580.html#a7cfe99d3c100b6ba124b82fce756960f", null ],
-    [ "operator new", "d4/d33/a05580.html#a73dfbe0b1545b5604dfde603517efbfb", null ],
-    [ "operator new", "d4/d33/a05580.html#a3dc4f4d003c77547117ec7c31486f884", null ],
-    [ "operator new[]", "d4/d33/a05580.html#a61d2b3bc61bfa640c8b0241d09347d2b", null ],
-    [ "operator new[]", "d4/d33/a05580.html#ace8e8802bdb710f3354d3ff7d619497c", null ],
-    [ "RandomUInt32", "d4/d33/a05580.html#a8d129952ad2916419cdf54aa474c23c0", null ],
-    [ "_state", "d4/d33/a05580.html#a9bc20836138e5dd4db93f7d03a9e856b", null ]
+    [ "Node", "da/d9f/a05584.html", "da/d9f/a05584" ],
+    [ "MPSCQueueNonIntrusive", "d4/d33/a05580.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
+    [ "~MPSCQueueNonIntrusive", "d4/d33/a05580.html#a599e2093215f70dc4f2f7db08965d816", null ],
+    [ "MPSCQueueNonIntrusive", "d4/d33/a05580.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
+    [ "Dequeue", "d4/d33/a05580.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
+    [ "Enqueue", "d4/d33/a05580.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
+    [ "operator=", "d4/d33/a05580.html#a75063e89049903fb5305d67ea1a02034", null ],
+    [ "_head", "d4/d33/a05580.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
+    [ "_tail", "d4/d33/a05580.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
 ];

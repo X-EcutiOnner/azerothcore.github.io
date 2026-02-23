@@ -1,8 +1,5 @@
 var a27968 =
 [
-    [ "npc_minion_spawner", "d9/ddd/a27968.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
-    [ "CanSpawnRareMinion", "d9/ddd/a27968.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
-    [ "JustSummoned", "d9/ddd/a27968.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
-    [ "Reset", "d9/ddd/a27968.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
-    [ "UpdateAI", "d9/ddd/a27968.html#a24f93f1314bb73edb369e188eda83104", null ]
+    [ "AreaTrigger_at_last_rites", "d9/ddd/a27968.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
+    [ "OnTrigger", "d9/ddd/a27968.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
 ];

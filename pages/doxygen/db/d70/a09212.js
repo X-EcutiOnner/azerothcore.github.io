@@ -1,7 +1,8 @@
 var a09212 =
 [
-    [ "flags", "db/d70/a09212.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
-    [ "fourcc", "db/d70/a09212.html#a93b48dd741d13ff036eac8a77df9f916", null ],
-    [ "gridHeight", "db/d70/a09212.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
-    [ "gridMaxHeight", "db/d70/a09212.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
+    [ "MailLevelReward", "db/d70/a09212.html#accd52642cbbab457b69dba54a6ffa23b", null ],
+    [ "MailLevelReward", "db/d70/a09212.html#a3e98aa5c30b0b5648784f9aaf5349a76", null ],
+    [ "mailTemplateId", "db/d70/a09212.html#afdf6684bcd2751822bd00ba1509ef933", null ],
+    [ "raceMask", "db/d70/a09212.html#a341088acd89b79161d932367f4f1798d", null ],
+    [ "senderEntry", "db/d70/a09212.html#a2b678ac953209691b38d583cffab55b5", null ]
 ];

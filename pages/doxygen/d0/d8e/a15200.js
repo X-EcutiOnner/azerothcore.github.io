@@ -1,6 +1,7 @@
 var a15200 =
 [
-    [ "instance_ragefire_chasm_InstanceMapScript", "d3/d97/a15204.html", "d3/d97/a15204" ],
-    [ "instance_ragefire_chasm", "d0/d8e/a15200.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
-    [ "GetInstanceScript", "d0/d8e/a15200.html#a0568996a61ef91688b9f223cb3782e5a", null ]
+    [ "OnRemove", "d0/d8e/a15200.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
+    [ "PrepareAuraScript", "d0/d8e/a15200.html#ab082adc51983f124d0467cbff63cffb7", null ],
+    [ "Register", "d0/d8e/a15200.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
+    [ "Validate", "d0/d8e/a15200.html#a73421b82f483e73314dbb862fb0a11c7", null ]
 ];

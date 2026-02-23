@@ -1,7 +1,12 @@
 var a14012 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "da/d46/a14012.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
-    [ "Reset", "da/d46/a14012.html#a18de805428ce0954a5fbfffbf5975342", null ],
-    [ "UpdateAI", "da/d46/a14012.html#a48b191d0812bfe3212511a52ef0df817", null ],
-    [ "_events", "da/d46/a14012.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
+    [ "npc_eastvale_peasent", "da/d46/a14012.html#a5282dac41228569d4431d84c1f160f05", null ],
+    [ "Initialize", "da/d46/a14012.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
+    [ "PathEndReached", "da/d46/a14012.html#a002ec21e0715b020aa19cd0839408033", null ],
+    [ "Reset", "da/d46/a14012.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
+    [ "SetData", "da/d46/a14012.html#add14d9505880727e208e7ef9428f5acd", null ],
+    [ "UpdateAI", "da/d46/a14012.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
+    [ "_events", "da/d46/a14012.html#a1b310b07481366042dc45f7a27ce6408", null ],
+    [ "_path", "da/d46/a14012.html#a907db8e6148947248b5bcfdb35023e16", null ],
+    [ "_realenGUID", "da/d46/a14012.html#aad06364be8698b5ba69cd229e2a5085b", null ]
 ];

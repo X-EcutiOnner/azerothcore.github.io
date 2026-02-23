@@ -1,8 +1,9 @@
 var a09608 =
 [
-    [ "flags", "d0/d40/a09608.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
-    [ "group", "d0/d40/a09608.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
-    [ "guid", "d0/d40/a09608.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
-    [ "name", "d0/d40/a09608.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
-    [ "roles", "d0/d40/a09608.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
+    [ "NearestHostileUnitCheck", "d0/d40/a09608.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
+    [ "NearestHostileUnitCheck", "d0/d40/a09608.html#a2fe620370289850eb0362823de2072d1", null ],
+    [ "operator()", "d0/d40/a09608.html#a04c85a77d660bbc74279d1062dabc375", null ],
+    [ "i_playerOnly", "d0/d40/a09608.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
+    [ "m_range", "d0/d40/a09608.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
+    [ "me", "d0/d40/a09608.html#a67cef25e6f725ea42f0377df34d48495", null ]
 ];

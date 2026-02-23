@@ -1,11 +1,19 @@
 var a16324 =
 [
-    [ "boss_general_zarithrianAI", "d7/ded/a16324.html#a4168a5883052810d137f59d3b104bc24", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d7/ded/a16324.html#a22f6ff041e61c94df73a938162fa26f5", null ],
-    [ "JustDied", "d7/ded/a16324.html#a49be533142c82a95a136dc2dcbf4843c", null ],
-    [ "JustEngagedWith", "d7/ded/a16324.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
-    [ "JustSummoned", "d7/ded/a16324.html#acb694d20b35d57a315aa4662562af210", null ],
-    [ "KilledUnit", "d7/ded/a16324.html#ad385477740b728e63acff7c184df3c09", null ],
-    [ "Reset", "d7/ded/a16324.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
-    [ "UpdateAI", "d7/ded/a16324.html#a3a7e578d64a760cd38712c725eecc97d", null ]
+    [ "boss_hadronox", "d7/ded/a16324.html#a5f99247a1eb3ca11741c656db9f91864", null ],
+    [ "DamageTaken", "d7/ded/a16324.html#a4c74557d814776061fe6df4c234885f1", null ],
+    [ "DoAction", "d7/ded/a16324.html#a822059f4efa5e311bf3f79698ed3aa6e", null ],
+    [ "GetData", "d7/ded/a16324.html#a9666b5af984f15afd52b9a81a12fd334", null ],
+    [ "IsInCombatWithPlayer", "d7/ded/a16324.html#a00d15de04d2f63c71b762d8c05161295", null ],
+    [ "JustEngagedWith", "d7/ded/a16324.html#a0ecc876405753200c1c2fe575635ffb0", null ],
+    [ "JustSummoned", "d7/ded/a16324.html#a3a5680abcef0529dcfca6c27f42f8f61", null ],
+    [ "KilledUnit", "d7/ded/a16324.html#a721fabc47cb7416879e73e143898ddef", null ],
+    [ "MovementInform", "d7/ded/a16324.html#a5e7c5226b0fb26a3c2d75726d5323af6", null ],
+    [ "Reset", "d7/ded/a16324.html#a0d73acbe4061d48c2c5deb4203d0c9fb", null ],
+    [ "SummonCrusherPack", "d7/ded/a16324.html#ab58a7949dd4797849cf98152e541b9a9", null ],
+    [ "SummonedCreatureEvade", "d7/ded/a16324.html#a23fb17d6eb7a03e7efe0bffb28adee0c", null ],
+    [ "UpdateAI", "d7/ded/a16324.html#aef361a41c7a3db94c00b594dd82ffabd", null ],
+    [ "_crushersLeft", "d7/ded/a16324.html#a386cafa7de8fcaf6ac5d823af01fc443", null ],
+    [ "_doorsWebbed", "d7/ded/a16324.html#a1515f5161e04e97734c538d7dede2902", null ],
+    [ "_lastPlayerCombatState", "d7/ded/a16324.html#a0cd1b2eae097b327e845e5a3038c6342", null ]
 ];

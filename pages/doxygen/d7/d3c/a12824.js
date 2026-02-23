@@ -1,8 +1,8 @@
 var a12824 =
 [
-    [ "npc_lava_spawn", "d7/d3c/a12824.html#aff97441b2cfbcd68e0788be022ee6236", null ],
-    [ "JustEngagedWith", "d7/d3c/a12824.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
-    [ "Reset", "d7/d3c/a12824.html#ab774d354991c90b1421e6783c0513e59", null ],
-    [ "UpdateAI", "d7/d3c/a12824.html#a6a17c8c40b0110b688ff5faef5585185", null ],
-    [ "_scheduler", "d7/d3c/a12824.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
+    [ "boss_garrAI", "d7/d3c/a12824.html#a12d403a90bf4920763ddd87b252f544a", null ],
+    [ "JustEngagedWith", "d7/d3c/a12824.html#a3b2bf0e6d3b6b32c450d03b1c88f3850", null ],
+    [ "Reset", "d7/d3c/a12824.html#acb14e869dac8e7df83b5b9d858cd2b21", null ],
+    [ "UpdateAI", "d7/d3c/a12824.html#aca82837e143f4509db221de15276b90c", null ],
+    [ "massEruptionTimer", "d7/d3c/a12824.html#ab807c47afd1ba8320730c3aa733e1b15", null ]
 ];

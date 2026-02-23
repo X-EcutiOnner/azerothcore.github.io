@@ -1,5 +1,7 @@
 var a07824 =
 [
-    [ "IsColorValid", "de/da0/a07824.html#a4e2a1ab20d086987429174f41887bc45", null ],
-    [ "IsTextValid", "de/da0/a07824.html#a4704555f7e926f8facce237de6772a3d", null ]
+    [ "V", "de/da0/a07824.html#aab662b1ba92ab8eb76558f97191142cc", null ],
+    [ "TryAtIndex", "de/da0/a07824.html#aeff1865d7499b0b112cc39c44fd07112", null ],
+    [ "TryConsume", "de/da0/a07824.html#ae2a889829917ed0dd76194194efc9b13", null ],
+    [ "N", "de/da0/a07824.html#aa2c2048ce2e64b2398eeea3f0d789245", null ]
 ];

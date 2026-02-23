@@ -1,14 +1,6 @@
 var a16824 =
 [
-    [ "npc_snobold_vassalAI", "d5/dd8/a16824.html#a2ecc5e8289252b2936f36de9921294e0", null ],
-    [ "AttackStart", "d5/dd8/a16824.html#a50afc82c80cede8dcf3240a116463411", null ],
-    [ "DoAction", "d5/dd8/a16824.html#a8beac97ea5f7c797d2ae52e2f3c3be50", null ],
-    [ "JustDied", "d5/dd8/a16824.html#aef408460584a17f15a84e8a6435c6348", null ],
-    [ "JustEngagedWith", "d5/dd8/a16824.html#a60c1704617e99239d60d24d6b7513c1a", null ],
-    [ "MoveInLineOfSight", "d5/dd8/a16824.html#aae75a4e69e27c1e4778a7f76caff04ba", null ],
-    [ "Reset", "d5/dd8/a16824.html#af794f46b1a7af97b52683954b556c27d", null ],
-    [ "UpdateAI", "d5/dd8/a16824.html#ac1d282da6f2d9133619a212a349c777f", null ],
-    [ "events", "d5/dd8/a16824.html#adfb6df0ee8ab19b58de24da8d4e6d9df", null ],
-    [ "pInstance", "d5/dd8/a16824.html#afc140e6f9fc1ec78914aecc5150345b0", null ],
-    [ "TargetGUID", "d5/dd8/a16824.html#a0d36e4903448c5a03115df0dff3480c8", null ]
+    [ "npc_toc_shamanAI", "d9/df5/a16828.html", "d9/df5/a16828" ],
+    [ "npc_toc_shaman", "d5/dd8/a16824.html#a26e3a539d8d918057e9f81b9ee83f17d", null ],
+    [ "GetAI", "d5/dd8/a16824.html#a7102a3aec6c229a04b617c562512bf29", null ]
 ];

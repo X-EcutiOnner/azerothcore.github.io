@@ -1,6 +1,7 @@
 var a23064 =
 [
-    [ "PrepareAuraScript", "d6/d06/a23064.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
-    [ "Register", "d6/d06/a23064.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
-    [ "Update", "d6/d06/a23064.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
+    [ "HandleEffectApply", "d6/d06/a23064.html#acc7aeb8a002db3a846cbac29053af441", null ],
+    [ "HandleEffectRemove", "d6/d06/a23064.html#a11de5d496bc1265ceb01c2bb91da4a57", null ],
+    [ "PrepareAuraScript", "d6/d06/a23064.html#a7203f8808f6afc5bdaf49a26ae8b0c20", null ],
+    [ "Register", "d6/d06/a23064.html#a7b62d651a57e2dc9d8e461f7a5c9d500", null ]
 ];

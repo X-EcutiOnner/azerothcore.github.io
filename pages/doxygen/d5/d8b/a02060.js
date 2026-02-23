@@ -1,22 +1,15 @@
 var a02060 =
 [
-    [ "AISpellInfoType", "d3/dd4/a06281.html", "d3/dd4/a06281" ],
-    [ "AI_DEFAULT_COOLDOWN", "d5/d8b/a02060.html#a41c947edd84b4f2bb45133dc7aa00cad", null ],
-    [ "AICondition", "d5/d8b/a02060.html#ac43b18581ae7a7b66984b1003502d5af", [
-      [ "AICOND_AGGRO", "d5/d8b/a02060.html#ac43b18581ae7a7b66984b1003502d5afac41d9d90387a55a0b5be34e13683f9c8", null ],
-      [ "AICOND_COMBAT", "d5/d8b/a02060.html#ac43b18581ae7a7b66984b1003502d5afa6be0faa08bd4f7bb7891ce5e2b7e4642", null ],
-      [ "AICOND_DIE", "d5/d8b/a02060.html#ac43b18581ae7a7b66984b1003502d5afaeda5ad2d2df79acf7c72e4785011cf6e", null ]
+    [ "boss_hydromancer_thespia", "dd/dfc/a23284.html", "dd/dfc/a23284" ],
+    [ "HydromancerThespia", "d5/d8b/a02060.html#a3f4b673ff8add0ad1c96080f6252130d", [
+      [ "SAY_SUMMON", "d5/d8b/a02060.html#a3f4b673ff8add0ad1c96080f6252130dacebbfa1f13b8de4f039f5d550063c7bf", null ],
+      [ "SAY_AGGRO", "d5/d8b/a02060.html#a3f4b673ff8add0ad1c96080f6252130da47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_SLAY", "d5/d8b/a02060.html#a3f4b673ff8add0ad1c96080f6252130da9e64f6e600dd42567d18006912811f75", null ],
+      [ "SAY_DEAD", "d5/d8b/a02060.html#a3f4b673ff8add0ad1c96080f6252130dafeeb59e6533ea7f2f818422052e0b671", null ],
+      [ "SAY_SPELL", "d5/d8b/a02060.html#a3f4b673ff8add0ad1c96080f6252130dad25383e2c00eeae2e4b15e33298d79a2", null ],
+      [ "SPELL_LIGHTNING_CLOUD", "d5/d8b/a02060.html#a3f4b673ff8add0ad1c96080f6252130dae91e1d3d8c305d3f37313774206628f2", null ],
+      [ "SPELL_LUNG_BURST", "d5/d8b/a02060.html#a3f4b673ff8add0ad1c96080f6252130da56e2d21d9894c6b11ae15da9572894c6", null ],
+      [ "SPELL_ENVELOPING_WINDS", "d5/d8b/a02060.html#a3f4b673ff8add0ad1c96080f6252130dacf98b779c795324d47e44b043eeacf92", null ]
     ] ],
-    [ "AITarget", "d5/d8b/a02060.html#a0160eb61118b5e41325297a2e1691805", [
-      [ "AITARGET_SELF", "d5/d8b/a02060.html#a0160eb61118b5e41325297a2e1691805a4b428b5bdc3edc7ea5f9ca4c9780e7f2", null ],
-      [ "AITARGET_VICTIM", "d5/d8b/a02060.html#a0160eb61118b5e41325297a2e1691805a7a53e2d219f908fcf583c5c00d5d9452", null ],
-      [ "AITARGET_ENEMY", "d5/d8b/a02060.html#a0160eb61118b5e41325297a2e1691805a96629d4be8c89fe161fecd4a8fc34439", null ],
-      [ "AITARGET_ALLY", "d5/d8b/a02060.html#a0160eb61118b5e41325297a2e1691805a0a4905e11672a2854778c1c2c8221b56", null ],
-      [ "AITARGET_BUFF", "d5/d8b/a02060.html#a0160eb61118b5e41325297a2e1691805a1dedb7d4847bb64f81a7760ce25670ed", null ],
-      [ "AITARGET_DEBUFF", "d5/d8b/a02060.html#a0160eb61118b5e41325297a2e1691805aad9b55cf2a0d16b9eb1620544f0e3654", null ]
-    ] ],
-    [ "GetAISpellInfo", "d5/d8b/a02060.html#a1ed41ad074263f6c0c63f38b7f51414b", null ],
-    [ "GetInstanceAI", "d5/d8b/a02060.html#a6650ccba23715eea545340cd3e712233", null ],
-    [ "InstanceHasScript", "d5/d8b/a02060.html#aad76768c8aee9ce3ac24657437adb0de", null ],
-    [ "RAND", "d5/d8b/a02060.html#a95d9a0c5ba0d54645670ba51c16ed33c", null ]
+    [ "AddSC_boss_hydromancer_thespia", "d5/d8b/a02060.html#a0a9bb9014bd5526d13141dcef207c234", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::LocalizedPacketDo&lt; Builder &gt; Class Template Reference</title>
+<title>AzerothCore: Acore::AnyAoETargetUnitInObjectRangeCheck Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,7 +108,7 @@ $(document).ready(function(){initNavTree('dc/d08/a09592.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d1/db2/a09589.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::LocalizedPacketDo&lt; Builder &gt; Class Template Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::AnyAoETargetUnitInObjectRangeCheck Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
@@ -116,68 +116,106 @@ $(document).ready(function(){initNavTree('dc/d08/a09592.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a9b7700f2a4958b91a67375ec9a40072c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d08/a09592.html#a9b7700f2a4958b91a67375ec9a40072c">LocalizedPacketDo</a> (Builder &amp;builder)</td></tr>
-<tr class="separator:a9b7700f2a4958b91a67375ec9a40072c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4296260b2011e1f7c300987073863ca9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d08/a09592.html#a4296260b2011e1f7c300987073863ca9">~LocalizedPacketDo</a> ()</td></tr>
-<tr class="separator:a4296260b2011e1f7c300987073863ca9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a43449bdf0302e426b8cb4341326196b1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d08/a09592.html#a43449bdf0302e426b8cb4341326196b1">operator()</a> (<a class="el" href="../../d0/db4/a08708.html">Player</a> *p)</td></tr>
-<tr class="separator:a43449bdf0302e426b8cb4341326196b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a93d850e2d5f094b97ca5c09bf1d236a9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d08/a09592.html#a93d850e2d5f094b97ca5c09bf1d236a9">AnyAoETargetUnitInObjectRangeCheck</a> (<a class="el" href="../../d5/dcc/a08616.html">WorldObject</a> const *obj, <a class="el" href="../../d4/d43/a08960.html">Unit</a> const *funit, float range)</td></tr>
+<tr class="separator:a93d850e2d5f094b97ca5c09bf1d236a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af9a0c32593544a73aae22cd397eef63a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d08/a09592.html#af9a0c32593544a73aae22cd397eef63a">operator()</a> (<a class="el" href="../../d4/d43/a08960.html">Unit</a> *u)</td></tr>
+<tr class="separator:af9a0c32593544a73aae22cd397eef63a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a2c794905898feb502bfc5d3760f962b8"><td class="memItemLeft" align="right" valign="top">Builder &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d08/a09592.html#a2c794905898feb502bfc5d3760f962b8">i_builder</a></td></tr>
-<tr class="separator:a2c794905898feb502bfc5d3760f962b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2bbff655e1a5268981c48e3ee028b104"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d2/d8e/a11240.html">WorldPacket</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d08/a09592.html#a2bbff655e1a5268981c48e3ee028b104">i_data_cache</a></td></tr>
-<tr class="separator:a2bbff655e1a5268981c48e3ee028b104"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af5ce329f3493b97f59c61c3e87af48b1"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d08/a09592.html#af5ce329f3493b97f59c61c3e87af48b1">i_targetForPlayer</a></td></tr>
+<tr class="separator:af5ce329f3493b97f59c61c3e87af48b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4acf0089c978408e30b08d539f2512f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/dcc/a08616.html">WorldObject</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d08/a09592.html#aa4acf0089c978408e30b08d539f2512f">i_obj</a></td></tr>
+<tr class="separator:aa4acf0089c978408e30b08d539f2512f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa00b184a24ea73293114f92126f58f24"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d43/a08960.html">Unit</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d08/a09592.html#aa00b184a24ea73293114f92126f58f24">i_funit</a></td></tr>
+<tr class="separator:aa00b184a24ea73293114f92126f58f24"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1317c9df0d5792ad3122ff1ed1a31458"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d08/a09592.html#a1317c9df0d5792ad3122ff1ed1a31458">_spellInfo</a></td></tr>
+<tr class="separator:a1317c9df0d5792ad3122ff1ed1a31458"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad386efa8206906fd99816694a6a8d69b"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d08/a09592.html#ad386efa8206906fd99816694a6a8d69b">i_range</a></td></tr>
+<tr class="separator:ad386efa8206906fd99816694a6a8d69b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;class Builder&gt;<br />
-class Acore::LocalizedPacketDo&lt; Builder &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a9b7700f2a4958b91a67375ec9a40072c" name="a9b7700f2a4958b91a67375ec9a40072c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9b7700f2a4958b91a67375ec9a40072c">&#9670;&#160;</a></span>LocalizedPacketDo()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a93d850e2d5f094b97ca5c09bf1d236a9" name="a93d850e2d5f094b97ca5c09bf1d236a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a93d850e2d5f094b97ca5c09bf1d236a9">&#9670;&#160;</a></span>AnyAoETargetUnitInObjectRangeCheck()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class Builder &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/d08/a09592.html">Acore::LocalizedPacketDo</a>&lt; Builder &gt;::LocalizedPacketDo </td>
+          <td class="memname">Acore::AnyAoETargetUnitInObjectRangeCheck::AnyAoETargetUnitInObjectRangeCheck </td>
           <td>(</td>
-          <td class="paramtype">Builder &amp;&#160;</td>
-          <td class="paramname"><em>builder</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d5/dcc/a08616.html">WorldObject</a> const *&#160;</td>
+          <td class="paramname"><em>obj</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/d43/a08960.html">Unit</a> const *&#160;</td>
+          <td class="paramname"><em>funit</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>range</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1739</span>: <a class="code hl_variable" href="../../dc/d08/a09592.html#a2c794905898feb502bfc5d3760f962b8">i_builder</a>(builder) {}</div>
-<div class="ttc" id="aa09592_html_a2c794905898feb502bfc5d3760f962b8"><div class="ttname"><a href="../../dc/d08/a09592.html#a2c794905898feb502bfc5d3760f962b8">Acore::LocalizedPacketDo::i_builder</a></div><div class="ttdeci">Builder &amp; i_builder</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1749</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1074</span>            : <a class="code hl_variable" href="../../dc/d08/a09592.html#aa4acf0089c978408e30b08d539f2512f">i_obj</a>(obj), <a class="code hl_variable" href="../../dc/d08/a09592.html#aa00b184a24ea73293114f92126f58f24">i_funit</a>(funit), <a class="code hl_variable" href="../../dc/d08/a09592.html#a1317c9df0d5792ad3122ff1ed1a31458">_spellInfo</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../dc/d08/a09592.html#ad386efa8206906fd99816694a6a8d69b">i_range</a>(range)</div>
+<div class="line"><span class="lineno"> 1075</span>        {</div>
+<div class="line"><span class="lineno"> 1076</span>            <a class="code hl_class" href="../../d4/d43/a08960.html">Unit</a> <span class="keyword">const</span>* check = <a class="code hl_variable" href="../../dc/d08/a09592.html#aa00b184a24ea73293114f92126f58f24">i_funit</a>;</div>
+<div class="line"><span class="lineno"> 1077</span>            <a class="code hl_class" href="../../d4/d43/a08960.html">Unit</a> <span class="keyword">const</span>* owner = <a class="code hl_variable" href="../../dc/d08/a09592.html#aa00b184a24ea73293114f92126f58f24">i_funit</a>-&gt;<a class="code hl_function" href="../../d4/d43/a08960.html#a16a73fea59a6ef3595093aa29225b37b">GetOwner</a>();</div>
+<div class="line"><span class="lineno"> 1078</span>            <span class="keywordflow">if</span> (owner)</div>
+<div class="line"><span class="lineno"> 1079</span>                check = owner;</div>
+<div class="line"><span class="lineno"> 1080</span>            <a class="code hl_variable" href="../../dc/d08/a09592.html#af5ce329f3493b97f59c61c3e87af48b1">i_targetForPlayer</a> = (check-&gt;<a class="code hl_function" href="../../da/d14/a08580.html#a1b9ed00e8d7ac5fed698ef6431905296">IsPlayer</a>());</div>
+<div class="line"><span class="lineno"> 1081</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/d08/a09592.html#aa4acf0089c978408e30b08d539f2512f">i_obj</a>-&gt;<a class="code hl_function" href="../../da/d14/a08580.html#ae4c76bc345c6067c152aaf0fb9f91957">IsDynamicObject</a>())</div>
+<div class="line"><span class="lineno"> 1082</span>                <a class="code hl_variable" href="../../dc/d08/a09592.html#a1317c9df0d5792ad3122ff1ed1a31458">_spellInfo</a> = <a class="code hl_define" href="../../d0/dc2/a00104.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetSpellInfo(((<a class="code hl_class" href="../../d0/dac/a08356.html">DynamicObject</a>*)<a class="code hl_variable" href="../../dc/d08/a09592.html#aa4acf0089c978408e30b08d539f2512f">i_obj</a>)-&gt;GetSpellId());</div>
+<div class="line"><span class="lineno"> 1083</span>        }</div>
+<div class="ttc" id="aa00104_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../d0/dc2/a00104.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:814</div></div>
+<div class="ttc" id="aa08356_html"><div class="ttname"><a href="../../d0/dac/a08356.html">DynamicObject</a></div><div class="ttdef"><b>Definition:</b> DynamicObject.h:35</div></div>
+<div class="ttc" id="aa08580_html_a1b9ed00e8d7ac5fed698ef6431905296"><div class="ttname"><a href="../../da/d14/a08580.html#a1b9ed00e8d7ac5fed698ef6431905296">Object::IsPlayer</a></div><div class="ttdeci">bool IsPlayer() const</div><div class="ttdef"><b>Definition:</b> Object.h:200</div></div>
+<div class="ttc" id="aa08580_html_ae4c76bc345c6067c152aaf0fb9f91957"><div class="ttname"><a href="../../da/d14/a08580.html#ae4c76bc345c6067c152aaf0fb9f91957">Object::IsDynamicObject</a></div><div class="ttdeci">bool IsDynamicObject() const</div><div class="ttdef"><b>Definition:</b> Object.h:220</div></div>
+<div class="ttc" id="aa08960_html"><div class="ttname"><a href="../../d4/d43/a08960.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:665</div></div>
+<div class="ttc" id="aa08960_html_a16a73fea59a6ef3595093aa29225b37b"><div class="ttname"><a href="../../d4/d43/a08960.html#a16a73fea59a6ef3595093aa29225b37b">Unit::GetOwner</a></div><div class="ttdeci">Unit * GetOwner() const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:7589</div></div>
+<div class="ttc" id="aa09592_html_a1317c9df0d5792ad3122ff1ed1a31458"><div class="ttname"><a href="../../dc/d08/a09592.html#a1317c9df0d5792ad3122ff1ed1a31458">Acore::AnyAoETargetUnitInObjectRangeCheck::_spellInfo</a></div><div class="ttdeci">SpellInfo const  * _spellInfo</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1110</div></div>
+<div class="ttc" id="aa09592_html_aa00b184a24ea73293114f92126f58f24"><div class="ttname"><a href="../../dc/d08/a09592.html#aa00b184a24ea73293114f92126f58f24">Acore::AnyAoETargetUnitInObjectRangeCheck::i_funit</a></div><div class="ttdeci">Unit const  * i_funit</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1109</div></div>
+<div class="ttc" id="aa09592_html_aa4acf0089c978408e30b08d539f2512f"><div class="ttname"><a href="../../dc/d08/a09592.html#aa4acf0089c978408e30b08d539f2512f">Acore::AnyAoETargetUnitInObjectRangeCheck::i_obj</a></div><div class="ttdeci">WorldObject const  * i_obj</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1108</div></div>
+<div class="ttc" id="aa09592_html_ad386efa8206906fd99816694a6a8d69b"><div class="ttname"><a href="../../dc/d08/a09592.html#ad386efa8206906fd99816694a6a8d69b">Acore::AnyAoETargetUnitInObjectRangeCheck::i_range</a></div><div class="ttdeci">float i_range</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1111</div></div>
+<div class="ttc" id="aa09592_html_af5ce329f3493b97f59c61c3e87af48b1"><div class="ttname"><a href="../../dc/d08/a09592.html#af5ce329f3493b97f59c61c3e87af48b1">Acore::AnyAoETargetUnitInObjectRangeCheck::i_targetForPlayer</a></div><div class="ttdeci">bool i_targetForPlayer</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1107</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l01110">_spellInfo</a>, <a class="el" href="../../#l07589">Unit::GetOwner()</a>, <a class="el" href="../../#l01109">i_funit</a>, <a class="el" href="../../#l01108">i_obj</a>, <a class="el" href="../../#l01107">i_targetForPlayer</a>, <a class="el" href="../../#l00220">Object::IsDynamicObject()</a>, <a class="el" href="../../#l00200">Object::IsPlayer()</a>, and <a class="el" href="../../#l00814">sSpellMgr</a>.</p>
+
 </div>
 </div>
-<a id="a4296260b2011e1f7c300987073863ca9" name="a4296260b2011e1f7c300987073863ca9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4296260b2011e1f7c300987073863ca9">&#9670;&#160;</a></span>~LocalizedPacketDo()</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="af9a0c32593544a73aae22cd397eef63a" name="af9a0c32593544a73aae22cd397eef63a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af9a0c32593544a73aae22cd397eef63a">&#9670;&#160;</a></span>operator()()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class Builder &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/d08/a09592.html">Acore::LocalizedPacketDo</a>&lt; Builder &gt;::~<a class="el" href="../../dc/d08/a09592.html">LocalizedPacketDo</a> </td>
+          <td class="memname">bool Acore::AnyAoETargetUnitInObjectRangeCheck::operator() </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d4/d43/a08960.html">Unit</a> *&#160;</td>
+          <td class="paramname"><em>u</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -187,81 +225,48 @@ template&lt;class Builder &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1742</span>        {</div>
-<div class="line"><span class="lineno"> 1743</span>            <span class="keywordflow">for</span> (std::size_t i = 0; i &lt; <a class="code hl_variable" href="../../dc/d08/a09592.html#a2bbff655e1a5268981c48e3ee028b104">i_data_cache</a>.size(); ++i)</div>
-<div class="line"><span class="lineno"> 1744</span>                <span class="keyword">delete</span> <a class="code hl_variable" href="../../dc/d08/a09592.html#a2bbff655e1a5268981c48e3ee028b104">i_data_cache</a>[i];</div>
-<div class="line"><span class="lineno"> 1745</span>        }</div>
-<div class="ttc" id="aa09592_html_a2bbff655e1a5268981c48e3ee028b104"><div class="ttname"><a href="../../dc/d08/a09592.html#a2bbff655e1a5268981c48e3ee028b104">Acore::LocalizedPacketDo::i_data_cache</a></div><div class="ttdeci">std::vector&lt; WorldPacket * &gt; i_data_cache</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1750</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1085</span>        {</div>
+<div class="line"><span class="lineno"> 1086</span>            <span class="comment">// Check contains checks for: live, non-selectable, non-attackable flags, flight check and GM check, ignore totems</span></div>
+<div class="line"><span class="lineno"> 1087</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d3/d6d/a08204.html">Creature</a>* creature = u-&gt;<a class="code hl_function" href="../../da/d14/a08580.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>())</div>
+<div class="line"><span class="lineno"> 1088</span>            {</div>
+<div class="line"><span class="lineno"> 1089</span>                <span class="keywordflow">if</span> (creature-&gt;IsTotem())</div>
+<div class="line"><span class="lineno"> 1090</span>                {</div>
+<div class="line"><span class="lineno"> 1091</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1092</span>                }</div>
+<div class="line"><span class="lineno"> 1093</span> </div>
+<div class="line"><span class="lineno"> 1094</span>                <span class="keywordflow">if</span> (creature-&gt;IsAvoidingAOE())</div>
+<div class="line"><span class="lineno"> 1095</span>                {</div>
+<div class="line"><span class="lineno"> 1096</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1097</span>                }</div>
+<div class="line"><span class="lineno"> 1098</span>            }</div>
+<div class="line"><span class="lineno"> 1099</span> </div>
+<div class="line"><span class="lineno"> 1100</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/d08/a09592.html#aa00b184a24ea73293114f92126f58f24">i_funit</a>-&gt;<a class="code hl_function" href="../../d4/d43/a08960.html#afc27b06cec2419179037868f89114d82">_IsValidAttackTarget</a>(u, <a class="code hl_variable" href="../../dc/d08/a09592.html#a1317c9df0d5792ad3122ff1ed1a31458">_spellInfo</a>, <a class="code hl_variable" href="../../dc/d08/a09592.html#aa4acf0089c978408e30b08d539f2512f">i_obj</a>-&gt;<a class="code hl_function" href="../../da/d14/a08580.html#ae4c76bc345c6067c152aaf0fb9f91957">IsDynamicObject</a>() ? <a class="code hl_variable" href="../../dc/d08/a09592.html#aa4acf0089c978408e30b08d539f2512f">i_obj</a> : <span class="keyword">nullptr</span>) &amp;&amp; <a class="code hl_variable" href="../../dc/d08/a09592.html#aa4acf0089c978408e30b08d539f2512f">i_obj</a>-&gt;<a class="code hl_function" href="../../d5/dcc/a08616.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../dc/d08/a09592.html#ad386efa8206906fd99816694a6a8d69b">i_range</a>,<span class="keyword">true</span>,<span class="keyword">false</span>, <span class="keyword">true</span>))</div>
+<div class="line"><span class="lineno"> 1101</span> </div>
+<div class="line"><span class="lineno"> 1102</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1103</span> </div>
+<div class="line"><span class="lineno"> 1104</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1105</span>        }</div>
+<div class="ttc" id="aa08204_html"><div class="ttname"><a href="../../d3/d6d/a08204.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:47</div></div>
+<div class="ttc" id="aa08580_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../da/d14/a08580.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition:</b> Object.h:205</div></div>
+<div class="ttc" id="aa08616_html_aaeea293a6966a717f17113370d364168"><div class="ttname"><a href="../../d5/dcc/a08616.html#aaeea293a6966a717f17113370d364168">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool incOwnRadius=true, bool incTargetRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1347</div></div>
+<div class="ttc" id="aa08960_html_afc27b06cec2419179037868f89114d82"><div class="ttname"><a href="../../d4/d43/a08960.html#afc27b06cec2419179037868f89114d82">Unit::_IsValidAttackTarget</a></div><div class="ttdeci">bool _IsValidAttackTarget(Unit const *target, SpellInfo const *bySpell, WorldObject const *obj=nullptr) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10810</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01750">Acore::LocalizedPacketDo&lt; Builder &gt;::i_data_cache</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a43449bdf0302e426b8cb4341326196b1" name="a43449bdf0302e426b8cb4341326196b1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a43449bdf0302e426b8cb4341326196b1">&#9670;&#160;</a></span>operator()()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class Builder &gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../dc/d08/a09592.html">Acore::LocalizedPacketDo</a>&lt; Builder &gt;::operator() </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/db4/a08708.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>p</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  537</span>{</div>
-<div class="line"><span class="lineno">  538</span>    <a class="code hl_enumeration" href="../../d0/d15/a04574.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> loc_idx = p-&gt;<a class="code hl_function" href="../../d0/db4/a08708.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d9/da9/a11284.html#a38ff97828c0efe89c092f5772c543564">GetSessionDbLocaleIndex</a>();</div>
-<div class="line"><span class="lineno">  539</span>    <a class="code hl_typedef" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> cache_idx = loc_idx + 1;</div>
-<div class="line"><span class="lineno">  540</span>    <a class="code hl_class" href="../../d2/d8e/a11240.html">WorldPacket</a>* data;</div>
-<div class="line"><span class="lineno">  541</span> </div>
-<div class="line"><span class="lineno">  542</span>    <span class="comment">// create if not cached yet</span></div>
-<div class="line"><span class="lineno">  543</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/d08/a09592.html#a2bbff655e1a5268981c48e3ee028b104">i_data_cache</a>.size() &lt; cache_idx + 1 || !<a class="code hl_variable" href="../../dc/d08/a09592.html#a2bbff655e1a5268981c48e3ee028b104">i_data_cache</a>[cache_idx])</div>
-<div class="line"><span class="lineno">  544</span>    {</div>
-<div class="line"><span class="lineno">  545</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/d08/a09592.html#a2bbff655e1a5268981c48e3ee028b104">i_data_cache</a>.size() &lt; cache_idx + 1)</div>
-<div class="line"><span class="lineno">  546</span>            <a class="code hl_variable" href="../../dc/d08/a09592.html#a2bbff655e1a5268981c48e3ee028b104">i_data_cache</a>.resize(cache_idx + 1);</div>
-<div class="line"><span class="lineno">  547</span> </div>
-<div class="line"><span class="lineno">  548</span>        data = <span class="keyword">new</span> <a class="code hl_class" href="../../d2/d8e/a11240.html">WorldPacket</a>();</div>
-<div class="line"><span class="lineno">  549</span> </div>
-<div class="line"><span class="lineno">  550</span>        <a class="code hl_variable" href="../../dc/d08/a09592.html#a2c794905898feb502bfc5d3760f962b8">i_builder</a>(*data, loc_idx);</div>
-<div class="line"><span class="lineno">  551</span> </div>
-<div class="line"><span class="lineno">  552</span>        <a class="code hl_variable" href="../../dc/d08/a09592.html#a2bbff655e1a5268981c48e3ee028b104">i_data_cache</a>[cache_idx] = data;</div>
-<div class="line"><span class="lineno">  553</span>    }</div>
-<div class="line"><span class="lineno">  554</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  555</span>        data = <a class="code hl_variable" href="../../dc/d08/a09592.html#a2bbff655e1a5268981c48e3ee028b104">i_data_cache</a>[cache_idx];</div>
-<div class="line"><span class="lineno">  556</span> </div>
-<div class="line"><span class="lineno">  557</span>    p-&gt;<a class="code hl_function" href="../../d0/db4/a08708.html#a2ad9b8f6c94365d5afe104567198aba8">SendDirectMessage</a>(data);</div>
-<div class="line"><span class="lineno">  558</span>}</div>
-<div class="ttc" id="aa04331_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa04574_html_a54c9b637be7283ba1a04fb5215594332"><div class="ttname"><a href="../../d0/d15/a04574.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a></div><div class="ttdeci">LocaleConstant</div><div class="ttdef"><b>Definition:</b> Common.h:117</div></div>
-<div class="ttc" id="aa08708_html_a2ad9b8f6c94365d5afe104567198aba8"><div class="ttname"><a href="../../d0/db4/a08708.html#a2ad9b8f6c94365d5afe104567198aba8">Player::SendDirectMessage</a></div><div class="ttdeci">void SendDirectMessage(WorldPacket const *data) const</div><div class="ttdef"><b>Definition:</b> Player.cpp:5685</div></div>
-<div class="ttc" id="aa08708_html_a6ab11ca64cde7c5cde1f53998a6f7253"><div class="ttname"><a href="../../d0/db4/a08708.html#a6ab11ca64cde7c5cde1f53998a6f7253">Player::GetSession</a></div><div class="ttdeci">WorldSession * GetSession() const</div><div class="ttdef"><b>Definition:</b> Player.h:1993</div></div>
-<div class="ttc" id="aa11240_html"><div class="ttname"><a href="../../d2/d8e/a11240.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
-<div class="ttc" id="aa11284_html_a38ff97828c0efe89c092f5772c543564"><div class="ttname"><a href="../../d9/da9/a11284.html#a38ff97828c0efe89c092f5772c543564">WorldSession::GetSessionDbLocaleIndex</a></div><div class="ttdeci">LocaleConstant GetSessionDbLocaleIndex() const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:565</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01993">Player::GetSession()</a>, <a class="el" href="../../#l00565">WorldSession::GetSessionDbLocaleIndex()</a>, <a class="el" href="../../#l00447">ByteBuffer::resize()</a>, and <a class="el" href="../../#l05685">Player::SendDirectMessage()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l10810">Unit::_IsValidAttackTarget()</a>, <a class="el" href="../../#l01110">_spellInfo</a>, <a class="el" href="../../#l01109">i_funit</a>, <a class="el" href="../../#l01108">i_obj</a>, <a class="el" href="../../#l01111">i_range</a>, <a class="el" href="../../#l00220">Object::IsDynamicObject()</a>, <a class="el" href="../../#l01347">WorldObject::IsWithinDistInMap()</a>, and <a class="el" href="../../#l00205">Object::ToCreature()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a2c794905898feb502bfc5d3760f962b8" name="a2c794905898feb502bfc5d3760f962b8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2c794905898feb502bfc5d3760f962b8">&#9670;&#160;</a></span>i_builder</h2>
+<a id="a1317c9df0d5792ad3122ff1ed1a31458" name="a1317c9df0d5792ad3122ff1ed1a31458"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1317c9df0d5792ad3122ff1ed1a31458">&#9670;&#160;</a></span>_spellInfo</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class Builder &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Builder&amp; <a class="el" href="../../dc/d08/a09592.html">Acore::LocalizedPacketDo</a>&lt; Builder &gt;::i_builder</td>
+          <td class="memname"><a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const* Acore::AnyAoETargetUnitInObjectRangeCheck::_spellInfo</td>
         </tr>
       </table>
   </td>
@@ -271,21 +276,21 @@ template&lt;class Builder &gt; </div>
 </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l01073">AnyAoETargetUnitInObjectRangeCheck()</a>, and <a class="el" href="../../#l01084">operator()()</a>.</p>
+
 </div>
 </div>
-<a id="a2bbff655e1a5268981c48e3ee028b104" name="a2bbff655e1a5268981c48e3ee028b104"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2bbff655e1a5268981c48e3ee028b104">&#9670;&#160;</a></span>i_data_cache</h2>
+<a id="aa00b184a24ea73293114f92126f58f24" name="aa00b184a24ea73293114f92126f58f24"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa00b184a24ea73293114f92126f58f24">&#9670;&#160;</a></span>i_funit</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class Builder &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt;<a class="el" href="../../d2/d8e/a11240.html">WorldPacket</a>*&gt; <a class="el" href="../../dc/d08/a09592.html">Acore::LocalizedPacketDo</a>&lt; Builder &gt;::i_data_cache</td>
+          <td class="memname"><a class="el" href="../../d4/d43/a08960.html">Unit</a> const* Acore::AnyAoETargetUnitInObjectRangeCheck::i_funit</td>
         </tr>
       </table>
   </td>
@@ -295,7 +300,79 @@ template&lt;class Builder &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01741">Acore::LocalizedPacketDo&lt; Builder &gt;::~LocalizedPacketDo()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01073">AnyAoETargetUnitInObjectRangeCheck()</a>, and <a class="el" href="../../#l01084">operator()()</a>.</p>
+
+</div>
+</div>
+<a id="aa4acf0089c978408e30b08d539f2512f" name="aa4acf0089c978408e30b08d539f2512f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa4acf0089c978408e30b08d539f2512f">&#9670;&#160;</a></span>i_obj</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/dcc/a08616.html">WorldObject</a> const* Acore::AnyAoETargetUnitInObjectRangeCheck::i_obj</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01073">AnyAoETargetUnitInObjectRangeCheck()</a>, and <a class="el" href="../../#l01084">operator()()</a>.</p>
+
+</div>
+</div>
+<a id="ad386efa8206906fd99816694a6a8d69b" name="ad386efa8206906fd99816694a6a8d69b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad386efa8206906fd99816694a6a8d69b">&#9670;&#160;</a></span>i_range</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float Acore::AnyAoETargetUnitInObjectRangeCheck::i_range</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01084">operator()()</a>.</p>
+
+</div>
+</div>
+<a id="af5ce329f3493b97f59c61c3e87af48b1" name="af5ce329f3493b97f59c61c3e87af48b1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af5ce329f3493b97f59c61c3e87af48b1">&#9670;&#160;</a></span>i_targetForPlayer</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool Acore::AnyAoETargetUnitInObjectRangeCheck::i_targetForPlayer</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01073">AnyAoETargetUnitInObjectRangeCheck()</a>.</p>
 
 </div>
 </div>
@@ -304,8 +381,8 @@ template&lt;class Builder &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/d15/a04833.html">Acore</a></li><li class="navelem"><a class="el" href="../../dc/d08/a09592.html">LocalizedPacketDo</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:12:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/d47/a04938.html">Acore</a></li><li class="navelem"><a class="el" href="../../dc/d08/a09592.html">AnyAoETargetUnitInObjectRangeCheck</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:16:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

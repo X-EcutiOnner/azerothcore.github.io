@@ -1,6 +1,17 @@
 var a13048 =
 [
-    [ "npc_grandmother", "d5/de0/a13048.html#a6cffe8c574859779f6561dde0aef9666", null ],
-    [ "OnGossipHello", "d5/de0/a13048.html#ae39335d22b5fd1fc4c0f9d34e8977124", null ],
-    [ "OnGossipSelect", "d5/de0/a13048.html#a0e2b684377ed593abfbb49b730cfe9b2", null ]
+    [ "boss_attumen", "d5/de0/a13048.html#a394925c2a44b0bfe8931ae88dd9868ae", null ],
+    [ "CanMeleeHit", "d5/de0/a13048.html#ae685929086090928802854cc93f9934a", null ],
+    [ "DamageTaken", "d5/de0/a13048.html#a0b426b760d9ace05211c3383e7628022", null ],
+    [ "EnterEvadeMode", "d5/de0/a13048.html#af00f91294c04d0fe932c922fd270c5dc", null ],
+    [ "Initialize", "d5/de0/a13048.html#ac89445e6a04c2d8cd04e53f4aea30c58", null ],
+    [ "IsSummonedBy", "d5/de0/a13048.html#a1fa6827c323cbda15e2a438bc376e74c", null ],
+    [ "JustDied", "d5/de0/a13048.html#a375a95d46f8db8a53ea6420dd557855e", null ],
+    [ "JustSummoned", "d5/de0/a13048.html#af91018e54244864ca4cd1b9d40c569df", null ],
+    [ "KilledUnit", "d5/de0/a13048.html#ad167a1ec5ff737ad77b0c492efc022f0", null ],
+    [ "Reset", "d5/de0/a13048.html#ab8815ed9b1068e748e43346725cd9281", null ],
+    [ "ScheduleTasks", "d5/de0/a13048.html#ae63d0a3c7ae4ad755f091f2d31342a57", null ],
+    [ "SpellHit", "d5/de0/a13048.html#a1181ae1d50d6c52483b0d90423997c90", null ],
+    [ "UpdateAI", "d5/de0/a13048.html#aac982f13b35e7c37b49a4e76ace5fccd", null ],
+    [ "_phase", "d5/de0/a13048.html#a8a668537dc5b7c01e6d9d91c67d6da72", null ]
 ];

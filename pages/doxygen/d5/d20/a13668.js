@@ -1,6 +1,9 @@
 var a13668 =
 [
-    [ "FilterTargets", "d5/d20/a13668.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
-    [ "PrepareSpellScript", "d5/d20/a13668.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
-    [ "Register", "d5/d20/a13668.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
+    [ "boss_brutallus", "d5/d20/a13668.html#a501c898505eb4265edee1546bc54713e", null ],
+    [ "AttackStart", "d5/d20/a13668.html#a05edf7010f4e7364399bc81582502219", null ],
+    [ "JustDied", "d5/d20/a13668.html#a48ae6589613f2ac90a499b9b6ae07d01", null ],
+    [ "JustEngagedWith", "d5/d20/a13668.html#a04ff0c07c578c3b92cf45d1ed27fb883", null ],
+    [ "KilledUnit", "d5/d20/a13668.html#a608607d83680da85f91324ce0035804b", null ],
+    [ "Reset", "d5/d20/a13668.html#a20ad64739072e39e7ff3132c6f637af7", null ]
 ];

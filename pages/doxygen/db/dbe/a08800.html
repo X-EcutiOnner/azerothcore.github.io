@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: CleanDamage Struct Reference</title>
+<title>AzerothCore: ItemPosCount Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,32 +108,30 @@ $(document).ready(function(){initNavTree('db/dbe/a08800.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d3/d0d/a08797.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">CleanDamage Struct Reference</div></div>
+  <div class="headertitle"><div class="title">ItemPosCount Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Unit.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ad25ab816a679e323c07873efbc1c2f20"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbe/a08800.html#ad25ab816a679e323c07873efbc1c2f20">CleanDamage</a> (<a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mitigated, <a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> absorbed, <a class="el" href="../../d7/d46/a00890.html#a85524ab4e1fb005ed500bd190f79c352">WeaponAttackType</a> _attackType, <a class="el" href="../../d7/d46/a00890.html#aba4a9525e87c7e76c6c005bc3c3f53a5">MeleeHitOutcome</a> _hitOutCome)</td></tr>
-<tr class="separator:ad25ab816a679e323c07873efbc1c2f20"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a43458da1fc31d827b6de726754f7901e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbe/a08800.html#a43458da1fc31d827b6de726754f7901e">ItemPosCount</a> (<a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> _pos, <a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> _count)</td></tr>
+<tr class="separator:a43458da1fc31d827b6de726754f7901e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6977c544a2d39ca5872b75f27517974f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbe/a08800.html#a6977c544a2d39ca5872b75f27517974f">isContainedIn</a> (std::vector&lt; <a class="el" href="../../db/dbe/a08800.html">ItemPosCount</a> &gt; const &amp;vec) const</td></tr>
+<tr class="separator:a6977c544a2d39ca5872b75f27517974f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a7ba8e32e564b43915889a23ecb9d5297"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbe/a08800.html#a7ba8e32e564b43915889a23ecb9d5297">absorbed_damage</a></td></tr>
-<tr class="separator:a7ba8e32e564b43915889a23ecb9d5297"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6aeffc94560ac510c0b89e4384a2f41a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbe/a08800.html#a6aeffc94560ac510c0b89e4384a2f41a">mitigated_damage</a></td></tr>
-<tr class="separator:a6aeffc94560ac510c0b89e4384a2f41a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad9b56ae5faabe67a8fdec8cd5a7988b1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d46/a00890.html#a85524ab4e1fb005ed500bd190f79c352">WeaponAttackType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbe/a08800.html#ad9b56ae5faabe67a8fdec8cd5a7988b1">attackType</a></td></tr>
-<tr class="separator:ad9b56ae5faabe67a8fdec8cd5a7988b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a040977b1579b62695b4cbcf0c2ffeaa8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d46/a00890.html#aba4a9525e87c7e76c6c005bc3c3f53a5">MeleeHitOutcome</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbe/a08800.html#a040977b1579b62695b4cbcf0c2ffeaa8">hitOutCome</a></td></tr>
-<tr class="separator:a040977b1579b62695b4cbcf0c2ffeaa8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad8954f1a6323316510cfe0f332ee495f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbe/a08800.html#ad8954f1a6323316510cfe0f332ee495f">pos</a></td></tr>
+<tr class="separator:ad8954f1a6323316510cfe0f332ee495f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4e09f94aa0808f76b2d5ff23691abb27"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbe/a08800.html#a4e09f94aa0808f76b2d5ff23691abb27">count</a></td></tr>
+<tr class="separator:a4e09f94aa0808f76b2d5ff23691abb27"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ad25ab816a679e323c07873efbc1c2f20" name="ad25ab816a679e323c07873efbc1c2f20"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad25ab816a679e323c07873efbc1c2f20">&#9670;&#160;</a></span>CleanDamage()</h2>
+<a id="a43458da1fc31d827b6de726754f7901e" name="a43458da1fc31d827b6de726754f7901e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a43458da1fc31d827b6de726754f7901e">&#9670;&#160;</a></span>ItemPosCount()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -142,28 +140,16 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">CleanDamage::CleanDamage </td>
+          <td class="memname">ItemPosCount::ItemPosCount </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>mitigated</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>_pos</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>absorbed</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d7/d46/a00890.html#a85524ab4e1fb005ed500bd190f79c352">WeaponAttackType</a>&#160;</td>
-          <td class="paramname"><em>_attackType</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d7/d46/a00890.html#aba4a9525e87c7e76c6c005bc3c3f53a5">MeleeHitOutcome</a>&#160;</td>
-          <td class="paramname"><em>_hitOutCome</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>_count</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -177,77 +163,71 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  323</span>                                                                                                              :</div>
-<div class="line"><span class="lineno">  324</span>        <a class="code hl_variable" href="../../db/dbe/a08800.html#a7ba8e32e564b43915889a23ecb9d5297">absorbed_damage</a>(absorbed), <a class="code hl_variable" href="../../db/dbe/a08800.html#a6aeffc94560ac510c0b89e4384a2f41a">mitigated_damage</a>(mitigated), <a class="code hl_variable" href="../../db/dbe/a08800.html#ad9b56ae5faabe67a8fdec8cd5a7988b1">attackType</a>(_attackType), <a class="code hl_variable" href="../../db/dbe/a08800.html#a040977b1579b62695b4cbcf0c2ffeaa8">hitOutCome</a>(_hitOutCome) {}</div>
-<div class="ttc" id="aa08800_html_a040977b1579b62695b4cbcf0c2ffeaa8"><div class="ttname"><a href="../../db/dbe/a08800.html#a040977b1579b62695b4cbcf0c2ffeaa8">CleanDamage::hitOutCome</a></div><div class="ttdeci">MeleeHitOutcome hitOutCome</div><div class="ttdef"><b>Definition:</b> Unit.h:330</div></div>
-<div class="ttc" id="aa08800_html_a6aeffc94560ac510c0b89e4384a2f41a"><div class="ttname"><a href="../../db/dbe/a08800.html#a6aeffc94560ac510c0b89e4384a2f41a">CleanDamage::mitigated_damage</a></div><div class="ttdeci">uint32 mitigated_damage</div><div class="ttdef"><b>Definition:</b> Unit.h:327</div></div>
-<div class="ttc" id="aa08800_html_a7ba8e32e564b43915889a23ecb9d5297"><div class="ttname"><a href="../../db/dbe/a08800.html#a7ba8e32e564b43915889a23ecb9d5297">CleanDamage::absorbed_damage</a></div><div class="ttdeci">uint32 absorbed_damage</div><div class="ttdef"><b>Definition:</b> Unit.h:326</div></div>
-<div class="ttc" id="aa08800_html_ad9b56ae5faabe67a8fdec8cd5a7988b1"><div class="ttname"><a href="../../db/dbe/a08800.html#ad9b56ae5faabe67a8fdec8cd5a7988b1">CleanDamage::attackType</a></div><div class="ttdeci">WeaponAttackType attackType</div><div class="ttdef"><b>Definition:</b> Unit.h:329</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  752</span>: <a class="code hl_variable" href="../../db/dbe/a08800.html#ad8954f1a6323316510cfe0f332ee495f">pos</a>(_pos), <a class="code hl_variable" href="../../db/dbe/a08800.html#a4e09f94aa0808f76b2d5ff23691abb27">count</a>(_count) {}</div>
+<div class="ttc" id="aa08800_html_a4e09f94aa0808f76b2d5ff23691abb27"><div class="ttname"><a href="../../db/dbe/a08800.html#a4e09f94aa0808f76b2d5ff23691abb27">ItemPosCount::count</a></div><div class="ttdeci">uint32 count</div><div class="ttdef"><b>Definition:</b> Player.h:755</div></div>
+<div class="ttc" id="aa08800_html_ad8954f1a6323316510cfe0f332ee495f"><div class="ttname"><a href="../../db/dbe/a08800.html#ad8954f1a6323316510cfe0f332ee495f">ItemPosCount::pos</a></div><div class="ttdeci">uint16 pos</div><div class="ttdef"><b>Definition:</b> Player.h:754</div></div>
 </div><!-- fragment -->
 </div>
 </div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a6977c544a2d39ca5872b75f27517974f" name="a6977c544a2d39ca5872b75f27517974f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6977c544a2d39ca5872b75f27517974f">&#9670;&#160;</a></span>isContainedIn()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ItemPosCount::isContainedIn </td>
+          <td>(</td>
+          <td class="paramtype">std::vector&lt; <a class="el" href="../../db/dbe/a08800.html">ItemPosCount</a> &gt; const &amp;&#160;</td>
+          <td class="paramname"><em>vec</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">13151</span>{</div>
+<div class="line"><span class="lineno">13152</span>    <span class="keywordflow">for</span> (ItemPosCountVec::const_iterator itr = vec.begin(); itr != vec.end(); ++itr)</div>
+<div class="line"><span class="lineno">13153</span>        <span class="keywordflow">if</span> (itr-&gt;pos == <a class="code hl_variable" href="../../db/dbe/a08800.html#ad8954f1a6323316510cfe0f332ee495f">pos</a>)</div>
+<div class="line"><span class="lineno">13154</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">13155</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">13156</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00754">pos</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00941">Guild::BankMoveItemData::_ReserveSpace()</a>, <a class="el" href="../../#l00987">Player::CanStoreItem_InBag()</a>, <a class="el" href="../../#l01057">Player::CanStoreItem_InInventorySlots()</a>, and <a class="el" href="../../#l00916">Player::CanStoreItem_InSpecificSlot()</a>.</p>
+
+</div>
+</div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a7ba8e32e564b43915889a23ecb9d5297" name="a7ba8e32e564b43915889a23ecb9d5297"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7ba8e32e564b43915889a23ecb9d5297">&#9670;&#160;</a></span>absorbed_damage</h2>
+<a id="a4e09f94aa0808f76b2d5ff23691abb27" name="a4e09f94aa0808f76b2d5ff23691abb27"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4e09f94aa0808f76b2d5ff23691abb27">&#9670;&#160;</a></span>count</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CleanDamage::absorbed_damage</td>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ItemPosCount::count</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00824">Unit::DealDamage()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00908">Guild::BankMoveItemData::_StoreItem()</a>.</p>
 
 </div>
 </div>
-<a id="ad9b56ae5faabe67a8fdec8cd5a7988b1" name="ad9b56ae5faabe67a8fdec8cd5a7988b1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad9b56ae5faabe67a8fdec8cd5a7988b1">&#9670;&#160;</a></span>attackType</h2>
+<a id="ad8954f1a6323316510cfe0f332ee495f" name="ad8954f1a6323316510cfe0f332ee495f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad8954f1a6323316510cfe0f332ee495f">&#9670;&#160;</a></span>pos</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d7/d46/a00890.html#a85524ab4e1fb005ed500bd190f79c352">WeaponAttackType</a> CleanDamage::attackType</td>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> ItemPosCount::pos</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00824">Unit::DealDamage()</a>.</p>
-
-</div>
-</div>
-<a id="a040977b1579b62695b4cbcf0c2ffeaa8" name="a040977b1579b62695b4cbcf0c2ffeaa8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a040977b1579b62695b4cbcf0c2ffeaa8">&#9670;&#160;</a></span>hitOutCome</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d7/d46/a00890.html#aba4a9525e87c7e76c6c005bc3c3f53a5">MeleeHitOutcome</a> CleanDamage::hitOutCome</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00824">Unit::DealDamage()</a>.</p>
-
-</div>
-</div>
-<a id="a6aeffc94560ac510c0b89e4384a2f41a" name="a6aeffc94560ac510c0b89e4384a2f41a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6aeffc94560ac510c0b89e4384a2f41a">&#9670;&#160;</a></span>mitigated_damage</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CleanDamage::mitigated_damage</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l06592">AuraEffect::HandlePeriodicDamageAurasTick()</a>, and <a class="el" href="../../#l06754">AuraEffect::HandlePeriodicHealthLeechAuraTick()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00908">Guild::BankMoveItemData::_StoreItem()</a>, and <a class="el" href="../../#l13150">isContainedIn()</a>.</p>
 
 </div>
 </div>
@@ -256,8 +236,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../db/dbe/a08800.html">CleanDamage</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:11:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../db/dbe/a08800.html">ItemPosCount</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:15:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

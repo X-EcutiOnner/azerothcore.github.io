@@ -1,7 +1,6 @@
 var a22988 =
 [
-    [ "HandleDummy", "d0/d98/a22988.html#adb4e8218eb498d430ececfa357bc1d8a", null ],
-    [ "PrepareSpellScript", "d0/d98/a22988.html#a85f582794bf8ca2c80add8d9fe35f9f5", null ],
-    [ "Register", "d0/d98/a22988.html#af5926d8570de13e66aa1870184620b94", null ],
-    [ "Validate", "d0/d98/a22988.html#aa2839c6dba3d0c6ecfeb19f5ff3a39d2", null ]
+    [ "HandleScriptEffect", "d0/d98/a22988.html#a2b46490b70bf93effb7379686e648618", null ],
+    [ "PrepareSpellScript", "d0/d98/a22988.html#a5030d071372ef12663f6a75be637476e", null ],
+    [ "Register", "d0/d98/a22988.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
 ];

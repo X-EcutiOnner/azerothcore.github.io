@@ -1,5 +1,6 @@
 var a20780 =
 [
-    [ "achievement_quick_shave", "d6/d61/a20780.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
-    [ "OnCheck", "d6/d61/a20780.html#a151c479da3d4cec05999ad8a249b100c", null ]
+    [ "HandleScript", "d6/d61/a20780.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
+    [ "PrepareSpellScript", "d6/d61/a20780.html#a4fd05478a145157dbd8377532033ab95", null ],
+    [ "Register", "d6/d61/a20780.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
 ];

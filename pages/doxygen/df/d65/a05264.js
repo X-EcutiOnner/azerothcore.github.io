@@ -1,25 +1,8 @@
 var a05264 =
 [
-    [ "Record", "d9/d33/a05268.html", "d9/d33/a05268" ],
-    [ "DBCFileLoader", "df/d65/a05264.html#a99ba418c63c49cf9a028626b8e282a01", null ],
-    [ "~DBCFileLoader", "df/d65/a05264.html#a2e8dd3e5d88b870ea01e0c8dbfa55acd", null ],
-    [ "DBCFileLoader", "df/d65/a05264.html#a2e75536e8df1449449b4b6fe5585074d", null ],
-    [ "AutoProduceData", "df/d65/a05264.html#af8810dd9cef9ed82036bbebb4c938521", null ],
-    [ "AutoProduceStrings", "df/d65/a05264.html#a12054e13d90636076ce04587aacf8ff6", null ],
-    [ "GetCols", "df/d65/a05264.html#a3c536a9333a06213a37c95087eaaf8e3", null ],
-    [ "GetFormatRecordSize", "df/d65/a05264.html#a990308cf88d2772db090c37a66e9f9e5", null ],
-    [ "GetNumRows", "df/d65/a05264.html#aeedb51dd9b316063a58a989b175d0bc5", null ],
-    [ "GetOffset", "df/d65/a05264.html#ae624604ad0cdae8d3eb7212630a33613", null ],
-    [ "getRecord", "df/d65/a05264.html#ac4b1c79585f63f53f6d48db235732e20", null ],
-    [ "GetRowSize", "df/d65/a05264.html#af322bc9e92472463998ca8082c5da3d6", null ],
-    [ "IsLoaded", "df/d65/a05264.html#a28bf265dafc284e9edb55fc1ed261694", null ],
-    [ "Load", "df/d65/a05264.html#a32c6a04567395f66270858c5feb57f5f", null ],
-    [ "operator=", "df/d65/a05264.html#ac2b0f30fb125b8dae385ca8330d02e8b", null ],
-    [ "data", "df/d65/a05264.html#a137152d873bfa3cb2d3860fe6001f404", null ],
-    [ "fieldCount", "df/d65/a05264.html#a920472d71232fa759bce768fdca9a1c4", null ],
-    [ "fieldsOffset", "df/d65/a05264.html#a7aa68d259f6295df3029456bde143862", null ],
-    [ "recordCount", "df/d65/a05264.html#a1a17426b679598ee27363e897b40f2bf", null ],
-    [ "recordSize", "df/d65/a05264.html#ab4f28de7c57a6e25c715bb009ed5f701", null ],
-    [ "stringSize", "df/d65/a05264.html#a0761727ba38d899f337c733873742d69", null ],
-    [ "stringTable", "df/d65/a05264.html#a5961bf01316cc14a075c1b874000e8a2", null ]
+    [ "MeshTriangle", "df/d65/a05264.html#af99ecf0b02af73e6727095df1dce8422", null ],
+    [ "MeshTriangle", "df/d65/a05264.html#a36109fc79a9ca9c6bf19959fd1493e60", null ],
+    [ "idx0", "df/d65/a05264.html#aed1048a2b6745215a7b8f70dec378371", null ],
+    [ "idx1", "df/d65/a05264.html#a560bb163f63ff7202aade4d115f31664", null ],
+    [ "idx2", "df/d65/a05264.html#ac939c5e66526c67c067288b9d6484cac", null ]
 ];

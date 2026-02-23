@@ -1,7 +1,6 @@
 var a21220 =
 [
-    [ "HandleEffectPeriodic", "df/dab/a21220.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
-    [ "PrepareAuraScript", "df/dab/a21220.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
-    [ "Register", "df/dab/a21220.html#a74052d7da1523b3c4010465510e5fe04", null ],
-    [ "Validate", "df/dab/a21220.html#a587a469c649877f80e8fe80062e8b5d4", null ]
+    [ "boss_toravonAI", "d4/d0c/a21224.html", "d4/d0c/a21224" ],
+    [ "boss_toravon", "df/dab/a21220.html#abd30a86924bd7dd9474b5df16f3a8d8d", null ],
+    [ "GetAI", "df/dab/a21220.html#a6db140b1d232312300e20155830cb249", null ]
 ];

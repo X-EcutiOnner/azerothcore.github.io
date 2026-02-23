@@ -1,9 +1,6 @@
 var a21268 =
 [
-    [ "npc_vrykul_skeleton", "d6/d34/a21268.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
-    [ "DamageTaken", "d6/d34/a21268.html#a840244c4183987e4fda533edb2ddeff2", null ],
-    [ "Reset", "d6/d34/a21268.html#af950342b2177c84c101485736855b998", null ],
-    [ "UpdateAI", "d6/d34/a21268.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
-    [ "events", "d6/d34/a21268.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
-    [ "pInstance", "d6/d34/a21268.html#a834f0162540683c20f9fa0f9e32eee33", null ]
+    [ "npc_erekem_guardAI", "dc/d59/a21272.html", "dc/d59/a21272" ],
+    [ "npc_erekem_guard", "d6/d34/a21268.html#a78592996e90f77f81eec0325a7f11956", null ],
+    [ "GetAI", "d6/d34/a21268.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
 ];

@@ -1,8 +1,8 @@
 var a21660 =
 [
-    [ "npc_azure_captainAI", "d8/d40/a21660.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
-    [ "Reset", "d8/d40/a21660.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
-    [ "UpdateAI", "d8/d40/a21660.html#ae50ac21138e12be43caa93e37062051e", null ],
-    [ "uiMortalStrikeTimer", "d8/d40/a21660.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
-    [ "uiWhirlwindTimer", "d8/d40/a21660.html#a2e3439976a6e84a60be765cb0b929798", null ]
+    [ "npc_future_youAI", "d8/d40/a21660.html#a7608c050dd198e3133050e222b42f62b", null ],
+    [ "EnterEvadeMode", "d8/d40/a21660.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
+    [ "MoveInLineOfSight", "d8/d40/a21660.html#a35b67f9e948f5ffbde8a423190ece603", null ],
+    [ "Reset", "d8/d40/a21660.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
+    [ "UpdateAI", "d8/d40/a21660.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
 ];

@@ -1,6 +1,6 @@
 var a21544 =
 [
-    [ "boss_moraggAI", "d2/d92/a21548.html", "d2/d92/a21548" ],
-    [ "boss_moragg", "de/dd8/a21544.html#aeb43f9cc4c41f049fd0a13e79cadfcd1", null ],
-    [ "GetAI", "de/dd8/a21544.html#a5ea2f210038b3e44bf2cb9c402e1b761", null ]
+    [ "npc_bloodmage_laurithAI", "d2/d92/a21548.html", "d2/d92/a21548" ],
+    [ "npc_bloodmage_laurith", "de/dd8/a21544.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
+    [ "GetAI", "de/dd8/a21544.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
 ];

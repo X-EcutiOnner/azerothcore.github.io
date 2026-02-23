@@ -1,5 +1,5 @@
 var a13240 =
 [
-    [ "go_acherus_soul_prison", "d4/d45/a13240.html#a13c858f74080b8f7963fdacc4b554019", null ],
-    [ "OnGossipHello", "d4/d45/a13240.html#a904059cbeac3ddb3acf07ec1afe78c37", null ]
+    [ "textid", "d4/d45/a13240.html#a7dac5c31d7df501f28eee3e1dec0523a", null ],
+    [ "timer", "d4/d45/a13240.html#ab7851f383e7221c6ff2700ee345d9504", null ]
 ];

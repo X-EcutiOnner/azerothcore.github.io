@@ -1,11 +1,11 @@
 var a20864 =
 [
-    [ "boss_thorim_ancient_rune_giantAI", "d0/dad/a20864.html#a75df92817fb5eafa28e5d9c33679dcf8", null ],
-    [ "DoAction", "d0/dad/a20864.html#a1ee097badabf5264517bc0e9d9a45051", null ],
-    [ "JustDied", "d0/dad/a20864.html#ac69a6187be136fa53c65a7eb13bf19d4", null ],
-    [ "JustEngagedWith", "d0/dad/a20864.html#acbfd05bbbae2f5b8a6fa2ee8bc440498", null ],
-    [ "Reset", "d0/dad/a20864.html#a280a68af0d6b65bc99bb9b7116b801ad", null ],
-    [ "UpdateAI", "d0/dad/a20864.html#aef980c0fe0c50beca167ea0ef46ff0c7", null ],
-    [ "_isInCombat", "d0/dad/a20864.html#ab015a6dc76067be1d51d3ce67b6a7aff", null ],
-    [ "events", "d0/dad/a20864.html#afff251a2cc56b7ce686a5b58c196c16c", null ]
+    [ "boss_yoggsaron_llane", "d0/dad/a20864.html#a42e3d189cff0da5995401e4bc8dfffdd", null ],
+    [ "NextStep", "d0/dad/a20864.html#ab8b6446fe7d424ad7d943af915cc4b8a", null ],
+    [ "Reset", "d0/dad/a20864.html#a0df3a85717ab26ad1ac889d6fe4d8007", null ],
+    [ "Say", "d0/dad/a20864.html#a0ae3106eac830ed9f14f17e5fa1d45ec", null ],
+    [ "UpdateAI", "d0/dad/a20864.html#a58ec957cd59b944439fe514e728e2902", null ],
+    [ "_checkTimer", "d0/dad/a20864.html#a3043382e2727bc78a74acaec28697045", null ],
+    [ "_running", "d0/dad/a20864.html#ab7e1b1ed82f311b12f28f1622e6ad378", null ],
+    [ "_step", "d0/dad/a20864.html#a91a71f85bab9e4d1234964ef534e51c2", null ]
 ];

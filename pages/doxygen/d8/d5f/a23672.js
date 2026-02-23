@@ -1,7 +1,8 @@
 var a23672 =
 [
-    [ "HandleScriptEffect", "d8/d5f/a23672.html#a534bf39998813f06c48bc920e4666692", null ],
-    [ "PrepareSpellScript", "d8/d5f/a23672.html#a5892f20a0704596cb70a995a73846368", null ],
-    [ "Register", "d8/d5f/a23672.html#a1176b4e4ad488a3b6b38ff4b8c955d64", null ],
-    [ "Validate", "d8/d5f/a23672.html#af618314a13013eaf9f36b30047de0878", null ]
+    [ "boss_laj", "d8/d5f/a23672.html#a3c9323ab4b5530504588ea62aed2edff", null ],
+    [ "Reset", "d8/d5f/a23672.html#ace690a0662376addaa40093f3f119c31", null ],
+    [ "ScheduleTasks", "d8/d5f/a23672.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
+    [ "_lastTransform", "d8/d5f/a23672.html#a097eacaaf77a09bec087530bad587b11", null ],
+    [ "_transformContainer", "d8/d5f/a23672.html#a313e66ceeb4e359251dad65383e7f568", null ]
 ];

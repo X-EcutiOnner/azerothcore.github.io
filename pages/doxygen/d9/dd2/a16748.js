@@ -1,7 +1,8 @@
 var a16748 =
 [
-    [ "npc_toc_rogueAI", "d9/dd2/a16748.html#a34027e7d10edbfba8e046f4785e37899", null ],
-    [ "myCanCast", "d9/dd2/a16748.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
-    [ "UpdateAI", "d9/dd2/a16748.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
-    [ "events", "d9/dd2/a16748.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
+    [ "npc_announcer_toc5AI", "db/d38/a16752.html", "db/d38/a16752" ],
+    [ "npc_announcer_toc5", "d9/dd2/a16748.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
+    [ "GetAI", "d9/dd2/a16748.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
+    [ "OnGossipHello", "d9/dd2/a16748.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
+    [ "OnGossipSelect", "d9/dd2/a16748.html#a9017488c652fd75882db75914f4a2db2", null ]
 ];

@@ -1,5 +1,8 @@
 var a27248 =
 [
-    [ "achievement_resilient_victory", "db/dee/a27248.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
-    [ "OnCheck", "db/dee/a27248.html#a21445d406f67771a20608260b3f9b033", null ]
+    [ "HandleDummy", "db/dee/a27248.html#ab653cf0414411c17ccc674395b08af7a", null ],
+    [ "Load", "db/dee/a27248.html#a6eb80b68a00c91d92a2963adb753ed23", null ],
+    [ "PrepareSpellScript", "db/dee/a27248.html#ae6c5ba4ed1918125594b31368c3bcf2f", null ],
+    [ "Register", "db/dee/a27248.html#a92eb201b3ae3ab167cc338174a355b00", null ],
+    [ "Validate", "db/dee/a27248.html#a3635089640297e059a183322c7e8f7b9", null ]
 ];

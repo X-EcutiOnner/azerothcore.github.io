@@ -1,9 +1,12 @@
 var a17324 =
 [
-    [ "npc_pos_after_first_bossAI", "d6/d28/a17324.html#a622df71849da1e10e2b73068f0adea98", null ],
-    [ "MovementInform", "d6/d28/a17324.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
-    [ "Reset", "d6/d28/a17324.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
-    [ "UpdateAI", "d6/d28/a17324.html#ac45111887fd7833a041355658dd26158", null ],
-    [ "events", "d6/d28/a17324.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
-    [ "pInstance", "d6/d28/a17324.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
+    [ "npc_tortured_riflemanAI", "d6/d28/a17324.html#a65dc1d2ba5769aed1a0b2487322ff2b1", null ],
+    [ "AttackStart", "d6/d28/a17324.html#aaf2b73d0b60791f887207842580d91dc", null ],
+    [ "DoAction", "d6/d28/a17324.html#acb941c20d911a567c93bb0f92105fdfd", null ],
+    [ "EnterEvadeMode", "d6/d28/a17324.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50", null ],
+    [ "JustDied", "d6/d28/a17324.html#a5796a96626937e1026cc1fec0eba4e0b", null ],
+    [ "JustEngagedWith", "d6/d28/a17324.html#ac5d8f17c48269da06c14643e82c88567", null ],
+    [ "Reset", "d6/d28/a17324.html#a04f9c7056e063d436df66f079127d1a7", null ],
+    [ "UpdateAI", "d6/d28/a17324.html#a194a615eef3651cdc97d4e4ad57bf017", null ],
+    [ "events", "d6/d28/a17324.html#a958f27c1f917dc1ae0a9f84549481f93", null ]
 ];

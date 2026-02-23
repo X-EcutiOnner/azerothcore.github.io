@@ -1,8 +1,6 @@
 var a18164 =
 [
-    [ "FilterTargets", "d6/d35/a18164.html#a1b125c887db7d2030838d0ac8e38c4e3", null ],
-    [ "HandleScript", "d6/d35/a18164.html#a4c7be5a65b1fb7e8db62691f5ef6b38d", null ],
-    [ "PrepareSpellScript", "d6/d35/a18164.html#ae6b30b8da52141c385f985435cac99a1", null ],
-    [ "Register", "d6/d35/a18164.html#a17dc25670b0f21525a01f6e7aa7eb572", null ],
-    [ "Validate", "d6/d35/a18164.html#accff1f03fb7c0d56cb197bb18348635c", null ]
+    [ "npc_cult_fanaticAI", "d3/d75/a18168.html", "d3/d75/a18168" ],
+    [ "npc_cult_fanatic", "d6/d35/a18164.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
+    [ "GetAI", "d6/d35/a18164.html#ae4d22bac12d17d79669d3fccd4029952", null ]
 ];

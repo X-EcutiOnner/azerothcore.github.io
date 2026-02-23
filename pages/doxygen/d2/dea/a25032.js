@@ -1,6 +1,6 @@
 var a25032 =
 [
-    [ "CheckProc", "d2/dea/a25032.html#a68d2d8168e405ea4250e2e43a1a350fa", null ],
-    [ "PrepareAuraScript", "d2/dea/a25032.html#a9d797e7bc7133f4a626f4352b2fe7141", null ],
-    [ "Register", "d2/dea/a25032.html#a5b96bb8c2ff456b63bbd200f54294251", null ]
+    [ "HandleDummy", "d2/dea/a25032.html#a9f9c27bdfed0a457f7e851c8598f3625", null ],
+    [ "PrepareSpellScript", "d2/dea/a25032.html#ab666b72cd7cb0ef92ba6c417be5ac7cc", null ],
+    [ "Register", "d2/dea/a25032.html#a7b78161fda34b3dc3c844c392ce7e30e", null ]
 ];

@@ -1,7 +1,10 @@
 var a26972 =
 [
-    [ "HandleEffectProc", "d1/d2d/a26972.html#a7f2ddbf54a4932277ad91eb0036915ab", null ],
-    [ "PrepareAuraScript", "d1/d2d/a26972.html#a47d844a9700cd8add793e3f3088d1b82", null ],
-    [ "Register", "d1/d2d/a26972.html#ad40dfc164ab98fc9734e1ed15ea14c17", null ],
-    [ "Validate", "d1/d2d/a26972.html#a97f5239399e7135b02000722eaf837ad", null ]
+    [ "GetTarget", "d1/d2d/a26972.html#a1bfcb90731a93e4897c9d4fbf46d2a01", null ],
+    [ "HandleEffectPeriodicPlatform", "d1/d2d/a26972.html#ac499c8adcd74206ad60a7fc24d32cc3c", null ],
+    [ "HandleEffectPeriodicSelf", "d1/d2d/a26972.html#a2272a970ca5edca6f7353beb2279c29c", null ],
+    [ "PerformKick", "d1/d2d/a26972.html#aa192aa92cc5c55f8bf2306c4463a3efc", null ],
+    [ "PrepareAuraScript", "d1/d2d/a26972.html#a489f1da8f8008db8f096470f28455ef9", null ],
+    [ "Register", "d1/d2d/a26972.html#a164c94c63cf03b98ee085b18a0a8af9a", null ],
+    [ "AuraEffectHandleModes", "d1/d2d/a26972.html#a91d53900d8c6d0dd2a7519a4836aa05b", null ]
 ];

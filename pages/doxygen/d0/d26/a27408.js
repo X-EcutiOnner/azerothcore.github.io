@@ -1,6 +1,8 @@
 var a27408 =
 [
-    [ "boss_taerarAI", "d4/d8c/a27412.html", "d4/d8c/a27412" ],
-    [ "boss_taerar", "d0/d26/a27408.html#a100c1b80a50faf93088db870faa21b58", null ],
-    [ "GetAI", "d0/d26/a27408.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
+    [ "CheckProc", "d0/d26/a27408.html#a33412f2b5abb1ce2160408ef13e7f0cb", null ],
+    [ "HandleProc", "d0/d26/a27408.html#ab24c3d3f697a7ebd146d6135305c7741", null ],
+    [ "PrepareAuraScript", "d0/d26/a27408.html#a8eccfbb749b85bbb850874324f17bbde", null ],
+    [ "Register", "d0/d26/a27408.html#a482dd09de6cba9f5a36a6cdad1b82a0a", null ],
+    [ "Validate", "d0/d26/a27408.html#a0c3020d44608920a2820e73e0b9e4b42", null ]
 ];

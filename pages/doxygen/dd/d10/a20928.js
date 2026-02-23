@@ -1,6 +1,7 @@
 var a20928 =
 [
-    [ "BoomEvent", "dd/d10/a20928.html#aa9b7a8785f382068bb4510ffc0b43004", null ],
-    [ "Execute", "dd/d10/a20928.html#a1a870bea5c8e0a24a8ecd347a862ee75", null ],
-    [ "_me", "dd/d10/a20928.html#a30de77ee751f1c10231088cb84942342", null ]
+    [ "HandleScriptEffect", "dd/d10/a20928.html#aae469190c1edc1fe45914bad1dac4e93", null ],
+    [ "PrepareSpellScript", "dd/d10/a20928.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
+    [ "Register", "dd/d10/a20928.html#a97265071f226fbd17c37d432cf9e2350", null ],
+    [ "Validate", "dd/d10/a20928.html#aeec0bdd2e39db2da657247376ddcd195", null ]
 ];

@@ -1,14 +1,9 @@
 var a17420 =
 [
-    [ "boss_drakkari_colossusAI", "d4/d17/a17420.html#a28594cf76c5b1977a4f70ba0c3811646", null ],
-    [ "DamageTaken", "d4/d17/a17420.html#ae31f77e5b63fee3d0745919ed737b599", null ],
-    [ "DoAction", "d4/d17/a17420.html#a8e72a38f6a605cafa2667ca585cf0761", null ],
-    [ "JustReachedHome", "d4/d17/a17420.html#a93f73f204d07b4805f4a7dd240a96d13", null ],
-    [ "JustSummoned", "d4/d17/a17420.html#ab58d286bb6f0ea94c2eb70e52e513ad4", null ],
-    [ "MoveInLineOfSight", "d4/d17/a17420.html#ae1151f6fc9f9ca011a7d476f7d1c6927", null ],
-    [ "Reset", "d4/d17/a17420.html#a5e9c6da15df58a206533a7c718056c3e", null ],
-    [ "ScheduleTasks", "d4/d17/a17420.html#afefbba70f93142110dcf9d7940d91d2c", null ],
-    [ "SummonedCreatureDespawn", "d4/d17/a17420.html#a58658947c4fc115ea9c1d6f1edd1332e", null ],
-    [ "SummonedCreatureDies", "d4/d17/a17420.html#a59f9efbc2964eec057606d69458b4402", null ],
-    [ "UpdateAI", "d4/d17/a17420.html#afc816b7d1c2705675560ddd13ecce22d", null ]
+    [ "FilterTargets", "d4/d17/a17420.html#aefebf504286394cf3caffa566543e4a4", null ],
+    [ "FilterTargetsNext", "d4/d17/a17420.html#a356b6ace97d07df22a232d2287072b5e", null ],
+    [ "PrepareSpellScript", "d4/d17/a17420.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
+    [ "Register", "d4/d17/a17420.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
+    [ "Unload", "d4/d17/a17420.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
+    [ "targetList", "d4/d17/a17420.html#a3c839185938e0b67b97f652d1d15e213", null ]
 ];

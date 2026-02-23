@@ -1,7 +1,9 @@
 var a09816 =
 [
-    [ "LootView", "d3/d84/a09816.html#a4cfc8ca1034e941a85d2955f38b2e894", null ],
-    [ "loot", "d3/d84/a09816.html#ac95fa4805c79923b292e8984b00de929", null ],
-    [ "permission", "d3/d84/a09816.html#a33d7eeebd6fbc854300275a4138d9030", null ],
-    [ "viewer", "d3/d84/a09816.html#af9a6926c6c871dee245f876038e49995", null ]
+    [ "BroadcastTextID", "d3/d84/a09816.html#a756f24dbee852a7fbe152c0cb082c412", null ],
+    [ "Emotes", "d3/d84/a09816.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
+    [ "Language", "d3/d84/a09816.html#a33bc5a0c156918b00380710aeb275d3d", null ],
+    [ "Probability", "d3/d84/a09816.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
+    [ "Text_0", "d3/d84/a09816.html#a046d637b91807db067c6e7050184322d", null ],
+    [ "Text_1", "d3/d84/a09816.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
 ];

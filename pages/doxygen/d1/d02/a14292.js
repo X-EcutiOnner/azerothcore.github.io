@@ -1,6 +1,7 @@
 var a14292 =
 [
-    [ "HandleOnHit", "d1/d02/a14292.html#a1f133ab9e85f80c225276bf744da6898", null ],
-    [ "PrepareSpellScript", "d1/d02/a14292.html#ae554f8be36eabc6d23f823e6d153be2b", null ],
-    [ "Register", "d1/d02/a14292.html#a1063358ed71ded8454f35f43442354ab", null ]
+    [ "spell", "d1/d02/a14292.html#a55423d09b2f1775dc386a36168ad764d", null ],
+    [ "spiritEntry", "d1/d02/a14292.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
+    [ "text", "d1/d02/a14292.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
+    [ "unaura", "d1/d02/a14292.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
 ];

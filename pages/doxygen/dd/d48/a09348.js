@@ -1,9 +1,8 @@
 var a09348 =
 [
-    [ "CreatureSearcher", "dd/d48/a09348.html#ac6fc899c41c2a93f530fa53c693f0df8", null ],
-    [ "Visit", "dd/d48/a09348.html#a50630891bfb459c6c526b3e4e7e29136", null ],
-    [ "Visit", "dd/d48/a09348.html#a503aab809be6f5d60c020e89c64dce7b", null ],
-    [ "i_check", "dd/d48/a09348.html#abc72e56d9453d798fcb457aff023d3ac", null ],
-    [ "i_object", "dd/d48/a09348.html#af31c7a1cf3f03a42d7fe66836e306b85", null ],
-    [ "i_phaseMask", "dd/d48/a09348.html#a5fa5777da405c57700a7e1ea7d5f94cf", null ]
+    [ "V8Type", "dd/d48/a09348.html#ad1b1f07eef9dda43d6ba20d37087e1df", null ],
+    [ "V9Type", "dd/d48/a09348.html#ac514014328ca676e610cef54710d2430", null ],
+    [ "gridIntHeightMultiplier", "dd/d48/a09348.html#a6255362ae498172495394e1f0fad44ca", null ],
+    [ "v8", "dd/d48/a09348.html#a3201a1f3e7307af860396ca26a78dbf9", null ],
+    [ "v9", "dd/d48/a09348.html#ad31af604d44f964e9c502f36b6717c77", null ]
 ];

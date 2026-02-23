@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SpellModPredicate Struct Reference</title>
+<title>AzerothCore: MovementInfo::JumpInfo Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,20 +106,34 @@ $(document).ready(function(){initNavTree('da/dd6/a08596.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d0/d09/a08593.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SpellModPredicate Struct Reference</div></div>
+  <div class="headertitle"><div class="title">MovementInfo::JumpInfo Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><code>#include &quot;<a class="el" href="../../">Object.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ad03044f44da107f20eb3a3932d9cf667"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dd6/a08596.html#ad03044f44da107f20eb3a3932d9cf667">operator()</a> (<a class="el" href="../../db/df0/a08608.html">SpellModifier</a> const *a, <a class="el" href="../../db/df0/a08608.html">SpellModifier</a> const *b) const</td></tr>
-<tr class="separator:ad03044f44da107f20eb3a3932d9cf667"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a28a5bd110553457c86d7f77e78041713"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dd6/a08596.html#a28a5bd110553457c86d7f77e78041713">Reset</a> ()</td></tr>
+<tr class="separator:a28a5bd110553457c86d7f77e78041713"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:ad0a5a36aeabc9b8d8ea27cecae30ae31"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dd6/a08596.html#ad0a5a36aeabc9b8d8ea27cecae30ae31">zspeed</a></td></tr>
+<tr class="separator:ad0a5a36aeabc9b8d8ea27cecae30ae31"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af2a184b7c8e7f324607a0b7468bcb8f6"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dd6/a08596.html#af2a184b7c8e7f324607a0b7468bcb8f6">sinAngle</a></td></tr>
+<tr class="separator:af2a184b7c8e7f324607a0b7468bcb8f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a37f49fc816f37dff8c1947f4de7f04d5"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dd6/a08596.html#a37f49fc816f37dff8c1947f4de7f04d5">cosAngle</a></td></tr>
+<tr class="separator:a37f49fc816f37dff8c1947f4de7f04d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6fada60d677d89580c3a718d42a75d17"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dd6/a08596.html#a6fada60d677d89580c3a718d42a75d17">xyspeed</a></td></tr>
+<tr class="separator:a6fada60d677d89580c3a718d42a75d17"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="ad03044f44da107f20eb3a3932d9cf667" name="ad03044f44da107f20eb3a3932d9cf667"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad03044f44da107f20eb3a3932d9cf667">&#9670;&#160;</a></span>operator()()</h2>
+<a id="a28a5bd110553457c86d7f77e78041713" name="a28a5bd110553457c86d7f77e78041713"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a28a5bd110553457c86d7f77e78041713">&#9670;&#160;</a></span>Reset()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -128,21 +142,10 @@ Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool SpellModPredicate::operator() </td>
+          <td class="memname">void MovementInfo::JumpInfo::Reset </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/df0/a08608.html">SpellModifier</a> const *&#160;</td>
-          <td class="paramname"><em>a</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../db/df0/a08608.html">SpellModifier</a> const *&#160;</td>
-          <td class="paramname"><em>b</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
         </tr>
       </table>
   </td>
@@ -151,14 +154,82 @@ Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 9850</span>    {</div>
-<div class="line"><span class="lineno"> 9851</span>        <span class="keywordflow">if</span> (a-&gt;type != b-&gt;type)</div>
-<div class="line"><span class="lineno"> 9852</span>            <span class="keywordflow">return</span> a-&gt;type == <a class="code hl_enumvalue" href="../../d0/d3c/a00971.html#a946f1b98541e5df18b4b45f6fb144ce8a8ebc303e6990a35340cd39cef55f4dd7">SPELLMOD_FLAT</a>;</div>
-<div class="line"><span class="lineno"> 9853</span>        <span class="keywordflow">return</span> a-&gt;priority &gt; b-&gt;priority;</div>
-<div class="line"><span class="lineno"> 9854</span>    }</div>
-<div class="ttc" id="aa00971_html_a946f1b98541e5df18b4b45f6fb144ce8a8ebc303e6990a35340cd39cef55f4dd7"><div class="ttname"><a href="../../d0/d3c/a00971.html#a946f1b98541e5df18b4b45f6fb144ce8a8ebc303e6990a35340cd39cef55f4dd7">SPELLMOD_FLAT</a></div><div class="ttdeci">@ SPELLMOD_FLAT</div><div class="ttdef"><b>Definition:</b> Player.h:94</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  324</span>        {</div>
+<div class="line"><span class="lineno">  325</span>            <a class="code hl_variable" href="../../da/dd6/a08596.html#ad0a5a36aeabc9b8d8ea27cecae30ae31">zspeed</a> = <a class="code hl_variable" href="../../da/dd6/a08596.html#af2a184b7c8e7f324607a0b7468bcb8f6">sinAngle</a> = <a class="code hl_variable" href="../../da/dd6/a08596.html#a37f49fc816f37dff8c1947f4de7f04d5">cosAngle</a> = <a class="code hl_variable" href="../../da/dd6/a08596.html#a6fada60d677d89580c3a718d42a75d17">xyspeed</a> = 0.0f;</div>
+<div class="line"><span class="lineno">  326</span>        }</div>
+<div class="ttc" id="aa08596_html_a37f49fc816f37dff8c1947f4de7f04d5"><div class="ttname"><a href="../../da/dd6/a08596.html#a37f49fc816f37dff8c1947f4de7f04d5">MovementInfo::JumpInfo::cosAngle</a></div><div class="ttdeci">float cosAngle</div><div class="ttdef"><b>Definition:</b> Object.h:328</div></div>
+<div class="ttc" id="aa08596_html_a6fada60d677d89580c3a718d42a75d17"><div class="ttname"><a href="../../da/dd6/a08596.html#a6fada60d677d89580c3a718d42a75d17">MovementInfo::JumpInfo::xyspeed</a></div><div class="ttdeci">float xyspeed</div><div class="ttdef"><b>Definition:</b> Object.h:328</div></div>
+<div class="ttc" id="aa08596_html_ad0a5a36aeabc9b8d8ea27cecae30ae31"><div class="ttname"><a href="../../da/dd6/a08596.html#ad0a5a36aeabc9b8d8ea27cecae30ae31">MovementInfo::JumpInfo::zspeed</a></div><div class="ttdeci">float zspeed</div><div class="ttdef"><b>Definition:</b> Object.h:328</div></div>
+<div class="ttc" id="aa08596_html_af2a184b7c8e7f324607a0b7468bcb8f6"><div class="ttname"><a href="../../da/dd6/a08596.html#af2a184b7c8e7f324607a0b7468bcb8f6">MovementInfo::JumpInfo::sinAngle</a></div><div class="ttdeci">float sinAngle</div><div class="ttdef"><b>Definition:</b> Object.h:328</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00191">SpellModifier::priority</a>, <a class="el" href="../../#l00094">SPELLMOD_FLAT</a>, and <a class="el" href="../../#l00185">SpellModifier::type</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00328">cosAngle</a>, <a class="el" href="../../#l00328">sinAngle</a>, <a class="el" href="../../#l00328">xyspeed</a>, and <a class="el" href="../../#l00328">zspeed</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00334">MovementInfo::MovementInfo()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a37f49fc816f37dff8c1947f4de7f04d5" name="a37f49fc816f37dff8c1947f4de7f04d5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a37f49fc816f37dff8c1947f4de7f04d5">&#9670;&#160;</a></span>cosAngle</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float MovementInfo::JumpInfo::cosAngle</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l15994">Unit::BuildMovementPacket()</a>, <a class="el" href="../../#l00998">MovementInfo::OutDebug()</a>, <a class="el" href="../../#l01030">WorldSession::ReadMovementInfo()</a>, <a class="el" href="../../#l00323">Reset()</a>, and <a class="el" href="../../#l01144">WorldSession::WriteMovementInfo()</a>.</p>
+
+</div>
+</div>
+<a id="af2a184b7c8e7f324607a0b7468bcb8f6" name="af2a184b7c8e7f324607a0b7468bcb8f6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af2a184b7c8e7f324607a0b7468bcb8f6">&#9670;&#160;</a></span>sinAngle</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float MovementInfo::JumpInfo::sinAngle</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l15994">Unit::BuildMovementPacket()</a>, <a class="el" href="../../#l00998">MovementInfo::OutDebug()</a>, <a class="el" href="../../#l01030">WorldSession::ReadMovementInfo()</a>, <a class="el" href="../../#l00323">Reset()</a>, and <a class="el" href="../../#l01144">WorldSession::WriteMovementInfo()</a>.</p>
+
+</div>
+</div>
+<a id="a6fada60d677d89580c3a718d42a75d17" name="a6fada60d677d89580c3a718d42a75d17"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6fada60d677d89580c3a718d42a75d17">&#9670;&#160;</a></span>xyspeed</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float MovementInfo::JumpInfo::xyspeed</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l15994">Unit::BuildMovementPacket()</a>, <a class="el" href="../../#l00998">MovementInfo::OutDebug()</a>, <a class="el" href="../../#l01030">WorldSession::ReadMovementInfo()</a>, <a class="el" href="../../#l00323">Reset()</a>, and <a class="el" href="../../#l01144">WorldSession::WriteMovementInfo()</a>.</p>
+
+</div>
+</div>
+<a id="ad0a5a36aeabc9b8d8ea27cecae30ae31" name="ad0a5a36aeabc9b8d8ea27cecae30ae31"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad0a5a36aeabc9b8d8ea27cecae30ae31">&#9670;&#160;</a></span>zspeed</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float MovementInfo::JumpInfo::zspeed</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l15994">Unit::BuildMovementPacket()</a>, <a class="el" href="../../#l00998">MovementInfo::OutDebug()</a>, <a class="el" href="../../#l01030">WorldSession::ReadMovementInfo()</a>, <a class="el" href="../../#l00323">Reset()</a>, and <a class="el" href="../../#l01144">WorldSession::WriteMovementInfo()</a>.</p>
 
 </div>
 </div>
@@ -167,8 +238,8 @@ Public Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../da/dd6/a08596.html">SpellModPredicate</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:12:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../df/d1c/a08588.html">MovementInfo</a></li><li class="navelem"><a class="el" href="../../da/dd6/a08596.html">JumpInfo</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:15:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,8 +1,11 @@
 var a14416 =
 [
-    [ "boss_venoxis", "db/d5b/a14416.html#a3e91a9022163a726cbc077d38459a5f5", null ],
-    [ "InitializeAI", "db/d5b/a14416.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
-    [ "JustDied", "db/d5b/a14416.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
-    [ "JustEngagedWith", "db/d5b/a14416.html#afaa68ffbd5fecae48a044009326bcaed", null ],
-    [ "Reset", "db/d5b/a14416.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
+    [ "boss_hakkarAI", "db/d5b/a14416.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
+    [ "ApplyHakkarPowerStacks", "db/d5b/a14416.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
+    [ "CheckInRoom", "db/d5b/a14416.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
+    [ "EnterEvadeMode", "db/d5b/a14416.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
+    [ "JustDied", "db/d5b/a14416.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
+    [ "JustEngagedWith", "db/d5b/a14416.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
+    [ "Reset", "db/d5b/a14416.html#a52db5743c09088e2e9f1aff1513960f2", null ],
+    [ "UpdateAI", "db/d5b/a14416.html#a1119212465bcf293991d7a520c6ffe42", null ]
 ];

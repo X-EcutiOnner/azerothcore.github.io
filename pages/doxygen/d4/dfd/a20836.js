@@ -1,6 +1,7 @@
 var a20836 =
 [
-    [ "boss_thorim_start_npcsAI", "df/dcd/a20840.html", "df/dcd/a20840" ],
-    [ "boss_thorim_start_npcs", "d4/dfd/a20836.html#a3aa11a487ae00b2e397fd25ed2e42702", null ],
-    [ "GetAI", "d4/dfd/a20836.html#a6c529b19d071b4966ccc74b44279cb08", null ]
+    [ "boss_yoggsaron_corruptor_tentacle", "d4/dfd/a20836.html#af7da1739cd55e8707b2f33bba0ba2031", null ],
+    [ "DoAction", "d4/dfd/a20836.html#adf9489b954cc83a26263ffffe4ef2dd5", null ],
+    [ "SelectCorruptionTarget", "d4/dfd/a20836.html#a8b868941372af612e269e013594a5c14", null ],
+    [ "UpdateAI", "d4/dfd/a20836.html#a2f8911a615d32689088a6c358ac80d3f", null ]
 ];

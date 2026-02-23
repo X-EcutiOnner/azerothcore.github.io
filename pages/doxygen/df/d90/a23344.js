@@ -1,6 +1,7 @@
 var a23344 =
 [
-    [ "HandleEffectApply", "df/d90/a23344.html#adbfce9b247a8a36d143243955372dc91", null ],
-    [ "PrepareAuraScript", "df/d90/a23344.html#a7a04c4f4c9cb1070d02d58bfa3d0c8e6", null ],
-    [ "Register", "df/d90/a23344.html#afb919ed484440d382b9d1ac7cf6f3f14", null ]
+    [ "HandleScript", "df/d90/a23344.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
+    [ "PrepareSpellScript", "df/d90/a23344.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
+    [ "Register", "df/d90/a23344.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
+    [ "Validate", "df/d90/a23344.html#a46aca18049e02d50f57579b3fdc705bd", null ]
 ];

@@ -1,7 +1,7 @@
 var a17600 =
 [
-    [ "HandleDummyTick", "d0/d1d/a17600.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
-    [ "PrepareAuraScript", "d0/d1d/a17600.html#a577523701b5a4ea2def4999e634c8862", null ],
-    [ "Register", "d0/d1d/a17600.html#aaad9185c62333de4d6704b22780edd28", null ],
-    [ "Validate", "d0/d1d/a17600.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
+    [ "HandleDummy", "d0/d1d/a17600.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
+    [ "PrepareSpellScript", "d0/d1d/a17600.html#a3ef0564565ea49265800422c835432b0", null ],
+    [ "Register", "d0/d1d/a17600.html#a7b685926a8d511397889616e97bbd563", null ],
+    [ "Validate", "d0/d1d/a17600.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
 ];

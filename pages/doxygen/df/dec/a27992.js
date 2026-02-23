@@ -1,7 +1,6 @@
 var a27992 =
 [
-    [ "HandleDummy", "df/dec/a27992.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
-    [ "PrepareSpellScript", "df/dec/a27992.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
-    [ "Register", "df/dec/a27992.html#a66c530b497e4952b457bbfa50a036c07", null ],
-    [ "Validate", "df/dec/a27992.html#a968333dcfe0553ad73879f3042db5511", null ]
+    [ "npc_dream_fogAI", "d7/d3a/a27996.html", "d7/d3a/a27996" ],
+    [ "npc_dream_fog", "df/dec/a27992.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
+    [ "GetAI", "df/dec/a27992.html#a48c45fec086e3a50462deed44734ba38", null ]
 ];

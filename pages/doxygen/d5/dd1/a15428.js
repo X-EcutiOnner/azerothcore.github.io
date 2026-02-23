@@ -1,9 +1,9 @@
 var a15428 =
 [
-    [ "boss_fankriss", "d5/dd1/a15428.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
-    [ "JustEngagedWith", "d5/dd1/a15428.html#a9eaae719a271a95f64ac8076fe807c13", null ],
-    [ "Reset", "d5/dd1/a15428.html#af84010ee103eb81c1e269b03fc640f81", null ],
-    [ "SummonHatchlingWaves", "d5/dd1/a15428.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
-    [ "SummonWorms", "d5/dd1/a15428.html#ada23537921c3a11195450db89eb8fcfe", null ],
-    [ "summonWormSpells", "d5/dd1/a15428.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
+    [ "spell_gen_ayamiss_swarmer_loop", "d5/dd1/a15428.html#ad910e172ef6866f102fa3407f676169a", null ],
+    [ "HandleScript", "d5/dd1/a15428.html#acd0dffad436cb414deb546b192957783", null ],
+    [ "Load", "d5/dd1/a15428.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
+    [ "PrepareSpellScript", "d5/dd1/a15428.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
+    [ "Register", "d5/dd1/a15428.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
+    [ "_pathId", "d5/dd1/a15428.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
 ];

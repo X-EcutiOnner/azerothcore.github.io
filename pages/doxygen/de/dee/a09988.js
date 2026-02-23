@@ -1,12 +1,8 @@
 var a09988 =
 [
-    [ "BanAccount", "de/dee/a09988.html#af85ceffee2ae6a143df5e36f6a004f07", null ],
-    [ "BanAccountByPlayerName", "de/dee/a09988.html#a35f92762d69fe32e49b9b239c74e4734", null ],
-    [ "BanCharacter", "de/dee/a09988.html#ad5048b36828bfe20a95dfb85515de831", null ],
-    [ "BanIP", "de/dee/a09988.html#a404890eab19b97773e6c9aef8cc65707", null ],
-    [ "instance", "de/dee/a09988.html#aa495dfaab6af98c43f645acf516a5630", null ],
-    [ "RemoveBanAccount", "de/dee/a09988.html#ae831e6227442edc70469229d5d73fa3f", null ],
-    [ "RemoveBanAccountByPlayerName", "de/dee/a09988.html#a7b5e1ae6d34ae4f6a15e03c434953aea", null ],
-    [ "RemoveBanCharacter", "de/dee/a09988.html#afbde6c0b26802f684ecf78c2f493cc67", null ],
-    [ "RemoveBanIP", "de/dee/a09988.html#afcf4857007432ebff042c85c5daf2325", null ]
+    [ "CircleBoundary", "de/dee/a09988.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
+    [ "CircleBoundary", "de/dee/a09988.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
+    [ "IsWithinBoundaryArea", "de/dee/a09988.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
+    [ "_center", "de/dee/a09988.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
+    [ "_radiusSq", "de/dee/a09988.html#acbb3cc0c546f0e557a48a45425355950", null ]
 ];

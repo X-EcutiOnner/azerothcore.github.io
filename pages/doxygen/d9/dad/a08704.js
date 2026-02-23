@@ -1,9 +1,9 @@
 var a08704 =
 [
-    [ "PendingSpellCastRequest", "d9/dad/a08704.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
-    [ "cancelInProgress", "d9/dad/a08704.html#a726b6e423b23f8c12c65e07809462ad1", null ],
-    [ "category", "d9/dad/a08704.html#a51a702f257b784dac4556397dd1c0be4", null ],
-    [ "isItem", "d9/dad/a08704.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
-    [ "requestPacket", "d9/dad/a08704.html#a6ee868c6161e49dc8774ab357f313116", null ],
-    [ "spellId", "d9/dad/a08704.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
+    [ "PetInfo", "d0/db4/a08708.html", "d0/db4/a08708" ],
+    [ "GetUnslottedHunterPet", "d9/dad/a08704.html#a4e0e22a135703c989976694a32912cbd", null ],
+    [ "CurrentPet", "d9/dad/a08704.html#a7a9f76452985abc65560773ac413208f", null ],
+    [ "MaxStabledPets", "d9/dad/a08704.html#a2a30270bbd396b7fa4e035429ff8d04e", null ],
+    [ "StabledPets", "d9/dad/a08704.html#a6bd064e692fff316581d08680b163026", null ],
+    [ "UnslottedPets", "d9/dad/a08704.html#a8e6f6e36722dd883e6df962a1e950346", null ]
 ];

@@ -1,8 +1,6 @@
 var a19072 =
 [
-    [ "Class", "dd/d78/a19072.html#a095390e9023609f5836c4481ed79e1af", null ],
-    [ "cooldown_ms", "dd/d78/a19072.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
-    [ "id", "dd/d78/a19072.html#ae9fdf89271339b93f306c4aa0871f844", null ],
-    [ "range", "dd/d78/a19072.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
-    [ "targetType", "dd/d78/a19072.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
+    [ "npc_captain_brandonAI", "dd/d78/a19072.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "dd/d78/a19072.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "dd/d78/a19072.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

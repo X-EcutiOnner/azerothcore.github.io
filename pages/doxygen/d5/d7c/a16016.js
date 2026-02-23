@@ -1,6 +1,6 @@
 var a16016 =
 [
-    [ "creatureID", "d5/d7c/a16016.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
-    [ "pos", "d5/d7c/a16016.html#a9705a858cc2c3867e104514d3a0a1866", null ],
-    [ "waveID", "d5/d7c/a16016.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
+    [ "go_wind_stoneAI", "d3/d1a/a16020.html", "d3/d1a/a16020" ],
+    [ "go_wind_stone", "d5/d7c/a16016.html#a70c4bcb743b0d587caad4b574c589e3e", null ],
+    [ "GetAI", "d5/d7c/a16016.html#ab7add0fe4e58eec422e37ae04b9338df", null ]
 ];

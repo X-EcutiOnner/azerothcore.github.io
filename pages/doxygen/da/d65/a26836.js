@@ -1,9 +1,9 @@
 var a26836 =
 [
-    [ "CheckCast", "da/d65/a26836.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
-    [ "FilterTargets", "da/d65/a26836.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
-    [ "HandleDummy", "da/d65/a26836.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
-    [ "PrepareSpellScript", "da/d65/a26836.html#a9c992e732b525e29f684947398d20efb", null ],
-    [ "Register", "da/d65/a26836.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
-    [ "Validate", "da/d65/a26836.html#abca1e5aa46e7753588c8120090775195", null ]
+    [ "CheckProc", "da/d65/a26836.html#ac0e2bf5c1a96ce0502561bb6bcb6ad97", null ],
+    [ "HandleDispel", "da/d65/a26836.html#a64235032423050de10581165c57f8b0a", null ],
+    [ "HandleProc", "da/d65/a26836.html#ab1c1196f003f7ff0bf6f6eae5bd6de9a", null ],
+    [ "PrepareAuraScript", "da/d65/a26836.html#af7ba0eb96dca76a288dd034665822069", null ],
+    [ "Register", "da/d65/a26836.html#ababc8b42c64740655864d2834a639384", null ],
+    [ "Validate", "da/d65/a26836.html#a03ecf2489369cbb7a6dff555db153a96", null ]
 ];

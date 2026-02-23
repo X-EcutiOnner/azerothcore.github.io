@@ -1,8 +1,5 @@
 var a08668 =
 [
-    [ "EnchantDuration", "dd/df9/a08668.html#a1ce5f81deaa60494c247673c113632d8", null ],
-    [ "EnchantDuration", "dd/df9/a08668.html#a52448f2bb8b788193a69fe9a2d8729f3", null ],
-    [ "item", "dd/df9/a08668.html#ae803f6a9ce9cdb0dbb133bc85b6613ab", null ],
-    [ "leftduration", "dd/df9/a08668.html#a3f4edafbc9b09cb5ab660bc68af435f3", null ],
-    [ "slot", "dd/df9/a08668.html#a3de1a8d64aea4c5c1f984a74c6bb017d", null ]
+    [ "PositionXYStreamer", "dd/df9/a08668.html#a6f165ea30ccb7cdeba0c4e197b3a0e5b", null ],
+    [ "Pos", "dd/df9/a08668.html#afb17e60540233b8861b6e967d0e44e07", null ]
 ];

@@ -1,7 +1,7 @@
 var a15796 =
 [
-    [ "npc_shenthulAI", "d0/d14/a15800.html", "d0/d14/a15800" ],
-    [ "npc_shenthul", "dc/d3d/a15796.html#a77815503c7d9c811fe3821232e308714", null ],
-    [ "GetAI", "dc/d3d/a15796.html#a1683f8c89add6270277c59951c74027e", null ],
-    [ "OnQuestAccept", "dc/d3d/a15796.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
+    [ "HandleEffectRemove", "dc/d3d/a15796.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
+    [ "PrepareAuraScript", "dc/d3d/a15796.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
+    [ "Register", "dc/d3d/a15796.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
+    [ "AuraEffectHandleModes", "dc/d3d/a15796.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
 ];

@@ -1,7 +1,6 @@
 var a26964 =
 [
-    [ "HandleProc", "df/dff/a26964.html#a46726e3e05e386892ea86d74d161e8d0", null ],
-    [ "PrepareAuraScript", "df/dff/a26964.html#acda7b1b6e91a433b72c2a5dd0e165685", null ],
-    [ "Register", "df/dff/a26964.html#a33cd336a6ca68e66e6046cfdac776fee", null ],
-    [ "Validate", "df/dff/a26964.html#a5f2c7d754a37e6ae02d4aaec758841e5", null ]
+    [ "HandleDummy", "df/dff/a26964.html#a42f48b9d7d657da75c8a4f5b6468011e", null ],
+    [ "PrepareSpellScript", "df/dff/a26964.html#a5efc666af2cb73c376706c20e41ace68", null ],
+    [ "Register", "df/dff/a26964.html#a46e61697212a43532e148ccb12a7d8e5", null ]
 ];

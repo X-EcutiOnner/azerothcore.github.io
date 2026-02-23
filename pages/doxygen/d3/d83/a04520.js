@@ -1,5 +1,8 @@
 var a04520 =
 [
-    [ "instance_commandscript", "da/d65/a12009.html", "da/d65/a12009" ],
-    [ "AddSC_instance_commandscript", "d3/d83/a04520.html#a3d7dc88b6e95322f2f3dc69ad367fa0c", null ]
+    [ "ModelIgnoreFlags", "d3/d83/a04520.html#a6996c44f3ac72cd9dc04515186d2da28", [
+      [ "Nothing", "d3/d83/a04520.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5", null ],
+      [ "M2", "d3/d83/a04520.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9", null ]
+    ] ],
+    [ "operator&", "d3/d83/a04520.html#a3c25bdb4d30c345cd6760935e2c456f4", null ]
 ];

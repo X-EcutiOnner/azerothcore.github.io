@@ -1,5 +1,6 @@
 var a16936 =
 [
-    [ "achievement_better_off_dred", "d4/d05/a16936.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
-    [ "OnCheck", "d4/d05/a16936.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
+    [ "npc_toc_pet_hunterAI", "d6/d61/a16940.html", "d6/d61/a16940" ],
+    [ "npc_toc_pet_hunter", "d4/d05/a16936.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
+    [ "GetAI", "d4/d05/a16936.html#a9febc3086b0627324277f45d49cdd03f", null ]
 ];

@@ -1,6 +1,8 @@
 var a13484 =
 [
-    [ "instance_stratholme_InstanceMapScript", "d9/dd0/a13488.html", "d9/dd0/a13488" ],
-    [ "instance_stratholme", "d8/d3c/a13484.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
-    [ "GetInstanceScript", "d8/d3c/a13484.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
+    [ "HandleHit", "d8/d3c/a13484.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
+    [ "PrepareSpellScript", "d8/d3c/a13484.html#a53f170244b390f7035e131fb5c79cb3f", null ],
+    [ "Register", "d8/d3c/a13484.html#a248124b837cf71f7d422154db4581747", null ],
+    [ "Validate", "d8/d3c/a13484.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
+    [ "_emote", "d8/d3c/a13484.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
 ];

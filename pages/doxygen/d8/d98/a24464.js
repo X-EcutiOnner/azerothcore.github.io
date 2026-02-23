@@ -1,6 +1,6 @@
 var a24464 =
 [
-    [ "npc_kservantAI", "d9/d4a/a24468.html", "d9/d4a/a24468" ],
-    [ "npc_kservant", "d8/d98/a24464.html#af04c8a87516e41f7d35071664034af9d", null ],
-    [ "GetAI", "d8/d98/a24464.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
+    [ "CheckProc", "d8/d98/a24464.html#ace3662e092d02de975929741c470230d", null ],
+    [ "PrepareAuraScript", "d8/d98/a24464.html#aed547ead2b8822f08eb1530f4b29e2f8", null ],
+    [ "Register", "d8/d98/a24464.html#ae6432106538261827c3eac3dde1450f2", null ]
 ];

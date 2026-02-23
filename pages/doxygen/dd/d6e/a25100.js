@@ -1,7 +1,7 @@
 var a25100 =
 [
-    [ "HandleEffectRemove", "dd/d6e/a25100.html#a3d6b6ae0bde8ae51362c95df82604d68", null ],
-    [ "PrepareAuraScript", "dd/d6e/a25100.html#aa07b231cc76afb098ac8bc92eb050c80", null ],
-    [ "Register", "dd/d6e/a25100.html#aa381143f36a6443dfb1f0d66ce81c351", null ],
-    [ "AuraEffectHandleModes", "dd/d6e/a25100.html#a97370dd3f7c3e58a719090176c397386", null ]
+    [ "HandleEffectPeriodic", "dd/d6e/a25100.html#a3a2e7653276964fd36c93b41aa8f25ea", null ],
+    [ "PrepareAuraScript", "dd/d6e/a25100.html#a893a539f4eeb0b9f027c5a306cc7bd53", null ],
+    [ "Register", "dd/d6e/a25100.html#a36792fd068ec7444aa118ec63cf972a7", null ],
+    [ "Validate", "dd/d6e/a25100.html#aa57af116294cfba007586506ba1dbeb5", null ]
 ];

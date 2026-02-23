@@ -1,6 +1,6 @@
 var a07852 =
 [
-    [ "Rank", "da/d98/a07852.html#abd26e25c76d5344dfdd94547b2f310d4", null ],
-    [ "Spell", "da/d98/a07852.html#a0cb15c7c1e640b5a6acc8f8d94e6c719", null ],
-    [ "Talent", "da/d98/a07852.html#ae39546dc8db233709131b388a3868c1a", null ]
+    [ "operator bool", "da/d98/a07852.html#a02878c282dfcfd2b9f4eddf99a805fa3", null ],
+    [ "tail", "da/d98/a07852.html#a0bd839d0c7a8b7ce84612c80f3ca84e7", null ],
+    [ "token", "da/d98/a07852.html#a55e214db8a01ac3c427874d03f1bda54", null ]
 ];

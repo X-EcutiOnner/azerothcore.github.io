@@ -1,7 +1,8 @@
 var a19684 =
 [
-    [ "HandleProc", "d1/d19/a19684.html#a84255cd31ebaa7c70de93d569258c709", null ],
-    [ "PrepareAuraScript", "d1/d19/a19684.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
-    [ "Register", "d1/d19/a19684.html#a6bc166d2e1455537fa78c4223da17746", null ],
-    [ "Validate", "d1/d19/a19684.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
+    [ "Load", "d1/d19/a19684.html#a7bb0a7c71fb3b9958226069ed6e3399b", null ],
+    [ "OnRemove", "d1/d19/a19684.html#a1d9a8a8b289f565712ab79e9857f6eb7", null ],
+    [ "PrepareAuraScript", "d1/d19/a19684.html#aae6c3a215b09fd2270976190600e2cc4", null ],
+    [ "Register", "d1/d19/a19684.html#aa2c970e4e5b84d79960023c79e95f9c3", null ],
+    [ "Validate", "d1/d19/a19684.html#ae4ac76269793280335d76a78e5dced91", null ]
 ];

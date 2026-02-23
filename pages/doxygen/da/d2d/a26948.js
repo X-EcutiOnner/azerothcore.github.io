@@ -1,7 +1,9 @@
 var a26948 =
 [
-    [ "HandleDispel", "da/d2d/a26948.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
-    [ "PrepareAuraScript", "da/d2d/a26948.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
-    [ "Register", "da/d2d/a26948.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
-    [ "Validate", "da/d2d/a26948.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
+    [ "HandleAfterCast", "da/d2d/a26948.html#ac08e632064c407346649f525d030d335", null ],
+    [ "HandleDummy", "da/d2d/a26948.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
+    [ "Load", "da/d2d/a26948.html#a177525c755b036a79263c0fa6fa4082e", null ],
+    [ "PrepareSpellScript", "da/d2d/a26948.html#aed99b07a53068b19bddb4daff3449a52", null ],
+    [ "Register", "da/d2d/a26948.html#a946e56a325d83656d9b43af80d065e45", null ],
+    [ "_triggerSpellId", "da/d2d/a26948.html#a6697a22b684784853cb1999d41fcaaa7", null ]
 ];

@@ -1,8 +1,6 @@
 var a22976 =
 [
-    [ "Load", "d3/d15/a22976.html#a4ff26763f05b07d882cd8d209464910e", null ],
-    [ "OnPeriodic", "d3/d15/a22976.html#a3e3bb503a6b5f90741a4df668851accf", null ],
-    [ "PrepareAuraScript", "d3/d15/a22976.html#a4126d35669859963f10ed1425a054298", null ],
-    [ "Register", "d3/d15/a22976.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
-    [ "Validate", "d3/d15/a22976.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
+    [ "PrepareAuraScript", "d3/d15/a22976.html#a0dca39c324a5431d4861c1f20a34355e", null ],
+    [ "Register", "d3/d15/a22976.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
+    [ "Update", "d3/d15/a22976.html#a6201eaa3b961e838a535b80679996ada", null ]
 ];

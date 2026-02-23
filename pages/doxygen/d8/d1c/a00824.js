@@ -1,4 +1,4 @@
 var a00824 =
 [
-    [ "ScriptRegistry< BattlegroundScript >", "d8/d1c/a00824.html#a954046a61096ecb9db321b0a35da5f77", null ]
+    [ "UpdateMask", "d0/d01/a08688.html", "d0/d01/a08688" ]
 ];

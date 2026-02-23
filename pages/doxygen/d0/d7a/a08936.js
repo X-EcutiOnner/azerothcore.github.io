@@ -1,10 +1,18 @@
 var a08936 =
 [
-    [ "MapType", "d0/d7a/a08936.html#a8fa5f0aca9316901f42b2df8251c5a5d", null ],
-    [ "HashMapHolder", "d0/d7a/a08936.html#ad10240097462af2a8a76c9429bd7cbca", null ],
-    [ "Find", "d0/d7a/a08936.html#a314b4ce3265136fe326b909fe6ef6716", null ],
-    [ "GetContainer", "d0/d7a/a08936.html#ad9dfe5d223496a379a4aec0fc12c42d9", null ],
-    [ "GetLock", "d0/d7a/a08936.html#a52cc052c8d73d5b700c7f9253138942f", null ],
-    [ "Insert", "d0/d7a/a08936.html#af5c618228c141e28ffa11468cfffb21a", null ],
-    [ "Remove", "d0/d7a/a08936.html#a7b9c3761746641133d4a9837559c0bb0", null ]
+    [ "absorb", "d0/d7a/a08936.html#a7298afcc76b856c5427f5e123030a797", null ],
+    [ "attacker", "d0/d7a/a08936.html#aebe14d91f54da0b25a07ff3d59df6ec2", null ],
+    [ "attackType", "d0/d7a/a08936.html#afd18e43bd78a9144c02ba0493921c506", null ],
+    [ "blocked_amount", "d0/d7a/a08936.html#a0ce1e1ff406264c7283979fe4fc70148", null ],
+    [ "cleanDamage", "d0/d7a/a08936.html#a452ac9be1f6e9c10616a62a128573358", null ],
+    [ "damage", "d0/d7a/a08936.html#ab95e1e4746b966f1301d997fdac99c94", null ],
+    [ "damages", "d0/d7a/a08936.html#a707ae69dcd96a0537202ed19baa4aeae", null ],
+    [ "damageSchoolMask", "d0/d7a/a08936.html#a01f1cc6661ef5f4e7d657ba59d06108f", null ],
+    [ "HitInfo", "d0/d7a/a08936.html#ae42a8a3750633d94e661ac9d5a9aa8df", null ],
+    [ "hitOutCome", "d0/d7a/a08936.html#a114dcabcb8bff10c2452cb27e75da115", null ],
+    [ "procAttacker", "d0/d7a/a08936.html#a21bed657c7e3d2338f30fb5237884d5f", null ],
+    [ "procVictim", "d0/d7a/a08936.html#a236b06649e715fab9dbddb074ef2f075", null ],
+    [ "resist", "d0/d7a/a08936.html#ab57d348b500203649bf532405cd9ceec", null ],
+    [ "target", "d0/d7a/a08936.html#af2976fa1245b3e3177dcbac464345829", null ],
+    [ "TargetState", "d0/d7a/a08936.html#a73ef30ca87444da617b8c2e05b70e9fc", null ]
 ];

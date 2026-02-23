@@ -1,7 +1,9 @@
 var a21424 =
 [
-    [ "HandleScript", "d5/d98/a21424.html#a47b991c20c523d151893fefd9d487714", null ],
-    [ "PrepareSpellScript", "d5/d98/a21424.html#ab2db47d0a2694c0734db600e810e190d", null ],
-    [ "Register", "d5/d98/a21424.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
-    [ "Validate", "d5/d98/a21424.html#a89d601f6036fe38238767281f3427e54", null ]
+    [ "npc_azure_sorcerorAI", "d5/d98/a21424.html#a474a7144908d4820341dc56f77436b90", null ],
+    [ "Reset", "d5/d98/a21424.html#a4c637288f79e1da4bdace6516cd887b1", null ],
+    [ "UpdateAI", "d5/d98/a21424.html#a928d789e2cbd35b228857a23c4204ea1", null ],
+    [ "uiArcaneStreamTimer", "d5/d98/a21424.html#ad238fe8fed4dcefd923d901e4f73ed05", null ],
+    [ "uiArcaneStreamTimerStartingValueHolder", "d5/d98/a21424.html#af044879e8e064e28a491c87d0c6cde74", null ],
+    [ "uiManaDetonationTimer", "d5/d98/a21424.html#a3ebe4eb452296f3c45db5c1b6cdaa243", null ]
 ];

@@ -1,8 +1,6 @@
 var a21144 =
 [
-    [ "Absorb", "da/d9c/a21144.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
-    [ "CalculateAmount", "da/d9c/a21144.html#afe50bf22d07e68757caffb056ad55811", null ],
-    [ "PrepareAuraScript", "da/d9c/a21144.html#afa4ef1f7faa36a521c208dde10d09437", null ],
-    [ "Register", "da/d9c/a21144.html#aae020936d42da81c445f7d296660987b", null ],
-    [ "Validate", "da/d9c/a21144.html#a5852135c5214ee3938603632b0f21917", null ]
+    [ "CalculateAmount", "da/d9c/a21144.html#a79019ef395c9b66f6a88759b0517005d", null ],
+    [ "PrepareAuraScript", "da/d9c/a21144.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
+    [ "Register", "da/d9c/a21144.html#a9bce52699983fe798c903385faa42462", null ]
 ];

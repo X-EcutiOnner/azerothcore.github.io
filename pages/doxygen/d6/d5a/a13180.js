@@ -1,5 +1,8 @@
 var a13180 =
 [
-    [ "instance_magisters_terrace_InstanceMapScript", "d6/d5a/a13180.html#ad083ab5aa00902987e18f4e9423a705a", null ],
-    [ "ProcessEvent", "d6/d5a/a13180.html#a8dbe1537ea00412a6fa366891204d645", null ]
+    [ "npc_tito", "d6/d5a/a13180.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
+    [ "JustEngagedWith", "d6/d5a/a13180.html#a71335c1474e8a29edf76addacb737fa9", null ],
+    [ "UpdateAI", "d6/d5a/a13180.html#ac357c29e68d8480d94349da844efd3ad", null ],
+    [ "_scheduler", "d6/d5a/a13180.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
+    [ "instance", "d6/d5a/a13180.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
 ];

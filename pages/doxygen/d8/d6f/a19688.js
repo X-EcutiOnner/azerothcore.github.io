@@ -1,6 +1,8 @@
 var a19688 =
 [
-    [ "HandleDamageCalc", "d8/d6f/a19688.html#a71b88fbad5acbba47028dd1ff82b4836", null ],
-    [ "PrepareSpellScript", "d8/d6f/a19688.html#a754da297cd5801616e24bf2d802d0b38", null ],
-    [ "Register", "d8/d6f/a19688.html#a231f29ea69a354ddb2963cb4ef9a3f4e", null ]
+    [ "FilterTargets", "d8/d6f/a19688.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "Load", "d8/d6f/a19688.html#a639105c26214d9887b84a482ca93eb26", null ],
+    [ "PrepareSpellScript", "d8/d6f/a19688.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "d8/d6f/a19688.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
+    [ "DrakeGUID", "d8/d6f/a19688.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
 ];

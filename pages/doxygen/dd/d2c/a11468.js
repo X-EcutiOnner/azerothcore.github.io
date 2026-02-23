@@ -1,4 +1,5 @@
 var a11468 =
 [
-    [ "operator()", "dd/d2c/a11468.html#ac27052eb73a3723e8678c92aeeb2f499", null ]
+    [ "SocketAdded", "dd/d2c/a11468.html#a01090d6713f49dc026f77f8481b492cb", null ],
+    [ "SocketRemoved", "dd/d2c/a11468.html#a4a978f9304e4aeabfb9ce1998b8a27cc", null ]
 ];

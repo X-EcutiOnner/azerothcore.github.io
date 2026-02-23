@@ -1,9 +1,6 @@
 var a14316 =
 [
-    [ "boss_jindo", "dc/d6c/a14316.html#a9aafe0282e0b5de90ce62b3f8b3cfb14", null ],
-    [ "EnterEvadeMode", "dc/d6c/a14316.html#a8b80f12d0b9b8e9c7aa7ec46fbb71500", null ],
-    [ "JustEngagedWith", "dc/d6c/a14316.html#a7f612a1e5033c5097856222cee41f2af", null ],
-    [ "JustSummoned", "dc/d6c/a14316.html#ac7382289d174ec70703b76dc4e451d39", null ],
-    [ "UpdateAI", "dc/d6c/a14316.html#aad8885f79fc527954102fc1b78ca8ad7", null ],
-    [ "_scheduler", "dc/d6c/a14316.html#a7ddbdc4d85936fd54fced20ff31e91cd", null ]
+    [ "instance_zulaman_InstanceMapScript", "d4/d82/a14320.html", "d4/d82/a14320" ],
+    [ "instance_zulaman", "dc/d6c/a14316.html#a5a81dddc07dea599e2a197737206427b", null ],
+    [ "GetInstanceScript", "dc/d6c/a14316.html#a2144a517b22c5d6e7f6cc31d344669fc", null ]
 ];

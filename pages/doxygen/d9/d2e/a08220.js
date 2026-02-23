@@ -1,6 +1,8 @@
 var a08220 =
 [
-    [ "ForcedUnsummonDelayEvent", "d9/d2e/a08220.html#aadabfc349c81e02743add4307977c2fd", null ],
-    [ "Execute", "d9/d2e/a08220.html#a86d7bd6f9f47ef37382b725f0d64877b", null ],
-    [ "m_owner", "d9/d2e/a08220.html#a3954577354fb882ec1def262502ed2e6", null ]
+    [ "TemporaryThreatModifierEvent", "d9/d2e/a08220.html#afd58a1128ac6629d7541ba1bfd4ef886", null ],
+    [ "Execute", "d9/d2e/a08220.html#a2bbd75ad5e293e78e4bffe880f371d1e", null ],
+    [ "m_owner", "d9/d2e/a08220.html#ab786c99d73f0048a993ce7cee8c3b875", null ],
+    [ "m_threatValue", "d9/d2e/a08220.html#aacb0f6e66d22a93ff074b4cbcf12b788", null ],
+    [ "m_threatVictimGUID", "d9/d2e/a08220.html#aeae82bd80c9b8b08573c6e3baf359f55", null ]
 ];

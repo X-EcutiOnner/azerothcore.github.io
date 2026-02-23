@@ -1,10 +1,13 @@
 var a10648 =
 [
-    [ "EnvironmentalDamageLog", "d2/d86/a10648.html#ab4311f6516d9b7491abf5cb2ba9a0ee0", null ],
-    [ "Write", "d2/d86/a10648.html#af7d49b8d57100cf2c3048d5415a4edc7", null ],
-    [ "Absorbed", "d2/d86/a10648.html#a443df04be3afe2021532716140ffb099", null ],
-    [ "Amount", "d2/d86/a10648.html#a073e22176d44f5806313c2a4bd3e263a", null ],
-    [ "Resisted", "d2/d86/a10648.html#ad20a9730af3088d93ac56d89b6f66b12", null ],
-    [ "Type", "d2/d86/a10648.html#a51df177d9ce6a8459bc8fa41f80cdb7a", null ],
-    [ "Victim", "d2/d86/a10648.html#a020fffe9517d30e965a4d6f6602dd05f", null ]
+    [ "ScriptObject", "d2/d86/a10648.html#ae4ca97cf587379c94354e4889ff8c0c2", null ],
+    [ "~ScriptObject", "d2/d86/a10648.html#a80c704c939f54eee6655d68509598c42", null ],
+    [ "checkValidity", "d2/d86/a10648.html#a585e75e34aed7aa32205daad85f8fe08", null ],
+    [ "GetName", "d2/d86/a10648.html#a79588d839860d2f5caab60c5f1368f10", null ],
+    [ "GetTotalAvailableHooks", "d2/d86/a10648.html#a69ee35ec7d54226264efef558022c1c0", null ],
+    [ "isAfterLoadScript", "d2/d86/a10648.html#a2f66339b1cdf1fde795c61cd24c8b0a2", null ],
+    [ "IsDatabaseBound", "d2/d86/a10648.html#a37da453729d5c8fbe2d06f905563f47c", null ],
+    [ "ScriptMgr", "d2/d86/a10648.html#a7a753f61d57353451e90f3f23fec4851", null ],
+    [ "_name", "d2/d86/a10648.html#a90b63e382cac17922ae57fe22b84718c", null ],
+    [ "_totalAvailableHooks", "d2/d86/a10648.html#ab9ecac7620b4319c634d7e5f30c30f49", null ]
 ];

@@ -1,6 +1,7 @@
 var a27204 =
 [
-    [ "FilterTargets", "d0/ddf/a27204.html#a6224b3193474f569d09edaf29b40c2fb", null ],
-    [ "PrepareSpellScript", "d0/ddf/a27204.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
-    [ "Register", "d0/ddf/a27204.html#a2fab1592d19331239b1ef63045389886", null ]
+    [ "CalcPeriodic", "d0/ddf/a27204.html#af787d0c8738284e757f808e7d138bdc6", null ],
+    [ "PrepareAuraScript", "d0/ddf/a27204.html#a383db196133bbecee06fe443fdb1bc24", null ],
+    [ "Register", "d0/ddf/a27204.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
+    [ "Update", "d0/ddf/a27204.html#af3f4a7b82e099313d609df7f85f02d00", null ]
 ];

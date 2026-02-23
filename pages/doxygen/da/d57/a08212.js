@@ -1,15 +1,10 @@
 var a08212 =
 [
-    [ "Guardian", "da/d57/a08212.html#a14bd59fddfc552c4a25c6bc4ad714508", null ],
-    [ "GetDebugInfo", "da/d57/a08212.html#ace47e7d3fb3162786329cbcf1c6cab46", null ],
-    [ "InitStats", "da/d57/a08212.html#a698ac009e39a2e8461b40135b75609ef", null ],
-    [ "InitStatsForLevel", "da/d57/a08212.html#a7d0ae55d55f4c3ea35de601c2c6c6e6b", null ],
-    [ "InitSummon", "da/d57/a08212.html#a1d5ebfa5ac5754293172041dc3a2c47d", null ],
-    [ "UpdateAllStats", "da/d57/a08212.html#ae2f3d68429afb154f790d65dae6406b3", null ],
-    [ "UpdateArmor", "da/d57/a08212.html#adc8ed8497f8450ccad92f79322d9f452", null ],
-    [ "UpdateAttackPowerAndDamage", "da/d57/a08212.html#af40269c3c63fc12b21f18c67ef067a0f", null ],
-    [ "UpdateDamagePhysical", "da/d57/a08212.html#aa45ffb532a2a8075d8e4acb818c08d70", null ],
-    [ "UpdateMaxHealth", "da/d57/a08212.html#a62c41f7922bc1c2e1697a1eea65cdb72", null ],
-    [ "UpdateMaxPower", "da/d57/a08212.html#a620010832de5fc7d6d1a8545321f9dea", null ],
-    [ "UpdateStats", "da/d57/a08212.html#a6b615ed2f01623991fa45907a09cc642", null ]
+    [ "AssistDelayEvent", "da/d57/a08212.html#a022b9cf38b8e059df2dceca38e366b7d", null ],
+    [ "AssistDelayEvent", "da/d57/a08212.html#a5371fc2a2f9334b821058b96d0c6bc13", null ],
+    [ "AddAssistant", "da/d57/a08212.html#a987303ec41927528e9a5abfd9ab75512", null ],
+    [ "Execute", "da/d57/a08212.html#a5afd295abeb1295e43f48b8951b24c35", null ],
+    [ "m_assistants", "da/d57/a08212.html#ac6de6befda582bd38f92afda01204e94", null ],
+    [ "m_owner", "da/d57/a08212.html#aabcce364c8009e8172b9d090059ce48c", null ],
+    [ "m_victim", "da/d57/a08212.html#a47aff9ce39f5fec3718d6564e53b799e", null ]
 ];

@@ -1,7 +1,12 @@
 var a17284 =
 [
-    [ "HandlePeriodicTick", "df/dda/a17284.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
-    [ "PrepareAuraScript", "df/dda/a17284.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
-    [ "Register", "df/dda/a17284.html#a4653ccb0d93d056adf3b14056865787c", null ],
-    [ "Validate", "df/dda/a17284.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
+    [ "npc_ghostly_priestAI", "df/dda/a17284.html#abb6815d1395b68654eeb6ab8b4217388", null ],
+    [ "AttackStart", "df/dda/a17284.html#a9719d1ad6e58b727bc1720cb815be3e9", null ],
+    [ "DoAction", "df/dda/a17284.html#a89c991a1d4c07f1229436871f503c949", null ],
+    [ "EnterEvadeMode", "df/dda/a17284.html#ab8fd2df32ef12f5f648b8af9abcc3201", null ],
+    [ "JustDied", "df/dda/a17284.html#a004e8aec05741b9ee36b0695840e6c2a", null ],
+    [ "JustEngagedWith", "df/dda/a17284.html#a780d530e224ca1f72e26db17cd57f44a", null ],
+    [ "Reset", "df/dda/a17284.html#ab8f7559110be76633153842e0714554a", null ],
+    [ "UpdateAI", "df/dda/a17284.html#ab431f451963d0b608f11129934496700", null ],
+    [ "events", "df/dda/a17284.html#a9b49c143b5a29b4f9b4ce34ce0aecca7", null ]
 ];

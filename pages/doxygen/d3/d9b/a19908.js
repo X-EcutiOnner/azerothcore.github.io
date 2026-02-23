@@ -1,8 +1,6 @@
 var a19908 =
 [
-    [ "HandlePeriodic", "d3/d9b/a19908.html#a2724a85983561a14db8b06ae492ead55", null ],
-    [ "OnRemove", "d3/d9b/a19908.html#a6d0f941f30d8c850e48396fffd13768d", null ],
-    [ "PrepareAuraScript", "d3/d9b/a19908.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
-    [ "Register", "d3/d9b/a19908.html#a85270947972be9c299a642b31969ef68", null ],
-    [ "Validate", "d3/d9b/a19908.html#a91ebb4e69d02deb5129965f543c474d1", null ]
+    [ "CalculateDamage", "d3/d9b/a19908.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "d3/d9b/a19908.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "d3/d9b/a19908.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

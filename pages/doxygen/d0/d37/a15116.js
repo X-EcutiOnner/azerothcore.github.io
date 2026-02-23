@@ -1,10 +1,10 @@
 var a15116 =
 [
-    [ "npc_tarethaAI", "d0/d37/a15116.html#ad403cdcdc2648bb23687e3a3a7bdbb03", null ],
-    [ "AttackStart", "d0/d37/a15116.html#a09d91ea8e5923ebc3c0ad01f09f93408", null ],
-    [ "DoAction", "d0/d37/a15116.html#adbb40db0b70532a20731cf5039e44d0b", null ],
-    [ "MoveInLineOfSight", "d0/d37/a15116.html#afa0427372e43316851018bf78274707f", null ],
-    [ "Reset", "d0/d37/a15116.html#ae4d9f3d5751e8a8e0468a80d46f4a4c4", null ],
-    [ "WaypointReached", "d0/d37/a15116.html#a6946bc02ec686c8af943c9e913c8aee6", null ],
-    [ "instance", "d0/d37/a15116.html#a3c0f4a61cf5b8da6b885ef7bf9813205", null ]
+    [ "hyjalJainaAI", "d0/d37/a15116.html#aa7532b691e85fd9bd467e20db39c59da", null ],
+    [ "IsSummonedBy", "d0/d37/a15116.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
+    [ "JustDied", "d0/d37/a15116.html#a605687080e5149b3f08ce8349ba9b336", null ],
+    [ "JustEngagedWith", "d0/d37/a15116.html#a187efe775b1e2a35637638507e77352e", null ],
+    [ "PathEndReached", "d0/d37/a15116.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
+    [ "Reset", "d0/d37/a15116.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
+    [ "UpdateAI", "d0/d37/a15116.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
 ];

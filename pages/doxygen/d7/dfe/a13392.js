@@ -1,7 +1,7 @@
 var a13392 =
 [
-    [ "HandleEffectApply", "d7/dfe/a13392.html#a710536e0a3bacf173d037041e755bd82", null ],
-    [ "HandleEffectRemove", "d7/dfe/a13392.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
-    [ "PrepareAuraScript", "d7/dfe/a13392.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
-    [ "Register", "d7/dfe/a13392.html#a9092818bdb15a12163aae633049cb7f6", null ]
+    [ "npc_unworthy_initiate_anchorAI", "d7/dfe/a13392.html#a2d1a90c4f3c5047a41c7e9f80db13a99", null ],
+    [ "GetGUID", "d7/dfe/a13392.html#a83cca82e7d75231a6aa586f67dad766e", null ],
+    [ "SetGUID", "d7/dfe/a13392.html#ad5cb7d502138bc067a63a32a583ee99a", null ],
+    [ "prisonerGUID", "d7/dfe/a13392.html#a38a3e7e7207bb6d809d03c90e67f7742", null ]
 ];

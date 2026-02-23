@@ -1,10 +1,7 @@
 var a15120 =
 [
-    [ "boss_aeonus", "d2/df5/a15120.html#af823ef2187b852dc72d2f63020e1701b", null ],
-    [ "IsSummonedBy", "d2/df5/a15120.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
-    [ "JustDied", "d2/df5/a15120.html#a649275c31e61f542a13fd791ee85277b", null ],
-    [ "JustEngagedWith", "d2/df5/a15120.html#a5f193144e36a889630d5dbadb4aa665f", null ],
-    [ "JustReachedHome", "d2/df5/a15120.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
-    [ "KilledUnit", "d2/df5/a15120.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
-    [ "MoveInLineOfSight", "d2/df5/a15120.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
+    [ "hyjalThrallAI", "d6/da3/a15124.html", "d6/da3/a15124" ],
+    [ "npc_hyjal_thrall", "d2/df5/a15120.html#a232f085f208a47f7fae08128de1d06b8", null ],
+    [ "GetAI", "d2/df5/a15120.html#a699b5df19e4e84166348ecfba2dd0172", null ],
+    [ "OnGossipSelect", "d2/df5/a15120.html#af833f26d79d34655c010aa04f984a94a", null ]
 ];

@@ -1,7 +1,11 @@
 var a08916 =
 [
-    [ "EquipementIdPrev", "d8/d9b/a08916.html#a719c716f8914a200bfde4f5bb3275f26", null ],
-    [ "EquipmentId", "d8/d9b/a08916.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
-    [ "ModelId", "d8/d9b/a08916.html#ade2b2413020be410428b9fee9aa284d6", null ],
-    [ "ModelIdPrev", "d8/d9b/a08916.html#a9de7aa11788b22692738b72718193057", null ]
+    [ "DispelInfo", "d8/d9b/a08916.html#ab6e88e6fc168d22a8b31754a9b1bf2e5", null ],
+    [ "GetDispeller", "d8/d9b/a08916.html#a1c6f02de66ffa847c09d19922b02bc20", null ],
+    [ "GetDispellerSpellId", "d8/d9b/a08916.html#a0d09f205ff9374fddc694a66ccf0c31d", null ],
+    [ "GetRemovedCharges", "d8/d9b/a08916.html#a9c0bd34ebe7d0a0839b7bdee31ef3f3d", null ],
+    [ "SetRemovedCharges", "d8/d9b/a08916.html#a3c249e2b70b9f4d8bb3bd9fed07a1bd7", null ],
+    [ "_chargesRemoved", "d8/d9b/a08916.html#a5b6105f37470acb57bbda3e14ee664be", null ],
+    [ "_dispellerSpell", "d8/d9b/a08916.html#a484e6d516c5de30413e97f2c4abb5515", null ],
+    [ "_dispellerUnit", "d8/d9b/a08916.html#ab14d6e0df8bbb89ef0d3550724209040", null ]
 ];

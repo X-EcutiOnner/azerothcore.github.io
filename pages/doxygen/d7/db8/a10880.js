@@ -1,7 +1,6 @@
 var a10880 =
 [
-    [ "SwapInventoryItem", "d7/db8/a10880.html#a26e2887fe352de8a8c5d9d65ba598460", null ],
-    [ "Read", "d7/db8/a10880.html#ae81c9c5566e1f7e1c8d6915f9620d5b4", null ],
-    [ "DestinationSlot", "d7/db8/a10880.html#aaaca9b79b11d152cf1c4b273e8f47679", null ],
-    [ "SourceSlot", "d7/db8/a10880.html#a59117b7ce21919acc55b3da079050dc3", null ]
+    [ "GuildUpdateInfoText", "d7/db8/a10880.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
+    [ "Read", "d7/db8/a10880.html#a7019344fef99c5479602d7bc1176e9ee", null ],
+    [ "InfoText", "d7/db8/a10880.html#a786802ce427465d66a4cea1365743975", null ]
 ];

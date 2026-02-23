@@ -1,6 +1,5 @@
 var a15532 =
 [
-    [ "HandleDummy", "d2/d2c/a15532.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
-    [ "PrepareSpellScript", "d2/d2c/a15532.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
-    [ "Register", "d2/d2c/a15532.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
+    [ "boss_yauj", "d2/d2c/a15532.html#a15ab7b6b35d29fb1552b11586163320e", null ],
+    [ "JustEngagedWith", "d2/d2c/a15532.html#a94a2fa960e6924bde9ba6934a56ed684", null ]
 ];

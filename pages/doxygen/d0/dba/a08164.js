@@ -1,11 +1,8 @@
 var a08164 =
 [
-    [ "FormationInfo", "d0/dba/a08164.html#ad00d7dd0ac811a3805a8ba2c9c1e73df", null ],
-    [ "HasGroupFlag", "d0/dba/a08164.html#afc612acf30e8d0a047aac5b0fc2dc07b", null ],
-    [ "follow_angle", "d0/dba/a08164.html#a928ce7047d511c316a5367faf7f96673", null ],
-    [ "follow_dist", "d0/dba/a08164.html#a3b59ee5129e208cc3df407a921362393", null ],
-    [ "groupAI", "d0/dba/a08164.html#af9f6dc52999efef6f0819bb8d1670fec", null ],
-    [ "leaderGUID", "d0/dba/a08164.html#ad5af23397ae1ae835a72ce125d102ef0", null ],
-    [ "point_1", "d0/dba/a08164.html#a84298ff533bebc633689742c7f9299ae", null ],
-    [ "point_2", "d0/dba/a08164.html#acc308b497de18211b99eec4311b256a4", null ]
+    [ "cancelTime", "d0/dba/a08164.html#a5fe6d6ede54a1f1228e29fc7ef55a413", null ],
+    [ "inProgress", "d0/dba/a08164.html#a8f3eddc8fbca950f184b6fb8b400344e", null ],
+    [ "reason", "d0/dba/a08164.html#a279a5575ca0956266ae81b7a165874cf", null ],
+    [ "victim", "d0/dba/a08164.html#a949262b4b3cbe0f813aae4fab704e7d2", null ],
+    [ "votes", "d0/dba/a08164.html#a7619305fea30cc7fdc47f0a7ee365304", null ]
 ];

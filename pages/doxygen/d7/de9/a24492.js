@@ -1,6 +1,9 @@
 var a24492 =
 [
-    [ "HandleSendEvent", "d7/de9/a24492.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
-    [ "PrepareSpellScript", "d7/de9/a24492.html#aed8815b1d068ba04f12c7714a64af769", null ],
-    [ "Register", "d7/de9/a24492.html#aa55fa06e76b1f34e319e16984405ed20", null ]
+    [ "HandleAfterHit", "d7/de9/a24492.html#ae1b4b01bd1a6903bcd594d2191e2770b", null ],
+    [ "Load", "d7/de9/a24492.html#a7f0dae9dd4ead6ea10e8343810671282", null ],
+    [ "PrepareSpellScript", "d7/de9/a24492.html#a293ff5d232851bce7cbc4a83aa8253b5", null ],
+    [ "Register", "d7/de9/a24492.html#ae9eeb78d006bc01dd05fdd726dea9b90", null ],
+    [ "Validate", "d7/de9/a24492.html#afdbb71f81aacc9ac1a5119707952ec52", null ],
+    [ "_executed", "d7/de9/a24492.html#a2fe77cc280a5fa3bb324d969f1081b65", null ]
 ];

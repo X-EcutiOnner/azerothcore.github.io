@@ -1,8 +1,6 @@
 var a21132 =
 [
-    [ "FilterTargets", "d7/dd9/a21132.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
-    [ "HandleDummyEffect", "d7/dd9/a21132.html#afbf3aab6724d12426ab0197fb9459562", null ],
-    [ "PrepareSpellScript", "d7/dd9/a21132.html#a7ec441904bc100c6b15ee219617489ff", null ],
-    [ "Register", "d7/dd9/a21132.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
-    [ "Validate", "d7/dd9/a21132.html#a85388adbc15d449e687f9f463cce3833", null ]
+    [ "npc_ritual_channelerAI", "d1/ddf/a21136.html", "d1/ddf/a21136" ],
+    [ "npc_ritual_channeler", "d7/dd9/a21132.html#adab372002549b009e3f937ec67e49f3f", null ],
+    [ "GetAI", "d7/dd9/a21132.html#aa416545438d701cbfc2567ba5ae536c8", null ]
 ];

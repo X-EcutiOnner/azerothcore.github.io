@@ -1,7 +1,12 @@
 var a29580 =
 [
-    [ "MPQArchive", "d4/d09/a28595.html", "d4/d09/a28595" ],
-    [ "MPQFile", "d6/d93/a28599.html", "d6/d93/a28599" ],
-    [ "ArchiveSet", "d4/df9/a29580.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "d4/df9/a29580.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "TestVisibilityScript", "d4/df9/a29580.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
+    [ "EnsureRegistered", "d4/df9/a29580.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
+    [ "OnPlayerSetServerSideVisibility", "d4/df9/a29580.html#a6b3701188303b644b28a52ec42bec846", null ],
+    [ "Reset", "d4/df9/a29580.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
+    [ "CallCount", "d4/df9/a29580.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
+    [ "Instance", "d4/df9/a29580.html#adcf0326aa1e32db109ec920857868138", null ],
+    [ "LastPlayer", "d4/df9/a29580.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
+    [ "LastSecurity", "d4/df9/a29580.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
+    [ "LastType", "d4/df9/a29580.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
 ];

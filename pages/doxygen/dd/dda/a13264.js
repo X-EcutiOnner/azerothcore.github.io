@@ -1,6 +1,6 @@
 var a13264 =
 [
-    [ "npc_scarlet_courierAI", "dc/d46/a13268.html", "dc/d46/a13268" ],
-    [ "npc_scarlet_courier", "dd/dda/a13264.html#ac9bb46ff40bdf5c83d55c14e52243004", null ],
-    [ "GetAI", "dd/dda/a13264.html#a4b6b5a14ec6ce13a9ce7089f08bce9f5", null ]
+    [ "HandleProc", "dd/dda/a13264.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
+    [ "PrepareAuraScript", "dd/dda/a13264.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
+    [ "Register", "dd/dda/a13264.html#a24df76ff0933685bade58deff98856d2", null ]
 ];

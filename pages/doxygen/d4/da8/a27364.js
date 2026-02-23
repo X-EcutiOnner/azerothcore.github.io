@@ -1,9 +1,9 @@
 var a27364 =
 [
-    [ "emerald_dragonAI", "d4/da8/a27364.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
-    [ "ExecuteEvent", "d4/da8/a27364.html#a6e60f146c7b86a119f269bf755831ac6", null ],
-    [ "JustSummoned", "d4/da8/a27364.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
-    [ "KilledUnit", "d4/da8/a27364.html#a69b24bf865ecd38822d5602314cddf11", null ],
-    [ "Reset", "d4/da8/a27364.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
-    [ "UpdateAI", "d4/da8/a27364.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
+    [ "CalculateAmount", "d4/da8/a27364.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
+    [ "CheckProc", "d4/da8/a27364.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
+    [ "HandleProc", "d4/da8/a27364.html#a741570ba77f70d90b437198f63e565f3", null ],
+    [ "PrepareAuraScript", "d4/da8/a27364.html#af4e49e2362994f247c119c16c013e4b3", null ],
+    [ "Register", "d4/da8/a27364.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
+    [ "Validate", "d4/da8/a27364.html#a939d6815bcaee9b9d2b062313aac912a", null ]
 ];

@@ -1,6 +1,7 @@
 var a13340 =
 [
-    [ "instance_scarlet_monastery_InstanceMapScript", "dd/d5c/a13344.html", "dd/d5c/a13344" ],
-    [ "instance_scarlet_monastery", "d9/d8d/a13340.html#a8f068ebd98bd81dbb60dbccd795f1f3f", null ],
-    [ "GetInstanceScript", "d9/d8d/a13340.html#a1c66031217457809fbe56303085715a0", null ]
+    [ "HandleScriptEffect", "d9/d8d/a13340.html#a1b196f3817c16fac48392981b58c1a05", null ],
+    [ "PrepareSpellScript", "d9/d8d/a13340.html#ad44566ff9a44057679e7ce8e1959776d", null ],
+    [ "Register", "d9/d8d/a13340.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
+    [ "Validate", "d9/d8d/a13340.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
 ];

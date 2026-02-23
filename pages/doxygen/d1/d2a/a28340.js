@@ -1,9 +1,11 @@
 var a28340 =
 [
-    [ "HolidayWorldStateId", "d1/d2a/a28340.html#a3f70ffbb1abb5a96fe91c2eec3682c8b", null ],
-    [ "id", "d1/d2a/a28340.html#a52f7840f9247d2af63062dd280b37341", null ],
-    [ "mapid", "d1/d2a/a28340.html#a11e1326eeb24b436b10db53acc323c13", null ],
-    [ "maxGroupSize", "d1/d2a/a28340.html#adbdae47b424c3b61b76b48ea5798f52d", null ],
-    [ "name", "d1/d2a/a28340.html#a9a56ca930ff8425d4b77066e47a1e09f", null ],
-    [ "type", "d1/d2a/a28340.html#a647669b97599d7edf02b5a38dd1d5116", null ]
+    [ "npc_artoriusAI", "d1/d2a/a28340.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
+    [ "DamageTaken", "d1/d2a/a28340.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
+    [ "DoAction", "d1/d2a/a28340.html#abbfc9ee752d97f1694dbd739719843c2", null ],
+    [ "JustEngagedWith", "d1/d2a/a28340.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
+    [ "Reset", "d1/d2a/a28340.html#a862cc52a9251e2dfe486f1152dae9500", null ],
+    [ "SpellHit", "d1/d2a/a28340.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
+    [ "UpdateAI", "d1/d2a/a28340.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
+    [ "events", "d1/d2a/a28340.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
 ];

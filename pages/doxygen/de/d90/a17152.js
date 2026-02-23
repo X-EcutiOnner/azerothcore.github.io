@@ -1,6 +1,8 @@
 var a17152 =
 [
-    [ "npc_spectral_footmanAI", "de/d5d/a17156.html", "de/d5d/a17156" ],
-    [ "npc_spectral_footman", "de/d90/a17152.html#a300fb06b896d2d08f9e3671422232ad2", null ],
-    [ "GetAI", "de/d90/a17152.html#adbc1b961aba6cefb97dfff3014248735", null ]
+    [ "HandleRemove", "de/d90/a17152.html#a362b16f69a19adae6b673bd9ead55a83", null ],
+    [ "PeriodicTick", "de/d90/a17152.html#aa432052d61dc48066433b41b84ffbe5f", null ],
+    [ "PrepareAuraScript", "de/d90/a17152.html#a3ffbd618820adf77b2c64a29816f5204", null ],
+    [ "Register", "de/d90/a17152.html#ac2ac207d2e193a9c2f9904b394113c4d", null ],
+    [ "Validate", "de/d90/a17152.html#abed6574398a7d005e95feba6b54243a1", null ]
 ];

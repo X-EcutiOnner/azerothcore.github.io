@@ -1,11 +1,10 @@
 var a23292 =
 [
-    [ "boss_doomlordkazzakAI", "dc/d28/a23292.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
-    [ "JustDied", "dc/d28/a23292.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
-    [ "JustEngagedWith", "dc/d28/a23292.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
-    [ "JustRespawned", "dc/d28/a23292.html#a174912c149657f4d88446f4ac0631598", null ],
-    [ "KilledUnit", "dc/d28/a23292.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
-    [ "Reset", "dc/d28/a23292.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
-    [ "UpdateAI", "dc/d28/a23292.html#a28a0a8345fcd5411491409854acef729", null ],
-    [ "_inBerserk", "dc/d28/a23292.html#a996d17128aca96c00c8416957ebc24d0", null ]
+    [ "boss_warlord_kalithresh", "dc/d28/a23292.html#afcf2288fbea2d5010c41344ce0247559", null ],
+    [ "JustDied", "dc/d28/a23292.html#a1947562aa9dafea371e2f2da824a3f65", null ],
+    [ "JustEngagedWith", "dc/d28/a23292.html#a2712f5c363c3929550b77ef2536b1385", null ],
+    [ "KilledUnit", "dc/d28/a23292.html#a06855288497f5335a236867ef681d3f8", null ],
+    [ "MoveInLineOfSight", "dc/d28/a23292.html#a544da19b6c3a6f159ed6b1639def1071", null ],
+    [ "Reset", "dc/d28/a23292.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
+    [ "_introDone", "dc/d28/a23292.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
 ];

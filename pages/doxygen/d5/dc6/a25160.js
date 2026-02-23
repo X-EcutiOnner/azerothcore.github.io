@@ -1,8 +1,10 @@
 var a25160 =
 [
-    [ "HandleEffectCalcPeriodic", "d5/dc6/a25160.html#a78c46695cab8da2280686ea49d88f036", null ],
-    [ "HandleEffectPeriodic", "d5/dc6/a25160.html#a65b8a9dcd836cb538d5d2bec3d03d4a2", null ],
-    [ "HandleOnEffectRemove", "d5/dc6/a25160.html#af722cf30e478802784178a9346bd1bdd", null ],
-    [ "PrepareAuraScript", "d5/dc6/a25160.html#a6352d1ab3dd67efd9be171f7db20a62d", null ],
-    [ "Register", "d5/dc6/a25160.html#ae6c2b365463345c71ed1a4acdee04a15", null ]
+    [ "Load", "d5/dc6/a25160.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
+    [ "OnApply", "d5/dc6/a25160.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
+    [ "OnRemove", "d5/dc6/a25160.html#a29834c598d6ef8299d54e48a3461e603", null ],
+    [ "PrepareAuraScript", "d5/dc6/a25160.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
+    [ "Register", "d5/dc6/a25160.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
+    [ "Validate", "d5/dc6/a25160.html#aeaf16594f569af671d221234a4aa2c8b", null ],
+    [ "prevItem", "d5/dc6/a25160.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
 ];

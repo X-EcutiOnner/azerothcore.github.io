@@ -1,5 +1,9 @@
 var a19472 =
 [
-    [ "npc_living_poison", "d7/d2a/a19472.html#a277440068846eac71c795880a16475dd", null ],
-    [ "UpdateAI", "d7/d2a/a19472.html#a2a6af8a9ef14e65ba9e44f2228b09ba5", null ]
+    [ "boss_grobbulus_poison_cloudAI", "d7/d2a/a19472.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
+    [ "KilledUnit", "d7/d2a/a19472.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
+    [ "Reset", "d7/d2a/a19472.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
+    [ "UpdateAI", "d7/d2a/a19472.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
+    [ "auraVisualTimer", "d7/d2a/a19472.html#a74aea4294c26414d3b60983d14d36e31", null ],
+    [ "sizeTimer", "d7/d2a/a19472.html#a73f775b30ad36a595e0d8532067ba042", null ]
 ];

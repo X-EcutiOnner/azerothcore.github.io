@@ -1,6 +1,15 @@
 var a19532 =
 [
-    [ "instance_eye_of_eternity_InstanceMapScript", "d2/d78/a19536.html", "d2/d78/a19536" ],
-    [ "instance_eye_of_eternity", "db/d70/a19532.html#afcab4ba969d0423871a4e398627a323d", null ],
-    [ "GetInstanceScript", "db/d70/a19532.html#a475958c76204df77a6ca51606ddeb577", null ]
+    [ "boss_maexxnaAI", "db/d70/a19532.html#a3bf898911798eaa891ef7638a3a2cc20", null ],
+    [ "DoCastWebWrap", "db/d70/a19532.html#a5d78455f5ba6e30df6644897b4e6ad7e", null ],
+    [ "IsInRoom", "db/d70/a19532.html#a957bd38232c020611fc24dd8a6e55640", null ],
+    [ "JustDied", "db/d70/a19532.html#a4f0121aedeff9d44b28e888f5f3d0382", null ],
+    [ "JustEngagedWith", "db/d70/a19532.html#a9974fc771b3663878964aeb20914fe43", null ],
+    [ "JustSummoned", "db/d70/a19532.html#ab45b74b3067b42089fee804844ea41dd", null ],
+    [ "KilledUnit", "db/d70/a19532.html#a11cda2b905ef2381c317a01e4163be00", null ],
+    [ "Reset", "db/d70/a19532.html#a78385da6845ce8e3075616c24696d0cc", null ],
+    [ "UpdateAI", "db/d70/a19532.html#a6f0453babfa84764467970369894eb97", null ],
+    [ "events", "db/d70/a19532.html#a6ddb73eeb18560a08e72dd6ccc5d0c83", null ],
+    [ "summons", "db/d70/a19532.html#a7ea3de40dfd638db7e34c523a0461335", null ],
+    [ "wraps", "db/d70/a19532.html#a3bfe3ab90ff6f401c3f7b8655e3abc05", null ]
 ];

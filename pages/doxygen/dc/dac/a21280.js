@@ -1,14 +1,22 @@
 var a21280 =
 [
-    [ "boss_dalronn_the_controller", "dc/dac/a21280.html#a57718e928fa273bba3c40a05d5888a3d", null ],
-    [ "DoAction", "dc/dac/a21280.html#ad11e43d40a61f093b5e51482437467b8", null ],
-    [ "JustDied", "dc/dac/a21280.html#a28a669b56392b599e124573778e33134", null ],
-    [ "JustEngagedWith", "dc/dac/a21280.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
-    [ "JustSummoned", "dc/dac/a21280.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
-    [ "KilledUnit", "dc/dac/a21280.html#a96a173e30ad81c77217b0693d1d15839", null ],
-    [ "Reset", "dc/dac/a21280.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
-    [ "UpdateAI", "dc/dac/a21280.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
-    [ "events", "dc/dac/a21280.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
-    [ "pInstance", "dc/dac/a21280.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
-    [ "summons", "dc/dac/a21280.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
+    [ "boss_ichoronAI", "dc/dac/a21280.html#a5030ce0d8d9fd9e8ef697d6a2ce85d25", null ],
+    [ "DoAction", "dc/dac/a21280.html#acb8c43e9c90824f9f46754dc949bfa7a", null ],
+    [ "DoExplodeCompleted", "dc/dac/a21280.html#a4312f74f67649f5f2f3cfaf2a46b09e8", null ],
+    [ "EnterEvadeMode", "dc/dac/a21280.html#aca9b17c0051847800705943a58e56f5f", null ],
+    [ "IchoronDoCastToAllHostilePlayers", "dc/dac/a21280.html#aeeb18f0aee11e7f0bbd7e4c7936e8869", null ],
+    [ "JustDied", "dc/dac/a21280.html#ad0049ff1954cd26b1914ed3a074ed17a", null ],
+    [ "JustEngagedWith", "dc/dac/a21280.html#af0096a40fd1337ecf810e54c89deb327", null ],
+    [ "JustSummoned", "dc/dac/a21280.html#a4c0201fa18a2720548d7f88a6dfd9f36", null ],
+    [ "KilledUnit", "dc/dac/a21280.html#a6038b1e91341653f7feb2e906901f224", null ],
+    [ "MoveInLineOfSight", "dc/dac/a21280.html#aba923f9bebfd6b23a168e7761c1167f4", null ],
+    [ "Reset", "dc/dac/a21280.html#a3b04d35967c6e475f54e7bc52e828954", null ],
+    [ "SummonedCreatureDespawn", "dc/dac/a21280.html#a84d3e3b7e7f587e585f0f4ec47de5c1d", null ],
+    [ "UpdateAI", "dc/dac/a21280.html#a2eb918a85cd7025f5f65c1aec7e9fd1f", null ],
+    [ "bIsExploded", "dc/dac/a21280.html#aa638234a023ef69d3e5829064475f45c", null ],
+    [ "bIsFrenzy", "dc/dac/a21280.html#a72664f34a55c45cbacd9b28aaf6abbc9", null ],
+    [ "globules", "dc/dac/a21280.html#a5de54a4d56b95e5f3f445539a5dd7030", null ],
+    [ "pInstance", "dc/dac/a21280.html#a11dc0853f1262b11c7d58559864698e2", null ],
+    [ "uiDrainedTimer", "dc/dac/a21280.html#a0cc9573f8e2a35faaeee48ff9095e93f", null ],
+    [ "uiWaterBoltVolleyTimer", "dc/dac/a21280.html#a4ae6bd152ccfa4813ba5ea4ba5fd14ee", null ]
 ];

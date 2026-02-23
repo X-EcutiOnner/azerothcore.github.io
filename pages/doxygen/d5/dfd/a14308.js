@@ -1,10 +1,7 @@
 var a14308 =
 [
-    [ "npc_batrider", "d5/dfd/a14308.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
-    [ "DamageTaken", "d5/dfd/a14308.html#ad4818b1363082a91223526908c38777c", null ],
-    [ "JustEngagedWith", "d5/dfd/a14308.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
-    [ "Reset", "d5/dfd/a14308.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
-    [ "UpdateAI", "d5/dfd/a14308.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
-    [ "_mode", "d5/dfd/a14308.html#acd53ec78a754219511af1ad2f11422a9", null ],
-    [ "_scheduler", "d5/dfd/a14308.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
+    [ "HandleScript", "d5/dfd/a14308.html#ac45614416a710794b3e3a5cee239e28a", null ],
+    [ "PrepareSpellScript", "d5/dfd/a14308.html#a832aee6557e27bfa418957297a05bea3", null ],
+    [ "Register", "d5/dfd/a14308.html#a2f5d255de09818203e498c0090bdd3fb", null ],
+    [ "Validate", "d5/dfd/a14308.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
 ];

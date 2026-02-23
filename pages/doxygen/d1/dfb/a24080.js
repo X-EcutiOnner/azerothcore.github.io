@@ -1,6 +1,6 @@
 var a24080 =
 [
-    [ "instance_the_eye_InstanceMapScript", "da/d60/a24084.html", "da/d60/a24084" ],
-    [ "instance_the_eye", "d1/dfb/a24080.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
-    [ "GetInstanceScript", "d1/dfb/a24080.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
+    [ "npc_mature_netherwing_drakeAI", "da/d60/a24084.html", "da/d60/a24084" ],
+    [ "npc_mature_netherwing_drake", "d1/dfb/a24080.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
+    [ "GetAI", "d1/dfb/a24080.html#ac5a1dad24920396156f22ab02bfab84b", null ]
 ];

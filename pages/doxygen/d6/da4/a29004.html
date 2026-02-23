@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: file_MVER Struct Reference</title>
+<title>AzerothCore: CreatureFamilyEntry Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,122 +107,176 @@ $(document).ready(function(){initNavTree('d6/da4/a29004.html','../../'); initRes
   <div class="summary">
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d1/d17/a29001.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">file_MVER Struct Reference</div></div>
+  <div class="headertitle"><div class="title">CreatureFamilyEntry Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">loadlib.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">DBCStructure.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a1aef41273646d1cc4e73d716c2c80edc"><td class="memItemLeft" >union {</td></tr>
-<tr class="memitem:a303513d1307e73b8ec443836d7cdb246"><td class="memItemLeft" >&#160;&#160;&#160;<a class="el" href="../../d9/d45/a30013.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d6/da4/a29004.html#afbaa5fdd612d1c93f7f07aa299d144ad">fcc</a></td></tr>
-<tr class="separator:a303513d1307e73b8ec443836d7cdb246"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9f348a46b03997839bb344492e2374e8"><td class="memItemLeft" >&#160;&#160;&#160;char&#160;&#160;&#160;<a class="el" href="../../d6/da4/a29004.html#a89ed22b0a63dae9f1443309e54e9e421">fcc_txt</a> [4]</td></tr>
-<tr class="separator:a9f348a46b03997839bb344492e2374e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1aef41273646d1cc4e73d716c2c80edc"><td class="memItemLeft" valign="top">};&#160;</td><td class="memItemRight" valign="bottom"></td></tr>
-<tr class="separator:a1aef41273646d1cc4e73d716c2c80edc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0b9002c302e4dfef6dc533bf8c5bcdcc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d45/a30013.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/da4/a29004.html#a0b9002c302e4dfef6dc533bf8c5bcdcc">size</a></td></tr>
-<tr class="separator:a0b9002c302e4dfef6dc533bf8c5bcdcc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adb92d3e9f7e35255a2e6e147d51ba8fc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d45/a30013.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/da4/a29004.html#adb92d3e9f7e35255a2e6e147d51ba8fc">ver</a></td></tr>
-<tr class="separator:adb92d3e9f7e35255a2e6e147d51ba8fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:accc729ca04ab830a4dd4729f64683914"><td class="memItemLeft" >union {</td></tr>
-<tr class="memitem:a05e252bbcc51682f3f6e425e1b37b621"><td class="memItemLeft" >&#160;&#160;&#160;<a class="el" href="../../d9/d45/a30013.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d6/da4/a29004.html#afbaa5fdd612d1c93f7f07aa299d144ad">fcc</a></td></tr>
-<tr class="separator:a05e252bbcc51682f3f6e425e1b37b621"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac5797de08744021304fb73e2e34e6564"><td class="memItemLeft" >&#160;&#160;&#160;char&#160;&#160;&#160;<a class="el" href="../../d6/da4/a29004.html#a89ed22b0a63dae9f1443309e54e9e421">fcc_txt</a> [4]</td></tr>
-<tr class="separator:ac5797de08744021304fb73e2e34e6564"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:accc729ca04ab830a4dd4729f64683914"><td class="memItemLeft" valign="top">};&#160;</td><td class="memItemRight" valign="bottom"></td></tr>
-<tr class="separator:accc729ca04ab830a4dd4729f64683914"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a84ba697182123cb3e7dd3ba07241e971"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/da4/a29004.html#a84ba697182123cb3e7dd3ba07241e971">ID</a></td></tr>
+<tr class="separator:a84ba697182123cb3e7dd3ba07241e971"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3eacdd8639c6dd25dbd3205a58860cf9"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/da4/a29004.html#a3eacdd8639c6dd25dbd3205a58860cf9">minScale</a></td></tr>
+<tr class="separator:a3eacdd8639c6dd25dbd3205a58860cf9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a49d9d7847cc4d54891d83166eb277740"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/da4/a29004.html#a49d9d7847cc4d54891d83166eb277740">minScaleLevel</a></td></tr>
+<tr class="separator:a49d9d7847cc4d54891d83166eb277740"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a23ca0ae7c45790a24f58546970194abf"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/da4/a29004.html#a23ca0ae7c45790a24f58546970194abf">maxScale</a></td></tr>
+<tr class="separator:a23ca0ae7c45790a24f58546970194abf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad5d722d74bc08d4de3edd54c2f24addb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/da4/a29004.html#ad5d722d74bc08d4de3edd54c2f24addb">maxScaleLevel</a></td></tr>
+<tr class="separator:ad5d722d74bc08d4de3edd54c2f24addb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad4498d40b31d18742ee4ac235cb58a2e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/da4/a29004.html#ad4498d40b31d18742ee4ac235cb58a2e">skillLine</a> [2]</td></tr>
+<tr class="separator:ad4498d40b31d18742ee4ac235cb58a2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d9dd8baa3f7981633248513bb25f4ca"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/da4/a29004.html#a4d9dd8baa3f7981633248513bb25f4ca">petFoodMask</a></td></tr>
+<tr class="separator:a4d9dd8baa3f7981633248513bb25f4ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a802000cefb6c4d357edfc45cc291e21e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/da4/a29004.html#a802000cefb6c4d357edfc45cc291e21e">petTalentType</a></td></tr>
+<tr class="separator:a802000cefb6c4d357edfc45cc291e21e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a937fc579ab2790f4a972f07d3453a762"><td class="memItemLeft" align="right" valign="top">char const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/da4/a29004.html#a937fc579ab2790f4a972f07d3453a762">Name</a> [16]</td></tr>
+<tr class="separator:a937fc579ab2790f4a972f07d3453a762"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a1aef41273646d1cc4e73d716c2c80edc" name="a1aef41273646d1cc4e73d716c2c80edc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1aef41273646d1cc4e73d716c2c80edc">&#9670;&#160;</a></span></h2>
+<a id="a84ba697182123cb3e7dd3ba07241e971" name="a84ba697182123cb3e7dd3ba07241e971"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a84ba697182123cb3e7dd3ba07241e971">&#9670;&#160;</a></span>ID</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">union  { ... }  file_MVER::@391</td>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureFamilyEntry::ID</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l02332">Pet::LearnPetPassives()</a>, and <a class="el" href="../../#l02456">SpellMgr::LoadPetLevelupSpellMap()</a>.</p>
+
 </div>
 </div>
-<a id="accc729ca04ab830a4dd4729f64683914" name="accc729ca04ab830a4dd4729f64683914"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#accc729ca04ab830a4dd4729f64683914">&#9670;&#160;</a></span></h2>
+<a id="a23ca0ae7c45790a24f58546970194abf" name="a23ca0ae7c45790a24f58546970194abf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a23ca0ae7c45790a24f58546970194abf">&#9670;&#160;</a></span>maxScale</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">union  { ... }  file_MVER::@397</td>
+          <td class="memname">float CreatureFamilyEntry::maxScale</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l02483">Pet::GetNativeObjectScale()</a>.</p>
+
 </div>
 </div>
-<a id="afbaa5fdd612d1c93f7f07aa299d144ad" name="afbaa5fdd612d1c93f7f07aa299d144ad"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afbaa5fdd612d1c93f7f07aa299d144ad">&#9670;&#160;</a></span>fcc</h2>
+<a id="ad5d722d74bc08d4de3edd54c2f24addb" name="ad5d722d74bc08d4de3edd54c2f24addb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad5d722d74bc08d4de3edd54c2f24addb">&#9670;&#160;</a></span>maxScaleLevel</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/d45/a30013.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a> file_MVER::fcc</td>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureFamilyEntry::maxScaleLevel</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00065">FileLoader::prepareLoadedData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02483">Pet::GetNativeObjectScale()</a>.</p>
 
 </div>
 </div>
-<a id="a89ed22b0a63dae9f1443309e54e9e421" name="a89ed22b0a63dae9f1443309e54e9e421"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a89ed22b0a63dae9f1443309e54e9e421">&#9670;&#160;</a></span>fcc_txt</h2>
+<a id="a3eacdd8639c6dd25dbd3205a58860cf9" name="a3eacdd8639c6dd25dbd3205a58860cf9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3eacdd8639c6dd25dbd3205a58860cf9">&#9670;&#160;</a></span>minScale</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">char file_MVER::fcc_txt[4]</td>
+          <td class="memname">float CreatureFamilyEntry::minScale</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l02483">Pet::GetNativeObjectScale()</a>.</p>
+
 </div>
 </div>
-<a id="a0b9002c302e4dfef6dc533bf8c5bcdcc" name="a0b9002c302e4dfef6dc533bf8c5bcdcc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0b9002c302e4dfef6dc533bf8c5bcdcc">&#9670;&#160;</a></span>size</h2>
+<a id="a49d9d7847cc4d54891d83166eb277740" name="a49d9d7847cc4d54891d83166eb277740"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a49d9d7847cc4d54891d83166eb277740">&#9670;&#160;</a></span>minScaleLevel</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/d45/a30013.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a> file_MVER::size</td>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureFamilyEntry::minScaleLevel</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00065">ADT_file::prepareLoadedData()</a>, and <a class="el" href="../../#l00057">WDT_file::prepareLoadedData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02483">Pet::GetNativeObjectScale()</a>.</p>
 
 </div>
 </div>
-<a id="adb92d3e9f7e35255a2e6e147d51ba8fc" name="adb92d3e9f7e35255a2e6e147d51ba8fc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adb92d3e9f7e35255a2e6e147d51ba8fc">&#9670;&#160;</a></span>ver</h2>
+<a id="a937fc579ab2790f4a972f07d3453a762" name="a937fc579ab2790f4a972f07d3453a762"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a937fc579ab2790f4a972f07d3453a762">&#9670;&#160;</a></span>Name</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/d45/a30013.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a> file_MVER::ver</td>
+          <td class="memname">char const* CreatureFamilyEntry::Name[16]</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00065">FileLoader::prepareLoadedData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00665">GetPetName()</a>.</p>
+
+</div>
+</div>
+<a id="a4d9dd8baa3f7981633248513bb25f4ca" name="a4d9dd8baa3f7981633248513bb25f4ca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4d9dd8baa3f7981633248513bb25f4ca">&#9670;&#160;</a></span>petFoodMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureFamilyEntry::petFoodMask</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01424">Pet::HaveInDiet()</a>.</p>
+
+</div>
+</div>
+<a id="a802000cefb6c4d357edfc45cc291e21e" name="a802000cefb6c4d357edfc45cc291e21e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a802000cefb6c4d357edfc45cc291e21e">&#9670;&#160;</a></span>petTalentType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> CreatureFamilyEntry::petTalentType</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l14435">Player::BuildPetTalentsInfoData()</a>, <a class="el" href="../../#l00200">learn_commandscript::HandleLearnAllMyPetTalentsCommand()</a>, <a class="el" href="../../#l14081">Player::LearnPetTalent()</a>, and <a class="el" href="../../#l02045">Pet::resetTalents()</a>.</p>
+
+</div>
+</div>
+<a id="ad4498d40b31d18742ee4ac235cb58a2e" name="ad4498d40b31d18742ee4ac235cb58a2e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad4498d40b31d18742ee4ac235cb58a2e">&#9670;&#160;</a></span>skillLine</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureFamilyEntry::skillLine[2]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02456">SpellMgr::LoadPetLevelupSpellMap()</a>.</p>
 
 </div>
 </div>
@@ -231,8 +285,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d6/da4/a29004.html">file_MVER</a></li>
-    <li class="footer">Generated on Mon Jan 26 2026 20:58:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d6/da4/a29004.html">CreatureFamilyEntry</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:14:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

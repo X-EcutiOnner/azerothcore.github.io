@@ -1,12 +1,14 @@
 var a07428 =
 [
-    [ "NodeId", "d9/d35/a07428.html#a039c468fa0b6110809f0617496c0146c", null ],
-    [ "TextAllianceAssaulted", "d9/d35/a07428.html#a345b2ce7c48e9d10d03ff484a0108389", null ],
-    [ "TextAllianceClaims", "d9/d35/a07428.html#a0671602a29f33e353a8a339540beae18", null ],
-    [ "TextAllianceDefended", "d9/d35/a07428.html#ac87cbc9c4ec307bd2f3b09f6cdcd0250", null ],
-    [ "TextAllianceTaken", "d9/d35/a07428.html#a281a0378999ed5966f5d28cc4310fbcd", null ],
-    [ "TextHordeAssaulted", "d9/d35/a07428.html#a7fb668b0b9563bb0779bf4a5daefded8", null ],
-    [ "TextHordeClaims", "d9/d35/a07428.html#acddac09017717cf5b2893ab83e1d10c8", null ],
-    [ "TextHordeDefended", "d9/d35/a07428.html#a00cea010cfe6fb9702e5cb00003e5bef", null ],
-    [ "TextHordeTaken", "d9/d35/a07428.html#a2bbd1b49b9b72784d07be9db2a27fe77", null ]
+    [ "ArenaTeamScore", "d9/d35/a07428.html#a017cd1a4d90a466b42aeab8ff1a12f3a", null ],
+    [ "~ArenaTeamScore", "d9/d35/a07428.html#ade081f31c498ee03a80f73fe70a56cc7", null ],
+    [ "Assign", "d9/d35/a07428.html#a28c3a055e1ad69693470f38fe676f0c6", null ],
+    [ "BuildRatingInfoBlock", "d9/d35/a07428.html#ae3e2b8e8a29c50ca20a42a0364349764", null ],
+    [ "BuildTeamInfoBlock", "d9/d35/a07428.html#aa876e0cf0b36f8fdb9efe8989092f143", null ],
+    [ "Reset", "d9/d35/a07428.html#a90611fd5e656d2d62917003ff0a5ff00", null ],
+    [ "Arena", "d9/d35/a07428.html#a5f488c25aa439166d145713c67e7d085", null ],
+    [ "Battleground", "d9/d35/a07428.html#a0c4048053f5f5cabe5bfbfdde8eded86", null ],
+    [ "MatchmakerRating", "d9/d35/a07428.html#a1e82169562a459371f973932d22e2f15", null ],
+    [ "RatingChange", "d9/d35/a07428.html#a61c85f158b767a6c81de87d7ad5007db", null ],
+    [ "TeamName", "d9/d35/a07428.html#ab99de3b9213f3ccab1791858df6aa3e8", null ]
 ];

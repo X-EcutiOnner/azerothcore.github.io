@@ -1,10 +1,14 @@
 var a15432 =
 [
-    [ "boss_huhuran", "d6/d10/a15432.html#a64e0b20891992764c708cbb661c18196", null ],
-    [ "DamageTaken", "d6/d10/a15432.html#adb47086f29b41f4168ad5d1b2728547d", null ],
-    [ "JustEngagedWith", "d6/d10/a15432.html#a08f1d6550680d5bcf07332eade115730", null ],
-    [ "Reset", "d6/d10/a15432.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
-    [ "UpdateAI", "d6/d10/a15432.html#a23962e668f046b373f94ea6a2d75574a", null ],
-    [ "_berserk", "d6/d10/a15432.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
-    [ "_hardEnrage", "d6/d10/a15432.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
+    [ "boss_buru", "d6/d10/a15432.html#a586dfec9d3b0cb9497e616afb1c0b86d", null ],
+    [ "ChaseNewVictim", "d6/d10/a15432.html#a177ec0ac9dcfbd9de51088bf50c5785c", null ],
+    [ "DamageTaken", "d6/d10/a15432.html#a5ec0141994aac2b8e1fdce12b30c13b0", null ],
+    [ "EnterEvadeMode", "d6/d10/a15432.html#aa534cca1e46299e8db917cc8aa5d5b51", null ],
+    [ "JustDied", "d6/d10/a15432.html#a6d8f3265dca889bc49e747471da8597f", null ],
+    [ "JustEngagedWith", "d6/d10/a15432.html#a61eeeb3eb1684943e94367a9318b3035", null ],
+    [ "KilledUnit", "d6/d10/a15432.html#a7c780a29ea9f7b3d2f72eaa11bf7e19c", null ],
+    [ "ManipulateEggs", "d6/d10/a15432.html#a4f8a92eab729c975443579560edb03a3", null ],
+    [ "SpellHit", "d6/d10/a15432.html#ac3bc641c6bb67e585541c4e5d93dd7fa", null ],
+    [ "UpdateAI", "d6/d10/a15432.html#af65d0026b2ea78edb6d48e3c48b6b37b", null ],
+    [ "_phase", "d6/d10/a15432.html#aa395967af50f2a422bf1e81a087efc43", null ]
 ];

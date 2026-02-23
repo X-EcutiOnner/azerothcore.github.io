@@ -1,8 +1,5 @@
 var a22040 =
 [
-    [ "npc_q24545_vegardAI", "d6/d77/a22040.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
-    [ "JustDied", "d6/d77/a22040.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
-    [ "KilledUnit", "d6/d77/a22040.html#a2d78117a6c2a29f52f1905595425964a", null ],
-    [ "UpdateAI", "d6/d77/a22040.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
-    [ "events", "d6/d77/a22040.html#a68f48d92cc5559025e635d599c2882e3", null ]
+    [ "npc_guardian_pavilionAI", "d6/d77/a22040.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "d6/d77/a22040.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

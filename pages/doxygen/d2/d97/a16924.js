@@ -1,10 +1,7 @@
 var a16924 =
 [
-    [ "boss_dredAI", "d2/d97/a16924.html#a4ad04fe31990a37fd6d3a23329350248", null ],
-    [ "GetData", "d2/d97/a16924.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
-    [ "JustEngagedWith", "d2/d97/a16924.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
-    [ "Reset", "d2/d97/a16924.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
-    [ "ScheduleTasks", "d2/d97/a16924.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
-    [ "SetData", "d2/d97/a16924.html#a884f48aabc26b054dcd303a91cb88301", null ],
-    [ "_raptorCount", "d2/d97/a16924.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
+    [ "npc_toc_retro_paladinAI", "d2/d97/a16924.html#afe933281cea61c9a4f3ded76290a3b72", null ],
+    [ "myCanCast", "d2/d97/a16924.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
+    [ "UpdateAI", "d2/d97/a16924.html#a105d6b9c133c1147b310826d7be416f5", null ],
+    [ "events", "d2/d97/a16924.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
 ];

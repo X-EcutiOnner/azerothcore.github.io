@@ -1,9 +1,6 @@
 var a17940 =
 [
-    [ "CalculatePower", "d7/dcb/a17940.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
-    [ "Load", "d7/dcb/a17940.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
-    [ "PrepareSpellScript", "d7/dcb/a17940.html#a49489a8e4e39735efa560f53236dfc2c", null ],
-    [ "PreventPowerGainOnHit", "d7/dcb/a17940.html#a5eebe6f82a6d7306d6e232b755531939", null ],
-    [ "Register", "d7/dcb/a17940.html#a67b59c096848adaad5566cbc2140da59", null ],
-    [ "Validate", "d7/dcb/a17940.html#a355500a6f3bfed084030738041d0e3b9", null ]
+    [ "npc_stinky_iccAI", "d3/daf/a17944.html", "d3/daf/a17944" ],
+    [ "npc_stinky_icc", "d7/dcb/a17940.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
+    [ "GetAI", "d7/dcb/a17940.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
 ];

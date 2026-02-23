@@ -1,6 +1,7 @@
 var a21684 =
 [
-    [ "npc_violet_hold_defense_system", "d0/ddb/a21684.html#abb5eb275e803201aad3010ad77aa4b41", null ],
-    [ "Reset", "d0/ddb/a21684.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
-    [ "UpdateAI", "d0/ddb/a21684.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ]
+    [ "CheckCast", "d0/ddb/a21684.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
+    [ "HandleScript", "d0/ddb/a21684.html#a8128bb2d7588409dae73bed78d5285a7", null ],
+    [ "PrepareSpellScript", "d0/ddb/a21684.html#aee17a8a21ec5df027082c6990189dccc", null ],
+    [ "Register", "d0/ddb/a21684.html#a2a97265e102e9ce31997d99275b42973", null ]
 ];

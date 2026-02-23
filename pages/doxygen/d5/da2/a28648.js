@@ -1,7 +1,13 @@
 var a28648 =
 [
-    [ "ID", "d5/da2/a28648.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
-    [ "RadiusMax", "d5/da2/a28648.html#ab82c1acb9309b17104958182d80b01d1", null ],
-    [ "RadiusMin", "d5/da2/a28648.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
-    [ "RadiusPerLevel", "d5/da2/a28648.html#a74bb59afb808af45ceff6367468fca1e", null ]
+    [ "DBCDatabaseLoader", "d5/da2/a28648.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
+    [ "DBCDatabaseLoader", "d5/da2/a28648.html#a7d93e6d37796f341edcf25062743c5b5", null ],
+    [ "CloneStringToPool", "d5/da2/a28648.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
+    [ "Load", "d5/da2/a28648.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
+    [ "operator=", "d5/da2/a28648.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
+    [ "_dbcFormat", "d5/da2/a28648.html#aa749118514d0b784ac6df295bd820d8e", null ],
+    [ "_recordSize", "d5/da2/a28648.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
+    [ "_sqlIndexPos", "d5/da2/a28648.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
+    [ "_sqlTableName", "d5/da2/a28648.html#ab6590071edf5311ccf484d48e4fd125e", null ],
+    [ "_stringPool", "d5/da2/a28648.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
 ];

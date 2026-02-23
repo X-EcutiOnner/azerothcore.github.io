@@ -1,5 +1,7 @@
 var a18992 =
 [
-    [ "at_icc_shutdown_traps", "d2/d28/a18992.html#aa13f5d78d3032e8114e9978f42468f64", null ],
-    [ "OnTrigger", "d2/d28/a18992.html#abb31b3f6d0b159b625d731ac47127005", null ]
+    [ "HandleForceCast", "d2/d28/a18992.html#accc757e0a23103242865f0ce3085f9d9", null ],
+    [ "Load", "d2/d28/a18992.html#a7206571378a0196a8648659628bdeece", null ],
+    [ "PrepareSpellScript", "d2/d28/a18992.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
+    [ "Register", "d2/d28/a18992.html#ace665321732f59f13b2ef831c71c2f18", null ]
 ];

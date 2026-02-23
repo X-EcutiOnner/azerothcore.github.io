@@ -1,5 +1,5 @@
 var a12132 =
 [
-    [ "amount", "d5/d41/a12132.html#a35b1ecbfecae77f1cb7a0a52eafc5f7b", null ],
-    [ "entry", "d5/d41/a12132.html#ac3d4d211ebb927b1b9a376ee956e1b26", null ]
+    [ "flag", "d5/d41/a12132.html#abde26bce31a9153038294f78e9fdc18c", null ],
+    [ "text", "d5/d41/a12132.html#a3bf2ae3fd8a347ee70e2c537d909ce30", null ]
 ];

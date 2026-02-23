@@ -1,7 +1,6 @@
 var a15940 =
 [
-    [ "npc_lakota_windsongAI", "d4/dfe/a15944.html", "d4/dfe/a15944" ],
-    [ "npc_lakota_windsong", "dc/dcd/a15940.html#a08a585ac36189ec23354c7acb26d223d", null ],
-    [ "GetAI", "dc/dcd/a15940.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
-    [ "OnQuestAccept", "dc/dcd/a15940.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
+    [ "npc_omenAI", "d4/dfe/a15944.html", "d4/dfe/a15944" ],
+    [ "npc_omen", "dc/dcd/a15940.html#aff955303a8b9741838779a59dd496f62", null ],
+    [ "GetAI", "dc/dcd/a15940.html#a8023ad3298000d9819c46f46a93166d4", null ]
 ];

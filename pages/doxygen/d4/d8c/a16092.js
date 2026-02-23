@@ -1,15 +1,7 @@
 var a16092 =
 [
-    [ "boss_volazj", "d4/d8c/a16092.html#ac1f0bc7b55a554d29e55a376680bf747", null ],
-    [ "CheckPhaseMinions", "d4/d8c/a16092.html#aa79bf97b6772956795bd2f16b85e061f", null ],
-    [ "GetPlrInsanityAuraId", "d4/d8c/a16092.html#a5b6936cedb3fc411ae58f3dc3f6b689a", null ],
-    [ "JustDied", "d4/d8c/a16092.html#a6c85c56c2483c3e8b4de67b94a45e0a6", null ],
-    [ "JustEngagedWith", "d4/d8c/a16092.html#a135c5606742474e77ffd0ee0a3c3ee69", null ],
-    [ "KilledUnit", "d4/d8c/a16092.html#abdf2cb95f0d3d7756584c338f2e2db25", null ],
-    [ "Reset", "d4/d8c/a16092.html#a0377375b89b02db3cae01390fdd13ee2", null ],
-    [ "ResetPlayersPhaseMask", "d4/d8c/a16092.html#afbfa62f2b72a95434348f74fdda46da6", null ],
-    [ "ScheduleTasks", "d4/d8c/a16092.html#a44a8aa836a45e5a9827814bb731d2882", null ],
-    [ "SetData", "d4/d8c/a16092.html#aa8b5ae6214f0c764f15b096876d614d7", null ],
-    [ "UpdateAI", "d4/d8c/a16092.html#aceac85fb06c81ccd171b024ad0d57ffe", null ],
-    [ "insanityPhase", "d4/d8c/a16092.html#ae90de1e956eb3653c8c2f0c04d89585b", null ]
+    [ "npc_wizzlecrank_shredderAI", "d1/d43/a16096.html", "d1/d43/a16096" ],
+    [ "npc_wizzlecrank_shredder", "d4/d8c/a16092.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
+    [ "GetAI", "d4/d8c/a16092.html#a5c42cc6d8cf2642333731138077af66e", null ],
+    [ "OnQuestAccept", "d4/d8c/a16092.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
 ];

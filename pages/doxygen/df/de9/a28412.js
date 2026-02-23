@@ -1,5 +1,9 @@
 var a28412 =
 [
-    [ "Id", "df/de9/a28412.html#a79e4b857b811a044aed0ce33422df801", null ],
-    [ "quality_mod", "df/de9/a28412.html#a756e7b316cc365f15f24e5e4637303a6", null ]
+    [ "npc_target_dummyAI", "df/de9/a28412.html#a117e45559ea721877d73df4b3c18a259", null ],
+    [ "EnterEvadeMode", "df/de9/a28412.html#a8f7f2e4decc676e378b4929516f8a147", null ],
+    [ "MoveInLineOfSight", "df/de9/a28412.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
+    [ "Reset", "df/de9/a28412.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
+    [ "UpdateAI", "df/de9/a28412.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
+    [ "deathTimer", "df/de9/a28412.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
 ];

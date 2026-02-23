@@ -1,11 +1,16 @@
 var a29812 =
 [
-    [ "_ACORE_REALM_CONFIG", "dc/da5/a29812.html#a139668c786d564a415e0626b3344dc83", null ],
-    [ "BanExpiryHandler", "dc/da5/a29812.html#a625d6480b04e88fcbc85e5b8d29502a6", null ],
-    [ "GetConsoleArguments", "dc/da5/a29812.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "KeepDatabaseAliveHandler", "dc/da5/a29812.html#a56e4613e7e60d171b9ce45f52758a057", null ],
-    [ "main", "dc/da5/a29812.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "SignalHandler", "dc/da5/a29812.html#abb73d9c1332263ddf049505e1b12672d", null ],
-    [ "StartDB", "dc/da5/a29812.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "dc/da5/a29812.html#ga927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "Iterator", "dc/da5/a29812.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
+    [ "Iterator", "dc/da5/a29812.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
+    [ "operator!=", "dc/da5/a29812.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
+    [ "operator!=", "dc/da5/a29812.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
+    [ "operator*", "dc/da5/a29812.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
+    [ "operator*", "dc/da5/a29812.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
+    [ "operator++", "dc/da5/a29812.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
+    [ "operator++", "dc/da5/a29812.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
+    [ "operator->", "dc/da5/a29812.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
+    [ "operator->", "dc/da5/a29812.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
+    [ "operator==", "dc/da5/a29812.html#a2d9cf3e798a1fcce3682c186952290df", null ],
+    [ "operator==", "dc/da5/a29812.html#a2d9cf3e798a1fcce3682c186952290df", null ],
+    [ "record", "dc/da5/a29812.html#a948512c44e53dfa177b85f82e9fd6160", null ]
 ];

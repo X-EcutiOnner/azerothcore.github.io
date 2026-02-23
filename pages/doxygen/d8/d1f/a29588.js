@@ -1,18 +1,12 @@
 var a29588 =
 [
-    [ "_ACORE_CORE_CONFIG", "d4/d72/a04841.html#ga1d466b8deaea4c5b80b4abcdc38991fd", null ],
-    [ "ClearOnlineAccounts", "d4/d72/a04841.html#ga285010ee0ae83f9198f08fa3145877d7", null ],
-    [ "GetConsoleArguments", "d4/d72/a04841.html#gab889056920cce8fbe96e920cea5fd9e6", null ],
-    [ "LoadRealmInfo", "d4/d72/a04841.html#ga74b21e249952fe0d6d779ee217c76dc5", null ],
-    [ "main", "d4/d72/a04841.html#ga3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "ShutdownCLIThread", "d4/d72/a04841.html#gaafe46b3c9a56a31faa60963b6a1f202a", null ],
-    [ "SignalHandler", "d4/d72/a04841.html#gad82d96de9a84a7d0325afcd3121344a4", null ],
-    [ "StartDB", "d4/d72/a04841.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StartRaSocketAcceptor", "d4/d72/a04841.html#ga0781c2ca38d89a89b174f81fb895285b", null ],
-    [ "StopDB", "d4/d72/a04841.html#ga927af1587546ee7503a3b9a18f6439c0", null ],
-    [ "WorldUpdateLoop", "d4/d72/a04841.html#ga62605923595bdfa644784c8a929fa1a7", null ],
-    [ "m_ServiceStatus", "d4/d72/a04841.html#gabad888b856358b30aa3928d7e01916fb", null ],
-    [ "serviceDescription", "d4/d72/a04841.html#ga2994dda4045f1e2d3d675565a16a4dd2", null ],
-    [ "serviceLongName", "d4/d72/a04841.html#ga34b5207234887e0d62724cf770037f6f", null ],
-    [ "serviceName", "d4/d72/a04841.html#ga69c549a4f4a1e88fa4a2c38cde62f569", null ]
+    [ "ApplyGmVisibleState", "d8/d1f/a29588.html#a3deb6c8e282913959275b537bb748860", null ],
+    [ "EnsureScriptRegistriesInitialized", "d8/d1f/a29588.html#a4238366c75dd8889993888e4e8bce5a2", null ],
+    [ "ExecuteCommand", "d8/d1f/a29588.html#ad6c2132a8f827fd0ff6bad1868bf34c2", null ],
+    [ "SetUp", "d8/d1f/a29588.html#a236c5547ff9855b39315642ec2e79c4e", null ],
+    [ "TearDown", "d8/d1f/a29588.html#a8fe66b3b0b3ba0d6f3393eb9a4fef3f2", null ],
+    [ "originalWorld", "d8/d1f/a29588.html#a8f7396466d2b20742f66e14462de96a4", null ],
+    [ "player", "d8/d1f/a29588.html#a97049ae029c9354fdf3194be77f36dfa", null ],
+    [ "session", "d8/d1f/a29588.html#a2f87ec522777defa8b023274b1d78c35", null ],
+    [ "worldMock", "d8/d1f/a29588.html#ae4caf6ccdfce680cce07d4759b2a4b54", null ]
 ];

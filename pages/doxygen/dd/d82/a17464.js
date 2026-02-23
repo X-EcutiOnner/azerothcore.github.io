@@ -1,7 +1,6 @@
 var a17464 =
 [
-    [ "HandleScriptEffect", "dd/d82/a17464.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
-    [ "PrepareSpellScript", "dd/d82/a17464.html#aac410690d906867216b40a49d8f15318", null ],
-    [ "Register", "dd/d82/a17464.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
-    [ "Validate", "dd/d82/a17464.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
+    [ "npc_pos_leaderAI", "db/dcc/a17468.html", "db/dcc/a17468" ],
+    [ "npc_pos_leader", "dd/d82/a17464.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
+    [ "GetAI", "dd/d82/a17464.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
 ];

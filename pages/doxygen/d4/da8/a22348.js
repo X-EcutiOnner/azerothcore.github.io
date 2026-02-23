@@ -1,6 +1,5 @@
 var a22348 =
 [
-    [ "HandleHealPct", "d4/da8/a22348.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "d4/da8/a22348.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "d4/da8/a22348.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "achievement_wg_within_our_grasp", "d4/da8/a22348.html#a9edbd15bc6989c6948e21391a683d22d", null ],
+    [ "OnCheck", "d4/da8/a22348.html#a10b659c4b52322536333e3d191796c27", null ]
 ];

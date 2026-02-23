@@ -1,7 +1,7 @@
 var a25368 =
 [
-    [ "HandleDummy", "d7/dad/a25368.html#a9037eddf4c9ce96c15c57e8906bd9a5f", null ],
-    [ "Load", "d7/dad/a25368.html#a738318535196b3d55e8f1b3da4f76c95", null ],
-    [ "PrepareSpellScript", "d7/dad/a25368.html#a941a097124ed9b4917faa18ff23fc366", null ],
-    [ "Register", "d7/dad/a25368.html#aaf9d269e7d052515f31b463999e92cf4", null ]
+    [ "HandleDamage", "d7/dad/a25368.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
+    [ "PrepareSpellScript", "d7/dad/a25368.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
+    [ "Register", "d7/dad/a25368.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
+    [ "Validate", "d7/dad/a25368.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
 ];

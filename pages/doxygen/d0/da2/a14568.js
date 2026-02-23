@@ -1,11 +1,10 @@
 var a14568 =
 [
-    [ "npc_snowfall_glade_playmate", "d0/da2/a14568.html#aa31b472ad55b240faff4bc2c1ee02ebc", null ],
-    [ "MoveInLineOfSight", "d0/da2/a14568.html#a92143d0bd0eb57b59069ca7a66e16195", null ],
-    [ "Reset", "d0/da2/a14568.html#a89040d9843852b01123e102b49509857", null ],
-    [ "UpdateAI", "d0/da2/a14568.html#a6dedc1cae1e568a792341842e8a922e8", null ],
-    [ "orphanGUID", "d0/da2/a14568.html#ad9bdbee8ec178b0a6c7ff125dc698279", null ],
-    [ "phase", "d0/da2/a14568.html#a9a5b2348313063bc389b99158fc72e3f", null ],
-    [ "playerGUID", "d0/da2/a14568.html#a4ca4198fdbf3c98291255916ee53c637", null ],
-    [ "timer", "d0/da2/a14568.html#ac3d736f2cd62289b88940e0a6ddcd957", null ]
+    [ "npc_zealot_zath", "d0/da2/a14568.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
+    [ "JustDied", "d0/da2/a14568.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
+    [ "JustEngagedWith", "d0/da2/a14568.html#a25e059f40de51d880f4ec209ff4dd924", null ],
+    [ "Reset", "d0/da2/a14568.html#abc4e40afd644f2c89444f3fe475817c0", null ],
+    [ "UpdateAI", "d0/da2/a14568.html#a467ce2437ec112b42f864ef412c0c976", null ],
+    [ "_scheduler", "d0/da2/a14568.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
+    [ "instance", "d0/da2/a14568.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
 ];

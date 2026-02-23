@@ -1,8 +1,8 @@
 var a28336 =
 [
-    [ "gender", "df/de2/a28336.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
-    [ "hair_id", "df/de2/a28336.html#af4646a9adb0a1dc18b34158de2116b84", null ],
-    [ "Id", "df/de2/a28336.html#a05de87081cf628e806d6518eef1424e4", null ],
-    [ "race", "df/de2/a28336.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
-    [ "type", "df/de2/a28336.html#a289bb362ba13235c754647ba67be1e56", null ]
+    [ "npc_artoriusAI", "d1/d2a/a28340.html", "d1/d2a/a28340" ],
+    [ "npc_artorius", "df/de2/a28336.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
+    [ "GetAI", "df/de2/a28336.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
+    [ "OnGossipHello", "df/de2/a28336.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
+    [ "OnGossipSelect", "df/de2/a28336.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
 ];

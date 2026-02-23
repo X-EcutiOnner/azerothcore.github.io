@@ -1,5 +1,12 @@
 var a04496 =
 [
-    [ "guild_commandscript", "d9/da0/a12001.html", "d9/da0/a12001" ],
-    [ "AddSC_guild_commandscript", "d1/d55/a04496.html#af4f585942ab79df7bff025b621beef86", null ]
+    [ "MMAP::IMMapMgr", "d0/d7d/a05120.html", "d0/d7d/a05120" ],
+    [ "MMAP_LOAD_RESULT", "d1/d55/a04496.html#a329271d76c3ed7ad6d255d45094b4868", [
+      [ "MMAP_LOAD_RESULT_ERROR", "d1/d55/a04496.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
+      [ "MMAP_LOAD_RESULT_OK", "d1/d55/a04496.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "d1/d55/a04496.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ],
+      [ "MMAP_LOAD_RESULT_ERROR", "d1/d55/a04496.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
+      [ "MMAP_LOAD_RESULT_OK", "d1/d55/a04496.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "d1/d55/a04496.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ]
+    ] ]
 ];

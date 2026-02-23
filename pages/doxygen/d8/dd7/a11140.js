@@ -1,7 +1,7 @@
 var a11140 =
 [
-    [ "PetActionSound", "d8/dd7/a11140.html#ae20a837d2b3f647d2a1d7c5e398b7b56", null ],
-    [ "Write", "d8/dd7/a11140.html#a8627631f2eb7d93cda52ce09a749fb0c", null ],
-    [ "Action", "d8/dd7/a11140.html#a25b3a4b44bcda9bec898aca1a88b90ed", null ],
-    [ "UnitGUID", "d8/dd7/a11140.html#a32b15c490da02bc5020653a9e9bfbd68", null ]
+    [ "MinimapPingClient", "d8/dd7/a11140.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
+    [ "Read", "d8/dd7/a11140.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
+    [ "MapX", "d8/dd7/a11140.html#ad4ff3977c260035145d6acd00429d81e", null ],
+    [ "MapY", "d8/dd7/a11140.html#abd8640cb98238f339218c3b945885c97", null ]
 ];

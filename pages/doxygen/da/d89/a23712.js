@@ -1,5 +1,6 @@
 var a23712 =
 [
-    [ "go_broggok_lever", "da/d89/a23712.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
-    [ "OnGossipHello", "da/d89/a23712.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
+    [ "HandleCast", "da/d89/a23712.html#a912dc3b17ab7d0818089c32610d82a16", null ],
+    [ "PrepareSpellScript", "da/d89/a23712.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
+    [ "Register", "da/d89/a23712.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
 ];

@@ -1,5 +1,6 @@
 var a14608 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "d0/d74/a14608.html#a40207493c75d8a63284e08f1f75d56c4", null ],
-    [ "MoveInLineOfSight", "d0/d74/a14608.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
+    [ "npc_brewfest_bark_trigger", "d0/d74/a14608.html#a110d654792e1f5dae8b17f014ea3d425", null ],
+    [ "GetTextFor", "d0/d74/a14608.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
+    [ "MoveInLineOfSight", "d0/d74/a14608.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
 ];

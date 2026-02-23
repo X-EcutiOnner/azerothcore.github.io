@@ -1,8 +1,5 @@
 var a11436 =
 [
-    [ "DirectionType", "d2/d61/a11436.html#a8491033c0286895c2d4d3280cfd529f0", null ],
-    [ "ObjectType", "d2/d61/a11436.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
-    [ "ReferenceType", "d2/d61/a11436.html#a44e310a789c4c5a288f07c9254ad389a", null ],
-    [ "SelectionCategory", "d2/d61/a11436.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
-    [ "SelectionCheckType", "d2/d61/a11436.html#a35c8d221b47de13408a0256598fa9d63", null ]
+    [ "amountCounter", "d2/d61/a11436.html#af652ffc837bde625aa39e913ec2e2eec", null ],
+    [ "lastReceiveTime", "d2/d61/a11436.html#ae0f3f2a90a24b48d239e3df3525f8fdc", null ]
 ];

@@ -1,11 +1,10 @@
 var a08768 =
 [
-    [ "UnitActionBarEntry", "da/d0d/a08768.html#a41f9020c4811b14fc543ddece6af86d7", null ],
-    [ "GetAction", "da/d0d/a08768.html#afd77e2f64ec856059759d05ddf77876e", null ],
-    [ "GetType", "da/d0d/a08768.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
-    [ "IsActionBarForSpell", "da/d0d/a08768.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
-    [ "SetAction", "da/d0d/a08768.html#aa00953783b0b3de3beb755a054c77730", null ],
-    [ "SetActionAndType", "da/d0d/a08768.html#a110840d38445795957ee0425175b4fb6", null ],
-    [ "SetType", "da/d0d/a08768.html#a38e0dcad391d09e475f90be5a5382f78", null ],
-    [ "packedData", "da/d0d/a08768.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
+    [ "PvPInfo", "da/d0d/a08768.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
+    [ "EndTimer", "da/d0d/a08768.html#ae06b5030552c02f30fe8386633a753df", null ],
+    [ "FFAPvPEndTimer", "da/d0d/a08768.html#a739dfc63dfe39429a44ea682d9120522", null ],
+    [ "IsHostile", "da/d0d/a08768.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
+    [ "IsInFFAPvPArea", "da/d0d/a08768.html#a8a654926248b3974587af1eb9c064d15", null ],
+    [ "IsInHostileArea", "da/d0d/a08768.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
+    [ "IsInNoPvPArea", "da/d0d/a08768.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
 ];

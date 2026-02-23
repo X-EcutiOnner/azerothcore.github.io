@@ -1,9 +1,6 @@
 var a17648 =
 [
-    [ "FilterTargets", "d3/d28/a17648.html#a7b490400378893a19cdaf52af25f3a51", null ],
-    [ "HandleScript", "d3/d28/a17648.html#acee46fb0af45364478a92db59fcc3f24", null ],
-    [ "Load", "d3/d28/a17648.html#a46a43b9a8dec2f61aee3dccad4178a78", null ],
-    [ "PrepareSpellScript", "d3/d28/a17648.html#abb8fac43566f92b19e644edc38ab5d73", null ],
-    [ "Register", "d3/d28/a17648.html#a1add221102b7067ffc130969f5172eae", null ],
-    [ "Validate", "d3/d28/a17648.html#a4d2b60161f5aed31132f0fc554aab7b6", null ]
+    [ "boss_slad_ranAI", "d7/dc6/a17652.html", "d7/dc6/a17652" ],
+    [ "boss_slad_ran", "d3/d28/a17648.html#a9b960242e2f186d334d7ce04b999e274", null ],
+    [ "GetAI", "d3/d28/a17648.html#a26651b7ca111bd64549283c37e34db11", null ]
 ];

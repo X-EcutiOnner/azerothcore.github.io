@@ -1,11 +1,5 @@
 var a13656 =
 [
-    [ "npc_kalecgos_kj", "d3/ddf/a13656.html#aae30bdf82ff333ef02a1981717c54ea4", null ],
-    [ "DoAction", "d3/ddf/a13656.html#a6b2743b9b6bfb4d687e54412fe66c17f", null ],
-    [ "JustSummoned", "d3/ddf/a13656.html#acf92559a2b06b8c9cce5c4887dd1316b", null ],
-    [ "Reset", "d3/ddf/a13656.html#ab3cd4229999bddc16fe8152acb187111", null ],
-    [ "UpdateAI", "d3/ddf/a13656.html#a8a029eb2cf7fd96ed324d93f4d66a30d", null ],
-    [ "events", "d3/ddf/a13656.html#ab5cc58e293e20172558e15fa28670633", null ],
-    [ "instance", "d3/ddf/a13656.html#a5a6f22c34578ccb7a5c1696d8ed342d6", null ],
-    [ "summons", "d3/ddf/a13656.html#a57af12b97c6e250a50283b224bc5cb6f", null ]
+    [ "at_malfurion_stormrage", "d3/ddf/a13656.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
+    [ "OnTrigger", "d3/ddf/a13656.html#a0aa7818bd09b8a456d1ebbaa7d5f5c1d", null ]
 ];

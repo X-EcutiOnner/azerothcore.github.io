@@ -1,6 +1,6 @@
 var a18196 =
 [
-    [ "FilterTargetsInitial", "d6/d3e/a18196.html#a92cc71f268793c616bed66d9a489a145", null ],
-    [ "PrepareSpellScript", "d6/d3e/a18196.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
-    [ "Register", "d6/d3e/a18196.html#a91b96940a9e72e632989b49f7e475dba", null ]
+    [ "HandlePeriodicTick", "d6/d3e/a18196.html#a29bf443cdb53b10032ba382b8ae44828", null ],
+    [ "PrepareAuraScript", "d6/d3e/a18196.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
+    [ "Register", "d6/d3e/a18196.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
 ];

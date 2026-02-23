@@ -1,6 +1,6 @@
 var a20880 =
 [
-    [ "OnPeriodic", "d9/d9a/a20880.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
-    [ "PrepareAuraScript", "d9/d9a/a20880.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
-    [ "Register", "d9/d9a/a20880.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
+    [ "FilterTargets", "d9/d9a/a20880.html#adaeee235184ddc36e90e532091183056", null ],
+    [ "PrepareSpellScript", "d9/d9a/a20880.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
+    [ "Register", "d9/d9a/a20880.html#ab79041a2536878498744555475bce5c8", null ]
 ];

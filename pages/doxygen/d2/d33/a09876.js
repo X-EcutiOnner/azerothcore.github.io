@@ -1,14 +1,6 @@
 var a09876 =
 [
-    [ "TriangleBoundary", "d2/d33/a09876.html#acd21a26ca6b830c4d4c6ed2b4a186a30", null ],
-    [ "IsWithinBoundaryArea", "d2/d33/a09876.html#aaebce21d60856976db921e22a871aae6", null ],
-    [ "_a", "d2/d33/a09876.html#a11a5e1e039d39205450e8fde526f23c9", null ],
-    [ "_abx", "d2/d33/a09876.html#a18ad05ab00e882af42a5dbc0cf10715b", null ],
-    [ "_aby", "d2/d33/a09876.html#a50c9a60be77846c736cf278eac263b44", null ],
-    [ "_b", "d2/d33/a09876.html#abcce62f1f187bc6e42f4534bfca855e8", null ],
-    [ "_bcx", "d2/d33/a09876.html#a043b7c018baed6b098f93b667f47baed", null ],
-    [ "_bcy", "d2/d33/a09876.html#afa03a5b23a6e0d3d4e134fe7b1599df0", null ],
-    [ "_c", "d2/d33/a09876.html#a8e037f96f40d81f6c426208efb0dcd1a", null ],
-    [ "_cax", "d2/d33/a09876.html#a7c8c6e8e40ec6249d672bb735d9fbdfa", null ],
-    [ "_cay", "d2/d33/a09876.html#acbb7a9e61dd4e6188837461821843b9a", null ]
+    [ "DoorInfo", "d2/d33/a09876.html#a26f4849a1d68df466e6db0ccbb8d001b", null ],
+    [ "bossInfo", "d2/d33/a09876.html#a14f7742a1b272d0cd76dda6ce28cde26", null ],
+    [ "type", "d2/d33/a09876.html#ad77a91752ea10a11c8e73655e63dd5c1", null ]
 ];

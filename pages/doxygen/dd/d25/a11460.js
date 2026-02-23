@@ -1,7 +1,7 @@
 var a11460 =
 [
-    [ "attributeMask", "dd/d25/a11460.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
-    [ "customChance", "dd/d25/a11460.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
-    [ "PPMChance", "dd/d25/a11460.html#adb76c11f0073a2738374c98c01fda009", null ],
-    [ "procEx", "dd/d25/a11460.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
+    [ "IsValidOpcode", "dd/d25/a11460.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
+    [ "IsValidSize", "dd/d25/a11460.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
+    [ "cmd", "dd/d25/a11460.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
+    [ "size", "dd/d25/a11460.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
 ];

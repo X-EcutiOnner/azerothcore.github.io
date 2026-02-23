@@ -1,5 +1,6 @@
 var a26248 =
 [
-    [ "Trigger", "df/d2b/a26248.html#aa16aba75a066e83cb56660a0e29e7453", null ],
-    [ "Validate", "df/d2b/a26248.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
+    [ "HandleStackDrop", "df/d2b/a26248.html#a8e452c968558f3bd273b18a8055745d2", null ],
+    [ "PrepareAuraScript", "df/d2b/a26248.html#aa18e4975db4e2831c61f38d990886676", null ],
+    [ "Register", "df/d2b/a26248.html#a04ebc4be3fea42ca2352fd441841f76e", null ]
 ];

@@ -1,5 +1,6 @@
 var a27656 =
 [
-    [ "item_mysterious_egg", "dd/dcc/a27656.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
-    [ "OnExpire", "dd/dcc/a27656.html#a5ea72284626826b75819f89b3b91c540", null ]
+    [ "CalculateAmount", "dd/dcc/a27656.html#aa27de1a2fc517a4b796a10e780239880", null ],
+    [ "PrepareAuraScript", "dd/dcc/a27656.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
+    [ "Register", "dd/dcc/a27656.html#a5ee969ad0916a9337849c75c18f13c29", null ]
 ];

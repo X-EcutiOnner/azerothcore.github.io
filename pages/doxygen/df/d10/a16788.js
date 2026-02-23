@@ -1,6 +1,10 @@
 var a16788 =
 [
-    [ "boss_jaraxxusAI", "dd/d04/a16792.html", "dd/d04/a16792" ],
-    [ "boss_jaraxxus", "df/d10/a16788.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
-    [ "GetAI", "df/d10/a16788.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
+    [ "npc_nerubian_burrowerAI", "df/d10/a16788.html#a7673709e7b16a6573d9c7392ba556313", null ],
+    [ "CanAIAttack", "df/d10/a16788.html#a82e4a5ca23ae2a94212b214aad1c69df", null ],
+    [ "JustDied", "df/d10/a16788.html#ab5182ad65187c472b306e2177530d7b6", null ],
+    [ "Reset", "df/d10/a16788.html#a4491965d9c08ed1d888cad6f7b06352d", null ],
+    [ "SpellHitTarget", "df/d10/a16788.html#a64fa2c8276f7418542190e833dd72c51", null ],
+    [ "UpdateAI", "df/d10/a16788.html#abd2c7333625ded502a00848b09ee9a40", null ],
+    [ "events", "df/d10/a16788.html#ab45e8c6dd9ea3552fed4b926136f80e6", null ]
 ];

@@ -1,6 +1,7 @@
 var a22668 =
 [
-    [ "FilterTargets", "d7/df4/a22668.html#a4d81860c41daab44851da605d38b4753", null ],
-    [ "PrepareSpellScript", "d7/df4/a22668.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
-    [ "Register", "d7/df4/a22668.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
+    [ "HandleScriptEffect", "d7/df4/a22668.html#a6ec6e79849c618d009eae3551e16ff0a", null ],
+    [ "PrepareSpellScript", "d7/df4/a22668.html#a4f00eca7c78a785780be4379c1a56a6b", null ],
+    [ "Register", "d7/df4/a22668.html#adb676b9d6f36c30efbb8286b1e5edf6d", null ],
+    [ "Validate", "d7/df4/a22668.html#a9ce122d497e72e3a46b1857d722af48d", null ]
 ];

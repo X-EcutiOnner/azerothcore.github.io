@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::SignalHandler Class Reference</title>
+<title>AzerothCore: Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,45 +106,49 @@ $(document).ready(function(){initNavTree('da/d9f/a05584.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d7/df4/a05581.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::SignalHandler Class Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>Handle termination signals.  
+<p>A structure representing a node in the queue.  
  <a href="../../da/d9f/a05584.html#details">More...</a></p>
-
-<p><code>#include &quot;<a class="el" href="../../">SignalHandler.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a56782d1718cb243bb5b0c6dc2d100042"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9f/a05584.html#a56782d1718cb243bb5b0c6dc2d100042">handle_signal</a> (int sig, void(*func)(int))</td></tr>
-<tr class="separator:a56782d1718cb243bb5b0c6dc2d100042"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9c515cb60b156629c43d1a6fce81d58e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9f/a05584.html#a9c515cb60b156629c43d1a6fce81d58e">~SignalHandler</a> ()</td></tr>
-<tr class="separator:a9c515cb60b156629c43d1a6fce81d58e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4dcacffb32f3e739604ab6ef39b5031"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9f/a05584.html#aa4dcacffb32f3e739604ab6ef39b5031">Node</a> ()=default</td></tr>
+<tr class="separator:aa4dcacffb32f3e739604ab6ef39b5031"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5f116e3d84286f313ee8730bde7b936"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9f/a05584.html#aa5f116e3d84286f313ee8730bde7b936">Node</a> (T *data)</td></tr>
+<tr class="separator:aa5f116e3d84286f313ee8730bde7b936"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a21b208a696ed4a320a7cf312006a787f"><td class="memItemLeft" align="right" valign="top">std::unordered_set&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9f/a05584.html#a21b208a696ed4a320a7cf312006a787f">_handled</a></td></tr>
-<tr class="separator:a21b208a696ed4a320a7cf312006a787f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0c4d6ba642dd3877c3333b067db22db6"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9f/a05584.html#a0c4d6ba642dd3877c3333b067db22db6">_mutex</a></td></tr>
-<tr class="separator:a0c4d6ba642dd3877c3333b067db22db6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:aa7cdbff9817871b548fe639e0956f1f4"><td class="memItemLeft" align="right" valign="top">T *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9f/a05584.html#aa7cdbff9817871b548fe639e0956f1f4">Data</a></td></tr>
+<tr class="memdesc:aa7cdbff9817871b548fe639e0956f1f4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Data stored in the node.  <a href="../../da/d9f/a05584.html#aa7cdbff9817871b548fe639e0956f1f4">More...</a><br /></td></tr>
+<tr class="separator:aa7cdbff9817871b548fe639e0956f1f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7508e249dd3ff2b3ac291d67ddf87a71"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; <a class="el" href="../../da/d9f/a05584.html">Node</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9f/a05584.html#a7508e249dd3ff2b3ac291d67ddf87a71">Next</a></td></tr>
+<tr class="memdesc:a7508e249dd3ff2b3ac291d67ddf87a71"><td class="mdescLeft">&#160;</td><td class="mdescRight">Atomic pointer to the next node.  <a href="../../da/d9f/a05584.html#a7508e249dd3ff2b3ac291d67ddf87a71">More...</a><br /></td></tr>
+<tr class="separator:a7508e249dd3ff2b3ac291d67ddf87a71"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Handle termination signals. </p>
+<div class="textblock"><div class="compoundTemplParams">template&lt;typename T&gt;<br />
+struct Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node</div><p >A structure representing a node in the queue. </p>
+<p >Each node holds a pointer to data and an atomic pointer to the next node in the queue. </p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a9c515cb60b156629c43d1a6fce81d58e" name="a9c515cb60b156629c43d1a6fce81d58e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9c515cb60b156629c43d1a6fce81d58e">&#9670;&#160;</a></span>~SignalHandler()</h2>
+<a id="aa4dcacffb32f3e739604ab6ef39b5031" name="aa4dcacffb32f3e739604ab6ef39b5031"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa4dcacffb32f3e739604ab6ef39b5031">&#9670;&#160;</a></span>Node() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Acore::SignalHandler::~SignalHandler </td>
+          <td class="memname"><a class="el" href="../../d4/d33/a05580.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt; T &gt;::Node::Node </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -152,120 +156,87 @@ Private Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">default</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   50</span>        {</div>
-<div class="line"><span class="lineno">   51</span>            <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; sig : <a class="code hl_variable" href="../../da/d9f/a05584.html#a21b208a696ed4a320a7cf312006a787f">_handled</a>)</div>
-<div class="line"><span class="lineno">   52</span>            {</div>
-<div class="line"><span class="lineno">   53</span>                signal(sig, <span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno">   54</span>            }</div>
-<div class="line"><span class="lineno">   55</span>        }</div>
-<div class="ttc" id="aa05584_html_a21b208a696ed4a320a7cf312006a787f"><div class="ttname"><a href="../../da/d9f/a05584.html#a21b208a696ed4a320a7cf312006a787f">Acore::SignalHandler::_handled</a></div><div class="ttdeci">std::unordered_set&lt; int &gt; _handled</div><div class="ttdef"><b>Definition:</b> SignalHandler.h:31</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">_handled</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a56782d1718cb243bb5b0c6dc2d100042" name="a56782d1718cb243bb5b0c6dc2d100042"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a56782d1718cb243bb5b0c6dc2d100042">&#9670;&#160;</a></span>handle_signal()</h2>
+<a id="aa5f116e3d84286f313ee8730bde7b936" name="aa5f116e3d84286f313ee8730bde7b936"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa5f116e3d84286f313ee8730bde7b936">&#9670;&#160;</a></span>Node() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool Acore::SignalHandler::handle_signal </td>
+          <td class="memname"><a class="el" href="../../d4/d33/a05580.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt; T &gt;::Node::Node </td>
           <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>sig</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"><em>data</em></td><td>)</td>
           <td></td>
-          <td class="paramtype">void(*)(int)&#160;</td>
-          <td class="paramname"><em>func</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   36</span>        {</div>
-<div class="line"><span class="lineno">   37</span>            std::lock_guard lock(<a class="code hl_variable" href="../../da/d9f/a05584.html#a0c4d6ba642dd3877c3333b067db22db6">_mutex</a>);</div>
-<div class="line"><span class="lineno">   38</span> </div>
-<div class="line"><span class="lineno">   39</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/d9f/a05584.html#a21b208a696ed4a320a7cf312006a787f">_handled</a>.find(sig) != <a class="code hl_variable" href="../../da/d9f/a05584.html#a21b208a696ed4a320a7cf312006a787f">_handled</a>.end())</div>
-<div class="line"><span class="lineno">   40</span>            {</div>
-<div class="line"><span class="lineno">   41</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   42</span>            }</div>
-<div class="line"><span class="lineno">   43</span> </div>
-<div class="line"><span class="lineno">   44</span>            <a class="code hl_variable" href="../../da/d9f/a05584.html#a21b208a696ed4a320a7cf312006a787f">_handled</a>.insert(sig);</div>
-<div class="line"><span class="lineno">   45</span>            signal(sig, func);</div>
-<div class="line"><span class="lineno">   46</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   47</span>        }</div>
-<div class="ttc" id="aa05584_html_a0c4d6ba642dd3877c3333b067db22db6"><div class="ttname"><a href="../../da/d9f/a05584.html#a0c4d6ba642dd3877c3333b067db22db6">Acore::SignalHandler::_mutex</a></div><div class="ttdeci">std::mutex _mutex</div><div class="ttdef"><b>Definition:</b> SignalHandler.h:32</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  116</span>                                   : <a class="code hl_variable" href="../../da/d9f/a05584.html#aa7cdbff9817871b548fe639e0956f1f4">Data</a>(data)</div>
+<div class="line"><span class="lineno">  117</span>            {</div>
+<div class="line"><span class="lineno">  118</span>                <a class="code hl_variable" href="../../da/d9f/a05584.html#a7508e249dd3ff2b3ac291d67ddf87a71">Next</a>.store(<span class="keyword">nullptr</span>, std::memory_order_release);</div>
+<div class="line"><span class="lineno">  119</span>            }</div>
+<div class="ttc" id="aa05584_html_a7508e249dd3ff2b3ac291d67ddf87a71"><div class="ttname"><a href="../../da/d9f/a05584.html#a7508e249dd3ff2b3ac291d67ddf87a71">Acore::Impl::MPSCQueueNonIntrusive::Node::Next</a></div><div class="ttdeci">std::atomic&lt; Node * &gt; Next</div><div class="ttdoc">Atomic pointer to the next node.</div><div class="ttdef"><b>Definition:</b> MPSCQueue.h:122</div></div>
+<div class="ttc" id="aa05584_html_aa7cdbff9817871b548fe639e0956f1f4"><div class="ttname"><a href="../../da/d9f/a05584.html#aa7cdbff9817871b548fe639e0956f1f4">Acore::Impl::MPSCQueueNonIntrusive::Node::Data</a></div><div class="ttdeci">T * Data</div><div class="ttdoc">Data stored in the node.</div><div class="ttdef"><b>Definition:</b> MPSCQueue.h:121</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">_handled</a>, and <a class="el" href="../../#l00032">_mutex</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00122">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node::Next</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a21b208a696ed4a320a7cf312006a787f" name="a21b208a696ed4a320a7cf312006a787f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a21b208a696ed4a320a7cf312006a787f">&#9670;&#160;</a></span>_handled</h2>
+<a id="aa7cdbff9817871b548fe639e0956f1f4" name="aa7cdbff9817871b548fe639e0956f1f4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa7cdbff9817871b548fe639e0956f1f4">&#9670;&#160;</a></span>Data</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">std::unordered_set&lt;int&gt; Acore::SignalHandler::_handled</td>
+          <td class="memname">T* <a class="el" href="../../d4/d33/a05580.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt; T &gt;::Node::Data</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00035">handle_signal()</a>, and <a class="el" href="../../#l00049">~SignalHandler()</a>.</p>
+<p>Data stored in the node. </p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00094">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Dequeue()</a>.</p>
 
 </div>
 </div>
-<a id="a0c4d6ba642dd3877c3333b067db22db6" name="a0c4d6ba642dd3877c3333b067db22db6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0c4d6ba642dd3877c3333b067db22db6">&#9670;&#160;</a></span>_mutex</h2>
+<a id="a7508e249dd3ff2b3ac291d67ddf87a71" name="a7508e249dd3ff2b3ac291d67ddf87a71"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7508e249dd3ff2b3ac291d67ddf87a71">&#9670;&#160;</a></span>Next</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">std::mutex Acore::SignalHandler::_mutex</td>
+          <td class="memname">std::atomic&lt;<a class="el" href="../../da/d9f/a05584.html">Node</a>*&gt; <a class="el" href="../../d4/d33/a05580.html">Acore::Impl::MPSCQueueNonIntrusive</a>&lt; T &gt;::Node::Next</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">mutable</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00035">handle_signal()</a>.</p>
+<p>Atomic pointer to the next node. </p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00094">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Dequeue()</a>, <a class="el" href="../../#l00079">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Enqueue()</a>, <a class="el" href="../../#l00044">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::MPSCQueueNonIntrusive()</a>, <a class="el" href="../../#l00116">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::Node::Node()</a>, and <a class="el" href="../../#l00056">Acore::Impl::MPSCQueueNonIntrusive&lt; T &gt;::~MPSCQueueNonIntrusive()</a>.</p>
 
 </div>
 </div>
@@ -274,8 +245,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/d15/a04833.html">Acore</a></li><li class="navelem"><a class="el" href="../../da/d9f/a05584.html">SignalHandler</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:12:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/d47/a04938.html">Acore</a></li><li class="navelem"><a class="el" href="../../df/d1b/a04950.html">Impl</a></li><li class="navelem"><a class="el" href="../../d4/d33/a05580.html">MPSCQueueNonIntrusive</a></li><li class="navelem"><a class="el" href="../../da/d9f/a05584.html">Node</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:16:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,7 @@
 var a23572 =
 [
-    [ "go_main_chambers_access_panel", "d1/de0/a23572.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "d1/de0/a23572.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "FilterTargets", "d1/de0/a23572.html#a834163302ff10875227806d7d4945988", null ],
+    [ "HandleScriptEffect", "d1/de0/a23572.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
+    [ "PrepareSpellScript", "d1/de0/a23572.html#a079e72d57550e03956088b4be1d11422", null ],
+    [ "Register", "d1/de0/a23572.html#abd4e0f268652652d3828ba8d350de849", null ]
 ];

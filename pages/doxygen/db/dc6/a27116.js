@@ -1,6 +1,6 @@
 var a27116 =
 [
-    [ "CalculateAmount", "db/dc6/a27116.html#aa27de1a2fc517a4b796a10e780239880", null ],
-    [ "PrepareAuraScript", "db/dc6/a27116.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
-    [ "Register", "db/dc6/a27116.html#a5ee969ad0916a9337849c75c18f13c29", null ]
+    [ "HandleDummy", "db/dc6/a27116.html#a73628636431d3549d6e3530c6ef23c08", null ],
+    [ "PrepareSpellScript", "db/dc6/a27116.html#ab90d3031b356e8004fa62c9562f1ba1f", null ],
+    [ "Register", "db/dc6/a27116.html#a7f42cf47831d3c8544453530a1454ddc", null ]
 ];

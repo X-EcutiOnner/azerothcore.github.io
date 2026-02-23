@@ -1,8 +1,6 @@
 var a28196 =
 [
-    [ "difficulty", "d5/d40/a28196.html#a2a04df701c13dc49053b09a9587a72a8", null ],
-    [ "encounterIndex", "d5/d40/a28196.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
-    [ "encounterName", "d5/d40/a28196.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
-    [ "id", "d5/d40/a28196.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
-    [ "mapId", "d5/d40/a28196.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
+    [ "go_bashir_crystalforge", "d5/d40/a28196.html#a8b68a63933e14d82198580912fddc280", null ],
+    [ "OnGossipHello", "d5/d40/a28196.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
+    [ "OnGossipSelect", "d5/d40/a28196.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
 ];

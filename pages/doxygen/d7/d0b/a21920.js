@@ -1,5 +1,6 @@
 var a21920 =
 [
-    [ "go_the_pearl_of_the_depths", "d7/d0b/a21920.html#a0e09ddcde0eef050400d90e9a268823a", null ],
-    [ "OnGossipHello", "d7/d0b/a21920.html#a745ea14136a78759a3afd7714c6d784a", null ]
+    [ "npc_plaguehound_trackerAI", "d7/d0b/a21920.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "d7/d0b/a21920.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "d7/d0b/a21920.html#a67c345f49572cde76d9109a1baff6788", null ]
 ];

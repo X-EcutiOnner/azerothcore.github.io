@@ -1,5 +1,5 @@
 var a05014 =
 [
-    [ "clear", "dc/d66/a05014.html#a69bc508845bc35319a6d8c51e562a5f9", null ],
-    [ "createOrGetVMapMgr", "dc/d66/a05014.html#a80f01f24b27dd7a5a795c193d0816624", null ]
+    [ "TotemCreated", "d1/d5a/a11328.html", "d1/d5a/a11328" ],
+    [ "TotemDestroyed", "d3/d54/a11324.html", "d3/d54/a11324" ]
 ];

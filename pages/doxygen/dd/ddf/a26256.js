@@ -1,7 +1,7 @@
 var a26256 =
 [
-    [ "HandleDummy", "dd/ddf/a26256.html#a870b9834d0860a2d017b74fbf33ae668", null ],
-    [ "Load", "dd/ddf/a26256.html#ae971bd1dccc9280620b6ea44dd552bd4", null ],
-    [ "PrepareSpellScript", "dd/ddf/a26256.html#aac68e0f75f39ab25cf490dc381414b96", null ],
-    [ "Register", "dd/ddf/a26256.html#ad2840c719abd010c629747da138e9e32", null ]
+    [ "HandleProc", "dd/ddf/a26256.html#ab25ebdc33ed9f13d9b1f880df064be13", null ],
+    [ "PrepareAuraScript", "dd/ddf/a26256.html#afa5dcaae76c60f38b8be4c47cbdaaf95", null ],
+    [ "Register", "dd/ddf/a26256.html#ab56b68dce7bf0c1cc251ff261e606cf9", null ],
+    [ "Validate", "dd/ddf/a26256.html#a53ad60f89b9db1b0cc34385477aea856", null ]
 ];

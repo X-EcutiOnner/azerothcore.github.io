@@ -1,7 +1,6 @@
 var a14392 =
 [
-    [ "HandleApply", "d9/d8f/a14392.html#a92734043e53b5e1ef81fa9b5ccce135e", null ],
-    [ "HandleRemove", "d9/d8f/a14392.html#a56bf9c77cf96b1e34543a59fc2a308b2", null ],
-    [ "PrepareAuraScript", "d9/d8f/a14392.html#ae3bcbf588e46cb0e81160fdd48502566", null ],
-    [ "Register", "d9/d8f/a14392.html#af2343add2ed014832bd34d11519b391b", null ]
+    [ "boss_gahzranka", "d9/d8f/a14392.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "d9/d8f/a14392.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "d9/d8f/a14392.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

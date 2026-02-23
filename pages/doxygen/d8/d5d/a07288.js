@@ -1,7 +1,16 @@
 var a07288 =
 [
-    [ "attackText", "d8/d5d/a07288.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
-    [ "id", "d8/d5d/a07288.html#a7f28adc30e9293df2f2c124469550d75", null ],
-    [ "takenText", "d8/d5d/a07288.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
-    [ "worldstate", "d8/d5d/a07288.html#a342ef087df4f9326952728c2192a3da3", null ]
+    [ "BuildAuctionInfo", "d8/d5d/a07288.html#ae220020b8cbb4e751bfa5798ea95d594", null ],
+    [ "CompareAuctionEntry", "d8/d5d/a07288.html#a7daa9aa634bf2b589ef1906dfc0704d0", null ],
+    [ "SetItemNames", "d8/d5d/a07288.html#a7d56d87bcd100bcb470bc7710c59bf9e", null ],
+    [ "bid", "d8/d5d/a07288.html#a0b2c836d635d9a170b2d70b763c4907b", null ],
+    [ "bidderGuid", "d8/d5d/a07288.html#ada14d168bde5da2b39c93a240941a80a", null ],
+    [ "buyout", "d8/d5d/a07288.html#a978fea69d5c823f71e681903a432ec51", null ],
+    [ "expire_time", "d8/d5d/a07288.html#aa3556fd353c58fda259c7dec52bb3b90", null ],
+    [ "Id", "d8/d5d/a07288.html#aa52368fdef3baed1aed4af459f764b8b", null ],
+    [ "item", "d8/d5d/a07288.html#a05df9a39681c0014a1c398b9bca1cbfe", null ],
+    [ "listFaction", "d8/d5d/a07288.html#a988bdc1b8ae87c3797b24534e853213f", null ],
+    [ "ownerGuid", "d8/d5d/a07288.html#a75e8c535be797d015ed970d896a56c29", null ],
+    [ "ownerName", "d8/d5d/a07288.html#aaca6e4de9cfbc62eb1815c2cf79be123", null ],
+    [ "startbid", "d8/d5d/a07288.html#ae3459d9794539591ae3727bdd6de3e2b", null ]
 ];

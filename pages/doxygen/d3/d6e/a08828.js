@@ -1,11 +1,9 @@
 var a08828 =
 [
-    [ "SpellPeriodicAuraLogInfo", "d3/d6e/a08828.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
-    [ "absorb", "d3/d6e/a08828.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
-    [ "auraEff", "d3/d6e/a08828.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
-    [ "critical", "d3/d6e/a08828.html#a51041b901727b4f595d2a886520626ff", null ],
-    [ "damage", "d3/d6e/a08828.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
-    [ "multiplier", "d3/d6e/a08828.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
-    [ "overDamage", "d3/d6e/a08828.html#a51904be3790c99bded697b2cf7c8db23", null ],
-    [ "resist", "d3/d6e/a08828.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
+    [ "PendingSpellCastRequest", "d3/d6e/a08828.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
+    [ "cancelInProgress", "d3/d6e/a08828.html#a726b6e423b23f8c12c65e07809462ad1", null ],
+    [ "category", "d3/d6e/a08828.html#a51a702f257b784dac4556397dd1c0be4", null ],
+    [ "isItem", "d3/d6e/a08828.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
+    [ "requestPacket", "d3/d6e/a08828.html#a6ee868c6161e49dc8774ab357f313116", null ],
+    [ "spellId", "d3/d6e/a08828.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
 ];

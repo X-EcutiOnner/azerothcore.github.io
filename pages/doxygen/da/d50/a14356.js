@@ -1,12 +1,9 @@
 var a14356 =
 [
-    [ "npc_chained_spirit", "da/d50/a14356.html#a5f407e700a2086f971bed0e8c0def0db", null ],
-    [ "DoAction", "da/d50/a14356.html#a7205ef13ca0d164a9222c049bc582254", null ],
-    [ "JustDied", "da/d50/a14356.html#a3b405503231173e7ff7aa52e34f63da5", null ],
-    [ "MovementInform", "da/d50/a14356.html#a469a8fdc4a40857ff1dc0af9ead74d3c", null ],
-    [ "Reset", "da/d50/a14356.html#a2a8a8a429492511aac697878b5dc4cc3", null ],
-    [ "SetGUID", "da/d50/a14356.html#a794cf63fabc0c3f7ab9214750fa232a9", null ],
-    [ "UpdateAI", "da/d50/a14356.html#a38d14b69c71bf2902a916028580fbfad", null ],
-    [ "instance", "da/d50/a14356.html#ad5dd92208d6a23954fef6348f4abbd23", null ],
-    [ "revivePlayerGUID", "da/d50/a14356.html#a193fddae1d3eb84bc36842adbb1fe86a", null ]
+    [ "npc_amanishi_scout", "da/d50/a14356.html#a74bed56c21c184e661f62c30ce6d9140", null ],
+    [ "JustEngagedWith", "da/d50/a14356.html#a5969fadd871094e993c4d3fe0b08054c", null ],
+    [ "Reset", "da/d50/a14356.html#ac527a3a656888f7ac3d13636a0de7aad", null ],
+    [ "ScheduleCombat", "da/d50/a14356.html#acb736dc42c5f9afbd92c97bfa8293606", null ],
+    [ "UpdateAI", "da/d50/a14356.html#a3740a4fde31e1e81edb34dde61403acc", null ],
+    [ "_drumGUID", "da/d50/a14356.html#afd9a1a57c413d5857331ac90665cc1e0", null ]
 ];

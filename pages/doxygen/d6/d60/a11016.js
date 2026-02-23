@@ -1,8 +1,8 @@
 var a11016 =
 [
-    [ "CrossedInebriationThreshold", "d6/d60/a11016.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
-    [ "Write", "d6/d60/a11016.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
-    [ "Guid", "d6/d60/a11016.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
-    [ "ItemID", "d6/d60/a11016.html#a9e48a650bf21872099cdb0626e875fd7", null ],
-    [ "Threshold", "d6/d60/a11016.html#a87b756b64cbfb8f292f46cce38308095", null ]
+    [ "SetRaidDifficulty", "d6/d60/a11016.html#af8d6189ed0209b4f70e32f92c00e13fb", null ],
+    [ "Write", "d6/d60/a11016.html#a3da812593b22ef506a9d61e16b5485d1", null ],
+    [ "Difficulty", "d6/d60/a11016.html#a1952e2d54b77437731b693f4eace83ac", null ],
+    [ "IsInGroup", "d6/d60/a11016.html#a8833543c4f179be97476a26152ec049b", null ],
+    [ "Unk", "d6/d60/a11016.html#a61a4f0fb74db04cdc11c0729bc104f7a", null ]
 ];

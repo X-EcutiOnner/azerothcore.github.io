@@ -1,100 +1,69 @@
 var a03899 =
 [
-    [ "spell_q12641_death_comes_from_on_high_summon_ghouls", "d7/d7d/a13249.html", "d7/d7d/a13249" ],
-    [ "spell_q12641_death_comes_from_on_high_recall_eye", "df/d61/a13253.html", "df/d61/a13253" ],
-    [ "npc_death_knight_initiate", "d1/d88/a13257.html", "d1/d88/a13257" ],
-    [ "npc_death_knight_initiate::npc_death_knight_initiateAI", "d3/d31/a13261.html", "d3/d31/a13261" ],
-    [ "spell_item_gift_of_the_harvester", "db/d62/a13265.html", "db/d62/a13265" ],
-    [ "spell_q12698_the_gift_that_keeps_on_giving", "d1/d98/a13269.html", "d1/d98/a13269" ],
-    [ "npc_scarlet_ghoul", "df/d70/a13273.html", "df/d70/a13273" ],
-    [ "npc_scarlet_ghoul::npc_scarlet_ghoulAI", "d8/d20/a13277.html", "d8/d20/a13277" ],
-    [ "npc_dkc1_gothik", "d2/df2/a13281.html", "d2/df2/a13281" ],
-    [ "npc_dkc1_gothik::npc_dkc1_gothikAI", "d3/ddd/a13285.html", "d3/ddd/a13285" ],
-    [ "npc_unworthy_initiate", "d0/d05/a13289.html", "d0/d05/a13289" ],
-    [ "npc_unworthy_initiate::npc_unworthy_initiateAI", "dd/d87/a13293.html", "dd/d87/a13293" ],
-    [ "npc_unworthy_initiate_anchor", "d0/d0a/a13297.html", "d0/d0a/a13297" ],
-    [ "npc_unworthy_initiate_anchor::npc_unworthy_initiate_anchorAI", "d1/dec/a13301.html", "d1/dec/a13301" ],
-    [ "go_acherus_soul_prison", "d9/d34/a13305.html", "d9/d34/a13305" ],
-    [ "spell_death_knight_initiate_visual", "d7/df6/a13309.html", "d7/df6/a13309" ],
-    [ "spell_lich_king_vo_blocker", "db/d00/a13313.html", "db/d00/a13313" ],
-    [ "spell_lich_king_whisper", "d4/d3c/a13317.html", "d4/d3c/a13317" ],
-    [ "GCD_CAST", "d0/d33/a03899.html#a4e0920d64510440a7850bf1c1ef76f54", null ],
-    [ "DeathComesFromOnHigh", "d0/d33/a03899.html#a8d5eadbb5d71d2183b6fe75139c887ea", [
-      [ "SPELL_CALL_OF_THE_DEAD", "d0/d33/a03899.html#a8d5eadbb5d71d2183b6fe75139c887eaacd0a3ad4be38d369e5f72df2d231a982", null ],
-      [ "SPELL_FORGE_CREDIT", "d4/d60/a03446.html#a8d5eadbb5d71d2183b6fe75139c887eaae3bf8440b92fce514fdeb81a4d5cbe15", null ],
-      [ "SPELL_TOWN_HALL_CREDIT", "d4/d60/a03446.html#a8d5eadbb5d71d2183b6fe75139c887eaa51f8e22e332e2e3e0c715d547355fc82", null ],
-      [ "SPELL_SCARLET_HOLD_CREDIT", "d4/d60/a03446.html#a8d5eadbb5d71d2183b6fe75139c887eaa7934ecc64f2c4dfbbbf853d6bb82b7d5", null ],
-      [ "SPELL_CHAPEL_CREDIT", "d4/d60/a03446.html#a8d5eadbb5d71d2183b6fe75139c887eaaa3171e13a9b70448bd2c64b75fe23ce4", null ],
-      [ "NPC_NEW_AVALON_FORGE", "d4/d60/a03446.html#a8d5eadbb5d71d2183b6fe75139c887eaa2f4ab59da4c1e9fe3eeb53cf20832f0e", null ],
-      [ "NPC_NEW_AVALON_TOWN_HALL", "d4/d60/a03446.html#a8d5eadbb5d71d2183b6fe75139c887eaa2b4f620e8297fdc7167dbfc9b0394ffe", null ],
-      [ "NPC_SCARLET_HOLD", "d4/d60/a03446.html#a8d5eadbb5d71d2183b6fe75139c887eaa745be6578f398745e5058bbc362f36d7", null ],
-      [ "NPC_CHAPEL_OF_THE_CRIMSON_FLAME", "d4/d60/a03446.html#a8d5eadbb5d71d2183b6fe75139c887eaa65e0966966b77379f295a0601ef33dc3", null ]
+    [ "HalaaIds", "d6/deb/a22452.html", "d6/deb/a22452" ],
+    [ "OPvPCapturePointNA", "d0/d98/a22456.html", "d0/d98/a22456" ],
+    [ "OutdoorPvPNA", "d5/d5e/a22460.html", "d5/d5e/a22460" ],
+    [ "HalaaNPCS", "d0/d33/a03899.html#a3951c5b11bab0eeb9b06c1e19b25c036", null ],
+    [ "ControlGOTypes", "d0/d33/a03899.html#a671e2c9be7783733226427ebd264eb19", [
+      [ "NA_ROOST_S", "d0/d33/a03899.html#a671e2c9be7783733226427ebd264eb19afa875929ebc8b1c2db3a195ee37095ad", null ],
+      [ "NA_ROOST_W", "d0/d33/a03899.html#a671e2c9be7783733226427ebd264eb19a237f904232faee9c60bf01b3e5d27623", null ],
+      [ "NA_ROOST_N", "d0/d33/a03899.html#a671e2c9be7783733226427ebd264eb19ad182fca04bd07e7f4b7a924bf476a520", null ],
+      [ "NA_ROOST_E", "d0/d33/a03899.html#a671e2c9be7783733226427ebd264eb19ac2360c16ea760d37dcec325a5165ec8c", null ],
+      [ "NA_BOMB_WAGON_S", "d0/d33/a03899.html#a671e2c9be7783733226427ebd264eb19a8fe4900cb979a36257cc3ee70cfcd56e", null ],
+      [ "NA_BOMB_WAGON_W", "d0/d33/a03899.html#a671e2c9be7783733226427ebd264eb19a7ff23be34578fcc2d55e1f088b3e00cb", null ],
+      [ "NA_BOMB_WAGON_N", "d0/d33/a03899.html#a671e2c9be7783733226427ebd264eb19a7b1be1932fafd2586d4706e8541b85b8", null ],
+      [ "NA_BOMB_WAGON_E", "d0/d33/a03899.html#a671e2c9be7783733226427ebd264eb19a2447af22ca220eab12dbc987125a6870", null ],
+      [ "NA_DESTROYED_ROOST_S", "d0/d33/a03899.html#a671e2c9be7783733226427ebd264eb19a6267ce0c271fd7e77fcebb63e09b4099", null ],
+      [ "NA_DESTROYED_ROOST_W", "d0/d33/a03899.html#a671e2c9be7783733226427ebd264eb19ab023c62e57c5d189c91a4babd13525cf", null ],
+      [ "NA_DESTROYED_ROOST_N", "d0/d33/a03899.html#a671e2c9be7783733226427ebd264eb19a9cbe15da02cd0024dbedf82b2c752f0f", null ],
+      [ "NA_DESTROYED_ROOST_E", "d0/d33/a03899.html#a671e2c9be7783733226427ebd264eb19a81fe1a37a84a9d647898f65913718e3e", null ],
+      [ "NA_CONTROL_GO_NUM", "d0/d33/a03899.html#a671e2c9be7783733226427ebd264eb19ac9ebedb94fb10e2eb33d411be0865bd7", null ]
     ] ],
-    [ "deathsChallenge", "d0/d33/a03899.html#a8f10a57d17ad15b9a0e14245bcf79b63", [
-      [ "SPELL_DUEL", "d0/d33/a03899.html#a8f10a57d17ad15b9a0e14245bcf79b63aa4a531ba862d340d8569255af4c59069", null ],
-      [ "SPELL_DUEL_VICTORY", "d0/d33/a03899.html#a8f10a57d17ad15b9a0e14245bcf79b63ae8d88b372b66f9b825344bfeaf392708", null ],
-      [ "SPELL_DUEL_FLAG", "d0/d33/a03899.html#a8f10a57d17ad15b9a0e14245bcf79b63a1c592d461a8cc02648121d8f87329a7d", null ],
-      [ "SAY_DUEL", "d0/d33/a03899.html#a8f10a57d17ad15b9a0e14245bcf79b63a7a383d3a269b4cf23c0b99b8cf60d0b5", null ],
-      [ "QUEST_DEATH_CHALLENGE", "d0/d33/a03899.html#a8f10a57d17ad15b9a0e14245bcf79b63a10d1682200c0c72611b3cd99af1b613c", null ],
-      [ "DATA_IN_PROGRESS", "d0/d33/a03899.html#a8f10a57d17ad15b9a0e14245bcf79b63a80cd6f5d182cc1729fa496f31ae35ca6", null ],
-      [ "EVENT_SPEAK", "d0/d33/a03899.html#a8f10a57d17ad15b9a0e14245bcf79b63a4b6c4609ea1b0550ac22871ebd9af5bc", null ],
-      [ "EVENT_DUEL_LOST", "d0/d33/a03899.html#a8f10a57d17ad15b9a0e14245bcf79b63aba893dd076928fa851701f5b25107cc8", null ]
+    [ "FlightSpellsNA", "d0/d33/a03899.html#a68fd902d513cc8e7bf37946f9d26a80b", [
+      [ "NA_SPELL_FLY_SOUTH", "d0/d33/a03899.html#a68fd902d513cc8e7bf37946f9d26a80ba86e4e8c951657bc667c88d574dcbdb8f", null ],
+      [ "NA_SPELL_FLY_WEST", "d0/d33/a03899.html#a68fd902d513cc8e7bf37946f9d26a80ba9a9deaeede3e488499190b425fd3bdc2", null ],
+      [ "NA_SPELL_FLY_NORTH", "d0/d33/a03899.html#a68fd902d513cc8e7bf37946f9d26a80bafd6b9390ea045f8cfa5feef209cb9be3", null ],
+      [ "NA_SPELL_FLY_EAST", "d0/d33/a03899.html#a68fd902d513cc8e7bf37946f9d26a80bab97171fab8df1e600228b3da1456452d", null ]
     ] ],
-    [ "EyeOfAcherusMisc", "d0/d33/a03899.html#ab53744cff6e4c29bb868b1441a934d6f", [
-      [ "SPELL_THE_EYE_OF_ACHERUS", "d0/d33/a03899.html#ab53744cff6e4c29bb868b1441a934d6fa3ba8bf7b86ad4ae22520569c02c7c66b", null ]
+    [ "HalaaCreaturesSpawn", "d0/d33/a03899.html#a394f453184d3eefd51298b772b4c789a", [
+      [ "NA_HALAA_CREATURES", "d0/d33/a03899.html#a394f453184d3eefd51298b772b4c789aa40c5b092548e0e873f1dbe1ff48a0910", null ],
+      [ "NA_HALAA_CREATURE_TEAM_SPAWN", "d0/d33/a03899.html#a394f453184d3eefd51298b772b4c789aa79500d69d3c666a75f664fa63f63de94", null ],
+      [ "NA_HALAA_MAX_CREATURE_SPAWN", "d0/d33/a03899.html#a394f453184d3eefd51298b772b4c789aa3d72e7f62a2349039b0c269f0c469553", null ]
     ] ],
-    [ "GiftOfTheHarvester", "d0/d33/a03899.html#a34a7eb05eb22314c694883b77bf38b41", [
-      [ "NPC_GHOUL", "d0/d33/a03899.html#a34a7eb05eb22314c694883b77bf38b41a5e4dc0157e48c1d94b208248dfbf21e4", null ],
-      [ "MAX_GHOULS", "d0/d33/a03899.html#a34a7eb05eb22314c694883b77bf38b41aa7f64c4b3f098267130d424a74594e9d", null ],
-      [ "SPELL_GHOUL_EMERGE", "d0/d33/a03899.html#a34a7eb05eb22314c694883b77bf38b41adc7ae145b314d14adb3cbbe37a941936", null ],
-      [ "SPELL_SUMMON_SCARLET_GHOST", "d0/d33/a03899.html#a34a7eb05eb22314c694883b77bf38b41af66f97d8449866aa17dee4999861c6ce", null ],
-      [ "SPELL_GHOUL_SUBMERGE", "d0/d33/a03899.html#a34a7eb05eb22314c694883b77bf38b41ae95cf507057ad77d9414b63e5b319ede", null ],
-      [ "EVENT_GHOUL_RESTORE_STATE", "d0/d33/a03899.html#a34a7eb05eb22314c694883b77bf38b41af3843347b39a90e0dfa4caa56b60b722", null ],
-      [ "EVENT_GHOUL_CHECK_COMBAT", "d0/d33/a03899.html#a34a7eb05eb22314c694883b77bf38b41a384b7a45547dd7ea79d9a5a31a1ff603", null ],
-      [ "EVENT_GHOUL_EMOTE", "d0/d33/a03899.html#a34a7eb05eb22314c694883b77bf38b41a9d1897c09a5510faf943cf99ed02050a", null ],
-      [ "EVENT_GHOUL_MOVE_TO_PIT", "d0/d33/a03899.html#a34a7eb05eb22314c694883b77bf38b41a383333dea4ffd5f166293381b6a93bbb", null ],
-      [ "SAY_GOTHIK_PIT", "d0/d33/a03899.html#a34a7eb05eb22314c694883b77bf38b41a11a420f8cc442d28386aa19b2a2983a5", null ]
+    [ "HalaaGuardsNA", "d0/d33/a03899.html#a4e91f98214fe304c148fea20beaa5fae", [
+      [ "NA_HALAANI_GUARD_A", "d0/d33/a03899.html#a4e91f98214fe304c148fea20beaa5faeaa2b1c68dc890890449426eb6d46ff6c0", null ],
+      [ "NA_HALAANI_GUARD_H", "d0/d33/a03899.html#a4e91f98214fe304c148fea20beaa5faea6486eb6f2da8e52df614e7728a1f4304", null ]
     ] ],
-    [ "spells_lich_king_whisper", "d0/d33/a03899.html#abc830bbb9ced1ba06639825e7e0ed7ea", [
-      [ "SPELL_LICH_KING_VO_BLOCKER", "d0/d33/a03899.html#abc830bbb9ced1ba06639825e7e0ed7eaaa382fd3190a952e343abd2e4b45cfe67", null ],
-      [ "SPELL_LICHKINGDK001", "d0/d33/a03899.html#abc830bbb9ced1ba06639825e7e0ed7eaa8a87043d4577e2e649f4e40506ea4f0a", null ],
-      [ "SPELL_LICHKINGDK002", "d0/d33/a03899.html#abc830bbb9ced1ba06639825e7e0ed7eaa81a25ea53d44491eb4e7208865f692fe", null ],
-      [ "SPELL_LICHKINGDK003", "d0/d33/a03899.html#abc830bbb9ced1ba06639825e7e0ed7eaa6cf3418a81513654d1e6841caceceddf", null ],
-      [ "SPELL_LICHKINGDK004", "d0/d33/a03899.html#abc830bbb9ced1ba06639825e7e0ed7eaa9e6adfa172be669b3d393878095fd546", null ],
-      [ "SPELL_LICHKINGDK005", "d0/d33/a03899.html#abc830bbb9ced1ba06639825e7e0ed7eaa30d92ed248e378855ae8f010ec5ba4d2", null ],
-      [ "SPELL_LICHKINGDK006", "d0/d33/a03899.html#abc830bbb9ced1ba06639825e7e0ed7eaa86efefaa2ade6c15b715cedd2dbc2a77", null ],
-      [ "SPELL_LICHKINGDK007", "d0/d33/a03899.html#abc830bbb9ced1ba06639825e7e0ed7eaaef0f2fd9d58d9ccb6e04f28bac92cebc", null ],
-      [ "SPELL_LICHKINGDK008", "d0/d33/a03899.html#abc830bbb9ced1ba06639825e7e0ed7eaae9b9660563d2096d35cce6e540a8ad92", null ],
-      [ "SPELL_LICHKINGDK009", "d0/d33/a03899.html#abc830bbb9ced1ba06639825e7e0ed7eaae0e3bbb835b7cb4fbf75ff858f217e2a", null ],
-      [ "SPELL_LICHKINGDK010", "d0/d33/a03899.html#abc830bbb9ced1ba06639825e7e0ed7eaa4f54632ae3be4eb64f3f3ece0c7bdedf", null ],
-      [ "SPELL_LICHKINGDK011", "d0/d33/a03899.html#abc830bbb9ced1ba06639825e7e0ed7eaab461fe19f0595f95683053bf5f18ee17", null ],
-      [ "SPELL_LICHKINGDK012", "d0/d33/a03899.html#abc830bbb9ced1ba06639825e7e0ed7eaa863a5889a853d731d7f72f374f27ef70", null ],
-      [ "SPELL_LICHKINGDK013", "d0/d33/a03899.html#abc830bbb9ced1ba06639825e7e0ed7eaa10fb1f29f24f6e6c0251b7b0add121de", null ],
-      [ "SPELL_LICHKINGDK014", "d0/d33/a03899.html#abc830bbb9ced1ba06639825e7e0ed7eaafd5d6bbf89fd2a980f8b01e20d36c2b7", null ],
-      [ "SPELL_LICHKINGDK015", "d0/d33/a03899.html#abc830bbb9ced1ba06639825e7e0ed7eaaeac91373231bcdb8f16c1913e84db842", null ],
-      [ "SPELL_LICHKINGDK016", "d0/d33/a03899.html#abc830bbb9ced1ba06639825e7e0ed7eaac18b6a8a2ce6fd5b29caed5d77c59d3f", null ]
+    [ "HalaaStates", "d0/d33/a03899.html#a2c40def86e302e716c09a15f01e5b809", [
+      [ "HALAA_N", "d0/d33/a03899.html#a2c40def86e302e716c09a15f01e5b809a255888833d6c2bfcb48d6300e3a00e76", null ],
+      [ "HALAA_N_A", "d0/d33/a03899.html#a2c40def86e302e716c09a15f01e5b809a5e75a8ea3c221ca8d430a5c3a059ffba", null ],
+      [ "HALAA_A", "d0/d33/a03899.html#a2c40def86e302e716c09a15f01e5b809a7e97d445255ae31253d61c6042240799", null ],
+      [ "HALAA_N_H", "d0/d33/a03899.html#a2c40def86e302e716c09a15f01e5b809a83d195b2954e67659ed1f1c246d2a889", null ],
+      [ "HALAA_H", "d0/d33/a03899.html#a2c40def86e302e716c09a15f01e5b809a7159ad16ee5d51946529c3cd325c6547", null ]
     ] ],
-    [ "UnworthyInitiate", "d0/d33/a03899.html#af590a53311e888b53dcef8e183ba91cd", [
-      [ "SPELL_SOUL_PRISON_CHAIN", "d0/d33/a03899.html#af590a53311e888b53dcef8e183ba91cdaacb469d2ce157ba80de3be49aac61238", null ],
-      [ "SPELL_DK_INITIATE_VISUAL", "d0/d33/a03899.html#af590a53311e888b53dcef8e183ba91cda7eabf8b933a62dab546b7b50aa8a3f2d", null ],
-      [ "SPELL_ICY_TOUCH", "d0/d33/a03899.html#af590a53311e888b53dcef8e183ba91cdaa08ac9e39da810d5834d1811db20481f", null ],
-      [ "SPELL_PLAGUE_STRIKE", "d0/d33/a03899.html#af590a53311e888b53dcef8e183ba91cda20e455c0ae51cf9a08598dfbd3cfad1a", null ],
-      [ "SPELL_BLOOD_STRIKE", "d0/d33/a03899.html#af590a53311e888b53dcef8e183ba91cda3ef59951fd37ac1673af905f4afa2c3a", null ],
-      [ "SPELL_DEATH_COIL", "d0/d33/a03899.html#af590a53311e888b53dcef8e183ba91cda196972e452f4cb5df032e5119d25f163", null ],
-      [ "SAY_EVENT_START", "d0/d33/a03899.html#af590a53311e888b53dcef8e183ba91cda5b99398ffec3de91807ff5682f0a7478", null ],
-      [ "SAY_EVENT_ATTACK", "d0/d33/a03899.html#af590a53311e888b53dcef8e183ba91cda775cad6d6cdebea207fa4d24aa12b6d2", null ],
-      [ "EVENT_ICY_TOUCH", "d0/d33/a03899.html#af590a53311e888b53dcef8e183ba91cda7faf8ac32436c1944001a241d8b02925", null ],
-      [ "EVENT_PLAGUE_STRIKE", "d0/d33/a03899.html#af590a53311e888b53dcef8e183ba91cda3de0f2b00dd774ee52706362e41dfda9", null ],
-      [ "EVENT_BLOOD_STRIKE", "d0/d33/a03899.html#af590a53311e888b53dcef8e183ba91cda84b24833c5e8be35e2397c44f8ade944", null ],
-      [ "EVENT_DEATH_COIL", "d0/d33/a03899.html#af590a53311e888b53dcef8e183ba91cdaf17ea4feb08751873794a2be33e793aa", null ]
+    [ "OutdoorPvPNASpells", "d0/d33/a03899.html#a933dca48e43f02c2e7846375e0e3a3e2", [
+      [ "NA_KILL_TOKEN_ALLIANCE", "d0/d33/a03899.html#a933dca48e43f02c2e7846375e0e3a3e2aae0070f813d277d5864226d25a571413", null ],
+      [ "NA_KILL_TOKEN_HORDE", "d0/d33/a03899.html#a933dca48e43f02c2e7846375e0e3a3e2aacbd3b5420e976421bab93b50cfa1f0c", null ],
+      [ "NA_CAPTURE_BUFF", "d0/d33/a03899.html#a933dca48e43f02c2e7846375e0e3a3e2a734083143cec178f24ecabb449f0637c", null ]
     ] ],
-    [ "UnworthyInitiatePhase", "d0/d33/a03899.html#ab36fb5898313f01df12c91aca8341be3", [
-      [ "PHASE_CHAINED", "d0/d33/a03899.html#ab36fb5898313f01df12c91aca8341be3ab62f3e421ce27e15d2b48ed3f8733658", null ],
-      [ "PHASE_TO_EQUIP", "d0/d33/a03899.html#ab36fb5898313f01df12c91aca8341be3a9114c886e3fd9e6982472be76c145da8", null ],
-      [ "PHASE_EQUIPING", "d0/d33/a03899.html#ab36fb5898313f01df12c91aca8341be3a4096389ac7ae398fbf4ff16ea63946c8", null ],
-      [ "PHASE_TO_ATTACK", "d0/d33/a03899.html#ab36fb5898313f01df12c91aca8341be3a125fbd2981202cf891395e9588d6f7b4", null ],
-      [ "PHASE_ATTACKING", "d0/d33/a03899.html#ab36fb5898313f01df12c91aca8341be3ad7f03f3a9e0bd32ed13f8503fb71b3f9", null ]
+    [ "WyvernStates", "d0/d33/a03899.html#a408ccf9c409baffb9c6d03f2edde557c", [
+      [ "WYVERN_NEU_HORDE", "d0/d33/a03899.html#a408ccf9c409baffb9c6d03f2edde557ca9069d119becf81d131d0212caf8c6ab5", null ],
+      [ "WYVERN_NEU_ALLIANCE", "d0/d33/a03899.html#a408ccf9c409baffb9c6d03f2edde557ca98723680d7ec1dc91030d50df4603200", null ],
+      [ "WYVERN_HORDE", "d0/d33/a03899.html#a408ccf9c409baffb9c6d03f2edde557cafdcbf2305711075969d48e3a56c2a578", null ],
+      [ "WYVERN_ALLIANCE", "d0/d33/a03899.html#a408ccf9c409baffb9c6d03f2edde557cabc4cc5f16edf95d854b436d27ce77c8e", null ]
     ] ],
-    [ "AddSC_the_scarlet_enclave_c1", "d0/d33/a03899.html#a4e50d499ea814e96ce4b4d94a25b1cb0", null ],
-    [ "acherus_soul_prison", "d0/d33/a03899.html#adffec7eed38fb87c9c0ecb9f5141b4a0", null ]
+    [ "AllianceControlGOs", "d0/d33/a03899.html#a6da5d6b9a0ecd5b15ced61c27d1c8aa4", null ],
+    [ "FLIGHT_NODES_NUM", "d0/d33/a03899.html#a767a89853ad9fbcea5e94bae963b3168", null ],
+    [ "FlightPathEndNodes", "d0/d33/a03899.html#aa4cf9c47955c274ca0bdce61e98a3a5a", null ],
+    [ "FlightPathStartNodes", "d0/d33/a03899.html#ac9bda252b1c34c9a478d3251069384b8", null ],
+    [ "HordeControlGOs", "d0/d33/a03899.html#a2ca90cdca32c0c9a0fef5ece362bb3e6", null ],
+    [ "NA_BUFF_ZONE", "d0/d33/a03899.html#ae9287f13e383331fe53c5a514989ca99", null ],
+    [ "NA_CREDIT_MARKER", "d0/d33/a03899.html#a8c04516b1462a78d64563849fe3136a1", null ],
+    [ "NA_GUARD_CHECK_TIME", "d0/d33/a03899.html#a0f69597d7fce786cae5202cb06be06cf", null ],
+    [ "NA_GUARDS_MAX", "d0/d33/a03899.html#a3fba4585a3d42e96191aa62b6938472f", null ],
+    [ "NA_HALAA_BOMB", "d0/d33/a03899.html#a793a1d2d8d6683df19de9b728d2af1de", null ],
+    [ "NA_HALAA_GRAVEYARD", "d0/d33/a03899.html#a23eddcc072a261674acb3acb48f637cb", null ],
+    [ "NA_HALAA_GRAVEYARD_ZONE", "d0/d33/a03899.html#a74f493038b14c5e7e5a00c661339278e", null ],
+    [ "NA_RESPAWN_TIME", "d0/d33/a03899.html#a6fd5686dd6cf4251b3b33513928f44bd", null ],
+    [ "PatrolCreatureEntry", "d0/d33/a03899.html#aac17891901d073bcbdc4b9b919bb8f43", null ]
 ];

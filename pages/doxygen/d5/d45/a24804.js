@@ -1,7 +1,10 @@
 var a24804 =
 [
-    [ "HandleScriptEffect", "d5/d45/a24804.html#afaffd667477e286700dd7e5562423452", null ],
-    [ "PrepareSpellScript", "d5/d45/a24804.html#a9c30d4d6427cfc96b88a1427afcedb00", null ],
-    [ "Register", "d5/d45/a24804.html#ab8b68e02d05abceeb4b7eef00092e759", null ],
-    [ "Validate", "d5/d45/a24804.html#a553f2f26a412d2060151b4f49055b847", null ]
+    [ "Load", "d5/d45/a24804.html#a2c4e408e45995098b01a05815fffb34c", null ],
+    [ "OnApply", "d5/d45/a24804.html#acae1047046bb8f555d1798ca024a2650", null ],
+    [ "OnRemove", "d5/d45/a24804.html#aa01df2b86cf69508866f6e7d063c735a", null ],
+    [ "PrepareAuraScript", "d5/d45/a24804.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
+    [ "Register", "d5/d45/a24804.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
+    [ "Validate", "d5/d45/a24804.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
+    [ "_casterGUID", "d5/d45/a24804.html#a8047fb4309487c7a529047ec5148a2e3", null ]
 ];

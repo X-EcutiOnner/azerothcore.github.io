@@ -1,6 +1,7 @@
 var a16440 =
 [
-    [ "HandleHealPct", "d8/d0d/a16440.html#ad13b3924815ac3da7902c8292a760943", null ],
-    [ "PrepareSpellScript", "d8/d0d/a16440.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
-    [ "Register", "d8/d0d/a16440.html#a3016c31c072d6417bbe47c2891059718", null ]
+    [ "DelayedTalk", "d8/d0d/a16440.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
+    [ "Execute", "d8/d0d/a16440.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
+    [ "_owner", "d8/d0d/a16440.html#a9d13769bb3fbaed32919fc919da35006", null ],
+    [ "_talkId", "d8/d0d/a16440.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
 ];

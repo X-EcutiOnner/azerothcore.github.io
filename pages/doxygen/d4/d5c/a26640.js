@@ -1,5 +1,10 @@
 var a26640 =
 [
-    [ "spell_q11515_fel_siphon_dummy", "d4/d5c/a26640.html#a80fa790a716d1ae950f43f9a298afd66", null ],
-    [ "GetSpellScript", "d4/d5c/a26640.html#a0d122972fc036d1f1e49c49acda58be3", null ]
+    [ "spell_pal_judgement", "d4/d5c/a26640.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
+    [ "HandleScriptEffect", "d4/d5c/a26640.html#add419a824dbebdc168d2b6dc49d07913", null ],
+    [ "PrepareSpellScript", "d4/d5c/a26640.html#a2cffed69c16a1a6189048ed52af35152", null ],
+    [ "Register", "d4/d5c/a26640.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
+    [ "SealApplication", "d4/d5c/a26640.html#a0bb55f122d560c70f416e448d03d2184", null ],
+    [ "Validate", "d4/d5c/a26640.html#a3971c195a279338253771675131b4802", null ],
+    [ "_spellId", "d4/d5c/a26640.html#ad49ea02800078c672747f4fdbbab1d20", null ]
 ];

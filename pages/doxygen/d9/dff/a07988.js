@@ -1,7 +1,6 @@
 var a07988 =
 [
-    [ "global_sequence", "d9/dff/a07988.html#afbd5f7baa1b1daf4dda4fe0cf503a97b", null ],
-    [ "interpolation_type", "d9/dff/a07988.html#ac3315ce2b2261a6fd23b0c72ea34aa5e", null ],
-    [ "timestamps", "d9/dff/a07988.html#a8bf7fdd2652275ae553b921196e68d1c", null ],
-    [ "values", "d9/dff/a07988.html#a9d4ea5dfc36b34541e5ba7350df645e1", null ]
+    [ "value_type", "d9/dff/a07988.html#abd675e353289166cc5c92524915d46af", null ],
+    [ "StoreTo", "d9/dff/a07988.html#a9fa4a3c03be31b6f6c3c8996c5a7bf6f", null ],
+    [ "tag", "d9/dff/a07988.html#a102ade7c095fcac914b95708958352f1", null ]
 ];

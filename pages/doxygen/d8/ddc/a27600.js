@@ -1,5 +1,6 @@
 var a27600 =
 [
-    [ "go_dragonflayer_cage", "d8/ddc/a27600.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
-    [ "OnGossipHello", "d8/ddc/a27600.html#a542530a0b84879b21a4b9982cf4300d0", null ]
+    [ "HandleScriptEffect", "d8/ddc/a27600.html#a3f8988017d088d08df08ba8b696b552b", null ],
+    [ "PrepareSpellScript", "d8/ddc/a27600.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
+    [ "Register", "d8/ddc/a27600.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
 ];

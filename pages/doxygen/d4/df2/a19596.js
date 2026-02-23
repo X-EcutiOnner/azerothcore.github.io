@@ -1,14 +1,16 @@
 var a19596 =
 [
-    [ "npc_crystalline_frayer", "d4/df2/a19596.html#ade88d8f4d4fd32155b87dfba75084f4c", null ],
-    [ "DamageTaken", "d4/df2/a19596.html#a2580575a58353e8cb94561bafd74f502", null ],
-    [ "EnterEvadeMode", "d4/df2/a19596.html#a9240adcfe966f11c925db82add432aa5", null ],
-    [ "EnterSeedPod", "d4/df2/a19596.html#a070554a809ba40726d005fdba19a16b0", null ],
-    [ "JustEngagedWith", "d4/df2/a19596.html#a91e8c4015b9b238fd2144999bcef9362", null ],
-    [ "LeaveSeedPod", "d4/df2/a19596.html#afe6ba31b18fa65aaa15daad3101149c2", null ],
-    [ "Reset", "d4/df2/a19596.html#a5baa6491ee0205b2b2e7bc8e6cd9a163", null ],
-    [ "UpdateAI", "d4/df2/a19596.html#ab494a601b9a5dc3d4c3c303bc4de3a94", null ],
-    [ "_allowDeath", "d4/df2/a19596.html#adc85054030146067d2cff47db2886a07", null ],
-    [ "_inSeedPod", "d4/df2/a19596.html#a26e0c5f780bc661796f922c52000c30a", null ],
-    [ "_scheduler", "d4/df2/a19596.html#a1faafa1c39716f7679ca0b2b2f10a641", null ]
+    [ "boss_thaddiusAI", "d4/df2/a19596.html#a8a25d56cb38b755fec6f18a9616632e2", null ],
+    [ "DoAction", "d4/df2/a19596.html#aa9697fa990b9d84f3cc9496df1cb4234", null ],
+    [ "IsAnyPlayerInMeleeRange", "d4/df2/a19596.html#aa5175bb29e16c1c421cf16207e890d57", null ],
+    [ "JustDied", "d4/df2/a19596.html#a2ec7bfa46d972cdd857289693acdc965", null ],
+    [ "JustEngagedWith", "d4/df2/a19596.html#a52ec355e0ddd2a29b06b473303941b46", null ],
+    [ "JustSummoned", "d4/df2/a19596.html#a1aa9a09089a2070eda14fda1bc51f0fe", null ],
+    [ "KilledUnit", "d4/df2/a19596.html#a94f7852267620b0a77c2e1003f080589", null ],
+    [ "Reset", "d4/df2/a19596.html#ae7b69b5e83fdbaa3df25dda989eeaf07", null ],
+    [ "UpdateAI", "d4/df2/a19596.html#a5eef08082268fa181d4d396fc952dbcd", null ],
+    [ "ballLightningEnabled", "d4/df2/a19596.html#a487582d59f0d717c3ec53679ad36f99a", null ],
+    [ "resetTimer", "d4/df2/a19596.html#aba9f23389d5f6724883dc9f7e607a351", null ],
+    [ "reviveTimer", "d4/df2/a19596.html#a11388e745e81c3ad8ba7d97812a17203", null ],
+    [ "summonTimer", "d4/df2/a19596.html#a82288ef27f720b5f0f84bfd0ac6b9ccb", null ]
 ];

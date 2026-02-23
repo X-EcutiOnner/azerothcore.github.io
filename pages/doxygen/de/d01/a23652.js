@@ -1,11 +1,8 @@
 var a23652 =
 [
-    [ "boss_gruul", "de/d01/a23652.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
-    [ "JustDied", "de/d01/a23652.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
-    [ "JustEngagedWith", "de/d01/a23652.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
-    [ "KilledUnit", "de/d01/a23652.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
-    [ "Reset", "de/d01/a23652.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
-    [ "UpdateAI", "de/d01/a23652.html#a3503b84f4fb896d439ccd49a997e4087", null ],
-    [ "_caveInTimer", "de/d01/a23652.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
-    [ "_recentlySpoken", "de/d01/a23652.html#a411ec67153dd4715eb397a420c45bb12", null ]
+    [ "boss_commander_sarannis", "de/d01/a23652.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "de/d01/a23652.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "de/d01/a23652.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "de/d01/a23652.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "de/d01/a23652.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

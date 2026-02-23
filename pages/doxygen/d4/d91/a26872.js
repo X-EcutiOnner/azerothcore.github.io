@@ -1,8 +1,6 @@
 var a26872 =
 [
-    [ "HandleRootRemove", "d4/d91/a26872.html#a9678ce2254825b67eb7a16312e960ba9", null ],
-    [ "HandleSnareRemove", "d4/d91/a26872.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
-    [ "PrepareSpellScript", "d4/d91/a26872.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
-    [ "Register", "d4/d91/a26872.html#a119675dccea898932ca090577022b6ba", null ],
-    [ "Validate", "d4/d91/a26872.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
+    [ "HandleProc", "d4/d91/a26872.html#ac81521531646341356525465bac2a816", null ],
+    [ "PrepareAuraScript", "d4/d91/a26872.html#aa57cede2bfc6354c8b95410d8fb50575", null ],
+    [ "Register", "d4/d91/a26872.html#a8daf8414ff4705741dfed0e818607741", null ]
 ];

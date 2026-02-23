@@ -1,6 +1,7 @@
 var a26660 =
 [
-    [ "HandleDummy", "df/dce/a26660.html#aee5967205738ebaef70e1105e8d91b2c", null ],
-    [ "PrepareSpellScript", "df/dce/a26660.html#a1ef5914adfd2c951a68f50658852e095", null ],
-    [ "Register", "df/dce/a26660.html#af42b6d5a5fbb5eb84773818594813afc", null ]
+    [ "HandleProc", "df/dce/a26660.html#a342163af13b2282b97792972da490f98", null ],
+    [ "PrepareAuraScript", "df/dce/a26660.html#a2d72ba251ca9ccfd1e2d84a23c539719", null ],
+    [ "Register", "df/dce/a26660.html#ac474d006203de8eceb93e50c6430e603", null ],
+    [ "Validate", "df/dce/a26660.html#a831d13676b4ef44f44cb17ba077b7943", null ]
 ];

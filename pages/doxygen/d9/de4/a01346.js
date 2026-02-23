@@ -1,5 +1,5 @@
 var a01346 =
 [
-    [ "BuildPartyLockDungeonBlock", "d9/de4/a01346.html#ad66b117794d47e10cfd7ba8bd40d4291", null ],
-    [ "BuildPlayerLockDungeonBlock", "d9/de4/a01346.html#aded010efcdae2fc43acfab5ff8fbf4ad", null ]
+    [ "AreaTriggerScript", "db/da2/a10464.html", "db/da2/a10464" ],
+    [ "OnlyOnceAreaTriggerScript", "dc/dce/a10468.html", "dc/dce/a10468" ]
 ];

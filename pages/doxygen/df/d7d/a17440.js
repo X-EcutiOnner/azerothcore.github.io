@@ -1,7 +1,7 @@
 var a17440 =
 [
-    [ "HandleDummy", "df/d7d/a17440.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
-    [ "PrepareSpellScript", "df/d7d/a17440.html#a3ef0564565ea49265800422c835432b0", null ],
-    [ "Register", "df/d7d/a17440.html#a7b685926a8d511397889616e97bbd563", null ],
-    [ "Validate", "df/d7d/a17440.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
+    [ "HandlePeriodicTick", "df/d7d/a17440.html#ac8b3f1a826e3491d4315983a89d23d2e", null ],
+    [ "PrepareAuraScript", "df/d7d/a17440.html#ad54c3014195c5b848ab1f9cc978f72b3", null ],
+    [ "Register", "df/d7d/a17440.html#af8e1ee8ddf7ed8290eb71fb7697428fb", null ],
+    [ "Validate", "df/d7d/a17440.html#a6de2140f17790b63314f653b7dd0ddd3", null ]
 ];

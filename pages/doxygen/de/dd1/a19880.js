@@ -1,6 +1,7 @@
 var a19880 =
 [
-    [ "npc_collapsing_starAI", "de/dd1/a19880.html#ac389b380a8f315ae50a8cd809393a773", null ],
-    [ "DamageTaken", "de/dd1/a19880.html#a424fac98093eb9d02cda5027523ad06a", null ],
-    [ "JustSummoned", "de/dd1/a19880.html#ae70fcb66171fe5f87d96aaf2f52e35bc", null ]
+    [ "HandleOnEffectApply", "de/dd1/a19880.html#a4841f7a44f5df964c4eb9965383fd747", null ],
+    [ "PrepareAuraScript", "de/dd1/a19880.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
+    [ "Register", "de/dd1/a19880.html#a68fba646552678744f49d10b59704a35", null ],
+    [ "Validate", "de/dd1/a19880.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
 ];

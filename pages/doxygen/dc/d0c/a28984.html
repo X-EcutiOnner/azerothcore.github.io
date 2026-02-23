@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: MPQFile Class Reference</title>
+<title>AzerothCore: ChrRacesEntry Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,88 +106,44 @@ $(document).ready(function(){initNavTree('dc/d0c/a28984.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d7/d5f/a28981.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">MPQFile Class Reference</div></div>
+  <div class="headertitle"><div class="title">ChrRacesEntry Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">mpq_libmpq04.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">DBCStructure.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a52b375817a88514d9215330b20367a0a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a52b375817a88514d9215330b20367a0a">MPQFile</a> (const char *filename)</td></tr>
-<tr class="separator:a52b375817a88514d9215330b20367a0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3e13eec8960a2e58a475c7662ef3b053"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a3e13eec8960a2e58a475c7662ef3b053">~MPQFile</a> ()</td></tr>
-<tr class="separator:a3e13eec8960a2e58a475c7662ef3b053"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aac2ac24cd080cae5575030e10bfd37d9"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#aac2ac24cd080cae5575030e10bfd37d9">read</a> (void *dest, std::size_t bytes)</td></tr>
-<tr class="separator:aac2ac24cd080cae5575030e10bfd37d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a081e78701a7cd8b1f3fdb144f6217e1c"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a081e78701a7cd8b1f3fdb144f6217e1c">getSize</a> ()</td></tr>
-<tr class="separator:a081e78701a7cd8b1f3fdb144f6217e1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad478a7160aa98e69d09b099ea7875d12"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#ad478a7160aa98e69d09b099ea7875d12">getPos</a> ()</td></tr>
-<tr class="separator:ad478a7160aa98e69d09b099ea7875d12"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae14c3b577bc3b9a5bd26a88a1cc01b8e"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#ae14c3b577bc3b9a5bd26a88a1cc01b8e">getBuffer</a> ()</td></tr>
-<tr class="separator:ae14c3b577bc3b9a5bd26a88a1cc01b8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a51ae51b7a96f945592022a036f07b5b0"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a51ae51b7a96f945592022a036f07b5b0">getPointer</a> ()</td></tr>
-<tr class="separator:a51ae51b7a96f945592022a036f07b5b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a62a74189592453dfdaf3643f80666612"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a62a74189592453dfdaf3643f80666612">isEof</a> ()</td></tr>
-<tr class="separator:a62a74189592453dfdaf3643f80666612"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa15126433e926782f61bec0e1a8329b1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#aa15126433e926782f61bec0e1a8329b1">seek</a> (int offset)</td></tr>
-<tr class="separator:aa15126433e926782f61bec0e1a8329b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad180e1b456b089215cba4b2cb50e50a6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#ad180e1b456b089215cba4b2cb50e50a6">seekRelative</a> (int offset)</td></tr>
-<tr class="separator:ad180e1b456b089215cba4b2cb50e50a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8baf32918a435662a426c76a8c78fbd8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a8baf32918a435662a426c76a8c78fbd8">close</a> ()</td></tr>
-<tr class="separator:a8baf32918a435662a426c76a8c78fbd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a52b375817a88514d9215330b20367a0a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a52b375817a88514d9215330b20367a0a">MPQFile</a> (const char *filename)</td></tr>
-<tr class="separator:a52b375817a88514d9215330b20367a0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3e13eec8960a2e58a475c7662ef3b053"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a3e13eec8960a2e58a475c7662ef3b053">~MPQFile</a> ()</td></tr>
-<tr class="separator:a3e13eec8960a2e58a475c7662ef3b053"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aac2ac24cd080cae5575030e10bfd37d9"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#aac2ac24cd080cae5575030e10bfd37d9">read</a> (void *dest, std::size_t bytes)</td></tr>
-<tr class="separator:aac2ac24cd080cae5575030e10bfd37d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a081e78701a7cd8b1f3fdb144f6217e1c"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a081e78701a7cd8b1f3fdb144f6217e1c">getSize</a> ()</td></tr>
-<tr class="separator:a081e78701a7cd8b1f3fdb144f6217e1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad478a7160aa98e69d09b099ea7875d12"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#ad478a7160aa98e69d09b099ea7875d12">getPos</a> ()</td></tr>
-<tr class="separator:ad478a7160aa98e69d09b099ea7875d12"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae14c3b577bc3b9a5bd26a88a1cc01b8e"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#ae14c3b577bc3b9a5bd26a88a1cc01b8e">getBuffer</a> ()</td></tr>
-<tr class="separator:ae14c3b577bc3b9a5bd26a88a1cc01b8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a51ae51b7a96f945592022a036f07b5b0"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a51ae51b7a96f945592022a036f07b5b0">getPointer</a> ()</td></tr>
-<tr class="separator:a51ae51b7a96f945592022a036f07b5b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a62a74189592453dfdaf3643f80666612"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a62a74189592453dfdaf3643f80666612">isEof</a> ()</td></tr>
-<tr class="separator:a62a74189592453dfdaf3643f80666612"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa15126433e926782f61bec0e1a8329b1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#aa15126433e926782f61bec0e1a8329b1">seek</a> (int offset)</td></tr>
-<tr class="separator:aa15126433e926782f61bec0e1a8329b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad180e1b456b089215cba4b2cb50e50a6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#ad180e1b456b089215cba4b2cb50e50a6">seekRelative</a> (int offset)</td></tr>
-<tr class="separator:ad180e1b456b089215cba4b2cb50e50a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8baf32918a435662a426c76a8c78fbd8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a8baf32918a435662a426c76a8c78fbd8">close</a> ()</td></tr>
-<tr class="separator:a8baf32918a435662a426c76a8c78fbd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5d13e1af17cddf3acdbfc5387869e43f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a5d13e1af17cddf3acdbfc5387869e43f">HasFlag</a> (<a class="el" href="../../d0/dd2/a04190.html#a86846f30ebbb1a9ce21222e1a3e26494">ChrRacesFlags</a> flag) const</td></tr>
+<tr class="separator:a5d13e1af17cddf3acdbfc5387869e43f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:ad2d7fd3b57fb38b9f0b7cab28b0c783e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#ad2d7fd3b57fb38b9f0b7cab28b0c783e">MPQFile</a> (const <a class="el" href="../../dc/d0c/a28984.html">MPQFile</a> &amp;)</td></tr>
-<tr class="separator:ad2d7fd3b57fb38b9f0b7cab28b0c783e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae25135399b2ce5bf0782897f5df791dc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#ae25135399b2ce5bf0782897f5df791dc">operator=</a> (const <a class="el" href="../../dc/d0c/a28984.html">MPQFile</a> &amp;)</td></tr>
-<tr class="separator:ae25135399b2ce5bf0782897f5df791dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad2d7fd3b57fb38b9f0b7cab28b0c783e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#ad2d7fd3b57fb38b9f0b7cab28b0c783e">MPQFile</a> (const <a class="el" href="../../dc/d0c/a28984.html">MPQFile</a> &amp;)</td></tr>
-<tr class="separator:ad2d7fd3b57fb38b9f0b7cab28b0c783e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae25135399b2ce5bf0782897f5df791dc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#ae25135399b2ce5bf0782897f5df791dc">operator=</a> (const <a class="el" href="../../dc/d0c/a28984.html">MPQFile</a> &amp;)</td></tr>
-<tr class="separator:ae25135399b2ce5bf0782897f5df791dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:ae17eee1ec4d2f5f5f794d2373b919bdb"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a></td></tr>
-<tr class="separator:ae17eee1ec4d2f5f5f794d2373b919bdb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a632260ab84b019c9174a832d447e7691"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a632260ab84b019c9174a832d447e7691">buffer</a></td></tr>
-<tr class="separator:a632260ab84b019c9174a832d447e7691"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad8612ecd51a6c0dd226a936965753bdc"><td class="memItemLeft" align="right" valign="top">libmpq__off_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a></td></tr>
-<tr class="separator:ad8612ecd51a6c0dd226a936965753bdc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a90c76a3897be11f681f021e6d0e9e418"><td class="memItemLeft" align="right" valign="top">libmpq__off_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a90c76a3897be11f681f021e6d0e9e418">size</a></td></tr>
-<tr class="separator:a90c76a3897be11f681f021e6d0e9e418"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a853f3262af3408cf2791e7cd08ec8d32"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a853f3262af3408cf2791e7cd08ec8d32">RaceID</a></td></tr>
+<tr class="separator:a853f3262af3408cf2791e7cd08ec8d32"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c2d30fb87284806a93d4c1da4a6edb0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a8c2d30fb87284806a93d4c1da4a6edb0">Flags</a></td></tr>
+<tr class="separator:a8c2d30fb87284806a93d4c1da4a6edb0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5c66801f2f89aeb847699a2dd87486c7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a5c66801f2f89aeb847699a2dd87486c7">FactionID</a></td></tr>
+<tr class="separator:a5c66801f2f89aeb847699a2dd87486c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a50b5409352d7fe3e6f5919d83c9a0eae"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a50b5409352d7fe3e6f5919d83c9a0eae">model_m</a></td></tr>
+<tr class="separator:a50b5409352d7fe3e6f5919d83c9a0eae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4807227fd863e247b18d29db0ea8236a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a4807227fd863e247b18d29db0ea8236a">model_f</a></td></tr>
+<tr class="separator:a4807227fd863e247b18d29db0ea8236a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:addd21f5fbf6868e7cf2cd3c54c7172a1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#addd21f5fbf6868e7cf2cd3c54c7172a1">TeamID</a></td></tr>
+<tr class="separator:addd21f5fbf6868e7cf2cd3c54c7172a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a33a01b1c26b21706d9898af246f2a0df"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a33a01b1c26b21706d9898af246f2a0df">CinematicSequence</a></td></tr>
+<tr class="separator:a33a01b1c26b21706d9898af246f2a0df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4970323e45feb3f74b47420648371ab6"><td class="memItemLeft" align="right" valign="top">char const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#a4970323e45feb3f74b47420648371ab6">name</a> [16]</td></tr>
+<tr class="separator:a4970323e45feb3f74b47420648371ab6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab6547f8b08d4d1bf57a37f9574b71e43"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html#ab6547f8b08d4d1bf57a37f9574b71e43">expansion</a></td></tr>
+<tr class="separator:ab6547f8b08d4d1bf57a37f9574b71e43"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ad2d7fd3b57fb38b9f0b7cab28b0c783e" name="ad2d7fd3b57fb38b9f0b7cab28b0c783e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad2d7fd3b57fb38b9f0b7cab28b0c783e">&#9670;&#160;</a></span>MPQFile() <span class="overload">[1/4]</span></h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a5d13e1af17cddf3acdbfc5387869e43f" name="a5d13e1af17cddf3acdbfc5387869e43f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5d13e1af17cddf3acdbfc5387869e43f">&#9670;&#160;</a></span>HasFlag()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -196,95 +152,11 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">MPQFile::MPQFile </td>
+          <td class="memname">bool ChrRacesEntry::HasFlag </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="../../dc/d0c/a28984.html">MPQFile</a> &amp;&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   81</span>{}</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a52b375817a88514d9215330b20367a0a" name="a52b375817a88514d9215330b20367a0a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a52b375817a88514d9215330b20367a0a">&#9670;&#160;</a></span>MPQFile() <span class="overload">[2/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">MPQFile::MPQFile </td>
-          <td>(</td>
-          <td class="paramtype">const char *&#160;</td>
-          <td class="paramname"><em>filename</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   62</span>                                    :</div>
-<div class="line"><span class="lineno">   63</span>    <a class="code hl_variable" href="../../dc/d0c/a28984.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a>(<span class="keyword">false</span>),</div>
-<div class="line"><span class="lineno">   64</span>    <a class="code hl_variable" href="../../dc/d0c/a28984.html#a632260ab84b019c9174a832d447e7691">buffer</a>(<span class="keyword">nullptr</span>),</div>
-<div class="line"><span class="lineno">   65</span>    <a class="code hl_variable" href="../../dc/d0c/a28984.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a>(0),</div>
-<div class="line"><span class="lineno">   66</span>    <a class="code hl_variable" href="../../dc/d0c/a28984.html#a90c76a3897be11f681f021e6d0e9e418">size</a>(0)</div>
-<div class="line"><span class="lineno">   67</span>{</div>
-<div class="line"><span class="lineno">   68</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> &amp; gOpenArchive : <a class="code hl_variable" href="../../d9/db6/a29980.html#a8ae40ebe73635e831bc65b70e7f97f3c">gOpenArchives</a>)</div>
-<div class="line"><span class="lineno">   69</span>    {</div>
-<div class="line"><span class="lineno">   70</span>        mpq_archive* mpq_a = gOpenArchive-&gt;mpq_a;</div>
-<div class="line"><span class="lineno">   71</span> </div>
-<div class="line"><span class="lineno">   72</span>        uint32_t filenum;</div>
-<div class="line"><span class="lineno">   73</span>        <span class="keywordflow">if</span> (libmpq__file_number(mpq_a, filename, &amp;filenum)) <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">   74</span>        libmpq__off_t transferred;</div>
-<div class="line"><span class="lineno">   75</span>        libmpq__file_unpacked_size(mpq_a, filenum, &amp;<a class="code hl_variable" href="../../dc/d0c/a28984.html#a90c76a3897be11f681f021e6d0e9e418">size</a>);</div>
-<div class="line"><span class="lineno">   76</span> </div>
-<div class="line"><span class="lineno">   77</span>        <span class="comment">// HACK: in patch.mpq some files don&#39;t want to open and give 1 for filesize</span></div>
-<div class="line"><span class="lineno">   78</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/d0c/a28984.html#a90c76a3897be11f681f021e6d0e9e418">size</a> &lt;= 1)</div>
-<div class="line"><span class="lineno">   79</span>        {</div>
-<div class="line"><span class="lineno">   80</span>            <span class="comment">//            printf(&quot;warning: file %s has size %d; cannot read.\n&quot;, filename, size);</span></div>
-<div class="line"><span class="lineno">   81</span>            <a class="code hl_variable" href="../../dc/d0c/a28984.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   82</span>            <a class="code hl_variable" href="../../dc/d0c/a28984.html#a632260ab84b019c9174a832d447e7691">buffer</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   83</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   84</span>        }</div>
-<div class="line"><span class="lineno">   85</span>        <a class="code hl_variable" href="../../dc/d0c/a28984.html#a632260ab84b019c9174a832d447e7691">buffer</a> = <span class="keyword">new</span> <span class="keywordtype">char</span>[<a class="code hl_variable" href="../../dc/d0c/a28984.html#a90c76a3897be11f681f021e6d0e9e418">size</a>];</div>
-<div class="line"><span class="lineno">   86</span> </div>
-<div class="line"><span class="lineno">   87</span>        <span class="comment">//libmpq_file_getdata</span></div>
-<div class="line"><span class="lineno">   88</span>        libmpq__file_read(mpq_a, filenum, (<span class="keywordtype">unsigned</span> <span class="keywordtype">char</span>*)<a class="code hl_variable" href="../../dc/d0c/a28984.html#a632260ab84b019c9174a832d447e7691">buffer</a>, <a class="code hl_variable" href="../../dc/d0c/a28984.html#a90c76a3897be11f681f021e6d0e9e418">size</a>, &amp;transferred);</div>
-<div class="line"><span class="lineno">   89</span>        <span class="comment">/*libmpq_file_getdata(&amp;mpq_a, hash, fileno, (unsigned char*)buffer);*/</span></div>
-<div class="line"><span class="lineno">   90</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   91</span>    }</div>
-<div class="line"><span class="lineno">   92</span>    <a class="code hl_variable" href="../../dc/d0c/a28984.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   93</span>    <a class="code hl_variable" href="../../dc/d0c/a28984.html#a632260ab84b019c9174a832d447e7691">buffer</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   94</span>}</div>
-<div class="ttc" id="aa28984_html_a632260ab84b019c9174a832d447e7691"><div class="ttname"><a href="../../dc/d0c/a28984.html#a632260ab84b019c9174a832d447e7691">MPQFile::buffer</a></div><div class="ttdeci">char * buffer</div><div class="ttdef"><b>Definition:</b> mpq_libmpq04.h:77</div></div>
-<div class="ttc" id="aa28984_html_a90c76a3897be11f681f021e6d0e9e418"><div class="ttname"><a href="../../dc/d0c/a28984.html#a90c76a3897be11f681f021e6d0e9e418">MPQFile::size</a></div><div class="ttdeci">libmpq__off_t size</div><div class="ttdef"><b>Definition:</b> mpq_libmpq04.h:78</div></div>
-<div class="ttc" id="aa28984_html_ad8612ecd51a6c0dd226a936965753bdc"><div class="ttname"><a href="../../dc/d0c/a28984.html#ad8612ecd51a6c0dd226a936965753bdc">MPQFile::pointer</a></div><div class="ttdeci">libmpq__off_t pointer</div><div class="ttdef"><b>Definition:</b> mpq_libmpq04.h:78</div></div>
-<div class="ttc" id="aa28984_html_ae17eee1ec4d2f5f5f794d2373b919bdb"><div class="ttname"><a href="../../dc/d0c/a28984.html#ae17eee1ec4d2f5f5f794d2373b919bdb">MPQFile::eof</a></div><div class="ttdeci">bool eof</div><div class="ttdef"><b>Definition:</b> mpq_libmpq04.h:76</div></div>
-<div class="ttc" id="aa29980_html_a8ae40ebe73635e831bc65b70e7f97f3c"><div class="ttname"><a href="../../d9/db6/a29980.html#a8ae40ebe73635e831bc65b70e7f97f3c">gOpenArchives</a></div><div class="ttdeci">ArchiveSet gOpenArchives</div><div class="ttdef"><b>Definition:</b> mpq_libmpq.cpp:22</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">buffer</a>, <a class="el" href="../../#l00076">eof</a>, <a class="el" href="../../#l00022">gOpenArchives</a>, and <a class="el" href="../../#l00078">size</a>.</p>
-
-</div>
-</div>
-<a id="a3e13eec8960a2e58a475c7662ef3b053" name="a3e13eec8960a2e58a475c7662ef3b053"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3e13eec8960a2e58a475c7662ef3b053">&#9670;&#160;</a></span>~MPQFile() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">MPQFile::~MPQFile </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/dd2/a04190.html#a86846f30ebbb1a9ce21222e1a3e26494">ChrRacesFlags</a>&#160;</td>
+          <td class="paramname"><em>flag</em></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
@@ -293,732 +165,151 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   86</span>{ <a class="code hl_function" href="../../dc/d0c/a28984.html#a8baf32918a435662a426c76a8c78fbd8">close</a>(); }</div>
-<div class="ttc" id="aa28984_html_a8baf32918a435662a426c76a8c78fbd8"><div class="ttname"><a href="../../dc/d0c/a28984.html#a8baf32918a435662a426c76a8c78fbd8">MPQFile::close</a></div><div class="ttdeci">void close()</div><div class="ttdef"><b>Definition:</b> mpq_libmpq.cpp:126</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  700</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../dc/d0c/a28984.html#a8c2d30fb87284806a93d4c1da4a6edb0">Flags</a> &amp; flag) != 0; }</div>
+<div class="ttc" id="aa28984_html_a8c2d30fb87284806a93d4c1da4a6edb0"><div class="ttname"><a href="../../dc/d0c/a28984.html#a8c2d30fb87284806a93d4c1da4a6edb0">ChrRacesEntry::Flags</a></div><div class="ttdeci">uint32 Flags</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:681</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00126">close()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00681">Flags</a>.</p>
 
-</div>
-</div>
-<a id="ad2d7fd3b57fb38b9f0b7cab28b0c783e" name="ad2d7fd3b57fb38b9f0b7cab28b0c783e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad2d7fd3b57fb38b9f0b7cab28b0c783e">&#9670;&#160;</a></span>MPQFile() <span class="overload">[3/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">MPQFile::MPQFile </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="../../dc/d0c/a28984.html">MPQFile</a> &amp;&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   82</span>{}</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a52b375817a88514d9215330b20367a0a" name="a52b375817a88514d9215330b20367a0a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a52b375817a88514d9215330b20367a0a">&#9670;&#160;</a></span>MPQFile() <span class="overload">[4/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">MPQFile::MPQFile </td>
-          <td>(</td>
-          <td class="paramtype">const char *&#160;</td>
-          <td class="paramname"><em>filename</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a3e13eec8960a2e58a475c7662ef3b053" name="a3e13eec8960a2e58a475c7662ef3b053"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3e13eec8960a2e58a475c7662ef3b053">&#9670;&#160;</a></span>~MPQFile() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">MPQFile::~MPQFile </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   87</span>{ <a class="code hl_function" href="../../dc/d0c/a28984.html#a8baf32918a435662a426c76a8c78fbd8">close</a>(); }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00126">close()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a8baf32918a435662a426c76a8c78fbd8" name="a8baf32918a435662a426c76a8c78fbd8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8baf32918a435662a426c76a8c78fbd8">&#9670;&#160;</a></span>close() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void MPQFile::close </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  127</span>{</div>
-<div class="line"><span class="lineno">  128</span>    <span class="keyword">delete</span>[] <a class="code hl_variable" href="../../dc/d0c/a28984.html#a632260ab84b019c9174a832d447e7691">buffer</a>;</div>
-<div class="line"><span class="lineno">  129</span>    <a class="code hl_variable" href="../../dc/d0c/a28984.html#a632260ab84b019c9174a832d447e7691">buffer</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  130</span>    <a class="code hl_variable" href="../../dc/d0c/a28984.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  131</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">buffer</a>, and <a class="el" href="../../#l00076">eof</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00084">ADTFile::init()</a>, <a class="el" href="../../#l00038">WDTFile::init()</a>, <a class="el" href="../../#l00040">FileLoader::loadFile()</a>, <a class="el" href="../../#l00029">DBCFile::open()</a>, <a class="el" href="../../#l00032">Model::open()</a>, <a class="el" href="../../#l00038">WMORoot::open()</a>, <a class="el" href="../../#l00172">WMOGroup::open()</a>, <a class="el" href="../../#l00235">ReadBuild()</a>, <a class="el" href="../../#l00197">ADTFile::~ADTFile()</a>, <a class="el" href="../../#l00086">~MPQFile()</a>, and <a class="el" href="../../#l00117">WDTFile::~WDTFile()</a>.</p>
-
-</div>
-</div>
-<a id="a8baf32918a435662a426c76a8c78fbd8" name="a8baf32918a435662a426c76a8c78fbd8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8baf32918a435662a426c76a8c78fbd8">&#9670;&#160;</a></span>close() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void MPQFile::close </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ae14c3b577bc3b9a5bd26a88a1cc01b8e" name="ae14c3b577bc3b9a5bd26a88a1cc01b8e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae14c3b577bc3b9a5bd26a88a1cc01b8e">&#9670;&#160;</a></span>getBuffer() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">char * MPQFile::getBuffer </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   90</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d0c/a28984.html#a632260ab84b019c9174a832d447e7691">buffer</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">buffer</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00032">Model::open()</a>.</p>
-
-</div>
-</div>
-<a id="ae14c3b577bc3b9a5bd26a88a1cc01b8e" name="ae14c3b577bc3b9a5bd26a88a1cc01b8e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae14c3b577bc3b9a5bd26a88a1cc01b8e">&#9670;&#160;</a></span>getBuffer() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">char * MPQFile::getBuffer </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   91</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d0c/a28984.html#a632260ab84b019c9174a832d447e7691">buffer</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">buffer</a>.</p>
-
-</div>
-</div>
-<a id="a51ae51b7a96f945592022a036f07b5b0" name="a51ae51b7a96f945592022a036f07b5b0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a51ae51b7a96f945592022a036f07b5b0">&#9670;&#160;</a></span>getPointer() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">char * MPQFile::getPointer </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   91</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d0c/a28984.html#a632260ab84b019c9174a832d447e7691">buffer</a> + <a class="code hl_variable" href="../../dc/d0c/a28984.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">buffer</a>, and <a class="el" href="../../#l00078">pointer</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01022">ExtractFile()</a>, <a class="el" href="../../#l00038">WMORoot::open()</a>, and <a class="el" href="../../#l00235">ReadBuild()</a>.</p>
-
-</div>
-</div>
-<a id="a51ae51b7a96f945592022a036f07b5b0" name="a51ae51b7a96f945592022a036f07b5b0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a51ae51b7a96f945592022a036f07b5b0">&#9670;&#160;</a></span>getPointer() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">char * MPQFile::getPointer </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   92</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d0c/a28984.html#a632260ab84b019c9174a832d447e7691">buffer</a> + <a class="code hl_variable" href="../../dc/d0c/a28984.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">buffer</a>, and <a class="el" href="../../#l00078">pointer</a>.</p>
-
-</div>
-</div>
-<a id="ad478a7160aa98e69d09b099ea7875d12" name="ad478a7160aa98e69d09b099ea7875d12"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad478a7160aa98e69d09b099ea7875d12">&#9670;&#160;</a></span>getPos() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::size_t MPQFile::getPos </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   89</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d0c/a28984.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00078">pointer</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00084">ADTFile::init()</a>, <a class="el" href="../../#l00038">WDTFile::init()</a>, <a class="el" href="../../#l00038">WMORoot::open()</a>, and <a class="el" href="../../#l00172">WMOGroup::open()</a>.</p>
-
-</div>
-</div>
-<a id="ad478a7160aa98e69d09b099ea7875d12" name="ad478a7160aa98e69d09b099ea7875d12"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad478a7160aa98e69d09b099ea7875d12">&#9670;&#160;</a></span>getPos() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::size_t MPQFile::getPos </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   90</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d0c/a28984.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00078">pointer</a>.</p>
-
-</div>
-</div>
-<a id="a081e78701a7cd8b1f3fdb144f6217e1c" name="a081e78701a7cd8b1f3fdb144f6217e1c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a081e78701a7cd8b1f3fdb144f6217e1c">&#9670;&#160;</a></span>getSize() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::size_t MPQFile::getSize </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   88</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d0c/a28984.html#a90c76a3897be11f681f021e6d0e9e418">size</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00078">size</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01022">ExtractFile()</a>, <a class="el" href="../../#l00040">FileLoader::loadFile()</a>, and <a class="el" href="../../#l00235">ReadBuild()</a>.</p>
-
-</div>
-</div>
-<a id="a081e78701a7cd8b1f3fdb144f6217e1c" name="a081e78701a7cd8b1f3fdb144f6217e1c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a081e78701a7cd8b1f3fdb144f6217e1c">&#9670;&#160;</a></span>getSize() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::size_t MPQFile::getSize </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   89</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d0c/a28984.html#a90c76a3897be11f681f021e6d0e9e418">size</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00078">size</a>.</p>
-
-</div>
-</div>
-<a id="a62a74189592453dfdaf3643f80666612" name="a62a74189592453dfdaf3643f80666612"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a62a74189592453dfdaf3643f80666612">&#9670;&#160;</a></span>isEof() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool MPQFile::isEof </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   92</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d0c/a28984.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">eof</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01022">ExtractFile()</a>, <a class="el" href="../../#l00084">ADTFile::init()</a>, <a class="el" href="../../#l00038">WDTFile::init()</a>, <a class="el" href="../../#l00040">FileLoader::loadFile()</a>, <a class="el" href="../../#l00032">Model::open()</a>, <a class="el" href="../../#l00038">WMORoot::open()</a>, <a class="el" href="../../#l00172">WMOGroup::open()</a>, and <a class="el" href="../../#l00235">ReadBuild()</a>.</p>
-
-</div>
-</div>
-<a id="a62a74189592453dfdaf3643f80666612" name="a62a74189592453dfdaf3643f80666612"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a62a74189592453dfdaf3643f80666612">&#9670;&#160;</a></span>isEof() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool MPQFile::isEof </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   93</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/d0c/a28984.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">eof</a>.</p>
-
-</div>
-</div>
-<a id="ae25135399b2ce5bf0782897f5df791dc" name="ae25135399b2ce5bf0782897f5df791dc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae25135399b2ce5bf0782897f5df791dc">&#9670;&#160;</a></span>operator=() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void MPQFile::operator= </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="../../dc/d0c/a28984.html">MPQFile</a> &amp;&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   82</span>{}</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ae25135399b2ce5bf0782897f5df791dc" name="ae25135399b2ce5bf0782897f5df791dc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae25135399b2ce5bf0782897f5df791dc">&#9670;&#160;</a></span>operator=() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void MPQFile::operator= </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="../../dc/d0c/a28984.html">MPQFile</a> &amp;&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   83</span>{}</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="aac2ac24cd080cae5575030e10bfd37d9" name="aac2ac24cd080cae5575030e10bfd37d9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aac2ac24cd080cae5575030e10bfd37d9">&#9670;&#160;</a></span>read() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::size_t MPQFile::read </td>
-          <td>(</td>
-          <td class="paramtype">void *&#160;</td>
-          <td class="paramname"><em>dest</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::size_t&#160;</td>
-          <td class="paramname"><em>bytes</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   97</span>{</div>
-<div class="line"><span class="lineno">   98</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/d0c/a28984.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a>) <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">   99</span> </div>
-<div class="line"><span class="lineno">  100</span>    std::size_t rpos = <a class="code hl_variable" href="../../dc/d0c/a28984.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a> + bytes;</div>
-<div class="line"><span class="lineno">  101</span>    <span class="keywordflow">if</span> (rpos &gt; std::size_t(<a class="code hl_variable" href="../../dc/d0c/a28984.html#a90c76a3897be11f681f021e6d0e9e418">size</a>))</div>
-<div class="line"><span class="lineno">  102</span>    {</div>
-<div class="line"><span class="lineno">  103</span>        bytes = <a class="code hl_variable" href="../../dc/d0c/a28984.html#a90c76a3897be11f681f021e6d0e9e418">size</a> - <a class="code hl_variable" href="../../dc/d0c/a28984.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a>;</div>
-<div class="line"><span class="lineno">  104</span>        <a class="code hl_variable" href="../../dc/d0c/a28984.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  105</span>    }</div>
-<div class="line"><span class="lineno">  106</span> </div>
-<div class="line"><span class="lineno">  107</span>    memcpy(dest, &amp;(<a class="code hl_variable" href="../../dc/d0c/a28984.html#a632260ab84b019c9174a832d447e7691">buffer</a>[<a class="code hl_variable" href="../../dc/d0c/a28984.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a>]), bytes);</div>
-<div class="line"><span class="lineno">  108</span> </div>
-<div class="line"><span class="lineno">  109</span>    <a class="code hl_variable" href="../../dc/d0c/a28984.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a> = rpos;</div>
-<div class="line"><span class="lineno">  110</span> </div>
-<div class="line"><span class="lineno">  111</span>    <span class="keywordflow">return</span> bytes;</div>
-<div class="line"><span class="lineno">  112</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">buffer</a>, <a class="el" href="../../#l00076">eof</a>, <a class="el" href="../../#l00078">pointer</a>, and <a class="el" href="../../#l00078">size</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00084">ADTFile::init()</a>, <a class="el" href="../../#l00038">WDTFile::init()</a>, <a class="el" href="../../#l00040">FileLoader::loadFile()</a>, <a class="el" href="../../#l00029">DBCFile::open()</a>, <a class="el" href="../../#l00032">Model::open()</a>, <a class="el" href="../../#l00038">WMORoot::open()</a>, and <a class="el" href="../../#l00172">WMOGroup::open()</a>.</p>
-
-</div>
-</div>
-<a id="aac2ac24cd080cae5575030e10bfd37d9" name="aac2ac24cd080cae5575030e10bfd37d9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aac2ac24cd080cae5575030e10bfd37d9">&#9670;&#160;</a></span>read() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::size_t MPQFile::read </td>
-          <td>(</td>
-          <td class="paramtype">void *&#160;</td>
-          <td class="paramname"><em>dest</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::size_t&#160;</td>
-          <td class="paramname"><em>bytes</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aa15126433e926782f61bec0e1a8329b1" name="aa15126433e926782f61bec0e1a8329b1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa15126433e926782f61bec0e1a8329b1">&#9670;&#160;</a></span>seek() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void MPQFile::seek </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>offset</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  115</span>{</div>
-<div class="line"><span class="lineno">  116</span>    <a class="code hl_variable" href="../../dc/d0c/a28984.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a> = offset;</div>
-<div class="line"><span class="lineno">  117</span>    <a class="code hl_variable" href="../../dc/d0c/a28984.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a> = (<a class="code hl_variable" href="../../dc/d0c/a28984.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a> &gt;= <a class="code hl_variable" href="../../dc/d0c/a28984.html#a90c76a3897be11f681f021e6d0e9e418">size</a>);</div>
-<div class="line"><span class="lineno">  118</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">eof</a>, <a class="el" href="../../#l00078">pointer</a>, and <a class="el" href="../../#l00078">size</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00084">ADTFile::init()</a>, <a class="el" href="../../#l00038">WDTFile::init()</a>, <a class="el" href="../../#l00032">Model::open()</a>, <a class="el" href="../../#l00038">WMORoot::open()</a>, and <a class="el" href="../../#l00172">WMOGroup::open()</a>.</p>
-
-</div>
-</div>
-<a id="aa15126433e926782f61bec0e1a8329b1" name="aa15126433e926782f61bec0e1a8329b1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa15126433e926782f61bec0e1a8329b1">&#9670;&#160;</a></span>seek() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void MPQFile::seek </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>offset</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ad180e1b456b089215cba4b2cb50e50a6" name="ad180e1b456b089215cba4b2cb50e50a6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad180e1b456b089215cba4b2cb50e50a6">&#9670;&#160;</a></span>seekRelative() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void MPQFile::seekRelative </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>offset</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  121</span>{</div>
-<div class="line"><span class="lineno">  122</span>    <a class="code hl_variable" href="../../dc/d0c/a28984.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a> += offset;</div>
-<div class="line"><span class="lineno">  123</span>    <a class="code hl_variable" href="../../dc/d0c/a28984.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a> = (<a class="code hl_variable" href="../../dc/d0c/a28984.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a> &gt;= <a class="code hl_variable" href="../../dc/d0c/a28984.html#a90c76a3897be11f681f021e6d0e9e418">size</a>);</div>
-<div class="line"><span class="lineno">  124</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">eof</a>, <a class="el" href="../../#l00078">pointer</a>, and <a class="el" href="../../#l00078">size</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00032">Model::open()</a>.</p>
-
-</div>
-</div>
-<a id="ad180e1b456b089215cba4b2cb50e50a6" name="ad180e1b456b089215cba4b2cb50e50a6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad180e1b456b089215cba4b2cb50e50a6">&#9670;&#160;</a></span>seekRelative() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void MPQFile::seekRelative </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>offset</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
+<p class="reference">Referenced by <a class="el" href="../../#l17478">Unit::IsInDisallowedMountForm()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a632260ab84b019c9174a832d447e7691" name="a632260ab84b019c9174a832d447e7691"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a632260ab84b019c9174a832d447e7691">&#9670;&#160;</a></span>buffer</h2>
+<a id="a33a01b1c26b21706d9898af246f2a0df" name="a33a01b1c26b21706d9898af246f2a0df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a33a01b1c26b21706d9898af246f2a0df">&#9670;&#160;</a></span>CinematicSequence</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">char * MPQFile::buffer</td>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ChrRacesEntry::CinematicSequence</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00126">close()</a>, <a class="el" href="../../#l00090">getBuffer()</a>, <a class="el" href="../../#l00091">getPointer()</a>, <a class="el" href="../../#l00062">MPQFile()</a>, and <a class="el" href="../../#l00096">read()</a>.</p>
-
 </div>
 </div>
-<a id="ae17eee1ec4d2f5f5f794d2373b919bdb" name="ae17eee1ec4d2f5f5f794d2373b919bdb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae17eee1ec4d2f5f5f794d2373b919bdb">&#9670;&#160;</a></span>eof</h2>
+<a id="ab6547f8b08d4d1bf57a37f9574b71e43" name="ab6547f8b08d4d1bf57a37f9574b71e43"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab6547f8b08d4d1bf57a37f9574b71e43">&#9670;&#160;</a></span>expansion</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool MPQFile::eof</td>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ChrRacesEntry::expansion</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00126">close()</a>, <a class="el" href="../../#l00092">isEof()</a>, <a class="el" href="../../#l00062">MPQFile()</a>, <a class="el" href="../../#l00096">read()</a>, <a class="el" href="../../#l00114">seek()</a>, and <a class="el" href="../../#l00120">seekRelative()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00272">WorldSession::HandleCharCreateOpcode()</a>.</p>
 
 </div>
 </div>
-<a id="ad8612ecd51a6c0dd226a936965753bdc" name="ad8612ecd51a6c0dd226a936965753bdc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad8612ecd51a6c0dd226a936965753bdc">&#9670;&#160;</a></span>pointer</h2>
+<a id="a5c66801f2f89aeb847699a2dd87486c7" name="a5c66801f2f89aeb847699a2dd87486c7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5c66801f2f89aeb847699a2dd87486c7">&#9670;&#160;</a></span>FactionID</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">libmpq__off_t MPQFile::pointer</td>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ChrRacesEntry::FactionID</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00091">getPointer()</a>, <a class="el" href="../../#l00089">getPos()</a>, <a class="el" href="../../#l00096">read()</a>, <a class="el" href="../../#l00114">seek()</a>, and <a class="el" href="../../#l00120">seekRelative()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l05842">Player::SetFactionForRace()</a>.</p>
 
 </div>
 </div>
-<a id="a90c76a3897be11f681f021e6d0e9e418" name="a90c76a3897be11f681f021e6d0e9e418"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a90c76a3897be11f681f021e6d0e9e418">&#9670;&#160;</a></span>size</h2>
+<a id="a8c2d30fb87284806a93d4c1da4a6edb0" name="a8c2d30fb87284806a93d4c1da4a6edb0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8c2d30fb87284806a93d4c1da4a6edb0">&#9670;&#160;</a></span>Flags</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">libmpq__off_t MPQFile::size</td>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ChrRacesEntry::Flags</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00088">getSize()</a>, <a class="el" href="../../#l00062">MPQFile()</a>, <a class="el" href="../../#l00096">read()</a>, <a class="el" href="../../#l00114">seek()</a>, and <a class="el" href="../../#l00120">seekRelative()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00700">HasFlag()</a>.</p>
+
+</div>
+</div>
+<a id="a4807227fd863e247b18d29db0ea8236a" name="a4807227fd863e247b18d29db0ea8236a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4807227fd863e247b18d29db0ea8236a">&#9670;&#160;</a></span>model_f</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ChrRacesEntry::model_f</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l04251">ObjectMgr::LoadPlayerInfo()</a>.</p>
+
+</div>
+</div>
+<a id="a50b5409352d7fe3e6f5919d83c9a0eae" name="a50b5409352d7fe3e6f5919d83c9a0eae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a50b5409352d7fe3e6f5919d83c9a0eae">&#9670;&#160;</a></span>model_m</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ChrRacesEntry::model_m</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l04251">ObjectMgr::LoadPlayerInfo()</a>.</p>
+
+</div>
+</div>
+<a id="a4970323e45feb3f74b47420648371ab6" name="a4970323e45feb3f74b47420648371ab6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4970323e45feb3f74b47420648371ab6">&#9670;&#160;</a></span>name</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">char const* ChrRacesEntry::name[16]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01048">World::DetectDBCLang()</a>.</p>
+
+</div>
+</div>
+<a id="a853f3262af3408cf2791e7cd08ec8d32" name="a853f3262af3408cf2791e7cd08ec8d32"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a853f3262af3408cf2791e7cd08ec8d32">&#9670;&#160;</a></span>RaceID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ChrRacesEntry::RaceID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="addd21f5fbf6868e7cf2cd3c54c7172a1" name="addd21f5fbf6868e7cf2cd3c54c7172a1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#addd21f5fbf6868e7cf2cd3c54c7172a1">&#9670;&#160;</a></span>TeamID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ChrRacesEntry::TeamID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -1027,8 +318,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dc/d0c/a28984.html">MPQFile</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:11:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dc/d0c/a28984.html">ChrRacesEntry</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:14:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

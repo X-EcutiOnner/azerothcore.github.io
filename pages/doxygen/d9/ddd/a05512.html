@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::ClassLevelLockable&lt; T, MUTEX &gt; Class Template Reference</title>
+<title>AzerothCore: Acore::Encoding::Base64 Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,116 +105,84 @@ $(document).ready(function(){initNavTree('d9/ddd/a05512.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-static-attribs">Static Private Attributes</a> &#124;
-<a href="#friends">Friends</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="../../da/d38/a05509.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::ClassLevelLockable&lt; T, MUTEX &gt; Class Template Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::Encoding::Base64 Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">ThreadingModel.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Base64.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd7/a05516.html">Lock</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a507181347374b55f335a9e872293c6e0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddd/a05512.html#a507181347374b55f335a9e872293c6e0">ClassLevelLockable</a> ()</td></tr>
-<tr class="separator:a507181347374b55f335a9e872293c6e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-static-attribs" name="pri-static-attribs"></a>
-Static Private Attributes</h2></td></tr>
-<tr class="memitem:a2bcba35930178d1cd094ed1c34320997"><td class="memItemLeft" align="right" valign="top">static MUTEX&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddd/a05512.html#a2bcba35930178d1cd094ed1c34320997">si_mtx</a></td></tr>
-<tr class="separator:a2bcba35930178d1cd094ed1c34320997"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
-Friends</h2></td></tr>
-<tr class="memitem:a5bf7608e05250fb524a1229bcf83ece3"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddd/a05512.html#a5bf7608e05250fb524a1229bcf83ece3">Lock</a></td></tr>
-<tr class="separator:a5bf7608e05250fb524a1229bcf83ece3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a2b0f76655d4e56d8a7aa9a98de87f6cf"><td class="memItemLeft" align="right" valign="top">static std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddd/a05512.html#a2b0f76655d4e56d8a7aa9a98de87f6cf">Encode</a> (std::vector&lt; <a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; const &amp;data)</td></tr>
+<tr class="separator:a2b0f76655d4e56d8a7aa9a98de87f6cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c18a834b227a8f60104100bd5c47df5"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../da/d9d/a04751.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; std::vector&lt; <a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddd/a05512.html#a9c18a834b227a8f60104100bd5c47df5">Decode</a> (std::string const &amp;data)</td></tr>
+<tr class="separator:a9c18a834b227a8f60104100bd5c47df5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;class T, class MUTEX&gt;<br />
-class Acore::ClassLevelLockable&lt; T, MUTEX &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a507181347374b55f335a9e872293c6e0" name="a507181347374b55f335a9e872293c6e0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a507181347374b55f335a9e872293c6e0">&#9670;&#160;</a></span>ClassLevelLockable()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a9c18a834b227a8f60104100bd5c47df5" name="a9c18a834b227a8f60104100bd5c47df5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9c18a834b227a8f60104100bd5c47df5">&#9670;&#160;</a></span>Decode()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class T , class MUTEX &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/ddd/a05512.html">Acore::ClassLevelLockable</a>&lt; T, MUTEX &gt;::ClassLevelLockable </td>
+          <td class="memname"><a class="el" href="../../da/d9d/a04751.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; std::vector&lt; <a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; &gt; Acore::Encoding::Base64::Decode </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>data</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  104</span>        {</div>
-<div class="line"><span class="lineno">  105</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">   55</span>{</div>
+<div class="line"><span class="lineno">   56</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d3/dd7/a05516.html#a1017c0ca9db8f38832271dbe04a6c22c">Acore::Impl::GenericBaseEncoding&lt;B64Impl&gt;::Decode</a>(data);</div>
+<div class="line"><span class="lineno">   57</span>}</div>
+<div class="ttc" id="aa05516_html_a1017c0ca9db8f38832271dbe04a6c22c"><div class="ttname"><a href="../../d3/dd7/a05516.html#a1017c0ca9db8f38832271dbe04a6c22c">Acore::Impl::GenericBaseEncoding::Decode</a></div><div class="ttdeci">static Optional&lt; std::vector&lt; uint8 &gt; &gt; Decode(std::string const &amp;data)</div><div class="ttdef"><b>Definition:</b> BaseEncoding.h:113</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00113">Acore::Impl::GenericBaseEncoding&lt; Encoding &gt;::Decode()</a>.</p>
+
 </div>
 </div>
-<h2 class="groupheader">Friends And Related Function Documentation</h2>
-<a id="a5bf7608e05250fb524a1229bcf83ece3" name="a5bf7608e05250fb524a1229bcf83ece3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5bf7608e05250fb524a1229bcf83ece3">&#9670;&#160;</a></span>Lock</h2>
+<a id="a2b0f76655d4e56d8a7aa9a98de87f6cf" name="a2b0f76655d4e56d8a7aa9a98de87f6cf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2b0f76655d4e56d8a7aa9a98de87f6cf">&#9670;&#160;</a></span>Encode()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class T , class MUTEX &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">friend class <a class="el" href="../../d3/dd7/a05516.html">Lock</a></td>
+          <td class="memname">std::string Acore::Encoding::Base64::Encode </td>
+          <td>(</td>
+          <td class="paramtype">std::vector&lt; <a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt; const &amp;&#160;</td>
+          <td class="paramname"><em>data</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="a2bcba35930178d1cd094ed1c34320997" name="a2bcba35930178d1cd094ed1c34320997"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2bcba35930178d1cd094ed1c34320997">&#9670;&#160;</a></span>si_mtx</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class T , class MUTEX &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">MUTEX <a class="el" href="../../d9/ddd/a05512.html">Acore::ClassLevelLockable</a>&lt; T, MUTEX &gt;::si_mtx</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   50</span>{</div>
+<div class="line"><span class="lineno">   51</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d3/dd7/a05516.html#a9132df0434948b03df8f79b6cc48252c">Acore::Impl::GenericBaseEncoding&lt;B64Impl&gt;::Encode</a>(data);</div>
+<div class="line"><span class="lineno">   52</span>}</div>
+<div class="ttc" id="aa05516_html_a9132df0434948b03df8f79b6cc48252c"><div class="ttname"><a href="../../d3/dd7/a05516.html#a9132df0434948b03df8f79b6cc48252c">Acore::Impl::GenericBaseEncoding::Encode</a></div><div class="ttdeci">static std::string Encode(std::vector&lt; uint8 &gt; const &amp;data)</div><div class="ttdef"><b>Definition:</b> BaseEncoding.h:60</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00060">Acore::Impl::GenericBaseEncoding&lt; Encoding &gt;::Encode()</a>.</p>
 
 </div>
 </div>
@@ -223,8 +191,8 @@ template&lt;class T , class MUTEX &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/d15/a04833.html">Acore</a></li><li class="navelem"><a class="el" href="../../d9/ddd/a05512.html">ClassLevelLockable</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:12:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/d47/a04938.html">Acore</a></li><li class="navelem"><a class="el" href="../../dc/db4/a04953.html">Encoding</a></li><li class="navelem"><a class="el" href="../../d9/ddd/a05512.html">Base64</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:16:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

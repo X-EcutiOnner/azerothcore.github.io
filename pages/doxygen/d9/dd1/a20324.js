@@ -1,8 +1,6 @@
 var a20324 =
 [
-    [ "OnApply", "d9/dd1/a20324.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
-    [ "OnRemove", "d9/dd1/a20324.html#a4709f570f9014eb36bc8c65269470373", null ],
-    [ "PrepareAuraScript", "d9/dd1/a20324.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
-    [ "Register", "d9/dd1/a20324.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
-    [ "Validate", "d9/dd1/a20324.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
+    [ "achievement_freya_knock_on_wood", "d9/dd1/a20324.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
+    [ "OnCheck", "d9/dd1/a20324.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
+    [ "_elderCount", "d9/dd1/a20324.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
 ];

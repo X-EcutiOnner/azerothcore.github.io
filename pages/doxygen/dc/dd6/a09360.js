@@ -1,8 +1,16 @@
 var a09360 =
 [
-    [ "CreatureWorker", "dc/dd6/a09360.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
-    [ "Visit", "dc/dd6/a09360.html#ae67044250380c521055f80c55de0bba5", null ],
-    [ "Visit", "dc/dd6/a09360.html#aa9a450b147aafe46a49135f5c5be668e", null ],
-    [ "i_do", "dc/dd6/a09360.html#ac22f86d9a41701e7527d4840da256f11", null ],
-    [ "i_phaseMask", "dc/dd6/a09360.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
+    [ "LiquidEntryType", "dc/dd6/a09360.html#a025eadf79f31d447fc80efabbb2f9f22", null ],
+    [ "LiquidFlagsType", "dc/dd6/a09360.html#a5bd1b8c77ed4830cc558985e98aa1d01", null ],
+    [ "LiquidMapType", "dc/dd6/a09360.html#a554cc712f06b4a0eb9bf81c4a41b9030", null ],
+    [ "liquidEntry", "dc/dd6/a09360.html#a1d69fc74b38f6e596704e26e93281314", null ],
+    [ "liquidFlags", "dc/dd6/a09360.html#a9ebf22bb06a9254e7175083dc51af9dd", null ],
+    [ "liquidGlobalEntry", "dc/dd6/a09360.html#a48274eeefa423c48ff860c8ffc110a30", null ],
+    [ "liquidGlobalFlags", "dc/dd6/a09360.html#abdd9bfcaf91f30c3e543e632c347aa88", null ],
+    [ "liquidHeight", "dc/dd6/a09360.html#a40f757a6fa57ade760cf1001925a0560", null ],
+    [ "liquidLevel", "dc/dd6/a09360.html#a45b8bab4cc66e6e5be5ef51ad27bf1cc", null ],
+    [ "liquidMap", "dc/dd6/a09360.html#ae6ddffb70a92aea580bacebb5a0e4d11", null ],
+    [ "liquidOffX", "dc/dd6/a09360.html#a310d68fbb4d88272b7ae93492331ce4b", null ],
+    [ "liquidOffY", "dc/dd6/a09360.html#ae8b485a43a960a810f5951df6419bd54", null ],
+    [ "liquidWidth", "dc/dd6/a09360.html#afee2d2d96fc879729a070d2b5eb114e0", null ]
 ];

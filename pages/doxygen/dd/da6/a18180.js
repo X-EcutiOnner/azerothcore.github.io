@@ -1,7 +1,6 @@
 var a18180 =
 [
-    [ "CheckRequirement", "dd/da6/a18180.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
-    [ "CheckRequirementInternal", "dd/da6/a18180.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
-    [ "PrepareSpellScript", "dd/da6/a18180.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
-    [ "Register", "dd/da6/a18180.html#a95a250aeb3a41922c529f476d39f18e4", null ]
+    [ "npc_vengeful_shadeAI", "d8/d91/a18184.html", "d8/d91/a18184" ],
+    [ "npc_vengeful_shade", "dd/da6/a18180.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
+    [ "GetAI", "dd/da6/a18180.html#afa2c672015b43d83bd55050ed020f7e5", null ]
 ];

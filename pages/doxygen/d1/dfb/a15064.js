@@ -1,7 +1,9 @@
 var a15064 =
 [
-    [ "npc_cos_chromie_middle", "d1/dfb/a15064.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "d1/dfb/a15064.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "d1/dfb/a15064.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "d1/dfb/a15064.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "npc_ancient_wisp", "d1/dfb/a15064.html#a70e45e500b3490a034b058ca2ec16d39", null ],
+    [ "DamageTaken", "d1/dfb/a15064.html#ad7d96e6b54cdc23a5101338474125e71", null ],
+    [ "JustEngagedWith", "d1/dfb/a15064.html#a755ed852b3149ada65c5750410776fc8", null ],
+    [ "Reset", "d1/dfb/a15064.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
+    [ "UpdateAI", "d1/dfb/a15064.html#a51ca214de826d7126f32e49f6852bca3", null ],
+    [ "_instance", "d1/dfb/a15064.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
 ];

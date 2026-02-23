@@ -1,8 +1,13 @@
 var a17452 =
 [
-    [ "boss_eck", "d2/d4c/a17452.html#a665b54f72e674c8f65dd09daba5413db", null ],
-    [ "InitializeAI", "d2/d4c/a17452.html#a92e5117337d372e1700d074f02c06df6", null ],
-    [ "JustEngagedWith", "d2/d4c/a17452.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
-    [ "MovementInform", "d2/d4c/a17452.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
-    [ "SpellHitTarget", "d2/d4c/a17452.html#a63125d970933d6fa1f196aa28c588f40", null ]
+    [ "boss_tyrannusAI", "d2/d4c/a17452.html#a753de14d2cecaaed2c7b24e09397b008", null ],
+    [ "CanAIAttack", "d2/d4c/a17452.html#a0cb60f308637cbd152faf274b3e5f636", null ],
+    [ "DoAction", "d2/d4c/a17452.html#ab4d899ab5da283c8d256df8cb0d4e312", null ],
+    [ "EnterEvadeMode", "d2/d4c/a17452.html#a9d18bab323c676020dede77a498a5b77", null ],
+    [ "JustDied", "d2/d4c/a17452.html#a249b7dc28dfc40c2a782ef32b88dbb48", null ],
+    [ "KilledUnit", "d2/d4c/a17452.html#abf7c8909143dac641c00cca160bef964", null ],
+    [ "Reset", "d2/d4c/a17452.html#aec686cffccd8d95a341e320ffc7d5b7e", null ],
+    [ "UpdateAI", "d2/d4c/a17452.html#a4357dc2e9b1d714d780db6ce3f60728b", null ],
+    [ "events", "d2/d4c/a17452.html#a2168a2e1b36607b76614bdef54b02bc3", null ],
+    [ "pInstance", "d2/d4c/a17452.html#ad4a8282849aaa1ce8b4702b5af55d35b", null ]
 ];

@@ -1,10 +1,22 @@
 var a09388 =
 [
-    [ "AnyDeadUnitObjectInRangeCheck", "dc/dc3/a09388.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
-    [ "operator()", "dc/dc3/a09388.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
-    [ "operator()", "dc/dc3/a09388.html#ae885f49537043421a92b44c201bec358", null ],
-    [ "operator()", "dc/dc3/a09388.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
-    [ "operator()", "dc/dc3/a09388.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
-    [ "i_range", "dc/dc3/a09388.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
-    [ "i_searchObj", "dc/dc3/a09388.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
+    [ "MapGridManager", "dc/dc3/a09388.html#af08729c03f8641a00ab1cc1b014214df", null ],
+    [ "CreateGrid", "dc/dc3/a09388.html#ac5daa221eb530e0b34a1950431cb4496", null ],
+    [ "GetCreatedCellsInGridCount", "dc/dc3/a09388.html#a322e14ef979b97017a7547194de6c1f0", null ],
+    [ "GetCreatedCellsInMapCount", "dc/dc3/a09388.html#a26255c8542bcfd6b706f73a401b4c5d2", null ],
+    [ "GetCreatedGridsCount", "dc/dc3/a09388.html#a7994a71cea924e66996161b049eb1d44", null ],
+    [ "GetGrid", "dc/dc3/a09388.html#a60c3abc9dbb707cee6d2c2ed02217c23", null ],
+    [ "GetLoadedGridsCount", "dc/dc3/a09388.html#a8acd42cf15f78053070102f530c443a2", null ],
+    [ "IsGridCreated", "dc/dc3/a09388.html#a6f70e8d91a9f8e49cab8a8ef6f41a84a", null ],
+    [ "IsGridLoaded", "dc/dc3/a09388.html#a4cdf5925d6ebb358f501554c8b296424", null ],
+    [ "IsGridsFullyCreated", "dc/dc3/a09388.html#a479daebe69f976c11649c9c571eb18e0", null ],
+    [ "IsGridsFullyLoaded", "dc/dc3/a09388.html#ae2dd77cb2af985085103d49b4242f4a8", null ],
+    [ "IsValidGridCoordinates", "dc/dc3/a09388.html#a7d7957242615d753383e05a0ee5a1f82", null ],
+    [ "LoadGrid", "dc/dc3/a09388.html#aab0a821d9672cd485c4966034c2243d5", null ],
+    [ "UnloadGrid", "dc/dc3/a09388.html#ae381b54e599dce0c02815faf82711200", null ],
+    [ "_createdGridsCount", "dc/dc3/a09388.html#a6976d52c3af458e4d5885d2523cfafab", null ],
+    [ "_gridLock", "dc/dc3/a09388.html#aa2c2218a81a5d042925e5675948e242f", null ],
+    [ "_loadedGridsCount", "dc/dc3/a09388.html#a5a93290a0bbeec830a3223a72823ca4b", null ],
+    [ "_map", "dc/dc3/a09388.html#a16a35fb94355d6542a2ef634f5411243", null ],
+    [ "_mapGrid", "dc/dc3/a09388.html#acfac0df3926498e8a9aa581581f84e2c", null ]
 ];

@@ -1,13 +1,10 @@
 var a05128 =
 [
-    [ "ModelInstance", "d8/d2c/a05128.html#a7a4efa321915b77801e9fc87924df572", null ],
-    [ "ModelInstance", "d8/d2c/a05128.html#a1d29459f4f79da938ae969509246fcf1", null ],
-    [ "GetLiquidLevel", "d8/d2c/a05128.html#a6150e52c7fdff3cba536e04e115d86ba", null ],
-    [ "GetLocationInfo", "d8/d2c/a05128.html#a2e756866245d8131d5fc040489a563e3", null ],
-    [ "getWorldModel", "d8/d2c/a05128.html#a464922875649215b0b60aafc1ff70c3c", null ],
-    [ "intersectRay", "d8/d2c/a05128.html#aca8a2a07911eba5ec362080e2790453c", null ],
-    [ "setUnloaded", "d8/d2c/a05128.html#a1797ec305f365e58cd92c8cd3f3094ba", null ],
-    [ "iInvRot", "d8/d2c/a05128.html#a9ac1d8dbfc566a2b5e508cae92ef4019", null ],
-    [ "iInvScale", "d8/d2c/a05128.html#adc23d9c9a79ac7cfdb1f90b96485b089", null ],
-    [ "iModel", "d8/d2c/a05128.html#ac0b95c6fde838667e007781bde2f2917", null ]
+    [ "AreaInfo", "d8/d2c/a05128.html#a7cd6d0845a1fea33d4f51deb5890f9f1", null ],
+    [ "AreaInfo", "d8/d2c/a05128.html#acdd6c482f37134fdc962a55771003b5c", null ],
+    [ "adtId", "d8/d2c/a05128.html#aee38e987da24645d36792a1024235035", null ],
+    [ "groupId", "d8/d2c/a05128.html#a6472ad95a025769da84943fc490860e1", null ],
+    [ "mogpFlags", "d8/d2c/a05128.html#ae97f4c32ecee4844f2cb0fec92cb21ec", null ],
+    [ "rootId", "d8/d2c/a05128.html#a5af47da55bdcb6a92356a33112a41da5", null ],
+    [ "uniqueId", "d8/d2c/a05128.html#a4496a2c21c4bca0e8acbd563de282338", null ]
 ];

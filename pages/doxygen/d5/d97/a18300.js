@@ -1,6 +1,7 @@
 var a18300 =
 [
-    [ "npc_ice_tombAI", "db/d16/a18304.html", "db/d16/a18304" ],
-    [ "npc_ice_tomb", "d5/d97/a18300.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
-    [ "GetAI", "d5/d97/a18300.html#ac99b7c9887e54a1764310bd3e079811a", null ]
+    [ "HandleTriggerSpell", "d5/d97/a18300.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "d5/d97/a18300.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "d5/d97/a18300.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "d5/d97/a18300.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

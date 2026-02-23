@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: CircularBuffer&lt; T &gt; Class Template Reference</title>
+<title>AzerothCore: IpLocationStore Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,134 +106,127 @@ $(document).ready(function(){initNavTree('d7/d66/a05524.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d5/d48/a05521.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">CircularBuffer&lt; T &gt; Class Template Reference</div></div>
+  <div class="headertitle"><div class="title">IpLocationStore Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">CircularBuffer.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">IPLocation.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a169d3975fbe8eda83c02f62b34347bc9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a05524.html#a169d3975fbe8eda83c02f62b34347bc9">CircularBuffer</a> (std::size_t <a class="el" href="../../d7/d66/a05524.html#af429f831da3fd31618d1c1612cd94ce7">size</a>)</td></tr>
-<tr class="separator:a169d3975fbe8eda83c02f62b34347bc9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2a5e093804731b69969c18e49a206572"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a05524.html#a2a5e093804731b69969c18e49a206572">put</a> (T item)</td></tr>
-<tr class="separator:a2a5e093804731b69969c18e49a206572"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7509cc5ef0dd0a9f731c47b05929580c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a05524.html#a7509cc5ef0dd0a9f731c47b05929580c">empty</a> () const</td></tr>
-<tr class="separator:a7509cc5ef0dd0a9f731c47b05929580c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2a2f13f00dca028142c250b5f2183097"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a05524.html#a2a2f13f00dca028142c250b5f2183097">full</a> () const</td></tr>
-<tr class="separator:a2a2f13f00dca028142c250b5f2183097"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aed04549e911fb6ecebbac1cbd01e9dcd"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a05524.html#aed04549e911fb6ecebbac1cbd01e9dcd">capacity</a> () const</td></tr>
-<tr class="separator:aed04549e911fb6ecebbac1cbd01e9dcd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af429f831da3fd31618d1c1612cd94ce7"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a05524.html#af429f831da3fd31618d1c1612cd94ce7">size</a> () const</td></tr>
-<tr class="separator:af429f831da3fd31618d1c1612cd94ce7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad364f8ee7c9176b912ea053e2f3c928f"><td class="memItemLeft" align="right" valign="top">std::vector&lt; T &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a05524.html#ad364f8ee7c9176b912ea053e2f3c928f">content</a> ()</td></tr>
-<tr class="separator:ad364f8ee7c9176b912ea053e2f3c928f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad4bb17889033526da4605ebddd60f3c7"><td class="memItemLeft" align="right" valign="top">T&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a05524.html#ad4bb17889033526da4605ebddd60f3c7">peak_back</a> ()</td></tr>
-<tr class="separator:ad4bb17889033526da4605ebddd60f3c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b3a38bbd932ae50d55ff15374aa2f37"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a05524.html#a1b3a38bbd932ae50d55ff15374aa2f37">IpLocationStore</a> ()</td></tr>
+<tr class="separator:a1b3a38bbd932ae50d55ff15374aa2f37"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82360c1ce130670fde23d42135f91324"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a05524.html#a82360c1ce130670fde23d42135f91324">~IpLocationStore</a> ()</td></tr>
+<tr class="separator:a82360c1ce130670fde23d42135f91324"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a411302e6bf5e5e82e5cd59e78e66bd0b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a05524.html#a411302e6bf5e5e82e5cd59e78e66bd0b">Load</a> ()</td></tr>
+<tr class="separator:a411302e6bf5e5e82e5cd59e78e66bd0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a06384169031d2417a7f6bac54d3187a9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d2d/a05520.html">IpLocationRecord</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a05524.html#a06384169031d2417a7f6bac54d3187a9">GetLocationRecord</a> (std::string const &amp;ipAddress) const</td></tr>
+<tr class="separator:a06384169031d2417a7f6bac54d3187a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:ad740adf9b81b37cf147dc00e220b29db"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d7/d66/a05524.html">IpLocationStore</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a05524.html#ad740adf9b81b37cf147dc00e220b29db">instance</a> ()</td></tr>
+<tr class="separator:ad740adf9b81b37cf147dc00e220b29db"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:aa4762ba2167d8b9560ff39328b4b3afa"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a05524.html#aa4762ba2167d8b9560ff39328b4b3afa">mutex_</a></td></tr>
-<tr class="separator:aa4762ba2167d8b9560ff39328b4b3afa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa2b9389da6cd912b4dd54d89ca1d69ee"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; T[]&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a05524.html#aa2b9389da6cd912b4dd54d89ca1d69ee">buf_</a></td></tr>
-<tr class="separator:aa2b9389da6cd912b4dd54d89ca1d69ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a43ba1c722307cdbbf38f8ba1ec7f64c6"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a05524.html#a43ba1c722307cdbbf38f8ba1ec7f64c6">head_</a> = 0</td></tr>
-<tr class="separator:a43ba1c722307cdbbf38f8ba1ec7f64c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0abd9f6b08ee7fb8dd7e437fe4a6364f"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a05524.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f">tail_</a> = 0</td></tr>
-<tr class="separator:a0abd9f6b08ee7fb8dd7e437fe4a6364f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4ad34b67dc4924addf79905732203d2a"><td class="memItemLeft" align="right" valign="top">const std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a05524.html#a4ad34b67dc4924addf79905732203d2a">max_size_</a></td></tr>
-<tr class="separator:a4ad34b67dc4924addf79905732203d2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1dfcbf9f9d2760d7d82144c57ff8a60e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a05524.html#a1dfcbf9f9d2760d7d82144c57ff8a60e">full_</a> = false</td></tr>
-<tr class="separator:a1dfcbf9f9d2760d7d82144c57ff8a60e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af7b7a5a4fc65c6af966be27f7bf7e07d"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../db/d2d/a05520.html">IpLocationRecord</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a05524.html#af7b7a5a4fc65c6af966be27f7bf7e07d">_ipLocationStore</a></td></tr>
+<tr class="separator:af7b7a5a4fc65c6af966be27f7bf7e07d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;typename T&gt;<br />
-class CircularBuffer&lt; T &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a169d3975fbe8eda83c02f62b34347bc9" name="a169d3975fbe8eda83c02f62b34347bc9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a169d3975fbe8eda83c02f62b34347bc9">&#9670;&#160;</a></span>CircularBuffer()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a1b3a38bbd932ae50d55ff15374aa2f37" name="a1b3a38bbd932ae50d55ff15374aa2f37"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1b3a38bbd932ae50d55ff15374aa2f37">&#9670;&#160;</a></span>IpLocationStore()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d7/d66/a05524.html">CircularBuffer</a>&lt; T &gt;<a class="el" href="../../d7/d66/a05524.html">::CircularBuffer</a> </td>
+          <td class="memname">IpLocationStore::IpLocationStore </td>
           <td>(</td>
-          <td class="paramtype">std::size_t&#160;</td>
-          <td class="paramname"><em>size</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   20</span>                                            :</div>
-<div class="line"><span class="lineno">   21</span>        <a class="code hl_variable" href="../../d7/d66/a05524.html#aa2b9389da6cd912b4dd54d89ca1d69ee">buf_</a>(std::unique_ptr&lt;T[]&gt;(<span class="keyword">new</span> T[<a class="code hl_function" href="../../d7/d66/a05524.html#af429f831da3fd31618d1c1612cd94ce7">size</a>])),</div>
-<div class="line"><span class="lineno">   22</span>        <a class="code hl_variable" href="../../d7/d66/a05524.html#a4ad34b67dc4924addf79905732203d2a">max_size_</a>(<a class="code hl_function" href="../../d7/d66/a05524.html#af429f831da3fd31618d1c1612cd94ce7">size</a>)</div>
-<div class="line"><span class="lineno">   23</span>    {</div>
-<div class="line"><span class="lineno">   24</span> </div>
-<div class="line"><span class="lineno">   25</span>    }</div>
-<div class="ttc" id="aa05524_html_a4ad34b67dc4924addf79905732203d2a"><div class="ttname"><a href="../../d7/d66/a05524.html#a4ad34b67dc4924addf79905732203d2a">CircularBuffer::max_size_</a></div><div class="ttdeci">const std::size_t max_size_</div><div class="ttdef"><b>Definition:</b> CircularBuffer.h:100</div></div>
-<div class="ttc" id="aa05524_html_aa2b9389da6cd912b4dd54d89ca1d69ee"><div class="ttname"><a href="../../d7/d66/a05524.html#aa2b9389da6cd912b4dd54d89ca1d69ee">CircularBuffer::buf_</a></div><div class="ttdeci">std::unique_ptr&lt; T[]&gt; buf_</div><div class="ttdef"><b>Definition:</b> CircularBuffer.h:97</div></div>
-<div class="ttc" id="aa05524_html_af429f831da3fd31618d1c1612cd94ce7"><div class="ttname"><a href="../../d7/d66/a05524.html#af429f831da3fd31618d1c1612cd94ce7">CircularBuffer::size</a></div><div class="ttdeci">std::size_t size() const</div><div class="ttdef"><b>Definition:</b> CircularBuffer.h:60</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
+<div class="line"><span class="lineno">   27</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a82360c1ce130670fde23d42135f91324" name="a82360c1ce130670fde23d42135f91324"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a82360c1ce130670fde23d42135f91324">&#9670;&#160;</a></span>~IpLocationStore()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">IpLocationStore::~IpLocationStore </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   30</span>{</div>
+<div class="line"><span class="lineno">   31</span>}</div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="aed04549e911fb6ecebbac1cbd01e9dcd" name="aed04549e911fb6ecebbac1cbd01e9dcd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aed04549e911fb6ecebbac1cbd01e9dcd">&#9670;&#160;</a></span>capacity()</h2>
+<a id="a06384169031d2417a7f6bac54d3187a9" name="a06384169031d2417a7f6bac54d3187a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a06384169031d2417a7f6bac54d3187a9">&#9670;&#160;</a></span>GetLocationRecord()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::size_t <a class="el" href="../../d7/d66/a05524.html">CircularBuffer</a>&lt; T &gt;::capacity </td>
+          <td class="memname"><a class="el" href="../../db/d2d/a05520.html">IpLocationRecord</a> const  * IpLocationStore::GetLocationRecord </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>ipAddress</em></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   56</span>    {</div>
-<div class="line"><span class="lineno">   57</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d66/a05524.html#a4ad34b67dc4924addf79905732203d2a">max_size_</a>;</div>
-<div class="line"><span class="lineno">   58</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  109</span>{</div>
+<div class="line"><span class="lineno">  110</span>    <a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ip = <a class="code hl_function" href="../../da/d94/a04940.html#abb8b9761e1df323f5c258c0a12da7bd4">Acore::Net::address_to_uint</a>(Acore::Net::make_address_v4(ipAddress));</div>
+<div class="line"><span class="lineno">  111</span>    <span class="keyword">auto</span> itr = std::upper_bound(<a class="code hl_variable" href="../../d7/d66/a05524.html#af7b7a5a4fc65c6af966be27f7bf7e07d">_ipLocationStore</a>.begin(), <a class="code hl_variable" href="../../d7/d66/a05524.html#af7b7a5a4fc65c6af966be27f7bf7e07d">_ipLocationStore</a>.end(), ip, [](<a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ip, <a class="code hl_struct" href="../../db/d2d/a05520.html">IpLocationRecord</a> <span class="keyword">const</span>&amp; loc) { return ip &lt; loc.IpTo; });</div>
+<div class="line"><span class="lineno">  112</span>    <span class="keywordflow">if</span> (itr == <a class="code hl_variable" href="../../d7/d66/a05524.html#af7b7a5a4fc65c6af966be27f7bf7e07d">_ipLocationStore</a>.end())</div>
+<div class="line"><span class="lineno">  113</span>    {</div>
+<div class="line"><span class="lineno">  114</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  115</span>    }</div>
+<div class="line"><span class="lineno">  116</span> </div>
+<div class="line"><span class="lineno">  117</span>    <span class="keywordflow">if</span> (ip &lt; itr-&gt;IpFrom)</div>
+<div class="line"><span class="lineno">  118</span>    {</div>
+<div class="line"><span class="lineno">  119</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  120</span>    }</div>
+<div class="line"><span class="lineno">  121</span> </div>
+<div class="line"><span class="lineno">  122</span>    <span class="keywordflow">return</span> &amp;(*itr);</div>
+<div class="line"><span class="lineno">  123</span>}</div>
+<div class="ttc" id="aa04337_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa04940_html_abb8b9761e1df323f5c258c0a12da7bd4"><div class="ttname"><a href="../../da/d94/a04940.html#abb8b9761e1df323f5c258c0a12da7bd4">Acore::Net::address_to_uint</a></div><div class="ttdeci">uint32 address_to_uint(boost::asio::ip::address_v4 const &amp;address)</div><div class="ttdef"><b>Definition:</b> IpAddress.h:28</div></div>
+<div class="ttc" id="aa05520_html"><div class="ttname"><a href="../../db/d2d/a05520.html">IpLocationRecord</a></div><div class="ttdef"><b>Definition:</b> IPLocation.h:23</div></div>
+<div class="ttc" id="aa05524_html_af7b7a5a4fc65c6af966be27f7bf7e07d"><div class="ttname"><a href="../../d7/d66/a05524.html#af7b7a5a4fc65c6af966be27f7bf7e07d">IpLocationStore::_ipLocationStore</a></div><div class="ttdeci">std::vector&lt; IpLocationRecord &gt; _ipLocationStore</div><div class="ttdef"><b>Definition:</b> IPLocation.h:46</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00100">CircularBuffer&lt; T &gt;::max_size_</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00046">_ipLocationStore</a>, and <a class="el" href="../../#l00028">Acore::Net::address_to_uint()</a>.</p>
 
 </div>
 </div>
-<a id="ad364f8ee7c9176b912ea053e2f3c928f" name="ad364f8ee7c9176b912ea053e2f3c928f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad364f8ee7c9176b912ea053e2f3c928f">&#9670;&#160;</a></span>content()</h2>
+<a id="ad740adf9b81b37cf147dc00e220b29db" name="ad740adf9b81b37cf147dc00e220b29db"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad740adf9b81b37cf147dc00e220b29db">&#9670;&#160;</a></span>instance()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt; T &gt; <a class="el" href="../../d7/d66/a05524.html">CircularBuffer</a>&lt; T &gt;::content </td>
+          <td class="memname"><a class="el" href="../../d7/d66/a05524.html">IpLocationStore</a> * IpLocationStore::instance </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -241,239 +234,131 @@ template&lt;typename T &gt; </div>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   82</span>    {</div>
-<div class="line"><span class="lineno">   83</span>        std::lock_guard&lt;std::mutex&gt; lock(<a class="code hl_variable" href="../../d7/d66/a05524.html#aa4762ba2167d8b9560ff39328b4b3afa">mutex_</a>);</div>
-<div class="line"><span class="lineno">   84</span> </div>
-<div class="line"><span class="lineno">   85</span>        <span class="keywordflow">return</span> std::vector&lt;T&gt;(<a class="code hl_variable" href="../../d7/d66/a05524.html#aa2b9389da6cd912b4dd54d89ca1d69ee">buf_</a>.get(), <a class="code hl_variable" href="../../d7/d66/a05524.html#aa2b9389da6cd912b4dd54d89ca1d69ee">buf_</a>.get() + <a class="code hl_function" href="../../d7/d66/a05524.html#af429f831da3fd31618d1c1612cd94ce7">size</a>());</div>
-<div class="line"><span class="lineno">   86</span>    }</div>
-<div class="ttc" id="aa05524_html_aa4762ba2167d8b9560ff39328b4b3afa"><div class="ttname"><a href="../../d7/d66/a05524.html#aa4762ba2167d8b9560ff39328b4b3afa">CircularBuffer::mutex_</a></div><div class="ttdeci">std::mutex mutex_</div><div class="ttdef"><b>Definition:</b> CircularBuffer.h:96</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  126</span>{</div>
+<div class="line"><span class="lineno">  127</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../d7/d66/a05524.html">IpLocationStore</a> <a class="code hl_function" href="../../d7/d66/a05524.html#ad740adf9b81b37cf147dc00e220b29db">instance</a>;</div>
+<div class="line"><span class="lineno">  128</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../d7/d66/a05524.html#ad740adf9b81b37cf147dc00e220b29db">instance</a>;</div>
+<div class="line"><span class="lineno">  129</span>}</div>
+<div class="ttc" id="aa05524_html"><div class="ttname"><a href="../../d7/d66/a05524.html">IpLocationStore</a></div><div class="ttdef"><b>Definition:</b> IPLocation.h:36</div></div>
+<div class="ttc" id="aa05524_html_ad740adf9b81b37cf147dc00e220b29db"><div class="ttname"><a href="../../d7/d66/a05524.html#ad740adf9b81b37cf147dc00e220b29db">IpLocationStore::instance</a></div><div class="ttdeci">static IpLocationStore * instance()</div><div class="ttdef"><b>Definition:</b> IPLocation.cpp:125</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00097">CircularBuffer&lt; T &gt;::buf_</a>, <a class="el" href="../../#l00096">CircularBuffer&lt; T &gt;::mutex_</a>, and <a class="el" href="../../#l00060">CircularBuffer&lt; T &gt;::size()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00125">instance()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00941">WorldSession::ComputeNewClockDelta()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00125">instance()</a>.</p>
 
 </div>
 </div>
-<a id="a7509cc5ef0dd0a9f731c47b05929580c" name="a7509cc5ef0dd0a9f731c47b05929580c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7509cc5ef0dd0a9f731c47b05929580c">&#9670;&#160;</a></span>empty()</h2>
+<a id="a411302e6bf5e5e82e5cd59e78e66bd0b" name="a411302e6bf5e5e82e5cd59e78e66bd0b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a411302e6bf5e5e82e5cd59e78e66bd0b">&#9670;&#160;</a></span>Load()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool <a class="el" href="../../d7/d66/a05524.html">CircularBuffer</a>&lt; T &gt;::empty </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   44</span>    {</div>
-<div class="line"><span class="lineno">   45</span>        <span class="comment">//if head and tail are equal, we are empty</span></div>
-<div class="line"><span class="lineno">   46</span>        <span class="keywordflow">return</span> (!<a class="code hl_variable" href="../../d7/d66/a05524.html#a1dfcbf9f9d2760d7d82144c57ff8a60e">full_</a> &amp;&amp; (<a class="code hl_variable" href="../../d7/d66/a05524.html#a43ba1c722307cdbbf38f8ba1ec7f64c6">head_</a> == <a class="code hl_variable" href="../../d7/d66/a05524.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f">tail_</a>));</div>
-<div class="line"><span class="lineno">   47</span>    }</div>
-<div class="ttc" id="aa05524_html_a0abd9f6b08ee7fb8dd7e437fe4a6364f"><div class="ttname"><a href="../../d7/d66/a05524.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f">CircularBuffer::tail_</a></div><div class="ttdeci">std::size_t tail_</div><div class="ttdef"><b>Definition:</b> CircularBuffer.h:99</div></div>
-<div class="ttc" id="aa05524_html_a1dfcbf9f9d2760d7d82144c57ff8a60e"><div class="ttname"><a href="../../d7/d66/a05524.html#a1dfcbf9f9d2760d7d82144c57ff8a60e">CircularBuffer::full_</a></div><div class="ttdeci">bool full_</div><div class="ttdef"><b>Definition:</b> CircularBuffer.h:101</div></div>
-<div class="ttc" id="aa05524_html_a43ba1c722307cdbbf38f8ba1ec7f64c6"><div class="ttname"><a href="../../d7/d66/a05524.html#a43ba1c722307cdbbf38f8ba1ec7f64c6">CircularBuffer::head_</a></div><div class="ttdeci">std::size_t head_</div><div class="ttdef"><b>Definition:</b> CircularBuffer.h:98</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00101">CircularBuffer&lt; T &gt;::full_</a>, <a class="el" href="../../#l00098">CircularBuffer&lt; T &gt;::head_</a>, and <a class="el" href="../../#l00099">CircularBuffer&lt; T &gt;::tail_</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00088">CircularBuffer&lt; T &gt;::peak_back()</a>.</p>
-
-</div>
-</div>
-<a id="a2a2f13f00dca028142c250b5f2183097" name="a2a2f13f00dca028142c250b5f2183097"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2a2f13f00dca028142c250b5f2183097">&#9670;&#160;</a></span>full()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool <a class="el" href="../../d7/d66/a05524.html">CircularBuffer</a>&lt; T &gt;::full </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   50</span>    {</div>
-<div class="line"><span class="lineno">   51</span>        <span class="comment">//If tail is ahead the head by 1, we are full</span></div>
-<div class="line"><span class="lineno">   52</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d66/a05524.html#a1dfcbf9f9d2760d7d82144c57ff8a60e">full_</a>;</div>
-<div class="line"><span class="lineno">   53</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00101">CircularBuffer&lt; T &gt;::full_</a>.</p>
-
-</div>
-</div>
-<a id="ad4bb17889033526da4605ebddd60f3c7" name="ad4bb17889033526da4605ebddd60f3c7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad4bb17889033526da4605ebddd60f3c7">&#9670;&#160;</a></span>peak_back()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">T <a class="el" href="../../d7/d66/a05524.html">CircularBuffer</a>&lt; T &gt;::peak_back </td>
+          <td class="memname">void IpLocationStore::Load </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   89</span>    {</div>
-<div class="line"><span class="lineno">   90</span>        std::lock_guard&lt;std::mutex&gt; lock(<a class="code hl_variable" href="../../d7/d66/a05524.html#aa4762ba2167d8b9560ff39328b4b3afa">mutex_</a>);</div>
-<div class="line"><span class="lineno">   91</span> </div>
-<div class="line"><span class="lineno">   92</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d7/d66/a05524.html#a7509cc5ef0dd0a9f731c47b05929580c">empty</a>() ? T() : <a class="code hl_variable" href="../../d7/d66/a05524.html#aa2b9389da6cd912b4dd54d89ca1d69ee">buf_</a>[<a class="code hl_variable" href="../../d7/d66/a05524.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f">tail_</a>];</div>
-<div class="line"><span class="lineno">   93</span>    }</div>
-<div class="ttc" id="aa05524_html_a7509cc5ef0dd0a9f731c47b05929580c"><div class="ttname"><a href="../../d7/d66/a05524.html#a7509cc5ef0dd0a9f731c47b05929580c">CircularBuffer::empty</a></div><div class="ttdeci">bool empty() const</div><div class="ttdef"><b>Definition:</b> CircularBuffer.h:43</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00097">CircularBuffer&lt; T &gt;::buf_</a>, <a class="el" href="../../#l00043">CircularBuffer&lt; T &gt;::empty()</a>, <a class="el" href="../../#l00096">CircularBuffer&lt; T &gt;::mutex_</a>, and <a class="el" href="../../#l00099">CircularBuffer&lt; T &gt;::tail_</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00941">WorldSession::ComputeNewClockDelta()</a>.</p>
-
-</div>
-</div>
-<a id="a2a5e093804731b69969c18e49a206572" name="a2a5e093804731b69969c18e49a206572"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2a5e093804731b69969c18e49a206572">&#9670;&#160;</a></span>put()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../d7/d66/a05524.html">CircularBuffer</a>&lt; T &gt;::put </td>
-          <td>(</td>
-          <td class="paramtype">T&#160;</td>
-          <td class="paramname"><em>item</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   28</span>    {</div>
-<div class="line"><span class="lineno">   29</span>        std::lock_guard&lt;std::mutex&gt; lock(<a class="code hl_variable" href="../../d7/d66/a05524.html#aa4762ba2167d8b9560ff39328b4b3afa">mutex_</a>);</div>
-<div class="line"><span class="lineno">   30</span> </div>
-<div class="line"><span class="lineno">   31</span>        <a class="code hl_variable" href="../../d7/d66/a05524.html#aa2b9389da6cd912b4dd54d89ca1d69ee">buf_</a>[<a class="code hl_variable" href="../../d7/d66/a05524.html#a43ba1c722307cdbbf38f8ba1ec7f64c6">head_</a>] = item;</div>
-<div class="line"><span class="lineno">   32</span> </div>
-<div class="line"><span class="lineno">   33</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d66/a05524.html#a1dfcbf9f9d2760d7d82144c57ff8a60e">full_</a>)</div>
-<div class="line"><span class="lineno">   34</span>        {</div>
-<div class="line"><span class="lineno">   35</span>            <a class="code hl_variable" href="../../d7/d66/a05524.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f">tail_</a> = (<a class="code hl_variable" href="../../d7/d66/a05524.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f">tail_</a> + 1) % <a class="code hl_variable" href="../../d7/d66/a05524.html#a4ad34b67dc4924addf79905732203d2a">max_size_</a>;</div>
-<div class="line"><span class="lineno">   36</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">   34</span>{</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_variable" href="../../d7/d66/a05524.html#af7b7a5a4fc65c6af966be27f7bf7e07d">_ipLocationStore</a>.clear();</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_define" href="../../da/d19/a04667.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Loading IP Location Database...&quot;</span>);</div>
 <div class="line"><span class="lineno">   37</span> </div>
-<div class="line"><span class="lineno">   38</span>        <a class="code hl_variable" href="../../d7/d66/a05524.html#a43ba1c722307cdbbf38f8ba1ec7f64c6">head_</a> = (<a class="code hl_variable" href="../../d7/d66/a05524.html#a43ba1c722307cdbbf38f8ba1ec7f64c6">head_</a> + 1) % <a class="code hl_variable" href="../../d7/d66/a05524.html#a4ad34b67dc4924addf79905732203d2a">max_size_</a>;</div>
-<div class="line"><span class="lineno">   39</span> </div>
-<div class="line"><span class="lineno">   40</span>        <a class="code hl_variable" href="../../d7/d66/a05524.html#a1dfcbf9f9d2760d7d82144c57ff8a60e">full_</a> = <a class="code hl_variable" href="../../d7/d66/a05524.html#a43ba1c722307cdbbf38f8ba1ec7f64c6">head_</a> == <a class="code hl_variable" href="../../d7/d66/a05524.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f">tail_</a>;</div>
-<div class="line"><span class="lineno">   41</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00097">CircularBuffer&lt; T &gt;::buf_</a>, <a class="el" href="../../#l00101">CircularBuffer&lt; T &gt;::full_</a>, <a class="el" href="../../#l00098">CircularBuffer&lt; T &gt;::head_</a>, <a class="el" href="../../#l00100">CircularBuffer&lt; T &gt;::max_size_</a>, <a class="el" href="../../#l00096">CircularBuffer&lt; T &gt;::mutex_</a>, and <a class="el" href="../../#l00099">CircularBuffer&lt; T &gt;::tail_</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00907">WorldSession::HandleTimeSyncResp()</a>.</p>
-
-</div>
-</div>
-<a id="af429f831da3fd31618d1c1612cd94ce7" name="af429f831da3fd31618d1c1612cd94ce7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af429f831da3fd31618d1c1612cd94ce7">&#9670;&#160;</a></span>size()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::size_t <a class="el" href="../../d7/d66/a05524.html">CircularBuffer</a>&lt; T &gt;::size </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   61</span>    {</div>
-<div class="line"><span class="lineno">   62</span>        std::size_t <a class="code hl_function" href="../../d7/d66/a05524.html#af429f831da3fd31618d1c1612cd94ce7">size</a> = <a class="code hl_variable" href="../../d7/d66/a05524.html#a4ad34b67dc4924addf79905732203d2a">max_size_</a>;</div>
+<div class="line"><span class="lineno">   38</span>    std::string databaseFilePath = <a class="code hl_define" href="../../da/d97/a30861.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;IPLocationFile&quot;</span>, <span class="stringliteral">&quot;&quot;</span>);</div>
+<div class="line"><span class="lineno">   39</span>    <span class="keywordflow">if</span> (databaseFilePath.empty())</div>
+<div class="line"><span class="lineno">   40</span>    {</div>
+<div class="line"><span class="lineno">   41</span>        <a class="code hl_define" href="../../da/d19/a04667.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">   42</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   43</span>    }</div>
+<div class="line"><span class="lineno">   44</span> </div>
+<div class="line"><span class="lineno">   45</span>    <span class="comment">// Check if file exists</span></div>
+<div class="line"><span class="lineno">   46</span>    std::ifstream databaseFile(databaseFilePath);</div>
+<div class="line"><span class="lineno">   47</span>    <span class="keywordflow">if</span> (!databaseFile)</div>
+<div class="line"><span class="lineno">   48</span>    {</div>
+<div class="line"><span class="lineno">   49</span>        <a class="code hl_define" href="../../da/d19/a04667.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;IPLocation: No ip database file exists ({}).&quot;</span>, databaseFilePath);</div>
+<div class="line"><span class="lineno">   50</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   51</span>    }</div>
+<div class="line"><span class="lineno">   52</span> </div>
+<div class="line"><span class="lineno">   53</span>    <span class="keywordflow">if</span> (!databaseFile.is_open())</div>
+<div class="line"><span class="lineno">   54</span>    {</div>
+<div class="line"><span class="lineno">   55</span>        <a class="code hl_define" href="../../da/d19/a04667.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;IPLocation: Ip database file ({}) can not be opened.&quot;</span>, databaseFilePath);</div>
+<div class="line"><span class="lineno">   56</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   57</span>    }</div>
+<div class="line"><span class="lineno">   58</span> </div>
+<div class="line"><span class="lineno">   59</span>    std::string ipFrom;</div>
+<div class="line"><span class="lineno">   60</span>    std::string ipTo;</div>
+<div class="line"><span class="lineno">   61</span>    std::string countryCode;</div>
+<div class="line"><span class="lineno">   62</span>    std::string countryName;</div>
 <div class="line"><span class="lineno">   63</span> </div>
-<div class="line"><span class="lineno">   64</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d7/d66/a05524.html#a1dfcbf9f9d2760d7d82144c57ff8a60e">full_</a>)</div>
-<div class="line"><span class="lineno">   65</span>        {</div>
-<div class="line"><span class="lineno">   66</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d66/a05524.html#a43ba1c722307cdbbf38f8ba1ec7f64c6">head_</a> &gt;= <a class="code hl_variable" href="../../d7/d66/a05524.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f">tail_</a>)</div>
-<div class="line"><span class="lineno">   67</span>            {</div>
-<div class="line"><span class="lineno">   68</span>                <a class="code hl_function" href="../../d7/d66/a05524.html#af429f831da3fd31618d1c1612cd94ce7">size</a> = <a class="code hl_variable" href="../../d7/d66/a05524.html#a43ba1c722307cdbbf38f8ba1ec7f64c6">head_</a> - <a class="code hl_variable" href="../../d7/d66/a05524.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f">tail_</a>;</div>
-<div class="line"><span class="lineno">   69</span>            }</div>
-<div class="line"><span class="lineno">   70</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   71</span>            {</div>
-<div class="line"><span class="lineno">   72</span>                <a class="code hl_function" href="../../d7/d66/a05524.html#af429f831da3fd31618d1c1612cd94ce7">size</a> += <a class="code hl_variable" href="../../d7/d66/a05524.html#a43ba1c722307cdbbf38f8ba1ec7f64c6">head_</a> - <a class="code hl_variable" href="../../d7/d66/a05524.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f">tail_</a>;</div>
-<div class="line"><span class="lineno">   73</span>            }</div>
-<div class="line"><span class="lineno">   74</span>        }</div>
+<div class="line"><span class="lineno">   64</span>    <span class="keywordflow">while</span> (databaseFile.good())</div>
+<div class="line"><span class="lineno">   65</span>    {</div>
+<div class="line"><span class="lineno">   66</span>        <span class="comment">// Read lines</span></div>
+<div class="line"><span class="lineno">   67</span>        <span class="keywordflow">if</span> (!std::getline(databaseFile, ipFrom, <span class="charliteral">&#39;,&#39;</span>))</div>
+<div class="line"><span class="lineno">   68</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   69</span>        <span class="keywordflow">if</span> (!std::getline(databaseFile, ipTo, <span class="charliteral">&#39;,&#39;</span>))</div>
+<div class="line"><span class="lineno">   70</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   71</span>        <span class="keywordflow">if</span> (!std::getline(databaseFile, countryCode, <span class="charliteral">&#39;,&#39;</span>))</div>
+<div class="line"><span class="lineno">   72</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">   73</span>        <span class="keywordflow">if</span> (!std::getline(databaseFile, countryName, <span class="charliteral">&#39;\n&#39;</span>))</div>
+<div class="line"><span class="lineno">   74</span>            <span class="keywordflow">break</span>;</div>
 <div class="line"><span class="lineno">   75</span> </div>
-<div class="line"><span class="lineno">   76</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d7/d66/a05524.html#af429f831da3fd31618d1c1612cd94ce7">size</a>;</div>
-<div class="line"><span class="lineno">   77</span>    }</div>
+<div class="line"><span class="lineno">   76</span>        <span class="comment">// Remove new lines and return</span></div>
+<div class="line"><span class="lineno">   77</span>        countryName.erase(std::remove(countryName.begin(), countryName.end(), <span class="charliteral">&#39;\r&#39;</span>), countryName.end());</div>
+<div class="line"><span class="lineno">   78</span>        countryName.erase(std::remove(countryName.begin(), countryName.end(), <span class="charliteral">&#39;\n&#39;</span>), countryName.end());</div>
+<div class="line"><span class="lineno">   79</span> </div>
+<div class="line"><span class="lineno">   80</span>        <span class="comment">// Remove quotation marks</span></div>
+<div class="line"><span class="lineno">   81</span>        ipFrom.erase(std::remove(ipFrom.begin(), ipFrom.end(), <span class="charliteral">&#39;&quot;&#39;</span>), ipFrom.end());</div>
+<div class="line"><span class="lineno">   82</span>        ipTo.erase(std::remove(ipTo.begin(), ipTo.end(), <span class="charliteral">&#39;&quot;&#39;</span>), ipTo.end());</div>
+<div class="line"><span class="lineno">   83</span>        countryCode.erase(std::remove(countryCode.begin(), countryCode.end(), <span class="charliteral">&#39;&quot;&#39;</span>), countryCode.end());</div>
+<div class="line"><span class="lineno">   84</span>        countryName.erase(std::remove(countryName.begin(), countryName.end(), <span class="charliteral">&#39;&quot;&#39;</span>), countryName.end());</div>
+<div class="line"><span class="lineno">   85</span> </div>
+<div class="line"><span class="lineno">   86</span>        <span class="comment">// Convert country code to lowercase</span></div>
+<div class="line"><span class="lineno">   87</span>        std::transform(countryCode.begin(), countryCode.end(), countryCode.begin(), ::tolower);</div>
+<div class="line"><span class="lineno">   88</span> </div>
+<div class="line"><span class="lineno">   89</span>        <span class="keyword">auto</span> IpFrom = Acore::StringTo&lt;uint32&gt;(ipFrom);</div>
+<div class="line"><span class="lineno">   90</span>        <span class="keyword">auto</span> IpTo = Acore::StringTo&lt;uint32&gt;(ipTo);</div>
+<div class="line"><span class="lineno">   91</span> </div>
+<div class="line"><span class="lineno">   92</span>        <span class="keywordflow">if</span> (!IpFrom || !IpTo)</div>
+<div class="line"><span class="lineno">   93</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   94</span> </div>
+<div class="line"><span class="lineno">   95</span>        <a class="code hl_variable" href="../../d7/d66/a05524.html#af7b7a5a4fc65c6af966be27f7bf7e07d">_ipLocationStore</a>.emplace_back(*IpFrom, *IpTo, std::move(countryCode), std::move(countryName));</div>
+<div class="line"><span class="lineno">   96</span>    }</div>
+<div class="line"><span class="lineno">   97</span> </div>
+<div class="line"><span class="lineno">   98</span>    std::sort(<a class="code hl_variable" href="../../d7/d66/a05524.html#af7b7a5a4fc65c6af966be27f7bf7e07d">_ipLocationStore</a>.begin(), <a class="code hl_variable" href="../../d7/d66/a05524.html#af7b7a5a4fc65c6af966be27f7bf7e07d">_ipLocationStore</a>.end(), [](<a class="code hl_struct" href="../../db/d2d/a05520.html">IpLocationRecord</a> <span class="keyword">const</span>&amp; a, <a class="code hl_struct" href="../../db/d2d/a05520.html">IpLocationRecord</a> <span class="keyword">const</span>&amp; b) { return a.IpFrom &lt; b.IpFrom; });</div>
+<div class="line"><span class="lineno">   99</span>    <a class="code hl_define" href="../../d0/d15/a04574.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(std::is_sorted(<a class="code hl_variable" href="../../d7/d66/a05524.html#af7b7a5a4fc65c6af966be27f7bf7e07d">_ipLocationStore</a>.begin(), <a class="code hl_variable" href="../../d7/d66/a05524.html#af7b7a5a4fc65c6af966be27f7bf7e07d">_ipLocationStore</a>.end(), [](<a class="code hl_struct" href="../../db/d2d/a05520.html">IpLocationRecord</a> <span class="keyword">const</span>&amp; a, <a class="code hl_struct" href="../../db/d2d/a05520.html">IpLocationRecord</a> <span class="keyword">const</span>&amp; b) { return a.IpFrom &lt; b.IpTo; }),</div>
+<div class="line"><span class="lineno">  100</span>        <span class="stringliteral">&quot;Overlapping IP ranges detected in database file&quot;</span>);</div>
+<div class="line"><span class="lineno">  101</span> </div>
+<div class="line"><span class="lineno">  102</span>    databaseFile.close();</div>
+<div class="line"><span class="lineno">  103</span> </div>
+<div class="line"><span class="lineno">  104</span>    <a class="code hl_define" href="../../da/d19/a04667.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} ip location entries.&quot;</span>, <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(<a class="code hl_variable" href="../../d7/d66/a05524.html#af7b7a5a4fc65c6af966be27f7bf7e07d">_ipLocationStore</a>.size()));</div>
+<div class="line"><span class="lineno">  105</span>    <a class="code hl_define" href="../../da/d19/a04667.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
+<div class="line"><span class="lineno">  106</span>}</div>
+<div class="ttc" id="aa04574_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d0/d15/a04574.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa04667_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../da/d19/a04667.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
+<div class="ttc" id="aa04667_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../da/d19/a04667.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
+<div class="ttc" id="aa30861_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../da/d97/a30861.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:93</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00101">CircularBuffer&lt; T &gt;::full_</a>, <a class="el" href="../../#l00098">CircularBuffer&lt; T &gt;::head_</a>, <a class="el" href="../../#l00100">CircularBuffer&lt; T &gt;::max_size_</a>, <a class="el" href="../../#l00060">CircularBuffer&lt; T &gt;::size()</a>, and <a class="el" href="../../#l00099">CircularBuffer&lt; T &gt;::tail_</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00081">CircularBuffer&lt; T &gt;::content()</a>, and <a class="el" href="../../#l00060">CircularBuffer&lt; T &gt;::size()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00046">_ipLocationStore</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, and <a class="el" href="../../#l00093">sConfigMgr</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="aa2b9389da6cd912b4dd54d89ca1d69ee" name="aa2b9389da6cd912b4dd54d89ca1d69ee"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa2b9389da6cd912b4dd54d89ca1d69ee">&#9670;&#160;</a></span>buf_</h2>
+<a id="af7b7a5a4fc65c6af966be27f7bf7e07d" name="af7b7a5a4fc65c6af966be27f7bf7e07d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af7b7a5a4fc65c6af966be27f7bf7e07d">&#9670;&#160;</a></span>_ipLocationStore</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::unique_ptr&lt;T[]&gt; <a class="el" href="../../d7/d66/a05524.html">CircularBuffer</a>&lt; T &gt;::buf_</td>
+          <td class="memname">std::vector&lt;<a class="el" href="../../db/d2d/a05520.html">IpLocationRecord</a>&gt; IpLocationStore::_ipLocationStore</td>
         </tr>
       </table>
   </td>
@@ -483,137 +368,7 @@ template&lt;typename T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00081">CircularBuffer&lt; T &gt;::content()</a>, <a class="el" href="../../#l00088">CircularBuffer&lt; T &gt;::peak_back()</a>, and <a class="el" href="../../#l00027">CircularBuffer&lt; T &gt;::put()</a>.</p>
-
-</div>
-</div>
-<a id="a1dfcbf9f9d2760d7d82144c57ff8a60e" name="a1dfcbf9f9d2760d7d82144c57ff8a60e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1dfcbf9f9d2760d7d82144c57ff8a60e">&#9670;&#160;</a></span>full_</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool <a class="el" href="../../d7/d66/a05524.html">CircularBuffer</a>&lt; T &gt;::full_ = false</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00043">CircularBuffer&lt; T &gt;::empty()</a>, <a class="el" href="../../#l00049">CircularBuffer&lt; T &gt;::full()</a>, <a class="el" href="../../#l00027">CircularBuffer&lt; T &gt;::put()</a>, and <a class="el" href="../../#l00060">CircularBuffer&lt; T &gt;::size()</a>.</p>
-
-</div>
-</div>
-<a id="a43ba1c722307cdbbf38f8ba1ec7f64c6" name="a43ba1c722307cdbbf38f8ba1ec7f64c6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a43ba1c722307cdbbf38f8ba1ec7f64c6">&#9670;&#160;</a></span>head_</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::size_t <a class="el" href="../../d7/d66/a05524.html">CircularBuffer</a>&lt; T &gt;::head_ = 0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00043">CircularBuffer&lt; T &gt;::empty()</a>, <a class="el" href="../../#l00027">CircularBuffer&lt; T &gt;::put()</a>, and <a class="el" href="../../#l00060">CircularBuffer&lt; T &gt;::size()</a>.</p>
-
-</div>
-</div>
-<a id="a4ad34b67dc4924addf79905732203d2a" name="a4ad34b67dc4924addf79905732203d2a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4ad34b67dc4924addf79905732203d2a">&#9670;&#160;</a></span>max_size_</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">const std::size_t <a class="el" href="../../d7/d66/a05524.html">CircularBuffer</a>&lt; T &gt;::max_size_</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00055">CircularBuffer&lt; T &gt;::capacity()</a>, <a class="el" href="../../#l00027">CircularBuffer&lt; T &gt;::put()</a>, and <a class="el" href="../../#l00060">CircularBuffer&lt; T &gt;::size()</a>.</p>
-
-</div>
-</div>
-<a id="aa4762ba2167d8b9560ff39328b4b3afa" name="aa4762ba2167d8b9560ff39328b4b3afa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa4762ba2167d8b9560ff39328b4b3afa">&#9670;&#160;</a></span>mutex_</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::mutex <a class="el" href="../../d7/d66/a05524.html">CircularBuffer</a>&lt; T &gt;::mutex_</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00081">CircularBuffer&lt; T &gt;::content()</a>, <a class="el" href="../../#l00088">CircularBuffer&lt; T &gt;::peak_back()</a>, and <a class="el" href="../../#l00027">CircularBuffer&lt; T &gt;::put()</a>.</p>
-
-</div>
-</div>
-<a id="a0abd9f6b08ee7fb8dd7e437fe4a6364f" name="a0abd9f6b08ee7fb8dd7e437fe4a6364f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0abd9f6b08ee7fb8dd7e437fe4a6364f">&#9670;&#160;</a></span>tail_</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::size_t <a class="el" href="../../d7/d66/a05524.html">CircularBuffer</a>&lt; T &gt;::tail_ = 0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00043">CircularBuffer&lt; T &gt;::empty()</a>, <a class="el" href="../../#l00088">CircularBuffer&lt; T &gt;::peak_back()</a>, <a class="el" href="../../#l00027">CircularBuffer&lt; T &gt;::put()</a>, and <a class="el" href="../../#l00060">CircularBuffer&lt; T &gt;::size()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00108">GetLocationRecord()</a>, and <a class="el" href="../../#l00033">Load()</a>.</p>
 
 </div>
 </div>
@@ -622,8 +377,8 @@ template&lt;typename T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d7/d66/a05524.html">CircularBuffer</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:11:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d7/d66/a05524.html">IpLocationStore</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:15:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

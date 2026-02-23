@@ -1,7 +1,8 @@
 var a14536 =
 [
-    [ "go_direbrew_mole_machineAI", "d6/d62/a14536.html#a4e667ad9e572e93c045ae01f63bea648", null ],
-    [ "Reset", "d6/d62/a14536.html#a32dd801b5d898fd8634edcb6cae52bdf", null ],
-    [ "UpdateAI", "d6/d62/a14536.html#a2eaa8a0ad0907e4aa497a7e1c3a31b29", null ],
-    [ "_scheduler", "d6/d62/a14536.html#a5960ff83f21cf5964f422e3a7b297f22", null ]
+    [ "npc_spawn_of_marli", "d6/d62/a14536.html#a1dcd5066de108203903f5767c4b375ea", null ],
+    [ "JustEngagedWith", "d6/d62/a14536.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
+    [ "Reset", "d6/d62/a14536.html#a79ef192d41af75e0dad0494776c75189", null ],
+    [ "UpdateAI", "d6/d62/a14536.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
+    [ "_scheduler", "d6/d62/a14536.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
 ];

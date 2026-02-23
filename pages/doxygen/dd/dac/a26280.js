@@ -1,7 +1,7 @@
 var a26280 =
 [
-    [ "AfterRemove", "dd/dac/a26280.html#a9dc5ef5c5545fc382e221ca9473ac3bd", null ],
-    [ "PrepareAuraScript", "dd/dac/a26280.html#a0fd3e297a66df888f6e30f93b9f60947", null ],
-    [ "Register", "dd/dac/a26280.html#a2b1872fa0342e0f530b61fc7a5bf876b", null ],
-    [ "Validate", "dd/dac/a26280.html#ae08f33e0271166afa87208faa30684c4", null ]
+    [ "HandleProc", "dd/dac/a26280.html#a8a2e79509451ab5f0d05daa80ebd55ac", null ],
+    [ "PrepareAuraScript", "dd/dac/a26280.html#a331d005fdb7ec53b49c1edc46209d8ea", null ],
+    [ "Register", "dd/dac/a26280.html#a8a1afed2a17841f52c355214ab49b3af", null ],
+    [ "Validate", "dd/dac/a26280.html#af9e07a3f65285bc82126b21b030a69e8", null ]
 ];

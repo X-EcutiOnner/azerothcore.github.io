@@ -1,8 +1,6 @@
 var a25660 =
 [
-    [ "HandlePeriodic", "d7/deb/a25660.html#acba5d68c19e68361c088e50f9b831bff", null ],
-    [ "HandleUpdatePeriodic", "d7/deb/a25660.html#af27c6dfccb12f1ba52d170da5d9228f9", null ],
-    [ "PrepareAuraScript", "d7/deb/a25660.html#a8fa9d7c1f8e95c2e50bd2178f4f58c04", null ],
-    [ "Register", "d7/deb/a25660.html#a2be03ae04a562b2c908fcdb0c052ca5f", null ],
-    [ "Validate", "d7/deb/a25660.html#ab467c3b759ac1e276d6a4815d20f5ff0", null ]
+    [ "HandleFinish", "d7/deb/a25660.html#a97cef2944f3fcc11aa6898bc8455ab21", null ],
+    [ "PrepareSpellScript", "d7/deb/a25660.html#a62920503172dc58ac864a23e90a98dd9", null ],
+    [ "Register", "d7/deb/a25660.html#ab40419508a1903869aa2b36a590301ba", null ]
 ];

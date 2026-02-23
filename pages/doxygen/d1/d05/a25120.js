@@ -1,6 +1,7 @@
 var a25120 =
 [
-    [ "HandleScriptEffect", "d1/d05/a25120.html#a142d6a512ba6e937985a9c21725d8d33", null ],
-    [ "PrepareSpellScript", "d1/d05/a25120.html#af46fd8adaf8fef92984376ad6aa4f9a2", null ],
-    [ "Register", "d1/d05/a25120.html#a9cbf1c0678bd0775a452aa3270dff6a0", null ]
+    [ "HandleEffectApply", "d1/d05/a25120.html#a2854357f92b1faac6e7840f1576138e0", null ],
+    [ "HandleEffectRemove", "d1/d05/a25120.html#a7960ca4deb4ff61d04ea7fe7ec0f0471", null ],
+    [ "PrepareAuraScript", "d1/d05/a25120.html#a2120cecbca61e4c7380892fe8d43772a", null ],
+    [ "Register", "d1/d05/a25120.html#a98c71c0d4c4b0503e66ed2033946cb2e", null ]
 ];

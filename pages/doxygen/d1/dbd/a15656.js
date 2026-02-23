@@ -1,7 +1,7 @@
 var a15656 =
 [
-    [ "npc_kerlonianAI", "d0/db9/a15660.html", "d0/db9/a15660" ],
-    [ "npc_kerlonian", "d1/dbd/a15656.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
-    [ "GetAI", "d1/dbd/a15656.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
-    [ "OnQuestAccept", "d1/dbd/a15656.html#a257d24295318605ac2fd5554315dfd63", null ]
+    [ "boss_glob_of_viscidus", "d1/dbd/a15656.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
+    [ "InitializeAI", "d1/dbd/a15656.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
+    [ "MovementInform", "d1/dbd/a15656.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
+    [ "UpdateAI", "d1/dbd/a15656.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
 ];

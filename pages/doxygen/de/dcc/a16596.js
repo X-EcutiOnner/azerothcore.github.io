@@ -1,6 +1,7 @@
 var a16596 =
 [
-    [ "HideNpcEvent", "de/dcc/a16596.html#ab454295aab0f5d4586740140232e96eb", null ],
-    [ "Execute", "de/dcc/a16596.html#aecfbbbcac3fd98675913a6381c891a59", null ],
-    [ "_owner", "de/dcc/a16596.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
+    [ "HandleDummy", "de/dcc/a16596.html#a96b430cb0546fb599da22cd675660187", null ],
+    [ "PrepareSpellScript", "de/dcc/a16596.html#ad0330cb78a330f05c18f33375f231fbc", null ],
+    [ "Register", "de/dcc/a16596.html#a70a36683a235dec6044a8a32f20c606c", null ],
+    [ "Validate", "de/dcc/a16596.html#affa7ccf869e98eacd3a153cc645d704e", null ]
 ];

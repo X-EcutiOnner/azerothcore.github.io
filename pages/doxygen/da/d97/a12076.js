@@ -1,12 +1,13 @@
 var a12076 =
 [
-    [ "wp_commandscript", "da/d97/a12076.html#a152610b5faf3ee05bb830bbf820b7162", null ],
-    [ "GetCommands", "da/d97/a12076.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
-    [ "HandleWpAddCommand", "da/d97/a12076.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
-    [ "HandleWpEventCommand", "da/d97/a12076.html#a16fdb79724677307198ccf2fd6aa670d", null ],
-    [ "HandleWpLoadCommand", "da/d97/a12076.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
-    [ "HandleWpModifyCommand", "da/d97/a12076.html#a83677a6b64c3e5f6e44345026775721a", null ],
-    [ "HandleWpReloadCommand", "da/d97/a12076.html#a671598d3727fa7e9358391008c690cb6", null ],
-    [ "HandleWpShowCommand", "da/d97/a12076.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
-    [ "HandleWpUnLoadCommand", "da/d97/a12076.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
+    [ "gm_commandscript", "da/d97/a12076.html#a1b24112b70818778755ef9b5b062b2e8", null ],
+    [ "GetCommands", "da/d97/a12076.html#a17c725e18324de7aadff260c77d75c45", null ],
+    [ "HandleGMChatCommand", "da/d97/a12076.html#a15a18b1179a602da3eeba7e8247fbbac", null ],
+    [ "HandleGMFlyCommand", "da/d97/a12076.html#a29829660f39c9bfa4190bbb118f482ba", null ],
+    [ "HandleGMListFullCommand", "da/d97/a12076.html#add9bd1e64f98964e68cd1be3df6295e7", null ],
+    [ "HandleGMListIngameCommand", "da/d97/a12076.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
+    [ "HandleGMOffCommand", "da/d97/a12076.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
+    [ "HandleGMOnCommand", "da/d97/a12076.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
+    [ "HandleGMSpectatorCommand", "da/d97/a12076.html#ab05933bfefd1f5727bef430eeac2cee9", null ],
+    [ "HandleGMVisibleCommand", "da/d97/a12076.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
 ];

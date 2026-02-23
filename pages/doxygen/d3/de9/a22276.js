@@ -1,7 +1,8 @@
 var a22276 =
 [
-    [ "GetSeatNumber", "d3/de9/a22276.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
-    [ "HandleDummy", "d3/de9/a22276.html#ac5945381452559e1d5655f5345bdeff3", null ],
-    [ "PrepareSpellScript", "d3/de9/a22276.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
-    [ "Register", "d3/de9/a22276.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
+    [ "npc_wg_spirit_guideAI", "d4/d30/a22280.html", "d4/d30/a22280" ],
+    [ "npc_wg_spirit_guide", "d3/de9/a22276.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
+    [ "GetAI", "d3/de9/a22276.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
+    [ "OnGossipHello", "d3/de9/a22276.html#a2d46078cb47f817239685d168f7f2e35", null ],
+    [ "OnGossipSelect", "d3/de9/a22276.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
 ];

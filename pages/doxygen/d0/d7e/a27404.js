@@ -1,10 +1,7 @@
 var a27404 =
 [
-    [ "boss_emerissAI", "d0/d7e/a27404.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
-    [ "DamageTaken", "d0/d7e/a27404.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
-    [ "ExecuteEvent", "d0/d7e/a27404.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
-    [ "JustEngagedWith", "d0/d7e/a27404.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
-    [ "KilledUnit", "d0/d7e/a27404.html#ad851169bc09a362137e211dd10d30a1b", null ],
-    [ "Reset", "d0/d7e/a27404.html#a44dfb325c4e8413662052137edc710ef", null ],
-    [ "_stage", "d0/d7e/a27404.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
+    [ "HandleProc", "d0/d7e/a27404.html#a46726e3e05e386892ea86d74d161e8d0", null ],
+    [ "PrepareAuraScript", "d0/d7e/a27404.html#acda7b1b6e91a433b72c2a5dd0e165685", null ],
+    [ "Register", "d0/d7e/a27404.html#a33cd336a6ca68e66e6046cfdac776fee", null ],
+    [ "Validate", "d0/d7e/a27404.html#a5f2c7d754a37e6ae02d4aaec758841e5", null ]
 ];

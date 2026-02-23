@@ -1,7 +1,6 @@
 var a16232 =
 [
-    [ "HandleScriptEffect", "df/d80/a16232.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
-    [ "PrepareSpellScript", "df/d80/a16232.html#a392c40d469c3c1e816d5dc364fde824c", null ],
-    [ "Register", "df/d80/a16232.html#aa59c26b25ca0f440de36e450adf050a5", null ],
-    [ "Validate", "df/d80/a16232.html#a370f83112d901f9565734b11d12858f4", null ]
+    [ "HandleApply", "df/d80/a16232.html#aee4d5908035d06be2f1469a50db02e26", null ],
+    [ "PrepareAuraScript", "df/d80/a16232.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
+    [ "Register", "df/d80/a16232.html#ac83962bef84b68cef6d7937769730598", null ]
 ];

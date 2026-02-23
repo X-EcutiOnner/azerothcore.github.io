@@ -1,7 +1,6 @@
 var a17280 =
 [
-    [ "HandlePeriodicTick", "d7/dcd/a17280.html#ac8b3f1a826e3491d4315983a89d23d2e", null ],
-    [ "PrepareAuraScript", "d7/dcd/a17280.html#ad54c3014195c5b848ab1f9cc978f72b3", null ],
-    [ "Register", "d7/dcd/a17280.html#af8e1ee8ddf7ed8290eb71fb7697428fb", null ],
-    [ "Validate", "d7/dcd/a17280.html#a6de2140f17790b63314f653b7dd0ddd3", null ]
+    [ "npc_ghostly_priestAI", "df/dda/a17284.html", "df/dda/a17284" ],
+    [ "npc_ghostly_priest", "d7/dcd/a17280.html#a7c03bb327cfc65f4df515969da482ddb", null ],
+    [ "GetAI", "d7/dcd/a17280.html#a0fab76345c5459efcedff02123e4fc8d", null ]
 ];

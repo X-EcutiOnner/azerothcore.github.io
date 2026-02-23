@@ -1,7 +1,7 @@
 var a12748 =
 [
-    [ "HandlePeriodic", "d5/d81/a12748.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
-    [ "PrepareAuraScript", "d5/d81/a12748.html#a5dca8e116c05d11961cbd7995314441e", null ],
-    [ "Register", "d5/d81/a12748.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
-    [ "Validate", "d5/d81/a12748.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
+    [ "HandleDummy", "d5/d81/a12748.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
+    [ "PrepareSpellScript", "d5/d81/a12748.html#a6ec124990f202af0c6063c285bf04d88", null ],
+    [ "Register", "d5/d81/a12748.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
+    [ "Validate", "d5/d81/a12748.html#ae35efa08f507aac5b72166a216d01870", null ]
 ];

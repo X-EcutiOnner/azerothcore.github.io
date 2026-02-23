@@ -1,7 +1,5 @@
 var a22280 =
 [
-    [ "HandleDummy", "d4/d30/a22280.html#abfb58e49821e6a563940e8ba518db850", null ],
-    [ "PrepareSpellScript", "d4/d30/a22280.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
-    [ "Register", "d4/d30/a22280.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
-    [ "Validate", "d4/d30/a22280.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
+    [ "npc_wg_spirit_guideAI", "d4/d30/a22280.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
+    [ "UpdateAI", "d4/d30/a22280.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
 ];

@@ -1,14 +1,7 @@
 var a21896 =
 [
-    [ "npc_dalaran_mageAI", "db/dde/a21896.html#ae896a065d2975c5f4d0a125261796215", null ],
-    [ "Initialize", "db/dde/a21896.html#a8ede1e1e4599f288f5a8c20c40c11236", null ],
-    [ "JustEngagedWith", "db/dde/a21896.html#a05e9c672ab73029c70fa3d2605b6174d", null ],
-    [ "Reset", "db/dde/a21896.html#adee723525f46e5476e135e3043f5feb9", null ],
-    [ "UpdateAI", "db/dde/a21896.html#ab3d5812e38c1fcc1c01af3fdbd27a61e", null ],
-    [ "blink_timer", "db/dde/a21896.html#ae888e0e5d3302e0a47b6e3d41f166c67", null ],
-    [ "blizzard_timer", "db/dde/a21896.html#a5da62a7ee9abf7a94c2543076d6479a6", null ],
-    [ "CoC_Timer", "db/dde/a21896.html#a8a86c02e2c3759ec1f64087943d37b26", null ],
-    [ "frostfire_timer", "db/dde/a21896.html#ab91070d41571e0070a7c92bf0694f4cc", null ],
-    [ "frostnova_timer", "db/dde/a21896.html#a77e9a7686cece7ee97236ce6386f82bf", null ],
-    [ "restoremana_timer", "db/dde/a21896.html#a33da20a649faa6ee7e61db79846ac4a7", null ]
+    [ "HandleScript", "db/dde/a21896.html#a7fec959237546201ea94d5f87068e1c5", null ],
+    [ "PrepareSpellScript", "db/dde/a21896.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
+    [ "Register", "db/dde/a21896.html#a0aab07a4950f60a290491aa13103b332", null ],
+    [ "Validate", "db/dde/a21896.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
 ];

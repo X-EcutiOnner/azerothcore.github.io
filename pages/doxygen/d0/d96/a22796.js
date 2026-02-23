@@ -1,8 +1,9 @@
 var a22796 =
 [
-    [ "CalcPeriodic", "d0/d96/a22796.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
-    [ "OnRemove", "d0/d96/a22796.html#af120bb9d6a0c3d338706613540849412", null ],
-    [ "PrepareAuraScript", "d0/d96/a22796.html#ad413f14193013058e1775f80b457a81d", null ],
-    [ "Register", "d0/d96/a22796.html#aa35fc5865f108712e450661e67c384ce", null ],
-    [ "Update", "d0/d96/a22796.html#aebc61b57ed8038488ec06c14483b2099", null ]
+    [ "FilterTargets", "d0/d96/a22796.html#aa8f0401dd004e816b8071381289116fa", null ],
+    [ "HandleTeleportUnits", "d0/d96/a22796.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
+    [ "PrepareSpellScript", "d0/d96/a22796.html#a47898c213cdd125714c80d327bf42d8c", null ],
+    [ "Register", "d0/d96/a22796.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
+    [ "SetDest", "d0/d96/a22796.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
+    [ "Validate", "d0/d96/a22796.html#a814083360970284a325621f45e109b5b", null ]
 ];

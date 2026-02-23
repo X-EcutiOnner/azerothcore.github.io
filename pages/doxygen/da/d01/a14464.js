@@ -1,19 +1,10 @@
 var a14464 =
 [
-    [ "npc_dark_iron_guzzler", "da/d01/a14464.html#a53ce152d0bf8e727ed0b385bb2293363", null ],
-    [ "AttackStart", "da/d01/a14464.html#a47295b69eaecf3c001c43a1550dd1a80", null ],
-    [ "DamageTaken", "da/d01/a14464.html#affd1f78b5c1df26824b08416d6bd03a1", null ],
-    [ "FindNextKeg", "da/d01/a14464.html#ac063799097f89c09f30bed79151e8ed6", null ],
-    [ "GetTarget", "da/d01/a14464.html#a076305d37ce348b24b35f7956385e8fc", null ],
-    [ "JustEngagedWith", "da/d01/a14464.html#ae8142b745e493ab4a77b9df12ea9474d", null ],
-    [ "KilledUnit", "da/d01/a14464.html#a018513f23158fcd6f929a90cfecfde4c", null ],
-    [ "MoveInLineOfSight", "da/d01/a14464.html#aaa4df56f1f587029b24626ae1aca552a", null ],
-    [ "MovementInform", "da/d01/a14464.html#ada6c7f97e25eb545926d6531495bb397", null ],
-    [ "Reset", "da/d01/a14464.html#af608024d4b41fa218a7baeae9bee72ef", null ],
-    [ "SayText", "da/d01/a14464.html#a872bdd2e2ff2b72c983658c63d74e2c3", null ],
-    [ "SpellHit", "da/d01/a14464.html#ae195867416885e570c2c9a4837ac33c1", null ],
-    [ "UpdateAI", "da/d01/a14464.html#a5decab6f76369ec9ce037dd050898423", null ],
-    [ "attacking", "da/d01/a14464.html#a18a1d7e61b99819666366c6791154e01", null ],
-    [ "targetGUID", "da/d01/a14464.html#a620df1502373954020a910853cb6dd3a", null ],
-    [ "timer", "da/d01/a14464.html#a9748d587b61c148a27be690a6354473f", null ]
+    [ "npc_batrider", "da/d01/a14464.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
+    [ "DamageTaken", "da/d01/a14464.html#ad4818b1363082a91223526908c38777c", null ],
+    [ "JustEngagedWith", "da/d01/a14464.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
+    [ "Reset", "da/d01/a14464.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
+    [ "UpdateAI", "da/d01/a14464.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
+    [ "_mode", "da/d01/a14464.html#acd53ec78a754219511af1ad2f11422a9", null ],
+    [ "_scheduler", "da/d01/a14464.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
 ];

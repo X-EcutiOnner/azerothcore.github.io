@@ -1,10 +1,17 @@
 var a09412 =
 [
-    [ "NearestGameObjectEntryInObjectRangeCheck", "dd/def/a09412.html#a7d57ae865868d4848caf088c4520b2a7", null ],
-    [ "NearestGameObjectEntryInObjectRangeCheck", "dd/def/a09412.html#a28d97af524c2bab39e1bd2e5508e434b", null ],
-    [ "operator()", "dd/def/a09412.html#ad0c6798e28784ed547102414f4c6a31f", null ],
-    [ "i_entry", "dd/def/a09412.html#a5d19a23e7da2e5e5ed417d0a9623ffbb", null ],
-    [ "i_obj", "dd/def/a09412.html#a104b8bece6ea78ba049dc592e54311be", null ],
-    [ "i_onlySpawned", "dd/def/a09412.html#a2a58a6bcff73142e21c082bf2c11eff2", null ],
-    [ "i_range", "dd/def/a09412.html#a94fc995a14f84060f3bfe5827f17b95e", null ]
+    [ "MessageDistDeliverer", "dd/def/a09412.html#a8f8c9fb2dadaa8c521b5036a94a4c9a4", null ],
+    [ "SendPacket", "dd/def/a09412.html#af085a9490dfd5a1e577bda6d8333fe1d", null ],
+    [ "Visit", "dd/def/a09412.html#af44878b494b1412f0d08248f6a88fff6", null ],
+    [ "Visit", "dd/def/a09412.html#a2e8d0ad4bdc5fc8961d9f67b6a93b69d", null ],
+    [ "Visit", "dd/def/a09412.html#a8c56d33ec988bfb6ba078fce00beab1a", null ],
+    [ "Visit", "dd/def/a09412.html#a09171ca5e494d7cc4b19340e95367a64", null ],
+    [ "Visit", "dd/def/a09412.html#ab8bf1e8d9f81dac6baa006262835628f", null ],
+    [ "i_distSq", "dd/def/a09412.html#a871dda581863f0919f1d5b2f60c2fcd9", null ],
+    [ "i_message", "dd/def/a09412.html#ac49c2d8b9120edbafd6b04656a6d2909", null ],
+    [ "i_phaseMask", "dd/def/a09412.html#abca07d041f9b45b4002f15dfff6e1c9e", null ],
+    [ "i_source", "dd/def/a09412.html#aa65c4e298a1302647fdaad1b1227a3a2", null ],
+    [ "required3dDist", "dd/def/a09412.html#abdce98d93c98513a434df80b97c096c6", null ],
+    [ "skipped_receiver", "dd/def/a09412.html#a7f92e1c65cdc8346dd4bac47f1ba8b5b", null ],
+    [ "teamId", "dd/def/a09412.html#acfda3713bbde51a110cb160f0325f848", null ]
 ];

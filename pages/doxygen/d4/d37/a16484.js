@@ -1,13 +1,11 @@
 var a16484 =
 [
-    [ "boss_eadricAI", "d4/d37/a16484.html#a461043fe1bff0f5478e2a57504e7477c", null ],
-    [ "DamageTaken", "d4/d37/a16484.html#a440899ffdeda7794ef4fa5530638eecc", null ],
-    [ "JustEngagedWith", "d4/d37/a16484.html#a09a0cebcdffb00e37e9d60111c582669", null ],
-    [ "KilledUnit", "d4/d37/a16484.html#a0bc5d9ba3f45460e62eebdad4e68b8bd", null ],
-    [ "MovementInform", "d4/d37/a16484.html#aa20253b3f0aec2678b2e3b1c3a9d1a47", null ],
-    [ "Reset", "d4/d37/a16484.html#a8776bc2937ed9dc4decd1e71929edf65", null ],
-    [ "SpellHit", "d4/d37/a16484.html#aef7c66b9ff0a728c140899940a2d7e85", null ],
-    [ "UpdateAI", "d4/d37/a16484.html#a38e8052f3e5d8d81bb4b79fb41717efb", null ],
-    [ "events", "d4/d37/a16484.html#a5804ea238fd1c32201c3be943d2fe5ca", null ],
-    [ "pInstance", "d4/d37/a16484.html#a43a8f2beebae9bb27ff03e0e9af2d36b", null ]
+    [ "boss_general_zarithrianAI", "d4/d37/a16484.html#a4168a5883052810d137f59d3b104bc24", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d4/d37/a16484.html#a22f6ff041e61c94df73a938162fa26f5", null ],
+    [ "JustDied", "d4/d37/a16484.html#a49be533142c82a95a136dc2dcbf4843c", null ],
+    [ "JustEngagedWith", "d4/d37/a16484.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
+    [ "JustSummoned", "d4/d37/a16484.html#acb694d20b35d57a315aa4662562af210", null ],
+    [ "KilledUnit", "d4/d37/a16484.html#ad385477740b728e63acff7c184df3c09", null ],
+    [ "Reset", "d4/d37/a16484.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
+    [ "UpdateAI", "d4/d37/a16484.html#a3a7e578d64a760cd38712c725eecc97d", null ]
 ];

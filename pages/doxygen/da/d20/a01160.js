@@ -1,45 +1,41 @@
 var a01160 =
 [
-    [ "PassengerInfo", "de/d6b/a08909.html", "de/d6b/a08909" ],
-    [ "VehicleSeatAddon", "dc/dc9/a08913.html", "dc/dc9/a08913" ],
-    [ "VehicleSeat", "d4/d8a/a08917.html", "d4/d8a/a08917" ],
-    [ "VehicleAccessory", "d9/d82/a08921.html", "d9/d82/a08921" ],
-    [ "TransportBase", "df/d62/a08925.html", "df/d62/a08925" ],
-    [ "SeatMap", "da/d20/a01160.html#a2dadb2596b27d20ebbc12696cb7b9a74", null ],
-    [ "VehicleAccessoryContainer", "da/d20/a01160.html#a5b46179616c0e205a7c933e02f87160b", null ],
-    [ "VehicleAccessoryList", "da/d20/a01160.html#af5d682a742080008bd21db9bba6e162f", null ],
-    [ "PowerType", "da/d20/a01160.html#a0d0e3226055ad5266e487b58fd01cebd", [
-      [ "POWER_STEAM", "da/d20/a01160.html#a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f", null ],
-      [ "POWER_PYRITE", "da/d20/a01160.html#a0d0e3226055ad5266e487b58fd01cebda80a2f688d9270400c0a412df595754d9", null ],
-      [ "POWER_HEAT", "da/d20/a01160.html#a0d0e3226055ad5266e487b58fd01cebda84c681da1fcd67b223f97fd81f534434", null ],
-      [ "POWER_OOZE", "da/d20/a01160.html#a0d0e3226055ad5266e487b58fd01cebda9bc45bf37416c880275746bf261a4097", null ],
-      [ "POWER_BLOOD", "da/d20/a01160.html#a0d0e3226055ad5266e487b58fd01cebda73464121f88e583ed4c4f89280fd7d68", null ],
-      [ "POWER_WRATH", "da/d20/a01160.html#a0d0e3226055ad5266e487b58fd01cebda94e6111f7ab9d0e57b77b1b3f70faab1", null ]
+    [ "FileCloser", "d0/d50/a11848.html", "d0/d50/a11848" ],
+    [ "BaseTable", "d9/d03/a11852.html", "d9/d03/a11852" ],
+    [ "DumpTable", "d4/d3b/a11856.html", "d4/d3b/a11856" ],
+    [ "StringTransaction", "d0/d1f/a11860.html", "d0/d1f/a11860" ],
+    [ "TableField", "d5/d16/a11864.html", "d5/d16/a11864" ],
+    [ "TableStruct", "d5/dc5/a11868.html", "d5/dc5/a11868" ],
+    [ "FileHandle", "da/d20/a01160.html#ad7de4fbad2e55215496223bdf2a32cd9", null ],
+    [ "GuidType", "da/d20/a01160.html#a786729c2a29db8efe3400a170aeb9073", [
+      [ "GUID_TYPE_ACCOUNT", "da/d20/a01160.html#a786729c2a29db8efe3400a170aeb9073add99b8eef962c1e9a87a68646b4bf876", null ],
+      [ "GUID_TYPE_CHAR", "da/d20/a01160.html#a786729c2a29db8efe3400a170aeb9073ac93e6c4d1a9efe0499f1c7a7b826821e", null ],
+      [ "GUID_TYPE_PET", "da/d20/a01160.html#a786729c2a29db8efe3400a170aeb9073a69c016bd84f08697ac13b16609866466", null ],
+      [ "GUID_TYPE_MAIL", "da/d20/a01160.html#a786729c2a29db8efe3400a170aeb9073a53f4408b25dfeb8012a6ff280c5abf34", null ],
+      [ "GUID_TYPE_ITEM", "da/d20/a01160.html#a786729c2a29db8efe3400a170aeb9073ad1a7c19c45454ebb3d4fbaa8e7c23e02", null ],
+      [ "GUID_TYPE_EQUIPMENT_SET", "da/d20/a01160.html#a786729c2a29db8efe3400a170aeb9073a7e486a867408d382ecfe7bfe1a79a157", null ],
+      [ "GUID_TYPE_NULL", "da/d20/a01160.html#a786729c2a29db8efe3400a170aeb9073a4215597c66d8cb0ea684255c5b7a2874", null ]
     ] ],
-    [ "VehicleExitParameters", "da/d20/a01160.html#a7f17d71c7e2664769a8e8a8b40cb5116", [
-      [ "VehicleExitParamNone", "da/d20/a01160.html#a7f17d71c7e2664769a8e8a8b40cb5116aa81d7ce24590f0cf3b5de2218dc4b2eb", null ],
-      [ "VehicleExitParamOffset", "da/d20/a01160.html#a7f17d71c7e2664769a8e8a8b40cb5116aa79483bd0c086e5f24b906b5e4b28427", null ],
-      [ "VehicleExitParamDest", "da/d20/a01160.html#a7f17d71c7e2664769a8e8a8b40cb5116a0f2b1d49adc9bb508c54af39ddb0b99d", null ],
-      [ "VehicleExitParamMax", "da/d20/a01160.html#a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0", null ]
-    ] ],
-    [ "VehicleFlags", "da/d20/a01160.html#a6f71ae83254cc7417ec04e6ac2a55f7a", [
-      [ "VEHICLE_FLAG_NO_STRAFE", "da/d20/a01160.html#a6f71ae83254cc7417ec04e6ac2a55f7aa42ade3ec25a77cbf106f1da2cc732a6b", null ],
-      [ "VEHICLE_FLAG_NO_JUMPING", "da/d20/a01160.html#a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f", null ],
-      [ "VEHICLE_FLAG_FULLSPEEDTURNING", "da/d20/a01160.html#a6f71ae83254cc7417ec04e6ac2a55f7aa8eb5fb073cde2366b27d7726b55593b1", null ],
-      [ "VEHICLE_FLAG_ALLOW_PITCHING", "da/d20/a01160.html#a6f71ae83254cc7417ec04e6ac2a55f7aa929f5dba0c217566377740ffbde2195f", null ],
-      [ "VEHICLE_FLAG_FULLSPEEDPITCHING", "da/d20/a01160.html#a6f71ae83254cc7417ec04e6ac2a55f7aaeeead2f047ca8fa51f9fb779867cd2c5", null ],
-      [ "VEHICLE_FLAG_CUSTOM_PITCH", "da/d20/a01160.html#a6f71ae83254cc7417ec04e6ac2a55f7aaadfdb0e47bbca692a5cada5b07577a22", null ],
-      [ "VEHICLE_FLAG_ADJUST_AIM_ANGLE", "da/d20/a01160.html#a6f71ae83254cc7417ec04e6ac2a55f7aa2cdd4b1bec19233a8162dc420ecde103", null ],
-      [ "VEHICLE_FLAG_ADJUST_AIM_POWER", "da/d20/a01160.html#a6f71ae83254cc7417ec04e6ac2a55f7aadf965323e550d3307799178679544dd5", null ]
-    ] ],
-    [ "VehicleNPCs", "da/d20/a01160.html#aecacfdf074f78c4655fc7b038cce5c06", [
-      [ "NPC_EIDOLON_WATCHER", "da/d20/a01160.html#aecacfdf074f78c4655fc7b038cce5c06a1ad291a45a8ceaff91f636890e29dcb8", null ],
-      [ "NPC_LITHE_STALKER", "da/d20/a01160.html#aecacfdf074f78c4655fc7b038cce5c06a5a7d35fc890662fca47daf84cc7c0612", null ]
-    ] ],
-    [ "VehicleSpells", "da/d20/a01160.html#a5829b6d4bd25b5c2a56495142fa8ca54", [
-      [ "VEHICLE_SPELL_RIDE_HARDCODED", "da/d20/a01160.html#a5829b6d4bd25b5c2a56495142fa8ca54adc19864d7c866905ca0c5bcec8b60119", null ],
-      [ "VEHICLE_SPELL_PARACHUTE", "da/d20/a01160.html#a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae", null ],
-      [ "VEHICLE_SPELL_GEIST_CONTROL_END", "da/d20/a01160.html#a5829b6d4bd25b5c2a56495142fa8ca54ac4b6447ce07cbd236c81e6cc097a42fe", null ],
-      [ "VEHICLE_SPELL_SHADE_CONTROL_END", "da/d20/a01160.html#a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b", null ]
-    ] ]
+    [ "AppendTableDump", "da/d20/a01160.html#a372c4190050b1bd62a350242bd1ebeca", null ],
+    [ "AssertBaseTable", "da/d20/a01160.html#a3e4f9eec1091165debd31a11766ccf29", null ],
+    [ "ChangeColumn", "da/d20/a01160.html#a472b6d51c18d3fc72f924f199508ea12", null ],
+    [ "ChangeGuid", "da/d20/a01160.html#a43971347cb9fd242d082d962c1b8184e", null ],
+    [ "FindColumn", "da/d20/a01160.html#aefd4f8ad39e21517e1160f4209e9492f", null ],
+    [ "FindColumnByName", "da/d20/a01160.html#aef6e6393d5903e926f3f8ed0d65501b3", null ],
+    [ "FixNULLfields", "da/d20/a01160.html#ad06caa0201c6ed5de4537e124ac90086", null ],
+    [ "GenerateWhereStr", "da/d20/a01160.html#af5ecd510e3a4c642ed2250c17649f925", null ],
+    [ "GenerateWhereStr", "da/d20/a01160.html#a78a33c3255668abb77c4710ed82ab71d", null ],
+    [ "GetColumn", "da/d20/a01160.html#a21507cf8ad94e164df4f1bfe273d32da", null ],
+    [ "GetColumnIndexByName", "da/d20/a01160.html#a995022112291c980706933e2de6accf5", null ],
+    [ "GetFileHandle", "da/d20/a01160.html#a4b7f4eca1fd3d5d501b08819b8949edb", null ],
+    [ "GetTableName", "da/d20/a01160.html#af32b9d84c5a117bcf96df822301d8350", null ],
+    [ "MarkDependentColumn", "da/d20/a01160.html#a17802f71d1e9f88bd6ded0e79a8b4405", null ],
+    [ "MarkWhereField", "da/d20/a01160.html#ac8eb839b544e24a47a01c195daec540a", null ],
+    [ "RegisterNewGuid", "da/d20/a01160.html#a99e441709c35a6ba0ffeda0e25143cf9", null ],
+    [ "StringsEqualCaseInsensitive", "da/d20/a01160.html#a83fd95e505d5de193245e4de46589892", null ],
+    [ "ValidateFields", "da/d20/a01160.html#ac091f551576a1206061821e3d95b9bc6", null ],
+    [ "BaseTables", "da/d20/a01160.html#a9a85cce136a6d1ebc3195903ee719aec", null ],
+    [ "CharacterTables", "da/d20/a01160.html#ae8849d3a4dc3838acedf5f6f84242c08", null ],
+    [ "DUMP_TABLE_COUNT", "da/d20/a01160.html#a4d61020c5d40e9d3093656551dcc00f0", null ],
+    [ "DumpTables", "da/d20/a01160.html#a846234dc3d2969c8ef6f67687a3a4049", null ]
 ];

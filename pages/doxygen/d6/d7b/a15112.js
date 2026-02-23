@@ -1,7 +1,7 @@
 var a15112 =
 [
-    [ "npc_tarethaAI", "d0/d37/a15116.html", "d0/d37/a15116" ],
-    [ "npc_taretha", "d6/d7b/a15112.html#a54379e06518ff972e91e25e295731f5a", null ],
-    [ "GetAI", "d6/d7b/a15112.html#a5045bb7119b12800ee0053818fcae5fe", null ],
-    [ "OnGossipHello", "d6/d7b/a15112.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
+    [ "hyjalJainaAI", "d0/d37/a15116.html", "d0/d37/a15116" ],
+    [ "npc_hyjal_jaina", "d6/d7b/a15112.html#a6616aa6c38818770610259312a392a3f", null ],
+    [ "GetAI", "d6/d7b/a15112.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
+    [ "OnGossipSelect", "d6/d7b/a15112.html#a47853fa317b1a9325fcbe555867139f6", null ]
 ];

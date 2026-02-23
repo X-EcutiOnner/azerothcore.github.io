@@ -1,6 +1,7 @@
 var a27400 =
 [
-    [ "boss_emerissAI", "d0/d7e/a27404.html", "d0/d7e/a27404" ],
-    [ "boss_emeriss", "de/d92/a27400.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "de/d92/a27400.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "HandleProc", "de/d92/a27400.html#a3878044c77e9560bcc7d531d5c119e0f", null ],
+    [ "PrepareAuraScript", "de/d92/a27400.html#a3a496539a6adddca91724d9cc77f81c3", null ],
+    [ "Register", "de/d92/a27400.html#a096f4ecd857cc642ff1d1e5119933921", null ],
+    [ "Validate", "de/d92/a27400.html#a1592084736ebe5b10a343aee4dba8050", null ]
 ];

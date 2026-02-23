@@ -1,10 +1,7 @@
 var a24524 =
 [
-    [ "npc_isla_starmaneAI", "d9/d0f/a24524.html#a0cb655d324ddde173dcfdee069c0f694", null ],
-    [ "JustDied", "d9/d0f/a24524.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
-    [ "JustEngagedWith", "d9/d0f/a24524.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
-    [ "JustRespawned", "d9/d0f/a24524.html#a69b395a9b9504737109870c5e8db74c8", null ],
-    [ "UpdateEscortAI", "d9/d0f/a24524.html#af4b8c80e7443bb671be253238b124910", null ],
-    [ "WaypointReached", "d9/d0f/a24524.html#a5d00583afa4e811e4f3cb8400787a990", null ],
-    [ "events", "d9/d0f/a24524.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
+    [ "HandleDummy", "d9/d0f/a24524.html#a54f7f56a9122b623855eb9d11e34dfca", null ],
+    [ "PrepareSpellScript", "d9/d0f/a24524.html#a2fe4b009fa3741c180e18730af5853e3", null ],
+    [ "Register", "d9/d0f/a24524.html#a762c2320ab8d48e1284d81962a4b078f", null ],
+    [ "Validate", "d9/d0f/a24524.html#a42fbc381d7ae89f1ac265fb15ebd864f", null ]
 ];

@@ -1,6 +1,7 @@
 var a11612 =
 [
-    [ "EffectSplitHandler", "d6/d86/a11612.html#a1e31c0f06961aba66f6737c4b4aca7f6", null ],
-    [ "Call", "d6/d86/a11612.html#ae0ef79af01cce82ed3cbe208d98b325a", null ],
-    [ "pEffectHandlerScript", "d6/d86/a11612.html#a181c0f987789f3725e7ba7e023cfc4e7", null ]
+    [ "attributeMask", "d6/d86/a11612.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
+    [ "customChance", "d6/d86/a11612.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
+    [ "PPMChance", "d6/d86/a11612.html#adb76c11f0073a2738374c98c01fda009", null ],
+    [ "procEx", "d6/d86/a11612.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
 ];

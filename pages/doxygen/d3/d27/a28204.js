@@ -1,5 +1,5 @@
 var a28204 =
 [
-    [ "Id", "d3/d27/a28204.html#a79e4b857b811a044aed0ce33422df801", null ],
-    [ "quality_mod", "d3/d27/a28204.html#a756e7b316cc365f15f24e5e4637303a6", null ]
+    [ "go_arcane_prison", "d3/d27/a28204.html#ad73ac33d843027de0e516de8f90c45a0", null ],
+    [ "OnGossipHello", "d3/d27/a28204.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
 ];

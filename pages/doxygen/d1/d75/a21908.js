@@ -1,7 +1,7 @@
 var a21908 =
 [
-    [ "npc_cosmetic_toy_plane", "d1/d75/a21908.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
-    [ "Reset", "d1/d75/a21908.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
-    [ "UpdateAI", "d1/d75/a21908.html#a41d62b314510fbd6637d8eddbea16f96", null ],
-    [ "_movementArray", "d1/d75/a21908.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
+    [ "npc_Apothecary_HanesAI", "dd/daa/a21912.html", "dd/daa/a21912" ],
+    [ "npc_apothecary_hanes", "d1/d75/a21908.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
+    [ "GetAI", "d1/d75/a21908.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
+    [ "OnQuestAccept", "d1/d75/a21908.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
 ];

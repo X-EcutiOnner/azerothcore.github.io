@@ -1,7 +1,9 @@
 var a11044 =
 [
-    [ "TrainerBuySpell", "dc/d4d/a11044.html#a8afb92fb908d5efd54bcb78269069d39", null ],
-    [ "Read", "dc/d4d/a11044.html#aa916b9d01157f5f8e98efbcacb3bb5a2", null ],
-    [ "SpellID", "dc/d4d/a11044.html#ae342c806c8faabae54260a26659d49ea", null ],
-    [ "TrainerGUID", "dc/d4d/a11044.html#aca1d9dc89b96415a5065a67f7083423c", null ]
+    [ "SwapItem", "dc/d4d/a11044.html#a603871bfd69a2bcc2083de350f48875a", null ],
+    [ "Read", "dc/d4d/a11044.html#a475122a155c96446ecad1b92ef5c7a19", null ],
+    [ "DestinationBag", "dc/d4d/a11044.html#a30a5a1fccf9c028fa207e58dd0ff82b6", null ],
+    [ "DestinationSlot", "dc/d4d/a11044.html#a0cf0b21ebfccb843ee23831e17982081", null ],
+    [ "SourceBag", "dc/d4d/a11044.html#a19d0895bf7a25da8d8bdaceed14ff0a1", null ],
+    [ "SourceSlot", "dc/d4d/a11044.html#ab080d55f63eb07c8db090123260bee23", null ]
 ];

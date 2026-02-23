@@ -1,20 +1,12 @@
 var a11804 =
 [
-    [ "Weather", "df/da2/a04828.html#gab528c044ef69c717d477eee8eac299b0", null ],
-    [ "~Weather", "df/da2/a04828.html#ga8db480edb9459ebf73a1363c6fea0b27", null ],
-    [ "GetScriptId", "df/da2/a04828.html#ga07ff1c03b6fb225388d418496c18d3be", null ],
-    [ "GetWeatherState", "df/da2/a04828.html#gaed38cecb6af95222638b2177fa48757c", null ],
-    [ "GetZone", "df/da2/a04828.html#ga5cf53e440c7da53eb6524ea1d658b0e6", null ],
-    [ "ReGenerate", "df/da2/a04828.html#gaea61d86d9a64dd5dbc8ea843aad97eb6", null ],
-    [ "SendFineWeatherUpdateToPlayer", "df/da2/a04828.html#gac976d0c6f66bd6ab52932a289e0f9551", null ],
-    [ "SendWeatherUpdateToPlayer", "df/da2/a04828.html#gaf9ff2442cc875af4b6ca4bec7f41c965", null ],
-    [ "SetWeather", "df/da2/a04828.html#ga32e650a32fc1e01bdb6fbfd960fd022f", null ],
-    [ "Update", "df/da2/a04828.html#gaf7a3484daa8221287a4c325fb3a8080c", null ],
-    [ "UpdateWeather", "df/da2/a04828.html#gad4885daeab81309a42c2c1fdebcf33ad", null ],
-    [ "m_grade", "df/da2/a04828.html#ga5638d204d5986f64eed9d343d086895e", null ],
-    [ "m_map", "df/da2/a04828.html#ga3495c619f0ddde94913cbaea0a6354fa", null ],
-    [ "m_timer", "df/da2/a04828.html#gadba1100bafe6db8a242bdad35663e909", null ],
-    [ "m_type", "df/da2/a04828.html#ga19d9ed53043ba2b9eb3bdc27921501eb", null ],
-    [ "m_weatherChances", "df/da2/a04828.html#gaeb74bbd4568c726a2443318aea6313d0", null ],
-    [ "m_zone", "df/da2/a04828.html#ga1fd12588331e8f86399378b7bb12317b", null ]
+    [ "CreatureTextBuilder", "d9/dc0/a11804.html#a582eed3ab284675e72261a1db9808925", null ],
+    [ "operator()", "d9/dc0/a11804.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
+    [ "_gender", "d9/dc0/a11804.html#a615c3046f749bf44b036958fb1a50128", null ],
+    [ "_language", "d9/dc0/a11804.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
+    [ "_msgType", "d9/dc0/a11804.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
+    [ "_source", "d9/dc0/a11804.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
+    [ "_target", "d9/dc0/a11804.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
+    [ "_textGroup", "d9/dc0/a11804.html#afcd842c1482980c6232f3f19d21a1481", null ],
+    [ "_textId", "d9/dc0/a11804.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
 ];

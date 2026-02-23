@@ -1,6 +1,7 @@
 var a13232 =
 [
-    [ "npc_unworthy_initiate_anchorAI", "d6/d01/a13236.html", "d6/d01/a13236" ],
-    [ "npc_unworthy_initiate_anchor", "d5/dd3/a13232.html#a3d4c6d9e5ffa66d3424297b27e5ac4a1", null ],
-    [ "GetAI", "d5/dd3/a13232.html#ab012983661d20a3ffa4f58136bd2d808", null ]
+    [ "PeriodicTick", "d5/dd3/a13232.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
+    [ "PrepareAuraScript", "d5/dd3/a13232.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
+    [ "Register", "d5/dd3/a13232.html#a2681d44b149e9f1d797df4147e20e686", null ],
+    [ "Validate", "d5/dd3/a13232.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
 ];

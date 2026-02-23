@@ -1,24 +1,11 @@
 var a21288 =
 [
-    [ "instance_utgarde_keep_InstanceMapScript", "d9/da9/a21288.html#a6e1f9553dd78441d41eebf81eb0e743f", null ],
-    [ "CheckAchievementCriteriaMeet", "d9/da9/a21288.html#a136381727f59e41e2a44b1a2df96f531", null ],
-    [ "GetData", "d9/da9/a21288.html#a26b1a6a56c786708f247145dbae7e142", null ],
-    [ "Initialize", "d9/da9/a21288.html#aea59c925ddafa04fbfc7c0df32c0e6d8", null ],
-    [ "IsEncounterInProgress", "d9/da9/a21288.html#a373656d7281621244a9417a335bb6444", null ],
-    [ "OnCreatureCreate", "d9/da9/a21288.html#ab1a0732c93f1e57772a61cbce5edb7fb", null ],
-    [ "OnGameObjectCreate", "d9/da9/a21288.html#ab57bdeba49160c7992d9108c41c153d8", null ],
-    [ "OnPlayerEnter", "d9/da9/a21288.html#ad8310db74874b9f870f4f41dc866c7be", null ],
-    [ "ReadSaveDataMore", "d9/da9/a21288.html#a624b8f4b6b55a1aefd67a52e6097976f", null ],
-    [ "SetBossState", "d9/da9/a21288.html#abcaffd445d47826c47f03a94f511b362", null ],
-    [ "SetData", "d9/da9/a21288.html#a5ceeae5fe64d60c8e5e367c5dd8162cc", null ],
-    [ "WriteSaveDataMore", "d9/da9/a21288.html#add59d5cf1b5098bc303fef469ccfb034", null ],
-    [ "bRocksAchiev", "d9/da9/a21288.html#a727452275b30e8c7a64b69079790e754", null ],
-    [ "ForgeEventMask", "d9/da9/a21288.html#a13d0e3aeaa877a24e0007ad3de4082a0", null ],
-    [ "GO_ForgeAnvilGUID", "d9/da9/a21288.html#a089c9ac48cb3c495930a3708b4c72055", null ],
-    [ "GO_ForgeBellowGUID", "d9/da9/a21288.html#a7dbf5504651c521c971c8f9f63387992", null ],
-    [ "GO_ForgeFireGUID", "d9/da9/a21288.html#a1c84731d3f370ba4dc81a4489a33b14b", null ],
-    [ "GO_PortcullisGUID", "d9/da9/a21288.html#a4ba1247511e8a2a695887e3122958b3c", null ],
-    [ "m_auiEncounter", "d9/da9/a21288.html#a2152552f089d16dbfe43de24d62c692e", null ],
-    [ "NPC_SpecialDrakeGUID", "d9/da9/a21288.html#a8ffa659e32c32a5699b85b68c52239cf", null ],
-    [ "str_data", "d9/da9/a21288.html#a69ed0205bba93d86ff4a28f0317bf37e", null ]
+    [ "npc_ichor_globuleAI", "d9/da9/a21288.html#a4d581f89c8385276fd407c000af9e569", null ],
+    [ "AttackStart", "d9/da9/a21288.html#aa4e1fc88a26d6ef41f1ca96c93abbc1a", null ],
+    [ "JustDied", "d9/da9/a21288.html#ad29c7659590933b0749e8e1c2c2e4c46", null ],
+    [ "MoveInLineOfSight", "d9/da9/a21288.html#af8ef8296512d57d934a171f1a5060e73", null ],
+    [ "SpellHit", "d9/da9/a21288.html#a1396538a446545408e3c304f3e56400f", null ],
+    [ "UpdateAI", "d9/da9/a21288.html#a6ff13c853583e5178fb3a690e17303de", null ],
+    [ "pInstance", "d9/da9/a21288.html#a94cbe93a69a28171fc3d91d71b6ec419", null ],
+    [ "uiRangeCheck_Timer", "d9/da9/a21288.html#a99914a55d2dc0b36a623dc7d6248e953", null ]
 ];

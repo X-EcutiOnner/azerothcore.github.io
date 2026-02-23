@@ -1,14 +1,12 @@
 var a01250 =
 [
-    [ "BeforeVisibilityDestroy", "d4/d22/a01250.html#a8172910e1dfdc7b56ca3931dd2fab1fb", null ],
-    [ "BeforeVisibilityDestroy< Creature >", "d4/d22/a01250.html#a62188ab6a72d08b62bf37442dbbfdaa6", null ],
-    [ "getProbabilityOfLevelUp", "d4/d22/a01250.html#aa890f698ac89e4049e1107c05d065495", null ],
-    [ "SkillGainChance", "d4/d22/a01250.html#a66adde9ba6a85d585f6e6e8355499aa6", null ],
-    [ "UpdateVisibilityOf_helper", "d4/d22/a01250.html#a74b7f95092456b1438f82ae741c77e3b", null ],
-    [ "UpdateVisibilityOf_helper", "d4/d22/a01250.html#ac66d5bddb2e8a54da47fa75b3fedc154", null ],
-    [ "UpdateVisibilityOf_helper", "d4/d22/a01250.html#a9ad7cb34613338094db01b886d54cf25", null ],
-    [ "UpdateVisibilityOf_helper", "d4/d22/a01250.html#a6b71c41b4869661630086bd26c35b630", null ],
-    [ "bonusSkillLevels", "d4/d22/a01250.html#a72b3624ee55553e28f82ef06d7c74c6a", null ],
-    [ "bonusSkillLevelsSize", "d4/d22/a01250.html#ad103e97f7db0cfd188ab64f5748c7464", null ],
-    [ "ZONE_UPDATE_INTERVAL", "d4/d22/a01250.html#afabbcd46bf6f03c5dca10b117810b710", null ]
+    [ "WorldObjectScript", "d5/d9e/a10632.html", "d5/d9e/a10632" ],
+    [ "WorldObjectHook", "d4/d22/a01250.html#ab8a14556853bd2637a19973d68ba6d1c", [
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_DESTROY", "d4/d22/a01250.html#ab8a14556853bd2637a19973d68ba6d1ca19911e8e8d81b83808647214673201ce", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_CREATE", "d4/d22/a01250.html#ab8a14556853bd2637a19973d68ba6d1caa4f7a14c3e5de3e6ace4c9a4bacc656c", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_SET_MAP", "d4/d22/a01250.html#ab8a14556853bd2637a19973d68ba6d1ca06f900f1b11de87d54d283b4433d5100", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_RESET_MAP", "d4/d22/a01250.html#ab8a14556853bd2637a19973d68ba6d1cac1f7c2d5eb2a8755ef8e628c8c769241", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_UPDATE", "d4/d22/a01250.html#ab8a14556853bd2637a19973d68ba6d1ca7fcc241c6d7db7844d86f1d88fb06144", null ],
+      [ "WORLDOBJECTHOOK_END", "d4/d22/a01250.html#ab8a14556853bd2637a19973d68ba6d1ca4efa80e98b34555980ec0b06142a4c59", null ]
+    ] ]
 ];

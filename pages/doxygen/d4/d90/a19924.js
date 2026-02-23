@@ -1,6 +1,8 @@
 var a19924 =
 [
-    [ "PrepareSpellScript", "d4/d90/a19924.html#af7426e99a49f8618fc38242ded7132f1", null ],
-    [ "RecalculateDamage", "d4/d90/a19924.html#a94e70b20f2139f668227dccb623c1af6", null ],
-    [ "Register", "d4/d90/a19924.html#acd911f78780e052d88f5f47574092d62", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "d4/d90/a19924.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
+    [ "CheckAchievementCriteriaMeet", "d4/d90/a19924.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
+    [ "SetData", "d4/d90/a19924.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
+    [ "_bjarngrimAchievement", "d4/d90/a19924.html#aba06463eb70c68716f571951395c6e2a", null ],
+    [ "_volkhanAchievement", "d4/d90/a19924.html#a52db8081961566ef2002424f00b60189", null ]
 ];

@@ -1,7 +1,10 @@
 var a17340 =
 [
-    [ "npc_pos_icicle_triggerAI", "d2/d9c/a17340.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
-    [ "UpdateAI", "d2/d9c/a17340.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
-    [ "pInstance", "d2/d9c/a17340.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
-    [ "timer", "d2/d9c/a17340.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
+    [ "npc_hor_spiritual_reflectionAI", "d2/d9c/a17340.html#aac0a916bfa325284b354e7241fe857ab", null ],
+    [ "EnterEvadeMode", "d2/d9c/a17340.html#a49f1c93206bfff53090c138a3dbf79e5", null ],
+    [ "JustDied", "d2/d9c/a17340.html#a72073c44f881d4a78552de4119a716d7", null ],
+    [ "JustEngagedWith", "d2/d9c/a17340.html#ac35e648b93bb39ca831390bf88f6a3e7", null ],
+    [ "Reset", "d2/d9c/a17340.html#ad1f523fad45c34077e6d6ce7b9a4aefd", null ],
+    [ "UpdateAI", "d2/d9c/a17340.html#af9613e9309b85317bc6e3a84013dcf89", null ],
+    [ "events", "d2/d9c/a17340.html#a89a466917aa5634c4c86ecbce21280b7", null ]
 ];

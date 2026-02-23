@@ -1,7 +1,7 @@
 var a27424 =
 [
-    [ "HandlePeriodic", "df/d9e/a27424.html#a3da4cc5322f2e34244729fe3b3876482", null ],
-    [ "PrepareAuraScript", "df/d9e/a27424.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
-    [ "Register", "df/d9e/a27424.html#a53b6067f46912648413fc6d6f107b0d8", null ],
-    [ "Validate", "df/d9e/a27424.html#aa03222717b3c06316b232a6ac0270ec0", null ]
+    [ "HandleDummy", "df/d9e/a27424.html#a6990bc24605167d38772f391aa2a5376", null ],
+    [ "PrepareSpellScript", "df/d9e/a27424.html#af85da0790eb36b91266ffa45888068d6", null ],
+    [ "Register", "df/d9e/a27424.html#a619dab878b3d6e332a15d772dd148e26", null ],
+    [ "Validate", "df/d9e/a27424.html#a5a39713deabac73334442e1bdeb00aad", null ]
 ];

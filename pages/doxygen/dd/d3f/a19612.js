@@ -1,13 +1,8 @@
 var a19612 =
 [
-    [ "npc_oculus_unstable_sphereAI", "dd/d3f/a19612.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
-    [ "AttackStart", "dd/d3f/a19612.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
-    [ "MoveInLineOfSight", "dd/d3f/a19612.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
-    [ "MovementInform", "dd/d3f/a19612.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
-    [ "PickNewLocation", "dd/d3f/a19612.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
-    [ "Reset", "dd/d3f/a19612.html#ac2e391d0149b62823ac9074d45c694cf", null ],
-    [ "UpdateAI", "dd/d3f/a19612.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
-    [ "gonext", "dd/d3f/a19612.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
-    [ "located", "dd/d3f/a19612.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
-    [ "timer", "dd/d3f/a19612.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
+    [ "HandleAfterCast", "dd/d3f/a19612.html#ac816f81a668ac3018be8f5dc4698039b", null ],
+    [ "HandleDummy", "dd/d3f/a19612.html#a3009faa525c22779a0b2534b96821cfd", null ],
+    [ "PrepareSpellScript", "dd/d3f/a19612.html#aca38f23f080314ab73ec2494bf877716", null ],
+    [ "Register", "dd/d3f/a19612.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
+    [ "Validate", "dd/d3f/a19612.html#af945e399992deb3aef5c81ad393ee50f", null ]
 ];

@@ -1,7 +1,7 @@
 var a27868 =
 [
-    [ "npc_wormholeAI", "d5/d57/a27868.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
-    [ "GetData", "d5/d57/a27868.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
-    [ "InitializeAI", "d5/d57/a27868.html#aa0a903014ec7243036604ffcc67e0a36", null ],
-    [ "_showUnderground", "d5/d57/a27868.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
+    [ "HandleDummy", "d5/d57/a27868.html#a120ae48454922c30b0df0a1caf464216", null ],
+    [ "PrepareSpellScript", "d5/d57/a27868.html#ad8cde850116b8d4beef798724c6e4283", null ],
+    [ "Register", "d5/d57/a27868.html#a516709e073a7cc84ada03058195da728", null ],
+    [ "Validate", "d5/d57/a27868.html#ad647af566f06c7e76ef573f670d514ca", null ]
 ];

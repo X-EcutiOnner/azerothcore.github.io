@@ -1,17 +1,10 @@
 var a10428 =
 [
-    [ "GuildScript", "d6/d04/a10428.html#a9f2e849a2fb4a1cb901080f129692482", null ],
-    [ "CanGuildSendBankList", "d6/d04/a10428.html#a293f3d822ae075246f1a7552ce9b0424", null ],
-    [ "IsDatabaseBound", "d6/d04/a10428.html#aae0601f04ec90533bb7699c68f68fe8f", null ],
-    [ "OnAddMember", "d6/d04/a10428.html#a908df71c0d9be1258e624f4e977e8d75", null ],
-    [ "OnBankEvent", "d6/d04/a10428.html#a8f29c847a68fb41dd3bca4ac257ee159", null ],
-    [ "OnCreate", "d6/d04/a10428.html#acfc89fe841629beca8de15c23c48a6c7", null ],
-    [ "OnDisband", "d6/d04/a10428.html#a5c840084ca74af0556ac5d6256bfd75d", null ],
-    [ "OnEvent", "d6/d04/a10428.html#ad0733568cee8ded5c89d8404166201bb", null ],
-    [ "OnInfoChanged", "d6/d04/a10428.html#a3ce284c112b61c6077b509d55a52f388", null ],
-    [ "OnItemMove", "d6/d04/a10428.html#a2309a1ae2828cb7c758a5cf0329f1f5a", null ],
-    [ "OnMemberDepositMoney", "d6/d04/a10428.html#a64d676d964b408b6fde7ab9185951eb0", null ],
-    [ "OnMemberWitdrawMoney", "d6/d04/a10428.html#a503c5116512f8ac45506732674aa5635", null ],
-    [ "OnMOTDChanged", "d6/d04/a10428.html#ac5886f63fbc5da499843677339f4944b", null ],
-    [ "OnRemoveMember", "d6/d04/a10428.html#a0231be74a2625a91fc617980dfc41ca3", null ]
+    [ "AchievementScript", "d6/d04/a10428.html#a85f0d7a676e7e31bc87ca64040b29489", null ],
+    [ "CanCheckCriteria", "d6/d04/a10428.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
+    [ "IsCompletedCriteria", "d6/d04/a10428.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
+    [ "IsDatabaseBound", "d6/d04/a10428.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
+    [ "IsRealmCompleted", "d6/d04/a10428.html#abc54c295c1bcad45e21aed99e43a3713", null ],
+    [ "OnBeforeCheckCriteria", "d6/d04/a10428.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
+    [ "SetRealmCompleted", "d6/d04/a10428.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
 ];

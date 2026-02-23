@@ -1,9 +1,10 @@
 var a14624 =
 [
-    [ "entries", "d9/d22/a14624.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
-    [ "entries", "d9/d22/a14624.html#a953850b267eb6f599bb49d82080bdf64", null ],
-    [ "revelerId", "d9/d22/a14624.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
-    [ "schedule", "d9/d22/a14624.html#a7fd78a5fa19a14ab1b002f5b6ef4e20f", null ],
-    [ "size", "d9/d22/a14624.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
-    [ "spawns", "d9/d22/a14624.html#aa22c51469489fbb6551de2b751f06c94", null ]
+    [ "npc_brewfest_super_brew_trigger", "d9/d22/a14624.html#a3d2189978683150b1c431fa0fd637358", null ],
+    [ "AttackStart", "d9/d22/a14624.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
+    [ "JustEngagedWith", "d9/d22/a14624.html#a61be52cb8ba0cc10285820ad5324816e", null ],
+    [ "MoveInLineOfSight", "d9/d22/a14624.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
+    [ "Reset", "d9/d22/a14624.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
+    [ "UpdateAI", "d9/d22/a14624.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
+    [ "timer", "d9/d22/a14624.html#a2ebb06175e3142cca156e57e8386fe02", null ]
 ];

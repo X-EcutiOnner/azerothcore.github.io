@@ -1,6 +1,10 @@
 var a21368 =
 [
-    [ "boss_svalaAI", "dc/dac/a21372.html", "dc/dac/a21372" ],
-    [ "boss_svala", "dd/d0c/a21368.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
-    [ "GetAI", "dd/d0c/a21368.html#a0c3b94635eca667a28496cf799efad25", null ]
+    [ "npc_azure_invaderAI", "dd/d0c/a21368.html#a85f164a6ba24d7a14d77264441a78f46", null ],
+    [ "Reset", "dd/d0c/a21368.html#ada44600272b19d9416d957bc52bc3be4", null ],
+    [ "UpdateAI", "dd/d0c/a21368.html#a7dfdcb2a88930c6b4150f7f7c825a2df", null ],
+    [ "uiBrutalStrikeTimer", "dd/d0c/a21368.html#a4b88a85f3344edbdadde0104668509aa", null ],
+    [ "uiCleaveTimer", "dd/d0c/a21368.html#a8b1792a8a405651d602d9ed634f52689", null ],
+    [ "uiImpaleTimer", "dd/d0c/a21368.html#aa709ee8919a2d0317d563259c7630c99", null ],
+    [ "uiSunderArmorTimer", "dd/d0c/a21368.html#ab2e6d01df033985ac29e963cf2895466", null ]
 ];

@@ -1,6 +1,5 @@
 var a23364 =
 [
-    [ "HandleScriptEffect", "de/df0/a23364.html#a766edc5924124c869b04ec82cd2bc693", null ],
-    [ "PrepareSpellScript", "de/df0/a23364.html#a1eac10c673b8f43ae08f8bbdf949f82f", null ],
-    [ "Register", "de/df0/a23364.html#a60d4e21bf31c997ef4105ad72c8b4e85", null ]
+    [ "instance_the_underbog_InstanceMapScript", "de/df0/a23364.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
+    [ "Initialize", "de/df0/a23364.html#a9c7c10020eef3db4794283c0f946d086", null ]
 ];

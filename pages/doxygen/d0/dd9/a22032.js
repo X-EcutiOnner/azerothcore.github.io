@@ -1,6 +1,7 @@
 var a22032 =
 [
-    [ "npc_q24545_vegard_dummyAI", "d0/dd9/a22032.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
-    [ "UpdateAI", "d0/dd9/a22032.html#aa31baac9ce3c4c951f93917b88390797", null ],
-    [ "done", "d0/dd9/a22032.html#a0208fbae8e6c46d0671107530279c50c", null ]
+    [ "HandleScriptEffect", "d0/dd9/a22032.html#ad20cf97a7dd442d5670a22095b487a01", null ],
+    [ "PrepareSpellScript", "d0/dd9/a22032.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
+    [ "Register", "d0/dd9/a22032.html#a996ea344ea2a3312cb8886565b80972d", null ],
+    [ "Validate", "d0/dd9/a22032.html#a29bf5a9615e02281f426bf521a045567", null ]
 ];

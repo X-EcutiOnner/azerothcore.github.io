@@ -1,8 +1,5 @@
 var a10348 =
 [
-    [ "_OnTrigger", "d8/d48/a10348.html#a6da93a21c84345bd77e467377810e756", null ],
-    [ "AreaTriggerScript", "d8/d48/a10348.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
-    [ "OnTrigger", "d8/d48/a10348.html#a4ac7e4963d36c8163a560dc8401b5f34", null ],
-    [ "ResetAreaTriggerDone", "d8/d48/a10348.html#a3b44c1892c1100028b387d15bfbdae60", null ],
-    [ "ResetAreaTriggerDone", "d8/d48/a10348.html#a3917da4a6f605077720172cda25322ee", null ]
+    [ "ScriptId", "d8/d48/a10348.html#a6b17e959f80e7b3f2f3352a345eebcf9", null ],
+    [ "TypeId", "d8/d48/a10348.html#aaddf1f172211966f5d727e6238889223", null ]
 ];

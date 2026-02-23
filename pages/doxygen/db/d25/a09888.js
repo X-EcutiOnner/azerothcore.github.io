@@ -1,8 +1,16 @@
 var a09888 =
 [
-    [ "BoundaryUnionBoundary", "db/d25/a09888.html#a074536112fffc805dec44bd9cd602642", null ],
-    [ "~BoundaryUnionBoundary", "db/d25/a09888.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
-    [ "IsWithinBoundaryArea", "db/d25/a09888.html#a8dc91861fa6641008236e5a83030e0d1", null ],
-    [ "_b1", "db/d25/a09888.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
-    [ "_b2", "db/d25/a09888.html#ae70530673803bd2ee85bf722fe42718b", null ]
+    [ "StoredLootItem", "db/d25/a09888.html#a32da4030f3e58b7fae5001511c6caa40", null ],
+    [ "conditionLootId", "db/d25/a09888.html#a9be27c3407923df6b15bef993dd58830", null ],
+    [ "count", "db/d25/a09888.html#a25c63cc5a94ecc3bf803e83be5aabc39", null ],
+    [ "follow_loot_rules", "db/d25/a09888.html#ac945688a64f92c40ada1abd5847d9b0d", null ],
+    [ "freeforall", "db/d25/a09888.html#a41a3c4caf90fc8c42d2e0e5192201d19", null ],
+    [ "is_blocked", "db/d25/a09888.html#a895cc61dd542959c3726dbc54abf7434", null ],
+    [ "is_counted", "db/d25/a09888.html#a801a125a5035167f3f511560a29808c4", null ],
+    [ "is_underthreshold", "db/d25/a09888.html#ae11badaeeccbb3af7f150d4ca55347a3", null ],
+    [ "itemid", "db/d25/a09888.html#afac1addff36f4cd08626ac7ae1ce0cff", null ],
+    [ "itemIndex", "db/d25/a09888.html#a076564a43a586c6b6d17cd64fca8e9fb", null ],
+    [ "needs_quest", "db/d25/a09888.html#ae7530d417ac10c5766fc25664b427d50", null ],
+    [ "randomPropertyId", "db/d25/a09888.html#a12e1cb9403cc4f6ceb770c8cf50a1d17", null ],
+    [ "randomSuffix", "db/d25/a09888.html#a2588c810dcd51a5c0c6558b99493602b", null ]
 ];

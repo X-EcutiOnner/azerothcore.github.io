@@ -1,6 +1,7 @@
 var a24992 =
 [
-    [ "CheckProc", "df/ddb/a24992.html#a67f31710f6a3e843b9d3539710100898", null ],
-    [ "PrepareAuraScript", "df/ddb/a24992.html#ad59ef816bd24f6215cc853386859dbb4", null ],
-    [ "Register", "df/ddb/a24992.html#af499437b1af535488792f44c18ad9bf7", null ]
+    [ "HandleEffectRemove", "df/ddb/a24992.html#a3d6b6ae0bde8ae51362c95df82604d68", null ],
+    [ "PrepareAuraScript", "df/ddb/a24992.html#aa07b231cc76afb098ac8bc92eb050c80", null ],
+    [ "Register", "df/ddb/a24992.html#aa381143f36a6443dfb1f0d66ce81c351", null ],
+    [ "AuraEffectHandleModes", "df/ddb/a24992.html#a97370dd3f7c3e58a719090176c397386", null ]
 ];

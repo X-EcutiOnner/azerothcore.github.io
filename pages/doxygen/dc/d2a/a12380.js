@@ -1,6 +1,6 @@
 var a12380 =
 [
-    [ "boss_rend_blackhandAI", "dc/d53/a12384.html", "dc/d53/a12384" ],
-    [ "boss_rend_blackhand", "dc/d2a/a12380.html#afd12818c33de25332bf207f30c8490a1", null ],
-    [ "GetAI", "dc/d2a/a12380.html#aed65d31a5a841af8aed015555bf811cb", null ]
+    [ "boss_grizzleAI", "dc/d53/a12384.html", "dc/d53/a12384" ],
+    [ "boss_grizzle", "dc/d2a/a12380.html#a6c9913cec9503a86e2f5358f65b97b26", null ],
+    [ "GetAI", "dc/d2a/a12380.html#aa0bf6c89f13fbd20695ebb7ce965b0f5", null ]
 ];

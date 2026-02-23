@@ -1,7 +1,5 @@
 var a14212 =
 [
-    [ "HandleEffect", "d0/d30/a14212.html#a8cda8eff109af7441d6990a236a52b80", null ],
-    [ "PrepareSpellScript", "d0/d30/a14212.html#acc2698ba702be211bef63cefa41005f4", null ],
-    [ "Register", "d0/d30/a14212.html#a5d6dccbb44a5d95055755673ad70707f", null ],
-    [ "Validate", "d0/d30/a14212.html#a0b106298aa550e4fe9e8a449ed7eaa51", null ]
+    [ "npc_andorhal_towerAI", "d0/d30/a14212.html#ad2f8a14f2adfe1418a23de274493f85e", null ],
+    [ "MoveInLineOfSight", "d0/d30/a14212.html#a1165ee0e066dcaeb300096e55758389b", null ]
 ];

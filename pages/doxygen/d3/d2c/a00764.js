@@ -1,5 +1,5 @@
 var a00764 =
 [
-    [ "ScriptRegistry< AllItemScript >", "d3/d2c/a00764.html#a0f69164743e657905c670df85e97a29c", null ],
-    [ "ScriptRegistry< ItemScript >", "d3/d2c/a00764.html#a9f258d1e2f9fb6ce144923451b63f995", null ]
+    [ "WardenInitModuleRequest", "d0/d4d/a11944.html", "d0/d4d/a11944" ],
+    [ "WardenWin", "d4/d3e/a11948.html", "d4/d3e/a11948" ]
 ];

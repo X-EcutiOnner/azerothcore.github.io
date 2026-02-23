@@ -1,7 +1,11 @@
 var a16228 =
 [
-    [ "OnRemove", "d6/d86/a16228.html#afb0821bc8774e634eefdd87efe6af945", null ],
-    [ "PrepareAuraScript", "d6/d86/a16228.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
-    [ "Register", "d6/d86/a16228.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
-    [ "Validate", "d6/d86/a16228.html#aa794b76c4d9590b867dda57f02724d95", null ]
+    [ "boss_amanitar", "d6/d86/a16228.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
+    [ "EnterEvadeMode", "d6/d86/a16228.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
+    [ "JustDied", "d6/d86/a16228.html#a138049712649ff414950d9d0ca05d712", null ],
+    [ "JustEngagedWith", "d6/d86/a16228.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
+    [ "Reset", "d6/d86/a16228.html#aab3faca4526947a72d8ca049a605f5be", null ],
+    [ "SummonedCreatureDespawn", "d6/d86/a16228.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
+    [ "SummonMushroom", "d6/d86/a16228.html#afc5b4942931f6020b2894b901650fc35", null ],
+    [ "_mushroomsDeque", "d6/d86/a16228.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
 ];

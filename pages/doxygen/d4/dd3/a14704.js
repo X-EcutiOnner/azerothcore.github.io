@@ -1,5 +1,7 @@
 var a14704 =
 [
-    [ "go_pumpkin_shrine", "d4/dd3/a14704.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
-    [ "OnGossipSelect", "d4/dd3/a14704.html#a35763a67d39c1d68974a9602ce26b699", null ]
+    [ "HandleScriptEffect", "d4/dd3/a14704.html#ae758c224878aebdde0124b5d4ec902a5", null ],
+    [ "PrepareSpellScript", "d4/dd3/a14704.html#ac3755ef09a905d90ce7df328b83d51aa", null ],
+    [ "Register", "d4/dd3/a14704.html#a051d0fe383e5675e39e4ac8ed7a6e329", null ],
+    [ "Validate", "d4/dd3/a14704.html#a56f71954e122f651c6e2ec68453e16cc", null ]
 ];

@@ -1,9 +1,6 @@
 var a23056 =
 [
-    [ "boss_mother_shahraz", "d8/def/a23056.html#adba94363f74975301472d79f24894df8", null ],
-    [ "JustDied", "d8/def/a23056.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
-    [ "JustEngagedWith", "d8/def/a23056.html#a021c702e7eff266308fee8a4220a6ec7", null ],
-    [ "KilledUnit", "d8/def/a23056.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
-    [ "Reset", "d8/def/a23056.html#ab9e4162ac92e786b84b6497c37251386", null ],
-    [ "_canTalk", "d8/def/a23056.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
+    [ "OnPeriodic", "d8/def/a23056.html#a4d3d6350a06b6c7382792670c04e38e1", null ],
+    [ "PrepareAuraScript", "d8/def/a23056.html#ac9231c238adf7e733d55bc6098daddc0", null ],
+    [ "Register", "d8/def/a23056.html#aa6aa32b3adc89ac405f071fa9b804778", null ]
 ];

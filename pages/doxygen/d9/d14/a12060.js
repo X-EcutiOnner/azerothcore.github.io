@@ -1,14 +1,14 @@
 var a12060 =
 [
-    [ "tele_commandscript", "d9/d14/a12060.html#a13d522c3480c5b82071d5f77bd41f942", null ],
-    [ "DoNameTeleport", "d9/d14/a12060.html#aeab9bf62f33fd1d55055ba2ae7925f82", null ],
-    [ "GetCommands", "d9/d14/a12060.html#a296b26e39d5d575ebe68728ff1b49f68", null ],
-    [ "HandleTeleAddCommand", "d9/d14/a12060.html#a8d429a38c01a19f8c89c87937ef24248", null ],
-    [ "HandleTeleCommand", "d9/d14/a12060.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa", null ],
-    [ "HandleTeleDelCommand", "d9/d14/a12060.html#ad3d85b0057797de2aceeb620cf62efc0", null ],
-    [ "HandleTeleGroupCommand", "d9/d14/a12060.html#af83e529b482654851a7a1ee77beb107e", null ],
-    [ "HandleTeleNameCommand", "d9/d14/a12060.html#a70fcde1c7c5a9e5297035862adca55c4", null ],
-    [ "HandleTeleNameNpcIdCommand", "d9/d14/a12060.html#a52852b7f3d7a6bbf68164e6918b9a141", null ],
-    [ "HandleTeleNameNpcNameCommand", "d9/d14/a12060.html#a2f68bad0f1af5d40fcefb8c394472b65", null ],
-    [ "HandleTeleNameNpcSpawnIdCommand", "d9/d14/a12060.html#a7a45fa39afa6bae2359a68b11a504bc5", null ]
+    [ "deserter_commandscript", "d9/d14/a12060.html#aebaaf99b9c5959f3f3418e13e252fb95", null ],
+    [ "GetCommands", "d9/d14/a12060.html#ab5b48b9dde89c9215c51560f26324649", null ],
+    [ "HandleDeserterAdd", "d9/d14/a12060.html#abe8c428ec09d341bb9f49882b7c071e2", null ],
+    [ "HandleDeserterBGAdd", "d9/d14/a12060.html#a11fba09d369e7244244887947a91369e", null ],
+    [ "HandleDeserterBGRemove", "d9/d14/a12060.html#a9bf4e146ef0f4f0cb2508c4953f8a647", null ],
+    [ "HandleDeserterBGRemoveAll", "d9/d14/a12060.html#a419d404315e91b6cac1bfd3ac225a8fd", null ],
+    [ "HandleDeserterInstanceAdd", "d9/d14/a12060.html#aabd2b23e2dc61fac10890077b41d8179", null ],
+    [ "HandleDeserterInstanceRemove", "d9/d14/a12060.html#a3197e5228284ba50da7f3a31b3e76060", null ],
+    [ "HandleDeserterInstanceRemoveAll", "d9/d14/a12060.html#adc6ad2f406fcb58ba64d2b6fd47281e2", null ],
+    [ "HandleDeserterRemove", "d9/d14/a12060.html#a210dc9a7eddede6fe976157d6b22b683", null ],
+    [ "HandleDeserterRemoveAll", "d9/d14/a12060.html#a6274f79b9884586069f94137b44d89e9", null ]
 ];

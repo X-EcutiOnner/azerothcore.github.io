@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SpellModifier Struct Reference</title>
+<title>AzerothCore: MovableMapObject Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,43 +105,70 @@ $(document).ready(function(){initNavTree('db/df0/a08608.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pro-methods">Protected Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#friends">Friends</a> &#124;
 <a href="../../d5/d6f/a08605.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SpellModifier Struct Reference</div></div>
+  <div class="headertitle"><div class="title">MovableMapObject Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Object.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for MovableMapObject:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../db/df0/a08608.png" usemap="#MovableMapObject_map" alt=""/>
+  <map id="MovableMapObject_map" name="MovableMapObject_map">
+<area href="../../d3/d6d/a08204.html" alt="Creature" shape="rect" coords="133,56,256,80"/>
+<area href="../../d0/dac/a08356.html" alt="DynamicObject" shape="rect" coords="266,56,389,80"/>
+<area href="../../d4/dca/a08384.html" alt="GameObject" shape="rect" coords="399,56,522,80"/>
+<area href="../../dc/d43/a08328.html" alt="TempSummon" shape="rect" coords="133,112,256,136"/>
+<area href="../../d7/d5c/a08872.html" alt="Transport" shape="rect" coords="399,112,522,136"/>
+<area href="../../de/d5e/a08332.html" alt="Minion" shape="rect" coords="133,168,256,192"/>
+<area href="../../db/d89/a08876.html" alt="MotionTransport" shape="rect" coords="332,168,455,192"/>
+<area href="../../de/d37/a08880.html" alt="StaticTransport" shape="rect" coords="465,168,588,192"/>
+<area href="../../da/d1c/a08336.html" alt="Guardian" shape="rect" coords="0,224,123,248"/>
+<area href="../../db/d74/a08340.html" alt="Puppet" shape="rect" coords="133,224,256,248"/>
+<area href="../../d9/d13/a08868.html" alt="Totem" shape="rect" coords="266,224,389,248"/>
+<area href="../../d7/d6b/a08700.html" alt="Pet" shape="rect" coords="0,280,123,304"/>
+  </map>
+</div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:adba5fad6b904d09a43be7302e7eb62bd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df0/a08608.html#adba5fad6b904d09a43be7302e7eb62bd">SpellModifier</a> (<a class="el" href="../../d8/d12/a11344.html">Aura</a> *_ownerAura=nullptr)</td></tr>
-<tr class="separator:adba5fad6b904d09a43be7302e7eb62bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
+Protected Member Functions</h2></td></tr>
+<tr class="memitem:ad9f4cb74c55993cfdfc5895aefc33cfb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df0/a08608.html#ad9f4cb74c55993cfdfc5895aefc33cfb">MovableMapObject</a> ()=default</td></tr>
+<tr class="separator:ad9f4cb74c55993cfdfc5895aefc33cfb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d7d87cff5f00f3b370584675caf7870"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/de7/a09280.html">Cell</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df0/a08608.html#a6d7d87cff5f00f3b370584675caf7870">GetCurrentCell</a> () const</td></tr>
+<tr class="separator:a6d7d87cff5f00f3b370584675caf7870"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a21d017f0c8d3108a0eb5f48798103356"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d76/a00134.html#a39b60e1f12cca9b6873cb817e7717351">SpellModOp</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df0/a08608.html#a21d017f0c8d3108a0eb5f48798103356">op</a>: 8</td></tr>
-<tr class="separator:a21d017f0c8d3108a0eb5f48798103356"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a22f64b9c021f5a87f30f01ef117ebb0b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d3c/a00971.html#a946f1b98541e5df18b4b45f6fb144ce8">SpellModType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df0/a08608.html#a22f64b9c021f5a87f30f01ef117ebb0b">type</a>: 8</td></tr>
-<tr class="separator:a22f64b9c021f5a87f30f01ef117ebb0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1aaf71299c2dd27b58a049d252efdee8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#aecf4e3680a32207d17f62a3426731878">int16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df0/a08608.html#a1aaf71299c2dd27b58a049d252efdee8">charges</a>: 16</td></tr>
-<tr class="separator:a1aaf71299c2dd27b58a049d252efdee8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a31742662ba8112c9e9b972897a928e57"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df0/a08608.html#a31742662ba8112c9e9b972897a928e57">value</a> {0}</td></tr>
-<tr class="separator:a31742662ba8112c9e9b972897a928e57"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aba1b01bf3486d61cc1876b03078a35ee"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/dd8/a05712.html">flag96</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df0/a08608.html#aba1b01bf3486d61cc1876b03078a35ee">mask</a></td></tr>
-<tr class="separator:aba1b01bf3486d61cc1876b03078a35ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a465803efab27b2ba0a49c6571b65b908"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df0/a08608.html#a465803efab27b2ba0a49c6571b65b908">spellId</a> {0}</td></tr>
-<tr class="separator:a465803efab27b2ba0a49c6571b65b908"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5e180553fb4739eb7f947da70fbe7ef8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d12/a11344.html">Aura</a> *const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df0/a08608.html#a5e180553fb4739eb7f947da70fbe7ef8">ownerAura</a></td></tr>
-<tr class="separator:a5e180553fb4739eb7f947da70fbe7ef8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a163a81b49cfdeb73236ee930d6f24673"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df0/a08608.html#a163a81b49cfdeb73236ee930d6f24673">priority</a> {0}</td></tr>
-<tr class="separator:a163a81b49cfdeb73236ee930d6f24673"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a4caa8c9e50452bff413dec06bf80b84c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df0/a08608.html#a4caa8c9e50452bff413dec06bf80b84c">SetCurrentCell</a> (<a class="el" href="../../d5/de7/a09280.html">Cell</a> const &amp;cell)</td></tr>
+<tr class="separator:a4caa8c9e50452bff413dec06bf80b84c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a529db8859c0c9713bcc2f62459bbcc9f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/de7/a09280.html">Cell</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df0/a08608.html#a529db8859c0c9713bcc2f62459bbcc9f">_currentCell</a></td></tr>
+<tr class="separator:a529db8859c0c9713bcc2f62459bbcc9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6782d8e3dc7de58ef83a83cf0a355e43"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/dcf/a00845.html#a1833d9b1810b160d0c00f297af237b07">MapObjectCellMoveState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df0/a08608.html#a6782d8e3dc7de58ef83a83cf0a355e43">_moveState</a> {<a class="el" href="../../d7/dcf/a00845.html#a1833d9b1810b160d0c00f297af237b07afb882558defaa808483ae0d24e1d12e1">MAP_OBJECT_CELL_MOVE_NONE</a>}</td></tr>
+<tr class="separator:a6782d8e3dc7de58ef83a83cf0a355e43"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
+Friends</h2></td></tr>
+<tr class="memitem:ad2f32e921244459f7cc6d50355429cc6"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df0/a08608.html#ad2f32e921244459f7cc6d50355429cc6">Map</a></td></tr>
+<tr class="separator:ad2f32e921244459f7cc6d50355429cc6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9551c85ae0e43e4d212225c643da2262"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/df0/a08608.html#a9551c85ae0e43e4d212225c643da2262">ObjectGridLoader</a></td></tr>
+<tr class="separator:a9551c85ae0e43e4d212225c643da2262"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a260ebfc53c9406bc0356c553822d8ab2"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:a260ebfc53c9406bc0356c553822d8ab2"><td class="memTemplItemLeft" align="right" valign="top">class&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/df0/a08608.html#a260ebfc53c9406bc0356c553822d8ab2">RandomMovementGenerator</a></td></tr>
+<tr class="separator:a260ebfc53c9406bc0356c553822d8ab2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="adba5fad6b904d09a43be7302e7eb62bd" name="adba5fad6b904d09a43be7302e7eb62bd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adba5fad6b904d09a43be7302e7eb62bd">&#9670;&#160;</a></span>SpellModifier()</h2>
+<a id="ad9f4cb74c55993cfdfc5895aefc33cfb" name="ad9f4cb74c55993cfdfc5895aefc33cfb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad9f4cb74c55993cfdfc5895aefc33cfb">&#9670;&#160;</a></span>MovableMapObject()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -150,156 +177,199 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">SpellModifier::SpellModifier </td>
+          <td class="memname">MovableMapObject::MovableMapObject </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d12/a11344.html">Aura</a> *&#160;</td>
-          <td class="paramname"><em>_ownerAura</em> = <code>nullptr</code></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">default</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  183</span>: <a class="code hl_variable" href="../../db/df0/a08608.html#a21d017f0c8d3108a0eb5f48798103356">op</a>(<a class="code hl_enumvalue" href="../../de/d76/a00134.html#a39b60e1f12cca9b6873cb817e7717351a0df5b1482e6dd01af433e9e95fbae0f3">SPELLMOD_DAMAGE</a>), <a class="code hl_variable" href="../../db/df0/a08608.html#a22f64b9c021f5a87f30f01ef117ebb0b">type</a>(<a class="code hl_enumvalue" href="../../d0/d3c/a00971.html#a946f1b98541e5df18b4b45f6fb144ce8a8ebc303e6990a35340cd39cef55f4dd7">SPELLMOD_FLAT</a>), <a class="code hl_variable" href="../../db/df0/a08608.html#a1aaf71299c2dd27b58a049d252efdee8">charges</a>(0),  <a class="code hl_variable" href="../../db/df0/a08608.html#aba1b01bf3486d61cc1876b03078a35ee">mask</a>(), <a class="code hl_variable" href="../../db/df0/a08608.html#a5e180553fb4739eb7f947da70fbe7ef8">ownerAura</a>(_ownerAura) {}</div>
-<div class="ttc" id="aa00134_html_a39b60e1f12cca9b6873cb817e7717351a0df5b1482e6dd01af433e9e95fbae0f3"><div class="ttname"><a href="../../de/d76/a00134.html#a39b60e1f12cca9b6873cb817e7717351a0df5b1482e6dd01af433e9e95fbae0f3">SPELLMOD_DAMAGE</a></div><div class="ttdeci">@ SPELLMOD_DAMAGE</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:76</div></div>
-<div class="ttc" id="aa00971_html_a946f1b98541e5df18b4b45f6fb144ce8a8ebc303e6990a35340cd39cef55f4dd7"><div class="ttname"><a href="../../d0/d3c/a00971.html#a946f1b98541e5df18b4b45f6fb144ce8a8ebc303e6990a35340cd39cef55f4dd7">SPELLMOD_FLAT</a></div><div class="ttdeci">@ SPELLMOD_FLAT</div><div class="ttdef"><b>Definition:</b> Player.h:94</div></div>
-<div class="ttc" id="aa08608_html_a1aaf71299c2dd27b58a049d252efdee8"><div class="ttname"><a href="../../db/df0/a08608.html#a1aaf71299c2dd27b58a049d252efdee8">SpellModifier::charges</a></div><div class="ttdeci">int16 charges</div><div class="ttdef"><b>Definition:</b> Player.h:186</div></div>
-<div class="ttc" id="aa08608_html_a21d017f0c8d3108a0eb5f48798103356"><div class="ttname"><a href="../../db/df0/a08608.html#a21d017f0c8d3108a0eb5f48798103356">SpellModifier::op</a></div><div class="ttdeci">SpellModOp op</div><div class="ttdef"><b>Definition:</b> Player.h:184</div></div>
-<div class="ttc" id="aa08608_html_a22f64b9c021f5a87f30f01ef117ebb0b"><div class="ttname"><a href="../../db/df0/a08608.html#a22f64b9c021f5a87f30f01ef117ebb0b">SpellModifier::type</a></div><div class="ttdeci">SpellModType type</div><div class="ttdef"><b>Definition:</b> Player.h:185</div></div>
-<div class="ttc" id="aa08608_html_a5e180553fb4739eb7f947da70fbe7ef8"><div class="ttname"><a href="../../db/df0/a08608.html#a5e180553fb4739eb7f947da70fbe7ef8">SpellModifier::ownerAura</a></div><div class="ttdeci">Aura *const ownerAura</div><div class="ttdef"><b>Definition:</b> Player.h:190</div></div>
-<div class="ttc" id="aa08608_html_aba1b01bf3486d61cc1876b03078a35ee"><div class="ttname"><a href="../../db/df0/a08608.html#aba1b01bf3486d61cc1876b03078a35ee">SpellModifier::mask</a></div><div class="ttdeci">flag96 mask</div><div class="ttdef"><b>Definition:</b> Player.h:188</div></div>
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a6d7d87cff5f00f3b370584675caf7870" name="a6d7d87cff5f00f3b370584675caf7870"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6d7d87cff5f00f3b370584675caf7870">&#9670;&#160;</a></span>GetCurrentCell()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/de7/a09280.html">Cell</a> const  &amp; MovableMapObject::GetCurrentCell </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  418</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/df0/a08608.html#a529db8859c0c9713bcc2f62459bbcc9f">_currentCell</a>; }</div>
+<div class="ttc" id="aa08608_html_a529db8859c0c9713bcc2f62459bbcc9f"><div class="ttname"><a href="../../db/df0/a08608.html#a529db8859c0c9713bcc2f62459bbcc9f">MovableMapObject::_currentCell</a></div><div class="ttdeci">Cell _currentCell</div><div class="ttdef"><b>Definition:</b> Object.h:423</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00423">_currentCell</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00806">Map::CreatureRelocation()</a>, <a class="el" href="../../#l00849">Map::DynamicObjectRelocation()</a>, <a class="el" href="../../#l00828">Map::GameObjectRelocation()</a>, <a class="el" href="../../#l03744">Creature::IsUpdateNeeded()</a>, <a class="el" href="../../#l03081">GameObject::IsUpdateNeeded()</a>, <a class="el" href="../../#l00908">Map::MoveAllCreaturesInMoveList()</a>, <a class="el" href="../../#l00977">Map::MoveAllDynamicObjectsInMoveList()</a>, and <a class="el" href="../../#l00942">Map::MoveAllGameObjectsInMoveList()</a>.</p>
+
+</div>
+</div>
+<a id="a4caa8c9e50452bff413dec06bf80b84c" name="a4caa8c9e50452bff413dec06bf80b84c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4caa8c9e50452bff413dec06bf80b84c">&#9670;&#160;</a></span>SetCurrentCell()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void MovableMapObject::SetCurrentCell </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/de7/a09280.html">Cell</a> const &amp;&#160;</td>
+          <td class="paramname"><em>cell</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  421</span>{ <a class="code hl_variable" href="../../db/df0/a08608.html#a529db8859c0c9713bcc2f62459bbcc9f">_currentCell</a> = cell; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00423">_currentCell</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00123">Map::AddToGrid()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Friends And Related Function Documentation</h2>
+<a id="ad2f32e921244459f7cc6d50355429cc6" name="ad2f32e921244459f7cc6d50355429cc6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad2f32e921244459f7cc6d50355429cc6">&#9670;&#160;</a></span>Map</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">friend class <a class="el" href="../../db/d64/a10036.html">Map</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a9551c85ae0e43e4d212225c643da2262" name="a9551c85ae0e43e4d212225c643da2262"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9551c85ae0e43e4d212225c643da2262">&#9670;&#160;</a></span>ObjectGridLoader</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">friend class ObjectGridLoader</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a260ebfc53c9406bc0356c553822d8ab2" name="a260ebfc53c9406bc0356c553822d8ab2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a260ebfc53c9406bc0356c553822d8ab2">&#9670;&#160;</a></span>RandomMovementGenerator</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">friend class <a class="el" href="../../d5/d82/a10228.html">RandomMovementGenerator</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a1aaf71299c2dd27b58a049d252efdee8" name="a1aaf71299c2dd27b58a049d252efdee8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1aaf71299c2dd27b58a049d252efdee8">&#9670;&#160;</a></span>charges</h2>
+<a id="a529db8859c0c9713bcc2f62459bbcc9f" name="a529db8859c0c9713bcc2f62459bbcc9f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a529db8859c0c9713bcc2f62459bbcc9f">&#9670;&#160;</a></span>_currentCell</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#aecf4e3680a32207d17f62a3426731878">int16</a> SpellModifier::charges</td>
+          <td class="memname"><a class="el" href="../../d5/de7/a09280.html">Cell</a> MovableMapObject::_currentCell</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00689">AuraEffect::CalculateSpellMod()</a>, <a class="el" href="../../#l10043">Player::DropModCharge()</a>, <a class="el" href="../../#l09743">Player::IsAffectedBySpellmod()</a>, <a class="el" href="../../#l09976">Player::RemoveSpellMods()</a>, and <a class="el" href="../../#l09902">Player::RestoreSpellMods()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00418">GetCurrentCell()</a>, and <a class="el" href="../../#l00421">SetCurrentCell()</a>.</p>
 
 </div>
 </div>
-<a id="aba1b01bf3486d61cc1876b03078a35ee" name="aba1b01bf3486d61cc1876b03078a35ee"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aba1b01bf3486d61cc1876b03078a35ee">&#9670;&#160;</a></span>mask</h2>
+<a id="a6782d8e3dc7de58ef83a83cf0a355e43" name="a6782d8e3dc7de58ef83a83cf0a355e43"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6782d8e3dc7de58ef83a83cf0a355e43">&#9670;&#160;</a></span>_moveState</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d4/dd8/a05712.html">flag96</a> SpellModifier::mask</td>
+          <td class="memname"><a class="el" href="../../d7/dcf/a00845.html#a1833d9b1810b160d0c00f297af237b07">MapObjectCellMoveState</a> MovableMapObject::_moveState {<a class="el" href="../../d7/dcf/a00845.html#a1833d9b1810b160d0c00f297af237b07afb882558defaa808483ae0d24e1d12e1">MAP_OBJECT_CELL_MOVE_NONE</a>}</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l09857">Player::AddSpellMod()</a>, <a class="el" href="../../#l00689">AuraEffect::CalculateSpellMod()</a>, <a class="el" href="../../#l00536">spell_dru_idol_lifebloom::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00619">spell_pal_exorcism_and_holy_wrath_damage::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00196">spell_warl_improved_demonic_tactics::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00809">spell_warr_glyph_of_sunder_armor::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l01293">SpellInfo::IsAffectedBySpellMod()</a>, and <a class="el" href="../../#l09902">Player::RestoreSpellMods()</a>.</p>
-
-</div>
-</div>
-<a id="a21d017f0c8d3108a0eb5f48798103356" name="a21d017f0c8d3108a0eb5f48798103356"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a21d017f0c8d3108a0eb5f48798103356">&#9670;&#160;</a></span>op</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d76/a00134.html#a39b60e1f12cca9b6873cb817e7717351">SpellModOp</a> SpellModifier::op</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l09857">Player::AddSpellMod()</a>, <a class="el" href="../../#l00689">AuraEffect::CalculateSpellMod()</a>, <a class="el" href="../../#l00536">spell_dru_idol_lifebloom::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00619">spell_pal_exorcism_and_holy_wrath_damage::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00196">spell_warl_improved_demonic_tactics::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00809">spell_warr_glyph_of_sunder_armor::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l09743">Player::IsAffectedBySpellmod()</a>, and <a class="el" href="../../#l01293">SpellInfo::IsAffectedBySpellMod()</a>.</p>
-
-</div>
-</div>
-<a id="a5e180553fb4739eb7f947da70fbe7ef8" name="a5e180553fb4739eb7f947da70fbe7ef8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5e180553fb4739eb7f947da70fbe7ef8">&#9670;&#160;</a></span>ownerAura</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/d12/a11344.html">Aura</a>* const SpellModifier::ownerAura</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l09857">Player::AddSpellMod()</a>, <a class="el" href="../../#l10043">Player::DropModCharge()</a>, <a class="el" href="../../#l09735">Player::HasSpellMod()</a>, <a class="el" href="../../#l09743">Player::IsAffectedBySpellmod()</a>, <a class="el" href="../../#l09976">Player::RemoveSpellMods()</a>, and <a class="el" href="../../#l09902">Player::RestoreSpellMods()</a>.</p>
-
-</div>
-</div>
-<a id="a163a81b49cfdeb73236ee930d6f24673" name="a163a81b49cfdeb73236ee930d6f24673"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a163a81b49cfdeb73236ee930d6f24673">&#9670;&#160;</a></span>priority</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellModifier::priority {0}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00689">AuraEffect::CalculateSpellMod()</a>, and <a class="el" href="../../#l09849">SpellModPredicate::operator()()</a>.</p>
-
-</div>
-</div>
-<a id="a465803efab27b2ba0a49c6571b65b908" name="a465803efab27b2ba0a49c6571b65b908"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a465803efab27b2ba0a49c6571b65b908">&#9670;&#160;</a></span>spellId</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellModifier::spellId {0}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l09857">Player::AddSpellMod()</a>, <a class="el" href="../../#l00689">AuraEffect::CalculateSpellMod()</a>, <a class="el" href="../../#l00536">spell_dru_idol_lifebloom::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00619">spell_pal_exorcism_and_holy_wrath_damage::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00196">spell_warl_improved_demonic_tactics::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00809">spell_warr_glyph_of_sunder_armor::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l01293">SpellInfo::IsAffectedBySpellMod()</a>, and <a class="el" href="../../#l09976">Player::RemoveSpellMods()</a>.</p>
-
-</div>
-</div>
-<a id="a22f64b9c021f5a87f30f01ef117ebb0b" name="a22f64b9c021f5a87f30f01ef117ebb0b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a22f64b9c021f5a87f30f01ef117ebb0b">&#9670;&#160;</a></span>type</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d3c/a00971.html#a946f1b98541e5df18b4b45f6fb144ce8">SpellModType</a> SpellModifier::type</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l09857">Player::AddSpellMod()</a>, <a class="el" href="../../#l00689">AuraEffect::CalculateSpellMod()</a>, <a class="el" href="../../#l00536">spell_dru_idol_lifebloom::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00619">spell_pal_exorcism_and_holy_wrath_damage::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00196">spell_warl_improved_demonic_tactics::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00809">spell_warr_glyph_of_sunder_armor::HandleEffectCalcSpellMod()</a>, and <a class="el" href="../../#l09849">SpellModPredicate::operator()()</a>.</p>
-
-</div>
-</div>
-<a id="a31742662ba8112c9e9b972897a928e57" name="a31742662ba8112c9e9b972897a928e57"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a31742662ba8112c9e9b972897a928e57">&#9670;&#160;</a></span>value</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> SpellModifier::value {0}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l09857">Player::AddSpellMod()</a>, <a class="el" href="../../#l00689">AuraEffect::CalculateSpellMod()</a>, <a class="el" href="../../#l00536">spell_dru_idol_lifebloom::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00619">spell_pal_exorcism_and_holy_wrath_damage::HandleEffectCalcSpellMod()</a>, <a class="el" href="../../#l00196">spell_warl_improved_demonic_tactics::HandleEffectCalcSpellMod()</a>, and <a class="el" href="../../#l00809">spell_warr_glyph_of_sunder_armor::HandleEffectCalcSpellMod()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00036">RandomMovementGenerator&lt; T &gt;::_setRandomLocation()</a>, <a class="el" href="../../#l00869">Map::AddCreatureToMoveList()</a>, <a class="el" href="../../#l00895">Map::AddDynamicObjectToMoveList()</a>, <a class="el" href="../../#l00882">Map::AddGameObjectToMoveList()</a>, <a class="el" href="../../#l00908">Map::MoveAllCreaturesInMoveList()</a>, <a class="el" href="../../#l00977">Map::MoveAllDynamicObjectsInMoveList()</a>, <a class="el" href="../../#l00942">Map::MoveAllGameObjectsInMoveList()</a>, <a class="el" href="../../#l00876">Map::RemoveCreatureFromMoveList()</a>, <a class="el" href="../../#l00902">Map::RemoveDynamicObjectFromMoveList()</a>, and <a class="el" href="../../#l00889">Map::RemoveGameObjectFromMoveList()</a>.</p>
 
 </div>
 </div>
@@ -308,8 +378,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../db/df0/a08608.html">SpellModifier</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:12:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../db/df0/a08608.html">MovableMapObject</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:15:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

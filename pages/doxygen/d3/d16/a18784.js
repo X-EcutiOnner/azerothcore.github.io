@@ -1,8 +1,6 @@
 var a18784 =
 [
-    [ "npc_blistering_zombieAI", "d3/d16/a18784.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
-    [ "DamageTaken", "d3/d16/a18784.html#adf031992078214f90d859df2b54aac91", null ],
-    [ "UpdateAI", "d3/d16/a18784.html#ae081898b8dcaf45cd3069e79021de452", null ],
-    [ "casted", "d3/d16/a18784.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
-    [ "timer", "d3/d16/a18784.html#a8b865c2a87b1fc020d8250767febab0a", null ]
+    [ "npc_strangulate_vehicleAI", "da/db2/a18788.html", "da/db2/a18788" ],
+    [ "npc_strangulate_vehicle", "d3/d16/a18784.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
+    [ "GetAI", "d3/d16/a18784.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
 ];

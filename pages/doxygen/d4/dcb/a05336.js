@@ -1,8 +1,11 @@
 var a05336 =
 [
-    [ "Count", "d4/dcb/a05336.html#a4ab8f061208d7733ee65ba768f85f513", null ],
-    [ "GetElements", "d4/dcb/a05336.html#af75467b56830b1447bebbf974b2747b6", null ],
-    [ "GetElements", "d4/dcb/a05336.html#abbdfddc576af5f2d49dddf5e49ad2864", null ],
-    [ "insert", "d4/dcb/a05336.html#a026880bb3378687143ed19fa7b99b41b", null ],
-    [ "i_elements", "d4/dcb/a05336.html#a8ef4a180d448dcba2141fc389621433d", null ]
+    [ "AuthCrypt", "d4/dcb/a05336.html#a8c5239631bd6cf700059af31f04126a3", null ],
+    [ "DecryptRecv", "d4/dcb/a05336.html#a552bd409afb5fcda8a11627ccb20e4b0", null ],
+    [ "EncryptSend", "d4/dcb/a05336.html#a385fe62742cdbbf62725ace616a06b37", null ],
+    [ "Init", "d4/dcb/a05336.html#ac76e9a59dc6bcef074e3213cecb4c7b8", null ],
+    [ "IsInitialized", "d4/dcb/a05336.html#a911330ec40c0ca881af2f0c6fd6b0fef", null ],
+    [ "_clientDecrypt", "d4/dcb/a05336.html#ae67fcb84288ebd120ad71bedc52086c2", null ],
+    [ "_initialized", "d4/dcb/a05336.html#a99de2f8dd625cef94d70eeddefc9ac5c", null ],
+    [ "_serverEncrypt", "d4/dcb/a05336.html#af30b0691f7089d52c2fbd9c5b9f52e68", null ]
 ];

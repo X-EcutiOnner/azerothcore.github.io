@@ -1,8 +1,7 @@
 var a15444 =
 [
-    [ "npc_ouro_spawner", "d9/d1b/a15444.html#acb18739e5a1734312ffdda35321e5f34", null ],
-    [ "JustSummoned", "d9/d1b/a15444.html#a722dada5bf97c730462a0de2b082d5ff", null ],
-    [ "MoveInLineOfSight", "d9/d1b/a15444.html#a83c0972db4435ccf1af069574e4056f4", null ],
-    [ "Reset", "d9/d1b/a15444.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
-    [ "hasSummoned", "d9/d1b/a15444.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
+    [ "boss_kurinnaxx", "d9/d1b/a15444.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
+    [ "InitializeAI", "d9/d1b/a15444.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
+    [ "JustDied", "d9/d1b/a15444.html#adb749c8737888a099ad7a3d58292a612", null ],
+    [ "JustEngagedWith", "d9/d1b/a15444.html#a451cd7ee80b0428a199c33012562bdb3", null ]
 ];

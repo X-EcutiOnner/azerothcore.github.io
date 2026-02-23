@@ -1,5 +1,6 @@
 var a11012 =
 [
-    [ "DurabilityDamageDeath", "d0/d19/a11012.html#a9b4350d37291b9b714be1563b28dcb43", null ],
-    [ "Write", "d0/d19/a11012.html#a35a93d9abeeb029f3da080487423f495", null ]
+    [ "ResetFailedNotify", "d0/d19/a11012.html#a82e12a0f207590b6176253cf36a22d2f", null ],
+    [ "Write", "d0/d19/a11012.html#af03055514ef0e1e97f24c66d2cd94185", null ],
+    [ "MapId", "d0/d19/a11012.html#a17f065fc6d5438d74f38bde67a841be7", null ]
 ];

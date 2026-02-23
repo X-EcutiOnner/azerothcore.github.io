@@ -1,6 +1,11 @@
 var a15820 =
 [
-    [ "SpellId", "d5/d7f/a15820.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "d5/d7f/a15820.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "d5/d7f/a15820.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "npc_kerlonianAI", "d5/d7f/a15820.html#a0f7a4566ca93a174c92fe10e904af480", null ],
+    [ "ClearSleeping", "d5/d7f/a15820.html#aea2815d79da4fa006ea150f052255b9d", null ],
+    [ "MoveInLineOfSight", "d5/d7f/a15820.html#a8b0a606510d278f26099a125d583377a", null ],
+    [ "Reset", "d5/d7f/a15820.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
+    [ "SetSleeping", "d5/d7f/a15820.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
+    [ "SpellHit", "d5/d7f/a15820.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
+    [ "UpdateFollowerAI", "d5/d7f/a15820.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
+    [ "FallAsleepTimer", "d5/d7f/a15820.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
 ];

@@ -1,11 +1,6 @@
 var a18304 =
 [
-    [ "npc_ice_tombAI", "db/d16/a18304.html#ab2cd26a6f50f42f2773f8a7b522289ec", null ],
-    [ "DamageTaken", "db/d16/a18304.html#aa1451254b5eaa1332b87f2d817e1f3a7", null ],
-    [ "JustDied", "db/d16/a18304.html#a237f27260aaa9176d81b67b11d063660", null ],
-    [ "SetGUID", "db/d16/a18304.html#ac406bece1d1f1517b5837e311feef9ae", null ],
-    [ "UpdateAI", "db/d16/a18304.html#a2f613f1f4fd51dac767b97fd9b96af44", null ],
-    [ "_asphyxiationTimer", "db/d16/a18304.html#a6790d9c852279624a549f60bf26e1eb2", null ],
-    [ "_existenceCheckTimer", "db/d16/a18304.html#ab3dbf40235549be89e42951d93593ea2", null ],
-    [ "_trappedPlayerGUID", "db/d16/a18304.html#a8a7666594e59bdac449f2284387b8e2c", null ]
+    [ "HandleScript", "db/d16/a18304.html#aefdd306b81b44a0a5564eab5a0491e09", null ],
+    [ "PrepareSpellScript", "db/d16/a18304.html#a68c0462bd108b04621f8288328f78b18", null ],
+    [ "Register", "db/d16/a18304.html#aedaec0afc414800bc481a434592ffb5d", null ]
 ];

@@ -1,6 +1,6 @@
 var a18264 =
 [
-    [ "DespawnSelf", "df/dfa/a18264.html#a7009dd0e842898d03caa89e92447749d", null ],
-    [ "PrepareAuraScript", "df/dfa/a18264.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
-    [ "Register", "df/dfa/a18264.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
+    [ "boss_professor_putricideAI", "d2/d68/a18268.html", "d2/d68/a18268" ],
+    [ "boss_professor_putricide", "df/dfa/a18264.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "df/dfa/a18264.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

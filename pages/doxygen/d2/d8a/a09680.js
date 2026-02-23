@@ -1,7 +1,7 @@
 var a09680 =
 [
-    [ "AddonHandler", "d2/d8a/a09680.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
-    [ "~AddonHandler", "d2/d8a/a09680.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
-    [ "BuildAddonPacket", "d2/d8a/a09680.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
-    [ "instance", "d2/d8a/a09680.html#a2925b829b803dd07e96685086357ef85", null ]
+    [ "AllWorldObjectsInRange", "d2/d8a/a09680.html#a63f46d510df0fa3153d4b3325676a468", null ],
+    [ "operator()", "d2/d8a/a09680.html#a2cf23c24df93b5f7f29163b32e965a94", null ],
+    [ "m_fRange", "d2/d8a/a09680.html#a6afe3ef05369dce8ee205db219f97846", null ],
+    [ "m_pObject", "d2/d8a/a09680.html#ae7dde7b946d8affb79cb2d4c58eedbed", null ]
 ];

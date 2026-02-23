@@ -1,8 +1,6 @@
 var a17704 =
 [
-    [ "npc_saurfang_eventAI", "d8/d85/a17704.html#a8436a87576c92ecc0b45106683d20e93", null ],
-    [ "DoAction", "d8/d85/a17704.html#a45201c4a5b94fad948efe1d08e63e262", null ],
-    [ "SetData", "d8/d85/a17704.html#a7f012a54ebce5307940eb7957f028d52", null ],
-    [ "SpellHit", "d8/d85/a17704.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
-    [ "_index", "d8/d85/a17704.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
+    [ "npc_blood_queen_lana_thelAI", "d7/d81/a17708.html", "d7/d81/a17708" ],
+    [ "npc_blood_queen_lana_thel", "d8/d85/a17704.html#a39adef3ae54efd4433805bd8ad4719be", null ],
+    [ "GetAI", "d8/d85/a17704.html#a02d928ac4ef1704cee2498ebe6533561", null ]
 ];

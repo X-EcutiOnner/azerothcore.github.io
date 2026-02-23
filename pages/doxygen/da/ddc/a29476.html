@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/tools/mmaps_generator/PathGenerator.cpp File Reference</title>
+<title>AzerothCore: MockAuraStub Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,105 +105,185 @@ $(document).ready(function(){initNavTree('da/ddc/a29476.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">PathGenerator.cpp File Reference</div></div>
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="../../de/def/a29473.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">MockAuraStub Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">MapBuilder.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">PathCommon.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Timer.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
-<code>#include &lt;boost/filesystem.hpp&gt;</code><br />
-</div>
-<p><a href="">Go to the source code of this file.</a></p>
+
+<p>GMock-enabled <a class="el" href="../../dd/d63/a11500.html">Aura</a> stub for verification.  
+ <a href="../../da/ddc/a29476.html#details">More...</a></p>
+
+<p><code>#include &quot;<a class="el" href="../../">AuraStub.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for MockAuraStub:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../da/ddc/a29476.png" usemap="#MockAuraStub_map" alt=""/>
+  <map id="MockAuraStub_map" name="MockAuraStub_map">
+<area href="../../dc/dd8/a29472.html" title="Lightweight stub for Aura proc-related functionality." alt="AuraStub" shape="rect" coords="0,0,96,24"/>
+  </map>
+</div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:ab24803c49e5019c665aa545cfd2d32dc"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/ddc/a29476.html#ab24803c49e5019c665aa545cfd2d32dc">checkDirectories</a> (bool debugOutput)</td></tr>
-<tr class="separator:ab24803c49e5019c665aa545cfd2d32dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9da584ba5e81bed140f90563dd648d38"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/ddc/a29476.html#a9da584ba5e81bed140f90563dd648d38">handleArgs</a> (int argc, char **argv, int &amp;mapnum, int &amp;tileX, int &amp;tileY, float &amp;maxAngle, bool &amp;skipLiquid, bool &amp;skipContinents, bool &amp;skipJunkMaps, bool &amp;skipBattlegrounds, bool &amp;debugOutput, bool &amp;silent, bool &amp;bigBaseUnit, char *&amp;offMeshInputPath, char *&amp;file, unsigned int &amp;threads)</td></tr>
-<tr class="separator:a9da584ba5e81bed140f90563dd648d38"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a32e7545f3a98690aeb284a4eb66f272d"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/ddc/a29476.html#a32e7545f3a98690aeb284a4eb66f272d">finish</a> (const char *message, int returnValue)</td></tr>
-<tr class="separator:a32e7545f3a98690aeb284a4eb66f272d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3c04138a5bfe5d72780bb7e82a18e627"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/ddc/a29476.html#a3c04138a5bfe5d72780bb7e82a18e627">main</a> (int argc, char **argv)</td></tr>
-<tr class="separator:a3c04138a5bfe5d72780bb7e82a18e627"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a9f0561eabca5230f8fe27384e0deb6b8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/ddc/a29476.html#a9f0561eabca5230f8fe27384e0deb6b8">MockAuraStub</a> (uint32_t id=0, uint32_t spellFamilyName=0)</td></tr>
+<tr class="separator:a9f0561eabca5230f8fe27384e0deb6b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a727233484b563f548c9f0e2d8a78b9a6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/ddc/a29476.html#a727233484b563f548c9f0e2d8a78b9a6">MOCK_METHOD</a> (bool, <a class="el" href="../../dc/dd8/a29472.html#a672ff1d71cbfb2ea312298b897a07080">DropCharge</a>,(),(override))</td></tr>
+<tr class="separator:a727233484b563f548c9f0e2d8a78b9a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9581f1887abbe708bc4e2da24e1996b5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/ddc/a29476.html#a9581f1887abbe708bc4e2da24e1996b5">MOCK_METHOD</a> (bool, <a class="el" href="../../dc/dd8/a29472.html#a8acc4b01359a718092d0ab4c737f9657">ModStackAmount</a>,(int32_t amount, bool resetPeriodicTimer),(override))</td></tr>
+<tr class="separator:a9581f1887abbe708bc4e2da24e1996b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abe2d675e124d5cb9115e8f726b1c7d8b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/ddc/a29476.html#abe2d675e124d5cb9115e8f726b1c7d8b">MOCK_METHOD</a> (void, <a class="el" href="../../dc/dd8/a29472.html#a302b190366d2c9361ef69b86296a36d3">Remove</a>,(),(override))</td></tr>
+<tr class="separator:abe2d675e124d5cb9115e8f726b1c7d8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a29472"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a29472')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../dc/dd8/a29472.html">AuraStub</a></td></tr>
+<tr class="memitem:afa57eed9bcc034faebd4951596eabdc9 inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#afa57eed9bcc034faebd4951596eabdc9">AuraStub</a> (uint32_t id=0, uint32_t spellFamilyName=0)</td></tr>
+<tr class="separator:afa57eed9bcc034faebd4951596eabdc9 inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af1679fdcd15bf06081aa3741a47455dd inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#af1679fdcd15bf06081aa3741a47455dd">~AuraStub</a> ()=default</td></tr>
+<tr class="separator:af1679fdcd15bf06081aa3741a47455dd inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0e0a133767fe8605b9e6b4d929dacb8d inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a0e0a133767fe8605b9e6b4d929dacb8d">GetId</a> () const</td></tr>
+<tr class="separator:a0e0a133767fe8605b9e6b4d929dacb8d inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a828a307a414bad0af9f9c98b4c4b19af inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a828a307a414bad0af9f9c98b4c4b19af">GetSpellFamilyName</a> () const</td></tr>
+<tr class="separator:a828a307a414bad0af9f9c98b4c4b19af inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96fe80bb0747b44d81906ecff56865dc inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a96fe80bb0747b44d81906ecff56865dc">SetId</a> (uint32_t id)</td></tr>
+<tr class="separator:a96fe80bb0747b44d81906ecff56865dc inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6100f97e9f7f4e11205a2ba16deaf53d inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a6100f97e9f7f4e11205a2ba16deaf53d">SetSpellFamilyName</a> (uint32_t familyName)</td></tr>
+<tr class="separator:a6100f97e9f7f4e11205a2ba16deaf53d inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a447ad026454b641c1410ee46a8ef92ca inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d58/a29464.html">AuraEffectStub</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a447ad026454b641c1410ee46a8ef92ca">GetEffect</a> (uint8_t effIndex) const</td></tr>
+<tr class="separator:a447ad026454b641c1410ee46a8ef92ca inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aba9190e03016c9c5071f32270df2f6cd inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#aba9190e03016c9c5071f32270df2f6cd">HasEffect</a> (uint8_t effIndex) const</td></tr>
+<tr class="separator:aba9190e03016c9c5071f32270df2f6cd inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9ed503c632c4037e638af0511c68df73 inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a9ed503c632c4037e638af0511c68df73">GetEffectMask</a> () const</td></tr>
+<tr class="separator:a9ed503c632c4037e638af0511c68df73 inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a349ac0a5abc039a57ec407295f5e4007 inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a349ac0a5abc039a57ec407295f5e4007">GetCharges</a> () const</td></tr>
+<tr class="separator:a349ac0a5abc039a57ec407295f5e4007 inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a399397839eb3f7f72660b0edf4449fda inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a399397839eb3f7f72660b0edf4449fda">IsUsingCharges</a> () const</td></tr>
+<tr class="separator:a399397839eb3f7f72660b0edf4449fda inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af9302ca6f10e63456c51383f586689c6 inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#af9302ca6f10e63456c51383f586689c6">SetCharges</a> (uint8_t charges)</td></tr>
+<tr class="separator:af9302ca6f10e63456c51383f586689c6 inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa8c5e134e2e73e0c8fab00896ac08801 inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#aa8c5e134e2e73e0c8fab00896ac08801">SetUsingCharges</a> (bool usingCharges)</td></tr>
+<tr class="separator:aa8c5e134e2e73e0c8fab00896ac08801 inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a672ff1d71cbfb2ea312298b897a07080 inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a672ff1d71cbfb2ea312298b897a07080">DropCharge</a> ()</td></tr>
+<tr class="separator:a672ff1d71cbfb2ea312298b897a07080 inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af1eeca715db3ee4282bb9668b2cb799e inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#af1eeca715db3ee4282bb9668b2cb799e">WasChargeDropped</a> () const</td></tr>
+<tr class="separator:af1eeca715db3ee4282bb9668b2cb799e inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2091f2ff1512a8e21701ef3fafd18710 inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a2091f2ff1512a8e21701ef3fafd18710">ResetChargeDropped</a> ()</td></tr>
+<tr class="separator:a2091f2ff1512a8e21701ef3fafd18710 inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d5ac8fe095ffdecd266f211c3664df1 inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a9d5ac8fe095ffdecd266f211c3664df1">GetDuration</a> () const</td></tr>
+<tr class="separator:a9d5ac8fe095ffdecd266f211c3664df1 inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad6150b11a36121da1e9ec7391cdd459a inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#ad6150b11a36121da1e9ec7391cdd459a">GetMaxDuration</a> () const</td></tr>
+<tr class="separator:ad6150b11a36121da1e9ec7391cdd459a inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a834d69a9a8d6e58106fb139bd08b15ef inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a834d69a9a8d6e58106fb139bd08b15ef">IsPermanent</a> () const</td></tr>
+<tr class="separator:a834d69a9a8d6e58106fb139bd08b15ef inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acf6a08f10be63eecc8761c1733ffed57 inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#acf6a08f10be63eecc8761c1733ffed57">SetDuration</a> (int32_t duration)</td></tr>
+<tr class="separator:acf6a08f10be63eecc8761c1733ffed57 inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac4162740db23c4984dfa65352ec6ebc0 inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#ac4162740db23c4984dfa65352ec6ebc0">SetMaxDuration</a> (int32_t maxDuration)</td></tr>
+<tr class="separator:ac4162740db23c4984dfa65352ec6ebc0 inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa81c84891b1c277cb58bfabfaa644f64 inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#aa81c84891b1c277cb58bfabfaa644f64">IsProcOnCooldown</a> (<a class="el" href="../../dc/dd8/a29472.html#ae25821c46e0e5524c524f9862140eb7d">TimePoint</a> now) const</td></tr>
+<tr class="separator:aa81c84891b1c277cb58bfabfaa644f64 inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ca4c53254b1d30a5ade59d874cac50b inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a3ca4c53254b1d30a5ade59d874cac50b">AddProcCooldown</a> (<a class="el" href="../../dc/dd8/a29472.html#ae25821c46e0e5524c524f9862140eb7d">TimePoint</a> cooldownEnd)</td></tr>
+<tr class="separator:a3ca4c53254b1d30a5ade59d874cac50b inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4dd56e2582063a18ab63493acf64ebf9 inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a4dd56e2582063a18ab63493acf64ebf9">ResetProcCooldown</a> ()</td></tr>
+<tr class="separator:a4dd56e2582063a18ab63493acf64ebf9 inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa1d4772f73dfbad815affeac796bdfbf inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#aa1d4772f73dfbad815affeac796bdfbf">GetStackAmount</a> () const</td></tr>
+<tr class="separator:aa1d4772f73dfbad815affeac796bdfbf inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a750d6a1420dafc8a7c917e186c5ba27e inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a750d6a1420dafc8a7c917e186c5ba27e">SetStackAmount</a> (uint8_t amount)</td></tr>
+<tr class="separator:a750d6a1420dafc8a7c917e186c5ba27e inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8acc4b01359a718092d0ab4c737f9657 inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a8acc4b01359a718092d0ab4c737f9657">ModStackAmount</a> (int32_t amount, bool=true)</td></tr>
+<tr class="memdesc:a8acc4b01359a718092d0ab4c737f9657 inherit pub_methods_a29472"><td class="mdescLeft">&#160;</td><td class="mdescRight">Modify stack amount (for PROC_ATTR_USE_STACKS_FOR_CHARGES) Mimics <a class="el" href="../../dd/d63/a11500.html#a69b589a7414d5d73ed75d12d5ba736ef">Aura::ModStackAmount()</a> - removes aura if stacks reach 0.  <a href="../../dc/dd8/a29472.html#a8acc4b01359a718092d0ab4c737f9657">More...</a><br /></td></tr>
+<tr class="separator:a8acc4b01359a718092d0ab4c737f9657 inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a68347746ed79c8da64223d256ae3072e inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a68347746ed79c8da64223d256ae3072e">IsPassive</a> () const</td></tr>
+<tr class="separator:a68347746ed79c8da64223d256ae3072e inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af30f33955f8018390bee6abbb83d2ac7 inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#af30f33955f8018390bee6abbb83d2ac7">IsRemoved</a> () const</td></tr>
+<tr class="separator:af30f33955f8018390bee6abbb83d2ac7 inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a53cbbb0b1c31583827e80b88e0d27e69 inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a53cbbb0b1c31583827e80b88e0d27e69">SetPassive</a> (bool isPassive)</td></tr>
+<tr class="separator:a53cbbb0b1c31583827e80b88e0d27e69 inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a52ab904d4503a6050960132c677c08ec inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a52ab904d4503a6050960132c677c08ec">SetRemoved</a> (bool isRemoved)</td></tr>
+<tr class="separator:a52ab904d4503a6050960132c677c08ec inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a302b190366d2c9361ef69b86296a36d3 inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a302b190366d2c9361ef69b86296a36d3">Remove</a> ()</td></tr>
+<tr class="memdesc:a302b190366d2c9361ef69b86296a36d3 inherit pub_methods_a29472"><td class="mdescLeft">&#160;</td><td class="mdescRight">Mark aura as removed (for charge exhaustion) Mimics <a class="el" href="../../dd/d63/a11500.html#af9799e5670c2bc3899e3430aa793ca20">Aura::Remove()</a>  <a href="../../dc/dd8/a29472.html#a302b190366d2c9361ef69b86296a36d3">More...</a><br /></td></tr>
+<tr class="separator:a302b190366d2c9361ef69b86296a36d3 inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a969d2e73c87733945478b7026961d352 inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d9f/a29468.html">AuraApplicationStub</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a969d2e73c87733945478b7026961d352">GetOrCreateApplication</a> ()</td></tr>
+<tr class="separator:a969d2e73c87733945478b7026961d352 inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a476d62126b1ec72ffcb79c3c89bfead6 inherit pub_methods_a29472"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d9f/a29468.html">AuraApplicationStub</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#a476d62126b1ec72ffcb79c3c89bfead6">GetApplication</a> () const</td></tr>
+<tr class="separator:a476d62126b1ec72ffcb79c3c89bfead6 inherit pub_methods_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
+Additional Inherited Members</h2></td></tr>
+<tr class="inherit_header pub_types_a29472"><td colspan="2" onclick="javascript:toggleInherit('pub_types_a29472')"><img src="../../closed.png" alt="-"/>&#160;Public Types inherited from <a class="el" href="../../dc/dd8/a29472.html">AuraStub</a></td></tr>
+<tr class="memitem:ae25821c46e0e5524c524f9862140eb7d inherit pub_types_a29472"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd8/a29472.html#ae25821c46e0e5524c524f9862140eb7d">TimePoint</a> = std::chrono::steady_clock::time_point</td></tr>
+<tr class="separator:ae25821c46e0e5524c524f9862140eb7d inherit pub_types_a29472"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="ab24803c49e5019c665aa545cfd2d32dc" name="ab24803c49e5019c665aa545cfd2d32dc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab24803c49e5019c665aa545cfd2d32dc">&#9670;&#160;</a></span>checkDirectories()</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >GMock-enabled <a class="el" href="../../dd/d63/a11500.html">Aura</a> stub for verification. </p>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a9f0561eabca5230f8fe27384e0deb6b8" name="a9f0561eabca5230f8fe27384e0deb6b8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9f0561eabca5230f8fe27384e0deb6b8">&#9670;&#160;</a></span>MockAuraStub()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">MockAuraStub::MockAuraStub </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>id</em> = <code>0</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>spellFamilyName</em> = <code>0</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  279</span>        : <a class="code hl_class" href="../../dc/dd8/a29472.html">AuraStub</a>(<span class="keywordtype">id</span>, spellFamilyName) {}</div>
+<div class="ttc" id="aa29472_html"><div class="ttname"><a href="../../dc/dd8/a29472.html">AuraStub</a></div><div class="ttdoc">Lightweight stub for Aura proc-related functionality.</div><div class="ttdef"><b>Definition:</b> AuraStub.h:111</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a727233484b563f548c9f0e2d8a78b9a6" name="a727233484b563f548c9f0e2d8a78b9a6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a727233484b563f548c9f0e2d8a78b9a6">&#9670;&#160;</a></span>MOCK_METHOD() <span class="overload">[1/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool checkDirectories </td>
+          <td class="memname">MockAuraStub::MOCK_METHOD </td>
           <td>(</td>
           <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>debugOutput</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   27</span>{</div>
-<div class="line"><span class="lineno">   28</span>    std::vector&lt;std::string&gt; dirFiles;</div>
-<div class="line"><span class="lineno">   29</span> </div>
-<div class="line"><span class="lineno">   30</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d2/db6/a04681.html#a3620968f3c1f5c1a3bb0c809ab0eb4ab">getDirContents</a>(dirFiles, <span class="stringliteral">&quot;maps&quot;</span>) == <a class="code hl_enumvalue" href="../../d2/db6/a04681.html#a030b28c9f552c0de4a4b4844fc5e6101a868c0f60f6afa222577730606ed493a6">LISTFILE_DIRECTORY_NOT_FOUND</a> || dirFiles.empty())</div>
-<div class="line"><span class="lineno">   31</span>    {</div>
-<div class="line"><span class="lineno">   32</span>        printf(<span class="stringliteral">&quot;&#39;maps&#39; directory is empty or does not exist\n&quot;</span>);</div>
-<div class="line"><span class="lineno">   33</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   34</span>    }</div>
-<div class="line"><span class="lineno">   35</span> </div>
-<div class="line"><span class="lineno">   36</span>    dirFiles.clear();</div>
-<div class="line"><span class="lineno">   37</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d2/db6/a04681.html#a3620968f3c1f5c1a3bb0c809ab0eb4ab">getDirContents</a>(dirFiles, <span class="stringliteral">&quot;vmaps&quot;</span>, <span class="stringliteral">&quot;*.vmtree&quot;</span>) == <a class="code hl_enumvalue" href="../../d2/db6/a04681.html#a030b28c9f552c0de4a4b4844fc5e6101a868c0f60f6afa222577730606ed493a6">LISTFILE_DIRECTORY_NOT_FOUND</a> || dirFiles.empty())</div>
-<div class="line"><span class="lineno">   38</span>    {</div>
-<div class="line"><span class="lineno">   39</span>        printf(<span class="stringliteral">&quot;&#39;vmaps&#39; directory is empty or does not exist\n&quot;</span>);</div>
-<div class="line"><span class="lineno">   40</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   41</span>    }</div>
-<div class="line"><span class="lineno">   42</span> </div>
-<div class="line"><span class="lineno">   43</span>    dirFiles.clear();</div>
-<div class="line"><span class="lineno">   44</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d2/db6/a04681.html#a3620968f3c1f5c1a3bb0c809ab0eb4ab">getDirContents</a>(dirFiles, <span class="stringliteral">&quot;mmaps&quot;</span>) == <a class="code hl_enumvalue" href="../../d2/db6/a04681.html#a030b28c9f552c0de4a4b4844fc5e6101a868c0f60f6afa222577730606ed493a6">LISTFILE_DIRECTORY_NOT_FOUND</a>)</div>
-<div class="line"><span class="lineno">   45</span>    {</div>
-<div class="line"><span class="lineno">   46</span>        <span class="keywordflow">return</span> boost::filesystem::create_directory(<span class="stringliteral">&quot;mmaps&quot;</span>);</div>
-<div class="line"><span class="lineno">   47</span>    }</div>
-<div class="line"><span class="lineno">   48</span> </div>
-<div class="line"><span class="lineno">   49</span>    dirFiles.clear();</div>
-<div class="line"><span class="lineno">   50</span>    <span class="keywordflow">if</span> (debugOutput)</div>
-<div class="line"><span class="lineno">   51</span>    {</div>
-<div class="line"><span class="lineno">   52</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d2/db6/a04681.html#a3620968f3c1f5c1a3bb0c809ab0eb4ab">getDirContents</a>(dirFiles, <span class="stringliteral">&quot;meshes&quot;</span>) == <a class="code hl_enumvalue" href="../../d2/db6/a04681.html#a030b28c9f552c0de4a4b4844fc5e6101a868c0f60f6afa222577730606ed493a6">LISTFILE_DIRECTORY_NOT_FOUND</a>)</div>
-<div class="line"><span class="lineno">   53</span>        {</div>
-<div class="line"><span class="lineno">   54</span>            printf(<span class="stringliteral">&quot;&#39;meshes&#39; directory does not exist (no place to put debugOutput files)\n&quot;</span>);</div>
-<div class="line"><span class="lineno">   55</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   56</span>        }</div>
-<div class="line"><span class="lineno">   57</span>    }</div>
-<div class="line"><span class="lineno">   58</span> </div>
-<div class="line"><span class="lineno">   59</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   60</span>}</div>
-<div class="ttc" id="aa04681_html_a030b28c9f552c0de4a4b4844fc5e6101a868c0f60f6afa222577730606ed493a6"><div class="ttname"><a href="../../d2/db6/a04681.html#a030b28c9f552c0de4a4b4844fc5e6101a868c0f60f6afa222577730606ed493a6">MMAP::LISTFILE_DIRECTORY_NOT_FOUND</a></div><div class="ttdeci">@ LISTFILE_DIRECTORY_NOT_FOUND</div><div class="ttdef"><b>Definition:</b> PathCommon.h:73</div></div>
-<div class="ttc" id="aa04681_html_a3620968f3c1f5c1a3bb0c809ab0eb4ab"><div class="ttname"><a href="../../d2/db6/a04681.html#a3620968f3c1f5c1a3bb0c809ab0eb4ab">MMAP::getDirContents</a></div><div class="ttdeci">ListFilesResult getDirContents(std::vector&lt; std::string &gt; &amp;fileList, std::string dirpath=&quot;.&quot;, std::string filter=&quot;*&quot;)</div><div class="ttdef"><b>Definition:</b> PathCommon.h:77</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">MMAP::getDirContents()</a>, and <a class="el" href="../../#l00073">MMAP::LISTFILE_DIRECTORY_NOT_FOUND</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00242">main()</a>.</p>
-
-</div>
-</div>
-<a id="a32e7545f3a98690aeb284a4eb66f272d" name="a32e7545f3a98690aeb284a4eb66f272d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a32e7545f3a98690aeb284a4eb66f272d">&#9670;&#160;</a></span>finish()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">int finish </td>
-          <td>(</td>
-          <td class="paramtype">const char *&#160;</td>
-          <td class="paramname"><em>message</em>, </td>
+          <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>returnValue</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dc/dd8/a29472.html#a672ff1d71cbfb2ea312298b897a07080">DropCharge</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">()&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">(override)&#160;</td>
+          <td class="paramname">&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -212,117 +292,38 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  236</span>{</div>
-<div class="line"><span class="lineno">  237</span>    printf(<span class="stringliteral">&quot;%s&quot;</span>, message);</div>
-<div class="line"><span class="lineno">  238</span>    getchar(); <span class="comment">// Wait for user input</span></div>
-<div class="line"><span class="lineno">  239</span>    <span class="keywordflow">return</span> returnValue;</div>
-<div class="line"><span class="lineno">  240</span>}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00242">main()</a>.</p>
 
 </div>
 </div>
-<a id="a9da584ba5e81bed140f90563dd648d38" name="a9da584ba5e81bed140f90563dd648d38"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9da584ba5e81bed140f90563dd648d38">&#9670;&#160;</a></span>handleArgs()</h2>
+<a id="a9581f1887abbe708bc4e2da24e1996b5" name="a9581f1887abbe708bc4e2da24e1996b5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9581f1887abbe708bc4e2da24e1996b5">&#9670;&#160;</a></span>MOCK_METHOD() <span class="overload">[2/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool handleArgs </td>
+          <td class="memname">MockAuraStub::MOCK_METHOD </td>
           <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>argc</em>, </td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">char **&#160;</td>
-          <td class="paramname"><em>argv</em>, </td>
+          <td class="paramtype"><a class="el" href="../../dc/dd8/a29472.html#a8acc4b01359a718092d0ab4c737f9657">ModStackAmount</a>&#160;</td>
+          <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">int &amp;&#160;</td>
-          <td class="paramname"><em>mapnum</em>, </td>
+          <td class="paramtype">(int32_t amount, bool resetPeriodicTimer)&#160;</td>
+          <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">int &amp;&#160;</td>
-          <td class="paramname"><em>tileX</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int &amp;&#160;</td>
-          <td class="paramname"><em>tileY</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float &amp;&#160;</td>
-          <td class="paramname"><em>maxAngle</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool &amp;&#160;</td>
-          <td class="paramname"><em>skipLiquid</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool &amp;&#160;</td>
-          <td class="paramname"><em>skipContinents</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool &amp;&#160;</td>
-          <td class="paramname"><em>skipJunkMaps</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool &amp;&#160;</td>
-          <td class="paramname"><em>skipBattlegrounds</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool &amp;&#160;</td>
-          <td class="paramname"><em>debugOutput</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool &amp;&#160;</td>
-          <td class="paramname"><em>silent</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool &amp;&#160;</td>
-          <td class="paramname"><em>bigBaseUnit</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">char *&amp;&#160;</td>
-          <td class="paramname"><em>offMeshInputPath</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">char *&amp;&#160;</td>
-          <td class="paramname"><em>file</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">unsigned int &amp;&#160;</td>
-          <td class="paramname"><em>threads</em>&#160;</td>
+          <td class="paramtype">(override)&#160;</td>
+          <td class="paramname">&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -331,185 +332,38 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   77</span>{</div>
-<div class="line"><span class="lineno">   78</span>    <span class="keywordtype">char</span>* param = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   79</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 1; i &lt; argc; ++i)</div>
-<div class="line"><span class="lineno">   80</span>    {</div>
-<div class="line"><span class="lineno">   81</span>        <span class="keywordflow">if</span> (strcmp(argv[i], <span class="stringliteral">&quot;--maxAngle&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">   82</span>        {</div>
-<div class="line"><span class="lineno">   83</span>            param = argv[++i];</div>
-<div class="line"><span class="lineno">   84</span>            <span class="keywordflow">if</span> (!param)</div>
-<div class="line"><span class="lineno">   85</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   86</span> </div>
-<div class="line"><span class="lineno">   87</span>            <span class="keywordtype">float</span> maxangle = atof(param);</div>
-<div class="line"><span class="lineno">   88</span>            <span class="keywordflow">if</span> (maxangle &lt;= 90.f &amp;&amp; maxangle &gt;= 45.f)</div>
-<div class="line"><span class="lineno">   89</span>                maxAngle = maxangle;</div>
-<div class="line"><span class="lineno">   90</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   91</span>                printf(<span class="stringliteral">&quot;invalid option for &#39;--maxAngle&#39;, using default\n&quot;</span>);</div>
-<div class="line"><span class="lineno">   92</span>        }</div>
-<div class="line"><span class="lineno">   93</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (strcmp(argv[i], <span class="stringliteral">&quot;--threads&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">   94</span>        {</div>
-<div class="line"><span class="lineno">   95</span>            param = argv[++i];</div>
-<div class="line"><span class="lineno">   96</span>            <span class="keywordflow">if</span> (!param)</div>
-<div class="line"><span class="lineno">   97</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   98</span>            threads = <span class="keyword">static_cast&lt;</span><span class="keywordtype">unsigned</span> <span class="keywordtype">int</span><span class="keyword">&gt;</span>(std::max(0, atoi(param)));</div>
-<div class="line"><span class="lineno">   99</span>        }</div>
-<div class="line"><span class="lineno">  100</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (strcmp(argv[i], <span class="stringliteral">&quot;--file&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  101</span>        {</div>
-<div class="line"><span class="lineno">  102</span>            param = argv[++i];</div>
-<div class="line"><span class="lineno">  103</span>            <span class="keywordflow">if</span> (!param)</div>
-<div class="line"><span class="lineno">  104</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  105</span>            file = param;</div>
-<div class="line"><span class="lineno">  106</span>        }</div>
-<div class="line"><span class="lineno">  107</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (strcmp(argv[i], <span class="stringliteral">&quot;--tile&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  108</span>        {</div>
-<div class="line"><span class="lineno">  109</span>            param = argv[++i];</div>
-<div class="line"><span class="lineno">  110</span>            <span class="keywordflow">if</span> (!param)</div>
-<div class="line"><span class="lineno">  111</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  112</span> </div>
-<div class="line"><span class="lineno">  113</span>            <span class="keywordtype">char</span>* stileX = strtok(param, <span class="stringliteral">&quot;,&quot;</span>);</div>
-<div class="line"><span class="lineno">  114</span>            <span class="keywordtype">char</span>* stileY = strtok(<span class="keyword">nullptr</span>, <span class="stringliteral">&quot;,&quot;</span>);</div>
-<div class="line"><span class="lineno">  115</span>            <span class="keywordtype">int</span> tilex = atoi(stileX);</div>
-<div class="line"><span class="lineno">  116</span>            <span class="keywordtype">int</span> tiley = atoi(stileY);</div>
-<div class="line"><span class="lineno">  117</span> </div>
-<div class="line"><span class="lineno">  118</span>            <span class="keywordflow">if</span> ((tilex &gt; 0 &amp;&amp; tilex &lt; 64) || (tilex == 0 &amp;&amp; strcmp(stileX, <span class="stringliteral">&quot;0&quot;</span>) == 0))</div>
-<div class="line"><span class="lineno">  119</span>                tileX = tilex;</div>
-<div class="line"><span class="lineno">  120</span>            <span class="keywordflow">if</span> ((tiley &gt; 0 &amp;&amp; tiley &lt; 64) || (tiley == 0 &amp;&amp; strcmp(stileY, <span class="stringliteral">&quot;0&quot;</span>) == 0))</div>
-<div class="line"><span class="lineno">  121</span>                tileY = tiley;</div>
-<div class="line"><span class="lineno">  122</span> </div>
-<div class="line"><span class="lineno">  123</span>            <span class="keywordflow">if</span> (tileX &lt; 0 || tileY &lt; 0)</div>
-<div class="line"><span class="lineno">  124</span>            {</div>
-<div class="line"><span class="lineno">  125</span>                printf(<span class="stringliteral">&quot;invalid tile coords.\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  126</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  127</span>            }</div>
-<div class="line"><span class="lineno">  128</span>        }</div>
-<div class="line"><span class="lineno">  129</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (strcmp(argv[i], <span class="stringliteral">&quot;--skipLiquid&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  130</span>        {</div>
-<div class="line"><span class="lineno">  131</span>            param = argv[++i];</div>
-<div class="line"><span class="lineno">  132</span>            <span class="keywordflow">if</span> (!param)</div>
-<div class="line"><span class="lineno">  133</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  134</span> </div>
-<div class="line"><span class="lineno">  135</span>            <span class="keywordflow">if</span> (strcmp(param, <span class="stringliteral">&quot;true&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  136</span>                skipLiquid = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  137</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (strcmp(param, <span class="stringliteral">&quot;false&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  138</span>                skipLiquid = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  139</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  140</span>                printf(<span class="stringliteral">&quot;invalid option for &#39;--skipLiquid&#39;, using default\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  141</span>        }</div>
-<div class="line"><span class="lineno">  142</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (strcmp(argv[i], <span class="stringliteral">&quot;--skipContinents&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  143</span>        {</div>
-<div class="line"><span class="lineno">  144</span>            param = argv[++i];</div>
-<div class="line"><span class="lineno">  145</span>            <span class="keywordflow">if</span> (!param)</div>
-<div class="line"><span class="lineno">  146</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  147</span> </div>
-<div class="line"><span class="lineno">  148</span>            <span class="keywordflow">if</span> (strcmp(param, <span class="stringliteral">&quot;true&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  149</span>                skipContinents = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  150</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (strcmp(param, <span class="stringliteral">&quot;false&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  151</span>                skipContinents = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  152</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  153</span>                printf(<span class="stringliteral">&quot;invalid option for &#39;--skipContinents&#39;, using default\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  154</span>        }</div>
-<div class="line"><span class="lineno">  155</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (strcmp(argv[i], <span class="stringliteral">&quot;--skipJunkMaps&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  156</span>        {</div>
-<div class="line"><span class="lineno">  157</span>            param = argv[++i];</div>
-<div class="line"><span class="lineno">  158</span>            <span class="keywordflow">if</span> (!param)</div>
-<div class="line"><span class="lineno">  159</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  160</span> </div>
-<div class="line"><span class="lineno">  161</span>            <span class="keywordflow">if</span> (strcmp(param, <span class="stringliteral">&quot;true&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  162</span>                skipJunkMaps = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  163</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (strcmp(param, <span class="stringliteral">&quot;false&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  164</span>                skipJunkMaps = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  165</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  166</span>                printf(<span class="stringliteral">&quot;invalid option for &#39;--skipJunkMaps&#39;, using default\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  167</span>        }</div>
-<div class="line"><span class="lineno">  168</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (strcmp(argv[i], <span class="stringliteral">&quot;--skipBattlegrounds&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  169</span>        {</div>
-<div class="line"><span class="lineno">  170</span>            param = argv[++i];</div>
-<div class="line"><span class="lineno">  171</span>            <span class="keywordflow">if</span> (!param)</div>
-<div class="line"><span class="lineno">  172</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  173</span> </div>
-<div class="line"><span class="lineno">  174</span>            <span class="keywordflow">if</span> (strcmp(param, <span class="stringliteral">&quot;true&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  175</span>                skipBattlegrounds = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  176</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (strcmp(param, <span class="stringliteral">&quot;false&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  177</span>                skipBattlegrounds = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  178</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  179</span>                printf(<span class="stringliteral">&quot;invalid option for &#39;--skipBattlegrounds&#39;, using default\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  180</span>        }</div>
-<div class="line"><span class="lineno">  181</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (strcmp(argv[i], <span class="stringliteral">&quot;--debugOutput&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  182</span>        {</div>
-<div class="line"><span class="lineno">  183</span>            param = argv[++i];</div>
-<div class="line"><span class="lineno">  184</span>            <span class="keywordflow">if</span> (!param)</div>
-<div class="line"><span class="lineno">  185</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  186</span> </div>
-<div class="line"><span class="lineno">  187</span>            <span class="keywordflow">if</span> (strcmp(param, <span class="stringliteral">&quot;true&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  188</span>                debugOutput = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  189</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (strcmp(param, <span class="stringliteral">&quot;false&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  190</span>                debugOutput = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  191</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  192</span>                printf(<span class="stringliteral">&quot;invalid option for &#39;--debugOutput&#39;, using default true\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  193</span>        }</div>
-<div class="line"><span class="lineno">  194</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (strcmp(argv[i], <span class="stringliteral">&quot;--silent&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  195</span>        {</div>
-<div class="line"><span class="lineno">  196</span>            silent = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  197</span>        }</div>
-<div class="line"><span class="lineno">  198</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (strcmp(argv[i], <span class="stringliteral">&quot;--bigBaseUnit&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  199</span>        {</div>
-<div class="line"><span class="lineno">  200</span>            param = argv[++i];</div>
-<div class="line"><span class="lineno">  201</span>            <span class="keywordflow">if</span> (!param)</div>
-<div class="line"><span class="lineno">  202</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  203</span> </div>
-<div class="line"><span class="lineno">  204</span>            <span class="keywordflow">if</span> (strcmp(param, <span class="stringliteral">&quot;true&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  205</span>                bigBaseUnit = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  206</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (strcmp(param, <span class="stringliteral">&quot;false&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  207</span>                bigBaseUnit = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  208</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  209</span>                printf(<span class="stringliteral">&quot;invalid option for &#39;--bigBaseUnit&#39;, using default false\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  210</span>        }</div>
-<div class="line"><span class="lineno">  211</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (strcmp(argv[i], <span class="stringliteral">&quot;--offMeshInput&quot;</span>) == 0)</div>
-<div class="line"><span class="lineno">  212</span>        {</div>
-<div class="line"><span class="lineno">  213</span>            param = argv[++i];</div>
-<div class="line"><span class="lineno">  214</span>            <span class="keywordflow">if</span> (!param)</div>
-<div class="line"><span class="lineno">  215</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  216</span> </div>
-<div class="line"><span class="lineno">  217</span>            offMeshInputPath = param;</div>
-<div class="line"><span class="lineno">  218</span>        }</div>
-<div class="line"><span class="lineno">  219</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  220</span>        {</div>
-<div class="line"><span class="lineno">  221</span>            <span class="keywordtype">int</span> map = atoi(argv[i]);</div>
-<div class="line"><span class="lineno">  222</span>            <span class="keywordflow">if</span> (map &gt; 0 || (map == 0 &amp;&amp; (strcmp(argv[i], <span class="stringliteral">&quot;0&quot;</span>) == 0)))</div>
-<div class="line"><span class="lineno">  223</span>                mapnum = map;</div>
-<div class="line"><span class="lineno">  224</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  225</span>            {</div>
-<div class="line"><span class="lineno">  226</span>                printf(<span class="stringliteral">&quot;invalid map id\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  227</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  228</span>            }</div>
-<div class="line"><span class="lineno">  229</span>        }</div>
-<div class="line"><span class="lineno">  230</span>    }</div>
-<div class="line"><span class="lineno">  231</span> </div>
-<div class="line"><span class="lineno">  232</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  233</span>}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00242">main()</a>.</p>
 
 </div>
 </div>
-<a id="a3c04138a5bfe5d72780bb7e82a18e627" name="a3c04138a5bfe5d72780bb7e82a18e627"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3c04138a5bfe5d72780bb7e82a18e627">&#9670;&#160;</a></span>main()</h2>
+<a id="abe2d675e124d5cb9115e8f726b1c7d8b" name="abe2d675e124d5cb9115e8f726b1c7d8b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abe2d675e124d5cb9115e8f726b1c7d8b">&#9670;&#160;</a></span>MOCK_METHOD() <span class="overload">[3/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">int main </td>
+          <td class="memname">MockAuraStub::MOCK_METHOD </td>
           <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>argc</em>, </td>
+          <td class="paramtype">void&#160;</td>
+          <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">char **&#160;</td>
-          <td class="paramname"><em>argv</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dc/dd8/a29472.html#a302b190366d2c9361ef69b86296a36d3">Remove</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">()&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">(override)&#160;</td>
+          <td class="paramname">&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -518,71 +372,6 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  243</span>{</div>
-<div class="line"><span class="lineno">  244</span>    <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> threads = std::thread::hardware_concurrency();</div>
-<div class="line"><span class="lineno">  245</span>    <span class="keywordtype">int</span> mapnum = -1;</div>
-<div class="line"><span class="lineno">  246</span>    <span class="keywordtype">int</span> tileX = -1, tileY = -1;</div>
-<div class="line"><span class="lineno">  247</span>    <span class="keywordtype">float</span> maxAngle = 60.0f;</div>
-<div class="line"><span class="lineno">  248</span>    <span class="keywordtype">bool</span> skipLiquid = <span class="keyword">false</span>,</div>
-<div class="line"><span class="lineno">  249</span>         skipContinents = <span class="keyword">false</span>,</div>
-<div class="line"><span class="lineno">  250</span>         skipJunkMaps = <span class="keyword">true</span>,</div>
-<div class="line"><span class="lineno">  251</span>         skipBattlegrounds = <span class="keyword">false</span>,</div>
-<div class="line"><span class="lineno">  252</span>         debugOutput = <span class="keyword">false</span>,</div>
-<div class="line"><span class="lineno">  253</span>         silent = <span class="keyword">false</span>,</div>
-<div class="line"><span class="lineno">  254</span>         bigBaseUnit = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  255</span>    <span class="keywordtype">char</span>* offMeshInputPath = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  256</span>    <span class="keywordtype">char</span>* file = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  257</span> </div>
-<div class="line"><span class="lineno">  258</span>    <span class="keywordtype">bool</span> validParam = <a class="code hl_function" href="../../da/ddc/a29476.html#a9da584ba5e81bed140f90563dd648d38">handleArgs</a>(argc, argv, mapnum,</div>
-<div class="line"><span class="lineno">  259</span>                                 tileX, tileY, maxAngle,</div>
-<div class="line"><span class="lineno">  260</span>                                 skipLiquid, skipContinents, skipJunkMaps, skipBattlegrounds,</div>
-<div class="line"><span class="lineno">  261</span>                                 debugOutput, silent, bigBaseUnit, offMeshInputPath, file, threads);</div>
-<div class="line"><span class="lineno">  262</span> </div>
-<div class="line"><span class="lineno">  263</span>    <span class="keywordflow">if</span> (!validParam)</div>
-<div class="line"><span class="lineno">  264</span>        <span class="keywordflow">return</span> silent ? -1 : <a class="code hl_function" href="../../da/ddc/a29476.html#a32e7545f3a98690aeb284a4eb66f272d">finish</a>(<span class="stringliteral">&quot;You have specified invalid parameters&quot;</span>, -1);</div>
-<div class="line"><span class="lineno">  265</span> </div>
-<div class="line"><span class="lineno">  266</span>    <span class="keywordflow">if</span> (mapnum == -1 &amp;&amp; debugOutput)</div>
-<div class="line"><span class="lineno">  267</span>    {</div>
-<div class="line"><span class="lineno">  268</span>        <span class="keywordflow">if</span> (silent)</div>
-<div class="line"><span class="lineno">  269</span>            <span class="keywordflow">return</span> -2;</div>
-<div class="line"><span class="lineno">  270</span> </div>
-<div class="line"><span class="lineno">  271</span>        printf(<span class="stringliteral">&quot;You have specifed debug output, but didn&#39;t specify a map to generate.\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  272</span>        printf(<span class="stringliteral">&quot;This will generate debug output for ALL maps.\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  273</span>        printf(<span class="stringliteral">&quot;Are you sure you want to continue? (y/n) &quot;</span>);</div>
-<div class="line"><span class="lineno">  274</span>        <span class="keywordflow">if</span> (getchar() != <span class="charliteral">&#39;y&#39;</span>)</div>
-<div class="line"><span class="lineno">  275</span>            <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  276</span>    }</div>
-<div class="line"><span class="lineno">  277</span> </div>
-<div class="line"><span class="lineno">  278</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../da/ddc/a29476.html#ab24803c49e5019c665aa545cfd2d32dc">checkDirectories</a>(debugOutput))</div>
-<div class="line"><span class="lineno">  279</span>        <span class="keywordflow">return</span> silent ? -3 : <a class="code hl_function" href="../../da/ddc/a29476.html#a32e7545f3a98690aeb284a4eb66f272d">finish</a>(<span class="stringliteral">&quot;Press ENTER to close...&quot;</span>, -3);</div>
-<div class="line"><span class="lineno">  280</span> </div>
-<div class="line"><span class="lineno">  281</span>    <a class="code hl_class" href="../../d3/d41/a28594.html">MapBuilder</a> builder(maxAngle, skipLiquid, skipContinents, skipJunkMaps,</div>
-<div class="line"><span class="lineno">  282</span>                       skipBattlegrounds, debugOutput, bigBaseUnit, mapnum, offMeshInputPath, threads);</div>
-<div class="line"><span class="lineno">  283</span> </div>
-<div class="line"><span class="lineno">  284</span>    <a class="code hl_typedef" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> start = <a class="code hl_function" href="../../d9/dd1/a00398.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
-<div class="line"><span class="lineno">  285</span>    <span class="keywordflow">if</span> (file)</div>
-<div class="line"><span class="lineno">  286</span>        builder.buildMeshFromFile(file);</div>
-<div class="line"><span class="lineno">  287</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (tileX &gt; -1 &amp;&amp; tileY &gt; -1 &amp;&amp; mapnum &gt;= 0)</div>
-<div class="line"><span class="lineno">  288</span>        builder.buildSingleTile(mapnum, tileX, tileY);</div>
-<div class="line"><span class="lineno">  289</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (mapnum &gt;= 0)</div>
-<div class="line"><span class="lineno">  290</span>        builder.buildMaps(<a class="code hl_typedef" href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(mapnum));</div>
-<div class="line"><span class="lineno">  291</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  292</span>        builder.buildMaps({});</div>
-<div class="line"><span class="lineno">  293</span> </div>
-<div class="line"><span class="lineno">  294</span>    <span class="keywordflow">if</span> (!silent)</div>
-<div class="line"><span class="lineno">  295</span>        printf(<span class="stringliteral">&quot;Finished. MMAPS were built in %s\n&quot;</span>, <a class="code hl_function" href="../../d7/d5e/a00467.html#a0b4910c611cea4a1b2812dac5456c5a8">secsToTimeString</a>(<a class="code hl_function" href="../../d9/dd1/a00398.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(start) / 1000).c_str());</div>
-<div class="line"><span class="lineno">  296</span>    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  297</span>}</div>
-<div class="ttc" id="aa00398_html_a23a2c8663a05f2b03a6f85501972e8c0"><div class="ttname"><a href="../../d9/dd1/a00398.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a></div><div class="ttdeci">uint32 GetMSTimeDiffToNow(uint32 oldMSTime)</div><div class="ttdef"><b>Definition:</b> Timer.h:131</div></div>
-<div class="ttc" id="aa00398_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../d9/dd1/a00398.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:103</div></div>
-<div class="ttc" id="aa00467_html_a0b4910c611cea4a1b2812dac5456c5a8"><div class="ttname"><a href="../../d7/d5e/a00467.html#a0b4910c611cea4a1b2812dac5456c5a8">secsToTimeString</a></div><div class="ttdeci">std::string secsToTimeString(uint64 timeInSecs, bool shortText)</div><div class="ttdef"><b>Definition:</b> Util.cpp:73</div></div>
-<div class="ttc" id="aa00488_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d4/ddf/a00488.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa28594_html"><div class="ttname"><a href="../../d3/d41/a28594.html">MMAP::MapBuilder</a></div><div class="ttdef"><b>Definition:</b> MapBuilder.h:147</div></div>
-<div class="ttc" id="aa29476_html_a32e7545f3a98690aeb284a4eb66f272d"><div class="ttname"><a href="../../da/ddc/a29476.html#a32e7545f3a98690aeb284a4eb66f272d">finish</a></div><div class="ttdeci">int finish(const char *message, int returnValue)</div><div class="ttdef"><b>Definition:</b> PathGenerator.cpp:235</div></div>
-<div class="ttc" id="aa29476_html_a9da584ba5e81bed140f90563dd648d38"><div class="ttname"><a href="../../da/ddc/a29476.html#a9da584ba5e81bed140f90563dd648d38">handleArgs</a></div><div class="ttdeci">bool handleArgs(int argc, char **argv, int &amp;mapnum, int &amp;tileX, int &amp;tileY, float &amp;maxAngle, bool &amp;skipLiquid, bool &amp;skipContinents, bool &amp;skipJunkMaps, bool &amp;skipBattlegrounds, bool &amp;debugOutput, bool &amp;silent, bool &amp;bigBaseUnit, char *&amp;offMeshInputPath, char *&amp;file, unsigned int &amp;threads)</div><div class="ttdef"><b>Definition:</b> PathGenerator.cpp:62</div></div>
-<div class="ttc" id="aa29476_html_ab24803c49e5019c665aa545cfd2d32dc"><div class="ttname"><a href="../../da/ddc/a29476.html#ab24803c49e5019c665aa545cfd2d32dc">checkDirectories</a></div><div class="ttdeci">bool checkDirectories(bool debugOutput)</div><div class="ttdef"><b>Definition:</b> PathGenerator.cpp:26</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00207">MMAP::MapBuilder::buildMaps()</a>, <a class="el" href="../../#l00290">MMAP::MapBuilder::buildMeshFromFile()</a>, <a class="el" href="../../#l00377">MMAP::MapBuilder::buildSingleTile()</a>, <a class="el" href="../../#l00026">checkDirectories()</a>, <a class="el" href="../../#l00235">finish()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00062">handleArgs()</a>, and <a class="el" href="../../#l00073">secsToTimeString()</a>.</p>
 
 </div>
 </div>
@@ -591,8 +380,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_ac5beb3152ba3ce8038adbba12e192c7.html">tools</a></li><li class="navelem"><a class="el" href="../../dir_d5b937f8e04412da4f4df9b7d3f28ed0.html">mmaps_generator</a></li><li class="navelem"><a class="el" href="../../da/ddc/a29476.html">PathGenerator.cpp</a></li>
-    <li class="footer">Generated on Mon Oct 7 2024 20:44:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../da/ddc/a29476.html">MockAuraStub</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:15:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

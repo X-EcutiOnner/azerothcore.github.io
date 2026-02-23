@@ -1,6 +1,5 @@
 var a10864 =
 [
-    [ "GuildSetGuildMaster", "d8/d09/a10864.html#ae6ca07252de719cc506042c8d3e8285e", null ],
-    [ "Read", "d8/d09/a10864.html#a94f16e55a840c7cba991a119af5d8263", null ],
-    [ "NewMasterName", "d8/d09/a10864.html#a02f37610492c75373266bb93000adcbf", null ]
+    [ "Flags", "d8/d09/a10864.html#af1d25fa760cdbfa907a1b6e0002f0e70", null ],
+    [ "WithdrawItemLimit", "d8/d09/a10864.html#aa7bb5355ee174f3b9dd32c659e0f7806", null ]
 ];

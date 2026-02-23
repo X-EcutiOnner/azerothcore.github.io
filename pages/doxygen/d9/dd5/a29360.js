@@ -1,5 +1,10 @@
 var a29360 =
 [
-    [ "item_petrov_cluster_bombs", "d9/dd5/a29360.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "d9/dd5/a29360.html#a14e8a00a532b5aebc8469ff538848f53", null ]
+    [ "area_id", "d9/dd5/a29360.html#acbd77950bf9548d266e568640cf38458", null ],
+    [ "map_id", "d9/dd5/a29360.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
+    [ "virtual_map_id", "d9/dd5/a29360.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
+    [ "x1", "d9/dd5/a29360.html#a78967fef40841f705c2564a177cb36f3", null ],
+    [ "x2", "d9/dd5/a29360.html#a037dca812715df0b4f2551f8684b537c", null ],
+    [ "y1", "d9/dd5/a29360.html#a7f90073656e1cd00a88add9f8d881d11", null ],
+    [ "y2", "d9/dd5/a29360.html#ad8e0164952e5565488d5443f269ec79e", null ]
 ];

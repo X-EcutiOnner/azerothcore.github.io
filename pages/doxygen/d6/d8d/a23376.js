@@ -1,13 +1,7 @@
 var a23376 =
 [
-    [ "npc_inner_demon", "d6/d8d/a23376.html#a12063a0125e0e9b5ba5a73f669bfcd84", null ],
-    [ "CanAIAttack", "d6/d8d/a23376.html#a7498fd32b0ace832b38dc624d07478ed", null ],
-    [ "CanBeSeen", "d6/d8d/a23376.html#a5e61d5fc45bf95efaa06f81df58b5fab", null ],
-    [ "CanReceiveDamage", "d6/d8d/a23376.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2", null ],
-    [ "IsSummonedBy", "d6/d8d/a23376.html#a5ed405dd9315cb255d14d3e5f808dc9d", null ],
-    [ "JustDied", "d6/d8d/a23376.html#a15ab3cd6576055ec7ba29a5ed44e73db", null ],
-    [ "OnCalculateMeleeDamageReceived", "d6/d8d/a23376.html#ae95022548b44b23ef93fae24729b5af5", null ],
-    [ "OnCalculatePeriodicTickReceived", "d6/d8d/a23376.html#a546281a2257d0407d294fba1f7d3426f", null ],
-    [ "OnCalculateSpellDamageReceived", "d6/d8d/a23376.html#aa40ee81a4456e1a1f7254d2169f50e88", null ],
-    [ "UpdateAI", "d6/d8d/a23376.html#a977a76b54c4eae6461559d7b15cfc4b2", null ]
+    [ "CalcPeriodic", "d6/d8d/a23376.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
+    [ "PrepareAuraScript", "d6/d8d/a23376.html#a290913502dfe3dfb42b44a964468b97c", null ],
+    [ "Register", "d6/d8d/a23376.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
+    [ "Update", "d6/d8d/a23376.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
 ];

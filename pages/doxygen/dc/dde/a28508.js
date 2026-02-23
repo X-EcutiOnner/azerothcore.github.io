@@ -1,5 +1,6 @@
 var a28508 =
 [
-    [ "ID", "dc/dde/a28508.html#a65acb5af9a688346cbb7dc144710c768", null ],
-    [ "inventoryIcon", "dc/dde/a28508.html#a26b43ee179bd546c6e956dd797fc0842", null ]
+    [ "npc_experience", "dc/dde/a28508.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
+    [ "OnGossipHello", "dc/dde/a28508.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
+    [ "OnGossipSelect", "dc/dde/a28508.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
 ];

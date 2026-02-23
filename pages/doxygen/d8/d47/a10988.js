@@ -1,8 +1,11 @@
 var a10988 =
 [
-    [ "MinimapPing", "d8/d47/a10988.html#a846074f55e6224bf322b96c7bfe9e008", null ],
-    [ "Write", "d8/d47/a10988.html#a94eb49e309ce83b04ccaf8f7e3e8bde7", null ],
-    [ "MapX", "d8/d47/a10988.html#ab747a36a7dfefb0692e8c6abb1d161e2", null ],
-    [ "MapY", "d8/d47/a10988.html#a2f8504ddba41dd09f69763d66331373b", null ],
-    [ "SourceGuid", "d8/d47/a10988.html#abf5d5980b360cbf9332460b01d5816f5", null ]
+    [ "SaveGuildEmblem", "d8/d47/a10988.html#ae3e507a567dfbead91c84629008539d2", null ],
+    [ "Read", "d8/d47/a10988.html#aeea281ed99165947de4b5d1b4449ea5d", null ],
+    [ "BColor", "d8/d47/a10988.html#a48cfbac2214bfc406d8bc80c175dac8f", null ],
+    [ "Bg", "d8/d47/a10988.html#a53e3f146f6a925bbe1fdae2105b79952", null ],
+    [ "BStyle", "d8/d47/a10988.html#a44fdd025f87e13db6d83afca6c49f5f8", null ],
+    [ "EColor", "d8/d47/a10988.html#ad3775c0839dd9aeb5a708a26ea4ec640", null ],
+    [ "EStyle", "d8/d47/a10988.html#a60c52a080284fabe96c579f39fb0834f", null ],
+    [ "Vendor", "d8/d47/a10988.html#a4bd53f7f5a5f2e7759d6df8a9de0b3f0", null ]
 ];

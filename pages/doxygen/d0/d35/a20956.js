@@ -1,8 +1,6 @@
 var a20956 =
 [
-    [ "OnPeriodic", "d0/d35/a20956.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
-    [ "OnRemove", "d0/d35/a20956.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
-    [ "PrepareAuraScript", "d0/d35/a20956.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
-    [ "Register", "d0/d35/a20956.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
-    [ "Validate", "d0/d35/a20956.html#aa56622a1e57c157260940023a6c70a35", null ]
+    [ "achievement_yogg_saron_he_waits_dreaming", "d0/d35/a20956.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
+    [ "OnCheck", "d0/d35/a20956.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
+    [ "_requiredIllusion", "d0/d35/a20956.html#aa3e107cb3be6fa02687709e07466a094", null ]
 ];

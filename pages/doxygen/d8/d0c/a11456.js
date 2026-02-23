@@ -1,15 +1,9 @@
 var a11456 =
 [
-    [ "AttributesMask", "d8/d0c/a11456.html#a7cc9dfa91e034f5052ebd3bf8eaea42a", null ],
-    [ "Chance", "d8/d0c/a11456.html#aea5ca609c75ea7b314aec8ae0246297e", null ],
-    [ "Charges", "d8/d0c/a11456.html#a75f0484dad60eec59b399a188fd9908f", null ],
-    [ "Cooldown", "d8/d0c/a11456.html#a4e6185aea35599a3efc2e806145cb1d2", null ],
-    [ "HitMask", "d8/d0c/a11456.html#a8ac3331576b4eb761157fa3d0d622bea", null ],
-    [ "ProcFlags", "d8/d0c/a11456.html#a9e5de790c4f61537397a1ce2bce8a9b0", null ],
-    [ "ProcsPerMinute", "d8/d0c/a11456.html#a3815765c08f6b95cae6efb93fa98623b", null ],
-    [ "SchoolMask", "d8/d0c/a11456.html#acf72c4a783235770bbff952bdc002324", null ],
-    [ "SpellFamilyMask", "d8/d0c/a11456.html#a8688e9282cb78d4f24b310cc2521c22b", null ],
-    [ "SpellFamilyName", "d8/d0c/a11456.html#a2cb738b0d4579503fcb9bca7988f7e36", null ],
-    [ "SpellPhaseMask", "d8/d0c/a11456.html#ab4c4bfa1493a7a5924d3cd094127f973", null ],
-    [ "SpellTypeMask", "d8/d0c/a11456.html#a99e20d3979a532e1ca90ee83edcff3eb", null ]
+    [ "EncryptableAndCompressiblePacket", "d8/d0c/a11456.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
+    [ "CompressIfNeeded", "d8/d0c/a11456.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
+    [ "NeedsCompression", "d8/d0c/a11456.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
+    [ "NeedsEncryption", "d8/d0c/a11456.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
+    [ "_encrypt", "d8/d0c/a11456.html#a37a68eddad23001a85a4a2f77e237810", null ],
+    [ "SocketQueueLink", "d8/d0c/a11456.html#a88f11ce75f439fd290bdc09156d559c2", null ]
 ];

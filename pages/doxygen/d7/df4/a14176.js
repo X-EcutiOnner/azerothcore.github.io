@@ -1,9 +1,7 @@
 var a14176 =
 [
-    [ "npc_zulaman_hostageAI", "d7/df4/a14176.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
-    [ "JustDied", "d7/df4/a14176.html#af87bdebb039f1da5736408cf3aad6487", null ],
-    [ "JustEngagedWith", "d7/df4/a14176.html#af0aa229973da1a6230a854439658e9ed", null ],
-    [ "UpdateAI", "d7/df4/a14176.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
-    [ "IsLoot", "d7/df4/a14176.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
-    [ "PlayerGUID", "d7/df4/a14176.html#a49f15c5a94d005c56218d00ac6732b82", null ]
+    [ "boss_blight_wormAI", "d7/df4/a14176.html#af267e395fbd539f871e498dc6745c610", null ],
+    [ "Reset", "d7/df4/a14176.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
+    [ "UpdateAI", "d7/df4/a14176.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
+    [ "_events", "d7/df4/a14176.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
 ];

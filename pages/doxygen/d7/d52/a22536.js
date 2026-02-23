@@ -1,7 +1,8 @@
 var a22536 =
 [
-    [ "HandleDummy", "d7/d52/a22536.html#acdf98990ad575fec751a541cac3bcffa", null ],
-    [ "PrepareSpellScript", "d7/d52/a22536.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
-    [ "Register", "d7/d52/a22536.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
-    [ "Validate", "d7/d52/a22536.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
+    [ "npc_yor", "d7/d52/a22536.html#a43ed8720d06c035085d481dbe6539dca", null ],
+    [ "JustEngagedWith", "d7/d52/a22536.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
+    [ "Reset", "d7/d52/a22536.html#aa698540b646fd870b33afbaf19ddbe07", null ],
+    [ "UpdateAI", "d7/d52/a22536.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
+    [ "_scheduler", "d7/d52/a22536.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
 ];

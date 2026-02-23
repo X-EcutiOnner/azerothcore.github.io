@@ -1,8 +1,7 @@
 var a22980 =
 [
-    [ "Load", "d7/d88/a22980.html#a038301fbb547469574efff88455be663", null ],
-    [ "OnPeriodic", "d7/d88/a22980.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
-    [ "PrepareAuraScript", "d7/d88/a22980.html#a386df1300e6a99b02efd13ef4968e99a", null ],
-    [ "Register", "d7/d88/a22980.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
-    [ "Validate", "d7/d88/a22980.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
+    [ "PrepareAuraScript", "d7/d88/a22980.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
+    [ "Register", "d7/d88/a22980.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
+    [ "Update", "d7/d88/a22980.html#a3f98767367564734c9877d1870aac31b", null ],
+    [ "Validate", "d7/d88/a22980.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
 ];

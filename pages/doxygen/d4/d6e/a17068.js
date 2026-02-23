@@ -1,6 +1,6 @@
 var a17068 =
 [
-    [ "npc_fos_leader_secondAI", "d6/d67/a17072.html", "d6/d67/a17072" ],
-    [ "npc_fos_leader_second", "d4/d6e/a17068.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
-    [ "GetAI", "d4/d6e/a17068.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
+    [ "instance_trial_of_the_crusader_InstanceMapScript", "d6/d67/a17072.html", "d6/d67/a17072" ],
+    [ "instance_trial_of_the_crusader", "d4/d6e/a17068.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
+    [ "GetInstanceScript", "d4/d6e/a17068.html#a792034e9e5687bf5fa543175692bed66", null ]
 ];

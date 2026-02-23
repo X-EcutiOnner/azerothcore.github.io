@@ -1,6 +1,12 @@
 var a18184 =
 [
-    [ "OnRemove", "d8/d91/a18184.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
-    [ "PrepareAuraScript", "d8/d91/a18184.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
-    [ "Register", "d8/d91/a18184.html#afa993cb14444989feac16c9fa2d7b8df", null ]
+    [ "npc_vengeful_shadeAI", "d8/d91/a18184.html#acd3961c7c81f88a341cb71888c55c882", null ],
+    [ "AttackStart", "d8/d91/a18184.html#afbd441c5ebf2207d37da1a905be1a247", null ],
+    [ "EnterEvadeMode", "d8/d91/a18184.html#a37bffb02c4ebf6acab8c3474581056a6", null ],
+    [ "MoveInLineOfSight", "d8/d91/a18184.html#a1e8e28e76f27edc5e07574e6050d7e5f", null ],
+    [ "Reset", "d8/d91/a18184.html#acf85448a221a37be819b7ab82f4f9fdc", null ],
+    [ "SpellHitTarget", "d8/d91/a18184.html#af9b40af943ee8a7c9bd8866f116871fc", null ],
+    [ "UpdateAI", "d8/d91/a18184.html#a3a353d677b469d750474a7497c5224a7", null ],
+    [ "targetGUID", "d8/d91/a18184.html#a75c3f61506fe42e41b10a2e67f5b091d", null ],
+    [ "unroot_timer", "d8/d91/a18184.html#a49ea66a0fb6e3c09730d92308bd1cac7", null ]
 ];

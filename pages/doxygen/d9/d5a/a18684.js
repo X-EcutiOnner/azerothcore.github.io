@@ -1,8 +1,11 @@
 var a18684 =
 [
-    [ "npc_lk_wicked_spiritAI", "d9/d5a/a18684.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
-    [ "CanAIAttack", "d9/d5a/a18684.html#ae094420b1a6e134632baa0b086c806c6", null ],
-    [ "JustDied", "d9/d5a/a18684.html#adf153fab1c8639b2b5790ed418afb85d", null ],
-    [ "JustRespawned", "d9/d5a/a18684.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
-    [ "Reset", "d9/d5a/a18684.html#a8b15079251b6855679d738a342126006", null ]
+    [ "AddMissingStack", "d9/d5a/a18684.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
+    [ "CheckAura", "d9/d5a/a18684.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
+    [ "FilterTargets", "d9/d5a/a18684.html#ab6c86c3680823329d5f3aad985aa316a", null ],
+    [ "Load", "d9/d5a/a18684.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
+    [ "PrepareSpellScript", "d9/d5a/a18684.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
+    [ "Register", "d9/d5a/a18684.html#af0e6f1fc6687de1abcc1689116150088", null ],
+    [ "_hadInitialAura", "d9/d5a/a18684.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
+    [ "_hadJumpingAura", "d9/d5a/a18684.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
 ];

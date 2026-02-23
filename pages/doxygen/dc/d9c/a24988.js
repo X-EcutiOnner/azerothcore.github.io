@@ -1,6 +1,7 @@
 var a24988 =
 [
-    [ "HandleAfterCast", "dc/d9c/a24988.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
-    [ "PrepareSpellScript", "dc/d9c/a24988.html#a602d7c920aa73a9c3c69222854093036", null ],
-    [ "Register", "dc/d9c/a24988.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
+    [ "HandleApply", "dc/d9c/a24988.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
+    [ "HandlePeriodicTimer", "dc/d9c/a24988.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
+    [ "PrepareAuraScript", "dc/d9c/a24988.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
+    [ "Register", "dc/d9c/a24988.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
 ];

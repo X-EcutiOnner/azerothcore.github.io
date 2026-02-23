@@ -1,8 +1,7 @@
 var a13044 =
 [
-    [ "npc_cyclone", "d5/d1b/a13044.html#afdc4f98b031f832702929c6a7f192ab5", null ],
-    [ "JustEngagedWith", "d5/d1b/a13044.html#a61d0710868c91f707643a436c0d79485", null ],
-    [ "Reset", "d5/d1b/a13044.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
-    [ "UpdateAI", "d5/d1b/a13044.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
-    [ "_scheduler", "d5/d1b/a13044.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
+    [ "boss_maiden_of_virtue", "d5/d1b/a13044.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
+    [ "JustDied", "d5/d1b/a13044.html#a6eded246318f6b47b46f45168e4a8069", null ],
+    [ "JustEngagedWith", "d5/d1b/a13044.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
+    [ "KilledUnit", "d5/d1b/a13044.html#a32dd66a297d11f5ffac1841bae15727a", null ]
 ];

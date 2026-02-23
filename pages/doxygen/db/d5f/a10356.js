@@ -1,10 +1,8 @@
 var a10356 =
 [
-    [ "ArenaTeamScript", "db/d5f/a10356.html#ab86543c6ce76ff21e4306c799b99c896", null ],
-    [ "IsDatabaseBound", "db/d5f/a10356.html#a4d30f94084ae63eadd952c05b13f3ff4", null ],
-    [ "OnGetArenaPoints", "db/d5f/a10356.html#aa4b2d40921443cefee2775da6ca31b3e", null ],
-    [ "OnGetSlotByType", "db/d5f/a10356.html#a1ff67b327073bb8ebf10e7fddce92835", null ],
-    [ "OnQueueIdToArenaType", "db/d5f/a10356.html#a2a26e8c87c5fa7e85eb2f0517ced29e8", null ],
-    [ "OnSetArenaMaxPlayersPerTeam", "db/d5f/a10356.html#a776548946a09dcb3e76bd97f3c425e7f", null ],
-    [ "OnTypeIDToQueueID", "db/d5f/a10356.html#abcdd905b695f926e503db610d80ada3c", null ]
+    [ "ownerGuid", "db/d5f/a10356.html#a7c66ffa9f54768a0e81f61e5bcdde014", null ],
+    [ "petitionGuid", "db/d5f/a10356.html#a1bbf412a221b76c4a20765d9a6612182", null ],
+    [ "petitionId", "db/d5f/a10356.html#afa16859ac671ff0410204ea30ebcf429", null ],
+    [ "petitionName", "db/d5f/a10356.html#a91c81356e9aa77641eaa881cd04af5af", null ],
+    [ "petitionType", "db/d5f/a10356.html#aeaf6c421d7545cf98d88b4e552dcff23", null ]
 ];

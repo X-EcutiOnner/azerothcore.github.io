@@ -1,7 +1,7 @@
 var a15900 =
 [
-    [ "npc_toogaAI", "d5/d4e/a15904.html", "d5/d4e/a15904" ],
-    [ "npc_tooga", "d3/d27/a15900.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
-    [ "GetAI", "d3/d27/a15900.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
-    [ "OnQuestAccept", "d3/d27/a15900.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
+    [ "HandleDummy", "d3/d27/a15900.html#a30a87266b89021caf7d05c45397f70d1", null ],
+    [ "PrepareSpellScript", "d3/d27/a15900.html#a43a92b346088d710719722e8feed9634", null ],
+    [ "Register", "d3/d27/a15900.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
+    [ "Validate", "d3/d27/a15900.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
 ];

@@ -1,7 +1,7 @@
 var a10884 =
 [
-    [ "AutoEquipItemSlot", "db/da9/a10884.html#aa51f40a4172ac41548ec6199bc84375d", null ],
-    [ "Read", "db/da9/a10884.html#ade6a15026e9c461b38301edf79f367be", null ],
-    [ "DestinationSlot", "db/da9/a10884.html#a683a9bd141b2f99db431de2ae7d213e3", null ],
-    [ "ItemGuid", "db/da9/a10884.html#a9d4da587061833262acff66674d3ac41", null ]
+    [ "GuildSetMemberNote", "db/da9/a10884.html#a4747c3d015cb1b0d0056928fd75e4d18", null ],
+    [ "Read", "db/da9/a10884.html#a3d90b6ce26d55a55bac1d953dd39b049", null ],
+    [ "Note", "db/da9/a10884.html#a33b7b73bd5d26c2a0ac99d6dc0131c41", null ],
+    [ "NoteeName", "db/da9/a10884.html#acf6beb0a5b122a04162e9d2c027203af", null ]
 ];

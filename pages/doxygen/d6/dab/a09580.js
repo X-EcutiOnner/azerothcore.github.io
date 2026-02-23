@@ -1,6 +1,9 @@
 var a09580 =
 [
-    [ "RandomCheck", "d6/dab/a09580.html#aca7a234c6eef8876abb02af723e9485d", null ],
-    [ "operator()", "d6/dab/a09580.html#a9886987fa2b675ab404102ebe828c9f3", null ],
-    [ "_chance", "d6/dab/a09580.html#aad026a0ad4539dd5336c3a6b820e351d", null ]
+    [ "AnyGroupedUnitInObjectRangeCheck", "d6/dab/a09580.html#a2c775f62eeabcb8af5306cbcedae322e", null ],
+    [ "operator()", "d6/dab/a09580.html#a3c316eacdd1c74c69d8297871f84d7b9", null ],
+    [ "_raid", "d6/dab/a09580.html#a6a9cffd02435913a5d7ee53cd1e8cc0b", null ],
+    [ "_range", "d6/dab/a09580.html#a01b4592ac61d58ff39e5bb2eb1a1b997", null ],
+    [ "_refUnit", "d6/dab/a09580.html#ad083243ef5487aa374b19e3c82b0457c", null ],
+    [ "_source", "d6/dab/a09580.html#a91de967d2376ea96b1fc0838094915cf", null ]
 ];

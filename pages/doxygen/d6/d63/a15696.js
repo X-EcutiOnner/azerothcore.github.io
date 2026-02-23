@@ -1,8 +1,10 @@
 var a15696 =
 [
-    [ "npc_aged_dying_ancient_kodo", "d6/d63/a15696.html#a8707efb78e29b5a3443b0f4d9ee1798b", null ],
-    [ "JustRespawned", "d6/d63/a15696.html#ab401f9002bd49b26cc0526112e715d1e", null ],
-    [ "MoveInLineOfSight", "d6/d63/a15696.html#a2bed1b0965414682dec6f6e4b2872d33", null ],
-    [ "OnGossipHello", "d6/d63/a15696.html#a760b1c45119893fc7e792139b2e9d948", null ],
-    [ "SpellHit", "d6/d63/a15696.html#a24a0324d7a6bd4d05da76469b14720ac", null ]
+    [ "npc_anubisath_defender", "d6/d63/a15696.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
+    [ "DamageTaken", "d6/d63/a15696.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
+    [ "JustDied", "d6/d63/a15696.html#a225ca1b3144953bcc5890caf0d32b606", null ],
+    [ "JustEngagedWith", "d6/d63/a15696.html#a6505fcae0e99cae44750f16daddc3309", null ],
+    [ "Reset", "d6/d63/a15696.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
+    [ "UpdateAI", "d6/d63/a15696.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
+    [ "_enraged", "d6/d63/a15696.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
 ];

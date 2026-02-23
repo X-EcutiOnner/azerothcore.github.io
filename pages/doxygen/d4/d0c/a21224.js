@@ -1,10 +1,13 @@
 var a21224 =
 [
-    [ "npc_ulduar_snow_mound", "d4/d0c/a21224.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
-    [ "MoveInLineOfSight", "d4/d0c/a21224.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
-    [ "UpdateAI", "d4/d0c/a21224.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
-    [ "_activated", "d4/d0c/a21224.html#ac48f6985d857276e0e59c2a429f5b359", null ],
-    [ "_count", "d4/d0c/a21224.html#a1856c3bba24842f33720a83e1de40421", null ],
-    [ "_counter", "d4/d0c/a21224.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
-    [ "_scheduler", "d4/d0c/a21224.html#aafe42af9ba1402cad91326eb1037e476", null ]
+    [ "boss_toravonAI", "d4/d0c/a21224.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
+    [ "AttackStart", "d4/d0c/a21224.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
+    [ "JustDied", "d4/d0c/a21224.html#ad501bb34a0014be0abc965aae5383e21", null ],
+    [ "JustEngagedWith", "d4/d0c/a21224.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
+    [ "JustSummoned", "d4/d0c/a21224.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
+    [ "Reset", "d4/d0c/a21224.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
+    [ "UpdateAI", "d4/d0c/a21224.html#a97c16b1689cfdb7fa680381964cb272a", null ],
+    [ "events", "d4/d0c/a21224.html#ae2a3b691f1580275228204ea8ccaf846", null ],
+    [ "pInstance", "d4/d0c/a21224.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
+    [ "summons", "d4/d0c/a21224.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
 ];

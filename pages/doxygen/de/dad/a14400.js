@@ -1,16 +1,6 @@
 var a14400 =
 [
-    [ "boss_renatakiAI", "de/dad/a14400.html#ac154bfadeb99d67f59e1682de257e8bf", null ],
-    [ "CanAIAttack", "de/dad/a14400.html#af20dc14dc56500e568a3a11bfb34a227", null ],
-    [ "CanAlwaysBeDetectable", "de/dad/a14400.html#af75108eacb982586f43a175beede78ef", null ],
-    [ "CanBeSeen", "de/dad/a14400.html#ac79db0d4488702be0cd12b5e03a9bcb9", null ],
-    [ "CanSeeAlways", "de/dad/a14400.html#a6e4a1e9bec67a1bdac4c9cef3da4b17d", null ],
-    [ "DamageTaken", "de/dad/a14400.html#a62d97adb310b55a2235737b854dc4aca", null ],
-    [ "JustEngagedWith", "de/dad/a14400.html#a72e9a85d2215d3da197d50b6aa0b769e", null ],
-    [ "Reset", "de/dad/a14400.html#ad50d8e24fb4168186497c5cdb5b39a68", null ],
-    [ "UpdateAI", "de/dad/a14400.html#a3a1abaef460d9abe1298080080d74c9d", null ],
-    [ "_dynamicFlags", "de/dad/a14400.html#a502bfa737cf97ae909144278a3e39bd0", null ],
-    [ "_enraged", "de/dad/a14400.html#a71e717a2ea732729762aff7970439f74", null ],
-    [ "_thousandBladesCount", "de/dad/a14400.html#a29dd57c66245f30d12f32d31cc25cd55", null ],
-    [ "_thousandBladesTargets", "de/dad/a14400.html#ab8b2b52a2ef8ea6586381234c9a3e3fc", null ]
+    [ "OnEffect", "de/dad/a14400.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
+    [ "PrepareSpellScript", "de/dad/a14400.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
+    [ "Register", "de/dad/a14400.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
 ];

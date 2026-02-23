@@ -1,5 +1,4 @@
 var a11228 =
 [
-    [ "SocketIPBytes", "dc/df9/a11228.html#aa10551a3c7371bafa9b27919e37b16ff", null ],
-    [ "SocketPort", "dc/df9/a11228.html#a6e6fb49cad093530f6ba650ca2ff57af", null ]
+    [ "Validate", "dc/df9/a11228.html#a25f2d2033711c905ed702d844416c250", null ]
 ];

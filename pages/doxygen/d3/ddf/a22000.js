@@ -1,5 +1,7 @@
 var a22000 =
 [
-    [ "at_q24545_frostmourne_cavern", "d3/ddf/a22000.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
-    [ "OnTrigger", "d3/ddf/a22000.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
+    [ "GetSeatNumber", "d3/ddf/a22000.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
+    [ "HandleDummy", "d3/ddf/a22000.html#ac5945381452559e1d5655f5345bdeff3", null ],
+    [ "PrepareSpellScript", "d3/ddf/a22000.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
+    [ "Register", "d3/ddf/a22000.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
 ];

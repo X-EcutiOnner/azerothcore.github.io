@@ -1,5 +1,5 @@
 var a14436 =
 [
-    [ "go_brazier_of_madness", "d5/d7c/a14436.html#aeb900e575be02244e62c6e5e4153c855", null ],
-    [ "GossipHello", "d5/d7c/a14436.html#aba3af326b01cd045523434aec189fd47", null ]
+    [ "at_zulgurub_edge_of_madness_speech", "d5/d7c/a14436.html#a7d4007716e3ed634ac7e3d3dba26e6f7", null ],
+    [ "_OnTrigger", "d5/d7c/a14436.html#a725de49be12116f2f7e77edd31a096ae", null ]
 ];

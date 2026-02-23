@@ -1,14 +1,16 @@
 var a15988 =
 [
-    [ "npc_ringoAI", "d8/de5/a15988.html#a816dcad96afa6bec595f4b2dfe6fb11c", null ],
-    [ "ClearFaint", "d8/de5/a15988.html#abd24108debcafafa601958824d44abbb", null ],
-    [ "MoveInLineOfSight", "d8/de5/a15988.html#a6758ef2fe371338826dfc8582d6d03f0", null ],
-    [ "Reset", "d8/de5/a15988.html#a5b2cf17642bd4a560abb54b8d42bcd25", null ],
-    [ "SetFaint", "d8/de5/a15988.html#a09d3770aade34afe5a3a15e17cc64933", null ],
-    [ "SpellHit", "d8/de5/a15988.html#ad30d1a9fb84cc777d48b1363cf571d72", null ],
-    [ "UpdateFollowerAI", "d8/de5/a15988.html#a3b0effa8ec4d335a1d24d2238346b04a", null ],
-    [ "EndEventProgress", "d8/de5/a15988.html#a4df563b83103bbd7e1f0d81a78f6401a", null ],
-    [ "EndEventTimer", "d8/de5/a15988.html#a03f20114ca340c7c710bd77ee3c905ef", null ],
-    [ "FaintTimer", "d8/de5/a15988.html#a37d12c7edf3100837c99e3fb572f4bf1", null ],
-    [ "SpraggleGUID", "d8/de5/a15988.html#a3b58d34a1263355e7b11e22e0eef00a5", null ]
+    [ "npc_anachronos_the_ancientAI", "d8/de5/a15988.html#aad6fbdc3cf33f2deb6dd3cc741e4aec4", null ],
+    [ "HandleAnimation", "d8/de5/a15988.html#a0bd43e2482a12cda79566f761d448109", null ],
+    [ "Reset", "d8/de5/a15988.html#a3bd2380cfd18b14aae1ae72a452299bb", null ],
+    [ "UpdateAI", "d8/de5/a15988.html#a5a55cfec1d204b6657779938e93b6be5", null ],
+    [ "AnachronosQuestTriggerGUID", "d8/de5/a15988.html#aa51b7cdfb2a37310196c81a01f89a7dd", null ],
+    [ "AnimationCount", "d8/de5/a15988.html#a504038880b7e837f63f99d477c8a0bba", null ],
+    [ "AnimationTimer", "d8/de5/a15988.html#a4ca3807429ffa2caca6199ecd66c4015", null ],
+    [ "ArygosGUID", "d8/de5/a15988.html#a4f2917c85d41d3b5015d6eed56fe9e12", null ],
+    [ "CaelestraszGUID", "d8/de5/a15988.html#adceafa1ad19ecb7df59f87b501d4622c", null ],
+    [ "eventEnd", "d8/de5/a15988.html#ad125b9eb7052449a6b75eebde7a192e0", null ],
+    [ "FandralGUID", "d8/de5/a15988.html#a157af7db82bf943c298b63d8294067ce", null ],
+    [ "MerithraGUID", "d8/de5/a15988.html#af7088f79687a4109f5701488e9019aeb", null ],
+    [ "PlayerGUID", "d8/de5/a15988.html#a7e1777ca319e4f6dafc1a035d05dabc0", null ]
 ];

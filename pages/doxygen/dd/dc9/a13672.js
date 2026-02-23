@@ -1,7 +1,8 @@
 var a13672 =
 [
-    [ "HandleSchoolDamage", "dd/dc9/a13672.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
-    [ "PrepareSpellScript", "dd/dc9/a13672.html#a8063f3d669e07dc0768607feb9a2f763", null ],
-    [ "Register", "dd/dc9/a13672.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
-    [ "Validate", "dd/dc9/a13672.html#af90ae09274b0082bd8bd674ca43596f6", null ]
+    [ "npc_madrigosa", "dd/dc9/a13672.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
+    [ "DoAction", "dd/dc9/a13672.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
+    [ "UpdateAI", "dd/dc9/a13672.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
+    [ "events", "dd/dc9/a13672.html#a5859e4c8454371eb71740616d4763c0e", null ],
+    [ "instance", "dd/dc9/a13672.html#a09525d3bb35d1da4246bd84bbadea304", null ]
 ];

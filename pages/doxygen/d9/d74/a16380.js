@@ -1,7 +1,6 @@
 var a16380 =
 [
-    [ "HandlePeriodic", "d9/d74/a16380.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
-    [ "PrepareAuraScript", "d9/d74/a16380.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
-    [ "Register", "d9/d74/a16380.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
-    [ "Validate", "d9/d74/a16380.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
+    [ "instance_azjol_nerub_InstanceScript", "d9/d74/a16380.html#a886ed4c1485fdedcc176341210eee31a", null ],
+    [ "OnCreatureEvade", "d9/d74/a16380.html#af163238686bf22f11908f64ffb5cacca", null ],
+    [ "OnUnitDeath", "d9/d74/a16380.html#a45792f7c2d1a042d68907a0f475634d1", null ]
 ];

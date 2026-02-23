@@ -1,10 +1,13 @@
 var a29328 =
 [
-    [ "guard_shattrath_scryerAI", "d2/d60/a29328.html#a97accbf467ca1190f8a05512b3857164", null ],
-    [ "Reset", "d2/d60/a29328.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
-    [ "UpdateAI", "d2/d60/a29328.html#ad759cca08b0093522e190ddc038e2c73", null ],
-    [ "banishTimer", "d2/d60/a29328.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
-    [ "canTeleport", "d2/d60/a29328.html#a84188b40b44deae5714466bb23bf2f0d", null ],
-    [ "exileTimer", "d2/d60/a29328.html#a97fbc3f54c23049fd91ad432cd560698", null ],
-    [ "playerGUID", "d2/d60/a29328.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
+    [ "actionFlag", "d2/d60/a29328.html#a6257ae486eff937cf12be64f0e850ca6", null ],
+    [ "arrivalEventID", "d2/d60/a29328.html#a1ffe17f529066091b18451a1121ce6ac", null ],
+    [ "delay", "d2/d60/a29328.html#aef005db912b0a57ecc5d62c66d838826", null ],
+    [ "departureEventID", "d2/d60/a29328.html#a670a033aaf0ff48676373baf9235d670", null ],
+    [ "index", "d2/d60/a29328.html#af9f8e03c2d9c1bdf266b3d62f1174224", null ],
+    [ "mapid", "d2/d60/a29328.html#aa2c6fb8a785e297c72384043698dd401", null ],
+    [ "path", "d2/d60/a29328.html#aa0692acbae0d4639c89ece77265d7858", null ],
+    [ "x", "d2/d60/a29328.html#a9acd2aad6b8820c04f6749bd2944b54f", null ],
+    [ "y", "d2/d60/a29328.html#a08778d3ef9a9a87fd731b54d5501daab", null ],
+    [ "z", "d2/d60/a29328.html#af48d85940d7f204091e8438427a72e2d", null ]
 ];

@@ -1,20 +1,8 @@
 var a13056 =
 [
-    [ "boss_julianne", "d2/dfb/a13056.html#a6433d08be0d5562e876e00225ebf7398", null ],
-    [ "DamageTaken", "d2/dfb/a13056.html#a8ff7675405322c2d55bd01cec340f6b8", null ],
-    [ "DoAction", "d2/dfb/a13056.html#a985c9c1f77b2769461bf42ddaab302d3", null ],
-    [ "EnterEvadeMode", "d2/dfb/a13056.html#af2499ba9d9c25555c82d8d7ae95c7249", null ],
-    [ "JustDied", "d2/dfb/a13056.html#abdfaf6fa147c6b35bed28bb2e3ed3c14", null ],
-    [ "JustEngagedWith", "d2/dfb/a13056.html#a6c5bd97ad402cc5f5dcda421c5d2bad1", null ],
-    [ "JustReachedHome", "d2/dfb/a13056.html#a6bda02d5534b9087741ee7146ec314b5", null ],
-    [ "KilledUnit", "d2/dfb/a13056.html#a7430fb4f315ee5dcf5f9c49b2daa66b0", null ],
-    [ "Reset", "d2/dfb/a13056.html#a1047e28950098b35bd8a8fc5bec4ed26", null ],
-    [ "ScheduleCombat", "d2/dfb/a13056.html#ab0939f8fe0fc34cafbe2dab4ef449895", null ],
-    [ "SpellHit", "d2/dfb/a13056.html#a1e142c56a514640dab0d5d7711085f9d", null ],
-    [ "UpdateAI", "d2/dfb/a13056.html#ad1e1d5bb27fed12a203c8b10f6ea92a6", null ],
-    [ "_scheduler", "d2/dfb/a13056.html#aae4be9b1035626ecc9ad2f3e5b918cbe", null ],
-    [ "instance", "d2/dfb/a13056.html#acdc787ba6908e716517683a8536ecf3e", null ],
-    [ "isFakingDeath", "d2/dfb/a13056.html#a7a1b3b2ead47a49e80f9ba2b49144a91", null ],
-    [ "phase", "d2/dfb/a13056.html#a5b0b680916cd38b2e20a6a1b1a530362", null ],
-    [ "summonedRomulo", "d2/dfb/a13056.html#a6938adccd5c781df04dabe6d860f9357", null ]
+    [ "HandleEffectRemove", "d2/dfb/a13056.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
+    [ "if", "d2/dfb/a13056.html#a8596fc98402bf952484c9567f61c7820", null ],
+    [ "PrepareAuraScript", "d2/dfb/a13056.html#a4055f781a914de631187b00ba7aefeef", null ],
+    [ "Register", "d2/dfb/a13056.html#aefb4bbae43558abde871548088784613", null ],
+    [ "AuraEffectHandleModes", "d2/dfb/a13056.html#a7d419ba41e68b70740a867a2265824bd", null ]
 ];

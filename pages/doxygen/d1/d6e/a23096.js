@@ -1,12 +1,14 @@
 var a23096 =
 [
-    [ "boss_essence_of_sufferingAI", "d1/d6e/a23096.html#a98de7f0b7d12d0981854129cbeab0d0d", null ],
-    [ "DamageTaken", "d1/d6e/a23096.html#a347ef26e4ecdc83ca80c9fd9a93bd97d", null ],
-    [ "DoAction", "d1/d6e/a23096.html#a08724d74523866969b12d13846eb4c1e", null ],
-    [ "JustEngagedWith", "d1/d6e/a23096.html#aa2fce36768ad6e23a955cd215ca759db", null ],
-    [ "KilledUnit", "d1/d6e/a23096.html#a3699b19f23cf15115ff8c92691a6d334", null ],
-    [ "MovementInform", "d1/d6e/a23096.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7", null ],
-    [ "Reset", "d1/d6e/a23096.html#affa55b69784d8f881598189c361c986e", null ],
-    [ "UpdateAI", "d1/d6e/a23096.html#abb60432720b3720832ccc83d454a3808", null ],
-    [ "_recentlySpoken", "d1/d6e/a23096.html#a71a28a61e97f6278836649411493484f", null ]
+    [ "SpellIds", "d1/d6e/a23096.html#a2d0e9022edc8a9f6fc0e34330fda114a", [
+      [ "SPELL_SUMMON_WAVE_A_MOB", "d1/d6e/a23096.html#a2d0e9022edc8a9f6fc0e34330fda114aa19ea6e555692392677c74fccd206380b", null ],
+      [ "SPELL_SUMMON_WAVE_B_MOB", "d1/d6e/a23096.html#a2d0e9022edc8a9f6fc0e34330fda114aa938130293fb55c96d06462e407a24a89", null ],
+      [ "SPELL_SUMMON_WAVE_C_MOB", "d1/d6e/a23096.html#a2d0e9022edc8a9f6fc0e34330fda114aadc855654104e4ec0a09540e9b51cb098", null ],
+      [ "SPELL_SUMMON_WAVE_D_MOB", "d1/d6e/a23096.html#a2d0e9022edc8a9f6fc0e34330fda114aa3bbb32a8c4da3b06e9bf5da83f39970d", null ]
+    ] ],
+    [ "FilterTargets", "d1/d6e/a23096.html#a2a1a2e5069587f52ae968c84cd702eaf", null ],
+    [ "HandleHit", "d1/d6e/a23096.html#aa670812f42c3082f42e0f232ee6bee16", null ],
+    [ "PrepareSpellScript", "d1/d6e/a23096.html#a7fe65229c64c27909868f02439c1ef66", null ],
+    [ "Register", "d1/d6e/a23096.html#a0a8f29b524391ff257aba5cbdc355115", null ],
+    [ "Validate", "d1/d6e/a23096.html#ab8bcdcfcad2a9998d95567006817711e", null ]
 ];

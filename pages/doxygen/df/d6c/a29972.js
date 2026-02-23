@@ -1,8 +1,8 @@
 var a29972 =
 [
-    [ "DBCFile", "d0/db3/a28948.html", "d0/db3/a28948" ],
-    [ "DBCFile::Exception", "d5/d3b/a28952.html", "d5/d3b/a28952" ],
-    [ "DBCFile::NotFound", "d5/dc2/a28956.html", "d5/dc2/a28956" ],
-    [ "DBCFile::Record", "da/dad/a28960.html", "da/dad/a28960" ],
-    [ "DBCFile::Iterator", "de/dff/a28964.html", "de/dff/a28964" ]
+    [ "Color", "df/d6c/a29972.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
+    [ "NameIndex", "df/d6c/a29972.html#add893e045d13a3633fd7346457a10477", null ],
+    [ "Position", "df/d6c/a29972.html#afae9056582e71160c151de2c172bc60a", null ],
+    [ "Rotation", "df/d6c/a29972.html#a48d372bc1371fa5f94db9aa39669942a", null ],
+    [ "Scale", "df/d6c/a29972.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
 ];

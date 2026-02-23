@@ -1,11 +1,5 @@
 var a04160 =
 [
-    [ "npc_announcer_toc10", "d6/dea/a16981.html", "d6/dea/a16981" ],
-    [ "MenuTexts", "dc/d95/a04160.html#a5e87c460d493df2d4629af8c1a30fc5a", [
-      [ "MSG_TESTED", "dc/d95/a04160.html#a5e87c460d493df2d4629af8c1a30fc5aa462de44eca88c95eb9e412dcabc36185", null ],
-      [ "MSG_NEXT_STAGE", "dc/d95/a04160.html#a5e87c460d493df2d4629af8c1a30fc5aafb4b982343fbe7bdd8db85adec53db80", null ],
-      [ "MSG_CRUSADERS", "dc/d95/a04160.html#a5e87c460d493df2d4629af8c1a30fc5aa0f20061fedbed395c6723105b82e091d", null ],
-      [ "MSG_ANUBARAK", "dc/d95/a04160.html#a5e87c460d493df2d4629af8c1a30fc5aad43353382c7c2b60068aa5b306b62643", null ]
-    ] ],
-    [ "AddSC_trial_of_the_crusader", "dc/d95/a04160.html#aae8fa1928137dde06462a753ceebcca6", null ]
+    [ "AsyncAcceptor", "d2/daf/a29376.html", "d2/daf/a29376" ],
+    [ "ACORE_MAX_LISTEN_CONNECTIONS", "dc/d95/a04160.html#af747a74d5d7546f9c862f3516a0c028f", null ]
 ];

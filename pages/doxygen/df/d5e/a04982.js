@@ -1,8 +1,25 @@
 var a04982 =
 [
-    [ "IMMapMgr", "df/d5e/a04982.html#a2292f2bdacfc627ab33f02d399221ad5", null ],
-    [ "~IMMapMgr", "df/d5e/a04982.html#a8298d6b3fbce5ccd835af3c287c361b6", null ],
-    [ "isEnablePathFinding", "df/d5e/a04982.html#a5d6bcb413c39e82da8e4924c4754c8b0", null ],
-    [ "setEnablePathFinding", "df/d5e/a04982.html#afdc7e829a374c20b4d072290363c7c62", null ],
-    [ "iEnablePathFinding", "df/d5e/a04982.html#a25f8900f4546990562fb048e956bb1e0", null ]
+    [ "achievement", "d2/d12/a07984.html", "d2/d12/a07984" ],
+    [ "base_tag", "d9/d57/a07980.html", "d9/d57/a07980" ],
+    [ "enchant", "d9/dff/a07988.html", "d9/dff/a07988" ],
+    [ "glyph", "d8/d44/a07992.html", "d8/d44/a07992" ],
+    [ "item", "d1/d19/a07996.html", "d1/d19/a07996" ],
+    [ "quest", "d0/dda/a08000.html", "d0/dda/a08000" ],
+    [ "spell", "da/d7e/a08004.html", "da/d7e/a08004" ],
+    [ "talent", "dd/d54/a08008.html", "dd/d54/a08008" ],
+    [ "trade", "d3/d4c/a08012.html", "d3/d4c/a08012" ],
+    [ "make_base_tag", "df/d5e/a04982.html#a6ebb455ff3abbea4ad68bd1d7d05fd3a", null ],
+    [ "make_base_tag", "df/d5e/a04982.html#a0803de4bbc9edad4f5bb2afc3c242dca", null ],
+    [ "make_base_tag", "df/d5e/a04982.html#aa8156f2996632fd42a2e39b974426995", null ],
+    [ "make_base_tag", "df/d5e/a04982.html#a321da5d63921d41c561a1460929ac730", null ],
+    [ "make_base_tag", "df/d5e/a04982.html#afc9dbd840048c0031231bcdb7b2fcf04", null ],
+    [ "make_base_tag", "df/d5e/a04982.html#a7083d48423b83ff39095030678b29877", null ],
+    [ "make_base_tag", "df/d5e/a04982.html#aae3a6cd0fbf426755d93a387882ff767", null ],
+    [ "make_base_tag", "df/d5e/a04982.html#aa0ca4a111a856da9091a377934f8de93", null ],
+    [ "make_base_tag", "df/d5e/a04982.html#a9990339040b491e108594df755f03a6c", null ],
+    [ "make_base_tag", "df/d5e/a04982.html#aa0200f5ae02cb0b03a9ab7097ca2a2ec", null ],
+    [ "make_base_tag", "df/d5e/a04982.html#a32cfa3bc188d1b731f3e9e5dcc2de664", null ],
+    [ "make_base_tag", "df/d5e/a04982.html#ae0c637d10c728f04dc2468c15c3f8dca", null ],
+    [ "make_base_tag", "df/d5e/a04982.html#abe0a588f1c0e66d33c8bc7a7d0a04459", null ]
 ];

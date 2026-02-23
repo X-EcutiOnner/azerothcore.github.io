@@ -1,5 +1,6 @@
 var a20144 =
 [
-    [ "go_ulduar_tower", "d6/d35/a20144.html#afc1add1a0543921f52afe1eb907f5de3", null ],
-    [ "OnDestroyed", "d6/d35/a20144.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
+    [ "FilterTargets", "d6/d35/a20144.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
+    [ "PrepareSpellScript", "d6/d35/a20144.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
+    [ "Register", "d6/d35/a20144.html#a4e803984a3eded2736825f631786c204", null ]
 ];

@@ -1,8 +1,14 @@
 var a09996 =
 [
-    [ "GetAINotifyDelay", "da/d71/a09996.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6", null ],
-    [ "GetReqMoveDistSq", "da/d71/a09996.html#a58687646bbf83723e8ad2925ee50452c", null ],
-    [ "GetVisibilityNotifyDelay", "da/d71/a09996.html#ac402ec0cb86192ce264d7909e09da5ac", null ],
-    [ "Update", "da/d71/a09996.html#aa95443d7050249a44cad2f16fa0026e5", null ],
-    [ "visibilitySettingsIndex", "da/d71/a09996.html#a35ebd0fcbdec8a3287f714cbe9becbcc", null ]
+    [ "TriangleBoundary", "da/d71/a09996.html#acd21a26ca6b830c4d4c6ed2b4a186a30", null ],
+    [ "IsWithinBoundaryArea", "da/d71/a09996.html#aaebce21d60856976db921e22a871aae6", null ],
+    [ "_a", "da/d71/a09996.html#a11a5e1e039d39205450e8fde526f23c9", null ],
+    [ "_abx", "da/d71/a09996.html#a18ad05ab00e882af42a5dbc0cf10715b", null ],
+    [ "_aby", "da/d71/a09996.html#a50c9a60be77846c736cf278eac263b44", null ],
+    [ "_b", "da/d71/a09996.html#abcce62f1f187bc6e42f4534bfca855e8", null ],
+    [ "_bcx", "da/d71/a09996.html#a043b7c018baed6b098f93b667f47baed", null ],
+    [ "_bcy", "da/d71/a09996.html#afa03a5b23a6e0d3d4e134fe7b1599df0", null ],
+    [ "_c", "da/d71/a09996.html#a8e037f96f40d81f6c426208efb0dcd1a", null ],
+    [ "_cax", "da/d71/a09996.html#a7c8c6e8e40ec6249d672bb735d9fbdfa", null ],
+    [ "_cay", "da/d71/a09996.html#acbb7a9e61dd4e6188837461821843b9a", null ]
 ];

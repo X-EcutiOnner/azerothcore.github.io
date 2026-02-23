@@ -1,5 +1,5 @@
 var a28060 =
 [
-    [ "ID", "d5/d5c/a28060.html#a4a79da5825cf01d38d6ab9d98e033964", null ],
-    [ "parentCategory", "d5/d5c/a28060.html#a705e301dff461a8d7aefdc6fb29d39cc", null ]
+    [ "go_seer_of_zebhalak", "d5/d5c/a28060.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
+    [ "OnGossipHello", "d5/d5c/a28060.html#a84009789ce8e8d0d7c42996fde161135", null ]
 ];

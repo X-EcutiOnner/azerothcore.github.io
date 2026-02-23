@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SpellClickInfo Struct Reference</title>
+<title>AzerothCore: HashMapHolder&lt; T &gt; Class Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,150 +105,255 @@ $(document).ready(function(){initNavTree('d4/de4/a09056.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-types">Public Types</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="../../d3/d63/a09053.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SpellClickInfo Struct Reference</div></div>
+  <div class="headertitle"><div class="title">HashMapHolder&lt; T &gt; Class Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">ObjectAccessor.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:ac175634ed2eab2911c3749fa208a073a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a09056.html#ac175634ed2eab2911c3749fa208a073a">IsFitToRequirements</a> (<a class="el" href="../../d4/d58/a08836.html">Unit</a> const *clicker, <a class="el" href="../../d4/d58/a08836.html">Unit</a> const *clickee) const</td></tr>
-<tr class="separator:ac175634ed2eab2911c3749fa208a073a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:a8fa5f0aca9316901f42b2df8251c5a5d"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d7/dac/a08632.html">ObjectGuid</a>, T * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a09056.html#a8fa5f0aca9316901f42b2df8251c5a5d">MapType</a></td></tr>
+<tr class="separator:a8fa5f0aca9316901f42b2df8251c5a5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a34641755a5267b7a907d320cc5b4ddb4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a09056.html#a34641755a5267b7a907d320cc5b4ddb4">spellId</a></td></tr>
-<tr class="separator:a34641755a5267b7a907d320cc5b4ddb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a03cd65a460ea252818de9230cb656c1c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a09056.html#a03cd65a460ea252818de9230cb656c1c">castFlags</a></td></tr>
-<tr class="separator:a03cd65a460ea252818de9230cb656c1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adcf285572403481cb418bddebc5f4bfa"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dd3/a04121.html#a8c185aa149e45af04af679431cac0776">SpellClickUserTypes</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a09056.html#adcf285572403481cb418bddebc5f4bfa">userType</a></td></tr>
-<tr class="separator:adcf285572403481cb418bddebc5f4bfa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:af5c618228c141e28ffa11468cfffb21a"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a09056.html#af5c618228c141e28ffa11468cfffb21a">Insert</a> (T *o)</td></tr>
+<tr class="separator:af5c618228c141e28ffa11468cfffb21a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b9c3761746641133d4a9837559c0bb0"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a09056.html#a7b9c3761746641133d4a9837559c0bb0">Remove</a> (T *o)</td></tr>
+<tr class="separator:a7b9c3761746641133d4a9837559c0bb0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a314b4ce3265136fe326b909fe6ef6716"><td class="memItemLeft" align="right" valign="top">static T *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a09056.html#a314b4ce3265136fe326b909fe6ef6716">Find</a> (<a class="el" href="../../d7/dac/a08632.html">ObjectGuid</a> guid)</td></tr>
+<tr class="separator:a314b4ce3265136fe326b909fe6ef6716"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad9dfe5d223496a379a4aec0fc12c42d9"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d4/de4/a09056.html#a8fa5f0aca9316901f42b2df8251c5a5d">MapType</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a09056.html#ad9dfe5d223496a379a4aec0fc12c42d9">GetContainer</a> ()</td></tr>
+<tr class="separator:ad9dfe5d223496a379a4aec0fc12c42d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a52cc052c8d73d5b700c7f9253138942f"><td class="memItemLeft" align="right" valign="top">static std::shared_mutex *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a09056.html#a52cc052c8d73d5b700c7f9253138942f">GetLock</a> ()</td></tr>
+<tr class="separator:a52cc052c8d73d5b700c7f9253138942f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:ad10240097462af2a8a76c9429bd7cbca"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de4/a09056.html#ad10240097462af2a8a76c9429bd7cbca">HashMapHolder</a> ()=default</td></tr>
+<tr class="separator:ad10240097462af2a8a76c9429bd7cbca"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="ac175634ed2eab2911c3749fa208a073a" name="ac175634ed2eab2911c3749fa208a073a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac175634ed2eab2911c3749fa208a073a">&#9670;&#160;</a></span>IsFitToRequirements()</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;class T&gt;<br />
+class HashMapHolder&lt; T &gt;</div></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="a8fa5f0aca9316901f42b2df8251c5a5d" name="a8fa5f0aca9316901f42b2df8251c5a5d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8fa5f0aca9316901f42b2df8251c5a5d">&#9670;&#160;</a></span>MapType</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">bool SpellClickInfo::IsFitToRequirements </td>
+          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d7/dac/a08632.html">ObjectGuid</a>, T*&gt; <a class="el" href="../../d4/de4/a09056.html">HashMapHolder</a>&lt; T &gt;::MapType</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="ad10240097462af2a8a76c9429bd7cbca" name="ad10240097462af2a8a76c9429bd7cbca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad10240097462af2a8a76c9429bd7cbca">&#9670;&#160;</a></span>HashMapHolder()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/de4/a09056.html">HashMapHolder</a>&lt; T &gt;<a class="el" href="../../d4/de4/a09056.html">::HashMapHolder</a> </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d58/a08836.html">Unit</a> const *&#160;</td>
-          <td class="paramname"><em>clicker</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/d58/a08836.html">Unit</a> const *&#160;</td>
-          <td class="paramname"><em>clickee</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  265</span>{</div>
-<div class="line"><span class="lineno">  266</span>    <a class="code hl_class" href="../../d9/dad/a08704.html">Player</a> <span class="keyword">const</span>* playerClicker = clicker-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>();</div>
-<div class="line"><span class="lineno">  267</span>    <span class="keywordflow">if</span> (!playerClicker)</div>
-<div class="line"><span class="lineno">  268</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  269</span> </div>
-<div class="line"><span class="lineno">  270</span>    <a class="code hl_class" href="../../d4/d58/a08836.html">Unit</a> <span class="keyword">const</span>* summoner = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  271</span>    <span class="comment">// Check summoners for party</span></div>
-<div class="line"><span class="lineno">  272</span>    <span class="keywordflow">if</span> (clickee-&gt;IsSummon())</div>
-<div class="line"><span class="lineno">  273</span>        summoner = clickee-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#a6649e9ba10948d634bc0ac9c4a5800e5">ToTempSummon</a>()-&gt;<a class="code hl_function" href="../../d3/d6d/a08204.html#ae76cc9614974a4e0ae95c3715aab3a70">GetSummonerUnit</a>();</div>
-<div class="line"><span class="lineno">  274</span>    <span class="keywordflow">if</span> (!summoner)</div>
-<div class="line"><span class="lineno">  275</span>        summoner = clickee;</div>
-<div class="line"><span class="lineno">  276</span> </div>
-<div class="line"><span class="lineno">  277</span>    <span class="comment">// This only applies to players</span></div>
-<div class="line"><span class="lineno">  278</span>    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d4/de4/a09056.html#adcf285572403481cb418bddebc5f4bfa">userType</a>)</div>
-<div class="line"><span class="lineno">  279</span>    {</div>
-<div class="line"><span class="lineno">  280</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a8c185aa149e45af04af679431cac0776a663d3ff524f49239afc413f11ba51661">SPELL_CLICK_USER_FRIEND</a>:</div>
-<div class="line"><span class="lineno">  281</span>            <span class="keywordflow">if</span> (!playerClicker-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#abdfe022523c40277d917754f75edb722">IsFriendlyTo</a>(summoner))</div>
-<div class="line"><span class="lineno">  282</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  283</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  284</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a8c185aa149e45af04af679431cac0776a5901df316bc2f7e99ff8f4345270ac93">SPELL_CLICK_USER_RAID</a>:</div>
-<div class="line"><span class="lineno">  285</span>            <span class="keywordflow">if</span> (!playerClicker-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#aba37c290cf4f3e5dbeb170714eb711b1">IsInRaidWith</a>(summoner))</div>
-<div class="line"><span class="lineno">  286</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  287</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  288</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a8c185aa149e45af04af679431cac0776a3943de32359eefe202455cb08f4c5cb9">SPELL_CLICK_USER_PARTY</a>:</div>
-<div class="line"><span class="lineno">  289</span>            <span class="keywordflow">if</span> (!playerClicker-&gt;<a class="code hl_function" href="../../d4/d58/a08836.html#aefb32cb21b4b745ed8fd3cc49644e5d7">IsInPartyWith</a>(summoner))</div>
-<div class="line"><span class="lineno">  290</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  291</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  292</span>        <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  293</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  294</span>    }</div>
-<div class="line"><span class="lineno">  295</span> </div>
-<div class="line"><span class="lineno">  296</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  297</span>}</div>
-<div class="ttc" id="aa04121_html_a8c185aa149e45af04af679431cac0776a3943de32359eefe202455cb08f4c5cb9"><div class="ttname"><a href="../../d0/dd3/a04121.html#a8c185aa149e45af04af679431cac0776a3943de32359eefe202455cb08f4c5cb9">SPELL_CLICK_USER_PARTY</a></div><div class="ttdeci">@ SPELL_CLICK_USER_PARTY</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:695</div></div>
-<div class="ttc" id="aa04121_html_a8c185aa149e45af04af679431cac0776a5901df316bc2f7e99ff8f4345270ac93"><div class="ttname"><a href="../../d0/dd3/a04121.html#a8c185aa149e45af04af679431cac0776a5901df316bc2f7e99ff8f4345270ac93">SPELL_CLICK_USER_RAID</a></div><div class="ttdeci">@ SPELL_CLICK_USER_RAID</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:694</div></div>
-<div class="ttc" id="aa04121_html_a8c185aa149e45af04af679431cac0776a663d3ff524f49239afc413f11ba51661"><div class="ttname"><a href="../../d0/dd3/a04121.html#a8c185aa149e45af04af679431cac0776a663d3ff524f49239afc413f11ba51661">SPELL_CLICK_USER_FRIEND</a></div><div class="ttdeci">@ SPELL_CLICK_USER_FRIEND</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:693</div></div>
-<div class="ttc" id="aa08204_html_ae76cc9614974a4e0ae95c3715aab3a70"><div class="ttname"><a href="../../d3/d6d/a08204.html#ae76cc9614974a4e0ae95c3715aab3a70">TempSummon::GetSummonerUnit</a></div><div class="ttdeci">Unit * GetSummonerUnit() const</div><div class="ttdef"><b>Definition:</b> TemporarySummon.cpp:44</div></div>
-<div class="ttc" id="aa08452_html_a328d5f752cc33ed398b3d9861ef6929d"><div class="ttname"><a href="../../de/d33/a08452.html#a328d5f752cc33ed398b3d9861ef6929d">Object::ToPlayer</a></div><div class="ttdeci">Player * ToPlayer()</div><div class="ttdef"><b>Definition:</b> Object.h:201</div></div>
-<div class="ttc" id="aa08704_html"><div class="ttname"><a href="../../d9/dad/a08704.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1066</div></div>
-<div class="ttc" id="aa08836_html"><div class="ttname"><a href="../../d4/d58/a08836.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:655</div></div>
-<div class="ttc" id="aa08836_html_a6649e9ba10948d634bc0ac9c4a5800e5"><div class="ttname"><a href="../../d4/d58/a08836.html#a6649e9ba10948d634bc0ac9c4a5800e5">Unit::ToTempSummon</a></div><div class="ttdeci">TempSummon * ToTempSummon()</div><div class="ttdef"><b>Definition:</b> Unit.h:721</div></div>
-<div class="ttc" id="aa08836_html_aba37c290cf4f3e5dbeb170714eb711b1"><div class="ttname"><a href="../../d4/d58/a08836.html#aba37c290cf4f3e5dbeb170714eb711b1">Unit::IsInRaidWith</a></div><div class="ttdeci">bool IsInRaidWith(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:19059</div></div>
-<div class="ttc" id="aa08836_html_abdfe022523c40277d917754f75edb722"><div class="ttname"><a href="../../d4/d58/a08836.html#abdfe022523c40277d917754f75edb722">Unit::IsFriendlyTo</a></div><div class="ttdeci">bool IsFriendlyTo(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10431</div></div>
-<div class="ttc" id="aa08836_html_aefb32cb21b4b745ed8fd3cc49644e5d7"><div class="ttname"><a href="../../d4/d58/a08836.html#aefb32cb21b4b745ed8fd3cc49644e5d7">Unit::IsInPartyWith</a></div><div class="ttdeci">bool IsInPartyWith(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:19036</div></div>
-<div class="ttc" id="aa09056_html_adcf285572403481cb418bddebc5f4bfa"><div class="ttname"><a href="../../d4/de4/a09056.html#adcf285572403481cb418bddebc5f4bfa">SpellClickInfo::userType</a></div><div class="ttdeci">SpellClickUserTypes userType</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:402</div></div>
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a314b4ce3265136fe326b909fe6ef6716" name="a314b4ce3265136fe326b909fe6ef6716"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a314b4ce3265136fe326b909fe6ef6716">&#9670;&#160;</a></span>Find()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">T * <a class="el" href="../../d4/de4/a09056.html">HashMapHolder</a>&lt; T &gt;::Find </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/dac/a08632.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>guid</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   54</span>{</div>
+<div class="line"><span class="lineno">   55</span>    std::shared_lock&lt;std::shared_mutex&gt; lock(*<a class="code hl_function" href="../../d4/de4/a09056.html#a52cc052c8d73d5b700c7f9253138942f">GetLock</a>());</div>
+<div class="line"><span class="lineno">   56</span> </div>
+<div class="line"><span class="lineno">   57</span>    <span class="keyword">typename</span> MapType::iterator itr = <a class="code hl_function" href="../../d4/de4/a09056.html#ad9dfe5d223496a379a4aec0fc12c42d9">GetContainer</a>().find(guid);</div>
+<div class="line"><span class="lineno">   58</span>    <span class="keywordflow">return</span> (itr != <a class="code hl_function" href="../../d4/de4/a09056.html#ad9dfe5d223496a379a4aec0fc12c42d9">GetContainer</a>().end()) ? itr-&gt;second : <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   59</span>}</div>
+<div class="ttc" id="aa09056_html_a52cc052c8d73d5b700c7f9253138942f"><div class="ttname"><a href="../../d4/de4/a09056.html#a52cc052c8d73d5b700c7f9253138942f">HashMapHolder::GetLock</a></div><div class="ttdeci">static std::shared_mutex * GetLock()</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:69</div></div>
+<div class="ttc" id="aa09056_html_ad9dfe5d223496a379a4aec0fc12c42d9"><div class="ttname"><a href="../../d4/de4/a09056.html#ad9dfe5d223496a379a4aec0fc12c42d9">HashMapHolder::GetContainer</a></div><div class="ttdeci">static MapType &amp; GetContainer()</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:62</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00044">TempSummon::GetSummonerUnit()</a>, <a class="el" href="../../#l10431">Unit::IsFriendlyTo()</a>, <a class="el" href="../../#l19036">Unit::IsInPartyWith()</a>, <a class="el" href="../../#l19059">Unit::IsInRaidWith()</a>, <a class="el" href="../../#l00784">Unit::IsSummon()</a>, <a class="el" href="../../#l00693">SPELL_CLICK_USER_FRIEND</a>, <a class="el" href="../../#l00695">SPELL_CLICK_USER_PARTY</a>, <a class="el" href="../../#l00694">SPELL_CLICK_USER_RAID</a>, <a class="el" href="../../#l00201">Object::ToPlayer()</a>, <a class="el" href="../../#l00721">Unit::ToTempSummon()</a>, and <a class="el" href="../../#l00402">userType</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00257">ObjectAccessor::FindConnectedPlayer()</a>, <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00942">WorldSession::HandleRequestPartyMemberStatsOpcode()</a>, <a class="el" href="../../#l04980">Player::LoadFromDB()</a>, <a class="el" href="../../#l06775">Player::Satisfy()</a>, and <a class="el" href="../../#l00277">Map::ScriptsProcess()</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="a03cd65a460ea252818de9230cb656c1c" name="a03cd65a460ea252818de9230cb656c1c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a03cd65a460ea252818de9230cb656c1c">&#9670;&#160;</a></span>castFlags</h2>
+<a id="ad9dfe5d223496a379a4aec0fc12c42d9" name="ad9dfe5d223496a379a4aec0fc12c42d9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad9dfe5d223496a379a4aec0fc12c42d9">&#9670;&#160;</a></span>GetContainer()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> SpellClickInfo::castFlags</td>
+          <td class="memname">auto <a class="el" href="../../d4/de4/a09056.html">HashMapHolder</a>&lt; T &gt;::GetContainer</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   63</span>{</div>
+<div class="line"><span class="lineno">   64</span>    <span class="keyword">static</span> <a class="code hl_typedef" href="../../d4/de4/a09056.html#a8fa5f0aca9316901f42b2df8251c5a5d">MapType</a> _objectMap;</div>
+<div class="line"><span class="lineno">   65</span>    <span class="keywordflow">return</span> _objectMap;</div>
+<div class="line"><span class="lineno">   66</span>}</div>
+<div class="ttc" id="aa09056_html_a8fa5f0aca9316901f42b2df8251c5a5d"><div class="ttname"><a href="../../d4/de4/a09056.html#a8fa5f0aca9316901f42b2df8251c5a5d">HashMapHolder::MapType</a></div><div class="ttdeci">std::unordered_map&lt; ObjectGuid, T * &gt; MapType</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.h:47</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00075">ObjectAccessor::GetPlayers()</a>.</p>
 
 </div>
 </div>
-<a id="a34641755a5267b7a907d320cc5b4ddb4" name="a34641755a5267b7a907d320cc5b4ddb4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a34641755a5267b7a907d320cc5b4ddb4">&#9670;&#160;</a></span>spellId</h2>
+<a id="a52cc052c8d73d5b700c7f9253138942f" name="a52cc052c8d73d5b700c7f9253138942f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a52cc052c8d73d5b700c7f9253138942f">&#9670;&#160;</a></span>GetLock()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SpellClickInfo::spellId</td>
+          <td class="memname">std::shared_mutex * <a class="el" href="../../d4/de4/a09056.html">HashMapHolder</a>&lt; T &gt;::GetLock</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l08197">ObjectMgr::LoadNPCSpellClickSpells()</a>.</p>
-
+<div class="fragment"><div class="line"><span class="lineno">   70</span>{</div>
+<div class="line"><span class="lineno">   71</span>    <span class="keyword">static</span> std::shared_mutex _lock;</div>
+<div class="line"><span class="lineno">   72</span>    <span class="keywordflow">return</span> &amp;_lock;</div>
+<div class="line"><span class="lineno">   73</span>}</div>
+</div><!-- fragment -->
 </div>
 </div>
-<a id="adcf285572403481cb418bddebc5f4bfa" name="adcf285572403481cb418bddebc5f4bfa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adcf285572403481cb418bddebc5f4bfa">&#9670;&#160;</a></span>userType</h2>
+<a id="af5c618228c141e28ffa11468cfffb21a" name="af5c618228c141e28ffa11468cfffb21a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af5c618228c141e28ffa11468cfffb21a">&#9670;&#160;</a></span>Insert()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/dd3/a04121.html#a8c185aa149e45af04af679431cac0776">SpellClickUserTypes</a> SpellClickInfo::userType</td>
+          <td class="memname">void <a class="el" href="../../d4/de4/a09056.html">HashMapHolder</a>&lt; T &gt;::Insert </td>
+          <td>(</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"><em>o</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   34</span>{</div>
+<div class="line"><span class="lineno">   35</span>    <span class="keyword">static_assert</span>(std::is_same&lt;Player, T&gt;::value</div>
+<div class="line"><span class="lineno">   36</span>        || std::is_same&lt;MotionTransport, T&gt;::value,</div>
+<div class="line"><span class="lineno">   37</span>        <span class="stringliteral">&quot;Only Player and Motion Transport can be registered in global HashMapHolder&quot;</span>);</div>
+<div class="line"><span class="lineno">   38</span> </div>
+<div class="line"><span class="lineno">   39</span>    std::unique_lock&lt;std::shared_mutex&gt; lock(*<a class="code hl_function" href="../../d4/de4/a09056.html#a52cc052c8d73d5b700c7f9253138942f">GetLock</a>());</div>
+<div class="line"><span class="lineno">   40</span> </div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_function" href="../../d4/de4/a09056.html#ad9dfe5d223496a379a4aec0fc12c42d9">GetContainer</a>()[o-&gt;GetGUID()] = o;</div>
+<div class="line"><span class="lineno">   42</span>}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00333">ObjectAccessor::AddObject()</a>, and <a class="el" href="../../#l00359">TransportMgr::CreateTransport()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00264">IsFitToRequirements()</a>.</p>
+</div>
+</div>
+<a id="a7b9c3761746641133d4a9837559c0bb0" name="a7b9c3761746641133d4a9837559c0bb0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7b9c3761746641133d4a9837559c0bb0">&#9670;&#160;</a></span>Remove()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../d4/de4/a09056.html">HashMapHolder</a>&lt; T &gt;::Remove </td>
+          <td>(</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"><em>o</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   46</span>{</div>
+<div class="line"><span class="lineno">   47</span>    std::unique_lock&lt;std::shared_mutex&gt; lock(*<a class="code hl_function" href="../../d4/de4/a09056.html#a52cc052c8d73d5b700c7f9253138942f">GetLock</a>());</div>
+<div class="line"><span class="lineno">   48</span> </div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_function" href="../../d4/de4/a09056.html#ad9dfe5d223496a379a4aec0fc12c42d9">GetContainer</a>().erase(o-&gt;GetGUID());</div>
+<div class="line"><span class="lineno">   50</span>}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00340">ObjectAccessor::RemoveObject()</a>, and <a class="el" href="../../#l00039">MotionTransport::~MotionTransport()</a>.</p>
 
 </div>
 </div>
@@ -257,8 +362,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d4/de4/a09056.html">SpellClickInfo</a></li>
-    <li class="footer">Generated on Mon Feb 2 2026 23:15:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/de4/a09056.html">HashMapHolder</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:15:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

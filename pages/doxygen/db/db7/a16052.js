@@ -1,6 +1,7 @@
 var a16052 =
 [
-    [ "npc_weegli_blastfuseAI", "dc/d2d/a16056.html", "dc/d2d/a16056" ],
-    [ "npc_weegli_blastfuse", "db/db7/a16052.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
-    [ "GetAI", "db/db7/a16052.html#a701681d8771756dac20d30c2e03a1349", null ]
+    [ "npc_steward_of_time", "db/db7/a16052.html#ad49973464c96f44506033b73a85f6360", null ],
+    [ "OnGossipHello", "db/db7/a16052.html#a3b61038393c3addbbfa6643438164db3", null ],
+    [ "OnGossipSelect", "db/db7/a16052.html#af4fe13e266a98129b92e5a25188d947c", null ],
+    [ "OnQuestAccept", "db/db7/a16052.html#a53d552282da49e8246089b2799fff9ca", null ]
 ];

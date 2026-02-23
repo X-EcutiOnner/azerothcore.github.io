@@ -1,7 +1,10 @@
 var a25428 =
 [
-    [ "HandleEffectPeriodic", "d0/d5d/a25428.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
-    [ "PrepareAuraScript", "d0/d5d/a25428.html#affc698127fe0656df25bd094c02a7e50", null ],
-    [ "Register", "d0/d5d/a25428.html#a4707bfaeb86b3540920a6772e1726e26", null ],
-    [ "Validate", "d0/d5d/a25428.html#aef839f163d7e623a54b163e1c27542cd", null ]
+    [ "CalcPeriodic", "d0/d5d/a25428.html#a4c5793639ad7715b0dc52a803546e7cf", null ],
+    [ "CalculateSpiritAmount", "d0/d5d/a25428.html#a5749d91e27de05f67110178f57c214e4", null ],
+    [ "HandleEffectApply", "d0/d5d/a25428.html#a0de0ba95c09c87054d63974943750805", null ],
+    [ "HandlePeriodic", "d0/d5d/a25428.html#a2ff4241cf4535a6cb8361b9f54d7a23c", null ],
+    [ "PrepareAuraScript", "d0/d5d/a25428.html#aaa2c2fea4310cdba1739f02afa48a318", null ],
+    [ "Register", "d0/d5d/a25428.html#ae9df15062a8bd776e9a5a4a5a53fac8f", null ],
+    [ "amount", "d0/d5d/a25428.html#af07c7c4a2f6a4d59bee8d44b46be5552", null ]
 ];

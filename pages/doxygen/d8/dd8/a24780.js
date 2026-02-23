@@ -1,8 +1,6 @@
 var a24780 =
 [
-    [ "HandleDamage", "d8/dd8/a24780.html#a2c5149eb0b6698240c25b63e71af0854", null ],
-    [ "PrepareSpellScript", "d8/dd8/a24780.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
-    [ "Register", "d8/dd8/a24780.html#ad29179d9159700b52b0c21a779cd060b", null ],
-    [ "Suicide", "d8/dd8/a24780.html#a981f8547eae9b317111bf9a7016510ab", null ],
-    [ "Validate", "d8/dd8/a24780.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
+    [ "OnHit", "d8/dd8/a24780.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
+    [ "PrepareSpellScript", "d8/dd8/a24780.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
+    [ "Register", "d8/dd8/a24780.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
 ];

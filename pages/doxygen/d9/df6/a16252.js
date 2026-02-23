@@ -1,9 +1,15 @@
 var a16252 =
 [
-    [ "boss_sartharion_vesperon", "d9/df6/a16252.html#a3ce6d2036faa108cb97ebf75bdb6ad33", null ],
-    [ "ClearInstance", "d9/df6/a16252.html#a0c45127e9eb2be20765f92e1161e2e5a", null ],
-    [ "ExecuteEvent", "d9/df6/a16252.html#aefc42452e75c476aef39ba0df3a03d70", null ],
-    [ "HandleExtraEvent", "d9/df6/a16252.html#acae445af370ab199b92b06962bd26977", null ],
-    [ "Reset", "d9/df6/a16252.html#a948bfddea4eb3c0fe471d8f501a88d6c", null ],
-    [ "SummonedCreatureDies", "d9/df6/a16252.html#a9df29b4c71c93da8cf7ae9f81b870345", null ]
+    [ "boss_volazj", "d9/df6/a16252.html#ac1f0bc7b55a554d29e55a376680bf747", null ],
+    [ "CheckPhaseMinions", "d9/df6/a16252.html#aa79bf97b6772956795bd2f16b85e061f", null ],
+    [ "GetPlrInsanityAuraId", "d9/df6/a16252.html#a5b6936cedb3fc411ae58f3dc3f6b689a", null ],
+    [ "JustDied", "d9/df6/a16252.html#a6c85c56c2483c3e8b4de67b94a45e0a6", null ],
+    [ "JustEngagedWith", "d9/df6/a16252.html#a135c5606742474e77ffd0ee0a3c3ee69", null ],
+    [ "KilledUnit", "d9/df6/a16252.html#abdf2cb95f0d3d7756584c338f2e2db25", null ],
+    [ "Reset", "d9/df6/a16252.html#a0377375b89b02db3cae01390fdd13ee2", null ],
+    [ "ResetPlayersPhaseMask", "d9/df6/a16252.html#afbfa62f2b72a95434348f74fdda46da6", null ],
+    [ "ScheduleTasks", "d9/df6/a16252.html#a44a8aa836a45e5a9827814bb731d2882", null ],
+    [ "SetData", "d9/df6/a16252.html#aa8b5ae6214f0c764f15b096876d614d7", null ],
+    [ "UpdateAI", "d9/df6/a16252.html#aceac85fb06c81ccd171b024ad0d57ffe", null ],
+    [ "insanityPhase", "d9/df6/a16252.html#ae90de1e956eb3653c8c2f0c04d89585b", null ]
 ];

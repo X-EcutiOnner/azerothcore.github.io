@@ -1,7 +1,8 @@
 var a11204 =
 [
-    [ "OpcodeHandler", "d6/da6/a04827.html#gad7dc8101b537abe699b18ae8de444a81", null ],
-    [ "~OpcodeHandler", "d6/da6/a04827.html#ga5400057a3d849035aedda259828a5af5", null ],
-    [ "Name", "d6/da6/a04827.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
-    [ "Status", "d6/da6/a04827.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
+    [ "TrainerBuyFailed", "d4/d63/a11204.html#a01e7709ea4fe86de57f61ba8ffc5ba6d", null ],
+    [ "Write", "d4/d63/a11204.html#a75c3bff5da4699fc412793caef1b75af", null ],
+    [ "SpellID", "d4/d63/a11204.html#a807873fb60cfa1bafa78f3f479fef75b", null ],
+    [ "TrainerFailedReason", "d4/d63/a11204.html#a746ff497fba16adb16bbb647dff385df", null ],
+    [ "TrainerGUID", "d4/d63/a11204.html#ac8d286ad6add18b92dd7e2111a4ec28c", null ]
 ];

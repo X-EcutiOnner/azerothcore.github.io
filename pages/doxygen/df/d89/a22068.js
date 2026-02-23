@@ -1,11 +1,6 @@
 var a22068 =
 [
-    [ "npc_torturer_lecraftAI", "df/d89/a22068.html#a0886d83c8ab8b7db728928ecf922031b", null ],
-    [ "JustEngagedWith", "df/d89/a22068.html#ac6fa83aa5673bd6c90e128f06e56049e", null ],
-    [ "Reset", "df/d89/a22068.html#a13177e318e7777ecb13ba71c4f10f425", null ],
-    [ "SpellHit", "df/d89/a22068.html#a837805efcb6c99de55646a232f151ae8", null ],
-    [ "UpdateAI", "df/d89/a22068.html#a45919da006b0e767ec38810a6fcbac5d", null ],
-    [ "_events", "df/d89/a22068.html#a7879e11a94c32266ed11dc352ae7e802", null ],
-    [ "_playerGUID", "df/d89/a22068.html#ab792ceb52fe5c04851f69b9c2922822d", null ],
-    [ "_textCounter", "df/d89/a22068.html#aa7560f419ca1486efb9d6c3bda3cedf1", null ]
+    [ "PrepareSpellScript", "df/d89/a22068.html#aa26d34552b04dca1db32390e769ff4dc", null ],
+    [ "RecalculateDamage", "df/d89/a22068.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
+    [ "Register", "df/d89/a22068.html#a58d28dea272b1237cf60efb45d67765d", null ]
 ];

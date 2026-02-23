@@ -1,6 +1,8 @@
 var a26584 =
 [
-    [ "HandleScript", "da/d10/a26584.html#ae81570045d4984ee5682a0333b1b142d", null ],
-    [ "PrepareSpellScript", "da/d10/a26584.html#acb074781e07961998362349a7616fc4e", null ],
-    [ "Register", "da/d10/a26584.html#aaf41593da5ebb1118ccb10a5d4d32b26", null ]
+    [ "HandleApply", "da/d10/a26584.html#aafdf3712f163919f010d11d0becb398f", null ],
+    [ "HandleRemove", "da/d10/a26584.html#ac3e33cb37d13b633f3938a48917a4975", null ],
+    [ "PrepareAuraScript", "da/d10/a26584.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
+    [ "Register", "da/d10/a26584.html#a84e7337494dc2e1772ca10dea26c675f", null ],
+    [ "Validate", "da/d10/a26584.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
 ];

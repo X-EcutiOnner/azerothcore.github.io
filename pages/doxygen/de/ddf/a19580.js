@@ -1,11 +1,6 @@
 var a19580 =
 [
-    [ "boss_ormorok", "de/ddf/a19580.html#aa4862339ed41d5c593a93ef605d85a39", null ],
-    [ "JustDied", "de/ddf/a19580.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
-    [ "JustEngagedWith", "de/ddf/a19580.html#a22ac203db7c3b445e653798743e48764", null ],
-    [ "JustSummoned", "de/ddf/a19580.html#acc149b49e6658454610a7871e3c82b5e", null ],
-    [ "KilledUnit", "de/ddf/a19580.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
-    [ "Reset", "de/ddf/a19580.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
-    [ "UpdateAI", "de/ddf/a19580.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
-    [ "_spikesCount", "de/ddf/a19580.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
+    [ "boss_sapphironAI", "de/df9/a19584.html", "de/df9/a19584" ],
+    [ "boss_sapphiron", "de/ddf/a19580.html#a87a70204dd727f92d035ad98e2ab9010", null ],
+    [ "GetAI", "de/ddf/a19580.html#a31209287faa721bef341388ae4383b6c", null ]
 ];

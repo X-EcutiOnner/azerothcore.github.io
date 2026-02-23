@@ -1,6 +1,7 @@
 var a27684 =
 [
-    [ "npc_innkeeper", "d9/d08/a27684.html#a006f27d898ead8827d8b98d8b93d430d", null ],
-    [ "OnGossipHello", "d9/d08/a27684.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
-    [ "OnGossipSelect", "d9/d08/a27684.html#ab6cf511f5b032050336a77d1e4598dda", null ]
+    [ "HandleProc", "d9/d08/a27684.html#a864e976a61091512a7eab904e5390234", null ],
+    [ "PrepareAuraScript", "d9/d08/a27684.html#a8cd8814aa7c53aa28399b4ff51f0fa41", null ],
+    [ "Register", "d9/d08/a27684.html#a8509759360e3443ceca9a9fcbd729996", null ],
+    [ "Validate", "d9/d08/a27684.html#a7687471989fc9595e36201dba74b8689", null ]
 ];

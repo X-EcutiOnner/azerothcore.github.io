@@ -1,6 +1,6 @@
 var a20804 =
 [
-    [ "boss_thorim_lightning_orbAI", "de/da0/a20808.html", "de/da0/a20808" ],
-    [ "boss_thorim_lightning_orb", "d5/dba/a20804.html#a2aa29e8d2b3fb10e8be39d8fc3112ac2", null ],
-    [ "GetAI", "d5/dba/a20804.html#ad24d28866145c4fccf7a3971856fa87f", null ]
+    [ "x", "d5/dba/a20804.html#ae4223168378b602a0a96dbb424a22be4", null ],
+    [ "y", "d5/dba/a20804.html#a30f361d8104e4de44541d75945105963", null ],
+    [ "z", "d5/dba/a20804.html#ae68a79519c35302b89976ac29bb77e26", null ]
 ];

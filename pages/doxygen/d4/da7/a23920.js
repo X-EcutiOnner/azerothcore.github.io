@@ -1,10 +1,9 @@
 var a23920 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "d4/da7/a23920.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
-    [ "GetGuidData", "d4/da7/a23920.html#aa4bedf168359eaf5332476a6de99c830", null ],
-    [ "OnGameObjectCreate", "d4/da7/a23920.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
-    [ "SetBossState", "d4/da7/a23920.html#a2937e4ea47af542a476bd3399ecc7233", null ],
-    [ "SetData", "d4/da7/a23920.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
-    [ "StasisPodGUIDs", "d4/da7/a23920.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
-    [ "WardensShieldGUID", "d4/da7/a23920.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d4/da7/a23920.html#a273d585416dc92d39d5ec3824c08504d", null ],
+    [ "IsSummonedBy", "d4/da7/a23920.html#a5f002d36c492ed2caf2290f4a073a7d0", null ],
+    [ "Reset", "d4/da7/a23920.html#a06fa50580efeab8d847a05f20956d175", null ],
+    [ "UpdateAI", "d4/da7/a23920.html#a8261a259cfbee0d3610ee441406fafcd", null ],
+    [ "playerGuid", "d4/da7/a23920.html#aab717dd49284c483759a6223dbd7e6ea", null ],
+    [ "timer", "d4/da7/a23920.html#afba1b71178c563a3db906057cd20de45", null ]
 ];

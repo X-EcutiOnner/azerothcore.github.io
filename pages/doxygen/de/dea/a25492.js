@@ -1,7 +1,7 @@
 var a25492 =
 [
-    [ "HandleScript", "de/dea/a25492.html#a1097b1548b2785ac7ffd916ee5531fe9", null ],
-    [ "PrepareSpellScript", "de/dea/a25492.html#a47dc9761bf10b1290963ff7eebe0121a", null ],
-    [ "Register", "de/dea/a25492.html#a984b2af5268fbf294a0292502b8ddb44", null ],
-    [ "Validate", "de/dea/a25492.html#a0cfbc2dcb836e7c37dd03cb3d0728621", null ]
+    [ "HandleProc", "de/dea/a25492.html#a87508c28fead56ca60c947d78ff8bae2", null ],
+    [ "PrepareAuraScript", "de/dea/a25492.html#a514ba9c8222312bb213fcebb418d2499", null ],
+    [ "Register", "de/dea/a25492.html#aebe4db9304449686a544c8e4c4f26b81", null ],
+    [ "Validate", "de/dea/a25492.html#a9888b4bf71e8bb9e4b1c3caf74c48b31", null ]
 ];

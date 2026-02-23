@@ -1,5 +1,6 @@
 var a12468 =
 [
-    [ "at_scarshield_infiltrator", "d7/dc9/a12468.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
-    [ "OnTrigger", "d7/dc9/a12468.html#a607c3ee2bd4716cf1e0499e202d379fc", null ]
+    [ "boss_gythAI", "d2/d6d/a12472.html", "d2/d6d/a12472" ],
+    [ "boss_gyth", "d7/dc9/a12468.html#a286d19b0a6e317cb7e69343982b71062", null ],
+    [ "GetAI", "d7/dc9/a12468.html#a3706cbdd1bfb16112653d31cfa971b30", null ]
 ];

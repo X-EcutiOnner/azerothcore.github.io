@@ -1,6 +1,8 @@
 var a24032 =
 [
-    [ "HandleScriptEffect", "db/d4b/a24032.html#acfe80e22e6c78dba50155f7f20c0678b", null ],
-    [ "PrepareSpellScript", "db/d4b/a24032.html#a17cb5f874343bd40c6aafaf9d627b047", null ],
-    [ "Register", "db/d4b/a24032.html#a4bb5cfd2cc8503b3a840fc68624a33c1", null ]
+    [ "npc_bessyAI", "db/d4b/a24032.html#ad1300a563888b34689bedf97c387707c", null ],
+    [ "JustDied", "db/d4b/a24032.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
+    [ "JustSummoned", "db/d4b/a24032.html#a4197fb122299fd152e5da335bb832ae5", null ],
+    [ "Reset", "db/d4b/a24032.html#aed64386629e52c3b65abadde54a63cc4", null ],
+    [ "WaypointReached", "db/d4b/a24032.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
 ];

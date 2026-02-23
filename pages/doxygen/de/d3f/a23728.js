@@ -1,6 +1,7 @@
 var a23728 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "dc/da3/a23732.html", "dc/da3/a23732" ],
-    [ "instance_blood_furnace", "de/d3f/a23728.html#a925a045fa518e72c1eff02fe3c66202b", null ],
-    [ "GetInstanceScript", "de/d3f/a23728.html#a885ba94e1777dfd6586daca304622d3d", null ]
+    [ "OnApply", "de/d3f/a23728.html#abab02b8307b762d070ba12358f59916d", null ],
+    [ "OnRemove", "de/d3f/a23728.html#a5ac45a5cfa17689d241c44241216ff38", null ],
+    [ "PrepareAuraScript", "de/d3f/a23728.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
+    [ "Register", "de/d3f/a23728.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
 ];

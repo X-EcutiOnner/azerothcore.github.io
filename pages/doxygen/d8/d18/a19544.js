@@ -1,15 +1,7 @@
 var a19544 =
 [
-    [ "boss_anomalus", "d8/d18/a19544.html#aa4dd8fac7c360beb834382f624ed2246", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d8/d18/a19544.html#ada0735330bff29a8c04706c980e6bbfc", null ],
-    [ "GetData", "d8/d18/a19544.html#ad48aebb50cda7ee621f71803669f04c2", null ],
-    [ "JustDied", "d8/d18/a19544.html#a41e257481921a122dba30348559e05fb", null ],
-    [ "JustEngagedWith", "d8/d18/a19544.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
-    [ "JustSummoned", "d8/d18/a19544.html#a3c0413f30d96268cab724856334e61ee", null ],
-    [ "Reset", "d8/d18/a19544.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
-    [ "SetData", "d8/d18/a19544.html#aa79ec9829862b573cd0f38f965d737e8", null ],
-    [ "UpdateAI", "d8/d18/a19544.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
-    [ "_empowered", "d8/d18/a19544.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
-    [ "achievement", "d8/d18/a19544.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
-    [ "activeRifts", "d8/d18/a19544.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
+    [ "OnPeriodic", "d8/d18/a19544.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
+    [ "PrepareAuraScript", "d8/d18/a19544.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
+    [ "Register", "d8/d18/a19544.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
+    [ "Validate", "d8/d18/a19544.html#a54cfed486827216817adb740efa6646e", null ]
 ];

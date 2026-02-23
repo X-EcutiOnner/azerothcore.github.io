@@ -1,12 +1,7 @@
 var a13120 =
 [
-    [ "boss_felblood_kaelthas", "db/da4/a13120.html#a85abfb330ccc1fed5b9dc851d780f386", null ],
-    [ "DamageTaken", "db/da4/a13120.html#ae29fb38a2f7dcf778b4443bc56f10e84", null ],
-    [ "DoAction", "db/da4/a13120.html#a984dcde8d78adbce00e307eb3c4d32b8", null ],
-    [ "GravityLapseSequence", "db/da4/a13120.html#aae902304d9e7ef27bdb9bde8cdf85605", null ],
-    [ "JustDied", "db/da4/a13120.html#affea155d0eb2b4dda1b9dc8847fc2444", null ],
-    [ "JustEngagedWith", "db/da4/a13120.html#a1d8806d7813d11aa61e043e420852218", null ],
-    [ "LapseAction", "db/da4/a13120.html#ae1ac5b5da2a548f5b1dc1bdffb303b25", null ],
-    [ "Reset", "db/da4/a13120.html#abde9a26abd8eef0b8cd25cbd6522d899", null ],
-    [ "_gravityLapseCounter", "db/da4/a13120.html#ab4e884a341fa25a555c160f6978861fc", null ]
+    [ "OnRemove", "db/da4/a13120.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
+    [ "PrepareAuraScript", "db/da4/a13120.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
+    [ "Register", "db/da4/a13120.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
+    [ "Validate", "db/da4/a13120.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
 ];

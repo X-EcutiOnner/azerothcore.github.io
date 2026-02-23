@@ -1,6 +1,8 @@
 var a15604 =
 [
-    [ "npc_magwinAI", "dd/d42/a15608.html", "dd/d42/a15608" ],
-    [ "npc_magwin", "d9/d73/a15604.html#a1a45602fd312a4c436b09fb7b90ac1d4", null ],
-    [ "GetAI", "d9/d73/a15604.html#a83bee0fd5c1494f2bb732fe9e0ed1594", null ]
+    [ "npc_ouro_spawner", "d9/d73/a15604.html#acb18739e5a1734312ffdda35321e5f34", null ],
+    [ "JustSummoned", "d9/d73/a15604.html#a722dada5bf97c730462a0de2b082d5ff", null ],
+    [ "MoveInLineOfSight", "d9/d73/a15604.html#a83c0972db4435ccf1af069574e4056f4", null ],
+    [ "Reset", "d9/d73/a15604.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
+    [ "hasSummoned", "d9/d73/a15604.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
 ];

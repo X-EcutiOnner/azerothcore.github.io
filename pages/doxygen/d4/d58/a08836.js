@@ -1,8 +1,10 @@
 var a08836 =
 [
-    [ "AttackPosition", "d4/d58/a08836.html#a6681bcab6c497d2c7fc6e5585f422744", null ],
-    [ "operator=", "d4/d58/a08836.html#a019fe5d4c053c1d6980789b7f97f6e54", null ],
-    [ "operator==", "d4/d58/a08836.html#a320adced006c0f70456492c9e9dc99c2", null ],
-    [ "_pos", "d4/d58/a08836.html#a77783e0e6e83836ad6e5903535ad9370", null ],
-    [ "_taken", "d4/d58/a08836.html#a113512b8ab66c879fd85c43263c3b7f1", null ]
+    [ "Index", "d4/d58/a08836.html#a28b25d822326a1b7d5ec7f95ce084bac", [
+      [ "REGULAR", "d4/d58/a08836.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
+      [ "ADDON", "d4/d58/a08836.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
+      [ "MAX", "d4/d58/a08836.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
+    ] ],
+    [ "Count", "d4/d58/a08836.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
+    [ "Time", "d4/d58/a08836.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
 ];

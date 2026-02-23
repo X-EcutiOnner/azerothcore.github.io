@@ -1,9 +1,19 @@
 var a05412 =
 [
-    [ "IpLocationStore", "d8/d73/a05412.html#a1b3a38bbd932ae50d55ff15374aa2f37", null ],
-    [ "~IpLocationStore", "d8/d73/a05412.html#a82360c1ce130670fde23d42135f91324", null ],
-    [ "GetLocationRecord", "d8/d73/a05412.html#a06384169031d2417a7f6bac54d3187a9", null ],
-    [ "instance", "d8/d73/a05412.html#ad740adf9b81b37cf147dc00e220b29db", null ],
-    [ "Load", "d8/d73/a05412.html#a411302e6bf5e5e82e5cd59e78e66bd0b", null ],
-    [ "_ipLocationStore", "d8/d73/a05412.html#af7b7a5a4fc65c6af966be27f7bf7e07d", null ]
+    [ "Iterator", "d3/d7f/a05416.html", "d3/d7f/a05416" ],
+    [ "iterator", "d8/d73/a05412.html#a57ec2565e503df8ef86e1df2889c8ee3", null ],
+    [ "LinkedListHead", "d8/d73/a05412.html#ab9a10897505b9315f7abef37ca53ae3d", null ],
+    [ "decSize", "d8/d73/a05412.html#ada0bbfaadb9944b904fd023291d7454e", null ],
+    [ "getFirst", "d8/d73/a05412.html#a3bdb6df345043767ce9b319593102371", null ],
+    [ "getFirst", "d8/d73/a05412.html#a2b67ea8030683685e442b534f6ac14ae", null ],
+    [ "getLast", "d8/d73/a05412.html#a523c918451eb358014e821b11f000b9b", null ],
+    [ "getLast", "d8/d73/a05412.html#a4f858b06a17f5bc17db10aebd3493142", null ],
+    [ "getSize", "d8/d73/a05412.html#aa9c03e05aa61c1fc9fad84efd8f82db7", null ],
+    [ "incSize", "d8/d73/a05412.html#a46d97d5710de2958555d37687df58fcb", null ],
+    [ "insertFirst", "d8/d73/a05412.html#af28714c2195a3609871f42fa7a9dc74b", null ],
+    [ "insertLast", "d8/d73/a05412.html#a20c91c0ace1d4404b55802fbc7704bb5", null ],
+    [ "IsEmpty", "d8/d73/a05412.html#a5f450b83a615d010bedc7b0c6aa18d70", null ],
+    [ "iFirst", "d8/d73/a05412.html#aee68918c2ddc42306a60a6858a2994f1", null ],
+    [ "iLast", "d8/d73/a05412.html#a6b9e8b60fdabf4780567265f5e1ba9fa", null ],
+    [ "iSize", "d8/d73/a05412.html#a7ebab224bc9412426c18fa3a8a9ea345", null ]
 ];

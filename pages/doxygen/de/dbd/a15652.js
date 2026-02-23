@@ -1,10 +1,15 @@
 var a15652 =
 [
-    [ "npc_murkdeepAI", "de/dbd/a15652.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
-    [ "JustEngagedWith", "de/dbd/a15652.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
-    [ "Reset", "de/dbd/a15652.html#aa89316a0fe4f99630a4a129aed305e24", null ],
-    [ "UpdateAI", "de/dbd/a15652.html#aeca85a1324791d18ac825401fb8a31e8", null ],
-    [ "events", "de/dbd/a15652.html#ae3d344829aeba22ef0c5947863720390", null ],
-    [ "phase", "de/dbd/a15652.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
-    [ "spawnTimer", "de/dbd/a15652.html#a6b139fb5cc0776103934f14be15c34d1", null ]
+    [ "boss_viscidus", "de/dbd/a15652.html#a41dd3ce982a180a2ad415b559508f0ff", null ],
+    [ "CheckInRoom", "de/dbd/a15652.html#a528a368eceb55cc7d41d615c6c1ebf15", null ],
+    [ "DamageTaken", "de/dbd/a15652.html#adb41e6f64c1fe61cf623539353b0c959", null ],
+    [ "InitSpells", "de/dbd/a15652.html#a24357bfc552ecb5205e50241cadb05f4", null ],
+    [ "JustEngagedWith", "de/dbd/a15652.html#a7dfb0ba7d90697d3deac263249cfa977", null ],
+    [ "Reset", "de/dbd/a15652.html#ac9153bd98e4c39b63547c3a9a8798d80", null ],
+    [ "SoftReset", "de/dbd/a15652.html#ad2b4c6835ff113e4a538024f02ff968e", null ],
+    [ "SpellHit", "de/dbd/a15652.html#a43df1ee33d5a9b4794b246ce680a6318", null ],
+    [ "SummonedCreatureDies", "de/dbd/a15652.html#a6a52391b49ba3501a1bb5e8c55f07683", null ],
+    [ "UpdateAI", "de/dbd/a15652.html#a1a194c161b485d2abbb862506b6c239f", null ],
+    [ "_hitcounter", "de/dbd/a15652.html#a12ee60a91dab2f95aab6e9914351344a", null ],
+    [ "_phase", "de/dbd/a15652.html#a321f1f96af51d3d70de0cca89512d965", null ]
 ];

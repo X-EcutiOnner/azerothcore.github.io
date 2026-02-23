@@ -1,15 +1,7 @@
 var a10072 =
 [
-    [ "HomeMovementGenerator", "d0/d2a/a10072.html#af52495a86296d288d2312bf8616108d0", null ],
-    [ "~HomeMovementGenerator", "d0/d2a/a10072.html#a9d889b5112f6c93a0707227fc65dd902", null ],
-    [ "_setTargetLocation", "d0/d2a/a10072.html#a7ac3be92303b77b640c7199ec65184dd", null ],
-    [ "DoFinalize", "d0/d2a/a10072.html#ab1ce2df22dba7759ca28a77532a17db1", null ],
-    [ "DoInitialize", "d0/d2a/a10072.html#aaa6f7b1aa064be00a726539830d6c30e", null ],
-    [ "DoReset", "d0/d2a/a10072.html#acfebf75bcd7cc62c1b0105eb0c5e9100", null ],
-    [ "DoUpdate", "d0/d2a/a10072.html#a4e3c1f79f8115312f22612a4b8c6fede", null ],
-    [ "GetMovementGeneratorType", "d0/d2a/a10072.html#aaa203c37c8259c8b54ad5ec70db484f1", null ],
-    [ "unitSpeedChanged", "d0/d2a/a10072.html#ac5078f624899e574a7b56b72e2824b9a", null ],
-    [ "_walk", "d0/d2a/a10072.html#a97f3cd9b1c5919ffe9ab979d8ad4e747", null ],
-    [ "arrived", "d0/d2a/a10072.html#aab9cd0057a625afef2d96feebd6428fb", null ],
-    [ "i_recalculateTravel", "d0/d2a/a10072.html#a77b40bcbada8ea43accae23ceb642628", null ]
+    [ "MapPreloadRequest", "d0/d2a/a10072.html#abb217a11f2b2ed7716cad33e0fd667e7", null ],
+    [ "call", "d0/d2a/a10072.html#a688f4e2c5517c29c10c0810325211b50", null ],
+    [ "_mapId", "d0/d2a/a10072.html#aa207469ff8369f9b5559b35404d16847", null ],
+    [ "_updater", "d0/d2a/a10072.html#ae6d0d229c7cd04152fd54d03aa69306a", null ]
 ];

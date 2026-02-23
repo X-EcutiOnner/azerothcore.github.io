@@ -1,6 +1,8 @@
 var a15896 =
 [
-    [ "npc_stone_watcher_of_norgannon", "d6/d2d/a15896.html#aa838e060c8ef6d7d85981c718328d9ef", null ],
-    [ "OnGossipHello", "d6/d2d/a15896.html#a00f526b1b17b68f31a86e892e0997856", null ],
-    [ "OnGossipSelect", "d6/d2d/a15896.html#a5b79ebae097266ec4e1a0e3dfaa87da5", null ]
+    [ "CheckRequirement", "d6/d2d/a15896.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
+    [ "HandleDummy", "d6/d2d/a15896.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
+    [ "PrepareSpellScript", "d6/d2d/a15896.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
+    [ "Register", "d6/d2d/a15896.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
+    [ "Validate", "d6/d2d/a15896.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
 ];

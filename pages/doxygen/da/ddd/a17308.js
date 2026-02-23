@@ -1,15 +1,12 @@
 var a17308 =
 [
-    [ "npc_pos_leaderAI", "da/ddd/a17308.html#a21973bccde394785f8619df7cae5270b", null ],
-    [ "AttackStart", "da/ddd/a17308.html#a6dc4161441752b8ea9baab642d6a0684", null ],
-    [ "JustSummoned", "da/ddd/a17308.html#a03bfcd0ea38073ff8481188d1b570553", null ],
-    [ "MoveInLineOfSight", "da/ddd/a17308.html#ad28f607b313f7729649261969912eba5", null ],
-    [ "Reset", "da/ddd/a17308.html#aee23a2835b84ac060a29b41c10116904", null ],
-    [ "SetData", "da/ddd/a17308.html#a2b49d5045e0d1e25e7a05b1e3ce65b4f", null ],
-    [ "SummonedCreatureDespawn", "da/ddd/a17308.html#a9a35459cf7b83c9f0afc557d1b0b40e7", null ],
-    [ "UpdateAI", "da/ddd/a17308.html#a1507ab4bdade501cf92f843cec20842d", null ],
-    [ "counter", "da/ddd/a17308.html#a7012a08c6409a40646dcd91a47eb6886", null ],
-    [ "events", "da/ddd/a17308.html#a7ea570e98c7a70ae604861c2166eb429", null ],
-    [ "pInstance", "da/ddd/a17308.html#a1ba3692738d6bd474d54fe8910a7f316", null ],
-    [ "summons", "da/ddd/a17308.html#a44b5ee694d96644da91167c7d793eeb3", null ]
+    [ "npc_shadowy_mercenaryAI", "da/ddd/a17308.html#ac631624615653a4f82ecfae2aa418455", null ],
+    [ "AttackStart", "da/ddd/a17308.html#a001fa53e29cf8a20ed2e3312058ceb0a", null ],
+    [ "DoAction", "da/ddd/a17308.html#a62f4e98e1dadfa0a2aeea43af9d26234", null ],
+    [ "EnterEvadeMode", "da/ddd/a17308.html#a31a9ddf038046534fad1d41afcf76548", null ],
+    [ "JustDied", "da/ddd/a17308.html#a33e576c92d1b10492cb6e65000ca8198", null ],
+    [ "JustEngagedWith", "da/ddd/a17308.html#ae12ade5e863a0022ea99620f354ca51b", null ],
+    [ "Reset", "da/ddd/a17308.html#afad174f812e2aadf6db86703a46f61d2", null ],
+    [ "UpdateAI", "da/ddd/a17308.html#a7a0238f32aa0d608b9d883db5f170052", null ],
+    [ "events", "da/ddd/a17308.html#a4c6e5a49dc4364477187a0189a166578", null ]
 ];

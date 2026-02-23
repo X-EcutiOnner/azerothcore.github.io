@@ -1,6 +1,6 @@
 var a14340 =
 [
-    [ "boss_mandokirAI", "da/ddf/a14344.html", "da/ddf/a14344" ],
-    [ "boss_mandokir", "da/d36/a14340.html#aad13c8302cef7fb4981f0d2178630def", null ],
-    [ "GetAI", "da/d36/a14340.html#a215842d5ab23824ec20db64e2fa4407e", null ]
+    [ "OnEffect", "da/d36/a14340.html#ab87d53faac04ced3c11088e260782068", null ],
+    [ "PrepareSpellScript", "da/d36/a14340.html#af618e8d84029dda5e48b699cbcf671be", null ],
+    [ "Register", "da/d36/a14340.html#abcfe54b8901ec3c5e070b3c528ade26e", null ]
 ];

@@ -1,8 +1,9 @@
 var a11124 =
 [
-    [ "PetSpellAutocast", "d9/de5/a11124.html#ab858647d14031a2a6109d1e923402d08", null ],
-    [ "Read", "d9/de5/a11124.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
-    [ "AutocastEnabled", "d9/de5/a11124.html#a3c04543dcd5382682654b3860b84c6a3", null ],
-    [ "PetGUID", "d9/de5/a11124.html#aeed828abebf683078ee61204c91e28c9", null ],
-    [ "SpellID", "d9/de5/a11124.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
+    [ "LevelUpInfo", "d9/de5/a11124.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
+    [ "Write", "d9/de5/a11124.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
+    [ "HealthDelta", "d9/de5/a11124.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
+    [ "Level", "d9/de5/a11124.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
+    [ "PowerDelta", "d9/de5/a11124.html#a697da64ac234c24fe73e68d408697ee6", null ],
+    [ "StatDelta", "d9/de5/a11124.html#a580e4a3cd77631e960b7753542375d6d", null ]
 ];

@@ -1,13 +1,7 @@
 var a11892 =
 [
-    [ "cheat_commandscript", "d2/dd7/a11892.html#a7449cfba3578956a09b67e569e7e6083", null ],
-    [ "GetCommands", "d2/dd7/a11892.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
-    [ "HandleCasttimeCheatCommand", "d2/dd7/a11892.html#a119ad06c5b8be235853bb13c7cff724b", null ],
-    [ "HandleCheatStatusCommand", "d2/dd7/a11892.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
-    [ "HandleCoolDownCheatCommand", "d2/dd7/a11892.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
-    [ "HandleExploreCheatCommand", "d2/dd7/a11892.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
-    [ "HandleGodModeCheatCommand", "d2/dd7/a11892.html#ac398dbacf025830dc871bc77938d47d6", null ],
-    [ "HandlePowerCheatCommand", "d2/dd7/a11892.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
-    [ "HandleTaxiCheatCommand", "d2/dd7/a11892.html#ab9bd840c9622d173e710058eeb763388", null ],
-    [ "HandleWaterWalkCheatCommand", "d2/dd7/a11892.html#a9162d89c049f14f29bc5ba257964df34", null ]
+    [ "Command", "d2/dd7/a11892.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
+    [ "ModuleId", "d2/dd7/a11892.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
+    [ "ModuleKey", "d2/dd7/a11892.html#aba0f236c39186022816bd86f8e8e9093", null ],
+    [ "Size", "d2/dd7/a11892.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
 ];

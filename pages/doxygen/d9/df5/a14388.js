@@ -1,6 +1,5 @@
 var a14388 =
 [
-    [ "HandleOnHit", "d9/df5/a14388.html#a36909ef786940eb1a05539c968d78e80", null ],
-    [ "PrepareSpellScript", "d9/df5/a14388.html#a4bc6792c99b40834ec1a8a9764589e24", null ],
-    [ "Register", "d9/df5/a14388.html#ad1d60c5f747f8ec16cbf2402567cfebd", null ]
+    [ "go_gong_of_bethekk", "d9/df5/a14388.html#ae261467be63f1a744eb20f81473c2239", null ],
+    [ "OnGossipHello", "d9/df5/a14388.html#a82072ff8c030aec1a5ed447865680788", null ]
 ];

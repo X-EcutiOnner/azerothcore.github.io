@@ -1,7 +1,10 @@
 var a21272 =
 [
-    [ "HandleEffectPeriodic", "dc/d59/a21272.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
-    [ "PrepareAuraScript", "dc/d59/a21272.html#a748cd347867557b5048d9ba0c112cd80", null ],
-    [ "Register", "dc/d59/a21272.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
-    [ "Validate", "dc/d59/a21272.html#afa86789ef14b1d06094705ba6cfb9205", null ]
+    [ "npc_erekem_guardAI", "dc/d59/a21272.html#a1ce40b70a35fc76e6ac0af449b7f4ded", null ],
+    [ "JustEngagedWith", "dc/d59/a21272.html#a93819c5c76821b1c9559be55359d677e", null ],
+    [ "MoveInLineOfSight", "dc/d59/a21272.html#aa1140892c13f4c070b1f3f1bf2230bb5", null ],
+    [ "Reset", "dc/d59/a21272.html#a079be6dd45e96184d66e95f031dc9c5f", null ],
+    [ "UpdateAI", "dc/d59/a21272.html#ab2c55e384f624b0f671e42e381aa3a37", null ],
+    [ "events", "dc/d59/a21272.html#a15afc8dd6d6e15fcd1a632728ad8d16e", null ],
+    [ "pInstance", "dc/d59/a21272.html#a81985b8522111f2aae540353cd5641fe", null ]
 ];

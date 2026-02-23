@@ -1,7 +1,6 @@
 var a26688 =
 [
-    [ "HandleScript", "db/dc5/a26688.html#aa00117e677af1e236962c59b688d8a98", null ],
-    [ "Load", "db/dc5/a26688.html#ad05b65848e35d87fb9ef1ae413de6256", null ],
-    [ "PrepareSpellScript", "db/dc5/a26688.html#afbffeadede1cc7f08a0a52f4a7bee680", null ],
-    [ "Register", "db/dc5/a26688.html#a52d4828ccd5430a622a32b1279943f9b", null ]
+    [ "CheckCast", "db/dc5/a26688.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
+    [ "PrepareSpellScript", "db/dc5/a26688.html#a33e86d770e926247c58c00143b55c418", null ],
+    [ "Register", "db/dc5/a26688.html#a453c7fa25baf458c9a319053ca726621", null ]
 ];

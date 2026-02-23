@@ -1,8 +1,15 @@
 var a22812 =
 [
-    [ "npc_yor", "d0/d35/a22812.html#a43ed8720d06c035085d481dbe6539dca", null ],
-    [ "JustEngagedWith", "d0/d35/a22812.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
-    [ "Reset", "d0/d35/a22812.html#aa698540b646fd870b33afbaf19ddbe07", null ],
-    [ "UpdateAI", "d0/d35/a22812.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
-    [ "_scheduler", "d0/d35/a22812.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
+    [ "boss_reliquary_of_soulsAI", "d0/d35/a22812.html#abee29aab1d28a168be3b381d0765a804", null ],
+    [ "AttackStart", "d0/d35/a22812.html#af59a9972dfdb264248e78206ea0d834c", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d0/d35/a22812.html#a67343cecd292c2dc40f8c5a275d95fdf", null ],
+    [ "DoAction", "d0/d35/a22812.html#aa281dd9c7dc0c6f15c2bfcbf60384006", null ],
+    [ "JustDied", "d0/d35/a22812.html#a6e19cb7d94579a70ac11f7173cf930c6", null ],
+    [ "JustEngagedWith", "d0/d35/a22812.html#a88eef17a5f475b38a37b0e1adcc0cbbc", null ],
+    [ "JustSummoned", "d0/d35/a22812.html#ad3c7679c2341951bbeb49aafad7196cd", null ],
+    [ "MoveInLineOfSight", "d0/d35/a22812.html#a315a0ad69f566ff63b06fd0d47ce32d8", null ],
+    [ "PhaseTransitionSpawns", "d0/d35/a22812.html#a96235ed84a30458eb5f76d87ed47dc89", null ],
+    [ "Reset", "d0/d35/a22812.html#a5dc6ec0521e2ddfb63a6818ad2de0d8b", null ],
+    [ "SummonedCreatureDies", "d0/d35/a22812.html#a51ac7df8689bf899eaaf4cde566d8202", null ],
+    [ "UpdateAI", "d0/d35/a22812.html#a4289e678a69e35db5e4ea75fddd7e8e4", null ]
 ];

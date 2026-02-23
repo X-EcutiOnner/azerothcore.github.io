@@ -1,6 +1,11 @@
 var a06064 =
 [
-    [ "SavedAddon", "d1/da6/a06064.html#a6252c2ac491d0ebd9e84556f26cfa8cd", null ],
-    [ "CRC", "d1/da6/a06064.html#a7d04d21a29aa589429aab0d95172ca95", null ],
-    [ "Name", "d1/da6/a06064.html#a075de88ce6e643cffb7c5bb55f7b1095", null ]
+    [ "SQLOperation", "d1/da6/a06064.html#a0f69657715b7d24458227b22a3b40b1a", null ],
+    [ "~SQLOperation", "d1/da6/a06064.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
+    [ "SQLOperation", "d1/da6/a06064.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
+    [ "call", "d1/da6/a06064.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
+    [ "Execute", "d1/da6/a06064.html#aff1090554bc4a6fe7a33270e63416e19", null ],
+    [ "operator=", "d1/da6/a06064.html#ac31349ed45ea051540ac345bd4b814d5", null ],
+    [ "SetConnection", "d1/da6/a06064.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
+    [ "m_conn", "d1/da6/a06064.html#adf322db48064fcf4528f713f857f1b40", null ]
 ];

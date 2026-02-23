@@ -1,7 +1,11 @@
 var a22588 =
 [
-    [ "HandleScript", "df/d0a/a22588.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "df/d0a/a22588.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "df/d0a/a22588.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "df/d0a/a22588.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "boss_blackheart_the_inciter", "df/d0a/a22588.html#a772b2b4574fa6ccd445924193985859b", null ],
+    [ "EnterEvadeMode", "df/d0a/a22588.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
+    [ "JustDied", "df/d0a/a22588.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
+    [ "JustEngagedWith", "df/d0a/a22588.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
+    [ "KilledUnit", "df/d0a/a22588.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
+    [ "Reset", "df/d0a/a22588.html#add75633d1c04d0be91e7e80f28213917", null ],
+    [ "UpdateAI", "df/d0a/a22588.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
+    [ "InciteChaos", "df/d0a/a22588.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
 ];

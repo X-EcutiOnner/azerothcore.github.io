@@ -1,9 +1,6 @@
 var a25036 =
 [
-    [ "PrepareAuraScript", "d2/d40/a25036.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
-    [ "Register", "d2/d40/a25036.html#a04efbc64bfa0312bc1f372e403803c32", null ],
-    [ "Update", "d2/d40/a25036.html#aa463442b994b6275b2e12fe06ae7805c", null ],
-    [ "amplitude", "d2/d40/a25036.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
-    [ "amplitude", "d2/d40/a25036.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
-    [ "isPeriodic", "d2/d40/a25036.html#a0732bf60822bbb547be014566d0e092c", null ]
+    [ "HandleDummy", "d2/d40/a25036.html#a80ab847f2528060b2e3e2e128cfc06af", null ],
+    [ "PrepareSpellScript", "d2/d40/a25036.html#af310c2b28ed816b9fbe494f81c42043c", null ],
+    [ "Register", "d2/d40/a25036.html#ae5e494ca801b35520bddb4a8a148efcd", null ]
 ];

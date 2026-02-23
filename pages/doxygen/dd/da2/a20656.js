@@ -1,9 +1,8 @@
 var a20656 =
 [
-    [ "npc_ulduar_bot_summon_triggerAI", "dd/da2/a20656.html#a60e0706b9285cdf4b25b6f399cad18e9", null ],
-    [ "DoAction", "dd/da2/a20656.html#ac5d0e28ee330741da3b287d965537f39", null ],
-    [ "Reset", "dd/da2/a20656.html#a91207c04ecee6fc0e906133e054bf51b", null ],
-    [ "UpdateAI", "dd/da2/a20656.html#aebec433e806d4f63f5593db0301612b4", null ],
-    [ "option", "dd/da2/a20656.html#a98bb19fea19a05127b4b32df039acf05", null ],
-    [ "timer", "dd/da2/a20656.html#a118d048557b0ed314180299c3cd2bcbc", null ]
+    [ "npc_ulduar_dark_rune_guardian", "dd/da2/a20656.html#a225445f5593694dd6b7d9c338735690f", null ],
+    [ "CanAIAttack", "dd/da2/a20656.html#a0e739a36a33d7ab401a55d629230e2df", null ],
+    [ "Reset", "dd/da2/a20656.html#a4839f5722ba8d12beb679ac7edd0fe0e", null ],
+    [ "UpdateAI", "dd/da2/a20656.html#acecc92ef5ad06821854f3afe4f2b673e", null ],
+    [ "timer2", "dd/da2/a20656.html#a5a3af42aaff640e8e286eda5a658c411", null ]
 ];

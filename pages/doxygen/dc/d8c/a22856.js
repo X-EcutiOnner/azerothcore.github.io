@@ -1,5 +1,7 @@
 var a22856 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "dc/d8c/a22856.html#a037ee225b626b64436570680ae4e9ea0", null ],
-    [ "ProcessEvent", "dc/d8c/a22856.html#aba05b0edb57e6c42bd45593a51598365", null ]
+    [ "CalculateAmount", "dc/d8c/a22856.html#adad1c8a513ce8a1badbd40c291363de1", null ],
+    [ "PrepareAuraScript", "dc/d8c/a22856.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
+    [ "Register", "dc/d8c/a22856.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
+    [ "Update", "dc/d8c/a22856.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
 ];

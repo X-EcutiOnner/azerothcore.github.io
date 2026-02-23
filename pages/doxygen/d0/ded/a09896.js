@@ -1,7 +1,7 @@
 var a09896 =
 [
-    [ "resetNotify", "d0/ded/a09896.html#a1472e21d9af04662f3574bc2c7d3890c", null ],
-    [ "Visit", "d0/ded/a09896.html#adfcdcf148b002c641638ddc70d577b14", null ],
-    [ "Visit", "d0/ded/a09896.html#adf95512d4304962a5740b38c32ea28a7", null ],
-    [ "Visit", "d0/ded/a09896.html#a725fc2c2504eecaa15841c27b367cd55", null ]
+    [ "LootGroupInvalidSelector", "d0/ded/a09896.html#abea815e8ee0d31cc64b3fd7f46033cca", null ],
+    [ "operator()", "d0/ded/a09896.html#a2ea426fdeced03324c4a63184c2c1fc4", null ],
+    [ "_loot", "d0/ded/a09896.html#a67b9d223426512af79bbf5b035c18a6d", null ],
+    [ "_lootMode", "d0/ded/a09896.html#a10e307846a0731aa812388c29c0d4bc8", null ]
 ];

@@ -1,6 +1,8 @@
 var a16696 =
 [
-    [ "npc_toc_warlockAI", "d3/d43/a16700.html", "d3/d43/a16700" ],
-    [ "npc_toc_warlock", "d3/da2/a16696.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
-    [ "GetAI", "d3/da2/a16696.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "d3/da2/a16696.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
+    [ "DoAction", "d3/da2/a16696.html#af38e129cdf4af99e99c41b6a98448e56", null ],
+    [ "Reset", "d3/da2/a16696.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
+    [ "UpdateAI", "d3/da2/a16696.html#a851008790128831c5c10710b4cccb196", null ],
+    [ "WaypointReached", "d3/da2/a16696.html#a74b5fb1d3631c404e7797085e45e6159", null ]
 ];

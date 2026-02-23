@@ -1,7 +1,5 @@
 var a10800 =
 [
-    [ "GuildBankDepositMoney", "d9/d93/a10800.html#a967628850b85038d917be69dc71e6a0e", null ],
-    [ "Read", "d9/d93/a10800.html#aa1d4274b057cc4ecec6b078ac4925a94", null ],
-    [ "Banker", "d9/d93/a10800.html#afdeb7ea381853078d515d8a0f157533b", null ],
-    [ "Money", "d9/d93/a10800.html#a41258345b9f83dcf8e374145f517251e", null ]
+    [ "GuildGetRoster", "d9/d93/a10800.html#a9beccc6ee2416633c57d2da31fdc021a", null ],
+    [ "Read", "d9/d93/a10800.html#af795ad992ec1b55d741227bd2d4a62d1", null ]
 ];

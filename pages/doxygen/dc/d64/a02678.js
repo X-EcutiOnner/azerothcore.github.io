@@ -1,28 +1,10 @@
 var a02678 =
 [
-    [ "tf_tower_world_state", "dd/dda/a22365.html", "dd/dda/a22365" ],
-    [ "OPvPCapturePointTF", "de/d43/a22369.html", "de/d43/a22369" ],
-    [ "OutdoorPvPTF", "da/de0/a22373.html", "da/de0/a22373" ],
-    [ "TF_CAPTURE_BUFF", "dc/d64/a02678.html#a82bc235ec6d43b48511d1b3d903a934b", null ],
-    [ "OutdoorPvPTF_TowerType", "dc/d64/a02678.html#a7a4347e10a530d56e3c3ae66a5eae999", [
-      [ "TF_TOWER_NW", "dc/d64/a02678.html#a7a4347e10a530d56e3c3ae66a5eae999ac95ea754e0befd303c7912671ff54b16", null ],
-      [ "TF_TOWER_N", "dc/d64/a02678.html#a7a4347e10a530d56e3c3ae66a5eae999a034d81c6a66a32fef95c75235cb39d2b", null ],
-      [ "TF_TOWER_NE", "dc/d64/a02678.html#a7a4347e10a530d56e3c3ae66a5eae999a210d598966bbca14ece80eb1e00bae97", null ],
-      [ "TF_TOWER_SE", "dc/d64/a02678.html#a7a4347e10a530d56e3c3ae66a5eae999a01f2c2e0a883f8355bf433a96b52bd65", null ],
-      [ "TF_TOWER_S", "dc/d64/a02678.html#a7a4347e10a530d56e3c3ae66a5eae999af3a17ac5cc35927939c90503027342f0", null ],
-      [ "TF_TOWER_NUM", "dc/d64/a02678.html#a7a4347e10a530d56e3c3ae66a5eae999ad6085f7af14a95c2f7331b50721ff5a3", null ]
-    ] ],
-    [ "TFTowerStates", "dc/d64/a02678.html#a5815248809b8fd06bd664886846a7126", [
-      [ "TF_TOWERSTATE_N", "dc/d64/a02678.html#a5815248809b8fd06bd664886846a7126a1bf771ad2a93c40a6d0d5312167a046f", null ],
-      [ "TF_TOWERSTATE_H", "dc/d64/a02678.html#a5815248809b8fd06bd664886846a7126a133214fb55c09ba0030cc76b1d2082c1", null ],
-      [ "TF_TOWERSTATE_A", "dc/d64/a02678.html#a5815248809b8fd06bd664886846a7126acde31be20bbd32d3bf71bd3352e7e43d", null ]
-    ] ],
-    [ "OutdoorPvPTFBuffZones", "dc/d64/a02678.html#a6b09030102f8c0dbb4b0e6bbfdee9b24", null ],
-    [ "OutdoorPvPTFBuffZonesNum", "dc/d64/a02678.html#acde5c9331776adb4ed27c2319476e550", null ],
-    [ "TF_ALLY_QUEST", "dc/d64/a02678.html#a3967b7bb2df0e330fbd21a68d557b19a", null ],
-    [ "TF_HORDE_QUEST", "dc/d64/a02678.html#a1bbe00a4cf0ae9f6750d23ef10539c0a", null ],
-    [ "TF_LOCK_TIME", "dc/d64/a02678.html#a925c2f6bf9c7a6d1b694382b888fa85f", null ],
-    [ "TF_LOCK_TIME_UPDATE", "dc/d64/a02678.html#a9ef7be226d98726081fd3cb435d223b5", null ],
-    [ "TFCapturePoints", "dc/d64/a02678.html#a19e9cf9859a7578f154dcdcfa0670620", null ],
-    [ "TFTowerWorldStates", "dc/d64/a02678.html#ac5dbb8989285178cfea88af6f03dd6a6", null ]
+    [ "instance_ahnkahet", "d8/df4/a16296.html", "d8/df4/a16296" ],
+    [ "instance_ahnkahet::instance_ahnkahet_InstanceScript", "d1/dd4/a16300.html", "d1/dd4/a16300" ],
+    [ "spell_shadow_sickle_periodic_damage", "d4/d5f/a16304.html", "d4/d5f/a16304" ],
+    [ "AddSC_instance_ahnkahet", "dc/d64/a02678.html#a33aed24f64879c91101f7420c4d49cc3", null ],
+    [ "boundaries", "dc/d64/a02678.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "dc/d64/a02678.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "dc/d64/a02678.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

@@ -1,6 +1,6 @@
 var a27828 =
 [
-    [ "npc_injured_patientAI", "df/dd6/a27832.html", "df/dd6/a27832" ],
-    [ "npc_injured_patient", "d1/dbe/a27828.html#a0b7ef214aa1b20df088dee0976c73783", null ],
-    [ "GetAI", "d1/dbe/a27828.html#a0c042bb81e684f903d28d7879af99d4a", null ]
+    [ "CheckProc", "d1/dbe/a27828.html#a957f8837b5613a3bfd8200ded3529c54", null ],
+    [ "PrepareAuraScript", "d1/dbe/a27828.html#a37950bfd846e1c2c550a108461941a26", null ],
+    [ "Register", "d1/dbe/a27828.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
 ];

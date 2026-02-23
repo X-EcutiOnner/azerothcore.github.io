@@ -1,6 +1,10 @@
 var a29136 =
 [
-    [ "height", "d3/d01/a29136.html#a7638f586a055c48a46e36471543ff72f", null ],
-    [ "unk1", "d3/d01/a29136.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
-    [ "unk2", "d3/d01/a29136.html#a394a04f6e985824aa259a42b11b97136", null ]
+    [ "ID", "d3/d01/a29136.html#a906c42770a619884f08b67e2870bff93", null ],
+    [ "reqarenapoints", "d3/d01/a29136.html#a5d45007a832d6120e29c7821c07646de", null ],
+    [ "reqarenaslot", "d3/d01/a29136.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
+    [ "reqhonorpoints", "d3/d01/a29136.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
+    [ "reqitem", "d3/d01/a29136.html#a9cba8872c909260a55dcfdf7f4726899", null ],
+    [ "reqitemcount", "d3/d01/a29136.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
+    [ "reqpersonalarenarating", "d3/d01/a29136.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
 ];

@@ -1,10 +1,6 @@
 var a16964 =
 [
-    [ "boss_tharon_jaAI", "db/d3d/a16964.html#a03025fa529e932f23479ff19b0cd8238", null ],
-    [ "DoAction", "db/d3d/a16964.html#a655fd83c2d671847fea9ae393c132fb9", null ],
-    [ "JustDied", "db/d3d/a16964.html#a7928b5db061f1073e1decc2d40601195", null ],
-    [ "JustEngagedWith", "db/d3d/a16964.html#aab194a8f802eeb625d1a74960acbe154", null ],
-    [ "KilledUnit", "db/d3d/a16964.html#a41e929a3768768eb06bafdee3269fd24", null ],
-    [ "Reset", "db/d3d/a16964.html#a272e8565a9b00a27505b301d52814eee", null ],
-    [ "UpdateAI", "db/d3d/a16964.html#a6f482cabcb0bd56711878a5ea297b950", null ]
+    [ "npc_mistress_of_painAI", "d2/d7c/a16968.html", "d2/d7c/a16968" ],
+    [ "npc_mistress_of_pain", "db/d3d/a16964.html#a0261ed835454725e0e5629c295be4330", null ],
+    [ "GetAI", "db/d3d/a16964.html#ae32e9b907e2e31556e72d7feb4e24e8a", null ]
 ];

@@ -1,10 +1,5 @@
 var a20544 =
 [
-    [ "boss_kologarn_eyebeamAI", "d9/df8/a20544.html#add083b2a9067753458de1eeb6bdca4c0", null ],
-    [ "DamageDealt", "d9/df8/a20544.html#a6c1d27cc208bdaf260d6c90a2b7bca45", null ],
-    [ "IsSummonedBy", "d9/df8/a20544.html#affd177dc20c800777142208fa97207fa", null ],
-    [ "UpdateAI", "d9/df8/a20544.html#add60a709a1edf1684bd21358769590b4", null ],
-    [ "_damaged", "d9/df8/a20544.html#a7b49d9826efcf492c6e7ee003f481ccb", null ],
-    [ "_timer", "d9/df8/a20544.html#a766ad3e10016d97235499d1512c4da27", null ],
-    [ "m_pInstance", "d9/df8/a20544.html#a4145bd7e5c80c4e62144b437d38624a4", null ]
+    [ "achievement_kologarn_rubble_and_roll", "d9/df8/a20544.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
+    [ "OnCheck", "d9/df8/a20544.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
 ];

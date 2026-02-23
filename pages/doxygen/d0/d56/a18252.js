@@ -1,7 +1,6 @@
 var a18252 =
 [
-    [ "HandleScript", "d0/d56/a18252.html#aa579f99f704f4db50b38b5f9b87259d7", null ],
-    [ "PrepareSpellScript", "d0/d56/a18252.html#a92a6f2b0d5a0845e35c07d0b5cefe053", null ],
-    [ "Register", "d0/d56/a18252.html#a2278ecef3dc60082ccb8964a34e55587", null ],
-    [ "Validate", "d0/d56/a18252.html#aeee94330ee7ea9b4fd7447e642404119", null ]
+    [ "AbominationDespawner", "d0/d56/a18252.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "d0/d56/a18252.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "d0/d56/a18252.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

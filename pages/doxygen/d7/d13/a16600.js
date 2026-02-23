@@ -1,6 +1,6 @@
 var a16600 =
 [
-    [ "boss_anubarak_trialAI", "da/dfa/a16604.html", "da/dfa/a16604" ],
-    [ "boss_anubarak_trial", "d7/d13/a16600.html#a5204e33a412608b53cc155a043356d58", null ],
-    [ "GetAI", "d7/d13/a16600.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
+    [ "HandleHealPct", "d7/d13/a16600.html#ad13b3924815ac3da7902c8292a760943", null ],
+    [ "PrepareSpellScript", "d7/d13/a16600.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
+    [ "Register", "d7/d13/a16600.html#a3016c31c072d6417bbe47c2891059718", null ]
 ];

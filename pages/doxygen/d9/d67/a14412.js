@@ -1,10 +1,6 @@
 var a14412 =
 [
-    [ "npc_zealot_zath", "d9/d67/a14412.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
-    [ "JustDied", "d9/d67/a14412.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
-    [ "JustEngagedWith", "d9/d67/a14412.html#a25e059f40de51d880f4ec209ff4dd924", null ],
-    [ "Reset", "d9/d67/a14412.html#abc4e40afd644f2c89444f3fe475817c0", null ],
-    [ "UpdateAI", "d9/d67/a14412.html#a467ce2437ec112b42f864ef412c0c976", null ],
-    [ "_scheduler", "d9/d67/a14412.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
-    [ "instance", "d9/d67/a14412.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
+    [ "boss_hakkarAI", "db/d5b/a14416.html", "db/d5b/a14416" ],
+    [ "boss_hakkar", "d9/d67/a14412.html#a834bd1f223154fbf1be94bf43136da28", null ],
+    [ "GetAI", "d9/d67/a14412.html#aff3a089e30dcddfde4db372104153723", null ]
 ];

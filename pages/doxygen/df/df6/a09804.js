@@ -1,6 +1,9 @@
 var a09804 =
 [
-    [ "LootValidatorRef", "df/df6/a09804.html#acce3ced73583bf8dbf04232cddd6ebd8", null ],
-    [ "sourceObjectDestroyLink", "df/df6/a09804.html#a8833022cf1acf786c06f1580fbe11c24", null ],
-    [ "targetObjectDestroyLink", "df/df6/a09804.html#a93baac45dcb801215c28ac0dba097eba", null ]
+    [ "LoginQueryHolder", "df/df6/a09804.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
+    [ "GetAccountId", "df/df6/a09804.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
+    [ "GetGuid", "df/df6/a09804.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
+    [ "Initialize", "df/df6/a09804.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
+    [ "m_accountId", "df/df6/a09804.html#abc8056182803af44a062fe6153fdd009", null ],
+    [ "m_guid", "df/df6/a09804.html#ab4696408b2e649dcdaae0bc4330c0b9e", null ]
 ];

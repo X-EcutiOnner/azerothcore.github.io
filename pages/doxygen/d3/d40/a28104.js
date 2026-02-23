@@ -1,7 +1,6 @@
 var a28104 =
 [
-    [ "bit_index", "d3/d40/a28104.html#a1e5cb3fc001169a204507a084435a211", null ],
-    [ "ID", "d3/d40/a28104.html#a63fe7a87e019780d20e86e48efb02eac", null ],
-    [ "nameFemale", "d3/d40/a28104.html#ad0380caf2526715faaddc9330062d90a", null ],
-    [ "nameMale", "d3/d40/a28104.html#a74a767731c96d3d815ddde5a06f68599", null ]
+    [ "go_heatAI", "dc/dc4/a28108.html", "dc/dc4/a28108" ],
+    [ "go_heat", "d3/d40/a28104.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
+    [ "GetAI", "d3/d40/a28104.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
 ];

@@ -1,16 +1,8 @@
 var a28960 =
 [
-    [ "Iterator", "da/dad/a28960.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
-    [ "Iterator", "da/dad/a28960.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
-    [ "operator!=", "da/dad/a28960.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
-    [ "operator!=", "da/dad/a28960.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
-    [ "operator*", "da/dad/a28960.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
-    [ "operator*", "da/dad/a28960.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
-    [ "operator++", "da/dad/a28960.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
-    [ "operator++", "da/dad/a28960.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
-    [ "operator->", "da/dad/a28960.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
-    [ "operator->", "da/dad/a28960.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
-    [ "operator==", "da/dad/a28960.html#a2d9cf3e798a1fcce3682c186952290df", null ],
-    [ "operator==", "da/dad/a28960.html#a2d9cf3e798a1fcce3682c186952290df", null ],
-    [ "record", "da/dad/a28960.html#a948512c44e53dfa177b85f82e9fd6160", null ]
+    [ "gender", "da/dad/a28960.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
+    [ "hair_id", "da/dad/a28960.html#af4646a9adb0a1dc18b34158de2116b84", null ],
+    [ "Id", "da/dad/a28960.html#a05de87081cf628e806d6518eef1424e4", null ],
+    [ "race", "da/dad/a28960.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
+    [ "type", "da/dad/a28960.html#a289bb362ba13235c754647ba67be1e56", null ]
 ];

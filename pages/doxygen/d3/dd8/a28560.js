@@ -1,4 +1,5 @@
 var a28560 =
 [
-    [ "Id", "d3/dd8/a28560.html#accb2b5b3b157d344df1109115564796e", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "d3/dd8/a28560.html#afaa929276f8b131005c9b94daa9a09f9", null ],
+    [ "OnPlayerCompleteQuest", "d3/dd8/a28560.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
 ];

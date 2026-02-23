@@ -1,6 +1,7 @@
 var a23764 =
 [
-    [ "CheckProc", "d0/d4f/a23764.html#add583b34b9052fbb37c43c558f0f8b96", null ],
-    [ "PrepareAuraScript", "d0/d4f/a23764.html#a3d7ed0fa175daffcf11fc3ee04b189bf", null ],
-    [ "Register", "d0/d4f/a23764.html#ab91f611f59e83d4f1b7c71b1595db667", null ]
+    [ "HandleEffect", "d0/d4f/a23764.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
+    [ "PrepareSpellScript", "d0/d4f/a23764.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
+    [ "Register", "d0/d4f/a23764.html#ac406946bb793125d49006e3a877c9638", null ],
+    [ "SelectTarget", "d0/d4f/a23764.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
 ];

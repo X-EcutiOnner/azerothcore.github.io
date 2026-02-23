@@ -1,11 +1,17 @@
 var a19496 =
 [
-    [ "npc_nexus_lord", "d4/dc8/a19496.html#af69d593840747f3e6bdfcce32bbd5c66", null ],
-    [ "AttackStart", "d4/dc8/a19496.html#aefd1ce41b00825bb81ddb6a59d835d21", null ],
-    [ "JustDied", "d4/dc8/a19496.html#ae97f816c5fcb71343d8483345723c300", null ],
-    [ "JustEngagedWith", "d4/dc8/a19496.html#a9a5c55b8c2f85908739d68c7487f629f", null ],
-    [ "UpdateAI", "d4/dc8/a19496.html#acdd7954382f0de84e90d329ec0720a6d", null ],
-    [ "events", "d4/dc8/a19496.html#a59a5b91eb950675d14cfd8e9c2da9548", null ],
-    [ "pInstance", "d4/dc8/a19496.html#a7187de65f193cd7e06bf6898f802d544", null ],
-    [ "timer", "d4/dc8/a19496.html#a42a9c4d7b1251357cd73a7ad2c410d82", null ]
+    [ "boss_kelthuzadAI", "d4/dc8/a19496.html#a3fa1e67bf942824cd40c5591f4e63a08", null ],
+    [ "EnterEvadeMode", "d4/dc8/a19496.html#ac99064d95afff73680df1fe96749665a", null ],
+    [ "JustDied", "d4/dc8/a19496.html#a49066a2fa1dc424a27262706c8af046a", null ],
+    [ "JustEngagedWith", "d4/dc8/a19496.html#a8fd3938c0e91a0773eacba9fbdb4a60e", null ],
+    [ "JustSummoned", "d4/dc8/a19496.html#a0b305ec3029d149c3ca273cb7ba52e1b", null ],
+    [ "KilledUnit", "d4/dc8/a19496.html#ad2fa9b4d11b158e3fadf0c304be6b431", null ],
+    [ "MoveInLineOfSight", "d4/dc8/a19496.html#a440b758486cd95b7884fe2ce9bdfb28f", null ],
+    [ "NormalizeOrientation", "d4/dc8/a19496.html#a21ac290b79119d47b7509b04b34ea16e", null ],
+    [ "Reset", "d4/dc8/a19496.html#a5df92ebc5bd4ee8d06b17e31381be8c4", null ],
+    [ "SpawnHelpers", "d4/dc8/a19496.html#ad81fa9c3449ba347de09b1519be6d408", null ],
+    [ "SummonHelper", "d4/dc8/a19496.html#a3a21a45072144b6f0421733466770267", null ],
+    [ "UpdateAI", "d4/dc8/a19496.html#a3004d23e6eaa3f2ef5942e96e0c17308", null ],
+    [ "events", "d4/dc8/a19496.html#a1ac1341c022c65f46b30a9c70b3f37ba", null ],
+    [ "summons", "d4/dc8/a19496.html#a4b8a2fcda2e9f4e3944c3527dd6afb1e", null ]
 ];

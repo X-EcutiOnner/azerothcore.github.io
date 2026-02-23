@@ -1,8 +1,12 @@
 var a28672 =
 [
-    [ "Color", "d6/de3/a28672.html#a670fb4e2a31958f81d46047f74d9916f", null ],
-    [ "Comparator", "d6/de3/a28672.html#ace0bdad11edd9db12e45d374da623793", null ],
-    [ "CompareColor", "d6/de3/a28672.html#a801e2221bbb1b6aab67a57381901cf08", null ],
-    [ "ID", "d6/de3/a28672.html#aae73769db40326d298bb1d04eef38871", null ],
-    [ "Value", "d6/de3/a28672.html#ac314a9a6b447d386e31a286811f66538", null ]
+    [ "categoryId", "d6/de3/a28672.html#a1de0e4302757f18c08b90b40e059737b", null ],
+    [ "count", "d6/de3/a28672.html#a93aac150067979467f56d9919ff665a4", null ],
+    [ "flags", "d6/de3/a28672.html#a5c0dfb5b3c0711aff47d3d604ded2d1a", null ],
+    [ "ID", "d6/de3/a28672.html#a843fee247948d02f7aaf04144cb37ef5", null ],
+    [ "mapID", "d6/de3/a28672.html#ab3d41381808c8bdc163554f7c46f6bc6", null ],
+    [ "name", "d6/de3/a28672.html#a806cfeddc475994f1b421679bd9699e6", null ],
+    [ "points", "d6/de3/a28672.html#abc2b4cf9c6580c6bc99d5c47d7539374", null ],
+    [ "refAchievement", "d6/de3/a28672.html#a858661b2e3479fa3fc2e029ae0d8a145", null ],
+    [ "requiredFaction", "d6/de3/a28672.html#a722dbda5ed8d74f5a1e75bdec8841aa3", null ]
 ];

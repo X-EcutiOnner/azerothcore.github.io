@@ -1,7 +1,6 @@
 var a24092 =
 [
-    [ "boss_gatewatcher_iron_hand", "d7/d5c/a24092.html#aef70e713007af38b510f0a3b8c082b24", null ],
-    [ "JustDied", "d7/d5c/a24092.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
-    [ "JustEngagedWith", "d7/d5c/a24092.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
-    [ "KilledUnit", "d7/d5c/a24092.html#a1973142412b4094dbd9fa51600741148", null ]
+    [ "npc_dragonmaw_peonAI", "d6/d45/a24096.html", "d6/d45/a24096" ],
+    [ "npc_dragonmaw_peon", "d7/d5c/a24092.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
+    [ "GetAI", "d7/d5c/a24092.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
 ];

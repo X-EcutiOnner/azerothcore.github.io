@@ -1,8 +1,9 @@
 var a13116 =
 [
-    [ "CheckProc", "d6/d8e/a13116.html#a085f6affd2bf76fe66f9023e67725848", null ],
-    [ "HandleProc", "d6/d8e/a13116.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
-    [ "PrepareAuraScript", "d6/d8e/a13116.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
-    [ "Register", "d6/d8e/a13116.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
-    [ "Validate", "d6/d8e/a13116.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
+    [ "FilterTargets", "d6/d8e/a13116.html#a88b91e40b330d39bd04a7873128fb858", null ],
+    [ "HandleFinish", "d6/d8e/a13116.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
+    [ "PrepareSpellScript", "d6/d8e/a13116.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
+    [ "Register", "d6/d8e/a13116.html#ab2008e585589cbf313170064d37c4aa9", null ],
+    [ "Validate", "d6/d8e/a13116.html#af4963be6c544a1706a6dc30dcbf18309", null ],
+    [ "_targets", "d6/d8e/a13116.html#a2f75199a90e52cff770f46bce76d5149", null ]
 ];

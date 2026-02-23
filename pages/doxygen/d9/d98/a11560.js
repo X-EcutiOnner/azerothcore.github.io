@@ -1,6 +1,7 @@
 var a11560 =
 [
-    [ "DestinationTargetSelectHandler", "d9/d98/a11560.html#ab5ffcc89b7232afddd6bc47e7c347b79", null ],
-    [ "Call", "d9/d98/a11560.html#a81ae2eb856507ee22308ae2739854382", null ],
-    [ "DestinationTargetSelectHandlerScript", "d9/d98/a11560.html#a95e882b892a79b464a521a8367b2e9b7", null ]
+    [ "WorldObjectSpellNearbyTargetCheck", "d9/d98/a11560.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
+    [ "operator()", "d9/d98/a11560.html#a731ee07d028a5ee63ecd14321c83664d", null ],
+    [ "_position", "d9/d98/a11560.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
+    [ "_range", "d9/d98/a11560.html#abfec0df490876b2b83dcdee4da75a77f", null ]
 ];

@@ -1,6 +1,6 @@
 var a16156 =
 [
-    [ "HandleApplyAura", "d8/de2/a16156.html#aeddfd61eab5aa077ca07a924ec491285", null ],
-    [ "PrepareSpellScript", "d8/de2/a16156.html#ad53341842455d98722c03318dd80fb94", null ],
-    [ "Register", "d8/de2/a16156.html#a10cb03ba6175f48b0ccaf69ec90e8f50", null ]
+    [ "SayerEntry", "d8/de2/a16156.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
+    [ "SayTimer", "d8/de2/a16156.html#a942073f24fd12da712184243d9f098f2", null ],
+    [ "TextEntry", "d8/de2/a16156.html#a360822e4c069be6019c0a465cb2499cf", null ]
 ];

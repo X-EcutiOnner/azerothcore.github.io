@@ -1,10 +1,8 @@
 var a10024 =
 [
-    [ "ChaseRange", "d3/da1/a10024.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
-    [ "ChaseRange", "d3/da1/a10024.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
-    [ "ChaseRange", "d3/da1/a10024.html#a397b3789449b1c178f11f64313498c4d", null ],
-    [ "MaxRange", "d3/da1/a10024.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
-    [ "MaxTolerance", "d3/da1/a10024.html#a7909b18028d43c84eca5feee3e41469c", null ],
-    [ "MinRange", "d3/da1/a10024.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
-    [ "MinTolerance", "d3/da1/a10024.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
+    [ "PositionFullTerrainStatus", "d3/da1/a10024.html#ae0349ed89530b35af91b7b1862acaffe", null ],
+    [ "areaId", "d3/da1/a10024.html#ac04966fa31b30f341a937906223463d4", null ],
+    [ "floorZ", "d3/da1/a10024.html#abbd186ca681e532d567b5a221a62c02b", null ],
+    [ "liquidInfo", "d3/da1/a10024.html#ac96230ad8521342ec97cf4f94013d0b4", null ],
+    [ "outdoors", "d3/da1/a10024.html#ae531eb0a4abc029f82d699c98d6aa565", null ]
 ];

@@ -1,6 +1,6 @@
 var a10464 =
 [
-    [ "OutdoorPvPScript", "db/da2/a10464.html#ad7882db48419888c7968007e30c2f3f7", null ],
-    [ "GetOutdoorPvP", "db/da2/a10464.html#aa213974f384c88ab65f7b7308dadb026", null ],
-    [ "IsDatabaseBound", "db/da2/a10464.html#ac22c6a9945738270452848f997d2818f", null ]
+    [ "AreaTriggerScript", "db/da2/a10464.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
+    [ "IsDatabaseBound", "db/da2/a10464.html#ac5234a2cd020cd8f90b6d19c28ad46ae", null ],
+    [ "OnTrigger", "db/da2/a10464.html#abb6cdada718e9fad7da98fbb667c6d53", null ]
 ];

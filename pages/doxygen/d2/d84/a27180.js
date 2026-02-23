@@ -1,7 +1,6 @@
 var a27180 =
 [
-    [ "OnProc", "d2/d84/a27180.html#a7ab183d734c543be2866c57f1e5cc508", null ],
-    [ "PrepareAuraScript", "d2/d84/a27180.html#a31118cda9f29318f4620caf38c09522a", null ],
-    [ "Register", "d2/d84/a27180.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
-    [ "Validate", "d2/d84/a27180.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
+    [ "HandleScript", "d2/d84/a27180.html#acde0ae837d0cd3af0f38481027200291", null ],
+    [ "PrepareSpellScript", "d2/d84/a27180.html#ac1237e0af7f88f75ebc551af52fc301c", null ],
+    [ "Register", "d2/d84/a27180.html#a2dc2628984358628afe7d9b62ced7794", null ]
 ];

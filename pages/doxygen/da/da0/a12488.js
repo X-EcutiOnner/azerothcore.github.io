@@ -1,7 +1,6 @@
 var a12488 =
 [
-    [ "boss_broodlordAI", "da/da0/a12488.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
-    [ "JustDied", "da/da0/a12488.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
-    [ "JustEngagedWith", "da/da0/a12488.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
-    [ "UpdateAI", "da/da0/a12488.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
+    [ "boss_highlordomokkAI", "d5/d97/a12492.html", "d5/d97/a12492" ],
+    [ "boss_highlord_omokk", "da/da0/a12488.html#af5174587ed3cd1c46f604183a75de99e", null ],
+    [ "GetAI", "da/da0/a12488.html#afb8efb012791c6a2fc18975a1ec7f984", null ]
 ];

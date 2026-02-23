@@ -1,5 +1,6 @@
 var a20032 =
 [
-    [ "achievement_auriaya_crazy_cat_lady", "da/ddb/a20032.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
-    [ "OnCheck", "da/ddb/a20032.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
+    [ "npc_collapsing_star", "da/ddb/a20032.html#a6660bd7f397d7a3cd7ee5d3580b6bb78", null ],
+    [ "DamageTaken", "da/ddb/a20032.html#ad19c1a3c033b0d97fe42c492634f9cd4", null ],
+    [ "JustSummoned", "da/ddb/a20032.html#a56e0bb55d903b6e7e5c493292512bebe", null ]
 ];

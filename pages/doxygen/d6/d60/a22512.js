@@ -1,9 +1,12 @@
 var a22512 =
 [
-    [ "HandlePeriodic", "d6/d60/a22512.html#a0943e7887ff935ccea21d913429e25a0", null ],
-    [ "OnRemove", "d6/d60/a22512.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
-    [ "PrepareAuraScript", "d6/d60/a22512.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
-    [ "Register", "d6/d60/a22512.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
-    [ "_tickNumber", "d6/d60/a22512.html#a3f8943e288e96f639fb805869749879b", null ],
-    [ "_warning", "d6/d60/a22512.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
+    [ "npc_stolen_soul", "d6/d60/a22512.html#a84a0bb8320b2332545748e010d855884", null ],
+    [ "DoAction", "d6/d60/a22512.html#abcfed6b9b46ce48a15b31d062a1618f4", null ],
+    [ "JustDied", "d6/d60/a22512.html#a6a1d6da5a448fd4b8910835d3a346e3a", null ],
+    [ "Reset", "d6/d60/a22512.html#a9f18ffbb42c988067b6dfa8355a4aba6", null ],
+    [ "SetGUID", "d6/d60/a22512.html#a35b3478f2541f7b3d56e0873f96f479f", null ],
+    [ "UpdateAI", "d6/d60/a22512.html#a7bf369dd943ee36600a364d56b85db5a", null ],
+    [ "_myClass", "d6/d60/a22512.html#ade19b9cb41a674f6bd049a621970aeff", null ],
+    [ "_scheduler", "d6/d60/a22512.html#ab62526916f0ccd681383d37d19d94ccc", null ],
+    [ "_targetGuid", "d6/d60/a22512.html#a6efbe90928119902e4b5a7148b12cfac", null ]
 ];

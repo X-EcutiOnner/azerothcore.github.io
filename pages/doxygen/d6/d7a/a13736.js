@@ -1,7 +1,8 @@
 var a13736 =
 [
-    [ "PeriodicTick", "d6/d7a/a13736.html#acca46d585d06d461f735cddb6075b3b1", null ],
-    [ "PrepareAuraScript", "d6/d7a/a13736.html#abd7382ab22efd3d82c4f00745255d024", null ],
-    [ "Register", "d6/d7a/a13736.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
-    [ "Validate", "d6/d7a/a13736.html#acb31ba162452a30ff0c208829560f9fd", null ]
+    [ "npc_demonic_vapor", "d6/d7a/a13736.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
+    [ "IsSummonedBy", "d6/d7a/a13736.html#ace56fe54dc6d3f597df0d1e28924082f", null ],
+    [ "Reset", "d6/d7a/a13736.html#a7d2b88ab26904cedaac34f03567806bc", null ],
+    [ "UpdateAI", "d6/d7a/a13736.html#a6637d2d5fc6615c2d76aa0d04c36a047", null ],
+    [ "_timer", "d6/d7a/a13736.html#ab067f5b9b9f37db4db9ab6e5295e5d52", null ]
 ];

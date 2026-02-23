@@ -1,6 +1,7 @@
 var a22608 =
 [
-    [ "HandlePeriodicDummy", "df/d92/a22608.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "df/d92/a22608.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "df/d92/a22608.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "HandleOnHit", "df/d92/a22608.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
+    [ "PrepareSpellScript", "df/d92/a22608.html#a734b735c7e87938bff185be91f9de6e8", null ],
+    [ "Register", "df/d92/a22608.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
+    [ "Validate", "df/d92/a22608.html#a162f60784fdec6b748151e5c2a7ed257", null ]
 ];

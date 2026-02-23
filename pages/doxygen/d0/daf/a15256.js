@@ -1,7 +1,6 @@
 var a15256 =
 [
-    [ "HandleScript", "d0/daf/a15256.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
-    [ "PrepareSpellScript", "d0/daf/a15256.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
-    [ "Register", "d0/daf/a15256.html#aff966352a2babe6e6daed91f02e1190a", null ],
-    [ "Validate", "d0/daf/a15256.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
+    [ "instance_old_hillsbrad_InstanceMapScript", "d1/d42/a15260.html", "d1/d42/a15260" ],
+    [ "instance_old_hillsbrad", "d0/daf/a15256.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
+    [ "GetInstanceScript", "d0/daf/a15256.html#a1929c38b1c745b2df1ccaf462113e220", null ]
 ];

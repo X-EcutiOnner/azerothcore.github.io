@@ -1,8 +1,8 @@
 var a23860 =
 [
-    [ "npc_warchief_portal", "de/d09/a23860.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
-    [ "JustSummoned", "de/d09/a23860.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
-    [ "SetData", "de/d09/a23860.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
-    [ "UpdateAI", "de/d09/a23860.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
-    [ "_scheduler", "de/d09/a23860.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
+    [ "instance_mechanar_InstanceMapScript", "de/d09/a23860.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "de/d09/a23860.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "de/d09/a23860.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "de/d09/a23860.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "de/d09/a23860.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

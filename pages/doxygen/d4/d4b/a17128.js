@@ -1,6 +1,6 @@
 var a17128 =
 [
-    [ "npc_phantom_mageAI", "da/d42/a17132.html", "da/d42/a17132" ],
-    [ "npc_phantom_mage", "d4/d4b/a17128.html#ad57414231c40917bf55d6155fa9c05db", null ],
-    [ "GetAI", "d4/d4b/a17128.html#ae2134b8be3052da659390bde7c2aac2e", null ]
+    [ "OnPeriodic", "d4/d4b/a17128.html#ab71faf6fb2900e176aac245317113758", null ],
+    [ "PrepareAuraScript", "d4/d4b/a17128.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
+    [ "Register", "d4/d4b/a17128.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
 ];

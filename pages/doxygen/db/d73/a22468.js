@@ -1,8 +1,17 @@
 var a22468 =
 [
-    [ "npc_freed_protodrakeAI", "db/d73/a22468.html#a9e80808035be749c87a1170f37ac3daf", null ],
-    [ "MovementInform", "db/d73/a22468.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
-    [ "Reset", "db/d73/a22468.html#ab5781438300442bb7bcb4510aec9d233", null ],
-    [ "UpdateAI", "db/d73/a22468.html#a9e83b133444e977c35e90b700149472c", null ],
-    [ "events", "db/d73/a22468.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
+    [ "OutdoorPvPSI", "db/d73/a22468.html#a89bf2d913b7d68ee921ef4b9aeea61e1", null ],
+    [ "FillInitialWorldStates", "db/d73/a22468.html#a7392eed60ec3307bdea4ed35cd859077", null ],
+    [ "HandleAreaTrigger", "db/d73/a22468.html#a7c6d70d7a611752456c55d13420ff840", null ],
+    [ "HandleCustomSpell", "db/d73/a22468.html#a10853a2f5766b6fc75044a20b281a198", null ],
+    [ "HandleDropFlag", "db/d73/a22468.html#a9238a5007253d84d66192bd340d8311a", null ],
+    [ "HandlePlayerEnterZone", "db/d73/a22468.html#ad2cabd461406a61e40411850b3d31c0c", null ],
+    [ "HandlePlayerLeaveZone", "db/d73/a22468.html#aa06088b1d80072577e6fc7653a214512", null ],
+    [ "SendRemoveWorldStates", "db/d73/a22468.html#aae7deda0662b28f6fc0e16115a65304b", null ],
+    [ "SetupOutdoorPvP", "db/d73/a22468.html#a401da5bef2350c4eb21b249b4f8b3e40", null ],
+    [ "Update", "db/d73/a22468.html#a56bda08a795a4b0cd1c52ec448920fac", null ],
+    [ "UpdateWorldState", "db/d73/a22468.html#a81f4362ece83f37f14471926e9a85fb3", null ],
+    [ "m_Gathered_A", "db/d73/a22468.html#ab532337ab7e66e1489221e3189e48bac", null ],
+    [ "m_Gathered_H", "db/d73/a22468.html#abcd36fe918edbbea387573bd5fab89e7", null ],
+    [ "m_LastController", "db/d73/a22468.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c", null ]
 ];

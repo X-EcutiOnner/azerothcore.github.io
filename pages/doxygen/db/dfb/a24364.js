@@ -1,6 +1,6 @@
 var a24364 =
 [
-    [ "npc_dragonmaw_peonAI", "d6/dfe/a24368.html", "d6/dfe/a24368" ],
-    [ "npc_dragonmaw_peon", "db/dfb/a24364.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
-    [ "GetAI", "db/dfb/a24364.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
+    [ "CheckProc", "db/dfb/a24364.html#a5c7245398c005a133576493366010e58", null ],
+    [ "PrepareAuraScript", "db/dfb/a24364.html#ac2a2d20470e7fa3df8491c7c81330a52", null ],
+    [ "Register", "db/dfb/a24364.html#a4f6bcdb58b02d351aee9efcd37af3492", null ]
 ];

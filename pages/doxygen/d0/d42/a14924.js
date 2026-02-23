@@ -1,9 +1,7 @@
 var a14924 =
 [
-    [ "boss_azgalor", "d0/d42/a14924.html#ac794e0eacc2d543fa62e4b521089f080", null ],
-    [ "DoAction", "d0/d42/a14924.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
-    [ "JustDied", "d0/d42/a14924.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
-    [ "JustEngagedWith", "d0/d42/a14924.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
-    [ "KilledUnit", "d0/d42/a14924.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
-    [ "_recentlySpoken", "d0/d42/a14924.html#abea34396ddde0aa02a073b2f3119fec9", null ]
+    [ "HandleEffectApply", "d0/d42/a14924.html#a404f2134734e1d21201033b3f26e611e", null ],
+    [ "HandleEffectPeriodic", "d0/d42/a14924.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
+    [ "PrepareAuraScript", "d0/d42/a14924.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
+    [ "Register", "d0/d42/a14924.html#ad239472c15ca0c73b053d112f538ecff", null ]
 ];

@@ -1,8 +1,9 @@
 var a09012 =
 [
-    [ "target_mapId", "d4/d5d/a09012.html#af6d7558707c026a6d64f2d7b65a344be", null ],
-    [ "target_Orientation", "d4/d5d/a09012.html#a5f6bf883e167b683e048ce9eeebb7cb0", null ],
-    [ "target_X", "d4/d5d/a09012.html#a3ef5faea7a6fd9b173ea35036b3390b2", null ],
-    [ "target_Y", "d4/d5d/a09012.html#a6660d360eaa47098506f246927130e32", null ],
-    [ "target_Z", "d4/d5d/a09012.html#a32fee5f497804089feb738be84548dc1", null ]
+    [ "VehicleAccessory", "d4/d5d/a09012.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
+    [ "AccessoryEntry", "d4/d5d/a09012.html#a6e3cd6b20680974235c146d34b16295a", null ],
+    [ "IsMinion", "d4/d5d/a09012.html#ace3fd27311370e4db4103f2c3ac70410", null ],
+    [ "SeatId", "d4/d5d/a09012.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
+    [ "SummonedType", "d4/d5d/a09012.html#afc843c62c580c860471b0e49f5901363", null ],
+    [ "SummonTime", "d4/d5d/a09012.html#a13a024b3ceacf38ce4907b079d732420", null ]
 ];

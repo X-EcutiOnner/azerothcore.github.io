@@ -1,6 +1,7 @@
 var a17536 =
 [
-    [ "boss_prince_valanarAI", "d0/d49/a17540.html", "d0/d49/a17540" ],
-    [ "boss_prince_valanar_icc", "d5/d41/a17536.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
-    [ "GetAI", "d5/d41/a17536.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
+    [ "HandleEffectPeriodic", "d5/d41/a17536.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
+    [ "PrepareAuraScript", "d5/d41/a17536.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
+    [ "Register", "d5/d41/a17536.html#a5a44978cec95fef30c9ea4308bda2508", null ],
+    [ "Validate", "d5/d41/a17536.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
 ];

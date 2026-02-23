@@ -1,6 +1,8 @@
 var a28988 =
 [
-    [ "id", "d3/d0e/a28988.html#a5acc1b246a76073e1c97513251a4143d", null ],
-    [ "id", "d3/d0e/a28988.html#aaf844f570afdf7439ae7fbe0bbdc39e7", null ],
-    [ "name", "d3/d0e/a28988.html#ae5d1244981224aed1b7477caedd70175", null ]
+    [ "ID", "d3/d0e/a28988.html#a36958c346c8554d9ab1cfb73ac583818", null ],
+    [ "Model", "d3/d0e/a28988.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
+    [ "Origin", "d3/d0e/a28988.html#a684c69add50ee545ee606ae456a93336", null ],
+    [ "OriginFacing", "d3/d0e/a28988.html#a460723250353c7720cd87677991283cf", null ],
+    [ "SoundID", "d3/d0e/a28988.html#aa56be05c7ab4015738e049d75ff365c6", null ]
 ];

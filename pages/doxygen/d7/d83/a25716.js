@@ -1,6 +1,6 @@
 var a25716 =
 [
-    [ "HandleFinish", "d7/d83/a25716.html#a97cef2944f3fcc11aa6898bc8455ab21", null ],
-    [ "PrepareSpellScript", "d7/d83/a25716.html#a62920503172dc58ac864a23e90a98dd9", null ],
-    [ "Register", "d7/d83/a25716.html#ab40419508a1903869aa2b36a590301ba", null ]
+    [ "HandleDummyTick", "d7/d83/a25716.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
+    [ "PrepareAuraScript", "d7/d83/a25716.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
+    [ "Register", "d7/d83/a25716.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
 ];

@@ -1,7 +1,6 @@
 var a15664 =
 [
-    [ "npc_prospector_remtravelAI", "d7/d78/a15668.html", "d7/d78/a15668" ],
-    [ "npc_prospector_remtravel", "de/d5a/a15664.html#aa213161fc60e615682252125f6c58f7f", null ],
-    [ "GetAI", "de/d5a/a15664.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
-    [ "OnQuestAccept", "de/d5a/a15664.html#a5e11149b6359927a71c98242d979e65b", null ]
+    [ "HandleOnHit", "de/d5a/a15664.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
+    [ "PrepareSpellScript", "de/d5a/a15664.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
+    [ "Register", "de/d5a/a15664.html#a1e608d67914c0071a913d96d70c625d6", null ]
 ];

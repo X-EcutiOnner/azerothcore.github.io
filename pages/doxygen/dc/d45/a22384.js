@@ -1,6 +1,5 @@
 var a22384 =
 [
-    [ "npc_bushwhackerAI", "dc/d45/a22384.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
-    [ "InitializeAI", "dc/d45/a22384.html#a18db5870e62378ff49472f7a5881861c", null ],
-    [ "UpdateAI", "dc/d45/a22384.html#aadc3384626d728942897fe93750f0c02", null ]
+    [ "go_scourge_enclosure", "dc/d45/a22384.html#a3611232cb735f336087d4d3c90f66b8d", null ],
+    [ "OnGossipHello", "dc/d45/a22384.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
 ];

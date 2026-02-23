@@ -1,6 +1,7 @@
 var a27640 =
 [
-    [ "guard_shattrath_aldorAI", "d1/db1/a27644.html", "d1/db1/a27644" ],
-    [ "guard_shattrath_aldor", "db/dc5/a27640.html#ab965295d9c3828ad814f658670b5f185", null ],
-    [ "GetAI", "db/dc5/a27640.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
+    [ "HandleRemove", "db/dc5/a27640.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
+    [ "PrepareAuraScript", "db/dc5/a27640.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
+    [ "Register", "db/dc5/a27640.html#a338ee9c0eddd309ce2a791160059bad6", null ],
+    [ "Validate", "db/dc5/a27640.html#ae8272b65a070fc959af003f701567c3c", null ]
 ];

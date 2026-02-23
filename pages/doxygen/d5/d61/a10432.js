@@ -1,7 +1,6 @@
 var a10432 =
 [
-    [ "InstanceMapScript", "d5/d61/a10432.html#a350d328f82cc5e7ea43f3c8779d25a67", null ],
-    [ "checkValidity", "d5/d61/a10432.html#a221dd91e2d2f761e66d990a6cae42306", null ],
-    [ "GetInstanceScript", "d5/d61/a10432.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8", null ],
-    [ "IsDatabaseBound", "d5/d61/a10432.html#ab77651bb427813a7e119057c3dc53ca8", null ]
+    [ "ALEScript", "d5/d61/a10432.html#a3949e8bd9d83297871c60778f3fe9f9e", null ],
+    [ "CanAreaTrigger", "d5/d61/a10432.html#ad5d8f66949b0f7638dd85ccba4c569d0", null ],
+    [ "OnWeatherChange", "d5/d61/a10432.html#a109b1cb14f602065ce4346d0370407a7", null ]
 ];

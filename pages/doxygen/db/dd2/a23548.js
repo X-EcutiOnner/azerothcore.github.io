@@ -1,15 +1,17 @@
 var a23548 =
 [
-    [ "instance_the_slave_pens_InstanceMapScript", "db/dd2/a23548.html#a70db3eeeb55784250a13032728220005", null ],
-    [ "GetGuidData", "db/dd2/a23548.html#a77e77209e779b774608f739b258ae419", null ],
-    [ "OnCreatureCreate", "db/dd2/a23548.html#aca6b8148602b8fb95c9a467dc9400b8b", null ],
-    [ "SetGuidData", "db/dd2/a23548.html#a21a29973bcf5ef6925239213ce50bab0", null ],
-    [ "AhuneBunnyGUID", "db/dd2/a23548.html#ad57cefe116f2da6e7c85f36091fe0e94", null ],
-    [ "AhuneGUID", "db/dd2/a23548.html#a8ad4dab281db87bb2d14b925b450f09c", null ],
-    [ "BeamBunnyGUIDs", "db/dd2/a23548.html#a09e3d1ca5d040268578fa770b7153a81", null ],
-    [ "BonfireBunnyGUIDs", "db/dd2/a23548.html#a9de605ffd8092f83af8df5c1725c5d2b", null ],
-    [ "counter", "db/dd2/a23548.html#a4ea85debc35e91668723222e8ea90071", null ],
-    [ "FlameCallerGUIDs", "db/dd2/a23548.html#a50af0f1eaaa4e40d729e797212cf3ba0", null ],
-    [ "FrozenCoreGUID", "db/dd2/a23548.html#a6ac47d1f3eb4d199afdda9ad2a2cc73e", null ],
-    [ "LumaGUID", "db/dd2/a23548.html#a0e9e294b4140dc8b8a5567a54d7b0c42", null ]
+    [ "boss_grand_warlock_nethekurse", "db/dd2/a23548.html#a4eefeb639cf5f0753feb6cfd99cda187", null ],
+    [ "DoAction", "db/dd2/a23548.html#a8288f8c28b61dac574254435534b5e3f", null ],
+    [ "IntroRP", "db/dd2/a23548.html#ae071f8cc7ef44e6c6cf205295debea5f", null ],
+    [ "JustDied", "db/dd2/a23548.html#a48a2ec7beeb5c9685fc627317acea949", null ],
+    [ "JustEngagedWith", "db/dd2/a23548.html#a117d2d737433ea89b37ea1ee58e6c237", null ],
+    [ "JustReachedHome", "db/dd2/a23548.html#afe62561de66fbe7fa92c365a51f01adc", null ],
+    [ "KilledUnit", "db/dd2/a23548.html#ac29fa30bfa8377a07cbfdd1f0964ebfb", null ],
+    [ "Reset", "db/dd2/a23548.html#aceef7aace38f5246ad67a1591b7f301c", null ],
+    [ "SetData", "db/dd2/a23548.html#a6c647262ce7df78c46af6b725cbcc250", null ],
+    [ "UpdateAI", "db/dd2/a23548.html#aca0bd4c71aafd2d1c54e2ca87d538e9a", null ],
+    [ "_canAggro", "db/dd2/a23548.html#a9c577798d5bc87654e6984af02d95c34", null ],
+    [ "_introStarted", "db/dd2/a23548.html#ac7d0737aa28c51cc63d93b8774e536f0", null ],
+    [ "PeonEngagedCount", "db/dd2/a23548.html#a886a0e792cf5ac6afa9670703cb568ff", null ],
+    [ "PeonKilledCount", "db/dd2/a23548.html#a8837d810df1d8b8a505d2d6c98ac8be8", null ]
 ];

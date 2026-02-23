@@ -1,5 +1,6 @@
 var a17000 =
 [
-    [ "achievement_consumption_junction", "da/d39/a17000.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
-    [ "OnCheck", "da/d39/a17000.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
+    [ "boss_acidmawAI", "de/d22/a17004.html", "de/d22/a17004" ],
+    [ "boss_acidmaw", "da/d39/a17000.html#a86e71bf9ae950a4f8efa58d6f679e8bf", null ],
+    [ "GetAI", "da/d39/a17000.html#aacbd4c83e6e9c9790e6cf9a87e3aa9a0", null ]
 ];

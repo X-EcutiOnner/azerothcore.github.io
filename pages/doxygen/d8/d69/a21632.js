@@ -1,6 +1,7 @@
 var a21632 =
 [
-    [ "npc_azure_raiderAI", "da/d1a/a21636.html", "da/d1a/a21636" ],
-    [ "npc_azure_raider", "d8/d69/a21632.html#a249abee0df263e183341193b828a310c", null ],
-    [ "GetAI", "d8/d69/a21632.html#a88a45e3b117c5105f7541d640dda8470", null ]
+    [ "npc_cosmetic_toy_plane", "d8/d69/a21632.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
+    [ "Reset", "d8/d69/a21632.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
+    [ "UpdateAI", "d8/d69/a21632.html#a41d62b314510fbd6637d8eddbea16f96", null ],
+    [ "_movementArray", "d8/d69/a21632.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: TypeMapContainer&lt; OBJECT_TYPES &gt; Class Template Reference</title>
+<title>AzerothCore: SessionKeyGenerator&lt; Hash &gt; Class Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,84 +108,52 @@ $(document).ready(function(){initNavTree('d3/d02/a05368.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d2/d8f/a05365.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">TypeMapContainer&lt; OBJECT_TYPES &gt; Class Template Reference</div></div>
+  <div class="headertitle"><div class="title">SessionKeyGenerator&lt; Hash &gt; Class Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">TypeContainer.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">SessionKeyGenerator.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a4ab8f061208d7733ee65ba768f85f513"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE &gt; </td></tr>
-<tr class="memitem:a4ab8f061208d7733ee65ba768f85f513"><td class="memTemplItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d02/a05368.html#a4ab8f061208d7733ee65ba768f85f513">Count</a> () const</td></tr>
-<tr class="separator:a4ab8f061208d7733ee65ba768f85f513"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a026880bb3378687143ed19fa7b99b41b"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE &gt; </td></tr>
-<tr class="memitem:a026880bb3378687143ed19fa7b99b41b"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d02/a05368.html#a026880bb3378687143ed19fa7b99b41b">insert</a> (SPECIFIC_TYPE *obj)</td></tr>
-<tr class="memdesc:a026880bb3378687143ed19fa7b99b41b"><td class="mdescLeft">&#160;</td><td class="mdescRight">inserts a specific object into the container  <a href="../../d3/d02/a05368.html#a026880bb3378687143ed19fa7b99b41b">More...</a><br /></td></tr>
-<tr class="separator:a026880bb3378687143ed19fa7b99b41b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af75467b56830b1447bebbf974b2747b6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d0e/a05320.html">ContainerMapList</a>&lt; OBJECT_TYPES &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d02/a05368.html#af75467b56830b1447bebbf974b2747b6">GetElements</a> ()</td></tr>
-<tr class="memdesc:af75467b56830b1447bebbf974b2747b6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Removes the object from the container, and returns the removed object.  <a href="../../d3/d02/a05368.html#af75467b56830b1447bebbf974b2747b6">More...</a><br /></td></tr>
-<tr class="separator:af75467b56830b1447bebbf974b2747b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abbdfddc576af5f2d49dddf5e49ad2864"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../dc/d0e/a05320.html">ContainerMapList</a>&lt; OBJECT_TYPES &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d02/a05368.html#abbdfddc576af5f2d49dddf5e49ad2864">GetElements</a> () const</td></tr>
-<tr class="separator:abbdfddc576af5f2d49dddf5e49ad2864"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8fa39e01cd3ed24e13735343ad658cbb"><td class="memTemplParams" colspan="2">template&lt;typename C &gt; </td></tr>
+<tr class="memitem:a8fa39e01cd3ed24e13735343ad658cbb"><td class="memTemplItemLeft" align="right" valign="top">&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d02/a05368.html#a8fa39e01cd3ed24e13735343ad658cbb">SessionKeyGenerator</a> (C const &amp;buf)</td></tr>
+<tr class="separator:a8fa39e01cd3ed24e13735343ad658cbb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2162fde8dbb84fc165faedaafed706b5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d02/a05368.html#a2162fde8dbb84fc165faedaafed706b5">Generate</a> (<a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> *buf, <a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> sz)</td></tr>
+<tr class="separator:a2162fde8dbb84fc165faedaafed706b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a8ef4a180d448dcba2141fc389621433d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d0e/a05320.html">ContainerMapList</a>&lt; OBJECT_TYPES &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d02/a05368.html#a8ef4a180d448dcba2141fc389621433d">i_elements</a></td></tr>
-<tr class="separator:a8ef4a180d448dcba2141fc389621433d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1eb1aafb255ccf771b0a49dcab869297"><td class="memItemLeft" align="right" valign="top">Hash::Digest&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d02/a05368.html#a1eb1aafb255ccf771b0a49dcab869297">o0</a> {}</td></tr>
+<tr class="separator:a1eb1aafb255ccf771b0a49dcab869297"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a462354aed63797a90fc228e6399cb740"><td class="memItemLeft" align="right" valign="top">Hash::Digest&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d02/a05368.html#a462354aed63797a90fc228e6399cb740">o1</a> {}</td></tr>
+<tr class="separator:a462354aed63797a90fc228e6399cb740"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a617205c872f2163026d511809776a775"><td class="memItemLeft" align="right" valign="top">Hash::Digest&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d02/a05368.html#a617205c872f2163026d511809776a775">o2</a> {}</td></tr>
+<tr class="separator:a617205c872f2163026d511809776a775"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7ea5a4a796da94a2dc14570d4336c27b"><td class="memItemLeft" align="right" valign="top">Hash::Digest::const_iterator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d02/a05368.html#a7ea5a4a796da94a2dc14570d4336c27b">o0it</a></td></tr>
+<tr class="separator:a7ea5a4a796da94a2dc14570d4336c27b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;class OBJECT_TYPES&gt;<br />
-class TypeMapContainer&lt; OBJECT_TYPES &gt;</div></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a4ab8f061208d7733ee65ba768f85f513" name="a4ab8f061208d7733ee65ba768f85f513"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4ab8f061208d7733ee65ba768f85f513">&#9670;&#160;</a></span>Count()</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;typename Hash&gt;<br />
+class SessionKeyGenerator&lt; Hash &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a8fa39e01cd3ed24e13735343ad658cbb" name="a8fa39e01cd3ed24e13735343ad658cbb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8fa39e01cd3ed24e13735343ad658cbb">&#9670;&#160;</a></span>SessionKeyGenerator()</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class OBJECT_TYPES &gt; </div>
+template&lt;typename Hash &gt; </div>
 <div class="memtemplate">
-template&lt;class SPECIFIC_TYPE &gt; </div>
+template&lt;typename C &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::size_t <a class="el" href="../../d3/d02/a05368.html">TypeMapContainer</a>&lt; OBJECT_TYPES &gt;::Count </td>
+          <td class="memname"><a class="el" href="../../d3/d02/a05368.html">SessionKeyGenerator</a>&lt; Hash &gt;<a class="el" href="../../d3/d02/a05368.html">::SessionKeyGenerator</a> </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  120</span>{ <span class="keywordflow">return</span> <a class="code hl_function" href="../../df/d15/a04833.html#a2d87541d6d2eceb7467b09f7fa5bd51b">Acore::Count</a>(<a class="code hl_variable" href="../../d3/d02/a05368.html#a8ef4a180d448dcba2141fc389621433d">i_elements</a>, (SPECIFIC_TYPE*)<span class="keyword">nullptr</span>); }</div>
-<div class="ttc" id="aa04833_html_a2d87541d6d2eceb7467b09f7fa5bd51b"><div class="ttname"><a href="../../df/d15/a04833.html#a2d87541d6d2eceb7467b09f7fa5bd51b">Acore::Count</a></div><div class="ttdeci">std::size_t Count(const ContainerMapList&lt; SPECIFIC_TYPE &gt; &amp;elements, SPECIFIC_TYPE *)</div><div class="ttdef"><b>Definition:</b> TypeContainerFunctions.h:159</div></div>
-<div class="ttc" id="aa05368_html_a8ef4a180d448dcba2141fc389621433d"><div class="ttname"><a href="../../d3/d02/a05368.html#a8ef4a180d448dcba2141fc389621433d">TypeMapContainer::i_elements</a></div><div class="ttdeci">ContainerMapList&lt; OBJECT_TYPES &gt; i_elements</div><div class="ttdef"><b>Definition:</b> TypeContainer.h:142</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00159">Acore::Count()</a>, and <a class="el" href="../../#l00142">TypeMapContainer&lt; OBJECT_TYPES &gt;::i_elements</a>.</p>
-
-</div>
-</div>
-<a id="af75467b56830b1447bebbf974b2747b6" name="af75467b56830b1447bebbf974b2747b6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af75467b56830b1447bebbf974b2747b6">&#9670;&#160;</a></span>GetElements() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class OBJECT_TYPES &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dc/d0e/a05320.html">ContainerMapList</a>&lt; OBJECT_TYPES &gt; &amp; <a class="el" href="../../d3/d02/a05368.html">TypeMapContainer</a>&lt; OBJECT_TYPES &gt;::GetElements </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">C const &amp;&#160;</td>
+          <td class="paramname"><em>buf</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -195,65 +163,55 @@ template&lt;class OBJECT_TYPES &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-
-<p>Removes the object from the container, and returns the removed object. </p>
-<div class="fragment"><div class="line"><span class="lineno">  138</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d02/a05368.html#a8ef4a180d448dcba2141fc389621433d">i_elements</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   26</span>                                      :</div>
+<div class="line"><span class="lineno">   27</span>        <a class="code hl_variable" href="../../d3/d02/a05368.html#a7ea5a4a796da94a2dc14570d4336c27b">o0it</a>(<a class="code hl_variable" href="../../d3/d02/a05368.html#a1eb1aafb255ccf771b0a49dcab869297">o0</a>.begin())</div>
+<div class="line"><span class="lineno">   28</span>    {</div>
+<div class="line"><span class="lineno">   29</span>        <a class="code hl_typedef" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <span class="keyword">const</span>* data = std::data(buf);</div>
+<div class="line"><span class="lineno">   30</span>        std::size_t <span class="keyword">const</span> len = std::size(buf);</div>
+<div class="line"><span class="lineno">   31</span>        std::size_t <span class="keyword">const</span> halflen = (len / 2);</div>
+<div class="line"><span class="lineno">   32</span> </div>
+<div class="line"><span class="lineno">   33</span>        <a class="code hl_variable" href="../../d3/d02/a05368.html#a462354aed63797a90fc228e6399cb740">o1</a> = Hash::GetDigestOf(data, halflen);</div>
+<div class="line"><span class="lineno">   34</span>        <a class="code hl_variable" href="../../d3/d02/a05368.html#a617205c872f2163026d511809776a775">o2</a> = Hash::GetDigestOf(data + halflen, len - halflen);</div>
+<div class="line"><span class="lineno">   35</span>        <a class="code hl_variable" href="../../d3/d02/a05368.html#a1eb1aafb255ccf771b0a49dcab869297">o0</a> = Hash::GetDigestOf(<a class="code hl_variable" href="../../d3/d02/a05368.html#a462354aed63797a90fc228e6399cb740">o1</a>, <a class="code hl_variable" href="../../d3/d02/a05368.html#a1eb1aafb255ccf771b0a49dcab869297">o0</a>, <a class="code hl_variable" href="../../d3/d02/a05368.html#a617205c872f2163026d511809776a775">o2</a>);</div>
+<div class="line"><span class="lineno">   36</span>    }</div>
+<div class="ttc" id="aa04337_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa05368_html_a1eb1aafb255ccf771b0a49dcab869297"><div class="ttname"><a href="../../d3/d02/a05368.html#a1eb1aafb255ccf771b0a49dcab869297">SessionKeyGenerator::o0</a></div><div class="ttdeci">Hash::Digest o0</div><div class="ttdef"><b>Definition:</b> SessionKeyGenerator.h:53</div></div>
+<div class="ttc" id="aa05368_html_a462354aed63797a90fc228e6399cb740"><div class="ttname"><a href="../../d3/d02/a05368.html#a462354aed63797a90fc228e6399cb740">SessionKeyGenerator::o1</a></div><div class="ttdeci">Hash::Digest o1</div><div class="ttdef"><b>Definition:</b> SessionKeyGenerator.h:54</div></div>
+<div class="ttc" id="aa05368_html_a617205c872f2163026d511809776a775"><div class="ttname"><a href="../../d3/d02/a05368.html#a617205c872f2163026d511809776a775">SessionKeyGenerator::o2</a></div><div class="ttdeci">Hash::Digest o2</div><div class="ttdef"><b>Definition:</b> SessionKeyGenerator.h:55</div></div>
+<div class="ttc" id="aa05368_html_a7ea5a4a796da94a2dc14570d4336c27b"><div class="ttname"><a href="../../d3/d02/a05368.html#a7ea5a4a796da94a2dc14570d4336c27b">SessionKeyGenerator::o0it</a></div><div class="ttdeci">Hash::Digest::const_iterator o0it</div><div class="ttdef"><b>Definition:</b> SessionKeyGenerator.h:56</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00142">TypeMapContainer&lt; OBJECT_TYPES &gt;::i_elements</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00054">VisitorHelper()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00053">SessionKeyGenerator&lt; Hash &gt;::o0</a>, <a class="el" href="../../#l00054">SessionKeyGenerator&lt; Hash &gt;::o1</a>, and <a class="el" href="../../#l00055">SessionKeyGenerator&lt; Hash &gt;::o2</a>.</p>
 
 </div>
 </div>
-<a id="abbdfddc576af5f2d49dddf5e49ad2864" name="abbdfddc576af5f2d49dddf5e49ad2864"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abbdfddc576af5f2d49dddf5e49ad2864">&#9670;&#160;</a></span>GetElements() <span class="overload">[2/2]</span></h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a2162fde8dbb84fc165faedaafed706b5" name="a2162fde8dbb84fc165faedaafed706b5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2162fde8dbb84fc165faedaafed706b5">&#9670;&#160;</a></span>Generate()</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class OBJECT_TYPES &gt; </div>
+template&lt;typename Hash &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="el" href="../../dc/d0e/a05320.html">ContainerMapList</a>&lt; OBJECT_TYPES &gt; &amp; <a class="el" href="../../d3/d02/a05368.html">TypeMapContainer</a>&lt; OBJECT_TYPES &gt;::GetElements </td>
+          <td class="memname">void <a class="el" href="../../d3/d02/a05368.html">SessionKeyGenerator</a>&lt; Hash &gt;::Generate </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> *&#160;</td>
+          <td class="paramname"><em>buf</em>, </td>
         </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  139</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d02/a05368.html#a8ef4a180d448dcba2141fc389621433d">i_elements</a>;}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00142">TypeMapContainer&lt; OBJECT_TYPES &gt;::i_elements</a>.</p>
-
-</div>
-</div>
-<a id="a026880bb3378687143ed19fa7b99b41b" name="a026880bb3378687143ed19fa7b99b41b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a026880bb3378687143ed19fa7b99b41b">&#9670;&#160;</a></span>insert()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class OBJECT_TYPES &gt; </div>
-<div class="memtemplate">
-template&lt;class SPECIFIC_TYPE &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
         <tr>
-          <td class="memname">bool <a class="el" href="../../d3/d02/a05368.html">TypeMapContainer</a>&lt; OBJECT_TYPES &gt;::insert </td>
-          <td>(</td>
-          <td class="paramtype">SPECIFIC_TYPE *&#160;</td>
-          <td class="paramname"><em>obj</em></td><td>)</td>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>sz</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -262,32 +220,40 @@ template&lt;class SPECIFIC_TYPE &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-
-<p>inserts a specific object into the container </p>
-<div class="fragment"><div class="line"><span class="lineno">  125</span>    {</div>
-<div class="line"><span class="lineno">  126</span>        SPECIFIC_TYPE* t = <a class="code hl_function" href="../../df/d15/a04833.html#aa25dd64d4a28b7d93e2c8bf4cf93d888">Acore::Insert</a>(<a class="code hl_variable" href="../../d3/d02/a05368.html#a8ef4a180d448dcba2141fc389621433d">i_elements</a>, obj);</div>
-<div class="line"><span class="lineno">  127</span>        <span class="keywordflow">return</span> (t != <span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno">  128</span>    }</div>
-<div class="ttc" id="aa04833_html_aa25dd64d4a28b7d93e2c8bf4cf93d888"><div class="ttname"><a href="../../df/d15/a04833.html#aa25dd64d4a28b7d93e2c8bf4cf93d888">Acore::Insert</a></div><div class="ttdeci">bool Insert(ContainerUnorderedMap&lt; SPECIFIC_TYPE, KEY_TYPE &gt; &amp;elements, KEY_TYPE const &amp;handle, SPECIFIC_TYPE *obj)</div><div class="ttdef"><b>Definition:</b> TypeContainerFunctions.h:34</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   39</span>    {</div>
+<div class="line"><span class="lineno">   40</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; sz; ++i)</div>
+<div class="line"><span class="lineno">   41</span>        {</div>
+<div class="line"><span class="lineno">   42</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d02/a05368.html#a7ea5a4a796da94a2dc14570d4336c27b">o0it</a> == <a class="code hl_variable" href="../../d3/d02/a05368.html#a1eb1aafb255ccf771b0a49dcab869297">o0</a>.end())</div>
+<div class="line"><span class="lineno">   43</span>            {</div>
+<div class="line"><span class="lineno">   44</span>                <a class="code hl_variable" href="../../d3/d02/a05368.html#a1eb1aafb255ccf771b0a49dcab869297">o0</a> = Hash::GetDigestOf(<a class="code hl_variable" href="../../d3/d02/a05368.html#a462354aed63797a90fc228e6399cb740">o1</a>, <a class="code hl_variable" href="../../d3/d02/a05368.html#a1eb1aafb255ccf771b0a49dcab869297">o0</a>, <a class="code hl_variable" href="../../d3/d02/a05368.html#a617205c872f2163026d511809776a775">o2</a>);</div>
+<div class="line"><span class="lineno">   45</span>                <a class="code hl_variable" href="../../d3/d02/a05368.html#a7ea5a4a796da94a2dc14570d4336c27b">o0it</a> = <a class="code hl_variable" href="../../d3/d02/a05368.html#a1eb1aafb255ccf771b0a49dcab869297">o0</a>.begin();</div>
+<div class="line"><span class="lineno">   46</span>            }</div>
+<div class="line"><span class="lineno">   47</span> </div>
+<div class="line"><span class="lineno">   48</span>            buf[i] = *(<a class="code hl_variable" href="../../d3/d02/a05368.html#a7ea5a4a796da94a2dc14570d4336c27b">o0it</a>++);</div>
+<div class="line"><span class="lineno">   49</span>        }</div>
+<div class="line"><span class="lineno">   50</span>    }</div>
+<div class="ttc" id="aa04337_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00142">TypeMapContainer&lt; OBJECT_TYPES &gt;::i_elements</a>, and <a class="el" href="../../#l00034">Acore::Insert()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00053">SessionKeyGenerator&lt; Hash &gt;::o0</a>, <a class="el" href="../../#l00056">SessionKeyGenerator&lt; Hash &gt;::o0it</a>, <a class="el" href="../../#l00054">SessionKeyGenerator&lt; Hash &gt;::o1</a>, and <a class="el" href="../../#l00055">SessionKeyGenerator&lt; Hash &gt;::o2</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00037">WardenMac::Init()</a>, and <a class="el" href="../../#l00113">WardenWin::Init()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a8ef4a180d448dcba2141fc389621433d" name="a8ef4a180d448dcba2141fc389621433d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8ef4a180d448dcba2141fc389621433d">&#9670;&#160;</a></span>i_elements</h2>
+<a id="a1eb1aafb255ccf771b0a49dcab869297" name="a1eb1aafb255ccf771b0a49dcab869297"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1eb1aafb255ccf771b0a49dcab869297">&#9670;&#160;</a></span>o0</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;class OBJECT_TYPES &gt; </div>
+template&lt;typename Hash &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/d0e/a05320.html">ContainerMapList</a>&lt;OBJECT_TYPES&gt; <a class="el" href="../../d3/d02/a05368.html">TypeMapContainer</a>&lt; OBJECT_TYPES &gt;::i_elements</td>
+          <td class="memname">Hash::Digest <a class="el" href="../../d3/d02/a05368.html">SessionKeyGenerator</a>&lt; Hash &gt;::o0 {}</td>
         </tr>
       </table>
   </td>
@@ -297,7 +263,85 @@ template&lt;class OBJECT_TYPES &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00120">TypeMapContainer&lt; OBJECT_TYPES &gt;::Count()</a>, <a class="el" href="../../#l00138">TypeMapContainer&lt; OBJECT_TYPES &gt;::GetElements()</a>, and <a class="el" href="../../#l00124">TypeMapContainer&lt; OBJECT_TYPES &gt;::insert()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00038">SessionKeyGenerator&lt; Hash &gt;::Generate()</a>, and <a class="el" href="../../#l00026">SessionKeyGenerator&lt; Hash &gt;::SessionKeyGenerator()</a>.</p>
+
+</div>
+</div>
+<a id="a7ea5a4a796da94a2dc14570d4336c27b" name="a7ea5a4a796da94a2dc14570d4336c27b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7ea5a4a796da94a2dc14570d4336c27b">&#9670;&#160;</a></span>o0it</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename Hash &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Hash::Digest::const_iterator <a class="el" href="../../d3/d02/a05368.html">SessionKeyGenerator</a>&lt; Hash &gt;::o0it</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00038">SessionKeyGenerator&lt; Hash &gt;::Generate()</a>.</p>
+
+</div>
+</div>
+<a id="a462354aed63797a90fc228e6399cb740" name="a462354aed63797a90fc228e6399cb740"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a462354aed63797a90fc228e6399cb740">&#9670;&#160;</a></span>o1</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename Hash &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Hash::Digest <a class="el" href="../../d3/d02/a05368.html">SessionKeyGenerator</a>&lt; Hash &gt;::o1 {}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00038">SessionKeyGenerator&lt; Hash &gt;::Generate()</a>, and <a class="el" href="../../#l00026">SessionKeyGenerator&lt; Hash &gt;::SessionKeyGenerator()</a>.</p>
+
+</div>
+</div>
+<a id="a617205c872f2163026d511809776a775" name="a617205c872f2163026d511809776a775"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a617205c872f2163026d511809776a775">&#9670;&#160;</a></span>o2</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename Hash &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Hash::Digest <a class="el" href="../../d3/d02/a05368.html">SessionKeyGenerator</a>&lt; Hash &gt;::o2 {}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00038">SessionKeyGenerator&lt; Hash &gt;::Generate()</a>, and <a class="el" href="../../#l00026">SessionKeyGenerator&lt; Hash &gt;::SessionKeyGenerator()</a>.</p>
 
 </div>
 </div>
@@ -306,8 +350,8 @@ template&lt;class OBJECT_TYPES &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d02/a05368.html">TypeMapContainer</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:12:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d02/a05368.html">SessionKeyGenerator</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:15:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

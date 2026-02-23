@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Globals/GameObjectSummonGroupTest.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Movement/Spline/MoveSplineInitArgs.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,422 +106,40 @@ $(document).ready(function(){initNavTree('d0/ddb/a00542.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">GameObjectSummonGroupTest.cpp File Reference</div></div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#typedef-members">Typedefs</a>  </div>
+  <div class="headertitle"><div class="title">MoveSplineInitArgs.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SmartScriptMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">TemporarySummon.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldMock.h</a>&quot;</code><br />
-<code>#include &quot;gtest/gtest.h&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">MoveSplineFlag.h</a>&quot;</code><br />
+<code>#include &lt;G3D/Vector3.h&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/de6/a28477.html">GameObjectSummonGroupTest</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">union &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d36/a10304.html">Movement::FacingInfo</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d39/a10312.html">Movement::MoveSplineInitArgs</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:ab7d11f87ee9e631646024c59d17e4476"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a00542.html#ab7d11f87ee9e631646024c59d17e4476">TEST_F</a> (<a class="el" href="../../dc/de6/a28477.html">GameObjectSummonGroupTest</a>, DataStructStoresFields)</td></tr>
-<tr class="separator:ab7d11f87ee9e631646024c59d17e4476"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acfeec4740011bc0a61ca33d9e41a00d6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a00542.html#acfeec4740011bc0a61ca33d9e41a00d6">TEST_F</a> (<a class="el" href="../../dc/de6/a28477.html">GameObjectSummonGroupTest</a>, QuaternionIdentity)</td></tr>
-<tr class="separator:acfeec4740011bc0a61ca33d9e41a00d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aae7159cdf8db068232caa791b826eb7a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a00542.html#aae7159cdf8db068232caa791b826eb7a">TEST_F</a> (<a class="el" href="../../dc/de6/a28477.html">GameObjectSummonGroupTest</a>, AccessorReturnsNullForMissing)</td></tr>
-<tr class="separator:aae7159cdf8db068232caa791b826eb7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a853ab9b01e00d9b9106d0802d3ce5c3f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a00542.html#a853ab9b01e00d9b9106d0802d3ce5c3f">TEST_F</a> (<a class="el" href="../../dc/de6/a28477.html">GameObjectSummonGroupTest</a>, AccessorReturnsNullForAllTypes)</td></tr>
-<tr class="separator:a853ab9b01e00d9b9106d0802d3ce5c3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a67cd5610a4da8f7101009bd9c59bc82e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a00542.html#a67cd5610a4da8f7101009bd9c59bc82e">TEST_F</a> (<a class="el" href="../../dc/de6/a28477.html">GameObjectSummonGroupTest</a>, DifferentGroupsAreIndependent)</td></tr>
-<tr class="separator:a67cd5610a4da8f7101009bd9c59bc82e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a23d5442e6e9d8a8eb8b81d8c594dcb44"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a00542.html#a23d5442e6e9d8a8eb8b81d8c594dcb44">TEST_F</a> (<a class="el" href="../../dc/de6/a28477.html">GameObjectSummonGroupTest</a>, SmartActionEnumValue)</td></tr>
-<tr class="separator:a23d5442e6e9d8a8eb8b81d8c594dcb44"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6b4d8d5065242a959f3b761c930eb11f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a00542.html#a6b4d8d5065242a959f3b761c930eb11f">TEST_F</a> (<a class="el" href="../../dc/de6/a28477.html">GameObjectSummonGroupTest</a>, SmartActionUnionSize)</td></tr>
-<tr class="separator:a6b4d8d5065242a959f3b761c930eb11f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a54823c95da2a0c478c7fc82bafb5075e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a00542.html#a54823c95da2a0c478c7fc82bafb5075e">TEST_F</a> (<a class="el" href="../../dc/de6/a28477.html">GameObjectSummonGroupTest</a>, TempSummonGroupKeyOrdering)</td></tr>
-<tr class="separator:a54823c95da2a0c478c7fc82bafb5075e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0e990a163a2003f6224aa808aeb46965"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddb/a00542.html#a0e990a163a2003f6224aa808aeb46965">TEST_F</a> (<a class="el" href="../../dc/de6/a28477.html">GameObjectSummonGroupTest</a>, SummonerTypeValues)</td></tr>
-<tr class="separator:a0e990a163a2003f6224aa808aeb46965"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:db/d40/a04987"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d40/a04987.html">Movement</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a86528b2e04ddf38b80888e45d6b9c37d"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; Vector3 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d40/a04987.html#a86528b2e04ddf38b80888e45d6b9c37d">Movement::PointsArray</a></td></tr>
+<tr class="separator:a86528b2e04ddf38b80888e45d6b9c37d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a853ab9b01e00d9b9106d0802d3ce5c3f" name="a853ab9b01e00d9b9106d0802d3ce5c3f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a853ab9b01e00d9b9106d0802d3ce5c3f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/9]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/de6/a28477.html">GameObjectSummonGroupTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">AccessorReturnsNullForAllTypes&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   84</span>{</div>
-<div class="line"><span class="lineno">   85</span>    <span class="keyword">auto</span> <span class="keyword">const</span>* r1 = <a class="code hl_define" href="../../d5/d10/a02396.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetGameObjectSummonGroup(</div>
-<div class="line"><span class="lineno">   86</span>        99999, <a class="code hl_enumvalue" href="../../da/d17/a01046.html#ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a">SUMMONER_TYPE_CREATURE</a>, 0);</div>
-<div class="line"><span class="lineno">   87</span>    <span class="keyword">auto</span> <span class="keyword">const</span>* r2 = <a class="code hl_define" href="../../d5/d10/a02396.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetGameObjectSummonGroup(</div>
-<div class="line"><span class="lineno">   88</span>        99999, <a class="code hl_enumvalue" href="../../da/d17/a01046.html#ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347">SUMMONER_TYPE_GAMEOBJECT</a>, 0);</div>
-<div class="line"><span class="lineno">   89</span>    <span class="keyword">auto</span> <span class="keyword">const</span>* r3 = <a class="code hl_define" href="../../d5/d10/a02396.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetGameObjectSummonGroup(</div>
-<div class="line"><span class="lineno">   90</span>        99999, <a class="code hl_enumvalue" href="../../da/d17/a01046.html#ac8a8d6d0515f6d559068f8aaae56e188a0550300777cb9771bd92e040ccef0270">SUMMONER_TYPE_MAP</a>, 0);</div>
-<div class="line"><span class="lineno">   91</span> </div>
-<div class="line"><span class="lineno">   92</span>    EXPECT_EQ(r1, <span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno">   93</span>    EXPECT_EQ(r2, <span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno">   94</span>    EXPECT_EQ(r3, <span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno">   95</span>}</div>
-<div class="ttc" id="aa01046_html_ac8a8d6d0515f6d559068f8aaae56e188a0550300777cb9771bd92e040ccef0270"><div class="ttname"><a href="../../da/d17/a01046.html#ac8a8d6d0515f6d559068f8aaae56e188a0550300777cb9771bd92e040ccef0270">SUMMONER_TYPE_MAP</a></div><div class="ttdeci">@ SUMMONER_TYPE_MAP</div><div class="ttdef"><b>Definition:</b> TemporarySummon.h:28</div></div>
-<div class="ttc" id="aa01046_html_ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a"><div class="ttname"><a href="../../da/d17/a01046.html#ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a">SUMMONER_TYPE_CREATURE</a></div><div class="ttdeci">@ SUMMONER_TYPE_CREATURE</div><div class="ttdef"><b>Definition:</b> TemporarySummon.h:26</div></div>
-<div class="ttc" id="aa01046_html_ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347"><div class="ttname"><a href="../../da/d17/a01046.html#ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347">SUMMONER_TYPE_GAMEOBJECT</a></div><div class="ttdeci">@ SUMMONER_TYPE_GAMEOBJECT</div><div class="ttdef"><b>Definition:</b> TemporarySummon.h:27</div></div>
-<div class="ttc" id="aa02396_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../d5/d10/a02396.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1699</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01699">sObjectMgr</a>, <a class="el" href="../../#l00026">SUMMONER_TYPE_CREATURE</a>, <a class="el" href="../../#l00027">SUMMONER_TYPE_GAMEOBJECT</a>, and <a class="el" href="../../#l00028">SUMMONER_TYPE_MAP</a>.</p>
-
-</div>
-</div>
-<a id="aae7159cdf8db068232caa791b826eb7a" name="aae7159cdf8db068232caa791b826eb7a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aae7159cdf8db068232caa791b826eb7a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/9]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/de6/a28477.html">GameObjectSummonGroupTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">AccessorReturnsNullForMissing&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   77</span>{</div>
-<div class="line"><span class="lineno">   78</span>    <span class="keyword">auto</span> <span class="keyword">const</span>* result = <a class="code hl_define" href="../../d5/d10/a02396.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetGameObjectSummonGroup(</div>
-<div class="line"><span class="lineno">   79</span>        99999, <a class="code hl_enumvalue" href="../../da/d17/a01046.html#ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a">SUMMONER_TYPE_CREATURE</a>, 0);</div>
-<div class="line"><span class="lineno">   80</span>    EXPECT_EQ(result, <span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno">   81</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01699">sObjectMgr</a>, and <a class="el" href="../../#l00026">SUMMONER_TYPE_CREATURE</a>.</p>
-
-</div>
-</div>
-<a id="ab7d11f87ee9e631646024c59d17e4476" name="ab7d11f87ee9e631646024c59d17e4476"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab7d11f87ee9e631646024c59d17e4476">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/9]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/de6/a28477.html">GameObjectSummonGroupTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">DataStructStoresFields&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   46</span>{</div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_struct" href="../../d4/df7/a08225.html">GameObjectSummonData</a> data;</div>
-<div class="line"><span class="lineno">   48</span>    data.<a class="code hl_variable" href="../../d4/df7/a08225.html#ad0d74d6216c9b6cb6fbeda55fb002072">entry</a> = 2332;</div>
-<div class="line"><span class="lineno">   49</span>    data.<a class="code hl_variable" href="../../d4/df7/a08225.html#af264c1262d9fcd204a2a536847a613b1">pos</a>.<a class="code hl_function" href="../../de/dd8/a08565.html#afdbf0a257fcd7a48066fd92c4eacae3b">Relocate</a>(-14652.38f, 146.51f, 3.50f, 0.35f);</div>
-<div class="line"><span class="lineno">   50</span>    data.<a class="code hl_variable" href="../../d4/df7/a08225.html#a776668c1b71e0cf9f3e0f0619498ae72">rot</a> = G3D::Quat(0.0f, 0.0f, 0.17f, 0.98f);</div>
-<div class="line"><span class="lineno">   51</span>    data.<a class="code hl_variable" href="../../d4/df7/a08225.html#abeadd86c92a8c301626dde6943da1b9b">respawnTime</a> = 120;</div>
-<div class="line"><span class="lineno">   52</span> </div>
-<div class="line"><span class="lineno">   53</span>    EXPECT_EQ(data.<a class="code hl_variable" href="../../d4/df7/a08225.html#ad0d74d6216c9b6cb6fbeda55fb002072">entry</a>, 2332u);</div>
-<div class="line"><span class="lineno">   54</span>    EXPECT_FLOAT_EQ(data.<a class="code hl_variable" href="../../d4/df7/a08225.html#af264c1262d9fcd204a2a536847a613b1">pos</a>.<a class="code hl_function" href="../../de/dd8/a08565.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>(), -14652.38f);</div>
-<div class="line"><span class="lineno">   55</span>    EXPECT_FLOAT_EQ(data.<a class="code hl_variable" href="../../d4/df7/a08225.html#af264c1262d9fcd204a2a536847a613b1">pos</a>.<a class="code hl_function" href="../../de/dd8/a08565.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>(), 146.51f);</div>
-<div class="line"><span class="lineno">   56</span>    EXPECT_FLOAT_EQ(data.<a class="code hl_variable" href="../../d4/df7/a08225.html#af264c1262d9fcd204a2a536847a613b1">pos</a>.<a class="code hl_function" href="../../de/dd8/a08565.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>(), 3.50f);</div>
-<div class="line"><span class="lineno">   57</span>    EXPECT_FLOAT_EQ(data.<a class="code hl_variable" href="../../d4/df7/a08225.html#af264c1262d9fcd204a2a536847a613b1">pos</a>.<a class="code hl_function" href="../../de/dd8/a08565.html#a74cabfb8f441acb38e1abd5bf6ecdc84">GetOrientation</a>(), 0.35f);</div>
-<div class="line"><span class="lineno">   58</span>    EXPECT_FLOAT_EQ(data.<a class="code hl_variable" href="../../d4/df7/a08225.html#a776668c1b71e0cf9f3e0f0619498ae72">rot</a>.x, 0.0f);</div>
-<div class="line"><span class="lineno">   59</span>    EXPECT_FLOAT_EQ(data.<a class="code hl_variable" href="../../d4/df7/a08225.html#a776668c1b71e0cf9f3e0f0619498ae72">rot</a>.y, 0.0f);</div>
-<div class="line"><span class="lineno">   60</span>    EXPECT_FLOAT_EQ(data.<a class="code hl_variable" href="../../d4/df7/a08225.html#a776668c1b71e0cf9f3e0f0619498ae72">rot</a>.z, 0.17f);</div>
-<div class="line"><span class="lineno">   61</span>    EXPECT_FLOAT_EQ(data.<a class="code hl_variable" href="../../d4/df7/a08225.html#a776668c1b71e0cf9f3e0f0619498ae72">rot</a>.w, 0.98f);</div>
-<div class="line"><span class="lineno">   62</span>    EXPECT_EQ(data.<a class="code hl_variable" href="../../d4/df7/a08225.html#abeadd86c92a8c301626dde6943da1b9b">respawnTime</a>, 120u);</div>
-<div class="line"><span class="lineno">   63</span>}</div>
-<div class="ttc" id="aa08225_html"><div class="ttname"><a href="../../d4/df7/a08225.html">GameObjectSummonData</a></div><div class="ttdoc">Stores data for temp gameobject summons.</div><div class="ttdef"><b>Definition:</b> TemporarySummon.h:42</div></div>
-<div class="ttc" id="aa08225_html_a776668c1b71e0cf9f3e0f0619498ae72"><div class="ttname"><a href="../../d4/df7/a08225.html#a776668c1b71e0cf9f3e0f0619498ae72">GameObjectSummonData::rot</a></div><div class="ttdeci">G3D::Quat rot</div><div class="ttdef"><b>Definition:</b> TemporarySummon.h:45</div></div>
-<div class="ttc" id="aa08225_html_abeadd86c92a8c301626dde6943da1b9b"><div class="ttname"><a href="../../d4/df7/a08225.html#abeadd86c92a8c301626dde6943da1b9b">GameObjectSummonData::respawnTime</a></div><div class="ttdeci">uint32 respawnTime</div><div class="ttdoc">Duration in seconds; passed to SummonGameObject's respawnTime parameter.</div><div class="ttdef"><b>Definition:</b> TemporarySummon.h:46</div></div>
-<div class="ttc" id="aa08225_html_ad0d74d6216c9b6cb6fbeda55fb002072"><div class="ttname"><a href="../../d4/df7/a08225.html#ad0d74d6216c9b6cb6fbeda55fb002072">GameObjectSummonData::entry</a></div><div class="ttdeci">uint32 entry</div><div class="ttdef"><b>Definition:</b> TemporarySummon.h:43</div></div>
-<div class="ttc" id="aa08225_html_af264c1262d9fcd204a2a536847a613b1"><div class="ttname"><a href="../../d4/df7/a08225.html#af264c1262d9fcd204a2a536847a613b1">GameObjectSummonData::pos</a></div><div class="ttdeci">Position pos</div><div class="ttdef"><b>Definition:</b> TemporarySummon.h:44</div></div>
-<div class="ttc" id="aa08565_html_a4e813a59345a6275e8b87b96be03e60b"><div class="ttname"><a href="../../de/dd8/a08565.html#a4e813a59345a6275e8b87b96be03e60b">Position::GetPositionZ</a></div><div class="ttdeci">float GetPositionZ() const</div><div class="ttdef"><b>Definition:</b> Position.h:123</div></div>
-<div class="ttc" id="aa08565_html_a74cabfb8f441acb38e1abd5bf6ecdc84"><div class="ttname"><a href="../../de/dd8/a08565.html#a74cabfb8f441acb38e1abd5bf6ecdc84">Position::GetOrientation</a></div><div class="ttdeci">float GetOrientation() const</div><div class="ttdef"><b>Definition:</b> Position.h:124</div></div>
-<div class="ttc" id="aa08565_html_ad5577c934d9e845b44759b67c534c3e8"><div class="ttname"><a href="../../de/dd8/a08565.html#ad5577c934d9e845b44759b67c534c3e8">Position::GetPositionX</a></div><div class="ttdeci">float GetPositionX() const</div><div class="ttdef"><b>Definition:</b> Position.h:121</div></div>
-<div class="ttc" id="aa08565_html_ae79fc664f6cd027f5d49f6c7df8e4c9e"><div class="ttname"><a href="../../de/dd8/a08565.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">Position::GetPositionY</a></div><div class="ttdeci">float GetPositionY() const</div><div class="ttdef"><b>Definition:</b> Position.h:122</div></div>
-<div class="ttc" id="aa08565_html_afdbf0a257fcd7a48066fd92c4eacae3b"><div class="ttname"><a href="../../de/dd8/a08565.html#afdbf0a257fcd7a48066fd92c4eacae3b">Position::Relocate</a></div><div class="ttdeci">void Relocate(float x, float y)</div><div class="ttdef"><b>Definition:</b> Position.h:77</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00043">GameObjectSummonData::entry</a>, <a class="el" href="../../#l00124">Position::GetOrientation()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l00044">GameObjectSummonData::pos</a>, <a class="el" href="../../#l00077">Position::Relocate()</a>, <a class="el" href="../../#l00046">GameObjectSummonData::respawnTime</a>, and <a class="el" href="../../#l00045">GameObjectSummonData::rot</a>.</p>
-
-</div>
-</div>
-<a id="a67cd5610a4da8f7101009bd9c59bc82e" name="a67cd5610a4da8f7101009bd9c59bc82e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a67cd5610a4da8f7101009bd9c59bc82e">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/9]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/de6/a28477.html">GameObjectSummonGroupTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">DifferentGroupsAreIndependent&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   98</span>{</div>
-<div class="line"><span class="lineno">   99</span>    <span class="keyword">auto</span> <span class="keyword">const</span>* g0 = <a class="code hl_define" href="../../d5/d10/a02396.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetGameObjectSummonGroup(</div>
-<div class="line"><span class="lineno">  100</span>        2289, <a class="code hl_enumvalue" href="../../da/d17/a01046.html#ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347">SUMMONER_TYPE_GAMEOBJECT</a>, 0);</div>
-<div class="line"><span class="lineno">  101</span>    <span class="keyword">auto</span> <span class="keyword">const</span>* g1 = <a class="code hl_define" href="../../d5/d10/a02396.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetGameObjectSummonGroup(</div>
-<div class="line"><span class="lineno">  102</span>        2289, <a class="code hl_enumvalue" href="../../da/d17/a01046.html#ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347">SUMMONER_TYPE_GAMEOBJECT</a>, 1);</div>
-<div class="line"><span class="lineno">  103</span> </div>
-<div class="line"><span class="lineno">  104</span>    <span class="comment">// Both should be null since DB isn&#39;t loaded in tests,</span></div>
-<div class="line"><span class="lineno">  105</span>    <span class="comment">// but they should be independent lookups</span></div>
-<div class="line"><span class="lineno">  106</span>    EXPECT_EQ(g0, <span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno">  107</span>    EXPECT_EQ(g1, <span class="keyword">nullptr</span>);</div>
-<div class="line"><span class="lineno">  108</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01699">sObjectMgr</a>, and <a class="el" href="../../#l00027">SUMMONER_TYPE_GAMEOBJECT</a>.</p>
-
-</div>
-</div>
-<a id="acfeec4740011bc0a61ca33d9e41a00d6" name="acfeec4740011bc0a61ca33d9e41a00d6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acfeec4740011bc0a61ca33d9e41a00d6">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/9]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/de6/a28477.html">GameObjectSummonGroupTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">QuaternionIdentity&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   66</span>{</div>
-<div class="line"><span class="lineno">   67</span>    <a class="code hl_struct" href="../../d4/df7/a08225.html">GameObjectSummonData</a> data;</div>
-<div class="line"><span class="lineno">   68</span>    data.<a class="code hl_variable" href="../../d4/df7/a08225.html#a776668c1b71e0cf9f3e0f0619498ae72">rot</a> = G3D::Quat(0.0f, 0.0f, 0.0f, 1.0f);</div>
-<div class="line"><span class="lineno">   69</span> </div>
-<div class="line"><span class="lineno">   70</span>    EXPECT_FLOAT_EQ(data.<a class="code hl_variable" href="../../d4/df7/a08225.html#a776668c1b71e0cf9f3e0f0619498ae72">rot</a>.x, 0.0f);</div>
-<div class="line"><span class="lineno">   71</span>    EXPECT_FLOAT_EQ(data.<a class="code hl_variable" href="../../d4/df7/a08225.html#a776668c1b71e0cf9f3e0f0619498ae72">rot</a>.y, 0.0f);</div>
-<div class="line"><span class="lineno">   72</span>    EXPECT_FLOAT_EQ(data.<a class="code hl_variable" href="../../d4/df7/a08225.html#a776668c1b71e0cf9f3e0f0619498ae72">rot</a>.z, 0.0f);</div>
-<div class="line"><span class="lineno">   73</span>    EXPECT_FLOAT_EQ(data.<a class="code hl_variable" href="../../d4/df7/a08225.html#a776668c1b71e0cf9f3e0f0619498ae72">rot</a>.w, 1.0f);</div>
-<div class="line"><span class="lineno">   74</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00045">GameObjectSummonData::rot</a>.</p>
-
-</div>
-</div>
-<a id="a23d5442e6e9d8a8eb8b81d8c594dcb44" name="a23d5442e6e9d8a8eb8b81d8c594dcb44"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a23d5442e6e9d8a8eb8b81d8c594dcb44">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/9]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/de6/a28477.html">GameObjectSummonGroupTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">SmartActionEnumValue&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  111</span>{</div>
-<div class="line"><span class="lineno">  112</span>    EXPECT_EQ(<a class="code hl_enumvalue" href="../../d9/d95/a02075.html#a7b5604e647b8ac28cc6a4a64deceeebcad03c959080e5b54a651937725bfb366e">SMART_ACTION_SUMMON_GAMEOBJECT_GROUP</a>, 241);</div>
-<div class="line"><span class="lineno">  113</span>    EXPECT_EQ(<a class="code hl_enumvalue" href="../../d9/d95/a02075.html#a7b5604e647b8ac28cc6a4a64deceeebcaacf291aa22d320776664fc49e057aae6">SMART_ACTION_AC_END</a>, 242);</div>
-<div class="line"><span class="lineno">  114</span>}</div>
-<div class="ttc" id="aa02075_html_a7b5604e647b8ac28cc6a4a64deceeebcaacf291aa22d320776664fc49e057aae6"><div class="ttname"><a href="../../d9/d95/a02075.html#a7b5604e647b8ac28cc6a4a64deceeebcaacf291aa22d320776664fc49e057aae6">SMART_ACTION_AC_END</a></div><div class="ttdeci">@ SMART_ACTION_AC_END</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:730</div></div>
-<div class="ttc" id="aa02075_html_a7b5604e647b8ac28cc6a4a64deceeebcad03c959080e5b54a651937725bfb366e"><div class="ttname"><a href="../../d9/d95/a02075.html#a7b5604e647b8ac28cc6a4a64deceeebcad03c959080e5b54a651937725bfb366e">SMART_ACTION_SUMMON_GAMEOBJECT_GROUP</a></div><div class="ttdeci">@ SMART_ACTION_SUMMON_GAMEOBJECT_GROUP</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:728</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00730">SMART_ACTION_AC_END</a>, and <a class="el" href="../../#l00728">SMART_ACTION_SUMMON_GAMEOBJECT_GROUP</a>.</p>
-
-</div>
-</div>
-<a id="a6b4d8d5065242a959f3b761c930eb11f" name="a6b4d8d5065242a959f3b761c930eb11f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6b4d8d5065242a959f3b761c930eb11f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/9]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/de6/a28477.html">GameObjectSummonGroupTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">SmartActionUnionSize&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  117</span>{</div>
-<div class="line"><span class="lineno">  118</span>    <a class="code hl_struct" href="../../d1/dbd/a06541.html">SmartAction</a> action{};</div>
-<div class="line"><span class="lineno">  119</span>    action.<a class="code hl_variable" href="../../d1/dbd/a06541.html#a7af2a40cf8f7aff1a2c8659a018fe36b">gameobjectGroup</a>.<a class="code hl_variable" href="../../d1/dbd/a06541.html#a1d13703c1d7fcf9e39845203c7e38879">group</a> = 5;</div>
-<div class="line"><span class="lineno">  120</span>    EXPECT_EQ(action.gameobjectGroup.group, 5u);</div>
-<div class="line"><span class="lineno">  121</span>}</div>
-<div class="ttc" id="aa06541_html"><div class="ttname"><a href="../../d1/dbd/a06541.html">SmartAction</a></div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:745</div></div>
-<div class="ttc" id="aa06541_html_a1d13703c1d7fcf9e39845203c7e38879"><div class="ttname"><a href="../../d1/dbd/a06541.html#a1d13703c1d7fcf9e39845203c7e38879">SmartAction::group</a></div><div class="ttdeci">uint32 group</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:1259</div></div>
-<div class="ttc" id="aa06541_html_a7af2a40cf8f7aff1a2c8659a018fe36b"><div class="ttname"><a href="../../d1/dbd/a06541.html#a7af2a40cf8f7aff1a2c8659a018fe36b">SmartAction::gameobjectGroup</a></div><div class="ttdeci">struct SmartAction::@75::@199 gameobjectGroup</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../d1/dbd/a06541.html#a7af2a40cf8f7aff1a2c8659a018fe36b">SmartAction::gameobjectGroup</a>, and <a class="el" href="../../#l01259">SmartAction::group</a>.</p>
-
-</div>
-</div>
-<a id="a0e990a163a2003f6224aa808aeb46965" name="a0e990a163a2003f6224aa808aeb46965"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0e990a163a2003f6224aa808aeb46965">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/9]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/de6/a28477.html">GameObjectSummonGroupTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">SummonerTypeValues&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  137</span>{</div>
-<div class="line"><span class="lineno">  138</span>    EXPECT_EQ(<a class="code hl_enumvalue" href="../../da/d17/a01046.html#ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a">SUMMONER_TYPE_CREATURE</a>, 0);</div>
-<div class="line"><span class="lineno">  139</span>    EXPECT_EQ(<a class="code hl_enumvalue" href="../../da/d17/a01046.html#ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347">SUMMONER_TYPE_GAMEOBJECT</a>, 1);</div>
-<div class="line"><span class="lineno">  140</span>    EXPECT_EQ(<a class="code hl_enumvalue" href="../../da/d17/a01046.html#ac8a8d6d0515f6d559068f8aaae56e188a0550300777cb9771bd92e040ccef0270">SUMMONER_TYPE_MAP</a>, 2);</div>
-<div class="line"><span class="lineno">  141</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00026">SUMMONER_TYPE_CREATURE</a>, <a class="el" href="../../#l00027">SUMMONER_TYPE_GAMEOBJECT</a>, and <a class="el" href="../../#l00028">SUMMONER_TYPE_MAP</a>.</p>
-
-</div>
-</div>
-<a id="a54823c95da2a0c478c7fc82bafb5075e" name="a54823c95da2a0c478c7fc82bafb5075e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a54823c95da2a0c478c7fc82bafb5075e">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/9]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/de6/a28477.html">GameObjectSummonGroupTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">TempSummonGroupKeyOrdering&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  124</span>{</div>
-<div class="line"><span class="lineno">  125</span>    <a class="code hl_struct" href="../../d0/df2/a08973.html">TempSummonGroupKey</a> k1(100, <a class="code hl_enumvalue" href="../../da/d17/a01046.html#ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a">SUMMONER_TYPE_CREATURE</a>, 0);</div>
-<div class="line"><span class="lineno">  126</span>    <a class="code hl_struct" href="../../d0/df2/a08973.html">TempSummonGroupKey</a> k2(100, <a class="code hl_enumvalue" href="../../da/d17/a01046.html#ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347">SUMMONER_TYPE_GAMEOBJECT</a>, 0);</div>
-<div class="line"><span class="lineno">  127</span>    <a class="code hl_struct" href="../../d0/df2/a08973.html">TempSummonGroupKey</a> k3(100, <a class="code hl_enumvalue" href="../../da/d17/a01046.html#ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a">SUMMONER_TYPE_CREATURE</a>, 1);</div>
-<div class="line"><span class="lineno">  128</span>    <a class="code hl_struct" href="../../d0/df2/a08973.html">TempSummonGroupKey</a> k4(200, <a class="code hl_enumvalue" href="../../da/d17/a01046.html#ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a">SUMMONER_TYPE_CREATURE</a>, 0);</div>
-<div class="line"><span class="lineno">  129</span> </div>
-<div class="line"><span class="lineno">  130</span>    <span class="comment">// std::tuple ordering: summoner ID first, then type, then group</span></div>
-<div class="line"><span class="lineno">  131</span>    EXPECT_LT(k1, k2);  <span class="comment">// same id, creature &lt; gameobject</span></div>
-<div class="line"><span class="lineno">  132</span>    EXPECT_LT(k1, k3);  <span class="comment">// same id+type, group 0 &lt; 1</span></div>
-<div class="line"><span class="lineno">  133</span>    EXPECT_LT(k1, k4);  <span class="comment">// id 100 &lt; 200</span></div>
-<div class="line"><span class="lineno">  134</span>}</div>
-<div class="ttc" id="aa08973_html"><div class="ttname"><a href="../../d0/df2/a08973.html">TempSummonGroupKey</a></div><div class="ttdoc">Key for storing temp summon data in TempSummonDataContainer.</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:65</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00026">SUMMONER_TYPE_CREATURE</a>, and <a class="el" href="../../#l00027">SUMMONER_TYPE_GAMEOBJECT</a>.</p>
-
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_4078a875a6d63902e5ef80a2620acb56.html">Globals</a></li><li class="navelem"><a class="el" href="../../d0/ddb/a00542.html">GameObjectSummonGroupTest.cpp</a></li>
-    <li class="footer">Generated on Mon Feb 16 2026 21:01:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_0787b0a4fdc11b0654465feaa92c32a3.html">Movement</a></li><li class="navelem"><a class="el" href="../../dir_cd5f8786a04521b4a96eac0f95f95a85.html">Spline</a></li><li class="navelem"><a class="el" href="../../d0/ddb/a00542.html">MoveSplineInitArgs.h</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:13:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

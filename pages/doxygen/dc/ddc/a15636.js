@@ -1,7 +1,6 @@
 var a15636 =
 [
-    [ "HandleEffectRemove", "dc/ddc/a15636.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
-    [ "PrepareAuraScript", "dc/ddc/a15636.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
-    [ "Register", "dc/ddc/a15636.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
-    [ "AuraEffectHandleModes", "dc/ddc/a15636.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
+    [ "boss_veknilash", "dc/ddc/a15636.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
+    [ "IAmVeklor", "dc/ddc/a15636.html#a454027d829b962ee0feebb6fd5687714", null ],
+    [ "JustEngagedWith", "dc/ddc/a15636.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
 ];

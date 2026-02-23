@@ -1,6 +1,6 @@
 var a25156 =
 [
-    [ "HandleOnEffectHit", "d6/d11/a25156.html#a07b15e180ee79149cad15b32b3c94359", null ],
-    [ "PrepareSpellScript", "d6/d11/a25156.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
-    [ "Register", "d6/d11/a25156.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
+    [ "HandleScriptEffect", "d6/d11/a25156.html#ab3f415ae783f2a778178cc3319b32773", null ],
+    [ "PrepareSpellScript", "d6/d11/a25156.html#a4ba7f7935c4acda891190dc375086dee", null ],
+    [ "Register", "d6/d11/a25156.html#ad9b1571b4faf7d0fc6df7f6a8eb05c8a", null ]
 ];

@@ -1,5 +1,6 @@
 var a28420 =
 [
-    [ "Id", "df/dc6/a28420.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
-    [ "textid", "df/dc6/a28420.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
+    [ "npc_air_force_botsAI", "de/deb/a28424.html", "de/deb/a28424" ],
+    [ "npc_air_force_bots", "df/dc6/a28420.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
+    [ "GetAI", "df/dc6/a28420.html#ae971e34d61b0f960d8f5940f9015523d", null ]
 ];

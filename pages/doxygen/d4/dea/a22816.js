@@ -1,8 +1,6 @@
 var a22816 =
 [
-    [ "boss_pandemonius", "d4/dea/a22816.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
-    [ "JustDied", "d4/dea/a22816.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
-    [ "JustEngagedWith", "d4/dea/a22816.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
-    [ "KilledUnit", "d4/dea/a22816.html#a26a012afe8c418c8da283c7b9f983e89", null ],
-    [ "PullRoom", "d4/dea/a22816.html#a05011127290350f11cc1a333b23dbb04", null ]
+    [ "boss_essence_of_sufferingAI", "de/d03/a22820.html", "de/d03/a22820" ],
+    [ "boss_essence_of_suffering", "d4/dea/a22816.html#a1237f428657f0e9a0218695264358384", null ],
+    [ "GetAI", "d4/dea/a22816.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
 ];

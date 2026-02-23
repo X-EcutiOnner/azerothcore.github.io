@@ -1,23 +1,23 @@
 var a03908 =
 [
-    [ "npc_eris_hevenfire", "dc/db6/a13893.html", "dc/db6/a13893" ],
-    [ "npc_eris_hevenfire::npc_eris_hevenfireAI", "d2/d36/a13897.html", "d2/d36/a13897" ],
-    [ "npc_balance_of_light_and_shadow", "d7/d30/a13901.html", "d7/d30/a13901" ],
-    [ "npc_balance_of_light_and_shadow::npc_balance_of_light_and_shadowAI", "d3/d9e/a13905.html", "d3/d9e/a13905" ],
-    [ "npc_augustus_the_touched", "da/dd0/a13909.html", "da/dd0/a13909" ],
-    [ "eEris", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36fe", [
-      [ "QUEST_BALANCE_OF_LIGHT_AND_SHADOW", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36fea893fed7c9aba464b46eda93ba0ff910e", null ],
-      [ "ITEM_EYE_OF_DIVINITY", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36feaa330f1e90d7e18c5cec4f6ac9eccbf9b", null ],
-      [ "NPC_INJURED_PEASANT", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36feaae13148e0ec5731f2bc25c5cd83fb54a", null ],
-      [ "NPC_PLAGUED_PEASANT", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36fea2e04645dc1fe7fae413d5c2c903c89d2", null ],
-      [ "NPC_SCOURGE_ARCHER", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36fea50dd59f1eeb08594a61c6ad576ad2814", null ],
-      [ "EVENT_SUMMON_PEASANTS", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36fea499f23b6c79690c613e046b3e6394937", null ],
-      [ "EVENT_CHECK_PLAYER", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36fea3d3d147dbdefaa5a8280f3d1bcc15ea8", null ],
-      [ "EVENT_SUMMON_ARCHERS", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36fea84afa1291830b37278989be41610fb72", null ],
-      [ "SPELL_SHOOT", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36fea1b728fa1bb0194534b5b491d35ed871c", null ],
-      [ "SPELL_DEATHS_DOOR", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36fea59bc5812f6dcf3f0e45b673f923490e7", null ],
-      [ "SPELL_SEETHING_PLAGUE", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36feac366f4ed224210fd4352c0ac9fb1c12a", null ],
-      [ "SPELL_ERIS_BLESSING", "dc/dce/a03908.html#a0846b7169aa45fd1ef72775a5f6e36feaaedc6f0db3ab3db342fe3379082ce633", null ]
-    ] ],
-    [ "AddSC_eastern_plaguelands", "dc/dce/a03908.html#aaef7747656518bf0ce052d780430ed88", null ]
+    [ "AddSC_achievement_scripts", "dc/dce/a03908.html#a5091d6f933800f3313078304ad5c38ca", null ],
+    [ "AddSC_action_ip_logger", "dc/dce/a03908.html#a530be5efb251d5ca58e97804e48ad953", null ],
+    [ "AddSC_areatrigger_scripts", "dc/dce/a03908.html#a992f2da647f1f8748c7c9239b52079ad", null ],
+    [ "AddSC_chat_log", "dc/dce/a03908.html#ae796ad81a78a552e5c31fcf6c5c135fa", null ],
+    [ "AddSC_emerald_dragons", "dc/dce/a03908.html#aabef9c5c7a434027ce4d3af6e2b77430", null ],
+    [ "AddSC_generic_creature", "dc/dce/a03908.html#a50f66c4d6429b38157e35a75a0daa31d", null ],
+    [ "AddSC_go_scripts", "dc/dce/a03908.html#a279b19d9fff015d16fc8bbd2fbc9325a", null ],
+    [ "AddSC_guards", "dc/dce/a03908.html#acba582cbc90c710c629dd30926acdca4", null ],
+    [ "AddSC_item_scripts", "dc/dce/a03908.html#a3e28ebf5a580887bb117f786689a34c6", null ],
+    [ "AddSC_npc_innkeeper", "dc/dce/a03908.html#a3ffce1ea6cca981888af85ba67364df9", null ],
+    [ "AddSC_npc_professions", "dc/dce/a03908.html#a428ec531a2dc4e479b5c73e0d0694091", null ],
+    [ "AddSC_npc_stave_of_ancients", "dc/dce/a03908.html#a81e200e5d045a2403cd76a0559a6fd8c", null ],
+    [ "AddSC_npc_taxi", "dc/dce/a03908.html#a36f8a13e2844278c955f3a8155e7a11c", null ],
+    [ "AddSC_npcs_special", "dc/dce/a03908.html#aac822f73be6c9bf1dfaa4bbaec0e5aef", null ],
+    [ "AddSC_player_scripts", "dc/dce/a03908.html#a1f476a8466c12651b57fd55bf13b9617", null ],
+    [ "AddSC_scourge_invasion", "dc/dce/a03908.html#a5e9656f80b8e7b4176a6271aadc2d8e7", null ],
+    [ "AddSC_server_mail", "dc/dce/a03908.html#a8c20fa2f42eb423e39f2aaafe8fadafc", null ],
+    [ "AddSC_suns_reach_reclamation", "dc/dce/a03908.html#ae3e186d64e39803c404f1afb2144557b", null ],
+    [ "AddSC_transport_zeppelins", "dc/dce/a03908.html#a29051596b0a3382db98c6b72f7ff3173", null ],
+    [ "AddWorldScripts", "dc/dce/a03908.html#a5e7b18db76511725a47c51e9ce748575", null ]
 ];

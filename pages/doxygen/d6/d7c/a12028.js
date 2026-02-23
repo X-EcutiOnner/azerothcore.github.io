@@ -1,6 +1,10 @@
 var a12028 =
 [
-    [ "CapturedGroups", "d6/d7c/a12028.html#a6842947e5fbe26c2c4aadc1209395902", null ],
-    [ "CurrentTemplate", "d6/d7c/a12028.html#a6915499b95c29a00cde15c5a7f562158", null ],
-    [ "ZoneName", "d6/d7c/a12028.html#a62633be7d11b2937b301e63f6d1e94e2", null ]
+    [ "bf_commandscript", "d6/d7c/a12028.html#a806ca440ae1b51fffefee9d298dab3df", null ],
+    [ "GetCommands", "d6/d7c/a12028.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
+    [ "HandleBattlefieldEnable", "d6/d7c/a12028.html#a08dd3bdd279c760fe0f126200a01619e", null ],
+    [ "HandleBattlefieldEnd", "d6/d7c/a12028.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
+    [ "HandleBattlefieldStart", "d6/d7c/a12028.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
+    [ "HandleBattlefieldSwitch", "d6/d7c/a12028.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
+    [ "HandleBattlefieldTimer", "d6/d7c/a12028.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
 ];

@@ -1,5 +1,7 @@
 var a28972 =
 [
-    [ "fcc", "d8/d4c/a28972.html#a828a2845e666d6eb47d6d4705a663a3d", null ],
-    [ "fcc_txt", "d8/d4c/a28972.html#acf0f4449ab5a64822833b86b41e2487c", null ]
+    [ "bit_index", "d8/d4c/a28972.html#a1e5cb3fc001169a204507a084435a211", null ],
+    [ "ID", "d8/d4c/a28972.html#a63fe7a87e019780d20e86e48efb02eac", null ],
+    [ "nameFemale", "d8/d4c/a28972.html#ad0380caf2526715faaddc9330062d90a", null ],
+    [ "nameMale", "d8/d4c/a28972.html#a74a767731c96d3d815ddde5a06f68599", null ]
 ];

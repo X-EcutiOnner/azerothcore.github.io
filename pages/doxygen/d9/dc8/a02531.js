@@ -1,8 +1,6 @@
 var a02531 =
 [
-    [ "GetDefaultDatabaseInfo", "d9/dc8/a02531.html#a5560c170776773a1a20d93060003e89d", null ],
-    [ "CHARACTER_DATABASE_INFO_DEFAULT", "d9/dc8/a02531.html#a6854faf653c8b94d9e1b611db3269d1a", null ],
-    [ "EMPTY_DATABASE_INFO", "d9/dc8/a02531.html#aa2920a017ca93e102f17b0ca20885c5b", null ],
-    [ "LOGIN_DATABASE_INFO_DEFAULT", "d9/dc8/a02531.html#aa5457f479ebc812232cc3f0d67fabde1", null ],
-    [ "WORLD_DATABASE_INFO_DEFAULT", "d9/dc8/a02531.html#ad2151db3d84513bc271cf642ad76bb80", null ]
+    [ "instance_razorfen_kraul", "da/d1a/a15392.html", "da/d1a/a15392" ],
+    [ "instance_razorfen_kraul::instance_razorfen_kraul_InstanceMapScript", "d0/ddb/a15396.html", "d0/ddb/a15396" ],
+    [ "AddSC_instance_razorfen_kraul", "d9/dc8/a02531.html#a27080d618fc76ad4f3d6b9e8ad4cc3c0", null ]
 ];

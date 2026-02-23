@@ -1,6 +1,6 @@
 var a22076 =
 [
-    [ "HandleScriptEffect", "d0/d68/a22076.html#aab68c7fac277f4da5a6cf8bf8e6256ea", null ],
-    [ "PrepareSpellScript", "d0/d68/a22076.html#a6b7f628a138ac395a8cc122902ec38b4", null ],
-    [ "Register", "d0/d68/a22076.html#aacf2bbf7b8396fd7cfbfaf34a66f9b61", null ]
+    [ "npc_still_at_it_triggerAI", "d3/da2/a22080.html", "d3/da2/a22080" ],
+    [ "npc_still_at_it_trigger", "d0/d68/a22076.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
+    [ "GetAI", "d0/d68/a22076.html#ae273ea6295f50248d303983d4b4137df", null ]
 ];

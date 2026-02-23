@@ -1,9 +1,16 @@
 var a07268 =
 [
-    [ "entryAlliance", "d1/d58/a07268.html#a0e5dba26d6d335a9d1e5f40e737acddd", null ],
-    [ "entryHorde", "d1/d58/a07268.html#a374fff4b069e89489395246f378b4900", null ],
-    [ "o", "d1/d58/a07268.html#af8a4ec46795bcdbc77c76302a4cfe639", null ],
-    [ "x", "d1/d58/a07268.html#ab557bbe497fc769b390cf0799b6aaed9", null ],
-    [ "y", "d1/d58/a07268.html#a44a8f3fd8d3cac7cfe61471d8b785ad4", null ],
-    [ "z", "d1/d58/a07268.html#adebb903a00687e17d9088f5da2c97f4a", null ]
+    [ "AuctionEntryMap", "d1/d58/a07268.html#ab05cddc8805f4f6745a620aaf78490e6", null ],
+    [ "AuctionHouseObject", "d1/d58/a07268.html#ae980b3dc0cb776fa77810d488c0144aa", null ],
+    [ "~AuctionHouseObject", "d1/d58/a07268.html#abc1f401b8f18c6d5003fa337ed1e76bc", null ],
+    [ "AddAuction", "d1/d58/a07268.html#a9c61fcf5d92ad6cea5af36b1bd5cff5b", null ],
+    [ "GetAuction", "d1/d58/a07268.html#a8f549a3623e3f1c3b0b3a21dfdc24d85", null ],
+    [ "GetAuctions", "d1/d58/a07268.html#ac22a84a7e3f2c6baf5e40a1a43bbf098", null ],
+    [ "GetAuctionsBegin", "d1/d58/a07268.html#ae769fbe419c78c580fc0c6d6b91a6e28", null ],
+    [ "GetAuctionsEnd", "d1/d58/a07268.html#a9526b361608b03716918540116bc6d4d", null ],
+    [ "Getcount", "d1/d58/a07268.html#a49aa833a0d8fd698f116ebdf2544040f", null ],
+    [ "RemoveAuction", "d1/d58/a07268.html#af760e3c74242ab2bbc0cfb03a9224aff", null ],
+    [ "Update", "d1/d58/a07268.html#ae9a2bed6b57af310230134cdf2cfd46a", null ],
+    [ "_auctionsMap", "d1/d58/a07268.html#a92e8694ba6d22e26bedb19b2d0619a9f", null ],
+    [ "_next", "d1/d58/a07268.html#aa8780a803119c4350d367f39daff32a1", null ]
 ];

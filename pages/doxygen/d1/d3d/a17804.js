@@ -1,6 +1,6 @@
 var a17804 =
 [
-    [ "npc_gunshipAI", "d4/d7c/a17808.html", "d4/d7c/a17808" ],
-    [ "npc_gunship", "d1/d3d/a17804.html#a86b3ba622bd6e606cd21f7c7d8dddd1b", null ],
-    [ "GetAI", "d1/d3d/a17804.html#adcd37802a2850f4ec8892f3495d5dc16", null ]
+    [ "BloodboltHitCheck", "d1/d3d/a17804.html#a84873f1ec2c1e214e35d32954622e9af", null ],
+    [ "operator()", "d1/d3d/a17804.html#a1eddfd7bbea8def20dcc080413af6364", null ],
+    [ "_ai", "d1/d3d/a17804.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
 ];

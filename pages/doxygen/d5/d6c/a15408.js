@@ -1,9 +1,5 @@
 var a15408 =
 [
-    [ "npc_giant_eye_tentacle", "d5/d6c/a15408.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
-    [ "JustDied", "d5/d6c/a15408.html#a72cac50a711868256a41c543d0cef3da", null ],
-    [ "JustEngagedWith", "d5/d6c/a15408.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
-    [ "Reset", "d5/d6c/a15408.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
-    [ "UpdateAI", "d5/d6c/a15408.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
-    [ "_portalGUID", "d5/d6c/a15408.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
+    [ "npc_hive_zara_swarmer", "d5/d6c/a15408.html#a374fa63e210e0be8a074af9199126a9e", null ],
+    [ "PathEndReached", "d5/d6c/a15408.html#a3b3510bd00853395b756e1d83d96a474", null ]
 ];

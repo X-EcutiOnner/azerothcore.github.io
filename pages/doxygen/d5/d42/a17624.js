@@ -1,6 +1,7 @@
 var a17624 =
 [
-    [ "boss_blood_queen_lana_thelAI", "d3/d99/a17628.html", "d3/d99/a17628" ],
-    [ "boss_blood_queen_lana_thel", "d5/d42/a17624.html#a9f8fa906f01082caacd106abc2707b07", null ],
-    [ "GetAI", "d5/d42/a17624.html#a7873efd945bdb24228866f639e32879b", null ]
+    [ "HandleScriptEffect", "d5/d42/a17624.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
+    [ "PrepareSpellScript", "d5/d42/a17624.html#aac410690d906867216b40a49d8f15318", null ],
+    [ "Register", "d5/d42/a17624.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
+    [ "Validate", "d5/d42/a17624.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
 ];

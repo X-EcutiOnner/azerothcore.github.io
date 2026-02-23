@@ -1,9 +1,8 @@
 var a11172 =
 [
-    [ "TotemCreated", "d1/dbe/a11172.html#a24c9e483d1edb526330311c719d750df", null ],
-    [ "Write", "d1/dbe/a11172.html#a554900ae7442f00a63c983ea7ea74510", null ],
-    [ "Duration", "d1/dbe/a11172.html#aff6335b86ac051bccb623124905c7180", null ],
-    [ "Slot", "d1/dbe/a11172.html#a0889c816fbef728f1a0a6c530c801eac", null ],
-    [ "SpellID", "d1/dbe/a11172.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
-    [ "Totem", "d1/dbe/a11172.html#a684d15c5368e8065c78e9320eebb676b", null ]
+    [ "CrossedInebriationThreshold", "d1/dbe/a11172.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
+    [ "Write", "d1/dbe/a11172.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
+    [ "Guid", "d1/dbe/a11172.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
+    [ "ItemID", "d1/dbe/a11172.html#a9e48a650bf21872099cdb0626e875fd7", null ],
+    [ "Threshold", "d1/dbe/a11172.html#a87b756b64cbfb8f292f46cce38308095", null ]
 ];

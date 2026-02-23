@@ -1,10 +1,10 @@
 var a25628 =
 [
-    [ "CheckProc", "d5/d8a/a25628.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
-    [ "HandleProc", "d5/d8a/a25628.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
-    [ "OnApply", "d5/d8a/a25628.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
-    [ "OnRemove", "d5/d8a/a25628.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
-    [ "PrepareAuraScript", "d5/d8a/a25628.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
-    [ "Register", "d5/d8a/a25628.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
-    [ "Validate", "d5/d8a/a25628.html#a91c5a0e10c308332e18dc40033049996", null ]
+    [ "CheckPeriodicProc", "d5/d8a/a25628.html#abd7673f268b80681b27a862bd8013de3", null ],
+    [ "CheckProc", "d5/d8a/a25628.html#a439aa5395d222291fbd5943f853d8961", null ],
+    [ "CheckTrapProc", "d5/d8a/a25628.html#a0cbe419bde5ebc30dc599bbdd99d04eb", null ],
+    [ "HandleProc", "d5/d8a/a25628.html#a70fbabc5f07bfff080fe9af6f12d440e", null ],
+    [ "PrepareAuraScript", "d5/d8a/a25628.html#a475320d20875b2d710ed3734b78f4645", null ],
+    [ "Register", "d5/d8a/a25628.html#aca7649a87ace4e22793ca33705b1500c", null ],
+    [ "Validate", "d5/d8a/a25628.html#a45630b6dc703996321286ff16a17e3e3", null ]
 ];

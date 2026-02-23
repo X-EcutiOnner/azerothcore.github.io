@@ -1,9 +1,6 @@
 var a24768 =
 [
-    [ "CheckCast", "db/d7d/a24768.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
-    [ "EntryCheck", "db/d7d/a24768.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
-    [ "HandleBaseDummy", "db/d7d/a24768.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
-    [ "HandleDummy", "db/d7d/a24768.html#a34d9f5699f306b27830ced2129be506c", null ],
-    [ "PrepareSpellScript", "db/d7d/a24768.html#af7aff878540dd34138aa479f532611b6", null ],
-    [ "Register", "db/d7d/a24768.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
+    [ "CheckCast", "db/d7d/a24768.html#aefa91f15300520de7cffad4f4ca82ccf", null ],
+    [ "PrepareSpellScript", "db/d7d/a24768.html#a605e7b8849186c3c2df731cac743a208", null ],
+    [ "Register", "db/d7d/a24768.html#a62533bff915db8323b53352f17c4825f", null ]
 ];

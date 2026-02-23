@@ -1,8 +1,6 @@
 var a14048 =
 [
-    [ "npc_the_scourge_cauldronAI", "d9/dc8/a14048.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
-    [ "DoDie", "d9/dc8/a14048.html#a9f720a27db2943a66b11ad6355690bf5", null ],
-    [ "JustEngagedWith", "d9/dc8/a14048.html#a89954dec2f7d57d933c18822333243ac", null ],
-    [ "MoveInLineOfSight", "d9/dc8/a14048.html#a256195dbe75859d72afcd0defb9ff76e", null ],
-    [ "Reset", "d9/dc8/a14048.html#ab18bb2eb344f45827685786c665b1750", null ]
+    [ "npc_bh_thalorien_dawnseekerAI", "d6/de7/a14052.html", "d6/de7/a14052" ],
+    [ "npc_bh_thalorien_dawnseeker", "d9/dc8/a14048.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
+    [ "GetAI", "d9/dc8/a14048.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
 ];

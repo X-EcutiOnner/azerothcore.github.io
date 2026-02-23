@@ -1,13 +1,7 @@
 var a15456 =
 [
-    [ "boss_sartura", "dc/dfc/a15456.html#a7faaf16a1a56badd1e65a3364d425f02", null ],
-    [ "DamageTaken", "dc/dfc/a15456.html#a9a404743ac8491a9efc7091259706e0f", null ],
-    [ "InitializeAI", "dc/dfc/a15456.html#ae86d0a6b0cd591b3bb18333195109c22", null ],
-    [ "JustDied", "dc/dfc/a15456.html#aceff44022b8d53da41ecfcb1e2317e01", null ],
-    [ "JustEngagedWith", "dc/dfc/a15456.html#ab1c024908117e8460eb89c062d3825dc", null ],
-    [ "KilledUnit", "dc/dfc/a15456.html#a516a75910e872718a519c2a5c9805770", null ],
-    [ "Reset", "dc/dfc/a15456.html#ab3514ad48f622f65d67063723601f8de", null ],
-    [ "UpdateAI", "dc/dfc/a15456.html#af3d093dab3f5191d5da2df36ca9c4a11", null ],
-    [ "berserked", "dc/dfc/a15456.html#a8ad40cee9667500cb0e9533256d216c6", null ],
-    [ "enraged", "dc/dfc/a15456.html#af916ff3f6468b1e48d5b1944442594e5", null ]
+    [ "FilterTargets", "dc/dfc/a15456.html#a59e477333a54ec828a429d15b35d4936", null ],
+    [ "HandleScript", "dc/dfc/a15456.html#a983fe53aa52e53a45685055fde04a3b7", null ],
+    [ "PrepareSpellScript", "dc/dfc/a15456.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
+    [ "Register", "dc/dfc/a15456.html#a45ac61990990f16c98eaa7136297afc5", null ]
 ];

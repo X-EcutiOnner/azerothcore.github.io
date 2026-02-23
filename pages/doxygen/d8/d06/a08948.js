@@ -1,10 +1,11 @@
 var a08948 =
 [
-    [ "mapId", "d8/d06/a08948.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
-    [ "name", "d8/d06/a08948.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
-    [ "orientation", "d8/d06/a08948.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
-    [ "position_x", "d8/d06/a08948.html#a65e7390a1dbb615a155c4f163b830e11", null ],
-    [ "position_y", "d8/d06/a08948.html#a3d3f398cd23566dce721fefeae7af33c", null ],
-    [ "position_z", "d8/d06/a08948.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
-    [ "wnameLow", "d8/d06/a08948.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
+    [ "SpellPeriodicAuraLogInfo", "d8/d06/a08948.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
+    [ "absorb", "d8/d06/a08948.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
+    [ "auraEff", "d8/d06/a08948.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
+    [ "critical", "d8/d06/a08948.html#a51041b901727b4f595d2a886520626ff", null ],
+    [ "damage", "d8/d06/a08948.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
+    [ "multiplier", "d8/d06/a08948.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
+    [ "overDamage", "d8/d06/a08948.html#a51904be3790c99bded697b2cf7c8db23", null ],
+    [ "resist", "d8/d06/a08948.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
 ];

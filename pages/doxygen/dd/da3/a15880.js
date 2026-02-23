@@ -1,13 +1,11 @@
 var a15880 =
 [
-    [ "npc_aquementasAI", "dd/da3/a15880.html#aad63986cdb8a65c528af3ccd114d2041", null ],
-    [ "JustEngagedWith", "dd/da3/a15880.html#a2c12ee9c0bb94a1fcfa23c4279aea72f", null ],
-    [ "Reset", "dd/da3/a15880.html#af71a196ba667c2a8f05940ec7ec43b5e", null ],
-    [ "SendItem", "dd/da3/a15880.html#a60bafbd70783411236dcf3d0bfe244de", null ],
-    [ "UpdateAI", "dd/da3/a15880.html#adc5936d7648e05c98a2cdc9998aa4c6a", null ],
-    [ "AquaJetTimer", "dd/da3/a15880.html#a8506acc69436af869d1404bd95109e68", null ],
-    [ "FrostShockTimer", "dd/da3/a15880.html#ad52c62a0fd8de98b194596dbc998c03d", null ],
-    [ "isFriendly", "dd/da3/a15880.html#a9ac02cfc998bda26a5c531a9f7dbf7c4", null ],
-    [ "SendItemTimer", "dd/da3/a15880.html#a3a0883b43056b176ef2ae55673adacf3", null ],
-    [ "SwitchFactionTimer", "dd/da3/a15880.html#a46f64b9883ae30c3f8d677a3b85a8c6f", null ]
+    [ "npc_troll_volunteerAI", "dd/da3/a15880.html#a7eb0c508122616a6781c8b23210e4062", null ],
+    [ "GetMountId", "dd/da3/a15880.html#a5edc586ded0a1146bb1bd82ca14062cc", null ],
+    [ "InitializeAI", "dd/da3/a15880.html#a1c758c7601624e0620778e13e8ec60a0", null ],
+    [ "MovementInform", "dd/da3/a15880.html#aa1d34a4f3701354899ebdd9b38670b31", null ],
+    [ "Reset", "dd/da3/a15880.html#a31439533de41c2a459af2b4d3af76139", null ],
+    [ "SpellHit", "dd/da3/a15880.html#a0604cdade2ce4da23915ca1fc4a4f475", null ],
+    [ "_complete", "dd/da3/a15880.html#ac7e1cc5f0e4f675d6aad0f6e9b449c15", null ],
+    [ "_mountModel", "dd/da3/a15880.html#ae226345bd324b9c337dc96570117d82b", null ]
 ];

@@ -1,7 +1,9 @@
 var a15288 =
 [
-    [ "go_sand_trap", "de/d36/a15288.html#a58d45acac672cb05988ddca78185b469", null ],
-    [ "Reset", "de/d36/a15288.html#a7071a3e420e9137ca133b471bc217bf3", null ],
-    [ "UpdateAI", "de/d36/a15288.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
-    [ "_scheduler", "de/d36/a15288.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
+    [ "boss_temporus", "de/d36/a15288.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
+    [ "JustDied", "de/d36/a15288.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
+    [ "JustEngagedWith", "de/d36/a15288.html#abe7f18497c1c8b31693980e98b1d1859", null ],
+    [ "KilledUnit", "de/d36/a15288.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
+    [ "MoveInLineOfSight", "de/d36/a15288.html#a18a0279036324498a9daf8c7d0296ffc", null ],
+    [ "OwnTalk", "de/d36/a15288.html#a99356589a048debbc308b8431259da5c", null ]
 ];

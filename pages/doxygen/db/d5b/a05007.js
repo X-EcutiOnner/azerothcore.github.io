@@ -1,10 +1,23 @@
 var a05007 =
 [
-    [ "AreaInfo", "db/d5b/a05007.html#a7cd6d0845a1fea33d4f51deb5890f9f1", null ],
-    [ "AreaInfo", "db/d5b/a05007.html#acdd6c482f37134fdc962a55771003b5c", null ],
-    [ "adtId", "db/d5b/a05007.html#aee38e987da24645d36792a1024235035", null ],
-    [ "groupId", "db/d5b/a05007.html#a6472ad95a025769da84943fc490860e1", null ],
-    [ "mogpFlags", "db/d5b/a05007.html#ae97f4c32ecee4844f2cb0fec92cb21ec", null ],
-    [ "rootId", "db/d5b/a05007.html#a5af47da55bdcb6a92356a33112a41da5", null ],
-    [ "uniqueId", "db/d5b/a05007.html#a4496a2c21c4bca0e8acbd563de282338", null ]
+    [ "AutoEquipItem", "d6/d7b/a11048.html", "d6/d7b/a11048" ],
+    [ "AutoEquipItemSlot", "da/dbf/a11040.html", "da/dbf/a11040" ],
+    [ "AutoStoreBagItem", "db/d6e/a11080.html", "db/d6e/a11080" ],
+    [ "BuybackItem", "d5/d6f/a11064.html", "d5/d6f/a11064" ],
+    [ "BuyItem", "de/d93/a11072.html", "de/d93/a11072" ],
+    [ "BuyItemInSlot", "df/d8e/a11068.html", "df/d8e/a11068" ],
+    [ "CancelTempEnchantment", "d3/de3/a11100.html", "d3/de3/a11100" ],
+    [ "DestroyItem", "d1/dc1/a11052.html", "d1/dc1/a11052" ],
+    [ "EnchantmentLog", "da/de1/a11084.html", "da/de1/a11084" ],
+    [ "ItemEnchantTimeUpdate", "dc/d2c/a11088.html", "dc/d2c/a11088" ],
+    [ "ItemRefund", "db/d12/a11108.html", "db/d12/a11108" ],
+    [ "ItemRefundInfo", "d6/dc7/a11104.html", "d6/dc7/a11104" ],
+    [ "ListInventory", "d0/df3/a11076.html", "d0/df3/a11076" ],
+    [ "ReadItem", "d3/d7a/a11056.html", "d3/d7a/a11056" ],
+    [ "SellItem", "de/d45/a11060.html", "de/d45/a11060" ],
+    [ "SocketGems", "d0/d7b/a11096.html", "d0/d7b/a11096" ],
+    [ "SplitItem", "d7/dc0/a11032.html", "d7/dc0/a11032" ],
+    [ "SwapInventoryItem", "d2/d23/a11036.html", "d2/d23/a11036" ],
+    [ "SwapItem", "dc/d4d/a11044.html", "dc/d4d/a11044" ],
+    [ "WrapItem", "db/d20/a11092.html", "db/d20/a11092" ]
 ];

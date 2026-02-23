@@ -1,5 +1,6 @@
 var a27668 =
 [
-    [ "item_captured_frog", "dc/d27/a27668.html#ad41b743c98c9534453eca8cf1f367366", null ],
-    [ "OnUse", "dc/d27/a27668.html#a1156467ca046a077ea494f92c488bf54", null ]
+    [ "PrepareAuraScript", "dc/d27/a27668.html#a65fa925d99065d028e328a92f2a13805", null ],
+    [ "Register", "dc/d27/a27668.html#a95dc732286adf4327f68e23015d58c21", null ],
+    [ "RemoveEffect", "dc/d27/a27668.html#a3f474c143f64739187b6049cac5e4b38", null ]
 ];

@@ -1,6 +1,6 @@
 var a18016 =
 [
-    [ "npc_vengeful_shadeAI", "de/d41/a18020.html", "de/d41/a18020" ],
-    [ "npc_vengeful_shade", "db/d34/a18016.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
-    [ "GetAI", "db/d34/a18016.html#afa2c672015b43d83bd55050ed020f7e5", null ]
+    [ "npc_gunship_boarding_leaderAI", "de/d41/a18020.html", "de/d41/a18020" ],
+    [ "npc_gunship_boarding_leader", "db/d34/a18016.html#a8390eadab34a89643252f573588b140a", null ],
+    [ "GetAI", "db/d34/a18016.html#ae422c8a1de8fb909a89d2ad2f516e3b4", null ]
 ];

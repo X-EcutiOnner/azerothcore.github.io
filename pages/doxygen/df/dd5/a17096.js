@@ -1,15 +1,5 @@
 var a17096 =
 [
-    [ "boss_falricAI", "df/dd5/a17096.html#a8b333fe1571f98b4e9f44152d130a22d", null ],
-    [ "DoAction", "df/dd5/a17096.html#a2a7de8f939cd3cdc113c841da36e28c8", null ],
-    [ "EnterEvadeMode", "df/dd5/a17096.html#aacb6a3b13fe5ea08ab2ff0e77ff841a4", null ],
-    [ "JustDied", "df/dd5/a17096.html#a4ee3163afcda23102d639740fd628f39", null ],
-    [ "JustEngagedWith", "df/dd5/a17096.html#ae5a8b14e1984dbd2866af7c442c02df2", null ],
-    [ "KilledUnit", "df/dd5/a17096.html#a4a8b45eb85c1328af6beec69f2db1842", null ],
-    [ "Reset", "df/dd5/a17096.html#a0af8ef161bc2a37a5c7f7fa880194251", null ],
-    [ "UpdateAI", "df/dd5/a17096.html#a640036111dcd14e40016342ffdef7d63", null ],
-    [ "events", "df/dd5/a17096.html#aa94ca00db157378071b78142b213de23", null ],
-    [ "pInstance", "df/dd5/a17096.html#aebeae3541bbbf392c44fd52516bb2d98", null ],
-    [ "startFightTimer", "df/dd5/a17096.html#addd560074b840aed36f41883f893340e", null ],
-    [ "uiHopelessnessCount", "df/dd5/a17096.html#a0ad83fb57263116a59976834c6667ea9", null ]
+    [ "achievement_better_off_dred", "df/dd5/a17096.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
+    [ "OnCheck", "df/dd5/a17096.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
 ];

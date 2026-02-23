@@ -1,5 +1,7 @@
 var a08544 =
 [
-    [ "PositionXYStreamer", "d9/d01/a08544.html#a6f165ea30ccb7cdeba0c4e197b3a0e5b", null ],
-    [ "Pos", "d9/d01/a08544.html#afb17e60540233b8861b6e967d0e44e07", null ]
+    [ "EnchStoreItem", "d9/d01/a08544.html#a89019e156774c5b978251479264e5463", null ],
+    [ "EnchStoreItem", "d9/d01/a08544.html#aca83bb20eb6153faeaf599b07b97e357", null ],
+    [ "chance", "d9/d01/a08544.html#a2d3d0cd28c79402b3625694d4676ed8b", null ],
+    [ "ench", "d9/d01/a08544.html#ac2346b6c6c5c09bb63676d72c798d848", null ]
 ];

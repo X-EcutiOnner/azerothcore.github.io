@@ -1,6 +1,7 @@
 var a20920 =
 [
-    [ "npc_xt002_pummellerAI", "db/d9f/a20924.html", "db/d9f/a20924" ],
-    [ "npc_xt002_pummeller", "d4/dc8/a20920.html#af620e31a231ca8fb812324521bad4673", null ],
-    [ "GetAI", "d4/dc8/a20920.html#a9ec4e452a3763c3d03e581a17e5d7efe", null ]
+    [ "HandleEffectCalcPeriodic", "d4/dc8/a20920.html#af01eb94174952de52615734055b17c1a", null ],
+    [ "HandleEffectPeriodic", "d4/dc8/a20920.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
+    [ "PrepareAuraScript", "d4/dc8/a20920.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
+    [ "Register", "d4/dc8/a20920.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
 ];

@@ -1,6 +1,6 @@
 var a22372 =
 [
-    [ "npc_vekjik", "de/d72/a22372.html#a7439c6038237b77ba8623ae92d6cf708", null ],
-    [ "OnGossipHello", "de/d72/a22372.html#acdbba5b4970049e72477eccf6672b0e8", null ],
-    [ "OnGossipSelect", "de/d72/a22372.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
+    [ "npc_released_offspring_harkoaAI", "de/d72/a22372.html#ab1002f002987b6ea2366129afd48d65c", null ],
+    [ "MovementInform", "de/d72/a22372.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
+    [ "Reset", "de/d72/a22372.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
 ];

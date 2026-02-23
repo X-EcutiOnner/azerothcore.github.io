@@ -1,5 +1,8 @@
 var a27576 =
 [
-    [ "go_scourge_cage", "d1/dc7/a27576.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
-    [ "OnGossipHello", "d1/dc7/a27576.html#ab4e97cd290342d623d212cc7cec227d5", null ]
+    [ "CalcPeriodic", "d1/dc7/a27576.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
+    [ "CalculateAmount", "d1/dc7/a27576.html#a525009acb345d6b0a9857c30cfce2230", null ],
+    [ "HandlePeriodic", "d1/dc7/a27576.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
+    [ "PrepareAuraScript", "d1/dc7/a27576.html#a5627212e48a3044a9a7480851787a839", null ],
+    [ "Register", "d1/dc7/a27576.html#a09ea5265d7105a4bd487d383948901a0", null ]
 ];

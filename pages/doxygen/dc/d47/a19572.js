@@ -1,7 +1,6 @@
 var a19572 =
 [
-    [ "HandlePull", "dc/d47/a19572.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "dc/d47/a19572.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "dc/d47/a19572.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "dc/d47/a19572.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "boss_razuvious_minionAI", "d8/d5d/a19576.html", "d8/d5d/a19576" ],
+    [ "boss_razuvious_minion", "dc/d47/a19572.html#ae23d51c9ebfe31f624a749578d27252c", null ],
+    [ "GetAI", "dc/d47/a19572.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
 ];

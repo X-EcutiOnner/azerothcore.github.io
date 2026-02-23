@@ -1,13 +1,10 @@
 var a15452 =
 [
-    [ "npc_dirt_mound", "d8/d69/a15452.html#add7daefa1c96fb9d843248f8ca4796f6", null ],
-    [ "ChaseNewTarget", "d8/d69/a15452.html#a16656fb7ad8cda5916e8da0002cf0292", null ],
-    [ "EnterEvadeMode", "d8/d69/a15452.html#ac5fdeea9dc5553b689d3a8a9b0b73d34", null ],
-    [ "JustEngagedWith", "d8/d69/a15452.html#abf39fb8d63325eea7928b88b2b486ad2", null ],
-    [ "JustSummoned", "d8/d69/a15452.html#a5da17256d0cd4f6cb0e1256afe4b6539", null ],
-    [ "Reset", "d8/d69/a15452.html#ae1662eb73f21351e07d00a717421de68", null ],
-    [ "SetData", "d8/d69/a15452.html#a4faa65dd3260104202e4bdd34bc0b67d", null ],
-    [ "UpdateAI", "d8/d69/a15452.html#a88447191070cf8b84df96db565eef48d", null ],
-    [ "_instance", "d8/d69/a15452.html#ac9f138567a4367aeb5d7b1f6caea90c6", null ],
-    [ "_ouroHealth", "d8/d69/a15452.html#ac83391fa5069ae4574748f82d15e833d", null ]
+    [ "boss_moam", "d8/d69/a15452.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
+    [ "InitializeAI", "d8/d69/a15452.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
+    [ "JustDied", "d8/d69/a15452.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
+    [ "JustEngagedWith", "d8/d69/a15452.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
+    [ "Reset", "d8/d69/a15452.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
+    [ "SummonedCreatureDies", "d8/d69/a15452.html#a8401c5e2bd216deee197617b78d85222", null ],
+    [ "UpdateAI", "d8/d69/a15452.html#aadd8320c6194923b113967d3d6c49a5e", null ]
 ];

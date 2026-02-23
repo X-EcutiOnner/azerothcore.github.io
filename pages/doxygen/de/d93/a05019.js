@@ -1,7 +1,8 @@
 var a05019 =
 [
-    [ "clear", "de/d93/a05019.html#af2120a6bb6aa223baa117e5699c93012", null ],
-    [ "createOrGetMMapMgr", "de/d93/a05019.html#aa7571dc833ba0d2dc6d8bc7bc4b47cdd", null ],
-    [ "InitializeDisabledMaps", "de/d93/a05019.html#a6df048ce34ec1baed2cb35cedf67f5b2", null ],
-    [ "forbiddenMaps", "de/d93/a05019.html#a2301f091e1f1e3359dbded7f054eb219", null ]
+    [ "anonymous_namespace{WeatherMgr.cpp}", "d4/d79/a05020.html", [
+      [ "_weatherData", "d4/d79/a05020.html#ab7d0026c60fbd90f9833172d25e7037f", null ]
+    ] ],
+    [ "GetWeatherData", "d0/d93/a04933.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],
+    [ "LoadWeatherData", "d0/d93/a04933.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ]
 ];

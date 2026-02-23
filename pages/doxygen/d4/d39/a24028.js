@@ -1,6 +1,7 @@
 var a24028 =
 [
-    [ "HandlePeriodic", "d4/d39/a24028.html#aec3f36e2c5fedddd84478b9e3a59e6f4", null ],
-    [ "PrepareAuraScript", "d4/d39/a24028.html#a2b809a60626119f6bcf595bd3581c2be", null ],
-    [ "Register", "d4/d39/a24028.html#a299f84e9c12406c79a56999a13de5c1c", null ]
+    [ "npc_bessyAI", "db/d4b/a24032.html", "db/d4b/a24032" ],
+    [ "npc_bessy", "d4/d39/a24028.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "d4/d39/a24028.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "d4/d39/a24028.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

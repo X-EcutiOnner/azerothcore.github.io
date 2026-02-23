@@ -1,5 +1,5 @@
 var a10532 =
 [
-    [ "UpdatableScript", "db/d67/a10532.html#a2d6cf85d1eb98438b5022804296eff11", null ],
-    [ "OnUpdate", "db/d67/a10532.html#abf328325e08aa0d6adf36e6f70b02328", null ]
+    [ "GenericGameObjectScript", "db/d67/a10532.html#a7d1d46c8d325619637aef9b9dc5419f7", null ],
+    [ "GetAI", "db/d67/a10532.html#a7e3ba0f4a88489de522ae714d628c9ab", null ]
 ];

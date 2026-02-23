@@ -1,8 +1,10 @@
 var a28404 =
 [
-    [ "difficulty", "d4/d86/a28404.html#a2a04df701c13dc49053b09a9587a72a8", null ],
-    [ "encounterIndex", "d4/d86/a28404.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
-    [ "encounterName", "d4/d86/a28404.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
-    [ "id", "d4/d86/a28404.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
-    [ "mapId", "d4/d86/a28404.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
+    [ "npc_training_dummyAI", "d4/d86/a28404.html#a2f10fd0b4365e99446f728883a47eb6a", null ],
+    [ "DamageTaken", "d4/d86/a28404.html#a641c40906a6365f068ccbdba9d033923", null ],
+    [ "EnterEvadeMode", "d4/d86/a28404.html#adb1de124bdb2a986efcfcfc287b6d824", null ],
+    [ "MoveInLineOfSight", "d4/d86/a28404.html#a52f3516e9da6895eeddcdef7a198a6b1", null ],
+    [ "Reset", "d4/d86/a28404.html#af63f500cb3179964c90afab0d4a2c9b7", null ],
+    [ "UpdateAI", "d4/d86/a28404.html#a5e7892a64cd1a5cf678b401b62497bfb", null ],
+    [ "resetTimer", "d4/d86/a28404.html#a443f2f7de257af473d6e9793f34a2071", null ]
 ];

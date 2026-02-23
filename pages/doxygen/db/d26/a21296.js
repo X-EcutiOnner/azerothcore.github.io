@@ -1,10 +1,12 @@
 var a21296 =
 [
-    [ "npc_enslaved_proto_drake", "db/d26/a21296.html#aec835fdc8b1beb270176d5341d26c265", null ],
-    [ "MovementInform", "db/d26/a21296.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
-    [ "Reset", "db/d26/a21296.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
-    [ "SetData", "db/d26/a21296.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
-    [ "UpdateAI", "db/d26/a21296.html#a252f84198df610bac44b6bd9cd80602e", null ],
-    [ "_events", "db/d26/a21296.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
-    [ "_setData", "db/d26/a21296.html#adb997badd8831dea7763eaecc93b7773", null ]
+    [ "boss_lavanthorAI", "db/d26/a21296.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
+    [ "EnterEvadeMode", "db/d26/a21296.html#a0334d92f1ddf30235efe298df622535b", null ],
+    [ "JustDied", "db/d26/a21296.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
+    [ "JustEngagedWith", "db/d26/a21296.html#a9820ec47af72af19f00b172ee138f908", null ],
+    [ "MoveInLineOfSight", "db/d26/a21296.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
+    [ "Reset", "db/d26/a21296.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
+    [ "UpdateAI", "db/d26/a21296.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
+    [ "events", "db/d26/a21296.html#a273adc56adefe9810013bc80950f2624", null ],
+    [ "pInstance", "db/d26/a21296.html#ad6059577c5e131523f39316c2291b421", null ]
 ];

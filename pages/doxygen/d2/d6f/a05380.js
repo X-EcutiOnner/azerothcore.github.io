@@ -1,7 +1,11 @@
 var a05380 =
 [
-    [ "TypeContainerVisitor", "d2/d6f/a05380.html#a1dd5b1ac8e4703358a32431efed8faa2", null ],
-    [ "Visit", "d2/d6f/a05380.html#adf0874fc1f8bb38d2f62530f5667c836", null ],
-    [ "Visit", "d2/d6f/a05380.html#af8110dd70655223f06fb08b552420a6d", null ],
-    [ "i_visitor", "d2/d6f/a05380.html#a7be8eccd05fd489da52e587f51555891", null ]
+    [ "Record", "d2/d6f/a05380.html#a3303a6b7ba364777e368158052dbe1db", null ],
+    [ "getFloat", "d2/d6f/a05380.html#a1647694079553a20a7c6621aa6d4ecf6", null ],
+    [ "getString", "d2/d6f/a05380.html#a833c7017749b6b3109ebdee2ff0d3517", null ],
+    [ "getUInt", "d2/d6f/a05380.html#a6f22775adc36b8955009f3f0bd51f355", null ],
+    [ "getUInt8", "d2/d6f/a05380.html#af6a95de37b34f0204f57323d9a39d110", null ],
+    [ "DBCFileLoader", "d2/d6f/a05380.html#aa9814b507b472e781e08c803e025cc72", null ],
+    [ "file", "d2/d6f/a05380.html#a146dc23a5f24a0d8a1a34f29375b9bcd", null ],
+    [ "offset", "d2/d6f/a05380.html#a06e2c90771be91d9ca948840a07125e8", null ]
 ];

@@ -1,6 +1,5 @@
 var a20300 =
 [
-    [ "boss_vezaxAI", "dc/d1f/a20304.html", "dc/d1f/a20304" ],
-    [ "boss_vezax", "d7/d19/a20300.html#af778f9ef3070598f8ca5109b2f6f0f82", null ],
-    [ "GetAI", "d7/d19/a20300.html#a55c7f1ee93252768ba02e8d0d4634eb9", null ]
+    [ "boss_freya_iron_root", "d7/d19/a20300.html#af35a268c89c025d95c13ea8c87d6516e", null ],
+    [ "JustDied", "d7/d19/a20300.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ]
 ];

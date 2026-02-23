@@ -1,5 +1,7 @@
 var a27544 =
 [
-    [ "go_tablet_of_the_seven", "dc/d64/a27544.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
-    [ "OnGossipHello", "dc/d64/a27544.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
+    [ "HandleProc", "dc/d64/a27544.html#a5e428ae0d1d6b54494a62ca0a77820c9", null ],
+    [ "PrepareAuraScript", "dc/d64/a27544.html#a953eee0cd2f18703ce04b1579d698365", null ],
+    [ "Register", "dc/d64/a27544.html#a8552c78a1d78fae17650a24c25b87ad3", null ],
+    [ "Validate", "dc/d64/a27544.html#aadd49f63e9203d3314c5597ef72f6658", null ]
 ];

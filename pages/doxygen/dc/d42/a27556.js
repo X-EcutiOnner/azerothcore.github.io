@@ -1,5 +1,6 @@
 var a27556 =
 [
-    [ "go_southfury_moonstone", "dc/d42/a27556.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
-    [ "OnGossipHello", "dc/d42/a27556.html#a9d9708da940c1ee37f9eb4558ed97737", null ]
+    [ "HandleSchoolDMG", "dc/d42/a27556.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
+    [ "PrepareSpellScript", "dc/d42/a27556.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
+    [ "Register", "dc/d42/a27556.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
 ];

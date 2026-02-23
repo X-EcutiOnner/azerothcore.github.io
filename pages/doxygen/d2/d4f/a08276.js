@@ -1,5 +1,7 @@
 var a08276 =
 [
-    [ "invisibilityType", "d2/d4f/a08276.html#ac1e874a76fecd4d3eb061722713f6634", null ],
-    [ "InvisibilityValue", "d2/d4f/a08276.html#a8e1741fca7c49f0618a3999e69ae5c81", null ]
+    [ "VendorItemCount", "d2/d4f/a08276.html#abdf2d2900f75bb2b8d9727bab8fcbbc3", null ],
+    [ "count", "d2/d4f/a08276.html#aff4c062138792ffb37dadb19b725c87c", null ],
+    [ "itemId", "d2/d4f/a08276.html#a225158bbb56d6666ba4918155f08f993", null ],
+    [ "lastIncrementTime", "d2/d4f/a08276.html#a0b88ba4ea590abbdc9234ff4a2a335fa", null ]
 ];

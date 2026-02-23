@@ -1,8 +1,7 @@
 var a12900 =
 [
-    [ "HandleEffectRemove", "d1/dac/a12900.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
-    [ "if", "d1/dac/a12900.html#a8596fc98402bf952484c9567f61c7820", null ],
-    [ "PrepareAuraScript", "d1/dac/a12900.html#a4055f781a914de631187b00ba7aefeef", null ],
-    [ "Register", "d1/dac/a12900.html#aefb4bbae43558abde871548088784613", null ],
-    [ "AuraEffectHandleModes", "d1/dac/a12900.html#a7d419ba41e68b70740a867a2265824bd", null ]
+    [ "HandleHit", "d1/dac/a12900.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
+    [ "Load", "d1/dac/a12900.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
+    [ "PrepareSpellScript", "d1/dac/a12900.html#a9fb8d980381264a2ef645f2e620abd21", null ],
+    [ "Register", "d1/dac/a12900.html#a4998015873f0e0ca768c20b0f95fda90", null ]
 ];

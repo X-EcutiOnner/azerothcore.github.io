@@ -1,8 +1,5 @@
 var a09868 =
 [
-    [ "CircleBoundary", "de/d7e/a09868.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
-    [ "CircleBoundary", "de/d7e/a09868.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
-    [ "IsWithinBoundaryArea", "de/d7e/a09868.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
-    [ "_center", "de/d7e/a09868.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
-    [ "_radiusSq", "de/d7e/a09868.html#acbb3cc0c546f0e557a48a45425355950", null ]
+    [ "entry", "de/d7e/a09868.html#a1105fbea33b497bca2a290431cb0f4ca", null ],
+    [ "type", "de/d7e/a09868.html#acaf1010ce0620ee99a2a6b2721a06b89", null ]
 ];

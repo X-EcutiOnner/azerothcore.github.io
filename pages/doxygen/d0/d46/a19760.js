@@ -1,8 +1,14 @@
 var a19760 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "d0/d46/a19760.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
-    [ "CheckAchievementCriteriaMeet", "d0/d46/a19760.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
-    [ "SetData", "d0/d46/a19760.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
-    [ "_bjarngrimAchievement", "d0/d46/a19760.html#aba06463eb70c68716f571951395c6e2a", null ],
-    [ "_volkhanAchievement", "d0/d46/a19760.html#a52db8081961566ef2002424f00b60189", null ]
+    [ "npc_crystalline_frayer", "d0/d46/a19760.html#ade88d8f4d4fd32155b87dfba75084f4c", null ],
+    [ "DamageTaken", "d0/d46/a19760.html#a2580575a58353e8cb94561bafd74f502", null ],
+    [ "EnterEvadeMode", "d0/d46/a19760.html#a9240adcfe966f11c925db82add432aa5", null ],
+    [ "EnterSeedPod", "d0/d46/a19760.html#a070554a809ba40726d005fdba19a16b0", null ],
+    [ "JustEngagedWith", "d0/d46/a19760.html#a91e8c4015b9b238fd2144999bcef9362", null ],
+    [ "LeaveSeedPod", "d0/d46/a19760.html#afe6ba31b18fa65aaa15daad3101149c2", null ],
+    [ "Reset", "d0/d46/a19760.html#a5baa6491ee0205b2b2e7bc8e6cd9a163", null ],
+    [ "UpdateAI", "d0/d46/a19760.html#ab494a601b9a5dc3d4c3c303bc4de3a94", null ],
+    [ "_allowDeath", "d0/d46/a19760.html#adc85054030146067d2cff47db2886a07", null ],
+    [ "_inSeedPod", "d0/d46/a19760.html#a26e0c5f780bc661796f922c52000c30a", null ],
+    [ "_scheduler", "d0/d46/a19760.html#a1faafa1c39716f7679ca0b2b2f10a641", null ]
 ];

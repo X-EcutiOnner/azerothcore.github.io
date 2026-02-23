@@ -1,14 +1,15 @@
 var a20396 =
 [
-    [ "npc_ulduar_hodir_priestAI", "d4/d9d/a20396.html#aaa57c813d15ebf0c08a43e4530e5acdd", null ],
-    [ "AttackStart", "d4/d9d/a20396.html#a54058aacbf9e49f42f4f84779e0ec8ea", null ],
-    [ "CanAIAttack", "d4/d9d/a20396.html#a769a825c8e33bce3a130dbec53072aa4", null ],
-    [ "EnterEvadeMode", "d4/d9d/a20396.html#a2d92c0e03de238de439ccb3a10819cd1", null ],
-    [ "JustDied", "d4/d9d/a20396.html#a23a3783dc151bb7f1c5c4183b22578b0", null ],
-    [ "MoveInLineOfSight", "d4/d9d/a20396.html#aaa3764a042473d20526758553b968a39", null ],
-    [ "ScheduleAbilities", "d4/d9d/a20396.html#aab32336d42900a275613a227ccba18a7", null ],
-    [ "SpellHit", "d4/d9d/a20396.html#af6afbd5b0560fc4665ecb0d00010ecbc", null ],
-    [ "UpdateAI", "d4/d9d/a20396.html#af2b162485414ea0cdda3b19d15c2686f", null ],
-    [ "events", "d4/d9d/a20396.html#afdc842e08125223760d1eac105aef65b", null ],
-    [ "pInstance", "d4/d9d/a20396.html#a9630107a0a8f128c6b62493163a9e246", null ]
+    [ "npc_ulduar_hodir_shaman", "d4/d9d/a20396.html#a6630f2da1a4e1f19b698e9520040b059", null ],
+    [ "AttackStart", "d4/d9d/a20396.html#a933908d61afac33002411874060c0f74", null ],
+    [ "CanAIAttack", "d4/d9d/a20396.html#a8907c7300cef735a70b088de3c16cfb9", null ],
+    [ "EnterEvadeMode", "d4/d9d/a20396.html#afa6124e630cd878659172a06df68d39f", null ],
+    [ "JustDied", "d4/d9d/a20396.html#a08af85d3446c86443ff5a620b159d000", null ],
+    [ "MoveInLineOfSight", "d4/d9d/a20396.html#a29de52dcae485f00403dae8e28ff1395", null ],
+    [ "ScheduleAbilities", "d4/d9d/a20396.html#ab9aa67f07721c0bf60e9db75b5b3e888", null ],
+    [ "SpellHit", "d4/d9d/a20396.html#a02476e4ddb2287c647a2a4bd7e342150", null ],
+    [ "SpellHitTarget", "d4/d9d/a20396.html#a29dcb1ff2d532fa491fcdbdfcac4fbfa", null ],
+    [ "UpdateAI", "d4/d9d/a20396.html#adf8d9895cdd35712fa44e4a19de1315a", null ],
+    [ "events", "d4/d9d/a20396.html#a7e147f6f230513cfb666473c61ab4be4", null ],
+    [ "pInstance", "d4/d9d/a20396.html#a05d8e52fa793df7e0a261cfa7ac3d499", null ]
 ];

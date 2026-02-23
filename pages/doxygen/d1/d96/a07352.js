@@ -1,15 +1,14 @@
 var a07352 =
 [
-    [ "ModifyMatchmakerRating", "d1/d96/a07352.html#aaa6de888c3f85ef8cbe9baa2f997aba1", null ],
-    [ "ModifyPersonalRating", "d1/d96/a07352.html#a34401ea82507df97e540c698fa549b5f", null ],
-    [ "Class", "d1/d96/a07352.html#a5f6519e8ad3281a09608f8740927fbd3", null ],
-    [ "Guid", "d1/d96/a07352.html#ac0dc6765247a0f36b3d3ff527a678010", null ],
-    [ "MatchMakerRating", "d1/d96/a07352.html#ac91a344c7aecb72d17841413f5d935da", null ],
-    [ "MaxMMR", "d1/d96/a07352.html#afc86e111a1c699254c5ea761d0dda088", null ],
-    [ "Name", "d1/d96/a07352.html#a7917e705d8c15bbe2731c32375c34d16", null ],
-    [ "PersonalRating", "d1/d96/a07352.html#a03168b1bdc8e6dac30d3b63e692ce854", null ],
-    [ "SeasonGames", "d1/d96/a07352.html#ae3724b7268c161d5553b8cc1fae2cf75", null ],
-    [ "SeasonWins", "d1/d96/a07352.html#a7239187cef3a02839fe27577ad022ec9", null ],
-    [ "WeekGames", "d1/d96/a07352.html#a97906127f7eb1babe2bf2ebcda7c0a88", null ],
-    [ "WeekWins", "d1/d96/a07352.html#a5b9e5e02d59569080d34abd9b9728693", null ]
+    [ "AutobroadcastsMap", "d1/d96/a07352.html#a9064ad588e8a02d9b60974af4da1c7cf", null ],
+    [ "AutobroadcastsWeightMap", "d1/d96/a07352.html#a75e5b978794a7010c8d9d3390d8690f9", null ],
+    [ "instance", "d1/d96/a07352.html#aead196df7f590d43c89f179ca0bd4a68", null ],
+    [ "LoadAutobroadcasts", "d1/d96/a07352.html#a48748969b122aee47d03697b6e9a2ee1", null ],
+    [ "LoadAutobroadcastsLocalized", "d1/d96/a07352.html#a105fa2c33da0662785551027430d40c6", null ],
+    [ "SendAutobroadcasts", "d1/d96/a07352.html#a225907be4944713af11c312185c8aea7", null ],
+    [ "SendNotificationAnnouncement", "d1/d96/a07352.html#ace584bb6b66c8944e1405ec0af686d3a", null ],
+    [ "SendWorldAnnouncement", "d1/d96/a07352.html#a8be8fd36f843ffd435989c99ce0f9229", null ],
+    [ "_announceType", "d1/d96/a07352.html#a3889edc4001e26519d9df042a8b477fc", null ],
+    [ "_autobroadcasts", "d1/d96/a07352.html#a06d42010fea307a03aac0ca4e6886f1d", null ],
+    [ "_autobroadcastsWeights", "d1/d96/a07352.html#aadbd8ca926a64be4fbbe832fd633ee88", null ]
 ];

@@ -1,8 +1,8 @@
 var a16536 =
 [
-    [ "npc_black_knight_skeletal_gryphonAI", "d2/d57/a16536.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
-    [ "DoAction", "d2/d57/a16536.html#af38e129cdf4af99e99c41b6a98448e56", null ],
-    [ "Reset", "d2/d57/a16536.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
-    [ "UpdateAI", "d2/d57/a16536.html#a851008790128831c5c10710b4cccb196", null ],
-    [ "WaypointReached", "d2/d57/a16536.html#a74b5fb1d3631c404e7797085e45e6159", null ]
+    [ "OnApply", "d2/d57/a16536.html#a96321003a002be0e4838901f03f8a5d8", null ],
+    [ "OnRemove", "d2/d57/a16536.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
+    [ "PrepareAuraScript", "d2/d57/a16536.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
+    [ "Register", "d2/d57/a16536.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
+    [ "Validate", "d2/d57/a16536.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
 ];

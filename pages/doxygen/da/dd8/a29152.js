@@ -1,7 +1,9 @@
 var a29152 =
 [
-    [ "_pad", "da/dd8/a29152.html#ad6e8aff776dfb6fa95c30d0318b3af25", null ],
-    [ "Count", "da/dd8/a29152.html#ac90dd584efc679554d4cee31c988c7c8", null ],
-    [ "Name", "da/dd8/a29152.html#ae93b772cbbe91b9ed55c78e22317c8dd", null ],
-    [ "StartIndex", "da/dd8/a29152.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa", null ]
+    [ "itemId", "da/dd8/a29152.html#ae125712e5569c9699b4748b6a15fbc12", null ],
+    [ "items_to_triggerspell", "da/dd8/a29152.html#a8496a2f3fa3e230def04b996fc585760", null ],
+    [ "name", "da/dd8/a29152.html#a9b62f843833d524f200782d44151503d", null ],
+    [ "required_skill_id", "da/dd8/a29152.html#ab3058ac725fb8f105b9359d5a5147942", null ],
+    [ "required_skill_value", "da/dd8/a29152.html#a58d0997a73cf48061545edbc0201f544", null ],
+    [ "spells", "da/dd8/a29152.html#a8aac032992efe1bfbba0e49693562c7f", null ]
 ];

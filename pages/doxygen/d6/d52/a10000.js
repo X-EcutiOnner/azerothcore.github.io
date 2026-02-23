@@ -1,10 +1,13 @@
 var a10000 =
 [
-    [ "ID", "d6/d52/a10000.html#a3bd2bf63526b6ee4a15cf7a2244ff06b", null ],
-    [ "Map", "d6/d52/a10000.html#af4e60380e8434e5b8f573d2172ddf656", null ],
-    [ "name", "d6/d52/a10000.html#ae1dd7ba1294653756ea4af9d9b66fa2c", null ],
-    [ "wnameLow", "d6/d52/a10000.html#a148ead3270ad02213204792d6063cead", null ],
-    [ "x", "d6/d52/a10000.html#ae8f23fc9e53f6357d56b3a25ed514330", null ],
-    [ "y", "d6/d52/a10000.html#af2e239c4c76dff49090f8f1d8eb4d455", null ],
-    [ "z", "d6/d52/a10000.html#adf56d09898752230a4fa1629849ac945", null ]
+    [ "ParallelogramBoundary", "d6/d52/a10000.html#ace1e1ffbcb84343ca2641541fe000691", null ],
+    [ "IsWithinBoundaryArea", "d6/d52/a10000.html#af29e70a9febaa9d80d0ce7223e2c6fc3", null ],
+    [ "_a", "d6/d52/a10000.html#ad81a1a1f4e82de0e7a31bf13a87bac2b", null ],
+    [ "_abx", "d6/d52/a10000.html#a855c7ea39698f7dac80d72ea6962e9c7", null ],
+    [ "_aby", "d6/d52/a10000.html#ad81b9baeb70d5856ea8cdd3f787abf29", null ],
+    [ "_b", "d6/d52/a10000.html#a9d5d06cc3673f89644e45e62f96510db", null ],
+    [ "_c", "d6/d52/a10000.html#a6c19d4ed0a1c1b6ff042c4bbd64f0a8a", null ],
+    [ "_d", "d6/d52/a10000.html#a5214ac0f79f1d90492a77fbd251d1361", null ],
+    [ "_dax", "d6/d52/a10000.html#aab72030dfa3dd4e4bef03180bd0a306c", null ],
+    [ "_day", "d6/d52/a10000.html#a3b3e3993d09af62bae7fbfe65f6d641a", null ]
 ];

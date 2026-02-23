@@ -1,10 +1,6 @@
 var a22844 =
 [
-    [ "boss_talon_king_ikiss", "d5/dc0/a22844.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
-    [ "JustDied", "d5/dc0/a22844.html#ada1d993842d04453d6afad91e186a3fe", null ],
-    [ "JustEngagedWith", "d5/dc0/a22844.html#a325312ce6695435fcca701720434c64f", null ],
-    [ "KilledUnit", "d5/dc0/a22844.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
-    [ "MoveInLineOfSight", "d5/dc0/a22844.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
-    [ "Reset", "d5/dc0/a22844.html#adcb1dca375ec548499da5a7690babc21", null ],
-    [ "_spoken", "d5/dc0/a22844.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
+    [ "FilterTargets", "d5/dc0/a22844.html#a04973145ed594b88afe2acc0cacb10c6", null ],
+    [ "PrepareSpellScript", "d5/dc0/a22844.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
+    [ "Register", "d5/dc0/a22844.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
 ];

@@ -1,13 +1,16 @@
 var a23584 =
 [
-    [ "boss_ghazan", "d6/d0f/a23584.html#ae730362fcf3606c67b6b85147de98fb6", null ],
-    [ "DoAction", "d6/d0f/a23584.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
-    [ "InitializeAI", "d6/d0f/a23584.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
-    [ "JustEngagedWith", "d6/d0f/a23584.html#ad4136f0f63d267284f36756793c0efa7", null ],
-    [ "JustReachedHome", "d6/d0f/a23584.html#af9f2dd854036d5c8b9c6703499836199", null ],
-    [ "MovementInform", "d6/d0f/a23584.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
-    [ "Reset", "d6/d0f/a23584.html#afc9522a26060643f2f9d25a8a98691b7", null ],
-    [ "UpdateAI", "d6/d0f/a23584.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
-    [ "_movedToPlatform", "d6/d0f/a23584.html#aa6c0c391355ac0b698d67796efd63062", null ],
-    [ "_reachedPlatform", "d6/d0f/a23584.html#af3476318b4721bd52facaf735eabb1f9", null ]
+    [ "boss_warchief_kargath_bladefist", "d6/d0f/a23584.html#a0957dbfd6c085575fa862f38c87b6b3d", null ],
+    [ "InitializeAI", "d6/d0f/a23584.html#a86d9b5b1500960235e76ae71337a6c90", null ],
+    [ "IsInRoom", "d6/d0f/a23584.html#af9d4bd9d94115a1040e1e4a4dbf8df83", null ],
+    [ "JustDied", "d6/d0f/a23584.html#a436b90336c90f6662f3ce704a62f0d90", null ],
+    [ "JustEngagedWith", "d6/d0f/a23584.html#ab3d7b0ebca4f8134e5c2f31422ff006b", null ],
+    [ "JustSummoned", "d6/d0f/a23584.html#aaa69f064d7eb3a0d107c835c806fa1de", null ],
+    [ "KilledUnit", "d6/d0f/a23584.html#a730bbd2f95a2919fba1a7300b4307b84", null ],
+    [ "MovementInform", "d6/d0f/a23584.html#a716eab9bda2b697252dde90aa513d7df", null ],
+    [ "Reset", "d6/d0f/a23584.html#a50fa7a5aed8d3f4916f0449c4fb075ac", null ],
+    [ "RespawnAssassins", "d6/d0f/a23584.html#a1397317259589ea69f77f52f60852043", null ],
+    [ "SummonedCreatureDies", "d6/d0f/a23584.html#a325da34f78d202708a58c1a543ecb8ca", null ],
+    [ "UpdateAI", "d6/d0f/a23584.html#acd463cac8e2fa8289ecb5567709db678", null ],
+    [ "_danceCount", "d6/d0f/a23584.html#af4a60caaef6388caff973295e3397a7d", null ]
 ];

@@ -1,10 +1,8 @@
 var a27704 =
 [
-    [ "npc_prof_tailor", "d3/d0b/a27704.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
-    [ "HasTailorSpell", "d3/d0b/a27704.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
-    [ "OnGossipHello", "d3/d0b/a27704.html#a686098ac43916ea2f82b7c321527863d", null ],
-    [ "OnGossipSelect", "d3/d0b/a27704.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
-    [ "SendActionMenu", "d3/d0b/a27704.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
-    [ "SendConfirmLearn", "d3/d0b/a27704.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
-    [ "SendConfirmUnlearn", "d3/d0b/a27704.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
+    [ "CheckProc", "d3/d0b/a27704.html#a88fc4939e903f4914a41cf18b34ad344", null ],
+    [ "HandleProc", "d3/d0b/a27704.html#a607054f11843147a09b202ea65f68b65", null ],
+    [ "PrepareAuraScript", "d3/d0b/a27704.html#affe76b0d20d431ba459ceb42934689fc", null ],
+    [ "Register", "d3/d0b/a27704.html#a99345afecc0612c33db996cebab99e09", null ],
+    [ "Validate", "d3/d0b/a27704.html#a9b0a80cc044d198178bd629eb8731260", null ]
 ];

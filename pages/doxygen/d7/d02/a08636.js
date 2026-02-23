@@ -1,8 +1,11 @@
 var a08636 =
 [
-    [ "PlayerCreateInfoAction", "d7/d02/a08636.html#a50d56595c71374e132dfe9f988144e75", null ],
-    [ "PlayerCreateInfoAction", "d7/d02/a08636.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
-    [ "action", "d7/d02/a08636.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
-    [ "button", "d7/d02/a08636.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
-    [ "type", "d7/d02/a08636.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
+    [ "PackedGuid", "d7/d02/a08636.html#a9268f8d34f24ef52369d605f94986a8d", null ],
+    [ "PackedGuid", "d7/d02/a08636.html#a6d4559bc2a1d8c27247329c95c2b6156", null ],
+    [ "PackedGuid", "d7/d02/a08636.html#adf388e273472f2699348c7a4361ebac4", null ],
+    [ "Set", "d7/d02/a08636.html#aecbb8650ca713c175c30cd3ebe86b5d5", null ],
+    [ "Set", "d7/d02/a08636.html#ae5d174d63a0b9d33b919f05760290bea", null ],
+    [ "size", "d7/d02/a08636.html#a22ac06b7072951e84bbf69abcd7d58f6", null ],
+    [ "operator<<", "d7/d02/a08636.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
+    [ "_packedGuid", "d7/d02/a08636.html#aeb0e51f1667a2627aabffd6d7cb1779c", null ]
 ];

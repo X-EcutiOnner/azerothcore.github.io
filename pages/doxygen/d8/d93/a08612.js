@@ -1,9 +1,16 @@
 var a08612 =
 [
-    [ "category", "d8/d93/a08612.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
-    [ "end", "d8/d93/a08612.html#a8cc857ef51745900398765164a450a50", null ],
-    [ "itemid", "d8/d93/a08612.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
-    [ "maxduration", "d8/d93/a08612.html#a94b98afb7651e2c6b99ee79f85702259", null ],
-    [ "needSendToClient", "d8/d93/a08612.html#a678f56b6723567f984a0188b85a6f9df", null ],
-    [ "sendToSpectator", "d8/d93/a08612.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
+    [ "UpdateState", "d8/d93/a08612.html#aa4f58928ebfbd115280b12866d9b7d23", [
+      [ "NotUpdating", "d8/d93/a08612.html#aa4f58928ebfbd115280b12866d9b7d23a29cf8e7615ba78787e84d5298e9835ba", null ],
+      [ "PendingAdd", "d8/d93/a08612.html#aa4f58928ebfbd115280b12866d9b7d23acc2e650db938ff5bf5525de448cd8ddf", null ],
+      [ "Updating", "d8/d93/a08612.html#aa4f58928ebfbd115280b12866d9b7d23ad1caed37f15232d71507dbf81af2a919", null ]
+    ] ],
+    [ "UpdatableMapObject", "d8/d93/a08612.html#a5602f3b21fe1299e300e71d645f3eaee", null ],
+    [ "GetMapUpdateListOffset", "d8/d93/a08612.html#a52bf945e86eba8c73701a3e378503eeb", null ],
+    [ "GetUpdateState", "d8/d93/a08612.html#a90b2d1a9f5b356f013ac4a357020de66", null ],
+    [ "SetMapUpdateListOffset", "d8/d93/a08612.html#aef864d62d4cbefb63647fe691d69dfd4", null ],
+    [ "SetUpdateState", "d8/d93/a08612.html#a7c95f861c7e13c17e2ebf8088882a709", null ],
+    [ "Map", "d8/d93/a08612.html#ad2f32e921244459f7cc6d50355429cc6", null ],
+    [ "_mapUpdateListOffset", "d8/d93/a08612.html#af4aaf71a3308e72af67f20bf0e7ced57", null ],
+    [ "_mapUpdateState", "d8/d93/a08612.html#a46f9010396bb1bd84fb654bbe2795f8e", null ]
 ];

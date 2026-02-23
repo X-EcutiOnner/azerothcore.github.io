@@ -1,9 +1,7 @@
 var a10676 =
 [
-    [ "GuildInfoResponse", "d1/d9c/a10676.html#a256cb81ad2e08050be99c9e1061c2009", null ],
-    [ "Write", "d1/d9c/a10676.html#a3222d0018c9593400d3d01258b82371e", null ],
-    [ "CreateDate", "d1/d9c/a10676.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
-    [ "GuildName", "d1/d9c/a10676.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
-    [ "NumAccounts", "d1/d9c/a10676.html#a21b42f1654aa10f7872d87635fea66ac", null ],
-    [ "NumMembers", "d1/d9c/a10676.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
+    [ "ClientPacket", "d1/d9c/a10676.html#aa1d1946c07e248bae5927e83fdad9500", null ],
+    [ "ClientPacket", "d1/d9c/a10676.html#a1cdaaacca2695c4366647c7611073ff0", null ],
+    [ "GetOpcode", "d1/d9c/a10676.html#aa51558bb8faa96a665fe40b1bddf9d14", null ],
+    [ "Write", "d1/d9c/a10676.html#a16e5b9fa05e35fa1e32e33bef2688487", null ]
 ];

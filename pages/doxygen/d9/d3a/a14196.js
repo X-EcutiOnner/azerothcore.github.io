@@ -1,15 +1,10 @@
 var a14196 =
 [
-    [ "npc_amanishi_tempest", "d9/d3a/a14196.html#a8e15b39501998e9f8c45baef0963d160", null ],
-    [ "DoAction", "d9/d3a/a14196.html#a50963cc0aac2560f6ddbf81000943ac3", null ],
-    [ "EnterEvadeMode", "d9/d3a/a14196.html#a66c787bd318fdcad83b7b5008b4979f9", null ],
-    [ "JustDied", "d9/d3a/a14196.html#aadda903d17a5f4560ce2db896bd7b257", null ],
-    [ "JustEngagedWith", "d9/d3a/a14196.html#af277f5d1f73cf79ea8cfcb1e4fc744e3", null ],
-    [ "JustSummoned", "d9/d3a/a14196.html#aac72fdc33051370c3cffa388f466b6be", null ],
-    [ "Reset", "d9/d3a/a14196.html#aa921f85142f9103bea839bdc0330e1cc", null ],
-    [ "ScheduleEvents", "d9/d3a/a14196.html#a09ba0ce51ad981578adcc1950c89d5ae", null ],
-    [ "SummonedCreatureEvade", "d9/d3a/a14196.html#a61eebb122c9288c826cdf352c17e0590", null ],
-    [ "UpdateAI", "d9/d3a/a14196.html#ad8f6b32c3f08eb2a4ac36a8d91434a4d", null ],
-    [ "_instance", "d9/d3a/a14196.html#ab88e1d1ad979192f0519045d8ed2e14f", null ],
-    [ "_summons", "d9/d3a/a14196.html#a4337b2bc417d8dafc4a6d5d10bbd0db9", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "d9/d3a/a14196.html#af7d495f489979690615d091bbd9d539b", null ],
+    [ "CanAIAttack", "d9/d3a/a14196.html#af332a66852c9499912d8ef4959f394f5", null ],
+    [ "InitializeAI", "d9/d3a/a14196.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
+    [ "JustRespawned", "d9/d3a/a14196.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
+    [ "Reset", "d9/d3a/a14196.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
+    [ "UpdateAI", "d9/d3a/a14196.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
+    [ "_events", "d9/d3a/a14196.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
 ];

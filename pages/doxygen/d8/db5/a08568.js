@@ -1,4 +1,5 @@
 var a08568 =
 [
-    [ "PetLoadQueryHolder", "d8/db5/a08568.html#a8dee71a2e729d239b7b05bc172c09e3b", null ]
+    [ "Description", "d8/db5/a08568.html#a4187f2b02014c83bc4f1b3d65d229311", null ],
+    [ "Name", "d8/db5/a08568.html#a787ca2c05ddac7ee5c3a5c28a02b8494", null ]
 ];

@@ -1,9 +1,12 @@
 var a14324 =
 [
-    [ "npc_shade_of_jindo", "d1/d35/a14324.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
-    [ "IsSummonedBy", "d1/d35/a14324.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
-    [ "JustEngagedWith", "d1/d35/a14324.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
-    [ "Reset", "d1/d35/a14324.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
-    [ "UpdateAI", "d1/d35/a14324.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
-    [ "_scheduler", "d1/d35/a14324.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
+    [ "npc_forest_frog", "d1/d35/a14324.html#a6a5e24a11f8d2add6a3e9d71e2e647bb", null ],
+    [ "DoSpawnRandom", "d1/d35/a14324.html#aac140826b8c4b7ce55925b5abeee936e", null ],
+    [ "JustEngagedWith", "d1/d35/a14324.html#aa22c4eb7eb3a84db94ce8eb38afd18f5", null ],
+    [ "MovementInform", "d1/d35/a14324.html#a8260157062b3e4ef48ad47b4f9bf66ac", null ],
+    [ "SpellHit", "d1/d35/a14324.html#a9501955507e1f236bb48384928fd6a32", null ],
+    [ "UpdateAI", "d1/d35/a14324.html#a5e6785d71bfb7f1d7b915723898a99fc", null ],
+    [ "eventTimer", "d1/d35/a14324.html#ac6bf7433f79a9c2803072e7b5370a1c7", null ],
+    [ "instance", "d1/d35/a14324.html#a6294f89eccdb9e5f9edbe8bccb164690", null ],
+    [ "PlayerGUID", "d1/d35/a14324.html#a3544a83bb22e12d247e562ef32e378c0", null ]
 ];

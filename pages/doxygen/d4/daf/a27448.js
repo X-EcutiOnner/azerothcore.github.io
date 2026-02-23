@@ -1,5 +1,6 @@
 var a27448 =
 [
-    [ "go_arena_ready_marker", "d4/daf/a27448.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
-    [ "OnGossipHello", "d4/daf/a27448.html#a9f51ead2b56d51427ff23be9688388d8", null ]
+    [ "HandleKnockBack", "d4/daf/a27448.html#abad9f9293260a3e99be98b43aabb321b", null ],
+    [ "PrepareSpellScript", "d4/daf/a27448.html#a65787b78165631898458264e6ee310f4", null ],
+    [ "Register", "d4/daf/a27448.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
 ];

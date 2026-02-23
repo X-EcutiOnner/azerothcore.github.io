@@ -1,6 +1,6 @@
 var a14348 =
 [
-    [ "npc_ohganAI", "d4/dce/a14352.html", "d4/dce/a14352" ],
-    [ "npc_ohgan", "d1/df4/a14348.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
-    [ "GetAI", "d1/df4/a14348.html#a129dc2fcd449850403e0dcb99725da90", null ]
+    [ "npc_eagle_trash_aggro_trigger", "d1/df4/a14348.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
+    [ "MoveInLineOfSight", "d1/df4/a14348.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
+    [ "_instance", "d1/df4/a14348.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
 ];

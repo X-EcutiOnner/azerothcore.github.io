@@ -1,12 +1,11 @@
 var a13172 =
 [
-    [ "boss_vexallus", "d3/d07/a13172.html#a68c32ed70274e9f135b7a9107f888c91", null ],
-    [ "JustDied", "d3/d07/a13172.html#a5e67671becf3c1ac4ca9f04c79d82cf1", null ],
-    [ "JustEngagedWith", "d3/d07/a13172.html#aa9d37e8132c715552e2ce0102ac9a59b", null ],
-    [ "JustSummoned", "d3/d07/a13172.html#a9bc7808889da754bae9c935418975f90", null ],
-    [ "KilledUnit", "d3/d07/a13172.html#a48d44cc3ed6f0e7f97f76cd325e5c48e", null ],
-    [ "Reset", "d3/d07/a13172.html#a6ecf0817f6b1811fe9c62ac83d4b3dcc", null ],
-    [ "SummonedCreatureDies", "d3/d07/a13172.html#a4bd88222143d8db098312cff8a2fc969", null ],
-    [ "_energyCooldown", "d3/d07/a13172.html#a395d2186d70d1b7e29dbada7750da354", null ],
-    [ "_energyCount", "d3/d07/a13172.html#a4afa4a245b8863c7b0898773932642c8", null ]
+    [ "boss_terestian_illhoof", "d3/d07/a13172.html#a5750bf4f12ac01216335a926f885e136", null ],
+    [ "JustDied", "d3/d07/a13172.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
+    [ "JustEngagedWith", "d3/d07/a13172.html#adc1f9195954eda7ec406ac9a084b7508", null ],
+    [ "JustSummoned", "d3/d07/a13172.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
+    [ "KilledUnit", "d3/d07/a13172.html#ab7de8b406de200eec981fab79a56dcd7", null ],
+    [ "Reset", "d3/d07/a13172.html#a685b00f0e3317740412adfc48df1c3fb", null ],
+    [ "SpellHit", "d3/d07/a13172.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
+    [ "SummonKilrek", "d3/d07/a13172.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
 ];

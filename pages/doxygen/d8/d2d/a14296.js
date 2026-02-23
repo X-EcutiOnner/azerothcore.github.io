@@ -1,9 +1,16 @@
 var a14296 =
 [
-    [ "boss_hazzarah", "d8/d2d/a14296.html#a73ba49b91addc9c03e1692587fe66a52", null ],
-    [ "CanAIAttack", "d8/d2d/a14296.html#a9038a5b4276fda8a6865217a7c494eec", null ],
-    [ "JustEngagedWith", "d8/d2d/a14296.html#a18e382c03ff923bb851a9cd8e2541788", null ],
-    [ "JustSummoned", "d8/d2d/a14296.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
-    [ "SummonedCreatureDies", "d8/d2d/a14296.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
-    [ "UpdateAI", "d8/d2d/a14296.html#a61d92f1650a84ed9684d33879e54bd09", null ]
+    [ "boss_zuljin", "d8/d2d/a14296.html#a8acdf347d7f982c07614c89a101daae0", null ],
+    [ "EnterEvadeMode", "d8/d2d/a14296.html#a1b3da85aa5f4abac16256aa691d035a3", null ],
+    [ "EnterPhase", "d8/d2d/a14296.html#ae9970dba905b947a22c4ddf36bdcb656", null ],
+    [ "GetGUID", "d8/d2d/a14296.html#a29548891ef8efaa5d6baa384e7b9000a", null ],
+    [ "JustDied", "d8/d2d/a14296.html#a2e00e8311c0463a37de87668882ffeec", null ],
+    [ "JustEngagedWith", "d8/d2d/a14296.html#ab6854461a5116e94c9f0ca971a3f89ef", null ],
+    [ "KilledUnit", "d8/d2d/a14296.html#adf220cb760b77cfd09ed746705529064", null ],
+    [ "MovementInform", "d8/d2d/a14296.html#a61501941861f8838392fc8cdbe59feff", null ],
+    [ "Reset", "d8/d2d/a14296.html#a2fe7c0338eb4698cc0aae252f4b14f02", null ],
+    [ "SpawnAdds", "d8/d2d/a14296.html#a83eb0799a25f19eedddd96e609134778", null ],
+    [ "SpellHitTarget", "d8/d2d/a14296.html#aab3558edc5b90be23040077d88e21725", null ],
+    [ "_chargeTargetGUID", "d8/d2d/a14296.html#a3b26fe2e82019ea5ce110d2d0a78f47e", null ],
+    [ "_nextPhase", "d8/d2d/a14296.html#a4fc9983cb34313affa56c243a4164a4a", null ]
 ];

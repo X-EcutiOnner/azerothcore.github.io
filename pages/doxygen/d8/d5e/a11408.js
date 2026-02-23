@@ -1,7 +1,8 @@
 var a11408 =
 [
-    [ "WorldObjectSpellAreaTargetCheck", "d8/d5e/a11408.html#a2b017300220426ac42de18e3a8699219", null ],
-    [ "operator()", "d8/d5e/a11408.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
-    [ "_position", "d8/d5e/a11408.html#a680c45dd148161657da011a1772375ca", null ],
-    [ "_range", "d8/d5e/a11408.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ]
+    [ "PacketFilter", "d8/d5e/a11408.html#accfa43359c62d2e9d6c38086c77374bd", null ],
+    [ "~PacketFilter", "d8/d5e/a11408.html#a669531cfd9c06d5cf525986069117687", null ],
+    [ "Process", "d8/d5e/a11408.html#a03679e3c241a535757608c63ca933ac9", null ],
+    [ "ProcessUnsafe", "d8/d5e/a11408.html#a3e2bdc6d15cfd5cac1b9c130937599e3", null ],
+    [ "m_pSession", "d8/d5e/a11408.html#ad3723289ea93f1095cf82584268335d9", null ]
 ];

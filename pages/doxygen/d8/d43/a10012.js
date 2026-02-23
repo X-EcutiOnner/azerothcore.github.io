@@ -1,10 +1,8 @@
 var a10012 =
 [
-    [ "CreateWorldPacket", "d8/d43/a10012.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
-    [ "GetMotd", "d8/d43/a10012.html#ab589dd8bfad950e02ee716ea9005253f", null ],
-    [ "GetMotdPacket", "d8/d43/a10012.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
-    [ "instance", "d8/d43/a10012.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
-    [ "LoadMotd", "d8/d43/a10012.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
-    [ "LoadMotdLocale", "d8/d43/a10012.html#a21aa89787d5b0bbf69158f799122edd5", null ],
-    [ "SetMotd", "d8/d43/a10012.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
+    [ "BoundaryIntersectBoundary", "d8/d43/a10012.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
+    [ "~BoundaryIntersectBoundary", "d8/d43/a10012.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
+    [ "IsWithinBoundaryArea", "d8/d43/a10012.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
+    [ "_b1", "d8/d43/a10012.html#ab0239437fa92e39d144bf3856eb347c7", null ],
+    [ "_b2", "d8/d43/a10012.html#a41e100c17db99990981293399660824c", null ]
 ];

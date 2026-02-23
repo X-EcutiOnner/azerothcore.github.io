@@ -1,11 +1,7 @@
 var a29168 =
 [
-    [ "material", "d0/d7a/a29168.html#a7079e8817a9684602084eb224f2540fc", null ],
-    [ "pos_x", "d0/d7a/a29168.html#ac4d971cc46506be14716124afbb5ad9c", null ],
-    [ "pos_y", "d0/d7a/a29168.html#a6cd85f2a674d732e88371ffce5e46077", null ],
-    [ "pos_z", "d0/d7a/a29168.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
-    [ "xtiles", "d0/d7a/a29168.html#aca34dfa64624cfe04c314c13bbed0062", null ],
-    [ "xverts", "d0/d7a/a29168.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
-    [ "ytiles", "d0/d7a/a29168.html#a9901a7e9828ac840bc290b0768831d66", null ],
-    [ "yverts", "d0/d7a/a29168.html#abf24042b85692cd0df05d65d734dd99e", null ]
+    [ "ID", "d0/d7a/a29168.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
+    [ "Index", "d0/d7a/a29168.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
+    [ "Skill", "d0/d7a/a29168.html#aed5e58cf605d3c28cd0d26015722be03", null ],
+    [ "Type", "d0/d7a/a29168.html#a39b0b548efd795c162926bddcdd301b5", null ]
 ];

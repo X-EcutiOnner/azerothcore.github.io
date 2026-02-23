@@ -1,6 +1,7 @@
 var a23580 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "d3/d04/a23580.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
-    [ "OnGameObjectCreate", "d3/d04/a23580.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
-    [ "SetBossState", "d3/d04/a23580.html#ab1e344fbf169ee40f28741217f3dca14", null ]
+    [ "HandleOnApply", "d3/d04/a23580.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
+    [ "HandleOnRemove", "d3/d04/a23580.html#aed5f87523c58d94c8f98b76c06abb140", null ],
+    [ "PrepareAuraScript", "d3/d04/a23580.html#ab32413873bec92540f9e85e8013b7ea2", null ],
+    [ "Register", "d3/d04/a23580.html#a0653d8688f98822580a3243a0d47c17a", null ]
 ];

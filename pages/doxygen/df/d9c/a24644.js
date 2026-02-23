@@ -1,9 +1,7 @@
 var a24644 =
 [
-    [ "npc_pet_shaman_fire_elemental", "df/d9c/a24644.html#a3428642963fc9e7588ec92fd838f1af9", null ],
-    [ "InitializeAI", "df/d9c/a24644.html#aef4865f83ce0c73efe0c47a11ac87594", null ],
-    [ "JustEngagedWith", "df/d9c/a24644.html#ac274b9edb03ab13a8e95d8c4fe5055db", null ],
-    [ "UpdateAI", "df/d9c/a24644.html#a2280e5cc5187a91917a1e517e80e960d", null ],
-    [ "_events", "df/d9c/a24644.html#aa4578cdbe41d28e399247c84c9fe8049", null ],
-    [ "_initAttack", "df/d9c/a24644.html#a2df79acc05dd8489e9e994e044b45404", null ]
+    [ "HandleProc", "df/d9c/a24644.html#afc5208979ec0ce81e2bb88b3bd429012", null ],
+    [ "PrepareAuraScript", "df/d9c/a24644.html#a9eebffe3b716f7de63bfd6617e6ecf3b", null ],
+    [ "Register", "df/d9c/a24644.html#a1f364414b053ffc92c2a219b713e8c38", null ],
+    [ "Validate", "df/d9c/a24644.html#a12912ba28210850b8bc0b568357794af", null ]
 ];

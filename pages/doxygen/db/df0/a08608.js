@@ -1,12 +1,11 @@
 var a08608 =
 [
-    [ "SpellModifier", "db/df0/a08608.html#adba5fad6b904d09a43be7302e7eb62bd", null ],
-    [ "charges", "db/df0/a08608.html#a1aaf71299c2dd27b58a049d252efdee8", null ],
-    [ "mask", "db/df0/a08608.html#aba1b01bf3486d61cc1876b03078a35ee", null ],
-    [ "op", "db/df0/a08608.html#a21d017f0c8d3108a0eb5f48798103356", null ],
-    [ "ownerAura", "db/df0/a08608.html#a5e180553fb4739eb7f947da70fbe7ef8", null ],
-    [ "priority", "db/df0/a08608.html#a163a81b49cfdeb73236ee930d6f24673", null ],
-    [ "spellId", "db/df0/a08608.html#a465803efab27b2ba0a49c6571b65b908", null ],
-    [ "type", "db/df0/a08608.html#a22f64b9c021f5a87f30f01ef117ebb0b", null ],
-    [ "value", "db/df0/a08608.html#a31742662ba8112c9e9b972897a928e57", null ]
+    [ "MovableMapObject", "db/df0/a08608.html#ad9f4cb74c55993cfdfc5895aefc33cfb", null ],
+    [ "GetCurrentCell", "db/df0/a08608.html#a6d7d87cff5f00f3b370584675caf7870", null ],
+    [ "SetCurrentCell", "db/df0/a08608.html#a4caa8c9e50452bff413dec06bf80b84c", null ],
+    [ "Map", "db/df0/a08608.html#ad2f32e921244459f7cc6d50355429cc6", null ],
+    [ "ObjectGridLoader", "db/df0/a08608.html#a9551c85ae0e43e4d212225c643da2262", null ],
+    [ "RandomMovementGenerator", "db/df0/a08608.html#a260ebfc53c9406bc0356c553822d8ab2", null ],
+    [ "_currentCell", "db/df0/a08608.html#a529db8859c0c9713bcc2f62459bbcc9f", null ],
+    [ "_moveState", "db/df0/a08608.html#a6782d8e3dc7de58ef83a83cf0a355e43", null ]
 ];

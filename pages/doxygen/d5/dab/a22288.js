@@ -1,7 +1,6 @@
 var a22288 =
 [
-    [ "HandleDummy", "d5/dab/a22288.html#a85874062bceced2694fff725649df892", null ],
-    [ "PrepareSpellScript", "d5/dab/a22288.html#a47bae4bdc488480f91517465d8e1b784", null ],
-    [ "Register", "d5/dab/a22288.html#a7131340678ca685db98e2087661321a9", null ],
-    [ "Validate", "d5/dab/a22288.html#af1b74ceee10fc48a0b85d4a284103950", null ]
+    [ "npc_wg_queueAI", "d5/dab/a22288.html#a3760738d61b6148042fc30bd96b88fdc", null ],
+    [ "UpdateAI", "d5/dab/a22288.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
+    [ "events", "d5/dab/a22288.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
 ];

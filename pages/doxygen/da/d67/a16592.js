@@ -1,8 +1,6 @@
 var a16592 =
 [
-    [ "npc_announcer_toc5AI", "da/d67/a16592.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
-    [ "DamageTaken", "da/d67/a16592.html#a53458483699ac026ff2cd36b5f061571", null ],
-    [ "MovementInform", "da/d67/a16592.html#acdcf4110b3815635ad173a70e7a1e603", null ],
-    [ "Reset", "da/d67/a16592.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
-    [ "UpdateAI", "da/d67/a16592.html#ad2c596253d67d051f497a8d77859846d", null ]
+    [ "OnSummon", "da/d67/a16592.html#ae2766d12fb686356b46126848f356c5a", null ],
+    [ "PrepareSpellScript", "da/d67/a16592.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
+    [ "Register", "da/d67/a16592.html#a717394bfbea621ae637f9e87efddda62", null ]
 ];

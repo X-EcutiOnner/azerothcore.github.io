@@ -1,6 +1,7 @@
 var a17876 =
 [
-    [ "npc_gunship_gunnerAI", "d0/dfa/a17880.html", "d0/dfa/a17880" ],
-    [ "npc_gunship_gunner", "df/d0c/a17876.html#a409711f22b35eae0c0d48bc23545e592", null ],
-    [ "GetAI", "df/d0c/a17876.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
+    [ "HandleDummy", "df/d0c/a17876.html#a89c0706f21fe92fd443c3638181044ec", null ],
+    [ "PrepareSpellScript", "df/d0c/a17876.html#a957e29d2458fd90228ef9c53e997c642", null ],
+    [ "Register", "df/d0c/a17876.html#a250c95310503cd59d73e45a9b9372268", null ],
+    [ "Validate", "df/d0c/a17876.html#a1c67a262eb95def51661919a3bad3437", null ]
 ];

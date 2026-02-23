@@ -1,6 +1,8 @@
 var a14872 =
 [
-    [ "instance_blackfathom_deeps_InstanceMapScript", "da/d40/a14876.html", "da/d40/a14876" ],
-    [ "instance_blackfathom_deeps", "d0/d97/a14872.html#a4600a7e6191582c1bee684989a970e0f", null ],
-    [ "GetInstanceScript", "d0/d97/a14872.html#a62cdab4f3118ab030b4ef55243690f73", null ]
+    [ "npc_love_in_air_snivel_real", "d0/d97/a14872.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
+    [ "Talk", "d0/d97/a14872.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
+    [ "UpdateAI", "d0/d97/a14872.html#a22ed25da8fe3441ef0e4183390983f40", null ],
+    [ "actionCounter", "d0/d97/a14872.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
+    [ "actionTimer", "d0/d97/a14872.html#a3bbee1ff355581772b337268775b8fbc", null ]
 ];

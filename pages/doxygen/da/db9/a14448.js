@@ -1,6 +1,6 @@
 var a14448 =
 [
-    [ "npc_brewfest_keg_reciver", "da/db9/a14448.html#af12e7608f3f715650e6c265ac18920e4", null ],
-    [ "MoveInLineOfSight", "da/db9/a14448.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
-    [ "sGossipSelect", "da/db9/a14448.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
+    [ "HandleOnHit", "da/db9/a14448.html#a1f133ab9e85f80c225276bf744da6898", null ],
+    [ "PrepareSpellScript", "da/db9/a14448.html#ae554f8be36eabc6d23f823e6d153be2b", null ],
+    [ "Register", "da/db9/a14448.html#a1063358ed71ded8454f35f43442354ab", null ]
 ];

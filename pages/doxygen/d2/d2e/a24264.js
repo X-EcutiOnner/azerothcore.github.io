@@ -1,7 +1,6 @@
 var a24264 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "d2/d2e/a24264.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
-    [ "JustEngagedWith", "d2/d2e/a24264.html#a4038d707731f64f588e307c22c859902", null ],
-    [ "MoveInLineOfSight", "d2/d2e/a24264.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
-    [ "Reset", "d2/d2e/a24264.html#a29132346f117ba785039057619edb9e7", null ]
+    [ "npc_slim", "d2/d2e/a24264.html#aa227fbe22126bed821939873973e6a20", null ],
+    [ "OnGossipHello", "d2/d2e/a24264.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
+    [ "OnGossipSelect", "d2/d2e/a24264.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
 ];

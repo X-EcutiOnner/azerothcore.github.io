@@ -1,7 +1,11 @@
 var a24576 =
 [
-    [ "npc_pet_gen_target_following_bomb", "d9/d7d/a24576.html#a447c2cd258d784ca1d79c79412a1a426", null ],
-    [ "UpdateAI", "d9/d7d/a24576.html#ac68f18d68a313623c04e885f9506f287", null ],
-    [ "bombSpellId", "d9/d7d/a24576.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
-    [ "checkTimer", "d9/d7d/a24576.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
+    [ "HandleAfterHit", "d9/d7d/a24576.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
+    [ "HandleDummy", "d9/d7d/a24576.html#abb3f92850fa6fff94c682b990c361fe6", null ],
+    [ "Load", "d9/d7d/a24576.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
+    [ "PrepareSpellScript", "d9/d7d/a24576.html#adea0e24654cd87b3aee07ce2183b9517", null ],
+    [ "Register", "d9/d7d/a24576.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
+    [ "Validate", "d9/d7d/a24576.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
+    [ "guid", "d9/d7d/a24576.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
+    [ "multiplier", "d9/d7d/a24576.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
 ];

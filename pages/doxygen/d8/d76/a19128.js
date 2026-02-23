@@ -1,5 +1,6 @@
 var a19128 =
 [
-    [ "at_icc_putricide_trap", "d8/d76/a19128.html#a9d4183629deada9c22750b8a34e94583", null ],
-    [ "OnTrigger", "d8/d76/a19128.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
+    [ "HandleEvent", "d8/d76/a19128.html#a7936a64a1142a47b2addfd746dccfcef", null ],
+    [ "PrepareSpellScript", "d8/d76/a19128.html#a00e2be07131c674558d0364df98849ab", null ],
+    [ "Register", "d8/d76/a19128.html#a89364583504d2eaa75473586850bc3d5", null ]
 ];

@@ -1,7 +1,7 @@
 var a09568 =
 [
-    [ "ObjectGUIDCheck", "d9/dfc/a09568.html#a4932b3610ddc148ee5a30a6ce91c6f27", null ],
-    [ "operator()", "d9/dfc/a09568.html#a0f3f6e89a9e621a208cd6795722ae4ef", null ],
-    [ "_equals", "d9/dfc/a09568.html#a413d991eeee0294a54f3c803e296c3ac", null ],
-    [ "_GUID", "d9/dfc/a09568.html#a0e97bfe0e160177549a831df8e9b4555", null ]
+    [ "AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck", "d9/dfc/a09568.html#a038f512c564e4ae18571ac1836897edb", null ],
+    [ "operator()", "d9/dfc/a09568.html#a3bc09bf6fc4481c67190f57dc4198f6e", null ],
+    [ "i_funit", "d9/dfc/a09568.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6", null ],
+    [ "i_range", "d9/dfc/a09568.html#a953943e53e25b6887bfab8cc1c19620a", null ]
 ];

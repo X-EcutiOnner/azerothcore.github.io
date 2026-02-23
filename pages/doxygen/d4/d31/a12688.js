@@ -1,6 +1,7 @@
 var a12688 =
 [
-    [ "boss_gehennasAI", "d8/df7/a12692.html", "d8/df7/a12692" ],
-    [ "boss_gehennas", "d4/d31/a12688.html#a380a24cbaad4e247c6c76fd63ac34f59", null ],
-    [ "GetAI", "d4/d31/a12688.html#a92f9ff0e957da5331b4a3ecc48be0ffa", null ]
+    [ "boss_ebonrocAI", "d4/d31/a12688.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
+    [ "JustEngagedWith", "d4/d31/a12688.html#a2c74e0030b1093d79245978939043d53", null ],
+    [ "MovementInform", "d4/d31/a12688.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
+    [ "UpdateAI", "d4/d31/a12688.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
 ];

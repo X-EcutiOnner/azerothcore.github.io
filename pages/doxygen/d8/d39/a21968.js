@@ -1,7 +1,6 @@
 var a21968 =
 [
-    [ "CheckRequirement", "d8/d39/a21968.html#a41beb2c890137328734d6adb14e08302", null ],
-    [ "PrepareSpellScript", "d8/d39/a21968.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
-    [ "Register", "d8/d39/a21968.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
-    [ "SetDest", "d8/d39/a21968.html#a431a556ab73f91ed63f5983e537834a5", null ]
+    [ "npc_llod_genericAI", "d2/d05/a21972.html", "d2/d05/a21972" ],
+    [ "npc_llod_generic", "d8/d39/a21968.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
+    [ "GetAI", "d8/d39/a21968.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
 ];

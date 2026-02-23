@@ -1,6 +1,6 @@
 var a20940 =
 [
-    [ "npc_xt002_life_sparkAI", "d7/dc3/a20944.html", "d7/dc3/a20944" ],
-    [ "npc_xt002_life_spark", "d5/d7d/a20940.html#a9644718d192708e391b833468a0ff21e", null ],
-    [ "GetAI", "d5/d7d/a20940.html#a09a1ce332d55fad146947c94bb53f564", null ]
+    [ "HandleScript", "d5/d7d/a20940.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
+    [ "PrepareSpellScript", "d5/d7d/a20940.html#ab2a4155f6029850c61e84d7c180addae", null ],
+    [ "Register", "d5/d7d/a20940.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
 ];

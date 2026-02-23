@@ -1,18 +1,14 @@
 var a28604 =
 [
-    [ "getArmorMod", "d7/d4d/a28604.html#a0e56e757faf660cabe0ba4316ee17f12", null ],
-    [ "getDPSMod", "d7/d4d/a28604.html#aa0718862ebfeea92ad299e04c9c622c8", null ],
-    [ "getFeralBonus", "d7/d4d/a28604.html#aa54c3d1add4a1b982c05138f876fd138", null ],
-    [ "getSpellBonus", "d7/d4d/a28604.html#aba240e0c9f81ca7d5f17d3631410a7b3", null ],
-    [ "getssdMultiplier", "d7/d4d/a28604.html#ab0fbc14e59c3a387b21d3f4a825d3b36", null ],
-    [ "IsTwoHand", "d7/d4d/a28604.html#ac83356dba956bfb0aa0a0fb0d976b60e", null ],
-    [ "armorMod", "d7/d4d/a28604.html#a742f8447dca5961fb39e50de8233fa86", null ],
-    [ "armorMod2", "d7/d4d/a28604.html#a36dba32ea7febb8dab627fa992de878b", null ],
-    [ "dpsMod", "d7/d4d/a28604.html#ace956cab0056bcf0e116ac0884ad3575", null ],
-    [ "Id", "d7/d4d/a28604.html#aebc75b8f80cb210b6af081077bd88e85", null ],
-    [ "Level", "d7/d4d/a28604.html#a5758f5152401efde26edf3110c0d11e2", null ],
-    [ "spellPower", "d7/d4d/a28604.html#a03804cca02fd1146dffb762bcd1274f8", null ],
-    [ "ssdMultiplier", "d7/d4d/a28604.html#a7559b9045268d8050372153c8c976946", null ],
-    [ "ssdMultiplier2", "d7/d4d/a28604.html#a57cdfb5465ced673edeb8c35bd7a3535", null ],
-    [ "ssdMultiplier3", "d7/d4d/a28604.html#ae78f00d5ed42704a4093b5df939498d7", null ]
+    [ "FlameshockerCheck", "dd/d78/a28608.html", "dd/d78/a28608" ],
+    [ "npc_pallid_horror", "d7/d4d/a28604.html#ae43fa737cdc303d68f34ac2fbb356814", null ],
+    [ "CorpseRemoved", "d7/d4d/a28604.html#a700af3062528a6c41f7f0985f1820b36", null ],
+    [ "InitializeAI", "d7/d4d/a28604.html#a2711bdb05ad74a4d0425b4f61dcddab4", null ],
+    [ "JustDied", "d7/d4d/a28604.html#a6145be6ed4a56ec8f8e923187ceea47c", null ],
+    [ "JustSummoned", "d7/d4d/a28604.html#a801e04d47de8d86dcfbfa552de54cd0f", null ],
+    [ "ScheduleTasks", "d7/d4d/a28604.html#aa9e851cb55238bb4cf6c1e7a9d309c20", null ],
+    [ "SummonFlameshockers", "d7/d4d/a28604.html#afc2625ef0ddae00fd14d3dbf7952b0cf", null ],
+    [ "UpdateAI", "d7/d4d/a28604.html#a701b52b2977017c692368a5d363dd6bd", null ],
+    [ "UpdateWeather", "d7/d4d/a28604.html#ac9c5b8d4274e443f4c74b2b40aa5830f", null ],
+    [ "_summons", "d7/d4d/a28604.html#a0948ef0c5971a8b6ffee2269d8bca3a6", null ]
 ];

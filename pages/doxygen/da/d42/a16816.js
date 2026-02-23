@@ -1,7 +1,6 @@
 var a16816 =
 [
-    [ "FilterTargets", "da/d42/a16816.html#a304da18e36ff67c34b80ab39583f8c96", null ],
-    [ "HandleScript", "da/d42/a16816.html#adf99670bcf862288f513d2a26cbc256a", null ],
-    [ "PrepareSpellScript", "da/d42/a16816.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
-    [ "Register", "da/d42/a16816.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
+    [ "npc_toc_druidAI", "d1/dfc/a16820.html", "d1/dfc/a16820" ],
+    [ "npc_toc_druid", "da/d42/a16816.html#a07321d5ee164b8e47f652f9bad65216b", null ],
+    [ "GetAI", "da/d42/a16816.html#a4f33e8f3649c0b398448cd01666cf92b", null ]
 ];

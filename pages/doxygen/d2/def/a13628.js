@@ -1,8 +1,11 @@
 var a13628 =
 [
-    [ "CheckCast", "d2/def/a13628.html#a414c603646c1a6be9bbb7059abbb7e71", null ],
-    [ "HandleScriptEffect", "d2/def/a13628.html#a22f630cb9df4b435a5624f2865915753", null ],
-    [ "PrepareSpellScript", "d2/def/a13628.html#a6e6b27ade1cac743946a976dbf343066", null ],
-    [ "Register", "d2/def/a13628.html#a4afae0bafceeb6e6a9a26aea2162d4d9", null ],
-    [ "Validate", "d2/def/a13628.html#a85779288126b21f516f2feb0238ee65b", null ]
+    [ "boss_baroness_anastariAI", "d2/def/a13628.html#acf180bbe881ba1f6e49c075254759c00", null ],
+    [ "JustDied", "d2/def/a13628.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
+    [ "JustEngagedWith", "d2/def/a13628.html#a7329455d99045e7002abffe09112a4ea", null ],
+    [ "Reset", "d2/def/a13628.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
+    [ "SchedulePossession", "d2/def/a13628.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
+    [ "UpdateAI", "d2/def/a13628.html#a962e4e3091d126682825c326af5f6922", null ],
+    [ "_possessedTargetGuid", "d2/def/a13628.html#a36e386b847c7032b5ce95a01070518ad", null ],
+    [ "_scheduler", "d2/def/a13628.html#aa59518627a5e64e371dbbb45cfced75f", null ]
 ];

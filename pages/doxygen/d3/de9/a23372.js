@@ -1,12 +1,7 @@
 var a23372 =
 [
-    [ "boss_leotheras_the_blind", "d3/de9/a23372.html#a9229850f996812366a20508931965a87", null ],
-    [ "AttackStart", "d3/de9/a23372.html#a678ed3eba7d53976fd6efa9051d11124", null ],
-    [ "DemonTime", "d3/de9/a23372.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
-    [ "DoAction", "d3/de9/a23372.html#a4f3fd791f12b3f176ce109237c516889", null ],
-    [ "ElfTime", "d3/de9/a23372.html#a52f101530de8883231faa7f5fe689691", null ],
-    [ "MoveToTargetIfOutOfRange", "d3/de9/a23372.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
-    [ "Reset", "d3/de9/a23372.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
-    [ "UpdateAI", "d3/de9/a23372.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
-    [ "_recentlySpoken", "d3/de9/a23372.html#ad5231f13a247247dd7095b16c381fc7c", null ]
+    [ "OnApply", "d3/de9/a23372.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
+    [ "PeriodicTick", "d3/de9/a23372.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
+    [ "PrepareAuraScript", "d3/de9/a23372.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
+    [ "Register", "d3/de9/a23372.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
 ];

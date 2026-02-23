@@ -1,6 +1,7 @@
 var a20896 =
 [
-    [ "boss_xt002AI", "de/dd3/a20900.html", "de/dd3/a20900" ],
-    [ "boss_xt002", "d8/d69/a20896.html#aebd7e513b3bef6a25ad0f9766d18174e", null ],
-    [ "GetAI", "d8/d69/a20896.html#a146e4a10da7d81213e7f63d6e86c79f2", null ]
+    [ "FilterTargets", "d8/d69/a20896.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
+    [ "HandleDummyEffect", "d8/d69/a20896.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
+    [ "PrepareSpellScript", "d8/d69/a20896.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
+    [ "Register", "d8/d69/a20896.html#a337cdb940a2001ac370768b02126d3c0", null ]
 ];

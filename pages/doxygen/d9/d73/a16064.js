@@ -1,13 +1,12 @@
 var a16064 =
 [
-    [ "npc_shadowpriest_sezzizAI", "d9/d73/a16064.html#a14c5cee1c3032b8df4ad902eb273e9b0", null ],
-    [ "AttackStart", "d9/d73/a16064.html#a8278a73501ea33164cbdef8599144f4a", null ],
-    [ "Reset", "d9/d73/a16064.html#ab08cc327c4206e4526e77eea3bf17e0b", null ],
-    [ "UpdateAI", "d9/d73/a16064.html#a1c0236b52d4cd87634659991e0dfc728", null ],
-    [ "_missingHPForHealTimer", "d9/d73/a16064.html#a1171f0cd40bd3d7198bab15b12edc131", null ],
-    [ "_missingHPForRenewTimer", "d9/d73/a16064.html#a8df4e1046348599cd5d1e31e3dc4eb0c", null ],
-    [ "_physicScreemTimer", "d9/d73/a16064.html#a43de246b93f3380d5b79ffba6434aa5a", null ],
-    [ "_shadowBoltTimer", "d9/d73/a16064.html#a34a18991ff2c0aafac15694ed9667193", null ],
-    [ "_summmonAddsCount", "d9/d73/a16064.html#a8ce2b172757d1f7d188152ecc0fe30f5", null ],
-    [ "_summonAddsTimer", "d9/d73/a16064.html#aff413ce6f4106d212f35fb7abbfa047e", null ]
+    [ "npc_toogaAI", "d9/d73/a16064.html#a4db363c7e787f5fbbd61b418cfa87367", null ],
+    [ "MoveInLineOfSight", "d9/d73/a16064.html#aff15508b97bce5f5fad9cf9750e89ff1", null ],
+    [ "MovementInform", "d9/d73/a16064.html#a9315e8ba2688903aaf5b871a7490a700", null ],
+    [ "Reset", "d9/d73/a16064.html#acfedaf5cc989451a4259a65661685f66", null ],
+    [ "UpdateFollowerAI", "d9/d73/a16064.html#a742791e714be1ff713ab87e7d515bd9e", null ],
+    [ "CheckSpeechTimer", "d9/d73/a16064.html#a938852d834c5eb8ba4abceaf49e9a5da", null ],
+    [ "PhasePostEvent", "d9/d73/a16064.html#a4996291afa64e35f3604b2a85ea03dda", null ],
+    [ "PostEventTimer", "d9/d73/a16064.html#abea9fa4d2623dab4f14978a7f94b595f", null ],
+    [ "TortaGUID", "d9/d73/a16064.html#a4531aa0e2c7fe7f3207e56fc2ed67c25", null ]
 ];

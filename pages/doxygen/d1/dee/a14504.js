@@ -1,9 +1,6 @@
 var a14504 =
 [
-    [ "npc_brew_bubble", "d1/dee/a14504.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
-    [ "DoAction", "d1/dee/a14504.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
-    [ "MoveInLineOfSight", "d1/dee/a14504.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
-    [ "Reset", "d1/dee/a14504.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
-    [ "UpdateAI", "d1/dee/a14504.html#a25018deaa206620f6e98ba722f689b8d", null ],
-    [ "timer", "d1/dee/a14504.html#a4bee73add756ba4b3137818b2dacd27f", null ]
+    [ "npc_ohganAI", "d3/dc0/a14508.html", "d3/dc0/a14508" ],
+    [ "npc_ohgan", "d1/dee/a14504.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
+    [ "GetAI", "d1/dee/a14504.html#a129dc2fcd449850403e0dcb99725da90", null ]
 ];

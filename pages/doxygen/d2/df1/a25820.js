@@ -1,6 +1,5 @@
 var a25820 =
 [
-    [ "OnRemove", "d2/df1/a25820.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
-    [ "PrepareAuraScript", "d2/df1/a25820.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
-    [ "Register", "d2/df1/a25820.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
+    [ "PrepareSpellScript", "d2/df1/a25820.html#a065d81d698c978bcdd234712807e9098", null ],
+    [ "Register", "d2/df1/a25820.html#a3efcd145189b27272495110c799cf14f", null ]
 ];

@@ -1,7 +1,14 @@
 var a23132 =
 [
-    [ "CalculateAmount", "dc/dd7/a23132.html#adad1c8a513ce8a1badbd40c291363de1", null ],
-    [ "PrepareAuraScript", "dc/dd7/a23132.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
-    [ "Register", "dc/dd7/a23132.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
-    [ "Update", "dc/dd7/a23132.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
+    [ "boss_the_lurker_below", "dc/dd7/a23132.html#ac76c71b6a47e1a936256d9c5901c27ab", null ],
+    [ "AttackStart", "dc/dd7/a23132.html#af0f6fbe31dbcd6df4e8f1b57730e093b", null ],
+    [ "DamageTaken", "dc/dd7/a23132.html#ae7c05744013753b29072ec1b5d9f2570", null ],
+    [ "DoAction", "dc/dd7/a23132.html#a30e07055aa632066a75ad48f3e8109e2", null ],
+    [ "EnterEvadeMode", "dc/dd7/a23132.html#a522164e819db5062225f7d5704cdaa36", null ],
+    [ "JustEngagedWith", "dc/dd7/a23132.html#aa31e26b77e0c2403a338f781bf14c94b", null ],
+    [ "Reset", "dc/dd7/a23132.html#ae592707182d64689e6578813b3617ee3", null ],
+    [ "SchedulerPhaseOne", "dc/dd7/a23132.html#a42dd2ed36209e7be61788d054e2754b5", null ],
+    [ "SchedulerPhaseTwo", "dc/dd7/a23132.html#aa910c20d3ee26d6d2e71818008eb3b5c", null ],
+    [ "SummonedCreatureDies", "dc/dd7/a23132.html#a5ec68a1bc5b22e03fe485448257ad7df", null ],
+    [ "UpdateAI", "dc/dd7/a23132.html#a92d854cb21b272bd09674c724b1aa862", null ]
 ];

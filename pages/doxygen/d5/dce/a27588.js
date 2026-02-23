@@ -1,5 +1,6 @@
 var a27588 =
 [
-    [ "go_table_theka", "d5/dce/a27588.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
-    [ "OnGossipHello", "d5/dce/a27588.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
+    [ "HandleBanish", "d5/dce/a27588.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
+    [ "PrepareSpellScript", "d5/dce/a27588.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
+    [ "Register", "d5/dce/a27588.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
 ];

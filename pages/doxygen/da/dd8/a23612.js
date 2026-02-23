@@ -1,8 +1,16 @@
 var a23612 =
 [
-    [ "boss_the_black_stalker", "da/dd8/a23612.html#ac33519b374509cefe43b8e97701719ee", null ],
-    [ "JustEngagedWith", "da/dd8/a23612.html#ad118347103ec463a09492e81dbd61418", null ],
-    [ "JustSummoned", "da/dd8/a23612.html#a9e0299a99df83abb7de476a765b667b9", null ],
-    [ "SummonedCreatureDies", "da/dd8/a23612.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
-    [ "UpdateAI", "da/dd8/a23612.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
+    [ "npc_millhouse_manastormAI", "da/dd8/a23612.html#ac86df4d5887c4c1b719ce47f00b32995", null ],
+    [ "AttackStart", "da/dd8/a23612.html#a032cc1ad7a07ead4ced3afe99601d94f", null ],
+    [ "DamageTaken", "da/dd8/a23612.html#a30ed336d552596211b3bfc316d223968", null ],
+    [ "InitializeAI", "da/dd8/a23612.html#a7e8f7483b7cf4ba5d87386940e632339", null ],
+    [ "JustDied", "da/dd8/a23612.html#aaa22ed7812600c1670d12d6887d316d6", null ],
+    [ "JustEngagedWith", "da/dd8/a23612.html#a5e643192572f29f954a31b7b949f6525", null ],
+    [ "KilledUnit", "da/dd8/a23612.html#ac3ba302f496d03c171d1d3f4dbf175da", null ],
+    [ "Reset", "da/dd8/a23612.html#a74076048ea382816fa9c98a0d759af46", null ],
+    [ "UpdateAI", "da/dd8/a23612.html#a7dad659c4ba1db0460c23a3dc573eff2", null ],
+    [ "_usedIceblock", "da/dd8/a23612.html#af0ce341df018dafdce89f75fcb9f0063", null ],
+    [ "events", "da/dd8/a23612.html#aa9aadd461e32cf8a65b185d77f62d838", null ],
+    [ "events2", "da/dd8/a23612.html#ac762ce5981457cbcf6ec73236bab2486", null ],
+    [ "instance", "da/dd8/a23612.html#aff28c68ed9575440f5732df855ab4372", null ]
 ];

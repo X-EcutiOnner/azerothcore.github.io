@@ -1,9 +1,6 @@
 var a10124 =
 [
-    [ "PathMovementBase", "da/d8f/a10124.html#a6b76e1527ed69ff631d7a72c309f264a", null ],
-    [ "PathMovementBase", "da/d8f/a10124.html#a953fcda0cf7764f659fc5a4a19408550", null ],
-    [ "~PathMovementBase", "da/d8f/a10124.html#a33b2b53993fe897712a196bc4ad86bd1", null ],
-    [ "GetCurrentNode", "da/d8f/a10124.html#a7ceb52928f2198392980c3926516fd82", null ],
-    [ "i_currentNode", "da/d8f/a10124.html#a5420aef90d3529881ef41362ebb29934", null ],
-    [ "i_path", "da/d8f/a10124.html#a3dbc5e41e0c6245f369afc7a24081c83", null ]
+    [ "IsNeutralOrFriendlyToTeam", "da/d8f/a10124.html#aeeea8efaff8fe3f5044a7d5627a89cb6", null ],
+    [ "safeLocId", "da/d8f/a10124.html#a4f6003cc76b70c83fbb8301cc9d5a7ad", null ],
+    [ "teamId", "da/d8f/a10124.html#a287b04900d70f8ff8c6f6542edbd40a6", null ]
 ];

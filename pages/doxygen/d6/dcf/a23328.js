@@ -1,6 +1,6 @@
 var a23328 =
 [
-    [ "OnPeriodic", "d6/dcf/a23328.html#a4d3d6350a06b6c7382792670c04e38e1", null ],
-    [ "PrepareAuraScript", "d6/dcf/a23328.html#ac9231c238adf7e733d55bc6098daddc0", null ],
-    [ "Register", "d6/dcf/a23328.html#aa6aa32b3adc89ac405f071fa9b804778", null ]
+    [ "HandlePeriodic", "d6/dcf/a23328.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
+    [ "PrepareAuraScript", "d6/dcf/a23328.html#a75515896f3d94d227963a3c5258e2d0d", null ],
+    [ "Register", "d6/dcf/a23328.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
 ];

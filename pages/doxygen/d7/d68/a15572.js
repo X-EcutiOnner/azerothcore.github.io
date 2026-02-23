@@ -1,6 +1,6 @@
 var a15572 =
 [
-    [ "instance_wailing_caverns_InstanceMapScript", "d9/de6/a15576.html", "d9/de6/a15576" ],
-    [ "instance_wailing_caverns", "d7/d68/a15572.html#a906f59c39f59237e9eedb479dfc7d825", null ],
-    [ "GetInstanceScript", "d7/d68/a15572.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
+    [ "FilterTargets", "d7/d68/a15572.html#a3ec2840ab1d853a1546c64a2d158e75f", null ],
+    [ "PrepareSpellScript", "d7/d68/a15572.html#a511e54100036307aa5d37bc959405c73", null ],
+    [ "Register", "d7/d68/a15572.html#a31d1d590f0e6fc2e56322d606961828f", null ]
 ];

@@ -1,7 +1,7 @@
 var a14708 =
 [
-    [ "npc_love_in_air_supply_sentry", "da/d63/a14708.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
-    [ "MoveInLineOfSight", "da/d63/a14708.html#a9df110324c74277e07183c7db231bbda", null ],
-    [ "UpdateAI", "da/d63/a14708.html#aaa658222954f96d45b75daf83555f6f8", null ],
-    [ "lock", "da/d63/a14708.html#a59bf67b114014542538165c21aa109a6", null ]
+    [ "PeriodicTick", "da/d63/a14708.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
+    [ "PrepareAuraScript", "da/d63/a14708.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
+    [ "Register", "da/d63/a14708.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
+    [ "Validate", "da/d63/a14708.html#a68247c2afa553411fac34582e83635c9", null ]
 ];

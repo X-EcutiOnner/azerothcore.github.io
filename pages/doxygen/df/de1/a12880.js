@@ -1,4 +1,6 @@
 var a12880 =
 [
-    [ "PrepareAuraScript", "df/de1/a12880.html#aae5dc71af1a0fade2da9ee88875896a5", null ]
+    [ "boss_magmadarAI", "df/de1/a12880.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
+    [ "ExecuteEvent", "df/de1/a12880.html#a7d4c1807cb320fdc331057209a4ce166", null ],
+    [ "JustEngagedWith", "df/de1/a12880.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
 ];

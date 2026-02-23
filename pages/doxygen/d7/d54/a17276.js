@@ -1,8 +1,11 @@
 var a17276 =
 [
-    [ "boss_krickAI", "d7/d54/a17276.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
-    [ "DoAction", "d7/d54/a17276.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
-    [ "UpdateAI", "d7/d54/a17276.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
-    [ "events", "d7/d54/a17276.html#a75349e2fc35832e7944fa4f772380baa", null ],
-    [ "pInstance", "d7/d54/a17276.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
+    [ "npc_hor_leaderAI", "d7/d54/a17276.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
+    [ "DoAction", "d7/d54/a17276.html#a610700732a6cc197a40106adef654a62", null ],
+    [ "Reset", "d7/d54/a17276.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
+    [ "UpdateAI", "d7/d54/a17276.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
+    [ "events", "d7/d54/a17276.html#a94128223bddd84b8a678e49f3189cb75", null ],
+    [ "first", "d7/d54/a17276.html#add878d336fa7e20bee4d05ac0383dd0a", null ],
+    [ "pInstance", "d7/d54/a17276.html#a8dd77a92b151acad640f1272acf0b65f", null ],
+    [ "shortver", "d7/d54/a17276.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
 ];

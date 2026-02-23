@@ -1,7 +1,6 @@
 var a22524 =
 [
-    [ "HandleScript", "d7/d21/a22524.html#ad38771460ddf0f95783718775690d1f0", null ],
-    [ "PrepareSpellScript", "d7/d21/a22524.html#a9d3b65b251cc9680352bbf056bb74f05", null ],
-    [ "Register", "d7/d21/a22524.html#a3ba23fd54c35c2d2866db647811c948d", null ],
-    [ "Validate", "d7/d21/a22524.html#a6a58808356785c25032c2befd429ff2b", null ]
+    [ "instance_auchenai_crypts_InstanceMapScript", "d2/df4/a22528.html", "d2/df4/a22528" ],
+    [ "instance_auchenai_crypts", "d7/d21/a22524.html#a8b16924167c54a9d8120bac67bc10fed", null ],
+    [ "GetInstanceScript", "d7/d21/a22524.html#a99e47df95fde07d4a6e7687634805b93", null ]
 ];

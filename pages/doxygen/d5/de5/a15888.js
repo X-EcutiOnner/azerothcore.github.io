@@ -1,9 +1,7 @@
 var a15888 =
 [
-    [ "npc_custodian_of_timeAI", "d5/de5/a15888.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
-    [ "JustEngagedWith", "d5/de5/a15888.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
-    [ "MoveInLineOfSight", "d5/de5/a15888.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
-    [ "Reset", "d5/de5/a15888.html#a56bcc694ac286488ed4b3f2328c30573", null ],
-    [ "UpdateAI", "d5/de5/a15888.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
-    [ "WaypointReached", "d5/de5/a15888.html#a963736e62fbd0caea631ee3fb69fca46", null ]
+    [ "HandleDummy", "d5/de5/a15888.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
+    [ "PrepareSpellScript", "d5/de5/a15888.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
+    [ "Register", "d5/de5/a15888.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
+    [ "Validate", "d5/de5/a15888.html#a041c84fd605abd36b8f774903a5200dc", null ]
 ];

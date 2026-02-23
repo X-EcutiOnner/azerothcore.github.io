@@ -1,5 +1,6 @@
 var a23552 =
 [
-    [ "at_quagmirran_lair", "d0/dff/a23552.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
-    [ "OnTrigger", "d0/dff/a23552.html#aa0aab42516efaf842923b8a820942ac4", null ]
+    [ "PrepareSpellScript", "d0/dff/a23552.html#a5b17110b189b7134939aea9dbf2d724b", null ],
+    [ "Register", "d0/dff/a23552.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
+    [ "SelectRandomPlayer", "d0/dff/a23552.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
 ];

@@ -1,12 +1,10 @@
 var a23148 =
 [
-    [ "npc_creature_generator_akama", "d1/d36/a23148.html#a8e91cadea7f135ff692635e4d39923e0", null ],
-    [ "DoAction", "d1/d36/a23148.html#a01efeecd374056da287e4a1e468472b6", null ],
-    [ "JustSummoned", "d1/d36/a23148.html#af58d7b130ed3b6c209c08ae14444bfe3", null ],
-    [ "Reset", "d1/d36/a23148.html#a23cf08661802f247147bb23cff30eeab", null ],
-    [ "SummonedCreatureDies", "d1/d36/a23148.html#a35b7ecfa659d80a869868b9a2732d92b", null ],
-    [ "UpdateAI", "d1/d36/a23148.html#a8c6e3ca67691e7625700f22c5b1c09c5", null ],
-    [ "instance", "d1/d36/a23148.html#a109aea7bb0747f8572c1d46e9df2d2a5", null ],
-    [ "spawnCounter", "d1/d36/a23148.html#a02d8acace195438fe6e8d4705a043078", null ],
-    [ "summons", "d1/d36/a23148.html#a3d532e607c48298ca0464ee630dd27b3", null ]
+    [ "boss_morogrim_tidewalker", "d1/d36/a23148.html#a138a200da298f64697e2e47fb8004ccb", null ],
+    [ "JustDied", "d1/d36/a23148.html#a139d87e7cffe03183538eb493e063195", null ],
+    [ "JustEngagedWith", "d1/d36/a23148.html#a3244672aeb994673e1f46708699bcc2c", null ],
+    [ "JustSummoned", "d1/d36/a23148.html#a2b669007520094948138c95468b77f9f", null ],
+    [ "KilledUnit", "d1/d36/a23148.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
+    [ "Reset", "d1/d36/a23148.html#a78ed1d1f8c55407497a4fb679587975d", null ],
+    [ "_recentlySpoken", "d1/d36/a23148.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
 ];

@@ -1,6 +1,6 @@
 var a20384 =
 [
-    [ "npc_ulduar_toasty_fireAI", "d9/dfc/a20388.html", "d9/dfc/a20388" ],
-    [ "npc_ulduar_toasty_fire", "db/dbc/a20384.html#a5a5b77088b24f1c5743c58034190d5ab", null ],
-    [ "GetAI", "db/dbc/a20384.html#a2518ec39c3cea2f3efc5000e0a7779d0", null ]
+    [ "npc_ulduar_toasty_fire", "db/dbc/a20384.html#aa4447547d1689440813877ddd0347d5a", null ],
+    [ "DoAction", "db/dbc/a20384.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
+    [ "SpellHit", "db/dbc/a20384.html#ad1ac241490db52177ae13640d7ae3eec", null ]
 ];

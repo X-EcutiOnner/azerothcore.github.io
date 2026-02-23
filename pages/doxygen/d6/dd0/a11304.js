@@ -1,7 +1,6 @@
 var a11304 =
 [
-    [ "IsValidOpcode", "d6/dd0/a11304.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
-    [ "IsValidSize", "d6/dd0/a11304.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
-    [ "cmd", "d6/dd0/a11304.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
-    [ "size", "d6/dd0/a11304.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
+    [ "NameQuery", "d6/dd0/a11304.html#a7dc5a2dceb475303db4b4ab0c0a6d23c", null ],
+    [ "Read", "d6/dd0/a11304.html#ae4a16ebe5372214d3aec65b056a9426e", null ],
+    [ "Guid", "d6/dd0/a11304.html#a52528a68f1c86196e7428f196f93d12b", null ]
 ];

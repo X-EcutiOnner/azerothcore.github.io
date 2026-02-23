@@ -1,5 +1,6 @@
 var a16316 =
 [
-    [ "at_baltharus_plateau", "d2/d06/a16316.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
-    [ "OnTrigger", "d2/d06/a16316.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
+    [ "HandleApplyAura", "d2/d06/a16316.html#aeddfd61eab5aa077ca07a924ec491285", null ],
+    [ "PrepareSpellScript", "d2/d06/a16316.html#ad53341842455d98722c03318dd80fb94", null ],
+    [ "Register", "d2/d06/a16316.html#a10cb03ba6175f48b0ccaf69ec90e8f50", null ]
 ];

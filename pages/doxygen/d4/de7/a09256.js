@@ -1,12 +1,8 @@
 var a09256 =
 [
-    [ "GridTerrainLoader", "d4/de7/a09256.html#a9f5094ad19163dc8ac3f3c4bada48ee9", null ],
-    [ "ExistMap", "d4/de7/a09256.html#a980cb9f6537642db8ae0825d14b6bb68", null ],
-    [ "ExistVMap", "d4/de7/a09256.html#a17bdde445c48738ade280bd1cdda0619", null ],
-    [ "LoadMap", "d4/de7/a09256.html#ac220ce61dd0c3e514dcff2465c61af0f", null ],
-    [ "LoadMMap", "d4/de7/a09256.html#a8b3be4eb509393af8a2a927bc15947c9", null ],
-    [ "LoadTerrain", "d4/de7/a09256.html#a097556a8a778efa22ab9d50cbda2649a", null ],
-    [ "LoadVMap", "d4/de7/a09256.html#ac4e66140ef37fb3dc0f990cc196d106f", null ],
-    [ "_grid", "d4/de7/a09256.html#a1ec8202457f9df4fdc3b356e30f1a15d", null ],
-    [ "_map", "d4/de7/a09256.html#a2547ac0b9ee6ae7b760227d5051dea85", null ]
+    [ "DungeonEncounter", "d4/de7/a09256.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
+    [ "creditEntry", "d4/de7/a09256.html#a700a0792973678339f33ab85e7396918", null ],
+    [ "creditType", "d4/de7/a09256.html#a66a077e193f099bb7aef363dc75672d6", null ],
+    [ "dbcEntry", "d4/de7/a09256.html#a262bdd0ba443739456fc14bcad83ecda", null ],
+    [ "lastEncounterDungeon", "d4/de7/a09256.html#a67e29b891887e339dbb40515d082e781", null ]
 ];

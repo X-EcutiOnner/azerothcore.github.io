@@ -1,6 +1,7 @@
 var a16072 =
 [
-    [ "HandleApply", "dd/db5/a16072.html#aee4d5908035d06be2f1469a50db02e26", null ],
-    [ "PrepareAuraScript", "dd/db5/a16072.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
-    [ "Register", "dd/db5/a16072.html#ac83962bef84b68cef6d7937769730598", null ]
+    [ "npc_giltharesAI", "dd/db5/a16072.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "dd/db5/a16072.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "dd/db5/a16072.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "dd/db5/a16072.html#a9308c73760e50e0f3d04031b508526d1", null ]
 ];

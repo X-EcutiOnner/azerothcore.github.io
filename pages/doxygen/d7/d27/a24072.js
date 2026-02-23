@@ -1,6 +1,6 @@
 var a24072 =
 [
-    [ "HandleScriptEffect", "d7/d27/a24072.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
-    [ "PrepareSpellScript", "d7/d27/a24072.html#af475c0968aabaf56e8ca38950ad651f0", null ],
-    [ "Register", "d7/d27/a24072.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
+    [ "npc_infernal_attackerAI", "d7/dd9/a24076.html", "d7/dd9/a24076" ],
+    [ "npc_infernal_attacker", "d7/d27/a24072.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "d7/d27/a24072.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

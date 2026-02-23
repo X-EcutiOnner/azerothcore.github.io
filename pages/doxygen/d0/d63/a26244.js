@@ -1,7 +1,7 @@
 var a26244 =
 [
-    [ "OnRemove", "d0/d63/a26244.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
-    [ "PrepareAuraScript", "d0/d63/a26244.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
-    [ "Register", "d0/d63/a26244.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
-    [ "Validate", "d0/d63/a26244.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
+    [ "HandlePeriodicDummy", "d0/d63/a26244.html#ac8ca6a69b47cb2316b93e1953e233f8f", null ],
+    [ "PrepareAuraScript", "d0/d63/a26244.html#a1c85329bcafd6c327d1862feabc1eed0", null ],
+    [ "Register", "d0/d63/a26244.html#a0c43d96bf2e59fd67790f327cf14d71e", null ],
+    [ "Validate", "d0/d63/a26244.html#a7c3f4223a709e3cbb7d4a5b4b6a9e1c5", null ]
 ];

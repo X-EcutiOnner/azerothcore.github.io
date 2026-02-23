@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::AnyDeadUnitObjectInRangeCheck Class Reference</title>
+<title>AzerothCore: MapGridManager Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,48 +106,66 @@ $(document).ready(function(){initNavTree('dc/dc3/a09388.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../dd/dd0/a09385.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::AnyDeadUnitObjectInRangeCheck Class Reference</div></div>
+  <div class="headertitle"><div class="title">MapGridManager Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for Acore::AnyDeadUnitObjectInRangeCheck:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../dc/dc3/a09388.png" usemap="#Acore::AnyDeadUnitObjectInRangeCheck_map" alt=""/>
-  <map id="Acore::AnyDeadUnitObjectInRangeCheck_map" name="Acore::AnyDeadUnitObjectInRangeCheck_map">
-<area href="../../dc/d96/a09392.html" alt="Acore::AnyDeadUnitSpellTargetInRangeCheck" shape="rect" coords="0,56,273,80"/>
-  </map>
-</div></div>
+<p><code>#include &quot;<a class="el" href="../../">MapGridManager.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ad51c7d9c256d8d769e7e5df2a618f233"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#ad51c7d9c256d8d769e7e5df2a618f233">AnyDeadUnitObjectInRangeCheck</a> (<a class="el" href="../../d5/d7c/a08840.html">Unit</a> *searchObj, float range)</td></tr>
-<tr class="separator:ad51c7d9c256d8d769e7e5df2a618f233"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae7a76a9bcc28c6e4705a2885b02be20d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#ae7a76a9bcc28c6e4705a2885b02be20d">operator()</a> (<a class="el" href="../../d0/db4/a08708.html">Player</a> *u)</td></tr>
-<tr class="separator:ae7a76a9bcc28c6e4705a2885b02be20d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a71355418a935e1e4c4f5294c0e6a244f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#a71355418a935e1e4c4f5294c0e6a244f">operator()</a> (<a class="el" href="../../d7/df6/a08080.html">Corpse</a> *u)</td></tr>
-<tr class="separator:a71355418a935e1e4c4f5294c0e6a244f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae885f49537043421a92b44c201bec358"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#ae885f49537043421a92b44c201bec358">operator()</a> (<a class="el" href="../../d9/d93/a08084.html">Creature</a> *u)</td></tr>
-<tr class="separator:ae885f49537043421a92b44c201bec358"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a92b2dcfedf97677e84f46ee0e3affb91"><td class="memTemplParams" colspan="2">template&lt;class NOT_INTERESTED &gt; </td></tr>
-<tr class="memitem:a92b2dcfedf97677e84f46ee0e3affb91"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#a92b2dcfedf97677e84f46ee0e3affb91">operator()</a> (NOT_INTERESTED *)</td></tr>
-<tr class="separator:a92b2dcfedf97677e84f46ee0e3affb91"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af08729c03f8641a00ab1cc1b014214df"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#af08729c03f8641a00ab1cc1b014214df">MapGridManager</a> (<a class="el" href="../../db/d64/a10036.html">Map</a> *map)</td></tr>
+<tr class="separator:af08729c03f8641a00ab1cc1b014214df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac5daa221eb530e0b34a1950431cb4496"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#ac5daa221eb530e0b34a1950431cb4496">CreateGrid</a> (<a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const x, <a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const y)</td></tr>
+<tr class="separator:ac5daa221eb530e0b34a1950431cb4496"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aab0a821d9672cd485c4966034c2243d5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#aab0a821d9672cd485c4966034c2243d5">LoadGrid</a> (<a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const x, <a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const y)</td></tr>
+<tr class="separator:aab0a821d9672cd485c4966034c2243d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae381b54e599dce0c02815faf82711200"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#ae381b54e599dce0c02815faf82711200">UnloadGrid</a> (<a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const x, <a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const y)</td></tr>
+<tr class="separator:ae381b54e599dce0c02815faf82711200"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6f70e8d91a9f8e49cab8a8ef6f41a84a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#a6f70e8d91a9f8e49cab8a8ef6f41a84a">IsGridCreated</a> (<a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const x, <a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const y) const</td></tr>
+<tr class="separator:a6f70e8d91a9f8e49cab8a8ef6f41a84a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4cdf5925d6ebb358f501554c8b296424"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#a4cdf5925d6ebb358f501554c8b296424">IsGridLoaded</a> (<a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const x, <a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const y) const</td></tr>
+<tr class="separator:a4cdf5925d6ebb358f501554c8b296424"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a60c3abc9dbb707cee6d2c2ed02217c23"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d1b/a01583.html#ae6e326739a8733a22249048253475f90">MapGridType</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#a60c3abc9dbb707cee6d2c2ed02217c23">GetGrid</a> (<a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const x, <a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const y)</td></tr>
+<tr class="separator:a60c3abc9dbb707cee6d2c2ed02217c23"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7994a71cea924e66996161b049eb1d44"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#a7994a71cea924e66996161b049eb1d44">GetCreatedGridsCount</a> ()</td></tr>
+<tr class="separator:a7994a71cea924e66996161b049eb1d44"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8acd42cf15f78053070102f530c443a2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#a8acd42cf15f78053070102f530c443a2">GetLoadedGridsCount</a> ()</td></tr>
+<tr class="separator:a8acd42cf15f78053070102f530c443a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a322e14ef979b97017a7547194de6c1f0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#a322e14ef979b97017a7547194de6c1f0">GetCreatedCellsInGridCount</a> (<a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const x, <a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const y)</td></tr>
+<tr class="separator:a322e14ef979b97017a7547194de6c1f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a26255c8542bcfd6b706f73a401b4c5d2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#a26255c8542bcfd6b706f73a401b4c5d2">GetCreatedCellsInMapCount</a> ()</td></tr>
+<tr class="separator:a26255c8542bcfd6b706f73a401b4c5d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a479daebe69f976c11649c9c571eb18e0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#a479daebe69f976c11649c9c571eb18e0">IsGridsFullyCreated</a> () const</td></tr>
+<tr class="separator:a479daebe69f976c11649c9c571eb18e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae2dd77cb2af985085103d49b4242f4a8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#ae2dd77cb2af985085103d49b4242f4a8">IsGridsFullyLoaded</a> () const</td></tr>
+<tr class="separator:ae2dd77cb2af985085103d49b4242f4a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
-Protected Attributes</h2></td></tr>
-<tr class="memitem:acf10f61f95961ff4b9fd4a8c162fa029"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d7c/a08840.html">Unit</a> const  *const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#acf10f61f95961ff4b9fd4a8c162fa029">i_searchObj</a></td></tr>
-<tr class="separator:acf10f61f95961ff4b9fd4a8c162fa029"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1a95cfd469f27284e6ff35e9856bddcb"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#a1a95cfd469f27284e6ff35e9856bddcb">i_range</a></td></tr>
-<tr class="separator:a1a95cfd469f27284e6ff35e9856bddcb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a7d7957242615d753383e05a0ee5a1f82"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#a7d7957242615d753383e05a0ee5a1f82">IsValidGridCoordinates</a> (<a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const x, <a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const y)</td></tr>
+<tr class="separator:a7d7957242615d753383e05a0ee5a1f82"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a16a35fb94355d6542a2ef634f5411243"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d64/a10036.html">Map</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#a16a35fb94355d6542a2ef634f5411243">_map</a></td></tr>
+<tr class="separator:a16a35fb94355d6542a2ef634f5411243"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6976d52c3af458e4d5885d2523cfafab"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#a6976d52c3af458e4d5885d2523cfafab">_createdGridsCount</a></td></tr>
+<tr class="separator:a6976d52c3af458e4d5885d2523cfafab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a93290a0bbeec830a3223a72823ca4b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#a5a93290a0bbeec830a3223a72823ca4b">_loadedGridsCount</a></td></tr>
+<tr class="separator:a5a93290a0bbeec830a3223a72823ca4b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa2c2218a81a5d042925e5675948e242f"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#aa2c2218a81a5d042925e5675948e242f">_gridLock</a></td></tr>
+<tr class="separator:aa2c2218a81a5d042925e5675948e242f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acfac0df3926498e8a9aa581581f84e2c"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../d9/d1b/a01583.html#ae6e326739a8733a22249048253475f90">MapGridType</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a09388.html#acfac0df3926498e8a9aa581581f84e2c">_mapGrid</a> [<a class="el" href="../../d3/d56/a04553.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a>][<a class="el" href="../../d3/d56/a04553.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a>]</td></tr>
+<tr class="separator:acfac0df3926498e8a9aa581581f84e2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ad51c7d9c256d8d769e7e5df2a618f233" name="ad51c7d9c256d8d769e7e5df2a618f233"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad51c7d9c256d8d769e7e5df2a618f233">&#9670;&#160;</a></span>AnyDeadUnitObjectInRangeCheck()</h2>
+<a id="af08729c03f8641a00ab1cc1b014214df" name="af08729c03f8641a00ab1cc1b014214df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af08729c03f8641a00ab1cc1b014214df">&#9670;&#160;</a></span>MapGridManager()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -156,16 +174,384 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Acore::AnyDeadUnitObjectInRangeCheck::AnyDeadUnitObjectInRangeCheck </td>
+          <td class="memname">MapGridManager::MapGridManager </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d7c/a08840.html">Unit</a> *&#160;</td>
-          <td class="paramname"><em>searchObj</em>, </td>
+          <td class="paramtype"><a class="el" href="../../db/d64/a10036.html">Map</a> *&#160;</td>
+          <td class="paramname"><em>map</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   33</span>: <a class="code hl_variable" href="../../dc/dc3/a09388.html#a16a35fb94355d6542a2ef634f5411243">_map</a>(map), <a class="code hl_variable" href="../../dc/dc3/a09388.html#a6976d52c3af458e4d5885d2523cfafab">_createdGridsCount</a>(0), <a class="code hl_variable" href="../../dc/dc3/a09388.html#a5a93290a0bbeec830a3223a72823ca4b">_loadedGridsCount</a>(0) { }</div>
+<div class="ttc" id="aa09388_html_a16a35fb94355d6542a2ef634f5411243"><div class="ttname"><a href="../../dc/dc3/a09388.html#a16a35fb94355d6542a2ef634f5411243">MapGridManager::_map</a></div><div class="ttdeci">Map * _map</div><div class="ttdef"><b>Definition:</b> MapGridManager.h:53</div></div>
+<div class="ttc" id="aa09388_html_a5a93290a0bbeec830a3223a72823ca4b"><div class="ttname"><a href="../../dc/dc3/a09388.html#a5a93290a0bbeec830a3223a72823ca4b">MapGridManager::_loadedGridsCount</a></div><div class="ttdeci">uint32 _loadedGridsCount</div><div class="ttdef"><b>Definition:</b> MapGridManager.h:56</div></div>
+<div class="ttc" id="aa09388_html_a6976d52c3af458e4d5885d2523cfafab"><div class="ttname"><a href="../../dc/dc3/a09388.html#a6976d52c3af458e4d5885d2523cfafab">MapGridManager::_createdGridsCount</a></div><div class="ttdeci">uint32 _createdGridsCount</div><div class="ttdef"><b>Definition:</b> MapGridManager.h:55</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="ac5daa221eb530e0b34a1950431cb4496" name="ac5daa221eb530e0b34a1950431cb4496"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac5daa221eb530e0b34a1950431cb4496">&#9670;&#160;</a></span>CreateGrid()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void MapGridManager::CreateGrid </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const&#160;</td>
+          <td class="paramname"><em>x</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>range</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const&#160;</td>
+          <td class="paramname"><em>y</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">    6</span>{</div>
+<div class="line"><span class="lineno">    7</span>    std::lock_guard&lt;std::mutex&gt; guard(<a class="code hl_variable" href="../../dc/dc3/a09388.html#aa2c2218a81a5d042925e5675948e242f">_gridLock</a>);</div>
+<div class="line"><span class="lineno">    8</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dc/dc3/a09388.html#a6f70e8d91a9f8e49cab8a8ef6f41a84a">IsGridCreated</a>(x, y))</div>
+<div class="line"><span class="lineno">    9</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   10</span> </div>
+<div class="line"><span class="lineno">   11</span>    std::unique_ptr&lt;MapGridType&gt; grid = std::make_unique&lt;MapGridType&gt;(x, y);</div>
+<div class="line"><span class="lineno">   12</span>    grid-&gt;link(<a class="code hl_variable" href="../../dc/dc3/a09388.html#a16a35fb94355d6542a2ef634f5411243">_map</a>);</div>
+<div class="line"><span class="lineno">   13</span> </div>
+<div class="line"><span class="lineno">   14</span>    <a class="code hl_class" href="../../dc/d55/a09376.html">GridTerrainLoader</a> loader(*grid, <a class="code hl_variable" href="../../dc/dc3/a09388.html#a16a35fb94355d6542a2ef634f5411243">_map</a>);</div>
+<div class="line"><span class="lineno">   15</span>    loader.LoadTerrain();</div>
+<div class="line"><span class="lineno">   16</span> </div>
+<div class="line"><span class="lineno">   17</span>    <a class="code hl_variable" href="../../dc/dc3/a09388.html#acfac0df3926498e8a9aa581581f84e2c">_mapGrid</a>[x][y] = std::move(grid);</div>
+<div class="line"><span class="lineno">   18</span> </div>
+<div class="line"><span class="lineno">   19</span>    ++<a class="code hl_variable" href="../../dc/dc3/a09388.html#a6976d52c3af458e4d5885d2523cfafab">_createdGridsCount</a>;</div>
+<div class="line"><span class="lineno">   20</span>}</div>
+<div class="ttc" id="aa09376_html"><div class="ttname"><a href="../../dc/d55/a09376.html">GridTerrainLoader</a></div><div class="ttdef"><b>Definition:</b> GridTerrainLoader.h:24</div></div>
+<div class="ttc" id="aa09388_html_a6f70e8d91a9f8e49cab8a8ef6f41a84a"><div class="ttname"><a href="../../dc/dc3/a09388.html#a6f70e8d91a9f8e49cab8a8ef6f41a84a">MapGridManager::IsGridCreated</a></div><div class="ttdeci">bool IsGridCreated(uint16 const x, uint16 const y) const</div><div class="ttdef"><b>Definition:</b> MapGridManager.cpp:64</div></div>
+<div class="ttc" id="aa09388_html_aa2c2218a81a5d042925e5675948e242f"><div class="ttname"><a href="../../dc/dc3/a09388.html#aa2c2218a81a5d042925e5675948e242f">MapGridManager::_gridLock</a></div><div class="ttdeci">std::mutex _gridLock</div><div class="ttdef"><b>Definition:</b> MapGridManager.h:58</div></div>
+<div class="ttc" id="aa09388_html_acfac0df3926498e8a9aa581581f84e2c"><div class="ttname"><a href="../../dc/dc3/a09388.html#acfac0df3926498e8a9aa581581f84e2c">MapGridManager::_mapGrid</a></div><div class="ttdeci">std::unique_ptr&lt; MapGridType &gt; _mapGrid[MAX_NUMBER_OF_GRIDS][MAX_NUMBER_OF_GRIDS]</div><div class="ttdef"><b>Definition:</b> MapGridManager.h:59</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00055">_createdGridsCount</a>, <a class="el" href="../../#l00058">_gridLock</a>, <a class="el" href="../../#l00053">_map</a>, <a class="el" href="../../#l00059">_mapGrid</a>, <a class="el" href="../../#l00064">IsGridCreated()</a>, and <a class="el" href="../../#l00009">GridTerrainLoader::LoadTerrain()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00181">Map::EnsureGridCreated()</a>.</p>
+
+</div>
+</div>
+<a id="a322e14ef979b97017a7547194de6c1f0" name="a322e14ef979b97017a7547194de6c1f0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a322e14ef979b97017a7547194de6c1f0">&#9670;&#160;</a></span>GetCreatedCellsInGridCount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> MapGridManager::GetCreatedCellsInGridCount </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const&#160;</td>
+          <td class="paramname"><em>x</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const&#160;</td>
+          <td class="paramname"><em>y</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   99</span>{</div>
+<div class="line"><span class="lineno">  100</span>    <a class="code hl_class" href="../../d5/d37/a09384.html">MapGridType</a>* grid = <a class="code hl_function" href="../../dc/dc3/a09388.html#a60c3abc9dbb707cee6d2c2ed02217c23">GetGrid</a>(x, y);</div>
+<div class="line"><span class="lineno">  101</span>    <span class="keywordflow">if</span> (grid)</div>
+<div class="line"><span class="lineno">  102</span>        <span class="keywordflow">return</span> grid-&gt;<a class="code hl_function" href="../../d5/d37/a09384.html#ac0ac36a4c55b5a1dc7fd9963a63f325b">GetCreatedCellsCount</a>();</div>
+<div class="line"><span class="lineno">  103</span> </div>
+<div class="line"><span class="lineno">  104</span>    <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  105</span>}</div>
+<div class="ttc" id="aa09384_html"><div class="ttname"><a href="../../d5/d37/a09384.html">MapGrid</a></div><div class="ttdef"><b>Definition:</b> MapGrid.h:32</div></div>
+<div class="ttc" id="aa09384_html_ac0ac36a4c55b5a1dc7fd9963a63f325b"><div class="ttname"><a href="../../d5/d37/a09384.html#ac0ac36a4c55b5a1dc7fd9963a63f325b">MapGrid::GetCreatedCellsCount</a></div><div class="ttdeci">uint32 GetCreatedCellsCount()</div><div class="ttdef"><b>Definition:</b> MapGrid.h:104</div></div>
+<div class="ttc" id="aa09388_html_a60c3abc9dbb707cee6d2c2ed02217c23"><div class="ttname"><a href="../../dc/dc3/a09388.html#a60c3abc9dbb707cee6d2c2ed02217c23">MapGridManager::GetGrid</a></div><div class="ttdeci">MapGridType * GetGrid(uint16 const x, uint16 const y)</div><div class="ttdef"><b>Definition:</b> MapGridManager.cpp:80</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00104">MapGrid&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::GetCreatedCellsCount()</a>, and <a class="el" href="../../#l00080">GetGrid()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l03166">Map::GetCreatedCellsInGridCount()</a>.</p>
+
+</div>
+</div>
+<a id="a26255c8542bcfd6b706f73a401b4c5d2" name="a26255c8542bcfd6b706f73a401b4c5d2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a26255c8542bcfd6b706f73a401b4c5d2">&#9670;&#160;</a></span>GetCreatedCellsInMapCount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> MapGridManager::GetCreatedCellsInMapCount </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  108</span>{</div>
+<div class="line"><span class="lineno">  109</span>    <a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
+<div class="line"><span class="lineno">  110</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> gridX = 0; gridX &lt; <a class="code hl_define" href="../../d3/d56/a04553.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a>; ++gridX)</div>
+<div class="line"><span class="lineno">  111</span>    {</div>
+<div class="line"><span class="lineno">  112</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> gridY = 0; gridY &lt; <a class="code hl_define" href="../../d3/d56/a04553.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a>; ++gridY)</div>
+<div class="line"><span class="lineno">  113</span>        {</div>
+<div class="line"><span class="lineno">  114</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d37/a09384.html">MapGridType</a>* grid = <a class="code hl_function" href="../../dc/dc3/a09388.html#a60c3abc9dbb707cee6d2c2ed02217c23">GetGrid</a>(gridX, gridY))</div>
+<div class="line"><span class="lineno">  115</span>                count += grid-&gt;GetCreatedCellsCount();</div>
+<div class="line"><span class="lineno">  116</span>        }</div>
+<div class="line"><span class="lineno">  117</span>    }</div>
+<div class="line"><span class="lineno">  118</span>    <span class="keywordflow">return</span> count;</div>
+<div class="line"><span class="lineno">  119</span>}</div>
+<div class="ttc" id="aa04337_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa04553_html_a857252154f120575d940ffbdf63bace6"><div class="ttname"><a href="../../d3/d56/a04553.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a></div><div class="ttdeci">#define MAX_NUMBER_OF_GRIDS</div><div class="ttdef"><b>Definition:</b> MapDefines.h:24</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00080">GetGrid()</a>, and <a class="el" href="../../#l00024">MAX_NUMBER_OF_GRIDS</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l03171">Map::GetCreatedCellsInMapCount()</a>.</p>
+
+</div>
+</div>
+<a id="a7994a71cea924e66996161b049eb1d44" name="a7994a71cea924e66996161b049eb1d44"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7994a71cea924e66996161b049eb1d44">&#9670;&#160;</a></span>GetCreatedGridsCount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> MapGridManager::GetCreatedGridsCount </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   89</span>{</div>
+<div class="line"><span class="lineno">   90</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/dc3/a09388.html#a6976d52c3af458e4d5885d2523cfafab">_createdGridsCount</a>;</div>
+<div class="line"><span class="lineno">   91</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00055">_createdGridsCount</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l03156">Map::GetCreatedGridsCount()</a>.</p>
+
+</div>
+</div>
+<a id="a60c3abc9dbb707cee6d2c2ed02217c23" name="a60c3abc9dbb707cee6d2c2ed02217c23"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a60c3abc9dbb707cee6d2c2ed02217c23">&#9670;&#160;</a></span>GetGrid()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d1b/a01583.html#ae6e326739a8733a22249048253475f90">MapGridType</a> * MapGridManager::GetGrid </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const&#160;</td>
+          <td class="paramname"><em>x</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const&#160;</td>
+          <td class="paramname"><em>y</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   81</span>{</div>
+<div class="line"><span class="lineno">   82</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dc/dc3/a09388.html#a7d7957242615d753383e05a0ee5a1f82">MapGridManager::IsValidGridCoordinates</a>(x, y))</div>
+<div class="line"><span class="lineno">   83</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   84</span> </div>
+<div class="line"><span class="lineno">   85</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/dc3/a09388.html#acfac0df3926498e8a9aa581581f84e2c">_mapGrid</a>[x][y].get();</div>
+<div class="line"><span class="lineno">   86</span>}</div>
+<div class="ttc" id="aa09388_html_a7d7957242615d753383e05a0ee5a1f82"><div class="ttname"><a href="../../dc/dc3/a09388.html#a7d7957242615d753383e05a0ee5a1f82">MapGridManager::IsValidGridCoordinates</a></div><div class="ttdeci">static bool IsValidGridCoordinates(uint16 const x, uint16 const y)</div><div class="ttdef"><b>Definition:</b> MapGridManager.h:42</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00059">_mapGrid</a>, and <a class="el" href="../../#l00042">IsValidGridCoordinates()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00098">GetCreatedCellsInGridCount()</a>, <a class="el" href="../../#l00107">GetCreatedCellsInMapCount()</a>, <a class="el" href="../../#l01081">Map::GetGridTerrainData()</a>, <a class="el" href="../../#l01074">Map::GetGridTerrainDataSharedPtr()</a>, <a class="el" href="../../#l00199">Map::GetMapGrid()</a>, <a class="el" href="../../#l00022">LoadGrid()</a>, and <a class="el" href="../../#l00038">UnloadGrid()</a>.</p>
+
+</div>
+</div>
+<a id="a8acd42cf15f78053070102f530c443a2" name="a8acd42cf15f78053070102f530c443a2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8acd42cf15f78053070102f530c443a2">&#9670;&#160;</a></span>GetLoadedGridsCount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> MapGridManager::GetLoadedGridsCount </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   94</span>{</div>
+<div class="line"><span class="lineno">   95</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/dc3/a09388.html#a5a93290a0bbeec830a3223a72823ca4b">_loadedGridsCount</a>;</div>
+<div class="line"><span class="lineno">   96</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00056">_loadedGridsCount</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l03161">Map::GetLoadedGridsCount()</a>.</p>
+
+</div>
+</div>
+<a id="a6f70e8d91a9f8e49cab8a8ef6f41a84a" name="a6f70e8d91a9f8e49cab8a8ef6f41a84a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6f70e8d91a9f8e49cab8a8ef6f41a84a">&#9670;&#160;</a></span>IsGridCreated()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool MapGridManager::IsGridCreated </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const&#160;</td>
+          <td class="paramname"><em>x</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const&#160;</td>
+          <td class="paramname"><em>y</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   65</span>{</div>
+<div class="line"><span class="lineno">   66</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dc/dc3/a09388.html#a7d7957242615d753383e05a0ee5a1f82">MapGridManager::IsValidGridCoordinates</a>(x, y))</div>
+<div class="line"><span class="lineno">   67</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   68</span> </div>
+<div class="line"><span class="lineno">   69</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/dc3/a09388.html#acfac0df3926498e8a9aa581581f84e2c">_mapGrid</a>[x][y].get();</div>
+<div class="line"><span class="lineno">   70</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00059">_mapGrid</a>, and <a class="el" href="../../#l00042">IsValidGridCoordinates()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00005">CreateGrid()</a>, and <a class="el" href="../../#l00209">Map::IsGridCreated()</a>.</p>
+
+</div>
+</div>
+<a id="a4cdf5925d6ebb358f501554c8b296424" name="a4cdf5925d6ebb358f501554c8b296424"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4cdf5925d6ebb358f501554c8b296424">&#9670;&#160;</a></span>IsGridLoaded()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool MapGridManager::IsGridLoaded </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const&#160;</td>
+          <td class="paramname"><em>x</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const&#160;</td>
+          <td class="paramname"><em>y</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   73</span>{</div>
+<div class="line"><span class="lineno">   74</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dc/dc3/a09388.html#a7d7957242615d753383e05a0ee5a1f82">MapGridManager::IsValidGridCoordinates</a>(x, y))</div>
+<div class="line"><span class="lineno">   75</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   76</span> </div>
+<div class="line"><span class="lineno">   77</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/dc3/a09388.html#acfac0df3926498e8a9aa581581f84e2c">_mapGrid</a>[x][y].get() &amp;&amp; <a class="code hl_variable" href="../../dc/dc3/a09388.html#acfac0df3926498e8a9aa581581f84e2c">_mapGrid</a>[x][y]-&gt;IsObjectDataLoaded();</div>
+<div class="line"><span class="lineno">   78</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00059">_mapGrid</a>, and <a class="el" href="../../#l00042">IsValidGridCoordinates()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00204">Map::IsGridLoaded()</a>.</p>
+
+</div>
+</div>
+<a id="a479daebe69f976c11649c9c571eb18e0" name="a479daebe69f976c11649c9c571eb18e0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a479daebe69f976c11649c9c571eb18e0">&#9670;&#160;</a></span>IsGridsFullyCreated()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool MapGridManager::IsGridsFullyCreated </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  122</span>{</div>
+<div class="line"><span class="lineno">  123</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/dc3/a09388.html#a6976d52c3af458e4d5885d2523cfafab">_createdGridsCount</a> == (<a class="code hl_define" href="../../d3/d56/a04553.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a> * <a class="code hl_define" href="../../d3/d56/a04553.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a>);</div>
+<div class="line"><span class="lineno">  124</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00055">_createdGridsCount</a>, and <a class="el" href="../../#l00024">MAX_NUMBER_OF_GRIDS</a>.</p>
+
+</div>
+</div>
+<a id="ae2dd77cb2af985085103d49b4242f4a8" name="ae2dd77cb2af985085103d49b4242f4a8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae2dd77cb2af985085103d49b4242f4a8">&#9670;&#160;</a></span>IsGridsFullyLoaded()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool MapGridManager::IsGridsFullyLoaded </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  127</span>{</div>
+<div class="line"><span class="lineno">  128</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dc/dc3/a09388.html#a5a93290a0bbeec830a3223a72823ca4b">_loadedGridsCount</a> == (<a class="code hl_define" href="../../d3/d56/a04553.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a> * <a class="code hl_define" href="../../d3/d56/a04553.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a>);</div>
+<div class="line"><span class="lineno">  129</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00056">_loadedGridsCount</a>, and <a class="el" href="../../#l00024">MAX_NUMBER_OF_GRIDS</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00226">Map::LoadGridsInRange()</a>.</p>
+
+</div>
+</div>
+<a id="a7d7957242615d753383e05a0ee5a1f82" name="a7d7957242615d753383e05a0ee5a1f82"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7d7957242615d753383e05a0ee5a1f82">&#9670;&#160;</a></span>IsValidGridCoordinates()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool MapGridManager::IsValidGridCoordinates </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const&#160;</td>
+          <td class="paramname"><em>x</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const&#160;</td>
+          <td class="paramname"><em>y</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -175,125 +561,132 @@ Protected Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  608</span>: <a class="code hl_variable" href="../../dc/dc3/a09388.html#acf10f61f95961ff4b9fd4a8c162fa029">i_searchObj</a>(searchObj), <a class="code hl_variable" href="../../dc/dc3/a09388.html#a1a95cfd469f27284e6ff35e9856bddcb">i_range</a>(range) {}</div>
-<div class="ttc" id="aa09388_html_a1a95cfd469f27284e6ff35e9856bddcb"><div class="ttname"><a href="../../dc/dc3/a09388.html#a1a95cfd469f27284e6ff35e9856bddcb">Acore::AnyDeadUnitObjectInRangeCheck::i_range</a></div><div class="ttdeci">float i_range</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:615</div></div>
-<div class="ttc" id="aa09388_html_acf10f61f95961ff4b9fd4a8c162fa029"><div class="ttname"><a href="../../dc/dc3/a09388.html#acf10f61f95961ff4b9fd4a8c162fa029">Acore::AnyDeadUnitObjectInRangeCheck::i_searchObj</a></div><div class="ttdeci">Unit const  *const i_searchObj</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:614</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   42</span>{ <span class="keywordflow">return</span> (x &lt; <a class="code hl_define" href="../../d3/d56/a04553.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a> &amp;&amp; y &lt; <a class="code hl_define" href="../../d3/d56/a04553.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a>); }</div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00024">MAX_NUMBER_OF_GRIDS</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00080">GetGrid()</a>, <a class="el" href="../../#l01081">Map::GetGridTerrainData()</a>, <a class="el" href="../../#l00064">IsGridCreated()</a>, and <a class="el" href="../../#l00072">IsGridLoaded()</a>.</p>
+
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a71355418a935e1e4c4f5294c0e6a244f" name="a71355418a935e1e4c4f5294c0e6a244f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a71355418a935e1e4c4f5294c0e6a244f">&#9670;&#160;</a></span>operator()() <span class="overload">[1/4]</span></h2>
+<a id="aab0a821d9672cd485c4966034c2243d5" name="aab0a821d9672cd485c4966034c2243d5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aab0a821d9672cd485c4966034c2243d5">&#9670;&#160;</a></span>LoadGrid()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool AnyDeadUnitObjectInRangeCheck::operator() </td>
+          <td class="memname">bool MapGridManager::LoadGrid </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d7/df6/a08080.html">Corpse</a> *&#160;</td>
-          <td class="paramname"><em>u</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const&#160;</td>
+          <td class="paramname"><em>x</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const&#160;</td>
+          <td class="paramname"><em>y</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  358</span>{</div>
-<div class="line"><span class="lineno">  359</span>    <span class="keywordflow">return</span> u-&gt;<a class="code hl_function" href="../../d7/df6/a08080.html#ade09571ad69b115ad968e11fd85c480c">GetType</a>() != <a class="code hl_enumvalue" href="../../df/d88/a00962.html#a43260eb47484e62a16a868f79646c683ae7046aabaa7e6f435370eb1c49335356">CORPSE_BONES</a> &amp;&amp; <a class="code hl_variable" href="../../dc/dc3/a09388.html#acf10f61f95961ff4b9fd4a8c162fa029">i_searchObj</a>-&gt;<a class="code hl_function" href="../../d8/dc4/a08492.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../dc/dc3/a09388.html#a1a95cfd469f27284e6ff35e9856bddcb">i_range</a>);</div>
-<div class="line"><span class="lineno">  360</span>}</div>
-<div class="ttc" id="aa00962_html_a43260eb47484e62a16a868f79646c683ae7046aabaa7e6f435370eb1c49335356"><div class="ttname"><a href="../../df/d88/a00962.html#a43260eb47484e62a16a868f79646c683ae7046aabaa7e6f435370eb1c49335356">CORPSE_BONES</a></div><div class="ttdeci">@ CORPSE_BONES</div><div class="ttdef"><b>Definition:</b> Corpse.h:28</div></div>
-<div class="ttc" id="aa08080_html_ade09571ad69b115ad968e11fd85c480c"><div class="ttname"><a href="../../d7/df6/a08080.html#ade09571ad69b115ad968e11fd85c480c">Corpse::GetType</a></div><div class="ttdeci">CorpseType GetType() const</div><div class="ttdef"><b>Definition:</b> Corpse.h:72</div></div>
-<div class="ttc" id="aa08492_html_aaeea293a6966a717f17113370d364168"><div class="ttname"><a href="../../d8/dc4/a08492.html#aaeea293a6966a717f17113370d364168">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool incOwnRadius=true, bool incTargetRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1347</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   23</span>{</div>
+<div class="line"><span class="lineno">   24</span>    <a class="code hl_class" href="../../d5/d37/a09384.html">MapGridType</a>* grid = <a class="code hl_function" href="../../dc/dc3/a09388.html#a60c3abc9dbb707cee6d2c2ed02217c23">GetGrid</a>(x, y);</div>
+<div class="line"><span class="lineno">   25</span>    <span class="keywordflow">if</span> (!grid || grid-&gt;<a class="code hl_function" href="../../d5/d37/a09384.html#ab22e3c6e9432cd589cb6665169036ba8">IsObjectDataLoaded</a>())</div>
+<div class="line"><span class="lineno">   26</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   27</span> </div>
+<div class="line"><span class="lineno">   28</span>    <span class="comment">// Must mark as loaded first, as GridObjectLoader spawning objects can attempt to recursively load the grid</span></div>
+<div class="line"><span class="lineno">   29</span>    grid-&gt;<a class="code hl_function" href="../../d5/d37/a09384.html#a6e559b0b151dd71cac93abc137b67757">SetObjectDataLoaded</a>();</div>
+<div class="line"><span class="lineno">   30</span> </div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_class" href="../../df/ded/a09300.html">GridObjectLoader</a> loader(*grid, <a class="code hl_variable" href="../../dc/dc3/a09388.html#a16a35fb94355d6542a2ef634f5411243">_map</a>);</div>
+<div class="line"><span class="lineno">   32</span>    loader.LoadAllCellsInGrid();</div>
+<div class="line"><span class="lineno">   33</span> </div>
+<div class="line"><span class="lineno">   34</span>    ++<a class="code hl_variable" href="../../dc/dc3/a09388.html#a5a93290a0bbeec830a3223a72823ca4b">_loadedGridsCount</a>;</div>
+<div class="line"><span class="lineno">   35</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   36</span>}</div>
+<div class="ttc" id="aa09300_html"><div class="ttname"><a href="../../df/ded/a09300.html">GridObjectLoader</a></div><div class="ttdef"><b>Definition:</b> GridObjectLoader.h:27</div></div>
+<div class="ttc" id="aa09384_html_a6e559b0b151dd71cac93abc137b67757"><div class="ttname"><a href="../../d5/d37/a09384.html#a6e559b0b151dd71cac93abc137b67757">MapGrid::SetObjectDataLoaded</a></div><div class="ttdeci">void SetObjectDataLoaded()</div><div class="ttdef"><b>Definition:</b> MapGrid.h:46</div></div>
+<div class="ttc" id="aa09384_html_ab22e3c6e9432cd589cb6665169036ba8"><div class="ttname"><a href="../../d5/d37/a09384.html#ab22e3c6e9432cd589cb6665169036ba8">MapGrid::IsObjectDataLoaded</a></div><div class="ttdeci">bool IsObjectDataLoaded() const</div><div class="ttdef"><b>Definition:</b> MapGrid.h:45</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00028">CORPSE_BONES</a>, <a class="el" href="../../#l00072">Corpse::GetType()</a>, <a class="el" href="../../#l00615">i_range</a>, <a class="el" href="../../#l00614">i_searchObj</a>, and <a class="el" href="../../#l01347">WorldObject::IsWithinDistInMap()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00056">_loadedGridsCount</a>, <a class="el" href="../../#l00053">_map</a>, <a class="el" href="../../#l00080">GetGrid()</a>, <a class="el" href="../../#l00045">MapGrid&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::IsObjectDataLoaded()</a>, <a class="el" href="../../#l00092">GridObjectLoader::LoadAllCellsInGrid()</a>, and <a class="el" href="../../#l00046">MapGrid&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::SetObjectDataLoaded()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00186">Map::EnsureGridLoaded()</a>.</p>
 
 </div>
 </div>
-<a id="ae885f49537043421a92b44c201bec358" name="ae885f49537043421a92b44c201bec358"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae885f49537043421a92b44c201bec358">&#9670;&#160;</a></span>operator()() <span class="overload">[2/4]</span></h2>
+<a id="ae381b54e599dce0c02815faf82711200" name="ae381b54e599dce0c02815faf82711200"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae381b54e599dce0c02815faf82711200">&#9670;&#160;</a></span>UnloadGrid()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool AnyDeadUnitObjectInRangeCheck::operator() </td>
+          <td class="memname">void MapGridManager::UnloadGrid </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d93/a08084.html">Creature</a> *&#160;</td>
-          <td class="paramname"><em>u</em></td><td>)</td>
-          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const&#160;</td>
+          <td class="paramname"><em>x</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  363</span>{</div>
-<div class="line"><span class="lineno">  364</span>    <span class="keywordflow">return</span> !u-&gt;<a class="code hl_function" href="../../d5/d7c/a08840.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() &amp;&amp; <a class="code hl_variable" href="../../dc/dc3/a09388.html#acf10f61f95961ff4b9fd4a8c162fa029">i_searchObj</a>-&gt;<a class="code hl_function" href="../../d8/dc4/a08492.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../dc/dc3/a09388.html#a1a95cfd469f27284e6ff35e9856bddcb">i_range</a>);</div>
-<div class="line"><span class="lineno">  365</span>}</div>
-<div class="ttc" id="aa08840_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d5/d7c/a08840.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1773</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00615">i_range</a>, <a class="el" href="../../#l00614">i_searchObj</a>, <a class="el" href="../../#l01773">Unit::IsAlive()</a>, and <a class="el" href="../../#l01347">WorldObject::IsWithinDistInMap()</a>.</p>
-
-</div>
-</div>
-<a id="a92b2dcfedf97677e84f46ee0e3affb91" name="a92b2dcfedf97677e84f46ee0e3affb91"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a92b2dcfedf97677e84f46ee0e3affb91">&#9670;&#160;</a></span>operator()() <span class="overload">[3/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class NOT_INTERESTED &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
         <tr>
-          <td class="memname">bool Acore::AnyDeadUnitObjectInRangeCheck::operator() </td>
-          <td>(</td>
-          <td class="paramtype">NOT_INTERESTED *&#160;</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> const&#160;</td>
+          <td class="paramname"><em>y</em>&#160;</td>
         </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  612</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ae7a76a9bcc28c6e4705a2885b02be20d" name="ae7a76a9bcc28c6e4705a2885b02be20d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae7a76a9bcc28c6e4705a2885b02be20d">&#9670;&#160;</a></span>operator()() <span class="overload">[4/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">bool AnyDeadUnitObjectInRangeCheck::operator() </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/db4/a08708.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>u</em></td><td>)</td>
           <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  353</span>{</div>
-<div class="line"><span class="lineno">  354</span>    <span class="keywordflow">return</span> !u-&gt;<a class="code hl_function" href="../../d5/d7c/a08840.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() &amp;&amp; !u-&gt;<a class="code hl_function" href="../../d5/d7c/a08840.html#a64a682baf7ad56615c6ddb4c2ffe3835">HasGhostAura</a>() &amp;&amp; <a class="code hl_variable" href="../../dc/dc3/a09388.html#acf10f61f95961ff4b9fd4a8c162fa029">i_searchObj</a>-&gt;<a class="code hl_function" href="../../d8/dc4/a08492.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../dc/dc3/a09388.html#a1a95cfd469f27284e6ff35e9856bddcb">i_range</a>);</div>
-<div class="line"><span class="lineno">  355</span>}</div>
-<div class="ttc" id="aa08840_html_a64a682baf7ad56615c6ddb4c2ffe3835"><div class="ttname"><a href="../../d5/d7c/a08840.html#a64a682baf7ad56615c6ddb4c2ffe3835">Unit::HasGhostAura</a></div><div class="ttdeci">bool HasGhostAura() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1778</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   39</span>{</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_class" href="../../d5/d37/a09384.html">MapGridType</a>* grid = <a class="code hl_function" href="../../dc/dc3/a09388.html#a60c3abc9dbb707cee6d2c2ed02217c23">GetGrid</a>(x, y);</div>
+<div class="line"><span class="lineno">   41</span>    <span class="keywordflow">if</span> (!grid)</div>
+<div class="line"><span class="lineno">   42</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   43</span> </div>
+<div class="line"><span class="lineno">   44</span>    {</div>
+<div class="line"><span class="lineno">   45</span>        <a class="code hl_class" href="../../d4/dd9/a09304.html">GridObjectCleaner</a> worker;</div>
+<div class="line"><span class="lineno">   46</span>        <a class="code hl_class" href="../../de/d62/a05492.html">TypeContainerVisitor&lt;GridObjectCleaner, GridTypeMapContainer&gt;</a> visitor(worker);</div>
+<div class="line"><span class="lineno">   47</span>        grid-&gt;<a class="code hl_function" href="../../d5/d37/a09384.html#a87e9c4690a1ffee11a8d6a6fee264e7b">VisitAllCells</a>(visitor);</div>
+<div class="line"><span class="lineno">   48</span>    }</div>
+<div class="line"><span class="lineno">   49</span> </div>
+<div class="line"><span class="lineno">   50</span>    <a class="code hl_variable" href="../../dc/dc3/a09388.html#a16a35fb94355d6542a2ef634f5411243">_map</a>-&gt;<a class="code hl_function" href="../../db/d64/a10036.html#acc6e018eedcd4943734d153dc4a8cb89">RemoveAllObjectsInRemoveList</a>();</div>
+<div class="line"><span class="lineno">   51</span> </div>
+<div class="line"><span class="lineno">   52</span>    {</div>
+<div class="line"><span class="lineno">   53</span>        <a class="code hl_class" href="../../d7/d3d/a09308.html">GridObjectUnloader</a> worker;</div>
+<div class="line"><span class="lineno">   54</span>        <a class="code hl_class" href="../../de/d62/a05492.html">TypeContainerVisitor&lt;GridObjectUnloader, GridTypeMapContainer&gt;</a> visitor(worker);</div>
+<div class="line"><span class="lineno">   55</span>        grid-&gt;<a class="code hl_function" href="../../d5/d37/a09384.html#a87e9c4690a1ffee11a8d6a6fee264e7b">VisitAllCells</a>(visitor);</div>
+<div class="line"><span class="lineno">   56</span>    }</div>
+<div class="line"><span class="lineno">   57</span> </div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_class" href="../../d9/d4e/a09380.html">GridTerrainUnloader</a> terrainUnloader(*grid, <a class="code hl_variable" href="../../dc/dc3/a09388.html#a16a35fb94355d6542a2ef634f5411243">_map</a>);</div>
+<div class="line"><span class="lineno">   59</span>    terrainUnloader.UnloadTerrain();</div>
+<div class="line"><span class="lineno">   60</span> </div>
+<div class="line"><span class="lineno">   61</span>    <a class="code hl_variable" href="../../dc/dc3/a09388.html#acfac0df3926498e8a9aa581581f84e2c">_mapGrid</a>[x][y] = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   62</span>}</div>
+<div class="ttc" id="aa05492_html"><div class="ttname"><a href="../../de/d62/a05492.html">TypeContainerVisitor</a></div><div class="ttdef"><b>Definition:</b> TypeContainerVisitor.h:105</div></div>
+<div class="ttc" id="aa09304_html"><div class="ttname"><a href="../../d4/dd9/a09304.html">GridObjectCleaner</a></div><div class="ttdef"><b>Definition:</b> GridObjectLoader.h:47</div></div>
+<div class="ttc" id="aa09308_html"><div class="ttname"><a href="../../d7/d3d/a09308.html">GridObjectUnloader</a></div><div class="ttdef"><b>Definition:</b> GridObjectLoader.h:55</div></div>
+<div class="ttc" id="aa09380_html"><div class="ttname"><a href="../../d9/d4e/a09380.html">GridTerrainUnloader</a></div><div class="ttdef"><b>Definition:</b> GridTerrainLoader.h:44</div></div>
+<div class="ttc" id="aa09384_html_a87e9c4690a1ffee11a8d6a6fee264e7b"><div class="ttname"><a href="../../d5/d37/a09384.html#a87e9c4690a1ffee11a8d6a6fee264e7b">MapGrid::VisitAllCells</a></div><div class="ttdeci">void VisitAllCells(TypeContainerVisitor&lt; T, TT &gt; &amp;visitor)</div><div class="ttdef"><b>Definition:</b> MapGrid.h:70</div></div>
+<div class="ttc" id="aa10036_html_acc6e018eedcd4943734d153dc4a8cb89"><div class="ttname"><a href="../../db/d64/a10036.html#acc6e018eedcd4943734d153dc4a8cb89">Map::RemoveAllObjectsInRemoveList</a></div><div class="ttdeci">void RemoveAllObjectsInRemoveList()</div><div class="ttdef"><b>Definition:</b> Map.cpp:1793</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01778">Unit::HasGhostAura()</a>, <a class="el" href="../../#l00615">i_range</a>, <a class="el" href="../../#l00614">i_searchObj</a>, <a class="el" href="../../#l01773">Unit::IsAlive()</a>, and <a class="el" href="../../#l01347">WorldObject::IsWithinDistInMap()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00053">_map</a>, <a class="el" href="../../#l00059">_mapGrid</a>, <a class="el" href="../../#l00080">GetGrid()</a>, <a class="el" href="../../#l01793">Map::RemoveAllObjectsInRemoveList()</a>, <a class="el" href="../../#l00149">GridTerrainUnloader::UnloadTerrain()</a>, and <a class="el" href="../../#l00070">MapGrid&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::VisitAllCells()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00367">Acore::AnyDeadUnitSpellTargetInRangeCheck::operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01006">Map::UnloadGrid()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a1a95cfd469f27284e6ff35e9856bddcb" name="a1a95cfd469f27284e6ff35e9856bddcb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1a95cfd469f27284e6ff35e9856bddcb">&#9670;&#160;</a></span>i_range</h2>
+<a id="a6976d52c3af458e4d5885d2523cfafab" name="a6976d52c3af458e4d5885d2523cfafab"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6976d52c3af458e4d5885d2523cfafab">&#9670;&#160;</a></span>_createdGridsCount</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -302,22 +695,22 @@ template&lt;class NOT_INTERESTED &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">float Acore::AnyDeadUnitObjectInRangeCheck::i_range</td>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> MapGridManager::_createdGridsCount</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00352">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00005">CreateGrid()</a>, <a class="el" href="../../#l00088">GetCreatedGridsCount()</a>, and <a class="el" href="../../#l00121">IsGridsFullyCreated()</a>.</p>
 
 </div>
 </div>
-<a id="acf10f61f95961ff4b9fd4a8c162fa029" name="acf10f61f95961ff4b9fd4a8c162fa029"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acf10f61f95961ff4b9fd4a8c162fa029">&#9670;&#160;</a></span>i_searchObj</h2>
+<a id="aa2c2218a81a5d042925e5675948e242f" name="aa2c2218a81a5d042925e5675948e242f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa2c2218a81a5d042925e5675948e242f">&#9670;&#160;</a></span>_gridLock</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -326,17 +719,89 @@ template&lt;class NOT_INTERESTED &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d5/d7c/a08840.html">Unit</a> const* const Acore::AnyDeadUnitObjectInRangeCheck::i_searchObj</td>
+          <td class="memname">std::mutex MapGridManager::_gridLock</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00352">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00005">CreateGrid()</a>.</p>
+
+</div>
+</div>
+<a id="a5a93290a0bbeec830a3223a72823ca4b" name="a5a93290a0bbeec830a3223a72823ca4b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5a93290a0bbeec830a3223a72823ca4b">&#9670;&#160;</a></span>_loadedGridsCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> MapGridManager::_loadedGridsCount</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00093">GetLoadedGridsCount()</a>, <a class="el" href="../../#l00126">IsGridsFullyLoaded()</a>, and <a class="el" href="../../#l00022">LoadGrid()</a>.</p>
+
+</div>
+</div>
+<a id="a16a35fb94355d6542a2ef634f5411243" name="a16a35fb94355d6542a2ef634f5411243"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a16a35fb94355d6542a2ef634f5411243">&#9670;&#160;</a></span>_map</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d64/a10036.html">Map</a>* MapGridManager::_map</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00005">CreateGrid()</a>, <a class="el" href="../../#l00022">LoadGrid()</a>, and <a class="el" href="../../#l00038">UnloadGrid()</a>.</p>
+
+</div>
+</div>
+<a id="acfac0df3926498e8a9aa581581f84e2c" name="acfac0df3926498e8a9aa581581f84e2c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acfac0df3926498e8a9aa581581f84e2c">&#9670;&#160;</a></span>_mapGrid</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../d9/d1b/a01583.html#ae6e326739a8733a22249048253475f90">MapGridType</a>&gt; MapGridManager::_mapGrid[<a class="el" href="../../d3/d56/a04553.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a>][<a class="el" href="../../d3/d56/a04553.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a>]</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00005">CreateGrid()</a>, <a class="el" href="../../#l00080">GetGrid()</a>, <a class="el" href="../../#l00064">IsGridCreated()</a>, <a class="el" href="../../#l00072">IsGridLoaded()</a>, and <a class="el" href="../../#l00038">UnloadGrid()</a>.</p>
 
 </div>
 </div>
@@ -345,8 +810,8 @@ template&lt;class NOT_INTERESTED &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/d15/a04833.html">Acore</a></li><li class="navelem"><a class="el" href="../../dc/dc3/a09388.html">AnyDeadUnitObjectInRangeCheck</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:12:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dc/dc3/a09388.html">MapGridManager</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:15:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

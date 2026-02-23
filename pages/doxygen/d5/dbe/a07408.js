@@ -1,10 +1,7 @@
 var a07408 =
 [
-    [ "SelectionPool", "d5/dbe/a07408.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
-    [ "AddGroup", "d5/dbe/a07408.html#a87fe4747536355ad7affda76640a082e", null ],
-    [ "GetPlayerCount", "d5/dbe/a07408.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
-    [ "Init", "d5/dbe/a07408.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
-    [ "KickGroup", "d5/dbe/a07408.html#a74fb708546a8612ca52b24b8472b71ef", null ],
-    [ "PlayerCount", "d5/dbe/a07408.html#a0c08c47f68dbb45175efc524f4553e16", null ],
-    [ "SelectedGroups", "d5/dbe/a07408.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
+    [ "attackText", "d5/dbe/a07408.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
+    [ "id", "d5/dbe/a07408.html#a7f28adc30e9293df2f2c124469550d75", null ],
+    [ "takenText", "d5/dbe/a07408.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
+    [ "worldstate", "d5/dbe/a07408.html#a342ef087df4f9326952728c2192a3da3", null ]
 ];

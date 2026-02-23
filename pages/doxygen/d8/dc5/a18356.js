@@ -1,6 +1,6 @@
 var a18356 =
 [
-    [ "MysticBuffetTargetFilter", "d8/dc5/a18356.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea", null ],
-    [ "operator()", "d8/dc5/a18356.html#a76536b8960aa5e64fa8f7a02939d4295", null ],
-    [ "_caster", "d8/dc5/a18356.html#a60ef55fa8d6f511bba566ac3c8f8328a", null ]
+    [ "OnRemove", "d8/dc5/a18356.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
+    [ "PrepareAuraScript", "d8/dc5/a18356.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
+    [ "Register", "d8/dc5/a18356.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
 ];

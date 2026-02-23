@@ -1,6 +1,6 @@
 var a21552 =
 [
-    [ "HandleEffectPeriodic", "d5/d84/a21552.html#a508ff9e362d586497839aa29ceae1227", null ],
-    [ "PrepareAuraScript", "d5/d84/a21552.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
-    [ "Register", "d5/d84/a21552.html#a4b08cefe7d334635b70d389cc9df4901", null ]
+    [ "PrepareSpellScript", "d5/d84/a21552.html#a072a5228690b929af3b65d771bf5f485", null ],
+    [ "Register", "d5/d84/a21552.html#a87235eb9494edd94221f0380e815aa6b", null ],
+    [ "SetDest", "d5/d84/a21552.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
 ];

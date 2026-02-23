@@ -1,5 +1,10 @@
 var a24556 =
 [
-    [ "npc_pet_dk_dancing_rune_weapon", "d8/d60/a24556.html#ac838b907d56c97a911d7c7454c65e180", null ],
-    [ "InitializeAI", "d8/d60/a24556.html#aafeac4a22f366591d6d66b6150e099e2", null ]
+    [ "HandleEffectRemove", "d8/d60/a24556.html#a3b43cfcbbfa8fdbf170c76dd12b72074", null ],
+    [ "HandleImprovedBloodPresence", "d8/d60/a24556.html#a020c0ae1f74856ae070ab2104232a079", null ],
+    [ "HandleImprovedFrostPresence", "d8/d60/a24556.html#a262bfd40ee2f2d8ed793f999f660ba28", null ],
+    [ "HandleImprovedUnholyPresence", "d8/d60/a24556.html#a5da86bb3686327787da5f46fc756f0a0", null ],
+    [ "PrepareAuraScript", "d8/d60/a24556.html#a96453bb078359e46665e0eaa2a6cf6d1", null ],
+    [ "Register", "d8/d60/a24556.html#a6534d2b5bca9a50830d20b08bfc1b84e", null ],
+    [ "Validate", "d8/d60/a24556.html#afc23187a3a6dd48f2ad84ef354e36f3a", null ]
 ];

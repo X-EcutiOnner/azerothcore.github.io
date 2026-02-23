@@ -1,6 +1,7 @@
 var a22004 =
 [
-    [ "SACActivateEvent", "de/d9f/a22004.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
-    [ "Execute", "de/d9f/a22004.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
-    [ "_owner", "de/d9f/a22004.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
+    [ "HandleDummy", "de/d9f/a22004.html#abfb58e49821e6a563940e8ba518db850", null ],
+    [ "PrepareSpellScript", "de/d9f/a22004.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
+    [ "Register", "de/d9f/a22004.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
+    [ "Validate", "de/d9f/a22004.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
 ];

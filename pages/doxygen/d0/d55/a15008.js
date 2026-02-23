@@ -1,6 +1,7 @@
 var a15008 =
 [
-    [ "boss_infinite_corruptorAI", "d3/d7e/a15012.html", "d3/d7e/a15012" ],
-    [ "boss_infinite_corruptor", "d0/d55/a15008.html#a78a939073ab44b818cefdb25419f92be", null ],
-    [ "GetAI", "d0/d55/a15008.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
+    [ "HandleScript", "d0/d55/a15008.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
+    [ "PrepareSpellScript", "d0/d55/a15008.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
+    [ "Register", "d0/d55/a15008.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
+    [ "Validate", "d0/d55/a15008.html#aa1e74de390a8b71e43e43664981a36ff", null ]
 ];

@@ -1,6 +1,6 @@
 var a18332 =
 [
-    [ "HandleSpecial", "d0/dd0/a18332.html#afa540e8c748ca3083667528e2449bc65", null ],
-    [ "PrepareSpellScript", "d0/dd0/a18332.html#a9472211ffdaa33802099b22b2a721645", null ],
-    [ "Register", "d0/dd0/a18332.html#ab868b10372ff2ef401d19b126acf00c6", null ]
+    [ "HandlePeriodic", "d0/dd0/a18332.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
+    [ "PrepareAuraScript", "d0/dd0/a18332.html#a5d855d79247dff6f949a5e099abb9352", null ],
+    [ "Register", "d0/dd0/a18332.html#ae797de0ed29b3ca179c07d759b469228", null ]
 ];

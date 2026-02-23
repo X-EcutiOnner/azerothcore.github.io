@@ -1,6 +1,6 @@
 var a21440 =
 [
-    [ "HandleOnHit", "dc/d6b/a21440.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "dc/d6b/a21440.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "dc/d6b/a21440.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "npc_violet_hold_defense_system", "dc/d6b/a21440.html#abb5eb275e803201aad3010ad77aa4b41", null ],
+    [ "Reset", "dc/d6b/a21440.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
+    [ "UpdateAI", "dc/d6b/a21440.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ]
 ];

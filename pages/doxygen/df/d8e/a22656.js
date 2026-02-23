@@ -1,9 +1,8 @@
 var a22656 =
 [
-    [ "npc_crusade_recruitAI", "df/d8e/a22656.html#aa5d5e8cc4fe612fda84d971d9cee987f", null ],
-    [ "Reset", "df/d8e/a22656.html#a183360b99ecbd784b4dabbf5158f59d1", null ],
-    [ "sGossipSelect", "df/d8e/a22656.html#ab7bfdc4cc8c86645174ac154ee5db541", null ],
-    [ "UpdateAI", "df/d8e/a22656.html#a0b4dad62e1adf04013d8fbcefe310400", null ],
-    [ "_events", "df/d8e/a22656.html#a32060a04ba73fbf9ae2df8417e826ce9", null ],
-    [ "_heading", "df/d8e/a22656.html#a6e260a6e085962d54b765bff4cb17963", null ]
+    [ "npc_parasitic_shadowfiend", "df/d8e/a22656.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
+    [ "CanAIAttack", "df/d8e/a22656.html#ac7600aed313f1413cb9b522d60d30329", null ],
+    [ "EnterEvadeMode", "df/d8e/a22656.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
+    [ "IsSummonedBy", "df/d8e/a22656.html#a306c696d4243c4525d0a3908a212135d", null ],
+    [ "UpdateAI", "df/d8e/a22656.html#a2706a4ba7876f299b02d2e720f512af2", null ]
 ];

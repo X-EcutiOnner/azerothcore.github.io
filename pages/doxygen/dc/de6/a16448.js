@@ -1,6 +1,6 @@
 var a16448 =
 [
-    [ "npc_living_infernoAI", "dc/de6/a16448.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
-    [ "IsSummonedBy", "dc/de6/a16448.html#a4b6986a392aee0741ba47651e809c76c", null ],
-    [ "JustDied", "dc/de6/a16448.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
+    [ "boss_baltharus_the_warbornAI", "dd/dcf/a16452.html", "dd/dcf/a16452" ],
+    [ "boss_baltharus_the_warborn", "dc/de6/a16448.html#aababb8862273d60f140dce675131783d", null ],
+    [ "GetAI", "dc/de6/a16448.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
 ];

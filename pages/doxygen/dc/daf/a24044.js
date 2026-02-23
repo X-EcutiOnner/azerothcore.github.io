@@ -1,7 +1,6 @@
 var a24044 =
 [
-    [ "Load", "dc/daf/a24044.html#aba7e1a0b87607386649bb842b5058c3e", null ],
-    [ "OnRemove", "dc/daf/a24044.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
-    [ "PrepareAuraScript", "dc/daf/a24044.html#ac62b18eedbadb0b3581d772909175e96", null ],
-    [ "Register", "dc/daf/a24044.html#a17e8be131f01b2434b18740b20a08d6e", null ]
+    [ "CheckCast", "dc/daf/a24044.html#ae13cc2d3da1c9911c88402d05679d447", null ],
+    [ "PrepareSpellScript", "dc/daf/a24044.html#afbed81273aa23d355c64579c71e9761d", null ],
+    [ "Register", "dc/daf/a24044.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
 ];

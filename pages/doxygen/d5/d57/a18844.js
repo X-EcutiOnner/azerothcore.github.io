@@ -1,6 +1,6 @@
 var a18844 =
 [
-    [ "CaptainSurviveTalk", "d5/d57/a18844.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
-    [ "Execute", "d5/d57/a18844.html#a871cf08e8c7fced2971cae8abbc20454", null ],
-    [ "_owner", "d5/d57/a18844.html#ac8de506afb4688560ea637918d07b01e", null ]
+    [ "ActivateSpirit", "d5/d57/a18844.html#ae5c9f8e693a98c828e0e922870552952", null ],
+    [ "PrepareSpellScript", "d5/d57/a18844.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
+    [ "Register", "d5/d57/a18844.html#a2b1d27e93a879681098a83d17c4d686a", null ]
 ];

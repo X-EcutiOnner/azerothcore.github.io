@@ -1,5 +1,5 @@
 var a24276 =
 [
-    [ "go_warmaul_prison", "d7/df1/a24276.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
-    [ "OnGossipHello", "d7/df1/a24276.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
+    [ "npc_pet_dk_risen_ally", "d7/df1/a24276.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
+    [ "OnCharmed", "d7/df1/a24276.html#ac3927becc1ed929c384b3413bfee9330", null ]
 ];

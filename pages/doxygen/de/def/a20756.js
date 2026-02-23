@@ -1,6 +1,6 @@
 var a20756 =
 [
-    [ "npc_ulduar_dark_rune_guardianAI", "d6/d81/a20760.html", "d6/d81/a20760" ],
-    [ "npc_ulduar_dark_rune_guardian", "de/def/a20756.html#a6266dd5c096402b5383af09ac361a634", null ],
-    [ "GetAI", "de/def/a20756.html#a9ed188491483548658ce682bf36e6fd2", null ]
+    [ "BoomEvent", "de/def/a20756.html#aa9b7a8785f382068bb4510ffc0b43004", null ],
+    [ "Execute", "de/def/a20756.html#a1a870bea5c8e0a24a8ecd347a862ee75", null ],
+    [ "_me", "de/def/a20756.html#a30de77ee751f1c10231088cb84942342", null ]
 ];

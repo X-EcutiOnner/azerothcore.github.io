@@ -1,6 +1,7 @@
 var a25248 =
 [
-    [ "PrepareSpellScript", "df/de0/a25248.html#a47d6dbe250410458fe54421158545efb", null ],
-    [ "Register", "df/de0/a25248.html#ae2334b3fcfa916eb4b9ae1ca85a9687e", null ],
-    [ "SetDest", "df/de0/a25248.html#aa037240eae1a1dd2c2670fed7dcc4e8c", null ]
+    [ "HandleApplyEffect", "df/de0/a25248.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
+    [ "Load", "df/de0/a25248.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
+    [ "PrepareAuraScript", "df/de0/a25248.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
+    [ "Register", "df/de0/a25248.html#aed57fbbf473b8f15fa177261e4678e96", null ]
 ];

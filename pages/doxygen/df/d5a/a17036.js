@@ -1,7 +1,6 @@
 var a17036 =
 [
-    [ "HandlePeriodicTick", "df/d5a/a17036.html#a7fa0334a0a33b15758b6362aa0a9bd7d", null ],
-    [ "PrepareAuraScript", "df/d5a/a17036.html#aabaef31a3c699c322e24e064f357f82f", null ],
-    [ "Register", "df/d5a/a17036.html#ae9602bc623422c124dfc37a18c0dbfec", null ],
-    [ "Validate", "df/d5a/a17036.html#a18d92a82760992bc5d8503e3f774f208", null ]
+    [ "boss_fjolaAI", "d4/d50/a17040.html", "d4/d50/a17040" ],
+    [ "boss_fjola", "df/d5a/a17036.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f", null ],
+    [ "GetAI", "df/d5a/a17036.html#a96d9ea0716199758b60ad933ade28de4", null ]
 ];

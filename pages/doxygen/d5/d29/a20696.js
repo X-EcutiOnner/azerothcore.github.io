@@ -1,6 +1,8 @@
 var a20696 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "de/d6e/a20700.html", "de/d6e/a20700" ],
-    [ "npc_ulduar_rocket_strike_trigger", "d5/d29/a20696.html#a41cc84b04124bb47c24b39a48c9023b1", null ],
-    [ "GetAI", "d5/d29/a20696.html#a7715ce6646efa3728c28c4e11b25c2ed", null ]
+    [ "boss_thorim_pillar", "d5/d29/a20696.html#aec2fc6e420499c9ce991753b912bef1e", null ],
+    [ "Reset", "d5/d29/a20696.html#aea862be4cb7e7456d7ddfbe4fef81181", null ],
+    [ "SpellHit", "d5/d29/a20696.html#ae8b1877ac425c340410c7ca6a05d2d8a", null ],
+    [ "UpdateAI", "d5/d29/a20696.html#a3d4b4c2ae9ab4d541510e2026d1500c0", null ],
+    [ "_resetTimer", "d5/d29/a20696.html#ac9c8ef8622496593b5f91611d22120b3", null ]
 ];

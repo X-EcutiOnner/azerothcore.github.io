@@ -1,7 +1,7 @@
 var a15488 =
 [
-    [ "FilterTargets", "d1/d7e/a15488.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
-    [ "HandleOnHit", "d1/d7e/a15488.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
-    [ "PrepareSpellScript", "d1/d7e/a15488.html#ad7372e543391a23c003b4121e0dd8a09", null ],
-    [ "Register", "d1/d7e/a15488.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
+    [ "boss_rajaxx", "d1/d7e/a15488.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
+    [ "JustDied", "d1/d7e/a15488.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
+    [ "JustEngagedWith", "d1/d7e/a15488.html#a8dad79921559359b6aa7149641925fe5", null ],
+    [ "UpdateAI", "d1/d7e/a15488.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
 ];

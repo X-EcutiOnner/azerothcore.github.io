@@ -1,9 +1,11 @@
 var a06084 =
 [
-    [ "itemId", "dc/d0a/a06084.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
-    [ "mailTemplate", "dc/d0a/a06084.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
-    [ "sender", "dc/d0a/a06084.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
-    [ "subject", "dc/d0a/a06084.html#a45644f308278529f822080f8274180d8", null ],
-    [ "text", "dc/d0a/a06084.html#a4d57dcb4d130552f5bf756308d79307c", null ],
-    [ "titleId", "dc/d0a/a06084.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
+    [ "AppenderDB", "dc/d0a/a06084.html#af8e48076d47a06c73f6b8ae054955a83", null ],
+    [ "~AppenderDB", "dc/d0a/a06084.html#a7da848083d02833acc632051a2d938bf", null ],
+    [ "_write", "dc/d0a/a06084.html#af38ab76e4d3ea9ebe864582c0030c49a", null ],
+    [ "getType", "dc/d0a/a06084.html#a96221ceed23435556df03c5f7ffab61e", null ],
+    [ "setRealmId", "dc/d0a/a06084.html#a769ff59f4dbbff1b77398dd20c016ace", null ],
+    [ "enabled", "dc/d0a/a06084.html#a55e70394d0a7f321e0cf75a9b822b482", null ],
+    [ "realmId", "dc/d0a/a06084.html#a5c9bf2ae429c0903cffe9a01c03b6028", null ],
+    [ "type", "dc/d0a/a06084.html#a8d9968c073ee16a8fe082254ec232ebb", null ]
 ];

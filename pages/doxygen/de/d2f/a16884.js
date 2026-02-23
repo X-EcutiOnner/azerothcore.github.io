@@ -1,5 +1,8 @@
 var a16884 =
 [
-    [ "npc_essence_of_twin", "de/d2f/a16884.html#a019de64e5e01e611acfda5db4c279b19", null ],
-    [ "OnGossipHello", "de/d2f/a16884.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
+    [ "npc_toc_boomkinAI", "de/d2f/a16884.html#a12c586d57aa6dd3893889f103dbfee20", null ],
+    [ "JustSummoned", "de/d2f/a16884.html#a0d049885773b7f1abd7e03f9200852f4", null ],
+    [ "myCanCast", "de/d2f/a16884.html#a691a0250db77cc4def2bf67b25a1298c", null ],
+    [ "UpdateAI", "de/d2f/a16884.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
+    [ "events", "de/d2f/a16884.html#a0b367855092884b2ce30834e89fced87", null ]
 ];

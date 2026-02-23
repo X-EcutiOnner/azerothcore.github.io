@@ -1,6 +1,6 @@
 var a16428 =
 [
-    [ "PrepareSpellScript", "d3/d9e/a16428.html#a743f910c3854e2c4e726e97c55fa7038", null ],
-    [ "Register", "d3/d9e/a16428.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
-    [ "RemoveNotBetween", "d3/d9e/a16428.html#aba462e5b8e9336a508d19606f98750b5", null ]
+    [ "HandleLeapBack", "d3/d9e/a16428.html#a71a9b9967528c1153ad1215635bc7d01", null ],
+    [ "PrepareSpellScript", "d3/d9e/a16428.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
+    [ "Register", "d3/d9e/a16428.html#a6ef11d0538616315fa7cf098748aa01f", null ]
 ];

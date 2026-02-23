@@ -1,5 +1,6 @@
 var a21704 =
 [
-    [ "npc_khunok_the_behemothAI", "d2/d15/a21704.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
-    [ "MoveInLineOfSight", "d2/d15/a21704.html#a5d54954a159da764aa7b83579e03688c", null ]
+    [ "HandleSendEvent", "d2/d15/a21704.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
+    [ "PrepareSpellScript", "d2/d15/a21704.html#aa632d381ac415feaf226f55fc2cd8520", null ],
+    [ "Register", "d2/d15/a21704.html#a72673f5054cf269cc8da511441f7bd66", null ]
 ];

@@ -1,9 +1,8 @@
 var a06104 =
 [
-    [ "AddonInfo", "de/d7b/a06104.html#a60ea66ed93b64c9e182226954a514f53", null ],
-    [ "CRC", "de/d7b/a06104.html#a7f0f2d817a2189b3acee5999f154ba60", null ],
-    [ "Enabled", "de/d7b/a06104.html#ace9f109c395ed84cc01ca4381222c25b", null ],
-    [ "Name", "de/d7b/a06104.html#a45692257c72286e670ab8c9c50014335", null ],
-    [ "State", "de/d7b/a06104.html#a5301b19e44d68540434574f023e62f46", null ],
-    [ "UsePublicKeyOrCRC", "de/d7b/a06104.html#a75e016fa7abee24757c89b97330a6192", null ]
+    [ "UpdateResult", "de/d7b/a06104.html#af32cdf09d32607955c98353fbfa7d392", null ],
+    [ "UpdateResult", "de/d7b/a06104.html#a225eb6b9ff745dcd72d623ca79c007c6", null ],
+    [ "archived", "de/d7b/a06104.html#adee274af5f5d6981e28b3587008d690c", null ],
+    [ "recent", "de/d7b/a06104.html#aea54f4388b659def734957a47e9cca8c", null ],
+    [ "updated", "de/d7b/a06104.html#a12b3fffe01639493fc405bd5a797f463", null ]
 ];

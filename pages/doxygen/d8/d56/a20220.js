@@ -1,6 +1,8 @@
 var a20220 =
 [
-    [ "boss_freyaAI", "d9/d42/a20224.html", "d9/d42/a20224" ],
-    [ "boss_freya", "d8/d56/a20220.html#ae366f60526e7c948dee148cdd12f0752", null ],
-    [ "GetAI", "d8/d56/a20220.html#a6a2f5b402e99208a535fc3f23c2a0eb3", null ]
+    [ "OnApply", "d8/d56/a20220.html#a5aec8606684637bbdb1e819254f5d483", null ],
+    [ "OnRemove", "d8/d56/a20220.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
+    [ "PrepareAuraScript", "d8/d56/a20220.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
+    [ "Register", "d8/d56/a20220.html#af1db6ca387cf0733ba4b9c324172d692", null ],
+    [ "Validate", "d8/d56/a20220.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
 ];

@@ -1,8 +1,7 @@
 var a26260 =
 [
-    [ "Absorb", "d5/dbc/a26260.html#a9378cde1cc6daab0dc111b94aef4f6c8", null ],
-    [ "CalculateAmount", "d5/dbc/a26260.html#a20d5b4776ebeb859b0641af640e41d80", null ],
-    [ "PrepareAuraScript", "d5/dbc/a26260.html#ae1a70e11e89c4252e481ad737ad00ae0", null ],
-    [ "Register", "d5/dbc/a26260.html#a8c5399ba68554f4c2e842c5492ad715c", null ],
-    [ "Validate", "d5/dbc/a26260.html#aa6264e4dbff71b0d82e3403984c59c03", null ]
+    [ "HandleProc", "d5/dbc/a26260.html#a0564e0b3ae8c18c35d4c32feb7e365bd", null ],
+    [ "PrepareAuraScript", "d5/dbc/a26260.html#a07f8c8aa2ed37512b197084febed50ef", null ],
+    [ "Register", "d5/dbc/a26260.html#a10d283df17223afb32c238844bb5db67", null ],
+    [ "Validate", "d5/dbc/a26260.html#a1ee914e76abd22ba119740aa4aa6805e", null ]
 ];

@@ -1,6 +1,7 @@
 var a15508 =
 [
-    [ "HandleOnHit", "df/dcb/a15508.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
-    [ "PrepareSpellScript", "df/dcb/a15508.html#a9e568a1608715973fc438ff5e4356714", null ],
-    [ "Register", "df/dcb/a15508.html#a752d697aada626440fdff2bd889f890f", null ]
+    [ "npc_hivezara_stinger", "df/dcb/a15508.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
+    [ "JustEngagedWith", "df/dcb/a15508.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
+    [ "Reset", "df/dcb/a15508.html#ae8e893c90942a469628c393d5b5380cc", null ],
+    [ "UpdateAI", "df/dcb/a15508.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
 ];

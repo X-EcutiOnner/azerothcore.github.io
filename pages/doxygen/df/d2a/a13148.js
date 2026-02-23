@@ -1,5 +1,5 @@
 var a13148 =
 [
-    [ "boss_yazzai", "df/d2a/a13148.html#a6c92ffeff3e56f98cb1bd08f1835fe10", null ],
-    [ "JustEngagedWith", "df/d2a/a13148.html#ab504de0e51a3715485eb65e006352a6f", null ]
+    [ "at_karazhan_mirkblood_approach", "df/d2a/a13148.html#a032600991e9fc1aaf026adf2e63314e5", null ],
+    [ "OnTrigger", "df/d2a/a13148.html#aaece848faa4f1086ac0b16802a1e765e", null ]
 ];

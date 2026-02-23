@@ -1,6 +1,6 @@
 var a14100 =
 [
-    [ "cooldown", "d6/d4d/a14100.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
-    [ "spell", "d6/d4d/a14100.html#a00ee3238030686e1cc66562f7cefb27a", null ],
-    [ "target", "d6/d4d/a14100.html#a16e54dbd059baac1b6e7229621339d83", null ]
+    [ "npc_lord_gregor_lescovarAI", "da/d31/a14104.html", "da/d31/a14104" ],
+    [ "npc_lord_gregor_lescovar", "d6/d4d/a14100.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
+    [ "GetAI", "d6/d4d/a14100.html#a4cf39729bb687c7db3538575a799283e", null ]
 ];

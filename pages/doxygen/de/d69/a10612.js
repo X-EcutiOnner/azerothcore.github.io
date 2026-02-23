@@ -1,5 +1,9 @@
 var a10612 =
 [
-    [ "LogoutComplete", "de/d69/a10612.html#a94f3ea0cd30d1eb44733c1c5aef05ec7", null ],
-    [ "Write", "de/d69/a10612.html#a0d958bc07b674ed3339833351fec7d3a", null ]
+    [ "TransportScript", "de/d69/a10612.html#a4b83123b122fa98831d304670a3de50a", null ],
+    [ "IsDatabaseBound", "de/d69/a10612.html#a956f0d757e5d974566fa8fac0df731e5", null ],
+    [ "OnAddCreaturePassenger", "de/d69/a10612.html#a5afb1f1dca2264089238ddd68b38a86d", null ],
+    [ "OnAddPassenger", "de/d69/a10612.html#a806f4829b47429900271f6dde7eaa625", null ],
+    [ "OnRelocate", "de/d69/a10612.html#a10334c1929c80fc80c76791cbd52f6dd", null ],
+    [ "OnRemovePassenger", "de/d69/a10612.html#a6d6a3af4fcde46101b78cfdb787a2248", null ]
 ];

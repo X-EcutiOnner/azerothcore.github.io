@@ -1,6 +1,7 @@
 var a10600 =
 [
-    [ "ShowingHelm", "d7/d93/a10600.html#a67e25a4a39b14e488b5176b02e8dc995", null ],
-    [ "Read", "d7/d93/a10600.html#a9e6d525a7104f2a8f81564d3796c6211", null ],
-    [ "ShowHelm", "d7/d93/a10600.html#a9f3d52d5d6a6fa76b29afbd5a56d5622", null ]
+    [ "SpellScriptLoader", "d7/d93/a10600.html#a0ae97b8f3cf24f46b98a121d35bdeadf", null ],
+    [ "GetAuraScript", "d7/d93/a10600.html#a9c60850e39ffe3d151a128b12777859d", null ],
+    [ "GetSpellScript", "d7/d93/a10600.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
+    [ "IsDatabaseBound", "d7/d93/a10600.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
 ];

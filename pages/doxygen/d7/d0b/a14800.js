@@ -1,6 +1,6 @@
 var a14800 =
 [
-    [ "HandleDummy", "d7/d0b/a14800.html#a5e0797e5af760b618b1498f405766de8", null ],
-    [ "PrepareSpellScript", "d7/d0b/a14800.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
-    [ "Register", "d7/d0b/a14800.html#a2254e486bda73e07f8327c3412c7852b", null ]
+    [ "HandleScript", "d7/d0b/a14800.html#a465272dc4e693ab5ce5abd5a3905283b", null ],
+    [ "PrepareSpellScript", "d7/d0b/a14800.html#a26b296c1c4d9f5193dc3773509267284", null ],
+    [ "Register", "d7/d0b/a14800.html#aad66e4079ea9404b9057546d8959a395", null ]
 ];

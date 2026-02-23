@@ -1,10 +1,18 @@
 var a20740 =
 [
-    [ "npc_ulduar_harpoonfirestateAI", "d0/d65/a20740.html#acc6853671f37e35c746ffa3807ae10b2", null ],
-    [ "GetData", "d0/d65/a20740.html#ac23f2c901ef8c2160ceea43a0a15e185", null ],
-    [ "GetHarpoonGunIdForThisHFS", "d0/d65/a20740.html#af21c4d50febac02eb0572efe564a19b1", null ],
-    [ "Reset", "d0/d65/a20740.html#af300a8271762fe1b5582384114902ee8", null ],
-    [ "SetData", "d0/d65/a20740.html#abf485123f0a73aa84ad5178e23c4192e", null ],
-    [ "pInstance", "d0/d65/a20740.html#af576864ded6610daad973ac420d2fdb8", null ],
-    [ "repairPoints", "d0/d65/a20740.html#a5e9bcd384285b9046da93bd18804d07b", null ]
+    [ "boss_xt002", "d0/d65/a20740.html#afd9e4cbeadc453922b43d21dce621bd4", null ],
+    [ "AttachHeart", "d0/d65/a20740.html#a56cd1cb86b52bba527fd8610b5ec668e", null ],
+    [ "DoAction", "d0/d65/a20740.html#a5146e40e5530a014d552fbc92a62d595", null ],
+    [ "GetData", "d0/d65/a20740.html#a33d64c79af00c3e306fc0c63639d39fc", null ],
+    [ "JustDied", "d0/d65/a20740.html#a4afb96f905e61c8b35941a8481e19882", null ],
+    [ "JustEngagedWith", "d0/d65/a20740.html#a034de8d2644d5b1dfb07845faecc00a3", null ],
+    [ "JustReachedHome", "d0/d65/a20740.html#a31eae472c8da2f891e7d2c3424cf8075", null ],
+    [ "KilledUnit", "d0/d65/a20740.html#ae267d5941357b0e17061483103a8bb4c", null ],
+    [ "RescheduleEvents", "d0/d65/a20740.html#a3ff4223b4eecab9c8b193cd5f63d8f50", null ],
+    [ "Reset", "d0/d65/a20740.html#a0d33da735deae0fb5a22c4f7d6b19fa2", null ],
+    [ "UpdateAI", "d0/d65/a20740.html#a326eb111c3d94e1bb57e9fe6e1f38c57", null ],
+    [ "_gravityAchievement", "d0/d65/a20740.html#ae6fbbb1b43017878d74597bd95d51cd4", null ],
+    [ "_hardMode", "d0/d65/a20740.html#a2882a78918439bbc63902cab0179049c", null ],
+    [ "_healthCheck", "d0/d65/a20740.html#a82eedd2b45b0a67c3677ba398c24c540", null ],
+    [ "_nerfAchievement", "d0/d65/a20740.html#a19aeed1f8e5b3fb4ac34f752e5cb647d", null ]
 ];

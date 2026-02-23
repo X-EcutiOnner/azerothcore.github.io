@@ -1,20 +1,46 @@
 var a01616 =
 [
-    [ "WardenCheck", "da/d36/a11821.html", "da/d36/a11821" ],
-    [ "WardenCheckResult", "d2/d61/a11825.html", "d2/d61/a11825" ],
-    [ "WardenCheckMgr", "d3/d1a/a11829.html", "d3/d1a/a11829" ],
-    [ "sWardenCheckMgr", "db/dad/a01616.html#a367963ecc82479f8bea3aea9e235a85c", null ],
-    [ "WardenActions", "db/dad/a01616.html#acd25f1c729cc9c78338c6bc117dcd5e1", [
-      [ "WARDEN_ACTION_LOG", "db/dad/a01616.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81", null ],
-      [ "WARDEN_ACTION_KICK", "db/dad/a01616.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13", null ],
-      [ "WARDEN_ACTION_BAN", "db/dad/a01616.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0", null ]
+    [ "GmTicket", "d1/db9/a11832.html", "d1/db9/a11832" ],
+    [ "TicketMgr", "db/dc8/a11836.html", "db/dc8/a11836" ],
+    [ "sTicketMgr", "db/dad/a01616.html#a20db6dadbe20767eb03327894588c7be", null ],
+    [ "GmTicketList", "db/dad/a01616.html#a697d75cf06a963bad84903696288001a", null ],
+    [ "GMTicketEscalationStatus", "db/dad/a01616.html#a878f9ec26e56dd05dd8f956cfaba754d", [
+      [ "TICKET_UNASSIGNED", "db/dad/a01616.html#a878f9ec26e56dd05dd8f956cfaba754daa6e0f9ce9a37b89b10577eafedb4226a", null ],
+      [ "TICKET_ASSIGNED", "db/dad/a01616.html#a878f9ec26e56dd05dd8f956cfaba754daf84dc8de23735d2da3c608744476ea28", null ],
+      [ "TICKET_IN_ESCALATION_QUEUE", "db/dad/a01616.html#a878f9ec26e56dd05dd8f956cfaba754da5a63c2f2fcec47a0eaad7a4724c604e1", null ],
+      [ "TICKET_ESCALATED_ASSIGNED", "db/dad/a01616.html#a878f9ec26e56dd05dd8f956cfaba754da4c8da0f38bac21e259f2f077722c46d2", null ]
     ] ],
-    [ "WardenCheckTypes", "db/dad/a01616.html#ad353d1b1b229bf72b97440ac296da2f0", [
-      [ "WARDEN_CHECK_MEM_TYPE", "db/dad/a01616.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3", null ],
-      [ "WARDEN_CHECK_LUA_TYPE", "db/dad/a01616.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af", null ],
-      [ "WARDEN_CHECK_OTHER_TYPE", "db/dad/a01616.html#ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2", null ]
+    [ "GMTicketOpenedByGMStatus", "db/dad/a01616.html#aeedacb4a8f5a99f7c38b120ef230820d", [
+      [ "GMTICKET_OPENEDBYGM_STATUS_NOT_OPENED", "db/dad/a01616.html#aeedacb4a8f5a99f7c38b120ef230820da0acf204e62a9ac335f4d8e519401a4cd", null ],
+      [ "GMTICKET_OPENEDBYGM_STATUS_OPENED", "db/dad/a01616.html#aeedacb4a8f5a99f7c38b120ef230820dae8a849a379231ad568354acea3c1686a", null ]
     ] ],
-    [ "MAX_WARDEN_ACTION", "db/dad/a01616.html#afa0b1cff6db4dd71ef500011182f2834", null ],
-    [ "MAX_WARDEN_CHECK_TYPES", "db/dad/a01616.html#a80604a840828219101f07100a7a48dad", null ],
-    [ "WARDEN_MAX_LUA_CHECK_LENGTH", "db/dad/a01616.html#a005df8388201fb598a4eedfeac422fbc", null ]
+    [ "GMTicketResponse", "db/dad/a01616.html#adb4cde78a930d8f04d2f7ba4167a27d3", [
+      [ "GMTICKET_RESPONSE_ALREADY_EXIST", "db/dad/a01616.html#adb4cde78a930d8f04d2f7ba4167a27d3a51361b1b513a3edf01f314b6c8c14921", null ],
+      [ "GMTICKET_RESPONSE_CREATE_SUCCESS", "db/dad/a01616.html#adb4cde78a930d8f04d2f7ba4167a27d3a841b790fadbc9573dd25dc12bacc2780", null ],
+      [ "GMTICKET_RESPONSE_CREATE_ERROR", "db/dad/a01616.html#adb4cde78a930d8f04d2f7ba4167a27d3a08c10cb4c26d717228a5697ead5bbbc2", null ],
+      [ "GMTICKET_RESPONSE_UPDATE_SUCCESS", "db/dad/a01616.html#adb4cde78a930d8f04d2f7ba4167a27d3af30fa9cd9828f4254eac75bd01ca49f5", null ],
+      [ "GMTICKET_RESPONSE_UPDATE_ERROR", "db/dad/a01616.html#adb4cde78a930d8f04d2f7ba4167a27d3af4d4cdba2bdbb81d2ca25b1f4864e18f", null ],
+      [ "GMTICKET_RESPONSE_TICKET_DELETED", "db/dad/a01616.html#adb4cde78a930d8f04d2f7ba4167a27d3aa0b33c09a7035bef00e6d174383c0804", null ]
+    ] ],
+    [ "GMTicketStatus", "db/dad/a01616.html#aa9bdef2d04cda42105b540072878a959", [
+      [ "GMTICKET_STATUS_HASTEXT", "db/dad/a01616.html#aa9bdef2d04cda42105b540072878a959aae8e16aa9f969c6f6553c6237125d0ad", null ],
+      [ "GMTICKET_STATUS_DEFAULT", "db/dad/a01616.html#aa9bdef2d04cda42105b540072878a959a251de6cd21e96c676566232e9625b5a0", null ]
+    ] ],
+    [ "GMTicketSystemStatus", "db/dad/a01616.html#a620665e68b03e8238c0f67a7d156ff20", [
+      [ "GMTICKET_QUEUE_STATUS_DISABLED", "db/dad/a01616.html#a620665e68b03e8238c0f67a7d156ff20a4a66517fc7ca7d2754a456d10fb795f3", null ],
+      [ "GMTICKET_QUEUE_STATUS_ENABLED", "db/dad/a01616.html#a620665e68b03e8238c0f67a7d156ff20a061a48ce23122a2783e2b9f1df7d9417", null ]
+    ] ],
+    [ "LagReportType", "db/dad/a01616.html#a8c967ea39ca26744000413d362c7c100", [
+      [ "LAG_REPORT_TYPE_LOOT", "db/dad/a01616.html#a8c967ea39ca26744000413d362c7c100a39753ee340eb3a338b2e4d18171da9f7", null ],
+      [ "LAG_REPORT_TYPE_AUCTION_HOUSE", "db/dad/a01616.html#a8c967ea39ca26744000413d362c7c100aaedf06863e987c9b3fd5226f17680023", null ],
+      [ "LAG_REPORT_TYPE_MAIL", "db/dad/a01616.html#a8c967ea39ca26744000413d362c7c100a11af2b0c93f6e60a08c02ad20c846c83", null ],
+      [ "LAG_REPORT_TYPE_CHAT", "db/dad/a01616.html#a8c967ea39ca26744000413d362c7c100afe144b0bc7321e1a1999ae69cd76fd90", null ],
+      [ "LAG_REPORT_TYPE_MOVEMENT", "db/dad/a01616.html#a8c967ea39ca26744000413d362c7c100ae2cb2d020d3795c948745bc52332d007", null ],
+      [ "LAG_REPORT_TYPE_SPELL", "db/dad/a01616.html#a8c967ea39ca26744000413d362c7c100a48ba55ab4e85d0930ac31a7727276e9d", null ]
+    ] ],
+    [ "TicketType", "db/dad/a01616.html#a4c0ab886570eedf7c4ab55ac06a3ce40", [
+      [ "TICKET_TYPE_OPEN", "db/dad/a01616.html#a4c0ab886570eedf7c4ab55ac06a3ce40a08a09aed9108054a1ffb663d6be0a95e", null ],
+      [ "TICKET_TYPE_CLOSED", "db/dad/a01616.html#a4c0ab886570eedf7c4ab55ac06a3ce40abdad221a4e0aac30acd6b1989781f190", null ],
+      [ "TICKET_TYPE_CHARACTER_DELETED", "db/dad/a01616.html#a4c0ab886570eedf7c4ab55ac06a3ce40a39e587cb50470c90ae82c9d1570e1896", null ]
+    ] ]
 ];

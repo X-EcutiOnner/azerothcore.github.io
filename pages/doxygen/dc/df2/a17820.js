@@ -1,6 +1,9 @@
 var a17820 =
 [
-    [ "npc_muradin_bronzebeard_igbAI", "df/d60/a17824.html", "df/d60/a17824" ],
-    [ "npc_muradin_bronzebeard_igb", "dc/df2/a17820.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
-    [ "GetAI", "dc/df2/a17820.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
+    [ "CheckTarget", "dc/df2/a17820.html#a43fc6a16aca217ef043fa34a58391357", null ],
+    [ "HandlePresence", "dc/df2/a17820.html#a52ea6041c5fe004c1e996a974cc59d5d", null ],
+    [ "OnCast", "dc/df2/a17820.html#a96cec6f1b51a2c0c03f89447c5306b5a", null ],
+    [ "PrepareSpellScript", "dc/df2/a17820.html#abe559b32aa82f19abb0a6d664b75c748", null ],
+    [ "Register", "dc/df2/a17820.html#ad8c7a9935e85c06f837e694ebcaffba1", null ],
+    [ "Validate", "dc/df2/a17820.html#a2301414a88dcbf4bdc8a486ec4be994e", null ]
 ];

@@ -1,8 +1,6 @@
 var a17028 =
 [
-    [ "npc_fos_corrupted_soul_fragmentAI", "da/d81/a17028.html#a61797329ecddde6da2e23e951fa92ca2", null ],
-    [ "Reset", "da/d81/a17028.html#a5bb03371b24593ca2de995bf85857782", null ],
-    [ "UpdateAI", "da/d81/a17028.html#ac6e651186c5edfd8e5279ddd38a15eb9", null ],
-    [ "pInstance", "da/d81/a17028.html#a6ced23b3b4150b31020a636559d6eec6", null ],
-    [ "timer", "da/d81/a17028.html#aa19c9928e3979bb01d89dc81b8feb4fc", null ]
+    [ "boss_eydisAI", "d1/d59/a17032.html", "d1/d59/a17032" ],
+    [ "boss_eydis", "da/d81/a17028.html#aa555f80882499bc4627e622fbb48b2a4", null ],
+    [ "GetAI", "da/d81/a17028.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
 ];

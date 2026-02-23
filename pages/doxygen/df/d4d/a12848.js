@@ -1,10 +1,6 @@
 var a12848 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "df/d4d/a12848.html#a0080fdf557ad8159a8934dce5b39a535", null ],
-    [ "OnCreatureCreate", "df/d4d/a12848.html#ac607601becc7fbf4ea9c64d87c93287c", null ],
-    [ "OnGameObjectCreate", "df/d4d/a12848.html#a0c2f4d615394ef1d6e1b930ed6aff82f", null ],
-    [ "ReadSaveDataMore", "df/d4d/a12848.html#a85d3db22430a4bac7e01dcfa1a1efb5b", null ],
-    [ "SetData", "df/d4d/a12848.html#af800a1906c532f61f0299f8aa9359a66", null ],
-    [ "WriteSaveDataMore", "df/d4d/a12848.html#a1b30829b3c782bb2c52e5da4fa388d5c", null ],
-    [ "_encounters", "df/d4d/a12848.html#ae19a56e7fdcb2d0204d444cba11b7441", null ]
+    [ "boss_gehennasAI", "df/d4d/a12848.html#aaefd1f10d03957477863df95143a95a9", null ],
+    [ "ExecuteEvent", "df/d4d/a12848.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
+    [ "JustEngagedWith", "df/d4d/a12848.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
 ];

@@ -1,7 +1,7 @@
 var a14852 =
 [
-    [ "HandleScript", "d2/d08/a14852.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
-    [ "PrepareSpellScript", "d2/d08/a14852.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
-    [ "Register", "d2/d08/a14852.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
-    [ "Validate", "d2/d08/a14852.html#aa1e74de390a8b71e43e43664981a36ff", null ]
+    [ "go_loosely_turned_soilAI", "d8/dba/a14856.html", "d8/dba/a14856" ],
+    [ "go_loosely_turned_soil", "d2/d08/a14852.html#a3b4d51e2b3a604e030962127269236f1", null ],
+    [ "GetAI", "d2/d08/a14852.html#acead5810a848f8837fa65af1f2ac00bd", null ],
+    [ "OnQuestReward", "d2/d08/a14852.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
 ];

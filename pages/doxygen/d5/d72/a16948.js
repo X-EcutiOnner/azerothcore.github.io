@@ -1,6 +1,6 @@
 var a16948 =
 [
-    [ "HandleEffectApply", "d5/d72/a16948.html#aaea2c3733dadc19072c81774468e345a", null ],
-    [ "PrepareAuraScript", "d5/d72/a16948.html#a3848997e9f775add50d40342b6211ff0", null ],
-    [ "Register", "d5/d72/a16948.html#a775b1cf494049ed13d149ca6318142c3", null ]
+    [ "boss_jaraxxusAI", "db/d58/a16952.html", "db/d58/a16952" ],
+    [ "boss_jaraxxus", "d5/d72/a16948.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
+    [ "GetAI", "d5/d72/a16948.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
 ];

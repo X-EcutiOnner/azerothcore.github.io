@@ -1,9 +1,10 @@
 var a08296 =
 [
-    [ "artKits", "de/d19/a08296.html#a7ae038f7051f3da177d3cdc95ef608d2", null ],
-    [ "entry", "de/d19/a08296.html#ae1378dcb4327a4d000c3299a32f9d23f", null ],
-    [ "faction", "de/d19/a08296.html#a77e0b2613b7a1cda1bd306f066e63a39", null ],
-    [ "flags", "de/d19/a08296.html#a4120c9184b4cfab7afada48ccf8e713e", null ],
-    [ "maxgold", "de/d19/a08296.html#ae80fd304ee4d02d5e0d13ec6136ec736", null ],
-    [ "mingold", "de/d19/a08296.html#a3b1c3dd6f223bd93cda6e993a64b61d1", null ]
+    [ "BoxMessage", "de/d19/a08296.html#a450f6063a89db2d152370bc997c844a3", null ],
+    [ "BoxMoney", "de/d19/a08296.html#a52a12645b55f5757cc61e9a014a71f32", null ],
+    [ "IsCoded", "de/d19/a08296.html#accca334730f578bd28c0e9a7fe7ec0ab", null ],
+    [ "MenuItemIcon", "de/d19/a08296.html#a987724c4673be20f5386f44245267bc9", null ],
+    [ "Message", "de/d19/a08296.html#af130b33294cd49261b3c093cf6f9542c", null ],
+    [ "OptionType", "de/d19/a08296.html#a3df0c5fedb028b4fcce8ad5884cc0e6f", null ],
+    [ "Sender", "de/d19/a08296.html#aacc07cb5c755d698fe4cb2e228185e34", null ]
 ];

@@ -1,8 +1,8 @@
 var a23944 =
 [
-    [ "boss_laj", "de/db9/a23944.html#a3c9323ab4b5530504588ea62aed2edff", null ],
-    [ "Reset", "de/db9/a23944.html#ace690a0662376addaa40093f3f119c31", null ],
-    [ "ScheduleTasks", "de/db9/a23944.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
-    [ "_lastTransform", "de/db9/a23944.html#a097eacaaf77a09bec087530bad587b11", null ],
-    [ "_transformContainer", "de/db9/a23944.html#a313e66ceeb4e359251dad65383e7f568", null ]
+    [ "npc_ancestral_wolfAI", "de/db9/a23944.html#a59ccca7093575f4bcac57a4751d977d4", null ],
+    [ "MoveInLineOfSight", "de/db9/a23944.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
+    [ "Reset", "de/db9/a23944.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
+    [ "WaypointReached", "de/db9/a23944.html#a2b553c29823e5ef888ee02a3ed413386", null ],
+    [ "ryga", "de/db9/a23944.html#ac238214604720e298124b58c35d58e05", null ]
 ];

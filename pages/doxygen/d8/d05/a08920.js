@@ -1,8 +1,8 @@
 var a08920 =
 [
-    [ "Entry", "d8/d05/a08920.html#ac9fa29db15e06513805124a56cd073e8", null ],
-    [ "ExtendedCost", "d8/d05/a08920.html#ac826dc078ef456ed93bf23175bce243d", null ],
-    [ "Incrtime", "d8/d05/a08920.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
-    [ "Item", "d8/d05/a08920.html#aa500da847d94a9b70cb3a26b782059b3", null ],
-    [ "MaxCount", "d8/d05/a08920.html#a04534ff42e5889995b5203a3257bc864", null ]
+    [ "CleanDamage", "d8/d05/a08920.html#ad25ab816a679e323c07873efbc1c2f20", null ],
+    [ "absorbed_damage", "d8/d05/a08920.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
+    [ "attackType", "d8/d05/a08920.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
+    [ "hitOutCome", "d8/d05/a08920.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
+    [ "mitigated_damage", "d8/d05/a08920.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
 ];

@@ -1,6 +1,8 @@
 var a27368 =
 [
-    [ "npc_dream_fogAI", "d9/d7b/a27372.html", "d9/d7b/a27372" ],
-    [ "npc_dream_fog", "db/df1/a27368.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
-    [ "GetAI", "db/df1/a27368.html#a48c45fec086e3a50462deed44734ba38", null ]
+    [ "Apply", "db/df1/a27368.html#ac3145df90b6b179fece1c76da114e395", null ],
+    [ "HandleEffectPeriodic", "db/df1/a27368.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
+    [ "PrepareAuraScript", "db/df1/a27368.html#aa911ba0b5a13a933bf50a072799a040f", null ],
+    [ "Register", "db/df1/a27368.html#ae0dff9b5002d3d3361d794a75645057f", null ],
+    [ "Validate", "db/df1/a27368.html#ad81184b508474a89fbafc63594ef0ab1", null ]
 ];

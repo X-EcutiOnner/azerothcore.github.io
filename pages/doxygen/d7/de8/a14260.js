@@ -1,11 +1,14 @@
 var a14260 =
 [
-    [ "boss_hakkarAI", "d7/de8/a14260.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
-    [ "ApplyHakkarPowerStacks", "d7/de8/a14260.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
-    [ "CheckInRoom", "d7/de8/a14260.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
-    [ "EnterEvadeMode", "d7/de8/a14260.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
-    [ "JustDied", "d7/de8/a14260.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
-    [ "JustEngagedWith", "d7/de8/a14260.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
-    [ "Reset", "d7/de8/a14260.html#a52db5743c09088e2e9f1aff1513960f2", null ],
-    [ "UpdateAI", "d7/de8/a14260.html#a1119212465bcf293991d7a520c6ffe42", null ]
+    [ "boss_hexlord_malacrass", "d7/de8/a14260.html#aaf3fdf0b34904d1c5798ebcc291cdcde", null ],
+    [ "JustEngagedWith", "d7/de8/a14260.html#ac5af0a5ec11ab8529e74a1ea7f0b4b66", null ],
+    [ "KilledUnit", "d7/de8/a14260.html#a69e7a3aa2cb068706651bad34363099f", null ],
+    [ "Reset", "d7/de8/a14260.html#af00159c9e2c54033f52f46d60881f22e", null ],
+    [ "ScheduleClassAbility", "d7/de8/a14260.html#aefffbab821a4abb4ab0e6779ba73d5ac", null ],
+    [ "SpawnAdds", "d7/de8/a14260.html#a8ffb01ebe267b4eb935e373bd0d99eed", null ],
+    [ "UseAbility", "d7/de8/a14260.html#afdad8cc36235f11dc5c4b4f579f5b46b", null ],
+    [ "_classAbilityTimer", "d7/de8/a14260.html#a40ccd2e586895ab1cde3c51bcd56c11b", null ],
+    [ "_creatureIndex", "d7/de8/a14260.html#ac13b0f08fec4270ed372f00ae540fdc3", null ],
+    [ "_currentClass", "d7/de8/a14260.html#ab7e531fccbb486b7b429d77d804841c2", null ],
+    [ "_timeUntilNextDrainPower", "d7/de8/a14260.html#aa6963eb30a6e8555d4695bf284b13cac", null ]
 ];

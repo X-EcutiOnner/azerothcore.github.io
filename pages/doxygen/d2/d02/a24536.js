@@ -1,6 +1,7 @@
 var a24536 =
 [
-    [ "npc_slim", "d2/d02/a24536.html#aa227fbe22126bed821939873973e6a20", null ],
-    [ "OnGossipHello", "d2/d02/a24536.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
-    [ "OnGossipSelect", "d2/d02/a24536.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
+    [ "CalculateAmount", "d2/d02/a24536.html#ad99a4176d27864280a79ac548a57a4c8", null ],
+    [ "Load", "d2/d02/a24536.html#aeafec50b06b5dd2f69ca6ab4096aea4d", null ],
+    [ "PrepareAuraScript", "d2/d02/a24536.html#a76528513f0f6728e73085a3d403c3e59", null ],
+    [ "Register", "d2/d02/a24536.html#a4d09be7d33755ae719138d079884e281", null ]
 ];

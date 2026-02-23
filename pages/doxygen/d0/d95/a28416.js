@@ -1,7 +1,6 @@
 var a28416 =
 [
-    [ "EmoteType", "d0/d95/a28416.html#a2d319652021081fdb02472c32a28e318", null ],
-    [ "Flags", "d0/d95/a28416.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
-    [ "Id", "d0/d95/a28416.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
-    [ "UnitStandState", "d0/d95/a28416.html#ada83e548faa01917a5db19eaa15dbbec", null ]
+    [ "spawnedCreatureEntry", "d0/d95/a28416.html#a32b390dfff99d5fd3c49359779718af4", null ],
+    [ "spawnType", "d0/d95/a28416.html#a056dabf4092da4ef3155a661607ca772", null ],
+    [ "thisCreatureEntry", "d0/d95/a28416.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
 ];

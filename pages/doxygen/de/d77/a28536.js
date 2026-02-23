@@ -1,8 +1,7 @@
 var a28536 =
 [
-    [ "Id", "de/d77/a28536.html#a6943bf760d15b3f8af4109d131652d72", null ],
-    [ "MapId", "de/d77/a28536.html#ab0cccd760636a3b42af693d6c483bed9", null ],
-    [ "X", "de/d77/a28536.html#a91183890254546efeb3162173cc60dad", null ],
-    [ "Y", "de/d77/a28536.html#a19ab4d026b45d74f006479641afbc4d3", null ],
-    [ "Z", "de/d77/a28536.html#aaa23c59f20fc96aec148b82516f30036", null ]
+    [ "npc_venomhide_hatchlingAI", "d4/d3e/a28540.html", "d4/d3e/a28540" ],
+    [ "npc_venomhide_hatchling", "de/d77/a28536.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
+    [ "GetAI", "de/d77/a28536.html#a96110b752965d751ab7b466c4f67e333", null ],
+    [ "OnGossipHello", "de/d77/a28536.html#a404d875592b847ddb9f3250c9d954bfc", null ]
 ];

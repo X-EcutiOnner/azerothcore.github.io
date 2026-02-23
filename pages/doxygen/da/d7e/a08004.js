@@ -1,7 +1,6 @@
 var a08004 =
 [
-    [ "RBEntryInfo", "da/d7e/a08004.html#aa720dd6cae9ee7163bb9b84918249644", null ],
-    [ "RBEntryInfo", "da/d7e/a08004.html#a3df17ed1c70ed9b755843308d5ff6336", null ],
-    [ "comment", "da/d7e/a08004.html#a7284eac7208dba21a52b79257aad7dbc", null ],
-    [ "roles", "da/d7e/a08004.html#ab891dec65b0070ede1233080eadd0190", null ]
+    [ "value_type", "da/d7e/a08004.html#ac481731c1965ea0420cd7820e1e89881", null ],
+    [ "StoreTo", "da/d7e/a08004.html#a36969f95d224ae4561d46a3ca7b20d26", null ],
+    [ "tag", "da/d7e/a08004.html#a24d00ca0725d6b4f236bccd7cf5ecbc7", null ]
 ];

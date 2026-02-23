@@ -1,6 +1,6 @@
 var a12404 =
 [
-    [ "OrcMoveEvent", "dc/d1f/a12404.html#a71f7fe243741a1629bdd846fc97f0112", null ],
-    [ "Execute", "dc/d1f/a12404.html#a58a3c88ed3c6b534016179949b85ff9e", null ],
-    [ "_me", "dc/d1f/a12404.html#ad8d09bbb659d44e9f4b9171cea7ef7e8", null ]
+    [ "boss_magmusAI", "d2/def/a12408.html", "d2/def/a12408" ],
+    [ "boss_magmus", "dc/d1f/a12404.html#a97747c0d7e1fd33204033d6061d6d570", null ],
+    [ "GetAI", "dc/d1f/a12404.html#a171bc08a8dd9fa502f3b2b6cf736fd52", null ]
 ];

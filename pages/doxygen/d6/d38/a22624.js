@@ -1,5 +1,7 @@
 var a22624 =
 [
-    [ "achievement_wg_within_our_grasp", "d6/d38/a22624.html#a9edbd15bc6989c6948e21391a683d22d", null ],
-    [ "OnCheck", "d6/d38/a22624.html#a10b659c4b52322536333e3d191796c27", null ]
+    [ "HandleProc", "d6/d38/a22624.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
+    [ "PrepareAuraScript", "d6/d38/a22624.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
+    [ "Register", "d6/d38/a22624.html#a6b764182501a1d192f90dc20bbd6549e", null ],
+    [ "Validate", "d6/d38/a22624.html#ad89123425cca5bd02a18526a11595a1a", null ]
 ];

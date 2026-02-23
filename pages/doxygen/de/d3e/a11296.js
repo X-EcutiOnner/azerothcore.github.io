@@ -1,14 +1,7 @@
 var a11296 =
 [
-    [ "Account", "de/d3e/a11296.html#acb9382abe66dd43176fb7af1f3020388", null ],
-    [ "AddonInfo", "de/d3e/a11296.html#ad39c1b9e73d5bbbe45114e3358126d73", null ],
-    [ "BattlegroupID", "de/d3e/a11296.html#aa09cd28d82e9d96d96a1ccefc4a313ca", null ],
-    [ "Build", "de/d3e/a11296.html#ae4a83f8e8c81c1d797512245392fd582", null ],
-    [ "Digest", "de/d3e/a11296.html#a6b795f38fb996534f502e1fa5de9e48e", null ],
-    [ "DosResponse", "de/d3e/a11296.html#afe2b4146ef592a7067ddaeac449b0644", null ],
-    [ "LocalChallenge", "de/d3e/a11296.html#a5c8c57127a0b1cd3cfa63503018c8ae3", null ],
-    [ "LoginServerID", "de/d3e/a11296.html#a155f8107ac5a637501a169cfaf43c4b9", null ],
-    [ "LoginServerType", "de/d3e/a11296.html#aea79adfcdb6acd5b6bf34fc9175cca3c", null ],
-    [ "RealmID", "de/d3e/a11296.html#a944915bd95665075fdf4b6fa01de9a9f", null ],
-    [ "RegionID", "de/d3e/a11296.html#a4052be051b41e931747b1956dc145d64", null ]
+    [ "PetActionSound", "de/d3e/a11296.html#ae20a837d2b3f647d2a1d7c5e398b7b56", null ],
+    [ "Write", "de/d3e/a11296.html#a8627631f2eb7d93cda52ce09a749fb0c", null ],
+    [ "Action", "de/d3e/a11296.html#a25b3a4b44bcda9bec898aca1a88b90ed", null ],
+    [ "UnitGUID", "de/d3e/a11296.html#a32b15c490da02bc5020653a9e9bfbd68", null ]
 ];

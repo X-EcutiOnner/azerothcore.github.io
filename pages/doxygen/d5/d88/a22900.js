@@ -1,7 +1,6 @@
 var a22900 =
 [
-    [ "HandleProc", "d5/d88/a22900.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
-    [ "PrepareAuraScript", "d5/d88/a22900.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
-    [ "Register", "d5/d88/a22900.html#a6b764182501a1d192f90dc20bbd6549e", null ],
-    [ "Validate", "d5/d88/a22900.html#ad89123425cca5bd02a18526a11595a1a", null ]
+    [ "ShadowOfDeathSelector", "d5/d88/a22900.html#a1190094fbde74ccffd954fea742ab0ae", null ],
+    [ "operator()", "d5/d88/a22900.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
+    [ "_tank", "d5/d88/a22900.html#adc238645eec306e00918dbab05549fc8", null ]
 ];

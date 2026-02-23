@@ -1,5 +1,6 @@
 var a27292 =
 [
-    [ "achievement_sa_defense_of_the_ancients", "df/dde/a27292.html#a678cffdece32710a42a92db0c092f3a5", null ],
-    [ "OnCheck", "df/dde/a27292.html#af23e346f9b022f490b84c8081f847a2f", null ]
+    [ "CheckProc", "df/dde/a27292.html#a5e48b25b15b60aa284ca61e900e0f87e", null ],
+    [ "PrepareAuraScript", "df/dde/a27292.html#a13ccd1c89767d0dcf041217466390759", null ],
+    [ "Register", "df/dde/a27292.html#a4f29ca53813534b1af20e09281288e95", null ]
 ];

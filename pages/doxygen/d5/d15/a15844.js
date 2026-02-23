@@ -1,17 +1,13 @@
 var a15844 =
 [
-    [ "npc_anachronos_quest_triggerAI", "d5/d15/a15844.html#aec19da0dd982c643b15dd3f9fae7338e", null ],
-    [ "CheckEventFail", "d5/d15/a15844.html#a9cb72ea49977b65c42c80f6e53cfa021", null ],
-    [ "LiveCounter", "d5/d15/a15844.html#aa19310d516a578dcd2d13d4298da0f58", null ],
-    [ "Reset", "d5/d15/a15844.html#ab69245d2f874bef9796c151e5a27aaf7", null ],
-    [ "SummonNextWave", "d5/d15/a15844.html#af2cc55a3f35a70a4a9630b4b843f8db7", null ],
-    [ "UpdateAI", "d5/d15/a15844.html#af8aa57d58c05da9a8194bc6565d7a096", null ],
-    [ "Announced", "d5/d15/a15844.html#a4e516705efff20a62124514ba14c8161", null ],
-    [ "AnnounceTimer", "d5/d15/a15844.html#a7772c5b4f80b75ffe7b0641321029059", null ],
-    [ "EventStarted", "d5/d15/a15844.html#ad70b899bedb2b338a306f45e2b4eafd4", null ],
-    [ "Failed", "d5/d15/a15844.html#a60af9e06e872adfab6e7dbac73dfbece", null ],
-    [ "LiveCount", "d5/d15/a15844.html#ae959e46865951c2783fe97e824180050", null ],
-    [ "PlayerGUID", "d5/d15/a15844.html#a2c459e96b3599cda8560582a4fb4253a", null ],
-    [ "WaveCount", "d5/d15/a15844.html#ac3a32a11e5f99d081371c49363509deb", null ],
-    [ "WaveTimer", "d5/d15/a15844.html#a5294c9cd61713bc209a1b65f3b0a252e", null ]
+    [ "npc_tharnarianAI", "d5/d15/a15844.html#a8e22d45f6420aa8079f8fb7150a2a53a", null ],
+    [ "Initialize", "d5/d15/a15844.html#ad1d89491b42a56406273a04045e7e91d", null ],
+    [ "Reset", "d5/d15/a15844.html#a7de1f46bee4e79effc5dbb405854a7da", null ],
+    [ "SetGUID", "d5/d15/a15844.html#a8717a30828b91853ceba1b5e62126f29", null ],
+    [ "sGossipSelect", "d5/d15/a15844.html#a33b5898def48e17ba27363b98f51849b", null ],
+    [ "UpdateAI", "d5/d15/a15844.html#a1e58a89064bdfb69e4445db72184d8b3", null ],
+    [ "_bearGUID", "d5/d15/a15844.html#af7a116b8226ddb51e9f0f118f2d8fa22", null ],
+    [ "_events", "d5/d15/a15844.html#aff73052a4b7407d760af3dde09fa8a07", null ],
+    [ "_facing", "d5/d15/a15844.html#ad2120fffc0ffa93d4fca1e9e8c0a4371", null ],
+    [ "_scriptRunning", "d5/d15/a15844.html#a5be50b02cc8ce2e7b4dd334e923a7c10", null ]
 ];

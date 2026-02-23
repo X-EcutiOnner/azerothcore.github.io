@@ -1,7 +1,8 @@
 var a09560 =
 [
-    [ "AllWorldObjectsInRange", "d1/db9/a09560.html#a63f46d510df0fa3153d4b3325676a468", null ],
-    [ "operator()", "d1/db9/a09560.html#a2cf23c24df93b5f7f29163b32e965a94", null ],
-    [ "m_fRange", "d1/db9/a09560.html#a6afe3ef05369dce8ee205db219f97846", null ],
-    [ "m_pObject", "d1/db9/a09560.html#ae7dde7b946d8affb79cb2d4c58eedbed", null ]
+    [ "AnyUnfriendlyNoTotemUnitInObjectRangeCheck", "d1/db9/a09560.html#ac4378cfa8fedb3453c0e810d497cb99c", null ],
+    [ "operator()", "d1/db9/a09560.html#ad9e3486316cf297ba79a588c60b4ce15", null ],
+    [ "i_funit", "d1/db9/a09560.html#ace766830b26d8aae3ec673d2102a9969", null ],
+    [ "i_obj", "d1/db9/a09560.html#ae12f4176e49438cfa248345cfe7c9947", null ],
+    [ "i_range", "d1/db9/a09560.html#a8335ef8fd7376e7c920dfbca2318d646", null ]
 ];

@@ -1,6 +1,6 @@
 var a12296 =
 [
-    [ "instance_blackrock_depths_InstanceMapScript", "d6/d17/a12300.html", "d6/d17/a12300" ],
-    [ "instance_blackrock_depths", "df/de1/a12296.html#a8d906bdb520b2c7907b94b0e22b5cdf4", null ],
-    [ "GetInstanceScript", "df/de1/a12296.html#af8f8c9929cae50c098efc5a0dbdd727a", null ]
+    [ "npc_grimstoneAI", "d6/d17/a12300.html", "d6/d17/a12300" ],
+    [ "npc_grimstone", "df/de1/a12296.html#ae5c3e36bf18cb30dd4fc7cd5e7a72cfb", null ],
+    [ "GetAI", "df/de1/a12296.html#a24cf0aa69ac28c13ac3c44e14c35406c", null ]
 ];

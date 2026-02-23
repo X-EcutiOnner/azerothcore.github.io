@@ -1,7 +1,7 @@
 var a19004 =
 [
-    [ "OnRemove", "d9/ddd/a19004.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
-    [ "PrepareAuraScript", "d9/ddd/a19004.html#acf654e563f47df9ad033d7080f47662b", null ],
-    [ "Register", "d9/ddd/a19004.html#aad4497ba7cad48b9547e8696714d8c23", null ],
-    [ "Validate", "d9/ddd/a19004.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
+    [ "FrostwingVrykulSearcher", "d9/ddd/a19004.html#a10aa54184b42a0538dc4f325204399e9", null ],
+    [ "operator()", "d9/ddd/a19004.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
+    [ "_range", "d9/ddd/a19004.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
+    [ "_source", "d9/ddd/a19004.html#af5d3c93f41698e71c867336d0453d40a", null ]
 ];

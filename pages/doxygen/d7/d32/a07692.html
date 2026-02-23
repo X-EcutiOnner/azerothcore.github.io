@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Impl::ChatCommands::ArgInfo&lt; T, std::enable_if_t&lt; std::is_base_of_v&lt; ContainerTag, T &gt; &gt; &gt; Struct Template Reference</title>
+<title>AzerothCore: ChannelRights Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,50 +105,100 @@ $(document).ready(function(){initNavTree('d7/d32/a07692.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d8/d5c/a07689.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Impl::ChatCommands::ArgInfo&lt; T, std::enable_if_t&lt; std::is_base_of_v&lt; ContainerTag, T &gt; &gt; &gt; Struct Template Reference</div></div>
+  <div class="headertitle"><div class="title">ChannelRights Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">ChatCommandArgs.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Channel.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a884de4dee05c4a925db4225da9512886"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d7/d60/a07752.html">ChatCommandResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d32/a07692.html#a884de4dee05c4a925db4225da9512886">TryConsume</a> (T &amp;tag, <a class="el" href="../../d6/dcc/a07596.html">ChatHandler</a> const *handler, std::string_view args)</td></tr>
-<tr class="separator:a884de4dee05c4a925db4225da9512886"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a7fbfd84470bf1b4bf564eec0315f6c8d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d32/a07692.html#a7fbfd84470bf1b4bf564eec0315f6c8d">ChannelRights</a> ()=default</td></tr>
+<tr class="separator:a7fbfd84470bf1b4bf564eec0315f6c8d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac689ce079b171bbbdbc062ad7521f21c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d32/a07692.html#ac689ce079b171bbbdbc062ad7521f21c">ChannelRights</a> (const <a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;f, const <a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;d, std::string jm, std::string sm, std::set&lt; <a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt; ml)</td></tr>
+<tr class="separator:ac689ce079b171bbbdbc062ad7521f21c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:ad7fdc943a5a97c3c812108243192f6ae"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d32/a07692.html#ad7fdc943a5a97c3c812108243192f6ae">flags</a> {0}</td></tr>
+<tr class="separator:ad7fdc943a5a97c3c812108243192f6ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9883582d36b8cc67ab5d649670441000"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d32/a07692.html#a9883582d36b8cc67ab5d649670441000">speakDelay</a> {0}</td></tr>
+<tr class="separator:a9883582d36b8cc67ab5d649670441000"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af8797ef8c642f3a954b1581fb54ed545"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d32/a07692.html#af8797ef8c642f3a954b1581fb54ed545">joinMessage</a></td></tr>
+<tr class="separator:af8797ef8c642f3a954b1581fb54ed545"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4b7dc06e8839da5a6d50b5d4dae76c1b"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d32/a07692.html#a4b7dc06e8839da5a6d50b5d4dae76c1b">speakMessage</a></td></tr>
+<tr class="separator:a4b7dc06e8839da5a6d50b5d4dae76c1b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac80f92b9e633bf309970179b32e29cee"><td class="memItemLeft" align="right" valign="top">std::set&lt; <a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d32/a07692.html#ac80f92b9e633bf309970179b32e29cee">moderators</a></td></tr>
+<tr class="separator:ac80f92b9e633bf309970179b32e29cee"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;typename T&gt;<br />
-struct Acore::Impl::ChatCommands::ArgInfo&lt; T, std::enable_if_t&lt; std::is_base_of_v&lt; ContainerTag, T &gt; &gt; &gt;</div></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a884de4dee05c4a925db4225da9512886" name="a884de4dee05c4a925db4225da9512886"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a884de4dee05c4a925db4225da9512886">&#9670;&#160;</a></span>TryConsume()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a7fbfd84470bf1b4bf564eec0315f6c8d" name="a7fbfd84470bf1b4bf564eec0315f6c8d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7fbfd84470bf1b4bf564eec0315f6c8d">&#9670;&#160;</a></span>ChannelRights() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static <a class="el" href="../../d7/d60/a07752.html">ChatCommandResult</a> <a class="el" href="../../db/d04/a07668.html">Acore::Impl::ChatCommands::ArgInfo</a>&lt; T, std::enable_if_t&lt; std::is_base_of_v&lt; <a class="el" href="../../dc/d65/a07756.html">ContainerTag</a>, T &gt; &gt; &gt;::TryConsume </td>
+          <td class="memname">ChannelRights::ChannelRights </td>
           <td>(</td>
-          <td class="paramtype">T &amp;&#160;</td>
-          <td class="paramname"><em>tag</em>, </td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac689ce079b171bbbdbc062ad7521f21c" name="ac689ce079b171bbbdbc062ad7521f21c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac689ce079b171bbbdbc062ad7521f21c">&#9670;&#160;</a></span>ChannelRights() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">ChannelRights::ChannelRights </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;&#160;</td>
+          <td class="paramname"><em>f</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/dcc/a07596.html">ChatHandler</a> const *&#160;</td>
-          <td class="paramname"><em>handler</em>, </td>
+          <td class="paramtype">const <a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;&#160;</td>
+          <td class="paramname"><em>d</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>args</em>&#160;</td>
+          <td class="paramtype">std::string&#160;</td>
+          <td class="paramname"><em>jm</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string&#160;</td>
+          <td class="paramname"><em>sm</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::set&lt; <a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td>
+          <td class="paramname"><em>ml</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -158,14 +208,94 @@ template&lt;typename T &gt; </div>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  213</span>        {</div>
-<div class="line"><span class="lineno">  214</span>            <span class="keywordflow">return</span> tag.TryConsume(handler, args);</div>
-<div class="line"><span class="lineno">  215</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  122</span>: <a class="code hl_variable" href="../../d7/d32/a07692.html#ad7fdc943a5a97c3c812108243192f6ae">flags</a>(f), <a class="code hl_variable" href="../../d7/d32/a07692.html#a9883582d36b8cc67ab5d649670441000">speakDelay</a>(d), <a class="code hl_variable" href="../../d7/d32/a07692.html#af8797ef8c642f3a954b1581fb54ed545">joinMessage</a>(std::move(jm)), <a class="code hl_variable" href="../../d7/d32/a07692.html#a4b7dc06e8839da5a6d50b5d4dae76c1b">speakMessage</a>(std::move(sm)), <a class="code hl_variable" href="../../d7/d32/a07692.html#ac80f92b9e633bf309970179b32e29cee">moderators</a>(std::move(ml)) {}</div>
+<div class="ttc" id="aa07692_html_a4b7dc06e8839da5a6d50b5d4dae76c1b"><div class="ttname"><a href="../../d7/d32/a07692.html#a4b7dc06e8839da5a6d50b5d4dae76c1b">ChannelRights::speakMessage</a></div><div class="ttdeci">std::string speakMessage</div><div class="ttdef"><b>Definition:</b> Channel.h:126</div></div>
+<div class="ttc" id="aa07692_html_a9883582d36b8cc67ab5d649670441000"><div class="ttname"><a href="../../d7/d32/a07692.html#a9883582d36b8cc67ab5d649670441000">ChannelRights::speakDelay</a></div><div class="ttdeci">uint32 speakDelay</div><div class="ttdef"><b>Definition:</b> Channel.h:124</div></div>
+<div class="ttc" id="aa07692_html_ac80f92b9e633bf309970179b32e29cee"><div class="ttname"><a href="../../d7/d32/a07692.html#ac80f92b9e633bf309970179b32e29cee">ChannelRights::moderators</a></div><div class="ttdeci">std::set&lt; uint32 &gt; moderators</div><div class="ttdef"><b>Definition:</b> Channel.h:127</div></div>
+<div class="ttc" id="aa07692_html_ad7fdc943a5a97c3c812108243192f6ae"><div class="ttname"><a href="../../d7/d32/a07692.html#ad7fdc943a5a97c3c812108243192f6ae">ChannelRights::flags</a></div><div class="ttdeci">uint32 flags</div><div class="ttdef"><b>Definition:</b> Channel.h:123</div></div>
+<div class="ttc" id="aa07692_html_af8797ef8c642f3a954b1581fb54ed545"><div class="ttname"><a href="../../d7/d32/a07692.html#af8797ef8c642f3a954b1581fb54ed545">ChannelRights::joinMessage</a></div><div class="ttdeci">std::string joinMessage</div><div class="ttdef"><b>Definition:</b> Channel.h:125</div></div>
 </div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="ad7fdc943a5a97c3c812108243192f6ae" name="ad7fdc943a5a97c3c812108243192f6ae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad7fdc943a5a97c3c812108243192f6ae">&#9670;&#160;</a></span>flags</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ChannelRights::flags {0}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00724">Channel::Announce()</a>, <a class="el" href="../../#l00029">Channel::Channel()</a>, <a class="el" href="../../#l01190">Channel::FlagsNotify()</a>, <a class="el" href="../../#l00157">Channel::JoinChannel()</a>, <a class="el" href="../../#l01157">Channel::JoinNotify()</a>, <a class="el" href="../../#l00315">Channel::KickOrBan()</a>, <a class="el" href="../../#l01174">Channel::LeaveNotify()</a>, <a class="el" href="../../#l00688">Channel::List()</a>, <a class="el" href="../../#l00534">Channel::Password()</a>, <a class="el" href="../../#l00572">Channel::SetMode()</a>, and <a class="el" href="../../#l00467">Channel::UnBan()</a>.</p>
+
+</div>
+</div>
+<a id="af8797ef8c642f3a954b1581fb54ed545" name="af8797ef8c642f3a954b1581fb54ed545"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af8797ef8c642f3a954b1581fb54ed545">&#9670;&#160;</a></span>joinMessage</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string ChannelRights::joinMessage</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00157">Channel::JoinChannel()</a>.</p>
+
+</div>
+</div>
+<a id="ac80f92b9e633bf309970179b32e29cee" name="ac80f92b9e633bf309970179b32e29cee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac80f92b9e633bf309970179b32e29cee">&#9670;&#160;</a></span>moderators</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::set&lt;<a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt; ChannelRights::moderators</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00157">Channel::JoinChannel()</a>, <a class="el" href="../../#l00315">Channel::KickOrBan()</a>, <a class="el" href="../../#l00572">Channel::SetMode()</a>, <a class="el" href="../../#l00642">Channel::SetOwner()</a>, and <a class="el" href="../../#l00467">Channel::UnBan()</a>.</p>
+
+</div>
+</div>
+<a id="a9883582d36b8cc67ab5d649670441000" name="a9883582d36b8cc67ab5d649670441000"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9883582d36b8cc67ab5d649670441000">&#9670;&#160;</a></span>speakDelay</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ChannelRights::speakDelay {0}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a4b7dc06e8839da5a6d50b5d4dae76c1b" name="a4b7dc06e8839da5a6d50b5d4dae76c1b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4b7dc06e8839da5a6d50b5d4dae76c1b">&#9670;&#160;</a></span>speakMessage</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string ChannelRights::speakMessage</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
 </div>
 </div>
 </div><!-- contents -->
@@ -173,8 +303,8 @@ template&lt;typename T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/d15/a04833.html">Acore</a></li><li class="navelem"><a class="el" href="../../d6/d2e/a04845.html">Impl</a></li><li class="navelem"><a class="el" href="../../d5/d8e/a04874.html">ChatCommands</a></li><li class="navelem"><a class="el" href="../../d7/d32/a07692.html">ArgInfo&lt; T, std::enable_if_t&lt; std::is_base_of_v&lt; ContainerTag, T &gt; &gt; &gt;</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:12:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d7/d32/a07692.html">ChannelRights</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:14:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

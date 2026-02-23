@@ -1,6 +1,8 @@
 var a27784 =
 [
-    [ "npc_target_dummyAI", "d5/d19/a27788.html", "d5/d19/a27788" ],
-    [ "npc_target_dummy", "db/dc3/a27784.html#a04847f9893a40c0f1c1879f448cc228d", null ],
-    [ "GetAI", "db/dc3/a27784.html#a1aff9199c160e20f9e92ee9f90178d63", null ]
+    [ "HandleDamage", "db/dc3/a27784.html#a371d3112e619453b7c92933a145bf4d2", null ],
+    [ "HandleDummy", "db/dc3/a27784.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
+    [ "PrepareSpellScript", "db/dc3/a27784.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
+    [ "Register", "db/dc3/a27784.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
+    [ "Validate", "db/dc3/a27784.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
 ];

@@ -1,7 +1,6 @@
 var a16684 =
 [
-    [ "npc_toc_priestAI", "d6/ddf/a16684.html#aa362d2136193a8738e311bba18b87c90", null ],
-    [ "myCanCast", "d6/ddf/a16684.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
-    [ "UpdateAI", "d6/ddf/a16684.html#ae51d2ac95320909150c673b76c9856c7", null ],
-    [ "events", "d6/ddf/a16684.html#aa5be20e87351424e0e4698540fc1fef4", null ]
+    [ "boss_black_knightAI", "df/dd9/a16688.html", "df/dd9/a16688" ],
+    [ "boss_black_knight", "d6/ddf/a16684.html#af55a307f282a68bc83e45c6de647ebf4", null ],
+    [ "GetAI", "d6/ddf/a16684.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
 ];

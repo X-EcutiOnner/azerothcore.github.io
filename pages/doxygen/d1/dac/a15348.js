@@ -1,7 +1,7 @@
 var a15348 =
 [
-    [ "npc_hivezara_stinger", "d1/dac/a15348.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
-    [ "JustEngagedWith", "d1/dac/a15348.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
-    [ "Reset", "d1/dac/a15348.html#ae8e893c90942a469628c393d5b5380cc", null ],
-    [ "UpdateAI", "d1/dac/a15348.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
+    [ "npc_onyxian_lair_guard", "d1/dac/a15348.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
+    [ "JustEngagedWith", "d1/dac/a15348.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
+    [ "UpdateAI", "d1/dac/a15348.html#ac8649636d5847813e49d2ada05f78645", null ],
+    [ "events", "d1/dac/a15348.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
 ];

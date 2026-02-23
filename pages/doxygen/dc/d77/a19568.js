@@ -1,9 +1,19 @@
 var a19568 =
 [
-    [ "HandleApply", "dc/d77/a19568.html#a29679ed64fc288dc0e85beed2971d4be", null ],
-    [ "HandleRemove", "dc/d77/a19568.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
-    [ "Load", "dc/d77/a19568.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
-    [ "PrepareAuraScript", "dc/d77/a19568.html#a2804f25643e59f3922291abcb055b641", null ],
-    [ "Register", "dc/d77/a19568.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
-    [ "Validate", "dc/d77/a19568.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
+    [ "boss_razuviousAI", "dc/d77/a19568.html#a6c5b5a7bc419b30a8814ada3f95f0c3a", null ],
+    [ "DamageTaken", "dc/d77/a19568.html#a4d20aa2066110c45ea06024dda04bb32", null ],
+    [ "JustDied", "dc/d77/a19568.html#addd5c34675473b78e1785a8122a6ccd2", null ],
+    [ "JustEngagedWith", "dc/d77/a19568.html#a9e9137c0c730435f2b2b3e8a731878e8", null ],
+    [ "JustSummoned", "dc/d77/a19568.html#a3126cc2c35dc81a76b43d615bfa1bc4f", null ],
+    [ "KilledUnit", "dc/d77/a19568.html#ab49711d40ea8ecbbf3a1fbab96569cc4", null ],
+    [ "MovementInform", "dc/d77/a19568.html#a40a022ee337caaf0bb59f4beb8d9d3e8", null ],
+    [ "Reset", "dc/d77/a19568.html#ae5b2e00b170a57b194b21445484c10bc", null ],
+    [ "ScheduleInteractWithDeathKnight", "dc/d77/a19568.html#a5cdc692e17c3d331f1f1b12c8160408e", null ],
+    [ "ScheduleRP", "dc/d77/a19568.html#a298fca0637eb5191e39f6010adc78c43", null ],
+    [ "SpawnHelpers", "dc/d77/a19568.html#af2ec0fb6a5d5fe0c165f309a5ca22ff3", null ],
+    [ "SpellHit", "dc/d77/a19568.html#a1c80a6d94af3ed794c25351484ae08ac", null ],
+    [ "UpdateAI", "dc/d77/a19568.html#a4ea0982f190aa21077b6237cac4e4368", null ],
+    [ "_rpBuddyGUID", "dc/d77/a19568.html#a06f80f3eac58b1cdc800bd4174244af5", null ],
+    [ "events", "dc/d77/a19568.html#a5b73fdcb503cef89e87a1e50cc11e825", null ],
+    [ "summons", "dc/d77/a19568.html#a6d3bb24f1b0475a04182d959f2f41b5d", null ]
 ];

@@ -1,9 +1,9 @@
 var a10148 =
 [
-    [ "counter", "d5/d9e/a10148.html#a0efb94229f4a9370dc5b256ba623385b", null ],
-    [ "getCurrent", "d5/d9e/a10148.html#afff6411c2b7f1c07d72ad26dc77d4780", null ],
-    [ "Increase", "d5/d9e/a10148.html#a463e0ba077c8398a6125e715afcd8860", null ],
-    [ "init", "d5/d9e/a10148.html#a0369662be009b781174021a2eb6b3202", null ],
-    [ "NewId", "d5/d9e/a10148.html#a06d5bc4ea248173316ed4d1ce96d6281", null ],
-    [ "m_counter", "d5/d9e/a10148.html#a297f1ba5e072e4c90b62c7242ee1b01c", null ]
+    [ "ChaseAngle", "d5/d9e/a10148.html#a0744c615f437514a52b5a26fb717013a", null ],
+    [ "IsAngleOkay", "d5/d9e/a10148.html#aec86c653850655b723e5224ea20b0e21", null ],
+    [ "LowerBound", "d5/d9e/a10148.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
+    [ "UpperBound", "d5/d9e/a10148.html#a275d01ce57b23d42d4150b10c8433dee", null ],
+    [ "RelativeAngle", "d5/d9e/a10148.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
+    [ "Tolerance", "d5/d9e/a10148.html#a2bb42885da594380cb742c29b6518ea3", null ]
 ];

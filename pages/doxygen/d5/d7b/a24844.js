@@ -1,11 +1,7 @@
 var a24844 =
 [
-    [ "CalcPeriodic", "d5/d7b/a24844.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
-    [ "CalculateAPAmount", "d5/d7b/a24844.html#ab23f26c3470f629f0a20f28faf272a68", null ],
-    [ "CalculateHealthAmount", "d5/d7b/a24844.html#a4f827a906ac279e143ba8545545090ad", null ],
-    [ "CalculateSPAmount", "d5/d7b/a24844.html#ae94493ffed217a218e21c05e002cec00", null ],
-    [ "HandleEffectApply", "d5/d7b/a24844.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
-    [ "HandlePeriodic", "d5/d7b/a24844.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
-    [ "PrepareAuraScript", "d5/d7b/a24844.html#a5052689d815e0a0543693b39b7454deb", null ],
-    [ "Register", "d5/d7b/a24844.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
+    [ "HandleProc", "d5/d7b/a24844.html#a17f1f652f4144bfade0072e311f579e7", null ],
+    [ "PrepareAuraScript", "d5/d7b/a24844.html#a8ab8da270b52ce7be6419f5947df6566", null ],
+    [ "Register", "d5/d7b/a24844.html#a660b69eb520799733f59218c919b28ed", null ],
+    [ "Validate", "d5/d7b/a24844.html#a433be7a238be09e86c395a6d3625c56d", null ]
 ];

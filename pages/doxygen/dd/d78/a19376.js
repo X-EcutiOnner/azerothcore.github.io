@@ -1,7 +1,8 @@
 var a19376 =
 [
-    [ "OnPeriodic", "dd/d78/a19376.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
-    [ "PrepareAuraScript", "dd/d78/a19376.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
-    [ "Register", "dd/d78/a19376.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
-    [ "Validate", "dd/d78/a19376.html#a54cfed486827216817adb740efa6646e", null ]
+    [ "HandleScript", "dd/d78/a19376.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
+    [ "HandleScript2", "dd/d78/a19376.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
+    [ "Load", "dd/d78/a19376.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
+    [ "PrepareSpellScript", "dd/d78/a19376.html#a2d1dbae570206b358878020879708000", null ],
+    [ "Register", "dd/d78/a19376.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
 ];

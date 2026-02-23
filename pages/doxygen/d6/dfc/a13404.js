@@ -1,11 +1,7 @@
 var a13404 =
 [
-    [ "npc_scholomance_occultistAI", "d6/dfc/a13404.html#af78103d07aef427130d26b4aed5e5ae3", null ],
-    [ "JustEngagedWith", "d6/dfc/a13404.html#a03f0f6d015065c5afcf025dc44dc6aa8", null ],
-    [ "JustReachedHome", "d6/dfc/a13404.html#ac4bb0aa4009191a36dd4cebb45fd2ad5", null ],
-    [ "SelectUnitCasting", "d6/dfc/a13404.html#adde187b89a74a57aac823e4eb19bfeed", null ],
-    [ "UpdateAI", "d6/dfc/a13404.html#ab02edf780adb553b2314045d8effa277", null ],
-    [ "events", "d6/dfc/a13404.html#a1ee55a572462a1e832a5b89c8906bd87", null ],
-    [ "instance", "d6/dfc/a13404.html#a195fe4d681580c17086a5390fd4f82ba", null ],
-    [ "originalDisplayId", "d6/dfc/a13404.html#a4dcc895fef36cd1e9ca8cf38bdc2f6c4", null ]
+    [ "HandleEffectApply", "d6/dfc/a13404.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
+    [ "PrepareAuraScript", "d6/dfc/a13404.html#a9829789fe5544429454e29d228ce0daf", null ],
+    [ "Register", "d6/dfc/a13404.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
+    [ "Validate", "d6/dfc/a13404.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
 ];

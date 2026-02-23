@@ -1,8 +1,9 @@
 var a08888 =
 [
-    [ "VehicleSeat", "d5/df5/a08888.html#ad2d19e3fc73c06cd7c8e339bd2b45a0c", null ],
-    [ "IsEmpty", "d5/df5/a08888.html#a9f68076857cb85ee7679f04043acdedc", null ],
-    [ "Passenger", "d5/df5/a08888.html#ac334f2f573bf52f164d570f8b83fc197", null ],
-    [ "SeatAddon", "d5/df5/a08888.html#a3c46401aa5859287e4bcb24141c848cc", null ],
-    [ "SeatInfo", "d5/df5/a08888.html#add0cf92d445f6ea0cf910b0bc0d80b62", null ]
+    [ "GlobalCooldownMgr", "d5/df5/a08888.html#a116f4af13a4e10dc5eb3c3c6a17ad863", null ],
+    [ "AddGlobalCooldown", "d5/df5/a08888.html#acc0291e56fe4d3594d079e357f6ea3ed", null ],
+    [ "CancelGlobalCooldown", "d5/df5/a08888.html#aed6b479416104dc536116fdb1e24fcf3", null ],
+    [ "GetGlobalCooldown", "d5/df5/a08888.html#ae44caed35e93f834ff68394c1ab6434b", null ],
+    [ "HasGlobalCooldown", "d5/df5/a08888.html#a7487d19ae8c59e5c5e871b2e1afabfba", null ],
+    [ "m_GlobalCooldowns", "d5/df5/a08888.html#a80d03691d36758733f326b65992f266e", null ]
 ];

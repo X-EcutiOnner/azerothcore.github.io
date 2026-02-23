@@ -1,7 +1,10 @@
 var a07632 =
 [
-    [ "CommandPermissions", "db/d82/a07632.html#ad1242d9067778298c44501b5d5a962f8", null ],
-    [ "CommandPermissions", "db/d82/a07632.html#a47f284c63f10b6c3479624845b696aa6", null ],
-    [ "AllowConsole", "db/d82/a07632.html#a8b419033e8dff0307a22a32bc57a1dc8", null ],
-    [ "RequiredLevel", "db/d82/a07632.html#a4918f2c3b1913eb76d09d859479ebbae", null ]
+    [ "BattlegroundNA", "db/d82/a07632.html#abf646e63e474ac5bb381078ffd0f286e", null ],
+    [ "FillInitialWorldStates", "db/d82/a07632.html#af0932b648d2a4a4288409d8da360e06b", null ],
+    [ "HandleAreaTrigger", "db/d82/a07632.html#a6a70ff3655c516d45ac1acf959ad8f73", null ],
+    [ "HandlePlayerUnderMap", "db/d82/a07632.html#a098c01b5da65350b2af9ff53dc9f750c", null ],
+    [ "SetupBattleground", "db/d82/a07632.html#addc3350a283fdac24e7aa88c23a7945a", null ],
+    [ "StartingEventCloseDoors", "db/d82/a07632.html#a316492a374884822045971f6dc3db1e2", null ],
+    [ "StartingEventOpenDoors", "db/d82/a07632.html#a72a953c5047a434d28b98e6185173140", null ]
 ];

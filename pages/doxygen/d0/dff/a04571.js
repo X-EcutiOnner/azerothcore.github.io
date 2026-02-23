@@ -1,5 +1,7 @@
 var a04571 =
 [
-    [ "cheat_commandscript", "d7/d43/a11957.html", "d7/d43/a11957" ],
-    [ "AddSC_cheat_commandscript", "d0/dff/a04571.html#aafc88882ff0af0beb4632ec2c929fc8c", null ]
+    [ "Crash", "d0/dff/a04571.html#a510bae7d9948cf497418ec913452009f", null ],
+    [ "GetDebugInfo", "d0/dff/a04571.html#a29601d3ea684d75bac9c331eb4866951", null ],
+    [ "MakeAbortMessage", "d0/dff/a04571.html#a52b8a43ee2424672ac8de45dcc283eda", null ],
+    [ "MakeMessage", "d0/dff/a04571.html#a31219fe016a9b170fc6ae111157ba552", null ]
 ];

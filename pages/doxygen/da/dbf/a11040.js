@@ -1,9 +1,7 @@
 var a11040 =
 [
-    [ "TrainerList", "da/dbf/a11040.html#aebb173d4f46d00f383c4ed62e8b130a7", null ],
-    [ "Write", "da/dbf/a11040.html#a4d44b3310c3733ae56ffce9a84eff8d1", null ],
-    [ "Greeting", "da/dbf/a11040.html#ad88c53405b38f276815e0f013ce5261f", null ],
-    [ "Spells", "da/dbf/a11040.html#a6b3a33adeeab2c09ac83e7e430312158", null ],
-    [ "TrainerGUID", "da/dbf/a11040.html#ab5e93d6c38efd311c701401ec03f7958", null ],
-    [ "TrainerType", "da/dbf/a11040.html#a56a96a12b526f0e0cf89a6472c6a206b", null ]
+    [ "AutoEquipItemSlot", "da/dbf/a11040.html#aa51f40a4172ac41548ec6199bc84375d", null ],
+    [ "Read", "da/dbf/a11040.html#ade6a15026e9c461b38301edf79f367be", null ],
+    [ "DestinationSlot", "da/dbf/a11040.html#a683a9bd141b2f99db431de2ae7d213e3", null ],
+    [ "ItemGuid", "da/dbf/a11040.html#a9d4da587061833262acff66674d3ac41", null ]
 ];

@@ -1,6 +1,12 @@
 var a15164 =
 [
-    [ "instance_dire_maul_InstanceMapScript", "db/d76/a15168.html", "db/d76/a15168" ],
-    [ "instance_dire_maul", "db/ddd/a15164.html#a54ac2c7095a99481c7efbe4237533fac", null ],
-    [ "GetInstanceScript", "db/ddd/a15164.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
+    [ "boss_epochAI", "db/ddd/a15164.html#a2986db39b7db92b1fa9d64cef5f8c08b", null ],
+    [ "JustDied", "db/ddd/a15164.html#a780aa5bc86c80aaeeffad441b2873121", null ],
+    [ "JustEngagedWith", "db/ddd/a15164.html#ae742dceac5979faebb58a133e9bd91f0", null ],
+    [ "KilledUnit", "db/ddd/a15164.html#af41946feab7b86d812f706bd7abbf1bd", null ],
+    [ "Reset", "db/ddd/a15164.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
+    [ "SpellHitTarget", "db/ddd/a15164.html#ab87dfcf635a65b02be29186d2990fef3", null ],
+    [ "UpdateAI", "db/ddd/a15164.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
+    [ "events", "db/ddd/a15164.html#af0c1477b3d9fb48cfcf55f32e21591f4", null ],
+    [ "warps", "db/ddd/a15164.html#a478113af1ce565c729604c6039f55551", null ]
 ];

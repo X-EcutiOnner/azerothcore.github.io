@@ -1,11 +1,11 @@
 var a17332 =
 [
-    [ "npc_pos_tyrannus_eventsAI", "d1/dad/a17332.html#a51769d22a4cb448fae90d827e2494581", null ],
-    [ "MovementInform", "d1/dad/a17332.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
-    [ "SetData", "d1/dad/a17332.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
-    [ "UpdateAI", "d1/dad/a17332.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
-    [ "deathbringerGUID", "d1/dad/a17332.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
-    [ "events", "d1/dad/a17332.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
-    [ "killsLeft", "d1/dad/a17332.html#ac81d85e0ceb0b571373f44475baa36df", null ],
-    [ "pInstance", "d1/dad/a17332.html#a44460335986bcedf35dc295c242df6da", null ]
+    [ "boss_frostsworn_generalAI", "d1/dad/a17332.html#afd3e486cd9a0ac18d10675f40f7f6314", null ],
+    [ "EnterEvadeMode", "d1/dad/a17332.html#a4f45facb49cb5c1a8b0565e87dccf50e", null ],
+    [ "JustDied", "d1/dad/a17332.html#ac2653a5664c87045df16f2fdcf850edf", null ],
+    [ "JustEngagedWith", "d1/dad/a17332.html#a64f2b0426491f1471c8cf653e94a2fa2", null ],
+    [ "Reset", "d1/dad/a17332.html#a8333b3f2637f029de4182ca16e2fb634", null ],
+    [ "UpdateAI", "d1/dad/a17332.html#aea65a8fab859db4396690d846d10f5a1", null ],
+    [ "events", "d1/dad/a17332.html#a4e5c714486cdba1fc4a6db609d8b6a97", null ],
+    [ "pInstance", "d1/dad/a17332.html#a01cc3db24e03600501b9980aa966ad7d", null ]
 ];

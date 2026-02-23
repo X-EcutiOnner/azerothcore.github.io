@@ -1,10 +1,9 @@
 var a11512 =
 [
-    [ "EffectHook", "d6/d5a/a11512.html#a4a197e061d918dfba2bc486f3393b00d", null ],
-    [ "~EffectHook", "d6/d5a/a11512.html#aa234f63b530764d12064acbe3f5c9299", null ],
-    [ "CheckEffect", "d6/d5a/a11512.html#ae8823c5d649d182f572818bf3db72902", null ],
-    [ "EffIndexToString", "d6/d5a/a11512.html#ab818ed274cfd66ecc565b8535b751517", null ],
-    [ "GetAffectedEffectsMask", "d6/d5a/a11512.html#a31faa86590e22f5ab3ca518f4df02840", null ],
-    [ "IsEffectAffected", "d6/d5a/a11512.html#a697041ffa562bb6fff792beb159c7af2", null ],
-    [ "effIndex", "d6/d5a/a11512.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
+    [ "SpellEvent", "d6/d5a/a11512.html#abca64eb7d39df9788cef9df7e8634368", null ],
+    [ "~SpellEvent", "d6/d5a/a11512.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
+    [ "Abort", "d6/d5a/a11512.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
+    [ "Execute", "d6/d5a/a11512.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
+    [ "IsDeletable", "d6/d5a/a11512.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
+    [ "m_Spell", "d6/d5a/a11512.html#a22cce1d722f5086932ae3e97c58d2921", null ]
 ];

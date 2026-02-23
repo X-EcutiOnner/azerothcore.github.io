@@ -1,17 +1,9 @@
 var a17508 =
 [
-    [ "instance_gundrak_InstanceMapScript", "d9/d7b/a17508.html#aab01abeae0f8df7c74c65c689c3c9f30", null ],
-    [ "Initialize", "d9/d7b/a17508.html#a680e2b0263e64f4f0b0a71f011199202", null ],
-    [ "OnGameObjectCreate", "d9/d7b/a17508.html#a03ace9a6ac87deb8c9d1f358e67697d1", null ],
-    [ "OnGameObjectRemove", "d9/d7b/a17508.html#a816e18bd1725e9deaa9e50521ddd3c05", null ],
-    [ "OnUnitDeath", "d9/d7b/a17508.html#a2d17fee7344a23b9bf6c47ee10f1e436", null ],
-    [ "SetBossState", "d9/d7b/a17508.html#a2b703178ee848ebb7ab750d7560a7b1e", null ],
-    [ "SetData", "d9/d7b/a17508.html#a39611dead845510e26b16e8eb54114a2", null ],
-    [ "Update", "d9/d7b/a17508.html#a50b5e4d1ff3baf4698483f47828ee492", null ],
-    [ "_activateTimer", "d9/d7b/a17508.html#a4457a3506a587d7337042eb489b441dc", null ],
-    [ "_bridgeGUIDs", "d9/d7b/a17508.html#a3ed3ada72ca634b0888f182a93c9e657", null ],
-    [ "_drakkariAltarGUID", "d9/d7b/a17508.html#a8e34281d52ac3199b90e1971899db6b1", null ],
-    [ "_keysInCount", "d9/d7b/a17508.html#a9b014cab41720868f61028ef201cadaa", null ],
-    [ "_moorabiAltarGUID", "d9/d7b/a17508.html#a39875572cef853eb3d3f624366e3f93f", null ],
-    [ "_sladRanAltarGUID", "d9/d7b/a17508.html#a93b651e93e28c63272a8d06d0c521aef", null ]
+    [ "npc_pos_collapsing_icicleAI", "d9/d7b/a17508.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
+    [ "SpellHitTarget", "d9/d7b/a17508.html#aea107ede3b11726b3f7caae590edaf52", null ],
+    [ "UpdateAI", "d9/d7b/a17508.html#ade416a422e67ce61e8874320cce7143b", null ],
+    [ "pInstance", "d9/d7b/a17508.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
+    [ "timer1", "d9/d7b/a17508.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
+    [ "timer2", "d9/d7b/a17508.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
 ];

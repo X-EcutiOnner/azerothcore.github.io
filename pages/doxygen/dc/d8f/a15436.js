@@ -1,6 +1,9 @@
 var a15436 =
 [
-    [ "OnRemove", "dc/d8f/a15436.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
-    [ "PrepareAuraScript", "dc/d8f/a15436.html#a47849d8241ed17ad0fb541c1178b0760", null ],
-    [ "Register", "dc/d8f/a15436.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
+    [ "npc_buru_egg", "dc/d8f/a15436.html#a6aa2896342b802caecde1c1dffcf4907", null ],
+    [ "JustDied", "dc/d8f/a15436.html#a3de169b252374f0b2daed3ecb5a11502", null ],
+    [ "JustEngagedWith", "dc/d8f/a15436.html#a8cde6848569671876a17b00d75228ebe", null ],
+    [ "JustSummoned", "dc/d8f/a15436.html#abebb96dcb3d653bddd4210da6567fb87", null ],
+    [ "UpdateAI", "dc/d8f/a15436.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
+    [ "_instance", "dc/d8f/a15436.html#a5b168226755a57368f17827e3457a0ca", null ]
 ];

@@ -1,9 +1,11 @@
 var a23424 =
 [
-    [ "FilterTargets", "d4/d84/a23424.html#a9049c113d65b15a9a8e1143980a84b23", null ],
-    [ "HandleDummy", "d4/d84/a23424.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
-    [ "Load", "d4/d84/a23424.html#a8cad82701e0147e14f826243175e1c32", null ],
-    [ "PrepareSpellScript", "d4/d84/a23424.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
-    [ "Register", "d4/d84/a23424.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
-    [ "_targetNumber", "d4/d84/a23424.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
+    [ "boss_krosh_firehand", "d4/d84/a23424.html#a1ef3618844f086de7875f26e7e6190f9", null ],
+    [ "AttackStart", "d4/d84/a23424.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
+    [ "JustDied", "d4/d84/a23424.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
+    [ "JustEngagedWith", "d4/d84/a23424.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
+    [ "Reset", "d4/d84/a23424.html#a989c4b762a7cdb228b245e91881d97a2", null ],
+    [ "UpdateAI", "d4/d84/a23424.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
+    [ "_scheduler", "d4/d84/a23424.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
+    [ "instance", "d4/d84/a23424.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
 ];

@@ -1,6 +1,7 @@
 var a11208 =
 [
-    [ "ClientOpcodeHandler", "d6/da6/a04827.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
-    [ "Call", "d6/da6/a04827.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
-    [ "ProcessingPlace", "d6/da6/a04827.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
+    [ "TrainerBuySucceeded", "d7/d10/a11208.html#ae00367a55429030c107fc8f6bb7db288", null ],
+    [ "Write", "d7/d10/a11208.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
+    [ "SpellID", "d7/d10/a11208.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
+    [ "TrainerGUID", "d7/d10/a11208.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
 ];

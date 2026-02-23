@@ -1,7 +1,5 @@
 var a07312 =
 [
-    [ "ArenaSeasonReward", "d9/ddf/a07312.html#ae0871effd7fcac1006d8a16f9c7d7d04", null ],
-    [ "operator==", "d9/ddf/a07312.html#a2f04bbb871ab3b90f5dc3121e2bff213", null ],
-    [ "entry", "d9/ddf/a07312.html#ab3144a4701e1ebd88a3a94544ee76cdf", null ],
-    [ "type", "d9/ddf/a07312.html#ac4c8cff64cf2eb7f34d28080a2a5528b", null ]
+    [ "AuctionSearchOwnerListRequest", "d9/ddf/a07312.html#a1b774f8d2f77886669b8724be58713ef", null ],
+    [ "ownerGuid", "d9/ddf/a07312.html#a37d5d9356fa738e8263fdf7eb9c015a5", null ]
 ];

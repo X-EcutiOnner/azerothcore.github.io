@@ -1,6 +1,6 @@
 var a17776 =
 [
-    [ "npc_stinky_iccAI", "d3/d3a/a17780.html", "d3/d3a/a17780" ],
-    [ "npc_stinky_icc", "d3/dad/a17776.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
-    [ "GetAI", "d3/dad/a17776.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
+    [ "PrepareSpellScript", "d3/dad/a17776.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
+    [ "Register", "d3/dad/a17776.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
+    [ "SetDest", "d3/dad/a17776.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
 ];

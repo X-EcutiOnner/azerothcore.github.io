@@ -1,6 +1,6 @@
 var a20056 =
 [
-    [ "boss_flame_leviathan_defense_turretAI", "da/d14/a20060.html", "da/d14/a20060" ],
-    [ "boss_flame_leviathan_defense_turret", "d4/d29/a20056.html#a939c66ff6c1eb6dfdb3d93b3d0292e40", null ],
-    [ "GetAI", "d4/d29/a20056.html#a1c3726e2b753cda18bd11d8f4ff154db", null ]
+    [ "HandlePeriodic", "d4/d29/a20056.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
+    [ "PrepareAuraScript", "d4/d29/a20056.html#a7c6b6839da4a93f656800c9ae174c832", null ],
+    [ "Register", "d4/d29/a20056.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
 ];

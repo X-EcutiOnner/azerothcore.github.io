@@ -1,17 +1,12 @@
 var a05428 =
 [
-    [ "AppenderFile", "d4/d98/a05428.html#a0437ef5c3d0106e52747ab57ccbf97a3", null ],
-    [ "~AppenderFile", "d4/d98/a05428.html#ae61ef8a7dbc41612f94513ee0da156e1", null ],
-    [ "_write", "d4/d98/a05428.html#a4c20fc9c6519eb63ca3bf74fd1d1f5b5", null ],
-    [ "CloseFile", "d4/d98/a05428.html#a039659a1e8e340c9522ff99f119ff5c8", null ],
-    [ "getType", "d4/d98/a05428.html#ad978ed158e068f5fa84f9f93aaf99b46", null ],
-    [ "OpenFile", "d4/d98/a05428.html#af4ee583cbcd00d8d564189b0d62a1bb8", null ],
-    [ "_backup", "d4/d98/a05428.html#a4e1f6ab329fa3dadf4e63584b92c456f", null ],
-    [ "_dynamicName", "d4/d98/a05428.html#a13cffedf98f8554f5a947dcc065caf65", null ],
-    [ "_fileName", "d4/d98/a05428.html#a53fcfcc6bf29a0e493d2ea9fdb1344fc", null ],
-    [ "_fileSize", "d4/d98/a05428.html#a03a7e6402f58136a0cc34eff3985d3fb", null ],
-    [ "_logDir", "d4/d98/a05428.html#a99f47e0f33b5d5f810470f45a4c885b7", null ],
-    [ "_maxFileSize", "d4/d98/a05428.html#a271930a4cb21d7efdc2243b6d33d177f", null ],
-    [ "logfile", "d4/d98/a05428.html#a8ce79405a7e19ae23fc4a93f70ad28b6", null ],
-    [ "type", "d4/d98/a05428.html#a6ec33bdb38ab0359620e008cf4793f8c", null ]
+    [ "RegistryMapType", "d4/d98/a05428.html#ab6a131bc0c7d0ddcb9ad34044b9c8ac2", null ],
+    [ "ObjectRegistry", "d4/d98/a05428.html#aa3bcc30791e82bc900eacf1c5833b7f8", null ],
+    [ "~ObjectRegistry", "d4/d98/a05428.html#a2734a0e6001f597b43e006bc9d84a6b1", null ],
+    [ "GetRegisteredItems", "d4/d98/a05428.html#aba4a4fcc7ee59afbb4dea6df7410dc02", null ],
+    [ "GetRegistryItem", "d4/d98/a05428.html#a474bdff0ab0f0a3db5f914b9dfaa48d1", null ],
+    [ "HasItem", "d4/d98/a05428.html#a3c95897734a780c1f299d24a058b3595", null ],
+    [ "InsertItem", "d4/d98/a05428.html#a55416824a5dff4138f5d828e352e3d7c", null ],
+    [ "instance", "d4/d98/a05428.html#a7a6582a84361d5ad1142f29c9e1d9cb5", null ],
+    [ "_registeredObjects", "d4/d98/a05428.html#a61e6a6eb75512241e82092abfeba7a65", null ]
 ];

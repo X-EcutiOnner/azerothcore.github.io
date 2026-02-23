@@ -1,6 +1,6 @@
 var a10872 =
 [
-    [ "PlayerSaveGuildEmblem", "dc/d42/a10872.html#ae1269fb7583f0ce1703cd89d592b1485", null ],
-    [ "Write", "dc/d42/a10872.html#a0427be2f46cba4ff6b2ca072924bca7b", null ],
-    [ "Error", "dc/d42/a10872.html#a76930d3b74bf7b84a311b24b53d03b21", null ]
+    [ "GuildAddRank", "dc/d42/a10872.html#a59c75f3e40e57b5e64f6fa9753a7e0b9", null ],
+    [ "Read", "dc/d42/a10872.html#a23636e4b8bd37ea85a282fb1630a969e", null ],
+    [ "Name", "dc/d42/a10872.html#a25969282befa638dfb08cf12f14bce53", null ]
 ];

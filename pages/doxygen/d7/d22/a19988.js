@@ -1,6 +1,7 @@
 var a19988 =
 [
-    [ "HandleInstaKill", "d7/d22/a19988.html#a9371a2cc86616fd04e47939d45f01cae", null ],
-    [ "PrepareSpellScript", "d7/d22/a19988.html#a38eed301f1db3ea7ac15b626e5927500", null ],
-    [ "Register", "d7/d22/a19988.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
+    [ "creature", "d7/d22/a19988.html#a55a6ee677ab51120867f542e5a5745b0", null ],
+    [ "sound", "d7/d22/a19988.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
+    [ "text", "d7/d22/a19988.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
+    [ "timer", "d7/d22/a19988.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
 ];

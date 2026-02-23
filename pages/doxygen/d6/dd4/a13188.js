@@ -1,7 +1,14 @@
 var a13188 =
 [
-    [ "HandleScriptEffect", "d6/dd4/a13188.html#a1cdba27f7311021407307bcd35235fed", null ],
-    [ "PrepareSpellScript", "d6/dd4/a13188.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
-    [ "Register", "d6/dd4/a13188.html#a9794991aa1710ce37112888eeb572796", null ],
-    [ "Validate", "d6/dd4/a13188.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
+    [ "boss_strawman", "d6/dd4/a13188.html#a1789cdafc2ce03e156ac686e6859e25f", null ],
+    [ "DoAction", "d6/dd4/a13188.html#a57f9519f87bc8e7446632a49f56a02ca", null ],
+    [ "EnterEvadeMode", "d6/dd4/a13188.html#a67fd9b85406512cef4f3ae581461f0c4", null ],
+    [ "JustDied", "d6/dd4/a13188.html#ab175b0104d316b8929e32d9eb939780f", null ],
+    [ "JustEngagedWith", "d6/dd4/a13188.html#a40657516c4f1b049dd0514a50e299a10", null ],
+    [ "JustReachedHome", "d6/dd4/a13188.html#a4235b2de2540199f9570cbadb7326871", null ],
+    [ "KilledUnit", "d6/dd4/a13188.html#a06b92dbb6907ace60df7e10893be7af0", null ],
+    [ "SpellHit", "d6/dd4/a13188.html#a5bf558765b59a7950bd55ece14c07a4f", null ],
+    [ "UpdateAI", "d6/dd4/a13188.html#adcb7db7cb3f938b492a28c3540251ea9", null ],
+    [ "_scheduler", "d6/dd4/a13188.html#a409539c771b373c165bdbccac8a59e7f", null ],
+    [ "instance", "d6/dd4/a13188.html#a157a6faacf83432b8227173f6b14a7d3", null ]
 ];

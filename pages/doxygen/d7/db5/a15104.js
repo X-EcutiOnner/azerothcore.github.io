@@ -1,8 +1,7 @@
 var a15104 =
 [
-    [ "npc_thrall_old_hillsbradAI", "d0/db5/a15108.html", "d0/db5/a15108" ],
-    [ "npc_thrall_old_hillsbrad", "d7/db5/a15104.html#a3e6fa750b095af3beac806a619e18328", null ],
-    [ "GetAI", "d7/db5/a15104.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
-    [ "OnGossipHello", "d7/db5/a15104.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
-    [ "OnGossipSelect", "d7/db5/a15104.html#a17fcb00850503903f430506654e035c0", null ]
+    [ "OnPeriodic", "d7/db5/a15104.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
+    [ "PrepareAuraScript", "d7/db5/a15104.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
+    [ "Register", "d7/db5/a15104.html#aeb388d608830aeb3b30f707304403b41", null ],
+    [ "Validate", "d7/db5/a15104.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
 ];

@@ -1,7 +1,6 @@
 var a15732 =
 [
-    [ "HandleDummy", "df/d8b/a15732.html#a38dafff805471b19ca3cca4ff5273a87", null ],
-    [ "PrepareSpellScript", "df/d8b/a15732.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
-    [ "Register", "df/d8b/a15732.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
-    [ "Validate", "df/d8b/a15732.html#abb7946f53e6271ae69d34caacef61f47", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "d3/d0f/a15736.html", "d3/d0f/a15736" ],
+    [ "instance_wailing_caverns", "df/d8b/a15732.html#a906f59c39f59237e9eedb479dfc7d825", null ],
+    [ "GetInstanceScript", "df/d8b/a15732.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
 ];

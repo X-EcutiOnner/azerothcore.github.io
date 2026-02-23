@@ -1,8 +1,6 @@
 var a14380 =
 [
-    [ "npc_spawn_of_marli", "d5/d14/a14380.html#a1dcd5066de108203903f5767c4b375ea", null ],
-    [ "JustEngagedWith", "d5/d14/a14380.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
-    [ "Reset", "d5/d14/a14380.html#a79ef192d41af75e0dad0494776c75189", null ],
-    [ "UpdateAI", "d5/d14/a14380.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
-    [ "_scheduler", "d5/d14/a14380.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
+    [ "npc_zulian_prowlerAI", "d6/de5/a14384.html", "d6/de5/a14384" ],
+    [ "npc_zulian_prowler", "d5/d14/a14380.html#a27ae990985976d02bb221b6d669fa849", null ],
+    [ "GetAI", "d5/d14/a14380.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
 ];

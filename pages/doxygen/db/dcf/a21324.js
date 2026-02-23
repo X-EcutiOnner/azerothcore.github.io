@@ -1,13 +1,16 @@
 var a21324 =
 [
-    [ "npc_ferocious_rhinoAI", "db/dcf/a21324.html#ad70d0aeba4b73330c5087bc84a533389", null ],
-    [ "DoAction", "db/dcf/a21324.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
-    [ "JustDied", "db/dcf/a21324.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
-    [ "JustEngagedWith", "db/dcf/a21324.html#aab35078fe4518b6647f98e316d02898a", null ],
-    [ "JustReachedHome", "db/dcf/a21324.html#ab8105d6c8c70037c208c83c13c35242d", null ],
-    [ "MoveInLineOfSight", "db/dcf/a21324.html#a97e32d32a692f223b96746f3ef1086c5", null ],
-    [ "Reset", "db/dcf/a21324.html#a6d317407c2de2f954b5dd2a6db137304", null ],
-    [ "UpdateAI", "db/dcf/a21324.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
-    [ "events", "db/dcf/a21324.html#af23061de7d8566c7435c2c64c53dff89", null ],
-    [ "m_pInstance", "db/dcf/a21324.html#a97e00db40792c559dd06327c9960abe4", null ]
+    [ "boss_zuramatAI", "db/dcf/a21324.html#ab4c04fec01023295946d170a466d1c48", null ],
+    [ "EnterEvadeMode", "db/dcf/a21324.html#a991437ea0d9fd1ce7807ef9937c4cb0a", null ],
+    [ "JustDied", "db/dcf/a21324.html#a060df9b36f2f62f3fc7afb80386d51c5", null ],
+    [ "JustEngagedWith", "db/dcf/a21324.html#a85cc0f20b51e84ff1c5c16a3b2b004b9", null ],
+    [ "JustSummoned", "db/dcf/a21324.html#a6e925207ddc112f7dd7044c08023f90e", null ],
+    [ "KilledUnit", "db/dcf/a21324.html#adb79f8c244f57b88848dd44b592faf41", null ],
+    [ "MoveInLineOfSight", "db/dcf/a21324.html#aa3ef3256d203d264dee12eff4491a28c", null ],
+    [ "Reset", "db/dcf/a21324.html#a18498e4bc4bfac33ff2c591f5bf28d7d", null ],
+    [ "SummonedCreatureDespawn", "db/dcf/a21324.html#a242f814bfec2e937e1338097e78080e3", null ],
+    [ "UpdateAI", "db/dcf/a21324.html#adb591699b7d8ece0b1775afd40a4181b", null ],
+    [ "events", "db/dcf/a21324.html#a4406b42618f3e40fa90e0a34ec3ad09f", null ],
+    [ "pInstance", "db/dcf/a21324.html#a8ebb5ca6f9f18b0205e8b6a54492c06a", null ],
+    [ "summons", "db/dcf/a21324.html#a42cb09654095c8a157720f99e7957102", null ]
 ];

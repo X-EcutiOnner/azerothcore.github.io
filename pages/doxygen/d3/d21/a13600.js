@@ -1,8 +1,7 @@
 var a13600 =
 [
-    [ "FilterTargets", "d3/d21/a13600.html#ac7f7287b88cde82fbf8a625f002c86fa", null ],
-    [ "HandleAfterCast", "d3/d21/a13600.html#aa28714ce9ac251fe7c3bdec17b47deb3", null ],
-    [ "Load", "d3/d21/a13600.html#aecfa38940ea3dd287179bdef3d290487", null ],
-    [ "PrepareSpellScript", "d3/d21/a13600.html#a222e2c8e5401c132e89b29bbd22d46a6", null ],
-    [ "Register", "d3/d21/a13600.html#a1a3607dd7e3d56bde3b92cbf4bcd0e78", null ]
+    [ "OnPeriodic", "d3/d21/a13600.html#aa48b6f35302a8857465c6567f811dec6", null ],
+    [ "PrepareAuraScript", "d3/d21/a13600.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
+    [ "Register", "d3/d21/a13600.html#aa7708067531131738b86077638eda7ac", null ],
+    [ "Validate", "d3/d21/a13600.html#a665698b54201184185d96bd33f53e584", null ]
 ];

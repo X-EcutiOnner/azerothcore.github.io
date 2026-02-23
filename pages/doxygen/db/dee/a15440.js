@@ -1,6 +1,6 @@
 var a15440 =
 [
-    [ "FilterTargets", "db/dee/a15440.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
-    [ "PrepareSpellScript", "db/dee/a15440.html#a32b0be74a9127f920e22aa03c910a005", null ],
-    [ "Register", "db/dee/a15440.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
+    [ "HandleDummyHitTarget", "db/dee/a15440.html#ae773d73496578170061baedd8f7daec1", null ],
+    [ "PrepareSpellScript", "db/dee/a15440.html#a822fe6d19c2ee0d02dc5561b4f910cf9", null ],
+    [ "Register", "db/dee/a15440.html#a651cc94581130224ba23e864f8ad7060", null ]
 ];

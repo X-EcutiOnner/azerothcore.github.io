@@ -1,6 +1,16 @@
 var a21964 =
 [
-    [ "CheckCast", "db/dcd/a21964.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
-    [ "PrepareSpellScript", "db/dcd/a21964.html#abff433d61c798d17882292b6b0956a58", null ],
-    [ "Register", "db/dcd/a21964.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
+    [ "npc_battle_at_valhalasAI", "db/dcd/a21964.html#a2118bb3a502d2082297631e3dab298da", null ],
+    [ "EndBattle", "db/dcd/a21964.html#afe408345e99bfc27e3abf3335c72de5d", null ],
+    [ "JustReachedHome", "db/dcd/a21964.html#ac8f8ed2571587e8af65f92d0271d786c", null ],
+    [ "JustSummoned", "db/dcd/a21964.html#ac2c766dd298bf074f20968006a361036", null ],
+    [ "PrepareSummons", "db/dcd/a21964.html#a80e97ceef22290d241fa3f5894331c08", null ],
+    [ "Reset", "db/dcd/a21964.html#a303f268cbcc0e2c731c505c721c55da6", null ],
+    [ "ResetData", "db/dcd/a21964.html#a3bc670704f0e235ae4022ba796a333b9", null ],
+    [ "StartBattle", "db/dcd/a21964.html#a01dff1aba876527951d3c83ae8b240ff", null ],
+    [ "UpdateAI", "db/dcd/a21964.html#a3294ef4eb601df5156db0ba416d3aabe", null ],
+    [ "currentQuest", "db/dcd/a21964.html#a7c8a2c0710f68d617bd7edd71632c744", null ],
+    [ "events", "db/dcd/a21964.html#a74ac913100bb6ecd904f0b2f0e590271", null ],
+    [ "playerGUID", "db/dcd/a21964.html#aac5d72cbc9f07d43dc6d9b722d0626b8", null ],
+    [ "summons", "db/dcd/a21964.html#a3e894857fd5e3f4ccc5fc40c47a8cabe", null ]
 ];

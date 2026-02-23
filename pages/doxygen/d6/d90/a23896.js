@@ -1,8 +1,7 @@
 var a23896 =
 [
-    [ "HandleEffectApply", "d6/d90/a23896.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
-    [ "HandleEffectRemove", "d6/d90/a23896.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
-    [ "PrepareAuraScript", "d6/d90/a23896.html#a438a8ba3688e0832853bae4183695494", null ],
-    [ "Register", "d6/d90/a23896.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
-    [ "Validate", "d6/d90/a23896.html#ab07b244e53b397bc9e9842655617a80d", null ]
+    [ "npc_daranelleAI", "d6/d90/a23896.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "d6/d90/a23896.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "d6/d90/a23896.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "d6/d90/a23896.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

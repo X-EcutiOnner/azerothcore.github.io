@@ -1,9 +1,6 @@
 var a08072 =
 [
-    [ "LFGPlayerScript", "df/db7/a08072.html#ad27ca48d9e573ad0ba155a3f7eb1ae88", null ],
-    [ "OnPlayerBindToInstance", "df/db7/a08072.html#aeb3fd4e39ed8ba345cf3c76a232f241d", null ],
-    [ "OnPlayerLevelChanged", "df/db7/a08072.html#afd530a2823a7187b49645c9d0625c8ba", null ],
-    [ "OnPlayerLogin", "df/db7/a08072.html#a3b4e8775787feb8266edc52fddc7ab3a", null ],
-    [ "OnPlayerLogout", "df/db7/a08072.html#a13c365770c90d1a44f72ab4cb8c7f903", null ],
-    [ "OnPlayerMapChanged", "df/db7/a08072.html#ab3022d19b8d32bf0f269b2e991150a1c", null ]
+    [ "ConditionSourceInfo", "df/db7/a08072.html#adc6441ec52fab3ab8d2b58a146a3fef3", null ],
+    [ "mConditionTargets", "df/db7/a08072.html#acb67deba44021698a447e8288bca0bd4", null ],
+    [ "mLastFailedCondition", "df/db7/a08072.html#a099d3457a0a15d8feeacc0dc8c32d439", null ]
 ];

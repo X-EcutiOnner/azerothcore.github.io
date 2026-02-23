@@ -1,10 +1,10 @@
 var a23420 =
 [
-    [ "boss_morogrim_tidewalker", "da/d97/a23420.html#a138a200da298f64697e2e47fb8004ccb", null ],
-    [ "JustDied", "da/d97/a23420.html#a139d87e7cffe03183538eb493e063195", null ],
-    [ "JustEngagedWith", "da/d97/a23420.html#a3244672aeb994673e1f46708699bcc2c", null ],
-    [ "JustSummoned", "da/d97/a23420.html#a2b669007520094948138c95468b77f9f", null ],
-    [ "KilledUnit", "da/d97/a23420.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
-    [ "Reset", "da/d97/a23420.html#a78ed1d1f8c55407497a4fb679587975d", null ],
-    [ "_recentlySpoken", "da/d97/a23420.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
+    [ "boss_blindeye_the_seer", "da/d97/a23420.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
+    [ "JustDied", "da/d97/a23420.html#ad70a72b18587da82d26bde8f10d63700", null ],
+    [ "JustEngagedWith", "da/d97/a23420.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
+    [ "Reset", "da/d97/a23420.html#aabbda75266615f64ce88ce092e68bfa4", null ],
+    [ "UpdateAI", "da/d97/a23420.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
+    [ "_scheduler", "da/d97/a23420.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
+    [ "instance", "da/d97/a23420.html#a74462f26d66da3ca370825858060b1c2", null ]
 ];

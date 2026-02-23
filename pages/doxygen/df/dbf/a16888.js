@@ -1,6 +1,6 @@
 var a16888 =
 [
-    [ "npc_concentrated_ballAI", "dc/d25/a16892.html", "dc/d25/a16892" ],
-    [ "npc_concentrated_ball", "df/dbf/a16888.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
-    [ "GetAI", "df/dbf/a16888.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
+    [ "npc_toc_warriorAI", "dc/d25/a16892.html", "dc/d25/a16892" ],
+    [ "npc_toc_warrior", "df/dbf/a16888.html#a3e969be07603ef59389106769010660c", null ],
+    [ "GetAI", "df/dbf/a16888.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
 ];

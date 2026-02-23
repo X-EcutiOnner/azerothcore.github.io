@@ -1,11 +1,5 @@
 var a23300 =
 [
-    [ "boss_doomwalker", "d0/d12/a23300.html#a47811086ff98b1a09af5300af94b6c0e", null ],
-    [ "JustDied", "d0/d12/a23300.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
-    [ "JustEngagedWith", "d0/d12/a23300.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
-    [ "KilledUnit", "d0/d12/a23300.html#a2335eb642940397f73ee2a8051624e8e", null ],
-    [ "MoveInLineOfSight", "d0/d12/a23300.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
-    [ "Reset", "d0/d12/a23300.html#aba08b227d629c9f35e59f465e29c267b", null ],
-    [ "UpdateAI", "d0/d12/a23300.html#a3105c50e512c6f709985cece619b131f", null ],
-    [ "_inEnrage", "d0/d12/a23300.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
+    [ "go_main_chambers_access_panel", "d0/d12/a23300.html#a30c3c20be1892b5107ef53683d593b75", null ],
+    [ "OnGossipHello", "d0/d12/a23300.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
 ];

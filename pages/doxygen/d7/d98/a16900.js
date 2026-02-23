@@ -1,6 +1,7 @@
 var a16900 =
 [
-    [ "HandleEffectPeriodic", "d7/d98/a16900.html#a8775f4e2cb6be96f57596413d560206c", null ],
-    [ "PrepareAuraScript", "d7/d98/a16900.html#a45118f9887d248a5eb840b945dee5b79", null ],
-    [ "Register", "d7/d98/a16900.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
+    [ "npc_toc_dkAI", "d7/d98/a16900.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
+    [ "myCanCast", "d7/d98/a16900.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
+    [ "UpdateAI", "d7/d98/a16900.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
+    [ "events", "d7/d98/a16900.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
 ];

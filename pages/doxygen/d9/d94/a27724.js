@@ -1,12 +1,7 @@
 var a27724 =
 [
-    [ "npc_preciousAI", "d9/d94/a27724.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
-    [ "FlagForDespawn", "d9/d94/a27724.html#a934a5147c1cc9937189011fb061657da", null ],
-    [ "InitializeAI", "d9/d94/a27724.html#aa15843c4029f2df2ee04d21b5157602a", null ],
-    [ "JustEngagedWith", "d9/d94/a27724.html#a58bc4149111605850f070a77ee776313", null ],
-    [ "JustReachedHome", "d9/d94/a27724.html#a31893e9441b24398554370a58ef8bd78", null ],
-    [ "Reset", "d9/d94/a27724.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
-    [ "UpdateAI", "d9/d94/a27724.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
-    [ "events", "d9/d94/a27724.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
-    [ "flaggedForDespawn", "d9/d94/a27724.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
+    [ "HandleProc", "d9/d94/a27724.html#a5046d3b14fcf4260da937032c043fe42", null ],
+    [ "PrepareAuraScript", "d9/d94/a27724.html#abcc31343fd53057e8116b47dd56033c1", null ],
+    [ "Register", "d9/d94/a27724.html#a9a04291ffb75010ccaa46801d06e2080", null ],
+    [ "Validate", "d9/d94/a27724.html#a13ecea64673f78b4b384a411a7aa8ca7", null ]
 ];

@@ -1,7 +1,9 @@
 var a08160 =
 [
-    [ "CreatureSpellCooldown", "d8/db5/a08160.html#a6d234a93951992640df5720a2885be3e", null ],
-    [ "CreatureSpellCooldown", "d8/db5/a08160.html#a53364a501b0ce66e05ec0e6638f6cb6e", null ],
-    [ "category", "d8/db5/a08160.html#a27330a80d711087f1894b2ce816c33b8", null ],
-    [ "end", "d8/db5/a08160.html#a9c1c5f2b6e9a6cd015085e79b043e483", null ]
+    [ "cancelTime", "d8/db5/a08160.html#ac1d5edf075556c488aff36799ee6cb96", null ],
+    [ "dungeons", "d8/db5/a08160.html#a1e6c1deaf47dc835bbab7a1741a57fe2", null ],
+    [ "leader", "d8/db5/a08160.html#ad92b0bd391dae5f934b7d6f8a39351d8", null ],
+    [ "rDungeonId", "d8/db5/a08160.html#af07fdfed0b56211af723db06959013f6", null ],
+    [ "roles", "d8/db5/a08160.html#a3759dc8140194b09be842365dc0053d7", null ],
+    [ "state", "d8/db5/a08160.html#aa70ef2d83084359af7bcc9e2de60ce77", null ]
 ];

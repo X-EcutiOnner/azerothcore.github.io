@@ -1,6 +1,11 @@
 var a23028 =
 [
-    [ "CalculateAmount", "dc/d84/a23028.html#aeeabfef0accc4e0d1f78f7422dc30a99", null ],
-    [ "PrepareAuraScript", "dc/d84/a23028.html#a5cf70fe73d01e08e78a2d00e5bc95e8e", null ],
-    [ "Register", "dc/d84/a23028.html#a0d2e97463f268892965e307628aaa931", null ]
+    [ "boss_doomwalker", "dc/d84/a23028.html#a47811086ff98b1a09af5300af94b6c0e", null ],
+    [ "JustDied", "dc/d84/a23028.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
+    [ "JustEngagedWith", "dc/d84/a23028.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
+    [ "KilledUnit", "dc/d84/a23028.html#a2335eb642940397f73ee2a8051624e8e", null ],
+    [ "MoveInLineOfSight", "dc/d84/a23028.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
+    [ "Reset", "dc/d84/a23028.html#aba08b227d629c9f35e59f465e29c267b", null ],
+    [ "UpdateAI", "dc/d84/a23028.html#a3105c50e512c6f709985cece619b131f", null ],
+    [ "_inEnrage", "dc/d84/a23028.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
 ];

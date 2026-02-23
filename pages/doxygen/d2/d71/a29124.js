@@ -1,7 +1,11 @@
 var a29124 =
 [
-    [ "Paths", "d2/d71/a29124.html#aff167c694a55441bcf5504f5d1933f41", null ],
-    [ "References", "d2/d71/a29124.html#a07f0d7daa9cd934768b8a603dc52bea3", null ],
-    [ "Sets", "d2/d71/a29124.html#a43774f8dd70e85e16aa8d49b5c6a25b6", null ],
-    [ "Spawns", "d2/d71/a29124.html#a51f24c059516683f0744b81819186c0e", null ]
+    [ "ClassID", "d2/d71/a29124.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
+    [ "DisplayInfoID", "d2/d71/a29124.html#a87657df2ad024245ccb2192303f76b7a", null ],
+    [ "ID", "d2/d71/a29124.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
+    [ "InventoryType", "d2/d71/a29124.html#a6dc33fc40a299b010c18a7009aff648b", null ],
+    [ "Material", "d2/d71/a29124.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
+    [ "SheatheType", "d2/d71/a29124.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
+    [ "SoundOverrideSubclassID", "d2/d71/a29124.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
+    [ "SubclassID", "d2/d71/a29124.html#ac39254716573e335caf312f635353a2e", null ]
 ];

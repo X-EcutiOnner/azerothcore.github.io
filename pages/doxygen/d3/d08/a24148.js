@@ -1,6 +1,5 @@
 var a24148 =
 [
-    [ "npc_deaths_fel_cannonAI", "d3/d08/a24148.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
-    [ "Reset", "d3/d08/a24148.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
-    [ "UpdateAI", "d3/d08/a24148.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
+    [ "go_crystal_prison", "d3/d08/a24148.html#a0faca8b76f9650ee5cc7825b90463365", null ],
+    [ "OnQuestAccept", "d3/d08/a24148.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
 ];

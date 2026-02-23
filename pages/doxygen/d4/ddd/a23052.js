@@ -1,6 +1,6 @@
 var a23052 =
 [
-    [ "PrepareAuraScript", "d4/ddd/a23052.html#a5cba6aaa06f8ec6e083ee0c5064414e4", null ],
-    [ "Register", "d4/ddd/a23052.html#a75d0cf142e299783b06903ea03287e28", null ],
-    [ "Update", "d4/ddd/a23052.html#ac027b02ed0ba70d65621a6af157c98f6", null ]
+    [ "OnPeriodic", "d4/ddd/a23052.html#a769d30c78e4feaa9cc0c581af5264c02", null ],
+    [ "PrepareAuraScript", "d4/ddd/a23052.html#a076e4b548de5cad64b7d81ddd8c5194f", null ],
+    [ "Register", "d4/ddd/a23052.html#af1c2b7baf0ff7164cafab8f1a53bbb18", null ]
 ];

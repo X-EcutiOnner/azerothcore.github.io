@@ -1,8 +1,9 @@
 var a09420 =
 [
-    [ "MostHPMissingInRange", "d5/d3f/a09420.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
-    [ "operator()", "d5/d3f/a09420.html#a420388204d8a1420552b902fbcb2bebe", null ],
-    [ "i_hp", "d5/d3f/a09420.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
-    [ "i_obj", "d5/d3f/a09420.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
-    [ "i_range", "d5/d3f/a09420.html#acef63da9004997c7f25056651284efa9", null ]
+    [ "InserterType", "d5/d3f/a09420.html#a8ea29aedfb1eaf2b3eac29bc61849319", null ],
+    [ "ContainerInserter", "d5/d3f/a09420.html#a44cd545e2965b309c48d40f4617bc38e", null ],
+    [ "Insert", "d5/d3f/a09420.html#af482d9f7940d548193fc56839bc2cb87", null ],
+    [ "InserterOf", "d5/d3f/a09420.html#a003318d4ec066ca45d79ec5b669cdb8c", null ],
+    [ "inserter", "d5/d3f/a09420.html#ac10b2769f02687260efd531af666fbb3", null ],
+    [ "ref", "d5/d3f/a09420.html#a60d4a9120523c28d8c408c981305535e", null ]
 ];

@@ -1,5 +1,7 @@
 var a14268 =
 [
-    [ "at_zulgurub_bridge_speech", "de/d82/a14268.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
-    [ "_OnTrigger", "de/d82/a14268.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
+    [ "HandleDispel", "de/d82/a14268.html#a415977576283972ce4a1050c70826d7c", null ],
+    [ "PrepareAuraScript", "de/d82/a14268.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
+    [ "Register", "de/d82/a14268.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
+    [ "Validate", "de/d82/a14268.html#ac496e7bef875ca46660217e74fc3bc74", null ]
 ];

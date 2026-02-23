@@ -1,6 +1,6 @@
 var a18624 =
 [
-    [ "npc_terenas_menethilAI", "d9/d7a/a18628.html", "d9/d7a/a18628" ],
-    [ "npc_terenas_menethil", "dc/daf/a18624.html#a6b6850598c582e3d44c13275302fd32d", null ],
-    [ "GetAI", "dc/daf/a18624.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
+    [ "LichKingMovieEvent", "dc/daf/a18624.html#a3e48e13dc5166c73a9f379045988f86a", null ],
+    [ "Execute", "dc/daf/a18624.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
+    [ "_owner", "dc/daf/a18624.html#a7ed68f442a644d6bb7a036812351d89e", null ]
 ];

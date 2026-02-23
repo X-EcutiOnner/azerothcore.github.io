@@ -1,8 +1,10 @@
 var a09544 =
 [
-    [ "MostHPMissingGroupInRange", "d1/d51/a09544.html#ab7cd80daa30d8a39289c704cc0a2064f", null ],
-    [ "operator()", "d1/d51/a09544.html#ad1b4a4894dd652237a7a789ef5619f4b", null ],
-    [ "i_hp", "d1/d51/a09544.html#ae61cafc52cb6d33cd78422c41bd3bb08", null ],
-    [ "i_obj", "d1/d51/a09544.html#ae0d85f9738301b40c3e950b02ee20026", null ],
-    [ "i_range", "d1/d51/a09544.html#a712e9b1ff341ccde4a6d6962ba6002a4", null ]
+    [ "MostHPPercentMissingInRange", "d1/d51/a09544.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
+    [ "operator()", "d1/d51/a09544.html#ab1734490a3db95ad715756e85ecfaf77", null ],
+    [ "i_hpPct", "d1/d51/a09544.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
+    [ "i_maxHpPct", "d1/d51/a09544.html#afd12795ef0cd99e05e4e21f869582416", null ],
+    [ "i_minHpPct", "d1/d51/a09544.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
+    [ "i_obj", "d1/d51/a09544.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
+    [ "i_range", "d1/d51/a09544.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
 ];

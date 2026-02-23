@@ -1,11 +1,7 @@
 var a13852 =
 [
-    [ "npc_supervisor_raelen", "dd/d36/a13852.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
-    [ "CallPeasent", "dd/d36/a13852.html#a0b8d661a86ec334adeb502d6936135ee", null ],
-    [ "Reset", "dd/d36/a13852.html#a656029c56da84d2d3cee7380d6032e3d", null ],
-    [ "SetData", "dd/d36/a13852.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
-    [ "UpdateAI", "dd/d36/a13852.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
-    [ "_events", "dd/d36/a13852.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
-    [ "_PeasentId", "dd/d36/a13852.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
-    [ "peasentGUIDs", "dd/d36/a13852.html#a6e290a29c8205b22bd668f0516e8904a", null ]
+    [ "FilterTargets", "dd/d36/a13852.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
+    [ "HandleHit", "dd/d36/a13852.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
+    [ "PrepareSpellScript", "dd/d36/a13852.html#a905e1f979284a368463ad4829891b6ee", null ],
+    [ "Register", "dd/d36/a13852.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
 ];

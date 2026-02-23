@@ -1,10 +1,26 @@
 var a09372 =
 [
-    [ "PlayerListSearcherWithSharedVision", "db/dff/a09372.html#aace01efe09c3190b81651d237e2e9a8a", null ],
-    [ "Visit", "db/dff/a09372.html#a5348d9887ebfd9c0a0016b31d3db8ffb", null ],
-    [ "Visit", "db/dff/a09372.html#a34c24d8e219b8dbbdf27c1d36489f3fa", null ],
-    [ "Visit", "db/dff/a09372.html#ac45ae498dc7f74426b66344d9367046a", null ],
-    [ "i_check", "db/dff/a09372.html#a7261e79c2980cfb61686c01254d70c8b", null ],
-    [ "i_objects", "db/dff/a09372.html#ac8e5495912121d8d3baac9d02e947815", null ],
-    [ "i_phaseMask", "db/dff/a09372.html#a9bd8d6c842ac2f4cf1f10441216f906c", null ]
+    [ "GetHeightPtr", "db/dff/a09372.html#a347927f9d7df887b2a6fd89d841e004c", null ],
+    [ "GridTerrainData", "db/dff/a09372.html#a1cf2965cea22f5a98ad2d737e372ac18", null ],
+    [ "~GridTerrainData", "db/dff/a09372.html#a7380c5dbf731134733b87cab470603a4", null ],
+    [ "getArea", "db/dff/a09372.html#a938710a8304ef342373d41581018c623", null ],
+    [ "getHeight", "db/dff/a09372.html#a1269f47abd6faf5304494c85628bb961", null ],
+    [ "getHeightFromFlat", "db/dff/a09372.html#adc73b5d06468dbf30b7b6507f6ac6474", null ],
+    [ "getHeightFromFloat", "db/dff/a09372.html#a43b34255bd40b0824ad161bd40c8a5ec", null ],
+    [ "getHeightFromUint16", "db/dff/a09372.html#a4ae5997baa9f9905cf13a3a214781df9", null ],
+    [ "getHeightFromUint8", "db/dff/a09372.html#af849394add099d86aa8ec9eb8c807f5d", null ],
+    [ "GetLiquidData", "db/dff/a09372.html#a07d7e85ff8386eaad8c9d1d32414e3b9", null ],
+    [ "getLiquidLevel", "db/dff/a09372.html#a2e3b2ea01f5ce3f93944529d73fa70de", null ],
+    [ "getMinHeight", "db/dff/a09372.html#ab39ef52957f9c1ece42c3fc11893a3fc", null ],
+    [ "isHole", "db/dff/a09372.html#abdf3da449ed62b2d7a54547178d21110", null ],
+    [ "Load", "db/dff/a09372.html#acacaa661126e761a863b5490a3e78e73", null ],
+    [ "LoadAreaData", "db/dff/a09372.html#a28f80f4acdb72dd9641a261178df0859", null ],
+    [ "LoadHeightData", "db/dff/a09372.html#ae50db87879b0b0bca66f0f0a625e2bc9", null ],
+    [ "LoadHolesData", "db/dff/a09372.html#a0741c8d46e938fcf7b18fe7c9254b629", null ],
+    [ "LoadLiquidData", "db/dff/a09372.html#ac3dc194ca16a7e9b604b2c2d14c478d8", null ],
+    [ "_gridGetHeight", "db/dff/a09372.html#a2425f13f62b37931192acdc02127c243", null ],
+    [ "_loadedAreaData", "db/dff/a09372.html#a6d4887b105ac3c7f6c49ef0d92a33780", null ],
+    [ "_loadedHeightData", "db/dff/a09372.html#aea51fcf34105d685405203093ce67085", null ],
+    [ "_loadedHoleData", "db/dff/a09372.html#a421f20b133fab6afa2295de1ebe5b51a", null ],
+    [ "_loadedLiquidData", "db/dff/a09372.html#a3d72914b55d6c6413ade869503b259cc", null ]
 ];

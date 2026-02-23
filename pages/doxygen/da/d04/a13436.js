@@ -1,7 +1,6 @@
 var a13436 =
 [
-    [ "HandleScript", "da/d04/a13436.html#acbff60b24bd0239880378b48cb97b6a4", null ],
-    [ "PrepareSpellScript", "da/d04/a13436.html#a2f72b76ced4443a8eb1dfcf7bf6a4ac5", null ],
-    [ "Register", "da/d04/a13436.html#a132d35555f1d589caa65ecd3728976d5", null ],
-    [ "Validate", "da/d04/a13436.html#a503ce41357f8195837c9b14f2468fb5b", null ]
+    [ "npc_acherus_necromancerAI", "d1/df9/a13440.html", "d1/df9/a13440" ],
+    [ "npc_acherus_necromancer", "da/d04/a13436.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
+    [ "GetAI", "da/d04/a13436.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
 ];

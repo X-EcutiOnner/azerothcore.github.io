@@ -1,6 +1,7 @@
 var a14244 =
 [
-    [ "OnEffect", "dc/d1e/a14244.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
-    [ "PrepareSpellScript", "dc/d1e/a14244.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
-    [ "Register", "dc/d1e/a14244.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
+    [ "Load", "dc/d1e/a14244.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
+    [ "OnRemove", "dc/d1e/a14244.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
+    [ "PrepareAuraScript", "dc/d1e/a14244.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
+    [ "Register", "dc/d1e/a14244.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
 ];

@@ -1,10 +1,8 @@
 var a21052 =
 [
-    [ "boss_yoggsaron_constrictor_tentacleAI", "dc/de3/a21052.html#a351df0050661628e3ab0be2f636f9c4e", null ],
-    [ "DoAction", "dc/de3/a21052.html#ad84c2b479a2d7df7aec40f17287a2438", null ],
-    [ "JustDied", "dc/de3/a21052.html#a832d1b1154b158c348f9d5883ad0fbd7", null ],
-    [ "SelectConstrictTarget", "dc/de3/a21052.html#a174be8d1673e332f9dceb10d2917bb4a", null ],
-    [ "UpdateAI", "dc/de3/a21052.html#a00c137429f2b565bf195dab4e9902a7c", null ],
-    [ "_checkTimer", "dc/de3/a21052.html#ae5c189401dd04823449e7a16c197e65f", null ],
-    [ "_playerGUID", "dc/de3/a21052.html#a01d889af8d8fe5712cde73cdc2bf3c95", null ]
+    [ "CheckProc", "dc/de3/a21052.html#a93a45a442c2527468a5bfd4136bb53a0", null ],
+    [ "HandleProc", "dc/de3/a21052.html#a8641ddd1b6722a30b167d170adb47fd8", null ],
+    [ "PrepareAuraScript", "dc/de3/a21052.html#a55ce8f27fa326da9b68db7f4cd4bc334", null ],
+    [ "Register", "dc/de3/a21052.html#a04df3b39b6a80592b6b2afe76e85a1e0", null ],
+    [ "Validate", "dc/de3/a21052.html#ad4176f188412053b9205820fb6183d38", null ]
 ];

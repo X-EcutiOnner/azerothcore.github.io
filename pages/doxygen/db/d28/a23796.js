@@ -1,6 +1,6 @@
 var a23796 =
 [
-    [ "HandleHit", "db/d28/a23796.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
-    [ "PrepareSpellScript", "db/d28/a23796.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
-    [ "Register", "db/d28/a23796.html#acb1b681f587817614c2b3684585369db", null ]
+    [ "HandleScriptEffect", "db/d28/a23796.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
+    [ "PrepareSpellScript", "db/d28/a23796.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
+    [ "Register", "db/d28/a23796.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
 ];

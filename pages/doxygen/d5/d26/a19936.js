@@ -1,6 +1,12 @@
 var a19936 =
 [
-    [ "PrepareSpellScript", "d5/d26/a19936.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
-    [ "RecalculateDamage", "d5/d26/a19936.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
-    [ "Register", "d5/d26/a19936.html#aac131aa2d2e5342cf0303b918a077b45", null ]
+    [ "boss_krystallusAI", "d5/d26/a19936.html#adfa2ab8498279937bf497292d6e7cba5", null ],
+    [ "JustDied", "d5/d26/a19936.html#a5b77186f7c0920142a64a03c508dcc3e", null ],
+    [ "JustEngagedWith", "d5/d26/a19936.html#aaba17094bfe43c9ad63076f84d10a83a", null ],
+    [ "KilledUnit", "d5/d26/a19936.html#acf9101c5b776820039fd80e5d6e0c138", null ],
+    [ "RemoveStonedEffect", "d5/d26/a19936.html#ae8bdb2bca7c01c564adab93f1dd67720", null ],
+    [ "Reset", "d5/d26/a19936.html#ae163fbd682f09f2a49fa71309284ed3b", null ],
+    [ "UpdateAI", "d5/d26/a19936.html#a79095e25f1d9dac927f63cef67db60ec", null ],
+    [ "events", "d5/d26/a19936.html#afcd06280f8c7640ff9a56223f5bf3555", null ],
+    [ "pInstance", "d5/d26/a19936.html#aec9cf7053476298f72dccf3bd1579c63", null ]
 ];

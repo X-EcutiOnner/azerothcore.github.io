@@ -1,6 +1,6 @@
 var a16432 =
 [
-    [ "OnSummon", "d1/d00/a16432.html#ae2766d12fb686356b46126848f356c5a", null ],
-    [ "PrepareSpellScript", "d1/d00/a16432.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
-    [ "Register", "d1/d00/a16432.html#a717394bfbea621ae637f9e87efddda62", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d5/d0f/a16436.html", "d5/d0f/a16436" ],
+    [ "instance_obsidian_sanctum", "d1/d00/a16432.html#a6cf2121c4167156f5748c144372b3c0b", null ],
+    [ "GetInstanceScript", "d1/d00/a16432.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
 ];

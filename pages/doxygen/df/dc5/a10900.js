@@ -1,7 +1,6 @@
 var a10900 =
 [
-    [ "ReadItem", "df/dc5/a10900.html#a099da7490ccf30ee0bde5f85e6197a76", null ],
-    [ "Read", "df/dc5/a10900.html#a61ae8ba19d04f3001614f8dd2ad408ed", null ],
-    [ "Bag", "df/dc5/a10900.html#a16c02f27e986ac3d093668092d67a3c9", null ],
-    [ "Slot", "df/dc5/a10900.html#a1d181a1cec1021cf68a5d9b80d2753c3", null ]
+    [ "GuildOfficerRemoveMember", "df/dc5/a10900.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
+    [ "Read", "df/dc5/a10900.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
+    [ "Removee", "df/dc5/a10900.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
 ];

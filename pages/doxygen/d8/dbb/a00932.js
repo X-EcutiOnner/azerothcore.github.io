@@ -1,27 +1,21 @@
 var a00932 =
 [
-    [ "AllBattlegroundScript", "d2/dae/a10345.html", "d2/dae/a10345" ],
-    [ "BGScript", "d8/dbb/a00932.html#ae9cb670a445a9cb3089a66cdcc822d0e", null ],
-    [ "AllBattlegroundHook", "d8/dbb/a00932.html#a17a6e2af65c8cf024623d584c7f3a11f", [
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_START", "d8/dbb/a00932.html#a17a6e2af65c8cf024623d584c7f3a11fa6d4da13cd771a0027ee68bb5a41cbef2", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END_REWARD", "d8/dbb/a00932.html#a17a6e2af65c8cf024623d584c7f3a11fa6249f560935453a3230622aff4d12aeb", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_UPDATE", "d8/dbb/a00932.html#a17a6e2af65c8cf024623d584c7f3a11faa835decdfe3bd71e3f36d57ea58f0957", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_ADD_PLAYER", "d8/dbb/a00932.html#a17a6e2af65c8cf024623d584c7f3a11fa3be3eca5302bcf69ac7f102837ac7de0", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_BEFORE_ADD_PLAYER", "d8/dbb/a00932.html#a17a6e2af65c8cf024623d584c7f3a11fa20256e46bc7531203cb3129b8b2f1d6a", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_REMOVE_PLAYER_AT_LEAVE", "d8/dbb/a00932.html#a17a6e2af65c8cf024623d584c7f3a11fa1eb34bf20bb04e911b0fc231d34e9175", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE", "d8/dbb/a00932.html#a17a6e2af65c8cf024623d584c7f3a11fa2f7e966409796169c03f2a540adc37d7", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_QUEUE_UPDATE_VALIDITY", "d8/dbb/a00932.html#a17a6e2af65c8cf024623d584c7f3a11faf57572cc73fbade9e6d25116230677d5", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_ADD_GROUP", "d8/dbb/a00932.html#a17a6e2af65c8cf024623d584c7f3a11fa939f6d860e7bd28952f4f8027c23b95f", null ],
-      [ "ALLBATTLEGROUNDHOOK_CAN_FILL_PLAYERS_TO_BG", "d8/dbb/a00932.html#a17a6e2af65c8cf024623d584c7f3a11fa85e775dbed655cf407e7ebf1a64636f7", null ],
-      [ "ALLBATTLEGROUNDHOOK_IS_CHECK_NORMAL_MATCH", "d8/dbb/a00932.html#a17a6e2af65c8cf024623d584c7f3a11fadbabd96f7abb5df470101fc9df9d9323", null ],
-      [ "ALLBATTLEGROUNDHOOK_CAN_SEND_MESSAGE_BG_QUEUE", "d8/dbb/a00932.html#a17a6e2af65c8cf024623d584c7f3a11faab250dae715543f6092538ecead24a53", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_JOIN_MESSAGE_ARENA_QUEUE", "d8/dbb/a00932.html#a17a6e2af65c8cf024623d584c7f3a11faa1d8bc700124dc104e154886f3af51c5", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BEFORE_SEND_EXIT_MESSAGE_ARENA_QUEUE", "d8/dbb/a00932.html#a17a6e2af65c8cf024623d584c7f3a11fa7ff5cea511eefb352f3c13df830a9cd8", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_END", "d8/dbb/a00932.html#a17a6e2af65c8cf024623d584c7f3a11fa9a98407eef4207a402bffde24660cc00", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_DESTROY", "d8/dbb/a00932.html#a17a6e2af65c8cf024623d584c7f3a11faf70d3c3e04932aa21b33d497d3f30953", null ],
-      [ "ALLBATTLEGROUNDHOOK_ON_BATTLEGROUND_CREATE", "d8/dbb/a00932.html#a17a6e2af65c8cf024623d584c7f3a11fa5cab42841def4696e241e31f655d4cd1", null ],
-      [ "ALLBATTLEGROUNDHOOK_CAN_ADD_GROUP_TO_MATCHING_POOL", "d8/dbb/a00932.html#a17a6e2af65c8cf024623d584c7f3a11fa6660e58efa109e694bdb78d120bd290a", null ],
-      [ "ALLBATTLEGROUNDHOOK_GET_PLAYER_MATCHMAKING_RATING", "d8/dbb/a00932.html#a17a6e2af65c8cf024623d584c7f3a11fad51adb5145190199738023e77119f7fb", null ],
-      [ "ALLBATTLEGROUNDHOOK_END", "d8/dbb/a00932.html#a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af", null ]
+    [ "Trainer::Spell", "da/d1c/a08348.html", "da/d1c/a08348" ],
+    [ "Trainer::Trainer", "d0/de8/a08352.html", "d0/de8/a08352" ],
+    [ "FailReason", "d8/dbb/a00932.html#ae4935022d4e3c686a8b51cd68a4f2b66", [
+      [ "Unavailable", "d8/dbb/a00932.html#ae4935022d4e3c686a8b51cd68a4f2b66a453e6aa38d87b28ccae545967c53004f", null ],
+      [ "NotEnoughMoney", "d8/dbb/a00932.html#ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094", null ],
+      [ "NotEnoughSkill", "d8/dbb/a00932.html#ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264", null ]
+    ] ],
+    [ "SpellState", "d8/dbb/a00932.html#a34dc7b354e539f94e4c8a4cbd0711758", [
+      [ "Available", "d8/dbb/a00932.html#a34dc7b354e539f94e4c8a4cbd0711758a78945de8de090e90045d299651a68a9b", null ],
+      [ "Unavailable", "d8/dbb/a00932.html#a34dc7b354e539f94e4c8a4cbd0711758a453e6aa38d87b28ccae545967c53004f", null ],
+      [ "Known", "d8/dbb/a00932.html#a34dc7b354e539f94e4c8a4cbd0711758a2f5650e484fa195949ac6c8d11dca4fd", null ]
+    ] ],
+    [ "Type", "d8/dbb/a00932.html#a636cc62a0635fc1566fb574ebe9941a9", [
+      [ "Class", "d8/dbb/a00932.html#a636cc62a0635fc1566fb574ebe9941a9a9bd81329febf6efe22788e03ddeaf0af", null ],
+      [ "Mount", "d8/dbb/a00932.html#a636cc62a0635fc1566fb574ebe9941a9aeace16d66cdd93ad876c620db7456077", null ],
+      [ "Tradeskill", "d8/dbb/a00932.html#a636cc62a0635fc1566fb574ebe9941a9a7f36331b1b83871b2bd2773a286f54cd", null ],
+      [ "Pet", "d8/dbb/a00932.html#a636cc62a0635fc1566fb574ebe9941a9a7c986af4cf8f6e55a1f846dc498ce91d", null ]
     ] ]
 ];

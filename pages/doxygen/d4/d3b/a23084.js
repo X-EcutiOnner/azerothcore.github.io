@@ -1,6 +1,6 @@
 var a23084 =
 [
-    [ "boss_reliquary_of_soulsAI", "d8/dc9/a23088.html", "d8/dc9/a23088" ],
-    [ "boss_reliquary_of_souls", "d4/d3b/a23084.html#a0c73fc6221da0b19903e534932ca6406", null ],
-    [ "GetAI", "d4/d3b/a23084.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
+    [ "HandleScriptEffect", "d4/d3b/a23084.html#a6489e3a58421da7c448a24d6673564c5", null ],
+    [ "PrepareSpellScript", "d4/d3b/a23084.html#a5afd50fdc8393a12cd39a56c342f9179", null ],
+    [ "Register", "d4/d3b/a23084.html#a274d65aa393a65e19bbb67a5d07c7428", null ]
 ];

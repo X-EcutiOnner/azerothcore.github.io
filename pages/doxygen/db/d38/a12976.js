@@ -1,6 +1,9 @@
 var a12976 =
 [
-    [ "npc_sanguine_spirit", "db/d38/a12976.html#a1e9a9a8dfaf5475b99d53b6b14db25f0", null ],
-    [ "Reset", "db/d38/a12976.html#ab92451fe70fd8c444a1c9d0bc318f624", null ],
-    [ "UpdateAI", "db/d38/a12976.html#abb07fe0308c3cce7ab5e239e66d65c52", null ]
+    [ "HandleEffectApply", "db/d38/a12976.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
+    [ "HandleEffectRemove", "db/d38/a12976.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
+    [ "Load", "db/d38/a12976.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
+    [ "PrepareAuraScript", "db/d38/a12976.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
+    [ "Register", "db/d38/a12976.html#a201bafab6c483b08a6ae27054392dea9", null ],
+    [ "Validate", "db/d38/a12976.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
 ];

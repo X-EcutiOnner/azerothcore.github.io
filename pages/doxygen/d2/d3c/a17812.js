@@ -1,6 +1,8 @@
 var a17812 =
 [
-    [ "npc_high_overlord_saurfang_igbAI", "d9/d4c/a17816.html", "d9/d4c/a17816" ],
-    [ "npc_high_overlord_saurfang_igb", "d2/d3c/a17812.html#ae68d42f65851a753874705511bb83330", null ],
-    [ "GetAI", "d2/d3c/a17812.html#a54b6da97a40665232d28a20bac9b7ef3", null ]
+    [ "OnApply", "d2/d3c/a17812.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
+    [ "OnRemove", "d2/d3c/a17812.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
+    [ "PrepareAuraScript", "d2/d3c/a17812.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
+    [ "Register", "d2/d3c/a17812.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
+    [ "Validate", "d2/d3c/a17812.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
 ];

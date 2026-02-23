@@ -1,4 +1,8 @@
 var a06256 =
 [
-    [ "SelectableAI", "db/d2c/a06256.html#af34ed4ae0c831a3dd41585704488528f", null ]
+    [ "BannedAddon", "db/d2c/a06256.html#aadd8cb8602ec03455a91b4f49767fdc8", null ],
+    [ "Id", "db/d2c/a06256.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
+    [ "NameMD5", "db/d2c/a06256.html#a67c4437044d747ff9867a71967697767", null ],
+    [ "Timestamp", "db/d2c/a06256.html#af62257c39a4ae1eba959086e981b0d19", null ],
+    [ "VersionMD5", "db/d2c/a06256.html#acb8dbe824f71363eb81504f43a126d96", null ]
 ];

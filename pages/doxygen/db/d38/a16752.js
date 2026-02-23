@@ -1,6 +1,8 @@
 var a16752 =
 [
-    [ "npc_toc_enh_shamanAI", "d0/d4f/a16756.html", "d0/d4f/a16756" ],
-    [ "npc_toc_enh_shaman", "db/d38/a16752.html#ac328b63a988d2cd8640237b250c338a8", null ],
-    [ "GetAI", "db/d38/a16752.html#a4501c9289a06750d8f153f89565b12f3", null ]
+    [ "npc_announcer_toc5AI", "db/d38/a16752.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
+    [ "DamageTaken", "db/d38/a16752.html#a53458483699ac026ff2cd36b5f061571", null ],
+    [ "MovementInform", "db/d38/a16752.html#acdcf4110b3815635ad173a70e7a1e603", null ],
+    [ "Reset", "db/d38/a16752.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
+    [ "UpdateAI", "db/d38/a16752.html#ad2c596253d67d051f497a8d77859846d", null ]
 ];

@@ -1,9 +1,10 @@
 var a07492 =
 [
-    [ "entry", "dd/d6f/a07492.html#a4c6980a035279ca45e88a2ddc0beb0b5", null ],
-    [ "o", "dd/d6f/a07492.html#a785703f50dcafda5888fb76af82a09da", null ],
-    [ "type", "dd/d6f/a07492.html#aa21624a51b1fbfc474d0c64f4996cb9b", null ],
-    [ "x", "dd/d6f/a07492.html#a55bd18cb9ea27748a07dd91f6783de23", null ],
-    [ "y", "dd/d6f/a07492.html#a908fbf198d908963e77630b42deea147", null ],
-    [ "z", "dd/d6f/a07492.html#a4a49f5cbb58764ea9c137fc010e898c6", null ]
+    [ "Battleground2ChatBuilder", "dd/d6f/a07492.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1", null ],
+    [ "operator()", "dd/d6f/a07492.html#a7c0ee21531ba43d9d2ab427d95da2ec5", null ],
+    [ "_arg1", "dd/d6f/a07492.html#aa6959944406804f01baa18cd898bfc41", null ],
+    [ "_arg2", "dd/d6f/a07492.html#aebfaeac77c40d4c7938cbdd488defc51", null ],
+    [ "_msgtype", "dd/d6f/a07492.html#a770d30e207e41a8f985776787d53f2cf", null ],
+    [ "_source", "dd/d6f/a07492.html#a8867dd698d0457688202e1a9378255d2", null ],
+    [ "_textId", "dd/d6f/a07492.html#a632cab30adc21c22f1a8890b1627262a", null ]
 ];

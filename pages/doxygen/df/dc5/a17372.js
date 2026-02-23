@@ -1,11 +1,6 @@
 var a17372 =
 [
-    [ "npc_pos_leader_secondAI", "df/dc5/a17372.html#a2ded8591da2548921cd016d592d1f1c8", null ],
-    [ "DoAction", "df/dc5/a17372.html#a941d3b42d6a0e58496b724af56fee44a", null ],
-    [ "MovementInform", "df/dc5/a17372.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
-    [ "SpellHitTarget", "df/dc5/a17372.html#ae630b7b225379831d15a11f66507bc6a", null ],
-    [ "UpdateAI", "df/dc5/a17372.html#a640aea9ce4a47dd13d417748e533fc33", null ],
-    [ "barrierGUID", "df/dc5/a17372.html#a452c096475581c12bf2f4ccb12448026", null ],
-    [ "events", "df/dc5/a17372.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
-    [ "pInstance", "df/dc5/a17372.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
+    [ "npc_hor_risen_witch_doctorAI", "db/d58/a17376.html", "db/d58/a17376" ],
+    [ "npc_hor_risen_witch_doctor", "df/dc5/a17372.html#add06a10c9b4342b136b5cab49338b095", null ],
+    [ "GetAI", "df/dc5/a17372.html#a055a8d29d8e6a58b92968ed1c39c1b1d", null ]
 ];

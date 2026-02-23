@@ -1,7 +1,6 @@
 var a18244 =
 [
-    [ "HandleScript", "df/de3/a18244.html#a37b261d0df2829788d8290a9194913f5", null ],
-    [ "PrepareSpellScript", "df/de3/a18244.html#a69386dbef57322393a38eec90662135f", null ],
-    [ "Register", "df/de3/a18244.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
-    [ "Validate", "df/de3/a18244.html#a63c446574c700a895d7fbc5bb2b81508", null ]
+    [ "PrepareSpellScript", "df/de3/a18244.html#a9041ce6139de9a48621d6898ddcca673", null ],
+    [ "RecalculateDamage", "df/de3/a18244.html#abfb7c002577a59864fb2aa069b713c0a", null ],
+    [ "Register", "df/de3/a18244.html#a4308449e8cbe7ed59598a837024141cb", null ]
 ];

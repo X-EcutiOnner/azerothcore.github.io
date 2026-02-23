@@ -1,5 +1,6 @@
 var a28008 =
 [
-    [ "npc_sunwell_gate", "d4/ddb/a28008.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
-    [ "OnQuestReward", "d4/ddb/a28008.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
+    [ "boss_lethonAI", "dd/d3a/a28012.html", "dd/d3a/a28012" ],
+    [ "boss_lethon", "d4/ddb/a28008.html#a5d758979b061646830373de64b2b3af4", null ],
+    [ "GetAI", "d4/ddb/a28008.html#a493baf37aac400635dd0409e79375a1c", null ]
 ];

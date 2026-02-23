@@ -1,16 +1,7 @@
 var a14080 =
 [
-    [ "boss_akilzon", "dc/df8/a14080.html#a8c56c6920488ac507e24db384782e2ab", null ],
-    [ "DoAction", "dc/df8/a14080.html#a691625a18583d58b1be4d2caeb21b1e0", null ],
-    [ "HandleStormSequence", "dc/df8/a14080.html#a54d2f18adf59dc89553dd1778e5ea0b1", null ],
-    [ "JustDied", "dc/df8/a14080.html#a93b34ed1f80dc138e54f77eb4f64b1bc", null ],
-    [ "JustEngagedWith", "dc/df8/a14080.html#a2783ec5db681651f8c43c238e9ed25f3", null ],
-    [ "KilledUnit", "dc/df8/a14080.html#a1a5ffe4c6aabeaa39971f2376761a7d7", null ],
-    [ "Reset", "dc/df8/a14080.html#a69302e4ac8f349e884f0745fe66edce2", null ],
-    [ "SetWeather", "dc/df8/a14080.html#a9c8eeed625f33153819df19b6c2c5670", null ],
-    [ "SummonEagles", "dc/df8/a14080.html#acde7c47a3ebee988753cd2af93fe16d4", null ],
-    [ "_birdGUIDs", "dc/df8/a14080.html#ad5c56493e1e6331ae09bb70b920282fc", null ],
-    [ "_cycloneGUID", "dc/df8/a14080.html#aaa712019eb5d17684d7f048f81e36270", null ],
-    [ "_isRaining", "dc/df8/a14080.html#af61142c59ca9c5868afe7bc94ca40dcf", null ],
-    [ "_targetGUID", "dc/df8/a14080.html#a4e8349e5ea281a40b9623b14e235bf41", null ]
+    [ "npc_deathstalker_erlandAI", "df/d3e/a14084.html", "df/d3e/a14084" ],
+    [ "npc_deathstalker_erland", "dc/df8/a14080.html#ad49faf068e982f245f0d1e21f0700c40", null ],
+    [ "GetAI", "dc/df8/a14080.html#ab59235f212ddb985056cb8e32719b723", null ],
+    [ "OnQuestAccept", "dc/df8/a14080.html#a81b20bc8c7249a59d69ba63ab32a5f06", null ]
 ];

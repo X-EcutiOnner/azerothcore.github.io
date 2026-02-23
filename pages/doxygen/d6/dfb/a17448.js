@@ -1,6 +1,6 @@
 var a17448 =
 [
-    [ "HandleScriptEffect", "d6/dfb/a17448.html#ab9c289e946cfaf2b63f2526914d79812", null ],
-    [ "PrepareSpellScript", "d6/dfb/a17448.html#a832f8ab737254760fe2b91f19d119781", null ],
-    [ "Register", "d6/dfb/a17448.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
+    [ "boss_tyrannusAI", "d2/d4c/a17452.html", "d2/d4c/a17452" ],
+    [ "boss_tyrannus", "d6/dfb/a17448.html#a81373192ffea8817cb72b80f4629da43", null ],
+    [ "GetAI", "d6/dfb/a17448.html#ad107030de1427d070305f5dcef96c016", null ]
 ];

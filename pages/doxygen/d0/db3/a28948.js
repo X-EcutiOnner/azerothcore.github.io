@@ -1,10 +1,11 @@
 var a28948 =
 [
-    [ "Exception", "d0/db3/a28948.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "d0/db3/a28948.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "Exception", "d0/db3/a28948.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "d0/db3/a28948.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "getMessage", "d0/db3/a28948.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
-    [ "getMessage", "d0/db3/a28948.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
-    [ "message", "d0/db3/a28948.html#aeb732542a0ba63cde3d9b3bff93f4eda", null ]
+    [ "icon", "d0/db3/a28948.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
+    [ "id", "d0/db3/a28948.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
+    [ "mapId", "d0/db3/a28948.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
+    [ "worldState", "d0/db3/a28948.html#a9d745d26316726c861cc5a242f6a4f57", null ],
+    [ "x", "d0/db3/a28948.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
+    [ "y", "d0/db3/a28948.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
+    [ "z", "d0/db3/a28948.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
+    [ "zoneId", "d0/db3/a28948.html#a0cc33089981237694ca550cba6793a3e", null ]
 ];

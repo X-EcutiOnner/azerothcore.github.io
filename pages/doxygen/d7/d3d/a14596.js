@@ -1,6 +1,7 @@
 var a14596 =
 [
-    [ "npc_cw_area_triggerAI", "de/db3/a14600.html", "de/db3/a14600" ],
-    [ "npc_cw_area_trigger", "d7/d3d/a14596.html#a11af64ac4ab078566bf8f68a36781939", null ],
-    [ "GetAI", "d7/d3d/a14596.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
+    [ "FilterTargets", "d7/d3d/a14596.html#a00adeba9ac3e631109308b1e4bf8f529", null ],
+    [ "HandleEffect", "d7/d3d/a14596.html#ab6dd7934cc6f10d327e80cd0b6bdfac9", null ],
+    [ "PrepareSpellScript", "d7/d3d/a14596.html#a08127992c96fb02e87e9ade65a5375d5", null ],
+    [ "Register", "d7/d3d/a14596.html#aeaf1955aece958a8e7d7773a33177e5d", null ]
 ];

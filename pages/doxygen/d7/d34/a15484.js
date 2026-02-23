@@ -1,5 +1,6 @@
 var a15484 =
 [
-    [ "at_twin_emperors", "d7/d34/a15484.html#a343d482857fa0a45c42f593e591f7754", null ],
-    [ "_OnTrigger", "d7/d34/a15484.html#adf3120b7bf611e0246abb2970711ada3", null ]
+    [ "FilterTargets", "d7/d34/a15484.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
+    [ "PrepareSpellScript", "d7/d34/a15484.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
+    [ "Register", "d7/d34/a15484.html#a3168a3f97ddb38b261a0730405ba27db", null ]
 ];

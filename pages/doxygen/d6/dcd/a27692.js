@@ -1,10 +1,6 @@
 var a27692 =
 [
-    [ "npc_prof_blacksmith", "d6/dcd/a27692.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
-    [ "HasWeaponSub", "d6/dcd/a27692.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
-    [ "OnGossipHello", "d6/dcd/a27692.html#a9a432c1ec33578949110c877fc6a686d", null ],
-    [ "OnGossipSelect", "d6/dcd/a27692.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
-    [ "SendActionMenu", "d6/dcd/a27692.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
-    [ "SendConfirmLearn", "d6/dcd/a27692.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
-    [ "SendConfirmUnlearn", "d6/dcd/a27692.html#a851dc241d944bc888a00df85bff17e3a", null ]
+    [ "CheckProc", "d6/dcd/a27692.html#ad99bf14a9b71a9ff7b2ccb73eaae41ce", null ],
+    [ "PrepareAuraScript", "d6/dcd/a27692.html#a787d22fa4d989bf28aa69f64d55d9687", null ],
+    [ "Register", "d6/dcd/a27692.html#a4ef23658a8f36556513fcd7b9673a14f", null ]
 ];

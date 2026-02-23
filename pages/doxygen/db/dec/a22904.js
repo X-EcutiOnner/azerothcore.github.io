@@ -1,12 +1,13 @@
 var a22904 =
 [
-    [ "boss_gurtogg_bloodboil", "db/dec/a22904.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
-    [ "CanAIAttack", "db/dec/a22904.html#a60e6439bab689eb88a18612b6b46c713", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "db/dec/a22904.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
-    [ "JustDied", "db/dec/a22904.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
-    [ "JustEngagedWith", "db/dec/a22904.html#a0847173efbae252c2fbbaf1be17097cb", null ],
-    [ "JustSummoned", "db/dec/a22904.html#ae718666a1da0e93cb0965c42c40b51df", null ],
-    [ "KilledUnit", "db/dec/a22904.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
-    [ "Reset", "db/dec/a22904.html#add25677d422b8bddcb753465451f0584", null ],
-    [ "_recentlySpoken", "db/dec/a22904.html#a74af813b84f7787a5b764cfe574c087b", null ]
+    [ "boss_teron_gorefiend", "db/dec/a22904.html#a81845f22aa383cdc57912ee9655b7bf9", null ],
+    [ "JustDied", "db/dec/a22904.html#aa080c8d17bc51142c1cecadf7a0376a2", null ],
+    [ "JustEngagedWith", "db/dec/a22904.html#a9f658d42cf27a54c62a71e28b5dfadee", null ],
+    [ "JustSummoned", "db/dec/a22904.html#a71db567c5be7396add349e2f1b455a50", null ],
+    [ "KilledUnit", "db/dec/a22904.html#a70dbf2b2a08cf915866afd51f8a74018", null ],
+    [ "Reset", "db/dec/a22904.html#af32df2d958c618dc08d3da40b92bf3aa", null ],
+    [ "SetData", "db/dec/a22904.html#a139c351471a3f19c7e59cf8e40913820", null ],
+    [ "UpdateAI", "db/dec/a22904.html#a0bdd92c94adf066fdbf8ba9bcb1a1ba1", null ],
+    [ "_intro", "db/dec/a22904.html#a99c62157084373e8eddd4497360cc047", null ],
+    [ "_recentlySpoken", "db/dec/a22904.html#adef80b4509a6a72e7021fd3cc11de697", null ]
 ];

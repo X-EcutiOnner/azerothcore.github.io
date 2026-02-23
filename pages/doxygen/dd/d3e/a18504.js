@@ -1,10 +1,7 @@
 var a18504 =
 [
-    [ "npc_shambling_horror_iccAI", "dd/d3e/a18504.html#a0d15c62bead7a4da3c8a8abd0b2ee612", null ],
-    [ "CanAIAttack", "dd/d3e/a18504.html#a6d77fdd16c4b089049ade7f7b081b4e9", null ],
-    [ "DamageTaken", "dd/d3e/a18504.html#aed90f2c487c28190c7af630f4ea2fa13", null ],
-    [ "Reset", "dd/d3e/a18504.html#ac5bab3d9f360e4e00dcab9abc3799865", null ],
-    [ "UpdateAI", "dd/d3e/a18504.html#abae6058591022057e93d48da3db1b8bc", null ],
-    [ "_events", "dd/d3e/a18504.html#af12b65fe4f77e8b2d3f5c87379dd69d2", null ],
-    [ "_frenzied", "dd/d3e/a18504.html#a34347cbecea4c6f538345b7285e8f1c0", null ]
+    [ "PeriodicTick", "dd/d3e/a18504.html#a79b63e30f37df8a961b57c4b10669800", null ],
+    [ "PrepareAuraScript", "dd/d3e/a18504.html#a091a72cf97d5fbd6ffbf95ad3e409aa6", null ],
+    [ "Register", "dd/d3e/a18504.html#a860e2bc444f5aeb78837cd1a6eff40a3", null ],
+    [ "Validate", "dd/d3e/a18504.html#a32cbe3a7eedf7b37229168a6154167b0", null ]
 ];

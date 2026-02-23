@@ -1,11 +1,10 @@
 var a14460 =
 [
-    [ "npc_dark_iron_attack_mole_machine", "df/d14/a14460.html#a473a8fb4905e5d1333196797d7d0f371", null ],
-    [ "AttackStart", "df/d14/a14460.html#a999dd932fbaf22a8275dfdba150c3291", null ],
-    [ "JustEngagedWith", "df/d14/a14460.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
-    [ "MoveInLineOfSight", "df/d14/a14460.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
-    [ "Reset", "df/d14/a14460.html#a0727aab751ddfbd94ae070e60e47e768", null ],
-    [ "UpdateAI", "df/d14/a14460.html#a1217ed510a846d011143ae0a386c6236", null ],
-    [ "goTimer", "df/d14/a14460.html#a8686845ebef564c9fcaa115866c99749", null ],
-    [ "summonTimer", "df/d14/a14460.html#a4713da02f4a86547a0f796167e24d8bb", null ]
+    [ "boss_jeklik", "df/d14/a14460.html#a826bdba66fee3bb82b64ca6174b66c44", null ],
+    [ "EnterEvadeMode", "df/d14/a14460.html#a70dc363e0690e72846db5f779375edc1", null ],
+    [ "JustDied", "df/d14/a14460.html#ae648ba9ff49f4970612a8c3351789b66", null ],
+    [ "JustEngagedWith", "df/d14/a14460.html#aeb57cfc66104f6e2b2e36b6551207dd8", null ],
+    [ "PathEndReached", "df/d14/a14460.html#a689e8f91361de45e6f885fea0dec900a", null ],
+    [ "Reset", "df/d14/a14460.html#a7959106123e60e3584b32b50a272746c", null ],
+    [ "batRidersCount", "df/d14/a14460.html#a3d81395ec4518d4e2ca7f273fc658395", null ]
 ];

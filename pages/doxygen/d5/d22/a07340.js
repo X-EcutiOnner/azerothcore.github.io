@@ -1,6 +1,7 @@
 var a07340 =
 [
-    [ "ArenaTeamFilterByTypes", "d5/d22/a07340.html#ac28ee86767c48219dbe141620c87e129", null ],
-    [ "Filter", "d5/d22/a07340.html#a7c04437788359b40db1c0d4492d51497", null ],
-    [ "_validTypes", "d5/d22/a07340.html#aa3b5ce8932b00b092813af239d83b7d1", null ]
+    [ "AuctionSorter", "d5/d22/a07340.html#a233a8eff7fbd76ecf5bd6e4469c6ba0b", null ],
+    [ "operator()", "d5/d22/a07340.html#a7e8ef0ab50f9bfd1f84bf88647b26ea7", null ],
+    [ "_loc_idx", "d5/d22/a07340.html#a11708aa660757db95c88d9dc7e9b9521", null ],
+    [ "_sort", "d5/d22/a07340.html#a9c777b91d8b80940daee0b32c4f11c37", null ]
 ];

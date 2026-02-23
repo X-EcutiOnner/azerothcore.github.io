@@ -1,6 +1,6 @@
 var a18848 =
 [
-    [ "npc_highlord_tirion_fordringAI", "d4/dab/a18852.html", "d4/dab/a18852" ],
-    [ "npc_highlord_tirion_fordring_lh", "db/d27/a18848.html#a96102a488330c54a3e3654c767e8e1a5", null ],
-    [ "GetAI", "db/d27/a18848.html#aea42394c04c1763cffe10eb5eba09854", null ]
+    [ "npc_lk_wicked_spiritAI", "d4/dab/a18852.html", "d4/dab/a18852" ],
+    [ "npc_lk_wicked_spirit", "db/d27/a18848.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
+    [ "GetAI", "db/d27/a18848.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
 ];

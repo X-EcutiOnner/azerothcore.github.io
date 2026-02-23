@@ -1,7 +1,6 @@
 var a16648 =
 [
-    [ "HandleAfterHit", "dd/d91/a16648.html#a6fc446385881ddb4c94de73199649816", null ],
-    [ "PrepareSpellScript", "dd/d91/a16648.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
-    [ "Register", "dd/d91/a16648.html#aaae368b2f647aa6a56827550e50dafe1", null ],
-    [ "Validate", "dd/d91/a16648.html#ad4c84071b538b657fa1302982f8799b4", null ]
+    [ "boss_paletressAI", "d4/d21/a16652.html", "d4/d21/a16652" ],
+    [ "boss_paletress", "dd/d91/a16648.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
+    [ "GetAI", "dd/d91/a16648.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
 ];

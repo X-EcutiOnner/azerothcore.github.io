@@ -1,10 +1,18 @@
 var a05080 =
 [
-    [ "AreaInfo", "de/d0b/a05080.html#a1f45e5e030aaf5b16fb6c58097fa8b14", null ],
-    [ "adtId", "de/d0b/a05080.html#a95c1c986b14dfeba867fa55e77553499", null ],
-    [ "flags", "de/d0b/a05080.html#a780bdbb606fe694941d2105e14a29d70", null ],
-    [ "ground_Z", "de/d0b/a05080.html#aca4fada3b2062f74cf66cd34a63c0c86", null ],
-    [ "groupId", "de/d0b/a05080.html#a76ac6ccec6ff67f16689a6735e644e07", null ],
-    [ "result", "de/d0b/a05080.html#ab9e9a7658d5fb76be208835f786036b0", null ],
-    [ "rootId", "de/d0b/a05080.html#a6f60501d22be8c1d374a46e598d0f2e3", null ]
+    [ "BuildStats", "de/d0b/a05080.html#a9a2e28e15f755a8a0b5751d62664734f", null ],
+    [ "printStats", "de/d0b/a05080.html#a77e7b7ff44c0f16fc2b5d4370c18751b", null ],
+    [ "updateBVH2", "de/d0b/a05080.html#a9f30e85b3eaa67dc38a28e3472c56de3", null ],
+    [ "updateInner", "de/d0b/a05080.html#a1a3087af9d859d25cd9d475ad8987ca3", null ],
+    [ "updateLeaf", "de/d0b/a05080.html#ae8cf4ba9eaa7dc424914483ab3fafeba", null ],
+    [ "maxDepth", "de/d0b/a05080.html#a855eb250661d80a9313b926556e12168", null ],
+    [ "maxObjects", "de/d0b/a05080.html#acd34211244a97c08193421818f326ff9", null ],
+    [ "minDepth", "de/d0b/a05080.html#a90121f1721624ae2be8b3e6860d02f23", null ],
+    [ "minObjects", "de/d0b/a05080.html#a0d3d26a62ae4aeb18fdff7d07a4b7873", null ],
+    [ "numBVH2", "de/d0b/a05080.html#a37d64390b3f004f36588c1467a446cd0", null ],
+    [ "numLeaves", "de/d0b/a05080.html#a6546dd9cc0de2cba9159f6ab2477b81f", null ],
+    [ "numLeavesN", "de/d0b/a05080.html#a208e3c10fbd61fa6d4cc6736140ddfb1", null ],
+    [ "numNodes", "de/d0b/a05080.html#afbedc638e0117b7ca5c5f1e447846717", null ],
+    [ "sumDepth", "de/d0b/a05080.html#a11cf172a3108b68efc5974b614187550", null ],
+    [ "sumObjects", "de/d0b/a05080.html#a84aa8066e8e19902aecec45607d7a93d", null ]
 ];

@@ -1,5 +1,6 @@
 var a15384 =
 [
-    [ "NotInStomachSelector", "d1/d75/a15384.html#a766a75e73261ac8bb76c90e8befd21ad", null ],
-    [ "operator()", "d1/d75/a15384.html#a189c90e585ecef8ffbcbe9227c588946", null ]
+    [ "npc_idol_room_spawnerAI", "de/db0/a15388.html", "de/db0/a15388" ],
+    [ "npc_idol_room_spawner", "d1/d75/a15384.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
+    [ "GetAI", "d1/d75/a15384.html#a3017caa645e98a7647ec42a43c025624", null ]
 ];

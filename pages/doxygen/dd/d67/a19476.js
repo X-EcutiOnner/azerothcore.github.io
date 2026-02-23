@@ -1,7 +1,6 @@
 var a19476 =
 [
-    [ "npc_naxxramas_trigger", "dd/d67/a19476.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
-    [ "Reset", "dd/d67/a19476.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
-    [ "UpdateAI", "dd/d67/a19476.html#acd051dd7790aa37cd2375479433509cb", null ],
-    [ "_events", "dd/d67/a19476.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
+    [ "FilterTargets", "dd/d67/a19476.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
+    [ "PrepareSpellScript", "dd/d67/a19476.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
+    [ "Register", "dd/d67/a19476.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
 ];

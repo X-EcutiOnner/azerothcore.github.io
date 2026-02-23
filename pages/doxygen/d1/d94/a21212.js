@@ -1,8 +1,7 @@
 var a21212 =
 [
-    [ "npc_ulduar_keeperAI", "d7/d65/a21216.html", "d7/d65/a21216" ],
-    [ "npc_ulduar_keeper", "d1/d94/a21212.html#a252b781061a2e21dc961ea94f7120d59", null ],
-    [ "GetAI", "d1/d94/a21212.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
-    [ "OnGossipHello", "d1/d94/a21212.html#a4db12efd22c7d2a5f18144fd16543230", null ],
-    [ "OnGossipSelect", "d1/d94/a21212.html#acf8681577117107d16d45705e4b8463f", null ]
+    [ "PrepareAuraScript", "d1/d94/a21212.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
+    [ "Register", "d1/d94/a21212.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
+    [ "TriggerFists", "d1/d94/a21212.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
+    [ "Validate", "d1/d94/a21212.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
 ];

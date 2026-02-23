@@ -1,8 +1,6 @@
 var a16716 =
 [
-    [ "npc_toc_hunterAI", "db/dcc/a16716.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
-    [ "JustSummoned", "db/dcc/a16716.html#aa270248ad9e0c319234ff0741270b465", null ],
-    [ "myCanCast", "db/dcc/a16716.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
-    [ "UpdateAI", "db/dcc/a16716.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
-    [ "events", "db/dcc/a16716.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
+    [ "npc_toc5_player_vehicleAI", "d5/d33/a16720.html", "d5/d33/a16720" ],
+    [ "npc_toc5_player_vehicle", "db/dcc/a16716.html#a8786627999d3d1681d9de58cd8c46744", null ],
+    [ "GetAI", "db/dcc/a16716.html#af89c559eff828130df821c0c30c61f7a", null ]
 ];

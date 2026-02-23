@@ -1,4 +1,4 @@
 var a01313 =
 [
-    [ "GroupReference", "d7/ddf/a09645.html", "d7/ddf/a09645" ]
+    [ "ScriptRegistry< GroupScript >", "de/d90/a01313.html#a6ad2435b6116a997a5bacd47b955d688", null ]
 ];

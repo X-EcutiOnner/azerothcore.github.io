@@ -1,8 +1,9 @@
 var a05484 =
 [
-    [ "~Runnable", "db/d15/a05484.html#add1dc9a377ee89c32cc40c42907e5bd8", null ],
-    [ "decReference", "db/d15/a05484.html#a69bf63c7f684de6e278de0468ed8fa06", null ],
-    [ "incReference", "db/d15/a05484.html#a062323e141fa33ae094adbef16caf3d6", null ],
-    [ "run", "db/d15/a05484.html#ad92d9c0459fbcc59d2b0d8fe2ed620c9", null ],
-    [ "m_refs", "db/d15/a05484.html#ae047c0949843835f0b240484df01b7f8", null ]
+    [ "Count", "db/d15/a05484.html#a05f606f459c905632d1452727bc93a0d", null ],
+    [ "GetElements", "db/d15/a05484.html#a260f2bd14ae022a5810539ba87cec51e", null ],
+    [ "GetElements", "db/d15/a05484.html#ae04b24e63268c7b60bea36beec148a8a", null ],
+    [ "Insert", "db/d15/a05484.html#a791a9c0d1c878323960e529e0c7b66c8", null ],
+    [ "Remove", "db/d15/a05484.html#abfb5e987b1c711d259896708887ca6d7", null ],
+    [ "i_elements", "db/d15/a05484.html#a095f3a1caf74ca4e9e12ecca538a0cc4", null ]
 ];

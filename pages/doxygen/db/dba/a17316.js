@@ -1,15 +1,12 @@
 var a17316 =
 [
-    [ "npc_pos_deathwhisper_necrolyteAI", "db/dba/a17316.html#ae03f3fef42fcbcecedaf38692d1e9131", null ],
-    [ "DamageTaken", "db/dba/a17316.html#aad000cc1310f22325a29131fad169cbc", null ],
-    [ "DoAction", "db/dba/a17316.html#a5d7a324073cfdbd01ae267964959f15b", null ],
-    [ "InitializeAI", "db/dba/a17316.html#ad84905d1385bce0e431c2baf1158a343", null ],
-    [ "JustEngagedWith", "db/dba/a17316.html#ae095fa3ceb484cc289a086be8c2f2552", null ],
-    [ "MoveInLineOfSight", "db/dba/a17316.html#a1d43b002628080d5faf2fd59347a7f79", null ],
-    [ "MovementInform", "db/dba/a17316.html#a849b06a045de5529706e83b03febe135", null ],
-    [ "Reset", "db/dba/a17316.html#a0e6b326b3c8102dd711c002537f2c339", null ],
-    [ "UpdateAI", "db/dba/a17316.html#ade1c91217b6c6e33bfca60a69a51bbc0", null ],
-    [ "events", "db/dba/a17316.html#a30d65bc3625ed22e11ed7e040451643c", null ],
-    [ "isInvincible", "db/dba/a17316.html#a0216b301112656fb75907ff1f0d50d0f", null ],
-    [ "pInstance", "db/dba/a17316.html#afb71e537115d36795c2568360b2d58ce", null ]
+    [ "npc_spectral_footmanAI", "db/dba/a17316.html#a746b1d15b70be293f61669ce4a945732", null ],
+    [ "AttackStart", "db/dba/a17316.html#ac6f9dadff44c805adfac855778b1c9d2", null ],
+    [ "DoAction", "db/dba/a17316.html#a466b878e60c1bf89603c261110d88b25", null ],
+    [ "EnterEvadeMode", "db/dba/a17316.html#a66c9cceae4c2ae5574369744486e3e57", null ],
+    [ "JustDied", "db/dba/a17316.html#afbab6772ff97ca9355ca5f4ac194ce0d", null ],
+    [ "JustEngagedWith", "db/dba/a17316.html#a3d3eff22cb453e2ea0164e7f45bb6e5b", null ],
+    [ "Reset", "db/dba/a17316.html#a3a8151da7ec1d63966ffc5e5b7e9e931", null ],
+    [ "UpdateAI", "db/dba/a17316.html#ad1da2bc8fdc3a3fce51b9a633fd56574", null ],
+    [ "events", "db/dba/a17316.html#aa5420d5e57447c7f89c0560ae07b3503", null ]
 ];

@@ -1,10 +1,8 @@
 var a08144 =
 [
-    [ "auras", "da/d5c/a08144.html#a20695ff7997e1ebd6fe898a8b41aeddb", null ],
-    [ "bytes1", "da/d5c/a08144.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9", null ],
-    [ "bytes2", "da/d5c/a08144.html#aedf06568867bbb5db5ca8017727dab9d", null ],
-    [ "emote", "da/d5c/a08144.html#a82f7be10807af7b25dd41c643be066fc", null ],
-    [ "mount", "da/d5c/a08144.html#a4d84276a45de1b62e507ac5c763dce3a", null ],
-    [ "path_id", "da/d5c/a08144.html#aa86bac734e0e652b6bb4ea273cf62571", null ],
-    [ "visibilityDistanceType", "da/d5c/a08144.html#ad3ae39b8c5be151e15ab6f1494943bc3", null ]
+    [ "LfgPlayerRewardData", "da/d5c/a08144.html#afe99288f8d7028a5a54317e73e3f2c01", null ],
+    [ "done", "da/d5c/a08144.html#a91ba12acf66d631af2de45513f20b702", null ],
+    [ "quest", "da/d5c/a08144.html#abd051091fec6835f63bafa98a045142b", null ],
+    [ "rdungeonEntry", "da/d5c/a08144.html#a87623ce14ef1d123d226e37e227a566d", null ],
+    [ "sdungeonEntry", "da/d5c/a08144.html#abe9c93ab7f3a421dd3c44414a0987277", null ]
 ];

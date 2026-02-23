@@ -1,9 +1,7 @@
 var a13964 =
 [
-    [ "npc_tyrion_spybotAI", "d7/dd0/a13964.html#aedad685279012266637d29069ead9063", null ],
-    [ "Reset", "d7/dd0/a13964.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
-    [ "UpdateAI", "d7/dd0/a13964.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
-    [ "WaypointReached", "d7/dd0/a13964.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
-    [ "uiPhase", "d7/dd0/a13964.html#af5dbb99fe18d96665efd04bd53294636", null ],
-    [ "uiTimer", "d7/dd0/a13964.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
+    [ "HandleScriptEffect", "d7/dd0/a13964.html#aa537704c2066df4f5b4c60a775026a83", null ],
+    [ "PrepareSpellScript", "d7/dd0/a13964.html#ac500902c22102ebfc6dcf6f78f0dd8c1", null ],
+    [ "Register", "d7/dd0/a13964.html#a1d9cfdc65bd5ae76376e709d0ac891c0", null ],
+    [ "Validate", "d7/dd0/a13964.html#a9ef5a491b5a06c31cdb0249dc086e32f", null ]
 ];

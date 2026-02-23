@@ -1,11 +1,11 @@
 var a13560 =
 [
-    [ "spell_eredar_twins_handle_touch_periodic", "d7/d28/a13560.html#aa41bba6ce2889eb2a58409b611f53e49", null ],
-    [ "OnPeriodic", "d7/d28/a13560.html#a8d863af82300eacc1456a08f8461d5a7", null ],
-    [ "PrepareAuraScript", "d7/d28/a13560.html#af04b38478379a10c5d94a7e4216ad9fa", null ],
-    [ "Register", "d7/d28/a13560.html#a4908c5c3e6afdf0305dfb4729cfba503", null ],
-    [ "Validate", "d7/d28/a13560.html#aebeee23df951737b99e7a4ab026cbb1b", null ],
-    [ "_aura", "d7/d28/a13560.html#a0b1df96674584554d53688e993c2a310", null ],
-    [ "_effectIndex", "d7/d28/a13560.html#aa873d0475c70db5c5ba9cea802dc3569", null ],
-    [ "_touchSpell", "d7/d28/a13560.html#ae60a5c2918105785805dc45b3942ee4a", null ]
+    [ "npc_scholomance_occultistAI", "d7/d28/a13560.html#af78103d07aef427130d26b4aed5e5ae3", null ],
+    [ "JustEngagedWith", "d7/d28/a13560.html#a03f0f6d015065c5afcf025dc44dc6aa8", null ],
+    [ "JustReachedHome", "d7/d28/a13560.html#ac4bb0aa4009191a36dd4cebb45fd2ad5", null ],
+    [ "SelectUnitCasting", "d7/d28/a13560.html#adde187b89a74a57aac823e4eb19bfeed", null ],
+    [ "UpdateAI", "d7/d28/a13560.html#ab02edf780adb553b2314045d8effa277", null ],
+    [ "events", "d7/d28/a13560.html#a1ee55a572462a1e832a5b89c8906bd87", null ],
+    [ "instance", "d7/d28/a13560.html#a195fe4d681580c17086a5390fd4f82ba", null ],
+    [ "originalDisplayId", "d7/d28/a13560.html#a4dcc895fef36cd1e9ca8cf38bdc2f6c4", null ]
 ];

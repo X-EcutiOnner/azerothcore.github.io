@@ -1,6 +1,10 @@
 var a11796 =
 [
-    [ "rainChance", "df/da2/a04828.html#ga8c3d9f1d251a9b167c9adc99101e5612", null ],
-    [ "snowChance", "df/da2/a04828.html#ga474650c5237c4a7428e858775fea7b86", null ],
-    [ "stormChance", "df/da2/a04828.html#gaa50e5243877e8283f30ee9376b2d519e", null ]
+    [ "CustomChatTextBuilder", "df/d78/a11796.html#a47b3e24f7100d13180ad1946647999ae", null ],
+    [ "operator()", "df/d78/a11796.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
+    [ "_language", "df/d78/a11796.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
+    [ "_msgType", "df/d78/a11796.html#a0db1501da33fde77ab3c50943666b1fd", null ],
+    [ "_source", "df/d78/a11796.html#ad75f22d7eb6a62d59730918f4336768c", null ],
+    [ "_target", "df/d78/a11796.html#aa45be322836be588d8df2b253a22ee5c", null ],
+    [ "_text", "df/d78/a11796.html#ab59c9b938b564329483e38466169a92c", null ]
 ];

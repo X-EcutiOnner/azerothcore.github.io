@@ -1,6 +1,7 @@
 var a27240 =
 [
-    [ "HandleOnHit", "dc/dfb/a27240.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
-    [ "PrepareSpellScript", "dc/dfb/a27240.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
-    [ "Register", "dc/dfb/a27240.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
+    [ "HandleEffectPeriodic", "dc/dfb/a27240.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
+    [ "PrepareAuraScript", "dc/dfb/a27240.html#ae151331af09510cc91b63b65a30bdcbf", null ],
+    [ "Register", "dc/dfb/a27240.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
+    [ "Validate", "dc/dfb/a27240.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
 ];

@@ -1,10 +1,12 @@
 var a21740 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "d6/d04/a21740.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
-    [ "GotStinged", "d6/d04/a21740.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
-    [ "JustEngagedWith", "d6/d04/a21740.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
-    [ "Reset", "d6/d04/a21740.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
-    [ "SpellHit", "d6/d04/a21740.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
-    [ "UpdateAI", "d6/d04/a21740.html#a21def23073eeec051c1c97a813e0ea84", null ],
-    [ "rebuff", "d6/d04/a21740.html#ac83c25091fdd3c7876a88927b758261f", null ]
+    [ "npc_q24545_wretched_ghoulAI", "d6/d04/a21740.html#a0e4d9b3acd1de2cd44d0a6a22007e026", null ],
+    [ "Activate", "d6/d04/a21740.html#a52f64cef6159a3bfe29a6ac551b5bbe2", null ],
+    [ "AttackStart", "d6/d04/a21740.html#a9453e2fe00c656ded0bad4d9036dbd2a", null ],
+    [ "CanAIAttack", "d6/d04/a21740.html#a9cf57308ea588cc2febb0bb2666c2afe", null ],
+    [ "Deactivate", "d6/d04/a21740.html#af7dd65b8c0a1b5b55752d7f6b85f21cc", null ],
+    [ "DoAction", "d6/d04/a21740.html#a77aad4a0446fac68a5d1785acbe825eb", null ],
+    [ "JustDied", "d6/d04/a21740.html#a2fc9b40d72eea88b2245e6b01b17384a", null ],
+    [ "JustRespawned", "d6/d04/a21740.html#ab30068f7082176c279e0667f72d750a3", null ],
+    [ "Reset", "d6/d04/a21740.html#ad94a4789b5ba019d021682f15df13589", null ]
 ];

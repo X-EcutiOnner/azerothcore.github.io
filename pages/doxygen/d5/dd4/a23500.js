@@ -1,7 +1,8 @@
 var a23500 =
 [
-    [ "PeriodicTick", "d5/dd4/a23500.html#a789d2d4d2bc75e412abe80a33102fa06", null ],
-    [ "PrepareAuraScript", "d5/dd4/a23500.html#a49db8ade3bc3a3da9e043e8b9ad1759d", null ],
-    [ "Register", "d5/dd4/a23500.html#aec2d7f564107f5b294a5d5c3dd3f9b25", null ],
-    [ "Validate", "d5/dd4/a23500.html#a7c2309d3192b2a18d8035c8067849d6d", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "d5/dd4/a23500.html#aebc047b45cb4560a38df89db75f8efab", null ],
+    [ "Initialize", "d5/dd4/a23500.html#a115a36ec26e15e23be4d78250d86d814", null ],
+    [ "OnGameObjectCreate", "d5/dd4/a23500.html#a0639fcd867616d1f04aacde44020bb30", null ],
+    [ "SetBossState", "d5/dd4/a23500.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
+    [ "felIronChestGUID", "d5/dd4/a23500.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
 ];

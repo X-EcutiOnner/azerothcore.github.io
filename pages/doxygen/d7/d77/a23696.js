@@ -1,11 +1,10 @@
 var a23696 =
 [
-    [ "boss_krosh_firehand", "d7/d77/a23696.html#a1ef3618844f086de7875f26e7e6190f9", null ],
-    [ "AttackStart", "d7/d77/a23696.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
-    [ "JustDied", "d7/d77/a23696.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
-    [ "JustEngagedWith", "d7/d77/a23696.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
-    [ "Reset", "d7/d77/a23696.html#a989c4b762a7cdb228b245e91881d97a2", null ],
-    [ "UpdateAI", "d7/d77/a23696.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
-    [ "_scheduler", "d7/d77/a23696.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
-    [ "instance", "d7/d77/a23696.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
+    [ "CheckProc", "d7/d77/a23696.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
+    [ "Load", "d7/d77/a23696.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
+    [ "PrepareAuraScript", "d7/d77/a23696.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
+    [ "Register", "d7/d77/a23696.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
+    [ "_lastForm", "d7/d77/a23696.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
+    [ "_lastSchool", "d7/d77/a23696.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
+    [ "_swapTime", "d7/d77/a23696.html#af832dc200e928df3849ab7d7f93cb412", null ]
 ];

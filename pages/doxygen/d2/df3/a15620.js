@@ -1,8 +1,7 @@
 var a15620 =
 [
-    [ "npc_death_ravagerAI", "d2/df3/a15620.html#ad18242b078db0883029537562a41cc20", null ],
-    [ "Reset", "d2/df3/a15620.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
-    [ "UpdateAI", "d2/df3/a15620.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
-    [ "EnragingBiteTimer", "d2/df3/a15620.html#af33898ebd9bea6b1a58b673373de3c64", null ],
-    [ "RendTimer", "d2/df3/a15620.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
+    [ "npc_sartura_royal_guard", "d2/df3/a15620.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
+    [ "JustEngagedWith", "d2/df3/a15620.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
+    [ "Reset", "d2/df3/a15620.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
+    [ "UpdateAI", "d2/df3/a15620.html#a2ed50f65847133c897facecbaa4711d8", null ]
 ];

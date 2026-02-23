@@ -1,8 +1,10 @@
 var a09492 =
 [
-    [ "NearestHostileUnitInAttackDistanceCheck", "d2/da7/a09492.html#a0b1d14f1347a3749a91ef6e888ccb23e", null ],
-    [ "NearestHostileUnitInAttackDistanceCheck", "d2/da7/a09492.html#a5645c9808db082b0301ec8b2ea93ce7f", null ],
-    [ "operator()", "d2/da7/a09492.html#adc28281742cd1f6a49152481b48f944e", null ],
-    [ "m_range", "d2/da7/a09492.html#ab79296a88ed07257edbe3449c2515b40", null ],
-    [ "me", "d2/da7/a09492.html#a298d2489b9bf30aa510407afca79a374", null ]
+    [ "PlayerListSearcherWithSharedVision", "d2/da7/a09492.html#aace01efe09c3190b81651d237e2e9a8a", null ],
+    [ "Visit", "d2/da7/a09492.html#a5348d9887ebfd9c0a0016b31d3db8ffb", null ],
+    [ "Visit", "d2/da7/a09492.html#a34c24d8e219b8dbbdf27c1d36489f3fa", null ],
+    [ "Visit", "d2/da7/a09492.html#ac45ae498dc7f74426b66344d9367046a", null ],
+    [ "i_check", "d2/da7/a09492.html#a7261e79c2980cfb61686c01254d70c8b", null ],
+    [ "i_objects", "d2/da7/a09492.html#ac8e5495912121d8d3baac9d02e947815", null ],
+    [ "i_phaseMask", "d2/da7/a09492.html#a9bd8d6c842ac2f4cf1f10441216f906c", null ]
 ];

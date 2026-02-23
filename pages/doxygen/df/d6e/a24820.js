@@ -1,6 +1,8 @@
 var a24820 =
 [
-    [ "CheckTargets", "df/d6e/a24820.html#abb6ffb41731b05b868f82498b373d8b9", null ],
-    [ "PrepareSpellScript", "df/d6e/a24820.html#a4ce2790448bd39c19daf8caae7ef5a9d", null ],
-    [ "Register", "df/d6e/a24820.html#aeefc7910c2960dbf3a49da6ed3c15523", null ]
+    [ "CheckProc", "df/d6e/a24820.html#ab960abbaa9d2728ff1c471e491844e2f", null ],
+    [ "HandleProc", "df/d6e/a24820.html#a23746c343ca01160b73822e3457514d5", null ],
+    [ "PrepareAuraScript", "df/d6e/a24820.html#a2ddb4cb53c7aabb8e1e09eb1036fafe0", null ],
+    [ "Register", "df/d6e/a24820.html#a78dbfa8833c8f8958e8e9a38cc9812a7", null ],
+    [ "Validate", "df/d6e/a24820.html#a715de16d0510d8b2cbd9e281c3e3274a", null ]
 ];

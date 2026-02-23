@@ -1,9 +1,9 @@
 var a23936 =
 [
-    [ "boss_high_botanist_freywinn", "d3/d01/a23936.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
-    [ "JustDied", "d3/d01/a23936.html#a7b370482ea195d0305cba339ce0cbab3", null ],
-    [ "JustEngagedWith", "d3/d01/a23936.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
-    [ "KilledUnit", "d3/d01/a23936.html#a80a997e0d12c175da0a46d7362890b9c", null ],
-    [ "ResumeEncounter", "d3/d01/a23936.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
-    [ "SummonedCreatureDies", "d3/d01/a23936.html#a7f1a02d4b944191471f59ba728b6372e", null ]
+    [ "npc_aeranasAI", "d3/d01/a23936.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "Reset", "d3/d01/a23936.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "d3/d01/a23936.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "envelopingWinds_Timer", "d3/d01/a23936.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "d3/d01/a23936.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "d3/d01/a23936.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

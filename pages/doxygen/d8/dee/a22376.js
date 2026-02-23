@@ -1,6 +1,6 @@
 var a22376 =
 [
-    [ "npc_avatar_of_freya", "d8/dee/a22376.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
-    [ "OnGossipHello", "d8/dee/a22376.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
-    [ "OnGossipSelect", "d8/dee/a22376.html#aba1b13e922873e939b2510b4bc77f49d", null ]
+    [ "npc_crusade_recruitAI", "d4/d9b/a22380.html", "d4/d9b/a22380" ],
+    [ "npc_crusade_recruit", "d8/dee/a22376.html#a6e130f153c506255ef5ece1baf006028", null ],
+    [ "GetAI", "d8/dee/a22376.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
 ];

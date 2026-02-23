@@ -1,4 +1,9 @@
 var a00953 =
 [
-    [ "ScriptRegistry< UnitScript >", "d5/da3/a00953.html#aced42ee6099fa72848b9b4aef527ebc3", null ]
+    [ "PetSpell", "d3/d01/a08696.html", "d3/d01/a08696" ],
+    [ "Pet", "d7/d6b/a08700.html", "d7/d6b/a08700" ],
+    [ "AutoSpellList", "d5/da3/a00953.html#a85baf40bd776b1c20b66ba7ad78e0356", null ],
+    [ "PetSpellMap", "d5/da3/a00953.html#a5b33058abef8c309621a9029df331c0e", null ],
+    [ "HAPPINESS_LEVEL_SIZE", "d5/da3/a00953.html#a892e58d225a828ccac38c7d241365e30", null ],
+    [ "PET_LOSE_HAPPINES_INTERVAL", "d5/da3/a00953.html#aa23de8f28ae915637ac3f4f6429b59fb", null ]
 ];

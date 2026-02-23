@@ -1,8 +1,7 @@
 var a16972 =
 [
-    [ "HandleEffectApply", "d7/d15/a16972.html#a92b98d9b9be98c330b6efbe34dae235b", null ],
-    [ "HandleEffectRemove", "d7/d15/a16972.html#a04504220319ec562b1b6691f471c1b8d", null ],
-    [ "PrepareAuraScript", "d7/d15/a16972.html#a10fd29809373bcfaf38fd587fcdd1dee", null ],
-    [ "Register", "d7/d15/a16972.html#a9160c940913e4829bd0a6fe269c3b5d3", null ],
-    [ "Validate", "d7/d15/a16972.html#a7f7750933e122e8c672b6b93f4801cd7", null ]
+    [ "HandleEffectPeriodic", "d7/d15/a16972.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
+    [ "PrepareAuraScript", "d7/d15/a16972.html#a66dcb98f38ed6b040928543015f59c9b", null ],
+    [ "Register", "d7/d15/a16972.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
+    [ "Validate", "d7/d15/a16972.html#a1131f0014f298b87483412d960bc0221", null ]
 ];

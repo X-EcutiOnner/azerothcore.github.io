@@ -1,7 +1,7 @@
 var a14696 =
 [
-    [ "go_loosely_turned_soilAI", "df/d50/a14700.html", "df/d50/a14700" ],
-    [ "go_loosely_turned_soil", "db/d15/a14696.html#a3b4d51e2b3a604e030962127269236f1", null ],
-    [ "GetAI", "db/d15/a14696.html#acead5810a848f8837fa65af1f2ac00bd", null ],
-    [ "OnQuestReward", "db/d15/a14696.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
+    [ "HandleScriptEffect", "db/d15/a14696.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
+    [ "PrepareSpellScript", "db/d15/a14696.html#a3d906994c11e52e89c842189be73ddfd", null ],
+    [ "Register", "db/d15/a14696.html#a4cdab36e2265c696207a39e16549ab13", null ],
+    [ "Validate", "db/d15/a14696.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
 ];

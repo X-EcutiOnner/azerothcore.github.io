@@ -1,6 +1,9 @@
 var a14868 =
 [
-    [ "HandleScriptEffect", "d9/dfc/a14868.html#a2acaaf3716237f147429cb07779ae49e", null ],
-    [ "PrepareSpellScript", "d9/dfc/a14868.html#a55df717ede47b17a32ae33ecd64617cd", null ],
-    [ "Register", "d9/dfc/a14868.html#ac515af62f7e42cafecc4afdf7ba15ddf", null ]
+    [ "npc_love_in_air_snivel", "d9/dfc/a14868.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
+    [ "AllowAction", "d9/dfc/a14868.html#af1097317f62bbb8f8456124001c73576", null ],
+    [ "MoveInLineOfSight", "d9/dfc/a14868.html#ae6537707109b95fad20e521d07867cdd", null ],
+    [ "Reset", "d9/dfc/a14868.html#a2385ea44d9f44735b193add4a0d0485b", null ],
+    [ "UpdateAI", "d9/dfc/a14868.html#a9e712994663e3442359d2f574ebc812c", null ],
+    [ "delay", "d9/dfc/a14868.html#a548db6245ef875ec47279246e437934c", null ]
 ];

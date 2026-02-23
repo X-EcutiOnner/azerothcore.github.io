@@ -1,8 +1,6 @@
 var a13664 =
 [
-    [ "FilterTargets", "dc/db7/a13664.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
-    [ "HandleScriptEffect", "dc/db7/a13664.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
-    [ "PrepareSpellScript", "dc/db7/a13664.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
-    [ "Register", "dc/db7/a13664.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
-    [ "Validate", "dc/db7/a13664.html#a5493864b068de82015bc157f3d0899b3", null ]
+    [ "HandleSendEvent", "dc/db7/a13664.html#ad245a7dcf129774b8ef3e3653b3e3026", null ],
+    [ "PrepareSpellScript", "dc/db7/a13664.html#ad9dfe5b2702540eb119ec86cfbd0ff30", null ],
+    [ "Register", "dc/db7/a13664.html#a0b5ac8cfc4eb4adadb653a81a59a8287", null ]
 ];

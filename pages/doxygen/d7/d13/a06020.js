@@ -1,9 +1,17 @@
 var a06020 =
 [
-    [ "itemId", "d7/d13/a06020.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
-    [ "mailTemplate", "d7/d13/a06020.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
-    [ "sender", "d7/d13/a06020.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
-    [ "subject", "d7/d13/a06020.html#a45644f308278529f822080f8274180d8", null ],
-    [ "text", "d7/d13/a06020.html#a4d57dcb4d130552f5bf756308d79307c", null ],
-    [ "titleId", "d7/d13/a06020.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
+    [ "QueryCallbackData", "d7/d13/a06020.html#a43aa5b63c21480a9a02e5b1705f5e46a", null ],
+    [ "QueryCallbackData", "d7/d13/a06020.html#af3d8b55a1a392e1f471bcf7ce16d8f45", null ],
+    [ "QueryCallbackData", "d7/d13/a06020.html#a81f06a2940c72077d0f8bbe0d6292c5e", null ],
+    [ "~QueryCallbackData", "d7/d13/a06020.html#a7a748ec0f04555caf696be1792701134", null ],
+    [ "QueryCallbackData", "d7/d13/a06020.html#aea307606758c54a99e020421acaa5697", null ],
+    [ "operator=", "d7/d13/a06020.html#a135161ac21cd4f11f2178acc8316afea", null ],
+    [ "operator=", "d7/d13/a06020.html#a5b4baade8dd78ab3dc00e1003f679fb3", null ],
+    [ "ConstructActiveMember", "d7/d13/a06020.html#a63276ee687270e668e7c51876ced5fb1", null ],
+    [ "DestroyActiveMember", "d7/d13/a06020.html#aac0ba6a0017441eb25c4b294fde99186", null ],
+    [ "MoveFrom", "d7/d13/a06020.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa", null ],
+    [ "QueryCallback", "d7/d13/a06020.html#a3bf0675bb0e337d06f1e7ef31d7622fe", null ],
+    [ "_isPrepared", "d7/d13/a06020.html#ad4e5dcd8f5648dfa36116b9944813ec6", null ],
+    [ "_prepared", "d7/d13/a06020.html#ab87a39965f1ca9d48d6e5a88fde51976", null ],
+    [ "_string", "d7/d13/a06020.html#a384db60c65e7823fdbc0ff430ac8dfe1", null ]
 ];

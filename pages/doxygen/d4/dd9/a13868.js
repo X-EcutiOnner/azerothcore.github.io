@@ -1,7 +1,9 @@
 var a13868 =
 [
-    [ "npc_ranger_lilatha", "d4/dd9/a13868.html#abd13a89b41a289edefb9bc21588f8d29", null ],
-    [ "Reset", "d4/dd9/a13868.html#a3e804e483b51961193ee1079caba40be", null ],
-    [ "sQuestAccept", "d4/dd9/a13868.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
-    [ "WaypointReached", "d4/dd9/a13868.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
+    [ "npc_dark_fiend", "d4/dd9/a13868.html#a8c4ebf7ba2f991df7053d40108330609", null ],
+    [ "DamageTaken", "d4/dd9/a13868.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
+    [ "Reset", "d4/dd9/a13868.html#a5622d14f84ad8e47da773852f1778d56", null ],
+    [ "UpdateAI", "d4/dd9/a13868.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
+    [ "_lastVictimGUID", "d4/dd9/a13868.html#abcccb35701f21d417e3c13709cc24281", null ],
+    [ "_spellCast", "d4/dd9/a13868.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
 ];

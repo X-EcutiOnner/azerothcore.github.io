@@ -1,10 +1,11 @@
 var a03893 =
 [
-    [ "spell_q12779_an_end_to_all_things", "d4/d6d/a13369.html", "d4/d6d/a13369" ],
-    [ "spell_q12779_an_end_to_all_things_devour_aura", "d5/de6/a13373.html", "d5/de6/a13373" ],
-    [ "DevourHumanoid", "dc/d61/a03893.html#a4a9cc76e41bd77e034f57ac5663bfbe8", [
-      [ "NPC_HEARTHGLEN_CRUSADER", "dc/d61/a03893.html#a4a9cc76e41bd77e034f57ac5663bfbe8a5bcd1929ca343fde7380dbf2f02650d7", null ],
-      [ "NPC_TIRISFAL_CRUSADER", "dc/d61/a03893.html#a4a9cc76e41bd77e034f57ac5663bfbe8a1808abd83c367810e3ca5ac70b35dcd8", null ]
-    ] ],
-    [ "AddSC_the_scarlet_enclave_c3", "dc/d61/a03893.html#add963c2bc2b515348b9b7c636d176927", null ]
+    [ "AddOutdoorPvPScripts", "dc/d61/a03893.html#a489bdfb4854732e561b6b13b70f67a0f", null ],
+    [ "AddSC_outdoorpvp_ep", "dc/d61/a03893.html#ac97adfc1efbcf82840cffa915a55fecb", null ],
+    [ "AddSC_outdoorpvp_gh", "dc/d61/a03893.html#a04eaa29ec2e34f71e4f7addacc0405c0", null ],
+    [ "AddSC_outdoorpvp_hp", "dc/d61/a03893.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
+    [ "AddSC_outdoorpvp_na", "dc/d61/a03893.html#a03015585e7619177355fefd05f85e1c7", null ],
+    [ "AddSC_outdoorpvp_si", "dc/d61/a03893.html#a6dfd2849f525333510ae4febbbc3ae1f", null ],
+    [ "AddSC_outdoorpvp_tf", "dc/d61/a03893.html#a6df553c8dd6e9b81e83110e7beab3646", null ],
+    [ "AddSC_outdoorpvp_zm", "dc/d61/a03893.html#a3077d08865fa83f84cf956c392a9091c", null ]
 ];

@@ -1,10 +1,8 @@
 var a07380 =
 [
-    [ "ArenaLogEntryData", "d8/dcf/a07380.html#a8f3ec057dd930d2f2acd7961e0cf4e5e", null ],
-    [ "Fill", "d8/dcf/a07380.html#aa3cca4521431bf152550611549bf4bbe", null ],
-    [ "Acc", "d8/dcf/a07380.html#aa8983930063298c86f4635d2ae3078fe", null ],
-    [ "ArenaTeamId", "d8/dcf/a07380.html#ac764620c3c8a986286fd74062dac4645", null ],
-    [ "Guid", "d8/dcf/a07380.html#a03b32cd44c655dcc9104aead3b76454e", null ],
-    [ "IP", "d8/dcf/a07380.html#ab9f80eacfe24025a2d4947085d3f6dd7", null ],
-    [ "Name", "d8/dcf/a07380.html#a5c18d554adb9e38ab10baf36c9b3fdd7", null ]
+    [ "WintergraspCapturePoint", "d8/dcf/a07380.html#a36090feb3626e204e0029ea45f1d8136", null ],
+    [ "ChangeTeam", "d8/dcf/a07380.html#a66564dd3237538b256ebeb76d236001f", null ],
+    [ "GetTeam", "d8/dcf/a07380.html#a7ff4106591a5aac1ea8820016b8164bb", null ],
+    [ "LinkToWorkshop", "d8/dcf/a07380.html#a32d378eba7f0eea0f011b8ea8c7e6eee", null ],
+    [ "m_Workshop", "d8/dcf/a07380.html#a1e780ccd3759538fe4c9d7e3fc5447ed", null ]
 ];

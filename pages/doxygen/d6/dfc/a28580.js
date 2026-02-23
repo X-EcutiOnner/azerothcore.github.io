@@ -1,10 +1,6 @@
 var a28580 =
 [
-    [ "PvPDifficultyEntry", "d6/dfc/a28580.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
-    [ "GetBracketId", "d6/dfc/a28580.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
-    [ "bracketId", "d6/dfc/a28580.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
-    [ "difficulty", "d6/dfc/a28580.html#a33ac017d785a4586a78e715d97836720", null ],
-    [ "mapId", "d6/dfc/a28580.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
-    [ "maxLevel", "d6/dfc/a28580.html#a1385166568239f2118b65377df8b4b55", null ],
-    [ "minLevel", "d6/dfc/a28580.html#acd07e8d759af1b73ec7543f6e70df242", null ]
+    [ "npc_necropolis_proxy", "d6/dfc/a28580.html#a73f92ee73673172989d48064e5984db0", null ],
+    [ "SpellHit", "d6/dfc/a28580.html#a90d1ab55683a6409403e24291643cca5", null ],
+    [ "SpellHitTarget", "d6/dfc/a28580.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
 ];

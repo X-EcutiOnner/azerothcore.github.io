@@ -1,6 +1,6 @@
 var a12696 =
 [
-    [ "boss_golemaggAI", "d9/d2a/a12700.html", "d9/d2a/a12700" ],
-    [ "boss_golemagg", "d6/de5/a12696.html#a66720a143f8987dfa5d6e2acb7cd73cd", null ],
-    [ "GetAI", "d6/de5/a12696.html#a6899f30975e0984306feabe47bbc8317", null ]
+    [ "boss_firemawAI", "d6/de5/a12696.html#ab3f56c97119676b1a75662e52caecb75", null ],
+    [ "JustEngagedWith", "d6/de5/a12696.html#a04cb1d2fa18dba82b9c881b09406a076", null ],
+    [ "UpdateAI", "d6/de5/a12696.html#a6e35e47b23d713263ef00769324bbbed", null ]
 ];

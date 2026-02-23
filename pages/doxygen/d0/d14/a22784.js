@@ -1,12 +1,7 @@
 var a22784 =
 [
-    [ "boss_exarch_maladaar", "d0/d14/a22784.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
-    [ "JustDied", "d0/d14/a22784.html#ab1179a19af8948d430559db4074c41ed", null ],
-    [ "JustEngagedWith", "d0/d14/a22784.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
-    [ "JustSummoned", "d0/d14/a22784.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
-    [ "KilledUnit", "d0/d14/a22784.html#adf35cb8b039676500d4040baa08b0d48", null ],
-    [ "MoveInLineOfSight", "d0/d14/a22784.html#a14baacd30b9186c7492c981313421d5b", null ],
-    [ "Reset", "d0/d14/a22784.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
-    [ "UpdateAI", "d0/d14/a22784.html#a7646c4477135d3d3b8580432902babd4", null ],
-    [ "_talked", "d0/d14/a22784.html#a15c4f122529b9f52823ea407c43433c5", null ]
+    [ "PrepareAuraScript", "d0/d14/a22784.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
+    [ "Register", "d0/d14/a22784.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
+    [ "Update", "d0/d14/a22784.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
+    [ "Validate", "d0/d14/a22784.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
 ];

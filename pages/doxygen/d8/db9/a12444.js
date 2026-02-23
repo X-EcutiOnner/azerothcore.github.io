@@ -1,6 +1,11 @@
 var a12444 =
 [
-    [ "instance_blackrock_spireMapScript", "db/de4/a12448.html", "db/de4/a12448" ],
-    [ "instance_blackrock_spire", "d8/db9/a12444.html#a3238be88efcdc9669e7e6a1d725649b3", null ],
-    [ "GetInstanceScript", "d8/db9/a12444.html#a5ee2cc38a36ce2cd8c1196ce9f687e2a", null ]
+    [ "boss_doomrelAI", "d8/db9/a12444.html#a231cc3989d1c575af941a5462ad94cbd", null ],
+    [ "EnterEvadeMode", "d8/db9/a12444.html#ae633f4cc1747f291a3911ca50ee39370", null ],
+    [ "JustEngagedWith", "d8/db9/a12444.html#a622f673548b0a6f1db2a59ef69f31ac7", null ],
+    [ "Reset", "d8/db9/a12444.html#aec30616ad3c84ee4b6dd92f6ac8b4fbc", null ],
+    [ "UpdateAI", "d8/db9/a12444.html#a3d851f7bd5a78858fd228cac78c05f27", null ],
+    [ "_events", "d8/db9/a12444.html#aaf800dd1d20dc8288cad5aa21cd602b0", null ],
+    [ "instance", "d8/db9/a12444.html#aa0fc44bb955e83c2ef7b7373751fc2c2", null ],
+    [ "Voidwalkers", "d8/db9/a12444.html#af29d871a370a534f508f225d49c3dc9f", null ]
 ];

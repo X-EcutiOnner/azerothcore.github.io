@@ -1,10 +1,11 @@
 var a06036 =
 [
-    [ "Storage", "d6/d18/a06036.html#a49a70316b169e50ad64ff51d6a568bbc", null ],
-    [ "AchievementCriteriaDataSet", "d6/d18/a06036.html#a5055f8710c48379035e132e8f20577dc", null ],
-    [ "Add", "d6/d18/a06036.html#a297f02665679b19961998fb529d064e4", null ],
-    [ "Meets", "d6/d18/a06036.html#a8edbe32d695308633fa7abfc91d2a1a1", null ],
-    [ "SetCriteriaId", "d6/d18/a06036.html#addedfd39d9948923a2704b51eaacecbc", null ],
-    [ "_criteria_id", "d6/d18/a06036.html#a0abc37729d2f3c400bb7cfde212f51c0", null ],
-    [ "_storage", "d6/d18/a06036.html#a6abf189d95226b370cfcfe7b628ed7c0", null ]
+    [ "SQLQueryHolderBase", "d6/d18/a06036.html#a05946ea4a26798e5567f632cf9f66eff", null ],
+    [ "~SQLQueryHolderBase", "d6/d18/a06036.html#aa9e2407821d0c40a728337f174571fc5", null ],
+    [ "GetPreparedResult", "d6/d18/a06036.html#a402f961642eaa239ff8726ad66e78640", null ],
+    [ "SetPreparedQueryImpl", "d6/d18/a06036.html#a6657bb34fab696a26af9751ded41f1d7", null ],
+    [ "SetPreparedResult", "d6/d18/a06036.html#a34bcdec6591ce40a58667197f240fbe0", null ],
+    [ "SetSize", "d6/d18/a06036.html#a9e62f0171bd39a13348d097ee99cb17c", null ],
+    [ "SQLQueryHolderTask", "d6/d18/a06036.html#a4d6be4ca13ec7a0d213da9d1e6ec922b", null ],
+    [ "m_queries", "d6/d18/a06036.html#a432a52e6f9dc7f51cbc8f2877d0894e1", null ]
 ];

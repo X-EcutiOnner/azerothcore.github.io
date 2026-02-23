@@ -1,12 +1,15 @@
 var a05424 =
 [
-    [ "AppenderConsole", "df/d39/a05424.html#aaf770a87f2151a7e6f92087751528c68", null ],
-    [ "_write", "df/d39/a05424.html#a94e529229bd707fa2bad0a0206a386d5", null ],
-    [ "getType", "df/d39/a05424.html#a4ae7f47c76b19eb269b26fdf13f14e48", null ],
-    [ "InitColors", "df/d39/a05424.html#a1a4deceeafc9a111a519ea55dc646266", null ],
-    [ "ResetColor", "df/d39/a05424.html#a4a3e55c9229947a25d4191bbfa348bf5", null ],
-    [ "SetColor", "df/d39/a05424.html#a9303f9408e1cbfc086fba15bf9a4ce59", null ],
-    [ "_colored", "df/d39/a05424.html#a172563f34a7277f7afb05354c8fbeb1f", null ],
-    [ "_colors", "df/d39/a05424.html#acdf277241cd25715e48500a15ab6bd30", null ],
-    [ "type", "df/d39/a05424.html#ab5cbc074f7d9306838974863913c8a5b", null ]
+    [ "iterator", "df/d39/a05424.html#a301cf316e15e5f55046c1c25ef2a4f5b", null ],
+    [ "RefMgr", "df/d39/a05424.html#a72110d71a275f564d31d2e6c84c331c3", null ],
+    [ "~RefMgr", "df/d39/a05424.html#ab386dd35fa62dbf7f1ba2131e6e99f7c", null ],
+    [ "begin", "df/d39/a05424.html#aacaf11c49931c87bd52b8382065447d3", null ],
+    [ "clearReferences", "df/d39/a05424.html#a912750f6257a33cd1f85079448b45928", null ],
+    [ "end", "df/d39/a05424.html#aab6573a792b9b24c3dc4a690c6ff77d9", null ],
+    [ "getFirst", "df/d39/a05424.html#a67de35d375c34c38db2b87481a141ebf", null ],
+    [ "getFirst", "df/d39/a05424.html#a2636030fdcd2312e7c2556c2da3ef948", null ],
+    [ "getLast", "df/d39/a05424.html#a6695bac4fd79bb428fd1f6a72ad6c3e3", null ],
+    [ "getLast", "df/d39/a05424.html#afab4e70c39d83e38048c5fe80166e5fa", null ],
+    [ "rbegin", "df/d39/a05424.html#a4c64b9aad3611aff0d1c419b5d5fa8f0", null ],
+    [ "rend", "df/d39/a05424.html#ae5ef045c8e3bbce625ffdc2c075b90c2", null ]
 ];

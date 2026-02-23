@@ -1,7 +1,9 @@
 var a27988 =
 [
-    [ "HandleDummy", "d9/d8c/a27988.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
-    [ "PrepareSpellScript", "d9/d8c/a27988.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
-    [ "Register", "d9/d8c/a27988.html#a3fda4d652c1264b3cfababdd98297c61", null ],
-    [ "Validate", "d9/d8c/a27988.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
+    [ "emerald_dragonAI", "d9/d8c/a27988.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
+    [ "ExecuteEvent", "d9/d8c/a27988.html#a6e60f146c7b86a119f269bf755831ac6", null ],
+    [ "JustSummoned", "d9/d8c/a27988.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
+    [ "KilledUnit", "d9/d8c/a27988.html#a69b24bf865ecd38822d5602314cddf11", null ],
+    [ "Reset", "d9/d8c/a27988.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
+    [ "UpdateAI", "d9/d8c/a27988.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
 ];

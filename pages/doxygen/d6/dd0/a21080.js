@@ -1,10 +1,13 @@
 var a21080 =
 [
-    [ "boss_yoggsaron_immortal_guardianAI", "d6/dd0/a21080.html#a84a3ffe43a4ce49cd543f770594cd683", null ],
-    [ "DamageTaken", "d6/dd0/a21080.html#aec157bcf0628a7301bcb91dd62bcc484", null ],
-    [ "Reset", "d6/dd0/a21080.html#a763f772414f00c0f83402e1a635b6bd0", null ],
-    [ "SpellHit", "d6/dd0/a21080.html#a60721961f2eb5e91c15890252166b872", null ],
-    [ "UpdateAI", "d6/dd0/a21080.html#a7fa550f683fcf16f5bd70a307bffcb2b", null ],
-    [ "_spellTimer", "d6/dd0/a21080.html#a4ed360380707195e10753436020b67eb", null ],
-    [ "_visualTimer", "d6/dd0/a21080.html#a8c382c37aaa3d20cfc0fe604af52bef4", null ]
+    [ "npc_ferocious_rhinoAI", "d6/dd0/a21080.html#ad70d0aeba4b73330c5087bc84a533389", null ],
+    [ "DoAction", "d6/dd0/a21080.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
+    [ "JustDied", "d6/dd0/a21080.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
+    [ "JustEngagedWith", "d6/dd0/a21080.html#aab35078fe4518b6647f98e316d02898a", null ],
+    [ "JustReachedHome", "d6/dd0/a21080.html#ab8105d6c8c70037c208c83c13c35242d", null ],
+    [ "MoveInLineOfSight", "d6/dd0/a21080.html#a97e32d32a692f223b96746f3ef1086c5", null ],
+    [ "Reset", "d6/dd0/a21080.html#a6d317407c2de2f954b5dd2a6db137304", null ],
+    [ "UpdateAI", "d6/dd0/a21080.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
+    [ "events", "d6/dd0/a21080.html#af23061de7d8566c7435c2c64c53dff89", null ],
+    [ "m_pInstance", "d6/dd0/a21080.html#a97e00db40792c559dd06327c9960abe4", null ]
 ];

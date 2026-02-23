@@ -1,6 +1,7 @@
 var a21520 =
 [
-    [ "boss_ichoronAI", "d3/dc4/a21524.html", "d3/dc4/a21524" ],
-    [ "boss_ichoron", "d8/d68/a21520.html#ad4390da77a130edaf050d0bef3926882", null ],
-    [ "GetAI", "d8/d68/a21520.html#a68051088dc2d2c738b042e2df0436b28", null ]
+    [ "npc_valiance_keep_cannoneerAI", "d8/d68/a21520.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
+    [ "Reset", "d8/d68/a21520.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
+    [ "UpdateAI", "d8/d68/a21520.html#a75f16f2b028ca341db6e08536be06bfa", null ],
+    [ "uiTimer", "d8/d68/a21520.html#a0cf5f0413b1cded835252a38e272f835", null ]
 ];

@@ -1,6 +1,8 @@
 var a20576 =
 [
-    [ "OnPeriodic", "df/d2f/a20576.html#a8a12342f694499043e8ed4446fd92d36", null ],
-    [ "PrepareAuraScript", "df/d2f/a20576.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
-    [ "Register", "df/d2f/a20576.html#a381709d53101832de6b2161c4a33a0d4", null ]
+    [ "npc_ulduar_mimiron_rocket", "df/d2f/a20576.html#aec8a2c9f653ddd1e8ea72093cb02d785", null ],
+    [ "InitializeAI", "df/d2f/a20576.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
+    [ "Reset", "df/d2f/a20576.html#a982da2f2392882a86e72de4c4769fa41", null ],
+    [ "SetData", "df/d2f/a20576.html#a507124f21657b62ff2b68060b52503b1", null ],
+    [ "UpdateAI", "df/d2f/a20576.html#ac26ec740ce5fa75f96babbe26e2263cc", null ]
 ];

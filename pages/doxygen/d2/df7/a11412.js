@@ -1,6 +1,7 @@
 var a11412 =
 [
-    [ "WorldObjectSpellConeTargetCheck", "d2/df7/a11412.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
-    [ "operator()", "d2/df7/a11412.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
-    [ "_coneAngle", "d2/df7/a11412.html#a8f946789292320ea8b205dec5d1e1975", null ]
+    [ "MapSessionFilter", "d2/df7/a11412.html#ad11a700c36f8f45640402e96edc74b49", null ],
+    [ "~MapSessionFilter", "d2/df7/a11412.html#a82960e741c8f64d24a764a915f14e2b8", null ],
+    [ "Process", "d2/df7/a11412.html#a54483596fe2a5a0d30fab9a13506b375", null ],
+    [ "ProcessUnsafe", "d2/df7/a11412.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
 ];

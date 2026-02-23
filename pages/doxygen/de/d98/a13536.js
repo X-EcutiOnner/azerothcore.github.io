@@ -1,12 +1,7 @@
 var a13536 =
 [
-    [ "boss_sacrolash", "de/d98/a13536.html#a6e251340b2ba8a8300611cf229b93095", null ],
-    [ "CheckInRoom", "de/d98/a13536.html#ae650b6019d2f9191e1b532176159804d", null ],
-    [ "DoAction", "de/d98/a13536.html#adbcbd24a90549978032d31d1beeaa4e6", null ],
-    [ "JustDied", "de/d98/a13536.html#a17c995220572cf803c36470ca80840e2", null ],
-    [ "JustEngagedWith", "de/d98/a13536.html#a822576bf8588d4e45f1532e1980cc7c7", null ],
-    [ "JustSummoned", "de/d98/a13536.html#a94214bc45414f61ff53102d6136b7b5c", null ],
-    [ "KilledUnit", "de/d98/a13536.html#a4d99da498db0e5a60c7c25fcb91e5270", null ],
-    [ "Reset", "de/d98/a13536.html#aa3128dae87d181e7ab93cf3a13723982", null ],
-    [ "_isSisterDead", "de/d98/a13536.html#a248d37df91c82069321fc5ea8b1e885d", null ]
+    [ "HandleScript", "de/d98/a13536.html#a03f8c24445ee4ac82a4cf2caece38f90", null ],
+    [ "PrepareSpellScript", "de/d98/a13536.html#a034195e58f02225c172b70c3967fe3ad", null ],
+    [ "Register", "de/d98/a13536.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2", null ],
+    [ "Validate", "de/d98/a13536.html#a8ac78c00c49b1eb2fade4100a810d367", null ]
 ];

@@ -1,4 +1,5 @@
 var a00773 =
 [
-    [ "ScriptRegistry< AuctionHouseScript >", "d8/dba/a00773.html#ac2271f3a8c4323137893dfd21d8d0003", null ]
+    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Data", "d8/dba/a00773.html#a650e9d2ed03f4896b697097e2116298e", null ],
+    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Key", "d8/dba/a00773.html#aba4af9417ad91ebf078cf0ff83ecf503", null ]
 ];

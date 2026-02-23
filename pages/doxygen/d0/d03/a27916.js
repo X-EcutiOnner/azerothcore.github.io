@@ -1,6 +1,5 @@
 var a27916 =
 [
-    [ "npc_venomhide_hatchlingAI", "d0/d03/a27916.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "d0/d03/a27916.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "d0/d03/a27916.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "achievement_sa_defense_of_the_ancients", "d0/d03/a27916.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "d0/d03/a27916.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

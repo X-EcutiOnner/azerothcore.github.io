@@ -1,8 +1,8 @@
 var a09728 =
 [
-    [ "InstResetEvent", "db/dca/a09728.html#aefa8f2b1b2cf29ad3472712278741fa4", null ],
-    [ "InstResetEvent", "db/dca/a09728.html#af6f80b924e52cd5296d21f4a5d1374c2", null ],
-    [ "difficulty", "db/dca/a09728.html#a67afe513dd42370ac4bb385a7128a324", null ],
-    [ "mapid", "db/dca/a09728.html#ad02e00b2782304fbd75973fe58eefd33", null ],
-    [ "type", "db/dca/a09728.html#ad211513c7ed39269d464190398dabaed", null ]
+    [ "flags", "db/dca/a09728.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
+    [ "group", "db/dca/a09728.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
+    [ "guid", "db/dca/a09728.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
+    [ "name", "db/dca/a09728.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
+    [ "roles", "db/dca/a09728.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
 ];

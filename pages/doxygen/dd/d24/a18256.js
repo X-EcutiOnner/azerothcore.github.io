@@ -1,7 +1,6 @@
 var a18256 =
 [
-    [ "HandleCast", "dd/d24/a18256.html#aaa3262bc782e342825d4caba2954e95d", null ],
-    [ "PrepareSpellScript", "dd/d24/a18256.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
-    [ "Register", "dd/d24/a18256.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
-    [ "Validate", "dd/d24/a18256.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
+    [ "UnboundPlagueTargetSelector", "dd/d24/a18256.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
+    [ "operator()", "dd/d24/a18256.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
+    [ "_source", "dd/d24/a18256.html#a87eb77615e443ccec373d571708a156a", null ]
 ];

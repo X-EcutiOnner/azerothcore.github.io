@@ -1,6 +1,5 @@
 var a25456 =
 [
-    [ "CheckRequirement", "db/dfc/a25456.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
-    [ "PrepareSpellScript", "db/dfc/a25456.html#aebb88f5ea803a590a099e4e6427d8276", null ],
-    [ "Register", "db/dfc/a25456.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
+    [ "PrepareSpellScript", "db/dfc/a25456.html#a2c88a98e1f76f62f745dbd83fa939506", null ],
+    [ "Register", "db/dfc/a25456.html#a93dcf131a040c95ef1b8cc5ec1d3bc37", null ]
 ];

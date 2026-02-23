@@ -1,7 +1,5 @@
 var a16372 =
 [
-    [ "HandleDummy", "d8/d80/a16372.html#ad0782bfbd977954aac6170ee9111aef6", null ],
-    [ "PrepareSpellScript", "d8/d80/a16372.html#ac456524856c4a3c4913423693a8fd50c", null ],
-    [ "Register", "d8/d80/a16372.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
-    [ "Validate", "d8/d80/a16372.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
+    [ "achievement_watch_him_die", "d8/d80/a16372.html#a0d885871eac61d859780e08c8518bb15", null ],
+    [ "OnCheck", "d8/d80/a16372.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
 ];

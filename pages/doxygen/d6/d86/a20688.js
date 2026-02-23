@@ -1,6 +1,7 @@
 var a20688 =
 [
-    [ "npc_ulduar_emergency_fire_botAI", "db/de0/a20692.html", "db/de0/a20692" ],
-    [ "npc_ulduar_emergency_fire_bot", "d6/d86/a20688.html#a1adc05ac4602ab2b297b18f605bfd2cd", null ],
-    [ "GetAI", "d6/d86/a20688.html#afb3ab952495175c5f571d4e39a5acea4", null ]
+    [ "boss_thorim_trap", "d6/d86/a20688.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
+    [ "Reset", "d6/d86/a20688.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
+    [ "UpdateAI", "d6/d86/a20688.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
+    [ "_checkTimer", "d6/d86/a20688.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
 ];

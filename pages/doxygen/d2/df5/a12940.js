@@ -1,10 +1,6 @@
 var a12940 =
 [
-    [ "npc_netherspite_infernal", "d2/df5/a12940.html#af9837d7a671533523ce323c083c4e847", null ],
-    [ "DamageTaken", "d2/df5/a12940.html#aee9b38f3590e08b16de1789576986a09", null ],
-    [ "JustEngagedWith", "d2/df5/a12940.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
-    [ "KilledUnit", "d2/df5/a12940.html#a49c37fbebed2951c493962c1a3bd0339", null ],
-    [ "MoveInLineOfSight", "d2/df5/a12940.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
-    [ "SpellHit", "d2/df5/a12940.html#abb6c7d0b5e231e460b069198b16106b7", null ],
-    [ "UpdateAI", "d2/df5/a12940.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
+    [ "boss_sulfuronAI", "d1/dfc/a12944.html", "d1/dfc/a12944" ],
+    [ "boss_sulfuron", "d2/df5/a12940.html#aed72791db02009136592b905cc4f4df3", null ],
+    [ "GetAI", "d2/df5/a12940.html#aced001845e4a9bb9f517d45a36f474c7", null ]
 ];

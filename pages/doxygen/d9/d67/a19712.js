@@ -1,9 +1,5 @@
 var a19712 =
 [
-    [ "HandleOnEffectApply", "d9/d67/a19712.html#a6ab047004cc901331d747641f218cf6a", null ],
-    [ "HandleOnEffectRemove", "d9/d67/a19712.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
-    [ "PrepareAuraScript", "d9/d67/a19712.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
-    [ "Register", "d9/d67/a19712.html#a83b0d414a6e97b434f82492fa01ac385", null ],
-    [ "Validate", "d9/d67/a19712.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
-    [ "_drakeGUID", "d9/d67/a19712.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
+    [ "achievement_chaos_theory", "d9/d67/a19712.html#a3068009fa1fb400439a2c72f00296484", null ],
+    [ "OnCheck", "d9/d67/a19712.html#a68d9a577cb7e005d81f52077707e3555", null ]
 ];

@@ -1,6 +1,7 @@
 var a16112 =
 [
-    [ "ModDestHeight", "de/d06/a16112.html#a8bda9327c4244af41c513528ad5c818c", null ],
-    [ "PrepareSpellScript", "de/d06/a16112.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
-    [ "Register", "de/d06/a16112.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
+    [ "npc_paoka_swiftmountainAI", "de/d06/a16112.html#a92a229f76de3bc46ae14910439db0004", null ],
+    [ "DoSpawnWyvern", "de/d06/a16112.html#a7997a3d398db82c205e3a8af77ac1684", null ],
+    [ "Reset", "de/d06/a16112.html#acae0427957aba04a54e6001823bc7eb4", null ],
+    [ "WaypointReached", "de/d06/a16112.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
 ];

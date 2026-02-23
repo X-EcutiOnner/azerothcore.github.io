@@ -1,7 +1,7 @@
 var a17656 =
 [
-    [ "OnProc", "da/d8a/a17656.html#a5b6e96abb900da33657cdbbd137138e3", null ],
-    [ "PrepareAuraScript", "da/d8a/a17656.html#a5502476536a923e77af67c4bbcf005e3", null ],
-    [ "Register", "da/d8a/a17656.html#aca08edf219504156d6157c95702bb815", null ],
-    [ "Validate", "da/d8a/a17656.html#a52b1231f37e8b3d810614365659a98b6", null ]
+    [ "HandlePeriodic", "da/d8a/a17656.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
+    [ "PrepareAuraScript", "da/d8a/a17656.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
+    [ "Register", "da/d8a/a17656.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
+    [ "Validate", "da/d8a/a17656.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
 ];

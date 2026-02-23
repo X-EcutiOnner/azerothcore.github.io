@@ -1,9 +1,6 @@
 var a17976 =
 [
-    [ "CheckAreaTarget", "d0/d32/a17976.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
-    [ "HandleApply", "d0/d32/a17976.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
-    [ "Load", "d0/d32/a17976.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
-    [ "PrepareAuraScript", "d0/d32/a17976.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
-    [ "Register", "d0/d32/a17976.html#a8f476129e0678149463c4b16232f6cb6", null ],
-    [ "_teamIdInInstance", "d0/d32/a17976.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
+    [ "npc_high_overlord_saurfang_igbAI", "d0/d72/a17980.html", "d0/d72/a17980" ],
+    [ "npc_high_overlord_saurfang_igb", "d0/d32/a17976.html#ae68d42f65851a753874705511bb83330", null ],
+    [ "GetAI", "d0/d32/a17976.html#a54b6da97a40665232d28a20bac9b7ef3", null ]
 ];

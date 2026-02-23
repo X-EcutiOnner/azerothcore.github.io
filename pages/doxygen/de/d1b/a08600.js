@@ -1,7 +1,7 @@
 var a08600 =
 [
-    [ "IsInSpec", "de/d1b/a08600.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
-    [ "Active", "de/d1b/a08600.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
-    [ "specMask", "de/d1b/a08600.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
-    [ "State", "de/d1b/a08600.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
+    [ "AddToGrid", "de/d1b/a08600.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
+    [ "IsInGrid", "de/d1b/a08600.html#a996724d21d62e478f50031faa7637cd5", null ],
+    [ "RemoveFromGrid", "de/d1b/a08600.html#a29740a98fea7db66cdffd824940a2ec2", null ],
+    [ "_gridRef", "de/d1b/a08600.html#aa44ba47734267ac07b733f218623f3c5", null ]
 ];

@@ -1,6 +1,5 @@
 var a28236 =
 [
-    [ "Id", "da/d49/a28236.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
-    [ "SpellId", "da/d49/a28236.html#ae8c119bacf706916f331d3f316fb1347", null ],
-    [ "TypeFlags", "da/d49/a28236.html#aae92871758e9a738a888cacf0946f16b", null ]
+    [ "go_massive_seaforium_charge", "da/d49/a28236.html#adae43b764f237932923cd18207e4d23c", null ],
+    [ "OnGossipHello", "da/d49/a28236.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
 ];

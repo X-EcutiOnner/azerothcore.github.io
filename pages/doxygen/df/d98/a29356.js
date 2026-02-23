@@ -1,5 +1,9 @@
 var a29356 =
 [
-    [ "item_disgusting_jar", "df/d98/a29356.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
-    [ "OnExpire", "df/d98/a29356.html#a4f6967035a4d247914a6034fcebac5c5", null ]
+    [ "adtId", "df/d98/a29356.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
+    [ "areaId", "df/d98/a29356.html#a7f652c68036429350543fc5a2cc6861e", null ],
+    [ "Flags", "df/d98/a29356.html#a60f9a61948d1e28587c9d1a338730f37", null ],
+    [ "groupId", "df/d98/a29356.html#a09052bad3028899580ffedd556672b64", null ],
+    [ "Id", "df/d98/a29356.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
+    [ "rootId", "df/d98/a29356.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
 ];

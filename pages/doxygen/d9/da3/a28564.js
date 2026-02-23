@@ -1,4 +1,4 @@
 var a28564 =
 [
-    [ "Pattern", "d9/da3/a28564.html#a6a13e445a1c894f95105f6dd4f0f24ba", null ]
+    [ "go_necropolis", "d9/da3/a28564.html#aef477499aefa5340db97538a8f3a3cca", null ]
 ];

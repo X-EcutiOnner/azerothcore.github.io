@@ -1,9 +1,12 @@
 var a07304 =
 [
-    [ "ArenaScore", "d0/d71/a07304.html#a58f1391de4e67750dad211b10704499f", null ],
-    [ "AppendToPacket", "d0/d71/a07304.html#a3fe2ab34a9abc4d8c4ff863334cf2c84", null ],
-    [ "BuildObjectivesBlock", "d0/d71/a07304.html#ac96461b865fc7a9ba0cdfad6ae3fa96f", null ],
-    [ "ToString", "d0/d71/a07304.html#ab04b30f4bfa6b1aa89e08e3195ad3b0b", null ],
-    [ "Arena", "d0/d71/a07304.html#a5f488c25aa439166d145713c67e7d085", null ],
-    [ "PvPTeamId", "d0/d71/a07304.html#a486ee0e05ac5160f0fb174e2a1e061bb", null ]
+    [ "Type", "d0/d71/a07304.html#abfb75b18c4a43f1818cd78212c668109", [
+      [ "LIST", "d0/d71/a07304.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a", null ],
+      [ "OWNER_LIST", "d0/d71/a07304.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e", null ],
+      [ "BIDDER_LIST", "d0/d71/a07304.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab", null ]
+    ] ],
+    [ "AuctionSearcherRequest", "d0/d71/a07304.html#afadcce053f82ae124263a501671f35e3", null ],
+    [ "~AuctionSearcherRequest", "d0/d71/a07304.html#a8122177f0ca9b5c2393e87998a15e950", null ],
+    [ "listFaction", "d0/d71/a07304.html#a1847f75715da2de1098d0f767163f62d", null ],
+    [ "requestType", "d0/d71/a07304.html#ad7006f42aafadfa07024e1d2a278be3d", null ]
 ];

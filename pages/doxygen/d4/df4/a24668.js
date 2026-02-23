@@ -1,6 +1,7 @@
 var a24668 =
 [
-    [ "HandlePeriodic", "d4/df4/a24668.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
-    [ "PrepareAuraScript", "d4/df4/a24668.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
-    [ "Register", "d4/df4/a24668.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
+    [ "AfterApply", "d4/df4/a24668.html#adae232af9445638b3d54e81d414483b7", null ],
+    [ "AfterRemove", "d4/df4/a24668.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
+    [ "PrepareAuraScript", "d4/df4/a24668.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
+    [ "Register", "d4/df4/a24668.html#abff75ea597dcc017a359a5ef3ada4314", null ]
 ];

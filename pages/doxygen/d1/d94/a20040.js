@@ -1,6 +1,8 @@
 var a20040 =
 [
-    [ "boss_flame_leviathanAI", "d7/d89/a20044.html", "d7/d89/a20044" ],
-    [ "boss_flame_leviathan", "d1/d94/a20040.html#af4fcd38fc7095701c6c31674d849aef4", null ],
-    [ "GetAI", "d1/d94/a20040.html#a3a402b002472bfe4347b512f21654c50", null ]
+    [ "npc_algalon_worm_hole", "d1/d94/a20040.html#a546bd0ede2586fcbe3812698b68528d4", null ],
+    [ "JustSummoned", "d1/d94/a20040.html#a077425b35d86c007daa93fc8b1fd9717", null ],
+    [ "Reset", "d1/d94/a20040.html#a363814abdee714faddfd966b11a4fddc", null ],
+    [ "UpdateAI", "d1/d94/a20040.html#a16f644be53169adc67fc971bdeaa7263", null ],
+    [ "_summonTimer", "d1/d94/a20040.html#a033382dbd57714e815eed8ef6e4adfaf", null ]
 ];

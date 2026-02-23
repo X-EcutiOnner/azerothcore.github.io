@@ -1,11 +1,13 @@
 var a21088 =
 [
-    [ "boss_yoggsaron_lich_kingAI", "df/d4b/a21088.html#a4fcf1be1bc20327ff8daf9c79baabde7", null ],
-    [ "NextStep", "df/d4b/a21088.html#a4f99e511d6296b56df8ab8fbe53620e6", null ],
-    [ "Reset", "df/d4b/a21088.html#a4c8f098f245e90685f0f3660028500a8", null ],
-    [ "Say", "df/d4b/a21088.html#a01217dd4c33b0ccae448aa137e83dd9b", null ],
-    [ "UpdateAI", "df/d4b/a21088.html#a3cbe18164c993fd034242b3f19d27e31", null ],
-    [ "_checkTimer", "df/d4b/a21088.html#a8f0234b32612ff56ac6a7429f6e4da09", null ],
-    [ "_running", "df/d4b/a21088.html#a9d7f0f2a8cf4f421253c8c5a6ec98111", null ],
-    [ "_step", "df/d4b/a21088.html#a6af98b3daace7852a485983167538f85", null ]
+    [ "npc_ravenous_furbolgAI", "df/d4b/a21088.html#a3e2a0cac8a02d2d6105b06b5c21f1628", null ],
+    [ "DoAction", "df/d4b/a21088.html#a837b442d7812b0c5708995d35c0d45f6", null ],
+    [ "JustDied", "df/d4b/a21088.html#a03e5dd969fcc2e3dcebc714247e18bf2", null ],
+    [ "JustEngagedWith", "df/d4b/a21088.html#a003eb350a11f3f5c2355a58958633f36", null ],
+    [ "JustReachedHome", "df/d4b/a21088.html#a09fc5ba4680c1e5a7a49a81c50cee540", null ],
+    [ "MoveInLineOfSight", "df/d4b/a21088.html#a0b4db9708b9b0288ddb1be2f2205e03a", null ],
+    [ "Reset", "df/d4b/a21088.html#aca5ae47050590ec22e6e929f44e09276", null ],
+    [ "UpdateAI", "df/d4b/a21088.html#ad044c04381a8d61a8fefc55129453ddf", null ],
+    [ "events", "df/d4b/a21088.html#a8bf068c63d7ae10c6edf0af3aab1a6c3", null ],
+    [ "m_pInstance", "df/d4b/a21088.html#aeb0a7644ada4d44e649b4ae45e0d2dc2", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SpellScript::ObjectTargetSelectHandler Class Reference</title>
+<title>AzerothCore: Acore::WorldObjectSpellTargetCheck Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,96 +106,87 @@ $(document).ready(function(){initNavTree('d6/dbf/a11556.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../db/d60/a11553.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SpellScript::ObjectTargetSelectHandler Class Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::WorldObjectSpellTargetCheck Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Spell.h</a>&quot;</code></p>
 <div class="dynheader">
-Inheritance diagram for SpellScript::ObjectTargetSelectHandler:</div>
+Inheritance diagram for Acore::WorldObjectSpellTargetCheck:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../d6/dbf/a11556.png" usemap="#SpellScript::ObjectTargetSelectHandler_map" alt=""/>
-  <map id="SpellScript::ObjectTargetSelectHandler_map" name="SpellScript::ObjectTargetSelectHandler_map">
-<area href="../../d1/d83/a11548.html" alt="SpellScript::TargetHook" shape="rect" coords="0,56,232,80"/>
-<area href="../../d6/d5a/a11512.html" alt="_SpellScript::EffectHook" shape="rect" coords="0,0,232,24"/>
+  <img src="../../d6/dbf/a11556.png" usemap="#Acore::WorldObjectSpellTargetCheck_map" alt=""/>
+  <map id="Acore::WorldObjectSpellTargetCheck_map" name="Acore::WorldObjectSpellTargetCheck_map">
+<area href="../../d1/de2/a11564.html" alt="Acore::WorldObjectSpellAreaTargetCheck" shape="rect" coords="137,56,402,80"/>
+<area href="../../d9/d98/a11560.html" alt="Acore::WorldObjectSpellNearbyTargetCheck" shape="rect" coords="412,56,677,80"/>
+<area href="../../df/d3e/a11568.html" alt="Acore::WorldObjectSpellConeTargetCheck" shape="rect" coords="0,112,265,136"/>
+<area href="../../d8/dff/a11572.html" alt="Acore::WorldObjectSpellTrajTargetCheck" shape="rect" coords="275,112,540,136"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:abe96c3e266375ab64f8dec54a047a5b8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dbf/a11556.html#abe96c3e266375ab64f8dec54a047a5b8">ObjectTargetSelectHandler</a> (SpellObjectTargetSelectFnType _pObjectTargetSelectHandlerScript, <a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _effIndex, <a class="el" href="../../de/d68/a04331.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> _targetType)</td></tr>
-<tr class="separator:abe96c3e266375ab64f8dec54a047a5b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7e18103fb5c68b2cf85f54bf7caf4b3b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dbf/a11556.html#a7e18103fb5c68b2cf85f54bf7caf4b3b">Call</a> (<a class="el" href="../../de/d89/a11524.html">SpellScript</a> *spellScript, <a class="el" href="../../d8/dc4/a08492.html">WorldObject</a> *&amp;target)</td></tr>
-<tr class="separator:a7e18103fb5c68b2cf85f54bf7caf4b3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a11548"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a11548')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d1/d83/a11548.html">SpellScript::TargetHook</a></td></tr>
-<tr class="memitem:afcada203ddd8752107c74bbf0e7c24eb inherit pub_methods_a11548"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d83/a11548.html#afcada203ddd8752107c74bbf0e7c24eb">TargetHook</a> (<a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _effectIndex, <a class="el" href="../../de/d68/a04331.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> _targetType, bool _area, bool _dest)</td></tr>
-<tr class="separator:afcada203ddd8752107c74bbf0e7c24eb inherit pub_methods_a11548"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af02ad1f1fb914aac52095d7e41f12c94 inherit pub_methods_a11548"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d83/a11548.html#af02ad1f1fb914aac52095d7e41f12c94">CheckEffect</a> (<a class="el" href="../../d1/d7d/a11448.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <a class="el" href="../../d6/d5a/a11512.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a>) override</td></tr>
-<tr class="separator:af02ad1f1fb914aac52095d7e41f12c94 inherit pub_methods_a11548"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a424e03e457dc15a2689f344e614a882f inherit pub_methods_a11548"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d83/a11548.html#a424e03e457dc15a2689f344e614a882f">ToString</a> ()</td></tr>
-<tr class="separator:a424e03e457dc15a2689f344e614a882f inherit pub_methods_a11548"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a238979ffaaa644bd65ffd4e7cb20d797 inherit pub_methods_a11548"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d83/a11548.html#a238979ffaaa644bd65ffd4e7cb20d797">GetTarget</a> () const</td></tr>
-<tr class="separator:a238979ffaaa644bd65ffd4e7cb20d797 inherit pub_methods_a11548"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a11512"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a11512')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d6/d5a/a11512.html">_SpellScript::EffectHook</a></td></tr>
-<tr class="memitem:a4a197e061d918dfba2bc486f3393b00d inherit pub_methods_a11512"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d5a/a11512.html#a4a197e061d918dfba2bc486f3393b00d">EffectHook</a> (<a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _effIndex)</td></tr>
-<tr class="separator:a4a197e061d918dfba2bc486f3393b00d inherit pub_methods_a11512"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa234f63b530764d12064acbe3f5c9299 inherit pub_methods_a11512"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d5a/a11512.html#aa234f63b530764d12064acbe3f5c9299">~EffectHook</a> ()</td></tr>
-<tr class="separator:aa234f63b530764d12064acbe3f5c9299 inherit pub_methods_a11512"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a31faa86590e22f5ab3ca518f4df02840 inherit pub_methods_a11512"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d5a/a11512.html#a31faa86590e22f5ab3ca518f4df02840">GetAffectedEffectsMask</a> (<a class="el" href="../../d1/d7d/a11448.html">SpellInfo</a> const *spellInfo)</td></tr>
-<tr class="separator:a31faa86590e22f5ab3ca518f4df02840 inherit pub_methods_a11512"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a697041ffa562bb6fff792beb159c7af2 inherit pub_methods_a11512"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d5a/a11512.html#a697041ffa562bb6fff792beb159c7af2">IsEffectAffected</a> (<a class="el" href="../../d1/d7d/a11448.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <a class="el" href="../../d6/d5a/a11512.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a>)</td></tr>
-<tr class="separator:a697041ffa562bb6fff792beb159c7af2 inherit pub_methods_a11512"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae8823c5d649d182f572818bf3db72902 inherit pub_methods_a11512"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d5a/a11512.html#ae8823c5d649d182f572818bf3db72902">CheckEffect</a> (<a class="el" href="../../d1/d7d/a11448.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <a class="el" href="../../d6/d5a/a11512.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a>)=0</td></tr>
-<tr class="separator:ae8823c5d649d182f572818bf3db72902 inherit pub_methods_a11512"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab818ed274cfd66ecc565b8535b751517 inherit pub_methods_a11512"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d5a/a11512.html#ab818ed274cfd66ecc565b8535b751517">EffIndexToString</a> ()</td></tr>
-<tr class="separator:ab818ed274cfd66ecc565b8535b751517 inherit pub_methods_a11512"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a370a66c484d486ac6d2d3419a019c7cd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dbf/a11556.html#a370a66c484d486ac6d2d3419a019c7cd">WorldObjectSpellTargetCheck</a> (<a class="el" href="../../d4/d43/a08960.html">Unit</a> *caster, <a class="el" href="../../d4/d43/a08960.html">Unit</a> *referer, <a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d1/d44/a00098.html#a392c69714f880d43f8afb5510ba1fff7">SpellTargetCheckTypes</a> selectionType, <a class="el" href="../../d4/d41/a01661.html#ae942a8e25dc24ce42e62625bb583c0dd">ConditionList</a> *condList)</td></tr>
+<tr class="separator:a370a66c484d486ac6d2d3419a019c7cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1d519b04f171d230b21da3cc637497cf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dbf/a11556.html#a1d519b04f171d230b21da3cc637497cf">~WorldObjectSpellTargetCheck</a> ()</td></tr>
+<tr class="separator:a1d519b04f171d230b21da3cc637497cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ae263977948d2195b22a737c36bad20"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dbf/a11556.html#a2ae263977948d2195b22a737c36bad20">operator()</a> (<a class="el" href="../../d5/dcc/a08616.html">WorldObject</a> *target)</td></tr>
+<tr class="separator:a2ae263977948d2195b22a737c36bad20"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a6982985537c0ddb8dd79647766c9ae70"><td class="memItemLeft" align="right" valign="top">SpellObjectTargetSelectFnType&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dbf/a11556.html#a6982985537c0ddb8dd79647766c9ae70">pObjectTargetSelectHandlerScript</a></td></tr>
-<tr class="separator:a6982985537c0ddb8dd79647766c9ae70"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
-Additional Inherited Members</h2></td></tr>
-<tr class="inherit_header pro_attribs_a11548"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_a11548')"><img src="../../closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="../../d1/d83/a11548.html">SpellScript::TargetHook</a></td></tr>
-<tr class="memitem:aed2e0e651bdd5453d716db464ac0ab55 inherit pro_attribs_a11548"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d83/a11548.html#aed2e0e651bdd5453d716db464ac0ab55">targetType</a></td></tr>
-<tr class="separator:aed2e0e651bdd5453d716db464ac0ab55 inherit pro_attribs_a11548"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aceec6f0ea91d45a11233122c3bc843ed inherit pro_attribs_a11548"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d83/a11548.html#aceec6f0ea91d45a11233122c3bc843ed">area</a></td></tr>
-<tr class="separator:aceec6f0ea91d45a11233122c3bc843ed inherit pro_attribs_a11548"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a28f2f6f3338a2c261ee754508ee48e60 inherit pro_attribs_a11548"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d83/a11548.html#a28f2f6f3338a2c261ee754508ee48e60">dest</a></td></tr>
-<tr class="separator:a28f2f6f3338a2c261ee754508ee48e60 inherit pro_attribs_a11548"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pro_attribs_a11512"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_a11512')"><img src="../../closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="../../d6/d5a/a11512.html">_SpellScript::EffectHook</a></td></tr>
-<tr class="memitem:ab5eb48ef7ac903938f92db0e856e0295 inherit pro_attribs_a11512"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d5a/a11512.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a></td></tr>
-<tr class="separator:ab5eb48ef7ac903938f92db0e856e0295 inherit pro_attribs_a11512"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:ac090f8e47bcdfccb85fb791856355827"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d43/a08960.html">Unit</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dbf/a11556.html#ac090f8e47bcdfccb85fb791856355827">_caster</a></td></tr>
+<tr class="separator:ac090f8e47bcdfccb85fb791856355827"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a24eaafdf716de984a5943e049d10f7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d43/a08960.html">Unit</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dbf/a11556.html#a1a24eaafdf716de984a5943e049d10f7">_referer</a></td></tr>
+<tr class="separator:a1a24eaafdf716de984a5943e049d10f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a66bd07338943ee307be19f22326b29b7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dbf/a11556.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a></td></tr>
+<tr class="separator:a66bd07338943ee307be19f22326b29b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0e629a6fd0da179ea0c98c93d2337603"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d44/a00098.html#a392c69714f880d43f8afb5510ba1fff7">SpellTargetCheckTypes</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dbf/a11556.html#a0e629a6fd0da179ea0c98c93d2337603">_targetSelectionType</a></td></tr>
+<tr class="separator:a0e629a6fd0da179ea0c98c93d2337603"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a288c53998aa7b744f6e3eaeba68fe6d8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/db7/a08072.html">ConditionSourceInfo</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dbf/a11556.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a></td></tr>
+<tr class="separator:a288c53998aa7b744f6e3eaeba68fe6d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a70b9331b5871e2e4d92d642715c8192a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d41/a01661.html#ae942a8e25dc24ce42e62625bb583c0dd">ConditionList</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dbf/a11556.html#a70b9331b5871e2e4d92d642715c8192a">_condList</a></td></tr>
+<tr class="separator:a70b9331b5871e2e4d92d642715c8192a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="abe96c3e266375ab64f8dec54a047a5b8" name="abe96c3e266375ab64f8dec54a047a5b8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abe96c3e266375ab64f8dec54a047a5b8">&#9670;&#160;</a></span>ObjectTargetSelectHandler()</h2>
+<a id="a370a66c484d486ac6d2d3419a019c7cd" name="a370a66c484d486ac6d2d3419a019c7cd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a370a66c484d486ac6d2d3419a019c7cd">&#9670;&#160;</a></span>WorldObjectSpellTargetCheck()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">SpellScript::ObjectTargetSelectHandler::ObjectTargetSelectHandler </td>
+          <td class="memname">Acore::WorldObjectSpellTargetCheck::WorldObjectSpellTargetCheck </td>
           <td>(</td>
-          <td class="paramtype">SpellObjectTargetSelectFnType&#160;</td>
-          <td class="paramname"><em>_pObjectTargetSelectHandlerScript</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d4/d43/a08960.html">Unit</a> *&#160;</td>
+          <td class="paramname"><em>caster</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>_effIndex</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d4/d43/a08960.html">Unit</a> *&#160;</td>
+          <td class="paramname"><em>referer</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../de/d68/a04331.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
-          <td class="paramname"><em>_targetType</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname"><em>spellInfo</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d1/d44/a00098.html#a392c69714f880d43f8afb5510ba1fff7">SpellTargetCheckTypes</a>&#160;</td>
+          <td class="paramname"><em>selectionType</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/d41/a01661.html#ae942a8e25dc24ce42e62625bb583c0dd">ConditionList</a> *&#160;</td>
+          <td class="paramname"><em>condList</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -204,71 +195,256 @@ Additional Inherited Members</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  295</span>    : <a class="code hl_function" href="../../d1/d83/a11548.html#afcada203ddd8752107c74bbf0e7c24eb">TargetHook</a>(_effIndex, _targetType, <span class="keyword">false</span>, <span class="keyword">false</span>)</div>
-<div class="line"><span class="lineno">  296</span>{</div>
-<div class="line"><span class="lineno">  297</span>    <a class="code hl_variable" href="../../d6/dbf/a11556.html#a6982985537c0ddb8dd79647766c9ae70">pObjectTargetSelectHandlerScript</a> = _pObjectTargetSelectHandlerScript;</div>
-<div class="line"><span class="lineno">  298</span>}</div>
-<div class="ttc" id="aa11548_html_afcada203ddd8752107c74bbf0e7c24eb"><div class="ttname"><a href="../../d1/d83/a11548.html#afcada203ddd8752107c74bbf0e7c24eb">SpellScript::TargetHook::TargetHook</a></div><div class="ttdeci">TargetHook(uint8 _effectIndex, uint16 _targetType, bool _area, bool _dest)</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:227</div></div>
-<div class="ttc" id="aa11556_html_a6982985537c0ddb8dd79647766c9ae70"><div class="ttname"><a href="../../d6/dbf/a11556.html#a6982985537c0ddb8dd79647766c9ae70">SpellScript::ObjectTargetSelectHandler::pObjectTargetSelectHandlerScript</a></div><div class="ttdeci">SpellObjectTargetSelectFnType pObjectTargetSelectHandlerScript</div><div class="ttdef"><b>Definition:</b> SpellScript.h:274</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 8959</span>                                                                          : <a class="code hl_variable" href="../../d6/dbf/a11556.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>(caster), <a class="code hl_variable" href="../../d6/dbf/a11556.html#a1a24eaafdf716de984a5943e049d10f7">_referer</a>(referer), <a class="code hl_variable" href="../../d6/dbf/a11556.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>(spellInfo),</div>
+<div class="line"><span class="lineno"> 8960</span>        <a class="code hl_variable" href="../../d6/dbf/a11556.html#a0e629a6fd0da179ea0c98c93d2337603">_targetSelectionType</a>(selectionType), <a class="code hl_variable" href="../../d6/dbf/a11556.html#a70b9331b5871e2e4d92d642715c8192a">_condList</a>(condList)</div>
+<div class="line"><span class="lineno"> 8961</span>    {</div>
+<div class="line"><span class="lineno"> 8962</span>        <span class="keywordflow">if</span> (condList)</div>
+<div class="line"><span class="lineno"> 8963</span>            <a class="code hl_variable" href="../../d6/dbf/a11556.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a> = <span class="keyword">new</span> <a class="code hl_struct" href="../../df/db7/a08072.html">ConditionSourceInfo</a>(<span class="keyword">nullptr</span>, caster);</div>
+<div class="line"><span class="lineno"> 8964</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 8965</span>            <a class="code hl_variable" href="../../d6/dbf/a11556.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno"> 8966</span>    }</div>
+<div class="ttc" id="aa08072_html"><div class="ttname"><a href="../../df/db7/a08072.html">ConditionSourceInfo</a></div><div class="ttdef"><b>Definition:</b> ConditionMgr.h:184</div></div>
+<div class="ttc" id="aa11556_html_a0e629a6fd0da179ea0c98c93d2337603"><div class="ttname"><a href="../../d6/dbf/a11556.html#a0e629a6fd0da179ea0c98c93d2337603">Acore::WorldObjectSpellTargetCheck::_targetSelectionType</a></div><div class="ttdeci">SpellTargetCheckTypes _targetSelectionType</div><div class="ttdef"><b>Definition:</b> Spell.h:812</div></div>
+<div class="ttc" id="aa11556_html_a1a24eaafdf716de984a5943e049d10f7"><div class="ttname"><a href="../../d6/dbf/a11556.html#a1a24eaafdf716de984a5943e049d10f7">Acore::WorldObjectSpellTargetCheck::_referer</a></div><div class="ttdeci">Unit * _referer</div><div class="ttdef"><b>Definition:</b> Spell.h:810</div></div>
+<div class="ttc" id="aa11556_html_a288c53998aa7b744f6e3eaeba68fe6d8"><div class="ttname"><a href="../../d6/dbf/a11556.html#a288c53998aa7b744f6e3eaeba68fe6d8">Acore::WorldObjectSpellTargetCheck::_condSrcInfo</a></div><div class="ttdeci">ConditionSourceInfo * _condSrcInfo</div><div class="ttdef"><b>Definition:</b> Spell.h:813</div></div>
+<div class="ttc" id="aa11556_html_a66bd07338943ee307be19f22326b29b7"><div class="ttname"><a href="../../d6/dbf/a11556.html#a66bd07338943ee307be19f22326b29b7">Acore::WorldObjectSpellTargetCheck::_spellInfo</a></div><div class="ttdeci">SpellInfo const  * _spellInfo</div><div class="ttdef"><b>Definition:</b> Spell.h:811</div></div>
+<div class="ttc" id="aa11556_html_a70b9331b5871e2e4d92d642715c8192a"><div class="ttname"><a href="../../d6/dbf/a11556.html#a70b9331b5871e2e4d92d642715c8192a">Acore::WorldObjectSpellTargetCheck::_condList</a></div><div class="ttdeci">ConditionList * _condList</div><div class="ttdef"><b>Definition:</b> Spell.h:814</div></div>
+<div class="ttc" id="aa11556_html_ac090f8e47bcdfccb85fb791856355827"><div class="ttname"><a href="../../d6/dbf/a11556.html#ac090f8e47bcdfccb85fb791856355827">Acore::WorldObjectSpellTargetCheck::_caster</a></div><div class="ttdeci">Unit * _caster</div><div class="ttdef"><b>Definition:</b> Spell.h:809</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00274">pObjectTargetSelectHandlerScript</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00813">_condSrcInfo</a>.</p>
+
+</div>
+</div>
+<a id="a1d519b04f171d230b21da3cc637497cf" name="a1d519b04f171d230b21da3cc637497cf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1d519b04f171d230b21da3cc637497cf">&#9670;&#160;</a></span>~WorldObjectSpellTargetCheck()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Acore::WorldObjectSpellTargetCheck::~WorldObjectSpellTargetCheck </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 8969</span>    {</div>
+<div class="line"><span class="lineno"> 8970</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/dbf/a11556.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a>)</div>
+<div class="line"><span class="lineno"> 8971</span>            <span class="keyword">delete</span> <a class="code hl_variable" href="../../d6/dbf/a11556.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a>;</div>
+<div class="line"><span class="lineno"> 8972</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00813">_condSrcInfo</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a7e18103fb5c68b2cf85f54bf7caf4b3b" name="a7e18103fb5c68b2cf85f54bf7caf4b3b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7e18103fb5c68b2cf85f54bf7caf4b3b">&#9670;&#160;</a></span>Call()</h2>
+<a id="a2ae263977948d2195b22a737c36bad20" name="a2ae263977948d2195b22a737c36bad20"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2ae263977948d2195b22a737c36bad20">&#9670;&#160;</a></span>operator()()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void SpellScript::ObjectTargetSelectHandler::Call </td>
+          <td class="memname">bool Acore::WorldObjectSpellTargetCheck::operator() </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d89/a11524.html">SpellScript</a> *&#160;</td>
-          <td class="paramname"><em>spellScript</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype"><a class="el" href="../../d5/dcc/a08616.html">WorldObject</a> *&#160;</td>
+          <td class="paramname"><em>target</em></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/dc4/a08492.html">WorldObject</a> *&amp;&#160;</td>
-          <td class="paramname"><em>target</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  301</span>{</div>
-<div class="line"><span class="lineno">  302</span>    (spellScript-&gt;*<a class="code hl_variable" href="../../d6/dbf/a11556.html#a6982985537c0ddb8dd79647766c9ae70">pObjectTargetSelectHandlerScript</a>)(target);</div>
-<div class="line"><span class="lineno">  303</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 8975</span>    {</div>
+<div class="line"><span class="lineno"> 8976</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/dbf/a11556.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>-&gt;<a class="code hl_function" href="../../da/d41/a11604.html#acecc64b4ea8cbc67475fa17bfd393c39">CheckTarget</a>(<a class="code hl_variable" href="../../d6/dbf/a11556.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>, target, <span class="keyword">true</span>) != <a class="code hl_enumvalue" href="../../dd/d90/a04127.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a>)</div>
+<div class="line"><span class="lineno"> 8977</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 8978</span>        <a class="code hl_class" href="../../d4/d43/a08960.html">Unit</a>* unitTarget = target-&gt;<a class="code hl_function" href="../../da/d14/a08580.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>();</div>
+<div class="line"><span class="lineno"> 8979</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d3e/a08200.html">Corpse</a>* corpseTarget = target-&gt;<a class="code hl_function" href="../../da/d14/a08580.html#a08e7f00f2af14976d7b9c0da6d6f6bd0">ToCorpse</a>())</div>
+<div class="line"><span class="lineno"> 8980</span>        {</div>
+<div class="line"><span class="lineno"> 8981</span>            <span class="comment">// use ofter for party/assistance checks</span></div>
+<div class="line"><span class="lineno"> 8982</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d3/d14/a08832.html">Player</a>* owner = <a class="code hl_function" href="../../dc/d27/a04989.html#a9ede56180a13f102ad195136eadb97ee">ObjectAccessor::FindPlayer</a>(corpseTarget-&gt;GetOwnerGUID()))</div>
+<div class="line"><span class="lineno"> 8983</span>                unitTarget = owner;</div>
+<div class="line"><span class="lineno"> 8984</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 8985</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 8986</span>        }</div>
+<div class="line"><span class="lineno"> 8987</span>        <span class="keywordflow">if</span> (unitTarget)</div>
+<div class="line"><span class="lineno"> 8988</span>        {</div>
+<div class="line"><span class="lineno"> 8989</span>            <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d6/dbf/a11556.html#a0e629a6fd0da179ea0c98c93d2337603">_targetSelectionType</a>)</div>
+<div class="line"><span class="lineno"> 8990</span>            {</div>
+<div class="line"><span class="lineno"> 8991</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/d44/a00098.html#a392c69714f880d43f8afb5510ba1fff7a5e4199169c7f748b7f0d10d9f5f1ff67">TARGET_CHECK_ENEMY</a>:</div>
+<div class="line"><span class="lineno"> 8992</span>                    <span class="keywordflow">if</span> (unitTarget-&gt;<a class="code hl_function" href="../../d4/d43/a08960.html#ae1ce57b02474672763481af5c4e7ef6f">IsTotem</a>())</div>
+<div class="line"><span class="lineno"> 8993</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 8994</span>                    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/dbf/a11556.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d4/d43/a08960.html#afc27b06cec2419179037868f89114d82">_IsValidAttackTarget</a>(unitTarget, <a class="code hl_variable" href="../../d6/dbf/a11556.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>))</div>
+<div class="line"><span class="lineno"> 8995</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 8996</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 8997</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/d44/a00098.html#a392c69714f880d43f8afb5510ba1fff7aeefbf611727aa2696ebadd943c293cdd">TARGET_CHECK_ALLY</a>:</div>
+<div class="line"><span class="lineno"> 8998</span>                    <span class="keywordflow">if</span> (unitTarget-&gt;<a class="code hl_function" href="../../d4/d43/a08960.html#ae1ce57b02474672763481af5c4e7ef6f">IsTotem</a>())</div>
+<div class="line"><span class="lineno"> 8999</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9000</span>                    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/dbf/a11556.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d4/d43/a08960.html#a063342b925eb0e652cd08bb349dd26fc">_IsValidAssistTarget</a>(unitTarget, <a class="code hl_variable" href="../../d6/dbf/a11556.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>))</div>
+<div class="line"><span class="lineno"> 9001</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9002</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 9003</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/d44/a00098.html#a392c69714f880d43f8afb5510ba1fff7a21d39e4788e52ea08975265a2327f67c">TARGET_CHECK_PARTY</a>:</div>
+<div class="line"><span class="lineno"> 9004</span>                    <span class="keywordflow">if</span> (unitTarget-&gt;<a class="code hl_function" href="../../d4/d43/a08960.html#ae1ce57b02474672763481af5c4e7ef6f">IsTotem</a>())</div>
+<div class="line"><span class="lineno"> 9005</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9006</span>                    <span class="keywordflow">if</span> (unitTarget-&gt;<a class="code hl_function" href="../../d4/d43/a08960.html#aad9476ff8867ed8013781b2601f12d1f">IsGuardian</a>() &amp;&amp; !unitTarget-&gt;<a class="code hl_function" href="../../d4/d43/a08960.html#ac2aa9479ef123eb0d4ef02c642fe9b02">IsControllableGuardian</a>())</div>
+<div class="line"><span class="lineno"> 9007</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9008</span>                    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/dbf/a11556.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d4/d43/a08960.html#a063342b925eb0e652cd08bb349dd26fc">_IsValidAssistTarget</a>(unitTarget, <a class="code hl_variable" href="../../d6/dbf/a11556.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>))</div>
+<div class="line"><span class="lineno"> 9009</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9010</span>                    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/dbf/a11556.html#a1a24eaafdf716de984a5943e049d10f7">_referer</a>-&gt;<a class="code hl_function" href="../../d4/d43/a08960.html#aefb32cb21b4b745ed8fd3cc49644e5d7">IsInPartyWith</a>(unitTarget))</div>
+<div class="line"><span class="lineno"> 9011</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9012</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 9013</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/d44/a00098.html#a392c69714f880d43f8afb5510ba1fff7ac79ac0ccce5e22509ba327a9cacbe950">TARGET_CHECK_RAID_CLASS</a>:</div>
+<div class="line"><span class="lineno"> 9014</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/dbf/a11556.html#a1a24eaafdf716de984a5943e049d10f7">_referer</a>-&gt;<a class="code hl_function" href="../../d4/d43/a08960.html#a58a507ebe628930b8a506144b364d84b">getClass</a>() != unitTarget-&gt;<a class="code hl_function" href="../../d4/d43/a08960.html#a58a507ebe628930b8a506144b364d84b">getClass</a>())</div>
+<div class="line"><span class="lineno"> 9015</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9016</span>                    [[fallthrough]];</div>
+<div class="line"><span class="lineno"> 9017</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/d44/a00098.html#a392c69714f880d43f8afb5510ba1fff7afc1664906665ba50e82fed0e228a5b26">TARGET_CHECK_RAID</a>:</div>
+<div class="line"><span class="lineno"> 9018</span>                    <span class="keywordflow">if</span> (unitTarget-&gt;<a class="code hl_function" href="../../d4/d43/a08960.html#ae1ce57b02474672763481af5c4e7ef6f">IsTotem</a>())</div>
+<div class="line"><span class="lineno"> 9019</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9020</span>                    <span class="keywordflow">if</span> (unitTarget-&gt;<a class="code hl_function" href="../../d4/d43/a08960.html#aad9476ff8867ed8013781b2601f12d1f">IsGuardian</a>() &amp;&amp; !unitTarget-&gt;<a class="code hl_function" href="../../d4/d43/a08960.html#ac2aa9479ef123eb0d4ef02c642fe9b02">IsControllableGuardian</a>())</div>
+<div class="line"><span class="lineno"> 9021</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9022</span>                    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/dbf/a11556.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d4/d43/a08960.html#a063342b925eb0e652cd08bb349dd26fc">_IsValidAssistTarget</a>(unitTarget, <a class="code hl_variable" href="../../d6/dbf/a11556.html#a66bd07338943ee307be19f22326b29b7">_spellInfo</a>))</div>
+<div class="line"><span class="lineno"> 9023</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9024</span>                    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/dbf/a11556.html#a1a24eaafdf716de984a5943e049d10f7">_referer</a>-&gt;<a class="code hl_function" href="../../d4/d43/a08960.html#aba37c290cf4f3e5dbeb170714eb711b1">IsInRaidWith</a>(unitTarget))</div>
+<div class="line"><span class="lineno"> 9025</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9026</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 9027</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d1/d44/a00098.html#a392c69714f880d43f8afb5510ba1fff7a0285d6243f47bbae99d2f997c80c60f3">TARGET_CHECK_CORPSE</a>:</div>
+<div class="line"><span class="lineno"> 9028</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/dbf/a11556.html#ac090f8e47bcdfccb85fb791856355827">_caster</a>-&gt;<a class="code hl_function" href="../../d4/d43/a08960.html#abdfe022523c40277d917754f75edb722">IsFriendlyTo</a>(unitTarget))</div>
+<div class="line"><span class="lineno"> 9029</span>                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 9030</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 9031</span>                <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno"> 9032</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 9033</span>            }</div>
+<div class="line"><span class="lineno"> 9034</span>        }</div>
+<div class="line"><span class="lineno"> 9035</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d6/dbf/a11556.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a>)</div>
+<div class="line"><span class="lineno"> 9036</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 9037</span>        <a class="code hl_variable" href="../../d6/dbf/a11556.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a>-&gt;<a class="code hl_variable" href="../../df/db7/a08072.html#acb67deba44021698a447e8288bca0bd4">mConditionTargets</a>[0] = target;</div>
+<div class="line"><span class="lineno"> 9038</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="../../d4/d41/a01661.html#a5ab0412c3dc24dbd690ba6d7f01657f8">sConditionMgr</a>-&gt;IsObjectMeetToConditions(*<a class="code hl_variable" href="../../d6/dbf/a11556.html#a288c53998aa7b744f6e3eaeba68fe6d8">_condSrcInfo</a>, *<a class="code hl_variable" href="../../d6/dbf/a11556.html#a70b9331b5871e2e4d92d642715c8192a">_condList</a>);</div>
+<div class="line"><span class="lineno"> 9039</span>    }</div>
+<div class="ttc" id="aa00098_html_a392c69714f880d43f8afb5510ba1fff7a0285d6243f47bbae99d2f997c80c60f3"><div class="ttname"><a href="../../d1/d44/a00098.html#a392c69714f880d43f8afb5510ba1fff7a0285d6243f47bbae99d2f997c80c60f3">TARGET_CHECK_CORPSE</a></div><div class="ttdeci">@ TARGET_CHECK_CORPSE</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:122</div></div>
+<div class="ttc" id="aa00098_html_a392c69714f880d43f8afb5510ba1fff7a21d39e4788e52ea08975265a2327f67c"><div class="ttname"><a href="../../d1/d44/a00098.html#a392c69714f880d43f8afb5510ba1fff7a21d39e4788e52ea08975265a2327f67c">TARGET_CHECK_PARTY</a></div><div class="ttdeci">@ TARGET_CHECK_PARTY</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:118</div></div>
+<div class="ttc" id="aa00098_html_a392c69714f880d43f8afb5510ba1fff7a5e4199169c7f748b7f0d10d9f5f1ff67"><div class="ttname"><a href="../../d1/d44/a00098.html#a392c69714f880d43f8afb5510ba1fff7a5e4199169c7f748b7f0d10d9f5f1ff67">TARGET_CHECK_ENEMY</a></div><div class="ttdeci">@ TARGET_CHECK_ENEMY</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:116</div></div>
+<div class="ttc" id="aa00098_html_a392c69714f880d43f8afb5510ba1fff7ac79ac0ccce5e22509ba327a9cacbe950"><div class="ttname"><a href="../../d1/d44/a00098.html#a392c69714f880d43f8afb5510ba1fff7ac79ac0ccce5e22509ba327a9cacbe950">TARGET_CHECK_RAID_CLASS</a></div><div class="ttdeci">@ TARGET_CHECK_RAID_CLASS</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:120</div></div>
+<div class="ttc" id="aa00098_html_a392c69714f880d43f8afb5510ba1fff7aeefbf611727aa2696ebadd943c293cdd"><div class="ttname"><a href="../../d1/d44/a00098.html#a392c69714f880d43f8afb5510ba1fff7aeefbf611727aa2696ebadd943c293cdd">TARGET_CHECK_ALLY</a></div><div class="ttdeci">@ TARGET_CHECK_ALLY</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:117</div></div>
+<div class="ttc" id="aa00098_html_a392c69714f880d43f8afb5510ba1fff7afc1664906665ba50e82fed0e228a5b26"><div class="ttname"><a href="../../d1/d44/a00098.html#a392c69714f880d43f8afb5510ba1fff7afc1664906665ba50e82fed0e228a5b26">TARGET_CHECK_RAID</a></div><div class="ttdeci">@ TARGET_CHECK_RAID</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:119</div></div>
+<div class="ttc" id="aa01661_html_a5ab0412c3dc24dbd690ba6d7f01657f8"><div class="ttname"><a href="../../d4/d41/a01661.html#a5ab0412c3dc24dbd690ba6d7f01657f8">sConditionMgr</a></div><div class="ttdeci">#define sConditionMgr</div><div class="ttdef"><b>Definition:</b> ConditionMgr.h:292</div></div>
+<div class="ttc" id="aa04127_html_ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6"><div class="ttname"><a href="../../dd/d90/a04127.html#ade9b4e913a84079f5311c2817e3de9daadb56426fd2113c3ff3ff3d1815d79fa6">SPELL_CAST_OK</a></div><div class="ttdeci">@ SPELL_CAST_OK</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1149</div></div>
+<div class="ttc" id="aa04989_html_a9ede56180a13f102ad195136eadb97ee"><div class="ttname"><a href="../../dc/d27/a04989.html#a9ede56180a13f102ad195136eadb97ee">ObjectAccessor::FindPlayer</a></div><div class="ttdeci">Player * FindPlayer(ObjectGuid const guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:245</div></div>
+<div class="ttc" id="aa08072_html_acb67deba44021698a447e8288bca0bd4"><div class="ttname"><a href="../../df/db7/a08072.html#acb67deba44021698a447e8288bca0bd4">ConditionSourceInfo::mConditionTargets</a></div><div class="ttdeci">WorldObject * mConditionTargets[MAX_CONDITION_TARGETS]</div><div class="ttdef"><b>Definition:</b> ConditionMgr.h:185</div></div>
+<div class="ttc" id="aa08200_html"><div class="ttname"><a href="../../da/d3e/a08200.html">Corpse</a></div><div class="ttdef"><b>Definition:</b> Corpse.h:49</div></div>
+<div class="ttc" id="aa08580_html_a08e7f00f2af14976d7b9c0da6d6f6bd0"><div class="ttname"><a href="../../da/d14/a08580.html#a08e7f00f2af14976d7b9c0da6d6f6bd0">Object::ToCorpse</a></div><div class="ttdeci">Corpse * ToCorpse()</div><div class="ttdef"><b>Definition:</b> Object.h:217</div></div>
+<div class="ttc" id="aa08580_html_afd88f95deffad982ca0b5ef16b6244e8"><div class="ttname"><a href="../../da/d14/a08580.html#afd88f95deffad982ca0b5ef16b6244e8">Object::ToUnit</a></div><div class="ttdeci">Unit * ToUnit()</div><div class="ttdef"><b>Definition:</b> Object.h:209</div></div>
+<div class="ttc" id="aa08832_html"><div class="ttname"><a href="../../d3/d14/a08832.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1084</div></div>
+<div class="ttc" id="aa08960_html"><div class="ttname"><a href="../../d4/d43/a08960.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:665</div></div>
+<div class="ttc" id="aa08960_html_a063342b925eb0e652cd08bb349dd26fc"><div class="ttname"><a href="../../d4/d43/a08960.html#a063342b925eb0e652cd08bb349dd26fc">Unit::_IsValidAssistTarget</a></div><div class="ttdeci">bool _IsValidAssistTarget(Unit const *target, SpellInfo const *bySpell) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10948</div></div>
+<div class="ttc" id="aa08960_html_a58a507ebe628930b8a506144b364d84b"><div class="ttname"><a href="../../d4/d43/a08960.html#a58a507ebe628930b8a506144b364d84b">Unit::getClass</a></div><div class="ttdeci">uint8 getClass() const</div><div class="ttdef"><b>Definition:</b> Unit.h:844</div></div>
+<div class="ttc" id="aa08960_html_aad9476ff8867ed8013781b2601f12d1f"><div class="ttname"><a href="../../d4/d43/a08960.html#aad9476ff8867ed8013781b2601f12d1f">Unit::IsGuardian</a></div><div class="ttdeci">bool IsGuardian() const</div><div class="ttdef"><b>Definition:</b> Unit.h:796</div></div>
+<div class="ttc" id="aa08960_html_aba37c290cf4f3e5dbeb170714eb711b1"><div class="ttname"><a href="../../d4/d43/a08960.html#aba37c290cf4f3e5dbeb170714eb711b1">Unit::IsInRaidWith</a></div><div class="ttdeci">bool IsInRaidWith(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:15163</div></div>
+<div class="ttc" id="aa08960_html_abdfe022523c40277d917754f75edb722"><div class="ttname"><a href="../../d4/d43/a08960.html#abdfe022523c40277d917754f75edb722">Unit::IsFriendlyTo</a></div><div class="ttdeci">bool IsFriendlyTo(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:7205</div></div>
+<div class="ttc" id="aa08960_html_ac2aa9479ef123eb0d4ef02c642fe9b02"><div class="ttname"><a href="../../d4/d43/a08960.html#ac2aa9479ef123eb0d4ef02c642fe9b02">Unit::IsControllableGuardian</a></div><div class="ttdeci">bool IsControllableGuardian() const</div><div class="ttdef"><b>Definition:</b> Unit.h:797</div></div>
+<div class="ttc" id="aa08960_html_ae1ce57b02474672763481af5c4e7ef6f"><div class="ttname"><a href="../../d4/d43/a08960.html#ae1ce57b02474672763481af5c4e7ef6f">Unit::IsTotem</a></div><div class="ttdeci">bool IsTotem() const</div><div class="ttdef"><b>Definition:</b> Unit.h:800</div></div>
+<div class="ttc" id="aa08960_html_aefb32cb21b4b745ed8fd3cc49644e5d7"><div class="ttname"><a href="../../d4/d43/a08960.html#aefb32cb21b4b745ed8fd3cc49644e5d7">Unit::IsInPartyWith</a></div><div class="ttdeci">bool IsInPartyWith(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:15140</div></div>
+<div class="ttc" id="aa08960_html_afc27b06cec2419179037868f89114d82"><div class="ttname"><a href="../../d4/d43/a08960.html#afc27b06cec2419179037868f89114d82">Unit::_IsValidAttackTarget</a></div><div class="ttdeci">bool _IsValidAttackTarget(Unit const *target, SpellInfo const *bySpell, WorldObject const *obj=nullptr) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10810</div></div>
+<div class="ttc" id="aa11604_html_acecc64b4ea8cbc67475fa17bfd393c39"><div class="ttname"><a href="../../da/d41/a11604.html#acecc64b4ea8cbc67475fa17bfd393c39">SpellInfo::CheckTarget</a></div><div class="ttdeci">SpellCastResult CheckTarget(Unit const *caster, WorldObject const *target, bool implicit=true) const</div><div class="ttdef"><b>Definition:</b> SpellInfo.cpp:1642</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00809">_caster</a>, <a class="el" href="../../#l00814">_condList</a>, <a class="el" href="../../#l00813">_condSrcInfo</a>, <a class="el" href="../../#l10948">Unit::_IsValidAssistTarget()</a>, <a class="el" href="../../#l10810">Unit::_IsValidAttackTarget()</a>, <a class="el" href="../../#l00810">_referer</a>, <a class="el" href="../../#l00811">_spellInfo</a>, <a class="el" href="../../#l00812">_targetSelectionType</a>, <a class="el" href="../../#l01642">SpellInfo::CheckTarget()</a>, <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00844">Unit::getClass()</a>, <a class="el" href="../../#l00797">Unit::IsControllableGuardian()</a>, <a class="el" href="../../#l07205">Unit::IsFriendlyTo()</a>, <a class="el" href="../../#l00796">Unit::IsGuardian()</a>, <a class="el" href="../../#l15140">Unit::IsInPartyWith()</a>, <a class="el" href="../../#l15163">Unit::IsInRaidWith()</a>, <a class="el" href="../../#l00800">Unit::IsTotem()</a>, <a class="el" href="../../#l00185">ConditionSourceInfo::mConditionTargets</a>, <a class="el" href="../../#l00292">sConditionMgr</a>, <a class="el" href="../../#l01149">SPELL_CAST_OK</a>, <a class="el" href="../../#l00117">TARGET_CHECK_ALLY</a>, <a class="el" href="../../#l00122">TARGET_CHECK_CORPSE</a>, <a class="el" href="../../#l00116">TARGET_CHECK_ENEMY</a>, <a class="el" href="../../#l00118">TARGET_CHECK_PARTY</a>, <a class="el" href="../../#l00119">TARGET_CHECK_RAID</a>, <a class="el" href="../../#l00120">TARGET_CHECK_RAID_CLASS</a>, <a class="el" href="../../#l00217">Object::ToCorpse()</a>, and <a class="el" href="../../#l00209">Object::ToUnit()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l09064">Acore::WorldObjectSpellAreaTargetCheck::operator()()</a>, and <a class="el" href="../../#l09110">Acore::WorldObjectSpellTrajTargetCheck::operator()()</a>.</p>
+
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a6982985537c0ddb8dd79647766c9ae70" name="a6982985537c0ddb8dd79647766c9ae70"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6982985537c0ddb8dd79647766c9ae70">&#9670;&#160;</a></span>pObjectTargetSelectHandlerScript</h2>
+<a id="ac090f8e47bcdfccb85fb791856355827" name="ac090f8e47bcdfccb85fb791856355827"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac090f8e47bcdfccb85fb791856355827">&#9670;&#160;</a></span>_caster</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">SpellObjectTargetSelectFnType SpellScript::ObjectTargetSelectHandler::pObjectTargetSelectHandlerScript</td>
+          <td class="memname"><a class="el" href="../../d4/d43/a08960.html">Unit</a>* Acore::WorldObjectSpellTargetCheck::_caster</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00294">ObjectTargetSelectHandler()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l08974">operator()()</a>, <a class="el" href="../../#l09084">Acore::WorldObjectSpellConeTargetCheck::operator()()</a>, and <a class="el" href="../../#l09110">Acore::WorldObjectSpellTrajTargetCheck::operator()()</a>.</p>
+
+</div>
+</div>
+<a id="a70b9331b5871e2e4d92d642715c8192a" name="a70b9331b5871e2e4d92d642715c8192a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a70b9331b5871e2e4d92d642715c8192a">&#9670;&#160;</a></span>_condList</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/d41/a01661.html#ae942a8e25dc24ce42e62625bb583c0dd">ConditionList</a>* Acore::WorldObjectSpellTargetCheck::_condList</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l08974">operator()()</a>.</p>
+
+</div>
+</div>
+<a id="a288c53998aa7b744f6e3eaeba68fe6d8" name="a288c53998aa7b744f6e3eaeba68fe6d8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a288c53998aa7b744f6e3eaeba68fe6d8">&#9670;&#160;</a></span>_condSrcInfo</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../df/db7/a08072.html">ConditionSourceInfo</a>* Acore::WorldObjectSpellTargetCheck::_condSrcInfo</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l08974">operator()()</a>, <a class="el" href="../../#l08958">WorldObjectSpellTargetCheck()</a>, and <a class="el" href="../../#l08968">~WorldObjectSpellTargetCheck()</a>.</p>
+
+</div>
+</div>
+<a id="a1a24eaafdf716de984a5943e049d10f7" name="a1a24eaafdf716de984a5943e049d10f7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1a24eaafdf716de984a5943e049d10f7">&#9670;&#160;</a></span>_referer</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/d43/a08960.html">Unit</a>* Acore::WorldObjectSpellTargetCheck::_referer</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l08974">operator()()</a>.</p>
+
+</div>
+</div>
+<a id="a66bd07338943ee307be19f22326b29b7" name="a66bd07338943ee307be19f22326b29b7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a66bd07338943ee307be19f22326b29b7">&#9670;&#160;</a></span>_spellInfo</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const* Acore::WorldObjectSpellTargetCheck::_spellInfo</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l08974">operator()()</a>, and <a class="el" href="../../#l09084">Acore::WorldObjectSpellConeTargetCheck::operator()()</a>.</p>
+
+</div>
+</div>
+<a id="a0e629a6fd0da179ea0c98c93d2337603" name="a0e629a6fd0da179ea0c98c93d2337603"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0e629a6fd0da179ea0c98c93d2337603">&#9670;&#160;</a></span>_targetSelectionType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/d44/a00098.html#a392c69714f880d43f8afb5510ba1fff7">SpellTargetCheckTypes</a> Acore::WorldObjectSpellTargetCheck::_targetSelectionType</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l08974">operator()()</a>.</p>
 
 </div>
 </div>
@@ -277,8 +453,8 @@ Additional Inherited Members</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../de/d89/a11524.html">SpellScript</a></li><li class="navelem"><a class="el" href="../../d6/dbf/a11556.html">ObjectTargetSelectHandler</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:12:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/d47/a04938.html">Acore</a></li><li class="navelem"><a class="el" href="../../d6/dbf/a11556.html">WorldObjectSpellTargetCheck</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:16:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

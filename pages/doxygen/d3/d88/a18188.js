@@ -1,7 +1,6 @@
 var a18188 =
 [
-    [ "HandleSummon", "d3/d88/a18188.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "d3/d88/a18188.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "d3/d88/a18188.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "d3/d88/a18188.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "npc_darnavanAI", "d4/d90/a18192.html", "d4/d90/a18192" ],
+    [ "npc_darnavan", "d3/d88/a18188.html#ac358ca123155165395fa5f7ec02c9dab", null ],
+    [ "GetAI", "d3/d88/a18188.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
 ];

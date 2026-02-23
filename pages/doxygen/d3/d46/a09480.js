@@ -1,8 +1,8 @@
 var a09480 =
 [
-    [ "CallOfHelpCreatureInRangeDo", "d3/d46/a09480.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
-    [ "operator()", "d3/d46/a09480.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
-    [ "i_enemy", "d3/d46/a09480.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
-    [ "i_funit", "d3/d46/a09480.html#aff1768cd844e4e23821cf78f9d360e06", null ],
-    [ "i_range", "d3/d46/a09480.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
+    [ "CreatureWorker", "d3/d46/a09480.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
+    [ "Visit", "d3/d46/a09480.html#ae67044250380c521055f80c55de0bba5", null ],
+    [ "Visit", "d3/d46/a09480.html#aa9a450b147aafe46a49135f5c5be668e", null ],
+    [ "i_do", "d3/d46/a09480.html#ac22f86d9a41701e7527d4840da256f11", null ],
+    [ "i_phaseMask", "d3/d46/a09480.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
 ];

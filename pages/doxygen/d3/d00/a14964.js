@@ -1,8 +1,9 @@
 var a14964 =
 [
-    [ "hyjalThrallAI", "d3/d00/a14964.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
-    [ "JustDied", "d3/d00/a14964.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
-    [ "JustEngagedWith", "d3/d00/a14964.html#a96706138634275ae7639c14f53cdd842", null ],
-    [ "Reset", "d3/d00/a14964.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
-    [ "UpdateAI", "d3/d00/a14964.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
+    [ "HandlePeriodic", "d3/d00/a14964.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
+    [ "Load", "d3/d00/a14964.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
+    [ "PrepareAuraScript", "d3/d00/a14964.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
+    [ "Register", "d3/d00/a14964.html#ac331de3219ae7da9e35e962011540bdf", null ],
+    [ "Validate", "d3/d00/a14964.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
+    [ "_buffGiven", "d3/d00/a14964.html#aec2476ad5e046213b90af04ad91f0230", null ]
 ];

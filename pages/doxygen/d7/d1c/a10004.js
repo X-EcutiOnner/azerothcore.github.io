@@ -1,6 +1,7 @@
 var a10004 =
 [
-    [ "IsNeutralOrFriendlyToTeam", "d7/d1c/a10004.html#aeeea8efaff8fe3f5044a7d5627a89cb6", null ],
-    [ "safeLocId", "d7/d1c/a10004.html#a4f6003cc76b70c83fbb8301cc9d5a7ad", null ],
-    [ "teamId", "d7/d1c/a10004.html#a287b04900d70f8ff8c6f6542edbd40a6", null ]
+    [ "ZRangeBoundary", "d7/d1c/a10004.html#ab9c77783e059de4478625f7c97713c49", null ],
+    [ "IsWithinBoundaryArea", "d7/d1c/a10004.html#af1410b3eeb9e7096b1cc53caa7edd68f", null ],
+    [ "_maxZ", "d7/d1c/a10004.html#a7226d6a69b9fb922a2ac06300ab060d8", null ],
+    [ "_minZ", "d7/d1c/a10004.html#aee142d5bc4cfae80584b84ae451da05c", null ]
 ];

@@ -1,5 +1,5 @@
 var dir_d8666fd2ba86beec6989660fbdf6542b =
 [
-    [ "DetourExtended.cpp", "d6/db8/a00158.html", null ],
-    [ "DetourExtended.h", "d6/d7d/a00161.html", "d6/d7d/a00161" ]
+    [ "DetourExtended.cpp", "d5/de3/a04457.html", null ],
+    [ "DetourExtended.h", "d0/ddf/a04460.html", "d0/ddf/a04460" ]
 ];

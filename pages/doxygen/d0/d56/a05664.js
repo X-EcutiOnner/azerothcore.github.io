@@ -1,11 +1,8 @@
 var a05664 =
 [
-    [ "PeriodicTimer", "d0/d56/a05664.html#a82820c45f47f423315fe761f9c45c3b5", null ],
-    [ "SetPeriodic", "d0/d56/a05664.html#abea9c11f88ef0ef48c16a24584774b5b", null ],
-    [ "TPassed", "d0/d56/a05664.html#a3fdac0a26ee6f5db8d536ae44907930d", null ],
-    [ "TReset", "d0/d56/a05664.html#af4e78fc1284797b50c2951c10f92b641", null ],
-    [ "TUpdate", "d0/d56/a05664.html#a1b013fe47a2dfb131110d3a29ccf9868", null ],
-    [ "Update", "d0/d56/a05664.html#a535bd070d606ba5a8621469a7ddd3449", null ],
-    [ "i_expireTime", "d0/d56/a05664.html#a7b889a1fbbf905c952834fb8d745f4a6", null ],
-    [ "i_period", "d0/d56/a05664.html#a5b45d28e36d665190323f34776b87796", null ]
+    [ "Event", "d0/d56/a05664.html#acd0d1988a60808384e2cc0dba8735cd3", null ],
+    [ "Event", "d0/d56/a05664.html#a0c6f6d46b2210c42e41fbeb1241c9e7d", null ],
+    [ "_groupMask", "d0/d56/a05664.html#a7f752259eafab986537db2d70c56d211", null ],
+    [ "_id", "d0/d56/a05664.html#a7b60d3d526fd45833d87165d8356f896", null ],
+    [ "_phaseMask", "d0/d56/a05664.html#afce8fa5e187a1c2110a06c70707db247", null ]
 ];

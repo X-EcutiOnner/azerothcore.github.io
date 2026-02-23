@@ -1,13 +1,9 @@
 var a05644 =
 [
-    [ "Clear", "da/d28/a05644.html#adc64d35670bf0d41519cb9998d3db17e", null ],
-    [ "First", "da/d28/a05644.html#a8bbd41b304f7e69df565af75f4846bda", null ],
-    [ "GetNextGroupOccurrence", "da/d28/a05644.html#af2cb38062e4d62558d520be75b01bedb", null ],
-    [ "IsEmpty", "da/d28/a05644.html#a151898f14e9a1628ddb52b6840fcc4fc", null ],
-    [ "IsGroupQueued", "da/d28/a05644.html#ada8edd51338da19db3f282ccc6229516", null ],
-    [ "ModifyIf", "da/d28/a05644.html#a0ad5b4de404b1f8312341a28a1a58b5b", null ],
-    [ "Pop", "da/d28/a05644.html#a5f5d6b5a4a5e4ec93ff94619485736cb", null ],
-    [ "Push", "da/d28/a05644.html#aff6bc8c7fae6640b555ddb027cf0f6ab", null ],
-    [ "RemoveIf", "da/d28/a05644.html#a6efe3145679913fde4d4cc1f8cc819e6", null ],
-    [ "container", "da/d28/a05644.html#acc56bddf7e586a3a950f608efb730498", null ]
+    [ "Base", "dc/d02/a05648.html", "dc/d02/a05648" ],
+    [ "Erase", "da/d28/a05644.html#a2c7b450c8781824135765e5d82b0272e", null ],
+    [ "Get", "da/d28/a05644.html#aa8f56bb08a6245792a75305ba2fcce82", null ],
+    [ "GetDefault", "da/d28/a05644.html#ad53ddbe486c994277adbb96e1c644112", null ],
+    [ "Set", "da/d28/a05644.html#a93bf2535b14236df9703e485ef816b36", null ],
+    [ "Container", "da/d28/a05644.html#a3a559027ba0a64e4af2f02218ce1c910", null ]
 ];

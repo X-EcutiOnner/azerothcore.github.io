@@ -1,6 +1,6 @@
 var a02570 =
 [
-    [ "fireworkShowGameobjectThunderBluff", "d1/d0c/a02570.html#ab3cf2de65fa26d7c56cf3a4e0f4a56e1", null ],
-    [ "fireworkShowScheduleThunderBluff", "d1/d0c/a02570.html#ac35fd5df42f24906b21b6887860b96a5", null ],
-    [ "fireworkShowThunderBluff", "d1/d0c/a02570.html#ae9cf9fa234ec7db55622bede66c21f78", null ]
+    [ "fireworkShowGameobjectOrgrimmar", "d1/d0c/a02570.html#aa00988212bcd8875445e2b120c00025c", null ],
+    [ "fireworkShowOrgrimmar", "d1/d0c/a02570.html#a20e15c8e61c734af478a4849bd54c9d3", null ],
+    [ "fireworkShowScheduleOrgrimmar", "d1/d0c/a02570.html#a2e2ca4fa893601a2122f94a72c18401f", null ]
 ];

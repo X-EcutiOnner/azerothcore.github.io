@@ -1,7 +1,12 @@
 var a10392 =
 [
-    [ "DatabaseScript", "df/d30/a10392.html#aab34b85df1a5ccdf17fede64baca4994", null ],
-    [ "IsDatabaseBound", "df/d30/a10392.html#af4321bb95ed9bb3bb0e5a8a93c89c235", null ],
-    [ "OnAfterDatabaseLoadCreatureTemplates", "df/d30/a10392.html#a2f4e91e2b1192c0ceb399cd93eb33ee3", null ],
-    [ "OnAfterDatabasesLoaded", "df/d30/a10392.html#ab52afc833cb462693f5e0d79cff6bb3f", null ]
+    [ "QuestLocale", "df/d30/a10392.html#a887d474a470ee0278fb4b465a7ad9547", null ],
+    [ "AreaDescription", "df/d30/a10392.html#a5c6c5a8d1fb500afef514c80c9d87e4e", null ],
+    [ "CompletedText", "df/d30/a10392.html#aad432417f836b2cbe03d3e53e4e76f14", null ],
+    [ "Details", "df/d30/a10392.html#afd23d37c92f2b28e1c125bba0d670497", null ],
+    [ "Objectives", "df/d30/a10392.html#ae1ecea0f255f34b547302bfc2c0b6ad4", null ],
+    [ "ObjectiveText", "df/d30/a10392.html#ae41f7f50ab68e5783ceec37e6f8ff5b0", null ],
+    [ "OfferRewardText", "df/d30/a10392.html#aaba6d07625232a77e3457454f7d4fa77", null ],
+    [ "RequestItemsText", "df/d30/a10392.html#a764d2092084454844e59c484fb637017", null ],
+    [ "Title", "df/d30/a10392.html#ab75b38241e31b9137c1d85334b3a3f30", null ]
 ];

@@ -1,6 +1,11 @@
 var a13492 =
 [
-    [ "instance_sunken_temple_InstanceMapScript", "dd/d19/a13496.html", "dd/d19/a13496" ],
-    [ "instance_sunken_temple", "d4/d37/a13492.html#a123b052c1cd1487588c88bf2611bc53b", null ],
-    [ "GetInstanceScript", "d4/d37/a13492.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
+    [ "npc_valkyr_battle_maidenAI", "d4/d37/a13492.html#a859b63621c500c7a36150fadbb460b2b", null ],
+    [ "Reset", "d4/d37/a13492.html#a3ca06a5822f1b5ae625b1dcc71ec0c30", null ],
+    [ "UpdateAI", "d4/d37/a13492.html#a33251b8d8abb9b46a5af4cb4e92472b8", null ],
+    [ "FlyBackTimer", "d4/d37/a13492.html#a625eb33fb32f935c5109a8d3d70c5ae7", null ],
+    [ "phase", "d4/d37/a13492.html#abd5d71272aa575be8583254217194e49", null ],
+    [ "x", "d4/d37/a13492.html#a2dbae2865b6c6db4e82b7d1dc8a67739", null ],
+    [ "y", "d4/d37/a13492.html#acccea63fedf38de14f7818016830a0a9", null ],
+    [ "z", "d4/d37/a13492.html#adde328d26ad752a9e5f2ab32eab2a4e0", null ]
 ];

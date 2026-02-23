@@ -1,15 +1,11 @@
 var a14740 =
 [
-    [ "npc_midsummer_bonfire", "d2/d55/a14740.html#a07c8b1add555697fdb29fda89f42c4af", null ],
-    [ "Ignite", "d2/d55/a14740.html#a2a398299b3584e3a871b1b6e83b4ff5f", null ],
-    [ "InitBonfire", "d2/d55/a14740.html#a9210a0a472d609f66895bfa0a8e324b0", null ],
-    [ "SpellHit", "d2/d55/a14740.html#a9ad2102b2dea60fbb81c1578b97f34dc", null ],
-    [ "StampOut", "d2/d55/a14740.html#a1f8bd11d0f49c0a44764a2f34e6ee147", null ],
-    [ "UpdateAI", "d2/d55/a14740.html#a46733a171006e4693a32391cfe954050", null ],
-    [ "UpdateBonfireBlessingBuffs", "d2/d55/a14740.html#a1236b61f21ff1a1b85bbc7058ca8e17c", null ],
-    [ "_bonfire", "d2/d55/a14740.html#aaa2f2822cb5c104ec2d90c2a344b409d", null ],
-    [ "_isStampedOut", "d2/d55/a14740.html#aa21c9f7a5d7ac29663d94da55ef34373", null ],
-    [ "_spellFocus", "d2/d55/a14740.html#abef815568f7d39bbda20f9611e3abc52", null ],
-    [ "_teamId", "d2/d55/a14740.html#a5c0894721d13dd49961c0687c100d7a5", null ],
-    [ "_type", "d2/d55/a14740.html#a7c26b81f24dc2fc0ed9fc53d1d5935f5", null ]
+    [ "npc_the_etymidian", "d2/d55/a14740.html#af491016ac89b67947650a5ca9c379875", null ],
+    [ "MoveInLineOfSight", "d2/d55/a14740.html#adde2d86e30442eb1b47219e934e24407", null ],
+    [ "Reset", "d2/d55/a14740.html#a714edf3ba5f7a6d59242c991764effc5", null ],
+    [ "UpdateAI", "d2/d55/a14740.html#a1f3cfddae43e443c5cd4a8a0f9f87a89", null ],
+    [ "orphanGUID", "d2/d55/a14740.html#a9ba2c34b08d0fe61e18037b02f352d08", null ],
+    [ "phase", "d2/d55/a14740.html#a7086e9a8a8a7287cf90688270e9933a7", null ],
+    [ "playerGUID", "d2/d55/a14740.html#a7371e361c018360315e20086b0b99079", null ],
+    [ "timer", "d2/d55/a14740.html#a8508a2c89eeeee2d235e1178ca77e895", null ]
 ];

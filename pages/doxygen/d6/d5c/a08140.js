@@ -1,8 +1,14 @@
 var a08140 =
 [
-    [ "bounding_radius", "d6/d5c/a08140.html#a9f4a794b06bcbe31fc0a104cc97b91a4", null ],
-    [ "combat_reach", "d6/d5c/a08140.html#ac271edb10093db19e4df1396053f820d", null ],
-    [ "gender", "d6/d5c/a08140.html#aa5c8134851ff4f7ab6ad2af3b6e1dc1e", null ],
-    [ "is_trigger", "d6/d5c/a08140.html#a52dbfa82e1525df681b87ab07ba8ead0", null ],
-    [ "modelid_other_gender", "d6/d5c/a08140.html#a222b3c513a64b385954ea549e67f4255", null ]
+    [ "LfgQueueStatusData", "d6/d5c/a08140.html#af50fc3422feb137a7ccd820e2ac2fe44", null ],
+    [ "dps", "d6/d5c/a08140.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a", null ],
+    [ "dungeonId", "d6/d5c/a08140.html#a9a6288f9e14e593e147b4f60a1dc8991", null ],
+    [ "healers", "d6/d5c/a08140.html#a61b2c2f4391022c7e4ba3972c4467a74", null ],
+    [ "queuedTime", "d6/d5c/a08140.html#a398efafa1ef7faa6600d6fdb28306f49", null ],
+    [ "tanks", "d6/d5c/a08140.html#a74f54d22ca9e2b6711bf363737b9ff06", null ],
+    [ "waitTime", "d6/d5c/a08140.html#aa794f234bf93e66916f7eadb986f17ef", null ],
+    [ "waitTimeAvg", "d6/d5c/a08140.html#af44b91dd7ddfb702662663f989f026fc", null ],
+    [ "waitTimeDps", "d6/d5c/a08140.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf", null ],
+    [ "waitTimeHealer", "d6/d5c/a08140.html#abf57fbbaac89b08bacf0731e3a8b65e3", null ],
+    [ "waitTimeTank", "d6/d5c/a08140.html#a73cdcd16181375a7d428e6b50cb1e1e6", null ]
 ];

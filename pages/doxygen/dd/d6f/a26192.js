@@ -1,7 +1,7 @@
 var a26192 =
 [
-    [ "CheckCast", "dd/d6f/a26192.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
-    [ "HandleEffect", "dd/d6f/a26192.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
-    [ "PrepareSpellScript", "dd/d6f/a26192.html#aa63cb903e7c6037a6c08381334ccc126", null ],
-    [ "Register", "dd/d6f/a26192.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
+    [ "HandleProc", "dd/d6f/a26192.html#a96626872760ab607782e7e37ca04c709", null ],
+    [ "PrepareAuraScript", "dd/d6f/a26192.html#adff2f298c4bf31f82e06986f94a8e73d", null ],
+    [ "Register", "dd/d6f/a26192.html#ad2010635f85ec3a96a3cd2b1dcb09f2f", null ],
+    [ "Validate", "dd/d6f/a26192.html#a869c5a4800371d63a7b05767262b0a7d", null ]
 ];

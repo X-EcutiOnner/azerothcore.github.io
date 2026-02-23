@@ -1,9 +1,9 @@
 var a14472 =
 [
-    [ "HandleEffectPeriodic", "d6/db8/a14472.html#a798c8ddfc71e703bfe1e3c1f2d926cef", null ],
-    [ "HandleEffectRemove", "d6/db8/a14472.html#a96ed7366e568b70e82d622586740aa56", null ],
-    [ "Load", "d6/db8/a14472.html#a85cbc44e586330e2adfc0656a428bd7b", null ],
-    [ "PrepareAuraScript", "d6/db8/a14472.html#abd1f851112a50b79e815cdd894275bab", null ],
-    [ "Register", "d6/db8/a14472.html#aa3cd85aed063017c4737e7660fa81f37", null ],
-    [ "questTick", "d6/db8/a14472.html#ae2980e5f4934ce2ba5b755b7d45fab82", null ]
+    [ "boss_jindo", "d6/db8/a14472.html#a9aafe0282e0b5de90ce62b3f8b3cfb14", null ],
+    [ "EnterEvadeMode", "d6/db8/a14472.html#a8b80f12d0b9b8e9c7aa7ec46fbb71500", null ],
+    [ "JustEngagedWith", "d6/db8/a14472.html#a7f612a1e5033c5097856222cee41f2af", null ],
+    [ "JustSummoned", "d6/db8/a14472.html#ac7382289d174ec70703b76dc4e451d39", null ],
+    [ "UpdateAI", "d6/db8/a14472.html#aad8885f79fc527954102fc1b78ca8ad7", null ],
+    [ "_scheduler", "d6/db8/a14472.html#a7ddbdc4d85936fd54fced20ff31e91cd", null ]
 ];

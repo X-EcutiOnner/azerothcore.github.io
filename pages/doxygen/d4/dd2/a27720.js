@@ -1,6 +1,7 @@
 var a27720 =
 [
-    [ "npc_preciousAI", "d9/d94/a27724.html", "d9/d94/a27724" ],
-    [ "npc_precious", "d4/dd2/a27720.html#a3c3ad9da13de64498cabc8e252e99ab2", null ],
-    [ "GetAI", "d4/dd2/a27720.html#a754ad85c8b1942b400a47c28297bad62", null ]
+    [ "HandleProc", "d4/dd2/a27720.html#a28f109c403d3bb46dd4f9c18057cfcd9", null ],
+    [ "PrepareAuraScript", "d4/dd2/a27720.html#a0eb7295583f2c45c88ae266d66813b5b", null ],
+    [ "Register", "d4/dd2/a27720.html#ab8848a011ec8397bc5712ced54e09432", null ],
+    [ "Validate", "d4/dd2/a27720.html#ae35703b7d676fde170241dd64c3c5411", null ]
 ];

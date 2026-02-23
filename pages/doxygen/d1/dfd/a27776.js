@@ -1,6 +1,8 @@
 var a27776 =
 [
-    [ "npc_training_dummyAI", "de/d29/a27780.html", "de/d29/a27780" ],
-    [ "npc_training_dummy", "d1/dfd/a27776.html#acfed4da3b1a01bc58e599d2dc134cb7d", null ],
-    [ "GetAI", "d1/dfd/a27776.html#a87a48a42e8349ce9125de91a429d4ffa", null ]
+    [ "HandleEffect", "d1/dfd/a27776.html#a1c1a06362742abcf83e1817c468de3d3", null ],
+    [ "PrepareSpellScript", "d1/dfd/a27776.html#a0e2cce13a3b2c8b8e9ace8876def8b9c", null ],
+    [ "Register", "d1/dfd/a27776.html#a56108b37bc69809ce80d424e2bcb3f55", null ],
+    [ "SendMiss", "d1/dfd/a27776.html#afda727460aebc8fe97d5c18d0195ea2c", null ],
+    [ "Validate", "d1/dfd/a27776.html#ab9533351a176f4e0d641a6e36a75d6b9", null ]
 ];

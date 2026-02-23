@@ -1,11 +1,15 @@
 var a14376 =
 [
-    [ "boss_marli", "de/d10/a14376.html#abba94b400523047bfa9e3a5b34b1ee54", null ],
-    [ "_chargePlayer", "de/d10/a14376.html#a54efa8663716fb32d6e390b76dc89ee1", null ],
-    [ "_schedulePhaseSpider", "de/d10/a14376.html#aff86376080fdcb9773e0a4b2751d3ae6", null ],
-    [ "_schedulePhaseTroll", "de/d10/a14376.html#ad6977930dac1cddd2162f7db1b239c83", null ],
-    [ "JustDied", "de/d10/a14376.html#a10ab29949ef17e0f9ebd991dc70262c7", null ],
-    [ "JustEngagedWith", "de/d10/a14376.html#ac74bd382c3dc826f7e4426bec3557094", null ],
-    [ "Reset", "de/d10/a14376.html#ada18ae0feb0c512267ec6bd83b8ac591", null ],
-    [ "_phase", "de/d10/a14376.html#af2b3f0e75ad60b6a9d013a3e9654021e", null ]
+    [ "boss_arlokkAI", "de/d10/a14376.html#adb598bf47620cd077fb689fb8f9a4ad8", null ],
+    [ "EnterEvadeMode", "de/d10/a14376.html#a8553c4d173e7c39315f022f69587c6c0", null ],
+    [ "JustDied", "de/d10/a14376.html#ac03a6599a5b41e01bd4ed9ebd55cc0ba", null ],
+    [ "JustEngagedWith", "de/d10/a14376.html#ac4ee55299a9389c4fee1ad96140b00d0", null ],
+    [ "JustReachedHome", "de/d10/a14376.html#ab0499a80ea8406457e6bfaac96eae975", null ],
+    [ "Reset", "de/d10/a14376.html#a3ea2c720ac5c4b1fa6ea4d2eb8bf163f", null ],
+    [ "SetData", "de/d10/a14376.html#a7eedf1d1b55740698c314d4afbb2b0b2", null ],
+    [ "UpdateAI", "de/d10/a14376.html#a3a2d07d42be88244c0c72b998792dd28", null ],
+    [ "_summonCountA", "de/d10/a14376.html#a77f83909fca59d1c5d72dc583d7ec22e", null ],
+    [ "_summonCountB", "de/d10/a14376.html#a7e7d091ea00fb42e7f97cb79168e0dc3", null ],
+    [ "_triggersSideAGUID", "de/d10/a14376.html#aedc8dda728ed849f33dc83396da51bce", null ],
+    [ "_triggersSideBGUID", "de/d10/a14376.html#a0fc797fd56c4f12272b647087492670a", null ]
 ];

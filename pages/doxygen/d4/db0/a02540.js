@@ -1,10 +1,6 @@
 var a02540 =
 [
-    [ "UpdateException", "d7/d00/a05993.html", "d7/d00/a05993" ],
-    [ "DBUpdaterUtil", "d8/dc4/a05997.html", "d8/dc4/a05997" ],
-    [ "DBUpdater< T >", "df/dd2/a06001.html", "df/dd2/a06001" ],
-    [ "BaseLocation", "d4/db0/a02540.html#a0c382fe144b0dc101a8b2b9d4ef51010", [
-      [ "LOCATION_REPOSITORY", "d4/db0/a02540.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550", null ],
-      [ "LOCATION_DOWNLOAD", "d4/db0/a02540.html#a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c", null ]
-    ] ]
+    [ "instance_wailing_caverns", "df/d8b/a15732.html", "df/d8b/a15732" ],
+    [ "instance_wailing_caverns::instance_wailing_caverns_InstanceMapScript", "d3/d0f/a15736.html", "d3/d0f/a15736" ],
+    [ "AddSC_instance_wailing_caverns", "d4/db0/a02540.html#a67427453c8ec357648c276eaed523225", null ]
 ];

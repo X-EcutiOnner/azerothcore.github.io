@@ -1,10 +1,6 @@
 var a14040 =
 [
-    [ "npc_lady_sylvanas_windrunner_bfuAI", "d4/d75/a14040.html#af7d495f489979690615d091bbd9d539b", null ],
-    [ "CanAIAttack", "d4/d75/a14040.html#af332a66852c9499912d8ef4959f394f5", null ],
-    [ "InitializeAI", "d4/d75/a14040.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
-    [ "JustRespawned", "d4/d75/a14040.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
-    [ "Reset", "d4/d75/a14040.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
-    [ "UpdateAI", "d4/d75/a14040.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
-    [ "_events", "d4/d75/a14040.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
+    [ "npc_rinjiAI", "d9/d96/a14044.html", "d9/d96/a14044" ],
+    [ "npc_rinji", "d4/d75/a14040.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
+    [ "GetAI", "d4/d75/a14040.html#a5457ac00ce0b195752640358b912af10", null ]
 ];

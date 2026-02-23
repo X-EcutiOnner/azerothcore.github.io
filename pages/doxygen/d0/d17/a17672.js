@@ -1,7 +1,6 @@
 var a17672 =
 [
-    [ "achievement_once_bitten_twice_shy", "d0/d17/a17672.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
-    [ "OnCheck", "d0/d17/a17672.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
-    [ "_spawnMode", "d0/d17/a17672.html#a6f02f5ab07143ddff553279049714902", null ],
-    [ "_wasVampire", "d0/d17/a17672.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
+    [ "StandUpEvent", "d0/d17/a17672.html#a2f68b19898c65b9229159d9133b3d7cf", null ],
+    [ "Execute", "d0/d17/a17672.html#a56bc1071300ff8f81e62839685e8f53a", null ],
+    [ "_owner", "d0/d17/a17672.html#a456a494140657d81b203834f7b88d5d1", null ]
 ];

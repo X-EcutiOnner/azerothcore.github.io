@@ -1,5 +1,7 @@
 var a20588 =
 [
-    [ "achievement_kologarn_with_open_arms", "d7/dc0/a20588.html#a94af961be5bbdf7783925148731ce7e4", null ],
-    [ "OnCheck", "d7/dc0/a20588.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
+    [ "HandleEffectPeriodic", "d7/dc0/a20588.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
+    [ "PrepareAuraScript", "d7/dc0/a20588.html#af432e810a46e35f95bb0b3b2eaada132", null ],
+    [ "Register", "d7/dc0/a20588.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
+    [ "Validate", "d7/dc0/a20588.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
 ];

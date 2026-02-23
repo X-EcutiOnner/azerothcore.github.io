@@ -1,5 +1,11 @@
 var a23408 =
 [
-    [ "go_strange_pool", "dc/db0/a23408.html#aa44feb353ad1cb440e5b6707112af680", null ],
-    [ "OnGossipHello", "dc/db0/a23408.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
+    [ "boss_high_king_maulgar", "dc/db0/a23408.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
+    [ "DoAction", "dc/db0/a23408.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
+    [ "JustDied", "dc/db0/a23408.html#ad235febd755745313b72394c633c3723", null ],
+    [ "JustEngagedWith", "dc/db0/a23408.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
+    [ "KilledUnit", "dc/db0/a23408.html#a2059016597039929103c053d6524ebf7", null ],
+    [ "Reset", "dc/db0/a23408.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
+    [ "UpdateAI", "dc/db0/a23408.html#ae540909dbbb3cf93e37503cd755c3001", null ],
+    [ "_recentlySpoken", "dc/db0/a23408.html#a306f8492d83703b339a8fbe044e0cbbd", null ]
 ];

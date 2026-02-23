@@ -1,12 +1,10 @@
 var a14064 =
 [
-    [ "npc_daphne_stilwellAI", "d0/d9c/a14064.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
-    [ "AttackStart", "d0/d9c/a14064.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
-    [ "JustSummoned", "d0/d9c/a14064.html#ae56554d30e9de7644efab891555c57e0", null ],
-    [ "Reset", "d0/d9c/a14064.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
-    [ "SummonedCreatureDies", "d0/d9c/a14064.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
-    [ "Update", "d0/d9c/a14064.html#a4099d75c4a6bca1525781a5753ef9972", null ],
-    [ "WaypointReached", "d0/d9c/a14064.html#a1035eb0a1696730d8304593b5fb079e4", null ],
-    [ "summons", "d0/d9c/a14064.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
-    [ "textCounter", "d0/d9c/a14064.html#a62ab24169c1b7c3028ab33303b217f63", null ]
+    [ "npc_grand_magister_rommathAI", "d0/d9c/a14064.html#a5e9404dd8bf4b513e05daac53c076314", null ],
+    [ "DoAction", "d0/d9c/a14064.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
+    [ "MoveInLineOfSight", "d0/d9c/a14064.html#ad35b64b37915484b133bcd185a832011", null ],
+    [ "UpdateAI", "d0/d9c/a14064.html#ac687bd20f0ae66b21ce52c21561af417", null ],
+    [ "announced", "d0/d9c/a14064.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
+    [ "events", "d0/d9c/a14064.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
+    [ "playerGUID", "d0/d9c/a14064.html#ad0ac0647feb998e837a44b0a688694e9", null ]
 ];

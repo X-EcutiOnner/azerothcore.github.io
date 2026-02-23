@@ -1,5 +1,7 @@
 var a01631 =
 [
-    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Data", "d0/da4/a01631.html#a650e9d2ed03f4896b697097e2116298e", null ],
-    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Key", "d0/da4/a01631.html#aba4af9417ad91ebf078cf0ff83ecf503", null ]
+    [ "UpdateTime", "df/d7d/a11840.html", "df/d7d/a11840" ],
+    [ "WorldUpdateTime", "d6/d5e/a11844.html", "d6/d5e/a11844" ],
+    [ "AVG_DIFF_COUNT", "d0/da4/a01631.html#ac09527fd6979f77130f2ef6be46850eb", null ],
+    [ "sWorldUpdateTime", "d0/da4/a01631.html#a911ff49ac052e337a0927c080aec20b2", null ]
 ];

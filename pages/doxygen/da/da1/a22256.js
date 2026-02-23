@@ -1,9 +1,7 @@
 var a22256 =
 [
-    [ "npc_lord_areteAI", "da/da1/a22256.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
-    [ "InitializeAI", "da/da1/a22256.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
-    [ "UpdateAI", "da/da1/a22256.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
-    [ "_landgrenGUID", "da/da1/a22256.html#ac0e3753096dfe779024acc8400791171", null ],
-    [ "_landgrenSoulGUID", "da/da1/a22256.html#aaa28c67691610136f0b418b30892f3cd", null ],
-    [ "events", "da/da1/a22256.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
+    [ "OnApply", "da/da1/a22256.html#ad026db5f19c376d9a87f7a1554502809", null ],
+    [ "OnRemove", "da/da1/a22256.html#a0264c6f6f41da3644a803265399f1d82", null ],
+    [ "PrepareAuraScript", "da/da1/a22256.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
+    [ "Register", "da/da1/a22256.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
 ];

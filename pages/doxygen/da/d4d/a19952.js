@@ -1,16 +1,11 @@
 var a19952 =
 [
-    [ "boss_steelbreakerAI", "da/d4d/a19952.html#aeec79a009137be8b6290366d8d6bcfa3", null ],
-    [ "DoAction", "da/d4d/a19952.html#ac5bc8a9512c2e6e5169366cc5bbc79c2", null ],
-    [ "JustDied", "da/d4d/a19952.html#a001f8b206f0d00fff77e964f49cbdb58", null ],
-    [ "JustEngagedWith", "da/d4d/a19952.html#a0f207b2a274c7266f6882205e510f346", null ],
-    [ "JustReachedHome", "da/d4d/a19952.html#a3fd5d7c8baf6d6b4651d4d54df2e7fa8", null ],
-    [ "KilledUnit", "da/d4d/a19952.html#a5a0a92144412259bfa02abc04bdc4425", null ],
-    [ "Reset", "da/d4d/a19952.html#a9544ce38a210da1ac867d5cabf9ffbec", null ],
-    [ "SpellHit", "da/d4d/a19952.html#a21d891d8f8f6fa89b1f1883800d8d578", null ],
-    [ "UpdateAI", "da/d4d/a19952.html#ac4adabf023663df7b4c1fdc8c027b52d", null ],
-    [ "UpdatePhase", "da/d4d/a19952.html#af217acbeab5032b8a16180f4ff021e0a", null ],
-    [ "_phase", "da/d4d/a19952.html#ae71145ec4a82d1f024892181daebace9", null ],
-    [ "events", "da/d4d/a19952.html#a8085a615ff5d252452616ef69dfd3249", null ],
-    [ "pInstance", "da/d4d/a19952.html#ac99cd9678f209b0cf2e8e8e3457d0f55", null ]
+    [ "boss_maiden_of_griefAI", "da/d4d/a19952.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
+    [ "JustDied", "da/d4d/a19952.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
+    [ "JustEngagedWith", "da/d4d/a19952.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
+    [ "KilledUnit", "da/d4d/a19952.html#a3d2173db5a852a356c187b2d2771b75f", null ],
+    [ "Reset", "da/d4d/a19952.html#a46776004549b0dcfcf73351225adaad8", null ],
+    [ "UpdateAI", "da/d4d/a19952.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
+    [ "events", "da/d4d/a19952.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
+    [ "pInstance", "da/d4d/a19952.html#abc195718a208a926f978d7f0fe0e7925", null ]
 ];

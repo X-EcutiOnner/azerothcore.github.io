@@ -1,9 +1,12 @@
 var a20288 =
 [
-    [ "boss_freya_nature_bombAI", "d3/d6f/a20288.html#acbf4d330bb5bf4a032732895e8f7e35b", null ],
-    [ "Reset", "d3/d6f/a20288.html#a60738702870e2cacbcdf600e9e7073b5", null ],
-    [ "UpdateAI", "d3/d6f/a20288.html#a4bfa9df3e3151743485f59c4d318d7f9", null ],
-    [ "_explodeTimer", "d3/d6f/a20288.html#a2af9ed2067097eec2a647f17f8b1ef71", null ],
-    [ "_goGUID", "d3/d6f/a20288.html#a1a7579cc6957a52d65a1d302d5ba1da0", null ],
-    [ "Timer", "d3/d6f/a20288.html#a714a582c6ec552b969624244d709d14d", null ]
+    [ "boss_freya_elder_stonebark", "d3/d6f/a20288.html#ad379afe772ff29d689bc763786d28793", null ],
+    [ "DamageTaken", "d3/d6f/a20288.html#a1a6b9897ffff95b29de351d02411f216", null ],
+    [ "JustDied", "d3/d6f/a20288.html#a32df2ec9d4e24c6a8f7fddefc4b5e61f", null ],
+    [ "JustEngagedWith", "d3/d6f/a20288.html#a363a639d65fb746cca3410427f8a1e10", null ],
+    [ "KilledUnit", "d3/d6f/a20288.html#ae10b5a8a477107432cbcc93c4da9c3ec", null ],
+    [ "Reset", "d3/d6f/a20288.html#ac1edb11c975123a59bc4099acdefcd0f", null ],
+    [ "UpdateAI", "d3/d6f/a20288.html#a913cd147d5a88189e183d817357946e3", null ],
+    [ "_chargesCount", "d3/d6f/a20288.html#adc75d1735bc32fad8cad2abf4d8712fa", null ],
+    [ "events", "d3/d6f/a20288.html#a5d88a59b9c98981c3f7f049701fc76e3", null ]
 ];

@@ -1,17 +1,10 @@
 var a05488 =
 [
-    [ "Thread", "db/da4/a05488.html#a95c703fb8f2f27cb64f475a8c940864a", null ],
-    [ "Thread", "db/da4/a05488.html#a72d9240b0f28a378bf0e05e97918e25a", null ],
-    [ "~Thread", "db/da4/a05488.html#a37d9edd3a1a776cbc27dedff949c9726", null ],
-    [ "Thread", "db/da4/a05488.html#ae65c99228766cc135c8dad74af50120e", null ],
-    [ "currentId", "db/da4/a05488.html#a65c7edbd9a1a3ed492485013d1baaf8d", null ],
-    [ "destroy", "db/da4/a05488.html#a4ee8270c681c7faf3d3a6b8271f31796", null ],
-    [ "operator=", "db/da4/a05488.html#a79ab3cf5b994c65dc196e2c154fabe7a", null ],
-    [ "setPriority", "db/da4/a05488.html#a4dcbafab5741b819852d6702e5b09369", null ],
-    [ "Sleep", "db/da4/a05488.html#addc70b7462f6fe4e51e136176f05a6b8", null ],
-    [ "ThreadTask", "db/da4/a05488.html#a3e9a687df7ed593abc33f5e5897125e5", null ],
-    [ "wait", "db/da4/a05488.html#a29758de9c29e1437e234ab8d2a3e07d0", null ],
-    [ "m_iThreadId", "db/da4/a05488.html#a997822ac4937e995c085c0554ca48d53", null ],
-    [ "m_task", "db/da4/a05488.html#afa81b66db9223412b20be34f2ee1651f", null ],
-    [ "m_ThreadImp", "db/da4/a05488.html#ac2b69bbcfc8f20ac6aa2e517311b2861", null ]
+    [ "Find", "db/da4/a05488.html#a1d6a7cd1596aa03a8e53609c7d7b6e33", null ],
+    [ "GetElements", "db/da4/a05488.html#a653b00a9d570ae9d9276a061beda3f35", null ],
+    [ "GetElements", "db/da4/a05488.html#a209cbb9e5ba70b9f5f66e64e2c36411d", null ],
+    [ "Insert", "db/da4/a05488.html#ad61d9aa314133d8eba934fe56cff48e0", null ],
+    [ "Remove", "db/da4/a05488.html#a5a9666fc5f0136a778d8c542a386d4bf", null ],
+    [ "Size", "db/da4/a05488.html#a289258c9015016a70d2867df7e113def", null ],
+    [ "_elements", "db/da4/a05488.html#adda6657e9a0fd08b105cd4d6b2baa9d3", null ]
 ];

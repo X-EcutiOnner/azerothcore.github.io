@@ -1,7 +1,6 @@
 var a25012 =
 [
-    [ "if", "d6/d7e/a25012.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
-    [ "PrepareAuraScript", "d6/d7e/a25012.html#a01d974333043452a37ec3124d23b49f2", null ],
-    [ "Register", "d6/d7e/a25012.html#aeb6c695819e894aad8b210a237e6d315", null ],
-    [ "AuraEffectHandleModes", "d6/d7e/a25012.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
+    [ "HandleScriptEffect", "d6/d7e/a25012.html#a142d6a512ba6e937985a9c21725d8d33", null ],
+    [ "PrepareSpellScript", "d6/d7e/a25012.html#af46fd8adaf8fef92984376ad6aa4f9a2", null ],
+    [ "Register", "d6/d7e/a25012.html#a9cbf1c0678bd0775a452aa3270dff6a0", null ]
 ];

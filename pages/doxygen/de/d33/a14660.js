@@ -1,8 +1,9 @@
 var a14660 =
 [
-    [ "HandleDummy", "de/d33/a14660.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
-    [ "Load", "de/d33/a14660.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
-    [ "PrepareSpellScript", "de/d33/a14660.html#af1d1ad32d41d79008d650b388353346b", null ],
-    [ "Register", "de/d33/a14660.html#a53a7c4c025324b205a29f92dd48aefde", null ],
-    [ "handled", "de/d33/a14660.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
+    [ "npc_brew_bubble", "de/d33/a14660.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
+    [ "DoAction", "de/d33/a14660.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
+    [ "MoveInLineOfSight", "de/d33/a14660.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
+    [ "Reset", "de/d33/a14660.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
+    [ "UpdateAI", "de/d33/a14660.html#a25018deaa206620f6e98ba722f689b8d", null ],
+    [ "timer", "de/d33/a14660.html#a4bee73add756ba4b3137818b2dacd27f", null ]
 ];

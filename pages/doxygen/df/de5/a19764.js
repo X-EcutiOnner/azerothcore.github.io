@@ -1,5 +1,6 @@
 var a19764 =
 [
-    [ "at_hol_hall_of_watchers", "df/de5/a19764.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
-    [ "_OnTrigger", "df/de5/a19764.html#a45e1cd4bce8c22a8c3da9b162c0eef4c", null ]
+    [ "boss_drakosAI", "db/d55/a19768.html", "db/d55/a19768" ],
+    [ "boss_drakos", "df/de5/a19764.html#aa70ae2809af4f24eea0b83b42d695448", null ],
+    [ "GetAI", "df/de5/a19764.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
 ];

@@ -1,8 +1,8 @@
 var a27728 =
 [
-    [ "npc_simoneAI", "da/df9/a27732.html", "da/df9/a27732" ],
-    [ "npc_simone", "da/d34/a27728.html#acf3e759dea12cc5fbe1376213bd3585c", null ],
-    [ "GetAI", "da/d34/a27728.html#a36d94c5ab6c910cd3853e579d6a5ab5a", null ],
-    [ "OnGossipHello", "da/d34/a27728.html#ae1a0cd1fbee6bee0a54a1a666c8367dd", null ],
-    [ "OnGossipSelect", "da/d34/a27728.html#ae2b1a653be3767881769b54607219757", null ]
+    [ "CheckProc", "da/d34/a27728.html#ae202a117ff86eee618dfdf4600746de5", null ],
+    [ "HandleProc", "da/d34/a27728.html#a28c409af8e7a8115ce86f2a51fff1afd", null ],
+    [ "PrepareAuraScript", "da/d34/a27728.html#a334db12ee8ed29b34269a0ca3172d7b4", null ],
+    [ "Register", "da/d34/a27728.html#a392724c604ce325415aaa3410e18a60c", null ],
+    [ "Validate", "da/d34/a27728.html#af0b153ca9e28a3cdc06a30ff30b46f39", null ]
 ];

@@ -1,6 +1,7 @@
 var a18320 =
 [
-    [ "CheckProc", "d9/d03/a18320.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "d9/d03/a18320.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "d9/d03/a18320.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "HandleDummy", "d9/d03/a18320.html#aa61db53d7395fd45b8569e12978fed0b", null ],
+    [ "PrepareSpellScript", "d9/d03/a18320.html#ab63054debe6763027ab52ad122277719", null ],
+    [ "Register", "d9/d03/a18320.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
+    [ "Validate", "d9/d03/a18320.html#adb7e30d10c2071de5d5070b64a10af30", null ]
 ];

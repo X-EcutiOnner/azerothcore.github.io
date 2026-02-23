@@ -1,6 +1,6 @@
 var a20020 =
 [
-    [ "npc_auriaya_feral_defenderAI", "db/dfa/a20024.html", "db/dfa/a20024" ],
-    [ "npc_auriaya_feral_defender", "de/d1e/a20020.html#ae1afc396a1d9e6c9c2042ee0f58fb270", null ],
-    [ "GetAI", "de/d1e/a20020.html#abec35e280e42154af82f3e7e4fcec48d", null ]
+    [ "CosmicSmashDamageEvent", "de/d1e/a20020.html#a5c9606791b560d8be1825a9c73f2393e", null ],
+    [ "Execute", "de/d1e/a20020.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
+    [ "_caster", "de/d1e/a20020.html#ab7af2459d3962831812ee2362ee9de2b", null ]
 ];

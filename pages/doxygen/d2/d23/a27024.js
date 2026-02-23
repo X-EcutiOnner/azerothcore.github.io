@@ -1,6 +1,7 @@
 var a27024 =
 [
-    [ "HandleAuraApply", "d2/d23/a27024.html#a0c17d42095cac3d4cf304df1fc83acbf", null ],
-    [ "PrepareAuraScript", "d2/d23/a27024.html#a6eedadacba366104fdca2791862be216", null ],
-    [ "Register", "d2/d23/a27024.html#a5869dc6372d479d85da1118d0c9ec8e6", null ]
+    [ "HandleDummy", "d2/d23/a27024.html#abc630a0c8274f5f85901b2505ff2ae04", null ],
+    [ "PrepareSpellScript", "d2/d23/a27024.html#af79cd7c2f6ed47a93dbbe17aaca6834f", null ],
+    [ "Register", "d2/d23/a27024.html#a3f1808538acca2742c19f68af9a6fd56", null ],
+    [ "Validate", "d2/d23/a27024.html#a475e1d5d8c70e0edd5957a1e493fd43e", null ]
 ];

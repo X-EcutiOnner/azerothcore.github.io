@@ -1,6 +1,5 @@
 var a20960 =
 [
-    [ "HandleScript", "dd/d0f/a20960.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
-    [ "PrepareSpellScript", "dd/d0f/a20960.html#a4fd05478a145157dbd8377532033ab95", null ],
-    [ "Register", "dd/d0f/a20960.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
+    [ "achievement_yogg_saron_kiss_and_make_up", "dd/d0f/a20960.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
+    [ "OnCheck", "dd/d0f/a20960.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
 ];

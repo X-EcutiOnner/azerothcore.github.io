@@ -1,6 +1,6 @@
 var a27052 =
 [
-    [ "HandleScriptEffect", "d3/dcc/a27052.html#a3f8988017d088d08df08ba8b696b552b", null ],
-    [ "PrepareSpellScript", "d3/dcc/a27052.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
-    [ "Register", "d3/dcc/a27052.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
+    [ "HandleDummy", "d3/dcc/a27052.html#aee5967205738ebaef70e1105e8d91b2c", null ],
+    [ "PrepareSpellScript", "d3/dcc/a27052.html#a1ef5914adfd2c951a68f50658852e095", null ],
+    [ "Register", "d3/dcc/a27052.html#af42b6d5a5fbb5eb84773818594813afc", null ]
 ];

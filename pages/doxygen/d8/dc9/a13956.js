@@ -1,9 +1,6 @@
 var a13956 =
 [
-    [ "npc_marzon_silent_bladeAI", "d8/dc9/a13956.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
-    [ "EnterEvadeMode", "d8/dc9/a13956.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
-    [ "JustEngagedWith", "d8/dc9/a13956.html#a116b3458f342811e378713e6a67f76a6", null ],
-    [ "MovementInform", "d8/dc9/a13956.html#a32201d45f0c19212becb6319a48366f8", null ],
-    [ "Reset", "d8/dc9/a13956.html#a51c2b16c767ce2922564dc9e4048e089", null ],
-    [ "UpdateAI", "d8/dc9/a13956.html#aa6686399b41d32429d530dcc2ec41185", null ]
+    [ "npc_professor_phizzlethorpeAI", "d4/d8c/a13960.html", "d4/d8c/a13960" ],
+    [ "npc_professor_phizzlethorpe", "d8/dc9/a13956.html#a8d32b4a107533c81033c617b0b97027d", null ],
+    [ "GetAI", "d8/dc9/a13956.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
 ];

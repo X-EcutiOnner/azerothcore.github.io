@@ -1,6 +1,7 @@
 var a17168 =
 [
-    [ "boss_frostsworn_generalAI", "d1/d27/a17172.html", "d1/d27/a17172" ],
-    [ "boss_frostsworn_general", "d9/d79/a17168.html#a33023712cf056eedfed1cb38e18af5dd", null ],
-    [ "GetAI", "d9/d79/a17168.html#a8e958e13999f23a81a7230fa9ece276b", null ]
+    [ "HandleEffectRemove", "d9/d79/a17168.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
+    [ "Load", "d9/d79/a17168.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
+    [ "PrepareAuraScript", "d9/d79/a17168.html#a97411ddf89a10a962ba74d294eb653e7", null ],
+    [ "Register", "d9/d79/a17168.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
 ];

@@ -1,6 +1,5 @@
 var a28232 =
 [
-    [ "color", "dc/d6e/a28232.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
-    [ "ID", "dc/d6e/a28232.html#ac125147c2dc5546a0116f48e08f36e59", null ],
-    [ "spellitemenchantement", "dc/d6e/a28232.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
+    [ "go_hive_pod", "dc/d6e/a28232.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
+    [ "OnGossipHello", "dc/d6e/a28232.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
 ];

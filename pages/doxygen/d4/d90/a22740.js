@@ -1,5 +1,11 @@
 var a22740 =
 [
-    [ "OutdoorPvP_silithus", "d4/d90/a22740.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
-    [ "GetOutdoorPvP", "d4/d90/a22740.html#a126d6acc77218addd10072199ccd2470", null ]
+    [ "boss_high_nethermancer_zerevor", "d4/d90/a22740.html#a2d3ce1a6d972c0b58efe5aad31014c09", null ],
+    [ "AttackStart", "d4/d90/a22740.html#a270961bd3af6ce65eebc79130f4e3d47", null ],
+    [ "CastDampenMagicIfPossible", "d4/d90/a22740.html#ab0af23baf43d377935811c52a346c566", null ],
+    [ "JustEngagedWith", "d4/d90/a22740.html#a390f939ba01ee189fc55670eb4ff1a7e", null ],
+    [ "OnAuraRemove", "d4/d90/a22740.html#a7dd31808dbf00f77b59fce84249778fe", null ],
+    [ "Reset", "d4/d90/a22740.html#afd7a419de217b3d129f783ddc87780af", null ],
+    [ "UpdateAI", "d4/d90/a22740.html#ae1ec04a655525cbb2a6a3c7e382cf078", null ],
+    [ "_canCastDampenMagic", "d4/d90/a22740.html#a72c89454c2b0754690ae72fd7aacb0e8", null ]
 ];

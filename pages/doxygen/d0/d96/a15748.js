@@ -1,6 +1,6 @@
 var a15748 =
 [
-    [ "npcs_riverbreeze_and_silversky", "d0/d96/a15748.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
-    [ "OnGossipHello", "d0/d96/a15748.html#a7de032322a37f929c316aadfdadda768", null ],
-    [ "OnGossipSelect", "d0/d96/a15748.html#a93c7b159dda733da5030de747bad30b5", null ]
+    [ "npc_draenei_survivorAI", "dd/d49/a15752.html", "dd/d49/a15752" ],
+    [ "npc_draenei_survivor", "d0/d96/a15748.html#a1dca668a7c3f868677a9bf306288430c", null ],
+    [ "GetAI", "d0/d96/a15748.html#aa8dde30279bb898a4412491faca79267", null ]
 ];

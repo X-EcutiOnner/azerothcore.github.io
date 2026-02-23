@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::GameObjectFocusCheck Class Reference</title>
+<title>AzerothCore: Acore::PlayerRelocationNotifier Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,32 +106,64 @@ $(document).ready(function(){initNavTree('df/daa/a09400.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d6/d8f/a09397.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::GameObjectFocusCheck Class Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::PlayerRelocationNotifier Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
 <p><code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for Acore::PlayerRelocationNotifier:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../df/daa/a09400.png" usemap="#Acore::PlayerRelocationNotifier_map" alt=""/>
+  <map id="Acore::PlayerRelocationNotifier_map" name="Acore::PlayerRelocationNotifier_map">
+<area href="../../dc/d96/a09392.html" alt="Acore::VisibleNotifier" shape="rect" coords="0,0,190,24"/>
+  </map>
+</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a06607ffa0ebf51c230f4584632a7444a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/daa/a09400.html#a06607ffa0ebf51c230f4584632a7444a">GameObjectFocusCheck</a> (<a class="el" href="../../d5/d7c/a08840.html">Unit</a> const *unit, <a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> focusId)</td></tr>
-<tr class="separator:a06607ffa0ebf51c230f4584632a7444a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af5c0b63b8bfe112c9a8a43d7e49e1f7b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/daa/a09400.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b">operator()</a> (<a class="el" href="../../d3/d5b/a08260.html">GameObject</a> *go) const</td></tr>
-<tr class="separator:af5c0b63b8bfe112c9a8a43d7e49e1f7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afa316348fb6151cc992b0da7aab39ec3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/daa/a09400.html#afa316348fb6151cc992b0da7aab39ec3">PlayerRelocationNotifier</a> (<a class="el" href="../../d3/d14/a08832.html">Player</a> &amp;player)</td></tr>
+<tr class="separator:afa316348fb6151cc992b0da7aab39ec3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa92ab4dcd81b669f41f6ab1029b791df"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:aa92ab4dcd81b669f41f6ab1029b791df"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../df/daa/a09400.html#aa92ab4dcd81b669f41f6ab1029b791df">Visit</a> (std::vector&lt; T &gt; &amp;m)</td></tr>
+<tr class="separator:aa92ab4dcd81b669f41f6ab1029b791df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab9b3ad469216db3a7a49176b41b0b1ea"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:ab9b3ad469216db3a7a49176b41b0b1ea"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../df/daa/a09400.html#ab9b3ad469216db3a7a49176b41b0b1ea">Visit</a> (<a class="el" href="../../dd/dc7/a09312.html">GridRefMgr</a>&lt; T &gt; &amp;m)</td></tr>
+<tr class="separator:ab9b3ad469216db3a7a49176b41b0b1ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acffc7490cb9b0cf171a1cfc6e1dbdc79"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/daa/a09400.html#acffc7490cb9b0cf171a1cfc6e1dbdc79">Visit</a> (<a class="el" href="../../d9/d1b/a01583.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;)</td></tr>
+<tr class="separator:acffc7490cb9b0cf171a1cfc6e1dbdc79"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a09392"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a09392')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../dc/d96/a09392.html">Acore::VisibleNotifier</a></td></tr>
+<tr class="memitem:ae449b96de3eff1759869438dd90f6513 inherit pub_methods_a09392"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a09392.html#ae449b96de3eff1759869438dd90f6513">VisibleNotifier</a> (<a class="el" href="../../d3/d14/a08832.html">Player</a> &amp;player, bool gobjOnly)</td></tr>
+<tr class="separator:ae449b96de3eff1759869438dd90f6513 inherit pub_methods_a09392"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a77d110af6b97c2a4d93ff53a8771273d inherit pub_methods_a09392"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a09392.html#a77d110af6b97c2a4d93ff53a8771273d">Visit</a> (<a class="el" href="../../d9/d1b/a01583.html#aad35d1efe9e8a57f45c0740a89bf9fbf">GameObjectMapType</a> &amp;)</td></tr>
+<tr class="separator:a77d110af6b97c2a4d93ff53a8771273d inherit pub_methods_a09392"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a49da99cbbcf8f839d810d6ac6a2502e0 inherit pub_methods_a09392"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:a49da99cbbcf8f839d810d6ac6a2502e0 inherit pub_methods_a09392"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dc/d96/a09392.html#a49da99cbbcf8f839d810d6ac6a2502e0">Visit</a> (std::vector&lt; T &gt; &amp;m)</td></tr>
+<tr class="separator:a49da99cbbcf8f839d810d6ac6a2502e0 inherit pub_methods_a09392"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8dafcbc64e004aea196aec47fb2bb175 inherit pub_methods_a09392"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:a8dafcbc64e004aea196aec47fb2bb175 inherit pub_methods_a09392"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dc/d96/a09392.html#a8dafcbc64e004aea196aec47fb2bb175">Visit</a> (<a class="el" href="../../dd/dc7/a09312.html">GridRefMgr</a>&lt; T &gt; &amp;m)</td></tr>
+<tr class="separator:a8dafcbc64e004aea196aec47fb2bb175 inherit pub_methods_a09392"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a95d1c60911cfed9e4f0e034afbf11482 inherit pub_methods_a09392"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a09392.html#a95d1c60911cfed9e4f0e034afbf11482">SendToSelf</a> (void)</td></tr>
+<tr class="separator:a95d1c60911cfed9e4f0e034afbf11482 inherit pub_methods_a09392"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a0afc07e086f5aa3301c2b46a0004213e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d7c/a08840.html">Unit</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/daa/a09400.html#a0afc07e086f5aa3301c2b46a0004213e">i_unit</a></td></tr>
-<tr class="separator:a0afc07e086f5aa3301c2b46a0004213e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ace009546c2dcc6dac5de98b3c34152a5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/daa/a09400.html#ace009546c2dcc6dac5de98b3c34152a5">i_focusId</a></td></tr>
-<tr class="separator:ace009546c2dcc6dac5de98b3c34152a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
+Additional Inherited Members</h2></td></tr>
+<tr class="inherit_header pub_attribs_a09392"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a09392')"><img src="../../closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="../../dc/d96/a09392.html">Acore::VisibleNotifier</a></td></tr>
+<tr class="memitem:aaa324b9a9cffd59c7cbab0c08cf68395 inherit pub_attribs_a09392"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d14/a08832.html">Player</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a09392.html#aaa324b9a9cffd59c7cbab0c08cf68395">i_player</a></td></tr>
+<tr class="separator:aaa324b9a9cffd59c7cbab0c08cf68395 inherit pub_attribs_a09392"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34d766816baaad7b1b3623360ec9abeb inherit pub_attribs_a09392"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d4/d43/a08960.html">Unit</a> * &gt; &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a09392.html#a34d766816baaad7b1b3623360ec9abeb">i_visibleNow</a></td></tr>
+<tr class="separator:a34d766816baaad7b1b3623360ec9abeb inherit pub_attribs_a09392"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a019182fa8a629d796982f9cc565d9bc3 inherit pub_attribs_a09392"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a09392.html#a019182fa8a629d796982f9cc565d9bc3">i_gobjOnly</a></td></tr>
+<tr class="separator:a019182fa8a629d796982f9cc565d9bc3 inherit pub_attribs_a09392"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6cfba0f042e117cfdb7bdf1f1168c0ce inherit pub_attribs_a09392"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d46/a08684.html">UpdateData</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d96/a09392.html#a6cfba0f042e117cfdb7bdf1f1168c0ce">i_data</a></td></tr>
+<tr class="separator:a6cfba0f042e117cfdb7bdf1f1168c0ce inherit pub_attribs_a09392"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a06607ffa0ebf51c230f4584632a7444a" name="a06607ffa0ebf51c230f4584632a7444a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a06607ffa0ebf51c230f4584632a7444a">&#9670;&#160;</a></span>GameObjectFocusCheck()</h2>
+<a id="afa316348fb6151cc992b0da7aab39ec3" name="afa316348fb6151cc992b0da7aab39ec3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afa316348fb6151cc992b0da7aab39ec3">&#9670;&#160;</a></span>PlayerRelocationNotifier()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -140,21 +172,11 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Acore::GameObjectFocusCheck::GameObjectFocusCheck </td>
+          <td class="memname">Acore::PlayerRelocationNotifier::PlayerRelocationNotifier </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d7c/a08840.html">Unit</a> const *&#160;</td>
-          <td class="paramname"><em>unit</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype"><a class="el" href="../../d3/d14/a08832.html">Player</a> &amp;&#160;</td>
+          <td class="paramname"><em>player</em></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>focusId</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -163,28 +185,29 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  650</span>: <a class="code hl_variable" href="../../df/daa/a09400.html#a0afc07e086f5aa3301c2b46a0004213e">i_unit</a>(unit), <a class="code hl_variable" href="../../df/daa/a09400.html#ace009546c2dcc6dac5de98b3c34152a5">i_focusId</a>(focusId) {}</div>
-<div class="ttc" id="aa09400_html_a0afc07e086f5aa3301c2b46a0004213e"><div class="ttname"><a href="../../df/daa/a09400.html#a0afc07e086f5aa3301c2b46a0004213e">Acore::GameObjectFocusCheck::i_unit</a></div><div class="ttdeci">Unit const  * i_unit</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:667</div></div>
-<div class="ttc" id="aa09400_html_ace009546c2dcc6dac5de98b3c34152a5"><div class="ttname"><a href="../../df/daa/a09400.html#ace009546c2dcc6dac5de98b3c34152a5">Acore::GameObjectFocusCheck::i_focusId</a></div><div class="ttdeci">uint32 i_focusId</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:668</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   75</span>: <a class="code hl_function" href="../../dc/d96/a09392.html#ae449b96de3eff1759869438dd90f6513">VisibleNotifier</a>(player, <span class="keyword">false</span>) { }</div>
+<div class="ttc" id="aa09392_html_ae449b96de3eff1759869438dd90f6513"><div class="ttname"><a href="../../dc/d96/a09392.html#ae449b96de3eff1759869438dd90f6513">Acore::VisibleNotifier::VisibleNotifier</a></div><div class="ttdeci">VisibleNotifier(Player &amp;player, bool gobjOnly)</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:50</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="af5c0b63b8bfe112c9a8a43d7e49e1f7b" name="af5c0b63b8bfe112c9a8a43d7e49e1f7b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af5c0b63b8bfe112c9a8a43d7e49e1f7b">&#9670;&#160;</a></span>operator()()</h2>
+<a id="ab9b3ad469216db3a7a49176b41b0b1ea" name="ab9b3ad469216db3a7a49176b41b0b1ea"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab9b3ad469216db3a7a49176b41b0b1ea">&#9670;&#160;</a></span>Visit() <span class="overload">[1/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool Acore::GameObjectFocusCheck::operator() </td>
+          <td class="memname">void Acore::PlayerRelocationNotifier::Visit </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d5b/a08260.html">GameObject</a> *&#160;</td>
-          <td class="paramname"><em>go</em></td><td>)</td>
-          <td> const</td>
+          <td class="paramtype"><a class="el" href="../../dd/dc7/a09312.html">GridRefMgr</a>&lt; T &gt; &amp;&#160;</td>
+          <td class="paramname"><em>m</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
   </td>
@@ -193,79 +216,77 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  652</span>        {</div>
-<div class="line"><span class="lineno">  653</span>            <span class="keywordflow">if</span> (go-&gt;<a class="code hl_function" href="../../d3/d5b/a08260.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>()-&gt;<a class="code hl_variable" href="../../dc/d76/a08264.html#a1c78664b7272010dac83e9f4ea132330">type</a> != <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a0233096c29a8a39f15373e06434985f9a19da3e0d6d3baeb2f62b2f2fc8b35405">GAMEOBJECT_TYPE_SPELL_FOCUS</a>)</div>
-<div class="line"><span class="lineno">  654</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  655</span> </div>
-<div class="line"><span class="lineno">  656</span>            <span class="keywordflow">if</span> (!go-&gt;<a class="code hl_function" href="../../d3/d5b/a08260.html#a462386b3457bdd1da4821cd6e6f9c64c">isSpawned</a>()) <span class="comment">// xinef: dont allow to count deactivated objects</span></div>
-<div class="line"><span class="lineno">  657</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  658</span> </div>
-<div class="line"><span class="lineno">  659</span>            <span class="keywordflow">if</span> (go-&gt;<a class="code hl_function" href="../../d3/d5b/a08260.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>()-&gt;<a class="code hl_variable" href="../../dc/d76/a08264.html#ae4313a503da90922f8b81446e82d51d4">spellFocus</a>.<a class="code hl_variable" href="../../dc/d76/a08264.html#aba1538c08713a616500b51650896cd5b">focusId</a> != <a class="code hl_variable" href="../../df/daa/a09400.html#ace009546c2dcc6dac5de98b3c34152a5">i_focusId</a>)</div>
-<div class="line"><span class="lineno">  660</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  661</span> </div>
-<div class="line"><span class="lineno">  662</span>            <span class="keywordtype">float</span> dist = (float)((go-&gt;<a class="code hl_function" href="../../d3/d5b/a08260.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>()-&gt;<a class="code hl_variable" href="../../dc/d76/a08264.html#ae4313a503da90922f8b81446e82d51d4">spellFocus</a>.<a class="code hl_variable" href="../../dc/d76/a08264.html#a0ac32f94eef325076f8c17868af2559e">dist</a>) / 2);</div>
-<div class="line"><span class="lineno">  663</span> </div>
-<div class="line"><span class="lineno">  664</span>            <span class="keywordflow">return</span> go-&gt;<a class="code hl_function" href="../../d3/d5b/a08260.html#a0e472403802c7a862e22c769ef4f8378">IsWithinDistInMap</a>(<a class="code hl_variable" href="../../df/daa/a09400.html#a0afc07e086f5aa3301c2b46a0004213e">i_unit</a>, dist);</div>
-<div class="line"><span class="lineno">  665</span>        }</div>
-<div class="ttc" id="aa04121_html_a0233096c29a8a39f15373e06434985f9a19da3e0d6d3baeb2f62b2f2fc8b35405"><div class="ttname"><a href="../../d0/dd3/a04121.html#a0233096c29a8a39f15373e06434985f9a19da3e0d6d3baeb2f62b2f2fc8b35405">GAMEOBJECT_TYPE_SPELL_FOCUS</a></div><div class="ttdeci">@ GAMEOBJECT_TYPE_SPELL_FOCUS</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1579</div></div>
-<div class="ttc" id="aa08260_html_a0e472403802c7a862e22c769ef4f8378"><div class="ttname"><a href="../../d3/d5b/a08260.html#a0e472403802c7a862e22c769ef4f8378">GameObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(Player const *player) const</div><div class="ttdef"><b>Definition:</b> GameObject.cpp:2973</div></div>
-<div class="ttc" id="aa08260_html_a1415b5cb9b3b3f4f6691584c5b6d7324"><div class="ttname"><a href="../../d3/d5b/a08260.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GameObject::GetGOInfo</a></div><div class="ttdeci">GameObjectTemplate const * GetGOInfo() const</div><div class="ttdef"><b>Definition:</b> GameObject.h:136</div></div>
-<div class="ttc" id="aa08260_html_a462386b3457bdd1da4821cd6e6f9c64c"><div class="ttname"><a href="../../d3/d5b/a08260.html#a462386b3457bdd1da4821cd6e6f9c64c">GameObject::isSpawned</a></div><div class="ttdeci">bool isSpawned() const</div><div class="ttdef"><b>Definition:</b> GameObject.h:189</div></div>
-<div class="ttc" id="aa08264_html_a0ac32f94eef325076f8c17868af2559e"><div class="ttname"><a href="../../dc/d76/a08264.html#a0ac32f94eef325076f8c17868af2559e">GameObjectTemplate::dist</a></div><div class="ttdeci">uint32 dist</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:143</div></div>
-<div class="ttc" id="aa08264_html_a1c78664b7272010dac83e9f4ea132330"><div class="ttname"><a href="../../dc/d76/a08264.html#a1c78664b7272010dac83e9f4ea132330">GameObjectTemplate::type</a></div><div class="ttdeci">uint32 type</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:33</div></div>
-<div class="ttc" id="aa08264_html_aba1538c08713a616500b51650896cd5b"><div class="ttname"><a href="../../dc/d76/a08264.html#aba1538c08713a616500b51650896cd5b">GameObjectTemplate::focusId</a></div><div class="ttdeci">uint32 focusId</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:142</div></div>
-<div class="ttc" id="aa08264_html_ae4313a503da90922f8b81446e82d51d4"><div class="ttname"><a href="../../dc/d76/a08264.html#ae4313a503da90922f8b81446e82d51d4">GameObjectTemplate::spellFocus</a></div><div class="ttdeci">struct GameObjectTemplate::@234::@243 spellFocus</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   78</span>{ <a class="code hl_function" href="../../dc/d96/a09392.html#a77d110af6b97c2a4d93ff53a8771273d">VisibleNotifier::Visit</a>(m); }</div>
+<div class="ttc" id="aa09392_html_a77d110af6b97c2a4d93ff53a8771273d"><div class="ttname"><a href="../../dc/d96/a09392.html#a77d110af6b97c2a4d93ff53a8771273d">Acore::VisibleNotifier::Visit</a></div><div class="ttdeci">void Visit(GameObjectMapType &amp;)</div><div class="ttdef"><b>Definition:</b> GridNotifiers.cpp:27</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00143">GameObjectTemplate::dist</a>, <a class="el" href="../../#l00142">GameObjectTemplate::focusId</a>, <a class="el" href="../../#l01579">GAMEOBJECT_TYPE_SPELL_FOCUS</a>, <a class="el" href="../../#l00136">GameObject::GetGOInfo()</a>, <a class="el" href="../../#l00668">i_focusId</a>, <a class="el" href="../../#l00667">i_unit</a>, <a class="el" href="../../#l00189">GameObject::isSpawned()</a>, <a class="el" href="../../#l02973">GameObject::IsWithinDistInMap()</a>, <a class="el" href="../../dc/d76/a08264.html#ae4313a503da90922f8b81446e82d51d4">GameObjectTemplate::spellFocus</a>, and <a class="el" href="../../#l00033">GameObjectTemplate::type</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00027">Acore::VisibleNotifier::Visit()</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="ace009546c2dcc6dac5de98b3c34152a5" name="ace009546c2dcc6dac5de98b3c34152a5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ace009546c2dcc6dac5de98b3c34152a5">&#9670;&#160;</a></span>i_focusId</h2>
+<a id="acffc7490cb9b0cf171a1cfc6e1dbdc79" name="acffc7490cb9b0cf171a1cfc6e1dbdc79"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acffc7490cb9b0cf171a1cfc6e1dbdc79">&#9670;&#160;</a></span>Visit() <span class="overload">[2/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PlayerRelocationNotifier::Visit </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d1b/a01583.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;&#160;</td>
+          <td class="paramname"><em>m</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  148</span>{</div>
+<div class="line"><span class="lineno">  149</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d3/d7f/a05416.html">PlayerMapType::iterator</a> iter = m.<a class="code hl_function" href="../../dd/dc7/a09312.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); iter != m.<a class="code hl_function" href="../../dd/dc7/a09312.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++iter)</div>
+<div class="line"><span class="lineno">  150</span>    {</div>
+<div class="line"><span class="lineno">  151</span>        <a class="code hl_class" href="../../d3/d14/a08832.html">Player</a>* player = iter-&gt;GetSource();</div>
+<div class="line"><span class="lineno">  152</span>        <a class="code hl_variable" href="../../dc/d96/a09392.html#aaa324b9a9cffd59c7cbab0c08cf68395">i_player</a>.<a class="code hl_function" href="../../d3/d14/a08832.html#a561292db1465ce3928026072248c66b2">UpdateVisibilityOf</a>(player, <a class="code hl_variable" href="../../dc/d96/a09392.html#a6cfba0f042e117cfdb7bdf1f1168c0ce">i_data</a>, <a class="code hl_variable" href="../../dc/d96/a09392.html#a34d766816baaad7b1b3623360ec9abeb">i_visibleNow</a>);</div>
+<div class="line"><span class="lineno">  153</span>        player-&gt;<a class="code hl_function" href="../../d3/d14/a08832.html#a561292db1465ce3928026072248c66b2">UpdateVisibilityOf</a>(&amp;<a class="code hl_variable" href="../../dc/d96/a09392.html#aaa324b9a9cffd59c7cbab0c08cf68395">i_player</a>); <span class="comment">// this notifier with different Visit(PlayerMapType&amp;) than VisibleNotifier is needed to update visibility of self for other players when we move (eg. stealth detection changes)</span></div>
+<div class="line"><span class="lineno">  154</span>    }</div>
+<div class="line"><span class="lineno">  155</span>}</div>
+<div class="ttc" id="aa05416_html"><div class="ttname"><a href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a></div><div class="ttdef"><b>Definition:</b> LinkedList.h:139</div></div>
+<div class="ttc" id="aa08832_html"><div class="ttname"><a href="../../d3/d14/a08832.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1084</div></div>
+<div class="ttc" id="aa08832_html_a561292db1465ce3928026072248c66b2"><div class="ttname"><a href="../../d3/d14/a08832.html#a561292db1465ce3928026072248c66b2">Player::UpdateVisibilityOf</a></div><div class="ttdeci">void UpdateVisibilityOf(WorldObject *target)</div><div class="ttdef"><b>Definition:</b> PlayerUpdates.cpp:1709</div></div>
+<div class="ttc" id="aa09312_html_a1e4e67ba11ac8da077942a6581647bf3"><div class="ttname"><a href="../../dd/dc7/a09312.html#a1e4e67ba11ac8da077942a6581647bf3">GridRefMgr::begin</a></div><div class="ttdeci">iterator begin()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:35</div></div>
+<div class="ttc" id="aa09312_html_a266acb421cfc6ccc56dc2acff3202971"><div class="ttname"><a href="../../dd/dc7/a09312.html#a266acb421cfc6ccc56dc2acff3202971">GridRefMgr::end</a></div><div class="ttdeci">iterator end()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:36</div></div>
+<div class="ttc" id="aa09392_html_a34d766816baaad7b1b3623360ec9abeb"><div class="ttname"><a href="../../dc/d96/a09392.html#a34d766816baaad7b1b3623360ec9abeb">Acore::VisibleNotifier::i_visibleNow</a></div><div class="ttdeci">std::vector&lt; Unit * &gt; &amp; i_visibleNow</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:46</div></div>
+<div class="ttc" id="aa09392_html_a6cfba0f042e117cfdb7bdf1f1168c0ce"><div class="ttname"><a href="../../dc/d96/a09392.html#a6cfba0f042e117cfdb7bdf1f1168c0ce">Acore::VisibleNotifier::i_data</a></div><div class="ttdeci">UpdateData i_data</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:48</div></div>
+<div class="ttc" id="aa09392_html_aaa324b9a9cffd59c7cbab0c08cf68395"><div class="ttname"><a href="../../dc/d96/a09392.html#aaa324b9a9cffd59c7cbab0c08cf68395">Acore::VisibleNotifier::i_player</a></div><div class="ttdeci">Player &amp; i_player</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:45</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>, <a class="el" href="../../#l00048">Acore::VisibleNotifier::i_data</a>, <a class="el" href="../../#l00045">Acore::VisibleNotifier::i_player</a>, <a class="el" href="../../#l00046">Acore::VisibleNotifier::i_visibleNow</a>, and <a class="el" href="../../#l01709">Player::UpdateVisibilityOf()</a>.</p>
+
+</div>
+</div>
+<a id="aa92ab4dcd81b669f41f6ab1029b791df" name="aa92ab4dcd81b669f41f6ab1029b791df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa92ab4dcd81b669f41f6ab1029b791df">&#9670;&#160;</a></span>Visit() <span class="overload">[3/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Acore::GameObjectFocusCheck::i_focusId</td>
+          <td class="memname">void Acore::PlayerRelocationNotifier::Visit </td>
+          <td>(</td>
+          <td class="paramtype">std::vector&lt; T &gt; &amp;&#160;</td>
+          <td class="paramname"><em>m</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00651">operator()()</a>.</p>
-
-</div>
-</div>
-<a id="a0afc07e086f5aa3301c2b46a0004213e" name="a0afc07e086f5aa3301c2b46a0004213e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0afc07e086f5aa3301c2b46a0004213e">&#9670;&#160;</a></span>i_unit</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d5/d7c/a08840.html">Unit</a> const* Acore::GameObjectFocusCheck::i_unit</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00651">operator()()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   77</span>{ <a class="code hl_function" href="../../dc/d96/a09392.html#a77d110af6b97c2a4d93ff53a8771273d">VisibleNotifier::Visit</a>(m); }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00027">Acore::VisibleNotifier::Visit()</a>.</p>
 
 </div>
 </div>
@@ -274,8 +295,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/d15/a04833.html">Acore</a></li><li class="navelem"><a class="el" href="../../df/daa/a09400.html">GameObjectFocusCheck</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:12:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/d47/a04938.html">Acore</a></li><li class="navelem"><a class="el" href="../../df/daa/a09400.html">PlayerRelocationNotifier</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:16:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,13 +1,11 @@
 var a06300 =
 [
-    [ "HealthCheckEventData", "d3/dee/a06300.html#a2610f9688b27212eb3470f55718c61f0", null ],
-    [ "GetDelay", "d3/dee/a06300.html#a9bab6c9834517c4260f814f258d52d5c", null ],
-    [ "HasBeenProcessed", "d3/dee/a06300.html#abe8549b1e96fc3ea7e4154cd30ff5389", null ],
-    [ "IsPending", "d3/dee/a06300.html#a367c865eb488a2a95ce7e98536ccb311", null ],
-    [ "UpdateStatus", "d3/dee/a06300.html#aae2283a58be68424fbe01c37a29e1c5e", null ],
-    [ "_allowedWhileCasting", "d3/dee/a06300.html#aff327c455fbd912579725956c99c3a2d", null ],
-    [ "_delay", "d3/dee/a06300.html#ad23fcf00ca53ef2772185b2008a84de5", null ],
-    [ "_exec", "d3/dee/a06300.html#a66c38460690d77fb021c91fa676c3a12", null ],
-    [ "_healthPct", "d3/dee/a06300.html#a420edc39ff982d55ae82207a0cfe7689", null ],
-    [ "_status", "d3/dee/a06300.html#a787509d0963c134539e4dec7525b5608", null ]
+    [ "PossessedAI", "d3/dee/a06300.html#a29bfe06f4f6f0398e3a0a385b179cdbe", null ],
+    [ "AttackStart", "d3/dee/a06300.html#a293a49d5cffd58dff103b0aacc558cde", null ],
+    [ "EnterEvadeMode", "d3/dee/a06300.html#ad99b9c297289b819157be56d8049320e", null ],
+    [ "JustDied", "d3/dee/a06300.html#aae94a4a6d6e67d05d18573845ecebfd7", null ],
+    [ "KilledUnit", "d3/dee/a06300.html#a8e6d316c08dd6fba53c8ed2edab9ea34", null ],
+    [ "MoveInLineOfSight", "d3/dee/a06300.html#a7d81135d9c23cb9b9ec48b441dd050e2", null ],
+    [ "Permissible", "d3/dee/a06300.html#aafc2d20dff60c6e5401eaa579844430d", null ],
+    [ "UpdateAI", "d3/dee/a06300.html#a3ce62a71e3f963f0b660bc987bf85051", null ]
 ];

@@ -1,8 +1,7 @@
 var a27864 =
 [
-    [ "npc_wormholeAI", "d5/d57/a27868.html", "d5/d57/a27868" ],
-    [ "npc_wormhole", "d7/d20/a27864.html#aeace4cbf665409786b86140709191cb0", null ],
-    [ "GetAI", "d7/d20/a27864.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
-    [ "OnGossipHello", "d7/d20/a27864.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
-    [ "OnGossipSelect", "d7/d20/a27864.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
+    [ "HandleProc", "d7/d20/a27864.html#a39a69b837c5844d345f5a311f5760bf6", null ],
+    [ "PrepareAuraScript", "d7/d20/a27864.html#a673557238631dbca8954f516718f0eb2", null ],
+    [ "Register", "d7/d20/a27864.html#aa9f71fd65dd63f66a7ff3c7757174e67", null ],
+    [ "Validate", "d7/d20/a27864.html#aedf17c34772c0e2030388fc9b17aec38", null ]
 ];

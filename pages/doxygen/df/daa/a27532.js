@@ -1,6 +1,6 @@
 var a27532 =
 [
-    [ "go_midsummer_musicAI", "df/daa/a27532.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
-    [ "UpdateAI", "df/daa/a27532.html#adf185ee702e9e74f65204b90786f9eb4", null ],
-    [ "_events", "df/daa/a27532.html#a31e45a754930cdc3206fe2b7f754d234", null ]
+    [ "PeriodicTick", "df/daa/a27532.html#a14e79a7bb4a5b11ddc74ab366e79a907", null ],
+    [ "PrepareAuraScript", "df/daa/a27532.html#a0448cdf379053396f8649946e52ce690", null ],
+    [ "Register", "df/daa/a27532.html#a2dab21ddb3c33341d560643d27042402", null ]
 ];

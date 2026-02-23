@@ -1,6 +1,6 @@
 var a27144 =
 [
-    [ "HandleCast", "d7/d19/a27144.html#ac6afa94be0da1f99b12afebe935bcb5d", null ],
-    [ "PrepareSpellScript", "d7/d19/a27144.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
-    [ "Register", "d7/d19/a27144.html#a81bc86c83ffc70602410912870e61700", null ]
+    [ "PrepareSpellScript", "d7/d19/a27144.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
+    [ "Register", "d7/d19/a27144.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
+    [ "SetDest", "d7/d19/a27144.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
 ];

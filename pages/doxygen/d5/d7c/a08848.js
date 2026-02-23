@@ -1,7 +1,26 @@
 var a08848 =
 [
-    [ "HealthPctOrderPred", "d5/d7c/a08848.html#a5c83c0ba35b9febbe6a62dae63995f97", null ],
-    [ "operator()", "d5/d7c/a08848.html#a2c7f4043e5268b13bf0d9f46e9709a9b", null ],
-    [ "operator()", "d5/d7c/a08848.html#a23f2dc594fd531d02cd6eae0faa7f6b7", null ],
-    [ "_ascending", "d5/d7c/a08848.html#a4c34feefafc014b50ba2869a9bdb9959", null ]
+    [ "PlayerTaxi", "d5/d7c/a08848.html#a33cfc1b5bf7cc5eb253855967a532d8b", null ],
+    [ "~PlayerTaxi", "d5/d7c/a08848.html#ab8ba2e4cebd37f540e45d1f41cf46fb4", null ],
+    [ "AddTaxiDestination", "d5/d7c/a08848.html#a1ecef7f42bb7197ce7c6ca35c7010ec3", null ],
+    [ "AppendTaximaskTo", "d5/d7c/a08848.html#ab18bdbd8b7e04949d6d4b9adfabf8451", null ],
+    [ "ClearTaxiDestinations", "d5/d7c/a08848.html#ab4422be16e69b1f32bce002ab71ab5a5", null ],
+    [ "empty", "d5/d7c/a08848.html#a76919e4ba603f6a1b88a3c213767e09d", null ],
+    [ "GetCurrentTaxiPath", "d5/d7c/a08848.html#ae4a6a1a97932c90ca79a282f131711e7", null ],
+    [ "GetFlightMasterFactionTemplate", "d5/d7c/a08848.html#a487e2760da8446a3c34dddc2d4c5c0f5", null ],
+    [ "GetPath", "d5/d7c/a08848.html#a031051c85f1ce8fb8ab172c86bb4382b", null ],
+    [ "GetTaxiDestination", "d5/d7c/a08848.html#aa54293e7ea1125b0e7dd2a79f9a7e0a0", null ],
+    [ "GetTaxiSource", "d5/d7c/a08848.html#a4313e575d9bd2a60852f5e944f79ac71", null ],
+    [ "InitTaxiNodesForLevel", "d5/d7c/a08848.html#ae63c6941e0e8b7c0920cc1f255641e4d", null ],
+    [ "IsTaximaskNodeKnown", "d5/d7c/a08848.html#a76220474a42fc4207bb6f40b589a6511", null ],
+    [ "LoadTaxiDestinationsFromString", "d5/d7c/a08848.html#a6261b2b052d1a8385a480372450c7191", null ],
+    [ "LoadTaxiMask", "d5/d7c/a08848.html#a010941cce9bf3b9c37d951c2ece4b3d4", null ],
+    [ "NextTaxiDestination", "d5/d7c/a08848.html#aa417f33d57d94db8c8aa9df56e329835", null ],
+    [ "SaveTaxiDestinationsToString", "d5/d7c/a08848.html#a0cffd730b09becde5f65882bc5c0832c", null ],
+    [ "SetFlightMasterFactionTemplateId", "d5/d7c/a08848.html#a2be37f977bdf5dc787e1923b4d1ed12e", null ],
+    [ "SetTaximaskNode", "d5/d7c/a08848.html#a34a9653fbdc2b4a7c86a990fcc080e64", null ],
+    [ "operator<<", "d5/d7c/a08848.html#aa8a947319a6f00895a3c443f5cb258ad", null ],
+    [ "m_flightMasterFactionId", "d5/d7c/a08848.html#a52ed114d167bcc8079fe37c410b25b31", null ],
+    [ "m_TaxiDestinations", "d5/d7c/a08848.html#a3aff323ba6dfee2f8776efb49e3ebfbf", null ],
+    [ "m_taximask", "d5/d7c/a08848.html#abf0d776badac2d25cf823609d5fec799", null ]
 ];

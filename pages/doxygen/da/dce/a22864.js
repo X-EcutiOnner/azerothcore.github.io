@@ -1,11 +1,12 @@
 var a22864 =
 [
-    [ "boss_blackheart_the_inciter", "da/dce/a22864.html#a772b2b4574fa6ccd445924193985859b", null ],
-    [ "EnterEvadeMode", "da/dce/a22864.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
-    [ "JustDied", "da/dce/a22864.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
-    [ "JustEngagedWith", "da/dce/a22864.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
-    [ "KilledUnit", "da/dce/a22864.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
-    [ "Reset", "da/dce/a22864.html#add75633d1c04d0be91e7e80f28213917", null ],
-    [ "UpdateAI", "da/dce/a22864.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
-    [ "InciteChaos", "da/dce/a22864.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
+    [ "boss_shade_of_akama", "da/dce/a22864.html#a385bf995d19652254d6ae8a447c23c37", null ],
+    [ "EnterEvadeMode", "da/dce/a22864.html#a690f8058fb4358b98960177d76864275", null ],
+    [ "JustDied", "da/dce/a22864.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
+    [ "MovementInform", "da/dce/a22864.html#a345707efebd5027c01a25a563d1e6f43", null ],
+    [ "Reset", "da/dce/a22864.html#a19a1aca1a599704612ac845001895b4f", null ],
+    [ "SpellHit", "da/dce/a22864.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
+    [ "UpdateAI", "da/dce/a22864.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
+    [ "channelers", "da/dce/a22864.html#a63372527172d3f96f533b5776221c2e7", null ],
+    [ "generators", "da/dce/a22864.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
 ];

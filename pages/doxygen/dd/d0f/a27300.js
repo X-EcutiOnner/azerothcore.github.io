@@ -1,5 +1,6 @@
 var a27300 =
 [
-    [ "achievement_not_even_a_scratch", "dd/d0f/a27300.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "dd/d0f/a27300.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "FilterTargets", "dd/d0f/a27300.html#ac157503562ac3ef9ddba2c358595ecc5", null ],
+    [ "PrepareSpellScript", "dd/d0f/a27300.html#af41d6353088c5565b0027265c9bd4d8b", null ],
+    [ "Register", "dd/d0f/a27300.html#a95e386af9016e598e932177cb400fd8b", null ]
 ];

@@ -1,6 +1,9 @@
 var a28516 =
 [
-    [ "ID", "d3/d92/a28516.html#a7d40e334785d96a2e57d28f87a59778a", null ],
-    [ "maxCount", "d3/d92/a28516.html#a5edc6442e026b12dae654fa86440a11a", null ],
-    [ "mode", "d3/d92/a28516.html#a76553ecf9f880a5e5967f818123742fd", null ]
+    [ "npc_fireworkAI", "d3/d92/a28516.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
+    [ "FindNearestLauncher", "d3/d92/a28516.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
+    [ "GetFireworkGameObjectId", "d3/d92/a28516.html#ae17b4abbbb2088799cec188457677d44", null ],
+    [ "GetFireworkSpell", "d3/d92/a28516.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
+    [ "isCluster", "d3/d92/a28516.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
+    [ "Reset", "d3/d92/a28516.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
 ];

@@ -1,6 +1,7 @@
 var a26728 =
 [
-    [ "HandleEffectPeriodic", "db/dda/a26728.html#ab283b40ceb6dcd0a835550531321ce92", null ],
-    [ "PrepareAuraScript", "db/dda/a26728.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
-    [ "Register", "db/dda/a26728.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
+    [ "OnProc", "db/dda/a26728.html#a0a85e641521f1e9b7fd074f7edde97ac", null ],
+    [ "PrepareAuraScript", "db/dda/a26728.html#a4ff27309c8848a6155ad28809ace5cba", null ],
+    [ "Register", "db/dda/a26728.html#a20b6a18ce3fac99689b958b384da7836", null ],
+    [ "Validate", "db/dda/a26728.html#ac4275cca4f974a5a131e4dc1be8eed23", null ]
 ];

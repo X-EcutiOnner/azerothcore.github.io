@@ -1,5 +1,6 @@
 var a12460 =
 [
-    [ "go_father_flame", "dd/d65/a12460.html#aa992bd7029a56faca4b92637688fe845", null ],
-    [ "OnLootStateChanged", "dd/d65/a12460.html#a84c7055e791a3dac66b75d327c7662c3", null ]
+    [ "boss_drakkisathAI", "da/d72/a12464.html", "da/d72/a12464" ],
+    [ "boss_drakkisath", "dd/d65/a12460.html#a73f21cbd7b81fc045ae129d7d650b455", null ],
+    [ "GetAI", "dd/d65/a12460.html#ad27999ba129b2e3617c1aba1c4b9772b", null ]
 ];

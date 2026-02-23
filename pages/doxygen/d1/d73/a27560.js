@@ -1,5 +1,6 @@
 var a27560 =
 [
-    [ "go_tele_to_dalaran_crystal", "d1/d73/a27560.html#ab41268b7d568e8f189338f27cd90a62c", null ],
-    [ "OnGossipHello", "d1/d73/a27560.html#a7f754a29249653ca7848494310ef1a8d", null ]
+    [ "HandleAuraApply", "d1/d73/a27560.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
+    [ "PrepareAuraScript", "d1/d73/a27560.html#a7596065e5ffcacf099a5984f5d940c11", null ],
+    [ "Register", "d1/d73/a27560.html#a8efa76b28dddad68fee132f37791f231", null ]
 ];

@@ -1,6 +1,6 @@
 var a24220 =
 [
-    [ "npc_wounded_blood_elfAI", "d8/d86/a24224.html", "d8/d86/a24224" ],
-    [ "npc_wounded_blood_elf", "d8/d4b/a24220.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "d8/d4b/a24220.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "HandleSendEvent", "d8/d4b/a24220.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
+    [ "PrepareSpellScript", "d8/d4b/a24220.html#aed8815b1d068ba04f12c7714a64af769", null ],
+    [ "Register", "d8/d4b/a24220.html#aa55fa06e76b1f34e319e16984405ed20", null ]
 ];

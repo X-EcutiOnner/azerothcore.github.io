@@ -1,11 +1,7 @@
 var a17904 =
 [
-    [ "CountTargets", "d1/d0e/a17904.html#a54f6526359fba124a988ba35c2876fd1", null ],
-    [ "Load", "d1/d0e/a17904.html#a32a76ca53528bbfabfcefd2dc6aef4cc", null ],
-    [ "PrepareSpellScript", "d1/d0e/a17904.html#a4991d88429ea951c55ef08a90f364d31", null ],
-    [ "Register", "d1/d0e/a17904.html#a8bac27d885c8ea0c659c22599c4e97b4", null ],
-    [ "TeleportPlayer", "d1/d0e/a17904.html#ac886eae598b55ed4aa9ddbf9ce3a01bd", null ],
-    [ "TriggerWipe", "d1/d0e/a17904.html#a0f79722e00e6255d1ed1bf5846d5c839", null ],
-    [ "Validate", "d1/d0e/a17904.html#ad2e586d688b413f9ef9a5688d203106a", null ],
-    [ "_playerCount", "d1/d0e/a17904.html#a7c116e74c485ca44e5e6e710cfeb5bba", null ]
+    [ "npc_icc_blood_beastAI", "d1/d0e/a17904.html#af52eff9f66451444c5acba6930c1bff6", null ],
+    [ "DoAction", "d1/d0e/a17904.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
+    [ "UpdateAI", "d1/d0e/a17904.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
+    [ "timer1", "d1/d0e/a17904.html#a1074059162f818088808795119f081be", null ]
 ];

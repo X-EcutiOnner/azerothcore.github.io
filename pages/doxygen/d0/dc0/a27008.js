@@ -1,6 +1,7 @@
 var a27008 =
 [
-    [ "HandleSchoolDMG", "d0/dc0/a27008.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
-    [ "PrepareSpellScript", "d0/dc0/a27008.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
-    [ "Register", "d0/dc0/a27008.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
+    [ "HandleEffectPeriodic", "d0/dc0/a27008.html#a9347200565cb858cf0cc9cdb897fe1dc", null ],
+    [ "PrepareAuraScript", "d0/dc0/a27008.html#a5fc89b09fb226d0d9315081d64f4103e", null ],
+    [ "Register", "d0/dc0/a27008.html#ac3741617faacf83a707f1359aab1886e", null ],
+    [ "Validate", "d0/dc0/a27008.html#a9378252b6711cc0bec3e63efce026495", null ]
 ];

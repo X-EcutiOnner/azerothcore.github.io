@@ -1,9 +1,12 @@
 var a01982 =
 [
-    [ "ePoints", "d2/d3d/a01982.html#a2604bd06487e34b78d3e50cd892f3c4d", [
-      [ "POINT_LAST_POINT", "d3/d59/a01973.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
-      [ "POINT_HOME", "d3/d59/a01973.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
-      [ "POINT_COMBAT_START", "d2/d3d/a01982.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
+    [ "ACScriptName", "d2/d3d/a01982.html#a44e28f969fff2c33cf76b8eaaff1898c", null ],
+    [ "DataHeader", "d2/d3d/a01982.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "RegisterAuchenaiCryptsCreatureAI", "d2/d3d/a01982.html#abf97bec93b670890ad0eaa7d6b4bd4b9", null ],
+    [ "ACDataTypes", "d2/d3d/a01982.html#aae3060cf5aa0b4d27bcbbfeee3db2856", [
+      [ "DATA_SHIRRAK_THE_DEAD_WATCHER", "d2/d3d/a01982.html#aae3060cf5aa0b4d27bcbbfeee3db2856a5d80917a3a5f108f9e625372181b85fe", null ],
+      [ "DATA_EXARCH_MALADAAR", "d2/d3d/a01982.html#aae3060cf5aa0b4d27bcbbfeee3db2856aa54edd3601b7953b0bf046fa8b1bd3f8", null ]
     ] ],
-    [ "MAX_PLAYER_DISTANCE", "d2/d3d/a01982.html#acd0b392fc88f24b24201fba8b76d33a2", null ]
+    [ "GetAuchenaiCryptsAI", "d2/d3d/a01982.html#a8c9b9cbd7dca7c2e86d7ad3fe7bfd961", null ],
+    [ "EncounterCount", "d2/d3d/a01982.html#a31d630c40753c29f94ceac2db5e451a8", null ]
 ];

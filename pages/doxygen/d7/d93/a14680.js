@@ -1,8 +1,7 @@
 var a14680 =
 [
-    [ "npc_hallows_end_train_fire", "d7/d93/a14680.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
-    [ "Reset", "d7/d93/a14680.html#afdda52e0adce23f56fa9d1357469a17d", null ],
-    [ "SpellHit", "d7/d93/a14680.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
-    [ "UpdateAI", "d7/d93/a14680.html#a686a565e1743c31166d8d57f67a0adce", null ],
-    [ "timer", "d7/d93/a14680.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
+    [ "npc_direbrew_minion", "d7/d93/a14680.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
+    [ "IsSummonedBy", "d7/d93/a14680.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
+    [ "Reset", "d7/d93/a14680.html#a21fb7a778e9025ca4185951460a96d08", null ],
+    [ "_instance", "d7/d93/a14680.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
 ];

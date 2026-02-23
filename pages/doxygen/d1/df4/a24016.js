@@ -1,6 +1,6 @@
 var a24016 =
 [
-    [ "npc_capernian", "d1/df4/a24016.html#a0acb568664c777797eeb7104f454699d", null ],
-    [ "AttackStart", "d1/df4/a24016.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
-    [ "ScheduleEvents", "d1/df4/a24016.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
+    [ "npc_commander_dawnforgeAI", "d1/de0/a24020.html", "d1/de0/a24020" ],
+    [ "npc_commander_dawnforge", "d1/df4/a24016.html#ab4d430725f68f906e9c8def66b1d6646", null ],
+    [ "GetAI", "d1/df4/a24016.html#a6089b087b7c3b18659e23c677814318b", null ]
 ];

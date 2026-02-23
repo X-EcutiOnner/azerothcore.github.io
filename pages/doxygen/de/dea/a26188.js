@@ -1,8 +1,7 @@
 var a26188 =
 [
-    [ "CheckQuest", "de/dea/a26188.html#ab7ebff0894832ac009cda89b7c28e252", null ],
-    [ "HandleDummy", "de/dea/a26188.html#a365df14504a54e95e7d68d22a284e441", null ],
-    [ "HandleOpenObject", "de/dea/a26188.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
-    [ "PrepareSpellScript", "de/dea/a26188.html#a479e313031a2e71473238d8f645bf2d4", null ],
-    [ "Register", "de/dea/a26188.html#a70f1a91e611cc2092aad44a909cd53db", null ]
+    [ "HandleDummy", "de/dea/a26188.html#a4dde221fa768ef5c6b99c981969f35fe", null ],
+    [ "PrepareSpellScript", "de/dea/a26188.html#a85333c5f493b70037bcc1a1d42e97e9c", null ],
+    [ "Register", "de/dea/a26188.html#acfafbf43e12f72131e58434051dcc510", null ],
+    [ "Validate", "de/dea/a26188.html#a73458b57dc107b3215cf5d44567d330f", null ]
 ];

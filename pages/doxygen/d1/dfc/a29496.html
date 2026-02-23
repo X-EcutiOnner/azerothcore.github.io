@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/tools/vmap4_extractor/mpq_libmpq04.h File Reference</title>
+<title>AzerothCore: HealInfoStubBuilder Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,57 +105,47 @@ $(document).ready(function(){initNavTree('d1/dfc/a29496.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#typedef-members">Typedefs</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">mpq_libmpq04.h File Reference</div></div>
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="../../d0/d10/a29493.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">HealInfoStubBuilder Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;libmpq/mpq.h&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">loadlib/loadlib.h</a>&quot;</code><br />
-<code>#include &lt;cctype&gt;</code><br />
-<code>#include &lt;cstring&gt;</code><br />
-<code>#include &lt;deque&gt;</code><br />
-<code>#include &lt;iostream&gt;</code><br />
-<code>#include &lt;vector&gt;</code><br />
-</div>
-<p><a href="">Go to the source code of this file.</a></p>
+
+<p>Builder for creating <a class="el" href="../../d6/d34/a29488.html" title="Lightweight stub for HealInfo.">HealInfoStub</a> instances with fluent API.  
+ <a href="../../d1/dfc/a29496.html#details">More...</a></p>
+
+<p><code>#include &quot;<a class="el" href="../../">DamageHealInfoStub.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dce/a28524.html">MPQArchive</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d5b/a28528.html">MPQFile</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a57945de96ad065451cadb47edba287c8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dfc/a29496.html#a57945de96ad065451cadb47edba287c8">HealInfoStubBuilder</a> ()=default</td></tr>
+<tr class="separator:a57945de96ad065451cadb47edba287c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a812e06b07eeb18c1d379409b77a80b89"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dfc/a29496.html">HealInfoStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dfc/a29496.html#a812e06b07eeb18c1d379409b77a80b89">WithHeal</a> (uint32_t heal)</td></tr>
+<tr class="separator:a812e06b07eeb18c1d379409b77a80b89"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34a359322b018cffc5f54ca999c11b11"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dfc/a29496.html">HealInfoStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dfc/a29496.html#a34a359322b018cffc5f54ca999c11b11">WithEffectiveHeal</a> (uint32_t effectiveHeal)</td></tr>
+<tr class="separator:a34a359322b018cffc5f54ca999c11b11"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a89c12c30725eb2bdc3889005a38d54eb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dfc/a29496.html">HealInfoStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dfc/a29496.html#a89c12c30725eb2bdc3889005a38d54eb">WithOverheal</a> (uint32_t overheal)</td></tr>
+<tr class="separator:a89c12c30725eb2bdc3889005a38d54eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa09160afe48114a7a3566be328f64658"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dfc/a29496.html">HealInfoStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dfc/a29496.html#aa09160afe48114a7a3566be328f64658">WithAbsorb</a> (uint32_t absorb)</td></tr>
+<tr class="separator:aa09160afe48114a7a3566be328f64658"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4dc784241fbe998437cceb953fb83e1f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dfc/a29496.html">HealInfoStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dfc/a29496.html#a4dc784241fbe998437cceb953fb83e1f">WithSpellInfo</a> (<a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *spellInfo)</td></tr>
+<tr class="separator:a4dc784241fbe998437cceb953fb83e1f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab788ddcc209140ed3c10b02785471dcb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dfc/a29496.html">HealInfoStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dfc/a29496.html#ab788ddcc209140ed3c10b02785471dcb">WithHitMask</a> (uint32_t hitMask)</td></tr>
+<tr class="separator:ab788ddcc209140ed3c10b02785471dcb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a291565d223df00ce9d09c0315e803448"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d34/a29488.html">HealInfoStub</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dfc/a29496.html#a291565d223df00ce9d09c0315e803448">Build</a> ()</td></tr>
+<tr class="separator:a291565d223df00ce9d09c0315e803448"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a8d76af4bfff910da40b4f93a1c465744"><td class="memItemLeft" align="right" valign="top">typedef std::deque&lt; <a class="el" href="../../da/dce/a28524.html">MPQArchive</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dfc/a29496.html#a8d76af4bfff910da40b4f93a1c465744">ArchiveSet</a></td></tr>
-<tr class="separator:a8d76af4bfff910da40b4f93a1c465744"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:aff3add09c98fece7ace91b0e7c90435e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dfc/a29496.html#aff3add09c98fece7ace91b0e7c90435e">flipcc</a> (char *fcc)</td></tr>
-<tr class="separator:aff3add09c98fece7ace91b0e7c90435e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:ad0da544c651e387d8c6e9b272aa3db7b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d34/a29488.html">HealInfoStub</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dfc/a29496.html#ad0da544c651e387d8c6e9b272aa3db7b">_stub</a></td></tr>
+<tr class="separator:ad0da544c651e387d8c6e9b272aa3db7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="a8d76af4bfff910da40b4f93a1c465744" name="a8d76af4bfff910da40b4f93a1c465744"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8d76af4bfff910da40b4f93a1c465744">&#9670;&#160;</a></span>ArchiveSet</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::deque&lt;<a class="el" href="../../da/dce/a28524.html">MPQArchive</a>*&gt; <a class="el" href="../../d0/d10/a29493.html#a8d76af4bfff910da40b4f93a1c465744">ArchiveSet</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="aff3add09c98fece7ace91b0e7c90435e" name="aff3add09c98fece7ace91b0e7c90435e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aff3add09c98fece7ace91b0e7c90435e">&#9670;&#160;</a></span>flipcc()</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >Builder for creating <a class="el" href="../../d6/d34/a29488.html" title="Lightweight stub for HealInfo.">HealInfoStub</a> instances with fluent API. </p>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a57945de96ad065451cadb47edba287c8" name="a57945de96ad065451cadb47edba287c8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a57945de96ad065451cadb47edba287c8">&#9670;&#160;</a></span>HealInfoStubBuilder()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -164,10 +154,35 @@ Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void flipcc </td>
+          <td class="memname">HealInfoStubBuilder::HealInfoStubBuilder </td>
           <td>(</td>
-          <td class="paramtype">char *&#160;</td>
-          <td class="paramname"><em>fcc</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a291565d223df00ce9d09c0315e803448" name="a291565d223df00ce9d09c0315e803448"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a291565d223df00ce9d09c0315e803448">&#9670;&#160;</a></span>Build()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d34/a29488.html">HealInfoStub</a> HealInfoStubBuilder::Build </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -177,11 +192,240 @@ Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  101</span>{</div>
-<div class="line"><span class="lineno">  102</span>    std::swap(fcc[0], fcc[3]);</div>
-<div class="line"><span class="lineno">  103</span>    std::swap(fcc[1], fcc[2]);</div>
-<div class="line"><span class="lineno">  104</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  253</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/dfc/a29496.html#ad0da544c651e387d8c6e9b272aa3db7b">_stub</a>; }</div>
+<div class="ttc" id="aa29496_html_ad0da544c651e387d8c6e9b272aa3db7b"><div class="ttname"><a href="../../d1/dfc/a29496.html#ad0da544c651e387d8c6e9b272aa3db7b">HealInfoStubBuilder::_stub</a></div><div class="ttdeci">HealInfoStub _stub</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:256</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00256">_stub</a>.</p>
+
+</div>
+</div>
+<a id="aa09160afe48114a7a3566be328f64658" name="aa09160afe48114a7a3566be328f64658"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa09160afe48114a7a3566be328f64658">&#9670;&#160;</a></span>WithAbsorb()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dfc/a29496.html">HealInfoStubBuilder</a> &amp; HealInfoStubBuilder::WithAbsorb </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>absorb</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  236</span>    {</div>
+<div class="line"><span class="lineno">  237</span>        <a class="code hl_variable" href="../../d1/dfc/a29496.html#ad0da544c651e387d8c6e9b272aa3db7b">_stub</a>.<a class="code hl_function" href="../../d6/d34/a29488.html#a5f7988705654a3b6f460ddbbecb3992b">SetAbsorb</a>(absorb);</div>
+<div class="line"><span class="lineno">  238</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  239</span>    }</div>
+<div class="ttc" id="aa29488_html_a5f7988705654a3b6f460ddbbecb3992b"><div class="ttname"><a href="../../d6/d34/a29488.html#a5f7988705654a3b6f460ddbbecb3992b">HealInfoStub::SetAbsorb</a></div><div class="ttdeci">void SetAbsorb(uint32_t absorb)</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:116</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00256">_stub</a>, and <a class="el" href="../../#l00116">HealInfoStub::SetAbsorb()</a>.</p>
+
+</div>
+</div>
+<a id="a34a359322b018cffc5f54ca999c11b11" name="a34a359322b018cffc5f54ca999c11b11"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a34a359322b018cffc5f54ca999c11b11">&#9670;&#160;</a></span>WithEffectiveHeal()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dfc/a29496.html">HealInfoStubBuilder</a> &amp; HealInfoStubBuilder::WithEffectiveHeal </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>effectiveHeal</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  219</span>    {</div>
+<div class="line"><span class="lineno">  220</span>        <a class="code hl_variable" href="../../d1/dfc/a29496.html#ad0da544c651e387d8c6e9b272aa3db7b">_stub</a>.<a class="code hl_function" href="../../d6/d34/a29488.html#ad8c263f50edf324a72ca366f6caf4377">SetEffectiveHeal</a>(effectiveHeal);</div>
+<div class="line"><span class="lineno">  221</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  222</span>    }</div>
+<div class="ttc" id="aa29488_html_ad8c263f50edf324a72ca366f6caf4377"><div class="ttname"><a href="../../d6/d34/a29488.html#ad8c263f50edf324a72ca366f6caf4377">HealInfoStub::SetEffectiveHeal</a></div><div class="ttdeci">void SetEffectiveHeal(uint32_t effectiveHeal)</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:115</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00256">_stub</a>, and <a class="el" href="../../#l00115">HealInfoStub::SetEffectiveHeal()</a>.</p>
+
+</div>
+</div>
+<a id="a812e06b07eeb18c1d379409b77a80b89" name="a812e06b07eeb18c1d379409b77a80b89"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a812e06b07eeb18c1d379409b77a80b89">&#9670;&#160;</a></span>WithHeal()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dfc/a29496.html">HealInfoStubBuilder</a> &amp; HealInfoStubBuilder::WithHeal </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>heal</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  212</span>    {</div>
+<div class="line"><span class="lineno">  213</span>        <a class="code hl_variable" href="../../d1/dfc/a29496.html#ad0da544c651e387d8c6e9b272aa3db7b">_stub</a>.<a class="code hl_function" href="../../d6/d34/a29488.html#a6dede4a2256ff21fde331ae05d257718">SetHeal</a>(heal);</div>
+<div class="line"><span class="lineno">  214</span>        <a class="code hl_variable" href="../../d1/dfc/a29496.html#ad0da544c651e387d8c6e9b272aa3db7b">_stub</a>.<a class="code hl_function" href="../../d6/d34/a29488.html#ad8c263f50edf324a72ca366f6caf4377">SetEffectiveHeal</a>(heal); <span class="comment">// Assume all effective unless overridden</span></div>
+<div class="line"><span class="lineno">  215</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  216</span>    }</div>
+<div class="ttc" id="aa29488_html_a6dede4a2256ff21fde331ae05d257718"><div class="ttname"><a href="../../d6/d34/a29488.html#a6dede4a2256ff21fde331ae05d257718">HealInfoStub::SetHeal</a></div><div class="ttdeci">void SetHeal(uint32_t heal)</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:114</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00256">_stub</a>, <a class="el" href="../../#l00115">HealInfoStub::SetEffectiveHeal()</a>, and <a class="el" href="../../#l00114">HealInfoStub::SetHeal()</a>.</p>
+
+</div>
+</div>
+<a id="ab788ddcc209140ed3c10b02785471dcb" name="ab788ddcc209140ed3c10b02785471dcb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab788ddcc209140ed3c10b02785471dcb">&#9670;&#160;</a></span>WithHitMask()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dfc/a29496.html">HealInfoStubBuilder</a> &amp; HealInfoStubBuilder::WithHitMask </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>hitMask</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  248</span>    {</div>
+<div class="line"><span class="lineno">  249</span>        <a class="code hl_variable" href="../../d1/dfc/a29496.html#ad0da544c651e387d8c6e9b272aa3db7b">_stub</a>.<a class="code hl_function" href="../../d6/d34/a29488.html#a4f50475819621d56efd4e359ed004483">SetHitMask</a>(hitMask);</div>
+<div class="line"><span class="lineno">  250</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  251</span>    }</div>
+<div class="ttc" id="aa29488_html_a4f50475819621d56efd4e359ed004483"><div class="ttname"><a href="../../d6/d34/a29488.html#a4f50475819621d56efd4e359ed004483">HealInfoStub::SetHitMask</a></div><div class="ttdeci">void SetHitMask(uint32_t hitMask)</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:124</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00256">_stub</a>, and <a class="el" href="../../#l00124">HealInfoStub::SetHitMask()</a>.</p>
+
+</div>
+</div>
+<a id="a89c12c30725eb2bdc3889005a38d54eb" name="a89c12c30725eb2bdc3889005a38d54eb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a89c12c30725eb2bdc3889005a38d54eb">&#9670;&#160;</a></span>WithOverheal()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dfc/a29496.html">HealInfoStubBuilder</a> &amp; HealInfoStubBuilder::WithOverheal </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>overheal</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  225</span>    {</div>
+<div class="line"><span class="lineno">  226</span>        <span class="comment">// Overheal = Heal - EffectiveHeal</span></div>
+<div class="line"><span class="lineno">  227</span>        <span class="comment">// So EffectiveHeal = Heal - Overheal</span></div>
+<div class="line"><span class="lineno">  228</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d1/dfc/a29496.html#ad0da544c651e387d8c6e9b272aa3db7b">_stub</a>.<a class="code hl_function" href="../../d6/d34/a29488.html#abc0ad944af22920bc105b1b4c71ad467">GetHeal</a>() &gt;= overheal)</div>
+<div class="line"><span class="lineno">  229</span>        {</div>
+<div class="line"><span class="lineno">  230</span>            <a class="code hl_variable" href="../../d1/dfc/a29496.html#ad0da544c651e387d8c6e9b272aa3db7b">_stub</a>.<a class="code hl_function" href="../../d6/d34/a29488.html#ad8c263f50edf324a72ca366f6caf4377">SetEffectiveHeal</a>(<a class="code hl_variable" href="../../d1/dfc/a29496.html#ad0da544c651e387d8c6e9b272aa3db7b">_stub</a>.<a class="code hl_function" href="../../d6/d34/a29488.html#abc0ad944af22920bc105b1b4c71ad467">GetHeal</a>() - overheal);</div>
+<div class="line"><span class="lineno">  231</span>        }</div>
+<div class="line"><span class="lineno">  232</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  233</span>    }</div>
+<div class="ttc" id="aa29488_html_abc0ad944af22920bc105b1b4c71ad467"><div class="ttname"><a href="../../d6/d34/a29488.html#abc0ad944af22920bc105b1b4c71ad467">HealInfoStub::GetHeal</a></div><div class="ttdeci">uint32_t GetHeal() const</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:109</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00256">_stub</a>, <a class="el" href="../../#l00109">HealInfoStub::GetHeal()</a>, and <a class="el" href="../../#l00115">HealInfoStub::SetEffectiveHeal()</a>.</p>
+
+</div>
+</div>
+<a id="a4dc784241fbe998437cceb953fb83e1f" name="a4dc784241fbe998437cceb953fb83e1f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4dc784241fbe998437cceb953fb83e1f">&#9670;&#160;</a></span>WithSpellInfo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/dfc/a29496.html">HealInfoStubBuilder</a> &amp; HealInfoStubBuilder::WithSpellInfo </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname"><em>spellInfo</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  242</span>    {</div>
+<div class="line"><span class="lineno">  243</span>        <a class="code hl_variable" href="../../d1/dfc/a29496.html#ad0da544c651e387d8c6e9b272aa3db7b">_stub</a>.<a class="code hl_function" href="../../d6/d34/a29488.html#a2e5ac0bb798710d33e0ff4c29c8507a0">SetSpellInfo</a>(spellInfo);</div>
+<div class="line"><span class="lineno">  244</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  245</span>    }</div>
+<div class="ttc" id="aa29488_html_a2e5ac0bb798710d33e0ff4c29c8507a0"><div class="ttname"><a href="../../d6/d34/a29488.html#a2e5ac0bb798710d33e0ff4c29c8507a0">HealInfoStub::SetSpellInfo</a></div><div class="ttdeci">void SetSpellInfo(SpellInfo const *spellInfo)</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:120</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00256">_stub</a>, and <a class="el" href="../../#l00120">HealInfoStub::SetSpellInfo()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="ad0da544c651e387d8c6e9b272aa3db7b" name="ad0da544c651e387d8c6e9b272aa3db7b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad0da544c651e387d8c6e9b272aa3db7b">&#9670;&#160;</a></span>_stub</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d34/a29488.html">HealInfoStub</a> HealInfoStubBuilder::_stub</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00253">Build()</a>, <a class="el" href="../../#l00235">WithAbsorb()</a>, <a class="el" href="../../#l00218">WithEffectiveHeal()</a>, <a class="el" href="../../#l00211">WithHeal()</a>, <a class="el" href="../../#l00247">WithHitMask()</a>, <a class="el" href="../../#l00224">WithOverheal()</a>, and <a class="el" href="../../#l00241">WithSpellInfo()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -189,8 +433,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_ac5beb3152ba3ce8038adbba12e192c7.html">tools</a></li><li class="navelem"><a class="el" href="../../dir_b604cd515113e1b9d14f26b265d784ac.html">vmap4_extractor</a></li><li class="navelem"><a class="el" href="../../d1/dfc/a29496.html">mpq_libmpq04.h</a></li>
-    <li class="footer">Generated on Mon Sep 23 2024 20:43:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d1/dfc/a29496.html">HealInfoStubBuilder</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:15:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,7 +1,9 @@
 var a07252 =
 [
-    [ "BfGraveyardWG", "dc/d4a/a07252.html#a040af569e6633e4ed4c7513b55d034ac", null ],
-    [ "GetTextId", "dc/d4a/a07252.html#ae1dfdc2d5a36f10f1a116d56b27545ed", null ],
-    [ "SetTextId", "dc/d4a/a07252.html#a367d525e84d8634f47fb6679c2ee3d42", null ],
-    [ "m_GossipTextId", "dc/d4a/a07252.html#ab85d716c0b93f8a17d7bf0dccabc21c6", null ]
+    [ "ObjectGuidVector", "dc/d4a/a07252.html#aa49ab82006c390e7110013b44c018c0f", null ],
+    [ "~ObjectGuidVector", "dc/d4a/a07252.html#a07fe3304a0edffa1f17a0ce5f97d01e6", null ],
+    [ "GetObjectVector", "dc/d4a/a07252.html#a94ee201dcf0750edb84cedb151e9ff22", null ],
+    [ "UpdateObjects", "dc/d4a/a07252.html#a8b6dad1739f51bba936257410a968c6e", null ],
+    [ "_guidVector", "dc/d4a/a07252.html#aefce0edc7881ca01ba8c8c98067e165d", null ],
+    [ "_objectVector", "dc/d4a/a07252.html#a78137cb1ae9930c11f87a4a8ed5e7e26", null ]
 ];

@@ -1,6 +1,6 @@
 var a11268 =
 [
-    [ "WorldSession", "d5/d14/a11268.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Guid", "d5/d14/a11268.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
-    [ "Name", "d5/d14/a11268.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
+    [ "DismissCritter", "d5/d14/a11268.html#a87e35583063b340f014d21cd02c54cab", null ],
+    [ "Read", "d5/d14/a11268.html#a411b65505e8a332ecf9291a670dc38c4", null ],
+    [ "CritterGUID", "d5/d14/a11268.html#a89c071e81c9d39c099c32c4976f15304", null ]
 ];

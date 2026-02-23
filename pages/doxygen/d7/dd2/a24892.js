@@ -1,9 +1,10 @@
 var a24892 =
 [
-    [ "HandleApply", "d7/dd2/a24892.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
-    [ "HandleRemove", "d7/dd2/a24892.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
-    [ "PrepareAuraScript", "d7/dd2/a24892.html#af2b8e669737cd4282beb6a5035f496fc", null ],
-    [ "RecalculateBaseArmor", "d7/dd2/a24892.html#a693720558c7b2b22c41a49a402522014", null ],
-    [ "Register", "d7/dd2/a24892.html#aff9bc58342383afe5a08be696cddedf6", null ],
-    [ "Validate", "d7/dd2/a24892.html#ad712e1e05d94372defdfa4fe67e65716", null ]
+    [ "CalcAmount", "d7/dd2/a24892.html#a182d563b0527e35ea641116a6a808aa8", null ],
+    [ "CalcPeriodic", "d7/dd2/a24892.html#a542da5e81c75d56ad33152d54b5cac3a", null ],
+    [ "Load", "d7/dd2/a24892.html#a45b2d3dee0d5e514d2351c3f3679e3d3", null ],
+    [ "PrepareAuraScript", "d7/dd2/a24892.html#ac320eec2b8a3a7cc3820a49007710520", null ],
+    [ "Register", "d7/dd2/a24892.html#a37181afac00639716ae2ce10d82ecb23", null ],
+    [ "UpdatePeriodic", "d7/dd2/a24892.html#af4f971e2d5c2d2f4b1ced0e64e8c1871", null ],
+    [ "Validate", "d7/dd2/a24892.html#a3a6c68e8918612745cfb35df84bf7d14", null ]
 ];

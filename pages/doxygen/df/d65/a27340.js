@@ -1,5 +1,8 @@
 var a27340 =
 [
-    [ "AreaTrigger_at_scent_larkorwi", "df/d65/a27340.html#a967a43eae4cc986754eed9ee8291c17e", null ],
-    [ "OnTrigger", "df/d65/a27340.html#aeeb339afa5a7dd4b028aea800026998e", null ]
+    [ "FilterTargets", "df/d65/a27340.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
+    [ "HandleDummy", "df/d65/a27340.html#a2214b10da042a3af2fd3311872cc5286", null ],
+    [ "PrepareSpellScript", "df/d65/a27340.html#a9959966856601f79a83931a7a7ecff91", null ],
+    [ "Register", "df/d65/a27340.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
+    [ "Validate", "df/d65/a27340.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
 ];

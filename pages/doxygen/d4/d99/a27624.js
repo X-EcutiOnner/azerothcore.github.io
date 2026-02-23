@@ -1,8 +1,8 @@
 var a27624 =
 [
-    [ "go_bellsAI", "d4/d99/a27624.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "d4/d99/a27624.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "d4/d99/a27624.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "d4/d99/a27624.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "d4/d99/a27624.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "HandleDummyTick", "d4/d99/a27624.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
+    [ "HandleRemove", "d4/d99/a27624.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
+    [ "PrepareAuraScript", "d4/d99/a27624.html#a06e45d5f63ef1395b5949482e8393098", null ],
+    [ "Register", "d4/d99/a27624.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
+    [ "Validate", "d4/d99/a27624.html#a9a2da4d163a96526e14f5de76798a784", null ]
 ];

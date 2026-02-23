@@ -1,9 +1,12 @@
 var a04805 =
 [
-    [ "TEST", "d9/d75/a04805.html#a7a11632378897367b979b12423a3f5dd", null ],
-    [ "TEST", "d9/d75/a04805.html#ac23831b7258f696b9e9a4972c42b5a4c", null ],
-    [ "TEST", "d9/d75/a04805.html#a5fcf85473a490662471938a1f773d6e2", null ],
-    [ "TEST", "d9/d75/a04805.html#a8ffadf8c8dbffb858cf2a925473d6bff", null ],
-    [ "TEST", "d9/d75/a04805.html#a23ac78cb09ef0a7b924b271ffefbc6a9", null ],
-    [ "TEST", "d9/d75/a04805.html#a9b7a926251db0fa2bd2678cee360e161", null ]
+    [ "AC_COMPILER_BORLAND", "d9/d75/a04805.html#ad92d7f8e69537bfc6f28bfce27856c1f", null ],
+    [ "AC_COMPILER_GNU", "d9/d75/a04805.html#a8ffa78a105635ede693224673028c4ed", null ],
+    [ "AC_COMPILER_INTEL", "d9/d75/a04805.html#a60132e229252e2d0020a2ba6fd0309c3", null ],
+    [ "AC_COMPILER_MICROSOFT", "d9/d75/a04805.html#ac8ee3c2752751f98265e16c95cbaea47", null ],
+    [ "AC_PLATFORM", "d9/d75/a04805.html#a490dd7a4e0c23e207dd9285027ae8b33", null ],
+    [ "AC_PLATFORM_APPLE", "d9/d75/a04805.html#a4f72821a90afaf788ba291d1f6fb11b8", null ],
+    [ "AC_PLATFORM_INTEL", "d9/d75/a04805.html#a2d79201ecf9fb7b1f6d0c131f9b7b8ba", null ],
+    [ "AC_PLATFORM_UNIX", "d9/d75/a04805.html#a96b4a3022030f69221679448f34f1972", null ],
+    [ "AC_PLATFORM_WINDOWS", "d9/d75/a04805.html#a15c00b0ab8f2f092270745de87d6bd8f", null ]
 ];

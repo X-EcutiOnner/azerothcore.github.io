@@ -1,4 +1,5 @@
 var a00056 =
 [
-    [ "AsyncCallbackProcessor< T >", "d0/d8e/a05537.html", "d0/d8e/a05537" ]
+    [ "BattlefieldMgr", "d0/d69/a07368.html", "d0/d69/a07368" ],
+    [ "sBattlefieldMgr", "d9/d2e/a00056.html#a4545b2a440043037e8dad52c0f644f48", null ]
 ];

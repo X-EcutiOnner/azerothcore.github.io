@@ -1,8 +1,6 @@
 var a28192 =
 [
-    [ "DamagedDisplayId", "dd/d2d/a28192.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
-    [ "DestroyedDisplayId", "dd/d2d/a28192.html#afc891df0c9491a34f784e8f141434be5", null ],
-    [ "Id", "dd/d2d/a28192.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
-    [ "RebuildingDisplayId", "dd/d2d/a28192.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
-    [ "SmokeDisplayId", "dd/d2d/a28192.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
+    [ "go_fel_crystalforge", "dd/d2d/a28192.html#aa44708a617edd51651da49918ab776e5", null ],
+    [ "OnGossipHello", "dd/d2d/a28192.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
+    [ "OnGossipSelect", "dd/d2d/a28192.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
 ];

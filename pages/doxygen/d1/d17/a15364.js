@@ -1,5 +1,4 @@
 var a15364 =
 [
-    [ "boss_kri", "d1/d17/a15364.html#a0a95f8d2a380ab48ffd5a034e012cc2c", null ],
-    [ "JustEngagedWith", "d1/d17/a15364.html#ab2169ec49ecbff2ee1460e38bd1a163e", null ]
+    [ "instance_ragefire_chasm_InstanceMapScript", "d1/d17/a15364.html#a4b55a59943c798b203a0a3c811588e7d", null ]
 ];

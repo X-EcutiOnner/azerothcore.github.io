@@ -1,6 +1,8 @@
 var a13780 =
 [
-    [ "instance_uldaman_InstanceMapScript", "dd/d43/a13784.html", "dd/d43/a13784" ],
-    [ "instance_uldaman", "de/dd6/a13780.html#a854807db729d15aa4a09aad051fe3bda", null ],
-    [ "GetInstanceScript", "de/dd6/a13780.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
+    [ "OnPeriodic", "de/dd6/a13780.html#acd400b0a061d1814591e33d16bf4180a", null ],
+    [ "OnRemove", "de/dd6/a13780.html#a3da85c726007690220e9b4f81d30f185", null ],
+    [ "PrepareAuraScript", "de/dd6/a13780.html#a216d723f309ffa46df4bba7af79752c8", null ],
+    [ "Register", "de/dd6/a13780.html#a43fe84c2717d73e20a2562f596a84f36", null ],
+    [ "Validate", "de/dd6/a13780.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
 ];

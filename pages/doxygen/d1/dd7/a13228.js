@@ -1,16 +1,8 @@
 var a13228 =
 [
-    [ "npc_unworthy_initiateAI", "d1/dd7/a13228.html#ae535d3335eb7865400f9e5c24b1dd3b5", null ],
-    [ "EventStart", "d1/dd7/a13228.html#a1973d5a14a1ac19be1d74cf57693cabe", null ],
-    [ "JustEngagedWith", "d1/dd7/a13228.html#aeedb0af23823ec5c7ff4f951c872552e", null ],
-    [ "MovementInform", "d1/dd7/a13228.html#afbf6d71b196067400256df98949ae963", null ],
-    [ "Reset", "d1/dd7/a13228.html#aba37cb6291a2e7436f8af796c50dead9", null ],
-    [ "UpdateAI", "d1/dd7/a13228.html#a485695877f48aea0bb191e8b312f9c99", null ],
-    [ "anchorGUID", "d1/dd7/a13228.html#acb1b338fae07b3ececfc8c15cc5ea80b", null ],
-    [ "anchorX", "d1/dd7/a13228.html#a69455d3e3f822c2f2a4f8c3f89e4586d", null ],
-    [ "anchorY", "d1/dd7/a13228.html#a67bbfac4014f2907cc9ad9caca80a4be", null ],
-    [ "events", "d1/dd7/a13228.html#a4eff6a50c098c3f851274ece860fb6fb", null ],
-    [ "phase", "d1/dd7/a13228.html#a299de7b4e1992edebd0a87c119d06d0a", null ],
-    [ "playerGUID", "d1/dd7/a13228.html#a02d1e6dd7a302e170b08f0c90f038ca9", null ],
-    [ "wait_timer", "d1/dd7/a13228.html#a9270c6e57cf77805769cfe692beefbe0", null ]
+    [ "CalcPeriodic", "d1/dd7/a13228.html#a493609298c152df8216641ba2e5861cd", null ],
+    [ "PrepareAuraScript", "d1/dd7/a13228.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
+    [ "Register", "d1/dd7/a13228.html#a44002db5980dfc1db816cf61fd446491", null ],
+    [ "Update", "d1/dd7/a13228.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
+    [ "Validate", "d1/dd7/a13228.html#a060e189aaa4396681d42906b65c9196f", null ]
 ];

@@ -1,7 +1,5 @@
 var a18280 =
 [
-    [ "FrostBombExplosion", "d3/d41/a18280.html#ac7d318e241e6442e8aa084b27ea50236", null ],
-    [ "Execute", "d3/d41/a18280.html#a0b6521266f18b621260286c530ff3f36", null ],
-    [ "_owner", "d3/d41/a18280.html#aa9ff39ce43c351e8815f895896fa759b", null ],
-    [ "_sindragosaGUID", "d3/d41/a18280.html#a5afc3d543c8fa457c90735f841aa161c", null ]
+    [ "npc_volatile_oozeAI", "d3/d41/a18280.html#af042d4c22482aabcdad6fa867dfe093f", null ],
+    [ "CastMainSpell", "d3/d41/a18280.html#a91890785174ecc60c9553a0aedf1961b", null ]
 ];

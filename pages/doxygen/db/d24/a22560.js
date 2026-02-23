@@ -1,8 +1,8 @@
 var a22560 =
 [
-    [ "npc_wg_queueAI", "d3/d57/a22564.html", "d3/d57/a22564" ],
-    [ "npc_wg_queue", "db/d24/a22560.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
-    [ "GetAI", "db/d24/a22560.html#ad2d7746a32b520d37ea826b03627de4e", null ],
-    [ "OnGossipHello", "db/d24/a22560.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
-    [ "OnGossipSelect", "db/d24/a22560.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
+    [ "npc_anzu_spirit", "db/d24/a22560.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
+    [ "IsSummonedBy", "db/d24/a22560.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
+    [ "Reset", "db/d24/a22560.html#acef3f7093f93b6c227d145523cdc487a", null ],
+    [ "UpdateAI", "db/d24/a22560.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
+    [ "_scheduler", "db/d24/a22560.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
 ];

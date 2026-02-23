@@ -1,6 +1,6 @@
 var a04523 =
 [
-    [ "lfg_commandscript", "d5/d48/a12025.html", "d5/d48/a12025" ],
-    [ "AddSC_lfg_commandscript", "d7/ddc/a04523.html#a484938015a7f5ffa8f5b1d0e259d355b", null ],
-    [ "GetPlayerInfo", "d7/ddc/a04523.html#a1d2591add059e8c4daf04b9f706da765", null ]
+    [ "GameObjectModelOwnerBase", "d6/dd5/a05228.html", "d6/dd5/a05228" ],
+    [ "GameObjectModel", "d5/d8b/a05232.html", "d5/d8b/a05232" ],
+    [ "LoadGameObjectModelList", "d7/ddc/a04523.html#a5a80774080fc05f90c7d92213fda6788", null ]
 ];

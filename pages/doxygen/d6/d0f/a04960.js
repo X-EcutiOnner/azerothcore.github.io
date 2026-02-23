@@ -1,7 +1,7 @@
 var a04960 =
 [
-    [ "indices", "d6/d0f/a04960.html#a23cadbd54502fb4edc68e052e5774664", null ],
-    [ "maxPrims", "d6/d0f/a04960.html#a0c46f35977fe683a19e7cb1e580a814b", null ],
-    [ "numPrims", "d6/d0f/a04960.html#a623b9ee05707ecdbaa816c797e358e86", null ],
-    [ "primBound", "d6/d0f/a04960.html#a3304ad5d821f178941fd44da897213de", null ]
+    [ "For", "d8/dcc/a05728.html", null ],
+    [ "For< bool, void >", "d7/df8/a05736.html", "d7/df8/a05736" ],
+    [ "For< T, std::enable_if_t< std::is_floating_point_v< T > > >", "d2/db8/a05740.html", "d2/db8/a05740" ],
+    [ "For< T, std::enable_if_t< std::is_integral_v< T > &&!std::is_same_v< T, bool > > >", "d8/d78/a05732.html", "d8/d78/a05732" ]
 ];

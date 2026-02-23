@@ -1,8 +1,8 @@
 var a27680 =
 [
-    [ "trigger_periodicAI", "dd/d04/a27680.html#a696d62fed28de9c67827dad111cf320b", null ],
-    [ "UpdateAI", "dd/d04/a27680.html#aed31d60765eff7dd11790714e28e729e", null ],
-    [ "interval", "dd/d04/a27680.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
-    [ "spell", "dd/d04/a27680.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
-    [ "timer", "dd/d04/a27680.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
+    [ "ApplyEffect", "dd/d04/a27680.html#ad29ed182a00516e736bb8d1381f4ac84", null ],
+    [ "HandleEffectPeriodicUpdate", "dd/d04/a27680.html#ad5319328c018dbb3ddbd58bfc08589c4", null ],
+    [ "PrepareAuraScript", "dd/d04/a27680.html#a7673ff384e88fa76efa52ecb60b97d9b", null ],
+    [ "Register", "dd/d04/a27680.html#ade5af0ec82bc43d89919ceaaa31bce20", null ],
+    [ "_tick_amount", "dd/d04/a27680.html#a33d9f114efa50a2fdfe7a17852a474f7", null ]
 ];

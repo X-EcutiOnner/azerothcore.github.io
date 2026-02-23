@@ -1,6 +1,6 @@
 var a20828 =
 [
-    [ "boss_thorim_pillarAI", "d3/d3d/a20832.html", "d3/d3d/a20832" ],
-    [ "boss_thorim_pillar", "de/d74/a20828.html#a7a2cbafc1d359d7b33bb735342cdfe2d", null ],
-    [ "GetAI", "de/d74/a20828.html#af95d5e819292af9b54a022674b74af70", null ]
+    [ "boss_yoggsaron_death_orb", "de/d74/a20828.html#aad626ea1576dc2efe2d228e4919de393", null ],
+    [ "UpdateAI", "de/d74/a20828.html#a9557c25da8cfdc6b7e62ff9b2b78714b", null ],
+    [ "_startTimer", "de/d74/a20828.html#a272b6b4c6c8f1f9fed933b9e1fd6f749", null ]
 ];

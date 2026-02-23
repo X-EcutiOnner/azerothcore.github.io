@@ -1,8 +1,9 @@
 var a22932 =
 [
-    [ "npc_parasitic_shadowfiend", "da/da6/a22932.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
-    [ "CanAIAttack", "da/da6/a22932.html#ac7600aed313f1413cb9b522d60d30329", null ],
-    [ "EnterEvadeMode", "da/da6/a22932.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
-    [ "IsSummonedBy", "da/da6/a22932.html#a306c696d4243c4525d0a3908a212135d", null ],
-    [ "UpdateAI", "da/da6/a22932.html#a2706a4ba7876f299b02d2e720f512af2", null ]
+    [ "boss_najentus", "da/da6/a22932.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "da/da6/a22932.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "da/da6/a22932.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "da/da6/a22932.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "da/da6/a22932.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
+    [ "_canTalk", "da/da6/a22932.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
 ];

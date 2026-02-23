@@ -1,6 +1,8 @@
 var a15760 =
 [
-    [ "npc_bunthen_plainswind", "dc/d88/a15760.html#ad9b789ad3e958dee4733b142813b6302", null ],
-    [ "OnGossipHello", "dc/d88/a15760.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
-    [ "OnGossipSelect", "dc/d88/a15760.html#a117f28d513ac645b9d3d908d052d2146", null ]
+    [ "npc_injured_draeneiAI", "dc/d88/a15760.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
+    [ "JustEngagedWith", "dc/d88/a15760.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
+    [ "MoveInLineOfSight", "dc/d88/a15760.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
+    [ "Reset", "dc/d88/a15760.html#adcb601f739a91ce71926791885152471", null ],
+    [ "UpdateAI", "dc/d88/a15760.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
 ];

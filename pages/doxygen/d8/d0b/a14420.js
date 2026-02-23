@@ -1,6 +1,5 @@
 var a14420 =
 [
-    [ "boss_wushoolayAI", "db/db3/a14424.html", "db/db3/a14424" ],
-    [ "boss_wushoolay", "d8/d0b/a14420.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
-    [ "GetAI", "d8/d0b/a14420.html#a70b476358956fd05d6effb75517e2b3d", null ]
+    [ "at_zulgurub_entrance_speech", "d8/d0b/a14420.html#afef11c6a7e97befd07072826fa13be55", null ],
+    [ "_OnTrigger", "d8/d0b/a14420.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
 ];

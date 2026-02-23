@@ -1,6 +1,7 @@
 var a13836 =
 [
-    [ "npc_balance_of_light_and_shadowAI", "db/dde/a13840.html", "db/dde/a13840" ],
-    [ "npc_balance_of_light_and_shadow", "db/d55/a13836.html#a55229e3ea8dd9c52972185b36c08908b", null ],
-    [ "GetAI", "db/d55/a13836.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
+    [ "HandleScriptEffect", "db/d55/a13836.html#ae631c634c77cc207338e3549a664969b", null ],
+    [ "PrepareSpellScript", "db/d55/a13836.html#ac9f825f10512be5849c46460e9cdbec8", null ],
+    [ "Register", "db/d55/a13836.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
+    [ "Validate", "db/d55/a13836.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
 ];

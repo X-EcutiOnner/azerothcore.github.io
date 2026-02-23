@@ -1,9 +1,6 @@
 var a23036 =
 [
-    [ "HandleAfterCast", "da/d44/a23036.html#a32928b579ef42f377e911ef27197ed61", null ],
-    [ "HandleDummy", "da/d44/a23036.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
-    [ "Load", "da/d44/a23036.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
-    [ "PrepareSpellScript", "da/d44/a23036.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
-    [ "Register", "da/d44/a23036.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
-    [ "_targetCount", "da/d44/a23036.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
+    [ "LeechingThrowSelector", "da/d44/a23036.html#a4308c7be06e2e70d3a269b6dc78420cb", null ],
+    [ "operator()", "da/d44/a23036.html#a76c7746a9b0aee52201881c4d9572bde", null ],
+    [ "_source", "da/d44/a23036.html#a22a123333a8fbd50ccd4c37afe28d2f0", null ]
 ];

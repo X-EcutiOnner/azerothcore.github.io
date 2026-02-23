@@ -1,8 +1,10 @@
 var a29284 =
 [
-    [ "_ACORE_DB_IMPORT_CONFIG", "d2/de4/a29284.html#a97392c73658eeeb49d256527b19ad90f", null ],
-    [ "GetConsoleArguments", "d2/de4/a29284.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "main", "d2/de4/a29284.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "StartDB", "d2/de4/a29284.html#a1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "d2/de4/a29284.html#a927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "attackSpeed", "d2/de4/a29284.html#ab5242f7367e8799a556176178c72fc88", null ],
+    [ "creatureType", "d2/de4/a29284.html#a3dff9074b85261932ed8a8a550c5395b", null ],
+    [ "flags1", "d2/de4/a29284.html#a026745f2ce754d754858d69ee219b518", null ],
+    [ "ID", "d2/de4/a29284.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
+    [ "modelID_A", "d2/de4/a29284.html#a86dfa61342583d920b7d8496bce4b49d", null ],
+    [ "modelID_H", "d2/de4/a29284.html#a1ee597d6fd02507b682874929645e01d", null ],
+    [ "stanceSpell", "d2/de4/a29284.html#a08f54b905e905fb5a59e449f8c613c08", null ]
 ];

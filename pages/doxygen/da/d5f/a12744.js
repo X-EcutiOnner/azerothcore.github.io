@@ -1,7 +1,8 @@
 var a12744 =
 [
-    [ "HandleHit", "da/d5f/a12744.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
-    [ "Load", "da/d5f/a12744.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
-    [ "PrepareSpellScript", "da/d5f/a12744.html#a9fb8d980381264a2ef645f2e620abd21", null ],
-    [ "Register", "da/d5f/a12744.html#a4998015873f0e0ca768c20b0f95fda90", null ]
+    [ "FilterTargets", "da/d5f/a12744.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
+    [ "FilterTargetsEff", "da/d5f/a12744.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
+    [ "PrepareSpellScript", "da/d5f/a12744.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
+    [ "Register", "da/d5f/a12744.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
+    [ "targetList", "da/d5f/a12744.html#a874dc7877ecfae332c9f826f01afce0f", null ]
 ];

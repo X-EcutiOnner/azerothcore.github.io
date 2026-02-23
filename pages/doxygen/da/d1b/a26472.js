@@ -1,9 +1,8 @@
 var a26472 =
 [
-    [ "CheckCast", "da/d1b/a26472.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
-    [ "HandleDummy", "da/d1b/a26472.html#a7f79495525687fba6229f48935b2558a", null ],
-    [ "Load", "da/d1b/a26472.html#a0c73457e44a3d64bdccee78d28893672", null ],
-    [ "PrepareSpellScript", "da/d1b/a26472.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
-    [ "Register", "da/d1b/a26472.html#ab9f09394ab301350a2abaefde90632fe", null ],
-    [ "Validate", "da/d1b/a26472.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
+    [ "OnRemove", "da/d1b/a26472.html#a992c78ac4ce2a94c4f38c7a81f2a9c45", null ],
+    [ "PrepareAuraScript", "da/d1b/a26472.html#ad06dbe9207315484cbb886fcc75bb958", null ],
+    [ "PrepareProc", "da/d1b/a26472.html#a2f4b562be28420d25d09b81ad72af17f", null ],
+    [ "Register", "da/d1b/a26472.html#a04d9c48f8842392a4d318677537ac248", null ],
+    [ "Validate", "da/d1b/a26472.html#ab15a75ec708d8c683166bd73fab29701", null ]
 ];

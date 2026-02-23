@@ -1,9 +1,7 @@
 var a16892 =
 [
-    [ "npc_concentrated_ballAI", "dc/d25/a16892.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
-    [ "DoAction", "dc/d25/a16892.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
-    [ "MovementInform", "dc/d25/a16892.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
-    [ "MoveToNextPoint", "dc/d25/a16892.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
-    [ "UpdateAI", "dc/d25/a16892.html#a6509ff14639bca29b6877db54102d004", null ],
-    [ "despawning", "dc/d25/a16892.html#a24145c6c4c38b5a1853647d24871090d", null ]
+    [ "npc_toc_warriorAI", "dc/d25/a16892.html#a6eee7e4fc83ed56a0f775b6892dc8dcb", null ],
+    [ "myCanCast", "dc/d25/a16892.html#ac815e13cbbe9a8833330e15213420c65", null ],
+    [ "UpdateAI", "dc/d25/a16892.html#aa787deda09d9bbf2c54d51e618eb2a82", null ],
+    [ "events", "dc/d25/a16892.html#ae8f9d3f5f2c9172442c7ba4a83275cc1", null ]
 ];

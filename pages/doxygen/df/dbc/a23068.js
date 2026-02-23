@@ -1,7 +1,6 @@
 var a23068 =
 [
-    [ "CheckProc", "df/dbc/a23068.html#a0968b7b32f2d2bef6035e030f544088a", null ],
-    [ "PrepareAuraScript", "df/dbc/a23068.html#ac424e41948196a6e60b790ebcf40783f", null ],
-    [ "Register", "df/dbc/a23068.html#a06bdac68e36b43ee534e937ffd974086", null ],
-    [ "Update", "df/dbc/a23068.html#af6c228840f6af96e353ba964fdd01e54", null ]
+    [ "HandleEffectRemove", "df/dbc/a23068.html#a9e578e576d8fa4198cf1f0e9f03ba47a", null ],
+    [ "PrepareAuraScript", "df/dbc/a23068.html#a5fa56f4d61c63487919bb2080795e391", null ],
+    [ "Register", "df/dbc/a23068.html#a2d0bbef8b32c688b7409837b426d9cd1", null ]
 ];

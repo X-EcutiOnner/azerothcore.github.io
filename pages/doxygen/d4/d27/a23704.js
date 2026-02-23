@@ -1,8 +1,7 @@
 var a23704 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "d4/d27/a23704.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
-    [ "GetData", "d4/d27/a23704.html#a410630dbbe00acf0b69603cfc357d503", null ],
-    [ "SetBossState", "d4/d27/a23704.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
-    [ "SetData", "d4/d27/a23704.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
-    [ "_addsKilled", "d4/d27/a23704.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
+    [ "CastQuill", "d4/d27/a23704.html#a923234809186bcbdf02457f4be095519", null ],
+    [ "Execute", "d4/d27/a23704.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
+    [ "_caster", "d4/d27/a23704.html#af809b9279aff141ce4007c8d1fbcc331", null ],
+    [ "_spellId", "d4/d27/a23704.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
 ];

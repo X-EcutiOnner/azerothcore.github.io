@@ -1,7 +1,8 @@
 var a17964 =
 [
-    [ "HandleScript", "de/dbb/a17964.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
-    [ "PrepareSpellScript", "de/dbb/a17964.html#ab69926839f72ee76eba2b225aba9690c", null ],
-    [ "Register", "de/dbb/a17964.html#aad8925e891d7537993f02f3bc2552fea", null ],
-    [ "SelectRandomTarget", "de/dbb/a17964.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
+    [ "ResetEncounterEvent", "de/dbb/a17964.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
+    [ "Execute", "de/dbb/a17964.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
+    [ "_caster", "de/dbb/a17964.html#abb37778222749b27791baa329e268c32", null ],
+    [ "_otherTransport", "de/dbb/a17964.html#a7f2d0aaade5833381e3e7624745fc504", null ],
+    [ "_spellId", "de/dbb/a17964.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
 ];

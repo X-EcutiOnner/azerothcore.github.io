@@ -1,11 +1,6 @@
 var a18224 =
 [
-    [ "npc_little_oozeAI", "d0/daf/a18224.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
-    [ "EnterEvadeMode", "d0/daf/a18224.html#a0bd4bfcc8c373a449f297011289e5530", null ],
-    [ "IsSummonedBy", "d0/daf/a18224.html#afb9763ade36bd742398a8bca961c136b", null ],
-    [ "JustDied", "d0/daf/a18224.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
-    [ "UpdateAI", "d0/daf/a18224.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
-    [ "events", "d0/daf/a18224.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
-    [ "firstUpdate", "d0/daf/a18224.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
-    [ "instance", "d0/daf/a18224.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
+    [ "npc_bone_spikeAI", "dc/d3f/a18228.html", "dc/d3f/a18228" ],
+    [ "npc_bone_spike", "d0/daf/a18224.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
+    [ "GetAI", "d0/daf/a18224.html#a887a9156f550ca55047fa501e1709d95", null ]
 ];

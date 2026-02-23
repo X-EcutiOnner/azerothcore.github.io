@@ -1,6 +1,7 @@
 var a18220 =
 [
-    [ "npc_little_oozeAI", "d0/daf/a18224.html", "d0/daf/a18224" ],
-    [ "npc_little_ooze", "d9/d49/a18220.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
-    [ "GetAI", "d9/d49/a18220.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
+    [ "npc_coldflameAI", "d9/d49/a18220.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
+    [ "IsSummonedBy", "d9/d49/a18220.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
+    [ "UpdateAI", "d9/d49/a18220.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
+    [ "events", "d9/d49/a18220.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
 ];

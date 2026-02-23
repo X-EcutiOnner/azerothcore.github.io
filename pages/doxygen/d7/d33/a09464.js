@@ -1,7 +1,9 @@
 var a09464 =
 [
-    [ "AnyUnitInObjectRangeCheck", "d7/d33/a09464.html#ab96cd47c1a4c585e52590b94cf8ff021", null ],
-    [ "operator()", "d7/d33/a09464.html#a0906cdad65a5b11dc6a8829ace8f135b", null ],
-    [ "i_obj", "d7/d33/a09464.html#a834214b260576a0fe01908a163428757", null ],
-    [ "i_range", "d7/d33/a09464.html#acc546656dbe9a405023ba56b028c8420", null ]
+    [ "UnitListSearcher", "d7/d33/a09464.html#a24c0de32dc3baa927962626421a343ae", null ],
+    [ "Visit", "d7/d33/a09464.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d", null ],
+    [ "Visit", "d7/d33/a09464.html#a92f9b0407e609b6c61f10d93aa49912f", null ],
+    [ "Visit", "d7/d33/a09464.html#a5fddd281a9f9cd10cf3948d4bf7b626f", null ],
+    [ "i_check", "d7/d33/a09464.html#a508a47e6261e7ae6e5669aee853ff99e", null ],
+    [ "i_phaseMask", "d7/d33/a09464.html#a43c863350bea423cf4a720c4c680fd4c", null ]
 ];

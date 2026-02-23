@@ -1,6 +1,7 @@
 var a22912 =
 [
-    [ "HandleScriptEffect", "db/dad/a22912.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
-    [ "PrepareSpellScript", "db/dad/a22912.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
-    [ "Register", "db/dad/a22912.html#aad6959f74932db219e991efd3b3af44a", null ]
+    [ "Absorb", "db/dad/a22912.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
+    [ "HandleEffectRemove", "db/dad/a22912.html#a3d4026e5208acb948c089a4bedba0de8", null ],
+    [ "PrepareAuraScript", "db/dad/a22912.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
+    [ "Register", "db/dad/a22912.html#a983cf678001efcbccc4b34a9ad919881", null ]
 ];

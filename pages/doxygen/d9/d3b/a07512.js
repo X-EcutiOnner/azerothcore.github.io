@@ -1,10 +1,14 @@
 var a07512 =
 [
-    [ "BattlegroundNA", "d9/d3b/a07512.html#abf646e63e474ac5bb381078ffd0f286e", null ],
-    [ "FillInitialWorldStates", "d9/d3b/a07512.html#af0932b648d2a4a4288409d8da360e06b", null ],
-    [ "HandleAreaTrigger", "d9/d3b/a07512.html#a6a70ff3655c516d45ac1acf959ad8f73", null ],
-    [ "HandlePlayerUnderMap", "d9/d3b/a07512.html#a098c01b5da65350b2af9ff53dc9f750c", null ],
-    [ "SetupBattleground", "d9/d3b/a07512.html#addc3350a283fdac24e7aa88c23a7945a", null ],
-    [ "StartingEventCloseDoors", "d9/d3b/a07512.html#a316492a374884822045971f6dc3db1e2", null ],
-    [ "StartingEventOpenDoors", "d9/d3b/a07512.html#a72a953c5047a434d28b98e6185173140", null ]
+    [ "IsArena", "d9/d3b/a07512.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
+    [ "BattlemasterEntry", "d9/d3b/a07512.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
+    [ "Id", "d9/d3b/a07512.html#a0fca37318585903f68695452a95011a9", null ],
+    [ "MaxLevel", "d9/d3b/a07512.html#a790f55d480d1454a5f6e5713c04314b7", null ],
+    [ "MaxPlayersPerTeam", "d9/d3b/a07512.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
+    [ "MaxStartDistSq", "d9/d3b/a07512.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
+    [ "MinLevel", "d9/d3b/a07512.html#a49fdf96a08376830a06956fd501cfa78", null ],
+    [ "MinPlayersPerTeam", "d9/d3b/a07512.html#ac1bea263b53de8573cdb8eb890175495", null ],
+    [ "ScriptId", "d9/d3b/a07512.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
+    [ "StartLocation", "d9/d3b/a07512.html#a8477d2156c8aa5bb89da038d1a779698", null ],
+    [ "Weight", "d9/d3b/a07512.html#aa7a051e8453599a7e82da763a6f91da2", null ]
 ];

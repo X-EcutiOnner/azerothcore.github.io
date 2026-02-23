@@ -1,8 +1,6 @@
 var a17800 =
 [
-    [ "ResetEncounterEvent", "da/d0b/a17800.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
-    [ "Execute", "da/d0b/a17800.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
-    [ "_caster", "da/d0b/a17800.html#abb37778222749b27791baa329e268c32", null ],
-    [ "_otherTransport", "da/d0b/a17800.html#a7f2d0aaade5833381e3e7624745fc504", null ],
-    [ "_spellId", "da/d0b/a17800.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
+    [ "FilterTargets", "da/d0b/a17800.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
+    [ "PrepareSpellScript", "da/d0b/a17800.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
+    [ "Register", "da/d0b/a17800.html#add40d7731b07b30b595f76f7d4e983f4", null ]
 ];

@@ -1,9 +1,11 @@
 var a23964 =
 [
-    [ "HandleEffectApply", "d6/d6b/a23964.html#ac9e030810cc1ffb3927943353bcbb764", null ],
-    [ "HandleEffectRemove", "d6/d6b/a23964.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
-    [ "Load", "d6/d6b/a23964.html#a60f41c19f5104eef82048fd1e3416abd", null ],
-    [ "PrepareAuraScript", "d6/d6b/a23964.html#a277d9865108acafac4b1a42bc5b5714b", null ],
-    [ "Register", "d6/d6b/a23964.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
-    [ "_falconSet", "d6/d6b/a23964.html#a1a20f75d251936bff7a0777831d79140", null ]
+    [ "npc_magister_aledis", "d6/d6b/a23964.html#a0e30c5d4f9fe023537a1b29258967630", null ],
+    [ "DamageTaken", "d6/d6b/a23964.html#a3c3b72de2dc3e2a1e2bdeab908f0691f", null ],
+    [ "Reset", "d6/d6b/a23964.html#ae0a701eeaacc5188b382c59ecef14518", null ],
+    [ "sGossipSelect", "d6/d6b/a23964.html#a9960de0b5be8b75e8b7bcc8f12c4f187", null ],
+    [ "StartFight", "d6/d6b/a23964.html#a9149ce0a1df781043a5590fe4612511a", null ],
+    [ "UpdateAI", "d6/d6b/a23964.html#aef885088193e2597e6990e3051a31ef7", null ],
+    [ "_events", "d6/d6b/a23964.html#a5b4cd0ab4d214547dca28b8b384f83df", null ],
+    [ "_playerGUID", "d6/d6b/a23964.html#a0954d3d1c9ad4eaff387bc2cf4f52aeb", null ]
 ];

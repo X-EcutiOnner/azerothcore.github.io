@@ -1,4 +1,6 @@
 var a28504 =
 [
-    [ "ID", "df/db6/a28504.html#a11f792510d9749f99371234b15a45beb", null ]
+    [ "npc_locksmith", "df/db6/a28504.html#af959a6395ebc33109405f18f262e4ecb", null ],
+    [ "OnGossipHello", "df/db6/a28504.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
+    [ "OnGossipSelect", "df/db6/a28504.html#a62ec02e226255ff1f81895391a6494b8", null ]
 ];

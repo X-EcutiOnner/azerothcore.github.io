@@ -1,7 +1,5 @@
 var a27000 =
 [
-    [ "HandleProc", "db/d45/a27000.html#a85df8d4086a980d2b0a441097a909143", null ],
-    [ "PrepareAuraScript", "db/d45/a27000.html#a4576f3d5af2d9265fa173f66d68ed512", null ],
-    [ "Register", "db/d45/a27000.html#ab5308a36bc3b878a2913a89a84051ad7", null ],
-    [ "Validate", "db/d45/a27000.html#a760a018b8410233e09065d94abeeb1ff", null ]
+    [ "spell_q55_sacred_cleansing", "db/d45/a27000.html#a4aa8a16350a7a55706841471fd985ca2", null ],
+    [ "GetSpellScript", "db/d45/a27000.html#a50a8f2d777169aaeef88533b66b88fb2", null ]
 ];

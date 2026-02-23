@@ -1,9 +1,5 @@
 var a07896 =
 [
-    [ "HyperlinkColor", "de/d51/a07896.html#a4b246814aa2e2ac930e1e9e4e79345f0", null ],
-    [ "operator==", "de/d51/a07896.html#aad186f06a8d61834ec94d29d305fa0f2", null ],
-    [ "a", "de/d51/a07896.html#a57d68da0bcaec609d89efb18185b7f03", null ],
-    [ "b", "de/d51/a07896.html#a5ef7a2aab07e2e9a5097a27a466adeca", null ],
-    [ "g", "de/d51/a07896.html#a4570365880f14c7f7c5e7d96332ae150", null ],
-    [ "r", "de/d51/a07896.html#a1b4e0f604b95a773d28b93601af8ffe0", null ]
+    [ "value_type", "de/d51/a07896.html#ab102122dc913801a43be2fc6e4d5b2b4", null ],
+    [ "TryConsume", "de/d51/a07896.html#a4916376e89113eea20071f4f584c6a75", null ]
 ];

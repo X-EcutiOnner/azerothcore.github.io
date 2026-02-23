@@ -1,6 +1,6 @@
 var a28256 =
 [
-    [ "AreaGroupId", "d0/d4c/a28256.html#a2868a59574e635d5f5859cfa01811151", null ],
-    [ "AreaId", "d0/d4c/a28256.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
-    [ "nextGroup", "d0/d4c/a28256.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
+    [ "guard_shattrath_scryerAI", "d8/d91/a28260.html", "d8/d91/a28260" ],
+    [ "guard_shattrath_scryer", "d0/d4c/a28256.html#a2ee4d6881d7c24cd848c590b84207663", null ],
+    [ "GetAI", "d0/d4c/a28256.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
 ];

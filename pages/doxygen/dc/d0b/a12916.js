@@ -1,6 +1,27 @@
 var a12916 =
 [
-    [ "HandleApply", "dc/d0b/a12916.html#ac9f6f1927c9f66682892c32d4a431cc4", null ],
-    [ "PrepareAuraScript", "dc/d0b/a12916.html#ae908ad87781553cc3bed05ea510a4447", null ],
-    [ "Register", "dc/d0b/a12916.html#a391dff720ed9d2d48aa69e48e69ba8df", null ]
+    [ "boss_ragnarosAI", "dc/d0b/a12916.html#a94c4efe28aac474a88eeb4b0f370af02", null ],
+    [ "AttackStart", "dc/d0b/a12916.html#a6c89e52fc1f34d08676a81fe83f6e820", null ],
+    [ "CanAIAttack", "dc/d0b/a12916.html#af5d86d91401c2543128866524ff4a44f", null ],
+    [ "DamageTaken", "dc/d0b/a12916.html#a869dfadf29a812e1d036a65bf2091d92", null ],
+    [ "DoAction", "dc/d0b/a12916.html#ad02bb8b22e166a2fd34fa56ddea3d396", null ],
+    [ "EnterEvadeMode", "dc/d0b/a12916.html#a9e043455beaadc2a47e0d753cc5c18d7", null ],
+    [ "HandleEmerge", "dc/d0b/a12916.html#ae15e53e682b9d8475861c64847d8b89c", null ],
+    [ "IsVictimWithinMeleeRange", "dc/d0b/a12916.html#a940e84dbc1d88d97a244dac000d1395d", null ],
+    [ "JustDied", "dc/d0b/a12916.html#a0455bacbe8356bdadd9c391115efcd68", null ],
+    [ "JustEngagedWith", "dc/d0b/a12916.html#ae71cafa0f60ce0ca6792524b5680d110", null ],
+    [ "JustSummoned", "dc/d0b/a12916.html#a249bbd12c520e81968e93a93d3dd272c", null ],
+    [ "KilledUnit", "dc/d0b/a12916.html#a4051c5bcb73419a8a5459732a148da4d", null ],
+    [ "Reset", "dc/d0b/a12916.html#a04a206275d57f0e0f2af0d7e98323696", null ],
+    [ "ScheduleCombatEvents", "dc/d0b/a12916.html#af1ce50fa9f251bf1d5270caca23d7dc1", null ],
+    [ "SetGUID", "dc/d0b/a12916.html#a6cfdec28239e47c35f5f3a8bbeb07dbc", null ],
+    [ "SummonedCreatureDies", "dc/d0b/a12916.html#aeda8df8fe34a59bea6e2bbb7d3fa0b72", null ],
+    [ "UpdateAI", "dc/d0b/a12916.html#afd770319814d46976e3d946b43e909a4", null ],
+    [ "_hasSubmergedOnce", "dc/d0b/a12916.html#a1e9b96abd69fce032a7ca6dff275703c", null ],
+    [ "_hasYelledMagmaBurst", "dc/d0b/a12916.html#a3026598fec3a0b4ba9a8b458aa411d33", null ],
+    [ "_isIntroDone", "dc/d0b/a12916.html#a9e7506026fc816aea5e1b58bab0e50c0", null ],
+    [ "_isKnockbackEmoteAllowed", "dc/d0b/a12916.html#a96505d1dbb57c7d52d8730952f5c46f8", null ],
+    [ "_lavaBurstGUIDS", "dc/d0b/a12916.html#ac2b114c221b2713b4c2ab039cf3bc924", null ],
+    [ "_processingMagmaBurst", "dc/d0b/a12916.html#af1f3bf328a3729e0c667bbbe9188b104", null ],
+    [ "extraEvents", "dc/d0b/a12916.html#adcb09077e86ad069dbe219bfc5c45613", null ]
 ];

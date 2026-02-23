@@ -1,17 +1,14 @@
 var a02348 =
 [
-    [ "GroupQueueInfo", "df/d98/a07421.html", "df/d98/a07421" ],
-    [ "BattlegroundQueue", "d9/d55/a07425.html", "d9/d55/a07425" ],
-    [ "BattlegroundQueue::SelectionPool", "d1/d5e/a07429.html", "d1/d5e/a07429" ],
-    [ "BGQueueInviteEvent", "d5/d97/a07433.html", "d5/d97/a07433" ],
-    [ "BGQueueRemoveEvent", "d7/dc5/a07437.html", "d7/dc5/a07437" ],
-    [ "BattlegroundQueueGroupTypes", "da/db4/a02348.html#a589e9d4a3badd48f91fddc2afa661b17", [
-      [ "BG_QUEUE_PREMADE_ALLIANCE", "da/db4/a02348.html#a589e9d4a3badd48f91fddc2afa661b17a8f1f06d0124e05efcb390e0e9a29ddf4", null ],
-      [ "BG_QUEUE_PREMADE_HORDE", "da/db4/a02348.html#a589e9d4a3badd48f91fddc2afa661b17a39d0b398e1bcd59620eb0f8701139d1c", null ],
-      [ "BG_QUEUE_NORMAL_ALLIANCE", "da/db4/a02348.html#a589e9d4a3badd48f91fddc2afa661b17a4b31b889f93f89bfaacde424717c2697", null ],
-      [ "BG_QUEUE_NORMAL_HORDE", "da/db4/a02348.html#a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d", null ],
-      [ "BG_QUEUE_CFBG", "da/db4/a02348.html#a589e9d4a3badd48f91fddc2afa661b17ab87d2294b56bc938b1c7bc14c5040239", null ],
-      [ "BG_QUEUE_MAX", "da/db4/a02348.html#a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992", null ]
+    [ "npc_cairne_bloodhoof", "dc/d8e/a16128.html", "dc/d8e/a16128" ],
+    [ "npc_cairne_bloodhoof::npc_cairne_bloodhoofAI", "da/d38/a16132.html", "da/d38/a16132" ],
+    [ "CairneBloodhoof", "da/db4/a02348.html#a1d11da63be1309061cba3b5e10f2bbd9", [
+      [ "SPELL_BERSERKER_CHARGE", "da/db4/a02348.html#a1d11da63be1309061cba3b5e10f2bbd9ae34e5e229d0caf06536a990d65605f66", null ],
+      [ "SPELL_CLEAVE", "da/db4/a02348.html#a1d11da63be1309061cba3b5e10f2bbd9a0de0a536dbf18ec5c2e76cfee1d751eb", null ],
+      [ "SPELL_MORTAL_STRIKE", "da/db4/a02348.html#a1d11da63be1309061cba3b5e10f2bbd9a7794ace87705e2898f8b60f1f5228110", null ],
+      [ "SPELL_THUNDERCLAP", "da/db4/a02348.html#a1d11da63be1309061cba3b5e10f2bbd9a7f4e66bb0a1b5b2705975420f645b16e", null ],
+      [ "SPELL_UPPERCUT", "da/db4/a02348.html#a1d11da63be1309061cba3b5e10f2bbd9aec5ad6f4170f697acf9499e4e06bb065", null ],
+      [ "SPELL_CAIRNES_HOOFPRINT", "da/db4/a02348.html#a1d11da63be1309061cba3b5e10f2bbd9aa5dbce7c49b1794438bd8cfc874c7104", null ]
     ] ],
-    [ "COUNT_OF_PLAYERS_TO_AVERAGE_WAIT_TIME", "da/db4/a02348.html#aebc536d6c303d31049ad05f333c275ba", null ]
+    [ "AddSC_thunder_bluff", "da/db4/a02348.html#ae5d674fbd346082d81f6f6720eed1081", null ]
 ];

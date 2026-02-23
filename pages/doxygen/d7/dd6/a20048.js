@@ -1,6 +1,8 @@
 var a20048 =
 [
-    [ "boss_flame_leviathan_seatAI", "d9/d09/a20052.html", "d9/d09/a20052" ],
-    [ "boss_flame_leviathan_seat", "d7/dd6/a20048.html#a0fc90640a5142d889f1c043270582a16", null ],
-    [ "GetAI", "d7/dd6/a20048.html#a0e17225aeb93e0a5f5442c4ac2362af8", null ]
+    [ "go_celestial_planetarium_accessAI", "d7/dd6/a20048.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
+    [ "GossipHello", "d7/dd6/a20048.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
+    [ "UpdateAI", "d7/dd6/a20048.html#a9b2bfb74a12e3258476387fc78cde574", null ],
+    [ "_locked", "d7/dd6/a20048.html#a37f83dbbb05e461d613a4c38001f785c", null ],
+    [ "events", "d7/dd6/a20048.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
 ];

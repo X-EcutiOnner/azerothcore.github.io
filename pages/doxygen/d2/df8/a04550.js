@@ -1,5 +1,7 @@
 var a04550 =
 [
-    [ "achievement_commandscript", "d4/d53/a11921.html", "d4/d53/a11921" ],
-    [ "AddSC_achievement_commandscript", "d2/df8/a04550.html#afeb482a8cffe8416071764bc4e78bff2", null ]
+    [ "VMAP::GroupLocationInfo", "d7/d64/a05180.html", "d7/d64/a05180" ],
+    [ "VMAP::LocationInfo", "dc/ded/a05184.html", "dc/ded/a05184" ],
+    [ "VMAP::StaticMapTree", "d6/d8c/a05188.html", "d6/d8c/a05188" ],
+    [ "VMAP::AreaInfo", "d9/d4a/a05192.html", "d9/d4a/a05192" ]
 ];

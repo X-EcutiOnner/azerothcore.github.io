@@ -1,6 +1,5 @@
 var a17044 =
 [
-    [ "FilterTargets", "dc/dd6/a17044.html#a36879a2920f43562bb0ff89c76d758e4", null ],
-    [ "PrepareSpellScript", "dc/dd6/a17044.html#afeb95c5fe970ebc147d509981b026e98", null ],
-    [ "Register", "dc/dd6/a17044.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
+    [ "npc_essence_of_twin", "dc/dd6/a17044.html#a019de64e5e01e611acfda5db4c279b19", null ],
+    [ "OnGossipHello", "dc/dd6/a17044.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
 ];

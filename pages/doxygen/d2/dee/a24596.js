@@ -1,8 +1,7 @@
 var a24596 =
 [
-    [ "npc_pet_gen_wind_rider_cub", "d2/dee/a24596.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
-    [ "UpdateAI", "d2/dee/a24596.html#a534d122522d553e106e6c7729d6c55db", null ],
-    [ "checkTimer", "d2/dee/a24596.html#a39fcfc5f5d9a630180713512db778b32", null ],
-    [ "checkTimer2", "d2/dee/a24596.html#aabeaf7a9b5b77df540e1111950860e98", null ],
-    [ "isFlying", "d2/dee/a24596.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
+    [ "HandleProc", "d2/dee/a24596.html#a60def76554cd5cf94d84ec1240d651dc", null ],
+    [ "PrepareAuraScript", "d2/dee/a24596.html#ae78484c4af6ddfcd6bf60df191f9db48", null ],
+    [ "Register", "d2/dee/a24596.html#a276526f7f988ce579dc67dc37eebbe87", null ],
+    [ "Validate", "d2/dee/a24596.html#a65986abd9db0dcfb70c8c8b21ff208ac", null ]
 ];

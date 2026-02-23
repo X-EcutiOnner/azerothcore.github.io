@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Appender Class Reference</title>
+<title>AzerothCore: LinkedListHead::Iterator&lt; _Ty &gt; Class Template Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,131 +105,222 @@ $(document).ready(function(){initNavTree('d3/d7f/a05416.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
 <a href="../../dc/d67/a05413.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Appender Class Reference<span class="mlabels"><span class="mlabel">abstract</span></span></div></div>
+  <div class="headertitle"><div class="title">LinkedListHead::Iterator&lt; _Ty &gt; Class Template Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Appender.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for Appender:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d3/d7f/a05416.png" usemap="#Appender_map" alt=""/>
-  <map id="Appender_map" name="Appender_map">
-<area href="../../df/d39/a05424.html" alt="AppenderConsole" shape="rect" coords="0,56,114,80"/>
-<area href="../../d1/d4e/a05972.html" alt="AppenderDB" shape="rect" coords="124,56,238,80"/>
-<area href="../../d4/d98/a05428.html" alt="AppenderFile" shape="rect" coords="248,56,362,80"/>
-  </map>
-</div></div>
+<p><code>#include &quot;<a class="el" href="../../">LinkedList.h</a>&quot;</code></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:ab6021884f43941a43a3343e294e92f4e"><td class="memItemLeft" align="right" valign="top">typedef std::bidirectional_iterator_tag&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#ab6021884f43941a43a3343e294e92f4e">iterator_category</a></td></tr>
+<tr class="separator:ab6021884f43941a43a3343e294e92f4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4a0ee578f4db480c4a2b7000975adf13"><td class="memItemLeft" align="right" valign="top">typedef _Ty&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a4a0ee578f4db480c4a2b7000975adf13">value_type</a></td></tr>
+<tr class="separator:a4a0ee578f4db480c4a2b7000975adf13"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad9960b552714f9d608e1a3d1b42b4d1f"><td class="memItemLeft" align="right" valign="top">typedef ptrdiff_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#ad9960b552714f9d608e1a3d1b42b4d1f">difference_type</a></td></tr>
+<tr class="separator:ad9960b552714f9d608e1a3d1b42b4d1f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae9542dfc90ba68a923d41092a7b56c76"><td class="memItemLeft" align="right" valign="top">typedef ptrdiff_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#ae9542dfc90ba68a923d41092a7b56c76">distance_type</a></td></tr>
+<tr class="separator:ae9542dfc90ba68a923d41092a7b56c76"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff5cd5ea86459f0924cec0a48ba5e840"><td class="memItemLeft" align="right" valign="top">typedef _Ty *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#aff5cd5ea86459f0924cec0a48ba5e840">pointer</a></td></tr>
+<tr class="separator:aff5cd5ea86459f0924cec0a48ba5e840"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac036f8ac7b4ff2112eb77d23de5140d6"><td class="memItemLeft" align="right" valign="top">typedef _Ty const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#ac036f8ac7b4ff2112eb77d23de5140d6">const_pointer</a></td></tr>
+<tr class="separator:ac036f8ac7b4ff2112eb77d23de5140d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a70eac4878b3b65e97e1af190b5085280"><td class="memItemLeft" align="right" valign="top">typedef _Ty &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a70eac4878b3b65e97e1af190b5085280">reference</a></td></tr>
+<tr class="separator:a70eac4878b3b65e97e1af190b5085280"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a08df6fce951ba2b79a28b60ba4a99866"><td class="memItemLeft" align="right" valign="top">typedef _Ty const  &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a08df6fce951ba2b79a28b60ba4a99866">const_reference</a></td></tr>
+<tr class="separator:a08df6fce951ba2b79a28b60ba4a99866"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aed555d5a182fefce9bb570201e9f005f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#aed555d5a182fefce9bb570201e9f005f">Appender</a> (<a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _id, std::string const &amp;<a class="el" href="../../d3/d7f/a05416.html#a0d47660ee41c8816342001825f626a8b">name</a>, <a class="el" href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> <a class="el" href="../../d3/d7f/a05416.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a>=<a class="el" href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61">LOG_LEVEL_DISABLED</a>, <a class="el" href="../../de/d65/a04631.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a> <a class="el" href="../../d3/d7f/a05416.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd">flags</a>=<a class="el" href="../../de/d65/a04631.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b">APPENDER_FLAGS_NONE</a>)</td></tr>
-<tr class="separator:aed555d5a182fefce9bb570201e9f005f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7194b4ff5130399352c356852023004d"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a7194b4ff5130399352c356852023004d">~Appender</a> ()</td></tr>
-<tr class="separator:a7194b4ff5130399352c356852023004d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a643046505390b3988572c53051d7d4c1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a643046505390b3988572c53051d7d4c1">getId</a> () const</td></tr>
-<tr class="separator:a643046505390b3988572c53051d7d4c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8414d7de4187a3deb55024278734836f"><td class="memItemLeft" align="right" valign="top">std::string const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a8414d7de4187a3deb55024278734836f">getName</a> () const</td></tr>
-<tr class="separator:a8414d7de4187a3deb55024278734836f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0efa3e131b7c130a9ece375135682ea4"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="../../de/d65/a04631.html#aacbd2dccb14fcb75d2651dce582364df">AppenderType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a0efa3e131b7c130a9ece375135682ea4">getType</a> () const =0</td></tr>
-<tr class="separator:a0efa3e131b7c130a9ece375135682ea4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0013fabdf34579153a2d145fdbd8009b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a0013fabdf34579153a2d145fdbd8009b">getLogLevel</a> () const</td></tr>
-<tr class="separator:a0013fabdf34579153a2d145fdbd8009b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a57fad2f7bd4da733633051f47efd6555"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d65/a04631.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a57fad2f7bd4da733633051f47efd6555">getFlags</a> () const</td></tr>
-<tr class="separator:a57fad2f7bd4da733633051f47efd6555"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae6c4e7120a54b7069e157fe9a397d455"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#ae6c4e7120a54b7069e157fe9a397d455">setLogLevel</a> (<a class="el" href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a>)</td></tr>
-<tr class="separator:ae6c4e7120a54b7069e157fe9a397d455"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a33d9f53e1853633d15c78f4edc33e5d3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a33d9f53e1853633d15c78f4edc33e5d3">write</a> (<a class="el" href="../../d3/d72/a05440.html">LogMessage</a> *message)</td></tr>
-<tr class="separator:a33d9f53e1853633d15c78f4edc33e5d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae13f18ba2b26260f64aedc1ce1806fef"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#ae13f18ba2b26260f64aedc1ce1806fef">setRealmId</a> (<a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
-<tr class="separator:ae13f18ba2b26260f64aedc1ce1806fef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab70906c697c6f234bc703f6a66a86496"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#ab70906c697c6f234bc703f6a66a86496">Iterator</a> ()</td></tr>
+<tr class="separator:ab70906c697c6f234bc703f6a66a86496"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af8973cfac54d15555fb5eec9f6c42f70"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#af8973cfac54d15555fb5eec9f6c42f70">Iterator</a> (<a class="el" href="../../d3/d7f/a05416.html#aff5cd5ea86459f0924cec0a48ba5e840">pointer</a> _Pnode)</td></tr>
+<tr class="separator:af8973cfac54d15555fb5eec9f6c42f70"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab9ec3c8ac13511b4b294d1ea31ab5c46"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d7f/a05416.html">Iterator</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#ab9ec3c8ac13511b4b294d1ea31ab5c46">operator=</a> (<a class="el" href="../../d3/d7f/a05416.html">Iterator</a> const &amp;_Right)</td></tr>
+<tr class="separator:ab9ec3c8ac13511b4b294d1ea31ab5c46"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5c36796e002431ddde621c6775b16f46"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d7f/a05416.html">Iterator</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a5c36796e002431ddde621c6775b16f46">operator=</a> (<a class="el" href="../../d3/d7f/a05416.html#ac036f8ac7b4ff2112eb77d23de5140d6">const_pointer</a> const &amp;_Right)</td></tr>
+<tr class="separator:a5c36796e002431ddde621c6775b16f46"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac3207463bfe747a59fe31257185478ec"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d7f/a05416.html#a70eac4878b3b65e97e1af190b5085280">reference</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#ac3207463bfe747a59fe31257185478ec">operator*</a> ()</td></tr>
+<tr class="separator:ac3207463bfe747a59fe31257185478ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7077ed836fee057a3666ec16ba14ce01"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d7f/a05416.html#aff5cd5ea86459f0924cec0a48ba5e840">pointer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a7077ed836fee057a3666ec16ba14ce01">operator-&gt;</a> ()</td></tr>
+<tr class="separator:a7077ed836fee057a3666ec16ba14ce01"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af47b128c02fd9c806de9432e3adef40a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d7f/a05416.html">Iterator</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#af47b128c02fd9c806de9432e3adef40a">operator++</a> ()</td></tr>
+<tr class="separator:af47b128c02fd9c806de9432e3adef40a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4c830fe0c8386711c5a8e3839a20ddbd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d7f/a05416.html">Iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a4c830fe0c8386711c5a8e3839a20ddbd">operator++</a> (int)</td></tr>
+<tr class="separator:a4c830fe0c8386711c5a8e3839a20ddbd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff33d5992d301471ff7705359f69ad36"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d7f/a05416.html">Iterator</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#aff33d5992d301471ff7705359f69ad36">operator--</a> ()</td></tr>
+<tr class="separator:aff33d5992d301471ff7705359f69ad36"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9ea2ddbb10a0cb1371da508b14644e4d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d7f/a05416.html">Iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a9ea2ddbb10a0cb1371da508b14644e4d">operator--</a> (int)</td></tr>
+<tr class="separator:a9ea2ddbb10a0cb1371da508b14644e4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae2e95b080e86f7fb956940aaf7940e55"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#ae2e95b080e86f7fb956940aaf7940e55">operator==</a> (<a class="el" href="../../d3/d7f/a05416.html">Iterator</a> const &amp;_Right) const</td></tr>
+<tr class="separator:ae2e95b080e86f7fb956940aaf7940e55"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6ef8a273fb7c7a6fcc930ff3c7b9f995"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a6ef8a273fb7c7a6fcc930ff3c7b9f995">operator!=</a> (<a class="el" href="../../d3/d7f/a05416.html">Iterator</a> const &amp;_Right) const</td></tr>
+<tr class="separator:a6ef8a273fb7c7a6fcc930ff3c7b9f995"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7c52129ec69cce82cf5151257cadcce8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a7c52129ec69cce82cf5151257cadcce8">operator==</a> (<a class="el" href="../../d3/d7f/a05416.html#aff5cd5ea86459f0924cec0a48ba5e840">pointer</a> const &amp;_Right) const</td></tr>
+<tr class="separator:a7c52129ec69cce82cf5151257cadcce8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad0871764d1b071e7120841c9d1633d2c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#ad0871764d1b071e7120841c9d1633d2c">operator!=</a> (<a class="el" href="../../d3/d7f/a05416.html#aff5cd5ea86459f0924cec0a48ba5e840">pointer</a> const &amp;_Right) const</td></tr>
+<tr class="separator:ad0871764d1b071e7120841c9d1633d2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a56333c672e75a65c0ffebd4df6736fe6"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a56333c672e75a65c0ffebd4df6736fe6">operator==</a> (<a class="el" href="../../d3/d7f/a05416.html#a08df6fce951ba2b79a28b60ba4a99866">const_reference</a> _Right) const</td></tr>
+<tr class="separator:a56333c672e75a65c0ffebd4df6736fe6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af25b8f6f1861de395d1442c39642a8b0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#af25b8f6f1861de395d1442c39642a8b0">operator!=</a> (<a class="el" href="../../d3/d7f/a05416.html#a08df6fce951ba2b79a28b60ba4a99866">const_reference</a> _Right) const</td></tr>
+<tr class="separator:af25b8f6f1861de395d1442c39642a8b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d60ac6ee6ebd2cd0a3601eb91539f40"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d7f/a05416.html#aff5cd5ea86459f0924cec0a48ba5e840">pointer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a6d60ac6ee6ebd2cd0a3601eb91539f40">_Mynode</a> ()</td></tr>
+<tr class="separator:a6d60ac6ee6ebd2cd0a3601eb91539f40"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:aa0ec99ab59463bfe249b64e5f9a7645d"><td class="memItemLeft" align="right" valign="top">static char const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#aa0ec99ab59463bfe249b64e5f9a7645d">getLogLevelString</a> (<a class="el" href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> <a class="el" href="../../d3/d7f/a05416.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a>)</td></tr>
-<tr class="separator:aa0ec99ab59463bfe249b64e5f9a7645d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:a04e6bf8aca909a3fbadcd053dda85b83"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a04e6bf8aca909a3fbadcd053dda85b83">_write</a> (<a class="el" href="../../d3/d72/a05440.html">LogMessage</a> const *)=0</td></tr>
-<tr class="separator:a04e6bf8aca909a3fbadcd053dda85b83"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a2cf4849307b65727645d3caf4205064f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a2cf4849307b65727645d3caf4205064f">id</a></td></tr>
-<tr class="separator:a2cf4849307b65727645d3caf4205064f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0d47660ee41c8816342001825f626a8b"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a0d47660ee41c8816342001825f626a8b">name</a></td></tr>
-<tr class="separator:a0d47660ee41c8816342001825f626a8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2dd9209b754c6676ef86f1a6f7f2295f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a></td></tr>
-<tr class="separator:a2dd9209b754c6676ef86f1a6f7f2295f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa8bf6d0a30b1b7ec7acd95e73234e5bd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d65/a04631.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd">flags</a></td></tr>
-<tr class="separator:aa8bf6d0a30b1b7ec7acd95e73234e5bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:a782629b43ea96169aab42f895e79c473"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d7f/a05416.html#aff5cd5ea86459f0924cec0a48ba5e840">pointer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7f/a05416.html#a782629b43ea96169aab42f895e79c473">_Ptr</a></td></tr>
+<tr class="separator:a782629b43ea96169aab42f895e79c473"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="aed555d5a182fefce9bb570201e9f005f" name="aed555d5a182fefce9bb570201e9f005f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aed555d5a182fefce9bb570201e9f005f">&#9670;&#160;</a></span>Appender()</h2>
+<div class="textblock"><div class="compoundTemplParams">template&lt;class _Ty&gt;<br />
+class LinkedListHead::Iterator&lt; _Ty &gt;</div></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="ac036f8ac7b4ff2112eb77d23de5140d6" name="ac036f8ac7b4ff2112eb77d23de5140d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac036f8ac7b4ff2112eb77d23de5140d6">&#9670;&#160;</a></span>const_pointer</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">Appender::Appender </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>_id</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>name</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a>&#160;</td>
-          <td class="paramname"><em>level</em> = <code><a class="el" href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61">LOG_LEVEL_DISABLED</a></code>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../de/d65/a04631.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a>&#160;</td>
-          <td class="paramname"><em>flags</em> = <code><a class="el" href="../../de/d65/a04631.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b">APPENDER_FLAGS_NONE</a></code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">typedef _Ty const* <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::const_pointer</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   23</span>                                                                                              :</div>
-<div class="line"><span class="lineno">   24</span>    <a class="code hl_variable" href="../../d3/d7f/a05416.html#a2cf4849307b65727645d3caf4205064f">id</a>(_id), <a class="code hl_variable" href="../../d3/d7f/a05416.html#a0d47660ee41c8816342001825f626a8b">name</a>(_name), <a class="code hl_variable" href="../../d3/d7f/a05416.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a>(_level), <a class="code hl_variable" href="../../d3/d7f/a05416.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd">flags</a>(_flags) { }</div>
-<div class="ttc" id="aa05416_html_a0d47660ee41c8816342001825f626a8b"><div class="ttname"><a href="../../d3/d7f/a05416.html#a0d47660ee41c8816342001825f626a8b">Appender::name</a></div><div class="ttdeci">std::string name</div><div class="ttdef"><b>Definition:</b> Appender.h:49</div></div>
-<div class="ttc" id="aa05416_html_a2cf4849307b65727645d3caf4205064f"><div class="ttname"><a href="../../d3/d7f/a05416.html#a2cf4849307b65727645d3caf4205064f">Appender::id</a></div><div class="ttdeci">uint8 id</div><div class="ttdef"><b>Definition:</b> Appender.h:48</div></div>
-<div class="ttc" id="aa05416_html_a2dd9209b754c6676ef86f1a6f7f2295f"><div class="ttname"><a href="../../d3/d7f/a05416.html#a2dd9209b754c6676ef86f1a6f7f2295f">Appender::level</a></div><div class="ttdeci">LogLevel level</div><div class="ttdef"><b>Definition:</b> Appender.h:50</div></div>
-<div class="ttc" id="aa05416_html_aa8bf6d0a30b1b7ec7acd95e73234e5bd"><div class="ttname"><a href="../../d3/d7f/a05416.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd">Appender::flags</a></div><div class="ttdeci">AppenderFlags flags</div><div class="ttdef"><b>Definition:</b> Appender.h:51</div></div>
-</div><!-- fragment -->
+
 </div>
 </div>
-<a id="a7194b4ff5130399352c356852023004d" name="a7194b4ff5130399352c356852023004d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7194b4ff5130399352c356852023004d">&#9670;&#160;</a></span>~Appender()</h2>
+<a id="a08df6fce951ba2b79a28b60ba4a99866" name="a08df6fce951ba2b79a28b60ba4a99866"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a08df6fce951ba2b79a28b60ba4a99866">&#9670;&#160;</a></span>const_reference</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef _Ty const&amp; <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::const_reference</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad9960b552714f9d608e1a3d1b42b4d1f" name="ad9960b552714f9d608e1a3d1b42b4d1f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad9960b552714f9d608e1a3d1b42b4d1f">&#9670;&#160;</a></span>difference_type</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef ptrdiff_t <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::difference_type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae9542dfc90ba68a923d41092a7b56c76" name="ae9542dfc90ba68a923d41092a7b56c76"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae9542dfc90ba68a923d41092a7b56c76">&#9670;&#160;</a></span>distance_type</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef ptrdiff_t <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::distance_type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ab6021884f43941a43a3343e294e92f4e" name="ab6021884f43941a43a3343e294e92f4e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab6021884f43941a43a3343e294e92f4e">&#9670;&#160;</a></span>iterator_category</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::bidirectional_iterator_tag <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::iterator_category</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aff5cd5ea86459f0924cec0a48ba5e840" name="aff5cd5ea86459f0924cec0a48ba5e840"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aff5cd5ea86459f0924cec0a48ba5e840">&#9670;&#160;</a></span>pointer</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef _Ty* <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::pointer</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a70eac4878b3b65e97e1af190b5085280" name="a70eac4878b3b65e97e1af190b5085280"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a70eac4878b3b65e97e1af190b5085280">&#9670;&#160;</a></span>reference</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef _Ty&amp; <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::reference</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a4a0ee578f4db480c4a2b7000975adf13" name="a4a0ee578f4db480c4a2b7000975adf13"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4a0ee578f4db480c4a2b7000975adf13">&#9670;&#160;</a></span>value_type</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef _Ty <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::value_type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="ab70906c697c6f234bc703f6a66a86496" name="ab70906c697c6f234bc703f6a66a86496"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab70906c697c6f234bc703f6a66a86496">&#9670;&#160;</a></span>Iterator() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Appender::~Appender </td>
+          <td class="memname"><a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::Iterator </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -237,421 +328,580 @@ Private Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   26</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  150</span>                   : <a class="code hl_variable" href="../../d3/d7f/a05416.html#a782629b43ea96169aab42f895e79c473">_Ptr</a>(0)</div>
+<div class="line"><span class="lineno">  151</span>        {</div>
+<div class="line"><span class="lineno">  152</span>            <span class="comment">// construct with null node pointer</span></div>
+<div class="line"><span class="lineno">  153</span>        }</div>
+<div class="ttc" id="aa05416_html_a782629b43ea96169aab42f895e79c473"><div class="ttname"><a href="../../d3/d7f/a05416.html#a782629b43ea96169aab42f895e79c473">LinkedListHead::Iterator::_Ptr</a></div><div class="ttdeci">pointer _Ptr</div><div class="ttdef"><b>Definition:</b> LinkedList.h:257</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="af8973cfac54d15555fb5eec9f6c42f70" name="af8973cfac54d15555fb5eec9f6c42f70"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af8973cfac54d15555fb5eec9f6c42f70">&#9670;&#160;</a></span>Iterator() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::Iterator </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d7f/a05416.html#aff5cd5ea86459f0924cec0a48ba5e840">pointer</a>&#160;</td>
+          <td class="paramname"><em>_Pnode</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  155</span>                                 : <a class="code hl_variable" href="../../d3/d7f/a05416.html#a782629b43ea96169aab42f895e79c473">_Ptr</a>(_Pnode)</div>
+<div class="line"><span class="lineno">  156</span>        {</div>
+<div class="line"><span class="lineno">  157</span>            <span class="comment">// construct with node pointer _Pnode</span></div>
+<div class="line"><span class="lineno">  158</span>        }</div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a04e6bf8aca909a3fbadcd053dda85b83" name="a04e6bf8aca909a3fbadcd053dda85b83"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a04e6bf8aca909a3fbadcd053dda85b83">&#9670;&#160;</a></span>_write()</h2>
+<a id="a6d60ac6ee6ebd2cd0a3601eb91539f40" name="a6d60ac6ee6ebd2cd0a3601eb91539f40"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6d60ac6ee6ebd2cd0a3601eb91539f40">&#9670;&#160;</a></span>_Mynode()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual void Appender::_write </td>
+          <td class="memname"><a class="el" href="../../d3/d7f/a05416.html#aff5cd5ea86459f0924cec0a48ba5e840">pointer</a> <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::_Mynode </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d72/a05440.html">LogMessage</a> const *&#160;</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">pure virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="../../df/d39/a05424.html#a94e529229bd707fa2bad0a0206a386d5">AppenderConsole</a>, <a class="el" href="../../d4/d98/a05428.html#a4c20fc9c6519eb63ca3bf74fd1d1f5b5">AppenderFile</a>, and <a class="el" href="../../d1/d4e/a05972.html#af38ab76e4d3ea9ebe864582c0030c49a">AppenderDB</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00053">write()</a>.</p>
-
-</div>
-</div>
-<a id="a57fad2f7bd4da733633051f47efd6555" name="a57fad2f7bd4da733633051f47efd6555"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a57fad2f7bd4da733633051f47efd6555">&#9670;&#160;</a></span>getFlags()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d65/a04631.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a> Appender::getFlags </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   44</span>{</div>
-<div class="line"><span class="lineno">   45</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d7f/a05416.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd">flags</a>;</div>
-<div class="line"><span class="lineno">   46</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  251</span>        {</div>
+<div class="line"><span class="lineno">  252</span>            <span class="comment">// return node pointer</span></div>
+<div class="line"><span class="lineno">  253</span>            <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d3/d7f/a05416.html#a782629b43ea96169aab42f895e79c473">_Ptr</a>);</div>
+<div class="line"><span class="lineno">  254</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">flags</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00257">LinkedListHead::Iterator&lt; _Ty &gt;::_Ptr</a>.</p>
 
 </div>
 </div>
-<a id="a643046505390b3988572c53051d7d4c1" name="a643046505390b3988572c53051d7d4c1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a643046505390b3988572c53051d7d4c1">&#9670;&#160;</a></span>getId()</h2>
+<a id="af25b8f6f1861de395d1442c39642a8b0" name="af25b8f6f1861de395d1442c39642a8b0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af25b8f6f1861de395d1442c39642a8b0">&#9670;&#160;</a></span>operator!=() <span class="overload">[1/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> Appender::getId </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
-<div class="line"><span class="lineno">   30</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d7f/a05416.html#a2cf4849307b65727645d3caf4205064f">id</a>;</div>
-<div class="line"><span class="lineno">   31</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00048">id</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00062">Log::CreateAppenderFromConfig()</a>, and <a class="el" href="../../#l00195">Log::ReadLoggersFromConfig()</a>.</p>
-
-</div>
-</div>
-<a id="a0013fabdf34579153a2d145fdbd8009b" name="a0013fabdf34579153a2d145fdbd8009b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0013fabdf34579153a2d145fdbd8009b">&#9670;&#160;</a></span>getLogLevel()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> Appender::getLogLevel </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   39</span>{</div>
-<div class="line"><span class="lineno">   40</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d7f/a05416.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a>;</div>
-<div class="line"><span class="lineno">   41</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">level</a>.</p>
-
-</div>
-</div>
-<a id="aa0ec99ab59463bfe249b64e5f9a7645d" name="aa0ec99ab59463bfe249b64e5f9a7645d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa0ec99ab59463bfe249b64e5f9a7645d">&#9670;&#160;</a></span>getLogLevelString()</h2>
-
-<div class="memitem">
-<div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">char const  * Appender::getLogLevelString </td>
+          <td class="memname">bool <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::operator!= </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a>&#160;</td>
-          <td class="paramname"><em>level</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   82</span>{</div>
-<div class="line"><span class="lineno">   83</span>    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d3/d7f/a05416.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a>)</div>
-<div class="line"><span class="lineno">   84</span>    {</div>
-<div class="line"><span class="lineno">   85</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5">LOG_LEVEL_FATAL</a>:</div>
-<div class="line"><span class="lineno">   86</span>            <span class="keywordflow">return</span> <span class="stringliteral">&quot;FATAL&quot;</span>;</div>
-<div class="line"><span class="lineno">   87</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781a5b40f003febbc3b535649d63f4b8a44f">LOG_LEVEL_ERROR</a>:</div>
-<div class="line"><span class="lineno">   88</span>            <span class="keywordflow">return</span> <span class="stringliteral">&quot;ERROR&quot;</span>;</div>
-<div class="line"><span class="lineno">   89</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4">LOG_LEVEL_WARN</a>:</div>
-<div class="line"><span class="lineno">   90</span>            <span class="keywordflow">return</span> <span class="stringliteral">&quot;WARN&quot;</span>;</div>
-<div class="line"><span class="lineno">   91</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781aedee1e3159bfe7d918b6e29873c5aee4">LOG_LEVEL_INFO</a>:</div>
-<div class="line"><span class="lineno">   92</span>            <span class="keywordflow">return</span> <span class="stringliteral">&quot;INFO&quot;</span>;</div>
-<div class="line"><span class="lineno">   93</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177">LOG_LEVEL_DEBUG</a>:</div>
-<div class="line"><span class="lineno">   94</span>            <span class="keywordflow">return</span> <span class="stringliteral">&quot;DEBUG&quot;</span>;</div>
-<div class="line"><span class="lineno">   95</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d">LOG_LEVEL_TRACE</a>:</div>
-<div class="line"><span class="lineno">   96</span>            <span class="keywordflow">return</span> <span class="stringliteral">&quot;TRACE&quot;</span>;</div>
-<div class="line"><span class="lineno">   97</span>        <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">   98</span>            <span class="keywordflow">return</span> <span class="stringliteral">&quot;DISABLED&quot;</span>;</div>
-<div class="line"><span class="lineno">   99</span>    }</div>
-<div class="line"><span class="lineno">  100</span>}</div>
-<div class="ttc" id="aa04631_html_ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177"><div class="ttname"><a href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177">LOG_LEVEL_DEBUG</a></div><div class="ttdeci">@ LOG_LEVEL_DEBUG</div><div class="ttdef"><b>Definition:</b> LogCommon.h:31</div></div>
-<div class="ttc" id="aa04631_html_ad26ed09e30f81a5d2172b4793a3f2781a5b40f003febbc3b535649d63f4b8a44f"><div class="ttname"><a href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781a5b40f003febbc3b535649d63f4b8a44f">LOG_LEVEL_ERROR</a></div><div class="ttdeci">@ LOG_LEVEL_ERROR</div><div class="ttdef"><b>Definition:</b> LogCommon.h:28</div></div>
-<div class="ttc" id="aa04631_html_ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5"><div class="ttname"><a href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5">LOG_LEVEL_FATAL</a></div><div class="ttdeci">@ LOG_LEVEL_FATAL</div><div class="ttdef"><b>Definition:</b> LogCommon.h:27</div></div>
-<div class="ttc" id="aa04631_html_ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d"><div class="ttname"><a href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d">LOG_LEVEL_TRACE</a></div><div class="ttdeci">@ LOG_LEVEL_TRACE</div><div class="ttdef"><b>Definition:</b> LogCommon.h:32</div></div>
-<div class="ttc" id="aa04631_html_ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4"><div class="ttname"><a href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4">LOG_LEVEL_WARN</a></div><div class="ttdeci">@ LOG_LEVEL_WARN</div><div class="ttdef"><b>Definition:</b> LogCommon.h:29</div></div>
-<div class="ttc" id="aa04631_html_ad26ed09e30f81a5d2172b4793a3f2781aedee1e3159bfe7d918b6e29873c5aee4"><div class="ttname"><a href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781aedee1e3159bfe7d918b6e29873c5aee4">LOG_LEVEL_INFO</a></div><div class="ttdeci">@ LOG_LEVEL_INFO</div><div class="ttdef"><b>Definition:</b> LogCommon.h:30</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">level</a>, <a class="el" href="../../#l00031">LOG_LEVEL_DEBUG</a>, <a class="el" href="../../#l00028">LOG_LEVEL_ERROR</a>, <a class="el" href="../../#l00027">LOG_LEVEL_FATAL</a>, <a class="el" href="../../#l00030">LOG_LEVEL_INFO</a>, <a class="el" href="../../#l00032">LOG_LEVEL_TRACE</a>, and <a class="el" href="../../#l00029">LOG_LEVEL_WARN</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00053">write()</a>.</p>
-
-</div>
-</div>
-<a id="a8414d7de4187a3deb55024278734836f" name="a8414d7de4187a3deb55024278734836f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8414d7de4187a3deb55024278734836f">&#9670;&#160;</a></span>getName()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::string const  &amp; Appender::getName </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   34</span>{</div>
-<div class="line"><span class="lineno">   35</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d7f/a05416.html#a0d47660ee41c8816342001825f626a8b">name</a>;</div>
-<div class="line"><span class="lineno">   36</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00049">name</a>.</p>
-
-</div>
-</div>
-<a id="a0efa3e131b7c130a9ece375135682ea4" name="a0efa3e131b7c130a9ece375135682ea4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0efa3e131b7c130a9ece375135682ea4">&#9670;&#160;</a></span>getType()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual <a class="el" href="../../de/d65/a04631.html#aacbd2dccb14fcb75d2651dce582364df">AppenderType</a> Appender::getType </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d3/d7f/a05416.html#a08df6fce951ba2b79a28b60ba4a99866">const_reference</a>&#160;</td>
+          <td class="paramname"><em>_Right</em></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="../../df/d39/a05424.html#a4ae7f47c76b19eb269b26fdf13f14e48">AppenderConsole</a>, <a class="el" href="../../d4/d98/a05428.html#ad978ed158e068f5fa84f9f93aaf99b46">AppenderFile</a>, and <a class="el" href="../../d1/d4e/a05972.html#a96221ceed23435556df03c5f7ffab61e">AppenderDB</a>.</p>
-
-</div>
-</div>
-<a id="ae6c4e7120a54b7069e157fe9a397d455" name="ae6c4e7120a54b7069e157fe9a397d455"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae6c4e7120a54b7069e157fe9a397d455">&#9670;&#160;</a></span>setLogLevel()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void Appender::setLogLevel </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a>&#160;</td>
-          <td class="paramname"><em>_level</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   49</span>{</div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_variable" href="../../d3/d7f/a05416.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a> = _level;</div>
-<div class="line"><span class="lineno">   51</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  245</span>        {</div>
+<div class="line"><span class="lineno">  246</span>            <span class="comment">// test for reference equality</span></div>
+<div class="line"><span class="lineno">  247</span>            <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d3/d7f/a05416.html#a782629b43ea96169aab42f895e79c473">_Ptr</a> != &amp;_Right);</div>
+<div class="line"><span class="lineno">  248</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">level</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00285">Log::SetLogLevel()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00257">LinkedListHead::Iterator&lt; _Ty &gt;::_Ptr</a>.</p>
 
 </div>
 </div>
-<a id="ae13f18ba2b26260f64aedc1ce1806fef" name="ae13f18ba2b26260f64aedc1ce1806fef"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae13f18ba2b26260f64aedc1ce1806fef">&#9670;&#160;</a></span>setRealmId()</h2>
+<a id="a6ef8a273fb7c7a6fcc930ff3c7b9f995" name="a6ef8a273fb7c7a6fcc930ff3c7b9f995"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6ef8a273fb7c7a6fcc930ff3c7b9f995">&#9670;&#160;</a></span>operator!=() <span class="overload">[2/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual void Appender::setRealmId </td>
+          <td class="memname">bool <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::operator!= </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d3/d7f/a05416.html">Iterator</a>&lt; _Ty &gt; const &amp;&#160;</td>
+          <td class="paramname"><em>_Right</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  221</span>        {</div>
+<div class="line"><span class="lineno">  222</span>            <span class="comment">// test for iterator inequality</span></div>
+<div class="line"><span class="lineno">  223</span>            <span class="keywordflow">return</span> (!(*<span class="keyword">this</span> == _Right));</div>
+<div class="line"><span class="lineno">  224</span>        }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ad0871764d1b071e7120841c9d1633d2c" name="ad0871764d1b071e7120841c9d1633d2c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad0871764d1b071e7120841c9d1633d2c">&#9670;&#160;</a></span>operator!=() <span class="overload">[3/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::operator!= </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d7f/a05416.html#aff5cd5ea86459f0924cec0a48ba5e840">pointer</a> const &amp;&#160;</td>
+          <td class="paramname"><em>_Right</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  233</span>        {</div>
+<div class="line"><span class="lineno">  234</span>            <span class="comment">// test for pointer equality</span></div>
+<div class="line"><span class="lineno">  235</span>            <span class="keywordflow">return</span> (!(*<span class="keyword">this</span> == _Right));</div>
+<div class="line"><span class="lineno">  236</span>        }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ac3207463bfe747a59fe31257185478ec" name="ac3207463bfe747a59fe31257185478ec"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac3207463bfe747a59fe31257185478ec">&#9670;&#160;</a></span>operator*()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d7f/a05416.html#a70eac4878b3b65e97e1af190b5085280">reference</a> <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::operator* </td>
+          <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-
-<p>Reimplemented in <a class="el" href="../../d1/d4e/a05972.html#a769ff59f4dbbff1b77398dd20c016ace">AppenderDB</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">   43</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">  173</span>        {</div>
+<div class="line"><span class="lineno">  174</span>            <span class="comment">// return designated value</span></div>
+<div class="line"><span class="lineno">  175</span>            <span class="keywordflow">return</span> *<a class="code hl_variable" href="../../d3/d7f/a05416.html#a782629b43ea96169aab42f895e79c473">_Ptr</a>;</div>
+<div class="line"><span class="lineno">  176</span>        }</div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00257">LinkedListHead::Iterator&lt; _Ty &gt;::_Ptr</a>.</p>
+
 </div>
 </div>
-<a id="a33d9f53e1853633d15c78f4edc33e5d3" name="a33d9f53e1853633d15c78f4edc33e5d3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a33d9f53e1853633d15c78f4edc33e5d3">&#9670;&#160;</a></span>write()</h2>
+<a id="af47b128c02fd9c806de9432e3adef40a" name="af47b128c02fd9c806de9432e3adef40a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af47b128c02fd9c806de9432e3adef40a">&#9670;&#160;</a></span>operator++() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void Appender::write </td>
+          <td class="memname"><a class="el" href="../../d3/d7f/a05416.html">Iterator</a> &amp; <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::operator++ </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d72/a05440.html">LogMessage</a> *&#160;</td>
-          <td class="paramname"><em>message</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   54</span>{</div>
-<div class="line"><span class="lineno">   55</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d7f/a05416.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a> || level &lt; message-&gt;<a class="code hl_variable" href="../../d3/d7f/a05416.html#a2dd9209b754c6676ef86f1a6f7f2295f">level</a>)</div>
-<div class="line"><span class="lineno">   56</span>    {</div>
-<div class="line"><span class="lineno">   57</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   58</span>    }</div>
-<div class="line"><span class="lineno">   59</span> </div>
-<div class="line"><span class="lineno">   60</span>    std::ostringstream ss;</div>
-<div class="line"><span class="lineno">   61</span> </div>
-<div class="line"><span class="lineno">   62</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d7f/a05416.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd">flags</a> &amp; <a class="code hl_enumvalue" href="../../de/d65/a04631.html#a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46">APPENDER_FLAGS_PREFIX_TIMESTAMP</a>)</div>
-<div class="line"><span class="lineno">   63</span>    {</div>
-<div class="line"><span class="lineno">   64</span>        ss &lt;&lt; message-&gt;<a class="code hl_function" href="../../d3/d72/a05440.html#af40f502e57bf12f31fc7a2fe60584fc8">getTimeStr</a>() &lt;&lt; <span class="charliteral">&#39; &#39;</span>;</div>
-<div class="line"><span class="lineno">   65</span>    }</div>
-<div class="line"><span class="lineno">   66</span> </div>
-<div class="line"><span class="lineno">   67</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d7f/a05416.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd">flags</a> &amp; <a class="code hl_enumvalue" href="../../de/d65/a04631.html#a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e">APPENDER_FLAGS_PREFIX_LOGLEVEL</a>)</div>
-<div class="line"><span class="lineno">   68</span>    {</div>
-<div class="line"><span class="lineno">   69</span>        ss &lt;&lt; <a class="code hl_function" href="../../df/d15/a04833.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(<span class="stringliteral">&quot;{} &quot;</span>, <a class="code hl_function" href="../../d3/d7f/a05416.html#aa0ec99ab59463bfe249b64e5f9a7645d">Appender::getLogLevelString</a>(message-&gt;<a class="code hl_variable" href="../../d3/d72/a05440.html#a44096654072d07e506ef6414a8ce4970">level</a>));</div>
-<div class="line"><span class="lineno">   70</span>    }</div>
-<div class="line"><span class="lineno">   71</span> </div>
-<div class="line"><span class="lineno">   72</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d7f/a05416.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd">flags</a> &amp; <a class="code hl_enumvalue" href="../../de/d65/a04631.html#a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b">APPENDER_FLAGS_PREFIX_LOGFILTERTYPE</a>)</div>
-<div class="line"><span class="lineno">   73</span>    {</div>
-<div class="line"><span class="lineno">   74</span>        ss &lt;&lt; <span class="charliteral">&#39;[&#39;</span> &lt;&lt; message-&gt;<a class="code hl_variable" href="../../d3/d72/a05440.html#a77105c721645df5654e3c48ce00c2b5a">type</a> &lt;&lt; <span class="stringliteral">&quot;] &quot;</span>;</div>
-<div class="line"><span class="lineno">   75</span>    }</div>
-<div class="line"><span class="lineno">   76</span> </div>
-<div class="line"><span class="lineno">   77</span>    message-&gt;<a class="code hl_variable" href="../../d3/d72/a05440.html#afe279a591acc9740457c3cd58d43a263">prefix</a> = ss.str();</div>
-<div class="line"><span class="lineno">   78</span>    <a class="code hl_function" href="../../d3/d7f/a05416.html#a04e6bf8aca909a3fbadcd053dda85b83">_write</a>(message);</div>
-<div class="line"><span class="lineno">   79</span>}</div>
-<div class="ttc" id="aa04631_html_a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46"><div class="ttname"><a href="../../de/d65/a04631.html#a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46">APPENDER_FLAGS_PREFIX_TIMESTAMP</a></div><div class="ttdeci">@ APPENDER_FLAGS_PREFIX_TIMESTAMP</div><div class="ttdef"><b>Definition:</b> LogCommon.h:53</div></div>
-<div class="ttc" id="aa04631_html_a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b"><div class="ttname"><a href="../../de/d65/a04631.html#a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b">APPENDER_FLAGS_PREFIX_LOGFILTERTYPE</a></div><div class="ttdeci">@ APPENDER_FLAGS_PREFIX_LOGFILTERTYPE</div><div class="ttdef"><b>Definition:</b> LogCommon.h:55</div></div>
-<div class="ttc" id="aa04631_html_a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e"><div class="ttname"><a href="../../de/d65/a04631.html#a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e">APPENDER_FLAGS_PREFIX_LOGLEVEL</a></div><div class="ttdeci">@ APPENDER_FLAGS_PREFIX_LOGLEVEL</div><div class="ttdef"><b>Definition:</b> LogCommon.h:54</div></div>
-<div class="ttc" id="aa04833_html_a868406b9609960d4ae0189588c8cbbf4"><div class="ttname"><a href="../../df/d15/a04833.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:34</div></div>
-<div class="ttc" id="aa05416_html_a04e6bf8aca909a3fbadcd053dda85b83"><div class="ttname"><a href="../../d3/d7f/a05416.html#a04e6bf8aca909a3fbadcd053dda85b83">Appender::_write</a></div><div class="ttdeci">virtual void _write(LogMessage const *)=0</div></div>
-<div class="ttc" id="aa05416_html_aa0ec99ab59463bfe249b64e5f9a7645d"><div class="ttname"><a href="../../d3/d7f/a05416.html#aa0ec99ab59463bfe249b64e5f9a7645d">Appender::getLogLevelString</a></div><div class="ttdeci">static char const * getLogLevelString(LogLevel level)</div><div class="ttdef"><b>Definition:</b> Appender.cpp:81</div></div>
-<div class="ttc" id="aa05440_html_a44096654072d07e506ef6414a8ce4970"><div class="ttname"><a href="../../d3/d72/a05440.html#a44096654072d07e506ef6414a8ce4970">LogMessage::level</a></div><div class="ttdeci">LogLevel const level</div><div class="ttdef"><b>Definition:</b> LogMessage.h:37</div></div>
-<div class="ttc" id="aa05440_html_a77105c721645df5654e3c48ce00c2b5a"><div class="ttname"><a href="../../d3/d72/a05440.html#a77105c721645df5654e3c48ce00c2b5a">LogMessage::type</a></div><div class="ttdeci">std::string const type</div><div class="ttdef"><b>Definition:</b> LogMessage.h:38</div></div>
-<div class="ttc" id="aa05440_html_af40f502e57bf12f31fc7a2fe60584fc8"><div class="ttname"><a href="../../d3/d72/a05440.html#af40f502e57bf12f31fc7a2fe60584fc8">LogMessage::getTimeStr</a></div><div class="ttdeci">static std::string getTimeStr(Seconds time)</div><div class="ttdef"><b>Definition:</b> LogMessage.cpp:27</div></div>
-<div class="ttc" id="aa05440_html_afe279a591acc9740457c3cd58d43a263"><div class="ttname"><a href="../../d3/d72/a05440.html#afe279a591acc9740457c3cd58d43a263">LogMessage::prefix</a></div><div class="ttdeci">std::string prefix</div><div class="ttdef"><b>Definition:</b> LogMessage.h:40</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  185</span>        {</div>
+<div class="line"><span class="lineno">  186</span>            <span class="comment">// preincrement</span></div>
+<div class="line"><span class="lineno">  187</span>            <a class="code hl_variable" href="../../d3/d7f/a05416.html#a782629b43ea96169aab42f895e79c473">_Ptr</a> = <a class="code hl_variable" href="../../d3/d7f/a05416.html#a782629b43ea96169aab42f895e79c473">_Ptr</a>-&gt;next();</div>
+<div class="line"><span class="lineno">  188</span>            <span class="keywordflow">return</span> (*<span class="keyword">this</span>);</div>
+<div class="line"><span class="lineno">  189</span>        }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../d3/d7f/a05416.html#a04e6bf8aca909a3fbadcd053dda85b83">_write()</a>, <a class="el" href="../../#l00055">APPENDER_FLAGS_PREFIX_LOGFILTERTYPE</a>, <a class="el" href="../../#l00054">APPENDER_FLAGS_PREFIX_LOGLEVEL</a>, <a class="el" href="../../#l00053">APPENDER_FLAGS_PREFIX_TIMESTAMP</a>, <a class="el" href="../../#l00051">flags</a>, <a class="el" href="../../#l00081">getLogLevelString()</a>, <a class="el" href="../../#l00027">LogMessage::getTimeStr()</a>, <a class="el" href="../../#l00050">level</a>, <a class="el" href="../../#l00037">LogMessage::level</a>, <a class="el" href="../../#l00040">LogMessage::prefix</a>, <a class="el" href="../../#l00034">Acore::StringFormat()</a>, and <a class="el" href="../../#l00038">LogMessage::type</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00257">LinkedListHead::Iterator&lt; _Ty &gt;::_Ptr</a>.</p>
+
+</div>
+</div>
+<a id="a4c830fe0c8386711c5a8e3839a20ddbd" name="a4c830fe0c8386711c5a8e3839a20ddbd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4c830fe0c8386711c5a8e3839a20ddbd">&#9670;&#160;</a></span>operator++() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d7f/a05416.html">Iterator</a> <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::operator++ </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  192</span>        {</div>
+<div class="line"><span class="lineno">  193</span>            <span class="comment">// postincrement</span></div>
+<div class="line"><span class="lineno">  194</span>            <a class="code hl_typedef" href="../../d8/d73/a05412.html#a57ec2565e503df8ef86e1df2889c8ee3">iterator</a> _Tmp = *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  195</span>            ++*<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  196</span>            <span class="keywordflow">return</span> (_Tmp);</div>
+<div class="line"><span class="lineno">  197</span>        }</div>
+<div class="ttc" id="aa05412_html_a57ec2565e503df8ef86e1df2889c8ee3"><div class="ttname"><a href="../../d8/d73/a05412.html#a57ec2565e503df8ef86e1df2889c8ee3">LinkedListHead::iterator</a></div><div class="ttdeci">Iterator&lt; LinkedListElement &gt; iterator</div><div class="ttdef"><b>Definition:</b> LinkedList.h:260</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="aff33d5992d301471ff7705359f69ad36" name="aff33d5992d301471ff7705359f69ad36"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aff33d5992d301471ff7705359f69ad36">&#9670;&#160;</a></span>operator--() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d7f/a05416.html">Iterator</a> &amp; <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::operator-- </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  200</span>        {</div>
+<div class="line"><span class="lineno">  201</span>            <span class="comment">// predecrement</span></div>
+<div class="line"><span class="lineno">  202</span>            <a class="code hl_variable" href="../../d3/d7f/a05416.html#a782629b43ea96169aab42f895e79c473">_Ptr</a> = <a class="code hl_variable" href="../../d3/d7f/a05416.html#a782629b43ea96169aab42f895e79c473">_Ptr</a>-&gt;prev();</div>
+<div class="line"><span class="lineno">  203</span>            <span class="keywordflow">return</span> (*<span class="keyword">this</span>);</div>
+<div class="line"><span class="lineno">  204</span>        }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00257">LinkedListHead::Iterator&lt; _Ty &gt;::_Ptr</a>.</p>
+
+</div>
+</div>
+<a id="a9ea2ddbb10a0cb1371da508b14644e4d" name="a9ea2ddbb10a0cb1371da508b14644e4d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9ea2ddbb10a0cb1371da508b14644e4d">&#9670;&#160;</a></span>operator--() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d7f/a05416.html">Iterator</a> <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::operator-- </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  207</span>        {</div>
+<div class="line"><span class="lineno">  208</span>            <span class="comment">// postdecrement</span></div>
+<div class="line"><span class="lineno">  209</span>            <a class="code hl_typedef" href="../../d8/d73/a05412.html#a57ec2565e503df8ef86e1df2889c8ee3">iterator</a> _Tmp = *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  210</span>            --*<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  211</span>            <span class="keywordflow">return</span> (_Tmp);</div>
+<div class="line"><span class="lineno">  212</span>        }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a7077ed836fee057a3666ec16ba14ce01" name="a7077ed836fee057a3666ec16ba14ce01"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7077ed836fee057a3666ec16ba14ce01">&#9670;&#160;</a></span>operator-&gt;()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d7f/a05416.html#aff5cd5ea86459f0924cec0a48ba5e840">pointer</a> <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::operator-&gt; </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  179</span>        {</div>
+<div class="line"><span class="lineno">  180</span>            <span class="comment">// return pointer to class object</span></div>
+<div class="line"><span class="lineno">  181</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d7f/a05416.html#a782629b43ea96169aab42f895e79c473">_Ptr</a>;</div>
+<div class="line"><span class="lineno">  182</span>        }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00257">LinkedListHead::Iterator&lt; _Ty &gt;::_Ptr</a>.</p>
+
+</div>
+</div>
+<a id="a5c36796e002431ddde621c6775b16f46" name="a5c36796e002431ddde621c6775b16f46"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5c36796e002431ddde621c6775b16f46">&#9670;&#160;</a></span>operator=() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d7f/a05416.html">Iterator</a> &amp; <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::operator= </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d7f/a05416.html#ac036f8ac7b4ff2112eb77d23de5140d6">const_pointer</a> const &amp;&#160;</td>
+          <td class="paramname"><em>_Right</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  167</span>        {</div>
+<div class="line"><span class="lineno">  168</span>            <a class="code hl_variable" href="../../d3/d7f/a05416.html#a782629b43ea96169aab42f895e79c473">_Ptr</a> = <a class="code hl_typedef" href="../../d3/d7f/a05416.html#aff5cd5ea86459f0924cec0a48ba5e840">pointer</a>(_Right);</div>
+<div class="line"><span class="lineno">  169</span>            <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  170</span>        }</div>
+<div class="ttc" id="aa05416_html_aff5cd5ea86459f0924cec0a48ba5e840"><div class="ttname"><a href="../../d3/d7f/a05416.html#aff5cd5ea86459f0924cec0a48ba5e840">LinkedListHead::Iterator::pointer</a></div><div class="ttdeci">_Ty * pointer</div><div class="ttdef"><b>Definition:</b> LinkedList.h:145</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00257">LinkedListHead::Iterator&lt; _Ty &gt;::_Ptr</a>.</p>
+
+</div>
+</div>
+<a id="ab9ec3c8ac13511b4b294d1ea31ab5c46" name="ab9ec3c8ac13511b4b294d1ea31ab5c46"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab9ec3c8ac13511b4b294d1ea31ab5c46">&#9670;&#160;</a></span>operator=() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d7f/a05416.html">Iterator</a> &amp; <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::operator= </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d7f/a05416.html">Iterator</a>&lt; _Ty &gt; const &amp;&#160;</td>
+          <td class="paramname"><em>_Right</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  161</span>        {</div>
+<div class="line"><span class="lineno">  162</span>            <a class="code hl_variable" href="../../d3/d7f/a05416.html#a782629b43ea96169aab42f895e79c473">_Ptr</a> = _Right._Ptr;</div>
+<div class="line"><span class="lineno">  163</span>            <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  164</span>        }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00257">LinkedListHead::Iterator&lt; _Ty &gt;::_Ptr</a>.</p>
+
+</div>
+</div>
+<a id="a56333c672e75a65c0ffebd4df6736fe6" name="a56333c672e75a65c0ffebd4df6736fe6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a56333c672e75a65c0ffebd4df6736fe6">&#9670;&#160;</a></span>operator==() <span class="overload">[1/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::operator== </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d7f/a05416.html#a08df6fce951ba2b79a28b60ba4a99866">const_reference</a>&#160;</td>
+          <td class="paramname"><em>_Right</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  239</span>        {</div>
+<div class="line"><span class="lineno">  240</span>            <span class="comment">// test for reference equality</span></div>
+<div class="line"><span class="lineno">  241</span>            <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d3/d7f/a05416.html#a782629b43ea96169aab42f895e79c473">_Ptr</a> == &amp;_Right);</div>
+<div class="line"><span class="lineno">  242</span>        }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00257">LinkedListHead::Iterator&lt; _Ty &gt;::_Ptr</a>.</p>
+
+</div>
+</div>
+<a id="ae2e95b080e86f7fb956940aaf7940e55" name="ae2e95b080e86f7fb956940aaf7940e55"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae2e95b080e86f7fb956940aaf7940e55">&#9670;&#160;</a></span>operator==() <span class="overload">[2/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::operator== </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d7f/a05416.html">Iterator</a>&lt; _Ty &gt; const &amp;&#160;</td>
+          <td class="paramname"><em>_Right</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  215</span>        {</div>
+<div class="line"><span class="lineno">  216</span>            <span class="comment">// test for iterator equality</span></div>
+<div class="line"><span class="lineno">  217</span>            <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d3/d7f/a05416.html#a782629b43ea96169aab42f895e79c473">_Ptr</a> == _Right._Ptr);</div>
+<div class="line"><span class="lineno">  218</span>        }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00257">LinkedListHead::Iterator&lt; _Ty &gt;::_Ptr</a>.</p>
+
+</div>
+</div>
+<a id="a7c52129ec69cce82cf5151257cadcce8" name="a7c52129ec69cce82cf5151257cadcce8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7c52129ec69cce82cf5151257cadcce8">&#9670;&#160;</a></span>operator==() <span class="overload">[3/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::operator== </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d7f/a05416.html#aff5cd5ea86459f0924cec0a48ba5e840">pointer</a> const &amp;&#160;</td>
+          <td class="paramname"><em>_Right</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  227</span>        {</div>
+<div class="line"><span class="lineno">  228</span>            <span class="comment">// test for pointer equality</span></div>
+<div class="line"><span class="lineno">  229</span>            <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d3/d7f/a05416.html#a782629b43ea96169aab42f895e79c473">_Ptr</a> != _Right);</div>
+<div class="line"><span class="lineno">  230</span>        }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00257">LinkedListHead::Iterator&lt; _Ty &gt;::_Ptr</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="aa8bf6d0a30b1b7ec7acd95e73234e5bd" name="aa8bf6d0a30b1b7ec7acd95e73234e5bd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa8bf6d0a30b1b7ec7acd95e73234e5bd">&#9670;&#160;</a></span>flags</h2>
+<a id="a782629b43ea96169aab42f895e79c473" name="a782629b43ea96169aab42f895e79c473"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a782629b43ea96169aab42f895e79c473">&#9670;&#160;</a></span>_Ptr</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class _Ty &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d65/a04631.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a> Appender::flags</td>
+          <td class="memname"><a class="el" href="../../d3/d7f/a05416.html#aff5cd5ea86459f0924cec0a48ba5e840">pointer</a> <a class="el" href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a>&lt; _Ty &gt;::_Ptr</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00025">AppenderFile::AppenderFile()</a>, <a class="el" href="../../#l00043">getFlags()</a>, and <a class="el" href="../../#l00053">write()</a>.</p>
-
-</div>
-</div>
-<a id="a2cf4849307b65727645d3caf4205064f" name="a2cf4849307b65727645d3caf4205064f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2cf4849307b65727645d3caf4205064f">&#9670;&#160;</a></span>id</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> Appender::id</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00028">getId()</a>.</p>
-
-</div>
-</div>
-<a id="a2dd9209b754c6676ef86f1a6f7f2295f" name="a2dd9209b754c6676ef86f1a6f7f2295f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2dd9209b754c6676ef86f1a6f7f2295f">&#9670;&#160;</a></span>level</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d65/a04631.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> Appender::level</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00038">getLogLevel()</a>, <a class="el" href="../../#l00081">getLogLevelString()</a>, <a class="el" href="../../#l00048">setLogLevel()</a>, and <a class="el" href="../../#l00053">write()</a>.</p>
-
-</div>
-</div>
-<a id="a0d47660ee41c8816342001825f626a8b" name="a0d47660ee41c8816342001825f626a8b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0d47660ee41c8816342001825f626a8b">&#9670;&#160;</a></span>name</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::string Appender::name</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00030">AppenderConsole::AppenderConsole()</a>, <a class="el" href="../../#l00025">AppenderFile::AppenderFile()</a>, <a class="el" href="../../#l00033">getName()</a>, and <a class="el" href="../../#l00044">AppenderConsole::InitColors()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00250">LinkedListHead::Iterator&lt; _Ty &gt;::_Mynode()</a>, <a class="el" href="../../#l00244">LinkedListHead::Iterator&lt; _Ty &gt;::operator!=()</a>, <a class="el" href="../../#l00172">LinkedListHead::Iterator&lt; _Ty &gt;::operator*()</a>, <a class="el" href="../../#l00184">LinkedListHead::Iterator&lt; _Ty &gt;::operator++()</a>, <a class="el" href="../../#l00199">LinkedListHead::Iterator&lt; _Ty &gt;::operator--()</a>, <a class="el" href="../../#l00178">LinkedListHead::Iterator&lt; _Ty &gt;::operator-&gt;()</a>, <a class="el" href="../../#l00160">LinkedListHead::Iterator&lt; _Ty &gt;::operator=()</a>, and <a class="el" href="../../#l00214">LinkedListHead::Iterator&lt; _Ty &gt;::operator==()</a>.</p>
 
 </div>
 </div>
@@ -660,8 +910,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d7f/a05416.html">Appender</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:11:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d8/d73/a05412.html">LinkedListHead</a></li><li class="navelem"><a class="el" href="../../d3/d7f/a05416.html">Iterator</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:15:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

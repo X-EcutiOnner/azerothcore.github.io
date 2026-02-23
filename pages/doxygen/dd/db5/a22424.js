@@ -1,6 +1,7 @@
 var a22424 =
 [
-    [ "HandleScriptEffect", "dd/db5/a22424.html#a1dac2806b74471332aec0595118005a3", null ],
-    [ "PrepareSpellScript", "dd/db5/a22424.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
-    [ "Register", "dd/db5/a22424.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
+    [ "OutdoorPvPGH", "dd/db5/a22424.html#a619492e0a1fdf75f37554a2f19268660", null ],
+    [ "HandleKill", "dd/db5/a22424.html#a78cf572faf727c302f9be496d91004e0", null ],
+    [ "SendRemoveWorldStates", "dd/db5/a22424.html#a92c7e489717072ddc34f707fbe462cb2", null ],
+    [ "SetupOutdoorPvP", "dd/db5/a22424.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
 ];

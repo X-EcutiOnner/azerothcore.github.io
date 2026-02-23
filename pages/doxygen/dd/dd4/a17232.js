@@ -1,5 +1,5 @@
 var a17232 =
 [
-    [ "at_hor_battered_hilt_start", "dd/dd4/a17232.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
-    [ "OnTrigger", "dd/dd4/a17232.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
+    [ "npc_fos_leader_secondAI", "dd/dd4/a17232.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
+    [ "MovementInform", "dd/dd4/a17232.html#a9cc0b500f1289dc8b764b3755468e639", null ]
 ];

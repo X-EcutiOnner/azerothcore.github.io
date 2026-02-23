@@ -1,4 +1,4 @@
 var a01592 =
 [
-    [ "MapUpdater", "d0/d0e/a09989.html", "d0/d0e/a09989" ]
+    [ "MapGrid< GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES >", "d5/d37/a09384.html", "d5/d37/a09384" ]
 ];

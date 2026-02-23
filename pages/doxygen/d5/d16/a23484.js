@@ -1,7 +1,6 @@
 var a23484 =
 [
-    [ "npc_ahune_ice_spear_bunny", "d5/d16/a23484.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
-    [ "InitializeAI", "d5/d16/a23484.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
-    [ "UpdateAI", "d5/d16/a23484.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
-    [ "_scheduler", "d5/d16/a23484.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
+    [ "HandleScriptEffect", "d5/d16/a23484.html#afae95a49843aa956d627e9bd92f8820f", null ],
+    [ "PrepareSpellScript", "d5/d16/a23484.html#a434945da0a6b64db79cab0e09cbbb286", null ],
+    [ "Register", "d5/d16/a23484.html#a396acb663b8c9151196b8fedea3660c7", null ]
 ];

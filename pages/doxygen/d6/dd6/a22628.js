@@ -1,9 +1,12 @@
 var a22628 =
 [
-    [ "npc_finklesteinAI", "da/d0b/a22632.html", "da/d0b/a22632" ],
-    [ "npc_finklestein", "d6/dd6/a22628.html#aa719b4bb95012c22ef8123e255e32edd", null ],
-    [ "GetAI", "d6/dd6/a22628.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
-    [ "OnGossipHello", "d6/dd6/a22628.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
-    [ "OnGossipSelect", "d6/dd6/a22628.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
-    [ "OnQuestAccept", "d6/dd6/a22628.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
+    [ "boss_gurtogg_bloodboil", "d6/dd6/a22628.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
+    [ "CanAIAttack", "d6/dd6/a22628.html#a60e6439bab689eb88a18612b6b46c713", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d6/dd6/a22628.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
+    [ "JustDied", "d6/dd6/a22628.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
+    [ "JustEngagedWith", "d6/dd6/a22628.html#a0847173efbae252c2fbbaf1be17097cb", null ],
+    [ "JustSummoned", "d6/dd6/a22628.html#ae718666a1da0e93cb0965c42c40b51df", null ],
+    [ "KilledUnit", "d6/dd6/a22628.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
+    [ "Reset", "d6/dd6/a22628.html#add25677d422b8bddcb753465451f0584", null ],
+    [ "_recentlySpoken", "d6/dd6/a22628.html#a74af813b84f7787a5b764cfe574c087b", null ]
 ];

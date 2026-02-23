@@ -1,6 +1,9 @@
 var a26600 =
 [
-    [ "CheckProc", "df/d80/a26600.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
-    [ "PrepareAuraScript", "df/d80/a26600.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
-    [ "Register", "df/d80/a26600.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
+    [ "Load", "df/d80/a26600.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
+    [ "PrepareSpellScript", "df/d80/a26600.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
+    [ "Register", "df/d80/a26600.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
+    [ "TriggerHeal", "df/d80/a26600.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
+    [ "Validate", "df/d80/a26600.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
+    [ "healPct", "df/d80/a26600.html#a33b4d26c34903e45b7274e369f096ce1", null ]
 ];

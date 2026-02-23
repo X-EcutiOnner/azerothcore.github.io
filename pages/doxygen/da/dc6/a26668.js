@@ -1,8 +1,8 @@
 var a26668 =
 [
-    [ "Load", "da/dc6/a26668.html#a510f81e77597ef55a87b4f77fa324b2b", null ],
-    [ "OnRemove", "da/dc6/a26668.html#a8b3a3678d1864e630173ab8eb4d504da", null ],
-    [ "PrepareAuraScript", "da/dc6/a26668.html#a1a98b0d8059d5ae47688c2c9bd0486bd", null ],
-    [ "Register", "da/dc6/a26668.html#ae7ed739883e30015e99b6ab5d6cb3f39", null ],
-    [ "Validate", "da/dc6/a26668.html#a3820e716d20809896c84c1ca781af4d1", null ]
+    [ "CheckProc", "da/dc6/a26668.html#a14978c8908b7a928459c2f6ef9adfac2", null ],
+    [ "HandleProc", "da/dc6/a26668.html#ac888d49403a03aaf9a37432c3c119241", null ],
+    [ "PrepareAuraScript", "da/dc6/a26668.html#ab63e1f31dbc34dd2f44a6771631a2330", null ],
+    [ "Register", "da/dc6/a26668.html#ad88268da8fae421f76a5e644aae6b296", null ],
+    [ "Validate", "da/dc6/a26668.html#a0cdb80ee885922a9a38c0e2bea4d33af", null ]
 ];

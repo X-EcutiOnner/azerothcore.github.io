@@ -1,5 +1,6 @@
 var a07776 =
 [
-    [ "value_type", "d8/dd2/a07776.html#ab102122dc913801a43be2fc6e4d5b2b4", null ],
-    [ "TryConsume", "d8/dd2/a07776.html#a4916376e89113eea20071f4f584c6a75", null ]
+    [ "value_type", "d8/dd2/a07776.html#aa9f15f4c6028776b59bf56cbd63587d9", null ],
+    [ "operator()", "d8/dd2/a07776.html#a3042bf741c31893eb607817093239f1a", null ],
+    [ "operator()", "d8/dd2/a07776.html#a83fddb5675f63d4535fac9e62cf9638d", null ]
 ];

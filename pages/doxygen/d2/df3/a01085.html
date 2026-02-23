@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Entities/Object/ObjectGuid.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Chat/Channels/Channel.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,297 +106,200 @@ $(document).ready(function(){initNavTree('d2/df3/a01085.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
 <a href="#define-members">Macros</a> &#124;
-<a href="#typedef-members">Typedefs</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">ObjectGuid.h File Reference</div></div>
+<a href="#enum-members">Enumerations</a>  </div>
+  <div class="headertitle"><div class="title">Channel.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ByteBuffer.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &lt;deque&gt;</code><br />
-<code>#include &lt;functional&gt;</code><br />
-<code>#include &lt;list&gt;</code><br />
-<code>#include &lt;set&gt;</code><br />
-<code>#include &lt;unordered_set&gt;</code><br />
-<code>#include &lt;vector&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldSession.h</a>&quot;</code><br />
+<code>#include &lt;string&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/df9/a08525.html">ObjectGuidTraits&lt; high &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d32/a07692.html">ChannelRights</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d01/a08529.html">PackedGuidReader</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d79/a07696.html">Channel</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dae/a08533.html">ObjectGuid</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d6d/a08537.html">PackedGuid</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/da0/a08541.html">ObjectGuidGeneratorBase</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d2b/a08545.html">ObjectGuidGenerator&lt; high &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db6/a08549.html">std::hash&lt; ObjectGuid &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:d7/d46/a04895"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d46/a04895.html">std</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de3/a07700.html">Channel::PlayerInfo</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
 Macros</h2></td></tr>
-<tr class="memitem:ae616985e1e68f294e055e2bced156ada"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#ae616985e1e68f294e055e2bced156ada">NUM_CLIENT_OBJECT_TYPES</a>&#160;&#160;&#160;8</td></tr>
-<tr class="separator:ae616985e1e68f294e055e2bced156ada"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4d3dbad84884c4977ba2be1ac82cc142"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#a4d3dbad84884c4977ba2be1ac82cc142">GUID_TRAIT_GLOBAL</a>(highguid)</td></tr>
-<tr class="separator:a4d3dbad84884c4977ba2be1ac82cc142"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acdd3815893762a2491365b8fd25c7283"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#acdd3815893762a2491365b8fd25c7283">GUID_TRAIT_MAP_SPECIFIC</a>(highguid)</td></tr>
-<tr class="separator:acdd3815893762a2491365b8fd25c7283"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac7c846a04172e6d96c6096780b5d05b0"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#ac7c846a04172e6d96c6096780b5d05b0">PACKED_GUID_MIN_BUFFER_SIZE</a>&#160;&#160;&#160;9</td></tr>
-<tr class="separator:ac7c846a04172e6d96c6096780b5d05b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a62874da4f73709809fa3c7609d3e30af"><td class="memItemLeft" align="right" valign="top">typedef std::set&lt; <a class="el" href="../../d8/dae/a08533.html">ObjectGuid</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#a62874da4f73709809fa3c7609d3e30af">GuidSet</a></td></tr>
-<tr class="separator:a62874da4f73709809fa3c7609d3e30af"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5951d383f157ff0ed6d23ecef2213a4b"><td class="memItemLeft" align="right" valign="top">typedef std::list&lt; <a class="el" href="../../d8/dae/a08533.html">ObjectGuid</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#a5951d383f157ff0ed6d23ecef2213a4b">GuidList</a></td></tr>
-<tr class="separator:a5951d383f157ff0ed6d23ecef2213a4b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a393d9824dfb17afe3b82652e89eccc68"><td class="memItemLeft" align="right" valign="top">typedef std::deque&lt; <a class="el" href="../../d8/dae/a08533.html">ObjectGuid</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#a393d9824dfb17afe3b82652e89eccc68">GuidDeque</a></td></tr>
-<tr class="separator:a393d9824dfb17afe3b82652e89eccc68"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a173958393e55b3150391dfb3a6d387ed"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../d8/dae/a08533.html">ObjectGuid</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#a173958393e55b3150391dfb3a6d387ed">GuidVector</a></td></tr>
-<tr class="separator:a173958393e55b3150391dfb3a6d387ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a407d39fdbc20e1e06960539245ee6a25"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_set&lt; <a class="el" href="../../d8/dae/a08533.html">ObjectGuid</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#a407d39fdbc20e1e06960539245ee6a25">GuidUnorderedSet</a></td></tr>
-<tr class="separator:a407d39fdbc20e1e06960539245ee6a25"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9efdee99211ebdba225b71037f1e95e1"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#a9efdee99211ebdba225b71037f1e95e1">CHANNEL_BAN_DURATION</a>&#160;&#160;&#160;<a class="el" href="../../dd/db6/a04580.html#a219e927a5d306db9cd363487d1f94366">DAY</a>*60</td></tr>
+<tr class="separator:a9efdee99211ebdba225b71037f1e95e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a183c40b2ba67065929d70b3987da4cc2"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2">TypeID</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2a1f0252b8069f8868dfedfdb4fe45e30f">TYPEID_OBJECT</a> = 0
+<tr class="memitem:aef3616afd739965415bc2de73ae61048"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048">ChatNotify</a> : uint8 { <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a675d855ab96edaeda8c845616aa669bb">CHAT_JOINED_NOTICE</a> = 0x00
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2ab2bcf0ba3fcc0090223bf840eda90b28">TYPEID_ITEM</a> = 1
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a71f4acbc488ac1fe511fd120774e43ba">CHAT_LEFT_NOTICE</a> = 0x01
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2afebf490e56b6f11276b1523008afa107">TYPEID_CONTAINER</a> = 2
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a08eb7d01b66e718aa04b280cff1dec5c">CHAT_YOU_JOINED_NOTICE</a> = 0x02
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2a93dfa528ffc48db4993fb7ac62696db9">TYPEID_UNIT</a> = 3
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ab8d4b78ccbfc6fbb1cce547ba7e8828b">CHAT_YOU_LEFT_NOTICE</a> = 0x03
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2aca37d750899c40a5743285ccda2bba9c">TYPEID_PLAYER</a> = 4
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048abcbbf2d62e027e518b17f7b9c5a3c1f3">CHAT_WRONG_PASSWORD_NOTICE</a> = 0x04
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2a91b74ac7ebfe7909332a6eec5054c60d">TYPEID_GAMEOBJECT</a> = 5
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a61eae59a7ae2fcb92bc168b16762375f">CHAT_NOT_MEMBER_NOTICE</a> = 0x05
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2a86e2d54e816ea646c9cda372df01dc68">TYPEID_DYNAMICOBJECT</a> = 6
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a1dc46070129211517c6bbfcc2d077e21">CHAT_NOT_MODERATOR_NOTICE</a> = 0x06
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2ab20e64ae3f5f5a5ecffa53fee57d7d2f">TYPEID_CORPSE</a> = 7
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ad9263e507aaad0f49427c8b445eb689f">CHAT_PASSWORD_CHANGED_NOTICE</a> = 0x07
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a94a188be8ca288704f5868e545aefba0">CHAT_OWNER_CHANGED_NOTICE</a> = 0x08
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a4195ff09eea51413a2bf076468d6a44b">CHAT_PLAYER_NOT_FOUND_NOTICE</a> = 0x09
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ad77b2ff9f0d4cae9838b40ddaf5a1fc1">CHAT_NOT_OWNER_NOTICE</a> = 0x0A
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ab9c95586cbb43b0f655ecc1f0ddf120d">CHAT_CHANNEL_OWNER_NOTICE</a> = 0x0B
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a5ef5e7cfad0f6fc4d4b3c6ce1813fff2">CHAT_MODE_CHANGE_NOTICE</a> = 0x0C
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a645e57c81111d5139f6aae5a8bade3cf">CHAT_ANNOUNCEMENTS_ON_NOTICE</a> = 0x0D
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a96cea03776fdcf8187b4783c79bb8392">CHAT_ANNOUNCEMENTS_OFF_NOTICE</a> = 0x0E
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ae4bd0fb80760dc76ed7aacb9224235f2">CHAT_MODERATION_ON_NOTICE</a> = 0x0F
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a12d80dca010acd73db1ed840a0706112">CHAT_MODERATION_OFF_NOTICE</a> = 0x10
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a41ade999f7e617f1784b31c1af119a82">CHAT_MUTED_NOTICE</a> = 0x11
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a546358154bc35fe7de905d10d201bea4">CHAT_PLAYER_KICKED_NOTICE</a> = 0x12
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a7c5c7c167bdd9012187d329526b1118f">CHAT_BANNED_NOTICE</a> = 0x13
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a8299e101dc47bf90c1670d91263a8063">CHAT_PLAYER_BANNED_NOTICE</a> = 0x14
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a20ed658bdd91e1d8bc1301cd94153c07">CHAT_PLAYER_UNBANNED_NOTICE</a> = 0x15
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a51fa7aaf742720fb0dc5a3f368afe6ef">CHAT_PLAYER_NOT_BANNED_NOTICE</a> = 0x16
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a830f39c070170392e5741128235579c3">CHAT_PLAYER_ALREADY_MEMBER_NOTICE</a> = 0x17
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ad56f92621e02f1bf37404807a2442022">CHAT_INVITE_NOTICE</a> = 0x18
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a74a7e864042190c701feff61642bbb3a">CHAT_INVITE_WRONG_FACTION_NOTICE</a> = 0x19
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a17beb1ae371ca6af5637bf642d60427a">CHAT_WRONG_FACTION_NOTICE</a> = 0x1A
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ae1d4ca2da0297cb297d0a49e8181c7b8">CHAT_INVALID_NAME_NOTICE</a> = 0x1B
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ab68398900eddade6be5071bb1e7c737b">CHAT_NOT_MODERATED_NOTICE</a> = 0x1C
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a5451f0976709abd1de28aa1eacaf14fd">CHAT_PLAYER_INVITED_NOTICE</a> = 0x1D
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ad39a9f2406daee0b0499e900036a44f0">CHAT_PLAYER_INVITE_BANNED_NOTICE</a> = 0x1E
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ac0b6e263c6ca28ddd89b99321d2dcfff">CHAT_THROTTLED_NOTICE</a> = 0x1F
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048aaf6e043f05b289a1dfc1593f990e6b6d">CHAT_NOT_IN_AREA_NOTICE</a> = 0x20
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a9c5a8ab7890cfce75d44523cdf18fb18">CHAT_NOT_IN_LFG_NOTICE</a> = 0x21
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a97e7243c154cd1938b2b102f72613913">CHAT_VOICE_ON_NOTICE</a> = 0x22
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a5629f3b7f9add78e3a20fa369dc805f6">CHAT_VOICE_OFF_NOTICE</a> = 0x23
 <br />
  }</td></tr>
-<tr class="separator:a183c40b2ba67065929d70b3987da4cc2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acfe503ba26d8a881f16958aaafd431e1"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1">TypeMask</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a15c6345df35def281fc22632f52bc6a2">TYPEMASK_OBJECT</a> = 0x0001
+<tr class="separator:aef3616afd739965415bc2de73ae61048"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a22db5479a3c9cd5559a483e29146af57"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57">ChannelFlags</a> { <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57a30bc2c7278406d0f3c3cced94ad55cbd">CHANNEL_FLAG_NONE</a> = 0x00
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a213c6f64ff343595c13d0e808b75297d">TYPEMASK_ITEM</a> = 0x0002
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57aa465233a9664a77c34a78d83c2667d17">CHANNEL_FLAG_CUSTOM</a> = 0x01
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a8898075ddeb644fdaa32c88c818958dd">TYPEMASK_CONTAINER</a> = 0x0006
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57a49ddcd0dc7a5e8def2216a6230286b17">CHANNEL_FLAG_TRADE</a> = 0x04
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a611a6f19a7f885d824ea5be71ffca2de">TYPEMASK_UNIT</a> = 0x0008
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57a59da6157282e35583f592c811a82f39e">CHANNEL_FLAG_NOT_LFG</a> = 0x08
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1ac68cdbc5c42fc63c5df6b7b0dd69a739">TYPEMASK_PLAYER</a> = 0x0010
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57a6d9feda90f58dbb57b3b32b1a7a8ac0d">CHANNEL_FLAG_GENERAL</a> = 0x10
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1ab64731f0031a7f58c1a56cbf45d6f2f4">TYPEMASK_GAMEOBJECT</a> = 0x0020
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57ac802678a452211b1a576fcfcf7e8309c">CHANNEL_FLAG_CITY</a> = 0x20
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a3a699b841ec20fb9c6d7b99e9bf88108">TYPEMASK_DYNAMICOBJECT</a> = 0x0040
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57aa62854ac734664a38c5eff4c3176ed77">CHANNEL_FLAG_LFG</a> = 0x40
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a94570a20b0854337a5f22641c81a5be9">TYPEMASK_CORPSE</a> = 0x0080
-, <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a5db3f5013b522d453811f6a1e70d9e96">TYPEMASK_SEER</a> = TYPEMASK_PLAYER | TYPEMASK_UNIT | TYPEMASK_DYNAMICOBJECT
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57a0d9aedc07bc4b05ccfed73ca0ed454fa">CHANNEL_FLAG_VOICE</a> = 0x80
 <br />
  }</td></tr>
-<tr class="separator:acfe503ba26d8a881f16958aaafd431e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abe8666ac87665ba963053cdd2b014750"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750">HighGuid</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750a7d74f3b92b19da5e606d737d339a9679">Item</a> = 0x4000
+<tr class="separator:a22db5479a3c9cd5559a483e29146af57"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4acfab10728f2904523abb9c3761a256"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256">ChannelDBCFlags</a> { <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256a04457fac201837a9272f06f25a538173">CHANNEL_DBC_FLAG_NONE</a> = 0x00000
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> = 0x4000
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256af5eedc890f6f50cf045a07a477aa7320">CHANNEL_DBC_FLAG_INITIAL</a> = 0x00001
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750a636da1d35e805b00eae0fcd8333f9234">Player</a> = 0x0000
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256aa0a13507166e8091c3a6f0039da972f2">CHANNEL_DBC_FLAG_ZONE_DEP</a> = 0x00002
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750a3d164a4fbbdd103bddb596268f741bae">GameObject</a> = 0xF110
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256aa12f33a7f3262f52d13644b8f46a26ed">CHANNEL_DBC_FLAG_GLOBAL</a> = 0x00004
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750af5f0c488ed56cf789d19a13ffba8abe3">Transport</a> = 0xF120
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256a04787ba250e727c5fb18191b497fb1ed">CHANNEL_DBC_FLAG_TRADE</a> = 0x00008
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750a19c562a36aeb455d09534f93b4f5236f">Unit</a> = 0xF130
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256a172ae031e7adae711eb0e4bf79c78f7f">CHANNEL_DBC_FLAG_CITY_ONLY</a> = 0x00010
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750a7c986af4cf8f6e55a1f846dc498ce91d">Pet</a> = 0xF140
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256aab49a703bfbf344358828ac4907ff4b8">CHANNEL_DBC_FLAG_CITY_ONLY2</a> = 0x00020
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750ad6af9c1eaff2a89ebd3f8d0c542be12b">Vehicle</a> = 0xF150
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256ae8bd4a28f2fb6dc288f37173cf7f9c19">CHANNEL_DBC_FLAG_DEFENSE</a> = 0x10000
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750a8e9e2acf3f592fab793f32c92fbf7bee">DynamicObject</a> = 0xF100
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256a94c7d5e831af500620a531d5c3bcc48f">CHANNEL_DBC_FLAG_GUILD_REQ</a> = 0x20000
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750a417799dc63b3ebb2852970ae4b5c0f4a">Corpse</a> = 0xF101
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256adfc562c00507a8e2b92f20824c791985">CHANNEL_DBC_FLAG_LFG</a> = 0x40000
 , <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750a50c0392a66a27a037ab10f870aa9b57a">Mo_Transport</a> = 0x1FC0
-, <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750ad9a17c1c9e8ef6866e4dbeef41c741b2">Instance</a> = 0x1F40
-, <br />
-&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750a03937134cedab9078be39a77ee3a48a0">Group</a> = 0x1F50
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256aa6484d00248c0c7a368ba68117de790d">CHANNEL_DBC_FLAG_UNK1</a> = 0x80000
 <br />
  }</td></tr>
-<tr class="separator:abe8666ac87665ba963053cdd2b014750"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a039758f4b57c94c411a4c3882334ada8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d81/a28397.html">ByteBuffer</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#a039758f4b57c94c411a4c3882334ada8">operator&lt;&lt;</a> (<a class="el" href="../../d3/d81/a28397.html">ByteBuffer</a> &amp;buf, <a class="el" href="../../d8/dae/a08533.html">ObjectGuid</a> const &amp;guid)</td></tr>
-<tr class="separator:a039758f4b57c94c411a4c3882334ada8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a30aef535f2839648f0ae4648c746d3e2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d81/a28397.html">ByteBuffer</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#a30aef535f2839648f0ae4648c746d3e2">operator&gt;&gt;</a> (<a class="el" href="../../d3/d81/a28397.html">ByteBuffer</a> &amp;buf, <a class="el" href="../../d8/dae/a08533.html">ObjectGuid</a> &amp;guid)</td></tr>
-<tr class="separator:a30aef535f2839648f0ae4648c746d3e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a94ab551ce00fd82dea1532d47ad908bc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d81/a28397.html">ByteBuffer</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#a94ab551ce00fd82dea1532d47ad908bc">operator&lt;&lt;</a> (<a class="el" href="../../d3/d81/a28397.html">ByteBuffer</a> &amp;buf, <a class="el" href="../../d8/d6d/a08537.html">PackedGuid</a> const &amp;guid)</td></tr>
-<tr class="separator:a94ab551ce00fd82dea1532d47ad908bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a95f3a6eef334b9fcdcaca879532c25d4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d81/a28397.html">ByteBuffer</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#a95f3a6eef334b9fcdcaca879532c25d4">operator&gt;&gt;</a> (<a class="el" href="../../d3/d81/a28397.html">ByteBuffer</a> &amp;buf, <a class="el" href="../../dd/d01/a08529.html">PackedGuidReader</a> const &amp;guid)</td></tr>
-<tr class="separator:a95f3a6eef334b9fcdcaca879532c25d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a4acfab10728f2904523abb9c3761a256"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a32e7211cd1262883c225f32863018c39"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39">ChannelMemberFlags</a> { <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39af0d5b67840f36117e2f76108784d8ecf">MEMBER_FLAG_NONE</a> = 0x00
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39af519a341c01b83853d70e1b038596df8">MEMBER_FLAG_OWNER</a> = 0x01
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39ae71d16110c2240e872296c53f0d1c26d">MEMBER_FLAG_MODERATOR</a> = 0x02
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39ab94e40361a3a7aff32d247e44fd90004">MEMBER_FLAG_VOICED</a> = 0x04
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39a0496041bd982b10f5b9a0bc1eab996b7">MEMBER_FLAG_MUTED</a> = 0x08
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39a3b99639d03c6dd588793fa2d17dd8b7e">MEMBER_FLAG_CUSTOM</a> = 0x10
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39a51c058769ba3692b6016b5ed2e2034c1">MEMBER_FLAG_MIC_MUTED</a> = 0x20
+<br />
+ }</td></tr>
+<tr class="separator:a32e7211cd1262883c225f32863018c39"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab7fa3de55051b4b64ff92a8d7eef417a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417a">eChannelRights</a> { <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aa67b202bda6094f739919492eba525981">CHANNEL_RIGHT_FORCE_NO_ANNOUNCEMENTS</a> = 0x001
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aa7ee9f05e0db3aad528e2df7ecf4aa8c2">CHANNEL_RIGHT_FORCE_ANNOUNCEMENTS</a> = 0x002
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aae429eae4c346c3af4c8d68251556a918">CHANNEL_RIGHT_NO_OWNERSHIP</a> = 0x004
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aa86af292b301961e50f6f8bc9c960af01">CHANNEL_RIGHT_CANT_SPEAK</a> = 0x008
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aa5fbb3a648477030ea54ca3c715938d0b">CHANNEL_RIGHT_CANT_BAN</a> = 0x010
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aa6fbb26729efc9fd907286ff76ef07e10">CHANNEL_RIGHT_CANT_KICK</a> = 0x020
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aac5101c589a4b8cc24a8e7684e3c23744">CHANNEL_RIGHT_CANT_MUTE</a> = 0x040
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aaaff5050f1084a527faab0139d392e361">CHANNEL_RIGHT_CANT_CHANGE_PASSWORD</a> = 0x080
+, <br />
+&#160;&#160;<a class="el" href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aa7b8f17d59929603121d8537ca683eb2f">CHANNEL_RIGHT_DONT_PRESERVE</a> = 0x100
+<br />
+ }</td></tr>
+<tr class="separator:ab7fa3de55051b4b64ff92a8d7eef417a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a4d3dbad84884c4977ba2be1ac82cc142" name="a4d3dbad84884c4977ba2be1ac82cc142"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4d3dbad84884c4977ba2be1ac82cc142">&#9670;&#160;</a></span>GUID_TRAIT_GLOBAL</h2>
+<a id="a9efdee99211ebdba225b71037f1e95e1" name="a9efdee99211ebdba225b71037f1e95e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9efdee99211ebdba225b71037f1e95e1">&#9670;&#160;</a></span>CHANNEL_BAN_DURATION</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define GUID_TRAIT_GLOBAL</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">highguid</td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">    <span class="keyword">template</span>&lt;&gt; <span class="keyword">struct </span><a class="code hl_struct" href="../../d1/df9/a08525.html">ObjectGuidTraits</a>&lt;highguid&gt; \</div>
-<div class="line">    { \</div>
-<div class="line">        <span class="keyword">static</span> <span class="keywordtype">bool</span> <span class="keyword">const</span> <a class="code hl_variable" href="../../d1/df9/a08525.html#a77d72711ba9384384f9fd789f778e8c8">Global</a> = <span class="keyword">true</span>; \</div>
-<div class="line">        <span class="keyword">static</span> <span class="keywordtype">bool</span> <span class="keyword">const</span> <a class="code hl_variable" href="../../d1/df9/a08525.html#a42e5a0249b84d4e8175a4cb65480bbcf">MapSpecific</a> = <span class="keyword">false</span>; \</div>
-<div class="line">    };</div>
-<div class="ttc" id="aa08525_html"><div class="ttname"><a href="../../d1/df9/a08525.html">ObjectGuidTraits</a></div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:76</div></div>
-<div class="ttc" id="aa08525_html_a42e5a0249b84d4e8175a4cb65480bbcf"><div class="ttname"><a href="../../d1/df9/a08525.html#a42e5a0249b84d4e8175a4cb65480bbcf">ObjectGuidTraits::MapSpecific</a></div><div class="ttdeci">static bool const MapSpecific</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:78</div></div>
-<div class="ttc" id="aa08525_html_a77d72711ba9384384f9fd789f778e8c8"><div class="ttname"><a href="../../d1/df9/a08525.html#a77d72711ba9384384f9fd789f778e8c8">ObjectGuidTraits::Global</a></div><div class="ttdeci">static bool const Global</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:77</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="acdd3815893762a2491365b8fd25c7283" name="acdd3815893762a2491365b8fd25c7283"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acdd3815893762a2491365b8fd25c7283">&#9670;&#160;</a></span>GUID_TRAIT_MAP_SPECIFIC</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define GUID_TRAIT_MAP_SPECIFIC</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">highguid</td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">    <span class="keyword">template</span>&lt;&gt; <span class="keyword">struct </span><a class="code hl_struct" href="../../d1/df9/a08525.html">ObjectGuidTraits</a>&lt;highguid&gt; \</div>
-<div class="line">    { \</div>
-<div class="line">        <span class="keyword">static</span> <span class="keywordtype">bool</span> <span class="keyword">const</span> <a class="code hl_variable" href="../../d1/df9/a08525.html#a77d72711ba9384384f9fd789f778e8c8">Global</a> = <span class="keyword">false</span>; \</div>
-<div class="line">        <span class="keyword">static</span> <span class="keywordtype">bool</span> <span class="keyword">const</span> <a class="code hl_variable" href="../../d1/df9/a08525.html#a42e5a0249b84d4e8175a4cb65480bbcf">MapSpecific</a> = <span class="keyword">true</span>; \</div>
-<div class="line">    };</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ae616985e1e68f294e055e2bced156ada" name="ae616985e1e68f294e055e2bced156ada"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae616985e1e68f294e055e2bced156ada">&#9670;&#160;</a></span>NUM_CLIENT_OBJECT_TYPES</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define NUM_CLIENT_OBJECT_TYPES&#160;&#160;&#160;8</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ac7c846a04172e6d96c6096780b5d05b0" name="ac7c846a04172e6d96c6096780b5d05b0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac7c846a04172e6d96c6096780b5d05b0">&#9670;&#160;</a></span>PACKED_GUID_MIN_BUFFER_SIZE</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define PACKED_GUID_MIN_BUFFER_SIZE&#160;&#160;&#160;9</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="a393d9824dfb17afe3b82652e89eccc68" name="a393d9824dfb17afe3b82652e89eccc68"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a393d9824dfb17afe3b82652e89eccc68">&#9670;&#160;</a></span>GuidDeque</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::deque&lt;<a class="el" href="../../d8/dae/a08533.html">ObjectGuid</a>&gt; <a class="el" href="../../d2/df3/a01085.html#a393d9824dfb17afe3b82652e89eccc68">GuidDeque</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a5951d383f157ff0ed6d23ecef2213a4b" name="a5951d383f157ff0ed6d23ecef2213a4b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5951d383f157ff0ed6d23ecef2213a4b">&#9670;&#160;</a></span>GuidList</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::list&lt;<a class="el" href="../../d8/dae/a08533.html">ObjectGuid</a>&gt; <a class="el" href="../../d2/df3/a01085.html#a5951d383f157ff0ed6d23ecef2213a4b">GuidList</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a62874da4f73709809fa3c7609d3e30af" name="a62874da4f73709809fa3c7609d3e30af"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a62874da4f73709809fa3c7609d3e30af">&#9670;&#160;</a></span>GuidSet</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::set&lt;<a class="el" href="../../d8/dae/a08533.html">ObjectGuid</a>&gt; <a class="el" href="../../d2/df3/a01085.html#a62874da4f73709809fa3c7609d3e30af">GuidSet</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a407d39fdbc20e1e06960539245ee6a25" name="a407d39fdbc20e1e06960539245ee6a25"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a407d39fdbc20e1e06960539245ee6a25">&#9670;&#160;</a></span>GuidUnorderedSet</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::unordered_set&lt;<a class="el" href="../../d8/dae/a08533.html">ObjectGuid</a>&gt; <a class="el" href="../../d2/df3/a01085.html#a407d39fdbc20e1e06960539245ee6a25">GuidUnorderedSet</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a173958393e55b3150391dfb3a6d387ed" name="a173958393e55b3150391dfb3a6d387ed"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a173958393e55b3150391dfb3a6d387ed">&#9670;&#160;</a></span>GuidVector</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::vector&lt;<a class="el" href="../../d8/dae/a08533.html">ObjectGuid</a>&gt; <a class="el" href="../../d2/df3/a01085.html#a173958393e55b3150391dfb3a6d387ed">GuidVector</a></td>
+          <td class="memname">#define CHANNEL_BAN_DURATION&#160;&#160;&#160;<a class="el" href="../../dd/db6/a04580.html#a219e927a5d306db9cd363487d1f94366">DAY</a>*60</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -404,298 +307,317 @@ Functions</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="abe8666ac87665ba963053cdd2b014750" name="abe8666ac87665ba963053cdd2b014750"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abe8666ac87665ba963053cdd2b014750">&#9670;&#160;</a></span>HighGuid</h2>
+<a id="a4acfab10728f2904523abb9c3761a256" name="a4acfab10728f2904523abb9c3761a256"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4acfab10728f2904523abb9c3761a256">&#9670;&#160;</a></span>ChannelDBCFlags</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">enum class <a class="el" href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750">HighGuid</a></td>
+          <td class="memname">enum <a class="el" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256">ChannelDBCFlags</a></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="abe8666ac87665ba963053cdd2b014750a7d74f3b92b19da5e606d737d339a9679" name="abe8666ac87665ba963053cdd2b014750a7d74f3b92b19da5e606d737d339a9679"></a>Item&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2" name="abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2"></a>Container&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abe8666ac87665ba963053cdd2b014750a636da1d35e805b00eae0fcd8333f9234" name="abe8666ac87665ba963053cdd2b014750a636da1d35e805b00eae0fcd8333f9234"></a>Player&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abe8666ac87665ba963053cdd2b014750a3d164a4fbbdd103bddb596268f741bae" name="abe8666ac87665ba963053cdd2b014750a3d164a4fbbdd103bddb596268f741bae"></a>GameObject&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abe8666ac87665ba963053cdd2b014750af5f0c488ed56cf789d19a13ffba8abe3" name="abe8666ac87665ba963053cdd2b014750af5f0c488ed56cf789d19a13ffba8abe3"></a>Transport&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abe8666ac87665ba963053cdd2b014750a19c562a36aeb455d09534f93b4f5236f" name="abe8666ac87665ba963053cdd2b014750a19c562a36aeb455d09534f93b4f5236f"></a>Unit&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abe8666ac87665ba963053cdd2b014750a7c986af4cf8f6e55a1f846dc498ce91d" name="abe8666ac87665ba963053cdd2b014750a7c986af4cf8f6e55a1f846dc498ce91d"></a>Pet&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abe8666ac87665ba963053cdd2b014750ad6af9c1eaff2a89ebd3f8d0c542be12b" name="abe8666ac87665ba963053cdd2b014750ad6af9c1eaff2a89ebd3f8d0c542be12b"></a>Vehicle&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abe8666ac87665ba963053cdd2b014750a8e9e2acf3f592fab793f32c92fbf7bee" name="abe8666ac87665ba963053cdd2b014750a8e9e2acf3f592fab793f32c92fbf7bee"></a>DynamicObject&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abe8666ac87665ba963053cdd2b014750a417799dc63b3ebb2852970ae4b5c0f4a" name="abe8666ac87665ba963053cdd2b014750a417799dc63b3ebb2852970ae4b5c0f4a"></a>Corpse&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abe8666ac87665ba963053cdd2b014750a50c0392a66a27a037ab10f870aa9b57a" name="abe8666ac87665ba963053cdd2b014750a50c0392a66a27a037ab10f870aa9b57a"></a>Mo_Transport&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abe8666ac87665ba963053cdd2b014750ad9a17c1c9e8ef6866e4dbeef41c741b2" name="abe8666ac87665ba963053cdd2b014750ad9a17c1c9e8ef6866e4dbeef41c741b2"></a>Instance&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abe8666ac87665ba963053cdd2b014750a03937134cedab9078be39a77ee3a48a0" name="abe8666ac87665ba963053cdd2b014750a03937134cedab9078be39a77ee3a48a0"></a>Group&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4acfab10728f2904523abb9c3761a256a04457fac201837a9272f06f25a538173" name="a4acfab10728f2904523abb9c3761a256a04457fac201837a9272f06f25a538173"></a>CHANNEL_DBC_FLAG_NONE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4acfab10728f2904523abb9c3761a256af5eedc890f6f50cf045a07a477aa7320" name="a4acfab10728f2904523abb9c3761a256af5eedc890f6f50cf045a07a477aa7320"></a>CHANNEL_DBC_FLAG_INITIAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4acfab10728f2904523abb9c3761a256aa0a13507166e8091c3a6f0039da972f2" name="a4acfab10728f2904523abb9c3761a256aa0a13507166e8091c3a6f0039da972f2"></a>CHANNEL_DBC_FLAG_ZONE_DEP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4acfab10728f2904523abb9c3761a256aa12f33a7f3262f52d13644b8f46a26ed" name="a4acfab10728f2904523abb9c3761a256aa12f33a7f3262f52d13644b8f46a26ed"></a>CHANNEL_DBC_FLAG_GLOBAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4acfab10728f2904523abb9c3761a256a04787ba250e727c5fb18191b497fb1ed" name="a4acfab10728f2904523abb9c3761a256a04787ba250e727c5fb18191b497fb1ed"></a>CHANNEL_DBC_FLAG_TRADE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4acfab10728f2904523abb9c3761a256a172ae031e7adae711eb0e4bf79c78f7f" name="a4acfab10728f2904523abb9c3761a256a172ae031e7adae711eb0e4bf79c78f7f"></a>CHANNEL_DBC_FLAG_CITY_ONLY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4acfab10728f2904523abb9c3761a256aab49a703bfbf344358828ac4907ff4b8" name="a4acfab10728f2904523abb9c3761a256aab49a703bfbf344358828ac4907ff4b8"></a>CHANNEL_DBC_FLAG_CITY_ONLY2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4acfab10728f2904523abb9c3761a256ae8bd4a28f2fb6dc288f37173cf7f9c19" name="a4acfab10728f2904523abb9c3761a256ae8bd4a28f2fb6dc288f37173cf7f9c19"></a>CHANNEL_DBC_FLAG_DEFENSE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4acfab10728f2904523abb9c3761a256a94c7d5e831af500620a531d5c3bcc48f" name="a4acfab10728f2904523abb9c3761a256a94c7d5e831af500620a531d5c3bcc48f"></a>CHANNEL_DBC_FLAG_GUILD_REQ&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4acfab10728f2904523abb9c3761a256adfc562c00507a8e2b92f20824c791985" name="a4acfab10728f2904523abb9c3761a256adfc562c00507a8e2b92f20824c791985"></a>CHANNEL_DBC_FLAG_LFG&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4acfab10728f2904523abb9c3761a256aa6484d00248c0c7a368ba68117de790d" name="a4acfab10728f2904523abb9c3761a256aa6484d00248c0c7a368ba68117de790d"></a>CHANNEL_DBC_FLAG_UNK1&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   58</span>{</div>
-<div class="line"><span class="lineno">   59</span>    <a class="code hl_class" href="../../da/d7a/a08441.html">Item</a>           = 0x4000,                      <span class="comment">// blizz 4000</span></div>
-<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a>      = 0x4000,                      <span class="comment">// blizz 4000</span></div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_class" href="../../d7/d1c/a08737.html">Player</a>         = 0x0000,                      <span class="comment">// blizz 0000</span></div>
-<div class="line"><span class="lineno">   62</span>    <a class="code hl_class" href="../../de/db5/a08285.html">GameObject</a>     = 0xF110,                      <span class="comment">// blizz F110</span></div>
-<div class="line"><span class="lineno">   63</span>    <a class="code hl_class" href="../../d9/d3e/a08777.html">Transport</a>      = 0xF120,                      <span class="comment">// blizz F120 (for GAMEOBJECT_TYPE_TRANSPORT)</span></div>
-<div class="line"><span class="lineno">   64</span>    <a class="code hl_class" href="../../d3/da7/a08869.html">Unit</a>           = 0xF130,                      <span class="comment">// blizz F130</span></div>
-<div class="line"><span class="lineno">   65</span>    <a class="code hl_class" href="../../d8/d16/a08601.html">Pet</a>            = 0xF140,                      <span class="comment">// blizz F140</span></div>
-<div class="line"><span class="lineno">   66</span>    <a class="code hl_class" href="../../d4/dbd/a08901.html">Vehicle</a>        = 0xF150,                      <span class="comment">// blizz F550</span></div>
-<div class="line"><span class="lineno">   67</span>    <a class="code hl_class" href="../../d6/d6c/a08257.html">DynamicObject</a>  = 0xF100,                      <span class="comment">// blizz F100</span></div>
-<div class="line"><span class="lineno">   68</span>    <a class="code hl_class" href="../../d8/dda/a08101.html">Corpse</a>         = 0xF101,                      <span class="comment">// blizz F100</span></div>
-<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750a50c0392a66a27a037ab10f870aa9b57a">Mo_Transport</a>   = 0x1FC0,                      <span class="comment">// blizz 1FC0 (for GAMEOBJECT_TYPE_MO_TRANSPORT)</span></div>
-<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750ad9a17c1c9e8ef6866e4dbeef41c741b2">Instance</a>       = 0x1F40,                      <span class="comment">// blizz 1F40</span></div>
-<div class="line"><span class="lineno">   71</span>    <a class="code hl_class" href="../../d1/d24/a09633.html">Group</a>          = 0x1F50,</div>
-<div class="line"><span class="lineno">   72</span>};</div>
-<div class="ttc" id="aa01085_html_abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2"><div class="ttname"><a href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">HighGuid::Container</a></div><div class="ttdeci">@ Container</div></div>
-<div class="ttc" id="aa01085_html_abe8666ac87665ba963053cdd2b014750a50c0392a66a27a037ab10f870aa9b57a"><div class="ttname"><a href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750a50c0392a66a27a037ab10f870aa9b57a">HighGuid::Mo_Transport</a></div><div class="ttdeci">@ Mo_Transport</div></div>
-<div class="ttc" id="aa01085_html_abe8666ac87665ba963053cdd2b014750ad9a17c1c9e8ef6866e4dbeef41c741b2"><div class="ttname"><a href="../../d2/df3/a01085.html#abe8666ac87665ba963053cdd2b014750ad9a17c1c9e8ef6866e4dbeef41c741b2">HighGuid::Instance</a></div><div class="ttdeci">@ Instance</div></div>
-<div class="ttc" id="aa08101_html"><div class="ttname"><a href="../../d8/dda/a08101.html">Corpse</a></div><div class="ttdef"><b>Definition:</b> Corpse.h:49</div></div>
-<div class="ttc" id="aa08257_html"><div class="ttname"><a href="../../d6/d6c/a08257.html">DynamicObject</a></div><div class="ttdef"><b>Definition:</b> DynamicObject.h:35</div></div>
-<div class="ttc" id="aa08285_html"><div class="ttname"><a href="../../de/db5/a08285.html">GameObject</a></div><div class="ttdef"><b>Definition:</b> GameObject.h:120</div></div>
-<div class="ttc" id="aa08441_html"><div class="ttname"><a href="../../da/d7a/a08441.html">Item</a></div><div class="ttdef"><b>Definition:</b> Item.h:220</div></div>
-<div class="ttc" id="aa08601_html"><div class="ttname"><a href="../../d8/d16/a08601.html">Pet</a></div><div class="ttdef"><b>Definition:</b> Pet.h:41</div></div>
-<div class="ttc" id="aa08737_html"><div class="ttname"><a href="../../d7/d1c/a08737.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1085</div></div>
-<div class="ttc" id="aa08777_html"><div class="ttname"><a href="../../d9/d3e/a08777.html">Transport</a></div><div class="ttdef"><b>Definition:</b> Transport.h:30</div></div>
-<div class="ttc" id="aa08869_html"><div class="ttname"><a href="../../d3/da7/a08869.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:655</div></div>
-<div class="ttc" id="aa08901_html"><div class="ttname"><a href="../../d4/dbd/a08901.html">Vehicle</a></div><div class="ttdef"><b>Definition:</b> Vehicle.h:28</div></div>
-<div class="ttc" id="aa09633_html"><div class="ttname"><a href="../../d1/d24/a09633.html">Group</a></div><div class="ttdef"><b>Definition:</b> Group.h:169</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   91</span>{</div>
+<div class="line"><span class="lineno">   92</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256a04457fac201837a9272f06f25a538173">CHANNEL_DBC_FLAG_NONE</a>       = 0x00000,</div>
+<div class="line"><span class="lineno">   93</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256af5eedc890f6f50cf045a07a477aa7320">CHANNEL_DBC_FLAG_INITIAL</a>    = 0x00001,              <span class="comment">// General, Trade, LocalDefense, LFG</span></div>
+<div class="line"><span class="lineno">   94</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256aa0a13507166e8091c3a6f0039da972f2">CHANNEL_DBC_FLAG_ZONE_DEP</a>   = 0x00002,              <span class="comment">// General, Trade, LocalDefense, GuildRecruitment</span></div>
+<div class="line"><span class="lineno">   95</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256aa12f33a7f3262f52d13644b8f46a26ed">CHANNEL_DBC_FLAG_GLOBAL</a>     = 0x00004,              <span class="comment">// WorldDefense</span></div>
+<div class="line"><span class="lineno">   96</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256a04787ba250e727c5fb18191b497fb1ed">CHANNEL_DBC_FLAG_TRADE</a>      = 0x00008,              <span class="comment">// Trade, LFG</span></div>
+<div class="line"><span class="lineno">   97</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256a172ae031e7adae711eb0e4bf79c78f7f">CHANNEL_DBC_FLAG_CITY_ONLY</a>  = 0x00010,              <span class="comment">// Trade, GuildRecruitment, LFG</span></div>
+<div class="line"><span class="lineno">   98</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256aab49a703bfbf344358828ac4907ff4b8">CHANNEL_DBC_FLAG_CITY_ONLY2</a> = 0x00020,              <span class="comment">// Trade, GuildRecruitment, LFG</span></div>
+<div class="line"><span class="lineno">   99</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256ae8bd4a28f2fb6dc288f37173cf7f9c19">CHANNEL_DBC_FLAG_DEFENSE</a>    = 0x10000,              <span class="comment">// LocalDefense, WorldDefense</span></div>
+<div class="line"><span class="lineno">  100</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256a94c7d5e831af500620a531d5c3bcc48f">CHANNEL_DBC_FLAG_GUILD_REQ</a>  = 0x20000,              <span class="comment">// GuildRecruitment</span></div>
+<div class="line"><span class="lineno">  101</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256adfc562c00507a8e2b92f20824c791985">CHANNEL_DBC_FLAG_LFG</a>        = 0x40000,              <span class="comment">// LFG</span></div>
+<div class="line"><span class="lineno">  102</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256aa6484d00248c0c7a368ba68117de790d">CHANNEL_DBC_FLAG_UNK1</a>       = 0x80000               <span class="comment">// General</span></div>
+<div class="line"><span class="lineno">  103</span>};</div>
+<div class="ttc" id="aa01085_html_a4acfab10728f2904523abb9c3761a256a04457fac201837a9272f06f25a538173"><div class="ttname"><a href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256a04457fac201837a9272f06f25a538173">CHANNEL_DBC_FLAG_NONE</a></div><div class="ttdeci">@ CHANNEL_DBC_FLAG_NONE</div><div class="ttdef"><b>Definition:</b> Channel.h:92</div></div>
+<div class="ttc" id="aa01085_html_a4acfab10728f2904523abb9c3761a256a04787ba250e727c5fb18191b497fb1ed"><div class="ttname"><a href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256a04787ba250e727c5fb18191b497fb1ed">CHANNEL_DBC_FLAG_TRADE</a></div><div class="ttdeci">@ CHANNEL_DBC_FLAG_TRADE</div><div class="ttdef"><b>Definition:</b> Channel.h:96</div></div>
+<div class="ttc" id="aa01085_html_a4acfab10728f2904523abb9c3761a256a172ae031e7adae711eb0e4bf79c78f7f"><div class="ttname"><a href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256a172ae031e7adae711eb0e4bf79c78f7f">CHANNEL_DBC_FLAG_CITY_ONLY</a></div><div class="ttdeci">@ CHANNEL_DBC_FLAG_CITY_ONLY</div><div class="ttdef"><b>Definition:</b> Channel.h:97</div></div>
+<div class="ttc" id="aa01085_html_a4acfab10728f2904523abb9c3761a256a94c7d5e831af500620a531d5c3bcc48f"><div class="ttname"><a href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256a94c7d5e831af500620a531d5c3bcc48f">CHANNEL_DBC_FLAG_GUILD_REQ</a></div><div class="ttdeci">@ CHANNEL_DBC_FLAG_GUILD_REQ</div><div class="ttdef"><b>Definition:</b> Channel.h:100</div></div>
+<div class="ttc" id="aa01085_html_a4acfab10728f2904523abb9c3761a256aa0a13507166e8091c3a6f0039da972f2"><div class="ttname"><a href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256aa0a13507166e8091c3a6f0039da972f2">CHANNEL_DBC_FLAG_ZONE_DEP</a></div><div class="ttdeci">@ CHANNEL_DBC_FLAG_ZONE_DEP</div><div class="ttdef"><b>Definition:</b> Channel.h:94</div></div>
+<div class="ttc" id="aa01085_html_a4acfab10728f2904523abb9c3761a256aa12f33a7f3262f52d13644b8f46a26ed"><div class="ttname"><a href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256aa12f33a7f3262f52d13644b8f46a26ed">CHANNEL_DBC_FLAG_GLOBAL</a></div><div class="ttdeci">@ CHANNEL_DBC_FLAG_GLOBAL</div><div class="ttdef"><b>Definition:</b> Channel.h:95</div></div>
+<div class="ttc" id="aa01085_html_a4acfab10728f2904523abb9c3761a256aa6484d00248c0c7a368ba68117de790d"><div class="ttname"><a href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256aa6484d00248c0c7a368ba68117de790d">CHANNEL_DBC_FLAG_UNK1</a></div><div class="ttdeci">@ CHANNEL_DBC_FLAG_UNK1</div><div class="ttdef"><b>Definition:</b> Channel.h:102</div></div>
+<div class="ttc" id="aa01085_html_a4acfab10728f2904523abb9c3761a256aab49a703bfbf344358828ac4907ff4b8"><div class="ttname"><a href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256aab49a703bfbf344358828ac4907ff4b8">CHANNEL_DBC_FLAG_CITY_ONLY2</a></div><div class="ttdeci">@ CHANNEL_DBC_FLAG_CITY_ONLY2</div><div class="ttdef"><b>Definition:</b> Channel.h:98</div></div>
+<div class="ttc" id="aa01085_html_a4acfab10728f2904523abb9c3761a256adfc562c00507a8e2b92f20824c791985"><div class="ttname"><a href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256adfc562c00507a8e2b92f20824c791985">CHANNEL_DBC_FLAG_LFG</a></div><div class="ttdeci">@ CHANNEL_DBC_FLAG_LFG</div><div class="ttdef"><b>Definition:</b> Channel.h:101</div></div>
+<div class="ttc" id="aa01085_html_a4acfab10728f2904523abb9c3761a256ae8bd4a28f2fb6dc288f37173cf7f9c19"><div class="ttname"><a href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256ae8bd4a28f2fb6dc288f37173cf7f9c19">CHANNEL_DBC_FLAG_DEFENSE</a></div><div class="ttdeci">@ CHANNEL_DBC_FLAG_DEFENSE</div><div class="ttdef"><b>Definition:</b> Channel.h:99</div></div>
+<div class="ttc" id="aa01085_html_a4acfab10728f2904523abb9c3761a256af5eedc890f6f50cf045a07a477aa7320"><div class="ttname"><a href="../../d2/df3/a01085.html#a4acfab10728f2904523abb9c3761a256af5eedc890f6f50cf045a07a477aa7320">CHANNEL_DBC_FLAG_INITIAL</a></div><div class="ttdeci">@ CHANNEL_DBC_FLAG_INITIAL</div><div class="ttdef"><b>Definition:</b> Channel.h:93</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a183c40b2ba67065929d70b3987da4cc2" name="a183c40b2ba67065929d70b3987da4cc2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a183c40b2ba67065929d70b3987da4cc2">&#9670;&#160;</a></span>TypeID</h2>
+<a id="a22db5479a3c9cd5559a483e29146af57" name="a22db5479a3c9cd5559a483e29146af57"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a22db5479a3c9cd5559a483e29146af57">&#9670;&#160;</a></span>ChannelFlags</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2">TypeID</a></td>
+          <td class="memname">enum <a class="el" href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57">ChannelFlags</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a183c40b2ba67065929d70b3987da4cc2a1f0252b8069f8868dfedfdb4fe45e30f" name="a183c40b2ba67065929d70b3987da4cc2a1f0252b8069f8868dfedfdb4fe45e30f"></a>TYPEID_OBJECT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a183c40b2ba67065929d70b3987da4cc2ab2bcf0ba3fcc0090223bf840eda90b28" name="a183c40b2ba67065929d70b3987da4cc2ab2bcf0ba3fcc0090223bf840eda90b28"></a>TYPEID_ITEM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a183c40b2ba67065929d70b3987da4cc2afebf490e56b6f11276b1523008afa107" name="a183c40b2ba67065929d70b3987da4cc2afebf490e56b6f11276b1523008afa107"></a>TYPEID_CONTAINER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a183c40b2ba67065929d70b3987da4cc2a93dfa528ffc48db4993fb7ac62696db9" name="a183c40b2ba67065929d70b3987da4cc2a93dfa528ffc48db4993fb7ac62696db9"></a>TYPEID_UNIT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a183c40b2ba67065929d70b3987da4cc2aca37d750899c40a5743285ccda2bba9c" name="a183c40b2ba67065929d70b3987da4cc2aca37d750899c40a5743285ccda2bba9c"></a>TYPEID_PLAYER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a183c40b2ba67065929d70b3987da4cc2a91b74ac7ebfe7909332a6eec5054c60d" name="a183c40b2ba67065929d70b3987da4cc2a91b74ac7ebfe7909332a6eec5054c60d"></a>TYPEID_GAMEOBJECT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a183c40b2ba67065929d70b3987da4cc2a86e2d54e816ea646c9cda372df01dc68" name="a183c40b2ba67065929d70b3987da4cc2a86e2d54e816ea646c9cda372df01dc68"></a>TYPEID_DYNAMICOBJECT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a183c40b2ba67065929d70b3987da4cc2ab20e64ae3f5f5a5ecffa53fee57d7d2f" name="a183c40b2ba67065929d70b3987da4cc2ab20e64ae3f5f5a5ecffa53fee57d7d2f"></a>TYPEID_CORPSE&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a22db5479a3c9cd5559a483e29146af57a30bc2c7278406d0f3c3cced94ad55cbd" name="a22db5479a3c9cd5559a483e29146af57a30bc2c7278406d0f3c3cced94ad55cbd"></a>CHANNEL_FLAG_NONE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a22db5479a3c9cd5559a483e29146af57aa465233a9664a77c34a78d83c2667d17" name="a22db5479a3c9cd5559a483e29146af57aa465233a9664a77c34a78d83c2667d17"></a>CHANNEL_FLAG_CUSTOM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a22db5479a3c9cd5559a483e29146af57a49ddcd0dc7a5e8def2216a6230286b17" name="a22db5479a3c9cd5559a483e29146af57a49ddcd0dc7a5e8def2216a6230286b17"></a>CHANNEL_FLAG_TRADE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a22db5479a3c9cd5559a483e29146af57a59da6157282e35583f592c811a82f39e" name="a22db5479a3c9cd5559a483e29146af57a59da6157282e35583f592c811a82f39e"></a>CHANNEL_FLAG_NOT_LFG&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a22db5479a3c9cd5559a483e29146af57a6d9feda90f58dbb57b3b32b1a7a8ac0d" name="a22db5479a3c9cd5559a483e29146af57a6d9feda90f58dbb57b3b32b1a7a8ac0d"></a>CHANNEL_FLAG_GENERAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a22db5479a3c9cd5559a483e29146af57ac802678a452211b1a576fcfcf7e8309c" name="a22db5479a3c9cd5559a483e29146af57ac802678a452211b1a576fcfcf7e8309c"></a>CHANNEL_FLAG_CITY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a22db5479a3c9cd5559a483e29146af57aa62854ac734664a38c5eff4c3176ed77" name="a22db5479a3c9cd5559a483e29146af57aa62854ac734664a38c5eff4c3176ed77"></a>CHANNEL_FLAG_LFG&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a22db5479a3c9cd5559a483e29146af57a0d9aedc07bc4b05ccfed73ca0ed454fa" name="a22db5479a3c9cd5559a483e29146af57a0d9aedc07bc4b05ccfed73ca0ed454fa"></a>CHANNEL_FLAG_VOICE&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   73</span>{</div>
+<div class="line"><span class="lineno">   74</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57a30bc2c7278406d0f3c3cced94ad55cbd">CHANNEL_FLAG_NONE</a>       = 0x00,</div>
+<div class="line"><span class="lineno">   75</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57aa465233a9664a77c34a78d83c2667d17">CHANNEL_FLAG_CUSTOM</a>     = 0x01,</div>
+<div class="line"><span class="lineno">   76</span>    <span class="comment">// 0x02</span></div>
+<div class="line"><span class="lineno">   77</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57a49ddcd0dc7a5e8def2216a6230286b17">CHANNEL_FLAG_TRADE</a>      = 0x04,</div>
+<div class="line"><span class="lineno">   78</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57a59da6157282e35583f592c811a82f39e">CHANNEL_FLAG_NOT_LFG</a>    = 0x08,</div>
+<div class="line"><span class="lineno">   79</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57a6d9feda90f58dbb57b3b32b1a7a8ac0d">CHANNEL_FLAG_GENERAL</a>    = 0x10,</div>
+<div class="line"><span class="lineno">   80</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57ac802678a452211b1a576fcfcf7e8309c">CHANNEL_FLAG_CITY</a>       = 0x20,</div>
+<div class="line"><span class="lineno">   81</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57aa62854ac734664a38c5eff4c3176ed77">CHANNEL_FLAG_LFG</a>        = 0x40,</div>
+<div class="line"><span class="lineno">   82</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57a0d9aedc07bc4b05ccfed73ca0ed454fa">CHANNEL_FLAG_VOICE</a>      = 0x80</div>
+<div class="line"><span class="lineno">   83</span>                              <span class="comment">// General                  0x18 = 0x10 | 0x08</span></div>
+<div class="line"><span class="lineno">   84</span>                              <span class="comment">// Trade                    0x3C = 0x20 | 0x10 | 0x08 | 0x04</span></div>
+<div class="line"><span class="lineno">   85</span>                              <span class="comment">// LocalDefence             0x18 = 0x10 | 0x08</span></div>
+<div class="line"><span class="lineno">   86</span>                              <span class="comment">// GuildRecruitment         0x38 = 0x20 | 0x10 | 0x08</span></div>
+<div class="line"><span class="lineno">   87</span>                              <span class="comment">// LookingForGroup          0x50 = 0x40 | 0x10</span></div>
+<div class="line"><span class="lineno">   88</span>};</div>
+<div class="ttc" id="aa01085_html_a22db5479a3c9cd5559a483e29146af57a0d9aedc07bc4b05ccfed73ca0ed454fa"><div class="ttname"><a href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57a0d9aedc07bc4b05ccfed73ca0ed454fa">CHANNEL_FLAG_VOICE</a></div><div class="ttdeci">@ CHANNEL_FLAG_VOICE</div><div class="ttdef"><b>Definition:</b> Channel.h:82</div></div>
+<div class="ttc" id="aa01085_html_a22db5479a3c9cd5559a483e29146af57a30bc2c7278406d0f3c3cced94ad55cbd"><div class="ttname"><a href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57a30bc2c7278406d0f3c3cced94ad55cbd">CHANNEL_FLAG_NONE</a></div><div class="ttdeci">@ CHANNEL_FLAG_NONE</div><div class="ttdef"><b>Definition:</b> Channel.h:74</div></div>
+<div class="ttc" id="aa01085_html_a22db5479a3c9cd5559a483e29146af57a49ddcd0dc7a5e8def2216a6230286b17"><div class="ttname"><a href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57a49ddcd0dc7a5e8def2216a6230286b17">CHANNEL_FLAG_TRADE</a></div><div class="ttdeci">@ CHANNEL_FLAG_TRADE</div><div class="ttdef"><b>Definition:</b> Channel.h:77</div></div>
+<div class="ttc" id="aa01085_html_a22db5479a3c9cd5559a483e29146af57a59da6157282e35583f592c811a82f39e"><div class="ttname"><a href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57a59da6157282e35583f592c811a82f39e">CHANNEL_FLAG_NOT_LFG</a></div><div class="ttdeci">@ CHANNEL_FLAG_NOT_LFG</div><div class="ttdef"><b>Definition:</b> Channel.h:78</div></div>
+<div class="ttc" id="aa01085_html_a22db5479a3c9cd5559a483e29146af57a6d9feda90f58dbb57b3b32b1a7a8ac0d"><div class="ttname"><a href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57a6d9feda90f58dbb57b3b32b1a7a8ac0d">CHANNEL_FLAG_GENERAL</a></div><div class="ttdeci">@ CHANNEL_FLAG_GENERAL</div><div class="ttdef"><b>Definition:</b> Channel.h:79</div></div>
+<div class="ttc" id="aa01085_html_a22db5479a3c9cd5559a483e29146af57aa465233a9664a77c34a78d83c2667d17"><div class="ttname"><a href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57aa465233a9664a77c34a78d83c2667d17">CHANNEL_FLAG_CUSTOM</a></div><div class="ttdeci">@ CHANNEL_FLAG_CUSTOM</div><div class="ttdef"><b>Definition:</b> Channel.h:75</div></div>
+<div class="ttc" id="aa01085_html_a22db5479a3c9cd5559a483e29146af57aa62854ac734664a38c5eff4c3176ed77"><div class="ttname"><a href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57aa62854ac734664a38c5eff4c3176ed77">CHANNEL_FLAG_LFG</a></div><div class="ttdeci">@ CHANNEL_FLAG_LFG</div><div class="ttdef"><b>Definition:</b> Channel.h:81</div></div>
+<div class="ttc" id="aa01085_html_a22db5479a3c9cd5559a483e29146af57ac802678a452211b1a576fcfcf7e8309c"><div class="ttname"><a href="../../d2/df3/a01085.html#a22db5479a3c9cd5559a483e29146af57ac802678a452211b1a576fcfcf7e8309c">CHANNEL_FLAG_CITY</a></div><div class="ttdeci">@ CHANNEL_FLAG_CITY</div><div class="ttdef"><b>Definition:</b> Channel.h:80</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a32e7211cd1262883c225f32863018c39" name="a32e7211cd1262883c225f32863018c39"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a32e7211cd1262883c225f32863018c39">&#9670;&#160;</a></span>ChannelMemberFlags</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39">ChannelMemberFlags</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a32e7211cd1262883c225f32863018c39af0d5b67840f36117e2f76108784d8ecf" name="a32e7211cd1262883c225f32863018c39af0d5b67840f36117e2f76108784d8ecf"></a>MEMBER_FLAG_NONE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a32e7211cd1262883c225f32863018c39af519a341c01b83853d70e1b038596df8" name="a32e7211cd1262883c225f32863018c39af519a341c01b83853d70e1b038596df8"></a>MEMBER_FLAG_OWNER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a32e7211cd1262883c225f32863018c39ae71d16110c2240e872296c53f0d1c26d" name="a32e7211cd1262883c225f32863018c39ae71d16110c2240e872296c53f0d1c26d"></a>MEMBER_FLAG_MODERATOR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a32e7211cd1262883c225f32863018c39ab94e40361a3a7aff32d247e44fd90004" name="a32e7211cd1262883c225f32863018c39ab94e40361a3a7aff32d247e44fd90004"></a>MEMBER_FLAG_VOICED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a32e7211cd1262883c225f32863018c39a0496041bd982b10f5b9a0bc1eab996b7" name="a32e7211cd1262883c225f32863018c39a0496041bd982b10f5b9a0bc1eab996b7"></a>MEMBER_FLAG_MUTED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a32e7211cd1262883c225f32863018c39a3b99639d03c6dd588793fa2d17dd8b7e" name="a32e7211cd1262883c225f32863018c39a3b99639d03c6dd588793fa2d17dd8b7e"></a>MEMBER_FLAG_CUSTOM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a32e7211cd1262883c225f32863018c39a51c058769ba3692b6016b5ed2e2034c1" name="a32e7211cd1262883c225f32863018c39a51c058769ba3692b6016b5ed2e2034c1"></a>MEMBER_FLAG_MIC_MUTED&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  106</span>{</div>
+<div class="line"><span class="lineno">  107</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39af0d5b67840f36117e2f76108784d8ecf">MEMBER_FLAG_NONE</a>        = 0x00,</div>
+<div class="line"><span class="lineno">  108</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39af519a341c01b83853d70e1b038596df8">MEMBER_FLAG_OWNER</a>       = 0x01,</div>
+<div class="line"><span class="lineno">  109</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39ae71d16110c2240e872296c53f0d1c26d">MEMBER_FLAG_MODERATOR</a>   = 0x02,</div>
+<div class="line"><span class="lineno">  110</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39ab94e40361a3a7aff32d247e44fd90004">MEMBER_FLAG_VOICED</a>      = 0x04,</div>
+<div class="line"><span class="lineno">  111</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39a0496041bd982b10f5b9a0bc1eab996b7">MEMBER_FLAG_MUTED</a>       = 0x08,</div>
+<div class="line"><span class="lineno">  112</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39a3b99639d03c6dd588793fa2d17dd8b7e">MEMBER_FLAG_CUSTOM</a>      = 0x10,</div>
+<div class="line"><span class="lineno">  113</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39a51c058769ba3692b6016b5ed2e2034c1">MEMBER_FLAG_MIC_MUTED</a>   = 0x20</div>
+<div class="line"><span class="lineno">  114</span>                              <span class="comment">// 0x40</span></div>
+<div class="line"><span class="lineno">  115</span>                              <span class="comment">// 0x80</span></div>
+<div class="line"><span class="lineno">  116</span>};</div>
+<div class="ttc" id="aa01085_html_a32e7211cd1262883c225f32863018c39a0496041bd982b10f5b9a0bc1eab996b7"><div class="ttname"><a href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39a0496041bd982b10f5b9a0bc1eab996b7">MEMBER_FLAG_MUTED</a></div><div class="ttdeci">@ MEMBER_FLAG_MUTED</div><div class="ttdef"><b>Definition:</b> Channel.h:111</div></div>
+<div class="ttc" id="aa01085_html_a32e7211cd1262883c225f32863018c39a3b99639d03c6dd588793fa2d17dd8b7e"><div class="ttname"><a href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39a3b99639d03c6dd588793fa2d17dd8b7e">MEMBER_FLAG_CUSTOM</a></div><div class="ttdeci">@ MEMBER_FLAG_CUSTOM</div><div class="ttdef"><b>Definition:</b> Channel.h:112</div></div>
+<div class="ttc" id="aa01085_html_a32e7211cd1262883c225f32863018c39a51c058769ba3692b6016b5ed2e2034c1"><div class="ttname"><a href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39a51c058769ba3692b6016b5ed2e2034c1">MEMBER_FLAG_MIC_MUTED</a></div><div class="ttdeci">@ MEMBER_FLAG_MIC_MUTED</div><div class="ttdef"><b>Definition:</b> Channel.h:113</div></div>
+<div class="ttc" id="aa01085_html_a32e7211cd1262883c225f32863018c39ab94e40361a3a7aff32d247e44fd90004"><div class="ttname"><a href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39ab94e40361a3a7aff32d247e44fd90004">MEMBER_FLAG_VOICED</a></div><div class="ttdeci">@ MEMBER_FLAG_VOICED</div><div class="ttdef"><b>Definition:</b> Channel.h:110</div></div>
+<div class="ttc" id="aa01085_html_a32e7211cd1262883c225f32863018c39ae71d16110c2240e872296c53f0d1c26d"><div class="ttname"><a href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39ae71d16110c2240e872296c53f0d1c26d">MEMBER_FLAG_MODERATOR</a></div><div class="ttdeci">@ MEMBER_FLAG_MODERATOR</div><div class="ttdef"><b>Definition:</b> Channel.h:109</div></div>
+<div class="ttc" id="aa01085_html_a32e7211cd1262883c225f32863018c39af0d5b67840f36117e2f76108784d8ecf"><div class="ttname"><a href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39af0d5b67840f36117e2f76108784d8ecf">MEMBER_FLAG_NONE</a></div><div class="ttdeci">@ MEMBER_FLAG_NONE</div><div class="ttdef"><b>Definition:</b> Channel.h:107</div></div>
+<div class="ttc" id="aa01085_html_a32e7211cd1262883c225f32863018c39af519a341c01b83853d70e1b038596df8"><div class="ttname"><a href="../../d2/df3/a01085.html#a32e7211cd1262883c225f32863018c39af519a341c01b83853d70e1b038596df8">MEMBER_FLAG_OWNER</a></div><div class="ttdeci">@ MEMBER_FLAG_OWNER</div><div class="ttdef"><b>Definition:</b> Channel.h:108</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="aef3616afd739965415bc2de73ae61048" name="aef3616afd739965415bc2de73ae61048"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aef3616afd739965415bc2de73ae61048">&#9670;&#160;</a></span>ChatNotify</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048">ChatNotify</a> : <a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a675d855ab96edaeda8c845616aa669bb" name="aef3616afd739965415bc2de73ae61048a675d855ab96edaeda8c845616aa669bb"></a>CHAT_JOINED_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a71f4acbc488ac1fe511fd120774e43ba" name="aef3616afd739965415bc2de73ae61048a71f4acbc488ac1fe511fd120774e43ba"></a>CHAT_LEFT_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a08eb7d01b66e718aa04b280cff1dec5c" name="aef3616afd739965415bc2de73ae61048a08eb7d01b66e718aa04b280cff1dec5c"></a>CHAT_YOU_JOINED_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048ab8d4b78ccbfc6fbb1cce547ba7e8828b" name="aef3616afd739965415bc2de73ae61048ab8d4b78ccbfc6fbb1cce547ba7e8828b"></a>CHAT_YOU_LEFT_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048abcbbf2d62e027e518b17f7b9c5a3c1f3" name="aef3616afd739965415bc2de73ae61048abcbbf2d62e027e518b17f7b9c5a3c1f3"></a>CHAT_WRONG_PASSWORD_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a61eae59a7ae2fcb92bc168b16762375f" name="aef3616afd739965415bc2de73ae61048a61eae59a7ae2fcb92bc168b16762375f"></a>CHAT_NOT_MEMBER_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a1dc46070129211517c6bbfcc2d077e21" name="aef3616afd739965415bc2de73ae61048a1dc46070129211517c6bbfcc2d077e21"></a>CHAT_NOT_MODERATOR_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048ad9263e507aaad0f49427c8b445eb689f" name="aef3616afd739965415bc2de73ae61048ad9263e507aaad0f49427c8b445eb689f"></a>CHAT_PASSWORD_CHANGED_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a94a188be8ca288704f5868e545aefba0" name="aef3616afd739965415bc2de73ae61048a94a188be8ca288704f5868e545aefba0"></a>CHAT_OWNER_CHANGED_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a4195ff09eea51413a2bf076468d6a44b" name="aef3616afd739965415bc2de73ae61048a4195ff09eea51413a2bf076468d6a44b"></a>CHAT_PLAYER_NOT_FOUND_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048ad77b2ff9f0d4cae9838b40ddaf5a1fc1" name="aef3616afd739965415bc2de73ae61048ad77b2ff9f0d4cae9838b40ddaf5a1fc1"></a>CHAT_NOT_OWNER_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048ab9c95586cbb43b0f655ecc1f0ddf120d" name="aef3616afd739965415bc2de73ae61048ab9c95586cbb43b0f655ecc1f0ddf120d"></a>CHAT_CHANNEL_OWNER_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a5ef5e7cfad0f6fc4d4b3c6ce1813fff2" name="aef3616afd739965415bc2de73ae61048a5ef5e7cfad0f6fc4d4b3c6ce1813fff2"></a>CHAT_MODE_CHANGE_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a645e57c81111d5139f6aae5a8bade3cf" name="aef3616afd739965415bc2de73ae61048a645e57c81111d5139f6aae5a8bade3cf"></a>CHAT_ANNOUNCEMENTS_ON_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a96cea03776fdcf8187b4783c79bb8392" name="aef3616afd739965415bc2de73ae61048a96cea03776fdcf8187b4783c79bb8392"></a>CHAT_ANNOUNCEMENTS_OFF_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048ae4bd0fb80760dc76ed7aacb9224235f2" name="aef3616afd739965415bc2de73ae61048ae4bd0fb80760dc76ed7aacb9224235f2"></a>CHAT_MODERATION_ON_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a12d80dca010acd73db1ed840a0706112" name="aef3616afd739965415bc2de73ae61048a12d80dca010acd73db1ed840a0706112"></a>CHAT_MODERATION_OFF_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a41ade999f7e617f1784b31c1af119a82" name="aef3616afd739965415bc2de73ae61048a41ade999f7e617f1784b31c1af119a82"></a>CHAT_MUTED_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a546358154bc35fe7de905d10d201bea4" name="aef3616afd739965415bc2de73ae61048a546358154bc35fe7de905d10d201bea4"></a>CHAT_PLAYER_KICKED_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a7c5c7c167bdd9012187d329526b1118f" name="aef3616afd739965415bc2de73ae61048a7c5c7c167bdd9012187d329526b1118f"></a>CHAT_BANNED_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a8299e101dc47bf90c1670d91263a8063" name="aef3616afd739965415bc2de73ae61048a8299e101dc47bf90c1670d91263a8063"></a>CHAT_PLAYER_BANNED_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a20ed658bdd91e1d8bc1301cd94153c07" name="aef3616afd739965415bc2de73ae61048a20ed658bdd91e1d8bc1301cd94153c07"></a>CHAT_PLAYER_UNBANNED_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a51fa7aaf742720fb0dc5a3f368afe6ef" name="aef3616afd739965415bc2de73ae61048a51fa7aaf742720fb0dc5a3f368afe6ef"></a>CHAT_PLAYER_NOT_BANNED_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a830f39c070170392e5741128235579c3" name="aef3616afd739965415bc2de73ae61048a830f39c070170392e5741128235579c3"></a>CHAT_PLAYER_ALREADY_MEMBER_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048ad56f92621e02f1bf37404807a2442022" name="aef3616afd739965415bc2de73ae61048ad56f92621e02f1bf37404807a2442022"></a>CHAT_INVITE_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a74a7e864042190c701feff61642bbb3a" name="aef3616afd739965415bc2de73ae61048a74a7e864042190c701feff61642bbb3a"></a>CHAT_INVITE_WRONG_FACTION_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a17beb1ae371ca6af5637bf642d60427a" name="aef3616afd739965415bc2de73ae61048a17beb1ae371ca6af5637bf642d60427a"></a>CHAT_WRONG_FACTION_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048ae1d4ca2da0297cb297d0a49e8181c7b8" name="aef3616afd739965415bc2de73ae61048ae1d4ca2da0297cb297d0a49e8181c7b8"></a>CHAT_INVALID_NAME_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048ab68398900eddade6be5071bb1e7c737b" name="aef3616afd739965415bc2de73ae61048ab68398900eddade6be5071bb1e7c737b"></a>CHAT_NOT_MODERATED_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a5451f0976709abd1de28aa1eacaf14fd" name="aef3616afd739965415bc2de73ae61048a5451f0976709abd1de28aa1eacaf14fd"></a>CHAT_PLAYER_INVITED_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048ad39a9f2406daee0b0499e900036a44f0" name="aef3616afd739965415bc2de73ae61048ad39a9f2406daee0b0499e900036a44f0"></a>CHAT_PLAYER_INVITE_BANNED_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048ac0b6e263c6ca28ddd89b99321d2dcfff" name="aef3616afd739965415bc2de73ae61048ac0b6e263c6ca28ddd89b99321d2dcfff"></a>CHAT_THROTTLED_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048aaf6e043f05b289a1dfc1593f990e6b6d" name="aef3616afd739965415bc2de73ae61048aaf6e043f05b289a1dfc1593f990e6b6d"></a>CHAT_NOT_IN_AREA_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a9c5a8ab7890cfce75d44523cdf18fb18" name="aef3616afd739965415bc2de73ae61048a9c5a8ab7890cfce75d44523cdf18fb18"></a>CHAT_NOT_IN_LFG_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a97e7243c154cd1938b2b102f72613913" name="aef3616afd739965415bc2de73ae61048a97e7243c154cd1938b2b102f72613913"></a>CHAT_VOICE_ON_NOTICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aef3616afd739965415bc2de73ae61048a5629f3b7f9add78e3a20fa369dc805f6" name="aef3616afd739965415bc2de73ae61048a5629f3b7f9add78e3a20fa369dc805f6"></a>CHAT_VOICE_OFF_NOTICE&#160;</td><td class="fielddoc"></td></tr>
 </table>
 <div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2a1f0252b8069f8868dfedfdb4fe45e30f">TYPEID_OBJECT</a>        = 0,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2ab2bcf0ba3fcc0090223bf840eda90b28">TYPEID_ITEM</a>          = 1,</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2afebf490e56b6f11276b1523008afa107">TYPEID_CONTAINER</a>     = 2,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2a93dfa528ffc48db4993fb7ac62696db9">TYPEID_UNIT</a>          = 3,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2aca37d750899c40a5743285ccda2bba9c">TYPEID_PLAYER</a>        = 4,</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2a91b74ac7ebfe7909332a6eec5054c60d">TYPEID_GAMEOBJECT</a>    = 5,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2a86e2d54e816ea646c9cda372df01dc68">TYPEID_DYNAMICOBJECT</a> = 6,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2ab20e64ae3f5f5a5ecffa53fee57d7d2f">TYPEID_CORPSE</a>        = 7</div>
-<div class="line"><span class="lineno">   40</span>};</div>
-<div class="ttc" id="aa01085_html_a183c40b2ba67065929d70b3987da4cc2a1f0252b8069f8868dfedfdb4fe45e30f"><div class="ttname"><a href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2a1f0252b8069f8868dfedfdb4fe45e30f">TYPEID_OBJECT</a></div><div class="ttdeci">@ TYPEID_OBJECT</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:32</div></div>
-<div class="ttc" id="aa01085_html_a183c40b2ba67065929d70b3987da4cc2a86e2d54e816ea646c9cda372df01dc68"><div class="ttname"><a href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2a86e2d54e816ea646c9cda372df01dc68">TYPEID_DYNAMICOBJECT</a></div><div class="ttdeci">@ TYPEID_DYNAMICOBJECT</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:38</div></div>
-<div class="ttc" id="aa01085_html_a183c40b2ba67065929d70b3987da4cc2a91b74ac7ebfe7909332a6eec5054c60d"><div class="ttname"><a href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2a91b74ac7ebfe7909332a6eec5054c60d">TYPEID_GAMEOBJECT</a></div><div class="ttdeci">@ TYPEID_GAMEOBJECT</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:37</div></div>
-<div class="ttc" id="aa01085_html_a183c40b2ba67065929d70b3987da4cc2a93dfa528ffc48db4993fb7ac62696db9"><div class="ttname"><a href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2a93dfa528ffc48db4993fb7ac62696db9">TYPEID_UNIT</a></div><div class="ttdeci">@ TYPEID_UNIT</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:35</div></div>
-<div class="ttc" id="aa01085_html_a183c40b2ba67065929d70b3987da4cc2ab20e64ae3f5f5a5ecffa53fee57d7d2f"><div class="ttname"><a href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2ab20e64ae3f5f5a5ecffa53fee57d7d2f">TYPEID_CORPSE</a></div><div class="ttdeci">@ TYPEID_CORPSE</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:39</div></div>
-<div class="ttc" id="aa01085_html_a183c40b2ba67065929d70b3987da4cc2ab2bcf0ba3fcc0090223bf840eda90b28"><div class="ttname"><a href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2ab2bcf0ba3fcc0090223bf840eda90b28">TYPEID_ITEM</a></div><div class="ttdeci">@ TYPEID_ITEM</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:33</div></div>
-<div class="ttc" id="aa01085_html_a183c40b2ba67065929d70b3987da4cc2aca37d750899c40a5743285ccda2bba9c"><div class="ttname"><a href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2aca37d750899c40a5743285ccda2bba9c">TYPEID_PLAYER</a></div><div class="ttdeci">@ TYPEID_PLAYER</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:36</div></div>
-<div class="ttc" id="aa01085_html_a183c40b2ba67065929d70b3987da4cc2afebf490e56b6f11276b1523008afa107"><div class="ttname"><a href="../../d2/df3/a01085.html#a183c40b2ba67065929d70b3987da4cc2afebf490e56b6f11276b1523008afa107">TYPEID_CONTAINER</a></div><div class="ttdeci">@ TYPEID_CONTAINER</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:34</div></div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a675d855ab96edaeda8c845616aa669bb">CHAT_JOINED_NOTICE</a>                = 0x00,           <span class="comment">//+ &quot;%s joined channel.&quot;;</span></div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a71f4acbc488ac1fe511fd120774e43ba">CHAT_LEFT_NOTICE</a>                  = 0x01,           <span class="comment">//+ &quot;%s left channel.&quot;;</span></div>
+<div class="line"><span class="lineno">   34</span>    <span class="comment">//CHAT_SUSPENDED_NOTICE             = 0x01,           // &quot;%s left channel.&quot;;</span></div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a08eb7d01b66e718aa04b280cff1dec5c">CHAT_YOU_JOINED_NOTICE</a>            = 0x02,           <span class="comment">//+ &quot;Joined Channel: [%s]&quot;; -- You joined</span></div>
+<div class="line"><span class="lineno">   36</span>    <span class="comment">//CHAT_YOU_CHANGED_NOTICE           = 0x02,           // &quot;Changed Channel: [%s]&quot;;</span></div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ab8d4b78ccbfc6fbb1cce547ba7e8828b">CHAT_YOU_LEFT_NOTICE</a>              = 0x03,           <span class="comment">//+ &quot;Left Channel: [%s]&quot;; -- You left</span></div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048abcbbf2d62e027e518b17f7b9c5a3c1f3">CHAT_WRONG_PASSWORD_NOTICE</a>        = 0x04,           <span class="comment">//+ &quot;Wrong password for %s.&quot;;</span></div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a61eae59a7ae2fcb92bc168b16762375f">CHAT_NOT_MEMBER_NOTICE</a>            = 0x05,           <span class="comment">//+ &quot;Not on channel %s.&quot;;</span></div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a1dc46070129211517c6bbfcc2d077e21">CHAT_NOT_MODERATOR_NOTICE</a>         = 0x06,           <span class="comment">//+ &quot;Not a moderator of %s.&quot;;</span></div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ad9263e507aaad0f49427c8b445eb689f">CHAT_PASSWORD_CHANGED_NOTICE</a>      = 0x07,           <span class="comment">//+ &quot;[%s] Password changed by %s.&quot;;</span></div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a94a188be8ca288704f5868e545aefba0">CHAT_OWNER_CHANGED_NOTICE</a>         = 0x08,           <span class="comment">//+ &quot;[%s] Owner changed to %s.&quot;;</span></div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a4195ff09eea51413a2bf076468d6a44b">CHAT_PLAYER_NOT_FOUND_NOTICE</a>      = 0x09,           <span class="comment">//+ &quot;[%s] Player %s was not found.&quot;;</span></div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ad77b2ff9f0d4cae9838b40ddaf5a1fc1">CHAT_NOT_OWNER_NOTICE</a>             = 0x0A,           <span class="comment">//+ &quot;[%s] You are not the channel owner.&quot;;</span></div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ab9c95586cbb43b0f655ecc1f0ddf120d">CHAT_CHANNEL_OWNER_NOTICE</a>         = 0x0B,           <span class="comment">//+ &quot;[%s] Channel owner is %s.&quot;;</span></div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a5ef5e7cfad0f6fc4d4b3c6ce1813fff2">CHAT_MODE_CHANGE_NOTICE</a>           = 0x0C,           <span class="comment">//?</span></div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a645e57c81111d5139f6aae5a8bade3cf">CHAT_ANNOUNCEMENTS_ON_NOTICE</a>      = 0x0D,           <span class="comment">//+ &quot;[%s] Channel announcements enabled by %s.&quot;;</span></div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a96cea03776fdcf8187b4783c79bb8392">CHAT_ANNOUNCEMENTS_OFF_NOTICE</a>     = 0x0E,           <span class="comment">//+ &quot;[%s] Channel announcements disabled by %s.&quot;;</span></div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ae4bd0fb80760dc76ed7aacb9224235f2">CHAT_MODERATION_ON_NOTICE</a>         = 0x0F,           <span class="comment">//+ &quot;[%s] Channel moderation enabled by %s.&quot;;</span></div>
+<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a12d80dca010acd73db1ed840a0706112">CHAT_MODERATION_OFF_NOTICE</a>        = 0x10,           <span class="comment">//+ &quot;[%s] Channel moderation disabled by %s.&quot;;</span></div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a41ade999f7e617f1784b31c1af119a82">CHAT_MUTED_NOTICE</a>                 = 0x11,           <span class="comment">//+ &quot;[%s] You do not have permission to speak.&quot;;</span></div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a546358154bc35fe7de905d10d201bea4">CHAT_PLAYER_KICKED_NOTICE</a>         = 0x12,           <span class="comment">//? &quot;[%s] Player %s kicked by %s.&quot;;</span></div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a7c5c7c167bdd9012187d329526b1118f">CHAT_BANNED_NOTICE</a>                = 0x13,           <span class="comment">//+ &quot;[%s] You are bannedStore from that channel.&quot;;</span></div>
+<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a8299e101dc47bf90c1670d91263a8063">CHAT_PLAYER_BANNED_NOTICE</a>         = 0x14,           <span class="comment">//? &quot;[%s] Player %s bannedStore by %s.&quot;;</span></div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a20ed658bdd91e1d8bc1301cd94153c07">CHAT_PLAYER_UNBANNED_NOTICE</a>       = 0x15,           <span class="comment">//? &quot;[%s] Player %s unbanned by %s.&quot;;</span></div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a51fa7aaf742720fb0dc5a3f368afe6ef">CHAT_PLAYER_NOT_BANNED_NOTICE</a>     = 0x16,           <span class="comment">//+ &quot;[%s] Player %s is not bannedStore.&quot;;</span></div>
+<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a830f39c070170392e5741128235579c3">CHAT_PLAYER_ALREADY_MEMBER_NOTICE</a> = 0x17,           <span class="comment">//+ &quot;[%s] Player %s is already on the channel.&quot;;</span></div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ad56f92621e02f1bf37404807a2442022">CHAT_INVITE_NOTICE</a>                = 0x18,           <span class="comment">//+ &quot;%2$s has invited you to join the channel &#39;%1$s&#39;.&quot;;</span></div>
+<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a74a7e864042190c701feff61642bbb3a">CHAT_INVITE_WRONG_FACTION_NOTICE</a>  = 0x19,           <span class="comment">//+ &quot;Target is in the wrong alliance for %s.&quot;;</span></div>
+<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a17beb1ae371ca6af5637bf642d60427a">CHAT_WRONG_FACTION_NOTICE</a>         = 0x1A,           <span class="comment">//+ &quot;Wrong alliance for %s.&quot;;</span></div>
+<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ae1d4ca2da0297cb297d0a49e8181c7b8">CHAT_INVALID_NAME_NOTICE</a>          = 0x1B,           <span class="comment">//+ &quot;Invalid channel name&quot;;</span></div>
+<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ab68398900eddade6be5071bb1e7c737b">CHAT_NOT_MODERATED_NOTICE</a>         = 0x1C,           <span class="comment">//+ &quot;%s is not moderated&quot;;</span></div>
+<div class="line"><span class="lineno">   63</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a5451f0976709abd1de28aa1eacaf14fd">CHAT_PLAYER_INVITED_NOTICE</a>        = 0x1D,           <span class="comment">//+ &quot;[%s] You invited %s to join the channel&quot;;</span></div>
+<div class="line"><span class="lineno">   64</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ad39a9f2406daee0b0499e900036a44f0">CHAT_PLAYER_INVITE_BANNED_NOTICE</a>  = 0x1E,           <span class="comment">//+ &quot;[%s] %s has been bannedStore.&quot;;</span></div>
+<div class="line"><span class="lineno">   65</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ac0b6e263c6ca28ddd89b99321d2dcfff">CHAT_THROTTLED_NOTICE</a>             = 0x1F,           <span class="comment">//+ &quot;[%s] The number of messages that can be sent to this channel is limited, please wait to send another message.&quot;;</span></div>
+<div class="line"><span class="lineno">   66</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048aaf6e043f05b289a1dfc1593f990e6b6d">CHAT_NOT_IN_AREA_NOTICE</a>           = 0x20,           <span class="comment">//+ &quot;[%s] You are not in the correct area for this channel.&quot;; -- The user is trying to send a chat to a zone specific channel, and they&#39;re not physically in that zone.</span></div>
+<div class="line"><span class="lineno">   67</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a9c5a8ab7890cfce75d44523cdf18fb18">CHAT_NOT_IN_LFG_NOTICE</a>            = 0x21,           <span class="comment">//+ &quot;[%s] You must be queued in looking for group before joining this channel.&quot;; -- The user must be in the looking for group system to join LFG chat channels.</span></div>
+<div class="line"><span class="lineno">   68</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a97e7243c154cd1938b2b102f72613913">CHAT_VOICE_ON_NOTICE</a>              = 0x22,           <span class="comment">//+ &quot;[%s] Channel voice enabled by %s.&quot;;</span></div>
+<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a5629f3b7f9add78e3a20fa369dc805f6">CHAT_VOICE_OFF_NOTICE</a>             = 0x23            <span class="comment">//+ &quot;[%s] Channel voice disabled by %s.&quot;;</span></div>
+<div class="line"><span class="lineno">   70</span>};</div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a08eb7d01b66e718aa04b280cff1dec5c"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a08eb7d01b66e718aa04b280cff1dec5c">CHAT_YOU_JOINED_NOTICE</a></div><div class="ttdeci">@ CHAT_YOU_JOINED_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:35</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a12d80dca010acd73db1ed840a0706112"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a12d80dca010acd73db1ed840a0706112">CHAT_MODERATION_OFF_NOTICE</a></div><div class="ttdeci">@ CHAT_MODERATION_OFF_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:50</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a17beb1ae371ca6af5637bf642d60427a"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a17beb1ae371ca6af5637bf642d60427a">CHAT_WRONG_FACTION_NOTICE</a></div><div class="ttdeci">@ CHAT_WRONG_FACTION_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:60</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a1dc46070129211517c6bbfcc2d077e21"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a1dc46070129211517c6bbfcc2d077e21">CHAT_NOT_MODERATOR_NOTICE</a></div><div class="ttdeci">@ CHAT_NOT_MODERATOR_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:40</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a20ed658bdd91e1d8bc1301cd94153c07"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a20ed658bdd91e1d8bc1301cd94153c07">CHAT_PLAYER_UNBANNED_NOTICE</a></div><div class="ttdeci">@ CHAT_PLAYER_UNBANNED_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:55</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a4195ff09eea51413a2bf076468d6a44b"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a4195ff09eea51413a2bf076468d6a44b">CHAT_PLAYER_NOT_FOUND_NOTICE</a></div><div class="ttdeci">@ CHAT_PLAYER_NOT_FOUND_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:43</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a41ade999f7e617f1784b31c1af119a82"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a41ade999f7e617f1784b31c1af119a82">CHAT_MUTED_NOTICE</a></div><div class="ttdeci">@ CHAT_MUTED_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:51</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a51fa7aaf742720fb0dc5a3f368afe6ef"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a51fa7aaf742720fb0dc5a3f368afe6ef">CHAT_PLAYER_NOT_BANNED_NOTICE</a></div><div class="ttdeci">@ CHAT_PLAYER_NOT_BANNED_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:56</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a5451f0976709abd1de28aa1eacaf14fd"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a5451f0976709abd1de28aa1eacaf14fd">CHAT_PLAYER_INVITED_NOTICE</a></div><div class="ttdeci">@ CHAT_PLAYER_INVITED_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:63</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a546358154bc35fe7de905d10d201bea4"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a546358154bc35fe7de905d10d201bea4">CHAT_PLAYER_KICKED_NOTICE</a></div><div class="ttdeci">@ CHAT_PLAYER_KICKED_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:52</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a5629f3b7f9add78e3a20fa369dc805f6"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a5629f3b7f9add78e3a20fa369dc805f6">CHAT_VOICE_OFF_NOTICE</a></div><div class="ttdeci">@ CHAT_VOICE_OFF_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:69</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a5ef5e7cfad0f6fc4d4b3c6ce1813fff2"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a5ef5e7cfad0f6fc4d4b3c6ce1813fff2">CHAT_MODE_CHANGE_NOTICE</a></div><div class="ttdeci">@ CHAT_MODE_CHANGE_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:46</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a61eae59a7ae2fcb92bc168b16762375f"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a61eae59a7ae2fcb92bc168b16762375f">CHAT_NOT_MEMBER_NOTICE</a></div><div class="ttdeci">@ CHAT_NOT_MEMBER_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:39</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a645e57c81111d5139f6aae5a8bade3cf"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a645e57c81111d5139f6aae5a8bade3cf">CHAT_ANNOUNCEMENTS_ON_NOTICE</a></div><div class="ttdeci">@ CHAT_ANNOUNCEMENTS_ON_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:47</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a675d855ab96edaeda8c845616aa669bb"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a675d855ab96edaeda8c845616aa669bb">CHAT_JOINED_NOTICE</a></div><div class="ttdeci">@ CHAT_JOINED_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:32</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a71f4acbc488ac1fe511fd120774e43ba"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a71f4acbc488ac1fe511fd120774e43ba">CHAT_LEFT_NOTICE</a></div><div class="ttdeci">@ CHAT_LEFT_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:33</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a74a7e864042190c701feff61642bbb3a"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a74a7e864042190c701feff61642bbb3a">CHAT_INVITE_WRONG_FACTION_NOTICE</a></div><div class="ttdeci">@ CHAT_INVITE_WRONG_FACTION_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:59</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a7c5c7c167bdd9012187d329526b1118f"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a7c5c7c167bdd9012187d329526b1118f">CHAT_BANNED_NOTICE</a></div><div class="ttdeci">@ CHAT_BANNED_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:53</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a8299e101dc47bf90c1670d91263a8063"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a8299e101dc47bf90c1670d91263a8063">CHAT_PLAYER_BANNED_NOTICE</a></div><div class="ttdeci">@ CHAT_PLAYER_BANNED_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:54</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a830f39c070170392e5741128235579c3"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a830f39c070170392e5741128235579c3">CHAT_PLAYER_ALREADY_MEMBER_NOTICE</a></div><div class="ttdeci">@ CHAT_PLAYER_ALREADY_MEMBER_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:57</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a94a188be8ca288704f5868e545aefba0"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a94a188be8ca288704f5868e545aefba0">CHAT_OWNER_CHANGED_NOTICE</a></div><div class="ttdeci">@ CHAT_OWNER_CHANGED_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:42</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a96cea03776fdcf8187b4783c79bb8392"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a96cea03776fdcf8187b4783c79bb8392">CHAT_ANNOUNCEMENTS_OFF_NOTICE</a></div><div class="ttdeci">@ CHAT_ANNOUNCEMENTS_OFF_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:48</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a97e7243c154cd1938b2b102f72613913"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a97e7243c154cd1938b2b102f72613913">CHAT_VOICE_ON_NOTICE</a></div><div class="ttdeci">@ CHAT_VOICE_ON_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:68</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048a9c5a8ab7890cfce75d44523cdf18fb18"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048a9c5a8ab7890cfce75d44523cdf18fb18">CHAT_NOT_IN_LFG_NOTICE</a></div><div class="ttdeci">@ CHAT_NOT_IN_LFG_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:67</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048aaf6e043f05b289a1dfc1593f990e6b6d"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048aaf6e043f05b289a1dfc1593f990e6b6d">CHAT_NOT_IN_AREA_NOTICE</a></div><div class="ttdeci">@ CHAT_NOT_IN_AREA_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:66</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048ab68398900eddade6be5071bb1e7c737b"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ab68398900eddade6be5071bb1e7c737b">CHAT_NOT_MODERATED_NOTICE</a></div><div class="ttdeci">@ CHAT_NOT_MODERATED_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:62</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048ab8d4b78ccbfc6fbb1cce547ba7e8828b"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ab8d4b78ccbfc6fbb1cce547ba7e8828b">CHAT_YOU_LEFT_NOTICE</a></div><div class="ttdeci">@ CHAT_YOU_LEFT_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:37</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048ab9c95586cbb43b0f655ecc1f0ddf120d"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ab9c95586cbb43b0f655ecc1f0ddf120d">CHAT_CHANNEL_OWNER_NOTICE</a></div><div class="ttdeci">@ CHAT_CHANNEL_OWNER_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:45</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048abcbbf2d62e027e518b17f7b9c5a3c1f3"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048abcbbf2d62e027e518b17f7b9c5a3c1f3">CHAT_WRONG_PASSWORD_NOTICE</a></div><div class="ttdeci">@ CHAT_WRONG_PASSWORD_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:38</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048ac0b6e263c6ca28ddd89b99321d2dcfff"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ac0b6e263c6ca28ddd89b99321d2dcfff">CHAT_THROTTLED_NOTICE</a></div><div class="ttdeci">@ CHAT_THROTTLED_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:65</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048ad39a9f2406daee0b0499e900036a44f0"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ad39a9f2406daee0b0499e900036a44f0">CHAT_PLAYER_INVITE_BANNED_NOTICE</a></div><div class="ttdeci">@ CHAT_PLAYER_INVITE_BANNED_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:64</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048ad56f92621e02f1bf37404807a2442022"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ad56f92621e02f1bf37404807a2442022">CHAT_INVITE_NOTICE</a></div><div class="ttdeci">@ CHAT_INVITE_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:58</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048ad77b2ff9f0d4cae9838b40ddaf5a1fc1"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ad77b2ff9f0d4cae9838b40ddaf5a1fc1">CHAT_NOT_OWNER_NOTICE</a></div><div class="ttdeci">@ CHAT_NOT_OWNER_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:44</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048ad9263e507aaad0f49427c8b445eb689f"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ad9263e507aaad0f49427c8b445eb689f">CHAT_PASSWORD_CHANGED_NOTICE</a></div><div class="ttdeci">@ CHAT_PASSWORD_CHANGED_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:41</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048ae1d4ca2da0297cb297d0a49e8181c7b8"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ae1d4ca2da0297cb297d0a49e8181c7b8">CHAT_INVALID_NAME_NOTICE</a></div><div class="ttdeci">@ CHAT_INVALID_NAME_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:61</div></div>
+<div class="ttc" id="aa01085_html_aef3616afd739965415bc2de73ae61048ae4bd0fb80760dc76ed7aacb9224235f2"><div class="ttname"><a href="../../d2/df3/a01085.html#aef3616afd739965415bc2de73ae61048ae4bd0fb80760dc76ed7aacb9224235f2">CHAT_MODERATION_ON_NOTICE</a></div><div class="ttdeci">@ CHAT_MODERATION_ON_NOTICE</div><div class="ttdef"><b>Definition:</b> Channel.h:49</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="acfe503ba26d8a881f16958aaafd431e1" name="acfe503ba26d8a881f16958aaafd431e1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acfe503ba26d8a881f16958aaafd431e1">&#9670;&#160;</a></span>TypeMask</h2>
+<a id="ab7fa3de55051b4b64ff92a8d7eef417a" name="ab7fa3de55051b4b64ff92a8d7eef417a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab7fa3de55051b4b64ff92a8d7eef417a">&#9670;&#160;</a></span>eChannelRights</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1">TypeMask</a></td>
+          <td class="memname">enum <a class="el" href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417a">eChannelRights</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="acfe503ba26d8a881f16958aaafd431e1a15c6345df35def281fc22632f52bc6a2" name="acfe503ba26d8a881f16958aaafd431e1a15c6345df35def281fc22632f52bc6a2"></a>TYPEMASK_OBJECT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acfe503ba26d8a881f16958aaafd431e1a213c6f64ff343595c13d0e808b75297d" name="acfe503ba26d8a881f16958aaafd431e1a213c6f64ff343595c13d0e808b75297d"></a>TYPEMASK_ITEM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acfe503ba26d8a881f16958aaafd431e1a8898075ddeb644fdaa32c88c818958dd" name="acfe503ba26d8a881f16958aaafd431e1a8898075ddeb644fdaa32c88c818958dd"></a>TYPEMASK_CONTAINER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acfe503ba26d8a881f16958aaafd431e1a611a6f19a7f885d824ea5be71ffca2de" name="acfe503ba26d8a881f16958aaafd431e1a611a6f19a7f885d824ea5be71ffca2de"></a>TYPEMASK_UNIT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acfe503ba26d8a881f16958aaafd431e1ac68cdbc5c42fc63c5df6b7b0dd69a739" name="acfe503ba26d8a881f16958aaafd431e1ac68cdbc5c42fc63c5df6b7b0dd69a739"></a>TYPEMASK_PLAYER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acfe503ba26d8a881f16958aaafd431e1ab64731f0031a7f58c1a56cbf45d6f2f4" name="acfe503ba26d8a881f16958aaafd431e1ab64731f0031a7f58c1a56cbf45d6f2f4"></a>TYPEMASK_GAMEOBJECT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acfe503ba26d8a881f16958aaafd431e1a3a699b841ec20fb9c6d7b99e9bf88108" name="acfe503ba26d8a881f16958aaafd431e1a3a699b841ec20fb9c6d7b99e9bf88108"></a>TYPEMASK_DYNAMICOBJECT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acfe503ba26d8a881f16958aaafd431e1a94570a20b0854337a5f22641c81a5be9" name="acfe503ba26d8a881f16958aaafd431e1a94570a20b0854337a5f22641c81a5be9"></a>TYPEMASK_CORPSE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="acfe503ba26d8a881f16958aaafd431e1a5db3f5013b522d453811f6a1e70d9e96" name="acfe503ba26d8a881f16958aaafd431e1a5db3f5013b522d453811f6a1e70d9e96"></a>TYPEMASK_SEER&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ab7fa3de55051b4b64ff92a8d7eef417aa67b202bda6094f739919492eba525981" name="ab7fa3de55051b4b64ff92a8d7eef417aa67b202bda6094f739919492eba525981"></a>CHANNEL_RIGHT_FORCE_NO_ANNOUNCEMENTS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab7fa3de55051b4b64ff92a8d7eef417aa7ee9f05e0db3aad528e2df7ecf4aa8c2" name="ab7fa3de55051b4b64ff92a8d7eef417aa7ee9f05e0db3aad528e2df7ecf4aa8c2"></a>CHANNEL_RIGHT_FORCE_ANNOUNCEMENTS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab7fa3de55051b4b64ff92a8d7eef417aae429eae4c346c3af4c8d68251556a918" name="ab7fa3de55051b4b64ff92a8d7eef417aae429eae4c346c3af4c8d68251556a918"></a>CHANNEL_RIGHT_NO_OWNERSHIP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab7fa3de55051b4b64ff92a8d7eef417aa86af292b301961e50f6f8bc9c960af01" name="ab7fa3de55051b4b64ff92a8d7eef417aa86af292b301961e50f6f8bc9c960af01"></a>CHANNEL_RIGHT_CANT_SPEAK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab7fa3de55051b4b64ff92a8d7eef417aa5fbb3a648477030ea54ca3c715938d0b" name="ab7fa3de55051b4b64ff92a8d7eef417aa5fbb3a648477030ea54ca3c715938d0b"></a>CHANNEL_RIGHT_CANT_BAN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab7fa3de55051b4b64ff92a8d7eef417aa6fbb26729efc9fd907286ff76ef07e10" name="ab7fa3de55051b4b64ff92a8d7eef417aa6fbb26729efc9fd907286ff76ef07e10"></a>CHANNEL_RIGHT_CANT_KICK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab7fa3de55051b4b64ff92a8d7eef417aac5101c589a4b8cc24a8e7684e3c23744" name="ab7fa3de55051b4b64ff92a8d7eef417aac5101c589a4b8cc24a8e7684e3c23744"></a>CHANNEL_RIGHT_CANT_MUTE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab7fa3de55051b4b64ff92a8d7eef417aaaff5050f1084a527faab0139d392e361" name="ab7fa3de55051b4b64ff92a8d7eef417aaaff5050f1084a527faab0139d392e361"></a>CHANNEL_RIGHT_CANT_CHANGE_PASSWORD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab7fa3de55051b4b64ff92a8d7eef417aa7b8f17d59929603121d8537ca683eb2f" name="ab7fa3de55051b4b64ff92a8d7eef417aa7b8f17d59929603121d8537ca683eb2f"></a>CHANNEL_RIGHT_DONT_PRESERVE&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   45</span>{</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a15c6345df35def281fc22632f52bc6a2">TYPEMASK_OBJECT</a>         = 0x0001,</div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a213c6f64ff343595c13d0e808b75297d">TYPEMASK_ITEM</a>           = 0x0002,</div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a8898075ddeb644fdaa32c88c818958dd">TYPEMASK_CONTAINER</a>      = 0x0006,             <span class="comment">// TYPEMASK_ITEM | 0x0004</span></div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a611a6f19a7f885d824ea5be71ffca2de">TYPEMASK_UNIT</a>           = 0x0008,             <span class="comment">// creature</span></div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1ac68cdbc5c42fc63c5df6b7b0dd69a739">TYPEMASK_PLAYER</a>         = 0x0010,</div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1ab64731f0031a7f58c1a56cbf45d6f2f4">TYPEMASK_GAMEOBJECT</a>     = 0x0020,</div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a3a699b841ec20fb9c6d7b99e9bf88108">TYPEMASK_DYNAMICOBJECT</a>  = 0x0040,</div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a94570a20b0854337a5f22641c81a5be9">TYPEMASK_CORPSE</a>         = 0x0080,</div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a5db3f5013b522d453811f6a1e70d9e96">TYPEMASK_SEER</a>           = <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1ac68cdbc5c42fc63c5df6b7b0dd69a739">TYPEMASK_PLAYER</a> | <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a611a6f19a7f885d824ea5be71ffca2de">TYPEMASK_UNIT</a> | <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a3a699b841ec20fb9c6d7b99e9bf88108">TYPEMASK_DYNAMICOBJECT</a></div>
-<div class="line"><span class="lineno">   55</span>};</div>
-<div class="ttc" id="aa01085_html_acfe503ba26d8a881f16958aaafd431e1a15c6345df35def281fc22632f52bc6a2"><div class="ttname"><a href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a15c6345df35def281fc22632f52bc6a2">TYPEMASK_OBJECT</a></div><div class="ttdeci">@ TYPEMASK_OBJECT</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:46</div></div>
-<div class="ttc" id="aa01085_html_acfe503ba26d8a881f16958aaafd431e1a213c6f64ff343595c13d0e808b75297d"><div class="ttname"><a href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a213c6f64ff343595c13d0e808b75297d">TYPEMASK_ITEM</a></div><div class="ttdeci">@ TYPEMASK_ITEM</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:47</div></div>
-<div class="ttc" id="aa01085_html_acfe503ba26d8a881f16958aaafd431e1a3a699b841ec20fb9c6d7b99e9bf88108"><div class="ttname"><a href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a3a699b841ec20fb9c6d7b99e9bf88108">TYPEMASK_DYNAMICOBJECT</a></div><div class="ttdeci">@ TYPEMASK_DYNAMICOBJECT</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:52</div></div>
-<div class="ttc" id="aa01085_html_acfe503ba26d8a881f16958aaafd431e1a5db3f5013b522d453811f6a1e70d9e96"><div class="ttname"><a href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a5db3f5013b522d453811f6a1e70d9e96">TYPEMASK_SEER</a></div><div class="ttdeci">@ TYPEMASK_SEER</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:54</div></div>
-<div class="ttc" id="aa01085_html_acfe503ba26d8a881f16958aaafd431e1a611a6f19a7f885d824ea5be71ffca2de"><div class="ttname"><a href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a611a6f19a7f885d824ea5be71ffca2de">TYPEMASK_UNIT</a></div><div class="ttdeci">@ TYPEMASK_UNIT</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:49</div></div>
-<div class="ttc" id="aa01085_html_acfe503ba26d8a881f16958aaafd431e1a8898075ddeb644fdaa32c88c818958dd"><div class="ttname"><a href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a8898075ddeb644fdaa32c88c818958dd">TYPEMASK_CONTAINER</a></div><div class="ttdeci">@ TYPEMASK_CONTAINER</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:48</div></div>
-<div class="ttc" id="aa01085_html_acfe503ba26d8a881f16958aaafd431e1a94570a20b0854337a5f22641c81a5be9"><div class="ttname"><a href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1a94570a20b0854337a5f22641c81a5be9">TYPEMASK_CORPSE</a></div><div class="ttdeci">@ TYPEMASK_CORPSE</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:53</div></div>
-<div class="ttc" id="aa01085_html_acfe503ba26d8a881f16958aaafd431e1ab64731f0031a7f58c1a56cbf45d6f2f4"><div class="ttname"><a href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1ab64731f0031a7f58c1a56cbf45d6f2f4">TYPEMASK_GAMEOBJECT</a></div><div class="ttdeci">@ TYPEMASK_GAMEOBJECT</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:51</div></div>
-<div class="ttc" id="aa01085_html_acfe503ba26d8a881f16958aaafd431e1ac68cdbc5c42fc63c5df6b7b0dd69a739"><div class="ttname"><a href="../../d2/df3/a01085.html#acfe503ba26d8a881f16958aaafd431e1ac68cdbc5c42fc63c5df6b7b0dd69a739">TYPEMASK_PLAYER</a></div><div class="ttdeci">@ TYPEMASK_PLAYER</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:50</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  131</span>{</div>
+<div class="line"><span class="lineno">  132</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aa67b202bda6094f739919492eba525981">CHANNEL_RIGHT_FORCE_NO_ANNOUNCEMENTS</a>    = 0x001,</div>
+<div class="line"><span class="lineno">  133</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aa7ee9f05e0db3aad528e2df7ecf4aa8c2">CHANNEL_RIGHT_FORCE_ANNOUNCEMENTS</a>       = 0x002,</div>
+<div class="line"><span class="lineno">  134</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aae429eae4c346c3af4c8d68251556a918">CHANNEL_RIGHT_NO_OWNERSHIP</a>              = 0x004,</div>
+<div class="line"><span class="lineno">  135</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aa86af292b301961e50f6f8bc9c960af01">CHANNEL_RIGHT_CANT_SPEAK</a>                = 0x008,</div>
+<div class="line"><span class="lineno">  136</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aa5fbb3a648477030ea54ca3c715938d0b">CHANNEL_RIGHT_CANT_BAN</a>                  = 0x010,</div>
+<div class="line"><span class="lineno">  137</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aa6fbb26729efc9fd907286ff76ef07e10">CHANNEL_RIGHT_CANT_KICK</a>                 = 0x020,</div>
+<div class="line"><span class="lineno">  138</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aac5101c589a4b8cc24a8e7684e3c23744">CHANNEL_RIGHT_CANT_MUTE</a>                 = 0x040,</div>
+<div class="line"><span class="lineno">  139</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aaaff5050f1084a527faab0139d392e361">CHANNEL_RIGHT_CANT_CHANGE_PASSWORD</a>      = 0x080,</div>
+<div class="line"><span class="lineno">  140</span>    <a class="code hl_enumvalue" href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aa7b8f17d59929603121d8537ca683eb2f">CHANNEL_RIGHT_DONT_PRESERVE</a>             = 0x100,</div>
+<div class="line"><span class="lineno">  141</span>};</div>
+<div class="ttc" id="aa01085_html_ab7fa3de55051b4b64ff92a8d7eef417aa5fbb3a648477030ea54ca3c715938d0b"><div class="ttname"><a href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aa5fbb3a648477030ea54ca3c715938d0b">CHANNEL_RIGHT_CANT_BAN</a></div><div class="ttdeci">@ CHANNEL_RIGHT_CANT_BAN</div><div class="ttdef"><b>Definition:</b> Channel.h:136</div></div>
+<div class="ttc" id="aa01085_html_ab7fa3de55051b4b64ff92a8d7eef417aa67b202bda6094f739919492eba525981"><div class="ttname"><a href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aa67b202bda6094f739919492eba525981">CHANNEL_RIGHT_FORCE_NO_ANNOUNCEMENTS</a></div><div class="ttdeci">@ CHANNEL_RIGHT_FORCE_NO_ANNOUNCEMENTS</div><div class="ttdef"><b>Definition:</b> Channel.h:132</div></div>
+<div class="ttc" id="aa01085_html_ab7fa3de55051b4b64ff92a8d7eef417aa6fbb26729efc9fd907286ff76ef07e10"><div class="ttname"><a href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aa6fbb26729efc9fd907286ff76ef07e10">CHANNEL_RIGHT_CANT_KICK</a></div><div class="ttdeci">@ CHANNEL_RIGHT_CANT_KICK</div><div class="ttdef"><b>Definition:</b> Channel.h:137</div></div>
+<div class="ttc" id="aa01085_html_ab7fa3de55051b4b64ff92a8d7eef417aa7b8f17d59929603121d8537ca683eb2f"><div class="ttname"><a href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aa7b8f17d59929603121d8537ca683eb2f">CHANNEL_RIGHT_DONT_PRESERVE</a></div><div class="ttdeci">@ CHANNEL_RIGHT_DONT_PRESERVE</div><div class="ttdef"><b>Definition:</b> Channel.h:140</div></div>
+<div class="ttc" id="aa01085_html_ab7fa3de55051b4b64ff92a8d7eef417aa7ee9f05e0db3aad528e2df7ecf4aa8c2"><div class="ttname"><a href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aa7ee9f05e0db3aad528e2df7ecf4aa8c2">CHANNEL_RIGHT_FORCE_ANNOUNCEMENTS</a></div><div class="ttdeci">@ CHANNEL_RIGHT_FORCE_ANNOUNCEMENTS</div><div class="ttdef"><b>Definition:</b> Channel.h:133</div></div>
+<div class="ttc" id="aa01085_html_ab7fa3de55051b4b64ff92a8d7eef417aa86af292b301961e50f6f8bc9c960af01"><div class="ttname"><a href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aa86af292b301961e50f6f8bc9c960af01">CHANNEL_RIGHT_CANT_SPEAK</a></div><div class="ttdeci">@ CHANNEL_RIGHT_CANT_SPEAK</div><div class="ttdef"><b>Definition:</b> Channel.h:135</div></div>
+<div class="ttc" id="aa01085_html_ab7fa3de55051b4b64ff92a8d7eef417aaaff5050f1084a527faab0139d392e361"><div class="ttname"><a href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aaaff5050f1084a527faab0139d392e361">CHANNEL_RIGHT_CANT_CHANGE_PASSWORD</a></div><div class="ttdeci">@ CHANNEL_RIGHT_CANT_CHANGE_PASSWORD</div><div class="ttdef"><b>Definition:</b> Channel.h:139</div></div>
+<div class="ttc" id="aa01085_html_ab7fa3de55051b4b64ff92a8d7eef417aac5101c589a4b8cc24a8e7684e3c23744"><div class="ttname"><a href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aac5101c589a4b8cc24a8e7684e3c23744">CHANNEL_RIGHT_CANT_MUTE</a></div><div class="ttdeci">@ CHANNEL_RIGHT_CANT_MUTE</div><div class="ttdef"><b>Definition:</b> Channel.h:138</div></div>
+<div class="ttc" id="aa01085_html_ab7fa3de55051b4b64ff92a8d7eef417aae429eae4c346c3af4c8d68251556a918"><div class="ttname"><a href="../../d2/df3/a01085.html#ab7fa3de55051b4b64ff92a8d7eef417aae429eae4c346c3af4c8d68251556a918">CHANNEL_RIGHT_NO_OWNERSHIP</a></div><div class="ttdeci">@ CHANNEL_RIGHT_NO_OWNERSHIP</div><div class="ttdef"><b>Definition:</b> Channel.h:134</div></div>
 </div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a039758f4b57c94c411a4c3882334ada8" name="a039758f4b57c94c411a4c3882334ada8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a039758f4b57c94c411a4c3882334ada8">&#9670;&#160;</a></span>operator&lt;&lt;() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/d81/a28397.html">ByteBuffer</a> &amp; operator&lt;&lt; </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d81/a28397.html">ByteBuffer</a> &amp;&#160;</td>
-          <td class="paramname"><em>buf</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/dae/a08533.html">ObjectGuid</a> const &amp;&#160;</td>
-          <td class="paramname"><em>guid</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   70</span>{</div>
-<div class="line"><span class="lineno">   71</span>    buf &lt;&lt; <a class="code hl_typedef" href="../../d6/d1a/a00485.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>(guid.GetRawValue());</div>
-<div class="line"><span class="lineno">   72</span>    <span class="keywordflow">return</span> buf;</div>
-<div class="line"><span class="lineno">   73</span>}</div>
-<div class="ttc" id="aa00485_html_ac4dd6ce78ce3b840c53bd4b3c63ed09b"><div class="ttname"><a href="../../d6/d1a/a00485.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a></div><div class="ttdeci">std::uint64_t uint64</div><div class="ttdef"><b>Definition:</b> Define.h:106</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00142">ObjectGuid::GetRawValue()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00223">ByteBuffer::operator&lt;&lt;()</a>.</p>
-
-</div>
-</div>
-<a id="a94ab551ce00fd82dea1532d47ad908bc" name="a94ab551ce00fd82dea1532d47ad908bc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a94ab551ce00fd82dea1532d47ad908bc">&#9670;&#160;</a></span>operator&lt;&lt;() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/d81/a28397.html">ByteBuffer</a> &amp; operator&lt;&lt; </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d81/a28397.html">ByteBuffer</a> &amp;&#160;</td>
-          <td class="paramname"><em>buf</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/d6d/a08537.html">PackedGuid</a> const &amp;&#160;</td>
-          <td class="paramname"><em>guid</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   82</span>{</div>
-<div class="line"><span class="lineno">   83</span>    buf.<a class="code hl_function" href="../../d3/d81/a28397.html#a5811e6da355e8c3d0f45997a557a666b">append</a>(guid._packedGuid);</div>
-<div class="line"><span class="lineno">   84</span>    <span class="keywordflow">return</span> buf;</div>
-<div class="line"><span class="lineno">   85</span>}</div>
-<div class="ttc" id="aa28397_html_a5811e6da355e8c3d0f45997a557a666b"><div class="ttname"><a href="../../d3/d81/a28397.html#a5811e6da355e8c3d0f45997a557a666b">ByteBuffer::append</a></div><div class="ttdeci">void append(T value)</div><div class="ttdef"><b>Definition:</b> ByteBuffer.h:129</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a30aef535f2839648f0ae4648c746d3e2" name="a30aef535f2839648f0ae4648c746d3e2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a30aef535f2839648f0ae4648c746d3e2">&#9670;&#160;</a></span>operator&gt;&gt;() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/d81/a28397.html">ByteBuffer</a> &amp; operator&gt;&gt; </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d81/a28397.html">ByteBuffer</a> &amp;&#160;</td>
-          <td class="paramname"><em>buf</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/dae/a08533.html">ObjectGuid</a> &amp;&#160;</td>
-          <td class="paramname"><em>guid</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   76</span>{</div>
-<div class="line"><span class="lineno">   77</span>    guid.<a class="code hl_function" href="../../d8/dae/a08533.html#adfd90f25996d5e85a14e25f1af152c94">Set</a>(buf.<a class="code hl_function" href="../../d3/d81/a28397.html#afab3484e1af821859f16b7bdacf2af9c">read</a>&lt;<a class="code hl_typedef" href="../../d6/d1a/a00485.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&gt;());</div>
-<div class="line"><span class="lineno">   78</span>    <span class="keywordflow">return</span> buf;</div>
-<div class="line"><span class="lineno">   79</span>}</div>
-<div class="ttc" id="aa08533_html_adfd90f25996d5e85a14e25f1af152c94"><div class="ttname"><a href="../../d8/dae/a08533.html#adfd90f25996d5e85a14e25f1af152c94">ObjectGuid::Set</a></div><div class="ttdeci">void Set(uint64 guid)</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:137</div></div>
-<div class="ttc" id="aa28397_html_afab3484e1af821859f16b7bdacf2af9c"><div class="ttname"><a href="../../d3/d81/a28397.html#afab3484e1af821859f16b7bdacf2af9c">ByteBuffer::read</a></div><div class="ttdeci">T read()</div><div class="ttdef"><b>Definition:</b> ByteBuffer.h:351</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00351">ByteBuffer::read()</a>, and <a class="el" href="../../#l00137">ObjectGuid::Set()</a>.</p>
-
-</div>
-</div>
-<a id="a95f3a6eef334b9fcdcaca879532c25d4" name="a95f3a6eef334b9fcdcaca879532c25d4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a95f3a6eef334b9fcdcaca879532c25d4">&#9670;&#160;</a></span>operator&gt;&gt;() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d3/d81/a28397.html">ByteBuffer</a> &amp; operator&gt;&gt; </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d81/a28397.html">ByteBuffer</a> &amp;&#160;</td>
-          <td class="paramname"><em>buf</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dd/d01/a08529.html">PackedGuidReader</a> const &amp;&#160;</td>
-          <td class="paramname"><em>guid</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   88</span>{</div>
-<div class="line"><span class="lineno">   89</span>    buf.<a class="code hl_function" href="../../d3/d81/a28397.html#ad04535f80c6d32211f3b377ca8c32e68">readPackGUID</a>(<span class="keyword">reinterpret_cast&lt;</span><a class="code hl_typedef" href="../../d6/d1a/a00485.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&amp;<span class="keyword">&gt;</span>(guid.Guid));</div>
-<div class="line"><span class="lineno">   90</span>    <span class="keywordflow">return</span> buf;</div>
-<div class="line"><span class="lineno">   91</span>}</div>
-<div class="ttc" id="aa28397_html_ad04535f80c6d32211f3b377ca8c32e68"><div class="ttname"><a href="../../d3/d81/a28397.html#ad04535f80c6d32211f3b377ca8c32e68">ByteBuffer::readPackGUID</a></div><div class="ttdeci">void readPackGUID(uint64 &amp;guid)</div><div class="ttdef"><b>Definition:</b> ByteBuffer.h:387</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00114">PackedGuidReader::Guid</a>, and <a class="el" href="../../#l00387">ByteBuffer::readPackGUID()</a>.</p>
-
 </div>
 </div>
 </div><!-- contents -->
@@ -703,8 +625,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_7cceb56be83a77325820340cc4b7f0cb.html">Object</a></li><li class="navelem"><a class="el" href="../../d2/df3/a01085.html">ObjectGuid.h</a></li>
-    <li class="footer">Generated on Mon Feb 16 2026 21:00:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_696eb3df8c264f77a3b72ba3d62ed649.html">Chat</a></li><li class="navelem"><a class="el" href="../../dir_d4871a286f89f7ca564743d0cdf0b956.html">Channels</a></li><li class="navelem"><a class="el" href="../../d2/df3/a01085.html">Channel.h</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:13:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

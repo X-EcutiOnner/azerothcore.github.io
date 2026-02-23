@@ -1,6 +1,7 @@
 var a10920 =
 [
-    [ "ListInventory", "d5/d95/a10920.html#a7b0432d3b1243bdf6d70f9f55ee0f614", null ],
-    [ "Read", "d5/d95/a10920.html#a2fd1298c1da842824fca7d971cb2028b", null ],
-    [ "VendorGuid", "d5/d95/a10920.html#a9c6288866c870b4a82169fe7fbef4512", null ]
+    [ "GuildBankDepositMoney", "d5/d95/a10920.html#a967628850b85038d917be69dc71e6a0e", null ],
+    [ "Read", "d5/d95/a10920.html#aa1d4274b057cc4ecec6b078ac4925a94", null ],
+    [ "Banker", "d5/d95/a10920.html#afdeb7ea381853078d515d8a0f157533b", null ],
+    [ "Money", "d5/d95/a10920.html#a41258345b9f83dcf8e374145f517251e", null ]
 ];

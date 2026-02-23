@@ -1,8 +1,7 @@
 var a24392 =
 [
-    [ "CreatureId", "d7/d76/a24392.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "d7/d76/a24392.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "d7/d76/a24392.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "d7/d76/a24392.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "d7/d76/a24392.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "CheckCast", "d7/d76/a24392.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
+    [ "HandleDummy", "d7/d76/a24392.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
+    [ "PrepareSpellScript", "d7/d76/a24392.html#a465da282630352a289d5daae7ccb1d01", null ],
+    [ "Register", "d7/d76/a24392.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
 ];

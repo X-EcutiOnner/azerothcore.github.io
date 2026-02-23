@@ -1,6 +1,10 @@
 var a21484 =
 [
-    [ "npc_frozen_orb_stalkerAI", "d0/deb/a21484.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
-    [ "JustSummoned", "d0/deb/a21484.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
-    [ "Reset", "d0/deb/a21484.html#a064ccb90afeb9b36d501850482c60bc4", null ]
+    [ "npc_jenny", "d0/deb/a21484.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "d0/deb/a21484.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "d0/deb/a21484.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "d0/deb/a21484.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "d0/deb/a21484.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "d0/deb/a21484.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "d0/deb/a21484.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

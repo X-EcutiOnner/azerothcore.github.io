@@ -1,6 +1,8 @@
 var a27632 =
 [
-    [ "guard_shattrath_scryerAI", "d7/da6/a27636.html", "d7/da6/a27636" ],
-    [ "guard_shattrath_scryer", "d6/d8b/a27632.html#a2ee4d6881d7c24cd848c590b84207663", null ],
-    [ "GetAI", "d6/d8b/a27632.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
+    [ "CheckProc", "d6/d8b/a27632.html#a610313f5085c7c0109b5936e94de00fe", null ],
+    [ "OnProc", "d6/d8b/a27632.html#ad87c4cbd332dc19be3bc8ec9982a385b", null ],
+    [ "PrepareAuraScript", "d6/d8b/a27632.html#aae4d26e262f80681811c9b50c2a63642", null ],
+    [ "Register", "d6/d8b/a27632.html#a8fdcd2b4489011294d9f58d5ff0beb3f", null ],
+    [ "Validate", "d6/d8b/a27632.html#a00ef3cd4b2ee5739f5f7288ccbd6a1c6", null ]
 ];

@@ -1,6 +1,5 @@
 var a12616 =
 [
-    [ "HandleOnHit", "d4/dcd/a12616.html#a804097903354ab3a730f0fe3eb5ec863", null ],
-    [ "PrepareSpellScript", "d4/dcd/a12616.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
-    [ "Register", "d4/dcd/a12616.html#a53bed6f1af71fd309a04bc004d07be80", null ]
+    [ "go_father_flame", "d4/dcd/a12616.html#aa992bd7029a56faca4b92637688fe845", null ],
+    [ "OnLootStateChanged", "d4/dcd/a12616.html#a84c7055e791a3dac66b75d327c7662c3", null ]
 ];

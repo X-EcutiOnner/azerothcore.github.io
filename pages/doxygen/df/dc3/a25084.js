@@ -1,6 +1,7 @@
 var a25084 =
 [
-    [ "CheckProc", "df/dc3/a25084.html#a3c4f64fc51367ebb549282b068458f4c", null ],
-    [ "PrepareAuraScript", "df/dc3/a25084.html#a72dc7c7b8bc842a7feb6857cbec34d25", null ],
-    [ "Register", "df/dc3/a25084.html#ac84b357828094a42aab1c8bfee83d298", null ]
+    [ "HandleProc", "df/dc3/a25084.html#af768269d315e998fc2042794c3a03b58", null ],
+    [ "PrepareAuraScript", "df/dc3/a25084.html#ae3da67d626ee11c57a85a3af99ff07a5", null ],
+    [ "Register", "df/dc3/a25084.html#a2df1cff47861cbf3198e573c6031b54e", null ],
+    [ "Validate", "df/dc3/a25084.html#a84f40eec148c55108085db5e7b05cb0e", null ]
 ];

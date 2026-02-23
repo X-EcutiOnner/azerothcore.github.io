@@ -1,12 +1,14 @@
 var a09972 =
 [
-    [ "TransportTemplate", "db/dfc/a09972.html#aef4781a37808827e3ceaffc782c3af1e", null ],
-    [ "~TransportTemplate", "db/dfc/a09972.html#afc385d824c171d13a184bc0a16121110", null ],
-    [ "accelDist", "db/dfc/a09972.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
-    [ "accelTime", "db/dfc/a09972.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
-    [ "entry", "db/dfc/a09972.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
-    [ "inInstance", "db/dfc/a09972.html#a971c84762c229b01cab656945f0c16de", null ],
-    [ "keyFrames", "db/dfc/a09972.html#ac714531f226ca06c3586cf3f6cc06808", null ],
-    [ "mapsUsed", "db/dfc/a09972.html#a93899b0648871ed8ca32dfe8394347c1", null ],
-    [ "pathTime", "db/dfc/a09972.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
+    [ "ServerMailMgr", "db/dfc/a09972.html#aeec2235e9dd9b36b868634d850f02a5b", null ],
+    [ "~ServerMailMgr", "db/dfc/a09972.html#adba54af38e90ecae21e79835910ba195", null ],
+    [ "ConditionTypeUsesConditionState", "db/dfc/a09972.html#a2e7a8cdc7ebdb51204823fd30a0449b3", null ],
+    [ "GetAllServerMailStore", "db/dfc/a09972.html#acb4521f696c6f11c977dc9d8b76e0c16", null ],
+    [ "GetServerMailConditionType", "db/dfc/a09972.html#a57f8aea4b5bb15ff77b9ebd8e65e8092", null ],
+    [ "instance", "db/dfc/a09972.html#abc85cb07f717384fac09f4e2b0f59af1", null ],
+    [ "LoadMailServerTemplates", "db/dfc/a09972.html#a1a01dd7a8e5c45bc7c97203e4a04a768", null ],
+    [ "LoadMailServerTemplatesConditions", "db/dfc/a09972.html#a6bb75bdb34a25dd01fdc7e81b4e9b897", null ],
+    [ "LoadMailServerTemplatesItems", "db/dfc/a09972.html#a49aea924f27804d21fbe06e72e159df3", null ],
+    [ "SendServerMail", "db/dfc/a09972.html#af615430a40e9ddfff49bc338b31d6c1b", null ],
+    [ "_serverMailStore", "db/dfc/a09972.html#a96ae3a78694ca97d112c5d92884f2415", null ]
 ];

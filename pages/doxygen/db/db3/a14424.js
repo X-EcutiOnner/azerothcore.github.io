@@ -1,6 +1,5 @@
 var a14424 =
 [
-    [ "boss_wushoolayAI", "db/db3/a14424.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
-    [ "JustEngagedWith", "db/db3/a14424.html#af519da543fff63a39a6fbe48f90f2f22", null ],
-    [ "UpdateAI", "db/db3/a14424.html#acfaacee2a97212eb15056c1552b9e06b", null ]
+    [ "at_zulgurub_bridge_speech", "db/db3/a14424.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
+    [ "_OnTrigger", "db/db3/a14424.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
 ];

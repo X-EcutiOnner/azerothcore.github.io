@@ -1,8 +1,6 @@
 var a21864 =
 [
-    [ "npc_shandy_dalaranAI", "da/ddb/a21868.html", "da/ddb/a21868" ],
-    [ "npc_shandy_dalaran", "d3/dbd/a21864.html#a7077c769a252af8ba37b5ff5d524463e", null ],
-    [ "GetAI", "d3/dbd/a21864.html#a641551a2aef739e1679912ae27ddb888", null ],
-    [ "OnGossipHello", "d3/dbd/a21864.html#a91287aaba09fce091c9d826e75208f84", null ],
-    [ "OnGossipSelect", "d3/dbd/a21864.html#ad005a17da187e0cfd03d2faf0099c448", null ]
+    [ "npc_lake_frogAI", "da/ddb/a21868.html", "da/ddb/a21868" ],
+    [ "npc_lake_frog", "d3/dbd/a21864.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
+    [ "GetAI", "d3/dbd/a21864.html#a9730da684a81fced304f10b2806c10e5", null ]
 ];

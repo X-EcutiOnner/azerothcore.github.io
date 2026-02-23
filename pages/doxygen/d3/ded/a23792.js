@@ -1,7 +1,6 @@
 var a23792 =
 [
-    [ "HandleDummyApply", "d3/ded/a23792.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
-    [ "HandleDummyRemove", "d3/ded/a23792.html#a5d68d9e15600119deca7179ffe00acda", null ],
-    [ "PrepareAuraScript", "d3/ded/a23792.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
-    [ "Register", "d3/ded/a23792.html#a094004ccf6b4cae4d27bca639b76b899", null ]
+    [ "FilterTargets", "d3/ded/a23792.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
+    [ "PrepareSpellScript", "d3/ded/a23792.html#afa186c0b0728e3462f8984189613f9a7", null ],
+    [ "Register", "d3/ded/a23792.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
 ];

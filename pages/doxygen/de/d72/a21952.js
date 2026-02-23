@@ -1,6 +1,6 @@
 var a21952 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "de/d72/a21952.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
-    [ "MovementInform", "de/d72/a21952.html#a999bc868db485578fcc70ae7e056b778", null ],
-    [ "Reset", "de/d72/a21952.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
+    [ "npc_black_knight_graveyardAI", "de/d1a/a21956.html", "de/d1a/a21956" ],
+    [ "npc_black_knight_graveyard", "de/d72/a21952.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
+    [ "GetAI", "de/d72/a21952.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
 ];

@@ -1,15 +1,9 @@
 var a14120 =
 [
-    [ "npc_janalai_hatcher", "d2/d7a/a14120.html#a337e21f5a014d0f9d7a1f614b7245f36", null ],
-    [ "AttackStart", "d2/d7a/a14120.html#a5a7826964349ed9adbbdeb7c733dd915", null ],
-    [ "JustEngagedWith", "d2/d7a/a14120.html#a54c251278dcfa22052b6c6e49a4abd89", null ],
-    [ "MoveInLineOfSight", "d2/d7a/a14120.html#a4ae2157e37bb93b7465e029e526a6ce4", null ],
-    [ "MovementInform", "d2/d7a/a14120.html#a3a0170bc53f9f8f96090e34097b90c2c", null ],
-    [ "MoveToNewWaypoint", "d2/d7a/a14120.html#ab775a888ae1002eed3ed548ab89ca2e4", null ],
-    [ "Reset", "d2/d7a/a14120.html#ab1c3945160c55b2b2d63763eacced473", null ],
-    [ "UpdateAI", "d2/d7a/a14120.html#ab5cc0c5f73593128b6d6e023aa4ce609", null ],
-    [ "_isHatching", "d2/d7a/a14120.html#aae712db69c870d00d07a37b8611ecaf4", null ],
-    [ "_repeatCount", "d2/d7a/a14120.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12", null ],
-    [ "_side", "d2/d7a/a14120.html#a177ddd5ff96902363ab708f0c737fc20", null ],
-    [ "_waypoint", "d2/d7a/a14120.html#ab39ab27d8057b52b77637faefd48e8e6", null ]
+    [ "npc_tyrion_spybotAI", "d2/d7a/a14120.html#aedad685279012266637d29069ead9063", null ],
+    [ "Reset", "d2/d7a/a14120.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
+    [ "UpdateAI", "d2/d7a/a14120.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
+    [ "WaypointReached", "d2/d7a/a14120.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
+    [ "uiPhase", "d2/d7a/a14120.html#af5dbb99fe18d96665efd04bd53294636", null ],
+    [ "uiTimer", "d2/d7a/a14120.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
 ];

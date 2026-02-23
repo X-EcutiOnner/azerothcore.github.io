@@ -1,16 +1,13 @@
 var a04972 =
 [
-    [ "MDLCallback", "d8/dbe/a04976.html", "d8/dbe/a04976" ],
-    [ "ObjArray", "d3/d49/a04972.html#a19e64f06ddaf36271df3c1192908042b", null ],
-    [ "BIHWrap", "d3/d49/a04972.html#a8572b541e513074132ba0834e081ec05", null ],
-    [ "balance", "d3/d49/a04972.html#a7a191f8c9d3b20807ef1db9be654ccd1", null ],
-    [ "insert", "d3/d49/a04972.html#ab859ad633f695002cf37776c0e124bbf", null ],
-    [ "intersectPoint", "d3/d49/a04972.html#affbe1a82d945190374753ab6af811ca4", null ],
-    [ "intersectRay", "d3/d49/a04972.html#a6dcddc2503a0acabc0f29ddb5eace803", null ],
-    [ "remove", "d3/d49/a04972.html#aeff1ff9ee3d3965dc4169ea6f0fc9839", null ],
-    [ "m_obj2Idx", "d3/d49/a04972.html#a04248b957bc22dbae570a3d96a03adcd", null ],
-    [ "m_objects", "d3/d49/a04972.html#a1e3b7eb01db291f5dd7febe7c7198ea3", null ],
-    [ "m_objects_to_push", "d3/d49/a04972.html#abd68da8091bf1694013d1231936a8a2c", null ],
-    [ "m_tree", "d3/d49/a04972.html#a13a40cee1097ab0435eb2d50518a41bf", null ],
-    [ "unbalanced_times", "d3/d49/a04972.html#abc44d55ac155023c2661d2687c068a4b", null ]
+    [ "anonymous_namespace{AddonMgr.cpp}", "df/d76/a04973.html", [
+      [ "SavedAddonsList", "df/d76/a04973.html#afa468163a23ed58507a89e5724c06eac", null ],
+      [ "m_bannedAddons", "df/d76/a04973.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
+      [ "m_knownAddons", "df/d76/a04973.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
+    ] ],
+    [ "BannedAddonList", "d3/d49/a04972.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
+    [ "GetAddonInfo", "d3/d49/a04972.html#a65cb6a88902972060e44c57d7d9ec738", null ],
+    [ "GetBannedAddons", "d3/d49/a04972.html#ad7d0938e7463238a86e8c811e1a58800", null ],
+    [ "LoadFromDB", "d3/d49/a04972.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
+    [ "SaveAddon", "d3/d49/a04972.html#a85021021149b7eb4d78cbe81e43d3d45", null ]
 ];

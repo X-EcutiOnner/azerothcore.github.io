@@ -1,7 +1,6 @@
 var a27004 =
 [
-    [ "HandleAuraApply", "d9/d9f/a27004.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
-    [ "HandleAuraRemove", "d9/d9f/a27004.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
-    [ "PrepareAuraScript", "d9/d9f/a27004.html#a5c7d7c0b8880128121d66d39094f1965", null ],
-    [ "Register", "d9/d9f/a27004.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
+    [ "HandleScriptEffect", "d9/d9f/a27004.html#a703b5a1725e05bfbfccc3b6ee5107d95", null ],
+    [ "PrepareSpellScript", "d9/d9f/a27004.html#ab2bb14aac4758dac46aae636ba09e50d", null ],
+    [ "Register", "d9/d9f/a27004.html#ae2fca7fde9af90dd7d461c2d046d9783", null ]
 ];

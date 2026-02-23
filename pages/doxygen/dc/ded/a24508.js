@@ -1,6 +1,8 @@
 var a24508 =
 [
-    [ "PrepareSpellScript", "dc/ded/a24508.html#ac781a5ff389268d1f18867ff5585ca71", null ],
-    [ "Register", "dc/ded/a24508.html#a5cb9e02774ea6c307e76183253ffb472", null ],
-    [ "SetDest", "dc/ded/a24508.html#a5fec9885b1dd6cf80fb47af321fad98e", null ]
+    [ "CheckCast", "dc/ded/a24508.html#a94851a2b6a62138e28466317e9e88480", null ],
+    [ "HandleDummy", "dc/ded/a24508.html#a970684d219c99519512c437a8efd8d43", null ],
+    [ "PrepareSpellScript", "dc/ded/a24508.html#a39b726e6c5809a6f8100970e8b71fc71", null ],
+    [ "Register", "dc/ded/a24508.html#a7acf718f0a1109d384fd2b9dd23ca62c", null ],
+    [ "Validate", "dc/ded/a24508.html#a59cca008a97447e257bf24071301b366", null ]
 ];

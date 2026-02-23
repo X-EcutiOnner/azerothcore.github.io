@@ -1,5 +1,6 @@
 var a27260 =
 [
-    [ "achievement_bg_ic_resource_glut", "d3/d05/a27260.html#ace247962dccee2601ceade593b0874d4", null ],
-    [ "OnCheck", "d3/d05/a27260.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
+    [ "CheckCast", "d3/d05/a27260.html#a97f479cccecc6f37c75b47122b47e333", null ],
+    [ "PrepareSpellScript", "d3/d05/a27260.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
+    [ "Register", "d3/d05/a27260.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
 ];

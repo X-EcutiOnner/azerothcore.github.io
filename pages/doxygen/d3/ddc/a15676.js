@@ -1,10 +1,13 @@
 var a15676 =
 [
-    [ "npc_rabid_thistle_bearAI", "d3/ddc/a15676.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
-    [ "Initialize", "d3/ddc/a15676.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
-    [ "Reset", "d3/ddc/a15676.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
-    [ "SpellHit", "d3/ddc/a15676.html#a62bde5a122748564cc806046bf9dcbaa", null ],
-    [ "UpdateAI", "d3/ddc/a15676.html#a8f6c5b873756a58760b2861bc8b86804", null ],
-    [ "_events", "d3/ddc/a15676.html#ad3852bf4588c453642e75fcdc544767b", null ],
-    [ "_playerGUID", "d3/ddc/a15676.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d3/ddc/a15676.html#a454f677dddce956534d6f5a253ed587b", null ],
+    [ "GetData", "d3/ddc/a15676.html#ad34ee1e43d05826c1b4e80e2df6ac5f6", null ],
+    [ "Initialize", "d3/ddc/a15676.html#a8d46d9aa082d306aa2c9cd8fde3eea1d", null ],
+    [ "OnCreatureCreate", "d3/ddc/a15676.html#affc7045f944251fb27683133f511029f", null ],
+    [ "OnGameObjectCreate", "d3/ddc/a15676.html#a36f22cb12a5d59b377627f7cacbffecb", null ],
+    [ "OnUnitDeath", "d3/ddc/a15676.html#a921a58152e075b9a64bf3c73aabdf1f2", null ],
+    [ "SetBossState", "d3/ddc/a15676.html#abb9fc9c7901d0c830d498f3fbdaebbe6", null ],
+    [ "SetData", "d3/ddc/a15676.html#a25f4e12aad6325e87b31770c1243d746", null ],
+    [ "BugTrioDeathCount", "d3/ddc/a15676.html#aab0191f5b31264f0632a24df0607d05b", null ],
+    [ "CThunGraspGUIDs", "d3/ddc/a15676.html#aea180c0b623e919f56f9210ce15724e8", null ]
 ];

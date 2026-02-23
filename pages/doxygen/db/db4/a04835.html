@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: mainpage.md File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellProcPPMTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -104,16 +104,1099 @@ $(document).ready(function(){initNavTree('db/db4/a04835.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">mainpage.md File Reference</div></div>
+  <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">SpellProcPPMTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><a class="el" href="../../d4/d43/a08960.html">Unit</a> tests for PPM (Procs Per Minute) calculation.  
+<a href="#details">More...</a></p>
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">UnitStub.h</a>&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
+</div>
+<p><a href="">Go to the source code of this file.</a></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:ae3a783720b4fd8de30af2daa8a46968d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#ae3a783720b4fd8de30af2daa8a46968d">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, PPMFormula_BasicCalculation)</td></tr>
+<tr class="separator:ae3a783720b4fd8de30af2daa8a46968d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a408cefc1b2d32154333df6ee02554cfb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#a408cefc1b2d32154333df6ee02554cfb">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, PPMFormula_FastWeapon_HigherChancePerSwing)</td></tr>
+<tr class="separator:a408cefc1b2d32154333df6ee02554cfb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac17243ceceb68ae78be97f22188bdf48"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#ac17243ceceb68ae78be97f22188bdf48">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, PPMFormula_SlowWeapon_LowerChancePerSwing)</td></tr>
+<tr class="separator:ac17243ceceb68ae78be97f22188bdf48"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adf12a2820af1538b7fd5b997f86b9c36"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#adf12a2820af1538b7fd5b997f86b9c36">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, PPMFormula_VerySlowWeapon)</td></tr>
+<tr class="separator:adf12a2820af1538b7fd5b997f86b9c36"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab8926bcff4bd558ffd6975cca56094af"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#ab8926bcff4bd558ffd6975cca56094af">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, PPMFormula_ZeroPPM_ReturnsZero)</td></tr>
+<tr class="separator:ab8926bcff4bd558ffd6975cca56094af"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aee2d794fc0d42fdf6fa96deefd0f7ef3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#aee2d794fc0d42fdf6fa96deefd0f7ef3">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, PPMFormula_NegativePPM_ReturnsZero)</td></tr>
+<tr class="separator:aee2d794fc0d42fdf6fa96deefd0f7ef3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adb660bd4a3e222dfc26ea9a15ff261ef"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#adb660bd4a3e222dfc26ea9a15ff261ef">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, PPMFormula_WithPositiveModifier)</td></tr>
+<tr class="separator:adb660bd4a3e222dfc26ea9a15ff261ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b4b316b40f2c8520f3fc928bdaf7db7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#a7b4b316b40f2c8520f3fc928bdaf7db7">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, PPMFormula_WithNegativeModifier)</td></tr>
+<tr class="separator:a7b4b316b40f2c8520f3fc928bdaf7db7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab62c7f868fef4a454b48e828cfc97bc1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#ab62c7f868fef4a454b48e828cfc97bc1">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, UnitStub_GetPPMProcChance_DefaultWeaponSpeed)</td></tr>
+<tr class="separator:ab62c7f868fef4a454b48e828cfc97bc1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ecc1d1a3fe097523b683612714be585"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#a0ecc1d1a3fe097523b683612714be585">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, UnitStub_GetPPMProcChance_CustomWeaponSpeed)</td></tr>
+<tr class="separator:a0ecc1d1a3fe097523b683612714be585"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a89e1be04b18f0a1379f66db5f18f84cd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#a89e1be04b18f0a1379f66db5f18f84cd">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, UnitStub_GetPPMProcChance_WithPPMModifier)</td></tr>
+<tr class="separator:a89e1be04b18f0a1379f66db5f18f84cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa3f155d3e40e3d9a72b9aab37e02c2d5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#aa3f155d3e40e3d9a72b9aab37e02c2d5">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, UnitStub_GetPPMProcChance_ModifierNotAppliedWithoutSpellId)</td></tr>
+<tr class="separator:aa3f155d3e40e3d9a72b9aab37e02c2d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a371f6254f8a9812a581ca62370e79087"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#a371f6254f8a9812a581ca62370e79087">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, OmenOfClarity_PPM6_VariousWeaponSpeeds)</td></tr>
+<tr class="separator:a371f6254f8a9812a581ca62370e79087"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1eecf2088dfa4e882fcd2e288a16c926"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#a1eecf2088dfa4e882fcd2e288a16c926">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, JudgementOfLight_PPM15_VariousWeaponSpeeds)</td></tr>
+<tr class="separator:a1eecf2088dfa4e882fcd2e288a16c926"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a2221ed60add2ea6f41efa43ba1caf5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#a5a2221ed60add2ea6f41efa43ba1caf5">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, WindfuryWeapon_PPM2_VariousWeaponSpeeds)</td></tr>
+<tr class="separator:a5a2221ed60add2ea6f41efa43ba1caf5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a826e8fe1182bffba3a197cda0adb8a26"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#a826e8fe1182bffba3a197cda0adb8a26">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, EdgeCase_VeryFastWeapon)</td></tr>
+<tr class="separator:a826e8fe1182bffba3a197cda0adb8a26"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad906fa2cfb70f1126dd79d22504bfb77"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#ad906fa2cfb70f1126dd79d22504bfb77">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, EdgeCase_ExtremelySlow)</td></tr>
+<tr class="separator:ad906fa2cfb70f1126dd79d22504bfb77"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae184a37db844e23c6120a45da76a3d2b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#ae184a37db844e23c6120a45da76a3d2b">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, EdgeCase_HighPPM)</td></tr>
+<tr class="separator:ae184a37db844e23c6120a45da76a3d2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80e3b407d4b13f3b1cb4948d5cdb4209"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#a80e3b407d4b13f3b1cb4948d5cdb4209">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, EdgeCase_FractionalPPM)</td></tr>
+<tr class="separator:a80e3b407d4b13f3b1cb4948d5cdb4209"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa1421e922e607bf83d6348d8cfb3e61c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#aa1421e922e607bf83d6348d8cfb3e61c">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, ShapeshiftBug_NonShifted_NoDiscrepancy)</td></tr>
+<tr class="separator:aa1421e922e607bf83d6348d8cfb3e61c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad0f75a757355e651e5657c020795869c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#ad0f75a757355e651e5657c020795869c">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, ShapeshiftBug_CatForm_ProtoDelayInflatesChance)</td></tr>
+<tr class="separator:ad0f75a757355e651e5657c020795869c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa9d6bf7b0b381063c82d2eb7e7b32881"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#aa9d6bf7b0b381063c82d2eb7e7b32881">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, ShapeshiftBug_CatForm_EffectivePPMIs3Point6x)</td></tr>
+<tr class="separator:aa9d6bf7b0b381063c82d2eb7e7b32881"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8937afbe525924e8a161bb7de0f75363"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#a8937afbe525924e8a161bb7de0f75363">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, ShapeshiftBug_BearForm_ProtoDelayInflatesChance)</td></tr>
+<tr class="separator:a8937afbe525924e8a161bb7de0f75363"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8d7e22c4c996419c0bdd6afe8ac51449"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#a8d7e22c4c996419c0bdd6afe8ac51449">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, ShapeshiftBug_CatForm_FieryWeapon6PPM)</td></tr>
+<tr class="separator:a8d7e22c4c996419c0bdd6afe8ac51449"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0692ae371dd7ec0e8127647ab490da56"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/db4/a04835.html#a0692ae371dd7ec0e8127647ab490da56">TEST_F</a> (<a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>, ShapeshiftBug_ItemSpellPath_AlreadyCorrect)</td></tr>
+<tr class="separator:a0692ae371dd7ec0e8127647ab490da56"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p ><a class="el" href="../../d4/d43/a08960.html">Unit</a> tests for PPM (Procs Per Minute) calculation. </p>
+<p >Tests the formula: chance = (WeaponSpeed * PPM) / 600.0f </p>
+
+<p class="definition">Definition in file <a class="el" href="../../">SpellProcPPMTest.cpp</a>.</p>
+</div><h2 class="groupheader">Function Documentation</h2>
+<a id="ad906fa2cfb70f1126dd79d22504bfb77" name="ad906fa2cfb70f1126dd79d22504bfb77"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad906fa2cfb70f1126dd79d22504bfb77">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">EdgeCase_ExtremelySlow&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  206</span>{</div>
+<div class="line"><span class="lineno">  207</span>    <span class="comment">// Extremely slow weapon - 5.0 sec = 5000ms</span></div>
+<div class="line"><span class="lineno">  208</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(5000, 6.0f);</div>
+<div class="line"><span class="lineno">  209</span>    EXPECT_NEAR(result, 50.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  210</span>}</div>
+<div class="ttc" id="aa29500_html_aa5e3341309f011bf99711d3244cc9e1d"><div class="ttname"><a href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a></div><div class="ttdeci">static float CalculatePPMChance(uint32 weaponSpeed, float ppm, float ppmModifier=0.0f)</div><div class="ttdoc">Calculate PPM proc chance Implements the formula: (WeaponSpeed * PPM) / 600.0f.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:46</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
+
+</div>
+</div>
+<a id="a80e3b407d4b13f3b1cb4948d5cdb4209" name="a80e3b407d4b13f3b1cb4948d5cdb4209"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a80e3b407d4b13f3b1cb4948d5cdb4209">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">EdgeCase_FractionalPPM&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  221</span>{</div>
+<div class="line"><span class="lineno">  222</span>    <span class="comment">// Fractional PPM value (2.5)</span></div>
+<div class="line"><span class="lineno">  223</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(2400, 2.5f);</div>
+<div class="line"><span class="lineno">  224</span>    <span class="comment">// 2400 * 2.5 / 600 = 10%</span></div>
+<div class="line"><span class="lineno">  225</span>    EXPECT_NEAR(result, 10.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  226</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
+
+</div>
+</div>
+<a id="ae184a37db844e23c6120a45da76a3d2b" name="ae184a37db844e23c6120a45da76a3d2b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae184a37db844e23c6120a45da76a3d2b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">EdgeCase_HighPPM&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  213</span>{</div>
+<div class="line"><span class="lineno">  214</span>    <span class="comment">// High PPM value (30)</span></div>
+<div class="line"><span class="lineno">  215</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(2500, 30.0f);</div>
+<div class="line"><span class="lineno">  216</span>    <span class="comment">// 2500 * 30 / 600 = 125% (can exceed 100%)</span></div>
+<div class="line"><span class="lineno">  217</span>    EXPECT_NEAR(result, 125.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  218</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
+
+</div>
+</div>
+<a id="a826e8fe1182bffba3a197cda0adb8a26" name="a826e8fe1182bffba3a197cda0adb8a26"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a826e8fe1182bffba3a197cda0adb8a26">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">EdgeCase_VeryFastWeapon&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  199</span>{</div>
+<div class="line"><span class="lineno">  200</span>    <span class="comment">// Very fast (theoretical) weapon - 1.0 sec = 1000ms</span></div>
+<div class="line"><span class="lineno">  201</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(1000, 6.0f);</div>
+<div class="line"><span class="lineno">  202</span>    EXPECT_NEAR(result, 10.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  203</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
+
+</div>
+</div>
+<a id="a1eecf2088dfa4e882fcd2e288a16c926" name="a1eecf2088dfa4e882fcd2e288a16c926"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1eecf2088dfa4e882fcd2e288a16c926">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">JudgementOfLight_PPM15_VariousWeaponSpeeds&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  163</span>{</div>
+<div class="line"><span class="lineno">  164</span>    <span class="comment">// Judgement of Light: 15 PPM</span></div>
+<div class="line"><span class="lineno">  165</span>    <span class="keyword">constexpr</span> <span class="keywordtype">float</span> JOL_PPM = 15.0f;</div>
+<div class="line"><span class="lineno">  166</span> </div>
+<div class="line"><span class="lineno">  167</span>    <span class="comment">// Fast dagger</span></div>
+<div class="line"><span class="lineno">  168</span>    <span class="keywordtype">float</span> daggerChance = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(1400, JOL_PPM);</div>
+<div class="line"><span class="lineno">  169</span>    EXPECT_NEAR(daggerChance, 35.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  170</span> </div>
+<div class="line"><span class="lineno">  171</span>    <span class="comment">// Normal 1H sword</span></div>
+<div class="line"><span class="lineno">  172</span>    <span class="keywordtype">float</span> swordChance = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(2500, JOL_PPM);</div>
+<div class="line"><span class="lineno">  173</span>    EXPECT_NEAR(swordChance, 62.5f, 0.01f);</div>
+<div class="line"><span class="lineno">  174</span> </div>
+<div class="line"><span class="lineno">  175</span>    <span class="comment">// Slow 2H weapon</span></div>
+<div class="line"><span class="lineno">  176</span>    <span class="keywordtype">float</span> twoHanderChance = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(3300, JOL_PPM);</div>
+<div class="line"><span class="lineno">  177</span>    EXPECT_NEAR(twoHanderChance, 82.5f, 0.01f);</div>
+<div class="line"><span class="lineno">  178</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
+
+</div>
+</div>
+<a id="a371f6254f8a9812a581ca62370e79087" name="a371f6254f8a9812a581ca62370e79087"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a371f6254f8a9812a581ca62370e79087">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">OmenOfClarity_PPM6_VariousWeaponSpeeds&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  145</span>{</div>
+<div class="line"><span class="lineno">  146</span>    <span class="comment">// Omen of Clarity: 6 PPM</span></div>
+<div class="line"><span class="lineno">  147</span>    <span class="keyword">constexpr</span> <span class="keywordtype">float</span> OOC_PPM = 6.0f;</div>
+<div class="line"><span class="lineno">  148</span> </div>
+<div class="line"><span class="lineno">  149</span>    <span class="comment">// Fast dagger</span></div>
+<div class="line"><span class="lineno">  150</span>    <span class="keywordtype">float</span> daggerChance = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(1400, OOC_PPM);</div>
+<div class="line"><span class="lineno">  151</span>    EXPECT_NEAR(daggerChance, 14.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  152</span> </div>
+<div class="line"><span class="lineno">  153</span>    <span class="comment">// Normal 1H sword</span></div>
+<div class="line"><span class="lineno">  154</span>    <span class="keywordtype">float</span> swordChance = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(2500, OOC_PPM);</div>
+<div class="line"><span class="lineno">  155</span>    EXPECT_NEAR(swordChance, 25.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  156</span> </div>
+<div class="line"><span class="lineno">  157</span>    <span class="comment">// Staff</span></div>
+<div class="line"><span class="lineno">  158</span>    <span class="keywordtype">float</span> staffChance = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(3000, OOC_PPM);</div>
+<div class="line"><span class="lineno">  159</span>    EXPECT_NEAR(staffChance, 30.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  160</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
+
+</div>
+</div>
+<a id="ae3a783720b4fd8de30af2daa8a46968d" name="ae3a783720b4fd8de30af2daa8a46968d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae3a783720b4fd8de30af2daa8a46968d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">PPMFormula_BasicCalculation&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   47</span>{</div>
+<div class="line"><span class="lineno">   48</span>    <span class="comment">// Formula: (WeaponSpeed * PPM) / 600.0f</span></div>
+<div class="line"><span class="lineno">   49</span>    <span class="comment">// 2500ms * 6 PPM / 600 = 25%</span></div>
+<div class="line"><span class="lineno">   50</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(2500, 6.0f);</div>
+<div class="line"><span class="lineno">   51</span>    EXPECT_NEAR(result, 25.0f, 0.01f);</div>
+<div class="line"><span class="lineno">   52</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
+
+</div>
+</div>
+<a id="a408cefc1b2d32154333df6ee02554cfb" name="a408cefc1b2d32154333df6ee02554cfb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a408cefc1b2d32154333df6ee02554cfb">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">PPMFormula_FastWeapon_HigherChancePerSwing&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   55</span>{</div>
+<div class="line"><span class="lineno">   56</span>    <span class="comment">// Fast dagger (1.4 sec = 1400ms), 6 PPM</span></div>
+<div class="line"><span class="lineno">   57</span>    <span class="comment">// 1400 * 6 / 600 = 14%</span></div>
+<div class="line"><span class="lineno">   58</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(1400, 6.0f);</div>
+<div class="line"><span class="lineno">   59</span>    EXPECT_NEAR(result, 14.0f, 0.01f);</div>
+<div class="line"><span class="lineno">   60</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
+
+</div>
+</div>
+<a id="aee2d794fc0d42fdf6fa96deefd0f7ef3" name="aee2d794fc0d42fdf6fa96deefd0f7ef3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aee2d794fc0d42fdf6fa96deefd0f7ef3">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">PPMFormula_NegativePPM_ReturnsZero&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   85</span>{</div>
+<div class="line"><span class="lineno">   86</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(2500, -1.0f);</div>
+<div class="line"><span class="lineno">   87</span>    EXPECT_FLOAT_EQ(result, 0.0f);</div>
+<div class="line"><span class="lineno">   88</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
+
+</div>
+</div>
+<a id="ac17243ceceb68ae78be97f22188bdf48" name="ac17243ceceb68ae78be97f22188bdf48"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac17243ceceb68ae78be97f22188bdf48">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">PPMFormula_SlowWeapon_LowerChancePerSwing&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   63</span>{</div>
+<div class="line"><span class="lineno">   64</span>    <span class="comment">// Slow 2H (3.3 sec = 3300ms), 6 PPM</span></div>
+<div class="line"><span class="lineno">   65</span>    <span class="comment">// 3300 * 6 / 600 = 33%</span></div>
+<div class="line"><span class="lineno">   66</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(3300, 6.0f);</div>
+<div class="line"><span class="lineno">   67</span>    EXPECT_NEAR(result, 33.0f, 0.01f);</div>
+<div class="line"><span class="lineno">   68</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
+
+</div>
+</div>
+<a id="adf12a2820af1538b7fd5b997f86b9c36" name="adf12a2820af1538b7fd5b997f86b9c36"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adf12a2820af1538b7fd5b997f86b9c36">&#9670;&#160;</a></span>TEST_F() <span class="overload">[11/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">PPMFormula_VerySlowWeapon&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   71</span>{</div>
+<div class="line"><span class="lineno">   72</span>    <span class="comment">// Very slow weapon (3.8 sec = 3800ms), 6 PPM</span></div>
+<div class="line"><span class="lineno">   73</span>    <span class="comment">// 3800 * 6 / 600 = 38%</span></div>
+<div class="line"><span class="lineno">   74</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(3800, 6.0f);</div>
+<div class="line"><span class="lineno">   75</span>    EXPECT_NEAR(result, 38.0f, 0.01f);</div>
+<div class="line"><span class="lineno">   76</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
+
+</div>
+</div>
+<a id="a7b4b316b40f2c8520f3fc928bdaf7db7" name="a7b4b316b40f2c8520f3fc928bdaf7db7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7b4b316b40f2c8520f3fc928bdaf7db7">&#9670;&#160;</a></span>TEST_F() <span class="overload">[12/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">PPMFormula_WithNegativeModifier&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   99</span>{</div>
+<div class="line"><span class="lineno">  100</span>    <span class="comment">// 2500ms, 6 PPM - 2 PPM modifier = 4 effective PPM</span></div>
+<div class="line"><span class="lineno">  101</span>    <span class="comment">// 2500 * 4 / 600 = 16.67%</span></div>
+<div class="line"><span class="lineno">  102</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(2500, 6.0f, -2.0f);</div>
+<div class="line"><span class="lineno">  103</span>    EXPECT_NEAR(result, 16.67f, 0.01f);</div>
+<div class="line"><span class="lineno">  104</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
+
+</div>
+</div>
+<a id="adb660bd4a3e222dfc26ea9a15ff261ef" name="adb660bd4a3e222dfc26ea9a15ff261ef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adb660bd4a3e222dfc26ea9a15ff261ef">&#9670;&#160;</a></span>TEST_F() <span class="overload">[13/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">PPMFormula_WithPositiveModifier&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   91</span>{</div>
+<div class="line"><span class="lineno">   92</span>    <span class="comment">// 2500ms, 6 PPM + 2 PPM modifier = 8 effective PPM</span></div>
+<div class="line"><span class="lineno">   93</span>    <span class="comment">// 2500 * 8 / 600 = 33.33%</span></div>
+<div class="line"><span class="lineno">   94</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(2500, 6.0f, 2.0f);</div>
+<div class="line"><span class="lineno">   95</span>    EXPECT_NEAR(result, 33.33f, 0.01f);</div>
+<div class="line"><span class="lineno">   96</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
+
+</div>
+</div>
+<a id="ab8926bcff4bd558ffd6975cca56094af" name="ab8926bcff4bd558ffd6975cca56094af"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab8926bcff4bd558ffd6975cca56094af">&#9670;&#160;</a></span>TEST_F() <span class="overload">[14/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">PPMFormula_ZeroPPM_ReturnsZero&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   79</span>{</div>
+<div class="line"><span class="lineno">   80</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(2500, 0.0f);</div>
+<div class="line"><span class="lineno">   81</span>    EXPECT_FLOAT_EQ(result, 0.0f);</div>
+<div class="line"><span class="lineno">   82</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
+
+</div>
+</div>
+<a id="a8937afbe525924e8a161bb7de0f75363" name="a8937afbe525924e8a161bb7de0f75363"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8937afbe525924e8a161bb7de0f75363">&#9670;&#160;</a></span>TEST_F() <span class="overload">[15/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ShapeshiftBug_BearForm_ProtoDelayInflatesChance&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  304</span>{</div>
+<div class="line"><span class="lineno">  305</span>    <span class="comment">// Bear Form with 3.6s staff: proto-&gt;Delay = 3600, GetAttackTime = 2500</span></div>
+<div class="line"><span class="lineno">  306</span>    <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> STAFF_DELAY = <a class="code hl_variable" href="../../d4/d02/a29500.html#acffda28a662863f651d0aae5587300cd">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>;</div>
+<div class="line"><span class="lineno">  307</span>    <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BEAR_SPEED = <a class="code hl_variable" href="../../d4/d02/a29500.html#a0030bcefe26a228bb36f5b3913fa1e48">ProcChanceTestHelper::FORM_SPEED_BEAR</a>;</div>
+<div class="line"><span class="lineno">  308</span>    <span class="keyword">constexpr</span> <span class="keywordtype">float</span> MONGOOSE_PPM = 1.0f;</div>
+<div class="line"><span class="lineno">  309</span> </div>
+<div class="line"><span class="lineno">  310</span>    _unit-&gt;SetAttackTime(0, BEAR_SPEED);</div>
+<div class="line"><span class="lineno">  311</span> </div>
+<div class="line"><span class="lineno">  312</span>    <span class="keywordtype">float</span> buggyChance = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(STAFF_DELAY, MONGOOSE_PPM);</div>
+<div class="line"><span class="lineno">  313</span>    <span class="keywordtype">float</span> correctChance = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(BEAR_SPEED, MONGOOSE_PPM);</div>
+<div class="line"><span class="lineno">  314</span> </div>
+<div class="line"><span class="lineno">  315</span>    <span class="keywordtype">float</span> buggyEffectivePPM = <a class="code hl_function" href="../../d4/d02/a29500.html#a050a7405275f53b24207e5a94f0f2dcd">ProcChanceTestHelper::CalculateEffectivePPM</a>(buggyChance, BEAR_SPEED);</div>
+<div class="line"><span class="lineno">  316</span>    <span class="keywordtype">float</span> correctEffectivePPM = <a class="code hl_function" href="../../d4/d02/a29500.html#a050a7405275f53b24207e5a94f0f2dcd">ProcChanceTestHelper::CalculateEffectivePPM</a>(correctChance, BEAR_SPEED);</div>
+<div class="line"><span class="lineno">  317</span> </div>
+<div class="line"><span class="lineno">  318</span>    <span class="comment">// Buggy: 1.44 PPM instead of 1.0</span></div>
+<div class="line"><span class="lineno">  319</span>    EXPECT_NEAR(buggyEffectivePPM, 1.44f, 0.01f)</div>
+<div class="line"><span class="lineno">  320</span>        &lt;&lt; <span class="stringliteral">&quot;Bug: Bear Form Mongoose procs 1.44 times/min instead of 1.0&quot;</span>;</div>
+<div class="line"><span class="lineno">  321</span>    EXPECT_NEAR(correctEffectivePPM, MONGOOSE_PPM, 0.01f)</div>
+<div class="line"><span class="lineno">  322</span>        &lt;&lt; <span class="stringliteral">&quot;Fix: Bear Form Mongoose should proc exactly 1.0 times/min&quot;</span>;</div>
+<div class="line"><span class="lineno">  323</span>}</div>
+<div class="ttc" id="aa04337_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa29500_html_a0030bcefe26a228bb36f5b3913fa1e48"><div class="ttname"><a href="../../d4/d02/a29500.html#a0030bcefe26a228bb36f5b3913fa1e48">ProcChanceTestHelper::FORM_SPEED_BEAR</a></div><div class="ttdeci">static constexpr uint32 FORM_SPEED_BEAR</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:196</div></div>
+<div class="ttc" id="aa29500_html_a050a7405275f53b24207e5a94f0f2dcd"><div class="ttname"><a href="../../d4/d02/a29500.html#a050a7405275f53b24207e5a94f0f2dcd">ProcChanceTestHelper::CalculateEffectivePPM</a></div><div class="ttdeci">static float CalculateEffectivePPM(float chancePerSwing, uint32 actualSwingSpeedMs)</div><div class="ttdoc">Simulate effective procs per minute.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:208</div></div>
+<div class="ttc" id="aa29500_html_acffda28a662863f651d0aae5587300cd"><div class="ttname"><a href="../../d4/d02/a29500.html#acffda28a662863f651d0aae5587300cd">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a></div><div class="ttdeci">static constexpr uint32 WEAPON_SPEED_STAFF</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:190</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00208">ProcChanceTestHelper::CalculateEffectivePPM()</a>, <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>, <a class="el" href="../../#l00196">ProcChanceTestHelper::FORM_SPEED_BEAR</a>, and <a class="el" href="../../#l00190">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>.</p>
+
+</div>
+</div>
+<a id="aa9d6bf7b0b381063c82d2eb7e7b32881" name="aa9d6bf7b0b381063c82d2eb7e7b32881"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa9d6bf7b0b381063c82d2eb7e7b32881">&#9670;&#160;</a></span>TEST_F() <span class="overload">[16/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ShapeshiftBug_CatForm_EffectivePPMIs3Point6x&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  281</span>{</div>
+<div class="line"><span class="lineno">  282</span>    <span class="comment">// Cat Form attacks every 1.0s (60 swings/min)</span></div>
+<div class="line"><span class="lineno">  283</span>    <span class="comment">// With the buggy 6.0% chance per swing: 60 * 0.06 = 3.6 procs/min</span></div>
+<div class="line"><span class="lineno">  284</span>    <span class="comment">// With the correct 1.67% chance: 60 * 0.0167 = 1.0 procs/min</span></div>
+<div class="line"><span class="lineno">  285</span>    <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> STAFF_DELAY = <a class="code hl_variable" href="../../d4/d02/a29500.html#acffda28a662863f651d0aae5587300cd">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>;</div>
+<div class="line"><span class="lineno">  286</span>    <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CAT_SPEED = <a class="code hl_variable" href="../../d4/d02/a29500.html#a32a5ea319a6b7b7d64c997345fddf5a8">ProcChanceTestHelper::FORM_SPEED_CAT</a>;</div>
+<div class="line"><span class="lineno">  287</span>    <span class="keyword">constexpr</span> <span class="keywordtype">float</span> MONGOOSE_PPM = 1.0f;</div>
+<div class="line"><span class="lineno">  288</span> </div>
+<div class="line"><span class="lineno">  289</span>    <span class="keywordtype">float</span> buggyChance = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(STAFF_DELAY, MONGOOSE_PPM);</div>
+<div class="line"><span class="lineno">  290</span>    <span class="keywordtype">float</span> correctChance = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(CAT_SPEED, MONGOOSE_PPM);</div>
+<div class="line"><span class="lineno">  291</span> </div>
+<div class="line"><span class="lineno">  292</span>    <span class="keywordtype">float</span> buggyEffectivePPM = <a class="code hl_function" href="../../d4/d02/a29500.html#a050a7405275f53b24207e5a94f0f2dcd">ProcChanceTestHelper::CalculateEffectivePPM</a>(buggyChance, CAT_SPEED);</div>
+<div class="line"><span class="lineno">  293</span>    <span class="keywordtype">float</span> correctEffectivePPM = <a class="code hl_function" href="../../d4/d02/a29500.html#a050a7405275f53b24207e5a94f0f2dcd">ProcChanceTestHelper::CalculateEffectivePPM</a>(correctChance, CAT_SPEED);</div>
+<div class="line"><span class="lineno">  294</span> </div>
+<div class="line"><span class="lineno">  295</span>    <span class="comment">// Buggy: effective PPM is 3.6 instead of 1.0</span></div>
+<div class="line"><span class="lineno">  296</span>    EXPECT_NEAR(buggyEffectivePPM, 3.6f, 0.01f)</div>
+<div class="line"><span class="lineno">  297</span>        &lt;&lt; <span class="stringliteral">&quot;Bug: Cat Form Mongoose procs 3.6 times/min instead of 1.0&quot;</span>;</div>
+<div class="line"><span class="lineno">  298</span>    <span class="comment">// Correct: effective PPM matches the intended value</span></div>
+<div class="line"><span class="lineno">  299</span>    EXPECT_NEAR(correctEffectivePPM, MONGOOSE_PPM, 0.01f)</div>
+<div class="line"><span class="lineno">  300</span>        &lt;&lt; <span class="stringliteral">&quot;Fix: Cat Form Mongoose should proc exactly 1.0 times/min&quot;</span>;</div>
+<div class="line"><span class="lineno">  301</span>}</div>
+<div class="ttc" id="aa29500_html_a32a5ea319a6b7b7d64c997345fddf5a8"><div class="ttname"><a href="../../d4/d02/a29500.html#a32a5ea319a6b7b7d64c997345fddf5a8">ProcChanceTestHelper::FORM_SPEED_CAT</a></div><div class="ttdeci">static constexpr uint32 FORM_SPEED_CAT</div><div class="ttdoc">Shapeshift form base attack speeds (from SpellShapeshiftForm.dbc)</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:195</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00208">ProcChanceTestHelper::CalculateEffectivePPM()</a>, <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>, <a class="el" href="../../#l00195">ProcChanceTestHelper::FORM_SPEED_CAT</a>, and <a class="el" href="../../#l00190">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>.</p>
+
+</div>
+</div>
+<a id="a8d7e22c4c996419c0bdd6afe8ac51449" name="a8d7e22c4c996419c0bdd6afe8ac51449"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8d7e22c4c996419c0bdd6afe8ac51449">&#9670;&#160;</a></span>TEST_F() <span class="overload">[17/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ShapeshiftBug_CatForm_FieryWeapon6PPM&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  326</span>{</div>
+<div class="line"><span class="lineno">  327</span>    <span class="comment">// Fiery Weapon (6 PPM) in Cat Form with 3.6s staff</span></div>
+<div class="line"><span class="lineno">  328</span>    <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> STAFF_DELAY = <a class="code hl_variable" href="../../d4/d02/a29500.html#acffda28a662863f651d0aae5587300cd">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>;</div>
+<div class="line"><span class="lineno">  329</span>    <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CAT_SPEED = <a class="code hl_variable" href="../../d4/d02/a29500.html#a32a5ea319a6b7b7d64c997345fddf5a8">ProcChanceTestHelper::FORM_SPEED_CAT</a>;</div>
+<div class="line"><span class="lineno">  330</span>    <span class="keyword">constexpr</span> <span class="keywordtype">float</span> FIERY_PPM = 6.0f;</div>
+<div class="line"><span class="lineno">  331</span> </div>
+<div class="line"><span class="lineno">  332</span>    <span class="keywordtype">float</span> buggyChance = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(STAFF_DELAY, FIERY_PPM);</div>
+<div class="line"><span class="lineno">  333</span>    <span class="keywordtype">float</span> correctChance = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(CAT_SPEED, FIERY_PPM);</div>
+<div class="line"><span class="lineno">  334</span> </div>
+<div class="line"><span class="lineno">  335</span>    <span class="keywordtype">float</span> buggyEffectivePPM = <a class="code hl_function" href="../../d4/d02/a29500.html#a050a7405275f53b24207e5a94f0f2dcd">ProcChanceTestHelper::CalculateEffectivePPM</a>(buggyChance, CAT_SPEED);</div>
+<div class="line"><span class="lineno">  336</span>    <span class="keywordtype">float</span> correctEffectivePPM = <a class="code hl_function" href="../../d4/d02/a29500.html#a050a7405275f53b24207e5a94f0f2dcd">ProcChanceTestHelper::CalculateEffectivePPM</a>(correctChance, CAT_SPEED);</div>
+<div class="line"><span class="lineno">  337</span> </div>
+<div class="line"><span class="lineno">  338</span>    <span class="comment">// Buggy: 36% chance per swing → 21.6 procs/min instead of 6.0</span></div>
+<div class="line"><span class="lineno">  339</span>    EXPECT_NEAR(buggyChance, 36.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  340</span>    EXPECT_NEAR(correctChance, 10.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  341</span>    EXPECT_NEAR(buggyEffectivePPM, 21.6f, 0.01f)</div>
+<div class="line"><span class="lineno">  342</span>        &lt;&lt; <span class="stringliteral">&quot;Bug: Cat Form Fiery Weapon procs 21.6 times/min instead of 6.0&quot;</span>;</div>
+<div class="line"><span class="lineno">  343</span>    EXPECT_NEAR(correctEffectivePPM, FIERY_PPM, 0.01f)</div>
+<div class="line"><span class="lineno">  344</span>        &lt;&lt; <span class="stringliteral">&quot;Fix: Cat Form Fiery Weapon should proc exactly 6.0 times/min&quot;</span>;</div>
+<div class="line"><span class="lineno">  345</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00208">ProcChanceTestHelper::CalculateEffectivePPM()</a>, <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>, <a class="el" href="../../#l00195">ProcChanceTestHelper::FORM_SPEED_CAT</a>, and <a class="el" href="../../#l00190">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>.</p>
+
+</div>
+</div>
+<a id="ad0f75a757355e651e5657c020795869c" name="ad0f75a757355e651e5657c020795869c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad0f75a757355e651e5657c020795869c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[18/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ShapeshiftBug_CatForm_ProtoDelayInflatesChance&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  257</span>{</div>
+<div class="line"><span class="lineno">  258</span>    <span class="comment">// Druid in Cat Form with a 3.6s staff equipped</span></div>
+<div class="line"><span class="lineno">  259</span>    <span class="comment">// proto-&gt;Delay = 3600ms (the staff), GetAttackTime = 1000ms (Cat Form)</span></div>
+<div class="line"><span class="lineno">  260</span>    <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> STAFF_DELAY = <a class="code hl_variable" href="../../d4/d02/a29500.html#acffda28a662863f651d0aae5587300cd">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>;</div>
+<div class="line"><span class="lineno">  261</span>    <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CAT_SPEED = <a class="code hl_variable" href="../../d4/d02/a29500.html#a32a5ea319a6b7b7d64c997345fddf5a8">ProcChanceTestHelper::FORM_SPEED_CAT</a>;</div>
+<div class="line"><span class="lineno">  262</span>    <span class="keyword">constexpr</span> <span class="keywordtype">float</span> MONGOOSE_PPM = 1.0f;</div>
+<div class="line"><span class="lineno">  263</span> </div>
+<div class="line"><span class="lineno">  264</span>    _unit-&gt;SetAttackTime(0, CAT_SPEED);</div>
+<div class="line"><span class="lineno">  265</span> </div>
+<div class="line"><span class="lineno">  266</span>    <span class="keywordtype">float</span> buggyChance = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(STAFF_DELAY, MONGOOSE_PPM);</div>
+<div class="line"><span class="lineno">  267</span>    <span class="keywordtype">float</span> correctChance = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(CAT_SPEED, MONGOOSE_PPM);</div>
+<div class="line"><span class="lineno">  268</span> </div>
+<div class="line"><span class="lineno">  269</span>    <span class="comment">// proto-&gt;Delay gives 3600 * 1 / 600 = 6.0% per swing</span></div>
+<div class="line"><span class="lineno">  270</span>    EXPECT_NEAR(buggyChance, 6.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  271</span>    <span class="comment">// GetAttackTime gives 1000 * 1 / 600 = 1.67% per swing</span></div>
+<div class="line"><span class="lineno">  272</span>    EXPECT_NEAR(correctChance, 1.67f, 0.01f);</div>
+<div class="line"><span class="lineno">  273</span> </div>
+<div class="line"><span class="lineno">  274</span>    <span class="comment">// The bug inflates chance per swing by weapon_speed / form_speed</span></div>
+<div class="line"><span class="lineno">  275</span>    EXPECT_NEAR(buggyChance / correctChance,</div>
+<div class="line"><span class="lineno">  276</span>        <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(STAFF_DELAY) / <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(CAT_SPEED), 0.01f)</div>
+<div class="line"><span class="lineno">  277</span>        &lt;&lt; <span class="stringliteral">&quot;Bug inflates per-swing chance by ratio of weapon speed to form speed&quot;</span>;</div>
+<div class="line"><span class="lineno">  278</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>, <a class="el" href="../../#l00195">ProcChanceTestHelper::FORM_SPEED_CAT</a>, and <a class="el" href="../../#l00190">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>.</p>
+
+</div>
+</div>
+<a id="a0692ae371dd7ec0e8127647ab490da56" name="a0692ae371dd7ec0e8127647ab490da56"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0692ae371dd7ec0e8127647ab490da56">&#9670;&#160;</a></span>TEST_F() <span class="overload">[19/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ShapeshiftBug_ItemSpellPath_AlreadyCorrect&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  348</span>{</div>
+<div class="line"><span class="lineno">  349</span>    <span class="comment">// The item spell PPM path (line ~7308) already uses GetAttackTime.</span></div>
+<div class="line"><span class="lineno">  350</span>    <span class="comment">// Verify that using GetAttackTime gives correct PPM for all forms.</span></div>
+<div class="line"><span class="lineno">  351</span>    <span class="keyword">constexpr</span> <span class="keywordtype">float</span> PPM = 1.0f;</div>
+<div class="line"><span class="lineno">  352</span> </div>
+<div class="line"><span class="lineno">  353</span>    <span class="keyword">struct </span>FormScenario</div>
+<div class="line"><span class="lineno">  354</span>    {</div>
+<div class="line"><span class="lineno">  355</span>        <span class="keyword">const</span> <span class="keywordtype">char</span>* name;</div>
+<div class="line"><span class="lineno">  356</span>        <a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> formSpeed;</div>
+<div class="line"><span class="lineno">  357</span>    };</div>
+<div class="line"><span class="lineno">  358</span> </div>
+<div class="line"><span class="lineno">  359</span>    FormScenario scenarios[] = {</div>
+<div class="line"><span class="lineno">  360</span>        {<span class="stringliteral">&quot;Normal (3.6s weapon)&quot;</span>, <a class="code hl_variable" href="../../d4/d02/a29500.html#acffda28a662863f651d0aae5587300cd">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>},</div>
+<div class="line"><span class="lineno">  361</span>        {<span class="stringliteral">&quot;Cat Form&quot;</span>, <a class="code hl_variable" href="../../d4/d02/a29500.html#a32a5ea319a6b7b7d64c997345fddf5a8">ProcChanceTestHelper::FORM_SPEED_CAT</a>},</div>
+<div class="line"><span class="lineno">  362</span>        {<span class="stringliteral">&quot;Bear Form&quot;</span>, <a class="code hl_variable" href="../../d4/d02/a29500.html#a0030bcefe26a228bb36f5b3913fa1e48">ProcChanceTestHelper::FORM_SPEED_BEAR</a>},</div>
+<div class="line"><span class="lineno">  363</span>    };</div>
+<div class="line"><span class="lineno">  364</span> </div>
+<div class="line"><span class="lineno">  365</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; scenario : scenarios)</div>
+<div class="line"><span class="lineno">  366</span>    {</div>
+<div class="line"><span class="lineno">  367</span>        _unit-&gt;SetAttackTime(0, scenario.formSpeed);</div>
+<div class="line"><span class="lineno">  368</span> </div>
+<div class="line"><span class="lineno">  369</span>        <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(</div>
+<div class="line"><span class="lineno">  370</span>            _unit-&gt;GetAttackTime(0), PPM);</div>
+<div class="line"><span class="lineno">  371</span>        <span class="keywordtype">float</span> effectivePPM = <a class="code hl_function" href="../../d4/d02/a29500.html#a050a7405275f53b24207e5a94f0f2dcd">ProcChanceTestHelper::CalculateEffectivePPM</a>(</div>
+<div class="line"><span class="lineno">  372</span>            chance, scenario.formSpeed);</div>
+<div class="line"><span class="lineno">  373</span> </div>
+<div class="line"><span class="lineno">  374</span>        EXPECT_NEAR(effectivePPM, PPM, 0.01f)</div>
+<div class="line"><span class="lineno">  375</span>            &lt;&lt; scenario.name &lt;&lt; <span class="stringliteral">&quot;: GetAttackTime-based PPM should always match intended PPM&quot;</span>;</div>
+<div class="line"><span class="lineno">  376</span>    }</div>
+<div class="line"><span class="lineno">  377</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00208">ProcChanceTestHelper::CalculateEffectivePPM()</a>, <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>, <a class="el" href="../../#l00196">ProcChanceTestHelper::FORM_SPEED_BEAR</a>, <a class="el" href="../../#l00195">ProcChanceTestHelper::FORM_SPEED_CAT</a>, and <a class="el" href="../../#l00190">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>.</p>
+
+</div>
+</div>
+<a id="aa1421e922e607bf83d6348d8cfb3e61c" name="aa1421e922e607bf83d6348d8cfb3e61c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa1421e922e607bf83d6348d8cfb3e61c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[20/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ShapeshiftBug_NonShifted_NoDiscrepancy&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  241</span>{</div>
+<div class="line"><span class="lineno">  242</span>    <span class="comment">// A warrior with a 3.6s weapon: proto-&gt;Delay == GetAttackTime()</span></div>
+<div class="line"><span class="lineno">  243</span>    <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WEAPON_DELAY = <a class="code hl_variable" href="../../d4/d02/a29500.html#acffda28a662863f651d0aae5587300cd">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>;</div>
+<div class="line"><span class="lineno">  244</span>    <span class="keyword">constexpr</span> <span class="keywordtype">float</span> MONGOOSE_PPM = 1.0f;</div>
+<div class="line"><span class="lineno">  245</span> </div>
+<div class="line"><span class="lineno">  246</span>    _unit-&gt;SetAttackTime(0, WEAPON_DELAY);</div>
+<div class="line"><span class="lineno">  247</span> </div>
+<div class="line"><span class="lineno">  248</span>    <span class="keywordtype">float</span> chanceFromProtoDelay = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(WEAPON_DELAY, MONGOOSE_PPM);</div>
+<div class="line"><span class="lineno">  249</span>    <span class="keywordtype">float</span> chanceFromGetAttackTime = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(</div>
+<div class="line"><span class="lineno">  250</span>        _unit-&gt;GetAttackTime(0), MONGOOSE_PPM);</div>
+<div class="line"><span class="lineno">  251</span> </div>
+<div class="line"><span class="lineno">  252</span>    EXPECT_FLOAT_EQ(chanceFromProtoDelay, chanceFromGetAttackTime)</div>
+<div class="line"><span class="lineno">  253</span>        &lt;&lt; <span class="stringliteral">&quot;Non-shapeshifted: proto-&gt;Delay and GetAttackTime() should be identical&quot;</span>;</div>
+<div class="line"><span class="lineno">  254</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>, and <a class="el" href="../../#l00190">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>.</p>
+
+</div>
+</div>
+<a id="a0ecc1d1a3fe097523b683612714be585" name="a0ecc1d1a3fe097523b683612714be585"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ecc1d1a3fe097523b683612714be585">&#9670;&#160;</a></span>TEST_F() <span class="overload">[21/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">UnitStub_GetPPMProcChance_CustomWeaponSpeed&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  118</span>{</div>
+<div class="line"><span class="lineno">  119</span>    _unit-&gt;SetAttackTime(0, 2500); <span class="comment">// BASE_ATTACK</span></div>
+<div class="line"><span class="lineno">  120</span>    <span class="keywordtype">float</span> result = _unit-&gt;GetPPMProcChance(_unit-&gt;GetAttackTime(0), 6.0f);</div>
+<div class="line"><span class="lineno">  121</span>    EXPECT_NEAR(result, 25.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  122</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ab62c7f868fef4a454b48e828cfc97bc1" name="ab62c7f868fef4a454b48e828cfc97bc1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab62c7f868fef4a454b48e828cfc97bc1">&#9670;&#160;</a></span>TEST_F() <span class="overload">[22/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">UnitStub_GetPPMProcChance_DefaultWeaponSpeed&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  111</span>{</div>
+<div class="line"><span class="lineno">  112</span>    <span class="comment">// Default weapon speed is 2000ms</span></div>
+<div class="line"><span class="lineno">  113</span>    <span class="keywordtype">float</span> result = _unit-&gt;GetPPMProcChance(2000, 6.0f);</div>
+<div class="line"><span class="lineno">  114</span>    EXPECT_NEAR(result, 20.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  115</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="aa3f155d3e40e3d9a72b9aab37e02c2d5" name="aa3f155d3e40e3d9a72b9aab37e02c2d5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa3f155d3e40e3d9a72b9aab37e02c2d5">&#9670;&#160;</a></span>TEST_F() <span class="overload">[23/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">UnitStub_GetPPMProcChance_ModifierNotAppliedWithoutSpellId&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  133</span>{</div>
+<div class="line"><span class="lineno">  134</span>    _unit-&gt;SetPPMModifier(12345, 2.0f);</div>
+<div class="line"><span class="lineno">  135</span>    <span class="comment">// Without spell ID, modifier is not applied</span></div>
+<div class="line"><span class="lineno">  136</span>    <span class="keywordtype">float</span> result = _unit-&gt;GetPPMProcChance(2500, 6.0f, 0);</div>
+<div class="line"><span class="lineno">  137</span>    EXPECT_NEAR(result, 25.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  138</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a89e1be04b18f0a1379f66db5f18f84cd" name="a89e1be04b18f0a1379f66db5f18f84cd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a89e1be04b18f0a1379f66db5f18f84cd">&#9670;&#160;</a></span>TEST_F() <span class="overload">[24/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">UnitStub_GetPPMProcChance_WithPPMModifier&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  125</span>{</div>
+<div class="line"><span class="lineno">  126</span>    _unit-&gt;SetPPMModifier(12345, 2.0f); <span class="comment">// Spell ID 12345 has +2 PPM modifier</span></div>
+<div class="line"><span class="lineno">  127</span>    <span class="keywordtype">float</span> result = _unit-&gt;GetPPMProcChance(2500, 6.0f, 12345);</div>
+<div class="line"><span class="lineno">  128</span>    <span class="comment">// 2500 * (6 + 2) / 600 = 33.33%</span></div>
+<div class="line"><span class="lineno">  129</span>    EXPECT_NEAR(result, 33.33f, 0.01f);</div>
+<div class="line"><span class="lineno">  130</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a5a2221ed60add2ea6f41efa43ba1caf5" name="a5a2221ed60add2ea6f41efa43ba1caf5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5a2221ed60add2ea6f41efa43ba1caf5">&#9670;&#160;</a></span>TEST_F() <span class="overload">[25/25]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d77/a29680.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">WindfuryWeapon_PPM2_VariousWeaponSpeeds&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  181</span>{</div>
+<div class="line"><span class="lineno">  182</span>    <span class="comment">// Windfury Weapon: 2 PPM (low PPM for testing)</span></div>
+<div class="line"><span class="lineno">  183</span>    <span class="keyword">constexpr</span> <span class="keywordtype">float</span> WF_PPM = 2.0f;</div>
+<div class="line"><span class="lineno">  184</span> </div>
+<div class="line"><span class="lineno">  185</span>    <span class="comment">// Fast dagger</span></div>
+<div class="line"><span class="lineno">  186</span>    <span class="keywordtype">float</span> daggerChance = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(1400, WF_PPM);</div>
+<div class="line"><span class="lineno">  187</span>    EXPECT_NEAR(daggerChance, 4.67f, 0.01f);</div>
+<div class="line"><span class="lineno">  188</span> </div>
+<div class="line"><span class="lineno">  189</span>    <span class="comment">// Slow 2H weapon</span></div>
+<div class="line"><span class="lineno">  190</span>    <span class="keywordtype">float</span> twoHanderChance = <a class="code hl_function" href="../../d4/d02/a29500.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(3300, WF_PPM);</div>
+<div class="line"><span class="lineno">  191</span>    EXPECT_NEAR(twoHanderChance, 11.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  192</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../db/db4/a04835.html">mainpage.md</a></li>
-    <li class="footer">Generated on Mon Feb 16 2026 21:01:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../db/db4/a04835.html">SpellProcPPMTest.cpp</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:14:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

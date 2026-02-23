@@ -1,6 +1,5 @@
 var a23384 =
 [
-    [ "HandleDummy", "da/d37/a23384.html#a3347413822ce083085bcf1418fbdbae2", null ],
-    [ "PrepareSpellScript", "da/d37/a23384.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
-    [ "Register", "da/d37/a23384.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
+    [ "npc_invisible_tractor_beam_source", "da/d37/a23384.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
+    [ "IsSummonedBy", "da/d37/a23384.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
 ];

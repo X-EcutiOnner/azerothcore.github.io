@@ -1,4 +1,5 @@
 var a28224 =
 [
-    [ "ID", "d2/da1/a28224.html#a7d31bf2a11559873fc410d4cb32c5f54", null ]
+    [ "go_dragonflayer_cage", "d2/da1/a28224.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
+    [ "OnGossipHello", "d2/da1/a28224.html#a542530a0b84879b21a4b9982cf4300d0", null ]
 ];

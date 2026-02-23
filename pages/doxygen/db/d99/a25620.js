@@ -1,7 +1,8 @@
 var a25620 =
 [
-    [ "HandleOnEffectApply", "db/d99/a25620.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
-    [ "HandleOnEffectRemove", "db/d99/a25620.html#a094d788d157474a9683387d5c340538f", null ],
-    [ "PrepareAuraScript", "db/d99/a25620.html#aad378b8c45f11af51faf9128878c01df", null ],
-    [ "Register", "db/d99/a25620.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
+    [ "CheckProc", "db/d99/a25620.html#ae0b0a45ddc782a523394e30414e0b2ba", null ],
+    [ "HandleProc", "db/d99/a25620.html#a9cb849a8ea8afb45cc1df4d260542937", null ],
+    [ "PrepareAuraScript", "db/d99/a25620.html#af65fc845e6625b1f0a4f4b88ba6db46e", null ],
+    [ "Register", "db/d99/a25620.html#acc5c7607ea7a23b66d1db6cb1a38833e", null ],
+    [ "Validate", "db/d99/a25620.html#a03621fd67cd9179ccc37a53c4d2056d9", null ]
 ];

@@ -1,5 +1,6 @@
 var a27608 =
 [
-    [ "go_hive_pod", "d0/d60/a27608.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
-    [ "OnGossipHello", "d0/d60/a27608.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
+    [ "FilterTargets", "d0/d60/a27608.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
+    [ "PrepareSpellScript", "d0/d60/a27608.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
+    [ "Register", "d0/d60/a27608.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
 ];

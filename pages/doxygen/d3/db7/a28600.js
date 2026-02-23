@@ -1,7 +1,7 @@
 var a28600 =
 [
-    [ "Id", "d3/db7/a28600.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
-    [ "MaxLevel", "d3/db7/a28600.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
-    [ "Modifier", "d3/db7/a28600.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
-    [ "StatMod", "d3/db7/a28600.html#ab639dd94c53707ca160e13f71342730d", null ]
+    [ "npc_flameshocker", "d3/db7/a28600.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
+    [ "JustDied", "d3/db7/a28600.html#aba94a5bcec75c649049d5816a53ace58", null ],
+    [ "Reset", "d3/db7/a28600.html#a13cb88e2b33df2d910fb73053684b420", null ],
+    [ "UpdateAI", "d3/db7/a28600.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
 ];

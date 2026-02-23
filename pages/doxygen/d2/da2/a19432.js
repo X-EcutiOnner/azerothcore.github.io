@@ -1,6 +1,6 @@
 var a19432 =
 [
-    [ "boss_thaddius_summonAI", "df/dc2/a19436.html", "df/dc2/a19436" ],
-    [ "boss_thaddius_summon", "d2/da2/a19432.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
-    [ "GetAI", "d2/da2/a19432.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
+    [ "boss_gothikAI", "df/dc2/a19436.html", "df/dc2/a19436" ],
+    [ "boss_gothik", "d2/da2/a19432.html#a0c3ee990a1caf020e9a4be000f0b77e0", null ],
+    [ "GetAI", "d2/da2/a19432.html#aea7aec86c4132521fb7b9b6e87baf289", null ]
 ];

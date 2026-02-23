@@ -1,9 +1,7 @@
 var a20196 =
 [
-    [ "Absorb", "d2/d3f/a20196.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
-    [ "CalculateAmount", "d2/d3f/a20196.html#a9166627cbaa536405975444c4ef601de", null ],
-    [ "Load", "d2/d3f/a20196.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
-    [ "PrepareAuraScript", "d2/d3f/a20196.html#aa5793741c2f8179db68a9fb1222a9085", null ],
-    [ "Register", "d2/d3f/a20196.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
-    [ "_absorbPct", "d2/d3f/a20196.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
+    [ "npc_storm_beacon_spawn", "d2/d3f/a20196.html#a999b6421a0ef6eec2987716a60352a5e", null ],
+    [ "UpdateAI", "d2/d3f/a20196.html#a93dbd7a26d6333f18329142280cc743d", null ],
+    [ "_amount", "d2/d3f/a20196.html#acb5d1f2b6590da32f36882339729c4e9", null ],
+    [ "_checkTimer", "d2/d3f/a20196.html#a9717b52f26045707fd852b955d29a5e6", null ]
 ];

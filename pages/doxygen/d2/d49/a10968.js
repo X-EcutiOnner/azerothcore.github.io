@@ -1,9 +1,7 @@
 var a10968 =
 [
-    [ "LevelUpInfo", "d2/d49/a10968.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
-    [ "Write", "d2/d49/a10968.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
-    [ "HealthDelta", "d2/d49/a10968.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
-    [ "Level", "d2/d49/a10968.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
-    [ "PowerDelta", "d2/d49/a10968.html#a697da64ac234c24fe73e68d408697ee6", null ],
-    [ "StatDelta", "d2/d49/a10968.html#a580e4a3cd77631e960b7753542375d6d", null ]
+    [ "GuildBankLogQueryResults", "d2/d49/a10968.html#a878f9545b3141a327de85771de4f1779", null ],
+    [ "Write", "d2/d49/a10968.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
+    [ "Entry", "d2/d49/a10968.html#a5f3704df5311f06833c3243201d35930", null ],
+    [ "Tab", "d2/d49/a10968.html#a214db612bb08e557dd41d3962c827dca", null ]
 ];

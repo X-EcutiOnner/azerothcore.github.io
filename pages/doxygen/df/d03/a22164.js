@@ -1,8 +1,6 @@
 var a22164 =
 [
-    [ "HandleEffectApply", "df/d03/a22164.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
-    [ "HandleEffectPeriodic", "df/d03/a22164.html#a183976530ebf604656db12e41449427e", null ],
-    [ "PrepareAuraScript", "df/d03/a22164.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
-    [ "Register", "df/d03/a22164.html#a76be53d506933d4b3c758578b7c33d5f", null ],
-    [ "_posZ", "df/d03/a22164.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
+    [ "npc_time_lost_proto_drakeAI", "db/d02/a22168.html", "db/d02/a22168" ],
+    [ "npc_time_lost_proto_drake", "df/d03/a22164.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
+    [ "GetAI", "df/d03/a22164.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
 ];

@@ -1,10 +1,6 @@
 var a28512 =
 [
-    [ "ID", "d2/d60/a28512.html#a906c42770a619884f08b67e2870bff93", null ],
-    [ "reqarenapoints", "d2/d60/a28512.html#a5d45007a832d6120e29c7821c07646de", null ],
-    [ "reqarenaslot", "d2/d60/a28512.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
-    [ "reqhonorpoints", "d2/d60/a28512.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
-    [ "reqitem", "d2/d60/a28512.html#a9cba8872c909260a55dcfdf7f4726899", null ],
-    [ "reqitemcount", "d2/d60/a28512.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
-    [ "reqpersonalarenarating", "d2/d60/a28512.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
+    [ "npc_fireworkAI", "d3/d92/a28516.html", "d3/d92/a28516" ],
+    [ "npc_firework", "d2/d60/a28512.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
+    [ "GetAI", "d2/d60/a28512.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
 ];

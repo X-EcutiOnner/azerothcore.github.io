@@ -1,7 +1,9 @@
 var a28164 =
 [
-    [ "Displayid", "d4/d1d/a28164.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
-    [ "ExtendedDisplayInfoID", "d4/d1d/a28164.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
-    [ "ModelId", "d4/d1d/a28164.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
-    [ "scale", "d4/d1d/a28164.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
+    [ "go_gilded_brazierAI", "d4/d1d/a28164.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
+    [ "GossipHello", "d4/d1d/a28164.html#afac9e217c294e72ff5f2526422e6321e", null ],
+    [ "Initialize", "d4/d1d/a28164.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
+    [ "UpdateAI", "d4/d1d/a28164.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
+    [ "_events", "d4/d1d/a28164.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
+    [ "_playerGUID", "d4/d1d/a28164.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
 ];

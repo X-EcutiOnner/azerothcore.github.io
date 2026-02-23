@@ -1,11 +1,10 @@
 var a07528 =
 [
-    [ "BattlegroundSAScore", "d1/d8e/a07528.html#afb1312e304eee973740cfe208657c5b9", null ],
-    [ "BuildObjectivesBlock", "d1/d8e/a07528.html#a57bf8241b404571cda5a8e113c334eab", null ],
-    [ "GetAttr1", "d1/d8e/a07528.html#aa31cd91ede928c57cd201dba61f7f585", null ],
-    [ "GetAttr2", "d1/d8e/a07528.html#aba47bb1ec440f405bfde8513c60ae576", null ],
-    [ "UpdateScore", "d1/d8e/a07528.html#a169a2a0a51edb6564e98c4b55f3e8a3b", null ],
-    [ "BattlegroundSA", "d1/d8e/a07528.html#ab31c13442be48941f5dab4214b95cde9", null ],
-    [ "DemolishersDestroyed", "d1/d8e/a07528.html#ac49c28efa42cfad7232268de4be45e66", null ],
-    [ "GatesDestroyed", "d1/d8e/a07528.html#aeb1310b64150dd51f91722574a9dd3fc", null ]
+    [ "SelectionPool", "d1/d8e/a07528.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
+    [ "AddGroup", "d1/d8e/a07528.html#a87fe4747536355ad7affda76640a082e", null ],
+    [ "GetPlayerCount", "d1/d8e/a07528.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
+    [ "Init", "d1/d8e/a07528.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
+    [ "KickGroup", "d1/d8e/a07528.html#a74fb708546a8612ca52b24b8472b71ef", null ],
+    [ "PlayerCount", "d1/d8e/a07528.html#a0c08c47f68dbb45175efc524f4553e16", null ],
+    [ "SelectedGroups", "d1/d8e/a07528.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
 ];

@@ -1,9 +1,8 @@
 var a26208 =
 [
-    [ "HandleAfterCast", "d6/d0d/a26208.html#afd2fbc51ac1e99789994021af36688f3", null ],
-    [ "HandleTriggerSpell", "d6/d0d/a26208.html#ae140ab00101f081454b55e12a7c54440", null ],
-    [ "Load", "d6/d0d/a26208.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
-    [ "PrepareSpellScript", "d6/d0d/a26208.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
-    [ "Register", "d6/d0d/a26208.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
-    [ "_triggerSpellId", "d6/d0d/a26208.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
+    [ "HandleRemove", "d6/d0d/a26208.html#a39651b35dc8c1336d09fc1542d68a743", null ],
+    [ "OnAuraInit", "d6/d0d/a26208.html#a411138e249027518aa7535ce06330ccf", null ],
+    [ "PrepareAuraScript", "d6/d0d/a26208.html#ad905a91348b92007774c69467c24d40e", null ],
+    [ "Register", "d6/d0d/a26208.html#ada9610c7d5d1236ccb509ac7ca4a8b3d", null ],
+    [ "Validate", "d6/d0d/a26208.html#a0f9174b9cf14dd8bf0c8c444600511b1", null ]
 ];

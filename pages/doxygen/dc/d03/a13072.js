@@ -1,8 +1,6 @@
 var a13072 =
 [
-    [ "CalcPeriodic", "dc/d03/a13072.html#a493609298c152df8216641ba2e5861cd", null ],
-    [ "PrepareAuraScript", "dc/d03/a13072.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
-    [ "Register", "dc/d03/a13072.html#a44002db5980dfc1db816cf61fd446491", null ],
-    [ "Update", "dc/d03/a13072.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
-    [ "Validate", "dc/d03/a13072.html#a060e189aaa4396681d42906b65c9196f", null ]
+    [ "HandleApply", "dc/d03/a13072.html#ac9f6f1927c9f66682892c32d4a431cc4", null ],
+    [ "PrepareAuraScript", "dc/d03/a13072.html#ae908ad87781553cc3bed05ea510a4447", null ],
+    [ "Register", "dc/d03/a13072.html#a391dff720ed9d2d48aa69e48e69ba8df", null ]
 ];

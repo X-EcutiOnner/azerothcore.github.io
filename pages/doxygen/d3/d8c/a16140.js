@@ -1,8 +1,10 @@
 var a16140 =
 [
-    [ "instance_ahnkahet_InstanceScript", "d3/d8c/a16140.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
-    [ "IsAllSpheresActivated", "d3/d8c/a16140.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
-    [ "OnGameObjectCreate", "d3/d8c/a16140.html#ad00fdc90a61e1c927323daa2149f8466", null ],
-    [ "SetData", "d3/d8c/a16140.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
-    [ "taldaramPlatform_GUID", "d3/d8c/a16140.html#a840ce69595c384be321c1167513d151e", null ]
+    [ "npc_ameAI", "d3/d8c/a16140.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
+    [ "JustDied", "d3/d8c/a16140.html#a9b77f94f112477509c3163945ceb8201", null ],
+    [ "JustSummoned", "d3/d8c/a16140.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
+    [ "Reset", "d3/d8c/a16140.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
+    [ "UpdateAI", "d3/d8c/a16140.html#a0a073e4c216985607aa51099044ff6c5", null ],
+    [ "WaypointReached", "d3/d8c/a16140.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
+    [ "DemoralizingShoutTimer", "d3/d8c/a16140.html#ab5d1786735adea4bce1bba8adf42a877", null ]
 ];

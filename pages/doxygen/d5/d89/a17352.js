@@ -1,6 +1,17 @@
 var a17352 =
 [
-    [ "npc_pos_martin_or_gorkun_secondAI", "da/d02/a17356.html", "da/d02/a17356" ],
-    [ "npc_pos_martin_or_gorkun_second", "d5/d89/a17352.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
-    [ "GetAI", "d5/d89/a17352.html#a180936e3bb98eb55d29ebd51350906c0", null ]
+    [ "npc_hor_lich_kingAI", "d5/d89/a17352.html#a689fd445286595780c3d842976a5913f", null ],
+    [ "DoAction", "d5/d89/a17352.html#a904a57d99527b6ff47d4f9ab8751a4a5", null ],
+    [ "JustSummoned", "d5/d89/a17352.html#aed675a5238ca6a6312d1758ecbe86aa2", null ],
+    [ "MovementInform", "d5/d89/a17352.html#aeeea82d3e5869e5f604314474533975c", null ],
+    [ "Reset", "d5/d89/a17352.html#a1f1bb445ea29daaf479e7171c96db901", null ],
+    [ "SpellHitTarget", "d5/d89/a17352.html#adcee3757198acfaf4fd4dc8765b86a98", null ],
+    [ "SummonedCreatureDespawn", "d5/d89/a17352.html#a1f3a49cd9e1f9c1013a7c5c2ead3bb3d", null ],
+    [ "UpdateAI", "d5/d89/a17352.html#a127cc66ea4804da51eb9069037b9ba33", null ],
+    [ "currentWall", "d5/d89/a17352.html#a13c505b17edf9f843c6c638802eb62aa", null ],
+    [ "div2", "d5/d89/a17352.html#a63a1741fba6e0fecaf9aac6b6c397acf", null ],
+    [ "events", "d5/d89/a17352.html#a06550732cba84da4cbd708d03a7bd6bb", null ],
+    [ "pInstance", "d5/d89/a17352.html#a5c8ce256ab8e71705bc8d84f08245417", null ],
+    [ "reqKillCount", "d5/d89/a17352.html#a69da5432ed2b4ef9944fbd19c97d404d", null ],
+    [ "summons", "d5/d89/a17352.html#af55dd229cd141ffab701c6ab77304127", null ]
 ];

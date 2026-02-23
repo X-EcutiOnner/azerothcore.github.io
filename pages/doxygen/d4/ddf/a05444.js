@@ -1,8 +1,4 @@
 var a05444 =
 [
-    [ "LogOperation", "d4/ddf/a05444.html#a19e5e4731bd71697876110348f86d737", null ],
-    [ "~LogOperation", "d4/ddf/a05444.html#aae305e293044badac1a628edd501ed35", null ],
-    [ "call", "d4/ddf/a05444.html#a966a4bfb45430860fa5be56fe8b48f79", null ],
-    [ "logger", "d4/ddf/a05444.html#af1d8611d116a3575e59a99e8cba5fc84", null ],
-    [ "msg", "d4/ddf/a05444.html#a665effc48367f396f3e714f5d3d56d75", null ]
+    [ "_element", "d4/ddf/a05444.html#a403e08c7eab60aab7441041845da8882", null ]
 ];

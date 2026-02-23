@@ -1,6 +1,7 @@
 var a21180 =
 [
-    [ "HandleScript", "d4/d69/a21180.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
-    [ "PrepareSpellScript", "d4/d69/a21180.html#ab2a4155f6029850c61e84d7c180addae", null ],
-    [ "Register", "d4/d69/a21180.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
+    [ "HandleScript", "d4/d69/a21180.html#a47b991c20c523d151893fefd9d487714", null ],
+    [ "PrepareSpellScript", "d4/d69/a21180.html#ab2db47d0a2694c0734db600e810e190d", null ],
+    [ "Register", "d4/d69/a21180.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
+    [ "Validate", "d4/d69/a21180.html#a89d601f6036fe38238767281f3427e54", null ]
 ];

@@ -1,7 +1,12 @@
 var a13976 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "dd/dc7/a13980.html", "dd/dc7/a13980" ],
-    [ "npc_lady_sylvanas_windrunner", "dc/d4c/a13976.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
-    [ "GetAI", "dc/d4c/a13976.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
-    [ "OnQuestReward", "dc/d4c/a13976.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
+    [ "boss_twilight_corrupter", "dc/d4c/a13976.html#afe140d6231d9ad8543e17c4a8a8230c0", null ],
+    [ "InitializeAI", "dc/d4c/a13976.html#afe06461e9f3e1549da6631d2f89406c4", null ],
+    [ "JustEngagedWith", "dc/d4c/a13976.html#a84803153e7e7d5d7efe0106139214b1f", null ],
+    [ "KilledUnit", "dc/d4c/a13976.html#aa18d2fc90e1ccd322ec9d3128ba206d2", null ],
+    [ "MoveInLineOfSight", "dc/d4c/a13976.html#a637cdd43f2f9a4f773b4b8e8f3c88730", null ],
+    [ "Reset", "dc/d4c/a13976.html#a27720f58056206c09bce41ae50018a83", null ],
+    [ "UpdateAI", "dc/d4c/a13976.html#a580fbaa55a5c0193c1ef2c6b281d8d9e", null ],
+    [ "_introSpoken", "dc/d4c/a13976.html#a1924750c9d41ed588a29aace3c40742d", null ],
+    [ "_scheduler", "dc/d4c/a13976.html#a6c49eee2be24199418096cc48c50d384", null ]
 ];

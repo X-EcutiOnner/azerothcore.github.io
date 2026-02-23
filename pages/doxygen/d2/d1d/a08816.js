@@ -1,19 +1,13 @@
 var a08816 =
 [
-    [ "absorb", "d2/d1d/a08816.html#a7298afcc76b856c5427f5e123030a797", null ],
-    [ "attacker", "d2/d1d/a08816.html#aebe14d91f54da0b25a07ff3d59df6ec2", null ],
-    [ "attackType", "d2/d1d/a08816.html#afd18e43bd78a9144c02ba0493921c506", null ],
-    [ "blocked_amount", "d2/d1d/a08816.html#a0ce1e1ff406264c7283979fe4fc70148", null ],
-    [ "cleanDamage", "d2/d1d/a08816.html#a452ac9be1f6e9c10616a62a128573358", null ],
-    [ "damage", "d2/d1d/a08816.html#ab95e1e4746b966f1301d997fdac99c94", null ],
-    [ "damages", "d2/d1d/a08816.html#a37dd2425295b6a21050e76ec67e624dd", null ],
-    [ "damageSchoolMask", "d2/d1d/a08816.html#a01f1cc6661ef5f4e7d657ba59d06108f", null ],
-    [ "HitInfo", "d2/d1d/a08816.html#ae42a8a3750633d94e661ac9d5a9aa8df", null ],
-    [ "hitOutCome", "d2/d1d/a08816.html#a114dcabcb8bff10c2452cb27e75da115", null ],
-    [ "procAttacker", "d2/d1d/a08816.html#a21bed657c7e3d2338f30fb5237884d5f", null ],
-    [ "procEx", "d2/d1d/a08816.html#ad629b9aad4d88247ef4dfaadd79dc1c8", null ],
-    [ "procVictim", "d2/d1d/a08816.html#a236b06649e715fab9dbddb074ef2f075", null ],
-    [ "resist", "d2/d1d/a08816.html#ab57d348b500203649bf532405cd9ceec", null ],
-    [ "target", "d2/d1d/a08816.html#af2976fa1245b3e3177dcbac464345829", null ],
-    [ "TargetState", "d2/d1d/a08816.html#a73ef30ca87444da617b8c2e05b70e9fc", null ]
+    [ "BGData", "d2/d1d/a08816.html#a91ccfa5183ef5996fb4bdf78567c09ba", null ],
+    [ "bgAfkReportedCount", "d2/d1d/a08816.html#ab7374e7b8fc6607dd6b4f04385e80ca3", null ],
+    [ "bgAfkReportedTimer", "d2/d1d/a08816.html#a51f8f4e05dc0224982af9a61d2dfae36", null ],
+    [ "bgAfkReporter", "d2/d1d/a08816.html#a94047ac71676b7914e058aac8a8cb0ea", null ],
+    [ "bgInstanceID", "d2/d1d/a08816.html#a8eff26fd78b5763501a3f5460de4e551", null ],
+    [ "bgIsRandom", "d2/d1d/a08816.html#a6f25dd5c9dc6afcc7964a5d0b7d1444c", null ],
+    [ "bgQueueSlot", "d2/d1d/a08816.html#a1c77bcf4135d994f0801558adca02f40", null ],
+    [ "bgTeamId", "d2/d1d/a08816.html#ac97f7cafb6ae69a12588e40328cdc0cb", null ],
+    [ "bgTypeID", "d2/d1d/a08816.html#a3398da6a15fd66cdd8dc172997d3786b", null ],
+    [ "isInvited", "d2/d1d/a08816.html#a8e23a1664eedf33b2195d2d8d5b01b82", null ]
 ];

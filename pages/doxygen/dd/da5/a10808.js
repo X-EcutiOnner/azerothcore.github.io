@@ -1,5 +1,7 @@
 var a10808 =
 [
-    [ "GuildBankRemainingWithdrawMoneyQuery", "dd/da5/a10808.html#afb45f29d4a280c4cc02ee2ab3c055824", null ],
-    [ "Read", "dd/da5/a10808.html#a3e03f6f23a989d6f105c397f8ecfeb87", null ]
+    [ "Flags", "dd/da5/a10808.html#a46bfcae3e4788d6ea4e6ee71b8a16edd", null ],
+    [ "TabFlags", "dd/da5/a10808.html#af9c7b68d1bd48da88f65fa40a01ccc72", null ],
+    [ "TabWithdrawItemLimit", "dd/da5/a10808.html#af16392abbddf27a8b21fd21d998501e6", null ],
+    [ "WithdrawGoldLimit", "dd/da5/a10808.html#a3dc50115a24b686d3a2fa9e28a7042af", null ]
 ];

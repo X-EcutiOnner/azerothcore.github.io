@@ -1,7 +1,10 @@
 var a15944 =
 [
-    [ "npc_lakota_windsongAI", "d4/dfe/a15944.html#a922172a38ca75adef66a2653eda7fa98", null ],
-    [ "DoSpawnBandits", "d4/dfe/a15944.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
-    [ "Reset", "d4/dfe/a15944.html#aee7a86275f93021e0e5db249b636bcd4", null ],
-    [ "WaypointReached", "d4/dfe/a15944.html#a6435c8b1521206789131889e5fa527a6", null ]
+    [ "npc_omenAI", "d4/dfe/a15944.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
+    [ "JustDied", "d4/dfe/a15944.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
+    [ "JustEngagedWith", "d4/dfe/a15944.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
+    [ "MovementInform", "d4/dfe/a15944.html#a92e59bde1f0da2ee537a836304a3c385", null ],
+    [ "SpellHit", "d4/dfe/a15944.html#a4e3960d506fd0435de055a365906a9c9", null ],
+    [ "UpdateAI", "d4/dfe/a15944.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
+    [ "events", "d4/dfe/a15944.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
 ];

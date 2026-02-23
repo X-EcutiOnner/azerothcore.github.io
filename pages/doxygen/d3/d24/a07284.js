@@ -1,8 +1,11 @@
 var a07284 =
 [
-    [ "nbTowerCannonBottom", "d3/d24/a07284.html#a06e8dcf63efd928b72f3ec7d433ccb89", null ],
-    [ "nbTurretTop", "d3/d24/a07284.html#a5a728dccad89da190131cd93b62390b7", null ],
-    [ "TowerCannonBottom", "d3/d24/a07284.html#a21fa09356b3349bf45865aa3f0920268", null ],
-    [ "towerEntry", "d3/d24/a07284.html#a37e171a06a6e7bf5c0832417c597c2e1", null ],
-    [ "TurretTop", "d3/d24/a07284.html#a6849ba6967fa275950da9fec16df9bec", null ]
+    [ "count", "d3/d24/a07284.html#a3fc02342ec2cdd81de7ef378edf30b54", null ],
+    [ "enchants", "d3/d24/a07284.html#af076353ee7ce0fd3665e13449c248629", null ],
+    [ "entry", "d3/d24/a07284.html#aa3332c4ea806c944c9c4e95ddb31efa9", null ],
+    [ "itemName", "d3/d24/a07284.html#a9184925bad61ad58f35c4e4b3dbccd81", null ],
+    [ "itemTemplate", "d3/d24/a07284.html#a356adde7f6574f697e02e6657f325baa", null ],
+    [ "randomPropertyId", "d3/d24/a07284.html#aa1c185178359f1cbd5afcedd38a0e69f", null ],
+    [ "spellCharges", "d3/d24/a07284.html#a73f9647b66aa316bdb97c50a20bc826f", null ],
+    [ "suffixFactor", "d3/d24/a07284.html#a650acd7b902fd4038f1ea384f595b058", null ]
 ];

@@ -1,6 +1,13 @@
 var a16512 =
 [
-    [ "FilterTargets", "d0/d3d/a16512.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
-    [ "PrepareSpellScript", "d0/d3d/a16512.html#a5ede43deece629a38f5482280983b59a", null ],
-    [ "Register", "d0/d3d/a16512.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
+    [ "boss_twilight_halionAI", "d0/d3d/a16512.html#aab05bab963d603c3cb70edfd62a84b49", null ],
+    [ "DamageTaken", "d0/d3d/a16512.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
+    [ "EnterEvadeMode", "d0/d3d/a16512.html#af7076251fc1fad1dc259d747934910e2", null ],
+    [ "JustDied", "d0/d3d/a16512.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
+    [ "JustEngagedWith", "d0/d3d/a16512.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
+    [ "KilledUnit", "d0/d3d/a16512.html#ada770d51f63c841c500ffc3197a7a89f", null ],
+    [ "Reset", "d0/d3d/a16512.html#a9c945841926d5b08f37c6a720dd25a14", null ],
+    [ "UpdateAI", "d0/d3d/a16512.html#a6ab1d215ed077883781b0c0188282c5e", null ],
+    [ "_events", "d0/d3d/a16512.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
+    [ "_instance", "d0/d3d/a16512.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
 ];

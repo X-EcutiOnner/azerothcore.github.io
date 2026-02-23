@@ -1,8 +1,5 @@
 var a16248 =
 [
-    [ "boss_sartharion_shadron", "d8/ddd/a16248.html#ab4a7991c276a12af0b54936c271bfd0b", null ],
-    [ "ExecuteEvent", "d8/ddd/a16248.html#a1f1a235d4d5654e273ef821ebf962491", null ],
-    [ "HandleExtraEvent", "d8/ddd/a16248.html#afb4a35f62360db229960bd64925a1eb9", null ],
-    [ "Reset", "d8/ddd/a16248.html#a8511eb55a486665a248d555337c25002", null ],
-    [ "SummonedCreatureDies", "d8/ddd/a16248.html#a3967c70698675d2c925a1a0366bf1d00", null ]
+    [ "achievement_respect_your_elders", "d8/ddd/a16248.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
+    [ "OnCheck", "d8/ddd/a16248.html#a770922be3ab19848f7a8f43a82d78b88", null ]
 ];

@@ -1,6 +1,6 @@
 var a16624 =
 [
-    [ "npc_nerubian_burrowerAI", "d6/d41/a16628.html", "d6/d41/a16628" ],
-    [ "npc_nerubian_burrower", "da/d26/a16624.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
-    [ "GetAI", "da/d26/a16624.html#a145ebac6f95f9190429b9bfa37e23312", null ]
+    [ "HandleScript", "da/d26/a16624.html#a647f39eb125537cd7545ab4115be1091", null ],
+    [ "PrepareSpellScript", "da/d26/a16624.html#a55dec84643f9bd536c7c73b5909ab303", null ],
+    [ "Register", "da/d26/a16624.html#a0077abbe11092b9636c3bb7b5c367946", null ]
 ];

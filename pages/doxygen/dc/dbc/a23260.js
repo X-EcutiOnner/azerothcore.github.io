@@ -1,8 +1,9 @@
 var a23260 =
 [
-    [ "Absorb", "dc/dbc/a23260.html#a1c054ce067a620e16611cbb9e784cee1", null ],
-    [ "CalculateAmount", "dc/dbc/a23260.html#abd828dd3493339db9c0613e960792941", null ],
-    [ "PrepareAuraScript", "dc/dbc/a23260.html#a1075139fc82cd8e1b30d4bc0f89fbfe0", null ],
-    [ "Register", "dc/dbc/a23260.html#a85840e7d27a7ed256c45de87f4486d45", null ],
-    [ "Update", "dc/dbc/a23260.html#afbf28fd4eb66899a424e0b542d561656", null ]
+    [ "boss_mennu_the_betrayer", "dc/dbc/a23260.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
+    [ "JustDied", "dc/dbc/a23260.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
+    [ "JustEngagedWith", "dc/dbc/a23260.html#a535b9af1677b8af50515818a18e88d27", null ],
+    [ "JustSummoned", "dc/dbc/a23260.html#a59949872270890ef794a77029074210b", null ],
+    [ "KilledUnit", "dc/dbc/a23260.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
+    [ "Reset", "dc/dbc/a23260.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
 ];

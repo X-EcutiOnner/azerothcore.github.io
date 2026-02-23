@@ -1,6 +1,8 @@
 var a21804 =
 [
-    [ "npc_thassarian2AI", "d8/d17/a21808.html", "d8/d17/a21808" ],
-    [ "npc_thassarian2", "d7/d04/a21804.html#a8a2f1e1595349e4fa9968e85f17d0468", null ],
-    [ "GetAI", "d7/d04/a21804.html#adb87c99f3375f88eca55b39e1cd0bbd5", null ]
+    [ "OnRemove", "d7/d04/a21804.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
+    [ "PrepareAuraScript", "d7/d04/a21804.html#a183b5a3b1332695e3c047bb63435389a", null ],
+    [ "Register", "d7/d04/a21804.html#aad41ab76cc0a882f272e8f79867a7015", null ],
+    [ "Validate", "d7/d04/a21804.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
+    [ "spellIds", "d7/d04/a21804.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
 ];

@@ -1,6 +1,6 @@
 var a12184 =
 [
-    [ "boss_anubshiahAI", "dc/d74/a12188.html", "dc/d74/a12188" ],
-    [ "boss_anubshiah", "dd/d14/a12184.html#a7176d98f966dac62f7ac1a10d3f2afa1", null ],
-    [ "GetAI", "dd/d14/a12184.html#a157420b5f0c4c05e7dc2ee327ef81cb9", null ]
+    [ "CapturedGroups", "dd/d14/a12184.html#a6842947e5fbe26c2c4aadc1209395902", null ],
+    [ "CurrentTemplate", "dd/d14/a12184.html#a6915499b95c29a00cde15c5a7f562158", null ],
+    [ "ZoneName", "dd/d14/a12184.html#a62633be7d11b2937b301e63f6d1e94e2", null ]
 ];

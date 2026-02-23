@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: boost Namespace Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellProcSpellTypeMaskTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,29 +105,451 @@ $(document).ready(function(){initNavTree('de/df4/a04844.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#namespaces">Namespaces</a>  </div>
-  <div class="headertitle"><div class="title">boost Namespace Reference</div></div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">SpellProcSpellTypeMaskTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">AuraScriptTestFramework.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
+</div>
+<p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:de/d25/a04846"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d25/a04846.html">asio</a></td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d08/a29684.html">SpellProcSpellTypeMaskTest</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Tests for SpellTypeMask calculation based on proc phase.  <a href="../../d2/d08/a29684.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d1/dcd/a04880"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dcd/a04880.html">filesystem</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d6/d2e/a04845"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d2e/a04845.html">posix_time</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d5/df2/a04932"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/df2/a04932.html">system</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a0e299f1164a6c1e0f315da2c5551e58a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df4/a04844.html#a0e299f1164a6c1e0f315da2c5551e58a">TEST_F</a> (<a class="el" href="../../d2/d08/a29684.html">SpellProcSpellTypeMaskTest</a>, CastPhase_UsesMaskAll)</td></tr>
+<tr class="separator:a0e299f1164a6c1e0f315da2c5551e58a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae1ae997d3f0f1ba7825ae4b2e5436d44"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df4/a04844.html#ae1ae997d3f0f1ba7825ae4b2e5436d44">TEST_F</a> (<a class="el" href="../../d2/d08/a29684.html">SpellProcSpellTypeMaskTest</a>, FinishPhase_UsesMaskAll_EvenWithNullDamageInfo)</td></tr>
+<tr class="separator:ae1ae997d3f0f1ba7825ae4b2e5436d44"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0b4b6b9b08a21068764a01b658ede70d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df4/a04844.html#a0b4b6b9b08a21068764a01b658ede70d">TEST_F</a> (<a class="el" href="../../d2/d08/a29684.html">SpellProcSpellTypeMaskTest</a>, HitPhase_WithDamage_UsesDamageType)</td></tr>
+<tr class="separator:a0b4b6b9b08a21068764a01b658ede70d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abd75b3776c8e55bbc898c408aad3f34d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df4/a04844.html#abd75b3776c8e55bbc898c408aad3f34d">TEST_F</a> (<a class="el" href="../../d2/d08/a29684.html">SpellProcSpellTypeMaskTest</a>, HitPhase_WithHeal_UsesHealType)</td></tr>
+<tr class="separator:abd75b3776c8e55bbc898c408aad3f34d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7a5da3689f4cd8516f8998a3eb8516f1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df4/a04844.html#a7a5da3689f4cd8516f8998a3eb8516f1">TEST_F</a> (<a class="el" href="../../d2/d08/a29684.html">SpellProcSpellTypeMaskTest</a>, HitPhase_NoDamageNoHeal_UsesNoDmgHeal)</td></tr>
+<tr class="separator:a7a5da3689f4cd8516f8998a3eb8516f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6ae8c3849f8042eeff0379c4ea6d2adc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df4/a04844.html#a6ae8c3849f8042eeff0379c4ea6d2adc">TEST_F</a> (<a class="el" href="../../d2/d08/a29684.html">SpellProcSpellTypeMaskTest</a>, KillingMachine_FinishPhase_MatchesDamageTypeMask)</td></tr>
+<tr class="memdesc:a6ae8c3849f8042eeff0379c4ea6d2adc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Regression test for Killing Machine (51124) proc consumption.  <a href="../../de/df4/a04844.html#a6ae8c3849f8042eeff0379c4ea6d2adc">More...</a><br /></td></tr>
+<tr class="separator:a6ae8c3849f8042eeff0379c4ea6d2adc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a790970fbe1cfb4df4e5ba38abf4c9bae"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df4/a04844.html#a790970fbe1cfb4df4e5ba38abf4c9bae">TEST_F</a> (<a class="el" href="../../d2/d08/a29684.html">SpellProcSpellTypeMaskTest</a>, KillingMachine_FullIntegration_ProcTriggers)</td></tr>
+<tr class="memdesc:a790970fbe1cfb4df4e5ba38abf4c9bae"><td class="mdescLeft">&#160;</td><td class="mdescRight">Verify FINISH phase works with actual CanSpellTriggerProcOnEvent.  <a href="../../de/df4/a04844.html#a790970fbe1cfb4df4e5ba38abf4c9bae">More...</a><br /></td></tr>
+<tr class="separator:a790970fbe1cfb4df4e5ba38abf4c9bae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab03489d280d80145880f52bc0a09c584"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df4/a04844.html#ab03489d280d80145880f52bc0a09c584">TEST_F</a> (<a class="el" href="../../d2/d08/a29684.html">SpellProcSpellTypeMaskTest</a>, KillingMachine_BugScenario_NoDmgHealFails)</td></tr>
+<tr class="memdesc:ab03489d280d80145880f52bc0a09c584"><td class="mdescLeft">&#160;</td><td class="mdescRight">Verify the bug scenario - FINISH phase with NO_DMG_HEAL fails.  <a href="../../de/df4/a04844.html#ab03489d280d80145880f52bc0a09c584">More...</a><br /></td></tr>
+<tr class="separator:ab03489d280d80145880f52bc0a09c584"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a0e299f1164a6c1e0f315da2c5551e58a" name="a0e299f1164a6c1e0f315da2c5551e58a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0e299f1164a6c1e0f315da2c5551e58a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d08/a29684.html">SpellProcSpellTypeMaskTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">CastPhase_UsesMaskAll&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   74</span>{</div>
+<div class="line"><span class="lineno">   75</span>    <span class="comment">// CAST phase should use MASK_ALL regardless of damage/heal info</span></div>
+<div class="line"><span class="lineno">   76</span>    <a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> result = CalculateSpellTypeMask(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d">PROC_SPELL_PHASE_CAST</a>, <span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">   77</span>    EXPECT_EQ(result, <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a>);</div>
+<div class="line"><span class="lineno">   78</span>}</div>
+<div class="ttc" id="aa00104_html_acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860"><div class="ttname"><a href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a></div><div class="ttdeci">@ PROC_SPELL_TYPE_MASK_ALL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:239</div></div>
+<div class="ttc" id="aa00104_html_addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d"><div class="ttname"><a href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d">PROC_SPELL_PHASE_CAST</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_CAST</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:245</div></div>
+<div class="ttc" id="aa04337_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00245">PROC_SPELL_PHASE_CAST</a>, and <a class="el" href="../../#l00239">PROC_SPELL_TYPE_MASK_ALL</a>.</p>
+
+</div>
+</div>
+<a id="ae1ae997d3f0f1ba7825ae4b2e5436d44" name="ae1ae997d3f0f1ba7825ae4b2e5436d44"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae1ae997d3f0f1ba7825ae4b2e5436d44">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d08/a29684.html">SpellProcSpellTypeMaskTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">FinishPhase_UsesMaskAll_EvenWithNullDamageInfo&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   81</span>{</div>
+<div class="line"><span class="lineno">   82</span>    <span class="comment">// FINISH phase should use MASK_ALL even when damageInfo is null</span></div>
+<div class="line"><span class="lineno">   83</span>    <span class="comment">// This is the key regression test - previously returned NO_DMG_HEAL</span></div>
+<div class="line"><span class="lineno">   84</span>    <a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> result = CalculateSpellTypeMask(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a>, <span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">   85</span>    EXPECT_EQ(result, <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a>);</div>
+<div class="line"><span class="lineno">   86</span> </div>
+<div class="line"><span class="lineno">   87</span>    <span class="comment">// Verify it includes DAMAGE type (required for procs like Killing Machine)</span></div>
+<div class="line"><span class="lineno">   88</span>    EXPECT_TRUE(result &amp; <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c">PROC_SPELL_TYPE_DAMAGE</a>);</div>
+<div class="line"><span class="lineno">   89</span>}</div>
+<div class="ttc" id="aa00104_html_acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c"><div class="ttname"><a href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c">PROC_SPELL_TYPE_DAMAGE</a></div><div class="ttdeci">@ PROC_SPELL_TYPE_DAMAGE</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:236</div></div>
+<div class="ttc" id="aa00104_html_addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b"><div class="ttname"><a href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_FINISH</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:247</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00247">PROC_SPELL_PHASE_FINISH</a>, <a class="el" href="../../#l00236">PROC_SPELL_TYPE_DAMAGE</a>, and <a class="el" href="../../#l00239">PROC_SPELL_TYPE_MASK_ALL</a>.</p>
+
+</div>
+</div>
+<a id="a7a5da3689f4cd8516f8998a3eb8516f1" name="a7a5da3689f4cd8516f8998a3eb8516f1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7a5da3689f4cd8516f8998a3eb8516f1">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d08/a29684.html">SpellProcSpellTypeMaskTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">HitPhase_NoDamageNoHeal_UsesNoDmgHeal&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  110</span>{</div>
+<div class="line"><span class="lineno">  111</span>    <span class="comment">// HIT phase with no damage/heal info should use NO_DMG_HEAL</span></div>
+<div class="line"><span class="lineno">  112</span>    <a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> result = CalculateSpellTypeMask(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a>, <span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  113</span>    EXPECT_EQ(result, <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527abf6eb95e7643dc725bf275f785ddbab5">PROC_SPELL_TYPE_NO_DMG_HEAL</a>);</div>
+<div class="line"><span class="lineno">  114</span>}</div>
+<div class="ttc" id="aa00104_html_acb2f59f82f5d44cf14104713821f0527abf6eb95e7643dc725bf275f785ddbab5"><div class="ttname"><a href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527abf6eb95e7643dc725bf275f785ddbab5">PROC_SPELL_TYPE_NO_DMG_HEAL</a></div><div class="ttdeci">@ PROC_SPELL_TYPE_NO_DMG_HEAL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:238</div></div>
+<div class="ttc" id="aa00104_html_addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34"><div class="ttname"><a href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_HIT</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:246</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00246">PROC_SPELL_PHASE_HIT</a>, and <a class="el" href="../../#l00238">PROC_SPELL_TYPE_NO_DMG_HEAL</a>.</p>
+
+</div>
+</div>
+<a id="a0b4b6b9b08a21068764a01b658ede70d" name="a0b4b6b9b08a21068764a01b658ede70d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0b4b6b9b08a21068764a01b658ede70d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d08/a29684.html">SpellProcSpellTypeMaskTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">HitPhase_WithDamage_UsesDamageType&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   92</span>{</div>
+<div class="line"><span class="lineno">   93</span>    <span class="keyword">auto</span>* spellInfo = CreateSpellInfo(12345, 15, 0);</div>
+<div class="line"><span class="lineno">   94</span>    <a class="code hl_class" href="../../d0/d96/a08924.html">DamageInfo</a> damageInfo(<span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, 100, spellInfo, <a class="code hl_enumvalue" href="../../dd/d90/a04127.html#aff6913cfd69489c107a071be9ec2ec8faf689d00ccf0d652cb5a148e64b7cb1ce">SPELL_SCHOOL_MASK_FROST</a>, <a class="code hl_enumvalue" href="../../d7/d46/a00890.html#ab0b8a9de485ea928c497ac0b5f9040b1a9308d3cdd6446af40814a12302809f54">SPELL_DIRECT_DAMAGE</a>);</div>
+<div class="line"><span class="lineno">   95</span> </div>
+<div class="line"><span class="lineno">   96</span>    <a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> result = CalculateSpellTypeMask(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a>, &amp;damageInfo, <span class="keyword">nullptr</span>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">   97</span>    EXPECT_EQ(result, <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c">PROC_SPELL_TYPE_DAMAGE</a>);</div>
+<div class="line"><span class="lineno">   98</span>}</div>
+<div class="ttc" id="aa00890_html_ab0b8a9de485ea928c497ac0b5f9040b1a9308d3cdd6446af40814a12302809f54"><div class="ttname"><a href="../../d7/d46/a00890.html#ab0b8a9de485ea928c497ac0b5f9040b1a9308d3cdd6446af40814a12302809f54">SPELL_DIRECT_DAMAGE</a></div><div class="ttdeci">@ SPELL_DIRECT_DAMAGE</div><div class="ttdef"><b>Definition:</b> Unit.h:256</div></div>
+<div class="ttc" id="aa04127_html_aff6913cfd69489c107a071be9ec2ec8faf689d00ccf0d652cb5a148e64b7cb1ce"><div class="ttname"><a href="../../dd/d90/a04127.html#aff6913cfd69489c107a071be9ec2ec8faf689d00ccf0d652cb5a148e64b7cb1ce">SPELL_SCHOOL_MASK_FROST</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_FROST</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:312</div></div>
+<div class="ttc" id="aa08924_html"><div class="ttname"><a href="../../d0/d96/a08924.html">DamageInfo</a></div><div class="ttdef"><b>Definition:</b> Unit.h:337</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00246">PROC_SPELL_PHASE_HIT</a>, <a class="el" href="../../#l00236">PROC_SPELL_TYPE_DAMAGE</a>, <a class="el" href="../../#l00256">SPELL_DIRECT_DAMAGE</a>, and <a class="el" href="../../#l00312">SPELL_SCHOOL_MASK_FROST</a>.</p>
+
+</div>
+</div>
+<a id="abd75b3776c8e55bbc898c408aad3f34d" name="abd75b3776c8e55bbc898c408aad3f34d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abd75b3776c8e55bbc898c408aad3f34d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d08/a29684.html">SpellProcSpellTypeMaskTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">HitPhase_WithHeal_UsesHealType&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  101</span>{</div>
+<div class="line"><span class="lineno">  102</span>    <span class="keyword">auto</span>* spellInfo = CreateSpellInfo(12345, 15, 0);</div>
+<div class="line"><span class="lineno">  103</span>    <a class="code hl_class" href="../../d1/d8e/a08928.html">HealInfo</a> healInfo(<span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, 100, spellInfo, <a class="code hl_enumvalue" href="../../dd/d90/a04127.html#aff6913cfd69489c107a071be9ec2ec8fae49f92fc02f6ffff92acedd16ffc4349">SPELL_SCHOOL_MASK_HOLY</a>);</div>
+<div class="line"><span class="lineno">  104</span> </div>
+<div class="line"><span class="lineno">  105</span>    <a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> result = CalculateSpellTypeMask(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a>, <span class="keyword">nullptr</span>, &amp;healInfo, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  106</span>    EXPECT_EQ(result, <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527a5da2de88220613d950d6304d8e97c4a3">PROC_SPELL_TYPE_HEAL</a>);</div>
+<div class="line"><span class="lineno">  107</span>}</div>
+<div class="ttc" id="aa00104_html_acb2f59f82f5d44cf14104713821f0527a5da2de88220613d950d6304d8e97c4a3"><div class="ttname"><a href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527a5da2de88220613d950d6304d8e97c4a3">PROC_SPELL_TYPE_HEAL</a></div><div class="ttdeci">@ PROC_SPELL_TYPE_HEAL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:237</div></div>
+<div class="ttc" id="aa04127_html_aff6913cfd69489c107a071be9ec2ec8fae49f92fc02f6ffff92acedd16ffc4349"><div class="ttname"><a href="../../dd/d90/a04127.html#aff6913cfd69489c107a071be9ec2ec8fae49f92fc02f6ffff92acedd16ffc4349">SPELL_SCHOOL_MASK_HOLY</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_HOLY</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:309</div></div>
+<div class="ttc" id="aa08928_html"><div class="ttname"><a href="../../d1/d8e/a08928.html">HealInfo</a></div><div class="ttdef"><b>Definition:</b> Unit.h:384</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00246">PROC_SPELL_PHASE_HIT</a>, <a class="el" href="../../#l00237">PROC_SPELL_TYPE_HEAL</a>, and <a class="el" href="../../#l00309">SPELL_SCHOOL_MASK_HOLY</a>.</p>
+
+</div>
+</div>
+<a id="ab03489d280d80145880f52bc0a09c584" name="ab03489d280d80145880f52bc0a09c584"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab03489d280d80145880f52bc0a09c584">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d08/a29684.html">SpellProcSpellTypeMaskTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">KillingMachine_BugScenario_NoDmgHealFails&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Verify the bug scenario - FINISH phase with NO_DMG_HEAL fails. </p>
+<p >This test documents the bug behavior: if FINISH phase incorrectly uses NO_DMG_HEAL spellTypeMask, Killing Machine style procs fail. </p>
+<div class="fragment"><div class="line"><span class="lineno">  202</span>{</div>
+<div class="line"><span class="lineno">  203</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../de/d6a/a29532.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  204</span>        .<a class="code hl_function" href="../../de/d6a/a29532.html#abf221ae8a8ef5e995bbe9b3f01f004c1">WithSpellFamilyName</a>(15)</div>
+<div class="line"><span class="lineno">  205</span>        .<a class="code hl_function" href="../../de/d6a/a29532.html#a57a1699a8238dd535a44908734e3c7fd">WithSpellFamilyMask</a>(<a class="code hl_class" href="../../d0/ddb/a05824.html">flag96</a>(2, 0, 0))</div>
+<div class="line"><span class="lineno">  206</span>        .<a class="code hl_function" href="../../de/d6a/a29532.html#acebcb2a676a7e8e6821854137e056fff">WithProcFlags</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>)</div>
+<div class="line"><span class="lineno">  207</span>        .<a class="code hl_function" href="../../de/d6a/a29532.html#aa0691e03294c5317fdd173d4dd70edc1">WithSpellTypeMask</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c">PROC_SPELL_TYPE_DAMAGE</a>) <span class="comment">// Requires DAMAGE</span></div>
+<div class="line"><span class="lineno">  208</span>        .<a class="code hl_function" href="../../de/d6a/a29532.html#ae7ddfcb398c2f5e52834bd74d25754dc">WithSpellPhaseMask</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a>)</div>
+<div class="line"><span class="lineno">  209</span>        .<a class="code hl_function" href="../../de/d6a/a29532.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  210</span> </div>
+<div class="line"><span class="lineno">  211</span>    <span class="keyword">auto</span>* icyTouchSpell = CreateSpellInfo(49909, 15, 2);</div>
+<div class="line"><span class="lineno">  212</span>    <a class="code hl_class" href="../../d0/d96/a08924.html">DamageInfo</a> damageInfo(<span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, 100, icyTouchSpell, <a class="code hl_enumvalue" href="../../dd/d90/a04127.html#aff6913cfd69489c107a071be9ec2ec8faf689d00ccf0d652cb5a148e64b7cb1ce">SPELL_SCHOOL_MASK_FROST</a>, <a class="code hl_enumvalue" href="../../d7/d46/a00890.html#ab0b8a9de485ea928c497ac0b5f9040b1a9308d3cdd6446af40814a12302809f54">SPELL_DIRECT_DAMAGE</a>);</div>
+<div class="line"><span class="lineno">  213</span> </div>
+<div class="line"><span class="lineno">  214</span>    <span class="comment">// Simulate the bug: FINISH phase with NO_DMG_HEAL (the old broken behavior)</span></div>
+<div class="line"><span class="lineno">  215</span>    <span class="keyword">auto</span> eventInfo = <a class="code hl_class" href="../../d3/d13/a29528.html">ProcEventInfoBuilder</a>()</div>
+<div class="line"><span class="lineno">  216</span>        .<a class="code hl_function" href="../../d3/d13/a29528.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>)</div>
+<div class="line"><span class="lineno">  217</span>        .<a class="code hl_function" href="../../d3/d13/a29528.html#ac8d9c890333158313fb6bd9bdcd14fcf">WithHitMask</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a>)</div>
+<div class="line"><span class="lineno">  218</span>        .<a class="code hl_function" href="../../d3/d13/a29528.html#aebac87d053e09dba16456a9f49322973">WithSpellTypeMask</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527abf6eb95e7643dc725bf275f785ddbab5">PROC_SPELL_TYPE_NO_DMG_HEAL</a>) <span class="comment">// Bug: wrong mask</span></div>
+<div class="line"><span class="lineno">  219</span>        .<a class="code hl_function" href="../../d3/d13/a29528.html#a2247bbb4936f6d48c4214641a5a466af">WithSpellPhaseMask</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a>)</div>
+<div class="line"><span class="lineno">  220</span>        .<a class="code hl_function" href="../../d3/d13/a29528.html#a4d207196177033340282dd33b11c9d82">WithDamageInfo</a>(&amp;damageInfo)</div>
+<div class="line"><span class="lineno">  221</span>        .<a class="code hl_function" href="../../d3/d13/a29528.html#ae0f8d3a43a218b4459db0aa3fee95bf0">Build</a>();</div>
+<div class="line"><span class="lineno">  222</span> </div>
+<div class="line"><span class="lineno">  223</span>    <span class="comment">// This should fail - documenting the bug behavior</span></div>
+<div class="line"><span class="lineno">  224</span>    EXPECT_FALSE(<a class="code hl_define" href="../../d0/dc2/a00104.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;CanSpellTriggerProcOnEvent(procEntry, eventInfo))</div>
+<div class="line"><span class="lineno">  225</span>        &lt;&lt; <span class="stringliteral">&quot;With NO_DMG_HEAL spellTypeMask, DAMAGE-requiring procs should NOT trigger (this was the bug)&quot;</span>;</div>
+<div class="line"><span class="lineno">  226</span>}</div>
+<div class="ttc" id="aa00104_html_a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799"><div class="ttname"><a href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a></div><div class="ttdeci">@ PROC_HIT_NORMAL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:254</div></div>
+<div class="ttc" id="aa00104_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../d0/dc2/a00104.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:814</div></div>
+<div class="ttc" id="aa00104_html_ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67"><div class="ttname"><a href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a></div><div class="ttdeci">@ PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:131</div></div>
+<div class="ttc" id="aa05824_html"><div class="ttname"><a href="../../d0/ddb/a05824.html">flag96</a></div><div class="ttdef"><b>Definition:</b> Util.h:442</div></div>
+<div class="ttc" id="aa29528_html"><div class="ttname"><a href="../../d3/d13/a29528.html">ProcEventInfoBuilder</a></div><div class="ttdoc">Builder class for creating ProcEventInfo test instances.</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:31</div></div>
+<div class="ttc" id="aa29528_html_a2247bbb4936f6d48c4214641a5a466af"><div class="ttname"><a href="../../d3/d13/a29528.html#a2247bbb4936f6d48c4214641a5a466af">ProcEventInfoBuilder::WithSpellPhaseMask</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithSpellPhaseMask(uint32 spellPhaseMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:69</div></div>
+<div class="ttc" id="aa29528_html_a4d207196177033340282dd33b11c9d82"><div class="ttname"><a href="../../d3/d13/a29528.html#a4d207196177033340282dd33b11c9d82">ProcEventInfoBuilder::WithDamageInfo</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithDamageInfo(DamageInfo *damageInfo)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:87</div></div>
+<div class="ttc" id="aa29528_html_a83de461b19bd737c5aa2e7fd3ad2a302"><div class="ttname"><a href="../../d3/d13/a29528.html#a83de461b19bd737c5aa2e7fd3ad2a302">ProcEventInfoBuilder::WithTypeMask</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithTypeMask(uint32 typeMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:57</div></div>
+<div class="ttc" id="aa29528_html_ac8d9c890333158313fb6bd9bdcd14fcf"><div class="ttname"><a href="../../d3/d13/a29528.html#ac8d9c890333158313fb6bd9bdcd14fcf">ProcEventInfoBuilder::WithHitMask</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithHitMask(uint32 hitMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:75</div></div>
+<div class="ttc" id="aa29528_html_ae0f8d3a43a218b4459db0aa3fee95bf0"><div class="ttname"><a href="../../d3/d13/a29528.html#ae0f8d3a43a218b4459db0aa3fee95bf0">ProcEventInfoBuilder::Build</a></div><div class="ttdeci">ProcEventInfo Build()</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:111</div></div>
+<div class="ttc" id="aa29528_html_aebac87d053e09dba16456a9f49322973"><div class="ttname"><a href="../../d3/d13/a29528.html#aebac87d053e09dba16456a9f49322973">ProcEventInfoBuilder::WithSpellTypeMask</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithSpellTypeMask(uint32 spellTypeMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:63</div></div>
+<div class="ttc" id="aa29532_html"><div class="ttname"><a href="../../de/d6a/a29532.html">SpellProcEntryBuilder</a></div><div class="ttdoc">Builder class for creating SpellProcEntry test instances.</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:141</div></div>
+<div class="ttc" id="aa29532_html_a2a69603215e9fa526304f420bd5a490c"><div class="ttname"><a href="../../de/d6a/a29532.html#a2a69603215e9fa526304f420bd5a490c">SpellProcEntryBuilder::Build</a></div><div class="ttdeci">SpellProcEntry Build() const</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:226</div></div>
+<div class="ttc" id="aa29532_html_a57a1699a8238dd535a44908734e3c7fd"><div class="ttname"><a href="../../de/d6a/a29532.html#a57a1699a8238dd535a44908734e3c7fd">SpellProcEntryBuilder::WithSpellFamilyMask</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithSpellFamilyMask(flag96 familyMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:160</div></div>
+<div class="ttc" id="aa29532_html_aa0691e03294c5317fdd173d4dd70edc1"><div class="ttname"><a href="../../de/d6a/a29532.html#aa0691e03294c5317fdd173d4dd70edc1">SpellProcEntryBuilder::WithSpellTypeMask</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithSpellTypeMask(uint32 spellTypeMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:172</div></div>
+<div class="ttc" id="aa29532_html_abf221ae8a8ef5e995bbe9b3f01f004c1"><div class="ttname"><a href="../../de/d6a/a29532.html#abf221ae8a8ef5e995bbe9b3f01f004c1">SpellProcEntryBuilder::WithSpellFamilyName</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithSpellFamilyName(uint32 familyName)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:154</div></div>
+<div class="ttc" id="aa29532_html_acebcb2a676a7e8e6821854137e056fff"><div class="ttname"><a href="../../de/d6a/a29532.html#acebcb2a676a7e8e6821854137e056fff">SpellProcEntryBuilder::WithProcFlags</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithProcFlags(uint32 procFlags)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:166</div></div>
+<div class="ttc" id="aa29532_html_ae7ddfcb398c2f5e52834bd74d25754dc"><div class="ttname"><a href="../../de/d6a/a29532.html#ae7ddfcb398c2f5e52834bd74d25754dc">SpellProcEntryBuilder::WithSpellPhaseMask</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithSpellPhaseMask(uint32 spellPhaseMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:178</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00111">ProcEventInfoBuilder::Build()</a>, <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00254">PROC_HIT_NORMAL</a>, <a class="el" href="../../#l00247">PROC_SPELL_PHASE_FINISH</a>, <a class="el" href="../../#l00236">PROC_SPELL_TYPE_DAMAGE</a>, <a class="el" href="../../#l00238">PROC_SPELL_TYPE_NO_DMG_HEAL</a>, <a class="el" href="../../#l00256">SPELL_DIRECT_DAMAGE</a>, <a class="el" href="../../#l00312">SPELL_SCHOOL_MASK_FROST</a>, <a class="el" href="../../#l00814">sSpellMgr</a>, <a class="el" href="../../#l00087">ProcEventInfoBuilder::WithDamageInfo()</a>, <a class="el" href="../../#l00075">ProcEventInfoBuilder::WithHitMask()</a>, <a class="el" href="../../#l00166">SpellProcEntryBuilder::WithProcFlags()</a>, <a class="el" href="../../#l00160">SpellProcEntryBuilder::WithSpellFamilyMask()</a>, <a class="el" href="../../#l00154">SpellProcEntryBuilder::WithSpellFamilyName()</a>, <a class="el" href="../../#l00069">ProcEventInfoBuilder::WithSpellPhaseMask()</a>, <a class="el" href="../../#l00178">SpellProcEntryBuilder::WithSpellPhaseMask()</a>, <a class="el" href="../../#l00063">ProcEventInfoBuilder::WithSpellTypeMask()</a>, <a class="el" href="../../#l00172">SpellProcEntryBuilder::WithSpellTypeMask()</a>, and <a class="el" href="../../#l00057">ProcEventInfoBuilder::WithTypeMask()</a>.</p>
+
+</div>
+</div>
+<a id="a6ae8c3849f8042eeff0379c4ea6d2adc" name="a6ae8c3849f8042eeff0379c4ea6d2adc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6ae8c3849f8042eeff0379c4ea6d2adc">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d08/a29684.html">SpellProcSpellTypeMaskTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">KillingMachine_FinishPhase_MatchesDamageTypeMask&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Regression test for Killing Machine (51124) proc consumption. </p>
+<p >Killing Machine has:</p><ul>
+<li>SpellTypeMask = 1 (PROC_SPELL_TYPE_DAMAGE)</li>
+<li>SpellPhaseMask = 4 (PROC_SPELL_PHASE_FINISH)</li>
+</ul>
+<p >When Icy Touch is cast, the FINISH phase event must have a spellTypeMask that includes DAMAGE for the proc to fire and consume the buff.</p>
+<p >The bug was: FINISH phase calculated spellTypeMask as NO_DMG_HEAL (4) because damageInfo was null, causing the proc check to fail. </p>
+<div class="fragment"><div class="line"><span class="lineno">  134</span>{</div>
+<div class="line"><span class="lineno">  135</span>    <span class="comment">// Killing Machine spell_proc entry</span></div>
+<div class="line"><span class="lineno">  136</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../de/d6a/a29532.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  137</span>        .<a class="code hl_function" href="../../de/d6a/a29532.html#abf221ae8a8ef5e995bbe9b3f01f004c1">WithSpellFamilyName</a>(15) <span class="comment">// SPELLFAMILY_DEATHKNIGHT</span></div>
+<div class="line"><span class="lineno">  138</span>        .<a class="code hl_function" href="../../de/d6a/a29532.html#a57a1699a8238dd535a44908734e3c7fd">WithSpellFamilyMask</a>(<a class="code hl_class" href="../../d0/ddb/a05824.html">flag96</a>(2, 6, 0)) <span class="comment">// Icy Touch, Frost Strike, Howling Blast</span></div>
+<div class="line"><span class="lineno">  139</span>        .<a class="code hl_function" href="../../de/d6a/a29532.html#acebcb2a676a7e8e6821854137e056fff">WithProcFlags</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a7986f32b9f36b5a364fda01d94accb26">PROC_FLAG_DONE_SPELL_MELEE_DMG_CLASS</a> | <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>)</div>
+<div class="line"><span class="lineno">  140</span>        .<a class="code hl_function" href="../../de/d6a/a29532.html#aa0691e03294c5317fdd173d4dd70edc1">WithSpellTypeMask</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c">PROC_SPELL_TYPE_DAMAGE</a>)</div>
+<div class="line"><span class="lineno">  141</span>        .<a class="code hl_function" href="../../de/d6a/a29532.html#ae7ddfcb398c2f5e52834bd74d25754dc">WithSpellPhaseMask</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a>)</div>
+<div class="line"><span class="lineno">  142</span>        .<a class="code hl_function" href="../../de/d6a/a29532.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aab159732a2ad05b51e240bb9860b72876">PROC_ATTR_REQ_SPELLMOD</a>)</div>
+<div class="line"><span class="lineno">  143</span>        .<a class="code hl_function" href="../../de/d6a/a29532.html#a6b8ecf0c38751be02b7003a7547d550f">WithCharges</a>(1)</div>
+<div class="line"><span class="lineno">  144</span>        .<a class="code hl_function" href="../../de/d6a/a29532.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  145</span> </div>
+<div class="line"><span class="lineno">  146</span>    <span class="comment">// Calculate what spellTypeMask FINISH phase would produce</span></div>
+<div class="line"><span class="lineno">  147</span>    <span class="comment">// (simulating Spell.cpp calling ProcSkillsAndAuras with nullptr damageInfo)</span></div>
+<div class="line"><span class="lineno">  148</span>    <a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> finishPhaseSpellTypeMask = CalculateSpellTypeMask(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a>, <span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  149</span> </div>
+<div class="line"><span class="lineno">  150</span>    <span class="comment">// Verify the calculated mask includes DAMAGE type</span></div>
+<div class="line"><span class="lineno">  151</span>    EXPECT_TRUE(finishPhaseSpellTypeMask &amp; <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c">PROC_SPELL_TYPE_DAMAGE</a>)</div>
+<div class="line"><span class="lineno">  152</span>        &lt;&lt; <span class="stringliteral">&quot;FINISH phase spellTypeMask must include PROC_SPELL_TYPE_DAMAGE for Killing Machine to work&quot;</span>;</div>
+<div class="line"><span class="lineno">  153</span> </div>
+<div class="line"><span class="lineno">  154</span>    <span class="comment">// Verify that the proc entry&#39;s SpellTypeMask requirement is satisfied</span></div>
+<div class="line"><span class="lineno">  155</span>    EXPECT_TRUE(finishPhaseSpellTypeMask &amp; procEntry.SpellTypeMask)</div>
+<div class="line"><span class="lineno">  156</span>        &lt;&lt; <span class="stringliteral">&quot;FINISH phase spellTypeMask (&quot;</span> &lt;&lt; finishPhaseSpellTypeMask</div>
+<div class="line"><span class="lineno">  157</span>        &lt;&lt; <span class="stringliteral">&quot;) must match Killing Machine&#39;s SpellTypeMask requirement (&quot;</span> &lt;&lt; procEntry.SpellTypeMask &lt;&lt; <span class="stringliteral">&quot;)&quot;</span>;</div>
+<div class="line"><span class="lineno">  158</span>}</div>
+<div class="ttc" id="aa00104_html_a7fd74f5d829c140285ca6ed18c0e136aab159732a2ad05b51e240bb9860b72876"><div class="ttname"><a href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aab159732a2ad05b51e240bb9860b72876">PROC_ATTR_REQ_SPELLMOD</a></div><div class="ttdeci">@ PROC_ATTR_REQ_SPELLMOD</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:276</div></div>
+<div class="ttc" id="aa00104_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a7986f32b9f36b5a364fda01d94accb26"><div class="ttname"><a href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a7986f32b9f36b5a364fda01d94accb26">PROC_FLAG_DONE_SPELL_MELEE_DMG_CLASS</a></div><div class="ttdeci">@ PROC_FLAG_DONE_SPELL_MELEE_DMG_CLASS</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:113</div></div>
+<div class="ttc" id="aa29532_html_a6b8ecf0c38751be02b7003a7547d550f"><div class="ttname"><a href="../../de/d6a/a29532.html#a6b8ecf0c38751be02b7003a7547d550f">SpellProcEntryBuilder::WithCharges</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithCharges(uint32 charges)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:220</div></div>
+<div class="ttc" id="aa29532_html_ab9585e517adc231979ca5b817a2f2142"><div class="ttname"><a href="../../de/d6a/a29532.html#ab9585e517adc231979ca5b817a2f2142">SpellProcEntryBuilder::WithAttributesMask</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithAttributesMask(uint32 attributesMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:190</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00276">PROC_ATTR_REQ_SPELLMOD</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00113">PROC_FLAG_DONE_SPELL_MELEE_DMG_CLASS</a>, <a class="el" href="../../#l00247">PROC_SPELL_PHASE_FINISH</a>, <a class="el" href="../../#l00236">PROC_SPELL_TYPE_DAMAGE</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, <a class="el" href="../../#l00220">SpellProcEntryBuilder::WithCharges()</a>, <a class="el" href="../../#l00166">SpellProcEntryBuilder::WithProcFlags()</a>, <a class="el" href="../../#l00160">SpellProcEntryBuilder::WithSpellFamilyMask()</a>, <a class="el" href="../../#l00154">SpellProcEntryBuilder::WithSpellFamilyName()</a>, <a class="el" href="../../#l00178">SpellProcEntryBuilder::WithSpellPhaseMask()</a>, and <a class="el" href="../../#l00172">SpellProcEntryBuilder::WithSpellTypeMask()</a>.</p>
+
+</div>
+</div>
+<a id="a790970fbe1cfb4df4e5ba38abf4c9bae" name="a790970fbe1cfb4df4e5ba38abf4c9bae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a790970fbe1cfb4df4e5ba38abf4c9bae">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/8]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/d08/a29684.html">SpellProcSpellTypeMaskTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">KillingMachine_FullIntegration_ProcTriggers&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Verify FINISH phase works with actual CanSpellTriggerProcOnEvent. </p>
+<p >This test verifies the full integration: when we pass the correctly calculated spellTypeMask to CanSpellTriggerProcOnEvent, Killing Machine style procs should work. </p>
+<div class="fragment"><div class="line"><span class="lineno">  168</span>{</div>
+<div class="line"><span class="lineno">  169</span>    <span class="comment">// Killing Machine spell_proc entry</span></div>
+<div class="line"><span class="lineno">  170</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../de/d6a/a29532.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  171</span>        .<a class="code hl_function" href="../../de/d6a/a29532.html#abf221ae8a8ef5e995bbe9b3f01f004c1">WithSpellFamilyName</a>(15) <span class="comment">// SPELLFAMILY_DEATHKNIGHT</span></div>
+<div class="line"><span class="lineno">  172</span>        .<a class="code hl_function" href="../../de/d6a/a29532.html#a57a1699a8238dd535a44908734e3c7fd">WithSpellFamilyMask</a>(<a class="code hl_class" href="../../d0/ddb/a05824.html">flag96</a>(2, 0, 0)) <span class="comment">// Icy Touch</span></div>
+<div class="line"><span class="lineno">  173</span>        .<a class="code hl_function" href="../../de/d6a/a29532.html#acebcb2a676a7e8e6821854137e056fff">WithProcFlags</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>)</div>
+<div class="line"><span class="lineno">  174</span>        .<a class="code hl_function" href="../../de/d6a/a29532.html#aa0691e03294c5317fdd173d4dd70edc1">WithSpellTypeMask</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c">PROC_SPELL_TYPE_DAMAGE</a>)</div>
+<div class="line"><span class="lineno">  175</span>        .<a class="code hl_function" href="../../de/d6a/a29532.html#ae7ddfcb398c2f5e52834bd74d25754dc">WithSpellPhaseMask</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a>)</div>
+<div class="line"><span class="lineno">  176</span>        .<a class="code hl_function" href="../../de/d6a/a29532.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  177</span> </div>
+<div class="line"><span class="lineno">  178</span>    <span class="comment">// Create Icy Touch spell info (SpellFamilyFlags = [2, 0, 0])</span></div>
+<div class="line"><span class="lineno">  179</span>    <span class="keyword">auto</span>* icyTouchSpell = CreateSpellInfo(49909, 15, 2); <span class="comment">// DK family, mask0=2</span></div>
+<div class="line"><span class="lineno">  180</span>    <a class="code hl_class" href="../../d0/d96/a08924.html">DamageInfo</a> damageInfo(<span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, 100, icyTouchSpell, <a class="code hl_enumvalue" href="../../dd/d90/a04127.html#aff6913cfd69489c107a071be9ec2ec8faf689d00ccf0d652cb5a148e64b7cb1ce">SPELL_SCHOOL_MASK_FROST</a>, <a class="code hl_enumvalue" href="../../d7/d46/a00890.html#ab0b8a9de485ea928c497ac0b5f9040b1a9308d3cdd6446af40814a12302809f54">SPELL_DIRECT_DAMAGE</a>);</div>
+<div class="line"><span class="lineno">  181</span> </div>
+<div class="line"><span class="lineno">  182</span>    <span class="comment">// Create event with FINISH phase and MASK_ALL (as the fix provides)</span></div>
+<div class="line"><span class="lineno">  183</span>    <span class="keyword">auto</span> eventInfo = <a class="code hl_class" href="../../d3/d13/a29528.html">ProcEventInfoBuilder</a>()</div>
+<div class="line"><span class="lineno">  184</span>        .<a class="code hl_function" href="../../d3/d13/a29528.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>)</div>
+<div class="line"><span class="lineno">  185</span>        .<a class="code hl_function" href="../../d3/d13/a29528.html#ac8d9c890333158313fb6bd9bdcd14fcf">WithHitMask</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a>)</div>
+<div class="line"><span class="lineno">  186</span>        .<a class="code hl_function" href="../../d3/d13/a29528.html#aebac87d053e09dba16456a9f49322973">WithSpellTypeMask</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a>) <span class="comment">// Fixed behavior</span></div>
+<div class="line"><span class="lineno">  187</span>        .<a class="code hl_function" href="../../d3/d13/a29528.html#a2247bbb4936f6d48c4214641a5a466af">WithSpellPhaseMask</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a>)</div>
+<div class="line"><span class="lineno">  188</span>        .<a class="code hl_function" href="../../d3/d13/a29528.html#a4d207196177033340282dd33b11c9d82">WithDamageInfo</a>(&amp;damageInfo)</div>
+<div class="line"><span class="lineno">  189</span>        .<a class="code hl_function" href="../../d3/d13/a29528.html#ae0f8d3a43a218b4459db0aa3fee95bf0">Build</a>();</div>
+<div class="line"><span class="lineno">  190</span> </div>
+<div class="line"><span class="lineno">  191</span>    EXPECT_TRUE(<a class="code hl_define" href="../../d0/dc2/a00104.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;CanSpellTriggerProcOnEvent(procEntry, eventInfo))</div>
+<div class="line"><span class="lineno">  192</span>        &lt;&lt; <span class="stringliteral">&quot;Killing Machine style proc should trigger on FINISH phase with MASK_ALL spellTypeMask&quot;</span>;</div>
+<div class="line"><span class="lineno">  193</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00111">ProcEventInfoBuilder::Build()</a>, <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00254">PROC_HIT_NORMAL</a>, <a class="el" href="../../#l00247">PROC_SPELL_PHASE_FINISH</a>, <a class="el" href="../../#l00236">PROC_SPELL_TYPE_DAMAGE</a>, <a class="el" href="../../#l00239">PROC_SPELL_TYPE_MASK_ALL</a>, <a class="el" href="../../#l00256">SPELL_DIRECT_DAMAGE</a>, <a class="el" href="../../#l00312">SPELL_SCHOOL_MASK_FROST</a>, <a class="el" href="../../#l00814">sSpellMgr</a>, <a class="el" href="../../#l00087">ProcEventInfoBuilder::WithDamageInfo()</a>, <a class="el" href="../../#l00075">ProcEventInfoBuilder::WithHitMask()</a>, <a class="el" href="../../#l00166">SpellProcEntryBuilder::WithProcFlags()</a>, <a class="el" href="../../#l00160">SpellProcEntryBuilder::WithSpellFamilyMask()</a>, <a class="el" href="../../#l00154">SpellProcEntryBuilder::WithSpellFamilyName()</a>, <a class="el" href="../../#l00069">ProcEventInfoBuilder::WithSpellPhaseMask()</a>, <a class="el" href="../../#l00178">SpellProcEntryBuilder::WithSpellPhaseMask()</a>, <a class="el" href="../../#l00063">ProcEventInfoBuilder::WithSpellTypeMask()</a>, <a class="el" href="../../#l00172">SpellProcEntryBuilder::WithSpellTypeMask()</a>, and <a class="el" href="../../#l00057">ProcEventInfoBuilder::WithTypeMask()</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../de/df4/a04844.html">boost</a></li>
-    <li class="footer">Generated on Mon Feb 16 2026 21:02:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../de/df4/a04844.html">SpellProcSpellTypeMaskTest.cpp</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:14:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

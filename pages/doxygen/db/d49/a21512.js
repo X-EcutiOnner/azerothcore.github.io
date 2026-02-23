@@ -1,6 +1,9 @@
 var a21512 =
 [
-    [ "npc_erekem_guardAI", "df/de2/a21516.html", "df/de2/a21516" ],
-    [ "npc_erekem_guard", "db/d49/a21512.html#a78592996e90f77f81eec0325a7f11956", null ],
-    [ "GetAI", "db/d49/a21512.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
+    [ "npc_bonker_togglevoltAI", "db/d49/a21512.html#adfd43a6a804a35e235262e55f0155ffe", null ],
+    [ "JustDied", "db/d49/a21512.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
+    [ "Reset", "db/d49/a21512.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
+    [ "UpdateEscortAI", "db/d49/a21512.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
+    [ "WaypointReached", "db/d49/a21512.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
+    [ "Bonker_agro", "db/d49/a21512.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
 ];

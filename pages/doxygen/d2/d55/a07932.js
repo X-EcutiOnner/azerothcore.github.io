@@ -1,6 +1,5 @@
 var a07932 =
 [
-    [ "ThreatOrderPred", "d2/d55/a07932.html#a33b2897bfd994ce57628f939814facba", null ],
-    [ "operator()", "d2/d55/a07932.html#a5f668d69e800b472bc64711199f2b732", null ],
-    [ "m_ascending", "d2/d55/a07932.html#ad4d70c60ed781e443f07ad1b81afd10d", null ]
+    [ "IsColorValid", "d2/d55/a07932.html#a6fca3f0ea620fbef8ed532ddb26875a0", null ],
+    [ "IsTextValid", "d2/d55/a07932.html#aef8ebbb11dc11311ba7152732a1ace58", null ]
 ];

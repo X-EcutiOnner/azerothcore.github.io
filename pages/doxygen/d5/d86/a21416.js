@@ -1,6 +1,8 @@
 var a21416 =
 [
-    [ "boss_archavonAI", "d2/dc8/a21420.html", "d2/dc8/a21420" ],
-    [ "boss_archavon", "d5/d86/a21416.html#a44e20480f8d86cf763afe67de49c6c33", null ],
-    [ "GetAI", "d5/d86/a21416.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
+    [ "npc_azure_captainAI", "d5/d86/a21416.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
+    [ "Reset", "d5/d86/a21416.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
+    [ "UpdateAI", "d5/d86/a21416.html#ae50ac21138e12be43caa93e37062051e", null ],
+    [ "uiMortalStrikeTimer", "d5/d86/a21416.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
+    [ "uiWhirlwindTimer", "d5/d86/a21416.html#a2e3439976a6e84a60be765cb0b929798", null ]
 ];

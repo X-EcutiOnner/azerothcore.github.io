@@ -1,7 +1,7 @@
 var a18608 =
 [
-    [ "CheckTargetCount", "d6/d71/a18608.html#a44f558248f944464c773105728cffbca", null ],
-    [ "PrepareSpellScript", "d6/d71/a18608.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
-    [ "Register", "d6/d71/a18608.html#aeda833ca8483d337311086b9d0a14081", null ],
-    [ "Validate", "d6/d71/a18608.html#aee84751e352dbfc12472fc15924c48fa", null ]
+    [ "StartMovementEvent", "d6/d71/a18608.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
+    [ "Execute", "d6/d71/a18608.html#af1a043d953bcffe9341292e85cae2f55", null ],
+    [ "_owner", "d6/d71/a18608.html#ac2f4166af128a161c471b243144856ba", null ],
+    [ "_summoner", "d6/d71/a18608.html#afe1f7bcb3569758bc075380a24527067", null ]
 ];

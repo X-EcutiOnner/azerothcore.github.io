@@ -1,6 +1,6 @@
 var a27160 =
 [
-    [ "HandleRemove", "db/d1b/a27160.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
-    [ "PrepareAuraScript", "db/d1b/a27160.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
-    [ "Register", "db/d1b/a27160.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
+    [ "ModDest", "db/d1b/a27160.html#ab03387aec0a02a6b3bac1014443554b6", null ],
+    [ "PrepareSpellScript", "db/d1b/a27160.html#a53f7da301759fb18686bc73281c4a321", null ],
+    [ "Register", "db/d1b/a27160.html#a266198fbc6203517f9845ef6212ddf13", null ]
 ];

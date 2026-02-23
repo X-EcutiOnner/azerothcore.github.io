@@ -1,5 +1,9 @@
 var a27352 =
 [
-    [ "AreaTrigger_at_sentry_point", "d4/d8c/a27352.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
-    [ "OnTrigger", "d4/d8c/a27352.html#ab59fb74f4f988c208359855d2e4d9918", null ]
+    [ "HandleHeal", "d4/d8c/a27352.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
+    [ "Load", "d4/d8c/a27352.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
+    [ "PrepareSpellScript", "d4/d8c/a27352.html#a91eb46af707897f228e5d1bbd199a833", null ],
+    [ "Register", "d4/d8c/a27352.html#ae28f1b0c23511153eafc037cae067bc0", null ],
+    [ "firstHeal", "d4/d8c/a27352.html#a405326e6e1cd82816aef1712fdf335a0", null ],
+    [ "riptide", "d4/d8c/a27352.html#acaec32f6730bc2e04e613aa982d285bf", null ]
 ];

@@ -1,11 +1,7 @@
 var a10912 =
 [
-    [ "BuyItemInSlot", "d0/d00/a10912.html#a9a15be940d8eb216614dca5055be094a", null ],
-    [ "Read", "d0/d00/a10912.html#a2608e83a41fb44c8469d2b9196702627", null ],
-    [ "BagGuid", "d0/d00/a10912.html#abb9a1c7ac98c1cd848e4da8faf4e3925", null ],
-    [ "BagSlot", "d0/d00/a10912.html#abdcb3b7e8a633b59d264ff1c860ec9c9", null ],
-    [ "Count", "d0/d00/a10912.html#a3d057f2bdafb46887a97dbba8bb5aa04", null ],
-    [ "Item", "d0/d00/a10912.html#a1fdfad3b4dd000c0f6d6d60f30bdd981", null ],
-    [ "Slot", "d0/d00/a10912.html#aae1dba7644a82933a801f581551479bc", null ],
-    [ "VendorGuid", "d0/d00/a10912.html#ac65b0fc2609531c8657c4d83cf50dbfe", null ]
+    [ "GuildBankBuyTab", "d0/d00/a10912.html#af2195db72eeaefea13c958e5ef62c411", null ],
+    [ "Read", "d0/d00/a10912.html#a502153232a314d099ed43e1101bdfc1f", null ],
+    [ "Banker", "d0/d00/a10912.html#a46f3b910aa6d69f4a82c7a603f9f0fb3", null ],
+    [ "BankTab", "d0/d00/a10912.html#a5df7be995a177706fa364e31a6f8df1e", null ]
 ];

@@ -1,6 +1,7 @@
 var a16144 =
 [
-    [ "HandlePeriodic", "db/d8a/a16144.html#ad22b433005b2678bde3516a01eaaaa60", null ],
-    [ "PrepareAuraScript", "db/d8a/a16144.html#a3711004edaef7242d9cae1f23f9b7467", null ],
-    [ "Register", "db/d8a/a16144.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
+    [ "npc_ringoAI", "dd/d90/a16148.html", "dd/d90/a16148" ],
+    [ "npc_ringo", "db/d8a/a16144.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
+    [ "GetAI", "db/d8a/a16144.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
+    [ "OnQuestAccept", "db/d8a/a16144.html#abdf4e5e1b26c1b1a288047e24188ad10", null ]
 ];

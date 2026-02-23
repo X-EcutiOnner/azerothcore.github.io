@@ -1,7 +1,10 @@
 var a15188 =
 [
-    [ "npc_onyxian_lair_guard", "d3/d79/a15188.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
-    [ "JustEngagedWith", "d3/d79/a15188.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
-    [ "UpdateAI", "d3/d79/a15188.html#ac8649636d5847813e49d2ada05f78645", null ],
-    [ "events", "d3/d79/a15188.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
+    [ "boss_meathookAI", "d3/d79/a15188.html#abb35c98da760db634545b81d740cd51a", null ],
+    [ "JustDied", "d3/d79/a15188.html#a44ebee45de335ff6f653e9d60a364458", null ],
+    [ "JustEngagedWith", "d3/d79/a15188.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
+    [ "KilledUnit", "d3/d79/a15188.html#a54deac512294bb0901d072faef3166b1", null ],
+    [ "Reset", "d3/d79/a15188.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
+    [ "UpdateAI", "d3/d79/a15188.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
+    [ "events", "d3/d79/a15188.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
 ];

@@ -1,7 +1,6 @@
 var a16640 =
 [
-    [ "HandleEffectPeriodic", "d8/dce/a16640.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
-    [ "PrepareAuraScript", "d8/dce/a16640.html#a4506f7d723b85c7555296f5ade11cd29", null ],
-    [ "Register", "d8/dce/a16640.html#aeac7e6abc89209e14451439cdf1d416e", null ],
-    [ "Validate", "d8/dce/a16640.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
+    [ "boss_eadricAI", "d7/d4e/a16644.html", "d7/d4e/a16644" ],
+    [ "boss_eadric", "d8/dce/a16640.html#ad32a08ec9fc2a31b5bcdcff67d0127d2", null ],
+    [ "GetAI", "d8/dce/a16640.html#a15235e86d0bdff0bd3fef5dbff3abb27", null ]
 ];

@@ -1,7 +1,16 @@
 var a24300 =
 [
-    [ "npc_bessyAI", "d8/d25/a24304.html", "d8/d25/a24304" ],
-    [ "npc_bessy", "de/d49/a24300.html#a08278c1524445054ca158433044a0824", null ],
-    [ "GetAI", "de/d49/a24300.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
-    [ "OnQuestAccept", "de/d49/a24300.html#a98b8e816195b81bab12cc9906df79807", null ]
+    [ "npc_pet_gen_argent_pony_bridle", "de/d49/a24300.html#a9df25627a92b8914ab8009be099f15d4", null ],
+    [ "DoAction", "de/d49/a24300.html#a4c08ed385886a118c165925602b1dff7", null ],
+    [ "EnterEvadeMode", "de/d49/a24300.html#a897e72a4bf279607903bce58a5a45c6f", null ],
+    [ "GetData", "de/d49/a24300.html#a862546ec66d8282c87169305711e4ec7", null ],
+    [ "OnGossipHello", "de/d49/a24300.html#a35cfcfd3418295bcb1140d1b8b8266ab", null ],
+    [ "OnGossipSelect", "de/d49/a24300.html#a36f15c2c0ec3466b492148303e828403", null ],
+    [ "Reset", "de/d49/a24300.html#a4d885f00ea1b6b97270d41f2583bd0dc", null ],
+    [ "UpdateAI", "de/d49/a24300.html#a1172dbd471ee8f05f25ff77dc222a61d", null ],
+    [ "_banners", "de/d49/a24300.html#aeda5ce6c8f4f37ce7a4630c06586cde1", null ],
+    [ "_init", "de/d49/a24300.html#a8a7dd73d9d3af5ca00998735e45ee7e8", null ],
+    [ "_lastAura", "de/d49/a24300.html#a4abeb86eb0179a77d47d737d67495411", null ],
+    [ "_mountTimer", "de/d49/a24300.html#a38253b6d1e1f7fb8fc3fdccb2522a090", null ],
+    [ "_state", "de/d49/a24300.html#ae57f97ca9a08353e8ec8ebfadbd51541", null ]
 ];

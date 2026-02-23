@@ -1,8 +1,6 @@
 var a14172 =
 [
-    [ "npc_zulaman_hostageAI", "d7/df4/a14176.html", "d7/df4/a14176" ],
-    [ "npc_zulaman_hostage", "dc/de1/a14172.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
-    [ "GetAI", "dc/de1/a14172.html#a0ae144dc154dd028b409c9d2393f890c", null ],
-    [ "OnGossipHello", "dc/de1/a14172.html#a89d68a976f916a4de2196b57ec0026b0", null ],
-    [ "OnGossipSelect", "dc/de1/a14172.html#a114f6fbfab90944fd49babcba4b48a11", null ]
+    [ "boss_blight_wormAI", "d7/df4/a14176.html", "d7/df4/a14176" ],
+    [ "boss_blight_worm", "dc/de1/a14172.html#a6dea51baebc6b44ef94342565136e56d", null ],
+    [ "GetAI", "dc/de1/a14172.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
 ];

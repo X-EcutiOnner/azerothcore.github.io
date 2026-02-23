@@ -1,18 +1,8 @@
 var a16860 =
 [
-    [ "boss_icehowlAI", "d5/d01/a16860.html#a81fbfe9bb9d6186e36af2dd24c2dca5e", null ],
-    [ "AttackStart", "d5/d01/a16860.html#ab40b1bb5338fab72aa23f650925d5ed0", null ],
-    [ "DoTrampleIfValid", "d5/d01/a16860.html#ae3df64882f344dddc1480574d078e9a0", null ],
-    [ "EnterEvadeMode", "d5/d01/a16860.html#afeebf7a1039b3eed4b351e88751818b5", null ],
-    [ "JustDied", "d5/d01/a16860.html#ae29d8fc7d1ad3e57785c1c31ec73fa86", null ],
-    [ "JustEngagedWith", "d5/d01/a16860.html#aac8165285ec44942217e93ad25a3668b", null ],
-    [ "JustReachedHome", "d5/d01/a16860.html#a1034e0e9f5af03cd1d36aef4df724bc9", null ],
-    [ "MovementInform", "d5/d01/a16860.html#a664ac70b8bb380329aacdf11cfb53bf1", null ],
-    [ "UpdateAI", "d5/d01/a16860.html#a0972a2b86426f6d0efbde3d8b802a8f3", null ],
-    [ "destX", "d5/d01/a16860.html#ace7b1c523d1845eabe1806fbf75453aa", null ],
-    [ "destY", "d5/d01/a16860.html#aebb7d901669fe987e805e0dfcfe9993a", null ],
-    [ "destZ", "d5/d01/a16860.html#ab9f08e2f505368869063093f531f8794", null ],
-    [ "events", "d5/d01/a16860.html#a302879641400e0f0b329fd960256c9fb", null ],
-    [ "pInstance", "d5/d01/a16860.html#a4149dd25a04d661448255858e57387f4", null ],
-    [ "TargetGUID", "d5/d01/a16860.html#ac5068efd8a3b192e8302264039c30933", null ]
+    [ "npc_toc_warlockAI", "d5/d01/a16860.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
+    [ "JustSummoned", "d5/d01/a16860.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
+    [ "myCanCast", "d5/d01/a16860.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
+    [ "UpdateAI", "d5/d01/a16860.html#a554849d02d923439bd810b7d8c242afa", null ],
+    [ "events", "d5/d01/a16860.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
 ];

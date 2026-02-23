@@ -1,16 +1,6 @@
 var a14140 =
 [
-    [ "boss_zuljin", "df/d20/a14140.html#a8acdf347d7f982c07614c89a101daae0", null ],
-    [ "EnterEvadeMode", "df/d20/a14140.html#a1b3da85aa5f4abac16256aa691d035a3", null ],
-    [ "EnterPhase", "df/d20/a14140.html#ae9970dba905b947a22c4ddf36bdcb656", null ],
-    [ "GetGUID", "df/d20/a14140.html#a29548891ef8efaa5d6baa384e7b9000a", null ],
-    [ "JustDied", "df/d20/a14140.html#a2e00e8311c0463a37de87668882ffeec", null ],
-    [ "JustEngagedWith", "df/d20/a14140.html#ab6854461a5116e94c9f0ca971a3f89ef", null ],
-    [ "KilledUnit", "df/d20/a14140.html#adf220cb760b77cfd09ed746705529064", null ],
-    [ "MovementInform", "df/d20/a14140.html#a61501941861f8838392fc8cdbe59feff", null ],
-    [ "Reset", "df/d20/a14140.html#a2fe7c0338eb4698cc0aae252f4b14f02", null ],
-    [ "SpawnAdds", "df/d20/a14140.html#a83eb0799a25f19eedddd96e609134778", null ],
-    [ "SpellHitTarget", "df/d20/a14140.html#aab3558edc5b90be23040077d88e21725", null ],
-    [ "_chargeTargetGUID", "df/d20/a14140.html#a3b26fe2e82019ea5ce110d2d0a78f47e", null ],
-    [ "_nextPhase", "df/d20/a14140.html#a4fc9983cb34313affa56c243a4164a4a", null ]
+    [ "npc_highborne_lamenterAI", "d4/d38/a14144.html", "d4/d38/a14144" ],
+    [ "npc_highborne_lamenter", "df/d20/a14140.html#a40316cf73a688e34e95dd41feef8612a", null ],
+    [ "GetAI", "df/d20/a14140.html#aad8ccb43b325b797f60a16e338458a1e", null ]
 ];

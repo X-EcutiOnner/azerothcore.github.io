@@ -1,9 +1,5 @@
 var a09364 =
 [
-    [ "PlayerSearcher", "d9/d30/a09364.html#a7247fcab3841996ed5d699696fb21557", null ],
-    [ "Visit", "d9/d30/a09364.html#ab2544b79869ba4de9772b1bff7c40704", null ],
-    [ "Visit", "d9/d30/a09364.html#abdb4dfeb80101e9e4bf0e46cab5a1f7b", null ],
-    [ "i_check", "d9/d30/a09364.html#a58c24b81eec33c9ba8fe8145ee3679b4", null ],
-    [ "i_object", "d9/d30/a09364.html#a70b071a2fccb4ff29fd614d1447e87ad", null ],
-    [ "i_phaseMask", "d9/d30/a09364.html#a6dd83612b7f0d00035a7efb8d970afc6", null ]
+    [ "HolesType", "d9/d30/a09364.html#a72531c15631ba45fe0c0ed962557e993", null ],
+    [ "holes", "d9/d30/a09364.html#a496f77513e47d89adfcc2f32d4bc1242", null ]
 ];

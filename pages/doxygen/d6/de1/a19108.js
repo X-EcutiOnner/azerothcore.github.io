@@ -1,6 +1,5 @@
 var a19108 =
 [
-    [ "npc_icc_gauntlet_controllerAI", "d6/d73/a19112.html", "d6/d73/a19112" ],
-    [ "npc_icc_gauntlet_controller", "d6/de1/a19108.html#a5fc4c941842e25bc3da93686e588627b", null ],
-    [ "GetAI", "d6/de1/a19108.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
+    [ "npc_alchemist_adrianna", "d6/de1/a19108.html#a310d375bc73c51e407580b063a6543fa", null ],
+    [ "OnGossipHello", "d6/de1/a19108.html#a02ec6a66037d72e30bbe821ceee38691", null ]
 ];

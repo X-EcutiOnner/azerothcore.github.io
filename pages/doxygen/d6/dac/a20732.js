@@ -1,7 +1,5 @@
 var a20732 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "d6/dac/a20732.html#a100678bddd6a0e859c72035d4642d8e2", null ],
-    [ "MoveInLineOfSight", "d6/dac/a20732.html#a870bdc842d8d7078302a36a20ef661e4", null ],
-    [ "_instance", "d6/dac/a20732.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
-    [ "_introSpoken", "d6/dac/a20732.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
+    [ "achievement_thorim_stand_in_the_lightning", "d6/dac/a20732.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
+    [ "OnCheck", "d6/dac/a20732.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
 ];

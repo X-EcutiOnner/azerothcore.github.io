@@ -1,8 +1,8 @@
 var a19992 =
 [
-    [ "OnPeriodic", "dd/dbb/a19992.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
-    [ "OnRemove", "dd/dbb/a19992.html#ac6d961793ddb6423540da9d97e016b82", null ],
-    [ "PrepareAuraScript", "dd/dbb/a19992.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
-    [ "Register", "dd/dbb/a19992.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
-    [ "Validate", "dd/dbb/a19992.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
+    [ "brann_bronzebeardAI", "d9/d65/a19996.html", "d9/d65/a19996" ],
+    [ "brann_bronzebeard", "dd/dbb/a19992.html#a66fd8785647896a1a5f7be041242cfd6", null ],
+    [ "GetAI", "dd/dbb/a19992.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
+    [ "OnGossipHello", "dd/dbb/a19992.html#a2714a2dde596db76706b8a86f97f82b8", null ],
+    [ "OnGossipSelect", "dd/dbb/a19992.html#a0e0068a45012e50a9f645d393bdfe163", null ]
 ];

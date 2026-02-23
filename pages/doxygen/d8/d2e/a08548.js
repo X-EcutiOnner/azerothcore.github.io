@@ -1,5 +1,6 @@
 var a08548 =
 [
-    [ "PositionXYZStreamer", "d8/d2e/a08548.html#a8da1be6111bd97ef68d62d0d9d630c56", null ],
-    [ "m_pos", "d8/d2e/a08548.html#ae5db7cb3adba811c0b9483645a7f1770", null ]
+    [ "DamageMax", "d8/d2e/a08548.html#afc0bd7960848f6434c182a3fadc1e256", null ],
+    [ "DamageMin", "d8/d2e/a08548.html#acbab962cbc25ad032c97216feac281bb", null ],
+    [ "DamageType", "d8/d2e/a08548.html#aecdcc73f2cb30ef5cc149607e01bbe34", null ]
 ];

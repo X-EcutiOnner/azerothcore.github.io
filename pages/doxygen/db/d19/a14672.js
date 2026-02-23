@@ -1,6 +1,17 @@
 var a14672 =
 [
-    [ "npc_soh_fire_trigger", "db/d19/a14672.html#a8bddde264f4848c9a8ed83dcad190223", null ],
-    [ "Reset", "db/d19/a14672.html#acbec442907a8b40ae04496c53f210aa2", null ],
-    [ "SpellHit", "db/d19/a14672.html#a6b96cc998d38c9fbf0ce93e0529c0f4c", null ]
+    [ "npc_coren_direbrew", "db/d19/a14672.html#a51ab68feb3dde3fb23c708afcdcdbd34", null ],
+    [ "CanBeSeen", "db/d19/a14672.html#ad4db2a85c92f69e54036f4133396f201", null ],
+    [ "DamageTaken", "db/d19/a14672.html#a782a08ed525eab8a9e9044dc1d5814b3", null ],
+    [ "DoAction", "db/d19/a14672.html#a2d417a9310b5b75df09879678d967794", null ],
+    [ "JustDied", "db/d19/a14672.html#a39913e601440fcd6ffbc77ad7c204ac8", null ],
+    [ "JustSummoned", "db/d19/a14672.html#a2cb3d9de6ccdffa73f709b82cfae790a", null ],
+    [ "MoveInLineOfSight", "db/d19/a14672.html#a9c48c7e4a97998c2091992f51b734679", null ],
+    [ "Reset", "db/d19/a14672.html#a49eb75eb89742ee70ca957d4e2f0b5d0", null ],
+    [ "sGossipSelect", "db/d19/a14672.html#ad8b665606985984ad633f66ad9b73bd2", null ],
+    [ "SummonedCreatureDies", "db/d19/a14672.html#aafdc2d271d1e267f5b3deba7d00e07fc", null ],
+    [ "SummonSister", "db/d19/a14672.html#a358fe5922a85ea3eee6abe9451869b66", null ],
+    [ "UpdateAI", "db/d19/a14672.html#af6615292fa853883979dc37c6e247289", null ],
+    [ "_events", "db/d19/a14672.html#a81ee26c215b7581a13faf56ee041b9fe", null ],
+    [ "_summons", "db/d19/a14672.html#a261d4c4dea56748e66752cb11588086a", null ]
 ];

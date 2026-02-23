@@ -1,4 +1,5 @@
 var a00272 =
 [
-    [ "RefMgr< TO, FROM >", "dc/db1/a05329.html", "dc/db1/a05329" ]
+    [ "SmartScript", "d1/d7b/a06448.html", "d1/d7b/a06448" ],
+    [ "SmartScript::SmartScriptFrame", "dc/d19/a06452.html", "dc/d19/a06452" ]
 ];

@@ -1,20 +1,10 @@
 var a16472 =
 [
-    [ "instance_ruby_sanctum_InstanceMapScript", "da/d85/a16472.html#a98a097bfa32aedc3fe1d6600f147c94f", null ],
-    [ "FillInitialWorldStates", "da/d85/a16472.html#a92cf11c73a596e0be141d9626ff10d3d", null ],
-    [ "GetGuidData", "da/d85/a16472.html#aaee1be892a411ed2fe720aff91c1dbbe", null ],
-    [ "OnCreatureCreate", "da/d85/a16472.html#a18f4f8286f7ca85b1a366b1ca3ffe6b3", null ],
-    [ "OnGameObjectCreate", "da/d85/a16472.html#a27c4858d5972471ef91a269c11fc0494", null ],
-    [ "OnGameObjectRemove", "da/d85/a16472.html#ac53fa1af91c66a264fdd016abe40168c", null ],
-    [ "OnPlayerEnter", "da/d85/a16472.html#a74b01d2d0b48e95f758a1143fccf40ae", null ],
-    [ "SetBossState", "da/d85/a16472.html#a3542b2f1f54fc25720bba1b4f2d12e5f", null ],
-    [ "BaltharusTheWarbornGUID", "da/d85/a16472.html#a99cb15668a0eb037fc7edd6a2340ca33", null ],
-    [ "FlameRingGUID", "da/d85/a16472.html#a52256dd98ae786bfe9bfc86ce036a060", null ],
-    [ "GeneralZarithrianGUID", "da/d85/a16472.html#ad92ac599589bdd8b7c3aa055b451f0cf", null ],
-    [ "HalionControllerGUID", "da/d85/a16472.html#a52144a0152a2ea00066c0d24bdee0b74", null ],
-    [ "HalionGUID", "da/d85/a16472.html#a0b824e7cf269619220329aecba08e448", null ],
-    [ "OrbCarrierGUID", "da/d85/a16472.html#a723b8a7384d0b9455b3a99172a903868", null ],
-    [ "TwilightHalionGUID", "da/d85/a16472.html#a165f776c123fa595b6424be666fa8570", null ],
-    [ "XerestraszaGUID", "da/d85/a16472.html#aefcf3beb1d5da118c80d3af9eb21ec99", null ],
-    [ "ZarithrianSpawnStalkerGUID", "da/d85/a16472.html#a5e28d815149507f4bc6a30e42d4034a4", null ]
+    [ "npc_xerestraszaAI", "da/d85/a16472.html#a768ae45296e16b8fcada6359dfd6c7e5", null ],
+    [ "DoAction", "da/d85/a16472.html#af696ecee315892b2bf0233113d2f89f9", null ],
+    [ "Reset", "da/d85/a16472.html#a0eceae8fb9bf5071bc8d9cddf783507b", null ],
+    [ "UpdateAI", "da/d85/a16472.html#a6389ab58f4b44c668590113ec75f2adf", null ],
+    [ "_events", "da/d85/a16472.html#ae998fc6aaee14bc313ff38bb76d79e43", null ],
+    [ "_introDone", "da/d85/a16472.html#a9d01014297290dafbb7ed25bffbe6fe6", null ],
+    [ "_isIntro", "da/d85/a16472.html#a71ffbf3fedb77bd693beabb4ee52f57a", null ]
 ];

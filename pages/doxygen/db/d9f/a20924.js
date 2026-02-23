@@ -1,9 +1,6 @@
 var a20924 =
 [
-    [ "npc_xt002_pummellerAI", "db/d9f/a20924.html#a2942c05c93036c2e02b9a72c784441b1", null ],
-    [ "Reset", "db/d9f/a20924.html#a6542fb3e585f100f06f6be14a1346306", null ],
-    [ "UpdateAI", "db/d9f/a20924.html#a959990310303ff2102f1c03852b4ab8e", null ],
-    [ "_arcingSmashTimer", "db/d9f/a20924.html#a830fda66756dc3f34a530939116e7556", null ],
-    [ "_trampleTimer", "db/d9f/a20924.html#ae5e450601861f83b20419405bb92ef6d", null ],
-    [ "_uppercutTimer", "db/d9f/a20924.html#a5a1bdb380438070effc091ec37db6aec", null ]
+    [ "OnEffect", "db/d9f/a20924.html#aa24cfd6feec65f466e74c68484815c1e", null ],
+    [ "PrepareSpellScript", "db/d9f/a20924.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
+    [ "Register", "db/d9f/a20924.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
 ];

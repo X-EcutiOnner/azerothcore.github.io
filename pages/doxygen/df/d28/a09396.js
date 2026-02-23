@@ -1,8 +1,9 @@
 var a09396 =
 [
-    [ "RespawnDo", "df/d28/a09396.html#a79f6424f2849c4c05998fe29a8510aeb", null ],
-    [ "operator()", "df/d28/a09396.html#ac15ff63f29e313556b8f66e0cd80514f", null ],
-    [ "operator()", "df/d28/a09396.html#a23408bf4da497d1007e4e88e0d9c0e19", null ],
-    [ "operator()", "df/d28/a09396.html#a66335f45bb1f3c770887b263e9d84236", null ],
-    [ "operator()", "df/d28/a09396.html#a4551ca2e0fdb6540a724c9c2b43484c6", null ]
+    [ "VisibleChangesNotifier", "df/d28/a09396.html#aacb0239ed44c9705eeeebf5ab198f7e0", null ],
+    [ "Visit", "df/d28/a09396.html#abfc60c91aaa823cb99cdfc17a287e23e", null ],
+    [ "Visit", "df/d28/a09396.html#aaf1dab341f34f75e56da63370af0ecd3", null ],
+    [ "Visit", "df/d28/a09396.html#a103a8ef30ce4c0753913b6ecb6cf4e92", null ],
+    [ "Visit", "df/d28/a09396.html#a6e856249a08d0a90b9d19f2449f30fba", null ],
+    [ "i_object", "df/d28/a09396.html#a496b982d081957cfc288f29b99b8739d", null ]
 ];

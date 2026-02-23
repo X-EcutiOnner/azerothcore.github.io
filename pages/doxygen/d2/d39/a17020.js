@@ -1,17 +1,18 @@
 var a17020 =
 [
-    [ "boss_bronjahmAI", "d2/d39/a17020.html#a1cf523f4d7d23187fbc44efee4ca9ea3", null ],
-    [ "DamageTaken", "d2/d39/a17020.html#addd45cd8ecccaf5e0f2fd3f08282af28", null ],
-    [ "EnterEvadeMode", "d2/d39/a17020.html#aafe8adec1b16ecb324f81ac954889e2a", null ],
-    [ "JustDied", "d2/d39/a17020.html#aec27198e51022639fd002879d8afa40d", null ],
-    [ "JustEngagedWith", "d2/d39/a17020.html#a60719369456cb55155966ccefffe49ba", null ],
-    [ "JustReachedHome", "d2/d39/a17020.html#adacba5b04f9d0c273226f055a19c0b16", null ],
-    [ "JustSummoned", "d2/d39/a17020.html#a97836e7dbe9670fc5c08339bee5e4608", null ],
-    [ "KilledUnit", "d2/d39/a17020.html#a7d338c31c1ec906f0395f4dfbe88448a", null ],
-    [ "Reset", "d2/d39/a17020.html#a553dd0d2dd6f074bc03415f81254bc2b", null ],
-    [ "SpellHitTarget", "d2/d39/a17020.html#afdc24fb0a530813e1a6618f469911f89", null ],
-    [ "UpdateAI", "d2/d39/a17020.html#a883e2672d391fcc3fd643f550e3a9d45", null ],
-    [ "events", "d2/d39/a17020.html#a092d2b12172f7c303bc2b0b51ecc1834", null ],
-    [ "pInstance", "d2/d39/a17020.html#aa9f0c2b3e420b61e922af48be84d20d7", null ],
-    [ "summons", "d2/d39/a17020.html#ad8b011080db0d4829fbbde4739371d36", null ]
+    [ "boss_icehowlAI", "d2/d39/a17020.html#a81fbfe9bb9d6186e36af2dd24c2dca5e", null ],
+    [ "AttackStart", "d2/d39/a17020.html#ab40b1bb5338fab72aa23f650925d5ed0", null ],
+    [ "DoTrampleIfValid", "d2/d39/a17020.html#ae3df64882f344dddc1480574d078e9a0", null ],
+    [ "EnterEvadeMode", "d2/d39/a17020.html#afeebf7a1039b3eed4b351e88751818b5", null ],
+    [ "JustDied", "d2/d39/a17020.html#ae29d8fc7d1ad3e57785c1c31ec73fa86", null ],
+    [ "JustEngagedWith", "d2/d39/a17020.html#aac8165285ec44942217e93ad25a3668b", null ],
+    [ "JustReachedHome", "d2/d39/a17020.html#a1034e0e9f5af03cd1d36aef4df724bc9", null ],
+    [ "MovementInform", "d2/d39/a17020.html#a664ac70b8bb380329aacdf11cfb53bf1", null ],
+    [ "UpdateAI", "d2/d39/a17020.html#a0972a2b86426f6d0efbde3d8b802a8f3", null ],
+    [ "destX", "d2/d39/a17020.html#ace7b1c523d1845eabe1806fbf75453aa", null ],
+    [ "destY", "d2/d39/a17020.html#aebb7d901669fe987e805e0dfcfe9993a", null ],
+    [ "destZ", "d2/d39/a17020.html#ab9f08e2f505368869063093f531f8794", null ],
+    [ "events", "d2/d39/a17020.html#a302879641400e0f0b329fd960256c9fb", null ],
+    [ "pInstance", "d2/d39/a17020.html#a4149dd25a04d661448255858e57387f4", null ],
+    [ "TargetGUID", "d2/d39/a17020.html#ac5068efd8a3b192e8302264039c30933", null ]
 ];

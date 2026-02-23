@@ -1,6 +1,5 @@
 var a21100 =
 [
-    [ "boss_yoggsaron_neltharionAI", "d3/dea/a21104.html", "d3/dea/a21104" ],
-    [ "boss_yoggsaron_neltharion", "d6/d6d/a21100.html#a9910e0d6043e7738cba0fe9ae7e92898", null ],
-    [ "GetAI", "d6/d6d/a21100.html#abce5f59c35f7af3e1d5b30cc55ff48e6", null ]
+    [ "go_palehoof_sphere", "d6/d6d/a21100.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
+    [ "OnGossipHello", "d6/d6d/a21100.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
 ];

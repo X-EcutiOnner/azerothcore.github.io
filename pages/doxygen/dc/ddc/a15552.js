@@ -1,8 +1,13 @@
 var a15552 =
 [
-    [ "npc_obsidian_nullifier", "dc/ddc/a15552.html#a9dbb6d681e348057564750fcd7e8050a", null ],
-    [ "JustEngagedWith", "dc/ddc/a15552.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
-    [ "Reset", "dc/ddc/a15552.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
-    [ "UpdateAI", "dc/ddc/a15552.html#a37cf1d335dd3735b262e82828c4f904a", null ],
-    [ "_targetGUIDs", "dc/ddc/a15552.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
+    [ "boss_cthun", "dc/ddc/a15552.html#a287ee7b65708971e4fdfa7b814486935", null ],
+    [ "DoAction", "dc/ddc/a15552.html#a04ae38b67d358f1d34820b855aab3869", null ],
+    [ "JustDied", "dc/ddc/a15552.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
+    [ "JustEngagedWith", "dc/ddc/a15552.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
+    [ "Reset", "dc/ddc/a15552.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
+    [ "ScheduleTasks", "dc/ddc/a15552.html#a5a0514e56217bb3b30b22b2681542adb", null ],
+    [ "SummonedCreatureDies", "dc/ddc/a15552.html#a49d76bb4cf30ee66fae6114313394961", null ],
+    [ "UpdateAI", "dc/ddc/a15552.html#a7d2685597f1eec2459fe509e5b97681f", null ],
+    [ "_fleshTentaclesKilled", "dc/ddc/a15552.html#a139de83ae488c40d40a4587509cd197d", null ],
+    [ "WisperTimer", "dc/ddc/a15552.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
 ];

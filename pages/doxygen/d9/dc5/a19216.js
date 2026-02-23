@@ -1,7 +1,6 @@
 var a19216 =
 [
-    [ "HandleScript", "d9/dc5/a19216.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
-    [ "Launch", "d9/dc5/a19216.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
-    [ "PrepareSpellScript", "d9/dc5/a19216.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
-    [ "Register", "d9/dc5/a19216.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
+    [ "npc_icc_skybreaker_vicarAI", "d0/dcb/a19220.html", "d0/dcb/a19220" ],
+    [ "npc_icc_skybreaker_vicar", "d9/dc5/a19216.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
+    [ "GetAI", "d9/dc5/a19216.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
 ];

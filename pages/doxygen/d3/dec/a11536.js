@@ -1,8 +1,10 @@
 var a11536 =
 [
-    [ "EffectHandler", "d3/dec/a11536.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
-    [ "Call", "d3/dec/a11536.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
-    [ "CheckEffect", "d3/dec/a11536.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
-    [ "ToString", "d3/dec/a11536.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
-    [ "pEffectHandlerScript", "d3/dec/a11536.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
+    [ "TriggeredByAuraSpellData", "d3/dec/a11536.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
+    [ "Init", "d3/dec/a11536.html#a782e0056967e006748318af3112c0e43", null ],
+    [ "operator bool", "d3/dec/a11536.html#a85d4782b76b060c172aaa6f914d400da", null ],
+    [ "operator!", "d3/dec/a11536.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
+    [ "effectIndex", "d3/dec/a11536.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
+    [ "spellInfo", "d3/dec/a11536.html#af58f62fb168e9da7011f7b570f08e977", null ],
+    [ "tickNumber", "d3/dec/a11536.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
 ];

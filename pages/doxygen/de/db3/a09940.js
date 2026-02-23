@@ -1,15 +1,15 @@
 var a09940 =
 [
-    [ "const_iterator", "de/db3/a09940.html#a78bdb53e78488faa65effb2706140558", null ],
-    [ "iterator", "de/db3/a09940.html#aff8f555370355b24f386c86d2f900bc3", null ],
-    [ "begin", "de/db3/a09940.html#a6774b551f0d64628e33594c7b486a872", null ],
-    [ "begin", "de/db3/a09940.html#a3ba9493437881e83c07f07cc992c274a", null ],
-    [ "end", "de/db3/a09940.html#af488c0096775085791b5fbc89e5851a0", null ],
-    [ "end", "de/db3/a09940.html#acb8ebd37d1458773b65311060e844e4b", null ],
-    [ "getFirst", "de/db3/a09940.html#a2981143744c8e08a42104a5d08659be4", null ],
-    [ "getFirst", "de/db3/a09940.html#a4d5eb2b65f0a586a3e809acb2c26f6cb", null ],
-    [ "getLast", "de/db3/a09940.html#ab9c66d320815602126292a14cae69872", null ],
-    [ "getLast", "de/db3/a09940.html#a6f7379252f5907d9240e3d364d3a8c02", null ],
-    [ "rbegin", "de/db3/a09940.html#a147b3fe09037c1b80bb122c627000b0a", null ],
-    [ "rend", "de/db3/a09940.html#afb985b9c750f3ff01cb1adaa6f86c78f", null ]
+    [ "MailSender", "de/db3/a09940.html#a16466924bf75ea8203ba27c0f3e6188b", null ],
+    [ "MailSender", "de/db3/a09940.html#a735cfef6950357644d6965978dde0309", null ],
+    [ "MailSender", "de/db3/a09940.html#a145000f5ef63627ee26a5699846e06cf", null ],
+    [ "MailSender", "de/db3/a09940.html#a9ddda06cf5ecc55efdc4525353471c5b", null ],
+    [ "MailSender", "de/db3/a09940.html#a7d5a5e40aa20de720f310b739f159225", null ],
+    [ "MailSender", "de/db3/a09940.html#a12c87bb414a3e8889c95091f3b51716b", null ],
+    [ "GetMailMessageType", "de/db3/a09940.html#a64c99a49ec01d2226b6bf740edb380fb", null ],
+    [ "GetSenderId", "de/db3/a09940.html#a03145c3fdc5bbabc64019e63e121132b", null ],
+    [ "GetStationery", "de/db3/a09940.html#a6a4446e52e20ad7ab4817bf024b38631", null ],
+    [ "m_messageType", "de/db3/a09940.html#a45a312eda342d2197f15d73b47d7787b", null ],
+    [ "m_senderId", "de/db3/a09940.html#a0954b3514cfcba4258b1b266dfd71ddb", null ],
+    [ "m_stationery", "de/db3/a09940.html#a1bbced35b4600f9a45a421d28a33393b", null ]
 ];

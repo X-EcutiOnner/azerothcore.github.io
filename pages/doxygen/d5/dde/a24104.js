@@ -1,6 +1,6 @@
 var a24104 =
 [
-    [ "HandleAfterRemove", "d5/dde/a24104.html#ac9756a8f206c114ff6443331ca266184", null ],
-    [ "PrepareAuraScript", "d5/dde/a24104.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
-    [ "Register", "d5/dde/a24104.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
+    [ "npcs_flanis_swiftwing_and_kagrosh", "d5/dde/a24104.html#aa95eceea94521947bd443805c8ddb52d", null ],
+    [ "OnGossipHello", "d5/dde/a24104.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
+    [ "OnGossipSelect", "d5/dde/a24104.html#aff34165955ba93e1fcd2b9731894d871", null ]
 ];

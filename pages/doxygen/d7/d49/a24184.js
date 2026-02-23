@@ -1,6 +1,6 @@
 var a24184 =
 [
-    [ "go_apexis_relic", "d7/d49/a24184.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
-    [ "OnGossipHello", "d7/d49/a24184.html#ae8f7167ba5b973881e32d604691dc15a", null ],
-    [ "OnGossipSelect", "d7/d49/a24184.html#a025cc7cc9c69f0eb461445170972ab52", null ]
+    [ "npc_shattrathflaskvendors", "d7/d49/a24184.html#ab74b234406c2022bf519242a7842458a", null ],
+    [ "OnGossipHello", "d7/d49/a24184.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
+    [ "OnGossipSelect", "d7/d49/a24184.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
 ];

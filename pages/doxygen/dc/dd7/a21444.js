@@ -1,6 +1,8 @@
 var a21444 =
 [
-    [ "boss_koralonAI", "d9/d0e/a21448.html", "d9/d0e/a21448" ],
-    [ "boss_koralon", "dc/dd7/a21444.html#a43b9fb1224abeba44080fb02062451b0", null ],
-    [ "GetAI", "dc/dd7/a21444.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
+    [ "HandleEffectRemove", "dc/dd7/a21444.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "dc/dd7/a21444.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "dc/dd7/a21444.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "dc/dd7/a21444.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "dc/dd7/a21444.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

@@ -1,6 +1,6 @@
 var a21856 =
 [
-    [ "npc_mei_francis_mountAI", "d2/d9d/a21860.html", "d2/d9d/a21860" ],
-    [ "npc_mei_francis_mount", "d5/d8c/a21856.html#ab34facb1d4d9a542710340493488eaa8", null ],
-    [ "GetAI", "d5/d8c/a21856.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
+    [ "npc_venture_co_stragglerAI", "d2/d9d/a21860.html", "d2/d9d/a21860" ],
+    [ "npc_venture_co_straggler", "d5/d8c/a21856.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
+    [ "GetAI", "d5/d8c/a21856.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
 ];

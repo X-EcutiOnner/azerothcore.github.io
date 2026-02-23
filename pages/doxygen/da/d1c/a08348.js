@@ -1,9 +1,10 @@
 var a08348 =
 [
-    [ "artKits", "da/d1c/a08348.html#a7ae038f7051f3da177d3cdc95ef608d2", null ],
-    [ "entry", "da/d1c/a08348.html#ae1378dcb4327a4d000c3299a32f9d23f", null ],
-    [ "faction", "da/d1c/a08348.html#a77e0b2613b7a1cda1bd306f066e63a39", null ],
-    [ "flags", "da/d1c/a08348.html#a4120c9184b4cfab7afada48ccf8e713e", null ],
-    [ "maxgold", "da/d1c/a08348.html#ae80fd304ee4d02d5e0d13ec6136ec736", null ],
-    [ "mingold", "da/d1c/a08348.html#a3b1c3dd6f223bd93cda6e993a64b61d1", null ]
+    [ "IsCastable", "da/d1c/a08348.html#a677b21866e24d2c94de28d96db07aafd", null ],
+    [ "MoneyCost", "da/d1c/a08348.html#af20caa962ba1f5edb376b78b6b35b119", null ],
+    [ "ReqAbility", "da/d1c/a08348.html#a101686190208be6fb46a46768ca779f9", null ],
+    [ "ReqLevel", "da/d1c/a08348.html#a45e87439b1ae356ccb9ff381f58f942e", null ],
+    [ "ReqSkillLine", "da/d1c/a08348.html#a008ff0df36f2e19534a5fda97616f14f", null ],
+    [ "ReqSkillRank", "da/d1c/a08348.html#aa151d559cb276797a39dd203fd1b24c2", null ],
+    [ "SpellId", "da/d1c/a08348.html#ac289744925387c199fde756867bbfc57", null ]
 ];

@@ -1,8 +1,5 @@
 var a05732 =
 [
-    [ "cmd", "d8/d78/a05732.html#a14df856ae931474a7c58d0e35caf6ad0", null ],
-    [ "number_of_keys", "d8/d78/a05732.html#aaa44734bb96b91894c038b3f34b4db0d", null ],
-    [ "R1", "d8/d78/a05732.html#a054648a96d1c66bae6fdb9a174e7b1e6", null ],
-    [ "R2", "d8/d78/a05732.html#a72fa4a4d0b6098fdf8e5c8f9a33f08ad", null ],
-    [ "R3", "d8/d78/a05732.html#a819a5ba3a19583fd0cfd0558cf218e54", null ]
+    [ "FromString", "d8/d78/a05732.html#a6992aa92f56607d9546dae7ab5d1af74", null ],
+    [ "ToString", "d8/d78/a05732.html#abf8940ea78f2f947274a2653da04b0a3", null ]
 ];

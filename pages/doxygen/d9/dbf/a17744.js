@@ -1,7 +1,6 @@
 var a17744 =
 [
-    [ "npc_icc_blood_beastAI", "d9/dbf/a17744.html#af52eff9f66451444c5acba6930c1bff6", null ],
-    [ "DoAction", "d9/dbf/a17744.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
-    [ "UpdateAI", "d9/dbf/a17744.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
-    [ "timer1", "d9/dbf/a17744.html#a1074059162f818088808795119f081be", null ]
+    [ "HandleScript", "d9/dbf/a17744.html#ace45b0d9ce3815046e842d462fdcc9b6", null ],
+    [ "PrepareSpellScript", "d9/dbf/a17744.html#a0257968b3a4d9ef3241420bbc5abb63a", null ],
+    [ "Register", "d9/dbf/a17744.html#aed524436eacc6f1dddcc2f3cb6f502fc", null ]
 ];

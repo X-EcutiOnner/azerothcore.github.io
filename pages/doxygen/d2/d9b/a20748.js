@@ -1,11 +1,9 @@
 var a20748 =
 [
-    [ "npc_ulduar_expedition_engineerAI", "d2/d9b/a20748.html#a48e29edad38f8ecbab54579203c93044", null ],
-    [ "Reset", "d2/d9b/a20748.html#a8a68e3a58133913d0eb0bf9fd2532db2", null ],
-    [ "SetData", "d2/d9b/a20748.html#a31db1ae61777b8f1a38d381e785ce158", null ],
-    [ "UpdateAI", "d2/d9b/a20748.html#ab6d29aaae95038282fece78479448459", null ],
-    [ "fixingGUID", "d2/d9b/a20748.html#ae0ba3ddbff054a948709e70f0bf9961a", null ],
-    [ "pInstance", "d2/d9b/a20748.html#a6b858d46eda05493ec0cac22e174854c", null ],
-    [ "timer", "d2/d9b/a20748.html#a926b343da3d3953d386b18f24bc72867", null ],
-    [ "working", "d2/d9b/a20748.html#ab8e436472efd91f2d400c02c1b500746", null ]
+    [ "npc_xt002_scrapbot", "d2/d9b/a20748.html#a0c7270ccbac5c12af8aaec998408046f", null ],
+    [ "JustDied", "d2/d9b/a20748.html#ac6c9cf84bf11e31bcaf620d4c92fa3d0", null ],
+    [ "MovementInform", "d2/d9b/a20748.html#a7c167b396927f73736531b53056bc262", null ],
+    [ "Reset", "d2/d9b/a20748.html#aa9753f72910da1bb56a090e77fc029fb", null ],
+    [ "UpdateAI", "d2/d9b/a20748.html#a3f5cffc3225ced1ccdf3fc0964cc2c05", null ],
+    [ "_locked", "d2/d9b/a20748.html#aaa4e129ebea658b0f2e224e024f6010f", null ]
 ];

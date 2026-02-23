@@ -1,8 +1,9 @@
 var a24580 =
 [
-    [ "npc_pet_gen_gnomish_flame_turret", "d7/da8/a24580.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
-    [ "AttackStart", "d7/da8/a24580.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
-    [ "Reset", "d7/da8/a24580.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
-    [ "UpdateAI", "d7/da8/a24580.html#ae3db08323af4b82009ffd660b3e78474", null ],
-    [ "checkTimer", "d7/da8/a24580.html#ac6705f4980ca561a5fd33c2917488439", null ]
+    [ "Absorb", "d7/da8/a24580.html#ae5101c9adc7b9d09daf9c78d5e6d9d14", null ],
+    [ "CalculateAmount", "d7/da8/a24580.html#a0e88abc0dfc1f0aa5c52f3602f99d45a", null ],
+    [ "Load", "d7/da8/a24580.html#ab7eae0747736dea5633ef51eb0945fae", null ],
+    [ "PrepareAuraScript", "d7/da8/a24580.html#a760b72149ee11ad88e290c9537b3094b", null ],
+    [ "Register", "d7/da8/a24580.html#a0d25efee128ee95f9ad268b53358f376", null ],
+    [ "absorbPct", "d7/da8/a24580.html#a31091ef6a0d39e1d498420a85f6c84fa", null ]
 ];

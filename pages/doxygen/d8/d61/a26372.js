@@ -1,8 +1,7 @@
 var a26372 =
 [
-    [ "Load", "d8/d61/a26372.html#a7662d85a5469c20edf6d2eefca820db3", null ],
-    [ "PrepareAuraScript", "d8/d61/a26372.html#a252bd975a7639eab4e151249db974b7c", null ],
-    [ "Register", "d8/d61/a26372.html#a51723a22f1062f44e8eb6848e1398595", null ],
-    [ "Split", "d8/d61/a26372.html#a08e982eae6030fdc679663bfd38bca47", null ],
-    [ "remainingAmount", "d8/d61/a26372.html#afaab88988769ddc720deb44f06de3d7d", null ]
+    [ "HandleProc", "d8/d61/a26372.html#a19c34d190abeab629f48cbbaaa066cf8", null ],
+    [ "PrepareAuraScript", "d8/d61/a26372.html#aaf5c649ef33b57ac964613308d3357d1", null ],
+    [ "Register", "d8/d61/a26372.html#aed9d3ef3406aea2656b34230229241de", null ],
+    [ "Validate", "d8/d61/a26372.html#a7f0074e18ffddba1383b01ce774ecff5", null ]
 ];

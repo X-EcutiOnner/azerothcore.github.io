@@ -1,7 +1,6 @@
 var a15724 =
 [
-    [ "HandleEffectPeriodic", "d8/da8/a15724.html#ac47c157dbd193bc131d281666ae2097f", null ],
-    [ "PrepareAuraScript", "d8/da8/a15724.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
-    [ "Register", "d8/da8/a15724.html#ac3c158fdddd007d1d7986470032bfc25", null ],
-    [ "Validate", "d8/da8/a15724.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
+    [ "HandleApply", "d8/da8/a15724.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
+    [ "PrepareAuraScript", "d8/da8/a15724.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
+    [ "Register", "d8/da8/a15724.html#ade5c710416516760cc69f77750aa2a1f", null ]
 ];

@@ -1,7 +1,6 @@
 var a24100 =
 [
-    [ "HandleDamage", "d2/ddf/a24100.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "d2/ddf/a24100.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "d2/ddf/a24100.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "d2/ddf/a24100.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "npc_drake_dealer_hurlunk", "d2/ddf/a24100.html#ae6d095365d23c30d5b772b047b459ddb", null ],
+    [ "OnGossipHello", "d2/ddf/a24100.html#ad04b7f906f029d9935e29c585b0de421", null ],
+    [ "OnGossipSelect", "d2/ddf/a24100.html#aa23833dcdefb909899120c25d5376111", null ]
 ];

@@ -1,18 +1,11 @@
 var a29984 =
 [
-    [ "_ACORE_CORE_CONFIG", "d6/df5/a04826.html#ga1d466b8deaea4c5b80b4abcdc38991fd", null ],
-    [ "ClearOnlineAccounts", "d6/df5/a04826.html#ga285010ee0ae83f9198f08fa3145877d7", null ],
-    [ "GetConsoleArguments", "d6/df5/a04826.html#gab889056920cce8fbe96e920cea5fd9e6", null ],
-    [ "LoadRealmInfo", "d6/df5/a04826.html#ga74b21e249952fe0d6d779ee217c76dc5", null ],
-    [ "main", "d6/df5/a04826.html#ga3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "ShutdownCLIThread", "d6/df5/a04826.html#gaafe46b3c9a56a31faa60963b6a1f202a", null ],
-    [ "SignalHandler", "d6/df5/a04826.html#gad82d96de9a84a7d0325afcd3121344a4", null ],
-    [ "StartDB", "d6/df5/a04826.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StartRaSocketAcceptor", "d6/df5/a04826.html#ga0781c2ca38d89a89b174f81fb895285b", null ],
-    [ "StopDB", "d6/df5/a04826.html#ga927af1587546ee7503a3b9a18f6439c0", null ],
-    [ "WorldUpdateLoop", "d6/df5/a04826.html#ga62605923595bdfa644784c8a929fa1a7", null ],
-    [ "m_ServiceStatus", "d6/df5/a04826.html#gabad888b856358b30aa3928d7e01916fb", null ],
-    [ "serviceDescription", "d6/df5/a04826.html#ga2994dda4045f1e2d3d675565a16a4dd2", null ],
-    [ "serviceLongName", "d6/df5/a04826.html#ga34b5207234887e0d62724cf770037f6f", null ],
-    [ "serviceName", "d6/df5/a04826.html#ga69c549a4f4a1e88fa4a2c38cde62f569", null ]
+    [ "material", "d7/d96/a29984.html#a7079e8817a9684602084eb224f2540fc", null ],
+    [ "pos_x", "d7/d96/a29984.html#ac4d971cc46506be14716124afbb5ad9c", null ],
+    [ "pos_y", "d7/d96/a29984.html#a6cd85f2a674d732e88371ffce5e46077", null ],
+    [ "pos_z", "d7/d96/a29984.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
+    [ "xtiles", "d7/d96/a29984.html#aca34dfa64624cfe04c314c13bbed0062", null ],
+    [ "xverts", "d7/d96/a29984.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
+    [ "ytiles", "d7/d96/a29984.html#a9901a7e9828ac840bc290b0768831d66", null ],
+    [ "yverts", "d7/d96/a29984.html#abf24042b85692cd0df05d65d734dd99e", null ]
 ];

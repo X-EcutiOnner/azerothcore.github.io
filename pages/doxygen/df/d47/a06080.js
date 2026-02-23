@@ -1,10 +1,10 @@
 var a06080 =
 [
-    [ "Storage", "df/d47/a06080.html#a49a70316b169e50ad64ff51d6a568bbc", null ],
-    [ "AchievementCriteriaDataSet", "df/d47/a06080.html#a5055f8710c48379035e132e8f20577dc", null ],
-    [ "Add", "df/d47/a06080.html#a297f02665679b19961998fb529d064e4", null ],
-    [ "Meets", "df/d47/a06080.html#a8edbe32d695308633fa7abfc91d2a1a1", null ],
-    [ "SetCriteriaId", "df/d47/a06080.html#addedfd39d9948923a2704b51eaacecbc", null ],
-    [ "_criteria_id", "df/d47/a06080.html#a0abc37729d2f3c400bb7cfde212f51c0", null ],
-    [ "_storage", "df/d47/a06080.html#a6abf189d95226b370cfcfe7b628ed7c0", null ]
+    [ "TransactionCallback", "df/d47/a06080.html#a89e9ebf06ffbad9dcf77a78f9f989450", null ],
+    [ "TransactionCallback", "df/d47/a06080.html#adeff62976c11d9d90169e4650640118b", null ],
+    [ "AfterComplete", "df/d47/a06080.html#af2ec892bbca8d2cc694b36fb931fc1e8", null ],
+    [ "InvokeIfReady", "df/d47/a06080.html#a7937d93dbd22617a2fd3893a6fe8c23c", null ],
+    [ "operator=", "df/d47/a06080.html#ab73d1741c21ea9fd86f65a647768e972", null ],
+    [ "m_callback", "df/d47/a06080.html#abb0dbcebb22ea716025ed6aca99f6afb", null ],
+    [ "m_future", "df/d47/a06080.html#a381e889074bc5ca48574d37fe6eea00f", null ]
 ];

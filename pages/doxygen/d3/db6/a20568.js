@@ -1,6 +1,11 @@
 var a20568 =
 [
-    [ "HandleInstaKill", "d3/db6/a20568.html#a593786eb89bf77e05dad4b502ffc1925", null ],
-    [ "PrepareSpellScript", "d3/db6/a20568.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
-    [ "Register", "d3/db6/a20568.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
+    [ "npc_ulduar_proximity_mine", "d3/db6/a20568.html#ab9ce5859157d12f4577eda515a183ef6", null ],
+    [ "AttackStart", "d3/db6/a20568.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
+    [ "CanAIAttack", "d3/db6/a20568.html#a18311072271a18b279c5bf21f7da2482", null ],
+    [ "MoveInLineOfSight", "d3/db6/a20568.html#a6a406f8098dac7038173f51e9f85a79b", null ],
+    [ "UpdateAI", "d3/db6/a20568.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
+    [ "exploded", "d3/db6/a20568.html#a3e291553aa853ebb5ff002599c68376c", null ],
+    [ "timer", "d3/db6/a20568.html#a8c69d475914fb11c149fea527d31f758", null ],
+    [ "timer2", "d3/db6/a20568.html#a8feed3514cc188da930ef45bbaa2ff50", null ]
 ];

@@ -1,10 +1,6 @@
 var a19752 =
 [
-    [ "npc_molten_golem", "dc/d16/a19752.html#a38350948396b7df97837780531f79515", null ],
-    [ "DamageTaken", "dc/d16/a19752.html#aa3521246b0c2bed18b5466879ec1d107", null ],
-    [ "DoAction", "dc/d16/a19752.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
-    [ "Reset", "dc/d16/a19752.html#a24e23d0959bcda5be05786381a35ac77", null ],
-    [ "UpdateAI", "dc/d16/a19752.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
-    [ "events", "dc/d16/a19752.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
-    [ "m_pInstance", "dc/d16/a19752.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
+    [ "instance_nexus_InstanceMapScript", "d9/d40/a19756.html", "d9/d40/a19756" ],
+    [ "instance_nexus", "dc/d16/a19752.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
+    [ "GetInstanceScript", "dc/d16/a19752.html#a156210ba08caa0572c775dbd5851b250", null ]
 ];

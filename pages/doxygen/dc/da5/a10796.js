@@ -1,9 +1,9 @@
 var a10796 =
 [
-    [ "GuildBankUpdateTab", "dc/da5/a10796.html#a2950da8bfc40df57a3f5a66eee47a7ef", null ],
-    [ "Read", "dc/da5/a10796.html#ac261ff0102489efb4d69bd866ffc9283", null ],
-    [ "Banker", "dc/da5/a10796.html#a7ab950cee095221f9114224a624d46db", null ],
-    [ "BankTab", "dc/da5/a10796.html#a66284a4d9cb40b025ef265d443e6e62f", null ],
-    [ "Icon", "dc/da5/a10796.html#a75a219a9e2ab677a41920f39a1613a1b", null ],
-    [ "Name", "dc/da5/a10796.html#a44261fbc379b3137548922faf4b5cbda", null ]
+    [ "GuildInfoResponse", "dc/da5/a10796.html#a256cb81ad2e08050be99c9e1061c2009", null ],
+    [ "Write", "dc/da5/a10796.html#a3222d0018c9593400d3d01258b82371e", null ],
+    [ "CreateDate", "dc/da5/a10796.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
+    [ "GuildName", "dc/da5/a10796.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
+    [ "NumAccounts", "dc/da5/a10796.html#a21b42f1654aa10f7872d87635fea66ac", null ],
+    [ "NumMembers", "dc/da5/a10796.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
 ];

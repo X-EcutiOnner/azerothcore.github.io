@@ -1,6 +1,12 @@
 var a23464 =
 [
-    [ "HandlePeriodic", "d7/dbc/a23464.html#a25c698e911ec02d9cd7f757ba87281df", null ],
-    [ "PrepareAuraScript", "d7/dbc/a23464.html#a7bf79bc5e5f509b52965f03e998db399", null ],
-    [ "Register", "d7/dbc/a23464.html#ab3eec9f591384c7c1c684651c38aa614", null ]
+    [ "boss_omor_the_unscarred", "d7/dbc/a23464.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
+    [ "JustDied", "d7/dbc/a23464.html#a9ddae483a0f8cefd8a19975b60002660", null ],
+    [ "JustEngagedWith", "d7/dbc/a23464.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
+    [ "JustSummoned", "d7/dbc/a23464.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
+    [ "KilledUnit", "d7/dbc/a23464.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
+    [ "Reset", "d7/dbc/a23464.html#a0ec22c50cd096677a20299ab45a3c344", null ],
+    [ "UpdateAI", "d7/dbc/a23464.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
+    [ "_hasSpoken", "d7/dbc/a23464.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
+    [ "_targetGUID", "d7/dbc/a23464.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
 ];

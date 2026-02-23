@@ -1,8 +1,9 @@
 var a27092 =
 [
-    [ "CheckProc", "da/dc4/a27092.html#a610313f5085c7c0109b5936e94de00fe", null ],
-    [ "OnProc", "da/dc4/a27092.html#ad87c4cbd332dc19be3bc8ec9982a385b", null ],
-    [ "PrepareAuraScript", "da/dc4/a27092.html#aae4d26e262f80681811c9b50c2a63642", null ],
-    [ "Register", "da/dc4/a27092.html#a8fdcd2b4489011294d9f58d5ff0beb3f", null ],
-    [ "Validate", "da/dc4/a27092.html#a00ef3cd4b2ee5739f5f7288ccbd6a1c6", null ]
+    [ "CheckCast", "da/dc4/a27092.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
+    [ "HandleActiveObject", "da/dc4/a27092.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
+    [ "HandleDummy", "da/dc4/a27092.html#a39dd06ae92d04060ee41897318a701fd", null ],
+    [ "Load", "da/dc4/a27092.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
+    [ "PrepareSpellScript", "da/dc4/a27092.html#a016e480d7b2267c9bf824c9cb029f134", null ],
+    [ "Register", "da/dc4/a27092.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
 ];

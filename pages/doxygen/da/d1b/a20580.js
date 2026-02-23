@@ -1,5 +1,8 @@
 var a20580 =
 [
-    [ "achievement_kologarn_looks_could_kill", "da/d1b/a20580.html#a3fcf36dabe41ff35ace233854bd0fb44", null ],
-    [ "OnCheck", "da/d1b/a20580.html#a0e7be4fb00808fab9a231530822fc93d", null ]
+    [ "npc_ulduar_magnetic_core", "da/d1b/a20580.html#a47ea345b2d95ed8498de27223a58298f", null ],
+    [ "SetData", "da/d1b/a20580.html#a19e1f13897e39667b4bd27c50973f008", null ],
+    [ "UpdateAI", "da/d1b/a20580.html#a73982851a7d5b6acfd187119f5a2b7fa", null ],
+    [ "despawnTimer", "da/d1b/a20580.html#a9be3f2a9cd0ed46ca298d69457aa8fd1", null ],
+    [ "instance", "da/d1b/a20580.html#a39c06e09431565d6ce03db0970c51dac", null ]
 ];

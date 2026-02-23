@@ -1,7 +1,7 @@
 var a27088 =
 [
-    [ "HandleTeleport", "d8/d5d/a27088.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
-    [ "PrepareAuraScript", "d8/d5d/a27088.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
-    [ "Register", "d8/d5d/a27088.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
-    [ "Validate", "d8/d5d/a27088.html#adabf22bd591a10662ffbf0354a18a936", null ]
+    [ "HandleScriptEffect", "d8/d5d/a27088.html#ae7bfcdf3306fe4c8532649ff7e892c57", null ],
+    [ "PrepareSpellScript", "d8/d5d/a27088.html#ad2bfab00a973366af32388e40b9d2566", null ],
+    [ "Register", "d8/d5d/a27088.html#acbf74d85d9d8ce8e9ce0546c90cb7efa", null ],
+    [ "Validate", "d8/d5d/a27088.html#a487fa0e6b5f2682349b22737ceeae50c", null ]
 ];

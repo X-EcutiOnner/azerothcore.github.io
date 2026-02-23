@@ -1,8 +1,7 @@
 var a26928 =
 [
-    [ "Apply", "dd/d10/a26928.html#ac3145df90b6b179fece1c76da114e395", null ],
-    [ "HandleEffectPeriodic", "dd/d10/a26928.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
-    [ "PrepareAuraScript", "dd/d10/a26928.html#aa911ba0b5a13a933bf50a072799a040f", null ],
-    [ "Register", "dd/d10/a26928.html#ae0dff9b5002d3d3361d794a75645057f", null ],
-    [ "Validate", "dd/d10/a26928.html#ad81184b508474a89fbafc63594ef0ab1", null ]
+    [ "if", "dd/d10/a26928.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
+    [ "PrepareAuraScript", "dd/d10/a26928.html#aa31810077c241e77193e378cb297b7de", null ],
+    [ "Register", "dd/d10/a26928.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
+    [ "AuraEffectHandleModes", "dd/d10/a26928.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
 ];

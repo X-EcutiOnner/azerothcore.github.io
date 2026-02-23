@@ -1,5 +1,6 @@
 var a24420 =
 [
-    [ "go_crystal_prison", "d7/db8/a24420.html#a0faca8b76f9650ee5cc7825b90463365", null ],
-    [ "OnQuestAccept", "d7/db8/a24420.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
+    [ "HandlePeriodic", "d7/db8/a24420.html#adc387a1b001119b95179856c030853ad", null ],
+    [ "PrepareAuraScript", "d7/db8/a24420.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
+    [ "Register", "d7/db8/a24420.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
 ];

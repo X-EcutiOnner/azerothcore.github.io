@@ -1,11 +1,11 @@
 var a17492 =
 [
-    [ "boss_slad_ranAI", "d4/d25/a17492.html#ad85e2fd51d67739026a96bc757bc7801", null ],
-    [ "GetData", "d4/d25/a17492.html#a58e1188a418acdc1f327e7df90c5c122", null ],
-    [ "JustDied", "d4/d25/a17492.html#a636ca76497c33a5175986e80bbcda44a", null ],
-    [ "JustEngagedWith", "d4/d25/a17492.html#ac30b38805d0421b1be509c7d5609c648", null ],
-    [ "KilledUnit", "d4/d25/a17492.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
-    [ "Reset", "d4/d25/a17492.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
-    [ "SetData", "d4/d25/a17492.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
-    [ "_achievement", "d4/d25/a17492.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
+    [ "npc_pos_tyrannus_eventsAI", "d4/d25/a17492.html#a51769d22a4cb448fae90d827e2494581", null ],
+    [ "MovementInform", "d4/d25/a17492.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
+    [ "SetData", "d4/d25/a17492.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
+    [ "UpdateAI", "d4/d25/a17492.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
+    [ "deathbringerGUID", "d4/d25/a17492.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
+    [ "events", "d4/d25/a17492.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
+    [ "killsLeft", "d4/d25/a17492.html#ac81d85e0ceb0b571373f44475baa36df", null ],
+    [ "pInstance", "d4/d25/a17492.html#a44460335986bcedf35dc295c242df6da", null ]
 ];

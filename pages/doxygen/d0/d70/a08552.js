@@ -1,5 +1,5 @@
 var a08552 =
 [
-    [ "PositionXYZOStreamer", "d0/d70/a08552.html#afddf48b02eea5399d818468cdf8795c5", null ],
-    [ "m_pos", "d0/d70/a08552.html#a6c2be4021912b753ed7da07f1c6a7464", null ]
+    [ "ItemStatType", "d0/d70/a08552.html#a8643f062d325b5048c839525db56af3e", null ],
+    [ "ItemStatValue", "d0/d70/a08552.html#a5a5ee42445d9121f186c084dfbc31425", null ]
 ];

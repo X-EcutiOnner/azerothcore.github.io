@@ -1,6 +1,8 @@
 var a09992 =
 [
-    [ "aiNotifyDelay", "d7/d3f/a09992.html#af70453021c5ded85c73a4d5559dca2ea", null ],
-    [ "requiredMoveDistanceSq", "d7/d3f/a09992.html#aaa4faa0170181e409940b5441eb2f586", null ],
-    [ "visibilityNotifyDelay", "d7/d3f/a09992.html#ad566fd5eff102929247b75cf5092a60b", null ]
+    [ "EllipseBoundary", "d7/d3f/a09992.html#aeb8c822a8c4c745de0c848721a624545", null ],
+    [ "IsWithinBoundaryArea", "d7/d3f/a09992.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
+    [ "_center", "d7/d3f/a09992.html#aa84bae8bced77e38fec652e473cf39c7", null ],
+    [ "_radiusYSq", "d7/d3f/a09992.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
+    [ "_scaleXSq", "d7/d3f/a09992.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
 ];

@@ -1,11 +1,10 @@
 var a28260 =
 [
-    [ "icon", "d8/d91/a28260.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
-    [ "id", "d8/d91/a28260.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
-    [ "mapId", "d8/d91/a28260.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
-    [ "worldState", "d8/d91/a28260.html#a9d745d26316726c861cc5a242f6a4f57", null ],
-    [ "x", "d8/d91/a28260.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
-    [ "y", "d8/d91/a28260.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
-    [ "z", "d8/d91/a28260.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
-    [ "zoneId", "d8/d91/a28260.html#a0cc33089981237694ca550cba6793a3e", null ]
+    [ "guard_shattrath_scryerAI", "d8/d91/a28260.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "d8/d91/a28260.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "d8/d91/a28260.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "d8/d91/a28260.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "d8/d91/a28260.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "d8/d91/a28260.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "d8/d91/a28260.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

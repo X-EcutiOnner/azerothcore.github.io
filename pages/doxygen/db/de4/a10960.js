@@ -1,5 +1,6 @@
 var a10960 =
 [
-    [ "LFGLeave", "db/de4/a10960.html#aba31f53e0e13c13fd96f1b6ea1d42310", null ],
-    [ "Read", "db/de4/a10960.html#abae9c55efce73edf5edf1940cb8b61eb", null ]
+    [ "GuildBankLogQuery", "db/de4/a10960.html#ab094e91a48d0259b4247157b92997bb2", null ],
+    [ "Read", "db/de4/a10960.html#a5eed269e9285a33ffc61fcfa7d639083", null ],
+    [ "Tab", "db/de4/a10960.html#ae966e3ac144b86e20f65b742ff3be9e3", null ]
 ];

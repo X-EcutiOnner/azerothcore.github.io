@@ -1,7 +1,4 @@
 var a17012 =
 [
-    [ "HandleScriptEffect", "d5/d67/a17012.html#a667e50b01f431dba025f692484f6e7ba", null ],
-    [ "PrepareSpellScript", "d5/d67/a17012.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
-    [ "Register", "d5/d67/a17012.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
-    [ "Validate", "d5/d67/a17012.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
+    [ "boss_dreadscaleAI", "d5/d67/a17012.html#ab0d0f8a7ec6567e8811d09721f6fa9ed", null ]
 ];

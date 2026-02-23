@@ -1,8 +1,8 @@
 var a16416 =
 [
-    [ "OnApply", "db/d2e/a16416.html#a7165da94ce589afcd24411a308802c18", null ],
-    [ "OnRemove", "db/d2e/a16416.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49", null ],
-    [ "PrepareAuraScript", "db/d2e/a16416.html#ab8361bc1d2cc786b52f1fc2b7ff09527", null ],
-    [ "Register", "db/d2e/a16416.html#a0ff7bbd0dea458b15231ecf419b1c49c", null ],
-    [ "Validate", "db/d2e/a16416.html#acf29b80b7b74c3f409e1f046b8062994", null ]
+    [ "npc_twilight_summon", "db/d2e/a16416.html#a34697edd1af94814862a50a038625f93", null ],
+    [ "DoAction", "db/d2e/a16416.html#a78ef5af35959e8bedbf7a23569a2f8bd", null ],
+    [ "Reset", "db/d2e/a16416.html#aa909fac05e93a78d3f70222fb82a6841", null ],
+    [ "UpdateAI", "db/d2e/a16416.html#afe47f7af23aa7ef5b59473579c649859", null ],
+    [ "fadeArmorTimer", "db/d2e/a16416.html#a998e2efd9e25915d32b953d684352511", null ]
 ];

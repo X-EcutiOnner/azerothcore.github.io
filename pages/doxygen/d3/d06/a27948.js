@@ -1,5 +1,7 @@
 var a27948 =
 [
-    [ "npc_necropolis", "d3/d06/a27948.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
-    [ "SpellHit", "d3/d06/a27948.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
+    [ "CharacterDeleteActionIpLogger", "d3/d06/a27948.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "d3/d06/a27948.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "d3/d06/a27948.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "d3/d06/a27948.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

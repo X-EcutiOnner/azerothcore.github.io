@@ -1,6 +1,6 @@
 var a12788 =
 [
-    [ "boss_sulfuronAI", "dc/de0/a12788.html#a63c76fb94131830924e2bf77477261ba", null ],
-    [ "ExecuteEvent", "dc/de0/a12788.html#ae038aa8140f5b4128c39c592966321f1", null ],
-    [ "JustEngagedWith", "dc/de0/a12788.html#a35394690b8d25529c91c147025f6ad92", null ]
+    [ "instance_blackwing_lair_InstanceMapScript", "dc/d69/a12792.html", "dc/d69/a12792" ],
+    [ "instance_blackwing_lair", "dc/de0/a12788.html#afb9a7ce1ac297b023aa8364cc1383336", null ],
+    [ "GetInstanceScript", "dc/de0/a12788.html#a70aff4e1bb406f232d0b4961037ed0a1", null ]
 ];

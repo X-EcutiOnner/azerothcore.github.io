@@ -1,9 +1,9 @@
 var a14628 =
 [
-    [ "spell_hallows_end_put_costume", "dd/dfe/a14628.html#ac1fcd0a32142744f353cdc01bce740e3", null ],
-    [ "HandleScript", "dd/dfe/a14628.html#ac4be92e73c08c06c1c9954547bfe8013", null ],
-    [ "PrepareSpellScript", "dd/dfe/a14628.html#ac0e4692be1527f052a23ed52af32d042", null ],
-    [ "Register", "dd/dfe/a14628.html#ac38299892d02c497e3bbae3c73a095ab", null ],
-    [ "_femaleSpell", "dd/dfe/a14628.html#a5ccb30abd83ed1d0be104bffc91deca2", null ],
-    [ "_maleSpell", "dd/dfe/a14628.html#af9b285133389942bea6738e518d34e48", null ]
+    [ "HandleEffectPeriodic", "dd/dfe/a14628.html#a798c8ddfc71e703bfe1e3c1f2d926cef", null ],
+    [ "HandleEffectRemove", "dd/dfe/a14628.html#a96ed7366e568b70e82d622586740aa56", null ],
+    [ "Load", "dd/dfe/a14628.html#a85cbc44e586330e2adfc0656a428bd7b", null ],
+    [ "PrepareAuraScript", "dd/dfe/a14628.html#abd1f851112a50b79e815cdd894275bab", null ],
+    [ "Register", "dd/dfe/a14628.html#aa3cd85aed063017c4737e7660fa81f37", null ],
+    [ "questTick", "dd/dfe/a14628.html#ae2980e5f4934ce2ba5b755b7d45fab82", null ]
 ];

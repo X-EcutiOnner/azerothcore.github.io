@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::CreatureWorker&lt; Do &gt; Struct Template Reference</title>
+<title>AzerothCore: LoadedLiquidData Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,180 +105,229 @@ $(document).ready(function(){initNavTree('dc/dd6/a09360.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d4/d01/a09357.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::CreatureWorker&lt; Do &gt; Struct Template Reference</div></div>
+  <div class="headertitle"><div class="title">LoadedLiquidData Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">GridTerrainData.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a4b4dc219d034565cd83748c5f1cab2a5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd6/a09360.html#a4b4dc219d034565cd83748c5f1cab2a5">CreatureWorker</a> (<a class="el" href="../../d8/dc4/a08492.html">WorldObject</a> const *searcher, Do &amp;_do)</td></tr>
-<tr class="separator:a4b4dc219d034565cd83748c5f1cab2a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae67044250380c521055f80c55de0bba5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd6/a09360.html#ae67044250380c521055f80c55de0bba5">Visit</a> (<a class="el" href="../../d9/d1b/a01583.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;m)</td></tr>
-<tr class="separator:ae67044250380c521055f80c55de0bba5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa9a450b147aafe46a49135f5c5be668e"><td class="memTemplParams" colspan="2">template&lt;class NOT_INTERESTED &gt; </td></tr>
-<tr class="memitem:aa9a450b147aafe46a49135f5c5be668e"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dc/dd6/a09360.html#aa9a450b147aafe46a49135f5c5be668e">Visit</a> (<a class="el" href="../../d6/d94/a09192.html">GridRefMgr</a>&lt; NOT_INTERESTED &gt; &amp;)</td></tr>
-<tr class="separator:aa9a450b147aafe46a49135f5c5be668e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:a025eadf79f31d447fc80efabbb2f9f22"><td class="memItemLeft" align="right" valign="top">typedef std::array&lt; <a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>, 16 *16 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd6/a09360.html#a025eadf79f31d447fc80efabbb2f9f22">LiquidEntryType</a></td></tr>
+<tr class="separator:a025eadf79f31d447fc80efabbb2f9f22"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5bd1b8c77ed4830cc558985e98aa1d01"><td class="memItemLeft" align="right" valign="top">typedef std::array&lt; <a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, 16 *16 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd6/a09360.html#a5bd1b8c77ed4830cc558985e98aa1d01">LiquidFlagsType</a></td></tr>
+<tr class="separator:a5bd1b8c77ed4830cc558985e98aa1d01"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a554cc712f06b4a0eb9bf81c4a41b9030"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; float &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd6/a09360.html#a554cc712f06b4a0eb9bf81c4a41b9030">LiquidMapType</a></td></tr>
+<tr class="separator:a554cc712f06b4a0eb9bf81c4a41b9030"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:adf514c89c894cdf2b44fc75d14c4f5b0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd6/a09360.html#adf514c89c894cdf2b44fc75d14c4f5b0">i_phaseMask</a></td></tr>
-<tr class="separator:adf514c89c894cdf2b44fc75d14c4f5b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac22f86d9a41701e7527d4840da256f11"><td class="memItemLeft" align="right" valign="top">Do &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd6/a09360.html#ac22f86d9a41701e7527d4840da256f11">i_do</a></td></tr>
-<tr class="separator:ac22f86d9a41701e7527d4840da256f11"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a48274eeefa423c48ff860c8ffc110a30"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd6/a09360.html#a48274eeefa423c48ff860c8ffc110a30">liquidGlobalEntry</a></td></tr>
+<tr class="separator:a48274eeefa423c48ff860c8ffc110a30"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abdd9bfcaf91f30c3e543e632c347aa88"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd6/a09360.html#abdd9bfcaf91f30c3e543e632c347aa88">liquidGlobalFlags</a></td></tr>
+<tr class="separator:abdd9bfcaf91f30c3e543e632c347aa88"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a310d68fbb4d88272b7ae93492331ce4b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd6/a09360.html#a310d68fbb4d88272b7ae93492331ce4b">liquidOffX</a></td></tr>
+<tr class="separator:a310d68fbb4d88272b7ae93492331ce4b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae8b485a43a960a810f5951df6419bd54"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd6/a09360.html#ae8b485a43a960a810f5951df6419bd54">liquidOffY</a></td></tr>
+<tr class="separator:ae8b485a43a960a810f5951df6419bd54"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afee2d2d96fc879729a070d2b5eb114e0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd6/a09360.html#afee2d2d96fc879729a070d2b5eb114e0">liquidWidth</a></td></tr>
+<tr class="separator:afee2d2d96fc879729a070d2b5eb114e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a40f757a6fa57ade760cf1001925a0560"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd6/a09360.html#a40f757a6fa57ade760cf1001925a0560">liquidHeight</a></td></tr>
+<tr class="separator:a40f757a6fa57ade760cf1001925a0560"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a45b8bab4cc66e6e5be5ef51ad27bf1cc"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd6/a09360.html#a45b8bab4cc66e6e5be5ef51ad27bf1cc">liquidLevel</a></td></tr>
+<tr class="separator:a45b8bab4cc66e6e5be5ef51ad27bf1cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1d69fc74b38f6e596704e26e93281314"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../dc/dd6/a09360.html#a025eadf79f31d447fc80efabbb2f9f22">LiquidEntryType</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd6/a09360.html#a1d69fc74b38f6e596704e26e93281314">liquidEntry</a></td></tr>
+<tr class="separator:a1d69fc74b38f6e596704e26e93281314"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9ebf22bb06a9254e7175083dc51af9dd"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../dc/dd6/a09360.html#a5bd1b8c77ed4830cc558985e98aa1d01">LiquidFlagsType</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd6/a09360.html#a9ebf22bb06a9254e7175083dc51af9dd">liquidFlags</a></td></tr>
+<tr class="separator:a9ebf22bb06a9254e7175083dc51af9dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae6ddffb70a92aea580bacebb5a0e4d11"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../dc/dd6/a09360.html#a554cc712f06b4a0eb9bf81c4a41b9030">LiquidMapType</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd6/a09360.html#ae6ddffb70a92aea580bacebb5a0e4d11">liquidMap</a></td></tr>
+<tr class="separator:ae6ddffb70a92aea580bacebb5a0e4d11"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;class Do&gt;<br />
-struct Acore::CreatureWorker&lt; Do &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a4b4dc219d034565cd83748c5f1cab2a5" name="a4b4dc219d034565cd83748c5f1cab2a5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4b4dc219d034565cd83748c5f1cab2a5">&#9670;&#160;</a></span>CreatureWorker()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="a025eadf79f31d447fc80efabbb2f9f22" name="a025eadf79f31d447fc80efabbb2f9f22"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a025eadf79f31d447fc80efabbb2f9f22">&#9670;&#160;</a></span>LiquidEntryType</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class Do &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/dd6/a09360.html">Acore::CreatureWorker</a>&lt; Do &gt;::CreatureWorker </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/dc4/a08492.html">WorldObject</a> const *&#160;</td>
-          <td class="paramname"><em>searcher</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Do &amp;&#160;</td>
-          <td class="paramname"><em>_do</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">typedef std::array&lt;<a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>, 16 * 16&gt; <a class="el" href="../../dc/dd6/a09360.html#a025eadf79f31d447fc80efabbb2f9f22">LoadedLiquidData::LiquidEntryType</a></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  485</span>            : <a class="code hl_variable" href="../../dc/dd6/a09360.html#adf514c89c894cdf2b44fc75d14c4f5b0">i_phaseMask</a>(searcher-&gt;GetPhaseMask()), <a class="code hl_variable" href="../../dc/dd6/a09360.html#ac22f86d9a41701e7527d4840da256f11">i_do</a>(_do) {}</div>
-<div class="ttc" id="aa09360_html_ac22f86d9a41701e7527d4840da256f11"><div class="ttname"><a href="../../dc/dd6/a09360.html#ac22f86d9a41701e7527d4840da256f11">Acore::CreatureWorker::i_do</a></div><div class="ttdeci">Do &amp; i_do</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:482</div></div>
-<div class="ttc" id="aa09360_html_adf514c89c894cdf2b44fc75d14c4f5b0"><div class="ttname"><a href="../../dc/dd6/a09360.html#adf514c89c894cdf2b44fc75d14c4f5b0">Acore::CreatureWorker::i_phaseMask</a></div><div class="ttdeci">uint32 i_phaseMask</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:481</div></div>
-</div><!-- fragment -->
+
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="ae67044250380c521055f80c55de0bba5" name="ae67044250380c521055f80c55de0bba5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae67044250380c521055f80c55de0bba5">&#9670;&#160;</a></span>Visit() <span class="overload">[1/2]</span></h2>
+<a id="a5bd1b8c77ed4830cc558985e98aa1d01" name="a5bd1b8c77ed4830cc558985e98aa1d01"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5bd1b8c77ed4830cc558985e98aa1d01">&#9670;&#160;</a></span>LiquidFlagsType</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class Do &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../dc/dd6/a09360.html">Acore::CreatureWorker</a>&lt; Do &gt;::Visit </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d1b/a01583.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;&#160;</td>
-          <td class="paramname"><em>m</em></td><td>)</td>
-          <td></td>
+          <td class="memname">typedef std::array&lt;<a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, 16 * 16&gt; <a class="el" href="../../dc/dd6/a09360.html#a5bd1b8c77ed4830cc558985e98aa1d01">LoadedLiquidData::LiquidFlagsType</a></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  488</span>        {</div>
-<div class="line"><span class="lineno">  489</span>            <span class="keywordflow">for</span> (<a class="code hl_class" href="../../dc/da0/a05304.html">CreatureMapType::iterator</a> itr = m.<a class="code hl_function" href="../../d6/d94/a09192.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); itr != m.<a class="code hl_function" href="../../d6/d94/a09192.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++itr)</div>
-<div class="line"><span class="lineno">  490</span>                <span class="keywordflow">if</span> (itr-&gt;GetSource()-&gt;InSamePhase(<a class="code hl_variable" href="../../dc/dd6/a09360.html#adf514c89c894cdf2b44fc75d14c4f5b0">i_phaseMask</a>))</div>
-<div class="line"><span class="lineno">  491</span>                    <a class="code hl_variable" href="../../dc/dd6/a09360.html#ac22f86d9a41701e7527d4840da256f11">i_do</a>(itr-&gt;GetSource());</div>
-<div class="line"><span class="lineno">  492</span>        }</div>
-<div class="ttc" id="aa05304_html"><div class="ttname"><a href="../../dc/da0/a05304.html">LinkedListHead::Iterator</a></div><div class="ttdef"><b>Definition:</b> LinkedList.h:139</div></div>
-<div class="ttc" id="aa09192_html_a1e4e67ba11ac8da077942a6581647bf3"><div class="ttname"><a href="../../d6/d94/a09192.html#a1e4e67ba11ac8da077942a6581647bf3">GridRefMgr::begin</a></div><div class="ttdeci">iterator begin()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:35</div></div>
-<div class="ttc" id="aa09192_html_a266acb421cfc6ccc56dc2acff3202971"><div class="ttname"><a href="../../d6/d94/a09192.html#a266acb421cfc6ccc56dc2acff3202971">GridRefMgr::end</a></div><div class="ttdeci">iterator end()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:36</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>, <a class="el" href="../../#l00482">Acore::CreatureWorker&lt; Do &gt;::i_do</a>, and <a class="el" href="../../#l00481">Acore::CreatureWorker&lt; Do &gt;::i_phaseMask</a>.</p>
 
 </div>
 </div>
-<a id="aa9a450b147aafe46a49135f5c5be668e" name="aa9a450b147aafe46a49135f5c5be668e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa9a450b147aafe46a49135f5c5be668e">&#9670;&#160;</a></span>Visit() <span class="overload">[2/2]</span></h2>
+<a id="a554cc712f06b4a0eb9bf81c4a41b9030" name="a554cc712f06b4a0eb9bf81c4a41b9030"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a554cc712f06b4a0eb9bf81c4a41b9030">&#9670;&#160;</a></span>LiquidMapType</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class Do &gt; </div>
-<div class="memtemplate">
-template&lt;class NOT_INTERESTED &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../dc/dd6/a09360.html">Acore::CreatureWorker</a>&lt; Do &gt;::Visit </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d94/a09192.html">GridRefMgr</a>&lt; NOT_INTERESTED &gt; &amp;&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname">typedef std::vector&lt;float&gt; <a class="el" href="../../dc/dd6/a09360.html#a554cc712f06b4a0eb9bf81c4a41b9030">LoadedLiquidData::LiquidMapType</a></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  494</span>{}</div>
-</div><!-- fragment -->
+
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="ac22f86d9a41701e7527d4840da256f11" name="ac22f86d9a41701e7527d4840da256f11"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac22f86d9a41701e7527d4840da256f11">&#9670;&#160;</a></span>i_do</h2>
+<a id="a1d69fc74b38f6e596704e26e93281314" name="a1d69fc74b38f6e596704e26e93281314"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1d69fc74b38f6e596704e26e93281314">&#9670;&#160;</a></span>liquidEntry</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class Do &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">Do&amp; <a class="el" href="../../dc/dd6/a09360.html">Acore::CreatureWorker</a>&lt; Do &gt;::i_do</td>
+          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../dc/dd6/a09360.html#a025eadf79f31d447fc80efabbb2f9f22">LiquidEntryType</a>&gt; LoadedLiquidData::liquidEntry</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00487">Acore::CreatureWorker&lt; Do &gt;::Visit()</a>.</p>
-
 </div>
 </div>
-<a id="adf514c89c894cdf2b44fc75d14c4f5b0" name="adf514c89c894cdf2b44fc75d14c4f5b0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adf514c89c894cdf2b44fc75d14c4f5b0">&#9670;&#160;</a></span>i_phaseMask</h2>
+<a id="a9ebf22bb06a9254e7175083dc51af9dd" name="a9ebf22bb06a9254e7175083dc51af9dd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9ebf22bb06a9254e7175083dc51af9dd">&#9670;&#160;</a></span>liquidFlags</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class Do &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d68/a04331.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <a class="el" href="../../dc/dd6/a09360.html">Acore::CreatureWorker</a>&lt; Do &gt;::i_phaseMask</td>
+          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../dc/dd6/a09360.html#a5bd1b8c77ed4830cc558985e98aa1d01">LiquidFlagsType</a>&gt; LoadedLiquidData::liquidFlags</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00487">Acore::CreatureWorker&lt; Do &gt;::Visit()</a>.</p>
+</div>
+</div>
+<a id="a48274eeefa423c48ff860c8ffc110a30" name="a48274eeefa423c48ff860c8ffc110a30"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a48274eeefa423c48ff860c8ffc110a30">&#9670;&#160;</a></span>liquidGlobalEntry</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> LoadedLiquidData::liquidGlobalEntry</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="abdd9bfcaf91f30c3e543e632c347aa88" name="abdd9bfcaf91f30c3e543e632c347aa88"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abdd9bfcaf91f30c3e543e632c347aa88">&#9670;&#160;</a></span>liquidGlobalFlags</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> LoadedLiquidData::liquidGlobalFlags</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a40f757a6fa57ade760cf1001925a0560" name="a40f757a6fa57ade760cf1001925a0560"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a40f757a6fa57ade760cf1001925a0560">&#9670;&#160;</a></span>liquidHeight</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> LoadedLiquidData::liquidHeight</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a45b8bab4cc66e6e5be5ef51ad27bf1cc" name="a45b8bab4cc66e6e5be5ef51ad27bf1cc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a45b8bab4cc66e6e5be5ef51ad27bf1cc">&#9670;&#160;</a></span>liquidLevel</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float LoadedLiquidData::liquidLevel</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae6ddffb70a92aea580bacebb5a0e4d11" name="ae6ddffb70a92aea580bacebb5a0e4d11"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae6ddffb70a92aea580bacebb5a0e4d11">&#9670;&#160;</a></span>liquidMap</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../dc/dd6/a09360.html#a554cc712f06b4a0eb9bf81c4a41b9030">LiquidMapType</a>&gt; LoadedLiquidData::liquidMap</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a310d68fbb4d88272b7ae93492331ce4b" name="a310d68fbb4d88272b7ae93492331ce4b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a310d68fbb4d88272b7ae93492331ce4b">&#9670;&#160;</a></span>liquidOffX</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> LoadedLiquidData::liquidOffX</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae8b485a43a960a810f5951df6419bd54" name="ae8b485a43a960a810f5951df6419bd54"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae8b485a43a960a810f5951df6419bd54">&#9670;&#160;</a></span>liquidOffY</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> LoadedLiquidData::liquidOffY</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="afee2d2d96fc879729a070d2b5eb114e0" name="afee2d2d96fc879729a070d2b5eb114e0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afee2d2d96fc879729a070d2b5eb114e0">&#9670;&#160;</a></span>liquidWidth</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> LoadedLiquidData::liquidWidth</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -287,8 +336,8 @@ template&lt;class Do &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/d15/a04833.html">Acore</a></li><li class="navelem"><a class="el" href="../../dc/dd6/a09360.html">CreatureWorker</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:12:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dc/dd6/a09360.html">LoadedLiquidData</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:15:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

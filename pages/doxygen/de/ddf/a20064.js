@@ -1,6 +1,7 @@
 var a20064 =
 [
-    [ "boss_flame_leviathan_overload_deviceAI", "dd/daf/a20068.html", "dd/daf/a20068" ],
-    [ "boss_flame_leviathan_overload_device", "de/ddf/a20064.html#ad00f601170c1af833aadb17eab5d19a8", null ],
-    [ "GetAI", "de/ddf/a20064.html#a73988d2b1cfe61d0356ec1f317d90162", null ]
+    [ "HandleDummyEffect", "de/ddf/a20064.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
+    [ "PrepareSpellScript", "de/ddf/a20064.html#a84a4f52928873e58b1fc49e783c5083a", null ],
+    [ "Register", "de/ddf/a20064.html#a90c00bcb1768d696addab407425e406a", null ],
+    [ "SelectTarget", "de/ddf/a20064.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
 ];

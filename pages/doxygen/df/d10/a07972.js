@@ -1,5 +1,6 @@
 var a07972 =
 [
-    [ "locations", "df/d10/a07972.html#a6470ea69a14e24337aa6b0c05093b6d2", null ],
-    [ "timeStamp", "df/d10/a07972.html#a5fed6b0484c1553a17b5303facaeb61b", null ]
+    [ "Rank", "df/d10/a07972.html#abd26e25c76d5344dfdd94547b2f310d4", null ],
+    [ "Spell", "df/d10/a07972.html#a0cb15c7c1e640b5a6acc8f8d94e6c719", null ],
+    [ "Talent", "df/d10/a07972.html#ae39546dc8db233709131b388a3868c1a", null ]
 ];

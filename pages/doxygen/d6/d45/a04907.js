@@ -1,8 +1,10 @@
 var a04907 =
 [
-    [ "CorpseMapPositionQuery", "d8/da5/a11164.html", "d8/da5/a11164" ],
-    [ "NameQuery", "d5/dd9/a11148.html", "d5/dd9/a11148" ],
-    [ "NameQueryResponse", "da/d8e/a11152.html", "da/d8e/a11152" ],
-    [ "TimeQuery", "d6/df0/a11156.html", "d6/df0/a11156" ],
-    [ "TimeQueryResponse", "dc/d90/a11160.html", "dc/d90/a11160" ]
+    [ "ProcChanceTestHelper", "d4/d02/a29500.html", "d4/d02/a29500" ],
+    [ "ProcChanceTestHelper::TriggeredSpellConfig", "d8/d13/a29504.html", "d8/d13/a29504" ],
+    [ "ProcChanceTestHelper::ExtraAttackProcConfig", "db/d8f/a29508.html", "db/d8f/a29508" ],
+    [ "ProcChanceTestHelper::PPMModifierConfig", "d2/db1/a29512.html", "d2/db1/a29512" ],
+    [ "ProcChanceTestHelper::EquipmentConfig", "d9/d31/a29516.html", "d9/d31/a29516" ],
+    [ "ProcChanceTestHelper::ConditionsConfig", "db/d1c/a29520.html", "db/d1c/a29520" ],
+    [ "ProcTestScenario", "da/d55/a29524.html", "da/d55/a29524" ]
 ];

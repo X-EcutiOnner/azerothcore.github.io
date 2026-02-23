@@ -1,9 +1,10 @@
 var a09300 =
 [
-    [ "InserterType", "df/ded/a09300.html#a8ea29aedfb1eaf2b3eac29bc61849319", null ],
-    [ "ContainerInserter", "df/ded/a09300.html#a44cd545e2965b309c48d40f4617bc38e", null ],
-    [ "Insert", "df/ded/a09300.html#af482d9f7940d548193fc56839bc2cb87", null ],
-    [ "InserterOf", "df/ded/a09300.html#a003318d4ec066ca45d79ec5b669cdb8c", null ],
-    [ "inserter", "df/ded/a09300.html#ac10b2769f02687260efd531af666fbb3", null ],
-    [ "ref", "df/ded/a09300.html#a60d4a9120523c28d8c408c981305535e", null ]
+    [ "GridObjectLoader", "df/ded/a09300.html#a57cd46fee6f747221761aa3114c40ba6", null ],
+    [ "AddObjectHelper", "df/ded/a09300.html#a4e857363f544e91918b22df7fb6b1fe8", null ],
+    [ "LoadAllCellsInGrid", "df/ded/a09300.html#a2f4aac240f93354a4a1cd22a7144fb91", null ],
+    [ "LoadCreatures", "df/ded/a09300.html#a000e7ba83cc08e6c5b34a9bff222a809", null ],
+    [ "LoadGameObjects", "df/ded/a09300.html#ad577dbb6544e806d25b496796651ba5b", null ],
+    [ "_grid", "df/ded/a09300.html#abe551354634514fa3998eccb10fcbefe", null ],
+    [ "_map", "df/ded/a09300.html#a1d3ca2b103b23a95fb208ee64fe4037b", null ]
 ];

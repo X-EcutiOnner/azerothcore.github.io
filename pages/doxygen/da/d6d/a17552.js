@@ -1,6 +1,7 @@
 var a17552 =
 [
-    [ "npc_dark_nucleusAI", "de/d78/a17556.html", "de/d78/a17556" ],
-    [ "npc_dark_nucleus", "da/d6d/a17552.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
-    [ "GetAI", "da/d6d/a17552.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
+    [ "HandleEffectPeriodic", "da/d6d/a17552.html#a4802c810efd7dd8a9954845366398e7f", null ],
+    [ "PrepareAuraScript", "da/d6d/a17552.html#a008166d25e7a278507e953325f40ccd5", null ],
+    [ "Register", "da/d6d/a17552.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
+    [ "Validate", "da/d6d/a17552.html#a3fc78060f881262c59151b6eb6a943f8", null ]
 ];

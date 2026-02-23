@@ -1,9 +1,9 @@
 var a09572 =
 [
-    [ "UnitAuraCheck", "dd/de1/a09572.html#acbc0c969db8b768720ab3b8235c28352", null ],
-    [ "operator()", "dd/de1/a09572.html#abc385cad226ac51c09a908864d360fd3", null ],
-    [ "operator()", "dd/de1/a09572.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
-    [ "_casterGUID", "dd/de1/a09572.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
-    [ "_present", "dd/de1/a09572.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
-    [ "_spellId", "dd/de1/a09572.html#a0dd71c851f803fb70a4543c77b672889", null ]
+    [ "AnyFriendlyUnitInObjectRangeCheck", "dd/de1/a09572.html#a4ed3a469f35cb7b64ad5f144281b7910", null ],
+    [ "operator()", "dd/de1/a09572.html#a6e1026191fd4b1b45696a60f45b1b7b8", null ],
+    [ "i_funit", "dd/de1/a09572.html#a9ebd1a1d9716dfda55509396947c1a83", null ],
+    [ "i_obj", "dd/de1/a09572.html#adacade7450b0af19540ea705e1bd438b", null ],
+    [ "i_playerOnly", "dd/de1/a09572.html#a6b0d852333ee74a20281ce7de5a45b98", null ],
+    [ "i_range", "dd/de1/a09572.html#a2af638499152888a698b0fc1570e46ed", null ]
 ];

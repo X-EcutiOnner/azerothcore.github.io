@@ -1,7 +1,6 @@
 var a14552 =
 [
-    [ "PeriodicTick", "d2/d78/a14552.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
-    [ "PrepareAuraScript", "d2/d78/a14552.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
-    [ "Register", "d2/d78/a14552.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
-    [ "Validate", "d2/d78/a14552.html#a68247c2afa553411fac34582e83635c9", null ]
+    [ "boss_renatakiAI", "dd/d40/a14556.html", "dd/d40/a14556" ],
+    [ "boss_renataki", "d2/d78/a14552.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
+    [ "GetAI", "d2/d78/a14552.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
 ];

@@ -1,6 +1,11 @@
 var a12548 =
 [
-    [ "boss_flamegorAI", "dd/d28/a12548.html#a4b3d46c3faa566095b0cedad3df9f057", null ],
-    [ "JustEngagedWith", "dd/d28/a12548.html#a6005dca71e2f20ee599e053e531377d6", null ],
-    [ "UpdateAI", "dd/d28/a12548.html#a2e5146815e533cf62e0084a54aa222d5", null ]
+    [ "npc_rookery_hatcherAI", "dd/d28/a12548.html#a3154429437a108edf77de7ec1f0b2cda", null ],
+    [ "InitializeAI", "dd/d28/a12548.html#af144dc2cbe632038057f931fd71da29d", null ],
+    [ "JustEngagedWith", "dd/d28/a12548.html#a7b7ecaa42bdd35f4ee9fe7fad4cd25a9", null ],
+    [ "UpdateAI", "dd/d28/a12548.html#a0f867aa346a2f829067466fbfe6c5335", null ],
+    [ "events", "dd/d28/a12548.html#a220e6f9869d0ea53a593a6ac8e0e28bd", null ],
+    [ "nearbyEggs", "dd/d28/a12548.html#a2cf183745cdf699af7bd273e0ee4d697", null ],
+    [ "targetEgg", "dd/d28/a12548.html#a877af9948503688944e49503a6293574", null ],
+    [ "targetPosition", "dd/d28/a12548.html#a2e94b3d12ef3d8f80546db6c9a9e9e95", null ]
 ];

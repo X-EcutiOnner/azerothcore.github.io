@@ -1,12 +1,9 @@
 var a08192 =
 [
-    [ "QuestMenu", "dc/d3b/a08192.html#a60ba5b35499c6a9ed510300d3300421e", null ],
-    [ "~QuestMenu", "dc/d3b/a08192.html#a14df9b6699c327853121ae032704db8d", null ],
-    [ "AddMenuItem", "dc/d3b/a08192.html#ac8735756bbf9f2fa799c505bd740e070", null ],
-    [ "ClearMenu", "dc/d3b/a08192.html#ab3d3881aabe000694acab37a3774507e", null ],
-    [ "Empty", "dc/d3b/a08192.html#a1a850cb70956f299ea91cb0d732ad202", null ],
-    [ "GetItem", "dc/d3b/a08192.html#a08240a8d18dce0cb96db19f54c67dd2c", null ],
-    [ "GetMenuItemCount", "dc/d3b/a08192.html#a2338a6fb88c32bfb66fe524a8ffaa0d7", null ],
-    [ "HasItem", "dc/d3b/a08192.html#a7fe36e4a4acfc66a00f08034c470b5e3", null ],
-    [ "_questMenuItems", "dc/d3b/a08192.html#a49279a3943009f2d1475d792c2c3d21a", null ]
+    [ "LFGPlayerScript", "dc/d3b/a08192.html#ad27ca48d9e573ad0ba155a3f7eb1ae88", null ],
+    [ "OnPlayerBindToInstance", "dc/d3b/a08192.html#aeb3fd4e39ed8ba345cf3c76a232f241d", null ],
+    [ "OnPlayerLevelChanged", "dc/d3b/a08192.html#afd530a2823a7187b49645c9d0625c8ba", null ],
+    [ "OnPlayerLogin", "dc/d3b/a08192.html#a3b4e8775787feb8266edc52fddc7ab3a", null ],
+    [ "OnPlayerLogout", "dc/d3b/a08192.html#a13c365770c90d1a44f72ab4cb8c7f903", null ],
+    [ "OnPlayerMapChanged", "dc/d3b/a08192.html#ab3022d19b8d32bf0f269b2e991150a1c", null ]
 ];

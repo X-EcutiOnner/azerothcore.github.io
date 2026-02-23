@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Configuration/Config.cpp File Reference</title>
+<title>AzerothCore: ProcTestContext Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,206 +105,575 @@ $(document).ready(function(){initNavTree('db/dd5/a29452.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">Config.cpp File Reference</div></div>
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="../../d0/d51/a29449.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">ProcTestContext Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Config.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">StringConvert.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">StringFormat.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Tokenize.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
-<code>#include &lt;cstdlib&gt;</code><br />
-<code>#include &lt;fstream&gt;</code><br />
-<code>#include &lt;mutex&gt;</code><br />
-<code>#include &lt;unordered_map&gt;</code><br />
-</div>
-<p><a href="">Go to the source code of this file.</a></p>
+
+<p>Context for a proc test scenario.  
+ <a href="../../db/dd5/a29452.html#details">More...</a></p>
+
+<p><code>#include &quot;<a class="el" href="../../">AuraScriptTestFramework.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:d9/db6/a04683"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/db6/a04683.html">anonymous_namespace{Config.cpp}</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a3be4a95c438667ccdd0cbed0d606a46b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#a3be4a95c438667ccdd0cbed0d606a46b">ProcTestContext</a> ()=default</td></tr>
+<tr class="separator:a3be4a95c438667ccdd0cbed0d606a46b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa253eaa33458abfa16562c288a23b34f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/de7/a29544.html">UnitStub</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#aa253eaa33458abfa16562c288a23b34f">GetActor</a> ()</td></tr>
+<tr class="separator:aa253eaa33458abfa16562c288a23b34f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae25b85f794cc9174bc67a0a2d28fab8c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/de7/a29544.html">UnitStub</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#ae25b85f794cc9174bc67a0a2d28fab8c">GetActor</a> () const</td></tr>
+<tr class="separator:ae25b85f794cc9174bc67a0a2d28fab8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0abd60970b6588ffdc80fa4030554979"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/de7/a29544.html">UnitStub</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#a0abd60970b6588ffdc80fa4030554979">GetTarget</a> ()</td></tr>
+<tr class="separator:a0abd60970b6588ffdc80fa4030554979"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae1ee18f20e12406a8979a611285ab7ef"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/de7/a29544.html">UnitStub</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#ae1ee18f20e12406a8979a611285ab7ef">GetTarget</a> () const</td></tr>
+<tr class="separator:ae1ee18f20e12406a8979a611285ab7ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2892ee3c159c616c6b1cd9bb7d4edc21"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/dd8/a29472.html">AuraStub</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#a2892ee3c159c616c6b1cd9bb7d4edc21">GetAura</a> ()</td></tr>
+<tr class="separator:a2892ee3c159c616c6b1cd9bb7d4edc21"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae05f6f826284e174d8bcba0902758bd0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/dd8/a29472.html">AuraStub</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#ae05f6f826284e174d8bcba0902758bd0">GetAura</a> () const</td></tr>
+<tr class="separator:ae05f6f826284e174d8bcba0902758bd0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ffdd8fa38d8d98fa7beee6d08a44bdb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dc8/a29484.html">DamageInfoStub</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#a0ffdd8fa38d8d98fa7beee6d08a44bdb">GetDamageInfo</a> ()</td></tr>
+<tr class="separator:a0ffdd8fa38d8d98fa7beee6d08a44bdb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab9821a9a36ab9c54c44726b00bde5c1c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dc8/a29484.html">DamageInfoStub</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#ab9821a9a36ab9c54c44726b00bde5c1c">GetDamageInfo</a> () const</td></tr>
+<tr class="separator:ab9821a9a36ab9c54c44726b00bde5c1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acf3d0ab18a726decfb635fd0aa83d5db"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d34/a29488.html">HealInfoStub</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#acf3d0ab18a726decfb635fd0aa83d5db">GetHealInfo</a> ()</td></tr>
+<tr class="separator:acf3d0ab18a726decfb635fd0aa83d5db"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a538e45b713a53a45d453e0ea79993e8b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d34/a29488.html">HealInfoStub</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#a538e45b713a53a45d453e0ea79993e8b">GetHealInfo</a> () const</td></tr>
+<tr class="separator:a538e45b713a53a45d453e0ea79993e8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a538af7b841e7e64d16e53e57e303b3e0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dd5/a29452.html">ProcTestContext</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#a538af7b841e7e64d16e53e57e303b3e0">WithAuraId</a> (uint32_t auraId)</td></tr>
+<tr class="separator:a538af7b841e7e64d16e53e57e303b3e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a43c994ff3ac8fc4d1b535beffea985bc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dd5/a29452.html">ProcTestContext</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#a43c994ff3ac8fc4d1b535beffea985bc">WithAuraSpellFamily</a> (uint32_t familyName)</td></tr>
+<tr class="separator:a43c994ff3ac8fc4d1b535beffea985bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a544da38ede50c01868a3e918efcad8a1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dd5/a29452.html">ProcTestContext</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#a544da38ede50c01868a3e918efcad8a1">WithAuraCharges</a> (uint8_t charges)</td></tr>
+<tr class="separator:a544da38ede50c01868a3e918efcad8a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae2a9f04d30cbb14fc1d528a58521a602"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dd5/a29452.html">ProcTestContext</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#ae2a9f04d30cbb14fc1d528a58521a602">WithActorAsPlayer</a> (bool isPlayer=true)</td></tr>
+<tr class="separator:ae2a9f04d30cbb14fc1d528a58521a602"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a46b0dc60ef6bc0d433a4089c4e755d8e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dd5/a29452.html">ProcTestContext</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#a46b0dc60ef6bc0d433a4089c4e755d8e">WithDamage</a> (uint32_t damage, uint32_t schoolMask=1)</td></tr>
+<tr class="separator:a46b0dc60ef6bc0d433a4089c4e755d8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4f396c33b767cce2c538c94578dcdcbd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dd5/a29452.html">ProcTestContext</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#a4f396c33b767cce2c538c94578dcdcbd">WithHeal</a> (uint32_t heal, uint32_t effectiveHeal=0)</td></tr>
+<tr class="separator:a4f396c33b767cce2c538c94578dcdcbd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaf70bafc7d7fa0fc030ac2a3988c2bfe"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dd5/a29452.html">ProcTestContext</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#aaf70bafc7d7fa0fc030ac2a3988c2bfe">WithCriticalHit</a> ()</td></tr>
+<tr class="separator:aaf70bafc7d7fa0fc030ac2a3988c2bfe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af0cf99f26f6f220bb2da889bcd139a5e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dd5/a29452.html">ProcTestContext</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#af0cf99f26f6f220bb2da889bcd139a5e">WithNormalHit</a> ()</td></tr>
+<tr class="separator:af0cf99f26f6f220bb2da889bcd139a5e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a88481e3afc1a3d0cced9a0eb22ef52c4"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#a88481e3afc1a3d0cced9a0eb22ef52c4">TEMPLATE_CONFIG_OPTION</a>(__typename)&#160;&#160;&#160;    template __typename <a class="el" href="../../db/d20/a05034.html#a711be8eda4077d967a3677bd138998ac">ConfigMgr::GetOption</a>&lt;__typename&gt;(std::string const&amp; name, __typename const&amp; def, bool showLogs /*= true*/) const;</td></tr>
-<tr class="separator:a88481e3afc1a3d0cced9a0eb22ef52c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:ac70d5ef108e0df78183c2c28431f34cc"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/db6/a04683.html#ac70d5ef108e0df78183c2c28431f34cc">anonymous_namespace{Config.cpp}::IsAppConfig</a> (std::string_view fileName)</td></tr>
-<tr class="separator:ac70d5ef108e0df78183c2c28431f34cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a874bf90eeee29a9e6e9348805c0b8ca8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/db6/a04683.html#a874bf90eeee29a9e6e9348805c0b8ca8">anonymous_namespace{Config.cpp}::IsLoggingSystemOptions</a> (std::string_view optionName)</td></tr>
-<tr class="separator:a874bf90eeee29a9e6e9348805c0b8ca8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a31b53ef96726f745da939de555373737"><td class="memTemplParams" colspan="2">template&lt;typename Format , typename... Args&gt; </td></tr>
-<tr class="memitem:a31b53ef96726f745da939de555373737"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d9/db6/a04683.html#a31b53ef96726f745da939de555373737">anonymous_namespace{Config.cpp}::PrintError</a> (std::string_view filename, Format &amp;&amp;fmt, Args &amp;&amp;... args)</td></tr>
-<tr class="separator:a31b53ef96726f745da939de555373737"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab573c6a7facb635d7c4787e5b6f346fa"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/db6/a04683.html#ab573c6a7facb635d7c4787e5b6f346fa">anonymous_namespace{Config.cpp}::AddKey</a> (std::string const &amp;optionName, std::string const &amp;optionKey, std::string_view fileName, bool isOptional, bool isReload)</td></tr>
-<tr class="separator:ab573c6a7facb635d7c4787e5b6f346fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af25d36c8039da7689a28ce9c1334b70f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/db6/a04683.html#af25d36c8039da7689a28ce9c1334b70f">anonymous_namespace{Config.cpp}::ParseFile</a> (std::string const &amp;file, bool isOptional, bool isReload)</td></tr>
-<tr class="separator:af25d36c8039da7689a28ce9c1334b70f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a04d7cd62693d073b89d11aab4ba3342d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/db6/a04683.html#a04d7cd62693d073b89d11aab4ba3342d">anonymous_namespace{Config.cpp}::LoadFile</a> (std::string const &amp;file, bool isOptional, bool isReload)</td></tr>
-<tr class="separator:a04d7cd62693d073b89d11aab4ba3342d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab1ffb5b5ec6ef364da691218a1f840ed"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/db6/a04683.html#ab1ffb5b5ec6ef364da691218a1f840ed">anonymous_namespace{Config.cpp}::IniKeyToEnvVarKey</a> (std::string const &amp;key)</td></tr>
-<tr class="separator:ab1ffb5b5ec6ef364da691218a1f840ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a037f48efd9ff4f980901dc23f9062cfe"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/db6/a04683.html#a037f48efd9ff4f980901dc23f9062cfe">anonymous_namespace{Config.cpp}::GetEnvVarName</a> (std::string const &amp;configName)</td></tr>
-<tr class="separator:a037f48efd9ff4f980901dc23f9062cfe"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4b39ee4aeace82542c39141c4c052417"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d21/a00368.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/db6/a04683.html#a4b39ee4aeace82542c39141c4c052417">anonymous_namespace{Config.cpp}::EnvVarForIniKey</a> (std::string const &amp;key)</td></tr>
-<tr class="separator:a4b39ee4aeace82542c39141c4c052417"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa22b6bcf6d5dd7e02cab1b0aea10bbee"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d21/a00368.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#aa22b6bcf6d5dd7e02cab1b0aea10bbee">GetEnvFromCache</a> (std::string const &amp;configName, std::string const &amp;envVarName)</td></tr>
-<tr class="separator:aa22b6bcf6d5dd7e02cab1b0aea10bbee"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7096a6c65872ca33d8f44bdd841eaa31"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:a7096a6c65872ca33d8f44bdd841eaa31"><td class="memTemplItemLeft" align="right" valign="top">std::string&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#a7096a6c65872ca33d8f44bdd841eaa31">ConfigMgr::GetValueDefault&lt; std::string &gt;</a> (std::string const &amp;name, std::string const &amp;def, bool showLogs) const</td></tr>
-<tr class="separator:a7096a6c65872ca33d8f44bdd841eaa31"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a8bfa20db83fbdc4e649e394ea8d05d0d"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/db6/a04683.html#a8bfa20db83fbdc4e649e394ea8d05d0d">anonymous_namespace{Config.cpp}::_filename</a></td></tr>
-<tr class="separator:a8bfa20db83fbdc4e649e394ea8d05d0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac4608b63b3297653b81c9c4196c12141"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/db6/a04683.html#ac4608b63b3297653b81c9c4196c12141">anonymous_namespace{Config.cpp}::_additonalFiles</a></td></tr>
-<tr class="separator:ac4608b63b3297653b81c9c4196c12141"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa324820f5ede7eec5a4d8eefc77298f4"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/db6/a04683.html#aa324820f5ede7eec5a4d8eefc77298f4">anonymous_namespace{Config.cpp}::_args</a></td></tr>
-<tr class="separator:aa324820f5ede7eec5a4d8eefc77298f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4c4d5bd9313e617a40ed0f27d79dbae9"><td class="memItemLeft" align="right" valign="top">std::unordered_map&lt; std::string, std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/db6/a04683.html#a4c4d5bd9313e617a40ed0f27d79dbae9">anonymous_namespace{Config.cpp}::_configOptions</a></td></tr>
-<tr class="separator:a4c4d5bd9313e617a40ed0f27d79dbae9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4e8b4d4501c2038b56b2692bbd6adb72"><td class="memItemLeft" align="right" valign="top">std::unordered_map&lt; std::string, std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/db6/a04683.html#a4e8b4d4501c2038b56b2692bbd6adb72">anonymous_namespace{Config.cpp}::_envVarCache</a></td></tr>
-<tr class="separator:a4e8b4d4501c2038b56b2692bbd6adb72"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a96e361ca2d2603bb0a5689262ac6787a"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/db6/a04683.html#a96e361ca2d2603bb0a5689262ac6787a">anonymous_namespace{Config.cpp}::_configLock</a></td></tr>
-<tr class="separator:a96e361ca2d2603bb0a5689262ac6787a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4222a9ebe6cae31f1a5ad0a4a44bee3f"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/db6/a04683.html#a4222a9ebe6cae31f1a5ad0a4a44bee3f">anonymous_namespace{Config.cpp}::_fatalConfigOptions</a></td></tr>
-<tr class="separator:a4222a9ebe6cae31f1a5ad0a4a44bee3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:ac62553cbe1667cbfd695ca3bd9834184"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/de7/a29544.html">UnitStub</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#ac62553cbe1667cbfd695ca3bd9834184">_actor</a></td></tr>
+<tr class="separator:ac62553cbe1667cbfd695ca3bd9834184"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7dcbdab19d62f509912d7067075bd82d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/de7/a29544.html">UnitStub</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#a7dcbdab19d62f509912d7067075bd82d">_target</a></td></tr>
+<tr class="separator:a7dcbdab19d62f509912d7067075bd82d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaaa64249b6f8bd281834e2b7c309ed38"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/dd8/a29472.html">AuraStub</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#aaaa64249b6f8bd281834e2b7c309ed38">_aura</a></td></tr>
+<tr class="separator:aaaa64249b6f8bd281834e2b7c309ed38"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa76666ba435170552f3b9a355bf2d0b8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dc8/a29484.html">DamageInfoStub</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#aa76666ba435170552f3b9a355bf2d0b8">_damageInfo</a></td></tr>
+<tr class="separator:aa76666ba435170552f3b9a355bf2d0b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aab8d47fcad592c5269991e85b3ad2cf0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d34/a29488.html">HealInfoStub</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a29452.html#aab8d47fcad592c5269991e85b3ad2cf0">_healInfo</a></td></tr>
+<tr class="separator:aab8d47fcad592c5269991e85b3ad2cf0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a88481e3afc1a3d0cced9a0eb22ef52c4" name="a88481e3afc1a3d0cced9a0eb22ef52c4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a88481e3afc1a3d0cced9a0eb22ef52c4">&#9670;&#160;</a></span>TEMPLATE_CONFIG_OPTION</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >Context for a proc test scenario. </p>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a3be4a95c438667ccdd0cbed0d606a46b" name="a3be4a95c438667ccdd0cbed0d606a46b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3be4a95c438667ccdd0cbed0d606a46b">&#9670;&#160;</a></span>ProcTestContext()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">#define TEMPLATE_CONFIG_OPTION</td>
+          <td class="memname">ProcTestContext::ProcTestContext </td>
           <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">__typename</td><td>)</td>
-          <td>&#160;&#160;&#160;    template __typename <a class="el" href="../../db/d20/a05034.html#a711be8eda4077d967a3677bd138998ac">ConfigMgr::GetOption</a>&lt;__typename&gt;(std::string const&amp; name, __typename const&amp; def, bool showLogs /*= true*/) const;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a7096a6c65872ca33d8f44bdd841eaa31" name="a7096a6c65872ca33d8f44bdd841eaa31"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7096a6c65872ca33d8f44bdd841eaa31">&#9670;&#160;</a></span>ConfigMgr::GetValueDefault&lt; std::string &gt;()</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="aa253eaa33458abfa16562c288a23b34f" name="aa253eaa33458abfa16562c288a23b34f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa253eaa33458abfa16562c288a23b34f">&#9670;&#160;</a></span>GetActor() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::string <a class="el" href="../../db/d20/a05034.html#a4a122373714bb95f10e6532e30735e55">ConfigMgr::GetValueDefault</a>&lt; std::string &gt; </td>
+          <td class="memname"><a class="el" href="../../d4/de7/a29544.html">UnitStub</a> &amp; ProcTestContext::GetActor </td>
           <td>(</td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>name</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>def</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>showLogs</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  442</span>{</div>
-<div class="line"><span class="lineno">  443</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr = <a class="code hl_variable" href="../../d9/db6/a04683.html#a4c4d5bd9313e617a40ed0f27d79dbae9">_configOptions</a>.find(name);</div>
-<div class="line"><span class="lineno">  444</span>    <span class="keywordtype">bool</span> fatalConfig = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  445</span>    <span class="keywordtype">bool</span> notFound = itr == <a class="code hl_variable" href="../../d9/db6/a04683.html#a4c4d5bd9313e617a40ed0f27d79dbae9">_configOptions</a>.end();</div>
-<div class="line"><span class="lineno">  446</span>    <span class="keyword">auto</span> envVarName = <a class="code hl_function" href="../../d9/db6/a04683.html#a037f48efd9ff4f980901dc23f9062cfe">GetEnvVarName</a>(name);</div>
-<div class="line"><span class="lineno">  447</span>    <a class="code hl_typedef" href="../../d8/d21/a00368.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;std::string&gt;</a> envVar = <a class="code hl_function" href="../../db/dd5/a29452.html#aa22b6bcf6d5dd7e02cab1b0aea10bbee">GetEnvFromCache</a>(name, envVarName);</div>
-<div class="line"><span class="lineno">  448</span>    <span class="keywordflow">if</span> (envVar)</div>
-<div class="line"><span class="lineno">  449</span>    {</div>
-<div class="line"><span class="lineno">  450</span>        <span class="comment">// If showLogs and this key/value pair wasn&#39;t found in the currently saved config</span></div>
-<div class="line"><span class="lineno">  451</span>        <span class="keywordflow">if</span> (showLogs &amp;&amp; (notFound || itr-&gt;second != envVar-&gt;c_str()))</div>
-<div class="line"><span class="lineno">  452</span>        {</div>
-<div class="line"><span class="lineno">  453</span>            <a class="code hl_define" href="../../df/d03/a00062.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt; Config: Found config value &#39;{}&#39; from environment variable &#39;{}&#39;.&quot;</span>, name, envVarName);</div>
-<div class="line"><span class="lineno">  454</span>            <a class="code hl_function" href="../../d9/db6/a04683.html#ab573c6a7facb635d7c4787e5b6f346fa">AddKey</a>(name, *envVar, <span class="stringliteral">&quot;ENVIRONMENT&quot;</span>, <span class="keyword">false</span>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  455</span>        }</div>
-<div class="line"><span class="lineno">  456</span> </div>
-<div class="line"><span class="lineno">  457</span>        <span class="keywordflow">return</span> *envVar;</div>
-<div class="line"><span class="lineno">  458</span>    }</div>
-<div class="line"><span class="lineno">  459</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (notFound)</div>
-<div class="line"><span class="lineno">  460</span>    {</div>
-<div class="line"><span class="lineno">  461</span>        <span class="keywordflow">if</span> (showLogs)</div>
-<div class="line"><span class="lineno">  462</span>        {</div>
-<div class="line"><span class="lineno">  463</span>            <span class="keywordflow">for</span> (std::string s : <a class="code hl_variable" href="../../d9/db6/a04683.html#a4222a9ebe6cae31f1a5ad0a4a44bee3f">_fatalConfigOptions</a>)</div>
-<div class="line"><span class="lineno">  464</span>                <span class="keywordflow">if</span> (s == name)</div>
-<div class="line"><span class="lineno">  465</span>                {</div>
-<div class="line"><span class="lineno">  466</span>                    fatalConfig = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  467</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  468</span>                }</div>
-<div class="line"><span class="lineno">  469</span> </div>
-<div class="line"><span class="lineno">  470</span>            <span class="keywordflow">if</span> (fatalConfig)</div>
-<div class="line"><span class="lineno">  471</span>                <a class="code hl_define" href="../../df/d03/a00062.html#a0e09b50c268dc6897a1c70aa46de936e">LOG_FATAL</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt; Config:\n\nFATAL ERROR: Missing property {} in config file {}, add \&quot;{} = {}\&quot; to this file or define &#39;{}&#39; as an environment variable.\n\nYour server cannot start without this option!&quot;</span>,</div>
-<div class="line"><span class="lineno">  472</span>                    name, <a class="code hl_variable" href="../../d9/db6/a04683.html#a8bfa20db83fbdc4e649e394ea8d05d0d">_filename</a>, name, def, envVarName);</div>
-<div class="line"><span class="lineno">  473</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  474</span>                <a class="code hl_define" href="../../df/d03/a00062.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt; Config: Missing property {} in config file {}, add \&quot;{} = {}\&quot; to this file or define &#39;{}&#39; as an environment variable.&quot;</span>,</div>
-<div class="line"><span class="lineno">  475</span>                    name, <a class="code hl_variable" href="../../d9/db6/a04683.html#a8bfa20db83fbdc4e649e394ea8d05d0d">_filename</a>, name, def, envVarName);</div>
-<div class="line"><span class="lineno">  476</span>        }</div>
-<div class="line"><span class="lineno">  477</span> </div>
-<div class="line"><span class="lineno">  478</span>        <span class="keywordflow">return</span> def;</div>
-<div class="line"><span class="lineno">  479</span>    }</div>
-<div class="line"><span class="lineno">  480</span> </div>
-<div class="line"><span class="lineno">  481</span>    <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  482</span>}</div>
-<div class="ttc" id="aa00062_html_a0e09b50c268dc6897a1c70aa46de936e"><div class="ttname"><a href="../../df/d03/a00062.html#a0e09b50c268dc6897a1c70aa46de936e">LOG_FATAL</a></div><div class="ttdeci">#define LOG_FATAL(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:152</div></div>
-<div class="ttc" id="aa00062_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../df/d03/a00062.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:164</div></div>
-<div class="ttc" id="aa00062_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../df/d03/a00062.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:160</div></div>
-<div class="ttc" id="aa00368_html_aaf8f4d77efd311ec7818ab421294ef82"><div class="ttname"><a href="../../d8/d21/a00368.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a></div><div class="ttdeci">std::optional&lt; T &gt; Optional</div><div class="ttdoc">Optional helper class to wrap optional values within.</div><div class="ttdef"><b>Definition:</b> Optional.h:24</div></div>
-<div class="ttc" id="aa04683_html_a037f48efd9ff4f980901dc23f9062cfe"><div class="ttname"><a href="../../d9/db6/a04683.html#a037f48efd9ff4f980901dc23f9062cfe">anonymous_namespace{Config.cpp}::GetEnvVarName</a></div><div class="ttdeci">std::string GetEnvVarName(std::string const &amp;configName)</div><div class="ttdef"><b>Definition:</b> Config.cpp:281</div></div>
-<div class="ttc" id="aa04683_html_a4222a9ebe6cae31f1a5ad0a4a44bee3f"><div class="ttname"><a href="../../d9/db6/a04683.html#a4222a9ebe6cae31f1a5ad0a4a44bee3f">anonymous_namespace{Config.cpp}::_fatalConfigOptions</a></div><div class="ttdeci">std::vector&lt; std::string &gt; _fatalConfigOptions</div><div class="ttdef"><b>Definition:</b> Config.cpp:38</div></div>
-<div class="ttc" id="aa04683_html_a4c4d5bd9313e617a40ed0f27d79dbae9"><div class="ttname"><a href="../../d9/db6/a04683.html#a4c4d5bd9313e617a40ed0f27d79dbae9">anonymous_namespace{Config.cpp}::_configOptions</a></div><div class="ttdeci">std::unordered_map&lt; std::string, std::string &gt; _configOptions</div><div class="ttdef"><b>Definition:</b> Config.cpp:34</div></div>
-<div class="ttc" id="aa04683_html_a8bfa20db83fbdc4e649e394ea8d05d0d"><div class="ttname"><a href="../../d9/db6/a04683.html#a8bfa20db83fbdc4e649e394ea8d05d0d">anonymous_namespace{Config.cpp}::_filename</a></div><div class="ttdeci">std::string _filename</div><div class="ttdef"><b>Definition:</b> Config.cpp:31</div></div>
-<div class="ttc" id="aa04683_html_ab573c6a7facb635d7c4787e5b6f346fa"><div class="ttname"><a href="../../d9/db6/a04683.html#ab573c6a7facb635d7c4787e5b6f346fa">anonymous_namespace{Config.cpp}::AddKey</a></div><div class="ttdeci">void AddKey(std::string const &amp;optionName, std::string const &amp;optionKey, std::string_view fileName, bool isOptional, bool isReload)</div><div class="ttdef"><b>Definition:</b> Config.cpp:80</div></div>
-<div class="ttc" id="aa29452_html_aa22b6bcf6d5dd7e02cab1b0aea10bbee"><div class="ttname"><a href="../../db/dd5/a29452.html#aa22b6bcf6d5dd7e02cab1b0aea10bbee">GetEnvFromCache</a></div><div class="ttdeci">Optional&lt; std::string &gt; GetEnvFromCache(std::string const &amp;configName, std::string const &amp;envVarName)</div><div class="ttdef"><b>Definition:</b> Config.cpp:335</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   54</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/dd5/a29452.html#ac62553cbe1667cbfd695ca3bd9834184">_actor</a>; }</div>
+<div class="ttc" id="aa29452_html_ac62553cbe1667cbfd695ca3bd9834184"><div class="ttname"><a href="../../db/dd5/a29452.html#ac62553cbe1667cbfd695ca3bd9834184">ProcTestContext::_actor</a></div><div class="ttdeci">UnitStub _actor</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:129</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00034">anonymous_namespace{Config.cpp}::_configOptions</a>, <a class="el" href="../../#l00038">anonymous_namespace{Config.cpp}::_fatalConfigOptions</a>, <a class="el" href="../../#l00031">anonymous_namespace{Config.cpp}::_filename</a>, <a class="el" href="../../#l00080">anonymous_namespace{Config.cpp}::AddKey()</a>, <a class="el" href="../../#l00335">GetEnvFromCache()</a>, <a class="el" href="../../#l00281">anonymous_namespace{Config.cpp}::GetEnvVarName()</a>, <a class="el" href="../../#l00152">LOG_FATAL</a>, <a class="el" href="../../#l00164">LOG_INFO</a>, and <a class="el" href="../../#l00160">LOG_WARN</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00129">_actor</a>.</p>
 
 </div>
 </div>
-<a id="aa22b6bcf6d5dd7e02cab1b0aea10bbee" name="aa22b6bcf6d5dd7e02cab1b0aea10bbee"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa22b6bcf6d5dd7e02cab1b0aea10bbee">&#9670;&#160;</a></span>GetEnvFromCache()</h2>
+<a id="ae25b85f794cc9174bc67a0a2d28fab8c" name="ae25b85f794cc9174bc67a0a2d28fab8c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae25b85f794cc9174bc67a0a2d28fab8c">&#9670;&#160;</a></span>GetActor() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/d21/a00368.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; std::string &gt; GetEnvFromCache </td>
+          <td class="memname"><a class="el" href="../../d4/de7/a29544.html">UnitStub</a> const  &amp; ProcTestContext::GetActor </td>
           <td>(</td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>configName</em>, </td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   55</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/dd5/a29452.html#ac62553cbe1667cbfd695ca3bd9834184">_actor</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00129">_actor</a>.</p>
+
+</div>
+</div>
+<a id="a2892ee3c159c616c6b1cd9bb7d4edc21" name="a2892ee3c159c616c6b1cd9bb7d4edc21"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2892ee3c159c616c6b1cd9bb7d4edc21">&#9670;&#160;</a></span>GetAura() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dc/dd8/a29472.html">AuraStub</a> &amp; ProcTestContext::GetAura </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   62</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/dd5/a29452.html#aaaa64249b6f8bd281834e2b7c309ed38">_aura</a>; }</div>
+<div class="ttc" id="aa29452_html_aaaa64249b6f8bd281834e2b7c309ed38"><div class="ttname"><a href="../../db/dd5/a29452.html#aaaa64249b6f8bd281834e2b7c309ed38">ProcTestContext::_aura</a></div><div class="ttdeci">AuraStub _aura</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:131</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00131">_aura</a>.</p>
+
+</div>
+</div>
+<a id="ae05f6f826284e174d8bcba0902758bd0" name="ae05f6f826284e174d8bcba0902758bd0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae05f6f826284e174d8bcba0902758bd0">&#9670;&#160;</a></span>GetAura() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dc/dd8/a29472.html">AuraStub</a> const  &amp; ProcTestContext::GetAura </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   63</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/dd5/a29452.html#aaaa64249b6f8bd281834e2b7c309ed38">_aura</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00131">_aura</a>.</p>
+
+</div>
+</div>
+<a id="a0ffdd8fa38d8d98fa7beee6d08a44bdb" name="a0ffdd8fa38d8d98fa7beee6d08a44bdb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ffdd8fa38d8d98fa7beee6d08a44bdb">&#9670;&#160;</a></span>GetDamageInfo() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dc8/a29484.html">DamageInfoStub</a> &amp; ProcTestContext::GetDamageInfo </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   66</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/dd5/a29452.html#aa76666ba435170552f3b9a355bf2d0b8">_damageInfo</a>; }</div>
+<div class="ttc" id="aa29452_html_aa76666ba435170552f3b9a355bf2d0b8"><div class="ttname"><a href="../../db/dd5/a29452.html#aa76666ba435170552f3b9a355bf2d0b8">ProcTestContext::_damageInfo</a></div><div class="ttdeci">DamageInfoStub _damageInfo</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:132</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00132">_damageInfo</a>.</p>
+
+</div>
+</div>
+<a id="ab9821a9a36ab9c54c44726b00bde5c1c" name="ab9821a9a36ab9c54c44726b00bde5c1c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab9821a9a36ab9c54c44726b00bde5c1c">&#9670;&#160;</a></span>GetDamageInfo() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dc8/a29484.html">DamageInfoStub</a> const  &amp; ProcTestContext::GetDamageInfo </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   67</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/dd5/a29452.html#aa76666ba435170552f3b9a355bf2d0b8">_damageInfo</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00132">_damageInfo</a>.</p>
+
+</div>
+</div>
+<a id="acf3d0ab18a726decfb635fd0aa83d5db" name="acf3d0ab18a726decfb635fd0aa83d5db"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acf3d0ab18a726decfb635fd0aa83d5db">&#9670;&#160;</a></span>GetHealInfo() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d34/a29488.html">HealInfoStub</a> &amp; ProcTestContext::GetHealInfo </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   70</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/dd5/a29452.html#aab8d47fcad592c5269991e85b3ad2cf0">_healInfo</a>; }</div>
+<div class="ttc" id="aa29452_html_aab8d47fcad592c5269991e85b3ad2cf0"><div class="ttname"><a href="../../db/dd5/a29452.html#aab8d47fcad592c5269991e85b3ad2cf0">ProcTestContext::_healInfo</a></div><div class="ttdeci">HealInfoStub _healInfo</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:133</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00133">_healInfo</a>.</p>
+
+</div>
+</div>
+<a id="a538e45b713a53a45d453e0ea79993e8b" name="a538e45b713a53a45d453e0ea79993e8b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a538e45b713a53a45d453e0ea79993e8b">&#9670;&#160;</a></span>GetHealInfo() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d34/a29488.html">HealInfoStub</a> const  &amp; ProcTestContext::GetHealInfo </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   71</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/dd5/a29452.html#aab8d47fcad592c5269991e85b3ad2cf0">_healInfo</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00133">_healInfo</a>.</p>
+
+</div>
+</div>
+<a id="a0abd60970b6588ffdc80fa4030554979" name="a0abd60970b6588ffdc80fa4030554979"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0abd60970b6588ffdc80fa4030554979">&#9670;&#160;</a></span>GetTarget() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/de7/a29544.html">UnitStub</a> &amp; ProcTestContext::GetTarget </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   58</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/dd5/a29452.html#a7dcbdab19d62f509912d7067075bd82d">_target</a>; }</div>
+<div class="ttc" id="aa29452_html_a7dcbdab19d62f509912d7067075bd82d"><div class="ttname"><a href="../../db/dd5/a29452.html#a7dcbdab19d62f509912d7067075bd82d">ProcTestContext::_target</a></div><div class="ttdeci">UnitStub _target</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:130</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00130">_target</a>.</p>
+
+</div>
+</div>
+<a id="ae1ee18f20e12406a8979a611285ab7ef" name="ae1ee18f20e12406a8979a611285ab7ef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae1ee18f20e12406a8979a611285ab7ef">&#9670;&#160;</a></span>GetTarget() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/de7/a29544.html">UnitStub</a> const  &amp; ProcTestContext::GetTarget </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   59</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/dd5/a29452.html#a7dcbdab19d62f509912d7067075bd82d">_target</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00130">_target</a>.</p>
+
+</div>
+</div>
+<a id="ae2a9f04d30cbb14fc1d528a58521a602" name="ae2a9f04d30cbb14fc1d528a58521a602"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae2a9f04d30cbb14fc1d528a58521a602">&#9670;&#160;</a></span>WithActorAsPlayer()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dd5/a29452.html">ProcTestContext</a> &amp; ProcTestContext::WithActorAsPlayer </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>isPlayer</em> = <code>true</code></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   94</span>    {</div>
+<div class="line"><span class="lineno">   95</span>        <a class="code hl_variable" href="../../db/dd5/a29452.html#ac62553cbe1667cbfd695ca3bd9834184">_actor</a>.<a class="code hl_function" href="../../d4/de7/a29544.html#a069a4e6b03aad82c642cbc9d641376ed">SetIsPlayer</a>(isPlayer);</div>
+<div class="line"><span class="lineno">   96</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">   97</span>    }</div>
+<div class="ttc" id="aa29544_html_a069a4e6b03aad82c642cbc9d641376ed"><div class="ttname"><a href="../../d4/de7/a29544.html#a069a4e6b03aad82c642cbc9d641376ed">UnitStub::SetIsPlayer</a></div><div class="ttdeci">void SetIsPlayer(bool isPlayer)</div><div class="ttdef"><b>Definition:</b> UnitStub.h:49</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00129">_actor</a>, and <a class="el" href="../../#l00049">UnitStub::SetIsPlayer()</a>.</p>
+
+</div>
+</div>
+<a id="a544da38ede50c01868a3e918efcad8a1" name="a544da38ede50c01868a3e918efcad8a1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a544da38ede50c01868a3e918efcad8a1">&#9670;&#160;</a></span>WithAuraCharges()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dd5/a29452.html">ProcTestContext</a> &amp; ProcTestContext::WithAuraCharges </td>
+          <td>(</td>
+          <td class="paramtype">uint8_t&#160;</td>
+          <td class="paramname"><em>charges</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   87</span>    {</div>
+<div class="line"><span class="lineno">   88</span>        <a class="code hl_variable" href="../../db/dd5/a29452.html#aaaa64249b6f8bd281834e2b7c309ed38">_aura</a>.<a class="code hl_function" href="../../dc/dd8/a29472.html#af9302ca6f10e63456c51383f586689c6">SetCharges</a>(charges);</div>
+<div class="line"><span class="lineno">   89</span>        <a class="code hl_variable" href="../../db/dd5/a29452.html#aaaa64249b6f8bd281834e2b7c309ed38">_aura</a>.<a class="code hl_function" href="../../dc/dd8/a29472.html#aa8c5e134e2e73e0c8fab00896ac08801">SetUsingCharges</a>(charges &gt; 0);</div>
+<div class="line"><span class="lineno">   90</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">   91</span>    }</div>
+<div class="ttc" id="aa29472_html_aa8c5e134e2e73e0c8fab00896ac08801"><div class="ttname"><a href="../../dc/dd8/a29472.html#aa8c5e134e2e73e0c8fab00896ac08801">AuraStub::SetUsingCharges</a></div><div class="ttdeci">void SetUsingCharges(bool usingCharges)</div><div class="ttdef"><b>Definition:</b> AuraStub.h:159</div></div>
+<div class="ttc" id="aa29472_html_af9302ca6f10e63456c51383f586689c6"><div class="ttname"><a href="../../dc/dd8/a29472.html#af9302ca6f10e63456c51383f586689c6">AuraStub::SetCharges</a></div><div class="ttdeci">void SetCharges(uint8_t charges)</div><div class="ttdef"><b>Definition:</b> AuraStub.h:158</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00131">_aura</a>, <a class="el" href="../../#l00158">AuraStub::SetCharges()</a>, and <a class="el" href="../../#l00159">AuraStub::SetUsingCharges()</a>.</p>
+
+</div>
+</div>
+<a id="a538af7b841e7e64d16e53e57e303b3e0" name="a538af7b841e7e64d16e53e57e303b3e0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a538af7b841e7e64d16e53e57e303b3e0">&#9670;&#160;</a></span>WithAuraId()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dd5/a29452.html">ProcTestContext</a> &amp; ProcTestContext::WithAuraId </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>auraId</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   75</span>    {</div>
+<div class="line"><span class="lineno">   76</span>        <a class="code hl_variable" href="../../db/dd5/a29452.html#aaaa64249b6f8bd281834e2b7c309ed38">_aura</a>.<a class="code hl_function" href="../../dc/dd8/a29472.html#a96fe80bb0747b44d81906ecff56865dc">SetId</a>(auraId);</div>
+<div class="line"><span class="lineno">   77</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">   78</span>    }</div>
+<div class="ttc" id="aa29472_html_a96fe80bb0747b44d81906ecff56865dc"><div class="ttname"><a href="../../dc/dd8/a29472.html#a96fe80bb0747b44d81906ecff56865dc">AuraStub::SetId</a></div><div class="ttdeci">void SetId(uint32_t id)</div><div class="ttdef"><b>Definition:</b> AuraStub.h:129</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00131">_aura</a>, and <a class="el" href="../../#l00129">AuraStub::SetId()</a>.</p>
+
+</div>
+</div>
+<a id="a43c994ff3ac8fc4d1b535beffea985bc" name="a43c994ff3ac8fc4d1b535beffea985bc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a43c994ff3ac8fc4d1b535beffea985bc">&#9670;&#160;</a></span>WithAuraSpellFamily()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dd5/a29452.html">ProcTestContext</a> &amp; ProcTestContext::WithAuraSpellFamily </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>familyName</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   81</span>    {</div>
+<div class="line"><span class="lineno">   82</span>        <a class="code hl_variable" href="../../db/dd5/a29452.html#aaaa64249b6f8bd281834e2b7c309ed38">_aura</a>.<a class="code hl_function" href="../../dc/dd8/a29472.html#a6100f97e9f7f4e11205a2ba16deaf53d">SetSpellFamilyName</a>(familyName);</div>
+<div class="line"><span class="lineno">   83</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">   84</span>    }</div>
+<div class="ttc" id="aa29472_html_a6100f97e9f7f4e11205a2ba16deaf53d"><div class="ttname"><a href="../../dc/dd8/a29472.html#a6100f97e9f7f4e11205a2ba16deaf53d">AuraStub::SetSpellFamilyName</a></div><div class="ttdeci">void SetSpellFamilyName(uint32_t familyName)</div><div class="ttdef"><b>Definition:</b> AuraStub.h:130</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00131">_aura</a>, and <a class="el" href="../../#l00130">AuraStub::SetSpellFamilyName()</a>.</p>
+
+</div>
+</div>
+<a id="aaf70bafc7d7fa0fc030ac2a3988c2bfe" name="aaf70bafc7d7fa0fc030ac2a3988c2bfe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaf70bafc7d7fa0fc030ac2a3988c2bfe">&#9670;&#160;</a></span>WithCriticalHit()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dd5/a29452.html">ProcTestContext</a> &amp; ProcTestContext::WithCriticalHit </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  115</span>    {</div>
+<div class="line"><span class="lineno">  116</span>        <a class="code hl_variable" href="../../db/dd5/a29452.html#aa76666ba435170552f3b9a355bf2d0b8">_damageInfo</a>.<a class="code hl_function" href="../../d2/dc8/a29484.html#a37b0384b8dc1f9865100dd3c234e79a7">SetHitMask</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9ae0db62fc42fe80503a49d3b3197b8d12">PROC_HIT_CRITICAL</a>);</div>
+<div class="line"><span class="lineno">  117</span>        <a class="code hl_variable" href="../../db/dd5/a29452.html#aab8d47fcad592c5269991e85b3ad2cf0">_healInfo</a>.<a class="code hl_function" href="../../d6/d34/a29488.html#a4f50475819621d56efd4e359ed004483">SetHitMask</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9ae0db62fc42fe80503a49d3b3197b8d12">PROC_HIT_CRITICAL</a>);</div>
+<div class="line"><span class="lineno">  118</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  119</span>    }</div>
+<div class="ttc" id="aa00104_html_a318db75286b71ffeb7f24d6d2c992bc9ae0db62fc42fe80503a49d3b3197b8d12"><div class="ttname"><a href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9ae0db62fc42fe80503a49d3b3197b8d12">PROC_HIT_CRITICAL</a></div><div class="ttdeci">@ PROC_HIT_CRITICAL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:255</div></div>
+<div class="ttc" id="aa29484_html_a37b0384b8dc1f9865100dd3c234e79a7"><div class="ttname"><a href="../../d2/dc8/a29484.html#a37b0384b8dc1f9865100dd3c234e79a7">DamageInfoStub::SetHitMask</a></div><div class="ttdeci">void SetHitMask(uint32_t hitMask)</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:74</div></div>
+<div class="ttc" id="aa29488_html_a4f50475819621d56efd4e359ed004483"><div class="ttname"><a href="../../d6/d34/a29488.html#a4f50475819621d56efd4e359ed004483">HealInfoStub::SetHitMask</a></div><div class="ttdeci">void SetHitMask(uint32_t hitMask)</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:124</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00132">_damageInfo</a>, <a class="el" href="../../#l00133">_healInfo</a>, <a class="el" href="../../#l00255">PROC_HIT_CRITICAL</a>, <a class="el" href="../../#l00074">DamageInfoStub::SetHitMask()</a>, and <a class="el" href="../../#l00124">HealInfoStub::SetHitMask()</a>.</p>
+
+</div>
+</div>
+<a id="a46b0dc60ef6bc0d433a4089c4e755d8e" name="a46b0dc60ef6bc0d433a4089c4e755d8e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a46b0dc60ef6bc0d433a4089c4e755d8e">&#9670;&#160;</a></span>WithDamage()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dd5/a29452.html">ProcTestContext</a> &amp; ProcTestContext::WithDamage </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>damage</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>envVarName</em>&#160;</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>schoolMask</em> = <code>1</code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -312,32 +681,222 @@ template&lt;&gt; </div>
           <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  336</span>{</div>
-<div class="line"><span class="lineno">  337</span>    <span class="keyword">auto</span> foundInCache = <a class="code hl_variable" href="../../d9/db6/a04683.html#a4e8b4d4501c2038b56b2692bbd6adb72">_envVarCache</a>.find(envVarName);</div>
-<div class="line"><span class="lineno">  338</span>    <a class="code hl_typedef" href="../../d8/d21/a00368.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;std::string&gt;</a> foundInEnv;</div>
-<div class="line"><span class="lineno">  339</span>    <span class="comment">// If it&#39;s not in the cache</span></div>
-<div class="line"><span class="lineno">  340</span>    <span class="keywordflow">if</span> (foundInCache == <a class="code hl_variable" href="../../d9/db6/a04683.html#a4e8b4d4501c2038b56b2692bbd6adb72">_envVarCache</a>.end())</div>
-<div class="line"><span class="lineno">  341</span>    {</div>
-<div class="line"><span class="lineno">  342</span>        <span class="comment">// Check the env itself</span></div>
-<div class="line"><span class="lineno">  343</span>        foundInEnv = <a class="code hl_function" href="../../d9/db6/a04683.html#a4b39ee4aeace82542c39141c4c052417">EnvVarForIniKey</a>(configName);</div>
-<div class="line"><span class="lineno">  344</span>        <span class="keywordflow">if</span> (foundInEnv)</div>
-<div class="line"><span class="lineno">  345</span>        {</div>
-<div class="line"><span class="lineno">  346</span>            <span class="comment">// If it&#39;s found in the env, put it in the cache</span></div>
-<div class="line"><span class="lineno">  347</span>            <a class="code hl_variable" href="../../d9/db6/a04683.html#a4e8b4d4501c2038b56b2692bbd6adb72">_envVarCache</a>.emplace(envVarName, *foundInEnv);</div>
-<div class="line"><span class="lineno">  348</span>        }</div>
-<div class="line"><span class="lineno">  349</span>        <span class="comment">// Return the result of checking env</span></div>
-<div class="line"><span class="lineno">  350</span>        <span class="keywordflow">return</span> foundInEnv;</div>
-<div class="line"><span class="lineno">  351</span>    }</div>
-<div class="line"><span class="lineno">  352</span> </div>
-<div class="line"><span class="lineno">  353</span>    <span class="keywordflow">return</span> foundInCache-&gt;second;</div>
-<div class="line"><span class="lineno">  354</span>}</div>
-<div class="ttc" id="aa04683_html_a4b39ee4aeace82542c39141c4c052417"><div class="ttname"><a href="../../d9/db6/a04683.html#a4b39ee4aeace82542c39141c4c052417">anonymous_namespace{Config.cpp}::EnvVarForIniKey</a></div><div class="ttdeci">Optional&lt; std::string &gt; EnvVarForIniKey(std::string const &amp;key)</div><div class="ttdef"><b>Definition:</b> Config.cpp:286</div></div>
-<div class="ttc" id="aa04683_html_a4e8b4d4501c2038b56b2692bbd6adb72"><div class="ttname"><a href="../../d9/db6/a04683.html#a4e8b4d4501c2038b56b2692bbd6adb72">anonymous_namespace{Config.cpp}::_envVarCache</a></div><div class="ttdeci">std::unordered_map&lt; std::string, std::string &gt; _envVarCache</div><div class="ttdef"><b>Definition:</b> Config.cpp:35</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  100</span>    {</div>
+<div class="line"><span class="lineno">  101</span>        <a class="code hl_variable" href="../../db/dd5/a29452.html#aa76666ba435170552f3b9a355bf2d0b8">_damageInfo</a>.<a class="code hl_function" href="../../d2/dc8/a29484.html#ac39079942629e30d631eb0b4abcc938c">SetDamage</a>(damage);</div>
+<div class="line"><span class="lineno">  102</span>        <a class="code hl_variable" href="../../db/dd5/a29452.html#aa76666ba435170552f3b9a355bf2d0b8">_damageInfo</a>.<a class="code hl_function" href="../../d2/dc8/a29484.html#a2ec521265ea69e94924e10aad3fd1a6c">SetOriginalDamage</a>(damage);</div>
+<div class="line"><span class="lineno">  103</span>        <a class="code hl_variable" href="../../db/dd5/a29452.html#aa76666ba435170552f3b9a355bf2d0b8">_damageInfo</a>.<a class="code hl_function" href="../../d2/dc8/a29484.html#a93a42bde3254e00d2f78af0f95bcd83b">SetSchoolMask</a>(schoolMask);</div>
+<div class="line"><span class="lineno">  104</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  105</span>    }</div>
+<div class="ttc" id="aa29484_html_a2ec521265ea69e94924e10aad3fd1a6c"><div class="ttname"><a href="../../d2/dc8/a29484.html#a2ec521265ea69e94924e10aad3fd1a6c">DamageInfoStub::SetOriginalDamage</a></div><div class="ttdeci">void SetOriginalDamage(uint32_t damage)</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:56</div></div>
+<div class="ttc" id="aa29484_html_a93a42bde3254e00d2f78af0f95bcd83b"><div class="ttname"><a href="../../d2/dc8/a29484.html#a93a42bde3254e00d2f78af0f95bcd83b">DamageInfoStub::SetSchoolMask</a></div><div class="ttdeci">void SetSchoolMask(uint32_t schoolMask)</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:65</div></div>
+<div class="ttc" id="aa29484_html_ac39079942629e30d631eb0b4abcc938c"><div class="ttname"><a href="../../d2/dc8/a29484.html#ac39079942629e30d631eb0b4abcc938c">DamageInfoStub::SetDamage</a></div><div class="ttdeci">void SetDamage(uint32_t damage)</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:55</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">anonymous_namespace{Config.cpp}::_envVarCache</a>, and <a class="el" href="../../#l00286">anonymous_namespace{Config.cpp}::EnvVarForIniKey()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00132">_damageInfo</a>, <a class="el" href="../../#l00055">DamageInfoStub::SetDamage()</a>, <a class="el" href="../../#l00056">DamageInfoStub::SetOriginalDamage()</a>, and <a class="el" href="../../#l00065">DamageInfoStub::SetSchoolMask()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00441">ConfigMgr::GetValueDefault&lt; std::string &gt;()</a>, and <a class="el" href="../../#l00380">ConfigMgr::GetValueDefault()</a>.</p>
+</div>
+</div>
+<a id="a4f396c33b767cce2c538c94578dcdcbd" name="a4f396c33b767cce2c538c94578dcdcbd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4f396c33b767cce2c538c94578dcdcbd">&#9670;&#160;</a></span>WithHeal()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dd5/a29452.html">ProcTestContext</a> &amp; ProcTestContext::WithHeal </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>heal</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>effectiveHeal</em> = <code>0</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  108</span>    {</div>
+<div class="line"><span class="lineno">  109</span>        <a class="code hl_variable" href="../../db/dd5/a29452.html#aab8d47fcad592c5269991e85b3ad2cf0">_healInfo</a>.<a class="code hl_function" href="../../d6/d34/a29488.html#a6dede4a2256ff21fde331ae05d257718">SetHeal</a>(heal);</div>
+<div class="line"><span class="lineno">  110</span>        <a class="code hl_variable" href="../../db/dd5/a29452.html#aab8d47fcad592c5269991e85b3ad2cf0">_healInfo</a>.<a class="code hl_function" href="../../d6/d34/a29488.html#ad8c263f50edf324a72ca366f6caf4377">SetEffectiveHeal</a>(effectiveHeal &gt; 0 ? effectiveHeal : heal);</div>
+<div class="line"><span class="lineno">  111</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  112</span>    }</div>
+<div class="ttc" id="aa29488_html_a6dede4a2256ff21fde331ae05d257718"><div class="ttname"><a href="../../d6/d34/a29488.html#a6dede4a2256ff21fde331ae05d257718">HealInfoStub::SetHeal</a></div><div class="ttdeci">void SetHeal(uint32_t heal)</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:114</div></div>
+<div class="ttc" id="aa29488_html_ad8c263f50edf324a72ca366f6caf4377"><div class="ttname"><a href="../../d6/d34/a29488.html#ad8c263f50edf324a72ca366f6caf4377">HealInfoStub::SetEffectiveHeal</a></div><div class="ttdeci">void SetEffectiveHeal(uint32_t effectiveHeal)</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:115</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00133">_healInfo</a>, <a class="el" href="../../#l00115">HealInfoStub::SetEffectiveHeal()</a>, and <a class="el" href="../../#l00114">HealInfoStub::SetHeal()</a>.</p>
+
+</div>
+</div>
+<a id="af0cf99f26f6f220bb2da889bcd139a5e" name="af0cf99f26f6f220bb2da889bcd139a5e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af0cf99f26f6f220bb2da889bcd139a5e">&#9670;&#160;</a></span>WithNormalHit()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dd5/a29452.html">ProcTestContext</a> &amp; ProcTestContext::WithNormalHit </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  122</span>    {</div>
+<div class="line"><span class="lineno">  123</span>        <a class="code hl_variable" href="../../db/dd5/a29452.html#aa76666ba435170552f3b9a355bf2d0b8">_damageInfo</a>.<a class="code hl_function" href="../../d2/dc8/a29484.html#a37b0384b8dc1f9865100dd3c234e79a7">SetHitMask</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a>);</div>
+<div class="line"><span class="lineno">  124</span>        <a class="code hl_variable" href="../../db/dd5/a29452.html#aab8d47fcad592c5269991e85b3ad2cf0">_healInfo</a>.<a class="code hl_function" href="../../d6/d34/a29488.html#a4f50475819621d56efd4e359ed004483">SetHitMask</a>(<a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a>);</div>
+<div class="line"><span class="lineno">  125</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  126</span>    }</div>
+<div class="ttc" id="aa00104_html_a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799"><div class="ttname"><a href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a></div><div class="ttdeci">@ PROC_HIT_NORMAL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:254</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00132">_damageInfo</a>, <a class="el" href="../../#l00133">_healInfo</a>, <a class="el" href="../../#l00254">PROC_HIT_NORMAL</a>, <a class="el" href="../../#l00074">DamageInfoStub::SetHitMask()</a>, and <a class="el" href="../../#l00124">HealInfoStub::SetHitMask()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="ac62553cbe1667cbfd695ca3bd9834184" name="ac62553cbe1667cbfd695ca3bd9834184"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac62553cbe1667cbfd695ca3bd9834184">&#9670;&#160;</a></span>_actor</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/de7/a29544.html">UnitStub</a> ProcTestContext::_actor</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00054">GetActor()</a>, and <a class="el" href="../../#l00093">WithActorAsPlayer()</a>.</p>
+
+</div>
+</div>
+<a id="aaaa64249b6f8bd281834e2b7c309ed38" name="aaaa64249b6f8bd281834e2b7c309ed38"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaaa64249b6f8bd281834e2b7c309ed38">&#9670;&#160;</a></span>_aura</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dc/dd8/a29472.html">AuraStub</a> ProcTestContext::_aura</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00062">GetAura()</a>, <a class="el" href="../../#l00086">WithAuraCharges()</a>, <a class="el" href="../../#l00074">WithAuraId()</a>, and <a class="el" href="../../#l00080">WithAuraSpellFamily()</a>.</p>
+
+</div>
+</div>
+<a id="aa76666ba435170552f3b9a355bf2d0b8" name="aa76666ba435170552f3b9a355bf2d0b8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa76666ba435170552f3b9a355bf2d0b8">&#9670;&#160;</a></span>_damageInfo</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dc8/a29484.html">DamageInfoStub</a> ProcTestContext::_damageInfo</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00066">GetDamageInfo()</a>, <a class="el" href="../../#l00114">WithCriticalHit()</a>, <a class="el" href="../../#l00099">WithDamage()</a>, and <a class="el" href="../../#l00121">WithNormalHit()</a>.</p>
+
+</div>
+</div>
+<a id="aab8d47fcad592c5269991e85b3ad2cf0" name="aab8d47fcad592c5269991e85b3ad2cf0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aab8d47fcad592c5269991e85b3ad2cf0">&#9670;&#160;</a></span>_healInfo</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d34/a29488.html">HealInfoStub</a> ProcTestContext::_healInfo</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00070">GetHealInfo()</a>, <a class="el" href="../../#l00114">WithCriticalHit()</a>, <a class="el" href="../../#l00107">WithHeal()</a>, and <a class="el" href="../../#l00121">WithNormalHit()</a>.</p>
+
+</div>
+</div>
+<a id="a7dcbdab19d62f509912d7067075bd82d" name="a7dcbdab19d62f509912d7067075bd82d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7dcbdab19d62f509912d7067075bd82d">&#9670;&#160;</a></span>_target</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/de7/a29544.html">UnitStub</a> ProcTestContext::_target</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00058">GetTarget()</a>.</p>
 
 </div>
 </div>
@@ -346,8 +905,8 @@ template&lt;&gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_e8df728d6a6e829c2d0f8060a021b576.html">Configuration</a></li><li class="navelem"><a class="el" href="../../db/dd5/a29452.html">Config.cpp</a></li>
-    <li class="footer">Generated on Mon Oct 7 2024 20:43:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../db/dd5/a29452.html">ProcTestContext</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:15:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

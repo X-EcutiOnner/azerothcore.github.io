@@ -1,7 +1,4 @@
 var a07464 =
 [
-    [ "BattlegroundEYPointIconsStruct", "d7/d19/a07464.html#a322379024d155d293d1c0083c510d232", null ],
-    [ "WorldStateAllianceControlledIndex", "d7/d19/a07464.html#a449932bc2357e26c79520fcf01a71a2a", null ],
-    [ "WorldStateControlIndex", "d7/d19/a07464.html#a82e87048f934b67821bc8ba308ed101d", null ],
-    [ "WorldStateHordeControlledIndex", "d7/d19/a07464.html#a1118c998cf9a319f9c81c100d23c25d3", null ]
+    [ "Filter", "d7/d19/a07464.html#a1fcb023fe0dee17790b3636bf1ff3e9a", null ]
 ];

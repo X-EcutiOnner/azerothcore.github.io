@@ -1,8 +1,7 @@
 var a09404 =
 [
-    [ "NearestGameObjectFishingHole", "d6/d43/a09404.html#ab0e4734202edf26b69881ab85abe1d93", null ],
-    [ "NearestGameObjectFishingHole", "d6/d43/a09404.html#a256c64e6c82d98349b958647d98bf4ce", null ],
-    [ "operator()", "d6/d43/a09404.html#a52e2c64f8209ab364f4e85e1f4e947dc", null ],
-    [ "i_obj", "d6/d43/a09404.html#a182fbf6b5cc68fb0eba6be26568c9d78", null ],
-    [ "i_range", "d6/d43/a09404.html#af27a870fb654a130bf1e4ac1472fdffc", null ]
+    [ "CreatureRelocationNotifier", "d6/d43/a09404.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
+    [ "Visit", "d6/d43/a09404.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
+    [ "Visit", "d6/d43/a09404.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
+    [ "i_creature", "d6/d43/a09404.html#a3116f6245816ba8fb9edb5995faa9927", null ]
 ];

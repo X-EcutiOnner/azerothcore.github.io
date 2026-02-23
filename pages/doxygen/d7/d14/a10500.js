@@ -1,10 +1,15 @@
 var a10500 =
 [
-    [ "VehicleScript", "d7/d14/a10500.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
-    [ "OnAddPassenger", "d7/d14/a10500.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
-    [ "OnInstall", "d7/d14/a10500.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
-    [ "OnInstallAccessory", "d7/d14/a10500.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
-    [ "OnRemovePassenger", "d7/d14/a10500.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
-    [ "OnReset", "d7/d14/a10500.html#a38fca3fec8785f015084b832f9e3b08c", null ],
-    [ "OnUninstall", "d7/d14/a10500.html#a7d4bafe42756ee73b5ce79783842c243", null ]
+    [ "CreatureScript", "d7/d14/a10500.html#afa0053e299f9125cc288ea38652edecb", null ],
+    [ "GetAI", "d7/d14/a10500.html#a24ba3529655943afdf6598450d14e6c2", null ],
+    [ "GetDialogStatus", "d7/d14/a10500.html#a41562245c4a44843363d6b0ce32ce48d", null ],
+    [ "IsDatabaseBound", "d7/d14/a10500.html#af19c64d23391f8b835f79bc6cf315caa", null ],
+    [ "OnFfaPvpStateUpdate", "d7/d14/a10500.html#a316efb5c026588eb4bce8a0ce6b5cc0f", null ],
+    [ "OnGossipHello", "d7/d14/a10500.html#a6268b132444845302ada504f48629a4f", null ],
+    [ "OnGossipSelect", "d7/d14/a10500.html#a30f160576b4cb97d940ecf3468834667", null ],
+    [ "OnGossipSelectCode", "d7/d14/a10500.html#ad99f4a96106b9dc5cf9c29304d781d6a", null ],
+    [ "OnQuestAccept", "d7/d14/a10500.html#a6b106a237886f49e523ae7b07e9c5979", null ],
+    [ "OnQuestComplete", "d7/d14/a10500.html#a4d39c9b2edbbbc2ae08b5cdcc95b4d7b", null ],
+    [ "OnQuestReward", "d7/d14/a10500.html#aba2be0f342cb9811bd0ebee954d7d36e", null ],
+    [ "OnQuestSelect", "d7/d14/a10500.html#a1e054fb61dd560aa7718d59127ad4b51", null ]
 ];

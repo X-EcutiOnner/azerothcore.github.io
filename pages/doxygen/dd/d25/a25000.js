@@ -1,6 +1,6 @@
 var a25000 =
 [
-    [ "HandleScript", "dd/d25/a25000.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
-    [ "PrepareSpellScript", "dd/d25/a25000.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
-    [ "Register", "dd/d25/a25000.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
+    [ "PrepareAuraScript", "dd/d25/a25000.html#a8a60db6939ba71ddcf723fb4e48b3146", null ],
+    [ "Register", "dd/d25/a25000.html#a8ab913cf84f55428d2b0615172f3da3b", null ],
+    [ "AuraEffectHandleModes", "dd/d25/a25000.html#aed1cfe63d82450b526e154678fb97ac4", null ]
 ];

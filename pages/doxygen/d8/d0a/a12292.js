@@ -1,6 +1,5 @@
 var a12292 =
 [
-    [ "RestoreAttack", "d8/d0a/a12292.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
-    [ "Execute", "d8/d0a/a12292.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
-    [ "_boss", "d8/d0a/a12292.html#a493ef909da834b0befd90f57f54fb10c", null ]
+    [ "at_ring_of_law", "d8/d0a/a12292.html#ad9bb44e898f90fb489b50cad0a711976", null ],
+    [ "OnTrigger", "d8/d0a/a12292.html#a613471caae75ab3d82ce915101a20108", null ]
 ];

@@ -1,10 +1,16 @@
 var a29048 =
 [
-    [ "Tile", "d1/da0/a29048.html#aa68e7829d0a4109a5fca036afe725756", null ],
-    [ "~Tile", "d1/da0/a29048.html#aa5be25df0d267368c90c8f790b218f7a", null ],
-    [ "chf", "d1/da0/a29048.html#a9cd4f4be0393e1b40d1ea83dad189a35", null ],
-    [ "cset", "d1/da0/a29048.html#a8263aa243c049daa70ed537f206c6a15", null ],
-    [ "dmesh", "d1/da0/a29048.html#a23efb981de3dbc2ecdbe4dafdbaa8f58", null ],
-    [ "pmesh", "d1/da0/a29048.html#a00dde7c2b62890f4d78697e669f2a810", null ],
-    [ "solid", "d1/da0/a29048.html#a6c263578a352c75a21570a26439d6156", null ]
+    [ "CanBeSetAtWar", "d1/da0/a29048.html#ae165dc23f25386eb086e1fa2cb820153", null ],
+    [ "CanHaveReputation", "d1/da0/a29048.html#ab3da6918e197c1098a932418d5c51799", null ],
+    [ "BaseRepClassMask", "d1/da0/a29048.html#ae73655de567de3766fcb3bbfb7f9eed3", null ],
+    [ "BaseRepRaceMask", "d1/da0/a29048.html#aa8e1c08416d07882af7075fbb020ae5a", null ],
+    [ "BaseRepValue", "d1/da0/a29048.html#a52f0753d1e1e69a4994eb6b1eab6824c", null ],
+    [ "ID", "d1/da0/a29048.html#a1953f7a343201113dae80cdd97e1ac90", null ],
+    [ "name", "d1/da0/a29048.html#ad9d326ed1aac5ea66825775665dfea00", null ],
+    [ "ReputationFlags", "d1/da0/a29048.html#ae23a3c94554b2043928d6e1ea748e709", null ],
+    [ "reputationListID", "d1/da0/a29048.html#aee99121c2d7298e16540229923391aee", null ],
+    [ "spilloverMaxRankIn", "d1/da0/a29048.html#a14cea5365f14880850e788ba328d0c8e", null ],
+    [ "spilloverRateIn", "d1/da0/a29048.html#a7a72bc65fb3fe76ffa1d072800c5daed", null ],
+    [ "spilloverRateOut", "d1/da0/a29048.html#a7cea150843bf48277aa9cc917d210fcb", null ],
+    [ "team", "d1/da0/a29048.html#a6210fabf2688f26a0a0050f6c148485d", null ]
 ];

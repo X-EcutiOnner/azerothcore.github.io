@@ -1,6 +1,7 @@
 var a19420 =
 [
-    [ "FilterTargets", "d8/d00/a19420.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
-    [ "PrepareSpellScript", "d8/d00/a19420.html#a452937a4e95b40366f915213ec475a84", null ],
-    [ "Register", "d8/d00/a19420.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
+    [ "HandleScriptEffect", "d8/d00/a19420.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
+    [ "PrepareSpellScript", "d8/d00/a19420.html#a21a3175346c9b12c02205f2d33da3b86", null ],
+    [ "Register", "d8/d00/a19420.html#af5f279ad20e9153f201262eaa7615978", null ],
+    [ "Validate", "d8/d00/a19420.html#a635ff34619767f657778016e1eb901aa", null ]
 ];

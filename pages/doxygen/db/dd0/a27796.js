@@ -1,6 +1,6 @@
 var a27796 =
 [
-    [ "npc_air_force_botsAI", "de/d96/a27800.html", "de/d96/a27800" ],
-    [ "npc_air_force_bots", "db/dd0/a27796.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
-    [ "GetAI", "db/dd0/a27796.html#ae971e34d61b0f960d8f5940f9015523d", null ]
+    [ "FilterTargets", "db/dd0/a27796.html#a6224b3193474f569d09edaf29b40c2fb", null ],
+    [ "PrepareSpellScript", "db/dd0/a27796.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
+    [ "Register", "db/dd0/a27796.html#a2fab1592d19331239b1ef63045389886", null ]
 ];

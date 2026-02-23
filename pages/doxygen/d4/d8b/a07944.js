@@ -1,8 +1,5 @@
 var a07944 =
 [
-    [ "ThreatMgrEvent", "d4/d8b/a07944.html#ad8d5d86b12e5c13f25f8598ef5670eb8", null ],
-    [ "ThreatMgrEvent", "d4/d8b/a07944.html#a332ae279dc4c243c148e07454611a057", null ],
-    [ "getThreatContainer", "d4/d8b/a07944.html#a15ab83dccbbae73cbd2ec0a376d57d28", null ],
-    [ "setThreatContainer", "d4/d8b/a07944.html#aaffdff7ac81e949adc076b113a824cbf", null ],
-    [ "iThreatContainer", "d4/d8b/a07944.html#a7f32669286852385312b86e0b70e177e", null ]
+    [ "IsColorValid", "d4/d8b/a07944.html#a4e2a1ab20d086987429174f41887bc45", null ],
+    [ "IsTextValid", "d4/d8b/a07944.html#a4704555f7e926f8facce237de6772a3d", null ]
 ];

@@ -1,11 +1,18 @@
 var a15608 =
 [
-    [ "npc_magwinAI", "dd/d42/a15608.html#ad4a352dd0c7c6f76e74f110b00ec9053", null ],
-    [ "JustEngagedWith", "dd/d42/a15608.html#aea2ab8bf79d6fcc3d2036d160274fab8", null ],
-    [ "Reset", "dd/d42/a15608.html#a883ef3cd1b097847de148ccb9bd3e903", null ],
-    [ "sQuestAccept", "dd/d42/a15608.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
-    [ "UpdateEscortAI", "dd/d42/a15608.html#a34236331be8842a9e2a98036ea382e18", null ],
-    [ "WaypointReached", "dd/d42/a15608.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
-    [ "_events", "dd/d42/a15608.html#a32dad2bde92efab7e0f0d16e809df665", null ],
-    [ "_player", "dd/d42/a15608.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
+    [ "boss_ouro", "dd/d42/a15608.html#a624700c5010edda9e7880070bd7495d7", null ],
+    [ "CanAIAttack", "dd/d42/a15608.html#a7b9682b239a2d436069b9e6be1d90648", null ],
+    [ "CastGroundRupture", "dd/d42/a15608.html#a2b8d88aeb824890a090f3bec544f5de2", null ],
+    [ "DamageTaken", "dd/d42/a15608.html#aa571cee2fee8a79917f4c63b94a9a1b6", null ],
+    [ "Emerge", "dd/d42/a15608.html#ac0b0c890f8cec105e6c284f6c1c5dd78", null ],
+    [ "EnterEvadeMode", "dd/d42/a15608.html#aee5769af48127617d40fa440d042e434", null ],
+    [ "IsPlayerWithinMeleeRange", "dd/d42/a15608.html#a9f9b4a53cf5c7e9d4e98d2d57e500172", null ],
+    [ "JustEngagedWith", "dd/d42/a15608.html#a20b0b4a3770564595f40e1375b2811d7", null ],
+    [ "Reset", "dd/d42/a15608.html#a8d8e471d0a76950d4bcbdb3e6d1b77bf", null ],
+    [ "SpellHitTarget", "dd/d42/a15608.html#a53fb0c076ce60d769d21fa740fa73308", null ],
+    [ "Submerge", "dd/d42/a15608.html#aa39a371112f585da952331c200b8b5aa", null ],
+    [ "UpdateAI", "dd/d42/a15608.html#ab59237535be7a86cb4c0db4819a4d9d5", null ],
+    [ "_enraged", "dd/d42/a15608.html#a14a147b2cb47bbc5bd7cdeb49fd22328", null ],
+    [ "_submerged", "dd/d42/a15608.html#aff594fd1558ac0c150ef7dc44b185863", null ],
+    [ "_submergeMelee", "dd/d42/a15608.html#a1f9afe42fad602f470456929214f40d3", null ]
 ];

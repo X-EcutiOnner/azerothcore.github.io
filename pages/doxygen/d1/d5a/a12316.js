@@ -1,11 +1,7 @@
 var a12316 =
 [
-    [ "boss_gythAI", "d1/d5a/a12316.html#aeec049af24b3a6f94051f1008ce107e6", null ],
-    [ "EnterEvadeMode", "d1/d5a/a12316.html#a20296c618ad366d7ac956f16671cc408", null ],
-    [ "IsSummonedBy", "d1/d5a/a12316.html#a6800421a2e9e889e649e792ee642d8ac", null ],
-    [ "JustDied", "d1/d5a/a12316.html#a979da1f3922d9575b6c237b85952fb6c", null ],
-    [ "JustEngagedWith", "d1/d5a/a12316.html#a6c0ca15d87851c205d94679ea65e5193", null ],
-    [ "JustSummoned", "d1/d5a/a12316.html#ab9024ce261129c82d4304d2a13834a5f", null ],
-    [ "Reset", "d1/d5a/a12316.html#aa3c86b403af5394a4e4cb30781bcb46b", null ],
-    [ "UpdateAI", "d1/d5a/a12316.html#a66f27f6d49b40dcc2894f177b281570f", null ]
+    [ "npc_rocknotAI", "df/da2/a12320.html", "df/da2/a12320" ],
+    [ "npc_rocknot", "d1/d5a/a12316.html#a64a0cd215c1f4881948e5a49cf1b86d7", null ],
+    [ "GetAI", "d1/d5a/a12316.html#ac8a90d54e9303c40f0313fda1dcfea86", null ],
+    [ "OnQuestReward", "d1/d5a/a12316.html#abd8ad3d7e6dd1e557398e268409a2c98", null ]
 ];

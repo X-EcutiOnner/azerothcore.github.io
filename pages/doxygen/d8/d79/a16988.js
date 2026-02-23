@@ -1,7 +1,6 @@
 var a16988 =
 [
-    [ "HandleScriptEffect", "d8/d79/a16988.html#a62cef31900cd61167823f3e66aa2d64b", null ],
-    [ "PrepareSpellScript", "d8/d79/a16988.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
-    [ "Register", "d8/d79/a16988.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
-    [ "Validate", "d8/d79/a16988.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
+    [ "boss_gormokAI", "d4/d1e/a16992.html", "d4/d1e/a16992" ],
+    [ "boss_gormok", "d8/d79/a16988.html#a86ce0681be4370198c44dde5aa98a593", null ],
+    [ "GetAI", "d8/d79/a16988.html#a45cff2e7ee0525de37382cf09b116a32", null ]
 ];

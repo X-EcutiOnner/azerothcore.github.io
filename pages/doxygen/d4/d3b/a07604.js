@@ -1,17 +1,12 @@
 var a07604 =
 [
-    [ "ChatHandler", "d4/d3b/a07604.html#aae585fad45749fd46fa28d36fdad9760", null ],
-    [ "ChatHandler", "d4/d3b/a07604.html#a7ab2c0deb500bef6654274630815bb75", null ],
-    [ "IsHumanReadable", "d4/d3b/a07604.html#acd17995bc95b6e449d5e185bfe523b84", null ],
-    [ "ParseCommands", "d4/d3b/a07604.html#abd1bb7d3ca143479bd50d908dc1f4136", null ],
-    [ "Send", "d4/d3b/a07604.html#a2961b609065a68245d1556d3b32af013", null ],
-    [ "SendAck", "d4/d3b/a07604.html#a0e886c68796eb6a2a529186279dd778d", null ],
-    [ "SendFailed", "d4/d3b/a07604.html#aa3a06fffce2472b941163d062f1b3569", null ],
-    [ "SendOK", "d4/d3b/a07604.html#a8ece640cb81b50ed8e0b90c40ff71f47", null ],
-    [ "SendSysMessage", "d4/d3b/a07604.html#a289a9806b8a083e063b8c83ea7016718", null ],
-    [ "SendSysMessage", "d4/d3b/a07604.html#ac1ed346507097817b3f8e00f0ae657a0", null ],
-    [ "SendSysMessage", "d4/d3b/a07604.html#a1f915beeda589704808dc727c3edcb63", null ],
-    [ "echo", "d4/d3b/a07604.html#a9c87777b4249795b41163b2294f44746", null ],
-    [ "hadAck", "d4/d3b/a07604.html#a8262279e3e11d7abc952b2ab3b67a99f", null ],
-    [ "humanReadable", "d4/d3b/a07604.html#a85407d3478890e8f4c43377de7eb0993", null ]
+    [ "CapturePointInfo", "d4/d3b/a07604.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
+    [ "IsUncontrolled", "d4/d3b/a07604.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
+    [ "IsUnderControl", "d4/d3b/a07604.html#a3f33897525f5104e2e7733dd6247c090", null ],
+    [ "IsUnderControl", "d4/d3b/a07604.html#af6b021020b120b87c300981b8bb60992", null ],
+    [ "_areaTrigger", "d4/d3b/a07604.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
+    [ "_barStatus", "d4/d3b/a07604.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
+    [ "_ownerTeamId", "d4/d3b/a07604.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
+    [ "_playersCount", "d4/d3b/a07604.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
+    [ "player", "d4/d3b/a07604.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
 ];

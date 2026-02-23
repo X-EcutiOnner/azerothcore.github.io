@@ -1,6 +1,11 @@
 var a07656 =
 [
-    [ "value_type", "d1/d69/a07656.html#aa9f15f4c6028776b59bf56cbd63587d9", null ],
-    [ "operator()", "d1/d69/a07656.html#a3042bf741c31893eb607817093239f1a", null ],
-    [ "operator()", "d1/d69/a07656.html#a83fddb5675f63d4535fac9e62cf9638d", null ]
+    [ "BattlegroundWGScore", "d1/d69/a07656.html#a43b7933c5e217376e5bb10e9b5bb208b", null ],
+    [ "BuildObjectivesBlock", "d1/d69/a07656.html#a804e56dbd666336d961cce2b0e4d6452", null ],
+    [ "GetAttr1", "d1/d69/a07656.html#aab49f39d88989b153f1eb979fbbfaeb3", null ],
+    [ "GetAttr2", "d1/d69/a07656.html#a191e205e08ef15cc36dabedc32614fd2", null ],
+    [ "UpdateScore", "d1/d69/a07656.html#aa560d7f5f13dd235d43a9e3571090055", null ],
+    [ "BattlegroundWS", "d1/d69/a07656.html#a4285b67c5d8593dce759422a4eb78c77", null ],
+    [ "FlagCaptures", "d1/d69/a07656.html#a23ff00f10d07c1a601e9e1d0eb05b1da", null ],
+    [ "FlagReturns", "d1/d69/a07656.html#ab400c9fb692ff157eb4809f0536c05f7", null ]
 ];

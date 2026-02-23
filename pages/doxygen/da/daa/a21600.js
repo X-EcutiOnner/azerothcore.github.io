@@ -1,15 +1,9 @@
 var a21600 =
 [
-    [ "npc_vh_teleportation_portalAI", "da/daa/a21600.html#a9d062de34e4fbc8ccc487a633efa038d", null ],
-    [ "JustDied", "da/daa/a21600.html#aab2cc259d78492c54e21b4279697f909", null ],
-    [ "JustSummoned", "da/daa/a21600.html#a029b105ef6f92455c41e064aeb0fd5f6", null ],
-    [ "SummonedMobDied", "da/daa/a21600.html#ae6b5b15aeee2f7b02d5c54dd8d09aa51", null ],
-    [ "UpdateAI", "da/daa/a21600.html#a812e330e20924cc34262363ecc0a3fc1", null ],
-    [ "addValue", "da/daa/a21600.html#aa52f29a41d12320516737b437af62fc3", null ],
-    [ "bKorG", "da/daa/a21600.html#ad96efd06ebb1902cc30deb22e62d7873", null ],
-    [ "events", "da/daa/a21600.html#a329635246e80e7264cad6749ee70be40", null ],
-    [ "listOfMobs", "da/daa/a21600.html#a470a61cf7d424711b07770fd56c74b29", null ],
-    [ "pInstance", "da/daa/a21600.html#a10ebe705c55d898bfea2af104ce7f86e", null ],
-    [ "spawned", "da/daa/a21600.html#a8921c314c2f4b958e11136504971f427", null ],
-    [ "wave", "da/daa/a21600.html#a4dd689e6445e18c3e9883bc471fecdde", null ]
+    [ "npc_archmage_landalockAI", "da/daa/a21600.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
+    [ "GetImageEntry", "da/daa/a21600.html#ae09841969253c0baf72cc235b6fa058e", null ],
+    [ "JustSummoned", "da/daa/a21600.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
+    [ "UpdateAI", "da/daa/a21600.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
+    [ "_summonGUID", "da/daa/a21600.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
+    [ "_switchImageTimer", "da/daa/a21600.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
 ];

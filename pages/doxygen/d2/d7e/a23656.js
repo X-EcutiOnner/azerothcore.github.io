@@ -1,5 +1,7 @@
 var a23656 =
 [
-    [ "npc_invisible_tractor_beam_source", "d2/d7e/a23656.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
-    [ "IsSummonedBy", "d2/d7e/a23656.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
+    [ "AfterApply", "d2/d7e/a23656.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
+    [ "PrepareAuraScript", "d2/d7e/a23656.html#aa98346e5f5b23fe016148426a19a719f", null ],
+    [ "Register", "d2/d7e/a23656.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
+    [ "Validate", "d2/d7e/a23656.html#a616d1758aa257140f4941fe12ef21e87", null ]
 ];

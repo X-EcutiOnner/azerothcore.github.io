@@ -1,7 +1,6 @@
 var a21984 =
 [
-    [ "HandleApplyEffect", "d1/ded/a21984.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
-    [ "HandleRemoveEffect", "d1/ded/a21984.html#a243933fec9ccd650303ea5badbea725b", null ],
-    [ "PrepareAuraScript", "d1/ded/a21984.html#ac0e1fc0694dd51e245340d3658592447", null ],
-    [ "Register", "d1/ded/a21984.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
+    [ "npc_boneguard_footmanAI", "dd/d20/a21988.html", "dd/d20/a21988" ],
+    [ "npc_boneguard_footman", "d1/ded/a21984.html#aba17f89b9546deff5401ad33224b2b3e", null ],
+    [ "GetAI", "d1/ded/a21984.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
 ];

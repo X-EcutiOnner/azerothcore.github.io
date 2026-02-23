@@ -1,6 +1,6 @@
 var a26228 =
 [
-    [ "HandleDummy", "d0/dee/a26228.html#a4fde3142b38989cb37db76da6eada03c", null ],
-    [ "PrepareSpellScript", "d0/dee/a26228.html#aa694a1a7cbbe0f20226d7e616e19cefb", null ],
-    [ "Register", "d0/dee/a26228.html#a1f83fae2fb3dc0904ed56101e1254f5f", null ]
+    [ "PrepareSpellScript", "d0/dee/a26228.html#a8127429829afd4b82395a821a4bea19c", null ],
+    [ "Register", "d0/dee/a26228.html#a73717914aa23764fa16c8a2965798a6a", null ],
+    [ "SecondaryEffect", "d0/dee/a26228.html#a6150d8615c7f579aadd50e28aba0d569", null ]
 ];

@@ -1,18 +1,15 @@
 var a28036 =
 [
-    [ "DBCStorageBase", "d2/d7a/a28036.html#ad688053187f77a4a016274f7e46a76a3", null ],
-    [ "~DBCStorageBase", "d2/d7a/a28036.html#a39d4e4f05a50b952c2f952a452beb010", null ],
-    [ "GetFieldCount", "d2/d7a/a28036.html#a867375a50bcf7ec8c40b6ff7305a5e81", null ],
-    [ "GetFormat", "d2/d7a/a28036.html#ab333cdbf4cb7c6f527045902256fdf2f", null ],
-    [ "Load", "d2/d7a/a28036.html#a779bd666cbdc6587eab6a81e51e894d8", null ],
-    [ "Load", "d2/d7a/a28036.html#a14dfcde7f1c9c63a293638009b6ce16b", null ],
-    [ "LoadFromDB", "d2/d7a/a28036.html#abea56cf48880a3ae02d322b6283032b4", null ],
-    [ "LoadFromDB", "d2/d7a/a28036.html#a7156af21138d19a978b9551a2ca24708", null ],
-    [ "LoadStringsFrom", "d2/d7a/a28036.html#a912b4793ddc3e3ff3bc9279693373b79", null ],
-    [ "LoadStringsFrom", "d2/d7a/a28036.html#a0e3e3be24e2404fad11c322190e0e337", null ],
-    [ "_dataTable", "d2/d7a/a28036.html#ab13a1018e69345a3665f50d696bc7236", null ],
-    [ "_fieldCount", "d2/d7a/a28036.html#aa9bebefe18610016bef2c7d087d20abe", null ],
-    [ "_fileFormat", "d2/d7a/a28036.html#a3ac1c70817c9b7a351ea0e0d2e602351", null ],
-    [ "_indexTableSize", "d2/d7a/a28036.html#aa17bb429de3b9df9bb6ffcbc9bf9010b", null ],
-    [ "_stringPool", "d2/d7a/a28036.html#a8d571b107344a2dbde0b2cbcfa3c9b52", null ]
+    [ "boss_taerarAI", "d2/d7a/a28036.html#a69171fba79d49d12a2e96fb5c2baa0aa", null ],
+    [ "DamageTaken", "d2/d7a/a28036.html#a08babc3ca2cd76891b9c0e196e461c79", null ],
+    [ "ExecuteEvent", "d2/d7a/a28036.html#a89750136787d549ac4c744a0e3b9239c", null ],
+    [ "JustDied", "d2/d7a/a28036.html#add2712022edbd88504de2dd147a098a0", null ],
+    [ "JustEngagedWith", "d2/d7a/a28036.html#adf280483e6fd7f01d14472973c021a91", null ],
+    [ "Reset", "d2/d7a/a28036.html#a74a53b7c4672bcba1cc4f69407c23c42", null ],
+    [ "SummonedCreatureDies", "d2/d7a/a28036.html#a35557d97df6d83c9fafead3f59e1af2e", null ],
+    [ "UpdateAI", "d2/d7a/a28036.html#a406213e6b3a1397c0026d5dc857f08a9", null ],
+    [ "_banished", "d2/d7a/a28036.html#a8ee658a07f28df0c5f46cedac25f68ab", null ],
+    [ "_banishedTimer", "d2/d7a/a28036.html#a6b7bd08d3e4362201ee904019f9e6b51", null ],
+    [ "_shades", "d2/d7a/a28036.html#a6e77285330fcd09fd13ef0d029e2a554", null ],
+    [ "_stage", "d2/d7a/a28036.html#a2d49f2ce95d16cfc1b9525256f0a6bc2", null ]
 ];

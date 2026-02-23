@@ -1,7 +1,6 @@
 var a21456 =
 [
-    [ "PrepareAuraScript", "d0/dd8/a21456.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
-    [ "Register", "d0/dd8/a21456.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
-    [ "TriggerFists", "d0/dd8/a21456.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
-    [ "Validate", "d0/dd8/a21456.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
+    [ "npc_khunok_the_behemothAI", "dc/d09/a21460.html", "dc/d09/a21460" ],
+    [ "npc_khunok_the_behemoth", "d0/dd8/a21456.html#a0370959631c00581495dbd7c37263236", null ],
+    [ "GetAI", "d0/dd8/a21456.html#a201aa35dd119d23126b192a1e3786c09", null ]
 ];

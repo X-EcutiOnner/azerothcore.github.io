@@ -1,7 +1,7 @@
 var a14152 =
 [
-    [ "HandleScript", "dc/d4d/a14152.html#ac45614416a710794b3e3a5cee239e28a", null ],
-    [ "PrepareSpellScript", "dc/d4d/a14152.html#a832aee6557e27bfa418957297a05bea3", null ],
-    [ "Register", "dc/d4d/a14152.html#a2f5d255de09818203e498c0090bdd3fb", null ],
-    [ "Validate", "dc/d4d/a14152.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
+    [ "o", "dc/d4d/a14152.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
+    [ "x", "dc/d4d/a14152.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
+    [ "y", "dc/d4d/a14152.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
+    [ "z", "dc/d4d/a14152.html#abf42d988d416ebe409100c4b860d26db", null ]
 ];

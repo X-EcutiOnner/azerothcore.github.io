@@ -1,7 +1,6 @@
 var a26632 =
 [
-    [ "HandleDummy", "db/da8/a26632.html#abc630a0c8274f5f85901b2505ff2ae04", null ],
-    [ "PrepareSpellScript", "db/da8/a26632.html#af79cd7c2f6ed47a93dbbe17aaca6834f", null ],
-    [ "Register", "db/da8/a26632.html#a3f1808538acca2742c19f68af9a6fd56", null ],
-    [ "Validate", "db/da8/a26632.html#a475e1d5d8c70e0edd5957a1e493fd43e", null ]
+    [ "CalculateAmount", "db/da8/a26632.html#a9c4a38bb60cc61156da5bd1b89b3e116", null ],
+    [ "PrepareAuraScript", "db/da8/a26632.html#a5bd55cb8b992f7ceb52f7193bcdbf210", null ],
+    [ "Register", "db/da8/a26632.html#a1f717d941f8d100eb73d7e2a3b638bad", null ]
 ];

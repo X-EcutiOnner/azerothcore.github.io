@@ -1,6 +1,6 @@
 var a21336 =
 [
-    [ "npc_frenzied_worgenAI", "d8/d9d/a21340.html", "d8/d9d/a21340" ],
-    [ "npc_frenzied_worgen", "d7/d92/a21336.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
-    [ "GetAI", "d7/d92/a21336.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
+    [ "instance_violet_hold_InstanceMapScript", "d8/d9d/a21340.html", "d8/d9d/a21340" ],
+    [ "instance_violet_hold", "d7/d92/a21336.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
+    [ "GetInstanceScript", "d7/d92/a21336.html#aeedcbb24b0709bd172ebbbc6d9851532", null ]
 ];

@@ -1,18 +1,10 @@
 var a29888 =
 [
-    [ "_ACORE_CORE_CONFIG", "d8/dc6/a04796.html#ga1d466b8deaea4c5b80b4abcdc38991fd", null ],
-    [ "ClearOnlineAccounts", "d8/dc6/a04796.html#ga285010ee0ae83f9198f08fa3145877d7", null ],
-    [ "GetConsoleArguments", "d8/dc6/a04796.html#gab889056920cce8fbe96e920cea5fd9e6", null ],
-    [ "LoadRealmInfo", "d8/dc6/a04796.html#ga74b21e249952fe0d6d779ee217c76dc5", null ],
-    [ "main", "d8/dc6/a04796.html#ga3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "ShutdownCLIThread", "d8/dc6/a04796.html#gaafe46b3c9a56a31faa60963b6a1f202a", null ],
-    [ "SignalHandler", "d8/dc6/a04796.html#gad82d96de9a84a7d0325afcd3121344a4", null ],
-    [ "StartDB", "d8/dc6/a04796.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StartRaSocketAcceptor", "d8/dc6/a04796.html#ga0781c2ca38d89a89b174f81fb895285b", null ],
-    [ "StopDB", "d8/dc6/a04796.html#ga927af1587546ee7503a3b9a18f6439c0", null ],
-    [ "WorldUpdateLoop", "d8/dc6/a04796.html#ga62605923595bdfa644784c8a929fa1a7", null ],
-    [ "m_ServiceStatus", "d8/dc6/a04796.html#gabad888b856358b30aa3928d7e01916fb", null ],
-    [ "serviceDescription", "d8/dc6/a04796.html#ga2994dda4045f1e2d3d675565a16a4dd2", null ],
-    [ "serviceLongName", "d8/dc6/a04796.html#ga34b5207234887e0d62724cf770037f6f", null ],
-    [ "serviceName", "d8/dc6/a04796.html#ga69c549a4f4a1e88fa4a2c38cde62f569", null ]
+    [ "maxSimplificationError", "d4/d14/a29888.html#a010878a247d639234d2bb8571280aca6", null ],
+    [ "vertexPerMapEdge", "d4/d14/a29888.html#af620af11a09215f106fc6704c88fa411", null ],
+    [ "vertexPerTileEdge", "d4/d14/a29888.html#a5a801e68fac6d59c1a236aeaf374bc9e", null ],
+    [ "walkableClimb", "d4/d14/a29888.html#aa5f6c5daf51b6390b7146f9a8d6de7ec", null ],
+    [ "walkableHeight", "d4/d14/a29888.html#a42b9a553cb3cd5d9c39d4cb7f0f59486", null ],
+    [ "walkableRadius", "d4/d14/a29888.html#a43f00aacc5e1497c169d4ba908883140", null ],
+    [ "walkableSlopeAngle", "d4/d14/a29888.html#a9792dfe730bfc437797a359896a14528", null ]
 ];

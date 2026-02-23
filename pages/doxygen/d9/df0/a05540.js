@@ -1,15 +1,17 @@
 var a05540 =
 [
-    [ "EnumFlag", "d9/df0/a05540.html#a877aa23dfde6aa91cff6d8c0eb9a4732", null ],
-    [ "AsUnderlyingType", "d9/df0/a05540.html#af9468dd952e12d2da9c0120d0ce9feb4", null ],
-    [ "HasAllFlags", "d9/df0/a05540.html#adb5b65ab4a3d827882634d94774a912b", null ],
-    [ "HasFlag", "d9/df0/a05540.html#a311985d41e79365bf9fd5bcb7c8fbf0c", null ],
-    [ "operator T", "d9/df0/a05540.html#a13022712c9634c84907b906e55aebe28", null ],
-    [ "operator&=", "d9/df0/a05540.html#afb2c7428dd07e4f427b0b0ca5ac0f7c3", null ],
-    [ "operator|=", "d9/df0/a05540.html#ab49498ed668ee324702c4beadf4de999", null ],
-    [ "operator~", "d9/df0/a05540.html#a3001eac7546c03530d1e51d5c1e6abfd", null ],
-    [ "RemoveFlag", "d9/df0/a05540.html#a106a00ee4112382aa0120489551bf50a", null ],
-    [ "operator&", "d9/df0/a05540.html#aa91d02e5d8b6d9ef507f47720ac6d9e6", null ],
-    [ "operator|", "d9/df0/a05540.html#add07cc2598afc632e84ffdc0bf60cd81", null ],
-    [ "_value", "d9/df0/a05540.html#a55353d720942d68d0dea86837aaca7c5", null ]
+    [ "AppenderFile", "d9/df0/a05540.html#a0437ef5c3d0106e52747ab57ccbf97a3", null ],
+    [ "~AppenderFile", "d9/df0/a05540.html#ae61ef8a7dbc41612f94513ee0da156e1", null ],
+    [ "_write", "d9/df0/a05540.html#a4c20fc9c6519eb63ca3bf74fd1d1f5b5", null ],
+    [ "CloseFile", "d9/df0/a05540.html#a039659a1e8e340c9522ff99f119ff5c8", null ],
+    [ "getType", "d9/df0/a05540.html#ad978ed158e068f5fa84f9f93aaf99b46", null ],
+    [ "OpenFile", "d9/df0/a05540.html#af4ee583cbcd00d8d564189b0d62a1bb8", null ],
+    [ "_backup", "d9/df0/a05540.html#a4e1f6ab329fa3dadf4e63584b92c456f", null ],
+    [ "_dynamicName", "d9/df0/a05540.html#a13cffedf98f8554f5a947dcc065caf65", null ],
+    [ "_fileName", "d9/df0/a05540.html#a53fcfcc6bf29a0e493d2ea9fdb1344fc", null ],
+    [ "_fileSize", "d9/df0/a05540.html#a03a7e6402f58136a0cc34eff3985d3fb", null ],
+    [ "_logDir", "d9/df0/a05540.html#a99f47e0f33b5d5f810470f45a4c885b7", null ],
+    [ "_maxFileSize", "d9/df0/a05540.html#a271930a4cb21d7efdc2243b6d33d177f", null ],
+    [ "logfile", "d9/df0/a05540.html#a8ce79405a7e19ae23fc4a93f70ad28b6", null ],
+    [ "type", "d9/df0/a05540.html#a6ec33bdb38ab0359620e008cf4793f8c", null ]
 ];

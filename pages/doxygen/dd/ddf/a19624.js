@@ -1,6 +1,5 @@
 var a19624 =
 [
-    [ "boss_uromAI", "dd/dd9/a19628.html", "dd/dd9/a19628" ],
-    [ "boss_urom", "dd/ddf/a19624.html#ae85d0bb54d3bf6571bec9d35f31a3e25", null ],
-    [ "GetAI", "dd/ddf/a19624.html#ac381b851f3cc746fb323ff238892c537", null ]
+    [ "at_thaddius_entrance", "dd/ddf/a19624.html#ad81a60cac337baad82ea526de1d151d1", null ],
+    [ "_OnTrigger", "dd/ddf/a19624.html#acc869cade2b48ceb782d78aa7df6f246", null ]
 ];

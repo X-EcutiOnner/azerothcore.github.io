@@ -1,7 +1,6 @@
 var a21172 =
 [
-    [ "HandleScriptEffect", "d3/d71/a21172.html#a173ee086127655cdfcca507fd5b15b2e", null ],
-    [ "PrepareSpellScript", "d3/d71/a21172.html#a005d47b18a820c35ec596b5539db94eb", null ],
-    [ "Register", "d3/d71/a21172.html#a20a0d554e80707c1517422cb747f38e8", null ],
-    [ "Validate", "d3/d71/a21172.html#a5ca44686e26def56adc2b98d88145235", null ]
+    [ "boss_archavonAI", "de/da9/a21176.html", "de/da9/a21176" ],
+    [ "boss_archavon", "d3/d71/a21172.html#a44e20480f8d86cf763afe67de49c6c33", null ],
+    [ "GetAI", "d3/d71/a21172.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
 ];

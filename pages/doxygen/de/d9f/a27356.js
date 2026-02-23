@@ -1,6 +1,7 @@
 var a27356 =
 [
-    [ "AreaTrigger_at_brewfest", "de/d9f/a27356.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
-    [ "OnTrigger", "de/d9f/a27356.html#a17e4a8d671136466c7673789e4f69a84", null ],
-    [ "_triggerTimes", "de/d9f/a27356.html#ab763765427796ad17338bcc8d63cf891", null ]
+    [ "HandleDummy", "de/d9f/a27356.html#a96c5064738653ce16f06634196218a88", null ],
+    [ "PrepareSpellScript", "de/d9f/a27356.html#a2fa51a29d2c8ce74c8a4351712ccdeb9", null ],
+    [ "Register", "de/d9f/a27356.html#a080969e035143ac8527443025dbacef2", null ],
+    [ "Validate", "de/d9f/a27356.html#a66fd30d7cffdc7307b4c9dc821ccdf92", null ]
 ];

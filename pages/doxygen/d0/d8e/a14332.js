@@ -1,7 +1,9 @@
 var a14332 =
 [
-    [ "HandleOnHit", "d0/d8e/a14332.html#a561799e6241b1fe17cd09f17c447107b", null ],
-    [ "PrepareSpellScript", "d0/d8e/a14332.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
-    [ "Register", "d0/d8e/a14332.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
-    [ "Validate", "d0/d8e/a14332.html#adb339686c5e9dcb298712455dc8435bf", null ]
+    [ "npc_zulaman_hostageAI", "d0/d8e/a14332.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
+    [ "JustDied", "d0/d8e/a14332.html#af87bdebb039f1da5736408cf3aad6487", null ],
+    [ "JustEngagedWith", "d0/d8e/a14332.html#af0aa229973da1a6230a854439658e9ed", null ],
+    [ "UpdateAI", "d0/d8e/a14332.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
+    [ "IsLoot", "d0/d8e/a14332.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
+    [ "PlayerGUID", "d0/d8e/a14332.html#a49f15c5a94d005c56218d00ac6732b82", null ]
 ];

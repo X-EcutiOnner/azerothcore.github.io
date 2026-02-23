@@ -1,6 +1,7 @@
 var a14648 =
 [
-    [ "HandleDummy", "d3/daa/a14648.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
-    [ "PrepareSpellScript", "d3/daa/a14648.html#a87a787c6ab3804847c90266f570381c6", null ],
-    [ "Register", "d3/daa/a14648.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
+    [ "GetEmptyEntry", "d3/daa/a14648.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
+    [ "HandleAfterHit", "d3/daa/a14648.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
+    [ "PrepareSpellScript", "d3/daa/a14648.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
+    [ "Register", "d3/daa/a14648.html#a25e1858e1f81891443f4b7de50a5d495", null ]
 ];

@@ -1,6 +1,9 @@
 var a25280 =
 [
-    [ "CalculateAmount", "d8/d04/a25280.html#a66b009487462241e573ea23f081a140a", null ],
-    [ "PrepareAuraScript", "d8/d04/a25280.html#a0eee16c77a3c3cea882b67c78826a140", null ],
-    [ "Register", "d8/d04/a25280.html#afeafc6922b0a0389fec969e3c7191dda", null ]
+    [ "spell_gen_lifebloom", "d8/d04/a25280.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
+    [ "AfterRemove", "d8/d04/a25280.html#aea962f603e56c1bd33fccaef0c89d917", null ],
+    [ "PrepareAuraScript", "d8/d04/a25280.html#ac11134bdc3588795ce6e256c5b02055f", null ],
+    [ "Register", "d8/d04/a25280.html#ab4a552402ee9f90834320d6fc668cff3", null ],
+    [ "Validate", "d8/d04/a25280.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
+    [ "_spellId", "d8/d04/a25280.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
 ];

@@ -1,6 +1,6 @@
 var a14940 =
 [
-    [ "FilterTargets", "db/d18/a14940.html#a45b0713b2942199bf0e19752fe765aac", null ],
-    [ "PrepareSpellScript", "db/d18/a14940.html#a7f7177d7754a99743202f69a0342f587", null ],
-    [ "Register", "db/d18/a14940.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
+    [ "HandleAfterEffectRemove", "db/d18/a14940.html#acf650fe6fe65164c12fbb06b45e092c9", null ],
+    [ "PrepareAuraScript", "db/d18/a14940.html#a3b54e232c0502eaa03b314a05dce1835", null ],
+    [ "Register", "db/d18/a14940.html#a9bacd9538b1ab1cf9aa74e7675ff5b6b", null ]
 ];

@@ -1,18 +1,6 @@
 var a18048 =
 [
-    [ "boss_lord_marrowgar", "d4/d6d/a18048.html#ab6a4afec9ed7153054b2d5ffb8f3b8ab", null ],
-    [ "CanAIAttack", "d4/d6d/a18048.html#a019816e930781889f39c561577eaecc0", null ],
-    [ "GetGUID", "d4/d6d/a18048.html#a0f3d27442ce651574ab66c2f94d27c88", null ],
-    [ "JustDied", "d4/d6d/a18048.html#a8f1143de6695cf3fc2e54d5dc29ae9f2", null ],
-    [ "JustEngagedWith", "d4/d6d/a18048.html#a3fa8b012f5e3ae94cecb537aa1952b63", null ],
-    [ "JustReachedHome", "d4/d6d/a18048.html#ac59e0e13d5226fcdb4af08a1f9eff089", null ],
-    [ "KilledUnit", "d4/d6d/a18048.html#acfe53ec83fa2056b37269608182fb25b", null ],
-    [ "MoveInLineOfSight", "d4/d6d/a18048.html#ab3a7a37af22ab4dd7178f1cce2e2ab6a", null ],
-    [ "MovementInform", "d4/d6d/a18048.html#abba7e15c065a80677fc88a6dafa8ecfd", null ],
-    [ "Reset", "d4/d6d/a18048.html#a2692d00185ef27f50af01d125e39d549", null ],
-    [ "SpellHitTarget", "d4/d6d/a18048.html#adf886210abbd492f897b39145748f78a", null ],
-    [ "UpdateAI", "d4/d6d/a18048.html#aa19fdc486c0c9cca1033e0747d631a7e", null ],
-    [ "_boneSlice", "d4/d6d/a18048.html#a50478639cd1f13732646fcc2349c5474", null ],
-    [ "_introDone", "d4/d6d/a18048.html#a87f5036e8ba62e54ed7c502469cffe10", null ],
-    [ "_lastBoneSliceTargets", "d4/d6d/a18048.html#aaf8ca2baf4c68ea64d4c163ede7813c8", null ]
+    [ "npc_gunship_rocketeerAI", "de/ddf/a18052.html", "de/ddf/a18052" ],
+    [ "npc_gunship_rocketeer", "d4/d6d/a18048.html#a7ed2cf258269f239bb73f2f06411db07", null ],
+    [ "GetAI", "d4/d6d/a18048.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
 ];

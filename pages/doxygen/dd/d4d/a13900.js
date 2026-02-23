@@ -1,6 +1,6 @@
 var a13900 =
 [
-    [ "OnEffect", "dd/d4d/a13900.html#a41903586310ec274dd10537ccb8655f3", null ],
-    [ "PrepareSpellScript", "dd/d4d/a13900.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
-    [ "Register", "dd/d4d/a13900.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
+    [ "instance_sunwell_plateau_InstanceMapScript", "d9/d90/a13904.html", "d9/d90/a13904" ],
+    [ "instance_sunwell_plateau", "dd/d4d/a13900.html#a31d2245a9237c8dc4480b9d26ff3557c", null ],
+    [ "GetInstanceScript", "dd/d4d/a13900.html#a5960785a845c87e2e1730cfd865b44b4", null ]
 ];

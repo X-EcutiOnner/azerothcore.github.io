@@ -1,7 +1,8 @@
 var a23508 =
 [
-    [ "PeriodicTick", "d5/d31/a23508.html#a94bee50f214d0a61fa81c4cca1b38fb2", null ],
-    [ "PrepareAuraScript", "d5/d31/a23508.html#a2c34fbc5c12be43b1c054cf4b23542cb", null ],
-    [ "Register", "d5/d31/a23508.html#ae1479b53d8c0575947a7ce7cae4747c4", null ],
-    [ "Validate", "d5/d31/a23508.html#ade8d57db324f02734e1752f49976dc9d", null ]
+    [ "npc_target_trigger", "d5/d31/a23508.html#a238058ba80130c6239b7267db3247196", null ],
+    [ "Reset", "d5/d31/a23508.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
+    [ "UpdateAI", "d5/d31/a23508.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
+    [ "_cast", "d5/d31/a23508.html#a4ec89ca960323f7ad135d5a425a82416", null ],
+    [ "_scheduler", "d5/d31/a23508.html#a9b418b09e25c8f96692b4e2626339c96", null ]
 ];

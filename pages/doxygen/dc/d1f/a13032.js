@@ -1,14 +1,5 @@
 var a13032 =
 [
-    [ "boss_strawman", "dc/d1f/a13032.html#a1789cdafc2ce03e156ac686e6859e25f", null ],
-    [ "DoAction", "dc/d1f/a13032.html#a57f9519f87bc8e7446632a49f56a02ca", null ],
-    [ "EnterEvadeMode", "dc/d1f/a13032.html#a67fd9b85406512cef4f3ae581461f0c4", null ],
-    [ "JustDied", "dc/d1f/a13032.html#ab175b0104d316b8929e32d9eb939780f", null ],
-    [ "JustEngagedWith", "dc/d1f/a13032.html#a40657516c4f1b049dd0514a50e299a10", null ],
-    [ "JustReachedHome", "dc/d1f/a13032.html#a4235b2de2540199f9570cbadb7326871", null ],
-    [ "KilledUnit", "dc/d1f/a13032.html#a06b92dbb6907ace60df7e10893be7af0", null ],
-    [ "SpellHit", "dc/d1f/a13032.html#a5bf558765b59a7950bd55ece14c07a4f", null ],
-    [ "UpdateAI", "dc/d1f/a13032.html#adcb7db7cb3f938b492a28c3540251ea9", null ],
-    [ "_scheduler", "dc/d1f/a13032.html#a409539c771b373c165bdbccac8a59e7f", null ],
-    [ "instance", "dc/d1f/a13032.html#a157a6faacf83432b8227173f6b14a7d3", null ]
+    [ "npc_chess_move_trigger", "dc/d1f/a13032.html#a6c0c37677db45ee11ebe158893d99632", null ],
+    [ "DamageTaken", "dc/d1f/a13032.html#af413c7af2254c1cc06462b2a62ac88db", null ]
 ];

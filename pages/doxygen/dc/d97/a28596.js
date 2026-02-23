@@ -1,7 +1,8 @@
 var a28596 =
 [
-    [ "EpicPropertiesPoints", "dc/d97/a28596.html#a35dc60a15091357e03032226621340f7", null ],
-    [ "itemLevel", "dc/d97/a28596.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
-    [ "RarePropertiesPoints", "dc/d97/a28596.html#a9359171635ef3e9a0029820fad286368", null ],
-    [ "UncommonPropertiesPoints", "dc/d97/a28596.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
+    [ "npc_cultist_engineer", "dc/d97/a28596.html#a02675a96d20902d147b0370fa1715d81", null ],
+    [ "JustDied", "dc/d97/a28596.html#a4b4d561f827553998caa204e0e1b9e54", null ],
+    [ "Reset", "dc/d97/a28596.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
+    [ "sGossipSelect", "dc/d97/a28596.html#ab26d124cbfdc4d649fef6058e9637845", null ],
+    [ "UpdateAI", "dc/d97/a28596.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
 ];

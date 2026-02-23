@@ -1,7 +1,6 @@
 var a24152 =
 [
-    [ "OnPeriodic", "d4/dae/a24152.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
-    [ "PrepareAuraScript", "d4/dae/a24152.html#a6f7db06cc1ace68ee0076077773b1659", null ],
-    [ "Register", "d4/dae/a24152.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
-    [ "Validate", "d4/dae/a24152.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
+    [ "npc_enraged_spiritAI", "de/df2/a24156.html", "de/df2/a24156" ],
+    [ "npc_enraged_spirit", "d4/dae/a24152.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
+    [ "GetAI", "d4/dae/a24152.html#aa10d5f0147cf4064a49df735ac95575e", null ]
 ];

@@ -1,6 +1,6 @@
 var a15924 =
 [
-    [ "npc_twiggy_flatheadAI", "d4/dc7/a15928.html", "d4/dc7/a15928" ],
-    [ "npc_twiggy_flathead", "da/ded/a15924.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
-    [ "GetAI", "da/ded/a15924.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
+    [ "npc_great_bear_spirit", "da/ded/a15924.html#a141470a3623aa1152d3505661f1532c8", null ],
+    [ "OnGossipHello", "da/ded/a15924.html#a2307b8d56fc117d918adc9814fa86f8f", null ],
+    [ "OnGossipSelect", "da/ded/a15924.html#aae026f4cf8b0de61d36a841dcfdbd92e", null ]
 ];

@@ -1,10 +1,11 @@
 var a11380 =
 [
-    [ "TriggeredByAuraSpellData", "de/d08/a11380.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
-    [ "Init", "de/d08/a11380.html#a782e0056967e006748318af3112c0e43", null ],
-    [ "operator bool", "de/d08/a11380.html#a85d4782b76b060c172aaa6f914d400da", null ],
-    [ "operator!", "de/d08/a11380.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
-    [ "effectIndex", "de/d08/a11380.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
-    [ "spellInfo", "de/d08/a11380.html#af58f62fb168e9da7011f7b570f08e977", null ],
-    [ "tickNumber", "de/d08/a11380.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
+    [ "OptionalData", "df/dc6/a11384.html", "df/dc6/a11384" ],
+    [ "ArrivalTicks", "de/d08/a11380.html#a8fa635d0c8f77a0e39fd66501490f6ea", null ],
+    [ "ConnectionId", "de/d08/a11380.html#abe8700ec99d55a66b22f8fbb28c833fa", null ],
+    [ "Direction", "de/d08/a11380.html#a03a38a8ceed9eb1ea5585fcfb1ab29b8", null ],
+    [ "Length", "de/d08/a11380.html#ab889533c6ebe4a8b3dbf0a2a5fef06dc", null ],
+    [ "Opcode", "de/d08/a11380.html#a7fcc9281cd10ecf79929f9f17c855b65", null ],
+    [ "OptionalData", "de/d08/a11380.html#aa5219ee4193cccf913dabf6db5d6f57a", null ],
+    [ "OptionalDataSize", "de/d08/a11380.html#a03b79fe07bd5f0a1c254f2fb92a3ecba", null ]
 ];

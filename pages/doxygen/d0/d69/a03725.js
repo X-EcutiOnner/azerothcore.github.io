@@ -1,12 +1,13 @@
 var a03725 =
 [
-    [ "instance_stratholme", "d5/dd1/a13549.html", "d5/dd1/a13549" ],
-    [ "instance_stratholme::instance_stratholme_InstanceMapScript", "d8/d51/a13553.html", "d8/d51/a13553" ],
-    [ "AddSC_instance_stratholme", "d0/d69/a03725.html#add44fd9ad05267cc5db256b112db2585", null ],
-    [ "aGateTrap", "d0/d69/a03725.html#aa404f6799978911e2f0e4de3b4386c59", null ],
-    [ "aPlaguedCritters", "d0/d69/a03725.html#a4108af811b2731f9784942b89f333054", null ],
-    [ "BarthilasPos", "d0/d69/a03725.html#a3c5bc53064d7ed19146d61fbe2f25502", null ],
-    [ "BlackGuardPos", "d0/d69/a03725.html#a8ed1ccc03c022b129aa9bb9464fedd0a", null ],
-    [ "MindlessUndeadPos", "d0/d69/a03725.html#a1a89feed6c582c3bf3e51bf3a1027081", null ],
-    [ "SlaughterPos", "d0/d69/a03725.html#aec64d79cbf450b10fd485f2e559e0472", null ]
+    [ "boss_grizzle", "dc/d2a/a12380.html", "dc/d2a/a12380" ],
+    [ "boss_grizzle::boss_grizzleAI", "dc/d53/a12384.html", "dc/d53/a12384" ],
+    [ "Grizzle", "d0/d69/a03725.html#acfff5d4b983e4db1d5efb6bd5da7e7aa", [
+      [ "SPELL_GROUNDTREMOR", "d0/d69/a03725.html#acfff5d4b983e4db1d5efb6bd5da7e7aaa4426ae7fabf4ddb0d8355b0049b5a6bb", null ],
+      [ "SPELL_FRENZY", "d0/d69/a03725.html#acfff5d4b983e4db1d5efb6bd5da7e7aaab54f261ba282273bed875abe6642a293", null ],
+      [ "EMOTE_FRENZY_KILL", "d0/d69/a03725.html#acfff5d4b983e4db1d5efb6bd5da7e7aaaebdb26e3a90dde560c1c4f7fd5615f63", null ]
+    ] ],
+    [ "AddSC_boss_grizzle", "d0/d69/a03725.html#adb6c19fe584b9ecd11ab67084570a0be", null ],
+    [ "TIMER_FRENZY", "d0/d69/a03725.html#a57b77ddbaec70c1bfcf7f1ccbf0715a1", null ],
+    [ "TIMER_GROUNDTREMOR", "d0/d69/a03725.html#abc54daa3a30dab6dcbd53b460e55a15a", null ]
 ];

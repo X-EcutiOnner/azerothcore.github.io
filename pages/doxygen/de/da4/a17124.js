@@ -1,12 +1,10 @@
 var a17124 =
 [
-    [ "npc_ghostly_priestAI", "de/da4/a17124.html#abb6815d1395b68654eeb6ab8b4217388", null ],
-    [ "AttackStart", "de/da4/a17124.html#a9719d1ad6e58b727bc1720cb815be3e9", null ],
-    [ "DoAction", "de/da4/a17124.html#a89c991a1d4c07f1229436871f503c949", null ],
-    [ "EnterEvadeMode", "de/da4/a17124.html#ab8fd2df32ef12f5f648b8af9abcc3201", null ],
-    [ "JustDied", "de/da4/a17124.html#a004e8aec05741b9ee36b0695840e6c2a", null ],
-    [ "JustEngagedWith", "de/da4/a17124.html#a780d530e224ca1f72e26db17cd57f44a", null ],
-    [ "Reset", "de/da4/a17124.html#ab8f7559110be76633153842e0714554a", null ],
-    [ "UpdateAI", "de/da4/a17124.html#ab431f451963d0b608f11129934496700", null ],
-    [ "events", "de/da4/a17124.html#a9b49c143b5a29b4f9b4ce34ce0aecca7", null ]
+    [ "boss_tharon_jaAI", "de/da4/a17124.html#a03025fa529e932f23479ff19b0cd8238", null ],
+    [ "DoAction", "de/da4/a17124.html#a655fd83c2d671847fea9ae393c132fb9", null ],
+    [ "JustDied", "de/da4/a17124.html#a7928b5db061f1073e1decc2d40601195", null ],
+    [ "JustEngagedWith", "de/da4/a17124.html#aab194a8f802eeb625d1a74960acbe154", null ],
+    [ "KilledUnit", "de/da4/a17124.html#a41e929a3768768eb06bafdee3269fd24", null ],
+    [ "Reset", "de/da4/a17124.html#a272e8565a9b00a27505b301d52814eee", null ],
+    [ "UpdateAI", "de/da4/a17124.html#a6f482cabcb0bd56711878a5ea297b950", null ]
 ];

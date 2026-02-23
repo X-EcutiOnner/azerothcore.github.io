@@ -1,6 +1,6 @@
 var a16340 =
 [
-    [ "boss_halionAI", "d5/d52/a16344.html", "d5/d52/a16344" ],
-    [ "boss_halion", "d1/dbc/a16340.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
-    [ "GetAI", "d1/dbc/a16340.html#a142314efb4f45ec146ab0225271d29b1", null ]
+    [ "npc_anub_ar_crusher_crypt_fiend", "d1/dbc/a16340.html#a89abbce738f115c26dae9dacb065cc3d", null ],
+    [ "DoEngagedWith", "d1/dbc/a16340.html#a20cdbe7eb580cd9f9763019d8927182f", null ],
+    [ "DoEvent", "d1/dbc/a16340.html#a276eca6e65b32905f6919d49530ccc2f", null ]
 ];

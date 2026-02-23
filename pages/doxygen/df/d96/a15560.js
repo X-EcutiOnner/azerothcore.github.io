@@ -1,6 +1,9 @@
 var a15560 =
 [
-    [ "HandleDummy", "df/d96/a15560.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
-    [ "PrepareSpellScript", "df/d96/a15560.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
-    [ "Register", "df/d96/a15560.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
+    [ "npc_claw_tentacle", "df/d96/a15560.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
+    [ "JustDied", "df/d96/a15560.html#aa566b417d1b766668133dd1d6a58293f", null ],
+    [ "JustEngagedWith", "df/d96/a15560.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
+    [ "Reset", "df/d96/a15560.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
+    [ "UpdateAI", "df/d96/a15560.html#ae7d521445680167add653717c7ae4c86", null ],
+    [ "_portalGUID", "df/d96/a15560.html#ab979781a8f77267348595cfa17341bae", null ]
 ];

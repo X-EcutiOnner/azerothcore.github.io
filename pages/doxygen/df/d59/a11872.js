@@ -1,10 +1,5 @@
 var a11872 =
 [
-    [ "bf_commandscript", "df/d59/a11872.html#a806ca440ae1b51fffefee9d298dab3df", null ],
-    [ "GetCommands", "df/d59/a11872.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
-    [ "HandleBattlefieldEnable", "df/d59/a11872.html#a08dd3bdd279c760fe0f126200a01619e", null ],
-    [ "HandleBattlefieldEnd", "df/d59/a11872.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
-    [ "HandleBattlefieldStart", "df/d59/a11872.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
-    [ "HandleBattlefieldSwitch", "df/d59/a11872.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
-    [ "HandleBattlefieldTimer", "df/d59/a11872.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
+    [ "PlayerDump", "df/d59/a11872.html#a457c89834631206d39453721e41af28e", null ],
+    [ "InitializeTables", "df/d59/a11872.html#a69c8e6c412ac09099752a3ad388f5467", null ]
 ];

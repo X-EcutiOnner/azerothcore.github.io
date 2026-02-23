@@ -1,6 +1,8 @@
 var a27676 =
 [
-    [ "trigger_periodicAI", "dd/d04/a27680.html", "dd/d04/a27680" ],
-    [ "trigger_periodic", "d3/d08/a27676.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
-    [ "GetAI", "d3/d08/a27676.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
+    [ "AfterCheckProc", "d3/d08/a27676.html#acfdce5bcda30fc7c498d4f7aba37933f", null ],
+    [ "HandleProc", "d3/d08/a27676.html#ac24bde081e118b347a3cad6832cd96da", null ],
+    [ "PrepareAuraScript", "d3/d08/a27676.html#a5d33fbbc36417bd229fb9b1576f4f42b", null ],
+    [ "Register", "d3/d08/a27676.html#ac60630c5d36b1e9cc4fc809ecde1fe20", null ],
+    [ "Validate", "d3/d08/a27676.html#aecc372443f71834aaeab97ba77757e2a", null ]
 ];

@@ -1,8 +1,5 @@
 var a27972 =
 [
-    [ "npc_cultist_engineer", "d6/dc5/a27972.html#a02675a96d20902d147b0370fa1715d81", null ],
-    [ "JustDied", "d6/dc5/a27972.html#a4b4d561f827553998caa204e0e1b9e54", null ],
-    [ "Reset", "d6/dc5/a27972.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
-    [ "sGossipSelect", "d6/dc5/a27972.html#ab26d124cbfdc4d649fef6058e9637845", null ],
-    [ "UpdateAI", "d6/dc5/a27972.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
+    [ "AreaTrigger_at_nats_landing", "d6/dc5/a27972.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
+    [ "OnTrigger", "d6/dc5/a27972.html#a67434f74300fa3463e679afb7d344467", null ]
 ];

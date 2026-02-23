@@ -1,7 +1,7 @@
 var a17760 =
 [
-    [ "ExtraEffect", "d3/d05/a17760.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
-    [ "PrepareAuraScript", "d3/d05/a17760.html#a53d6013e5ec473854e1537969cb31988", null ],
-    [ "Register", "d3/d05/a17760.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
-    [ "Validate", "d3/d05/a17760.html#ab14e7410cf542d9f4043800a3b86c664", null ]
+    [ "HandleDummyTick", "d3/d05/a17760.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
+    [ "PrepareAuraScript", "d3/d05/a17760.html#a577523701b5a4ea2def4999e634c8862", null ],
+    [ "Register", "d3/d05/a17760.html#aaad9185c62333de4d6704b22780edd28", null ],
+    [ "Validate", "d3/d05/a17760.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
 ];

@@ -1,11 +1,10 @@
 var a14564 =
 [
-    [ "npc_winterfin_playmate", "d2/dfb/a14564.html#a9c07fb9115c21ba5c3ef7459662e8f38", null ],
-    [ "MoveInLineOfSight", "d2/dfb/a14564.html#a7e8640e3bfe0a8f960ce22a2daf136a4", null ],
-    [ "Reset", "d2/dfb/a14564.html#aae6b51c22dc0448608c1cf9412565e25", null ],
-    [ "UpdateAI", "d2/dfb/a14564.html#a8e04dc18ee8a6d9412cd574994908eb6", null ],
-    [ "orphanGUID", "d2/dfb/a14564.html#a9189bf7b93e7c46e559c22f3504f919f", null ],
-    [ "phase", "d2/dfb/a14564.html#a0a1051dc971ef393843bd1ba655a2e1b", null ],
-    [ "playerGUID", "d2/dfb/a14564.html#a142fe7a438ee22384f682f26ff4a9f9c", null ],
-    [ "timer", "d2/dfb/a14564.html#abf4b5f3e16f32a3385b71ef002c5ee64", null ]
+    [ "npc_zealot_lorkhan", "d2/dfb/a14564.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
+    [ "JustDied", "d2/dfb/a14564.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
+    [ "JustEngagedWith", "d2/dfb/a14564.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
+    [ "Reset", "d2/dfb/a14564.html#abecbd4a2ea2cf3281244933fe7484239", null ],
+    [ "UpdateAI", "d2/dfb/a14564.html#a68c35734f8886b2c241dcbc178899206", null ],
+    [ "_scheduler", "d2/dfb/a14564.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
+    [ "instance", "d2/dfb/a14564.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
 ];

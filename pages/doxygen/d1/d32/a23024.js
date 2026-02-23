@@ -1,7 +1,7 @@
 var a23024 =
 [
-    [ "boss_veras_darkshadow", "d1/d32/a23024.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
-    [ "JustEngagedWith", "d1/d32/a23024.html#a5eec3e70a7950073eced60d680ff6298", null ],
-    [ "JustSummoned", "d1/d32/a23024.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
-    [ "UpdateAI", "d1/d32/a23024.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
+    [ "HandleProc", "d1/d32/a23024.html#a43892c85339867a65e992b7f17fdc61c", null ],
+    [ "PrepareAuraScript", "d1/d32/a23024.html#ab5728e2c3df5b887c26f2485575087ff", null ],
+    [ "Register", "d1/d32/a23024.html#aae9f80730de402ebbda918e0116e59a0", null ],
+    [ "Validate", "d1/d32/a23024.html#a8ef20577e375a5c7d3a66824f27bf937", null ]
 ];

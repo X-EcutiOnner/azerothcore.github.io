@@ -1,6 +1,8 @@
 var a17612 =
 [
-    [ "PrepareSpellScript", "d1/d59/a17612.html#a37899f12707930d038de38bae92c9aff", null ],
-    [ "Register", "d1/d59/a17612.html#a3677d2e7db842f899e6e2d2c8c9a3d42", null ],
-    [ "SelectDest", "d1/d59/a17612.html#a4caabf8afac621ef70bbbac1a2b5177e", null ]
+    [ "boss_eck", "d1/d59/a17612.html#a665b54f72e674c8f65dd09daba5413db", null ],
+    [ "InitializeAI", "d1/d59/a17612.html#a92e5117337d372e1700d074f02c06df6", null ],
+    [ "JustEngagedWith", "d1/d59/a17612.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
+    [ "MovementInform", "d1/d59/a17612.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
+    [ "SpellHitTarget", "d1/d59/a17612.html#a63125d970933d6fa1f196aa28c588f40", null ]
 ];

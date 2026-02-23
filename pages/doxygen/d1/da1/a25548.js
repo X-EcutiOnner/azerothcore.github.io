@@ -1,9 +1,7 @@
 var a25548 =
 [
-    [ "spell_gen_translocate", "d1/da1/a25548.html#a56a3df0eba3e1521aa2898194c39e919", null ],
-    [ "HandleScript", "d1/da1/a25548.html#a67684fb76da60fdc13dbece055dae157", null ],
-    [ "PrepareSpellScript", "d1/da1/a25548.html#a6f0986e54ad410c2f42a7935645485ed", null ],
-    [ "Register", "d1/da1/a25548.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
-    [ "Validate", "d1/da1/a25548.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
-    [ "_spellId", "d1/da1/a25548.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
+    [ "HandleOnEffectApply", "d1/da1/a25548.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
+    [ "HandleOnEffectRemove", "d1/da1/a25548.html#a094d788d157474a9683387d5c340538f", null ],
+    [ "PrepareAuraScript", "d1/da1/a25548.html#aad378b8c45f11af51faf9128878c01df", null ],
+    [ "Register", "d1/da1/a25548.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
 ];

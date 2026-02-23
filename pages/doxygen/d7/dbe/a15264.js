@@ -1,8 +1,8 @@
 var a15264 =
 [
-    [ "HandleScript", "d7/dbe/a15264.html#ac58aef1b295e32c8a44852278edc18f8", null ],
-    [ "Load", "d7/dbe/a15264.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
-    [ "PrepareSpellScript", "d7/dbe/a15264.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
-    [ "Register", "d7/dbe/a15264.html#a95f4abd67d6baf75980ff28a7518503d", null ],
-    [ "Validate", "d7/dbe/a15264.html#a98271e7adb17b11e39241154a83b0d0d", null ]
+    [ "npc_thrall_old_hillsbradAI", "d2/d78/a15268.html", "d2/d78/a15268" ],
+    [ "npc_thrall_old_hillsbrad", "d7/dbe/a15264.html#a3e6fa750b095af3beac806a619e18328", null ],
+    [ "GetAI", "d7/dbe/a15264.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
+    [ "OnGossipHello", "d7/dbe/a15264.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
+    [ "OnGossipSelect", "d7/dbe/a15264.html#a17fcb00850503903f430506654e035c0", null ]
 ];

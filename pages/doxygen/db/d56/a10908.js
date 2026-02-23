@@ -1,7 +1,7 @@
 var a10908 =
 [
-    [ "BuybackItem", "db/d56/a10908.html#a05dec559746537669fcf32f52a171b44", null ],
-    [ "Read", "db/d56/a10908.html#aefe27701674c75f8937f72ee418a6692", null ],
-    [ "Slot", "db/d56/a10908.html#ac4faf4646da9a9fe7c1567527ca28a27", null ],
-    [ "VendorGuid", "db/d56/a10908.html#a6be9d8d3f564621780e458c4a785b709", null ]
+    [ "GuildBankActivate", "db/d56/a10908.html#a5b27541a26ada694d9635f6d6873ef20", null ],
+    [ "Read", "db/d56/a10908.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
+    [ "Banker", "db/d56/a10908.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
+    [ "FullUpdate", "db/d56/a10908.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
 ];

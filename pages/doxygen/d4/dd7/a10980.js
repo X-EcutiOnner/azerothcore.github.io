@@ -1,7 +1,7 @@
 var a10980 =
 [
-    [ "Playsound", "d4/dd7/a10980.html#a955f91d0d65c64f154f99b3b9472e273", null ],
-    [ "Playsound", "d4/dd7/a10980.html#aa242d4ca729d67d7fd58dc81985f22f9", null ],
-    [ "Write", "d4/dd7/a10980.html#acb4bdd9a1613a158832115e4c18bfcd9", null ],
-    [ "SoundKitID", "d4/dd7/a10980.html#a922cb6d06285bdf9f3d89ff990c40b0a", null ]
+    [ "GuildBankSetTabText", "d4/dd7/a10980.html#aba353d3f94a88b71f49b9c0dc096be2c", null ],
+    [ "Read", "d4/dd7/a10980.html#a24f580f6addcd08945c05016b3f0e544", null ],
+    [ "Tab", "d4/dd7/a10980.html#ada6707c2105410d78d4335dbf4747141", null ],
+    [ "TabText", "d4/dd7/a10980.html#a9bb8c3f539fdcf389caf57ed818c6164", null ]
 ];

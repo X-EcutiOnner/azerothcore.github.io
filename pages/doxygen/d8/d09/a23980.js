@@ -1,6 +1,7 @@
 var a23980 =
 [
-    [ "HandlePeriodic", "d8/d09/a23980.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
-    [ "PrepareAuraScript", "d8/d09/a23980.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
-    [ "Register", "d8/d09/a23980.html#acf77c76f02671da215c7103b60ed77ac", null ]
+    [ "npc_maghar_captiveAI", "de/d19/a23984.html", "de/d19/a23984" ],
+    [ "npc_maghar_captive", "d8/d09/a23980.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
+    [ "GetAI", "d8/d09/a23980.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
+    [ "OnQuestAccept", "d8/d09/a23980.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
 ];

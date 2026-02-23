@@ -1,6 +1,9 @@
 var a25440 =
 [
-    [ "HandleCast", "dc/da2/a25440.html#ac6f7b9650d0a55834dafb09555692243", null ],
-    [ "PrepareSpellScript", "dc/da2/a25440.html#ab3dc21aa63f0fb9202233603106eef87", null ],
-    [ "Register", "dc/da2/a25440.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
+    [ "spell_gen_translocate", "dc/da2/a25440.html#a56a3df0eba3e1521aa2898194c39e919", null ],
+    [ "HandleScript", "dc/da2/a25440.html#a67684fb76da60fdc13dbece055dae157", null ],
+    [ "PrepareSpellScript", "dc/da2/a25440.html#a6f0986e54ad410c2f42a7935645485ed", null ],
+    [ "Register", "dc/da2/a25440.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
+    [ "Validate", "dc/da2/a25440.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
+    [ "_spellId", "dc/da2/a25440.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
 ];

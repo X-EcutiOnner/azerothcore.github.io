@@ -1,10 +1,6 @@
 var a19492 =
 [
-    [ "npc_power_spark", "dd/d36/a19492.html#a60c76072f95517d06b2b4ad6491bd079", null ],
-    [ "DamageTaken", "dd/d36/a19492.html#afe33d511823666929232bfd0179ee72a", null ],
-    [ "DoAction", "dd/d36/a19492.html#ab99a859ee718d49ce59171e7e7159abc", null ],
-    [ "UpdateAI", "dd/d36/a19492.html#ab36e75c87aa262a57be1594289284730", null ],
-    [ "CheckTimer", "dd/d36/a19492.html#a61dcbf4df1d6cd50ad32cacf6ba38730", null ],
-    [ "MoveTimer", "dd/d36/a19492.html#aca42752e776f22555d3c7e5cfbd8c471", null ],
-    [ "pInstance", "dd/d36/a19492.html#a88541d71f65be94b8b5218d10f7c22bb", null ]
+    [ "boss_kelthuzadAI", "d4/dc8/a19496.html", "d4/dc8/a19496" ],
+    [ "boss_kelthuzad", "dd/d36/a19492.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
+    [ "GetAI", "dd/d36/a19492.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
 ];

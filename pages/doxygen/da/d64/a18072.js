@@ -1,7 +1,8 @@
 var a18072 =
 [
-    [ "HandleSpikes", "da/d64/a18072.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
-    [ "PrepareSpellScript", "da/d64/a18072.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
-    [ "Register", "da/d64/a18072.html#a893345cf191d084a0f97a8464b7d381a", null ],
-    [ "Validate", "da/d64/a18072.html#aa6545760706d8695aefd4064c3c71c6b", null ]
+    [ "Load", "da/d64/a18072.html#a363d0afcf2f79b8219652de5a3a6d466", null ],
+    [ "PrepareSpellScript", "da/d64/a18072.html#a8df1abd311a1c32cd6ed296d75566eac", null ],
+    [ "Register", "da/d64/a18072.html#a61e8f66c7446e0587b5d743f0e6ead92", null ],
+    [ "RelocateDest", "da/d64/a18072.html#abad4acee4c0898fea6bfb57b8155cab2", null ],
+    [ "SelectTransport", "da/d64/a18072.html#a0564852176d80ee6593baa3abb18238a", null ]
 ];

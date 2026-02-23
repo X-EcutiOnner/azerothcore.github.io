@@ -1,7 +1,6 @@
 var a24784 =
 [
-    [ "CalcDamage", "d4/dc8/a24784.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
-    [ "PrepareSpellScript", "d4/dc8/a24784.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
-    [ "Register", "d4/dc8/a24784.html#a857a010e6426e931ca872f66803b99b9", null ],
-    [ "Validate", "d4/dc8/a24784.html#ab64625ce305efb9dc92780c945b4fd62", null ]
+    [ "HandleKnockBack", "d4/dc8/a24784.html#ae50d143953074b83183482770046e131", null ],
+    [ "PrepareSpellScript", "d4/dc8/a24784.html#a73666b297ef8bbfd490fee6075b06b3a", null ],
+    [ "Register", "d4/dc8/a24784.html#a035df6b2e29aa0d2b5558e1cfef96ead", null ]
 ];

@@ -1,7 +1,7 @@
 var a25516 =
 [
-    [ "OnApply", "d9/db1/a25516.html#a455a885611978a390cd4bfa76b05f82b", null ],
-    [ "PrepareAuraScript", "d9/db1/a25516.html#ac8f269db5d77cf38bdfcbcfef75a62ff", null ],
-    [ "Register", "d9/db1/a25516.html#a4b1a28052f11b47646dafbcd60b9dad8", null ],
-    [ "Validate", "d9/db1/a25516.html#af1174bbbaab1d170a0dcd030d2f1e990", null ]
+    [ "HandleProc", "d9/db1/a25516.html#a993331721d98f6d0b4c225a9c32708bd", null ],
+    [ "PrepareAuraScript", "d9/db1/a25516.html#a71029016013dc48cf1e882a1fb520187", null ],
+    [ "Register", "d9/db1/a25516.html#a4cd1dec02407065ffb25b230cf8df1c7", null ],
+    [ "Validate", "d9/db1/a25516.html#a49174c98ea4fa6c4028c7ad771bbe204", null ]
 ];

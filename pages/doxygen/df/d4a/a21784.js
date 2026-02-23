@@ -1,6 +1,7 @@
 var a21784 =
 [
-    [ "HandleEffect", "df/d4a/a21784.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
-    [ "PrepareSpellScript", "df/d4a/a21784.html#aec199e9f9651267fac88bd86be326bb4", null ],
-    [ "Register", "df/d4a/a21784.html#a14bd854db86750704c8377d457dea360", null ]
+    [ "HandleDummy", "df/d4a/a21784.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
+    [ "PrepareSpellScript", "df/d4a/a21784.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
+    [ "Register", "df/d4a/a21784.html#a45f80e0436f93a597deb4653852df6a1", null ],
+    [ "Validate", "df/d4a/a21784.html#ad13fdade1fb7455485bfd68687de53c5", null ]
 ];

@@ -1,6 +1,6 @@
 var a11740 =
 [
-    [ "Command", "d2/d0a/a11740.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
-    [ "Data", "d2/d0a/a11740.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
-    [ "DataSize", "d2/d0a/a11740.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
+    [ "EffectCalcAmountHandler", "d2/d0a/a11740.html#a4fe66bbf0433e80b602683a278e3a709", null ],
+    [ "Call", "d2/d0a/a11740.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
+    [ "pEffectHandlerScript", "d2/d0a/a11740.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
 ];

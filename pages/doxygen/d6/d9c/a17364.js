@@ -1,6 +1,6 @@
 var a17364 =
 [
-    [ "npc_pos_freed_slaveAI", "d6/d9c/a17364.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
-    [ "CanAIAttack", "d6/d9c/a17364.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
-    [ "EnterEvadeMode", "d6/d9c/a17364.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
+    [ "npc_hor_raging_ghoulAI", "d0/dca/a17368.html", "d0/dca/a17368" ],
+    [ "npc_hor_raging_ghoul", "d6/d9c/a17364.html#ad2130edf27295719c46dde14deefe5a4", null ],
+    [ "GetAI", "d6/d9c/a17364.html#ab29cebad1d54d14ecf21bbd215dc2f2d", null ]
 ];

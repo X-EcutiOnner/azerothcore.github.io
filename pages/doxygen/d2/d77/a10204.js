@@ -1,12 +1,10 @@
 var a10204 =
 [
-    [ "delay", "d2/d77/a10204.html#aa05ef99c3e04589501362a07d0dd032a", null ],
-    [ "event_chance", "d2/d77/a10204.html#af54f2d38ca1a11664f516799f3bb80c8", null ],
-    [ "event_id", "d2/d77/a10204.html#a083020691278af836e48f0a0c2feff96", null ],
-    [ "id", "d2/d77/a10204.html#af7248c313ceefedb5b7ff6ed4c2ffd6b", null ],
-    [ "move_type", "d2/d77/a10204.html#afb1a57b423a258e99c6921727a27e2e7", null ],
-    [ "orientation", "d2/d77/a10204.html#a971411811b0e60839538f82cd55dcfb7", null ],
-    [ "x", "d2/d77/a10204.html#a2dfd7f1f946ebef0b67d8f1542198b4b", null ],
-    [ "y", "d2/d77/a10204.html#a574c5ba7eb5e6bd55f6c55bb511c03f7", null ],
-    [ "z", "d2/d77/a10204.html#a013fa650f43e790e652016fbce2e1bd5", null ]
+    [ "DistractMovementGenerator", "d2/d77/a10204.html#a55879290b06f4fc86a1da791c07b7afb", null ],
+    [ "Finalize", "d2/d77/a10204.html#aa4a2b943ecde8750bd764290d65872df", null ],
+    [ "GetMovementGeneratorType", "d2/d77/a10204.html#a0b30745bf1cd7b5a264e970273595592", null ],
+    [ "Initialize", "d2/d77/a10204.html#a71410ddbda2be6b34bb2276a83fea5c9", null ],
+    [ "Reset", "d2/d77/a10204.html#ad544709b2873b63b28d27ab414c280ba", null ],
+    [ "Update", "d2/d77/a10204.html#ad5a15c1507b8ab315b658351077629b3", null ],
+    [ "m_timer", "d2/d77/a10204.html#a8b520d8e97704ac39ce28c2256557b42", null ]
 ];

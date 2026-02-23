@@ -1,13 +1,13 @@
 var a08976 =
 [
-    [ "entry", "de/d35/a08976.html#a9b4a88edefbc1e4b08a8ee03dfd90274", null ],
-    [ "height", "de/d35/a08976.html#a40fcdb1274bc2587e8870b39a64289e1", null ],
-    [ "length", "de/d35/a08976.html#a8e1ac424a973e546aa7c35e387e32a23", null ],
-    [ "map", "de/d35/a08976.html#a9ecb58fde45a318ba0d6306c603aba4b", null ],
-    [ "orientation", "de/d35/a08976.html#a5db58eaf63aceeaeb93bf6f4d5961a97", null ],
-    [ "radius", "de/d35/a08976.html#ae4195d9f29b425394296009c22654380", null ],
-    [ "width", "de/d35/a08976.html#af914195a4e7f2314a6241fb81cc8cfa8", null ],
-    [ "x", "de/d35/a08976.html#a423077ceaf75c367831a6d9f55427a6f", null ],
-    [ "y", "de/d35/a08976.html#a55ab832828addcef1b2f570bda81f2ce", null ],
-    [ "z", "de/d35/a08976.html#ae5d0d4e9ef4006ad6c7195b999ef00c2", null ]
+    [ "MMapTargetData", "de/d35/a08976.html#a33cc430ea3c4b5dd4012a16914dc8aeb", null ],
+    [ "MMapTargetData", "de/d35/a08976.html#a8312ea3187617e78b28aab842a8284cc", null ],
+    [ "MMapTargetData", "de/d35/a08976.html#a4108ff5fbbf7c468ff7d90ac7beea4fa", null ],
+    [ "MMapTargetData", "de/d35/a08976.html#a3547f93af46826a051f1164ac1fc9ccc", null ],
+    [ "operator=", "de/d35/a08976.html#a4053689f5f675cf1a621dfb39211b3cc", null ],
+    [ "operator=", "de/d35/a08976.html#a130fe2b359f583acab99c51eb9d0b1ad", null ],
+    [ "PosChanged", "de/d35/a08976.html#ade55876b7781b47a72dac9fea1f2e420", null ],
+    [ "_endTime", "de/d35/a08976.html#a5506c303d668bbead180fe2a8c2ed48e", null ],
+    [ "_posOwner", "de/d35/a08976.html#aeaf1e739388ab834e8c845fa366bbfd3", null ],
+    [ "_posTarget", "de/d35/a08976.html#a7f089d873690e8ea549f6345b6598fc4", null ]
 ];

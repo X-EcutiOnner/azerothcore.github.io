@@ -1,7 +1,7 @@
 var a18496 =
 [
-    [ "HandleScript", "d9/df8/a18496.html#a0ddd74672b48fd7bf5d3b4d4b6467e4a", null ],
-    [ "PrepareSpellScript", "d9/df8/a18496.html#a598baad08c685bba54ad5306e0d521b4", null ],
-    [ "Register", "d9/df8/a18496.html#a471bac09c68708daefe6a39f283caa4c", null ],
-    [ "Validate", "d9/df8/a18496.html#a162e50b7136687aae7a8df0bb93dd8fe", null ]
+    [ "HandleScript", "d9/df8/a18496.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
+    [ "PrepareSpellScript", "d9/df8/a18496.html#a7e6b56f426be7925255da3ebc239f909", null ],
+    [ "Register", "d9/df8/a18496.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
+    [ "Validate", "d9/df8/a18496.html#a86b4296eab73fc63b38558871f16a889", null ]
 ];

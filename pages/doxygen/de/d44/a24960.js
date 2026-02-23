@@ -1,6 +1,6 @@
 var a24960 =
 [
-    [ "CheckCast", "de/d44/a24960.html#aefa91f15300520de7cffad4f4ca82ccf", null ],
-    [ "PrepareSpellScript", "de/d44/a24960.html#a605e7b8849186c3c2df731cac743a208", null ],
-    [ "Register", "de/d44/a24960.html#a62533bff915db8323b53352f17c4825f", null ]
+    [ "CheckAreaTarget", "de/d44/a24960.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
+    [ "PrepareAuraScript", "de/d44/a24960.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
+    [ "Register", "de/d44/a24960.html#a6647a8e35009cf8559e4957a666f037a", null ]
 ];

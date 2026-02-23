@@ -1,8 +1,7 @@
 var a26620 =
 [
-    [ "HandleDummy", "db/da7/a26620.html#a1afcd9c6ab96c87db8aa4899d0830899", null ],
-    [ "Load", "db/da7/a26620.html#a11d3cd0eccd4895f5cd9d2721bd3fd0c", null ],
-    [ "PrepareSpellScript", "db/da7/a26620.html#a252784bb4b438750db5ef7f905477140", null ],
-    [ "Register", "db/da7/a26620.html#ab93554e82cbed0c78452846c95247584", null ],
-    [ "Validate", "db/da7/a26620.html#a33404726f5e5986b263eb0a0beba9443", null ]
+    [ "HandleScriptEffect", "db/da7/a26620.html#a6c1ac025fa93caa08737387a18003612", null ],
+    [ "PrepareSpellScript", "db/da7/a26620.html#acb5ad05212399b06ed9bb64bb9203069", null ],
+    [ "Register", "db/da7/a26620.html#afbf989d514c308f466ecfd9957d2d177", null ],
+    [ "Validate", "db/da7/a26620.html#a2f48b1903edef1a5bb8beeddc8879aa4", null ]
 ];

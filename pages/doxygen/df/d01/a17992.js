@@ -1,6 +1,6 @@
 var a17992 =
 [
-    [ "boss_lady_deathwhisperAI", "d7/d91/a17996.html", "d7/d91/a17996" ],
-    [ "boss_lady_deathwhisper", "df/d01/a17992.html#a979411cb834611b1239f3bf9058d316d", null ],
-    [ "GetAI", "df/d01/a17992.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
+    [ "npc_zafod_boomboxAI", "d7/d91/a17996.html", "d7/d91/a17996" ],
+    [ "npc_zafod_boombox", "df/d01/a17992.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
+    [ "GetAI", "df/d01/a17992.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
 ];

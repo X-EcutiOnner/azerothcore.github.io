@@ -1,7 +1,6 @@
 var a20124 =
 [
-    [ "npc_storm_beacon_spawnAI", "d3/d05/a20124.html#a031c1941f177a18af58efcf4a1270654", null ],
-    [ "UpdateAI", "d3/d05/a20124.html#a249bf56b905ef0c8b34c737d95518c91", null ],
-    [ "_amount", "d3/d05/a20124.html#a3d2286247853cb04b9cc23cd8c0bfdd6", null ],
-    [ "_checkTimer", "d3/d05/a20124.html#a7fd6d449b6a20ba9463896244c513a67", null ]
+    [ "achievement_assembly_of_iron", "d3/d05/a20124.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
+    [ "OnCheck", "d3/d05/a20124.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
+    [ "_targetEntry", "d3/d05/a20124.html#a20e8938ff30b18737fb96cf0277b5680", null ]
 ];

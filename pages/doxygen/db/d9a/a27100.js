@@ -1,7 +1,6 @@
 var a27100 =
 [
-    [ "HandleRemove", "db/d9a/a27100.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
-    [ "PrepareAuraScript", "db/d9a/a27100.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
-    [ "Register", "db/d9a/a27100.html#a338ee9c0eddd309ce2a791160059bad6", null ],
-    [ "Validate", "db/d9a/a27100.html#ae8272b65a070fc959af003f701567c3c", null ]
+    [ "HandleDummy", "db/d9a/a27100.html#abac8aa528d6d83748cf4cdbdaa8313f6", null ],
+    [ "PrepareSpellScript", "db/d9a/a27100.html#ae80dda98f66c1fbaa37741ffd52a1108", null ],
+    [ "Register", "db/d9a/a27100.html#a90fbc5d1b22cbc59550a430a63c08032", null ]
 ];

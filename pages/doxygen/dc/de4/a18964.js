@@ -1,8 +1,6 @@
 var a18964 =
 [
-    [ "CountTargets", "dc/de4/a18964.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
-    [ "HandleScript", "dc/de4/a18964.html#af058a0c458463bdba4a4eb73aa91c113", null ],
-    [ "PrepareSpellScript", "dc/de4/a18964.html#a83b2fad7cdc189a17129e25a015952ff", null ],
-    [ "Register", "dc/de4/a18964.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
-    [ "Validate", "dc/de4/a18964.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
+    [ "HandleScript", "dc/de4/a18964.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
+    [ "PrepareSpellScript", "dc/de4/a18964.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
+    [ "Register", "dc/de4/a18964.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
 ];

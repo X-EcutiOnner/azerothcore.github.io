@@ -1,8 +1,10 @@
 var a09228 =
 [
-    [ "V8Type", "db/d34/a09228.html#ad1b1f07eef9dda43d6ba20d37087e1df", null ],
-    [ "V9Type", "db/d34/a09228.html#ac514014328ca676e610cef54710d2430", null ],
-    [ "gridIntHeightMultiplier", "db/d34/a09228.html#a6255362ae498172495394e1f0fad44ca", null ],
-    [ "v8", "db/d34/a09228.html#a3201a1f3e7307af860396ca26a78dbf9", null ],
-    [ "v9", "db/d34/a09228.html#ad31af604d44f964e9c502f36b6717c77", null ]
+    [ "Flags", "db/d34/a09228.html#a5292a64de662f608915844d58199542f", null ],
+    [ "Icon", "db/d34/a09228.html#ab7460f125e05509baf9331e424b8bacf", null ],
+    [ "ID", "db/d34/a09228.html#a94b184ecd7c82419fa6d59a59c1d95da", null ],
+    [ "Importance", "db/d34/a09228.html#a623d8bdc2bf5eea161466340ae8e3cd1", null ],
+    [ "Name", "db/d34/a09228.html#a45c6eb50f0d56bbdabd6c3b3469c607c", null ],
+    [ "PositionX", "db/d34/a09228.html#a561763556f1ac77e988c350c37a3a0a1", null ],
+    [ "PositionY", "db/d34/a09228.html#abec7b2b3e649263f0b963f3fedef60fe", null ]
 ];

@@ -1,8 +1,6 @@
 var a21636 =
 [
-    [ "npc_azure_raiderAI", "da/d1a/a21636.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
-    [ "Reset", "da/d1a/a21636.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
-    [ "UpdateAI", "da/d1a/a21636.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
-    [ "uiConcussionBlowTimer", "da/d1a/a21636.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
-    [ "uiMagicReflectionTimer", "da/d1a/a21636.html#acb262ab506ea58201abfe2057525c548", null ]
+    [ "npc_conversing_with_the_depths_triggerAI", "d0/d18/a21640.html", "d0/d18/a21640" ],
+    [ "npc_conversing_with_the_depths_trigger", "da/d1a/a21636.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
+    [ "GetAI", "da/d1a/a21636.html#a61c337bfe1efb3589cf0df91d9082236", null ]
 ];

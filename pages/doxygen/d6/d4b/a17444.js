@@ -1,7 +1,7 @@
 var a17444 =
 [
-    [ "HandleDummy", "d6/d4b/a17444.html#a367f4ebd296aa0fd54ff9ef6185a1c92", null ],
-    [ "PrepareSpellScript", "d6/d4b/a17444.html#ab6e33bf137a54c9cd792aefb0ecd2ef1", null ],
-    [ "Register", "d6/d4b/a17444.html#a371073fb37337719115242fc8758026f", null ],
-    [ "Validate", "d6/d4b/a17444.html#ad5df08da54defc89a7a552c39de089c3", null ]
+    [ "HandlePeriodicTick", "d6/d4b/a17444.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
+    [ "PrepareAuraScript", "d6/d4b/a17444.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
+    [ "Register", "d6/d4b/a17444.html#a4653ccb0d93d056adf3b14056865787c", null ],
+    [ "Validate", "d6/d4b/a17444.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
 ];

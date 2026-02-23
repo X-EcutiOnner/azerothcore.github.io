@@ -1,14 +1,12 @@
 var a22508 =
 [
-    [ "npc_wild_wyrm", "d1/d5b/a22508.html#a7adb3a9f2d17c55995218219c2af13a6", null ],
-    [ "DamageTaken", "d1/d5b/a22508.html#a0ff51f46c203f3b1b8dea063463c5c4d", null ],
-    [ "DoAction", "d1/d5b/a22508.html#afdd165233995f79aa9ec82d7c2c1f258", null ],
-    [ "InitSpellsForPhase", "d1/d5b/a22508.html#adcc805b0880d95c185af4a587474c2d2", null ],
-    [ "MovementInform", "d1/d5b/a22508.html#aeaa4f0327f06ee67a63fd15b914ffac8", null ],
-    [ "PassengerBoarded", "d1/d5b/a22508.html#a362052015873c615448bec978d744c9e", null ],
-    [ "Reset", "d1/d5b/a22508.html#a2e826c49b41a389ddfbeac3d3c7933f5", null ],
-    [ "SpellHit", "d1/d5b/a22508.html#a3d12d555ab7c992ca37e826609b3cd72", null ],
-    [ "UpdateAI", "d1/d5b/a22508.html#adbbf5b93476eef2ef54f51d2523a726e", null ],
-    [ "_phase", "d1/d5b/a22508.html#a7fa0ac4d2feaf62b08c4667c8f0b7474", null ],
-    [ "_playerGuid", "d1/d5b/a22508.html#ade2cc59d0afcf5ebfd7c6fbd694e0809", null ]
+    [ "boss_exarch_maladaar", "d1/d5b/a22508.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
+    [ "JustDied", "d1/d5b/a22508.html#ab1179a19af8948d430559db4074c41ed", null ],
+    [ "JustEngagedWith", "d1/d5b/a22508.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
+    [ "JustSummoned", "d1/d5b/a22508.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
+    [ "KilledUnit", "d1/d5b/a22508.html#adf35cb8b039676500d4040baa08b0d48", null ],
+    [ "MoveInLineOfSight", "d1/d5b/a22508.html#a14baacd30b9186c7492c981313421d5b", null ],
+    [ "Reset", "d1/d5b/a22508.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
+    [ "UpdateAI", "d1/d5b/a22508.html#a7646c4477135d3d3b8580432902babd4", null ],
+    [ "_talked", "d1/d5b/a22508.html#a15c4f122529b9f52823ea407c43433c5", null ]
 ];

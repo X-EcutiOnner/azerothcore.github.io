@@ -1,5 +1,11 @@
 var a14772 =
 [
-    [ "PrepareSpellScript", "d9/d0d/a14772.html#aa5593d0da0fe9cb1cb22cb2ccab18e05", null ],
-    [ "Register", "d9/d0d/a14772.html#a99f7d0be5668d5b005400140fc9865a4", null ]
+    [ "o", "d9/d0d/a14772.html#af0a1551e7a1ced5413b6096ba15db8b2", null ],
+    [ "rot0", "d9/d0d/a14772.html#a1cc2b7787c803a4e126e06ab5b5c0ee6", null ],
+    [ "rot1", "d9/d0d/a14772.html#a71696fa3f95eb20d950b6ba2ada153f4", null ],
+    [ "rot2", "d9/d0d/a14772.html#ac2e4113330ebc9d9db379fb87eb55c03", null ],
+    [ "rot3", "d9/d0d/a14772.html#a3fc28475914b0ed4afe46fd4f4ff66b1", null ],
+    [ "x", "d9/d0d/a14772.html#a6e527854cf0959995d6b0133dedc94c9", null ],
+    [ "y", "d9/d0d/a14772.html#a7536047696bd4883237369976b503131", null ],
+    [ "z", "d9/d0d/a14772.html#a33ba4ca8ce5f406aaa5f571ba7236eb5", null ]
 ];

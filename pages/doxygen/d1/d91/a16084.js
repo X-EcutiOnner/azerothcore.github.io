@@ -1,7 +1,6 @@
 var a16084 =
 [
-    [ "HandleDummy", "d1/d91/a16084.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
-    [ "PrepareSpellScript", "d1/d91/a16084.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
-    [ "Register", "d1/d91/a16084.html#a4359ad73b513a368509a066a039ddf53", null ],
-    [ "_targetCount", "d1/d91/a16084.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
+    [ "npc_twiggy_flatheadAI", "de/d4d/a16088.html", "de/d4d/a16088" ],
+    [ "npc_twiggy_flathead", "d1/d91/a16084.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
+    [ "GetAI", "d1/d91/a16084.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
 ];

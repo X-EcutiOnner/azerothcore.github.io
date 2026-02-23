@@ -1,6 +1,6 @@
 var a23220 =
 [
-    [ "PrepareSpellScript", "d7/d97/a23220.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
-    [ "Register", "d7/d97/a23220.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
-    [ "RemoveSpines", "d7/d97/a23220.html#a076b056328ba6181a6ec907f21258f9d", null ]
+    [ "go_ahune_ice_stone", "d7/d97/a23220.html#ab7b665f01da80751ea97705c5113bde7", null ],
+    [ "GossipSelect", "d7/d97/a23220.html#aadb4db41ed84922c0a2d0463b8616876", null ],
+    [ "_instance", "d7/d97/a23220.html#a43651f471ac777b59fb8ba67b830cd35", null ]
 ];

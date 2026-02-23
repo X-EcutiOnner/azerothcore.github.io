@@ -1,6 +1,5 @@
 var a22908 =
 [
-    [ "FilterTargets", "de/d1c/a22908.html#abd3fafc2120b7069790dd9822cd62adc", null ],
-    [ "PrepareSpellScript", "de/d1c/a22908.html#aebc0441481a2c458fc904175df931a9e", null ],
-    [ "Register", "de/d1c/a22908.html#af1173988538ad44c27ea2ed9d49fe06d", null ]
+    [ "npc_vengeful_spirit", "de/d1c/a22908.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
+    [ "OnCharmed", "de/d1c/a22908.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
 ];

@@ -1,7 +1,6 @@
 var a16904 =
 [
-    [ "HandleEffectPeriodic", "d3/df9/a16904.html#ae8121dcb796f3ee496c24bbd46651f81", null ],
-    [ "PrepareAuraScript", "d3/df9/a16904.html#af84222492b3209c97695895c4c991f4a", null ],
-    [ "Register", "d3/df9/a16904.html#a4d1741913631bb649508ef238e25a6c8", null ],
-    [ "Validate", "d3/df9/a16904.html#ac9b7fd3876620988cc74aa0a5202e599", null ]
+    [ "npc_toc_rogueAI", "d9/d40/a16908.html", "d9/d40/a16908" ],
+    [ "npc_toc_rogue", "d3/df9/a16904.html#a925840be9698e381358235a827c20b8a", null ],
+    [ "GetAI", "d3/df9/a16904.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
 ];

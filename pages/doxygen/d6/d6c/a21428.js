@@ -1,6 +1,6 @@
 var a21428 =
 [
-    [ "boss_emalonAI", "dd/de7/a21432.html", "dd/de7/a21432" ],
-    [ "boss_emalon", "d6/d6c/a21428.html#a2dd481292e02337bebd450f5c9821886", null ],
-    [ "GetAI", "d6/d6c/a21428.html#a345b0663ba89de5e37b87a436c48e446", null ]
+    [ "npc_azure_saboteurAI", "dd/de7/a21432.html", "dd/de7/a21432" ],
+    [ "npc_azure_saboteur", "d6/d6c/a21428.html#ae60362727a7a246b7c6c923ed96c7be7", null ],
+    [ "GetAI", "d6/d6c/a21428.html#a69b552fb6f725d00ac4b0303d36a7138", null ]
 ];

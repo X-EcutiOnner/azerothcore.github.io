@@ -1,7 +1,5 @@
 var a27976 =
 [
-    [ "npc_flameshocker", "d5/d1d/a27976.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
-    [ "JustDied", "d5/d1d/a27976.html#aba94a5bcec75c649049d5816a53ace58", null ],
-    [ "Reset", "d5/d1d/a27976.html#a13cb88e2b33df2d910fb73053684b420", null ],
-    [ "UpdateAI", "d5/d1d/a27976.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
+    [ "AreaTrigger_at_sentry_point", "d5/d1d/a27976.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
+    [ "OnTrigger", "d5/d1d/a27976.html#ab59fb74f4f988c208359855d2e4d9918", null ]
 ];

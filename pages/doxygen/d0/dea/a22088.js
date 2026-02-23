@@ -1,7 +1,5 @@
 var a22088 =
 [
-    [ "OnRemove", "d0/dea/a22088.html#a335bc64860227122e0536f61144e2003", null ],
-    [ "PrepareAuraScript", "d0/dea/a22088.html#ae38bdeb74493f73bed1246c011bb2076", null ],
-    [ "Register", "d0/dea/a22088.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
-    [ "Validate", "d0/dea/a22088.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
+    [ "go_pressure_valve", "d0/dea/a22088.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
+    [ "OnGossipHello", "d0/dea/a22088.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
 ];

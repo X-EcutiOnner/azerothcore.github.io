@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: HolidayDateCalculatorTest Class Reference</title>
+<title>AzerothCore: Member List</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d7/d58/a28473.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('dc/d90/a28476.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,177 +104,42 @@ $(document).ready(function(){initNavTree('d7/d58/a28473.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="summary">
-<a href="#pro-methods">Protected Member Functions</a> &#124;
-<a href="../../df/d11/a28470.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">HolidayDateCalculatorTest Class Reference</div></div>
+  <div class="headertitle"><div class="title">npc_sayge Member List</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="dynheader">
-Inheritance diagram for HolidayDateCalculatorTest:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d7/d58/a28473.png" alt=""/>
- </div></div>
-<table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
-Protected Member Functions</h2></td></tr>
-<tr class="memitem:a98d1b0446f1db9a0e25ad93b40d7d7a0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d58/a28473.html#a98d1b0446f1db9a0e25ad93b40d7d7a0">ExpectDate</a> (const std::tm &amp;date, int year, int month, int day)</td></tr>
-<tr class="separator:a98d1b0446f1db9a0e25ad93b40d7d7a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af1ee91196bfb749605bf98f4441a03a4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d58/a28473.html#af1ee91196bfb749605bf98f4441a03a4">IsValidDate</a> (int year, int month, int day)</td></tr>
-<tr class="separator:af1ee91196bfb749605bf98f4441a03a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af80c133dce034eed150593681fba594d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d58/a28473.html#af80c133dce034eed150593681fba594d">IsLeapYear</a> (int year)</td></tr>
-<tr class="separator:af80c133dce034eed150593681fba594d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a98d1b0446f1db9a0e25ad93b40d7d7a0" name="a98d1b0446f1db9a0e25ad93b40d7d7a0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a98d1b0446f1db9a0e25ad93b40d7d7a0">&#9670;&#160;</a></span>ExpectDate()</h2>
 
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void HolidayDateCalculatorTest::ExpectDate </td>
-          <td>(</td>
-          <td class="paramtype">const std::tm &amp;&#160;</td>
-          <td class="paramname"><em>date</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>year</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>month</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>day</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   25</span>    {</div>
-<div class="line"><span class="lineno">   26</span>        EXPECT_EQ(date.tm_year + 1900, year);</div>
-<div class="line"><span class="lineno">   27</span>        EXPECT_EQ(date.tm_mon + 1, month);</div>
-<div class="line"><span class="lineno">   28</span>        EXPECT_EQ(date.tm_mday, day);</div>
-<div class="line"><span class="lineno">   29</span>    }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="af80c133dce034eed150593681fba594d" name="af80c133dce034eed150593681fba594d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af80c133dce034eed150593681fba594d">&#9670;&#160;</a></span>IsLeapYear()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool HolidayDateCalculatorTest::IsLeapYear </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>year</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   52</span>    {</div>
-<div class="line"><span class="lineno">   53</span>        <span class="keywordflow">return</span> (year % 4 == 0 &amp;&amp; year % 100 != 0) || (year % 400 == 0);</div>
-<div class="line"><span class="lineno">   54</span>    }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="af1ee91196bfb749605bf98f4441a03a4" name="af1ee91196bfb749605bf98f4441a03a4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af1ee91196bfb749605bf98f4441a03a4">&#9670;&#160;</a></span>IsValidDate()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool HolidayDateCalculatorTest::IsValidDate </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>year</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>month</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>day</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   33</span>    {</div>
-<div class="line"><span class="lineno">   34</span>        <span class="keywordflow">if</span> (month &lt; 1 || month &gt; 12) <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   35</span>        <span class="keywordflow">if</span> (day &lt; 1 || day &gt; 31) <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   36</span> </div>
-<div class="line"><span class="lineno">   37</span>        <span class="comment">// Check days in month</span></div>
-<div class="line"><span class="lineno">   38</span>        <span class="keywordtype">int</span> daysInMonth[] = {0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};</div>
-<div class="line"><span class="lineno">   39</span> </div>
-<div class="line"><span class="lineno">   40</span>        <span class="comment">// Leap year check for February</span></div>
-<div class="line"><span class="lineno">   41</span>        <span class="keywordflow">if</span> (month == 2)</div>
-<div class="line"><span class="lineno">   42</span>        {</div>
-<div class="line"><span class="lineno">   43</span>            <span class="keywordtype">bool</span> isLeap = (year % 4 == 0 &amp;&amp; year % 100 != 0) || (year % 400 == 0);</div>
-<div class="line"><span class="lineno">   44</span>            <span class="keywordflow">if</span> (isLeap) daysInMonth[2] = 29;</div>
-<div class="line"><span class="lineno">   45</span>        }</div>
-<div class="line"><span class="lineno">   46</span> </div>
-<div class="line"><span class="lineno">   47</span>        <span class="keywordflow">return</span> day &lt;= daysInMonth[month];</div>
-<div class="line"><span class="lineno">   48</span>    }</div>
-</div><!-- fragment -->
-</div>
-</div>
-</div><!-- contents -->
+<p>This is the complete list of members for <a class="el" href="../../dc/d90/a28476.html">npc_sayge</a>, including all inherited members.</p>
+<table class="directory">
+  <tr class="even"><td class="entry"><a class="el" href="../../d2/d86/a10648.html#a90b63e382cac17922ae57fe22b84718c">_name</a></td><td class="entry"><a class="el" href="../../d2/d86/a10648.html">ScriptObject</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d2/d86/a10648.html#ab9ecac7620b4319c634d7e5f30c30f49">_totalAvailableHooks</a></td><td class="entry"><a class="el" href="../../d2/d86/a10648.html">ScriptObject</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d2/d86/a10648.html#a585e75e34aed7aa32205daad85f8fe08">checkValidity</a>()</td><td class="entry"><a class="el" href="../../d2/d86/a10648.html">ScriptObject</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d14/a10500.html#afa0053e299f9125cc288ea38652edecb">CreatureScript</a>(const char *name)</td><td class="entry"><a class="el" href="../../d7/d14/a10500.html">CreatureScript</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d7/d14/a10500.html#a24ba3529655943afdf6598450d14e6c2">GetAI</a>(Creature *) const</td><td class="entry"><a class="el" href="../../d7/d14/a10500.html">CreatureScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d14/a10500.html#a41562245c4a44843363d6b0ce32ce48d">GetDialogStatus</a>(Player *, Creature *)</td><td class="entry"><a class="el" href="../../d7/d14/a10500.html">CreatureScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d2/d86/a10648.html#a79588d839860d2f5caab60c5f1368f10">GetName</a>() const</td><td class="entry"><a class="el" href="../../d2/d86/a10648.html">ScriptObject</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d2/d86/a10648.html#a69ee35ec7d54226264efef558022c1c0">GetTotalAvailableHooks</a>()</td><td class="entry"><a class="el" href="../../d2/d86/a10648.html">ScriptObject</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d2/d86/a10648.html#a2f66339b1cdf1fde795c61cd24c8b0a2">isAfterLoadScript</a>() const</td><td class="entry"><a class="el" href="../../d2/d86/a10648.html">ScriptObject</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d14/a10500.html#af19c64d23391f8b835f79bc6cf315caa">IsDatabaseBound</a>() const override</td><td class="entry"><a class="el" href="../../d7/d14/a10500.html">CreatureScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d90/a28476.html#a5b75c459665ece26cee5dbffcc0fc8ff">npc_sayge</a>()</td><td class="entry"><a class="el" href="../../dc/d90/a28476.html">npc_sayge</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d14/a10500.html#a316efb5c026588eb4bce8a0ce6b5cc0f">OnFfaPvpStateUpdate</a>(Creature *, bool)</td><td class="entry"><a class="el" href="../../d7/d14/a10500.html">CreatureScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d90/a28476.html#ad069e6cc7fe5271c3474c8bcf537cf4c">OnGossipHello</a>(Player *player, Creature *creature) override</td><td class="entry"><a class="el" href="../../dc/d90/a28476.html">npc_sayge</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d90/a28476.html#aa049b4514fc2d18508d8d4f9b6616c99">OnGossipSelect</a>(Player *player, Creature *creature, uint32 sender, uint32 action) override</td><td class="entry"><a class="el" href="../../dc/d90/a28476.html">npc_sayge</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d7/d14/a10500.html#ad99f4a96106b9dc5cf9c29304d781d6a">OnGossipSelectCode</a>(Player *, Creature *, uint32, uint32, const char *)</td><td class="entry"><a class="el" href="../../d7/d14/a10500.html">CreatureScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d14/a10500.html#a6b106a237886f49e523ae7b07e9c5979">OnQuestAccept</a>(Player *, Creature *, Quest const *)</td><td class="entry"><a class="el" href="../../d7/d14/a10500.html">CreatureScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d7/d14/a10500.html#a4d39c9b2edbbbc2ae08b5cdcc95b4d7b">OnQuestComplete</a>(Player *, Creature *, Quest const *)</td><td class="entry"><a class="el" href="../../d7/d14/a10500.html">CreatureScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d14/a10500.html#aba2be0f342cb9811bd0ebee954d7d36e">OnQuestReward</a>(Player *, Creature *, Quest const *, uint32)</td><td class="entry"><a class="el" href="../../d7/d14/a10500.html">CreatureScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d7/d14/a10500.html#a1e054fb61dd560aa7718d59127ad4b51">OnQuestSelect</a>(Player *, Creature *, Quest const *)</td><td class="entry"><a class="el" href="../../d7/d14/a10500.html">CreatureScript</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/daa/a10652.html#abf328325e08aa0d6adf36e6f70b02328">OnUpdate</a>(Creature *, uint32)</td><td class="entry"><a class="el" href="../../df/daa/a10652.html">UpdatableScript&lt; Creature &gt;</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d2/d86/a10648.html#ae4ca97cf587379c94354e4889ff8c0c2">ScriptObject</a>(const char *name, uint16 totalAvailableHooks=0)</td><td class="entry"><a class="el" href="../../d2/d86/a10648.html">ScriptObject</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d90/a28476.html#aed1988335672423d024546654aa95298">SendAction</a>(Player *player, Creature *creature, uint32 action)</td><td class="entry"><a class="el" href="../../dc/d90/a28476.html">npc_sayge</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/daa/a10652.html#a2d6cf85d1eb98438b5022804296eff11">UpdatableScript</a>()=default</td><td class="entry"><a class="el" href="../../df/daa/a10652.html">UpdatableScript&lt; Creature &gt;</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d2/d86/a10648.html#a80c704c939f54eee6655d68509598c42">~ScriptObject</a>()=default</td><td class="entry"><a class="el" href="../../d2/d86/a10648.html">ScriptObject</a></td><td class="entry"><span class="mlabel">protected</span><span class="mlabel">virtual</span></td></tr>
+</table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d7/d58/a28473.html">HolidayDateCalculatorTest</a></li>
-    <li class="footer">Generated on Mon Feb 16 2026 21:01:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:15:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

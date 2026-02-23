@@ -1,7 +1,7 @@
 var a15892 =
 [
-    [ "npc_steward_of_time", "d4/de5/a15892.html#ad49973464c96f44506033b73a85f6360", null ],
-    [ "OnGossipHello", "d4/de5/a15892.html#a3b61038393c3addbbfa6643438164db3", null ],
-    [ "OnGossipSelect", "d4/de5/a15892.html#af4fe13e266a98129b92e5a25188d947c", null ],
-    [ "OnQuestAccept", "d4/de5/a15892.html#a53d552282da49e8246089b2799fff9ca", null ]
+    [ "HandleDummy", "d4/de5/a15892.html#a38dafff805471b19ca3cca4ff5273a87", null ],
+    [ "PrepareSpellScript", "d4/de5/a15892.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
+    [ "Register", "d4/de5/a15892.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
+    [ "Validate", "d4/de5/a15892.html#abb7946f53e6271ae69d34caacef61f47", null ]
 ];

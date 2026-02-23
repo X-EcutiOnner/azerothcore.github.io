@@ -1,14 +1,10 @@
 var a28316 =
 [
-    [ "IsFlyable", "d5/d0e/a28316.html#a2a59297a617c9d3b582ede2a028bd07e", null ],
-    [ "IsSanctuary", "d5/d0e/a28316.html#ad239b4e381b6af858a181e9c361d6cbb", null ],
-    [ "area_level", "d5/d0e/a28316.html#a23434848cf8b2eab4de1b6530b8d5f8d", null ],
-    [ "area_name", "d5/d0e/a28316.html#a87653e6b7f7368a59af7adaf77a49e10", null ],
-    [ "exploreFlag", "d5/d0e/a28316.html#a78cf3009cd0fe49dc7870c7f65c79251", null ],
-    [ "flags", "d5/d0e/a28316.html#a5854e3f565d827dbad3d9a36f99e9a25", null ],
-    [ "ID", "d5/d0e/a28316.html#ad02bb9fce21f464e38223581074a9e21", null ],
-    [ "LiquidTypeOverride", "d5/d0e/a28316.html#abe743a4b542c4356aab9d41f3fae7457", null ],
-    [ "mapid", "d5/d0e/a28316.html#a048ac249318efd9aa35bb705bfb92dc8", null ],
-    [ "team", "d5/d0e/a28316.html#ae18e0efef83e663452715f6be15ecaef", null ],
-    [ "zone", "d5/d0e/a28316.html#a3b4f9e187629db5ced9a06c601fc7f78", null ]
+    [ "npc_prof_blacksmith", "d5/d0e/a28316.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
+    [ "HasWeaponSub", "d5/d0e/a28316.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
+    [ "OnGossipHello", "d5/d0e/a28316.html#a9a432c1ec33578949110c877fc6a686d", null ],
+    [ "OnGossipSelect", "d5/d0e/a28316.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
+    [ "SendActionMenu", "d5/d0e/a28316.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
+    [ "SendConfirmLearn", "d5/d0e/a28316.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
+    [ "SendConfirmUnlearn", "d5/d0e/a28316.html#a851dc241d944bc888a00df85bff17e3a", null ]
 ];

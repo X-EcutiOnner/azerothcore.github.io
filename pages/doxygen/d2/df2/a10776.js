@@ -1,6 +1,6 @@
 var a10776 =
 [
-    [ "GuildPromoteMember", "d2/df2/a10776.html#af623a381aa80e827c2c29987501626ae", null ],
-    [ "Read", "d2/df2/a10776.html#a3350c1a8c81aa1368a254288849b462b", null ],
-    [ "Promotee", "d2/df2/a10776.html#af8addf6e9bc45364f595582e8f285cde", null ]
+    [ "QueryGuildInfo", "d2/df2/a10776.html#a34b129b3c9fef61aa4211a9bc2783aef", null ],
+    [ "Read", "d2/df2/a10776.html#a0396a58ca114706f7de91f51c5ab949d", null ],
+    [ "GuildId", "d2/df2/a10776.html#ad221eecdb16233251306fff3d9801f38", null ]
 ];

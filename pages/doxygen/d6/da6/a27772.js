@@ -1,7 +1,7 @@
 var a27772 =
 [
-    [ "npc_riggle_bassbaitAI", "d6/da6/a27772.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "d6/da6/a27772.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "d6/da6/a27772.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "d6/da6/a27772.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "OnProc", "d6/da6/a27772.html#a7ab183d734c543be2866c57f1e5cc508", null ],
+    [ "PrepareAuraScript", "d6/da6/a27772.html#a31118cda9f29318f4620caf38c09522a", null ],
+    [ "Register", "d6/da6/a27772.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
+    [ "Validate", "d6/da6/a27772.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
 ];

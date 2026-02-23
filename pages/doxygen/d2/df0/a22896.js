@@ -1,9 +1,6 @@
 var a22896 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "d2/df0/a22896.html#ada5f19c96bfe623b110389ede032ef53", null ],
-    [ "GetData", "d2/df0/a22896.html#ad876ebd581c470f5a3075129076bd1fb", null ],
-    [ "Initialize", "d2/df0/a22896.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
-    [ "OnCreatureCreate", "d2/df0/a22896.html#a118b4a7a7c872327ec2868c5b0417636", null ],
-    [ "OnUnitDeath", "d2/df0/a22896.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
-    [ "_ritualistsAliveCount", "d2/df0/a22896.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
+    [ "npc_supremus_punch_invisible_stalker", "d2/df0/a22896.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "d2/df0/a22896.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
+    [ "UpdateAI", "d2/df0/a22896.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

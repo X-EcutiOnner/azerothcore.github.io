@@ -1,7 +1,9 @@
 var a20176 =
 [
-    [ "HandleScript", "d9/dd5/a20176.html#a9580f04e1543262026818f0944bb96c3", null ],
-    [ "PrepareSpellScript", "d9/dd5/a20176.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
-    [ "Register", "d9/dd5/a20176.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
-    [ "Validate", "d9/dd5/a20176.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
+    [ "npc_hodirs_fury", "d9/dd5/a20176.html#abda902842d76a0a5a17196a11654f5ab", null ],
+    [ "MovementInform", "d9/dd5/a20176.html#a4d82007c5b70edad74b461948629b9fb", null ],
+    [ "Reset", "d9/dd5/a20176.html#a8f50cc6b79ba7feab8ac2f83f82a598f", null ],
+    [ "UpdateAI", "d9/dd5/a20176.html#a58a8b1664bb00b930cce86e856facb8b", null ],
+    [ "_switchTargetTimer", "d9/dd5/a20176.html#a9736332e6f3d163f04aa12cbd6829670", null ],
+    [ "_timeToHit", "d9/dd5/a20176.html#a611d171dc27bd78d298040eabfc00e5f", null ]
 ];

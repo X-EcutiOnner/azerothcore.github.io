@@ -1,6 +1,6 @@
 var a02525 =
 [
-    [ "CharacterDatabase", "db/de8/a02525.html#a7e7534bc66d79434bd280b77cb124eec", null ],
-    [ "LoginDatabase", "db/de8/a02525.html#a2cf25eafe7f2f73b61ccde11d55daf0c", null ],
-    [ "WorldDatabase", "db/de8/a02525.html#afa9a6509f9913c9c7dd3081523badd7c", null ]
+    [ "instance_maraudon", "d8/dc7/a15332.html", "d8/dc7/a15332" ],
+    [ "instance_maraudon::instance_maraudon_InstanceMapScript", "d8/d1f/a15336.html", "d8/d1f/a15336" ],
+    [ "AddSC_instance_maraudon", "db/de8/a02525.html#a6ab7baf162a5cf99b16fb0a26d7973cb", null ]
 ];

@@ -1,7 +1,6 @@
 var a17632 =
 [
-    [ "PeriodicTick", "d7/d31/a17632.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
-    [ "PrepareAuraScript", "d7/d31/a17632.html#ac1abcbe62887678adad0194fdf27825a", null ],
-    [ "Register", "d7/d31/a17632.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
-    [ "Validate", "d7/d31/a17632.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
+    [ "boss_moorabiAI", "da/dbf/a17636.html", "da/dbf/a17636" ],
+    [ "boss_moorabi", "d7/d31/a17632.html#a94e14b2a9b06143985f785e781d1c302", null ],
+    [ "GetAI", "d7/d31/a17632.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
 ];

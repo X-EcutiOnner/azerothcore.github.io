@@ -1,7 +1,4 @@
 var a13752 =
 [
-    [ "HandleAfterCast", "dd/d37/a13752.html#a251ddadd9d26039da542c402e4ee254f", null ],
-    [ "PrepareSpellScript", "dd/d37/a13752.html#a91114aeb4f917ec5138a0c7b20688174", null ],
-    [ "Register", "dd/d37/a13752.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
-    [ "Validate", "dd/d37/a13752.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
+    [ "operator()", "dd/d37/a13752.html#ae5ec191753b6dac7916f1012930ea901", null ]
 ];

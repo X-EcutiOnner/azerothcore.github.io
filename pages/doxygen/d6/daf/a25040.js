@@ -1,7 +1,6 @@
 var a25040 =
 [
-    [ "CheckRequirement", "d6/daf/a25040.html#a6be5f335a15226db87a04548490f488d", null ],
-    [ "PrepareSpellScript", "d6/daf/a25040.html#a25463eda0ce51a124e8715baf305c8f6", null ],
-    [ "Register", "d6/daf/a25040.html#a8db5a5597d8f6fe4064799766fb61502", null ],
-    [ "_level", "d6/daf/a25040.html#a3d6867e8eae9afde2b03acc2e6ebe961", null ]
+    [ "OnPeriodic", "d6/daf/a25040.html#a5fdf44f34765d0386d5c5490620c944a", null ],
+    [ "PrepareAuraScript", "d6/daf/a25040.html#a3c3044795e183eef2c801781100b11c7", null ],
+    [ "Register", "d6/daf/a25040.html#a1221c3287c3fd7add356e84430508684", null ]
 ];

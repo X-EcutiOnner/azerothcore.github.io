@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: LinkValidator&lt; LinkTags::achievement &gt; Struct Reference</title>
+<title>AzerothCore: Acore::Impl::ChatCommands::ArgInfo&lt; std::wstring, void &gt; Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,21 +107,21 @@ $(document).ready(function(){initNavTree('d3/dd0/a07804.html','../../'); initRes
   <div class="summary">
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="../../d8/dea/a07801.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">LinkValidator&lt; LinkTags::achievement &gt; Struct Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::Impl::ChatCommands::ArgInfo&lt; std::wstring, void &gt; Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><code>#include &quot;<a class="el" href="../../">ChatCommandArgs.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:ab9c8e4926f593058bf247f33b6089bc3"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd0/a07804.html#ab9c8e4926f593058bf247f33b6089bc3">IsTextValid</a> (<a class="el" href="../../d7/d14/a07836.html">AchievementLinkData</a> const &amp;data, std::string_view text)</td></tr>
-<tr class="separator:ab9c8e4926f593058bf247f33b6089bc3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab291dc8bdb852a8386c2a3d1bd18cfad"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd0/a07804.html#ab291dc8bdb852a8386c2a3d1bd18cfad">IsColorValid</a> (<a class="el" href="../../d7/d14/a07836.html">AchievementLinkData</a> const &amp;, <a class="el" href="../../de/d51/a07896.html">HyperlinkColor</a> c)</td></tr>
-<tr class="separator:ab291dc8bdb852a8386c2a3d1bd18cfad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f2b6448f80a4fac69d0157c9f556dc4"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d0/d79/a07872.html">ChatCommandResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd0/a07804.html#a8f2b6448f80a4fac69d0157c9f556dc4">TryConsume</a> (std::wstring &amp;val, <a class="el" href="../../db/d25/a07716.html">ChatHandler</a> const *handler, std::string_view args)</td></tr>
+<tr class="separator:a8f2b6448f80a4fac69d0157c9f556dc4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="ab291dc8bdb852a8386c2a3d1bd18cfad" name="ab291dc8bdb852a8386c2a3d1bd18cfad"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab291dc8bdb852a8386c2a3d1bd18cfad">&#9670;&#160;</a></span>IsColorValid()</h2>
+<a id="a8f2b6448f80a4fac69d0157c9f556dc4" name="a8f2b6448f80a4fac69d0157c9f556dc4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8f2b6448f80a4fac69d0157c9f556dc4">&#9670;&#160;</a></span>TryConsume()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -130,58 +130,22 @@ Static Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static bool <a class="el" href="../../d5/dc7/a07800.html">LinkValidator</a>&lt; <a class="el" href="../../d2/deb/a07864.html">LinkTags::achievement</a> &gt;::IsColorValid </td>
+          <td class="memname">static <a class="el" href="../../d0/d79/a07872.html">ChatCommandResult</a> <a class="el" href="../../d5/d7b/a07788.html">Acore::Impl::ChatCommands::ArgInfo</a>&lt; std::wstring, void &gt;::TryConsume </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d7/d14/a07836.html">AchievementLinkData</a> const &amp;&#160;</td>
-          <td class="paramname">, </td>
+          <td class="paramtype">std::wstring &amp;&#160;</td>
+          <td class="paramname"><em>val</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../de/d51/a07896.html">HyperlinkColor</a>&#160;</td>
-          <td class="paramname"><em>c</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  127</span>    {</div>
-<div class="line"><span class="lineno">  128</span>        <span class="keywordflow">return</span> c == <a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#aff4462a11392766622feb9f20463ffb6a5c47688297f4ea30606c8f24b1580ee5">CHAT_LINK_COLOR_ACHIEVEMENT</a>;</div>
-<div class="line"><span class="lineno">  129</span>    }</div>
-<div class="ttc" id="aa04121_html_aff4462a11392766622feb9f20463ffb6a5c47688297f4ea30606c8f24b1580ee5"><div class="ttname"><a href="../../d0/dd3/a04121.html#aff4462a11392766622feb9f20463ffb6a5c47688297f4ea30606c8f24b1580ee5">CHAT_LINK_COLOR_ACHIEVEMENT</a></div><div class="ttdeci">@ CHAT_LINK_COLOR_ACHIEVEMENT</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3454</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l03454">CHAT_LINK_COLOR_ACHIEVEMENT</a>.</p>
-
-</div>
-</div>
-<a id="ab9c8e4926f593058bf247f33b6089bc3" name="ab9c8e4926f593058bf247f33b6089bc3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab9c8e4926f593058bf247f33b6089bc3">&#9670;&#160;</a></span>IsTextValid()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static bool <a class="el" href="../../d5/dc7/a07800.html">LinkValidator</a>&lt; <a class="el" href="../../d2/deb/a07864.html">LinkTags::achievement</a> &gt;::IsTextValid </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d7/d14/a07836.html">AchievementLinkData</a> const &amp;&#160;</td>
-          <td class="paramname"><em>data</em>, </td>
+          <td class="paramtype"><a class="el" href="../../db/d25/a07716.html">ChatHandler</a> const *&#160;</td>
+          <td class="paramname"><em>handler</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>text</em>&#160;</td>
+          <td class="paramname"><em>args</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -195,20 +159,26 @@ Static Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  115</span>    {</div>
-<div class="line"><span class="lineno">  116</span>        <span class="keywordflow">if</span> (text.empty())</div>
-<div class="line"><span class="lineno">  117</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  118</span> </div>
-<div class="line"><span class="lineno">  119</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d0/d15/a04574.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a>; ++i)</div>
-<div class="line"><span class="lineno">  120</span>            <span class="keywordflow">if</span> (text == data.Achievement-&gt;name[i])</div>
-<div class="line"><span class="lineno">  121</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  122</span> </div>
-<div class="line"><span class="lineno">  123</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  124</span>    }</div>
-<div class="ttc" id="aa04331_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../de/d68/a04331.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-<div class="ttc" id="aa04574_html_a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8"><div class="ttname"><a href="../../d0/d15/a04574.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a></div><div class="ttdeci">@ TOTAL_LOCALES</div><div class="ttdef"><b>Definition:</b> Common.h:128</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  109</span>        {</div>
+<div class="line"><span class="lineno">  110</span>            std::string_view utf8view;</div>
+<div class="line"><span class="lineno">  111</span>            <a class="code hl_struct" href="../../d0/d79/a07872.html">ChatCommandResult</a> next = ArgInfo&lt;std::string_view&gt;::TryConsume(utf8view, handler, args);</div>
+<div class="line"><span class="lineno">  112</span> </div>
+<div class="line"><span class="lineno">  113</span>            <span class="keywordflow">if</span> (next)</div>
+<div class="line"><span class="lineno">  114</span>            {</div>
+<div class="line"><span class="lineno">  115</span>                <span class="keywordflow">if</span> (<a class="code hl_function" href="../../de/d5f/a04763.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a>(utf8view, val))</div>
+<div class="line"><span class="lineno">  116</span>                    <span class="keywordflow">return</span> next;</div>
+<div class="line"><span class="lineno">  117</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  118</span>                    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d4/d34/a04979.html#a1106e69269315156c6019b7812547ce9">GetAcoreString</a>(handler, <a class="code hl_enumvalue" href="../../d6/d7d/a00161.html#af9ee42b1cf006ecb2d2e74fe71c0761aafa07aec7bd59db026c454dcf92ef600d">LANG_CMDPARSER_INVALID_UTF8</a>);</div>
+<div class="line"><span class="lineno">  119</span>            }</div>
+<div class="line"><span class="lineno">  120</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  121</span>                <span class="keywordflow">return</span> std::nullopt;</div>
+<div class="line"><span class="lineno">  122</span>        }</div>
+<div class="ttc" id="aa00161_html_af9ee42b1cf006ecb2d2e74fe71c0761aafa07aec7bd59db026c454dcf92ef600d"><div class="ttname"><a href="../../d6/d7d/a00161.html#af9ee42b1cf006ecb2d2e74fe71c0761aafa07aec7bd59db026c454dcf92ef600d">LANG_CMDPARSER_INVALID_UTF8</a></div><div class="ttdeci">@ LANG_CMDPARSER_INVALID_UTF8</div><div class="ttdef"><b>Definition:</b> Language.h:1005</div></div>
+<div class="ttc" id="aa04763_html_a096388bd1034eb78e43e5d60cc4f657a"><div class="ttname"><a href="../../de/d5f/a04763.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a></div><div class="ttdeci">bool Utf8toWStr(char const *utf8str, std::size_t csize, wchar_t *wstr, std::size_t &amp;wsize)</div><div class="ttdef"><b>Definition:</b> Util.cpp:281</div></div>
+<div class="ttc" id="aa04979_html_a1106e69269315156c6019b7812547ce9"><div class="ttname"><a href="../../d4/d34/a04979.html#a1106e69269315156c6019b7812547ce9">Acore::Impl::ChatCommands::GetAcoreString</a></div><div class="ttdeci">AC_GAME_API std::string GetAcoreString(ChatHandler const *handler, AcoreStrings which)</div><div class="ttdef"><b>Definition:</b> ChatCommandHelpers.cpp:27</div></div>
+<div class="ttc" id="aa07872_html"><div class="ttname"><a href="../../d0/d79/a07872.html">Acore::Impl::ChatCommands::ChatCommandResult</a></div><div class="ttdef"><b>Definition:</b> ChatCommandHelpers.h:100</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00041">Acore::Hyperlinks::AchievementLinkData::Achievement</a>, <a class="el" href="../../#l00045">AchievementEntry::name</a>, and <a class="el" href="../../#l00128">TOTAL_LOCALES</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00027">Acore::Impl::ChatCommands::GetAcoreString()</a>, <a class="el" href="../../#l01005">LANG_CMDPARSER_INVALID_UTF8</a>, and <a class="el" href="../../#l00281">Utf8toWStr()</a>.</p>
 
 </div>
 </div>
@@ -217,8 +187,8 @@ Static Public Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/dd0/a07804.html">LinkValidator&lt; LinkTags::achievement &gt;</a></li>
-    <li class="footer">Generated on Mon Feb 9 2026 21:11:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/d47/a04938.html">Acore</a></li><li class="navelem"><a class="el" href="../../df/d1b/a04950.html">Impl</a></li><li class="navelem"><a class="el" href="../../d4/d34/a04979.html">ChatCommands</a></li><li class="navelem"><a class="el" href="../../d3/dd0/a07804.html">ArgInfo&lt; std::wstring, void &gt;</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:16:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,7 @@
 var a21812 =
 [
-    [ "npc_leryssaAI", "d0/df3/a21816.html", "d0/df3/a21816" ],
-    [ "npc_leryssa", "d4/d8e/a21812.html#a549bed4476f88c313e6b42c0fe1fffb8", null ],
-    [ "GetAI", "d4/d8e/a21812.html#a4725831580b206d91dbd8c21a703893f", null ]
+    [ "OnRemove", "d4/d8e/a21812.html#a335bc64860227122e0536f61144e2003", null ],
+    [ "PrepareAuraScript", "d4/d8e/a21812.html#ae38bdeb74493f73bed1246c011bb2076", null ],
+    [ "Register", "d4/d8e/a21812.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
+    [ "Validate", "d4/d8e/a21812.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
 ];

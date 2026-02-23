@@ -1,6 +1,9 @@
 var a18140 =
 [
-    [ "HandleScript", "d3/dad/a18140.html#aefdd306b81b44a0a5564eab5a0491e09", null ],
-    [ "PrepareSpellScript", "d3/dad/a18140.html#a68c0462bd108b04621f8288328f78b18", null ],
-    [ "Register", "d3/dad/a18140.html#aedaec0afc414800bc481a434592ffb5d", null ]
+    [ "CheckAreaTarget", "d3/dad/a18140.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
+    [ "HandleApply", "d3/dad/a18140.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
+    [ "Load", "d3/dad/a18140.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
+    [ "PrepareAuraScript", "d3/dad/a18140.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
+    [ "Register", "d3/dad/a18140.html#a8f476129e0678149463c4b16232f6cb6", null ],
+    [ "_teamIdInInstance", "d3/dad/a18140.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
 ];

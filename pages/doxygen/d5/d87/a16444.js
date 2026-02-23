@@ -1,6 +1,8 @@
 var a16444 =
 [
-    [ "npc_living_infernoAI", "dc/de6/a16448.html", "dc/de6/a16448" ],
-    [ "npc_living_inferno", "d5/d87/a16444.html#a7df2bb522e67b6f1864604c7b0182078", null ],
-    [ "GetAI", "d5/d87/a16444.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
+    [ "RestoreFight", "d5/d87/a16444.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
+    [ "RestoreFight", "d5/d87/a16444.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
+    [ "Execute", "d5/d87/a16444.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
+    [ "Execute", "d5/d87/a16444.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
+    [ "_owner", "d5/d87/a16444.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
 ];

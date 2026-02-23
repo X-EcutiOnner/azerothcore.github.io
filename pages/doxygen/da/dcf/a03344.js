@@ -1,6 +1,5 @@
 var a03344 =
 [
-    [ "fireworkShowGameobjectIronforge", "da/dcf/a03344.html#a1c510ef56353251fbd84e641155e90f8", null ],
-    [ "fireworkShowIronforge", "da/dcf/a03344.html#aac2063b01976ab49960c5cde832a70dc", null ],
-    [ "fireworkShowScheduleIronforge", "da/dcf/a03344.html#ac473aa81696d6b6374a3062efff6b146", null ]
+    [ "bf_commandscript", "d6/d7c/a12028.html", "d6/d7c/a12028" ],
+    [ "AddSC_bf_commandscript", "da/dcf/a03344.html#a55cfeb06fb5af5d31e3c2627d0db8da8", null ]
 ];

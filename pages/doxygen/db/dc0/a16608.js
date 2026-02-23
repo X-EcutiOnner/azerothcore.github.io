@@ -1,6 +1,6 @@
 var a16608 =
 [
-    [ "npc_swarm_scarabAI", "d7/d47/a16612.html", "d7/d47/a16612" ],
-    [ "npc_swarm_scarab", "db/dc0/a16608.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
-    [ "GetAI", "db/dc0/a16608.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
+    [ "npc_living_infernoAI", "db/dc0/a16608.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
+    [ "IsSummonedBy", "db/dc0/a16608.html#a4b6986a392aee0741ba47651e809c76c", null ],
+    [ "JustDied", "db/dc0/a16608.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
 ];

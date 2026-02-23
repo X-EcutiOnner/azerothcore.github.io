@@ -1,6 +1,10 @@
 var a12724 =
 [
-    [ "boss_magmadarAI", "da/d4a/a12724.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
-    [ "ExecuteEvent", "da/d4a/a12724.html#a7d4c1807cb320fdc331057209a4ce166", null ],
-    [ "JustEngagedWith", "da/d4a/a12724.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
+    [ "npc_corrupted_totem", "da/d4a/a12724.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
+    [ "IsSummonedBy", "da/d4a/a12724.html#ae8314903c9006b7bca94a47115a0d05b", null ],
+    [ "JustDied", "da/d4a/a12724.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
+    [ "Reset", "da/d4a/a12724.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
+    [ "SetAura", "da/d4a/a12724.html#a509688befda49f789f77ee0e4170a74e", null ],
+    [ "UpdateAI", "da/d4a/a12724.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
+    [ "_auraAdded", "da/d4a/a12724.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
 ];

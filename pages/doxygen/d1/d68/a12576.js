@@ -1,9 +1,5 @@
 var a12576 =
 [
-    [ "FilterTargets", "d1/d68/a12576.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "d1/d68/a12576.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "d1/d68/a12576.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "d1/d68/a12576.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "d1/d68/a12576.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "d1/d68/a12576.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "at_trigger_the_beast_movement", "d1/d68/a12576.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
+    [ "OnTrigger", "d1/d68/a12576.html#a333d685d765497a950fde35067d876a1", null ]
 ];

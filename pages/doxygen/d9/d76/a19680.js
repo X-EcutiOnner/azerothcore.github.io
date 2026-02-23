@@ -1,7 +1,7 @@
 var a19680 =
 [
-    [ "CalcDamage", "d9/d76/a19680.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
-    [ "PrepareSpellScript", "d9/d76/a19680.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
-    [ "Register", "d9/d76/a19680.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
-    [ "Validate", "d9/d76/a19680.html#a773c608119a84cc3f02e7b4d786f2741", null ]
+    [ "HandleScript", "d9/d76/a19680.html#a8e54c3526406fcb6963667c05b5f2cce", null ],
+    [ "Load", "d9/d76/a19680.html#a94661c7652572b1671a611b35c8f68a7", null ],
+    [ "PrepareSpellScript", "d9/d76/a19680.html#a269f558a231a4c9af55a54c6c7090d1b", null ],
+    [ "Register", "d9/d76/a19680.html#a09352bd458fe3dbeacea38c5104656ff", null ]
 ];

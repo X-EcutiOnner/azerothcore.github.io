@@ -1,14 +1,12 @@
 var a08020 =
 [
-    [ "LfgQueueStatusData", "da/d1f/a08020.html#af50fc3422feb137a7ccd820e2ac2fe44", null ],
-    [ "dps", "da/d1f/a08020.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a", null ],
-    [ "dungeonId", "da/d1f/a08020.html#a9a6288f9e14e593e147b4f60a1dc8991", null ],
-    [ "healers", "da/d1f/a08020.html#a61b2c2f4391022c7e4ba3972c4467a74", null ],
-    [ "queuedTime", "da/d1f/a08020.html#a398efafa1ef7faa6600d6fdb28306f49", null ],
-    [ "tanks", "da/d1f/a08020.html#a74f54d22ca9e2b6711bf363737b9ff06", null ],
-    [ "waitTime", "da/d1f/a08020.html#aa794f234bf93e66916f7eadb986f17ef", null ],
-    [ "waitTimeAvg", "da/d1f/a08020.html#af44b91dd7ddfb702662663f989f026fc", null ],
-    [ "waitTimeDps", "da/d1f/a08020.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf", null ],
-    [ "waitTimeHealer", "da/d1f/a08020.html#abf57fbbaac89b08bacf0731e3a8b65e3", null ],
-    [ "waitTimeTank", "da/d1f/a08020.html#a73cdcd16181375a7d428e6b50cb1e1e6", null ]
+    [ "HyperlinkInfo", "da/d1f/a08020.html#aa61aad1a1e2cf1a699ff67ee25cc474b", null ],
+    [ "HyperlinkInfo", "da/d1f/a08020.html#ac08518b3afb878fc7979807d764b7872", null ],
+    [ "operator bool", "da/d1f/a08020.html#a834ac95bb310f6653208026e203e065f", null ],
+    [ "color", "da/d1f/a08020.html#a38c0121d4001ad938d9bc53ca08217db", null ],
+    [ "data", "da/d1f/a08020.html#a7d7d839de8eb48a25e2b687b69a092ea", null ],
+    [ "ok", "da/d1f/a08020.html#a54c7a812f79593258002d367110b2403", null ],
+    [ "tag", "da/d1f/a08020.html#a2171d081c4eb0a23d00e637dfa64bcfc", null ],
+    [ "tail", "da/d1f/a08020.html#a065d1a0942abbe5739f44126d5c3ce00", null ],
+    [ "text", "da/d1f/a08020.html#a2b914c9bdc41771b8cb058468bfa23db", null ]
 ];

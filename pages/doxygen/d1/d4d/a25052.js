@@ -1,6 +1,8 @@
 var a25052 =
 [
-    [ "PrepareSpellScript", "d1/d4d/a25052.html#acfa320b33c00883a78c3696bbbeb7eb0", null ],
-    [ "Register", "d1/d4d/a25052.html#a6d251ba1e88d4349dcffa96978389a7f", null ],
-    [ "SelectTarget", "d1/d4d/a25052.html#a0d95f8ad8d05d2c0b100dc10988d00c9", null ]
+    [ "HandleEffectCalcPeriodic", "d1/d4d/a25052.html#a78c46695cab8da2280686ea49d88f036", null ],
+    [ "HandleEffectPeriodic", "d1/d4d/a25052.html#a65b8a9dcd836cb538d5d2bec3d03d4a2", null ],
+    [ "HandleOnEffectRemove", "d1/d4d/a25052.html#af722cf30e478802784178a9346bd1bdd", null ],
+    [ "PrepareAuraScript", "d1/d4d/a25052.html#a6352d1ab3dd67efd9be171f7db20a62d", null ],
+    [ "Register", "d1/d4d/a25052.html#ae6c2b365463345c71ed1a4acdee04a15", null ]
 ];

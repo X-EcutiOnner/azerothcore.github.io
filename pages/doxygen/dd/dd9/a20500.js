@@ -1,6 +1,14 @@
 var a20500 =
 [
-    [ "boss_ignisAI", "df/dcd/a20504.html", "df/dcd/a20504" ],
-    [ "boss_ignis", "dd/dd9/a20500.html#a15f42f252e4f9472707d5b81f7fdaece", null ],
-    [ "GetAI", "dd/dd9/a20500.html#ac11ff148e9cbc985875f859268a3de01", null ]
+    [ "boss_kologarn_arms", "dd/dd9/a20500.html#a938ba2bc623d8bfea80e76743adadd6b", null ],
+    [ "AttackStart", "dd/dd9/a20500.html#aa900d84701962847fe8c50ca42a9e395", null ],
+    [ "DamageTaken", "dd/dd9/a20500.html#ab9dfb82063b299c4b983ea48e78a17be", null ],
+    [ "EnterEvadeMode", "dd/dd9/a20500.html#abb2cf784779f808ab5d5340047ce95e4", null ],
+    [ "JustDied", "dd/dd9/a20500.html#a165f77b79a3e601fe2269f20362df3ca", null ],
+    [ "MoveInLineOfSight", "dd/dd9/a20500.html#a515d1d1eb959a03adca5e2c79da9082b", null ],
+    [ "PassengerBoarded", "dd/dd9/a20500.html#aa0c14ab6b8b0081c1e8c43de1883ae59", null ],
+    [ "Reset", "dd/dd9/a20500.html#a1d164aa9234edb81ed6d4e0713d16a91", null ],
+    [ "UpdateAI", "dd/dd9/a20500.html#a013d5b17e93486679f625872331c94f6", null ],
+    [ "_combatStarted", "dd/dd9/a20500.html#a8b4f90719ef93e7f8d8e435e090d566a", null ],
+    [ "_damageDone", "dd/dd9/a20500.html#a0e196cc2602f325f4639d9e854f013b9", null ]
 ];

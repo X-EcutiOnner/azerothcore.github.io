@@ -1,6 +1,5 @@
 var a20672 =
 [
-    [ "npc_ulduar_flames_initialAI", "d5/dc4/a20676.html", "d5/dc4/a20676" ],
-    [ "npc_ulduar_flames_initial", "d6/dfa/a20672.html#aee0c62a38e3e0958e015faef2c434273", null ],
-    [ "GetAI", "d6/dfa/a20672.html#ac0db78c361324a594220ad644001f4eb", null ]
+    [ "achievement_iron_dwarf_medium_rare", "d6/dfa/a20672.html#afb3716aab7693ba0493db24999e4b1ee", null ],
+    [ "OnCheck", "d6/dfa/a20672.html#aabef3a345057265ac70c6cc0c98d552d", null ]
 ];

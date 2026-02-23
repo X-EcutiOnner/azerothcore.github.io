@@ -1,6 +1,7 @@
 var a21504 =
 [
-    [ "boss_erekemAI", "db/d1d/a21508.html", "db/d1d/a21508" ],
-    [ "boss_erekem", "dc/d40/a21504.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
-    [ "GetAI", "dc/d40/a21504.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
+    [ "npc_mootoo_the_youngerAI", "dc/d40/a21504.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "dc/d40/a21504.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "dc/d40/a21504.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "dc/d40/a21504.html#ac758a992ed0d62a272930c84d617b348", null ]
 ];

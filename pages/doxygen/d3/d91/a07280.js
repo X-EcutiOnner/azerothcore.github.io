@@ -1,10 +1,6 @@
 var a07280 =
 [
-    [ "CreatureBottom", "d3/d91/a07280.html#aaa8fe59aa58bf02934bf87f636582637", null ],
-    [ "CreatureTop", "d3/d91/a07280.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
-    [ "GameObject", "d3/d91/a07280.html#abc26a328692fc048d9040c44f360f4c4", null ],
-    [ "nbCreatureBottom", "d3/d91/a07280.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
-    [ "nbCreatureTop", "d3/d91/a07280.html#a38ab7536e0682efd7080b823569d504b", null ],
-    [ "nbObject", "d3/d91/a07280.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
-    [ "towerEntry", "d3/d91/a07280.html#a1c0edf97a599773b688954f2e966e794", null ]
+    [ "charges", "d3/d91/a07280.html#a583aee5baaad873bcbcc2acad403d0bf", null ],
+    [ "duration", "d3/d91/a07280.html#a36445b0d9d75886a0697c75513eb6c41", null ],
+    [ "id", "d3/d91/a07280.html#ab19975d2dd203aa1124f2e06fb637171", null ]
 ];

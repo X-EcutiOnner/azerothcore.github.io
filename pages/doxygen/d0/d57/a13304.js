@@ -1,7 +1,5 @@
 var a13304 =
 [
-    [ "CheckCast", "d0/d57/a13304.html#a3fe12c32e49232c2ea80095e62b4f981", null ],
-    [ "HandleScriptEffect", "d0/d57/a13304.html#af265f0bba7028f45763a7f9afea2d051", null ],
-    [ "PrepareSpellScript", "d0/d57/a13304.html#a27518fd5482e65e0324100057e747d68", null ],
-    [ "Register", "d0/d57/a13304.html#a07789d7d092eb1b6633200442466c52b", null ]
+    [ "boss_yazzai", "d0/d57/a13304.html#a6c92ffeff3e56f98cb1bd08f1835fe10", null ],
+    [ "JustEngagedWith", "d0/d57/a13304.html#ab504de0e51a3715485eb65e006352a6f", null ]
 ];

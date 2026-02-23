@@ -1,11 +1,7 @@
 var a27716 =
 [
-    [ "npc_artoriusAI", "d3/da5/a27716.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
-    [ "DamageTaken", "d3/da5/a27716.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
-    [ "DoAction", "d3/da5/a27716.html#abbfc9ee752d97f1694dbd739719843c2", null ],
-    [ "JustEngagedWith", "d3/da5/a27716.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
-    [ "Reset", "d3/da5/a27716.html#a862cc52a9251e2dfe486f1152dae9500", null ],
-    [ "SpellHit", "d3/da5/a27716.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
-    [ "UpdateAI", "d3/da5/a27716.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
-    [ "events", "d3/da5/a27716.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
+    [ "HandleProc", "d3/da5/a27716.html#a1ebfd477399cbac2cba33cfd90db72e6", null ],
+    [ "PrepareAuraScript", "d3/da5/a27716.html#aadbaea984fedb04e77b92174efd5e83d", null ],
+    [ "Register", "d3/da5/a27716.html#aedd1652a571275a305db70fbbe6f725c", null ],
+    [ "Validate", "d3/da5/a27716.html#a28c281aeef80409b419753f71da80f92", null ]
 ];

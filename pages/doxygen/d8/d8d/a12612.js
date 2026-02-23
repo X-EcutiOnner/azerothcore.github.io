@@ -1,5 +1,5 @@
 var a12612 =
 [
-    [ "go_orb_of_domination", "d8/d8d/a12612.html#a1d4659e21344a12ec6084ef7ef5df7d0", null ],
-    [ "OnGossipHello", "d8/d8d/a12612.html#aa88cebf1bd539b55cf63f10a25cc1bbb", null ]
+    [ "at_blackrock_stadium", "d8/d8d/a12612.html#a9f577437f231a189c02e50e71ffcb85a", null ],
+    [ "OnTrigger", "d8/d8d/a12612.html#a26e43099d9253ea44060194e3b38c656", null ]
 ];

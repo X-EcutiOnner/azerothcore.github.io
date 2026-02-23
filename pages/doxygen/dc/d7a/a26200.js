@@ -1,7 +1,7 @@
 var a26200 =
 [
-    [ "OnApply", "dc/d7a/a26200.html#aa86d7b45f028773b8666c06d3a0e60b4", null ],
-    [ "OnRemove", "dc/d7a/a26200.html#a0fdd3c926bb1b2846579102e64e8e18c", null ],
-    [ "PrepareAuraScript", "dc/d7a/a26200.html#aa93b45e31c33caf3ea51a26846566b34", null ],
-    [ "Register", "dc/d7a/a26200.html#a56d819c88a4e70a89cef5183e3c5b728", null ]
+    [ "HandleDummy", "dc/d7a/a26200.html#a334563491c3cbb9daa9d97dad738e9e5", null ],
+    [ "PrepareSpellScript", "dc/d7a/a26200.html#a69fe453f3c6764c3977c539d5fc71049", null ],
+    [ "Register", "dc/d7a/a26200.html#af81469f371224a3180d73b3cf8cf001a", null ],
+    [ "Validate", "dc/d7a/a26200.html#af0ab473a4ec7f1eebb70d0f2344de8ca", null ]
 ];

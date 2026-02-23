@@ -1,17 +1,9 @@
 var a09624 =
 [
-    [ "EmblemInfo", "da/d6d/a09624.html#a8d053ab27856955bf6013ef4c61ed33f", null ],
-    [ "GetBackgroundColor", "da/d6d/a09624.html#a66da2cd78cee9e929ff0f2439caed0e5", null ],
-    [ "GetBorderColor", "da/d6d/a09624.html#ac5ea55d7fd129524630dd0d486b457a7", null ],
-    [ "GetBorderStyle", "da/d6d/a09624.html#a7a791a3f467e72a3e8e941e3179d7709", null ],
-    [ "GetColor", "da/d6d/a09624.html#a15108f3a2a93ebbc01111672dd238d63", null ],
-    [ "GetStyle", "da/d6d/a09624.html#a0e6d684542535d537bdeba4104b7a18d", null ],
-    [ "LoadFromDB", "da/d6d/a09624.html#a17de371e72a2b29a7f249dbe912636bc", null ],
-    [ "ReadPacket", "da/d6d/a09624.html#abd73ea3db00fa900d7b3a8eeffa8b1bf", null ],
-    [ "SaveToDB", "da/d6d/a09624.html#aea1326261d893ef3beff026402bf8272", null ],
-    [ "m_backgroundColor", "da/d6d/a09624.html#a0bc92e459910ab6aad3ac35c8b613a5f", null ],
-    [ "m_borderColor", "da/d6d/a09624.html#a5aff1dcb9db9bc1477f2f37ac5b2c6cf", null ],
-    [ "m_borderStyle", "da/d6d/a09624.html#aa3e49b5f76fdb4e2139aeccb79c19390", null ],
-    [ "m_color", "da/d6d/a09624.html#ace48f189e9a1ae685dfbe97f35f49ec5", null ],
-    [ "m_style", "da/d6d/a09624.html#a08191c3c9cc48bde61ef0de81be34c90", null ]
+    [ "NearestAssistCreatureInCreatureRangeCheck", "da/d6d/a09624.html#ac9e380add6c9df4afc707007528c7434", null ],
+    [ "NearestAssistCreatureInCreatureRangeCheck", "da/d6d/a09624.html#aa26e19df606a366147e1db4fd1aa6eac", null ],
+    [ "operator()", "da/d6d/a09624.html#a9a085d16b30849537441f809052ac196", null ],
+    [ "i_enemy", "da/d6d/a09624.html#a0ba09da942c48e523c278cff0e0a4139", null ],
+    [ "i_obj", "da/d6d/a09624.html#a905ea6b07b97ed23de4f4cf9946642af", null ],
+    [ "i_range", "da/d6d/a09624.html#ab82a4b97ebb2bef047ae85404b0e3da0", null ]
 ];

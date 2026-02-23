@@ -1,7 +1,6 @@
 var a16192 =
 [
-    [ "HandleEffectRemove", "de/d8e/a16192.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
-    [ "PrepareAuraScript", "de/d8e/a16192.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
-    [ "Register", "de/d8e/a16192.html#a7c0533650e772713233ea45b0264cbff", null ],
-    [ "Validate", "de/d8e/a16192.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
+    [ "HandleOpenLock", "de/d8e/a16192.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
+    [ "PrepareSpellScript", "de/d8e/a16192.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
+    [ "Register", "de/d8e/a16192.html#a5dcac6f609ec93074ec3ce195101f592", null ]
 ];

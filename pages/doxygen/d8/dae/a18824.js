@@ -1,7 +1,6 @@
 var a18824 =
 [
-    [ "HandleForceCast", "d8/dae/a18824.html#accc757e0a23103242865f0ce3085f9d9", null ],
-    [ "Load", "d8/dae/a18824.html#a7206571378a0196a8648659628bdeece", null ],
-    [ "PrepareSpellScript", "d8/dae/a18824.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
-    [ "Register", "d8/dae/a18824.html#ace665321732f59f13b2ef831c71c2f18", null ]
+    [ "npc_icc_lk_checktargetAI", "df/d75/a18828.html", "df/d75/a18828" ],
+    [ "npc_icc_lk_checktarget", "d8/dae/a18824.html#a3a2cc943e731e472694dcb13417090da", null ],
+    [ "GetAI", "d8/dae/a18824.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
 ];

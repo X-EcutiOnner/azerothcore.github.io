@@ -1,12 +1,11 @@
 var a07416 =
 [
-    [ "BGQueueRemoveEvent", "d0/d2e/a07416.html#ab751b728f64b2928eefb21f756539d81", null ],
-    [ "~BGQueueRemoveEvent", "d0/d2e/a07416.html#aab9ea24041888975439aafb246c571c3", null ],
-    [ "Abort", "d0/d2e/a07416.html#a7d1dc829e56398ad421cb53dd51e952e", null ],
-    [ "Execute", "d0/d2e/a07416.html#a42482ff784da4b23b568888a74a0b531", null ],
-    [ "m_BgInstanceGUID", "d0/d2e/a07416.html#a4732918e6d7c42dd068f5cb147a188fc", null ],
-    [ "m_BgQueueTypeId", "d0/d2e/a07416.html#ac059a823ae49bd0250eec15845bf153b", null ],
-    [ "m_BgTypeId", "d0/d2e/a07416.html#a8bc484087ef76d627d5ae912bc5de22c", null ],
-    [ "m_PlayerGuid", "d0/d2e/a07416.html#a9a1e2c09896b4d7521954d810e7193cc", null ],
-    [ "m_RemoveTime", "d0/d2e/a07416.html#a0c40a46749bff9caaf1a462d7bef701e", null ]
+    [ "WGWorkshop", "d0/d2e/a07416.html#a2d2d7b24ec77275f24efa54d31e98bbb", null ],
+    [ "GiveControlTo", "d0/d2e/a07416.html#a6b69312f4ffa562b0e8fdcf5da3568d3", null ],
+    [ "Save", "d0/d2e/a07416.html#adede1c780178f20dc8339320a021e4b6", null ],
+    [ "UpdateGraveyardAndWorkshop", "d0/d2e/a07416.html#a2ff11801fb50cd3a463c44fafbddaed4", null ],
+    [ "bf", "d0/d2e/a07416.html#ae2b7e050289ad5922ddcd73c6da9f5a5", null ],
+    [ "state", "d0/d2e/a07416.html#a279d47c85843e884edef1f82b9654cd8", null ],
+    [ "teamControl", "d0/d2e/a07416.html#a196c8d0094a34c18835840e046fd39ef", null ],
+    [ "workshopId", "d0/d2e/a07416.html#a42d7337c67e4f19886b0ec86f0e60596", null ]
 ];

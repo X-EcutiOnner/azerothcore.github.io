@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/apps/worldserver/Main.cpp File Reference</title>
+<title>AzerothCore: SpellInfoBuilder Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,113 +105,566 @@ $(document).ready(function(){initNavTree('d3/d91/a29540.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">Main.cpp File Reference<div class="ingroups"><a class="el" href="../../d2/d6c/a04754.html">Acore Daemon</a></div></div></div>
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="../../d7/dc8/a29537.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">SpellInfoBuilder Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ACSoap.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AppenderDB.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AsyncAcceptor.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Banner.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BigNumber.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CliRunnable.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Config.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DatabaseLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GitRevision.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">IoContext.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Metric.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ModuleMgr.h</a>&quot;</code><br />
-<code>#include &quot;ModulesScriptLoader.h&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MySQLThreading.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">OpenSSLCrypto.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">OutdoorPvPMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ProcessPriority.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">RASession.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">RealmList.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Resolver.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SecretMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SteadyTimer.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldSessionMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldSocket.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldSocketMgr.h</a>&quot;</code><br />
-<code>#include &lt;boost/asio/signal_set.hpp&gt;</code><br />
-<code>#include &lt;boost/program_options.hpp&gt;</code><br />
-<code>#include &lt;csignal&gt;</code><br />
-<code>#include &lt;filesystem&gt;</code><br />
-<code>#include &lt;iostream&gt;</code><br />
-<code>#include &lt;openssl/crypto.h&gt;</code><br />
-<code>#include &lt;openssl/opensslv.h&gt;</code><br />
-<code>#include &quot;<a class="el" href="../../">ServiceWin32.h</a>&quot;</code><br />
-<code>#include &lt;boost/dll/shared_library.hpp&gt;</code><br />
-<code>#include &lt;timeapi.h&gt;</code><br />
-</div>
-<p><a href="">Go to the source code of this file.</a></p>
+
+<p>Builder class for creating <a class="el" href="../../da/d41/a11604.html">SpellInfo</a> test instances.  
+ <a href="../../d3/d91/a29540.html#details">More...</a></p>
+
+<p><code>#include &quot;<a class="el" href="../../">SpellInfoTestHelper.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/da1/a05647.html">FreezeDetector</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a1af4c9aaf8b9707697c1e030beee389a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a29540.html#a1af4c9aaf8b9707697c1e030beee389a">SpellInfoBuilder</a> ()</td></tr>
+<tr class="separator:a1af4c9aaf8b9707697c1e030beee389a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1f23f2372b8fd2e7ce8e6aad99868892"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d91/a29540.html">SpellInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a29540.html#a1f23f2372b8fd2e7ce8e6aad99868892">WithId</a> (<a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id)</td></tr>
+<tr class="separator:a1f23f2372b8fd2e7ce8e6aad99868892"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae64bb11a8877c42ed63addc210fae8cc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d91/a29540.html">SpellInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a29540.html#ae64bb11a8877c42ed63addc210fae8cc">WithSpellFamilyName</a> (<a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> familyName)</td></tr>
+<tr class="separator:ae64bb11a8877c42ed63addc210fae8cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4f184402512fd50c6066910787c4595"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d91/a29540.html">SpellInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a29540.html#aa4f184402512fd50c6066910787c4595">WithSpellFamilyFlags</a> (<a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> flag0, <a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> flag1=0, <a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> flag2=0)</td></tr>
+<tr class="separator:aa4f184402512fd50c6066910787c4595"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adbc655e188cade9675943e2f57a4a242"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d91/a29540.html">SpellInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a29540.html#adbc655e188cade9675943e2f57a4a242">WithSchoolMask</a> (<a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> schoolMask)</td></tr>
+<tr class="separator:adbc655e188cade9675943e2f57a4a242"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a76fd05f8130f02bba9b159e9e09c4f52"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d91/a29540.html">SpellInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a29540.html#a76fd05f8130f02bba9b159e9e09c4f52">WithProcFlags</a> (<a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> procFlags)</td></tr>
+<tr class="separator:a76fd05f8130f02bba9b159e9e09c4f52"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9a82d31ff56c42ad264d1daf97c1a445"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d91/a29540.html">SpellInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a29540.html#a9a82d31ff56c42ad264d1daf97c1a445">WithProcChance</a> (<a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> procChance)</td></tr>
+<tr class="separator:a9a82d31ff56c42ad264d1daf97c1a445"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a49152801fbf954772dfdf6c94cb91fb8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d91/a29540.html">SpellInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a29540.html#a49152801fbf954772dfdf6c94cb91fb8">WithProcCharges</a> (<a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> procCharges)</td></tr>
+<tr class="separator:a49152801fbf954772dfdf6c94cb91fb8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae876b0fda0da198b04bb43cf9b8851e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d91/a29540.html">SpellInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a29540.html#aae876b0fda0da198b04bb43cf9b8851e">WithDmgClass</a> (<a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> dmgClass)</td></tr>
+<tr class="separator:aae876b0fda0da198b04bb43cf9b8851e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aec11a1d4ff5ce438e052d58bd6dbbd1f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d91/a29540.html">SpellInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a29540.html#aec11a1d4ff5ce438e052d58bd6dbbd1f">WithEffect</a> (<a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> effIndex, <a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> effect, <a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> auraType=0)</td></tr>
+<tr class="separator:aec11a1d4ff5ce438e052d58bd6dbbd1f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab7e6d316ff67f1610695b89723b7e364"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d91/a29540.html">SpellInfoBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a29540.html#ab7e6d316ff67f1610695b89723b7e364">WithEffectTriggerSpell</a> (<a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> effIndex, <a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> triggerSpell)</td></tr>
+<tr class="separator:ab7e6d316ff67f1610695b89723b7e364"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab8ba5082d8c0d5d98837e7df20229906"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d41/a11604.html">SpellInfo</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a29540.html#ab8ba5082d8c0d5d98837e7df20229906">Build</a> ()</td></tr>
+<tr class="separator:ab8ba5082d8c0d5d98837e7df20229906"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96bd1eea56970fdc051fe3c494ee6396"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../da/d41/a11604.html">SpellInfo</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a29540.html#a96bd1eea56970fdc051fe3c494ee6396">BuildUnique</a> ()</td></tr>
+<tr class="separator:a96bd1eea56970fdc051fe3c494ee6396"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:ga1d466b8deaea4c5b80b4abcdc38991fd"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6c/a04754.html#ga1d466b8deaea4c5b80b4abcdc38991fd">_ACORE_CORE_CONFIG</a>&#160;&#160;&#160;&quot;worldserver.conf&quot;</td></tr>
-<tr class="separator:ga1d466b8deaea4c5b80b4abcdc38991fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:gad82d96de9a84a7d0325afcd3121344a4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6c/a04754.html#gad82d96de9a84a7d0325afcd3121344a4">SignalHandler</a> (boost::system::error_code const &amp;error, int signalNumber)</td></tr>
-<tr class="separator:gad82d96de9a84a7d0325afcd3121344a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga285010ee0ae83f9198f08fa3145877d7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6c/a04754.html#ga285010ee0ae83f9198f08fa3145877d7">ClearOnlineAccounts</a> ()</td></tr>
-<tr class="memdesc:ga285010ee0ae83f9198f08fa3145877d7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Clear 'online' status for all accounts with characters in this realm.  <a href="../../d2/d6c/a04754.html#ga285010ee0ae83f9198f08fa3145877d7">More...</a><br /></td></tr>
-<tr class="separator:ga285010ee0ae83f9198f08fa3145877d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga1551df43a48f1dbf64dbec1e47b07eea"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6c/a04754.html#ga1551df43a48f1dbf64dbec1e47b07eea">StartDB</a> ()</td></tr>
-<tr class="memdesc:ga1551df43a48f1dbf64dbec1e47b07eea"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initialize connection to the databases.  <a href="../../d2/d6c/a04754.html#ga1551df43a48f1dbf64dbec1e47b07eea">More...</a><br /></td></tr>
-<tr class="separator:ga1551df43a48f1dbf64dbec1e47b07eea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga927af1587546ee7503a3b9a18f6439c0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6c/a04754.html#ga927af1587546ee7503a3b9a18f6439c0">StopDB</a> ()</td></tr>
-<tr class="separator:ga927af1587546ee7503a3b9a18f6439c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga74b21e249952fe0d6d779ee217c76dc5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6c/a04754.html#ga74b21e249952fe0d6d779ee217c76dc5">LoadRealmInfo</a> (<a class="el" href="../../da/d9f/a04859.html">Acore::Asio::IoContext</a> &amp;ioContext)</td></tr>
-<tr class="separator:ga74b21e249952fe0d6d779ee217c76dc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga0781c2ca38d89a89b174f81fb895285b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d79/a28391.html">AsyncAcceptor</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6c/a04754.html#ga0781c2ca38d89a89b174f81fb895285b">StartRaSocketAcceptor</a> (<a class="el" href="../../da/d9f/a04859.html">Acore::Asio::IoContext</a> &amp;ioContext)</td></tr>
-<tr class="separator:ga0781c2ca38d89a89b174f81fb895285b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gaafe46b3c9a56a31faa60963b6a1f202a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6c/a04754.html#gaafe46b3c9a56a31faa60963b6a1f202a">ShutdownCLIThread</a> (std::thread *cliThread)</td></tr>
-<tr class="separator:gaafe46b3c9a56a31faa60963b6a1f202a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga62605923595bdfa644784c8a929fa1a7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6c/a04754.html#ga62605923595bdfa644784c8a929fa1a7">WorldUpdateLoop</a> ()</td></tr>
-<tr class="separator:ga62605923595bdfa644784c8a929fa1a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gab889056920cce8fbe96e920cea5fd9e6"><td class="memItemLeft" align="right" valign="top">variables_map&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6c/a04754.html#gab889056920cce8fbe96e920cea5fd9e6">GetConsoleArguments</a> (int argc, char **argv, fs::path &amp;configFile, std::string &amp;cfg_service)</td></tr>
-<tr class="separator:gab889056920cce8fbe96e920cea5fd9e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga3c04138a5bfe5d72780bb7e82a18e627"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6c/a04754.html#ga3c04138a5bfe5d72780bb7e82a18e627">main</a> (int argc, char **argv)</td></tr>
-<tr class="memdesc:ga3c04138a5bfe5d72780bb7e82a18e627"><td class="mdescLeft">&#160;</td><td class="mdescRight">Launch the Azeroth server.  <a href="../../d2/d6c/a04754.html#ga3c04138a5bfe5d72780bb7e82a18e627">More...</a><br /></td></tr>
-<tr class="separator:ga3c04138a5bfe5d72780bb7e82a18e627"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:ga69c549a4f4a1e88fa4a2c38cde62f569"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6c/a04754.html#ga69c549a4f4a1e88fa4a2c38cde62f569">serviceName</a> [] = &quot;worldserver&quot;</td></tr>
-<tr class="separator:ga69c549a4f4a1e88fa4a2c38cde62f569"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga34b5207234887e0d62724cf770037f6f"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6c/a04754.html#ga34b5207234887e0d62724cf770037f6f">serviceLongName</a> [] = &quot;AzerothCore world service&quot;</td></tr>
-<tr class="separator:ga34b5207234887e0d62724cf770037f6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga2994dda4045f1e2d3d675565a16a4dd2"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6c/a04754.html#ga2994dda4045f1e2d3d675565a16a4dd2">serviceDescription</a> [] = &quot;AzerothCore <a class="el" href="../../db/df7/a11515.html">World</a> of Warcraft emulator world service&quot;</td></tr>
-<tr class="separator:ga2994dda4045f1e2d3d675565a16a4dd2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gabad888b856358b30aa3928d7e01916fb"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d6c/a04754.html#gabad888b856358b30aa3928d7e01916fb">m_ServiceStatus</a> = -1</td></tr>
-<tr class="separator:gabad888b856358b30aa3928d7e01916fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a764a57f15f5383d3555b7763c0dc718b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/dd5/a29536.html">TestSpellEntryHelper</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a29540.html#a764a57f15f5383d3555b7763c0dc718b">_entryHelper</a></td></tr>
+<tr class="separator:a764a57f15f5383d3555b7763c0dc718b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >Builder class for creating <a class="el" href="../../da/d41/a11604.html">SpellInfo</a> test instances. </p>
+<p >This helper allows easy construction of <a class="el" href="../../da/d41/a11604.html">SpellInfo</a> objects for unit testing without requiring DBC data. </p>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a1af4c9aaf8b9707697c1e030beee389a" name="a1af4c9aaf8b9707697c1e030beee389a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1af4c9aaf8b9707697c1e030beee389a">&#9670;&#160;</a></span>SpellInfoBuilder()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">SpellInfoBuilder::SpellInfoBuilder </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  136</span>: <a class="code hl_variable" href="../../d3/d91/a29540.html#a764a57f15f5383d3555b7763c0dc718b">_entryHelper</a>() {}</div>
+<div class="ttc" id="aa29540_html_a764a57f15f5383d3555b7763c0dc718b"><div class="ttname"><a href="../../d3/d91/a29540.html#a764a57f15f5383d3555b7763c0dc718b">SpellInfoBuilder::_entryHelper</a></div><div class="ttdeci">TestSpellEntryHelper _entryHelper</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:212</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="ab8ba5082d8c0d5d98837e7df20229906" name="ab8ba5082d8c0d5d98837e7df20229906"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab8ba5082d8c0d5d98837e7df20229906">&#9670;&#160;</a></span>Build()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../da/d41/a11604.html">SpellInfo</a> * SpellInfoBuilder::Build </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  201</span>    {</div>
+<div class="line"><span class="lineno">  202</span>        <span class="keywordflow">return</span> <span class="keyword">new</span> <a class="code hl_class" href="../../da/d41/a11604.html">SpellInfo</a>(<a class="code hl_variable" href="../../d3/d91/a29540.html#a764a57f15f5383d3555b7763c0dc718b">_entryHelper</a>.<a class="code hl_function" href="../../dd/dd5/a29536.html#a43cc8638601f863dc0b55f7fee6a314a">Get</a>());</div>
+<div class="line"><span class="lineno">  203</span>    }</div>
+<div class="ttc" id="aa11604_html"><div class="ttname"><a href="../../da/d41/a11604.html">SpellInfo</a></div><div class="ttdef"><b>Definition:</b> SpellInfo.h:316</div></div>
+<div class="ttc" id="aa29536_html_a43cc8638601f863dc0b55f7fee6a314a"><div class="ttname"><a href="../../dd/dd5/a29536.html#a43cc8638601f863dc0b55f7fee6a314a">TestSpellEntryHelper::Get</a></div><div class="ttdeci">SpellEntry const * Get() const</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:118</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00212">_entryHelper</a>, and <a class="el" href="../../#l00118">TestSpellEntryHelper::Get()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00061">SpellProcTest::CreateSpellInfo()</a>, <a class="el" href="../../#l00164">AuraScriptProcTestFixture::CreateSpellInfo()</a>, <a class="el" href="../../#l00103">SpellProcDatabaseTest::SetUp()</a>, and <a class="el" href="../../#l00621">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="a96bd1eea56970fdc051fe3c494ee6396" name="a96bd1eea56970fdc051fe3c494ee6396"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a96bd1eea56970fdc051fe3c494ee6396">&#9670;&#160;</a></span>BuildUnique()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::unique_ptr&lt; <a class="el" href="../../da/d41/a11604.html">SpellInfo</a> &gt; SpellInfoBuilder::BuildUnique </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  207</span>    {</div>
+<div class="line"><span class="lineno">  208</span>        <span class="keywordflow">return</span> std::unique_ptr&lt;SpellInfo&gt;(<span class="keyword">new</span> <a class="code hl_class" href="../../da/d41/a11604.html">SpellInfo</a>(<a class="code hl_variable" href="../../d3/d91/a29540.html#a764a57f15f5383d3555b7763c0dc718b">_entryHelper</a>.<a class="code hl_function" href="../../dd/dd5/a29536.html#a43cc8638601f863dc0b55f7fee6a314a">Get</a>()));</div>
+<div class="line"><span class="lineno">  209</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00212">_entryHelper</a>, and <a class="el" href="../../#l00118">TestSpellEntryHelper::Get()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00165">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="aae876b0fda0da198b04bb43cf9b8851e" name="aae876b0fda0da198b04bb43cf9b8851e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aae876b0fda0da198b04bb43cf9b8851e">&#9670;&#160;</a></span>WithDmgClass()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d91/a29540.html">SpellInfoBuilder</a> &amp; SpellInfoBuilder::WithDmgClass </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>dmgClass</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  181</span>    {</div>
+<div class="line"><span class="lineno">  182</span>        <a class="code hl_variable" href="../../d3/d91/a29540.html#a764a57f15f5383d3555b7763c0dc718b">_entryHelper</a>.<a class="code hl_function" href="../../dd/dd5/a29536.html#af2f2490bfad43901e0c43c43a658b7b8">WithDmgClass</a>(dmgClass);</div>
+<div class="line"><span class="lineno">  183</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  184</span>    }</div>
+<div class="ttc" id="aa29536_html_af2f2490bfad43901e0c43c43a658b7b8"><div class="ttname"><a href="../../dd/dd5/a29536.html#af2f2490bfad43901e0c43c43a658b7b8">TestSpellEntryHelper::WithDmgClass</a></div><div class="ttdeci">TestSpellEntryHelper &amp; WithDmgClass(uint32 dmgClass)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:93</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00212">_entryHelper</a>, and <a class="el" href="../../#l00093">TestSpellEntryHelper::WithDmgClass()</a>.</p>
+
+</div>
+</div>
+<a id="aec11a1d4ff5ce438e052d58bd6dbbd1f" name="aec11a1d4ff5ce438e052d58bd6dbbd1f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aec11a1d4ff5ce438e052d58bd6dbbd1f">&#9670;&#160;</a></span>WithEffect()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d91/a29540.html">SpellInfoBuilder</a> &amp; SpellInfoBuilder::WithEffect </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>effIndex</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>effect</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>auraType</em> = <code>0</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  187</span>    {</div>
+<div class="line"><span class="lineno">  188</span>        <a class="code hl_variable" href="../../d3/d91/a29540.html#a764a57f15f5383d3555b7763c0dc718b">_entryHelper</a>.<a class="code hl_function" href="../../dd/dd5/a29536.html#a97111bde77ad15919433437546f141eb">WithEffect</a>(effIndex, effect, auraType);</div>
+<div class="line"><span class="lineno">  189</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  190</span>    }</div>
+<div class="ttc" id="aa29536_html_a97111bde77ad15919433437546f141eb"><div class="ttname"><a href="../../dd/dd5/a29536.html#a97111bde77ad15919433437546f141eb">TestSpellEntryHelper::WithEffect</a></div><div class="ttdeci">TestSpellEntryHelper &amp; WithEffect(uint8 effIndex, uint32 effect, uint32 auraType=0)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:99</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00212">_entryHelper</a>, and <a class="el" href="../../#l00099">TestSpellEntryHelper::WithEffect()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00165">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="ab7e6d316ff67f1610695b89723b7e364" name="ab7e6d316ff67f1610695b89723b7e364"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab7e6d316ff67f1610695b89723b7e364">&#9670;&#160;</a></span>WithEffectTriggerSpell()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d91/a29540.html">SpellInfoBuilder</a> &amp; SpellInfoBuilder::WithEffectTriggerSpell </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>effIndex</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>triggerSpell</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  193</span>    {</div>
+<div class="line"><span class="lineno">  194</span>        <a class="code hl_variable" href="../../d3/d91/a29540.html#a764a57f15f5383d3555b7763c0dc718b">_entryHelper</a>.<a class="code hl_function" href="../../dd/dd5/a29536.html#a10af5cfe1d3e166c38b250c5043039e7">WithEffectTriggerSpell</a>(effIndex, triggerSpell);</div>
+<div class="line"><span class="lineno">  195</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  196</span>    }</div>
+<div class="ttc" id="aa29536_html_a10af5cfe1d3e166c38b250c5043039e7"><div class="ttname"><a href="../../dd/dd5/a29536.html#a10af5cfe1d3e166c38b250c5043039e7">TestSpellEntryHelper::WithEffectTriggerSpell</a></div><div class="ttdeci">TestSpellEntryHelper &amp; WithEffectTriggerSpell(uint8 effIndex, uint32 triggerSpell)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:109</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00212">_entryHelper</a>, and <a class="el" href="../../#l00109">TestSpellEntryHelper::WithEffectTriggerSpell()</a>.</p>
+
+</div>
+</div>
+<a id="a1f23f2372b8fd2e7ce8e6aad99868892" name="a1f23f2372b8fd2e7ce8e6aad99868892"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1f23f2372b8fd2e7ce8e6aad99868892">&#9670;&#160;</a></span>WithId()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d91/a29540.html">SpellInfoBuilder</a> &amp; SpellInfoBuilder::WithId </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>id</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  139</span>    {</div>
+<div class="line"><span class="lineno">  140</span>        <a class="code hl_variable" href="../../d3/d91/a29540.html#a764a57f15f5383d3555b7763c0dc718b">_entryHelper</a>.<a class="code hl_function" href="../../dd/dd5/a29536.html#ac469f44922b05f410d14e2dff045b9d9">WithId</a>(<span class="keywordtype">id</span>);</div>
+<div class="line"><span class="lineno">  141</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  142</span>    }</div>
+<div class="ttc" id="aa29536_html_ac469f44922b05f410d14e2dff045b9d9"><div class="ttname"><a href="../../dd/dd5/a29536.html#ac469f44922b05f410d14e2dff045b9d9">TestSpellEntryHelper::WithId</a></div><div class="ttdeci">TestSpellEntryHelper &amp; WithId(uint32 id)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:49</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00212">_entryHelper</a>, and <a class="el" href="../../#l00049">TestSpellEntryHelper::WithId()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00061">SpellProcTest::CreateSpellInfo()</a>, <a class="el" href="../../#l00164">AuraScriptProcTestFixture::CreateSpellInfo()</a>, <a class="el" href="../../#l00103">SpellProcDatabaseTest::SetUp()</a>, and <a class="el" href="../../#l00165">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="a9a82d31ff56c42ad264d1daf97c1a445" name="a9a82d31ff56c42ad264d1daf97c1a445"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9a82d31ff56c42ad264d1daf97c1a445">&#9670;&#160;</a></span>WithProcChance()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d91/a29540.html">SpellInfoBuilder</a> &amp; SpellInfoBuilder::WithProcChance </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>procChance</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  169</span>    {</div>
+<div class="line"><span class="lineno">  170</span>        <a class="code hl_variable" href="../../d3/d91/a29540.html#a764a57f15f5383d3555b7763c0dc718b">_entryHelper</a>.<a class="code hl_function" href="../../dd/dd5/a29536.html#a624882a20497cf5d1fd8ed2abd9421d0">WithProcChance</a>(procChance);</div>
+<div class="line"><span class="lineno">  171</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  172</span>    }</div>
+<div class="ttc" id="aa29536_html_a624882a20497cf5d1fd8ed2abd9421d0"><div class="ttname"><a href="../../dd/dd5/a29536.html#a624882a20497cf5d1fd8ed2abd9421d0">TestSpellEntryHelper::WithProcChance</a></div><div class="ttdeci">TestSpellEntryHelper &amp; WithProcChance(uint32 procChance)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:81</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00212">_entryHelper</a>, and <a class="el" href="../../#l00081">TestSpellEntryHelper::WithProcChance()</a>.</p>
+
+</div>
+</div>
+<a id="a49152801fbf954772dfdf6c94cb91fb8" name="a49152801fbf954772dfdf6c94cb91fb8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a49152801fbf954772dfdf6c94cb91fb8">&#9670;&#160;</a></span>WithProcCharges()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d91/a29540.html">SpellInfoBuilder</a> &amp; SpellInfoBuilder::WithProcCharges </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>procCharges</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  175</span>    {</div>
+<div class="line"><span class="lineno">  176</span>        <a class="code hl_variable" href="../../d3/d91/a29540.html#a764a57f15f5383d3555b7763c0dc718b">_entryHelper</a>.<a class="code hl_function" href="../../dd/dd5/a29536.html#a88f8f08b3f6e6c81afdc47516798052d">WithProcCharges</a>(procCharges);</div>
+<div class="line"><span class="lineno">  177</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  178</span>    }</div>
+<div class="ttc" id="aa29536_html_a88f8f08b3f6e6c81afdc47516798052d"><div class="ttname"><a href="../../dd/dd5/a29536.html#a88f8f08b3f6e6c81afdc47516798052d">TestSpellEntryHelper::WithProcCharges</a></div><div class="ttdeci">TestSpellEntryHelper &amp; WithProcCharges(uint32 procCharges)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:87</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00212">_entryHelper</a>, and <a class="el" href="../../#l00087">TestSpellEntryHelper::WithProcCharges()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00165">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="a76fd05f8130f02bba9b159e9e09c4f52" name="a76fd05f8130f02bba9b159e9e09c4f52"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a76fd05f8130f02bba9b159e9e09c4f52">&#9670;&#160;</a></span>WithProcFlags()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d91/a29540.html">SpellInfoBuilder</a> &amp; SpellInfoBuilder::WithProcFlags </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>procFlags</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  163</span>    {</div>
+<div class="line"><span class="lineno">  164</span>        <a class="code hl_variable" href="../../d3/d91/a29540.html#a764a57f15f5383d3555b7763c0dc718b">_entryHelper</a>.<a class="code hl_function" href="../../dd/dd5/a29536.html#a639ff4b1423de03e6430d43c6097bef6">WithProcFlags</a>(procFlags);</div>
+<div class="line"><span class="lineno">  165</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  166</span>    }</div>
+<div class="ttc" id="aa29536_html_a639ff4b1423de03e6430d43c6097bef6"><div class="ttname"><a href="../../dd/dd5/a29536.html#a639ff4b1423de03e6430d43c6097bef6">TestSpellEntryHelper::WithProcFlags</a></div><div class="ttdeci">TestSpellEntryHelper &amp; WithProcFlags(uint32 procFlags)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:75</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00212">_entryHelper</a>, and <a class="el" href="../../#l00075">TestSpellEntryHelper::WithProcFlags()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00165">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="adbc655e188cade9675943e2f57a4a242" name="adbc655e188cade9675943e2f57a4a242"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adbc655e188cade9675943e2f57a4a242">&#9670;&#160;</a></span>WithSchoolMask()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d91/a29540.html">SpellInfoBuilder</a> &amp; SpellInfoBuilder::WithSchoolMask </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>schoolMask</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  157</span>    {</div>
+<div class="line"><span class="lineno">  158</span>        <a class="code hl_variable" href="../../d3/d91/a29540.html#a764a57f15f5383d3555b7763c0dc718b">_entryHelper</a>.<a class="code hl_function" href="../../dd/dd5/a29536.html#ac9fe293e3223a216131083e2a03d6a14">WithSchoolMask</a>(schoolMask);</div>
+<div class="line"><span class="lineno">  159</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  160</span>    }</div>
+<div class="ttc" id="aa29536_html_ac9fe293e3223a216131083e2a03d6a14"><div class="ttname"><a href="../../dd/dd5/a29536.html#ac9fe293e3223a216131083e2a03d6a14">TestSpellEntryHelper::WithSchoolMask</a></div><div class="ttdeci">TestSpellEntryHelper &amp; WithSchoolMask(uint32 schoolMask)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:69</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00212">_entryHelper</a>, and <a class="el" href="../../#l00069">TestSpellEntryHelper::WithSchoolMask()</a>.</p>
+
+</div>
+</div>
+<a id="aa4f184402512fd50c6066910787c4595" name="aa4f184402512fd50c6066910787c4595"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa4f184402512fd50c6066910787c4595">&#9670;&#160;</a></span>WithSpellFamilyFlags()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d91/a29540.html">SpellInfoBuilder</a> &amp; SpellInfoBuilder::WithSpellFamilyFlags </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>flag0</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>flag1</em> = <code>0</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>flag2</em> = <code>0</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  151</span>    {</div>
+<div class="line"><span class="lineno">  152</span>        <a class="code hl_variable" href="../../d3/d91/a29540.html#a764a57f15f5383d3555b7763c0dc718b">_entryHelper</a>.<a class="code hl_function" href="../../dd/dd5/a29536.html#a43d22d9da0f5ad65a570e06c6d0879b6">WithSpellFamilyFlags</a>(flag0, flag1, flag2);</div>
+<div class="line"><span class="lineno">  153</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  154</span>    }</div>
+<div class="ttc" id="aa29536_html_a43d22d9da0f5ad65a570e06c6d0879b6"><div class="ttname"><a href="../../dd/dd5/a29536.html#a43d22d9da0f5ad65a570e06c6d0879b6">TestSpellEntryHelper::WithSpellFamilyFlags</a></div><div class="ttdeci">TestSpellEntryHelper &amp; WithSpellFamilyFlags(uint32 flag0, uint32 flag1=0, uint32 flag2=0)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:61</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00212">_entryHelper</a>, and <a class="el" href="../../#l00061">TestSpellEntryHelper::WithSpellFamilyFlags()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00061">SpellProcTest::CreateSpellInfo()</a>, <a class="el" href="../../#l00164">AuraScriptProcTestFixture::CreateSpellInfo()</a>, and <a class="el" href="../../#l00677">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="ae64bb11a8877c42ed63addc210fae8cc" name="ae64bb11a8877c42ed63addc210fae8cc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae64bb11a8877c42ed63addc210fae8cc">&#9670;&#160;</a></span>WithSpellFamilyName()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d3/d91/a29540.html">SpellInfoBuilder</a> &amp; SpellInfoBuilder::WithSpellFamilyName </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>familyName</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  145</span>    {</div>
+<div class="line"><span class="lineno">  146</span>        <a class="code hl_variable" href="../../d3/d91/a29540.html#a764a57f15f5383d3555b7763c0dc718b">_entryHelper</a>.<a class="code hl_function" href="../../dd/dd5/a29536.html#a241f5b1cd4d2303e39ca65909a99312e">WithSpellFamilyName</a>(familyName);</div>
+<div class="line"><span class="lineno">  147</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  148</span>    }</div>
+<div class="ttc" id="aa29536_html_a241f5b1cd4d2303e39ca65909a99312e"><div class="ttname"><a href="../../dd/dd5/a29536.html#a241f5b1cd4d2303e39ca65909a99312e">TestSpellEntryHelper::WithSpellFamilyName</a></div><div class="ttdeci">TestSpellEntryHelper &amp; WithSpellFamilyName(uint32 familyName)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:55</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00212">_entryHelper</a>, and <a class="el" href="../../#l00055">TestSpellEntryHelper::WithSpellFamilyName()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00061">SpellProcTest::CreateSpellInfo()</a>, <a class="el" href="../../#l00164">AuraScriptProcTestFixture::CreateSpellInfo()</a>, <a class="el" href="../../#l00103">SpellProcDatabaseTest::SetUp()</a>, and <a class="el" href="../../#l00621">TEST_F()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a764a57f15f5383d3555b7763c0dc718b" name="a764a57f15f5383d3555b7763c0dc718b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a764a57f15f5383d3555b7763c0dc718b">&#9670;&#160;</a></span>_entryHelper</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/dd5/a29536.html">TestSpellEntryHelper</a> SpellInfoBuilder::_entryHelper</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00200">Build()</a>, <a class="el" href="../../#l00206">BuildUnique()</a>, <a class="el" href="../../#l00180">WithDmgClass()</a>, <a class="el" href="../../#l00186">WithEffect()</a>, <a class="el" href="../../#l00192">WithEffectTriggerSpell()</a>, <a class="el" href="../../#l00138">WithId()</a>, <a class="el" href="../../#l00168">WithProcChance()</a>, <a class="el" href="../../#l00174">WithProcCharges()</a>, <a class="el" href="../../#l00162">WithProcFlags()</a>, <a class="el" href="../../#l00156">WithSchoolMask()</a>, <a class="el" href="../../#l00150">WithSpellFamilyFlags()</a>, and <a class="el" href="../../#l00144">WithSpellFamilyName()</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c8498b4bff487486cc5ffdac4c412cf7.html">apps</a></li><li class="navelem"><a class="el" href="../../dir_4a0dc471e712914507a0672b672729a4.html">worldserver</a></li><li class="navelem"><a class="el" href="../../d3/d91/a29540.html">Main.cpp</a></li>
-    <li class="footer">Generated on Mon Jun 9 2025 20:46:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d91/a29540.html">SpellInfoBuilder</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:16:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

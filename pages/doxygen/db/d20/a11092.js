@@ -1,14 +1,9 @@
 var a11092 =
 [
-    [ "ValidatorList", "db/d20/a11092.html#a9d149151d1ac78e590a1ecc2e5125a05", null ],
-    [ "c_str", "db/d20/a11092.html#a009f68f040bf8c24e84be74e07c6f590", null ],
-    [ "empty", "db/d20/a11092.html#a87225ea97a5d831e1f10119b22e1ac34", null ],
-    [ "Move", "db/d20/a11092.html#ad4c8b4cb693929cc172adaf1e3374451", null ],
-    [ "operator std::string &", "db/d20/a11092.html#a948fc2ddfb36cf885d3c26534a52222d", null ],
-    [ "operator std::string const &", "db/d20/a11092.html#a45b487598b91580467af70cbe7264ee4", null ],
-    [ "operator std::string_view", "db/d20/a11092.html#aa21bedffd7781262ca29ff801e7f8224", null ],
-    [ "Validate", "db/d20/a11092.html#aa1ebd4ac4d40d582d707f04d09187ade", null ],
-    [ "ValidateNth", "db/d20/a11092.html#ae652fb9308dfddeebae5b776c91d2cec", null ],
-    [ "operator>>", "db/d20/a11092.html#ad49e16ca5e4f4a46c243ccfc52f9dee4", null ],
-    [ "_storage", "db/d20/a11092.html#a3c5565a6f92715af1faf92a615f029d3", null ]
+    [ "WrapItem", "db/d20/a11092.html#a7de705fe4ac1b4d71a6487533f40f2aa", null ],
+    [ "Read", "db/d20/a11092.html#adcd87a65cc32bc0096b650a705de9a55", null ],
+    [ "GiftBag", "db/d20/a11092.html#a45ebce1daa3de00eca9ff7fb352a9063", null ],
+    [ "GiftSlot", "db/d20/a11092.html#acd6da351e2ad9108921e2d9c7b13e82b", null ],
+    [ "ItemBag", "db/d20/a11092.html#a577a588900d74f22cfe67a1fbe82424b", null ],
+    [ "ItemSlot", "db/d20/a11092.html#a6a4bd31c0d4b97a019caca716a79c073", null ]
 ];

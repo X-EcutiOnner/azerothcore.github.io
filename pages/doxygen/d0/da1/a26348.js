@@ -1,9 +1,8 @@
 var a26348 =
 [
-    [ "Load", "d0/da1/a26348.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
-    [ "PrepareSpellScript", "d0/da1/a26348.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
-    [ "Register", "d0/da1/a26348.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
-    [ "TriggerHeal", "d0/da1/a26348.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
-    [ "Validate", "d0/da1/a26348.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
-    [ "healPct", "d0/da1/a26348.html#a33b4d26c34903e45b7274e369f096ce1", null ]
+    [ "HandleProc", "d0/da1/a26348.html#ad470545a3c3f1ffaad2d895f122522e1", null ],
+    [ "OnRemove", "d0/da1/a26348.html#adc9b9b988aa1342c34a49622f54d8484", null ],
+    [ "PrepareAuraScript", "d0/da1/a26348.html#ab3008bcdeb90825213d2352812ff21d5", null ],
+    [ "Register", "d0/da1/a26348.html#a9ee52d89eeff45a4f9df1982da6f7d78", null ],
+    [ "Validate", "d0/da1/a26348.html#a0ea66a92b78e59b50181b54ab285b9db", null ]
 ];

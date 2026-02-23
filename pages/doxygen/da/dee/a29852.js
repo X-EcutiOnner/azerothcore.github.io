@@ -1,11 +1,9 @@
 var a29852 =
 [
-    [ "_ACORE_REALM_CONFIG", "da/dee/a29852.html#a139668c786d564a415e0626b3344dc83", null ],
-    [ "BanExpiryHandler", "da/dee/a29852.html#a625d6480b04e88fcbc85e5b8d29502a6", null ],
-    [ "GetConsoleArguments", "da/dee/a29852.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "KeepDatabaseAliveHandler", "da/dee/a29852.html#a56e4613e7e60d171b9ce45f52758a057", null ],
-    [ "main", "da/dee/a29852.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "SignalHandler", "da/dee/a29852.html#abb73d9c1332263ddf049505e1b12672d", null ],
-    [ "StartDB", "da/dee/a29852.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "da/dee/a29852.html#ga927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "adtData", "d0/df8/a29860.html", "d0/df8/a29860" ],
+    [ "prepareLoadedData", "da/dee/a29852.html#a6b755c9e341918d05105d993391429c6", null ],
+    [ "adt_list", "da/dee/a29852.html#abe28c39e8856412c4fb182baab3218f0", null ],
+    [ "fcc", "da/dee/a29852.html#ac8ee92a1747e31385cbfadaea16c267f", null ],
+    [ "fcc_txt", "da/dee/a29852.html#a0657c323732de8d83b9c360c1dd03b61", null ],
+    [ "size", "da/dee/a29852.html#a797c02773dd470a318474c7ef033ba7c", null ]
 ];

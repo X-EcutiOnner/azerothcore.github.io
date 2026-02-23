@@ -1,6 +1,7 @@
 var a21024 =
 [
-    [ "boss_yoggsaron_death_orbAI", "de/d03/a21028.html", "de/d03/a21028" ],
-    [ "boss_yoggsaron_death_orb", "d1/d91/a21024.html#a862d01f012cee832b41bc7c584816b93", null ],
-    [ "GetAI", "d1/d91/a21024.html#a3169cd0e78642503f394a6cb74307871", null ]
+    [ "HandleEffectPeriodic", "d1/d91/a21024.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
+    [ "PrepareAuraScript", "d1/d91/a21024.html#a748cd347867557b5048d9ba0c112cd80", null ],
+    [ "Register", "d1/d91/a21024.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
+    [ "Validate", "d1/d91/a21024.html#afa86789ef14b1d06094705ba6cfb9205", null ]
 ];

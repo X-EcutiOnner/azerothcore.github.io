@@ -1,5 +1,5 @@
 var a27876 =
 [
-    [ "npc_pet_trainerAI", "d6/d38/a27876.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
-    [ "sGossipSelect", "d6/d38/a27876.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
+    [ "achievement_bg_control_all_nodes", "d6/d38/a27876.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
+    [ "OnCheck", "d6/d38/a27876.html#a69609eb5488519fa5a1f43b13a80e280", null ]
 ];

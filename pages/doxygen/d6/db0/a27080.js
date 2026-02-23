@@ -1,9 +1,7 @@
 var a27080 =
 [
-    [ "CheckCast", "d6/db0/a27080.html#a846862b62f5750801cd804133f290d5d", null ],
-    [ "HandleDummy", "d6/db0/a27080.html#aa56609d3c75a69fb62e302622fd11c3c", null ],
-    [ "Load", "d6/db0/a27080.html#acec7437ba80e4ae491020448a36e4559", null ],
-    [ "PrepareSpellScript", "d6/db0/a27080.html#ab5e281028c009a4b317111de9a0a17e3", null ],
-    [ "Register", "d6/db0/a27080.html#a865fa526f2131703a668e113ba0d7849", null ],
-    [ "Validate", "d6/db0/a27080.html#a6c6dee3de2c54536765cfdd97f4fd0c0", null ]
+    [ "HandleScript", "d6/db0/a27080.html#aa00117e677af1e236962c59b688d8a98", null ],
+    [ "Load", "d6/db0/a27080.html#ad05b65848e35d87fb9ef1ae413de6256", null ],
+    [ "PrepareSpellScript", "d6/db0/a27080.html#afbffeadede1cc7f08a0a52f4a7bee680", null ],
+    [ "Register", "d6/db0/a27080.html#a52d4828ccd5430a622a32b1279943f9b", null ]
 ];

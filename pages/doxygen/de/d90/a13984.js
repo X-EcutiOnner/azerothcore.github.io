@@ -1,6 +1,7 @@
 var a13984 =
 [
-    [ "npc_highborne_lamenterAI", "db/d48/a13988.html", "db/d48/a13988" ],
-    [ "npc_highborne_lamenter", "de/d90/a13984.html#a40316cf73a688e34e95dd41feef8612a", null ],
-    [ "GetAI", "de/d90/a13984.html#aad8ccb43b325b797f60a16e338458a1e", null ]
+    [ "npc_eris_hevenfireAI", "db/d48/a13988.html", "db/d48/a13988" ],
+    [ "npc_eris_hevenfire", "de/d90/a13984.html#a77f0836dc0b19114316b8b67839d8033", null ],
+    [ "GetAI", "de/d90/a13984.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
+    [ "OnQuestAccept", "de/d90/a13984.html#a1e0baec5706cfddd678b58eb9359997e", null ]
 ];

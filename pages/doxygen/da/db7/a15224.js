@@ -1,6 +1,7 @@
 var a15224 =
 [
-    [ "npc_idol_room_spawnerAI", "dd/df9/a15228.html", "dd/df9/a15228" ],
-    [ "npc_idol_room_spawner", "da/db7/a15224.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
-    [ "GetAI", "da/db7/a15224.html#a3017caa645e98a7647ec42a43c025624", null ]
+    [ "npc_cos_chromie_middle", "da/db7/a15224.html#a1bb7229781c122d362e781d2737d0fd3", null ],
+    [ "OnGossipHello", "da/db7/a15224.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
+    [ "OnGossipSelect", "da/db7/a15224.html#a37ebdd257ef22554c81cf3c062856141", null ],
+    [ "OnQuestAccept", "da/db7/a15224.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
 ];

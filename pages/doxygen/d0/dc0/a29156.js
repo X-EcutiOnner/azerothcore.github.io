@@ -1,8 +1,17 @@
 var a29156 =
 [
-    [ "Color", "d0/dc0/a29156.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
-    [ "NameIndex", "d0/dc0/a29156.html#add893e045d13a3633fd7346457a10477", null ],
-    [ "Position", "d0/dc0/a29156.html#afae9056582e71160c151de2c172bc60a", null ],
-    [ "Rotation", "d0/dc0/a29156.html#a48d372bc1371fa5f94db9aa39669942a", null ],
-    [ "Scale", "d0/dc0/a29156.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
+    [ "Entry", "d0/dc0/a29156.html#a4e8689fabe6b3ef5c495bf84fa1945b7", null ],
+    [ "Difficulty", "d0/dc0/a29156.html#aa85e97ced86b0d27c753ca924eba074b", null ],
+    [ "ExpansionLevel", "d0/dc0/a29156.html#a5bbacc248aa127b889d60b3a25b12b83", null ],
+    [ "Flags", "d0/dc0/a29156.html#a9481c296a064ec400b0f050097903557", null ],
+    [ "GroupID", "d0/dc0/a29156.html#a7a6c2971a61b171d00c885ce452601ce", null ],
+    [ "ID", "d0/dc0/a29156.html#ae0fdf0d9afd2f99e9b7e6094960e86e0", null ],
+    [ "MapID", "d0/dc0/a29156.html#a6c947b111d7d356ba02eb6fffc77f5cb", null ],
+    [ "MaxLevel", "d0/dc0/a29156.html#aa4fbfd45d4319c9e8319508821bf4a65", null ],
+    [ "MinLevel", "d0/dc0/a29156.html#a17ae5fe60486c54a3becb2b14d5953c9", null ],
+    [ "Name", "d0/dc0/a29156.html#a7cb21e4e996be24d531b03fea66ecd27", null ],
+    [ "TargetLevel", "d0/dc0/a29156.html#a2e6456d16cce98666b0ac63cebf0eb82", null ],
+    [ "TargetLevelMax", "d0/dc0/a29156.html#ae4a27f7bc0563f606f40d955a40fab1e", null ],
+    [ "TargetLevelMin", "d0/dc0/a29156.html#a7558f3dc7d695fb17bc3b64e0c381de7", null ],
+    [ "TypeID", "d0/dc0/a29156.html#a84a498b44063cc95ba1a3b565c44a81b", null ]
 ];

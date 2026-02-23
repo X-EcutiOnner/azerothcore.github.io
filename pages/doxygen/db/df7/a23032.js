@@ -1,9 +1,12 @@
 var a23032 =
 [
-    [ "HandleAfterCast", "db/df7/a23032.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
-    [ "HandleDummy", "db/df7/a23032.html#ae94594e337c2e0e6864f3723df8349bf", null ],
-    [ "Load", "db/df7/a23032.html#a301008eff6b13a43070b3916925391ae", null ],
-    [ "PrepareSpellScript", "db/df7/a23032.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
-    [ "Register", "db/df7/a23032.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
-    [ "_targetCount", "db/df7/a23032.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
+    [ "boss_fathomlord_karathress", "db/df7/a23032.html#a05c483ea61011926c260b43f6c01cac3", null ],
+    [ "DoAction", "db/df7/a23032.html#adc5685244341e353c6dac67b0191d877", null ],
+    [ "JustDied", "db/df7/a23032.html#a4c356359be50b626a28fab4a803386f8", null ],
+    [ "JustEngagedWith", "db/df7/a23032.html#ae221d994f2ebb0a298288233727ea1ba", null ],
+    [ "JustReachedHome", "db/df7/a23032.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
+    [ "JustSummoned", "db/df7/a23032.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
+    [ "KilledUnit", "db/df7/a23032.html#a02812a3cc7de22348058dedd107bb6d0", null ],
+    [ "Reset", "db/df7/a23032.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
+    [ "_recentlySpoken", "db/df7/a23032.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
 ];

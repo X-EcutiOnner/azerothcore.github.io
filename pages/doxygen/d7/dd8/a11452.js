@@ -1,12 +1,14 @@
 var a11452 =
 [
-    [ "cooldown", "d7/dd8/a11452.html#a0cd88c27979ccc5284aa46846db32a7c", null ],
-    [ "customChance", "d7/dd8/a11452.html#adf6742b70f0b00abddf1da6f45da3d16", null ],
-    [ "ppmRate", "d7/dd8/a11452.html#a931b2df4a187482e32ef252c3320080a", null ],
-    [ "procEx", "d7/dd8/a11452.html#a911770f28fe36243593b12fe92d6fbec", null ],
-    [ "procFlags", "d7/dd8/a11452.html#af253ef32b9de49fe85d0fe6f06855a60", null ],
-    [ "procPhase", "d7/dd8/a11452.html#a179d83770a02e4ab13f809ed3943a399", null ],
-    [ "schoolMask", "d7/dd8/a11452.html#a9a6d38ee4e4a35066780ef924c63f92f", null ],
-    [ "spellFamilyMask", "d7/dd8/a11452.html#a2aa57bf419ab51129fe7240750ee8910", null ],
-    [ "spellFamilyName", "d7/dd8/a11452.html#a5ffa91b3f66ebb0ac34f30e1c532fb3a", null ]
+    [ "Account", "d7/dd8/a11452.html#acb9382abe66dd43176fb7af1f3020388", null ],
+    [ "AddonInfo", "d7/dd8/a11452.html#ad39c1b9e73d5bbbe45114e3358126d73", null ],
+    [ "BattlegroupID", "d7/dd8/a11452.html#aa09cd28d82e9d96d96a1ccefc4a313ca", null ],
+    [ "Build", "d7/dd8/a11452.html#ae4a83f8e8c81c1d797512245392fd582", null ],
+    [ "Digest", "d7/dd8/a11452.html#a6b795f38fb996534f502e1fa5de9e48e", null ],
+    [ "DosResponse", "d7/dd8/a11452.html#afe2b4146ef592a7067ddaeac449b0644", null ],
+    [ "LocalChallenge", "d7/dd8/a11452.html#a5c8c57127a0b1cd3cfa63503018c8ae3", null ],
+    [ "LoginServerID", "d7/dd8/a11452.html#a155f8107ac5a637501a169cfaf43c4b9", null ],
+    [ "LoginServerType", "d7/dd8/a11452.html#aea79adfcdb6acd5b6bf34fc9175cca3c", null ],
+    [ "RealmID", "d7/dd8/a11452.html#a944915bd95665075fdf4b6fa01de9a9f", null ],
+    [ "RegionID", "d7/dd8/a11452.html#a4052be051b41e931747b1956dc145d64", null ]
 ];

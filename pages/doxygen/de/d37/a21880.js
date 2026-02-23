@@ -1,6 +1,7 @@
 var a21880 =
 [
-    [ "npc_mageguard_dalaranAI", "d5/db5/a21884.html", "d5/db5/a21884" ],
-    [ "npc_mageguard_dalaran", "de/d37/a21880.html#a0cec4f232b665325c421cecb5839885f", null ],
-    [ "GetAI", "de/d37/a21880.html#a10cbddceb53a2d432da2224128c59b28", null ]
+    [ "HandleDummy", "de/d37/a21880.html#abb5726c8afa66a946eefc8767094ea9b", null ],
+    [ "PrepareSpellScript", "de/d37/a21880.html#ab5d9f8125c75bbd8fbb2717516d3eddd", null ],
+    [ "Register", "de/d37/a21880.html#a38efc59fcbb40469521419723a1dceb3", null ],
+    [ "Validate", "de/d37/a21880.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e", null ]
 ];

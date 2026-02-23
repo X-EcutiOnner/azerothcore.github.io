@@ -1,9 +1,12 @@
 var a06264 =
 [
-    [ "AISpellInfoType", "d2/dea/a06264.html#a3b6d2057522e7b79c87a16d4b9cced98", null ],
-    [ "condition", "d2/dea/a06264.html#af357bcc7eaeaf88a107a6309c468d53d", null ],
-    [ "cooldown", "d2/dea/a06264.html#a6ea49fdc98ece29ceee63352424e9366", null ],
-    [ "maxRange", "d2/dea/a06264.html#ab421f918f3cb479d2d0390cd98cdeae3", null ],
-    [ "realCooldown", "d2/dea/a06264.html#a3ee8081ca5749ef9b5991a5505104ee9", null ],
-    [ "target", "d2/dea/a06264.html#a8f9c1d3fbbabc73f4b47ffe21e7a06c4", null ]
+    [ "CombatAI", "d2/dea/a06264.html#a32e63efb85155ac3deeb818a9a1ba18a", null ],
+    [ "InitializeAI", "d2/dea/a06264.html#a70caf22165251220365d03873b3d3f17", null ],
+    [ "JustDied", "d2/dea/a06264.html#a9176b9b9c7a5e13fb05dae636c7ef2d4", null ],
+    [ "JustEngagedWith", "d2/dea/a06264.html#ab157082819d821cf0b0093f084111e16", null ],
+    [ "Permissible", "d2/dea/a06264.html#aaf52e2cbeb1ea9a816b5e8d914c03edb", null ],
+    [ "Reset", "d2/dea/a06264.html#a7a39daea9b9bd09572472ae0d8689edd", null ],
+    [ "UpdateAI", "d2/dea/a06264.html#af12583d15ccd183f6236c1889d539b9b", null ],
+    [ "events", "d2/dea/a06264.html#af59650830fa1abdf8eec179a12e328e7", null ],
+    [ "spells", "d2/dea/a06264.html#ae0ecfc744e4200bbf7ea36cdd84b13c0", null ]
 ];

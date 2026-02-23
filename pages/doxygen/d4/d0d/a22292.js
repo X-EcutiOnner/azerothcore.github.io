@@ -1,6 +1,7 @@
 var a22292 =
 [
-    [ "HandleDummy", "d4/d0d/a22292.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
-    [ "PrepareSpellScript", "d4/d0d/a22292.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
-    [ "Register", "d4/d0d/a22292.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
+    [ "npc_wg_quest_giver", "d4/d0d/a22292.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "d4/d0d/a22292.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "d4/d0d/a22292.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "d4/d0d/a22292.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

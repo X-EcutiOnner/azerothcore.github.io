@@ -1,6 +1,5 @@
 var a08672 =
 [
-    [ "SkillStatusData", "da/d3d/a08672.html#a7594ceb20110da34f3aa68ac69996b94", null ],
-    [ "pos", "da/d3d/a08672.html#a51ccb328b807f2c7fd275d843218f466", null ],
-    [ "uState", "da/d3d/a08672.html#a232801ad25897a82739916d5be4fdc22", null ]
+    [ "PositionXYZStreamer", "da/d3d/a08672.html#a8da1be6111bd97ef68d62d0d9d630c56", null ],
+    [ "m_pos", "da/d3d/a08672.html#ae5db7cb3adba811c0b9483645a7f1770", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/tools/map_extractor/adt.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellProcFullCoverageTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,86 +105,133 @@ $(document).ready(function(){initNavTree('d6/df5/a04826.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#define-members">Macros</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">adt.cpp File Reference</div></div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">SpellProcFullCoverageTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">adt.h</a>&quot;</code><br />
+
+<p>Data-driven tests for ALL 869 spell_proc entries.  
+<a href="#details">More...</a></p>
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ProcEventInfoHelper.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellProcTestData.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">AuraStub.h</a>&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a411c46599e926f8cdf49c63957255359"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#a411c46599e926f8cdf49c63957255359">_CRT_SECURE_NO_DEPRECATE</a></td></tr>
-<tr class="separator:a411c46599e926f8cdf49c63957255359"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dfd/a29664.html">SpellProcCoverageStatsTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a3a7e248f31dc8d832dc118d469a98bd4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#a3a7e248f31dc8d832dc118d469a98bd4">isHole</a> (int <a class="el" href="../../d0/de6/a04814.html#a0dd5ee5c0a7fa0dacf58e50adf0e3803">holes</a>, int i, int j)</td></tr>
-<tr class="separator:a3a7e248f31dc8d832dc118d469a98bd4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a7424dd5c858116f845a676e31fe5ae5d"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#a7424dd5c858116f845a676e31fe5ae5d">holetab_h</a> [4] = { 0x1111, 0x2222, 0x4444, 0x8888 }</td></tr>
-<tr class="separator:a7424dd5c858116f845a676e31fe5ae5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2b1bf69bcdb58ff1605821d486da3acb"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#a2b1bf69bcdb58ff1605821d486da3acb">holetab_v</a> [4] = { 0x000F, 0x00F0, 0x0F00, 0xF000 }</td></tr>
-<tr class="separator:a2b1bf69bcdb58ff1605821d486da3acb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac97bd684dd5bacba0e790f355a3bdddf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/df4/a28593.html">u_map_fcc</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#ac97bd684dd5bacba0e790f355a3bdddf">MHDRMagic</a> = { { 'R', 'D', 'H', 'M' } }</td></tr>
-<tr class="separator:ac97bd684dd5bacba0e790f355a3bdddf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6f946547b65d321100fd6efa2966180c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/df4/a28593.html">u_map_fcc</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#a6f946547b65d321100fd6efa2966180c">MCINMagic</a> = { { 'N', 'I', 'C', 'M' } }</td></tr>
-<tr class="separator:a6f946547b65d321100fd6efa2966180c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaeaf747e4bc5c25257f9e0ef1153b5a7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/df4/a28593.html">u_map_fcc</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#aaeaf747e4bc5c25257f9e0ef1153b5a7">MH2OMagic</a> = { { 'O', '2', 'H', 'M' } }</td></tr>
-<tr class="separator:aaeaf747e4bc5c25257f9e0ef1153b5a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa2d85d3b667d3755f6f7a993e60c574b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/df4/a28593.html">u_map_fcc</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#aa2d85d3b667d3755f6f7a993e60c574b">MCNKMagic</a> = { { 'K', 'N', 'C', 'M' } }</td></tr>
-<tr class="separator:aa2d85d3b667d3755f6f7a993e60c574b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a32010e610a970d3891ae5effca03de37"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/df4/a28593.html">u_map_fcc</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#a32010e610a970d3891ae5effca03de37">MCVTMagic</a> = { { 'T', 'V', 'C', 'M' } }</td></tr>
-<tr class="separator:a32010e610a970d3891ae5effca03de37"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a35ae9924cb4e3ad0020167b89d5ea86f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/df4/a28593.html">u_map_fcc</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#a35ae9924cb4e3ad0020167b89d5ea86f">MCLQMagic</a> = { { 'Q', 'L', 'C', 'M' } }</td></tr>
-<tr class="separator:a35ae9924cb4e3ad0020167b89d5ea86f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a329d005a0989137286469e197dc0c812"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/df4/a28593.html">u_map_fcc</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#a329d005a0989137286469e197dc0c812">MFBOMagic</a> = { { 'O', 'B', 'F', 'M' } }</td></tr>
-<tr class="separator:a329d005a0989137286469e197dc0c812"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8966e35144311ae7812b28c9c0a7e4f9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#a8966e35144311ae7812b28c9c0a7e4f9">TEST_P</a> (<a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>, CooldownBlocking_WhenCooldownSet)</td></tr>
+<tr class="separator:a8966e35144311ae7812b28c9c0a7e4f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a340bb26edcc4e4a43dcd1ab075c6ec97"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#a340bb26edcc4e4a43dcd1ab075c6ec97">TEST_P</a> (<a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>, Level60Reduction_WhenAttributeSet)</td></tr>
+<tr class="separator:a340bb26edcc4e4a43dcd1ab075c6ec97"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae359fb27455b96f80fcb8457a3245a04"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#ae359fb27455b96f80fcb8457a3245a04">TEST_P</a> (<a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>, AttributeMask_ValidFlags)</td></tr>
+<tr class="separator:ae359fb27455b96f80fcb8457a3245a04"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c7bf6cc22706ec1710849f5cbb953bf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#a3c7bf6cc22706ec1710849f5cbb953bf">TEST_P</a> (<a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>, UseStacksForCharges_Behavior)</td></tr>
+<tr class="separator:a3c7bf6cc22706ec1710849f5cbb953bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1948ba797b47df6ef8c8b4a93a18c574"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#a1948ba797b47df6ef8c8b4a93a18c574">TEST_P</a> (<a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>, TriggeredCanProc_FlagSet)</td></tr>
+<tr class="separator:a1948ba797b47df6ef8c8b4a93a18c574"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af448a42e0a11ec958734ac4ea33e8e19"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#af448a42e0a11ec958734ac4ea33e8e19">TEST_P</a> (<a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>, ReqManaCost_FlagSet)</td></tr>
+<tr class="separator:af448a42e0a11ec958734ac4ea33e8e19"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac6c8083ac11d2d2d47c601744415462e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#ac6c8083ac11d2d2d47c601744415462e">TEST_P</a> (<a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>, ChanceValue_InValidRange)</td></tr>
+<tr class="separator:ac6c8083ac11d2d2d47c601744415462e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac78e49238e1cab254c32bf3cff659afc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#ac78e49238e1cab254c32bf3cff659afc">TEST_P</a> (<a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>, ChanceCalculation_WithEntry)</td></tr>
+<tr class="separator:ac78e49238e1cab254c32bf3cff659afc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab9058c909a63d95de8bfd74aa82b3e15"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#ab9058c909a63d95de8bfd74aa82b3e15">TEST_P</a> (<a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>, ProcFlags_NotEmpty)</td></tr>
+<tr class="separator:ab9058c909a63d95de8bfd74aa82b3e15"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afb0b14156daeeb9b9dd48b3feccaf629"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#afb0b14156daeeb9b9dd48b3feccaf629">TEST_P</a> (<a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>, CooldownValue_Reasonable)</td></tr>
+<tr class="separator:afb0b14156daeeb9b9dd48b3feccaf629"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a289c402ebbd887d1bbc5c1198dff836c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#a289c402ebbd887d1bbc5c1198dff836c">TEST_P</a> (<a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>, SpellId_NonZero)</td></tr>
+<tr class="separator:a289c402ebbd887d1bbc5c1198dff836c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a65dba2c6bf60f6f7db00efd6b4edb00c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#a65dba2c6bf60f6f7db00efd6b4edb00c">INSTANTIATE_TEST_SUITE_P</a> (AllSpellProcEntries, <a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>, ::testing::ValuesIn(<a class="el" href="../../db/dab/a04877.html#a39025d5b336e745566f739e9d1f68e78">GetAllSpellProcTestEntries</a>()), [](const ::testing::TestParamInfo&lt; <a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a> &gt; &amp;info) { int32_t id=info.param.SpellId;if(id&lt; 0) return &quot;NegId_&quot;+std::to_string(-id);return &quot;SpellId_&quot;+std::to_string(id);})</td></tr>
+<tr class="separator:a65dba2c6bf60f6f7db00efd6b4edb00c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a211abe742bb26f4df00d5d809796614d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#a211abe742bb26f4df00d5d809796614d">TEST_F</a> (<a class="el" href="../../d5/dfd/a29664.html">SpellProcCoverageStatsTest</a>, CountEntriesWithCooldown)</td></tr>
+<tr class="separator:a211abe742bb26f4df00d5d809796614d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae9fadbe0c8fda36e7ad66d20ac078dcd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#ae9fadbe0c8fda36e7ad66d20ac078dcd">TEST_F</a> (<a class="el" href="../../d5/dfd/a29664.html">SpellProcCoverageStatsTest</a>, CountEntriesWithChance)</td></tr>
+<tr class="separator:ae9fadbe0c8fda36e7ad66d20ac078dcd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a21c1a9fea809e501b44e6698b51c512d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#a21c1a9fea809e501b44e6698b51c512d">TEST_F</a> (<a class="el" href="../../d5/dfd/a29664.html">SpellProcCoverageStatsTest</a>, CountEntriesWithLevel60Reduction)</td></tr>
+<tr class="separator:a21c1a9fea809e501b44e6698b51c512d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a16e261fa078bf4aa9b4244c07e8553bc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#a16e261fa078bf4aa9b4244c07e8553bc">TEST_F</a> (<a class="el" href="../../d5/dfd/a29664.html">SpellProcCoverageStatsTest</a>, CountEntriesWithUseStacks)</td></tr>
+<tr class="separator:a16e261fa078bf4aa9b4244c07e8553bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2336382b239a39dae62960029cb56276"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#a2336382b239a39dae62960029cb56276">TEST_F</a> (<a class="el" href="../../d5/dfd/a29664.html">SpellProcCoverageStatsTest</a>, CountEntriesWithTriggeredCanProc)</td></tr>
+<tr class="separator:a2336382b239a39dae62960029cb56276"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aec4bf3582a91dccc5caccd48ae7ddbc5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#aec4bf3582a91dccc5caccd48ae7ddbc5">TEST_F</a> (<a class="el" href="../../d5/dfd/a29664.html">SpellProcCoverageStatsTest</a>, CountEntriesWithReqManaCost)</td></tr>
+<tr class="separator:aec4bf3582a91dccc5caccd48ae7ddbc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a95d31b7fe986a4bc4d726cf282d6ce87"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df5/a04826.html#a95d31b7fe986a4bc4d726cf282d6ce87">TEST_F</a> (<a class="el" href="../../d5/dfd/a29664.html">SpellProcCoverageStatsTest</a>, TotalEntryCount)</td></tr>
+<tr class="separator:a95d31b7fe986a4bc4d726cf282d6ce87"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a411c46599e926f8cdf49c63957255359" name="a411c46599e926f8cdf49c63957255359"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a411c46599e926f8cdf49c63957255359">&#9670;&#160;</a></span>_CRT_SECURE_NO_DEPRECATE</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >Data-driven tests for ALL 869 spell_proc entries. </p>
+<p >Tests proc calculations for every spell_proc entry:</p><ul>
+<li>Cooldown blocking behavior</li>
+<li>Chance calculation with level reduction</li>
+<li>Attribute flag validation</li>
+</ul>
+<p >This complements <a class="el" href="../../da/d67/a04838.html" title="Comprehensive data-driven tests for ALL 869 spell_proc entries.">SpellProcDataDrivenTest.cpp</a> which tests CanSpellTriggerProcOnEvent().</p>
+<hr  />
+ <h1><a class="anchor" id="autotoc_md10"></a>
+DESIGN NOTE: Why Tests Skip Certain Entries</h1>
+<p >This test file uses parameterized tests that run against ALL 869 spell_proc entries. Each test validates a specific feature (cooldowns, level reduction, attribute flags, etc.). Tests use GTEST_SKIP() for entries that don't have the feature being tested.</p>
+<p >For example (current counts from test output):</p><ul>
+<li>CooldownBlocking_WhenCooldownSet: Tests 246 entries with Cooldown &gt; 0 (skips 623)</li>
+<li>Level60Reduction_WhenAttributeSet: Tests entries with PROC_ATTR_REDUCE_PROC_60 (0 currently)</li>
+<li>UseStacksForCharges_Behavior: Tests entries with PROC_ATTR_USE_STACKS_FOR_CHARGES (0 currently)</li>
+<li>TriggeredCanProc_FlagSet: Tests 73 entries with PROC_ATTR_TRIGGERED_CAN_PROC (skips 796)</li>
+<li>ReqManaCost_FlagSet: Tests 5 entries with PROC_ATTR_REQ_MANA_COST (skips 864)</li>
+</ul>
+<p >This is INTENTIONAL. Running parameterized tests against all entries ensures:</p><ol type="1">
+<li>Every entry is validated for applicable features</li>
+<li>Statistics show exact coverage (X entries with feature Y)</li>
+<li>New entries added to spell_proc are automatically tested</li>
+<li>Regression detection if an entry unexpectedly gains/loses a feature</li>
+</ol>
+<p >The statistics tests at the bottom output the exact counts: "[  INFO    ] Entries with cooldown: 85 / 869" "[  INFO    ] Entries with REDUCE_PROC_60: 15 / 869" etc.</p>
+<p >SKIPPED tests are expected and correct. Each skip message includes:</p><ul>
+<li>The SpellId being skipped </li>
+</ul>
+<h1><a class="anchor" id="autotoc_md11"></a>
+- The reason (e.g., "has no cooldown", "doesn't have REDUCE_PROC_60")</h1>
+
+<p class="definition">Definition in file <a class="el" href="../../">SpellProcFullCoverageTest.cpp</a>.</p>
+</div><h2 class="groupheader">Function Documentation</h2>
+<a id="a65dba2c6bf60f6f7db00efd6b4edb00c" name="a65dba2c6bf60f6f7db00efd6b4edb00c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a65dba2c6bf60f6f7db00efd6b4edb00c">&#9670;&#160;</a></span>INSTANTIATE_TEST_SUITE_P()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define _CRT_SECURE_NO_DEPRECATE</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a3a7e248f31dc8d832dc118d469a98bd4" name="a3a7e248f31dc8d832dc118d469a98bd4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3a7e248f31dc8d832dc118d469a98bd4">&#9670;&#160;</a></span>isHole()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool isHole </td>
+          <td class="memname">INSTANTIATE_TEST_SUITE_P </td>
           <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>holes</em>, </td>
+          <td class="paramtype">AllSpellProcEntries&#160;</td>
+          <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>i</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>&#160;</td>
+          <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>j</em>&#160;</td>
+          <td class="paramtype">::testing::ValuesIn(<a class="el" href="../../db/dab/a04877.html#a39025d5b336e745566f739e9d1f68e78">GetAllSpellProcTestEntries</a>())&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">[] (const ::testing::TestParamInfo&lt; <a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a> &gt; &amp;info) { int32_t id=info.param.SpellId;if(id&lt; 0) return &quot;NegId_&quot;+std::to_string(-id);return &quot;SpellId_&quot;+std::to_string(id);}&#160;</td>
+          <td class="paramname">&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -193,163 +240,828 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   35</span>{</div>
-<div class="line"><span class="lineno">   36</span>    <span class="keywordtype">int</span> testi = i / 2;</div>
-<div class="line"><span class="lineno">   37</span>    <span class="keywordtype">int</span> testj = j / 4;</div>
-<div class="line"><span class="lineno">   38</span>    <span class="keywordflow">if</span> (testi &gt; 3) testi = 3;</div>
-<div class="line"><span class="lineno">   39</span>    <span class="keywordflow">if</span> (testj &gt; 3) testj = 3;</div>
-<div class="line"><span class="lineno">   40</span>    <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d0/de6/a04814.html#a0dd5ee5c0a7fa0dacf58e50adf0e3803">holes</a> &amp; <a class="code hl_variable" href="../../d6/df5/a04826.html#a7424dd5c858116f845a676e31fe5ae5d">holetab_h</a>[testi] &amp; <a class="code hl_variable" href="../../d6/df5/a04826.html#a2b1bf69bcdb58ff1605821d486da3acb">holetab_v</a>[testj]) != 0;</div>
-<div class="line"><span class="lineno">   41</span>}</div>
-<div class="ttc" id="aa04814_html_a0dd5ee5c0a7fa0dacf58e50adf0e3803"><div class="ttname"><a href="../../d0/de6/a04814.html#a0dd5ee5c0a7fa0dacf58e50adf0e3803">holes</a></div><div class="ttdeci">uint16 holes[ADT_CELLS_PER_GRID][ADT_CELLS_PER_GRID]</div><div class="ttdef"><b>Definition:</b> System.cpp:409</div></div>
-<div class="ttc" id="aa04826_html_a2b1bf69bcdb58ff1605821d486da3acb"><div class="ttname"><a href="../../d6/df5/a04826.html#a2b1bf69bcdb58ff1605821d486da3acb">holetab_v</a></div><div class="ttdeci">int holetab_v[4]</div><div class="ttdef"><b>Definition:</b> adt.cpp:24</div></div>
-<div class="ttc" id="aa04826_html_a7424dd5c858116f845a676e31fe5ae5d"><div class="ttname"><a href="../../d6/df5/a04826.html#a7424dd5c858116f845a676e31fe5ae5d">holetab_h</a></div><div class="ttdeci">int holetab_h[4]</div><div class="ttdef"><b>Definition:</b> adt.cpp:23</div></div>
+
+</div>
+</div>
+<a id="ae9fadbe0c8fda36e7ad66d20ac078dcd" name="ae9fadbe0c8fda36e7ad66d20ac078dcd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae9fadbe0c8fda36e7ad66d20ac078dcd">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/7]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/dfd/a29664.html">SpellProcCoverageStatsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">CountEntriesWithChance&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  394</span>{</div>
+<div class="line"><span class="lineno">  395</span>    <span class="keywordtype">size_t</span> withChance = 0;</div>
+<div class="line"><span class="lineno">  396</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; entry : _allEntries)</div>
+<div class="line"><span class="lineno">  397</span>    {</div>
+<div class="line"><span class="lineno">  398</span>        <span class="keywordflow">if</span> (entry.Chance &gt; 0.0f)</div>
+<div class="line"><span class="lineno">  399</span>            ++withChance;</div>
+<div class="line"><span class="lineno">  400</span>    }</div>
+<div class="line"><span class="lineno">  401</span>    std::cout &lt;&lt; <span class="stringliteral">&quot;[  INFO    ] Entries with chance &gt; 0: &quot;</span> &lt;&lt; withChance</div>
+<div class="line"><span class="lineno">  402</span>              &lt;&lt; <span class="stringliteral">&quot; / &quot;</span> &lt;&lt; _allEntries.size() &lt;&lt; std::endl;</div>
+<div class="line"><span class="lineno">  403</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00409">holes</a>, <a class="el" href="../../#l00023">holetab_h</a>, and <a class="el" href="../../#l00024">holetab_v</a>.</p>
-
 </div>
 </div>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a7424dd5c858116f845a676e31fe5ae5d" name="a7424dd5c858116f845a676e31fe5ae5d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7424dd5c858116f845a676e31fe5ae5d">&#9670;&#160;</a></span>holetab_h</h2>
+<a id="a211abe742bb26f4df00d5d809796614d" name="a211abe742bb26f4df00d5d809796614d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a211abe742bb26f4df00d5d809796614d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/7]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">int holetab_h[4] = { 0x1111, 0x2222, 0x4444, 0x8888 }</td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/dfd/a29664.html">SpellProcCoverageStatsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">CountEntriesWithCooldown&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00034">isHole()</a>.</p>
-
+<div class="fragment"><div class="line"><span class="lineno">  381</span>{</div>
+<div class="line"><span class="lineno">  382</span>    <span class="keywordtype">size_t</span> withCooldown = 0;</div>
+<div class="line"><span class="lineno">  383</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; entry : _allEntries)</div>
+<div class="line"><span class="lineno">  384</span>    {</div>
+<div class="line"><span class="lineno">  385</span>        <span class="keywordflow">if</span> (entry.Cooldown &gt; 0)</div>
+<div class="line"><span class="lineno">  386</span>            ++withCooldown;</div>
+<div class="line"><span class="lineno">  387</span>    }</div>
+<div class="line"><span class="lineno">  388</span>    std::cout &lt;&lt; <span class="stringliteral">&quot;[  INFO    ] Entries with cooldown: &quot;</span> &lt;&lt; withCooldown</div>
+<div class="line"><span class="lineno">  389</span>              &lt;&lt; <span class="stringliteral">&quot; / &quot;</span> &lt;&lt; _allEntries.size() &lt;&lt; std::endl;</div>
+<div class="line"><span class="lineno">  390</span>    EXPECT_GT(withCooldown, 0u);</div>
+<div class="line"><span class="lineno">  391</span>}</div>
+</div><!-- fragment -->
 </div>
 </div>
-<a id="a2b1bf69bcdb58ff1605821d486da3acb" name="a2b1bf69bcdb58ff1605821d486da3acb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2b1bf69bcdb58ff1605821d486da3acb">&#9670;&#160;</a></span>holetab_v</h2>
+<a id="a21c1a9fea809e501b44e6698b51c512d" name="a21c1a9fea809e501b44e6698b51c512d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a21c1a9fea809e501b44e6698b51c512d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/7]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">int holetab_v[4] = { 0x000F, 0x00F0, 0x0F00, 0xF000 }</td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/dfd/a29664.html">SpellProcCoverageStatsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">CountEntriesWithLevel60Reduction&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00034">isHole()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  406</span>{</div>
+<div class="line"><span class="lineno">  407</span>    <span class="keywordtype">size_t</span> withReduction = 0;</div>
+<div class="line"><span class="lineno">  408</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; entry : _allEntries)</div>
+<div class="line"><span class="lineno">  409</span>    {</div>
+<div class="line"><span class="lineno">  410</span>        <span class="keywordflow">if</span> (entry.AttributesMask &amp; <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc">PROC_ATTR_REDUCE_PROC_60</a>)</div>
+<div class="line"><span class="lineno">  411</span>            ++withReduction;</div>
+<div class="line"><span class="lineno">  412</span>    }</div>
+<div class="line"><span class="lineno">  413</span>    std::cout &lt;&lt; <span class="stringliteral">&quot;[  INFO    ] Entries with REDUCE_PROC_60: &quot;</span> &lt;&lt; withReduction</div>
+<div class="line"><span class="lineno">  414</span>              &lt;&lt; <span class="stringliteral">&quot; / &quot;</span> &lt;&lt; _allEntries.size() &lt;&lt; std::endl;</div>
+<div class="line"><span class="lineno">  415</span>}</div>
+<div class="ttc" id="aa00104_html_a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc"><div class="ttname"><a href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc">PROC_ATTR_REDUCE_PROC_60</a></div><div class="ttdeci">@ PROC_ATTR_REDUCE_PROC_60</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:278</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>.</p>
 
 </div>
 </div>
-<a id="a6f946547b65d321100fd6efa2966180c" name="a6f946547b65d321100fd6efa2966180c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6f946547b65d321100fd6efa2966180c">&#9670;&#160;</a></span>MCINMagic</h2>
+<a id="aec4bf3582a91dccc5caccd48ae7ddbc5" name="aec4bf3582a91dccc5caccd48ae7ddbc5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aec4bf3582a91dccc5caccd48ae7ddbc5">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/7]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/df4/a28593.html">u_map_fcc</a> MCINMagic = { { 'N', 'I', 'C', 'M' } }</td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/dfd/a29664.html">SpellProcCoverageStatsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">CountEntriesWithReqManaCost&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00101">adt_MCIN::prepareLoadedData()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  442</span>{</div>
+<div class="line"><span class="lineno">  443</span>    <span class="keywordtype">size_t</span> withReqManaCost = 0;</div>
+<div class="line"><span class="lineno">  444</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; entry : _allEntries)</div>
+<div class="line"><span class="lineno">  445</span>    {</div>
+<div class="line"><span class="lineno">  446</span>        <span class="keywordflow">if</span> (entry.AttributesMask &amp; <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aa0f83922e25d093b01df847a65787873d">PROC_ATTR_REQ_MANA_COST</a>)</div>
+<div class="line"><span class="lineno">  447</span>            ++withReqManaCost;</div>
+<div class="line"><span class="lineno">  448</span>    }</div>
+<div class="line"><span class="lineno">  449</span>    std::cout &lt;&lt; <span class="stringliteral">&quot;[  INFO    ] Entries with REQ_MANA_COST: &quot;</span> &lt;&lt; withReqManaCost</div>
+<div class="line"><span class="lineno">  450</span>              &lt;&lt; <span class="stringliteral">&quot; / &quot;</span> &lt;&lt; _allEntries.size() &lt;&lt; std::endl;</div>
+<div class="line"><span class="lineno">  451</span>}</div>
+<div class="ttc" id="aa00104_html_a7fd74f5d829c140285ca6ed18c0e136aa0f83922e25d093b01df847a65787873d"><div class="ttname"><a href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aa0f83922e25d093b01df847a65787873d">PROC_ATTR_REQ_MANA_COST</a></div><div class="ttdeci">@ PROC_ATTR_REQ_MANA_COST</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:275</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00275">PROC_ATTR_REQ_MANA_COST</a>.</p>
 
 </div>
 </div>
-<a id="a35ae9924cb4e3ad0020167b89d5ea86f" name="a35ae9924cb4e3ad0020167b89d5ea86f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a35ae9924cb4e3ad0020167b89d5ea86f">&#9670;&#160;</a></span>MCLQMagic</h2>
+<a id="a2336382b239a39dae62960029cb56276" name="a2336382b239a39dae62960029cb56276"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2336382b239a39dae62960029cb56276">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/7]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/df4/a28593.html">u_map_fcc</a> MCLQMagic = { { 'Q', 'L', 'C', 'M' } }</td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/dfd/a29664.html">SpellProcCoverageStatsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">CountEntriesWithTriggeredCanProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00153">adt_MCLQ::prepareLoadedData()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  430</span>{</div>
+<div class="line"><span class="lineno">  431</span>    <span class="keywordtype">size_t</span> withTriggered = 0;</div>
+<div class="line"><span class="lineno">  432</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; entry : _allEntries)</div>
+<div class="line"><span class="lineno">  433</span>    {</div>
+<div class="line"><span class="lineno">  434</span>        <span class="keywordflow">if</span> (entry.AttributesMask &amp; <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aaaebacd180f279fede2360781af5d414c">PROC_ATTR_TRIGGERED_CAN_PROC</a>)</div>
+<div class="line"><span class="lineno">  435</span>            ++withTriggered;</div>
+<div class="line"><span class="lineno">  436</span>    }</div>
+<div class="line"><span class="lineno">  437</span>    std::cout &lt;&lt; <span class="stringliteral">&quot;[  INFO    ] Entries with TRIGGERED_CAN_PROC: &quot;</span> &lt;&lt; withTriggered</div>
+<div class="line"><span class="lineno">  438</span>              &lt;&lt; <span class="stringliteral">&quot; / &quot;</span> &lt;&lt; _allEntries.size() &lt;&lt; std::endl;</div>
+<div class="line"><span class="lineno">  439</span>}</div>
+<div class="ttc" id="aa00104_html_a7fd74f5d829c140285ca6ed18c0e136aaaebacd180f279fede2360781af5d414c"><div class="ttname"><a href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aaaebacd180f279fede2360781af5d414c">PROC_ATTR_TRIGGERED_CAN_PROC</a></div><div class="ttdeci">@ PROC_ATTR_TRIGGERED_CAN_PROC</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:274</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00274">PROC_ATTR_TRIGGERED_CAN_PROC</a>.</p>
 
 </div>
 </div>
-<a id="aa2d85d3b667d3755f6f7a993e60c574b" name="aa2d85d3b667d3755f6f7a993e60c574b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa2d85d3b667d3755f6f7a993e60c574b">&#9670;&#160;</a></span>MCNKMagic</h2>
+<a id="a16e261fa078bf4aa9b4244c07e8553bc" name="a16e261fa078bf4aa9b4244c07e8553bc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a16e261fa078bf4aa9b4244c07e8553bc">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/7]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/df4/a28593.html">u_map_fcc</a> MCNKMagic = { { 'K', 'N', 'C', 'M' } }</td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/dfd/a29664.html">SpellProcCoverageStatsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">CountEntriesWithUseStacks&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00127">adt_MCNK::prepareLoadedData()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  418</span>{</div>
+<div class="line"><span class="lineno">  419</span>    <span class="keywordtype">size_t</span> withUseStacks = 0;</div>
+<div class="line"><span class="lineno">  420</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; entry : _allEntries)</div>
+<div class="line"><span class="lineno">  421</span>    {</div>
+<div class="line"><span class="lineno">  422</span>        <span class="keywordflow">if</span> (entry.AttributesMask &amp; <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aa689b2d43ebd5bf9a80c4bc523663aa74">PROC_ATTR_USE_STACKS_FOR_CHARGES</a>)</div>
+<div class="line"><span class="lineno">  423</span>            ++withUseStacks;</div>
+<div class="line"><span class="lineno">  424</span>    }</div>
+<div class="line"><span class="lineno">  425</span>    std::cout &lt;&lt; <span class="stringliteral">&quot;[  INFO    ] Entries with USE_STACKS_FOR_CHARGES: &quot;</span> &lt;&lt; withUseStacks</div>
+<div class="line"><span class="lineno">  426</span>              &lt;&lt; <span class="stringliteral">&quot; / &quot;</span> &lt;&lt; _allEntries.size() &lt;&lt; std::endl;</div>
+<div class="line"><span class="lineno">  427</span>}</div>
+<div class="ttc" id="aa00104_html_a7fd74f5d829c140285ca6ed18c0e136aa689b2d43ebd5bf9a80c4bc523663aa74"><div class="ttname"><a href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aa689b2d43ebd5bf9a80c4bc523663aa74">PROC_ATTR_USE_STACKS_FOR_CHARGES</a></div><div class="ttdeci">@ PROC_ATTR_USE_STACKS_FOR_CHARGES</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:277</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00277">PROC_ATTR_USE_STACKS_FOR_CHARGES</a>.</p>
 
 </div>
 </div>
-<a id="a32010e610a970d3891ae5effca03de37" name="a32010e610a970d3891ae5effca03de37"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a32010e610a970d3891ae5effca03de37">&#9670;&#160;</a></span>MCVTMagic</h2>
+<a id="a95d31b7fe986a4bc4d726cf282d6ce87" name="a95d31b7fe986a4bc4d726cf282d6ce87"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a95d31b7fe986a4bc4d726cf282d6ce87">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/7]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/df4/a28593.html">u_map_fcc</a> MCVTMagic = { { 'T', 'V', 'C', 'M' } }</td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/dfd/a29664.html">SpellProcCoverageStatsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">TotalEntryCount&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00142">adt_MCVT::prepareLoadedData()</a>.</p>
-
+<div class="fragment"><div class="line"><span class="lineno">  454</span>{</div>
+<div class="line"><span class="lineno">  455</span>    std::cout &lt;&lt; <span class="stringliteral">&quot;[  INFO    ] Total spell_proc entries tested: &quot;</span> &lt;&lt; _allEntries.size() &lt;&lt; std::endl;</div>
+<div class="line"><span class="lineno">  456</span>    EXPECT_EQ(_allEntries.size(), 869u)</div>
+<div class="line"><span class="lineno">  457</span>        &lt;&lt; <span class="stringliteral">&quot;Expected 869 entries but got &quot;</span> &lt;&lt; _allEntries.size();</div>
+<div class="line"><span class="lineno">  458</span>}</div>
+</div><!-- fragment -->
 </div>
 </div>
-<a id="a329d005a0989137286469e197dc0c812" name="a329d005a0989137286469e197dc0c812"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a329d005a0989137286469e197dc0c812">&#9670;&#160;</a></span>MFBOMagic</h2>
+<a id="ae359fb27455b96f80fcb8457a3245a04" name="ae359fb27455b96f80fcb8457a3245a04"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae359fb27455b96f80fcb8457a3245a04">&#9670;&#160;</a></span>TEST_P() <span class="overload">[1/11]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/df4/a28593.html">u_map_fcc</a> MFBOMagic = { { 'O', 'B', 'F', 'M' } }</td>
+          <td class="memname">TEST_P </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">AttributeMask_ValidFlags&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00161">adt_MFBO::prepareLoadedData()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  175</span>{</div>
+<div class="line"><span class="lineno">  176</span>    <span class="comment">// Valid attribute flags</span></div>
+<div class="line"><span class="lineno">  177</span>    <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> VALID_ATTRIBUTE_MASK =</div>
+<div class="line"><span class="lineno">  178</span>        <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aa93a1480d7caabfa7a963f8ada8c5fe83">PROC_ATTR_REQ_EXP_OR_HONOR</a> |</div>
+<div class="line"><span class="lineno">  179</span>        <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aaaebacd180f279fede2360781af5d414c">PROC_ATTR_TRIGGERED_CAN_PROC</a> |</div>
+<div class="line"><span class="lineno">  180</span>        <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aa0f83922e25d093b01df847a65787873d">PROC_ATTR_REQ_MANA_COST</a> |</div>
+<div class="line"><span class="lineno">  181</span>        <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aab159732a2ad05b51e240bb9860b72876">PROC_ATTR_REQ_SPELLMOD</a> |</div>
+<div class="line"><span class="lineno">  182</span>        <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aa689b2d43ebd5bf9a80c4bc523663aa74">PROC_ATTR_USE_STACKS_FOR_CHARGES</a> |</div>
+<div class="line"><span class="lineno">  183</span>        <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc">PROC_ATTR_REDUCE_PROC_60</a> |</div>
+<div class="line"><span class="lineno">  184</span>        <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aa59658af2a6f300facab883172b0cca94">PROC_ATTR_CANT_PROC_FROM_ITEM_CAST</a>;</div>
+<div class="line"><span class="lineno">  185</span> </div>
+<div class="line"><span class="lineno">  186</span>    <span class="comment">// Check for invalid bits (skip 0x20 and 0x40 which are unused/reserved)</span></div>
+<div class="line"><span class="lineno">  187</span>    <a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> invalidBits = _entry.AttributesMask &amp; ~VALID_ATTRIBUTE_MASK &amp; ~0x60;</div>
+<div class="line"><span class="lineno">  188</span>    EXPECT_EQ(invalidBits, 0u)</div>
+<div class="line"><span class="lineno">  189</span>        &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; has invalid attribute bits: 0x&quot;</span></div>
+<div class="line"><span class="lineno">  190</span>        &lt;&lt; std::hex &lt;&lt; invalidBits;</div>
+<div class="line"><span class="lineno">  191</span>}</div>
+<div class="ttc" id="aa00104_html_a7fd74f5d829c140285ca6ed18c0e136aa59658af2a6f300facab883172b0cca94"><div class="ttname"><a href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aa59658af2a6f300facab883172b0cca94">PROC_ATTR_CANT_PROC_FROM_ITEM_CAST</a></div><div class="ttdeci">@ PROC_ATTR_CANT_PROC_FROM_ITEM_CAST</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:279</div></div>
+<div class="ttc" id="aa00104_html_a7fd74f5d829c140285ca6ed18c0e136aa93a1480d7caabfa7a963f8ada8c5fe83"><div class="ttname"><a href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aa93a1480d7caabfa7a963f8ada8c5fe83">PROC_ATTR_REQ_EXP_OR_HONOR</a></div><div class="ttdeci">@ PROC_ATTR_REQ_EXP_OR_HONOR</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:273</div></div>
+<div class="ttc" id="aa00104_html_a7fd74f5d829c140285ca6ed18c0e136aab159732a2ad05b51e240bb9860b72876"><div class="ttname"><a href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aab159732a2ad05b51e240bb9860b72876">PROC_ATTR_REQ_SPELLMOD</a></div><div class="ttdeci">@ PROC_ATTR_REQ_SPELLMOD</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:276</div></div>
+<div class="ttc" id="aa04337_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00279">PROC_ATTR_CANT_PROC_FROM_ITEM_CAST</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00273">PROC_ATTR_REQ_EXP_OR_HONOR</a>, <a class="el" href="../../#l00275">PROC_ATTR_REQ_MANA_COST</a>, <a class="el" href="../../#l00276">PROC_ATTR_REQ_SPELLMOD</a>, <a class="el" href="../../#l00274">PROC_ATTR_TRIGGERED_CAN_PROC</a>, and <a class="el" href="../../#l00277">PROC_ATTR_USE_STACKS_FOR_CHARGES</a>.</p>
 
 </div>
 </div>
-<a id="aaeaf747e4bc5c25257f9e0ef1153b5a7" name="aaeaf747e4bc5c25257f9e0ef1153b5a7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaeaf747e4bc5c25257f9e0ef1153b5a7">&#9670;&#160;</a></span>MH2OMagic</h2>
+<a id="ac78e49238e1cab254c32bf3cff659afc" name="ac78e49238e1cab254c32bf3cff659afc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac78e49238e1cab254c32bf3cff659afc">&#9670;&#160;</a></span>TEST_P() <span class="overload">[2/11]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/df4/a28593.html">u_map_fcc</a> MH2OMagic = { { 'O', '2', 'H', 'M' } }</td>
+          <td class="memname">TEST_P </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ChanceCalculation_WithEntry&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00115">adt_MH2O::prepareLoadedData()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  267</span>{</div>
+<div class="line"><span class="lineno">  268</span>    <span class="comment">// SKIP REASON: This test validates proc chance calculation with level reduction.</span></div>
+<div class="line"><span class="lineno">  269</span>    <span class="comment">// Entries with Chance = 0 rely on DBC defaults or use PPM (procs per minute) instead.</span></div>
+<div class="line"><span class="lineno">  270</span>    <span class="comment">// We can only test explicit chance calculation for entries that define a Chance value.</span></div>
+<div class="line"><span class="lineno">  271</span>    <span class="comment">// PPM-based procs are tested separately in SpellProcPPMTest.cpp.</span></div>
+<div class="line"><span class="lineno">  272</span>    <span class="keywordflow">if</span> (_entry.Chance &lt;= 0.0f)</div>
+<div class="line"><span class="lineno">  273</span>        GTEST_SKIP() &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; has no base chance&quot;</span>;</div>
+<div class="line"><span class="lineno">  274</span> </div>
+<div class="line"><span class="lineno">  275</span>    <span class="comment">// Calculate chance at level 80 (typical max level)</span></div>
+<div class="line"><span class="lineno">  276</span>    <span class="keywordtype">float</span> calculatedChance = <a class="code hl_function" href="../../d4/d02/a29500.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(</div>
+<div class="line"><span class="lineno">  277</span>        _procEntry, 80, 2500, 0.0f, 0.0f, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  278</span> </div>
+<div class="line"><span class="lineno">  279</span>    <span class="keywordflow">if</span> (_entry.AttributesMask &amp; <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc">PROC_ATTR_REDUCE_PROC_60</a>)</div>
+<div class="line"><span class="lineno">  280</span>    {</div>
+<div class="line"><span class="lineno">  281</span>        <span class="comment">// With level 60+ reduction at level 80</span></div>
+<div class="line"><span class="lineno">  282</span>        <span class="keywordtype">float</span> expectedReduced = _entry.Chance * (1.0f - 20.0f/30.0f);</div>
+<div class="line"><span class="lineno">  283</span>        EXPECT_NEAR(calculatedChance, expectedReduced, 0.5f)</div>
+<div class="line"><span class="lineno">  284</span>            &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; reduced chance mismatch&quot;</span>;</div>
+<div class="line"><span class="lineno">  285</span>    }</div>
+<div class="line"><span class="lineno">  286</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  287</span>    {</div>
+<div class="line"><span class="lineno">  288</span>        <span class="comment">// Without reduction</span></div>
+<div class="line"><span class="lineno">  289</span>        EXPECT_NEAR(calculatedChance, _entry.Chance, 0.01f)</div>
+<div class="line"><span class="lineno">  290</span>            &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; base chance mismatch&quot;</span>;</div>
+<div class="line"><span class="lineno">  291</span>    }</div>
+<div class="line"><span class="lineno">  292</span>}</div>
+<div class="ttc" id="aa29500_html_a439a1b27d17320fdd1769859d7a35eb1"><div class="ttname"><a href="../../d4/d02/a29500.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a></div><div class="ttdeci">static float SimulateCalcProcChance(SpellProcEntry const &amp;procEntry, uint32 actorLevel=80, uint32 weaponSpeed=2500, float chanceModifier=0.0f, float ppmModifier=0.0f, bool hasDamageInfo=true, bool hasHealInfo=false)</div><div class="ttdoc">Simulate CalcProcChance() from SpellAuras.cpp.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:85</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, and <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>.</p>
 
 </div>
 </div>
-<a id="ac97bd684dd5bacba0e790f355a3bdddf" name="ac97bd684dd5bacba0e790f355a3bdddf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac97bd684dd5bacba0e790f355a3bdddf">&#9670;&#160;</a></span>MHDRMagic</h2>
+<a id="ac6c8083ac11d2d2d47c601744415462e" name="ac6c8083ac11d2d2d47c601744415462e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac6c8083ac11d2d2d47c601744415462e">&#9670;&#160;</a></span>TEST_P() <span class="overload">[3/11]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/df4/a28593.html">u_map_fcc</a> MHDRMagic = { { 'R', 'D', 'H', 'M' } }</td>
+          <td class="memname">TEST_P </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ChanceValue_InValidRange&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  255</span>{</div>
+<div class="line"><span class="lineno">  256</span>    <span class="comment">// Chance should be in valid range (0-100 normally, but some can exceed)</span></div>
+<div class="line"><span class="lineno">  257</span>    <span class="comment">// Just verify it&#39;s not negative</span></div>
+<div class="line"><span class="lineno">  258</span>    EXPECT_GE(_entry.Chance, 0.0f)</div>
+<div class="line"><span class="lineno">  259</span>        &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; has negative chance&quot;</span>;</div>
+<div class="line"><span class="lineno">  260</span> </div>
+<div class="line"><span class="lineno">  261</span>    <span class="comment">// And not absurdly high (&gt;500% would be suspicious)</span></div>
+<div class="line"><span class="lineno">  262</span>    EXPECT_LE(_entry.Chance, 500.0f)</div>
+<div class="line"><span class="lineno">  263</span>        &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; has suspiciously high chance&quot;</span>;</div>
+<div class="line"><span class="lineno">  264</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a8966e35144311ae7812b28c9c0a7e4f9" name="a8966e35144311ae7812b28c9c0a7e4f9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8966e35144311ae7812b28c9c0a7e4f9">&#9670;&#160;</a></span>TEST_P() <span class="overload">[4/11]</span></h2>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00079">adt_MHDR::prepareLoadedData()</a>.</p>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_P </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">CooldownBlocking_WhenCooldownSet&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   94</span>{</div>
+<div class="line"><span class="lineno">   95</span>    <span class="comment">// SKIP REASON: This test validates cooldown blocking behavior.</span></div>
+<div class="line"><span class="lineno">   96</span>    <span class="comment">// Only entries with Cooldown &gt; 0 can be tested for ICD (Internal Cooldown).</span></div>
+<div class="line"><span class="lineno">   97</span>    <span class="comment">// Entries without cooldowns proc on every valid trigger, so there&#39;s nothing</span></div>
+<div class="line"><span class="lineno">   98</span>    <span class="comment">// to test here. The skip count shows how many entries lack cooldowns.</span></div>
+<div class="line"><span class="lineno">   99</span>    <span class="keywordflow">if</span> (_entry.Cooldown == 0)</div>
+<div class="line"><span class="lineno">  100</span>        GTEST_SKIP() &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; has no cooldown&quot;</span>;</div>
+<div class="line"><span class="lineno">  101</span> </div>
+<div class="line"><span class="lineno">  102</span>    <a class="code hl_class" href="../../da/d55/a29524.html">ProcTestScenario</a> scenario;</div>
+<div class="line"><span class="lineno">  103</span>    scenario.<a class="code hl_function" href="../../da/d55/a29524.html#a6c6dc6438b7503dcda2a89f1e53bc324">WithAura</a>(std::abs(_entry.SpellId));</div>
+<div class="line"><span class="lineno">  104</span> </div>
+<div class="line"><span class="lineno">  105</span>    <span class="comment">// Set 100% chance to isolate cooldown testing</span></div>
+<div class="line"><span class="lineno">  106</span>    <a class="code hl_struct" href="../../d6/d12/a11608.html">SpellProcEntry</a> testEntry = _procEntry;</div>
+<div class="line"><span class="lineno">  107</span>    testEntry.<a class="code hl_variable" href="../../d6/d12/a11608.html#aea5ca609c75ea7b314aec8ae0246297e">Chance</a> = 100.0f;</div>
+<div class="line"><span class="lineno">  108</span>    testEntry.<a class="code hl_variable" href="../../d6/d12/a11608.html#a4e6185aea35599a3efc2e806145cb1d2">Cooldown</a> = <a class="code hl_typedef" href="../../dc/d42/a04748.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>(_entry.Cooldown);</div>
+<div class="line"><span class="lineno">  109</span> </div>
+<div class="line"><span class="lineno">  110</span>    <span class="comment">// First proc should succeed</span></div>
+<div class="line"><span class="lineno">  111</span>    EXPECT_TRUE(scenario.<a class="code hl_function" href="../../da/d55/a29524.html#af3f83abbfbd4a902689b232853fdbcfb">SimulateProc</a>(testEntry))</div>
+<div class="line"><span class="lineno">  112</span>        &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; first proc should succeed&quot;</span>;</div>
+<div class="line"><span class="lineno">  113</span> </div>
+<div class="line"><span class="lineno">  114</span>    <span class="comment">// Second proc immediately after should fail (on cooldown)</span></div>
+<div class="line"><span class="lineno">  115</span>    EXPECT_FALSE(scenario.<a class="code hl_function" href="../../da/d55/a29524.html#af3f83abbfbd4a902689b232853fdbcfb">SimulateProc</a>(testEntry))</div>
+<div class="line"><span class="lineno">  116</span>        &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; should be blocked during &quot;</span></div>
+<div class="line"><span class="lineno">  117</span>        &lt;&lt; _entry.Cooldown &lt;&lt; <span class="stringliteral">&quot;ms cooldown&quot;</span>;</div>
+<div class="line"><span class="lineno">  118</span> </div>
+<div class="line"><span class="lineno">  119</span>    <span class="comment">// Wait for cooldown to expire</span></div>
+<div class="line"><span class="lineno">  120</span>    scenario.<a class="code hl_function" href="../../da/d55/a29524.html#a3b6e8c7f5207be98b7696b478559b24a">AdvanceTime</a>(std::chrono::milliseconds(_entry.Cooldown + 1));</div>
+<div class="line"><span class="lineno">  121</span> </div>
+<div class="line"><span class="lineno">  122</span>    <span class="comment">// Third proc after cooldown should succeed</span></div>
+<div class="line"><span class="lineno">  123</span>    EXPECT_TRUE(scenario.<a class="code hl_function" href="../../da/d55/a29524.html#af3f83abbfbd4a902689b232853fdbcfb">SimulateProc</a>(testEntry))</div>
+<div class="line"><span class="lineno">  124</span>        &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; should proc after cooldown expires&quot;</span>;</div>
+<div class="line"><span class="lineno">  125</span>}</div>
+<div class="ttc" id="aa04748_html_a1c3834b9e3853535027d58bf21bec81f"><div class="ttname"><a href="../../dc/d42/a04748.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a></div><div class="ttdeci">std::chrono::milliseconds Milliseconds</div><div class="ttdoc">Milliseconds shorthand typedef.</div><div class="ttdef"><b>Definition:</b> Duration.h:27</div></div>
+<div class="ttc" id="aa11608_html"><div class="ttname"><a href="../../d6/d12/a11608.html">SpellProcEntry</a></div><div class="ttdef"><b>Definition:</b> SpellMgr.h:283</div></div>
+<div class="ttc" id="aa11608_html_a4e6185aea35599a3efc2e806145cb1d2"><div class="ttname"><a href="../../d6/d12/a11608.html#a4e6185aea35599a3efc2e806145cb1d2">SpellProcEntry::Cooldown</a></div><div class="ttdeci">Milliseconds Cooldown</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:295</div></div>
+<div class="ttc" id="aa11608_html_aea5ca609c75ea7b314aec8ae0246297e"><div class="ttname"><a href="../../d6/d12/a11608.html#aea5ca609c75ea7b314aec8ae0246297e">SpellProcEntry::Chance</a></div><div class="ttdeci">float Chance</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:294</div></div>
+<div class="ttc" id="aa29524_html"><div class="ttname"><a href="../../da/d55/a29524.html">ProcTestScenario</a></div><div class="ttdoc">Test context for proc simulation scenarios.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:527</div></div>
+<div class="ttc" id="aa29524_html_a3b6e8c7f5207be98b7696b478559b24a"><div class="ttname"><a href="../../da/d55/a29524.html#a3b6e8c7f5207be98b7696b478559b24a">ProcTestScenario::AdvanceTime</a></div><div class="ttdeci">void AdvanceTime(std::chrono::milliseconds duration)</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:532</div></div>
+<div class="ttc" id="aa29524_html_a6c6dc6438b7503dcda2a89f1e53bc324"><div class="ttname"><a href="../../da/d55/a29524.html#a6c6dc6438b7503dcda2a89f1e53bc324">ProcTestScenario::WithAura</a></div><div class="ttdeci">ProcTestScenario &amp; WithAura(uint32_t spellId, uint8_t charges=0, uint8_t stacks=1)</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:558</div></div>
+<div class="ttc" id="aa29524_html_af3f83abbfbd4a902689b232853fdbcfb"><div class="ttname"><a href="../../da/d55/a29524.html#af3f83abbfbd4a902689b232853fdbcfb">ProcTestScenario::SimulateProc</a></div><div class="ttdeci">bool SimulateProc(SpellProcEntry const &amp;procEntry, float rollResult=0.0f)</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:568</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00532">ProcTestScenario::AdvanceTime()</a>, <a class="el" href="../../#l00294">SpellProcEntry::Chance</a>, <a class="el" href="../../#l00295">SpellProcEntry::Cooldown</a>, <a class="el" href="../../#l00568">ProcTestScenario::SimulateProc()</a>, and <a class="el" href="../../#l00558">ProcTestScenario::WithAura()</a>.</p>
+
+</div>
+</div>
+<a id="afb0b14156daeeb9b9dd48b3feccaf629" name="afb0b14156daeeb9b9dd48b3feccaf629"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afb0b14156daeeb9b9dd48b3feccaf629">&#9670;&#160;</a></span>TEST_P() <span class="overload">[5/11]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_P </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">CooldownValue_Reasonable&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  318</span>{</div>
+<div class="line"><span class="lineno">  319</span>    <span class="comment">// SKIP REASON: This test validates cooldown values are within reasonable bounds.</span></div>
+<div class="line"><span class="lineno">  320</span>    <span class="comment">// Entries without cooldowns (Cooldown = 0) can proc on every trigger with no</span></div>
+<div class="line"><span class="lineno">  321</span>    <span class="comment">// internal cooldown. 623 entries have no ICD and this is intentional - they</span></div>
+<div class="line"><span class="lineno">  322</span>    <span class="comment">// rely on proc chance alone to limit frequency.</span></div>
+<div class="line"><span class="lineno">  323</span>    <span class="comment">// Only 246 entries with explicit cooldowns need range validation.</span></div>
+<div class="line"><span class="lineno">  324</span>    <span class="keywordflow">if</span> (_entry.Cooldown == 0)</div>
+<div class="line"><span class="lineno">  325</span>        GTEST_SKIP() &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; has no cooldown&quot;</span>;</div>
+<div class="line"><span class="lineno">  326</span> </div>
+<div class="line"><span class="lineno">  327</span>    <span class="comment">// Cooldowns should be reasonable (not too short, not too long)</span></div>
+<div class="line"><span class="lineno">  328</span>    <span class="comment">// Shortest reasonable cooldown is ~1ms</span></div>
+<div class="line"><span class="lineno">  329</span>    <span class="comment">// Longest reasonable cooldown is ~15 minutes (900000ms) - some trinkets have 10+ min ICDs</span></div>
+<div class="line"><span class="lineno">  330</span>    EXPECT_GE(_entry.Cooldown, 1u)</div>
+<div class="line"><span class="lineno">  331</span>        &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; has suspiciously short cooldown&quot;</span>;</div>
+<div class="line"><span class="lineno">  332</span>    EXPECT_LE(_entry.Cooldown, 900000u)</div>
+<div class="line"><span class="lineno">  333</span>        &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; has suspiciously long cooldown (&quot;</span></div>
+<div class="line"><span class="lineno">  334</span>        &lt;&lt; _entry.Cooldown &lt;&lt; <span class="stringliteral">&quot;ms = &quot;</span> &lt;&lt; _entry.Cooldown/60000 &lt;&lt; <span class="stringliteral">&quot; minutes)&quot;</span>;</div>
+<div class="line"><span class="lineno">  335</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a340bb26edcc4e4a43dcd1ab075c6ec97" name="a340bb26edcc4e4a43dcd1ab075c6ec97"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a340bb26edcc4e4a43dcd1ab075c6ec97">&#9670;&#160;</a></span>TEST_P() <span class="overload">[6/11]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_P </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Level60Reduction_WhenAttributeSet&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  134</span>{</div>
+<div class="line"><span class="lineno">  135</span>    <span class="comment">// SKIP REASON: This test validates the level 60+ proc chance reduction formula.</span></div>
+<div class="line"><span class="lineno">  136</span>    <span class="comment">// Only entries with PROC_ATTR_REDUCE_PROC_60 attribute have their proc chance</span></div>
+<div class="line"><span class="lineno">  137</span>    <span class="comment">// reduced at higher levels. Spells like old weapon procs (Fiery, Crusader)</span></div>
+<div class="line"><span class="lineno">  138</span>    <span class="comment">// use this to prevent them from being overpowered at level 80.</span></div>
+<div class="line"><span class="lineno">  139</span>    <span class="comment">// Entries without this attribute maintain constant proc chance at all levels.</span></div>
+<div class="line"><span class="lineno">  140</span>    <span class="keywordflow">if</span> (!(_entry.AttributesMask &amp; <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc">PROC_ATTR_REDUCE_PROC_60</a>))</div>
+<div class="line"><span class="lineno">  141</span>        GTEST_SKIP() &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; doesn&#39;t have REDUCE_PROC_60&quot;</span>;</div>
+<div class="line"><span class="lineno">  142</span> </div>
+<div class="line"><span class="lineno">  143</span>    <span class="comment">// Use a meaningful base chance for testing</span></div>
+<div class="line"><span class="lineno">  144</span>    <span class="keywordtype">float</span> baseChance = _entry.Chance &gt; 0 ? _entry.Chance : 30.0f;</div>
+<div class="line"><span class="lineno">  145</span> </div>
+<div class="line"><span class="lineno">  146</span>    <span class="comment">// Level 60: No reduction</span></div>
+<div class="line"><span class="lineno">  147</span>    <span class="keywordtype">float</span> chanceAt60 = <a class="code hl_function" href="../../d4/d02/a29500.html#a42fe0520c1fb9cedfdc5c28687641751">ProcChanceTestHelper::ApplyLevel60Reduction</a>(baseChance, 60);</div>
+<div class="line"><span class="lineno">  148</span>    EXPECT_NEAR(chanceAt60, baseChance, 0.01f)</div>
+<div class="line"><span class="lineno">  149</span>        &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; should have no reduction at level 60&quot;</span>;</div>
+<div class="line"><span class="lineno">  150</span> </div>
+<div class="line"><span class="lineno">  151</span>    <span class="comment">// Level 70: 33.33% reduction</span></div>
+<div class="line"><span class="lineno">  152</span>    <span class="keywordtype">float</span> chanceAt70 = <a class="code hl_function" href="../../d4/d02/a29500.html#a42fe0520c1fb9cedfdc5c28687641751">ProcChanceTestHelper::ApplyLevel60Reduction</a>(baseChance, 70);</div>
+<div class="line"><span class="lineno">  153</span>    <span class="keywordtype">float</span> expectedAt70 = baseChance * (1.0f - 10.0f/30.0f);</div>
+<div class="line"><span class="lineno">  154</span>    EXPECT_NEAR(chanceAt70, expectedAt70, 0.5f)</div>
+<div class="line"><span class="lineno">  155</span>        &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; should have 33% reduction at level 70&quot;</span>;</div>
+<div class="line"><span class="lineno">  156</span> </div>
+<div class="line"><span class="lineno">  157</span>    <span class="comment">// Level 80: 66.67% reduction</span></div>
+<div class="line"><span class="lineno">  158</span>    <span class="keywordtype">float</span> chanceAt80 = <a class="code hl_function" href="../../d4/d02/a29500.html#a42fe0520c1fb9cedfdc5c28687641751">ProcChanceTestHelper::ApplyLevel60Reduction</a>(baseChance, 80);</div>
+<div class="line"><span class="lineno">  159</span>    <span class="keywordtype">float</span> expectedAt80 = baseChance * (1.0f - 20.0f/30.0f);</div>
+<div class="line"><span class="lineno">  160</span>    EXPECT_NEAR(chanceAt80, expectedAt80, 0.5f)</div>
+<div class="line"><span class="lineno">  161</span>        &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; should have 66% reduction at level 80&quot;</span>;</div>
+<div class="line"><span class="lineno">  162</span> </div>
+<div class="line"><span class="lineno">  163</span>    <span class="comment">// Verify reduction is correct</span></div>
+<div class="line"><span class="lineno">  164</span>    EXPECT_LT(chanceAt80, chanceAt70)</div>
+<div class="line"><span class="lineno">  165</span>        &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; chance at 80 should be less than at 70&quot;</span>;</div>
+<div class="line"><span class="lineno">  166</span>    EXPECT_LT(chanceAt70, chanceAt60)</div>
+<div class="line"><span class="lineno">  167</span>        &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; chance at 70 should be less than at 60&quot;</span>;</div>
+<div class="line"><span class="lineno">  168</span>}</div>
+<div class="ttc" id="aa29500_html_a42fe0520c1fb9cedfdc5c28687641751"><div class="ttname"><a href="../../d4/d02/a29500.html#a42fe0520c1fb9cedfdc5c28687641751">ProcChanceTestHelper::ApplyLevel60Reduction</a></div><div class="ttdeci">static float ApplyLevel60Reduction(float baseChance, uint32 actorLevel)</div><div class="ttdoc">Calculate level 60+ reduction Implements PROC_ATTR_REDUCE_PROC_60: 3.333% reduction per level above 6...</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:63</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00063">ProcChanceTestHelper::ApplyLevel60Reduction()</a>, and <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>.</p>
+
+</div>
+</div>
+<a id="ab9058c909a63d95de8bfd74aa82b3e15" name="ab9058c909a63d95de8bfd74aa82b3e15"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab9058c909a63d95de8bfd74aa82b3e15">&#9670;&#160;</a></span>TEST_P() <span class="overload">[7/11]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_P </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ProcFlags_NotEmpty&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  299</span>{</div>
+<div class="line"><span class="lineno">  300</span>    <span class="comment">// Most entries should have proc flags OR spell family filters</span></div>
+<div class="line"><span class="lineno">  301</span>    <span class="comment">// Skip validation if both are zero (some entries use only SchoolMask)</span></div>
+<div class="line"><span class="lineno">  302</span>    <span class="keywordflow">if</span> (_entry.ProcFlags == 0 &amp;&amp; _entry.SpellFamilyName == 0 &amp;&amp; _entry.SchoolMask == 0)</div>
+<div class="line"><span class="lineno">  303</span>    {</div>
+<div class="line"><span class="lineno">  304</span>        <span class="comment">// This is a potential configuration issue, but not necessarily an error</span></div>
+<div class="line"><span class="lineno">  305</span>        <span class="comment">// Some entries are passive effects that don&#39;t proc from events</span></div>
+<div class="line"><span class="lineno">  306</span>    }</div>
+<div class="line"><span class="lineno">  307</span> </div>
+<div class="line"><span class="lineno">  308</span>    <span class="comment">// Just verify ProcFlags is valid (no invalid bits)</span></div>
+<div class="line"><span class="lineno">  309</span>    <span class="comment">// All valid proc flags are defined in SpellMgr.h</span></div>
+<div class="line"><span class="lineno">  310</span>    <span class="comment">// This is a basic sanity check</span></div>
+<div class="line"><span class="lineno">  311</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="af448a42e0a11ec958734ac4ea33e8e19" name="af448a42e0a11ec958734ac4ea33e8e19"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af448a42e0a11ec958734ac4ea33e8e19">&#9670;&#160;</a></span>TEST_P() <span class="overload">[8/11]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_P </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ReqManaCost_FlagSet&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  236</span>{</div>
+<div class="line"><span class="lineno">  237</span>    <span class="comment">// SKIP REASON: This test validates the PROC_ATTR_REQ_MANA_COST attribute.</span></div>
+<div class="line"><span class="lineno">  238</span>    <span class="comment">// Only 5 entries require the triggering spell to have a mana cost.</span></div>
+<div class="line"><span class="lineno">  239</span>    <span class="comment">// This prevents free spells (instant casts with no cost) from triggering procs.</span></div>
+<div class="line"><span class="lineno">  240</span>    <span class="comment">// Example: Illumination should only proc from actual heals, not free procs.</span></div>
+<div class="line"><span class="lineno">  241</span>    <span class="comment">// 864 entries don&#39;t care about mana cost, so this test is skipped for them.</span></div>
+<div class="line"><span class="lineno">  242</span>    <span class="keywordflow">if</span> (!(_entry.AttributesMask &amp; <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aa0f83922e25d093b01df847a65787873d">PROC_ATTR_REQ_MANA_COST</a>))</div>
+<div class="line"><span class="lineno">  243</span>        GTEST_SKIP() &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; doesn&#39;t have REQ_MANA_COST&quot;</span>;</div>
+<div class="line"><span class="lineno">  244</span> </div>
+<div class="line"><span class="lineno">  245</span>    <span class="comment">// Just verify the flag is properly set in the entry</span></div>
+<div class="line"><span class="lineno">  246</span>    EXPECT_TRUE(_procEntry.AttributesMask &amp; <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aa0f83922e25d093b01df847a65787873d">PROC_ATTR_REQ_MANA_COST</a>)</div>
+<div class="line"><span class="lineno">  247</span>        &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; REQ_MANA_COST should be set&quot;</span>;</div>
+<div class="line"><span class="lineno">  248</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00275">PROC_ATTR_REQ_MANA_COST</a>.</p>
+
+</div>
+</div>
+<a id="a289c402ebbd887d1bbc5c1198dff836c" name="a289c402ebbd887d1bbc5c1198dff836c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a289c402ebbd887d1bbc5c1198dff836c">&#9670;&#160;</a></span>TEST_P() <span class="overload">[9/11]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_P </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SpellId_NonZero&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  342</span>{</div>
+<div class="line"><span class="lineno">  343</span>    <span class="comment">// SpellId should never be zero</span></div>
+<div class="line"><span class="lineno">  344</span>    EXPECT_NE(_entry.SpellId, 0)</div>
+<div class="line"><span class="lineno">  345</span>        &lt;&lt; <span class="stringliteral">&quot;Entry has zero SpellId which is invalid&quot;</span>;</div>
+<div class="line"><span class="lineno">  346</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a1948ba797b47df6ef8c8b4a93a18c574" name="a1948ba797b47df6ef8c8b4a93a18c574"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1948ba797b47df6ef8c8b4a93a18c574">&#9670;&#160;</a></span>TEST_P() <span class="overload">[10/11]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_P </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">TriggeredCanProc_FlagSet&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  221</span>{</div>
+<div class="line"><span class="lineno">  222</span>    <span class="comment">// SKIP REASON: This test validates the PROC_ATTR_TRIGGERED_CAN_PROC attribute.</span></div>
+<div class="line"><span class="lineno">  223</span>    <span class="comment">// Most proc auras (796 entries) do NOT allow triggered spells to trigger them,</span></div>
+<div class="line"><span class="lineno">  224</span>    <span class="comment">// preventing infinite proc chains. Only 73 entries explicitly allow triggered</span></div>
+<div class="line"><span class="lineno">  225</span>    <span class="comment">// spells to proc (e.g., some talent effects that should chain-react).</span></div>
+<div class="line"><span class="lineno">  226</span>    <span class="comment">// Entries without this flag block triggered spell procs for safety.</span></div>
+<div class="line"><span class="lineno">  227</span>    <span class="keywordflow">if</span> (!(_entry.AttributesMask &amp; <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aaaebacd180f279fede2360781af5d414c">PROC_ATTR_TRIGGERED_CAN_PROC</a>))</div>
+<div class="line"><span class="lineno">  228</span>        GTEST_SKIP() &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; doesn&#39;t have TRIGGERED_CAN_PROC&quot;</span>;</div>
+<div class="line"><span class="lineno">  229</span> </div>
+<div class="line"><span class="lineno">  230</span>    <span class="comment">// Just verify the flag is properly set in the entry</span></div>
+<div class="line"><span class="lineno">  231</span>    EXPECT_TRUE(_procEntry.AttributesMask &amp; <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aaaebacd180f279fede2360781af5d414c">PROC_ATTR_TRIGGERED_CAN_PROC</a>)</div>
+<div class="line"><span class="lineno">  232</span>        &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; TRIGGERED_CAN_PROC should be set&quot;</span>;</div>
+<div class="line"><span class="lineno">  233</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00274">PROC_ATTR_TRIGGERED_CAN_PROC</a>.</p>
+
+</div>
+</div>
+<a id="a3c7bf6cc22706ec1710849f5cbb953bf" name="a3c7bf6cc22706ec1710849f5cbb953bf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3c7bf6cc22706ec1710849f5cbb953bf">&#9670;&#160;</a></span>TEST_P() <span class="overload">[11/11]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_P </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d50/a29660.html">SpellProcFullCoverageTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">UseStacksForCharges_Behavior&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  194</span>{</div>
+<div class="line"><span class="lineno">  195</span>    <span class="comment">// SKIP REASON: This test validates stack consumption instead of charge consumption.</span></div>
+<div class="line"><span class="lineno">  196</span>    <span class="comment">// Currently 0 entries use PROC_ATTR_USE_STACKS_FOR_CHARGES (attribute data may</span></div>
+<div class="line"><span class="lineno">  197</span>    <span class="comment">// need population). When set, this causes procs to decrement the aura&#39;s stack</span></div>
+<div class="line"><span class="lineno">  198</span>    <span class="comment">// count rather than its charge count.</span></div>
+<div class="line"><span class="lineno">  199</span>    <span class="comment">// Example: Druid&#39;s Eclipse - each proc reduces stacks until buff expires.</span></div>
+<div class="line"><span class="lineno">  200</span>    <span class="comment">// Most proc auras use charges (consumed individually) not stacks.</span></div>
+<div class="line"><span class="lineno">  201</span>    <span class="keywordflow">if</span> (!(_entry.AttributesMask &amp; <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a7fd74f5d829c140285ca6ed18c0e136aa689b2d43ebd5bf9a80c4bc523663aa74">PROC_ATTR_USE_STACKS_FOR_CHARGES</a>))</div>
+<div class="line"><span class="lineno">  202</span>        GTEST_SKIP() &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; doesn&#39;t use stacks for charges&quot;</span>;</div>
+<div class="line"><span class="lineno">  203</span> </div>
+<div class="line"><span class="lineno">  204</span>    <span class="keyword">auto</span> aura = <a class="code hl_class" href="../../d3/d26/a29480.html">AuraStubBuilder</a>()</div>
+<div class="line"><span class="lineno">  205</span>        .<a class="code hl_function" href="../../d3/d26/a29480.html#aa8dc59189364f6be82822588a47d32fd">WithId</a>(std::abs(_entry.SpellId))</div>
+<div class="line"><span class="lineno">  206</span>        .<a class="code hl_function" href="../../d3/d26/a29480.html#a04b37ad66dde7b61695a80db00c9ab66">WithStackAmount</a>(5)</div>
+<div class="line"><span class="lineno">  207</span>        .<a class="code hl_function" href="../../d3/d26/a29480.html#a7d5b970e591a239849e42a0c444f62d4">Build</a>();</div>
+<div class="line"><span class="lineno">  208</span> </div>
+<div class="line"><span class="lineno">  209</span>    <a class="code hl_struct" href="../../d6/d12/a11608.html">SpellProcEntry</a> testEntry = _procEntry;</div>
+<div class="line"><span class="lineno">  210</span>    testEntry.<a class="code hl_variable" href="../../d6/d12/a11608.html#aea5ca609c75ea7b314aec8ae0246297e">Chance</a> = 100.0f;</div>
+<div class="line"><span class="lineno">  211</span> </div>
+<div class="line"><span class="lineno">  212</span>    <span class="comment">// Consume should decrement stacks</span></div>
+<div class="line"><span class="lineno">  213</span>    <span class="keywordtype">bool</span> removed = <a class="code hl_function" href="../../d4/d02/a29500.html#a23aff9444cb03891a4d5c4cabad28610">ProcChanceTestHelper::SimulateConsumeProcCharges</a>(aura.get(), testEntry);</div>
+<div class="line"><span class="lineno">  214</span> </div>
+<div class="line"><span class="lineno">  215</span>    EXPECT_EQ(aura-&gt;GetStackAmount(), 4)</div>
+<div class="line"><span class="lineno">  216</span>        &lt;&lt; <span class="stringliteral">&quot;SpellId &quot;</span> &lt;&lt; _entry.SpellId &lt;&lt; <span class="stringliteral">&quot; should decrement stacks&quot;</span>;</div>
+<div class="line"><span class="lineno">  217</span>    EXPECT_FALSE(removed);</div>
+<div class="line"><span class="lineno">  218</span>}</div>
+<div class="ttc" id="aa29480_html"><div class="ttname"><a href="../../d3/d26/a29480.html">AuraStubBuilder</a></div><div class="ttdoc">Builder for creating AuraStub instances with fluent API.</div><div class="ttdef"><b>Definition:</b> AuraStub.h:290</div></div>
+<div class="ttc" id="aa29480_html_a04b37ad66dde7b61695a80db00c9ab66"><div class="ttname"><a href="../../d3/d26/a29480.html#a04b37ad66dde7b61695a80db00c9ab66">AuraStubBuilder::WithStackAmount</a></div><div class="ttdeci">AuraStubBuilder &amp; WithStackAmount(uint8_t amount)</div><div class="ttdef"><b>Definition:</b> AuraStub.h:320</div></div>
+<div class="ttc" id="aa29480_html_a7d5b970e591a239849e42a0c444f62d4"><div class="ttname"><a href="../../d3/d26/a29480.html#a7d5b970e591a239849e42a0c444f62d4">AuraStubBuilder::Build</a></div><div class="ttdeci">std::unique_ptr&lt; AuraStub &gt; Build()</div><div class="ttdef"><b>Definition:</b> AuraStub.h:353</div></div>
+<div class="ttc" id="aa29480_html_aa8dc59189364f6be82822588a47d32fd"><div class="ttname"><a href="../../d3/d26/a29480.html#aa8dc59189364f6be82822588a47d32fd">AuraStubBuilder::WithId</a></div><div class="ttdeci">AuraStubBuilder &amp; WithId(uint32_t id)</div><div class="ttdef"><b>Definition:</b> AuraStub.h:294</div></div>
+<div class="ttc" id="aa29500_html_a23aff9444cb03891a4d5c4cabad28610"><div class="ttname"><a href="../../d4/d02/a29500.html#a23aff9444cb03891a4d5c4cabad28610">ProcChanceTestHelper::SimulateConsumeProcCharges</a></div><div class="ttdeci">static bool SimulateConsumeProcCharges(AuraStub *aura, SpellProcEntry const &amp;procEntry)</div><div class="ttdoc">Simulate charge consumption from ConsumeProcCharges()</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:121</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00294">SpellProcEntry::Chance</a>, <a class="el" href="../../#l00277">PROC_ATTR_USE_STACKS_FOR_CHARGES</a>, <a class="el" href="../../#l00121">ProcChanceTestHelper::SimulateConsumeProcCharges()</a>, <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>, and <a class="el" href="../../#l00320">AuraStubBuilder::WithStackAmount()</a>.</p>
 
 </div>
 </div>
@@ -358,8 +1070,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_ac5beb3152ba3ce8038adbba12e192c7.html">tools</a></li><li class="navelem"><a class="el" href="../../dir_816589248c496bc2270bc4e83dc7035c.html">map_extractor</a></li><li class="navelem"><a class="el" href="../../d6/df5/a04826.html">adt.cpp</a></li>
-    <li class="footer">Generated on Mon Feb 16 2026 21:01:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d6/df5/a04826.html">SpellProcFullCoverageTest.cpp</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:14:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,7 +1,6 @@
 var a10972 =
 [
-    [ "PlayMusic", "dd/def/a10972.html#afee4b7ae9ac5f4f2b7365d3d00e7b581", null ],
-    [ "PlayMusic", "dd/def/a10972.html#ad3d833f70de5937365c2351aa5206bbf", null ],
-    [ "Write", "dd/def/a10972.html#ad01a67d76fe9dff269eac9108a27c75a", null ],
-    [ "SoundKitID", "dd/def/a10972.html#ad2342dd0c1461283c595af29c3bc9fe6", null ]
+    [ "GuildBankTextQuery", "dd/def/a10972.html#ab74c6b61182349e3697d6b8f2f3393d2", null ],
+    [ "Read", "dd/def/a10972.html#af20bd5c8e58b891028613625fb14807d", null ],
+    [ "Tab", "dd/def/a10972.html#a368054d83fb99317ffd14b4d79ffd0af", null ]
 ];

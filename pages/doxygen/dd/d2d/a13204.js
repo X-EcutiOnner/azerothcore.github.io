@@ -1,7 +1,6 @@
 var a13204 =
 [
-    [ "HandleScriptEffect", "dd/d2d/a13204.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
-    [ "PrepareSpellScript", "dd/d2d/a13204.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
-    [ "Register", "dd/d2d/a13204.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
-    [ "Validate", "dd/d2d/a13204.html#a20f7416465ba1cc04426f24037e8074e", null ]
+    [ "npc_grandmother", "dd/d2d/a13204.html#a6cffe8c574859779f6561dde0aef9666", null ],
+    [ "OnGossipHello", "dd/d2d/a13204.html#ae39335d22b5fd1fc4c0f9d34e8977124", null ],
+    [ "OnGossipSelect", "dd/d2d/a13204.html#a0e2b684377ed593abfbb49b730cfe9b2", null ]
 ];

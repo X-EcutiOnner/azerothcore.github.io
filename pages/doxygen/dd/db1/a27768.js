@@ -1,8 +1,8 @@
 var a27768 =
 [
-    [ "npc_riggle_bassbaitAI", "d6/da6/a27772.html", "d6/da6/a27772" ],
-    [ "npc_riggle_bassbait", "dd/db1/a27768.html#afc4280099cda3c28c4634d649e636839", null ],
-    [ "GetAI", "dd/db1/a27768.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
-    [ "OnGossipHello", "dd/db1/a27768.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
-    [ "OnQuestReward", "dd/db1/a27768.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
+    [ "HandleDummy", "dd/db1/a27768.html#ad2eec86cff225cc0bd806e31596fb127", null ],
+    [ "PrepareSpellScript", "dd/db1/a27768.html#a59a04dcfee911c70e13ea8d27b4a49c4", null ],
+    [ "Register", "dd/db1/a27768.html#a6c72b4c813368774283ae94036a43ee2", null ],
+    [ "SendMiss", "dd/db1/a27768.html#a7c6d300e60ed492c82d5c017d3e73ed1", null ],
+    [ "Validate", "dd/db1/a27768.html#a9a5014de08f73ad5dad29354812030ac", null ]
 ];

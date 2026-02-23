@@ -1,14 +1,7 @@
 var a26300 =
 [
-    [ "AfterCheckProc", "d9/d7a/a26300.html#ae6ac733a614be543c04b57379b84aaca", null ],
-    [ "CheckProc", "d9/d7a/a26300.html#aa533054a5cd434ef3e02767a0a87db62", null ],
-    [ "GetProcSpell", "d9/d7a/a26300.html#af9fc6eb0c61c4084307fc2f7fb38973b", null ],
-    [ "HandleAfterEffectProc", "d9/d7a/a26300.html#aaa577b07d61ddc6e7af175c76ce63b11", null ],
-    [ "HandleOnEffectProc", "d9/d7a/a26300.html#a5bb5345754505cca5f9c840dc5bb9dfb", null ],
-    [ "PrepareAuraScript", "d9/d7a/a26300.html#a111821352b6d26f51878ce81b173ef6d", null ],
-    [ "Register", "d9/d7a/a26300.html#a9ba0584da94cf51b8cd8fe7da50fc1b0", null ],
-    [ "ResetProcState", "d9/d7a/a26300.html#a9f7371edfa971c56e15cef94d6fb0117", null ],
-    [ "_chance", "d9/d7a/a26300.html#ab644c981163424fbaa05650dc6505ae1", null ],
-    [ "_procSpellDelayMoment", "d9/d7a/a26300.html#a0477619c024d2f2f505e7617fb057691", null ],
-    [ "_spell", "d9/d7a/a26300.html#a07a855a4806bac873eb40505f805c39f", null ]
+    [ "HandleProc", "d9/d7a/a26300.html#aed93f4b7af2194f765375b8f5e0318f7", null ],
+    [ "PrepareAuraScript", "d9/d7a/a26300.html#a10e7c8e5df3cc2e13450fc6ee9f30342", null ],
+    [ "Register", "d9/d7a/a26300.html#afb0a37d7f0e8dac4a2aa4bf4d35f470a", null ],
+    [ "Validate", "d9/d7a/a26300.html#a690f78253492b2d509d0ce1cf7807ffa", null ]
 ];

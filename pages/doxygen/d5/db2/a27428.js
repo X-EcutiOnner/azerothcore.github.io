@@ -1,8 +1,7 @@
 var a27428 =
 [
-    [ "FilterTargets", "d5/db2/a27428.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
-    [ "HandleEffect", "d5/db2/a27428.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
-    [ "PrepareSpellScript", "d5/db2/a27428.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
-    [ "Register", "d5/db2/a27428.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
-    [ "Validate", "d5/db2/a27428.html#aabc063155fad404ffd044c9f79b88051", null ]
+    [ "PeriodicTick", "d5/db2/a27428.html#a0093da1cb71f87bb7302bf6ccc9a255c", null ],
+    [ "PrepareAuraScript", "d5/db2/a27428.html#afd362a7dd0373e9480445a99023a5c8c", null ],
+    [ "Register", "d5/db2/a27428.html#a0332788648661d5c2665c5d1431e4ca7", null ],
+    [ "Validate", "d5/db2/a27428.html#aecb5c0c9f5258a3ce7ff18cf08f89845", null ]
 ];

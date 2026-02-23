@@ -1,9 +1,7 @@
 var a20768 =
 [
-    [ "npc_ulduar_dark_rune_watcherAI", "dc/d4a/a20768.html#a2239253c2c4760b130ace4a07ef1e8c4", null ],
-    [ "CanAIAttack", "dc/d4a/a20768.html#a891e354dc27f0d53e06a0cf2eea46970", null ],
-    [ "Reset", "dc/d4a/a20768.html#a79a1081a50ded7afc5f81ed4234be59d", null ],
-    [ "UpdateAI", "dc/d4a/a20768.html#a58c5f53f74055b89c11ed27ffe908732", null ],
-    [ "timer1", "dc/d4a/a20768.html#aab38ff79ca8fc867a3d6c6512d0376c8", null ],
-    [ "timer2", "dc/d4a/a20768.html#a7b4eb188939c15f11a6b2532853ad798", null ]
+    [ "FilterTargets", "dc/d4a/a20768.html#a582691eca81b6db6d78ca925ad8fb084", null ],
+    [ "PrepareSpellScript", "dc/d4a/a20768.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
+    [ "RecalculateDamage", "dc/d4a/a20768.html#a02c1af0414de344056b2375488f23c01", null ],
+    [ "Register", "dc/d4a/a20768.html#a1e030067944878000b731edf456d6bc8", null ]
 ];

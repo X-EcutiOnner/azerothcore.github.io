@@ -1,5 +1,7 @@
 var a13104 =
 [
-    [ "at_karazhan_side_entrance", "db/df8/a13104.html#abdaa7339a53941e2e89c4fcd439395fc", null ],
-    [ "_OnTrigger", "db/df8/a13104.html#a80d0018a9442ef7f0834dc329047e135", null ]
+    [ "FilterTargets", "db/df8/a13104.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
+    [ "Load", "db/df8/a13104.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
+    [ "PrepareSpellScript", "db/df8/a13104.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
+    [ "Register", "db/df8/a13104.html#ae366530ddacf45a92eaa36be7e706a84", null ]
 ];

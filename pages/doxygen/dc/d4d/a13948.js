@@ -1,13 +1,8 @@
 var a13948 =
 [
-    [ "npc_lord_gregor_lescovarAI", "dc/d4d/a13948.html#ab3ed8a9536fc6be948f280e319d4fec7", null ],
-    [ "DoGuardsDisappearAndDie", "dc/d4d/a13948.html#a8588cae3dc8aa3dd46c55439d355df9b", null ],
-    [ "EnterEvadeMode", "dc/d4d/a13948.html#a95e60614808191e4c1f909f5e38e4741", null ],
-    [ "JustEngagedWith", "dc/d4d/a13948.html#ad0ca7d80d68b9623b99c644daa8f4c57", null ],
-    [ "Reset", "dc/d4d/a13948.html#a06df695e9acd96b07f4e58c9461a708c", null ],
-    [ "UpdateAI", "dc/d4d/a13948.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
-    [ "WaypointReached", "dc/d4d/a13948.html#ad91850dc72d0307e28b881717bfba6db", null ],
-    [ "MarzonGUID", "dc/d4d/a13948.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
-    [ "uiPhase", "dc/d4d/a13948.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
-    [ "uiTimer", "dc/d4d/a13948.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]
+    [ "HandleEffectApply", "dc/d4d/a13948.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
+    [ "HandleEffectRemove", "dc/d4d/a13948.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
+    [ "Load", "dc/d4d/a13948.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
+    [ "PrepareAuraScript", "dc/d4d/a13948.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
+    [ "Register", "dc/d4d/a13948.html#a6a90296c9903ce65913f3bba29dea176", null ]
 ];

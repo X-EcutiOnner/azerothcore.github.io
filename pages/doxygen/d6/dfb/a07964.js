@@ -1,5 +1,11 @@
 var a07964 =
 [
-    [ "flags", "d6/dfb/a07964.html#ac55cea8114883b0000fb9fd195910f65", null ],
-    [ "params", "d6/dfb/a07964.html#a5426d7accbe5734016fed99e632ea313", null ]
+    [ "EnchantId", "d6/dfb/a07964.html#ad68d4f09195ba9c2a74bc9187e1cc1dd", null ],
+    [ "GemEnchantId", "d6/dfb/a07964.html#a680481a1dcc0a163cabeb02e426d89cd", null ],
+    [ "IsBuggedInspectLink", "d6/dfb/a07964.html#a1db96c31b140774302c633e99bcea93f", null ],
+    [ "Item", "d6/dfb/a07964.html#a89b08bf0a3fb31ef6c0f71919b05195e", null ],
+    [ "RandomProperty", "d6/dfb/a07964.html#a07871677ea967da347a6debafa7c91e7", null ],
+    [ "RandomSuffix", "d6/dfb/a07964.html#a39126c77bdd1d3d850a20cf02bb034ae", null ],
+    [ "RandomSuffixBaseAmount", "d6/dfb/a07964.html#aa9a99d071ee623b0df6f456199e1262a", null ],
+    [ "RenderLevel", "d6/dfb/a07964.html#acb1024455a3b847ea13390c05b79cd0c", null ]
 ];

@@ -1,12 +1,10 @@
 var a07780 =
 [
-    [ "value_type", "d0/df0/a07780.html#ad430aafb433483e30d12567e7e8c2915", null ],
-    [ "GetID", "d0/df0/a07780.html#a73dd0adf980c5c3d2e272f9709ece880", null ],
-    [ "GetName", "d0/df0/a07780.html#aae4efee3e6e7d403b0c6f5d484814b81", null ],
-    [ "operator std::string const &", "d0/df0/a07780.html#a3530d83607efda9b3f50a61959da3267", null ],
-    [ "operator std::string_view", "d0/df0/a07780.html#a6b77a74762705e00d73b751a5f947e05", null ],
-    [ "operator uint32", "d0/df0/a07780.html#abffff20cfe5d5b3936ac345c5082258f", null ],
-    [ "TryConsume", "d0/df0/a07780.html#abc0041bef0d0171b54acbdcf6b18f611", null ],
-    [ "_id", "d0/df0/a07780.html#a844e7f79db885f3076958b0e6d423b4e", null ],
-    [ "_name", "d0/df0/a07780.html#a63bb52a0619ceef7b1af1b97d52a7373", null ]
+    [ "value_type", "d0/df0/a07780.html#a821f7b556a5e7dd88e406eb856a5b635", null ],
+    [ "operator()", "d0/df0/a07780.html#a51db58c653c279b30d19e9188894adec", null ],
+    [ "operator()", "d0/df0/a07780.html#a6225e55f229eca06eef7e6c27531bbe9", null ],
+    [ "operator()", "d0/df0/a07780.html#ab516399a6965a67daed318a1058c87ef", null ],
+    [ "operator()", "d0/df0/a07780.html#abeeef774a78ec84f0020686aab425a5c", null ],
+    [ "operator()", "d0/df0/a07780.html#a0d4e9cb0ae75752363793d29599afbdc", null ],
+    [ "operator()", "d0/df0/a07780.html#a4a277a9ad5764e42c53746999e004b88", null ]
 ];

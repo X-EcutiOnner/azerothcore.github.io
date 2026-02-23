@@ -1,7 +1,5 @@
 var a15792 =
 [
-    [ "npc_giant_spotlightAI", "d3/d35/a15792.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
-    [ "Reset", "d3/d35/a15792.html#a79f6703107eed52a3aeae30393507c0f", null ],
-    [ "UpdateAI", "d3/d35/a15792.html#a8567f936dd15933300497d5abe80a272", null ],
-    [ "events", "d3/d35/a15792.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
+    [ "go_bristlelimb_cage", "d3/d35/a15792.html#ab965b9c529577a5e58639285fa35d3d7", null ],
+    [ "OnGossipHello", "d3/d35/a15792.html#a6f29e07550767c1c0610f46e4921503f", null ]
 ];

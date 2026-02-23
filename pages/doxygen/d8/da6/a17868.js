@@ -1,6 +1,9 @@
 var a17868 =
 [
-    [ "npc_gunship_mageAI", "d0/d25/a17872.html", "d0/d25/a17872" ],
-    [ "npc_gunship_mage", "d8/da6/a17868.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
-    [ "GetAI", "d8/da6/a17868.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
+    [ "CheckProc", "d8/da6/a17868.html#a13426f7a45e9434f980b42f174b22da8", null ],
+    [ "HandlePeriodicTick", "d8/da6/a17868.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
+    [ "HandleProc", "d8/da6/a17868.html#abf744d64dae5835bff3877eeaa919af3", null ],
+    [ "PrepareAuraScript", "d8/da6/a17868.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
+    [ "Register", "d8/da6/a17868.html#a1b72c10256365de71b8f9fadf5886338", null ],
+    [ "Validate", "d8/da6/a17868.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
 ];

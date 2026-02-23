@@ -1,5 +1,6 @@
 var a28088 =
 [
-    [ "ID", "d7/d00/a28088.html#a4a79da5825cf01d38d6ab9d98e033964", null ],
-    [ "parentCategory", "d7/d00/a28088.html#a705e301dff461a8d7aefdc6fb29d39cc", null ]
+    [ "go_tadpole_cageAI", "dd/d12/a28092.html", "dd/d12/a28092" ],
+    [ "go_tadpole_cage", "d7/d00/a28088.html#a1a9acacd0ebff33d402018d4205e415b", null ],
+    [ "GetAI", "d7/d00/a28088.html#a38990dc5edd725623b6c35dba7802612", null ]
 ];

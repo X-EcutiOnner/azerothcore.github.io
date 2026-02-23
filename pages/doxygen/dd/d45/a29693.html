@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/apps/worldserver/Main.cpp File Reference</title>
+<title>AzerothCore: Member List</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('dd/d45/a29693.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('da/deb/a29696.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,114 +104,40 @@ $(document).ready(function(){initNavTree('dd/d45/a29693.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">Main.cpp File Reference<div class="ingroups"><a class="el" href="../../d4/dcf/a04781.html">Acore Daemon</a></div></div></div>
+  <div class="headertitle"><div class="title">SpellProcTestEntry Member List</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ACSoap.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AppenderDB.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AsyncAcceptor.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Banner.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BigNumber.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CliRunnable.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Config.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DatabaseLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GitRevision.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">IoContext.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Metric.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ModuleMgr.h</a>&quot;</code><br />
-<code>#include &quot;ModulesScriptLoader.h&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MySQLThreading.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">OpenSSLCrypto.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">OutdoorPvPMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ProcessPriority.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">RASession.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">RealmList.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Resolver.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SecretMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SteadyTimer.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldSessionMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldSocket.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldSocketMgr.h</a>&quot;</code><br />
-<code>#include &lt;boost/asio/signal_set.hpp&gt;</code><br />
-<code>#include &lt;boost/program_options.hpp&gt;</code><br />
-<code>#include &lt;csignal&gt;</code><br />
-<code>#include &lt;filesystem&gt;</code><br />
-<code>#include &lt;iostream&gt;</code><br />
-<code>#include &lt;openssl/crypto.h&gt;</code><br />
-<code>#include &lt;openssl/opensslv.h&gt;</code><br />
-<code>#include &quot;<a class="el" href="../../">ServiceWin32.h</a>&quot;</code><br />
-<code>#include &lt;boost/dll/shared_library.hpp&gt;</code><br />
-<code>#include &lt;timeapi.h&gt;</code><br />
-</div>
-<p><a href="">Go to the source code of this file.</a></p>
-<table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dcd/a05680.html">FreezeDetector</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:ga1d466b8deaea4c5b80b4abcdc38991fd"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dcf/a04781.html#ga1d466b8deaea4c5b80b4abcdc38991fd">_ACORE_CORE_CONFIG</a>&#160;&#160;&#160;&quot;worldserver.conf&quot;</td></tr>
-<tr class="separator:ga1d466b8deaea4c5b80b4abcdc38991fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:gad82d96de9a84a7d0325afcd3121344a4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dcf/a04781.html#gad82d96de9a84a7d0325afcd3121344a4">SignalHandler</a> (boost::system::error_code const &amp;error, int signalNumber)</td></tr>
-<tr class="separator:gad82d96de9a84a7d0325afcd3121344a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga285010ee0ae83f9198f08fa3145877d7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dcf/a04781.html#ga285010ee0ae83f9198f08fa3145877d7">ClearOnlineAccounts</a> ()</td></tr>
-<tr class="memdesc:ga285010ee0ae83f9198f08fa3145877d7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Clear 'online' status for all accounts with characters in this realm.  <a href="../../d4/dcf/a04781.html#ga285010ee0ae83f9198f08fa3145877d7">More...</a><br /></td></tr>
-<tr class="separator:ga285010ee0ae83f9198f08fa3145877d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga1551df43a48f1dbf64dbec1e47b07eea"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dcf/a04781.html#ga1551df43a48f1dbf64dbec1e47b07eea">StartDB</a> ()</td></tr>
-<tr class="memdesc:ga1551df43a48f1dbf64dbec1e47b07eea"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initialize connection to the databases.  <a href="../../d4/dcf/a04781.html#ga1551df43a48f1dbf64dbec1e47b07eea">More...</a><br /></td></tr>
-<tr class="separator:ga1551df43a48f1dbf64dbec1e47b07eea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga927af1587546ee7503a3b9a18f6439c0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dcf/a04781.html#ga927af1587546ee7503a3b9a18f6439c0">StopDB</a> ()</td></tr>
-<tr class="separator:ga927af1587546ee7503a3b9a18f6439c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga74b21e249952fe0d6d779ee217c76dc5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dcf/a04781.html#ga74b21e249952fe0d6d779ee217c76dc5">LoadRealmInfo</a> (<a class="el" href="../../d0/d62/a04888.html">Acore::Asio::IoContext</a> &amp;ioContext)</td></tr>
-<tr class="separator:ga74b21e249952fe0d6d779ee217c76dc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga0781c2ca38d89a89b174f81fb895285b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d35/a28544.html">AsyncAcceptor</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dcf/a04781.html#ga0781c2ca38d89a89b174f81fb895285b">StartRaSocketAcceptor</a> (<a class="el" href="../../d0/d62/a04888.html">Acore::Asio::IoContext</a> &amp;ioContext)</td></tr>
-<tr class="separator:ga0781c2ca38d89a89b174f81fb895285b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gaafe46b3c9a56a31faa60963b6a1f202a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dcf/a04781.html#gaafe46b3c9a56a31faa60963b6a1f202a">ShutdownCLIThread</a> (std::thread *cliThread)</td></tr>
-<tr class="separator:gaafe46b3c9a56a31faa60963b6a1f202a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga62605923595bdfa644784c8a929fa1a7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dcf/a04781.html#ga62605923595bdfa644784c8a929fa1a7">WorldUpdateLoop</a> ()</td></tr>
-<tr class="separator:ga62605923595bdfa644784c8a929fa1a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gab889056920cce8fbe96e920cea5fd9e6"><td class="memItemLeft" align="right" valign="top">variables_map&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dcf/a04781.html#gab889056920cce8fbe96e920cea5fd9e6">GetConsoleArguments</a> (int argc, char **argv, fs::path &amp;configFile, std::string &amp;cfg_service)</td></tr>
-<tr class="separator:gab889056920cce8fbe96e920cea5fd9e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga3c04138a5bfe5d72780bb7e82a18e627"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dcf/a04781.html#ga3c04138a5bfe5d72780bb7e82a18e627">main</a> (int argc, char **argv)</td></tr>
-<tr class="memdesc:ga3c04138a5bfe5d72780bb7e82a18e627"><td class="mdescLeft">&#160;</td><td class="mdescRight">Launch the Azeroth server.  <a href="../../d4/dcf/a04781.html#ga3c04138a5bfe5d72780bb7e82a18e627">More...</a><br /></td></tr>
-<tr class="separator:ga3c04138a5bfe5d72780bb7e82a18e627"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:ga69c549a4f4a1e88fa4a2c38cde62f569"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dcf/a04781.html#ga69c549a4f4a1e88fa4a2c38cde62f569">serviceName</a> [] = &quot;worldserver&quot;</td></tr>
-<tr class="separator:ga69c549a4f4a1e88fa4a2c38cde62f569"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga34b5207234887e0d62724cf770037f6f"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dcf/a04781.html#ga34b5207234887e0d62724cf770037f6f">serviceLongName</a> [] = &quot;AzerothCore world service&quot;</td></tr>
-<tr class="separator:ga34b5207234887e0d62724cf770037f6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga2994dda4045f1e2d3d675565a16a4dd2"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dcf/a04781.html#ga2994dda4045f1e2d3d675565a16a4dd2">serviceDescription</a> [] = &quot;AzerothCore <a class="el" href="../../d7/d24/a11592.html">World</a> of Warcraft emulator world service&quot;</td></tr>
-<tr class="separator:ga2994dda4045f1e2d3d675565a16a4dd2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gabad888b856358b30aa3928d7e01916fb"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dcf/a04781.html#gabad888b856358b30aa3928d7e01916fb">m_ServiceStatus</a> = -1</td></tr>
-<tr class="separator:gabad888b856358b30aa3928d7e01916fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
-</div><!-- contents -->
+
+<p>This is the complete list of members for <a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a>, including all inherited members.</p>
+<table class="directory">
+  <tr class="even"><td class="entry"><a class="el" href="../../da/deb/a29696.html#ada68807ba3950313c5a7652a7fe85c40">AddsValueBeyondDBC</a>() const</td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/deb/a29696.html#a32a562ccd8812c33b385fb6a4812693f">AttributesMask</a></td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/deb/a29696.html#a9e4e897bb784e63d991e76f8efd393ab">Chance</a></td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/deb/a29696.html#a1795067c9622f90fe10afaa9086729d2">Charges</a></td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/deb/a29696.html#a8ae054e7700edebf204b6b9d5285b570">Cooldown</a></td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/deb/a29696.html#a687725337f68ab28c9f862997666b979">DBC_ProcChance</a></td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/deb/a29696.html#a674bdd693e94bea55c93985a04a3cde5">DBC_ProcCharges</a></td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/deb/a29696.html#aba345f90612d66a1ae8ff83b863c3752">DBC_ProcFlags</a></td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/deb/a29696.html#a255f45e42d9ad7f4a1a71b12289f6280">DisableEffectsMask</a></td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/deb/a29696.html#a70c20b8efd966a3051591e4292957f21">HasDBCData</a>() const</td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/deb/a29696.html#aac7528939d9f28432649a5e947cb112b">HitMask</a></td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/deb/a29696.html#ac62ba46b22a759991731a15b17ccf3d9">ProcFlags</a></td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/deb/a29696.html#a1005dd21ca315c4ee18cc1f0b1147590">ProcsPerMinute</a></td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/deb/a29696.html#ab76502dd0f6d6e9fa8608800547b097c">SchoolMask</a></td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/deb/a29696.html#a8b316b64763de61fabe8eee119a3c33b">SpellFamilyMask0</a></td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/deb/a29696.html#a0f2454783d5fcd2b751b40b8e32d8476">SpellFamilyMask1</a></td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/deb/a29696.html#a74093101a8fe41b8bb641da9957d6ef2">SpellFamilyMask2</a></td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/deb/a29696.html#a11a0c26f6d3e6f3b8e47e1c968841094">SpellFamilyName</a></td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/deb/a29696.html#ad78ff047d8971788febae990abc86698">SpellId</a></td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/deb/a29696.html#ab2356da98d2b2c9d250d1c86056a427c">SpellPhaseMask</a></td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../da/deb/a29696.html#a8ac8ca4ac8ed7eb60de720bb0bac36b1">SpellTypeMask</a></td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../da/deb/a29696.html#a70ebb9c47633f6c55f863593d1f1b0d7">ToSpellProcEntry</a>() const</td><td class="entry"><a class="el" href="../../da/deb/a29696.html">SpellProcTestEntry</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+</table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c8498b4bff487486cc5ffdac4c412cf7.html">apps</a></li><li class="navelem"><a class="el" href="../../dir_4a0dc471e712914507a0672b672729a4.html">worldserver</a></li><li class="navelem"><a class="el" href="../../dd/d45/a29693.html">Main.cpp</a></li>
-    <li class="footer">Generated on Mon Aug 25 2025 20:46:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:16:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

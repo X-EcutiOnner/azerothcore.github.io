@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Server/WorldSession.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/apps/worldserver/ACSoap/ACSoap.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,176 +106,137 @@ $(document).ready(function(){initNavTree('de/dca/a01907.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">WorldSession.h File Reference<div class="ingroups"><a class="el" href="../../df/dcf/a04842.html">User to World Communication</a></div></div></div>
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">ACSoap.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AccountMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AddonMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AuthDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CircularBuffer.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GossipDef.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Packet.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
-<code>#include &lt;map&gt;</code><br />
-<code>#include &lt;memory&gt;</code><br />
-<code>#include &lt;utility&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &lt;future&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d21/a11313.html">AccountData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/ddb/a11317.html">PacketFilter</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d11/a11321.html">MapSessionFilter</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d58/a11325.html">WorldSessionFilter</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d5b/a11329.html">CharacterCreateInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dd1/a11333.html">CharacterRenameInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/ddf/a11337.html">CharacterCustomizeInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db8/a11341.html">CharacterFactionChangeInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d75/a11345.html">PacketCounter</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d3e/a11349.html">WorldSession</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="../../d7/d1c/a08737.html">Player</a> session in the <a class="el" href="../../dc/d38/a11889.html" title="The World.">World</a>.  <a href="../../de/d3e/a11349.html#details">More...</a><br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d77/a11353.html">WorldSession::DosProtection</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d49/a05864.html">SOAPCommand</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:dc/dc4/a04893"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc4/a04893.html">lfg</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d9/d2e/a04900"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d2e/a04900.html">WorldPackets</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d6/d54/a04918"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d54/a04918.html">WorldPackets::LFG</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:dd/dcf/a04913"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dcf/a04913.html">WorldPackets::Chat</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:dc/d52/a04912"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d52/a04912.html">WorldPackets::Character</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d1/db7/a04924"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/db7/a04924.html">WorldPackets::Totem</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d5/de6/a04910"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/de6/a04910.html">WorldPackets::Bank</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:da/dea/a04915"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dea/a04915.html">WorldPackets::Combat</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:db/d24/a04901"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d24/a04901.html">WorldPackets::Guild</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d4/d8a/a04919"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d8a/a04919.html">WorldPackets::Misc</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:de/de4/a04922"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de4/a04922.html">WorldPackets::Pet</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d9/d52/a04923"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d52/a04923.html">WorldPackets::Query</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:df/dd6/a04917"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd6/a04917.html">WorldPackets::Item</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d7/dda/a04911"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dda/a04911.html">WorldPackets::Calendar</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:da/d05/a04920"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d05/a04920.html">WorldPackets::NPC</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d1/d58/a04916"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d58/a04916.html">WorldPackets::Instance</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:gafb353aeb5e84007c9b55aa50ba6e3ddc"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dcf/a04842.html#gafb353aeb5e84007c9b55aa50ba6e3ddc">NUM_ACCOUNT_DATA_TYPES</a>&#160;&#160;&#160;8</td></tr>
-<tr class="separator:gafb353aeb5e84007c9b55aa50ba6e3ddc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gabaf56bd86a496e0886a553118d6ffb08"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dcf/a04842.html#gabaf56bd86a496e0886a553118d6ffb08">GLOBAL_CACHE_MASK</a>&#160;&#160;&#160;0x15</td></tr>
-<tr class="separator:gabaf56bd86a496e0886a553118d6ffb08"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga38a03c6cd9103a9891842f233758fbe7"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dcf/a04842.html#ga38a03c6cd9103a9891842f233758fbe7">PER_CHARACTER_CACHE_MASK</a>&#160;&#160;&#160;0xEA</td></tr>
-<tr class="separator:ga38a03c6cd9103a9891842f233758fbe7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:gadab21b8c7fecf26675a55eea7811812d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dcf/a04842.html#gadab21b8c7fecf26675a55eea7811812d">AccountDataType</a> { <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#ggadab21b8c7fecf26675a55eea7811812daada79ad8567ef8c1839bb4aa1388f59c">GLOBAL_CONFIG_CACHE</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#ggadab21b8c7fecf26675a55eea7811812da3199deafd9678b717f9357659ed271b0">PER_CHARACTER_CONFIG_CACHE</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#ggadab21b8c7fecf26675a55eea7811812da580bf2ae915070c0cb1dfa2a2c470936">GLOBAL_BINDINGS_CACHE</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#ggadab21b8c7fecf26675a55eea7811812daaa2164f22e7a6cd3e9211bdd39c1c4e6">PER_CHARACTER_BINDINGS_CACHE</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#ggadab21b8c7fecf26675a55eea7811812da2bffb16258c4258924334e7231928217">GLOBAL_MACROS_CACHE</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#ggadab21b8c7fecf26675a55eea7811812da0d53cc3dcb154b042fe7a1b81404752c">PER_CHARACTER_MACROS_CACHE</a> = 5
-, <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#ggadab21b8c7fecf26675a55eea7811812da8db107b5c382a0630b177b9f521dd87c">PER_CHARACTER_LAYOUT_CACHE</a> = 6
-, <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#ggadab21b8c7fecf26675a55eea7811812da5dbeffe8a7f8c60877f3f41a4e813327">PER_CHARACTER_CHAT_CACHE</a> = 7
-<br />
- }</td></tr>
-<tr class="separator:gadab21b8c7fecf26675a55eea7811812d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gaa4a0361b2172789575d5eac42ecb612a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dcf/a04842.html#gaa4a0361b2172789575d5eac42ecb612a">PartyOperation</a> { <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#ggaa4a0361b2172789575d5eac42ecb612aa8b30d82ca0b8d909d0445472f4003036">PARTY_OP_INVITE</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#ggaa4a0361b2172789575d5eac42ecb612aaea450b61d9aa99430d227f2bc20ba66e">PARTY_OP_UNINVITE</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#ggaa4a0361b2172789575d5eac42ecb612aaf8c14598abfe7de9431f923cce924457">PARTY_OP_LEAVE</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#ggaa4a0361b2172789575d5eac42ecb612aac2c1d8e8f575d57bed2ae682d80c1a14">PARTY_OP_SWAP</a> = 4
-<br />
- }</td></tr>
-<tr class="separator:gaa4a0361b2172789575d5eac42ecb612a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gae00b3f15198199be79029b7f245cba4e"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dcf/a04842.html#gae00b3f15198199be79029b7f245cba4e">BFLeaveReason</a> { <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#ggae00b3f15198199be79029b7f245cba4eaa804834f71e74d728992a144bc3a4bf7">BF_LEAVE_REASON_CLOSE</a> = 0x00000001
-, <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#ggae00b3f15198199be79029b7f245cba4eac58152c3c20952288b738bbcd94b6e04">BF_LEAVE_REASON_EXITED</a> = 0x00000008
-, <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#ggae00b3f15198199be79029b7f245cba4ea409833e268b63d87c8329740d22f8d6d">BF_LEAVE_REASON_LOW_LEVEL</a> = 0x00000010
-<br />
- }</td></tr>
-<tr class="separator:gae00b3f15198199be79029b7f245cba4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga54cc6595f95ac4f430e8540afc94f13d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dcf/a04842.html#ga54cc6595f95ac4f430e8540afc94f13d">ChatRestrictionType</a> { <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#gga54cc6595f95ac4f430e8540afc94f13da86e568474f13bb72e15b8e92a270b1c9">ERR_CHAT_RESTRICTED</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#gga54cc6595f95ac4f430e8540afc94f13da34a062f33bdc742a4c6be1f28ef613e7">ERR_CHAT_THROTTLED</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#gga54cc6595f95ac4f430e8540afc94f13da9bbb4686187f6e5c88606f90f22b18c8">ERR_USER_SQUELCHED</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#gga54cc6595f95ac4f430e8540afc94f13da584e0c0e91185b9f8d415b89e5cbacd7">ERR_YELL_RESTRICTED</a> = 3
-<br />
- }</td></tr>
-<tr class="separator:ga54cc6595f95ac4f430e8540afc94f13d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga98490641bb011ba9187ee1ed5c94b406"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dcf/a04842.html#ga98490641bb011ba9187ee1ed5c94b406">DeclinedNameResult</a> { <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#gga98490641bb011ba9187ee1ed5c94b406add610d06699db29b6f69db8b69d87267">DECLINED_NAMES_RESULT_SUCCESS</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#gga98490641bb011ba9187ee1ed5c94b406ae7ea9b45868387cbcd0f7aff13476683">DECLINED_NAMES_RESULT_ERROR</a> = 1
-<br />
- }</td></tr>
-<tr class="separator:ga98490641bb011ba9187ee1ed5c94b406"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gae6a6780680157e01b09a257d84b150c7"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dcf/a04842.html#gae6a6780680157e01b09a257d84b150c7">CharterTypes</a> { <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#ggae6a6780680157e01b09a257d84b150c7abc99a46e1b6360a30376c4500292e27c">GUILD_CHARTER_TYPE</a> = 9
-, <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#ggae6a6780680157e01b09a257d84b150c7a917d335b0e9d21fec525d5daed0c1356">ARENA_TEAM_CHARTER_2v2_TYPE</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#ggae6a6780680157e01b09a257d84b150c7aed12afbbdd721e734868da792db28482">ARENA_TEAM_CHARTER_3v3_TYPE</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../df/dcf/a04842.html#ggae6a6780680157e01b09a257d84b150c7afa2e8ef459ee0af6eea7b2be7ce30841">ARENA_TEAM_CHARTER_5v5_TYPE</a> = 5
-<br />
- }</td></tr>
-<tr class="separator:gae6a6780680157e01b09a257d84b150c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:abf914e30c869f88f2fafb9f656320c6a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dca/a01907.html#abf914e30c869f88f2fafb9f656320c6a">process_message</a> (struct soap *soap_message)</td></tr>
+<tr class="separator:abf914e30c869f88f2fafb9f656320c6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69e574c9a3cecf7c395cd036bb672ed3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dca/a01907.html#a69e574c9a3cecf7c395cd036bb672ed3">ACSoapThread</a> (const std::string &amp;host, <a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> port)</td></tr>
+<tr class="separator:a69e574c9a3cecf7c395cd036bb672ed3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a69e574c9a3cecf7c395cd036bb672ed3" name="a69e574c9a3cecf7c395cd036bb672ed3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a69e574c9a3cecf7c395cd036bb672ed3">&#9670;&#160;</a></span>ACSoapThread()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ACSoapThread </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>host</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>port</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
+<div class="line"><span class="lineno">   26</span>    <span class="keyword">struct </span>soap soap;</div>
+<div class="line"><span class="lineno">   27</span>    soap_init(&amp;soap);</div>
+<div class="line"><span class="lineno">   28</span>    soap_set_imode(&amp;soap, SOAP_C_UTFSTRING);</div>
+<div class="line"><span class="lineno">   29</span>    soap_set_omode(&amp;soap, SOAP_C_UTFSTRING);</div>
+<div class="line"><span class="lineno">   30</span> </div>
+<div class="line"><span class="lineno">   31</span>    <span class="comment">// check every 3 seconds if world ended</span></div>
+<div class="line"><span class="lineno">   32</span>    soap.accept_timeout = 3;</div>
+<div class="line"><span class="lineno">   33</span>    soap.recv_timeout = 5;</div>
+<div class="line"><span class="lineno">   34</span>    soap.send_timeout = 5;</div>
+<div class="line"><span class="lineno">   35</span> </div>
+<div class="line"><span class="lineno">   36</span>    <span class="keywordflow">if</span> (!soap_valid_socket(soap_bind(&amp;soap, host.c_str(), port, 100)))</div>
+<div class="line"><span class="lineno">   37</span>    {</div>
+<div class="line"><span class="lineno">   38</span>        <a class="code hl_define" href="../../da/d19/a04667.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;ACSoap: couldn&#39;t bind to {}:{}&quot;</span>, host, port);</div>
+<div class="line"><span class="lineno">   39</span>        exit(-1);</div>
+<div class="line"><span class="lineno">   40</span>    }</div>
+<div class="line"><span class="lineno">   41</span> </div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_define" href="../../da/d19/a04667.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;ACSoap: bound to http://{}:{}&quot;</span>, host, port);</div>
+<div class="line"><span class="lineno">   43</span> </div>
+<div class="line"><span class="lineno">   44</span>    <span class="keywordflow">while</span> (!<a class="code hl_function" href="../../d3/d20/a11980.html#ae1716f62b00fe8ba87a92850bf4d054c">World::IsStopped</a>())</div>
+<div class="line"><span class="lineno">   45</span>    {</div>
+<div class="line"><span class="lineno">   46</span>        <span class="keywordflow">if</span> (!soap_valid_socket(soap_accept(&amp;soap)))</div>
+<div class="line"><span class="lineno">   47</span>            <span class="keywordflow">continue</span>;   <span class="comment">// ran into an accept timeout</span></div>
+<div class="line"><span class="lineno">   48</span> </div>
+<div class="line"><span class="lineno">   49</span>        <a class="code hl_define" href="../../da/d19/a04667.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;ACSoap: accepted connection from IP={}.{}.{}.{}&quot;</span>, (<span class="keywordtype">int</span>)(soap.ip &gt;&gt; 24) &amp; 0xFF, (<span class="keywordtype">int</span>)(soap.ip &gt;&gt; 16) &amp; 0xFF, (<span class="keywordtype">int</span>)(soap.ip &gt;&gt; 8) &amp; 0xFF, (<span class="keywordtype">int</span>)soap.ip &amp; 0xFF);</div>
+<div class="line"><span class="lineno">   50</span>        <span class="keyword">struct </span>soap* thread_soap = soap_copy(&amp;soap);<span class="comment">// make a safe copy</span></div>
+<div class="line"><span class="lineno">   51</span> </div>
+<div class="line"><span class="lineno">   52</span>        <a class="code hl_function" href="../../d4/d0d/a01904.html#abf914e30c869f88f2fafb9f656320c6a">process_message</a>(thread_soap);</div>
+<div class="line"><span class="lineno">   53</span>    }</div>
+<div class="line"><span class="lineno">   54</span> </div>
+<div class="line"><span class="lineno">   55</span>    soap_destroy(&amp;soap);</div>
+<div class="line"><span class="lineno">   56</span>    soap_end(&amp;soap);</div>
+<div class="line"><span class="lineno">   57</span>    soap_done(&amp;soap);</div>
+<div class="line"><span class="lineno">   58</span>}</div>
+<div class="ttc" id="aa01904_html_abf914e30c869f88f2fafb9f656320c6a"><div class="ttname"><a href="../../d4/d0d/a01904.html#abf914e30c869f88f2fafb9f656320c6a">process_message</a></div><div class="ttdeci">void process_message(struct soap *soap_message)</div><div class="ttdef"><b>Definition:</b> ACSoap.cpp:60</div></div>
+<div class="ttc" id="aa04667_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../da/d19/a04667.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
+<div class="ttc" id="aa04667_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../da/d19/a04667.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
+<div class="ttc" id="aa04667_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../da/d19/a04667.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:170</div></div>
+<div class="ttc" id="aa11980_html_ae1716f62b00fe8ba87a92850bf4d054c"><div class="ttname"><a href="../../d3/d20/a11980.html#ae1716f62b00fe8ba87a92850bf4d054c">World::IsStopped</a></div><div class="ttdeci">static bool IsStopped()</div><div class="ttdef"><b>Definition:</b> World.h:189</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00189">World::IsStopped()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, and <a class="el" href="../../#l00060">process_message()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00120">main()</a>.</p>
+
+</div>
+</div>
+<a id="abf914e30c869f88f2fafb9f656320c6a" name="abf914e30c869f88f2fafb9f656320c6a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abf914e30c869f88f2fafb9f656320c6a">&#9670;&#160;</a></span>process_message()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void process_message </td>
+          <td>(</td>
+          <td class="paramtype">struct soap *&#160;</td>
+          <td class="paramname"><em>soap_message</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   61</span>{</div>
+<div class="line"><span class="lineno">   62</span>    <a class="code hl_define" href="../../da/d19/a04667.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5">LOG_TRACE</a>(<span class="stringliteral">&quot;network.soap&quot;</span>, <span class="stringliteral">&quot;SOAPWorkingThread::process_message&quot;</span>);</div>
+<div class="line"><span class="lineno">   63</span> </div>
+<div class="line"><span class="lineno">   64</span>    soap_serve(soap_message);</div>
+<div class="line"><span class="lineno">   65</span>    soap_destroy(soap_message); <span class="comment">// dealloc C++ data</span></div>
+<div class="line"><span class="lineno">   66</span>    soap_end(soap_message); <span class="comment">// dealloc data and clean up</span></div>
+<div class="line"><span class="lineno">   67</span>    soap_free(soap_message); <span class="comment">// detach soap struct and fre up the memory</span></div>
+<div class="line"><span class="lineno">   68</span>}</div>
+<div class="ttc" id="aa04667_html_ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5"><div class="ttname"><a href="../../da/d19/a04667.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5">LOG_TRACE</a></div><div class="ttdeci">#define LOG_TRACE(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:174</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00174">LOG_TRACE</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00024">ACSoapThread()</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_315286625446b425c001eecd2b17ef1a.html">Server</a></li><li class="navelem"><a class="el" href="../../de/dca/a01907.html">WorldSession.h</a></li>
-    <li class="footer">Generated on Mon Feb 16 2026 21:00:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c8498b4bff487486cc5ffdac4c412cf7.html">apps</a></li><li class="navelem"><a class="el" href="../../dir_4a0dc471e712914507a0672b672729a4.html">worldserver</a></li><li class="navelem"><a class="el" href="../../dir_d5546cd048ce0388ac9df91d37210e56.html">ACSoap</a></li><li class="navelem"><a class="el" href="../../de/dca/a01907.html">ACSoap.h</a></li>
+    <li class="footer">Generated on Mon Feb 23 2026 21:13:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

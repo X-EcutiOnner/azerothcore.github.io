@@ -1,12 +1,9 @@
 var a19732 =
 [
-    [ "npc_spark_of_ionar", "d7/d35/a19732.html#a93df0828e409a44008257294855f8d7a", null ],
-    [ "AttackStart", "d7/d35/a19732.html#a36181ef97213713c104edf4b085bc46e", null ],
-    [ "DamageTaken", "d7/d35/a19732.html#a8588089b67b8b53a9e3dead149aaa5f7", null ],
-    [ "DoAction", "d7/d35/a19732.html#ac9f1cb076f8d9072c88343f2deb7c0a0", null ],
-    [ "MoveInLineOfSight", "d7/d35/a19732.html#a1316e69a928d28c805a94bb2bb6f557a", null ],
-    [ "Reset", "d7/d35/a19732.html#a1a7c2e034333efdc80117b03f2e6740e", null ],
-    [ "UpdateAI", "d7/d35/a19732.html#ae251d676f0505db2383e61ef007932a0", null ],
-    [ "_events", "d7/d35/a19732.html#a73265e8783c32a09c9d4ee13f1ecba58", null ],
-    [ "returning", "d7/d35/a19732.html#acd1c868f422a7758ce19f6ef7f5bda17", null ]
+    [ "HandleApply", "d7/d35/a19732.html#a29679ed64fc288dc0e85beed2971d4be", null ],
+    [ "HandleRemove", "d7/d35/a19732.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
+    [ "Load", "d7/d35/a19732.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
+    [ "PrepareAuraScript", "d7/d35/a19732.html#a2804f25643e59f3922291abcb055b641", null ],
+    [ "Register", "d7/d35/a19732.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
+    [ "Validate", "d7/d35/a19732.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
 ];

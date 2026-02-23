@@ -1,5 +1,5 @@
 var a14748 =
 [
-    [ "PrepareSpellScript", "df/dd6/a14748.html#a50ee42c11937759b6c52c2ab994481c4", null ],
-    [ "Register", "df/dd6/a14748.html#a8dc12a723c2da948c38119e3fc34df35", null ]
+    [ "at_bring_your_orphan_to", "df/dd6/a14748.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
+    [ "OnTrigger", "df/dd6/a14748.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
 ];

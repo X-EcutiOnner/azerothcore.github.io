@@ -1,8 +1,7 @@
 var a17064 =
 [
-    [ "npc_fos_leaderAI", "da/dce/a17064.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
-    [ "DoAction", "da/dce/a17064.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
-    [ "Reset", "da/dce/a17064.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
-    [ "UpdateAI", "da/dce/a17064.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
-    [ "events", "da/dce/a17064.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
+    [ "HandleEffectPeriodic", "da/dce/a17064.html#ae8121dcb796f3ee496c24bbd46651f81", null ],
+    [ "PrepareAuraScript", "da/dce/a17064.html#af84222492b3209c97695895c4c991f4a", null ],
+    [ "Register", "da/dce/a17064.html#a4d1741913631bb649508ef238e25a6c8", null ],
+    [ "Validate", "da/dce/a17064.html#ac9b7fd3876620988cc74aa0a5202e599", null ]
 ];

@@ -1,7 +1,8 @@
 var a05184 =
 [
-    [ "operator()", "dc/ded/a05184.html#af1b2d9b7517b57a5a0a598f58b470c33", null ],
-    [ "closestEntity", "dc/ded/a05184.html#ab377424b7edd0274f61967619700f841", null ],
-    [ "hitLocation", "dc/ded/a05184.html#a00e778dd78dca96391d200e18dfc2c9d", null ],
-    [ "hitNormal", "dc/ded/a05184.html#a57f40f48c26829f7da9e48efd839d773", null ]
+    [ "LocationInfo", "dc/ded/a05184.html#ae2e70dc65cd3b0379600a67dce7de6ba", null ],
+    [ "ground_Z", "dc/ded/a05184.html#a0ffbfcfc677809dda6250855d9594ca5", null ],
+    [ "hitInstance", "dc/ded/a05184.html#a5e3fc81a2b7353808dc0c95eebe570be", null ],
+    [ "hitModel", "dc/ded/a05184.html#a2a7e0be8d8e43b055dd1d43cd5331738", null ],
+    [ "rootId", "dc/ded/a05184.html#aae82d7d8518db5e131d6a327927c75a2", null ]
 ];

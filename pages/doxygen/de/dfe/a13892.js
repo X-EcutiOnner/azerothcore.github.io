@@ -1,6 +1,7 @@
 var a13892 =
 [
-    [ "npc_bh_thalorien_dawnseekerAI", "de/d48/a13896.html", "de/d48/a13896" ],
-    [ "npc_bh_thalorien_dawnseeker", "de/dfe/a13892.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
-    [ "GetAI", "de/dfe/a13892.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
+    [ "PeriodicTick", "de/dfe/a13892.html#acca46d585d06d461f735cddb6075b3b1", null ],
+    [ "PrepareAuraScript", "de/dfe/a13892.html#abd7382ab22efd3d82c4f00745255d024", null ],
+    [ "Register", "de/dfe/a13892.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
+    [ "Validate", "de/dfe/a13892.html#acb31ba162452a30ff0c208829560f9fd", null ]
 ];

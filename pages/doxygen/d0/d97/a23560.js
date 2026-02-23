@@ -1,8 +1,5 @@
 var a23560 =
 [
-    [ "boss_mekgineer_steamrigger", "d0/d97/a23560.html#a930dcbade7135d0c689bcc0718815547", null ],
-    [ "JustDied", "d0/d97/a23560.html#a79272c233bc0256cca62700fc7a01421", null ],
-    [ "JustEngagedWith", "d0/d97/a23560.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
-    [ "JustSummoned", "d0/d97/a23560.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
-    [ "KilledUnit", "d0/d97/a23560.html#a84374438458cb7e034f91d4b65cd22f1", null ]
+    [ "at_rp_nethekurse", "d0/d97/a23560.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
+    [ "_OnTrigger", "d0/d97/a23560.html#a93001d6dda7b2711f1efe100ffab5879", null ]
 ];

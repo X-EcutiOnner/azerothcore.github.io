@@ -1,7 +1,10 @@
 var a21044 =
 [
-    [ "boss_yoggsaron_corruptor_tentacleAI", "d6/d5b/a21044.html#a5f8fbd8ac772fad79f809de4d3128574", null ],
-    [ "DoAction", "d6/d5b/a21044.html#abac26b3be775eea734403be36cbed4d2", null ],
-    [ "SelectCorruptionTarget", "d6/d5b/a21044.html#a1d61b34d31794cd2bdcddfe91dc1103e", null ],
-    [ "UpdateAI", "d6/d5b/a21044.html#a0269d1dc655af5680d7074cb093740b8", null ]
+    [ "npc_dragonflayer_forge_master", "d6/d5b/a21044.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
+    [ "JustDied", "d6/d5b/a21044.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
+    [ "JustEngagedWith", "d6/d5b/a21044.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
+    [ "Reset", "d6/d5b/a21044.html#af2c844c926b94456df796b4252e899c2", null ],
+    [ "dataId", "d6/d5b/a21044.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
+    [ "pInstance", "d6/d5b/a21044.html#a27b5988d777347832795581b0186c09f", null ],
+    [ "prevDataId", "d6/d5b/a21044.html#aa057cb5ae681b4b802031151ea1a3529", null ]
 ];

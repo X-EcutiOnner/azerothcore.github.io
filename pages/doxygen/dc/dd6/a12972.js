@@ -1,11 +1,9 @@
 var a12972 =
 [
-    [ "boss_tenris_mirkblood", "dc/dd6/a12972.html#ae626332a437983bbb0219bbe2d4b75dc", null ],
-    [ "DamageTaken", "dc/dd6/a12972.html#a0316d2d936f10928fe01d1d5a532e9e0", null ],
-    [ "EnterEvadeMode", "dc/dd6/a12972.html#a5da11ca73a280c08d1ab0ab4df66d836", null ],
-    [ "JustEngagedWith", "dc/dd6/a12972.html#ad95106bbe08589a5ca1d0f2f30aab0ec", null ],
-    [ "KilledUnit", "dc/dd6/a12972.html#ab0a5fedbd8714326a948163d7bcc0838", null ],
-    [ "Reset", "dc/dd6/a12972.html#a88d46f6e972525979687b315db90dc30", null ],
-    [ "SpellHit", "dc/dd6/a12972.html#a5d69e0cf2a394ac9eed94bb82ab35949", null ],
-    [ "_mirrorTarget", "dc/dd6/a12972.html#a1e9a1c361046b12fe0569fbdef4a7033", null ]
+    [ "npc_mc_core_houndAI", "dc/dd6/a12972.html#a9b07d662e32a342419a848ecd59d6391", null ],
+    [ "DamageTaken", "dc/dd6/a12972.html#aaf2b0ac9b723bb16bfaf8481165e6b4f", null ],
+    [ "Reset", "dc/dd6/a12972.html#a9f4b06230ae2e4fc2fe150eb9e9d1f12", null ],
+    [ "UpdateAI", "dc/dd6/a12972.html#aaba8ef0b33b9bb9acf74223ef0e9aaad", null ],
+    [ "instance", "dc/dd6/a12972.html#ab47451dfeff84c8467be2b76554df897", null ],
+    [ "serratedBiteTimer", "dc/dd6/a12972.html#a3a49df32c788497d3e82912d423683b7", null ]
 ];

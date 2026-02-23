@@ -1,7 +1,6 @@
 var a12524 =
 [
-    [ "HandleScript", "db/d64/a12524.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
-    [ "PrepareSpellScript", "db/d64/a12524.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
-    [ "Register", "db/d64/a12524.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
-    [ "Validate", "db/d64/a12524.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
+    [ "npc_blackhand_incarceratorAI", "d8/dbf/a12528.html", "d8/dbf/a12528" ],
+    [ "npc_blackhand_incarcerator", "db/d64/a12524.html#a0c6bb8ea789e81803a11be57ac1b68e2", null ],
+    [ "GetAI", "db/d64/a12524.html#a021ddf6442812f7fb698ba7fb45b9ffb", null ]
 ];

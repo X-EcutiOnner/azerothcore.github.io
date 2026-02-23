@@ -1,6 +1,7 @@
 var a14864 =
 [
-    [ "HandleScriptEffect", "d2/d18/a14864.html#a3d22cc828a2aa59d45e5d648161926fd", null ],
-    [ "PrepareSpellScript", "d2/d18/a14864.html#a0ecf5662d9cc1296ebdac82233f1fe7c", null ],
-    [ "Register", "d2/d18/a14864.html#aee5d9189b6df318b57e919511a185a99", null ]
+    [ "npc_love_in_air_supply_sentry", "d2/d18/a14864.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
+    [ "MoveInLineOfSight", "d2/d18/a14864.html#a9df110324c74277e07183c7db231bbda", null ],
+    [ "UpdateAI", "d2/d18/a14864.html#aaa658222954f96d45b75daf83555f6f8", null ],
+    [ "lock", "d2/d18/a14864.html#a59bf67b114014542538165c21aa109a6", null ]
 ];

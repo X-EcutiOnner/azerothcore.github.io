@@ -1,6 +1,8 @@
 var a25868 =
 [
-    [ "HandlePeriodicTick", "df/d49/a25868.html#a058eeb1e0489340763a58d92d4bed832", null ],
-    [ "PrepareAuraScript", "df/d49/a25868.html#a3d71859b7e7f914a395f131dd4a6b4ab", null ],
-    [ "Register", "df/d49/a25868.html#ae5a8adc3fe7cc5c5d7dd715449d3442f", null ]
+    [ "HandleProc", "df/d49/a25868.html#ad92c7804b26bd29d135e55c8adad9093", null ],
+    [ "OnRemove", "df/d49/a25868.html#afa8e065ed835243f3ebb95c10792adf8", null ],
+    [ "PrepareAuraScript", "df/d49/a25868.html#a5e986f77b23fd0402089ea36f0360c79", null ],
+    [ "Register", "df/d49/a25868.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
+    [ "Validate", "df/d49/a25868.html#a51f81afec6ff0918530208d9de9dae24", null ]
 ];

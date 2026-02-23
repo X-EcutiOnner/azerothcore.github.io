@@ -1,10 +1,6 @@
 var a13648 =
 [
-    [ "MoveDelayed", "d8/d1b/a13648.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
-    [ "Execute", "d8/d1b/a13648.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
-    [ "_o", "d8/d1b/a13648.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
-    [ "_owner", "d8/d1b/a13648.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
-    [ "_x", "d8/d1b/a13648.html#aa490d19022c27932e76af38281fe158b", null ],
-    [ "_y", "d8/d1b/a13648.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
-    [ "_z", "d8/d1b/a13648.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
+    [ "instance_sunken_temple_InstanceMapScript", "dd/d57/a13652.html", "dd/d57/a13652" ],
+    [ "instance_sunken_temple", "d8/d1b/a13648.html#a123b052c1cd1487588c88bf2611bc53b", null ],
+    [ "GetInstanceScript", "d8/d1b/a13648.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
 ];

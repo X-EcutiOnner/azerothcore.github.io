@@ -1,26 +1,8 @@
 var a04802 =
 [
-    [ "map_id", "db/da2/a28617.html", "db/da2/a28617" ],
-    [ "_CRT_SECURE_NO_DEPRECATE", "dc/d6d/a04802.html#a411c46599e926f8cdf49c63957255359", null ],
-    [ "MPQ_BLOCK_SIZE", "dc/d6d/a04802.html#a402d9c2814f85cee14f9bc8dbc999de8", null ],
-    [ "ExtractSingleWmo", "dc/d6d/a04802.html#afc9839262206eb10094c1769141ae146", null ],
-    [ "FileExists", "dc/d6d/a04802.html#aab524156a5705c5cd09f96106eaac92d", null ],
-    [ "fillArchiveNameVector", "dc/d6d/a04802.html#a32b84e03161e7056f809d12d8b7b71b2", null ],
-    [ "GenerateUniqueObjectId", "dc/d6d/a04802.html#a6a3d179f34597554b17a122f27cd6be5", null ],
-    [ "getGamePath", "dc/d6d/a04802.html#a6bb580270fe96b7e6ccb585658850d17", null ],
-    [ "main", "dc/d6d/a04802.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "ParsMapFiles", "dc/d6d/a04802.html#a50c73ad000da4df06ae438373eeaf60e", null ],
-    [ "processArgv", "dc/d6d/a04802.html#a8f05dfc74cc4db726161d81ab714bfe1", null ],
-    [ "scan_patches", "dc/d6d/a04802.html#a995d89b97dfb31a6a8c1c4e1c96d47f4", null ],
-    [ "strToLower", "dc/d6d/a04802.html#ac9e88429cc2168db83793cb7074bc69f", null ],
-    [ "gOpenArchives", "dc/d6d/a04802.html#a8ae40ebe73635e831bc65b70e7f97f3c", null ],
-    [ "hasInputPathParam", "dc/d6d/a04802.html#a5ef7a611bb56bdaa370aaf1770059365", null ],
-    [ "input_path", "dc/d6d/a04802.html#a773984b4a48966b7ea95d0586db0210b", null ],
-    [ "map_count", "dc/d6d/a04802.html#a6fcdefd114e6ec71964d6539163fc055", null ],
-    [ "map_ids", "dc/d6d/a04802.html#a12b965536bcabf2e2edd7db2196630cd", null ],
-    [ "output_path", "dc/d6d/a04802.html#aeb9ec80db9cddb3d9ab2303f2a825d0b", null ],
-    [ "preciseVectorData", "dc/d6d/a04802.html#a2191d2ffb8973cd0ddb269bcaa06a31d", null ],
-    [ "szWorkDirWmo", "dc/d6d/a04802.html#ae79cb6c3493a63f0e1058be3bd5ba328", null ],
-    [ "uniqueObjectIds", "dc/d6d/a04802.html#a78dd87d3ceb9a2d97c7a1d0caa8d4154", null ],
-    [ "WmoDoodads", "dc/d6d/a04802.html#a17b22c7645963c9e5c277b72605a4966", null ]
+    [ "CleanStringForMysqlQuery", "dc/d6d/a04802.html#a4750695bf6f728da1b0356af3ddaabc9", null ],
+    [ "GetLocaleByName", "dc/d6d/a04802.html#a8051d28826d995169bd4ce60310d5d65", null ],
+    [ "GetNameByLocaleConstant", "dc/d6d/a04802.html#a3a6dbe16dbe45905c1f3aabc858c1fe1", null ],
+    [ "IsLocaleValid", "dc/d6d/a04802.html#ac2f3763b8ee770808af7ecec42dfaa76", null ],
+    [ "localeNames", "dc/d6d/a04802.html#a32b3de4eb98b686cc6472385a449e4e9", null ]
 ];

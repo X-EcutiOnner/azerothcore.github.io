@@ -1,11 +1,12 @@
 var a07536 =
 [
-    [ "BattlegroundWGScore", "d8/d88/a07536.html#a43b7933c5e217376e5bb10e9b5bb208b", null ],
-    [ "BuildObjectivesBlock", "d8/d88/a07536.html#a804e56dbd666336d961cce2b0e4d6452", null ],
-    [ "GetAttr1", "d8/d88/a07536.html#aab49f39d88989b153f1eb979fbbfaeb3", null ],
-    [ "GetAttr2", "d8/d88/a07536.html#a191e205e08ef15cc36dabedc32614fd2", null ],
-    [ "UpdateScore", "d8/d88/a07536.html#aa560d7f5f13dd235d43a9e3571090055", null ],
-    [ "BattlegroundWS", "d8/d88/a07536.html#a4285b67c5d8593dce759422a4eb78c77", null ],
-    [ "FlagCaptures", "d8/d88/a07536.html#a23ff00f10d07c1a601e9e1d0eb05b1da", null ],
-    [ "FlagReturns", "d8/d88/a07536.html#ab400c9fb692ff157eb4809f0536c05f7", null ]
+    [ "BGQueueRemoveEvent", "d8/d88/a07536.html#ab751b728f64b2928eefb21f756539d81", null ],
+    [ "~BGQueueRemoveEvent", "d8/d88/a07536.html#aab9ea24041888975439aafb246c571c3", null ],
+    [ "Abort", "d8/d88/a07536.html#a7d1dc829e56398ad421cb53dd51e952e", null ],
+    [ "Execute", "d8/d88/a07536.html#a42482ff784da4b23b568888a74a0b531", null ],
+    [ "m_BgInstanceGUID", "d8/d88/a07536.html#a4732918e6d7c42dd068f5cb147a188fc", null ],
+    [ "m_BgQueueTypeId", "d8/d88/a07536.html#ac059a823ae49bd0250eec15845bf153b", null ],
+    [ "m_BgTypeId", "d8/d88/a07536.html#a8bc484087ef76d627d5ae912bc5de22c", null ],
+    [ "m_PlayerGuid", "d8/d88/a07536.html#a9a1e2c09896b4d7521954d810e7193cc", null ],
+    [ "m_RemoveTime", "d8/d88/a07536.html#a0c40a46749bff9caaf1a462d7bef701e", null ]
 ];

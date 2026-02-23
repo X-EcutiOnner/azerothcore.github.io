@@ -1,7 +1,12 @@
 var a23488 =
 [
-    [ "go_ahune_ice_spear", "dc/d2b/a23488.html#a22922e47b819bc60e331cffbc7c353b3", null ],
-    [ "Reset", "dc/d2b/a23488.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
-    [ "UpdateAI", "dc/d2b/a23488.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
-    [ "_scheduler", "dc/d2b/a23488.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
+    [ "boss_watchkeeper_gargolmar", "dc/d2b/a23488.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
+    [ "JustDied", "dc/d2b/a23488.html#a39be5796b39bea913105fc48dda0d186", null ],
+    [ "JustEngagedWith", "dc/d2b/a23488.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
+    [ "KilledUnit", "dc/d2b/a23488.html#a22736c2680f41cfd3443a76cd4de9352", null ],
+    [ "MoveInLineOfSight", "dc/d2b/a23488.html#adec9837fdb2595ce57acffb279a7d011", null ],
+    [ "Reset", "dc/d2b/a23488.html#a356b7fe9071b073b74b21913e35e7408", null ],
+    [ "UpdateAI", "dc/d2b/a23488.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
+    [ "_hasSpoken", "dc/d2b/a23488.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
+    [ "_taunted", "dc/d2b/a23488.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
 ];

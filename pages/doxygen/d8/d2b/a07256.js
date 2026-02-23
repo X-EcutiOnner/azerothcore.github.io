@@ -1,11 +1,9 @@
 var a07256 =
 [
-    [ "gyid", "d8/d2b/a07256.html#a742fcc91d2daf1a9331f02a90496328c", null ],
-    [ "o", "d8/d2b/a07256.html#a9c761e77b7194ab1bb80d28f2b1e1f6d", null ],
-    [ "startcontrol", "d8/d2b/a07256.html#a8b0aed9e6973ce6efc5d89a0d10a4139", null ],
-    [ "textid", "d8/d2b/a07256.html#a87d80377ad632b9d667eecf11ae8faae", null ],
-    [ "type", "d8/d2b/a07256.html#ae1a4b69ea4edabe51f1378c6cb066cad", null ],
-    [ "x", "d8/d2b/a07256.html#ad69833b4e2a27999dcd13e5ac5bda892", null ],
-    [ "y", "d8/d2b/a07256.html#a405e8098772e77250683985f957ce5f3", null ],
-    [ "z", "d8/d2b/a07256.html#a844e4c9c9b1a9a22a817025ccda7f08d", null ]
+    [ "SmartWaypointMgr", "d8/d2b/a07256.html#ad9168edcc4fd16260178d4a9277f71ba", null ],
+    [ "~SmartWaypointMgr", "d8/d2b/a07256.html#a300be22ad39e320833297c3f05cdcecc", null ],
+    [ "GetPath", "d8/d2b/a07256.html#ac833faad34e77a7b9e5a7b0c46fe8394", null ],
+    [ "instance", "d8/d2b/a07256.html#a7ae477d4d210d938e167453d9085e520", null ],
+    [ "LoadFromDB", "d8/d2b/a07256.html#a9b5cdb29d31e7de0a407f600aef482af", null ],
+    [ "waypoint_map", "d8/d2b/a07256.html#ac22c9bc98be18bb4ffa051387dd844e1", null ]
 ];

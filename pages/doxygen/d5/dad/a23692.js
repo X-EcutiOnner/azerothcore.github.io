@@ -1,10 +1,9 @@
 var a23692 =
 [
-    [ "boss_blindeye_the_seer", "d5/dad/a23692.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
-    [ "JustDied", "d5/dad/a23692.html#ad70a72b18587da82d26bde8f10d63700", null ],
-    [ "JustEngagedWith", "d5/dad/a23692.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
-    [ "Reset", "d5/dad/a23692.html#aabbda75266615f64ce88ce092e68bfa4", null ],
-    [ "UpdateAI", "d5/dad/a23692.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
-    [ "_scheduler", "d5/dad/a23692.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
-    [ "instance", "d5/dad/a23692.html#a74462f26d66da3ca370825858060b1c2", null ]
+    [ "HandleEffectApply", "d5/dad/a23692.html#ac9e030810cc1ffb3927943353bcbb764", null ],
+    [ "HandleEffectRemove", "d5/dad/a23692.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
+    [ "Load", "d5/dad/a23692.html#a60f41c19f5104eef82048fd1e3416abd", null ],
+    [ "PrepareAuraScript", "d5/dad/a23692.html#a277d9865108acafac4b1a42bc5b5714b", null ],
+    [ "Register", "d5/dad/a23692.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
+    [ "_falconSet", "d5/dad/a23692.html#a1a20f75d251936bff7a0777831d79140", null ]
 ];

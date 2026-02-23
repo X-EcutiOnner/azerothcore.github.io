@@ -1,5 +1,7 @@
 var a28020 =
 [
-    [ "go_transport_the_purple_princess", "de/de4/a28020.html#ab0c79197964857d578036693a2c18e8a", null ],
-    [ "EventInform", "de/de4/a28020.html#ac5b73f1bea180797169138f8e9228783", null ]
+    [ "npc_spirit_shadeAI", "de/de4/a28020.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "de/de4/a28020.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "de/de4/a28020.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "de/de4/a28020.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

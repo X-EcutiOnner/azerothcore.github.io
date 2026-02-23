@@ -1,5 +1,5 @@
 var a27312 =
 [
-    [ "achievement_fa_la_la_la_ogrila", "db/d32/a27312.html#ab98a8ab33fec62936bf3c235659c1445", null ],
-    [ "OnCheck", "db/d32/a27312.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
+    [ "PrepareAuraScript", "db/d32/a27312.html#a5f2a115e8deddb59e35f79371d7bf3ef", null ],
+    [ "Register", "db/d32/a27312.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
 ];

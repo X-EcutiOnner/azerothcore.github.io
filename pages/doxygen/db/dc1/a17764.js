@@ -1,7 +1,6 @@
 var a17764 =
 [
-    [ "HandleScript", "db/dc1/a17764.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
-    [ "PrepareSpellScript", "db/dc1/a17764.html#a8f668b88a41585cabeace574b30b4f85", null ],
-    [ "Register", "db/dc1/a17764.html#a8fae161a91fae297b99079bde218ced8", null ],
-    [ "Validate", "db/dc1/a17764.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
+    [ "OnAbsorb", "db/dc1/a17764.html#aa6582457cd0502ca263433d04b40b64f", null ],
+    [ "PrepareAuraScript", "db/dc1/a17764.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
+    [ "Register", "db/dc1/a17764.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
 ];

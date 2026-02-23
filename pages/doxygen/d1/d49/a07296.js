@@ -1,11 +1,11 @@
 var a07296 =
 [
-    [ "WGWorkshop", "d1/d49/a07296.html#a2d2d7b24ec77275f24efa54d31e98bbb", null ],
-    [ "GiveControlTo", "d1/d49/a07296.html#a6b69312f4ffa562b0e8fdcf5da3568d3", null ],
-    [ "Save", "d1/d49/a07296.html#adede1c780178f20dc8339320a021e4b6", null ],
-    [ "UpdateGraveyardAndWorkshop", "d1/d49/a07296.html#a2ff11801fb50cd3a463c44fafbddaed4", null ],
-    [ "bf", "d1/d49/a07296.html#ae2b7e050289ad5922ddcd73c6da9f5a5", null ],
-    [ "state", "d1/d49/a07296.html#a279d47c85843e884edef1f82b9654cd8", null ],
-    [ "teamControl", "d1/d49/a07296.html#a196c8d0094a34c18835840e046fd39ef", null ],
-    [ "workshopId", "d1/d49/a07296.html#a42d7337c67e4f19886b0ec86f0e60596", null ]
+    [ "GetSkillValue", "d1/d49/a07296.html#a8f5894a5729d4c8d26376bbe1a2ac29e", null ],
+    [ "HasSpell", "d1/d49/a07296.html#a3400ad05d8423ae6878fab815521ec6f", null ],
+    [ "PlayerCanUseItem", "d1/d49/a07296.html#aee11f4f45f83664483344e3bbfba7463", null ],
+    [ "classMask", "d1/d49/a07296.html#a41a57c372871c84a572d2f3697cb18aa", null ],
+    [ "level", "d1/d49/a07296.html#a870f632b54e4638b1f5a4e93b6bd9e52", null ],
+    [ "raceMask", "d1/d49/a07296.html#a96e56943da42f1a1258fc1d716259e1a", null ],
+    [ "skills", "d1/d49/a07296.html#a55c2ad9d1cdea4913cb35deb4adc87fd", null ],
+    [ "spells", "d1/d49/a07296.html#ac83cc019ceb1752ce8d6b5a3aa3d350f", null ]
 ];

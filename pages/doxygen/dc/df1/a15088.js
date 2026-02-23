@@ -1,7 +1,6 @@
 var a15088 =
 [
-    [ "boss_epoch_hunter", "dc/df1/a15088.html#a652d14ebfced39b8164687a713780600", null ],
-    [ "JustDied", "dc/df1/a15088.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
-    [ "JustEngagedWith", "dc/df1/a15088.html#a2571f98f36d1271f3911617e0fdfba54", null ],
-    [ "KilledUnit", "dc/df1/a15088.html#a61456e680e9108dd841e83d97536ef1b", null ]
+    [ "FilterTargets", "dc/df1/a15088.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
+    [ "PrepareSpellScript", "dc/df1/a15088.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
+    [ "Register", "dc/df1/a15088.html#a164b8b946dc801db878603488c978adb", null ]
 ];

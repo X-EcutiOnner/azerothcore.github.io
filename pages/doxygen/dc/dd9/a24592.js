@@ -1,10 +1,11 @@
 var a24592 =
 [
-    [ "npc_pet_gen_imp_in_a_bottle", "dc/dd9/a24592.html#aa32b7770c2719d77d46fcf6d22989284", null ],
-    [ "InitializeAI", "dc/dd9/a24592.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
-    [ "UpdateAI", "dc/dd9/a24592.html#a453ec855bb21a30cb72b540ff8f77035", null ],
-    [ "_data", "dc/dd9/a24592.html#a982ec923536c2c33353a3673aa425b6a", null ],
-    [ "_hasParty", "dc/dd9/a24592.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
-    [ "_ownerGUID", "dc/dd9/a24592.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
-    [ "_talkTimer", "dc/dd9/a24592.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
+    [ "CalcPeriodic", "dc/dd9/a24592.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
+    [ "CalculateAPAmount", "dc/dd9/a24592.html#ab23f26c3470f629f0a20f28faf272a68", null ],
+    [ "CalculateHealthAmount", "dc/dd9/a24592.html#a4f827a906ac279e143ba8545545090ad", null ],
+    [ "CalculateSPAmount", "dc/dd9/a24592.html#ae94493ffed217a218e21c05e002cec00", null ],
+    [ "HandleEffectApply", "dc/dd9/a24592.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
+    [ "HandlePeriodic", "dc/dd9/a24592.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
+    [ "PrepareAuraScript", "dc/dd9/a24592.html#a5052689d815e0a0543693b39b7454deb", null ],
+    [ "Register", "dc/dd9/a24592.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
 ];

@@ -1,9 +1,7 @@
 var a08784 =
 [
-    [ "ProcTriggeredData", "d4/ddc/a08784.html#a37c5cbfd0b916b950a0e638223394de4", null ],
-    [ "operator==", "d4/ddc/a08784.html#a787760cbd8a6ee5192975bc514886159", null ],
-    [ "aura", "d4/ddc/a08784.html#a5138144d49900690bb15a5f66b763eac", null ],
-    [ "effMask", "d4/ddc/a08784.html#a1c2bfb3e0016ba823e12b3defe373790", null ],
-    [ "spellProcEvent", "d4/ddc/a08784.html#ac6e491a7ef478d271d3c74d7b9df577e", null ],
-    [ "triggerSpelId", "d4/ddc/a08784.html#abfd99a1e3beb871a3cbf83d7578ec98a", null ]
+    [ "SetRuneState", "d4/ddc/a08784.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
+    [ "lastUsedRune", "d4/ddc/a08784.html#a88c702716eb3032c20ae5ed74922d923", null ],
+    [ "runes", "d4/ddc/a08784.html#aac485530bfa81d54d9da3213fe917c29", null ],
+    [ "runeState", "d4/ddc/a08784.html#ae58297e0766578b234604a97641501a1", null ]
 ];

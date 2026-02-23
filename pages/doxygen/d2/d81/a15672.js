@@ -1,6 +1,6 @@
 var a15672 =
 [
-    [ "npc_rabid_thistle_bearAI", "d3/ddc/a15676.html", "d3/ddc/a15676" ],
-    [ "npc_rabid_thistle_bear", "d2/d81/a15672.html#a34b20a4ea22d74352712dee105247d56", null ],
-    [ "GetAI", "d2/d81/a15672.html#ab5c21cd3afa0bd13c937e6acf1912af4", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d3/ddc/a15676.html", "d3/ddc/a15676" ],
+    [ "instance_temple_of_ahnqiraj", "d2/d81/a15672.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
+    [ "GetInstanceScript", "d2/d81/a15672.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
 ];

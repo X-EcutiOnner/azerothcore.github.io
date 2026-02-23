@@ -1,9 +1,10 @@
 var a09976 =
 [
-    [ "TransportAnimation", "dd/d38/a09976.html#a775b84b54deefd38af40222afd82d572", null ],
-    [ "GetAnimNode", "dd/d38/a09976.html#a73b56750c90afce38dbf57793bae16f3", null ],
-    [ "GetAnimRotation", "dd/d38/a09976.html#aa2c892f14712828acaa85fa6e6d919bb", null ],
-    [ "Path", "dd/d38/a09976.html#a7c45df781dda8058d281a2cf7e5fe5fb", null ],
-    [ "Rotations", "dd/d38/a09976.html#a5fa771fb487c437d7d6229eadf7d90c3", null ],
-    [ "TotalTime", "dd/d38/a09976.html#a59a31ffc2e642a3950b0509130a76ad4", null ]
+    [ "DoublePosition", "dd/dee/a09980.html", "dd/dee/a09980" ],
+    [ "~AreaBoundary", "dd/d38/a09976.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
+    [ "AreaBoundary", "dd/d38/a09976.html#adf670910c492c08d3384c2dd1824e7ce", null ],
+    [ "IsWithinBoundary", "dd/d38/a09976.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
+    [ "IsWithinBoundary", "dd/d38/a09976.html#a1d407f77ce0388263fc0ee6224734213", null ],
+    [ "IsWithinBoundaryArea", "dd/d38/a09976.html#ae5580b0044dba24d100831fe51ee1abc", null ],
+    [ "_isInvertedBoundary", "dd/d38/a09976.html#ad416f29594688ce670549d6fdcce4314", null ]
 ];

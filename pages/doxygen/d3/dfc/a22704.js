@@ -1,9 +1,8 @@
 var a22704 =
 [
-    [ "OPvPCapturePointGH", "d3/dfc/a22704.html#a6e46100e50212310af4301c492d5773e", null ],
-    [ "ChangeState", "d3/dfc/a22704.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
-    [ "FillInitialWorldStates", "d3/dfc/a22704.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
-    [ "HandlePlayerEnter", "d3/dfc/a22704.html#afea733c44d129d9a5af78a8337d9e04a", null ],
-    [ "HandlePlayerLeave", "d3/dfc/a22704.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
-    [ "SendChangePhase", "d3/dfc/a22704.html#aec741b9102829bf77850dc06a49bb8da", null ]
+    [ "Load", "d3/dfc/a22704.html#a038301fbb547469574efff88455be663", null ],
+    [ "OnPeriodic", "d3/dfc/a22704.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
+    [ "PrepareAuraScript", "d3/dfc/a22704.html#a386df1300e6a99b02efd13ef4968e99a", null ],
+    [ "Register", "d3/dfc/a22704.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
+    [ "Validate", "d3/dfc/a22704.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
 ];

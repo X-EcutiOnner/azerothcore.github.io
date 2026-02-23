@@ -1,6 +1,13 @@
 var a17360 =
 [
-    [ "npc_pos_freed_slaveAI", "d6/d9c/a17364.html", "d6/d9c/a17364" ],
-    [ "npc_pos_freed_slave", "de/d57/a17360.html#a19fd79279646cb1c49c04056636615fc", null ],
-    [ "GetAI", "de/d57/a17360.html#ac798c2584d48892162cc2bc779701e16", null ]
+    [ "npc_hor_leader_secondAI", "de/d57/a17360.html#a54a5094dc533755efc249ebc96663b62", null ],
+    [ "DamageTaken", "de/d57/a17360.html#ae534779315b04b3dde495b13a1cb28e4", null ],
+    [ "DoAction", "de/d57/a17360.html#a4185259006017e85fade721796851dd0", null ],
+    [ "MovementInform", "de/d57/a17360.html#afe93165a3e96496b52a2be8de5022164", null ],
+    [ "MoveToNextStopPoint", "de/d57/a17360.html#a6d9f65386d6f40a5cf96b09ecaf54871", null ],
+    [ "Reset", "de/d57/a17360.html#ae5d125deab31e6425e94b4523d8251eb", null ],
+    [ "UpdateAI", "de/d57/a17360.html#ae991e18a6729a1b088c60060802c01c2", null ],
+    [ "currentStopPoint", "de/d57/a17360.html#ae4bf31530e701f9e0aa4f253452f9881", null ],
+    [ "events", "de/d57/a17360.html#a3510e246908f4e5b758e05ca06a29e47", null ],
+    [ "pInstance", "de/d57/a17360.html#a32cebea12e13c87b45dd2a4c6cf495e5", null ]
 ];

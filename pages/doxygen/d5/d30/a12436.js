@@ -1,6 +1,6 @@
 var a12436 =
 [
-    [ "boss_warmastervooneAI", "de/d9e/a12440.html", "de/d9e/a12440" ],
-    [ "boss_warmaster_voone", "d5/d30/a12436.html#ac363118e4201adccd4be0028a558442f", null ],
-    [ "GetAI", "d5/d30/a12436.html#a560469e60fda04b2c7d8fd3994493868", null ]
+    [ "boss_gloomrel", "d5/d30/a12436.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
+    [ "OnGossipHello", "d5/d30/a12436.html#a6ce6898142d767a130ec09769f2be488", null ],
+    [ "OnGossipSelect", "d5/d30/a12436.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
 ];

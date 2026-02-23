@@ -1,10 +1,6 @@
 var a10084 =
 [
-    [ "DistractMovementGenerator", "d8/d13/a10084.html#a55879290b06f4fc86a1da791c07b7afb", null ],
-    [ "Finalize", "d8/d13/a10084.html#aa4a2b943ecde8750bd764290d65872df", null ],
-    [ "GetMovementGeneratorType", "d8/d13/a10084.html#a0b30745bf1cd7b5a264e970273595592", null ],
-    [ "Initialize", "d8/d13/a10084.html#a71410ddbda2be6b34bb2276a83fea5c9", null ],
-    [ "Reset", "d8/d13/a10084.html#ad544709b2873b63b28d27ab414c280ba", null ],
-    [ "Update", "d8/d13/a10084.html#ad5a15c1507b8ab315b658351077629b3", null ],
-    [ "m_timer", "d8/d13/a10084.html#a8b520d8e97704ac39ce28c2256557b42", null ]
+    [ "SplineRawInitializer", "d8/d13/a10084.html#a2aba4b3ca8e2312cc9e910ef4b3a5a26", null ],
+    [ "operator()", "d8/d13/a10084.html#a878f8d8b2bc4b7c0e5c92d3055a437af", null ],
+    [ "_points", "d8/d13/a10084.html#a3cea33c8d33407f7d2d8ea96a85a58c5", null ]
 ];

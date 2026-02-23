@@ -1,8 +1,10 @@
 var a08844 =
 [
-    [ "PowerPctOrderPred", "d7/dc3/a08844.html#a4e765952cfbc1c83413a8f1c148b1fe4", null ],
-    [ "operator()", "d7/dc3/a08844.html#a215b641a9364c7fcb82778c98f214271", null ],
-    [ "operator()", "d7/dc3/a08844.html#a42cec64c5eaf01f8b6b7e334f57b1d4a", null ],
-    [ "_ascending", "d7/dc3/a08844.html#aed7be288f876fdd35c1cdba53626b03c", null ],
-    [ "_power", "d7/dc3/a08844.html#ad3d61a7c5c84d91bc26c99e778105b7c", null ]
+    [ "PlayerSetting", "d7/dc3/a08844.html#a77d1fb11aa0039bbdae3ccc523f391ea", null ],
+    [ "PlayerSetting", "d7/dc3/a08844.html#a93a30a0d6104bdda8fd9b5778179a353", null ],
+    [ "AddFlag", "d7/dc3/a08844.html#a1e81343732cd86cdf9974a1d96b73ba7", null ],
+    [ "HasFlag", "d7/dc3/a08844.html#af6e3149ff40b6b4ea2310b5c3254fce0", null ],
+    [ "IsEnabled", "d7/dc3/a08844.html#a3621021d9c0c41c08b6300cd5dfcaf71", null ],
+    [ "RemoveFlag", "d7/dc3/a08844.html#a4ca3645233a466345d6be217d7a0df2b", null ],
+    [ "value", "d7/dc3/a08844.html#a74592e45f8ae4c5f411a982227f809f3", null ]
 ];

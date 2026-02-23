@@ -1,5 +1,6 @@
 var a12452 =
 [
-    [ "at_dragonspire_hall", "d4/d4a/a12452.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
-    [ "OnTrigger", "d4/d4a/a12452.html#a0433930ec050a9dbeb60e1b1122772e3", null ]
+    [ "instance_blackrock_depths_InstanceMapScript", "d6/d1b/a12456.html", "d6/d1b/a12456" ],
+    [ "instance_blackrock_depths", "d4/d4a/a12452.html#a8d906bdb520b2c7907b94b0e22b5cdf4", null ],
+    [ "GetInstanceScript", "d4/d4a/a12452.html#af8f8c9929cae50c098efc5a0dbdd727a", null ]
 ];

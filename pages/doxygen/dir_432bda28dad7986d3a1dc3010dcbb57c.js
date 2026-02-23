@@ -5,5 +5,6 @@ var dir_432bda28dad7986d3a1dc3010dcbb57c =
     [ "Events", "dir_3291cceaca648ebc4ba25acfe38eae5c.html", "dir_3291cceaca648ebc4ba25acfe38eae5c" ],
     [ "Globals", "dir_4078a875a6d63902e5ef80a2620acb56.html", "dir_4078a875a6d63902e5ef80a2620acb56" ],
     [ "Miscellaneous", "dir_8303d6c15c2da3f083d7d0da7d55e7c8.html", "dir_8303d6c15c2da3f083d7d0da7d55e7c8" ],
-    [ "Pools", "dir_6c056af80b919649fcf50736e999ee3c.html", "dir_6c056af80b919649fcf50736e999ee3c" ]
+    [ "Pools", "dir_6c056af80b919649fcf50736e999ee3c.html", "dir_6c056af80b919649fcf50736e999ee3c" ],
+    [ "Spells", "dir_7ee4929d46277e5eb29eea0f8a31fa60.html", "dir_7ee4929d46277e5eb29eea0f8a31fa60" ]
 ];

@@ -1,6 +1,5 @@
 var a01913 =
 [
-    [ "EncryptableAndCompressiblePacket", "db/dbd/a11365.html", "db/dbd/a11365" ],
-    [ "ClientPktHeader", "df/d07/a11369.html", "df/d07/a11369" ],
-    [ "WorldSocket", "d0/d5e/a11373.html", "d0/d5e/a11373" ]
+    [ "RASession", "d8/d73/a05872.html", "d8/d73/a05872" ],
+    [ "bufferSize", "d4/d07/a01913.html#af86f08ffe713b38f728cb02c7f06c0e1", null ]
 ];

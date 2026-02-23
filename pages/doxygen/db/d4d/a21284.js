@@ -1,6 +1,6 @@
 var a21284 =
 [
-    [ "instance_utgarde_keep_InstanceMapScript", "d9/da9/a21288.html", "d9/da9/a21288" ],
-    [ "instance_utgarde_keep", "db/d4d/a21284.html#abe013e4f086f63722a6398b2b7928c80", null ],
-    [ "GetInstanceScript", "db/d4d/a21284.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
+    [ "npc_ichor_globuleAI", "d9/da9/a21288.html", "d9/da9/a21288" ],
+    [ "npc_ichor_globule", "db/d4d/a21284.html#a4dbd3b057e319ba83e0e1c94b99cd2ab", null ],
+    [ "GetAI", "db/d4d/a21284.html#a4fed5ebd2e1b6ff6867a9488a6e1aef2", null ]
 ];

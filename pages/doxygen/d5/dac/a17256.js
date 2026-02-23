@@ -1,18 +1,15 @@
 var a17256 =
 [
-    [ "boss_garfrostAI", "d5/dac/a17256.html#af9f0a6bc8b982b025312d6b2c1f91549", null ],
-    [ "DamageTaken", "d5/dac/a17256.html#a7a033f54f2c994c74b7125fb549af513", null ],
-    [ "EnterEvadeMode", "d5/dac/a17256.html#acca25c3bf34760ed1f0e451d8d304ab6", null ],
-    [ "JustDied", "d5/dac/a17256.html#a6439d3163c49973b36ae10c85b9dd11e", null ],
-    [ "JustEngagedWith", "d5/dac/a17256.html#a06e1b8d8e0b1f0fd5fac0b2a4bad4ad6", null ],
-    [ "KilledUnit", "d5/dac/a17256.html#af3751410e925a20c21b282d1b2de3bf3", null ],
-    [ "MovementInform", "d5/dac/a17256.html#aadebdb2dd4402be150711f98dfab3f5f", null ],
-    [ "Reset", "d5/dac/a17256.html#a916fd78cf3fd309ab8b13c96325002f2", null ],
-    [ "SetData", "d5/dac/a17256.html#a3563e70e731836857837b1d4ac135130", null ],
-    [ "SpellHitTarget", "d5/dac/a17256.html#ab7a4941d3d4565215ab3ac200ee1d534", null ],
-    [ "UpdateAI", "d5/dac/a17256.html#a27cf76c48504dfb21f1a4a0caf9dd4cb", null ],
-    [ "bCanSayBoulderHit", "d5/dac/a17256.html#a587196314c341334418ea19c7f9ea597", null ],
-    [ "events", "d5/dac/a17256.html#addafeb61c54f95e71d9c45de3bddd25b", null ],
-    [ "phase", "d5/dac/a17256.html#a917a6a57e8c55b9be92f01e2e7422508", null ],
-    [ "pInstance", "d5/dac/a17256.html#a57ded0b0c7085ea978c01efa28e7d096", null ]
+    [ "boss_falricAI", "d5/dac/a17256.html#a8b333fe1571f98b4e9f44152d130a22d", null ],
+    [ "DoAction", "d5/dac/a17256.html#a2a7de8f939cd3cdc113c841da36e28c8", null ],
+    [ "EnterEvadeMode", "d5/dac/a17256.html#aacb6a3b13fe5ea08ab2ff0e77ff841a4", null ],
+    [ "JustDied", "d5/dac/a17256.html#a4ee3163afcda23102d639740fd628f39", null ],
+    [ "JustEngagedWith", "d5/dac/a17256.html#ae5a8b14e1984dbd2866af7c442c02df2", null ],
+    [ "KilledUnit", "d5/dac/a17256.html#a4a8b45eb85c1328af6beec69f2db1842", null ],
+    [ "Reset", "d5/dac/a17256.html#a0af8ef161bc2a37a5c7f7fa880194251", null ],
+    [ "UpdateAI", "d5/dac/a17256.html#a640036111dcd14e40016342ffdef7d63", null ],
+    [ "events", "d5/dac/a17256.html#aa94ca00db157378071b78142b213de23", null ],
+    [ "pInstance", "d5/dac/a17256.html#aebeae3541bbbf392c44fd52516bb2d98", null ],
+    [ "startFightTimer", "d5/dac/a17256.html#addd560074b840aed36f41883f893340e", null ],
+    [ "uiHopelessnessCount", "d5/dac/a17256.html#a0ad83fb57263116a59976834c6667ea9", null ]
 ];

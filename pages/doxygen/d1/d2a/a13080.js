@@ -1,7 +1,5 @@
 var a13080 =
 [
-    [ "HandleDummy", "d1/d2a/a13080.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
-    [ "PrepareSpellScript", "d1/d2a/a13080.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
-    [ "Register", "d1/d2a/a13080.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
-    [ "Validate", "d1/d2a/a13080.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
+    [ "go_blackened_urn", "d1/d2a/a13080.html#aaa311353e693a0dd7fd9a6f8e617e0ab", null ],
+    [ "OnGossipHello", "d1/d2a/a13080.html#ab091bd54734acc65532303a391441ee2", null ]
 ];

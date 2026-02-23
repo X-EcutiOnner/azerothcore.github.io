@@ -1,6 +1,6 @@
 var a24628 =
 [
-    [ "DeathEvent", "d8/dc3/a24628.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "d8/dc3/a24628.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "d8/dc3/a24628.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "HandleEffectCalcSpellMod", "d8/dc3/a24628.html#afbeb38535f9330cb1e74345f0c3a833a", null ],
+    [ "PrepareAuraScript", "d8/dc3/a24628.html#a911a292f535abda7b56d837a05c66d0d", null ],
+    [ "Register", "d8/dc3/a24628.html#a46493bf3521a0427a63596734d592c61", null ]
 ];

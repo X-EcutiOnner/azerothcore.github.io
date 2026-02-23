@@ -1,7 +1,9 @@
 var a17888 =
 [
-    [ "npc_gunship_rocketeerAI", "d5/de4/a17888.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
-    [ "CanAIAttack", "d5/de4/a17888.html#a4b4e2839e426bdb752beea09394f13dc", null ],
-    [ "MovementInform", "d5/de4/a17888.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
-    [ "UpdateAI", "d5/de4/a17888.html#af73d71750f116fb90be1c2acba75ca70", null ]
+    [ "FilterTargetsInitial", "d5/de4/a17888.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
+    [ "FilterTargetsSubsequent", "d5/de4/a17888.html#a11732039155235c287757980129d5a8e", null ],
+    [ "Load", "d5/de4/a17888.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
+    [ "PrepareSpellScript", "d5/de4/a17888.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
+    [ "Register", "d5/de4/a17888.html#a56a4e65df08a95fddde75162358155c2", null ],
+    [ "_target", "d5/de4/a17888.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
 ];

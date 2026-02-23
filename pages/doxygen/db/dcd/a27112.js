@@ -1,8 +1,6 @@
 var a27112 =
 [
-    [ "ApplyEffect", "db/dcd/a27112.html#a0c303c58064236969e17d1f2df3e0556", null ],
-    [ "PrepareAuraScript", "db/dcd/a27112.html#a716a483282946f840ac15d73c6e21a94", null ],
-    [ "Register", "db/dcd/a27112.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
-    [ "RemoveEffect", "db/dcd/a27112.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
-    [ "Validate", "db/dcd/a27112.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
+    [ "HandleTriggerSpell", "db/dcd/a27112.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
+    [ "PrepareAuraScript", "db/dcd/a27112.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
+    [ "Register", "db/dcd/a27112.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
 ];

@@ -1,8 +1,10 @@
 var a25556 =
 [
-    [ "CalcPeriodic", "d9/d82/a25556.html#ab11cad89fe213256353c88c351a8743b", null ],
-    [ "HandleUpdatePeriodic", "d9/d82/a25556.html#a096bc5640e42232f7754251daf5b6a8a", null ],
-    [ "OnApply", "d9/d82/a25556.html#ae00430a1418a0c3e91ae340f1a33f157", null ],
-    [ "PrepareAuraScript", "d9/d82/a25556.html#a85b849676d1c4c08921edff8d472da04", null ],
-    [ "Register", "d9/d82/a25556.html#a75a4f12269c7684335c3c09cd5002586", null ]
+    [ "CheckProc", "d9/d82/a25556.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
+    [ "HandleProc", "d9/d82/a25556.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
+    [ "OnApply", "d9/d82/a25556.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
+    [ "OnRemove", "d9/d82/a25556.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
+    [ "PrepareAuraScript", "d9/d82/a25556.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
+    [ "Register", "d9/d82/a25556.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
+    [ "Validate", "d9/d82/a25556.html#a91c5a0e10c308332e18dc40033049996", null ]
 ];

@@ -1,5 +1,6 @@
 var a26932 =
 [
-    [ "EarthenPowerTargetSelector", "d6/dc5/a26932.html#a61290afcc621c73682160a4e6a6e0f5d", null ],
-    [ "operator()", "d6/dc5/a26932.html#a9f3d7e7bdb3a3affa72da57903f28940", null ]
+    [ "HandleScriptEffect", "d6/dc5/a26932.html#a8b60ae77f13045a582548fe5d1186d54", null ],
+    [ "PrepareSpellScript", "d6/dc5/a26932.html#ad68619783c4a1aad5a24826bf5d89858", null ],
+    [ "Register", "d6/dc5/a26932.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
 ];

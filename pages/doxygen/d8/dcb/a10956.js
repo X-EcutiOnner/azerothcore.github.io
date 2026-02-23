@@ -1,11 +1,19 @@
 var a10956 =
 [
-    [ "LFGJoin", "d8/dcb/a10956.html#a50c79bdef7393907673a328bc36ff8ae", null ],
-    [ "Read", "d8/dcb/a10956.html#a5eca5c5a528cf00f1e6aad99ce5386ed", null ],
-    [ "Achievements", "d8/dcb/a10956.html#a587e98d4a1c8ff0cacd459298a4193c8", null ],
-    [ "Comment", "d8/dcb/a10956.html#a3e12e650a1fa573aafd7c03abd970aff", null ],
-    [ "Needs", "d8/dcb/a10956.html#a313c16e84e2cd0b55551d16273e95917", null ],
-    [ "NoPartialClear", "d8/dcb/a10956.html#aad54be871d0978034fb69a464fd5b9df", null ],
-    [ "Roles", "d8/dcb/a10956.html#a5eaccbeb4fc8b21f5398e216589cb99b", null ],
-    [ "Slots", "d8/dcb/a10956.html#aa14a07716504723283ad80c6357cf53f", null ]
+    [ "GuildBankSwapItems", "d8/dcb/a10956.html#ab335b2ce30db878b41fa3a61953d7d60", null ],
+    [ "Read", "d8/dcb/a10956.html#a3f64634235beeabb9cee055926e6260a", null ],
+    [ "AutoStore", "d8/dcb/a10956.html#aa9eba5c523f7318b2c5e1fa09032920f", null ],
+    [ "Banker", "d8/dcb/a10956.html#a464b37b7cb45a474531662a5032728e6", null ],
+    [ "BankItemCount", "d8/dcb/a10956.html#af11a90a704181b7ed9d823367daf8dc9", null ],
+    [ "BankOnly", "d8/dcb/a10956.html#a2078c50c82bb7b889575da516108f16d", null ],
+    [ "BankSlot", "d8/dcb/a10956.html#a9250ac77819b5ad0be64507d890723c3", null ],
+    [ "BankSlot1", "d8/dcb/a10956.html#ae1e39a84d20fe752311e839384ffdf47", null ],
+    [ "BankTab", "d8/dcb/a10956.html#a39134b0defcdea989bf034decf6001e3", null ],
+    [ "BankTab1", "d8/dcb/a10956.html#a714d47cb3f39425c80094ee9d7f20a12", null ],
+    [ "ContainerItemSlot", "d8/dcb/a10956.html#a2d4830a216f616646e1119d7282c0f94", null ],
+    [ "ContainerSlot", "d8/dcb/a10956.html#a0032741b343e3c5a05a8ca30e46126ee", null ],
+    [ "ItemID", "d8/dcb/a10956.html#a6c231ac64ec02cb360bdd8bf88e134b5", null ],
+    [ "ItemID1", "d8/dcb/a10956.html#adc987aa11525cb48a9e5e9d789fe47bd", null ],
+    [ "StackCount", "d8/dcb/a10956.html#af4ce1f211586bd988ec884820038e049", null ],
+    [ "ToSlot", "d8/dcb/a10956.html#a0294b1260e1b90386b9096e08f9f7838", null ]
 ];

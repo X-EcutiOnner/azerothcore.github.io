@@ -1,12 +1,7 @@
 var a11000 =
 [
-    [ "StartMirrorTimer", "d4/d70/a11000.html#a86039d4a721636477f266712682883f0", null ],
-    [ "StartMirrorTimer", "d4/d70/a11000.html#a5202945882fb3cb5dd8574b6e6f8d5b0", null ],
-    [ "Write", "d4/d70/a11000.html#afa6cc6032804e3d8f3f7797b2231847f", null ],
-    [ "MaxValue", "d4/d70/a11000.html#a3f26c682d547be40d2800eff2189348d", null ],
-    [ "Paused", "d4/d70/a11000.html#af3994b2c6a57e734f9d1ebeedcab7759", null ],
-    [ "Scale", "d4/d70/a11000.html#a5879b6c796d7d7c2fd59001d2813a6b3", null ],
-    [ "SpellID", "d4/d70/a11000.html#a3d90aa3046eb6272249f8fe171d7cd2f", null ],
-    [ "Timer", "d4/d70/a11000.html#abb9dbec2c5df4b2dfbc96314a0465011", null ],
-    [ "Value", "d4/d70/a11000.html#ad0f2f8f95fdea9a7555e3056bb49cc53", null ]
+    [ "InstanceResetFailed", "d4/d70/a11000.html#a246b4ab5e9567b99ba83b2a3c9b6c039", null ],
+    [ "Write", "d4/d70/a11000.html#a29506768ce5a5312e659ec787dbc2f8e", null ],
+    [ "MapId", "d4/d70/a11000.html#a3a14b2f4eb5e6d1ce768fe45881e2206", null ],
+    [ "Reason", "d4/d70/a11000.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0", null ]
 ];

@@ -1,10 +1,13 @@
 var a05764 =
 [
-    [ "BasicStatementTask", "d3/da4/a05764.html#a11c6f1259d1d6d9c50211784636e45c4", null ],
-    [ "~BasicStatementTask", "d3/da4/a05764.html#a0db608b5bae77e5f83b0e1bf5850719f", null ],
-    [ "Execute", "d3/da4/a05764.html#a7f500736cc0ec4cddf94510927989d4d", null ],
-    [ "GetFuture", "d3/da4/a05764.html#aa574f8cc00ac956d23f93c7e96864fc9", null ],
-    [ "m_has_result", "d3/da4/a05764.html#a8bfae5e5695a6bf6bf796d95efa21e7e", null ],
-    [ "m_result", "d3/da4/a05764.html#af70bc95cbf0df481dacf034ff78d2eb8", null ],
-    [ "m_sql", "d3/da4/a05764.html#a9320235413d1c4736301070e1faeb161", null ]
+    [ "IntervalTimer", "d3/da4/a05764.html#a2538976b639e25e63a8ab5927663ade1", null ],
+    [ "GetCurrent", "d3/da4/a05764.html#a93a456d6ff6d74cc889517fc585626e8", null ],
+    [ "GetInterval", "d3/da4/a05764.html#a986bec1dcb7325088517f6721636abcc", null ],
+    [ "Passed", "d3/da4/a05764.html#a9b3ac2407baf9763fa899e35a5c55fbe", null ],
+    [ "Reset", "d3/da4/a05764.html#ae243f18c4c3174b91fa01f6d08b04d4d", null ],
+    [ "SetCurrent", "d3/da4/a05764.html#ab315f686c2777dc21c824d8674479f9f", null ],
+    [ "SetInterval", "d3/da4/a05764.html#a28d95330f971d3a37aaf53e4f16aad4a", null ],
+    [ "Update", "d3/da4/a05764.html#aa1f5b922ea2d95c49924a506ca37a676", null ],
+    [ "_current", "d3/da4/a05764.html#a99c5aec27af00ffbbd83c5adbd2e2016", null ],
+    [ "_interval", "d3/da4/a05764.html#a179584ce91f62ba5e74ae3f34ee32fbc", null ]
 ];

@@ -1,6 +1,6 @@
 var a24460 =
 [
-    [ "npc_zephyr", "d8/d97/a24460.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
-    [ "OnGossipHello", "d8/d97/a24460.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
-    [ "OnGossipSelect", "d8/d97/a24460.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
+    [ "HandleEffectApply", "d8/d97/a24460.html#a4bc121ecc9357709ec2f1ea395d0b6b1", null ],
+    [ "PrepareAuraScript", "d8/d97/a24460.html#ac7f16aed55aedba6da0672c3102a5fae", null ],
+    [ "Register", "d8/d97/a24460.html#a83e15d7db1b9aa4ce4fbc8a359795091", null ]
 ];

@@ -1,5 +1,6 @@
 var a23832 =
 [
-    [ "at_rp_nethekurse", "d4/dce/a23832.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
-    [ "_OnTrigger", "d4/dce/a23832.html#a93001d6dda7b2711f1efe100ffab5879", null ]
+    [ "HandleAfterRemove", "d4/dce/a23832.html#ac9756a8f206c114ff6443331ca266184", null ],
+    [ "PrepareAuraScript", "d4/dce/a23832.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
+    [ "Register", "d4/dce/a23832.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
 ];

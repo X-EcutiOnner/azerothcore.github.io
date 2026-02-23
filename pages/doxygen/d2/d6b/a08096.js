@@ -1,7 +1,6 @@
 var a08096 =
 [
-    [ "ForcedDespawnDelayEvent", "d2/d6b/a08096.html#ad3cf785f62ec0d7069493fee39227bc3", null ],
-    [ "Execute", "d2/d6b/a08096.html#a735c709b269458911bd93da1902cbe25", null ],
-    [ "m_owner", "d2/d6b/a08096.html#aa4fa09703f39ae8bbe0b7483a27d9cc3", null ],
-    [ "m_respawnTimer", "d2/d6b/a08096.html#a5db78930a1fda07f2020b23158ebb93d", null ]
+    [ "p0", "d2/d6b/a08096.html#aaf1df5d479ef12c6bfa9b02c8d9a54ad", null ],
+    [ "p1", "d2/d6b/a08096.html#a8c5a9c6371f264469203575be48684fa", null ],
+    [ "p2", "d2/d6b/a08096.html#a40d46738768d6c2037e5978ce32a9fb8", null ]
 ];

@@ -1,6 +1,6 @@
 var a23268 =
 [
-    [ "HandleProc", "d9/d80/a23268.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
-    [ "PrepareAuraScript", "d9/d80/a23268.html#a94b244ef26355d53c874aec6d26f3a53", null ],
-    [ "Register", "d9/d80/a23268.html#a9499d88802213ceb877e19d1651324f2", null ]
+    [ "boss_rokmar_the_crackler", "d9/d80/a23268.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
+    [ "JustEngagedWith", "d9/d80/a23268.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
+    [ "Reset", "d9/d80/a23268.html#aed9cf4a866d5e70647125a08885fb809", null ]
 ];

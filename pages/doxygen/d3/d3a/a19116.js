@@ -1,6 +1,8 @@
 var a19116 =
 [
-    [ "npc_icc_putricades_trapAI", "d0/d15/a19120.html", "d0/d15/a19120" ],
-    [ "npc_icc_putricades_trap", "d3/d3a/a19116.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
-    [ "GetAI", "d3/d3a/a19116.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
+    [ "npc_arthas_teleport_visualAI", "d3/d3a/a19116.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
+    [ "Reset", "d3/d3a/a19116.html#a27155b8880a2a86b733bcd074e977b59", null ],
+    [ "UpdateAI", "d3/d3a/a19116.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
+    [ "_events", "d3/d3a/a19116.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
+    [ "_instance", "d3/d3a/a19116.html#a25bc023e061a0845421a652b571a6e1e", null ]
 ];

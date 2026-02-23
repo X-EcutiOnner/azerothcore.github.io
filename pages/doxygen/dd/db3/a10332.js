@@ -1,10 +1,13 @@
 var a10332 =
 [
-    [ "AllItemScript", "dd/db3/a10332.html#a7c0e310c69966e0eab6f2951dedcda63", null ],
-    [ "CanItemExpire", "dd/db3/a10332.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
-    [ "CanItemQuestAccept", "dd/db3/a10332.html#a545e2bc7436a064146025954eaf5ae92", null ],
-    [ "CanItemRemove", "dd/db3/a10332.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
-    [ "CanItemUse", "dd/db3/a10332.html#a89d237f426840658e4423fb9cc7428db", null ],
-    [ "OnItemGossipSelect", "dd/db3/a10332.html#a7157f72c6d09988b60480d1671892cde", null ],
-    [ "OnItemGossipSelectCode", "dd/db3/a10332.html#a9e13f025e5cf10bf51c87a4dc1e7968d", null ]
+    [ "entry", "dd/db3/a10332.html#a300fb240386044aab139e777d6244d19", null ],
+    [ "map", "dd/db3/a10332.html#a2ec529bbd5b03490899a5c3a41cf739a", null ],
+    [ "o", "dd/db3/a10332.html#a379e36eac68d8ff487c90fdb9be0e83d", null ],
+    [ "rot0", "dd/db3/a10332.html#a8b808a7545a7efaf0bf352ec663ca9ba", null ],
+    [ "rot1", "dd/db3/a10332.html#a9aa433644fc5bedbb3749eacfd9a57fd", null ],
+    [ "rot2", "dd/db3/a10332.html#ae7c9755e9ae6293b3be8bdc121040f7f", null ],
+    [ "rot3", "dd/db3/a10332.html#a60460fc3030b24eef0246dae28af2282", null ],
+    [ "x", "dd/db3/a10332.html#a1587c3d17c78e1a94a1f2bc30b831c02", null ],
+    [ "y", "dd/db3/a10332.html#ab42ebe981ba589e3d67110487bd88255", null ],
+    [ "z", "dd/db3/a10332.html#a389d430f290dbb66d46ccb81daac6f0d", null ]
 ];

@@ -1,7 +1,11 @@
 var a22160 =
 [
-    [ "HandleDummy", "d4/dbe/a22160.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
-    [ "PrepareSpellScript", "d4/dbe/a22160.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
-    [ "Register", "d4/dbe/a22160.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
-    [ "Validate", "d4/dbe/a22160.html#aeec15705a41ad2ac0e59d90086591d96", null ]
+    [ "npc_iron_watcherAI", "d4/dbe/a22160.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
+    [ "MovementInform", "d4/dbe/a22160.html#aaf329f0160efa778abdebf86b1cf230b", null ],
+    [ "Reset", "d4/dbe/a22160.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
+    [ "SpellHit", "d4/dbe/a22160.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
+    [ "UpdateAI", "d4/dbe/a22160.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
+    [ "charging", "d4/dbe/a22160.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
+    [ "hpTimer", "d4/dbe/a22160.html#afcbb113387345361baf0351a19e6eb1d", null ],
+    [ "spellTimer", "d4/dbe/a22160.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
 ];

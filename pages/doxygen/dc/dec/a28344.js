@@ -1,7 +1,6 @@
 var a28344 =
 [
-    [ "Class", "dc/dec/a28344.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
-    [ "Gender", "dc/dec/a28344.html#aba6251a7020c6e66b9fc7a21859df271", null ],
-    [ "ItemId", "dc/dec/a28344.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
-    [ "Race", "dc/dec/a28344.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
+    [ "npc_preciousAI", "d6/d3d/a28348.html", "d6/d3d/a28348" ],
+    [ "npc_precious", "dc/dec/a28344.html#a3c3ad9da13de64498cabc8e252e99ab2", null ],
+    [ "GetAI", "dc/dec/a28344.html#a754ad85c8b1942b400a47c28297bad62", null ]
 ];

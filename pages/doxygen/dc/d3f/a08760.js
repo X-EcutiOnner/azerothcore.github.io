@@ -1,6 +1,5 @@
 var a08760 =
 [
-    [ "GlobalCooldown", "dc/d3f/a08760.html#a5859ccec9d1fdf0a8f11f5ab77c135a9", null ],
-    [ "cast_time", "dc/d3f/a08760.html#a7e2fe46367bad59669b0f2fd33736b30", null ],
-    [ "duration", "dc/d3f/a08760.html#a7fbf3127e4a2cc93171934148275ae1d", null ]
+    [ "Rank", "dc/d3f/a08760.html#a61797c7cb799308a7c20a954d287be17", null ],
+    [ "SkillId", "dc/d3f/a08760.html#a3f28221b1c8e91bf9f2fa6337e81c952", null ]
 ];

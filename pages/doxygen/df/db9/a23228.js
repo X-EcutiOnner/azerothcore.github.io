@@ -1,8 +1,7 @@
 var a23228 =
 [
-    [ "instance_black_temple_InstanceMapScript", "df/db9/a23228.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
-    [ "OnCreatureCreate", "df/db9/a23228.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
-    [ "OnGameObjectCreate", "df/db9/a23228.html#a564a49814ceb3b3161a6476335ab653a", null ],
-    [ "SetBossState", "df/db9/a23228.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
-    [ "ashtongueGUIDs", "df/db9/a23228.html#a85fa9c5231f13529a0741b0f92266c90", null ]
+    [ "PeriodicTick", "df/db9/a23228.html#a789d2d4d2bc75e412abe80a33102fa06", null ],
+    [ "PrepareAuraScript", "df/db9/a23228.html#a49db8ade3bc3a3da9e043e8b9ad1759d", null ],
+    [ "Register", "df/db9/a23228.html#aec2d7f564107f5b294a5d5c3dd3f9b25", null ],
+    [ "Validate", "df/db9/a23228.html#a7c2309d3192b2a18d8035c8067849d6d", null ]
 ];

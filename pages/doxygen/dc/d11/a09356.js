@@ -1,8 +1,7 @@
 var a09356 =
 [
-    [ "CreatureListSearcher", "dc/d11/a09356.html#a7b16bf9b7a847a08fa6582b81b607e20", null ],
-    [ "Visit", "dc/d11/a09356.html#a48c084b8fbcbf7db7c051d1aa2aff523", null ],
-    [ "Visit", "dc/d11/a09356.html#a91fcbdcfb08964ebaacec8acae13476b", null ],
-    [ "i_check", "dc/d11/a09356.html#a985d622243d5c7c6c91eb01377b0f91b", null ],
-    [ "i_phaseMask", "dc/d11/a09356.html#a10e4e1fb5749d2b1065dd6a1245783d0", null ]
+    [ "V8Type", "dc/d11/a09356.html#a385ac15640b76e43eda077c451dcd745", null ],
+    [ "V9Type", "dc/d11/a09356.html#a9b7daa2ba0e72e137243ac061efaa2a5", null ],
+    [ "v8", "dc/d11/a09356.html#a55d7b001e047c31686b110cc4b1aa295", null ],
+    [ "v9", "dc/d11/a09356.html#ab4f6ec9aefc2721bd216582d7a882aa3", null ]
 ];

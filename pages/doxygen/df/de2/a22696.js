@@ -1,5 +1,7 @@
 var a22696 =
 [
-    [ "OutdoorPvP_grizzly_hills", "df/de2/a22696.html#aa020d8120c62874fb15b4623bbb714d9", null ],
-    [ "GetOutdoorPvP", "df/de2/a22696.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
+    [ "HandleOnEffectApply", "df/de2/a22696.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
+    [ "HandleOnEffectRemove", "df/de2/a22696.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
+    [ "PrepareAuraScript", "df/de2/a22696.html#a45df29f911b1232e306e04a182648904", null ],
+    [ "Register", "df/de2/a22696.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
 ];

@@ -1,8 +1,9 @@
 var a15556 =
 [
-    [ "npc_ahnqiraji_critter", "d9/d58/a15556.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "d9/d58/a15556.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "d9/d58/a15556.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "d9/d58/a15556.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "d9/d58/a15556.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "npc_eye_tentacle", "d9/d58/a15556.html#a106deeb95d74597377d32e81695dc3c9", null ],
+    [ "JustDied", "d9/d58/a15556.html#aac965d97034f4f623172297e4f82647e", null ],
+    [ "JustEngagedWith", "d9/d58/a15556.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
+    [ "Reset", "d9/d58/a15556.html#a715439dfa31b4cf9df7ddd678d912108", null ],
+    [ "UpdateAI", "d9/d58/a15556.html#a48f9067f27d61e609a014669c1daedb9", null ],
+    [ "_portalGUID", "d9/d58/a15556.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
 ];

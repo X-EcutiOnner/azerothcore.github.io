@@ -1,7 +1,6 @@
 var a22944 =
 [
-    [ "HandleScriptEffect", "d5/d7d/a22944.html#a6ec6e79849c618d009eae3551e16ff0a", null ],
-    [ "PrepareSpellScript", "d5/d7d/a22944.html#a4f00eca7c78a785780be4379c1a56a6b", null ],
-    [ "Register", "d5/d7d/a22944.html#adb676b9d6f36c30efbb8286b1e5edf6d", null ],
-    [ "Validate", "d5/d7d/a22944.html#a9ce122d497e72e3a46b1857d722af48d", null ]
+    [ "PrepareSpellScript", "d5/d7d/a22944.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
+    [ "Register", "d5/d7d/a22944.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
+    [ "RemoveSpines", "d5/d7d/a22944.html#a076b056328ba6181a6ec907f21258f9d", null ]
 ];

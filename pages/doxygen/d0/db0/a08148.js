@@ -1,9 +1,7 @@
 var a08148 =
 [
-    [ "VendorItem", "d0/db0/a08148.html#ae79c26c304bee575a722f8a82fc79fd2", null ],
-    [ "IsGoldRequired", "d0/db0/a08148.html#a5f335ffdb5d82418cdb4eb7a606692c1", null ],
-    [ "ExtendedCost", "d0/db0/a08148.html#a18234f38ff242b8687265f9acf70dbe0", null ],
-    [ "incrtime", "d0/db0/a08148.html#afe3bb3324faf1beae6ee17c223678e9b", null ],
-    [ "item", "d0/db0/a08148.html#a6b26a96440c885684c173ee17d788896", null ],
-    [ "maxcount", "d0/db0/a08148.html#a98be1e0499d9ae9cfb176063991f72ee", null ]
+    [ "LfgReward", "d0/db0/a08148.html#afe2ea037fa24064c2bf04cfc6303d903", null ],
+    [ "firstQuest", "d0/db0/a08148.html#a28162b1e43a5309ab01ca99b45d29799", null ],
+    [ "maxLevel", "d0/db0/a08148.html#aae6e46155dc790ed7c63f5f0b8e08395", null ],
+    [ "otherQuest", "d0/db0/a08148.html#a96de83c64efc3009d7d5cd04a61e71b2", null ]
 ];

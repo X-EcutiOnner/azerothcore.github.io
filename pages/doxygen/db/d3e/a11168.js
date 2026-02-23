@@ -1,6 +1,5 @@
 var a11168 =
 [
-    [ "TotemDestroyed", "db/d3e/a11168.html#a3bcaa030b2c15d54617564cf0f5e4c36", null ],
-    [ "Read", "db/d3e/a11168.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2", null ],
-    [ "Slot", "db/d3e/a11168.html#a41eebde65aa696c2dec812da0aeab633", null ]
+    [ "DurabilityDamageDeath", "db/d3e/a11168.html#a9b4350d37291b9b714be1563b28dcb43", null ],
+    [ "Write", "db/d3e/a11168.html#a35a93d9abeeb029f3da080487423f495", null ]
 ];

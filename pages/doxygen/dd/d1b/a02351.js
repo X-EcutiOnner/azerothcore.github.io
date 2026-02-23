@@ -1,62 +1,50 @@
 var a02351 =
 [
-    [ "ArenaTeamMember", "d3/d40/a07373.html", "d3/d40/a07373" ],
-    [ "ArenaTeamStats", "df/d4b/a07377.html", "df/d4b/a07377" ],
-    [ "ArenaTeam", "d5/d3e/a07381.html", "d5/d3e/a07381" ],
-    [ "MAX_ARENA_SLOT", "dd/d1b/a02351.html#a3ed680b9b5f263a9c57435bf412b89f6", null ],
-    [ "ArenaSlot", "dd/d1b/a02351.html#af7e171357dbfd0fedfa2da950cf6abbf", [
-      [ "ARENA_SLOT_2v2", "dd/d1b/a02351.html#af7e171357dbfd0fedfa2da950cf6abbfa91adb8a9823496c7b8bbece5e5a3a74e", null ],
-      [ "ARENA_SLOT_3v3", "dd/d1b/a02351.html#af7e171357dbfd0fedfa2da950cf6abbfab5c77731583aa5a2ef36073e297be240", null ],
-      [ "ARENA_SLOT_5v5", "dd/d1b/a02351.html#af7e171357dbfd0fedfa2da950cf6abbfaa750824f1390167b2db96f7a04288990", null ]
+    [ "npc_gilthares", "d9/d48/a16068.html", "d9/d48/a16068" ],
+    [ "npc_gilthares::npc_giltharesAI", "dd/db5/a16072.html", "dd/db5/a16072" ],
+    [ "npc_taskmaster_fizzule", "d6/dc9/a16076.html", "d6/dc9/a16076" ],
+    [ "npc_taskmaster_fizzule::npc_taskmaster_fizzuleAI", "d1/d52/a16080.html", "d1/d52/a16080" ],
+    [ "npc_twiggy_flathead", "d1/d91/a16084.html", "d1/d91/a16084" ],
+    [ "npc_twiggy_flathead::npc_twiggy_flatheadAI", "de/d4d/a16088.html", "de/d4d/a16088" ],
+    [ "npc_wizzlecrank_shredder", "d4/d8c/a16092.html", "d4/d8c/a16092" ],
+    [ "npc_wizzlecrank_shredder::npc_wizzlecrank_shredderAI", "d1/d43/a16096.html", "d1/d43/a16096" ],
+    [ "Gilthares", "dd/d1b/a02351.html#aa3e172c8a560dd0d92fb1d8f79b90716", [
+      [ "SAY_GIL_START", "dd/d1b/a02351.html#aa3e172c8a560dd0d92fb1d8f79b90716a9cc558649c398869a908d76e46580a55", null ],
+      [ "SAY_GIL_AT_LAST", "dd/d1b/a02351.html#aa3e172c8a560dd0d92fb1d8f79b90716a74625b1d5af887cffe07cc6889f66f94", null ],
+      [ "SAY_GIL_PROCEED", "dd/d1b/a02351.html#aa3e172c8a560dd0d92fb1d8f79b90716a83573efbb4a65334a79436dadb172c25", null ],
+      [ "SAY_GIL_FREEBOOTERS", "dd/d1b/a02351.html#aa3e172c8a560dd0d92fb1d8f79b90716add548aa464c97165ed4e9a07e2d26b76", null ],
+      [ "SAY_GIL_AGGRO", "dd/d1b/a02351.html#aa3e172c8a560dd0d92fb1d8f79b90716a189c2478bea56968035dc5626a361ad9", null ],
+      [ "SAY_GIL_ALMOST", "dd/d1b/a02351.html#aa3e172c8a560dd0d92fb1d8f79b90716af98466d2079315f8451fe5fd010cfd86", null ],
+      [ "SAY_GIL_SWEET", "dd/d1b/a02351.html#aa3e172c8a560dd0d92fb1d8f79b90716a53a6c4cad1fc536662a170117dab1f9b", null ],
+      [ "SAY_GIL_FREED", "dd/d1b/a02351.html#aa3e172c8a560dd0d92fb1d8f79b90716af0bf3f928b89fe85bfd73f9973f02046", null ],
+      [ "QUEST_FREE_FROM_HOLD", "dd/d1b/a02351.html#aa3e172c8a560dd0d92fb1d8f79b90716a406ffd8f7c4e1a504188c50f2743b36a", null ]
     ] ],
-    [ "ArenaTeamCommandErrors", "dd/d1b/a02351.html#aaef5689eecf34c2bfc684e272a576b3c", [
-      [ "ERR_ARENA_TEAM_INTERNAL", "dd/d1b/a02351.html#aaef5689eecf34c2bfc684e272a576b3ca41e9ff94d6d37e25de05fa381e169070", null ],
-      [ "ERR_ALREADY_IN_ARENA_TEAM", "dd/d1b/a02351.html#aaef5689eecf34c2bfc684e272a576b3ca604ef0adfa5d8d26e1cd06c96443d7c0", null ],
-      [ "ERR_ALREADY_IN_ARENA_TEAM_S", "dd/d1b/a02351.html#aaef5689eecf34c2bfc684e272a576b3ca2129fd8e1a3016d3f24f87345a5904a6", null ],
-      [ "ERR_INVITED_TO_ARENA_TEAM", "dd/d1b/a02351.html#aaef5689eecf34c2bfc684e272a576b3ca4d75a01959fade0df3db076bd7c5690a", null ],
-      [ "ERR_ALREADY_INVITED_TO_ARENA_TEAM_S", "dd/d1b/a02351.html#aaef5689eecf34c2bfc684e272a576b3cad93a3c8f9993d960fbd8235dc752d6f2", null ],
-      [ "ERR_ARENA_TEAM_NAME_INVALID", "dd/d1b/a02351.html#aaef5689eecf34c2bfc684e272a576b3ca1b9f5d1c1c937e0303c5e3704e20101b", null ],
-      [ "ERR_ARENA_TEAM_NAME_EXISTS_S", "dd/d1b/a02351.html#aaef5689eecf34c2bfc684e272a576b3caedbaa3d036cb3b5652762b91df5f908a", null ],
-      [ "ERR_ARENA_TEAM_LEADER_LEAVE_S", "dd/d1b/a02351.html#aaef5689eecf34c2bfc684e272a576b3ca99b876d236d6a86261af0113b161657d", null ],
-      [ "ERR_ARENA_TEAM_PERMISSIONS", "dd/d1b/a02351.html#aaef5689eecf34c2bfc684e272a576b3caa30839ed27dd1a23b9d26bd4cefb58bd", null ],
-      [ "ERR_ARENA_TEAM_PLAYER_NOT_IN_TEAM", "dd/d1b/a02351.html#aaef5689eecf34c2bfc684e272a576b3ca906a0bd0de6f0ccbd36238309675f75a", null ],
-      [ "ERR_ARENA_TEAM_PLAYER_NOT_IN_TEAM_SS", "dd/d1b/a02351.html#aaef5689eecf34c2bfc684e272a576b3caf6d4ab0d0f708627e4661270079cf5bc", null ],
-      [ "ERR_ARENA_TEAM_PLAYER_NOT_FOUND_S", "dd/d1b/a02351.html#aaef5689eecf34c2bfc684e272a576b3caca502d97b4ce3a42b0c4c4b097ea5872", null ],
-      [ "ERR_ARENA_TEAM_NOT_ALLIED", "dd/d1b/a02351.html#aaef5689eecf34c2bfc684e272a576b3cab073d31d5c2050eb02fa4c8bcbde744b", null ],
-      [ "ERR_ARENA_TEAM_IGNORING_YOU_S", "dd/d1b/a02351.html#aaef5689eecf34c2bfc684e272a576b3ca6c97f9288f5c74a49df5fd3beda71f7d", null ],
-      [ "ERR_ARENA_TEAM_TARGET_TOO_LOW_S", "dd/d1b/a02351.html#aaef5689eecf34c2bfc684e272a576b3cac8c7b33482e44350c2bd5e8dec713ad9", null ],
-      [ "ERR_ARENA_TEAM_TARGET_TOO_HIGH_S", "dd/d1b/a02351.html#aaef5689eecf34c2bfc684e272a576b3ca17bc7cae6e897ba316ede8d045e1e478", null ],
-      [ "ERR_ARENA_TEAM_TOO_MANY_MEMBERS_S", "dd/d1b/a02351.html#aaef5689eecf34c2bfc684e272a576b3ca00fe0fff5f647873a102d0ff5aafa713", null ],
-      [ "ERR_ARENA_TEAM_NOT_FOUND", "dd/d1b/a02351.html#aaef5689eecf34c2bfc684e272a576b3ca6f8d79650a20ea97beef68557013afbc", null ],
-      [ "ERR_ARENA_TEAMS_LOCKED", "dd/d1b/a02351.html#aaef5689eecf34c2bfc684e272a576b3ca6ffa2803290c499255e02a15ac6056af", null ]
+    [ "TaskmasterFizzule", "dd/d1b/a02351.html#a75148097e6b48058f314d1f1d4fc4ed0", [
+      [ "FACTION_FRIENDLY_F", "dd/d1b/a02351.html#a75148097e6b48058f314d1f1d4fc4ed0a31d50866a36abfe970a3514cb06962ea", null ],
+      [ "SPELL_FLARE", "dd/d1b/a02351.html#a75148097e6b48058f314d1f1d4fc4ed0a8046626c29fcfd2e2491ac4f74af6eba", null ],
+      [ "SPELL_FOLLY", "dd/d1b/a02351.html#a75148097e6b48058f314d1f1d4fc4ed0a736760d92e40d0f4387af0951d3ef13a", null ]
     ] ],
-    [ "ArenaTeamCommandTypes", "dd/d1b/a02351.html#a1fcb206499884c4432a2fb3f1bc2e9f8", [
-      [ "ERR_ARENA_TEAM_CREATE_S", "dd/d1b/a02351.html#a1fcb206499884c4432a2fb3f1bc2e9f8acf8f425d01f57269e321e56e23327c6c", null ],
-      [ "ERR_ARENA_TEAM_INVITE_SS", "dd/d1b/a02351.html#a1fcb206499884c4432a2fb3f1bc2e9f8a6db086a93e3a2cef750fa4611d0599c8", null ],
-      [ "ERR_ARENA_TEAM_QUIT_S", "dd/d1b/a02351.html#a1fcb206499884c4432a2fb3f1bc2e9f8a94c61be43bc38d745d50cb849e7c677c", null ],
-      [ "ERR_ARENA_TEAM_FOUNDER_S", "dd/d1b/a02351.html#a1fcb206499884c4432a2fb3f1bc2e9f8a37f9df0d4f22190b5310924b6ac930f1", null ]
+    [ "TwiggyFlathead", "dd/d1b/a02351.html#aa59efdc816049c3fc44f4f97e12a5658", [
+      [ "NPC_BIG_WILL", "dd/d1b/a02351.html#aa59efdc816049c3fc44f4f97e12a5658a52b94fa0523183a46082d10748f5c26e", null ],
+      [ "NPC_AFFRAY_CHALLENGER", "dd/d1b/a02351.html#aa59efdc816049c3fc44f4f97e12a5658aa3eb3b7d13bad2106f352684e916714e", null ],
+      [ "SAY_TWIGGY_FLATHEAD_BEGIN", "dd/d1b/a02351.html#aa59efdc816049c3fc44f4f97e12a5658a28f41773e448294cb2b7bdb0e2196423", null ],
+      [ "SAY_TWIGGY_FLATHEAD_FRAY", "dd/d1b/a02351.html#aa59efdc816049c3fc44f4f97e12a5658a1e039ea737b8aaa19f4293172019e7bd", null ],
+      [ "SAY_TWIGGY_FLATHEAD_DOWN", "dd/d1b/a02351.html#aa59efdc816049c3fc44f4f97e12a5658a0a41b6c14d5e6d0fa171a6ce3571243b", null ],
+      [ "SAY_TWIGGY_FLATHEAD_OVER", "dd/d1b/a02351.html#aa59efdc816049c3fc44f4f97e12a5658afcef9e183c118b65e0e78c8b503eabaa", null ]
     ] ],
-    [ "ArenaTeamEvents", "dd/d1b/a02351.html#ac0a8573a87f770ea7c10df9b77e51c8a", [
-      [ "ERR_ARENA_TEAM_JOIN_SS", "dd/d1b/a02351.html#ac0a8573a87f770ea7c10df9b77e51c8aa87a592f39d8b998672029e2ede3bc7d9", null ],
-      [ "ERR_ARENA_TEAM_LEAVE_SS", "dd/d1b/a02351.html#ac0a8573a87f770ea7c10df9b77e51c8aa483c8031ec08a7c47b67b55b8dd949da", null ],
-      [ "ERR_ARENA_TEAM_REMOVE_SSS", "dd/d1b/a02351.html#ac0a8573a87f770ea7c10df9b77e51c8aa44614d25e1c22b45bd4c11f09f69b6ae", null ],
-      [ "ERR_ARENA_TEAM_LEADER_IS_SS", "dd/d1b/a02351.html#ac0a8573a87f770ea7c10df9b77e51c8aac6e559df2f09cd936ce6ff89d53ce87c", null ],
-      [ "ERR_ARENA_TEAM_LEADER_CHANGED_SSS", "dd/d1b/a02351.html#ac0a8573a87f770ea7c10df9b77e51c8aa1e0474620fe85d5a5073c37c645ff612", null ],
-      [ "ERR_ARENA_TEAM_DISBANDED_S", "dd/d1b/a02351.html#ac0a8573a87f770ea7c10df9b77e51c8aa80c970a7a9b0d59fc7dd0435bbd13c97", null ]
+    [ "Wizzlecrank", "dd/d1b/a02351.html#ac43046d19bb8d15ff051d8b88111a24d", [
+      [ "SAY_MERCENARY", "dd/d1b/a02351.html#ac43046d19bb8d15ff051d8b88111a24daf5cf9a9b244c85c38bd02b6148fe9217", null ],
+      [ "SAY_START", "dd/d1b/a02351.html#ac43046d19bb8d15ff051d8b88111a24da2eae21cbf7d110ee89a9798ef6f00239", null ],
+      [ "SAY_STARTUP1", "dd/d1b/a02351.html#ac43046d19bb8d15ff051d8b88111a24da38e6de67604407821fa452a13ee74da2", null ],
+      [ "SAY_STARTUP2", "dd/d1b/a02351.html#ac43046d19bb8d15ff051d8b88111a24da23d6a197b8495317fae68ebc5426bfd7", null ],
+      [ "SAY_PROGRESS_1", "dd/d1b/a02351.html#ac43046d19bb8d15ff051d8b88111a24dac7ef023ed2cd6e71dcfa4b57f34ffb21", null ],
+      [ "SAY_PROGRESS_2", "dd/d1b/a02351.html#ac43046d19bb8d15ff051d8b88111a24da967473f354dae95832b5e82733f4cced", null ],
+      [ "SAY_PROGRESS_3", "dd/d1b/a02351.html#ac43046d19bb8d15ff051d8b88111a24da25cbd1006b2e610756fbd3227fb87dcc", null ],
+      [ "SAY_END", "dd/d1b/a02351.html#ac43046d19bb8d15ff051d8b88111a24da40884932ffbbf14d6c380b9022bcfe97", null ],
+      [ "QUEST_ESCAPE", "dd/d1b/a02351.html#ac43046d19bb8d15ff051d8b88111a24dac283b4a9a83bbf1c8f03006b37d75208", null ],
+      [ "NPC_PILOT_WIZZ", "dd/d1b/a02351.html#ac43046d19bb8d15ff051d8b88111a24dabea7d3cfb3795470ea680285a2de300b", null ],
+      [ "NPC_MERCENARY", "dd/d1b/a02351.html#ac43046d19bb8d15ff051d8b88111a24da3fe4be631c0b988a493e3867b76fab3f", null ]
     ] ],
-    [ "ArenaTeamInfoType", "dd/d1b/a02351.html#a70db3aa0de523db72170532f1968f53a", [
-      [ "ARENA_TEAM_ID", "dd/d1b/a02351.html#a70db3aa0de523db72170532f1968f53aa7417fe6be6e65f6c6624065d21d8a67d", null ],
-      [ "ARENA_TEAM_TYPE", "dd/d1b/a02351.html#a70db3aa0de523db72170532f1968f53aa4405261c9e2ef19502e7e683f5d50599", null ],
-      [ "ARENA_TEAM_MEMBER", "dd/d1b/a02351.html#a70db3aa0de523db72170532f1968f53aaa0f054a6e3ee861880e5b5d5456534d5", null ],
-      [ "ARENA_TEAM_GAMES_WEEK", "dd/d1b/a02351.html#a70db3aa0de523db72170532f1968f53aa0381830df98ba279e8144613469980af", null ],
-      [ "ARENA_TEAM_GAMES_SEASON", "dd/d1b/a02351.html#a70db3aa0de523db72170532f1968f53aabdca49c47f5919deea0cbc99e949e39a", null ],
-      [ "ARENA_TEAM_WINS_SEASON", "dd/d1b/a02351.html#a70db3aa0de523db72170532f1968f53aaa218bd11a0df7666bff40edceccdc7e3", null ],
-      [ "ARENA_TEAM_PERSONAL_RATING", "dd/d1b/a02351.html#a70db3aa0de523db72170532f1968f53aa8f3ee63b5df0172896a6f69385928d9e", null ],
-      [ "ARENA_TEAM_END", "dd/d1b/a02351.html#a70db3aa0de523db72170532f1968f53aa79d6199c026b36a46345fd73dd98211f", null ]
-    ] ],
-    [ "ArenaTeamTypes", "dd/d1b/a02351.html#a4bcf5153b4e15b706a3ff2dada112cae", [
-      [ "ARENA_TEAM_2v2", "dd/d1b/a02351.html#a4bcf5153b4e15b706a3ff2dada112caea6f737fce1aaa0bd705adbd47d6797614", null ],
-      [ "ARENA_TEAM_3v3", "dd/d1b/a02351.html#a4bcf5153b4e15b706a3ff2dada112caea76932d9f9aa71ed9e8f709d14e8512bd", null ],
-      [ "ARENA_TEAM_5v5", "dd/d1b/a02351.html#a4bcf5153b4e15b706a3ff2dada112caea2ccfa6a14f64fde9ef92b9fc7e0417cc", null ]
-    ] ]
+    [ "AddSC_the_barrens", "dd/d1b/a02351.html#a89bb85fa847a65b610f6b4d1f9f0214c", null ],
+    [ "AffrayChallengerLoc", "dd/d1b/a02351.html#a0e553820217161ed24e533b560f8ab03", null ]
 ];

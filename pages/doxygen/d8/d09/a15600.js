@@ -1,8 +1,6 @@
 var a15600 =
 [
-    [ "npc_injured_draeneiAI", "d8/d09/a15600.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
-    [ "JustEngagedWith", "d8/d09/a15600.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
-    [ "MoveInLineOfSight", "d8/d09/a15600.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
-    [ "Reset", "d8/d09/a15600.html#adcb601f739a91ce71926791885152471", null ],
-    [ "UpdateAI", "d8/d09/a15600.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
+    [ "FilterTargets", "d8/d09/a15600.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
+    [ "PrepareSpellScript", "d8/d09/a15600.html#a32b0be74a9127f920e22aa03c910a005", null ],
+    [ "Register", "d8/d09/a15600.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
 ];

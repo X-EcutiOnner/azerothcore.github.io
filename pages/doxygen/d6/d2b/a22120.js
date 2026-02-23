@@ -1,7 +1,6 @@
 var a22120 =
 [
-    [ "HandleScriptEffect", "d6/d2b/a22120.html#a2d39a073c351860db735301b4cf9c79f", null ],
-    [ "PrepareSpellScript", "d6/d2b/a22120.html#a3674adaef23f1531af360a65c14efadd", null ],
-    [ "Register", "d6/d2b/a22120.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
-    [ "Validate", "d6/d2b/a22120.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
+    [ "npc_jungle_punch_targetAI", "dd/dc4/a22124.html", "dd/dc4/a22124" ],
+    [ "npc_jungle_punch_target", "d6/d2b/a22120.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
+    [ "GetAI", "d6/d2b/a22120.html#abb38ccb55abfe0f48f360469031c6902", null ]
 ];

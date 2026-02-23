@@ -1,7 +1,7 @@
 var a18324 =
 [
-    [ "OnRemove", "d2/d83/a18324.html#aa096174465120bde1994c85f72682be1", null ],
-    [ "PrepareAuraScript", "d2/d83/a18324.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
-    [ "Register", "d2/d83/a18324.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
-    [ "Validate", "d2/d83/a18324.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
+    [ "HandleTriggerSpell", "d2/d83/a18324.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
+    [ "OnRemove", "d2/d83/a18324.html#a238adc96e80c1890934b23dd4a2685b4", null ],
+    [ "PrepareAuraScript", "d2/d83/a18324.html#af9ce7433b620fdf1dea570561c514b3b", null ],
+    [ "Register", "d2/d83/a18324.html#ab36a001ea8cd87703e2694e0765635c0", null ]
 ];

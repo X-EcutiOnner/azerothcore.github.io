@@ -1,6 +1,6 @@
 var a26976 =
 [
-    [ "HandleDummy", "df/d16/a26976.html#af5bccd5dfb9aa37215b083438b6749ea", null ],
-    [ "PrepareSpellScript", "df/d16/a26976.html#a6c2b858c893ed215d1192073b06db81d", null ],
-    [ "Register", "df/d16/a26976.html#a1b23dc4a7a04e4c910bb738d45a8df1f", null ]
+    [ "HandleScript", "df/d16/a26976.html#ae81570045d4984ee5682a0333b1b142d", null ],
+    [ "PrepareSpellScript", "df/d16/a26976.html#acb074781e07961998362349a7616fc4e", null ],
+    [ "Register", "df/d16/a26976.html#aaf41593da5ebb1118ccb10a5d4d32b26", null ]
 ];

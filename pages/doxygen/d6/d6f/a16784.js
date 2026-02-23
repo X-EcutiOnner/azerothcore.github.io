@@ -1,7 +1,6 @@
 var a16784 =
 [
-    [ "HandleDispel", "d6/d6f/a16784.html#a7b24f38bbb7813826520f928b22d30aa", null ],
-    [ "PrepareAuraScript", "d6/d6f/a16784.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
-    [ "Register", "d6/d6f/a16784.html#a2bf6921550da3c13730fd98bded2c927", null ],
-    [ "Validate", "d6/d6f/a16784.html#ad8b0bb389d232c74acf106b711414fa1", null ]
+    [ "npc_nerubian_burrowerAI", "df/d10/a16788.html", "df/d10/a16788" ],
+    [ "npc_nerubian_burrower", "d6/d6f/a16784.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
+    [ "GetAI", "d6/d6f/a16784.html#a145ebac6f95f9190429b9bfa37e23312", null ]
 ];

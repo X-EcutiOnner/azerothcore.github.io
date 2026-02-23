@@ -1,5 +1,8 @@
 var a20972 =
 [
-    [ "achievement_xt002_nerf_engineering", "d6/da0/a20972.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
-    [ "OnCheck", "d6/da0/a20972.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
+    [ "npc_ulduar_keeperAI", "d2/d62/a20976.html", "d2/d62/a20976" ],
+    [ "npc_ulduar_keeper", "d6/da0/a20972.html#a252b781061a2e21dc961ea94f7120d59", null ],
+    [ "GetAI", "d6/da0/a20972.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
+    [ "OnGossipHello", "d6/da0/a20972.html#a4db12efd22c7d2a5f18144fd16543230", null ],
+    [ "OnGossipSelect", "d6/da0/a20972.html#acf8681577117107d16d45705e4b8463f", null ]
 ];

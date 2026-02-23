@@ -1,6 +1,6 @@
 var a16336 =
 [
-    [ "SendEncounterUnit", "d7/da0/a16336.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
-    [ "Execute", "d7/da0/a16336.html#ae21b67f8fe8a0677778436563872495f", null ],
-    [ "_owner", "d7/da0/a16336.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
+    [ "npc_anub_ar_crusher_champion", "d7/da0/a16336.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
+    [ "DoEngagedWith", "d7/da0/a16336.html#a2dcef4fe57880ba725dff52455a7a428", null ],
+    [ "DoEvent", "d7/da0/a16336.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
 ];

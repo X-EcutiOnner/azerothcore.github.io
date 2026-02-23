@@ -1,6 +1,8 @@
 var a18984 =
 [
-    [ "PrepareSpellScript", "db/da3/a18984.html#aac12da39c503615036120e3e0cd55622", null ],
-    [ "Register", "db/da3/a18984.html#a808d2283be9714c14f22a2df0a52dd61", null ],
-    [ "RelocateDest", "db/da3/a18984.html#a843c9dc403404ddd2de667e57e01f00c", null ]
+    [ "FilterTargets", "db/da3/a18984.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
+    [ "HandleForceCast", "db/da3/a18984.html#ae783cf255be823bf7c9125f288479e97", null ],
+    [ "Load", "db/da3/a18984.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
+    [ "PrepareSpellScript", "db/da3/a18984.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
+    [ "Register", "db/da3/a18984.html#a454a8909be4bb85f255ea696041ea447", null ]
 ];

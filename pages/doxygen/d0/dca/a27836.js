@@ -1,6 +1,6 @@
 var a27836 =
 [
-    [ "npc_garments_of_questsAI", "d2/da5/a27840.html", "d2/da5/a27840" ],
-    [ "npc_garments_of_quests", "d0/dca/a27836.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
-    [ "GetAI", "d0/dca/a27836.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
+    [ "HandleOnHit", "d0/dca/a27836.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "d0/dca/a27836.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "d0/dca/a27836.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

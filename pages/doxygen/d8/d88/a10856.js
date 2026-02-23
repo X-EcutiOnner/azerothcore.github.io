@@ -1,7 +1,5 @@
 var a10856 =
 [
-    [ "GuildBankTextQueryResult", "d8/d88/a10856.html#aa1e25895e246c3a688d7850e517858d3", null ],
-    [ "Write", "d8/d88/a10856.html#acb6b28dcf56b821e3c0d5b58f6baa2dd", null ],
-    [ "Tab", "d8/d88/a10856.html#abfc5522a0f94086474493db85ed1ef73", null ],
-    [ "Text", "d8/d88/a10856.html#ae78c1d1b802e12efd058987117158ec3", null ]
+    [ "GuildPermissionsQuery", "d8/d88/a10856.html#a6ab30e173d26362db0065f4f9f8fa5f8", null ],
+    [ "Read", "d8/d88/a10856.html#aec20af8c3c8236627353287fe2eaa0a7", null ]
 ];

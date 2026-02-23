@@ -1,10 +1,7 @@
 var a26340 =
 [
-    [ "CheckProc", "db/db4/a26340.html#a23dfb39522f7a5437af439ef567d6ec6", null ],
-    [ "HandleEffectApply", "db/db4/a26340.html#ab83f17b45edc5dba8f4b3f3fbc88c626", null ],
-    [ "HandleEffectRemove", "db/db4/a26340.html#a7bab07fde0fb18e89388e1bc4c72c165", null ],
-    [ "HandleProc", "db/db4/a26340.html#a8352d7d9376f149fa227f7ca983e2660", null ],
-    [ "PrepareAuraScript", "db/db4/a26340.html#a309dabfa452d3279e7fb47a8e4784779", null ],
-    [ "Register", "db/db4/a26340.html#a3d020d3025f0ad086c43b4239205cd94", null ],
-    [ "Validate", "db/db4/a26340.html#ac3a5505808b3a7e718071f1202805ac5", null ]
+    [ "HandleProc", "db/db4/a26340.html#aac352153b98f5c718af224487a8525c4", null ],
+    [ "PrepareAuraScript", "db/db4/a26340.html#a736fe794862b3a8c08a05f3a773d9a7b", null ],
+    [ "Register", "db/db4/a26340.html#acc0aee7c8b6dcff6f33737ac7428e39f", null ],
+    [ "Validate", "db/db4/a26340.html#afffd780f243317dd90be1908fae7ecd8", null ]
 ];

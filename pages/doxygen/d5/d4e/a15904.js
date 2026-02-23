@@ -1,12 +1,8 @@
 var a15904 =
 [
-    [ "npc_toogaAI", "d5/d4e/a15904.html#a4db363c7e787f5fbbd61b418cfa87367", null ],
-    [ "MoveInLineOfSight", "d5/d4e/a15904.html#aff15508b97bce5f5fad9cf9750e89ff1", null ],
-    [ "MovementInform", "d5/d4e/a15904.html#a9315e8ba2688903aaf5b871a7490a700", null ],
-    [ "Reset", "d5/d4e/a15904.html#acfedaf5cc989451a4259a65661685f66", null ],
-    [ "UpdateFollowerAI", "d5/d4e/a15904.html#a742791e714be1ff713ab87e7d515bd9e", null ],
-    [ "CheckSpeechTimer", "d5/d4e/a15904.html#a938852d834c5eb8ba4abceaf49e9a5da", null ],
-    [ "PhasePostEvent", "d5/d4e/a15904.html#a4996291afa64e35f3604b2a85ea03dda", null ],
-    [ "PostEventTimer", "d5/d4e/a15904.html#abea9fa4d2623dab4f14978a7f94b595f", null ],
-    [ "TortaGUID", "d5/d4e/a15904.html#a4531aa0e2c7fe7f3207e56fc2ed67c25", null ]
+    [ "FilterTargets", "d5/d4e/a15904.html#a47b8055fa1b28968e8323ca98613aa83", null ],
+    [ "HandleScript", "d5/d4e/a15904.html#a8f7984e510d8947a2ae4b0734409866b", null ],
+    [ "PrepareSpellScript", "d5/d4e/a15904.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
+    [ "Register", "d5/d4e/a15904.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
+    [ "Validate", "d5/d4e/a15904.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
 ];

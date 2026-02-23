@@ -1,6 +1,6 @@
 var a24172 =
 [
-    [ "npc_simon_bunnyAI", "d3/ddb/a24176.html", "d3/ddb/a24176" ],
-    [ "npc_simon_bunny", "d3/da6/a24172.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
-    [ "GetAI", "d3/da6/a24172.html#ac0c97609916321a1599c0722803a050f", null ]
+    [ "PrepareSpellScript", "d3/da6/a24172.html#aa858fff409e5c75d865c91cb5fbef679", null ],
+    [ "Register", "d3/da6/a24172.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
+    [ "SetDest", "d3/da6/a24172.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
 ];

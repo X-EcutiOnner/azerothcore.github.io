@@ -1,8 +1,6 @@
 var a28300 =
 [
-    [ "ID", "d5/d75/a28300.html#a36958c346c8554d9ab1cfb73ac583818", null ],
-    [ "Model", "d5/d75/a28300.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
-    [ "Origin", "d5/d75/a28300.html#a684c69add50ee545ee606ae456a93336", null ],
-    [ "OriginFacing", "d5/d75/a28300.html#a460723250353c7720cd87677991283cf", null ],
-    [ "SoundID", "d5/d75/a28300.html#aa56be05c7ab4015738e049d75ff365c6", null ]
+    [ "trigger_periodicAI", "d2/d1f/a28304.html", "d2/d1f/a28304" ],
+    [ "trigger_periodic", "d5/d75/a28300.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
+    [ "GetAI", "d5/d75/a28300.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
 ];

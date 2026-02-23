@@ -1,6 +1,7 @@
 var a11552 =
 [
-    [ "ObjectAreaTargetSelectHandler", "dc/dca/a11552.html#a89b86436bb1de38223165e7ef60f2b61", null ],
-    [ "Call", "dc/dca/a11552.html#a11d2070610d178006231bac274d1f311", null ],
-    [ "pObjectAreaTargetSelectHandlerScript", "dc/dca/a11552.html#a118ca963c6319802806913762c4d1fec", null ]
+    [ "chance", "dc/dca/a11552.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
+    [ "triggeredByAura", "dc/dca/a11552.html#abb48d6093570ba9c5488f200544a1e83", null ],
+    [ "triggeredByEffIdx", "dc/dca/a11552.html#a82d752dedab39f417af225add6af1403", null ],
+    [ "triggeredSpell", "dc/dca/a11552.html#a02ac12119655f9ab82347d21cc68803a", null ]
 ];

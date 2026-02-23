@@ -1,11 +1,6 @@
 var a15628 =
 [
-    [ "npc_stillpine_capitiveAI", "db/d4e/a15628.html#a98560e7fc360dbfa3166805d9ab3feb4", null ],
-    [ "MovementInform", "db/d4e/a15628.html#a1e930b49da85a64aa87ba79b5fe72391", null ],
-    [ "Reset", "db/d4e/a15628.html#a9c884f892e64044057d477bdc0f89eed", null ],
-    [ "StartMoving", "db/d4e/a15628.html#a2552a79cf384cca1203afa7f241c1cb9", null ],
-    [ "UpdateAI", "db/d4e/a15628.html#a25dc06767382b5fee2a7098b58726fb2", null ],
-    [ "_events", "db/d4e/a15628.html#a93dd55d392836d8d085e34293344b700", null ],
-    [ "_movementComplete", "db/d4e/a15628.html#ae8e39ca782aee412e39d65a33d14014e", null ],
-    [ "_playerGUID", "db/d4e/a15628.html#a3fe9a4f01aebb602095d60eb606ce763", null ]
+    [ "FilterTargets", "db/d4e/a15628.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
+    [ "PrepareSpellScript", "db/d4e/a15628.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
+    [ "Register", "db/d4e/a15628.html#aaf7b4fba94d94331f6b35add2b836061", null ]
 ];

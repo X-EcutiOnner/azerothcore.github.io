@@ -1,7 +1,7 @@
 var a25364 =
 [
-    [ "PrepareSpellScript", "db/d64/a25364.html#aad8061898087fbf5eb6527cbaa70927d", null ],
-    [ "RecalculateDamage", "db/d64/a25364.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
-    [ "Register", "db/d64/a25364.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
-    [ "_damagePct", "db/d64/a25364.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
+    [ "ModDest", "db/d64/a25364.html#afe0fb68de61a657ce6900e71973e4d77", null ],
+    [ "ModifyCookingSkill", "db/d64/a25364.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
+    [ "PrepareSpellScript", "db/d64/a25364.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
+    [ "Register", "db/d64/a25364.html#a6919079b43a816eb601a68c51ad39794", null ]
 ];

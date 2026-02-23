@@ -1,5 +1,6 @@
 var a25048 =
 [
-    [ "PrepareSpellScript", "d0/dd2/a25048.html#a41169895bb29fe136e3fb0c2dd50d9fb", null ],
-    [ "Register", "d0/dd2/a25048.html#ab6a32b26cc0277f71a71b9fd1d567bf1", null ]
+    [ "HandleOnEffectHit", "d0/dd2/a25048.html#a07b15e180ee79149cad15b32b3c94359", null ],
+    [ "PrepareSpellScript", "d0/dd2/a25048.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
+    [ "Register", "d0/dd2/a25048.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
 ];

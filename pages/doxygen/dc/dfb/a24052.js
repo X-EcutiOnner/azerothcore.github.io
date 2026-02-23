@@ -1,8 +1,7 @@
 var a24052 =
 [
-    [ "HandleScriptEffect", "dc/dfb/a24052.html#a7cde39fc0844f19604c8026a853e8216", null ],
-    [ "Load", "dc/dfb/a24052.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
-    [ "PrepareSpellScript", "dc/dfb/a24052.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
-    [ "Register", "dc/dfb/a24052.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
-    [ "_currentSpellId", "dc/dfb/a24052.html#a0ad25535ba345fe9672150af67687305", null ]
+    [ "CheckRequirement", "dc/dfb/a24052.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
+    [ "PrepareSpellScript", "dc/dfb/a24052.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
+    [ "Register", "dc/dfb/a24052.html#a25f275e84570f674071bfae03aeb0ddc", null ],
+    [ "Validate", "dc/dfb/a24052.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
 ];

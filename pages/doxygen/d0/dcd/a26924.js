@@ -1,9 +1,6 @@
 var a26924 =
 [
-    [ "CalculateAmount", "d0/dcd/a26924.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
-    [ "CheckProc", "d0/dcd/a26924.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
-    [ "HandleProc", "d0/dcd/a26924.html#a741570ba77f70d90b437198f63e565f3", null ],
-    [ "PrepareAuraScript", "d0/dcd/a26924.html#af4e49e2362994f247c119c16c013e4b3", null ],
-    [ "Register", "d0/dcd/a26924.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
-    [ "Validate", "d0/dcd/a26924.html#a939d6815bcaee9b9d2b062313aac912a", null ]
+    [ "HandleFinish", "d0/dcd/a26924.html#a53263ce51581f36c2df80b49c93fa9d3", null ],
+    [ "PrepareSpellScript", "d0/dcd/a26924.html#a8113f61816473399f0ceab18b104d058", null ],
+    [ "Register", "d0/dcd/a26924.html#a36bf50cdb7be7ba03eafd4848c6ceced", null ]
 ];

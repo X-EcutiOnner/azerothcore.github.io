@@ -1,6 +1,6 @@
 var a16580 =
 [
-    [ "instance_trial_of_the_champion_InstanceMapScript", "d2/d79/a16584.html", "d2/d79/a16584" ],
-    [ "instance_trial_of_the_champion", "dd/d32/a16580.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
-    [ "GetInstanceScript", "dd/d32/a16580.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
+    [ "HandlePeriodic", "dd/d32/a16580.html#a7753587518171689f86f3f76269c1b8a", null ],
+    [ "PrepareAuraScript", "dd/d32/a16580.html#aa73351e7200bee94b0068fb8dabfada5", null ],
+    [ "Register", "dd/d32/a16580.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
 ];

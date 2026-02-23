@@ -1,9 +1,5 @@
 var a17936 =
 [
-    [ "HandleApply", "d9/d2c/a17936.html#a5f23d41765ec949486094a0da45be7e8", null ],
-    [ "HandleRemove", "d9/d2c/a17936.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
-    [ "Load", "d9/d2c/a17936.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
-    [ "PrepareAuraScript", "d9/d2c/a17936.html#aabf5fdf4578935db11e041e638fba187", null ],
-    [ "Register", "d9/d2c/a17936.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
-    [ "SendClientControl", "d9/d2c/a17936.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
+    [ "achievement_flu_shot_shortage", "d9/d2c/a17936.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
+    [ "OnCheck", "d9/d2c/a17936.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
 ];

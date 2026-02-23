@@ -1,15 +1,15 @@
 var a21996 =
 [
-    [ "npc_q24545_lich_kingAI", "d8/d2a/a21996.html#abebe71c6cfb705ce4409dd7fae3842e3", null ],
-    [ "CleanAll", "d8/d2a/a21996.html#a2720994f88a2706a2f0b4fb361f81f2c", null ],
-    [ "JustSummoned", "d8/d2a/a21996.html#a6049433795be30eb31e240a4939ad42f", null ],
-    [ "Reset", "d8/d2a/a21996.html#aebd396de51edef790cd0b599c94f78a0", null ],
-    [ "SetData", "d8/d2a/a21996.html#a8ee3a4f85aebe9b9a8e18858b76042a6", null ],
-    [ "SetGUID", "d8/d2a/a21996.html#ac7c41ebfa7979907aea246af20bcf368", null ],
-    [ "SpellHitTarget", "d8/d2a/a21996.html#adb8be583a14c8d0951b45dc027cf31d9", null ],
-    [ "SummonedCreatureDespawn", "d8/d2a/a21996.html#ae8049cc5b58c6647b37941fb98c51fe5", null ],
-    [ "UpdateAI", "d8/d2a/a21996.html#a24f17e0954e498e4a4b73b4cdffea6a3", null ],
-    [ "events", "d8/d2a/a21996.html#a3e89e187c08f45a51fb69b647dcc766d", null ],
-    [ "playerGUID", "d8/d2a/a21996.html#ac84b9efb3ee2eaa2160afe5d0217a884", null ],
-    [ "summons", "d8/d2a/a21996.html#a1de76ab7f3304f8373c633fa7d0aa533", null ]
+    [ "npc_tirions_gambit_tirionAI", "d8/d2a/a21996.html#a38959c7a5b502b5716a5c09b0f6ae8a4", null ],
+    [ "DoAction", "d8/d2a/a21996.html#a495e0762614020ef6d7b741447099326", null ],
+    [ "DoSummonAction", "d8/d2a/a21996.html#a891b31661705ed4df634059e6165d499", null ],
+    [ "JustSummoned", "d8/d2a/a21996.html#ac62ec499aba734d36249f8c00b36e2d4", null ],
+    [ "Reset", "d8/d2a/a21996.html#afb398bda1d6ee4d35527208e6c5bffee", null ],
+    [ "SetData", "d8/d2a/a21996.html#a41f24de5f824d84edb69c6b2bdca6d4e", null ],
+    [ "SummonedCreatureDespawn", "d8/d2a/a21996.html#aca05fee85997dffba6ec998b144b9495", null ],
+    [ "UpdateEscortAI", "d8/d2a/a21996.html#a0b681d6cc1566e6193f7eb143ab2bd5e", null ],
+    [ "WaypointReached", "d8/d2a/a21996.html#af5fd69b799c6227dba901f434e30c434", null ],
+    [ "_eventOver", "d8/d2a/a21996.html#ac3505c2a8d55afa351543def3e8839de", null ],
+    [ "events", "d8/d2a/a21996.html#a711c55c26187ae695644b770a358766e", null ],
+    [ "summons", "d8/d2a/a21996.html#af574a4b136ff42c597e30c83e4d463ca", null ]
 ];

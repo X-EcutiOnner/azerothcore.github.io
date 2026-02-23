@@ -1,13 +1,9 @@
 var a28980 =
 [
-    [ "MPQArchive", "dc/dd1/a28980.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "dc/dd1/a28980.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "MPQArchive", "dc/dd1/a28980.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "dc/dd1/a28980.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "close", "dc/dd1/a28980.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "close", "dc/dd1/a28980.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "GetFileListTo", "dc/dd1/a28980.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "GetFileListTo", "dc/dd1/a28980.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "isOpened", "dc/dd1/a28980.html#a2026335b9ede29197acfaac8513456d5", null ],
-    [ "mpq_a", "dc/dd1/a28980.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
+    [ "CinematicSequence", "dc/dd1/a28980.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
+    [ "ClassID", "dc/dd1/a28980.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
+    [ "expansion", "dc/dd1/a28980.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
+    [ "name", "dc/dd1/a28980.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
+    [ "powerType", "dc/dd1/a28980.html#a74aec35dc161a7e830453b9365a6f107", null ],
+    [ "spellfamily", "dc/dd1/a28980.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
 ];

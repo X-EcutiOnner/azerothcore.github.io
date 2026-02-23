@@ -1,8 +1,6 @@
 var a27320 =
 [
-    [ "CharacterActionIpLogger", "de/d7f/a27320.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "de/d7f/a27320.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnPlayerCreate", "de/d7f/a27320.html#a48844efac9d9af9c6415ad49d2473688", null ],
-    [ "OnPlayerLogin", "de/d7f/a27320.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
-    [ "OnPlayerLogout", "de/d7f/a27320.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
+    [ "CheckCast", "de/d7f/a27320.html#aecbecbd753b8ed32d51971a090063ef4", null ],
+    [ "PrepareSpellScript", "de/d7f/a27320.html#a0efb319154edb2c798460de72d6a56ed", null ],
+    [ "Register", "de/d7f/a27320.html#acd6ecb0204dd369c410e465551328f56", null ]
 ];

@@ -1,6 +1,7 @@
 var a11148 =
 [
-    [ "NameQuery", "d5/dd9/a11148.html#a7dc5a2dceb475303db4b4ab0c0a6d23c", null ],
-    [ "Read", "d5/dd9/a11148.html#ae4a16ebe5372214d3aec65b056a9426e", null ],
-    [ "Guid", "d5/dd9/a11148.html#a52528a68f1c86196e7428f196f93d12b", null ]
+    [ "RandomRollClient", "d5/dd9/a11148.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
+    [ "Read", "d5/dd9/a11148.html#ab682763f35a40f776b1742927df0a336", null ],
+    [ "Max", "d5/dd9/a11148.html#a45a1e140ed402f54deb4c0798360a43a", null ],
+    [ "Min", "d5/dd9/a11148.html#a3cd07e7891b43b453b56013d76f51f71", null ]
 ];

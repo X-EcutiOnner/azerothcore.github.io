@@ -1,8 +1,8 @@
 var a09540 =
 [
-    [ "AllCreaturesMatchingOneEntryInRange", "da/d6c/a09540.html#a440899ae5e52fedea316b7caa550455e", null ],
-    [ "operator()", "da/d6c/a09540.html#a95c87356617b135cc3ab0aec74e9f9c9", null ],
-    [ "m_fRange", "da/d6c/a09540.html#ac3ca671167fe5dbc8f9798327a8a3fcf", null ],
-    [ "m_pObject", "da/d6c/a09540.html#a1a7b27a1b2f0d623829605e42bf98900", null ],
-    [ "m_uiEntries", "da/d6c/a09540.html#a8411b275c6aad74eac83147a6d06fb0b", null ]
+    [ "MostHPMissingInRange", "da/d6c/a09540.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
+    [ "operator()", "da/d6c/a09540.html#a420388204d8a1420552b902fbcb2bebe", null ],
+    [ "i_hp", "da/d6c/a09540.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
+    [ "i_obj", "da/d6c/a09540.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
+    [ "i_range", "da/d6c/a09540.html#acef63da9004997c7f25056651284efa9", null ]
 ];

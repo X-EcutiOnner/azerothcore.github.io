@@ -1,6 +1,11 @@
 var a14008 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "da/d46/a14012.html", "da/d46/a14012" ],
-    [ "npc_jaina_proudmoore_bfu", "db/dc6/a14008.html#af96c4fac318f44cf6e70817b6960999f", null ],
-    [ "GetAI", "db/dc6/a14008.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
+    [ "npc_supervisor_raelen", "db/dc6/a14008.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
+    [ "CallPeasent", "db/dc6/a14008.html#a0b8d661a86ec334adeb502d6936135ee", null ],
+    [ "Reset", "db/dc6/a14008.html#a656029c56da84d2d3cee7380d6032e3d", null ],
+    [ "SetData", "db/dc6/a14008.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
+    [ "UpdateAI", "db/dc6/a14008.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
+    [ "_events", "db/dc6/a14008.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
+    [ "_PeasentId", "db/dc6/a14008.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
+    [ "peasentGUIDs", "db/dc6/a14008.html#a6e290a29c8205b22bd668f0516e8904a", null ]
 ];

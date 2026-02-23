@@ -1,5 +1,8 @@
 var a15424 =
 [
-    [ "at_cthun_center", "d9/da7/a15424.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
-    [ "OnTrigger", "d9/da7/a15424.html#af744df9577e84ab64749076324e574c9", null ]
+    [ "HandleScript", "d9/da7/a15424.html#ac58aef1b295e32c8a44852278edc18f8", null ],
+    [ "Load", "d9/da7/a15424.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
+    [ "PrepareSpellScript", "d9/da7/a15424.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
+    [ "Register", "d9/da7/a15424.html#a95f4abd67d6baf75980ff28a7518503d", null ],
+    [ "Validate", "d9/da7/a15424.html#a98271e7adb17b11e39241154a83b0d0d", null ]
 ];

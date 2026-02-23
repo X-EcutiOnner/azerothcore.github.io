@@ -1,6 +1,10 @@
 var a11032 =
 [
-    [ "Hello", "d7/dc0/a11032.html#ad5db4a2f7844da17680932ef154f6ecc", null ],
-    [ "Read", "d7/dc0/a11032.html#a23da60884c312ba0c4da2aeba3385b53", null ],
-    [ "Unit", "d7/dc0/a11032.html#a611072003e33b830146fa158646e8ac5", null ]
+    [ "SplitItem", "d7/dc0/a11032.html#a805c2c75e93d7ef839b3758ffd59f6c6", null ],
+    [ "Read", "d7/dc0/a11032.html#a59edb1d3445897bfaff1e97d703b42bb", null ],
+    [ "Count", "d7/dc0/a11032.html#a097ed361c33f7415ed4d7efe6ab985e8", null ],
+    [ "DestinationBag", "d7/dc0/a11032.html#ac60d1b0b51ef1b91fd51d900bb825153", null ],
+    [ "DestinationSlot", "d7/dc0/a11032.html#aaf03b2ba6c3519008515c75f6f09aa60", null ],
+    [ "SourceBag", "d7/dc0/a11032.html#aa87bc282a672ae8f9a747ad65400ef03", null ],
+    [ "SourceSlot", "d7/dc0/a11032.html#a82dbf4e94d9bb1a352bf03d76a14950b", null ]
 ];

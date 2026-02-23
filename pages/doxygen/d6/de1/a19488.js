@@ -1,13 +1,15 @@
 var a19488 =
 [
-    [ "npc_vortex_ride", "d6/de1/a19488.html#ac801c66b9aafcb51902ed9d1b6087f23", null ],
-    [ "AttackStart", "d6/de1/a19488.html#a2a39caa082468ba4b2e6debc2639203a", null ],
-    [ "DamageTaken", "d6/de1/a19488.html#a4a317d732d9a71e70ba422a7b046b9b4", null ],
-    [ "MoveInLineOfSight", "d6/de1/a19488.html#a3f4bbcfec590ef3750845d8167a137d5", null ],
-    [ "PassengerBoarded", "d6/de1/a19488.html#acc1b89defd5ea52467dd83ef87f07ce8", null ],
-    [ "UpdateAI", "d6/de1/a19488.html#aa6b4fcf79b4ff88dfc34577c8cfa51d9", null ],
-    [ "bUpdatedFlying", "d6/de1/a19488.html#a09b82761e9b76d1a903e6c2894410bcb", null ],
-    [ "despawnTimer", "d6/de1/a19488.html#ab18637398a1ca7dfea76cdbed2753f28", null ],
-    [ "timer", "d6/de1/a19488.html#a34831d341551ebb36b4f9a26e12e1f36", null ],
-    [ "VORTEX_RADIUS", "d6/de1/a19488.html#ad7539b34beea5abb05f443d1f5f22675", null ]
+    [ "boss_heigan", "d6/de1/a19488.html#a402b76bd927dd738bdbdf7faff93394c", null ],
+    [ "CheckSafetyDance", "d6/de1/a19488.html#a378397cc91408b812c76f657a96285e1", null ],
+    [ "JustDied", "d6/de1/a19488.html#a259c99e12b92ccb99af16949e37b5c48", null ],
+    [ "JustEngagedWith", "d6/de1/a19488.html#a55f1fd72fefe1a47cbc9390ad7c2831d", null ],
+    [ "KilledUnit", "d6/de1/a19488.html#a5210d37ca829ff81ca25478a0c27a8ea", null ],
+    [ "Reset", "d6/de1/a19488.html#a11035ab423fd556ccdb1ec8f85160df3", null ],
+    [ "StartFightPhase", "d6/de1/a19488.html#ab1ae2d814f7258aed760a1644d2de69a", null ],
+    [ "UpdateAI", "d6/de1/a19488.html#a36c0bc5abff61b435f2a8163687b122a", null ],
+    [ "_currentPhase", "d6/de1/a19488.html#a1065c6221b30536344e7d4d0779abd17", null ],
+    [ "_currentSection", "d6/de1/a19488.html#adcf2448a0868ea3e900609c8e7e34154", null ],
+    [ "_eruptionScheduler", "d6/de1/a19488.html#a53ed837f6a898551bc7daa4be8b05ee6", null ],
+    [ "_moveRight", "d6/de1/a19488.html#a43d360ff1b8e569a5f9f894b456cb751", null ]
 ];

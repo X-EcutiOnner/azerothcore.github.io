@@ -1,8 +1,7 @@
 var a27760 =
 [
-    [ "npc_elder_clearwaterAI", "dc/dc5/a27764.html", "dc/dc5/a27764" ],
-    [ "npc_elder_clearwater", "dd/d88/a27760.html#abeee1650938a71762bb0c148ea9834d1", null ],
-    [ "GetAI", "dd/d88/a27760.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
-    [ "OnGossipHello", "dd/d88/a27760.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
-    [ "OnQuestReward", "dd/d88/a27760.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
+    [ "HandleDummy", "dd/d88/a27760.html#a436ed0843e0035308c69f0854decd7f2", null ],
+    [ "PrepareSpellScript", "dd/d88/a27760.html#a42ff645d6c8e94353ae118327af5f4e6", null ],
+    [ "Register", "dd/d88/a27760.html#a0b69f667ea83dee61206bbc723020cbc", null ],
+    [ "Validate", "dd/d88/a27760.html#a93e68d77227297883aae472ef08fb67c", null ]
 ];

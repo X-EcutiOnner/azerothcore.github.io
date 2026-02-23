@@ -1,12 +1,6 @@
 var a21904 =
 [
-    [ "npc_dalaran_warriorAI", "da/df4/a21904.html#a0c96d8b0797a1388f9fe725753ea91bc", null ],
-    [ "Initialize", "da/df4/a21904.html#aa04ecd7a8f988e94ab663a7994e83dd9", null ],
-    [ "JustEngagedWith", "da/df4/a21904.html#ae6690f0681363784e457fbd653f5b3f9", null ],
-    [ "Reset", "da/df4/a21904.html#a074d116ba39d87fa85c17fbc1764c79b", null ],
-    [ "UpdateAI", "da/df4/a21904.html#ae2a740ecd35694b4d04c6aea7ae567fa", null ],
-    [ "Battleshout_timer", "da/df4/a21904.html#ae36f30f816164b60232bd849e74c3da1", null ],
-    [ "disarm_timer", "da/df4/a21904.html#a54f7ceb37d7e3456166f5af761c95e9e", null ],
-    [ "hamstring_timer", "da/df4/a21904.html#ae0e660b8c3faf70a6061260a4b90a4af", null ],
-    [ "shout_timer", "da/df4/a21904.html#ac91770c1e9eb31d687247450898a48ae", null ]
+    [ "npc_attracted_reef_bullAI", "da/df4/a21904.html#aa8917a912fb31a5987332e53e8d268e7", null ],
+    [ "MovementInform", "da/df4/a21904.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
+    [ "SpellHit", "da/df4/a21904.html#ab06ee7ef84d881262ae682b69fae3135", null ]
 ];

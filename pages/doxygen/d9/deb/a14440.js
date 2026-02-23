@@ -1,7 +1,8 @@
 var a14440 =
 [
-    [ "FilterTargets", "d9/deb/a14440.html#a00adeba9ac3e631109308b1e4bf8f529", null ],
-    [ "HandleEffect", "d9/deb/a14440.html#ab6dd7934cc6f10d327e80cd0b6bdfac9", null ],
-    [ "PrepareSpellScript", "d9/deb/a14440.html#a08127992c96fb02e87e9ade65a5375d5", null ],
-    [ "Register", "d9/deb/a14440.html#aeaf1955aece958a8e7d7773a33177e5d", null ]
+    [ "FilterTargets", "d9/deb/a14440.html#a28450a72f3d8510bdf35390f56a67f71", null ],
+    [ "HandleScriptEffect", "d9/deb/a14440.html#af97c3c43da4b099bc37e2cf4f2733dce", null ],
+    [ "PrepareSpellScript", "d9/deb/a14440.html#ac9298a59bc8b9735c210b630c68a536e", null ],
+    [ "Register", "d9/deb/a14440.html#a3bfc71bb504a0eb0f63ff307c943c23e", null ],
+    [ "Validate", "d9/deb/a14440.html#a41b2f12ebf919b781fdefab3a42bdb84", null ]
 ];

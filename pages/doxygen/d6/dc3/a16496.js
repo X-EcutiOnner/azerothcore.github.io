@@ -1,6 +1,6 @@
 var a16496 =
 [
-    [ "npc_memoryAI", "d8/d3f/a16500.html", "d8/d3f/a16500" ],
-    [ "npc_memory", "d6/dc3/a16496.html#acebf31813025d323f9486d6575a60483", null ],
-    [ "GetAI", "d6/dc3/a16496.html#ad8e532d029217a06d11ae39810498976", null ]
+    [ "SendEncounterUnit", "d6/dc3/a16496.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
+    [ "Execute", "d6/dc3/a16496.html#ae21b67f8fe8a0677778436563872495f", null ],
+    [ "_owner", "d6/dc3/a16496.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
 ];

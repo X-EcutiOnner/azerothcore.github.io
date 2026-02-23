@@ -1,14 +1,16 @@
 var a21316 =
 [
-    [ "npc_massive_jormungarAI", "d1/d1d/a21316.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
-    [ "DoAction", "d1/d1d/a21316.html#a8084994ba056c907b2e487568fa7502a", null ],
-    [ "JustDied", "d1/d1d/a21316.html#a02b4e75227811250e2210f754e6e04f2", null ],
-    [ "JustEngagedWith", "d1/d1d/a21316.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
-    [ "JustReachedHome", "d1/d1d/a21316.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
-    [ "MoveInLineOfSight", "d1/d1d/a21316.html#a55c817111fab479c3abcfca8942f16e8", null ],
-    [ "Reset", "d1/d1d/a21316.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
-    [ "UpdateAI", "d1/d1d/a21316.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
-    [ "events", "d1/d1d/a21316.html#a92334b8178317a91a7d4336096d75f33", null ],
-    [ "m_pInstance", "d1/d1d/a21316.html#ad50a9852370798817fda318f71f27653", null ],
-    [ "summons", "d1/d1d/a21316.html#acfa84efc38b994706015e6d82fe1f653", null ]
+    [ "boss_xevozzAI", "d1/d1d/a21316.html#a422359074a43e84ee6462b61fc4ce6a9", null ],
+    [ "EnterEvadeMode", "d1/d1d/a21316.html#a5557f799c862759c8fd94a98cadee7d5", null ],
+    [ "JustDied", "d1/d1d/a21316.html#a6e66dec2e1bc198d9b3e855366ca8b02", null ],
+    [ "JustEngagedWith", "d1/d1d/a21316.html#a0f8c06f3e0934eb22bf8a26aa3238b50", null ],
+    [ "JustSummoned", "d1/d1d/a21316.html#a04787f7600a817fd63132676590505a8", null ],
+    [ "KilledUnit", "d1/d1d/a21316.html#ad47008e9044815cc4475adbaf3ece543", null ],
+    [ "MoveInLineOfSight", "d1/d1d/a21316.html#a519c1222ef186067dcb9a98bb84ea031", null ],
+    [ "Reset", "d1/d1d/a21316.html#a435b22ca3c7e573d4e3c70e2497063e7", null ],
+    [ "SummonedCreatureDespawn", "d1/d1d/a21316.html#ab6e7bb57110831079ede943a74641bd4", null ],
+    [ "UpdateAI", "d1/d1d/a21316.html#aa61271e4a9d8e13ac875f6efd550aa4b", null ],
+    [ "events", "d1/d1d/a21316.html#a8a5796089d42dad89c9cec5ea4d38321", null ],
+    [ "pInstance", "d1/d1d/a21316.html#a9eda85f10a814efa32f7b224e1772b89", null ],
+    [ "spheres", "d1/d1d/a21316.html#ab1d51bbfd433b37b8ceec15a18d62b17", null ]
 ];

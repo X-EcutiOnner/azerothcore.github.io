@@ -1,6 +1,7 @@
 var a28444 =
 [
-    [ "Id", "db/d22/a28444.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
-    [ "SpellId", "db/d22/a28444.html#ae8c119bacf706916f331d3f316fb1347", null ],
-    [ "TypeFlags", "db/d22/a28444.html#aae92871758e9a738a888cacf0946f16b", null ]
+    [ "npc_doctorAI", "d0/d58/a28448.html", "d0/d58/a28448" ],
+    [ "npc_doctor", "db/d22/a28444.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
+    [ "GetAI", "db/d22/a28444.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
+    [ "OnQuestAccept", "db/d22/a28444.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
 ];

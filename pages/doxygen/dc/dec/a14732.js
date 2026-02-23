@@ -1,8 +1,11 @@
 var a14732 =
 [
-    [ "OnApply", "dc/dec/a14732.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
-    [ "OnRemove", "dc/dec/a14732.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
-    [ "PrepareAuraScript", "dc/dec/a14732.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
-    [ "Register", "dc/dec/a14732.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
-    [ "Validate", "dc/dec/a14732.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
+    [ "npc_high_oracle_soo_roo", "dc/dec/a14732.html#a86f5f3c3869e9fa7afcfc9425dfdfdde", null ],
+    [ "MoveInLineOfSight", "dc/dec/a14732.html#ae3b4da2d6b888cf6325bb93b3fdbde7f", null ],
+    [ "Reset", "dc/dec/a14732.html#a89a60a83a46e0095045b2353e50483ed", null ],
+    [ "UpdateAI", "dc/dec/a14732.html#ac22cfa519e478da643a51ae887f306fd", null ],
+    [ "orphanGUID", "dc/dec/a14732.html#acd6636eb290a2fe4470b04d467ff7fa1", null ],
+    [ "phase", "dc/dec/a14732.html#abeec923d25d21773f9d8f8ba1deb0148", null ],
+    [ "playerGUID", "dc/dec/a14732.html#a329832491f86c6fcc9ccc4c98b19991e", null ],
+    [ "timer", "dc/dec/a14732.html#aa5238d3ee361374681947de874391a1f", null ]
 ];

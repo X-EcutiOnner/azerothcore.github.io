@@ -1,6 +1,7 @@
 var a23452 =
 [
-    [ "HandleEffectRemove", "d3/d4d/a23452.html#a4000209ccbcbc62a51db3e7b672ea69d", null ],
-    [ "PrepareAuraScript", "d3/d4d/a23452.html#adc6f982b0e3cc56039746f425cb09113", null ],
-    [ "Register", "d3/d4d/a23452.html#a5ceecc2f9a9664755b5e492fda54a560", null ]
+    [ "boss_the_maker", "d3/d4d/a23452.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
+    [ "JustDied", "d3/d4d/a23452.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
+    [ "JustEngagedWith", "d3/d4d/a23452.html#a6b0a4442dbabde69ca9352017ee23675", null ],
+    [ "KilledUnit", "d3/d4d/a23452.html#a40643ca00fe7d7029a291335e47c722a", null ]
 ];

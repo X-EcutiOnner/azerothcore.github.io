@@ -1,6 +1,9 @@
 var a13740 =
 [
-    [ "ChangeSummonPos", "dc/d3c/a13740.html#ae24a7c8279a92f1018748a0e930736ac", null ],
-    [ "PrepareSpellScript", "dc/d3c/a13740.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
-    [ "Register", "dc/d3c/a13740.html#a03a1a1e5501452eacaceadd9725f2287", null ]
+    [ "npc_demonic_vapor_trail", "dc/d3c/a13740.html#a5bd024ea050372e982a183da59b45904", null ],
+    [ "JustSummoned", "dc/d3c/a13740.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
+    [ "Reset", "dc/d3c/a13740.html#a9da762ab640abfaf5092034f284239af", null ],
+    [ "SpellHitTarget", "dc/d3c/a13740.html#a21e2223f58156da2fbe1803554623ecd", null ],
+    [ "UpdateAI", "dc/d3c/a13740.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
+    [ "_timer", "dc/d3c/a13740.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
 ];

@@ -1,7 +1,6 @@
 var a21260 =
 [
-    [ "npc_frost_tomb", "da/d91/a21260.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "da/d91/a21260.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "da/d91/a21260.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "da/d91/a21260.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "boss_erekemAI", "db/ded/a21264.html", "db/ded/a21264" ],
+    [ "boss_erekem", "da/d91/a21260.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
+    [ "GetAI", "da/d91/a21260.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
 ];

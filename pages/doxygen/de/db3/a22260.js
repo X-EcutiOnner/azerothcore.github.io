@@ -1,6 +1,7 @@
 var a22260 =
 [
-    [ "npc_boneguard_footmanAI", "d9/d11/a22264.html", "d9/d11/a22264" ],
-    [ "npc_boneguard_footman", "de/db3/a22260.html#aba17f89b9546deff5401ad33224b2b3e", null ],
-    [ "GetAI", "de/db3/a22260.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
+    [ "HandleDummy", "de/db3/a22260.html#acdf98990ad575fec751a541cac3bcffa", null ],
+    [ "PrepareSpellScript", "de/db3/a22260.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
+    [ "Register", "de/db3/a22260.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
+    [ "Validate", "de/db3/a22260.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
 ];

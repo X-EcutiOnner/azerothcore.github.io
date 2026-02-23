@@ -1,6 +1,6 @@
 var a01301 =
 [
-    [ "InstanceMapScript", "d5/d61/a10432.html", "d5/d61/a10432" ],
-    [ "GenericInstanceMapScript< IS >", "d9/dbb/a10436.html", "d9/dbb/a10436" ],
+    [ "InstanceMapScript", "d4/d05/a10552.html", "d4/d05/a10552" ],
+    [ "GenericInstanceMapScript< IS >", "d5/dc7/a10556.html", "d5/dc7/a10556" ],
     [ "RegisterInstanceScript", "d3/d07/a01301.html#a78044a95772db069981b463451a60613", null ]
 ];

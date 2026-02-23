@@ -1,11 +1,10 @@
 var a08796 =
 [
-    [ "DispelInfo", "d8/d88/a08796.html#ab6e88e6fc168d22a8b31754a9b1bf2e5", null ],
-    [ "GetDispeller", "d8/d88/a08796.html#a1c6f02de66ffa847c09d19922b02bc20", null ],
-    [ "GetDispellerSpellId", "d8/d88/a08796.html#a0d09f205ff9374fddc694a66ccf0c31d", null ],
-    [ "GetRemovedCharges", "d8/d88/a08796.html#a9c0bd34ebe7d0a0839b7bdee31ef3f3d", null ],
-    [ "SetRemovedCharges", "d8/d88/a08796.html#a3c249e2b70b9f4d8bb3bd9fed07a1bd7", null ],
-    [ "_chargesRemoved", "d8/d88/a08796.html#a5b6105f37470acb57bbda3e14ee664be", null ],
-    [ "_dispellerSpell", "d8/d88/a08796.html#a484e6d516c5de30413e97f2c4abb5515", null ],
-    [ "_dispellerUnit", "d8/d88/a08796.html#ab14d6e0df8bbb89ef0d3550724209040", null ]
+    [ "EquipmentSet", "d8/d88/a08796.html#acd3085c12c795daceae86e94448109e2", null ],
+    [ "Guid", "d8/d88/a08796.html#aae529ea61a2ad4f114b6a108564f5474", null ],
+    [ "IconName", "d8/d88/a08796.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
+    [ "IgnoreMask", "d8/d88/a08796.html#af116e824d23f000f424f3b261618e827", null ],
+    [ "Items", "d8/d88/a08796.html#a113e6e5883afe38d446a6d435cd34a01", null ],
+    [ "Name", "d8/d88/a08796.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
+    [ "state", "d8/d88/a08796.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
 ];

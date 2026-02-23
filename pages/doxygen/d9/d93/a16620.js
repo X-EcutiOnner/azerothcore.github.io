@@ -1,8 +1,7 @@
 var a16620 =
 [
-    [ "npc_frost_sphereAI", "d9/d93/a16620.html#ae697a98d23d94315768dc866852b6e07", null ],
-    [ "DamageTaken", "d9/d93/a16620.html#a3960f19b456f29a33016d799809a82a8", null ],
-    [ "SpellHit", "d9/d93/a16620.html#af842d47f1e8462fb6368e9dc7a070b84", null ],
-    [ "UpdateAI", "d9/d93/a16620.html#a4e866332045135c867f2b9ee871db0c2", null ],
-    [ "permafrostTimer", "d9/d93/a16620.html#adf7b1b447d0d05a498dd8603dbfab1ab", null ]
+    [ "HandleDummy", "d9/d93/a16620.html#a687cff5dcfcd7d9253182eb604d7a780", null ],
+    [ "PrepareSpellScript", "d9/d93/a16620.html#ab8544e2c9e3bea229abd270c108bfa14", null ],
+    [ "Register", "d9/d93/a16620.html#a144224b42aabc0402b729dcc808d779d", null ],
+    [ "Validate", "d9/d93/a16620.html#a985e843e856a7322bccf8544c45df48c", null ]
 ];

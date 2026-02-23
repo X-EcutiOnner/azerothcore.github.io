@@ -1,8 +1,8 @@
 var a16256 =
 [
-    [ "npc_twilight_summon", "d3/d82/a16256.html#a34697edd1af94814862a50a038625f93", null ],
-    [ "DoAction", "d3/d82/a16256.html#a78ef5af35959e8bedbf7a23569a2f8bd", null ],
-    [ "Reset", "d3/d82/a16256.html#aa909fac05e93a78d3f70222fb82a6841", null ],
-    [ "UpdateAI", "d3/d82/a16256.html#afe47f7af23aa7ef5b59473579c649859", null ],
-    [ "fadeArmorTimer", "d3/d82/a16256.html#a998e2efd9e25915d32b953d684352511", null ]
+    [ "HandleAfterCast", "d3/d82/a16256.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
+    [ "HandleDummyEffect", "d3/d82/a16256.html#a539c233fc820248930e1988c4074b9c8", null ],
+    [ "Load", "d3/d82/a16256.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
+    [ "PrepareSpellScript", "d3/d82/a16256.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
+    [ "Register", "d3/d82/a16256.html#ae90184fd34636b33755b732ec82fd52f", null ]
 ];

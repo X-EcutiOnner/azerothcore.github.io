@@ -1,7 +1,5 @@
 var a19156 =
 [
-    [ "DelayedCastMincharEvent", "d2/d94/a19156.html#a76d8a08ca273eec5b2e083d136336a15", null ],
-    [ "Execute", "d2/d94/a19156.html#a12aeff246d07e541ed192974320842cb", null ],
-    [ "_spellId", "d2/d94/a19156.html#af4ea90407b2c8a283f137d213ffe97be", null ],
-    [ "_trigger", "d2/d94/a19156.html#a9f3cd02e77ad35b98a6753b792383548", null ]
+    [ "at_icc_saurfang_portal", "d2/d94/a19156.html#a7f30058251c520634a0b7bad08380e5d", null ],
+    [ "OnTrigger", "d2/d94/a19156.html#a8980fe0e67aa33335f0fdb947a294213", null ]
 ];

@@ -1,12 +1,8 @@
 var a17132 =
 [
-    [ "npc_phantom_mageAI", "da/d42/a17132.html#ac919dc1ba167cc68714320f9351b99d0", null ],
-    [ "AttackStart", "da/d42/a17132.html#ade9ba7071cff655f2c0133481cb9c2bc", null ],
-    [ "DoAction", "da/d42/a17132.html#a6c66df8b8e59a9dc62f1f944da2afc2c", null ],
-    [ "EnterEvadeMode", "da/d42/a17132.html#a6ca0be233e8866b6154fa6e7164b856d", null ],
-    [ "JustDied", "da/d42/a17132.html#a3a522e4c741bc321469ed87c10cf7904", null ],
-    [ "JustEngagedWith", "da/d42/a17132.html#a5a1bf4aaf716674a63e31d24ae4a5d7c", null ],
-    [ "Reset", "da/d42/a17132.html#a5c29c8d54956a0917df3997118348590", null ],
-    [ "UpdateAI", "da/d42/a17132.html#a7135acfbc36212306a68fc8b758e2881", null ],
-    [ "events", "da/d42/a17132.html#afa0f0b5cac0759db324cea7c64463f75", null ]
+    [ "HandleEffectApply", "da/d42/a17132.html#a92b98d9b9be98c330b6efbe34dae235b", null ],
+    [ "HandleEffectRemove", "da/d42/a17132.html#a04504220319ec562b1b6691f471c1b8d", null ],
+    [ "PrepareAuraScript", "da/d42/a17132.html#a10fd29809373bcfaf38fd587fcdd1dee", null ],
+    [ "Register", "da/d42/a17132.html#a9160c940913e4829bd0a6fe269c3b5d3", null ],
+    [ "Validate", "da/d42/a17132.html#a7f7750933e122e8c672b6b93f4801cd7", null ]
 ];

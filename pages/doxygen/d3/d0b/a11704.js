@@ -1,7 +1,6 @@
 var a11704 =
 [
-    [ "StringTransaction", "d3/d0b/a11704.html#aef82d603733e7cb0636d95abea9e6cdc", null ],
-    [ "Append", "d3/d0b/a11704.html#a0d1d9db61a1b3658c3d0fde37e2a4c5e", null ],
-    [ "GetBuffer", "d3/d0b/a11704.html#a7cb52c3e029cdb971dfbb4048ade25a0", null ],
-    [ "_buf", "d3/d0b/a11704.html#a4ec7dd27d7a2321cd1cead11ca78c1ef", null ]
+    [ "ObjectAreaTargetSelectHandler", "d3/d0b/a11704.html#a89b86436bb1de38223165e7ef60f2b61", null ],
+    [ "Call", "d3/d0b/a11704.html#a11d2070610d178006231bac274d1f311", null ],
+    [ "pObjectAreaTargetSelectHandlerScript", "d3/d0b/a11704.html#a118ca963c6319802806913762c4d1fec", null ]
 ];

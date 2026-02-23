@@ -1,10 +1,8 @@
 var a00188 =
 [
-    [ "VMAP::ModelSpawn", "dd/dfc/a05141.html", "dd/dfc/a05141" ],
-    [ "VMAP::ModelInstance", "d3/d60/a05145.html", "d3/d60/a05145" ],
-    [ "ModelFlags", "da/d15/a00188.html#ac540ff16efadcc07eeb9d8511b94ccce", [
-      [ "MOD_M2", "da/d15/a00188.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673", null ],
-      [ "MOD_WORLDSPAWN", "da/d15/a00188.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46", null ],
-      [ "MOD_HAS_BOUND", "da/d15/a00188.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09", null ]
+    [ "ePoints", "da/d15/a00188.html#a2604bd06487e34b78d3e50cd892f3c4d", [
+      [ "POINT_LAST_POINT", "da/d15/a00188.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
+      [ "POINT_HOME", "da/d15/a00188.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
+      [ "POINT_COMBAT_START", "d5/de9/a00176.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
     ] ]
 ];

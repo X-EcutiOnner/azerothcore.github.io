@@ -1,10 +1,6 @@
 var a11176 =
 [
-    [ "WorldStateInfo", "df/de8/a11180.html", "df/de8/a11180" ],
-    [ "InitWorldStates", "d6/def/a11176.html#a9b1f27c7a07df6629473a6e9d6aa45b5", null ],
-    [ "Write", "d6/def/a11176.html#ad40588a16c7430a633c0537c82ea3a5b", null ],
-    [ "AreaID", "d6/def/a11176.html#a98ac08c68b5c004fd352f38c7084531f", null ],
-    [ "MapID", "d6/def/a11176.html#a657c3043204c6957e8438c3c3c7068f3", null ],
-    [ "Worldstates", "d6/def/a11176.html#a29ffba2a130f0b93d61b2025255502fb", null ],
-    [ "ZoneID", "d6/def/a11176.html#add07a226b1fe8ea752306b0e04d4ef71", null ]
+    [ "UITime", "d6/def/a11176.html#a24311ce7df9e9a0f40a3c5473cef34b3", null ],
+    [ "Write", "d6/def/a11176.html#ab24cdd76abd5914c3a30ee42c7681855", null ],
+    [ "Time", "d6/def/a11176.html#ac4ad6c7c425167e90fd2497f7ebaec4c", null ]
 ];

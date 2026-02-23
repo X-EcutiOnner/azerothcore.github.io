@@ -1,6 +1,6 @@
 var a13952 =
 [
-    [ "npc_marzon_silent_bladeAI", "d8/dc9/a13956.html", "d8/dc9/a13956" ],
-    [ "npc_marzon_silent_blade", "de/dab/a13952.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
-    [ "GetAI", "de/dab/a13952.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
+    [ "HandleSendEvent", "de/dab/a13952.html#a1be975f4440b823c34cc3e790fcff608", null ],
+    [ "PrepareSpellScript", "de/dab/a13952.html#a91ac4a392fcf5b6e833fb3f5103d8e06", null ],
+    [ "Register", "de/dab/a13952.html#a217fb7cb47b08999d49ec04b345b77fe", null ]
 ];

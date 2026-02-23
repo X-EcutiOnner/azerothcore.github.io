@@ -1,10 +1,9 @@
 var a09808 =
 [
-    [ "iterator", "de/df1/a09808.html#a9fada63aa17222fc5e216f3904affafd", null ],
-    [ "begin", "de/df1/a09808.html#aee3a4701c5bc51f4028fe53f18675989", null ],
-    [ "end", "de/df1/a09808.html#ad61defd77296790a6c5d0a43bacbbe4b", null ],
-    [ "getFirst", "de/df1/a09808.html#ae47bba95a17db31a42231da948245387", null ],
-    [ "getLast", "de/df1/a09808.html#ac03e93ac8ad6fc91ec9d2961b8904217", null ],
-    [ "rbegin", "de/df1/a09808.html#af68f1d93a80e13976798dfed0063a1e4", null ],
-    [ "rend", "de/df1/a09808.html#a92c30fb269bc99820b6964a99ee86d98", null ]
+    [ "EmoteChatBuilder", "de/df1/a09808.html#ae1aeb36aad24d5ef28074edfbf2f9e7e", null ],
+    [ "operator()", "de/df1/a09808.html#a133a7bb35e86cf40425910c4f19a3337", null ],
+    [ "i_emote_num", "de/df1/a09808.html#a966b8afcbf5afca3a3466d8e075a9437", null ],
+    [ "i_player", "de/df1/a09808.html#ae09dbfe01b2a24e57b63b2b1df5ad232", null ],
+    [ "i_target", "de/df1/a09808.html#abc538e056d91ea1ee8d6203c96174b1d", null ],
+    [ "i_text_emote", "de/df1/a09808.html#add0630dc3fc76fb4fdb79095e13b2fc0", null ]
 ];

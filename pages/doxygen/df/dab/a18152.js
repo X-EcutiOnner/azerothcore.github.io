@@ -1,11 +1,6 @@
 var a18152 =
 [
-    [ "Load", "df/dab/a18152.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
-    [ "PrepareSpellScript", "df/dab/a18152.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
-    [ "Register", "df/dab/a18152.html#a9adbad7cc2185b22fb16135e78114548", null ],
-    [ "SelectTarget", "df/dab/a18152.html#a296ec09cec9661123ea5c86f3f262f32", null ],
-    [ "SetTarget", "df/dab/a18152.html#a15373dc2a0767e011faf504f6377e24d", null ],
-    [ "StartAttack", "df/dab/a18152.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
-    [ "Validate", "df/dab/a18152.html#a7619f7ec6dc0ce14293414729731ed00", null ],
-    [ "_target", "df/dab/a18152.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
+    [ "DaranavanMoveEvent", "df/dab/a18152.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
+    [ "Execute", "df/dab/a18152.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
+    [ "_darnavan", "df/dab/a18152.html#a7585edb957755efbc6064f232d50ea4e", null ]
 ];

@@ -1,7 +1,6 @@
 var a18156 =
 [
-    [ "HandleDummy", "d1/d64/a18156.html#aa61db53d7395fd45b8569e12978fed0b", null ],
-    [ "PrepareSpellScript", "d1/d64/a18156.html#ab63054debe6763027ab52ad122277719", null ],
-    [ "Register", "d1/d64/a18156.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
-    [ "Validate", "d1/d64/a18156.html#adb7e30d10c2071de5d5070b64a10af30", null ]
+    [ "boss_lady_deathwhisperAI", "db/d41/a18160.html", "db/d41/a18160" ],
+    [ "boss_lady_deathwhisper", "d1/d64/a18156.html#a979411cb834611b1239f3bf9058d316d", null ],
+    [ "GetAI", "d1/d64/a18156.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
 ];

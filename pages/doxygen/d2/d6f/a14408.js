@@ -1,10 +1,8 @@
 var a14408 =
 [
-    [ "npc_zealot_lorkhan", "d2/d6f/a14408.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
-    [ "JustDied", "d2/d6f/a14408.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
-    [ "JustEngagedWith", "d2/d6f/a14408.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
-    [ "Reset", "d2/d6f/a14408.html#abecbd4a2ea2cf3281244933fe7484239", null ],
-    [ "UpdateAI", "d2/d6f/a14408.html#a68c35734f8886b2c241dcbc178899206", null ],
-    [ "_scheduler", "d2/d6f/a14408.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
-    [ "instance", "d2/d6f/a14408.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
+    [ "boss_grilekAI", "d2/d6f/a14408.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
+    [ "JustEngagedWith", "d2/d6f/a14408.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
+    [ "Reset", "d2/d6f/a14408.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
+    [ "UpdateAI", "d2/d6f/a14408.html#a19438103c9a582a7d36d805c80131e8c", null ],
+    [ "_pursuitTargetGUID", "d2/d6f/a14408.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
 ];

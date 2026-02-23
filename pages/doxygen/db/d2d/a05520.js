@@ -1,10 +1,9 @@
 var a05520 =
 [
-    [ "AsyncCallbackProcessor", "db/d2d/a05520.html#aee6f273ab86fad749de85cd12ea32a98", null ],
-    [ "~AsyncCallbackProcessor", "db/d2d/a05520.html#a0a1b8fb7112485c9461387b6effcd56b", null ],
-    [ "AsyncCallbackProcessor", "db/d2d/a05520.html#af575ef04d5b2440ad3a787348e5baf9a", null ],
-    [ "AddCallback", "db/d2d/a05520.html#a47ef165fe4c31f46998f69e8e16625f1", null ],
-    [ "operator=", "db/d2d/a05520.html#ae95508c8bd67d6246279f37cbe6ca8d3", null ],
-    [ "ProcessReadyCallbacks", "db/d2d/a05520.html#a4fce127f587a9da913a9e9061ba538e7", null ],
-    [ "_callbacks", "db/d2d/a05520.html#a372d9496b9a1b3e3f718cefe50164209", null ]
+    [ "IpLocationRecord", "db/d2d/a05520.html#a1dba2f8a7697c7e6fd427089d556c19a", null ],
+    [ "IpLocationRecord", "db/d2d/a05520.html#a10ffefef6ba7d81a23d5d29bc2ee599d", null ],
+    [ "CountryCode", "db/d2d/a05520.html#a9b54a497801e9da396955893473eb7da", null ],
+    [ "CountryName", "db/d2d/a05520.html#acbc8ea139970e7acbad06302d5666eb9", null ],
+    [ "IpFrom", "db/d2d/a05520.html#a97d36332086a339e07b73955f23acd57", null ],
+    [ "IpTo", "db/d2d/a05520.html#a844dfff114f6ce64b79c459527965bfb", null ]
 ];

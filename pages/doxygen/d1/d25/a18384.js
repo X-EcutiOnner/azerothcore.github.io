@@ -1,17 +1,16 @@
 var a18384 =
 [
-    [ "npc_rimefangAI", "d1/d25/a18384.html#ae89b397bafdcb06e94fa94c18ef0d2c8", null ],
-    [ "DoAction", "d1/d25/a18384.html#a79d34453b3ace5c1f80b12b862890e3c", null ],
-    [ "InitializeAI", "d1/d25/a18384.html#ae515d0b1d383c48e40fa4795edd1b247", null ],
-    [ "JustDied", "d1/d25/a18384.html#ab3cd1550cda44cecf889f4bf28f976ba", null ],
-    [ "JustEngagedWith", "d1/d25/a18384.html#ad161bb0a6c76d223b1e687a1cc604375", null ],
-    [ "JustReachedHome", "d1/d25/a18384.html#a7b15a9c6db1a48c3766afcb41d66b61f", null ],
-    [ "JustRespawned", "d1/d25/a18384.html#a47ed52a4a0511d7b1e3eb4bd5da409ca", null ],
-    [ "MovementInform", "d1/d25/a18384.html#aacd146fbfac94b8f82b3971ff74644cc", null ],
-    [ "Reset", "d1/d25/a18384.html#a8956324e2806393d26bf146f4e2c48b0", null ],
-    [ "UpdateAI", "d1/d25/a18384.html#a00872042199924a14089c1057c479ff7", null ],
-    [ "_events", "d1/d25/a18384.html#ade0c279565236eb3fd59fd43eef4c3e1", null ],
-    [ "_icyBlastCounter", "d1/d25/a18384.html#aef3e7d4cd3d23f407ef4ba5aa5c737c9", null ],
-    [ "_instance", "d1/d25/a18384.html#ad12541907c439117cf8c8a6741c07445", null ],
-    [ "_summoned", "d1/d25/a18384.html#aa27dd1e338145a65915262a8d44f7519", null ]
+    [ "boss_rotfaceAI", "d1/d25/a18384.html#abe4c4df1732127814a507b0f99203ebb", null ],
+    [ "EnterEvadeMode", "d1/d25/a18384.html#a8b166241350c7437c0baab2bc783dc93", null ],
+    [ "JustDied", "d1/d25/a18384.html#ab5ba6f23e4a0f097386452bdd497ef5a", null ],
+    [ "JustEngagedWith", "d1/d25/a18384.html#aa34831a7c2986451ff518a76547edecc", null ],
+    [ "JustReachedHome", "d1/d25/a18384.html#adac69ee7aca11d5d355ef71a11a39a1d", null ],
+    [ "JustSummoned", "d1/d25/a18384.html#aaa273c65b0545931797057ca4cdab1eb", null ],
+    [ "KilledUnit", "d1/d25/a18384.html#a9356f21962b312eccfba1b3e75afaba0", null ],
+    [ "Reset", "d1/d25/a18384.html#aed06635aabcb47fd700ab1a894bad13c", null ],
+    [ "SpellHitTarget", "d1/d25/a18384.html#a99d88373a20464fac3ebf035430c2e75", null ],
+    [ "UpdateAI", "d1/d25/a18384.html#aaf47878572d23bfb22f2ae77fed8d95e", null ],
+    [ "_oozeFloodDummyGUIDs", "d1/d25/a18384.html#a28e859c796fc210cba9a1ac7bfd0124a", null ],
+    [ "_oozeFloodStage", "d1/d25/a18384.html#aa007ed2c05914b1ce664d347bb04abaa", null ],
+    [ "infectionCooldown", "d1/d25/a18384.html#a3b9c9223da7cd6163ea6369fee6439f5", null ]
 ];

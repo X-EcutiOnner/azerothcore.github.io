@@ -1,19 +1,7 @@
 var a16164 =
 [
-    [ "boss_hadronox", "df/dac/a16164.html#a5f99247a1eb3ca11741c656db9f91864", null ],
-    [ "DamageTaken", "df/dac/a16164.html#a4c74557d814776061fe6df4c234885f1", null ],
-    [ "DoAction", "df/dac/a16164.html#a822059f4efa5e311bf3f79698ed3aa6e", null ],
-    [ "GetData", "df/dac/a16164.html#a9666b5af984f15afd52b9a81a12fd334", null ],
-    [ "IsInCombatWithPlayer", "df/dac/a16164.html#a00d15de04d2f63c71b762d8c05161295", null ],
-    [ "JustEngagedWith", "df/dac/a16164.html#a0ecc876405753200c1c2fe575635ffb0", null ],
-    [ "JustSummoned", "df/dac/a16164.html#a3a5680abcef0529dcfca6c27f42f8f61", null ],
-    [ "KilledUnit", "df/dac/a16164.html#a721fabc47cb7416879e73e143898ddef", null ],
-    [ "MovementInform", "df/dac/a16164.html#a5e7c5226b0fb26a3c2d75726d5323af6", null ],
-    [ "Reset", "df/dac/a16164.html#a0d73acbe4061d48c2c5deb4203d0c9fb", null ],
-    [ "SummonCrusherPack", "df/dac/a16164.html#ab58a7949dd4797849cf98152e541b9a9", null ],
-    [ "SummonedCreatureEvade", "df/dac/a16164.html#a23fb17d6eb7a03e7efe0bffb28adee0c", null ],
-    [ "UpdateAI", "df/dac/a16164.html#aef361a41c7a3db94c00b594dd82ffabd", null ],
-    [ "_crushersLeft", "df/dac/a16164.html#a386cafa7de8fcaf6ac5d823af01fc443", null ],
-    [ "_doorsWebbed", "df/dac/a16164.html#a1515f5161e04e97734c538d7dede2902", null ],
-    [ "_lastPlayerCombatState", "df/dac/a16164.html#a0cd1b2eae097b327e845e5a3038c6342", null ]
+    [ "npc_ranshallaAI", "d3/d1a/a16168.html", "d3/d1a/a16168" ],
+    [ "npc_ranshalla", "df/dac/a16164.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
+    [ "GetAI", "df/dac/a16164.html#a1a81651366cc05d3ad6e9929160fe059", null ],
+    [ "OnQuestAccept", "df/dac/a16164.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
 ];

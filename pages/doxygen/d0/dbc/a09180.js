@@ -1,10 +1,7 @@
 var a09180 =
 [
-    [ "GridObjectLoader", "d0/dbc/a09180.html#a57cd46fee6f747221761aa3114c40ba6", null ],
-    [ "AddObjectHelper", "d0/dbc/a09180.html#a4e857363f544e91918b22df7fb6b1fe8", null ],
-    [ "LoadAllCellsInGrid", "d0/dbc/a09180.html#a2f4aac240f93354a4a1cd22a7144fb91", null ],
-    [ "LoadCreatures", "d0/dbc/a09180.html#a000e7ba83cc08e6c5b34a9bff222a809", null ],
-    [ "LoadGameObjects", "d0/dbc/a09180.html#ad577dbb6544e806d25b496796651ba5b", null ],
-    [ "_grid", "d0/dbc/a09180.html#abe551354634514fa3998eccb10fcbefe", null ],
-    [ "_map", "d0/dbc/a09180.html#a1d3ca2b103b23a95fb208ee64fe4037b", null ]
+    [ "IsFitToRequirements", "d0/dbc/a09180.html#ac175634ed2eab2911c3749fa208a073a", null ],
+    [ "castFlags", "d0/dbc/a09180.html#a03cd65a460ea252818de9230cb656c1c", null ],
+    [ "spellId", "d0/dbc/a09180.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
+    [ "userType", "d0/dbc/a09180.html#adcf285572403481cb418bddebc5f4bfa", null ]
 ];

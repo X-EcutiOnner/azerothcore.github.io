@@ -1,5 +1,6 @@
 var a28620 =
 [
-    [ "ID", "d4/d1c/a28620.html#a142c8a5e22234e6317ff113618559b8b", null ],
-    [ "Value", "d4/d1c/a28620.html#a693631ac3ce915a1c4adf565517eacf9", null ]
+    [ "CheckCast", "d4/d1c/a28620.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
+    [ "PrepareSpellScript", "d4/d1c/a28620.html#aa3c18907c79309a8924a98bce41e27f1", null ],
+    [ "Register", "d4/d1c/a28620.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
 ];

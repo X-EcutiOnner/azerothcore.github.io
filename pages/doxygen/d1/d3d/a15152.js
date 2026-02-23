@@ -1,5 +1,6 @@
 var a15152 =
 [
-    [ "npc_black_morass_summoned_add", "d1/d3d/a15152.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
-    [ "EnterEvadeMode", "d1/d3d/a15152.html#a437e7b72b985713d22883f3e33f30942", null ]
+    [ "instance_mount_hyjal_InstanceMapScript", "d0/dea/a15156.html", "d0/dea/a15156" ],
+    [ "instance_hyjal", "d1/d3d/a15152.html#ade946c0fcaa4bad790bfcb4b6ffb6420", null ],
+    [ "GetInstanceScript", "d1/d3d/a15152.html#ae6e39933d7cfd6563f6d37636f1c6f68", null ]
 ];

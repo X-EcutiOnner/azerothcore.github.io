@@ -1,12 +1,21 @@
 var a10080 =
 [
-    [ "RotateMovementGenerator", "d7/df8/a10080.html#a89a6559b4380210972e82c6ca6d5a9db", null ],
-    [ "Finalize", "d7/df8/a10080.html#afd7588c7877b116cc9626a774b89d584", null ],
-    [ "GetMovementGeneratorType", "d7/df8/a10080.html#a20677803edf5d93ceae3bf76ef426a81", null ],
-    [ "Initialize", "d7/df8/a10080.html#a18fea8760bb24912af9349a06ff7b596", null ],
-    [ "Reset", "d7/df8/a10080.html#a3e177762fcfc11ac47aa820b46b93ed0", null ],
-    [ "Update", "d7/df8/a10080.html#a0dc8600e3aa862a81735dfb927232e53", null ],
-    [ "m_direction", "d7/df8/a10080.html#a8717e890670d9f4e2ff66c0981d14aa6", null ],
-    [ "m_duration", "d7/df8/a10080.html#a2cb8d5fc3d26c24e62c7373f1ce49b13", null ],
-    [ "m_maxDuration", "d7/df8/a10080.html#a7cf10886bdd50ccbc5900b9229958e01", null ]
+    [ "MapUpdater", "d7/df8/a10080.html#a96424fd90677e0f2d0908f9c25b58d04", null ],
+    [ "~MapUpdater", "d7/df8/a10080.html#aadb5781f6ab6ffd1410486399ccaa0ee", null ],
+    [ "activate", "d7/df8/a10080.html#a7a1362a9b916a0919f0fa6fcbf82ff22", null ],
+    [ "activated", "d7/df8/a10080.html#a9cd15656fd974278fa1d4ba30d6fcea8", null ],
+    [ "deactivate", "d7/df8/a10080.html#ab579ca346d4d19e16bd552ce84bd95b7", null ],
+    [ "schedule_lfg_update", "d7/df8/a10080.html#a4141350af5d8a86481a8e5f29f0ad7e2", null ],
+    [ "schedule_map_preload", "d7/df8/a10080.html#a6caf6c7858d2f3ea6985605b64ea1242", null ],
+    [ "schedule_task", "d7/df8/a10080.html#a9a6a4c2260e0bb48e42b1a7d3216326b", null ],
+    [ "schedule_update", "d7/df8/a10080.html#aafda5775622dcce2e4869cf5d015fefc", null ],
+    [ "update_finished", "d7/df8/a10080.html#ab874c53de215037c8fae77f9dac6601c", null ],
+    [ "wait", "d7/df8/a10080.html#a608eb61de2bacf082422562b049e8652", null ],
+    [ "WorkerThread", "d7/df8/a10080.html#a3cce7e3bbab4e3e875dad9a549c142e8", null ],
+    [ "_cancelationToken", "d7/df8/a10080.html#a96c38c13ce5a71ce63ee0b83e83d5cfd", null ],
+    [ "_condition", "d7/df8/a10080.html#acf5b180bd52ae9244e0eda41bcc7573a", null ],
+    [ "_lock", "d7/df8/a10080.html#a0ed1652ffa76199e1e7d659b5c451549", null ],
+    [ "_queue", "d7/df8/a10080.html#afba30ac2a8ce0540b73f034b73ce5956", null ],
+    [ "_workerThreads", "d7/df8/a10080.html#a06a1943fe78ea8a5da2d4b0453748d90", null ],
+    [ "pending_requests", "d7/df8/a10080.html#aa5243a9d4d3753060570cecde9a3a6e7", null ]
 ];

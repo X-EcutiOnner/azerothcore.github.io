@@ -1,17 +1,11 @@
 var a12100 =
 [
-    [ "boss_drektharAI", "d9/ddb/a12100.html#a4cd7f817b3dfe457cb330e73316e18d1", null ],
-    [ "AttackStart", "d9/ddb/a12100.html#a058d9683179756e49aa4e243d270105c", null ],
-    [ "EnterEvadeMode", "d9/ddb/a12100.html#a7f8677796d1b9dbe7021c056252278d3", null ],
-    [ "JustEngagedWith", "d9/ddb/a12100.html#aea7fad4bfdc14e5526a6620ee5d3ba2e", null ],
-    [ "JustRespawned", "d9/ddb/a12100.html#aef244c80a915eaf4c1e0ff1c1080b18a", null ],
-    [ "Reset", "d9/ddb/a12100.html#a87e1f67ae379360bc0843d7bb3cd0acb", null ],
-    [ "UpdateAI", "d9/ddb/a12100.html#a79f1f0430496d2a1759ded7cca5cdef3", null ],
-    [ "Attacked", "d9/ddb/a12100.html#a6a6b5b2b00e85231441f5a8a0213e5ec", null ],
-    [ "FrenzyTimer", "d9/ddb/a12100.html#afd2d5fc6b7091fb019048d32a8b3631e", null ],
-    [ "KnockdownTimer", "d9/ddb/a12100.html#a235912a2cb78bd10b6b3a45c51ee0cff", null ],
-    [ "ResetTimer", "d9/ddb/a12100.html#a7d7b0a8d19d540e998db3b6e189cc16d", null ],
-    [ "Whirlwind2Timer", "d9/ddb/a12100.html#a788359b7f2df1794dbff643d75b2c561", null ],
-    [ "WhirlwindTimer", "d9/ddb/a12100.html#aef399775e552d7e80224fbb0c2f62aff", null ],
-    [ "YellTimer", "d9/ddb/a12100.html#ad45ea624603c427fa5b3e40cd6ba7f5d", null ]
+    [ "instance_commandscript", "d9/ddb/a12100.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
+    [ "GetCommands", "d9/ddb/a12100.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
+    [ "HandleInstanceGetBossStateCommand", "d9/ddb/a12100.html#a0530ca6481073d6bafd11596546140b0", null ],
+    [ "HandleInstanceListBindsCommand", "d9/ddb/a12100.html#abf42411f9c78ce59b21b34691e3d4233", null ],
+    [ "HandleInstanceSaveDataCommand", "d9/ddb/a12100.html#a4b494a8b1de470612436fbb9fa433416", null ],
+    [ "HandleInstanceSetBossStateCommand", "d9/ddb/a12100.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
+    [ "HandleInstanceStatsCommand", "d9/ddb/a12100.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
+    [ "HandleInstanceUnbindCommand", "d9/ddb/a12100.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
 ];

@@ -1,16 +1,6 @@
 var a13896 =
 [
-    [ "npc_bh_thalorien_dawnseekerAI", "de/d48/a13896.html#aa0fc35194d16d63854926d4266569d77", null ],
-    [ "DamageTaken", "de/d48/a13896.html#a46f47c937db63c2cd12331bce4e251cf", null ],
-    [ "EnterEvadeMode", "de/d48/a13896.html#a55b6176ee579f5f320ce36b63f83d314", null ],
-    [ "JustSummoned", "de/d48/a13896.html#aa23391bbed38571a86508b4c87e5c66c", null ],
-    [ "MovementInform", "de/d48/a13896.html#a5f47c72447c197642a0081e544095489", null ],
-    [ "Reset", "de/d48/a13896.html#a6a9beaf984d954bc11a5f7dff17ca442", null ],
-    [ "SetData", "de/d48/a13896.html#a24293b807b8999acbb6fbe59e3c06232", null ],
-    [ "SummonedCreatureDespawn", "de/d48/a13896.html#a095587a925d6054da2e2fdc9de2b415e", null ],
-    [ "UpdateAI", "de/d48/a13896.html#aa432d9d89eed150f0b3cf0beaef144d2", null ],
-    [ "events", "de/d48/a13896.html#a5b98f3bcba320cbec0116d3f4a8e4d05", null ],
-    [ "morlenGUID", "de/d48/a13896.html#aefe243dea75b1aac366fae1395e0e398", null ],
-    [ "playerGUID", "de/d48/a13896.html#ab93ca177abc21647a1162006ed50a551", null ],
-    [ "summons", "de/d48/a13896.html#af36ccbeaec6bc0157cb8cac6d705c3c3", null ]
+    [ "ChangeSummonPos", "de/d48/a13896.html#ae24a7c8279a92f1018748a0e930736ac", null ],
+    [ "PrepareSpellScript", "de/d48/a13896.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
+    [ "Register", "de/d48/a13896.html#a03a1a1e5501452eacaceadd9725f2287", null ]
 ];

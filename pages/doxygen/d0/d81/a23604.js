@@ -1,6 +1,5 @@
 var a23604 =
 [
-    [ "HandleScript", "d0/d81/a23604.html#ae45f8a366c1594d3723b83ee6e006957", null ],
-    [ "PrepareSpellScript", "d0/d81/a23604.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
-    [ "Register", "d0/d81/a23604.html#a6b9e449a64747f0a5715424295b1c30f", null ]
+    [ "at_shattered_halls_execution", "d0/d81/a23604.html#a73f1d1f03960acd070b7996257f7a526", null ],
+    [ "OnTrigger", "d0/d81/a23604.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
 ];

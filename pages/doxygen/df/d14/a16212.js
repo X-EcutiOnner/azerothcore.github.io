@@ -1,5 +1,6 @@
 var a16212 =
 [
-    [ "achievement_watch_him_die", "df/d14/a16212.html#a0d885871eac61d859780e08c8518bb15", null ],
-    [ "OnCheck", "df/d14/a16212.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
+    [ "npc_weegli_blastfuseAI", "de/d9f/a16216.html", "de/d9f/a16216" ],
+    [ "npc_weegli_blastfuse", "df/d14/a16212.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
+    [ "GetAI", "df/d14/a16212.html#a701681d8771756dac20d30c2e03a1349", null ]
 ];

@@ -1,9 +1,9 @@
 var a26700 =
 [
-    [ "CheckCast", "d0/d77/a26700.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
-    [ "HandleActiveObject", "d0/d77/a26700.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
-    [ "HandleDummy", "d0/d77/a26700.html#a39dd06ae92d04060ee41897318a701fd", null ],
-    [ "Load", "d0/d77/a26700.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
-    [ "PrepareSpellScript", "d0/d77/a26700.html#a016e480d7b2267c9bf824c9cb029f134", null ],
-    [ "Register", "d0/d77/a26700.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
+    [ "CheckProc", "d0/d77/a26700.html#a1ea48d77c2bb5b26c12384e4e11411ff", null ],
+    [ "HandleProc", "d0/d77/a26700.html#afe1282b6df7593066469f3ddf7ff8a33", null ],
+    [ "PrepareAuraScript", "d0/d77/a26700.html#a9585ecde57ccfa26f59174732e3132fc", null ],
+    [ "Register", "d0/d77/a26700.html#aff856108cd0b92c3a4eaeb4c354ee56f", null ],
+    [ "Validate", "d0/d77/a26700.html#a65e88419d625dc6e8033b573ce7f18ee", null ],
+    [ "_triggeredSpellId", "d0/d77/a26700.html#a560ade778e046213f60f48364ea3800c", null ]
 ];
