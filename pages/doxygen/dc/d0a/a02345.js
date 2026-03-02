@@ -1,43 +1,55 @@
 var a02345 =
 [
-    [ "npc_cork_gizelton", "d3/de7/a15848.html", "d3/de7/a15848" ],
-    [ "npc_cork_gizelton::npc_cork_gizeltonAI", "d3/db1/a15852.html", "d3/db1/a15852" ],
-    [ "npc_aged_dying_ancient_kodo", "df/d55/a15856.html", "df/d55/a15856" ],
-    [ "Caravan", "dc/d0a/a02345.html#aec2c916c560ca6ceedd660d3b140e728", [
-      [ "QUEST_BODYGUARD_FOR_HIRE", "dc/d0a/a02345.html#aec2c916c560ca6ceedd660d3b140e728a07d8fdc2ba6f3382ab9a9c0ccb910712", null ],
-      [ "QUEST_GIZELTON_CARAVAN", "dc/d0a/a02345.html#aec2c916c560ca6ceedd660d3b140e728af1f220a5094995c40054b8afcfc956f9", null ],
-      [ "EVENT_RESUME_PATH", "dc/d0a/a02345.html#aec2c916c560ca6ceedd660d3b140e728a69f42ceba9244cdbe2e7dfc9e833acc9", null ],
-      [ "EVENT_WAIT_FOR_ASSIST", "dc/d0a/a02345.html#aec2c916c560ca6ceedd660d3b140e728ac88ffb83ceecf13ef48bd0988529cba7", null ],
-      [ "EVENT_RESTART_ESCORT", "dc/d0a/a02345.html#aec2c916c560ca6ceedd660d3b140e728a7410480ad3fe5ae4742c8d12f885e2d1", null ],
-      [ "NPC_CORK_GIZELTON", "dc/d0a/a02345.html#aec2c916c560ca6ceedd660d3b140e728a3ac8ce9d7c78aa74818eb286eb1530ba", null ],
-      [ "NPC_RIGGER_GIZELTON", "dc/d0a/a02345.html#aec2c916c560ca6ceedd660d3b140e728a73d4fb993cb56f5e539c1255d432d1a5", null ],
-      [ "NPC_CARAVAN_KODO", "dc/d0a/a02345.html#aec2c916c560ca6ceedd660d3b140e728ae4dd98db048a9b333326fb52a0a08858", null ],
-      [ "NPC_VENDOR_TRON", "dc/d0a/a02345.html#aec2c916c560ca6ceedd660d3b140e728acb0c2bc0eea43af8bd0e1801fac8846f", null ],
-      [ "NPC_SUPER_SELLER", "dc/d0a/a02345.html#aec2c916c560ca6ceedd660d3b140e728a8329377778d66d3c939420b04264e573", null ],
-      [ "SAY_CARAVAN_LEAVE", "dc/d0a/a02345.html#aec2c916c560ca6ceedd660d3b140e728a52926a8d01b0b50f89cc5fb99e6919aa", null ],
-      [ "SAY_CARAVAN_HIRE", "dc/d0a/a02345.html#aec2c916c560ca6ceedd660d3b140e728ab0f9b346c5f60c1ec44e45615f360ef3", null ],
-      [ "MAX_CARAVAN_SUMMONS", "dc/d0a/a02345.html#aec2c916c560ca6ceedd660d3b140e728a4466b99c64cd47f91aec55ce7ef75362", null ],
-      [ "NPC_KOLKAR_WAYLAYER", "dc/d0a/a02345.html#aec2c916c560ca6ceedd660d3b140e728af42ec3a8ba079cb93c6ad5406dcc4ece", null ],
-      [ "NPC_KOLKAR_AMBUSHER", "dc/d0a/a02345.html#aec2c916c560ca6ceedd660d3b140e728a7a9eb27a8fb0e7ef6c66a86720d9233c", null ],
-      [ "NPC_LESSER_INFERNAL", "dc/d0a/a02345.html#aec2c916c560ca6ceedd660d3b140e728aae0903900c838cf1102ca86baa598224", null ],
-      [ "NPC_DOOMWARDER", "dc/d0a/a02345.html#aec2c916c560ca6ceedd660d3b140e728ae43176493b6aa526db1f2f2912bf6027", null ],
-      [ "NPC_NETHER", "dc/d0a/a02345.html#aec2c916c560ca6ceedd660d3b140e728ac95afd23fdda714496e33c6aab109eda", null ]
+    [ "BattlegroundDS", "d4/d3b/a07604.html", "d4/d3b/a07604" ],
+    [ "BattlegroundDSCreatures", "dc/d0a/a02345.html#a239235ff6a77dc70519faae59c868202", [
+      [ "BG_DS_NPC_TYPE_WATER_SPOUT", "dc/d0a/a02345.html#a239235ff6a77dc70519faae59c868202ad40b08b0df1abb642f3f0caf18301171", null ]
     ] ],
-    [ "DyingKodo", "dc/d0a/a02345.html#af45ec6fee60329d3c66726e0fa939663", [
-      [ "SAY_SMEED_HOME", "dc/d0a/a02345.html#af45ec6fee60329d3c66726e0fa939663a07ed71cb461662af72c9811505b9c955", null ],
-      [ "QUEST_KODO", "dc/d0a/a02345.html#af45ec6fee60329d3c66726e0fa939663a8019fb9754f039595728a149d4c3214f", null ],
-      [ "NPC_TEXT_KODO", "dc/d0a/a02345.html#af45ec6fee60329d3c66726e0fa939663a934cabb76d1cbddd53e5a682b3560c7e", null ],
-      [ "NPC_SMEED", "dc/d0a/a02345.html#af45ec6fee60329d3c66726e0fa939663ab289aa3f772d2e87dad418d075ab8dce", null ],
-      [ "NPC_AGED_KODO", "dc/d0a/a02345.html#af45ec6fee60329d3c66726e0fa939663ab93894e9256e085d45fb24b0d544e154", null ],
-      [ "NPC_DYING_KODO", "dc/d0a/a02345.html#af45ec6fee60329d3c66726e0fa939663a6116f630ddd9390420cc6aa4230a862e", null ],
-      [ "NPC_ANCIENT_KODO", "dc/d0a/a02345.html#af45ec6fee60329d3c66726e0fa939663a1267b33b446af4c80d35df16c24e2ac3", null ],
-      [ "NPC_TAMED_KODO", "dc/d0a/a02345.html#af45ec6fee60329d3c66726e0fa939663a47e69d141a6091158f3102f0ebc301e3", null ],
-      [ "SPELL_KODO_KOMBO_ITEM", "dc/d0a/a02345.html#af45ec6fee60329d3c66726e0fa939663ad0806f22dfe303368c6bfef3b25bdbe9", null ],
-      [ "SPELL_KODO_KOMBO_PLAYER_BUFF", "dc/d0a/a02345.html#af45ec6fee60329d3c66726e0fa939663a77343420c8740b50963dbc05382dc5ea", null ],
-      [ "SPELL_KODO_KOMBO_DESPAWN_BUFF", "dc/d0a/a02345.html#af45ec6fee60329d3c66726e0fa939663abf5a59eb8d83eefa21ea7e9b53e96ad5", null ],
-      [ "SPELL_KODO_KOMBO_GOSSIP", "dc/d0a/a02345.html#af45ec6fee60329d3c66726e0fa939663a08489d27d91546512009b1555fa59de3", null ]
+    [ "BattlegroundDSCreatureTypes", "dc/d0a/a02345.html#aca2990bbe9b2261c7f9f9761c063c3f4", [
+      [ "BG_DS_NPC_WATERFALL_KNOCKBACK", "dc/d0a/a02345.html#aca2990bbe9b2261c7f9f9761c063c3f4a79cd4de05b72abd60374190c7802850a", null ],
+      [ "BG_DS_NPC_PIPE_KNOCKBACK_1", "dc/d0a/a02345.html#aca2990bbe9b2261c7f9f9761c063c3f4a499e73119219ab047050066925863cbf", null ],
+      [ "BG_DS_NPC_PIPE_KNOCKBACK_2", "dc/d0a/a02345.html#aca2990bbe9b2261c7f9f9761c063c3f4a0f7c473d66f71a2692f1a7b5e1c110b4", null ],
+      [ "BG_DS_NPC_MAX", "dc/d0a/a02345.html#aca2990bbe9b2261c7f9f9761c063c3f4aea764dbeaf590cb06750d0b4146c581a", null ]
     ] ],
-    [ "AddSC_desolace", "dc/d0a/a02345.html#a626ec1db47701aabca9f7bda1c8b7c7a", null ],
-    [ "TIME_HIRE_STOP", "dc/d0a/a02345.html#a4242da8a27377879882360b83ee517d5", null ],
-    [ "TIME_SHOP_STOP", "dc/d0a/a02345.html#a74a579d621e86ff3a69ffef7b34efe7e", null ]
+    [ "BattlegroundDSData", "dc/d0a/a02345.html#aa31b86760427e7e9348ef8bf69da141c", [
+      [ "BG_DS_PIPE_KNOCKBACK_FIRST_DELAY", "dc/d0a/a02345.html#aa31b86760427e7e9348ef8bf69da141cabbf10d8eecab52ccb852376f82fd018d", null ],
+      [ "BG_DS_PIPE_KNOCKBACK_DELAY", "dc/d0a/a02345.html#aa31b86760427e7e9348ef8bf69da141ca35f8577eea8f26daf33a3dd21e2231b5", null ],
+      [ "BG_DS_PIPE_KNOCKBACK_TOTAL_COUNT", "dc/d0a/a02345.html#aa31b86760427e7e9348ef8bf69da141cafa0805e6bb3bad41fe68cd2697758704", null ]
+    ] ],
+    [ "BattlegroundDSEvents", "dc/d0a/a02345.html#a28c190d1bc1cda7ce04873badd8dd1b9", [
+      [ "BG_DS_EVENT_WATERFALL_WARNING", "dc/d0a/a02345.html#a28c190d1bc1cda7ce04873badd8dd1b9a556b41865c0cb90edad807f781c04185", null ],
+      [ "BG_DS_EVENT_WATERFALL_ON", "dc/d0a/a02345.html#a28c190d1bc1cda7ce04873badd8dd1b9a146cc864281f18ab4b717202919f44ce", null ],
+      [ "BG_DS_EVENT_WATERFALL_OFF", "dc/d0a/a02345.html#a28c190d1bc1cda7ce04873badd8dd1b9adb0372ad161febcd2fb2b195e52da56d", null ],
+      [ "BG_DS_EVENT_WATERFALL_KNOCKBACK", "dc/d0a/a02345.html#a28c190d1bc1cda7ce04873badd8dd1b9a90015d0b077cd7e296410208637e46b4", null ],
+      [ "BG_DS_EVENT_PIPE_KNOCKBACK", "dc/d0a/a02345.html#a28c190d1bc1cda7ce04873badd8dd1b9a7fed7cfa0547c6e8ceeb5e3453fa6268", null ]
+    ] ],
+    [ "BattlegroundDSGameObjects", "dc/d0a/a02345.html#a71d8aad7096e6f4e538eadab51fc76f8", [
+      [ "BG_DS_OBJECT_TYPE_DOOR_1", "dc/d0a/a02345.html#a71d8aad7096e6f4e538eadab51fc76f8a8117a9fd3e3221f5980949e5150fe737", null ],
+      [ "BG_DS_OBJECT_TYPE_DOOR_2", "dc/d0a/a02345.html#a71d8aad7096e6f4e538eadab51fc76f8a687d200b385c99eca799508a8a3da61d", null ],
+      [ "BG_DS_OBJECT_TYPE_WATER_1", "dc/d0a/a02345.html#a71d8aad7096e6f4e538eadab51fc76f8ae42c0b118aa8e527eabad9d8302c86db", null ],
+      [ "BG_DS_OBJECT_TYPE_WATER_2", "dc/d0a/a02345.html#a71d8aad7096e6f4e538eadab51fc76f8a90ec16bb076db4028cbf2a5dbb327f1d", null ],
+      [ "BG_DS_OBJECT_TYPE_BUFF_1", "dc/d0a/a02345.html#a71d8aad7096e6f4e538eadab51fc76f8a141655234e2fa43143622578cf71ec71", null ],
+      [ "BG_DS_OBJECT_TYPE_BUFF_2", "dc/d0a/a02345.html#a71d8aad7096e6f4e538eadab51fc76f8affd7ba30f4f2024dd6429f065d5edb9f", null ]
+    ] ],
+    [ "BattlegroundDSObjectTypes", "dc/d0a/a02345.html#a8d5224d87e17a7242576ee301e628de6", [
+      [ "BG_DS_OBJECT_DOOR_1", "dc/d0a/a02345.html#a8d5224d87e17a7242576ee301e628de6a8610bd7f4f1a8e7eb1e9f2429aac5b42", null ],
+      [ "BG_DS_OBJECT_DOOR_2", "dc/d0a/a02345.html#a8d5224d87e17a7242576ee301e628de6a330db292ad2569c554efbb54f9683a65", null ],
+      [ "BG_DS_OBJECT_WATER_1", "dc/d0a/a02345.html#a8d5224d87e17a7242576ee301e628de6ad7b7d41afc57c57dfb26c89c33cc6d30", null ],
+      [ "BG_DS_OBJECT_WATER_2", "dc/d0a/a02345.html#a8d5224d87e17a7242576ee301e628de6a4afa2177f1262bb3fb3c015047d6c1f1", null ],
+      [ "BG_DS_OBJECT_BUFF_1", "dc/d0a/a02345.html#a8d5224d87e17a7242576ee301e628de6ab65c1a961954720559d3b7d2114d0f1a", null ],
+      [ "BG_DS_OBJECT_BUFF_2", "dc/d0a/a02345.html#a8d5224d87e17a7242576ee301e628de6aba69c00240803bc3130e93706ca3fd03", null ],
+      [ "BG_DS_OBJECT_READY_MARKER_1", "dc/d0a/a02345.html#a8d5224d87e17a7242576ee301e628de6a2463d4010bc80f717036a5c0980eb00e", null ],
+      [ "BG_DS_OBJECT_READY_MARKER_2", "dc/d0a/a02345.html#a8d5224d87e17a7242576ee301e628de6aaa0509a954fa3bb165e7a8b021c81720", null ],
+      [ "BG_DS_OBJECT_MAX", "dc/d0a/a02345.html#a8d5224d87e17a7242576ee301e628de6a6067df4d0384c2cbc7b6b11a0ad6abef", null ]
+    ] ],
+    [ "BattlegroundDSSpells", "dc/d0a/a02345.html#a41065fade7598429191146de35f52e86", [
+      [ "BG_DS_SPELL_FLUSH", "dc/d0a/a02345.html#a41065fade7598429191146de35f52e86a92b5731f68ff7782811d2ed6ecc27d50", null ],
+      [ "BG_DS_SPELL_FLUSH_KNOCKBACK", "dc/d0a/a02345.html#a41065fade7598429191146de35f52e86a048190b79973e03b8a950faa2e702817", null ],
+      [ "BG_DS_SPELL_WATER_SPOUT", "dc/d0a/a02345.html#a41065fade7598429191146de35f52e86a9fddcfba49dc5538f51c0d537c440f67", null ],
+      [ "SPELL_WARL_DEMONIC_CIRCLE", "dc/d0a/a02345.html#a41065fade7598429191146de35f52e86ae21b8d7e5a28c9d4fac00f918d272f71", null ]
+    ] ],
+    [ "BG_DS_WATERFALL_DURATION", "dc/d0a/a02345.html#a5ab9e4c80e884fe70b5ec7fa8a804467", null ],
+    [ "BG_DS_WATERFALL_KNOCKBACK_TIMER", "dc/d0a/a02345.html#a1b36a98e6aeda4fffe6eb42b5b97d8b9", null ],
+    [ "BG_DS_WATERFALL_TIMER_MAX", "dc/d0a/a02345.html#aa60e58163a826a5883866a7acc392a69", null ],
+    [ "BG_DS_WATERFALL_TIMER_MIN", "dc/d0a/a02345.html#a42d81786420a8cf7be3391223230530a", null ],
+    [ "BG_DS_WATERFALL_WARNING_DURATION", "dc/d0a/a02345.html#ad0d7dc59c1690e15c35f7ba622eb2fef", null ]
 ];

@@ -1,5 +1,6 @@
 var a13124 =
 [
-    [ "at_karazhan_atiesh_aran", "dd/d3f/a13124.html#ac84f5848b8a26cbfdd2544108567a6cc", null ],
-    [ "OnTrigger", "dd/d3f/a13124.html#a5a6646c573b6e0bab0cbc288e594979e", null ]
+    [ "FilterTargets", "dd/d3f/a13124.html#adae7a812a222a60f9c89cac4ea327011", null ],
+    [ "PrepareSpellScript", "dd/d3f/a13124.html#a9576a48a3aa761c103f72586cd93970c", null ],
+    [ "Register", "dd/d3f/a13124.html#aaadad68c322eac268ea7a45f9c369c59", null ]
 ];

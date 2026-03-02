@@ -1,5 +1,5 @@
 var a27924 =
 [
-    [ "achievement_not_even_a_scratch", "d0/def/a27924.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "d0/def/a27924.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "achievement_bg_ic_glaive_grave", "d0/def/a27924.html#a97e1cead0102a120b3bd14592ea26034", null ],
+    [ "OnCheck", "d0/def/a27924.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
 ];

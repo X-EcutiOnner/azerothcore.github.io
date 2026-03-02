@@ -1,6 +1,6 @@
 var a27788 =
 [
-    [ "HandleHeal", "d5/d19/a27788.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
-    [ "PrepareSpellScript", "d5/d19/a27788.html#a61a601108cd59e5d87634c02b002e20d", null ],
-    [ "Register", "d5/d19/a27788.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
+    [ "HandleRemove", "d5/d19/a27788.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
+    [ "PrepareAuraScript", "d5/d19/a27788.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
+    [ "Register", "d5/d19/a27788.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
 ];

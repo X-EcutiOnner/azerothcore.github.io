@@ -1,6 +1,7 @@
 var a17304 =
 [
-    [ "npc_shadowy_mercenaryAI", "da/ddd/a17308.html", "da/ddd/a17308" ],
-    [ "npc_shadowy_mercenary", "d3/d23/a17304.html#a3ace4bb80f6771c586caa7f2dedf2b93", null ],
-    [ "GetAI", "d3/d23/a17304.html#ada4b63bf708b3d19ce6d3a2b36c96672", null ]
+    [ "OnRemove", "d3/d23/a17304.html#a4b95717cb19116b81f3eec798089abad", null ],
+    [ "PrepareAuraScript", "d3/d23/a17304.html#a581645fa151531aaf7b562a8739d5616", null ],
+    [ "Register", "d3/d23/a17304.html#a01304c556d79001e290707551bee7622", null ],
+    [ "Validate", "d3/d23/a17304.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
 ];

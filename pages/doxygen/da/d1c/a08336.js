@@ -1,15 +1,12 @@
 var a08336 =
 [
-    [ "Guardian", "da/d1c/a08336.html#a14bd59fddfc552c4a25c6bc4ad714508", null ],
-    [ "GetDebugInfo", "da/d1c/a08336.html#ace47e7d3fb3162786329cbcf1c6cab46", null ],
-    [ "InitStats", "da/d1c/a08336.html#a698ac009e39a2e8461b40135b75609ef", null ],
-    [ "InitStatsForLevel", "da/d1c/a08336.html#a7d0ae55d55f4c3ea35de601c2c6c6e6b", null ],
-    [ "InitSummon", "da/d1c/a08336.html#a1d5ebfa5ac5754293172041dc3a2c47d", null ],
-    [ "UpdateAllStats", "da/d1c/a08336.html#ae2f3d68429afb154f790d65dae6406b3", null ],
-    [ "UpdateArmor", "da/d1c/a08336.html#adc8ed8497f8450ccad92f79322d9f452", null ],
-    [ "UpdateAttackPowerAndDamage", "da/d1c/a08336.html#af40269c3c63fc12b21f18c67ef067a0f", null ],
-    [ "UpdateDamagePhysical", "da/d1c/a08336.html#aa45ffb532a2a8075d8e4acb818c08d70", null ],
-    [ "UpdateMaxHealth", "da/d1c/a08336.html#a62c41f7922bc1c2e1697a1eea65cdb72", null ],
-    [ "UpdateMaxPower", "da/d1c/a08336.html#a620010832de5fc7d6d1a8545321f9dea", null ],
-    [ "UpdateStats", "da/d1c/a08336.html#a6b615ed2f01623991fa45907a09cc642", null ]
+    [ "QuestMenu", "da/d1c/a08336.html#a60ba5b35499c6a9ed510300d3300421e", null ],
+    [ "~QuestMenu", "da/d1c/a08336.html#a14df9b6699c327853121ae032704db8d", null ],
+    [ "AddMenuItem", "da/d1c/a08336.html#ac8735756bbf9f2fa799c505bd740e070", null ],
+    [ "ClearMenu", "da/d1c/a08336.html#ab3d3881aabe000694acab37a3774507e", null ],
+    [ "Empty", "da/d1c/a08336.html#a1a850cb70956f299ea91cb0d732ad202", null ],
+    [ "GetItem", "da/d1c/a08336.html#a08240a8d18dce0cb96db19f54c67dd2c", null ],
+    [ "GetMenuItemCount", "da/d1c/a08336.html#a2338a6fb88c32bfb66fe524a8ffaa0d7", null ],
+    [ "HasItem", "da/d1c/a08336.html#a7fe36e4a4acfc66a00f08034c470b5e3", null ],
+    [ "_questMenuItems", "da/d1c/a08336.html#a49279a3943009f2d1475d792c2c3d21a", null ]
 ];

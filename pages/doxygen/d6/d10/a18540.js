@@ -1,6 +1,5 @@
 var a18540 =
 [
-    [ "npc_spinestalkerAI", "d0/d9d/a18544.html", "d0/d9d/a18544" ],
-    [ "npc_spinestalker", "d6/d10/a18540.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
-    [ "GetAI", "d6/d10/a18540.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
+    [ "operator()", "d6/d10/a18540.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
+    [ "operator()", "d6/d10/a18540.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
 ];

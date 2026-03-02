@@ -1,6 +1,6 @@
 var a18512 =
 [
-    [ "FilterTargets", "de/dae/a18512.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
-    [ "PrepareSpellScript", "de/dae/a18512.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
-    [ "Register", "de/dae/a18512.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
+    [ "UnchainedMagicTargetSelector", "de/dae/a18512.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
+    [ "operator()", "de/dae/a18512.html#af28ce8f46154ae6152e9025775a7f84f", null ],
+    [ "_removeHealers", "de/dae/a18512.html#a35a7981ce5495cba8b3a5391e4031431", null ]
 ];

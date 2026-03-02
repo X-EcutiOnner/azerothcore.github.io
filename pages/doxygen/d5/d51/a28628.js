@@ -1,5 +1,8 @@
 var a28628 =
 [
-    [ "npc_suns_reach_reclamation", "d5/d51/a28628.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
-    [ "OnQuestReward", "d5/d51/a28628.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
+    [ "npc_minion_spawner", "d5/d51/a28628.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
+    [ "CanSpawnRareMinion", "d5/d51/a28628.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
+    [ "JustSummoned", "d5/d51/a28628.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
+    [ "Reset", "d5/d51/a28628.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
+    [ "UpdateAI", "d5/d51/a28628.html#a24f93f1314bb73edb369e188eda83104", null ]
 ];

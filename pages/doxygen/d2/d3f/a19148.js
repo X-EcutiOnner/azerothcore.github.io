@@ -1,7 +1,8 @@
 var a19148 =
 [
-    [ "HandleScript", "d2/d3f/a19148.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
-    [ "PrepareSpellScript", "d2/d3f/a19148.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
-    [ "Register", "d2/d3f/a19148.html#afb0289c9906d0383a22dfd0e848573f8", null ],
-    [ "Validate", "d2/d3f/a19148.html#a69344370af56f033e1c1ba16f4dee174", null ]
+    [ "npc_arthas_teleport_visualAI", "d2/d3f/a19148.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
+    [ "Reset", "d2/d3f/a19148.html#a27155b8880a2a86b733bcd074e977b59", null ],
+    [ "UpdateAI", "d2/d3f/a19148.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
+    [ "_events", "d2/d3f/a19148.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
+    [ "_instance", "d2/d3f/a19148.html#a25bc023e061a0845421a652b571a6e1e", null ]
 ];

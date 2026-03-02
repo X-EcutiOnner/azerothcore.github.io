@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ProcScenarioBuilder Class Reference</title>
+<title>AzerothCore: RealmList Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,106 +105,90 @@ $(document).ready(function(){initNavTree('db/d08/a29460.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d1/d73/a29457.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ProcScenarioBuilder Class Reference</div></div>
+  <div class="headertitle"><div class="title">RealmList Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>Helper class for testing specific proc scenarios.  
+<p>Storage object for the list of realms on the server.  
  <a href="../../db/d08/a29460.html#details">More...</a></p>
 
-<p><code>#include &quot;<a class="el" href="../../">AuraScriptTestFramework.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">RealmList.h</a>&quot;</code></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:a6031c19ec935fbe535f60a1014483dbd"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d7/d7d/a29448.html">RealmHandle</a>, <a class="el" href="../../db/dd5/a29452.html">Realm</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a6031c19ec935fbe535f60a1014483dbd">RealmMap</a></td></tr>
+<tr class="separator:a6031c19ec935fbe535f60a1014483dbd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a7b2e92cbc6bf3a95243a9eb24158ed16"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a7b2e92cbc6bf3a95243a9eb24158ed16">ProcScenarioBuilder</a> ()</td></tr>
-<tr class="separator:a7b2e92cbc6bf3a95243a9eb24158ed16"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9afd6660d36a5b1001d57647f845cc8c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a9afd6660d36a5b1001d57647f845cc8c">~ProcScenarioBuilder</a> ()=default</td></tr>
-<tr class="separator:a9afd6660d36a5b1001d57647f845cc8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1d8c0022b7ccd13bbe2c8e66cbae88f8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a1d8c0022b7ccd13bbe2c8e66cbae88f8">OnMeleeAutoAttack</a> ()</td></tr>
-<tr class="separator:a1d8c0022b7ccd13bbe2c8e66cbae88f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac984b2ef7b4f02f7707368d20bc3be09"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#ac984b2ef7b4f02f7707368d20bc3be09">OnTakenMeleeAutoAttack</a> ()</td></tr>
-<tr class="separator:ac984b2ef7b4f02f7707368d20bc3be09"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89641d017b53d0d4f07865ed254441bb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a89641d017b53d0d4f07865ed254441bb">OnSpellDamage</a> ()</td></tr>
-<tr class="separator:a89641d017b53d0d4f07865ed254441bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aba6ee89bbb8d516bb8664c136651ccf8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#aba6ee89bbb8d516bb8664c136651ccf8">OnTakenSpellDamage</a> ()</td></tr>
-<tr class="separator:aba6ee89bbb8d516bb8664c136651ccf8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aff4fa0bf04b9a27900a8b89380f419bd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#aff4fa0bf04b9a27900a8b89380f419bd">OnHeal</a> ()</td></tr>
-<tr class="separator:aff4fa0bf04b9a27900a8b89380f419bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad29272e85434bf8f5d33ecfc15f56f92"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#ad29272e85434bf8f5d33ecfc15f56f92">OnTakenHeal</a> ()</td></tr>
-<tr class="separator:ad29272e85434bf8f5d33ecfc15f56f92"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6824d1e7348aa66c9259680e276522fc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a6824d1e7348aa66c9259680e276522fc">OnPeriodicDamage</a> ()</td></tr>
-<tr class="separator:a6824d1e7348aa66c9259680e276522fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a904b6436dc7fece5fd0c6f985ff6fc27"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a904b6436dc7fece5fd0c6f985ff6fc27">OnPeriodicHeal</a> ()</td></tr>
-<tr class="separator:a904b6436dc7fece5fd0c6f985ff6fc27"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a817da410ab3f32ca2ac5ca6a2541dba9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a817da410ab3f32ca2ac5ca6a2541dba9">OnKill</a> ()</td></tr>
-<tr class="separator:a817da410ab3f32ca2ac5ca6a2541dba9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af4384e41337a13ef371e037b55cc2073"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#af4384e41337a13ef371e037b55cc2073">OnDeath</a> ()</td></tr>
-<tr class="separator:af4384e41337a13ef371e037b55cc2073"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a93f4ae0c7fefccf44a4dc93a886d1c82"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a93f4ae0c7fefccf44a4dc93a886d1c82">WithCrit</a> ()</td></tr>
-<tr class="separator:a93f4ae0c7fefccf44a4dc93a886d1c82"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac3aafe6190c8cfd475c8a2ff291f6d8d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#ac3aafe6190c8cfd475c8a2ff291f6d8d">WithNormalHit</a> ()</td></tr>
-<tr class="separator:ac3aafe6190c8cfd475c8a2ff291f6d8d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a683dbda7d444eefa76adf5dc61fc058b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a683dbda7d444eefa76adf5dc61fc058b">WithMiss</a> ()</td></tr>
-<tr class="separator:a683dbda7d444eefa76adf5dc61fc058b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2fc943ec42c64fc517554c791c5378d1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a2fc943ec42c64fc517554c791c5378d1">WithDodge</a> ()</td></tr>
-<tr class="separator:a2fc943ec42c64fc517554c791c5378d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac0fa0319216fc0e02ec4535573f58a75"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#ac0fa0319216fc0e02ec4535573f58a75">WithParry</a> ()</td></tr>
-<tr class="separator:ac0fa0319216fc0e02ec4535573f58a75"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adf8de195e514c20b67e77a0401d01a2a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#adf8de195e514c20b67e77a0401d01a2a">WithBlock</a> ()</td></tr>
-<tr class="separator:adf8de195e514c20b67e77a0401d01a2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4cde496aa81774682a10851e46868e7e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a4cde496aa81774682a10851e46868e7e">WithFullBlock</a> ()</td></tr>
-<tr class="separator:a4cde496aa81774682a10851e46868e7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af37d28796ab98c6bf91a559719aa0e13"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#af37d28796ab98c6bf91a559719aa0e13">WithAbsorb</a> ()</td></tr>
-<tr class="separator:af37d28796ab98c6bf91a559719aa0e13"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acdf86a4468e902e8d98f2ce9196950e7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#acdf86a4468e902e8d98f2ce9196950e7">OnCast</a> ()</td></tr>
-<tr class="separator:acdf86a4468e902e8d98f2ce9196950e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a33990b1e289f2557222db834e16d7555"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a33990b1e289f2557222db834e16d7555">OnHit</a> ()</td></tr>
-<tr class="separator:a33990b1e289f2557222db834e16d7555"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a737e84f1e0324e521d9c51368d538c5f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a737e84f1e0324e521d9c51368d538c5f">OnFinish</a> ()</td></tr>
-<tr class="separator:a737e84f1e0324e521d9c51368d538c5f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae1707e7d9c5c669929b0a46fd188acf8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d6d/a08932.html">ProcEventInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#ae1707e7d9c5c669929b0a46fd188acf8">Build</a> ()</td></tr>
-<tr class="separator:ae1707e7d9c5c669929b0a46fd188acf8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a91d53f6f9741116729f8c37d1b494417"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a91d53f6f9741116729f8c37d1b494417">GetTypeMask</a> () const</td></tr>
-<tr class="separator:a91d53f6f9741116729f8c37d1b494417"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7889c420cc1976e20ea72ce2b0c58f4b"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a7889c420cc1976e20ea72ce2b0c58f4b">GetHitMask</a> () const</td></tr>
-<tr class="separator:a7889c420cc1976e20ea72ce2b0c58f4b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adf24f6e1578160351c66014521a590df"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#adf24f6e1578160351c66014521a590df">GetSpellTypeMask</a> () const</td></tr>
-<tr class="separator:adf24f6e1578160351c66014521a590df"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a350eacaa249601f7e298518e866b13e3"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a350eacaa249601f7e298518e866b13e3">GetSpellPhaseMask</a> () const</td></tr>
-<tr class="separator:a350eacaa249601f7e298518e866b13e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a70954d518dc4559e0aca0388f13db411"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a70954d518dc4559e0aca0388f13db411">Initialize</a> (<a class="el" href="../../d1/ddd/a05076.html">Acore::Asio::IoContext</a> &amp;ioContext, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> updateInterval)</td></tr>
+<tr class="separator:a70954d518dc4559e0aca0388f13db411"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a14a4d9b5383da24bc1ad9754cdfa2183"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a14a4d9b5383da24bc1ad9754cdfa2183">Close</a> ()</td></tr>
+<tr class="separator:a14a4d9b5383da24bc1ad9754cdfa2183"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afc2cbe2a4ee4d9870821dbe8d96e8fa4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html#a6031c19ec935fbe535f60a1014483dbd">RealmMap</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#afc2cbe2a4ee4d9870821dbe8d96e8fa4">GetRealms</a> () const</td></tr>
+<tr class="separator:afc2cbe2a4ee4d9870821dbe8d96e8fa4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3e25e63168bcff88d021294559ccf0c5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dd5/a29452.html">Realm</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a3e25e63168bcff88d021294559ccf0c5">GetRealm</a> (<a class="el" href="../../d7/d7d/a29448.html">RealmHandle</a> const &amp;id) const</td></tr>
+<tr class="separator:a3e25e63168bcff88d021294559ccf0c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0f7136cb280d2461b1ec0d080645c6e0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/de5/a29456.html">RealmBuildInfo</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a0f7136cb280d2461b1ec0d080645c6e0">GetBuildInfo</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> build) const</td></tr>
+<tr class="separator:a0f7136cb280d2461b1ec0d080645c6e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:aea053134fe293fbd4a8801b25fbb44ca"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../db/d08/a29460.html">RealmList</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#aea053134fe293fbd4a8801b25fbb44ca">Instance</a> ()</td></tr>
+<tr class="separator:aea053134fe293fbd4a8801b25fbb44ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:abe7dfad5160a08a5852cb1436a06eaa9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#abe7dfad5160a08a5852cb1436a06eaa9">RealmList</a> ()</td></tr>
+<tr class="separator:abe7dfad5160a08a5852cb1436a06eaa9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a64bea5f38384143cc960840a8e84ef00"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a64bea5f38384143cc960840a8e84ef00">~RealmList</a> ()=default</td></tr>
+<tr class="separator:a64bea5f38384143cc960840a8e84ef00"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1f8866e57557beb7d69037a63e34428d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a1f8866e57557beb7d69037a63e34428d">LoadBuildInfo</a> ()</td></tr>
+<tr class="separator:a1f8866e57557beb7d69037a63e34428d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0b4559e5538a02ccf5247839005d602e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a0b4559e5538a02ccf5247839005d602e">UpdateRealms</a> (boost::system::error_code const &amp;error)</td></tr>
+<tr class="separator:a0b4559e5538a02ccf5247839005d602e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae15cf59b00e8e8e561f266d5dd3e11ae"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#ae15cf59b00e8e8e561f266d5dd3e11ae">UpdateRealm</a> (<a class="el" href="../../d7/d7d/a29448.html">RealmHandle</a> const &amp;id, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> build, std::string const &amp;name, boost::asio::ip::address &amp;&amp;address, boost::asio::ip::address &amp;&amp;localAddr, boost::asio::ip::address &amp;&amp;localSubmask, <a class="el" href="../../d6/d1a/a00485.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> port, <a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> icon, <a class="el" href="../../da/d67/a04838.html#ace3f717ac43bef67791faeb2a0b2c1e2">RealmFlags</a> flag, <a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> realmTimezone, <a class="el" href="../../d3/df8/a00155.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a> allowedSecurityLevel, float population)</td></tr>
+<tr class="separator:ae15cf59b00e8e8e561f266d5dd3e11ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a749b71368e15303ef60c78ed1fa6db16"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = 0</td></tr>
-<tr class="separator:a749b71368e15303ef60c78ed1fa6db16"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2ddd6ada1c34a326d1cdd9b0e1c30079"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="el" href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a></td></tr>
-<tr class="separator:a2ddd6ada1c34a326d1cdd9b0e1c30079"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7c74b10b0822608a0b0563e4dcebcb7c"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a> = <a class="el" href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a></td></tr>
-<tr class="separator:a7c74b10b0822608a0b0563e4dcebcb7c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a17ef182eba57398119e2e7a8459126f4"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a17ef182eba57398119e2e7a8459126f4">_spellPhaseMask</a> = <a class="el" href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a></td></tr>
-<tr class="separator:a17ef182eba57398119e2e7a8459126f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac0b72d559f737ac1d7ee5d9f589f7160"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = false</td></tr>
-<tr class="separator:ac0b72d559f737ac1d7ee5d9f589f7160"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a72cdb437766d786f3056f649996b66f1"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a72cdb437766d786f3056f649996b66f1">_usesDamageInfo</a> = false</td></tr>
-<tr class="separator:a72cdb437766d786f3056f649996b66f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaebb7fb1f99d8041e21721ffa5ac8434"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#aaebb7fb1f99d8041e21721ffa5ac8434">_usesHealInfo</a> = false</td></tr>
-<tr class="separator:aaebb7fb1f99d8041e21721ffa5ac8434"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aec2a16ed277241f6795781e62572c16a"><td class="memItemLeft" align="right" valign="top">std::shared_ptr&lt; <a class="el" href="../../da/d41/a11604.html">SpellInfo</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#aec2a16ed277241f6795781e62572c16a">_defaultSpellInfo</a></td></tr>
-<tr class="separator:aec2a16ed277241f6795781e62572c16a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3a9ca34b1a3d03873cdd9957b51ec82e"><td class="memItemLeft" align="right" valign="top">std::shared_ptr&lt; <a class="el" href="../../d0/d96/a08924.html">DamageInfo</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a3a9ca34b1a3d03873cdd9957b51ec82e">_damageInfo</a></td></tr>
-<tr class="separator:a3a9ca34b1a3d03873cdd9957b51ec82e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad404a062d1b2b2c4aef2e3e48eb15b8a"><td class="memItemLeft" align="right" valign="top">std::shared_ptr&lt; <a class="el" href="../../d1/d8e/a08928.html">HealInfo</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#ad404a062d1b2b2c4aef2e3e48eb15b8a">_healInfo</a></td></tr>
-<tr class="separator:ad404a062d1b2b2c4aef2e3e48eb15b8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7c38c3c8b4fe6554c66dbc5ada26a3e0"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../de/de5/a29456.html">RealmBuildInfo</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a7c38c3c8b4fe6554c66dbc5ada26a3e0">_builds</a></td></tr>
+<tr class="separator:a7c38c3c8b4fe6554c66dbc5ada26a3e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a41693a01cd88ea99b54dd9ca8fe6b445"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d08/a29460.html#a6031c19ec935fbe535f60a1014483dbd">RealmMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a41693a01cd88ea99b54dd9ca8fe6b445">_realms</a></td></tr>
+<tr class="separator:a41693a01cd88ea99b54dd9ca8fe6b445"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac07fe3cd4fc18169af4f63b207902e95"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#ac07fe3cd4fc18169af4f63b207902e95">_updateInterval</a> {0}</td></tr>
+<tr class="separator:ac07fe3cd4fc18169af4f63b207902e95"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5619be8a2649680901cfd7a3608e984a"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; boost::asio::steady_timer &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a5619be8a2649680901cfd7a3608e984a">_updateTimer</a></td></tr>
+<tr class="separator:a5619be8a2649680901cfd7a3608e984a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1beee0fdd1a9e61f68db925f53d373a9"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../de/d0b/a05080.html">Acore::Asio::Resolver</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a29460.html#a1beee0fdd1a9e61f68db925f53d373a9">_resolver</a></td></tr>
+<tr class="separator:a1beee0fdd1a9e61f68db925f53d373a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Helper class for testing specific proc scenarios. </p>
-<p >Uses shared_ptr for resource management to allow safe copying in fluent builder pattern usage. </p>
-</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a7b2e92cbc6bf3a95243a9eb24158ed16" name="a7b2e92cbc6bf3a95243a9eb24158ed16"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7b2e92cbc6bf3a95243a9eb24158ed16">&#9670;&#160;</a></span>ProcScenarioBuilder()</h2>
+<div class="textblock"><p >Storage object for the list of realms on the server. </p>
+</div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="a6031c19ec935fbe535f60a1014483dbd" name="a6031c19ec935fbe535f60a1014483dbd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6031c19ec935fbe535f60a1014483dbd">&#9670;&#160;</a></span>RealmMap</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::map&lt;<a class="el" href="../../d7/d7d/a29448.html">RealmHandle</a>, <a class="el" href="../../db/dd5/a29452.html">Realm</a>&gt; <a class="el" href="../../db/d08/a29460.html#a6031c19ec935fbe535f60a1014483dbd">RealmList::RealmMap</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="abe7dfad5160a08a5852cb1436a06eaa9" name="abe7dfad5160a08a5852cb1436a06eaa9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abe7dfad5160a08a5852cb1436a06eaa9">&#9670;&#160;</a></span>RealmList()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -213,7 +197,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">ProcScenarioBuilder::ProcScenarioBuilder </td>
+          <td class="memname">RealmList::RealmList </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -221,29 +205,17 @@ Private Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  255</span>    {</div>
-<div class="line"><span class="lineno">  256</span>        <span class="comment">// Create a default SpellInfo for spell-type procs using shared_ptr</span></div>
-<div class="line"><span class="lineno">  257</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#aec2a16ed277241f6795781e62572c16a">_defaultSpellInfo</a> = std::shared_ptr&lt;SpellInfo&gt;(</div>
-<div class="line"><span class="lineno">  258</span>            <a class="code hl_class" href="../../d3/d91/a29540.html">SpellInfoBuilder</a>()</div>
-<div class="line"><span class="lineno">  259</span>                .WithId(99999)</div>
-<div class="line"><span class="lineno">  260</span>                .WithSpellFamilyName(0)</div>
-<div class="line"><span class="lineno">  261</span>                .<a class="code hl_function" href="../../db/d08/a29460.html#ae1707e7d9c5c669929b0a46fd188acf8">Build</a>()</div>
-<div class="line"><span class="lineno">  262</span>        );</div>
-<div class="line"><span class="lineno">  263</span>    }</div>
-<div class="ttc" id="aa29460_html_ae1707e7d9c5c669929b0a46fd188acf8"><div class="ttname"><a href="../../db/d08/a29460.html#ae1707e7d9c5c669929b0a46fd188acf8">ProcScenarioBuilder::Build</a></div><div class="ttdeci">ProcEventInfo Build()</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:422</div></div>
-<div class="ttc" id="aa29460_html_aec2a16ed277241f6795781e62572c16a"><div class="ttname"><a href="../../db/d08/a29460.html#aec2a16ed277241f6795781e62572c16a">ProcScenarioBuilder::_defaultSpellInfo</a></div><div class="ttdeci">std::shared_ptr&lt; SpellInfo &gt; _defaultSpellInfo</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:466</div></div>
-<div class="ttc" id="aa29540_html"><div class="ttname"><a href="../../d3/d91/a29540.html">SpellInfoBuilder</a></div><div class="ttdoc">Builder class for creating SpellInfo test instances.</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:134</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   28</span>: <a class="code hl_variable" href="../../db/d08/a29460.html#ac07fe3cd4fc18169af4f63b207902e95">_updateInterval</a>(0) { }</div>
+<div class="ttc" id="aa29460_html_ac07fe3cd4fc18169af4f63b207902e95"><div class="ttname"><a href="../../db/d08/a29460.html#ac07fe3cd4fc18169af4f63b207902e95">RealmList::_updateInterval</a></div><div class="ttdeci">uint32 _updateInterval</div><div class="ttdef"><b>Definition:</b> RealmList.h:78</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00466">_defaultSpellInfo</a>, and <a class="el" href="../../#l00422">Build()</a>.</p>
-
 </div>
 </div>
-<a id="a9afd6660d36a5b1001d57647f845cc8c" name="a9afd6660d36a5b1001d57647f845cc8c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9afd6660d36a5b1001d57647f845cc8c">&#9670;&#160;</a></span>~ProcScenarioBuilder()</h2>
+<a id="a64bea5f38384143cc960840a8e84ef00" name="a64bea5f38384143cc960840a8e84ef00"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a64bea5f38384143cc960840a8e84ef00">&#9670;&#160;</a></span>~RealmList()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -252,7 +224,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">ProcScenarioBuilder::~ProcScenarioBuilder </td>
+          <td class="memname">RealmList::~RealmList </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -260,7 +232,7 @@ Private Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">default</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -268,82 +240,94 @@ Private Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="ae1707e7d9c5c669929b0a46fd188acf8" name="ae1707e7d9c5c669929b0a46fd188acf8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae1707e7d9c5c669929b0a46fd188acf8">&#9670;&#160;</a></span>Build()</h2>
+<a id="a14a4d9b5383da24bc1ad9754cdfa2183" name="a14a4d9b5383da24bc1ad9754cdfa2183"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a14a4d9b5383da24bc1ad9754cdfa2183">&#9670;&#160;</a></span>Close()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d4/d6d/a08932.html">ProcEventInfo</a> ProcScenarioBuilder::Build </td>
+          <td class="memname">void RealmList::Close </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  423</span>    {</div>
-<div class="line"><span class="lineno">  424</span>        <span class="keyword">auto</span> builder = <a class="code hl_class" href="../../d3/d13/a29528.html">ProcEventInfoBuilder</a>()</div>
-<div class="line"><span class="lineno">  425</span>            .<a class="code hl_function" href="../../d3/d13/a29528.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a>(<a class="code hl_variable" href="../../db/d08/a29460.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a>)</div>
-<div class="line"><span class="lineno">  426</span>            .<a class="code hl_function" href="../../d3/d13/a29528.html#ac8d9c890333158313fb6bd9bdcd14fcf">WithHitMask</a>(<a class="code hl_variable" href="../../db/d08/a29460.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a>)</div>
-<div class="line"><span class="lineno">  427</span>            .<a class="code hl_function" href="../../d3/d13/a29528.html#aebac87d053e09dba16456a9f49322973">WithSpellTypeMask</a>(<a class="code hl_variable" href="../../db/d08/a29460.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a>)</div>
-<div class="line"><span class="lineno">  428</span>            .<a class="code hl_function" href="../../d3/d13/a29528.html#a2247bbb4936f6d48c4214641a5a466af">WithSpellPhaseMask</a>(<a class="code hl_variable" href="../../db/d08/a29460.html#a17ef182eba57398119e2e7a8459126f4">_spellPhaseMask</a>);</div>
-<div class="line"><span class="lineno">  429</span> </div>
-<div class="line"><span class="lineno">  430</span>        <span class="comment">// Create DamageInfo or HealInfo with SpellInfo for spell-type procs</span></div>
-<div class="line"><span class="lineno">  431</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/d08/a29460.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a>)</div>
-<div class="line"><span class="lineno">  432</span>        {</div>
-<div class="line"><span class="lineno">  433</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/d08/a29460.html#a72cdb437766d786f3056f649996b66f1">_usesDamageInfo</a>)</div>
-<div class="line"><span class="lineno">  434</span>            {</div>
-<div class="line"><span class="lineno">  435</span>                <span class="comment">// Create new DamageInfo if needed</span></div>
-<div class="line"><span class="lineno">  436</span>                <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../db/d08/a29460.html#a3a9ca34b1a3d03873cdd9957b51ec82e">_damageInfo</a>)</div>
-<div class="line"><span class="lineno">  437</span>                    <a class="code hl_variable" href="../../db/d08/a29460.html#a3a9ca34b1a3d03873cdd9957b51ec82e">_damageInfo</a> = std::make_shared&lt;DamageInfo&gt;(<span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, 100, <a class="code hl_variable" href="../../db/d08/a29460.html#aec2a16ed277241f6795781e62572c16a">_defaultSpellInfo</a>.get(), <a class="code hl_enumvalue" href="../../dd/d90/a04127.html#aff6913cfd69489c107a071be9ec2ec8faefa51c7b6eae284cc0c22d935bd5fc03">SPELL_SCHOOL_MASK_FIRE</a>, <a class="code hl_enumvalue" href="../../d7/d46/a00890.html#ab0b8a9de485ea928c497ac0b5f9040b1a9308d3cdd6446af40814a12302809f54">SPELL_DIRECT_DAMAGE</a>);</div>
-<div class="line"><span class="lineno">  438</span>                builder.WithDamageInfo(<a class="code hl_variable" href="../../db/d08/a29460.html#a3a9ca34b1a3d03873cdd9957b51ec82e">_damageInfo</a>.get());</div>
-<div class="line"><span class="lineno">  439</span>            }</div>
-<div class="line"><span class="lineno">  440</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/d08/a29460.html#aaebb7fb1f99d8041e21721ffa5ac8434">_usesHealInfo</a>)</div>
-<div class="line"><span class="lineno">  441</span>            {</div>
-<div class="line"><span class="lineno">  442</span>                <span class="comment">// Create new HealInfo if needed</span></div>
-<div class="line"><span class="lineno">  443</span>                <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../db/d08/a29460.html#ad404a062d1b2b2c4aef2e3e48eb15b8a">_healInfo</a>)</div>
-<div class="line"><span class="lineno">  444</span>                    <a class="code hl_variable" href="../../db/d08/a29460.html#ad404a062d1b2b2c4aef2e3e48eb15b8a">_healInfo</a> = std::make_shared&lt;HealInfo&gt;(<span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, 100, <a class="code hl_variable" href="../../db/d08/a29460.html#aec2a16ed277241f6795781e62572c16a">_defaultSpellInfo</a>.get(), <a class="code hl_enumvalue" href="../../dd/d90/a04127.html#aff6913cfd69489c107a071be9ec2ec8fae49f92fc02f6ffff92acedd16ffc4349">SPELL_SCHOOL_MASK_HOLY</a>);</div>
-<div class="line"><span class="lineno">  445</span>                builder.WithHealInfo(<a class="code hl_variable" href="../../db/d08/a29460.html#ad404a062d1b2b2c4aef2e3e48eb15b8a">_healInfo</a>.get());</div>
-<div class="line"><span class="lineno">  446</span>            }</div>
-<div class="line"><span class="lineno">  447</span>        }</div>
-<div class="line"><span class="lineno">  448</span> </div>
-<div class="line"><span class="lineno">  449</span>        <span class="keywordflow">return</span> builder.Build();</div>
-<div class="line"><span class="lineno">  450</span>    }</div>
-<div class="ttc" id="aa00890_html_ab0b8a9de485ea928c497ac0b5f9040b1a9308d3cdd6446af40814a12302809f54"><div class="ttname"><a href="../../d7/d46/a00890.html#ab0b8a9de485ea928c497ac0b5f9040b1a9308d3cdd6446af40814a12302809f54">SPELL_DIRECT_DAMAGE</a></div><div class="ttdeci">@ SPELL_DIRECT_DAMAGE</div><div class="ttdef"><b>Definition:</b> Unit.h:256</div></div>
-<div class="ttc" id="aa04127_html_aff6913cfd69489c107a071be9ec2ec8fae49f92fc02f6ffff92acedd16ffc4349"><div class="ttname"><a href="../../dd/d90/a04127.html#aff6913cfd69489c107a071be9ec2ec8fae49f92fc02f6ffff92acedd16ffc4349">SPELL_SCHOOL_MASK_HOLY</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_HOLY</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:309</div></div>
-<div class="ttc" id="aa04127_html_aff6913cfd69489c107a071be9ec2ec8faefa51c7b6eae284cc0c22d935bd5fc03"><div class="ttname"><a href="../../dd/d90/a04127.html#aff6913cfd69489c107a071be9ec2ec8faefa51c7b6eae284cc0c22d935bd5fc03">SPELL_SCHOOL_MASK_FIRE</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_FIRE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:310</div></div>
-<div class="ttc" id="aa29460_html_a17ef182eba57398119e2e7a8459126f4"><div class="ttname"><a href="../../db/d08/a29460.html#a17ef182eba57398119e2e7a8459126f4">ProcScenarioBuilder::_spellPhaseMask</a></div><div class="ttdeci">uint32_t _spellPhaseMask</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:462</div></div>
-<div class="ttc" id="aa29460_html_a2ddd6ada1c34a326d1cdd9b0e1c30079"><div class="ttname"><a href="../../db/d08/a29460.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">ProcScenarioBuilder::_hitMask</a></div><div class="ttdeci">uint32_t _hitMask</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:460</div></div>
-<div class="ttc" id="aa29460_html_a3a9ca34b1a3d03873cdd9957b51ec82e"><div class="ttname"><a href="../../db/d08/a29460.html#a3a9ca34b1a3d03873cdd9957b51ec82e">ProcScenarioBuilder::_damageInfo</a></div><div class="ttdeci">std::shared_ptr&lt; DamageInfo &gt; _damageInfo</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:467</div></div>
-<div class="ttc" id="aa29460_html_a72cdb437766d786f3056f649996b66f1"><div class="ttname"><a href="../../db/d08/a29460.html#a72cdb437766d786f3056f649996b66f1">ProcScenarioBuilder::_usesDamageInfo</a></div><div class="ttdeci">bool _usesDamageInfo</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:464</div></div>
-<div class="ttc" id="aa29460_html_a749b71368e15303ef60c78ed1fa6db16"><div class="ttname"><a href="../../db/d08/a29460.html#a749b71368e15303ef60c78ed1fa6db16">ProcScenarioBuilder::_typeMask</a></div><div class="ttdeci">uint32_t _typeMask</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:459</div></div>
-<div class="ttc" id="aa29460_html_a7c74b10b0822608a0b0563e4dcebcb7c"><div class="ttname"><a href="../../db/d08/a29460.html#a7c74b10b0822608a0b0563e4dcebcb7c">ProcScenarioBuilder::_spellTypeMask</a></div><div class="ttdeci">uint32_t _spellTypeMask</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:461</div></div>
-<div class="ttc" id="aa29460_html_aaebb7fb1f99d8041e21721ffa5ac8434"><div class="ttname"><a href="../../db/d08/a29460.html#aaebb7fb1f99d8041e21721ffa5ac8434">ProcScenarioBuilder::_usesHealInfo</a></div><div class="ttdeci">bool _usesHealInfo</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:465</div></div>
-<div class="ttc" id="aa29460_html_ac0b72d559f737ac1d7ee5d9f589f7160"><div class="ttname"><a href="../../db/d08/a29460.html#ac0b72d559f737ac1d7ee5d9f589f7160">ProcScenarioBuilder::_needsSpellInfo</a></div><div class="ttdeci">bool _needsSpellInfo</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:463</div></div>
-<div class="ttc" id="aa29460_html_ad404a062d1b2b2c4aef2e3e48eb15b8a"><div class="ttname"><a href="../../db/d08/a29460.html#ad404a062d1b2b2c4aef2e3e48eb15b8a">ProcScenarioBuilder::_healInfo</a></div><div class="ttdeci">std::shared_ptr&lt; HealInfo &gt; _healInfo</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:468</div></div>
-<div class="ttc" id="aa29528_html"><div class="ttname"><a href="../../d3/d13/a29528.html">ProcEventInfoBuilder</a></div><div class="ttdoc">Builder class for creating ProcEventInfo test instances.</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:31</div></div>
-<div class="ttc" id="aa29528_html_a2247bbb4936f6d48c4214641a5a466af"><div class="ttname"><a href="../../d3/d13/a29528.html#a2247bbb4936f6d48c4214641a5a466af">ProcEventInfoBuilder::WithSpellPhaseMask</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithSpellPhaseMask(uint32 spellPhaseMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:69</div></div>
-<div class="ttc" id="aa29528_html_a83de461b19bd737c5aa2e7fd3ad2a302"><div class="ttname"><a href="../../d3/d13/a29528.html#a83de461b19bd737c5aa2e7fd3ad2a302">ProcEventInfoBuilder::WithTypeMask</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithTypeMask(uint32 typeMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:57</div></div>
-<div class="ttc" id="aa29528_html_ac8d9c890333158313fb6bd9bdcd14fcf"><div class="ttname"><a href="../../d3/d13/a29528.html#ac8d9c890333158313fb6bd9bdcd14fcf">ProcEventInfoBuilder::WithHitMask</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithHitMask(uint32 hitMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:75</div></div>
-<div class="ttc" id="aa29528_html_aebac87d053e09dba16456a9f49322973"><div class="ttname"><a href="../../d3/d13/a29528.html#aebac87d053e09dba16456a9f49322973">ProcEventInfoBuilder::WithSpellTypeMask</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithSpellTypeMask(uint32 spellTypeMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:63</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   50</span>{</div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_variable" href="../../db/d08/a29460.html#a5619be8a2649680901cfd7a3608e984a">_updateTimer</a>-&gt;cancel();</div>
+<div class="line"><span class="lineno">   52</span>}</div>
+<div class="ttc" id="aa29460_html_a5619be8a2649680901cfd7a3608e984a"><div class="ttname"><a href="../../db/d08/a29460.html#a5619be8a2649680901cfd7a3608e984a">RealmList::_updateTimer</a></div><div class="ttdeci">std::unique_ptr&lt; boost::asio::steady_timer &gt; _updateTimer</div><div class="ttdef"><b>Definition:</b> RealmList.h:79</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00467">_damageInfo</a>, <a class="el" href="../../#l00466">_defaultSpellInfo</a>, <a class="el" href="../../#l00468">_healInfo</a>, <a class="el" href="../../#l00460">_hitMask</a>, <a class="el" href="../../#l00463">_needsSpellInfo</a>, <a class="el" href="../../#l00462">_spellPhaseMask</a>, <a class="el" href="../../#l00461">_spellTypeMask</a>, <a class="el" href="../../#l00459">_typeMask</a>, <a class="el" href="../../#l00464">_usesDamageInfo</a>, <a class="el" href="../../#l00465">_usesHealInfo</a>, <a class="el" href="../../#l00256">SPELL_DIRECT_DAMAGE</a>, <a class="el" href="../../#l00310">SPELL_SCHOOL_MASK_FIRE</a>, <a class="el" href="../../#l00309">SPELL_SCHOOL_MASK_HOLY</a>, <a class="el" href="../../#l00075">ProcEventInfoBuilder::WithHitMask()</a>, <a class="el" href="../../#l00069">ProcEventInfoBuilder::WithSpellPhaseMask()</a>, <a class="el" href="../../#l00063">ProcEventInfoBuilder::WithSpellTypeMask()</a>, and <a class="el" href="../../#l00057">ProcEventInfoBuilder::WithTypeMask()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00254">ProcScenarioBuilder()</a>, and <a class="el" href="../../#l00521">TEST_F()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00079">_updateTimer</a>.</p>
 
 </div>
 </div>
-<a id="a7889c420cc1976e20ea72ce2b0c58f4b" name="a7889c420cc1976e20ea72ce2b0c58f4b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7889c420cc1976e20ea72ce2b0c58f4b">&#9670;&#160;</a></span>GetHitMask()</h2>
+<a id="a0f7136cb280d2461b1ec0d080645c6e0" name="a0f7136cb280d2461b1ec0d080645c6e0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0f7136cb280d2461b1ec0d080645c6e0">&#9670;&#160;</a></span>GetBuildInfo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/de5/a29456.html">RealmBuildInfo</a> const  * RealmList::GetBuildInfo </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>build</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  248</span>{</div>
+<div class="line"><span class="lineno">  249</span>    <span class="keywordflow">for</span> (<a class="code hl_struct" href="../../de/de5/a29456.html">RealmBuildInfo</a> <span class="keyword">const</span>&amp; clientBuild : <a class="code hl_variable" href="../../db/d08/a29460.html#a7c38c3c8b4fe6554c66dbc5ada26a3e0">_builds</a>)</div>
+<div class="line"><span class="lineno">  250</span>    {</div>
+<div class="line"><span class="lineno">  251</span>        <span class="keywordflow">if</span> (clientBuild.Build == build)</div>
+<div class="line"><span class="lineno">  252</span>        {</div>
+<div class="line"><span class="lineno">  253</span>            <span class="keywordflow">return</span> &amp;clientBuild;</div>
+<div class="line"><span class="lineno">  254</span>        }</div>
+<div class="line"><span class="lineno">  255</span>    }</div>
+<div class="line"><span class="lineno">  256</span> </div>
+<div class="line"><span class="lineno">  257</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  258</span>}</div>
+<div class="ttc" id="aa29456_html"><div class="ttname"><a href="../../de/de5/a29456.html">RealmBuildInfo</a></div><div class="ttdef"><b>Definition:</b> RealmList.h:40</div></div>
+<div class="ttc" id="aa29460_html_a7c38c3c8b4fe6554c66dbc5ada26a3e0"><div class="ttname"><a href="../../db/d08/a29460.html#a7c38c3c8b4fe6554c66dbc5ada26a3e0">RealmList::_builds</a></div><div class="ttdeci">std::vector&lt; RealmBuildInfo &gt; _builds</div><div class="ttdef"><b>Definition:</b> RealmList.h:76</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00076">_builds</a>.</p>
+
+</div>
+</div>
+<a id="a3e25e63168bcff88d021294559ccf0c5" name="a3e25e63168bcff88d021294559ccf0c5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3e25e63168bcff88d021294559ccf0c5">&#9670;&#160;</a></span>GetRealm()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dd5/a29452.html">Realm</a> const  * RealmList::GetRealm </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/d7d/a29448.html">RealmHandle</a> const &amp;&#160;</td>
+          <td class="paramname"><em>id</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  237</span>{</div>
+<div class="line"><span class="lineno">  238</span>    <span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../db/d08/a29460.html#a41693a01cd88ea99b54dd9ca8fe6b445">_realms</a>.find(<span class="keywordtype">id</span>);</div>
+<div class="line"><span class="lineno">  239</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../db/d08/a29460.html#a41693a01cd88ea99b54dd9ca8fe6b445">_realms</a>.end())</div>
+<div class="line"><span class="lineno">  240</span>    {</div>
+<div class="line"><span class="lineno">  241</span>        <span class="keywordflow">return</span> &amp;itr-&gt;second;</div>
+<div class="line"><span class="lineno">  242</span>    }</div>
+<div class="line"><span class="lineno">  243</span> </div>
+<div class="line"><span class="lineno">  244</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  245</span>}</div>
+<div class="ttc" id="aa29460_html_a41693a01cd88ea99b54dd9ca8fe6b445"><div class="ttname"><a href="../../db/d08/a29460.html#a41693a01cd88ea99b54dd9ca8fe6b445">RealmList::_realms</a></div><div class="ttdeci">RealmMap _realms</div><div class="ttdef"><b>Definition:</b> RealmList.h:77</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00077">_realms</a>.</p>
+
+</div>
+</div>
+<a id="afc2cbe2a4ee4d9870821dbe8d96e8fa4" name="afc2cbe2a4ee4d9870821dbe8d96e8fa4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afc2cbe2a4ee4d9870821dbe8d96e8fa4">&#9670;&#160;</a></span>GetRealms()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -352,7 +336,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">uint32_t ProcScenarioBuilder::GetHitMask </td>
+          <td class="memname"><a class="el" href="../../db/d08/a29460.html#a6031c19ec935fbe535f60a1014483dbd">RealmMap</a> const  &amp; RealmList::GetRealms </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -364,42 +348,55 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  454</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d08/a29460.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   61</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d08/a29460.html#a41693a01cd88ea99b54dd9ca8fe6b445">_realms</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00460">_hitMask</a>.</p>
-
 </div>
 </div>
-<a id="a350eacaa249601f7e298518e866b13e3" name="a350eacaa249601f7e298518e866b13e3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a350eacaa249601f7e298518e866b13e3">&#9670;&#160;</a></span>GetSpellPhaseMask()</h2>
+<a id="a70954d518dc4559e0aca0388f13db411" name="a70954d518dc4559e0aca0388f13db411"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a70954d518dc4559e0aca0388f13db411">&#9670;&#160;</a></span>Initialize()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">uint32_t ProcScenarioBuilder::GetSpellPhaseMask </td>
+          <td class="memname">void RealmList::Initialize </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td class="paramtype"><a class="el" href="../../d1/ddd/a05076.html">Acore::Asio::IoContext</a> &amp;&#160;</td>
+          <td class="paramname"><em>ioContext</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>updateInterval</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  456</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d08/a29460.html#a17ef182eba57398119e2e7a8459126f4">_spellPhaseMask</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   38</span>{</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_variable" href="../../db/d08/a29460.html#ac07fe3cd4fc18169af4f63b207902e95">_updateInterval</a> = updateInterval;</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_variable" href="../../db/d08/a29460.html#a5619be8a2649680901cfd7a3608e984a">_updateTimer</a> = std::make_unique&lt;boost::asio::steady_timer&gt;(ioContext);</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_variable" href="../../db/d08/a29460.html#a1beee0fdd1a9e61f68db925f53d373a9">_resolver</a> = std::make_unique&lt;Acore::Asio::Resolver&gt;(ioContext);</div>
+<div class="line"><span class="lineno">   42</span> </div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_function" href="../../db/d08/a29460.html#a1f8866e57557beb7d69037a63e34428d">LoadBuildInfo</a>();</div>
+<div class="line"><span class="lineno">   44</span> </div>
+<div class="line"><span class="lineno">   45</span>    <span class="comment">// Get the content of the realmlist table in the database</span></div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_function" href="../../db/d08/a29460.html#a0b4559e5538a02ccf5247839005d602e">UpdateRealms</a>(boost::system::error_code());</div>
+<div class="line"><span class="lineno">   47</span>}</div>
+<div class="ttc" id="aa29460_html_a0b4559e5538a02ccf5247839005d602e"><div class="ttname"><a href="../../db/d08/a29460.html#a0b4559e5538a02ccf5247839005d602e">RealmList::UpdateRealms</a></div><div class="ttdeci">void UpdateRealms(boost::system::error_code const &amp;error)</div><div class="ttdef"><b>Definition:</b> RealmList.cpp:128</div></div>
+<div class="ttc" id="aa29460_html_a1beee0fdd1a9e61f68db925f53d373a9"><div class="ttname"><a href="../../db/d08/a29460.html#a1beee0fdd1a9e61f68db925f53d373a9">RealmList::_resolver</a></div><div class="ttdeci">std::unique_ptr&lt; Acore::Asio::Resolver &gt; _resolver</div><div class="ttdef"><b>Definition:</b> RealmList.h:80</div></div>
+<div class="ttc" id="aa29460_html_a1f8866e57557beb7d69037a63e34428d"><div class="ttname"><a href="../../db/d08/a29460.html#a1f8866e57557beb7d69037a63e34428d">RealmList::LoadBuildInfo</a></div><div class="ttdeci">void LoadBuildInfo()</div><div class="ttdef"><b>Definition:</b> RealmList.cpp:54</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00462">_spellPhaseMask</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00080">_resolver</a>, <a class="el" href="../../#l00078">_updateInterval</a>, <a class="el" href="../../#l00079">_updateTimer</a>, <a class="el" href="../../#l00054">LoadBuildInfo()</a>, and <a class="el" href="../../#l00128">UpdateRealms()</a>.</p>
 
 </div>
 </div>
-<a id="adf24f6e1578160351c66014521a590df" name="adf24f6e1578160351c66014521a590df"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adf24f6e1578160351c66014521a590df">&#9670;&#160;</a></span>GetSpellTypeMask()</h2>
+<a id="aea053134fe293fbd4a8801b25fbb44ca" name="aea053134fe293fbd4a8801b25fbb44ca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aea053134fe293fbd4a8801b25fbb44ca">&#9670;&#160;</a></span>Instance()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -408,63 +405,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">uint32_t ProcScenarioBuilder::GetSpellTypeMask </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  455</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d08/a29460.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00461">_spellTypeMask</a>.</p>
-
-</div>
-</div>
-<a id="a91d53f6f9741116729f8c37d1b494417" name="a91d53f6f9741116729f8c37d1b494417"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a91d53f6f9741116729f8c37d1b494417">&#9670;&#160;</a></span>GetTypeMask()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t ProcScenarioBuilder::GetTypeMask </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  453</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d08/a29460.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00459">_typeMask</a>.</p>
-
-</div>
-</div>
-<a id="acdf86a4468e902e8d98f2ce9196950e7" name="acdf86a4468e902e8d98f2ce9196950e7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acdf86a4468e902e8d98f2ce9196950e7">&#9670;&#160;</a></span>OnCast()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp; ProcScenarioBuilder::OnCast </td>
+          <td class="memname"><a class="el" href="../../db/d08/a29460.html">RealmList</a> * RealmList::Instance </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -472,24 +413,20 @@ Private Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  404</span>    {</div>
-<div class="line"><span class="lineno">  405</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a17ef182eba57398119e2e7a8459126f4">_spellPhaseMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d">PROC_SPELL_PHASE_CAST</a>;</div>
-<div class="line"><span class="lineno">  406</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  407</span>    }</div>
-<div class="ttc" id="aa00104_html_addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d"><div class="ttname"><a href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d">PROC_SPELL_PHASE_CAST</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_CAST</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:245</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
+<div class="line"><span class="lineno">   32</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../db/d08/a29460.html">RealmList</a> instance;</div>
+<div class="line"><span class="lineno">   33</span>    <span class="keywordflow">return</span> &amp;instance;</div>
+<div class="line"><span class="lineno">   34</span>}</div>
+<div class="ttc" id="aa29460_html"><div class="ttname"><a href="../../db/d08/a29460.html">RealmList</a></div><div class="ttdoc">Storage object for the list of realms on the server.</div><div class="ttdef"><b>Definition:</b> RealmList.h:52</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00462">_spellPhaseMask</a>, and <a class="el" href="../../#l00245">PROC_SPELL_PHASE_CAST</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00116">TEST_F()</a>.</p>
-
 </div>
 </div>
-<a id="af4384e41337a13ef371e037b55cc2073" name="af4384e41337a13ef371e037b55cc2073"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af4384e41337a13ef371e037b55cc2073">&#9670;&#160;</a></span>OnDeath()</h2>
+<a id="a1f8866e57557beb7d69037a63e34428d" name="a1f8866e57557beb7d69037a63e34428d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1f8866e57557beb7d69037a63e34428d">&#9670;&#160;</a></span>LoadBuildInfo()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -498,7 +435,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp; ProcScenarioBuilder::OnDeath </td>
+          <td class="memname">void RealmList::LoadBuildInfo </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -506,25 +443,67 @@ Private Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  344</span>    {</div>
-<div class="line"><span class="lineno">  345</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a8b6d98edef5c8763d9b8d5f0d1b95d40">PROC_FLAG_DEATH</a>;</div>
-<div class="line"><span class="lineno">  346</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  347</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  348</span>    }</div>
-<div class="ttc" id="aa00104_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a8b6d98edef5c8763d9b8d5f0d1b95d40"><div class="ttname"><a href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a8b6d98edef5c8763d9b8d5f0d1b95d40">PROC_FLAG_DEATH</a></div><div class="ttdeci">@ PROC_FLAG_DEATH</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:143</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   55</span>{</div>
+<div class="line"><span class="lineno">   56</span>    <span class="comment">//                                                              0             1              2              3      4                5                6</span></div>
+<div class="line"><span class="lineno">   57</span>    <span class="keywordflow">if</span> (<span class="keyword">auto</span> result = <a class="code hl_variable" href="../../dd/d32/a02636.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Query(<span class="stringliteral">&quot;SELECT majorVersion, minorVersion, bugfixVersion, hotfixVersion, build, winChecksumSeed, macChecksumSeed FROM build_info ORDER BY build ASC&quot;</span>))</div>
+<div class="line"><span class="lineno">   58</span>    {</div>
+<div class="line"><span class="lineno">   59</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; fields : *result)</div>
+<div class="line"><span class="lineno">   60</span>        {</div>
+<div class="line"><span class="lineno">   61</span>            <a class="code hl_struct" href="../../de/de5/a29456.html">RealmBuildInfo</a>&amp; build = <a class="code hl_variable" href="../../db/d08/a29460.html#a7c38c3c8b4fe6554c66dbc5ada26a3e0">_builds</a>.emplace_back();</div>
+<div class="line"><span class="lineno">   62</span>            build.<a class="code hl_variable" href="../../de/de5/a29456.html#a0eb78564680f771e325536a0ab77382a">MajorVersion</a> = fields[0].Get&lt;<a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">   63</span>            build.<a class="code hl_variable" href="../../de/de5/a29456.html#a7140f7ef9540eff08fabf74ded68b9cc">MinorVersion</a> = fields[1].Get&lt;<a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">   64</span>            build.<a class="code hl_variable" href="../../de/de5/a29456.html#a461f8c749a874405584dc1fd3fe1d805">BugfixVersion</a> = fields[2].Get&lt;<a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">   65</span>            std::string hotfixVersion = fields[3].Get&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">   66</span> </div>
+<div class="line"><span class="lineno">   67</span>            <span class="keywordflow">if</span> (hotfixVersion.length() &lt; build.<a class="code hl_variable" href="../../de/de5/a29456.html#a0df61c036a57b8a3efde5d180dc38131">HotfixVersion</a>.size())</div>
+<div class="line"><span class="lineno">   68</span>            {</div>
+<div class="line"><span class="lineno">   69</span>                std::copy(hotfixVersion.begin(), hotfixVersion.end(), build.<a class="code hl_variable" href="../../de/de5/a29456.html#a0df61c036a57b8a3efde5d180dc38131">HotfixVersion</a>.begin());</div>
+<div class="line"><span class="lineno">   70</span>            }</div>
+<div class="line"><span class="lineno">   71</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   72</span>            {</div>
+<div class="line"><span class="lineno">   73</span>                std::fill(hotfixVersion.begin(), hotfixVersion.end(), <span class="charliteral">&#39;\0&#39;</span>);</div>
+<div class="line"><span class="lineno">   74</span>            }</div>
+<div class="line"><span class="lineno">   75</span> </div>
+<div class="line"><span class="lineno">   76</span>            build.<a class="code hl_variable" href="../../de/de5/a29456.html#a6cc7aff1b397df7333b9bb0003282abd">Build</a> = fields[4].Get&lt;<a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">   77</span>            std::string windowsHash = fields[5].Get&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">   78</span> </div>
+<div class="line"><span class="lineno">   79</span>            <span class="keywordflow">if</span> (windowsHash.length() == build.<a class="code hl_variable" href="../../de/de5/a29456.html#a96abd69a458dfc4363c4e545fc7fabab">WindowsHash</a>.size() * 2)</div>
+<div class="line"><span class="lineno">   80</span>            {</div>
+<div class="line"><span class="lineno">   81</span>                <a class="code hl_function" href="../../d5/db1/a00140.html#a0a709bcf2ca40e60217ee113150a1ad8">HexStrToByteArray</a>(windowsHash, build.<a class="code hl_variable" href="../../de/de5/a29456.html#a96abd69a458dfc4363c4e545fc7fabab">WindowsHash</a>);</div>
+<div class="line"><span class="lineno">   82</span>            }</div>
+<div class="line"><span class="lineno">   83</span> </div>
+<div class="line"><span class="lineno">   84</span>            std::string macHash = fields[6].Get&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">   85</span> </div>
+<div class="line"><span class="lineno">   86</span>            <span class="keywordflow">if</span> (macHash.length() == build.<a class="code hl_variable" href="../../de/de5/a29456.html#ad59772e86371318fe975760e303fa7d9">MacHash</a>.size() * 2)</div>
+<div class="line"><span class="lineno">   87</span>            {</div>
+<div class="line"><span class="lineno">   88</span>                <a class="code hl_function" href="../../d5/db1/a00140.html#a0a709bcf2ca40e60217ee113150a1ad8">HexStrToByteArray</a>(macHash, build.<a class="code hl_variable" href="../../de/de5/a29456.html#ad59772e86371318fe975760e303fa7d9">MacHash</a>);</div>
+<div class="line"><span class="lineno">   89</span>            }</div>
+<div class="line"><span class="lineno">   90</span>        }</div>
+<div class="line"><span class="lineno">   91</span>    }</div>
+<div class="line"><span class="lineno">   92</span>}</div>
+<div class="ttc" id="aa00140_html_a0a709bcf2ca40e60217ee113150a1ad8"><div class="ttname"><a href="../../d5/db1/a00140.html#a0a709bcf2ca40e60217ee113150a1ad8">HexStrToByteArray</a></div><div class="ttdeci">void HexStrToByteArray(std::string_view str, std::array&lt; uint8, Size &gt; &amp;buf, bool reverse=false)</div><div class="ttdef"><b>Definition:</b> Util.h:378</div></div>
+<div class="ttc" id="aa00485_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa02636_html_a2cf25eafe7f2f73b61ccde11d55daf0c"><div class="ttname"><a href="../../dd/d32/a02636.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; LoginDatabaseConnection &gt; LoginDatabase</div><div class="ttdoc">Accessor to the realm/login database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:22</div></div>
+<div class="ttc" id="aa29456_html_a0df61c036a57b8a3efde5d180dc38131"><div class="ttname"><a href="../../de/de5/a29456.html#a0df61c036a57b8a3efde5d180dc38131">RealmBuildInfo::HotfixVersion</a></div><div class="ttdeci">std::array&lt; char, 4 &gt; HotfixVersion</div><div class="ttdef"><b>Definition:</b> RealmList.h:45</div></div>
+<div class="ttc" id="aa29456_html_a0eb78564680f771e325536a0ab77382a"><div class="ttname"><a href="../../de/de5/a29456.html#a0eb78564680f771e325536a0ab77382a">RealmBuildInfo::MajorVersion</a></div><div class="ttdeci">uint32 MajorVersion</div><div class="ttdef"><b>Definition:</b> RealmList.h:42</div></div>
+<div class="ttc" id="aa29456_html_a461f8c749a874405584dc1fd3fe1d805"><div class="ttname"><a href="../../de/de5/a29456.html#a461f8c749a874405584dc1fd3fe1d805">RealmBuildInfo::BugfixVersion</a></div><div class="ttdeci">uint32 BugfixVersion</div><div class="ttdef"><b>Definition:</b> RealmList.h:44</div></div>
+<div class="ttc" id="aa29456_html_a6cc7aff1b397df7333b9bb0003282abd"><div class="ttname"><a href="../../de/de5/a29456.html#a6cc7aff1b397df7333b9bb0003282abd">RealmBuildInfo::Build</a></div><div class="ttdeci">uint32 Build</div><div class="ttdef"><b>Definition:</b> RealmList.h:41</div></div>
+<div class="ttc" id="aa29456_html_a7140f7ef9540eff08fabf74ded68b9cc"><div class="ttname"><a href="../../de/de5/a29456.html#a7140f7ef9540eff08fabf74ded68b9cc">RealmBuildInfo::MinorVersion</a></div><div class="ttdeci">uint32 MinorVersion</div><div class="ttdef"><b>Definition:</b> RealmList.h:43</div></div>
+<div class="ttc" id="aa29456_html_a96abd69a458dfc4363c4e545fc7fabab"><div class="ttname"><a href="../../de/de5/a29456.html#a96abd69a458dfc4363c4e545fc7fabab">RealmBuildInfo::WindowsHash</a></div><div class="ttdeci">std::array&lt; uint8, 20 &gt; WindowsHash</div><div class="ttdef"><b>Definition:</b> RealmList.h:46</div></div>
+<div class="ttc" id="aa29456_html_ad59772e86371318fe975760e303fa7d9"><div class="ttname"><a href="../../de/de5/a29456.html#ad59772e86371318fe975760e303fa7d9">RealmBuildInfo::MacHash</a></div><div class="ttdeci">std::array&lt; uint8, 20 &gt; MacHash</div><div class="ttdef"><b>Definition:</b> RealmList.h:47</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00463">_needsSpellInfo</a>, <a class="el" href="../../#l00459">_typeMask</a>, and <a class="el" href="../../#l00143">PROC_FLAG_DEATH</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00076">_builds</a>, <a class="el" href="../../#l00044">RealmBuildInfo::BugfixVersion</a>, <a class="el" href="../../#l00041">RealmBuildInfo::Build</a>, <a class="el" href="../../#l00378">HexStrToByteArray()</a>, <a class="el" href="../../#l00045">RealmBuildInfo::HotfixVersion</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00047">RealmBuildInfo::MacHash</a>, <a class="el" href="../../#l00042">RealmBuildInfo::MajorVersion</a>, <a class="el" href="../../#l00043">RealmBuildInfo::MinorVersion</a>, and <a class="el" href="../../#l00046">RealmBuildInfo::WindowsHash</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00231">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00037">Initialize()</a>.</p>
 
 </div>
 </div>
-<a id="a737e84f1e0324e521d9c51368d538c5f" name="a737e84f1e0324e521d9c51368d538c5f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a737e84f1e0324e521d9c51368d538c5f">&#9670;&#160;</a></span>OnFinish()</h2>
+<a id="ae15cf59b00e8e8e561f266d5dd3e11ae" name="ae15cf59b00e8e8e561f266d5dd3e11ae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae15cf59b00e8e8e561f266d5dd3e11ae">&#9670;&#160;</a></span>UpdateRealm()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -533,30 +512,142 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp; ProcScenarioBuilder::OnFinish </td>
+          <td class="memname">void RealmList::UpdateRealm </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d7/d7d/a29448.html">RealmHandle</a> const &amp;&#160;</td>
+          <td class="paramname"><em>id</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>build</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>name</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">boost::asio::ip::address &amp;&amp;&#160;</td>
+          <td class="paramname"><em>address</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">boost::asio::ip::address &amp;&amp;&#160;</td>
+          <td class="paramname"><em>localAddr</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">boost::asio::ip::address &amp;&amp;&#160;</td>
+          <td class="paramname"><em>localSubmask</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>port</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>icon</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../da/d67/a04838.html#ace3f717ac43bef67791faeb2a0b2c1e2">RealmFlags</a>&#160;</td>
+          <td class="paramname"><em>flag</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>realmTimezone</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d3/df8/a00155.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a>&#160;</td>
+          <td class="paramname"><em>allowedSecurityLevel</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>population</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  416</span>    {</div>
-<div class="line"><span class="lineno">  417</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a17ef182eba57398119e2e7a8459126f4">_spellPhaseMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a>;</div>
-<div class="line"><span class="lineno">  418</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  419</span>    }</div>
-<div class="ttc" id="aa00104_html_addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b"><div class="ttname"><a href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_FINISH</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:247</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   97</span>{</div>
+<div class="line"><span class="lineno">   98</span>    <span class="comment">// Create new if not exist or update existed</span></div>
+<div class="line"><span class="lineno">   99</span>    <a class="code hl_struct" href="../../db/dd5/a29452.html">Realm</a>&amp; <a class="code hl_variable" href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a> = <a class="code hl_variable" href="../../db/d08/a29460.html#a41693a01cd88ea99b54dd9ca8fe6b445">_realms</a>[id];</div>
+<div class="line"><span class="lineno">  100</span> </div>
+<div class="line"><span class="lineno">  101</span>    <a class="code hl_variable" href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../db/dd5/a29452.html#ab0ccda7e7a58eee0965261767f3ee2ee">Id</a> = id;</div>
+<div class="line"><span class="lineno">  102</span>    <a class="code hl_variable" href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../db/dd5/a29452.html#a64533e919d8c3a37bd5668af77d09166">Build</a> = build;</div>
+<div class="line"><span class="lineno">  103</span>    <a class="code hl_variable" href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../db/dd5/a29452.html#a9381717fdc924158ecd61a8f00488fc0">Name</a> = name;</div>
+<div class="line"><span class="lineno">  104</span>    <a class="code hl_variable" href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../db/dd5/a29452.html#af77452a4cf7f632d692079615af4737c">Type</a> = icon;</div>
+<div class="line"><span class="lineno">  105</span>    <a class="code hl_variable" href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../db/dd5/a29452.html#a1984cc9564b01b6456f31f77fd65a6d6">Flags</a> = flag;</div>
+<div class="line"><span class="lineno">  106</span>    <a class="code hl_variable" href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../db/dd5/a29452.html#a377055c4729f21beecb8601cd79017db">Timezone</a> = realmTimezone;</div>
+<div class="line"><span class="lineno">  107</span>    <a class="code hl_variable" href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../db/dd5/a29452.html#a25e953d80aa3c80e068afe6b57f67d99">AllowedSecurityLevel</a> = allowedSecurityLevel;</div>
+<div class="line"><span class="lineno">  108</span>    <a class="code hl_variable" href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../db/dd5/a29452.html#a63cdbd47c50f368974b43c3db2f32cee">PopulationLevel</a> = population;</div>
+<div class="line"><span class="lineno">  109</span> </div>
+<div class="line"><span class="lineno">  110</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../db/dd5/a29452.html#a703504aaf54f1ecf934b9184e9737367">ExternalAddress</a> || *<a class="code hl_variable" href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../db/dd5/a29452.html#a703504aaf54f1ecf934b9184e9737367">ExternalAddress</a> != address)</div>
+<div class="line"><span class="lineno">  111</span>    {</div>
+<div class="line"><span class="lineno">  112</span>        <a class="code hl_variable" href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../db/dd5/a29452.html#a703504aaf54f1ecf934b9184e9737367">ExternalAddress</a> = std::make_unique&lt;boost::asio::ip::address&gt;(std::move(address));</div>
+<div class="line"><span class="lineno">  113</span>    }</div>
+<div class="line"><span class="lineno">  114</span> </div>
+<div class="line"><span class="lineno">  115</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../db/dd5/a29452.html#a61f429ddc92895e66dff2808e17cc322">LocalAddress</a> || *<a class="code hl_variable" href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../db/dd5/a29452.html#a61f429ddc92895e66dff2808e17cc322">LocalAddress</a> != localAddr)</div>
+<div class="line"><span class="lineno">  116</span>    {</div>
+<div class="line"><span class="lineno">  117</span>        <a class="code hl_variable" href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../db/dd5/a29452.html#a61f429ddc92895e66dff2808e17cc322">LocalAddress</a> = std::make_unique&lt;boost::asio::ip::address&gt;(std::move(localAddr));</div>
+<div class="line"><span class="lineno">  118</span>    }</div>
+<div class="line"><span class="lineno">  119</span> </div>
+<div class="line"><span class="lineno">  120</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../db/dd5/a29452.html#a52a4b2704e7f76d8ea296148cefb9482">LocalSubnetMask</a> || *<a class="code hl_variable" href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../db/dd5/a29452.html#a52a4b2704e7f76d8ea296148cefb9482">LocalSubnetMask</a> != localSubmask)</div>
+<div class="line"><span class="lineno">  121</span>    {</div>
+<div class="line"><span class="lineno">  122</span>        <a class="code hl_variable" href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../db/dd5/a29452.html#a52a4b2704e7f76d8ea296148cefb9482">LocalSubnetMask</a> = std::make_unique&lt;boost::asio::ip::address&gt;(std::move(localSubmask));</div>
+<div class="line"><span class="lineno">  123</span>    }</div>
+<div class="line"><span class="lineno">  124</span> </div>
+<div class="line"><span class="lineno">  125</span>    <a class="code hl_variable" href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../db/dd5/a29452.html#a0131d758f10cbae0c610c2c088299feb">Port</a> = port;</div>
+<div class="line"><span class="lineno">  126</span>}</div>
+<div class="ttc" id="aa04957_html_gab842e78f86995775c494437356620779"><div class="ttname"><a href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a></div><div class="ttdeci">Realm realm</div><div class="ttdef"><b>Definition:</b> World.cpp:112</div></div>
+<div class="ttc" id="aa29452_html"><div class="ttname"><a href="../../db/dd5/a29452.html">Realm</a></div><div class="ttdef"><b>Definition:</b> Realm.h:68</div></div>
+<div class="ttc" id="aa29452_html_a0131d758f10cbae0c610c2c088299feb"><div class="ttname"><a href="../../db/dd5/a29452.html#a0131d758f10cbae0c610c2c088299feb">Realm::Port</a></div><div class="ttdeci">uint16 Port</div><div class="ttdef"><b>Definition:</b> Realm.h:74</div></div>
+<div class="ttc" id="aa29452_html_a1984cc9564b01b6456f31f77fd65a6d6"><div class="ttname"><a href="../../db/dd5/a29452.html#a1984cc9564b01b6456f31f77fd65a6d6">Realm::Flags</a></div><div class="ttdeci">RealmFlags Flags</div><div class="ttdef"><b>Definition:</b> Realm.h:77</div></div>
+<div class="ttc" id="aa29452_html_a25e953d80aa3c80e068afe6b57f67d99"><div class="ttname"><a href="../../db/dd5/a29452.html#a25e953d80aa3c80e068afe6b57f67d99">Realm::AllowedSecurityLevel</a></div><div class="ttdeci">AccountTypes AllowedSecurityLevel</div><div class="ttdef"><b>Definition:</b> Realm.h:79</div></div>
+<div class="ttc" id="aa29452_html_a377055c4729f21beecb8601cd79017db"><div class="ttname"><a href="../../db/dd5/a29452.html#a377055c4729f21beecb8601cd79017db">Realm::Timezone</a></div><div class="ttdeci">uint8 Timezone</div><div class="ttdef"><b>Definition:</b> Realm.h:78</div></div>
+<div class="ttc" id="aa29452_html_a52a4b2704e7f76d8ea296148cefb9482"><div class="ttname"><a href="../../db/dd5/a29452.html#a52a4b2704e7f76d8ea296148cefb9482">Realm::LocalSubnetMask</a></div><div class="ttdeci">std::unique_ptr&lt; boost::asio::ip::address &gt; LocalSubnetMask</div><div class="ttdef"><b>Definition:</b> Realm.h:73</div></div>
+<div class="ttc" id="aa29452_html_a61f429ddc92895e66dff2808e17cc322"><div class="ttname"><a href="../../db/dd5/a29452.html#a61f429ddc92895e66dff2808e17cc322">Realm::LocalAddress</a></div><div class="ttdeci">std::unique_ptr&lt; boost::asio::ip::address &gt; LocalAddress</div><div class="ttdef"><b>Definition:</b> Realm.h:72</div></div>
+<div class="ttc" id="aa29452_html_a63cdbd47c50f368974b43c3db2f32cee"><div class="ttname"><a href="../../db/dd5/a29452.html#a63cdbd47c50f368974b43c3db2f32cee">Realm::PopulationLevel</a></div><div class="ttdeci">float PopulationLevel</div><div class="ttdef"><b>Definition:</b> Realm.h:80</div></div>
+<div class="ttc" id="aa29452_html_a64533e919d8c3a37bd5668af77d09166"><div class="ttname"><a href="../../db/dd5/a29452.html#a64533e919d8c3a37bd5668af77d09166">Realm::Build</a></div><div class="ttdeci">uint32 Build</div><div class="ttdef"><b>Definition:</b> Realm.h:70</div></div>
+<div class="ttc" id="aa29452_html_a703504aaf54f1ecf934b9184e9737367"><div class="ttname"><a href="../../db/dd5/a29452.html#a703504aaf54f1ecf934b9184e9737367">Realm::ExternalAddress</a></div><div class="ttdeci">std::unique_ptr&lt; boost::asio::ip::address &gt; ExternalAddress</div><div class="ttdef"><b>Definition:</b> Realm.h:71</div></div>
+<div class="ttc" id="aa29452_html_a9381717fdc924158ecd61a8f00488fc0"><div class="ttname"><a href="../../db/dd5/a29452.html#a9381717fdc924158ecd61a8f00488fc0">Realm::Name</a></div><div class="ttdeci">std::string Name</div><div class="ttdef"><b>Definition:</b> Realm.h:75</div></div>
+<div class="ttc" id="aa29452_html_ab0ccda7e7a58eee0965261767f3ee2ee"><div class="ttname"><a href="../../db/dd5/a29452.html#ab0ccda7e7a58eee0965261767f3ee2ee">Realm::Id</a></div><div class="ttdeci">RealmHandle Id</div><div class="ttdef"><b>Definition:</b> Realm.h:69</div></div>
+<div class="ttc" id="aa29452_html_af77452a4cf7f632d692079615af4737c"><div class="ttname"><a href="../../db/dd5/a29452.html#af77452a4cf7f632d692079615af4737c">Realm::Type</a></div><div class="ttdeci">uint8 Type</div><div class="ttdef"><b>Definition:</b> Realm.h:76</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00462">_spellPhaseMask</a>, and <a class="el" href="../../#l00247">PROC_SPELL_PHASE_FINISH</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00077">_realms</a>, <a class="el" href="../../#l00079">Realm::AllowedSecurityLevel</a>, <a class="el" href="../../#l00070">Realm::Build</a>, <a class="el" href="../../#l00071">Realm::ExternalAddress</a>, <a class="el" href="../../#l00077">Realm::Flags</a>, <a class="el" href="../../#l00069">Realm::Id</a>, <a class="el" href="../../#l00072">Realm::LocalAddress</a>, <a class="el" href="../../#l00073">Realm::LocalSubnetMask</a>, <a class="el" href="../../#l00075">Realm::Name</a>, <a class="el" href="../../#l00080">Realm::PopulationLevel</a>, <a class="el" href="../../#l00074">Realm::Port</a>, <a class="el" href="../../#l00112">realm</a>, <a class="el" href="../../#l00078">Realm::Timezone</a>, and <a class="el" href="../../#l00076">Realm::Type</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00128">UpdateRealms()</a>.</p>
 
 </div>
 </div>
-<a id="aff4fa0bf04b9a27900a8b89380f419bd" name="aff4fa0bf04b9a27900a8b89380f419bd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aff4fa0bf04b9a27900a8b89380f419bd">&#9670;&#160;</a></span>OnHeal()</h2>
+<a id="a0b4559e5538a02ccf5247839005d602e" name="a0b4559e5538a02ccf5247839005d602e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0b4559e5538a02ccf5247839005d602e">&#9670;&#160;</a></span>UpdateRealms()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -565,631 +656,155 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp; ProcScenarioBuilder::OnHeal </td>
+          <td class="memname">void RealmList::UpdateRealms </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">boost::system::error_code const &amp;&#160;</td>
+          <td class="paramname"><em>error</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  301</span>    {</div>
-<div class="line"><span class="lineno">  302</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a3224fff7fa83c444aa33906a7a00a87b">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_POS</a>;</div>
-<div class="line"><span class="lineno">  303</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527a5da2de88220613d950d6304d8e97c4a3">PROC_SPELL_TYPE_HEAL</a>;</div>
-<div class="line"><span class="lineno">  304</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  305</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#aaebb7fb1f99d8041e21721ffa5ac8434">_usesHealInfo</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  306</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  307</span>    }</div>
-<div class="ttc" id="aa00104_html_acb2f59f82f5d44cf14104713821f0527a5da2de88220613d950d6304d8e97c4a3"><div class="ttname"><a href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527a5da2de88220613d950d6304d8e97c4a3">PROC_SPELL_TYPE_HEAL</a></div><div class="ttdeci">@ PROC_SPELL_TYPE_HEAL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:237</div></div>
-<div class="ttc" id="aa00104_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a3224fff7fa83c444aa33906a7a00a87b"><div class="ttname"><a href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a3224fff7fa83c444aa33906a7a00a87b">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_POS</a></div><div class="ttdeci">@ PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_POS</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:128</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  129</span>{</div>
+<div class="line"><span class="lineno">  130</span>    <span class="keywordflow">if</span> (error)</div>
+<div class="line"><span class="lineno">  131</span>    {</div>
+<div class="line"><span class="lineno">  132</span>        <span class="comment">// Skip update if have errors</span></div>
+<div class="line"><span class="lineno">  133</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  134</span>    }</div>
+<div class="line"><span class="lineno">  135</span> </div>
+<div class="line"><span class="lineno">  136</span>    <a class="code hl_define" href="../../d9/d4a/a00479.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;server.authserver&quot;</span>, <span class="stringliteral">&quot;Updating Realm List...&quot;</span>);</div>
+<div class="line"><span class="lineno">  137</span> </div>
+<div class="line"><span class="lineno">  138</span>    <a class="code hl_class" href="../../dd/d2a/a05904.html">LoginDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../dd/d32/a02636.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../d0/df5/a02576.html#a2bc6eef17d8ecd1b7027058f5fecc9fba60f76dbe533e0e45479c1da3cf119ec9">LOGIN_SEL_REALMLIST</a>);</div>
+<div class="line"><span class="lineno">  139</span>    <a class="code hl_typedef" href="../../df/d23/a02558.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> result = <a class="code hl_variable" href="../../dd/d32/a02636.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a>.Query(stmt);</div>
+<div class="line"><span class="lineno">  140</span> </div>
+<div class="line"><span class="lineno">  141</span>    std::map&lt;RealmHandle, std::string&gt; existingRealms;</div>
+<div class="line"><span class="lineno">  142</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; [handle, <a class="code hl_variable" href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a>] : <a class="code hl_variable" href="../../db/d08/a29460.html#a41693a01cd88ea99b54dd9ca8fe6b445">_realms</a>)</div>
+<div class="line"><span class="lineno">  143</span>    {</div>
+<div class="line"><span class="lineno">  144</span>        existingRealms[handle] = <a class="code hl_variable" href="../../d1/d34/a04957.html#gab842e78f86995775c494437356620779">realm</a>.<a class="code hl_variable" href="../../db/dd5/a29452.html#a9381717fdc924158ecd61a8f00488fc0">Name</a>;</div>
+<div class="line"><span class="lineno">  145</span>    }</div>
+<div class="line"><span class="lineno">  146</span> </div>
+<div class="line"><span class="lineno">  147</span>    <a class="code hl_variable" href="../../db/d08/a29460.html#a41693a01cd88ea99b54dd9ca8fe6b445">_realms</a>.clear();</div>
+<div class="line"><span class="lineno">  148</span> </div>
+<div class="line"><span class="lineno">  149</span>    <span class="comment">// Circle through results and add them to the realm map</span></div>
+<div class="line"><span class="lineno">  150</span>    <span class="keywordflow">if</span> (result)</div>
+<div class="line"><span class="lineno">  151</span>    {</div>
+<div class="line"><span class="lineno">  152</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; fields : *result)</div>
+<div class="line"><span class="lineno">  153</span>        {</div>
+<div class="line"><span class="lineno">  154</span>            <span class="keywordflow">try</span></div>
+<div class="line"><span class="lineno">  155</span>            {</div>
+<div class="line"><span class="lineno">  156</span>                <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> realmId = fields[0].Get&lt;<a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  157</span>                std::string name = fields[1].Get&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">  158</span>                std::string externalAddressString = fields[2].Get&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">  159</span>                std::string localAddressString = fields[3].Get&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">  160</span>                std::string localSubmaskString = fields[4].Get&lt;std::string&gt;();</div>
+<div class="line"><span class="lineno">  161</span>                <a class="code hl_typedef" href="../../d6/d1a/a00485.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> port = fields[5].Get&lt;<a class="code hl_typedef" href="../../d6/d1a/a00485.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;();</div>
+<div class="line"><span class="lineno">  162</span> </div>
+<div class="line"><span class="lineno">  163</span>                <a class="code hl_typedef" href="../../da/d24/a00068.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;boost::asio::ip::tcp::endpoint&gt;</a> externalAddress = <a class="code hl_variable" href="../../db/d08/a29460.html#a1beee0fdd1a9e61f68db925f53d373a9">_resolver</a>-&gt;Resolve(boost::asio::ip::tcp::v4(), externalAddressString, <span class="stringliteral">&quot;&quot;</span>);</div>
+<div class="line"><span class="lineno">  164</span>                <span class="keywordflow">if</span> (!externalAddress)</div>
+<div class="line"><span class="lineno">  165</span>                {</div>
+<div class="line"><span class="lineno">  166</span>                    <a class="code hl_define" href="../../d9/d4a/a00479.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.authserver&quot;</span>, <span class="stringliteral">&quot;Could not resolve address {} for realm \&quot;{}\&quot; id {}&quot;</span>, externalAddressString, name, realmId);</div>
+<div class="line"><span class="lineno">  167</span>                    <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  168</span>                }</div>
+<div class="line"><span class="lineno">  169</span> </div>
+<div class="line"><span class="lineno">  170</span>                <a class="code hl_typedef" href="../../da/d24/a00068.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;boost::asio::ip::tcp::endpoint&gt;</a> localAddress = <a class="code hl_variable" href="../../db/d08/a29460.html#a1beee0fdd1a9e61f68db925f53d373a9">_resolver</a>-&gt;Resolve(boost::asio::ip::tcp::v4(), localAddressString, <span class="stringliteral">&quot;&quot;</span>);</div>
+<div class="line"><span class="lineno">  171</span>                <span class="keywordflow">if</span> (!localAddress)</div>
+<div class="line"><span class="lineno">  172</span>                {</div>
+<div class="line"><span class="lineno">  173</span>                    <a class="code hl_define" href="../../d9/d4a/a00479.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.authserver&quot;</span>, <span class="stringliteral">&quot;Could not resolve localAddress {} for realm \&quot;{}\&quot; id {}&quot;</span>, localAddressString, name, realmId);</div>
+<div class="line"><span class="lineno">  174</span>                    <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  175</span>                }</div>
+<div class="line"><span class="lineno">  176</span> </div>
+<div class="line"><span class="lineno">  177</span>                <a class="code hl_typedef" href="../../da/d24/a00068.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;boost::asio::ip::tcp::endpoint&gt;</a> localSubmask = <a class="code hl_variable" href="../../db/d08/a29460.html#a1beee0fdd1a9e61f68db925f53d373a9">_resolver</a>-&gt;Resolve(boost::asio::ip::tcp::v4(), localSubmaskString, <span class="stringliteral">&quot;&quot;</span>);</div>
+<div class="line"><span class="lineno">  178</span>                <span class="keywordflow">if</span> (!localSubmask)</div>
+<div class="line"><span class="lineno">  179</span>                {</div>
+<div class="line"><span class="lineno">  180</span>                    <a class="code hl_define" href="../../d9/d4a/a00479.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.authserver&quot;</span>, <span class="stringliteral">&quot;Could not resolve localSubnetMask {} for realm \&quot;{}\&quot; id {}&quot;</span>, localSubmaskString, name, realmId);</div>
+<div class="line"><span class="lineno">  181</span>                    <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  182</span>                }</div>
+<div class="line"><span class="lineno">  183</span> </div>
+<div class="line"><span class="lineno">  184</span>                <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> icon = fields[6].Get&lt;<a class="code hl_typedef" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
+<div class="line"><span class="lineno">  185</span> </div>
+<div class="line"><span class="lineno">  186</span>                <span class="keywordflow">if</span> (icon == <a class="code hl_enumvalue" href="../../da/d67/a04838.html#ae8ff852caf6f88797c9c3716d1acbe59a43cf71d6098c453fc931d7e25f729457">REALM_TYPE_FFA_PVP</a>)</div>
+<div class="line"><span class="lineno">  187</span>                {</div>
+<div class="line"><span class="lineno">  188</span>                    icon = <a class="code hl_enumvalue" href="../../da/d67/a04838.html#ae8ff852caf6f88797c9c3716d1acbe59a5b9f160cabace91bff99046f281b899c">REALM_TYPE_PVP</a>;</div>
+<div class="line"><span class="lineno">  189</span>                }</div>
+<div class="line"><span class="lineno">  190</span> </div>
+<div class="line"><span class="lineno">  191</span>                <span class="keywordflow">if</span> (icon &gt;= <a class="code hl_enumvalue" href="../../da/d67/a04838.html#ae8ff852caf6f88797c9c3716d1acbe59a580a3990630da9c56e3fef200d6b15be">MAX_CLIENT_REALM_TYPE</a>)</div>
+<div class="line"><span class="lineno">  192</span>                {</div>
+<div class="line"><span class="lineno">  193</span>                    icon = <a class="code hl_enumvalue" href="../../da/d67/a04838.html#ae8ff852caf6f88797c9c3716d1acbe59accb12c63a2ee89b9c3f72e5fd2b056fb">REALM_TYPE_NORMAL</a>;</div>
+<div class="line"><span class="lineno">  194</span>                }</div>
+<div class="line"><span class="lineno">  195</span> </div>
+<div class="line"><span class="lineno">  196</span>                <span class="keyword">auto</span> flag = <a class="code hl_enumeration" href="../../da/d67/a04838.html#ace3f717ac43bef67791faeb2a0b2c1e2">RealmFlags</a>(fields[7].Get&lt;uint8&gt;());</div>
+<div class="line"><span class="lineno">  197</span>                <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> realmTimezone = fields[8].Get&lt;<a class="code hl_typedef" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
+<div class="line"><span class="lineno">  198</span>                <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> allowedSecurityLevel = fields[9].Get&lt;<a class="code hl_typedef" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
+<div class="line"><span class="lineno">  199</span>                <span class="keywordtype">float</span> pop = fields[10].Get&lt;<span class="keywordtype">float</span>&gt;();</div>
+<div class="line"><span class="lineno">  200</span>                <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> build = fields[11].Get&lt;<a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
+<div class="line"><span class="lineno">  201</span> </div>
+<div class="line"><span class="lineno">  202</span>                <a class="code hl_struct" href="../../d7/d7d/a29448.html">RealmHandle</a> <span class="keywordtype">id</span>{ realmId };</div>
+<div class="line"><span class="lineno">  203</span> </div>
+<div class="line"><span class="lineno">  204</span>                <a class="code hl_function" href="../../db/d08/a29460.html#ae15cf59b00e8e8e561f266d5dd3e11ae">UpdateRealm</a>(<span class="keywordtype">id</span>, build, name, externalAddress-&gt;address(), localAddress-&gt;address(), localSubmask-&gt;address(), port, icon, flag,</div>
+<div class="line"><span class="lineno">  205</span>                    realmTimezone, (allowedSecurityLevel &lt;= <a class="code hl_enumvalue" href="../../d3/df8/a00155.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102">SEC_ADMINISTRATOR</a> ? <a class="code hl_enumeration" href="../../d3/df8/a00155.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a>(allowedSecurityLevel) : <a class="code hl_enumvalue" href="../../d3/df8/a00155.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102">SEC_ADMINISTRATOR</a>), pop);</div>
+<div class="line"><span class="lineno">  206</span> </div>
+<div class="line"><span class="lineno">  207</span>                <span class="keywordflow">if</span> (!existingRealms.count(<span class="keywordtype">id</span>))</div>
+<div class="line"><span class="lineno">  208</span>                {</div>
+<div class="line"><span class="lineno">  209</span>                    <a class="code hl_define" href="../../d9/d4a/a00479.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.authserver&quot;</span>, <span class="stringliteral">&quot;Added realm \&quot;{}\&quot; at {}:{}.&quot;</span>, name, externalAddressString, port);</div>
+<div class="line"><span class="lineno">  210</span>                }</div>
+<div class="line"><span class="lineno">  211</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  212</span>                {</div>
+<div class="line"><span class="lineno">  213</span>                    <a class="code hl_define" href="../../d9/d4a/a00479.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;server.authserver&quot;</span>, <span class="stringliteral">&quot;Updating realm \&quot;{}\&quot; at {}:{}.&quot;</span>, name, externalAddressString, port);</div>
+<div class="line"><span class="lineno">  214</span>                }</div>
+<div class="line"><span class="lineno">  215</span> </div>
+<div class="line"><span class="lineno">  216</span>                existingRealms.erase(<span class="keywordtype">id</span>);</div>
+<div class="line"><span class="lineno">  217</span>            }</div>
+<div class="line"><span class="lineno">  218</span>            <span class="keywordflow">catch</span> (std::exception <span class="keyword">const</span>&amp; ex)</div>
+<div class="line"><span class="lineno">  219</span>            {</div>
+<div class="line"><span class="lineno">  220</span>                <a class="code hl_define" href="../../d9/d4a/a00479.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.authserver&quot;</span>, <span class="stringliteral">&quot;Realmlist::UpdateRealms has thrown an exception: {}&quot;</span>, ex.what());</div>
+<div class="line"><span class="lineno">  221</span>                <a class="code hl_define" href="../../d3/d52/a00023.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a>();</div>
+<div class="line"><span class="lineno">  222</span>            }</div>
+<div class="line"><span class="lineno">  223</span>        }</div>
+<div class="line"><span class="lineno">  224</span>    }</div>
+<div class="line"><span class="lineno">  225</span> </div>
+<div class="line"><span class="lineno">  226</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> itr = existingRealms.begin(); itr != existingRealms.end(); ++itr)</div>
+<div class="line"><span class="lineno">  227</span>        <a class="code hl_define" href="../../d9/d4a/a00479.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.authserver&quot;</span>, <span class="stringliteral">&quot;Removed realm \&quot;{}\&quot;.&quot;</span>, itr-&gt;second);</div>
+<div class="line"><span class="lineno">  228</span> </div>
+<div class="line"><span class="lineno">  229</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/d08/a29460.html#ac07fe3cd4fc18169af4f63b207902e95">_updateInterval</a>)</div>
+<div class="line"><span class="lineno">  230</span>    {</div>
+<div class="line"><span class="lineno">  231</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a5619be8a2649680901cfd7a3608e984a">_updateTimer</a>-&gt;expires_at(<a class="code hl_function" href="../../d1/d39/a04965.html#a546bd84b57be90f3ceb4cfc0fb92ae1c">Acore::Asio::SteadyTimer::GetExpirationTime</a>(<a class="code hl_variable" href="../../db/d08/a29460.html#ac07fe3cd4fc18169af4f63b207902e95">_updateInterval</a>));</div>
+<div class="line"><span class="lineno">  232</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a5619be8a2649680901cfd7a3608e984a">_updateTimer</a>-&gt;async_wait([<span class="keyword">this</span>](boost::system::error_code <span class="keyword">const</span>&amp; errorCode){ <a class="code hl_function" href="../../db/d08/a29460.html#a0b4559e5538a02ccf5247839005d602e">UpdateRealms</a>(errorCode); });</div>
+<div class="line"><span class="lineno">  233</span>    }</div>
+<div class="line"><span class="lineno">  234</span>}</div>
+<div class="ttc" id="aa00023_html_a5376571bbf4cdc9782683635f366f89a"><div class="ttname"><a href="../../d3/d52/a00023.html#a5376571bbf4cdc9782683635f366f89a">ABORT</a></div><div class="ttdeci">#define ABORT</div><div class="ttdef"><b>Definition:</b> Errors.h:76</div></div>
+<div class="ttc" id="aa00068_html_aaf8f4d77efd311ec7818ab421294ef82"><div class="ttname"><a href="../../da/d24/a00068.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a></div><div class="ttdeci">std::optional&lt; T &gt; Optional</div><div class="ttdoc">Optional helper class to wrap optional values within.</div><div class="ttdef"><b>Definition:</b> Optional.h:24</div></div>
+<div class="ttc" id="aa00155_html_adaa1cabfe05f8df3c272bdcfd89cdac7"><div class="ttname"><a href="../../d3/df8/a00155.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a></div><div class="ttdeci">AccountTypes</div><div class="ttdef"><b>Definition:</b> Common.h:56</div></div>
+<div class="ttc" id="aa00155_html_adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102"><div class="ttname"><a href="../../d3/df8/a00155.html#adaa1cabfe05f8df3c272bdcfd89cdac7a6a04b5fbbc52adb152bfb45b600db102">SEC_ADMINISTRATOR</a></div><div class="ttdeci">@ SEC_ADMINISTRATOR</div><div class="ttdef"><b>Definition:</b> Common.h:60</div></div>
+<div class="ttc" id="aa00479_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d9/d4a/a00479.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
+<div class="ttc" id="aa00479_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d9/d4a/a00479.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
+<div class="ttc" id="aa00479_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d9/d4a/a00479.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:170</div></div>
+<div class="ttc" id="aa00485_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa00485_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d6/d1a/a00485.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
+<div class="ttc" id="aa02558_html_ac6110b8d867b5f84f677555d07037acb"><div class="ttname"><a href="../../df/d23/a02558.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; PreparedResultSet &gt; PreparedQueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:45</div></div>
+<div class="ttc" id="aa02576_html_a2bc6eef17d8ecd1b7027058f5fecc9fba60f76dbe533e0e45479c1da3cf119ec9"><div class="ttname"><a href="../../d0/df5/a02576.html#a2bc6eef17d8ecd1b7027058f5fecc9fba60f76dbe533e0e45479c1da3cf119ec9">LOGIN_SEL_REALMLIST</a></div><div class="ttdeci">@ LOGIN_SEL_REALMLIST</div><div class="ttdef"><b>Definition:</b> LoginDatabase.h:31</div></div>
+<div class="ttc" id="aa04838_html_ace3f717ac43bef67791faeb2a0b2c1e2"><div class="ttname"><a href="../../da/d67/a04838.html#ace3f717ac43bef67791faeb2a0b2c1e2">RealmFlags</a></div><div class="ttdeci">RealmFlags</div><div class="ttdef"><b>Definition:</b> Realm.h:26</div></div>
+<div class="ttc" id="aa04838_html_ae8ff852caf6f88797c9c3716d1acbe59a43cf71d6098c453fc931d7e25f729457"><div class="ttname"><a href="../../da/d67/a04838.html#ae8ff852caf6f88797c9c3716d1acbe59a43cf71d6098c453fc931d7e25f729457">REALM_TYPE_FFA_PVP</a></div><div class="ttdeci">@ REALM_TYPE_FFA_PVP</div><div class="ttdef"><b>Definition:</b> Realm.h:62</div></div>
+<div class="ttc" id="aa04838_html_ae8ff852caf6f88797c9c3716d1acbe59a580a3990630da9c56e3fef200d6b15be"><div class="ttname"><a href="../../da/d67/a04838.html#ae8ff852caf6f88797c9c3716d1acbe59a580a3990630da9c56e3fef200d6b15be">MAX_CLIENT_REALM_TYPE</a></div><div class="ttdeci">@ MAX_CLIENT_REALM_TYPE</div><div class="ttdef"><b>Definition:</b> Realm.h:60</div></div>
+<div class="ttc" id="aa04838_html_ae8ff852caf6f88797c9c3716d1acbe59a5b9f160cabace91bff99046f281b899c"><div class="ttname"><a href="../../da/d67/a04838.html#ae8ff852caf6f88797c9c3716d1acbe59a5b9f160cabace91bff99046f281b899c">REALM_TYPE_PVP</a></div><div class="ttdeci">@ REALM_TYPE_PVP</div><div class="ttdef"><b>Definition:</b> Realm.h:55</div></div>
+<div class="ttc" id="aa04838_html_ae8ff852caf6f88797c9c3716d1acbe59accb12c63a2ee89b9c3f72e5fd2b056fb"><div class="ttname"><a href="../../da/d67/a04838.html#ae8ff852caf6f88797c9c3716d1acbe59accb12c63a2ee89b9c3f72e5fd2b056fb">REALM_TYPE_NORMAL</a></div><div class="ttdeci">@ REALM_TYPE_NORMAL</div><div class="ttdef"><b>Definition:</b> Realm.h:54</div></div>
+<div class="ttc" id="aa04965_html_a546bd84b57be90f3ceb4cfc0fb92ae1c"><div class="ttname"><a href="../../d1/d39/a04965.html#a546bd84b57be90f3ceb4cfc0fb92ae1c">Acore::Asio::SteadyTimer::GetExpirationTime</a></div><div class="ttdeci">auto GetExpirationTime(int32 seconds)</div><div class="ttdef"><b>Definition:</b> SteadyTimer.h:25</div></div>
+<div class="ttc" id="aa05904_html"><div class="ttname"><a href="../../dd/d2a/a05904.html">PreparedStatement</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:157</div></div>
+<div class="ttc" id="aa29448_html"><div class="ttname"><a href="../../d7/d7d/a29448.html">RealmHandle</a></div><div class="ttdef"><b>Definition:</b> Realm.h:39</div></div>
+<div class="ttc" id="aa29460_html_ae15cf59b00e8e8e561f266d5dd3e11ae"><div class="ttname"><a href="../../db/d08/a29460.html#ae15cf59b00e8e8e561f266d5dd3e11ae">RealmList::UpdateRealm</a></div><div class="ttdeci">void UpdateRealm(RealmHandle const &amp;id, uint32 build, std::string const &amp;name, boost::asio::ip::address &amp;&amp;address, boost::asio::ip::address &amp;&amp;localAddr, boost::asio::ip::address &amp;&amp;localSubmask, uint16 port, uint8 icon, RealmFlags flag, uint8 realmTimezone, AccountTypes allowedSecurityLevel, float population)</div><div class="ttdef"><b>Definition:</b> RealmList.cpp:94</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00463">_needsSpellInfo</a>, <a class="el" href="../../#l00461">_spellTypeMask</a>, <a class="el" href="../../#l00459">_typeMask</a>, <a class="el" href="../../#l00465">_usesHealInfo</a>, <a class="el" href="../../#l00128">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_POS</a>, and <a class="el" href="../../#l00237">PROC_SPELL_TYPE_HEAL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00077">_realms</a>, <a class="el" href="../../#l00080">_resolver</a>, <a class="el" href="../../#l00078">_updateInterval</a>, <a class="el" href="../../#l00079">_updateTimer</a>, <a class="el" href="../../#l00076">ABORT</a>, <a class="el" href="../../#l00025">Acore::Asio::SteadyTimer::GetExpirationTime()</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00031">LOGIN_SEL_REALMLIST</a>, <a class="el" href="../../#l00022">LoginDatabase</a>, <a class="el" href="../../#l00060">MAX_CLIENT_REALM_TYPE</a>, <a class="el" href="../../#l00075">Realm::Name</a>, <a class="el" href="../../#l00112">realm</a>, <a class="el" href="../../#l00062">REALM_TYPE_FFA_PVP</a>, <a class="el" href="../../#l00054">REALM_TYPE_NORMAL</a>, <a class="el" href="../../#l00055">REALM_TYPE_PVP</a>, <a class="el" href="../../#l00060">SEC_ADMINISTRATOR</a>, <a class="el" href="../../#l00094">UpdateRealm()</a>, and <a class="el" href="../../#l00128">UpdateRealms()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00141">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="a33990b1e289f2557222db834e16d7555" name="a33990b1e289f2557222db834e16d7555"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a33990b1e289f2557222db834e16d7555">&#9670;&#160;</a></span>OnHit()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp; ProcScenarioBuilder::OnHit </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  410</span>    {</div>
-<div class="line"><span class="lineno">  411</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a17ef182eba57398119e2e7a8459126f4">_spellPhaseMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a>;</div>
-<div class="line"><span class="lineno">  412</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  413</span>    }</div>
-<div class="ttc" id="aa00104_html_addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34"><div class="ttname"><a href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_HIT</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:246</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00462">_spellPhaseMask</a>, and <a class="el" href="../../#l00246">PROC_SPELL_PHASE_HIT</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00100">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="a817da410ab3f32ca2ac5ca6a2541dba9" name="a817da410ab3f32ca2ac5ca6a2541dba9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a817da410ab3f32ca2ac5ca6a2541dba9">&#9670;&#160;</a></span>OnKill()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp; ProcScenarioBuilder::OnKill </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  337</span>    {</div>
-<div class="line"><span class="lineno">  338</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aadedce3b69f2042ebb950a48165fc89a">PROC_FLAG_KILL</a>;</div>
-<div class="line"><span class="lineno">  339</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  340</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  341</span>    }</div>
-<div class="ttc" id="aa00104_html_ade1c2af066d4cf1bbcd88f13f01cd4d6aadedce3b69f2042ebb950a48165fc89a"><div class="ttname"><a href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aadedce3b69f2042ebb950a48165fc89a">PROC_FLAG_KILL</a></div><div class="ttdeci">@ PROC_FLAG_KILL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:108</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00463">_needsSpellInfo</a>, <a class="el" href="../../#l00459">_typeMask</a>, and <a class="el" href="../../#l00108">PROC_FLAG_KILL</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00219">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="a1d8c0022b7ccd13bbe2c8e66cbae88f8" name="a1d8c0022b7ccd13bbe2c8e66cbae88f8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1d8c0022b7ccd13bbe2c8e66cbae88f8">&#9670;&#160;</a></span>OnMeleeAutoAttack()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp; ProcScenarioBuilder::OnMeleeAutoAttack </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  269</span>    {</div>
-<div class="line"><span class="lineno">  270</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>;</div>
-<div class="line"><span class="lineno">  271</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  272</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  273</span>    }</div>
-<div class="ttc" id="aa00104_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc"><div class="ttname"><a href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a></div><div class="ttdeci">@ PROC_FLAG_DONE_MELEE_AUTO_ATTACK</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:110</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00463">_needsSpellInfo</a>, <a class="el" href="../../#l00459">_typeMask</a>, and <a class="el" href="../../#l00110">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00048">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="a6824d1e7348aa66c9259680e276522fc" name="a6824d1e7348aa66c9259680e276522fc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6824d1e7348aa66c9259680e276522fc">&#9670;&#160;</a></span>OnPeriodicDamage()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp; ProcScenarioBuilder::OnPeriodicDamage </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  319</span>    {</div>
-<div class="line"><span class="lineno">  320</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a429d6c885f9687a1b041436cb45d74ce">PROC_FLAG_DONE_PERIODIC</a>;</div>
-<div class="line"><span class="lineno">  321</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c">PROC_SPELL_TYPE_DAMAGE</a>;</div>
-<div class="line"><span class="lineno">  322</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  323</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a72cdb437766d786f3056f649996b66f1">_usesDamageInfo</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  324</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  325</span>    }</div>
-<div class="ttc" id="aa00104_html_acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c"><div class="ttname"><a href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c">PROC_SPELL_TYPE_DAMAGE</a></div><div class="ttdeci">@ PROC_SPELL_TYPE_DAMAGE</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:236</div></div>
-<div class="ttc" id="aa00104_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a429d6c885f9687a1b041436cb45d74ce"><div class="ttname"><a href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a429d6c885f9687a1b041436cb45d74ce">PROC_FLAG_DONE_PERIODIC</a></div><div class="ttdeci">@ PROC_FLAG_DONE_PERIODIC</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:134</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00463">_needsSpellInfo</a>, <a class="el" href="../../#l00461">_spellTypeMask</a>, <a class="el" href="../../#l00459">_typeMask</a>, <a class="el" href="../../#l00464">_usesDamageInfo</a>, <a class="el" href="../../#l00134">PROC_FLAG_DONE_PERIODIC</a>, and <a class="el" href="../../#l00236">PROC_SPELL_TYPE_DAMAGE</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00183">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="a904b6436dc7fece5fd0c6f985ff6fc27" name="a904b6436dc7fece5fd0c6f985ff6fc27"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a904b6436dc7fece5fd0c6f985ff6fc27">&#9670;&#160;</a></span>OnPeriodicHeal()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp; ProcScenarioBuilder::OnPeriodicHeal </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  328</span>    {</div>
-<div class="line"><span class="lineno">  329</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a429d6c885f9687a1b041436cb45d74ce">PROC_FLAG_DONE_PERIODIC</a>;</div>
-<div class="line"><span class="lineno">  330</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527a5da2de88220613d950d6304d8e97c4a3">PROC_SPELL_TYPE_HEAL</a>;</div>
-<div class="line"><span class="lineno">  331</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  332</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#aaebb7fb1f99d8041e21721ffa5ac8434">_usesHealInfo</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  333</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  334</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00463">_needsSpellInfo</a>, <a class="el" href="../../#l00461">_spellTypeMask</a>, <a class="el" href="../../#l00459">_typeMask</a>, <a class="el" href="../../#l00465">_usesHealInfo</a>, <a class="el" href="../../#l00134">PROC_FLAG_DONE_PERIODIC</a>, and <a class="el" href="../../#l00237">PROC_SPELL_TYPE_HEAL</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00200">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="a89641d017b53d0d4f07865ed254441bb" name="a89641d017b53d0d4f07865ed254441bb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a89641d017b53d0d4f07865ed254441bb">&#9670;&#160;</a></span>OnSpellDamage()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp; ProcScenarioBuilder::OnSpellDamage </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  283</span>    {</div>
-<div class="line"><span class="lineno">  284</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>;</div>
-<div class="line"><span class="lineno">  285</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c">PROC_SPELL_TYPE_DAMAGE</a>;</div>
-<div class="line"><span class="lineno">  286</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  287</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a72cdb437766d786f3056f649996b66f1">_usesDamageInfo</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  288</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  289</span>    }</div>
-<div class="ttc" id="aa00104_html_ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67"><div class="ttname"><a href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a></div><div class="ttdeci">@ PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:131</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00463">_needsSpellInfo</a>, <a class="el" href="../../#l00461">_spellTypeMask</a>, <a class="el" href="../../#l00459">_typeMask</a>, <a class="el" href="../../#l00464">_usesDamageInfo</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, and <a class="el" href="../../#l00236">PROC_SPELL_TYPE_DAMAGE</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00100">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="ad29272e85434bf8f5d33ecfc15f56f92" name="ad29272e85434bf8f5d33ecfc15f56f92"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad29272e85434bf8f5d33ecfc15f56f92">&#9670;&#160;</a></span>OnTakenHeal()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp; ProcScenarioBuilder::OnTakenHeal </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  310</span>    {</div>
-<div class="line"><span class="lineno">  311</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6abb4ec446733b29f5eaa67b5b5a6c8d73">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_POS</a>;</div>
-<div class="line"><span class="lineno">  312</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527a5da2de88220613d950d6304d8e97c4a3">PROC_SPELL_TYPE_HEAL</a>;</div>
-<div class="line"><span class="lineno">  313</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  314</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#aaebb7fb1f99d8041e21721ffa5ac8434">_usesHealInfo</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  315</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  316</span>    }</div>
-<div class="ttc" id="aa00104_html_ade1c2af066d4cf1bbcd88f13f01cd4d6abb4ec446733b29f5eaa67b5b5a6c8d73"><div class="ttname"><a href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6abb4ec446733b29f5eaa67b5b5a6c8d73">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_POS</a></div><div class="ttdeci">@ PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_POS</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:129</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00463">_needsSpellInfo</a>, <a class="el" href="../../#l00461">_spellTypeMask</a>, <a class="el" href="../../#l00459">_typeMask</a>, <a class="el" href="../../#l00465">_usesHealInfo</a>, <a class="el" href="../../#l00129">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_POS</a>, and <a class="el" href="../../#l00237">PROC_SPELL_TYPE_HEAL</a>.</p>
-
-</div>
-</div>
-<a id="ac984b2ef7b4f02f7707368d20bc3be09" name="ac984b2ef7b4f02f7707368d20bc3be09"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac984b2ef7b4f02f7707368d20bc3be09">&#9670;&#160;</a></span>OnTakenMeleeAutoAttack()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp; ProcScenarioBuilder::OnTakenMeleeAutoAttack </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  276</span>    {</div>
-<div class="line"><span class="lineno">  277</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>;</div>
-<div class="line"><span class="lineno">  278</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  279</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  280</span>    }</div>
-<div class="ttc" id="aa00104_html_ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12"><div class="ttname"><a href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a></div><div class="ttdeci">@ PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:111</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00463">_needsSpellInfo</a>, <a class="el" href="../../#l00459">_typeMask</a>, and <a class="el" href="../../#l00111">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00247">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="aba6ee89bbb8d516bb8664c136651ccf8" name="aba6ee89bbb8d516bb8664c136651ccf8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aba6ee89bbb8d516bb8664c136651ccf8">&#9670;&#160;</a></span>OnTakenSpellDamage()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp; ProcScenarioBuilder::OnTakenSpellDamage </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  292</span>    {</div>
-<div class="line"><span class="lineno">  293</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a83f7552203278e82d55d40034cea9105">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_NEG</a>;</div>
-<div class="line"><span class="lineno">  294</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c">PROC_SPELL_TYPE_DAMAGE</a>;</div>
-<div class="line"><span class="lineno">  295</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  296</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a72cdb437766d786f3056f649996b66f1">_usesDamageInfo</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  297</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  298</span>    }</div>
-<div class="ttc" id="aa00104_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a83f7552203278e82d55d40034cea9105"><div class="ttname"><a href="../../d0/dc2/a00104.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a83f7552203278e82d55d40034cea9105">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_NEG</a></div><div class="ttdeci">@ PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_NEG</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:132</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00463">_needsSpellInfo</a>, <a class="el" href="../../#l00461">_spellTypeMask</a>, <a class="el" href="../../#l00459">_typeMask</a>, <a class="el" href="../../#l00464">_usesDamageInfo</a>, <a class="el" href="../../#l00132">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_NEG</a>, and <a class="el" href="../../#l00236">PROC_SPELL_TYPE_DAMAGE</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00307">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="af37d28796ab98c6bf91a559719aa0e13" name="af37d28796ab98c6bf91a559719aa0e13"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af37d28796ab98c6bf91a559719aa0e13">&#9670;&#160;</a></span>WithAbsorb()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp; ProcScenarioBuilder::WithAbsorb </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  394</span>    {</div>
-<div class="line"><span class="lineno">  395</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9ac3e5e7204eb9768e20c9a484f55a813b">PROC_HIT_ABSORB</a>;</div>
-<div class="line"><span class="lineno">  396</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  397</span>    }</div>
-<div class="ttc" id="aa00104_html_a318db75286b71ffeb7f24d6d2c992bc9ac3e5e7204eb9768e20c9a484f55a813b"><div class="ttname"><a href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9ac3e5e7204eb9768e20c9a484f55a813b">PROC_HIT_ABSORB</a></div><div class="ttdeci">@ PROC_HIT_ABSORB</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:264</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00460">_hitMask</a>, and <a class="el" href="../../#l00264">PROC_HIT_ABSORB</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00307">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="adf8de195e514c20b67e77a0401d01a2a" name="adf8de195e514c20b67e77a0401d01a2a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adf8de195e514c20b67e77a0401d01a2a">&#9670;&#160;</a></span>WithBlock()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp; ProcScenarioBuilder::WithBlock </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  382</span>    {</div>
-<div class="line"><span class="lineno">  383</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9a1391cd236336f48dde42703613a04ce8">PROC_HIT_BLOCK</a>;</div>
-<div class="line"><span class="lineno">  384</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  385</span>    }</div>
-<div class="ttc" id="aa00104_html_a318db75286b71ffeb7f24d6d2c992bc9a1391cd236336f48dde42703613a04ce8"><div class="ttname"><a href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9a1391cd236336f48dde42703613a04ce8">PROC_HIT_BLOCK</a></div><div class="ttdeci">@ PROC_HIT_BLOCK</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:260</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00460">_hitMask</a>, and <a class="el" href="../../#l00260">PROC_HIT_BLOCK</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00275">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="a93f4ae0c7fefccf44a4dc93a886d1c82" name="a93f4ae0c7fefccf44a4dc93a886d1c82"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a93f4ae0c7fefccf44a4dc93a886d1c82">&#9670;&#160;</a></span>WithCrit()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp; ProcScenarioBuilder::WithCrit </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  352</span>    {</div>
-<div class="line"><span class="lineno">  353</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9ae0db62fc42fe80503a49d3b3197b8d12">PROC_HIT_CRITICAL</a>;</div>
-<div class="line"><span class="lineno">  354</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  355</span>    }</div>
-<div class="ttc" id="aa00104_html_a318db75286b71ffeb7f24d6d2c992bc9ae0db62fc42fe80503a49d3b3197b8d12"><div class="ttname"><a href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9ae0db62fc42fe80503a49d3b3197b8d12">PROC_HIT_CRITICAL</a></div><div class="ttdeci">@ PROC_HIT_CRITICAL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:255</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00460">_hitMask</a>, and <a class="el" href="../../#l00255">PROC_HIT_CRITICAL</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00062">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="a2fc943ec42c64fc517554c791c5378d1" name="a2fc943ec42c64fc517554c791c5378d1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2fc943ec42c64fc517554c791c5378d1">&#9670;&#160;</a></span>WithDodge()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp; ProcScenarioBuilder::WithDodge </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  370</span>    {</div>
-<div class="line"><span class="lineno">  371</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9a9bbc3d18ec5466192ea80ccd63d83166">PROC_HIT_DODGE</a>;</div>
-<div class="line"><span class="lineno">  372</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  373</span>    }</div>
-<div class="ttc" id="aa00104_html_a318db75286b71ffeb7f24d6d2c992bc9a9bbc3d18ec5466192ea80ccd63d83166"><div class="ttname"><a href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9a9bbc3d18ec5466192ea80ccd63d83166">PROC_HIT_DODGE</a></div><div class="ttdeci">@ PROC_HIT_DODGE</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:258</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00460">_hitMask</a>, and <a class="el" href="../../#l00258">PROC_HIT_DODGE</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00247">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="a4cde496aa81774682a10851e46868e7e" name="a4cde496aa81774682a10851e46868e7e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4cde496aa81774682a10851e46868e7e">&#9670;&#160;</a></span>WithFullBlock()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp; ProcScenarioBuilder::WithFullBlock </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  388</span>    {</div>
-<div class="line"><span class="lineno">  389</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9a1e29115ea7191b010734e1fdaf06b502">PROC_HIT_FULL_BLOCK</a>;</div>
-<div class="line"><span class="lineno">  390</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  391</span>    }</div>
-<div class="ttc" id="aa00104_html_a318db75286b71ffeb7f24d6d2c992bc9a1e29115ea7191b010734e1fdaf06b502"><div class="ttname"><a href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9a1e29115ea7191b010734e1fdaf06b502">PROC_HIT_FULL_BLOCK</a></div><div class="ttdeci">@ PROC_HIT_FULL_BLOCK</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:267</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00460">_hitMask</a>, and <a class="el" href="../../#l00267">PROC_HIT_FULL_BLOCK</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00289">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="a683dbda7d444eefa76adf5dc61fc058b" name="a683dbda7d444eefa76adf5dc61fc058b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a683dbda7d444eefa76adf5dc61fc058b">&#9670;&#160;</a></span>WithMiss()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp; ProcScenarioBuilder::WithMiss </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  364</span>    {</div>
-<div class="line"><span class="lineno">  365</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9a4021bb3e6b043ac1c53be283642e6209">PROC_HIT_MISS</a>;</div>
-<div class="line"><span class="lineno">  366</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  367</span>    }</div>
-<div class="ttc" id="aa00104_html_a318db75286b71ffeb7f24d6d2c992bc9a4021bb3e6b043ac1c53be283642e6209"><div class="ttname"><a href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9a4021bb3e6b043ac1c53be283642e6209">PROC_HIT_MISS</a></div><div class="ttdeci">@ PROC_HIT_MISS</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:256</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00460">_hitMask</a>, and <a class="el" href="../../#l00256">PROC_HIT_MISS</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00082">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="ac3aafe6190c8cfd475c8a2ff291f6d8d" name="ac3aafe6190c8cfd475c8a2ff291f6d8d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac3aafe6190c8cfd475c8a2ff291f6d8d">&#9670;&#160;</a></span>WithNormalHit()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp; ProcScenarioBuilder::WithNormalHit </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  358</span>    {</div>
-<div class="line"><span class="lineno">  359</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a>;</div>
-<div class="line"><span class="lineno">  360</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  361</span>    }</div>
-<div class="ttc" id="aa00104_html_a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799"><div class="ttname"><a href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a></div><div class="ttdeci">@ PROC_HIT_NORMAL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:254</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00460">_hitMask</a>, and <a class="el" href="../../#l00254">PROC_HIT_NORMAL</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00048">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="ac0fa0319216fc0e02ec4535573f58a75" name="ac0fa0319216fc0e02ec4535573f58a75"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac0fa0319216fc0e02ec4535573f58a75">&#9670;&#160;</a></span>WithParry()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a> &amp; ProcScenarioBuilder::WithParry </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  376</span>    {</div>
-<div class="line"><span class="lineno">  377</span>        <a class="code hl_variable" href="../../db/d08/a29460.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9aca7410f24e5b69ddb9d64170c7bd4f49">PROC_HIT_PARRY</a>;</div>
-<div class="line"><span class="lineno">  378</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  379</span>    }</div>
-<div class="ttc" id="aa00104_html_a318db75286b71ffeb7f24d6d2c992bc9aca7410f24e5b69ddb9d64170c7bd4f49"><div class="ttname"><a href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9aca7410f24e5b69ddb9d64170c7bd4f49">PROC_HIT_PARRY</a></div><div class="ttdeci">@ PROC_HIT_PARRY</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:259</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00460">_hitMask</a>, and <a class="el" href="../../#l00259">PROC_HIT_PARRY</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00261">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00037">Initialize()</a>, and <a class="el" href="../../#l00128">UpdateRealms()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a3a9ca34b1a3d03873cdd9957b51ec82e" name="a3a9ca34b1a3d03873cdd9957b51ec82e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3a9ca34b1a3d03873cdd9957b51ec82e">&#9670;&#160;</a></span>_damageInfo</h2>
+<a id="a7c38c3c8b4fe6554c66dbc5ada26a3e0" name="a7c38c3c8b4fe6554c66dbc5ada26a3e0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7c38c3c8b4fe6554c66dbc5ada26a3e0">&#9670;&#160;</a></span>_builds</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1198,7 +813,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::shared_ptr&lt;<a class="el" href="../../d0/d96/a08924.html">DamageInfo</a>&gt; ProcScenarioBuilder::_damageInfo</td>
+          <td class="memname">std::vector&lt;<a class="el" href="../../de/de5/a29456.html">RealmBuildInfo</a>&gt; RealmList::_builds</td>
         </tr>
       </table>
   </td>
@@ -1208,12 +823,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00422">Build()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00247">GetBuildInfo()</a>, and <a class="el" href="../../#l00054">LoadBuildInfo()</a>.</p>
 
 </div>
 </div>
-<a id="aec2a16ed277241f6795781e62572c16a" name="aec2a16ed277241f6795781e62572c16a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aec2a16ed277241f6795781e62572c16a">&#9670;&#160;</a></span>_defaultSpellInfo</h2>
+<a id="a41693a01cd88ea99b54dd9ca8fe6b445" name="a41693a01cd88ea99b54dd9ca8fe6b445"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a41693a01cd88ea99b54dd9ca8fe6b445">&#9670;&#160;</a></span>_realms</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1222,7 +837,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::shared_ptr&lt;<a class="el" href="../../da/d41/a11604.html">SpellInfo</a>&gt; ProcScenarioBuilder::_defaultSpellInfo</td>
+          <td class="memname"><a class="el" href="../../db/d08/a29460.html#a6031c19ec935fbe535f60a1014483dbd">RealmMap</a> RealmList::_realms</td>
         </tr>
       </table>
   </td>
@@ -1232,12 +847,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00422">Build()</a>, and <a class="el" href="../../#l00254">ProcScenarioBuilder()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00236">GetRealm()</a>, <a class="el" href="../../#l00094">UpdateRealm()</a>, and <a class="el" href="../../#l00128">UpdateRealms()</a>.</p>
 
 </div>
 </div>
-<a id="ad404a062d1b2b2c4aef2e3e48eb15b8a" name="ad404a062d1b2b2c4aef2e3e48eb15b8a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad404a062d1b2b2c4aef2e3e48eb15b8a">&#9670;&#160;</a></span>_healInfo</h2>
+<a id="a1beee0fdd1a9e61f68db925f53d373a9" name="a1beee0fdd1a9e61f68db925f53d373a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1beee0fdd1a9e61f68db925f53d373a9">&#9670;&#160;</a></span>_resolver</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1246,7 +861,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::shared_ptr&lt;<a class="el" href="../../d1/d8e/a08928.html">HealInfo</a>&gt; ProcScenarioBuilder::_healInfo</td>
+          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../de/d0b/a05080.html">Acore::Asio::Resolver</a>&gt; RealmList::_resolver</td>
         </tr>
       </table>
   </td>
@@ -1256,12 +871,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00422">Build()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00037">Initialize()</a>, and <a class="el" href="../../#l00128">UpdateRealms()</a>.</p>
 
 </div>
 </div>
-<a id="a2ddd6ada1c34a326d1cdd9b0e1c30079" name="a2ddd6ada1c34a326d1cdd9b0e1c30079"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2ddd6ada1c34a326d1cdd9b0e1c30079">&#9670;&#160;</a></span>_hitMask</h2>
+<a id="ac07fe3cd4fc18169af4f63b207902e95" name="ac07fe3cd4fc18169af4f63b207902e95"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac07fe3cd4fc18169af4f63b207902e95">&#9670;&#160;</a></span>_updateInterval</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1270,7 +885,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">uint32_t ProcScenarioBuilder::_hitMask = <a class="el" href="../../d0/dc2/a00104.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a></td>
+          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> RealmList::_updateInterval {0}</td>
         </tr>
       </table>
   </td>
@@ -1280,12 +895,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00422">Build()</a>, <a class="el" href="../../#l00454">GetHitMask()</a>, <a class="el" href="../../#l00393">WithAbsorb()</a>, <a class="el" href="../../#l00381">WithBlock()</a>, <a class="el" href="../../#l00351">WithCrit()</a>, <a class="el" href="../../#l00369">WithDodge()</a>, <a class="el" href="../../#l00387">WithFullBlock()</a>, <a class="el" href="../../#l00363">WithMiss()</a>, <a class="el" href="../../#l00357">WithNormalHit()</a>, and <a class="el" href="../../#l00375">WithParry()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00037">Initialize()</a>, and <a class="el" href="../../#l00128">UpdateRealms()</a>.</p>
 
 </div>
 </div>
-<a id="ac0b72d559f737ac1d7ee5d9f589f7160" name="ac0b72d559f737ac1d7ee5d9f589f7160"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac0b72d559f737ac1d7ee5d9f589f7160">&#9670;&#160;</a></span>_needsSpellInfo</h2>
+<a id="a5619be8a2649680901cfd7a3608e984a" name="a5619be8a2649680901cfd7a3608e984a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5619be8a2649680901cfd7a3608e984a">&#9670;&#160;</a></span>_updateTimer</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1294,7 +909,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool ProcScenarioBuilder::_needsSpellInfo = false</td>
+          <td class="memname">std::unique_ptr&lt;boost::asio::steady_timer&gt; RealmList::_updateTimer</td>
         </tr>
       </table>
   </td>
@@ -1304,127 +919,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00422">Build()</a>, <a class="el" href="../../#l00343">OnDeath()</a>, <a class="el" href="../../#l00300">OnHeal()</a>, <a class="el" href="../../#l00336">OnKill()</a>, <a class="el" href="../../#l00268">OnMeleeAutoAttack()</a>, <a class="el" href="../../#l00318">OnPeriodicDamage()</a>, <a class="el" href="../../#l00327">OnPeriodicHeal()</a>, <a class="el" href="../../#l00282">OnSpellDamage()</a>, <a class="el" href="../../#l00309">OnTakenHeal()</a>, <a class="el" href="../../#l00275">OnTakenMeleeAutoAttack()</a>, and <a class="el" href="../../#l00291">OnTakenSpellDamage()</a>.</p>
-
-</div>
-</div>
-<a id="a17ef182eba57398119e2e7a8459126f4" name="a17ef182eba57398119e2e7a8459126f4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a17ef182eba57398119e2e7a8459126f4">&#9670;&#160;</a></span>_spellPhaseMask</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t ProcScenarioBuilder::_spellPhaseMask = <a class="el" href="../../d0/dc2/a00104.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00422">Build()</a>, <a class="el" href="../../#l00456">GetSpellPhaseMask()</a>, <a class="el" href="../../#l00403">OnCast()</a>, <a class="el" href="../../#l00415">OnFinish()</a>, and <a class="el" href="../../#l00409">OnHit()</a>.</p>
-
-</div>
-</div>
-<a id="a7c74b10b0822608a0b0563e4dcebcb7c" name="a7c74b10b0822608a0b0563e4dcebcb7c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7c74b10b0822608a0b0563e4dcebcb7c">&#9670;&#160;</a></span>_spellTypeMask</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t ProcScenarioBuilder::_spellTypeMask = <a class="el" href="../../d0/dc2/a00104.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00422">Build()</a>, <a class="el" href="../../#l00455">GetSpellTypeMask()</a>, <a class="el" href="../../#l00300">OnHeal()</a>, <a class="el" href="../../#l00318">OnPeriodicDamage()</a>, <a class="el" href="../../#l00327">OnPeriodicHeal()</a>, <a class="el" href="../../#l00282">OnSpellDamage()</a>, <a class="el" href="../../#l00309">OnTakenHeal()</a>, and <a class="el" href="../../#l00291">OnTakenSpellDamage()</a>.</p>
-
-</div>
-</div>
-<a id="a749b71368e15303ef60c78ed1fa6db16" name="a749b71368e15303ef60c78ed1fa6db16"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a749b71368e15303ef60c78ed1fa6db16">&#9670;&#160;</a></span>_typeMask</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t ProcScenarioBuilder::_typeMask = 0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00422">Build()</a>, <a class="el" href="../../#l00453">GetTypeMask()</a>, <a class="el" href="../../#l00343">OnDeath()</a>, <a class="el" href="../../#l00300">OnHeal()</a>, <a class="el" href="../../#l00336">OnKill()</a>, <a class="el" href="../../#l00268">OnMeleeAutoAttack()</a>, <a class="el" href="../../#l00318">OnPeriodicDamage()</a>, <a class="el" href="../../#l00327">OnPeriodicHeal()</a>, <a class="el" href="../../#l00282">OnSpellDamage()</a>, <a class="el" href="../../#l00309">OnTakenHeal()</a>, <a class="el" href="../../#l00275">OnTakenMeleeAutoAttack()</a>, and <a class="el" href="../../#l00291">OnTakenSpellDamage()</a>.</p>
-
-</div>
-</div>
-<a id="a72cdb437766d786f3056f649996b66f1" name="a72cdb437766d786f3056f649996b66f1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a72cdb437766d786f3056f649996b66f1">&#9670;&#160;</a></span>_usesDamageInfo</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool ProcScenarioBuilder::_usesDamageInfo = false</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00422">Build()</a>, <a class="el" href="../../#l00318">OnPeriodicDamage()</a>, <a class="el" href="../../#l00282">OnSpellDamage()</a>, and <a class="el" href="../../#l00291">OnTakenSpellDamage()</a>.</p>
-
-</div>
-</div>
-<a id="aaebb7fb1f99d8041e21721ffa5ac8434" name="aaebb7fb1f99d8041e21721ffa5ac8434"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaebb7fb1f99d8041e21721ffa5ac8434">&#9670;&#160;</a></span>_usesHealInfo</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool ProcScenarioBuilder::_usesHealInfo = false</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00422">Build()</a>, <a class="el" href="../../#l00300">OnHeal()</a>, <a class="el" href="../../#l00327">OnPeriodicHeal()</a>, and <a class="el" href="../../#l00309">OnTakenHeal()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00049">Close()</a>, <a class="el" href="../../#l00037">Initialize()</a>, and <a class="el" href="../../#l00128">UpdateRealms()</a>.</p>
 
 </div>
 </div>
@@ -1433,8 +928,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../db/d08/a29460.html">ProcScenarioBuilder</a></li>
-    <li class="footer">Generated on Mon Feb 23 2026 21:15:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../db/d08/a29460.html">RealmList</a></li>
+    <li class="footer">Generated on Mon Mar 2 2026 21:05:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

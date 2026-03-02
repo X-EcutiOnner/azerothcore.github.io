@@ -1,13 +1,18 @@
 var a17452 =
 [
-    [ "boss_tyrannusAI", "d2/d4c/a17452.html#a753de14d2cecaaed2c7b24e09397b008", null ],
-    [ "CanAIAttack", "d2/d4c/a17452.html#a0cb60f308637cbd152faf274b3e5f636", null ],
-    [ "DoAction", "d2/d4c/a17452.html#ab4d899ab5da283c8d256df8cb0d4e312", null ],
-    [ "EnterEvadeMode", "d2/d4c/a17452.html#a9d18bab323c676020dede77a498a5b77", null ],
-    [ "JustDied", "d2/d4c/a17452.html#a249b7dc28dfc40c2a782ef32b88dbb48", null ],
-    [ "KilledUnit", "d2/d4c/a17452.html#abf7c8909143dac641c00cca160bef964", null ],
-    [ "Reset", "d2/d4c/a17452.html#aec686cffccd8d95a341e320ffc7d5b7e", null ],
-    [ "UpdateAI", "d2/d4c/a17452.html#a4357dc2e9b1d714d780db6ce3f60728b", null ],
-    [ "events", "d2/d4c/a17452.html#a2168a2e1b36607b76614bdef54b02bc3", null ],
-    [ "pInstance", "d2/d4c/a17452.html#ad4a8282849aaa1ce8b4702b5af55d35b", null ]
+    [ "boss_garfrostAI", "d2/d4c/a17452.html#af9f0a6bc8b982b025312d6b2c1f91549", null ],
+    [ "DamageTaken", "d2/d4c/a17452.html#a7a033f54f2c994c74b7125fb549af513", null ],
+    [ "EnterEvadeMode", "d2/d4c/a17452.html#acca25c3bf34760ed1f0e451d8d304ab6", null ],
+    [ "JustDied", "d2/d4c/a17452.html#a6439d3163c49973b36ae10c85b9dd11e", null ],
+    [ "JustEngagedWith", "d2/d4c/a17452.html#a06e1b8d8e0b1f0fd5fac0b2a4bad4ad6", null ],
+    [ "KilledUnit", "d2/d4c/a17452.html#af3751410e925a20c21b282d1b2de3bf3", null ],
+    [ "MovementInform", "d2/d4c/a17452.html#aadebdb2dd4402be150711f98dfab3f5f", null ],
+    [ "Reset", "d2/d4c/a17452.html#a916fd78cf3fd309ab8b13c96325002f2", null ],
+    [ "SetData", "d2/d4c/a17452.html#a3563e70e731836857837b1d4ac135130", null ],
+    [ "SpellHitTarget", "d2/d4c/a17452.html#ab7a4941d3d4565215ab3ac200ee1d534", null ],
+    [ "UpdateAI", "d2/d4c/a17452.html#a27cf76c48504dfb21f1a4a0caf9dd4cb", null ],
+    [ "bCanSayBoulderHit", "d2/d4c/a17452.html#a587196314c341334418ea19c7f9ea597", null ],
+    [ "events", "d2/d4c/a17452.html#addafeb61c54f95e71d9c45de3bddd25b", null ],
+    [ "phase", "d2/d4c/a17452.html#a917a6a57e8c55b9be92f01e2e7422508", null ],
+    [ "pInstance", "d2/d4c/a17452.html#a57ded0b0c7085ea978c01efa28e7d096", null ]
 ];

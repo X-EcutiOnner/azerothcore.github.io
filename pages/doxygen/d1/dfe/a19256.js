@@ -1,6 +1,9 @@
 var a19256 =
 [
-    [ "npc_icc_vengeful_fleshreaperAI", "d1/d73/a19260.html", "d1/d73/a19260" ],
-    [ "npc_icc_vengeful_fleshreaper", "d1/dfe/a19256.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
-    [ "GetAI", "d1/dfe/a19256.html#abf1903616dbf52718313c8b404b504a5", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "d1/dfe/a19256.html#a91868021309239f5582bb7ee89baec13", null ],
+    [ "AttackStart", "d1/dfe/a19256.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
+    [ "JustEngagedWith", "d1/dfe/a19256.html#a12927240144022174e3d190be6b34976", null ],
+    [ "Reset", "d1/dfe/a19256.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
+    [ "UpdateAI", "d1/dfe/a19256.html#a969a36e147006971a93711349f90c193", null ],
+    [ "events", "d1/dfe/a19256.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
 ];

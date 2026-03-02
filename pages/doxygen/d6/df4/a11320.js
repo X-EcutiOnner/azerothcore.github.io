@@ -1,6 +1,6 @@
 var a11320 =
 [
-    [ "CorpseMapPositionQuery", "d6/df4/a11320.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
-    [ "Read", "d6/df4/a11320.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
-    [ "unk", "d6/df4/a11320.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
+    [ "PetUnlearnedSpell", "d6/df4/a11320.html#aa2b125a271228aee0d942a207de170b7", null ],
+    [ "Write", "d6/df4/a11320.html#a11cf7780eba530026a0898bfafd27109", null ],
+    [ "SpellID", "d6/df4/a11320.html#adfca5feb5be2408e489edc44e9cd215b", null ]
 ];

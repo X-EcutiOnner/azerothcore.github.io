@@ -1,7 +1,6 @@
 var a26724 =
 [
-    [ "HandleProc", "dc/d9a/a26724.html#a9601839ce1fff4e1be66f435a78693ac", null ],
-    [ "PrepareAuraScript", "dc/d9a/a26724.html#ae7b3804ed0fe40c85d245e2762fd8181", null ],
-    [ "Register", "dc/d9a/a26724.html#a588226cc60a7ff0f8a05e8ec34c855e5", null ],
-    [ "Validate", "dc/d9a/a26724.html#aea68ea2da0853d72d94a19b98db9375f", null ]
+    [ "CheckCast", "dc/d9a/a26724.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
+    [ "PrepareSpellScript", "dc/d9a/a26724.html#a33e86d770e926247c58c00143b55c418", null ],
+    [ "Register", "dc/d9a/a26724.html#a453c7fa25baf458c9a319053ca726621", null ]
 ];

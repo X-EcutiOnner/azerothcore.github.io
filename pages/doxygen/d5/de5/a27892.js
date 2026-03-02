@@ -1,5 +1,6 @@
 var a27892 =
 [
-    [ "achievement_bg_ic_mowed_down", "d5/de5/a27892.html#ab05387d1e14958e87123bd0fc2188445", null ],
-    [ "OnCheck", "d5/de5/a27892.html#a385e09c605084900f374090e5e19c24f", null ]
+    [ "HandleProc", "d5/de5/a27892.html#a72d56ccc2c6f0337fa68c2759d90c5d6", null ],
+    [ "PrepareAuraScript", "d5/de5/a27892.html#a49a96d3aa0220b4ec77fb1a384826614", null ],
+    [ "Register", "d5/de5/a27892.html#adf0852d1aad8097143df205a66a49f2f", null ]
 ];

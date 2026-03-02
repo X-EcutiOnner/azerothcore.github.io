@@ -1,6 +1,7 @@
 var a21240 =
 [
-    [ "npc_frozen_orb_stalkerAI", "de/db5/a21240.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
-    [ "JustSummoned", "de/db5/a21240.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
-    [ "Reset", "de/db5/a21240.html#a064ccb90afeb9b36d501850482c60bc4", null ]
+    [ "PrepareAuraScript", "de/db5/a21240.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
+    [ "Register", "de/db5/a21240.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
+    [ "TriggerFists", "de/db5/a21240.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
+    [ "Validate", "de/db5/a21240.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
 ];

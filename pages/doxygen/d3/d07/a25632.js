@@ -1,6 +1,6 @@
 var a25632 =
 [
-    [ "CheckProc", "d3/d07/a25632.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
-    [ "PrepareAuraScript", "d3/d07/a25632.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
-    [ "Register", "d3/d07/a25632.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
+    [ "OnRemove", "d3/d07/a25632.html#ac3a6d7bdc95605e3c73f8115b4a68da0", null ],
+    [ "PrepareAuraScript", "d3/d07/a25632.html#ab1e3a55a35dbbb4bd781ac8c51608e6a", null ],
+    [ "Register", "d3/d07/a25632.html#aecd068248e174c4b676ff9f43dd0856f", null ]
 ];

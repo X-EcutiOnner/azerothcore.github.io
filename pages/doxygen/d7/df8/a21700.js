@@ -1,6 +1,6 @@
 var a21700 =
 [
-    [ "npc_heated_battleAI", "d7/df8/a21700.html#a2b73957d7890549f4b02488c5527fcef", null ],
-    [ "DamageTaken", "d7/df8/a21700.html#a8422c157214195d7166ede35c9c05d19", null ],
-    [ "Reset", "d7/df8/a21700.html#a11a4f3270ff260e30da89017dad38433", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d2/d15/a21704.html", "d2/d15/a21704" ],
+    [ "npc_injured_7th_legion_soldier", "d7/df8/a21700.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
+    [ "GetAI", "d7/df8/a21700.html#a0feca7aedcf3c07253d4d402266189cc", null ]
 ];

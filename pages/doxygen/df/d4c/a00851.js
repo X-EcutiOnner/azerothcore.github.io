@@ -1,15 +1,12 @@
 var a00851 =
 [
-    [ "Position", "de/dda/a08664.html", "de/dda/a08664" ],
-    [ "Position::PositionXYStreamer", "dd/df9/a08668.html", "dd/df9/a08668" ],
-    [ "Position::PositionXYZStreamer", "da/d3d/a08672.html", "da/d3d/a08672" ],
-    [ "Position::PositionXYZOStreamer", "da/d89/a08676.html", "da/d89/a08676" ],
-    [ "WorldLocation", "de/dcc/a08680.html", "de/dcc/a08680" ],
-    [ "MAPID_INVALID", "df/d4c/a00851.html#af69a1d112a89b89894dafd5da53e7490", null ],
-    [ "operator<<", "df/d4c/a00851.html#a09519787a0405fc17b028180b2da4cdd", null ],
-    [ "operator<<", "df/d4c/a00851.html#a71323635f122d24189054da615cb39e1", null ],
-    [ "operator<<", "df/d4c/a00851.html#ab63323f8a9ade40ddd90338538b5c9b5", null ],
-    [ "operator>>", "df/d4c/a00851.html#a188cc2956d39298323a99c4aa5ceede6", null ],
-    [ "operator>>", "df/d4c/a00851.html#a72e22c3226b5f361848aef2c75a6d3fb", null ],
-    [ "operator>>", "df/d4c/a00851.html#af223d782e9dcf0f80ed4009360aa0d80", null ]
+    [ "AchievementScript", "d5/d74/a10456.html", "d5/d74/a10456" ],
+    [ "AchievementHook", "df/d4c/a00851.html#a62b7eadebfd59858b2e2f1a8713a3ae1", [
+      [ "ACHIEVEMENTHOOK_SET_REALM_COMPLETED", "df/d4c/a00851.html#a62b7eadebfd59858b2e2f1a8713a3ae1ac3fc38cd750edf07c66cf42ae357a782", null ],
+      [ "ACHIEVEMENTHOOK_IS_COMPLETED_CRITERIA", "df/d4c/a00851.html#a62b7eadebfd59858b2e2f1a8713a3ae1a12f1bcc17681be9acc81dc3fb51e8f2e", null ],
+      [ "ACHIEVEMENTHOOK_IS_REALM_COMPLETED", "df/d4c/a00851.html#a62b7eadebfd59858b2e2f1a8713a3ae1a0f6e888313610e200011072afae5b8e7", null ],
+      [ "ACHIEVEMENTHOOK_ON_BEFORE_CHECK_CRITERIA", "df/d4c/a00851.html#a62b7eadebfd59858b2e2f1a8713a3ae1a5073468c76ad4823c32a7fe0cc113048", null ],
+      [ "ACHIEVEMENTHOOK_CAN_CHECK_CRITERIA", "df/d4c/a00851.html#a62b7eadebfd59858b2e2f1a8713a3ae1aa9d01d0837118bf75263bb54b21f18b1", null ],
+      [ "ACHIEVEMENTHOOK_END", "df/d4c/a00851.html#a62b7eadebfd59858b2e2f1a8713a3ae1a2df8c3284122e09fda0d8f4b7789732c", null ]
+    ] ]
 ];

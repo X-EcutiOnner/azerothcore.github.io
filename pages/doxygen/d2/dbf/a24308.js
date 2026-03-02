@@ -1,8 +1,6 @@
 var a24308 =
 [
-    [ "npc_pet_gen_gnomish_flame_turret", "d2/dbf/a24308.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
-    [ "AttackStart", "d2/dbf/a24308.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
-    [ "Reset", "d2/dbf/a24308.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
-    [ "UpdateAI", "d2/dbf/a24308.html#ae3db08323af4b82009ffd660b3e78474", null ],
-    [ "checkTimer", "d2/dbf/a24308.html#ac6705f4980ca561a5fd33c2917488439", null ]
+    [ "npc_pet_dk_army_of_the_dead", "d2/dbf/a24308.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
+    [ "InitializeAI", "d2/dbf/a24308.html#add16c667f3e614f9d6ceebbe17cf0515", null ],
+    [ "IsSummonedBy", "d2/dbf/a24308.html#a4f1acbbccd68c83a7c3ea14b26a56305", null ]
 ];

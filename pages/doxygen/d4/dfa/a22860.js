@@ -1,7 +1,6 @@
 var a22860 =
 [
-    [ "HandleEffectRemove", "d4/dfa/a22860.html#a6adc572bb13dde9b83a44a1c27833019", null ],
-    [ "PrepareAuraScript", "d4/dfa/a22860.html#a877c26735531508d1806273117f3e8bc", null ],
-    [ "Register", "d4/dfa/a22860.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5", null ],
-    [ "Validate", "d4/dfa/a22860.html#a8c45ba806d865f7b9d56950013bdd81c", null ]
+    [ "boss_essence_of_angerAI", "da/dce/a22864.html", "da/dce/a22864" ],
+    [ "boss_essence_of_anger", "d4/dfa/a22860.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
+    [ "GetAI", "d4/dfa/a22860.html#a70a460f31b7f878e532b695ca822ab5d", null ]
 ];

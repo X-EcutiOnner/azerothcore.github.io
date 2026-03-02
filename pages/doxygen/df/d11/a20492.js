@@ -1,5 +1,5 @@
 var a20492 =
 [
-    [ "achievement_ignis_shattered", "df/d11/a20492.html#adbe893b0dd409eb3f10768f81f182f61", null ],
-    [ "OnCheck", "df/d11/a20492.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
+    [ "achievement_staying_buffed_all_winter_25", "df/d11/a20492.html#a91f0ab3bada837cff6414350b98a27a3", null ],
+    [ "OnCheck", "df/d11/a20492.html#a36591082184bc8466e124bad9a910545", null ]
 ];

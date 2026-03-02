@@ -1,9 +1,8 @@
 var a18104 =
 [
-    [ "CalculatePower", "d6/df9/a18104.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
-    [ "Load", "d6/df9/a18104.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
-    [ "PrepareSpellScript", "d6/df9/a18104.html#a49489a8e4e39735efa560f53236dfc2c", null ],
-    [ "PreventPowerGainOnHit", "d6/df9/a18104.html#a5eebe6f82a6d7306d6e232b755531939", null ],
-    [ "Register", "d6/df9/a18104.html#a67b59c096848adaad5566cbc2140da59", null ],
-    [ "Validate", "d6/df9/a18104.html#a355500a6f3bfed084030738041d0e3b9", null ]
+    [ "Load", "d6/df9/a18104.html#a363d0afcf2f79b8219652de5a3a6d466", null ],
+    [ "PrepareSpellScript", "d6/df9/a18104.html#a8df1abd311a1c32cd6ed296d75566eac", null ],
+    [ "Register", "d6/df9/a18104.html#a61e8f66c7446e0587b5d743f0e6ead92", null ],
+    [ "RelocateDest", "d6/df9/a18104.html#abad4acee4c0898fea6bfb57b8155cab2", null ],
+    [ "SelectTransport", "d6/df9/a18104.html#a0564852176d80ee6593baa3abb18238a", null ]
 ];

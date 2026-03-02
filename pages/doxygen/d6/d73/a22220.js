@@ -1,6 +1,8 @@
 var a22220 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "d6/d73/a22220.html#afd54b130725aa724b80f150f968ce09d", null ],
-    [ "MovementInform", "d6/d73/a22220.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
-    [ "PassengerBoarded", "d6/d73/a22220.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
+    [ "npc_freed_protodrakeAI", "d6/d73/a22220.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "d6/d73/a22220.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "d6/d73/a22220.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "d6/d73/a22220.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "d6/d73/a22220.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

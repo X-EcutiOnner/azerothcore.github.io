@@ -1,9 +1,10 @@
 var a21848 =
 [
-    [ "npc_wounded_skirmisher", "d5/df6/a21848.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
-    [ "Initialize", "d5/df6/a21848.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
-    [ "JustEngagedWith", "d5/df6/a21848.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
-    [ "Reset", "d5/df6/a21848.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
-    [ "SpellHit", "d5/df6/a21848.html#a891e879af5da1f181c94e528c59a81f1", null ],
-    [ "UpdateAI", "d5/df6/a21848.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
+    [ "npc_emilyAI", "d5/df6/a21848.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
+    [ "JustEngagedWith", "d5/df6/a21848.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
+    [ "JustSummoned", "d5/df6/a21848.html#a4730c94b54d2ee5160011557704b35f2", null ],
+    [ "Reset", "d5/df6/a21848.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
+    [ "WaypointReached", "d5/df6/a21848.html#a0a68676a6eac8fbe2b634098268eb516", null ],
+    [ "_mrfloppyGUID", "d5/df6/a21848.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
+    [ "_RavenousworgGUID", "d5/df6/a21848.html#aa2a5e45366be9f89221453e00179e1a3", null ]
 ];

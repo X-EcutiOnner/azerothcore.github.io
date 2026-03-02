@@ -1,6 +1,4 @@
 var a01211 =
 [
-    [ "MapScript< BattlegroundMap >", "d1/d34/a01211.html#a37068ff91511f7df359c3cf9be0e8d72", null ],
-    [ "MapScript< InstanceMap >", "d1/d34/a01211.html#aad36f2a434a53db1767a65fa0a1dffdc", null ],
-    [ "MapScript< Map >", "d1/d34/a01211.html#aacb4fdedfc86aea6c855e3be41e0c6e1", null ]
+    [ "VisibilityDistances", "d1/d34/a01211.html#a6165c6736a6e152a38f7dea1aa2c956b", null ]
 ];

@@ -1,12 +1,7 @@
 var a22820 =
 [
-    [ "boss_essence_of_sufferingAI", "de/d03/a22820.html#a98de7f0b7d12d0981854129cbeab0d0d", null ],
-    [ "DamageTaken", "de/d03/a22820.html#a347ef26e4ecdc83ca80c9fd9a93bd97d", null ],
-    [ "DoAction", "de/d03/a22820.html#a08724d74523866969b12d13846eb4c1e", null ],
-    [ "JustEngagedWith", "de/d03/a22820.html#aa2fce36768ad6e23a955cd215ca759db", null ],
-    [ "KilledUnit", "de/d03/a22820.html#a3699b19f23cf15115ff8c92691a6d334", null ],
-    [ "MovementInform", "de/d03/a22820.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7", null ],
-    [ "Reset", "de/d03/a22820.html#affa55b69784d8f881598189c361c986e", null ],
-    [ "UpdateAI", "de/d03/a22820.html#abb60432720b3720832ccc83d454a3808", null ],
-    [ "_recentlySpoken", "de/d03/a22820.html#a71a28a61e97f6278836649411493484f", null ]
+    [ "CheckProc", "de/d03/a22820.html#a0968b7b32f2d2bef6035e030f544088a", null ],
+    [ "PrepareAuraScript", "de/d03/a22820.html#ac424e41948196a6e60b790ebcf40783f", null ],
+    [ "Register", "de/d03/a22820.html#a06bdac68e36b43ee534e937ffd974086", null ],
+    [ "Update", "de/d03/a22820.html#af6c228840f6af96e353ba964fdd01e54", null ]
 ];

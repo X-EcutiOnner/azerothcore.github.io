@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/EventProcessor.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Commands/cs_pooltools.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,62 +106,92 @@ $(document).ready(function(){initNavTree('d5/d13/a04739.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#typedef-members">Typedefs</a>  </div>
-  <div class="headertitle"><div class="title">EventProcessor.h File Reference</div></div>
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">cs_pooltools.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Duration.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Random.h</a>&quot;</code><br />
-<code>#include &lt;map&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Cell.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CellImpl.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CommandScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameObject.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GridNotifiersImpl.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Tokenize.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/df1/a05668.html">BasicEvent</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d5a/a12208.html">PoolTemplateItem</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/da9/a05672.html">LambdaBasicEvent&lt; T &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de5/a12212.html">NodeGroup</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d0e/a05676.html">EventProcessor</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d96/a12216.html">PoolSession</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d11/a12220.html">pooltools_commandscript</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a62fdca14f042b8645ab0d19029b80d9b"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a62fdca14f042b8645ab0d19029b80d9b"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#a62fdca14f042b8645ab0d19029b80d9b">is_lambda_event</a> = std::enable_if_t&lt;!std::is_base_of_v&lt; <a class="el" href="../../da/df1/a05668.html">BasicEvent</a>, std::remove_pointer_t&lt; std::remove_cvref_t&lt; T &gt; &gt; &gt; &gt;</td></tr>
-<tr class="separator:a62fdca14f042b8645ab0d19029b80d9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a393840b719db78b29da806c1237fceb0"><td class="memItemLeft" align="right" valign="top">typedef std::multimap&lt; <a class="el" href="../../d8/d59/a04337.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>, <a class="el" href="../../da/df1/a05668.html">BasicEvent</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#a393840b719db78b29da806c1237fceb0">EventList</a></td></tr>
-<tr class="separator:a393840b719db78b29da806c1237fceb0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a8c8907ff2ae66e87142b14909a2ee941"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#a8c8907ff2ae66e87142b14909a2ee941">AddSC_pooltools_commandscript</a> ()</td></tr>
+<tr class="separator:a8c8907ff2ae66e87142b14909a2ee941"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:ab5e275ff67266d9329307cd8a5398b14"><td class="memItemLeft" align="right" valign="top">static std::map&lt; <a class="el" href="../../d5/df2/a08656.html">ObjectGuid</a>, <a class="el" href="../../d1/d96/a12216.html">PoolSession</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#ab5e275ff67266d9329307cd8a5398b14">PoolSessions</a></td></tr>
+<tr class="separator:ab5e275ff67266d9329307cd8a5398b14"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="a393840b719db78b29da806c1237fceb0" name="a393840b719db78b29da806c1237fceb0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a393840b719db78b29da806c1237fceb0">&#9670;&#160;</a></span>EventList</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a8c8907ff2ae66e87142b14909a2ee941" name="a8c8907ff2ae66e87142b14909a2ee941"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8c8907ff2ae66e87142b14909a2ee941">&#9670;&#160;</a></span>AddSC_pooltools_commandscript()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::multimap&lt;<a class="el" href="../../d8/d59/a04337.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>, <a class="el" href="../../da/df1/a05668.html">BasicEvent</a>*&gt; <a class="el" href="../../d5/d13/a04739.html#a393840b719db78b29da806c1237fceb0">EventList</a></td>
+          <td class="memname">void AddSC_pooltools_commandscript </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  417</span>{</div>
+<div class="line"><span class="lineno">  418</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../df/d11/a12220.html">pooltools_commandscript</a>();</div>
+<div class="line"><span class="lineno">  419</span>}</div>
+<div class="ttc" id="aa12220_html"><div class="ttname"><a href="../../df/d11/a12220.html">pooltools_commandscript</a></div><div class="ttdef"><b>Definition:</b> cs_pooltools.cpp:57</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00071">AddCommandsScripts()</a>.</p>
 
 </div>
 </div>
-<a id="a62fdca14f042b8645ab0d19029b80d9b" name="a62fdca14f042b8645ab0d19029b80d9b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a62fdca14f042b8645ab0d19029b80d9b">&#9670;&#160;</a></span>is_lambda_event</h2>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="ab5e275ff67266d9329307cd8a5398b14" name="ab5e275ff67266d9329307cd8a5398b14"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab5e275ff67266d9329307cd8a5398b14">&#9670;&#160;</a></span>PoolSessions</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">using <a class="el" href="../../d5/d13/a04739.html#a62fdca14f042b8645ab0d19029b80d9b">is_lambda_event</a> =  std::enable_if_t&lt;!std::is_base_of_v&lt;<a class="el" href="../../da/df1/a05668.html">BasicEvent</a>, std::remove_pointer_t&lt;std::remove_cvref_t&lt;T&gt; &gt;&gt; &gt;</td>
+          <td class="memname">std::map&lt;<a class="el" href="../../d5/df2/a08656.html">ObjectGuid</a>, <a class="el" href="../../d1/d96/a12216.html">PoolSession</a>&gt; PoolSessions</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00133">pooltools_commandscript::HandlePoolAdd()</a>, <a class="el" href="../../#l00408">pooltools_commandscript::HandlePoolClear()</a>, <a class="el" href="../../#l00099">pooltools_commandscript::HandlePoolDef()</a>, <a class="el" href="../../#l00278">pooltools_commandscript::HandlePoolEnd()</a>, <a class="el" href="../../#l00254">pooltools_commandscript::HandlePoolRemove()</a>, and <a class="el" href="../../#l00080">pooltools_commandscript::HandlePoolStart()</a>.</p>
 
 </div>
 </div>
@@ -170,8 +200,8 @@ template&lt;typename T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../d5/d13/a04739.html">EventProcessor.h</a></li>
-    <li class="footer">Generated on Mon Feb 23 2026 21:13:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_2519615cc1c93425dacf3aa6e071da7e.html">Commands</a></li><li class="navelem"><a class="el" href="../../d5/d13/a04739.html">cs_pooltools.cpp</a></li>
+    <li class="footer">Generated on Mon Mar 2 2026 21:03:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

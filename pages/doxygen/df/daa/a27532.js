@@ -1,6 +1,6 @@
 var a27532 =
 [
-    [ "PeriodicTick", "df/daa/a27532.html#a14e79a7bb4a5b11ddc74ab366e79a907", null ],
-    [ "PrepareAuraScript", "df/daa/a27532.html#a0448cdf379053396f8649946e52ce690", null ],
-    [ "Register", "df/daa/a27532.html#a2dab21ddb3c33341d560643d27042402", null ]
+    [ "HandleProc", "df/daa/a27532.html#a933975b17f340d9f458dc95b77aa43ac", null ],
+    [ "PrepareAuraScript", "df/daa/a27532.html#ad9df49f481d936068ebee0d2f6179e9f", null ],
+    [ "Register", "df/daa/a27532.html#a54dd9a2a6646282897cabec00f092525", null ]
 ];

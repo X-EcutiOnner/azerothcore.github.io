@@ -1,6 +1,6 @@
 var a14540 =
 [
-    [ "HandleObjectAreaTargetSelect", "de/dc9/a14540.html#aa7695bddd766d5adefb04710d41894f6", null ],
-    [ "PrepareSpellScript", "de/dc9/a14540.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
-    [ "Register", "de/dc9/a14540.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
+    [ "npc_ohganAI", "db/d30/a14544.html", "db/d30/a14544" ],
+    [ "npc_ohgan", "de/dc9/a14540.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
+    [ "GetAI", "de/dc9/a14540.html#a129dc2fcd449850403e0dcb99725da90", null ]
 ];

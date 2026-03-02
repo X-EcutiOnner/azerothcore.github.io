@@ -1,8 +1,7 @@
 var a13780 =
 [
-    [ "OnPeriodic", "de/dd6/a13780.html#acd400b0a061d1814591e33d16bf4180a", null ],
-    [ "OnRemove", "de/dd6/a13780.html#a3da85c726007690220e9b4f81d30f185", null ],
-    [ "PrepareAuraScript", "de/dd6/a13780.html#a216d723f309ffa46df4bba7af79752c8", null ],
-    [ "Register", "de/dd6/a13780.html#a43fe84c2717d73e20a2562f596a84f36", null ],
-    [ "Validate", "de/dd6/a13780.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
+    [ "HandleScriptEffect", "de/dd6/a13780.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
+    [ "PrepareSpellScript", "de/dd6/a13780.html#af9deee89e837e07486a7555632008eb2", null ],
+    [ "Register", "de/dd6/a13780.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
+    [ "Validate", "de/dd6/a13780.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
 ];

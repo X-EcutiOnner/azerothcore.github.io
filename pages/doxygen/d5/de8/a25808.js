@@ -1,6 +1,6 @@
 var a25808 =
 [
-    [ "HandlePeriodicTick", "d5/de8/a25808.html#a1bd15727da421fdbfc3a60136bfa9bc9", null ],
-    [ "PrepareAuraScript", "d5/de8/a25808.html#a1c4f592511c8886d0b9a5e64eb19cda7", null ],
-    [ "Register", "d5/de8/a25808.html#ac019a52a6f62f1251d20efcfadba1e78", null ]
+    [ "HandleDummy", "d5/de8/a25808.html#a7b56d07d46647a2790553d40e75da79d", null ],
+    [ "PrepareSpellScript", "d5/de8/a25808.html#aad36c108f4531c19ba552064ba0d3248", null ],
+    [ "Register", "d5/de8/a25808.html#a754fcf618f53b4b17c2bcae4740e561f", null ]
 ];

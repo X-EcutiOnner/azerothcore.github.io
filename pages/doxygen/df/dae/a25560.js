@@ -1,7 +1,6 @@
 var a25560 =
 [
-    [ "HandleScriptEffect", "df/dae/a25560.html#ab1d476e7a07da5db80908fb669b6fa6b", null ],
-    [ "PrepareSpellScript", "df/dae/a25560.html#acf30d245bab2e7a1ee1121008345e667", null ],
-    [ "Register", "df/dae/a25560.html#a303a38a41f3d9be6e3083690b234e51f", null ],
-    [ "Validate", "df/dae/a25560.html#a77a3256cdea185ce0ea95d88283c55d7", null ]
+    [ "CalculateAmount", "df/dae/a25560.html#a83bf0327aade6f6a33293a442ad10911", null ],
+    [ "PrepareAuraScript", "df/dae/a25560.html#aa964f4eb7391dab54ff744fc94306de1", null ],
+    [ "Register", "df/dae/a25560.html#a37d29d87bec2fe2908b7d3e47f5e1caa", null ]
 ];

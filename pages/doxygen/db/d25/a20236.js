@@ -1,6 +1,8 @@
 var a20236 =
 [
-    [ "OnPeriodic", "db/d25/a20236.html#a379c55df994c58932fef7e7a59fd8426", null ],
-    [ "PrepareAuraScript", "db/d25/a20236.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
-    [ "Register", "db/d25/a20236.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
+    [ "OnApply", "db/d25/a20236.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
+    [ "OnRemove", "db/d25/a20236.html#ab967233994aa3ff07b272f010b2c1545", null ],
+    [ "PrepareAuraScript", "db/d25/a20236.html#a788480ec4aaa57e643f55daca17c6ded", null ],
+    [ "Register", "db/d25/a20236.html#a63a3e30704b282a430dcdbb9073a66df", null ],
+    [ "Validate", "db/d25/a20236.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
 ];

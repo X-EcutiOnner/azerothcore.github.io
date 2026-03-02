@@ -1,9 +1,6 @@
 var a19888 =
 [
-    [ "npc_stormforged_lieutenant", "de/dfd/a19888.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
-    [ "JustEngagedWith", "de/dfd/a19888.html#a262ac995279b1a936534c858e21122a9", null ],
-    [ "Reset", "de/dfd/a19888.html#abc359564370152b28a002a801ba1ab3d", null ],
-    [ "UpdateAI", "de/dfd/a19888.html#a4c207f0ef172585b97695b63e119d1bc", null ],
-    [ "BjarngrimGUID", "de/dfd/a19888.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
-    [ "events", "de/dfd/a19888.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
+    [ "PrepareSpellScript", "de/dfd/a19888.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
+    [ "Register", "de/dfd/a19888.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
+    [ "SetDest", "de/dfd/a19888.html#a24341aae14ed77101d4c31f2fbe11463", null ]
 ];

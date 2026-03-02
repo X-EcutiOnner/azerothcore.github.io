@@ -1,11 +1,13 @@
 var a05788 =
 [
-    [ "DatabaseWorker", "d0/d9e/a05788.html#a64450680e7b6e31bb42ce4f79788eb27", null ],
-    [ "~DatabaseWorker", "d0/d9e/a05788.html#a170c873cbc917ece6a87591450dbe5a9", null ],
-    [ "DatabaseWorker", "d0/d9e/a05788.html#aa43f1d875400b0ba6c031e0811397ed3", null ],
-    [ "operator=", "d0/d9e/a05788.html#a15e753c757da609b55a66380f526091a", null ],
-    [ "WorkerThread", "d0/d9e/a05788.html#ab74cbccbb68bfbbab58550eced982d1a", null ],
-    [ "_connection", "d0/d9e/a05788.html#a2f21d73b584d9e5f17afc7a0ac78f129", null ],
-    [ "_queue", "d0/d9e/a05788.html#a9c47ad6c0d4dca85a63be45c4e678a70", null ],
-    [ "_workerThread", "d0/d9e/a05788.html#ad02a90f600f1996c053f36e186edf292", null ]
+    [ "IntervalTimer", "d0/d9e/a05788.html#a2538976b639e25e63a8ab5927663ade1", null ],
+    [ "GetCurrent", "d0/d9e/a05788.html#a93a456d6ff6d74cc889517fc585626e8", null ],
+    [ "GetInterval", "d0/d9e/a05788.html#a986bec1dcb7325088517f6721636abcc", null ],
+    [ "Passed", "d0/d9e/a05788.html#a9b3ac2407baf9763fa899e35a5c55fbe", null ],
+    [ "Reset", "d0/d9e/a05788.html#ae243f18c4c3174b91fa01f6d08b04d4d", null ],
+    [ "SetCurrent", "d0/d9e/a05788.html#ab315f686c2777dc21c824d8674479f9f", null ],
+    [ "SetInterval", "d0/d9e/a05788.html#a28d95330f971d3a37aaf53e4f16aad4a", null ],
+    [ "Update", "d0/d9e/a05788.html#aa1f5b922ea2d95c49924a506ca37a676", null ],
+    [ "_current", "d0/d9e/a05788.html#a99c5aec27af00ffbbd83c5adbd2e2016", null ],
+    [ "_interval", "d0/d9e/a05788.html#a179584ce91f62ba5e74ae3f34ee32fbc", null ]
 ];

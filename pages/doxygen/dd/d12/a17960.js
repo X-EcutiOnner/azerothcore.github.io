@@ -1,7 +1,7 @@
 var a17960 =
 [
-    [ "DelayedMovementEvent", "dd/d12/a17960.html#a21241cde30f66ae42edb311542f7405c", null ],
-    [ "Execute", "dd/d12/a17960.html#a8287761226ee671905151891779b6efb", null ],
-    [ "_dest", "dd/d12/a17960.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
-    [ "_owner", "dd/d12/a17960.html#a046942728282a997068de447271f3cbe", null ]
+    [ "HandleScript", "dd/d12/a17960.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
+    [ "PrepareSpellScript", "dd/d12/a17960.html#a8f668b88a41585cabeace574b30b4f85", null ],
+    [ "Register", "dd/d12/a17960.html#a8fae161a91fae297b99079bde218ced8", null ],
+    [ "Validate", "dd/d12/a17960.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
 ];

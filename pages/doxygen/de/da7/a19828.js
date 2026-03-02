@@ -1,6 +1,15 @@
 var a19828 =
 [
-    [ "npc_centrifuge_constructAI", "de/da5/a19832.html", "de/da5/a19832" ],
-    [ "npc_centrifuge_construct", "de/da7/a19828.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
-    [ "GetAI", "de/da7/a19828.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
+    [ "boss_varosAI", "de/da7/a19828.html#a3e6815b80a3f9f5e8c53bb762e9058f2", null ],
+    [ "EnterEvadeMode", "de/da7/a19828.html#a0b7eeef4529b47357d729852cdeab002", null ],
+    [ "JustDied", "de/da7/a19828.html#a2724167a66a059e1c0ca1612d8405d68", null ],
+    [ "JustEngagedWith", "de/da7/a19828.html#a2f25555ca2884f6bffb289d209e87740", null ],
+    [ "JustSummoned", "de/da7/a19828.html#a24b2a1e438b02c67e64b79adb0cfeafe", null ],
+    [ "MoveInLineOfSight", "de/da7/a19828.html#a87f743f03dc19659d0e77ee23cd2c327", null ],
+    [ "Reset", "de/da7/a19828.html#aef24d04954a26bb6381c860403e84288", null ],
+    [ "UpdateAI", "de/da7/a19828.html#acc1ac3c2bf5cb1a7732f375285467423", null ],
+    [ "events", "de/da7/a19828.html#a36746118770c936e7606962365e102d8", null ],
+    [ "pInstance", "de/da7/a19828.html#a9cf7c0159753512ae7dea8a2f6a9da74", null ],
+    [ "step", "de/da7/a19828.html#af4c8e11f0aad369f09902eb1ccc48059", null ],
+    [ "ZapAngle", "de/da7/a19828.html#aef225fcf580c5e500d3242ac4be24260", null ]
 ];

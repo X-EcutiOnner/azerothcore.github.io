@@ -1,7 +1,8 @@
 var a28396 =
 [
-    [ "npc_riggle_bassbaitAI", "de/d0a/a28396.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "de/d0a/a28396.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "de/d0a/a28396.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "de/d0a/a28396.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "npc_nelsonAI", "de/d61/a28400.html", "de/d61/a28400" ],
+    [ "npc_nelson", "de/d0a/a28396.html#ada597926a6db1aa7823ddabc19945b11", null ],
+    [ "GetAI", "de/d0a/a28396.html#a75fea281fb49249345c48236bf44b1c8", null ],
+    [ "OnGossipHello", "de/d0a/a28396.html#aa693b365a15d4617f214f9c3c229bf89", null ],
+    [ "OnGossipSelect", "de/d0a/a28396.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
 ];

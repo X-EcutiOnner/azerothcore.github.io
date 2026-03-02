@@ -1,6 +1,7 @@
 var a16428 =
 [
-    [ "HandleLeapBack", "d3/d9e/a16428.html#a71a9b9967528c1153ad1215635bc7d01", null ],
-    [ "PrepareSpellScript", "d3/d9e/a16428.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
-    [ "Register", "d3/d9e/a16428.html#a6ef11d0538616315fa7cf098748aa01f", null ]
+    [ "HandleScriptEffect", "d3/d9e/a16428.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
+    [ "PrepareSpellScript", "d3/d9e/a16428.html#a392c40d469c3c1e816d5dc364fde824c", null ],
+    [ "Register", "d3/d9e/a16428.html#aa59c26b25ca0f440de36e450adf050a5", null ],
+    [ "Validate", "d3/d9e/a16428.html#a370f83112d901f9565734b11d12858f4", null ]
 ];

@@ -1,7 +1,6 @@
 var a21212 =
 [
-    [ "PrepareAuraScript", "d1/d94/a21212.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
-    [ "Register", "d1/d94/a21212.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
-    [ "TriggerFists", "d1/d94/a21212.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
-    [ "Validate", "d1/d94/a21212.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
+    [ "boss_emalonAI", "d7/d65/a21216.html", "d7/d65/a21216" ],
+    [ "boss_emalon", "d1/d94/a21212.html#a2dd481292e02337bebd450f5c9821886", null ],
+    [ "GetAI", "d1/d94/a21212.html#a345b0663ba89de5e37b87a436c48e446", null ]
 ];

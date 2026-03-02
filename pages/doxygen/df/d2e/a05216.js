@@ -1,6 +1,10 @@
 var a05216 =
 [
-    [ "Read", "df/d2e/a05216.html#a652bcf37d435efc3fb82f4d8cbf00e51", null ],
-    [ "groupsArray", "df/d2e/a05216.html#a79b2d93c2929aaddac1004aed4ecdd85", null ],
-    [ "RootWMOID", "df/d2e/a05216.html#a6b9058e7062c970438c79f08103c3c61", null ]
+    [ "AreaInfo", "df/d2e/a05216.html#a1f45e5e030aaf5b16fb6c58097fa8b14", null ],
+    [ "adtId", "df/d2e/a05216.html#a95c1c986b14dfeba867fa55e77553499", null ],
+    [ "flags", "df/d2e/a05216.html#a780bdbb606fe694941d2105e14a29d70", null ],
+    [ "ground_Z", "df/d2e/a05216.html#aca4fada3b2062f74cf66cd34a63c0c86", null ],
+    [ "groupId", "df/d2e/a05216.html#a76ac6ccec6ff67f16689a6735e644e07", null ],
+    [ "result", "df/d2e/a05216.html#ab9e9a7658d5fb76be208835f786036b0", null ],
+    [ "rootId", "df/d2e/a05216.html#a6f60501d22be8c1d374a46e598d0f2e3", null ]
 ];

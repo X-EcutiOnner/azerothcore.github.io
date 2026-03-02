@@ -1,30 +1,23 @@
 var a01664 =
 [
-    [ "DisableData", "d9/d93/a08084.html", "d9/d93/a08084" ],
-    [ "DisableMgr", "de/d0b/a08088.html", "de/d0b/a08088" ],
-    [ "sDisableMgr", "dc/d71/a01664.html#a1a184d22bd27210ea5af79573927826a", null ],
-    [ "DisableType", "dc/d71/a01664.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64c", [
-      [ "DISABLE_TYPE_SPELL", "dc/d71/a01664.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27", null ],
-      [ "DISABLE_TYPE_QUEST", "dc/d71/a01664.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e", null ],
-      [ "DISABLE_TYPE_MAP", "dc/d71/a01664.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c", null ],
-      [ "DISABLE_TYPE_BATTLEGROUND", "dc/d71/a01664.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a", null ],
-      [ "DISABLE_TYPE_ACHIEVEMENT_CRITERIA", "dc/d71/a01664.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1", null ],
-      [ "DISABLE_TYPE_OUTDOORPVP", "dc/d71/a01664.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296", null ],
-      [ "DISABLE_TYPE_VMAP", "dc/d71/a01664.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff", null ],
-      [ "DISABLE_TYPE_GO_LOS", "dc/d71/a01664.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a", null ],
-      [ "DISABLE_TYPE_LFG_MAP", "dc/d71/a01664.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68", null ],
-      [ "DISABLE_TYPE_GAME_EVENT", "dc/d71/a01664.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0", null ],
-      [ "DISABLE_TYPE_LOOT", "dc/d71/a01664.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f", null ],
-      [ "MAX_DISABLE_TYPES", "dc/d71/a01664.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f", null ]
-    ] ],
-    [ "SpellDisableTypes", "dc/d71/a01664.html#a7b9e8ca1dcd13802fa528f955deaefd7", [
-      [ "SPELL_DISABLE_PLAYER", "dc/d71/a01664.html#a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41", null ],
-      [ "SPELL_DISABLE_CREATURE", "dc/d71/a01664.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707", null ],
-      [ "SPELL_DISABLE_PET", "dc/d71/a01664.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4", null ],
-      [ "SPELL_DISABLE_DEPRECATED_SPELL", "dc/d71/a01664.html#a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b", null ],
-      [ "SPELL_DISABLE_MAP", "dc/d71/a01664.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484", null ],
-      [ "SPELL_DISABLE_AREA", "dc/d71/a01664.html#a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268", null ],
-      [ "SPELL_DISABLE_LOS", "dc/d71/a01664.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437", null ],
-      [ "MAX_SPELL_DISABLE_TYPE", "dc/d71/a01664.html#a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d", null ]
-    ] ]
+    [ "SPECTATOR_ADDON_PREFIX", "dc/d71/a01664.html#ad208fe13d99ebdd4ecc344c284d15e68", null ],
+    [ "SPECTATOR_ADDON_VERSION", "dc/d71/a01664.html#ae3d7b03163a946f567eb34e902d0b424", null ],
+    [ "SPECTATOR_BUFFER_LEN", "dc/d71/a01664.html#adf210ab6f5a013e4f37def30f79b2a2c", null ],
+    [ "SPECTATOR_COOLDOWN_MAX", "dc/d71/a01664.html#a5caad2c604ec8c4fe2b2653a9a629d23", null ],
+    [ "SPECTATOR_COOLDOWN_MIN", "dc/d71/a01664.html#ad2182c49e417fd86e25b7c2a209d044b", null ],
+    [ "SPECTATOR_SPELL_BINDSIGHT", "dc/d71/a01664.html#a45eed6b7e374a4b2ea26b3dd5ee915d0", null ],
+    [ "SPECTATOR_SPELL_SPEED", "dc/d71/a01664.html#a3a183131cf51fa6957a40f07d8d524ef", null ],
+    [ "CreatePacket", "dc/d71/a01664.html#a20983eb9cb8e3f584a4d8f752586d06b", null ],
+    [ "HandleResetCommand", "dc/d71/a01664.html#a4508ccc26eb193b85e4d229a088c6be5", null ],
+    [ "HandleSpectatorSpectateCommand", "dc/d71/a01664.html#ac3b35eed76fdcf00f43b226912317b4a", null ],
+    [ "HandleSpectatorWatchCommand", "dc/d71/a01664.html#ae611c9f6783ca983d1ff667f36dd7c7d", null ],
+    [ "SendCommand", "dc/d71/a01664.html#a4824203dd64e1ddcd47642df9d465ea0", null ],
+    [ "SendCommand_Aura", "dc/d71/a01664.html#a918c7c3c9fd7d26b7a78f2e6d13e1e27", null ],
+    [ "SendCommand_Cooldown", "dc/d71/a01664.html#a5e336b6d62f2d9e24551cfb96c7a8679", null ],
+    [ "SendCommand_GUID", "dc/d71/a01664.html#af537ad9da6345b285d2d726b640a0340", null ],
+    [ "SendCommand_Spell", "dc/d71/a01664.html#a461f69ba88de17058481bc77a3e9f7bb", null ],
+    [ "SendCommand_String", "dc/d71/a01664.html#ac7839fd6177447b31578a19f8ee8e42a", null ],
+    [ "SendCommand_UInt32Value", "dc/d71/a01664.html#ae899637e3543ca40ec63e98bf0426f58", null ],
+    [ "SendPacketTo", "dc/d71/a01664.html#abc5c395f3697c21f09c4e70a81f02497", null ],
+    [ "ShouldSendAura", "dc/d71/a01664.html#a29f78349223aca49d417c3f818b2dd4c", null ]
 ];

@@ -1,7 +1,6 @@
 var a16924 =
 [
-    [ "npc_toc_retro_paladinAI", "d2/d97/a16924.html#afe933281cea61c9a4f3ded76290a3b72", null ],
-    [ "myCanCast", "d2/d97/a16924.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
-    [ "UpdateAI", "d2/d97/a16924.html#a105d6b9c133c1147b310826d7be416f5", null ],
-    [ "events", "d2/d97/a16924.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
+    [ "npc_toc_warriorAI", "de/d96/a16928.html", "de/d96/a16928" ],
+    [ "npc_toc_warrior", "d2/d97/a16924.html#a3e969be07603ef59389106769010660c", null ],
+    [ "GetAI", "d2/d97/a16924.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
 ];

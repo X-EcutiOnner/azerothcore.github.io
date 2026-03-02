@@ -1,6 +1,6 @@
 var a19100 =
 [
-    [ "npc_impaling_spearAI", "de/d15/a19104.html", "de/d15/a19104" ],
-    [ "npc_impaling_spear", "d2/d0c/a19100.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
-    [ "GetAI", "d2/d0c/a19100.html#aad49164a3e7541b755c1c622b996bb9a", null ]
+    [ "npc_captain_brandonAI", "de/d15/a19104.html", "de/d15/a19104" ],
+    [ "npc_captain_brandon", "d2/d0c/a19100.html#ad522dd280882d894b5d32e7c888f2360", null ],
+    [ "GetAI", "d2/d0c/a19100.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
 ];

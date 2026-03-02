@@ -1,7 +1,10 @@
 var a22596 =
 [
-    [ "npc_voidtraveler", "d4/dd5/a22596.html#a07e473c14836a0612acd52078a93f2d8", null ],
-    [ "Reset", "d4/dd5/a22596.html#a6efe0725917c92657220de2b60579289", null ],
-    [ "UpdateAI", "d4/dd5/a22596.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
-    [ "_scheduler", "d4/dd5/a22596.html#a1809494e7803103f6bc1698e780dcfbc", null ]
+    [ "boss_talon_king_ikiss", "d4/dd5/a22596.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "JustDied", "d4/dd5/a22596.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "d4/dd5/a22596.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "d4/dd5/a22596.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "d4/dd5/a22596.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "d4/dd5/a22596.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "d4/dd5/a22596.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

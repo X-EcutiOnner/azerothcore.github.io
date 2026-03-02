@@ -1,6 +1,7 @@
 var a26628 =
 [
-    [ "CheckTarget", "dc/d84/a26628.html#af1dae4f351ccaa7bc9b2ea315f0752c5", null ],
-    [ "PrepareSpellScript", "dc/d84/a26628.html#a8f4075c80c7dcaa16f71bc1b396d005f", null ],
-    [ "Register", "dc/d84/a26628.html#af4a27df3090a45ebd5db29c58e9ea47f", null ]
+    [ "HandleDummy", "dc/d84/a26628.html#a82ff05f6150750ecb6ef3b5f8c40f703", null ],
+    [ "PrepareSpellScript", "dc/d84/a26628.html#a6856f05f2cc25267f1d3023d3cb48dc2", null ],
+    [ "Register", "dc/d84/a26628.html#adadd0254d68281ac1063bcc57574ed77", null ],
+    [ "Validate", "dc/d84/a26628.html#a61923f636ad8b3d48eb2dbc6a1803527", null ]
 ];

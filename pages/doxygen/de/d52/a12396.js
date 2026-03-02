@@ -1,6 +1,8 @@
 var a12396 =
 [
-    [ "boss_high_interrogator_gerstahnAI", "dd/da4/a12400.html", "dd/da4/a12400" ],
-    [ "boss_high_interrogator_gerstahn", "de/d52/a12396.html#a700eb542c041e9ca540f2676fc42aff9", null ],
-    [ "GetAI", "de/d52/a12396.html#ab4e92847a1ce6bf50f0ae460c1a7108f", null ]
+    [ "boss_evisceratorAI", "de/d52/a12396.html#a26bfcd3390e987a9fe13dd1a2bc2a7a4", null ],
+    [ "DamageTaken", "de/d52/a12396.html#aab3e8290963ca6c312715f18727d3e82", null ],
+    [ "JustEngagedWith", "de/d52/a12396.html#a60f3942b352206888569f60776041a28", null ],
+    [ "UpdateAI", "de/d52/a12396.html#aa201d35455f2e6eb41df27e264c2c03c", null ],
+    [ "SpellShieldReady", "de/d52/a12396.html#a3e5d8a40bfca16cc811f35b1293c19aa", null ]
 ];

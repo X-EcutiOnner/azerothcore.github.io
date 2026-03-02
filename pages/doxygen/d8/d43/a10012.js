@@ -1,8 +1,9 @@
 var a10012 =
 [
-    [ "BoundaryIntersectBoundary", "d8/d43/a10012.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
-    [ "~BoundaryIntersectBoundary", "d8/d43/a10012.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
-    [ "IsWithinBoundaryArea", "d8/d43/a10012.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
-    [ "_b1", "d8/d43/a10012.html#ab0239437fa92e39d144bf3856eb347c7", null ],
-    [ "_b2", "d8/d43/a10012.html#a41e100c17db99990981293399660824c", null ]
+    [ "RectangleBoundary", "d8/d43/a10012.html#af401f84700a15fa1d4fcf78358a74735", null ],
+    [ "IsWithinBoundaryArea", "d8/d43/a10012.html#a2d6c735d080382263a401d91da37b934", null ],
+    [ "_maxX", "d8/d43/a10012.html#a3eff421dfe942634814e7526334f1c07", null ],
+    [ "_maxY", "d8/d43/a10012.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
+    [ "_minX", "d8/d43/a10012.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
+    [ "_minY", "d8/d43/a10012.html#af5a7e35d5d9ff23c722643141f01a916", null ]
 ];

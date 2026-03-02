@@ -1,5 +1,9 @@
 var a28552 =
 [
-    [ "npc_controller", "d4/dd7/a28552.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
-    [ "OnCharmed", "d4/dd7/a28552.html#a69628677de225d76a8c89b4626e0f32b", null ]
+    [ "npc_fireworkAI", "d4/dd7/a28552.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
+    [ "FindNearestLauncher", "d4/dd7/a28552.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
+    [ "GetFireworkGameObjectId", "d4/dd7/a28552.html#ae17b4abbbb2088799cec188457677d44", null ],
+    [ "GetFireworkSpell", "d4/dd7/a28552.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
+    [ "isCluster", "d4/dd7/a28552.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
+    [ "Reset", "d4/dd7/a28552.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
 ];

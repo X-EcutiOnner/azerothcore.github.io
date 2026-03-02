@@ -1,9 +1,9 @@
 var dir_3c5bad3427979d3a913ef3b527a38b4f =
 [
-    [ "boss_argent_challenge.cpp", "db/d38/a02789.html", "db/d38/a02789" ],
-    [ "boss_black_knight.cpp", "de/d69/a02786.html", "de/d69/a02786" ],
-    [ "boss_grand_champions.cpp", "d7/d69/a02783.html", "d7/d69/a02783" ],
-    [ "instance_trial_of_the_champion.cpp", "d5/db0/a02777.html", "d5/db0/a02777" ],
-    [ "trial_of_the_champion.cpp", "df/de4/a02780.html", "df/de4/a02780" ],
-    [ "trial_of_the_champion.h", "de/db6/a02792.html", "de/db6/a02792" ]
+    [ "boss_argent_challenge.cpp", "d1/dcc/a04250.html", "d1/dcc/a04250" ],
+    [ "boss_black_knight.cpp", "df/d88/a04241.html", "df/d88/a04241" ],
+    [ "boss_grand_champions.cpp", "dc/dd9/a04247.html", "dc/dd9/a04247" ],
+    [ "instance_trial_of_the_champion.cpp", "d2/d98/a04244.html", "d2/d98/a04244" ],
+    [ "trial_of_the_champion.cpp", "d8/dc6/a04256.html", "d8/dc6/a04256" ],
+    [ "trial_of_the_champion.h", "dd/d6a/a04253.html", "dd/d6a/a04253" ]
 ];

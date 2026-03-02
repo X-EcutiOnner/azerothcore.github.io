@@ -1,6 +1,6 @@
 var a21852 =
 [
-    [ "CheckRequirement", "d9/df7/a21852.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "d9/df7/a21852.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "d9/df7/a21852.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "npc_mrfloppyAI", "d5/d8c/a21856.html", "d5/d8c/a21856" ],
+    [ "npc_mrfloppy", "d9/df7/a21852.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
+    [ "GetAI", "d9/df7/a21852.html#a88590566309f3fc155eb6dc26055a161", null ]
 ];

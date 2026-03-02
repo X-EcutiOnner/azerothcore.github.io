@@ -1,6 +1,9 @@
 var a14688 =
 [
-    [ "go_direbrew_mole_machineAI", "d6/dac/a14692.html", "d6/dac/a14692" ],
-    [ "go_direbrew_mole_machine", "de/d8e/a14688.html#a759d291a5be227d8beae3bbc779e56f4", null ],
-    [ "GetAI", "de/d8e/a14688.html#a793e5e544664d6c2c3897161c9cccbbb", null ]
+    [ "CheckCast", "de/d8e/a14688.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
+    [ "FilterTargets", "de/d8e/a14688.html#a9638048b4107db116474abf8e18d7760", null ],
+    [ "HandleBeforeHit", "de/d8e/a14688.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
+    [ "HandleScriptEffect", "de/d8e/a14688.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
+    [ "PrepareSpellScript", "de/d8e/a14688.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
+    [ "Register", "de/d8e/a14688.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
 ];

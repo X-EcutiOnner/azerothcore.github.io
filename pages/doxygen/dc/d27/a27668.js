@@ -1,6 +1,7 @@
 var a27668 =
 [
-    [ "PrepareAuraScript", "dc/d27/a27668.html#a65fa925d99065d028e328a92f2a13805", null ],
-    [ "Register", "dc/d27/a27668.html#a95dc732286adf4327f68e23015d58c21", null ],
-    [ "RemoveEffect", "dc/d27/a27668.html#a3f474c143f64739187b6049cac5e4b38", null ]
+    [ "HandleTeleport", "dc/d27/a27668.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
+    [ "PrepareAuraScript", "dc/d27/a27668.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
+    [ "Register", "dc/d27/a27668.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
+    [ "Validate", "dc/d27/a27668.html#adabf22bd591a10662ffbf0354a18a936", null ]
 ];

@@ -1,5 +1,6 @@
 var a14128 =
 [
-    [ "npc_king_varian_wrynn", "d6/da1/a14128.html#a33b7c492a7435b3f80e508be9e3440e9", null ],
-    [ "OnQuestReward", "d6/da1/a14128.html#a1255cca95a7a2b039702b30db377a19f", null ]
+    [ "npc_ravenclaw_apparitionAI", "d5/dde/a14132.html", "d5/dde/a14132" ],
+    [ "npc_ravenclaw_apparition", "d6/da1/a14128.html#a961044571250519e62d7d33633974038", null ],
+    [ "GetAI", "d6/da1/a14128.html#a9de4a85f8318ff8b1ad30aa4c8f15765", null ]
 ];

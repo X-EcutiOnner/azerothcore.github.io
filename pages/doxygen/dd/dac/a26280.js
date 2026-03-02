@@ -1,7 +1,7 @@
 var a26280 =
 [
-    [ "HandleProc", "dd/dac/a26280.html#a8a2e79509451ab5f0d05daa80ebd55ac", null ],
-    [ "PrepareAuraScript", "dd/dac/a26280.html#a331d005fdb7ec53b49c1edc46209d8ea", null ],
-    [ "Register", "dd/dac/a26280.html#a8a1afed2a17841f52c355214ab49b3af", null ],
-    [ "Validate", "dd/dac/a26280.html#af9e07a3f65285bc82126b21b030a69e8", null ]
+    [ "HandlePeriodicDummy", "dd/dac/a26280.html#ac8ca6a69b47cb2316b93e1953e233f8f", null ],
+    [ "PrepareAuraScript", "dd/dac/a26280.html#a1c85329bcafd6c327d1862feabc1eed0", null ],
+    [ "Register", "dd/dac/a26280.html#a0c43d96bf2e59fd67790f327cf14d71e", null ],
+    [ "Validate", "dd/dac/a26280.html#a7c3f4223a709e3cbb7d4a5b4b6a9e1c5", null ]
 ];

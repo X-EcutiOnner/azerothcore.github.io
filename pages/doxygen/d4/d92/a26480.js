@@ -1,7 +1,7 @@
 var a26480 =
 [
-    [ "CheckProc", "d4/d92/a26480.html#a4aadc249b5c568b5317c4eb41abeb6b4", null ],
-    [ "PrepareAuraScript", "d4/d92/a26480.html#acc3d194b3f23ecfe42c40d011c957138", null ],
-    [ "Register", "d4/d92/a26480.html#a0b104698a7c763bee1af656e127591bd", null ],
-    [ "Validate", "d4/d92/a26480.html#a493e63aafcbfd4279cabe91aaa21cee2", null ]
+    [ "CalculateSpellAmount", "d4/d92/a26480.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
+    [ "CheckCast", "d4/d92/a26480.html#af043f7ee0f80baf667e64225effd57d1", null ],
+    [ "PrepareSpellScript", "d4/d92/a26480.html#a233ac4020722078d865cf980d7fa76cf", null ],
+    [ "Register", "d4/d92/a26480.html#a3648ecd94430e21dd014795156c1eb98", null ]
 ];

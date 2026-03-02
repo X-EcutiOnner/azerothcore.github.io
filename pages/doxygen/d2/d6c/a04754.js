@@ -1,24 +1,14 @@
 var a04754 =
 [
-    [ "MMAP::MeshData", "da/d52/a28693.html", "da/d52/a28693" ],
-    [ "MMAP::TerrainBuilder", "df/dca/a28697.html", "df/dca/a28697" ],
-    [ "Grid", "d2/d6c/a04754.html#a6ddcf7a168396ad1ecedfc4e5fe04c09", [
-      [ "GRID_V8", "d2/d6c/a04754.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a1b3d969edeab4d39be8a3a59ebca6e0b", null ],
-      [ "GRID_V9", "d2/d6c/a04754.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a90e846a47ab162703bf2dc5664a61289", null ]
-    ] ],
-    [ "Spot", "d2/d6c/a04754.html#aa0140172b3856ff5a4e0db0227a41165", [
-      [ "TOP", "d2/d6c/a04754.html#aa0140172b3856ff5a4e0db0227a41165aecf8447d11b71464b1a20efa4b87cef1", null ],
-      [ "RIGHT", "d2/d6c/a04754.html#aa0140172b3856ff5a4e0db0227a41165a7ba16840bb5803d51ebe597bc881851e", null ],
-      [ "LEFT", "d2/d6c/a04754.html#aa0140172b3856ff5a4e0db0227a41165a5bf23f4bd225a5f4caadf6820404332b", null ],
-      [ "BOTTOM", "d2/d6c/a04754.html#aa0140172b3856ff5a4e0db0227a41165a8f0736dff0eeeaeeb131796615680d04", null ],
-      [ "ENTIRE", "d2/d6c/a04754.html#aa0140172b3856ff5a4e0db0227a41165a333ed540d45ff2a6bc5ac8a954e93f12", null ]
-    ] ],
-    [ "GRID_PART_SIZE", "d2/d6c/a04754.html#a39bc2d4fa649e77addef85b06c49b369", null ],
-    [ "GRID_SIZE", "d2/d6c/a04754.html#a16e4fdf7de4239156a5a8eb83dcc9e8c", null ],
-    [ "INVALID_MAP_LIQ_HEIGHT", "d2/d6c/a04754.html#a44bbf7085ddd1deacaae673ea4ec357c", null ],
-    [ "INVALID_MAP_LIQ_HEIGHT_MAX", "d2/d6c/a04754.html#a26a6da9ce81eb096651bf47cb90f947f", null ],
-    [ "V8_SIZE", "d2/d6c/a04754.html#a6918d13eba00db309998162fbff2fb7c", null ],
-    [ "V8_SIZE_SQ", "d2/d6c/a04754.html#a94a0ee7c4f225dfc488737a7ba825bae", null ],
-    [ "V9_SIZE", "d2/d6c/a04754.html#a32c90e1638c0f8693e2fc95201d2ec3f", null ],
-    [ "V9_SIZE_SQ", "d2/d6c/a04754.html#a7eb8c24e8759cfd1ebd37b1efc72618b", null ]
+    [ "NpcFlagText", "d5/de2/a12180.html", "d5/de2/a12180" ],
+    [ "MechanicImmune", "dd/d14/a12184.html", "dd/d14/a12184" ],
+    [ "SpellSchoolImmune", "dc/d74/a12188.html", "dc/d74/a12188" ],
+    [ "npc_commandscript", "da/d54/a12192.html", "da/d54/a12192" ],
+    [ "NPCFLAG_COUNT", "d2/d6c/a04754.html#afc1ed6083684621f30fbabb23d2986c0", null ],
+    [ "CreatureEntry", "d2/d6c/a04754.html#a220449830f7fe293c9d82dcd3b84acd9", null ],
+    [ "CreatureSpawnId", "d2/d6c/a04754.html#a5e5fd5f7a85fd4ad7fe92f2125f17acc", null ],
+    [ "AddSC_npc_commandscript", "d2/d6c/a04754.html#ae99689f5e8e57f75adfcf54370ed979d", null ],
+    [ "mechanicImmunes", "d2/d6c/a04754.html#a9e8359f68aec0f69f42fe7aee7934859", null ],
+    [ "npcFlagTexts", "d2/d6c/a04754.html#a048bdd249b6deeed66fba6bad126b30b", null ],
+    [ "spellSchoolImmunes", "d2/d6c/a04754.html#a8708a11856730666b04e749bc0952c8f", null ]
 ];

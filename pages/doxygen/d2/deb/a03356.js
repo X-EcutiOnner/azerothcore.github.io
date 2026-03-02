@@ -1,10 +1,6 @@
 var a03356 =
 [
-    [ "ban_commandscript", "d2/de0/a12024.html", "d2/de0/a12024" ],
-    [ "BanMode", "d2/deb/a03356.html#aee9acfaac97a86a40bad738a75eb5264", [
-      [ "BAN_ACCOUNT", "d2/deb/a03356.html#aee9acfaac97a86a40bad738a75eb5264a7092b1d29da920594bf62c7abe0e9ba1", null ],
-      [ "BAN_CHARACTER", "d2/deb/a03356.html#aee9acfaac97a86a40bad738a75eb5264ab7cde4c4b1dd975c191f10ab0b18ab79", null ],
-      [ "BAN_IP", "d2/deb/a03356.html#aee9acfaac97a86a40bad738a75eb5264ab68a6a6d80749ee19c73fc9dd4f4d74b", null ]
-    ] ],
-    [ "AddSC_ban_commandscript", "d2/deb/a03356.html#aac8ae57b7b7f9ef5cb5aa2975ef444ff", null ]
+    [ "instance_auchenai_crypts", "d3/d3a/a22552.html", "d3/d3a/a22552" ],
+    [ "instance_auchenai_crypts::instance_auchenai_crypts_InstanceMapScript", "df/d20/a22556.html", "df/d20/a22556" ],
+    [ "AddSC_instance_auchenai_crypts", "d2/deb/a03356.html#a3a9866226f3a0e32fdb3501e506ab0b5", null ]
 ];

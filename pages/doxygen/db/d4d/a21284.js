@@ -1,6 +1,14 @@
 var a21284 =
 [
-    [ "npc_ichor_globuleAI", "d9/da9/a21288.html", "d9/da9/a21288" ],
-    [ "npc_ichor_globule", "db/d4d/a21284.html#a4dbd3b057e319ba83e0e1c94b99cd2ab", null ],
-    [ "GetAI", "db/d4d/a21284.html#a4fed5ebd2e1b6ff6867a9488a6e1aef2", null ]
+    [ "boss_cyanigosaAI", "db/d4d/a21284.html#a4b24132889b17b3e682a15009a1ae910", null ],
+    [ "EnterEvadeMode", "db/d4d/a21284.html#a8da6ddc9b1c9f7b145920205046ce095", null ],
+    [ "JustDied", "db/d4d/a21284.html#a805117db567dd3d529a1c862bc24179c", null ],
+    [ "JustEngagedWith", "db/d4d/a21284.html#a4ef85c0178120f14f2a7b29efb7a9abf", null ],
+    [ "KilledUnit", "db/d4d/a21284.html#a5e69b631ab6844160b1e53fd1d731bae", null ],
+    [ "MoveInLineOfSight", "db/d4d/a21284.html#adb699a22dbf1c14cb80f8fdcca9c6f82", null ],
+    [ "Reset", "db/d4d/a21284.html#a7b0fdaa4f2603db8fd2d0c1ee6975817", null ],
+    [ "SpellHitTarget", "db/d4d/a21284.html#ae8218b69e6dc7489e65d891048d84da1", null ],
+    [ "UpdateAI", "db/d4d/a21284.html#ae69afba77636c962045160b610177bd9", null ],
+    [ "events", "db/d4d/a21284.html#ab5fe766d46e9445b9e7cfc605073983f", null ],
+    [ "pInstance", "db/d4d/a21284.html#a075f4a592202dc73d9b5d63ca5178093", null ]
 ];

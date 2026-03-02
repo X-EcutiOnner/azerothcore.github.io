@@ -1,7 +1,6 @@
 var a10912 =
 [
-    [ "GuildBankBuyTab", "d0/d00/a10912.html#af2195db72eeaefea13c958e5ef62c411", null ],
-    [ "Read", "d0/d00/a10912.html#a502153232a314d099ed43e1101bdfc1f", null ],
-    [ "Banker", "d0/d00/a10912.html#a46f3b910aa6d69f4a82c7a603f9f0fb3", null ],
-    [ "BankTab", "d0/d00/a10912.html#a5df7be995a177706fa364e31a6f8df1e", null ]
+    [ "GuildUpdateInfoText", "d0/d00/a10912.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
+    [ "Read", "d0/d00/a10912.html#a7019344fef99c5479602d7bc1176e9ee", null ],
+    [ "InfoText", "d0/d00/a10912.html#a786802ce427465d66a4cea1365743975", null ]
 ];

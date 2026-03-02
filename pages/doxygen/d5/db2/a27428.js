@@ -1,7 +1,8 @@
 var a27428 =
 [
-    [ "PeriodicTick", "d5/db2/a27428.html#a0093da1cb71f87bb7302bf6ccc9a255c", null ],
-    [ "PrepareAuraScript", "d5/db2/a27428.html#afd362a7dd0373e9480445a99023a5c8c", null ],
-    [ "Register", "d5/db2/a27428.html#a0332788648661d5c2665c5d1431e4ca7", null ],
-    [ "Validate", "d5/db2/a27428.html#aecb5c0c9f5258a3ce7ff18cf08f89845", null ]
+    [ "CheckFireTotem", "d5/db2/a27428.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "d5/db2/a27428.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "d5/db2/a27428.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "d5/db2/a27428.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "d5/db2/a27428.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

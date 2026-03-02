@@ -1,5 +1,8 @@
 var a20364 =
 [
-    [ "achievement_shadowdodger", "d6/d26/a20364.html#a8389a4972968fcc6cd7807e96ee5e527", null ],
-    [ "OnCheck", "d6/d26/a20364.html#a3ee0baca0c9163a601cd4bcfa9ebeb04", null ]
+    [ "OnApply", "d6/d26/a20364.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
+    [ "OnRemove", "d6/d26/a20364.html#a4709f570f9014eb36bc8c65269470373", null ],
+    [ "PrepareAuraScript", "d6/d26/a20364.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
+    [ "Register", "d6/d26/a20364.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
+    [ "Validate", "d6/d26/a20364.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
 ];

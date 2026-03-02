@@ -1,7 +1,6 @@
 var a16028 =
 [
-    [ "npc_kaya_flathoofAI", "d7/dd0/a16032.html", "d7/dd0/a16032" ],
-    [ "npc_kaya_flathoof", "d2/d8b/a16028.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
-    [ "GetAI", "d2/d8b/a16028.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
-    [ "OnQuestAccept", "d2/d8b/a16028.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
+    [ "npc_qiraj_war_spawnAI", "d7/dd0/a16032.html", "d7/dd0/a16032" ],
+    [ "npc_qiraj_war_spawn", "d2/d8b/a16028.html#a2afba33e9fd879ac3fea206768b14334", null ],
+    [ "GetAI", "d2/d8b/a16028.html#a32339f20251c188b895c02b6cc9217e9", null ]
 ];

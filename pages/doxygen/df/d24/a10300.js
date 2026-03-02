@@ -1,29 +1,6 @@
 var a10300 =
 [
-    [ "MoveSplineInit", "df/d24/a10300.html#a1f35bd993c8854badb489dee016d28ef", null ],
-    [ "DisableTransportPathTransformations", "df/d24/a10300.html#a0a29c5f4f31559ca35f5f06d7d7cfe60", null ],
-    [ "Launch", "df/d24/a10300.html#a2e051b61f93da4f17e918c7a93f26f18", null ],
-    [ "MovebyPath", "df/d24/a10300.html#aab8475d504365efbefd571f748b4f42e", null ],
-    [ "MoveTo", "df/d24/a10300.html#a1a1c23b0ea579800264fe37938b3a373", null ],
-    [ "MoveTo", "df/d24/a10300.html#a1805cc0033ca71a710bd310bed0fccd6", null ],
-    [ "Path", "df/d24/a10300.html#a28e5ddb362b3271a6a8cb1894b27ef99", null ],
-    [ "SetAnimation", "df/d24/a10300.html#a80bd851e9a1647eb4472398bfe8a5310", null ],
-    [ "SetCyclic", "df/d24/a10300.html#aec622d3475640701c147f246e0b38c9a", null ],
-    [ "SetFacing", "df/d24/a10300.html#a5e5129eb3f700951bf982d405c719a9f", null ],
-    [ "SetFacing", "df/d24/a10300.html#a9e76d35b8ed626b7045532694c25368f", null ],
-    [ "SetFacing", "df/d24/a10300.html#a44f860886596d2514042f3e71d733410", null ],
-    [ "SetFall", "df/d24/a10300.html#ab48d296e6951a4779333ad7ede7c4711", null ],
-    [ "SetFirstPointId", "df/d24/a10300.html#a2f639a22869facbc16ebf0f5575caaaf", null ],
-    [ "SetFly", "df/d24/a10300.html#af667cfb398e7048e20960ec92ad050cd", null ],
-    [ "SetOrientationFixed", "df/d24/a10300.html#afe85fd38450d1f8ca0e6d5f305cbd7fd", null ],
-    [ "SetOrientationInversed", "df/d24/a10300.html#a9bf8699a7134a74a3413e04e9cb4c461", null ],
-    [ "SetParabolic", "df/d24/a10300.html#a40a7b700bca088949953931c6fcf92bd", null ],
-    [ "SetSmooth", "df/d24/a10300.html#a97bc89b72cf69fee4394483ae3e37bcb", null ],
-    [ "SetTransportEnter", "df/d24/a10300.html#a7967e52ee0cbe76582e251c5875f814f", null ],
-    [ "SetTransportExit", "df/d24/a10300.html#a1ba2719712c992fa1a0dcef4d91b0aaf", null ],
-    [ "SetVelocity", "df/d24/a10300.html#a53bd1a080c7d4f88ec9cb0944250ffeb", null ],
-    [ "SetWalk", "df/d24/a10300.html#a2c14b0575c42f91b99360f2bdbdb5547", null ],
-    [ "Stop", "df/d24/a10300.html#a8f91bc19f4c88c81c1480213a952f270", null ],
-    [ "args", "df/d24/a10300.html#aa21efdf063a1d0007c5d469e234189ed", null ],
-    [ "unit", "df/d24/a10300.html#af8fe59057046110c0f036101a51f0fbd", null ]
+    [ "FallInitializer", "df/d24/a10300.html#a618345df62b821d286caadc7179b7d83", null ],
+    [ "operator()", "df/d24/a10300.html#a7a9b294b6820e229cd95f4fc9bde825b", null ],
+    [ "start_elevation", "df/d24/a10300.html#ab94604fb6eee50832001908c12044130", null ]
 ];

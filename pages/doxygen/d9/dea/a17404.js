@@ -1,6 +1,8 @@
 var a17404 =
 [
-    [ "instance_halls_of_reflection_InstanceMapScript", "da/dfe/a17408.html", "da/dfe/a17408" ],
-    [ "instance_halls_of_reflection", "d9/dea/a17404.html#a8872b51ceec25dbf4831f45b27206ed1", null ],
-    [ "GetInstanceScript", "d9/dea/a17404.html#aca27a4f654f41fe6f238c905b48285b7", null ]
+    [ "npc_hor_raging_ghoulAI", "d9/dea/a17404.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
+    [ "JustDied", "d9/dea/a17404.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
+    [ "Reset", "d9/dea/a17404.html#aa52576d94e230797209dfc938d62187f", null ],
+    [ "UpdateAI", "d9/dea/a17404.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
+    [ "leaped", "d9/dea/a17404.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
 ];

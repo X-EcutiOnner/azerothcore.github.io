@@ -1,6 +1,8 @@
 var a13520 =
 [
-    [ "boss_kirtonos_the_heraldAI", "d4/d16/a13524.html", "d4/d16/a13524" ],
-    [ "boss_kirtonos_the_herald", "de/daf/a13520.html#a0e81153a0da7910cda4c9b6d32544318", null ],
-    [ "GetAI", "de/daf/a13520.html#aa5e0fe2386aae52fd53ff309282db652", null ]
+    [ "HandleHit", "de/daf/a13520.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
+    [ "PrepareSpellScript", "de/daf/a13520.html#a53f170244b390f7035e131fb5c79cb3f", null ],
+    [ "Register", "de/daf/a13520.html#a248124b837cf71f7d422154db4581747", null ],
+    [ "Validate", "de/daf/a13520.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
+    [ "_emote", "de/daf/a13520.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
 ];

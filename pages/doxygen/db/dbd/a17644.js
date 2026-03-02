@@ -1,5 +1,6 @@
 var a17644 =
 [
-    [ "achievement_less_rabi", "db/dbd/a17644.html#aee43dd7623f7fecc20a0acb15f342a99", null ],
-    [ "OnCheck", "db/dbd/a17644.html#a16b200bf93fa2571c8b31359ad7ca151", null ]
+    [ "HandleScriptEffect", "db/dbd/a17644.html#ab9c289e946cfaf2b63f2526914d79812", null ],
+    [ "PrepareSpellScript", "db/dbd/a17644.html#a832f8ab737254760fe2b91f19d119781", null ],
+    [ "Register", "db/dbd/a17644.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
 ];

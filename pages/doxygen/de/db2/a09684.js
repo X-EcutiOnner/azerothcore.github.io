@@ -1,7 +1,8 @@
 var a09684 =
 [
-    [ "ObjectTypeIdCheck", "de/db2/a09684.html#a40af6d4d15e92aaaf2c9bb53ce9bb290", null ],
-    [ "operator()", "de/db2/a09684.html#a9cbd09a6021bef7819a0002952264293", null ],
-    [ "_equals", "de/db2/a09684.html#ab08a6e18731ccb822a71a1530f6966c3", null ],
-    [ "_typeId", "de/db2/a09684.html#a70e9a07e4c2c559bc55b8003db3af3be", null ]
+    [ "AllCreaturesOfEntryInRange", "de/db2/a09684.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
+    [ "operator()", "de/db2/a09684.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
+    [ "m_fRange", "de/db2/a09684.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
+    [ "m_pObject", "de/db2/a09684.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
+    [ "m_uiEntry", "de/db2/a09684.html#abf653360d2ee482728fb137a37fe0512", null ]
 ];

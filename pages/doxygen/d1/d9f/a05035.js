@@ -1,9 +1,8 @@
 var a05035 =
 [
-    [ "ManagedModel", "d1/d9f/a05035.html#ab641724be7e7791c2c95982acc13f3b0", null ],
-    [ "decRefCount", "d1/d9f/a05035.html#a5a104acbc0661b19ba2a662dc669b73d", null ],
-    [ "getModel", "d1/d9f/a05035.html#a053fc6647a16746fba19a0795610fea2", null ],
-    [ "setModel", "d1/d9f/a05035.html#aa450ae6be22d507c36a746850629831d", null ],
-    [ "iModel", "d1/d9f/a05035.html#a5e20d0157691bd6036247a83eea8d19b", null ],
-    [ "iRefCount", "d1/d9f/a05035.html#afb30ad900a5979f98276324a1ab1c328", null ]
+    [ "ByteSize", "d0/d66/a11264.html", "d0/d66/a11264" ],
+    [ "Hyperlinks", "d8/dcf/a11272.html", "d8/dcf/a11272" ],
+    [ "NoHyperlinks", "d8/d40/a11276.html", "d8/d40/a11276" ],
+    [ "RawBytes", "d1/d6b/a11260.html", "d1/d6b/a11260" ],
+    [ "Utf8", "d5/d14/a11268.html", "d5/d14/a11268" ]
 ];

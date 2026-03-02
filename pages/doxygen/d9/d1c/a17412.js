@@ -1,6 +1,9 @@
 var a17412 =
 [
-    [ "boss_garfrostAI", "d7/dbd/a17416.html", "d7/dbd/a17416" ],
-    [ "boss_garfrost", "d9/d1c/a17412.html#ac116491cf252ee476cedee55ea292827", null ],
-    [ "GetAI", "d9/d1c/a17412.html#a8a67bb09249655a8706868bb26b5124d", null ]
+    [ "npc_hor_risen_witch_doctorAI", "d9/d1c/a17412.html#acd33d4811521f6d41bce21270198db45", null ],
+    [ "JustDied", "d9/d1c/a17412.html#a49eb1c20ef810d0e4aeea8f99fcabebb", null ],
+    [ "JustEngagedWith", "d9/d1c/a17412.html#a54378daf294fcbee4ba1abf14927cc52", null ],
+    [ "Reset", "d9/d1c/a17412.html#a20742bb0fe610367283cd5dc7e8b36ff", null ],
+    [ "UpdateAI", "d9/d1c/a17412.html#af9baaf71fa53a42ab5d1507fdd6aa9fd", null ],
+    [ "events", "d9/d1c/a17412.html#abb39744cdcdc8e1fbf8fd06508af35f9", null ]
 ];

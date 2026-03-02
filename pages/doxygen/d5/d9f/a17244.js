@@ -1,6 +1,6 @@
 var a17244 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "d0/dcf/a17248.html", "d0/dcf/a17248" ],
-    [ "instance_forge_of_souls", "d5/d9f/a17244.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "d5/d9f/a17244.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "boss_devourer_of_soulsAI", "d0/dcf/a17248.html", "d0/dcf/a17248" ],
+    [ "boss_devourer_of_souls", "d5/d9f/a17244.html#a95b3a33be3b85a4c7ecfb4370a9ddc60", null ],
+    [ "GetAI", "d5/d9f/a17244.html#a3de68fa630c5b74104c461f88edd1d36", null ]
 ];

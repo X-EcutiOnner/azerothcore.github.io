@@ -1,9 +1,13 @@
 var a09276 =
 [
-    [ "CellArea", "d7/dc9/a09276.html#ace8ca84753b4ec8681415386fb135053", null ],
-    [ "CellArea", "d7/dc9/a09276.html#a547aa2c544abb8de2c6defdd6ec77fa3", null ],
-    [ "operator!", "d7/dc9/a09276.html#a386d4a562c27155012daedc361541e3b", null ],
-    [ "ResizeBorders", "d7/dc9/a09276.html#aebb8a0eb3210fa09d647d89ce8a0c7b8", null ],
-    [ "high_bound", "d7/dc9/a09276.html#a0c90f0474902deaafc4a64faaf6e8071", null ],
-    [ "low_bound", "d7/dc9/a09276.html#a374fe9802c798e6ece359a8025b6e1df", null ]
+    [ "QuestPOI", "d7/dc9/a09276.html#af4ce75549d1fff2042e98683119214a6", null ],
+    [ "QuestPOI", "d7/dc9/a09276.html#a4cf252fabc68cf11df5d44f192955a0b", null ],
+    [ "AreaId", "d7/dc9/a09276.html#ad81f08fa2bc5fd0ccd81d0efc42ce804", null ],
+    [ "FloorId", "d7/dc9/a09276.html#a1af6ed9fdb9ff429e18fb5d98a42ce45", null ],
+    [ "Id", "d7/dc9/a09276.html#aace0de15249c756ba3cbd5763cbb3f98", null ],
+    [ "MapId", "d7/dc9/a09276.html#a851f8e6e62373d2592173534754d757b", null ],
+    [ "ObjectiveIndex", "d7/dc9/a09276.html#ad80f65110beacd44e667008387e6bb70", null ],
+    [ "points", "d7/dc9/a09276.html#aeb505cb061a00ecaa2acc749e391f207", null ],
+    [ "Unk3", "d7/dc9/a09276.html#a1f1d8fa843c856b54ec1ca85b08d78e1", null ],
+    [ "Unk4", "d7/dc9/a09276.html#aa8089160bb8e93ea79df96b956050b70", null ]
 ];

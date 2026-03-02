@@ -1,7 +1,6 @@
 var a13548 =
 [
-    [ "HandleEffectApply", "de/d38/a13548.html#a710536e0a3bacf173d037041e755bd82", null ],
-    [ "HandleEffectRemove", "de/d38/a13548.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
-    [ "PrepareAuraScript", "de/d38/a13548.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
-    [ "Register", "de/d38/a13548.html#a9092818bdb15a12163aae633049cb7f6", null ]
+    [ "npc_risen_guardianAI", "d4/d93/a13552.html", "d4/d93/a13552" ],
+    [ "npc_risen_guardian", "de/d38/a13548.html#a472274c69abe912f5781c60911204eb5", null ],
+    [ "GetAI", "de/d38/a13548.html#a568f57a442adcd64c8c3d2e4d5df729f", null ]
 ];

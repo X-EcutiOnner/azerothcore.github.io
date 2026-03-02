@@ -1,9 +1,9 @@
 var a28092 =
 [
-    [ "go_tadpole_cageAI", "dd/d12/a28092.html#a87dc192a13cecf834d49cd04451224cd", null ],
-    [ "GossipHello", "dd/d12/a28092.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
-    [ "OnStateChanged", "dd/d12/a28092.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
-    [ "SummonTadpoles", "dd/d12/a28092.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
-    [ "UpdateAI", "dd/d12/a28092.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
-    [ "requireSummon", "dd/d12/a28092.html#a9884081855fc45776a6b12b9a68890e4", null ]
+    [ "ChatLogScript", "dd/d12/a28092.html#ade8c407083cf094f0767412e7b6d7730", null ],
+    [ "OnPlayerCanUseChat", "dd/d12/a28092.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
+    [ "OnPlayerCanUseChat", "dd/d12/a28092.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
+    [ "OnPlayerCanUseChat", "dd/d12/a28092.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
+    [ "OnPlayerCanUseChat", "dd/d12/a28092.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
+    [ "OnPlayerCanUseChat", "dd/d12/a28092.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
 ];

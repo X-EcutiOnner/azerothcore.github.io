@@ -1,10 +1,7 @@
 var a18168 =
 [
-    [ "npc_cult_fanaticAI", "d3/d75/a18168.html#a766e536288b84110f88a8bd282e97932", null ],
-    [ "JustEngagedWith", "d3/d75/a18168.html#a709b75f4b1519bc7c6988985a22d076f", null ],
-    [ "Reset", "d3/d75/a18168.html#a772830df1d16d0463c8c00f14c337db0", null ],
-    [ "SpellHit", "d3/d75/a18168.html#a17c02a83b522c9717de3d89517104e42", null ],
-    [ "UpdateAI", "d3/d75/a18168.html#ac79afdab3721d78d2b7e5da360083cea", null ],
-    [ "_instance", "d3/d75/a18168.html#a7448fdf85cccfcb12509b0274205bff4", null ],
-    [ "events", "d3/d75/a18168.html#a9576978141062fa1babbbc5ed42483c4", null ]
+    [ "PrepareSpellScript", "d3/d75/a18168.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
+    [ "Register", "d3/d75/a18168.html#aff4f05a5a4742a408646000b7cece38c", null ],
+    [ "RemovePassengers", "d3/d75/a18168.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
+    [ "Validate", "d3/d75/a18168.html#a2a8da9d150804f979f2313f623ad7760", null ]
 ];

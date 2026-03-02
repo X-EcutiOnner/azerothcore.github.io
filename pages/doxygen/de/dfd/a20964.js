@@ -1,6 +1,6 @@
 var a20964 =
 [
-    [ "instance_ulduar_InstanceMapScript", "db/d4d/a20968.html", "db/d4d/a20968" ],
-    [ "instance_ulduar", "de/dfd/a20964.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "de/dfd/a20964.html#ad15f003a90e656910fc32d661ca9baba", null ]
+    [ "HandleScript", "de/dfd/a20964.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
+    [ "PrepareSpellScript", "de/dfd/a20964.html#ab2a4155f6029850c61e84d7c180addae", null ],
+    [ "Register", "de/dfd/a20964.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
 ];

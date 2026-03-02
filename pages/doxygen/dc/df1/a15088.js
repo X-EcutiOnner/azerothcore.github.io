@@ -1,6 +1,11 @@
 var a15088 =
 [
-    [ "FilterTargets", "dc/df1/a15088.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
-    [ "PrepareSpellScript", "dc/df1/a15088.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
-    [ "Register", "dc/df1/a15088.html#a164b8b946dc801db878603488c978adb", null ]
+    [ "boss_anetheron", "dc/df1/a15088.html#a6c103caa3f137756599a75bff03a6648", null ],
+    [ "DoAction", "dc/df1/a15088.html#a2fd485de26c820fec5240f9141a09964", null ],
+    [ "JustDied", "dc/df1/a15088.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
+    [ "JustEngagedWith", "dc/df1/a15088.html#aa34ac87ad4014fbecb481be7896c577c", null ],
+    [ "JustSummoned", "dc/df1/a15088.html#af9c156e28c7eca710d8367bd2a99387d", null ],
+    [ "KilledUnit", "dc/df1/a15088.html#a4471af823278a3664574729bf5c749be", null ],
+    [ "PathEndReached", "dc/df1/a15088.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
+    [ "_recentlySpoken", "dc/df1/a15088.html#accd9455c3b1d536ca177be6028f3503d", null ]
 ];

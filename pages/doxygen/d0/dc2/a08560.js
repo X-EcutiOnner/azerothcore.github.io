@@ -1,5 +1,6 @@
 var a08560 =
 [
-    [ "Color", "d0/dc2/a08560.html#ad6232c851b72ce04d2dcfa00596fc1df", null ],
-    [ "Content", "d0/dc2/a08560.html#a5437849d9b7f229c4466e174d619d057", null ]
+    [ "item_count", "d0/dc2/a08560.html#a437fe00f34ad414e3c9f81d01a153d13", null ],
+    [ "setid", "d0/dc2/a08560.html#ab8c24b76b1c0eb92c0fe52ca9baf293a", null ],
+    [ "spells", "d0/dc2/a08560.html#af8156bad9771ed816fd861d3eb992aaa", null ]
 ];

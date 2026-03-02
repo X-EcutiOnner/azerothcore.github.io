@@ -1,6 +1,11 @@
 var a30064 =
 [
-    [ "color", "db/d5d/a30064.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
-    [ "ID", "db/d5d/a30064.html#ac125147c2dc5546a0116f48e08f36e59", null ],
-    [ "spellitemenchantement", "db/d5d/a30064.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
+    [ "material", "db/d5d/a30064.html#a7079e8817a9684602084eb224f2540fc", null ],
+    [ "pos_x", "db/d5d/a30064.html#ac4d971cc46506be14716124afbb5ad9c", null ],
+    [ "pos_y", "db/d5d/a30064.html#a6cd85f2a674d732e88371ffce5e46077", null ],
+    [ "pos_z", "db/d5d/a30064.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
+    [ "xtiles", "db/d5d/a30064.html#aca34dfa64624cfe04c314c13bbed0062", null ],
+    [ "xverts", "db/d5d/a30064.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
+    [ "ytiles", "db/d5d/a30064.html#a9901a7e9828ac840bc290b0768831d66", null ],
+    [ "yverts", "db/d5d/a30064.html#abf24042b85692cd0df05d65d734dd99e", null ]
 ];

@@ -1,8 +1,30 @@
 var a02510 =
 [
-    [ "spell_gordunni_trap", "dc/d5d/a15916.html", "dc/d5d/a15916" ],
-    [ "GordunniTrap", "dd/df4/a02510.html#ae11511f5835ecdfec73fde1f9f29431c", [
-      [ "GO_GORDUNNI_DIRT_MOUND", "dd/df4/a02510.html#ae11511f5835ecdfec73fde1f9f29431ca12df131fc84f6cc9bcf7d02eaf65e1ab", null ]
+    [ "LanguageType", "dd/df4/a02510.html#ada735c6d6b04a8714b2751f0c4053e34", [
+      [ "LT_BASIC_LATIN", "dd/df4/a02510.html#ada735c6d6b04a8714b2751f0c4053e34ab693cfd22bb1894887b280b4d51ea3f5", null ],
+      [ "LT_EXTENDEN_LATIN", "dd/df4/a02510.html#ada735c6d6b04a8714b2751f0c4053e34a42315588f1a9e4d3e29a1b49e7d973b8", null ],
+      [ "LT_CYRILLIC", "dd/df4/a02510.html#ada735c6d6b04a8714b2751f0c4053e34aef4a14b5eb73e84982c14ba00e70b402", null ],
+      [ "LT_EAST_ASIA", "dd/df4/a02510.html#ada735c6d6b04a8714b2751f0c4053e34aa059d83464c94afd9e5a7257238efa40", null ],
+      [ "LT_ANY", "dd/df4/a02510.html#ada735c6d6b04a8714b2751f0c4053e34a400f6aeeb5f21442c121cccfda55689c", null ]
     ] ],
-    [ "AddSC_feralas", "dd/df4/a02510.html#a06e54e3edc2df068be660ac788b402e3", null ]
+    [ "CheckAndFixGOChairHeightId", "dd/df4/a02510.html#a4fb11f3d6b7a6d3bd9bf49578906fc10", null ],
+    [ "CheckGOConsumable", "dd/df4/a02510.html#a9be9514be7df6dd6a73a9b3889eccb7c", null ],
+    [ "CheckGOLinkedTrapId", "dd/df4/a02510.html#aa667048b6811121b380981beec1541fd", null ],
+    [ "CheckGOLockId", "dd/df4/a02510.html#abc01124dd1fecdf98bbe1948541557b0", null ],
+    [ "CheckGONoDamageImmuneId", "dd/df4/a02510.html#a288e20914d793779cf9f2bfd9951b812", null ],
+    [ "CheckGOSpellId", "dd/df4/a02510.html#a288fa8c196f7adce5d43050849366b84", null ],
+    [ "GetLanguageDescByID", "dd/df4/a02510.html#a5e723b66ad85198f3b0625903f5edac6", null ],
+    [ "GetRealmLanguageType", "dd/df4/a02510.html#a1d95dafadc9b3a7d7bc91fa7f188d464", null ],
+    [ "GetScriptCommandName", "dd/df4/a02510.html#a46371802334fe0589dc4f2b065b590e5", null ],
+    [ "GetScriptsMapByType", "dd/df4/a02510.html#a34339a53afbec181844cc9d936d1d9a2", null ],
+    [ "GetScriptsTableNameByType", "dd/df4/a02510.html#acc60b4b0ead06280f2b3289f8da57cb9", null ],
+    [ "GetSkillRangeType", "dd/df4/a02510.html#a2e3e576d2e15a5033a24dec106b42453", null ],
+    [ "isValidString", "dd/df4/a02510.html#a4f5a667f6078863c869b5c92387532fa", null ],
+    [ "normalizePlayerName", "dd/df4/a02510.html#af55111c173fd16ba2898f3046dfa3d9a", null ],
+    [ "lang_description", "dd/df4/a02510.html#a04765c27af649777907160e1147fb8fa", null ],
+    [ "qualityToBuyValueConfig", "dd/df4/a02510.html#aa622a06edade2e3d18da67881d15918c", null ],
+    [ "qualityToSellValueConfig", "dd/df4/a02510.html#a774395755c07e6b3831e37e1f8448844", null ],
+    [ "sEventScripts", "dd/df4/a02510.html#a99fc90e0f89dbe2684b6563324d8c23b", null ],
+    [ "sSpellScripts", "dd/df4/a02510.html#a3c2a9c06ca944c1ce8c2f02692bda619", null ],
+    [ "sWaypointScripts", "dd/df4/a02510.html#ad3bd41d0f54f2baa59f94e7fb1b426d1", null ]
 ];

@@ -1,8 +1,6 @@
 var a12980 =
 [
-    [ "npc_lava_spawn", "dd/dbd/a12980.html#aff97441b2cfbcd68e0788be022ee6236", null ],
-    [ "JustEngagedWith", "dd/dbd/a12980.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
-    [ "Reset", "dd/dbd/a12980.html#ab774d354991c90b1421e6783c0513e59", null ],
-    [ "UpdateAI", "dd/dbd/a12980.html#a6a17c8c40b0110b688ff5faef5585185", null ],
-    [ "_scheduler", "dd/dbd/a12980.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
+    [ "boss_sulfuronAI", "dd/dbd/a12980.html#a63c76fb94131830924e2bf77477261ba", null ],
+    [ "ExecuteEvent", "dd/dbd/a12980.html#ae038aa8140f5b4128c39c592966321f1", null ],
+    [ "JustEngagedWith", "dd/dbd/a12980.html#a35394690b8d25529c91c147025f6ad92", null ]
 ];

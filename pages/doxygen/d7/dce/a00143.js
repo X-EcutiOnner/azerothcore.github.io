@@ -1,5 +1,6 @@
 var a00143 =
 [
-    [ "GetWeatherData", "d7/dce/a00143.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],
-    [ "LoadWeatherData", "d7/dce/a00143.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ]
+    [ "mean", "d7/dce/a00143.html#a64ba279a3d3edca415239118167c0206", null ],
+    [ "median", "d7/dce/a00143.html#a4840fd449eb626bea901860e4c1be22a", null ],
+    [ "standard_deviation", "d7/dce/a00143.html#a60ce9c7718ec2901f037e2368f93026d", null ]
 ];

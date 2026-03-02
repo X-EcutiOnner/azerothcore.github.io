@@ -1,6 +1,16 @@
 var a22180 =
 [
-    [ "npc_brunnhildar_prisonerAI", "d6/d9d/a22184.html", "d6/d9d/a22184" ],
-    [ "npc_brunnhildar_prisoner", "dc/d0e/a22180.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
-    [ "GetAI", "dc/d0e/a22180.html#aa2a1787849c74a5163a39137c9d03d57", null ]
+    [ "npc_frosthound", "dc/d0e/a22180.html#a90dc4d1debb64354154760b52f8b1129", null ],
+    [ "AttackStart", "dc/d0e/a22180.html#adf6969c7670584747e407a3bede8c928", null ],
+    [ "EnterEvadeMode", "dc/d0e/a22180.html#ad0a16989c8c65eaa58deec6f885719f3", null ],
+    [ "JustDied", "dc/d0e/a22180.html#a5a20cbca9da2f80c02d0697c84689c7a", null ],
+    [ "JustEngagedWith", "dc/d0e/a22180.html#a8c9d22bfd32c12b3cf60f89f6856b5a5", null ],
+    [ "JustSummoned", "dc/d0e/a22180.html#a93858959a06e4f1aa014fca3044949bc", null ],
+    [ "OnCharmed", "dc/d0e/a22180.html#aaf081193bdae7ef30c153a3d40dcefe7", null ],
+    [ "PassengerBoarded", "dc/d0e/a22180.html#a0126be35e4bbb613c9e0a1a04bef3681", null ],
+    [ "Reset", "dc/d0e/a22180.html#ac2056fafcb04a827c83bc199a89a8a74", null ],
+    [ "UpdateAI", "dc/d0e/a22180.html#ab163e819369b6b90b5782ab8d1cecbaf", null ],
+    [ "WaypointReached", "dc/d0e/a22180.html#a9f6238bd211a1a465815c8cdd9bac1d2", null ],
+    [ "_completionWaypoint", "dc/d0e/a22180.html#adfeb6a7a2755ebc0d1252cedf0f54727", null ],
+    [ "_summons", "dc/d0e/a22180.html#a103a499ecce73bc4505a85a21c143e73", null ]
 ];

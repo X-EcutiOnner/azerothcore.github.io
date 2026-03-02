@@ -1,6 +1,6 @@
 var a23552 =
 [
-    [ "PrepareSpellScript", "d0/dff/a23552.html#a5b17110b189b7134939aea9dbf2d724b", null ],
-    [ "Register", "d0/dff/a23552.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
-    [ "SelectRandomPlayer", "d0/dff/a23552.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
+    [ "HandleHit", "d0/dff/a23552.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
+    [ "PrepareSpellScript", "d0/dff/a23552.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
+    [ "Register", "d0/dff/a23552.html#acb1b681f587817614c2b3684585369db", null ]
 ];

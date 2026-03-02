@@ -1,8 +1,6 @@
 var a24120 =
 [
-    [ "CreatureId", "d3/d81/a24120.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "d3/d81/a24120.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "d3/d81/a24120.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "d3/d81/a24120.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "d3/d81/a24120.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "npc_dragonmaw_peonAI", "d5/d16/a24124.html", "d5/d16/a24124" ],
+    [ "npc_dragonmaw_peon", "d3/d81/a24120.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
+    [ "GetAI", "d3/d81/a24120.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
 ];

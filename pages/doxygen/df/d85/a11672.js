@@ -1,7 +1,8 @@
 var a11672 =
 [
-    [ "EffectAuraNameCheck", "df/d85/a11672.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
-    [ "Check", "df/d85/a11672.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
-    [ "ToString", "df/d85/a11672.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
-    [ "effAurName", "df/d85/a11672.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
+    [ "first", "df/d85/a11672.html#a49aea8bfed353c2c552f6195b8e9f60a", null ],
+    [ "last", "df/d85/a11672.html#a05a8077c7ec39bcca66fe84aa1da7040", null ],
+    [ "next", "df/d85/a11672.html#a0a7791b7069912a013299e7afaf4142f", null ],
+    [ "prev", "df/d85/a11672.html#ae27b7d0aa5a2ae5cb75a7f0d397c849f", null ],
+    [ "rank", "df/d85/a11672.html#a0b58cef8fc18f91fa59b8c7d7b9f9872", null ]
 ];

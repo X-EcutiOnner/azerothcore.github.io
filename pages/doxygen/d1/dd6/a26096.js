@@ -1,6 +1,8 @@
 var a26096 =
 [
-    [ "HandleScriptEffect", "d1/dd6/a26096.html#a14df2ed73118826254a6ffa923063f6c", null ],
-    [ "PrepareSpellScript", "d1/dd6/a26096.html#a1b20ba3fe209ebf0100f32d4013f2d08", null ],
-    [ "Register", "d1/dd6/a26096.html#ac70a96209898dc6f2c7b2532dc9f5e6c", null ]
+    [ "HandleDummy", "d1/dd6/a26096.html#a13b4ea32e03dec26d0cdaa9537abb3b0", null ],
+    [ "Load", "d1/dd6/a26096.html#a78506404ba25b054a9ab3f7176a5d4fc", null ],
+    [ "PrepareSpellScript", "d1/dd6/a26096.html#a070e83b84feb418f02327240daebede7", null ],
+    [ "Register", "d1/dd6/a26096.html#a0c2965e62feb26ca764636fcd3a1f885", null ],
+    [ "Validate", "d1/dd6/a26096.html#a48934cde38c6f3b18087267b616ff338", null ]
 ];

@@ -1,11 +1,8 @@
 var a08284 =
 [
-    [ "FormationInfo", "d0/d92/a08284.html#ad00d7dd0ac811a3805a8ba2c9c1e73df", null ],
-    [ "HasGroupFlag", "d0/d92/a08284.html#afc612acf30e8d0a047aac5b0fc2dc07b", null ],
-    [ "follow_angle", "d0/d92/a08284.html#a928ce7047d511c316a5367faf7f96673", null ],
-    [ "follow_dist", "d0/d92/a08284.html#a3b59ee5129e208cc3df407a921362393", null ],
-    [ "groupAI", "d0/d92/a08284.html#af9f6dc52999efef6f0819bb8d1670fec", null ],
-    [ "leaderGUID", "d0/d92/a08284.html#ad5af23397ae1ae835a72ce125d102ef0", null ],
-    [ "point_1", "d0/d92/a08284.html#a84298ff533bebc633689742c7f9299ae", null ],
-    [ "point_2", "d0/d92/a08284.html#acc308b497de18211b99eec4311b256a4", null ]
+    [ "bounding_radius", "d0/d92/a08284.html#a9f4a794b06bcbe31fc0a104cc97b91a4", null ],
+    [ "combat_reach", "d0/d92/a08284.html#ac271edb10093db19e4df1396053f820d", null ],
+    [ "gender", "d0/d92/a08284.html#aa5c8134851ff4f7ab6ad2af3b6e1dc1e", null ],
+    [ "is_trigger", "d0/d92/a08284.html#a52dbfa82e1525df681b87ab07ba8ead0", null ],
+    [ "modelid_other_gender", "d0/d92/a08284.html#a222b3c513a64b385954ea549e67f4255", null ]
 ];

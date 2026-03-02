@@ -1,5 +1,7 @@
 var a08240 =
 [
-    [ "Name", "d0/d0e/a08240.html#aa971d38e5169f2b7b610cf6cf0aec928", null ],
-    [ "Title", "d0/d0e/a08240.html#a344cbaef4846d4c9c76e1d783dd2b4fc", null ]
+    [ "ForcedDespawnDelayEvent", "d0/d0e/a08240.html#ad3cf785f62ec0d7069493fee39227bc3", null ],
+    [ "Execute", "d0/d0e/a08240.html#a735c709b269458911bd93da1902cbe25", null ],
+    [ "m_owner", "d0/d0e/a08240.html#aa4fa09703f39ae8bbe0b7483a27d9cc3", null ],
+    [ "m_respawnTimer", "d0/d0e/a08240.html#a5db78930a1fda07f2020b23158ebb93d", null ]
 ];

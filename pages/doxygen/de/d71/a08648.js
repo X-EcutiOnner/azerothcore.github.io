@@ -1,4 +1,5 @@
 var a08648 =
 [
-    [ "operator()", "de/d71/a08648.html#abf1eada3c86b3be6a9360e359a59930b", null ]
+    [ "Global", "de/d71/a08648.html#a77d72711ba9384384f9fd789f778e8c8", null ],
+    [ "MapSpecific", "de/d71/a08648.html#a42e5a0249b84d4e8175a4cb65480bbcf", null ]
 ];

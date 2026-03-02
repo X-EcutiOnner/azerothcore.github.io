@@ -1,5 +1,7 @@
 var a08644 =
 [
-    [ "ObjectGuidGenerator", "d3/d11/a08644.html#a1d917989d9bf681546d0e3e9b20593e0", null ],
-    [ "Generate", "d3/d11/a08644.html#a43dfe501c5ec222bbd1f8687a1a103b9", null ]
+    [ "ObjectDistanceOrderPred", "d3/d11/a08644.html#adced3fdc6d99b7506361eb7700fa4cec", null ],
+    [ "operator()", "d3/d11/a08644.html#aaa5023735568f6df28a177fbd9ed866e", null ],
+    [ "m_ascending", "d3/d11/a08644.html#a313cd0450096e49716bfb52f8f238bfc", null ],
+    [ "m_refObj", "d3/d11/a08644.html#aec421fd45a60545bf92b7236e0d0b360", null ]
 ];

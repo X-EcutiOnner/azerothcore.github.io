@@ -1,7 +1,5 @@
 var a28116 =
 [
-    [ "go_bear_trapAI", "dd/d1d/a28116.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "dd/d1d/a28116.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "dd/d1d/a28116.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "dd/d1d/a28116.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "go_ethereum_stasis", "dd/d1d/a28116.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
+    [ "OnGossipHello", "dd/d1d/a28116.html#ac36da8dccbebcaee605a878df3904c60", null ]
 ];

@@ -1,6 +1,7 @@
 var a27984 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "da/d35/a27984.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "da/d35/a27984.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "da/d35/a27984.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "CharacterDeleteActionIpLogger", "da/d35/a27984.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "da/d35/a27984.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "da/d35/a27984.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "da/d35/a27984.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

@@ -1,13 +1,29 @@
 var a02513 =
 [
-    [ "spell_ooze_zap", "d6/d2d/a15896.html", "d6/d2d/a15896" ],
-    [ "spell_ooze_zap_channel_end", "d3/d27/a15900.html", "d3/d27/a15900" ],
-    [ "spell_energize_aoe", "d5/d4e/a15904.html", "d5/d4e/a15904" ],
-    [ "SpellScripts", "dc/de1/a02513.html#a7da1350130e8c0e2dbb048bb6d532048", [
-      [ "SPELL_OOZE_ZAP", "dc/de1/a02513.html#a7da1350130e8c0e2dbb048bb6d532048a1b2971d13842ea79dee4215970f1b0f8", null ],
-      [ "SPELL_OOZE_ZAP_CHANNEL_END", "dc/de1/a02513.html#a7da1350130e8c0e2dbb048bb6d532048a02f7e373b9176afcf3033085c6cc4a1d", null ],
-      [ "SPELL_OOZE_CHANNEL_CREDIT", "dc/de1/a02513.html#a7da1350130e8c0e2dbb048bb6d532048a5e8e7d71235ca347c586316d35c81f2b", null ],
-      [ "SPELL_ENERGIZED", "dc/de1/a02513.html#a7da1350130e8c0e2dbb048bb6d532048a37a0a6328b9098980d1ec0596ddebbca", null ]
-    ] ],
-    [ "AddSC_dustwallow_marsh", "dc/de1/a02513.html#a90fa5d1f62873c538b717bfbfb93251b", null ]
+    [ "HashMapHolder< T >", "d7/d29/a09084.html", "d7/d29/a09084" ],
+    [ "AddObject", "dc/de1/a02513.html#a0726eba7e71a7c6d4f6f90b4dfb410f8", null ],
+    [ "AddObject", "dc/de1/a02513.html#a2f3be0f1bc71493623f991ad879c8be4", null ],
+    [ "FindConnectedPlayer", "dc/de1/a02513.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0", null ],
+    [ "FindPlayer", "dc/de1/a02513.html#a9ede56180a13f102ad195136eadb97ee", null ],
+    [ "FindPlayerByLowGUID", "dc/de1/a02513.html#a106c85352229fc2c097d9e021b4ce297", null ],
+    [ "FindPlayerByName", "dc/de1/a02513.html#af5cb6806842c9689cf1d5f43ffdc4b0a", null ],
+    [ "GetCorpse", "dc/de1/a02513.html#ad7a6a08850b890d65a5e38a77ef92502", null ],
+    [ "GetCreature", "dc/de1/a02513.html#a8d1cda6b98832b29fcb437c654fd8ae9", null ],
+    [ "GetCreatureOrPetOrVehicle", "dc/de1/a02513.html#ae98f0c5bc69acfddbb05d43599b07195", null ],
+    [ "GetDynamicObject", "dc/de1/a02513.html#aad91cd58924cc8a34170b5a5c34ebe77", null ],
+    [ "GetGameObject", "dc/de1/a02513.html#a351a9637e0759a657f3e8fbe3ad0f19f", null ],
+    [ "GetObjectByTypeMask", "dc/de1/a02513.html#a1de63315bb66841e4273ec610b884939", null ],
+    [ "GetPet", "dc/de1/a02513.html#ace68e06f8fc640d94eca642f91b4598e", null ],
+    [ "GetPlayer", "dc/de1/a02513.html#a86236181ddfead8560067378e385f244", null ],
+    [ "GetPlayer", "dc/de1/a02513.html#a46ef20a69ae5c8540a899fe8cdaa999e", null ],
+    [ "GetPlayers", "dc/de1/a02513.html#a868ecab21b3e6e3ac68beed32f4ea793", null ],
+    [ "GetSpawnedCreatureByDBGUID", "dc/de1/a02513.html#a4cebdea9476a004a8a1bd57c40d1f3ae", null ],
+    [ "GetSpawnedGameObjectByDBGUID", "dc/de1/a02513.html#a6639665d2704cbd06727004567caac15", null ],
+    [ "GetTransport", "dc/de1/a02513.html#a4ba6a4a32822e288697d9afd5e67fca7", null ],
+    [ "GetUnit", "dc/de1/a02513.html#a1cb1e2f3906c3bd150a0d18377253d16", null ],
+    [ "GetWorldObject", "dc/de1/a02513.html#a970c7277a8e1bb7b65f78fdee825b2cc", null ],
+    [ "RemoveObject", "dc/de1/a02513.html#a43f4538cfa587672688705f6f7a60edc", null ],
+    [ "RemoveObject", "dc/de1/a02513.html#ad72db398e2ff25a82a93e89fb67c56ff", null ],
+    [ "SaveAllPlayers", "dc/de1/a02513.html#a0fba0222d2e46026727c6e898a7f35bc", null ],
+    [ "UpdatePlayerNameMapReference", "dc/de1/a02513.html#a8a088e6967b9972662d788beffba14d4", null ]
 ];

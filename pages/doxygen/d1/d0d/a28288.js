@@ -1,5 +1,5 @@
 var a28288 =
 [
-    [ "item_petrov_cluster_bombs", "d1/d0d/a28288.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "d1/d0d/a28288.html#a14e8a00a532b5aebc8469ff538848f53", null ]
+    [ "go_duskwither_spire_power_source", "d1/d0d/a28288.html#aab69de16e8b744af2671e2ed882ee94a", null ],
+    [ "OnGossipHello", "d1/d0d/a28288.html#a2c7fd017e7985b99bff187119157a041", null ]
 ];

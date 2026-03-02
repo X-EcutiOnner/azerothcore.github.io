@@ -1,5 +1,6 @@
 var a01892 =
 [
-    [ "AuthSocketMgr", "d8/d7d/a05860.html", "d8/d7d/a05860" ],
-    [ "sAuthSocketMgr", "dc/d31/a01892.html#abd297ee25e8d77bf56f22d43561d9451", null ]
+    [ "LogHeader", "d8/d5e/a11408.html", "d8/d5e/a11408" ],
+    [ "PacketHeader", "d2/df7/a11412.html", "d2/df7/a11412" ],
+    [ "PacketHeader::OptionalData", "d3/def/a11416.html", "d3/def/a11416" ]
 ];

@@ -1,8 +1,7 @@
 var a06144 =
 [
-    [ "BannedAddon", "d5/db3/a06144.html#aadd8cb8602ec03455a91b4f49767fdc8", null ],
-    [ "Id", "d5/db3/a06144.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
-    [ "NameMD5", "d5/db3/a06144.html#a67c4437044d747ff9867a71967697767", null ],
-    [ "Timestamp", "d5/db3/a06144.html#af62257c39a4ae1eba959086e981b0d19", null ],
-    [ "VersionMD5", "d5/db3/a06144.html#acb8dbe824f71363eb81504f43a126d96", null ]
+    [ "arg1", "d5/db3/a06144.html#aa2018e5823bcf013847605847231e3c2", null ],
+    [ "arg2", "d5/db3/a06144.html#a4c8721b050e72556a901be1a4a49c2b6", null ],
+    [ "arg3", "d5/db3/a06144.html#acadf2c3d1d60f8f49fde62b9172980e5", null ],
+    [ "updateType", "d5/db3/a06144.html#a84cace2469c54d57b33abe5ca93588ca", null ]
 ];

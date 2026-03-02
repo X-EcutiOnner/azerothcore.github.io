@@ -1,5 +1,5 @@
 var a04742 =
 [
-    [ "Acore::IteratorPair< iterator >", "d1/dcd/a05680.html", "d1/dcd/a05680" ],
-    [ "MapEqualRange", "d4/dc9/a04742.html#a8700eb31c04be5cf6c6ecc86e76cadad", null ]
+    [ "spellinfo_commandscript", "da/de7/a12248.html", "da/de7/a12248" ],
+    [ "AddSC_spellinfo_commandscript", "d4/dc9/a04742.html#ab9e45d5e5eb40c48734ab273bdb3be64", null ]
 ];

@@ -1,5 +1,7 @@
 var a13080 =
 [
-    [ "go_blackened_urn", "d1/d2a/a13080.html#aaa311353e693a0dd7fd9a6f8e617e0ab", null ],
-    [ "OnGossipHello", "d1/d2a/a13080.html#ab091bd54734acc65532303a391441ee2", null ]
+    [ "boss_maiden_of_virtue", "d1/d2a/a13080.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
+    [ "JustDied", "d1/d2a/a13080.html#a6eded246318f6b47b46f45168e4a8069", null ],
+    [ "JustEngagedWith", "d1/d2a/a13080.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
+    [ "KilledUnit", "d1/d2a/a13080.html#a32dd66a297d11f5ffac1841bae15727a", null ]
 ];

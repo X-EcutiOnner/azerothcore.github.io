@@ -1,9 +1,9 @@
 var a30004 =
 [
-    [ "std::hash< std::pair< uint32_t, uint32_t > >", "d3/dd2/a29016.html", "d3/dd2/a29016" ],
-    [ "MMAP::ResolvedMeshConfig", "de/d07/a29020.html", "de/d07/a29020" ],
-    [ "MMAP::Config", "d7/d0c/a29024.html", "d7/d0c/a29024" ],
-    [ "MMAP::Config::TileOverride", "da/de1/a29028.html", "da/de1/a29028" ],
-    [ "MMAP::Config::MapOverride", "d3/d62/a29032.html", "d3/d62/a29032" ],
-    [ "MMAP::Config::GlobalConfig", "da/d02/a29036.html", "da/d02/a29036" ]
+    [ "Flags", "d9/d38/a30004.html#a4471edebd870d3dfaaf34292341e5f60", null ],
+    [ "Id", "d9/d38/a30004.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
+    [ "Position", "d9/d38/a30004.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
+    [ "Rotation", "d9/d38/a30004.html#a986c3ea05d510db03ec969f0d116fb34", null ],
+    [ "Scale", "d9/d38/a30004.html#af8bcb02c541b9261dbf879353ba6893a", null ],
+    [ "UniqueId", "d9/d38/a30004.html#a374c9893af515badc54b22b2a4d5e024", null ]
 ];

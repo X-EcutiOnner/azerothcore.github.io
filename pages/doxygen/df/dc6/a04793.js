@@ -1,4 +1,4 @@
 var a04793 =
 [
-    [ "Acore::String::Trim< std::string >", "df/dc6/a04793.html#a39e286b6ca47198eba4d5e31cef66aa5", null ]
+    [ "NetworkThread< SocketType >", "d9/de1/a29416.html", "d9/de1/a29416" ]
 ];

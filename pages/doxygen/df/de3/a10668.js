@@ -1,12 +1,17 @@
 var a10668 =
 [
-    [ "Packet", "df/de3/a10668.html#a316af2b7ce1ac7189fb1e57f534bad11", null ],
-    [ "~Packet", "df/de3/a10668.html#a2ca1e6377bb2fb10bf042311e72eb5d4", null ],
-    [ "Packet", "df/de3/a10668.html#a00213b64110a99004b3d9a6b38876cd4", null ],
-    [ "GetRawPacket", "df/de3/a10668.html#a9d8649e1b035fe7387dcee3e0b062a5e", null ],
-    [ "GetSize", "df/de3/a10668.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a", null ],
-    [ "operator=", "df/de3/a10668.html#a6d2afd0d4b0d7daff11868854b7c4715", null ],
-    [ "Read", "df/de3/a10668.html#a94afc4d66c2b5bced3063bab5a666bfd", null ],
-    [ "Write", "df/de3/a10668.html#af7c79156d7b6cfe3142fc530f9ed262a", null ],
-    [ "_worldPacket", "df/de3/a10668.html#ab85f1c9f20117bc5015180165c7b458a", null ]
+    [ "WorldScript", "df/de3/a10668.html#a89b4180130e22738c2898562de6b9145", null ],
+    [ "OnAfterConfigLoad", "df/de3/a10668.html#affadabcae325631b2683ef458c6d13ee", null ],
+    [ "OnAfterUnloadAllMaps", "df/de3/a10668.html#a15bc203d07dd2fef96c2a6d13d3ddd44", null ],
+    [ "OnBeforeConfigLoad", "df/de3/a10668.html#a78baa1285b6495d7beace131dfba8400", null ],
+    [ "OnBeforeFinalizePlayerWorldSession", "df/de3/a10668.html#a480e411f6178e5128bc5e760d9f36d99", null ],
+    [ "OnBeforeWorldInitialized", "df/de3/a10668.html#a8ec0a2cc97986db07698392e5c503571", null ],
+    [ "OnLoadCustomDatabaseTable", "df/de3/a10668.html#af9c5296102d7ef0f716796788650ec4d", null ],
+    [ "OnMotdChange", "df/de3/a10668.html#a3a72e488dd36a672d7aaa0b59fffe154", null ],
+    [ "OnOpenStateChange", "df/de3/a10668.html#a7eab4282e8be8ef2a643478f9fe6e0e2", null ],
+    [ "OnShutdown", "df/de3/a10668.html#a3578707d9be5da90530633a93b4b2bf8", null ],
+    [ "OnShutdownCancel", "df/de3/a10668.html#a322bd84359ac77369d9aa84bc8bf9649", null ],
+    [ "OnShutdownInitiate", "df/de3/a10668.html#a83c76efd3de10b0a35c4a311c44d13c1", null ],
+    [ "OnStartup", "df/de3/a10668.html#a117234aac087ec653c83cfe01a6dce7a", null ],
+    [ "OnUpdate", "df/de3/a10668.html#ad28857965a9f6f993a47c95af6d9c5ad", null ]
 ];

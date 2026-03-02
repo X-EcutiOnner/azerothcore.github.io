@@ -1,16 +1,8 @@
 var a13384 =
 [
-    [ "npc_unworthy_initiateAI", "d9/df7/a13384.html#ae535d3335eb7865400f9e5c24b1dd3b5", null ],
-    [ "EventStart", "d9/df7/a13384.html#a1973d5a14a1ac19be1d74cf57693cabe", null ],
-    [ "JustEngagedWith", "d9/df7/a13384.html#aeedb0af23823ec5c7ff4f951c872552e", null ],
-    [ "MovementInform", "d9/df7/a13384.html#afbf6d71b196067400256df98949ae963", null ],
-    [ "Reset", "d9/df7/a13384.html#aba37cb6291a2e7436f8af796c50dead9", null ],
-    [ "UpdateAI", "d9/df7/a13384.html#a485695877f48aea0bb191e8b312f9c99", null ],
-    [ "anchorGUID", "d9/df7/a13384.html#acb1b338fae07b3ececfc8c15cc5ea80b", null ],
-    [ "anchorX", "d9/df7/a13384.html#a69455d3e3f822c2f2a4f8c3f89e4586d", null ],
-    [ "anchorY", "d9/df7/a13384.html#a67bbfac4014f2907cc9ad9caca80a4be", null ],
-    [ "events", "d9/df7/a13384.html#a4eff6a50c098c3f851274ece860fb6fb", null ],
-    [ "phase", "d9/df7/a13384.html#a299de7b4e1992edebd0a87c119d06d0a", null ],
-    [ "playerGUID", "d9/df7/a13384.html#a02d1e6dd7a302e170b08f0c90f038ca9", null ],
-    [ "wait_timer", "d9/df7/a13384.html#a9270c6e57cf77805769cfe692beefbe0", null ]
+    [ "npc_death_knight_initiateAI", "d4/d34/a13388.html", "d4/d34/a13388" ],
+    [ "npc_death_knight_initiate", "d9/df7/a13384.html#a0c1b552035bed7be9af1fbdf8205b4b6", null ],
+    [ "GetAI", "d9/df7/a13384.html#ac38e0ed0ea1eac8e0de6f08664cb095a", null ],
+    [ "OnGossipHello", "d9/df7/a13384.html#a24f1b91ad0a69e4468e812747225d303", null ],
+    [ "OnGossipSelect", "d9/df7/a13384.html#ab0712bc84003b5eb72f11b49ef6e57a7", null ]
 ];

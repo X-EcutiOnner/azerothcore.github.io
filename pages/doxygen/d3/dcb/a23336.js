@@ -1,12 +1,6 @@
 var a23336 =
 [
-    [ "boss_swamplord_muselek", "d3/dcb/a23336.html#a94ca982b8b9c1785a59040d23e72fc0e", null ],
-    [ "AttackStart", "d3/dcb/a23336.html#a0732fdf14c972ae955eb43417a6d86a1", null ],
-    [ "CanShootVictim", "d3/dcb/a23336.html#af84af5e4b344fc5f5da9f2047519710a", null ],
-    [ "JustDied", "d3/dcb/a23336.html#a4020748c43bf03cb338e3d64a1dfd840", null ],
-    [ "JustEngagedWith", "d3/dcb/a23336.html#a7b22bff5b78dcd1e5e1cc42858735655", null ],
-    [ "KilledUnit", "d3/dcb/a23336.html#a9f2afd6aacb9befa956079a42fbace37", null ],
-    [ "Reset", "d3/dcb/a23336.html#a6e03d7feca2de668c82d8f056d95fc6a", null ],
-    [ "_canChase", "d3/dcb/a23336.html#aca3298f0e9bbbd7366f4e6456cfff621", null ],
-    [ "_markTarget", "d3/dcb/a23336.html#a957d3f9ad935dbfa0537c75e39316ce3", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d3/dcb/a23336.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
+    [ "OnGameObjectCreate", "d3/dcb/a23336.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
+    [ "SetBossState", "d3/dcb/a23336.html#ab1e344fbf169ee40f28741217f3dca14", null ]
 ];

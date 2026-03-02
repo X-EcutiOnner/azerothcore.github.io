@@ -1,7 +1,6 @@
 var a26864 =
 [
-    [ "CheckProc", "d7/dcf/a26864.html#a068e3d66059d0d34b39ef43bc259eb70", null ],
-    [ "HandleProc", "d7/dcf/a26864.html#ac3da721ff9df529738eeb33e95fb0dac", null ],
-    [ "PrepareAuraScript", "d7/dcf/a26864.html#ab346f33f7d467f89c9bc9ecc569a8c8c", null ],
-    [ "Register", "d7/dcf/a26864.html#afa041c16f5d6c80aa74402fbdbea1701", null ]
+    [ "HandleDamage", "d7/dcf/a26864.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
+    [ "PrepareSpellScript", "d7/dcf/a26864.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
+    [ "Register", "d7/dcf/a26864.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
 ];

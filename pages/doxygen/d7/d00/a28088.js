@@ -1,6 +1,8 @@
 var a28088 =
 [
-    [ "go_tadpole_cageAI", "dd/d12/a28092.html", "dd/d12/a28092" ],
-    [ "go_tadpole_cage", "d7/d00/a28088.html#a1a9acacd0ebff33d402018d4205e415b", null ],
-    [ "GetAI", "d7/d00/a28088.html#a38990dc5edd725623b6c35dba7802612", null ]
+    [ "FilterTargets", "d7/d00/a28088.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
+    [ "HandleEffect", "d7/d00/a28088.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
+    [ "PrepareSpellScript", "d7/d00/a28088.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
+    [ "Register", "d7/d00/a28088.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
+    [ "Validate", "d7/d00/a28088.html#aabc063155fad404ffd044c9f79b88051", null ]
 ];

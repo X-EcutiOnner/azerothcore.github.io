@@ -1,8 +1,6 @@
 var a18980 =
 [
-    [ "DecayPeriodicTimer", "d0/dd4/a18980.html#a314ac33692cc352c490ec3d87177d67a", null ],
-    [ "Load", "d0/dd4/a18980.html#af5a498253c4c382df3b2462a30448a64", null ],
-    [ "PrepareAuraScript", "d0/dd4/a18980.html#ac5d4ee199b49e04499997355ac054554", null ],
-    [ "Register", "d0/dd4/a18980.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
-    [ "_decayRate", "d0/dd4/a18980.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
+    [ "npc_blistering_zombieAI", "db/da3/a18984.html", "db/da3/a18984" ],
+    [ "npc_blistering_zombie", "d0/dd4/a18980.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
+    [ "GetAI", "d0/dd4/a18980.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
 ];

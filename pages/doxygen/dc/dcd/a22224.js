@@ -1,6 +1,6 @@
 var a22224 =
 [
-    [ "CheckCast", "dc/dcd/a22224.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
-    [ "PrepareSpellScript", "dc/dcd/a22224.html#ab4025d8a4acee4723dcca972bce01f45", null ],
-    [ "Register", "dc/dcd/a22224.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
+    [ "npc_icefangAI", "d6/dbc/a22228.html", "d6/dbc/a22228" ],
+    [ "npc_icefang", "dc/dcd/a22224.html#a2e13be89b110abaa2509e597e4cf883a", null ],
+    [ "GetAI", "dc/dcd/a22224.html#ad1a936b1eef30271912054a817e0c9f8", null ]
 ];

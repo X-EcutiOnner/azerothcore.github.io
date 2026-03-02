@@ -1,8 +1,19 @@
 var a11476 =
 [
-    [ "SkillDiscoveryEntry", "dc/d6f/a11476.html#a54c0f12153c6e63a37e5da44d233b271", null ],
-    [ "SkillDiscoveryEntry", "dc/d6f/a11476.html#a301cae078fe1943cae045e94dc3d38ad", null ],
-    [ "chance", "dc/d6f/a11476.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
-    [ "reqSkillValue", "dc/d6f/a11476.html#a61e0edc8fee1fa4045d846668d08449c", null ],
-    [ "spellId", "dc/d6f/a11476.html#a75ca40729917317173b2953c8f47f833", null ]
+    [ "PacketThrottlingMap", "dc/d6f/a11476.html#aa41dd21032403490c49a400651c98855", null ],
+    [ "Policy", "dc/d6f/a11476.html#abdee2870dbaa3341ecd6f682f87a63aa", [
+      [ "Process", "dc/d6f/a11476.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe", null ],
+      [ "Kick", "dc/d6f/a11476.html#abdee2870dbaa3341ecd6f682f87a63aaa3e07960fcc45408894cf1402257bd9fd", null ],
+      [ "Ban", "dc/d6f/a11476.html#abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9", null ],
+      [ "Log", "dc/d6f/a11476.html#abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b", null ],
+      [ "BlockingThrottle", "dc/d6f/a11476.html#abdee2870dbaa3341ecd6f682f87a63aaa1974493f69f8fbf2eb0a63a852d132bb", null ],
+      [ "DropPacket", "dc/d6f/a11476.html#abdee2870dbaa3341ecd6f682f87a63aaa3bd03342168b3845d34fccaf6543c970", null ]
+    ] ],
+    [ "DosProtection", "dc/d6f/a11476.html#a8e43f21b9c729db604c9afd90f68dc20", null ],
+    [ "DosProtection", "dc/d6f/a11476.html#a8850d18ae254633f6bde5c85cbcef830", null ],
+    [ "EvaluateOpcode", "dc/d6f/a11476.html#a575c7bcb895ad0a3d0456f0a99ee5ec7", null ],
+    [ "operator=", "dc/d6f/a11476.html#a98394089b867ff6e8107b7975a67737d", null ],
+    [ "World", "dc/d6f/a11476.html#a7b4bcdf992c21ae83363f25df05b1d25", null ],
+    [ "_PacketThrottlingMap", "dc/d6f/a11476.html#ab74f0cf257d3db9076e3a8771de63eb3", null ],
+    [ "Session", "dc/d6f/a11476.html#a3f3f5397fb30cdf14141480659b18208", null ]
 ];

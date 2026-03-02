@@ -1,8 +1,6 @@
 var a16720 =
 [
-    [ "npc_toc5_player_vehicleAI", "d5/d33/a16720.html#afa00a6254b482aae5397be04860ac8ba", null ],
-    [ "BeforeSpellClick", "d5/d33/a16720.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
-    [ "OnCharmed", "d5/d33/a16720.html#ace805882a25a9d075d811714e607fa2b", null ],
-    [ "PassengerBoarded", "d5/d33/a16720.html#aca35804df751185193ff5865255d3687", null ],
-    [ "Reset", "d5/d33/a16720.html#a5439b98d544124836d2cf9762f764cea", null ]
+    [ "boss_black_knightAI", "da/d86/a16724.html", "da/d86/a16724" ],
+    [ "boss_black_knight", "d5/d33/a16720.html#af55a307f282a68bc83e45c6de647ebf4", null ],
+    [ "GetAI", "d5/d33/a16720.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
 ];

@@ -1,8 +1,8 @@
 var a21444 =
 [
-    [ "HandleEffectRemove", "dc/dd7/a21444.html#aa2b05befb775244423264f6b5e2387c1", null ],
-    [ "Load", "dc/dd7/a21444.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
-    [ "PrepareAuraScript", "dc/dd7/a21444.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
-    [ "Register", "dc/dd7/a21444.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
-    [ "Validate", "dc/dd7/a21444.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
+    [ "npc_azure_captainAI", "dc/dd7/a21444.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
+    [ "Reset", "dc/dd7/a21444.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
+    [ "UpdateAI", "dc/dd7/a21444.html#ae50ac21138e12be43caa93e37062051e", null ],
+    [ "uiMortalStrikeTimer", "dc/dd7/a21444.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
+    [ "uiWhirlwindTimer", "dc/dd7/a21444.html#a2e3439976a6e84a60be765cb0b929798", null ]
 ];

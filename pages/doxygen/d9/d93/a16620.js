@@ -1,7 +1,7 @@
 var a16620 =
 [
-    [ "HandleDummy", "d9/d93/a16620.html#a687cff5dcfcd7d9253182eb604d7a780", null ],
-    [ "PrepareSpellScript", "d9/d93/a16620.html#ab8544e2c9e3bea229abd270c108bfa14", null ],
-    [ "Register", "d9/d93/a16620.html#a144224b42aabc0402b729dcc808d779d", null ],
-    [ "Validate", "d9/d93/a16620.html#a985e843e856a7322bccf8544c45df48c", null ]
+    [ "TwilightCutterSelector", "d9/d93/a16620.html#accea6e932c44d083fbb4dc41c5102b3d", null ],
+    [ "operator()", "d9/d93/a16620.html#a6374425df156bdf202d53a2c73ef784c", null ],
+    [ "_caster", "d9/d93/a16620.html#a784c95ef6472e711f4200f194222d179", null ],
+    [ "_cutterCaster", "d9/d93/a16620.html#a7f713777a36a8d127c2865e4610b1288", null ]
 ];

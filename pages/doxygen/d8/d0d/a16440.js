@@ -1,7 +1,10 @@
 var a16440 =
 [
-    [ "DelayedTalk", "d8/d0d/a16440.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
-    [ "Execute", "d8/d0d/a16440.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
-    [ "_owner", "d8/d0d/a16440.html#a9d13769bb3fbaed32919fc919da35006", null ],
-    [ "_talkId", "d8/d0d/a16440.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
+    [ "boss_sartharion_tenebron", "d8/d0d/a16440.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
+    [ "ClearInstance", "d8/d0d/a16440.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
+    [ "ExecuteEvent", "d8/d0d/a16440.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
+    [ "JustDied", "d8/d0d/a16440.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
+    [ "JustSummoned", "d8/d0d/a16440.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
+    [ "Reset", "d8/d0d/a16440.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
+    [ "summons2", "d8/d0d/a16440.html#a59b131fcd2298640390fcd0f662f132d", null ]
 ];

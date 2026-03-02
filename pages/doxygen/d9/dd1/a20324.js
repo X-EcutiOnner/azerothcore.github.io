@@ -1,6 +1,5 @@
 var a20324 =
 [
-    [ "achievement_freya_knock_on_wood", "d9/dd1/a20324.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
-    [ "OnCheck", "d9/dd1/a20324.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
-    [ "_elderCount", "d9/dd1/a20324.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
+    [ "boss_freya_iron_root", "d9/dd1/a20324.html#af35a268c89c025d95c13ea8c87d6516e", null ],
+    [ "JustDied", "d9/dd1/a20324.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ]
 ];

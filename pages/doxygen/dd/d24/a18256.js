@@ -1,6 +1,6 @@
 var a18256 =
 [
-    [ "UnboundPlagueTargetSelector", "dd/d24/a18256.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "dd/d24/a18256.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "dd/d24/a18256.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "npc_bone_spikeAI", "d9/d64/a18260.html", "d9/d64/a18260" ],
+    [ "npc_bone_spike", "dd/d24/a18256.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
+    [ "GetAI", "dd/d24/a18256.html#a887a9156f550ca55047fa501e1709d95", null ]
 ];

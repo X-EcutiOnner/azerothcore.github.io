@@ -1,7 +1,7 @@
 var a21844 =
 [
-    [ "HandleScriptEffect", "df/db2/a21844.html#a2d39a073c351860db735301b4cf9c79f", null ],
-    [ "PrepareSpellScript", "df/db2/a21844.html#a3674adaef23f1531af360a65c14efadd", null ],
-    [ "Register", "df/db2/a21844.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
-    [ "Validate", "df/db2/a21844.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
+    [ "npc_emilyAI", "d5/df6/a21848.html", "d5/df6/a21848" ],
+    [ "npc_emily", "df/db2/a21844.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "df/db2/a21844.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "df/db2/a21844.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

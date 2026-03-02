@@ -1,6 +1,8 @@
 var a26468 =
 [
-    [ "HandleDummy", "d1/db2/a26468.html#acb433ef020fbd090259ac969a35842ea", null ],
-    [ "PrepareSpellScript", "d1/db2/a26468.html#a9440e067db7bc5c48c973dfd61f1a95e", null ],
-    [ "Register", "d1/db2/a26468.html#a349e674aa5e07f59dc0a0d78a25aa0cd", null ]
+    [ "Absorb", "d1/db2/a26468.html#a9378cde1cc6daab0dc111b94aef4f6c8", null ],
+    [ "CalculateAmount", "d1/db2/a26468.html#a20d5b4776ebeb859b0641af640e41d80", null ],
+    [ "PrepareAuraScript", "d1/db2/a26468.html#ae1a70e11e89c4252e481ad737ad00ae0", null ],
+    [ "Register", "d1/db2/a26468.html#a8c5399ba68554f4c2e842c5492ad715c", null ],
+    [ "Validate", "d1/db2/a26468.html#aa6264e4dbff71b0d82e3403984c59c03", null ]
 ];

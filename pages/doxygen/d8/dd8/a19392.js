@@ -1,6 +1,10 @@
 var a19392 =
 [
-    [ "boss_faerlinaAI", "d6/d4a/a19396.html", "d6/d4a/a19396" ],
-    [ "boss_faerlina", "d8/dd8/a19392.html#a86543ac855287e3de2e3ffcde66fb1cb", null ],
-    [ "GetAI", "d8/dd8/a19392.html#aed8214323ff5b792d9bd6aae478e7848", null ]
+    [ "boss_isle_of_conquestAI", "d8/dd8/a19392.html#a7880ea86e7a03f5b14875065a83a206a", null ],
+    [ "CheckRageBuff", "d8/dd8/a19392.html#a6d60480e39fa89dbcc0facce9f0b69a3", null ],
+    [ "JustEngagedWith", "d8/dd8/a19392.html#a878635ef0673325943e6026ad76c2b06", null ],
+    [ "Reset", "d8/dd8/a19392.html#add59669e5f6c3c882ac008c720349573", null ],
+    [ "UpdateAI", "d8/dd8/a19392.html#ab33aa7e735c5837428a4cf2b76e4275e", null ],
+    [ "events", "d8/dd8/a19392.html#a38e308b66b0f35d3efe6916b03e4391c", null ],
+    [ "rage", "d8/dd8/a19392.html#aa16ebdd6e2f486d3a6e4b58f4cb5e696", null ]
 ];

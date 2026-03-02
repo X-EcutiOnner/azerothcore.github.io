@@ -1,8 +1,5 @@
 var a29280 =
 [
-    [ "NoRuneCost", "dc/d2f/a29280.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
-    [ "NoRunicPowerGain", "dc/d2f/a29280.html#a97da075ecd116ef27fd4265bb8380667", null ],
-    [ "ID", "dc/d2f/a29280.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
-    [ "RuneCost", "dc/d2f/a29280.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
-    [ "runePowerGain", "dc/d2f/a29280.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
+    [ "ID", "dc/d2f/a29280.html#a142c8a5e22234e6317ff113618559b8b", null ],
+    [ "Value", "dc/d2f/a29280.html#a693631ac3ce915a1c4adf565517eacf9", null ]
 ];

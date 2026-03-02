@@ -1,6 +1,6 @@
 var a19336 =
 [
-    [ "npc_isle_of_conquest_turretAI", "d2/d03/a19340.html", "d2/d03/a19340" ],
-    [ "npc_isle_of_conquest_turret", "d3/d48/a19336.html#ac080845203adef25e6841133b7e2f4dc", null ],
-    [ "GetAI", "d3/d48/a19336.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
+    [ "icecrown_citadel_teleport", "d3/d48/a19336.html#ab74d5962073dcf3b4488c33aaa935377", null ],
+    [ "OnGossipHello", "d3/d48/a19336.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
+    [ "OnGossipSelect", "d3/d48/a19336.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
 ];

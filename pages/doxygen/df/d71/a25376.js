@@ -1,8 +1,6 @@
 var a25376 =
 [
-    [ "HandleApply", "df/d71/a25376.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
-    [ "OnPeriodic", "df/d71/a25376.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
-    [ "PrepareAuraScript", "df/d71/a25376.html#a344d1a92623865876174c0e88ce8ab4b", null ],
-    [ "Register", "df/d71/a25376.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
-    [ "Validate", "df/d71/a25376.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
+    [ "CheckRequirement", "df/d71/a25376.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
+    [ "PrepareSpellScript", "df/d71/a25376.html#aebb88f5ea803a590a099e4e6427d8276", null ],
+    [ "Register", "df/d71/a25376.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
 ];

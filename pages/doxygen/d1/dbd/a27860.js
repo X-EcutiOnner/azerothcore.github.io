@@ -1,7 +1,6 @@
 var a27860 =
 [
-    [ "HandleProc", "d1/dbd/a27860.html#ae41ac4278c643bcd14ff4ab0ecc6dc46", null ],
-    [ "PrepareAuraScript", "d1/dbd/a27860.html#abdb4073728e7e637a8538a238eda2f6d", null ],
-    [ "Register", "d1/dbd/a27860.html#a052f2a48c2b30b5e83c95eb4aada0899", null ],
-    [ "Validate", "d1/dbd/a27860.html#a04085f70b61ea7ff2073a1cd777eca1b", null ]
+    [ "HandleEffectCalcSpellMod", "d1/dbd/a27860.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
+    [ "PrepareAuraScript", "d1/dbd/a27860.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
+    [ "Register", "d1/dbd/a27860.html#af60592a9f1e595f31814eae405d03d5a", null ]
 ];

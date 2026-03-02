@@ -1,7 +1,7 @@
 var a21960 =
 [
-    [ "npc_battle_at_valhalasAI", "db/dcd/a21964.html", "db/dcd/a21964" ],
-    [ "npc_battle_at_valhalas", "d3/d44/a21960.html#aacec717b5b91ae55307c9642779c15ec", null ],
-    [ "GetAI", "d3/d44/a21960.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
-    [ "OnQuestAccept", "d3/d44/a21960.html#addd76fd9f4b4f8ce706693614b80966b", null ]
+    [ "HandleScriptEffect", "d3/d44/a21960.html#a7b0fca053f225beda41942d8fee86383", null ],
+    [ "PrepareSpellScript", "d3/d44/a21960.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
+    [ "Register", "d3/d44/a21960.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
+    [ "Validate", "d3/d44/a21960.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
 ];

@@ -1,8 +1,7 @@
 var a27236 =
 [
-    [ "HandleDummy", "db/df3/a27236.html#a308880cf9c61c76de0fdee05fff2b463", null ],
-    [ "Load", "db/df3/a27236.html#acafb9d6ac4fde694dc44cbf13b7f97ad", null ],
-    [ "PrepareSpellScript", "db/df3/a27236.html#a3a2672c39f36229c0dd6cdea0fad3299", null ],
-    [ "Register", "db/df3/a27236.html#a1857b342ae34a57f079f45019645c688", null ],
-    [ "Validate", "db/df3/a27236.html#a121c30045281eab5fee4f65d38d1dfc3", null ]
+    [ "CalcPeriodic", "db/df3/a27236.html#af787d0c8738284e757f808e7d138bdc6", null ],
+    [ "PrepareAuraScript", "db/df3/a27236.html#a383db196133bbecee06fe443fdb1bc24", null ],
+    [ "Register", "db/df3/a27236.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
+    [ "Update", "db/df3/a27236.html#af3f4a7b82e099313d609df7f85f02d00", null ]
 ];

@@ -1,17 +1,10 @@
 var a10172 =
 [
-    [ "ConfusedMovementGenerator", "db/d67/a10172.html#a694dd083a1c01378e4877939f78309b8", null ],
-    [ "_InitSpecific", "db/d67/a10172.html#aea922e45838ab8a9cfe1787f0f7c169c", null ],
-    [ "_InitSpecific", "db/d67/a10172.html#a212665e4306ca335181c255573d30a06", null ],
-    [ "_InitSpecific", "db/d67/a10172.html#af597e5c544e56c255b179a08290f4ccb", null ],
-    [ "DoFinalize", "db/d67/a10172.html#a9e2a3f0e1a99436b33a883a1ac797f43", null ],
-    [ "DoFinalize", "db/d67/a10172.html#a82c2458b43334f06cae1a91224753fd3", null ],
-    [ "DoFinalize", "db/d67/a10172.html#ab18018803d8e194e9d2220eb8c6450ac", null ],
-    [ "DoInitialize", "db/d67/a10172.html#a8f1e9d0e00517b0d7f88b4213fd25104", null ],
-    [ "DoReset", "db/d67/a10172.html#a734a73ffa4008898a170b913aafce899", null ],
-    [ "DoUpdate", "db/d67/a10172.html#a8703ba139d90194a481388a543a14de6", null ],
-    [ "GetMovementGeneratorType", "db/d67/a10172.html#a3f0760b38745b9e065e069d6ad984d51", null ],
-    [ "i_nextMove", "db/d67/a10172.html#ad36fe1fd2d07af01691a319c425dc92c", null ],
-    [ "i_nextMoveTime", "db/d67/a10172.html#ad7b5bb65d55f6149e8df8cb4e2cdda50", null ],
-    [ "i_waypoints", "db/d67/a10172.html#a02b83b879cc31fb1a0e2f90e97556ba1", null ]
+    [ "ChaseRange", "db/d67/a10172.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
+    [ "ChaseRange", "db/d67/a10172.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
+    [ "ChaseRange", "db/d67/a10172.html#a397b3789449b1c178f11f64313498c4d", null ],
+    [ "MaxRange", "db/d67/a10172.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
+    [ "MaxTolerance", "db/d67/a10172.html#a7909b18028d43c84eca5feee3e41469c", null ],
+    [ "MinRange", "db/d67/a10172.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
+    [ "MinTolerance", "db/d67/a10172.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
 ];

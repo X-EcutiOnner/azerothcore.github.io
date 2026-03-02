@@ -1,8 +1,10 @@
 var a09656 =
 [
-    [ "AllCreaturesOfEntryInRange", "da/d85/a09656.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
-    [ "operator()", "da/d85/a09656.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
-    [ "m_fRange", "da/d85/a09656.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
-    [ "m_pObject", "da/d85/a09656.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
-    [ "m_uiEntry", "da/d85/a09656.html#abf653360d2ee482728fb137a37fe0512", null ]
+    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "da/d85/a09656.html#aa9f15d071efe7ca7bb975489fec2afbd", null ],
+    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "da/d85/a09656.html#a1e25384d08beeee84d83e401f5a5a565", null ],
+    [ "operator()", "da/d85/a09656.html#abc2ab6f33a6a58a6e692cc32e8139839", null ],
+    [ "i_alive", "da/d85/a09656.html#a7a01388f86d25fa0728d94c6e1a7f752", null ],
+    [ "i_entry", "da/d85/a09656.html#ae2bf2c0a0f431f5de445fbee26b60a57", null ],
+    [ "i_obj", "da/d85/a09656.html#aa0340c79c37f3494b01c52f034705aa4", null ],
+    [ "i_range", "da/d85/a09656.html#a695af00612b17e0182ad76a5c3be2356", null ]
 ];

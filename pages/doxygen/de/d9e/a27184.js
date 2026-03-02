@@ -1,6 +1,9 @@
 var a27184 =
 [
-    [ "PrepareAuraScript", "de/d9e/a27184.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
-    [ "Register", "de/d9e/a27184.html#a91f4b2b8796c7efab2f622893a393619", null ],
-    [ "AuraEffectHandleModes", "de/d9e/a27184.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
+    [ "HandleKnockBack", "de/d9e/a27184.html#acaa8f445874270f34ea5b42a506671db", null ],
+    [ "HandleScript", "de/d9e/a27184.html#a29e47298601cb55c5442a3fa59bb3646", null ],
+    [ "Load", "de/d9e/a27184.html#a45700aba665b601b2c860af5a869d1af", null ],
+    [ "PrepareSpellScript", "de/d9e/a27184.html#aad1c175a2611152278d847ac59f93090", null ],
+    [ "Register", "de/d9e/a27184.html#ad790d435f422fabd128e601fb2dff103", null ],
+    [ "Validate", "de/d9e/a27184.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
 ];

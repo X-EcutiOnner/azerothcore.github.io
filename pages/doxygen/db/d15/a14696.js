@@ -1,7 +1,9 @@
 var a14696 =
 [
-    [ "HandleScriptEffect", "db/d15/a14696.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
-    [ "PrepareSpellScript", "db/d15/a14696.html#a3d906994c11e52e89c842189be73ddfd", null ],
-    [ "Register", "db/d15/a14696.html#a4cdab36e2265c696207a39e16549ab13", null ],
-    [ "Validate", "db/d15/a14696.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
+    [ "npc_brew_bubble", "db/d15/a14696.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
+    [ "DoAction", "db/d15/a14696.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
+    [ "MoveInLineOfSight", "db/d15/a14696.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
+    [ "Reset", "db/d15/a14696.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
+    [ "UpdateAI", "db/d15/a14696.html#a25018deaa206620f6e98ba722f689b8d", null ],
+    [ "timer", "db/d15/a14696.html#a4bee73add756ba4b3137818b2dacd27f", null ]
 ];

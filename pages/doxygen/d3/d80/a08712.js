@@ -1,20 +1,25 @@
 var a08712 =
 [
-    [ "CinematicMgr", "d3/d80/a08712.html#a95547140d5718eb7fb4a8242a6e6de05", null ],
-    [ "~CinematicMgr", "d3/d80/a08712.html#ac56017a73bed15eadfdb6d17891328ff", null ],
-    [ "BeginCinematic", "d3/d80/a08712.html#a94ef6fc060617708b7bfd3a8c311e519", null ],
-    [ "EndCinematic", "d3/d80/a08712.html#a8a47c7cff4414c6aea3aa31fa483cc60", null ],
-    [ "GetActiveCinematicCamera", "d3/d80/a08712.html#a0535dee9b0ec7aa6176809c6dca16b30", null ],
-    [ "IsOnCinematic", "d3/d80/a08712.html#a904cb7a2db9b9e92e8539b736487ad0e", null ],
-    [ "SetActiveCinematicCamera", "d3/d80/a08712.html#afa5c37702ecdb71e09e552b92fa5ad71", null ],
-    [ "UpdateCinematicLocation", "d3/d80/a08712.html#afdcf4c2361f5ce445b1dfc013cf3348d", null ],
-    [ "Player", "d3/d80/a08712.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "m_activeCinematicCameraId", "d3/d80/a08712.html#ab8cd685c623be2b2609a71e8c4ebb740", null ],
-    [ "m_cinematicCamera", "d3/d80/a08712.html#a0c527989b49df340a268b8f69911377c", null ],
-    [ "m_cinematicDiff", "d3/d80/a08712.html#a398e47385916c712677268bed43f7955", null ],
-    [ "m_cinematicLength", "d3/d80/a08712.html#a60c48bec98a06c5cc0e50268df35c9cd", null ],
-    [ "m_CinematicObject", "d3/d80/a08712.html#a969e4ab19088fd45f3ba9483efa2e481", null ],
-    [ "m_lastCinematicCheck", "d3/d80/a08712.html#a50c42e2f39ba97a39ee31043dec17337", null ],
-    [ "m_remoteSightPosition", "d3/d80/a08712.html#ae4f473744f0e3ad43ef51dbf30f62f55", null ],
-    [ "player", "d3/d80/a08712.html#a00099569f6f2b683d4d5640bf971bf2d", null ]
+    [ "ClientUpdateMaskType", "d3/d80/a08712.html#a7638c508cfb0f5480eec2f9d650b0eb4", null ],
+    [ "UpdateMaskCount", "d3/d80/a08712.html#a667c2f210ee4a2417a2a3ba486d1332f", [
+      [ "CLIENT_UPDATE_MASK_BITS", "d3/d80/a08712.html#a667c2f210ee4a2417a2a3ba486d1332fac06e5fd027ae17cd4eaf7faa2580098b", null ]
+    ] ],
+    [ "UpdateMask", "d3/d80/a08712.html#a72e9de07108361222addde025ea8362f", null ],
+    [ "UpdateMask", "d3/d80/a08712.html#ae0cefda1282f8c29a6557e1c25e007de", null ],
+    [ "~UpdateMask", "d3/d80/a08712.html#a986a2b81e0b4f86486ccc455ff6ad79a", null ],
+    [ "AppendToPacket", "d3/d80/a08712.html#afe89109ca16f687072062408e311f793", null ],
+    [ "Clear", "d3/d80/a08712.html#a39cffd3822966011d83d7241ee3c5548", null ],
+    [ "GetBit", "d3/d80/a08712.html#a69f7c72de49699d5730f3a10d55f30e2", null ],
+    [ "GetBlockCount", "d3/d80/a08712.html#a5c0d2086346e4522e422add9622e1117", null ],
+    [ "GetCount", "d3/d80/a08712.html#a1f6e2b930533b303c173166bf3588613", null ],
+    [ "operator&=", "d3/d80/a08712.html#af15db8c732b94437fd1323a911eab5ce", null ],
+    [ "operator=", "d3/d80/a08712.html#a3c94144194d52a00888b8bb0760e2d5a", null ],
+    [ "operator|", "d3/d80/a08712.html#a487d62a6a039803da615d265a176f138", null ],
+    [ "operator|=", "d3/d80/a08712.html#a81b64e6574c61533b07491920eddf413", null ],
+    [ "SetBit", "d3/d80/a08712.html#af3390cfa31c39629968a871be2c763fc", null ],
+    [ "SetCount", "d3/d80/a08712.html#ad6ec4d5a2b6a85a2ec72b559efbdeb35", null ],
+    [ "UnsetBit", "d3/d80/a08712.html#aaac0596975c08d04736996c608eff29f", null ],
+    [ "_bits", "d3/d80/a08712.html#ab34e66bf840ac230da0cfa35ef332145", null ],
+    [ "_blockCount", "d3/d80/a08712.html#ad58cc5d2dbf8854f36ef4a19f5b6f51b", null ],
+    [ "_fieldCount", "d3/d80/a08712.html#a6c7ed53833620c2754b1e0db85a96ece", null ]
 ];

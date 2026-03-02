@@ -1,6 +1,12 @@
 var a15216 =
 [
-    [ "npc_crate_helperAI", "da/deb/a15216.html#ad58a2f3746da7862658fb3b9e1580836", null ],
-    [ "SpellHit", "da/deb/a15216.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
-    [ "_marked", "da/deb/a15216.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
+    [ "boss_mal_ganisAI", "da/deb/a15216.html#aa8b70930372cd0729686f7c6032d3152", null ],
+    [ "DamageTaken", "da/deb/a15216.html#a4873386266ce3b4b849377028ff746a5", null ],
+    [ "JustDied", "da/deb/a15216.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
+    [ "JustEngagedWith", "da/deb/a15216.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
+    [ "KilledUnit", "da/deb/a15216.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
+    [ "Reset", "da/deb/a15216.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
+    [ "UpdateAI", "da/deb/a15216.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
+    [ "events", "da/deb/a15216.html#a194c002efe244b8c94a072faf72be771", null ],
+    [ "finished", "da/deb/a15216.html#ac4c90c814aa55781f863c958253e9df2", null ]
 ];

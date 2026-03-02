@@ -1,6 +1,6 @@
 var a18612 =
 [
-    [ "VileSpiritActivateEvent", "d4/de5/a18612.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
-    [ "Execute", "d4/de5/a18612.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
-    [ "_owner", "d4/de5/a18612.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
+    [ "HandleScript", "d4/de5/a18612.html#a038a827f7fe179ff56ab581efdf08790", null ],
+    [ "PrepareSpellScript", "d4/de5/a18612.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
+    [ "Register", "d4/de5/a18612.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
 ];

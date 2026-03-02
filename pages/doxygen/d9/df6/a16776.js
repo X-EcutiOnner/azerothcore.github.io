@@ -1,6 +1,6 @@
 var a16776 =
 [
-    [ "npc_frost_sphereAI", "d6/de7/a16780.html", "d6/de7/a16780" ],
-    [ "npc_frost_sphere", "d9/df6/a16776.html#a0256ba1c53853307f8b66e22b10bef24", null ],
-    [ "GetAI", "d9/df6/a16776.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
+    [ "instance_trial_of_the_champion_InstanceMapScript", "d6/de7/a16780.html", "d6/de7/a16780" ],
+    [ "instance_trial_of_the_champion", "d9/df6/a16776.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
+    [ "GetInstanceScript", "d9/df6/a16776.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
 ];

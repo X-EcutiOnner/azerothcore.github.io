@@ -1,6 +1,6 @@
 var a23564 =
 [
-    [ "boss_porung", "db/d48/a23564.html#acef31010461bbf716ac9b13d950807ee", null ],
-    [ "JustDied", "db/d48/a23564.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
-    [ "JustEngagedWith", "db/d48/a23564.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "d4/d75/a23568.html", "d4/d75/a23568" ],
+    [ "instance_magtheridons_lair", "db/d48/a23564.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
+    [ "GetInstanceScript", "db/d48/a23564.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
 ];

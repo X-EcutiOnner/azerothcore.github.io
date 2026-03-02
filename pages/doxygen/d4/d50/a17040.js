@@ -1,5 +1,4 @@
 var a17040 =
 [
-    [ "boss_fjolaAI", "d4/d50/a17040.html#aa46fdff841d01f28ef50aa5363082f71", null ],
-    [ "JustSummoned", "d4/d50/a17040.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
+    [ "boss_acidmawAI", "d4/d50/a17040.html#a185e04be9d28b9ac6755ade2cd552293", null ]
 ];

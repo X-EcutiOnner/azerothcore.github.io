@@ -1,8 +1,8 @@
 var a20220 =
 [
-    [ "OnApply", "d8/d56/a20220.html#a5aec8606684637bbdb1e819254f5d483", null ],
-    [ "OnRemove", "d8/d56/a20220.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
-    [ "PrepareAuraScript", "d8/d56/a20220.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
-    [ "Register", "d8/d56/a20220.html#af1db6ca387cf0733ba4b9c324172d692", null ],
-    [ "Validate", "d8/d56/a20220.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
+    [ "npc_brann_radio", "d8/d56/a20220.html#ac0f1b9db5b095ea5e97f49a5ef3588a0", null ],
+    [ "MoveInLineOfSight", "d8/d56/a20220.html#a482ab5ff1f6be5d2b57641d5e33a3b1b", null ],
+    [ "Reset", "d8/d56/a20220.html#a9363543a849ecb8ca98667139e20fbfd", null ],
+    [ "_helpLock", "d8/d56/a20220.html#a98a53f2d964550aad50cdef15b5352a7", null ],
+    [ "_lock", "d8/d56/a20220.html#a11d11dac41498eb97bff3892e29d49d4", null ]
 ];

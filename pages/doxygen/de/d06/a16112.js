@@ -1,7 +1,6 @@
 var a16112 =
 [
-    [ "npc_paoka_swiftmountainAI", "de/d06/a16112.html#a92a229f76de3bc46ae14910439db0004", null ],
-    [ "DoSpawnWyvern", "de/d06/a16112.html#a7997a3d398db82c205e3a8af77ac1684", null ],
-    [ "Reset", "de/d06/a16112.html#acae0427957aba04a54e6001823bc7eb4", null ],
-    [ "WaypointReached", "de/d06/a16112.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
+    [ "npc_taskmaster_fizzuleAI", "dd/db6/a16116.html", "dd/db6/a16116" ],
+    [ "npc_taskmaster_fizzule", "de/d06/a16112.html#aa42e6cc1a3ac58ea79f5184f7bb293a9", null ],
+    [ "GetAI", "de/d06/a16112.html#a6281de7424932fe6580ffefa199498d9", null ]
 ];

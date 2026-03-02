@@ -1,9 +1,21 @@
 var a09808 =
 [
-    [ "EmoteChatBuilder", "de/df1/a09808.html#ae1aeb36aad24d5ef28074edfbf2f9e7e", null ],
-    [ "operator()", "de/df1/a09808.html#a133a7bb35e86cf40425910c4f19a3337", null ],
-    [ "i_emote_num", "de/df1/a09808.html#a966b8afcbf5afca3a3466d8e075a9437", null ],
-    [ "i_player", "de/df1/a09808.html#ae09dbfe01b2a24e57b63b2b1df5ad232", null ],
-    [ "i_target", "de/df1/a09808.html#abc538e056d91ea1ee8d6203c96174b1d", null ],
-    [ "i_text_emote", "de/df1/a09808.html#add0630dc3fc76fb4fdb79095e13b2fc0", null ]
+    [ "BankTab", "de/df1/a09808.html#a4cc137e35b63b86c5d436e6bc15ad590", null ],
+    [ "Delete", "de/df1/a09808.html#a834715b072cf26a56933a971de7bdde4", null ],
+    [ "GetIcon", "de/df1/a09808.html#a2406a477fff518690b1a9656d0c2129b", null ],
+    [ "GetItem", "de/df1/a09808.html#a9c5baa8eb92520b73c646488e3b38caa", null ],
+    [ "GetName", "de/df1/a09808.html#a0360f82663e5f9e073bcb28affcdf0b3", null ],
+    [ "GetText", "de/df1/a09808.html#ace1887dd0ef166be4fc6f8cb894d80b3", null ],
+    [ "LoadFromDB", "de/df1/a09808.html#a016c23dc9710058e969ccfc51501afd6", null ],
+    [ "LoadItemFromDB", "de/df1/a09808.html#aa7bd9e67c6685878fa7bf158c09fae51", null ],
+    [ "SendText", "de/df1/a09808.html#ac3ca58dcc1997788226c6fe0d5b690c7", null ],
+    [ "SetInfo", "de/df1/a09808.html#afb645aa2e4219558eb2f493782804657", null ],
+    [ "SetItem", "de/df1/a09808.html#a3013ae191efb43063162f4cbb5508392", null ],
+    [ "SetText", "de/df1/a09808.html#a5945b66216eebcb4ac68a6e429c15972", null ],
+    [ "m_guildId", "de/df1/a09808.html#abc272a367b69a90207dbf10580a55038", null ],
+    [ "m_icon", "de/df1/a09808.html#a25217a0d4f9dc91c853f7007f63f140b", null ],
+    [ "m_items", "de/df1/a09808.html#a80cc2a64638722401276263d01e5ee27", null ],
+    [ "m_name", "de/df1/a09808.html#a5555e808bc4597ad9a74e69b95e56149", null ],
+    [ "m_tabId", "de/df1/a09808.html#ab055a2b7500c83c96a78c396dc60588a", null ],
+    [ "m_text", "de/df1/a09808.html#afc7ac5ed7c4c2d79170548fe061917eb", null ]
 ];

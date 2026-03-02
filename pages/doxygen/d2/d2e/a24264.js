@@ -1,6 +1,6 @@
 var a24264 =
 [
-    [ "npc_slim", "d2/d2e/a24264.html#aa227fbe22126bed821939873973e6a20", null ],
-    [ "OnGossipHello", "d2/d2e/a24264.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
-    [ "OnGossipSelect", "d2/d2e/a24264.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
+    [ "PrepareSpellScript", "d2/d2e/a24264.html#ac781a5ff389268d1f18867ff5585ca71", null ],
+    [ "Register", "d2/d2e/a24264.html#a5cb9e02774ea6c307e76183253ffb472", null ],
+    [ "SetDest", "d2/d2e/a24264.html#a5fec9885b1dd6cf80fb47af321fad98e", null ]
 ];

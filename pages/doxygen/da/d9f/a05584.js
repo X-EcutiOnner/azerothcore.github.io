@@ -1,7 +1,10 @@
 var a05584 =
 [
-    [ "Node", "da/d9f/a05584.html#aa4dcacffb32f3e739604ab6ef39b5031", null ],
-    [ "Node", "da/d9f/a05584.html#aa5f116e3d84286f313ee8730bde7b936", null ],
-    [ "Data", "da/d9f/a05584.html#aa7cdbff9817871b548fe639e0956f1f4", null ],
-    [ "Next", "da/d9f/a05584.html#a7508e249dd3ff2b3ac291d67ddf87a71", null ]
+    [ "Category", "da/d9f/a05584.html#a6a7956fedac99271428968ba339f464f", null ],
+    [ "Tags", "da/d9f/a05584.html#ac22787b2dadd4d3991f72f6ccab5c225", null ],
+    [ "Text", "da/d9f/a05584.html#ab63598f64896186fde81048550767b28", null ],
+    [ "Timestamp", "da/d9f/a05584.html#a8248a27d920ca431493750e3f2dec48b", null ],
+    [ "Title", "da/d9f/a05584.html#a857d2d4843480b9967334f079351292a", null ],
+    [ "Type", "da/d9f/a05584.html#af9962592650ba24fd9b3c0ee9ce06f7f", null ],
+    [ "Value", "da/d9f/a05584.html#a09832a09e989c3851e72f4ec198f0e20", null ]
 ];

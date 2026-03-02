@@ -1,6 +1,6 @@
 var a21464 =
 [
-    [ "npc_iruk", "dc/da0/a21464.html#a721aeefd23371cc6bc16738a797bf50a", null ],
-    [ "OnGossipHello", "dc/da0/a21464.html#a774669099330c75ab5e0bea8d460f517", null ],
-    [ "OnGossipSelect", "dc/da0/a21464.html#ae6f7d54d224488a9e29c59c560eba471", null ]
+    [ "HandleEffectPeriodic", "dc/da0/a21464.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "dc/da0/a21464.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "dc/da0/a21464.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

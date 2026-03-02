@@ -1,7 +1,6 @@
 var a25640 =
 [
-    [ "FilterTargets", "de/ddc/a25640.html#affede599b86e05e6475fd64a60268e8e", null ],
-    [ "Load", "de/ddc/a25640.html#a1343407ca8b571140ed2ecf5501bf378", null ],
-    [ "PrepareSpellScript", "de/ddc/a25640.html#a12ff05520225209b476b3ba8422de1c6", null ],
-    [ "Register", "de/ddc/a25640.html#ac99786385187e21fb02e65e9b9719400", null ]
+    [ "HandleStackDrop", "de/ddc/a25640.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
+    [ "PrepareAuraScript", "de/ddc/a25640.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
+    [ "Register", "de/ddc/a25640.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
 ];

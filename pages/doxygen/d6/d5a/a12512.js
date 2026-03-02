@@ -1,9 +1,8 @@
 var a12512 =
 [
-    [ "boss_overlordwyrmthalakAI", "d6/d5a/a12512.html#a76f9bd309e1c5045c74bb0ba8d8bce5c", null ],
-    [ "JustDied", "d6/d5a/a12512.html#ade379755d256c4c290e6dc8bbd862261", null ],
-    [ "JustEngagedWith", "d6/d5a/a12512.html#af7780f467df92c9218700773d1257a8c", null ],
-    [ "Reset", "d6/d5a/a12512.html#a9dbc4cc1830703c393fbeb9c0385b709", null ],
-    [ "UpdateAI", "d6/d5a/a12512.html#a950b2161ed4c2441fb73f8b009c5ba30", null ],
-    [ "Summoned", "d6/d5a/a12512.html#a8183e3f02d931809440adc8cc0cd3654", null ]
+    [ "CheckProc", "d6/d5a/a12512.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "d6/d5a/a12512.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "d6/d5a/a12512.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "d6/d5a/a12512.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "d6/d5a/a12512.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

@@ -1,9 +1,8 @@
 var a09504 =
 [
-    [ "PlayerDistWorker", "de/d15/a09504.html#a53c207607485724ba7c3aa5e9fd02b51", null ],
-    [ "Visit", "de/d15/a09504.html#a6cb5d9bdf26bc96a24e5660ca3b3758b", null ],
-    [ "Visit", "de/d15/a09504.html#a2658f12f90953f1057a9377b21824879", null ],
-    [ "i_dist", "de/d15/a09504.html#aad16511b6a9aaa3eb561f636475ffe97", null ],
-    [ "i_do", "de/d15/a09504.html#a0e1738a71d7feda9f607ee964ff1fff2", null ],
-    [ "i_searcher", "de/d15/a09504.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f", null ]
+    [ "CreatureListSearcher", "de/d15/a09504.html#a7b16bf9b7a847a08fa6582b81b607e20", null ],
+    [ "Visit", "de/d15/a09504.html#a48c084b8fbcbf7db7c051d1aa2aff523", null ],
+    [ "Visit", "de/d15/a09504.html#a91fcbdcfb08964ebaacec8acae13476b", null ],
+    [ "i_check", "de/d15/a09504.html#a985d622243d5c7c6c91eb01377b0f91b", null ],
+    [ "i_phaseMask", "de/d15/a09504.html#a10e4e1fb5749d2b1065dd6a1245783d0", null ]
 ];

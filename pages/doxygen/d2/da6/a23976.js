@@ -1,6 +1,6 @@
 var a23976 =
 [
-    [ "go_magtheridons_head", "d2/da6/a23976.html#af5816b083f1856196bec7a75f0a995f3", null ],
-    [ "InitializeAI", "d2/da6/a23976.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
-    [ "OnStateChanged", "d2/da6/a23976.html#a28682d161074b71e1f2d70236ff2b897", null ]
+    [ "npc_wounded_blood_elfAI", "d8/d09/a23980.html", "d8/d09/a23980" ],
+    [ "npc_wounded_blood_elf", "d2/da6/a23976.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
+    [ "GetAI", "d2/da6/a23976.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
 ];

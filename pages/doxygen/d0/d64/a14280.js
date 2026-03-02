@@ -1,8 +1,7 @@
 var a14280 =
 [
-    [ "FilterTargets", "d0/d64/a14280.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
-    [ "OnHit", "d0/d64/a14280.html#ac25886536c353f09838188362fb8ae84", null ],
-    [ "PrepareSpellScript", "d0/d64/a14280.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
-    [ "Register", "d0/d64/a14280.html#afa419365236c09914f758846978e2cbb", null ],
-    [ "Validate", "d0/d64/a14280.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
+    [ "Load", "d0/d64/a14280.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
+    [ "OnRemove", "d0/d64/a14280.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
+    [ "PrepareAuraScript", "d0/d64/a14280.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
+    [ "Register", "d0/d64/a14280.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
 ];

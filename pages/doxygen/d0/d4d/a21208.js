@@ -1,7 +1,7 @@
 var a21208 =
 [
-    [ "HandleDummy", "d0/d4d/a21208.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
-    [ "PrepareSpellScript", "d0/d4d/a21208.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
-    [ "Register", "d0/d4d/a21208.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
-    [ "Validate", "d0/d4d/a21208.html#a92f99501ee1582873586d2405b224f4f", null ]
+    [ "HandleScript", "d0/d4d/a21208.html#a47b991c20c523d151893fefd9d487714", null ],
+    [ "PrepareSpellScript", "d0/d4d/a21208.html#ab2db47d0a2694c0734db600e810e190d", null ],
+    [ "Register", "d0/d4d/a21208.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
+    [ "Validate", "d0/d4d/a21208.html#a89d601f6036fe38238767281f3427e54", null ]
 ];

@@ -1,11 +1,6 @@
 var a14788 =
 [
-    [ "HandleFinish", "d7/d14/a14788.html#ace3a2ad0cf8ac31f7ef5345f1dbbf6e7", null ],
-    [ "HandleScript", "d7/d14/a14788.html#a2a2f005c29f0381c3c45d04a75ccc378", null ],
-    [ "Load", "d7/d14/a14788.html#a177ea78202f4d5b4c381f1712b01fe43", null ],
-    [ "PrepareSpellScript", "d7/d14/a14788.html#a9714f48de3982feb245f78efb8008f1b", null ],
-    [ "Register", "d7/d14/a14788.html#ad24c159a0dcfb86eb35a4286f606a3ab", null ],
-    [ "ThrowNextTorch", "d7/d14/a14788.html#a6ea11852ede397c1ede1ebaabb906c35", null ],
-    [ "Validate", "d7/d14/a14788.html#a026fbf7123f6780459c19ff04b370b08", null ],
-    [ "handled", "d7/d14/a14788.html#a869fde9e5d0756d3c68a8db3e10ad50d", null ]
+    [ "npc_cw_area_triggerAI", "d2/d50/a14792.html", "d2/d50/a14792" ],
+    [ "npc_cw_area_trigger", "d7/d14/a14788.html#a11af64ac4ab078566bf8f68a36781939", null ],
+    [ "GetAI", "d7/d14/a14788.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
 ];

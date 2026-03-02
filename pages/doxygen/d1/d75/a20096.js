@@ -1,6 +1,6 @@
 var a20096 =
 [
-    [ "CastRunesEvent", "d1/d75/a20096.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
-    [ "Execute", "d1/d75/a20096.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
-    [ "_owner", "d1/d75/a20096.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
+    [ "PrepareSpellScript", "d1/d75/a20096.html#af7426e99a49f8618fc38242ded7132f1", null ],
+    [ "RecalculateDamage", "d1/d75/a20096.html#a94e70b20f2139f668227dccb623c1af6", null ],
+    [ "Register", "d1/d75/a20096.html#acd911f78780e052d88f5f47574092d62", null ]
 ];

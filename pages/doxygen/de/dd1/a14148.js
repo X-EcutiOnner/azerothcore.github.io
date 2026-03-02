@@ -1,6 +1,9 @@
 var a14148 =
 [
-    [ "npc_parqual_fintallas", "de/dd1/a14148.html#a9edaf1f7cf4e81ce24c54faa4aed6cf6", null ],
-    [ "OnGossipHello", "de/dd1/a14148.html#af7c1f119d91aa63ee96765f2092b0a6c", null ],
-    [ "OnGossipSelect", "de/dd1/a14148.html#a39276ef82ec5214a1727ebd60235a506", null ]
+    [ "npc_marzon_silent_bladeAI", "de/dd1/a14148.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
+    [ "EnterEvadeMode", "de/dd1/a14148.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
+    [ "JustEngagedWith", "de/dd1/a14148.html#a116b3458f342811e378713e6a67f76a6", null ],
+    [ "MovementInform", "de/dd1/a14148.html#a32201d45f0c19212becb6319a48366f8", null ],
+    [ "Reset", "de/dd1/a14148.html#a51c2b16c767ce2922564dc9e4048e089", null ],
+    [ "UpdateAI", "de/dd1/a14148.html#aa6686399b41d32429d530dcc2ec41185", null ]
 ];

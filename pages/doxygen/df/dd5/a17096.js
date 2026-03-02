@@ -1,5 +1,6 @@
 var a17096 =
 [
-    [ "achievement_better_off_dred", "df/dd5/a17096.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
-    [ "OnCheck", "df/dd5/a17096.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
+    [ "HandleEffectPeriodic", "df/dd5/a17096.html#a8775f4e2cb6be96f57596413d560206c", null ],
+    [ "PrepareAuraScript", "df/dd5/a17096.html#a45118f9887d248a5eb840b945dee5b79", null ],
+    [ "Register", "df/dd5/a17096.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
 ];

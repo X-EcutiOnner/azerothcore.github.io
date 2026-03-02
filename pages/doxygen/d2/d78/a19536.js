@@ -1,6 +1,7 @@
 var a19536 =
 [
-    [ "boss_maexxna_webwrapAI", "d2/d5b/a19540.html", "d2/d5b/a19540" ],
-    [ "boss_maexxna_webwrap", "d2/d78/a19536.html#afebd8c00234fe6cdd93af8ae443bb637", null ],
-    [ "GetAI", "d2/d78/a19536.html#a6d86d58a86b831a219ecc598044be4f3", null ]
+    [ "FilterTargets", "d2/d78/a19536.html#af92aec0df6c962a10ccbebb366081cfd", null ],
+    [ "PrepareSpellScript", "d2/d78/a19536.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
+    [ "Register", "d2/d78/a19536.html#af59416debfc7685bec92541a00e1dafe", null ],
+    [ "Validate", "d2/d78/a19536.html#abbe7ae557fb510457504f72adfa0aedc", null ]
 ];

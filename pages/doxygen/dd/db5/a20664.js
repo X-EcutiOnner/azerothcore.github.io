@@ -1,9 +1,7 @@
 var a20664 =
 [
-    [ "npc_ulduar_dark_rune_sentinel", "dd/db5/a20664.html#aa618a5c21a3f8c8ad5fa9b1dbd0ad267", null ],
-    [ "CanAIAttack", "dd/db5/a20664.html#a6549068c5035af4e9ed8f67d38c8b23f", null ],
-    [ "Reset", "dd/db5/a20664.html#ab5401b3309fffcaebbcbc6b665ab77a1", null ],
-    [ "UpdateAI", "dd/db5/a20664.html#ae0c37055a213f91a46b68d7286ef3867", null ],
-    [ "timer1", "dd/db5/a20664.html#a836d5ed8691a08303622389475380eae", null ],
-    [ "timer2", "dd/db5/a20664.html#aa1985f0abdfa41a0fb9568e30048f24b", null ]
+    [ "npc_ulduar_expedition_commanderAI", "dd/db5/a20664.html#a100678bddd6a0e859c72035d4642d8e2", null ],
+    [ "MoveInLineOfSight", "dd/db5/a20664.html#a870bdc842d8d7078302a36a20ef661e4", null ],
+    [ "_instance", "dd/db5/a20664.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
+    [ "_introSpoken", "dd/db5/a20664.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
 ];

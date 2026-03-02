@@ -1,6 +1,5 @@
 var a10772 =
 [
-    [ "SetSheathed", "d7/d0e/a10772.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
-    [ "Read", "d7/d0e/a10772.html#ae2158689450e3a9207b6992ea5223106", null ],
-    [ "CurrentSheathState", "d7/d0e/a10772.html#a8363787ac7959f19234def2707ef0b32", null ]
+    [ "LogoutCancelAck", "d7/d0e/a10772.html#a2c261c1cdd4c29658c5160e8fe44ac58", null ],
+    [ "Write", "d7/d0e/a10772.html#a12f9e56c2ee59f5a084e8aef3fdfad97", null ]
 ];

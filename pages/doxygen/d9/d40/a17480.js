@@ -1,6 +1,7 @@
 var a17480 =
 [
-    [ "npc_pos_after_first_bossAI", "d6/d14/a17484.html", "d6/d14/a17484" ],
-    [ "npc_pos_after_first_boss", "d9/d40/a17480.html#a76ae57195ceca454928245f2db12f68c", null ],
-    [ "GetAI", "d9/d40/a17480.html#a3f807335f79218ecc70c32f5496267a6", null ]
+    [ "HandlePeriodicTick", "d9/d40/a17480.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
+    [ "PrepareAuraScript", "d9/d40/a17480.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
+    [ "Register", "d9/d40/a17480.html#a4653ccb0d93d056adf3b14056865787c", null ],
+    [ "Validate", "d9/d40/a17480.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
 ];

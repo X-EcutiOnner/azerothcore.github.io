@@ -1,6 +1,6 @@
 var a10112 =
 [
-    [ "aiNotifyDelay", "d9/da4/a10112.html#af70453021c5ded85c73a4d5559dca2ea", null ],
-    [ "requiredMoveDistanceSq", "d9/da4/a10112.html#aaa4faa0170181e409940b5441eb2f586", null ],
-    [ "visibilityNotifyDelay", "d9/da4/a10112.html#ad566fd5eff102929247b75cf5092a60b", null ]
+    [ "SplineRawInitializer", "d9/da4/a10112.html#a2aba4b3ca8e2312cc9e910ef4b3a5a26", null ],
+    [ "operator()", "d9/da4/a10112.html#a878f8d8b2bc4b7c0e5c92d3055a437af", null ],
+    [ "_points", "d9/da4/a10112.html#a3cea33c8d33407f7d2d8ea96a85a58c5", null ]
 ];

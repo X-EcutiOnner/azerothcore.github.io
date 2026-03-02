@@ -1,6 +1,7 @@
 var a22832 =
 [
-    [ "boss_essence_of_angerAI", "d5/d6a/a22836.html", "d5/d6a/a22836" ],
-    [ "boss_essence_of_anger", "db/db1/a22832.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
-    [ "GetAI", "db/db1/a22832.html#a70a460f31b7f878e532b695ca822ab5d", null ]
+    [ "SuckBackEvent", "db/db1/a22832.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
+    [ "Execute", "db/db1/a22832.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
+    [ "_action", "db/db1/a22832.html#abc54669df2dba0238723a40ababe4c0a", null ],
+    [ "_owner", "db/db1/a22832.html#a4d8bc09803f7786022c1836457ded488", null ]
 ];

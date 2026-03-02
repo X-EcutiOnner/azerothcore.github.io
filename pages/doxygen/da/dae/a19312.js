@@ -1,5 +1,6 @@
 var a19312 =
 [
-    [ "at_frozen_throne_teleport", "da/dae/a19312.html#a8065b9f9b55b267be1757775f84de349", null ],
-    [ "OnTrigger", "da/dae/a19312.html#ae1f9476b7f47320f545e702e9317bd03", null ]
+    [ "npc_icc_putricades_trapAI", "d0/dcf/a19316.html", "d0/dcf/a19316" ],
+    [ "npc_icc_putricades_trap", "da/dae/a19312.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
+    [ "GetAI", "da/dae/a19312.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
 ];

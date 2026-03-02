@@ -1,7 +1,6 @@
 var a14864 =
 [
-    [ "npc_love_in_air_supply_sentry", "d2/d18/a14864.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
-    [ "MoveInLineOfSight", "d2/d18/a14864.html#a9df110324c74277e07183c7db231bbda", null ],
-    [ "UpdateAI", "d2/d18/a14864.html#aaa658222954f96d45b75daf83555f6f8", null ],
-    [ "lock", "d2/d18/a14864.html#a59bf67b114014542538165c21aa109a6", null ]
+    [ "npc_soh_fire_trigger", "d2/d18/a14864.html#a8bddde264f4848c9a8ed83dcad190223", null ],
+    [ "Reset", "d2/d18/a14864.html#acbec442907a8b40ae04496c53f210aa2", null ],
+    [ "SpellHit", "d2/d18/a14864.html#a6b96cc998d38c9fbf0ce93e0529c0f4c", null ]
 ];

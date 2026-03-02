@@ -1,7 +1,6 @@
 var a11208 =
 [
-    [ "TrainerBuySucceeded", "d7/d10/a11208.html#ae00367a55429030c107fc8f6bb7db288", null ],
-    [ "Write", "d7/d10/a11208.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
-    [ "SpellID", "d7/d10/a11208.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
-    [ "TrainerGUID", "d7/d10/a11208.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
+    [ "UITime", "d7/d10/a11208.html#a24311ce7df9e9a0f40a3c5473cef34b3", null ],
+    [ "Write", "d7/d10/a11208.html#ab24cdd76abd5914c3a30ee42c7681855", null ],
+    [ "Time", "d7/d10/a11208.html#ac4ad6c7c425167e90fd2497f7ebaec4c", null ]
 ];

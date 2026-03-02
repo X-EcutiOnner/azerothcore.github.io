@@ -1,4 +1,5 @@
 var a01262 =
 [
-    [ "ScriptRegistry< CreatureScript >", "d3/d53/a01262.html#adb066a45d02e899835d90ecde5d40ccd", null ]
+    [ "Vehicle", "d6/dd2/a09020.html", "d6/dd2/a09020" ],
+    [ "VehicleDespawnEvent", "d9/d74/a09024.html", "d9/d74/a09024" ]
 ];

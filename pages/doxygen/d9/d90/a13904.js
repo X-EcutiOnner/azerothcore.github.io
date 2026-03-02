@@ -1,6 +1,9 @@
 var a13904 =
 [
-    [ "instance_sunwell_plateau_InstanceMapScript", "d9/d90/a13904.html#aae99b35ff990fd7486d5b70693b6729a", null ],
-    [ "Load", "d9/d90/a13904.html#a5398f0aa153f7c4eaea390e33c400b02", null ],
-    [ "OnPlayerEnter", "d9/d90/a13904.html#ab45827eaa92aea4746378b3c11fda219", null ]
+    [ "npc_dark_fiend", "d9/d90/a13904.html#a8c4ebf7ba2f991df7053d40108330609", null ],
+    [ "DamageTaken", "d9/d90/a13904.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
+    [ "Reset", "d9/d90/a13904.html#a5622d14f84ad8e47da773852f1778d56", null ],
+    [ "UpdateAI", "d9/d90/a13904.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
+    [ "_lastVictimGUID", "d9/d90/a13904.html#abcccb35701f21d417e3c13709cc24281", null ],
+    [ "_spellCast", "d9/d90/a13904.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
 ];

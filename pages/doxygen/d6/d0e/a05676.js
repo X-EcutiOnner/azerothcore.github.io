@@ -1,21 +1,15 @@
 var a05676 =
 [
-    [ "EventProcessor", "d6/d0e/a05676.html#a5c430ef08365f5eeca0f3321991bfaac", null ],
-    [ "~EventProcessor", "d6/d0e/a05676.html#af30a066c911c3841d35854c900743b9e", null ],
-    [ "AddEvent", "d6/d0e/a05676.html#afd92abbbf10158540614eb615f7f2e2b", null ],
-    [ "AddEvent", "d6/d0e/a05676.html#a3ed0b93d52ff192098983a3e6a9c5acd", null ],
-    [ "AddEventAtOffset", "d6/d0e/a05676.html#a9f961ef09108513fd1ea06cf756744d3", null ],
-    [ "AddEventAtOffset", "d6/d0e/a05676.html#a1da0c3001bd6009d6bac25a969ed7196", null ],
-    [ "AddEventAtOffset", "d6/d0e/a05676.html#a1f1251ae4804bb53d8d7244d74ca6591", null ],
-    [ "AddEventAtOffset", "d6/d0e/a05676.html#a25566439bbb1d9de555e20380184b38f", null ],
-    [ "CalculateQueueTime", "d6/d0e/a05676.html#a2db97870b30361980b2d72ef806de951", null ],
-    [ "CalculateTime", "d6/d0e/a05676.html#a1a92f983f1dd415146c2875f80cba433", null ],
-    [ "CancelEventGroup", "d6/d0e/a05676.html#a29651ba6704e7908820af60ec37a2478", null ],
-    [ "HasEvents", "d6/d0e/a05676.html#a5f09366ac8e595f24b0c095f4127b9e7", null ],
-    [ "KillAllEvents", "d6/d0e/a05676.html#a15a65ecc2391f505266176cfc7f29c39", null ],
-    [ "ModifyEventTime", "d6/d0e/a05676.html#ad54487e1753d8ce12bdddb1358ddb0cc", null ],
-    [ "Update", "d6/d0e/a05676.html#a72fe67593c7684a55d27fb225ea51d05", null ],
-    [ "m_aborting", "d6/d0e/a05676.html#a7a1beec186648c90c112ead3cc5df064", null ],
-    [ "m_events", "d6/d0e/a05676.html#a168a435c77de52a151c735d3f004dbb9", null ],
-    [ "m_time", "d6/d0e/a05676.html#a829eb8c07982b66e98c0ca118b54aaef", null ]
+    [ "EnumFlag", "d6/d0e/a05676.html#a877aa23dfde6aa91cff6d8c0eb9a4732", null ],
+    [ "AsUnderlyingType", "d6/d0e/a05676.html#af9468dd952e12d2da9c0120d0ce9feb4", null ],
+    [ "HasAllFlags", "d6/d0e/a05676.html#adb5b65ab4a3d827882634d94774a912b", null ],
+    [ "HasFlag", "d6/d0e/a05676.html#a311985d41e79365bf9fd5bcb7c8fbf0c", null ],
+    [ "operator T", "d6/d0e/a05676.html#a13022712c9634c84907b906e55aebe28", null ],
+    [ "operator&=", "d6/d0e/a05676.html#afb2c7428dd07e4f427b0b0ca5ac0f7c3", null ],
+    [ "operator|=", "d6/d0e/a05676.html#ab49498ed668ee324702c4beadf4de999", null ],
+    [ "operator~", "d6/d0e/a05676.html#a3001eac7546c03530d1e51d5c1e6abfd", null ],
+    [ "RemoveFlag", "d6/d0e/a05676.html#a106a00ee4112382aa0120489551bf50a", null ],
+    [ "operator&", "d6/d0e/a05676.html#aa91d02e5d8b6d9ef507f47720ac6d9e6", null ],
+    [ "operator|", "d6/d0e/a05676.html#add07cc2598afc632e84ffdc0bf60cd81", null ],
+    [ "_value", "d6/d0e/a05676.html#a55353d720942d68d0dea86837aaca7c5", null ]
 ];

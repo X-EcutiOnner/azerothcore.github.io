@@ -1,6 +1,6 @@
 var a16664 =
 [
-    [ "npc_argent_soldierAI", "d7/dd9/a16668.html", "d7/dd9/a16668" ],
-    [ "npc_argent_soldier", "d5/da9/a16664.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
-    [ "GetAI", "d5/da9/a16664.html#adfeed3d533104b9617dfbb06925a3d44", null ]
+    [ "instance_ruby_sanctum_InstanceMapScript", "d7/dd9/a16668.html", "d7/dd9/a16668" ],
+    [ "instance_ruby_sanctum", "d5/da9/a16664.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
+    [ "GetInstanceScript", "d5/da9/a16664.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
 ];

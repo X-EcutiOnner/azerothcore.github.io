@@ -1,11 +1,8 @@
 var a12320 =
 [
-    [ "npc_rocknotAI", "df/da2/a12320.html#a4daa5104eabb6d38c22274b48a8514be", null ],
-    [ "DoGo", "df/da2/a12320.html#a7591520e06782feddb98a86107fbcb27", null ],
-    [ "Reset", "df/da2/a12320.html#a4d855a23c638e835de6f1c4644350166", null ],
-    [ "UpdateAI", "df/da2/a12320.html#a1d3bce3248766393be5f84c5ca5030b1", null ],
-    [ "WaypointReached", "df/da2/a12320.html#ae7d6f0b1e52767c61ad014accb1cec7a", null ],
-    [ "BreakDoor_Timer", "df/da2/a12320.html#a3ae6edef4812fd3161c3b8ad5aa5cac2", null ],
-    [ "BreakKeg_Timer", "df/da2/a12320.html#a6f380ad58cf55fe2ea9fc1f56118b454", null ],
-    [ "instance", "df/da2/a12320.html#a4328c25f12f562cfdf41740e908cb3bd", null ]
+    [ "ironhand_guardianAI", "df/da2/a12320.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
+    [ "SetData", "df/da2/a12320.html#ab4e6402951bf45910fb3399ea107b207", null ],
+    [ "UpdateAI", "df/da2/a12320.html#a095b11f44935c8ddb43a20c095495507", null ],
+    [ "events", "df/da2/a12320.html#a13ed887285809d2fcad0d23fdf37face", null ],
+    [ "flames_enabled", "df/da2/a12320.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
 ];

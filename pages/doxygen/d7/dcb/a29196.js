@@ -1,5 +1,8 @@
 var a29196 =
 [
-    [ "id", "d7/dcb/a29196.html#a22e48015dd880199e131089e35b1ce05", null ],
-    [ "spellId", "d7/dcb/a29196.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
+    [ "Id", "d7/dcb/a29196.html#a6943bf760d15b3f8af4109d131652d72", null ],
+    [ "MapId", "d7/dcb/a29196.html#ab0cccd760636a3b42af693d6c483bed9", null ],
+    [ "X", "d7/dcb/a29196.html#a91183890254546efeb3162173cc60dad", null ],
+    [ "Y", "d7/dcb/a29196.html#a19ab4d026b45d74f006479641afbc4d3", null ],
+    [ "Z", "d7/dcb/a29196.html#aaa23c59f20fc96aec148b82516f30036", null ]
 ];

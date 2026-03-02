@@ -1,6 +1,7 @@
 var a19216 =
 [
-    [ "npc_icc_skybreaker_vicarAI", "d0/dcb/a19220.html", "d0/dcb/a19220" ],
-    [ "npc_icc_skybreaker_vicar", "d9/dc5/a19216.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
-    [ "GetAI", "d9/dc5/a19216.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
+    [ "HandleEffectPeriodic", "d9/dc5/a19216.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
+    [ "PrepareAuraScript", "d9/dc5/a19216.html#ae040da0db1147652266e1f373838df37", null ],
+    [ "Register", "d9/dc5/a19216.html#ab11b84522134ee4d13504df3c19f69b8", null ],
+    [ "Validate", "d9/dc5/a19216.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
 ];

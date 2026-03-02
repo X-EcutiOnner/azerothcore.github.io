@@ -1,6 +1,9 @@
 var a21540 =
 [
-    [ "HandleEffect", "dd/dd0/a21540.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
-    [ "PrepareSpellScript", "dd/dd0/a21540.html#aec199e9f9651267fac88bd86be326bb4", null ],
-    [ "Register", "dd/dd0/a21540.html#a14bd854db86750704c8377d457dea360", null ]
+    [ "npc_bonker_togglevoltAI", "dd/dd0/a21540.html#adfd43a6a804a35e235262e55f0155ffe", null ],
+    [ "JustDied", "dd/dd0/a21540.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
+    [ "Reset", "dd/dd0/a21540.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
+    [ "UpdateEscortAI", "dd/dd0/a21540.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
+    [ "WaypointReached", "dd/dd0/a21540.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
+    [ "Bonker_agro", "dd/dd0/a21540.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
 ];

@@ -1,6 +1,6 @@
 var a21704 =
 [
-    [ "HandleSendEvent", "d2/d15/a21704.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
-    [ "PrepareSpellScript", "d2/d15/a21704.html#aa632d381ac415feaf226f55fc2cd8520", null ],
-    [ "Register", "d2/d15/a21704.html#a72673f5054cf269cc8da511441f7bd66", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d2/d15/a21704.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
+    [ "MovementInform", "d2/d15/a21704.html#a999bc868db485578fcc70ae7e056b778", null ],
+    [ "Reset", "d2/d15/a21704.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
 ];

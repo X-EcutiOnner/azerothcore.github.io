@@ -1,6 +1,8 @@
 var a16448 =
 [
-    [ "boss_baltharus_the_warbornAI", "dd/dcf/a16452.html", "dd/dcf/a16452" ],
-    [ "boss_baltharus_the_warborn", "dc/de6/a16448.html#aababb8862273d60f140dce675131783d", null ],
-    [ "GetAI", "dc/de6/a16448.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
+    [ "boss_sartharion_vesperon", "dc/de6/a16448.html#a3ce6d2036faa108cb97ebf75bdb6ad33", null ],
+    [ "ClearInstance", "dc/de6/a16448.html#a0c45127e9eb2be20765f92e1161e2e5a", null ],
+    [ "ExecuteEvent", "dc/de6/a16448.html#aefc42452e75c476aef39ba0df3a03d70", null ],
+    [ "Reset", "dc/de6/a16448.html#a948bfddea4eb3c0fe471d8f501a88d6c", null ],
+    [ "SummonedCreatureDies", "dc/de6/a16448.html#a9df29b4c71c93da8cf7ae9f81b870345", null ]
 ];

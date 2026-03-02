@@ -1,6 +1,9 @@
 var a20012 =
 [
-    [ "instance_halls_of_stone_InstanceMapScript", "d2/db4/a20016.html", "d2/db4/a20016" ],
-    [ "instance_halls_of_stone", "de/d2f/a20012.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
-    [ "GetInstanceScript", "de/d2f/a20012.html#a784906c7710a216016101cf7a6a915f3", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "de/d2f/a20012.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
+    [ "JustEngagedWith", "de/d2f/a20012.html#a9e6527bc46d7b685d938833d18796cee", null ],
+    [ "MoveInLineOfSight", "de/d2f/a20012.html#a7449e135f088a2d4b22a423c71118093", null ],
+    [ "MovementInform", "de/d2f/a20012.html#ac04d90e974f85282737bb5081a123106", null ],
+    [ "UpdateAI", "de/d2f/a20012.html#afccd77c8e90d129fb3a347205a2102db", null ],
+    [ "events", "de/d2f/a20012.html#a73c135ec94b41a752fc203c5e20128d0", null ]
 ];

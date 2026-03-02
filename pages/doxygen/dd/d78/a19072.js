@@ -1,6 +1,6 @@
 var a19072 =
 [
-    [ "npc_captain_brandonAI", "dd/d78/a19072.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
-    [ "Reset", "dd/d78/a19072.html#a13226b321707eee9faf5f073c81403e4", null ],
-    [ "UpdateAI", "dd/d78/a19072.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
+    [ "npc_crok_scourgebaneAI", "d0/de7/a19076.html", "d0/de7/a19076" ],
+    [ "npc_crok_scourgebane", "dd/d78/a19072.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
+    [ "GetAI", "dd/d78/a19072.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
 ];

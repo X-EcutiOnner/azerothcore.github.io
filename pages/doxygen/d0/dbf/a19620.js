@@ -1,8 +1,6 @@
 var a19620 =
 [
-    [ "npc_teslaAI", "d0/dbf/a19620.html#a7281220648af1357b1377d6f7874d663", null ],
-    [ "DamageTaken", "d0/dbf/a19620.html#aa3ab570e86261bc3178e17109d76af12", null ],
-    [ "EnterEvadeMode", "d0/dbf/a19620.html#acc8115216989b34593a9435eeb051eda", null ],
-    [ "JustEngagedWith", "d0/dbf/a19620.html#add93f68bc96b3c93dc0a3271543711e6", null ],
-    [ "UpdateAI", "d0/dbf/a19620.html#a962745569b07e368067ee483d2379840", null ]
+    [ "boss_thaddiusAI", "dd/ddf/a19624.html", "dd/ddf/a19624" ],
+    [ "boss_thaddius", "d0/dbf/a19620.html#aff97b030b861feb646e1b22f60ee3605", null ],
+    [ "GetAI", "d0/dbf/a19620.html#acf841c6897396f517a74932fc3480e69", null ]
 ];

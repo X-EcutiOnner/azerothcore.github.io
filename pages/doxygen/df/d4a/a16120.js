@@ -1,9 +1,6 @@
 var a16120 =
 [
-    [ "npc_pluckyAI", "df/d4a/a16120.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
-    [ "ReceiveEmote", "df/d4a/a16120.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
-    [ "Reset", "df/d4a/a16120.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
-    [ "UpdateAI", "df/d4a/a16120.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
-    [ "NormFaction", "df/d4a/a16120.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
-    [ "ResetTimer", "df/d4a/a16120.html#ac9808c21666cd17b0603e7e67a61d015", null ]
+    [ "npc_twiggy_flatheadAI", "d9/d62/a16124.html", "d9/d62/a16124" ],
+    [ "npc_twiggy_flathead", "df/d4a/a16120.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
+    [ "GetAI", "df/d4a/a16120.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
 ];

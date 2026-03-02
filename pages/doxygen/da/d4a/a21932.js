@@ -1,7 +1,6 @@
 var a21932 =
 [
-    [ "HandleScriptEffect", "da/d4a/a21932.html#a7b0fca053f225beda41942d8fee86383", null ],
-    [ "PrepareSpellScript", "da/d4a/a21932.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
-    [ "Register", "da/d4a/a21932.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
-    [ "Validate", "da/d4a/a21932.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
+    [ "npc_attracted_reef_bullAI", "da/d4a/a21932.html#aa8917a912fb31a5987332e53e8d268e7", null ],
+    [ "MovementInform", "da/d4a/a21932.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
+    [ "SpellHit", "da/d4a/a21932.html#ab06ee7ef84d881262ae682b69fae3135", null ]
 ];

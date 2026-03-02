@@ -1,11 +1,6 @@
 var a18392 =
 [
-    [ "npc_little_oozeAI", "d9/da2/a18392.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
-    [ "EnterEvadeMode", "d9/da2/a18392.html#a0bd4bfcc8c373a449f297011289e5530", null ],
-    [ "IsSummonedBy", "d9/da2/a18392.html#afb9763ade36bd742398a8bca961c136b", null ],
-    [ "JustDied", "d9/da2/a18392.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
-    [ "UpdateAI", "d9/da2/a18392.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
-    [ "events", "d9/da2/a18392.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
-    [ "firstUpdate", "d9/da2/a18392.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
-    [ "instance", "d9/da2/a18392.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
+    [ "FilterTargetsInitial", "d9/da2/a18392.html#a92cc71f268793c616bed66d9a489a145", null ],
+    [ "PrepareSpellScript", "d9/da2/a18392.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
+    [ "Register", "d9/da2/a18392.html#a91b96940a9e72e632989b49f7e475dba", null ]
 ];

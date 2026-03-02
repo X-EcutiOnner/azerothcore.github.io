@@ -1,4 +1,10 @@
 var a17004 =
 [
-    [ "boss_acidmawAI", "de/d22/a17004.html#a185e04be9d28b9ac6755ade2cd552293", null ]
+    [ "npc_mistress_of_painAI", "de/d22/a17004.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
+    [ "EnterEvadeMode", "de/d22/a17004.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
+    [ "JustDied", "de/d22/a17004.html#ae60f294f902a2f687446f7599d071e42", null ],
+    [ "Reset", "de/d22/a17004.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
+    [ "SpellHit", "de/d22/a17004.html#a077843a7ead2034da695be816de42f9e", null ],
+    [ "UpdateAI", "de/d22/a17004.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
+    [ "events", "de/d22/a17004.html#a941ae1faab010551db6a8e6749993357", null ]
 ];

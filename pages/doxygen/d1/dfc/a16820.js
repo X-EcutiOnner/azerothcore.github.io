@@ -1,7 +1,6 @@
 var a16820 =
 [
-    [ "npc_toc_druidAI", "d1/dfc/a16820.html#adb456f1f93be5329174a3199c9092825", null ],
-    [ "myCanCast", "d1/dfc/a16820.html#af82baa22ae49ba268f494cb07287845e", null ],
-    [ "UpdateAI", "d1/dfc/a16820.html#a82a22a557db647f73690d8838a635eaf", null ],
-    [ "events", "d1/dfc/a16820.html#a6bb27baf17f0286db3222287a8073bd7", null ]
+    [ "npc_nerubian_burrowerAI", "d5/dd8/a16824.html", "d5/dd8/a16824" ],
+    [ "npc_nerubian_burrower", "d1/dfc/a16820.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
+    [ "GetAI", "d1/dfc/a16820.html#a145ebac6f95f9190429b9bfa37e23312", null ]
 ];

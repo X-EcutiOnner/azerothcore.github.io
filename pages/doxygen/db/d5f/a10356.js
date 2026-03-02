@@ -1,8 +1,10 @@
 var a10356 =
 [
-    [ "ownerGuid", "db/d5f/a10356.html#a7c66ffa9f54768a0e81f61e5bcdde014", null ],
-    [ "petitionGuid", "db/d5f/a10356.html#a1bbf412a221b76c4a20765d9a6612182", null ],
-    [ "petitionId", "db/d5f/a10356.html#afa16859ac671ff0410204ea30ebcf429", null ],
-    [ "petitionName", "db/d5f/a10356.html#a91c81356e9aa77641eaa881cd04af5af", null ],
-    [ "petitionType", "db/d5f/a10356.html#aeaf6c421d7545cf98d88b4e552dcff23", null ]
+    [ "WaypointMgr", "db/d5f/a10356.html#a2f038884959f10348bd5b7af3abee7db", null ],
+    [ "~WaypointMgr", "db/d5f/a10356.html#a7b0fed55791df7ab040a46984700d18e", null ],
+    [ "GetPath", "db/d5f/a10356.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
+    [ "instance", "db/d5f/a10356.html#aacd2ed943503288057b3fb9a935a56e9", null ],
+    [ "Load", "db/d5f/a10356.html#a69ae451ce07f2e68be81b1a86649115d", null ],
+    [ "ReloadPath", "db/d5f/a10356.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
+    [ "_waypointStore", "db/d5f/a10356.html#af70ce7663d7f132339ea8d163311c248", null ]
 ];

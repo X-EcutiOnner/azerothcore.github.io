@@ -1,12 +1,15 @@
 var a19444 =
 [
-    [ "npc_boss_gothik_minionAI", "da/dd0/a19444.html#aa719d87c65294fc483b424b125619a10", null ],
-    [ "IsOnSameSide", "da/dd0/a19444.html#a7d305be5e3d66c1317fa91e588223da0", null ],
-    [ "JustDied", "da/dd0/a19444.html#a752b6eab9cf1b016962c6f535586b59d", null ],
-    [ "JustEngagedWith", "da/dd0/a19444.html#ad86778d5a0e883a839b4a43425a57d7f", null ],
-    [ "KilledUnit", "da/dd0/a19444.html#a6a09440d623dcee51b7e0d4ed77d624e", null ],
-    [ "Reset", "da/dd0/a19444.html#a309401236c254cd850759a0cbb4004e0", null ],
-    [ "UpdateAI", "da/dd0/a19444.html#a43744e96be00d8bc0afc34a570e79947", null ],
-    [ "events", "da/dd0/a19444.html#ae2dde7b4fc655b1ae27410d299776c49", null ],
-    [ "livingSide", "da/dd0/a19444.html#a2545d00e04bae9ee0a1bf9f9d6162c74", null ]
+    [ "boss_gluthAI", "da/dd0/a19444.html#a3ae0608d19cbc7ce5a561e0ae3e66d0d", null ],
+    [ "JustDied", "da/dd0/a19444.html#ada2c5f6b7025f5f2fb67b8ebe3b2d56c", null ],
+    [ "JustEngagedWith", "da/dd0/a19444.html#a25cf670d7254cc8331752987a854c63b", null ],
+    [ "JustSummoned", "da/dd0/a19444.html#acc09328210fbf1a6e81999d548676ae4", null ],
+    [ "KilledUnit", "da/dd0/a19444.html#a691d46055b922efc9d1ec93a8b0fb842", null ],
+    [ "MoveInLineOfSight", "da/dd0/a19444.html#a2aaf43f7d1555a005ef263ceaad8304c", null ],
+    [ "Reset", "da/dd0/a19444.html#acb9f68205a2a210737d43893a414ca52", null ],
+    [ "SelectPlayerInRoom", "da/dd0/a19444.html#a1f8f87b00291d8164f607ac6262506cf", null ],
+    [ "SummonedCreatureDies", "da/dd0/a19444.html#a115a1f1327a931067223734dbf414675", null ],
+    [ "UpdateAI", "da/dd0/a19444.html#a2505f7ebda7b623edfedf96979a4a920", null ],
+    [ "events", "da/dd0/a19444.html#adaf9581259a774087ce02725b42b6b47", null ],
+    [ "summons", "da/dd0/a19444.html#a18f6aa3d949e68e9b38398780c017082", null ]
 ];

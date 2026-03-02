@@ -1,5 +1,7 @@
 var a18376 =
 [
-    [ "RotfaceHeightCheck", "dd/de2/a18376.html#aabdeaee465989c339fc7a3f186e20498", null ],
-    [ "operator()", "dd/de2/a18376.html#a585743e0e76c64a5caa37acab46d04d5", null ]
+    [ "CheckRequirement", "dd/de2/a18376.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
+    [ "CheckRequirementInternal", "dd/de2/a18376.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
+    [ "PrepareSpellScript", "dd/de2/a18376.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
+    [ "Register", "dd/de2/a18376.html#a95a250aeb3a41922c529f476d39f18e4", null ]
 ];

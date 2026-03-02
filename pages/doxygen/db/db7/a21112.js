@@ -1,6 +1,6 @@
 var a21112 =
 [
-    [ "boss_skadi_graufAI", "dc/d42/a21116.html", "dc/d42/a21116" ],
-    [ "boss_skadi_grauf", "db/db7/a21112.html#a571db2d2ae21f38b7051319da0f042f6", null ],
-    [ "GetAI", "db/db7/a21112.html#a9b637a93a572d21691b81b80ec45206d", null ]
+    [ "npc_ravenous_furbolgAI", "dc/d42/a21116.html", "dc/d42/a21116" ],
+    [ "npc_ravenous_furbolg", "db/db7/a21112.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
+    [ "GetAI", "db/db7/a21112.html#a284c366e6f5bd024d9627a83dd966669", null ]
 ];

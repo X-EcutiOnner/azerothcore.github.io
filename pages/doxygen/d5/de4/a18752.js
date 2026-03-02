@@ -1,10 +1,12 @@
 var a18752 =
 [
-    [ "HandleScript", "d5/de4/a18752.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
-    [ "Load", "d5/de4/a18752.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
-    [ "PrepareSpellScript", "d5/de4/a18752.html#afcc1efc69d73086a9ab686855911e516", null ],
-    [ "Register", "d5/de4/a18752.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
-    [ "ReplaceTarget", "d5/de4/a18752.html#a01cb7d25bef14a2266d81594544f6283", null ],
-    [ "SelectTarget", "d5/de4/a18752.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
-    [ "_target", "d5/de4/a18752.html#a3a84a9d7109845d201b395f05f66d109", null ]
+    [ "npc_raging_spiritAI", "d5/de4/a18752.html#a1c85351ae62d5f45381214373e64aec4", null ],
+    [ "AttackStart", "d5/de4/a18752.html#a16ab37be9e31dcfc159b5c78b196b847", null ],
+    [ "CanAIAttack", "d5/de4/a18752.html#a64fa46f05861d8736d881aa3687f4320", null ],
+    [ "IsSummonedBy", "d5/de4/a18752.html#a836d605f4320ba9fd49cb60d6a1e032d", null ],
+    [ "JustDied", "d5/de4/a18752.html#a821377a2c29b4180db00f2c4f4268fe7", null ],
+    [ "Reset", "d5/de4/a18752.html#a9dae9cb2c6f18d89d06cfa72b98d36f2", null ],
+    [ "UpdateAI", "d5/de4/a18752.html#a64beac4aafa9e9bb2089a7c1e35fe8a5", null ],
+    [ "_events", "d5/de4/a18752.html#af5783316983b622f20d8c677f2858111", null ],
+    [ "_instance", "d5/de4/a18752.html#aaa9b5728fcdb379849434385b3501251", null ]
 ];

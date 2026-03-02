@@ -1,6 +1,7 @@
 var a19764 =
 [
-    [ "boss_drakosAI", "db/d55/a19768.html", "db/d55/a19768" ],
-    [ "boss_drakos", "df/de5/a19764.html#aa70ae2809af4f24eea0b83b42d695448", null ],
-    [ "GetAI", "df/de5/a19764.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
+    [ "HandlePull", "df/de5/a19764.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
+    [ "PrepareSpellScript", "df/de5/a19764.html#ac192245513e162a2842e47f5b0d64338", null ],
+    [ "Register", "df/de5/a19764.html#af6c7a881c2fcf07461006fef63074e5e", null ],
+    [ "SelectTarget", "df/de5/a19764.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
 ];

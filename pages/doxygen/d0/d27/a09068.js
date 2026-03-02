@@ -1,10 +1,8 @@
 var a09068 =
 [
-    [ "mapId", "d0/d27/a09068.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
-    [ "name", "d0/d27/a09068.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
-    [ "orientation", "d0/d27/a09068.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
-    [ "position_x", "d0/d27/a09068.html#a65e7390a1dbb615a155c4f163b830e11", null ],
-    [ "position_y", "d0/d27/a09068.html#a3d3f398cd23566dce721fefeae7af33c", null ],
-    [ "position_z", "d0/d27/a09068.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
-    [ "wnameLow", "d0/d27/a09068.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
+    [ "Entry", "d0/d27/a09068.html#ac9fa29db15e06513805124a56cd073e8", null ],
+    [ "ExtendedCost", "d0/d27/a09068.html#ac826dc078ef456ed93bf23175bce243d", null ],
+    [ "Incrtime", "d0/d27/a09068.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
+    [ "Item", "d0/d27/a09068.html#aa500da847d94a9b70cb3a26b782059b3", null ],
+    [ "MaxCount", "d0/d27/a09068.html#a04534ff42e5889995b5203a3257bc864", null ]
 ];

@@ -1,10 +1,6 @@
 var a15336 =
 [
-    [ "instance_maraudon_InstanceMapScript", "d8/d1f/a15336.html#a9c46508320d3973006561444feae0586", null ],
-    [ "Initialize", "d8/d1f/a15336.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
-    [ "OnGameObjectCreate", "d8/d1f/a15336.html#a3a287b97db58c3489815f20ee0d37977", null ],
-    [ "ReadSaveDataMore", "d8/d1f/a15336.html#ac2cd336874b25ad20dac104037de1df5", null ],
-    [ "SetData", "d8/d1f/a15336.html#a6e90bf60a076c164e432128f7ec62fba", null ],
-    [ "WriteSaveDataMore", "d8/d1f/a15336.html#a6e4072342e66689d343912de85e66b34", null ],
-    [ "_encounters", "d8/d1f/a15336.html#af2e752a791d75e50001060c4a9f18173", null ]
+    [ "NpcRunToHome", "d8/d1f/a15336.html#ac190e89b494554e391e6ebd878d7f8e8", null ],
+    [ "Execute", "d8/d1f/a15336.html#a0da766e3bae0d8d97a46ef82b3873cc0", null ],
+    [ "_owner", "d8/d1f/a15336.html#a7dd38171a6e55665fc28a74212313e51", null ]
 ];

@@ -1,6 +1,6 @@
 var a22044 =
 [
-    [ "npc_tournament_training_dummyAI", "d0/d40/a22048.html", "d0/d40/a22048" ],
-    [ "npc_tournament_training_dummy", "dd/db4/a22044.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
-    [ "GetAI", "dd/db4/a22044.html#a31257c155c3a49c69771156800cf6340", null ]
+    [ "HandleDummy", "dd/db4/a22044.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
+    [ "PrepareSpellScript", "dd/db4/a22044.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
+    [ "Register", "dd/db4/a22044.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
 ];

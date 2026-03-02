@@ -1,7 +1,6 @@
 var a17620 =
 [
-    [ "HandleApplyAura", "d7/d21/a17620.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
-    [ "PrepareSpellScript", "d7/d21/a17620.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
-    [ "Register", "d7/d21/a17620.html#a80638966202cb9e27d204ea621e379ef", null ],
-    [ "Validate", "d7/d21/a17620.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
+    [ "boss_drakkari_elementalAI", "d5/d42/a17624.html", "d5/d42/a17624" ],
+    [ "boss_drakkari_elemental", "d7/d21/a17620.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
+    [ "GetAI", "d7/d21/a17620.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
 ];

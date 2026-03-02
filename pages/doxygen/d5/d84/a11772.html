@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: AuraScript::CheckEffectProcHandler Class Reference</title>
+<title>AzerothCore: AuraScript::EffectCalcAmountHandler Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,93 +108,93 @@ $(document).ready(function(){initNavTree('d5/d84/a11772.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../da/dab/a11769.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">AuraScript::CheckEffectProcHandler Class Reference</div></div>
+  <div class="headertitle"><div class="title">AuraScript::EffectCalcAmountHandler Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
 <p><code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code></p>
 <div class="dynheader">
-Inheritance diagram for AuraScript::CheckEffectProcHandler:</div>
+Inheritance diagram for AuraScript::EffectCalcAmountHandler:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../d5/d84/a11772.png" usemap="#AuraScript::CheckEffectProcHandler_map" alt=""/>
-  <map id="AuraScript::CheckEffectProcHandler_map" name="AuraScript::CheckEffectProcHandler_map">
-<area href="../../de/d90/a11728.html" alt="AuraScript::EffectBase" shape="rect" coords="115,56,335,80"/>
-<area href="../../df/d85/a11672.html" alt="_SpellScript::EffectAuraNameCheck" shape="rect" coords="0,0,220,24"/>
-<area href="../../da/d44/a11664.html" alt="_SpellScript::EffectHook" shape="rect" coords="230,0,450,24"/>
+  <img src="../../d5/d84/a11772.png" usemap="#AuraScript::EffectCalcAmountHandler_map" alt=""/>
+  <map id="AuraScript::EffectCalcAmountHandler_map" name="AuraScript::EffectCalcAmountHandler_map">
+<area href="../../d1/d51/a11760.html" alt="AuraScript::EffectBase" shape="rect" coords="117,56,342,80"/>
+<area href="../../d3/d0b/a11704.html" alt="_SpellScript::EffectAuraNameCheck" shape="rect" coords="0,0,225,24"/>
+<area href="../../db/d95/a11696.html" alt="_SpellScript::EffectHook" shape="rect" coords="235,0,460,24"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ac91e234c2ec9d458a70f501e9b672af0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d84/a11772.html#ac91e234c2ec9d458a70f501e9b672af0">CheckEffectProcHandler</a> (AuraCheckEffectProcFnType handlerScript, <a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <a class="el" href="../../da/d44/a11664.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a>, <a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> effName)</td></tr>
-<tr class="separator:ac91e234c2ec9d458a70f501e9b672af0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aca4c845623e63c38310986b86e312247"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d84/a11772.html#aca4c845623e63c38310986b86e312247">Call</a> (<a class="el" href="../../d1/d05/a11716.html">AuraScript</a> *auraScript, <a class="el" href="../../d0/d24/a11488.html">AuraEffect</a> const *aurEff, <a class="el" href="../../d4/d6d/a08932.html">ProcEventInfo</a> &amp;eventInfo)</td></tr>
-<tr class="separator:aca4c845623e63c38310986b86e312247"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a11728"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a11728')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../de/d90/a11728.html">AuraScript::EffectBase</a></td></tr>
-<tr class="memitem:ab02f9f344e2f32ad59b35993d5c8f819 inherit pub_methods_a11728"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d90/a11728.html#ab02f9f344e2f32ad59b35993d5c8f819">EffectBase</a> (<a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _effIndex, <a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> _effName)</td></tr>
-<tr class="separator:ab02f9f344e2f32ad59b35993d5c8f819 inherit pub_methods_a11728"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab6f5b2a7ec1183206110eac9a21a7de5 inherit pub_methods_a11728"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d90/a11728.html#ab6f5b2a7ec1183206110eac9a21a7de5">ToString</a> ()</td></tr>
-<tr class="separator:ab6f5b2a7ec1183206110eac9a21a7de5 inherit pub_methods_a11728"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8c300ca68c3ff6f74b230835c566fd60 inherit pub_methods_a11728"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d90/a11728.html#a8c300ca68c3ff6f74b230835c566fd60">CheckEffect</a> (<a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <a class="el" href="../../da/d44/a11664.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a>) override</td></tr>
-<tr class="separator:a8c300ca68c3ff6f74b230835c566fd60 inherit pub_methods_a11728"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a11672"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a11672')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../df/d85/a11672.html">_SpellScript::EffectAuraNameCheck</a></td></tr>
-<tr class="memitem:a4b10ec0fcb3ffd841cf790574875017d inherit pub_methods_a11672"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d85/a11672.html#a4b10ec0fcb3ffd841cf790574875017d">EffectAuraNameCheck</a> (<a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> _effAurName)</td></tr>
-<tr class="separator:a4b10ec0fcb3ffd841cf790574875017d inherit pub_methods_a11672"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7fff405a99c65d3e846463ca29a8ddfd inherit pub_methods_a11672"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d85/a11672.html#a7fff405a99c65d3e846463ca29a8ddfd">Check</a> (<a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> effIndex)</td></tr>
-<tr class="separator:a7fff405a99c65d3e846463ca29a8ddfd inherit pub_methods_a11672"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a602fc1ddafe663e2e5ddceaeaec8b118 inherit pub_methods_a11672"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d85/a11672.html#a602fc1ddafe663e2e5ddceaeaec8b118">ToString</a> ()</td></tr>
-<tr class="separator:a602fc1ddafe663e2e5ddceaeaec8b118 inherit pub_methods_a11672"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a11664"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a11664')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../da/d44/a11664.html">_SpellScript::EffectHook</a></td></tr>
-<tr class="memitem:a4a197e061d918dfba2bc486f3393b00d inherit pub_methods_a11664"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d44/a11664.html#a4a197e061d918dfba2bc486f3393b00d">EffectHook</a> (<a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _effIndex)</td></tr>
-<tr class="separator:a4a197e061d918dfba2bc486f3393b00d inherit pub_methods_a11664"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa234f63b530764d12064acbe3f5c9299 inherit pub_methods_a11664"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d44/a11664.html#aa234f63b530764d12064acbe3f5c9299">~EffectHook</a> ()</td></tr>
-<tr class="separator:aa234f63b530764d12064acbe3f5c9299 inherit pub_methods_a11664"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a31faa86590e22f5ab3ca518f4df02840 inherit pub_methods_a11664"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d44/a11664.html#a31faa86590e22f5ab3ca518f4df02840">GetAffectedEffectsMask</a> (<a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *spellInfo)</td></tr>
-<tr class="separator:a31faa86590e22f5ab3ca518f4df02840 inherit pub_methods_a11664"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a697041ffa562bb6fff792beb159c7af2 inherit pub_methods_a11664"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d44/a11664.html#a697041ffa562bb6fff792beb159c7af2">IsEffectAffected</a> (<a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <a class="el" href="../../da/d44/a11664.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a>)</td></tr>
-<tr class="separator:a697041ffa562bb6fff792beb159c7af2 inherit pub_methods_a11664"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae8823c5d649d182f572818bf3db72902 inherit pub_methods_a11664"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d44/a11664.html#ae8823c5d649d182f572818bf3db72902">CheckEffect</a> (<a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <a class="el" href="../../da/d44/a11664.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a>)=0</td></tr>
-<tr class="separator:ae8823c5d649d182f572818bf3db72902 inherit pub_methods_a11664"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab818ed274cfd66ecc565b8535b751517 inherit pub_methods_a11664"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d44/a11664.html#ab818ed274cfd66ecc565b8535b751517">EffIndexToString</a> ()</td></tr>
-<tr class="separator:ab818ed274cfd66ecc565b8535b751517 inherit pub_methods_a11664"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4fe66bbf0433e80b602683a278e3a709"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d84/a11772.html#a4fe66bbf0433e80b602683a278e3a709">EffectCalcAmountHandler</a> (AuraEffectCalcAmountFnType _pEffectHandlerScript, <a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _effIndex, <a class="el" href="../../d6/d1a/a00485.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> _effName)</td></tr>
+<tr class="separator:a4fe66bbf0433e80b602683a278e3a709"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4b5af2593dcb80930c6a45b7035767ca"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d84/a11772.html#a4b5af2593dcb80930c6a45b7035767ca">Call</a> (<a class="el" href="../../d6/dce/a11748.html">AuraScript</a> *auraScript, <a class="el" href="../../db/d09/a11520.html">AuraEffect</a> const *aurEff, <a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> &amp;amount, bool &amp;canBeRecalculated)</td></tr>
+<tr class="separator:a4b5af2593dcb80930c6a45b7035767ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a11760"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a11760')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d1/d51/a11760.html">AuraScript::EffectBase</a></td></tr>
+<tr class="memitem:ab02f9f344e2f32ad59b35993d5c8f819 inherit pub_methods_a11760"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d51/a11760.html#ab02f9f344e2f32ad59b35993d5c8f819">EffectBase</a> (<a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _effIndex, <a class="el" href="../../d6/d1a/a00485.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> _effName)</td></tr>
+<tr class="separator:ab02f9f344e2f32ad59b35993d5c8f819 inherit pub_methods_a11760"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab6f5b2a7ec1183206110eac9a21a7de5 inherit pub_methods_a11760"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d51/a11760.html#ab6f5b2a7ec1183206110eac9a21a7de5">ToString</a> ()</td></tr>
+<tr class="separator:ab6f5b2a7ec1183206110eac9a21a7de5 inherit pub_methods_a11760"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c300ca68c3ff6f74b230835c566fd60 inherit pub_methods_a11760"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d51/a11760.html#a8c300ca68c3ff6f74b230835c566fd60">CheckEffect</a> (<a class="el" href="../../d9/d60/a11636.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <a class="el" href="../../db/d95/a11696.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a>) override</td></tr>
+<tr class="separator:a8c300ca68c3ff6f74b230835c566fd60 inherit pub_methods_a11760"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a11704"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a11704')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d3/d0b/a11704.html">_SpellScript::EffectAuraNameCheck</a></td></tr>
+<tr class="memitem:a4b10ec0fcb3ffd841cf790574875017d inherit pub_methods_a11704"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0b/a11704.html#a4b10ec0fcb3ffd841cf790574875017d">EffectAuraNameCheck</a> (<a class="el" href="../../d6/d1a/a00485.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> _effAurName)</td></tr>
+<tr class="separator:a4b10ec0fcb3ffd841cf790574875017d inherit pub_methods_a11704"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7fff405a99c65d3e846463ca29a8ddfd inherit pub_methods_a11704"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0b/a11704.html#a7fff405a99c65d3e846463ca29a8ddfd">Check</a> (<a class="el" href="../../d9/d60/a11636.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> effIndex)</td></tr>
+<tr class="separator:a7fff405a99c65d3e846463ca29a8ddfd inherit pub_methods_a11704"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a602fc1ddafe663e2e5ddceaeaec8b118 inherit pub_methods_a11704"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0b/a11704.html#a602fc1ddafe663e2e5ddceaeaec8b118">ToString</a> ()</td></tr>
+<tr class="separator:a602fc1ddafe663e2e5ddceaeaec8b118 inherit pub_methods_a11704"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a11696"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a11696')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../db/d95/a11696.html">_SpellScript::EffectHook</a></td></tr>
+<tr class="memitem:a4a197e061d918dfba2bc486f3393b00d inherit pub_methods_a11696"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d95/a11696.html#a4a197e061d918dfba2bc486f3393b00d">EffectHook</a> (<a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> _effIndex)</td></tr>
+<tr class="separator:a4a197e061d918dfba2bc486f3393b00d inherit pub_methods_a11696"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa234f63b530764d12064acbe3f5c9299 inherit pub_methods_a11696"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d95/a11696.html#aa234f63b530764d12064acbe3f5c9299">~EffectHook</a> ()</td></tr>
+<tr class="separator:aa234f63b530764d12064acbe3f5c9299 inherit pub_methods_a11696"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a31faa86590e22f5ab3ca518f4df02840 inherit pub_methods_a11696"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d95/a11696.html#a31faa86590e22f5ab3ca518f4df02840">GetAffectedEffectsMask</a> (<a class="el" href="../../d9/d60/a11636.html">SpellInfo</a> const *spellInfo)</td></tr>
+<tr class="separator:a31faa86590e22f5ab3ca518f4df02840 inherit pub_methods_a11696"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a697041ffa562bb6fff792beb159c7af2 inherit pub_methods_a11696"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d95/a11696.html#a697041ffa562bb6fff792beb159c7af2">IsEffectAffected</a> (<a class="el" href="../../d9/d60/a11636.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <a class="el" href="../../db/d95/a11696.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a>)</td></tr>
+<tr class="separator:a697041ffa562bb6fff792beb159c7af2 inherit pub_methods_a11696"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae8823c5d649d182f572818bf3db72902 inherit pub_methods_a11696"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d95/a11696.html#ae8823c5d649d182f572818bf3db72902">CheckEffect</a> (<a class="el" href="../../d9/d60/a11636.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> <a class="el" href="../../db/d95/a11696.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a>)=0</td></tr>
+<tr class="separator:ae8823c5d649d182f572818bf3db72902 inherit pub_methods_a11696"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab818ed274cfd66ecc565b8535b751517 inherit pub_methods_a11696"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d95/a11696.html#ab818ed274cfd66ecc565b8535b751517">EffIndexToString</a> ()</td></tr>
+<tr class="separator:ab818ed274cfd66ecc565b8535b751517 inherit pub_methods_a11696"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a0bb540e91e691b31191983614fa737dc"><td class="memItemLeft" align="right" valign="top">AuraCheckEffectProcFnType&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d84/a11772.html#a0bb540e91e691b31191983614fa737dc">_HandlerScript</a></td></tr>
-<tr class="separator:a0bb540e91e691b31191983614fa737dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa52c8c780dcc157e16d11f8222706f7a"><td class="memItemLeft" align="right" valign="top">AuraEffectCalcAmountFnType&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d84/a11772.html#aa52c8c780dcc157e16d11f8222706f7a">pEffectHandlerScript</a></td></tr>
+<tr class="separator:aa52c8c780dcc157e16d11f8222706f7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
-<tr class="inherit_header pro_attribs_a11664"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_a11664')"><img src="../../closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="../../da/d44/a11664.html">_SpellScript::EffectHook</a></td></tr>
-<tr class="memitem:ab5eb48ef7ac903938f92db0e856e0295 inherit pro_attribs_a11664"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d44/a11664.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a></td></tr>
-<tr class="separator:ab5eb48ef7ac903938f92db0e856e0295 inherit pro_attribs_a11664"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pro_attribs_a11696"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_a11696')"><img src="../../closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="../../db/d95/a11696.html">_SpellScript::EffectHook</a></td></tr>
+<tr class="memitem:ab5eb48ef7ac903938f92db0e856e0295 inherit pro_attribs_a11696"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d95/a11696.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a></td></tr>
+<tr class="separator:ab5eb48ef7ac903938f92db0e856e0295 inherit pro_attribs_a11696"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ac91e234c2ec9d458a70f501e9b672af0" name="ac91e234c2ec9d458a70f501e9b672af0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac91e234c2ec9d458a70f501e9b672af0">&#9670;&#160;</a></span>CheckEffectProcHandler()</h2>
+<a id="a4fe66bbf0433e80b602683a278e3a709" name="a4fe66bbf0433e80b602683a278e3a709"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4fe66bbf0433e80b602683a278e3a709">&#9670;&#160;</a></span>EffectCalcAmountHandler()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">AuraScript::CheckEffectProcHandler::CheckEffectProcHandler </td>
+          <td class="memname">AuraScript::EffectCalcAmountHandler::EffectCalcAmountHandler </td>
           <td>(</td>
-          <td class="paramtype">AuraCheckEffectProcFnType&#160;</td>
-          <td class="paramname"><em>handlerScript</em>, </td>
+          <td class="paramtype">AuraEffectCalcAmountFnType&#160;</td>
+          <td class="paramname"><em>_pEffectHandlerScript</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>effIndex</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>_effIndex</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
-          <td class="paramname"><em>effName</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>_effName</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -203,42 +203,47 @@ Additional Inherited Members</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  914</span>    : <a class="code hl_function" href="../../de/d90/a11728.html#ab02f9f344e2f32ad59b35993d5c8f819">EffectBase</a>(<a class="code hl_variable" href="../../da/d44/a11664.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a>, effName)</div>
-<div class="line"><span class="lineno">  915</span>{</div>
-<div class="line"><span class="lineno">  916</span>    <a class="code hl_variable" href="../../d5/d84/a11772.html#a0bb540e91e691b31191983614fa737dc">_HandlerScript</a> = handlerScript;</div>
-<div class="line"><span class="lineno">  917</span>}</div>
-<div class="ttc" id="aa11664_html_ab5eb48ef7ac903938f92db0e856e0295"><div class="ttname"><a href="../../da/d44/a11664.html#ab5eb48ef7ac903938f92db0e856e0295">_SpellScript::EffectHook::effIndex</a></div><div class="ttdeci">uint8 effIndex</div><div class="ttdef"><b>Definition:</b> SpellScript.h:82</div></div>
-<div class="ttc" id="aa11728_html_ab02f9f344e2f32ad59b35993d5c8f819"><div class="ttname"><a href="../../de/d90/a11728.html#ab02f9f344e2f32ad59b35993d5c8f819">AuraScript::EffectBase::EffectBase</a></div><div class="ttdeci">EffectBase(uint8 _effIndex, uint16 _effName)</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:787</div></div>
-<div class="ttc" id="aa11772_html_a0bb540e91e691b31191983614fa737dc"><div class="ttname"><a href="../../d5/d84/a11772.html#a0bb540e91e691b31191983614fa737dc">AuraScript::CheckEffectProcHandler::_HandlerScript</a></div><div class="ttdeci">AuraCheckEffectProcFnType _HandlerScript</div><div class="ttdef"><b>Definition:</b> SpellScript.h:651</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  825</span>    : <a class="code hl_class" href="../../d1/d51/a11760.html">AuraScript::EffectBase</a>(_effIndex, _effName)</div>
+<div class="line"><span class="lineno">  826</span>{</div>
+<div class="line"><span class="lineno">  827</span>    <a class="code hl_variable" href="../../d5/d84/a11772.html#aa52c8c780dcc157e16d11f8222706f7a">pEffectHandlerScript</a> = _pEffectHandlerScript;</div>
+<div class="line"><span class="lineno">  828</span>}</div>
+<div class="ttc" id="aa11760_html"><div class="ttname"><a href="../../d1/d51/a11760.html">AuraScript::EffectBase</a></div><div class="ttdef"><b>Definition:</b> SpellScript.h:558</div></div>
+<div class="ttc" id="aa11772_html_aa52c8c780dcc157e16d11f8222706f7a"><div class="ttname"><a href="../../d5/d84/a11772.html#aa52c8c780dcc157e16d11f8222706f7a">AuraScript::EffectCalcAmountHandler::pEffectHandlerScript</a></div><div class="ttdeci">AuraEffectCalcAmountFnType pEffectHandlerScript</div><div class="ttdef"><b>Definition:</b> SpellScript.h:586</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00651">_HandlerScript</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00586">pEffectHandlerScript</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="aca4c845623e63c38310986b86e312247" name="aca4c845623e63c38310986b86e312247"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aca4c845623e63c38310986b86e312247">&#9670;&#160;</a></span>Call()</h2>
+<a id="a4b5af2593dcb80930c6a45b7035767ca" name="a4b5af2593dcb80930c6a45b7035767ca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4b5af2593dcb80930c6a45b7035767ca">&#9670;&#160;</a></span>Call()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool AuraScript::CheckEffectProcHandler::Call </td>
+          <td class="memname">void AuraScript::EffectCalcAmountHandler::Call </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d05/a11716.html">AuraScript</a> *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d6/dce/a11748.html">AuraScript</a> *&#160;</td>
           <td class="paramname"><em>auraScript</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/d24/a11488.html">AuraEffect</a> const *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../db/d09/a11520.html">AuraEffect</a> const *&#160;</td>
           <td class="paramname"><em>aurEff</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/d6d/a08932.html">ProcEventInfo</a> &amp;&#160;</td>
-          <td class="paramname"><em>eventInfo</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> &amp;&#160;</td>
+          <td class="paramname"><em>amount</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool &amp;&#160;</td>
+          <td class="paramname"><em>canBeRecalculated</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -247,15 +252,15 @@ Additional Inherited Members</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  920</span>{</div>
-<div class="line"><span class="lineno">  921</span>    <span class="keywordflow">return</span> (auraScript-&gt;*<a class="code hl_variable" href="../../d5/d84/a11772.html#a0bb540e91e691b31191983614fa737dc">_HandlerScript</a>)(aurEff, eventInfo);</div>
-<div class="line"><span class="lineno">  922</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  831</span>{</div>
+<div class="line"><span class="lineno">  832</span>    (auraScript-&gt;*<a class="code hl_variable" href="../../d5/d84/a11772.html#aa52c8c780dcc157e16d11f8222706f7a">pEffectHandlerScript</a>)(aurEff, amount, canBeRecalculated);</div>
+<div class="line"><span class="lineno">  833</span>}</div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a0bb540e91e691b31191983614fa737dc" name="a0bb540e91e691b31191983614fa737dc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0bb540e91e691b31191983614fa737dc">&#9670;&#160;</a></span>_HandlerScript</h2>
+<a id="aa52c8c780dcc157e16d11f8222706f7a" name="aa52c8c780dcc157e16d11f8222706f7a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa52c8c780dcc157e16d11f8222706f7a">&#9670;&#160;</a></span>pEffectHandlerScript</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -264,7 +269,7 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">AuraCheckEffectProcFnType AuraScript::CheckEffectProcHandler::_HandlerScript</td>
+          <td class="memname">AuraEffectCalcAmountFnType AuraScript::EffectCalcAmountHandler::pEffectHandlerScript</td>
         </tr>
       </table>
   </td>
@@ -274,7 +279,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00913">CheckEffectProcHandler()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00824">EffectCalcAmountHandler()</a>.</p>
 
 </div>
 </div>
@@ -283,8 +288,8 @@ Additional Inherited Members</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d1/d05/a11716.html">AuraScript</a></li><li class="navelem"><a class="el" href="../../d5/d84/a11772.html">CheckEffectProcHandler</a></li>
-    <li class="footer">Generated on Mon Feb 23 2026 21:14:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d6/dce/a11748.html">AuraScript</a></li><li class="navelem"><a class="el" href="../../d5/d84/a11772.html">EffectCalcAmountHandler</a></li>
+    <li class="footer">Generated on Mon Mar 2 2026 21:04:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

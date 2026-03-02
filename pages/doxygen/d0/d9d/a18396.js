@@ -1,6 +1,8 @@
 var a18396 =
 [
-    [ "npc_big_oozeAI", "d7/d96/a18400.html", "d7/d96/a18400" ],
-    [ "npc_big_ooze", "d0/d9d/a18396.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
-    [ "GetAI", "d0/d9d/a18396.html#ad06308602d69b51ff3f269bda6c465b5", null ]
+    [ "HandleScript", "d0/d9d/a18396.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
+    [ "PrepareSpellScript", "d0/d9d/a18396.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
+    [ "Register", "d0/d9d/a18396.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
+    [ "SelectTarget", "d0/d9d/a18396.html#a36d575c6a63e94905bf435bc9d39e588", null ],
+    [ "Validate", "d0/d9d/a18396.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
 ];

@@ -1,15 +1,12 @@
 var a19784 =
 [
-    [ "boss_eregosAI", "d2/d4c/a19784.html#a5b09dacbddd6075c2ebf4d62a387a8b6", null ],
-    [ "DamageTaken", "d2/d4c/a19784.html#a7a4b4443aed576f080a56a27e15edfd4", null ],
-    [ "JustDied", "d2/d4c/a19784.html#ade16be2804b857fc8e93a62d4be42380", null ],
-    [ "JustEngagedWith", "d2/d4c/a19784.html#a1544782732beba5d7114c3bb70419ae1", null ],
-    [ "JustSummoned", "d2/d4c/a19784.html#a33ef5a080e457f4e08e7997b467b0974", null ],
-    [ "KilledUnit", "d2/d4c/a19784.html#a30ad32a4a63ae17eef4fc703a6749d38", null ],
-    [ "MoveInLineOfSight", "d2/d4c/a19784.html#ac622481abb0190bdc7654b383766a9ed", null ],
-    [ "Reset", "d2/d4c/a19784.html#aeec469c2c9d0ad27461478ee57c30c56", null ],
-    [ "UpdateAI", "d2/d4c/a19784.html#a2a190fdb6b1c9ed4eba2b9e536c5cf36", null ],
-    [ "events", "d2/d4c/a19784.html#ae6f1f2e3146525596c3dbb646283b744", null ],
-    [ "pInstance", "d2/d4c/a19784.html#abf0b366d7b0931ccc30711a33736dda8", null ],
-    [ "shiftNumber", "d2/d4c/a19784.html#a16c90dba1f0a7f4cc2025e294dbac455", null ]
+    [ "instance_nexus_InstanceMapScript", "d2/d4c/a19784.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
+    [ "Initialize", "d2/d4c/a19784.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
+    [ "KillAllFrayers", "d2/d4c/a19784.html#a7c696467deba7a2f15d5175e3427bd20", null ],
+    [ "OnCreatureCreate", "d2/d4c/a19784.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
+    [ "OnGameObjectCreate", "d2/d4c/a19784.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
+    [ "OnGameObjectRemove", "d2/d4c/a19784.html#ac148c67823484eee38ab6646dfb68530", null ],
+    [ "SetBossState", "d2/d4c/a19784.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
+    [ "SetData", "d2/d4c/a19784.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ],
+    [ "_frayerGUIDs", "d2/d4c/a19784.html#ab85b5379b6c177dc1d61ccd14106a325", null ]
 ];

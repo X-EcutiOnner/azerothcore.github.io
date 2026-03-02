@@ -1,6 +1,6 @@
 var a21440 =
 [
-    [ "npc_violet_hold_defense_system", "dc/d6b/a21440.html#abb5eb275e803201aad3010ad77aa4b41", null ],
-    [ "Reset", "dc/d6b/a21440.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
-    [ "UpdateAI", "dc/d6b/a21440.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ]
+    [ "npc_azure_captainAI", "dc/dd7/a21444.html", "dc/dd7/a21444" ],
+    [ "npc_azure_captain", "dc/d6b/a21440.html#aeced2dbbfb23c161fd2bbc22859886a4", null ],
+    [ "GetAI", "dc/d6b/a21440.html#a0d1bd80fc38c61e05d3f31ffe587350f", null ]
 ];

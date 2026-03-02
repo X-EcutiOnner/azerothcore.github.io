@@ -1,8 +1,26 @@
 var a20576 =
 [
-    [ "npc_ulduar_mimiron_rocket", "df/d2f/a20576.html#aec8a2c9f653ddd1e8ea72093cb02d785", null ],
-    [ "InitializeAI", "df/d2f/a20576.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
-    [ "Reset", "df/d2f/a20576.html#a982da2f2392882a86e72de4c4769fa41", null ],
-    [ "SetData", "df/d2f/a20576.html#a507124f21657b62ff2b68060b52503b1", null ],
-    [ "UpdateAI", "df/d2f/a20576.html#ac26ec740ce5fa75f96babbe26e2263cc", null ]
+    [ "boss_mimiron", "df/d2f/a20576.html#a780bfc5cae4bd1c45671071e4d5f9521", null ],
+    [ "AttackStart", "df/d2f/a20576.html#aee739c9b16ae36af6104b54bde9cf7f7", null ],
+    [ "CloseDoorAndButton", "df/d2f/a20576.html#ab5aa46f62dcb16febafb8bb081b1ec38", null ],
+    [ "EnterEvadeMode", "df/d2f/a20576.html#a9f39f9afa3f561115c4f7e630364f566", null ],
+    [ "GetData", "df/d2f/a20576.html#ab3aa6e8702c74ee27fa776c0a9bef77d", null ],
+    [ "JustEngagedWith", "df/d2f/a20576.html#ab9ce3920c2a06deb31bcf25f1b2947a8", null ],
+    [ "JustReachedHome", "df/d2f/a20576.html#a9e84d80c2e194c6d51b9d67d0c72db19", null ],
+    [ "MoveInLineOfSight", "df/d2f/a20576.html#a0b1497cf1fc3cca2db670b74eb4745ee", null ],
+    [ "Reset", "df/d2f/a20576.html#aec9cce9e0fcab78cfcf37e605cc6c08a", null ],
+    [ "ResetGameObjects", "df/d2f/a20576.html#ac3a10be85349fc62ef14ecd937159e61", null ],
+    [ "SetData", "df/d2f/a20576.html#aa9578fe08ab058a64e67935d262224ac", null ],
+    [ "SpellHit", "df/d2f/a20576.html#af4e88527fb72bcbc1dc0a57b6007a461", null ],
+    [ "UpdateAI", "df/d2f/a20576.html#adea87e321b4c401109ab4c37e314aca2", null ],
+    [ "allowedFlameSpreadTime", "df/d2f/a20576.html#ad5e66bc6e8226e2bc238e03e615477a7", null ],
+    [ "bAchievBombBot", "df/d2f/a20576.html#ab37a096be0b05a190f0c06d08f4c587f", null ],
+    [ "bAchievProximityMine", "df/d2f/a20576.html#ad578e63b7e73bb808a6eff0f2ea04f72", null ],
+    [ "bAchievRocketStrike", "df/d2f/a20576.html#a815f7874653ef671ead7d3bb7afdc01c", null ],
+    [ "berserk", "df/d2f/a20576.html#af74157021d0711cb8d27f7437a272afc", null ],
+    [ "bIsEvading", "df/d2f/a20576.html#a40085505e82615d06f8182b400a35304", null ],
+    [ "changeAllowedFlameSpreadTime", "df/d2f/a20576.html#ac8369348d301e7b138bdc0c21b0f01f3", null ],
+    [ "hardmode", "df/d2f/a20576.html#aac452bf805a6a882b9dfb7465b1d8e96", null ],
+    [ "minutesTalkNum", "df/d2f/a20576.html#a034688591a493fa6701ffab962cad9c7", null ],
+    [ "outofCombatTimer", "df/d2f/a20576.html#ae6888654d187f2ca62eaf748f27306cf", null ]
 ];

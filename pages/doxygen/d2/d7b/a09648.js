@@ -1,8 +1,8 @@
 var a09648 =
 [
-    [ "AllGameObjectsWithEntryInRange", "d2/d7b/a09648.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56", null ],
-    [ "operator()", "d2/d7b/a09648.html#a342aa18d98413620fce4c676fcf75305", null ],
-    [ "m_fRange", "d2/d7b/a09648.html#a7cce16670c95c19f3eb68e5914160513", null ],
-    [ "m_pObject", "d2/d7b/a09648.html#a5c898c20992999f11204aab6479d71f6", null ],
-    [ "m_uiEntry", "d2/d7b/a09648.html#a64ff0c14c71e218b8f9a8888b1017fec", null ]
+    [ "AnyAssistCreatureInRangeCheck", "d2/d7b/a09648.html#a2e9cbff4e627fe8ccf67997123afe0a6", null ],
+    [ "operator()", "d2/d7b/a09648.html#a314a4800047f7e661cd011010b3f148e", null ],
+    [ "i_enemy", "d2/d7b/a09648.html#a37318ae783e6cf4a658063aab149e8a3", null ],
+    [ "i_funit", "d2/d7b/a09648.html#add1071091d1696c3f537483810dcb6f1", null ],
+    [ "i_range", "d2/d7b/a09648.html#a4bcf67be5bae4649d82586349d30be04", null ]
 ];

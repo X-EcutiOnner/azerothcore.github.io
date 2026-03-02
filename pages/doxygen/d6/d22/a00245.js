@@ -1,12 +1,11 @@
 var a00245 =
 [
-    [ "AggressorAI", "d2/d34/a06260.html", "d2/d34/a06260" ],
-    [ "CombatAI", "d2/dea/a06264.html", "d2/dea/a06264" ],
-    [ "CasterAI", "d3/d12/a06268.html", "d3/d12/a06268" ],
-    [ "ArcherAI", "d7/dd5/a06272.html", "d7/dd5/a06272" ],
-    [ "TurretAI", "d2/d3e/a06276.html", "d2/d3e/a06276" ],
-    [ "VehicleAI", "d8/d0b/a06280.html", "d8/d0b/a06280" ],
-    [ "VEHICLE_CONDITION_CHECK_TIME", "d6/d22/a00245.html#a2842973ff947088648cd327dc9e1d379", null ],
-    [ "VEHICLE_DISMISS_TIME", "d6/d22/a00245.html#a9b232fec810abbe5eaf5536e608b6e38", null ],
-    [ "SpellVct", "d6/d22/a00245.html#aef8ccdd14344d9c395d613c21bafd91e", null ]
+    [ "AABound", "d3/d82/a05088.html", "d3/d82/a05088" ],
+    [ "BIH", "d9/d2c/a05092.html", "d9/d2c/a05092" ],
+    [ "BIH::buildData", "db/d29/a05096.html", "db/d29/a05096" ],
+    [ "BIH::StackNode", "d6/da5/a05100.html", "d6/da5/a05100" ],
+    [ "BIH::BuildStats", "d0/d47/a05104.html", "d0/d47/a05104" ],
+    [ "MAX_STACK_SIZE", "d6/d22/a00245.html#accbb358028675c83675d8b34c386268d", null ],
+    [ "floatToRawIntBits", "d6/d22/a00245.html#ad04403146f53e198de60b6c4bec4246e", null ],
+    [ "intBitsToFloat", "d6/d22/a00245.html#a3b415e235398aa84c4f976084f8e130c", null ]
 ];

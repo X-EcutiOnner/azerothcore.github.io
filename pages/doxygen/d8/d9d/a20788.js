@@ -1,6 +1,7 @@
 var a20788 =
 [
-    [ "OnRemove", "d8/d9d/a20788.html#a492bd9e9c82937e00897e19362b40901", null ],
-    [ "PrepareAuraScript", "d8/d9d/a20788.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
-    [ "Register", "d8/d9d/a20788.html#adfcaf82ff48225ea0e0314d421795644", null ]
+    [ "npc_xt002_life_spark", "d8/d9d/a20788.html#ac524bfb0dd21bb59d4c602db04f14f64", null ],
+    [ "Reset", "d8/d9d/a20788.html#aa1bd9ed78b8586b46d297f186c9c430c", null ],
+    [ "UpdateAI", "d8/d9d/a20788.html#ab6f284dd4d5dad3d38bae062abe544fa", null ],
+    [ "_attackTimer", "d8/d9d/a20788.html#aa8b46e7a044c90fe9e342e9bffe7e4dc", null ]
 ];

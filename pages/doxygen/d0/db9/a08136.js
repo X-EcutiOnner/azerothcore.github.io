@@ -1,10 +1,12 @@
 var a08136 =
 [
-    [ "LfgUpdateData", "d0/db9/a08136.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
-    [ "LfgUpdateData", "d0/db9/a08136.html#a656873ea6ef9b3f23791827617a000c6", null ],
-    [ "LfgUpdateData", "d0/db9/a08136.html#a248682a712dd43b8c4601830aae4ddec", null ],
-    [ "comment", "d0/db9/a08136.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
-    [ "dungeons", "d0/db9/a08136.html#a0e9b49693248b438dbc508e230a870db", null ],
-    [ "state", "d0/db9/a08136.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
-    [ "updateType", "d0/db9/a08136.html#a146e43854f66bf57f703d7089a24481e", null ]
+    [ "far_clip", "d0/db9/a08136.html#af70a06bda2dffbf2d3c49cb696beea2f", null ],
+    [ "fov", "d0/db9/a08136.html#ae553ef5e28cc3af3acd45b9efd309fbe", null ],
+    [ "near_clip", "d0/db9/a08136.html#a9426497de885b901d364c0b3ddd487d9", null ],
+    [ "position_base", "d0/db9/a08136.html#abf0892be5ecf6d1e1021e101832396f3", null ],
+    [ "positions", "d0/db9/a08136.html#a5d23816339fea0ac1e2c6fdad5fe58d8", null ],
+    [ "rolldata", "d0/db9/a08136.html#ad3428dcc0b93e509c9225fa86ea2d691", null ],
+    [ "target_position_base", "d0/db9/a08136.html#a2515ee6fa2fc41f7fca531b55cf0dc61", null ],
+    [ "target_positions", "d0/db9/a08136.html#a12132e4bcc881cab134851938c45e05a", null ],
+    [ "type", "d0/db9/a08136.html#afd67c926b538e189b036d88a9a277a2f", null ]
 ];

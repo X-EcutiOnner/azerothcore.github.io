@@ -1,11 +1,6 @@
 var a16616 =
 [
-    [ "boss_saviana_ragefireAI", "d0/d29/a16616.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
-    [ "JustDied", "d0/d29/a16616.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
-    [ "JustEngagedWith", "d0/d29/a16616.html#a458eb370872c20441b5ec6ecd2c97500", null ],
-    [ "JustReachedHome", "d0/d29/a16616.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
-    [ "KilledUnit", "d0/d29/a16616.html#ac07513681c72d6748246cc7c349d117c", null ],
-    [ "MovementInform", "d0/d29/a16616.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
-    [ "Reset", "d0/d29/a16616.html#a4b7f103331c566cbf007a075161505af", null ],
-    [ "UpdateAI", "d0/d29/a16616.html#af36ca2a359f950a10214d07aad240324", null ]
+    [ "HandlePeriodic", "d0/d29/a16616.html#a7753587518171689f86f3f76269c1b8a", null ],
+    [ "PrepareAuraScript", "d0/d29/a16616.html#aa73351e7200bee94b0068fb8dabfada5", null ],
+    [ "Register", "d0/d29/a16616.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
 ];

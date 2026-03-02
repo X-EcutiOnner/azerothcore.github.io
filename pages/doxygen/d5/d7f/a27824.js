@@ -1,6 +1,6 @@
 var a27824 =
 [
-    [ "HandleEffectCalcSpellMod", "d5/d7f/a27824.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
-    [ "PrepareAuraScript", "d5/d7f/a27824.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
-    [ "Register", "d5/d7f/a27824.html#af60592a9f1e595f31814eae405d03d5a", null ]
+    [ "HandleHeal", "d5/d7f/a27824.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
+    [ "PrepareSpellScript", "d5/d7f/a27824.html#a61a601108cd59e5d87634c02b002e20d", null ],
+    [ "Register", "d5/d7f/a27824.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
 ];

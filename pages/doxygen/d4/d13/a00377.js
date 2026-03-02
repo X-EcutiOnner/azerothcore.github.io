@@ -1,4 +1,4 @@
 var a00377 =
 [
-    [ "B32Impl", "d2/dbc/a05405.html", "d2/dbc/a05405" ]
+    [ "B32Impl", "d7/d66/a05524.html", "d7/d66/a05524" ]
 ];

@@ -1,6 +1,5 @@
 var a04730 =
 [
-    [ "RealmBuildInfo", "d2/df6/a28409.html", "d2/df6/a28409" ],
-    [ "RealmList", "d2/d62/a28413.html", "d2/d62/a28413" ],
-    [ "sRealmList", "db/d62/a04730.html#a639c880efde6e31a4bf6be6b5bcc3cd3", null ]
+    [ "gm_commandscript", "d8/dbe/a12108.html", "d8/dbe/a12108" ],
+    [ "AddSC_gm_commandscript", "db/d62/a04730.html#a65c7b128fdf4dd9807ef514c24918e7b", null ]
 ];

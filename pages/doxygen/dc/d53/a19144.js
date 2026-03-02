@@ -1,7 +1,6 @@
 var a19144 =
 [
-    [ "Land", "dc/d53/a19144.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
-    [ "PrepareSpellScript", "dc/d53/a19144.html#a31e45adb87719c311fb5b94b2b744487", null ],
-    [ "Register", "dc/d53/a19144.html#a652eca6ec8079b2835d911807857c8a8", null ],
-    [ "RemoveAliveTarget", "dc/d53/a19144.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
+    [ "npc_arthas_teleport_visualAI", "d2/d3f/a19148.html", "d2/d3f/a19148" ],
+    [ "npc_arthas_teleport_visual", "dc/d53/a19144.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
+    [ "GetAI", "dc/d53/a19144.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
 ];

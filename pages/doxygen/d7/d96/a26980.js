@@ -1,6 +1,9 @@
 var a26980 =
 [
-    [ "CheckRequirement", "d7/d96/a26980.html#acaae3858de4d56028e3cb4581a57450c", null ],
-    [ "PrepareSpellScript", "d7/d96/a26980.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
-    [ "Register", "d7/d96/a26980.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
+    [ "HandleAfterCast", "d7/d96/a26980.html#ac08e632064c407346649f525d030d335", null ],
+    [ "HandleDummy", "d7/d96/a26980.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
+    [ "Load", "d7/d96/a26980.html#a177525c755b036a79263c0fa6fa4082e", null ],
+    [ "PrepareSpellScript", "d7/d96/a26980.html#aed99b07a53068b19bddb4daff3449a52", null ],
+    [ "Register", "d7/d96/a26980.html#a946e56a325d83656d9b43af80d065e45", null ],
+    [ "_triggerSpellId", "d7/d96/a26980.html#a6697a22b684784853cb1999d41fcaaa7", null ]
 ];

@@ -1,6 +1,7 @@
 var a21988 =
 [
-    [ "npc_boneguard_footmanAI", "dd/d20/a21988.html#a04eff1976824724b321f0c0d95e0940a", null ],
-    [ "UpdateAI", "dd/d20/a21988.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
-    [ "checkTimer", "dd/d20/a21988.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
+    [ "npc_battle_at_valhalasAI", "d7/dad/a21992.html", "d7/dad/a21992" ],
+    [ "npc_battle_at_valhalas", "dd/d20/a21988.html#aacec717b5b91ae55307c9642779c15ec", null ],
+    [ "GetAI", "dd/d20/a21988.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
+    [ "OnQuestAccept", "dd/d20/a21988.html#addd76fd9f4b4f8ce706693614b80966b", null ]
 ];

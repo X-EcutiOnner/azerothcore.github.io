@@ -1,6 +1,6 @@
 var a18240 =
 [
-    [ "HandleScriptEffect", "d8/de3/a18240.html#ac6017cbe86b328aef00f707051c67e5f", null ],
-    [ "PrepareSpellScript", "d8/de3/a18240.html#a3e21794652b0ffea67571f9b294b4961", null ],
-    [ "Register", "d8/de3/a18240.html#a4d070dff98fed842e0a3839e918f7c5a", null ]
+    [ "BoneStormMoveTargetSelector", "d8/de3/a18240.html#acd13e67fbbc29137ca2b77aaf9dc0e77", null ],
+    [ "operator()", "d8/de3/a18240.html#a5b53c140d38db0df8faef3dfaf5c458d", null ],
+    [ "_source", "d8/de3/a18240.html#a03d8b1ec5f18398fe2963418bb319973", null ]
 ];

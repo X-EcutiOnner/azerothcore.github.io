@@ -1,6 +1,6 @@
 var a23712 =
 [
-    [ "HandleCast", "da/d89/a23712.html#a912dc3b17ab7d0818089c32610d82a16", null ],
-    [ "PrepareSpellScript", "da/d89/a23712.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
-    [ "Register", "da/d89/a23712.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
+    [ "instance_the_botanica_InstanceMapScript", "dc/d52/a23716.html", "dc/d52/a23716" ],
+    [ "instance_the_botanica", "da/d89/a23712.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
+    [ "GetInstanceScript", "da/d89/a23712.html#a335f671443ca0fb9db5956cefdf37182", null ]
 ];

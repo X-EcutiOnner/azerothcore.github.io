@@ -1,6 +1,29 @@
 var a29584 =
 [
-    [ "ForceInitValues", "dd/d43/a29584.html#a51bcb2ec0bf6b92a0ed7a29abd675bf5", null ],
-    [ "Player", "dd/d43/a29584.html#ad56f27531abb9267f144b2b22d61a5bf", null ],
-    [ "UpdateObjectVisibility", "dd/d43/a29584.html#a2b00c7bea40d5cbd4343d859555060a3", null ]
+    [ "ProcEventInfoBuilder", "dd/d43/a29584.html#a38c50e7852d5c87d2774372fbde47bc9", null ],
+    [ "Build", "dd/d43/a29584.html#ae0f8d3a43a218b4459db0aa3fee95bf0", null ],
+    [ "WithActionTarget", "dd/d43/a29584.html#a07d934345c43ecd6c8cebeb678e08dab", null ],
+    [ "WithActor", "dd/d43/a29584.html#a4a2faf802f7ef682e7be2b7ada7a0ff5", null ],
+    [ "WithDamageInfo", "dd/d43/a29584.html#a4d207196177033340282dd33b11c9d82", null ],
+    [ "WithHealInfo", "dd/d43/a29584.html#a3883e3ba66735492617a9907cdde3794", null ],
+    [ "WithHitMask", "dd/d43/a29584.html#ac8d9c890333158313fb6bd9bdcd14fcf", null ],
+    [ "WithProcAuraEffectIndex", "dd/d43/a29584.html#aec3496f0ce0cd0be4f8b1b2f48146206", null ],
+    [ "WithProcTarget", "dd/d43/a29584.html#af39d23e9a51f924215a20a578062a9db", null ],
+    [ "WithSpell", "dd/d43/a29584.html#a42ec10664e0fdad98e02267099f0e73c", null ],
+    [ "WithSpellPhaseMask", "dd/d43/a29584.html#a2247bbb4936f6d48c4214641a5a466af", null ],
+    [ "WithSpellTypeMask", "dd/d43/a29584.html#aebac87d053e09dba16456a9f49322973", null ],
+    [ "WithTriggeredByAuraSpell", "dd/d43/a29584.html#a5c0b48710a9526e1dc8202a92a91e852", null ],
+    [ "WithTypeMask", "dd/d43/a29584.html#a83de461b19bd737c5aa2e7fd3ad2a302", null ],
+    [ "_actionTarget", "dd/d43/a29584.html#a8571e92b47a6ad8327bdf8d1a0b57f04", null ],
+    [ "_actor", "dd/d43/a29584.html#a03c844febd2cafe041e5426a02816633", null ],
+    [ "_damageInfo", "dd/d43/a29584.html#acf2feea658b0a4a3d7b2d663aae7e3ee", null ],
+    [ "_healInfo", "dd/d43/a29584.html#aa9756e003fd8c4f2d88197e9c4ec159f", null ],
+    [ "_hitMask", "dd/d43/a29584.html#a0ef08d3b368b347a4c4e2538616329b4", null ],
+    [ "_procAuraEffectIndex", "dd/d43/a29584.html#a3d2adb99c5291a29b2265c4d834b8df0", null ],
+    [ "_procTarget", "dd/d43/a29584.html#afbc6d5efae5c965c61ebb7972aafb7f0", null ],
+    [ "_spell", "dd/d43/a29584.html#a5e6cc0a9d3a3afc81453d606116450d7", null ],
+    [ "_spellPhaseMask", "dd/d43/a29584.html#a58ea480d734bfccb3835a2a29618c8ea", null ],
+    [ "_spellTypeMask", "dd/d43/a29584.html#aefbc707a11b34a2bae78f5cf52d4b7a0", null ],
+    [ "_triggeredByAuraSpell", "dd/d43/a29584.html#a71180307b8e60ec02f11f388f43df126", null ],
+    [ "_typeMask", "dd/d43/a29584.html#ab64fb7418fce62b008ca62a2fea54c67", null ]
 ];

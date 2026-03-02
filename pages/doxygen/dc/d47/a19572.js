@@ -1,6 +1,7 @@
 var a19572 =
 [
-    [ "boss_razuvious_minionAI", "d8/d5d/a19576.html", "d8/d5d/a19576" ],
-    [ "boss_razuvious_minion", "dc/d47/a19572.html#ae23d51c9ebfe31f624a749578d27252c", null ],
-    [ "GetAI", "dc/d47/a19572.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
+    [ "OnPeriodic", "dc/d47/a19572.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
+    [ "PrepareAuraScript", "dc/d47/a19572.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
+    [ "Register", "dc/d47/a19572.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
+    [ "Validate", "dc/d47/a19572.html#a54cfed486827216817adb740efa6646e", null ]
 ];

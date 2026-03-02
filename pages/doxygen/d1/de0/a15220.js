@@ -1,6 +1,6 @@
 var a15220 =
 [
-    [ "npc_cos_chromie_start", "d1/de0/a15220.html#ae8f810af1e593ad16958049f6ad19616", null ],
-    [ "OnGossipSelect", "d1/de0/a15220.html#a35cba5a1b7865b07a4e843648cea50c8", null ],
-    [ "OnQuestAccept", "d1/de0/a15220.html#aa730cb17e6cfe917bc32f7e7ae52e8ef", null ]
+    [ "boss_meathookAI", "da/db7/a15224.html", "da/db7/a15224" ],
+    [ "boss_meathook", "d1/de0/a15220.html#a044c8ec4a419e5c5a8b290df9c0ad169", null ],
+    [ "GetAI", "d1/de0/a15220.html#ae8ee3631ff1f80f4fad99e4eca042ad8", null ]
 ];

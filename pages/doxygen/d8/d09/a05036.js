@@ -1,20 +1,12 @@
 var a05036 =
 [
-    [ "MMapMgr", "d8/d09/a05036.html#abd4bd2ef84d57be5000ab37ed36ded8c", null ],
-    [ "~MMapMgr", "d8/d09/a05036.html#a09b83a0d5246838d42a49c5103957480", null ],
-    [ "getLoadedMapsCount", "d8/d09/a05036.html#a8b087a39387a10c17dca364b9db537f9", null ],
-    [ "getLoadedTilesCount", "d8/d09/a05036.html#a14fe8d762bac4d5d179af1acf8bfe84e", null ],
-    [ "GetMMapData", "d8/d09/a05036.html#a755d34666349eba1d7665e510afa3453", null ],
-    [ "GetNavMesh", "d8/d09/a05036.html#aeae84fe910639b71a40949de59e41c91", null ],
-    [ "GetNavMeshQuery", "d8/d09/a05036.html#af9b97f1e32233fef4e4828a4c8907abc", null ],
-    [ "InitializeThreadUnsafe", "d8/d09/a05036.html#a88c7145d0475a2e5d9be5baa72a2ca7e", null ],
-    [ "loadMap", "d8/d09/a05036.html#aa27722de47fd0f5ea0d0afac8b08e161", null ],
-    [ "loadMapData", "d8/d09/a05036.html#ac677ea014721d0631195ba64b05c66a0", null ],
-    [ "packTileID", "d8/d09/a05036.html#ace3265c248ccf2a34ca4b7c43f294e43", null ],
-    [ "unloadMap", "d8/d09/a05036.html#a83acf8ce1357052ccb8aa6b63f6860ca", null ],
-    [ "unloadMap", "d8/d09/a05036.html#a2d933fd783126e48423d81d1c06fb3f9", null ],
-    [ "unloadMapInstance", "d8/d09/a05036.html#aa97a8352cad200ea1243e968dc1629a6", null ],
-    [ "loadedMMaps", "d8/d09/a05036.html#a98a7d0bf952eb80340863f2336ae84d1", null ],
-    [ "loadedTiles", "d8/d09/a05036.html#a9e2154958fcfa78d8906ccb5ccf2597c", null ],
-    [ "thread_safe_environment", "d8/d09/a05036.html#a89c7b087891d313e69437504dc0e449f", null ]
+    [ "DismissCritter", "de/d47/a11300.html", "de/d47/a11300" ],
+    [ "PetAbandon", "d6/dd0/a11304.html", "d6/dd0/a11304" ],
+    [ "PetActionSound", "d1/d5a/a11328.html", "d1/d5a/a11328" ],
+    [ "PetDismissSound", "d4/dc4/a11332.html", "d4/dc4/a11332" ],
+    [ "PetLearnedSpell", "d0/d7b/a11316.html", "d0/d7b/a11316" ],
+    [ "PetSpellAutocast", "d6/dfb/a11312.html", "d6/dfb/a11312" ],
+    [ "PetStopAttack", "d6/d96/a11308.html", "d6/d96/a11308" ],
+    [ "PetUnlearnedSpell", "d6/df4/a11320.html", "d6/df4/a11320" ],
+    [ "RequestPetInfo", "d3/d54/a11324.html", "d3/d54/a11324" ]
 ];

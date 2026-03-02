@@ -1,6 +1,6 @@
 var a23484 =
 [
-    [ "HandleScriptEffect", "d5/d16/a23484.html#afae95a49843aa956d627e9bd92f8820f", null ],
-    [ "PrepareSpellScript", "d5/d16/a23484.html#a434945da0a6b64db79cab0e09cbbb286", null ],
-    [ "Register", "d5/d16/a23484.html#a396acb663b8c9151196b8fedea3660c7", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "dc/d2b/a23488.html", "dc/d2b/a23488" ],
+    [ "instance_blood_furnace", "d5/d16/a23484.html#a925a045fa518e72c1eff02fe3c66202b", null ],
+    [ "GetInstanceScript", "d5/d16/a23484.html#a885ba94e1777dfd6586daca304622d3d", null ]
 ];

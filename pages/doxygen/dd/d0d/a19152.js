@@ -1,6 +1,7 @@
 var a19152 =
 [
-    [ "PrepareSpellScript", "dd/d0d/a19152.html#aac12da39c503615036120e3e0cd55622", null ],
-    [ "Register", "dd/d0d/a19152.html#a808d2283be9714c14f22a2df0a52dd61", null ],
-    [ "RelocateDest", "dd/d0d/a19152.html#a843c9dc403404ddd2de667e57e01f00c", null ]
+    [ "OnApply", "dd/d0d/a19152.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
+    [ "OnRemove", "dd/d0d/a19152.html#a697a7c76f944b5df956a9de07746b7a9", null ],
+    [ "PrepareAuraScript", "dd/d0d/a19152.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
+    [ "Register", "dd/d0d/a19152.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
 ];

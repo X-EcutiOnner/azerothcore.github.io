@@ -1,15 +1,7 @@
 var a09940 =
 [
-    [ "MailSender", "de/db3/a09940.html#a16466924bf75ea8203ba27c0f3e6188b", null ],
-    [ "MailSender", "de/db3/a09940.html#a735cfef6950357644d6965978dde0309", null ],
-    [ "MailSender", "de/db3/a09940.html#a145000f5ef63627ee26a5699846e06cf", null ],
-    [ "MailSender", "de/db3/a09940.html#a9ddda06cf5ecc55efdc4525353471c5b", null ],
-    [ "MailSender", "de/db3/a09940.html#a7d5a5e40aa20de720f310b739f159225", null ],
-    [ "MailSender", "de/db3/a09940.html#a12c87bb414a3e8889c95091f3b51716b", null ],
-    [ "GetMailMessageType", "de/db3/a09940.html#a64c99a49ec01d2226b6bf740edb380fb", null ],
-    [ "GetSenderId", "de/db3/a09940.html#a03145c3fdc5bbabc64019e63e121132b", null ],
-    [ "GetStationery", "de/db3/a09940.html#a6a4446e52e20ad7ab4817bf024b38631", null ],
-    [ "m_messageType", "de/db3/a09940.html#a45a312eda342d2197f15d73b47d7787b", null ],
-    [ "m_senderId", "de/db3/a09940.html#a0954b3514cfcba4258b1b266dfd71ddb", null ],
-    [ "m_stationery", "de/db3/a09940.html#a1bbced35b4600f9a45a421d28a33393b", null ]
+    [ "QuestItem", "de/db3/a09940.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
+    [ "QuestItem", "de/db3/a09940.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
+    [ "index", "de/db3/a09940.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
+    [ "is_looted", "de/db3/a09940.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
 ];

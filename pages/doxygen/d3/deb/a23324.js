@@ -1,7 +1,6 @@
 var a23324 =
 [
-    [ "npc_underbog_mushroom", "d3/deb/a23324.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
-    [ "InitializeAI", "d3/deb/a23324.html#a7c192010cc63715eaa3f38b1d1372936", null ],
-    [ "UpdateAI", "d3/deb/a23324.html#a9a8ed51b12809152ebe78dda69944d77", null ],
-    [ "_scheduler", "d3/deb/a23324.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
+    [ "HandleAfterRemove", "d3/deb/a23324.html#a74610b06095572aa2c898cd84e0fb229", null ],
+    [ "PrepareAuraScript", "d3/deb/a23324.html#ac0d686490ff37810e0116dea4d0b6077", null ],
+    [ "Register", "d3/deb/a23324.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
 ];

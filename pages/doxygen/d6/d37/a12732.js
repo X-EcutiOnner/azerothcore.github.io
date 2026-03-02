@@ -1,9 +1,6 @@
 var a12732 =
 [
-    [ "FilterTargets", "d6/d37/a12732.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "d6/d37/a12732.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "d6/d37/a12732.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "d6/d37/a12732.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "d6/d37/a12732.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "d6/d37/a12732.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "boss_firemawAI", "d6/d37/a12732.html#ab3f56c97119676b1a75662e52caecb75", null ],
+    [ "JustEngagedWith", "d6/d37/a12732.html#a04cb1d2fa18dba82b9c881b09406a076", null ],
+    [ "UpdateAI", "d6/d37/a12732.html#a6e35e47b23d713263ef00769324bbbed", null ]
 ];

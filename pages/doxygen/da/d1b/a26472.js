@@ -1,8 +1,10 @@
 var a26472 =
 [
-    [ "OnRemove", "da/d1b/a26472.html#a992c78ac4ce2a94c4f38c7a81f2a9c45", null ],
-    [ "PrepareAuraScript", "da/d1b/a26472.html#ad06dbe9207315484cbb886fcc75bb958", null ],
-    [ "PrepareProc", "da/d1b/a26472.html#a2f4b562be28420d25d09b81ad72af17f", null ],
-    [ "Register", "da/d1b/a26472.html#a04d9c48f8842392a4d318677537ac248", null ],
-    [ "Validate", "da/d1b/a26472.html#ab15a75ec708d8c683166bd73fab29701", null ]
+    [ "CheckProc", "da/d1b/a26472.html#a787008462dce35eb27deda41301b146d", null ],
+    [ "HandleProc", "da/d1b/a26472.html#a5b791c7cb8dae574fef801ce42dc6aa1", null ],
+    [ "Load", "da/d1b/a26472.html#a9760351c28f5f9948f0b64ae2ca91c24", null ],
+    [ "PrepareAuraScript", "da/d1b/a26472.html#ab3d5e71597c67ec0aed70f7e5d2319ac", null ],
+    [ "Register", "da/d1b/a26472.html#aa4ef731870355dc386fcd07c5f19d090", null ],
+    [ "Validate", "da/d1b/a26472.html#ad04864f0710262364cf40e071446d87c", null ],
+    [ "_procTarget", "da/d1b/a26472.html#a9383231fc71c6239507fdf8765d63f3d", null ]
 ];

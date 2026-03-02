@@ -1,4 +1,4 @@
 var a01478 =
 [
-    [ "ScriptRegistry< ModuleScript >", "d8/d7b/a01478.html#a7749cbcc2b6820dc30c515ebb6cefe36", null ]
+    [ "MOVEMENT_PACKET_TIME_DELAY", "d8/d7b/a01478.html#a69e254ae3a119a96053add6b9732296c", null ]
 ];

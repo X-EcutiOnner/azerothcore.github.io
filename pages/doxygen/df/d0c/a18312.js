@@ -1,7 +1,5 @@
 var a18312 =
 [
-    [ "HandleExtraEffect", "df/d0c/a18312.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
-    [ "PrepareAuraScript", "df/d0c/a18312.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
-    [ "Register", "df/d0c/a18312.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
-    [ "Validate", "df/d0c/a18312.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
+    [ "npc_volatile_oozeAI", "df/d0c/a18312.html#af042d4c22482aabcdad6fa867dfe093f", null ],
+    [ "CastMainSpell", "df/d0c/a18312.html#a91890785174ecc60c9553a0aedf1961b", null ]
 ];

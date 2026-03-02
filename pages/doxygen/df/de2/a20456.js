@@ -1,5 +1,7 @@
 var a20456 =
 [
-    [ "achievement_i_could_say_that_this_cache_was_rare", "df/de2/a20456.html#a8ec1949d92f21fe57f967e510453da3e", null ],
-    [ "OnCheck", "df/de2/a20456.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
+    [ "HandleAfterEffectApply", "df/de2/a20456.html#adab765d78094eec673abce5140145267", null ],
+    [ "OnApply", "df/de2/a20456.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
+    [ "PrepareAuraScript", "df/de2/a20456.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
+    [ "Register", "df/de2/a20456.html#ac1007ce2ee5e046639829558855f0188", null ]
 ];

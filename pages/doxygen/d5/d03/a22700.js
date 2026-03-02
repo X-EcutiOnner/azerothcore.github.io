@@ -1,8 +1,7 @@
 var a22700 =
 [
-    [ "Load", "d5/d03/a22700.html#a4ff26763f05b07d882cd8d209464910e", null ],
-    [ "OnPeriodic", "d5/d03/a22700.html#a3e3bb503a6b5f90741a4df668851accf", null ],
-    [ "PrepareAuraScript", "d5/d03/a22700.html#a4126d35669859963f10ed1425a054298", null ],
-    [ "Register", "d5/d03/a22700.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
-    [ "Validate", "d5/d03/a22700.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
+    [ "HandleEffectRemove", "d5/d03/a22700.html#a0d8d042e6e9bf8fd26b6f283f6da6194", null ],
+    [ "PrepareAuraScript", "d5/d03/a22700.html#a84ec7db2aab055bc4328a4d8862bd3f5", null ],
+    [ "Register", "d5/d03/a22700.html#a9ee8e71020c17f593472de5a9c130753", null ],
+    [ "Validate", "d5/d03/a22700.html#a08be3cb2bef2f4697b7e258b231bd35b", null ]
 ];

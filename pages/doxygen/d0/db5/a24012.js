@@ -1,19 +1,14 @@
 var a24012 =
 [
-    [ "npc_captain_saeedAI", "d0/db5/a24012.html#a794f43bb0e26fffe7bb74cb8fe3a42a6", null ],
-    [ "CorpseRemoved", "d0/db5/a24012.html#aca7fa593af007f1ca0c49156336c0fe3", null ],
-    [ "EnterEvadeMode", "d0/db5/a24012.html#a8e48660d5f0349572bb5d7a760e0afc0", null ],
-    [ "GetData", "d0/db5/a24012.html#a5e9999a3a8dcce054e9f2f5f367318d1", null ],
-    [ "JustDied", "d0/db5/a24012.html#a72e72ced5223360eea3b511de988b2bd", null ],
-    [ "JustEngagedWith", "d0/db5/a24012.html#abbe76c4dbe8292e3ec00cb0f396b7da8", null ],
-    [ "MoveInLineOfSight", "d0/db5/a24012.html#a92e8d7c84407a16d608a163cb8dadc6e", null ],
-    [ "Reset", "d0/db5/a24012.html#aae80afee1e69e188264e04ba12b00682", null ],
-    [ "SetGUID", "d0/db5/a24012.html#a4a50d7299d5d2b7a6756781dca62b624", null ],
-    [ "SummonsAction", "d0/db5/a24012.html#a7ffef7c2b998062ecc3544b2b8508a4c", null ],
-    [ "UpdateAI", "d0/db5/a24012.html#a2e3fd3ec84807f5b35ba6745c5ca7788", null ],
-    [ "WaypointReached", "d0/db5/a24012.html#a2af760112f66b315ee36ecc2c4205d44", null ],
-    [ "events", "d0/db5/a24012.html#a3e48ae282cea46e17e9558864f87aa3b", null ],
-    [ "fight", "d0/db5/a24012.html#a19f52a735bbd742862a417fb3adb23a2", null ],
-    [ "started", "d0/db5/a24012.html#a30299a3d26b5e6d4ff56b48754f0023c", null ],
-    [ "summons", "d0/db5/a24012.html#a5b82a1e7e182e67338e5aeca3b678ea7", null ]
+    [ "npc_maghar_captiveAI", "d0/db5/a24012.html#abab2cfe84f4bb83fea3b35202a957bb5", null ],
+    [ "JustDied", "d0/db5/a24012.html#adbef78d8c908bfbce6ea506c55fb6922", null ],
+    [ "JustEngagedWith", "d0/db5/a24012.html#a2a0ec4a496c7352ba88ceef99eb769e4", null ],
+    [ "JustSummoned", "d0/db5/a24012.html#afe55f91acd8c47a758b8d08bd07d763f", null ],
+    [ "Reset", "d0/db5/a24012.html#abebcdcb102f8d338ae0b792708940cd7", null ],
+    [ "SpellHitTarget", "d0/db5/a24012.html#ab4f4deaae35fdbd602c9925f26e6d0e7", null ],
+    [ "UpdateAI", "d0/db5/a24012.html#a295cbae9196e320fabbb4cfb9dc33150", null ],
+    [ "WaypointReached", "d0/db5/a24012.html#abfbba8942df57e974ab24ad693c16e70", null ],
+    [ "ChainLightningTimer", "d0/db5/a24012.html#aa00a6978074f62d3d8ddead64d3240cf", null ],
+    [ "FrostShockTimer", "d0/db5/a24012.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f", null ],
+    [ "HealTimer", "d0/db5/a24012.html#a31613adba706f3b5f948f2f7c4222038", null ]
 ];

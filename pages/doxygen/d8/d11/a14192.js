@@ -1,6 +1,8 @@
 var a14192 =
 [
-    [ "npc_lady_sylvanas_windrunner_bfuAI", "d9/d3a/a14196.html", "d9/d3a/a14196" ],
-    [ "npc_lady_sylvanas_windrunner_bfu", "d8/d11/a14192.html#a77e98bc345f7d27f145d4b29c4deb58e", null ],
-    [ "GetAI", "d8/d11/a14192.html#a94fdd0778818fcc6a8b818d38dde6f75", null ]
+    [ "npc_varian_wrynnAI", "d9/d3a/a14196.html", "d9/d3a/a14196" ],
+    [ "npc_varian_wrynn", "d8/d11/a14192.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "d8/d11/a14192.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "d8/d11/a14192.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "d8/d11/a14192.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

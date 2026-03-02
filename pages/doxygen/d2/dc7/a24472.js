@@ -1,8 +1,7 @@
 var a24472 =
 [
-    [ "CheckProc", "d2/dc7/a24472.html#aaba070a16ff0ba45b4062abe30c79cf5", null ],
-    [ "HandleProc", "d2/dc7/a24472.html#a7682ed37759329da8e4e475e98a23161", null ],
-    [ "PrepareAuraScript", "d2/dc7/a24472.html#ac4cc997ddd92e741f9f105bda4ec00b9", null ],
-    [ "Register", "d2/dc7/a24472.html#a5ab16c8eb40822679739e15a2ceac715", null ],
-    [ "Validate", "d2/dc7/a24472.html#a34919ab1f3b2d4e98536c3ded56cf5fc", null ]
+    [ "HandleProc", "d2/dc7/a24472.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
+    [ "PrepareAuraScript", "d2/dc7/a24472.html#a2840931b939b95e6a476c07f08ca66b5", null ],
+    [ "Register", "d2/dc7/a24472.html#ae769fddc14aed4d1055d2f947d292fcf", null ],
+    [ "lastChargeUsedTime", "d2/dc7/a24472.html#a69e1d242b6d4bfc752e7e0921aa0f90c", null ]
 ];

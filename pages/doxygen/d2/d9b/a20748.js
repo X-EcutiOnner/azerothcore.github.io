@@ -1,9 +1,6 @@
 var a20748 =
 [
-    [ "npc_xt002_scrapbot", "d2/d9b/a20748.html#a0c7270ccbac5c12af8aaec998408046f", null ],
-    [ "JustDied", "d2/d9b/a20748.html#ac6c9cf84bf11e31bcaf620d4c92fa3d0", null ],
-    [ "MovementInform", "d2/d9b/a20748.html#a7c167b396927f73736531b53056bc262", null ],
-    [ "Reset", "d2/d9b/a20748.html#aa9753f72910da1bb56a090e77fc029fb", null ],
-    [ "UpdateAI", "d2/d9b/a20748.html#a3f5cffc3225ced1ccdf3fc0964cc2c05", null ],
-    [ "_locked", "d2/d9b/a20748.html#aaa4e129ebea658b0f2e224e024f6010f", null ]
+    [ "OnPeriodic", "d2/d9b/a20748.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
+    [ "PrepareAuraScript", "d2/d9b/a20748.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
+    [ "Register", "d2/d9b/a20748.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
 ];

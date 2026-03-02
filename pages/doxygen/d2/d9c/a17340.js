@@ -1,10 +1,6 @@
 var a17340 =
 [
-    [ "npc_hor_spiritual_reflectionAI", "d2/d9c/a17340.html#aac0a916bfa325284b354e7241fe857ab", null ],
-    [ "EnterEvadeMode", "d2/d9c/a17340.html#a49f1c93206bfff53090c138a3dbf79e5", null ],
-    [ "JustDied", "d2/d9c/a17340.html#a72073c44f881d4a78552de4119a716d7", null ],
-    [ "JustEngagedWith", "d2/d9c/a17340.html#ac35e648b93bb39ca831390bf88f6a3e7", null ],
-    [ "Reset", "d2/d9c/a17340.html#ad1f523fad45c34077e6d6ce7b9a4aefd", null ],
-    [ "UpdateAI", "d2/d9c/a17340.html#af9613e9309b85317bc6e3a84013dcf89", null ],
-    [ "events", "d2/d9c/a17340.html#a89a466917aa5634c4c86ecbce21280b7", null ]
+    [ "npc_shadowy_mercenaryAI", "d1/dc5/a17344.html", "d1/dc5/a17344" ],
+    [ "npc_shadowy_mercenary", "d2/d9c/a17340.html#a3ace4bb80f6771c586caa7f2dedf2b93", null ],
+    [ "GetAI", "d2/d9c/a17340.html#ada4b63bf708b3d19ce6d3a2b36c96672", null ]
 ];

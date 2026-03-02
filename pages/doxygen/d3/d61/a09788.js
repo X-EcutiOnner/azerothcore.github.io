@@ -1,10 +1,12 @@
 var a09788 =
 [
-    [ "PlayerMoveItemData", "d3/d61/a09788.html#a2f707719b409975ddd3023d2239403d6", null ],
-    [ "CanStore", "d3/d61/a09788.html#a00680db86d45ad8e8652218fce05139d", null ],
-    [ "InitItem", "d3/d61/a09788.html#a34298fd6ac20ab0e02c6350dcc5a4d33", null ],
-    [ "IsBank", "d3/d61/a09788.html#ae4d45104dccf78581b4228a31fe192ad", null ],
-    [ "LogBankEvent", "d3/d61/a09788.html#a36516c5ca1aaa13afa9e61831a175068", null ],
-    [ "RemoveItem", "d3/d61/a09788.html#a482460f04b20349e909bac36f893a35a", null ],
-    [ "StoreItem", "d3/d61/a09788.html#a017e3bd414548e66f980587e81e598e5", null ]
+    [ "LogEntry", "d3/d61/a09788.html#af61604a7dc0cc4da315a09fa5b207f37", null ],
+    [ "LogEntry", "d3/d61/a09788.html#aba3f6f501c59e356166abe71082c421b", null ],
+    [ "~LogEntry", "d3/d61/a09788.html#a3c66b8a7be1800c5a9e1dc15aab6d3e9", null ],
+    [ "GetGUID", "d3/d61/a09788.html#a7af4eac577f8da07540f81e185b2ad49", null ],
+    [ "GetTimestamp", "d3/d61/a09788.html#a643c92439463707671bb08b72bf3a447", null ],
+    [ "SaveToDB", "d3/d61/a09788.html#a1c00aa88973423a1c112c2776a14e78f", null ],
+    [ "m_guid", "d3/d61/a09788.html#a75754f42f8a202a9a319c86515a3f0dd", null ],
+    [ "m_guildId", "d3/d61/a09788.html#a89e0192732a43dc44aff3730bc5ad445", null ],
+    [ "m_timestamp", "d3/d61/a09788.html#ad19e7364e1beba61c9b7a4383b6d42c6", null ]
 ];

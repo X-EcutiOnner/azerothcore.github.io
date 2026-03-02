@@ -1,6 +1,6 @@
 var a15536 =
 [
-    [ "HandleScriptEffect", "d0/db9/a15536.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
-    [ "PrepareSpellScript", "d0/db9/a15536.html#aa109d61baba87acf5bce5d44bff55214", null ],
-    [ "Register", "d0/db9/a15536.html#ac8412777c84abfe56262d6d83163e9a1", null ]
+    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "d1/de9/a15540.html", "d1/de9/a15540" ],
+    [ "instance_ruins_of_ahnqiraj", "d0/db9/a15536.html#adeacb1c68e4b12995a335d1bedde075a", null ],
+    [ "GetInstanceScript", "d0/db9/a15536.html#a6a661e961c2599498de0ccd41c0763b4", null ]
 ];

@@ -1,9 +1,7 @@
 var a00518 =
 [
-    [ "RandomMovementGenerator< T >", "d5/d82/a10228.html", "d5/d82/a10228" ],
-    [ "MAX_PATH_LENGHT_FACTOR", "d5/dee/a00518.html#a6e563601030e3152f7023ecd4fa3f3c7", null ],
-    [ "MIN_WANDER_DISTANCE_AIR", "d5/dee/a00518.html#a81b46c6e5a328cf46ead22b160a8a576", null ],
-    [ "MIN_WANDER_DISTANCE_GROUND", "d5/dee/a00518.html#a85e56933db548199999e1edb8e96836d", null ],
-    [ "RANDOM_LINKS_COUNT", "d5/dee/a00518.html#af447061c654f18b25537973f2739dad3", null ],
-    [ "RANDOM_POINTS_NUMBER", "d5/dee/a00518.html#ac0f6eaac315a81192c2307dcbac20f70", null ]
+    [ "DamageInfoStub", "db/d1c/a29520.html", "db/d1c/a29520" ],
+    [ "HealInfoStub", "da/d55/a29524.html", "da/d55/a29524" ],
+    [ "DamageInfoStubBuilder", "d3/d13/a29528.html", "d3/d13/a29528" ],
+    [ "HealInfoStubBuilder", "de/d6a/a29532.html", "de/d6a/a29532" ]
 ];

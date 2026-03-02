@@ -1,8 +1,6 @@
 var a18972 =
 [
-    [ "Load", "d6/d10/a18972.html#a3a5fa4814a7724db0ba7be5c5158798b", null ],
-    [ "PeriodicTick", "d6/d10/a18972.html#a4ff0ab22db0bbd4483ddb379de069c48", null ],
-    [ "PrepareAuraScript", "d6/d10/a18972.html#a029820fbfc34af4d0ccb825a9f9d2b0d", null ],
-    [ "Register", "d6/d10/a18972.html#a909819dde9d5154f3d2cf04b04fa33f7", null ],
-    [ "_instance", "d6/d10/a18972.html#aebebb858f2ae41f2260d6843b3da8052", null ]
+    [ "npc_suppresserAI", "d5/d23/a18976.html", "d5/d23/a18976" ],
+    [ "npc_suppresser", "d6/d10/a18972.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
+    [ "GetAI", "d6/d10/a18972.html#a48869515abbac1491337a93b987231da", null ]
 ];

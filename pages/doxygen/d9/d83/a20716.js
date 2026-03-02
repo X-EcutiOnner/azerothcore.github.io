@@ -1,11 +1,10 @@
 var a20716 =
 [
-    [ "boss_thorim_arena_npcs", "d9/d83/a20716.html#a849567e412254aa8d0d7da33b6b1522f", null ],
-    [ "CanAIAttack", "d9/d83/a20716.html#aa4f90aadf8a9705fea03433195d41ad0", null ],
-    [ "JustEngagedWith", "d9/d83/a20716.html#a2f23cddcf5a0db42ba24730dfbe54976", null ],
-    [ "Reset", "d9/d83/a20716.html#a7b118ec6fa25c0f452419d1f5b4a698f", null ],
-    [ "SelectT", "d9/d83/a20716.html#a3fa38189c886a486aabb39a372834938", null ],
-    [ "UpdateAI", "d9/d83/a20716.html#a6a8489763ca223c749aa71c2da05b3cf", null ],
-    [ "_isCaster", "d9/d83/a20716.html#abfd184437df3983659a9ae21a13638fb", null ],
-    [ "events", "d9/d83/a20716.html#aad99dd6ca7d3595222ce42b5b859e462", null ]
+    [ "boss_thorim_sif_blizzard", "d9/d83/a20716.html#a7d4054eb43079fe13e5a7a6c85b461ec", null ],
+    [ "AttackStart", "d9/d83/a20716.html#ab41c744d8573b1f8ce5e82e798c9bd4f", null ],
+    [ "InitWaypoint", "d9/d83/a20716.html#a55424c77633aaa62e12581a818736441", null ],
+    [ "JustEngagedWith", "d9/d83/a20716.html#a019b50cc265dff0e92417482b85ccf64", null ],
+    [ "MoveInLineOfSight", "d9/d83/a20716.html#a6e5333d6a87956d2052c2212a3dcb0fa", null ],
+    [ "Reset", "d9/d83/a20716.html#a347fcc28a0bc660b9fa93fe7fc54eea0", null ],
+    [ "WaypointReached", "d9/d83/a20716.html#af69dfd0ec232c7e45d13b117988ba924", null ]
 ];

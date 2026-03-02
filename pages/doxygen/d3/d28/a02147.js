@@ -1,9 +1,4 @@
 var a02147 =
 [
-    [ "instance_gruuls_lair", "d4/d34/a23428.html", "d4/d34/a23428" ],
-    [ "instance_gruuls_lair::instance_gruuls_lair_InstanceMapScript", "da/d1e/a23432.html", "da/d1e/a23432" ],
-    [ "AddSC_instance_gruuls_lair", "d3/d28/a02147.html#a6c9bd5a761d9018e8be9e0c11b8db2c5", null ],
-    [ "creatureData", "d3/d28/a02147.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d3/d28/a02147.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "minionData", "d3/d28/a02147.html#a6720238df140a3c574a711042b7f5bd3", null ]
+    [ "UPDATE_TARGET", "d3/d28/a02147.html#a7147e15125e75e9e1624cd480f4afb5f", null ]
 ];

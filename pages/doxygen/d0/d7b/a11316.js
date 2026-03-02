@@ -1,7 +1,6 @@
 var a11316 =
 [
-    [ "TimeQueryResponse", "d0/d7b/a11316.html#abefcc15670a85ae023d24bfa5dc26a11", null ],
-    [ "Write", "d0/d7b/a11316.html#a5fbfca11889684a0ab6b437eb30527cc", null ],
-    [ "ServerTime", "d0/d7b/a11316.html#a9dfc03a60bb8a1f20eb850e3f8a00b88", null ],
-    [ "TimeResponse", "d0/d7b/a11316.html#a4f528e5c08dc67a2c6f7826b21a771ed", null ]
+    [ "PetLearnedSpell", "d0/d7b/a11316.html#a5d105cca08515b9550998f2c86b13a1a", null ],
+    [ "Write", "d0/d7b/a11316.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
+    [ "SpellID", "d0/d7b/a11316.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
 ];

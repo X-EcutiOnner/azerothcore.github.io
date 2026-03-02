@@ -1,5 +1,5 @@
 var a22448 =
 [
-    [ "outdoorpvp_na_halaa_creatures", "df/dec/a22448.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
-    [ "UpdateAI", "df/dec/a22448.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
+    [ "OutdoorPvP_grizzly_hills", "df/dec/a22448.html#aa020d8120c62874fb15b4623bbb714d9", null ],
+    [ "GetOutdoorPvP", "df/dec/a22448.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
 ];

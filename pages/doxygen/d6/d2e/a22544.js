@@ -1,8 +1,12 @@
 var a22544 =
 [
-    [ "boss_tavarok", "d6/d2e/a22544.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
-    [ "JustDied", "d6/d2e/a22544.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
-    [ "JustEngagedWith", "d6/d2e/a22544.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
-    [ "KilledUnit", "d6/d2e/a22544.html#a2c99df9457c548ee562fde920592ea88", null ],
-    [ "Reset", "d6/d2e/a22544.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
+    [ "boss_shirrak_the_dead_watcher", "d6/d2e/a22544.html#aaa6826de3b6563342b89544b38386d93", null ],
+    [ "EnterEvadeMode", "d6/d2e/a22544.html#a23768629c4ab48954880c3c29099f432", null ],
+    [ "getStackCount", "d6/d2e/a22544.html#aabca8240dfdc6603f0c244286a4d2cfe", null ],
+    [ "JustEngagedWith", "d6/d2e/a22544.html#a095ce3401bf0e40255e3104c01ce5fb0", null ],
+    [ "JustSummoned", "d6/d2e/a22544.html#a0a8e0d5126d14bd6d15004320b311f36", null ],
+    [ "Reset", "d6/d2e/a22544.html#aa16810aeadfac21c53a28ffbca3babdc", null ],
+    [ "SpellHitTarget", "d6/d2e/a22544.html#a7cb51a74e53dd6a22a3dbfe4e2220d37", null ],
+    [ "UpdateAI", "d6/d2e/a22544.html#a855505f949f53f979187abcb5b2f617f", null ],
+    [ "focusGUID", "d6/d2e/a22544.html#a81a7eade42ef595c173d7828ce59ef88", null ]
 ];

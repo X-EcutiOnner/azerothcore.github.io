@@ -1,11 +1,7 @@
 var a23424 =
 [
-    [ "boss_krosh_firehand", "d4/d84/a23424.html#a1ef3618844f086de7875f26e7e6190f9", null ],
-    [ "AttackStart", "d4/d84/a23424.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
-    [ "JustDied", "d4/d84/a23424.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
-    [ "JustEngagedWith", "d4/d84/a23424.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
-    [ "Reset", "d4/d84/a23424.html#a989c4b762a7cdb228b245e91881d97a2", null ],
-    [ "UpdateAI", "d4/d84/a23424.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
-    [ "_scheduler", "d4/d84/a23424.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
-    [ "instance", "d4/d84/a23424.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
+    [ "OnApply", "d4/d84/a23424.html#a301e47da9be4b4a449701c59c19bc62b", null ],
+    [ "PrepareAuraScript", "d4/d84/a23424.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
+    [ "Register", "d4/d84/a23424.html#aaf38547f7fa233b03429734dbe374f13", null ],
+    [ "Validate", "d4/d84/a23424.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/DungeonFinding/LFGMgr.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellProcChanceTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,283 +106,958 @@ $(document).ready(function(){initNavTree('d7/db1/a00590.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#typedef-members">Typedefs</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">LFGMgr.h File Reference</div></div>
+  <div class="headertitle"><div class="title">SpellProcChanceTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;utility&gt;</code><br />
-<code>#include &quot;<a class="el" href="../../">DBCStructure.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Field.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">LFG.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">LFGGroupData.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">LFGPlayerData.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">LFGQueue.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Map.h</a>&quot;</code><br />
+
+<p><a class="el" href="../../d7/d19/a08988.html">Unit</a> tests for proc chance calculations.  
+<a href="#details">More...</a></p>
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ProcEventInfoHelper.h</a>&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d54/a08124.html">lfg::RBEntryInfo</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/da2/a08128.html">lfg::RBInternalInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d2e/a08132.html">lfg::LfgJoinResultData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db9/a08136.html">lfg::LfgUpdateData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d5c/a08140.html">lfg::LfgQueueStatusData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d5c/a08144.html">lfg::LfgPlayerRewardData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db0/a08148.html">lfg::LfgReward</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d16/a08152.html">lfg::LfgProposalPlayer</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/de7/a08156.html">lfg::LfgProposal</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db5/a08160.html">lfg::LfgRoleCheck</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dba/a08164.html">lfg::LfgPlayerBoot</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dae/a08168.html">lfg::LFGDungeonData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d32/a08172.html">lfg::LFGMgr</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:da/de7/a04983"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html">lfg</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a9876016115774ddaf27fca5cc9adb96e"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#a9876016115774ddaf27fca5cc9adb96e">sLFGMgr</a>&#160;&#160;&#160;<a class="el" href="../../d1/d32/a08172.html#a40e2454e77be7332ccf88bfc5cffa412">lfg::LFGMgr::instance</a>()</td></tr>
-<tr class="separator:a9876016115774ddaf27fca5cc9adb96e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a65f1d8636d10579769f79b63216ff29d"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, LFGQueue &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#a65f1d8636d10579769f79b63216ff29d">lfg::LfgQueueContainer</a></td></tr>
-<tr class="separator:a65f1d8636d10579769f79b63216ff29d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adac5e1437b49269ef8924ba9881272d5"><td class="memItemLeft" align="right" valign="top">typedef std::multimap&lt; <a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, LfgReward const  * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#adac5e1437b49269ef8924ba9881272d5">lfg::LfgRewardContainer</a></td></tr>
-<tr class="separator:adac5e1437b49269ef8924ba9881272d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abcc3483295387dfccf618b74e0b2baba"><td class="memItemLeft" align="right" valign="top">typedef std::pair&lt; LfgRewardContainer::const_iterator, LfgRewardContainer::const_iterator &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#abcc3483295387dfccf618b74e0b2baba">lfg::LfgRewardContainerBounds</a></td></tr>
-<tr class="separator:abcc3483295387dfccf618b74e0b2baba"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4b4f05b0e6e1405dd9e8f44ed1da0382"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d8/d59/a04337.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, LfgDungeonSet &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#a4b4f05b0e6e1405dd9e8f44ed1da0382">lfg::LfgCachedDungeonContainer</a></td></tr>
-<tr class="separator:a4b4f05b0e6e1405dd9e8f44ed1da0382"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a24a94f53e8d64ec14618126aff5fb965"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d7/dac/a08632.html">ObjectGuid</a>, LfgAnswer &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#a24a94f53e8d64ec14618126aff5fb965">lfg::LfgAnswerContainer</a></td></tr>
-<tr class="separator:a24a94f53e8d64ec14618126aff5fb965"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acee938e89db441d919dd9fbebcb7e175"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d7/dac/a08632.html">ObjectGuid</a>, LfgRoleCheck &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#acee938e89db441d919dd9fbebcb7e175">lfg::LfgRoleCheckContainer</a></td></tr>
-<tr class="separator:acee938e89db441d919dd9fbebcb7e175"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acbfe9a85dee28a22715e30710463368f"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, LfgProposal &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#acbfe9a85dee28a22715e30710463368f">lfg::LfgProposalContainer</a></td></tr>
-<tr class="separator:acbfe9a85dee28a22715e30710463368f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afd0c41953ace620938ac2509b7622b7e"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d7/dac/a08632.html">ObjectGuid</a>, LfgProposalPlayer &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#afd0c41953ace620938ac2509b7622b7e">lfg::LfgProposalPlayerContainer</a></td></tr>
-<tr class="separator:afd0c41953ace620938ac2509b7622b7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8b7ffe5b0af9c677b84adf100fa5cd2e"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d7/dac/a08632.html">ObjectGuid</a>, LfgPlayerBoot &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#a8b7ffe5b0af9c677b84adf100fa5cd2e">lfg::LfgPlayerBootContainer</a></td></tr>
-<tr class="separator:a8b7ffe5b0af9c677b84adf100fa5cd2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1191f332347cf635992fa819f9b4c0f4"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d7/dac/a08632.html">ObjectGuid</a>, LfgGroupData &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#a1191f332347cf635992fa819f9b4c0f4">lfg::LfgGroupDataContainer</a></td></tr>
-<tr class="separator:a1191f332347cf635992fa819f9b4c0f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a359159fc18660e1597cc4a90255412f1"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d7/dac/a08632.html">ObjectGuid</a>, LfgPlayerData &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#a359159fc18660e1597cc4a90255412f1">lfg::LfgPlayerDataContainer</a></td></tr>
-<tr class="separator:a359159fc18660e1597cc4a90255412f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a20632643454bb292a5d524a3d230dbe0"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, LFGDungeonData &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#a20632643454bb292a5d524a3d230dbe0">lfg::LFGDungeonContainer</a></td></tr>
-<tr class="separator:a20632643454bb292a5d524a3d230dbe0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a07e4718e8cf678327c72b7deb48ccdb4"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#a07e4718e8cf678327c72b7deb48ccdb4">lfg::LfgOptions</a> { <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a07e4718e8cf678327c72b7deb48ccdb4a60b973ec0c197664894bba68e8d86c76">lfg::LFG_OPTION_ENABLE_DUNGEON_FINDER</a> = 0x01
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a07e4718e8cf678327c72b7deb48ccdb4ac6454c0e227f8e7d4f50c87341117668">lfg::LFG_OPTION_ENABLE_RAID_BROWSER</a> = 0x02
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a07e4718e8cf678327c72b7deb48ccdb4a3d8245a21e83ed011bc8c88f087cb913">lfg::LFG_OPTION_ENABLE_SEASONAL_BOSSES</a> = 0x04
-<br />
- }</td></tr>
-<tr class="separator:a07e4718e8cf678327c72b7deb48ccdb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2b5cf5a4940992366122159776b67c7c"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#a2b5cf5a4940992366122159776b67c7c">lfg::LFGMgrEnum</a> { <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a2b5cf5a4940992366122159776b67c7ca9515ecdf2873ba8695755161ba20588e">lfg::LFG_TIME_ROLECHECK</a> = 45 * IN_MILLISECONDS
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a2b5cf5a4940992366122159776b67c7ca5c2d973e50a206ed3db55622d9697c0b">lfg::LFG_TIME_BOOT</a> = 120
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a2b5cf5a4940992366122159776b67c7ca7c25463752da16999540b959230d1905">lfg::LFG_TIME_PROPOSAL</a> = 40
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a2b5cf5a4940992366122159776b67c7cac951b3dea36df017f7463d58209b14f2">lfg::LFG_QUEUEUPDATE_INTERVAL</a> = 8 * IN_MILLISECONDS
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a2b5cf5a4940992366122159776b67c7ca3ae4cb3e189406d52dcacbb4f110b158">lfg::LFG_SPELL_DUNGEON_COOLDOWN</a> = 71328
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a2b5cf5a4940992366122159776b67c7cad66eeedac753103a97f53bb7e31ac898">lfg::LFG_SPELL_DUNGEON_DESERTER</a> = 71041
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a2b5cf5a4940992366122159776b67c7cac7c7863ffdcf026bc67a11fb0fdddd22">lfg::LFG_SPELL_LUCK_OF_THE_DRAW</a> = 72221
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a2b5cf5a4940992366122159776b67c7ca87c8d7f48e3aefe68a3f779d7abb0d25">lfg::LFG_GROUP_KICK_VOTES_NEEDED</a> = 3
-<br />
- }</td></tr>
-<tr class="separator:a2b5cf5a4940992366122159776b67c7c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa6749e4a75f3be4d8fd23bcbfcaf9fa4"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#aa6749e4a75f3be4d8fd23bcbfcaf9fa4">lfg::LfgFlags</a> { <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#aa6749e4a75f3be4d8fd23bcbfcaf9fa4af72ca5749d5566cfce7b6c5395bf7577">lfg::LFG_FLAG_UNK1</a> = 0x1
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#aa6749e4a75f3be4d8fd23bcbfcaf9fa4af3939b4b2dd69f67d1e30b61c8d80955">lfg::LFG_FLAG_UNK2</a> = 0x2
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#aa6749e4a75f3be4d8fd23bcbfcaf9fa4a2da0374b926d52fc4a54f885012b3d29">lfg::LFG_FLAG_SEASONAL</a> = 0x4
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#aa6749e4a75f3be4d8fd23bcbfcaf9fa4a7562dd100ff7354498faee335023753d">lfg::LFG_FLAG_UNK3</a> = 0x8
-<br />
- }</td></tr>
-<tr class="separator:aa6749e4a75f3be4d8fd23bcbfcaf9fa4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2ecfd5a00384574f784eb4dcd16ec7ab"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#a2ecfd5a00384574f784eb4dcd16ec7ab">lfg::LfgType</a> { <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a2ecfd5a00384574f784eb4dcd16ec7aba38d20121dea70e0d59f16686b146bb56">lfg::LFG_TYPE_NONE</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a2ecfd5a00384574f784eb4dcd16ec7abab5b960f36f997ad211ccd39fdd8b7227">lfg::LFG_TYPE_DUNGEON</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a2ecfd5a00384574f784eb4dcd16ec7aba7c07908381b5c9e14dc9f9e5fecd3a8d">lfg::LFG_TYPE_RAID</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a2ecfd5a00384574f784eb4dcd16ec7aba41ddadf92eb865b0e08867c249cdf209">lfg::LFG_TYPE_ZONE</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a2ecfd5a00384574f784eb4dcd16ec7ababb809a2241eb417131fced2fab9b042d">lfg::LFG_TYPE_HEROIC</a> = 5
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a2ecfd5a00384574f784eb4dcd16ec7aba56bdd76db5a1388446f620fb0f6f15a1">lfg::LFG_TYPE_RANDOM</a> = 6
-<br />
- }</td></tr>
-<tr class="memdesc:a2ecfd5a00384574f784eb4dcd16ec7ab"><td class="mdescLeft">&#160;</td><td class="mdescRight">Determines the type of instance.  <a href="../../da/de7/a04983.html#a2ecfd5a00384574f784eb4dcd16ec7ab">More...</a><br /></td></tr>
-<tr class="separator:a2ecfd5a00384574f784eb4dcd16ec7ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af30d79c79d17992d26601ceaafebac05"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#af30d79c79d17992d26601ceaafebac05">lfg::LfgProposalState</a> { <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#af30d79c79d17992d26601ceaafebac05a991922b84548fc07827716fdc7ea89ce">lfg::LFG_PROPOSAL_INITIATING</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#af30d79c79d17992d26601ceaafebac05a40ecf8de384f323cb057559459e91051">lfg::LFG_PROPOSAL_FAILED</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#af30d79c79d17992d26601ceaafebac05a1eea01267c61b1858f0f2ab7bf69d119">lfg::LFG_PROPOSAL_SUCCESS</a> = 2
-<br />
- }</td></tr>
-<tr class="memdesc:af30d79c79d17992d26601ceaafebac05"><td class="mdescLeft">&#160;</td><td class="mdescRight">Proposal states.  <a href="../../da/de7/a04983.html#af30d79c79d17992d26601ceaafebac05">More...</a><br /></td></tr>
-<tr class="separator:af30d79c79d17992d26601ceaafebac05"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2232ae371575af57aa3eb549228d0acb"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#a2232ae371575af57aa3eb549228d0acb">lfg::LfgTeleportError</a> { <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a2232ae371575af57aa3eb549228d0acba8093282ba1eeb247266213b632692fc9">lfg::LFG_TELEPORTERROR_OK</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a2232ae371575af57aa3eb549228d0acbab9924473bbfdc491b8e9848ffbb4546e">lfg::LFG_TELEPORTERROR_PLAYER_DEAD</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a2232ae371575af57aa3eb549228d0acbad444e7a3d82c2a2dec0887cf690e019d">lfg::LFG_TELEPORTERROR_FALLING</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a2232ae371575af57aa3eb549228d0acbaff58d336ab2b518dc7ae25f8022bad9f">lfg::LFG_TELEPORTERROR_IN_VEHICLE</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a2232ae371575af57aa3eb549228d0acba99ab5212d8ee5e1fab2baa6fa1c1694e">lfg::LFG_TELEPORTERROR_FATIGUE</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a2232ae371575af57aa3eb549228d0acba7909339421b55e0b8a81441114074026">lfg::LFG_TELEPORTERROR_INVALID_LOCATION</a> = 6
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a2232ae371575af57aa3eb549228d0acbab5c8feea18c2b0ca13899b276004262e">lfg::LFG_TELEPORTERROR_COMBAT</a> = 8
-<br />
- }</td></tr>
-<tr class="memdesc:a2232ae371575af57aa3eb549228d0acb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Teleport errors.  <a href="../../da/de7/a04983.html#a2232ae371575af57aa3eb549228d0acb">More...</a><br /></td></tr>
-<tr class="separator:a2232ae371575af57aa3eb549228d0acb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af65dbea5eebf3cd1cd16595508fd18eb"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#af65dbea5eebf3cd1cd16595508fd18eb">lfg::LfgJoinResult</a> { <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#af65dbea5eebf3cd1cd16595508fd18ebad97a0cd2df6a43cecd1bbc717c08ac16">lfg::LFG_JOIN_OK</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#af65dbea5eebf3cd1cd16595508fd18ebaf8385ff3f88183a18aaefc2e5a0b8fd9">lfg::LFG_JOIN_FAILED</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#af65dbea5eebf3cd1cd16595508fd18ebab2e4b80c854ffcde7bb85704e00c2277">lfg::LFG_JOIN_GROUPFULL</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#af65dbea5eebf3cd1cd16595508fd18eba6d61fbf691ca43c0714dc025384aa004">lfg::LFG_JOIN_INTERNAL_ERROR</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#af65dbea5eebf3cd1cd16595508fd18ebafb6393cedafe796373d7393975818abd">lfg::LFG_JOIN_NOT_MEET_REQS</a> = 5
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#af65dbea5eebf3cd1cd16595508fd18eba820334a9820da285d1e46da7a8d7b37e">lfg::LFG_JOIN_PARTY_NOT_MEET_REQS</a> = 6
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#af65dbea5eebf3cd1cd16595508fd18eba6fd4392782aaed9557356f1648e47ef8">lfg::LFG_JOIN_MIXED_RAID_DUNGEON</a> = 7
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#af65dbea5eebf3cd1cd16595508fd18eba3482293b8477a597f275434ed8a1954f">lfg::LFG_JOIN_MULTI_REALM</a> = 8
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#af65dbea5eebf3cd1cd16595508fd18eba3f5055f96dcf8c7ff3868eb00576ac04">lfg::LFG_JOIN_DISCONNECTED</a> = 9
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#af65dbea5eebf3cd1cd16595508fd18ebac23d41aa09ce5a4a03773878cd6944ba">lfg::LFG_JOIN_PARTY_INFO_FAILED</a> = 10
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#af65dbea5eebf3cd1cd16595508fd18eba5b791ae92e1905f16fbaaa41cc9d8ffd">lfg::LFG_JOIN_DUNGEON_INVALID</a> = 11
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#af65dbea5eebf3cd1cd16595508fd18eba8e634ce1df5dbacebbad5ae4761ed0df">lfg::LFG_JOIN_DESERTER</a> = 12
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#af65dbea5eebf3cd1cd16595508fd18ebaeb66070b0c75cd964de435f081d09d92">lfg::LFG_JOIN_PARTY_DESERTER</a> = 13
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#af65dbea5eebf3cd1cd16595508fd18eba919251996a338f39e8b8995f87fec708">lfg::LFG_JOIN_RANDOM_COOLDOWN</a> = 14
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#af65dbea5eebf3cd1cd16595508fd18ebace9b51caf6cdf6bac5c3e05cf4b36128">lfg::LFG_JOIN_PARTY_RANDOM_COOLDOWN</a> = 15
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#af65dbea5eebf3cd1cd16595508fd18eba016eadb9dc423a41bab04bf6dd09b12d">lfg::LFG_JOIN_TOO_MUCH_MEMBERS</a> = 16
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#af65dbea5eebf3cd1cd16595508fd18eba6d0c107f099ffa1c5210ed1a7568e776">lfg::LFG_JOIN_USING_BG_SYSTEM</a> = 17
-<br />
- }</td></tr>
-<tr class="memdesc:af65dbea5eebf3cd1cd16595508fd18eb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Queue join results.  <a href="../../da/de7/a04983.html#af65dbea5eebf3cd1cd16595508fd18eb">More...</a><br /></td></tr>
-<tr class="separator:af65dbea5eebf3cd1cd16595508fd18eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9596c400ddbfa4a0eadda14c0be342ed"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#a9596c400ddbfa4a0eadda14c0be342ed">lfg::LfgRoleCheckState</a> { <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a9596c400ddbfa4a0eadda14c0be342eda7af5d6177f5a366540db6af65ff74658">lfg::LFG_ROLECHECK_DEFAULT</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a9596c400ddbfa4a0eadda14c0be342eda84e5c0e1526627ffd6faf84b4d6d3494">lfg::LFG_ROLECHECK_FINISHED</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a9596c400ddbfa4a0eadda14c0be342edaf94f67af1fc92b831b5a570ec61b47d1">lfg::LFG_ROLECHECK_INITIALITING</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a9596c400ddbfa4a0eadda14c0be342eda37a1afe09ab466e0059387b973d74af5">lfg::LFG_ROLECHECK_MISSING_ROLE</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a9596c400ddbfa4a0eadda14c0be342eda290ab83562c09ca79cc5b6f24b184ac0">lfg::LFG_ROLECHECK_WRONG_ROLES</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a9596c400ddbfa4a0eadda14c0be342eda4996fcd543a1db3f631416f632343fd6">lfg::LFG_ROLECHECK_ABORTED</a> = 5
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a9596c400ddbfa4a0eadda14c0be342edae033408ddbceae5d641f4eb755d897e8">lfg::LFG_ROLECHECK_NO_ROLE</a> = 6
-<br />
- }</td></tr>
-<tr class="memdesc:a9596c400ddbfa4a0eadda14c0be342ed"><td class="mdescLeft">&#160;</td><td class="mdescRight">Role check states.  <a href="../../da/de7/a04983.html#a9596c400ddbfa4a0eadda14c0be342ed">More...</a><br /></td></tr>
-<tr class="separator:a9596c400ddbfa4a0eadda14c0be342ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa797c078b83927ada0678e683e0ef86f"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#aa797c078b83927ada0678e683e0ef86f">lfg::LfgUpdateFlag</a> { <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#aa797c078b83927ada0678e683e0ef86fab54cd511c649ecb334f1b782b8fe7d02">lfg::LFG_UPDATE_FLAG_NONE</a> = 0x00
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#aa797c078b83927ada0678e683e0ef86fad280424588e2580b48bd7e81c750b617">lfg::LFG_UPDATE_FLAG_CHARACTERINFO</a> = 0x01
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#aa797c078b83927ada0678e683e0ef86facd9ae77c397a46cb09c314724d88062f">lfg::LFG_UPDATE_FLAG_COMMENT</a> = 0x02
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#aa797c078b83927ada0678e683e0ef86fa56f882d8c103fe1403a3ce1c1c890483">lfg::LFG_UPDATE_FLAG_GROUPLEADER</a> = 0x04
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#aa797c078b83927ada0678e683e0ef86faea6ff83bcbf7c67735734f7796329f3a">lfg::LFG_UPDATE_FLAG_GROUPGUID</a> = 0x08
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#aa797c078b83927ada0678e683e0ef86fae49ac758b8132c21c98556edf9b872d0">lfg::LFG_UPDATE_FLAG_ROLES</a> = 0x10
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#aa797c078b83927ada0678e683e0ef86fa0397c4bdc83258f74c631742096be1a5">lfg::LFG_UPDATE_FLAG_AREA</a> = 0x20
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#aa797c078b83927ada0678e683e0ef86fa681e478a8a9974b11422e4b00e07aa67">lfg::LFG_UPDATE_FLAG_STATUS</a> = 0x40
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#aa797c078b83927ada0678e683e0ef86fa08c8de52d41750ba3b8d4681d09c493c">lfg::LFG_UPDATE_FLAG_BINDED</a> = 0x80
-<br />
- }</td></tr>
-<tr class="separator:aa797c078b83927ada0678e683e0ef86f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7a9bf5071b96b3fc85b1c3c7a4d6a06d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06d">lfg::LfgSeasonalDungeons</a> { <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da3b710e1f7409dcce1369d24da8d0e27c">lfg::LFG_DUNGEON_HEADLESS_HORSEMAN</a> = 285
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da21ef8b8ff914dd66684e5cc85ca86f0e">lfg::LFG_DUNGEON_FROST_LORD_AHUNE</a> = 286
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da94d2d4aff127ae9692ba0f7688bc8243">lfg::LFG_DUNGEON_COREN_DIREBREW</a> = 287
-, <br />
-&#160;&#160;<a class="el" href="../../da/de7/a04983.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da6007d32ac1027fdc23c0db35632b3b9d">lfg::LFG_DUNGEON_CROWN_CHEMICAL_CO</a> = 288
-<br />
- }</td></tr>
-<tr class="separator:a7a9bf5071b96b3fc85b1c3c7a4d6a06d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a44b05d5c4dd27aa794f6cec4816524b6"><td class="memTemplParams" colspan="2">template&lt;typename T , FMT_ENABLE_IF(std::is_enum_v&lt; T &gt;) &gt; </td></tr>
-<tr class="memitem:a44b05d5c4dd27aa794f6cec4816524b6"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#a44b05d5c4dd27aa794f6cec4816524b6">lfg::format_as</a> (T f)</td></tr>
-<tr class="separator:a44b05d5c4dd27aa794f6cec4816524b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a19f98cdb20306306e21a5cb7a72c7e49"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#a19f98cdb20306306e21a5cb7a72c7e49">TEST_F</a> (<a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>, BaseChance_UsedWhenNoPPM)</td></tr>
+<tr class="separator:a19f98cdb20306306e21a5cb7a72c7e49"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a47c99d67681c44af53a6492d5994eed7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#a47c99d67681c44af53a6492d5994eed7">TEST_F</a> (<a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>, BaseChance_100Percent)</td></tr>
+<tr class="separator:a47c99d67681c44af53a6492d5994eed7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aac1c57c49df9c3786548c5015e7ecbe2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#aac1c57c49df9c3786548c5015e7ecbe2">TEST_F</a> (<a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>, BaseChance_Zero)</td></tr>
+<tr class="separator:aac1c57c49df9c3786548c5015e7ecbe2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abe575be9b92937bf10c472abe91ab32f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#abe575be9b92937bf10c472abe91ab32f">TEST_F</a> (<a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>, PPM_OverridesBaseChance_WithDamageInfo)</td></tr>
+<tr class="separator:abe575be9b92937bf10c472abe91ab32f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a197cec06d246dbae06fda663eedf12a0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#a197cec06d246dbae06fda663eedf12a0">TEST_F</a> (<a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>, PPM_NotApplied_WithoutDamageOrHealInfo)</td></tr>
+<tr class="separator:a197cec06d246dbae06fda663eedf12a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeef06ffd03eb849db7c9ea03090d7089"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#aeef06ffd03eb849db7c9ea03090d7089">TEST_F</a> (<a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>, PPM_Applied_WithHealInfo)</td></tr>
+<tr class="separator:aeef06ffd03eb849db7c9ea03090d7089"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae6e514aa2a436af03383f9b655859038"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#ae6e514aa2a436af03383f9b655859038">TEST_F</a> (<a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>, PPM_HealInfo_ZeroBaseChance_WouldBeZeroWithoutFix)</td></tr>
+<tr class="separator:ae6e514aa2a436af03383f9b655859038"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab8b90a08b9339c826e3ea4e9985238c9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#ab8b90a08b9339c826e3ea4e9985238c9">TEST_F</a> (<a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>, PPM_WithWeaponSpeedVariation)</td></tr>
+<tr class="separator:ab8b90a08b9339c826e3ea4e9985238c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab58756777d57b081474738fcddf9c3d9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#ab58756777d57b081474738fcddf9c3d9">TEST_F</a> (<a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>, ChanceModifier_PositiveModifier)</td></tr>
+<tr class="separator:ab58756777d57b081474738fcddf9c3d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa332c8542cc81c4bcfa3ea38de4d883e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#aa332c8542cc81c4bcfa3ea38de4d883e">TEST_F</a> (<a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>, ChanceModifier_NegativeModifier)</td></tr>
+<tr class="separator:aa332c8542cc81c4bcfa3ea38de4d883e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab83aac3c76d2d716126a24b32d7b3740"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#ab83aac3c76d2d716126a24b32d7b3740">TEST_F</a> (<a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>, ChanceModifier_AppliedAfterPPM)</td></tr>
+<tr class="separator:ab83aac3c76d2d716126a24b32d7b3740"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a252b150cbb92f8bc5cc7b595ce129f2b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#a252b150cbb92f8bc5cc7b595ce129f2b">TEST_F</a> (<a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>, PPMModifier_IncreasesEffectivePPM)</td></tr>
+<tr class="separator:a252b150cbb92f8bc5cc7b595ce129f2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a02f44e4de6636d121ff789783600c3d4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#a02f44e4de6636d121ff789783600c3d4">TEST_F</a> (<a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>, Level60Reduction_NoReductionAtLevel60)</td></tr>
+<tr class="separator:a02f44e4de6636d121ff789783600c3d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa9a26d0333cdaf95363de72d974cf71d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#aa9a26d0333cdaf95363de72d974cf71d">TEST_F</a> (<a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>, Level60Reduction_NoReductionBelowLevel60)</td></tr>
+<tr class="separator:aa9a26d0333cdaf95363de72d974cf71d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3f40e343661b10279c3e3adb0e7dde6e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#a3f40e343661b10279c3e3adb0e7dde6e">TEST_F</a> (<a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>, Level60Reduction_ReductionAtLevel70)</td></tr>
+<tr class="separator:a3f40e343661b10279c3e3adb0e7dde6e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a33fb9c0f8fe1a60008d10c9561570517"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#a33fb9c0f8fe1a60008d10c9561570517">TEST_F</a> (<a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>, Level60Reduction_ReductionAtLevel80)</td></tr>
+<tr class="separator:a33fb9c0f8fe1a60008d10c9561570517"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab9118e66468f5514a8367af924d17feb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#ab9118e66468f5514a8367af924d17feb">TEST_F</a> (<a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>, Level60Reduction_MinimumAtLevel90)</td></tr>
+<tr class="separator:ab9118e66468f5514a8367af924d17feb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab15f9630cd331b465b287ea7d494d38d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#ab15f9630cd331b465b287ea7d494d38d">TEST_F</a> (<a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>, Level60Reduction_NotAppliedWithoutAttribute)</td></tr>
+<tr class="separator:ab15f9630cd331b465b287ea7d494d38d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af95c1f926cfd5f0172818790e5a8dad0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#af95c1f926cfd5f0172818790e5a8dad0">TEST_F</a> (<a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>, Level60Reduction_AppliedAfterPPM)</td></tr>
+<tr class="separator:af95c1f926cfd5f0172818790e5a8dad0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0067cc2d2c7eeb55ec8f33d368fd033f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#a0067cc2d2c7eeb55ec8f33d368fd033f">TEST_F</a> (<a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>, ApplyLevel60Reduction_DirectTest)</td></tr>
+<tr class="separator:a0067cc2d2c7eeb55ec8f33d368fd033f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a90b7470654e74b5d5fbf79e58877f945"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/db1/a00590.html#a90b7470654e74b5d5fbf79e58877f945">TEST_F</a> (<a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>, Combined_PPM_ChanceModifier_LevelReduction)</td></tr>
+<tr class="separator:a90b7470654e74b5d5fbf79e58877f945"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a9876016115774ddaf27fca5cc9adb96e" name="a9876016115774ddaf27fca5cc9adb96e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9876016115774ddaf27fca5cc9adb96e">&#9670;&#160;</a></span>sLFGMgr</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p ><a class="el" href="../../d7/d19/a08988.html">Unit</a> tests for proc chance calculations. </p>
+<p >Tests CalcProcChance() behavior including:</p><ul>
+<li>Base chance from <a class="el" href="../../da/d07/a11640.html">SpellProcEntry</a></li>
+<li>PPM override when <a class="el" href="../../db/df5/a08952.html">DamageInfo</a> is present</li>
+<li>Chance modifiers (SPELLMOD_CHANCE_OF_SUCCESS)</li>
+<li>Level 60+ reduction (PROC_ATTR_REDUCE_PROC_60) </li>
+</ul>
+
+<p class="definition">Definition in file <a class="el" href="../../">SpellProcChanceTest.cpp</a>.</p>
+</div><h2 class="groupheader">Function Documentation</h2>
+<a id="a0067cc2d2c7eeb55ec8f33d368fd033f" name="a0067cc2d2c7eeb55ec8f33d368fd033f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0067cc2d2c7eeb55ec8f33d368fd033f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/21]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define sLFGMgr&#160;&#160;&#160;<a class="el" href="../../d1/d32/a08172.html#a40e2454e77be7332ccf88bfc5cffa412">lfg::LFGMgr::instance</a>()</td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ApplyLevel60Reduction_DirectTest&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  314</span>{</div>
+<div class="line"><span class="lineno">  315</span>    <span class="comment">// Level 60: no reduction</span></div>
+<div class="line"><span class="lineno">  316</span>    EXPECT_NEAR(<a class="code hl_function" href="../../dd/dd5/a29536.html#a42fe0520c1fb9cedfdc5c28687641751">ProcChanceTestHelper::ApplyLevel60Reduction</a>(30.0f, 60), 30.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  317</span> </div>
+<div class="line"><span class="lineno">  318</span>    <span class="comment">// Level 70: 33.33% reduction</span></div>
+<div class="line"><span class="lineno">  319</span>    EXPECT_NEAR(<a class="code hl_function" href="../../dd/dd5/a29536.html#a42fe0520c1fb9cedfdc5c28687641751">ProcChanceTestHelper::ApplyLevel60Reduction</a>(30.0f, 70), 20.0f, 0.5f);</div>
+<div class="line"><span class="lineno">  320</span> </div>
+<div class="line"><span class="lineno">  321</span>    <span class="comment">// Level 80: 66.67% reduction</span></div>
+<div class="line"><span class="lineno">  322</span>    EXPECT_NEAR(<a class="code hl_function" href="../../dd/dd5/a29536.html#a42fe0520c1fb9cedfdc5c28687641751">ProcChanceTestHelper::ApplyLevel60Reduction</a>(30.0f, 80), 10.0f, 0.5f);</div>
+<div class="line"><span class="lineno">  323</span> </div>
+<div class="line"><span class="lineno">  324</span>    <span class="comment">// Level 90: 100% reduction</span></div>
+<div class="line"><span class="lineno">  325</span>    EXPECT_NEAR(<a class="code hl_function" href="../../dd/dd5/a29536.html#a42fe0520c1fb9cedfdc5c28687641751">ProcChanceTestHelper::ApplyLevel60Reduction</a>(30.0f, 90), 0.0f, 0.1f);</div>
+<div class="line"><span class="lineno">  326</span> </div>
+<div class="line"><span class="lineno">  327</span>    <span class="comment">// Level 100: capped at 0% (no negative chance)</span></div>
+<div class="line"><span class="lineno">  328</span>    EXPECT_GE(<a class="code hl_function" href="../../dd/dd5/a29536.html#a42fe0520c1fb9cedfdc5c28687641751">ProcChanceTestHelper::ApplyLevel60Reduction</a>(30.0f, 100), 0.0f);</div>
+<div class="line"><span class="lineno">  329</span>}</div>
+<div class="ttc" id="aa29536_html_a42fe0520c1fb9cedfdc5c28687641751"><div class="ttname"><a href="../../dd/dd5/a29536.html#a42fe0520c1fb9cedfdc5c28687641751">ProcChanceTestHelper::ApplyLevel60Reduction</a></div><div class="ttdeci">static float ApplyLevel60Reduction(float baseChance, uint32 actorLevel)</div><div class="ttdoc">Calculate level 60+ reduction Implements PROC_ATTR_REDUCE_PROC_60: 3.333% reduction per level above 6...</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:63</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00063">ProcChanceTestHelper::ApplyLevel60Reduction()</a>.</p>
+
+</div>
+</div>
+<a id="a47c99d67681c44af53a6492d5994eed7" name="a47c99d67681c44af53a6492d5994eed7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a47c99d67681c44af53a6492d5994eed7">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/21]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">BaseChance_100Percent&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   57</span>{</div>
+<div class="line"><span class="lineno">   58</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">   59</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">   60</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">   61</span> </div>
+<div class="line"><span class="lineno">   62</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(procEntry);</div>
+<div class="line"><span class="lineno">   63</span>    EXPECT_NEAR(result, 100.0f, 0.01f);</div>
+<div class="line"><span class="lineno">   64</span>}</div>
+<div class="ttc" id="aa29536_html_a439a1b27d17320fdd1769859d7a35eb1"><div class="ttname"><a href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a></div><div class="ttdeci">static float SimulateCalcProcChance(SpellProcEntry const &amp;procEntry, uint32 actorLevel=80, uint32 weaponSpeed=2500, float chanceModifier=0.0f, float ppmModifier=0.0f, bool hasDamageInfo=true, bool hasHealInfo=false)</div><div class="ttdoc">Simulate CalcProcChance() from SpellAuras.cpp.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:85</div></div>
+<div class="ttc" id="aa29588_html"><div class="ttname"><a href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a></div><div class="ttdoc">Builder class for creating SpellProcEntry test instances.</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:141</div></div>
+<div class="ttc" id="aa29588_html_a2a69603215e9fa526304f420bd5a490c"><div class="ttname"><a href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">SpellProcEntryBuilder::Build</a></div><div class="ttdeci">SpellProcEntry Build() const</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:226</div></div>
+<div class="ttc" id="aa29588_html_a3c99a07866eb497717932af6b7f3a485"><div class="ttname"><a href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">SpellProcEntryBuilder::WithChance</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithChance(float chance)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:208</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+
+</div>
+</div>
+<a id="a19f98cdb20306306e21a5cb7a72c7e49" name="a19f98cdb20306306e21a5cb7a72c7e49"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a19f98cdb20306306e21a5cb7a72c7e49">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/21]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">BaseChance_UsedWhenNoPPM&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   46</span>{</div>
+<div class="line"><span class="lineno">   47</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">   48</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(25.0f)</div>
+<div class="line"><span class="lineno">   49</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#aa373ae9df6697d722e7f6084a70c8b7a">WithProcsPerMinute</a>(0.0f)</div>
+<div class="line"><span class="lineno">   50</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">   51</span> </div>
+<div class="line"><span class="lineno">   52</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(procEntry);</div>
+<div class="line"><span class="lineno">   53</span>    EXPECT_NEAR(result, 25.0f, 0.01f);</div>
+<div class="line"><span class="lineno">   54</span>}</div>
+<div class="ttc" id="aa29588_html_aa373ae9df6697d722e7f6084a70c8b7a"><div class="ttname"><a href="../../d8/d1f/a29588.html#aa373ae9df6697d722e7f6084a70c8b7a">SpellProcEntryBuilder::WithProcsPerMinute</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithProcsPerMinute(float ppm)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:202</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00202">SpellProcEntryBuilder::WithProcsPerMinute()</a>.</p>
+
+</div>
+</div>
+<a id="aac1c57c49df9c3786548c5015e7ecbe2" name="aac1c57c49df9c3786548c5015e7ecbe2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aac1c57c49df9c3786548c5015e7ecbe2">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/21]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">BaseChance_Zero&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   67</span>{</div>
+<div class="line"><span class="lineno">   68</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">   69</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(0.0f)</div>
+<div class="line"><span class="lineno">   70</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">   71</span> </div>
+<div class="line"><span class="lineno">   72</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(procEntry);</div>
+<div class="line"><span class="lineno">   73</span>    EXPECT_NEAR(result, 0.0f, 0.01f);</div>
+<div class="line"><span class="lineno">   74</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+
+</div>
+</div>
+<a id="ab83aac3c76d2d716126a24b32d7b3740" name="ab83aac3c76d2d716126a24b32d7b3740"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab83aac3c76d2d716126a24b32d7b3740">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/21]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ChanceModifier_AppliedAfterPPM&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  184</span>{</div>
+<div class="line"><span class="lineno">  185</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  186</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#aa373ae9df6697d722e7f6084a70c8b7a">WithProcsPerMinute</a>(6.0f)</div>
+<div class="line"><span class="lineno">  187</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  188</span> </div>
+<div class="line"><span class="lineno">  189</span>    <span class="comment">// PPM gives 25%, +5% modifier = 30%</span></div>
+<div class="line"><span class="lineno">  190</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(</div>
+<div class="line"><span class="lineno">  191</span>        procEntry, 80, 2500, 5.0f, 0.0f, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  192</span>    EXPECT_NEAR(result, 30.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  193</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, and <a class="el" href="../../#l00202">SpellProcEntryBuilder::WithProcsPerMinute()</a>.</p>
+
+</div>
+</div>
+<a id="aa332c8542cc81c4bcfa3ea38de4d883e" name="aa332c8542cc81c4bcfa3ea38de4d883e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa332c8542cc81c4bcfa3ea38de4d883e">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/21]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ChanceModifier_NegativeModifier&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  172</span>{</div>
+<div class="line"><span class="lineno">  173</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  174</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(30.0f)</div>
+<div class="line"><span class="lineno">  175</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  176</span> </div>
+<div class="line"><span class="lineno">  177</span>    <span class="comment">// -10% modifier</span></div>
+<div class="line"><span class="lineno">  178</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(</div>
+<div class="line"><span class="lineno">  179</span>        procEntry, 80, 2500, -10.0f, 0.0f, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  180</span>    EXPECT_NEAR(result, 20.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  181</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+
+</div>
+</div>
+<a id="ab58756777d57b081474738fcddf9c3d9" name="ab58756777d57b081474738fcddf9c3d9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab58756777d57b081474738fcddf9c3d9">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/21]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ChanceModifier_PositiveModifier&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  160</span>{</div>
+<div class="line"><span class="lineno">  161</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  162</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(20.0f)</div>
+<div class="line"><span class="lineno">  163</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  164</span> </div>
+<div class="line"><span class="lineno">  165</span>    <span class="comment">// +10% modifier</span></div>
+<div class="line"><span class="lineno">  166</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(</div>
+<div class="line"><span class="lineno">  167</span>        procEntry, 80, 2500, 10.0f, 0.0f, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  168</span>    EXPECT_NEAR(result, 30.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  169</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+
+</div>
+</div>
+<a id="a90b7470654e74b5d5fbf79e58877f945" name="a90b7470654e74b5d5fbf79e58877f945"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a90b7470654e74b5d5fbf79e58877f945">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/21]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Combined_PPM_ChanceModifier_LevelReduction&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  336</span>{</div>
+<div class="line"><span class="lineno">  337</span>    <span class="comment">// PPM: 6 at 2500ms = 25%</span></div>
+<div class="line"><span class="lineno">  338</span>    <span class="comment">// Chance modifier: +5% = 30%</span></div>
+<div class="line"><span class="lineno">  339</span>    <span class="comment">// Level 70 reduction: 30% * (1 - 0.333) = 20%</span></div>
+<div class="line"><span class="lineno">  340</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  341</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#aa373ae9df6697d722e7f6084a70c8b7a">WithProcsPerMinute</a>(6.0f)</div>
+<div class="line"><span class="lineno">  342</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc">PROC_ATTR_REDUCE_PROC_60</a>)</div>
+<div class="line"><span class="lineno">  343</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  344</span> </div>
+<div class="line"><span class="lineno">  345</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(</div>
+<div class="line"><span class="lineno">  346</span>        procEntry, 70, 2500, 5.0f, 0.0f, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  347</span>    EXPECT_NEAR(result, 20.0f, 1.0f);</div>
+<div class="line"><span class="lineno">  348</span>}</div>
+<div class="ttc" id="aa01760_html_a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc"><div class="ttname"><a href="../../d0/d9d/a01760.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc">PROC_ATTR_REDUCE_PROC_60</a></div><div class="ttdeci">@ PROC_ATTR_REDUCE_PROC_60</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:278</div></div>
+<div class="ttc" id="aa29588_html_ab9585e517adc231979ca5b817a2f2142"><div class="ttname"><a href="../../d8/d1f/a29588.html#ab9585e517adc231979ca5b817a2f2142">SpellProcEntryBuilder::WithAttributesMask</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithAttributesMask(uint32 attributesMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:190</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00202">SpellProcEntryBuilder::WithProcsPerMinute()</a>.</p>
+
+</div>
+</div>
+<a id="af95c1f926cfd5f0172818790e5a8dad0" name="af95c1f926cfd5f0172818790e5a8dad0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af95c1f926cfd5f0172818790e5a8dad0">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/21]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Level60Reduction_AppliedAfterPPM&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  295</span>{</div>
+<div class="line"><span class="lineno">  296</span>    <span class="comment">// PPM calculation gives 25%, then level reduction applied</span></div>
+<div class="line"><span class="lineno">  297</span>    <span class="comment">// Level 80 = 20 levels above 60, reduction = 66.67%</span></div>
+<div class="line"><span class="lineno">  298</span>    <span class="comment">// 25% * (1 - 0.667) = 8.33%</span></div>
+<div class="line"><span class="lineno">  299</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  300</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#aa373ae9df6697d722e7f6084a70c8b7a">WithProcsPerMinute</a>(6.0f)</div>
+<div class="line"><span class="lineno">  301</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc">PROC_ATTR_REDUCE_PROC_60</a>)</div>
+<div class="line"><span class="lineno">  302</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  303</span> </div>
+<div class="line"><span class="lineno">  304</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(</div>
+<div class="line"><span class="lineno">  305</span>        procEntry, 80, 2500, 0.0f, 0.0f, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  306</span>    EXPECT_NEAR(result, 8.33f, 0.5f);</div>
+<div class="line"><span class="lineno">  307</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00202">SpellProcEntryBuilder::WithProcsPerMinute()</a>.</p>
+
+</div>
+</div>
+<a id="ab9118e66468f5514a8367af924d17feb" name="ab9118e66468f5514a8367af924d17feb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab9118e66468f5514a8367af924d17feb">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/21]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Level60Reduction_MinimumAtLevel90&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  267</span>{</div>
+<div class="line"><span class="lineno">  268</span>    <span class="comment">// Level 90 = 30 levels above 60</span></div>
+<div class="line"><span class="lineno">  269</span>    <span class="comment">// Reduction = 30/30 = 100%</span></div>
+<div class="line"><span class="lineno">  270</span>    <span class="comment">// 30% * (1 - 1.0) = 0%</span></div>
+<div class="line"><span class="lineno">  271</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  272</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(30.0f)</div>
+<div class="line"><span class="lineno">  273</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc">PROC_ATTR_REDUCE_PROC_60</a>)</div>
+<div class="line"><span class="lineno">  274</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  275</span> </div>
+<div class="line"><span class="lineno">  276</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(</div>
+<div class="line"><span class="lineno">  277</span>        procEntry, 90, 2500, 0.0f, 0.0f, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  278</span>    EXPECT_NEAR(result, 0.0f, 0.1f);</div>
+<div class="line"><span class="lineno">  279</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+
+</div>
+</div>
+<a id="a02f44e4de6636d121ff789783600c3d4" name="a02f44e4de6636d121ff789783600c3d4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a02f44e4de6636d121ff789783600c3d4">&#9670;&#160;</a></span>TEST_F() <span class="overload">[11/21]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Level60Reduction_NoReductionAtLevel60&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  213</span>{</div>
+<div class="line"><span class="lineno">  214</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  215</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(30.0f)</div>
+<div class="line"><span class="lineno">  216</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc">PROC_ATTR_REDUCE_PROC_60</a>)</div>
+<div class="line"><span class="lineno">  217</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  218</span> </div>
+<div class="line"><span class="lineno">  219</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(</div>
+<div class="line"><span class="lineno">  220</span>        procEntry, 60, 2500, 0.0f, 0.0f, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  221</span>    EXPECT_NEAR(result, 30.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  222</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+
+</div>
+</div>
+<a id="aa9a26d0333cdaf95363de72d974cf71d" name="aa9a26d0333cdaf95363de72d974cf71d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa9a26d0333cdaf95363de72d974cf71d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[12/21]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Level60Reduction_NoReductionBelowLevel60&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  225</span>{</div>
+<div class="line"><span class="lineno">  226</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  227</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(30.0f)</div>
+<div class="line"><span class="lineno">  228</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc">PROC_ATTR_REDUCE_PROC_60</a>)</div>
+<div class="line"><span class="lineno">  229</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  230</span> </div>
+<div class="line"><span class="lineno">  231</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(</div>
+<div class="line"><span class="lineno">  232</span>        procEntry, 50, 2500, 0.0f, 0.0f, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  233</span>    EXPECT_NEAR(result, 30.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  234</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+
+</div>
+</div>
+<a id="ab15f9630cd331b465b287ea7d494d38d" name="ab15f9630cd331b465b287ea7d494d38d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab15f9630cd331b465b287ea7d494d38d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[13/21]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Level60Reduction_NotAppliedWithoutAttribute&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  282</span>{</div>
+<div class="line"><span class="lineno">  283</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  284</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(30.0f)</div>
+<div class="line"><span class="lineno">  285</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(0) <span class="comment">// No PROC_ATTR_REDUCE_PROC_60</span></div>
+<div class="line"><span class="lineno">  286</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  287</span> </div>
+<div class="line"><span class="lineno">  288</span>    <span class="comment">// At level 80, without the attribute, no reduction should occur</span></div>
+<div class="line"><span class="lineno">  289</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(</div>
+<div class="line"><span class="lineno">  290</span>        procEntry, 80, 2500, 0.0f, 0.0f, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  291</span>    EXPECT_NEAR(result, 30.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  292</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+
+</div>
+</div>
+<a id="a3f40e343661b10279c3e3adb0e7dde6e" name="a3f40e343661b10279c3e3adb0e7dde6e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3f40e343661b10279c3e3adb0e7dde6e">&#9670;&#160;</a></span>TEST_F() <span class="overload">[14/21]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Level60Reduction_ReductionAtLevel70&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  237</span>{</div>
+<div class="line"><span class="lineno">  238</span>    <span class="comment">// Level 70 = 10 levels above 60</span></div>
+<div class="line"><span class="lineno">  239</span>    <span class="comment">// Reduction = 10/30 = 33.33%</span></div>
+<div class="line"><span class="lineno">  240</span>    <span class="comment">// 30% * (1 - 0.333) = 20%</span></div>
+<div class="line"><span class="lineno">  241</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  242</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(30.0f)</div>
+<div class="line"><span class="lineno">  243</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc">PROC_ATTR_REDUCE_PROC_60</a>)</div>
+<div class="line"><span class="lineno">  244</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  245</span> </div>
+<div class="line"><span class="lineno">  246</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(</div>
+<div class="line"><span class="lineno">  247</span>        procEntry, 70, 2500, 0.0f, 0.0f, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  248</span>    EXPECT_NEAR(result, 20.0f, 0.5f);</div>
+<div class="line"><span class="lineno">  249</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+
+</div>
+</div>
+<a id="a33fb9c0f8fe1a60008d10c9561570517" name="a33fb9c0f8fe1a60008d10c9561570517"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a33fb9c0f8fe1a60008d10c9561570517">&#9670;&#160;</a></span>TEST_F() <span class="overload">[15/21]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Level60Reduction_ReductionAtLevel80&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  252</span>{</div>
+<div class="line"><span class="lineno">  253</span>    <span class="comment">// Level 80 = 20 levels above 60</span></div>
+<div class="line"><span class="lineno">  254</span>    <span class="comment">// Reduction = 20/30 = 66.67%</span></div>
+<div class="line"><span class="lineno">  255</span>    <span class="comment">// 30% * (1 - 0.667) = 10%</span></div>
+<div class="line"><span class="lineno">  256</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  257</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(30.0f)</div>
+<div class="line"><span class="lineno">  258</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc">PROC_ATTR_REDUCE_PROC_60</a>)</div>
+<div class="line"><span class="lineno">  259</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  260</span> </div>
+<div class="line"><span class="lineno">  261</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(</div>
+<div class="line"><span class="lineno">  262</span>        procEntry, 80, 2500, 0.0f, 0.0f, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  263</span>    EXPECT_NEAR(result, 10.0f, 0.5f);</div>
+<div class="line"><span class="lineno">  264</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+
+</div>
+</div>
+<a id="aeef06ffd03eb849db7c9ea03090d7089" name="aeef06ffd03eb849db7c9ea03090d7089"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeef06ffd03eb849db7c9ea03090d7089">&#9670;&#160;</a></span>TEST_F() <span class="overload">[16/21]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">PPM_Applied_WithHealInfo&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  108</span>{</div>
+<div class="line"><span class="lineno">  109</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  110</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(0.0f)</div>
+<div class="line"><span class="lineno">  111</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#aa373ae9df6697d722e7f6084a70c8b7a">WithProcsPerMinute</a>(3.5f)</div>
+<div class="line"><span class="lineno">  112</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  113</span> </div>
+<div class="line"><span class="lineno">  114</span>    <span class="comment">// With HealInfo (no DamageInfo), PPM should still calculate</span></div>
+<div class="line"><span class="lineno">  115</span>    <span class="comment">// 3000ms cast time * 3.5 PPM / 600 = 17.5%</span></div>
+<div class="line"><span class="lineno">  116</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(</div>
+<div class="line"><span class="lineno">  117</span>        procEntry, 80, 3000, 0.0f, 0.0f, <span class="keyword">false</span>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  118</span>    EXPECT_NEAR(result, 17.5f, 0.01f);</div>
+<div class="line"><span class="lineno">  119</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00202">SpellProcEntryBuilder::WithProcsPerMinute()</a>.</p>
+
+</div>
+</div>
+<a id="ae6e514aa2a436af03383f9b655859038" name="ae6e514aa2a436af03383f9b655859038"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae6e514aa2a436af03383f9b655859038">&#9670;&#160;</a></span>TEST_F() <span class="overload">[17/21]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">PPM_HealInfo_ZeroBaseChance_WouldBeZeroWithoutFix&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  122</span>{</div>
+<div class="line"><span class="lineno">  123</span>    <span class="comment">// Reproduces the Omen of Clarity healing bug:</span></div>
+<div class="line"><span class="lineno">  124</span>    <span class="comment">// PPM=3.5, Chance=0, and only HealInfo present (no DamageInfo)</span></div>
+<div class="line"><span class="lineno">  125</span>    <span class="comment">// Without the fix, chance would be 0% because PPM branch was skipped</span></div>
+<div class="line"><span class="lineno">  126</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  127</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(0.0f)</div>
+<div class="line"><span class="lineno">  128</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#aa373ae9df6697d722e7f6084a70c8b7a">WithProcsPerMinute</a>(3.5f)</div>
+<div class="line"><span class="lineno">  129</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  130</span> </div>
+<div class="line"><span class="lineno">  131</span>    <span class="comment">// Instant cast uses 1500ms minimum</span></div>
+<div class="line"><span class="lineno">  132</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(</div>
+<div class="line"><span class="lineno">  133</span>        procEntry, 80, 1500, 0.0f, 0.0f, <span class="keyword">false</span>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  134</span>    EXPECT_NEAR(result, 8.75f, 0.01f);</div>
+<div class="line"><span class="lineno">  135</span>    EXPECT_GT(result, 0.0f) &lt;&lt; <span class="stringliteral">&quot;PPM with HealInfo must produce non-zero chance&quot;</span>;</div>
+<div class="line"><span class="lineno">  136</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00202">SpellProcEntryBuilder::WithProcsPerMinute()</a>.</p>
+
+</div>
+</div>
+<a id="a197cec06d246dbae06fda663eedf12a0" name="a197cec06d246dbae06fda663eedf12a0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a197cec06d246dbae06fda663eedf12a0">&#9670;&#160;</a></span>TEST_F() <span class="overload">[18/21]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">PPM_NotApplied_WithoutDamageOrHealInfo&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   95</span>{</div>
+<div class="line"><span class="lineno">   96</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">   97</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(50.0f)</div>
+<div class="line"><span class="lineno">   98</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#aa373ae9df6697d722e7f6084a70c8b7a">WithProcsPerMinute</a>(6.0f)</div>
+<div class="line"><span class="lineno">   99</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  100</span> </div>
+<div class="line"><span class="lineno">  101</span>    <span class="comment">// Without DamageInfo or HealInfo, base chance is used</span></div>
+<div class="line"><span class="lineno">  102</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(</div>
+<div class="line"><span class="lineno">  103</span>        procEntry, 80, 2500, 0.0f, 0.0f, <span class="keyword">false</span>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  104</span>    EXPECT_NEAR(result, 50.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  105</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00202">SpellProcEntryBuilder::WithProcsPerMinute()</a>.</p>
+
+</div>
+</div>
+<a id="abe575be9b92937bf10c472abe91ab32f" name="abe575be9b92937bf10c472abe91ab32f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abe575be9b92937bf10c472abe91ab32f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[19/21]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">PPM_OverridesBaseChance_WithDamageInfo&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   81</span>{</div>
+<div class="line"><span class="lineno">   82</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">   83</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(50.0f)  <span class="comment">// This should be ignored</span></div>
+<div class="line"><span class="lineno">   84</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#aa373ae9df6697d722e7f6084a70c8b7a">WithProcsPerMinute</a>(6.0f)</div>
+<div class="line"><span class="lineno">   85</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">   86</span> </div>
+<div class="line"><span class="lineno">   87</span>    <span class="comment">// With DamageInfo, PPM takes precedence</span></div>
+<div class="line"><span class="lineno">   88</span>    <span class="comment">// 2500ms * 6 PPM / 600 = 25%</span></div>
+<div class="line"><span class="lineno">   89</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(</div>
+<div class="line"><span class="lineno">   90</span>        procEntry, 80, 2500, 0.0f, 0.0f, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">   91</span>    EXPECT_NEAR(result, 25.0f, 0.01f);</div>
+<div class="line"><span class="lineno">   92</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00202">SpellProcEntryBuilder::WithProcsPerMinute()</a>.</p>
+
+</div>
+</div>
+<a id="ab8b90a08b9339c826e3ea4e9985238c9" name="ab8b90a08b9339c826e3ea4e9985238c9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab8b90a08b9339c826e3ea4e9985238c9">&#9670;&#160;</a></span>TEST_F() <span class="overload">[20/21]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">PPM_WithWeaponSpeedVariation&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  139</span>{</div>
+<div class="line"><span class="lineno">  140</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  141</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#aa373ae9df6697d722e7f6084a70c8b7a">WithProcsPerMinute</a>(6.0f)</div>
+<div class="line"><span class="lineno">  142</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  143</span> </div>
+<div class="line"><span class="lineno">  144</span>    <span class="comment">// Fast weapon: 1400ms</span></div>
+<div class="line"><span class="lineno">  145</span>    <span class="keywordtype">float</span> fastResult = <a class="code hl_function" href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(</div>
+<div class="line"><span class="lineno">  146</span>        procEntry, 80, 1400, 0.0f, 0.0f, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  147</span>    EXPECT_NEAR(fastResult, 14.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  148</span> </div>
+<div class="line"><span class="lineno">  149</span>    <span class="comment">// Slow weapon: 3300ms</span></div>
+<div class="line"><span class="lineno">  150</span>    <span class="keywordtype">float</span> slowResult = <a class="code hl_function" href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(</div>
+<div class="line"><span class="lineno">  151</span>        procEntry, 80, 3300, 0.0f, 0.0f, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  152</span>    EXPECT_NEAR(slowResult, 33.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  153</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, and <a class="el" href="../../#l00202">SpellProcEntryBuilder::WithProcsPerMinute()</a>.</p>
+
+</div>
+</div>
+<a id="a252b150cbb92f8bc5cc7b595ce129f2b" name="a252b150cbb92f8bc5cc7b595ce129f2b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a252b150cbb92f8bc5cc7b595ce129f2b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[21/21]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/deb/a29696.html">SpellProcChanceTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">PPMModifier_IncreasesEffectivePPM&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  196</span>{</div>
+<div class="line"><span class="lineno">  197</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  198</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#aa373ae9df6697d722e7f6084a70c8b7a">WithProcsPerMinute</a>(6.0f)</div>
+<div class="line"><span class="lineno">  199</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  200</span> </div>
+<div class="line"><span class="lineno">  201</span>    <span class="comment">// 6 PPM + 2 PPM modifier = 8 effective PPM</span></div>
+<div class="line"><span class="lineno">  202</span>    <span class="comment">// 2500 * 8 / 600 = 33.33%</span></div>
+<div class="line"><span class="lineno">  203</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dd/dd5/a29536.html#a439a1b27d17320fdd1769859d7a35eb1">ProcChanceTestHelper::SimulateCalcProcChance</a>(</div>
+<div class="line"><span class="lineno">  204</span>        procEntry, 80, 2500, 0.0f, 2.0f, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  205</span>    EXPECT_NEAR(result, 33.33f, 0.01f);</div>
+<div class="line"><span class="lineno">  206</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00085">ProcChanceTestHelper::SimulateCalcProcChance()</a>, and <a class="el" href="../../#l00202">SpellProcEntryBuilder::WithProcsPerMinute()</a>.</p>
 
 </div>
 </div>
@@ -391,8 +1066,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_2a7b71c094ad98a6bd24c530fa7e48c4.html">DungeonFinding</a></li><li class="navelem"><a class="el" href="../../d7/db1/a00590.html">LFGMgr.h</a></li>
-    <li class="footer">Generated on Mon Feb 23 2026 21:13:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d7/db1/a00590.html">SpellProcChanceTest.cpp</a></li>
+    <li class="footer">Generated on Mon Mar 2 2026 21:04:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,7 +1,6 @@
 var a23024 =
 [
-    [ "HandleProc", "d1/d32/a23024.html#a43892c85339867a65e992b7f17fdc61c", null ],
-    [ "PrepareAuraScript", "d1/d32/a23024.html#ab5728e2c3df5b887c26f2485575087ff", null ],
-    [ "Register", "d1/d32/a23024.html#aae9f80730de402ebbda918e0116e59a0", null ],
-    [ "Validate", "d1/d32/a23024.html#a8ef20577e375a5c7d3a66824f27bf937", null ]
+    [ "OnPeriodic", "d1/d32/a23024.html#aef6afe014ce90711cd7628563aada2a4", null ],
+    [ "PrepareAuraScript", "d1/d32/a23024.html#a40a98b79b445d3cebe3f195cb9c03a80", null ],
+    [ "Register", "d1/d32/a23024.html#a44c261ff549ddf0b1dad5ae6d0ff2432", null ]
 ];

@@ -1,8 +1,7 @@
 var a09408 =
 [
-    [ "AIRelocationNotifier", "d6/d88/a09408.html#ab19dba99802231bc1ba7b3ae3cb4bdb3", null ],
-    [ "Visit", "d6/d88/a09408.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
-    [ "Visit", "d6/d88/a09408.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
-    [ "i_unit", "d6/d88/a09408.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
-    [ "isCreature", "d6/d88/a09408.html#a199f4b91d00dd4db90855e5521d87a95", null ]
+    [ "GridTerrainUnloader", "d6/d88/a09408.html#a2cae372520a8e6d6a54ad79381a844e9", null ],
+    [ "UnloadTerrain", "d6/d88/a09408.html#ad6648cf97602141fcc64bbb6c688f6a0", null ],
+    [ "_grid", "d6/d88/a09408.html#a94d346bc8d44f285d8cdb97736859201", null ],
+    [ "_map", "d6/d88/a09408.html#aac1ea80c5210b25ad26f52558336c20d", null ]
 ];

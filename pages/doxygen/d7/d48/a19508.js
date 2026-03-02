@@ -1,7 +1,7 @@
 var a19508 =
 [
-    [ "FilterTargets", "d7/d48/a19508.html#af92aec0df6c962a10ccbebb366081cfd", null ],
-    [ "PrepareSpellScript", "d7/d48/a19508.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
-    [ "Register", "d7/d48/a19508.html#af59416debfc7685bec92541a00e1dafe", null ],
-    [ "Validate", "d7/d48/a19508.html#abbe7ae557fb510457504f72adfa0aedc", null ]
+    [ "HandleRemove", "d7/d48/a19508.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
+    [ "PrepareAuraScript", "d7/d48/a19508.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
+    [ "Register", "d7/d48/a19508.html#ad7ba015a7878adad0820cf378d2632ca", null ],
+    [ "Validate", "d7/d48/a19508.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
 ];

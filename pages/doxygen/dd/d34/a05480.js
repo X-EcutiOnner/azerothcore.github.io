@@ -1,8 +1,4 @@
 var a05480 =
 [
-    [ "Count", "dd/d34/a05480.html#a4ab8f061208d7733ee65ba768f85f513", null ],
-    [ "GetElements", "dd/d34/a05480.html#af75467b56830b1447bebbf974b2747b6", null ],
-    [ "GetElements", "dd/d34/a05480.html#abbdfddc576af5f2d49dddf5e49ad2864", null ],
-    [ "insert", "dd/d34/a05480.html#a026880bb3378687143ed19fa7b99b41b", null ],
-    [ "i_elements", "dd/d34/a05480.html#a8ef4a180d448dcba2141fc389621433d", null ]
+    [ "_element", "dd/d34/a05480.html#ab18c6fa467deee7af0db888ab94d0ba7", null ]
 ];

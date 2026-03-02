@@ -1,11 +1,6 @@
 var a12532 =
 [
-    [ "boss_quartermaster_zigris", "de/d98/a12532.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
-    [ "DamageTaken", "de/d98/a12532.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
-    [ "JustDied", "de/d98/a12532.html#a9295bbcffd7968051a789e8dfb634e23", null ],
-    [ "JustEngagedWith", "de/d98/a12532.html#af482c06e00e7f6c15b290115998a27a9", null ],
-    [ "Reset", "de/d98/a12532.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
-    [ "SpellHitTarget", "de/d98/a12532.html#a38197746cc73ada1378e6e1a5555ef79", null ],
-    [ "UpdateAI", "de/d98/a12532.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
-    [ "_hasDrunkPotion", "de/d98/a12532.html#a25335533bc43171687e03f1ed22d4fb3", null ]
+    [ "boss_lord_valthalakAI", "dc/d3b/a12536.html", "dc/d3b/a12536" ],
+    [ "boss_lord_valthalak", "de/d98/a12532.html#a180ecb2e2b11ee79c80de18124de3dbc", null ],
+    [ "GetAI", "de/d98/a12532.html#a771bd8ff3918d71007b5e4b05baf3df3", null ]
 ];

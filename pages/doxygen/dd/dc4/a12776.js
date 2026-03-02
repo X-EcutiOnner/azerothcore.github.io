@@ -1,6 +1,7 @@
 var a12776 =
 [
-    [ "boss_vaelAI", "d4/d14/a12780.html", "d4/d14/a12780" ],
-    [ "boss_vaelastrasz", "dd/dc4/a12776.html#a0b51f3b50cde4907bd9064e8bf51c005", null ],
-    [ "GetAI", "dd/dc4/a12776.html#a42dde198f5fc0ab2e7ca28ac32c42b7e", null ]
+    [ "HandlePeriodic", "dd/dc4/a12776.html#ac2196cc9de34e286581d44d147fe9d04", null ],
+    [ "PrepareAuraScript", "dd/dc4/a12776.html#a149c974371f23268d2d929b483637b14", null ],
+    [ "Register", "dd/dc4/a12776.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
+    [ "Validate", "dd/dc4/a12776.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
 ];

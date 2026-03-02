@@ -1,10 +1,11 @@
 var a07400 =
 [
-    [ "CreatureBottom", "db/d8f/a07400.html#aaa8fe59aa58bf02934bf87f636582637", null ],
-    [ "CreatureTop", "db/d8f/a07400.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
-    [ "GameObject", "db/d8f/a07400.html#abc26a328692fc048d9040c44f360f4c4", null ],
-    [ "nbCreatureBottom", "db/d8f/a07400.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
-    [ "nbCreatureTop", "db/d8f/a07400.html#a38ab7536e0682efd7080b823569d504b", null ],
-    [ "nbObject", "db/d8f/a07400.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
-    [ "towerEntry", "db/d8f/a07400.html#a1c0edf97a599773b688954f2e966e794", null ]
+    [ "gyid", "db/d8f/a07400.html#a742fcc91d2daf1a9331f02a90496328c", null ],
+    [ "o", "db/d8f/a07400.html#a9c761e77b7194ab1bb80d28f2b1e1f6d", null ],
+    [ "startcontrol", "db/d8f/a07400.html#a8b0aed9e6973ce6efc5d89a0d10a4139", null ],
+    [ "textid", "db/d8f/a07400.html#a87d80377ad632b9d667eecf11ae8faae", null ],
+    [ "type", "db/d8f/a07400.html#ae1a4b69ea4edabe51f1378c6cb066cad", null ],
+    [ "x", "db/d8f/a07400.html#ad69833b4e2a27999dcd13e5ac5bda892", null ],
+    [ "y", "db/d8f/a07400.html#a405e8098772e77250683985f957ce5f3", null ],
+    [ "z", "db/d8f/a07400.html#a844e4c9c9b1a9a22a817025ccda7f08d", null ]
 ];

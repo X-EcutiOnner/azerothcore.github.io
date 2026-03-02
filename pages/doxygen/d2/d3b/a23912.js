@@ -1,6 +1,6 @@
 var a23912 =
 [
-    [ "go_apexis_relic", "d2/d3b/a23912.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
-    [ "OnGossipHello", "d2/d3b/a23912.html#ae8f7167ba5b973881e32d604691dc15a", null ],
-    [ "OnGossipSelect", "d2/d3b/a23912.html#a025cc7cc9c69f0eb461445170972ab52", null ]
+    [ "npc_nether_drakeAI", "dc/dc8/a23916.html", "dc/dc8/a23916" ],
+    [ "npc_nether_drake", "d2/d3b/a23912.html#a253ec3c91857b899ea9e2c824870b760", null ],
+    [ "GetAI", "d2/d3b/a23912.html#a58d269e2c73cae07bb507162b742fe8f", null ]
 ];

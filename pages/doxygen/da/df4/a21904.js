@@ -1,6 +1,7 @@
 var a21904 =
 [
-    [ "npc_attracted_reef_bullAI", "da/df4/a21904.html#aa8917a912fb31a5987332e53e8d268e7", null ],
-    [ "MovementInform", "da/df4/a21904.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
-    [ "SpellHit", "da/df4/a21904.html#ab06ee7ef84d881262ae682b69fae3135", null ]
+    [ "HandleAfterEffectApply", "da/df4/a21904.html#ab54795dc49ca453db40494a694158a98", null ],
+    [ "PrepareAuraScript", "da/df4/a21904.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
+    [ "Register", "da/df4/a21904.html#addd4fac4cc8a93d800abacb144e3303c", null ],
+    [ "Validate", "da/df4/a21904.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
 ];

@@ -1,9 +1,9 @@
 var dir_efb9d7c5ce6f8141e7a681492cf39a92 =
 [
-    [ "boss_alar.cpp", "d1/dce/a02168.html", "d1/dce/a02168" ],
-    [ "boss_astromancer.cpp", "d7/d26/a02162.html", "d7/d26/a02162" ],
-    [ "boss_kaelthas.cpp", "d6/d1e/a02171.html", "d6/d1e/a02171" ],
-    [ "boss_void_reaver.cpp", "d6/d6e/a02174.html", "d6/d6e/a02174" ],
-    [ "instance_the_eye.cpp", "d3/d90/a02177.html", "d3/d90/a02177" ],
-    [ "the_eye.h", "d7/d4c/a02165.html", "d7/d4c/a02165" ]
+    [ "boss_alar.cpp", "d1/d42/a03419.html", "d1/d42/a03419" ],
+    [ "boss_astromancer.cpp", "d3/dff/a03422.html", "d3/dff/a03422" ],
+    [ "boss_kaelthas.cpp", "df/df7/a03416.html", "df/df7/a03416" ],
+    [ "boss_void_reaver.cpp", "df/de2/a03410.html", "df/de2/a03410" ],
+    [ "instance_the_eye.cpp", "dd/dfe/a03425.html", "dd/dfe/a03425" ],
+    [ "the_eye.h", "d6/daa/a03413.html", "d6/daa/a03413" ]
 ];

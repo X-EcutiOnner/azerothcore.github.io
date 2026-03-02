@@ -1,7 +1,8 @@
 var a26044 =
 [
-    [ "HandleHeal", "df/da2/a26044.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
-    [ "Load", "df/da2/a26044.html#a4dd5016439e8798083fe3d4fa5458731", null ],
-    [ "PrepareSpellScript", "df/da2/a26044.html#a248ae6d2c8f8d6c014a0164105773836", null ],
-    [ "Register", "df/da2/a26044.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
+    [ "HandleDummy", "df/da2/a26044.html#ae5487bc9e4c7444468d076785af473ca", null ],
+    [ "Load", "df/da2/a26044.html#a3bf16100687a002a0d3b95bea11dc90f", null ],
+    [ "PrepareSpellScript", "df/da2/a26044.html#a8586b480a304f19741de62b606c9f456", null ],
+    [ "Register", "df/da2/a26044.html#a4698eab378b8cf6d4aeb595b53a9df13", null ],
+    [ "Validate", "df/da2/a26044.html#ab3e697ba71654bf9b67e1d1660b3a7ea", null ]
 ];

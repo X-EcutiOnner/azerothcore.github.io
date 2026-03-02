@@ -1,6 +1,8 @@
 var a16732 =
 [
-    [ "boss_grand_championAI", "dd/d4b/a16736.html", "dd/d4b/a16736" ],
-    [ "boss_grand_champion", "dd/db3/a16732.html#a9577f8af5e234b3aebd7567841b867e2", null ],
-    [ "GetAI", "dd/db3/a16732.html#aa60972482ef16329d7ffc0a7ccf2d03e", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "dd/db3/a16732.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
+    [ "DoAction", "dd/db3/a16732.html#af38e129cdf4af99e99c41b6a98448e56", null ],
+    [ "Reset", "dd/db3/a16732.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
+    [ "UpdateAI", "dd/db3/a16732.html#a851008790128831c5c10710b4cccb196", null ],
+    [ "WaypointReached", "dd/db3/a16732.html#a74b5fb1d3631c404e7797085e45e6159", null ]
 ];

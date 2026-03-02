@@ -1,7 +1,10 @@
 var a19844 =
 [
-    [ "CalcDamage", "dc/dfd/a19844.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
-    [ "PrepareSpellScript", "dc/dfd/a19844.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
-    [ "Register", "dc/dfd/a19844.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
-    [ "Validate", "dc/dfd/a19844.html#a773c608119a84cc3f02e7b4d786f2741", null ]
+    [ "npc_oculus_drakegiverAI", "dc/dfd/a19844.html#a4bba380256a0ede70b8d90611249b444", null ],
+    [ "MovementInform", "dc/dfd/a19844.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
+    [ "UpdateAI", "dc/dfd/a19844.html#a652a8c364687d51de62356964f6f33f9", null ],
+    [ "m_pInstance", "dc/dfd/a19844.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
+    [ "moved", "dc/dfd/a19844.html#a069e202a84d99cd757862bd1a43b5562", null ],
+    [ "resetPosition", "dc/dfd/a19844.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
+    [ "timer", "dc/dfd/a19844.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
 ];

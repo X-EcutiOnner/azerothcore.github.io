@@ -1,6 +1,7 @@
 var a18908 =
 [
-    [ "npc_risen_archmageAI", "d0/d03/a18912.html", "d0/d03/a18912" ],
-    [ "npc_risen_archmage", "d6/d35/a18908.html#adf6dfe2a00325955939c84bcc1e4eb68", null ],
-    [ "GetAI", "d6/d35/a18908.html#a8e8c4913e163c5d649fa79c2eb424864", null ]
+    [ "AuraRemoveEvent", "d6/d35/a18908.html#a094b9437c7cadb465738daf5684c9725", null ],
+    [ "Execute", "d6/d35/a18908.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
+    [ "_spellId", "d6/d35/a18908.html#a6fad41839e07e9545859be7c3afcfc36", null ],
+    [ "_trigger", "d6/d35/a18908.html#aad8c27befc102dae6823d5d74fed50b4", null ]
 ];

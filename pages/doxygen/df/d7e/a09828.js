@@ -1,6 +1,7 @@
 var a09828 =
 [
-    [ "NpcTextLocale", "df/d7e/a09828.html#af1ddddeff75a1a51c51ebb1fec3f4f05", null ],
-    [ "Text_0", "df/d7e/a09828.html#adf17307b9d00e0b63b9c2827fca96320", null ],
-    [ "Text_1", "df/d7e/a09828.html#a40f69a13a202c350fdce2177288727e9", null ]
+    [ "AddonHandler", "df/d7e/a09828.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
+    [ "~AddonHandler", "df/d7e/a09828.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
+    [ "BuildAddonPacket", "df/d7e/a09828.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
+    [ "instance", "df/d7e/a09828.html#a2925b829b803dd07e96685086357ef85", null ]
 ];

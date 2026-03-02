@@ -1,7 +1,6 @@
 var a26928 =
 [
-    [ "if", "dd/d10/a26928.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
-    [ "PrepareAuraScript", "dd/d10/a26928.html#aa31810077c241e77193e378cb297b7de", null ],
-    [ "Register", "dd/d10/a26928.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
-    [ "AuraEffectHandleModes", "dd/d10/a26928.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
+    [ "CheckDummy", "dd/d10/a26928.html#ad2f75ba479a8523b0fffaae86204a25c", null ],
+    [ "PrepareAuraScript", "dd/d10/a26928.html#a7cd3757fddecca39b1b0bd95bb2b8e5b", null ],
+    [ "Register", "dd/d10/a26928.html#af0b1e469fec71b28ca349b9be9c6fdd7", null ]
 ];

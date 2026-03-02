@@ -1,6 +1,8 @@
 var a13444 =
 [
-    [ "npc_gothik_the_harvesterAI", "de/d39/a13448.html", "de/d39/a13448" ],
-    [ "npc_gothik_the_harvester", "dc/dac/a13444.html#a44a8a900e195308802e76c5b550b577a", null ],
-    [ "GetAI", "dc/dac/a13444.html#a97d99101d8c6eca7cf59e9920725efbc", null ]
+    [ "HandleDummy", "dc/dac/a13444.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
+    [ "HandleScript", "dc/dac/a13444.html#a528ce741ebde0fb6b796431da800e439", null ],
+    [ "PrepareSpellScript", "dc/dac/a13444.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
+    [ "Register", "dc/dac/a13444.html#a8dea4b47777324b88c7e022f11741b25", null ],
+    [ "Validate", "dc/dac/a13444.html#a6f49345b2beea56b4eaad390a6062118", null ]
 ];

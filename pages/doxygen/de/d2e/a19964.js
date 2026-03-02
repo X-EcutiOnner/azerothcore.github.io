@@ -1,6 +1,12 @@
 var a19964 =
 [
-    [ "boss_sjonnir_dwarfAI", "de/de0/a19968.html", "de/de0/a19968" ],
-    [ "boss_sjonnir_dwarf", "de/d2e/a19964.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
-    [ "GetAI", "de/d2e/a19964.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
+    [ "boss_krystallusAI", "de/d2e/a19964.html#adfa2ab8498279937bf497292d6e7cba5", null ],
+    [ "JustDied", "de/d2e/a19964.html#a5b77186f7c0920142a64a03c508dcc3e", null ],
+    [ "JustEngagedWith", "de/d2e/a19964.html#aaba17094bfe43c9ad63076f84d10a83a", null ],
+    [ "KilledUnit", "de/d2e/a19964.html#acf9101c5b776820039fd80e5d6e0c138", null ],
+    [ "RemoveStonedEffect", "de/d2e/a19964.html#ae8bdb2bca7c01c564adab93f1dd67720", null ],
+    [ "Reset", "de/d2e/a19964.html#ae163fbd682f09f2a49fa71309284ed3b", null ],
+    [ "UpdateAI", "de/d2e/a19964.html#a79095e25f1d9dac927f63cef67db60ec", null ],
+    [ "events", "de/d2e/a19964.html#afcd06280f8c7640ff9a56223f5bf3555", null ],
+    [ "pInstance", "de/d2e/a19964.html#aec9cf7053476298f72dccf3bd1579c63", null ]
 ];

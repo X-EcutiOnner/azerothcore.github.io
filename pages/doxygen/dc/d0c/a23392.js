@@ -1,6 +1,5 @@
 var a23392 =
 [
-    [ "HandleScriptEffect", "dc/d0c/a23392.html#abba5817280db6579e3e6e0b964655c6e", null ],
-    [ "PrepareSpellScript", "dc/d0c/a23392.html#a846fa43c9907ddb6243c006327757a1c", null ],
-    [ "Register", "dc/d0c/a23392.html#a7daa26f4035912bff4811b0bfee35fee", null ]
+    [ "instance_the_underbog_InstanceMapScript", "dc/d0c/a23392.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
+    [ "Initialize", "dc/d0c/a23392.html#a9c7c10020eef3db4794283c0f946d086", null ]
 ];

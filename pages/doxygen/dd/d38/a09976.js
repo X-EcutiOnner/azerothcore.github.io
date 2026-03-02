@@ -1,10 +1,25 @@
 var a09976 =
 [
-    [ "DoublePosition", "dd/dee/a09980.html", "dd/dee/a09980" ],
-    [ "~AreaBoundary", "dd/d38/a09976.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
-    [ "AreaBoundary", "dd/d38/a09976.html#adf670910c492c08d3384c2dd1824e7ce", null ],
-    [ "IsWithinBoundary", "dd/d38/a09976.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
-    [ "IsWithinBoundary", "dd/d38/a09976.html#a1d407f77ce0388263fc0ee6224734213", null ],
-    [ "IsWithinBoundaryArea", "dd/d38/a09976.html#ae5580b0044dba24d100831fe51ee1abc", null ],
-    [ "_isInvertedBoundary", "dd/d38/a09976.html#ad416f29594688ce670549d6fdcce4314", null ]
+    [ "MailItemMap", "dd/d38/a09976.html#afad4472f25a020fd6c8d6452840d021c", null ],
+    [ "MailDraft", "dd/d38/a09976.html#a8a7a37890b6a280f2b08659e5e59b354", null ],
+    [ "MailDraft", "dd/d38/a09976.html#adbadad7d9522146672759298c981f7db", null ],
+    [ "AddCOD", "dd/d38/a09976.html#a8d863191bb48369359ad170aab7145e0", null ],
+    [ "AddItem", "dd/d38/a09976.html#ae0c2b4bac4dd8f2a8c53608c45cbb11a", null ],
+    [ "AddMoney", "dd/d38/a09976.html#a4d0be4ea780f25c5302278b5748b6a6b", null ],
+    [ "deleteIncludedItems", "dd/d38/a09976.html#a0b5a445213d5fcc598ed016f1cbf2cf8", null ],
+    [ "GetBody", "dd/d38/a09976.html#ae60b40718fffcdda286161e342d1738d", null ],
+    [ "GetCOD", "dd/d38/a09976.html#a2b4d799ab7ec945b60c07747981ad0a5", null ],
+    [ "GetMailTemplateId", "dd/d38/a09976.html#ab5906ccf0213f8be241fbb177fef53bd", null ],
+    [ "GetMoney", "dd/d38/a09976.html#a461ee77c1d85b07513d5f453c8c8507a", null ],
+    [ "GetSubject", "dd/d38/a09976.html#a671268ee9b384c5c8c954bb62b3a41a0", null ],
+    [ "prepareItems", "dd/d38/a09976.html#ad6481e16a4dbe15b30a942278943c1d2", null ],
+    [ "SendMailTo", "dd/d38/a09976.html#aaee8965aaa66351954bdc7db246151d7", null ],
+    [ "SendReturnToSender", "dd/d38/a09976.html#ab57f00b07519984be8e0f3eb03955ee2", null ],
+    [ "m_body", "dd/d38/a09976.html#aea4413d56053710844b37518596e7b38", null ],
+    [ "m_COD", "dd/d38/a09976.html#a73472d56d74d215494975e6ce6580008", null ],
+    [ "m_items", "dd/d38/a09976.html#a58eef2cacd7834941404a366afc52a9d", null ],
+    [ "m_mailTemplateId", "dd/d38/a09976.html#a8a7997191ebeaebbdd78677c99409278", null ],
+    [ "m_mailTemplateItemsNeed", "dd/d38/a09976.html#aa8fced0ed98a18667c9d9a55027e99e9", null ],
+    [ "m_money", "dd/d38/a09976.html#a8915b8116364db1265eba0ce0d0471c2", null ],
+    [ "m_subject", "dd/d38/a09976.html#aa71d5223f51ffe20c1bf0c91f567d6f8", null ]
 ];

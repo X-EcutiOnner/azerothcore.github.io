@@ -1,7 +1,7 @@
 var a25408 =
 [
-    [ "OnApply", "d6/d4f/a25408.html#a455a885611978a390cd4bfa76b05f82b", null ],
-    [ "PrepareAuraScript", "d6/d4f/a25408.html#ac8f269db5d77cf38bdfcbcfef75a62ff", null ],
-    [ "Register", "d6/d4f/a25408.html#a4b1a28052f11b47646dafbcd60b9dad8", null ],
-    [ "Validate", "d6/d4f/a25408.html#af1174bbbaab1d170a0dcd030d2f1e990", null ]
+    [ "OnPeriodic", "d6/d4f/a25408.html#a58f13f947b4daac98651f7fa46d7d674", null ],
+    [ "PrepareAuraScript", "d6/d4f/a25408.html#a85c4d84408becf2fb4ac55d9da369b25", null ],
+    [ "Register", "d6/d4f/a25408.html#ad0c688255e340c428624de7071b5df56", null ],
+    [ "Validate", "d6/d4f/a25408.html#a5ecd0e840bd94d4414acfb0aef9abd28", null ]
 ];

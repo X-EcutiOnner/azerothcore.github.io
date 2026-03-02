@@ -1,6 +1,10 @@
 var a10996 =
 [
-    [ "InstanceReset", "dc/d5a/a10996.html#ab1ff5009dc40f18c30941e327e5c3863", null ],
-    [ "Write", "dc/d5a/a10996.html#a0809c4de226d3aaab9817c393cef6055", null ],
-    [ "MapId", "dc/d5a/a10996.html#a7b80bb32e524fe1d0ddadf955f1ec4a2", null ]
+    [ "Count", "dc/d5a/a10996.html#a97b56650a40ff3d39c6281d43261f06f", null ],
+    [ "EntryType", "dc/d5a/a10996.html#a7c4db5da5d5e501172b8581e4e7bb865", null ],
+    [ "ItemID", "dc/d5a/a10996.html#a1daad03864355f94d90315fea68892d4", null ],
+    [ "Money", "dc/d5a/a10996.html#a856d32f52e85b2b7329f85b8e04ad0ee", null ],
+    [ "OtherTab", "dc/d5a/a10996.html#a359c633cc0034dc8ae8b7db69d3dd739", null ],
+    [ "PlayerGUID", "dc/d5a/a10996.html#a90e01e455d373204617b2747ca95fe04", null ],
+    [ "TimeOffset", "dc/d5a/a10996.html#a11cf13b65aafbd4dc70399362f4f87fe", null ]
 ];

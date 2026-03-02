@@ -1,5 +1,7 @@
 var a20540 =
 [
-    [ "achievement_kologarn_looks_could_kill", "db/d05/a20540.html#a3fcf36dabe41ff35ace233854bd0fb44", null ],
-    [ "OnCheck", "db/d05/a20540.html#a0e7be4fb00808fab9a231530822fc93d", null ]
+    [ "StoneGripTargetSelector", "db/d05/a20540.html#a74fc772e2bc0694dee05fe82de4463e2", null ],
+    [ "operator()", "db/d05/a20540.html#ae40653def55e656f2347029a97605395", null ],
+    [ "_me", "db/d05/a20540.html#ae5781d6b553491a1e3e8bfde2b965c3a", null ],
+    [ "_victim", "db/d05/a20540.html#a09c3c6f832c20776f11b72a468a4b0bb", null ]
 ];

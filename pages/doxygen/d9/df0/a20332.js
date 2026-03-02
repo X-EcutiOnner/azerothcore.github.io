@@ -1,7 +1,7 @@
 var a20332 =
 [
-    [ "npc_ulduar_saronite_vapors", "d9/df0/a20332.html#a1b582f4b98f596d701d9f5742d345e44", null ],
-    [ "IsSummonedBy", "d9/df0/a20332.html#a5efda334c3166dce2d1ca9655658b4d2", null ],
-    [ "JustDied", "d9/df0/a20332.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
-    [ "pInstance", "d9/df0/a20332.html#aaa51547a77bcd8aa53c7a057e3ca37d6", null ]
+    [ "boss_freya_healthy_spore", "d9/df0/a20332.html#abc2492b9cf96cb00940b18fac549fb00", null ],
+    [ "Reset", "d9/df0/a20332.html#abe3f794707aa722e73b1728700876083", null ],
+    [ "UpdateAI", "d9/df0/a20332.html#ac8c952848687cd883aaefe466b799e3b", null ],
+    [ "_despawnTimer", "d9/df0/a20332.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
 ];

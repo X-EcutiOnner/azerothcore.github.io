@@ -1,5 +1,6 @@
 var a11600 =
 [
-    [ "ImplicitTargetType", "d8/d0a/a11600.html#adc4268d74a3f0b47902e16eea2fc854a", null ],
-    [ "UsedTargetObjectType", "d8/d0a/a11600.html#a7bbc11d4a7a68f9441d393c7b48f5231", null ]
+    [ "WorldObjectSpellConeTargetCheck", "d8/d0a/a11600.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
+    [ "operator()", "d8/d0a/a11600.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
+    [ "_coneAngle", "d8/d0a/a11600.html#a8f946789292320ea8b205dec5d1e1975", null ]
 ];

@@ -1,6 +1,6 @@
 var a25036 =
 [
-    [ "HandleDummy", "d2/d40/a25036.html#a80ab847f2528060b2e3e2e128cfc06af", null ],
-    [ "PrepareSpellScript", "d2/d40/a25036.html#af310c2b28ed816b9fbe494f81c42043c", null ],
-    [ "Register", "d2/d40/a25036.html#ae5e494ca801b35520bddb4a8a148efcd", null ]
+    [ "OnPeriodic", "d2/d40/a25036.html#a3bcef6bd4501489320ef1242a66c50e8", null ],
+    [ "PrepareAuraScript", "d2/d40/a25036.html#ab18f839ab70cc61e52c5e9ddb4847140", null ],
+    [ "Register", "d2/d40/a25036.html#afbc707f30b7db0329f24b9ab8e8134e0", null ]
 ];

@@ -1,16 +1,13 @@
 var a05026 =
 [
-    [ "operator==", "d2/df7/a05026.html#a98ac017bf29e25cd6ec48e7635895196", null ],
-    [ "baseUnitDim", "d2/df7/a05026.html#a49b023bc34148196590dfd5c42fe49f6", null ],
-    [ "cellSizeHorizontal", "d2/df7/a05026.html#a37b48fdf0ff629ff18e262cf1b74604a", null ],
-    [ "cellSizeVertical", "d2/df7/a05026.html#aa3fa9b9705e7a0b4e514f9a900ed4dcd", null ],
-    [ "maxSimplificationError", "d2/df7/a05026.html#afbd14408be8abc7887e79b766d3fe7a5", null ],
-    [ "padding0", "d2/df7/a05026.html#a756affcba9ba67923634b050be35e2b7", null ],
-    [ "tilesPerMapEdge", "d2/df7/a05026.html#a620f2c8f7dae449054a0c9f7fdbb7bdd", null ],
-    [ "vertexPerMapEdge", "d2/df7/a05026.html#a6a95c1c214c3102d2618eaf3df850232", null ],
-    [ "vertexPerTileEdge", "d2/df7/a05026.html#a88fd7166e3555df1307ad0e1a7dfc8f6", null ],
-    [ "walkableClimb", "d2/df7/a05026.html#a6d1d6f164c716e71d0dff034c9e8042a", null ],
-    [ "walkableHeight", "d2/df7/a05026.html#aaaf165b5e3b8361d37837e6b93609557", null ],
-    [ "walkableRadius", "d2/df7/a05026.html#a16440d4ea4533b065cfa8aac216c275a", null ],
-    [ "walkableSlopeAngle", "d2/df7/a05026.html#af825b2f1f457e551a58f343864e3c100", null ]
+    [ "LogoutCancel", "d7/d89/a10768.html", "d7/d89/a10768" ],
+    [ "LogoutCancelAck", "d7/d0e/a10772.html", "d7/d0e/a10772" ],
+    [ "LogoutComplete", "df/d96/a10764.html", "df/d96/a10764" ],
+    [ "LogoutRequest", "dc/d2d/a10756.html", "dc/d2d/a10756" ],
+    [ "LogoutResponse", "dd/d26/a10760.html", "dd/d26/a10760" ],
+    [ "PlayedTime", "d5/d9e/a10784.html", "d5/d9e/a10784" ],
+    [ "PlayedTimeClient", "d8/d7d/a10780.html", "d8/d7d/a10780" ],
+    [ "PlayerLogout", "d2/df2/a10776.html", "d2/df2/a10776" ],
+    [ "ShowingCloak", "d9/dab/a10748.html", "d9/dab/a10748" ],
+    [ "ShowingHelm", "d4/d84/a10752.html", "d4/d84/a10752" ]
 ];

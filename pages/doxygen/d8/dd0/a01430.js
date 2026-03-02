@@ -1,4 +1,5 @@
 var a01430 =
 [
-    [ "ScriptRegistry< ALEScript >", "d8/dd0/a01430.html#a84c662c2b9398225a13a01142e622675", null ]
+    [ "GroupMgr", "d1/dae/a09760.html", "d1/dae/a09760" ],
+    [ "sGroupMgr", "d8/dd0/a01430.html#a9b001b22670103435cf11551af9fa71e", null ]
 ];

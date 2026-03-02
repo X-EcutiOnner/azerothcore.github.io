@@ -1,6 +1,6 @@
 var a20924 =
 [
-    [ "OnEffect", "db/d9f/a20924.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "db/d9f/a20924.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "db/d9f/a20924.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "FilterTargets", "db/d9f/a20924.html#a7efa78a7991b7ca859c7d622f973265d", null ],
+    [ "PrepareSpellScript", "db/d9f/a20924.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
+    [ "Register", "db/d9f/a20924.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
 ];

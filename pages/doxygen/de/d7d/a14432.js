@@ -1,5 +1,8 @@
 var a14432 =
 [
-    [ "at_zulgurub_bloodfire_pit_speech", "de/d7d/a14432.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
-    [ "_OnTrigger", "de/d7d/a14432.html#a8f1e477942ba9a5f653077632a98930f", null ]
+    [ "FilterTargets", "de/d7d/a14432.html#a3405b21202d423c649e0b8d341b42d9c", null ],
+    [ "HandleWipeThreat", "de/d7d/a14432.html#a2bbcce83bffebc509e9ec54778e82639", null ],
+    [ "PrepareSpellScript", "de/d7d/a14432.html#a59948484b528cab69c695f08b39b886d", null ],
+    [ "Register", "de/d7d/a14432.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
+    [ "_wipeThreat", "de/d7d/a14432.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
 ];

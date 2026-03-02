@@ -1,9 +1,11 @@
 var a06136 =
 [
-    [ "AddonInfo", "d3/da4/a06136.html#a60ea66ed93b64c9e182226954a514f53", null ],
-    [ "CRC", "d3/da4/a06136.html#a7f0f2d817a2189b3acee5999f154ba60", null ],
-    [ "Enabled", "d3/da4/a06136.html#ace9f109c395ed84cc01ca4381222c25b", null ],
-    [ "Name", "d3/da4/a06136.html#a45692257c72286e670ab8c9c50014335", null ],
-    [ "State", "d3/da4/a06136.html#a5301b19e44d68540434574f023e62f46", null ],
-    [ "UsePublicKeyOrCRC", "d3/da4/a06136.html#a75e016fa7abee24757c89b97330a6192", null ]
+    [ "AppliedFileEntry", "d3/da4/a06136.html#ac925dd4c2f889ae84e8be8cba9a0ef06", null ],
+    [ "GetStateAsString", "d3/da4/a06136.html#a803f0ee67f0d3944b0933cf97723b5d3", null ],
+    [ "StateConvert", "d3/da4/a06136.html#a16274f0e9e6669be265ba75f79c4b10f", null ],
+    [ "StateConvert", "d3/da4/a06136.html#ac35fc4abcc60015c56765ceebc6fdb8f", null ],
+    [ "hash", "d3/da4/a06136.html#af39f798a10c2675e870d4d62f1d0a10c", null ],
+    [ "name", "d3/da4/a06136.html#a8fc429eae6816054b5828952a5698a4c", null ],
+    [ "state", "d3/da4/a06136.html#a7899f60d95db04e776b7ccfbc1003cfb", null ],
+    [ "timestamp", "d3/da4/a06136.html#a13703e88b76f26858696b33a8bc8f862", null ]
 ];

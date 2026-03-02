@@ -1,7 +1,14 @@
 var a22260 =
 [
-    [ "HandleDummy", "de/db3/a22260.html#acdf98990ad575fec751a541cac3bcffa", null ],
-    [ "PrepareSpellScript", "de/db3/a22260.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
-    [ "Register", "de/db3/a22260.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
-    [ "Validate", "de/db3/a22260.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
+    [ "npc_wild_wyrm", "de/db3/a22260.html#a7adb3a9f2d17c55995218219c2af13a6", null ],
+    [ "DamageTaken", "de/db3/a22260.html#a0ff51f46c203f3b1b8dea063463c5c4d", null ],
+    [ "DoAction", "de/db3/a22260.html#afdd165233995f79aa9ec82d7c2c1f258", null ],
+    [ "InitSpellsForPhase", "de/db3/a22260.html#adcc805b0880d95c185af4a587474c2d2", null ],
+    [ "MovementInform", "de/db3/a22260.html#aeaa4f0327f06ee67a63fd15b914ffac8", null ],
+    [ "PassengerBoarded", "de/db3/a22260.html#a362052015873c615448bec978d744c9e", null ],
+    [ "Reset", "de/db3/a22260.html#a2e826c49b41a389ddfbeac3d3c7933f5", null ],
+    [ "SpellHit", "de/db3/a22260.html#a3d12d555ab7c992ca37e826609b3cd72", null ],
+    [ "UpdateAI", "de/db3/a22260.html#adbbf5b93476eef2ef54f51d2523a726e", null ],
+    [ "_phase", "de/db3/a22260.html#a7fa0ac4d2feaf62b08c4667c8f0b7474", null ],
+    [ "_playerGuid", "de/db3/a22260.html#ade2cc59d0afcf5ebfd7c6fbd694e0809", null ]
 ];

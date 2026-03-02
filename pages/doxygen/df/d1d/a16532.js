@@ -1,7 +1,6 @@
 var a16532 =
 [
-    [ "HandleDummy", "df/d1d/a16532.html#ad0782bfbd977954aac6170ee9111aef6", null ],
-    [ "PrepareSpellScript", "df/d1d/a16532.html#ac456524856c4a3c4913423693a8fd50c", null ],
-    [ "Register", "df/d1d/a16532.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
-    [ "Validate", "df/d1d/a16532.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
+    [ "SendEncounterUnit", "df/d1d/a16532.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
+    [ "Execute", "df/d1d/a16532.html#ae21b67f8fe8a0677778436563872495f", null ],
+    [ "_owner", "df/d1d/a16532.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
 ];

@@ -1,7 +1,10 @@
 var a10004 =
 [
-    [ "ZRangeBoundary", "d7/d1c/a10004.html#ab9c77783e059de4478625f7c97713c49", null ],
-    [ "IsWithinBoundaryArea", "d7/d1c/a10004.html#af1410b3eeb9e7096b1cc53caa7edd68f", null ],
-    [ "_maxZ", "d7/d1c/a10004.html#a7226d6a69b9fb922a2ac06300ab060d8", null ],
-    [ "_minZ", "d7/d1c/a10004.html#aee142d5bc4cfae80584b84ae451da05c", null ]
+    [ "DoublePosition", "d6/d89/a10008.html", "d6/d89/a10008" ],
+    [ "~AreaBoundary", "d7/d1c/a10004.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
+    [ "AreaBoundary", "d7/d1c/a10004.html#adf670910c492c08d3384c2dd1824e7ce", null ],
+    [ "IsWithinBoundary", "d7/d1c/a10004.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
+    [ "IsWithinBoundary", "d7/d1c/a10004.html#a1d407f77ce0388263fc0ee6224734213", null ],
+    [ "IsWithinBoundaryArea", "d7/d1c/a10004.html#ae5580b0044dba24d100831fe51ee1abc", null ],
+    [ "_isInvertedBoundary", "d7/d1c/a10004.html#ad416f29594688ce670549d6fdcce4314", null ]
 ];

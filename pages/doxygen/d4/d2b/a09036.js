@@ -1,7 +1,8 @@
 var a09036 =
 [
-    [ "EquipementIdPrev", "d4/d2b/a09036.html#a719c716f8914a200bfde4f5bb3275f26", null ],
-    [ "EquipmentId", "d4/d2b/a09036.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
-    [ "ModelId", "d4/d2b/a09036.html#ade2b2413020be410428b9fee9aa284d6", null ],
-    [ "ModelIdPrev", "d4/d2b/a09036.html#a9de7aa11788b22692738b72718193057", null ]
+    [ "VehicleSeat", "d4/d2b/a09036.html#ad2d19e3fc73c06cd7c8e339bd2b45a0c", null ],
+    [ "IsEmpty", "d4/d2b/a09036.html#a9f68076857cb85ee7679f04043acdedc", null ],
+    [ "Passenger", "d4/d2b/a09036.html#ac334f2f573bf52f164d570f8b83fc197", null ],
+    [ "SeatAddon", "d4/d2b/a09036.html#a3c46401aa5859287e4bcb24141c848cc", null ],
+    [ "SeatInfo", "d4/d2b/a09036.html#add0cf92d445f6ea0cf910b0bc0d80b62", null ]
 ];

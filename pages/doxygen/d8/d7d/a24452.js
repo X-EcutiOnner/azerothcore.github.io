@@ -1,7 +1,6 @@
 var a24452 =
 [
-    [ "CheckProc", "d8/d7d/a24452.html#a64414347ed5e132c3268451653082821", null ],
-    [ "HandleProc", "d8/d7d/a24452.html#a8a3eab47b8214b59275aeaa8a02e4240", null ],
-    [ "PrepareAuraScript", "d8/d7d/a24452.html#a88277eeea14f7799e27a4a897e6e8c0c", null ],
-    [ "Register", "d8/d7d/a24452.html#a3ce0dcd5becd38e10e2bb6e3d2f28e89", null ]
+    [ "HandleSummon", "d8/d7d/a24452.html#a00e265d830ea3e8a0a1952984c438071", null ],
+    [ "PrepareSpellScript", "d8/d7d/a24452.html#a96df13b19964b6e89babb312465b90bc", null ],
+    [ "Register", "d8/d7d/a24452.html#a5341e4ddf1b1ef94099c337114164ba8", null ]
 ];

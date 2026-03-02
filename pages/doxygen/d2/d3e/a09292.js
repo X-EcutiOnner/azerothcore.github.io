@@ -1,11 +1,6 @@
 var a09292 =
 [
-    [ "~GridCell", "d2/d3e/a09292.html#a042be8f85e83068d4bb39a0de0618146", null ],
-    [ "AddFarVisibleObject", "d2/d3e/a09292.html#a9a81bdbf151463b4687227df0fa39ece", null ],
-    [ "AddGridObject", "d2/d3e/a09292.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
-    [ "RemoveFarVisibleObject", "d2/d3e/a09292.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
-    [ "Visit", "d2/d3e/a09292.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
-    [ "Visit", "d2/d3e/a09292.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
-    [ "_farVisibleObjects", "d2/d3e/a09292.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
-    [ "_gridObjects", "d2/d3e/a09292.html#ac5a741aebc11124aa228e5107e664335", null ]
+    [ "m_guid", "d2/d3e/a09292.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
+    [ "m_instance", "d2/d3e/a09292.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
+    [ "m_state", "d2/d3e/a09292.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
 ];

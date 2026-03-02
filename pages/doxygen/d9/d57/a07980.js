@@ -1,7 +1,10 @@
 var a07980 =
 [
-    [ "StoreTo", "d9/d57/a07980.html#a1f368b832f95ce4acc6ed47ad4ca2e8d", null ],
-    [ "StoreTo", "d9/d57/a07980.html#a3d9382dd50447477f9f04bc0f055e55c", null ],
-    [ "StoreTo", "d9/d57/a07980.html#a071922c9c431637de3cb2d6b52def7bd", null ],
-    [ "StoreTo", "d9/d57/a07980.html#a45556cc3ac64a6692ef08d6d93d48a4d", null ]
+    [ "Achievement", "d9/d57/a07980.html#a03caf33cfc9f75dfdbba2dedc747e0ce", null ],
+    [ "CharacterId", "d9/d57/a07980.html#a0ec541a4e11d9e19f7cced7e839b1ebb", null ],
+    [ "Criteria", "d9/d57/a07980.html#a4eae1ba9b211d8c8307000ddae428348", null ],
+    [ "Day", "d9/d57/a07980.html#a216aaf4eed90eeb05662631e8f89b4ab", null ],
+    [ "IsFinished", "d9/d57/a07980.html#a1aff3d0a28a12f0e4ee10bca376f335c", null ],
+    [ "Month", "d9/d57/a07980.html#a9be9cfb6a40c527e8f6b6ad381ed5b42", null ],
+    [ "Year", "d9/d57/a07980.html#a85612eac22d3233e620eb11e6e1b48b0", null ]
 ];

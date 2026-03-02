@@ -1,8 +1,9 @@
 var a17844 =
 [
-    [ "npc_high_overlord_saurfangAI", "dd/d3f/a17848.html", "dd/d3f/a17848" ],
-    [ "npc_high_overlord_saurfang_icc", "df/dd9/a17844.html#ac02fe80550572e142406c2d80c0392df", null ],
-    [ "GetAI", "df/dd9/a17844.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
-    [ "OnGossipHello", "df/dd9/a17844.html#a515a87f751527412222cfdd968febe7c", null ],
-    [ "OnGossipSelect", "df/dd9/a17844.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
+    [ "FilterTargets", "df/dd9/a17844.html#a7b490400378893a19cdaf52af25f3a51", null ],
+    [ "HandleScript", "df/dd9/a17844.html#acee46fb0af45364478a92db59fcc3f24", null ],
+    [ "Load", "df/dd9/a17844.html#a46a43b9a8dec2f61aee3dccad4178a78", null ],
+    [ "PrepareSpellScript", "df/dd9/a17844.html#abb8fac43566f92b19e644edc38ab5d73", null ],
+    [ "Register", "df/dd9/a17844.html#a1add221102b7067ffc130969f5172eae", null ],
+    [ "Validate", "df/dd9/a17844.html#a4d2b60161f5aed31132f0fc554aab7b6", null ]
 ];

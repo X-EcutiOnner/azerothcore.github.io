@@ -1,12 +1,17 @@
 var a10472 =
 [
-    [ "ArenaScript", "d4/d25/a10472.html#acba88d9008e08873f3f20b92d69e8912", null ],
-    [ "CanAddMember", "d4/d25/a10472.html#aa85728dd471c2f4d58ed1794e741d060", null ],
-    [ "CanSaveArenaStatsForMember", "d4/d25/a10472.html#a73719d3e62d1f7cf1f174292975f0f4f", null ],
-    [ "CanSaveToDB", "d4/d25/a10472.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
-    [ "IsDatabaseBound", "d4/d25/a10472.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
-    [ "OnArenaStart", "d4/d25/a10472.html#ae67b000b16f56309da56f672a9f2b423", null ],
-    [ "OnBeforeArenaCheckWinConditions", "d4/d25/a10472.html#a2b46190a3243f2306a74295975dca317", null ],
-    [ "OnBeforeArenaTeamMemberUpdate", "d4/d25/a10472.html#a548ac21d5bd9be263935a298a3b5cd16", null ],
-    [ "OnGetPoints", "d4/d25/a10472.html#a13b22ad00d3742589532e6e522258834", null ]
+    [ "AllCreatureScript", "d4/d25/a10472.html#ae933414c901fc5d3606fd5c239156f1b", null ],
+    [ "CanCreatureGossipHello", "d4/d25/a10472.html#a2cf3bd5ad27bf97fde905bc69a6dec5e", null ],
+    [ "CanCreatureGossipSelect", "d4/d25/a10472.html#a551633c543dd01e876ee10452b98fb5e", null ],
+    [ "CanCreatureGossipSelectCode", "d4/d25/a10472.html#aa193e968ecc1639ca33fee052dafb0b3", null ],
+    [ "CanCreatureQuestAccept", "d4/d25/a10472.html#af45ef5e7a0a6b3ca6126d5af87753b5c", null ],
+    [ "CanCreatureQuestReward", "d4/d25/a10472.html#a31659a18df4206122a56ce69f3e4809d", null ],
+    [ "GetCreatureAI", "d4/d25/a10472.html#a1e568b6f85a8b60a65a987c8d081ca3e", null ],
+    [ "OnAllCreatureUpdate", "d4/d25/a10472.html#abba47678a4f5e73c2db3b27b4cfa3dbe", null ],
+    [ "OnBeforeCreatureSelectLevel", "d4/d25/a10472.html#a136f18625787127115566bb4625fc490", null ],
+    [ "OnCreatureAddWorld", "d4/d25/a10472.html#aa5ba65ba430a95724a814311382c9a67", null ],
+    [ "OnCreatureRemoveWorld", "d4/d25/a10472.html#aba119c6b59f3dd4a489bb227c1b1208d", null ],
+    [ "OnCreatureSaveToDB", "d4/d25/a10472.html#acad4f67abbd5906f38be136be2ae1f53", null ],
+    [ "OnCreatureSelectLevel", "d4/d25/a10472.html#a72e4b4f205e153cb72c3401028b065c9", null ],
+    [ "OnFfaPvpStateUpdate", "d4/d25/a10472.html#a8022ccb5b3d0b6d900512f3d8ea6dbfa", null ]
 ];

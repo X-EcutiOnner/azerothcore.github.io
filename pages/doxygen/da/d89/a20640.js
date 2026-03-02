@@ -1,7 +1,5 @@
 var a20640 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "da/d89/a20640.html#a100678bddd6a0e859c72035d4642d8e2", null ],
-    [ "MoveInLineOfSight", "da/d89/a20640.html#a870bdc842d8d7078302a36a20ef661e4", null ],
-    [ "_instance", "da/d89/a20640.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
-    [ "_introSpoken", "da/d89/a20640.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
+    [ "achievement_mimiron_firefighter", "da/d89/a20640.html#ae26c3b2572bc9e3e75fb25537fe46a6c", null ],
+    [ "OnCheck", "da/d89/a20640.html#a1ebd287ef20c6d367f30b1c30ba68728", null ]
 ];

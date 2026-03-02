@@ -1,6 +1,6 @@
 var a22240 =
 [
-    [ "HandleScript", "db/dfc/a22240.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
-    [ "PrepareSpellScript", "db/dfc/a22240.html#af0f5206d98dbc9de355abbeb03709c05", null ],
-    [ "Register", "db/dfc/a22240.html#a53d9d7de4922ed6509b6036921640352", null ]
+    [ "HandleScriptEffect", "db/dfc/a22240.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
+    [ "PrepareSpellScript", "db/dfc/a22240.html#afa4ad1b205bf963b4230881738baf938", null ],
+    [ "Register", "db/dfc/a22240.html#a0d8925effced854471e2fbec9c631b91", null ]
 ];

@@ -1,14 +1,22 @@
 var a02063 =
 [
-    [ "go_main_chambers_access_panel", "d0/d12/a23300.html", "d0/d12/a23300" ],
-    [ "instance_steam_vault", "d2/d2d/a23304.html", "d2/d2d/a23304" ],
-    [ "instance_steam_vault::instance_steam_vault_InstanceMapScript", "d7/d18/a23308.html", "d7/d18/a23308" ],
-    [ "MainChambersAccessPanelSays", "d2/d8a/a02063.html#aa8d293574a308aad41f620556eb63b6a", [
-      [ "SAY_FAINT_ECHO", "d2/d8a/a02063.html#aa8d293574a308aad41f620556eb63b6aadbbafef44899cd7d93e10aaa27f52992", null ],
-      [ "SAY_LOUD_RUMBLE", "d2/d8a/a02063.html#aa8d293574a308aad41f620556eb63b6aa420e4ca090aea66dfe08994ddce97884", null ]
+    [ "ServerMailCondition", "de/dee/a09988.html", "de/dee/a09988" ],
+    [ "ServerMailItems", "d7/d3f/a09992.html", "d7/d3f/a09992" ],
+    [ "ServerMail", "da/d71/a09996.html", "da/d71/a09996" ],
+    [ "ServerMailMgr", "d6/d52/a10000.html", "d6/d52/a10000" ],
+    [ "sServerMailMgr", "d2/d8a/a02063.html#a6423d219eaead162b40b6021eadca0c4", null ],
+    [ "ServerMailContainer", "d2/d8a/a02063.html#a9c10c94a0a8508b3af2e92d3455d063b", null ],
+    [ "ServerMailConditionType", "d2/d8a/a02063.html#ab25c41bc314095f74fe678a33e086a2b", [
+      [ "Invalid", "d2/d8a/a02063.html#ab25c41bc314095f74fe678a33e086a2ba4bbb8f967da6d1a610596d7257179c2b", null ],
+      [ "Level", "d2/d8a/a02063.html#ab25c41bc314095f74fe678a33e086a2baa0db49ba470c1c9ae2128c3470339153", null ],
+      [ "PlayTime", "d2/d8a/a02063.html#ab25c41bc314095f74fe678a33e086a2bad50a5da6b13baa381b72761aae02cde3", null ],
+      [ "Quest", "d2/d8a/a02063.html#ab25c41bc314095f74fe678a33e086a2ba07bf513a88c3df282a30cb374f8a933d", null ],
+      [ "Achievement", "d2/d8a/a02063.html#ab25c41bc314095f74fe678a33e086a2bae29be78e8cf65f9f1a934917f9e0903e", null ],
+      [ "Reputation", "d2/d8a/a02063.html#ab25c41bc314095f74fe678a33e086a2ba8d9bec4f224970e231041639de877092", null ],
+      [ "Faction", "d2/d8a/a02063.html#ab25c41bc314095f74fe678a33e086a2ba3dcd53a8339c060c69c660b1b89b5201", null ],
+      [ "Race", "d2/d8a/a02063.html#ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879", null ],
+      [ "Class", "d2/d8a/a02063.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af", null ],
+      [ "AccountFlags", "d2/d8a/a02063.html#ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225", null ]
     ] ],
-    [ "AddSC_instance_steam_vault", "d2/d8a/a02063.html#a944f7f7f41e047f2a4f82fb9af0b4829", null ],
-    [ "creatureData", "d2/d8a/a02063.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "minionData", "d2/d8a/a02063.html#a6720238df140a3c574a711042b7f5bd3", null ],
-    [ "objectData", "d2/d8a/a02063.html#a59ddfa91084111da23b5d47482e4ff8d", null ]
+    [ "ServerMailConditionTypePairs", "d2/d8a/a02063.html#af981b509cb816fa6720cf16cceaa9081", null ]
 ];

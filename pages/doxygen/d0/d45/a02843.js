@@ -1,7 +1,8 @@
 var a02843 =
 [
-    [ "instance_utgarde_pinnacle", "d0/df9/a21160.html", "d0/df9/a21160" ],
-    [ "instance_utgarde_pinnacle::instance_utgarde_pinnacle_InstanceMapScript", "d5/d66/a21164.html", "d5/d66/a21164" ],
-    [ "AddSC_instance_utgarde_pinnacle", "d0/d45/a02843.html#a3469cdfafe3d81dca68950e7a6a6370d", null ],
-    [ "creatureData", "d0/d45/a02843.html#a412286b689bd324fedd65ddd8dde8afb", null ]
+    [ "spell_gordunni_trap", "d9/ddf/a15952.html", "d9/ddf/a15952" ],
+    [ "GordunniTrap", "d0/d45/a02843.html#ae11511f5835ecdfec73fde1f9f29431c", [
+      [ "GO_GORDUNNI_DIRT_MOUND", "d0/d45/a02843.html#ae11511f5835ecdfec73fde1f9f29431ca12df131fc84f6cc9bcf7d02eaf65e1ab", null ]
+    ] ],
+    [ "AddSC_feralas", "d0/d45/a02843.html#a06e54e3edc2df068be660ac788b402e3", null ]
 ];

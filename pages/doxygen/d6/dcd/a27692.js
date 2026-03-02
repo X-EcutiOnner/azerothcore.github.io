@@ -1,6 +1,8 @@
 var a27692 =
 [
-    [ "CheckProc", "d6/dcd/a27692.html#ad99bf14a9b71a9ff7b2ccb73eaae41ce", null ],
-    [ "PrepareAuraScript", "d6/dcd/a27692.html#a787d22fa4d989bf28aa69f64d55d9687", null ],
-    [ "Register", "d6/dcd/a27692.html#a4ef23658a8f36556513fcd7b9673a14f", null ]
+    [ "ApplyEffect", "d6/dcd/a27692.html#a0c303c58064236969e17d1f2df3e0556", null ],
+    [ "PrepareAuraScript", "d6/dcd/a27692.html#a716a483282946f840ac15d73c6e21a94", null ],
+    [ "Register", "d6/dcd/a27692.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
+    [ "RemoveEffect", "d6/dcd/a27692.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
+    [ "Validate", "d6/dcd/a27692.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
 ];

@@ -1,6 +1,6 @@
 var a22844 =
 [
-    [ "FilterTargets", "d5/dc0/a22844.html#a04973145ed594b88afe2acc0cacb10c6", null ],
-    [ "PrepareSpellScript", "d5/dc0/a22844.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
-    [ "Register", "d5/dc0/a22844.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
+    [ "boss_essence_of_sufferingAI", "d2/d1c/a22848.html", "d2/d1c/a22848" ],
+    [ "boss_essence_of_suffering", "d5/dc0/a22844.html#a1237f428657f0e9a0218695264358384", null ],
+    [ "GetAI", "d5/dc0/a22844.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
 ];

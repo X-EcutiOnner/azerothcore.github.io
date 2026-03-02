@@ -1,6 +1,7 @@
 var a18084 =
 [
-    [ "PrepareSpellScript", "d6/da1/a18084.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
-    [ "Register", "d6/da1/a18084.html#a651f52f7d242251ff69d100fd69376e4", null ],
-    [ "SelectTarget", "d6/da1/a18084.html#aede083ebebe38deb5898ff028564ef95", null ]
+    [ "npc_gunship_rocketeerAI", "d6/da1/a18084.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
+    [ "CanAIAttack", "d6/da1/a18084.html#a4b4e2839e426bdb752beea09394f13dc", null ],
+    [ "MovementInform", "d6/da1/a18084.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
+    [ "UpdateAI", "d6/da1/a18084.html#af73d71750f116fb90be1c2acba75ca70", null ]
 ];

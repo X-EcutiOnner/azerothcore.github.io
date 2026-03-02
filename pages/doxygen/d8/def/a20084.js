@@ -1,5 +1,6 @@
 var a20084 =
 [
-    [ "achievement_algalon_he_feeds_on_your_tears", "d8/def/a20084.html#a91f4ddbce55a50e563df701eb0bcfff7", null ],
-    [ "OnCheck", "d8/def/a20084.html#affea33614581545c65513bfe533d7246", null ]
+    [ "HandlePeriodic", "d8/def/a20084.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
+    [ "PrepareAuraScript", "d8/def/a20084.html#a7c6b6839da4a93f656800c9ae174c832", null ],
+    [ "Register", "d8/def/a20084.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
 ];

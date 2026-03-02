@@ -1,6 +1,11 @@
 var a12592 =
 [
-    [ "boss_warmastervooneAI", "d0/d15/a12596.html", "d0/d15/a12596" ],
-    [ "boss_warmaster_voone", "db/d68/a12592.html#ac363118e4201adccd4be0028a558442f", null ],
-    [ "GetAI", "db/d68/a12592.html#a560469e60fda04b2c7d8fd3994493868", null ]
+    [ "boss_solakar_flamewreathAI", "db/d68/a12592.html#ada12a91bedec9be8923f9dc74fce07d0", null ],
+    [ "ExecuteEvent", "db/d68/a12592.html#aa1fca22d30b15ee93cc02084ebab0c2c", null ],
+    [ "InitializeAI", "db/d68/a12592.html#a7a8a5d3c453e29ec746422e1ba8e4d34", null ],
+    [ "JustDied", "db/d68/a12592.html#aceb580afa2329ada3236dc759f3a3c20", null ],
+    [ "JustEngagedWith", "db/d68/a12592.html#a47f8a133b6f8c0de11a66b712bb8e266", null ],
+    [ "Reset", "db/d68/a12592.html#a25ae2943a7ce9a1f459cfd1313c84c49", null ],
+    [ "UpdateAI", "db/d68/a12592.html#ac5f908584251455c720ce3f25ed07dae", null ],
+    [ "resetTimer", "db/d68/a12592.html#acd7fdd30767a7863f265eb96e29c221e", null ]
 ];

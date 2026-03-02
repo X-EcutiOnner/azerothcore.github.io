@@ -1,8 +1,9 @@
 var a23288 =
 [
-    [ "boss_mekgineer_steamrigger", "d2/d0e/a23288.html#a930dcbade7135d0c689bcc0718815547", null ],
-    [ "JustDied", "d2/d0e/a23288.html#a79272c233bc0256cca62700fc7a01421", null ],
-    [ "JustEngagedWith", "d2/d0e/a23288.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
-    [ "JustSummoned", "d2/d0e/a23288.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
-    [ "KilledUnit", "d2/d0e/a23288.html#a84374438458cb7e034f91d4b65cd22f1", null ]
+    [ "boss_mennu_the_betrayer", "d2/d0e/a23288.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
+    [ "JustDied", "d2/d0e/a23288.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
+    [ "JustEngagedWith", "d2/d0e/a23288.html#a535b9af1677b8af50515818a18e88d27", null ],
+    [ "JustSummoned", "d2/d0e/a23288.html#a59949872270890ef794a77029074210b", null ],
+    [ "KilledUnit", "d2/d0e/a23288.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
+    [ "Reset", "d2/d0e/a23288.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
 ];

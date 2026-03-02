@@ -1,9 +1,6 @@
 var a22208 =
 [
-    [ "HandlePeriodic", "d4/d19/a22208.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
-    [ "Load", "d4/d19/a22208.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
-    [ "PrepareAuraScript", "d4/d19/a22208.html#a1057e5262d413149a023bc904a3c3751", null ],
-    [ "Register", "d4/d19/a22208.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
-    [ "Validate", "d4/d19/a22208.html#a85d7ac258d50f690574ad7656256cd05", null ],
-    [ "_counter", "d4/d19/a22208.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
+    [ "npc_brunnhildar_prisonerAI", "da/dda/a22212.html", "da/dda/a22212" ],
+    [ "npc_brunnhildar_prisoner", "d4/d19/a22208.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
+    [ "GetAI", "d4/d19/a22208.html#aa2a1787849c74a5163a39137c9d03d57", null ]
 ];

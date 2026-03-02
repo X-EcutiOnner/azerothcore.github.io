@@ -1,6 +1,6 @@
 var a25208 =
 [
-    [ "HandleDummy", "d4/de9/a25208.html#a0bcbef8a2d5978498556a217ac618fed", null ],
-    [ "PrepareSpellScript", "d4/de9/a25208.html#a5901c22f3a10fdbd21d934f5cb8cd76d", null ],
-    [ "Register", "d4/de9/a25208.html#a2c6d9c273a3d281dacefc20970912166", null ]
+    [ "CheckSeat", "d4/de9/a25208.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
+    [ "PrepareSpellScript", "d4/de9/a25208.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
+    [ "Register", "d4/de9/a25208.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
 ];

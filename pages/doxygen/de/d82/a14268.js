@@ -1,7 +1,5 @@
 var a14268 =
 [
-    [ "HandleDispel", "de/d82/a14268.html#a415977576283972ce4a1050c70826d7c", null ],
-    [ "PrepareAuraScript", "de/d82/a14268.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
-    [ "Register", "de/d82/a14268.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
-    [ "Validate", "de/d82/a14268.html#ac496e7bef875ca46660217e74fc3bc74", null ]
+    [ "npc_mikhail", "de/d82/a14268.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
+    [ "OnQuestAccept", "de/d82/a14268.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
 ];

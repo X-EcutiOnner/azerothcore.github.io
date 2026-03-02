@@ -1,20 +1,5 @@
 var a01784 =
 [
-    [ "WorldPackets::Misc::Weather", "d7/d26/a11120.html", "d7/d26/a11120" ],
-    [ "WorldPackets::Misc::LevelUpInfo", "d9/de5/a11124.html", "d9/de5/a11124" ],
-    [ "WorldPackets::Misc::PlayMusic", "d4/d4b/a11128.html", "d4/d4b/a11128" ],
-    [ "WorldPackets::Misc::PlayObjectSound", "dc/d17/a11132.html", "dc/d17/a11132" ],
-    [ "WorldPackets::Misc::Playsound", "dd/dbd/a11136.html", "dd/dbd/a11136" ],
-    [ "WorldPackets::Misc::MinimapPingClient", "d8/dd7/a11140.html", "d8/dd7/a11140" ],
-    [ "WorldPackets::Misc::MinimapPing", "d8/d4f/a11144.html", "d8/d4f/a11144" ],
-    [ "WorldPackets::Misc::RandomRollClient", "d5/dd9/a11148.html", "d5/dd9/a11148" ],
-    [ "WorldPackets::Misc::RandomRoll", "da/d8e/a11152.html", "da/d8e/a11152" ],
-    [ "WorldPackets::Misc::StartMirrorTimer", "d6/df0/a11156.html", "d6/df0/a11156" ],
-    [ "WorldPackets::Misc::PauseMirrorTimer", "dc/d90/a11160.html", "dc/d90/a11160" ],
-    [ "WorldPackets::Misc::StopMirrorTimer", "d8/da5/a11164.html", "d8/da5/a11164" ],
-    [ "WorldPackets::Misc::DurabilityDamageDeath", "db/d3e/a11168.html", "db/d3e/a11168" ],
-    [ "WorldPackets::Misc::CrossedInebriationThreshold", "d1/dbe/a11172.html", "d1/dbe/a11172" ],
-    [ "WorldPackets::Misc::UITime", "d6/def/a11176.html", "d6/def/a11176" ],
-    [ "WorldPackets::Misc::Complain", "df/de8/a11180.html", "df/de8/a11180" ],
-    [ "WorldPackets::Misc::ComplainResult", "d3/d0e/a11184.html", "d3/d0e/a11184" ]
+    [ "DispelList", "d6/d3d/a01784.html#a711d5a2b2f8cbeb49153d9e33ea51bf1", null ],
+    [ "SpellEffects", "d6/d3d/a01784.html#a294b5954f08aebdafe9e5a6f00e2dc82", null ]
 ];

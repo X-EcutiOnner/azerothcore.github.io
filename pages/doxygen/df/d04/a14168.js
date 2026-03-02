@@ -1,7 +1,7 @@
 var a14168 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "df/d04/a14168.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
-    [ "Reset", "df/d04/a14168.html#a18de805428ce0954a5fbfffbf5975342", null ],
-    [ "UpdateAI", "df/d04/a14168.html#a48b191d0812bfe3212511a52ef0df817", null ],
-    [ "_events", "df/d04/a14168.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "dc/de1/a14172.html", "dc/de1/a14172" ],
+    [ "npc_lady_sylvanas_windrunner", "df/d04/a14168.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
+    [ "GetAI", "df/d04/a14168.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
+    [ "OnQuestReward", "df/d04/a14168.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
 ];

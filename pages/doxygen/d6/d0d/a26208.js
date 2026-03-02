@@ -1,8 +1,7 @@
 var a26208 =
 [
-    [ "HandleRemove", "d6/d0d/a26208.html#a39651b35dc8c1336d09fc1542d68a743", null ],
-    [ "OnAuraInit", "d6/d0d/a26208.html#a411138e249027518aa7535ce06330ccf", null ],
-    [ "PrepareAuraScript", "d6/d0d/a26208.html#ad905a91348b92007774c69467c24d40e", null ],
-    [ "Register", "d6/d0d/a26208.html#ada9610c7d5d1236ccb509ac7ca4a8b3d", null ],
-    [ "Validate", "d6/d0d/a26208.html#a0f9174b9cf14dd8bf0c8c444600511b1", null ]
+    [ "HandleProc", "d6/d0d/a26208.html#ac162e47e5334e15865a315b1a30fc645", null ],
+    [ "PrepareAuraScript", "d6/d0d/a26208.html#a0d30a007e3f67b78197ac0cae83e2976", null ],
+    [ "Register", "d6/d0d/a26208.html#aad337f75e2132940ed3cfef209e1c73b", null ],
+    [ "Validate", "d6/d0d/a26208.html#afc4741f952c253924de7397d991a24ac", null ]
 ];

@@ -1,8 +1,10 @@
 var a26636 =
 [
-    [ "CheckCast", "d2/d99/a26636.html#a0d7910cd2b9d9f4174575532502d40f9", null ],
-    [ "HandleDummy", "d2/d99/a26636.html#a1eac1eb5f39093ff48942e82728478dd", null ],
-    [ "PrepareSpellScript", "d2/d99/a26636.html#adbb58b75232560d101b291c0d99a2a20", null ],
-    [ "Register", "d2/d99/a26636.html#a6acb46e81171e13f50ac1f01bf83013b", null ],
-    [ "Validate", "d2/d99/a26636.html#a4b67c348685a8094668e4ed2f0c78446", null ]
+    [ "Load", "d2/d99/a26636.html#a4330a13b4144aa0a2e299c5cb00b1aea", null ],
+    [ "PrepareAuraScript", "d2/d99/a26636.html#ae04fa1b54e4b0219d1dcdf998e708c29", null ],
+    [ "Register", "d2/d99/a26636.html#a3031d32b7366f7f707cbb69e3cb96fc8", null ],
+    [ "Split", "d2/d99/a26636.html#aa28fe4ba6a8a501318b6d1d49a2fa9b9", null ],
+    [ "groupSize", "d2/d99/a26636.html#aa1e61b128f63c802dc623be551657df1", null ],
+    [ "minHpPct", "d2/d99/a26636.html#a279f1a2b232a7be981e4315c9e8595e4", null ],
+    [ "remainingAmount", "d2/d99/a26636.html#ad00a550f82d6b3ae77c3112c753de60b", null ]
 ];

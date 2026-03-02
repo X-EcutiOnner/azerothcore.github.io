@@ -1,9 +1,7 @@
 var a15084 =
 [
-    [ "boss_azgalor", "d1/dbb/a15084.html#ac794e0eacc2d543fa62e4b521089f080", null ],
-    [ "DoAction", "d1/dbb/a15084.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
-    [ "JustDied", "d1/dbb/a15084.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
-    [ "JustEngagedWith", "d1/dbb/a15084.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
-    [ "KilledUnit", "d1/dbb/a15084.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
-    [ "_recentlySpoken", "d1/dbb/a15084.html#abea34396ddde0aa02a073b2f3119fec9", null ]
+    [ "HandleOnHit", "d1/dbb/a15084.html#a9f1d78b4a98bc76877903b79923c1634", null ],
+    [ "PrepareSpellScript", "d1/dbb/a15084.html#afb0a8a16850da30b0fbdb3d10a935f21", null ],
+    [ "Register", "d1/dbb/a15084.html#ab923488eb891e1f9b1f5cb8ed61f3865", null ],
+    [ "Validate", "d1/dbb/a15084.html#a57d85b1702e5c89d72972505121180ed", null ]
 ];

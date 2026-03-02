@@ -1,11 +1,9 @@
 var a23720 =
 [
-    [ "boss_high_astromancer_solarian", "d6/dea/a23720.html#a2db48cc179539f81b55188de08a7e180", null ],
-    [ "AttackStart", "d6/dea/a23720.html#acaf94134aef553447e766a5e431c8b83", null ],
-    [ "JustDied", "d6/dea/a23720.html#a510eb2e4f0770670d6767bc2545375b7", null ],
-    [ "JustEngagedWith", "d6/dea/a23720.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
-    [ "JustSummoned", "d6/dea/a23720.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
-    [ "KilledUnit", "d6/dea/a23720.html#a561a78193615575b7e43e0f21387f1b8", null ],
-    [ "Reset", "d6/dea/a23720.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
-    [ "UpdateAI", "d6/dea/a23720.html#a07a76c34a978c31212390cf10ed3e382", null ]
+    [ "HandleEffectApply", "d6/dea/a23720.html#ac9e030810cc1ffb3927943353bcbb764", null ],
+    [ "HandleEffectRemove", "d6/dea/a23720.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
+    [ "Load", "d6/dea/a23720.html#a60f41c19f5104eef82048fd1e3416abd", null ],
+    [ "PrepareAuraScript", "d6/dea/a23720.html#a277d9865108acafac4b1a42bc5b5714b", null ],
+    [ "Register", "d6/dea/a23720.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
+    [ "_falconSet", "d6/dea/a23720.html#a1a20f75d251936bff7a0777831d79140", null ]
 ];

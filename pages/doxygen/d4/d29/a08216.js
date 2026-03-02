@@ -1,7 +1,9 @@
 var a08216 =
 [
-    [ "ForcedDespawnDelayEvent", "d4/d29/a08216.html#ad3cf785f62ec0d7069493fee39227bc3", null ],
-    [ "Execute", "d4/d29/a08216.html#a735c709b269458911bd93da1902cbe25", null ],
-    [ "m_owner", "d4/d29/a08216.html#aa4fa09703f39ae8bbe0b7483a27d9cc3", null ],
-    [ "m_respawnTimer", "d4/d29/a08216.html#a5db78930a1fda07f2020b23158ebb93d", null ]
+    [ "LFGPlayerScript", "d4/d29/a08216.html#ad27ca48d9e573ad0ba155a3f7eb1ae88", null ],
+    [ "OnPlayerBindToInstance", "d4/d29/a08216.html#aeb3fd4e39ed8ba345cf3c76a232f241d", null ],
+    [ "OnPlayerLevelChanged", "d4/d29/a08216.html#afd530a2823a7187b49645c9d0625c8ba", null ],
+    [ "OnPlayerLogin", "d4/d29/a08216.html#a3b4e8775787feb8266edc52fddc7ab3a", null ],
+    [ "OnPlayerLogout", "d4/d29/a08216.html#a13c365770c90d1a44f72ab4cb8c7f903", null ],
+    [ "OnPlayerMapChanged", "d4/d29/a08216.html#ab3022d19b8d32bf0f269b2e991150a1c", null ]
 ];

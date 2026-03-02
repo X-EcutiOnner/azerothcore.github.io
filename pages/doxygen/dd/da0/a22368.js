@@ -1,6 +1,5 @@
 var a22368 =
 [
-    [ "npc_released_offspring_harkoaAI", "de/d72/a22372.html", "de/d72/a22372" ],
-    [ "npc_released_offspring_harkoa", "dd/da0/a22368.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
-    [ "GetAI", "dd/da0/a22368.html#ae3d2a02c496be1b2606fce596625d12e", null ]
+    [ "achievement_wg_didnt_stand_a_chance", "dd/da0/a22368.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
+    [ "OnCheck", "dd/da0/a22368.html#ae575bae454689e05c161e8480a13fa18", null ]
 ];

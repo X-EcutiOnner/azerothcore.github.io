@@ -1,9 +1,8 @@
 var a09580 =
 [
-    [ "AnyGroupedUnitInObjectRangeCheck", "d6/dab/a09580.html#a2c775f62eeabcb8af5306cbcedae322e", null ],
-    [ "operator()", "d6/dab/a09580.html#a3c316eacdd1c74c69d8297871f84d7b9", null ],
-    [ "_raid", "d6/dab/a09580.html#a6a9cffd02435913a5d7ee53cd1e8cc0b", null ],
-    [ "_range", "d6/dab/a09580.html#a01b4592ac61d58ff39e5bb2eb1a1b997", null ],
-    [ "_refUnit", "d6/dab/a09580.html#ad083243ef5487aa374b19e3c82b0457c", null ],
-    [ "_source", "d6/dab/a09580.html#a91de967d2376ea96b1fc0838094915cf", null ]
+    [ "FriendlyMissingBuffInRange", "d6/dab/a09580.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
+    [ "operator()", "d6/dab/a09580.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
+    [ "i_obj", "d6/dab/a09580.html#aba43edf48b2b0184b52143707c3531f4", null ],
+    [ "i_range", "d6/dab/a09580.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
+    [ "i_spell", "d6/dab/a09580.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
 ];

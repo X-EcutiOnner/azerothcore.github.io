@@ -1,9 +1,7 @@
 var a28432 =
 [
-    [ "npc_chicken_cluckAI", "d2/d02/a28432.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "d2/d02/a28432.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "d2/d02/a28432.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "d2/d02/a28432.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "d2/d02/a28432.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "d2/d02/a28432.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "npc_riggle_bassbaitAI", "d2/d02/a28432.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "d2/d02/a28432.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "d2/d02/a28432.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "d2/d02/a28432.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

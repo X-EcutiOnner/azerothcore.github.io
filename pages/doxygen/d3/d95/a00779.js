@@ -1,6 +1,6 @@
 var a00779 =
 [
-    [ "Bag", "df/dc4/a08532.html", "df/dc4/a08532" ],
-    [ "MAX_BAG_SIZE", "d3/d95/a00779.html#a60a065b8fab298fb24dfd8f22f657d77", null ],
-    [ "NewItemOrBag", "d3/d95/a00779.html#a6b74a54b7de3ced0e27f4128f0d95c64", null ]
+    [ "TSpellSummary", "dd/daf/a06416.html", "dd/daf/a06416" ],
+    [ "SCR_CLEAR", "d3/d95/a00779.html#ab71e08e3f39b7ee7bda0306cd39b96a0", null ],
+    [ "SpellSummary", "d3/d95/a00779.html#ae56af266ccaa1794f1f014938b07e9cc", null ]
 ];

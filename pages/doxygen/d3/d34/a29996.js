@@ -1,14 +1,13 @@
 var a29996 =
 [
-    [ "file_MVER", "da/d36/a28987.html", "da/d36/a28987" ],
-    [ "FileLoader", "d6/d12/a28995.html", "d6/d12/a28995" ],
-    [ "FILE_FORMAT_VERSION", "d3/d34/a29996.html#a82680783457cdcbe83db9eefe68f8a9b", null ],
-    [ "int16", "d3/d34/a29996.html#aa0d0fdc87fd135ef2bedb030901cdb9c", null ],
-    [ "int32", "d3/d34/a29996.html#ab7903878916593daecbeb95b98115ab0", null ],
-    [ "int64", "d3/d34/a29996.html#a7cde0074dfd288f2d70c0e035dacb28a", null ],
-    [ "int8", "d3/d34/a29996.html#aa79c2d3de4fcd200458c406f40b2ae64", null ],
-    [ "uint16", "d3/d34/a29996.html#ac2a9e79eb120216f855626495b7bd18a", null ],
-    [ "uint32", "d3/d34/a29996.html#acbd4acd0d29e2d6c43104827f77d9cd2", null ],
-    [ "uint64", "d3/d34/a29996.html#abc0f5bc07737e498f287334775dff2b6", null ],
-    [ "uint8", "d3/d34/a29996.html#a33a5e996e7a90acefb8b1c0bea47e365", null ]
+    [ "liquidTris", "d3/d34/a29996.html#ad166656bfa449d3093cb23e7bef2cc76", null ],
+    [ "liquidType", "d3/d34/a29996.html#afbbb20fcb4e597c2addcc47893a33f92", null ],
+    [ "liquidVerts", "d3/d34/a29996.html#a52796933ab018f27d12f625673f7f8a9", null ],
+    [ "offMeshConnectionDirs", "d3/d34/a29996.html#a58350c36d5b88fe255880f6c217d4ef9", null ],
+    [ "offMeshConnectionRads", "d3/d34/a29996.html#a56bbdeb5028302de0c5eb5a02cffa44c", null ],
+    [ "offMeshConnections", "d3/d34/a29996.html#a706feac90bb398da61296bac9d0b7176", null ],
+    [ "offMeshConnectionsAreas", "d3/d34/a29996.html#af5af113433bb2776e6735195e57ab6f7", null ],
+    [ "offMeshConnectionsFlags", "d3/d34/a29996.html#a8c819b625f1bb0b21bb756144b2e1266", null ],
+    [ "solidTris", "d3/d34/a29996.html#adb04d376bfa182cf9666689e6c5a7c68", null ],
+    [ "solidVerts", "d3/d34/a29996.html#a915387c2cfa7111de4a957646a2aace4", null ]
 ];

@@ -1,7 +1,5 @@
 var a21488 =
 [
-    [ "HandleScriptEffect", "db/d54/a21488.html#a23d220613a4133e01fb3d7cbacb3aa1c", null ],
-    [ "PrepareSpellScript", "db/d54/a21488.html#a73b5af95ee4f593337c3803574d190db", null ],
-    [ "Register", "db/d54/a21488.html#a930de2343532feb50b86304f32269e4c", null ],
-    [ "Validate", "db/d54/a21488.html#ae9bfedf7e89487217ad927459e259c04", null ]
+    [ "npc_khunok_the_behemothAI", "db/d54/a21488.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
+    [ "MoveInLineOfSight", "db/d54/a21488.html#a5d54954a159da764aa7b83579e03688c", null ]
 ];

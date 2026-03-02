@@ -1,6 +1,6 @@
 var a21744 =
 [
-    [ "GhoulTargetCheck", "dd/d2d/a21744.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
-    [ "operator()", "dd/d2d/a21744.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
-    [ "_alive", "dd/d2d/a21744.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
+    [ "npc_q24545_lich_kingAI", "d0/d0b/a21748.html", "d0/d0b/a21748" ],
+    [ "npc_q24545_lich_king", "dd/d2d/a21744.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
+    [ "GetAI", "dd/d2d/a21744.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
 ];

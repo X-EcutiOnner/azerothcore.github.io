@@ -1,6 +1,6 @@
 var a21160 =
 [
-    [ "instance_utgarde_pinnacle_InstanceMapScript", "d5/d66/a21164.html", "d5/d66/a21164" ],
-    [ "instance_utgarde_pinnacle", "d0/df9/a21160.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
-    [ "GetInstanceScript", "d0/df9/a21160.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
+    [ "npc_ritual_channelerAI", "d5/d66/a21164.html", "d5/d66/a21164" ],
+    [ "npc_ritual_channeler", "d0/df9/a21160.html#adab372002549b009e3f937ec67e49f3f", null ],
+    [ "GetAI", "d0/df9/a21160.html#aa416545438d701cbfc2567ba5ae536c8", null ]
 ];

@@ -1,6 +1,8 @@
 var a09000 =
 [
-    [ "Reset", "dd/dc5/a09000.html#acccf504073283011dc32b05a5a87b85a", null ],
-    [ "Guid", "dd/dc5/a09000.html#a738a014abc8cb5df525642acc218576b", null ],
-    [ "IsUnselectable", "dd/dc5/a09000.html#a037411c58c414d0c5a39915b7acd578d", null ]
+    [ "RedirectSpellEvent", "dd/dc5/a09000.html#a77d243d64c2fc651d71c42e10a315161", null ],
+    [ "Execute", "dd/dc5/a09000.html#a34ae2bc23904558bd5f5b99e8f1c5fdc", null ],
+    [ "_auraEffect", "dd/dc5/a09000.html#a010f14a7d389b4e9ae9896061fa18a65", null ],
+    [ "_auraOwnerGUID", "dd/dc5/a09000.html#a1b3fb598748362379fef15b3172d8e2b", null ],
+    [ "_self", "dd/dc5/a09000.html#aecfa190843c1493b47652ccdac7ae9c3", null ]
 ];

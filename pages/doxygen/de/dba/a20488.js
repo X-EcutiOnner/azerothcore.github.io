@@ -1,9 +1,5 @@
 var a20488 =
 [
-    [ "HandleEffectPeriodic", "de/dba/a20488.html#adc6e83abb52a21528c07a1d989818dcf", null ],
-    [ "OnApply", "de/dba/a20488.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
-    [ "OnRemove", "de/dba/a20488.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
-    [ "PrepareAuraScript", "de/dba/a20488.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
-    [ "Register", "de/dba/a20488.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
-    [ "Validate", "de/dba/a20488.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
+    [ "achievement_staying_buffed_all_winter_10", "de/dba/a20488.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
+    [ "OnCheck", "de/dba/a20488.html#a67587b1659a8d026e73b42311148541a", null ]
 ];

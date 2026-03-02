@@ -1,16 +1,12 @@
 var a00863 =
 [
-    [ "GameObjectTemplate", "df/d65/a08388.html", "df/d65/a08388" ],
-    [ "GameObjectTemplateAddon", "da/d89/a08512.html", "da/d89/a08512" ],
-    [ "GameObjectLocale", "db/d22/a08516.html", "db/d22/a08516" ],
-    [ "QuaternionData", "df/d79/a08520.html", "df/d79/a08520" ],
-    [ "GameObjectAddon", "d1/d28/a08524.html", "d1/d28/a08524" ],
-    [ "GameObjectData", "d6/d65/a08528.html", "d6/d65/a08528" ],
-    [ "MAX_GAMEOBJECT_QUEST_ITEMS", "d7/d49/a00863.html#a7698721f2eb4f87abac1a64a64ecf676", null ],
-    [ "MAX_GO_STATE", "d7/d49/a00863.html#ac148792c2982ecdddc593bf3871aa520", null ],
-    [ "GOState", "d7/d49/a00863.html#ac17cd142af80da019367bb796b15e5ab", [
-      [ "GO_STATE_ACTIVE", "d7/d49/a00863.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e", null ],
-      [ "GO_STATE_READY", "d7/d49/a00863.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650", null ],
-      [ "GO_STATE_ACTIVE_ALTERNATIVE", "d7/d49/a00863.html#ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e", null ]
+    [ "ArenaTeamScript", "d5/d30/a10504.html", "d5/d30/a10504" ],
+    [ "ArenaTeamHook", "d7/d49/a00863.html#adfb7077026efd17516d6b85637c2b218", [
+      [ "ARENATEAMHOOK_ON_GET_SLOT_BY_TYPE", "d7/d49/a00863.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc", null ],
+      [ "ARENATEAMHOOK_ON_GET_ARENA_POINTS", "d7/d49/a00863.html#adfb7077026efd17516d6b85637c2b218a3b21f54389f578130e4874fd75c7e6a9", null ],
+      [ "ARENATEAMHOOK_ON_TYPEID_TO_QUEUEID", "d7/d49/a00863.html#adfb7077026efd17516d6b85637c2b218ae5c1d8d5548693d43fdd43339ef152a7", null ],
+      [ "ARENATEAMHOOK_ON_QUEUEID_TO_ARENA_TYPE", "d7/d49/a00863.html#adfb7077026efd17516d6b85637c2b218a957830b5a4fb9d7a53b977999068031b", null ],
+      [ "ARENATEAMHOOK_ON_SET_ARENA_MAX_PLAYERS_PER_TEAM", "d7/d49/a00863.html#adfb7077026efd17516d6b85637c2b218aaf39f25b1610466743d5d839986bf6b6", null ],
+      [ "ARENATEAMHOOK_END", "d7/d49/a00863.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7", null ]
     ] ]
 ];

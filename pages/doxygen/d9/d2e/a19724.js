@@ -1,5 +1,6 @@
 var a19724 =
 [
-    [ "achievement_intense_cold", "d9/d2e/a19724.html#a2377357d6bfc03e5b91354428d3da3de", null ],
-    [ "OnCheck", "d9/d2e/a19724.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
+    [ "HandleScript", "d9/d2e/a19724.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c", null ],
+    [ "PrepareSpellScript", "d9/d2e/a19724.html#ad1eae4d206e9e9e48230f60a2961fddb", null ],
+    [ "Register", "d9/d2e/a19724.html#ae6685e7fd80373f2fc9a37cd4065f8b6", null ]
 ];

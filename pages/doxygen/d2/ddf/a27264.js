@@ -1,8 +1,9 @@
 var a27264 =
 [
-    [ "HandleRootRemove", "d2/ddf/a27264.html#a9678ce2254825b67eb7a16312e960ba9", null ],
-    [ "HandleSnareRemove", "d2/ddf/a27264.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
-    [ "PrepareSpellScript", "d2/ddf/a27264.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
-    [ "Register", "d2/ddf/a27264.html#a119675dccea898932ca090577022b6ba", null ],
-    [ "Validate", "d2/ddf/a27264.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
+    [ "Absorb", "d2/ddf/a27264.html#a22b175a7a07f950b5be1aad60e096e4f", null ],
+    [ "CalculateAmount", "d2/ddf/a27264.html#a9aa29ca1e77a2ef060d94d4d07a7c0e6", null ],
+    [ "Load", "d2/ddf/a27264.html#acf7851d34fa2368c9e711e8b3943c09b", null ],
+    [ "PrepareAuraScript", "d2/ddf/a27264.html#ac273b669dc396561d9ec8b523659363f", null ],
+    [ "Register", "d2/ddf/a27264.html#a656f4770b0f7099f5926a8063f7d740c", null ],
+    [ "absorbPct", "d2/ddf/a27264.html#a31d7ca52ace4e22652403292969baf55", null ]
 ];

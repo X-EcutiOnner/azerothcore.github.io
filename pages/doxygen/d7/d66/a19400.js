@@ -1,6 +1,7 @@
 var a19400 =
 [
-    [ "boss_four_horsemenAI", "da/d89/a19404.html", "da/d89/a19404" ],
-    [ "boss_four_horsemen", "d7/d66/a19400.html#a6bcaf9a12d854a322f50ac2f98dbb72b", null ],
-    [ "GetAI", "d7/d66/a19400.html#a3ee27da1d0da48306cc10c17c9411d1a", null ]
+    [ "HandleGameObjectDamage", "d7/d66/a19400.html#a811edfe01c1784664b5b4253d2305b4e", null ],
+    [ "PrepareSpellScript", "d7/d66/a19400.html#a0cfedeba2a747777de292b8f30b6752b", null ],
+    [ "Register", "d7/d66/a19400.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
+    [ "Validate", "d7/d66/a19400.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
 ];

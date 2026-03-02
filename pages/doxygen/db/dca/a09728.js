@@ -1,8 +1,6 @@
 var a09728 =
 [
-    [ "flags", "db/dca/a09728.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
-    [ "group", "db/dca/a09728.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
-    [ "guid", "db/dca/a09728.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
-    [ "name", "db/dca/a09728.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
-    [ "roles", "db/dca/a09728.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
+    [ "RandomCheck", "db/dca/a09728.html#aca7a234c6eef8876abb02af723e9485d", null ],
+    [ "operator()", "db/dca/a09728.html#a9886987fa2b675ab404102ebe828c9f3", null ],
+    [ "_chance", "db/dca/a09728.html#aad026a0ad4539dd5336c3a6b820e351d", null ]
 ];

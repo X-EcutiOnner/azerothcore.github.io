@@ -1,9 +1,12 @@
 var a29636 =
 [
-    [ "defaultHitMask", "d8/d36/a29636.html#a1b72ebb54d9b7e2543dd41779978fa70", null ],
-    [ "defaultSpellPhaseMask", "d8/d36/a29636.html#af927bd441959e8e122648de610398c65", null ],
-    [ "defaultSpellTypeMask", "d8/d36/a29636.html#aa64e6ad192c41998b368b908c499574d", null ],
-    [ "name", "d8/d36/a29636.html#a78f8589133427f536f15ea05672ad42f", null ],
-    [ "procFlag", "d8/d36/a29636.html#ab9d59a0be623f0d7e732ed2974178d88", null ],
-    [ "requiresSpellPhase", "d8/d36/a29636.html#a37a3ef1c3b19cf7a7ff70a0ca09bfcd9", null ]
+    [ "TestVisibilityScript", "d8/d36/a29636.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
+    [ "EnsureRegistered", "d8/d36/a29636.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
+    [ "OnPlayerSetServerSideVisibility", "d8/d36/a29636.html#a6b3701188303b644b28a52ec42bec846", null ],
+    [ "Reset", "d8/d36/a29636.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
+    [ "CallCount", "d8/d36/a29636.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
+    [ "Instance", "d8/d36/a29636.html#adcf0326aa1e32db109ec920857868138", null ],
+    [ "LastPlayer", "d8/d36/a29636.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
+    [ "LastSecurity", "d8/d36/a29636.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
+    [ "LastType", "d8/d36/a29636.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
 ];

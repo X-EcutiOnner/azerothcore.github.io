@@ -1,10 +1,9 @@
 var a26736 =
 [
-    [ "HandleApplyDoT", "dd/d5f/a26736.html#a4f832f97ae2f777c659876e20b7515a5", null ],
-    [ "HandleSeal", "dd/d5f/a26736.html#aca82977aa1ee943bc557a76d09dba147", null ],
-    [ "Load", "dd/d5f/a26736.html#a16545533c0a45b6bde0da3fbeaed75ae", null ],
-    [ "PrepareAuraScript", "dd/d5f/a26736.html#a9d33b5c75d975f6e7f0accdf7eb10155", null ],
-    [ "Register", "dd/d5f/a26736.html#a3030a2b5bb530abe673ab2cfae8351ce", null ],
-    [ "Validate", "dd/d5f/a26736.html#ade8e79f41a0ec1904f33b2628eac966e", null ],
-    [ "_isVengeance", "dd/d5f/a26736.html#a194bdf6e15ecf61533d40c0990e392a4", null ]
+    [ "CheckProc", "dd/d5f/a26736.html#a1ea48d77c2bb5b26c12384e4e11411ff", null ],
+    [ "HandleProc", "dd/d5f/a26736.html#afe1282b6df7593066469f3ddf7ff8a33", null ],
+    [ "PrepareAuraScript", "dd/d5f/a26736.html#a9585ecde57ccfa26f59174732e3132fc", null ],
+    [ "Register", "dd/d5f/a26736.html#aff856108cd0b92c3a4eaeb4c354ee56f", null ],
+    [ "Validate", "dd/d5f/a26736.html#a65e88419d625dc6e8033b573ce7f18ee", null ],
+    [ "_triggeredSpellId", "dd/d5f/a26736.html#a560ade778e046213f60f48364ea3800c", null ]
 ];

@@ -1,9 +1,11 @@
 var a20884 =
 [
-    [ "HandleOnEffectApply", "db/d56/a20884.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
-    [ "OnPeriodic", "db/d56/a20884.html#a49ad44eba19416743bd26252d1b40d71", null ],
-    [ "PrepareAuraScript", "db/d56/a20884.html#ae0c475babb67cebb245d6d85b50cd694", null ],
-    [ "Register", "db/d56/a20884.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
-    [ "Validate", "db/d56/a20884.html#ab383a0a207aa78b7efcd400765ad0838", null ],
-    [ "_targetGUID", "db/d56/a20884.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
+    [ "boss_yoggsaron_lich_king", "db/d56/a20884.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
+    [ "NextStep", "db/d56/a20884.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
+    [ "Reset", "db/d56/a20884.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
+    [ "Say", "db/d56/a20884.html#ac7687fe1253701c702cf2c17986727ec", null ],
+    [ "UpdateAI", "db/d56/a20884.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
+    [ "_checkTimer", "db/d56/a20884.html#a196ffc443569494bed79f623dd9cdca3", null ],
+    [ "_running", "db/d56/a20884.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
+    [ "_step", "db/d56/a20884.html#a97244534b8c6a69807388b620df2263f", null ]
 ];

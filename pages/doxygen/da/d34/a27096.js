@@ -1,6 +1,7 @@
 var a27096 =
 [
-    [ "OnApply", "da/d34/a27096.html#a50ced6d5a475ccad9429dfbb05130394", null ],
-    [ "PrepareAuraScript", "da/d34/a27096.html#abd02e129b1201449d473a66aea77d569", null ],
-    [ "Register", "da/d34/a27096.html#a8c09775f642335252c6e548900dc9d3a", null ]
+    [ "HandleScript", "da/d34/a27096.html#a1b20a7fb4487876f305aa3a8d493ed17", null ],
+    [ "PrepareSpellScript", "da/d34/a27096.html#a5ac848029ef03f6779cf094f4b80dd24", null ],
+    [ "Register", "da/d34/a27096.html#a3d378e0eac09b00792b293b2cd7f3192", null ],
+    [ "Validate", "da/d34/a27096.html#a36963610ad939ec36848ff70185f47a2", null ]
 ];

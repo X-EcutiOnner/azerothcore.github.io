@@ -1,7 +1,7 @@
 var a19408 =
 [
-    [ "OnApply", "dc/dbe/a19408.html#a72a01dea703436b2a220a9976da60fa6", null ],
-    [ "PrepareAuraScript", "dc/dbe/a19408.html#adb17425258d4fb2c0c464236e15f32d7", null ],
-    [ "Register", "dc/dbe/a19408.html#af026c126029c68ed8b7c6c1886720e4c", null ],
-    [ "Validate", "dc/dbe/a19408.html#a5674396828adf4e80102ed2277f1e08a", null ]
+    [ "HandleTriggerSpell", "dc/dbe/a19408.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
+    [ "PrepareAuraScript", "dc/dbe/a19408.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
+    [ "Register", "dc/dbe/a19408.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
+    [ "Validate", "dc/dbe/a19408.html#a813bad39641956fff697580f271416d2", null ]
 ];

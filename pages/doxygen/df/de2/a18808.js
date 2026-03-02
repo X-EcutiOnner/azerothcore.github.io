@@ -1,6 +1,7 @@
 var a18808 =
 [
-    [ "npc_spirit_wardenAI", "de/d0b/a18812.html", "de/d0b/a18812" ],
-    [ "npc_spirit_warden", "df/de2/a18808.html#ab585d20eadb7876752d731702db44293", null ],
-    [ "GetAI", "df/de2/a18808.html#ab33ab494d7fee64eed7c75464ce60489", null ]
+    [ "CheckTargetCount", "df/de2/a18808.html#a44f558248f944464c773105728cffbca", null ],
+    [ "PrepareSpellScript", "df/de2/a18808.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
+    [ "Register", "df/de2/a18808.html#aeda833ca8483d337311086b9d0a14081", null ],
+    [ "Validate", "df/de2/a18808.html#aee84751e352dbfc12472fc15924c48fa", null ]
 ];

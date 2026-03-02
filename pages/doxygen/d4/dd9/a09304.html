@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: GridObjectCleaner Class Reference</title>
+<title>AzerothCore: CellArea Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,54 +106,36 @@ $(document).ready(function(){initNavTree('d4/dd9/a09304.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../dc/d7d/a09301.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">GridObjectCleaner Class Reference</div></div>
+  <div class="headertitle"><div class="title">CellArea Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">GridObjectLoader.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Cell.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aa0f56809b23b117bde869576ddaa9dbd"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
-<tr class="memitem:aa0f56809b23b117bde869576ddaa9dbd"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d4/dd9/a09304.html#aa0f56809b23b117bde869576ddaa9dbd">Visit</a> (<a class="el" href="../../dd/dc7/a09312.html">GridRefMgr</a>&lt; T &gt; &amp;)</td></tr>
-<tr class="separator:aa0f56809b23b117bde869576ddaa9dbd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afab06305b5b3568b93d07f80efd616ae"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd9/a09304.html#afab06305b5b3568b93d07f80efd616ae">Visit</a> (<a class="el" href="../../d9/d1b/a01583.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;)</td></tr>
-<tr class="separator:afab06305b5b3568b93d07f80efd616ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace8ca84753b4ec8681415386fb135053"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd9/a09304.html#ace8ca84753b4ec8681415386fb135053">CellArea</a> ()=default</td></tr>
+<tr class="separator:ace8ca84753b4ec8681415386fb135053"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a547aa2c544abb8de2c6defdd6ec77fa3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd9/a09304.html#a547aa2c544abb8de2c6defdd6ec77fa3">CellArea</a> (<a class="el" href="../../d2/dc1/a01562.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> low, <a class="el" href="../../d2/dc1/a01562.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> high)</td></tr>
+<tr class="separator:a547aa2c544abb8de2c6defdd6ec77fa3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a386d4a562c27155012daedc361541e3b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd9/a09304.html#a386d4a562c27155012daedc361541e3b">operator!</a> () const</td></tr>
+<tr class="separator:a386d4a562c27155012daedc361541e3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aebb8a0eb3210fa09d647d89ce8a0c7b8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd9/a09304.html#aebb8a0eb3210fa09d647d89ce8a0c7b8">ResizeBorders</a> (<a class="el" href="../../d2/dc1/a01562.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;begin_cell, <a class="el" href="../../d2/dc1/a01562.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;end_cell) const</td></tr>
+<tr class="separator:aebb8a0eb3210fa09d647d89ce8a0c7b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a374fe9802c798e6ece359a8025b6e1df"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dc1/a01562.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd9/a09304.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a></td></tr>
+<tr class="separator:a374fe9802c798e6ece359a8025b6e1df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0c90f0474902deaafc4a64faaf6e8071"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dc1/a01562.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd9/a09304.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a></td></tr>
+<tr class="separator:a0c90f0474902deaafc4a64faaf6e8071"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="aa0f56809b23b117bde869576ddaa9dbd" name="aa0f56809b23b117bde869576ddaa9dbd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa0f56809b23b117bde869576ddaa9dbd">&#9670;&#160;</a></span>Visit() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class T &gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void GridObjectCleaner::Visit </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/dc7/a09312.html">GridRefMgr</a>&lt; T &gt; &amp;&#160;</td>
-          <td class="paramname"><em>m</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  134</span>{</div>
-<div class="line"><span class="lineno">  135</span>    <span class="keywordflow">for</span> (<span class="keyword">typename</span> <a class="code hl_class" href="../../d3/d7f/a05416.html">GridRefMgr&lt;T&gt;::iterator</a> iter = m.<a class="code hl_function" href="../../dd/dc7/a09312.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); iter != m.<a class="code hl_function" href="../../dd/dc7/a09312.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++iter)</div>
-<div class="line"><span class="lineno">  136</span>        iter-&gt;GetSource()-&gt;CleanupsBeforeDelete();</div>
-<div class="line"><span class="lineno">  137</span>}</div>
-<div class="ttc" id="aa05416_html"><div class="ttname"><a href="../../d3/d7f/a05416.html">LinkedListHead::Iterator</a></div><div class="ttdef"><b>Definition:</b> LinkedList.h:139</div></div>
-<div class="ttc" id="aa09312_html_a1e4e67ba11ac8da077942a6581647bf3"><div class="ttname"><a href="../../dd/dc7/a09312.html#a1e4e67ba11ac8da077942a6581647bf3">GridRefMgr::begin</a></div><div class="ttdeci">iterator begin()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:35</div></div>
-<div class="ttc" id="aa09312_html_a266acb421cfc6ccc56dc2acff3202971"><div class="ttname"><a href="../../dd/dc7/a09312.html#a266acb421cfc6ccc56dc2acff3202971">GridRefMgr::end</a></div><div class="ttdeci">iterator end()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:36</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, and <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>.</p>
-
-</div>
-</div>
-<a id="afab06305b5b3568b93d07f80efd616ae" name="afab06305b5b3568b93d07f80efd616ae"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afab06305b5b3568b93d07f80efd616ae">&#9670;&#160;</a></span>Visit() <span class="overload">[2/2]</span></h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="ace8ca84753b4ec8681415386fb135053" name="ace8ca84753b4ec8681415386fb135053"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ace8ca84753b4ec8681415386fb135053">&#9670;&#160;</a></span>CellArea() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -162,11 +144,46 @@ template&lt;class T &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void GridObjectCleaner::Visit </td>
+          <td class="memname">CellArea::CellArea </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d1b/a01583.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;&#160;</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a547aa2c544abb8de2c6defdd6ec77fa3" name="a547aa2c544abb8de2c6defdd6ec77fa3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a547aa2c544abb8de2c6defdd6ec77fa3">&#9670;&#160;</a></span>CellArea() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">CellArea::CellArea </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dc1/a01562.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a>&#160;</td>
+          <td class="paramname"><em>low</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/dc1/a01562.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a>&#160;</td>
+          <td class="paramname"><em>high</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -175,8 +192,114 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   50</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   30</span>: <a class="code hl_variable" href="../../d4/dd9/a09304.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a>(low), <a class="code hl_variable" href="../../d4/dd9/a09304.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a>(high) {}</div>
+<div class="ttc" id="aa09304_html_a0c90f0474902deaafc4a64faaf6e8071"><div class="ttname"><a href="../../d4/dd9/a09304.html#a0c90f0474902deaafc4a64faaf6e8071">CellArea::high_bound</a></div><div class="ttdeci">CellCoord high_bound</div><div class="ttdef"><b>Definition:</b> Cell.h:41</div></div>
+<div class="ttc" id="aa09304_html_a374fe9802c798e6ece359a8025b6e1df"><div class="ttname"><a href="../../d4/dd9/a09304.html#a374fe9802c798e6ece359a8025b6e1df">CellArea::low_bound</a></div><div class="ttdeci">CellCoord low_bound</div><div class="ttdef"><b>Definition:</b> Cell.h:40</div></div>
 </div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a386d4a562c27155012daedc361541e3b" name="a386d4a562c27155012daedc361541e3b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a386d4a562c27155012daedc361541e3b">&#9670;&#160;</a></span>operator!()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool CellArea::operator! </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   32</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d4/dd9/a09304.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a> == <a class="code hl_variable" href="../../d4/dd9/a09304.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00041">high_bound</a>, and <a class="el" href="../../#l00040">low_bound</a>.</p>
+
+</div>
+</div>
+<a id="aebb8a0eb3210fa09d647d89ce8a0c7b8" name="aebb8a0eb3210fa09d647d89ce8a0c7b8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aebb8a0eb3210fa09d647d89ce8a0c7b8">&#9670;&#160;</a></span>ResizeBorders()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void CellArea::ResizeBorders </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dc1/a01562.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;&#160;</td>
+          <td class="paramname"><em>begin_cell</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/dc1/a01562.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> &amp;&#160;</td>
+          <td class="paramname"><em>end_cell</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   35</span>    {</div>
+<div class="line"><span class="lineno">   36</span>        begin_cell = <a class="code hl_variable" href="../../d4/dd9/a09304.html#a374fe9802c798e6ece359a8025b6e1df">low_bound</a>;</div>
+<div class="line"><span class="lineno">   37</span>        end_cell = <a class="code hl_variable" href="../../d4/dd9/a09304.html#a0c90f0474902deaafc4a64faaf6e8071">high_bound</a>;</div>
+<div class="line"><span class="lineno">   38</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00041">high_bound</a>, and <a class="el" href="../../#l00040">low_bound</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a0c90f0474902deaafc4a64faaf6e8071" name="a0c90f0474902deaafc4a64faaf6e8071"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0c90f0474902deaafc4a64faaf6e8071">&#9670;&#160;</a></span>high_bound</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dc1/a01562.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> CellArea::high_bound</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00226">Map::LoadGridsInRange()</a>, <a class="el" href="../../#l00396">Map::MarkNearbyCellsOf()</a>, <a class="el" href="../../#l00032">operator!()</a>, <a class="el" href="../../#l00034">ResizeBorders()</a>, and <a class="el" href="../../#l00065">Cell::Visit()</a>.</p>
+
+</div>
+</div>
+<a id="a374fe9802c798e6ece359a8025b6e1df" name="a374fe9802c798e6ece359a8025b6e1df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a374fe9802c798e6ece359a8025b6e1df">&#9670;&#160;</a></span>low_bound</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dc1/a01562.html#aa7325a29c918309cfd39e8637782f4c5">CellCoord</a> CellArea::low_bound</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00226">Map::LoadGridsInRange()</a>, <a class="el" href="../../#l00396">Map::MarkNearbyCellsOf()</a>, <a class="el" href="../../#l00032">operator!()</a>, <a class="el" href="../../#l00034">ResizeBorders()</a>, and <a class="el" href="../../#l00065">Cell::Visit()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -184,8 +307,8 @@ template&lt;class T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d4/dd9/a09304.html">GridObjectCleaner</a></li>
-    <li class="footer">Generated on Mon Feb 23 2026 21:15:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/dd9/a09304.html">CellArea</a></li>
+    <li class="footer">Generated on Mon Mar 2 2026 21:05:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

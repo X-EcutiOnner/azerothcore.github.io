@@ -1,12 +1,6 @@
 var a29580 =
 [
-    [ "TestVisibilityScript", "d4/df9/a29580.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
-    [ "EnsureRegistered", "d4/df9/a29580.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
-    [ "OnPlayerSetServerSideVisibility", "d4/df9/a29580.html#a6b3701188303b644b28a52ec42bec846", null ],
-    [ "Reset", "d4/df9/a29580.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
-    [ "CallCount", "d4/df9/a29580.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
-    [ "Instance", "d4/df9/a29580.html#adcf0326aa1e32db109ec920857868138", null ],
-    [ "LastPlayer", "d4/df9/a29580.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
-    [ "LastSecurity", "d4/df9/a29580.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
-    [ "LastType", "d4/df9/a29580.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
+    [ "canProcDuringTrigger", "d4/df9/a29580.html#a10e8ad619c9766fdf49cd29662c3d9e0", null ],
+    [ "procDeepDuringTrigger", "d4/df9/a29580.html#a5df33ebca29ea3ce1088307c138a28e4", null ],
+    [ "spellId", "d4/df9/a29580.html#ac63803a380695f311a39cd62a4f298b4", null ]
 ];

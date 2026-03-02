@@ -1,10 +1,12 @@
 var a29964 =
 [
-    [ "WDTFile", "d7/d5b/a29964.html#a10c133d9b2f8d39cb6c2b3d8c2791b78", null ],
-    [ "~WDTFile", "d7/d5b/a29964.html#a445fe73204fd378e2b63a83d9f5dca0a", null ],
-    [ "GetMap", "d7/d5b/a29964.html#aa952c5bfe52a1aa851984a7e6dc963c9", null ],
-    [ "init", "d7/d5b/a29964.html#a91a33f89cae35254f52e8c4f1c33e2cb", null ],
-    [ "_file", "d7/d5b/a29964.html#a54ab64288144b9cf4904e67bb359e524", null ],
-    [ "_wmoNames", "d7/d5b/a29964.html#a6ec4f95ff866585403670b620a42a857", null ],
-    [ "filename", "d7/d5b/a29964.html#ab3dac8623598bac1152a514a00126bf6", null ]
+    [ "cellSizeHorizontal", "d7/d5b/a29964.html#a5356c03dab90621b69de7a79ed4ab195", null ],
+    [ "cellSizeVertical", "d7/d5b/a29964.html#a47b5a920afa39ae27a80241d58f152a3", null ],
+    [ "tileOverrides", "d7/d5b/a29964.html#a129437291e75a919e4158bf1df0f7f0a", null ],
+    [ "vertexPerMapEdge", "d7/d5b/a29964.html#a9d32da8787f54a7dadb86458319e0238", null ],
+    [ "vertexPerTileEdge", "d7/d5b/a29964.html#a8dd6b0146358fcbbb6b7c56a96c467c9", null ],
+    [ "walkableClimb", "d7/d5b/a29964.html#a2bd854b374d67d53b03a7bacf0785726", null ],
+    [ "walkableHeight", "d7/d5b/a29964.html#a1de27edad5c45f8033ce74352c563f52", null ],
+    [ "walkableRadius", "d7/d5b/a29964.html#a232dd51ab056c5e836fe1bb84eeee90e", null ],
+    [ "walkableSlopeAngle", "d7/d5b/a29964.html#ad66e0a04ba9087304cf3909bb85b622a", null ]
 ];

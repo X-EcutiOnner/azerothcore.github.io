@@ -1,6 +1,5 @@
 var a17696 =
 [
-    [ "boss_prince_valanarAI", "d2/d3f/a17700.html", "d2/d3f/a17700" ],
-    [ "boss_prince_valanar_icc", "d2/d27/a17696.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
-    [ "GetAI", "d2/d27/a17696.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
+    [ "achievement_snakes_whyd_it_have_to_be_snakes", "d2/d27/a17696.html#a4245e53260b83f77f9b4313e13f1f7d3", null ],
+    [ "OnCheck", "d2/d27/a17696.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0", null ]
 ];

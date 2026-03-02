@@ -1,6 +1,6 @@
 var a12496 =
 [
-    [ "boss_lord_valthalakAI", "d6/d49/a12500.html", "d6/d49/a12500" ],
-    [ "boss_lord_valthalak", "db/deb/a12496.html#a180ecb2e2b11ee79c80de18124de3dbc", null ],
-    [ "GetAI", "db/deb/a12496.html#a771bd8ff3918d71007b5e4b05baf3df3", null ]
+    [ "boss_drakkisathAI", "d6/d49/a12500.html", "d6/d49/a12500" ],
+    [ "boss_drakkisath", "db/deb/a12496.html#a73f21cbd7b81fc045ae129d7d650b455", null ],
+    [ "GetAI", "db/deb/a12496.html#ad27999ba129b2e3617c1aba1c4b9772b", null ]
 ];

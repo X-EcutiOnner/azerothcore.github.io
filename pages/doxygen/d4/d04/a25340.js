@@ -1,7 +1,5 @@
 var a25340 =
 [
-    [ "OnApply", "d4/d04/a25340.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
-    [ "OnRemove", "d4/d04/a25340.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
-    [ "PrepareAuraScript", "d4/d04/a25340.html#a9a7b549e059b6bd2d22802f60e952658", null ],
-    [ "Register", "d4/d04/a25340.html#aae603735281daf02ceca157e218d5c9f", null ]
+    [ "PrepareSpellScript", "d4/d04/a25340.html#ae49ad5a4ad43099c4510e1666ff6415b", null ],
+    [ "Register", "d4/d04/a25340.html#ad31fa6c2099d984389c3fb12e53a5bd8", null ]
 ];

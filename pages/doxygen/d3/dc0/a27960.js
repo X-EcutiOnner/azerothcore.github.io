@@ -1,5 +1,5 @@
 var a27960 =
 [
-    [ "AreaTrigger_at_stormwright_shelf", "d3/dc0/a27960.html#a97cdf51a8992b3d9edc138351770fd75", null ],
-    [ "OnTrigger", "d3/dc0/a27960.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
+    [ "achievement_not_even_a_scratch", "d3/dc0/a27960.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "d3/dc0/a27960.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

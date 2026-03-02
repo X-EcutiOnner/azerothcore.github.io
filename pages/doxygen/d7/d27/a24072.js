@@ -1,6 +1,6 @@
 var a24072 =
 [
-    [ "npc_infernal_attackerAI", "d7/dd9/a24076.html", "d7/dd9/a24076" ],
-    [ "npc_infernal_attacker", "d7/d27/a24072.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
-    [ "GetAI", "d7/d27/a24072.html#ad1d9186c186de36efbe102a07fe89de4", null ]
+    [ "CheckCast", "d7/d27/a24072.html#ae13cc2d3da1c9911c88402d05679d447", null ],
+    [ "PrepareSpellScript", "d7/d27/a24072.html#afbed81273aa23d355c64579c71e9761d", null ],
+    [ "Register", "d7/d27/a24072.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
 ];

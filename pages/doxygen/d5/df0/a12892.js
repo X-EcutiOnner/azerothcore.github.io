@@ -1,8 +1,10 @@
 var a12892 =
 [
-    [ "boss_majordomoAI", "d1/ddb/a12896.html", "d1/ddb/a12896" ],
-    [ "boss_majordomo", "d5/df0/a12892.html#a77a1ff3d2c7aafecad9f78fcd87536b1", null ],
-    [ "GetAI", "d5/df0/a12892.html#aceae0dc662e93bf68556073e8b324964", null ],
-    [ "OnGossipHello", "d5/df0/a12892.html#a8d1b625df61b27fef0bfe6f635a3b7ae", null ],
-    [ "OnGossipSelect", "d5/df0/a12892.html#a69c2c5fc557b02c9a0b26bdb7b57443c", null ]
+    [ "boss_golemaggAI", "d5/df0/a12892.html#a79e2416a55a1531316d891ebff4e5575", null ],
+    [ "DamageTaken", "d5/df0/a12892.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
+    [ "Reset", "d5/df0/a12892.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
+    [ "UpdateAI", "d5/df0/a12892.html#af7b322731241dbb08041a92cd355f273", null ],
+    [ "earthquakeTimer", "d5/df0/a12892.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
+    [ "enraged", "d5/df0/a12892.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
+    [ "pyroblastTimer", "d5/df0/a12892.html#a142ededff85d517c08744bdafd644c34", null ]
 ];

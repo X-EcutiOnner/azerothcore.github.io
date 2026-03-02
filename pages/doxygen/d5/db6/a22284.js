@@ -1,8 +1,7 @@
 var a22284 =
 [
-    [ "npc_wg_queueAI", "d5/dab/a22288.html", "d5/dab/a22288" ],
-    [ "npc_wg_queue", "d5/db6/a22284.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
-    [ "GetAI", "d5/db6/a22284.html#ad2d7746a32b520d37ea826b03627de4e", null ],
-    [ "OnGossipHello", "d5/db6/a22284.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
-    [ "OnGossipSelect", "d5/db6/a22284.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
+    [ "OnApply", "d5/db6/a22284.html#ad026db5f19c376d9a87f7a1554502809", null ],
+    [ "OnRemove", "d5/db6/a22284.html#a0264c6f6f41da3644a803265399f1d82", null ],
+    [ "PrepareAuraScript", "d5/db6/a22284.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
+    [ "Register", "d5/db6/a22284.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
 ];

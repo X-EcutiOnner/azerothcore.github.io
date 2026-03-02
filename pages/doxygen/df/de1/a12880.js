@@ -1,6 +1,6 @@
 var a12880 =
 [
-    [ "boss_magmadarAI", "df/de1/a12880.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
-    [ "ExecuteEvent", "df/de1/a12880.html#a7d4c1807cb320fdc331057209a4ce166", null ],
-    [ "JustEngagedWith", "df/de1/a12880.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
+    [ "boss_gehennasAI", "dd/d16/a12884.html", "dd/d16/a12884" ],
+    [ "boss_gehennas", "df/de1/a12880.html#a380a24cbaad4e247c6c76fd63ac34f59", null ],
+    [ "GetAI", "df/de1/a12880.html#a92f9ff0e957da5331b4a3ecc48be0ffa", null ]
 ];

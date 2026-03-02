@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Movement/Spline/SplineImpl.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellProcTriggeredFilterTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,25 +105,1196 @@ $(document).ready(function(){initNavTree('d9/d87/a00551.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#namespaces">Namespaces</a>  </div>
-  <div class="headertitle"><div class="title">SplineImpl.h File Reference</div></div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">SpellProcTriggeredFilterTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
+<p><a class="el" href="../../d7/d19/a08988.html">Unit</a> tests for triggered spell filtering in proc system.  
+<a href="#details">More...</a></p>
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ProcEventInfoHelper.h</a>&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
+</div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:db/d40/a04987"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d40/a04987.html">Movement</a></td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:ae3f35401325352f5507f9482d2a9d866"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#ae3f35401325352f5507f9482d2a9d866">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, SelfLoop_BlocksWhenTriggeredBySameAura)</td></tr>
+<tr class="separator:ae3f35401325352f5507f9482d2a9d866"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad9c4ba9837ada50e0817813952f6cccd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#ad9c4ba9837ada50e0817813952f6cccd">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, SelfLoop_AllowsWhenTriggeredByDifferentAura)</td></tr>
+<tr class="separator:ad9c4ba9837ada50e0817813952f6cccd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6123a28d0064330a278117f5a3bbb6d5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#a6123a28d0064330a278117f5a3bbb6d5">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, SelfLoop_AllowsWhenNotTriggered)</td></tr>
+<tr class="separator:a6123a28d0064330a278117f5a3bbb6d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7d34a9b30d85783f9e978586a1d38ec2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#a7d34a9b30d85783f9e978586a1d38ec2">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, TriggeredSpell_BlockedByDefault)</td></tr>
+<tr class="separator:a7d34a9b30d85783f9e978586a1d38ec2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a31da43f3490ae60e72a5c2947656141a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#a31da43f3490ae60e72a5c2947656141a">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, NonTriggeredSpell_AllowedByDefault)</td></tr>
+<tr class="separator:a31da43f3490ae60e72a5c2947656141a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aef319b73a8ccdaaaa0e815f71d515737"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#aef319b73a8ccdaaaa0e815f71d515737">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, CanProcFromProcs_AllowsTriggeredSpells)</td></tr>
+<tr class="separator:aef319b73a8ccdaaaa0e815f71d515737"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae9fbb94b41b1eb0d95460aa741b484ed"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#ae9fbb94b41b1eb0d95460aa741b484ed">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, TriggeredCanProcAttribute_AllowsTriggeredSpells)</td></tr>
+<tr class="separator:ae9fbb94b41b1eb0d95460aa741b484ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a01e32e05664aefd626b9db8c1aefdefb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#a01e32e05664aefd626b9db8c1aefdefb">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, NotAProc_AllowsTriggeredSpell)</td></tr>
+<tr class="separator:a01e32e05664aefd626b9db8c1aefdefb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac0891436ce15ee047c2485c7ae5ae6b9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#ac0891436ce15ee047c2485c7ae5ae6b9">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, AutoAttackMelee_AllowsTriggeredSpells)</td></tr>
+<tr class="separator:ac0891436ce15ee047c2485c7ae5ae6b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5c9d724947f42b845182c53983d501d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#aa5c9d724947f42b845182c53983d501d">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, AutoAttackRanged_AllowsTriggeredSpells)</td></tr>
+<tr class="separator:aa5c9d724947f42b845182c53983d501d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a37c6b68691101629be3a680d56829815"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#a37c6b68691101629be3a680d56829815">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, TakenAutoAttack_AllowsTriggeredSpells)</td></tr>
+<tr class="separator:a37c6b68691101629be3a680d56829815"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7c524ed9bde476c4ccbbf8d92689def3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#a7c524ed9bde476c4ccbbf8d92689def3">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, KillEvent_AllowsTriggeredSpells)</td></tr>
+<tr class="separator:a7c524ed9bde476c4ccbbf8d92689def3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae71eaaefe0560a542807c9f12a3dec0c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#ae71eaaefe0560a542807c9f12a3dec0c">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, KilledEvent_AllowsTriggeredSpells)</td></tr>
+<tr class="separator:ae71eaaefe0560a542807c9f12a3dec0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9180ac486c8ccf787d005f7745ec4af6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#a9180ac486c8ccf787d005f7745ec4af6">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, DeathEvent_AllowsTriggeredSpells)</td></tr>
+<tr class="separator:a9180ac486c8ccf787d005f7745ec4af6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3a7e9253946e39768b407ab76c4c5de3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#a3a7e9253946e39768b407ab76c4c5de3">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, KillWithOtherFlags_StillAllowsTriggeredSpells)</td></tr>
+<tr class="separator:a3a7e9253946e39768b407ab76c4c5de3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1fd3d2ab4ce67896743ffc985ad2daaa"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#a1fd3d2ab4ce67896743ffc985ad2daaa">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, Scenario_RapidKilling_AutoShotKill)</td></tr>
+<tr class="separator:a1fd3d2ab4ce67896743ffc985ad2daaa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af62b30eee446b8644245f8a847d7ef42"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#af62b30eee446b8644245f8a847d7ef42">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, KillEvent_SelfLoopStillBlocked)</td></tr>
+<tr class="separator:af62b30eee446b8644245f8a847d7ef42"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a219dbfd50fe1f414f1f042e97ff6c4e3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#a219dbfd50fe1f414f1f042e97ff6c4e3">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, Combined_SelfLoopTakesPrecedence)</td></tr>
+<tr class="separator:a219dbfd50fe1f414f1f042e97ff6c4e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a93448c76955f979364c71a0fb1809d4c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#a93448c76955f979364c71a0fb1809d4c">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, Combined_MultipleExceptions)</td></tr>
+<tr class="separator:a93448c76955f979364c71a0fb1809d4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5279da23bb3a57a4757f9952f09ae711"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#a5279da23bb3a57a4757f9952f09ae711">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, Scenario_HotStreak_TriggeredPyroblast)</td></tr>
+<tr class="separator:a5279da23bb3a57a4757f9952f09ae711"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4cdd54000e15706b1aad8d9ff7ec37f0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#a4cdd54000e15706b1aad8d9ff7ec37f0">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, Scenario_SwordSpec_ChainProcs)</td></tr>
+<tr class="separator:a4cdd54000e15706b1aad8d9ff7ec37f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7ae5852984726e639d52f02b7545eea7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#a7ae5852984726e639d52f02b7545eea7">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, Scenario_WindfuryWeapon_AutoAttack)</td></tr>
+<tr class="separator:a7ae5852984726e639d52f02b7545eea7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2013ed0cd2cb0dab7a1d57da6e7fafb0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#a2013ed0cd2cb0dab7a1d57da6e7fafb0">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, EdgeCase_ZeroEventMask)</td></tr>
+<tr class="separator:a2013ed0cd2cb0dab7a1d57da6e7fafb0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5727f1d429a0be3b8f3299b5cfff63fb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a00551.html#a5727f1d429a0be3b8f3299b5cfff63fb">TEST_F</a> (<a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>, EdgeCase_AllExceptionsDisabled)</td></tr>
+<tr class="separator:a5727f1d429a0be3b8f3299b5cfff63fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p ><a class="el" href="../../d7/d19/a08988.html">Unit</a> tests for triggered spell filtering in proc system. </p>
+<p >Tests the logic from <a class="el" href="../../d0/d79/a01766.html">SpellAuras.cpp</a>:2191-2209:</p><ul>
+<li>Self-loop prevention (spell triggered by same aura)</li>
+<li>Triggered spell blocking (default behavior)</li>
+<li>SPELL_ATTR3_CAN_PROC_FROM_PROCS exception</li>
+<li>PROC_ATTR_TRIGGERED_CAN_PROC exception</li>
+<li>SPELL_ATTR3_NOT_A_PROC exception</li>
+<li>AUTO_ATTACK_PROC_FLAG_MASK exception </li>
+</ul>
+
+<p class="definition">Definition in file <a class="el" href="../../">SpellProcTriggeredFilterTest.cpp</a>.</p>
+</div><h2 class="groupheader">Function Documentation</h2>
+<a id="ac0891436ce15ee047c2485c7ae5ae6b9" name="ac0891436ce15ee047c2485c7ae5ae6b9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac0891436ce15ee047c2485c7ae5ae6b9">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">AutoAttackMelee_AllowsTriggeredSpells&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  204</span>{</div>
+<div class="line"><span class="lineno">  205</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">  206</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  207</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  208</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ab2f859d45c5a9a02301ecc117bf3e25e">spellHasNotAProc</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  209</span> </div>
+<div class="line"><span class="lineno">  210</span>    <span class="keyword">auto</span> procEntry = CreateBasicProcEntry();</div>
+<div class="line"><span class="lineno">  211</span> </div>
+<div class="line"><span class="lineno">  212</span>    <span class="comment">// Event mask includes auto-attack - exception applies</span></div>
+<div class="line"><span class="lineno">  213</span>    <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> autoAttackEvent = <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>;</div>
+<div class="line"><span class="lineno">  214</span> </div>
+<div class="line"><span class="lineno">  215</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  216</span>        config, procEntry, autoAttackEvent))</div>
+<div class="line"><span class="lineno">  217</span>        &lt;&lt; <span class="stringliteral">&quot;AUTO_ATTACK_PROC_FLAG_MASK (melee) should allow triggered spells&quot;</span>;</div>
+<div class="line"><span class="lineno">  218</span>}</div>
+<div class="ttc" id="aa00485_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa01760_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc"><div class="ttname"><a href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a></div><div class="ttdeci">@ PROC_FLAG_DONE_MELEE_AUTO_ATTACK</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:110</div></div>
+<div class="ttc" id="aa29536_html_ab3d733d9e66b5e9554501be5e09349f7"><div class="ttname"><a href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a></div><div class="ttdeci">static bool ShouldBlockTriggeredSpell(TriggeredSpellConfig const &amp;config, SpellProcEntry const &amp;procEntry, uint32 eventTypeMask)</div><div class="ttdoc">Simulate triggered spell filtering Implements the self-loop prevention and triggered spell blocking f...</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:256</div></div>
+<div class="ttc" id="aa29540_html"><div class="ttname"><a href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a></div><div class="ttdoc">Configuration for simulating triggered spell filtering.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:239</div></div>
+<div class="ttc" id="aa29540_html_aae527e9b8a2969ef67e9c4fbaf43c381"><div class="ttname"><a href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a></div><div class="ttdeci">bool isTriggered</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:240</div></div>
+<div class="ttc" id="aa29540_html_ab2f859d45c5a9a02301ecc117bf3e25e"><div class="ttname"><a href="../../d3/d91/a29540.html#ab2f859d45c5a9a02301ecc117bf3e25e">ProcChanceTestHelper::TriggeredSpellConfig::spellHasNotAProc</a></div><div class="ttdeci">bool spellHasNotAProc</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:242</div></div>
+<div class="ttc" id="aa29540_html_af3e394eb5563aa4a76bd51d6c52f6db2"><div class="ttname"><a href="../../d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a></div><div class="ttdeci">bool auraHasCanProcFromProcs</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:241</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00110">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, and <a class="el" href="../../#l00242">ProcChanceTestHelper::TriggeredSpellConfig::spellHasNotAProc</a>.</p>
+
+</div>
+</div>
+<a id="aa5c9d724947f42b845182c53983d501d" name="aa5c9d724947f42b845182c53983d501d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa5c9d724947f42b845182c53983d501d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">AutoAttackRanged_AllowsTriggeredSpells&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  221</span>{</div>
+<div class="line"><span class="lineno">  222</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">  223</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  224</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  225</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ab2f859d45c5a9a02301ecc117bf3e25e">spellHasNotAProc</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  226</span> </div>
+<div class="line"><span class="lineno">  227</span>    <span class="keyword">auto</span> procEntry = CreateBasicProcEntry();</div>
+<div class="line"><span class="lineno">  228</span> </div>
+<div class="line"><span class="lineno">  229</span>    <span class="comment">// Hunter auto-shot or wand (ranged auto-attack)</span></div>
+<div class="line"><span class="lineno">  230</span>    <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> rangedAutoEvent = <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aae60b02b6affab70347479b44a5a1c6a">PROC_FLAG_DONE_RANGED_AUTO_ATTACK</a>;</div>
+<div class="line"><span class="lineno">  231</span> </div>
+<div class="line"><span class="lineno">  232</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  233</span>        config, procEntry, rangedAutoEvent))</div>
+<div class="line"><span class="lineno">  234</span>        &lt;&lt; <span class="stringliteral">&quot;AUTO_ATTACK_PROC_FLAG_MASK (ranged) should allow triggered spells&quot;</span>;</div>
+<div class="line"><span class="lineno">  235</span>}</div>
+<div class="ttc" id="aa01760_html_ade1c2af066d4cf1bbcd88f13f01cd4d6aae60b02b6affab70347479b44a5a1c6a"><div class="ttname"><a href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aae60b02b6affab70347479b44a5a1c6a">PROC_FLAG_DONE_RANGED_AUTO_ATTACK</a></div><div class="ttdeci">@ PROC_FLAG_DONE_RANGED_AUTO_ATTACK</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:116</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00116">PROC_FLAG_DONE_RANGED_AUTO_ATTACK</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, and <a class="el" href="../../#l00242">ProcChanceTestHelper::TriggeredSpellConfig::spellHasNotAProc</a>.</p>
+
+</div>
+</div>
+<a id="aef319b73a8ccdaaaa0e815f71d515737" name="aef319b73a8ccdaaaa0e815f71d515737"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aef319b73a8ccdaaaa0e815f71d515737">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">CanProcFromProcs_AllowsTriggeredSpells&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  142</span>{</div>
+<div class="line"><span class="lineno">  143</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">  144</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  145</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">true</span>;  <span class="comment">// Exception: aura has SPELL_ATTR3_CAN_PROC_FROM_PROCS</span></div>
+<div class="line"><span class="lineno">  146</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ab2f859d45c5a9a02301ecc117bf3e25e">spellHasNotAProc</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  147</span> </div>
+<div class="line"><span class="lineno">  148</span>    <span class="keyword">auto</span> procEntry = CreateBasicProcEntry();</div>
+<div class="line"><span class="lineno">  149</span> </div>
+<div class="line"><span class="lineno">  150</span>    <span class="comment">// Should be allowed due to aura attribute</span></div>
+<div class="line"><span class="lineno">  151</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  152</span>        config, procEntry, <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>))</div>
+<div class="line"><span class="lineno">  153</span>        &lt;&lt; <span class="stringliteral">&quot;SPELL_ATTR3_CAN_PROC_FROM_PROCS should allow triggered spells&quot;</span>;</div>
+<div class="line"><span class="lineno">  154</span>}</div>
+<div class="ttc" id="aa01760_html_ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67"><div class="ttname"><a href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a></div><div class="ttdeci">@ PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:131</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, and <a class="el" href="../../#l00242">ProcChanceTestHelper::TriggeredSpellConfig::spellHasNotAProc</a>.</p>
+
+</div>
+</div>
+<a id="a93448c76955f979364c71a0fb1809d4c" name="a93448c76955f979364c71a0fb1809d4c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a93448c76955f979364c71a0fb1809d4c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Combined_MultipleExceptions&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  387</span>{</div>
+<div class="line"><span class="lineno">  388</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">  389</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  390</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">true</span>;  <span class="comment">// Exception 1</span></div>
+<div class="line"><span class="lineno">  391</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ab2f859d45c5a9a02301ecc117bf3e25e">spellHasNotAProc</a> = <span class="keyword">true</span>;         <span class="comment">// Exception 2</span></div>
+<div class="line"><span class="lineno">  392</span> </div>
+<div class="line"><span class="lineno">  393</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  394</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#acebcb2a676a7e8e6821854137e056fff">WithProcFlags</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>)</div>
+<div class="line"><span class="lineno">  395</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#a7fd74f5d829c140285ca6ed18c0e136aaaebacd180f279fede2360781af5d414c">PROC_ATTR_TRIGGERED_CAN_PROC</a>)  <span class="comment">// Exception 3</span></div>
+<div class="line"><span class="lineno">  396</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  397</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  398</span> </div>
+<div class="line"><span class="lineno">  399</span>    <span class="comment">// Should be allowed (multiple exceptions all pass)</span></div>
+<div class="line"><span class="lineno">  400</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  401</span>        config, procEntry, <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>))</div>
+<div class="line"><span class="lineno">  402</span>        &lt;&lt; <span class="stringliteral">&quot;Multiple exceptions should still allow proc&quot;</span>;</div>
+<div class="line"><span class="lineno">  403</span>}</div>
+<div class="ttc" id="aa01760_html_a7fd74f5d829c140285ca6ed18c0e136aaaebacd180f279fede2360781af5d414c"><div class="ttname"><a href="../../d0/d9d/a01760.html#a7fd74f5d829c140285ca6ed18c0e136aaaebacd180f279fede2360781af5d414c">PROC_ATTR_TRIGGERED_CAN_PROC</a></div><div class="ttdeci">@ PROC_ATTR_TRIGGERED_CAN_PROC</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:274</div></div>
+<div class="ttc" id="aa29588_html"><div class="ttname"><a href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a></div><div class="ttdoc">Builder class for creating SpellProcEntry test instances.</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:141</div></div>
+<div class="ttc" id="aa29588_html_a2a69603215e9fa526304f420bd5a490c"><div class="ttname"><a href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">SpellProcEntryBuilder::Build</a></div><div class="ttdeci">SpellProcEntry Build() const</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:226</div></div>
+<div class="ttc" id="aa29588_html_a3c99a07866eb497717932af6b7f3a485"><div class="ttname"><a href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">SpellProcEntryBuilder::WithChance</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithChance(float chance)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:208</div></div>
+<div class="ttc" id="aa29588_html_ab9585e517adc231979ca5b817a2f2142"><div class="ttname"><a href="../../d8/d1f/a29588.html#ab9585e517adc231979ca5b817a2f2142">SpellProcEntryBuilder::WithAttributesMask</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithAttributesMask(uint32 attributesMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:190</div></div>
+<div class="ttc" id="aa29588_html_acebcb2a676a7e8e6821854137e056fff"><div class="ttname"><a href="../../d8/d1f/a29588.html#acebcb2a676a7e8e6821854137e056fff">SpellProcEntryBuilder::WithProcFlags</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithProcFlags(uint32 procFlags)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:166</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00274">PROC_ATTR_TRIGGERED_CAN_PROC</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, <a class="el" href="../../#l00242">ProcChanceTestHelper::TriggeredSpellConfig::spellHasNotAProc</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00166">SpellProcEntryBuilder::WithProcFlags()</a>.</p>
+
+</div>
+</div>
+<a id="a219dbfd50fe1f414f1f042e97ff6c4e3" name="a219dbfd50fe1f414f1f042e97ff6c4e3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a219dbfd50fe1f414f1f042e97ff6c4e3">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Combined_SelfLoopTakesPrecedence&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  367</span>{</div>
+<div class="line"><span class="lineno">  368</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">  369</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  370</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ad62562e342e1d090e3f26f7c40a35795">triggeredByAuraSpellId</a> = 12345;</div>
+<div class="line"><span class="lineno">  371</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ae198c80e6c72eeb72da0abcde8a0f13a">procAuraSpellId</a> = 12345;  <span class="comment">// Self-loop</span></div>
+<div class="line"><span class="lineno">  372</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">true</span>;  <span class="comment">// Would normally allow</span></div>
+<div class="line"><span class="lineno">  373</span> </div>
+<div class="line"><span class="lineno">  374</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  375</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#acebcb2a676a7e8e6821854137e056fff">WithProcFlags</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>)</div>
+<div class="line"><span class="lineno">  376</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#a7fd74f5d829c140285ca6ed18c0e136aaaebacd180f279fede2360781af5d414c">PROC_ATTR_TRIGGERED_CAN_PROC</a>)</div>
+<div class="line"><span class="lineno">  377</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  378</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  379</span> </div>
+<div class="line"><span class="lineno">  380</span>    <span class="comment">// Self-loop should still block even with exceptions</span></div>
+<div class="line"><span class="lineno">  381</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  382</span>        config, procEntry, <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>))</div>
+<div class="line"><span class="lineno">  383</span>        &lt;&lt; <span class="stringliteral">&quot;Self-loop should block even when TRIGGERED_CAN_PROC is set&quot;</span>;</div>
+<div class="line"><span class="lineno">  384</span>}</div>
+<div class="ttc" id="aa29540_html_ad62562e342e1d090e3f26f7c40a35795"><div class="ttname"><a href="../../d3/d91/a29540.html#ad62562e342e1d090e3f26f7c40a35795">ProcChanceTestHelper::TriggeredSpellConfig::triggeredByAuraSpellId</a></div><div class="ttdeci">uint32 triggeredByAuraSpellId</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:243</div></div>
+<div class="ttc" id="aa29540_html_ae198c80e6c72eeb72da0abcde8a0f13a"><div class="ttname"><a href="../../d3/d91/a29540.html#ae198c80e6c72eeb72da0abcde8a0f13a">ProcChanceTestHelper::TriggeredSpellConfig::procAuraSpellId</a></div><div class="ttdeci">uint32 procAuraSpellId</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:244</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00274">PROC_ATTR_TRIGGERED_CAN_PROC</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00244">ProcChanceTestHelper::TriggeredSpellConfig::procAuraSpellId</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, <a class="el" href="../../#l00243">ProcChanceTestHelper::TriggeredSpellConfig::triggeredByAuraSpellId</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00166">SpellProcEntryBuilder::WithProcFlags()</a>.</p>
+
+</div>
+</div>
+<a id="a9180ac486c8ccf787d005f7745ec4af6" name="a9180ac486c8ccf787d005f7745ec4af6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9180ac486c8ccf787d005f7745ec4af6">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">DeathEvent_AllowsTriggeredSpells&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  292</span>{</div>
+<div class="line"><span class="lineno">  293</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">  294</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  295</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  296</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ab2f859d45c5a9a02301ecc117bf3e25e">spellHasNotAProc</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  297</span> </div>
+<div class="line"><span class="lineno">  298</span>    <span class="keyword">auto</span> procEntry = CreateBasicProcEntry();</div>
+<div class="line"><span class="lineno">  299</span> </div>
+<div class="line"><span class="lineno">  300</span>    <span class="comment">// PROC_FLAG_DEATH should bypass triggered-spell filter</span></div>
+<div class="line"><span class="lineno">  301</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  302</span>        config, procEntry, <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a8b6d98edef5c8763d9b8d5f0d1b95d40">PROC_FLAG_DEATH</a>))</div>
+<div class="line"><span class="lineno">  303</span>        &lt;&lt; <span class="stringliteral">&quot;PROC_FLAG_DEATH should allow triggered spells&quot;</span>;</div>
+<div class="line"><span class="lineno">  304</span>}</div>
+<div class="ttc" id="aa01760_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a8b6d98edef5c8763d9b8d5f0d1b95d40"><div class="ttname"><a href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a8b6d98edef5c8763d9b8d5f0d1b95d40">PROC_FLAG_DEATH</a></div><div class="ttdeci">@ PROC_FLAG_DEATH</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:143</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00143">PROC_FLAG_DEATH</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, and <a class="el" href="../../#l00242">ProcChanceTestHelper::TriggeredSpellConfig::spellHasNotAProc</a>.</p>
+
+</div>
+</div>
+<a id="a5727f1d429a0be3b8f3299b5cfff63fb" name="a5727f1d429a0be3b8f3299b5cfff63fb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5727f1d429a0be3b8f3299b5cfff63fb">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">EdgeCase_AllExceptionsDisabled&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  483</span>{</div>
+<div class="line"><span class="lineno">  484</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">  485</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  486</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  487</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ab2f859d45c5a9a02301ecc117bf3e25e">spellHasNotAProc</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  488</span> </div>
+<div class="line"><span class="lineno">  489</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  490</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#acebcb2a676a7e8e6821854137e056fff">WithProcFlags</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>)</div>
+<div class="line"><span class="lineno">  491</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(0)  <span class="comment">// No TRIGGERED_CAN_PROC</span></div>
+<div class="line"><span class="lineno">  492</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  493</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  494</span> </div>
+<div class="line"><span class="lineno">  495</span>    <span class="comment">// No exceptions - should block</span></div>
+<div class="line"><span class="lineno">  496</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  497</span>        config, procEntry, <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>))</div>
+<div class="line"><span class="lineno">  498</span>        &lt;&lt; <span class="stringliteral">&quot;No exceptions should block triggered spell&quot;</span>;</div>
+<div class="line"><span class="lineno">  499</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, <a class="el" href="../../#l00242">ProcChanceTestHelper::TriggeredSpellConfig::spellHasNotAProc</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00166">SpellProcEntryBuilder::WithProcFlags()</a>.</p>
+
+</div>
+</div>
+<a id="a2013ed0cd2cb0dab7a1d57da6e7fafb0" name="a2013ed0cd2cb0dab7a1d57da6e7fafb0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2013ed0cd2cb0dab7a1d57da6e7fafb0">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">EdgeCase_ZeroEventMask&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  469</span>{</div>
+<div class="line"><span class="lineno">  470</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">  471</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  472</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  473</span> </div>
+<div class="line"><span class="lineno">  474</span>    <span class="keyword">auto</span> procEntry = CreateBasicProcEntry();</div>
+<div class="line"><span class="lineno">  475</span> </div>
+<div class="line"><span class="lineno">  476</span>    <span class="comment">// Zero event mask means no auto-attack exception</span></div>
+<div class="line"><span class="lineno">  477</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  478</span>        config, procEntry, 0))</div>
+<div class="line"><span class="lineno">  479</span>        &lt;&lt; <span class="stringliteral">&quot;Zero event mask should not grant auto-attack exception&quot;</span>;</div>
+<div class="line"><span class="lineno">  480</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, and <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>.</p>
+
+</div>
+</div>
+<a id="ae71eaaefe0560a542807c9f12a3dec0c" name="ae71eaaefe0560a542807c9f12a3dec0c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae71eaaefe0560a542807c9f12a3dec0c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">KilledEvent_AllowsTriggeredSpells&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  277</span>{</div>
+<div class="line"><span class="lineno">  278</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">  279</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  280</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  281</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ab2f859d45c5a9a02301ecc117bf3e25e">spellHasNotAProc</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  282</span> </div>
+<div class="line"><span class="lineno">  283</span>    <span class="keyword">auto</span> procEntry = CreateBasicProcEntry();</div>
+<div class="line"><span class="lineno">  284</span> </div>
+<div class="line"><span class="lineno">  285</span>    <span class="comment">// PROC_FLAG_KILLED should bypass triggered-spell filter</span></div>
+<div class="line"><span class="lineno">  286</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  287</span>        config, procEntry, <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a77a138ad03b6e16e4ab21aba26d98ec3">PROC_FLAG_KILLED</a>))</div>
+<div class="line"><span class="lineno">  288</span>        &lt;&lt; <span class="stringliteral">&quot;PROC_FLAG_KILLED should allow triggered spells&quot;</span>;</div>
+<div class="line"><span class="lineno">  289</span>}</div>
+<div class="ttc" id="aa01760_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a77a138ad03b6e16e4ab21aba26d98ec3"><div class="ttname"><a href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a77a138ad03b6e16e4ab21aba26d98ec3">PROC_FLAG_KILLED</a></div><div class="ttdeci">@ PROC_FLAG_KILLED</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:107</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00107">PROC_FLAG_KILLED</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, and <a class="el" href="../../#l00242">ProcChanceTestHelper::TriggeredSpellConfig::spellHasNotAProc</a>.</p>
+
+</div>
+</div>
+<a id="a7c524ed9bde476c4ccbbf8d92689def3" name="a7c524ed9bde476c4ccbbf8d92689def3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7c524ed9bde476c4ccbbf8d92689def3">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">KillEvent_AllowsTriggeredSpells&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  262</span>{</div>
+<div class="line"><span class="lineno">  263</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">  264</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  265</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  266</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ab2f859d45c5a9a02301ecc117bf3e25e">spellHasNotAProc</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  267</span> </div>
+<div class="line"><span class="lineno">  268</span>    <span class="keyword">auto</span> procEntry = CreateBasicProcEntry();</div>
+<div class="line"><span class="lineno">  269</span> </div>
+<div class="line"><span class="lineno">  270</span>    <span class="comment">// PROC_FLAG_KILL should bypass triggered-spell filter</span></div>
+<div class="line"><span class="lineno">  271</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  272</span>        config, procEntry, <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aadedce3b69f2042ebb950a48165fc89a">PROC_FLAG_KILL</a>))</div>
+<div class="line"><span class="lineno">  273</span>        &lt;&lt; <span class="stringliteral">&quot;PROC_FLAG_KILL should allow triggered spells&quot;</span>;</div>
+<div class="line"><span class="lineno">  274</span>}</div>
+<div class="ttc" id="aa01760_html_ade1c2af066d4cf1bbcd88f13f01cd4d6aadedce3b69f2042ebb950a48165fc89a"><div class="ttname"><a href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aadedce3b69f2042ebb950a48165fc89a">PROC_FLAG_KILL</a></div><div class="ttdeci">@ PROC_FLAG_KILL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:108</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00108">PROC_FLAG_KILL</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, and <a class="el" href="../../#l00242">ProcChanceTestHelper::TriggeredSpellConfig::spellHasNotAProc</a>.</p>
+
+</div>
+</div>
+<a id="af62b30eee446b8644245f8a847d7ef42" name="af62b30eee446b8644245f8a847d7ef42"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af62b30eee446b8644245f8a847d7ef42">&#9670;&#160;</a></span>TEST_F() <span class="overload">[11/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">KillEvent_SelfLoopStillBlocked&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  345</span>{</div>
+<div class="line"><span class="lineno">  346</span>    <span class="comment">// Even with kill event exemption, self-loop should still be blocked</span></div>
+<div class="line"><span class="lineno">  347</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">  348</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  349</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ad62562e342e1d090e3f26f7c40a35795">triggeredByAuraSpellId</a> = 34949;  <span class="comment">// Same as proc aura</span></div>
+<div class="line"><span class="lineno">  350</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ae198c80e6c72eeb72da0abcde8a0f13a">procAuraSpellId</a> = 34949;</div>
+<div class="line"><span class="lineno">  351</span> </div>
+<div class="line"><span class="lineno">  352</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  353</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#acebcb2a676a7e8e6821854137e056fff">WithProcFlags</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aadedce3b69f2042ebb950a48165fc89a">PROC_FLAG_KILL</a>)</div>
+<div class="line"><span class="lineno">  354</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  355</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  356</span> </div>
+<div class="line"><span class="lineno">  357</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  358</span>        config, procEntry, <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aadedce3b69f2042ebb950a48165fc89a">PROC_FLAG_KILL</a>))</div>
+<div class="line"><span class="lineno">  359</span>        &lt;&lt; <span class="stringliteral">&quot;Self-loop should still block even on kill events&quot;</span>;</div>
+<div class="line"><span class="lineno">  360</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00108">PROC_FLAG_KILL</a>, <a class="el" href="../../#l00244">ProcChanceTestHelper::TriggeredSpellConfig::procAuraSpellId</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, <a class="el" href="../../#l00243">ProcChanceTestHelper::TriggeredSpellConfig::triggeredByAuraSpellId</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00166">SpellProcEntryBuilder::WithProcFlags()</a>.</p>
+
+</div>
+</div>
+<a id="a3a7e9253946e39768b407ab76c4c5de3" name="a3a7e9253946e39768b407ab76c4c5de3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3a7e9253946e39768b407ab76c4c5de3">&#9670;&#160;</a></span>TEST_F() <span class="overload">[12/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">KillWithOtherFlags_StillAllowsTriggeredSpells&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  307</span>{</div>
+<div class="line"><span class="lineno">  308</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">  309</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  310</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  311</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ab2f859d45c5a9a02301ecc117bf3e25e">spellHasNotAProc</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  312</span> </div>
+<div class="line"><span class="lineno">  313</span>    <span class="keyword">auto</span> procEntry = CreateBasicProcEntry();</div>
+<div class="line"><span class="lineno">  314</span> </div>
+<div class="line"><span class="lineno">  315</span>    <span class="comment">// PROC_FLAG_KILL combined with other flags should still bypass</span></div>
+<div class="line"><span class="lineno">  316</span>    <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> combinedEvent = <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aadedce3b69f2042ebb950a48165fc89a">PROC_FLAG_KILL</a> | <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>;</div>
+<div class="line"><span class="lineno">  317</span> </div>
+<div class="line"><span class="lineno">  318</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  319</span>        config, procEntry, combinedEvent))</div>
+<div class="line"><span class="lineno">  320</span>        &lt;&lt; <span class="stringliteral">&quot;PROC_FLAG_KILL combined with other flags should still bypass filter&quot;</span>;</div>
+<div class="line"><span class="lineno">  321</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00108">PROC_FLAG_KILL</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, and <a class="el" href="../../#l00242">ProcChanceTestHelper::TriggeredSpellConfig::spellHasNotAProc</a>.</p>
+
+</div>
+</div>
+<a id="a31da43f3490ae60e72a5c2947656141a" name="a31da43f3490ae60e72a5c2947656141a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a31da43f3490ae60e72a5c2947656141a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[13/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">NonTriggeredSpell_AllowedByDefault&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  123</span>{</div>
+<div class="line"><span class="lineno">  124</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">  125</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">false</span>;  <span class="comment">// Not triggered</span></div>
+<div class="line"><span class="lineno">  126</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  127</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ab2f859d45c5a9a02301ecc117bf3e25e">spellHasNotAProc</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  128</span> </div>
+<div class="line"><span class="lineno">  129</span>    <span class="keyword">auto</span> procEntry = CreateBasicProcEntry();</div>
+<div class="line"><span class="lineno">  130</span> </div>
+<div class="line"><span class="lineno">  131</span>    <span class="comment">// Should be allowed</span></div>
+<div class="line"><span class="lineno">  132</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  133</span>        config, procEntry, <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>))</div>
+<div class="line"><span class="lineno">  134</span>        &lt;&lt; <span class="stringliteral">&quot;Non-triggered spell should be allowed&quot;</span>;</div>
+<div class="line"><span class="lineno">  135</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, and <a class="el" href="../../#l00242">ProcChanceTestHelper::TriggeredSpellConfig::spellHasNotAProc</a>.</p>
+
+</div>
+</div>
+<a id="a01e32e05664aefd626b9db8c1aefdefb" name="a01e32e05664aefd626b9db8c1aefdefb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a01e32e05664aefd626b9db8c1aefdefb">&#9670;&#160;</a></span>TEST_F() <span class="overload">[14/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">NotAProc_AllowsTriggeredSpell&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  185</span>{</div>
+<div class="line"><span class="lineno">  186</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">  187</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  188</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  189</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ab2f859d45c5a9a02301ecc117bf3e25e">spellHasNotAProc</a> = <span class="keyword">true</span>;  <span class="comment">// Exception: spell has SPELL_ATTR3_NOT_A_PROC</span></div>
+<div class="line"><span class="lineno">  190</span> </div>
+<div class="line"><span class="lineno">  191</span>    <span class="keyword">auto</span> procEntry = CreateBasicProcEntry();</div>
+<div class="line"><span class="lineno">  192</span> </div>
+<div class="line"><span class="lineno">  193</span>    <span class="comment">// Should be allowed due to spell attribute</span></div>
+<div class="line"><span class="lineno">  194</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  195</span>        config, procEntry, <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>))</div>
+<div class="line"><span class="lineno">  196</span>        &lt;&lt; <span class="stringliteral">&quot;SPELL_ATTR3_NOT_A_PROC should allow triggered spell&quot;</span>;</div>
+<div class="line"><span class="lineno">  197</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, and <a class="el" href="../../#l00242">ProcChanceTestHelper::TriggeredSpellConfig::spellHasNotAProc</a>.</p>
+
+</div>
+</div>
+<a id="a5279da23bb3a57a4757f9952f09ae711" name="a5279da23bb3a57a4757f9952f09ae711"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5279da23bb3a57a4757f9952f09ae711">&#9670;&#160;</a></span>TEST_F() <span class="overload">[15/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_HotStreak_TriggeredPyroblast&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  410</span>{</div>
+<div class="line"><span class="lineno">  411</span>    <span class="comment">// Hot Streak (48108) allows triggered Pyroblast to not proc it again</span></div>
+<div class="line"><span class="lineno">  412</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">  413</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;                 <span class="comment">// Pyroblast was triggered by Hot Streak</span></div>
+<div class="line"><span class="lineno">  414</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ad62562e342e1d090e3f26f7c40a35795">triggeredByAuraSpellId</a> = 48108;     <span class="comment">// Hot Streak</span></div>
+<div class="line"><span class="lineno">  415</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ae198c80e6c72eeb72da0abcde8a0f13a">procAuraSpellId</a> = 48108;            <span class="comment">// Hot Streak is checking if it should proc</span></div>
+<div class="line"><span class="lineno">  416</span> </div>
+<div class="line"><span class="lineno">  417</span>    <span class="keyword">auto</span> procEntry = CreateBasicProcEntry();</div>
+<div class="line"><span class="lineno">  418</span> </div>
+<div class="line"><span class="lineno">  419</span>    <span class="comment">// Self-loop: Hot Streak can&#39;t proc from spell it triggered</span></div>
+<div class="line"><span class="lineno">  420</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  421</span>        config, procEntry, <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>))</div>
+<div class="line"><span class="lineno">  422</span>        &lt;&lt; <span class="stringliteral">&quot;Hot Streak triggered Pyroblast should not proc Hot Streak&quot;</span>;</div>
+<div class="line"><span class="lineno">  423</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00244">ProcChanceTestHelper::TriggeredSpellConfig::procAuraSpellId</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, and <a class="el" href="../../#l00243">ProcChanceTestHelper::TriggeredSpellConfig::triggeredByAuraSpellId</a>.</p>
+
+</div>
+</div>
+<a id="a1fd3d2ab4ce67896743ffc985ad2daaa" name="a1fd3d2ab4ce67896743ffc985ad2daaa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1fd3d2ab4ce67896743ffc985ad2daaa">&#9670;&#160;</a></span>TEST_F() <span class="overload">[16/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_RapidKilling_AutoShotKill&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  324</span>{</div>
+<div class="line"><span class="lineno">  325</span>    <span class="comment">// Rapid Killing (34949) has PROC_FLAG_KILL</span></div>
+<div class="line"><span class="lineno">  326</span>    <span class="comment">// Auto Shot (75) repeated casts are IsTriggered=true</span></div>
+<div class="line"><span class="lineno">  327</span>    <span class="comment">// Kill event should proc Rapid Killing regardless</span></div>
+<div class="line"><span class="lineno">  328</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">  329</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;                 <span class="comment">// Auto Shot is triggered</span></div>
+<div class="line"><span class="lineno">  330</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">false</span>;    <span class="comment">// Rapid Killing doesn&#39;t have this</span></div>
+<div class="line"><span class="lineno">  331</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ab2f859d45c5a9a02301ecc117bf3e25e">spellHasNotAProc</a> = <span class="keyword">false</span>;           <span class="comment">// Auto Shot doesn&#39;t have NOT_A_PROC</span></div>
+<div class="line"><span class="lineno">  332</span> </div>
+<div class="line"><span class="lineno">  333</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  334</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#acebcb2a676a7e8e6821854137e056fff">WithProcFlags</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aadedce3b69f2042ebb950a48165fc89a">PROC_FLAG_KILL</a>)</div>
+<div class="line"><span class="lineno">  335</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  336</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  337</span> </div>
+<div class="line"><span class="lineno">  338</span>    <span class="comment">// PROC_FLAG_KILL exemption should allow this</span></div>
+<div class="line"><span class="lineno">  339</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  340</span>        config, procEntry, <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aadedce3b69f2042ebb950a48165fc89a">PROC_FLAG_KILL</a>))</div>
+<div class="line"><span class="lineno">  341</span>        &lt;&lt; <span class="stringliteral">&quot;Rapid Killing should proc from Auto Shot kill&quot;</span>;</div>
+<div class="line"><span class="lineno">  342</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00108">PROC_FLAG_KILL</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, <a class="el" href="../../#l00242">ProcChanceTestHelper::TriggeredSpellConfig::spellHasNotAProc</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00166">SpellProcEntryBuilder::WithProcFlags()</a>.</p>
+
+</div>
+</div>
+<a id="a4cdd54000e15706b1aad8d9ff7ec37f0" name="a4cdd54000e15706b1aad8d9ff7ec37f0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4cdd54000e15706b1aad8d9ff7ec37f0">&#9670;&#160;</a></span>TEST_F() <span class="overload">[17/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_SwordSpec_ChainProcs&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  426</span>{</div>
+<div class="line"><span class="lineno">  427</span>    <span class="comment">// Sword Specialization with TRIGGERED_CAN_PROC</span></div>
+<div class="line"><span class="lineno">  428</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">  429</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  430</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  431</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ad62562e342e1d090e3f26f7c40a35795">triggeredByAuraSpellId</a> = 12345;  <span class="comment">// Some other proc</span></div>
+<div class="line"><span class="lineno">  432</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ae198c80e6c72eeb72da0abcde8a0f13a">procAuraSpellId</a> = 16459;         <span class="comment">// Sword Specialization</span></div>
+<div class="line"><span class="lineno">  433</span> </div>
+<div class="line"><span class="lineno">  434</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  435</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#acebcb2a676a7e8e6821854137e056fff">WithProcFlags</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>)</div>
+<div class="line"><span class="lineno">  436</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#a7fd74f5d829c140285ca6ed18c0e136aaaebacd180f279fede2360781af5d414c">PROC_ATTR_TRIGGERED_CAN_PROC</a>)</div>
+<div class="line"><span class="lineno">  437</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(5.0f)</div>
+<div class="line"><span class="lineno">  438</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  439</span> </div>
+<div class="line"><span class="lineno">  440</span>    <span class="comment">// TRIGGERED_CAN_PROC allows chain procs (but not self-loops)</span></div>
+<div class="line"><span class="lineno">  441</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  442</span>        config, procEntry, <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>))</div>
+<div class="line"><span class="lineno">  443</span>        &lt;&lt; <span class="stringliteral">&quot;Sword Spec with TRIGGERED_CAN_PROC should allow chain procs&quot;</span>;</div>
+<div class="line"><span class="lineno">  444</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00274">PROC_ATTR_TRIGGERED_CAN_PROC</a>, <a class="el" href="../../#l00110">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>, <a class="el" href="../../#l00244">ProcChanceTestHelper::TriggeredSpellConfig::procAuraSpellId</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, <a class="el" href="../../#l00243">ProcChanceTestHelper::TriggeredSpellConfig::triggeredByAuraSpellId</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00166">SpellProcEntryBuilder::WithProcFlags()</a>.</p>
+
+</div>
+</div>
+<a id="a7ae5852984726e639d52f02b7545eea7" name="a7ae5852984726e639d52f02b7545eea7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7ae5852984726e639d52f02b7545eea7">&#9670;&#160;</a></span>TEST_F() <span class="overload">[18/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_WindfuryWeapon_AutoAttack&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  447</span>{</div>
+<div class="line"><span class="lineno">  448</span>    <span class="comment">// Windfury Weapon procs from auto-attacks, which are allowed for triggered spells</span></div>
+<div class="line"><span class="lineno">  449</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">  450</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;  <span class="comment">// Windfury extra attacks are triggered</span></div>
+<div class="line"><span class="lineno">  451</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  452</span> </div>
+<div class="line"><span class="lineno">  453</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  454</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#acebcb2a676a7e8e6821854137e056fff">WithProcFlags</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>)</div>
+<div class="line"><span class="lineno">  455</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#aa373ae9df6697d722e7f6084a70c8b7a">WithProcsPerMinute</a>(2.0f)</div>
+<div class="line"><span class="lineno">  456</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  457</span> </div>
+<div class="line"><span class="lineno">  458</span>    <span class="comment">// Auto-attack exception allows triggered Windfury attacks</span></div>
+<div class="line"><span class="lineno">  459</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  460</span>        config, procEntry, <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>))</div>
+<div class="line"><span class="lineno">  461</span>        &lt;&lt; <span class="stringliteral">&quot;Windfury triggered attacks should be allowed (auto-attack exception)&quot;</span>;</div>
+<div class="line"><span class="lineno">  462</span>}</div>
+<div class="ttc" id="aa29588_html_aa373ae9df6697d722e7f6084a70c8b7a"><div class="ttname"><a href="../../d8/d1f/a29588.html#aa373ae9df6697d722e7f6084a70c8b7a">SpellProcEntryBuilder::WithProcsPerMinute</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithProcsPerMinute(float ppm)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:202</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00110">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, <a class="el" href="../../#l00166">SpellProcEntryBuilder::WithProcFlags()</a>, and <a class="el" href="../../#l00202">SpellProcEntryBuilder::WithProcsPerMinute()</a>.</p>
+
+</div>
+</div>
+<a id="a6123a28d0064330a278117f5a3bbb6d5" name="a6123a28d0064330a278117f5a3bbb6d5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6123a28d0064330a278117f5a3bbb6d5">&#9670;&#160;</a></span>TEST_F() <span class="overload">[19/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SelfLoop_AllowsWhenNotTriggered&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   88</span>{</div>
+<div class="line"><span class="lineno">   89</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">   90</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">false</span>;  <span class="comment">// Not a triggered spell</span></div>
+<div class="line"><span class="lineno">   91</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ad62562e342e1d090e3f26f7c40a35795">triggeredByAuraSpellId</a> = 0;</div>
+<div class="line"><span class="lineno">   92</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ae198c80e6c72eeb72da0abcde8a0f13a">procAuraSpellId</a> = 12345;</div>
+<div class="line"><span class="lineno">   93</span> </div>
+<div class="line"><span class="lineno">   94</span>    <span class="keyword">auto</span> procEntry = CreateBasicProcEntry();</div>
+<div class="line"><span class="lineno">   95</span> </div>
+<div class="line"><span class="lineno">   96</span>    <span class="comment">// Non-triggered spell should be allowed</span></div>
+<div class="line"><span class="lineno">   97</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">   98</span>        config, procEntry, <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>))</div>
+<div class="line"><span class="lineno">   99</span>        &lt;&lt; <span class="stringliteral">&quot;Non-triggered spell should allow proc&quot;</span>;</div>
+<div class="line"><span class="lineno">  100</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00244">ProcChanceTestHelper::TriggeredSpellConfig::procAuraSpellId</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, and <a class="el" href="../../#l00243">ProcChanceTestHelper::TriggeredSpellConfig::triggeredByAuraSpellId</a>.</p>
+
+</div>
+</div>
+<a id="ad9c4ba9837ada50e0817813952f6cccd" name="ad9c4ba9837ada50e0817813952f6cccd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad9c4ba9837ada50e0817813952f6cccd">&#9670;&#160;</a></span>TEST_F() <span class="overload">[20/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SelfLoop_AllowsWhenTriggeredByDifferentAura&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   72</span>{</div>
+<div class="line"><span class="lineno">   73</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">   74</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   75</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ad62562e342e1d090e3f26f7c40a35795">triggeredByAuraSpellId</a> = 12345;  <span class="comment">// Different from proc aura</span></div>
+<div class="line"><span class="lineno">   76</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ae198c80e6c72eeb72da0abcde8a0f13a">procAuraSpellId</a> = 67890;</div>
+<div class="line"><span class="lineno">   77</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">true</span>;  <span class="comment">// Allow triggered spells</span></div>
+<div class="line"><span class="lineno">   78</span> </div>
+<div class="line"><span class="lineno">   79</span>    <span class="keyword">auto</span> procEntry = CreateBasicProcEntry();</div>
+<div class="line"><span class="lineno">   80</span> </div>
+<div class="line"><span class="lineno">   81</span>    <span class="comment">// Different aura should be allowed</span></div>
+<div class="line"><span class="lineno">   82</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">   83</span>        config, procEntry, <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>))</div>
+<div class="line"><span class="lineno">   84</span>        &lt;&lt; <span class="stringliteral">&quot;Different aura trigger should allow proc&quot;</span>;</div>
+<div class="line"><span class="lineno">   85</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00244">ProcChanceTestHelper::TriggeredSpellConfig::procAuraSpellId</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, and <a class="el" href="../../#l00243">ProcChanceTestHelper::TriggeredSpellConfig::triggeredByAuraSpellId</a>.</p>
+
+</div>
+</div>
+<a id="ae3f35401325352f5507f9482d2a9d866" name="ae3f35401325352f5507f9482d2a9d866"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae3f35401325352f5507f9482d2a9d866">&#9670;&#160;</a></span>TEST_F() <span class="overload">[21/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SelfLoop_BlocksWhenTriggeredBySameAura&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   57</span>{</div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">   59</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   60</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ad62562e342e1d090e3f26f7c40a35795">triggeredByAuraSpellId</a> = 12345;  <span class="comment">// Same as proc aura</span></div>
+<div class="line"><span class="lineno">   61</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ae198c80e6c72eeb72da0abcde8a0f13a">procAuraSpellId</a> = 12345;</div>
+<div class="line"><span class="lineno">   62</span> </div>
+<div class="line"><span class="lineno">   63</span>    <span class="keyword">auto</span> procEntry = CreateBasicProcEntry();</div>
+<div class="line"><span class="lineno">   64</span> </div>
+<div class="line"><span class="lineno">   65</span>    <span class="comment">// Self-loop should be blocked</span></div>
+<div class="line"><span class="lineno">   66</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">   67</span>        config, procEntry, <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>))</div>
+<div class="line"><span class="lineno">   68</span>        &lt;&lt; <span class="stringliteral">&quot;Self-loop should block proc&quot;</span>;</div>
+<div class="line"><span class="lineno">   69</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00244">ProcChanceTestHelper::TriggeredSpellConfig::procAuraSpellId</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, and <a class="el" href="../../#l00243">ProcChanceTestHelper::TriggeredSpellConfig::triggeredByAuraSpellId</a>.</p>
+
+</div>
+</div>
+<a id="a37c6b68691101629be3a680d56829815" name="a37c6b68691101629be3a680d56829815"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a37c6b68691101629be3a680d56829815">&#9670;&#160;</a></span>TEST_F() <span class="overload">[22/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">TakenAutoAttack_AllowsTriggeredSpells&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  238</span>{</div>
+<div class="line"><span class="lineno">  239</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">  240</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  241</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  242</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ab2f859d45c5a9a02301ecc117bf3e25e">spellHasNotAProc</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  243</span> </div>
+<div class="line"><span class="lineno">  244</span>    <span class="keyword">auto</span> procEntry = CreateBasicProcEntry();</div>
+<div class="line"><span class="lineno">  245</span> </div>
+<div class="line"><span class="lineno">  246</span>    <span class="comment">// Taken melee auto-attack</span></div>
+<div class="line"><span class="lineno">  247</span>    <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> takenMeleeEvent = <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>;</div>
+<div class="line"><span class="lineno">  248</span> </div>
+<div class="line"><span class="lineno">  249</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  250</span>        config, procEntry, takenMeleeEvent))</div>
+<div class="line"><span class="lineno">  251</span>        &lt;&lt; <span class="stringliteral">&quot;TAKEN_MELEE_AUTO_ATTACK should allow triggered spells&quot;</span>;</div>
+<div class="line"><span class="lineno">  252</span>}</div>
+<div class="ttc" id="aa01760_html_ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12"><div class="ttname"><a href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a></div><div class="ttdeci">@ PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:111</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00111">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, and <a class="el" href="../../#l00242">ProcChanceTestHelper::TriggeredSpellConfig::spellHasNotAProc</a>.</p>
+
+</div>
+</div>
+<a id="ae9fbb94b41b1eb0d95460aa741b484ed" name="ae9fbb94b41b1eb0d95460aa741b484ed"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae9fbb94b41b1eb0d95460aa741b484ed">&#9670;&#160;</a></span>TEST_F() <span class="overload">[23/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">TriggeredCanProcAttribute_AllowsTriggeredSpells&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  161</span>{</div>
+<div class="line"><span class="lineno">  162</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">  163</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  164</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  165</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ab2f859d45c5a9a02301ecc117bf3e25e">spellHasNotAProc</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  166</span> </div>
+<div class="line"><span class="lineno">  167</span>    <span class="comment">// Set TRIGGERED_CAN_PROC attribute</span></div>
+<div class="line"><span class="lineno">  168</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  169</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#acebcb2a676a7e8e6821854137e056fff">WithProcFlags</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>)</div>
+<div class="line"><span class="lineno">  170</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#a7fd74f5d829c140285ca6ed18c0e136aaaebacd180f279fede2360781af5d414c">PROC_ATTR_TRIGGERED_CAN_PROC</a>)</div>
+<div class="line"><span class="lineno">  171</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  172</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  173</span> </div>
+<div class="line"><span class="lineno">  174</span>    <span class="comment">// Should be allowed due to proc entry attribute</span></div>
+<div class="line"><span class="lineno">  175</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  176</span>        config, procEntry, <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>))</div>
+<div class="line"><span class="lineno">  177</span>        &lt;&lt; <span class="stringliteral">&quot;PROC_ATTR_TRIGGERED_CAN_PROC should allow triggered spells&quot;</span>;</div>
+<div class="line"><span class="lineno">  178</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00274">PROC_ATTR_TRIGGERED_CAN_PROC</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, <a class="el" href="../../#l00242">ProcChanceTestHelper::TriggeredSpellConfig::spellHasNotAProc</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00166">SpellProcEntryBuilder::WithProcFlags()</a>.</p>
+
+</div>
+</div>
+<a id="a7d34a9b30d85783f9e978586a1d38ec2" name="a7d34a9b30d85783f9e978586a1d38ec2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7d34a9b30d85783f9e978586a1d38ec2">&#9670;&#160;</a></span>TEST_F() <span class="overload">[24/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">TriggeredSpell_BlockedByDefault&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  107</span>{</div>
+<div class="line"><span class="lineno">  108</span>    <a class="code hl_struct" href="../../d3/d91/a29540.html">ProcChanceTestHelper::TriggeredSpellConfig</a> config;</div>
+<div class="line"><span class="lineno">  109</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  110</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  111</span>    config.<a class="code hl_variable" href="../../d3/d91/a29540.html#ab2f859d45c5a9a02301ecc117bf3e25e">spellHasNotAProc</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  112</span> </div>
+<div class="line"><span class="lineno">  113</span>    <span class="comment">// No TRIGGERED_CAN_PROC attribute</span></div>
+<div class="line"><span class="lineno">  114</span>    <span class="keyword">auto</span> procEntry = CreateBasicProcEntry();</div>
+<div class="line"><span class="lineno">  115</span> </div>
+<div class="line"><span class="lineno">  116</span>    <span class="comment">// Should be blocked - no exceptions apply</span></div>
+<div class="line"><span class="lineno">  117</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dd/dd5/a29536.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  118</span>        config, procEntry, <a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>))</div>
+<div class="line"><span class="lineno">  119</span>        &lt;&lt; <span class="stringliteral">&quot;Triggered spell should be blocked by default&quot;</span>;</div>
+<div class="line"><span class="lineno">  120</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, and <a class="el" href="../../#l00242">ProcChanceTestHelper::TriggeredSpellConfig::spellHasNotAProc</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_0787b0a4fdc11b0654465feaa92c32a3.html">Movement</a></li><li class="navelem"><a class="el" href="../../dir_cd5f8786a04521b4a96eac0f95f95a85.html">Spline</a></li><li class="navelem"><a class="el" href="../../d9/d87/a00551.html">SplineImpl.h</a></li>
-    <li class="footer">Generated on Mon Feb 23 2026 21:13:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d9/d87/a00551.html">SpellProcTriggeredFilterTest.cpp</a></li>
+    <li class="footer">Generated on Mon Mar 2 2026 21:04:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

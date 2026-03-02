@@ -1,6 +1,6 @@
 var a15136 =
 [
-    [ "HandleHeal", "de/daa/a15136.html#a953536a9a393af9472bdd89018449df0", null ],
-    [ "PrepareSpellScript", "de/daa/a15136.html#a70503fc6042001a860d361f2597b7153", null ],
-    [ "Register", "de/daa/a15136.html#a383479896e6deb96e50b827370ccfd4d", null ]
+    [ "FilterTargets", "de/daa/a15136.html#a45b0713b2942199bf0e19752fe765aac", null ],
+    [ "PrepareSpellScript", "de/daa/a15136.html#a7f7177d7754a99743202f69a0342f587", null ],
+    [ "Register", "de/daa/a15136.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
 ];

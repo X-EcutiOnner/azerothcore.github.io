@@ -1,9 +1,11 @@
 var a20592 =
 [
-    [ "HandleEffectPeriodic", "d3/d64/a20592.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
-    [ "Load", "d3/d64/a20592.html#a60deabce505dd3993dca0e71402dc190", null ],
-    [ "PrepareAuraScript", "d3/d64/a20592.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
-    [ "Register", "d3/d64/a20592.html#a524c071390365b7dab59bc7a79b50f15", null ],
-    [ "_lastMSTime", "d3/d64/a20592.html#a013e9e0eef93583722f7d347c2ebbc49", null ],
-    [ "_lastOrientation", "d3/d64/a20592.html#a2537b325ff57b867092f3d9a1bd0fa8b", null ]
+    [ "npc_ulduar_proximity_mine", "d3/d64/a20592.html#ab9ce5859157d12f4577eda515a183ef6", null ],
+    [ "AttackStart", "d3/d64/a20592.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
+    [ "CanAIAttack", "d3/d64/a20592.html#a18311072271a18b279c5bf21f7da2482", null ],
+    [ "MoveInLineOfSight", "d3/d64/a20592.html#a6a406f8098dac7038173f51e9f85a79b", null ],
+    [ "UpdateAI", "d3/d64/a20592.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
+    [ "exploded", "d3/d64/a20592.html#a3e291553aa853ebb5ff002599c68376c", null ],
+    [ "timer", "d3/d64/a20592.html#a8c69d475914fb11c149fea527d31f758", null ],
+    [ "timer2", "d3/d64/a20592.html#a8feed3514cc188da930ef45bbaa2ff50", null ]
 ];

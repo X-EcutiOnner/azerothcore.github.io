@@ -1,7 +1,7 @@
 var a26224 =
 [
-    [ "AfterRemove", "dc/dc5/a26224.html#a554e2ab9dfd9d157eee13b7a5c33cf2e", null ],
-    [ "PrepareAuraScript", "dc/dc5/a26224.html#a13f11ec412f18d805282b3810aff5e90", null ],
-    [ "Register", "dc/dc5/a26224.html#ac9a6a96da8387d3c51fece7f0a968779", null ],
-    [ "Validate", "dc/dc5/a26224.html#a2863c81b02f0b08430d9e713e7b644f7", null ]
+    [ "HandleDummy", "dc/dc5/a26224.html#a4dde221fa768ef5c6b99c981969f35fe", null ],
+    [ "PrepareSpellScript", "dc/dc5/a26224.html#a85333c5f493b70037bcc1a1d42e97e9c", null ],
+    [ "Register", "dc/dc5/a26224.html#acfafbf43e12f72131e58434051dcc510", null ],
+    [ "Validate", "dc/dc5/a26224.html#a73458b57dc107b3215cf5d44567d330f", null ]
 ];

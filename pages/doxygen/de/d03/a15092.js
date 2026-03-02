@@ -1,6 +1,6 @@
 var a15092 =
 [
-    [ "OnRemove", "de/d03/a15092.html#af9da33426d8ea4462f7d9957c4312019", null ],
-    [ "PrepareAuraScript", "de/d03/a15092.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
-    [ "Register", "de/d03/a15092.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
+    [ "FilterTargets", "de/d03/a15092.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
+    [ "PrepareSpellScript", "de/d03/a15092.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
+    [ "Register", "de/d03/a15092.html#a6375482bd9d1fc6c6941607273c506dc", null ]
 ];

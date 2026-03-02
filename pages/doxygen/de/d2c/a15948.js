@@ -1,6 +1,5 @@
 var a15948 =
 [
-    [ "npc_giant_spotlightAI", "d9/ddf/a15952.html", "d9/ddf/a15952" ],
-    [ "npc_giant_spotlight", "de/d2c/a15948.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
-    [ "GetAI", "de/d2c/a15948.html#af002a3d0194c991c1f78c720de63cfea", null ]
+    [ "at_ancient_leaf", "de/d2c/a15948.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
+    [ "OnTrigger", "de/d2c/a15948.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
 ];

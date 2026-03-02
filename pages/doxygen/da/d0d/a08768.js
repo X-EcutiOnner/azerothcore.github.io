@@ -1,10 +1,6 @@
 var a08768 =
 [
-    [ "PvPInfo", "da/d0d/a08768.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
-    [ "EndTimer", "da/d0d/a08768.html#ae06b5030552c02f30fe8386633a753df", null ],
-    [ "FFAPvPEndTimer", "da/d0d/a08768.html#a739dfc63dfe39429a44ea682d9120522", null ],
-    [ "IsHostile", "da/d0d/a08768.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
-    [ "IsInFFAPvPArea", "da/d0d/a08768.html#a8a654926248b3974587af1eb9c064d15", null ],
-    [ "IsInHostileArea", "da/d0d/a08768.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
-    [ "IsInNoPvPArea", "da/d0d/a08768.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
+    [ "PlayerClassLevelInfo", "da/d0d/a08768.html#a60153094e3179bfc6c028d2b76775805", null ],
+    [ "basehealth", "da/d0d/a08768.html#a034ae3d2b5b14ce454710ca8f92ffee0", null ],
+    [ "basemana", "da/d0d/a08768.html#a939a8d8739a553c919d84e399ce17d22", null ]
 ];

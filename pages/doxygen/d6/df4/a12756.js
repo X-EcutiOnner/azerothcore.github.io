@@ -1,7 +1,13 @@
 var a12756 =
 [
-    [ "HandleDummy", "d6/df4/a12756.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
-    [ "PrepareSpellScript", "d6/df4/a12756.html#a5308de47023b89e4ff8680158a502ac0", null ],
-    [ "Register", "d6/df4/a12756.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
-    [ "Validate", "d6/df4/a12756.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
+    [ "boss_nefarian", "d6/df4/a12756.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
+    [ "JustDied", "d6/df4/a12756.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
+    [ "JustEngagedWith", "d6/df4/a12756.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
+    [ "KilledUnit", "d6/df4/a12756.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
+    [ "MovementInform", "d6/df4/a12756.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
+    [ "PathEndReached", "d6/df4/a12756.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
+    [ "Reset", "d6/df4/a12756.html#a5d687fce34b17e22c605c263395e823b", null ],
+    [ "UpdateAI", "d6/df4/a12756.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
+    [ "_introDone", "d6/df4/a12756.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
+    [ "classesPresent", "d6/df4/a12756.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
 ];

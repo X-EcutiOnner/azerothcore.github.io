@@ -1,6 +1,6 @@
 var a27292 =
 [
-    [ "CheckProc", "df/dde/a27292.html#a5e48b25b15b60aa284ca61e900e0f87e", null ],
-    [ "PrepareAuraScript", "df/dde/a27292.html#a13ccd1c89767d0dcf041217466390759", null ],
-    [ "Register", "df/dde/a27292.html#a4f29ca53813534b1af20e09281288e95", null ]
+    [ "CheckCast", "df/dde/a27292.html#a97f479cccecc6f37c75b47122b47e333", null ],
+    [ "PrepareSpellScript", "df/dde/a27292.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
+    [ "Register", "df/dde/a27292.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
 ];

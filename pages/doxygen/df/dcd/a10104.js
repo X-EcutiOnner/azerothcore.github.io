@@ -1,20 +1,7 @@
 var a10104 =
 [
-    [ "ZoneScript", "df/dcd/a10104.html#a3519b281545e348167893060c2aa352c", null ],
-    [ "~ZoneScript", "df/dcd/a10104.html#af4aa4d8f6b48d7d63fb6daa85d50c756", null ],
-    [ "GetCreatureEntry", "df/dcd/a10104.html#a8cabd274bffe18004c3fced46ae325b0", null ],
-    [ "GetData", "df/dcd/a10104.html#a8997612fdbdacbf5e28e4de60d03e805", null ],
-    [ "GetData64", "df/dcd/a10104.html#ab7aecf55fb84288840465dd69eacc8eb", null ],
-    [ "GetGameObjectEntry", "df/dcd/a10104.html#a3101d469bb171957177011fc0a76999b", null ],
-    [ "GetGuidData", "df/dcd/a10104.html#aa1483a9ca7f97cef589dd141d669cc46", null ],
-    [ "OnCreatureCreate", "df/dcd/a10104.html#ae61020e57e9ca8ae0d42a51e39b1fee0", null ],
-    [ "OnCreatureEvade", "df/dcd/a10104.html#a8113c8738b772b740dbc7a2352637669", null ],
-    [ "OnCreatureRemove", "df/dcd/a10104.html#adf80a1b08c7ab4451cd6967138727b56", null ],
-    [ "OnGameObjectCreate", "df/dcd/a10104.html#afa02089edff085ecd4eb7178b94ffe26", null ],
-    [ "OnGameObjectRemove", "df/dcd/a10104.html#a61c1ab81f65b4bfdf638eec002cb498c", null ],
-    [ "OnUnitDeath", "df/dcd/a10104.html#afaf1aecaaaac82508b8f1c50712b8204", null ],
-    [ "ProcessEvent", "df/dcd/a10104.html#ab32f7102df50af48e43f544bd107f964", null ],
-    [ "SetData", "df/dcd/a10104.html#a949e67ea24c7e4b70a20806952735576", null ],
-    [ "SetData64", "df/dcd/a10104.html#a321c2fc00f1d3d261a4887a1e74f4244", null ],
-    [ "SetGuidData", "df/dcd/a10104.html#ac465d5e7d00a7e3b935942f1627763f4", null ]
+    [ "LFGUpdateRequest", "df/dcd/a10104.html#a85900fc44d5dfb5595fbe7dc3422dfaa", null ],
+    [ "call", "df/dcd/a10104.html#a15258001db5870a0f52bb0c72cba3587", null ],
+    [ "m_diff", "df/dcd/a10104.html#a27e818e5d985ac91be6eca14a1ebd73f", null ],
+    [ "m_updater", "df/dcd/a10104.html#a1bb4423241495aebab83ebc1acf66510", null ]
 ];

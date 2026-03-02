@@ -1,21 +1,14 @@
 var a09920 =
 [
-    [ "LootGroup", "dd/d11/a09900.html", "dd/d11/a09900" ],
-    [ "LootGroups", "d6/dc0/a09920.html#ae9845401121ac8712dc8dfac9c58c72e", null ],
-    [ "LootTemplate", "d6/dc0/a09920.html#a533d3acacc8086a6f8f75013dd790a94", null ],
-    [ "~LootTemplate", "d6/dc0/a09920.html#a90b641a69173129d7114c303cd5a31b5", null ],
-    [ "LootTemplate", "d6/dc0/a09920.html#a73cc21e48ec8e63b2664a4ece9a3ab21", null ],
-    [ "addConditionItem", "d6/dc0/a09920.html#afb33c896a89f0fe14e2b565bb746119e", null ],
-    [ "AddEntry", "d6/dc0/a09920.html#a6efe32c6f83184ae0bf0423a7f23118a", null ],
-    [ "CheckLootRefs", "d6/dc0/a09920.html#a19e8a2736ba5fd376ad3854cbc68867d", null ],
-    [ "CopyConditions", "d6/dc0/a09920.html#a5935f936e90ecc860c49d256127d9726", null ],
-    [ "CopyConditions", "d6/dc0/a09920.html#a477c848bcf79153cc430c8d03bbea054", null ],
-    [ "HasQuestDrop", "d6/dc0/a09920.html#ae88cc77aa554940030613a15cc05c045", null ],
-    [ "HasQuestDropForPlayer", "d6/dc0/a09920.html#a7835ebf003ae3d665656efcc923daaeb", null ],
-    [ "isReference", "d6/dc0/a09920.html#acdf75466d9f29ff8a4532c4b6e15bd03", null ],
-    [ "operator=", "d6/dc0/a09920.html#a92de3d68e0ec2ab31b1dd17279a3f832", null ],
-    [ "Process", "d6/dc0/a09920.html#ae3f86961858f299f8e7ca683733bb127", null ],
-    [ "Verify", "d6/dc0/a09920.html#adedb1f03278aaeac63deb3dd32e07329", null ],
-    [ "Entries", "d6/dc0/a09920.html#aba1fdfb69c34a9d4a09428114d385621", null ],
-    [ "Groups", "d6/dc0/a09920.html#aec4552a98c1e27935da8ef29c9449f87", null ]
+    [ "LootItemStorage", "d6/dc0/a09920.html#aa6ece474f05744f2ce24a9fef42734af", null ],
+    [ "~LootItemStorage", "d6/dc0/a09920.html#a36faeed6ef556fd13118c4ad34e38548", null ],
+    [ "AddNewStoredLoot", "d6/dc0/a09920.html#a4c463773b50ae1b312865fbf72dfed18", null ],
+    [ "instance", "d6/dc0/a09920.html#a58d6dc6afa42364ca1dd6cbdcfb55b2b", null ],
+    [ "LoadStorageFromDB", "d6/dc0/a09920.html#a377c75f9d06eb246072b29d19baf2b62", null ],
+    [ "LoadStoredLoot", "d6/dc0/a09920.html#ad9804f564302d6ea4db4b84a6cbb093b", null ],
+    [ "RemoveEntryFromDB", "d6/dc0/a09920.html#a8ab68725c0525d162d325a2131db4c49", null ],
+    [ "RemoveStoredLoot", "d6/dc0/a09920.html#a414dee93f9852a64f01f9d9bf8dc8b40", null ],
+    [ "RemoveStoredLootItem", "d6/dc0/a09920.html#a6fd3f2ac820784ba51413b3781df3bcc", null ],
+    [ "RemoveStoredLootMoney", "d6/dc0/a09920.html#ab22d267a6701fedf824f801e4b703f70", null ],
+    [ "lootItemStore", "d6/dc0/a09920.html#a58ae52b9812e5752ba00d00a58eb56b0", null ]
 ];

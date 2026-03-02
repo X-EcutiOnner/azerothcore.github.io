@@ -1,7 +1,6 @@
 var a23928 =
 [
-    [ "HandleDummy", "d8/d6e/a23928.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "d8/d6e/a23928.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "d8/d6e/a23928.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "d8/d6e/a23928.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "npc_simon_bunnyAI", "dc/d50/a23932.html", "dc/d50/a23932" ],
+    [ "npc_simon_bunny", "d8/d6e/a23928.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
+    [ "GetAI", "d8/d6e/a23928.html#ac0c97609916321a1599c0722803a050f", null ]
 ];

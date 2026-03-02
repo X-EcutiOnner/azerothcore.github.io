@@ -1,8 +1,7 @@
 var a28988 =
 [
-    [ "ID", "d3/d0e/a28988.html#a36958c346c8554d9ab1cfb73ac583818", null ],
-    [ "Model", "d3/d0e/a28988.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
-    [ "Origin", "d3/d0e/a28988.html#a684c69add50ee545ee606ae456a93336", null ],
-    [ "OriginFacing", "d3/d0e/a28988.html#a460723250353c7720cd87677991283cf", null ],
-    [ "SoundID", "d3/d0e/a28988.html#aa56be05c7ab4015738e049d75ff365c6", null ]
+    [ "cutPercent", "d3/d0e/a28988.html#a8581a6a5198dab10680f477a477a7c80", null ],
+    [ "depositPercent", "d3/d0e/a28988.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
+    [ "faction", "d3/d0e/a28988.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
+    [ "houseId", "d3/d0e/a28988.html#a1bf77c1b14731def0e3de44143df2eed", null ]
 ];

@@ -1,6 +1,9 @@
 var a18624 =
 [
-    [ "LichKingMovieEvent", "dc/daf/a18624.html#a3e48e13dc5166c73a9f379045988f86a", null ],
-    [ "Execute", "dc/daf/a18624.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
-    [ "_owner", "dc/daf/a18624.html#a7ed68f442a644d6bb7a036812351d89e", null ]
+    [ "ShadowTrapLKTargetSelector", "dc/daf/a18624.html#a33561775948e07ac6ade2037f237441d", null ],
+    [ "operator()", "dc/daf/a18624.html#a3770329509c6ab2f16ae369ea8d72645", null ],
+    [ "_maxDist", "dc/daf/a18624.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
+    [ "_playerOnly", "dc/daf/a18624.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
+    [ "_reqLOS", "dc/daf/a18624.html#a7911be23196f59d55028affc3be23c20", null ],
+    [ "_source", "dc/daf/a18624.html#af416013aabf3b217b07228072076603d", null ]
 ];

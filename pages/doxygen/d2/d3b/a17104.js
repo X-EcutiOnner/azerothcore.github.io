@@ -1,7 +1,6 @@
 var a17104 =
 [
-    [ "HandleScriptEffect", "d2/d3b/a17104.html#a51064b3a11f453724ae0879c80eaf8df", null ],
-    [ "PrepareSpellScript", "d2/d3b/a17104.html#aac26002ff107e609fb7258306b430f1b", null ],
-    [ "Register", "d2/d3b/a17104.html#a0efef7644706940e3929ce99cd162c91", null ],
-    [ "Validate", "d2/d3b/a17104.html#a7110d4136337d44aa0300ec82e5a6511", null ]
+    [ "instance_trial_of_the_crusader_InstanceMapScript", "d7/d0d/a17108.html", "d7/d0d/a17108" ],
+    [ "instance_trial_of_the_crusader", "d2/d3b/a17104.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
+    [ "GetInstanceScript", "d2/d3b/a17104.html#a792034e9e5687bf5fa543175692bed66", null ]
 ];

@@ -1,39 +1,24 @@
 var a02558 =
 [
-    [ "spell_winter_veil_mistletoe", "d0/d55/a15008.html", "d0/d55/a15008" ],
-    [ "spell_winter_wondervolt_trap", "d3/d7e/a15012.html", "d3/d7e/a15012" ],
-    [ "spell_winter_veil_racer_rocket_slam", "de/da1/a15016.html", "de/da1/a15016" ],
-    [ "spell_winter_veil_racer_slam_hit", "dd/d8d/a15020.html", "dd/d8d/a15020" ],
-    [ "spell_winter_veil_shoot_air_rifle", "d8/d58/a15024.html", "d8/d58/a15024" ],
-    [ "airRifle", "df/d23/a02558.html#a0a0aa9e1464024e9f2c7b6ec598e13ff", [
-      [ "SPELL_AIR_RIFLE_RIGHT_IN_THE_EYE", "df/d23/a02558.html#a0a0aa9e1464024e9f2c7b6ec598e13ffa5a3aacd3d3eb74e1020f0e24c3de3d64", null ],
-      [ "SPELL_AIR_RIFLE_STARLED", "df/d23/a02558.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaab4b4a71800d5b266ac17392701535bd", null ],
-      [ "SPELL_AIR_RIFLE_HIT", "df/d23/a02558.html#a0a0aa9e1464024e9f2c7b6ec598e13ffadebbc458f6f97c23c78a5d77355557a0", null ],
-      [ "SPELL_AIR_RIFLE_HIT_TRIGGER", "df/d23/a02558.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaef31b2903ed373a76624e81b5928b3af", null ],
-      [ "SPELL_AIR_RIFLE_PELTED_DAMAGE", "df/d23/a02558.html#a0a0aa9e1464024e9f2c7b6ec598e13ffada448247eeb3a3e93e78e6d367af2ea4", null ]
-    ] ],
-    [ "crashinTrashin", "df/d23/a02558.html#a91189806a3728bf253348c6acff4d44a", [
-      [ "SPELL_BLUE_CAR_VISUAL", "df/d23/a02558.html#a91189806a3728bf253348c6acff4d44aa2a1df012693fca95e41c96fe1dcfc303", null ],
-      [ "SPELL_RED_CAR_VISUAL", "df/d23/a02558.html#a91189806a3728bf253348c6acff4d44aa83ccfea77911f91274ab6b76a13ebae9", null ],
-      [ "NPC_RED_RACER", "df/d23/a02558.html#a91189806a3728bf253348c6acff4d44aa3a540ecf55e0e9719a7b1ecc0d089e83", null ],
-      [ "NPC_BLUE_RACER", "df/d23/a02558.html#a91189806a3728bf253348c6acff4d44aa29832a92f722fc5ef6e6e0e28c43ace3", null ],
-      [ "SPELL_RACER_DEATH_VISUAL", "df/d23/a02558.html#a91189806a3728bf253348c6acff4d44aa20ebf97f0f750e11499595b1e7908b4e", null ],
-      [ "SPELL_RACER_CHARGE_TO_OBJECT", "df/d23/a02558.html#a91189806a3728bf253348c6acff4d44aa16c954e8ddff4772f6cc38ccdaa4537a", null ],
-      [ "SPELL_RACER_KILL_COUNTER", "df/d23/a02558.html#a91189806a3728bf253348c6acff4d44aad39b98fd63372c2d7f9b59e290a38a68", null ],
-      [ "SPELL_RACER_SLAM_HIT", "df/d23/a02558.html#a91189806a3728bf253348c6acff4d44aaf80af723709c8607c78c552286259f0b", null ],
-      [ "SPELL_RACER_FLAMES", "df/d23/a02558.html#a91189806a3728bf253348c6acff4d44aac4f06456e8aa8d185db27f65280e3410", null ],
-      [ "RACER_ACHI_CRITERIA", "df/d23/a02558.html#a91189806a3728bf253348c6acff4d44aa0c0977d0fa0c060c272d5a9f59f63f5d", null ]
-    ] ],
-    [ "Mistletoe", "df/d23/a02558.html#a9ae560d3a366e6f163d4fbfd29d339ac", [
-      [ "SPELL_CREATE_MISTLETOE", "df/d23/a02558.html#a9ae560d3a366e6f163d4fbfd29d339acafdfb3de4159c5083ea35693ceae8b4cc", null ],
-      [ "SPELL_CREATE_HOLLY", "df/d23/a02558.html#a9ae560d3a366e6f163d4fbfd29d339aca3935eb67c5b7dbbdca5783cb17586508", null ],
-      [ "SPELL_CREATE_SNOWFLAKES", "df/d23/a02558.html#a9ae560d3a366e6f163d4fbfd29d339aca6fe4f2b2975d9ebf9ed4f806f9c8427a", null ]
-    ] ],
-    [ "winterWondervoltTrap", "df/d23/a02558.html#a09023d9a36f692674809d983e0b46bb5", [
-      [ "SPELL_WINTER_WONDERVOLT_GREEN_WOMEN", "df/d23/a02558.html#a09023d9a36f692674809d983e0b46bb5a584ffc066b04a87863dd3bdaa091d6b6", null ],
-      [ "SPELL_WINTER_WONDERVOLT_GREEN_MAN", "df/d23/a02558.html#a09023d9a36f692674809d983e0b46bb5a962c9fffba35e4a119f563b8656912db", null ],
-      [ "SPELL_WINTER_WONDERVOLT_RED_WOMEN", "df/d23/a02558.html#a09023d9a36f692674809d983e0b46bb5a08177bc4e663c11752af81f832011bf6", null ],
-      [ "SPELL_WINTER_WONDERVOLT_RED_MAN", "df/d23/a02558.html#a09023d9a36f692674809d983e0b46bb5a7892046e23913f511b843d5a766e4dd0", null ]
-    ] ],
-    [ "AddSC_event_winter_veil_scripts", "df/d23/a02558.html#a56e93f0f5c0f4763c439d5ea4cdf6c5e", null ]
+    [ "CharacterDatabasePreparedStatement", "df/d23/a02558.html#adabd50def0511ee540f8e1296c8cf782", null ],
+    [ "CharacterDatabaseQueryHolder", "df/d23/a02558.html#a350c68a4024b7fe5ae02a70f35c149d8", null ],
+    [ "CharacterDatabaseTransaction", "df/d23/a02558.html#a96bac9a371212c6bab7a9448214666c0", null ],
+    [ "LoginDatabasePreparedStatement", "df/d23/a02558.html#acd39cc80301f953b6d9adfee2f9585c8", null ],
+    [ "LoginDatabaseQueryHolder", "df/d23/a02558.html#a3e04fac4bd7cb26970c374dd1787cbbb", null ],
+    [ "LoginDatabaseTransaction", "df/d23/a02558.html#aa0ef7192ac59bc820849e5e21e3e08b7", null ],
+    [ "PreparedQueryResult", "df/d23/a02558.html#ac6110b8d867b5f84f677555d07037acb", null ],
+    [ "PreparedQueryResultFuture", "df/d23/a02558.html#a2011f9efd3a5d95695395eba86e79fab", null ],
+    [ "PreparedQueryResultPromise", "df/d23/a02558.html#a1b3aab1f5d953820d83af94034da3da2", null ],
+    [ "QueryCallbackProcessor", "df/d23/a02558.html#ab28e91495454917e2f4623ba259c3b2a", null ],
+    [ "QueryResult", "df/d23/a02558.html#ab0c9feeec448a181290fcb39565b8253", null ],
+    [ "QueryResultFuture", "df/d23/a02558.html#aaafe95f05c6db404e8bb61be587c7ca1", null ],
+    [ "QueryResultHolderFuture", "df/d23/a02558.html#afa682c0dbd4467d34bc28101c82c8959", null ],
+    [ "QueryResultHolderPromise", "df/d23/a02558.html#ad57a63776c96b99707576dd6f1ff7c29", null ],
+    [ "QueryResultPromise", "df/d23/a02558.html#a57de3b80b12c90e51398bf934fdc828b", null ],
+    [ "SQLTransaction", "df/d23/a02558.html#ab2badaea4b4827995daef3e2dec0f9cd", null ],
+    [ "TransactionFuture", "df/d23/a02558.html#ad8826e834522c9cacfd021d4529b4f87", null ],
+    [ "TransactionPromise", "df/d23/a02558.html#a363198b2c33dce9fd461ffd94bf063ac", null ],
+    [ "WorldDatabasePreparedStatement", "df/d23/a02558.html#a9a67db2ce35b3ac1d187318422f3ee95", null ],
+    [ "WorldDatabaseQueryHolder", "df/d23/a02558.html#a671c534314a7e095bb2bf72e2cc0fcbb", null ],
+    [ "WorldDatabaseTransaction", "df/d23/a02558.html#a858dac975c33053feb33400380cec907", null ]
 ];

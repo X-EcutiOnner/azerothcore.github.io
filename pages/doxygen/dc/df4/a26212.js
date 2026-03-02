@@ -1,8 +1,8 @@
 var a26212 =
 [
-    [ "AfterApply", "dc/df4/a26212.html#a972d3ec2a26bbf93e47f696f44ff22b0", null ],
-    [ "AfterRemove", "dc/df4/a26212.html#a29d4dbe7d36d256cf89fdde1bbabac85", null ],
-    [ "PrepareAuraScript", "dc/df4/a26212.html#a1e44672c1f47dbd8e57f7653d905e3e6", null ],
-    [ "Register", "dc/df4/a26212.html#a293ea418e290d96bbcaaed24cad663b0", null ],
-    [ "Validate", "dc/df4/a26212.html#aa67afc85c142006efad986859f14941c", null ]
+    [ "HandleProc", "dc/df4/a26212.html#a2d5eff84e8df9c34fd4be6a98c2f5eb0", null ],
+    [ "OnRemove", "dc/df4/a26212.html#aec98f9b3b6fb458becb215d2c0e62149", null ],
+    [ "PrepareAuraScript", "dc/df4/a26212.html#af498da6d5732c51cf7b3e95633341107", null ],
+    [ "Register", "dc/df4/a26212.html#a846a3dd6335fc2830e51fff2e5d82ee2", null ],
+    [ "Validate", "dc/df4/a26212.html#a49218a89f9915a14b3a98f073d382f91", null ]
 ];

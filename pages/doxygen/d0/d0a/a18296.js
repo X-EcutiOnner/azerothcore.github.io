@@ -1,6 +1,6 @@
 var a18296 =
 [
-    [ "PrepareSpellScript", "d0/d0a/a18296.html#a16eadb50b6038f16ea28464d00df3381", null ],
-    [ "Register", "d0/d0a/a18296.html#ac6e304d391011863b8eff8105fab5191", null ],
-    [ "SelectDest", "d0/d0a/a18296.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
+    [ "boss_professor_putricideAI", "d5/d97/a18300.html", "d5/d97/a18300" ],
+    [ "boss_professor_putricide", "d0/d0a/a18296.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "d0/d0a/a18296.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

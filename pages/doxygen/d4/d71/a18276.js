@@ -1,6 +1,6 @@
 var a18276 =
 [
-    [ "npc_volatile_oozeAI", "d3/d41/a18280.html", "d3/d41/a18280" ],
-    [ "npc_volatile_ooze", "d4/d71/a18276.html#a22847e44812a0b13b92cfcca3a70204e", null ],
-    [ "GetAI", "d4/d71/a18276.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
+    [ "PrepareSpellScript", "d4/d71/a18276.html#a9041ce6139de9a48621d6898ddcca673", null ],
+    [ "RecalculateDamage", "d4/d71/a18276.html#abfb7c002577a59864fb2aa069b713c0a", null ],
+    [ "Register", "d4/d71/a18276.html#a4308449e8cbe7ed59598a837024141cb", null ]
 ];

@@ -1,12 +1,12 @@
 var a13796 =
 [
-    [ "npc_kiljaeden_controller", "d6/dde/a13796.html#aabe4e5af5ad142bac6cdaa4f6787a7bc", null ],
-    [ "JustDied", "d6/dde/a13796.html#a86c4d79a8caf8a838e353bbf1b78c56d", null ],
-    [ "JustSummoned", "d6/dde/a13796.html#af28211012d8398a450439b8e24bf60ce", null ],
-    [ "Reset", "d6/dde/a13796.html#a11f6f8e86c3ecdecf8e4c5bcb76f8664", null ],
-    [ "ResetOrbs", "d6/dde/a13796.html#a4daacfe92ddb39ade57df3a1bbcd79fd", null ],
-    [ "SummonedCreatureDies", "d6/dde/a13796.html#aed2772552dd500c180c3db4aeef8359a", null ],
-    [ "UpdateAI", "d6/dde/a13796.html#a9f24328d9ffd94ecf3d15303a71acb9b", null ],
-    [ "instance", "d6/dde/a13796.html#a2cb872334b9dd6a4f87468b41f164fc4", null ],
-    [ "summons", "d6/dde/a13796.html#a116a739b2bff3257b35ff7946a3d1995", null ]
+    [ "boss_kalecgos", "d6/dde/a13796.html#a9a3eaee76ada967445cc0ed3d5ed21d2", null ],
+    [ "CanAIAttack", "d6/dde/a13796.html#aa810a7eae5a6b1102e2e96022eaf5085", null ],
+    [ "CheckInRoom", "d6/dde/a13796.html#a99cf385b11044c364b23fa8fc7e755ee", null ],
+    [ "ClearPlayerAuras", "d6/dde/a13796.html#a17ffb7ec1b591acb0e5c359cb73ed2f6", null ],
+    [ "DoAction", "d6/dde/a13796.html#aaccfa519a7290eb56990e43de4beea97", null ],
+    [ "JustEngagedWith", "d6/dde/a13796.html#ab4d440dd0b66002b840bc4b3d3a8f7ef", null ],
+    [ "KilledUnit", "d6/dde/a13796.html#a9844d54a8334ae5d20689593cd8a5e1a", null ],
+    [ "Reset", "d6/dde/a13796.html#ad30cbd6d6fe343b9eb44fb96b0779551", null ],
+    [ "_sathBanished", "d6/dde/a13796.html#a595eb66eb6f820efa29fcc5d631fe159", null ]
 ];

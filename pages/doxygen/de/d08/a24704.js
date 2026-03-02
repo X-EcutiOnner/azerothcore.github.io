@@ -1,7 +1,7 @@
 var a24704 =
 [
-    [ "HandleScriptEffect", "de/d08/a24704.html#a3a33f0ec477ff3b4b19fc98760a2dae7", null ],
-    [ "PrepareSpellScript", "de/d08/a24704.html#ae29c4f69a34e71011192df12509e2935", null ],
-    [ "Register", "de/d08/a24704.html#ae37da44bde25f6bdb5b4a382ab66b7be", null ],
-    [ "Validate", "de/d08/a24704.html#af9056c179b8089cf0b304b3ce61ea92f", null ]
+    [ "CalculateAmount", "de/d08/a24704.html#af51a8e22ddfe0648f08a4190d730fbda", null ],
+    [ "CheckProc", "de/d08/a24704.html#a2f80dcd9e5922af55dee096c95079062", null ],
+    [ "PrepareAuraScript", "de/d08/a24704.html#af54ef254d0897140255960146507e986", null ],
+    [ "Register", "de/d08/a24704.html#ad6e4bd4390f6f88494984af792a11b90", null ]
 ];

@@ -1,7 +1,6 @@
 var a18676 =
 [
-    [ "OnPeriodic", "d4/d82/a18676.html#accd12b06341f3168c74cb18926614f7f", null ],
-    [ "OnUpdate", "d4/d82/a18676.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
-    [ "PrepareAuraScript", "d4/d82/a18676.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
-    [ "Register", "d4/d82/a18676.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
+    [ "npc_tirion_fordringAI", "d7/d8f/a18680.html", "d7/d8f/a18680" ],
+    [ "npc_tirion_fordring_tft", "d4/d82/a18676.html#a04036d958e7ac643c9ba8d9073bca404", null ],
+    [ "GetAI", "d4/d82/a18676.html#a41dcfa415831091531cbf46e946f442d", null ]
 ];

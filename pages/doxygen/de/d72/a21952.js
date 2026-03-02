@@ -1,6 +1,6 @@
 var a21952 =
 [
-    [ "npc_black_knight_graveyardAI", "de/d1a/a21956.html", "de/d1a/a21956" ],
-    [ "npc_black_knight_graveyard", "de/d72/a21952.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
-    [ "GetAI", "de/d72/a21952.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
+    [ "npc_razael_and_lyana", "de/d72/a21952.html#aec7257a1136a3580e2b4542e032429d6", null ],
+    [ "OnGossipHello", "de/d72/a21952.html#a9c9085db92853d5275c12e804a68b0fc", null ],
+    [ "OnGossipSelect", "de/d72/a21952.html#a407d8344280e8e38efb3991fda1d52cd", null ]
 ];

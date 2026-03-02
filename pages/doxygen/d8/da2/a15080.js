@@ -1,7 +1,7 @@
 var a15080 =
 [
-    [ "PeriodicTick", "d8/da2/a15080.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
-    [ "PrepareAuraScript", "d8/da2/a15080.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
-    [ "Register", "d8/da2/a15080.html#a24058b120f4fa06b89f6d582c53a365a", null ],
-    [ "Validate", "d8/da2/a15080.html#a093b09be5abde91a1487d67a7a554d30", null ]
+    [ "HandleOnHit", "d8/da2/a15080.html#ae3241486a612293b5421a523f6d854d9", null ],
+    [ "PrepareSpellScript", "d8/da2/a15080.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
+    [ "Register", "d8/da2/a15080.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
+    [ "Validate", "d8/da2/a15080.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
 ];

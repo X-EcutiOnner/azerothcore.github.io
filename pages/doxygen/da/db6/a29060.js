@@ -1,11 +1,8 @@
 var a29060 =
 [
-    [ "Displayid", "da/db6/a29060.html#a4aa3c391401f39d6f4a595f4dff0668b", null ],
-    [ "filename", "da/db6/a29060.html#a0cee5b90a15b39e1ff49231e332cc320", null ],
-    [ "maxX", "da/db6/a29060.html#a10563ae885d34e516825a18db95b40e7", null ],
-    [ "maxY", "da/db6/a29060.html#a711286df6d2bd74246dee2170052c17a", null ],
-    [ "maxZ", "da/db6/a29060.html#acb74e32790b2c60cca5faef1caa225e4", null ],
-    [ "minX", "da/db6/a29060.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da", null ],
-    [ "minY", "da/db6/a29060.html#a7168f5b3229bd27edde78e88bf7dc20a", null ],
-    [ "minZ", "da/db6/a29060.html#ac88aefc2530212b9dff10e018c4e9305", null ]
+    [ "DamagedDisplayId", "da/db6/a29060.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
+    [ "DestroyedDisplayId", "da/db6/a29060.html#afc891df0c9491a34f784e8f141434be5", null ],
+    [ "Id", "da/db6/a29060.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
+    [ "RebuildingDisplayId", "da/db6/a29060.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
+    [ "SmokeDisplayId", "da/db6/a29060.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
 ];

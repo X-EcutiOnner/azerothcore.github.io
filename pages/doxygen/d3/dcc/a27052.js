@@ -1,6 +1,7 @@
 var a27052 =
 [
-    [ "HandleDummy", "d3/dcc/a27052.html#aee5967205738ebaef70e1105e8d91b2c", null ],
-    [ "PrepareSpellScript", "d3/dcc/a27052.html#a1ef5914adfd2c951a68f50658852e095", null ],
-    [ "Register", "d3/dcc/a27052.html#af42b6d5a5fbb5eb84773818594813afc", null ]
+    [ "HandleEffectApply", "d3/dcc/a27052.html#a475d0bab96e226853368be3b68c5a2d3", null ],
+    [ "HandleEffectRemove", "d3/dcc/a27052.html#aa22a095e40789ac562a64c20d7eadb28", null ],
+    [ "PrepareAuraScript", "d3/dcc/a27052.html#a2b06b0dc1a4c2f5b5e4657e11a097660", null ],
+    [ "Register", "d3/dcc/a27052.html#a91e75a059828a30d509fd22be19048f8", null ]
 ];

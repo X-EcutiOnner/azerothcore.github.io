@@ -1,7 +1,7 @@
 var a18588 =
 [
-    [ "HandleInfusion", "d7/d19/a18588.html#a9f77330d81fef646dd5d5399800cba66", null ],
-    [ "PrepareSpellScript", "d7/d19/a18588.html#ae0a272902b0a9f74058c1dbe62974358", null ],
-    [ "Register", "d7/d19/a18588.html#ad759f6215e722f799156b4bdddcb7af1", null ],
-    [ "Validate", "d7/d19/a18588.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
+    [ "HandleTriggerMissile", "d7/d19/a18588.html#af6370594be48d35a12009fa10a38d91d", null ],
+    [ "PrepareSpellScript", "d7/d19/a18588.html#aeeca4381273f382c3abb68f34d229213", null ],
+    [ "Register", "d7/d19/a18588.html#a0b79f5ee23e53c18277712f1b26e13f3", null ],
+    [ "Validate", "d7/d19/a18588.html#abe0b9290ddf9beaa60a583840d90d914", null ]
 ];

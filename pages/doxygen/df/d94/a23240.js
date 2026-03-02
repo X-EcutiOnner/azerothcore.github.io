@@ -1,8 +1,7 @@
 var a23240 =
 [
-    [ "FilterTargets", "df/d94/a23240.html#a8687ba9c22299e62e5911a3729fa4a0a", null ],
-    [ "HandleDummy", "df/d94/a23240.html#addb3580259be74126b7de36d1b0a8a97", null ],
-    [ "PrepareSpellScript", "df/d94/a23240.html#aba82de0886d03037de4564f9908b8c89", null ],
-    [ "Register", "df/d94/a23240.html#a1650962493d48f5553a9e2771e594f1f", null ],
-    [ "Validate", "df/d94/a23240.html#a0a29926e43bd5ff58ca7ad79df6f8cc1", null ]
+    [ "npc_ahune_ice_spear_bunny", "df/d94/a23240.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
+    [ "InitializeAI", "df/d94/a23240.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
+    [ "UpdateAI", "df/d94/a23240.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
+    [ "_scheduler", "df/d94/a23240.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
 ];

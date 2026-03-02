@@ -1,8 +1,6 @@
 var a12824 =
 [
-    [ "boss_garrAI", "d7/d3c/a12824.html#a12d403a90bf4920763ddd87b252f544a", null ],
-    [ "JustEngagedWith", "d7/d3c/a12824.html#a3b2bf0e6d3b6b32c450d03b1c88f3850", null ],
-    [ "Reset", "d7/d3c/a12824.html#acb14e869dac8e7df83b5b9d858cd2b21", null ],
-    [ "UpdateAI", "d7/d3c/a12824.html#aca82837e143f4509db221de15276b90c", null ],
-    [ "massEruptionTimer", "d7/d3c/a12824.html#ab807c47afd1ba8320730c3aa733e1b15", null ]
+    [ "instance_blackwing_lair_InstanceMapScript", "d1/d60/a12828.html", "d1/d60/a12828" ],
+    [ "instance_blackwing_lair", "d7/d3c/a12824.html#afb9a7ce1ac297b023aa8364cc1383336", null ],
+    [ "GetInstanceScript", "d7/d3c/a12824.html#a70aff4e1bb406f232d0b4961037ed0a1", null ]
 ];

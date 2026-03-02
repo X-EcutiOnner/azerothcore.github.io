@@ -1,8 +1,10 @@
 var a28304 =
 [
-    [ "trigger_periodicAI", "d2/d1f/a28304.html#a696d62fed28de9c67827dad111cf320b", null ],
-    [ "UpdateAI", "d2/d1f/a28304.html#aed31d60765eff7dd11790714e28e729e", null ],
-    [ "interval", "d2/d1f/a28304.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
-    [ "spell", "d2/d1f/a28304.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
-    [ "timer", "d2/d1f/a28304.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
+    [ "guard_shattrath_aldorAI", "d2/d1f/a28304.html#a88961dfe4100dfe207af693a1eed86ad", null ],
+    [ "Reset", "d2/d1f/a28304.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
+    [ "UpdateAI", "d2/d1f/a28304.html#ac87ee12d4487971b68c70f06f63eb410", null ],
+    [ "banishTimer", "d2/d1f/a28304.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
+    [ "canTeleport", "d2/d1f/a28304.html#af4d933b56431d2f2755d87fb05922458", null ],
+    [ "exileTimer", "d2/d1f/a28304.html#a8d56205206f3e14184922f96873456ad", null ],
+    [ "playerGUID", "d2/d1f/a28304.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
 ];

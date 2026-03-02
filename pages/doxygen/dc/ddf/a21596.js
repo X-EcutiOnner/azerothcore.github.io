@@ -1,6 +1,7 @@
 var a21596 =
 [
-    [ "npc_archmage_landalockAI", "da/daa/a21600.html", "da/daa/a21600" ],
-    [ "npc_archmage_landalock", "dc/ddf/a21596.html#ac7379ff07740123312af66ead64df4c6", null ],
-    [ "GetAI", "dc/ddf/a21596.html#a92cfa8c2660413681297bfe12815c938", null ]
+    [ "npc_warmage_violetstand", "dc/ddf/a21596.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "dc/ddf/a21596.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "dc/ddf/a21596.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "dc/ddf/a21596.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

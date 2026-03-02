@@ -1,5 +1,6 @@
 var a17116 =
 [
-    [ "achievement_oh_novos", "d3/d5c/a17116.html#a31ca1f458c384401af107cb8f709ef61", null ],
-    [ "OnCheck", "d3/d5c/a17116.html#a3b922d9ed709ed46edca794f5ccf858f", null ]
+    [ "boss_dredAI", "db/dd5/a17120.html", "db/dd5/a17120" ],
+    [ "boss_dred", "d3/d5c/a17116.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
+    [ "GetAI", "d3/d5c/a17116.html#ab8276b185f80a92a54327ea28b19c704", null ]
 ];

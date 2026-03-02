@@ -1,7 +1,7 @@
 var a20356 =
 [
-    [ "HandleAfterHit", "d1/d33/a20356.html#a75953cbb3a288fd373e602ed07d84441", null ],
-    [ "PrepareSpellScript", "d1/d33/a20356.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
-    [ "Register", "d1/d33/a20356.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
-    [ "Validate", "d1/d33/a20356.html#aea2b951dd2353800958f654df58d8fd8", null ]
+    [ "npc_ulduar_saronite_vapors", "d1/d33/a20356.html#a1b582f4b98f596d701d9f5742d345e44", null ],
+    [ "IsSummonedBy", "d1/d33/a20356.html#a5efda334c3166dce2d1ca9655658b4d2", null ],
+    [ "JustDied", "d1/d33/a20356.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
+    [ "pInstance", "d1/d33/a20356.html#aaa51547a77bcd8aa53c7a057e3ca37d6", null ]
 ];

@@ -1,8 +1,6 @@
 var a08912 =
 [
-    [ "DiminishingReturn", "d5/dc9/a08912.html#acd4828637710636d0164fced285c854d", null ],
-    [ "DRGroup", "d5/dc9/a08912.html#add3ab95d65e283a326e1922129941ae4", null ],
-    [ "hitCount", "d5/dc9/a08912.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
-    [ "hitTime", "d5/dc9/a08912.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
-    [ "stack", "d5/dc9/a08912.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
+    [ "GlobalCooldown", "d5/dc9/a08912.html#a5859ccec9d1fdf0a8f11f5ab77c135a9", null ],
+    [ "cast_time", "d5/dc9/a08912.html#a7e2fe46367bad59669b0f2fd33736b30", null ],
+    [ "duration", "d5/dc9/a08912.html#a7fbf3127e4a2cc93171934148275ae1d", null ]
 ];

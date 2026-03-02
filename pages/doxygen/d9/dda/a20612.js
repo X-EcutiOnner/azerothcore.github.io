@@ -1,5 +1,7 @@
 var a20612 =
 [
-    [ "npc_ulduar_rocket_strike_trigger", "d9/dda/a20612.html#aeed5dd446c67bba7edac698fe5e237c8", null ],
-    [ "SpellHitTarget", "d9/dda/a20612.html#ad4a438c5143a6de2b469baa28f0893c5", null ]
+    [ "HandleEffectPeriodic", "d9/dda/a20612.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
+    [ "PrepareAuraScript", "d9/dda/a20612.html#af432e810a46e35f95bb0b3b2eaada132", null ],
+    [ "Register", "d9/dda/a20612.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
+    [ "Validate", "d9/dda/a20612.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
 ];

@@ -1,6 +1,7 @@
 var a23792 =
 [
-    [ "FilterTargets", "d3/ded/a23792.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
-    [ "PrepareSpellScript", "d3/ded/a23792.html#afa186c0b0728e3462f8984189613f9a7", null ],
-    [ "Register", "d3/ded/a23792.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
+    [ "HandleEffect", "d3/ded/a23792.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
+    [ "PrepareSpellScript", "d3/ded/a23792.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
+    [ "Register", "d3/ded/a23792.html#ac406946bb793125d49006e3a877c9638", null ],
+    [ "SelectTarget", "d3/ded/a23792.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
 ];

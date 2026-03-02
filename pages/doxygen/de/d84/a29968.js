@@ -1,7 +1,10 @@
 var a29968 =
 [
-    [ "_pad", "de/d84/a29968.html#ad6e8aff776dfb6fa95c30d0318b3af25", null ],
-    [ "Count", "de/d84/a29968.html#ac90dd584efc679554d4cee31c988c7c8", null ],
-    [ "Name", "de/d84/a29968.html#ae93b772cbbe91b9ed55c78e22317c8dd", null ],
-    [ "StartIndex", "de/d84/a29968.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa", null ]
+    [ "maxSimplificationError", "de/d84/a29968.html#a010878a247d639234d2bb8571280aca6", null ],
+    [ "vertexPerMapEdge", "de/d84/a29968.html#af620af11a09215f106fc6704c88fa411", null ],
+    [ "vertexPerTileEdge", "de/d84/a29968.html#a5a801e68fac6d59c1a236aeaf374bc9e", null ],
+    [ "walkableClimb", "de/d84/a29968.html#aa5f6c5daf51b6390b7146f9a8d6de7ec", null ],
+    [ "walkableHeight", "de/d84/a29968.html#a42b9a553cb3cd5d9c39d4cb7f0f59486", null ],
+    [ "walkableRadius", "de/d84/a29968.html#a43f00aacc5e1497c169d4ba908883140", null ],
+    [ "walkableSlopeAngle", "de/d84/a29968.html#a9792dfe730bfc437797a359896a14528", null ]
 ];

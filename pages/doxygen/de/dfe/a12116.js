@@ -1,10 +1,18 @@
 var a12116 =
 [
-    [ "lfg_commandscript", "de/dfe/a12116.html#a90faaca821e4162e0aea40a4d98af62c", null ],
-    [ "GetCommands", "de/dfe/a12116.html#a324310f9b04675c277ceae44ea09fbaf", null ],
-    [ "HandleLfgCleanCommand", "de/dfe/a12116.html#a93db689dbdb97a0318d62409a863767e", null ],
-    [ "HandleLfgGroupInfoCommand", "de/dfe/a12116.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
-    [ "HandleLfgOptionsCommand", "de/dfe/a12116.html#a73187a97c883d8d1bb3765943dd98c39", null ],
-    [ "HandleLfgPlayerInfoCommand", "de/dfe/a12116.html#acdf12aff45f16904df5724ab158e3b97", null ],
-    [ "HandleLfgQueueInfoCommand", "de/dfe/a12116.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
+    [ "gobject_commandscript", "de/dfe/a12116.html#a664ffe7aa07b1e08156545675ae5dc69", null ],
+    [ "GetCommands", "de/dfe/a12116.html#a75124102670615a7b3a0ecd457ab631a", null ],
+    [ "HandleGameObjectActivateCommand", "de/dfe/a12116.html#a2512dfca6b1ae8a2476551a02caa202a", null ],
+    [ "HandleGameObjectAddCommand", "de/dfe/a12116.html#a23717867956cc0da99e3640d2b790346", null ],
+    [ "HandleGameObjectAddTempCommand", "de/dfe/a12116.html#a49908d7c180d778c43702563add17d2d", null ],
+    [ "HandleGameObjectDeleteCommand", "de/dfe/a12116.html#a06ef45827cefcc19f748c5940dfb4b1d", null ],
+    [ "HandleGameObjectInfoCommand", "de/dfe/a12116.html#a1d6e3c850b0bc2772d3f1f09877d8a40", null ],
+    [ "HandleGameObjectLoadCommand", "de/dfe/a12116.html#a1d364680fd9c8f2be42e899e9e091676", null ],
+    [ "HandleGameObjectMoveCommand", "de/dfe/a12116.html#a7098a5b0c94cb09b8c6fe08eba261d93", null ],
+    [ "HandleGameObjectNearCommand", "de/dfe/a12116.html#a156f293b3bf9c7439b62814ee8f27650", null ],
+    [ "HandleGameObjectRespawn", "de/dfe/a12116.html#aafed57aa556c8cdc0c380185b056d705", null ],
+    [ "HandleGameObjectSetPhaseCommand", "de/dfe/a12116.html#af2ac49c9fdd408be62dd4ee179c1142c", null ],
+    [ "HandleGameObjectSetStateCommand", "de/dfe/a12116.html#ae6d100f51d8b08e1576092eedc4db15f", null ],
+    [ "HandleGameObjectTargetCommand", "de/dfe/a12116.html#a11d33046310495c0a6d883a307c95632", null ],
+    [ "HandleGameObjectTurnCommand", "de/dfe/a12116.html#a75883394613b2c3501cd48f5334199b7", null ]
 ];

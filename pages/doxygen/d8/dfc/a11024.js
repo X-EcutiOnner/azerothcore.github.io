@@ -1,5 +1,6 @@
 var a11024 =
 [
-    [ "ResetInstances", "d8/dfc/a11024.html#a64d9627a48ae2bfcda68b7d04273fe18", null ],
-    [ "Read", "d8/dfc/a11024.html#a7f190f2bb133fa18e46830f68695b050", null ]
+    [ "PlayerSaveGuildEmblem", "d8/dfc/a11024.html#ae1269fb7583f0ce1703cd89d592b1485", null ],
+    [ "Write", "d8/dfc/a11024.html#a0427be2f46cba4ff6b2ca072924bca7b", null ],
+    [ "Error", "d8/dfc/a11024.html#a76930d3b74bf7b84a311b24b53d03b21", null ]
 ];

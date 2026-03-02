@@ -1,13 +1,14 @@
 var a21564 =
 [
-    [ "npc_preparations_for_war_vehicle", "d7/d41/a21564.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
-    [ "MovementInform", "d7/d41/a21564.html#a5380670d521c7805a045aeac26c7c686", null ],
-    [ "PassengerBoarded", "d7/d41/a21564.html#a84b4af01c9854cbae3fca5a59aa83763", null ],
-    [ "SpellHit", "d7/d41/a21564.html#acf861b4dae849862241f6a6a8abdcdd8", null ],
-    [ "UpdateAI", "d7/d41/a21564.html#ae40a23070d96ecf122e9de5571a845ef", null ],
-    [ "passenger_x", "d7/d41/a21564.html#ac2eb8ea5fa8f5c5206ae799e4b74b213", null ],
-    [ "passenger_y", "d7/d41/a21564.html#afd99c49b3c3b996c92def21229f1ec87", null ],
-    [ "passenger_z", "d7/d41/a21564.html#a18d051868134d8c62f64923905bf19db", null ],
-    [ "searchForShipTimer", "d7/d41/a21564.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
-    [ "transportEntry", "d7/d41/a21564.html#aa0083566387cd42750aaa56b1fa23fed", null ]
+    [ "npc_hidden_cultistAI", "d7/d41/a21564.html#a970aaa2401664337147696624cc8cac4", null ],
+    [ "AttackPlayer", "d7/d41/a21564.html#a55e3b02d05f35d134fc605a13efe9018", null ],
+    [ "Initialize", "d7/d41/a21564.html#ab9199126a5a19cc3c6dc612bc428d79c", null ],
+    [ "PreScript", "d7/d41/a21564.html#a92be5361e2b28152adcca0629b286bb8", null ],
+    [ "Reset", "d7/d41/a21564.html#afe38e448d86cdf910870d72a3890ae1f", null ],
+    [ "sGossipSelect", "d7/d41/a21564.html#adf6d85bc5a32c8bd7c125d24f67411d9", null ],
+    [ "UpdateAI", "d7/d41/a21564.html#a0bba4d10439d47d44ff856c7fec18595", null ],
+    [ "_emoteState", "d7/d41/a21564.html#adb4e884787dc480358c5be22d276ec49", null ],
+    [ "_events", "d7/d41/a21564.html#ab0494e33d16a43aa1426784d1882e41c", null ],
+    [ "_npcFlags", "d7/d41/a21564.html#aea867d06cb737e2a44445c2c8c7d6e45", null ],
+    [ "_playerGUID", "d7/d41/a21564.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18", null ]
 ];

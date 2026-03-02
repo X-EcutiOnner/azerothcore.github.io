@@ -1,8 +1,7 @@
 var a27340 =
 [
-    [ "FilterTargets", "df/d65/a27340.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
-    [ "HandleDummy", "df/d65/a27340.html#a2214b10da042a3af2fd3311872cc5286", null ],
-    [ "PrepareSpellScript", "df/d65/a27340.html#a9959966856601f79a83931a7a7ecff91", null ],
-    [ "Register", "df/d65/a27340.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
-    [ "Validate", "df/d65/a27340.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
+    [ "HandleProc", "df/d65/a27340.html#adec7010a0de4ab9e8756d345c4adff14", null ],
+    [ "PrepareAuraScript", "df/d65/a27340.html#a16986cb0bf0e46d44a640486580480aa", null ],
+    [ "Register", "df/d65/a27340.html#a093cac6e19a12d01b7dba974b595502e", null ],
+    [ "Validate", "df/d65/a27340.html#a558005f2d0ed6d42705a3e0ee940ffcc", null ]
 ];

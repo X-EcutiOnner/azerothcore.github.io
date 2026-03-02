@@ -1,6 +1,6 @@
 var a17548 =
 [
-    [ "HandleDummy", "dd/d61/a17548.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
-    [ "PrepareSpellScript", "dd/d61/a17548.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
-    [ "Register", "dd/d61/a17548.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
+    [ "npc_pos_martin_or_gorkun_secondAI", "da/d6d/a17552.html", "da/d6d/a17552" ],
+    [ "npc_pos_martin_or_gorkun_second", "dd/d61/a17548.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
+    [ "GetAI", "dd/d61/a17548.html#a180936e3bb98eb55d29ebd51350906c0", null ]
 ];

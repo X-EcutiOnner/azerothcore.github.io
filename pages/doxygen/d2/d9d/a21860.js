@@ -1,9 +1,6 @@
 var a21860 =
 [
-    [ "npc_venture_co_stragglerAI", "d2/d9d/a21860.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
-    [ "Reset", "d2/d9d/a21860.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
-    [ "SpellHit", "d2/d9d/a21860.html#ae1919454c270d10342079b60a727a306", null ],
-    [ "UpdateAI", "d2/d9d/a21860.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
-    [ "_events", "d2/d9d/a21860.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
-    [ "_playerGUID", "d2/d9d/a21860.html#a649493944b143782d995b5bdda3714b4", null ]
+    [ "npc_ravenous_worgAI", "d3/dbd/a21864.html", "d3/dbd/a21864" ],
+    [ "npc_ravenous_worg", "d2/d9d/a21860.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
+    [ "GetAI", "d2/d9d/a21860.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
 ];

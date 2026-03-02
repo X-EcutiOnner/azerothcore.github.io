@@ -1,6 +1,7 @@
 var a26912 =
 [
-    [ "CheckCast", "d7/d2f/a26912.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
-    [ "PrepareSpellScript", "d7/d2f/a26912.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
-    [ "Register", "d7/d2f/a26912.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
+    [ "HandleProc", "d7/d2f/a26912.html#af27f9408725ff9c7ec17e8ae352234a9", null ],
+    [ "PrepareAuraScript", "d7/d2f/a26912.html#a11c2e125d7a583966be3f8a64064a5ad", null ],
+    [ "Register", "d7/d2f/a26912.html#a283f05b3649e3c137679ab92386f7a84", null ],
+    [ "Validate", "d7/d2f/a26912.html#a4805c758dc85e065cdb9550a5856fe31", null ]
 ];

@@ -1,17 +1,12 @@
 var a11588 =
 [
-    [ "StaticData", "d7/d24/a11592.html", "d7/d24/a11592" ],
-    [ "SpellImplicitTargetInfo", "d6/daa/a11588.html#a6eadac193f40d3a14db74d6e07552bdb", null ],
-    [ "SpellImplicitTargetInfo", "d6/daa/a11588.html#a8e746c8dd4956a1bedc78c932740dfca", null ],
-    [ "CalcDirectionAngle", "d6/daa/a11588.html#ac726d7df6103bc991e650c5d221ec4cc", null ],
-    [ "GetCheckType", "d6/daa/a11588.html#a1822c2908aff0701ab6e56ccf1c83a83", null ],
-    [ "GetDirectionType", "d6/daa/a11588.html#a094f5c6bc82196355aeded09cb469b7c", null ],
-    [ "GetExplicitTargetMask", "d6/daa/a11588.html#ad368870f99d85f27ae2a15ee75b4b5dd", null ],
-    [ "GetObjectType", "d6/daa/a11588.html#a964c185b1d3ed3563c6efa68e8bf9f42", null ],
-    [ "GetReferenceType", "d6/daa/a11588.html#a59769a12291673682e1b5c3650e8aff7", null ],
-    [ "GetSelectionCategory", "d6/daa/a11588.html#a5dd39484ccfed1e34b27d957614b45e6", null ],
-    [ "GetTarget", "d6/daa/a11588.html#ae5a138c973300efce4744ea260108097", null ],
-    [ "IsArea", "d6/daa/a11588.html#a263a4660dfdf8b77f69e5475048b414b", null ],
-    [ "_data", "d6/daa/a11588.html#a1a05bbd8400ec4451ca34b2754e056e9", null ],
-    [ "_target", "d6/daa/a11588.html#ab2cec29c53f0b9bc6a016ce177f97c1d", null ]
+    [ "WorldObjectSpellTargetCheck", "d6/daa/a11588.html#a370a66c484d486ac6d2d3419a019c7cd", null ],
+    [ "~WorldObjectSpellTargetCheck", "d6/daa/a11588.html#a1d519b04f171d230b21da3cc637497cf", null ],
+    [ "operator()", "d6/daa/a11588.html#a2ae263977948d2195b22a737c36bad20", null ],
+    [ "_caster", "d6/daa/a11588.html#ac090f8e47bcdfccb85fb791856355827", null ],
+    [ "_condList", "d6/daa/a11588.html#a70b9331b5871e2e4d92d642715c8192a", null ],
+    [ "_condSrcInfo", "d6/daa/a11588.html#a288c53998aa7b744f6e3eaeba68fe6d8", null ],
+    [ "_referer", "d6/daa/a11588.html#a1a24eaafdf716de984a5943e049d10f7", null ],
+    [ "_spellInfo", "d6/daa/a11588.html#a66bd07338943ee307be19f22326b29b7", null ],
+    [ "_targetSelectionType", "d6/daa/a11588.html#a0e629a6fd0da179ea0c98c93d2337603", null ]
 ];

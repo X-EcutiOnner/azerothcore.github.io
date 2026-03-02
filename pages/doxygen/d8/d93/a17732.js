@@ -1,13 +1,6 @@
 var a17732 =
 [
-    [ "npc_kinetic_bombAI", "d8/d93/a17732.html#a0f3852f332d4027b5a00a67e20ec886b", null ],
-    [ "DoAction", "d8/d93/a17732.html#a52e913b244e58f99745926d021dc0d95", null ],
-    [ "IsSummonedBy", "d8/d93/a17732.html#a03dc3870b23105bb1d0d207adefe2541", null ],
-    [ "Reset", "d8/d93/a17732.html#abf30320da7f6fc6a4f213b0c4b2b24ce", null ],
-    [ "UpdateAI", "d8/d93/a17732.html#a1ce9bf99879796652878990a773e6a2c", null ],
-    [ "_events", "d8/d93/a17732.html#a7b14483f361a90b1ff2c5de06d6dbbaf", null ],
-    [ "_groundZ", "d8/d93/a17732.html#ac4de8610671b000bdff5cf47f2aecd0f", null ],
-    [ "_x", "d8/d93/a17732.html#a5780cb1c041d7a57f75e0dbeadc27814", null ],
-    [ "_y", "d8/d93/a17732.html#a5d9f4039c87e1e57234af51cd4617022", null ],
-    [ "exploded", "d8/d93/a17732.html#a1391f0fffa2f57cbb630b34bfc78aa64", null ]
+    [ "boss_prince_valanarAI", "d6/d59/a17736.html", "d6/d59/a17736" ],
+    [ "boss_prince_valanar_icc", "d8/d93/a17732.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
+    [ "GetAI", "d8/d93/a17732.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
 ];

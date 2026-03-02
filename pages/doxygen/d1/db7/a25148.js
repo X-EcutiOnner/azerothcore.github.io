@@ -1,8 +1,7 @@
 var a25148 =
 [
-    [ "CheckRequirement", "d1/db7/a25148.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
-    [ "HandleScript", "d1/db7/a25148.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
-    [ "Load", "d1/db7/a25148.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
-    [ "PrepareSpellScript", "d1/db7/a25148.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
-    [ "Register", "d1/db7/a25148.html#a89d053e0ee793017c74188aac32d99d5", null ]
+    [ "HandleEffectApply", "d1/db7/a25148.html#a2854357f92b1faac6e7840f1576138e0", null ],
+    [ "HandleEffectRemove", "d1/db7/a25148.html#a7960ca4deb4ff61d04ea7fe7ec0f0471", null ],
+    [ "PrepareAuraScript", "d1/db7/a25148.html#a2120cecbca61e4c7380892fe8d43772a", null ],
+    [ "Register", "d1/db7/a25148.html#a98c71c0d4c4b0503e66ed2033946cb2e", null ]
 ];

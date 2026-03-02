@@ -1,7 +1,6 @@
 var a13392 =
 [
-    [ "npc_unworthy_initiate_anchorAI", "d7/dfe/a13392.html#a2d1a90c4f3c5047a41c7e9f80db13a99", null ],
-    [ "GetGUID", "d7/dfe/a13392.html#a83cca82e7d75231a6aa586f67dad766e", null ],
-    [ "SetGUID", "d7/dfe/a13392.html#ad5cb7d502138bc067a63a32a583ee99a", null ],
-    [ "prisonerGUID", "d7/dfe/a13392.html#a38a3e7e7207bb6d809d03c90e67f7742", null ]
+    [ "CheckRequirement", "d7/dfe/a13392.html#a31d69034f463d552afa4063bf89271da", null ],
+    [ "PrepareSpellScript", "d7/dfe/a13392.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
+    [ "Register", "d7/dfe/a13392.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
 ];

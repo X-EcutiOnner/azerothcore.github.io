@@ -1,5 +1,6 @@
 var a16372 =
 [
-    [ "achievement_watch_him_die", "d8/d80/a16372.html#a0d885871eac61d859780e08c8518bb15", null ],
-    [ "OnCheck", "d8/d80/a16372.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
+    [ "npc_anub_ar_crusher_champion", "d8/d80/a16372.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
+    [ "DoEngagedWith", "d8/d80/a16372.html#a2dcef4fe57880ba725dff52455a7a428", null ],
+    [ "DoEvent", "d8/d80/a16372.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
 ];

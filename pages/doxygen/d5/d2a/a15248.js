@@ -1,7 +1,6 @@
 var a15248 =
 [
-    [ "boss_epoch_hunter", "d5/d2a/a15248.html#a652d14ebfced39b8164687a713780600", null ],
-    [ "JustDied", "d5/d2a/a15248.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
-    [ "JustEngagedWith", "d5/d2a/a15248.html#a2571f98f36d1271f3911617e0fdfba54", null ],
-    [ "KilledUnit", "d5/d2a/a15248.html#a61456e680e9108dd841e83d97536ef1b", null ]
+    [ "npc_crate_helperAI", "dc/dac/a15252.html", "dc/dac/a15252" ],
+    [ "npc_crate_helper", "d5/d2a/a15248.html#ae08751928234656dcda84dd5c7e4cc37", null ],
+    [ "GetAI", "d5/d2a/a15248.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
 ];

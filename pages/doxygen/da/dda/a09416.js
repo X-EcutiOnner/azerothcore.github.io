@@ -1,13 +1,22 @@
 var a09416 =
 [
-    [ "MessageDistDelivererToHostile", "da/dda/a09416.html#a4e1642660288eeb46867d4e19944cc78", null ],
-    [ "SendPacket", "da/dda/a09416.html#aced79e7b19918408fa4d81667fbeb7f0", null ],
-    [ "Visit", "da/dda/a09416.html#af9c5269b0266e9e28a70118e62d25e58", null ],
-    [ "Visit", "da/dda/a09416.html#a224eeb339614d7a9f5e43d498b245958", null ],
-    [ "Visit", "da/dda/a09416.html#a304c0be3c55bd2817abeaa1d53563a27", null ],
-    [ "Visit", "da/dda/a09416.html#ae2a44055a4363eeff81a799b8a93d74d", null ],
-    [ "i_distSq", "da/dda/a09416.html#a0fc7e00f191801869c3fd8eeae032af8", null ],
-    [ "i_message", "da/dda/a09416.html#ae10ac98c489ec48ed49daf835e7a361d", null ],
-    [ "i_phaseMask", "da/dda/a09416.html#a0a932cd193e847ee0cfddae0946e39d1", null ],
-    [ "i_source", "da/dda/a09416.html#a174aade6dc85233e8481a452f800ec0e", null ]
+    [ "MapGridManager", "da/dda/a09416.html#af08729c03f8641a00ab1cc1b014214df", null ],
+    [ "CreateGrid", "da/dda/a09416.html#ac5daa221eb530e0b34a1950431cb4496", null ],
+    [ "GetCreatedCellsInGridCount", "da/dda/a09416.html#a322e14ef979b97017a7547194de6c1f0", null ],
+    [ "GetCreatedCellsInMapCount", "da/dda/a09416.html#a26255c8542bcfd6b706f73a401b4c5d2", null ],
+    [ "GetCreatedGridsCount", "da/dda/a09416.html#a7994a71cea924e66996161b049eb1d44", null ],
+    [ "GetGrid", "da/dda/a09416.html#a60c3abc9dbb707cee6d2c2ed02217c23", null ],
+    [ "GetLoadedGridsCount", "da/dda/a09416.html#a8acd42cf15f78053070102f530c443a2", null ],
+    [ "IsGridCreated", "da/dda/a09416.html#a6f70e8d91a9f8e49cab8a8ef6f41a84a", null ],
+    [ "IsGridLoaded", "da/dda/a09416.html#a4cdf5925d6ebb358f501554c8b296424", null ],
+    [ "IsGridsFullyCreated", "da/dda/a09416.html#a479daebe69f976c11649c9c571eb18e0", null ],
+    [ "IsGridsFullyLoaded", "da/dda/a09416.html#ae2dd77cb2af985085103d49b4242f4a8", null ],
+    [ "IsValidGridCoordinates", "da/dda/a09416.html#a7d7957242615d753383e05a0ee5a1f82", null ],
+    [ "LoadGrid", "da/dda/a09416.html#aab0a821d9672cd485c4966034c2243d5", null ],
+    [ "UnloadGrid", "da/dda/a09416.html#ae381b54e599dce0c02815faf82711200", null ],
+    [ "_createdGridsCount", "da/dda/a09416.html#a6976d52c3af458e4d5885d2523cfafab", null ],
+    [ "_gridLock", "da/dda/a09416.html#aa2c2218a81a5d042925e5675948e242f", null ],
+    [ "_loadedGridsCount", "da/dda/a09416.html#a5a93290a0bbeec830a3223a72823ca4b", null ],
+    [ "_map", "da/dda/a09416.html#a16a35fb94355d6542a2ef634f5411243", null ],
+    [ "_mapGrid", "da/dda/a09416.html#acfac0df3926498e8a9aa581581f84e2c", null ]
 ];

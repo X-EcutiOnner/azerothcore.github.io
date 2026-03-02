@@ -1,5 +1,6 @@
 var a20448 =
 [
-    [ "achievement_cheese_the_freeze", "d8/dc8/a20448.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
-    [ "OnCheck", "d8/dc8/a20448.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
+    [ "FilterTargets", "d8/dc8/a20448.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
+    [ "PrepareSpellScript", "d8/dc8/a20448.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
+    [ "Register", "d8/dc8/a20448.html#af6704b0789566b2b385ac573eaa50f06", null ]
 ];

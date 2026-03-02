@@ -1,10 +1,7 @@
 var a12724 =
 [
-    [ "npc_corrupted_totem", "da/d4a/a12724.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
-    [ "IsSummonedBy", "da/d4a/a12724.html#ae8314903c9006b7bca94a47115a0d05b", null ],
-    [ "JustDied", "da/d4a/a12724.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
-    [ "Reset", "da/d4a/a12724.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
-    [ "SetAura", "da/d4a/a12724.html#a509688befda49f789f77ee0e4170a74e", null ],
-    [ "UpdateAI", "da/d4a/a12724.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
-    [ "_auraAdded", "da/d4a/a12724.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
+    [ "boss_ebonrocAI", "da/d4a/a12724.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
+    [ "JustEngagedWith", "da/d4a/a12724.html#a2c74e0030b1093d79245978939043d53", null ],
+    [ "MovementInform", "da/d4a/a12724.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
+    [ "UpdateAI", "da/d4a/a12724.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
 ];

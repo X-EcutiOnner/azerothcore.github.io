@@ -1,5 +1,7 @@
 var a12624 =
 [
-    [ "at_scarshield_infiltrator", "d6/dbc/a12624.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
-    [ "OnTrigger", "d6/dbc/a12624.html#a607c3ee2bd4716cf1e0499e202d379fc", null ]
+    [ "boss_urok_doomhowlAI", "d6/dbc/a12624.html#ade3d87a05eed0fd077b2e3245099ed74", null ],
+    [ "InitializeAI", "d6/dbc/a12624.html#a530bef523a27523827d3a94aa5f88698", null ],
+    [ "JustEngagedWith", "d6/dbc/a12624.html#abd74d844bcae5f9bd8fdd3797323af2c", null ],
+    [ "UpdateAI", "d6/dbc/a12624.html#a6ab5793a48534b7c338a915a7ed8faf9", null ]
 ];

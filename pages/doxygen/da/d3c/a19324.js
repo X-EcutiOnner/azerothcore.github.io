@@ -1,7 +1,5 @@
 var a19324 =
 [
-    [ "DelayedCastMincharEvent", "da/d3c/a19324.html#a76d8a08ca273eec5b2e083d136336a15", null ],
-    [ "Execute", "da/d3c/a19324.html#a12aeff246d07e541ed192974320842cb", null ],
-    [ "_spellId", "da/d3c/a19324.html#af4ea90407b2c8a283f137d213ffe97be", null ],
-    [ "_trigger", "da/d3c/a19324.html#a9f3cd02e77ad35b98a6753b792383548", null ]
+    [ "at_icc_putricide_trap", "da/d3c/a19324.html#a9d4183629deada9c22750b8a34e94583", null ],
+    [ "OnTrigger", "da/d3c/a19324.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
 ];

@@ -1,6 +1,7 @@
 var a15440 =
 [
-    [ "HandleDummyHitTarget", "db/dee/a15440.html#ae773d73496578170061baedd8f7daec1", null ],
-    [ "PrepareSpellScript", "db/dee/a15440.html#a822fe6d19c2ee0d02dc5561b4f910cf9", null ],
-    [ "Register", "db/dee/a15440.html#a651cc94581130224ba23e864f8ad7060", null ]
+    [ "npc_hive_zara_larva", "db/dee/a15440.html#a50fb5738d7b0818689216fee0915a0de", null ],
+    [ "JustSummoned", "db/dee/a15440.html#a2a1d80f70ae265b1db50e3a7165fa099", null ],
+    [ "MovementInform", "db/dee/a15440.html#a6890c58106450d654062f548a80cb42f", null ],
+    [ "_instance", "db/dee/a15440.html#aa8333a25c0e184dd75db580b03ef9cb2", null ]
 ];

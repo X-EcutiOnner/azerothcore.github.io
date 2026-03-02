@@ -1,19 +1,13 @@
 var a19280 =
 [
-    [ "npc_icc_gauntlet_controllerAI", "db/dc7/a19280.html#adbbf6f95a44678d914726fa52486228f", null ],
-    [ "DoAction", "db/dc7/a19280.html#adaa7997c59f72f7823f232a6f455a0af", null ],
-    [ "JustDied", "db/dc7/a19280.html#a00540cf0e82728e9df7c9c467bbe85b7", null ],
-    [ "JustReachedHome", "db/dc7/a19280.html#afd30d6da8e6fc0e8a44876ea0a30f8ec", null ],
-    [ "JustSummoned", "db/dc7/a19280.html#a1cba9c05581011ab431f163ffa1b05a7", null ],
-    [ "Reset", "db/dc7/a19280.html#a055c417bea83de7a4ca61f304d89bb2f", null ],
-    [ "ScheduleBroodlings", "db/dc7/a19280.html#a528438f30ae06119b09c69319e7c534a", null ],
-    [ "SpidersMoveDown", "db/dc7/a19280.html#a8c92d94464461c36c97d435e8738323b", null ],
-    [ "SummonBroodling", "db/dc7/a19280.html#a625cce7142666144af0d6f1e81f56979", null ],
-    [ "SummonedCreatureDies", "db/dc7/a19280.html#aad2d9e8a269c62231b4d6bc907350a30", null ],
-    [ "SummonFrostwardens", "db/dc7/a19280.html#a6f07ad3f631570b720ef5ecc91e80bf2", null ],
-    [ "SummonSpiders", "db/dc7/a19280.html#afa30ecef9c1c29b55d6f9d4752396354", null ],
-    [ "UpdateAI", "db/dc7/a19280.html#a141faa27c651b9d1512c6b5861f511d9", null ],
-    [ "events", "db/dc7/a19280.html#a5f883ab0efea055ebb07e118ab857378", null ],
-    [ "instance", "db/dc7/a19280.html#ac13065009325babb60746630518cfc3b", null ],
-    [ "summons", "db/dc7/a19280.html#ad2203400007c842b181ab62ba710cc69", null ]
+    [ "npc_icc_spire_frostwyrm", "db/dc7/a19280.html#a8fdfc70108e3294e0fcc3c7ed895074e", null ],
+    [ "CanAIAttack", "db/dc7/a19280.html#ab3364130aacf675602317651a244ae2c", null ],
+    [ "DoAction", "db/dc7/a19280.html#a44edf33b25bdfce3b2bd3a8ec487fd9e", null ],
+    [ "JustEngagedWith", "db/dc7/a19280.html#abfc762cea6b7e40aaaff50b933410127", null ],
+    [ "JustReachedHome", "db/dc7/a19280.html#a144e8cafc020f5c43aae1fdc4a38a10d", null ],
+    [ "MovementInform", "db/dc7/a19280.html#a8e7f148580d91d42959e972ef18b271b", null ],
+    [ "Reset", "db/dc7/a19280.html#a572add30e78af15a8d5d6918169802da", null ],
+    [ "UpdateAI", "db/dc7/a19280.html#ad193a9355e11ea25792e6285d375a488", null ],
+    [ "_canResetFlyingEffects", "db/dc7/a19280.html#a262d843fcb13a444ae377729135ca14d", null ],
+    [ "_scheduler", "db/dc7/a19280.html#a822096df7b1803d92e05ca27d544bd26", null ]
 ];

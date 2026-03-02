@@ -1,8 +1,7 @@
 var a14960 =
 [
-    [ "CheckCast", "dd/da5/a14960.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
-    [ "HandleDummy", "dd/da5/a14960.html#ad39da0510c21855dd74abd93f33621c9", null ],
-    [ "PrepareSpellScript", "dd/da5/a14960.html#a727093fec8cc8422cbbaa79d821338c8", null ],
-    [ "Register", "dd/da5/a14960.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
-    [ "Validate", "dd/da5/a14960.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
+    [ "HandleEffectApply", "dd/da5/a14960.html#a404f2134734e1d21201033b3f26e611e", null ],
+    [ "HandleEffectPeriodic", "dd/da5/a14960.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
+    [ "PrepareAuraScript", "dd/da5/a14960.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
+    [ "Register", "dd/da5/a14960.html#ad239472c15ca0c73b053d112f538ecff", null ]
 ];

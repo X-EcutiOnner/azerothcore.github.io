@@ -1,11 +1,12 @@
 var a18472 =
 [
-    [ "npc_ice_tombAI", "d6/d7c/a18472.html#ab2cd26a6f50f42f2773f8a7b522289ec", null ],
-    [ "DamageTaken", "d6/d7c/a18472.html#aa1451254b5eaa1332b87f2d817e1f3a7", null ],
-    [ "JustDied", "d6/d7c/a18472.html#a237f27260aaa9176d81b67b11d063660", null ],
-    [ "SetGUID", "d6/d7c/a18472.html#ac406bece1d1f1517b5837e311feef9ae", null ],
-    [ "UpdateAI", "d6/d7c/a18472.html#a2f613f1f4fd51dac767b97fd9b96af44", null ],
-    [ "_asphyxiationTimer", "d6/d7c/a18472.html#a6790d9c852279624a549f60bf26e1eb2", null ],
-    [ "_existenceCheckTimer", "d6/d7c/a18472.html#ab3dbf40235549be89e42951d93593ea2", null ],
-    [ "_trappedPlayerGUID", "d6/d7c/a18472.html#a8a7666594e59bdac449f2284387b8e2c", null ]
+    [ "npc_precious_iccAI", "d6/d7c/a18472.html#a90dff89c652339ecf7479d2c9233962a", null ],
+    [ "JustDied", "d6/d7c/a18472.html#a06671144929a3783f17397b818016032", null ],
+    [ "JustEngagedWith", "d6/d7c/a18472.html#a05cd30f0bf149d16c75ad3f717cb9dcc", null ],
+    [ "JustSummoned", "d6/d7c/a18472.html#adafed6974cbd70ccfc0f9ee83732d162", null ],
+    [ "Reset", "d6/d7c/a18472.html#a9ecb9771140d1248c08c56886c8d4ca9", null ],
+    [ "SummonedCreatureDespawn", "d6/d7c/a18472.html#af59e24c588861fe7d1bcd456780f571a", null ],
+    [ "UpdateAI", "d6/d7c/a18472.html#a1fd3a4d7d16bb93be68d8b135546ab1e", null ],
+    [ "events", "d6/d7c/a18472.html#a4ac57f4ffe0886f463378b42525e2e4d", null ],
+    [ "summons", "d6/d7c/a18472.html#ab752e504c7cf463a4447a07fbb67211c", null ]
 ];

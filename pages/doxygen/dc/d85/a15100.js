@@ -1,6 +1,9 @@
 var a15100 =
 [
-    [ "FilterTargets", "dc/d85/a15100.html#a45b0713b2942199bf0e19752fe765aac", null ],
-    [ "PrepareSpellScript", "dc/d85/a15100.html#a7f7177d7754a99743202f69a0342f587", null ],
-    [ "Register", "dc/d85/a15100.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
+    [ "npc_ancient_wisp", "dc/d85/a15100.html#a70e45e500b3490a034b058ca2ec16d39", null ],
+    [ "DamageTaken", "dc/d85/a15100.html#ad7d96e6b54cdc23a5101338474125e71", null ],
+    [ "JustEngagedWith", "dc/d85/a15100.html#a755ed852b3149ada65c5750410776fc8", null ],
+    [ "Reset", "dc/d85/a15100.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
+    [ "UpdateAI", "dc/d85/a15100.html#a51ca214de826d7126f32e49f6852bca3", null ],
+    [ "_instance", "dc/d85/a15100.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
 ];

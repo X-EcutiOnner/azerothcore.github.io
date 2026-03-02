@@ -1,6 +1,7 @@
 var a17184 =
 [
-    [ "npc_fos_corrupted_soul_fragmentAI", "dc/ddd/a17188.html", "dc/ddd/a17188" ],
-    [ "npc_fos_corrupted_soul_fragment", "d9/d06/a17184.html#a4caefccfdfee2e906eb94e34bceb064c", null ],
-    [ "GetAI", "d9/d06/a17184.html#aed663e0a313223fcaa988b89b1b02df3", null ]
+    [ "HandleScriptEffect", "d9/d06/a17184.html#a62cef31900cd61167823f3e66aa2d64b", null ],
+    [ "PrepareSpellScript", "d9/d06/a17184.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
+    [ "Register", "d9/d06/a17184.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
+    [ "Validate", "d9/d06/a17184.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
 ];

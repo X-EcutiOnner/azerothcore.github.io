@@ -1,6 +1,9 @@
 var a00524 =
 [
-    [ "PLAYER_FLIGHT_SPEED", "d9/d24/a00524.html#a2efde26aed42919892139c2ffb51b279", null ],
-    [ "SKIP_SPLINE_POINT_DISTANCE_SQ", "d9/d24/a00524.html#a55b33fb4c6265551b0327903da9bff4c", null ],
-    [ "IsNodeIncludedInShortenedPath", "d9/d24/a00524.html#a47a5affa854677472690918c4d16f998", null ]
+    [ "ProcTestResult", "d2/dc8/a29484.html", "d2/dc8/a29484" ],
+    [ "ProcTestContext", "d6/d34/a29488.html", "d6/d34/a29488" ],
+    [ "AuraScriptProcTestFixture", "df/dd3/a29492.html", "df/dd3/a29492" ],
+    [ "ProcScenarioBuilder", "d1/dfc/a29496.html", "d1/dfc/a29496" ],
+    [ "EXPECT_PROC_DOES_NOT_TRIGGER", "d9/d24/a00524.html#ab8dc66c27ffce0980153941e8e7ab701", null ],
+    [ "EXPECT_PROC_TRIGGERS", "d9/d24/a00524.html#ad89bc4ac2d1077d7e73a7e08336ff303", null ]
 ];

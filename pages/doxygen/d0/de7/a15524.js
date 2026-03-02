@@ -1,5 +1,7 @@
 var a15524 =
 [
-    [ "boss_kri", "d0/de7/a15524.html#a0a95f8d2a380ab48ffd5a034e012cc2c", null ],
-    [ "JustEngagedWith", "d0/de7/a15524.html#ab2169ec49ecbff2ee1460e38bd1a163e", null ]
+    [ "boss_rajaxx", "d0/de7/a15524.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
+    [ "JustDied", "d0/de7/a15524.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
+    [ "JustEngagedWith", "d0/de7/a15524.html#a8dad79921559359b6aa7149641925fe5", null ],
+    [ "UpdateAI", "d0/de7/a15524.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
 ];

@@ -1,6 +1,6 @@
 var a12984 =
 [
-    [ "boss_mr_smiteAI", "d3/db6/a12988.html", "d3/db6/a12988" ],
-    [ "boss_mr_smite", "df/dba/a12984.html#a011d41112ef7376b71d2959f806be262", null ],
-    [ "GetAI", "df/dba/a12984.html#a619ca0aede1eb33f992328048319c4f0", null ]
+    [ "npc_flamewaker_priestAI", "d3/db6/a12988.html", "d3/db6/a12988" ],
+    [ "npc_flamewaker_priest", "df/dba/a12984.html#a2ae4d75192f8ddc60d092b9a129e636e", null ],
+    [ "GetAI", "df/dba/a12984.html#a8a38c2c54ae8366496eb58145f75eac9", null ]
 ];

@@ -1,10 +1,5 @@
 var a28332 =
 [
-    [ "go_evil_book_for_dummies", "d5/d13/a28332.html#a69f599910bce0070c6b1af547c459b72", null ],
-    [ "HasLeatherSpecialty", "d5/d13/a28332.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
-    [ "OnGossipHello", "d5/d13/a28332.html#aeb29351e2faf135298419488eb16cc7e", null ],
-    [ "OnGossipSelect", "d5/d13/a28332.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
-    [ "SendActionMenu", "d5/d13/a28332.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
-    [ "SendConfirmLearn", "d5/d13/a28332.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
-    [ "SendConfirmUnlearn", "d5/d13/a28332.html#af9c10b0423327d8644020e8f5e26a603", null ]
+    [ "item_generic_limit_chance_above_60", "d5/d13/a28332.html#abc18809810f0a7668020d01c482be84b", null ],
+    [ "OnCastItemCombatSpell", "d5/d13/a28332.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
 ];

@@ -1,5 +1,7 @@
 var a17232 =
 [
-    [ "npc_fos_leader_secondAI", "dd/dd4/a17232.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
-    [ "MovementInform", "dd/dd4/a17232.html#a9cc0b500f1289dc8b764b3755468e639", null ]
+    [ "HandlePeriodicTick", "dd/dd4/a17232.html#a7fa0334a0a33b15758b6362aa0a9bd7d", null ],
+    [ "PrepareAuraScript", "dd/dd4/a17232.html#aabaef31a3c699c322e24e064f357f82f", null ],
+    [ "Register", "dd/dd4/a17232.html#ae9602bc623422c124dfc37a18c0dbfec", null ],
+    [ "Validate", "dd/dd4/a17232.html#a18d92a82760992bc5d8503e3f774f208", null ]
 ];

@@ -1,8 +1,7 @@
 var a18952 =
 [
-    [ "npc_blistering_zombieAI", "db/dea/a18952.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
-    [ "DamageTaken", "db/dea/a18952.html#adf031992078214f90d859df2b54aac91", null ],
-    [ "UpdateAI", "db/dea/a18952.html#ae081898b8dcaf45cd3069e79021de452", null ],
-    [ "casted", "db/dea/a18952.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
-    [ "timer", "db/dea/a18952.html#a8b865c2a87b1fc020d8250767febab0a", null ]
+    [ "npc_valithria_portalAI", "db/dea/a18952.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
+    [ "GetData", "db/dea/a18952.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
+    [ "OnSpellClick", "db/dea/a18952.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
+    [ "_used", "db/dea/a18952.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
 ];

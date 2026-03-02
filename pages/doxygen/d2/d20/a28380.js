@@ -1,6 +1,6 @@
 var a28380 =
 [
-    [ "npc_taxi", "d2/d20/a28380.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
-    [ "OnGossipHello", "d2/d20/a28380.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
-    [ "OnGossipSelect", "d2/d20/a28380.html#a5a7443abba8cf98a3073195177981edc", null ]
+    [ "npc_preciousAI", "db/d7b/a28384.html", "db/d7b/a28384" ],
+    [ "npc_precious", "d2/d20/a28380.html#a3c3ad9da13de64498cabc8e252e99ab2", null ],
+    [ "GetAI", "d2/d20/a28380.html#a754ad85c8b1942b400a47c28297bad62", null ]
 ];

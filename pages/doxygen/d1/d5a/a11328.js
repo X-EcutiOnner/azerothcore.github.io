@@ -1,9 +1,7 @@
 var a11328 =
 [
-    [ "TotemCreated", "d1/d5a/a11328.html#a24c9e483d1edb526330311c719d750df", null ],
-    [ "Write", "d1/d5a/a11328.html#a554900ae7442f00a63c983ea7ea74510", null ],
-    [ "Duration", "d1/d5a/a11328.html#aff6335b86ac051bccb623124905c7180", null ],
-    [ "Slot", "d1/d5a/a11328.html#a0889c816fbef728f1a0a6c530c801eac", null ],
-    [ "SpellID", "d1/d5a/a11328.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
-    [ "Totem", "d1/d5a/a11328.html#a684d15c5368e8065c78e9320eebb676b", null ]
+    [ "PetActionSound", "d1/d5a/a11328.html#ae20a837d2b3f647d2a1d7c5e398b7b56", null ],
+    [ "Write", "d1/d5a/a11328.html#a8627631f2eb7d93cda52ce09a749fb0c", null ],
+    [ "Action", "d1/d5a/a11328.html#a25b3a4b44bcda9bec898aca1a88b90ed", null ],
+    [ "UnitGUID", "d1/d5a/a11328.html#a32b15c490da02bc5020653a9e9bfbd68", null ]
 ];

@@ -1,11 +1,6 @@
 var a14416 =
 [
-    [ "boss_hakkarAI", "db/d5b/a14416.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
-    [ "ApplyHakkarPowerStacks", "db/d5b/a14416.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
-    [ "CheckInRoom", "db/d5b/a14416.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
-    [ "EnterEvadeMode", "db/d5b/a14416.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
-    [ "JustDied", "db/d5b/a14416.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
-    [ "JustEngagedWith", "db/d5b/a14416.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
-    [ "Reset", "db/d5b/a14416.html#a52db5743c09088e2e9f1aff1513960f2", null ],
-    [ "UpdateAI", "db/d5b/a14416.html#a1119212465bcf293991d7a520c6ffe42", null ]
+    [ "npc_zulian_prowlerAI", "d8/d0b/a14420.html", "d8/d0b/a14420" ],
+    [ "npc_zulian_prowler", "db/d5b/a14416.html#a27ae990985976d02bb221b6d669fa849", null ],
+    [ "GetAI", "db/d5b/a14416.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ChaseRange Struct Reference</title>
+<title>AzerothCore: DynamicVisibilityMgr Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,185 +105,192 @@ $(document).ready(function(){initNavTree('da/df8/a10144.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pro-static-attribs">Static Protected Attributes</a> &#124;
 <a href="../../d5/d93/a10141.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ChaseRange Struct Reference</div></div>
+  <div class="headertitle"><div class="title">DynamicVisibilityMgr Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">MotionMaster.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">DynamicVisibility.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:acd43ed01c9e4845d82e4d240b5c35167"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/df8/a10144.html#acd43ed01c9e4845d82e4d240b5c35167">ChaseRange</a> (float range)</td></tr>
-<tr class="separator:acd43ed01c9e4845d82e4d240b5c35167"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaf19c63398d31699ed1703ae1ba5f1b6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/df8/a10144.html#aaf19c63398d31699ed1703ae1ba5f1b6">ChaseRange</a> (float _minRange, float _maxRange)</td></tr>
-<tr class="separator:aaf19c63398d31699ed1703ae1ba5f1b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a397b3789449b1c178f11f64313498c4d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/df8/a10144.html#a397b3789449b1c178f11f64313498c4d">ChaseRange</a> (float _minRange, float _minTolerance, float _maxTolerance, float _maxRange)</td></tr>
-<tr class="separator:a397b3789449b1c178f11f64313498c4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:aa95443d7050249a44cad2f16fa0026e5"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/df8/a10144.html#aa95443d7050249a44cad2f16fa0026e5">Update</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> sessionCount)</td></tr>
+<tr class="separator:aa95443d7050249a44cad2f16fa0026e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac402ec0cb86192ce264d7909e09da5ac"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/df8/a10144.html#ac402ec0cb86192ce264d7909e09da5ac">GetVisibilityNotifyDelay</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> map_type)</td></tr>
+<tr class="separator:ac402ec0cb86192ce264d7909e09da5ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9efd4acfe2ff5e4dfe0cc9e8fe802cc6"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/df8/a10144.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6">GetAINotifyDelay</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> map_type)</td></tr>
+<tr class="separator:a9efd4acfe2ff5e4dfe0cc9e8fe802cc6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a58687646bbf83723e8ad2925ee50452c"><td class="memItemLeft" align="right" valign="top">static float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/df8/a10144.html#a58687646bbf83723e8ad2925ee50452c">GetReqMoveDistSq</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> map_type)</td></tr>
+<tr class="separator:a58687646bbf83723e8ad2925ee50452c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a0e2c69e20d6a38d056505c3b5b0d9fd6"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/df8/a10144.html#a0e2c69e20d6a38d056505c3b5b0d9fd6">MinRange</a></td></tr>
-<tr class="separator:a0e2c69e20d6a38d056505c3b5b0d9fd6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7b640ecfc0e80921ab36c2c33f0b10fd"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/df8/a10144.html#a7b640ecfc0e80921ab36c2c33f0b10fd">MinTolerance</a></td></tr>
-<tr class="separator:a7b640ecfc0e80921ab36c2c33f0b10fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae2a846630e79f3a15a5d93b18c68c915"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/df8/a10144.html#ae2a846630e79f3a15a5d93b18c68c915">MaxRange</a></td></tr>
-<tr class="separator:ae2a846630e79f3a15a5d93b18c68c915"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7909b18028d43c84eca5feee3e41469c"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/df8/a10144.html#a7909b18028d43c84eca5feee3e41469c">MaxTolerance</a></td></tr>
-<tr class="separator:a7909b18028d43c84eca5feee3e41469c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-static-attribs" name="pro-static-attribs"></a>
+Static Protected Attributes</h2></td></tr>
+<tr class="memitem:a35ebd0fcbdec8a3287f714cbe9becbcc"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/df8/a10144.html#a35ebd0fcbdec8a3287f714cbe9becbcc">visibilitySettingsIndex</a> = 0</td></tr>
+<tr class="separator:a35ebd0fcbdec8a3287f714cbe9becbcc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="acd43ed01c9e4845d82e4d240b5c35167" name="acd43ed01c9e4845d82e4d240b5c35167"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acd43ed01c9e4845d82e4d240b5c35167">&#9670;&#160;</a></span>ChaseRange() <span class="overload">[1/3]</span></h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a9efd4acfe2ff5e4dfe0cc9e8fe802cc6" name="a9efd4acfe2ff5e4dfe0cc9e8fe802cc6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6">&#9670;&#160;</a></span>GetAINotifyDelay()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">ChaseRange::ChaseRange </td>
+          <td class="memname">static <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> DynamicVisibilityMgr::GetAINotifyDelay </td>
           <td>(</td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>range</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>map_type</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   44</span>: <a class="code hl_variable" href="../../da/df8/a10144.html#a0e2c69e20d6a38d056505c3b5b0d9fd6">MinRange</a>(range &gt; <a class="code hl_define" href="../../dd/d7e/a00809.html#a76b2057afb6996f8080d661890a01c6f">CONTACT_DISTANCE</a> ? 0 : range - <a class="code hl_define" href="../../dd/d7e/a00809.html#a76b2057afb6996f8080d661890a01c6f">CONTACT_DISTANCE</a>), <a class="code hl_variable" href="../../da/df8/a10144.html#a7b640ecfc0e80921ab36c2c33f0b10fd">MinTolerance</a>(range), <a class="code hl_variable" href="../../da/df8/a10144.html#ae2a846630e79f3a15a5d93b18c68c915">MaxRange</a>(range + <a class="code hl_define" href="../../dd/d7e/a00809.html#a76b2057afb6996f8080d661890a01c6f">CONTACT_DISTANCE</a>), <a class="code hl_variable" href="../../da/df8/a10144.html#a7909b18028d43c84eca5feee3e41469c">MaxTolerance</a>(range) { }</div>
-<div class="ttc" id="aa00809_html_a76b2057afb6996f8080d661890a01c6f"><div class="ttname"><a href="../../dd/d7e/a00809.html#a76b2057afb6996f8080d661890a01c6f">CONTACT_DISTANCE</a></div><div class="ttdeci">#define CONTACT_DISTANCE</div><div class="ttdef"><b>Definition:</b> ObjectDefines.h:23</div></div>
-<div class="ttc" id="aa10144_html_a0e2c69e20d6a38d056505c3b5b0d9fd6"><div class="ttname"><a href="../../da/df8/a10144.html#a0e2c69e20d6a38d056505c3b5b0d9fd6">ChaseRange::MinRange</a></div><div class="ttdeci">float MinRange</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:115</div></div>
-<div class="ttc" id="aa10144_html_a7909b18028d43c84eca5feee3e41469c"><div class="ttname"><a href="../../da/df8/a10144.html#a7909b18028d43c84eca5feee3e41469c">ChaseRange::MaxTolerance</a></div><div class="ttdeci">float MaxTolerance</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:118</div></div>
-<div class="ttc" id="aa10144_html_a7b640ecfc0e80921ab36c2c33f0b10fd"><div class="ttname"><a href="../../da/df8/a10144.html#a7b640ecfc0e80921ab36c2c33f0b10fd">ChaseRange::MinTolerance</a></div><div class="ttdeci">float MinTolerance</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:116</div></div>
-<div class="ttc" id="aa10144_html_ae2a846630e79f3a15a5d93b18c68c915"><div class="ttname"><a href="../../da/df8/a10144.html#ae2a846630e79f3a15a5d93b18c68c915">ChaseRange::MaxRange</a></div><div class="ttdeci">float MaxRange</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:117</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   52</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d09/a01838.html#ab01e98c3eef9241e381bb20d29d66cbd">VisibilitySettings</a>[<a class="code hl_variable" href="../../da/df8/a10144.html#a35ebd0fcbdec8a3287f714cbe9becbcc">visibilitySettingsIndex</a>][map_type].<a class="code hl_variable" href="../../df/d01/a10140.html#af70453021c5ded85c73a4d5559dca2ea">aiNotifyDelay</a>; }</div>
+<div class="ttc" id="aa01838_html_ab01e98c3eef9241e381bb20d29d66cbd"><div class="ttname"><a href="../../db/d09/a01838.html#ab01e98c3eef9241e381bb20d29d66cbd">VisibilitySettings</a></div><div class="ttdeci">const VisibilitySettingData VisibilitySettings[VISIBILITY_SETTINGS_MAX_INTERVAL_NUM][5]</div><div class="ttdef"><b>Definition:</b> DynamicVisibility.h:36</div></div>
+<div class="ttc" id="aa10140_html_af70453021c5ded85c73a4d5559dca2ea"><div class="ttname"><a href="../../df/d01/a10140.html#af70453021c5ded85c73a4d5559dca2ea">VisibilitySettingData::aiNotifyDelay</a></div><div class="ttdeci">uint32 aiNotifyDelay</div><div class="ttdef"><b>Definition:</b> DynamicVisibility.h:26</div></div>
+<div class="ttc" id="aa10144_html_a35ebd0fcbdec8a3287f714cbe9becbcc"><div class="ttname"><a href="../../da/df8/a10144.html#a35ebd0fcbdec8a3287f714cbe9becbcc">DynamicVisibilityMgr::visibilitySettingsIndex</a></div><div class="ttdeci">static uint8 visibilitySettingsIndex</div><div class="ttdef"><b>Definition:</b> DynamicVisibility.h:55</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00026">VisibilitySettingData::aiNotifyDelay</a>, <a class="el" href="../../#l00036">VisibilitySettings</a>, and <a class="el" href="../../#l00055">visibilitySettingsIndex</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02990">WorldObject::AddToNotify()</a>.</p>
+
 </div>
 </div>
-<a id="aaf19c63398d31699ed1703ae1ba5f1b6" name="aaf19c63398d31699ed1703ae1ba5f1b6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaf19c63398d31699ed1703ae1ba5f1b6">&#9670;&#160;</a></span>ChaseRange() <span class="overload">[2/3]</span></h2>
+<a id="a58687646bbf83723e8ad2925ee50452c" name="a58687646bbf83723e8ad2925ee50452c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a58687646bbf83723e8ad2925ee50452c">&#9670;&#160;</a></span>GetReqMoveDistSq()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">ChaseRange::ChaseRange </td>
+          <td class="memname">static float DynamicVisibilityMgr::GetReqMoveDistSq </td>
           <td>(</td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>_minRange</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>map_type</em></td><td>)</td>
           <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>_maxRange</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   45</span>: <a class="code hl_variable" href="../../da/df8/a10144.html#a0e2c69e20d6a38d056505c3b5b0d9fd6">MinRange</a>(_minRange), <a class="code hl_variable" href="../../da/df8/a10144.html#a7b640ecfc0e80921ab36c2c33f0b10fd">MinTolerance</a>(std::min(_minRange + <a class="code hl_define" href="../../dd/d7e/a00809.html#a76b2057afb6996f8080d661890a01c6f">CONTACT_DISTANCE</a>, (_minRange + _maxRange) / 2)), <a class="code hl_variable" href="../../da/df8/a10144.html#ae2a846630e79f3a15a5d93b18c68c915">MaxRange</a>(_maxRange), <a class="code hl_variable" href="../../da/df8/a10144.html#a7909b18028d43c84eca5feee3e41469c">MaxTolerance</a>(std::max(_maxRange - <a class="code hl_define" href="../../dd/d7e/a00809.html#a76b2057afb6996f8080d661890a01c6f">CONTACT_DISTANCE</a>, <a class="code hl_variable" href="../../da/df8/a10144.html#a7b640ecfc0e80921ab36c2c33f0b10fd">MinTolerance</a>)) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">   53</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d09/a01838.html#ab01e98c3eef9241e381bb20d29d66cbd">VisibilitySettings</a>[<a class="code hl_variable" href="../../da/df8/a10144.html#a35ebd0fcbdec8a3287f714cbe9becbcc">visibilitySettingsIndex</a>][map_type].<a class="code hl_variable" href="../../df/d01/a10140.html#aaa4faa0170181e409940b5441eb2f586">requiredMoveDistanceSq</a>; }</div>
+<div class="ttc" id="aa10140_html_aaa4faa0170181e409940b5441eb2f586"><div class="ttname"><a href="../../df/d01/a10140.html#aaa4faa0170181e409940b5441eb2f586">VisibilitySettingData::requiredMoveDistanceSq</a></div><div class="ttdeci">float requiredMoveDistanceSq</div><div class="ttdef"><b>Definition:</b> DynamicVisibility.h:27</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00027">VisibilitySettingData::requiredMoveDistanceSq</a>, <a class="el" href="../../#l00036">VisibilitySettings</a>, and <a class="el" href="../../#l00055">visibilitySettingsIndex</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l16518">Unit::ExecuteDelayedUnitRelocationEvent()</a>.</p>
+
 </div>
 </div>
-<a id="a397b3789449b1c178f11f64313498c4d" name="a397b3789449b1c178f11f64313498c4d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a397b3789449b1c178f11f64313498c4d">&#9670;&#160;</a></span>ChaseRange() <span class="overload">[3/3]</span></h2>
+<a id="ac402ec0cb86192ce264d7909e09da5ac" name="ac402ec0cb86192ce264d7909e09da5ac"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac402ec0cb86192ce264d7909e09da5ac">&#9670;&#160;</a></span>GetVisibilityNotifyDelay()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">ChaseRange::ChaseRange </td>
+          <td class="memname">static <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> DynamicVisibilityMgr::GetVisibilityNotifyDelay </td>
           <td>(</td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>_minRange</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>map_type</em></td><td>)</td>
           <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>_minTolerance</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>_maxTolerance</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>_maxRange</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   46</span>: <a class="code hl_variable" href="../../da/df8/a10144.html#a0e2c69e20d6a38d056505c3b5b0d9fd6">MinRange</a>(_minRange), <a class="code hl_variable" href="../../da/df8/a10144.html#a7b640ecfc0e80921ab36c2c33f0b10fd">MinTolerance</a>(_minTolerance), <a class="code hl_variable" href="../../da/df8/a10144.html#ae2a846630e79f3a15a5d93b18c68c915">MaxRange</a>(_maxRange), <a class="code hl_variable" href="../../da/df8/a10144.html#a7909b18028d43c84eca5feee3e41469c">MaxTolerance</a>(_maxTolerance) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">   51</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d09/a01838.html#ab01e98c3eef9241e381bb20d29d66cbd">VisibilitySettings</a>[<a class="code hl_variable" href="../../da/df8/a10144.html#a35ebd0fcbdec8a3287f714cbe9becbcc">visibilitySettingsIndex</a>][map_type].<a class="code hl_variable" href="../../df/d01/a10140.html#ad566fd5eff102929247b75cf5092a60b">visibilityNotifyDelay</a>; }</div>
+<div class="ttc" id="aa10140_html_ad566fd5eff102929247b75cf5092a60b"><div class="ttname"><a href="../../df/d01/a10140.html#ad566fd5eff102929247b75cf5092a60b">VisibilitySettingData::visibilityNotifyDelay</a></div><div class="ttdeci">uint32 visibilityNotifyDelay</div><div class="ttdef"><b>Definition:</b> DynamicVisibility.h:25</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00025">VisibilitySettingData::visibilityNotifyDelay</a>, <a class="el" href="../../#l00036">VisibilitySettings</a>, and <a class="el" href="../../#l00055">visibilitySettingsIndex</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02990">WorldObject::AddToNotify()</a>.</p>
+
+</div>
+</div>
+<a id="aa95443d7050249a44cad2f16fa0026e5" name="aa95443d7050249a44cad2f16fa0026e5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa95443d7050249a44cad2f16fa0026e5">&#9670;&#160;</a></span>Update()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void DynamicVisibilityMgr::Update </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>sessionCount</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   23</span>{</div>
+<div class="line"><span class="lineno">   24</span>    <span class="keywordflow">if</span> (sessionCount &gt;= (<a class="code hl_variable" href="../../da/df8/a10144.html#a35ebd0fcbdec8a3287f714cbe9becbcc">visibilitySettingsIndex</a> + 1) * ((<a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)<a class="code hl_define" href="../../db/d09/a01838.html#a2733c1a6a4018078df00a4c426661436">VISIBILITY_SETTINGS_PLAYER_INTERVAL</a>) &amp;&amp; <a class="code hl_variable" href="../../da/df8/a10144.html#a35ebd0fcbdec8a3287f714cbe9becbcc">visibilitySettingsIndex</a> &lt; <a class="code hl_define" href="../../db/d09/a01838.html#ae515340ce2037b26a80e4db46e653b59">VISIBILITY_SETTINGS_MAX_INTERVAL_NUM</a> - 1)</div>
+<div class="line"><span class="lineno">   25</span>        ++<a class="code hl_variable" href="../../da/df8/a10144.html#a35ebd0fcbdec8a3287f714cbe9becbcc">visibilitySettingsIndex</a>;</div>
+<div class="line"><span class="lineno">   26</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../da/df8/a10144.html#a35ebd0fcbdec8a3287f714cbe9becbcc">visibilitySettingsIndex</a> &amp;&amp; sessionCount &lt; <a class="code hl_variable" href="../../da/df8/a10144.html#a35ebd0fcbdec8a3287f714cbe9becbcc">visibilitySettingsIndex</a> * ((<a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)<a class="code hl_define" href="../../db/d09/a01838.html#a2733c1a6a4018078df00a4c426661436">VISIBILITY_SETTINGS_PLAYER_INTERVAL</a>) - 100)</div>
+<div class="line"><span class="lineno">   27</span>        --<a class="code hl_variable" href="../../da/df8/a10144.html#a35ebd0fcbdec8a3287f714cbe9becbcc">visibilitySettingsIndex</a>;</div>
+<div class="line"><span class="lineno">   28</span>}</div>
+<div class="ttc" id="aa00485_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa01838_html_a2733c1a6a4018078df00a4c426661436"><div class="ttname"><a href="../../db/d09/a01838.html#a2733c1a6a4018078df00a4c426661436">VISIBILITY_SETTINGS_PLAYER_INTERVAL</a></div><div class="ttdeci">#define VISIBILITY_SETTINGS_PLAYER_INTERVAL</div><div class="ttdef"><b>Definition:</b> DynamicVisibility.h:34</div></div>
+<div class="ttc" id="aa01838_html_ae515340ce2037b26a80e4db46e653b59"><div class="ttname"><a href="../../db/d09/a01838.html#ae515340ce2037b26a80e4db46e653b59">VISIBILITY_SETTINGS_MAX_INTERVAL_NUM</a></div><div class="ttdeci">#define VISIBILITY_SETTINGS_MAX_INTERVAL_NUM</div><div class="ttdef"><b>Definition:</b> DynamicVisibility.h:35</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00035">VISIBILITY_SETTINGS_MAX_INTERVAL_NUM</a>, <a class="el" href="../../#l00034">VISIBILITY_SETTINGS_PLAYER_INTERVAL</a>, and <a class="el" href="../../#l00055">visibilitySettingsIndex</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01096">World::Update()</a>.</p>
+
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="ae2a846630e79f3a15a5d93b18c68c915" name="ae2a846630e79f3a15a5d93b18c68c915"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae2a846630e79f3a15a5d93b18c68c915">&#9670;&#160;</a></span>MaxRange</h2>
+<a id="a35ebd0fcbdec8a3287f714cbe9becbcc" name="a35ebd0fcbdec8a3287f714cbe9becbcc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a35ebd0fcbdec8a3287f714cbe9becbcc">&#9670;&#160;</a></span>visibilitySettingsIndex</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">float ChaseRange::MaxRange</td>
+          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> DynamicVisibilityMgr::visibilitySettingsIndex = 0</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-</div>
-</div>
-<a id="a7909b18028d43c84eca5feee3e41469c" name="a7909b18028d43c84eca5feee3e41469c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7909b18028d43c84eca5feee3e41469c">&#9670;&#160;</a></span>MaxTolerance</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float ChaseRange::MaxTolerance</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a0e2c69e20d6a38d056505c3b5b0d9fd6" name="a0e2c69e20d6a38d056505c3b5b0d9fd6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0e2c69e20d6a38d056505c3b5b0d9fd6">&#9670;&#160;</a></span>MinRange</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float ChaseRange::MinRange</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a7b640ecfc0e80921ab36c2c33f0b10fd" name="a7b640ecfc0e80921ab36c2c33f0b10fd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7b640ecfc0e80921ab36c2c33f0b10fd">&#9670;&#160;</a></span>MinTolerance</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float ChaseRange::MinTolerance</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
+<p class="reference">Referenced by <a class="el" href="../../#l00052">GetAINotifyDelay()</a>, <a class="el" href="../../#l00053">GetReqMoveDistSq()</a>, <a class="el" href="../../#l00051">GetVisibilityNotifyDelay()</a>, and <a class="el" href="../../#l00022">Update()</a>.</p>
 
 </div>
 </div>
@@ -292,8 +299,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../da/df8/a10144.html">ChaseRange</a></li>
-    <li class="footer">Generated on Mon Feb 23 2026 21:14:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../da/df8/a10144.html">DynamicVisibilityMgr</a></li>
+    <li class="footer">Generated on Mon Mar 2 2026 21:05:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,10 +1,6 @@
 var a11796 =
 [
-    [ "CustomChatTextBuilder", "df/d78/a11796.html#a47b3e24f7100d13180ad1946647999ae", null ],
-    [ "operator()", "df/d78/a11796.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
-    [ "_language", "df/d78/a11796.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
-    [ "_msgType", "df/d78/a11796.html#a0db1501da33fde77ab3c50943666b1fd", null ],
-    [ "_source", "df/d78/a11796.html#ad75f22d7eb6a62d59730918f4336768c", null ],
-    [ "_target", "df/d78/a11796.html#aa45be322836be588d8df2b253a22ee5c", null ],
-    [ "_text", "df/d78/a11796.html#ab59c9b938b564329483e38466169a92c", null ]
+    [ "EffectSplitHandler", "df/d78/a11796.html#a1e31c0f06961aba66f6737c4b4aca7f6", null ],
+    [ "Call", "df/d78/a11796.html#ae0ef79af01cce82ed3cbe208d98b325a", null ],
+    [ "pEffectHandlerScript", "df/d78/a11796.html#a181c0f987789f3725e7ba7e023cfc4e7", null ]
 ];

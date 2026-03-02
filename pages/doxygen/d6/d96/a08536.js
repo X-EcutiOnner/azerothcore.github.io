@@ -1,6 +1,9 @@
 var a08536 =
 [
-    [ "item_count", "d6/d96/a08536.html#a437fe00f34ad414e3c9f81d01a153d13", null ],
-    [ "setid", "d6/d96/a08536.html#ab8c24b76b1c0eb92c0fe52ca9baf293a", null ],
-    [ "spells", "d6/d96/a08536.html#af8156bad9771ed816fd861d3eb992aaa", null ]
+    [ "artKits", "d6/d96/a08536.html#a7ae038f7051f3da177d3cdc95ef608d2", null ],
+    [ "entry", "d6/d96/a08536.html#ae1378dcb4327a4d000c3299a32f9d23f", null ],
+    [ "faction", "d6/d96/a08536.html#a77e0b2613b7a1cda1bd306f066e63a39", null ],
+    [ "flags", "d6/d96/a08536.html#a4120c9184b4cfab7afada48ccf8e713e", null ],
+    [ "maxgold", "d6/d96/a08536.html#ae80fd304ee4d02d5e0d13ec6136ec736", null ],
+    [ "mingold", "d6/d96/a08536.html#a3b1c3dd6f223bd93cda6e993a64b61d1", null ]
 ];

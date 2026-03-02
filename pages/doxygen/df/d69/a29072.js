@@ -1,6 +1,5 @@
 var a29072 =
 [
-    [ "Id", "df/d69/a29072.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
-    [ "Order", "df/d69/a29072.html#a16fca42d9a0a98e034a93984c4362b53", null ],
-    [ "TypeFlags", "df/d69/a29072.html#ac7246adc7c6c3217de8ac093983b7553", null ]
+    [ "Id", "df/d69/a29072.html#a79e4b857b811a044aed0ce33422df801", null ],
+    [ "quality_mod", "df/d69/a29072.html#a756e7b316cc365f15f24e5e4637303a6", null ]
 ];

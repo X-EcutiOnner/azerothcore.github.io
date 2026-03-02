@@ -1,5 +1,8 @@
 var a19648 =
 [
-    [ "at_naxxramas_hub_portal", "de/dab/a19648.html#a946086e8a4651240b84526a1b2d54065", null ],
-    [ "OnTrigger", "de/dab/a19648.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
+    [ "npc_teslaAI", "de/dab/a19648.html#a7281220648af1357b1377d6f7874d663", null ],
+    [ "DamageTaken", "de/dab/a19648.html#aa3ab570e86261bc3178e17109d76af12", null ],
+    [ "EnterEvadeMode", "de/dab/a19648.html#acc8115216989b34593a9435eeb051eda", null ],
+    [ "JustEngagedWith", "de/dab/a19648.html#add93f68bc96b3c93dc0a3271543711e6", null ],
+    [ "UpdateAI", "de/dab/a19648.html#a962745569b07e368067ee483d2379840", null ]
 ];

@@ -1,6 +1,6 @@
 var a21456 =
 [
-    [ "npc_khunok_the_behemothAI", "dc/d09/a21460.html", "dc/d09/a21460" ],
-    [ "npc_khunok_the_behemoth", "d0/dd8/a21456.html#a0370959631c00581495dbd7c37263236", null ],
-    [ "GetAI", "d0/dd8/a21456.html#a201aa35dd119d23126b192a1e3786c09", null ]
+    [ "npc_azure_saboteurAI", "dc/d09/a21460.html", "dc/d09/a21460" ],
+    [ "npc_azure_saboteur", "d0/dd8/a21456.html#ae60362727a7a246b7c6c923ed96c7be7", null ],
+    [ "GetAI", "d0/dd8/a21456.html#a69b552fb6f725d00ac4b0303d36a7138", null ]
 ];

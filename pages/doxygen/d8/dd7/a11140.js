@@ -1,7 +1,6 @@
 var a11140 =
 [
-    [ "MinimapPingClient", "d8/dd7/a11140.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
-    [ "Read", "d8/dd7/a11140.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
-    [ "MapX", "d8/dd7/a11140.html#ad4ff3977c260035145d6acd00429d81e", null ],
-    [ "MapY", "d8/dd7/a11140.html#abd8640cb98238f339218c3b945885c97", null ]
+    [ "ItemRefund", "d8/dd7/a11140.html#aa257d579519d45da88694ff6306395da", null ],
+    [ "Read", "d8/dd7/a11140.html#a6d031070a4832bdc716f8b73629ebc8d", null ],
+    [ "ItemGuid", "d8/dd7/a11140.html#ac394336b15540248770f81d748206f7b", null ]
 ];

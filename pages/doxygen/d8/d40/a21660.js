@@ -1,8 +1,7 @@
 var a21660 =
 [
-    [ "npc_future_youAI", "d8/d40/a21660.html#a7608c050dd198e3133050e222b42f62b", null ],
-    [ "EnterEvadeMode", "d8/d40/a21660.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
-    [ "MoveInLineOfSight", "d8/d40/a21660.html#a35b67f9e948f5ffbde8a423190ece603", null ],
-    [ "Reset", "d8/d40/a21660.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
-    [ "UpdateAI", "d8/d40/a21660.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
+    [ "npc_cosmetic_toy_plane", "d8/d40/a21660.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
+    [ "Reset", "d8/d40/a21660.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
+    [ "UpdateAI", "d8/d40/a21660.html#a41d62b314510fbd6637d8eddbea16f96", null ],
+    [ "_movementArray", "d8/d40/a21660.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
 ];

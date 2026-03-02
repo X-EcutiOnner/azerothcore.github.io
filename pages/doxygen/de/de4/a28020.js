@@ -1,7 +1,6 @@
 var a28020 =
 [
-    [ "npc_spirit_shadeAI", "de/de4/a28020.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "de/de4/a28020.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "de/de4/a28020.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "de/de4/a28020.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "AreaTrigger_at_area_52_entrance", "de/de4/a28020.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "de/de4/a28020.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "de/de4/a28020.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

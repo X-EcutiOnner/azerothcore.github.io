@@ -1,6 +1,6 @@
 var a17712 =
 [
-    [ "npc_dark_nucleusAI", "dd/d5f/a17716.html", "dd/d5f/a17716" ],
-    [ "npc_dark_nucleus", "dd/d40/a17712.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
-    [ "GetAI", "dd/d40/a17712.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
+    [ "ShockVortexExplodeEvent", "dd/d40/a17712.html#ad972aed372822e10a476d1592192f3ea", null ],
+    [ "Execute", "dd/d40/a17712.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
+    [ "_owner", "dd/d40/a17712.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
 ];

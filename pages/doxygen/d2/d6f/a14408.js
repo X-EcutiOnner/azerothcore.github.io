@@ -1,8 +1,6 @@
 var a14408 =
 [
-    [ "boss_grilekAI", "d2/d6f/a14408.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
-    [ "JustEngagedWith", "d2/d6f/a14408.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
-    [ "Reset", "d2/d6f/a14408.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
-    [ "UpdateAI", "d2/d6f/a14408.html#a19438103c9a582a7d36d805c80131e8c", null ],
-    [ "_pursuitTargetGUID", "d2/d6f/a14408.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
+    [ "boss_arlokkAI", "d9/d67/a14412.html", "d9/d67/a14412" ],
+    [ "boss_arlokk", "d2/d6f/a14408.html#a55bb21239e05acff18d2fb147449800e", null ],
+    [ "GetAI", "d2/d6f/a14408.html#a58b8cc7a198784b48faaab1b069d397c", null ]
 ];

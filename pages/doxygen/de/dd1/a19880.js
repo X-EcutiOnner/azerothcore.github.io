@@ -1,7 +1,6 @@
 var a19880 =
 [
-    [ "HandleOnEffectApply", "de/dd1/a19880.html#a4841f7a44f5df964c4eb9965383fd747", null ],
-    [ "PrepareAuraScript", "de/dd1/a19880.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
-    [ "Register", "de/dd1/a19880.html#a68fba646552678744f49d10b59704a35", null ],
-    [ "Validate", "de/dd1/a19880.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
+    [ "HandleDamageCalc", "de/dd1/a19880.html#a71b88fbad5acbba47028dd1ff82b4836", null ],
+    [ "PrepareSpellScript", "de/dd1/a19880.html#a754da297cd5801616e24bf2d802d0b38", null ],
+    [ "Register", "de/dd1/a19880.html#a231f29ea69a354ddb2963cb4ef9a3f4e", null ]
 ];

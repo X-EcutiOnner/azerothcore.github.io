@@ -1,10 +1,15 @@
 var a16704 =
 [
-    [ "npc_black_knight_ghoulAI", "da/d31/a16704.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
-    [ "JustEngagedWith", "da/d31/a16704.html#a8353dea0de91017223c7624a5a96ebec", null ],
-    [ "Reset", "da/d31/a16704.html#a8a33efa0719063a9565bc07143f8ad83", null ],
-    [ "SpellHit", "da/d31/a16704.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
-    [ "UpdateAI", "da/d31/a16704.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
-    [ "events", "da/d31/a16704.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
-    [ "pInstance", "da/d31/a16704.html#a35b8375f1b3407f5cee653ee118e0697", null ]
+    [ "npc_argent_soldierAI", "da/d31/a16704.html#abbfbb5a1e116c6deb3db23f12ff8994f", null ],
+    [ "DamageTaken", "da/d31/a16704.html#afb48cc1c2e254c292c33eade74b6fad7", null ],
+    [ "JustDied", "da/d31/a16704.html#aedf4dcd909c1009fedfde593522454ec", null ],
+    [ "JustEngagedWith", "da/d31/a16704.html#a0aa59fdf0668d64f3b670c595579ba81", null ],
+    [ "Reset", "da/d31/a16704.html#a1a0c00c09c348f746730c9743d4b7b6b", null ],
+    [ "SetData", "da/d31/a16704.html#a20b62b48f5cf92106fcd1860d9e91956", null ],
+    [ "UpdateAI", "da/d31/a16704.html#aed2921c1f6bc0507bf9e6f02f224ab44", null ],
+    [ "WaypointReached", "da/d31/a16704.html#af70fb91477dbeaa7e6e409f3381f0770", null ],
+    [ "bCheck", "da/d31/a16704.html#af570597c33add7ac5ebf3d01e8c9b2df", null ],
+    [ "events", "da/d31/a16704.html#ac458fc9a331dc7edfdc764215b1926e8", null ],
+    [ "pInstance", "da/d31/a16704.html#ac9951514f27f343ae96e856f484e7baf", null ],
+    [ "uiWaypoint", "da/d31/a16704.html#a87382571221c608017fd2d4cb99193dc", null ]
 ];

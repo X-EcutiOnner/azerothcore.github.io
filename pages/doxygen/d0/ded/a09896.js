@@ -1,7 +1,5 @@
 var a09896 =
 [
-    [ "LootGroupInvalidSelector", "d0/ded/a09896.html#abea815e8ee0d31cc64b3fd7f46033cca", null ],
-    [ "operator()", "d0/ded/a09896.html#a2ea426fdeced03324c4a63184c2c1fc4", null ],
-    [ "_loot", "d0/ded/a09896.html#a67b9d223426512af79bbf5b035c18a6d", null ],
-    [ "_lootMode", "d0/ded/a09896.html#a10e307846a0731aa812388c29c0d4bc8", null ]
+    [ "entry", "d0/ded/a09896.html#a1105fbea33b497bca2a290431cb0f4ca", null ],
+    [ "type", "d0/ded/a09896.html#acaf1010ce0620ee99a2a6b2721a06b89", null ]
 ];

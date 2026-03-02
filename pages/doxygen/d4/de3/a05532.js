@@ -1,4 +1,8 @@
 var a05532 =
 [
-    [ "InvalidAppenderArgsException", "d4/de3/a05532.html#a5cfc42ea2456b9c7d60f06a1d469f1ae", null ]
+    [ "Decode", "d4/de3/a05532.html#aba5ab7c59ce77414bca38bfcde32d1c0", null ],
+    [ "Encode", "d4/de3/a05532.html#ad6cde2310ca52940df1bbf93deff6b91", null ],
+    [ "BITS_PER_CHAR", "d4/de3/a05532.html#a5efb6c842ab7733dc26fd67f1a00ccdf", null ],
+    [ "DECODE_ERROR", "d4/de3/a05532.html#a8fccf3d4b22e835fc4dca6b942771a2a", null ],
+    [ "PADDING", "d4/de3/a05532.html#a2e5699431f24ca6b745294b935b99240", null ]
 ];

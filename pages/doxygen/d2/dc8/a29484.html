@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: DamageInfoStub Class Reference</title>
+<title>AzerothCore: ProcTestResult Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,953 +105,116 @@ $(document).ready(function(){initNavTree('d2/dc8/a29484.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../df/d01/a29481.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">DamageInfoStub Class Reference</div></div>
+  <div class="headertitle"><div class="title">ProcTestResult Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>Lightweight stub for <a class="el" href="../../d0/d96/a08924.html">DamageInfo</a>.  
+<p>Simulated proc result for testing.  
  <a href="../../d2/dc8/a29484.html#details">More...</a></p>
 
-<p><code>#include &quot;<a class="el" href="../../">DamageHealInfoStub.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">AuraScriptTestFramework.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a776be3233444b5f03ba077fd4d48e6b7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a776be3233444b5f03ba077fd4d48e6b7">DamageInfoStub</a> ()=default</td></tr>
-<tr class="separator:a776be3233444b5f03ba077fd4d48e6b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af21494e062d7de7fc9080aef0caf7185"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#af21494e062d7de7fc9080aef0caf7185">DamageInfoStub</a> (uint32_t damage, uint32_t originalDamage, uint32_t schoolMask, uint8_t attackType, <a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *spellInfo=nullptr)</td></tr>
-<tr class="separator:af21494e062d7de7fc9080aef0caf7185"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9fcab9307c7ffd2afc2489d2b6d043c4"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a9fcab9307c7ffd2afc2489d2b6d043c4">~DamageInfoStub</a> ()=default</td></tr>
-<tr class="separator:a9fcab9307c7ffd2afc2489d2b6d043c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa2ad43f65d6572f1fed76877b3ec3d5c"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#aa2ad43f65d6572f1fed76877b3ec3d5c">GetDamage</a> () const</td></tr>
-<tr class="separator:aa2ad43f65d6572f1fed76877b3ec3d5c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae8e5be9d7db4c3d032a08443e87278e0"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#ae8e5be9d7db4c3d032a08443e87278e0">GetOriginalDamage</a> () const</td></tr>
-<tr class="separator:ae8e5be9d7db4c3d032a08443e87278e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7807c551995376d8604c262496e4db9f"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a7807c551995376d8604c262496e4db9f">GetAbsorb</a> () const</td></tr>
-<tr class="separator:a7807c551995376d8604c262496e4db9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaa6cb5143a782d76b3e835ce84631b5f"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#aaa6cb5143a782d76b3e835ce84631b5f">GetResist</a> () const</td></tr>
-<tr class="separator:aaa6cb5143a782d76b3e835ce84631b5f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4553e0e6d8657ab54b7c98d9262fb5f5"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a4553e0e6d8657ab54b7c98d9262fb5f5">GetBlock</a> () const</td></tr>
-<tr class="separator:a4553e0e6d8657ab54b7c98d9262fb5f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac39079942629e30d631eb0b4abcc938c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#ac39079942629e30d631eb0b4abcc938c">SetDamage</a> (uint32_t damage)</td></tr>
-<tr class="separator:ac39079942629e30d631eb0b4abcc938c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2ec521265ea69e94924e10aad3fd1a6c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a2ec521265ea69e94924e10aad3fd1a6c">SetOriginalDamage</a> (uint32_t damage)</td></tr>
-<tr class="separator:a2ec521265ea69e94924e10aad3fd1a6c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1c6e75a6933d8cbcc7a66d68d4f65d1c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a1c6e75a6933d8cbcc7a66d68d4f65d1c">SetAbsorb</a> (uint32_t absorb)</td></tr>
-<tr class="separator:a1c6e75a6933d8cbcc7a66d68d4f65d1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a678124e67c82340eb16f4f62fecb08ad"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a678124e67c82340eb16f4f62fecb08ad">SetResist</a> (uint32_t resist)</td></tr>
-<tr class="separator:a678124e67c82340eb16f4f62fecb08ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a353709b9695720cd67a5ac8cec9a2672"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a353709b9695720cd67a5ac8cec9a2672">SetBlock</a> (uint32_t block)</td></tr>
-<tr class="separator:a353709b9695720cd67a5ac8cec9a2672"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4b36b0de9a5875e0f3a14b83d768dfcd"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a4b36b0de9a5875e0f3a14b83d768dfcd">GetSchoolMask</a> () const</td></tr>
-<tr class="separator:a4b36b0de9a5875e0f3a14b83d768dfcd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0c06178531e48b4917139857f8e8647f"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a0c06178531e48b4917139857f8e8647f">GetAttackType</a> () const</td></tr>
-<tr class="separator:a0c06178531e48b4917139857f8e8647f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a93a42bde3254e00d2f78af0f95bcd83b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a93a42bde3254e00d2f78af0f95bcd83b">SetSchoolMask</a> (uint32_t schoolMask)</td></tr>
-<tr class="separator:a93a42bde3254e00d2f78af0f95bcd83b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aace6419f513faffd0069933a85b9d2a2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#aace6419f513faffd0069933a85b9d2a2">SetAttackType</a> (uint8_t attackType)</td></tr>
-<tr class="separator:aace6419f513faffd0069933a85b9d2a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aff5889b2accd34577880d578b22f0feb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#aff5889b2accd34577880d578b22f0feb">GetSpellInfo</a> () const</td></tr>
-<tr class="separator:aff5889b2accd34577880d578b22f0feb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5bc50df8c1efcc1f7628f2707fcc06da"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a5bc50df8c1efcc1f7628f2707fcc06da">SetSpellInfo</a> (<a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *spellInfo)</td></tr>
-<tr class="separator:a5bc50df8c1efcc1f7628f2707fcc06da"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5b5c0871a6222563a1b86e25eb4c7e8a"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a5b5c0871a6222563a1b86e25eb4c7e8a">GetHitMask</a> () const</td></tr>
-<tr class="separator:a5b5c0871a6222563a1b86e25eb4c7e8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a37b0384b8dc1f9865100dd3c234e79a7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a37b0384b8dc1f9865100dd3c234e79a7">SetHitMask</a> (uint32_t hitMask)</td></tr>
-<tr class="separator:a37b0384b8dc1f9865100dd3c234e79a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:aefc2b0bdaf197bec90d5fe2cf005e85a"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#aefc2b0bdaf197bec90d5fe2cf005e85a">_damage</a> = 0</td></tr>
-<tr class="separator:aefc2b0bdaf197bec90d5fe2cf005e85a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a051ea5b1fef3497e9e60e0b94878c83a"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a051ea5b1fef3497e9e60e0b94878c83a">_originalDamage</a> = 0</td></tr>
-<tr class="separator:a051ea5b1fef3497e9e60e0b94878c83a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af37f88a6399cbe46b8fbd3905e0b22fa"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#af37f88a6399cbe46b8fbd3905e0b22fa">_absorb</a> = 0</td></tr>
-<tr class="separator:af37f88a6399cbe46b8fbd3905e0b22fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6058cebcd3a4a3b64036ce5fc1e8afb7"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a6058cebcd3a4a3b64036ce5fc1e8afb7">_resist</a> = 0</td></tr>
-<tr class="separator:a6058cebcd3a4a3b64036ce5fc1e8afb7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa59725d2e656f86fd0532c25f33ec68c"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#aa59725d2e656f86fd0532c25f33ec68c">_block</a> = 0</td></tr>
-<tr class="separator:aa59725d2e656f86fd0532c25f33ec68c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac43982a9dcc4de2dc4d76732a3190100"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#ac43982a9dcc4de2dc4d76732a3190100">_schoolMask</a> = 1</td></tr>
-<tr class="separator:ac43982a9dcc4de2dc4d76732a3190100"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab564bad2294e8787ddaabc5336676fe0"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#ab564bad2294e8787ddaabc5336676fe0">_attackType</a> = 0</td></tr>
-<tr class="separator:ab564bad2294e8787ddaabc5336676fe0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3d25fd3b20e5555af8d8d6bb745ba3ef"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a3d25fd3b20e5555af8d8d6bb745ba3ef">_hitMask</a> = 0</td></tr>
-<tr class="separator:a3d25fd3b20e5555af8d8d6bb745ba3ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a71bac926d868f269fc565e116f2b8c64"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a71bac926d868f269fc565e116f2b8c64">_spellInfo</a> = nullptr</td></tr>
-<tr class="separator:a71bac926d868f269fc565e116f2b8c64"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a497babcaf1a36b0abd10b4e360c231f2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a497babcaf1a36b0abd10b4e360c231f2">shouldProc</a> = false</td></tr>
+<tr class="separator:a497babcaf1a36b0abd10b4e360c231f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae0feb161d225551bba25d466541cde84"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#ae0feb161d225551bba25d466541cde84">effectMask</a> = 0</td></tr>
+<tr class="separator:ae0feb161d225551bba25d466541cde84"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0299896836a739f2601a5ee1078f53bb"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a0299896836a739f2601a5ee1078f53bb">procChance</a> = 100.0f</td></tr>
+<tr class="separator:a0299896836a739f2601a5ee1078f53bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a12d58d19ba4df25b8bd9dc6e1d089408"><td class="memItemLeft" align="right" valign="top">std::vector&lt; uint32_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a12d58d19ba4df25b8bd9dc6e1d089408">spellsCast</a></td></tr>
+<tr class="separator:a12d58d19ba4df25b8bd9dc6e1d089408"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a49f170e5f66cecdf6d719d1f6ac97254"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a49f170e5f66cecdf6d719d1f6ac97254">chargeConsumed</a> = false</td></tr>
+<tr class="separator:a49f170e5f66cecdf6d719d1f6ac97254"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a60219087858953e3ea124b1b784516b2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc8/a29484.html#a60219087858953e3ea124b1b784516b2">cooldownSet</a> = false</td></tr>
+<tr class="separator:a60219087858953e3ea124b1b784516b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Lightweight stub for <a class="el" href="../../d0/d96/a08924.html">DamageInfo</a>. </p>
-<p >Mirrors the key fields of <a class="el" href="../../d0/d96/a08924.html">DamageInfo</a> for proc testing without requiring actual <a class="el" href="../../d4/d43/a08960.html">Unit</a> objects. </p>
-</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a776be3233444b5f03ba077fd4d48e6b7" name="a776be3233444b5f03ba077fd4d48e6b7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a776be3233444b5f03ba077fd4d48e6b7">&#9670;&#160;</a></span>DamageInfoStub() <span class="overload">[1/2]</span></h2>
+<div class="textblock"><p >Simulated proc result for testing. </p>
+</div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="a49f170e5f66cecdf6d719d1f6ac97254" name="a49f170e5f66cecdf6d719d1f6ac97254"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a49f170e5f66cecdf6d719d1f6ac97254">&#9670;&#160;</a></span>chargeConsumed</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">DamageInfoStub::DamageInfoStub </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname">bool ProcTestResult::chargeConsumed = false</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="af21494e062d7de7fc9080aef0caf7185" name="af21494e062d7de7fc9080aef0caf7185"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af21494e062d7de7fc9080aef0caf7185">&#9670;&#160;</a></span>DamageInfoStub() <span class="overload">[2/2]</span></h2>
+<a id="a60219087858953e3ea124b1b784516b2" name="a60219087858953e3ea124b1b784516b2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a60219087858953e3ea124b1b784516b2">&#9670;&#160;</a></span>cooldownSet</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">DamageInfoStub::DamageInfoStub </td>
-          <td>(</td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>damage</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>originalDamage</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>schoolMask</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">uint8_t&#160;</td>
-          <td class="paramname"><em>attackType</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *&#160;</td>
-          <td class="paramname"><em>spellInfo</em> = <code>nullptr</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">bool ProcTestResult::cooldownSet = false</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   39</span>        : <a class="code hl_variable" href="../../d2/dc8/a29484.html#aefc2b0bdaf197bec90d5fe2cf005e85a">_damage</a>(damage)</div>
-<div class="line"><span class="lineno">   40</span>        , <a class="code hl_variable" href="../../d2/dc8/a29484.html#a051ea5b1fef3497e9e60e0b94878c83a">_originalDamage</a>(originalDamage)</div>
-<div class="line"><span class="lineno">   41</span>        , <a class="code hl_variable" href="../../d2/dc8/a29484.html#ac43982a9dcc4de2dc4d76732a3190100">_schoolMask</a>(schoolMask)</div>
-<div class="line"><span class="lineno">   42</span>        , <a class="code hl_variable" href="../../d2/dc8/a29484.html#ab564bad2294e8787ddaabc5336676fe0">_attackType</a>(attackType)</div>
-<div class="line"><span class="lineno">   43</span>        , <a class="code hl_variable" href="../../d2/dc8/a29484.html#a71bac926d868f269fc565e116f2b8c64">_spellInfo</a>(spellInfo)</div>
-<div class="line"><span class="lineno">   44</span>    {}</div>
-<div class="ttc" id="aa29484_html_a051ea5b1fef3497e9e60e0b94878c83a"><div class="ttname"><a href="../../d2/dc8/a29484.html#a051ea5b1fef3497e9e60e0b94878c83a">DamageInfoStub::_originalDamage</a></div><div class="ttdeci">uint32_t _originalDamage</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:78</div></div>
-<div class="ttc" id="aa29484_html_a71bac926d868f269fc565e116f2b8c64"><div class="ttname"><a href="../../d2/dc8/a29484.html#a71bac926d868f269fc565e116f2b8c64">DamageInfoStub::_spellInfo</a></div><div class="ttdeci">SpellInfo const  * _spellInfo</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:85</div></div>
-<div class="ttc" id="aa29484_html_ab564bad2294e8787ddaabc5336676fe0"><div class="ttname"><a href="../../d2/dc8/a29484.html#ab564bad2294e8787ddaabc5336676fe0">DamageInfoStub::_attackType</a></div><div class="ttdeci">uint8_t _attackType</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:83</div></div>
-<div class="ttc" id="aa29484_html_ac43982a9dcc4de2dc4d76732a3190100"><div class="ttname"><a href="../../d2/dc8/a29484.html#ac43982a9dcc4de2dc4d76732a3190100">DamageInfoStub::_schoolMask</a></div><div class="ttdeci">uint32_t _schoolMask</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:82</div></div>
-<div class="ttc" id="aa29484_html_aefc2b0bdaf197bec90d5fe2cf005e85a"><div class="ttname"><a href="../../d2/dc8/a29484.html#aefc2b0bdaf197bec90d5fe2cf005e85a">DamageInfoStub::_damage</a></div><div class="ttdeci">uint32_t _damage</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:77</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a9fcab9307c7ffd2afc2489d2b6d043c4" name="a9fcab9307c7ffd2afc2489d2b6d043c4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9fcab9307c7ffd2afc2489d2b6d043c4">&#9670;&#160;</a></span>~DamageInfoStub()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual DamageInfoStub::~DamageInfoStub </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">virtual</span><span class="mlabel">default</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a7807c551995376d8604c262496e4db9f" name="a7807c551995376d8604c262496e4db9f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7807c551995376d8604c262496e4db9f">&#9670;&#160;</a></span>GetAbsorb()</h2>
+<a id="ae0feb161d225551bba25d466541cde84" name="ae0feb161d225551bba25d466541cde84"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae0feb161d225551bba25d466541cde84">&#9670;&#160;</a></span>effectMask</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">uint32_t DamageInfoStub::GetAbsorb </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td class="memname">uint8_t ProcTestResult::effectMask = 0</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   51</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/dc8/a29484.html#af37f88a6399cbe46b8fbd3905e0b22fa">_absorb</a>; }</div>
-<div class="ttc" id="aa29484_html_af37f88a6399cbe46b8fbd3905e0b22fa"><div class="ttname"><a href="../../d2/dc8/a29484.html#af37f88a6399cbe46b8fbd3905e0b22fa">DamageInfoStub::_absorb</a></div><div class="ttdeci">uint32_t _absorb</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:79</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00079">_absorb</a>.</p>
 
 </div>
 </div>
-<a id="a0c06178531e48b4917139857f8e8647f" name="a0c06178531e48b4917139857f8e8647f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0c06178531e48b4917139857f8e8647f">&#9670;&#160;</a></span>GetAttackType()</h2>
+<a id="a0299896836a739f2601a5ee1078f53bb" name="a0299896836a739f2601a5ee1078f53bb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0299896836a739f2601a5ee1078f53bb">&#9670;&#160;</a></span>procChance</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">uint8_t DamageInfoStub::GetAttackType </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td class="memname">float ProcTestResult::procChance = 100.0f</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   63</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/dc8/a29484.html#ab564bad2294e8787ddaabc5336676fe0">_attackType</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00083">_attackType</a>.</p>
 
 </div>
 </div>
-<a id="a4553e0e6d8657ab54b7c98d9262fb5f5" name="a4553e0e6d8657ab54b7c98d9262fb5f5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4553e0e6d8657ab54b7c98d9262fb5f5">&#9670;&#160;</a></span>GetBlock()</h2>
+<a id="a497babcaf1a36b0abd10b4e360c231f2" name="a497babcaf1a36b0abd10b4e360c231f2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a497babcaf1a36b0abd10b4e360c231f2">&#9670;&#160;</a></span>shouldProc</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">uint32_t DamageInfoStub::GetBlock </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td class="memname">bool ProcTestResult::shouldProc = false</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   53</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/dc8/a29484.html#aa59725d2e656f86fd0532c25f33ec68c">_block</a>; }</div>
-<div class="ttc" id="aa29484_html_aa59725d2e656f86fd0532c25f33ec68c"><div class="ttname"><a href="../../d2/dc8/a29484.html#aa59725d2e656f86fd0532c25f33ec68c">DamageInfoStub::_block</a></div><div class="ttdeci">uint32_t _block</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:81</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00081">_block</a>.</p>
 
 </div>
 </div>
-<a id="aa2ad43f65d6572f1fed76877b3ec3d5c" name="aa2ad43f65d6572f1fed76877b3ec3d5c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa2ad43f65d6572f1fed76877b3ec3d5c">&#9670;&#160;</a></span>GetDamage()</h2>
+<a id="a12d58d19ba4df25b8bd9dc6e1d089408" name="a12d58d19ba4df25b8bd9dc6e1d089408"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a12d58d19ba4df25b8bd9dc6e1d089408">&#9670;&#160;</a></span>spellsCast</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">uint32_t DamageInfoStub::GetDamage </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
+          <td class="memname">std::vector&lt;uint32_t&gt; ProcTestResult::spellsCast</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   49</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/dc8/a29484.html#aefc2b0bdaf197bec90d5fe2cf005e85a">_damage</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">_damage</a>.</p>
-
-</div>
-</div>
-<a id="a5b5c0871a6222563a1b86e25eb4c7e8a" name="a5b5c0871a6222563a1b86e25eb4c7e8a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5b5c0871a6222563a1b86e25eb4c7e8a">&#9670;&#160;</a></span>GetHitMask()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t DamageInfoStub::GetHitMask </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   73</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/dc8/a29484.html#a3d25fd3b20e5555af8d8d6bb745ba3ef">_hitMask</a>; }</div>
-<div class="ttc" id="aa29484_html_a3d25fd3b20e5555af8d8d6bb745ba3ef"><div class="ttname"><a href="../../d2/dc8/a29484.html#a3d25fd3b20e5555af8d8d6bb745ba3ef">DamageInfoStub::_hitMask</a></div><div class="ttdeci">uint32_t _hitMask</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:84</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00084">_hitMask</a>.</p>
-
-</div>
-</div>
-<a id="ae8e5be9d7db4c3d032a08443e87278e0" name="ae8e5be9d7db4c3d032a08443e87278e0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae8e5be9d7db4c3d032a08443e87278e0">&#9670;&#160;</a></span>GetOriginalDamage()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t DamageInfoStub::GetOriginalDamage </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   50</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/dc8/a29484.html#a051ea5b1fef3497e9e60e0b94878c83a">_originalDamage</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00078">_originalDamage</a>.</p>
-
-</div>
-</div>
-<a id="aaa6cb5143a782d76b3e835ce84631b5f" name="aaa6cb5143a782d76b3e835ce84631b5f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaa6cb5143a782d76b3e835ce84631b5f">&#9670;&#160;</a></span>GetResist()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t DamageInfoStub::GetResist </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   52</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/dc8/a29484.html#a6058cebcd3a4a3b64036ce5fc1e8afb7">_resist</a>; }</div>
-<div class="ttc" id="aa29484_html_a6058cebcd3a4a3b64036ce5fc1e8afb7"><div class="ttname"><a href="../../d2/dc8/a29484.html#a6058cebcd3a4a3b64036ce5fc1e8afb7">DamageInfoStub::_resist</a></div><div class="ttdeci">uint32_t _resist</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:80</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00080">_resist</a>.</p>
-
-</div>
-</div>
-<a id="a4b36b0de9a5875e0f3a14b83d768dfcd" name="a4b36b0de9a5875e0f3a14b83d768dfcd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4b36b0de9a5875e0f3a14b83d768dfcd">&#9670;&#160;</a></span>GetSchoolMask()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t DamageInfoStub::GetSchoolMask </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   62</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/dc8/a29484.html#ac43982a9dcc4de2dc4d76732a3190100">_schoolMask</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00082">_schoolMask</a>.</p>
-
-</div>
-</div>
-<a id="aff5889b2accd34577880d578b22f0feb" name="aff5889b2accd34577880d578b22f0feb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aff5889b2accd34577880d578b22f0feb">&#9670;&#160;</a></span>GetSpellInfo()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const  * DamageInfoStub::GetSpellInfo </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   69</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/dc8/a29484.html#a71bac926d868f269fc565e116f2b8c64">_spellInfo</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00085">_spellInfo</a>.</p>
-
-</div>
-</div>
-<a id="a1c6e75a6933d8cbcc7a66d68d4f65d1c" name="a1c6e75a6933d8cbcc7a66d68d4f65d1c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1c6e75a6933d8cbcc7a66d68d4f65d1c">&#9670;&#160;</a></span>SetAbsorb()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void DamageInfoStub::SetAbsorb </td>
-          <td>(</td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>absorb</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   57</span>{ <a class="code hl_variable" href="../../d2/dc8/a29484.html#af37f88a6399cbe46b8fbd3905e0b22fa">_absorb</a> = absorb; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00079">_absorb</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00173">DamageInfoStubBuilder::WithAbsorb()</a>.</p>
-
-</div>
-</div>
-<a id="aace6419f513faffd0069933a85b9d2a2" name="aace6419f513faffd0069933a85b9d2a2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aace6419f513faffd0069933a85b9d2a2">&#9670;&#160;</a></span>SetAttackType()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void DamageInfoStub::SetAttackType </td>
-          <td>(</td>
-          <td class="paramtype">uint8_t&#160;</td>
-          <td class="paramname"><em>attackType</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   66</span>{ <a class="code hl_variable" href="../../d2/dc8/a29484.html#ab564bad2294e8787ddaabc5336676fe0">_attackType</a> = attackType; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00083">_attackType</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00161">DamageInfoStubBuilder::WithAttackType()</a>.</p>
-
-</div>
-</div>
-<a id="a353709b9695720cd67a5ac8cec9a2672" name="a353709b9695720cd67a5ac8cec9a2672"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a353709b9695720cd67a5ac8cec9a2672">&#9670;&#160;</a></span>SetBlock()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void DamageInfoStub::SetBlock </td>
-          <td>(</td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>block</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   59</span>{ <a class="code hl_variable" href="../../d2/dc8/a29484.html#aa59725d2e656f86fd0532c25f33ec68c">_block</a> = block; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00081">_block</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00185">DamageInfoStubBuilder::WithBlock()</a>.</p>
-
-</div>
-</div>
-<a id="ac39079942629e30d631eb0b4abcc938c" name="ac39079942629e30d631eb0b4abcc938c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac39079942629e30d631eb0b4abcc938c">&#9670;&#160;</a></span>SetDamage()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void DamageInfoStub::SetDamage </td>
-          <td>(</td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>damage</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   55</span>{ <a class="code hl_variable" href="../../d2/dc8/a29484.html#aefc2b0bdaf197bec90d5fe2cf005e85a">_damage</a> = damage; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">_damage</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00142">DamageInfoStubBuilder::WithDamage()</a>, and <a class="el" href="../../#l00099">ProcTestContext::WithDamage()</a>.</p>
-
-</div>
-</div>
-<a id="a37b0384b8dc1f9865100dd3c234e79a7" name="a37b0384b8dc1f9865100dd3c234e79a7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a37b0384b8dc1f9865100dd3c234e79a7">&#9670;&#160;</a></span>SetHitMask()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void DamageInfoStub::SetHitMask </td>
-          <td>(</td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>hitMask</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   74</span>{ <a class="code hl_variable" href="../../d2/dc8/a29484.html#a3d25fd3b20e5555af8d8d6bb745ba3ef">_hitMask</a> = hitMask; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00084">_hitMask</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00114">ProcTestContext::WithCriticalHit()</a>, <a class="el" href="../../#l00191">DamageInfoStubBuilder::WithHitMask()</a>, and <a class="el" href="../../#l00121">ProcTestContext::WithNormalHit()</a>.</p>
-
-</div>
-</div>
-<a id="a2ec521265ea69e94924e10aad3fd1a6c" name="a2ec521265ea69e94924e10aad3fd1a6c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2ec521265ea69e94924e10aad3fd1a6c">&#9670;&#160;</a></span>SetOriginalDamage()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void DamageInfoStub::SetOriginalDamage </td>
-          <td>(</td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>damage</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   56</span>{ <a class="code hl_variable" href="../../d2/dc8/a29484.html#a051ea5b1fef3497e9e60e0b94878c83a">_originalDamage</a> = damage; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00078">_originalDamage</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00142">DamageInfoStubBuilder::WithDamage()</a>, <a class="el" href="../../#l00099">ProcTestContext::WithDamage()</a>, and <a class="el" href="../../#l00149">DamageInfoStubBuilder::WithOriginalDamage()</a>.</p>
-
-</div>
-</div>
-<a id="a678124e67c82340eb16f4f62fecb08ad" name="a678124e67c82340eb16f4f62fecb08ad"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a678124e67c82340eb16f4f62fecb08ad">&#9670;&#160;</a></span>SetResist()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void DamageInfoStub::SetResist </td>
-          <td>(</td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>resist</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   58</span>{ <a class="code hl_variable" href="../../d2/dc8/a29484.html#a6058cebcd3a4a3b64036ce5fc1e8afb7">_resist</a> = resist; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00080">_resist</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00179">DamageInfoStubBuilder::WithResist()</a>.</p>
-
-</div>
-</div>
-<a id="a93a42bde3254e00d2f78af0f95bcd83b" name="a93a42bde3254e00d2f78af0f95bcd83b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a93a42bde3254e00d2f78af0f95bcd83b">&#9670;&#160;</a></span>SetSchoolMask()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void DamageInfoStub::SetSchoolMask </td>
-          <td>(</td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>schoolMask</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   65</span>{ <a class="code hl_variable" href="../../d2/dc8/a29484.html#ac43982a9dcc4de2dc4d76732a3190100">_schoolMask</a> = schoolMask; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00082">_schoolMask</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00099">ProcTestContext::WithDamage()</a>, and <a class="el" href="../../#l00155">DamageInfoStubBuilder::WithSchoolMask()</a>.</p>
-
-</div>
-</div>
-<a id="a5bc50df8c1efcc1f7628f2707fcc06da" name="a5bc50df8c1efcc1f7628f2707fcc06da"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5bc50df8c1efcc1f7628f2707fcc06da">&#9670;&#160;</a></span>SetSpellInfo()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void DamageInfoStub::SetSpellInfo </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *&#160;</td>
-          <td class="paramname"><em>spellInfo</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   70</span>{ <a class="code hl_variable" href="../../d2/dc8/a29484.html#a71bac926d868f269fc565e116f2b8c64">_spellInfo</a> = spellInfo; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00085">_spellInfo</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00167">DamageInfoStubBuilder::WithSpellInfo()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="af37f88a6399cbe46b8fbd3905e0b22fa" name="af37f88a6399cbe46b8fbd3905e0b22fa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af37f88a6399cbe46b8fbd3905e0b22fa">&#9670;&#160;</a></span>_absorb</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t DamageInfoStub::_absorb = 0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00051">GetAbsorb()</a>, and <a class="el" href="../../#l00057">SetAbsorb()</a>.</p>
-
-</div>
-</div>
-<a id="ab564bad2294e8787ddaabc5336676fe0" name="ab564bad2294e8787ddaabc5336676fe0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab564bad2294e8787ddaabc5336676fe0">&#9670;&#160;</a></span>_attackType</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint8_t DamageInfoStub::_attackType = 0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00063">GetAttackType()</a>, and <a class="el" href="../../#l00066">SetAttackType()</a>.</p>
-
-</div>
-</div>
-<a id="aa59725d2e656f86fd0532c25f33ec68c" name="aa59725d2e656f86fd0532c25f33ec68c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa59725d2e656f86fd0532c25f33ec68c">&#9670;&#160;</a></span>_block</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t DamageInfoStub::_block = 0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00053">GetBlock()</a>, and <a class="el" href="../../#l00059">SetBlock()</a>.</p>
-
-</div>
-</div>
-<a id="aefc2b0bdaf197bec90d5fe2cf005e85a" name="aefc2b0bdaf197bec90d5fe2cf005e85a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aefc2b0bdaf197bec90d5fe2cf005e85a">&#9670;&#160;</a></span>_damage</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t DamageInfoStub::_damage = 0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00049">GetDamage()</a>, and <a class="el" href="../../#l00055">SetDamage()</a>.</p>
-
-</div>
-</div>
-<a id="a3d25fd3b20e5555af8d8d6bb745ba3ef" name="a3d25fd3b20e5555af8d8d6bb745ba3ef"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3d25fd3b20e5555af8d8d6bb745ba3ef">&#9670;&#160;</a></span>_hitMask</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t DamageInfoStub::_hitMask = 0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00073">GetHitMask()</a>, and <a class="el" href="../../#l00074">SetHitMask()</a>.</p>
-
-</div>
-</div>
-<a id="a051ea5b1fef3497e9e60e0b94878c83a" name="a051ea5b1fef3497e9e60e0b94878c83a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a051ea5b1fef3497e9e60e0b94878c83a">&#9670;&#160;</a></span>_originalDamage</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t DamageInfoStub::_originalDamage = 0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00050">GetOriginalDamage()</a>, and <a class="el" href="../../#l00056">SetOriginalDamage()</a>.</p>
-
-</div>
-</div>
-<a id="a6058cebcd3a4a3b64036ce5fc1e8afb7" name="a6058cebcd3a4a3b64036ce5fc1e8afb7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6058cebcd3a4a3b64036ce5fc1e8afb7">&#9670;&#160;</a></span>_resist</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t DamageInfoStub::_resist = 0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00052">GetResist()</a>, and <a class="el" href="../../#l00058">SetResist()</a>.</p>
-
-</div>
-</div>
-<a id="ac43982a9dcc4de2dc4d76732a3190100" name="ac43982a9dcc4de2dc4d76732a3190100"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac43982a9dcc4de2dc4d76732a3190100">&#9670;&#160;</a></span>_schoolMask</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">uint32_t DamageInfoStub::_schoolMask = 1</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00062">GetSchoolMask()</a>, and <a class="el" href="../../#l00065">SetSchoolMask()</a>.</p>
-
-</div>
-</div>
-<a id="a71bac926d868f269fc565e116f2b8c64" name="a71bac926d868f269fc565e116f2b8c64"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a71bac926d868f269fc565e116f2b8c64">&#9670;&#160;</a></span>_spellInfo</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const* DamageInfoStub::_spellInfo = nullptr</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00069">GetSpellInfo()</a>, and <a class="el" href="../../#l00070">SetSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -1060,8 +223,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d2/dc8/a29484.html">DamageInfoStub</a></li>
-    <li class="footer">Generated on Mon Feb 23 2026 21:15:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d2/dc8/a29484.html">ProcTestResult</a></li>
+    <li class="footer">Generated on Mon Mar 2 2026 21:05:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

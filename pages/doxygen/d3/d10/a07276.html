@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: AuctionSortInfo Struct Reference</title>
+<title>AzerothCore: ObjectGuidVector Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,30 +106,40 @@ $(document).ready(function(){initNavTree('d3/d10/a07276.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../db/d06/a07273.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">AuctionSortInfo Struct Reference</div></div>
+  <div class="headertitle"><div class="title">ObjectGuidVector Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">AuctionHouseSearcher.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">SmartScriptMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a4ceca7230706e6906942306595686502"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d10/a07276.html#a4ceca7230706e6906942306595686502">AuctionSortInfo</a> ()=default</td></tr>
-<tr class="separator:a4ceca7230706e6906942306595686502"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa49ab82006c390e7110013b44c018c0f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d10/a07276.html#aa49ab82006c390e7110013b44c018c0f">ObjectGuidVector</a> (<a class="el" href="../../d5/d4d/a02186.html#a3d080db7fa99da7af5bcaa7720f359d1">ObjectVector</a> const &amp;objectVector)</td></tr>
+<tr class="separator:aa49ab82006c390e7110013b44c018c0f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a94ee201dcf0750edb84cedb151e9ff22"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d4d/a02186.html#a3d080db7fa99da7af5bcaa7720f359d1">ObjectVector</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d10/a07276.html#a94ee201dcf0750edb84cedb151e9ff22">GetObjectVector</a> (<a class="el" href="../../d4/d2b/a08640.html">WorldObject</a> const &amp;ref) const</td></tr>
+<tr class="separator:a94ee201dcf0750edb84cedb151e9ff22"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a07fe3304a0edffa1f17a0ce5f97d01e6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d10/a07276.html#a07fe3304a0edffa1f17a0ce5f97d01e6">~ObjectGuidVector</a> ()</td></tr>
+<tr class="separator:a07fe3304a0edffa1f17a0ce5f97d01e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:ac6afc258e0eca83f8e2fd8996e83231b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d71/a01055.html#abce5a6a07f5c4ef07bed8f8f5fba2420">AuctionSortOrder</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d10/a07276.html#ac6afc258e0eca83f8e2fd8996e83231b">sortOrder</a> { <a class="el" href="../../d2/d71/a01055.html#abce5a6a07f5c4ef07bed8f8f5fba2420a607c80ce155cba82b2aa1d27532c970d">AUCTION_SORT_MAX</a> }</td></tr>
-<tr class="separator:ac6afc258e0eca83f8e2fd8996e83231b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0077ee9a4d8727c460e07efd517ae0c6"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d10/a07276.html#a0077ee9a4d8727c460e07efd517ae0c6">isDesc</a> { true }</td></tr>
-<tr class="separator:a0077ee9a4d8727c460e07efd517ae0c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a8b6dad1739f51bba936257410a968c6e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d10/a07276.html#a8b6dad1739f51bba936257410a968c6e">UpdateObjects</a> (<a class="el" href="../../d4/d2b/a08640.html">WorldObject</a> const &amp;ref) const</td></tr>
+<tr class="separator:a8b6dad1739f51bba936257410a968c6e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a78137cb1ae9930c11f87a4a8ed5e7e26"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d4d/a02186.html#a3d080db7fa99da7af5bcaa7720f359d1">ObjectVector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d10/a07276.html#a78137cb1ae9930c11f87a4a8ed5e7e26">_objectVector</a></td></tr>
+<tr class="separator:a78137cb1ae9930c11f87a4a8ed5e7e26"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aefce0edc7881ca01ba8c8c98067e165d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d43/a01193.html#a173958393e55b3150391dfb3a6d387ed">GuidVector</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d10/a07276.html#aefce0edc7881ca01ba8c8c98067e165d">_guidVector</a></td></tr>
+<tr class="separator:aefce0edc7881ca01ba8c8c98067e165d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a4ceca7230706e6906942306595686502" name="a4ceca7230706e6906942306595686502"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4ceca7230706e6906942306595686502">&#9670;&#160;</a></span>AuctionSortInfo()</h2>
+<a id="aa49ab82006c390e7110013b44c018c0f" name="aa49ab82006c390e7110013b44c018c0f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa49ab82006c390e7110013b44c018c0f">&#9670;&#160;</a></span>ObjectGuidVector()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -138,7 +148,44 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">AuctionSortInfo::AuctionSortInfo </td>
+          <td class="memname">ObjectGuidVector::ObjectGuidVector </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/d4d/a02186.html#a3d080db7fa99da7af5bcaa7720f359d1">ObjectVector</a> const &amp;&#160;</td>
+          <td class="paramname"><em>objectVector</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 2031</span>                                                                : <a class="code hl_variable" href="../../d3/d10/a07276.html#a78137cb1ae9930c11f87a4a8ed5e7e26">_objectVector</a>(objectVector)</div>
+<div class="line"><span class="lineno"> 2032</span>    {</div>
+<div class="line"><span class="lineno"> 2033</span>        <a class="code hl_variable" href="../../d3/d10/a07276.html#aefce0edc7881ca01ba8c8c98067e165d">_guidVector</a>.reserve(<a class="code hl_variable" href="../../d3/d10/a07276.html#a78137cb1ae9930c11f87a4a8ed5e7e26">_objectVector</a>.size());</div>
+<div class="line"><span class="lineno"> 2034</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d4/d2b/a08640.html">WorldObject</a>* obj : <a class="code hl_variable" href="../../d3/d10/a07276.html#a78137cb1ae9930c11f87a4a8ed5e7e26">_objectVector</a>)</div>
+<div class="line"><span class="lineno"> 2035</span>            <a class="code hl_variable" href="../../d3/d10/a07276.html#aefce0edc7881ca01ba8c8c98067e165d">_guidVector</a>.push_back(obj-&gt;GetGUID());</div>
+<div class="line"><span class="lineno"> 2036</span>    }</div>
+<div class="ttc" id="aa07276_html_a78137cb1ae9930c11f87a4a8ed5e7e26"><div class="ttname"><a href="../../d3/d10/a07276.html#a78137cb1ae9930c11f87a4a8ed5e7e26">ObjectGuidVector::_objectVector</a></div><div class="ttdeci">ObjectVector _objectVector</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:2047</div></div>
+<div class="ttc" id="aa07276_html_aefce0edc7881ca01ba8c8c98067e165d"><div class="ttname"><a href="../../d3/d10/a07276.html#aefce0edc7881ca01ba8c8c98067e165d">ObjectGuidVector::_guidVector</a></div><div class="ttdeci">GuidVector _guidVector</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:2049</div></div>
+<div class="ttc" id="aa08640_html"><div class="ttname"><a href="../../d4/d2b/a08640.html">WorldObject</a></div><div class="ttdef"><b>Definition:</b> Object.h:471</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l02049">_guidVector</a>, and <a class="el" href="../../#l02047">_objectVector</a>.</p>
+
+</div>
+</div>
+<a id="a07fe3304a0edffa1f17a0ce5f97d01e6" name="a07fe3304a0edffa1f17a0ce5f97d01e6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a07fe3304a0edffa1f17a0ce5f97d01e6">&#9670;&#160;</a></span>~ObjectGuidVector()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">ObjectGuidVector::~ObjectGuidVector </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -146,43 +193,133 @@ Public Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 2044</span>{ }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a94ee201dcf0750edb84cedb151e9ff22" name="a94ee201dcf0750edb84cedb151e9ff22"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a94ee201dcf0750edb84cedb151e9ff22">&#9670;&#160;</a></span>GetObjectVector()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/d4d/a02186.html#a3d080db7fa99da7af5bcaa7720f359d1">ObjectVector</a> const  * ObjectGuidVector::GetObjectVector </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/d2b/a08640.html">WorldObject</a> const &amp;&#160;</td>
+          <td class="paramname"><em>ref</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 2039</span>    {</div>
+<div class="line"><span class="lineno"> 2040</span>        <a class="code hl_function" href="../../d3/d10/a07276.html#a8b6dad1739f51bba936257410a968c6e">UpdateObjects</a>(ref);</div>
+<div class="line"><span class="lineno"> 2041</span>        <span class="keywordflow">return</span> &amp;<a class="code hl_variable" href="../../d3/d10/a07276.html#a78137cb1ae9930c11f87a4a8ed5e7e26">_objectVector</a>;</div>
+<div class="line"><span class="lineno"> 2042</span>    }</div>
+<div class="ttc" id="aa07276_html_a8b6dad1739f51bba936257410a968c6e"><div class="ttname"><a href="../../d3/d10/a07276.html#a8b6dad1739f51bba936257410a968c6e">ObjectGuidVector::UpdateObjects</a></div><div class="ttdeci">void UpdateObjects(WorldObject const &amp;ref) const</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:2052</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l02047">_objectVector</a>, and <a class="el" href="../../#l02052">UpdateObjects()</a>.</p>
+
+</div>
+</div>
+<a id="a8b6dad1739f51bba936257410a968c6e" name="a8b6dad1739f51bba936257410a968c6e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8b6dad1739f51bba936257410a968c6e">&#9670;&#160;</a></span>UpdateObjects()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ObjectGuidVector::UpdateObjects </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/d2b/a08640.html">WorldObject</a> const &amp;&#160;</td>
+          <td class="paramname"><em>ref</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 2053</span>    {</div>
+<div class="line"><span class="lineno"> 2054</span>        <a class="code hl_variable" href="../../d3/d10/a07276.html#a78137cb1ae9930c11f87a4a8ed5e7e26">_objectVector</a>.clear();</div>
+<div class="line"><span class="lineno"> 2055</span> </div>
+<div class="line"><span class="lineno"> 2056</span>        <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d5/df2/a08656.html">ObjectGuid</a> <span class="keyword">const</span>&amp; guid : <a class="code hl_variable" href="../../d3/d10/a07276.html#aefce0edc7881ca01ba8c8c98067e165d">_guidVector</a>)</div>
+<div class="line"><span class="lineno"> 2057</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d4/d2b/a08640.html">WorldObject</a>* obj = <a class="code hl_function" href="../../de/dbd/a05013.html#a970c7277a8e1bb7b65f78fdee825b2cc">ObjectAccessor::GetWorldObject</a>(ref, guid))</div>
+<div class="line"><span class="lineno"> 2058</span>                <a class="code hl_variable" href="../../d3/d10/a07276.html#a78137cb1ae9930c11f87a4a8ed5e7e26">_objectVector</a>.push_back(obj);</div>
+<div class="line"><span class="lineno"> 2059</span>    }</div>
+<div class="ttc" id="aa05013_html_a970c7277a8e1bb7b65f78fdee825b2cc"><div class="ttname"><a href="../../de/dbd/a05013.html#a970c7277a8e1bb7b65f78fdee825b2cc">ObjectAccessor::GetWorldObject</a></div><div class="ttdeci">WorldObject * GetWorldObject(WorldObject const &amp;, ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:115</div></div>
+<div class="ttc" id="aa08656_html"><div class="ttname"><a href="../../d5/df2/a08656.html">ObjectGuid</a></div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:118</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l02049">_guidVector</a>, <a class="el" href="../../#l02047">_objectVector</a>, and <a class="el" href="../../#l00115">ObjectAccessor::GetWorldObject()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02038">GetObjectVector()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a0077ee9a4d8727c460e07efd517ae0c6" name="a0077ee9a4d8727c460e07efd517ae0c6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0077ee9a4d8727c460e07efd517ae0c6">&#9670;&#160;</a></span>isDesc</h2>
+<a id="aefce0edc7881ca01ba8c8c98067e165d" name="aefce0edc7881ca01ba8c8c98067e165d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aefce0edc7881ca01ba8c8c98067e165d">&#9670;&#160;</a></span>_guidVector</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool AuctionSortInfo::isDesc { true }</td>
+          <td class="memname"><a class="el" href="../../dd/d43/a01193.html#a173958393e55b3150391dfb3a6d387ed">GuidVector</a> ObjectGuidVector::_guidVector</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00672">WorldSession::HandleAuctionListItems()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02031">ObjectGuidVector()</a>, and <a class="el" href="../../#l02052">UpdateObjects()</a>.</p>
 
 </div>
 </div>
-<a id="ac6afc258e0eca83f8e2fd8996e83231b" name="ac6afc258e0eca83f8e2fd8996e83231b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac6afc258e0eca83f8e2fd8996e83231b">&#9670;&#160;</a></span>sortOrder</h2>
+<a id="a78137cb1ae9930c11f87a4a8ed5e7e26" name="a78137cb1ae9930c11f87a4a8ed5e7e26"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a78137cb1ae9930c11f87a4a8ed5e7e26">&#9670;&#160;</a></span>_objectVector</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/d71/a01055.html#abce5a6a07f5c4ef07bed8f8f5fba2420">AuctionSortOrder</a> AuctionSortInfo::sortOrder { <a class="el" href="../../d2/d71/a01055.html#abce5a6a07f5c4ef07bed8f8f5fba2420a607c80ce155cba82b2aa1d27532c970d">AUCTION_SORT_MAX</a> }</td>
+          <td class="memname"><a class="el" href="../../d5/d4d/a02186.html#a3d080db7fa99da7af5bcaa7720f359d1">ObjectVector</a> ObjectGuidVector::_objectVector</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">mutable</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00672">WorldSession::HandleAuctionListItems()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02038">GetObjectVector()</a>, <a class="el" href="../../#l02031">ObjectGuidVector()</a>, and <a class="el" href="../../#l02052">UpdateObjects()</a>.</p>
 
 </div>
 </div>
@@ -191,8 +328,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d10/a07276.html">AuctionSortInfo</a></li>
-    <li class="footer">Generated on Mon Feb 23 2026 21:14:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d10/a07276.html">ObjectGuidVector</a></li>
+    <li class="footer">Generated on Mon Mar 2 2026 21:05:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,10 +1,8 @@
 var a00848 =
 [
-    [ "ObjectPosSelector", "d3/d90/a08652.html", "d3/d90/a08652" ],
-    [ "ObjectPosSelector::UsedPos", "d5/df2/a08656.html", "d5/df2/a08656" ],
-    [ "UsedPosType", "d9/d30/a00848.html#a2f1e7723f9d73cff4490d29d2b3df397", [
-      [ "USED_POS_PLUS", "d9/d30/a00848.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e", null ],
-      [ "USED_POS_MINUS", "d9/d30/a00848.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816", null ]
-    ] ],
-    [ "operator~", "d9/d30/a00848.html#a083d37b8f4388d54d83aeb6562b5fe09", null ]
+    [ "GameObjectScript", "d1/d46/a10560.html", "d1/d46/a10560" ],
+    [ "GenericGameObjectScript< AI >", "d3/d2d/a10564.html", "d3/d2d/a10564" ],
+    [ "FactoryGameObjectScript< AI, AIFactory >", "d7/d9f/a10568.html", "d7/d9f/a10568" ],
+    [ "RegisterGameObjectAI", "d9/d30/a00848.html#a87397a2ba2a1acd88f62793eae9aa30e", null ],
+    [ "RegisterGameObjectAIWithFactory", "d9/d30/a00848.html#a1614f98721d8a94351c4be15a72e499f", null ]
 ];

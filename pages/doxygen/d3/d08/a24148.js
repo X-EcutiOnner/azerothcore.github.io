@@ -1,5 +1,8 @@
 var a24148 =
 [
-    [ "go_crystal_prison", "d3/d08/a24148.html#a0faca8b76f9650ee5cc7825b90463365", null ],
-    [ "OnQuestAccept", "d3/d08/a24148.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
+    [ "CreatureId", "d3/d08/a24148.html#a127341c70f8785ceb556b1c11b23f477", null ],
+    [ "SpawnCount", "d3/d08/a24148.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
+    [ "SpawnTimer", "d3/d08/a24148.html#aa57ff686c5fde12269e231333d8a8bef", null ],
+    [ "UsedSpawnPoint", "d3/d08/a24148.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
+    [ "YellTimer", "d3/d08/a24148.html#a6346259269af7f2936f959f87288dd69", null ]
 ];

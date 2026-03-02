@@ -1,6 +1,9 @@
 var a19276 =
 [
-    [ "npc_icc_gauntlet_controllerAI", "db/dc7/a19280.html", "db/dc7/a19280" ],
-    [ "npc_icc_gauntlet_controller", "d2/d44/a19276.html#a5fc4c941842e25bc3da93686e588627b", null ],
-    [ "GetAI", "d2/d44/a19276.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
+    [ "npc_icc_severed_essenceAI", "d2/d44/a19276.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
+    [ "CanAIAttack", "d2/d44/a19276.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
+    [ "DoAction", "d2/d44/a19276.html#a938af3a7de5b26432e1ad515a326a032", null ],
+    [ "UpdateAI", "d2/d44/a19276.html#a66e3324baa87ba109dd968a517ee82a5", null ],
+    [ "Class", "d2/d44/a19276.html#aa627713be3a2ac01336d158d96aaccc7", null ],
+    [ "events", "d2/d44/a19276.html#a1bab216925c4123d633d9613bb80365c", null ]
 ];

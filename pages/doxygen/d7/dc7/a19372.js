@@ -1,7 +1,6 @@
 var a19372 =
 [
-    [ "HandleGameObjectDamage", "d7/dc7/a19372.html#a811edfe01c1784664b5b4253d2305b4e", null ],
-    [ "PrepareSpellScript", "d7/dc7/a19372.html#a0cfedeba2a747777de292b8f30b6752b", null ],
-    [ "Register", "d7/dc7/a19372.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
-    [ "Validate", "d7/dc7/a19372.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
+    [ "npc_four_car_garageAI", "dd/d78/a19376.html", "dd/d78/a19376" ],
+    [ "npc_four_car_garage", "d7/dc7/a19372.html#ae9b811544ab5cbdcb9c44abdc2da41a8", null ],
+    [ "GetAI", "d7/dc7/a19372.html#ac55346f9733c5502a9e9f2d6d48feefb", null ]
 ];

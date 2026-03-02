@@ -1,6 +1,6 @@
 var a18096 =
 [
-    [ "HandlePeriodicTick", "da/d3f/a18096.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
-    [ "PrepareAuraScript", "da/d3f/a18096.html#a9962029ce4a5223d7aa05068e8d83326", null ],
-    [ "Register", "da/d3f/a18096.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
+    [ "PrepareSpellScript", "da/d3f/a18096.html#a47df21229183b628c1d82bf34cbbe396", null ],
+    [ "Register", "da/d3f/a18096.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
+    [ "RelocateTransportOffset", "da/d3f/a18096.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
 ];

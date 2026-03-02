@@ -1,8 +1,8 @@
 var a17224 =
 [
-    [ "npc_fos_leaderAI", "dc/d27/a17224.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
-    [ "DoAction", "dc/d27/a17224.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
-    [ "Reset", "dc/d27/a17224.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
-    [ "UpdateAI", "dc/d27/a17224.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
-    [ "events", "dc/d27/a17224.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
+    [ "npc_fos_corrupted_soul_fragmentAI", "dc/d27/a17224.html#a61797329ecddde6da2e23e951fa92ca2", null ],
+    [ "Reset", "dc/d27/a17224.html#a5bb03371b24593ca2de995bf85857782", null ],
+    [ "UpdateAI", "dc/d27/a17224.html#ac6e651186c5edfd8e5279ddd38a15eb9", null ],
+    [ "pInstance", "dc/d27/a17224.html#a6ced23b3b4150b31020a636559d6eec6", null ],
+    [ "timer", "dc/d27/a17224.html#aa19c9928e3979bb01d89dc81b8feb4fc", null ]
 ];

@@ -1,5 +1,7 @@
 var a21584 =
 [
-    [ "npc_mei_francis_mountAI", "df/db2/a21584.html#aa9886ead02754faebff8b21eeb85dee6", null ],
-    [ "CanBeSeen", "df/db2/a21584.html#ad5e33495339a0315bc7b01351810157e", null ]
+    [ "HandleProc", "df/db2/a21584.html#aeb5b70614b266bac0792906bf89a5b97", null ],
+    [ "PrepareAuraScript", "df/db2/a21584.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
+    [ "Register", "df/db2/a21584.html#a163e0099271f21362deeb1ba1f169f3f", null ],
+    [ "Validate", "df/db2/a21584.html#abdb889e4c6d19f756c143d7b36f82257", null ]
 ];

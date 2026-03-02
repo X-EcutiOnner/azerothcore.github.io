@@ -1,8 +1,6 @@
 var a20876 =
 [
-    [ "OnApply", "dd/d45/a20876.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
-    [ "OnRemove", "dd/d45/a20876.html#ad3f482f9fff9798cc6e7a06183344742", null ],
-    [ "PrepareAuraScript", "dd/d45/a20876.html#ab830a7a6c5ed432f8718071345c99b57", null ],
-    [ "Register", "dd/d45/a20876.html#ac83a8d085d02feec64b6012cacb60dce", null ],
-    [ "Validate", "dd/d45/a20876.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
+    [ "boss_yoggsaron_influence_tentacle", "dd/d45/a20876.html#ad770f3c3e63240e50c965f277b2324ea", null ],
+    [ "DamageTaken", "dd/d45/a20876.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
+    [ "JustDied", "dd/d45/a20876.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
 ];

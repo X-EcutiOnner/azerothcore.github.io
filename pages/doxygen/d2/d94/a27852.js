@@ -1,7 +1,7 @@
 var a27852 =
 [
-    [ "HandleProc", "d2/d94/a27852.html#a41b42a2d219904cdaf2a714d97e500f7", null ],
-    [ "PrepareAuraScript", "d2/d94/a27852.html#a95c26300614ecdab588ddcc256fc1fd6", null ],
-    [ "Register", "d2/d94/a27852.html#afb32150ac10ad392b63f40db05433835", null ],
-    [ "Validate", "d2/d94/a27852.html#ab012775206fb6011eff8fbed293319c8", null ]
+    [ "HandleGlyph", "d2/d94/a27852.html#a9ec1133587bb6f0d7faa1beafc8415d9", null ],
+    [ "PrepareSpellScript", "d2/d94/a27852.html#adffd8b39adef397a886a66465e09f68b", null ],
+    [ "Register", "d2/d94/a27852.html#a77ff80bffd5c3f75dd60f2d901dfd84e", null ],
+    [ "Validate", "d2/d94/a27852.html#aa8bf4fc8457d122e46d12bc6b1cc7586", null ]
 ];

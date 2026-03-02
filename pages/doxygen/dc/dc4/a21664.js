@@ -1,6 +1,6 @@
 var a21664 =
 [
-    [ "npc_mindless_ghoulAI", "d0/d2d/a21668.html", "d0/d2d/a21668" ],
-    [ "npc_mindless_ghoul", "dc/dc4/a21664.html#ac5bf71e719c0df04687f426a022fd65e", null ],
-    [ "GetAI", "dc/dc4/a21664.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
+    [ "npc_conversing_with_the_depths_triggerAI", "d0/d2d/a21668.html", "d0/d2d/a21668" ],
+    [ "npc_conversing_with_the_depths_trigger", "dc/dc4/a21664.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
+    [ "GetAI", "dc/dc4/a21664.html#a61c337bfe1efb3589cf0df91d9082236", null ]
 ];

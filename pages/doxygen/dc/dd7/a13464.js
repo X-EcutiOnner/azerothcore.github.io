@@ -1,6 +1,6 @@
 var a13464 =
 [
-    [ "OnRemove", "dc/dd7/a13464.html#aedad236b202300eee0925e3600b87bfa", null ],
-    [ "PrepareAuraScript", "dc/dd7/a13464.html#acfdeb98e274989e378d4d4c800306a24", null ],
-    [ "Register", "dc/dd7/a13464.html#a0d820ca108e3aabe87ab5867d997264c", null ]
+    [ "npc_a_special_surpriseAI", "d3/d2b/a13468.html", "d3/d2b/a13468" ],
+    [ "npc_a_special_surprise", "dc/dd7/a13464.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
+    [ "GetAI", "dc/dd7/a13464.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
 ];

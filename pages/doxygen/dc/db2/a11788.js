@@ -1,7 +1,6 @@
 var a11788 =
 [
-    [ "ScriptStateStore", "dc/db2/a11788.html#a51baffee5c9dbf255591db8ea13ee516", null ],
-    [ "_auraApplication", "dc/db2/a11788.html#af5098bcedac048808e11bf2f82d705a7", null ],
-    [ "_currentScriptState", "dc/db2/a11788.html#adddf594d9468b16455da6e2aef683d44", null ],
-    [ "_defaultActionPrevented", "dc/db2/a11788.html#a63cf373d469af72bc96a3e72351e3256", null ]
+    [ "EffectAbsorbHandler", "dc/db2/a11788.html#a29bb773b8271acf651b08f33ce358720", null ],
+    [ "Call", "dc/db2/a11788.html#a56bfb0fd0d860678920445d1182c09ef", null ],
+    [ "pEffectHandlerScript", "dc/db2/a11788.html#a519489b8d951173a806e86cfe075faf1", null ]
 ];

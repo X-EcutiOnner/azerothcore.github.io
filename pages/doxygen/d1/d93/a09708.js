@@ -1,7 +1,7 @@
 var a09708 =
 [
-    [ "RaidCheck", "d1/d93/a09708.html#ad8c3717b9a645c7806c8c027a8d90ef5", null ],
-    [ "operator()", "d1/d93/a09708.html#a0c076b737e8e1eacb9aab0981ff66f51", null ],
-    [ "_compare", "d1/d93/a09708.html#a5fffdd5901fb03c5e9a9adfb58e3d759", null ],
-    [ "_equals", "d1/d93/a09708.html#a7d253c94403bd50012722a9a9b113c3a", null ]
+    [ "AllWorldObjectsInRange", "d1/d93/a09708.html#a63f46d510df0fa3153d4b3325676a468", null ],
+    [ "operator()", "d1/d93/a09708.html#a2cf23c24df93b5f7f29163b32e965a94", null ],
+    [ "m_fRange", "d1/d93/a09708.html#a6afe3ef05369dce8ee205db219f97846", null ],
+    [ "m_pObject", "d1/d93/a09708.html#ae7dde7b946d8affb79cb2d4c58eedbed", null ]
 ];

@@ -1,7 +1,6 @@
 var a28548 =
 [
-    [ "npc_crashin_thrashin_robot", "d5/dd7/a28548.html#ad21336d212498b1c9ef5d46979d147ab", null ],
-    [ "IsSummonedBy", "d5/dd7/a28548.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
-    [ "UpdateAI", "d5/dd7/a28548.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
-    [ "_scheduler", "d5/dd7/a28548.html#a55778501d154d0a9e77f76054e926f85", null ]
+    [ "npc_fireworkAI", "d4/dd7/a28552.html", "d4/dd7/a28552" ],
+    [ "npc_firework", "d5/dd7/a28548.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
+    [ "GetAI", "d5/dd7/a28548.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
 ];

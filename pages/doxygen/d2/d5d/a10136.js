@@ -1,6 +1,12 @@
 var a10136 =
 [
-    [ "sourceObjectDestroyLink", "d2/d5d/a10136.html#a575a5bac090f5bc5b3f2a721aa64ef42", null ],
-    [ "targetObjectBuildLink", "d2/d5d/a10136.html#abf8c86604c3ef4349567c736090402f6", null ],
-    [ "targetObjectDestroyLink", "d2/d5d/a10136.html#a5cb0bab8be8116b9a489a4922c44c5c8", null ]
+    [ "BanAccount", "d2/d5d/a10136.html#af85ceffee2ae6a143df5e36f6a004f07", null ],
+    [ "BanAccountByPlayerName", "d2/d5d/a10136.html#a35f92762d69fe32e49b9b239c74e4734", null ],
+    [ "BanCharacter", "d2/d5d/a10136.html#ad5048b36828bfe20a95dfb85515de831", null ],
+    [ "BanIP", "d2/d5d/a10136.html#a404890eab19b97773e6c9aef8cc65707", null ],
+    [ "instance", "d2/d5d/a10136.html#aa495dfaab6af98c43f645acf516a5630", null ],
+    [ "RemoveBanAccount", "d2/d5d/a10136.html#ae831e6227442edc70469229d5d73fa3f", null ],
+    [ "RemoveBanAccountByPlayerName", "d2/d5d/a10136.html#a7b5e1ae6d34ae4f6a15e03c434953aea", null ],
+    [ "RemoveBanCharacter", "d2/d5d/a10136.html#afbde6c0b26802f684ecf78c2f493cc67", null ],
+    [ "RemoveBanIP", "d2/d5d/a10136.html#afcf4857007432ebff042c85c5daf2325", null ]
 ];

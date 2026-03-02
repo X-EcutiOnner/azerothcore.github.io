@@ -1,7 +1,6 @@
 var a24828 =
 [
-    [ "HandleProc", "d2/d86/a24828.html#a43704e8ddf8eb94adf27225eb02135bd", null ],
-    [ "PrepareAuraScript", "d2/d86/a24828.html#a626ebecdbb7e431af364fa9bcde38644", null ],
-    [ "Register", "d2/d86/a24828.html#ab56bed8649452b9ae7ac07bf6ee16641", null ],
-    [ "Validate", "d2/d86/a24828.html#a3699a230042bd646d459bd7dcf73e3b6", null ]
+    [ "CheckProc", "d2/d86/a24828.html#a67f31710f6a3e843b9d3539710100898", null ],
+    [ "PrepareAuraScript", "d2/d86/a24828.html#ad59ef816bd24f6215cc853386859dbb4", null ],
+    [ "Register", "d2/d86/a24828.html#af499437b1af535488792f44c18ad9bf7", null ]
 ];

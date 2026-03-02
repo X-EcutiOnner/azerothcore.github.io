@@ -1,6 +1,6 @@
 var a18868 =
 [
-    [ "ManaVoidSelector", "dc/d93/a18868.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
-    [ "operator()", "dc/d93/a18868.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
-    [ "_source", "dc/d93/a18868.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
+    [ "npc_lk_spirit_bombAI", "d3/da2/a18872.html", "d3/da2/a18872" ],
+    [ "npc_lk_spirit_bomb", "dc/d93/a18868.html#acc08d41aa1761c450de782e92307ad7c", null ],
+    [ "GetAI", "dc/d93/a18868.html#ade74c00beb2da69dafb0ae93d771c430", null ]
 ];

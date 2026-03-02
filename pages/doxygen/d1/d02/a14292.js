@@ -1,7 +1,6 @@
 var a14292 =
 [
-    [ "spell", "d1/d02/a14292.html#a55423d09b2f1775dc386a36168ad764d", null ],
-    [ "spiritEntry", "d1/d02/a14292.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
-    [ "text", "d1/d02/a14292.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
-    [ "unaura", "d1/d02/a14292.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
+    [ "cooldown", "d1/d02/a14292.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
+    [ "spell", "d1/d02/a14292.html#a00ee3238030686e1cc66562f7cefb27a", null ],
+    [ "target", "d1/d02/a14292.html#a16e54dbd059baac1b6e7229621339d83", null ]
 ];

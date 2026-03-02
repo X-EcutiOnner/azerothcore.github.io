@@ -1,7 +1,6 @@
 var a21560 =
 [
-    [ "HandleEffectHit", "dc/d82/a21560.html#a8d7dd2411c3b786e682260eb30862602", null ],
-    [ "PrepareSpellScript", "dc/d82/a21560.html#a49b6d005013e480f8161779119bc9b2d", null ],
-    [ "Register", "dc/d82/a21560.html#a017ae25fead98a5c18cdb83128085ddd", null ],
-    [ "Validate", "dc/d82/a21560.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
+    [ "npc_hidden_cultistAI", "d7/d41/a21564.html", "d7/d41/a21564" ],
+    [ "npc_hidden_cultist", "dc/d82/a21560.html#ab455b35fea966360e01fb8975adad989", null ],
+    [ "GetAI", "dc/d82/a21560.html#a4897006d9416f1177b0bc0e41df60293", null ]
 ];

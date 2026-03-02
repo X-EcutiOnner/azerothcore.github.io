@@ -1,72 +1,41 @@
 var a02900 =
 [
-    [ "boss_vezax", "d3/d5d/a20328.html", "d3/d5d/a20328" ],
-    [ "npc_ulduar_saronite_vapors", "d9/df0/a20332.html", "d9/df0/a20332" ],
-    [ "npc_ulduar_saronite_animus", "d4/d90/a20336.html", "d4/d90/a20336" ],
-    [ "spell_aura_of_despair_aura", "dd/d10/a20340.html", "dd/d10/a20340" ],
-    [ "spell_mark_of_the_faceless_periodic_aura", "de/d34/a20344.html", "de/d34/a20344" ],
-    [ "spell_mark_of_the_faceless_drainhealth", "d3/dc3/a20348.html", "d3/dc3/a20348" ],
-    [ "spell_saronite_vapors_dummy_aura", "d7/d46/a20352.html", "d7/d46/a20352" ],
-    [ "spell_saronite_vapors_damage", "d1/d33/a20356.html", "d1/d33/a20356" ],
-    [ "achievement_smell_saronite", "df/d2b/a20360.html", "df/d2b/a20360" ],
-    [ "achievement_shadowdodger", "d6/d26/a20364.html", "d6/d26/a20364" ],
-    [ "VaporsText", "d3/d5d/a02900.html#a108c2a2d27e6ae9f94af4a209440d93e", [
-      [ "SAY_EMOTE_VAPORS", "d3/d5d/a02900.html#a108c2a2d27e6ae9f94af4a209440d93eac51fb1605f030790acd10ceedb8aa954", null ]
+    [ "npc_sergeant_bly", "df/d80/a16232.html", "df/d80/a16232" ],
+    [ "npc_sergeant_bly::npc_sergeant_blyAI", "d3/d7a/a16236.html", "d3/d7a/a16236" ],
+    [ "go_troll_cage", "da/de1/a16240.html", "da/de1/a16240" ],
+    [ "go_troll_cage::go_troll_cageAI", "dc/d9d/a16244.html", "dc/d9d/a16244" ],
+    [ "npc_weegli_blastfuse", "d8/ddd/a16248.html", "d8/ddd/a16248" ],
+    [ "npc_weegli_blastfuse::npc_weegli_blastfuseAI", "d9/df6/a16252.html", "d9/df6/a16252" ],
+    [ "npc_shadowpriest_sezziz", "d3/d82/a16256.html", "d3/d82/a16256" ],
+    [ "npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI", "dd/d91/a16260.html", "dd/d91/a16260" ],
+    [ "GOSSIP_BLY", "d3/d5d/a02900.html#acf686abbef9b59acbf66095340991aab", null ],
+    [ "GOSSIP_WEEGLI", "d3/d5d/a02900.html#abd5fb74b4c5971cd2993555c6ac4d1eb", null ],
+    [ "blySays", "d3/d5d/a02900.html#a0170bb25aee4171b17fd972a5eb000a9", [
+      [ "SAY_1", "d3/d5d/a02900.html#a0170bb25aee4171b17fd972a5eb000a9a307d891e05530d70a32ad2047cfe6dab", null ],
+      [ "SAY_2", "d3/d5d/a02900.html#a0170bb25aee4171b17fd972a5eb000a9a73b0208d974ac93026e31ca8864dd390", null ]
     ] ],
-    [ "VezaxEvents", "d3/d5d/a02900.html#a04c25e824f5c3d2c058222ce5ffa6546", [
-      [ "EVENT_SPELL_VEZAX_SHADOW_CRASH", "d3/d5d/a02900.html#a04c25e824f5c3d2c058222ce5ffa6546a0f9f8655c874ed6677672caf1b0d3ba4", null ],
-      [ "EVENT_SPELL_SEARING_FLAMES", "d3/d5d/a02900.html#a04c25e824f5c3d2c058222ce5ffa6546ac85dd5c61d13bc3def3fac9feff5b43d", null ],
-      [ "EVENT_SPELL_SURGE_OF_DARKNESS", "d3/d5d/a02900.html#a04c25e824f5c3d2c058222ce5ffa6546a3e6898dbc2ee537b1ceb3ec010f41e9a", null ],
-      [ "EVENT_SPELL_MARK_OF_THE_FACELESS", "d3/d5d/a02900.html#a04c25e824f5c3d2c058222ce5ffa6546a061f5186723f734e7334abe72ce94f65", null ],
-      [ "EVENT_SPELL_SUMMON_SARONITE_VAPORS", "d3/d5d/a02900.html#a04c25e824f5c3d2c058222ce5ffa6546a4429f60bd78c6a9ed9807e56dcd85468", null ],
-      [ "EVENT_SARONITE_VAPORS_SWIRL", "d3/d5d/a02900.html#a04c25e824f5c3d2c058222ce5ffa6546a3cbc3828647fbcb758cd292984ce6e9d", null ],
-      [ "EVENT_SPELL_SUMMON_SARONITE_ANIMUS", "d3/d5d/a02900.html#a04c25e824f5c3d2c058222ce5ffa6546a6a9dab42d0ab9faad58f5a6150641dba", null ],
-      [ "EVENT_DESPAWN_SARONITE_VAPORS", "d3/d5d/a02900.html#a04c25e824f5c3d2c058222ce5ffa6546a16c892d2a8084ed4d0c47947ce924c20", null ],
-      [ "EVENT_SPELL_PROFOUND_DARKNESS", "d3/d5d/a02900.html#a04c25e824f5c3d2c058222ce5ffa6546a0a6b9a2decdc422e04c09bce53295813", null ],
-      [ "EVENT_BERSERK", "d3/d5d/a02900.html#a04c25e824f5c3d2c058222ce5ffa6546a94f1144a24a622ff9e12ebe57137f266", null ],
-      [ "EVENT_RESTORE_TARGET", "d3/d5d/a02900.html#a04c25e824f5c3d2c058222ce5ffa6546a4085e50ab24b1c850f3d2bd794e7bcfd", null ]
+    [ "blySpells", "d3/d5d/a02900.html#ac73b1b4ffaee22ad6c602a211a9bfccf", [
+      [ "SPELL_BLYS_BAND_ESCAPE", "d3/d5d/a02900.html#ac73b1b4ffaee22ad6c602a211a9bfccfaa9a43afdd35ceaa8e5947c583cda6c83", null ],
+      [ "SPELL_SHIELD_BASH", "d3/d5d/a02900.html#ac73b1b4ffaee22ad6c602a211a9bfccfa0d74cfe7662c959a043f01770a2c7bf4", null ],
+      [ "SPELL_REVENGE", "d3/d5d/a02900.html#ac73b1b4ffaee22ad6c602a211a9bfccfa3494dd9ccea3b72ec038a01f6f6fd66f", null ]
     ] ],
-    [ "VezaxGOs", "d3/d5d/a02900.html#a247f87b67f9639834c1ecd69fb31c186", null ],
-    [ "VezaxNpcs", "d3/d5d/a02900.html#aa78f1b64a28f8f85fb7a88055203b63d", [
-      [ "NPC_SARONITE_ANIMUS", "d3/d5d/a02900.html#aa78f1b64a28f8f85fb7a88055203b63da9545669ca68caa507220b5b121475d3c", null ]
+    [ "ShadowPriestSezzizEnum", "d3/d5d/a02900.html#a4e0ee96bd227c57408d323b236131e7d", [
+      [ "SPELL_SHADOW_BOLT", "d3/d5d/a02900.html#a4e0ee96bd227c57408d323b236131e7da8872edea8a2ac8c4e895c975482b9413", null ],
+      [ "SPELL_PSYCHIC_SCREEM", "d3/d5d/a02900.html#a4e0ee96bd227c57408d323b236131e7da804b244c7e3d670c7c0c96c2deac50aa", null ],
+      [ "SPELL_RENEW", "d3/d5d/a02900.html#a4e0ee96bd227c57408d323b236131e7daaf085a0eea027f75c291005b97cb46bd", null ],
+      [ "SPELL_HEAL", "d3/d5d/a02900.html#a4e0ee96bd227c57408d323b236131e7da69fcca2d13e03c684fa0459f960ef9a7", null ]
     ] ],
-    [ "VezaxSpellData", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1", [
-      [ "SPELL_VEZAX_BERSERK", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1af266dcd944395681aebb95f0173b5961", null ],
-      [ "SPELL_VEZAX_SHADOW_CRASH", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1a75ada0daac75380e5611d5951d0c642a", null ],
-      [ "SPELL_VEZAX_SHADOW_CRASH_DMG", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1a54b6d0d1097b3ab12e902f6fad56018c", null ],
-      [ "SPELL_VEZAX_SHADOW_CRASH_AREA_AURA", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1a5a29d553d47c6de551b2b886ce6c67cd", null ],
-      [ "SPELL_VEZAX_SHADOW_CRASH_AURA", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1abb66f2065d11048bf61610fa8f79c573", null ],
-      [ "SPELL_SEARING_FLAMES", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1a95b11d34a9f8f5b68a92e7cd549af53b", null ],
-      [ "SPELL_SURGE_OF_DARKNESS", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1a3b0e2ea70a80eed9f0fce8465c41d189", null ],
-      [ "SPELL_MARK_OF_THE_FACELESS_AURA", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1a1d782cbdf316e946f4037a56349d436b", null ],
-      [ "SPELL_MARK_OF_THE_FACELESS_EFFECT", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1a9c07a1691f8b921f4bc889a7171ae15d", null ],
-      [ "SPELL_AURA_OF_DESPAIR_1", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1a90f62045abb14684c5f6a65a158611b2", null ],
-      [ "SPELL_AURA_OF_DESPAIR_2", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1a2b6e254f064c967dfc464486d15967f4", null ],
-      [ "SPELL_CORRUPTED_RAGE", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1a1eb8abb1e30c6eb7e0067186567e9440", null ],
-      [ "SPELL_CORRUPTED_WISDOM", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1ad4717c300512cf000af07535db9faf42", null ],
-      [ "SPELL_SHAMANISTIC_RAGE", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1a125b0648552bfc958d34496bef00c8cb", null ],
-      [ "SPELL_JUDGEMENTS_OF_THE_WISDOM_RANK_1", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1a4c00a43ffd5d1efbc0a604659fbabea7", null ],
-      [ "SPELL_SUMMON_SARONITE_VAPORS", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1a2b8edec48cdf6e3374cf2c94cfc7734d", null ],
-      [ "NPC_SARONITE_VAPORS", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1a148f3fde9450a6d3880ad03449c03bb8", null ],
-      [ "SPELL_SARONITE_VAPORS_DMG", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1a3b8f601a6c2e439263cb1622f2a41f47", null ],
-      [ "SPELL_SARONITE_VAPORS_ENERGIZE", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1a4863107801f09934a453e224f6615c76", null ],
-      [ "SPELL_SARONITE_VAPORS_AURA", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1ac5cba5884d9d8362fd0f5c0cde6123c3", null ],
-      [ "SPELL_SARONITE_VAPORS_DUMMYAURA", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1aece01c5aca04b81451b579e9385f8341", null ],
-      [ "SPELL_SARONITE_ANIMUS_FORMATION_VISUAL", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1ad63426f9a2bc82b4e69808afd9423f3c", null ],
-      [ "SPELL_SUMMON_SARONITE_ANIMUS", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1ad004a234d89a2d52772cbfb5c1339a47", null ],
-      [ "SPELL_SARONITE_BARRIER", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1a4ca592edb75f801e335cbc4b7b719177", null ],
-      [ "SPELL_PROFOUND_DARKNESS", "d3/d5d/a02900.html#ad45286eaf4e0bb1e60a076b7587531d1a6f27bc5dbb7bf90ec48a9db1a561662b", null ]
+    [ "weegliSays", "d3/d5d/a02900.html#a326e8498672fa7a2db9a390d360f7391", [
+      [ "SAY_WEEGLI_OHNO", "d3/d5d/a02900.html#a326e8498672fa7a2db9a390d360f7391aa1b27f3d4e49ae3cbea7b8b49371b41d", null ],
+      [ "SAY_WEEGLI_OK_I_GO", "d3/d5d/a02900.html#a326e8498672fa7a2db9a390d360f7391aa92731cc39b2cffc724a22e3189198ea", null ],
+      [ "SAY_WEEGLI_OUT_OF_HERE", "d3/d5d/a02900.html#a326e8498672fa7a2db9a390d360f7391aaa6eaf7f9cc5bb0b7c42aed2439da05c", null ]
     ] ],
-    [ "VezaxText", "d3/d5d/a02900.html#a0a2af133c7bcb5387c68abce0287eea8", [
-      [ "SAY_AGGRO", "d3/d5d/a02900.html#a0a2af133c7bcb5387c68abce0287eea8a47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_SLAY", "d3/d5d/a02900.html#a0a2af133c7bcb5387c68abce0287eea8a9e64f6e600dd42567d18006912811f75", null ],
-      [ "SAY_SURGE_OF_DARKNESS", "d3/d5d/a02900.html#a0a2af133c7bcb5387c68abce0287eea8a8f89764c360b3f491e241d70d098103f", null ],
-      [ "SAY_DEATH", "d3/d5d/a02900.html#a0a2af133c7bcb5387c68abce0287eea8a04c962d9b6aaafde54ff92a54369135e", null ],
-      [ "SAY_BERSERK", "d3/d5d/a02900.html#a0a2af133c7bcb5387c68abce0287eea8ada55f761193c5ce51964480004c8462b", null ],
-      [ "SAY_HARDMODE", "d3/d5d/a02900.html#a0a2af133c7bcb5387c68abce0287eea8aecf72087c7e1bd8acdabb2785154c48f", null ],
-      [ "SAY_EMOTE_ANIMUS", "d3/d5d/a02900.html#a0a2af133c7bcb5387c68abce0287eea8a92bcf11d1648ecebb99c4921e08f4c9b", null ],
-      [ "SAY_EMOTE_BARRIER", "d3/d5d/a02900.html#a0a2af133c7bcb5387c68abce0287eea8a864797f8afd535b198ea73acf5c497f7", null ],
-      [ "SAY_EMOTE_SURGE_OF_DARKNESS", "d3/d5d/a02900.html#a0a2af133c7bcb5387c68abce0287eea8a3c092c4e1e18462abea4cf84af87bfab", null ]
+    [ "weegliSpells", "d3/d5d/a02900.html#aa5d64b9165276a134e188d143807850c", [
+      [ "SPELL_BOMB", "d3/d5d/a02900.html#aa5d64b9165276a134e188d143807850ca436b889374ecd412c15675983fdae5be", null ],
+      [ "SPELL_GOBLIN_LAND_MINE", "d3/d5d/a02900.html#aa5d64b9165276a134e188d143807850ca04bb850750b0183913ab1008cba1833f", null ],
+      [ "SPELL_SHOOT", "d3/d5d/a02900.html#aa5d64b9165276a134e188d143807850ca1b728fa1bb0194534b5b491d35ed871c", null ],
+      [ "SPELL_WEEGLIS_BARREL", "d3/d5d/a02900.html#aa5d64b9165276a134e188d143807850ca1e379d7bc2f35c29e7b00ee0bf88357f", null ]
     ] ],
-    [ "AddSC_boss_vezax", "d3/d5d/a02900.html#a5c6fe86ca515a67bca7dfaf2465a4b04", null ]
+    [ "AddSC_zulfarrak", "d3/d5d/a02900.html#a43b63d5d69b80ee6283471aacf5c9c87", null ],
+    [ "shadowpriestSezzizAdds", "d3/d5d/a02900.html#ab3c6a2de23edecc492c7ca4de5c860c7", null ]
 ];

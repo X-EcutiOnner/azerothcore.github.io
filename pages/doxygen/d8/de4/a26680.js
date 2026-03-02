@@ -1,8 +1,9 @@
 var a26680 =
 [
-    [ "CheckProc", "d8/de4/a26680.html#a2e7c3b219786c4328c6f5de2b4e6b684", null ],
-    [ "HandleProc", "d8/de4/a26680.html#ac564fc88a0cfe410b7caaeed639b5258", null ],
-    [ "PrepareAuraScript", "d8/de4/a26680.html#ab8c2f9f3f3750419ad62d72e284bf3b1", null ],
-    [ "Register", "d8/de4/a26680.html#ac5bb4e949f4a7b86b41861777f86bd7a", null ],
-    [ "Validate", "d8/de4/a26680.html#af67336b40e69f72f8cd5aa1776490bad", null ]
+    [ "spell_pal_judgement", "d8/de4/a26680.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
+    [ "HandleScriptEffect", "d8/de4/a26680.html#add419a824dbebdc168d2b6dc49d07913", null ],
+    [ "PrepareSpellScript", "d8/de4/a26680.html#a2cffed69c16a1a6189048ed52af35152", null ],
+    [ "Register", "d8/de4/a26680.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
+    [ "Validate", "d8/de4/a26680.html#a3971c195a279338253771675131b4802", null ],
+    [ "_spellId", "d8/de4/a26680.html#ad49ea02800078c672747f4fdbbab1d20", null ]
 ];

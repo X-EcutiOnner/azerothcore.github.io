@@ -1,6 +1,6 @@
 var a18500 =
 [
-    [ "HandleSpecial", "d0/d75/a18500.html#afa540e8c748ca3083667528e2449bc65", null ],
-    [ "PrepareSpellScript", "d0/d75/a18500.html#a9472211ffdaa33802099b22b2a721645", null ],
-    [ "Register", "d0/d75/a18500.html#ab868b10372ff2ef401d19b126acf00c6", null ]
+    [ "npc_ice_tombAI", "dd/d3e/a18504.html", "dd/d3e/a18504" ],
+    [ "npc_ice_tomb", "d0/d75/a18500.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
+    [ "GetAI", "d0/d75/a18500.html#ac99b7c9887e54a1764310bd3e079811a", null ]
 ];

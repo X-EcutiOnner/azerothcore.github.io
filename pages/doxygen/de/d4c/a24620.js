@@ -1,9 +1,11 @@
 var a24620 =
 [
-    [ "CheckProc", "de/d4c/a24620.html#a13245a545210eed1ddfd7c49c4a43f6b", null ],
-    [ "HandleProc", "de/d4c/a24620.html#aeec6c9e949d1edc09259a55583b3bae2", null ],
-    [ "Load", "de/d4c/a24620.html#ae3ffe29eef4f803f08ab728d959f1932", null ],
-    [ "PeriodicTick", "de/d4c/a24620.html#a1621c06bce0a28a2416385563b989cbf", null ],
-    [ "PrepareAuraScript", "de/d4c/a24620.html#a79a8c2a9ef00a9c1a2bba481e9cc522f", null ],
-    [ "Register", "de/d4c/a24620.html#ad47775cc21d4d5e0c28b68c68d595a39", null ]
+    [ "CalcPeriodic", "de/d4c/a24620.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
+    [ "CalculateAPAmount", "de/d4c/a24620.html#ab23f26c3470f629f0a20f28faf272a68", null ],
+    [ "CalculateHealthAmount", "de/d4c/a24620.html#a4f827a906ac279e143ba8545545090ad", null ],
+    [ "CalculateSPAmount", "de/d4c/a24620.html#ae94493ffed217a218e21c05e002cec00", null ],
+    [ "HandleEffectApply", "de/d4c/a24620.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
+    [ "HandlePeriodic", "de/d4c/a24620.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
+    [ "PrepareAuraScript", "de/d4c/a24620.html#a5052689d815e0a0543693b39b7454deb", null ],
+    [ "Register", "de/d4c/a24620.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
 ];

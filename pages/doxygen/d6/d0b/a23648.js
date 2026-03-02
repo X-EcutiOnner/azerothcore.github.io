@@ -1,10 +1,14 @@
 var a23648 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "d6/d0b/a23648.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
-    [ "GetGuidData", "d6/d0b/a23648.html#aa4bedf168359eaf5332476a6de99c830", null ],
-    [ "OnGameObjectCreate", "d6/d0b/a23648.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
-    [ "SetBossState", "d6/d0b/a23648.html#a2937e4ea47af542a476bd3399ecc7233", null ],
-    [ "SetData", "d6/d0b/a23648.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
-    [ "StasisPodGUIDs", "d6/d0b/a23648.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
-    [ "WardensShieldGUID", "d6/d0b/a23648.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
+    [ "npc_warden_mellicharAI", "d6/d0b/a23648.html#a3486b015ccb8fecfe5e215f45e45f15e", null ],
+    [ "AttackStart", "d6/d0b/a23648.html#a2b16dc3ad358e4179fe20e2066ba5c64", null ],
+    [ "DamageTaken", "d6/d0b/a23648.html#a07e7b215ed7653fe7e1ee44d34a74bbd", null ],
+    [ "JustDied", "d6/d0b/a23648.html#a867404a125aeb4ee3332a4e2b5a8f547", null ],
+    [ "JustEngagedWith", "d6/d0b/a23648.html#ad584a3c2dd8f108cc9b4e66a6917f97b", null ],
+    [ "JustSummoned", "d6/d0b/a23648.html#a3fe95a64b640fb61459da2c8621fbc9c", null ],
+    [ "MoveInLineOfSight", "d6/d0b/a23648.html#aa4edaf9534e7232526fd9c7bd097b7c4", null ],
+    [ "Reset", "d6/d0b/a23648.html#aebd55a8e6e618e4dc37cf253c60c3a94", null ],
+    [ "SetData", "d6/d0b/a23648.html#a0d0e8d1af5179aea73aa60e060ba751a", null ],
+    [ "SummonedCreatureDies", "d6/d0b/a23648.html#a58e1011986be65725d4db3d782bc72ac", null ],
+    [ "UpdateAI", "d6/d0b/a23648.html#a944cff5367213d561a7e6df5faf2a216", null ]
 ];

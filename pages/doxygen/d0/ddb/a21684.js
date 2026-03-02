@@ -1,7 +1,6 @@
 var a21684 =
 [
-    [ "CheckCast", "d0/ddb/a21684.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
-    [ "HandleScript", "d0/ddb/a21684.html#a8128bb2d7588409dae73bed78d5285a7", null ],
-    [ "PrepareSpellScript", "d0/ddb/a21684.html#aee17a8a21ec5df027082c6990189dccc", null ],
-    [ "Register", "d0/ddb/a21684.html#a2a97265e102e9ce31997d99275b42973", null ]
+    [ "npc_future_youAI", "dc/d97/a21688.html", "dc/d97/a21688" ],
+    [ "npc_future_you", "d0/ddb/a21684.html#a36e363156bcb32fee468989062817bd5", null ],
+    [ "GetAI", "d0/ddb/a21684.html#a2e1529fef3ce307d98057dc93ce5e5fe", null ]
 ];

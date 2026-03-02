@@ -1,9 +1,5 @@
 var a27988 =
 [
-    [ "emerald_dragonAI", "d9/d8c/a27988.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
-    [ "ExecuteEvent", "d9/d8c/a27988.html#a6e60f146c7b86a119f269bf755831ac6", null ],
-    [ "JustSummoned", "d9/d8c/a27988.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
-    [ "KilledUnit", "d9/d8c/a27988.html#a69b24bf865ecd38822d5602314cddf11", null ],
-    [ "Reset", "d9/d8c/a27988.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
-    [ "UpdateAI", "d9/d8c/a27988.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
+    [ "AreaTrigger_at_coilfang_waterfall", "d9/d8c/a27988.html#aa2e9a01adad7e195860bbc6c55131024", null ],
+    [ "OnTrigger", "d9/d8c/a27988.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
 ];

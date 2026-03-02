@@ -1,6 +1,7 @@
 var a13140 =
 [
-    [ "HandleCast", "d5/d3c/a13140.html#aefe0621647cd9e25f19063eb5ce4dd69", null ],
-    [ "PrepareSpellScript", "d5/d3c/a13140.html#afb4d3414a0da5e2701ee114349cf64ce", null ],
-    [ "Register", "d5/d3c/a13140.html#a261a63e366c22c6bf2d1d7dfec97c6e2", null ]
+    [ "FilterTargets", "d5/d3c/a13140.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
+    [ "Load", "d5/d3c/a13140.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
+    [ "PrepareSpellScript", "d5/d3c/a13140.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
+    [ "Register", "d5/d3c/a13140.html#ae366530ddacf45a92eaa36be7e706a84", null ]
 ];

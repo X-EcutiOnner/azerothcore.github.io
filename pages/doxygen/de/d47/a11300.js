@@ -1,7 +1,6 @@
 var a11300 =
 [
-    [ "PetDismissSound", "de/d47/a11300.html#a035aeb40e5de8b5d3d5d9703ad0f19c9", null ],
-    [ "Write", "de/d47/a11300.html#a06f3c97d815a3e8de55bcd2b3eecdb64", null ],
-    [ "ModelId", "de/d47/a11300.html#aba65e6547adde55978ce7b2abb779d51", null ],
-    [ "ModelPosition", "de/d47/a11300.html#a06e6bff9d70996ba890c31ea74363dad", null ]
+    [ "DismissCritter", "de/d47/a11300.html#a87e35583063b340f014d21cd02c54cab", null ],
+    [ "Read", "de/d47/a11300.html#a411b65505e8a332ecf9291a670dc38c4", null ],
+    [ "CritterGUID", "de/d47/a11300.html#a89c071e81c9d39c099c32c4976f15304", null ]
 ];

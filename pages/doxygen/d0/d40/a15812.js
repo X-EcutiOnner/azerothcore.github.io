@@ -1,10 +1,6 @@
 var a15812 =
 [
-    [ "npc_murkdeepAI", "d0/d40/a15812.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
-    [ "JustEngagedWith", "d0/d40/a15812.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
-    [ "Reset", "d0/d40/a15812.html#aa89316a0fe4f99630a4a129aed305e24", null ],
-    [ "UpdateAI", "d0/d40/a15812.html#aeca85a1324791d18ac825401fb8a31e8", null ],
-    [ "events", "d0/d40/a15812.html#ae3d344829aeba22ef0c5947863720390", null ],
-    [ "phase", "d0/d40/a15812.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
-    [ "spawnTimer", "d0/d40/a15812.html#a6b139fb5cc0776103934f14be15c34d1", null ]
+    [ "npc_death_ravagerAI", "dc/dd9/a15816.html", "dc/dd9/a15816" ],
+    [ "npc_death_ravager", "d0/d40/a15812.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
+    [ "GetAI", "d0/d40/a15812.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
 ];

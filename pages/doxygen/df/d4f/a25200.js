@@ -1,7 +1,6 @@
 var a25200 =
 [
-    [ "HandleDummy", "df/d4f/a25200.html#ab00358dc50fa943685fdd87e5a8ac224", null ],
-    [ "Load", "df/d4f/a25200.html#a31075533c24011797bd0f99dce5e8330", null ],
-    [ "PrepareSpellScript", "df/d4f/a25200.html#abf0acc8765f6e02674b8e93aca575a98", null ],
-    [ "Register", "df/d4f/a25200.html#ad1bd05a154b506424954ef879e5b9fba", null ]
+    [ "CalculateAmount", "df/d4f/a25200.html#a66b009487462241e573ea23f081a140a", null ],
+    [ "PrepareAuraScript", "df/d4f/a25200.html#a0eee16c77a3c3cea882b67c78826a140", null ],
+    [ "Register", "df/d4f/a25200.html#afeafc6922b0a0389fec969e3c7191dda", null ]
 ];

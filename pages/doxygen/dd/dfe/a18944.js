@@ -1,8 +1,12 @@
 var a18944 =
 [
-    [ "npc_suppresserAI", "dd/dfe/a18944.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
-    [ "AttackStart", "dd/dfe/a18944.html#ae36105de1df1dd9841332d9a8e7799be", null ],
-    [ "IsSummonedBy", "dd/dfe/a18944.html#a35ec340b2d02a14707fc353428b1298d", null ],
-    [ "UpdateAI", "dd/dfe/a18944.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
-    [ "_instance", "dd/dfe/a18944.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
+    [ "npc_risen_archmageAI", "dd/dfe/a18944.html#a4dd62e51fc75fc5e4a44859437549f29", null ],
+    [ "CanAIAttack", "dd/dfe/a18944.html#a063a28cd36dbc709699e6d1d4e4ca9e3", null ],
+    [ "DoAction", "dd/dfe/a18944.html#accc43068aa0a7f62d6fabfb85acb1498", null ],
+    [ "JustEngagedWith", "dd/dfe/a18944.html#aef3a1631b4bb8d28d4056036981b0192", null ],
+    [ "JustSummoned", "dd/dfe/a18944.html#aff6e86057086db1319bb680e52e41634", null ],
+    [ "Reset", "dd/dfe/a18944.html#a522d30cb60cf6af2cd8cc943a7e2f5e3", null ],
+    [ "UpdateAI", "dd/dfe/a18944.html#ae78dc64f858573b234210ca175e5bdd9", null ],
+    [ "_events", "dd/dfe/a18944.html#a6dff9ff5332c0bc337840882689f47ed", null ],
+    [ "_instance", "dd/dfe/a18944.html#a1b4e12b199bf3ada517c895c5f387c4a", null ]
 ];

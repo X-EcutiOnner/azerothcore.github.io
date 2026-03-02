@@ -1,6 +1,6 @@
 var a18196 =
 [
-    [ "HandlePeriodicTick", "d6/d3e/a18196.html#a29bf443cdb53b10032ba382b8ae44828", null ],
-    [ "PrepareAuraScript", "d6/d3e/a18196.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
-    [ "Register", "d6/d3e/a18196.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
+    [ "npc_cult_fanaticAI", "d4/db8/a18200.html", "d4/db8/a18200" ],
+    [ "npc_cult_fanatic", "d6/d3e/a18196.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
+    [ "GetAI", "d6/d3e/a18196.html#ae4d22bac12d17d79669d3fccd4029952", null ]
 ];

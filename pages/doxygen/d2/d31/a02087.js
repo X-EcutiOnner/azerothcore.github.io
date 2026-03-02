@@ -1,26 +1,12 @@
 var a02087 =
 [
-    [ "boss_the_black_stalker", "d9/d70/a23340.html", "d9/d70/a23340" ],
-    [ "spell_the_black_stalker_levitate", "df/d90/a23344.html", "df/d90/a23344" ],
-    [ "spell_the_black_stalker_levitation_pulse", "d7/d57/a23348.html", "d7/d57/a23348" ],
-    [ "spell_the_black_stalker_someone_grab_me", "d7/d93/a23352.html", "d7/d93/a23352" ],
-    [ "spell_the_black_stalker_magnetic_pull", "d8/de0/a23356.html", "d8/de0/a23356" ],
-    [ "eBlackStalker", "d2/d31/a02087.html#afbee42c6927db9ad2cf9d9096eeac954", [
-      [ "SPELL_ACID_BREATH", "d3/d1e/a02093.html#afbee42c6927db9ad2cf9d9096eeac954af39adcb38f10e84d7ff9bac76f41031c", null ],
-      [ "SPELL_ACID_SPIT", "d3/d1e/a02093.html#afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806", null ],
-      [ "SPELL_TAIL_SWEEP", "d3/d1e/a02093.html#afbee42c6927db9ad2cf9d9096eeac954addcb3daa6cdc61ef04c65580e44ef823", null ],
-      [ "SPELL_ENRAGE", "d3/d1e/a02093.html#afbee42c6927db9ad2cf9d9096eeac954a2a20f56307679be4d4f01a0d3d93cc7e", null ],
-      [ "ACTION_MOVE_TO_PLATFORM", "d3/d1e/a02093.html#afbee42c6927db9ad2cf9d9096eeac954a7e5366df9a5dd5e5bca840226b0755fa", null ],
-      [ "SPELL_LEVITATE", "d2/d31/a02087.html#afbee42c6927db9ad2cf9d9096eeac954ad2a574f606c6448dd086526c15b6fdd2", null ],
-      [ "SPELL_CHAIN_LIGHTNING", "d2/d31/a02087.html#afbee42c6927db9ad2cf9d9096eeac954ac0997e72929070d8e30cc0f49cc4539d", null ],
-      [ "SPELL_STATIC_CHARGE", "d2/d31/a02087.html#afbee42c6927db9ad2cf9d9096eeac954ad174c0c15c17e6a55eec42eab77d89e0", null ],
-      [ "SPELL_SUMMON_SPORE_STRIDER", "d2/d31/a02087.html#afbee42c6927db9ad2cf9d9096eeac954a754dcc3138f3b4acb829bc54bc02b9ed", null ],
-      [ "SPELL_LEVITATION_PULSE", "d2/d31/a02087.html#afbee42c6927db9ad2cf9d9096eeac954ade4ad87d3a67412155f3ce6b143275b1", null ],
-      [ "SPELL_SOMEONE_GRAB_ME", "d2/d31/a02087.html#afbee42c6927db9ad2cf9d9096eeac954aa07d1c28d9fea727b3885a967461d13b", null ],
-      [ "SPELL_MAGNETIC_PULL", "d2/d31/a02087.html#afbee42c6927db9ad2cf9d9096eeac954a3917f87779ff3a60876e0373a10855d5", null ],
-      [ "SPELL_SUSPENSION_PRIMER", "d2/d31/a02087.html#afbee42c6927db9ad2cf9d9096eeac954a38589209a4f90f4db2f89b249f6840de", null ],
-      [ "SPELL_SUSPENSION", "d2/d31/a02087.html#afbee42c6927db9ad2cf9d9096eeac954a0b7462c628390d15bd33088fb3d2a6a0", null ],
-      [ "ENTRY_SPORE_STRIDER", "d2/d31/a02087.html#afbee42c6927db9ad2cf9d9096eeac954a461a6686eb7320e609d5675753241cd2", null ]
-    ] ],
-    [ "AddSC_boss_the_black_stalker", "d2/d31/a02087.html#aed8364eb84dab70c060c0a88e6522a7c", null ]
+    [ "Escort_Waypoint", "d1/d7b/a06448.html", "d1/d7b/a06448" ],
+    [ "npc_escortAI", "dc/d19/a06452.html", "dc/d19/a06452" ],
+    [ "DEFAULT_MAX_PLAYER_DISTANCE", "d2/d31/a02087.html#ad23dc39ce2da634e67360fab90e3b9e2", null ],
+    [ "eEscortState", "d2/d31/a02087.html#af40ca4990501264cb0359ab6d93fb08a", [
+      [ "STATE_ESCORT_NONE", "d2/d31/a02087.html#af40ca4990501264cb0359ab6d93fb08aa7cc35d82589d473e8265c67eccc9ecd5", null ],
+      [ "STATE_ESCORT_ESCORTING", "d2/d31/a02087.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92", null ],
+      [ "STATE_ESCORT_RETURNING", "d2/d31/a02087.html#af40ca4990501264cb0359ab6d93fb08aaae71d59813ca4d9bb6e84769e1eeec48", null ],
+      [ "STATE_ESCORT_PAUSED", "d2/d31/a02087.html#af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6", null ]
+    ] ]
 ];

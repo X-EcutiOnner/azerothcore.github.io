@@ -1,7 +1,7 @@
 var a24056 =
 [
-    [ "HandleScriptEffect", "d1/d69/a24056.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
-    [ "PrepareSpellScript", "d1/d69/a24056.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
-    [ "Register", "d1/d69/a24056.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
-    [ "Validate", "d1/d69/a24056.html#a5209de3456c374010502a94f67ff4544", null ]
+    [ "npc_bessyAI", "d6/d94/a24060.html", "d6/d94/a24060" ],
+    [ "npc_bessy", "d1/d69/a24056.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "d1/d69/a24056.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "d1/d69/a24056.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

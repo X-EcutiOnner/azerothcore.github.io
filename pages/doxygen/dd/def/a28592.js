@@ -1,8 +1,8 @@
 var a28592 =
 [
-    [ "npc_minion_spawner", "dd/def/a28592.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
-    [ "CanSpawnRareMinion", "dd/def/a28592.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
-    [ "JustSummoned", "dd/def/a28592.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
-    [ "Reset", "dd/def/a28592.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
-    [ "UpdateAI", "dd/def/a28592.html#a24f93f1314bb73edb369e188eda83104", null ]
+    [ "npc_traveler_mammoth_vendor", "dd/def/a28592.html#af3b5fc14371eb03e8259799b296967c1", null ],
+    [ "Reset", "dd/def/a28592.html#a2b8cf527d2a42b4884f0a4e03a15e8ef", null ],
+    [ "UpdateAI", "dd/def/a28592.html#a98129bb78476ddc0b1a09593b8894fff", null ],
+    [ "_hasEjected", "dd/def/a28592.html#af801e9849a795358c812fddf69ec8434", null ],
+    [ "_playerGuid", "dd/def/a28592.html#a9e657a91bedc5643b2de6a135e97d89c", null ]
 ];

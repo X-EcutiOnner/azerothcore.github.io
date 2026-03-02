@@ -1,9 +1,8 @@
 var a17888 =
 [
-    [ "FilterTargetsInitial", "d5/de4/a17888.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
-    [ "FilterTargetsSubsequent", "d5/de4/a17888.html#a11732039155235c287757980129d5a8e", null ],
-    [ "Load", "d5/de4/a17888.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
-    [ "PrepareSpellScript", "d5/de4/a17888.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
-    [ "Register", "d5/de4/a17888.html#a56a4e65df08a95fddde75162358155c2", null ],
-    [ "_target", "d5/de4/a17888.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "dd/d30/a17892.html", "dd/d30/a17892" ],
+    [ "npc_muradin_bronzebeard_icc", "d5/de4/a17888.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
+    [ "GetAI", "d5/de4/a17888.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
+    [ "OnGossipHello", "d5/de4/a17888.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
+    [ "OnGossipSelect", "d5/de4/a17888.html#a46c4893be723a848d985ff55e28d55a2", null ]
 ];

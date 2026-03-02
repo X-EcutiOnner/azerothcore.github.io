@@ -1,8 +1,6 @@
 var a18036 =
 [
-    [ "npc_gunship_mageAI", "d3/d16/a18036.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
-    [ "AttackStart", "d3/d16/a18036.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
-    [ "CanAIAttack", "d3/d16/a18036.html#aadcb217a9df96bee02287d75a23e32c2", null ],
-    [ "MovementInform", "d3/d16/a18036.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
-    [ "UpdateAI", "d3/d16/a18036.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
+    [ "npc_igb_ship_crewAI", "d3/d16/a18036.html#a3ca741b305e3235b0521f094d7abe732", null ],
+    [ "CanAIAttack", "d3/d16/a18036.html#a2c834dc151493957fc116865699ae7f5", null ],
+    [ "_instance", "d3/d16/a18036.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
 ];

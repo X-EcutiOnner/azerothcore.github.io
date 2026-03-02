@@ -1,6 +1,6 @@
 var a23332 =
 [
-    [ "HandleScript", "dc/d8e/a23332.html#ae45f8a366c1594d3723b83ee6e006957", null ],
-    [ "PrepareSpellScript", "dc/d8e/a23332.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
-    [ "Register", "dc/d8e/a23332.html#a6b9e449a64747f0a5715424295b1c30f", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d3/dcb/a23336.html", "d3/dcb/a23336" ],
+    [ "instance_steam_vault", "dc/d8e/a23332.html#aa3417083841ccb50c8a2f29ba343e115", null ],
+    [ "GetInstanceScript", "dc/d8e/a23332.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
 ];

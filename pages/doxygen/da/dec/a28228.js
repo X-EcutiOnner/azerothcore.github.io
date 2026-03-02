@@ -1,6 +1,6 @@
 var a28228 =
 [
-    [ "go_amberpine_outhouse", "da/dec/a28228.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
-    [ "OnGossipHello", "da/dec/a28228.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
-    [ "OnGossipSelect", "da/dec/a28228.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
+    [ "go_fel_crystalforge", "da/dec/a28228.html#aa44708a617edd51651da49918ab776e5", null ],
+    [ "OnGossipHello", "da/dec/a28228.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
+    [ "OnGossipSelect", "da/dec/a28228.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
 ];

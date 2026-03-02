@@ -1,26 +1,10 @@
 var a09956 =
 [
-    [ "AddItem", "d6/d3e/a09956.html#ab39b529b190bafe093a7931311c24626", null ],
-    [ "HasItems", "d6/d3e/a09956.html#a0997971db668abca530f1869d71828dc", null ],
-    [ "IsCODPayment", "d6/d3e/a09956.html#a113aef1ace737f4bf119ee9cec9d69bd", null ],
-    [ "IsReturnedMail", "d6/d3e/a09956.html#adb7b77433c2ac76939d3fa9aa7ba5972", null ],
-    [ "IsSentByGM", "d6/d3e/a09956.html#a0e07f4b90ae44b9dc2a2cac9589196db", null ],
-    [ "IsSentByPlayer", "d6/d3e/a09956.html#a387fbf2f51eb9414bbcead134f59fa53", null ],
-    [ "RemoveItem", "d6/d3e/a09956.html#ab96701f1ab95184d78a1a91c87d0076c", null ],
-    [ "body", "d6/d3e/a09956.html#aaa91a94ee92b2712218a9cae389554f7", null ],
-    [ "checked", "d6/d3e/a09956.html#ae3198d4379f7f783aa40b180311ca970", null ],
-    [ "COD", "d6/d3e/a09956.html#ac6db3ffc26e23cc0aea607633390bb66", null ],
-    [ "deliver_time", "d6/d3e/a09956.html#ac418d7eae438c2c3cd297477a760f0b1", null ],
-    [ "expire_time", "d6/d3e/a09956.html#a5d7d7251c7a6021d9dc8b9406c0c20ff", null ],
-    [ "items", "d6/d3e/a09956.html#aab1074d26d11d3216df8f7e6e9b8c1f7", null ],
-    [ "mailTemplateId", "d6/d3e/a09956.html#afefffec74369d920ce395f1a04d8838c", null ],
-    [ "messageID", "d6/d3e/a09956.html#a3ee287f59b36f3154cd977a1e92c4d47", null ],
-    [ "messageType", "d6/d3e/a09956.html#a240dfdc4b89b7cb806330460d5256a44", null ],
-    [ "money", "d6/d3e/a09956.html#af326068e66a3091aa731186e5e3295ed", null ],
-    [ "receiver", "d6/d3e/a09956.html#a1cc9173228e34a23b635dfdb6fdf58a1", null ],
-    [ "removedItems", "d6/d3e/a09956.html#a4299fd5b84f08ff8b1a8fa7caadf531b", null ],
-    [ "sender", "d6/d3e/a09956.html#a62b403874a8e34a2ab99bc77dbe2996d", null ],
-    [ "state", "d6/d3e/a09956.html#ae81b243e0ef55683b282e8bfae1d7a42", null ],
-    [ "stationery", "d6/d3e/a09956.html#a88588149be95899c2fc30b144c4425a6", null ],
-    [ "subject", "d6/d3e/a09956.html#a8bc2e13257b7a771c9065e35aaf02744", null ]
+    [ "iterator", "d6/d3e/a09956.html#a9fada63aa17222fc5e216f3904affafd", null ],
+    [ "begin", "d6/d3e/a09956.html#aee3a4701c5bc51f4028fe53f18675989", null ],
+    [ "end", "d6/d3e/a09956.html#ad61defd77296790a6c5d0a43bacbbe4b", null ],
+    [ "getFirst", "d6/d3e/a09956.html#ae47bba95a17db31a42231da948245387", null ],
+    [ "getLast", "d6/d3e/a09956.html#ac03e93ac8ad6fc91ec9d2961b8904217", null ],
+    [ "rbegin", "d6/d3e/a09956.html#af68f1d93a80e13976798dfed0063a1e4", null ],
+    [ "rend", "d6/d3e/a09956.html#a92c30fb269bc99820b6964a99ee86d98", null ]
 ];

@@ -1,11 +1,13 @@
 var a15880 =
 [
-    [ "npc_troll_volunteerAI", "dd/da3/a15880.html#a7eb0c508122616a6781c8b23210e4062", null ],
-    [ "GetMountId", "dd/da3/a15880.html#a5edc586ded0a1146bb1bd82ca14062cc", null ],
-    [ "InitializeAI", "dd/da3/a15880.html#a1c758c7601624e0620778e13e8ec60a0", null ],
-    [ "MovementInform", "dd/da3/a15880.html#aa1d34a4f3701354899ebdd9b38670b31", null ],
-    [ "Reset", "dd/da3/a15880.html#a31439533de41c2a459af2b4d3af76139", null ],
-    [ "SpellHit", "dd/da3/a15880.html#a0604cdade2ce4da23915ca1fc4a4f475", null ],
-    [ "_complete", "dd/da3/a15880.html#ac7e1cc5f0e4f675d6aad0f6e9b449c15", null ],
-    [ "_mountModel", "dd/da3/a15880.html#ae226345bd324b9c337dc96570117d82b", null ]
+    [ "npc_tharnarianAI", "dd/da3/a15880.html#a8e22d45f6420aa8079f8fb7150a2a53a", null ],
+    [ "Initialize", "dd/da3/a15880.html#ad1d89491b42a56406273a04045e7e91d", null ],
+    [ "Reset", "dd/da3/a15880.html#a7de1f46bee4e79effc5dbb405854a7da", null ],
+    [ "SetGUID", "dd/da3/a15880.html#a8717a30828b91853ceba1b5e62126f29", null ],
+    [ "sGossipSelect", "dd/da3/a15880.html#a33b5898def48e17ba27363b98f51849b", null ],
+    [ "UpdateAI", "dd/da3/a15880.html#a1e58a89064bdfb69e4445db72184d8b3", null ],
+    [ "_bearGUID", "dd/da3/a15880.html#af7a116b8226ddb51e9f0f118f2d8fa22", null ],
+    [ "_events", "dd/da3/a15880.html#aff73052a4b7407d760af3dde09fa8a07", null ],
+    [ "_facing", "dd/da3/a15880.html#ad2120fffc0ffa93d4fca1e9e8c0a4371", null ],
+    [ "_scriptRunning", "dd/da3/a15880.html#a5be50b02cc8ce2e7b4dd334e923a7c10", null ]
 ];

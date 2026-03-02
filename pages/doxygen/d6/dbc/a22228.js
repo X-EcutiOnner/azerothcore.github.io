@@ -1,7 +1,12 @@
 var a22228 =
 [
-    [ "HandleOnEffectHit", "d6/dbc/a22228.html#a909ec44339061a114697cacee5fba5b2", null ],
-    [ "PrepareSpellScript", "d6/dbc/a22228.html#ac1bfb2b49cd335ca5961b984fadfffb8", null ],
-    [ "Register", "d6/dbc/a22228.html#aa241c97b4e895d07fe89d03edca29912", null ],
-    [ "Validate", "d6/dbc/a22228.html#aa84f4c29ca00789bb47661267549cda6", null ]
+    [ "npc_icefangAI", "d6/dbc/a22228.html#ab74b58a77e3c1349ed308f7febef794a", null ],
+    [ "AttackStart", "d6/dbc/a22228.html#a56615ecdb45389aa793374d26a636d45", null ],
+    [ "EnterEvadeMode", "d6/dbc/a22228.html#a1465c4779ea8b080f934163c8db6c99c", null ],
+    [ "JustDied", "d6/dbc/a22228.html#a3140c8306a384833cca1580ad964d73a", null ],
+    [ "JustEngagedWith", "d6/dbc/a22228.html#a8455dd4afb5ef5a694ca9237848df907", null ],
+    [ "OnCharmed", "d6/dbc/a22228.html#ad7f3465f5730cd9ebd42bb4092ec8e68", null ],
+    [ "PassengerBoarded", "d6/dbc/a22228.html#acf6e8e273830d022eaca3a28a4bd5320", null ],
+    [ "UpdateAI", "d6/dbc/a22228.html#ab4d752f2273062c48339b53e611e617c", null ],
+    [ "WaypointReached", "d6/dbc/a22228.html#ae315a1d22317edb2864e4d796f808ffb", null ]
 ];

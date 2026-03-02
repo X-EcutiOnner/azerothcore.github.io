@@ -1,14 +1,5 @@
 var a22460 =
 [
-    [ "OutdoorPvPNA", "d5/d5e/a22460.html#acbdae42245c71e4274296649d8d08e9e", null ],
-    [ "FillInitialWorldStates", "d5/d5e/a22460.html#a49ac785929dd16bf0735b32b787763e9", null ],
-    [ "GetCapturePoint", "d5/d5e/a22460.html#a7bab429e723c0ac1eb2f8cd3501f13be", null ],
-    [ "HandleKill", "d5/d5e/a22460.html#ab55683b771104878c69239314a9782f4", null ],
-    [ "HandleKillImpl", "d5/d5e/a22460.html#a2ede6e7dc54424d9729a094557b14792", null ],
-    [ "HandlePlayerEnterZone", "d5/d5e/a22460.html#a312c5f2aaa35a9f83740c1bdd9772b9e", null ],
-    [ "HandlePlayerLeaveZone", "d5/d5e/a22460.html#ae7dd540746946513cd7bf8e29296c068", null ],
-    [ "SendRemoveWorldStates", "d5/d5e/a22460.html#ae9a93ddac1ca439f0f269d7ac7597593", null ],
-    [ "SetupOutdoorPvP", "d5/d5e/a22460.html#a09369a62ec5584dd6ce5eddf7b2bb80f", null ],
-    [ "Update", "d5/d5e/a22460.html#a4074a96974fe1b5e6d9149c8eee36e71", null ],
-    [ "m_obj", "d5/d5e/a22460.html#a7538d64bb494644eae3cc7db03dd631f", null ]
+    [ "OutdoorPvP_hellfire_peninsula", "d5/d5e/a22460.html#a8ef74076d03225c889c6f027fbbfe25d", null ],
+    [ "GetOutdoorPvP", "d5/d5e/a22460.html#aee93a8191457d7a264053809a5c082e8", null ]
 ];

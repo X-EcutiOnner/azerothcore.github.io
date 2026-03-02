@@ -1,6 +1,6 @@
 var a21732 =
 [
-    [ "SACDeactivateEvent", "d3/d4b/a21732.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
-    [ "Execute", "d3/d4b/a21732.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
-    [ "_owner", "d3/d4b/a21732.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
+    [ "HandleSendEvent", "d3/d4b/a21732.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
+    [ "PrepareSpellScript", "d3/d4b/a21732.html#aa632d381ac415feaf226f55fc2cd8520", null ],
+    [ "Register", "d3/d4b/a21732.html#a72673f5054cf269cc8da511441f7bd66", null ]
 ];

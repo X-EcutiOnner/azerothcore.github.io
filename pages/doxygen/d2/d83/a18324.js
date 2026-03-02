@@ -1,7 +1,7 @@
 var a18324 =
 [
-    [ "HandleTriggerSpell", "d2/d83/a18324.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
-    [ "OnRemove", "d2/d83/a18324.html#a238adc96e80c1890934b23dd4a2685b4", null ],
-    [ "PrepareAuraScript", "d2/d83/a18324.html#af9ce7433b620fdf1dea570561c514b3b", null ],
-    [ "Register", "d2/d83/a18324.html#ab36a001ea8cd87703e2694e0765635c0", null ]
+    [ "HandleScript", "d2/d83/a18324.html#afc76149cb44a4d2aab48350fb4392036", null ],
+    [ "PrepareSpellScript", "d2/d83/a18324.html#a8598de219c2402596fe97b5dd32c534e", null ],
+    [ "Register", "d2/d83/a18324.html#ac9d4842632431e52932f66d09042ea70", null ],
+    [ "ScaleRange", "d2/d83/a18324.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
 ];

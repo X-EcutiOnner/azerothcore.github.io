@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/DungeonFinding/LFGScripts.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellProcTargetResolutionTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,38 +105,474 @@ $(document).ready(function(){initNavTree('d2/da3/a00593.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#namespaces">Namespaces</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">LFGScripts.cpp File Reference</div></div>
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">SpellProcTargetResolutionTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">LFGScripts.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Group.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">LFGMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectAccessor.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
+
+<p>Tests for smart proc trigger target resolution.  
+<a href="#details">More...</a></p>
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ProcEventInfoHelper.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Unit.h</a>&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d5f/a29768.html">SpellProcTargetResolutionTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
 Namespaces</h2></td></tr>
-<tr class="memitem:da/de7/a04983"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html">lfg</a></td></tr>
+<tr class="memitem:d6/d32/a05051"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d32/a05051.html">anonymous_namespace{SpellProcTargetResolutionTest.cpp}</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a9624b9328e26a9f420a4a3f07e253763"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de7/a04983.html#a9624b9328e26a9f420a4a3f07e253763">lfg::AddSC_LFGScripts</a> ()</td></tr>
-<tr class="separator:a9624b9328e26a9f420a4a3f07e253763"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae0ceced3da7b46834d403b94be7bd498"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d7/d19/a08988.html">Unit</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/da3/a00593.html#ae0ceced3da7b46834d403b94be7bd498">ResolveProcTriggerTarget</a> (<a class="el" href="../../d7/d19/a08988.html">Unit</a> *triggerCaster, <a class="el" href="../../d4/d43/a08960.html">ProcEventInfo</a> &amp;eventInfo)</td></tr>
+<tr class="memdesc:ae0ceced3da7b46834d403b94be7bd498"><td class="mdescLeft">&#160;</td><td class="mdescRight">Applies the smart targeting expression from <a class="el" href="../../df/d21/a01778.html">SpellAuraEffects.cpp</a>.  <a href="../../d2/da3/a00593.html#ae0ceced3da7b46834d403b94be7bd498">More...</a><br /></td></tr>
+<tr class="separator:ae0ceced3da7b46834d403b94be7bd498"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6349a6956dcb722f54714e939b3ccb12"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/da3/a00593.html#a6349a6956dcb722f54714e939b3ccb12">TEST_F</a> (<a class="el" href="../../da/d5f/a29768.html">SpellProcTargetResolutionTest</a>, ActorSide_HitPhase_TargetsEnemy)</td></tr>
+<tr class="separator:a6349a6956dcb722f54714e939b3ccb12"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adc4f7536f5fbc531ee25c5e2e8aa823c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/da3/a00593.html#adc4f7536f5fbc531ee25c5e2e8aa823c">TEST_F</a> (<a class="el" href="../../da/d5f/a29768.html">SpellProcTargetResolutionTest</a>, ActorSide_FinishPhase_ReturnsNullptr)</td></tr>
+<tr class="separator:adc4f7536f5fbc531ee25c5e2e8aa823c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a94bb580a1521b12b0dc26d91b4d9e3ca"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/da3/a00593.html#a94bb580a1521b12b0dc26d91b4d9e3ca">TEST_F</a> (<a class="el" href="../../da/d5f/a29768.html">SpellProcTargetResolutionTest</a>, ActorSide_CastPhase_TargetsEnemy)</td></tr>
+<tr class="separator:a94bb580a1521b12b0dc26d91b4d9e3ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adc3e9713f51dc9d0659472c769da1073"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/da3/a00593.html#adc3e9713f51dc9d0659472c769da1073">TEST_F</a> (<a class="el" href="../../da/d5f/a29768.html">SpellProcTargetResolutionTest</a>, VictimSide_HitPhase_TargetsAttacker)</td></tr>
+<tr class="separator:adc3e9713f51dc9d0659472c769da1073"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8d1c35ebc225b6f64d08e5748e6adbfe"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/da3/a00593.html#a8d1c35ebc225b6f64d08e5748e6adbfe">TEST_F</a> (<a class="el" href="../../da/d5f/a29768.html">SpellProcTargetResolutionTest</a>, ActorSide_NullActionTarget_ReturnsNullptr)</td></tr>
+<tr class="separator:a8d1c35ebc225b6f64d08e5748e6adbfe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a65154972e92d7ebcbd52504ba1d20322"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/da3/a00593.html#a65154972e92d7ebcbd52504ba1d20322">TEST_F</a> (<a class="el" href="../../da/d5f/a29768.html">SpellProcTargetResolutionTest</a>, VictimSide_NullActionTarget_StillReturnsActor)</td></tr>
+<tr class="separator:a65154972e92d7ebcbd52504ba1d20322"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac01a72b5a8b9e24ce8306b05cca87dbb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/da3/a00593.html#ac01a72b5a8b9e24ce8306b05cca87dbb">TEST_F</a> (<a class="el" href="../../da/d5f/a29768.html">SpellProcTargetResolutionTest</a>, SelfProc_ActorIsActionTarget)</td></tr>
+<tr class="separator:ac01a72b5a8b9e24ce8306b05cca87dbb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:aa56828182e47a5c051cfcc0318167b79"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d19/a08988.html">Unit</a> *const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d32/a05051.html#aa56828182e47a5c051cfcc0318167b79">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ROGUE</a> = reinterpret_cast&lt;<a class="el" href="../../d7/d19/a08988.html">Unit</a>*&gt;(uintptr_t(0x1000))</td></tr>
+<tr class="separator:aa56828182e47a5c051cfcc0318167b79"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a44641e393e88c869080a70e5d49c017c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d19/a08988.html">Unit</a> *const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d32/a05051.html#a44641e393e88c869080a70e5d49c017c">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ENEMY</a> = reinterpret_cast&lt;<a class="el" href="../../d7/d19/a08988.html">Unit</a>*&gt;(uintptr_t(0x2000))</td></tr>
+<tr class="separator:a44641e393e88c869080a70e5d49c017c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >Tests for smart proc trigger target resolution. </p>
+<p >Verifies the targeting expression used in HandleProcTriggerSpellAuraProc and HandleProcTriggerSpellWithValueAuraProc:</p>
+<p >triggerTarget = (triggerCaster == actor) ? actionTarget : actor</p>
+<p >This expression correctly resolves targets for all proc scenarios:</p><ul>
+<li>Actor-side HIT phase: triggerCaster==actor, returns enemy (actionTarget)</li>
+<li>Actor-side FINISH phase: triggerCaster==actor, returns nullptr (actionTarget is nullptr because FINISH phase passes no victim)</li>
+<li>Victim-side HIT phase: triggerCaster!=actor, returns attacker (actor) </li>
+</ul>
+
+<p class="definition">Definition in file <a class="el" href="../../">SpellProcTargetResolutionTest.cpp</a>.</p>
+</div><h2 class="groupheader">Function Documentation</h2>
+<a id="ae0ceced3da7b46834d403b94be7bd498" name="ae0ceced3da7b46834d403b94be7bd498"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae0ceced3da7b46834d403b94be7bd498">&#9670;&#160;</a></span>ResolveProcTriggerTarget()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="../../d7/d19/a08988.html">Unit</a> * ResolveProcTriggerTarget </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/d19/a08988.html">Unit</a> *&#160;</td>
+          <td class="paramname"><em>triggerCaster</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/d43/a08960.html">ProcEventInfo</a> &amp;&#160;</td>
+          <td class="paramname"><em>eventInfo</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Applies the smart targeting expression from <a class="el" href="../../df/d21/a01778.html">SpellAuraEffects.cpp</a>. </p>
+<p >This mirrors the logic in HandleProcTriggerSpellAuraProc: Unit* triggerCaster = aurApp-&gt;GetTarget(); // the aura owner Unit* triggerTarget = triggerCaster == eventInfo.GetActor() ? eventInfo.GetActionTarget() : eventInfo.GetActor(); </p>
+<div class="fragment"><div class="line"><span class="lineno">   56</span>{</div>
+<div class="line"><span class="lineno">   57</span>    <span class="keywordflow">return</span> triggerCaster == eventInfo.<a class="code hl_function" href="../../d4/d43/a08960.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>()</div>
+<div class="line"><span class="lineno">   58</span>        ? eventInfo.<a class="code hl_function" href="../../d4/d43/a08960.html#a1b55684ec526bdc9b7d5d3b2ac4297a9">GetActionTarget</a>()</div>
+<div class="line"><span class="lineno">   59</span>        : eventInfo.<a class="code hl_function" href="../../d4/d43/a08960.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">GetActor</a>();</div>
+<div class="line"><span class="lineno">   60</span>}</div>
+<div class="ttc" id="aa08960_html_a1b55684ec526bdc9b7d5d3b2ac4297a9"><div class="ttname"><a href="../../d4/d43/a08960.html#a1b55684ec526bdc9b7d5d3b2ac4297a9">ProcEventInfo::GetActionTarget</a></div><div class="ttdeci">Unit * GetActionTarget() const</div><div class="ttdef"><b>Definition:</b> Unit.h:461</div></div>
+<div class="ttc" id="aa08960_html_a89d8ab0bf0b01e3e1ca4ae10a3cbde10"><div class="ttname"><a href="../../d4/d43/a08960.html#a89d8ab0bf0b01e3e1ca4ae10a3cbde10">ProcEventInfo::GetActor</a></div><div class="ttdeci">Unit * GetActor()</div><div class="ttdef"><b>Definition:</b> Unit.h:460</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00461">ProcEventInfo::GetActionTarget()</a>, and <a class="el" href="../../#l00460">ProcEventInfo::GetActor()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00068">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="a94bb580a1521b12b0dc26d91b4d9e3ca" name="a94bb580a1521b12b0dc26d91b4d9e3ca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a94bb580a1521b12b0dc26d91b4d9e3ca">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/7]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d5f/a29768.html">SpellProcTargetResolutionTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ActorSide_CastPhase_TargetsEnemy&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  109</span>{</div>
+<div class="line"><span class="lineno">  110</span>    <span class="comment">// Scenario: Actor-side CAST phase proc (e.g., Nature&#39;s Grace).</span></div>
+<div class="line"><span class="lineno">  111</span>    <span class="comment">// actor=Rogue, actionTarget=Enemy</span></div>
+<div class="line"><span class="lineno">  112</span>    <span class="comment">// triggerCaster == actor, returns actionTarget</span></div>
+<div class="line"><span class="lineno">  113</span>    <span class="keyword">auto</span> eventInfo = <a class="code hl_class" href="../../dd/d43/a29584.html">ProcEventInfoBuilder</a>()</div>
+<div class="line"><span class="lineno">  114</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a4a2faf802f7ef682e7be2b7ada7a0ff5">WithActor</a>(<a class="code hl_variable" href="../../d6/d32/a05051.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>)</div>
+<div class="line"><span class="lineno">  115</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a07d934345c43ecd6c8cebeb678e08dab">WithActionTarget</a>(<a class="code hl_variable" href="../../d6/d32/a05051.html#a44641e393e88c869080a70e5d49c017c">FAKE_ENEMY</a>)</div>
+<div class="line"><span class="lineno">  116</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>)</div>
+<div class="line"><span class="lineno">  117</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a2247bbb4936f6d48c4214641a5a466af">WithSpellPhaseMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d">PROC_SPELL_PHASE_CAST</a>)</div>
+<div class="line"><span class="lineno">  118</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#ae0f8d3a43a218b4459db0aa3fee95bf0">Build</a>();</div>
+<div class="line"><span class="lineno">  119</span> </div>
+<div class="line"><span class="lineno">  120</span>    <a class="code hl_class" href="../../d7/d19/a08988.html">Unit</a>* triggerCaster = <a class="code hl_variable" href="../../d6/d32/a05051.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>;</div>
+<div class="line"><span class="lineno">  121</span>    <a class="code hl_class" href="../../d7/d19/a08988.html">Unit</a>* result = <a class="code hl_function" href="../../d2/da3/a00593.html#ae0ceced3da7b46834d403b94be7bd498">ResolveProcTriggerTarget</a>(triggerCaster, eventInfo);</div>
+<div class="line"><span class="lineno">  122</span> </div>
+<div class="line"><span class="lineno">  123</span>    EXPECT_EQ(result, <a class="code hl_variable" href="../../d6/d32/a05051.html#a44641e393e88c869080a70e5d49c017c">FAKE_ENEMY</a>);</div>
+<div class="line"><span class="lineno">  124</span>}</div>
+<div class="ttc" id="aa00593_html_ae0ceced3da7b46834d403b94be7bd498"><div class="ttname"><a href="../../d2/da3/a00593.html#ae0ceced3da7b46834d403b94be7bd498">ResolveProcTriggerTarget</a></div><div class="ttdeci">static Unit * ResolveProcTriggerTarget(Unit *triggerCaster, ProcEventInfo &amp;eventInfo)</div><div class="ttdoc">Applies the smart targeting expression from SpellAuraEffects.cpp.</div><div class="ttdef"><b>Definition:</b> SpellProcTargetResolutionTest.cpp:55</div></div>
+<div class="ttc" id="aa01760_html_addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d"><div class="ttname"><a href="../../d0/d9d/a01760.html#addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d">PROC_SPELL_PHASE_CAST</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_CAST</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:245</div></div>
+<div class="ttc" id="aa01760_html_ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67"><div class="ttname"><a href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a></div><div class="ttdeci">@ PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:131</div></div>
+<div class="ttc" id="aa05051_html_a44641e393e88c869080a70e5d49c017c"><div class="ttname"><a href="../../d6/d32/a05051.html#a44641e393e88c869080a70e5d49c017c">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ENEMY</a></div><div class="ttdeci">Unit *const FAKE_ENEMY</div><div class="ttdef"><b>Definition:</b> SpellProcTargetResolutionTest.cpp:43</div></div>
+<div class="ttc" id="aa05051_html_aa56828182e47a5c051cfcc0318167b79"><div class="ttname"><a href="../../d6/d32/a05051.html#aa56828182e47a5c051cfcc0318167b79">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ROGUE</a></div><div class="ttdeci">Unit *const FAKE_ROGUE</div><div class="ttdef"><b>Definition:</b> SpellProcTargetResolutionTest.cpp:42</div></div>
+<div class="ttc" id="aa08988_html"><div class="ttname"><a href="../../d7/d19/a08988.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:665</div></div>
+<div class="ttc" id="aa29584_html"><div class="ttname"><a href="../../dd/d43/a29584.html">ProcEventInfoBuilder</a></div><div class="ttdoc">Builder class for creating ProcEventInfo test instances.</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:31</div></div>
+<div class="ttc" id="aa29584_html_a07d934345c43ecd6c8cebeb678e08dab"><div class="ttname"><a href="../../dd/d43/a29584.html#a07d934345c43ecd6c8cebeb678e08dab">ProcEventInfoBuilder::WithActionTarget</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithActionTarget(Unit *target)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:45</div></div>
+<div class="ttc" id="aa29584_html_a2247bbb4936f6d48c4214641a5a466af"><div class="ttname"><a href="../../dd/d43/a29584.html#a2247bbb4936f6d48c4214641a5a466af">ProcEventInfoBuilder::WithSpellPhaseMask</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithSpellPhaseMask(uint32 spellPhaseMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:69</div></div>
+<div class="ttc" id="aa29584_html_a4a2faf802f7ef682e7be2b7ada7a0ff5"><div class="ttname"><a href="../../dd/d43/a29584.html#a4a2faf802f7ef682e7be2b7ada7a0ff5">ProcEventInfoBuilder::WithActor</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithActor(Unit *actor)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:39</div></div>
+<div class="ttc" id="aa29584_html_a83de461b19bd737c5aa2e7fd3ad2a302"><div class="ttname"><a href="../../dd/d43/a29584.html#a83de461b19bd737c5aa2e7fd3ad2a302">ProcEventInfoBuilder::WithTypeMask</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithTypeMask(uint32 typeMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:57</div></div>
+<div class="ttc" id="aa29584_html_ae0f8d3a43a218b4459db0aa3fee95bf0"><div class="ttname"><a href="../../dd/d43/a29584.html#ae0f8d3a43a218b4459db0aa3fee95bf0">ProcEventInfoBuilder::Build</a></div><div class="ttdeci">ProcEventInfo Build()</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:111</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00111">ProcEventInfoBuilder::Build()</a>, <a class="el" href="../../#l00043">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ENEMY</a>, <a class="el" href="../../#l00042">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ROGUE</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00245">PROC_SPELL_PHASE_CAST</a>, <a class="el" href="../../#l00055">ResolveProcTriggerTarget()</a>, <a class="el" href="../../#l00045">ProcEventInfoBuilder::WithActionTarget()</a>, <a class="el" href="../../#l00039">ProcEventInfoBuilder::WithActor()</a>, <a class="el" href="../../#l00069">ProcEventInfoBuilder::WithSpellPhaseMask()</a>, and <a class="el" href="../../#l00057">ProcEventInfoBuilder::WithTypeMask()</a>.</p>
+
+</div>
+</div>
+<a id="adc4f7536f5fbc531ee25c5e2e8aa823c" name="adc4f7536f5fbc531ee25c5e2e8aa823c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adc4f7536f5fbc531ee25c5e2e8aa823c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/7]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d5f/a29768.html">SpellProcTargetResolutionTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ActorSide_FinishPhase_ReturnsNullptr&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   89</span>{</div>
+<div class="line"><span class="lineno">   90</span>    <span class="comment">// Scenario: Rogue has Ruthlessness aura, finishes Eviscerate.</span></div>
+<div class="line"><span class="lineno">   91</span>    <span class="comment">// FINISH phase: actor=Rogue, actionTarget=nullptr (no victim passed)</span></div>
+<div class="line"><span class="lineno">   92</span>    <span class="comment">// triggerCaster is the aura owner (Rogue), which == actor</span></div>
+<div class="line"><span class="lineno">   93</span>    <span class="comment">// Result: returns nullptr (CastSpell handles this via implicit targeting)</span></div>
+<div class="line"><span class="lineno">   94</span>    <span class="keyword">auto</span> eventInfo = <a class="code hl_class" href="../../dd/d43/a29584.html">ProcEventInfoBuilder</a>()</div>
+<div class="line"><span class="lineno">   95</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a4a2faf802f7ef682e7be2b7ada7a0ff5">WithActor</a>(<a class="code hl_variable" href="../../d6/d32/a05051.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>)</div>
+<div class="line"><span class="lineno">   96</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a07d934345c43ecd6c8cebeb678e08dab">WithActionTarget</a>(<span class="keyword">nullptr</span>)</div>
+<div class="line"><span class="lineno">   97</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a7986f32b9f36b5a364fda01d94accb26">PROC_FLAG_DONE_SPELL_MELEE_DMG_CLASS</a>)</div>
+<div class="line"><span class="lineno">   98</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a2247bbb4936f6d48c4214641a5a466af">WithSpellPhaseMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a>)</div>
+<div class="line"><span class="lineno">   99</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#ac8d9c890333158313fb6bd9bdcd14fcf">WithHitMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a>)</div>
+<div class="line"><span class="lineno">  100</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#ae0f8d3a43a218b4459db0aa3fee95bf0">Build</a>();</div>
+<div class="line"><span class="lineno">  101</span> </div>
+<div class="line"><span class="lineno">  102</span>    <a class="code hl_class" href="../../d7/d19/a08988.html">Unit</a>* triggerCaster = <a class="code hl_variable" href="../../d6/d32/a05051.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>; <span class="comment">// aura owner</span></div>
+<div class="line"><span class="lineno">  103</span>    <a class="code hl_class" href="../../d7/d19/a08988.html">Unit</a>* result = <a class="code hl_function" href="../../d2/da3/a00593.html#ae0ceced3da7b46834d403b94be7bd498">ResolveProcTriggerTarget</a>(triggerCaster, eventInfo);</div>
+<div class="line"><span class="lineno">  104</span> </div>
+<div class="line"><span class="lineno">  105</span>    EXPECT_EQ(result, <span class="keyword">nullptr</span>);</div>
+<div class="line"><span class="lineno">  106</span>}</div>
+<div class="ttc" id="aa01760_html_a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799"><div class="ttname"><a href="../../d0/d9d/a01760.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a></div><div class="ttdeci">@ PROC_HIT_NORMAL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:254</div></div>
+<div class="ttc" id="aa01760_html_addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b"><div class="ttname"><a href="../../d0/d9d/a01760.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_FINISH</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:247</div></div>
+<div class="ttc" id="aa01760_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a7986f32b9f36b5a364fda01d94accb26"><div class="ttname"><a href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a7986f32b9f36b5a364fda01d94accb26">PROC_FLAG_DONE_SPELL_MELEE_DMG_CLASS</a></div><div class="ttdeci">@ PROC_FLAG_DONE_SPELL_MELEE_DMG_CLASS</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:113</div></div>
+<div class="ttc" id="aa29584_html_ac8d9c890333158313fb6bd9bdcd14fcf"><div class="ttname"><a href="../../dd/d43/a29584.html#ac8d9c890333158313fb6bd9bdcd14fcf">ProcEventInfoBuilder::WithHitMask</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithHitMask(uint32 hitMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:75</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00111">ProcEventInfoBuilder::Build()</a>, <a class="el" href="../../#l00042">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ROGUE</a>, <a class="el" href="../../#l00113">PROC_FLAG_DONE_SPELL_MELEE_DMG_CLASS</a>, <a class="el" href="../../#l00254">PROC_HIT_NORMAL</a>, <a class="el" href="../../#l00247">PROC_SPELL_PHASE_FINISH</a>, <a class="el" href="../../#l00055">ResolveProcTriggerTarget()</a>, <a class="el" href="../../#l00045">ProcEventInfoBuilder::WithActionTarget()</a>, <a class="el" href="../../#l00039">ProcEventInfoBuilder::WithActor()</a>, <a class="el" href="../../#l00075">ProcEventInfoBuilder::WithHitMask()</a>, <a class="el" href="../../#l00069">ProcEventInfoBuilder::WithSpellPhaseMask()</a>, and <a class="el" href="../../#l00057">ProcEventInfoBuilder::WithTypeMask()</a>.</p>
+
+</div>
+</div>
+<a id="a6349a6956dcb722f54714e939b3ccb12" name="a6349a6956dcb722f54714e939b3ccb12"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6349a6956dcb722f54714e939b3ccb12">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/7]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d5f/a29768.html">SpellProcTargetResolutionTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ActorSide_HitPhase_TargetsEnemy&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   69</span>{</div>
+<div class="line"><span class="lineno">   70</span>    <span class="comment">// Scenario: Rogue has Ruthlessness aura, casts Eviscerate on enemy.</span></div>
+<div class="line"><span class="lineno">   71</span>    <span class="comment">// HIT phase: actor=Rogue, actionTarget=Enemy</span></div>
+<div class="line"><span class="lineno">   72</span>    <span class="comment">// triggerCaster is the aura owner (Rogue), which == actor</span></div>
+<div class="line"><span class="lineno">   73</span>    <span class="comment">// Result: returns actionTarget (Enemy)</span></div>
+<div class="line"><span class="lineno">   74</span>    <span class="keyword">auto</span> eventInfo = <a class="code hl_class" href="../../dd/d43/a29584.html">ProcEventInfoBuilder</a>()</div>
+<div class="line"><span class="lineno">   75</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a4a2faf802f7ef682e7be2b7ada7a0ff5">WithActor</a>(<a class="code hl_variable" href="../../d6/d32/a05051.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>)</div>
+<div class="line"><span class="lineno">   76</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a07d934345c43ecd6c8cebeb678e08dab">WithActionTarget</a>(<a class="code hl_variable" href="../../d6/d32/a05051.html#a44641e393e88c869080a70e5d49c017c">FAKE_ENEMY</a>)</div>
+<div class="line"><span class="lineno">   77</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a7986f32b9f36b5a364fda01d94accb26">PROC_FLAG_DONE_SPELL_MELEE_DMG_CLASS</a>)</div>
+<div class="line"><span class="lineno">   78</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a2247bbb4936f6d48c4214641a5a466af">WithSpellPhaseMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a>)</div>
+<div class="line"><span class="lineno">   79</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#ac8d9c890333158313fb6bd9bdcd14fcf">WithHitMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a>)</div>
+<div class="line"><span class="lineno">   80</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#ae0f8d3a43a218b4459db0aa3fee95bf0">Build</a>();</div>
+<div class="line"><span class="lineno">   81</span> </div>
+<div class="line"><span class="lineno">   82</span>    <a class="code hl_class" href="../../d7/d19/a08988.html">Unit</a>* triggerCaster = <a class="code hl_variable" href="../../d6/d32/a05051.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>; <span class="comment">// aura owner</span></div>
+<div class="line"><span class="lineno">   83</span>    <a class="code hl_class" href="../../d7/d19/a08988.html">Unit</a>* result = <a class="code hl_function" href="../../d2/da3/a00593.html#ae0ceced3da7b46834d403b94be7bd498">ResolveProcTriggerTarget</a>(triggerCaster, eventInfo);</div>
+<div class="line"><span class="lineno">   84</span> </div>
+<div class="line"><span class="lineno">   85</span>    EXPECT_EQ(result, <a class="code hl_variable" href="../../d6/d32/a05051.html#a44641e393e88c869080a70e5d49c017c">FAKE_ENEMY</a>);</div>
+<div class="line"><span class="lineno">   86</span>}</div>
+<div class="ttc" id="aa01760_html_addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34"><div class="ttname"><a href="../../d0/d9d/a01760.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_HIT</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:246</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00111">ProcEventInfoBuilder::Build()</a>, <a class="el" href="../../#l00043">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ENEMY</a>, <a class="el" href="../../#l00042">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ROGUE</a>, <a class="el" href="../../#l00113">PROC_FLAG_DONE_SPELL_MELEE_DMG_CLASS</a>, <a class="el" href="../../#l00254">PROC_HIT_NORMAL</a>, <a class="el" href="../../#l00246">PROC_SPELL_PHASE_HIT</a>, <a class="el" href="../../#l00055">ResolveProcTriggerTarget()</a>, <a class="el" href="../../#l00045">ProcEventInfoBuilder::WithActionTarget()</a>, <a class="el" href="../../#l00039">ProcEventInfoBuilder::WithActor()</a>, <a class="el" href="../../#l00075">ProcEventInfoBuilder::WithHitMask()</a>, <a class="el" href="../../#l00069">ProcEventInfoBuilder::WithSpellPhaseMask()</a>, and <a class="el" href="../../#l00057">ProcEventInfoBuilder::WithTypeMask()</a>.</p>
+
+</div>
+</div>
+<a id="a8d1c35ebc225b6f64d08e5748e6adbfe" name="a8d1c35ebc225b6f64d08e5748e6adbfe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8d1c35ebc225b6f64d08e5748e6adbfe">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/7]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d5f/a29768.html">SpellProcTargetResolutionTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ActorSide_NullActionTarget_ReturnsNullptr&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  155</span>{</div>
+<div class="line"><span class="lineno">  156</span>    <span class="comment">// Generic test: when actor-side proc has nullptr actionTarget,</span></div>
+<div class="line"><span class="lineno">  157</span>    <span class="comment">// result is nullptr regardless of phase</span></div>
+<div class="line"><span class="lineno">  158</span>    <span class="keyword">auto</span> eventInfo = <a class="code hl_class" href="../../dd/d43/a29584.html">ProcEventInfoBuilder</a>()</div>
+<div class="line"><span class="lineno">  159</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a4a2faf802f7ef682e7be2b7ada7a0ff5">WithActor</a>(<a class="code hl_variable" href="../../d6/d32/a05051.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>)</div>
+<div class="line"><span class="lineno">  160</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a07d934345c43ecd6c8cebeb678e08dab">WithActionTarget</a>(<span class="keyword">nullptr</span>)</div>
+<div class="line"><span class="lineno">  161</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>)</div>
+<div class="line"><span class="lineno">  162</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#ac8d9c890333158313fb6bd9bdcd14fcf">WithHitMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a>)</div>
+<div class="line"><span class="lineno">  163</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#ae0f8d3a43a218b4459db0aa3fee95bf0">Build</a>();</div>
+<div class="line"><span class="lineno">  164</span> </div>
+<div class="line"><span class="lineno">  165</span>    <a class="code hl_class" href="../../d7/d19/a08988.html">Unit</a>* triggerCaster = <a class="code hl_variable" href="../../d6/d32/a05051.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>;</div>
+<div class="line"><span class="lineno">  166</span>    <a class="code hl_class" href="../../d7/d19/a08988.html">Unit</a>* result = <a class="code hl_function" href="../../d2/da3/a00593.html#ae0ceced3da7b46834d403b94be7bd498">ResolveProcTriggerTarget</a>(triggerCaster, eventInfo);</div>
+<div class="line"><span class="lineno">  167</span> </div>
+<div class="line"><span class="lineno">  168</span>    EXPECT_EQ(result, <span class="keyword">nullptr</span>);</div>
+<div class="line"><span class="lineno">  169</span>}</div>
+<div class="ttc" id="aa01760_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc"><div class="ttname"><a href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a></div><div class="ttdeci">@ PROC_FLAG_DONE_MELEE_AUTO_ATTACK</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:110</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00111">ProcEventInfoBuilder::Build()</a>, <a class="el" href="../../#l00042">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ROGUE</a>, <a class="el" href="../../#l00110">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>, <a class="el" href="../../#l00254">PROC_HIT_NORMAL</a>, <a class="el" href="../../#l00055">ResolveProcTriggerTarget()</a>, <a class="el" href="../../#l00045">ProcEventInfoBuilder::WithActionTarget()</a>, <a class="el" href="../../#l00039">ProcEventInfoBuilder::WithActor()</a>, <a class="el" href="../../#l00075">ProcEventInfoBuilder::WithHitMask()</a>, and <a class="el" href="../../#l00057">ProcEventInfoBuilder::WithTypeMask()</a>.</p>
+
+</div>
+</div>
+<a id="ac01a72b5a8b9e24ce8306b05cca87dbb" name="ac01a72b5a8b9e24ce8306b05cca87dbb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac01a72b5a8b9e24ce8306b05cca87dbb">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/7]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d5f/a29768.html">SpellProcTargetResolutionTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SelfProc_ActorIsActionTarget&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  189</span>{</div>
+<div class="line"><span class="lineno">  190</span>    <span class="comment">// Edge case: actor == actionTarget (self-damage/self-heal)</span></div>
+<div class="line"><span class="lineno">  191</span>    <span class="comment">// triggerCaster == actor, returns actionTarget (which is also actor)</span></div>
+<div class="line"><span class="lineno">  192</span>    <span class="keyword">auto</span> eventInfo = <a class="code hl_class" href="../../dd/d43/a29584.html">ProcEventInfoBuilder</a>()</div>
+<div class="line"><span class="lineno">  193</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a4a2faf802f7ef682e7be2b7ada7a0ff5">WithActor</a>(<a class="code hl_variable" href="../../d6/d32/a05051.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>)</div>
+<div class="line"><span class="lineno">  194</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a07d934345c43ecd6c8cebeb678e08dab">WithActionTarget</a>(<a class="code hl_variable" href="../../d6/d32/a05051.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>)</div>
+<div class="line"><span class="lineno">  195</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a3224fff7fa83c444aa33906a7a00a87b">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_POS</a>)</div>
+<div class="line"><span class="lineno">  196</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a2247bbb4936f6d48c4214641a5a466af">WithSpellPhaseMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a>)</div>
+<div class="line"><span class="lineno">  197</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#ac8d9c890333158313fb6bd9bdcd14fcf">WithHitMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a>)</div>
+<div class="line"><span class="lineno">  198</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#ae0f8d3a43a218b4459db0aa3fee95bf0">Build</a>();</div>
+<div class="line"><span class="lineno">  199</span> </div>
+<div class="line"><span class="lineno">  200</span>    <a class="code hl_class" href="../../d7/d19/a08988.html">Unit</a>* triggerCaster = <a class="code hl_variable" href="../../d6/d32/a05051.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>;</div>
+<div class="line"><span class="lineno">  201</span>    <a class="code hl_class" href="../../d7/d19/a08988.html">Unit</a>* result = <a class="code hl_function" href="../../d2/da3/a00593.html#ae0ceced3da7b46834d403b94be7bd498">ResolveProcTriggerTarget</a>(triggerCaster, eventInfo);</div>
+<div class="line"><span class="lineno">  202</span> </div>
+<div class="line"><span class="lineno">  203</span>    EXPECT_EQ(result, <a class="code hl_variable" href="../../d6/d32/a05051.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>);</div>
+<div class="line"><span class="lineno">  204</span>}</div>
+<div class="ttc" id="aa01760_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a3224fff7fa83c444aa33906a7a00a87b"><div class="ttname"><a href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a3224fff7fa83c444aa33906a7a00a87b">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_POS</a></div><div class="ttdeci">@ PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_POS</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:128</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00111">ProcEventInfoBuilder::Build()</a>, <a class="el" href="../../#l00042">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ROGUE</a>, <a class="el" href="../../#l00128">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_POS</a>, <a class="el" href="../../#l00254">PROC_HIT_NORMAL</a>, <a class="el" href="../../#l00246">PROC_SPELL_PHASE_HIT</a>, <a class="el" href="../../#l00055">ResolveProcTriggerTarget()</a>, <a class="el" href="../../#l00045">ProcEventInfoBuilder::WithActionTarget()</a>, <a class="el" href="../../#l00039">ProcEventInfoBuilder::WithActor()</a>, <a class="el" href="../../#l00075">ProcEventInfoBuilder::WithHitMask()</a>, <a class="el" href="../../#l00069">ProcEventInfoBuilder::WithSpellPhaseMask()</a>, and <a class="el" href="../../#l00057">ProcEventInfoBuilder::WithTypeMask()</a>.</p>
+
+</div>
+</div>
+<a id="adc3e9713f51dc9d0659472c769da1073" name="adc3e9713f51dc9d0659472c769da1073"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adc3e9713f51dc9d0659472c769da1073">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/7]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d5f/a29768.html">SpellProcTargetResolutionTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">VictimSide_HitPhase_TargetsAttacker&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  131</span>{</div>
+<div class="line"><span class="lineno">  132</span>    <span class="comment">// Scenario: Enemy has a &quot;when hit&quot; proc aura. Rogue hits Enemy.</span></div>
+<div class="line"><span class="lineno">  133</span>    <span class="comment">// HIT phase: actor=Rogue (attacker), actionTarget=Enemy (victim)</span></div>
+<div class="line"><span class="lineno">  134</span>    <span class="comment">// triggerCaster is the aura owner (Enemy), which != actor (Rogue)</span></div>
+<div class="line"><span class="lineno">  135</span>    <span class="comment">// Result: returns actor (Rogue) — the attacker</span></div>
+<div class="line"><span class="lineno">  136</span>    <span class="keyword">auto</span> eventInfo = <a class="code hl_class" href="../../dd/d43/a29584.html">ProcEventInfoBuilder</a>()</div>
+<div class="line"><span class="lineno">  137</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a4a2faf802f7ef682e7be2b7ada7a0ff5">WithActor</a>(<a class="code hl_variable" href="../../d6/d32/a05051.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>)</div>
+<div class="line"><span class="lineno">  138</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a07d934345c43ecd6c8cebeb678e08dab">WithActionTarget</a>(<a class="code hl_variable" href="../../d6/d32/a05051.html#a44641e393e88c869080a70e5d49c017c">FAKE_ENEMY</a>)</div>
+<div class="line"><span class="lineno">  139</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>)</div>
+<div class="line"><span class="lineno">  140</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a2247bbb4936f6d48c4214641a5a466af">WithSpellPhaseMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a>)</div>
+<div class="line"><span class="lineno">  141</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#ac8d9c890333158313fb6bd9bdcd14fcf">WithHitMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a>)</div>
+<div class="line"><span class="lineno">  142</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#ae0f8d3a43a218b4459db0aa3fee95bf0">Build</a>();</div>
+<div class="line"><span class="lineno">  143</span> </div>
+<div class="line"><span class="lineno">  144</span>    <a class="code hl_class" href="../../d7/d19/a08988.html">Unit</a>* triggerCaster = <a class="code hl_variable" href="../../d6/d32/a05051.html#a44641e393e88c869080a70e5d49c017c">FAKE_ENEMY</a>; <span class="comment">// aura owner (victim)</span></div>
+<div class="line"><span class="lineno">  145</span>    <a class="code hl_class" href="../../d7/d19/a08988.html">Unit</a>* result = <a class="code hl_function" href="../../d2/da3/a00593.html#ae0ceced3da7b46834d403b94be7bd498">ResolveProcTriggerTarget</a>(triggerCaster, eventInfo);</div>
+<div class="line"><span class="lineno">  146</span> </div>
+<div class="line"><span class="lineno">  147</span>    EXPECT_EQ(result, <a class="code hl_variable" href="../../d6/d32/a05051.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>);</div>
+<div class="line"><span class="lineno">  148</span>}</div>
+<div class="ttc" id="aa01760_html_ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12"><div class="ttname"><a href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a></div><div class="ttdeci">@ PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:111</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00111">ProcEventInfoBuilder::Build()</a>, <a class="el" href="../../#l00043">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ENEMY</a>, <a class="el" href="../../#l00042">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ROGUE</a>, <a class="el" href="../../#l00111">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>, <a class="el" href="../../#l00254">PROC_HIT_NORMAL</a>, <a class="el" href="../../#l00246">PROC_SPELL_PHASE_HIT</a>, <a class="el" href="../../#l00055">ResolveProcTriggerTarget()</a>, <a class="el" href="../../#l00045">ProcEventInfoBuilder::WithActionTarget()</a>, <a class="el" href="../../#l00039">ProcEventInfoBuilder::WithActor()</a>, <a class="el" href="../../#l00075">ProcEventInfoBuilder::WithHitMask()</a>, <a class="el" href="../../#l00069">ProcEventInfoBuilder::WithSpellPhaseMask()</a>, and <a class="el" href="../../#l00057">ProcEventInfoBuilder::WithTypeMask()</a>.</p>
+
+</div>
+</div>
+<a id="a65154972e92d7ebcbd52504ba1d20322" name="a65154972e92d7ebcbd52504ba1d20322"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a65154972e92d7ebcbd52504ba1d20322">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/7]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d5f/a29768.html">SpellProcTargetResolutionTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">VictimSide_NullActionTarget_StillReturnsActor&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  172</span>{</div>
+<div class="line"><span class="lineno">  173</span>    <span class="comment">// When victim-side proc has nullptr actionTarget, the expression</span></div>
+<div class="line"><span class="lineno">  174</span>    <span class="comment">// still returns actor (the attacker) since triggerCaster != actor</span></div>
+<div class="line"><span class="lineno">  175</span>    <span class="keyword">auto</span> eventInfo = <a class="code hl_class" href="../../dd/d43/a29584.html">ProcEventInfoBuilder</a>()</div>
+<div class="line"><span class="lineno">  176</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a4a2faf802f7ef682e7be2b7ada7a0ff5">WithActor</a>(<a class="code hl_variable" href="../../d6/d32/a05051.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>)</div>
+<div class="line"><span class="lineno">  177</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a07d934345c43ecd6c8cebeb678e08dab">WithActionTarget</a>(<span class="keyword">nullptr</span>)</div>
+<div class="line"><span class="lineno">  178</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>)</div>
+<div class="line"><span class="lineno">  179</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#ac8d9c890333158313fb6bd9bdcd14fcf">WithHitMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a>)</div>
+<div class="line"><span class="lineno">  180</span>        .<a class="code hl_function" href="../../dd/d43/a29584.html#ae0f8d3a43a218b4459db0aa3fee95bf0">Build</a>();</div>
+<div class="line"><span class="lineno">  181</span> </div>
+<div class="line"><span class="lineno">  182</span>    <a class="code hl_class" href="../../d7/d19/a08988.html">Unit</a>* triggerCaster = <a class="code hl_variable" href="../../d6/d32/a05051.html#a44641e393e88c869080a70e5d49c017c">FAKE_ENEMY</a>; <span class="comment">// aura owner (victim), != actor</span></div>
+<div class="line"><span class="lineno">  183</span>    <a class="code hl_class" href="../../d7/d19/a08988.html">Unit</a>* result = <a class="code hl_function" href="../../d2/da3/a00593.html#ae0ceced3da7b46834d403b94be7bd498">ResolveProcTriggerTarget</a>(triggerCaster, eventInfo);</div>
+<div class="line"><span class="lineno">  184</span> </div>
+<div class="line"><span class="lineno">  185</span>    EXPECT_EQ(result, <a class="code hl_variable" href="../../d6/d32/a05051.html#aa56828182e47a5c051cfcc0318167b79">FAKE_ROGUE</a>);</div>
+<div class="line"><span class="lineno">  186</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00111">ProcEventInfoBuilder::Build()</a>, <a class="el" href="../../#l00043">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ENEMY</a>, <a class="el" href="../../#l00042">anonymous_namespace{SpellProcTargetResolutionTest.cpp}::FAKE_ROGUE</a>, <a class="el" href="../../#l00111">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>, <a class="el" href="../../#l00254">PROC_HIT_NORMAL</a>, <a class="el" href="../../#l00055">ResolveProcTriggerTarget()</a>, <a class="el" href="../../#l00045">ProcEventInfoBuilder::WithActionTarget()</a>, <a class="el" href="../../#l00039">ProcEventInfoBuilder::WithActor()</a>, <a class="el" href="../../#l00075">ProcEventInfoBuilder::WithHitMask()</a>, and <a class="el" href="../../#l00057">ProcEventInfoBuilder::WithTypeMask()</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_2a7b71c094ad98a6bd24c530fa7e48c4.html">DungeonFinding</a></li><li class="navelem"><a class="el" href="../../d2/da3/a00593.html">LFGScripts.cpp</a></li>
-    <li class="footer">Generated on Mon Feb 23 2026 21:13:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d2/da3/a00593.html">SpellProcTargetResolutionTest.cpp</a></li>
+    <li class="footer">Generated on Mon Mar 2 2026 21:04:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

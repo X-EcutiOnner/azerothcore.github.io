@@ -1,8 +1,5 @@
 var a23588 =
 [
-    [ "npc_warchief_portal", "dc/d75/a23588.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
-    [ "JustSummoned", "dc/d75/a23588.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
-    [ "SetData", "dc/d75/a23588.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
-    [ "UpdateAI", "dc/d75/a23588.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
-    [ "_scheduler", "dc/d75/a23588.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
+    [ "at_rp_nethekurse", "dc/d75/a23588.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
+    [ "_OnTrigger", "dc/d75/a23588.html#a93001d6dda7b2711f1efe100ffab5879", null ]
 ];

@@ -1,64 +1,29 @@
 var a00464 =
 [
-    [ "ChaseRange", "da/df8/a10144.html", "da/df8/a10144" ],
-    [ "ChaseAngle", "d5/d9e/a10148.html", "d5/d9e/a10148" ],
-    [ "MotionMaster", "d7/d8c/a10152.html", "d7/d8c/a10152" ],
-    [ "SPEED_CHARGE", "d2/d9d/a00464.html#a6386d0a4b64b17a25a60627bb55b360c", null ],
-    [ "VISUAL_WAYPOINT", "d2/d9d/a00464.html#af0544189c7fc748059c3075861102b40", null ],
-    [ "AnimTier", "d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255", [
-      [ "Ground", "d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255a3519d51443d41746a097cd54cd5c11cf", null ],
-      [ "Swim", "d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255ad0d933facd58904b226d055e75da2a6d", null ],
-      [ "Hover", "d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255aeee0168be69b854c20621fc6f01cc3fc", null ],
-      [ "Fly", "d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255aac51deb7d2c3f9663a6df72c7c9b2b51", null ],
-      [ "Submerged", "d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255a88090e6b4ce449b1204f909a4fb2b062", null ],
-      [ "Max", "d2/d9d/a00464.html#ae799184a3f3653b4b574f6df7a414255a6a061313d22e51e0f25b7cd4dc065233", null ]
+    [ "AppenderFlags", "d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803", [
+      [ "APPENDER_FLAGS_NONE", "d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b", null ],
+      [ "APPENDER_FLAGS_PREFIX_TIMESTAMP", "d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46", null ],
+      [ "APPENDER_FLAGS_PREFIX_LOGLEVEL", "d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e", null ],
+      [ "APPENDER_FLAGS_PREFIX_LOGFILTERTYPE", "d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b", null ],
+      [ "APPENDER_FLAGS_USE_TIMESTAMP", "d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3", null ],
+      [ "APPENDER_FLAGS_MAKE_FILE_BACKUP", "d2/d9d/a00464.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6a4fbf813da7a71ddfd24f9336a7e5a2", null ]
     ] ],
-    [ "ForcedMovement", "d2/d9d/a00464.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0", [
-      [ "FORCED_MOVEMENT_NONE", "d2/d9d/a00464.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0ac15d09ddd2435bb2983acffff5295ece", null ],
-      [ "FORCED_MOVEMENT_WALK", "d2/d9d/a00464.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a07986a6a917801c4cd7b63770ad77b37", null ],
-      [ "FORCED_MOVEMENT_RUN", "d2/d9d/a00464.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a68cfb3ea55f2221d6af0a858d5f8f1e2", null ],
-      [ "FORCED_MOVEMENT_MAX", "d2/d9d/a00464.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0aa870362ed5298d009468dbd4e4985b7f", null ]
+    [ "AppenderType", "d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364df", [
+      [ "APPENDER_NONE", "d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364dfaceddd86331dd45bd7dbd5f8bae6c8852", null ],
+      [ "APPENDER_CONSOLE", "d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364dfa8cc0efa84bbb87aa8207ba11f369b78a", null ],
+      [ "APPENDER_FILE", "d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364dfa2420e38b426dcb22e37a90b6a97cc65d", null ],
+      [ "APPENDER_DB", "d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364dfacac80dc510e850226c250af5a5600394", null ],
+      [ "APPENDER_INVALID", "d2/d9d/a00464.html#aacbd2dccb14fcb75d2651dce582364dfa7cb05f13eacfc1d54ef111d7b8375301", null ]
     ] ],
-    [ "MMCleanFlag", "d2/d9d/a00464.html#a1a14fe34f2e738c20bcc4e3c5cc71de5", [
-      [ "MMCF_NONE", "d2/d9d/a00464.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a94162d33d05261960508206156596b79", null ],
-      [ "MMCF_UPDATE", "d2/d9d/a00464.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ab78b5bb4f06ecc2246991dc5660faca5", null ],
-      [ "MMCF_RESET", "d2/d9d/a00464.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a52a6ffecbabca2148ffb0ad5ac3009f2", null ],
-      [ "MMCF_INUSE", "d2/d9d/a00464.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ae59b5bbe7b7d76f6167d789502da8cb0", null ]
-    ] ],
-    [ "MovementGeneratorType", "d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9", [
-      [ "IDLE_MOTION_TYPE", "d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e", null ],
-      [ "RANDOM_MOTION_TYPE", "d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9aec7cad6c9576df1fca0eb4fa073e5ff2", null ],
-      [ "WAYPOINT_MOTION_TYPE", "d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9", null ],
-      [ "MAX_DB_MOTION_TYPE", "d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a06257c74c322baaae86bc2bfd1dd359b", null ],
-      [ "ANIMAL_RANDOM_MOTION_TYPE", "d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9ae9aa98899960f240ae2de52288b2dbd6", null ],
-      [ "CONFUSED_MOTION_TYPE", "d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9aaf0253f8d6a3f2a5219bcf9db3494611", null ],
-      [ "CHASE_MOTION_TYPE", "d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a4a7484b1c685865cef43981b61d3a881", null ],
-      [ "HOME_MOTION_TYPE", "d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426", null ],
-      [ "FLIGHT_MOTION_TYPE", "d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9ad1cbffaeac9c9f09b8aeedbaadef54f4", null ],
-      [ "POINT_MOTION_TYPE", "d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9ad05105e19ca15912eceb8a1d856c7467", null ],
-      [ "FLEEING_MOTION_TYPE", "d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a96bdbc5913c5eb73d6eb7b28bbe9b05e", null ],
-      [ "DISTRACT_MOTION_TYPE", "d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a35aa056191b760ab18515a11f00f1759", null ],
-      [ "ASSISTANCE_MOTION_TYPE", "d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a32a9419cbc2b947d521e0ea050020a9c", null ],
-      [ "ASSISTANCE_DISTRACT_MOTION_TYPE", "d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9aec81245314a6864c0e3561d3bfc04ec4", null ],
-      [ "TIMED_FLEEING_MOTION_TYPE", "d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a0358690810ecf133811aa6b73bc086fc", null ],
-      [ "FOLLOW_MOTION_TYPE", "d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9ae99e76e1e80feb6d7ff6e1df01e98e9c", null ],
-      [ "ROTATE_MOTION_TYPE", "d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a5e3cb574fe15a9c73536dab95be16c3f", null ],
-      [ "EFFECT_MOTION_TYPE", "d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac", null ],
-      [ "ESCORT_MOTION_TYPE", "d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a61498726a0e9657284d8fb8b173cf4bf", null ],
-      [ "NULL_MOTION_TYPE", "d2/d9d/a00464.html#a4f12806b915efea564eae942207002f9a9e63cfaad6d8b0e2c14a8b53f6f02e0b", null ]
-    ] ],
-    [ "MovementSlot", "d2/d9d/a00464.html#a42f80f4e5d95e3ba656adbee43cfc3f5", [
-      [ "MOTION_SLOT_IDLE", "d2/d9d/a00464.html#a42f80f4e5d95e3ba656adbee43cfc3f5a8c7bb505a87bb49d9e66390133eed5a7", null ],
-      [ "MOTION_SLOT_ACTIVE", "d2/d9d/a00464.html#a42f80f4e5d95e3ba656adbee43cfc3f5a89ae2a485a626fc8f0ba275f61cc5fcc", null ],
-      [ "MOTION_SLOT_CONTROLLED", "d2/d9d/a00464.html#a42f80f4e5d95e3ba656adbee43cfc3f5a4b14f4870ac324393280d0d554f9c41e", null ],
-      [ "MAX_MOTION_SLOT", "d2/d9d/a00464.html#a42f80f4e5d95e3ba656adbee43cfc3f5a99e3f1c482d8a964a3613986a34658b5", null ]
-    ] ],
-    [ "PathSource", "d2/d9d/a00464.html#a7c48b62afc7f5aeede09278c110acbac", [
-      [ "WAYPOINT_MGR", "d2/d9d/a00464.html#a7c48b62afc7f5aeede09278c110acbaca0d6ed3fb744700ecd75c60dbb7e67bb7", null ],
-      [ "SMART_WAYPOINT_MGR", "d2/d9d/a00464.html#a7c48b62afc7f5aeede09278c110acbacaa9717883c14a449d4650b322fa5b7a0f", null ]
-    ] ],
-    [ "RotateDirection", "d2/d9d/a00464.html#a1978c8aa3f81d04079c45fe56aa51233", [
-      [ "ROTATE_DIRECTION_LEFT", "d2/d9d/a00464.html#a1978c8aa3f81d04079c45fe56aa51233af0378f46d4f9f1521d769f7c1c046d6a", null ],
-      [ "ROTATE_DIRECTION_RIGHT", "d2/d9d/a00464.html#a1978c8aa3f81d04079c45fe56aa51233adb74149191eeae76464e730abe95a4c5", null ]
+    [ "LogLevel", "d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781", [
+      [ "LOG_LEVEL_DISABLED", "d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61", null ],
+      [ "LOG_LEVEL_FATAL", "d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5", null ],
+      [ "LOG_LEVEL_ERROR", "d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a5b40f003febbc3b535649d63f4b8a44f", null ],
+      [ "LOG_LEVEL_WARN", "d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4", null ],
+      [ "LOG_LEVEL_INFO", "d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781aedee1e3159bfe7d918b6e29873c5aee4", null ],
+      [ "LOG_LEVEL_DEBUG", "d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177", null ],
+      [ "LOG_LEVEL_TRACE", "d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d", null ],
+      [ "NUM_ENABLED_LOG_LEVELS", "d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a02115b12f9d2c08405f3ea32fb8dea7d", null ],
+      [ "LOG_LEVEL_INVALID", "d2/d9d/a00464.html#ad26ed09e30f81a5d2172b4793a3f2781a385a9fffad0d67363b55e833e0395c96", null ]
     ] ]
 ];

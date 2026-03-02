@@ -1,6 +1,7 @@
 var a18712 =
 [
-    [ "HandleScript", "d8/ded/a18712.html#aa05c6e510e933a71a6bce8d653632ebd", null ],
-    [ "PrepareSpellScript", "d8/ded/a18712.html#add6b78f0396a34c36e0dff1928889e43", null ],
-    [ "Register", "d8/ded/a18712.html#a587247f7417cefa2b8aa5a8edb8e2616", null ]
+    [ "OnRemove", "d8/ded/a18712.html#ac1a58d605156c03d05eb99605287e762", null ],
+    [ "PrepareAuraScript", "d8/ded/a18712.html#a2db820022631647e942b5ec84e63717e", null ],
+    [ "Register", "d8/ded/a18712.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
+    [ "Validate", "d8/ded/a18712.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
 ];

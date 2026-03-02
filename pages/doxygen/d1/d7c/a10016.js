@@ -1,7 +1,8 @@
 var a10016 =
 [
-    [ "resetNotify", "d1/d7c/a10016.html#a1472e21d9af04662f3574bc2c7d3890c", null ],
-    [ "Visit", "d1/d7c/a10016.html#adfcdcf148b002c641638ddc70d577b14", null ],
-    [ "Visit", "d1/d7c/a10016.html#adf95512d4304962a5740b38c32ea28a7", null ],
-    [ "Visit", "d1/d7c/a10016.html#a725fc2c2504eecaa15841c27b367cd55", null ]
+    [ "CircleBoundary", "d1/d7c/a10016.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
+    [ "CircleBoundary", "d1/d7c/a10016.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
+    [ "IsWithinBoundaryArea", "d1/d7c/a10016.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
+    [ "_center", "d1/d7c/a10016.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
+    [ "_radiusSq", "d1/d7c/a10016.html#acbb3cc0c546f0e557a48a45425355950", null ]
 ];

@@ -1,11 +1,14 @@
 var a18928 =
 [
-    [ "npc_valithria_cloudAI", "d0/d05/a18928.html#a5b550d0154f302cecc509fbd868a53bb", null ],
-    [ "AttackStart", "d0/d05/a18928.html#a5835d5ba19e1480016e585c1e49489c9", null ],
-    [ "EnterEvadeMode", "d0/d05/a18928.html#a346fd998d41451d7d1e605afdb13b65c", null ],
-    [ "MoveInLineOfSight", "d0/d05/a18928.html#a8d4c8d082f12b96b2b77447d0b942c2c", null ],
-    [ "Reset", "d0/d05/a18928.html#abca34d7285ef23c062006df8f8ae6d53", null ],
-    [ "UpdateAI", "d0/d05/a18928.html#a6908f5731915bf7d15bb4921c960aa30", null ],
-    [ "_events", "d0/d05/a18928.html#afc5c9299d7f1f73c087a19dcfb19e096", null ],
-    [ "_instance", "d0/d05/a18928.html#a20cc2bba9d1005cc93b55dfba8bfbcf3", null ]
+    [ "npc_green_dragon_combat_triggerAI", "d0/d05/a18928.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
+    [ "AttackStart", "d0/d05/a18928.html#a5457c18c60a8301ea60ef34d810a14c9", null ],
+    [ "CanAIAttack", "d0/d05/a18928.html#aaf12ae21dddfa6b47ffa7880f65487a4", null ],
+    [ "DoAction", "d0/d05/a18928.html#abbd08537ed245084ca7d4cf852a749a2", null ],
+    [ "EnterEvadeMode", "d0/d05/a18928.html#a32bd4ed61bc62206ccedcf4acaeb8df8", null ],
+    [ "JustEngagedWith", "d0/d05/a18928.html#ad7385306f8058699ee004b7bc5f1b538", null ],
+    [ "JustReachedHome", "d0/d05/a18928.html#a2ae1c178a84c6d6899cf6400cb963e44", null ],
+    [ "MoveInLineOfSight", "d0/d05/a18928.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
+    [ "Reset", "d0/d05/a18928.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ],
+    [ "UpdateAI", "d0/d05/a18928.html#a89ce158e08b3da1e54b0be6caa3950b8", null ],
+    [ "checkTimer", "d0/d05/a18928.html#ae5c238e2e201c431ceccc59a3a26078b", null ]
 ];

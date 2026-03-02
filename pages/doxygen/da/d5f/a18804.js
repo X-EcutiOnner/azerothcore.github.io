@@ -1,9 +1,9 @@
 var a18804 =
 [
-    [ "FilterTargets", "da/d5f/a18804.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
-    [ "Load", "da/d5f/a18804.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
-    [ "PrepareSpellScript", "da/d5f/a18804.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
-    [ "Register", "da/d5f/a18804.html#afad887fba0d97512a7a13a31977cf42d", null ],
-    [ "Validate", "da/d5f/a18804.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
-    [ "_instance", "da/d5f/a18804.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
+    [ "HandleScript", "da/d5f/a18804.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
+    [ "Load", "da/d5f/a18804.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
+    [ "PrepareSpellScript", "da/d5f/a18804.html#a73931c9434114749b9db648665153083", null ],
+    [ "Register", "da/d5f/a18804.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
+    [ "SelectTarget", "da/d5f/a18804.html#a95be527c43ceeb4801f4e494753c1b59", null ],
+    [ "_target", "da/d5f/a18804.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
 ];

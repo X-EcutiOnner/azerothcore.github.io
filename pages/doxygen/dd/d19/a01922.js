@@ -1,4 +1,4 @@
 var a01922 =
 [
-    [ "AddCustomScripts", "dd/d19/a01922.html#a068af514420f658f0c087bbb77628173", null ]
+    [ "WorldPackets::Combat::SetSheathed", "d6/d1c/a10804.html", "d6/d1c/a10804" ]
 ];

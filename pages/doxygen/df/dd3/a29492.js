@@ -1,15 +1,13 @@
 var a29492 =
 [
-    [ "DamageInfoStubBuilder", "df/dd3/a29492.html#a282b4f92722f9cf12358a9f603df6902", null ],
-    [ "Build", "df/dd3/a29492.html#ad50ac35ca7a10f0eb20383fbde4a54dc", null ],
-    [ "WithAbsorb", "df/dd3/a29492.html#a3533bbda604c4ed6ac467f28ecb60fbe", null ],
-    [ "WithAttackType", "df/dd3/a29492.html#a4fd9332aa42002056d3f9191cd4435d7", null ],
-    [ "WithBlock", "df/dd3/a29492.html#a81381d471627ddd6e86678551ca4ab5b", null ],
-    [ "WithDamage", "df/dd3/a29492.html#abf9d30cde831f2094a181a312bcfe9df", null ],
-    [ "WithHitMask", "df/dd3/a29492.html#a161f5ea9ae33541dfcfd600fc5546b20", null ],
-    [ "WithOriginalDamage", "df/dd3/a29492.html#a3265aa4aa273cc9ededb6c9673f6c9e3", null ],
-    [ "WithResist", "df/dd3/a29492.html#a76827724d8b8d780dc5d136ca01e51e6", null ],
-    [ "WithSchoolMask", "df/dd3/a29492.html#ab540fcb56c4034daea104a1b844bdb3a", null ],
-    [ "WithSpellInfo", "df/dd3/a29492.html#a681fe7d0c7f3b4136ad4ba2a662e6393", null ],
-    [ "_stub", "df/dd3/a29492.html#abf06c6b638dcd9489fa0e3d755433514", null ]
+    [ "Context", "df/dd3/a29492.html#a0dd9f22f9528a05b229828e4a2c97757", null ],
+    [ "CreateEventInfo", "df/dd3/a29492.html#a81032fc22ce45902d34cf897606bd966", null ],
+    [ "CreateProcEntry", "df/dd3/a29492.html#a26531bd3f3256075455b32b42a172f6a", null ],
+    [ "CreateSpellInfo", "df/dd3/a29492.html#adee75944dc2e9a3fff7848d0ccfff527", null ],
+    [ "SetUp", "df/dd3/a29492.html#a65b0d4a0beb4c2f986f71ff5732e0f3c", null ],
+    [ "TearDown", "df/dd3/a29492.html#a782580d41f8233b93d51fe347601e730", null ],
+    [ "TestCanProc", "df/dd3/a29492.html#a409ccb130f529cb20e5164b465e05ca6", null ],
+    [ "TestSpellFamilyMatch", "df/dd3/a29492.html#a97d06c4fdf207051543fbf8c9207242e", null ],
+    [ "_context", "df/dd3/a29492.html#a0b5925a6df47ba704bfc196cc89c4919", null ],
+    [ "_spellInfos", "df/dd3/a29492.html#a30ebff666ac835168f1bf7d6aa771e0c", null ]
 ];

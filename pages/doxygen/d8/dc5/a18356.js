@@ -1,6 +1,7 @@
 var a18356 =
 [
-    [ "OnRemove", "d8/dc5/a18356.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
-    [ "PrepareAuraScript", "d8/dc5/a18356.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
-    [ "Register", "d8/dc5/a18356.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
+    [ "HandleTriggerSpell", "d8/dc5/a18356.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
+    [ "OnRemove", "d8/dc5/a18356.html#a238adc96e80c1890934b23dd4a2685b4", null ],
+    [ "PrepareAuraScript", "d8/dc5/a18356.html#af9ce7433b620fdf1dea570561c514b3b", null ],
+    [ "Register", "d8/dc5/a18356.html#ab36a001ea8cd87703e2694e0765635c0", null ]
 ];

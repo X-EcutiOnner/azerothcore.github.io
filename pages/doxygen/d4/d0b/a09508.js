@@ -1,10 +1,8 @@
 var a09508 =
 [
-    [ "AnyDeadUnitObjectInRangeCheck", "d4/d0b/a09508.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
-    [ "operator()", "d4/d0b/a09508.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
-    [ "operator()", "d4/d0b/a09508.html#ae885f49537043421a92b44c201bec358", null ],
-    [ "operator()", "d4/d0b/a09508.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
-    [ "operator()", "d4/d0b/a09508.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
-    [ "i_range", "d4/d0b/a09508.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
-    [ "i_searchObj", "d4/d0b/a09508.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
+    [ "CreatureWorker", "d4/d0b/a09508.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
+    [ "Visit", "d4/d0b/a09508.html#ae67044250380c521055f80c55de0bba5", null ],
+    [ "Visit", "d4/d0b/a09508.html#aa9a450b147aafe46a49135f5c5be668e", null ],
+    [ "i_do", "d4/d0b/a09508.html#ac22f86d9a41701e7527d4840da256f11", null ],
+    [ "i_phaseMask", "d4/d0b/a09508.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
 ];

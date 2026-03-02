@@ -1,14 +1,15 @@
 var a19728 =
 [
-    [ "boss_magus_telestra", "d9/dea/a19728.html#ac8ee0c8ac0bafa479ef6c3669c8aa430", null ],
-    [ "AttackStart", "d9/dea/a19728.html#a9ef67f8a53c5dceaf74bc156e0c6edad", null ],
-    [ "GetData", "d9/dea/a19728.html#a713f93edc709edabe003c305efdd709c", null ],
-    [ "JustDied", "d9/dea/a19728.html#ac69759755637749a58f712b86d3bf9ac", null ],
-    [ "JustEngagedWith", "d9/dea/a19728.html#a91b4569027b3414814bf1f2e86441fc6", null ],
-    [ "JustSummoned", "d9/dea/a19728.html#a1fc0f30287916d6606829987d29d9387", null ],
-    [ "KilledUnit", "d9/dea/a19728.html#a85b333905e5dcd34dbe001306924529a", null ],
-    [ "Reset", "d9/dea/a19728.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
-    [ "SpellHit", "d9/dea/a19728.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
-    [ "UpdateAI", "d9/dea/a19728.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
-    [ "achievement", "d9/dea/a19728.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ]
+    [ "instance_eye_of_eternity", "d9/dea/a19728.html#a8b8bccd4969d18cf0c56742c65150ef1", null ],
+    [ "CheckAchievementCriteriaMeet", "d9/dea/a19728.html#ae2cbbc353f1dfcb24346fb707b15e19d", null ],
+    [ "GetGuidData", "d9/dea/a19728.html#a9a8a000c1f3a4139e280c7b20711dbcc", null ],
+    [ "OnCreatureCreate", "d9/dea/a19728.html#a72ede46385cd3f4d36e360ed67d5634f", null ],
+    [ "OnGameObjectCreate", "d9/dea/a19728.html#a276b14a880ac762439213f85b17c5b8b", null ],
+    [ "OnPlayerEnter", "d9/dea/a19728.html#a1f525d686ec2447a0aa9c2b9631b2e2f", null ],
+    [ "ProcessEvent", "d9/dea/a19728.html#a1408e66a14a7af228d7dfa40d09133f7", null ],
+    [ "SetBossState", "d9/dea/a19728.html#a1d4ea255b6f65abd63a69e04ec43ab90", null ],
+    [ "SetData", "d9/dea/a19728.html#a361bf36921e723ff38005d43be1c900b", null ],
+    [ "VortexHandling", "d9/dea/a19728.html#aa413a00eeba3fa864c104b6475b72d7c", null ],
+    [ "_pokeAchievementValid", "d9/dea/a19728.html#ab2d2e6d8f1117cf91646dd2634dc6014", null ],
+    [ "_vortexTriggers", "d9/dea/a19728.html#a21b0f26e2bf09d875b3708c594e652bc", null ]
 ];

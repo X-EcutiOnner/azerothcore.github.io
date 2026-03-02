@@ -1,6 +1,6 @@
 var a12692 =
 [
-    [ "boss_firemawAI", "d6/de5/a12696.html", "d6/de5/a12696" ],
-    [ "boss_firemaw", "d8/df7/a12692.html#a71174eb128356802be0029fd9e24fe1f", null ],
-    [ "GetAI", "d8/df7/a12692.html#a3a20bcefa86a21daaecaef14396dadc4", null ]
+    [ "FilterTargets", "d8/df7/a12692.html#ac630fb5f068e4d26adb078b118994c45", null ],
+    [ "PrepareSpellScript", "d8/df7/a12692.html#a5f4986bfad79573e65d56ff276c49914", null ],
+    [ "Register", "d8/df7/a12692.html#aa1f5838d43871fd7908ea3b914666000", null ]
 ];

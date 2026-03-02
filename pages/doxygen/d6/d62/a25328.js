@@ -1,7 +1,6 @@
 var a25328 =
 [
-    [ "EjectPassenger", "d6/d62/a25328.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
-    [ "PrepareSpellScript", "d6/d62/a25328.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
-    [ "Register", "d6/d62/a25328.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
-    [ "Validate", "d6/d62/a25328.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
+    [ "CalculateAmount", "d6/d62/a25328.html#a0522f4bf54b4a71df4e09f97a28fda45", null ],
+    [ "PrepareAuraScript", "d6/d62/a25328.html#acf699e467734499dd992f401da38cf88", null ],
+    [ "Register", "d6/d62/a25328.html#a6e6396a162a532ff25b9bd7c551f05d8", null ]
 ];

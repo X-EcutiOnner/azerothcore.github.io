@@ -1,6 +1,7 @@
 var a13428 =
 [
-    [ "npc_a_special_surpriseAI", "df/d95/a13432.html", "df/d95/a13432" ],
-    [ "npc_a_special_surprise", "d3/d47/a13428.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
-    [ "GetAI", "d3/d47/a13428.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
+    [ "npc_unworthy_initiate_anchorAI", "d3/d47/a13428.html#a2d1a90c4f3c5047a41c7e9f80db13a99", null ],
+    [ "GetGUID", "d3/d47/a13428.html#a83cca82e7d75231a6aa586f67dad766e", null ],
+    [ "SetGUID", "d3/d47/a13428.html#ad5cb7d502138bc067a63a32a583ee99a", null ],
+    [ "prisonerGUID", "d3/d47/a13428.html#a38a3e7e7207bb6d809d03c90e67f7742", null ]
 ];

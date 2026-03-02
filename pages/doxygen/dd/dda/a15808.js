@@ -1,6 +1,5 @@
 var a15808 =
 [
-    [ "npc_murkdeepAI", "d0/d40/a15812.html", "d0/d40/a15812" ],
-    [ "npc_murkdeep", "dd/dda/a15808.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
-    [ "GetAI", "dd/dda/a15808.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
+    [ "go_ravager_cage", "dd/dda/a15808.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
+    [ "OnGossipHello", "dd/dda/a15808.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
 ];

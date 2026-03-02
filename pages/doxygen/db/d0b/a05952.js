@@ -1,11 +1,8 @@
 var a05952 =
 [
-    [ "SQLOperation", "db/d0b/a05952.html#a0f69657715b7d24458227b22a3b40b1a", null ],
-    [ "~SQLOperation", "db/d0b/a05952.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
-    [ "SQLOperation", "db/d0b/a05952.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
-    [ "call", "db/d0b/a05952.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
-    [ "Execute", "db/d0b/a05952.html#aff1090554bc4a6fe7a33270e63416e19", null ],
-    [ "operator=", "db/d0b/a05952.html#ac31349ed45ea051540ac345bd4b814d5", null ],
-    [ "SetConnection", "db/d0b/a05952.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
-    [ "m_conn", "db/d0b/a05952.html#adf322db48064fcf4528f713f857f1b40", null ]
+    [ "Statements", "db/d0b/a05952.html#adaf49f7cb45d90cb041f979b1821e4a1", null ],
+    [ "WorldDatabaseConnection", "db/d0b/a05952.html#a0c03387d2c019c86d1fe4933eca6aae5", null ],
+    [ "WorldDatabaseConnection", "db/d0b/a05952.html#a015f79a049d37f742232bc5ac10e9551", null ],
+    [ "~WorldDatabaseConnection", "db/d0b/a05952.html#a2feafa80fe8e838587d8f7b641c0ab09", null ],
+    [ "DoPrepareStatements", "db/d0b/a05952.html#a280aa4a4571581c5cef8f9967631b484", null ]
 ];

@@ -1,7 +1,8 @@
 var a20928 =
 [
-    [ "HandleScriptEffect", "dd/d10/a20928.html#aae469190c1edc1fe45914bad1dac4e93", null ],
-    [ "PrepareSpellScript", "dd/d10/a20928.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
-    [ "Register", "dd/d10/a20928.html#a97265071f226fbd17c37d432cf9e2350", null ],
-    [ "Validate", "dd/d10/a20928.html#aeec0bdd2e39db2da657247376ddcd195", null ]
+    [ "Absorb", "dd/d10/a20928.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
+    [ "CalculateAmount", "dd/d10/a20928.html#afe50bf22d07e68757caffb056ad55811", null ],
+    [ "PrepareAuraScript", "dd/d10/a20928.html#afa4ef1f7faa36a521c208dde10d09437", null ],
+    [ "Register", "dd/d10/a20928.html#aae020936d42da81c445f7d296660987b", null ],
+    [ "Validate", "dd/d10/a20928.html#a5852135c5214ee3938603632b0f21917", null ]
 ];

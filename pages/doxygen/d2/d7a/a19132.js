@@ -1,8 +1,6 @@
 var a19132 =
 [
-    [ "CountTargets", "d2/d7a/a19132.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
-    [ "HandleScript", "d2/d7a/a19132.html#af058a0c458463bdba4a4eb73aa91c113", null ],
-    [ "PrepareSpellScript", "d2/d7a/a19132.html#a83b2fad7cdc189a17129e25a015952ff", null ],
-    [ "Register", "d2/d7a/a19132.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
-    [ "Validate", "d2/d7a/a19132.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
+    [ "npc_impaling_spearAI", "d2/d5e/a19136.html", "d2/d5e/a19136" ],
+    [ "npc_impaling_spear", "d2/d7a/a19132.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
+    [ "GetAI", "d2/d7a/a19132.html#aad49164a3e7541b755c1c622b996bb9a", null ]
 ];

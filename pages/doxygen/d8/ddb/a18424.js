@@ -1,7 +1,11 @@
 var a18424 =
 [
-    [ "HandleCast", "d8/ddb/a18424.html#aaa3262bc782e342825d4caba2954e95d", null ],
-    [ "PrepareSpellScript", "d8/ddb/a18424.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
-    [ "Register", "d8/ddb/a18424.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
-    [ "Validate", "d8/ddb/a18424.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
+    [ "npc_little_oozeAI", "d8/ddb/a18424.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
+    [ "EnterEvadeMode", "d8/ddb/a18424.html#a0bd4bfcc8c373a449f297011289e5530", null ],
+    [ "IsSummonedBy", "d8/ddb/a18424.html#afb9763ade36bd742398a8bca961c136b", null ],
+    [ "JustDied", "d8/ddb/a18424.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
+    [ "UpdateAI", "d8/ddb/a18424.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
+    [ "events", "d8/ddb/a18424.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
+    [ "firstUpdate", "d8/ddb/a18424.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
+    [ "instance", "d8/ddb/a18424.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
 ];

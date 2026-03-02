@@ -1,5 +1,7 @@
 var a21004 =
 [
-    [ "npc_salvaged_siege_engine", "d8/d18/a21004.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
-    [ "BeforeSpellClick", "d8/d18/a21004.html#aed2500b2315b5e508ea3d06a2355d023", null ]
+    [ "HandleEffectPeriodic", "d8/d18/a21004.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
+    [ "PrepareAuraScript", "d8/d18/a21004.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
+    [ "Register", "d8/d18/a21004.html#a74052d7da1523b3c4010465510e5fe04", null ],
+    [ "Validate", "d8/d18/a21004.html#a587a469c649877f80e8fe80062e8b5d4", null ]
 ];

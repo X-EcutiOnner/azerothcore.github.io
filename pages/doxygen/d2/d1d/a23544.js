@@ -1,5 +1,8 @@
 var a23544 =
 [
-    [ "spellId", "d2/d1d/a23544.html#acc63d01d5095adef28b9746c520be973", null ],
-    [ "textId", "d2/d1d/a23544.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
+    [ "HandleDummyApply", "d2/d1d/a23544.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
+    [ "HandleDummyRemove", "d2/d1d/a23544.html#a368376fe4262815b9b9a9811178cec6d", null ],
+    [ "HandlePeriodicRemove", "d2/d1d/a23544.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
+    [ "PrepareAuraScript", "d2/d1d/a23544.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
+    [ "Register", "d2/d1d/a23544.html#afeb47a40cfea3d958fee7a410e83857f", null ]
 ];

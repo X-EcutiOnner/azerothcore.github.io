@@ -1,6 +1,7 @@
 var a25740 =
 [
-    [ "CheckProc", "d6/df1/a25740.html#a8158e7338b29b072f0c851771d0e8eee", null ],
-    [ "PrepareAuraScript", "d6/df1/a25740.html#a44a18144e276e7bdc80c5a19f1d442e2", null ],
-    [ "Register", "d6/df1/a25740.html#ae24336f87db322e546bd858bc50f2351", null ]
+    [ "CalcPeriodic", "d6/df1/a25740.html#a5847ba4daad49dca2527513055fa4429", null ],
+    [ "PrepareAuraScript", "d6/df1/a25740.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
+    [ "Register", "d6/df1/a25740.html#a08f851e5582831d5dd05878c4a55db67", null ],
+    [ "Update", "d6/df1/a25740.html#a3ab2716cbccc1311992de44e6591d966", null ]
 ];

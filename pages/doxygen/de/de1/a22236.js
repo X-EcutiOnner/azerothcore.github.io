@@ -1,9 +1,9 @@
 var a22236 =
 [
-    [ "HandlePeriodic", "de/de1/a22236.html#a0943e7887ff935ccea21d913429e25a0", null ],
-    [ "OnRemove", "de/de1/a22236.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
-    [ "PrepareAuraScript", "de/de1/a22236.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
-    [ "Register", "de/de1/a22236.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
-    [ "_tickNumber", "de/de1/a22236.html#a3f8943e288e96f639fb805869749879b", null ],
-    [ "_warning", "de/de1/a22236.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
+    [ "HandlePeriodic", "de/de1/a22236.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "de/de1/a22236.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "de/de1/a22236.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "de/de1/a22236.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "de/de1/a22236.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "de/de1/a22236.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

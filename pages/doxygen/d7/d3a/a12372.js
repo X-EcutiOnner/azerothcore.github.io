@@ -1,6 +1,9 @@
 var a12372 =
 [
-    [ "boss_gorosh_the_dervishAI", "d0/ddf/a12376.html", "d0/ddf/a12376" ],
-    [ "boss_gorosh_the_dervish", "d7/d3a/a12372.html#a18c39f21ebf6a9d43d37eb92857083a3", null ],
-    [ "GetAI", "d7/d3a/a12372.html#abae1fa2a7e959d1b7b02e0850aff4fb9", null ]
+    [ "npc_burning_spiritAI", "d7/d3a/a12372.html#a52f63423d09794446b0c01da2feb325d", null ],
+    [ "EnterEvadeMode", "d7/d3a/a12372.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
+    [ "IsSummonedBy", "d7/d3a/a12372.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
+    [ "MovementInform", "d7/d3a/a12372.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
+    [ "_events", "d7/d3a/a12372.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
+    [ "_flamelasherGUID", "d7/d3a/a12372.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
 ];

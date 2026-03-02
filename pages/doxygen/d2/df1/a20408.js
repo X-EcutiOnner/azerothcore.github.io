@@ -1,7 +1,6 @@
 var a20408 =
 [
-    [ "HandleEffectPeriodic", "d2/df1/a20408.html#a428d1251465cc9947e7474eab83494e3", null ],
-    [ "PrepareAuraScript", "d2/df1/a20408.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
-    [ "Register", "d2/df1/a20408.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
-    [ "Validate", "d2/df1/a20408.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
+    [ "npc_ulduar_toasty_fire", "d2/df1/a20408.html#aa4447547d1689440813877ddd0347d5a", null ],
+    [ "DoAction", "d2/df1/a20408.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
+    [ "SpellHit", "d2/df1/a20408.html#ad1ac241490db52177ae13640d7ae3eec", null ]
 ];

@@ -1,5 +1,6 @@
 var a27884 =
 [
-    [ "achievement_bg_ic_resource_glut", "d7/d40/a27884.html#ace247962dccee2601ceade593b0874d4", null ],
-    [ "OnCheck", "d7/d40/a27884.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
+    [ "HandleProc", "d7/d40/a27884.html#a6b321d6ee3002f32b546aeaed0925183", null ],
+    [ "PrepareAuraScript", "d7/d40/a27884.html#a4186315ab8fa250fd108c2de1c650f9e", null ],
+    [ "Register", "d7/d40/a27884.html#a3817a49fbcac2d70ded5a39b3cce8ea7", null ]
 ];

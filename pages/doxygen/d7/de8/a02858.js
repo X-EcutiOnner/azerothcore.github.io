@@ -1,10 +1,6 @@
 var a02858 =
 [
-    [ "spell_utgarde_pinnacle_beast_mark", "db/d54/a21168.html", "db/d54/a21168" ],
-    [ "UtgardeSpells", "d7/de8/a02858.html#ae8fa29243650c07aed99f9ee3cad321a", [
-      [ "SPELL_BEAST_MARK_NORMAL", "d7/de8/a02858.html#ae8fa29243650c07aed99f9ee3cad321aa515971380a351ffe4dc21aefd7d9a8aa", null ],
-      [ "SPELL_BEAST_MARK_DAMAGE_N", "d7/de8/a02858.html#ae8fa29243650c07aed99f9ee3cad321aa519ee30eba59f71f788bd5aaa9ea8a4f", null ],
-      [ "SPELL_BEAST_MARK_DAMAGE_H", "d7/de8/a02858.html#ae8fa29243650c07aed99f9ee3cad321aa28cc83c9c8ba75d8dd51298affc35aa7", null ]
-    ] ],
-    [ "AddSC_utgarde_pinnacle", "d7/de8/a02858.html#aa865b80ad4fb44b0c96fa45f08d06d71", null ]
+    [ "instance_razorfen_downs", "d5/d87/a15404.html", "d5/d87/a15404" ],
+    [ "instance_razorfen_downs::instance_razorfen_downs_InstanceMapScript", "d5/d6c/a15408.html", "d5/d6c/a15408" ],
+    [ "AddSC_instance_razorfen_downs", "d7/de8/a02858.html#a0db4d34b8ea594cf2808b93c362a49c4", null ]
 ];

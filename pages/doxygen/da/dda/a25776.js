@@ -1,6 +1,7 @@
 var a25776 =
 [
-    [ "OnRemove", "da/dda/a25776.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
-    [ "PrepareAuraScript", "da/dda/a25776.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
-    [ "Register", "da/dda/a25776.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
+    [ "HandleDummy", "da/dda/a25776.html#a5a82cbe58f57c94441cfda618e0eecca", null ],
+    [ "HandleScriptEffect", "da/dda/a25776.html#a30d760a8708b49a185eb000249a9a5eb", null ],
+    [ "PrepareSpellScript", "da/dda/a25776.html#a102d8493d285757c789cbba4a1bdc688", null ],
+    [ "Register", "da/dda/a25776.html#ab4031ddb745995128854c149f7706045", null ]
 ];

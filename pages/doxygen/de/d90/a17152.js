@@ -1,8 +1,5 @@
 var a17152 =
 [
-    [ "HandleRemove", "de/d90/a17152.html#a362b16f69a19adae6b673bd9ead55a83", null ],
-    [ "PeriodicTick", "de/d90/a17152.html#aa432052d61dc48066433b41b84ffbe5f", null ],
-    [ "PrepareAuraScript", "de/d90/a17152.html#a3ffbd618820adf77b2c64a29816f5204", null ],
-    [ "Register", "de/d90/a17152.html#ac2ac207d2e193a9c2f9904b394113c4d", null ],
-    [ "Validate", "de/d90/a17152.html#abed6574398a7d005e95feba6b54243a1", null ]
+    [ "achievement_oh_novos", "de/d90/a17152.html#a31ca1f458c384401af107cb8f709ef61", null ],
+    [ "OnCheck", "de/d90/a17152.html#a3b922d9ed709ed46edca794f5ccf858f", null ]
 ];

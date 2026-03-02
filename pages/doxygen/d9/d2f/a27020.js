@@ -1,7 +1,5 @@
 var a27020 =
 [
-    [ "HandleEffectApply", "d9/d2f/a27020.html#a475d0bab96e226853368be3b68c5a2d3", null ],
-    [ "HandleEffectRemove", "d9/d2f/a27020.html#aa22a095e40789ac562a64c20d7eadb28", null ],
-    [ "PrepareAuraScript", "d9/d2f/a27020.html#a2b06b0dc1a4c2f5b5e4657e11a097660", null ],
-    [ "Register", "d9/d2f/a27020.html#a91e75a059828a30d509fd22be19048f8", null ]
+    [ "PrepareSpellScript", "d9/d2f/a27020.html#aee9595d4716fb2ea1bd9e2a66d26c39e", null ],
+    [ "Register", "d9/d2f/a27020.html#a6318da4bfeb63dee75a971106bdc2146", null ]
 ];

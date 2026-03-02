@@ -1,8 +1,11 @@
 var a08920 =
 [
-    [ "CleanDamage", "d8/d05/a08920.html#ad25ab816a679e323c07873efbc1c2f20", null ],
-    [ "absorbed_damage", "d8/d05/a08920.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
-    [ "attackType", "d8/d05/a08920.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
-    [ "hitOutCome", "d8/d05/a08920.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
-    [ "mitigated_damage", "d8/d05/a08920.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
+    [ "UnitActionBarEntry", "d8/d05/a08920.html#a41f9020c4811b14fc543ddece6af86d7", null ],
+    [ "GetAction", "d8/d05/a08920.html#afd77e2f64ec856059759d05ddf77876e", null ],
+    [ "GetType", "d8/d05/a08920.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
+    [ "IsActionBarForSpell", "d8/d05/a08920.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
+    [ "SetAction", "d8/d05/a08920.html#aa00953783b0b3de3beb755a054c77730", null ],
+    [ "SetActionAndType", "d8/d05/a08920.html#a110840d38445795957ee0425175b4fb6", null ],
+    [ "SetType", "d8/d05/a08920.html#a38e0dcad391d09e475f90be5a5382f78", null ],
+    [ "packedData", "d8/d05/a08920.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
 ];

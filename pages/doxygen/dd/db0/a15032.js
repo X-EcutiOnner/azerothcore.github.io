@@ -1,15 +1,6 @@
 var a15032 =
 [
-    [ "instance_blackfathom_deeps_InstanceMapScript", "dd/db0/a15032.html#aef8e98b85dfc93a1e9405fbbce084e3f", null ],
-    [ "Initialize", "dd/db0/a15032.html#a11b698907ffea5dd1a165a35d2c23dd0", null ],
-    [ "IsFireEventDone", "dd/db0/a15032.html#aadba63a6fa6025858e78712892e4a343", null ],
-    [ "OnCreatureCreate", "dd/db0/a15032.html#ab5e452958bc474e60fd3f637595629c1", null ],
-    [ "OnGameObjectCreate", "dd/db0/a15032.html#ae96ecf6e1b4ca99f2b3fc3ace5cbf81b", null ],
-    [ "OnUnitDeath", "dd/db0/a15032.html#a163178ce8e79aa0bc082172465527173", null ],
-    [ "ReadSaveDataMore", "dd/db0/a15032.html#a1b045bbe6c337e726158e64375fa9fe7", null ],
-    [ "SetData", "dd/db0/a15032.html#a79fcee240fbd9190b0b66fd4bf7955d9", null ],
-    [ "WriteSaveDataMore", "dd/db0/a15032.html#abaa419d432ef6d0d96487c8d9ebcb630", null ],
-    [ "_akumaiPortalGUID", "dd/db0/a15032.html#a37b3647e927798d77a17f99976910b4b", null ],
-    [ "_encounters", "dd/db0/a15032.html#a4cfd6047351fd144ba96627889a3e9cd", null ],
-    [ "_requiredDeaths", "dd/db0/a15032.html#a3aade6e7fb756b84180876b4ba086376", null ]
+    [ "HandleScriptEffect", "dd/db0/a15032.html#a07ac70b6e91c61dcb59c368381a877dd", null ],
+    [ "PrepareSpellScript", "dd/db0/a15032.html#a55115ca986d5226588d168ced7ab1f55", null ],
+    [ "Register", "dd/db0/a15032.html#ad8811bf48dfb564afcd82cf51b860255", null ]
 ];

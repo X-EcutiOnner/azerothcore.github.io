@@ -1,6 +1,7 @@
 var a15384 =
 [
-    [ "npc_idol_room_spawnerAI", "de/db0/a15388.html", "de/db0/a15388" ],
-    [ "npc_idol_room_spawner", "d1/d75/a15384.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
-    [ "GetAI", "d1/d75/a15384.html#a3017caa645e98a7647ec42a43c025624", null ]
+    [ "npc_onyxian_lair_guard", "d1/d75/a15384.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
+    [ "JustEngagedWith", "d1/d75/a15384.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
+    [ "UpdateAI", "d1/d75/a15384.html#ac8649636d5847813e49d2ada05f78645", null ],
+    [ "events", "d1/d75/a15384.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
 ];

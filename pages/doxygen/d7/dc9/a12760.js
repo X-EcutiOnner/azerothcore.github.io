@@ -1,6 +1,10 @@
 var a12760 =
 [
-    [ "boss_razorgoreAI", "d7/dd7/a12764.html", "d7/dd7/a12764" ],
-    [ "boss_razorgore", "d7/dc9/a12760.html#aee534a04797c5938e6da00f2ab119943", null ],
-    [ "GetAI", "d7/dc9/a12760.html#a4683a5deefdb9d3219638189e9a99c2a", null ]
+    [ "npc_corrupted_totem", "d7/dc9/a12760.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
+    [ "IsSummonedBy", "d7/dc9/a12760.html#ae8314903c9006b7bca94a47115a0d05b", null ],
+    [ "JustDied", "d7/dc9/a12760.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
+    [ "Reset", "d7/dc9/a12760.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
+    [ "SetAura", "d7/dc9/a12760.html#a509688befda49f789f77ee0e4170a74e", null ],
+    [ "UpdateAI", "d7/dc9/a12760.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
+    [ "_auraAdded", "d7/dc9/a12760.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
 ];

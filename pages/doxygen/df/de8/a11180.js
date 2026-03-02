@@ -1,12 +1,7 @@
 var a11180 =
 [
-    [ "Complain", "df/de8/a11180.html#aa1cf8c3159d1334186b28c0abf0b5bec", null ],
-    [ "Read", "df/de8/a11180.html#a5a5cc78c807ce5d1e455bedd283c0f4d", null ],
-    [ "Description", "df/de8/a11180.html#a557676064707e2597a10e9b2efc9d09a", null ],
-    [ "SpammerGuid", "df/de8/a11180.html#a4a8b664b598624046b26953051a28718", null ],
-    [ "SpamType", "df/de8/a11180.html#aece15ac467b310fc170844119978aa2a", null ],
-    [ "Unk1", "df/de8/a11180.html#a7cc02360329a0b67c67fb5798d1e658d", null ],
-    [ "Unk2", "df/de8/a11180.html#a2d935ee2ed26a672d0f5795b79d887cb", null ],
-    [ "Unk3", "df/de8/a11180.html#a63aae3eaab2d6b72e08e4436ebe3bc0b", null ],
-    [ "Unk4", "df/de8/a11180.html#ad9570c82409ce59ad94f3e8233fd251c", null ]
+    [ "RandomRollClient", "df/de8/a11180.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
+    [ "Read", "df/de8/a11180.html#ab682763f35a40f776b1742927df0a336", null ],
+    [ "Max", "df/de8/a11180.html#a45a1e140ed402f54deb4c0798360a43a", null ],
+    [ "Min", "df/de8/a11180.html#a3cd07e7891b43b453b56013d76f51f71", null ]
 ];

@@ -1,12 +1,14 @@
 var a03620 =
 [
-    [ "instance_stratholme", "d5/d25/a13640.html", "d5/d25/a13640" ],
-    [ "instance_stratholme::instance_stratholme_InstanceMapScript", "d2/d24/a13644.html", "d2/d24/a13644" ],
-    [ "AddSC_instance_stratholme", "d0/da2/a03620.html#add44fd9ad05267cc5db256b112db2585", null ],
-    [ "aGateTrap", "d0/da2/a03620.html#aa404f6799978911e2f0e4de3b4386c59", null ],
-    [ "aPlaguedCritters", "d0/da2/a03620.html#a4108af811b2731f9784942b89f333054", null ],
-    [ "BarthilasPos", "d0/da2/a03620.html#a3c5bc53064d7ed19146d61fbe2f25502", null ],
-    [ "BlackGuardPos", "d0/da2/a03620.html#a8ed1ccc03c022b129aa9bb9464fedd0a", null ],
-    [ "MindlessUndeadPos", "d0/da2/a03620.html#a1a89feed6c582c3bf3e51bf3a1027081", null ],
-    [ "SlaughterPos", "d0/da2/a03620.html#aec64d79cbf450b10fd485f2e559e0472", null ]
+    [ "npc_tapoke_slim_jahn", "d7/de8/a14260.html", "d7/de8/a14260" ],
+    [ "npc_tapoke_slim_jahn::npc_tapoke_slim_jahnAI", "d2/df5/a14264.html", "d2/df5/a14264" ],
+    [ "npc_mikhail", "de/d82/a14268.html", "de/d82/a14268" ],
+    [ "TapokeSlim", "d0/da2/a03620.html#ad5b3ef2d2393f509f0cbf4e70303fab9", [
+      [ "QUEST_MISSING_DIPLO_PT11", "d0/da2/a03620.html#ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2", null ],
+      [ "SPELL_STEALTH", "d0/da2/a03620.html#ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576", null ],
+      [ "SPELL_CALL_FRIENDS", "d0/da2/a03620.html#ad5b3ef2d2393f509f0cbf4e70303fab9a6cc72f5b401e64cbeb4986e9dc90c779", null ],
+      [ "NPC_SLIMS_FRIEND", "d0/da2/a03620.html#ad5b3ef2d2393f509f0cbf4e70303fab9afc7e4b6611738777f37002c70bb946c1", null ],
+      [ "NPC_TAPOKE_SLIM_JAHN", "d0/da2/a03620.html#ad5b3ef2d2393f509f0cbf4e70303fab9a2853dfe2482cee57da6a01e6bc030bda", null ]
+    ] ],
+    [ "AddSC_wetlands", "d0/da2/a03620.html#a96be3075a4a99658d93ffe3d69ba369a", null ]
 ];

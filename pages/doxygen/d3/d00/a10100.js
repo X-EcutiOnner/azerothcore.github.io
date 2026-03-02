@@ -1,23 +1,7 @@
 var a10100 =
 [
-    [ "TransportMgr", "d3/d00/a10100.html#a864650522d61689f4915228165849d38", null ],
-    [ "~TransportMgr", "d3/d00/a10100.html#a3804895a34944bf7971b27f6069e4e33", null ],
-    [ "TransportMgr", "d3/d00/a10100.html#a6aff0c119db7cd54732955f684acfab4", null ],
-    [ "AddPathNodeToTransport", "d3/d00/a10100.html#aac45c48421abd6a85bddf4b2570807dc", null ],
-    [ "AddPathRotationToTransport", "d3/d00/a10100.html#ab2fc9ffddd2c6acb4f6b8db4629a11d8", null ],
-    [ "CreateInstanceTransports", "d3/d00/a10100.html#a818028f54e44fd23ca0afecccf44ccba", null ],
-    [ "CreateTransport", "d3/d00/a10100.html#a7e0ba6cf10e10a6aeca1f683bbf7e755", null ],
-    [ "GeneratePath", "d3/d00/a10100.html#afd703e2da6667f5499e75eb6c85c4fec", null ],
-    [ "GetTransportAnimInfo", "d3/d00/a10100.html#a205be05963bc790f64ed5bfac58a87e2", null ],
-    [ "GetTransportTemplate", "d3/d00/a10100.html#a93ea26ec255ff5be114b3c0779ae894f", null ],
-    [ "instance", "d3/d00/a10100.html#a843726202931931587280fefd703cff8", null ],
-    [ "LoadTransportTemplates", "d3/d00/a10100.html#a0b3e4e63bc4194c40f5dba6ced1ed205", null ],
-    [ "operator=", "d3/d00/a10100.html#accb329967e8129ddcf857ecb6269c4d5", null ],
-    [ "PreloadGridsFromQuery", "d3/d00/a10100.html#abbb04cc2b20a061c8044735cd1db7446", null ],
-    [ "SpawnContinentTransports", "d3/d00/a10100.html#afff76c3893f5a76d83d48f0074e77349", null ],
-    [ "Unload", "d3/d00/a10100.html#a99b8ff087e7d32428b8463f3ff229dee", null ],
-    [ "LoadDBCStores", "d3/d00/a10100.html#a0bbf145faec5eed353431235243dbcbf", null ],
-    [ "_instanceTransports", "d3/d00/a10100.html#a97799b68a08a24beb14abd4fae1468d1", null ],
-    [ "_transportAnimations", "d3/d00/a10100.html#a4dc2def28c51bfa78fdf01aaa25e40ae", null ],
-    [ "_transportTemplates", "d3/d00/a10100.html#a0b89cc26375f14eb4bb5f8b0d1722f8f", null ]
+    [ "MapPreloadRequest", "d3/d00/a10100.html#abb217a11f2b2ed7716cad33e0fd667e7", null ],
+    [ "call", "d3/d00/a10100.html#a688f4e2c5517c29c10c0810325211b50", null ],
+    [ "_mapId", "d3/d00/a10100.html#aa207469ff8369f9b5559b35404d16847", null ],
+    [ "_updater", "d3/d00/a10100.html#ae6d0d229c7cd04152fd54d03aa69306a", null ]
 ];

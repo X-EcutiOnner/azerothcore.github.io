@@ -1,7 +1,7 @@
 var a27540 =
 [
-    [ "HandleProc", "de/d6d/a27540.html#a929cf5d75df313a5e119eeb03735640c", null ],
-    [ "PrepareAuraScript", "de/d6d/a27540.html#aaeacbee6f798f25e467381aa56228355", null ],
-    [ "Register", "de/d6d/a27540.html#a111fa9ebfc9d9e8f0907635a4ce73bbb", null ],
-    [ "Validate", "de/d6d/a27540.html#a428e6d1f5e172390986ae8fd85570e21", null ]
+    [ "CheckProc", "de/d6d/a27540.html#a982264a8ea20344b66269a3edd814db7", null ],
+    [ "HandleProc", "de/d6d/a27540.html#adf79a132d1ae20e27b07dc77e103fb3c", null ],
+    [ "PrepareAuraScript", "de/d6d/a27540.html#abd0ac0c324e3323140812c7d4c937e1e", null ],
+    [ "Register", "de/d6d/a27540.html#ac24fe502aa899f953b694fe3ebf46012", null ]
 ];

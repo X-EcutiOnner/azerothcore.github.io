@@ -1,6 +1,6 @@
 var a19628 =
 [
-    [ "DespawnTime", "dd/dd9/a19628.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
-    [ "End", "dd/dd9/a19628.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
-    [ "Start", "dd/dd9/a19628.html#a985271de503fa704a58abe3e64c3b268", null ]
+    [ "boss_thaddius_summonAI", "da/d3b/a19632.html", "da/d3b/a19632" ],
+    [ "boss_thaddius_summon", "dd/dd9/a19628.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
+    [ "GetAI", "dd/dd9/a19628.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
 ];

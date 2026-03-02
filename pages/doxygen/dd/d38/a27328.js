@@ -1,6 +1,8 @@
 var a27328 =
 [
-    [ "HandlePeriodic", "dd/d38/a27328.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
-    [ "PrepareAuraScript", "dd/d38/a27328.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
-    [ "Register", "dd/d38/a27328.html#ac90afe9f5d9d55faba2282a875469311", null ]
+    [ "CheckProc", "dd/d38/a27328.html#a6abcfe33cfddde117eb9d19bdf834c3f", null ],
+    [ "HandleProc", "dd/d38/a27328.html#a4ee92efd0a312f7b5b4e0e19184cd085", null ],
+    [ "PrepareAuraScript", "dd/d38/a27328.html#ac45288980b444c92daecc1392a2cd38c", null ],
+    [ "Register", "dd/d38/a27328.html#ac93280657ee8d64aced09b95dac270d4", null ],
+    [ "Validate", "dd/d38/a27328.html#ad7b22c7da5d72a392d342624c46b456b", null ]
 ];

@@ -1,7 +1,6 @@
 var a21944 =
 [
-    [ "HandleScript", "d9/dcf/a21944.html#ac55fd613d1ea17ae89361fbf8759fec3", null ],
-    [ "PrepareSpellScript", "d9/dcf/a21944.html#a26e704fd016cdf9b1d47fb9edcff7a72", null ],
-    [ "Register", "d9/dcf/a21944.html#a9b8efef83b515f2250bda500ff741aa3", null ],
-    [ "Validate", "d9/dcf/a21944.html#ad5e9b0ae8a8103b7d901dd333e62fc35", null ]
+    [ "npc_plaguehound_trackerAI", "d4/d82/a21948.html", "d4/d82/a21948" ],
+    [ "npc_plaguehound_tracker", "d9/dcf/a21944.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
+    [ "GetAI", "d9/dcf/a21944.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
 ];

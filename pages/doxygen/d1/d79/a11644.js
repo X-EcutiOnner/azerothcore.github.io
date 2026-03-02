@@ -1,7 +1,7 @@
 var a11644 =
 [
-    [ "maxvalue", "d1/d79/a11644.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
-    [ "skill", "d1/d79/a11644.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
-    [ "step", "d1/d79/a11644.html#a1c882f7d43c65954cb99566225660312", null ],
-    [ "value", "d1/d79/a11644.html#a064fece53cdaf07b072510b14200a968", null ]
+    [ "attributeMask", "d1/d79/a11644.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
+    [ "customChance", "d1/d79/a11644.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
+    [ "PPMChance", "d1/d79/a11644.html#adb76c11f0073a2738374c98c01fda009", null ],
+    [ "procEx", "d1/d79/a11644.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
 ];

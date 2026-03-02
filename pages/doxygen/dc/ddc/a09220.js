@@ -1,12 +1,18 @@
 var a09220 =
 [
-    [ "IsTeamAward1", "dc/ddc/a09220.html#a25f928a8f8c3a19b1aa9a5c41b0ba612", null ],
-    [ "IsTeamAward2", "dc/ddc/a09220.html#a053bd7825d0464ac322b449f3d243722", null ],
-    [ "RepFaction1", "dc/ddc/a09220.html#a4e75bb4149f8bb0b83a5aacba47800dd", null ],
-    [ "RepFaction2", "dc/ddc/a09220.html#a5934590811c666d06b68216428574d8a", null ],
-    [ "ReputationMaxCap1", "dc/ddc/a09220.html#a292b78f629723c3993a796eb256dd9b8", null ],
-    [ "ReputationMaxCap2", "dc/ddc/a09220.html#ac90d17e82d6c8a763d3ea868250b44a7", null ],
-    [ "RepValue1", "dc/ddc/a09220.html#a4c5f965e028c45d6ad4d5875f76b2458", null ],
-    [ "RepValue2", "dc/ddc/a09220.html#a74f46afc59593d7ae71ab65aa9e1f1c2", null ],
-    [ "TeamDependent", "dc/ddc/a09220.html#a66e60a90f166e5fc12ea4dbe615c998f", null ]
+    [ "BroadcastText", "dc/ddc/a09220.html#abab322532f769f25ad0241422e066c3c", null ],
+    [ "GetText", "dc/ddc/a09220.html#a5002c01e04536db717167eb7d0f4c5ec", null ],
+    [ "EmoteDelay1", "dc/ddc/a09220.html#a627971cd4d55f9e3e17c885791a0cfbf", null ],
+    [ "EmoteDelay2", "dc/ddc/a09220.html#a101f8fcc99c6badc2a7b05a9f18aa0f5", null ],
+    [ "EmoteDelay3", "dc/ddc/a09220.html#ad54e97026a67329529daaa30f997a89a", null ],
+    [ "EmoteId1", "dc/ddc/a09220.html#acc72081442b6a4544533a3084b5240da", null ],
+    [ "EmoteId2", "dc/ddc/a09220.html#a519449d0a5cc67e758f39c154e22f853", null ],
+    [ "EmoteId3", "dc/ddc/a09220.html#acbce2101751bdaed47315c23f5058a7b", null ],
+    [ "EmotesID", "dc/ddc/a09220.html#a2c7c03c32d8fe589507b575fc5c2138f", null ],
+    [ "FemaleText", "dc/ddc/a09220.html#a255f95912612f11867611093ebc23a59", null ],
+    [ "Flags", "dc/ddc/a09220.html#af07f883cd3deb5a1a59e23aa058e6c78", null ],
+    [ "Id", "dc/ddc/a09220.html#a12594a2bbd643a1968726db708a35b79", null ],
+    [ "LanguageID", "dc/ddc/a09220.html#a35ea9cc4ebd2680988e610f344086c86", null ],
+    [ "MaleText", "dc/ddc/a09220.html#ab30526857fe7c7c945d84931ffa4c416", null ],
+    [ "SoundEntriesId", "dc/ddc/a09220.html#aae69d8b9ca72f1cb20869b69a9601595", null ]
 ];

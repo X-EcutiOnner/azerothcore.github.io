@@ -1,6 +1,7 @@
 var a13156 =
 [
-    [ "go_blood_drenched_doorAI", "d0/d96/a13160.html", "d0/d96/a13160" ],
-    [ "go_blood_drenched_door", "d5/d2c/a13156.html#a32451e046236bc66b605088cab35fefc", null ],
-    [ "GetAI", "d5/d2c/a13156.html#a983405ff279eabe0bc607fb85bd47eb9", null ]
+    [ "OnRemove", "d5/d2c/a13156.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
+    [ "PrepareAuraScript", "d5/d2c/a13156.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
+    [ "Register", "d5/d2c/a13156.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
+    [ "Validate", "d5/d2c/a13156.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
 ];

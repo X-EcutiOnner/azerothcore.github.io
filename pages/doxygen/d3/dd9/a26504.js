@@ -1,8 +1,6 @@
 var a26504 =
 [
-    [ "HandleProc", "d3/dd9/a26504.html#ab98571b7f614d66c44c25d0d2c6aa738", null ],
-    [ "PrepareAuraScript", "d3/dd9/a26504.html#a194c83ebc29c4522b5fc313a3ab4d1dd", null ],
-    [ "Register", "d3/dd9/a26504.html#a6dfd4dc774e58a8881b20a31d4c1be56", null ],
-    [ "Validate", "d3/dd9/a26504.html#a886d2b1a2bf2f25bde5248edcef9733d", null ],
-    [ "_critStreak", "d3/dd9/a26504.html#a4a8e3c9d8754844d74e72cb328c44221", null ]
+    [ "HandleDummy", "d3/dd9/a26504.html#acb433ef020fbd090259ac969a35842ea", null ],
+    [ "PrepareSpellScript", "d3/dd9/a26504.html#a9440e067db7bc5c48c973dfd61f1a95e", null ],
+    [ "Register", "d3/dd9/a26504.html#a349e674aa5e07f59dc0a0d78a25aa0cd", null ]
 ];

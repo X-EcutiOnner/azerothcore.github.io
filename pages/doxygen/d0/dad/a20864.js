@@ -1,11 +1,10 @@
 var a20864 =
 [
-    [ "boss_yoggsaron_llane", "d0/dad/a20864.html#a42e3d189cff0da5995401e4bc8dfffdd", null ],
-    [ "NextStep", "d0/dad/a20864.html#ab8b6446fe7d424ad7d943af915cc4b8a", null ],
-    [ "Reset", "d0/dad/a20864.html#a0df3a85717ab26ad1ac889d6fe4d8007", null ],
-    [ "Say", "d0/dad/a20864.html#a0ae3106eac830ed9f14f17e5fa1d45ec", null ],
-    [ "UpdateAI", "d0/dad/a20864.html#a58ec957cd59b944439fe514e728e2902", null ],
-    [ "_checkTimer", "d0/dad/a20864.html#a3043382e2727bc78a74acaec28697045", null ],
-    [ "_running", "d0/dad/a20864.html#ab7e1b1ed82f311b12f28f1622e6ad378", null ],
-    [ "_step", "d0/dad/a20864.html#a91a71f85bab9e4d1234964ef534e51c2", null ]
+    [ "boss_yoggsaron_constrictor_tentacle", "d0/dad/a20864.html#a3206b641b6c6dffdabb8cacc09ac564a", null ],
+    [ "DoAction", "d0/dad/a20864.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
+    [ "JustDied", "d0/dad/a20864.html#aac8f5a80248c4616074e7ef88fb10395", null ],
+    [ "SelectConstrictTarget", "d0/dad/a20864.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
+    [ "UpdateAI", "d0/dad/a20864.html#a930b35c2385ba2977f2f2da3b4b38f07", null ],
+    [ "_checkTimer", "d0/dad/a20864.html#aa6c76606c7c9e6ee71e94433cb721f96", null ],
+    [ "_playerGUID", "d0/dad/a20864.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
 ];

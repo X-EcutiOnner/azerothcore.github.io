@@ -1,8 +1,9 @@
 var a17920 =
 [
-    [ "HandleHit", "d0/d49/a17920.html#ace9793d64d5378ef33bf30e8d0be8bd6", null ],
-    [ "HandleScript", "d0/d49/a17920.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
-    [ "Load", "d0/d49/a17920.html#ab1d81386ae3ccd332c01864d7f456017", null ],
-    [ "PrepareSpellScript", "d0/d49/a17920.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
-    [ "Register", "d0/d49/a17920.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
+    [ "FilterTargetsInitial", "d0/d49/a17920.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
+    [ "FilterTargetsSubsequent", "d0/d49/a17920.html#a11732039155235c287757980129d5a8e", null ],
+    [ "Load", "d0/d49/a17920.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
+    [ "PrepareSpellScript", "d0/d49/a17920.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
+    [ "Register", "d0/d49/a17920.html#a56a4e65df08a95fddde75162358155c2", null ],
+    [ "_target", "d0/d49/a17920.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
 ];

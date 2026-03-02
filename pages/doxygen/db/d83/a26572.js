@@ -1,8 +1,8 @@
 var a26572 =
 [
-    [ "HandleEffectApply", "db/d83/a26572.html#a1182bd57a03ad093b53e3864bdff127c", null ],
-    [ "HandleEffectRemove", "db/d83/a26572.html#a6374ece2a04c3d5bc81bb31cc5bc78e1", null ],
-    [ "PrepareAuraScript", "db/d83/a26572.html#acbe4a19f4f2502fc1ae4e13a2c8906ab", null ],
-    [ "Register", "db/d83/a26572.html#ac3a9249da3071736026d66a9551ca16d", null ],
-    [ "Validate", "db/d83/a26572.html#a0ebac0cb6933ac4c562c3c91e06614dd", null ]
+    [ "ApplyPermafrost", "db/d83/a26572.html#a06bb458e038b97696362681a6fd28104", null ],
+    [ "PrepareAuraScript", "db/d83/a26572.html#a3d96d6f5f798efc92572e2a52349102d", null ],
+    [ "Register", "db/d83/a26572.html#a613e5af53064357f4e8e4d6260c6856a", null ],
+    [ "RemovePermafrost", "db/d83/a26572.html#a9414746a76f53a5258cf617abefd5bd6", null ],
+    [ "Validate", "db/d83/a26572.html#addd58a0138e3cdb5cb274c8a38151a45", null ]
 ];

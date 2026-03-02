@@ -1,6 +1,6 @@
 var a18048 =
 [
-    [ "npc_gunship_rocketeerAI", "de/ddf/a18052.html", "de/ddf/a18052" ],
-    [ "npc_gunship_rocketeer", "d4/d6d/a18048.html#a7ed2cf258269f239bb73f2f06411db07", null ],
-    [ "GetAI", "d4/d6d/a18048.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
+    [ "npc_gunship_boarding_leaderAI", "de/ddf/a18052.html", "de/ddf/a18052" ],
+    [ "npc_gunship_boarding_leader", "d4/d6d/a18048.html#a8390eadab34a89643252f573588b140a", null ],
+    [ "GetAI", "d4/d6d/a18048.html#ae422c8a1de8fb909a89d2ad2f516e3b4", null ]
 ];

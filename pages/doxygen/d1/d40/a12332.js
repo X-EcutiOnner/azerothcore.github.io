@@ -1,6 +1,6 @@
 var a12332 =
 [
-    [ "npc_burning_spiritAI", "d5/da2/a12336.html", "d5/da2/a12336" ],
-    [ "npc_burning_spirit", "d1/d40/a12332.html#a596e654486c82d15d7a37b069a99856d", null ],
-    [ "GetAI", "d1/d40/a12332.html#a3c704a0856d669a1e684e5a858bc4334", null ]
+    [ "npc_grimstoneAI", "d5/da2/a12336.html", "d5/da2/a12336" ],
+    [ "npc_grimstone", "d1/d40/a12332.html#ae5c3e36bf18cb30dd4fc7cd5e7a72cfb", null ],
+    [ "GetAI", "d1/d40/a12332.html#a24cf0aa69ac28c13ac3c44e14c35406c", null ]
 ];

@@ -1,7 +1,11 @@
 var a23992 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "d9/dac/a23992.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
-    [ "JustEngagedWith", "d9/dac/a23992.html#a4038d707731f64f588e307c22c859902", null ],
-    [ "MoveInLineOfSight", "d9/dac/a23992.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
-    [ "Reset", "d9/dac/a23992.html#a29132346f117ba785039057619edb9e7", null ]
+    [ "npc_magister_aledis", "d9/dac/a23992.html#a0e30c5d4f9fe023537a1b29258967630", null ],
+    [ "DamageTaken", "d9/dac/a23992.html#a3c3b72de2dc3e2a1e2bdeab908f0691f", null ],
+    [ "Reset", "d9/dac/a23992.html#ae0a701eeaacc5188b382c59ecef14518", null ],
+    [ "sGossipSelect", "d9/dac/a23992.html#a9960de0b5be8b75e8b7bcc8f12c4f187", null ],
+    [ "StartFight", "d9/dac/a23992.html#a9149ce0a1df781043a5590fe4612511a", null ],
+    [ "UpdateAI", "d9/dac/a23992.html#aef885088193e2597e6990e3051a31ef7", null ],
+    [ "_events", "d9/dac/a23992.html#a5b4cd0ab4d214547dca28b8b384f83df", null ],
+    [ "_playerGUID", "d9/dac/a23992.html#a0954d3d1c9ad4eaff387bc2cf4f52aeb", null ]
 ];

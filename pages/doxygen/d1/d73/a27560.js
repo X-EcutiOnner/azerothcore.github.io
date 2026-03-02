@@ -1,6 +1,7 @@
 var a27560 =
 [
-    [ "HandleAuraApply", "d1/d73/a27560.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
-    [ "PrepareAuraScript", "d1/d73/a27560.html#a7596065e5ffcacf099a5984f5d940c11", null ],
-    [ "Register", "d1/d73/a27560.html#a8efa76b28dddad68fee132f37791f231", null ]
+    [ "HandleProc", "d1/d73/a27560.html#a4ea5706e6f0caa7a9c93b779bb71349f", null ],
+    [ "PrepareAuraScript", "d1/d73/a27560.html#af83570899be1f91a1273cc5f46792b57", null ],
+    [ "Register", "d1/d73/a27560.html#a1406e9a52a4e24a71fd26192abc64c73", null ],
+    [ "Validate", "d1/d73/a27560.html#ab6528e1c69cbf7fdb8bb7e792908d02a", null ]
 ];

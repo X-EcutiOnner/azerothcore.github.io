@@ -1,6 +1,8 @@
 var a18884 =
 [
-    [ "boss_valithria_dreamwalkerAI", "de/d48/a18888.html", "de/d48/a18888" ],
-    [ "boss_valithria_dreamwalker", "d4/d0c/a18884.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
-    [ "GetAI", "d4/d0c/a18884.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
+    [ "npc_lk_wicked_spiritAI", "d4/d0c/a18884.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
+    [ "CanAIAttack", "d4/d0c/a18884.html#ae094420b1a6e134632baa0b086c806c6", null ],
+    [ "JustDied", "d4/d0c/a18884.html#adf153fab1c8639b2b5790ed418afb85d", null ],
+    [ "JustRespawned", "d4/d0c/a18884.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
+    [ "Reset", "d4/d0c/a18884.html#a8b15079251b6855679d738a342126006", null ]
 ];

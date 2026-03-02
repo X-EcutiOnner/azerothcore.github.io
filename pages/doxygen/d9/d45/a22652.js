@@ -1,12 +1,7 @@
 var a22652 =
 [
-    [ "npc_maiev_illidan", "d9/d45/a22652.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
-    [ "DamageTaken", "d9/d45/a22652.html#a780cc558c483efa3293d798cc6048a33", null ],
-    [ "DoAction", "d9/d45/a22652.html#a53607a158edf8fd772908b5d7af6edf1", null ],
-    [ "IsSummonedBy", "d9/d45/a22652.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
-    [ "JustEngagedWith", "d9/d45/a22652.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
-    [ "Reset", "d9/d45/a22652.html#a100db757c89634a58b9382216e2791ec", null ],
-    [ "SpellHit", "d9/d45/a22652.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
-    [ "UpdateAI", "d9/d45/a22652.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
-    [ "instance", "d9/d45/a22652.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
+    [ "HandleProc", "d9/d45/a22652.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
+    [ "PrepareAuraScript", "d9/d45/a22652.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
+    [ "Register", "d9/d45/a22652.html#a6b764182501a1d192f90dc20bbd6549e", null ],
+    [ "Validate", "d9/d45/a22652.html#ad89123425cca5bd02a18526a11595a1a", null ]
 ];

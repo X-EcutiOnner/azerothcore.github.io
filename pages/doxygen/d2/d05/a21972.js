@@ -1,8 +1,7 @@
 var a21972 =
 [
-    [ "npc_llod_genericAI", "d2/d05/a21972.html#ac75d85ae4b59416952788102cd1db132", null ],
-    [ "Reset", "d2/d05/a21972.html#a15bd7442fef36a551cc8797f7919f57c", null ],
-    [ "UpdateAI", "d2/d05/a21972.html#aa7dce553fb699127f63281b2c47a2f02", null ],
-    [ "attackTimer", "d2/d05/a21972.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
-    [ "summonTimer", "d2/d05/a21972.html#aeeeef545aee565c14d86d8587923c677", null ]
+    [ "HandleScript", "d2/d05/a21972.html#ac55fd613d1ea17ae89361fbf8759fec3", null ],
+    [ "PrepareSpellScript", "d2/d05/a21972.html#a26e704fd016cdf9b1d47fb9edcff7a72", null ],
+    [ "Register", "d2/d05/a21972.html#a9b8efef83b515f2250bda500ff741aa3", null ],
+    [ "Validate", "d2/d05/a21972.html#ad5e9b0ae8a8103b7d901dd333e62fc35", null ]
 ];

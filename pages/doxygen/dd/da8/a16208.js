@@ -1,7 +1,5 @@
 var a16208 =
 [
-    [ "go_troll_cageAI", "dd/da8/a16208.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
-    [ "GossipHello", "dd/da8/a16208.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
-    [ "initBlyCrewMember", "dd/da8/a16208.html#a6bfb77ec97367d8704885acfef801b74", null ],
-    [ "instance", "dd/da8/a16208.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
+    [ "go_elune_fire", "dd/da8/a16208.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
+    [ "OnGossipHello", "dd/da8/a16208.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
 ];

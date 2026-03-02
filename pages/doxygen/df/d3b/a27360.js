@@ -1,7 +1,6 @@
 var a27360 =
 [
-    [ "CalculateAmount", "df/d3b/a27360.html#adc34e5742173d039f6050d5ccc0a2cae", null ],
-    [ "PrepareAuraScript", "df/d3b/a27360.html#aa966d001c3687403dfa2b13e998ca241", null ],
-    [ "Register", "df/d3b/a27360.html#aeecb9756d4304ed2316b6d2a8f0d6ac4", null ],
-    [ "Validate", "df/d3b/a27360.html#af1eee4d8e966d66fea04173e7481b5ce", null ]
+    [ "HandleAfterCast", "df/d3b/a27360.html#a6f21938e84e45848fad74a16f1f52c48", null ],
+    [ "PrepareSpellScript", "df/d3b/a27360.html#ac7abeee05c117595696faf1ec55e11bd", null ],
+    [ "Register", "df/d3b/a27360.html#a9e90a6fa037627ac682f4ea050f557de", null ]
 ];

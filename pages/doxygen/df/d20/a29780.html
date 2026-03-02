@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: adt_MFBO::plane Struct Reference</title>
+<title>AzerothCore: SpellProcTriggeredFilterTest Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,33 +105,89 @@ $(document).ready(function(){initNavTree('df/d20/a29780.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pro-methods">Protected Member Functions</a> &#124;
 <a href="../../d8/d69/a29777.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">adt_MFBO::plane Struct Reference</div></div>
+  <div class="headertitle"><div class="title">SpellProcTriggeredFilterTest Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">adt.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for SpellProcTriggeredFilterTest:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../df/d20/a29780.png" alt=""/>
+ </div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a6de1e0be070d552f8002bff7675bb9cf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#aecf4e3680a32207d17f62a3426731878">int16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d20/a29780.html#a6de1e0be070d552f8002bff7675bb9cf">coords</a> [9]</td></tr>
-<tr class="separator:a6de1e0be070d552f8002bff7675bb9cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
+Protected Member Functions</h2></td></tr>
+<tr class="memitem:ad9848a18a0b1fa950cabcfa1584e0103"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d20/a29780.html#ad9848a18a0b1fa950cabcfa1584e0103">SetUp</a> () override</td></tr>
+<tr class="separator:ad9848a18a0b1fa950cabcfa1584e0103"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a047473844c17b28cab20159721fc9ee8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d07/a11640.html">SpellProcEntry</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d20/a29780.html#a047473844c17b28cab20159721fc9ee8">CreateBasicProcEntry</a> ()</td></tr>
+<tr class="separator:a047473844c17b28cab20159721fc9ee8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a6de1e0be070d552f8002bff7675bb9cf" name="a6de1e0be070d552f8002bff7675bb9cf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6de1e0be070d552f8002bff7675bb9cf">&#9670;&#160;</a></span>coords</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a047473844c17b28cab20159721fc9ee8" name="a047473844c17b28cab20159721fc9ee8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a047473844c17b28cab20159721fc9ee8">&#9670;&#160;</a></span>CreateBasicProcEntry()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#aecf4e3680a32207d17f62a3426731878">int16</a> adt_MFBO::plane::coords[9]</td>
+          <td class="memname"><a class="el" href="../../da/d07/a11640.html">SpellProcEntry</a> SpellProcTriggeredFilterTest::CreateBasicProcEntry </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   44</span>    {</div>
+<div class="line"><span class="lineno">   45</span>        <span class="keywordflow">return</span> <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">   46</span>            .<a class="code hl_function" href="../../d8/d1f/a29588.html#acebcb2a676a7e8e6821854137e056fff">WithProcFlags</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>)</div>
+<div class="line"><span class="lineno">   47</span>            .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">   48</span>            .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">   49</span>    }</div>
+<div class="ttc" id="aa01760_html_ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67"><div class="ttname"><a href="../../d0/d9d/a01760.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a></div><div class="ttdeci">@ PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:131</div></div>
+<div class="ttc" id="aa29588_html"><div class="ttname"><a href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a></div><div class="ttdoc">Builder class for creating SpellProcEntry test instances.</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:141</div></div>
+<div class="ttc" id="aa29588_html_a2a69603215e9fa526304f420bd5a490c"><div class="ttname"><a href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">SpellProcEntryBuilder::Build</a></div><div class="ttdeci">SpellProcEntry Build() const</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:226</div></div>
+<div class="ttc" id="aa29588_html_a3c99a07866eb497717932af6b7f3a485"><div class="ttname"><a href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">SpellProcEntryBuilder::WithChance</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithChance(float chance)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:208</div></div>
+<div class="ttc" id="aa29588_html_acebcb2a676a7e8e6821854137e056fff"><div class="ttname"><a href="../../d8/d1f/a29588.html#acebcb2a676a7e8e6821854137e056fff">SpellProcEntryBuilder::WithProcFlags</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithProcFlags(uint32 procFlags)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:166</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00166">SpellProcEntryBuilder::WithProcFlags()</a>.</p>
 
+</div>
+</div>
+<a id="ad9848a18a0b1fa950cabcfa1584e0103" name="ad9848a18a0b1fa950cabcfa1584e0103"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad9848a18a0b1fa950cabcfa1584e0103">&#9670;&#160;</a></span>SetUp()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void SpellProcTriggeredFilterTest::SetUp </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   40</span>{}</div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -139,8 +195,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d0/dba/a29772.html">adt_MFBO</a></li><li class="navelem"><a class="el" href="../../df/d20/a29780.html">plane</a></li>
-    <li class="footer">Generated on Mon Feb 23 2026 21:14:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../df/d20/a29780.html">SpellProcTriggeredFilterTest</a></li>
+    <li class="footer">Generated on Mon Mar 2 2026 21:06:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

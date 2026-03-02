@@ -1,8 +1,8 @@
 var a22572 =
 [
-    [ "FilterTargets", "dd/d97/a22572.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
-    [ "HandleDummyHitTarget", "dd/d97/a22572.html#ae892090a9bd48aa447224c9f96801d37", null ],
-    [ "PrepareSpellScript", "dd/d97/a22572.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
-    [ "Register", "dd/d97/a22572.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
-    [ "Validate", "dd/d97/a22572.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
+    [ "boss_tavarok", "dd/d97/a22572.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
+    [ "JustDied", "dd/d97/a22572.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
+    [ "JustEngagedWith", "dd/d97/a22572.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
+    [ "KilledUnit", "dd/d97/a22572.html#a2c99df9457c548ee562fde920592ea88", null ],
+    [ "Reset", "dd/d97/a22572.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
 ];

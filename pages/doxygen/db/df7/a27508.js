@@ -1,7 +1,8 @@
 var a27508 =
 [
-    [ "HandleBonus", "db/df7/a27508.html#a2bf167d8561f2ef36e44fa9754f0d9a3", null ],
-    [ "PrepareAuraScript", "db/df7/a27508.html#aebf4afa25b50be9b99900ef830f26f04", null ],
-    [ "Register", "db/df7/a27508.html#ad69315b8eca4173a1e0db21cd98e9c3c", null ],
-    [ "Validate", "db/df7/a27508.html#aef0e4a0474718f61f89ff4c825923fc1", null ]
+    [ "CheckProc", "db/df7/a27508.html#a825ef4acafa2371f27ca8ca6465610f9", null ],
+    [ "HandleProc", "db/df7/a27508.html#a311916a7939ea2c4c2e23d6e4778aba4", null ],
+    [ "PrepareAuraScript", "db/df7/a27508.html#a89c7a57718cdb23f7235ff2379a7a192", null ],
+    [ "Register", "db/df7/a27508.html#abff50b0398b596898db4638fbadffa9c", null ],
+    [ "Validate", "db/df7/a27508.html#abedd0e9efa9c595e1142f0358d135d1b", null ]
 ];

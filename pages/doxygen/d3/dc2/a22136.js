@@ -1,7 +1,6 @@
 var a22136 =
 [
-    [ "HandleSendEvent", "d3/dc2/a22136.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
-    [ "PrepareSpellScript", "d3/dc2/a22136.html#af698a946e07235c18c8b785a1f775ec9", null ],
-    [ "Register", "d3/dc2/a22136.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
-    [ "Validate", "d3/dc2/a22136.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
+    [ "npc_bushwhackerAI", "d3/dc2/a22136.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "d3/dc2/a22136.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "d3/dc2/a22136.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

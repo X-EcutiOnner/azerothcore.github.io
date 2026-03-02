@@ -1,11 +1,8 @@
 var a05168 =
 [
-    [ "MmapTileHeader", "df/d18/a05168.html#a0165f9a4caee4e4759ea261dfbac08a7", null ],
-    [ "dtVersion", "df/d18/a05168.html#a34d3ed8c617139653176454d7fa7934e", null ],
-    [ "mmapMagic", "df/d18/a05168.html#ace0ec88460c97f1438de2d0e6a9d7774", null ],
-    [ "mmapVersion", "df/d18/a05168.html#a5cc3cd873419fe8aeb479d3187584410", null ],
-    [ "padding", "df/d18/a05168.html#a6ca977b85a993eb6721e3bfe9fd3abfd", null ],
-    [ "recastConfig", "df/d18/a05168.html#a6552d0370a83567a4d01b4c20adff8cc", null ],
-    [ "size", "df/d18/a05168.html#a69f3284a4a56b1108792ba56c250bf97", null ],
-    [ "usesLiquids", "df/d18/a05168.html#aeb4e622161a4bb42cff42d37542f0254", null ]
+    [ "MMapData", "df/d18/a05168.html#ab6aa577df2b8bc749e68515b7b5ef96c", null ],
+    [ "~MMapData", "df/d18/a05168.html#a28ad87f05014c49373557369e9177df5", null ],
+    [ "loadedTileRefs", "df/d18/a05168.html#afa8799db33459dd5e36b7a43eae7d16b", null ],
+    [ "navMesh", "df/d18/a05168.html#a786a4b43773e4402451bed82cf221f66", null ],
+    [ "navMeshQueries", "df/d18/a05168.html#abb7a9f9131b3657eff54ed17fc329b43", null ]
 ];

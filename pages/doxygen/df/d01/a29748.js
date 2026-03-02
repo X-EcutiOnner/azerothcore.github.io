@@ -1,7 +1,7 @@
 var a29748 =
 [
-    [ "asyncId", "df/d01/a29748.html#afd18849875b4562e4a532903676ce25d", null ],
-    [ "flags", "df/d01/a29748.html#a9b9c3cec4acbd87911aa047dd52ae443", null ],
-    [ "offsMCNK", "df/d01/a29748.html#a063c5dc62c44038e882340221bf8228a", null ],
-    [ "size", "df/d01/a29748.html#a47a5eeb595d53de009651ae02d2b416d", null ]
+    [ "CreateSpellInfo", "df/d01/a29748.html#a85a824b2c9c31d49559710982fc3eebc", null ],
+    [ "SetUp", "df/d01/a29748.html#ae8603d97c66150898b6fa5108ce08df2", null ],
+    [ "TearDown", "df/d01/a29748.html#ac571be637bd288e84994c443fa0a4b78", null ],
+    [ "_spellInfos", "df/d01/a29748.html#a40cda1f51abf20e470afbd0b729830b6", null ]
 ];

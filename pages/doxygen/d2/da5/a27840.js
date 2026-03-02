@@ -1,6 +1,6 @@
 var a27840 =
 [
-    [ "AfterCheckProc", "d2/da5/a27840.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
-    [ "PrepareAuraScript", "d2/da5/a27840.html#aa184faf59edbad97ec361e66169137b9", null ],
-    [ "Register", "d2/da5/a27840.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
+    [ "HandleScript", "d2/da5/a27840.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
+    [ "PrepareSpellScript", "d2/da5/a27840.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
+    [ "Register", "d2/da5/a27840.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
 ];

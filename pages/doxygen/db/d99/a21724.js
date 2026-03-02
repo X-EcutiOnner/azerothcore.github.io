@@ -1,5 +1,6 @@
 var a21724 =
 [
-    [ "at_q24545_frostmourne_cavern", "db/d99/a21724.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
-    [ "OnTrigger", "db/d99/a21724.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
+    [ "npc_heated_battleAI", "df/d22/a21728.html", "df/d22/a21728" ],
+    [ "npc_heated_battle", "db/d99/a21724.html#aceafde04a60940c1027a6e838ffdc137", null ],
+    [ "GetAI", "db/d99/a21724.html#af73fc1f330bf2fd224e53be39da1c9d3", null ]
 ];

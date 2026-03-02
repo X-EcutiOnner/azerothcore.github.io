@@ -1,5 +1,9 @@
 var a21576 =
 [
-    [ "npc_steam_powered_auctioneerAI", "df/d7b/a21576.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
-    [ "CanBeSeen", "df/d7b/a21576.html#a3352588abda326f7c72d0764a3f53370", null ]
+    [ "npc_bloodmage_laurithAI", "df/d7b/a21576.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
+    [ "Reset", "df/d7b/a21576.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
+    [ "SetGUID", "df/d7b/a21576.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
+    [ "UpdateAI", "df/d7b/a21576.html#a9752f518441071dd4a60cd63423bf9a3", null ],
+    [ "_events", "df/d7b/a21576.html#a35facab84094071d952792a4c3e5015d", null ],
+    [ "_playerGUID", "df/d7b/a21576.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
 ];

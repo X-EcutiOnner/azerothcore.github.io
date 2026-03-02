@@ -1,7 +1,6 @@
 var a19124 =
 [
-    [ "HandleEvent", "d9/d68/a19124.html#a7aea0f5c4cd3765a8266e5478322910b", null ],
-    [ "PrepareSpellScript", "d9/d68/a19124.html#a2e59f7f9eb67790c59c2e94cf877b4f3", null ],
-    [ "Register", "d9/d68/a19124.html#a96c6a479141f765b9c0f96b5f148a428", null ],
-    [ "Validate", "d9/d68/a19124.html#aa86d2cea5cb41b1e0a86248d95b5bfdb", null ]
+    [ "npc_frostwing_vrykulAI", "d8/d76/a19128.html", "d8/d76/a19128" ],
+    [ "npc_frostwing_vrykul", "d9/d68/a19124.html#ab915aa094ddebd9201a1c626e6427409", null ],
+    [ "GetAI", "d9/d68/a19124.html#a11678e59b6db9a41c7b6a575339995fd", null ]
 ];

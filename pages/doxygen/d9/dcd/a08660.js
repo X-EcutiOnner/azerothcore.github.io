@@ -1,21 +1,11 @@
 var a08660 =
 [
-    [ "ObjectVisibilityContainer", "d9/dcd/a08660.html#a341d254635abb0e62e3050b0dbc8ef36", null ],
-    [ "~ObjectVisibilityContainer", "d9/dcd/a08660.html#a4f62fa8a0d950932342764c0eeb1a455", null ],
-    [ "CleanVisibilityReferences", "d9/dcd/a08660.html#a567fc2f9f863466244482b94d31822cb", null ],
-    [ "DirectInsertVisiblePlayerReference", "d9/dcd/a08660.html#ab719a4d7551d0166419d6ea2f036e610", null ],
-    [ "DirectRemoveVisibilityReference", "d9/dcd/a08660.html#ac37e5bbcb2bcfe399bf59e782ef1e7b9", null ],
-    [ "DirectRemoveVisiblePlayerReference", "d9/dcd/a08660.html#a7d497bf0dcc4c9342fabd4cbb6e93d25", null ],
-    [ "GetVisiblePlayersMap", "d9/dcd/a08660.html#abf9656ab1132b64e991bcf267fc10c7f", null ],
-    [ "GetVisiblePlayersMap", "d9/dcd/a08660.html#a0f80121f5c696f8abf265255868e7d56", null ],
-    [ "GetVisibleWorldObjectsMap", "d9/dcd/a08660.html#a3697b9b06489bee6a9d63313569d6d3e", null ],
-    [ "GetVisibleWorldObjectsMap", "d9/dcd/a08660.html#a68d24d68b4bc7e9d46c52b5748418268", null ],
-    [ "InitForPlayer", "d9/dcd/a08660.html#a0834e38c975073e75272732be055b4fa", null ],
-    [ "LinkWorldObjectVisibility", "d9/dcd/a08660.html#ab744b89b7d10ab3fe55acb5f35a2c9c3", null ],
-    [ "UnlinkVisibilityFromPlayer", "d9/dcd/a08660.html#acb9c8d0ebfd5454ee7b697c0b1da7ad7", null ],
-    [ "UnlinkVisibilityFromWorldObject", "d9/dcd/a08660.html#ab6901d45f3920457bf6fbe6a89987375", null ],
-    [ "UnlinkWorldObjectVisibility", "d9/dcd/a08660.html#a0c23e636a75c75c0b8976282b186a7f5", null ],
-    [ "_selfObject", "d9/dcd/a08660.html#a511c809d171be7e4e3a24f77838af445", null ],
-    [ "_visiblePlayersMap", "d9/dcd/a08660.html#ac2a417b5314139baf38ba1d7754bb5bb", null ],
-    [ "_visibleWorldObjectsMap", "d9/dcd/a08660.html#aa12e3794e004f994f02263251d611708", null ]
+    [ "PackedGuid", "d9/dcd/a08660.html#a9268f8d34f24ef52369d605f94986a8d", null ],
+    [ "PackedGuid", "d9/dcd/a08660.html#a6d4559bc2a1d8c27247329c95c2b6156", null ],
+    [ "PackedGuid", "d9/dcd/a08660.html#adf388e273472f2699348c7a4361ebac4", null ],
+    [ "Set", "d9/dcd/a08660.html#aecbb8650ca713c175c30cd3ebe86b5d5", null ],
+    [ "Set", "d9/dcd/a08660.html#ae5d174d63a0b9d33b919f05760290bea", null ],
+    [ "size", "d9/dcd/a08660.html#a22ac06b7072951e84bbf69abcd7d58f6", null ],
+    [ "operator<<", "d9/dcd/a08660.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
+    [ "_packedGuid", "d9/dcd/a08660.html#aeb0e51f1667a2627aabffd6d7cb1779c", null ]
 ];

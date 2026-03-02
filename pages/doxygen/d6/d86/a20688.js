@@ -1,7 +1,9 @@
 var a20688 =
 [
-    [ "boss_thorim_trap", "d6/d86/a20688.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
-    [ "Reset", "d6/d86/a20688.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
-    [ "UpdateAI", "d6/d86/a20688.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
-    [ "_checkTimer", "d6/d86/a20688.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
+    [ "npc_ulduar_dark_rune_sentinel", "d6/d86/a20688.html#aa618a5c21a3f8c8ad5fa9b1dbd0ad267", null ],
+    [ "CanAIAttack", "d6/d86/a20688.html#a6549068c5035af4e9ed8f67d38c8b23f", null ],
+    [ "Reset", "d6/d86/a20688.html#ab5401b3309fffcaebbcbc6b665ab77a1", null ],
+    [ "UpdateAI", "d6/d86/a20688.html#ae0c37055a213f91a46b68d7286ef3867", null ],
+    [ "timer1", "d6/d86/a20688.html#a836d5ed8691a08303622389475380eae", null ],
+    [ "timer2", "d6/d86/a20688.html#aa1985f0abdfa41a0fb9568e30048f24b", null ]
 ];

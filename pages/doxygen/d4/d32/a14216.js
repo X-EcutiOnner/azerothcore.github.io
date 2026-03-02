@@ -1,7 +1,7 @@
 var a14216 =
 [
-    [ "npc_daphne_stilwellAI", "d5/def/a14220.html", "d5/def/a14220" ],
-    [ "npc_daphne_stilwell", "d4/d32/a14216.html#ad844c5f0409936d7068ee55271506041", null ],
-    [ "GetAI", "d4/d32/a14216.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
-    [ "OnQuestAccept", "d4/d32/a14216.html#ad7b293efc802506a825f202e34cb0f4d", null ]
+    [ "HandleScript", "d4/d32/a14216.html#acd4373ab762d00d262984c36190d6f93", null ],
+    [ "PrepareSpellScript", "d4/d32/a14216.html#a113216b272d0386f248a75bfcf30c6a3", null ],
+    [ "Register", "d4/d32/a14216.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
+    [ "Validate", "d4/d32/a14216.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
 ];

@@ -1,10 +1,7 @@
 var a09208 =
 [
-    [ "PetLevelInfo", "de/d26/a09208.html#ad8e757abeae500063e963ffef5469809", null ],
-    [ "armor", "de/d26/a09208.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
-    [ "health", "de/d26/a09208.html#a322dcab3af8f98726aa6addf38e8891b", null ],
-    [ "mana", "de/d26/a09208.html#a27352e73d6ed3945e398e0634dee1e96", null ],
-    [ "max_dmg", "de/d26/a09208.html#a092f2600f64f2af885142b2e96d1fe64", null ],
-    [ "min_dmg", "de/d26/a09208.html#a299d1c7f4c28893e09de79cd816afa95", null ],
-    [ "stats", "de/d26/a09208.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
+    [ "IsFitToRequirements", "de/d26/a09208.html#ac175634ed2eab2911c3749fa208a073a", null ],
+    [ "castFlags", "de/d26/a09208.html#a03cd65a460ea252818de9230cb656c1c", null ],
+    [ "spellId", "de/d26/a09208.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
+    [ "userType", "de/d26/a09208.html#adcf285572403481cb418bddebc5f4bfa", null ]
 ];

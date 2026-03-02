@@ -1,9 +1,12 @@
 var a19472 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "d7/d2a/a19472.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
-    [ "KilledUnit", "d7/d2a/a19472.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
-    [ "Reset", "d7/d2a/a19472.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
-    [ "UpdateAI", "d7/d2a/a19472.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
-    [ "auraVisualTimer", "d7/d2a/a19472.html#a74aea4294c26414d3b60983d14d36e31", null ],
-    [ "sizeTimer", "d7/d2a/a19472.html#a73f775b30ad36a595e0d8532067ba042", null ]
+    [ "npc_boss_gothik_minionAI", "d7/d2a/a19472.html#aa719d87c65294fc483b424b125619a10", null ],
+    [ "IsOnSameSide", "d7/d2a/a19472.html#a7d305be5e3d66c1317fa91e588223da0", null ],
+    [ "JustDied", "d7/d2a/a19472.html#a752b6eab9cf1b016962c6f535586b59d", null ],
+    [ "JustEngagedWith", "d7/d2a/a19472.html#ad86778d5a0e883a839b4a43425a57d7f", null ],
+    [ "KilledUnit", "d7/d2a/a19472.html#a6a09440d623dcee51b7e0d4ed77d624e", null ],
+    [ "Reset", "d7/d2a/a19472.html#a309401236c254cd850759a0cbb4004e0", null ],
+    [ "UpdateAI", "d7/d2a/a19472.html#a43744e96be00d8bc0afc34a570e79947", null ],
+    [ "events", "d7/d2a/a19472.html#ae2dde7b4fc655b1ae27410d299776c49", null ],
+    [ "livingSide", "d7/d2a/a19472.html#a2545d00e04bae9ee0a1bf9f9d6162c74", null ]
 ];

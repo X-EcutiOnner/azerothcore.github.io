@@ -1,6 +1,7 @@
 var a23708 =
 [
-    [ "HandlePeriodic", "d0/dd1/a23708.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
-    [ "PrepareAuraScript", "d0/dd1/a23708.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
-    [ "Register", "d0/dd1/a23708.html#acf77c76f02671da215c7103b60ed77ac", null ]
+    [ "boss_warp_splinter", "d0/dd1/a23708.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "d0/dd1/a23708.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "d0/dd1/a23708.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "d0/dd1/a23708.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

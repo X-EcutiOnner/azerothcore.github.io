@@ -1,6 +1,8 @@
 var a26768 =
 [
-    [ "FilterTargets", "d1/d5c/a26768.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
-    [ "PrepareSpellScript", "d1/d5c/a26768.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
-    [ "Register", "d1/d5c/a26768.html#a4db02c58be57a797c26b07656d1b5409", null ]
+    [ "HandleProc", "d1/d5c/a26768.html#a95553bc0c973be3a2e3911602e4067c8", null ],
+    [ "PrepareAuraScript", "d1/d5c/a26768.html#a99ea6943a3e8d4105b4187d8ea1a298d", null ],
+    [ "Register", "d1/d5c/a26768.html#aad50f19b0c854b7f9c5d81cd2e86bdfa", null ],
+    [ "Validate", "d1/d5c/a26768.html#aad1324e94920136258c419094cfca4c3", null ],
+    [ "_cooldownEnd", "d1/d5c/a26768.html#a4f19a965ed8ddab712633abdb761d210", null ]
 ];

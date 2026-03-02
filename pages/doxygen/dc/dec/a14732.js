@@ -1,11 +1,7 @@
 var a14732 =
 [
-    [ "npc_high_oracle_soo_roo", "dc/dec/a14732.html#a86f5f3c3869e9fa7afcfc9425dfdfdde", null ],
-    [ "MoveInLineOfSight", "dc/dec/a14732.html#ae3b4da2d6b888cf6325bb93b3fdbde7f", null ],
-    [ "Reset", "dc/dec/a14732.html#a89a60a83a46e0095045b2353e50483ed", null ],
-    [ "UpdateAI", "dc/dec/a14732.html#ac22cfa519e478da643a51ae887f306fd", null ],
-    [ "orphanGUID", "dc/dec/a14732.html#acd6636eb290a2fe4470b04d467ff7fa1", null ],
-    [ "phase", "dc/dec/a14732.html#abeec923d25d21773f9d8f8ba1deb0148", null ],
-    [ "playerGUID", "dc/dec/a14732.html#a329832491f86c6fcc9ccc4c98b19991e", null ],
-    [ "timer", "dc/dec/a14732.html#aa5238d3ee361374681947de874391a1f", null ]
+    [ "HandleScriptEffect", "dc/dec/a14732.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
+    [ "PrepareSpellScript", "dc/dec/a14732.html#a3d906994c11e52e89c842189be73ddfd", null ],
+    [ "Register", "dc/dec/a14732.html#a4cdab36e2265c696207a39e16549ab13", null ],
+    [ "Validate", "dc/dec/a14732.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
 ];

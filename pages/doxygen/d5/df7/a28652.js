@@ -1,6 +1,7 @@
 var a28652 =
 [
-    [ "X", "d5/df7/a28652.html#a55bda49b2eb919415afaf780ca1977de", null ],
-    [ "Y", "d5/df7/a28652.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
-    [ "Z", "d5/df7/a28652.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
+    [ "HandleDummy", "d5/df7/a28652.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "d5/df7/a28652.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "d5/df7/a28652.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "d5/df7/a28652.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

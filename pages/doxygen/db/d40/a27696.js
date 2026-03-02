@@ -1,8 +1,6 @@
 var a27696 =
 [
-    [ "CheckProc", "db/d40/a27696.html#a4713f3cdce1ee793a8f2232202314ff7", null ],
-    [ "HandleProc", "db/d40/a27696.html#ab892bc268feccba594a5b4b0be3e86f7", null ],
-    [ "PrepareAuraScript", "db/d40/a27696.html#a92a141fcf24f63bc41f6f828f72bf277", null ],
-    [ "Register", "db/d40/a27696.html#a93806efcc1e5976cca2eab57c9e55a7e", null ],
-    [ "Validate", "db/d40/a27696.html#a28801b99335380a7e366e766b6aaea2c", null ]
+    [ "CalculateAmount", "db/d40/a27696.html#aa27de1a2fc517a4b796a10e780239880", null ],
+    [ "PrepareAuraScript", "db/d40/a27696.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
+    [ "Register", "db/d40/a27696.html#a5ee969ad0916a9337849c75c18f13c29", null ]
 ];

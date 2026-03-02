@@ -1,6 +1,8 @@
 var a21260 =
 [
-    [ "boss_erekemAI", "db/ded/a21264.html", "db/ded/a21264" ],
-    [ "boss_erekem", "da/d91/a21260.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
-    [ "GetAI", "da/d91/a21260.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
+    [ "npc_frozen_orbAI", "da/d91/a21260.html#aa7456d1d876690e3723ee0a36866348b", null ],
+    [ "JustEngagedWith", "da/d91/a21260.html#afd9686dbb8503d7f756b670269aed33d", null ],
+    [ "Reset", "da/d91/a21260.html#a376dc1fcef9752e235008c4ba66e2463", null ],
+    [ "UpdateAI", "da/d91/a21260.html#a37d7cf81197fe4344c8b847753997e93", null ],
+    [ "switchTimer", "da/d91/a21260.html#afc63a3cf6b814df81a35b53278d722c9", null ]
 ];

@@ -1,6 +1,6 @@
 var a18284 =
 [
-    [ "npc_gas_cloudAI", "de/df0/a18288.html", "de/df0/a18288" ],
-    [ "npc_gas_cloud", "d9/d68/a18284.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
-    [ "GetAI", "d9/d68/a18284.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
+    [ "AbominationDespawner", "d9/d68/a18284.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "d9/d68/a18284.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "d9/d68/a18284.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

@@ -1,6 +1,9 @@
 var a17252 =
 [
-    [ "boss_falricAI", "d5/dac/a17256.html", "d5/dac/a17256" ],
-    [ "boss_falric", "d2/d9c/a17252.html#aa64253f502f79db5947c09788fb66deb", null ],
-    [ "GetAI", "d2/d9c/a17252.html#a95249877208d19bb54edd8de18616158", null ]
+    [ "HandlePeriodicTick", "d2/d9c/a17252.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
+    [ "Load", "d2/d9c/a17252.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
+    [ "PrepareAuraScript", "d2/d9c/a17252.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
+    [ "Register", "d2/d9c/a17252.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
+    [ "Validate", "d2/d9c/a17252.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
+    [ "dir", "d2/d9c/a17252.html#a7dd1959596e8ad1628498215249eb7a2", null ]
 ];

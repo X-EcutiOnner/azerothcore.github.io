@@ -1,7 +1,7 @@
 var a16068 =
 [
-    [ "npc_giltharesAI", "dd/db5/a16072.html", "dd/db5/a16072" ],
-    [ "npc_gilthares", "d9/d48/a16068.html#af1e0746350b32b68825710e1c3ed91a5", null ],
-    [ "GetAI", "d9/d48/a16068.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
-    [ "OnQuestAccept", "d9/d48/a16068.html#a018cc6240a79216acb371241f63e3234", null ]
+    [ "npc_kaya_flathoofAI", "d9/d48/a16068.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
+    [ "JustSummoned", "d9/d48/a16068.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
+    [ "Reset", "d9/d48/a16068.html#af9be00be9867622a16103bd21311327f", null ],
+    [ "WaypointReached", "d9/d48/a16068.html#a8fcbb19279b925138ba96d2a450fc404", null ]
 ];

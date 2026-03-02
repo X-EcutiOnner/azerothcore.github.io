@@ -1,6 +1,8 @@
 var a23616 =
 [
-    [ "npc_warden_mellicharAI", "d0/d32/a23620.html", "d0/d32/a23620" ],
-    [ "npc_warden_mellichar", "d0/ddc/a23616.html#aba5c3d005097430941bd40bbbb0d3562", null ],
-    [ "GetAI", "d0/ddc/a23616.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
+    [ "npc_warchief_portal", "d0/ddc/a23616.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "d0/ddc/a23616.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "d0/ddc/a23616.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "d0/ddc/a23616.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "d0/ddc/a23616.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

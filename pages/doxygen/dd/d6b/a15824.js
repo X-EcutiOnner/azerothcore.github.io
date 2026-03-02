@@ -1,7 +1,11 @@
 var a15824 =
 [
-    [ "npc_prospector_remtravelAI", "d5/db8/a15828.html", "d5/db8/a15828" ],
-    [ "npc_prospector_remtravel", "dd/d6b/a15824.html#aa213161fc60e615682252125f6c58f7f", null ],
-    [ "GetAI", "dd/d6b/a15824.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
-    [ "OnQuestAccept", "dd/d6b/a15824.html#a5e11149b6359927a71c98242d979e65b", null ]
+    [ "npc_stillpine_capitiveAI", "dd/d6b/a15824.html#a98560e7fc360dbfa3166805d9ab3feb4", null ],
+    [ "MovementInform", "dd/d6b/a15824.html#a1e930b49da85a64aa87ba79b5fe72391", null ],
+    [ "Reset", "dd/d6b/a15824.html#a9c884f892e64044057d477bdc0f89eed", null ],
+    [ "StartMoving", "dd/d6b/a15824.html#a2552a79cf384cca1203afa7f241c1cb9", null ],
+    [ "UpdateAI", "dd/d6b/a15824.html#a25dc06767382b5fee2a7098b58726fb2", null ],
+    [ "_events", "dd/d6b/a15824.html#a93dd55d392836d8d085e34293344b700", null ],
+    [ "_movementComplete", "dd/d6b/a15824.html#ae8e39ca782aee412e39d65a33d14014e", null ],
+    [ "_playerGUID", "dd/d6b/a15824.html#a3fe9a4f01aebb602095d60eb606ce763", null ]
 ];

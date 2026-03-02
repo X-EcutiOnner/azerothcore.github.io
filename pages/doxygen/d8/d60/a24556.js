@@ -1,10 +1,8 @@
 var a24556 =
 [
-    [ "HandleEffectRemove", "d8/d60/a24556.html#a3b43cfcbbfa8fdbf170c76dd12b72074", null ],
-    [ "HandleImprovedBloodPresence", "d8/d60/a24556.html#a020c0ae1f74856ae070ab2104232a079", null ],
-    [ "HandleImprovedFrostPresence", "d8/d60/a24556.html#a262bfd40ee2f2d8ed793f999f660ba28", null ],
-    [ "HandleImprovedUnholyPresence", "d8/d60/a24556.html#a5da86bb3686327787da5f46fc756f0a0", null ],
-    [ "PrepareAuraScript", "d8/d60/a24556.html#a96453bb078359e46665e0eaa2a6cf6d1", null ],
-    [ "Register", "d8/d60/a24556.html#a6534d2b5bca9a50830d20b08bfc1b84e", null ],
-    [ "Validate", "d8/d60/a24556.html#afc23187a3a6dd48f2ad84ef354e36f3a", null ]
+    [ "HandleDamage", "d8/d60/a24556.html#a2c5149eb0b6698240c25b63e71af0854", null ],
+    [ "PrepareSpellScript", "d8/d60/a24556.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
+    [ "Register", "d8/d60/a24556.html#ad29179d9159700b52b0c21a779cd060b", null ],
+    [ "Suicide", "d8/d60/a24556.html#a981f8547eae9b317111bf9a7016510ab", null ],
+    [ "Validate", "d8/d60/a24556.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
 ];

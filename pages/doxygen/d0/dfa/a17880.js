@@ -1,6 +1,8 @@
 var a17880 =
 [
-    [ "ModAuraValue", "d0/dfa/a17880.html#a359453c6253beb6f729209c6d3d79af7", null ],
-    [ "PrepareSpellScript", "d0/dfa/a17880.html#a4f916abef69782be10cc6be9ba0124f5", null ],
-    [ "Register", "d0/dfa/a17880.html#a4a387df07c88144288c4327ce86b730a", null ]
+    [ "npc_high_overlord_saurfangAI", "d6/dc8/a17884.html", "d6/dc8/a17884" ],
+    [ "npc_high_overlord_saurfang_icc", "d0/dfa/a17880.html#ac02fe80550572e142406c2d80c0392df", null ],
+    [ "GetAI", "d0/dfa/a17880.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
+    [ "OnGossipHello", "d0/dfa/a17880.html#a515a87f751527412222cfdd968febe7c", null ],
+    [ "OnGossipSelect", "d0/dfa/a17880.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
 ];

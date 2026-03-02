@@ -1,10 +1,6 @@
 var a19364 =
 [
-    [ "boss_isle_of_conquestAI", "de/d4d/a19364.html#a7880ea86e7a03f5b14875065a83a206a", null ],
-    [ "CheckRageBuff", "de/d4d/a19364.html#a6d60480e39fa89dbcc0facce9f0b69a3", null ],
-    [ "JustEngagedWith", "de/d4d/a19364.html#a878635ef0673325943e6026ad76c2b06", null ],
-    [ "Reset", "de/d4d/a19364.html#add59669e5f6c3c882ac008c720349573", null ],
-    [ "UpdateAI", "de/d4d/a19364.html#ab33aa7e735c5837428a4cf2b76e4275e", null ],
-    [ "events", "de/d4d/a19364.html#a38e308b66b0f35d3efe6916b03e4391c", null ],
-    [ "rage", "de/d4d/a19364.html#aa16ebdd6e2f486d3a6e4b58f4cb5e696", null ]
+    [ "npc_isle_of_conquest_turretAI", "da/d00/a19368.html", "da/d00/a19368" ],
+    [ "npc_isle_of_conquest_turret", "de/d4d/a19364.html#ac080845203adef25e6841133b7e2f4dc", null ],
+    [ "GetAI", "de/d4d/a19364.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
 ];

@@ -1,6 +1,8 @@
 var a20404 =
 [
-    [ "DestroyWinterCache", "d8/dd9/a20404.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
-    [ "PrepareSpellScript", "d8/dd9/a20404.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
-    [ "Register", "d8/dd9/a20404.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
+    [ "npc_ulduar_flash_freeze", "d8/dd9/a20404.html#a71c3a5c17af15cc75955d565a5d32b05", null ],
+    [ "DamageTaken", "d8/dd9/a20404.html#af381d671e1b64c6135ed6c76b1eef213", null ],
+    [ "UpdateAI", "d8/dd9/a20404.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
+    [ "pInstance", "d8/dd9/a20404.html#aa763071062842e656c5db9f7ba6bbafe", null ],
+    [ "timer", "d8/dd9/a20404.html#a016272492e1843b09c7c8b40537a463a", null ]
 ];

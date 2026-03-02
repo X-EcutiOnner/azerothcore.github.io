@@ -1,8 +1,8 @@
 var a23368 =
 [
-    [ "npc_underbat", "de/dc3/a23368.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
-    [ "JustEngagedWith", "de/dc3/a23368.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
-    [ "Reset", "de/dc3/a23368.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
-    [ "UpdateAI", "de/dc3/a23368.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
-    [ "_scheduler", "de/dc3/a23368.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
+    [ "boss_the_black_stalker", "de/dc3/a23368.html#ac33519b374509cefe43b8e97701719ee", null ],
+    [ "JustEngagedWith", "de/dc3/a23368.html#ad118347103ec463a09492e81dbd61418", null ],
+    [ "JustSummoned", "de/dc3/a23368.html#a9e0299a99df83abb7de476a765b667b9", null ],
+    [ "SummonedCreatureDies", "de/dc3/a23368.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
+    [ "UpdateAI", "de/dc3/a23368.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
 ];

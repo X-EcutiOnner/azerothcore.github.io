@@ -1,15 +1,15 @@
 var a19532 =
 [
-    [ "boss_maexxnaAI", "db/d70/a19532.html#a3bf898911798eaa891ef7638a3a2cc20", null ],
-    [ "DoCastWebWrap", "db/d70/a19532.html#a5d78455f5ba6e30df6644897b4e6ad7e", null ],
-    [ "IsInRoom", "db/d70/a19532.html#a957bd38232c020611fc24dd8a6e55640", null ],
-    [ "JustDied", "db/d70/a19532.html#a4f0121aedeff9d44b28e888f5f3d0382", null ],
-    [ "JustEngagedWith", "db/d70/a19532.html#a9974fc771b3663878964aeb20914fe43", null ],
-    [ "JustSummoned", "db/d70/a19532.html#ab45b74b3067b42089fee804844ea41dd", null ],
-    [ "KilledUnit", "db/d70/a19532.html#a11cda2b905ef2381c317a01e4163be00", null ],
-    [ "Reset", "db/d70/a19532.html#a78385da6845ce8e3075616c24696d0cc", null ],
-    [ "UpdateAI", "db/d70/a19532.html#a6f0453babfa84764467970369894eb97", null ],
-    [ "events", "db/d70/a19532.html#a6ddb73eeb18560a08e72dd6ccc5d0c83", null ],
-    [ "summons", "db/d70/a19532.html#a7ea3de40dfd638db7e34c523a0461335", null ],
-    [ "wraps", "db/d70/a19532.html#a3bfe3ab90ff6f401c3f7b8655e3abc05", null ]
+    [ "boss_kelthuzad_minionAI", "db/d70/a19532.html#addeb3112e8b6da5713e6c25878c7e785", null ],
+    [ "AttackStart", "db/d70/a19532.html#ae6e2b0dd529f819b5b62348059dacb02", null ],
+    [ "DoAction", "db/d70/a19532.html#acd08aa78c1620f5552bbbc77c06b4344", null ],
+    [ "JustDied", "db/d70/a19532.html#abc6db76c9dcdbdb1c51b7f67d4c39551", null ],
+    [ "JustEngagedWith", "db/d70/a19532.html#a135dd028f95eeb34b2852e8dafebbe63", null ],
+    [ "JustReachedHome", "db/d70/a19532.html#aedfaf037ddf66d0e3aa990b4ea5b171c", null ],
+    [ "KilledUnit", "db/d70/a19532.html#ac8a2297a89310f4902fdc544ef71b673", null ],
+    [ "MoveInLineOfSight", "db/d70/a19532.html#aee871ff356bcfd38162a5f6c9bd3c994", null ],
+    [ "Reset", "db/d70/a19532.html#a01db0df4ec5f49d0915e90c418ebba75", null ],
+    [ "UpdateAI", "db/d70/a19532.html#ad60ec485144e447fd9d43b0cd5d6c87c", null ],
+    [ "callHelp", "db/d70/a19532.html#a6c6935e058bc18c013bc31f03f5a914b", null ],
+    [ "events", "db/d70/a19532.html#a2885d65bfaf345e7c3dfa42d8c80a892", null ]
 ];

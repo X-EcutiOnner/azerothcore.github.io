@@ -1,6 +1,6 @@
 var a28504 =
 [
-    [ "npc_locksmith", "df/db6/a28504.html#af959a6395ebc33109405f18f262e4ecb", null ],
-    [ "OnGossipHello", "df/db6/a28504.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
-    [ "OnGossipSelect", "df/db6/a28504.html#a62ec02e226255ff1f81895391a6494b8", null ]
+    [ "npc_guardianAI", "dc/dde/a28508.html", "dc/dde/a28508" ],
+    [ "npc_guardian", "df/db6/a28504.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
+    [ "GetAI", "df/db6/a28504.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
 ];

@@ -1,4 +1,6 @@
 var a29104 =
 [
-    [ "ratio", "df/de3/a29104.html#abe0a3d6e014b8ceafb6a991397812ae1", null ]
+    [ "Id", "df/de3/a29104.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
+    [ "SpellId", "df/de3/a29104.html#ae8c119bacf706916f331d3f316fb1347", null ],
+    [ "TypeFlags", "df/de3/a29104.html#aae92871758e9a738a888cacf0946f16b", null ]
 ];

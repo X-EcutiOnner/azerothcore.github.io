@@ -1,7 +1,6 @@
 var a15272 =
 [
-    [ "npc_tarethaAI", "de/dda/a15276.html", "de/dda/a15276" ],
-    [ "npc_taretha", "d2/dc8/a15272.html#a54379e06518ff972e91e25e295731f5a", null ],
-    [ "GetAI", "d2/dc8/a15272.html#a5045bb7119b12800ee0053818fcae5fe", null ],
-    [ "OnGossipHello", "d2/dc8/a15272.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
+    [ "instance_culling_of_stratholme_InstanceMapScript", "de/dda/a15276.html", "de/dda/a15276" ],
+    [ "instance_culling_of_stratholme", "d2/dc8/a15272.html#a0b07e751032e15e7fcf2f86bf29a39be", null ],
+    [ "GetInstanceScript", "d2/dc8/a15272.html#ad8cbcb198666d44d79d6255d066c8315", null ]
 ];

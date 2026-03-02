@@ -1,6 +1,8 @@
 var a17472 =
 [
-    [ "npc_pos_deathwhisper_necrolyteAI", "d1/dd0/a17476.html", "d1/dd0/a17476" ],
-    [ "npc_pos_deathwhisper_necrolyte", "df/dca/a17472.html#a0dcdb5b1dfed44f74b04663758b531a0", null ],
-    [ "GetAI", "df/dca/a17472.html#ae765669f95f4f14b393b88bf7ecbbfd6", null ]
+    [ "boss_krickAI", "df/dca/a17472.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
+    [ "DoAction", "df/dca/a17472.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
+    [ "UpdateAI", "df/dca/a17472.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
+    [ "events", "df/dca/a17472.html#a75349e2fc35832e7944fa4f772380baa", null ],
+    [ "pInstance", "df/dca/a17472.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
 ];

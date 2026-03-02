@@ -1,11 +1,6 @@
 var a29576 =
 [
-    [ "SetUp", "d9/d53/a29576.html#abb28ef64461635a540dad471b7b12ebc", null ],
-    [ "TearDown", "d9/d53/a29576.html#ace0b9a0c578a6b8ec1d33ad584aaf911", null ],
-    [ "_previousWorld", "d9/d53/a29576.html#a2633d21816e5aa3e4a649292f07a3369", null ],
-    [ "_worldMock", "d9/d53/a29576.html#ae1629c69438e29ea7be460120132b68b", null ],
-    [ "arenaTeams", "d9/d53/a29576.html#ab40dacafdb3c5de73cf66426d014a4fe", null ],
-    [ "team1", "d9/d53/a29576.html#a325d8058950e53d17e16fd90cd105776", null ],
-    [ "team2", "d9/d53/a29576.html#ac6336ffa31e59a5d3acc227c674e9ea8", null ],
-    [ "team3", "d9/d53/a29576.html#af3c2e86874e53ae812debbe1abfbcf05", null ]
+    [ "hasInstantTargetProcs", "d9/d53/a29576.html#a043a2884a456208d85bc3bf8d4733682", null ],
+    [ "isRemoved", "d9/d53/a29576.html#a3f593c8bba6edde580f84fcc5ce9215b", null ],
+    [ "spellId", "d9/d53/a29576.html#aee26a119051d638047018aeb93d593f6", null ]
 ];

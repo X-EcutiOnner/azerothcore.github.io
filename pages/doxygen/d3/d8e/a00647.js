@@ -1,4 +1,5 @@
 var a00647 =
 [
-    [ "MAX_INBOX_CLIENT_CAPACITY", "d3/d8e/a00647.html#ae1d9c2394745301897af9c167e219ca8", null ]
+    [ "GuildMgr", "db/d9d/a09824.html", "db/d9d/a09824" ],
+    [ "sGuildMgr", "d3/d8e/a00647.html#aef171903a38e30c347ff11360f682f81", null ]
 ];

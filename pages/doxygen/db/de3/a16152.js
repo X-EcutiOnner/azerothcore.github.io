@@ -1,6 +1,8 @@
 var a16152 =
 [
-    [ "npc_rivern_frostwind", "db/de3/a16152.html#a0675c120fc28b26c7ea3c35f8d3f2a64", null ],
-    [ "OnGossipHello", "db/de3/a16152.html#a90a6582633336de422c9f98973562b32", null ],
-    [ "OnGossipSelect", "db/de3/a16152.html#a067ff91179f551633594d488eda269ed", null ]
+    [ "npc_pluckyAI", "d8/de2/a16156.html", "d8/de2/a16156" ],
+    [ "npc_plucky", "db/de3/a16152.html#a86bb2992b8af5893987145117aaf3608", null ],
+    [ "GetAI", "db/de3/a16152.html#a51e73f4e1f618aee5a000e31328efefc", null ],
+    [ "OnGossipHello", "db/de3/a16152.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
+    [ "OnGossipSelect", "db/de3/a16152.html#a88fa465246b4c657b921ebdc96f7a112", null ]
 ];

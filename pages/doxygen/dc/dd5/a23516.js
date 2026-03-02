@@ -1,8 +1,12 @@
 var a23516 =
 [
-    [ "HandleDummyApply", "dc/dd5/a23516.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
-    [ "HandleDummyRemove", "dc/dd5/a23516.html#a368376fe4262815b9b9a9811178cec6d", null ],
-    [ "HandlePeriodicRemove", "dc/dd5/a23516.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
-    [ "PrepareAuraScript", "dc/dd5/a23516.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
-    [ "Register", "dc/dd5/a23516.html#afeb47a40cfea3d958fee7a410e83857f", null ]
+    [ "boss_watchkeeper_gargolmar", "dc/dd5/a23516.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
+    [ "JustDied", "dc/dd5/a23516.html#a39be5796b39bea913105fc48dda0d186", null ],
+    [ "JustEngagedWith", "dc/dd5/a23516.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
+    [ "KilledUnit", "dc/dd5/a23516.html#a22736c2680f41cfd3443a76cd4de9352", null ],
+    [ "MoveInLineOfSight", "dc/dd5/a23516.html#adec9837fdb2595ce57acffb279a7d011", null ],
+    [ "Reset", "dc/dd5/a23516.html#a356b7fe9071b073b74b21913e35e7408", null ],
+    [ "UpdateAI", "dc/dd5/a23516.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
+    [ "_hasSpoken", "dc/dd5/a23516.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
+    [ "_taunted", "dc/dd5/a23516.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
 ];

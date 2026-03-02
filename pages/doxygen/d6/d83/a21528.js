@@ -1,9 +1,7 @@
 var a21528 =
 [
-    [ "npc_warmage_coldarraAI", "d6/d83/a21528.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
-    [ "AttackStart", "d6/d83/a21528.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
-    [ "JustEngagedWith", "d6/d83/a21528.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
-    [ "Reset", "d6/d83/a21528.html#adf5094ba2bee34ec793124e798d5af8f", null ],
-    [ "UpdateAI", "d6/d83/a21528.html#a14b221265cc38b4061c52b687274a398", null ],
-    [ "m_uiTimer", "d6/d83/a21528.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
+    [ "npc_mootoo_the_youngerAI", "d0/d3d/a21532.html", "d0/d3d/a21532" ],
+    [ "npc_mootoo_the_younger", "d6/d83/a21528.html#a91e10489ed6a98cfa764fd4de8448317", null ],
+    [ "GetAI", "d6/d83/a21528.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
+    [ "OnQuestAccept", "d6/d83/a21528.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
 ];

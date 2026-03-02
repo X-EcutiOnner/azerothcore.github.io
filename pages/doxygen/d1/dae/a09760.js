@@ -1,12 +1,18 @@
 var a09760 =
 [
-    [ "LogEntry", "d1/dae/a09760.html#af61604a7dc0cc4da315a09fa5b207f37", null ],
-    [ "LogEntry", "d1/dae/a09760.html#aba3f6f501c59e356166abe71082c421b", null ],
-    [ "~LogEntry", "d1/dae/a09760.html#a3c66b8a7be1800c5a9e1dc15aab6d3e9", null ],
-    [ "GetGUID", "d1/dae/a09760.html#a7af4eac577f8da07540f81e185b2ad49", null ],
-    [ "GetTimestamp", "d1/dae/a09760.html#a643c92439463707671bb08b72bf3a447", null ],
-    [ "SaveToDB", "d1/dae/a09760.html#a1c00aa88973423a1c112c2776a14e78f", null ],
-    [ "m_guid", "d1/dae/a09760.html#a75754f42f8a202a9a319c86515a3f0dd", null ],
-    [ "m_guildId", "d1/dae/a09760.html#a89e0192732a43dc44aff3730bc5ad445", null ],
-    [ "m_timestamp", "d1/dae/a09760.html#ad19e7364e1beba61c9b7a4383b6d42c6", null ]
+    [ "GroupContainer", "d1/dae/a09760.html#a417c5798d50cac5c1bc5b0eae13945cc", null ],
+    [ "GroupIds", "d1/dae/a09760.html#ad3a9005c50a5957d3f47adf60624b9aa", null ],
+    [ "GroupMgr", "d1/dae/a09760.html#a663dbeb2e20161d8d6cf72f322c05f0e", null ],
+    [ "~GroupMgr", "d1/dae/a09760.html#ad5a5efeed7f78146983611c2349c111f", null ],
+    [ "AddGroup", "d1/dae/a09760.html#abb97c613417573dc4cafa117065e7cf8", null ],
+    [ "GenerateGroupId", "d1/dae/a09760.html#ad881433a3836a70e44734bde5a1afc6f", null ],
+    [ "GetGroupByGUID", "d1/dae/a09760.html#a2af93882e217f762df95ba21af191c89", null ],
+    [ "InitGroupIds", "d1/dae/a09760.html#a6881453ec34dc2d9416069a87b1a3234", null ],
+    [ "instance", "d1/dae/a09760.html#a1b7275cfd70d46216df8c353e70d64c8", null ],
+    [ "LoadGroups", "d1/dae/a09760.html#ab8548ce88b015ae3040cd5f2cd7b1990", null ],
+    [ "RegisterGroupId", "d1/dae/a09760.html#a8bface2b6600801ebcd1cbb9070ec3ef", null ],
+    [ "RemoveGroup", "d1/dae/a09760.html#a654b7c795c9c3d77a7a39bce58dec2c7", null ],
+    [ "_groupIds", "d1/dae/a09760.html#af260c73ba61242f741103bdfe6d6fb9e", null ],
+    [ "_nextGroupId", "d1/dae/a09760.html#a4e41d7444f8b7d3dbb54569be80b65f9", null ],
+    [ "GroupStore", "d1/dae/a09760.html#ae897c661dd4b185d205c3a12d17ccb2b", null ]
 ];

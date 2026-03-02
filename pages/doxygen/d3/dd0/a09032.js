@@ -1,18 +1,11 @@
 var a09032 =
 [
-    [ "GameEventData", "d3/dd0/a09032.html#ab7963b01d9e138d79f06274ea57b9590", null ],
-    [ "isValid", "d3/dd0/a09032.html#a7a91c9c9cc68593812b13f6efd2ea4ff", null ],
-    [ "Announce", "d3/dd0/a09032.html#ae055378db69064ad4338ec2ddf6c7c75", null ],
-    [ "Conditions", "d3/dd0/a09032.html#a0915a0321c4c26bfb61824587a309cde", null ],
-    [ "Description", "d3/dd0/a09032.html#a5ab9afbc209e319839fd68de0cbc2207", null ],
-    [ "End", "d3/dd0/a09032.html#a4bae1cf480ee64f190e2f09640e8a8cd", null ],
-    [ "EventId", "d3/dd0/a09032.html#a6fe6513946fc98803fb816d2aabd8dcc", null ],
-    [ "HolidayId", "d3/dd0/a09032.html#a9c9979bdece8534af216b693a2a58a80", null ],
-    [ "HolidayStage", "d3/dd0/a09032.html#a44c52795eed59abdff72cdebdccc50ca", null ],
-    [ "Length", "d3/dd0/a09032.html#a72bff4c3a62db350460993d804a461ea", null ],
-    [ "NextStart", "d3/dd0/a09032.html#aafe5f4d5b9122f26442266c651ebd77e", null ],
-    [ "Occurence", "d3/dd0/a09032.html#ab4e80a88f30560a3af0c6381e974687d", null ],
-    [ "PrerequisiteEvents", "d3/dd0/a09032.html#aa4ecb9c9ce012aad0c1cb0d90a3eb4e0", null ],
-    [ "Start", "d3/dd0/a09032.html#a3be91b7e00641ca6cb853104190845dc", null ],
-    [ "State", "d3/dd0/a09032.html#a6288a7c28aba2927c3e91f5d2f517a60", null ]
+    [ "VehicleSeatAddon", "d3/dd0/a09032.html#a307b278917998116156e41f9189a582c", null ],
+    [ "VehicleSeatAddon", "d3/dd0/a09032.html#adaec12df869a9ffc81174f5ef1f65606", null ],
+    [ "ExitParameter", "d3/dd0/a09032.html#afbb8de193522f1182efff50064e5f83d", null ],
+    [ "ExitParameterO", "d3/dd0/a09032.html#a06e385ea5cf0441721432925251a5a63", null ],
+    [ "ExitParameterX", "d3/dd0/a09032.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
+    [ "ExitParameterY", "d3/dd0/a09032.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
+    [ "ExitParameterZ", "d3/dd0/a09032.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
+    [ "SeatOrientationOffset", "d3/dd0/a09032.html#a374c73b40f6e6dad103b172d1829a31d", null ]
 ];

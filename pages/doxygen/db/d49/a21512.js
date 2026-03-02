@@ -1,9 +1,10 @@
 var a21512 =
 [
-    [ "npc_bonker_togglevoltAI", "db/d49/a21512.html#adfd43a6a804a35e235262e55f0155ffe", null ],
-    [ "JustDied", "db/d49/a21512.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
-    [ "Reset", "db/d49/a21512.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
-    [ "UpdateEscortAI", "db/d49/a21512.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
-    [ "WaypointReached", "db/d49/a21512.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
-    [ "Bonker_agro", "db/d49/a21512.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
+    [ "npc_jenny", "db/d49/a21512.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "db/d49/a21512.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "db/d49/a21512.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "db/d49/a21512.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "db/d49/a21512.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "db/d49/a21512.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "db/d49/a21512.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

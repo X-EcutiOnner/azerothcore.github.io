@@ -1,6 +1,7 @@
 var a18124 =
 [
-    [ "IgbArtilleryCheck", "d0/dbd/a18124.html#a78b65928551ed799cf3f446f0603c50e", null ],
-    [ "operator()", "d0/dbd/a18124.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
-    [ "_entry", "d0/dbd/a18124.html#a98a6a0836414da82c288e372e982f69f", null ]
+    [ "FilterTargets", "d0/dbd/a18124.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
+    [ "Load", "d0/dbd/a18124.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
+    [ "PrepareSpellScript", "d0/dbd/a18124.html#a7526a6df4c25136f4be78e753c6abf62", null ],
+    [ "Register", "d0/dbd/a18124.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
 ];

@@ -1,8 +1,9 @@
 var a10844 =
 [
-    [ "OtherGUID", "df/d5e/a10844.html#a3f7486a2e4e07fef318414eaaa9037da", null ],
-    [ "PlayerGUID", "df/d5e/a10844.html#ae3d1217ddbfccd601fcbc57b78739a94", null ],
-    [ "RankID", "df/d5e/a10844.html#a1aebcb39f85c2b44101a311a6ccefdfd", null ],
-    [ "TransactionDate", "df/d5e/a10844.html#a4a8054876b35134e5dfe2cf84887e66f", null ],
-    [ "TransactionType", "df/d5e/a10844.html#aa48b69aa9078fb150470d66201b34786", null ]
+    [ "GuildRoster", "df/d5e/a10844.html#a2161128d6fb6fa53a5129a95ded2b5fc", null ],
+    [ "Write", "df/d5e/a10844.html#a544a539999827d4eb8923cbbcdf42bac", null ],
+    [ "InfoText", "df/d5e/a10844.html#a9d457ee8feb6c173d960b360aca90fc6", null ],
+    [ "MemberData", "df/d5e/a10844.html#a964fc72bf3ada77c171fd1f691449241", null ],
+    [ "RankData", "df/d5e/a10844.html#a67b0a12fae93c5807030c1062f328abb", null ],
+    [ "WelcomeText", "df/d5e/a10844.html#a5ec2c209558d2c34feee4bfd8cda201c", null ]
 ];

@@ -1,6 +1,6 @@
 var a19080 =
 [
-    [ "npc_captain_grondelAI", "d4/d03/a19080.html#afbc971fc03584b87229318309d51a2f5", null ],
-    [ "Reset", "d4/d03/a19080.html#a7d3878822e77fba66891e87e23bd3740", null ],
-    [ "UpdateAI", "d4/d03/a19080.html#a4af8548092b49653805224bd4c0ac0a2", null ]
+    [ "boss_sister_svalnaAI", "dd/de1/a19084.html", "dd/de1/a19084" ],
+    [ "boss_sister_svalna", "d4/d03/a19080.html#a233a9606db61f6ab945350e98a0929ff", null ],
+    [ "GetAI", "d4/d03/a19080.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
 ];

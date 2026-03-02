@@ -1,5 +1,7 @@
 var a28636 =
 [
-    [ "go_transport_the_iron_eagle", "d5/d39/a28636.html#aba17edc2e3ac8e1b9996116c6f9bdc6f", null ],
-    [ "EventInform", "d5/d39/a28636.html#af1970d07730ab0e5f688200289f48b69", null ]
+    [ "npc_flameshocker", "d5/d39/a28636.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
+    [ "JustDied", "d5/d39/a28636.html#aba94a5bcec75c649049d5816a53ace58", null ],
+    [ "Reset", "d5/d39/a28636.html#a13cb88e2b33df2d910fb73053684b420", null ],
+    [ "UpdateAI", "d5/d39/a28636.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
 ];

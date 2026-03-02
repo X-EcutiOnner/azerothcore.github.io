@@ -1,13 +1,10 @@
 var a29240 =
 [
-    [ "AcquireMethod", "d1/d6b/a29240.html#a31a8f5d642b2826b58bc7dfaf5f26719", null ],
-    [ "ClassMask", "d1/d6b/a29240.html#a868a7a346c1da7fa74ed36f0bfb59e3e", null ],
-    [ "ID", "d1/d6b/a29240.html#a95cab9102e1dd6c4f449aba2ecf14372", null ],
-    [ "MinSkillLineRank", "d1/d6b/a29240.html#a2a6c4b50a288ea023099fb49aaca37e4", null ],
-    [ "RaceMask", "d1/d6b/a29240.html#acfd38780584b90ca40a1e1cd59605832", null ],
-    [ "SkillLine", "d1/d6b/a29240.html#a0050dcf5c82f785dfc93079debe54a13", null ],
-    [ "Spell", "d1/d6b/a29240.html#a19e1a55dadce68e6e9c1bd7bb2ca51dd", null ],
-    [ "SupercededBySpell", "d1/d6b/a29240.html#a0eabe8b18fa4bf67eaaaa56f2264ad5d", null ],
-    [ "TrivialSkillLineRankHigh", "d1/d6b/a29240.html#aa8f0c15da1d4d14853bd42e7e20bc963", null ],
-    [ "TrivialSkillLineRankLow", "d1/d6b/a29240.html#aca5e15003099e1fdbd2eaa701b96f162", null ]
+    [ "PvPDifficultyEntry", "d1/d6b/a29240.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
+    [ "GetBracketId", "d1/d6b/a29240.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
+    [ "bracketId", "d1/d6b/a29240.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
+    [ "difficulty", "d1/d6b/a29240.html#a33ac017d785a4586a78e715d97836720", null ],
+    [ "mapId", "d1/d6b/a29240.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
+    [ "maxLevel", "d1/d6b/a29240.html#a1385166568239f2118b65377df8b4b55", null ],
+    [ "minLevel", "d1/d6b/a29240.html#acd07e8d759af1b73ec7543f6e70df242", null ]
 ];

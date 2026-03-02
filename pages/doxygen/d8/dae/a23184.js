@@ -1,7 +1,7 @@
 var a23184 =
 [
-    [ "HandleEffectRemove", "d8/dae/a23184.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
-    [ "HandlePeriodic", "d8/dae/a23184.html#a5137e24394fa14129c44d92c79eef117", null ],
-    [ "PrepareAuraScript", "d8/dae/a23184.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
-    [ "Register", "d8/dae/a23184.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
+    [ "FilterTargets", "d8/dae/a23184.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
+    [ "HandleDummy", "d8/dae/a23184.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
+    [ "PrepareSpellScript", "d8/dae/a23184.html#ae7714acbe0a08781e3bc297847c47870", null ],
+    [ "Register", "d8/dae/a23184.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
 ];

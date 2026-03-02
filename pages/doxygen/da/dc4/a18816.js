@@ -1,7 +1,6 @@
 var a18816 =
 [
-    [ "HandleProc", "da/dc4/a18816.html#af06730a865009127c7d3e5423afd4d44", null ],
-    [ "PrepareAuraScript", "da/dc4/a18816.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
-    [ "Register", "da/dc4/a18816.html#a6c97b787ce00491a259c575d26189f8c", null ],
-    [ "Validate", "da/dc4/a18816.html#aed9c98e20d916359629e119d6dd2a94f", null ]
+    [ "npc_strangulate_vehicleAI", "d3/d86/a18820.html", "d3/d86/a18820" ],
+    [ "npc_strangulate_vehicle", "da/dc4/a18816.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
+    [ "GetAI", "da/dc4/a18816.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
 ];

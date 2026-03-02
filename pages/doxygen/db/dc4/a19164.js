@@ -1,5 +1,8 @@
 var a19164 =
 [
-    [ "at_icc_start_blood_quickening", "db/dc4/a19164.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
-    [ "OnTrigger", "db/dc4/a19164.html#a814670e127b1eace6068a553b23d00f7", null ]
+    [ "CountTargets", "db/dc4/a19164.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "db/dc4/a19164.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "db/dc4/a19164.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "db/dc4/a19164.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "db/dc4/a19164.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

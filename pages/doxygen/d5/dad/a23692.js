@@ -1,9 +1,9 @@
 var a23692 =
 [
-    [ "HandleEffectApply", "d5/dad/a23692.html#ac9e030810cc1ffb3927943353bcbb764", null ],
-    [ "HandleEffectRemove", "d5/dad/a23692.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
-    [ "Load", "d5/dad/a23692.html#a60f41c19f5104eef82048fd1e3416abd", null ],
-    [ "PrepareAuraScript", "d5/dad/a23692.html#a277d9865108acafac4b1a42bc5b5714b", null ],
-    [ "Register", "d5/dad/a23692.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
-    [ "_falconSet", "d5/dad/a23692.html#a1a20f75d251936bff7a0777831d79140", null ]
+    [ "boss_high_botanist_freywinn", "d5/dad/a23692.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
+    [ "JustDied", "d5/dad/a23692.html#a7b370482ea195d0305cba339ce0cbab3", null ],
+    [ "JustEngagedWith", "d5/dad/a23692.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
+    [ "KilledUnit", "d5/dad/a23692.html#a80a997e0d12c175da0a46d7362890b9c", null ],
+    [ "ResumeEncounter", "d5/dad/a23692.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
+    [ "SummonedCreatureDies", "d5/dad/a23692.html#a7f1a02d4b944191471f59ba728b6372e", null ]
 ];

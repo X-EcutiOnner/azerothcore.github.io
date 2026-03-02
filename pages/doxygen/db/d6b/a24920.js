@@ -1,11 +1,10 @@
 var a24920 =
 [
-    [ "spell_gen_relocaste_dest", "db/d6b/a24920.html#a5b839f3bd5571ff3b23701c0cd862568", null ],
-    [ "PrepareSpellScript", "db/d6b/a24920.html#a135638c19c130f43f7f3c3c14f1d1570", null ],
-    [ "Register", "db/d6b/a24920.html#a9fd403a48ac9cec79fdf4ac485bbaa6a", null ],
-    [ "RelocateDest", "db/d6b/a24920.html#a1efeb8d17fa6f7cfd9d098d7e97381d9", null ],
-    [ "_o", "db/d6b/a24920.html#a31ecfa99e580c8fb828c1a4ee988ac94", null ],
-    [ "_x", "db/d6b/a24920.html#aa0d6afcc49e6fa41b6ae37d16e0c25e5", null ],
-    [ "_y", "db/d6b/a24920.html#a0152bc47b5950546d9e9505512ed842b", null ],
-    [ "_z", "db/d6b/a24920.html#a40136ab0219829dfb0dcfe234aa73af7", null ]
+    [ "CalcAmount", "db/d6b/a24920.html#a182d563b0527e35ea641116a6a808aa8", null ],
+    [ "CalcPeriodic", "db/d6b/a24920.html#a542da5e81c75d56ad33152d54b5cac3a", null ],
+    [ "Load", "db/d6b/a24920.html#a45b2d3dee0d5e514d2351c3f3679e3d3", null ],
+    [ "PrepareAuraScript", "db/d6b/a24920.html#ac320eec2b8a3a7cc3820a49007710520", null ],
+    [ "Register", "db/d6b/a24920.html#a37181afac00639716ae2ce10d82ecb23", null ],
+    [ "UpdatePeriodic", "db/d6b/a24920.html#af4f971e2d5c2d2f4b1ced0e64e8c1871", null ],
+    [ "Validate", "db/d6b/a24920.html#a3a6c68e8918612745cfb35df84bf7d14", null ]
 ];

@@ -1,9 +1,9 @@
 var a00638 =
 [
-    [ "OutdoorPvP_hellfire_peninsula", "d0/dfa/a22730.html", "d0/dfa/a22730" ],
-    [ "AddSC_outdoorpvp_hp", "d1/daa/a00638.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
-    [ "HP_LANG_CAPTURE_A", "d1/daa/a00638.html#a642fe1233b764402bae812604b684442", null ],
-    [ "HP_LANG_CAPTURE_H", "d1/daa/a00638.html#a3ae9bb2c949b7f3c852ce2e4552d8ccd", null ],
-    [ "HP_LANG_LOSE_A", "d1/daa/a00638.html#a1b9adf9c71e549e4545c2e4eabe58dd5", null ],
-    [ "HP_LANG_LOSE_H", "d1/daa/a00638.html#ad62cd8f07ac98311202494985c6ae9c8", null ]
+    [ "ArenaTeamTest", "d4/d12/a29628.html", "d4/d12/a29628" ],
+    [ "ArenaTeamFilterTest", "d6/dc2/a29632.html", "d6/dc2/a29632" ],
+    [ "ArenaTeamWithType", "d1/daa/a00638.html#a9ce4d88bf97ee463db69de183769f18e", null ],
+    [ "TEST_F", "d1/daa/a00638.html#a37c0d226ff50c702fc70274ea77f1f09", null ],
+    [ "TEST_F", "d1/daa/a00638.html#a0f9cf98a51ec8c4db75724bf81ef8c7c", null ],
+    [ "TEST_F", "d1/daa/a00638.html#a03a46ff29d075ef3207bb12d9a539b5b", null ]
 ];

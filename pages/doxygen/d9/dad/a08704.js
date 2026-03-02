@@ -1,9 +1,16 @@
 var a08704 =
 [
-    [ "PetInfo", "d0/db4/a08708.html", "d0/db4/a08708" ],
-    [ "GetUnslottedHunterPet", "d9/dad/a08704.html#a4e0e22a135703c989976694a32912cbd", null ],
-    [ "CurrentPet", "d9/dad/a08704.html#a7a9f76452985abc65560773ac413208f", null ],
-    [ "MaxStabledPets", "d9/dad/a08704.html#a2a30270bbd396b7fa4e035429ff8d04e", null ],
-    [ "StabledPets", "d9/dad/a08704.html#a6bd064e692fff316581d08680b163026", null ],
-    [ "UnslottedPets", "d9/dad/a08704.html#a8e6f6e36722dd883e6df962a1e950346", null ]
+    [ "WorldLocation", "d9/dad/a08704.html#a424e67f5a820f3396ed6a02c3daa05fb", null ],
+    [ "WorldLocation", "d9/dad/a08704.html#a04d7814f5d846259c5af562ce856f468", null ],
+    [ "GetDebugInfo", "d9/dad/a08704.html#a0b3f13522d288dde484c70cbf8ef5fc5", null ],
+    [ "GetMapId", "d9/dad/a08704.html#a2682e56ae4f0ce4b517a8ba3cd2798b1", null ],
+    [ "GetWorldLocation", "d9/dad/a08704.html#a48cad9058b04a5108c4b99c7fd4d0bfe", null ],
+    [ "GetWorldLocation", "d9/dad/a08704.html#aa2623109f914fd8592f865545696d27b", null ],
+    [ "GetWorldLocation", "d9/dad/a08704.html#a75c59d33f5aac8da8eb9b8c5e2711acf", null ],
+    [ "GetWorldLocation", "d9/dad/a08704.html#aed21eb7d191b1e34ebd1456b427fbb2c", null ],
+    [ "GetWorldLocation", "d9/dad/a08704.html#abb5d3b7c89fa4a39d2486f2f943159e4", null ],
+    [ "SetMapId", "d9/dad/a08704.html#ac425c27c61ecc169fe3df61991011988", null ],
+    [ "WorldRelocate", "d9/dad/a08704.html#a7f014ec2469e93ffca3ec7bbd03b1606", null ],
+    [ "WorldRelocate", "d9/dad/a08704.html#adc762865d564319245ffc3363c080365", null ],
+    [ "m_mapId", "d9/dad/a08704.html#a88161a79f13aa3ab267096cfa8e5d0ed", null ]
 ];

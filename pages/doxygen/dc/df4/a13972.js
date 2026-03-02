@@ -1,6 +1,6 @@
 var a13972 =
 [
-    [ "npc_maredis_firestarAI", "dc/df4/a13972.html#ac2d4ed4b205146524dcf11585d65ae12", null ],
-    [ "sGossipHello", "dc/df4/a13972.html#a72790dc9525249a4b558c37c4a0bd03f", null ],
-    [ "sGossipSelect", "dc/df4/a13972.html#acefb2bc09fe8f7ad77d53ee6eb8bbb71", null ]
+    [ "instance_uldaman_InstanceMapScript", "dc/d4c/a13976.html", "dc/d4c/a13976" ],
+    [ "instance_uldaman", "dc/df4/a13972.html#a854807db729d15aa4a09aad051fe3bda", null ],
+    [ "GetInstanceScript", "dc/df4/a13972.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
 ];

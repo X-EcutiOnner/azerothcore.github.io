@@ -1,6 +1,6 @@
 var a17804 =
 [
-    [ "BloodboltHitCheck", "d1/d3d/a17804.html#a84873f1ec2c1e214e35d32954622e9af", null ],
-    [ "operator()", "d1/d3d/a17804.html#a1eddfd7bbea8def20dcc080413af6364", null ],
-    [ "_ai", "d1/d3d/a17804.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
+    [ "KnockIntoAir", "d1/d3d/a17804.html#a1f9fb1f258613ca6657abba26969961f", null ],
+    [ "PrepareSpellScript", "d1/d3d/a17804.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
+    [ "Register", "d1/d3d/a17804.html#a35a7758630c1769228fedff84ad929e8", null ]
 ];

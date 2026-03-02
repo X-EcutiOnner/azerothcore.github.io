@@ -1,6 +1,6 @@
 var a18572 =
 [
-    [ "OrderWhelpTargetSelector", "d8/d68/a18572.html#a5e433367ebbf88c6bb8fef9d43eafcfa", null ],
-    [ "operator()", "d8/d68/a18572.html#abf98b730a2b794012c28b61ab8bb6b6c", null ],
-    [ "_owner", "d8/d68/a18572.html#ae475da3cca3d6288ce7df0b84d59005e", null ]
+    [ "npc_spinestalkerAI", "d0/dd1/a18576.html", "d0/dd1/a18576" ],
+    [ "npc_spinestalker", "d8/d68/a18572.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
+    [ "GetAI", "d8/d68/a18572.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
 ];

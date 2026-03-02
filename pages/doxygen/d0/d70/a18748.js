@@ -1,6 +1,6 @@
 var a18748 =
 [
-    [ "ModDest", "d0/d70/a18748.html#a71638bdecb0f580dceff7858441056d8", null ],
-    [ "PrepareSpellScript", "d0/d70/a18748.html#a741227928e07585b156ec716ae8b13da", null ],
-    [ "Register", "d0/d70/a18748.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
+    [ "npc_raging_spiritAI", "d5/de4/a18752.html", "d5/de4/a18752" ],
+    [ "npc_raging_spirit", "d0/d70/a18748.html#ad1a580bd394adc8c58575b600c16f9db", null ],
+    [ "GetAI", "d0/d70/a18748.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
 ];

@@ -1,7 +1,7 @@
 var a16596 =
 [
-    [ "HandleDummy", "de/dcc/a16596.html#a96b430cb0546fb599da22cd675660187", null ],
-    [ "PrepareSpellScript", "de/dcc/a16596.html#ad0330cb78a330f05c18f33375f231fbc", null ],
-    [ "Register", "de/dcc/a16596.html#a70a36683a235dec6044a8a32f20c606c", null ],
-    [ "Validate", "de/dcc/a16596.html#affa7ccf869e98eacd3a153cc645d704e", null ]
+    [ "HandleScriptEffect", "de/dcc/a16596.html#a9582a8faa1b8ba973a76d651a7479348", null ],
+    [ "PrepareSpellScript", "de/dcc/a16596.html#a681102507df3aa365ee2e2f064be5e54", null ],
+    [ "Register", "de/dcc/a16596.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
+    [ "Validate", "de/dcc/a16596.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
 ];

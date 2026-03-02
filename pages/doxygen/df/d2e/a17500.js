@@ -1,7 +1,6 @@
 var a17500 =
 [
-    [ "npc_pos_icicle_triggerAI", "df/d2e/a17500.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
-    [ "UpdateAI", "df/d2e/a17500.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
-    [ "pInstance", "df/d2e/a17500.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
-    [ "timer", "df/d2e/a17500.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
+    [ "npc_pos_leaderAI", "da/d4b/a17504.html", "da/d4b/a17504" ],
+    [ "npc_pos_leader", "df/d2e/a17500.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
+    [ "GetAI", "df/d2e/a17500.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
 ];

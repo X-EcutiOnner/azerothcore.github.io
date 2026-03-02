@@ -1,8 +1,11 @@
 var a11144 =
 [
-    [ "MinimapPing", "d8/d4f/a11144.html#a846074f55e6224bf322b96c7bfe9e008", null ],
-    [ "Write", "d8/d4f/a11144.html#a94eb49e309ce83b04ccaf8f7e3e8bde7", null ],
-    [ "MapX", "d8/d4f/a11144.html#ab747a36a7dfefb0692e8c6abb1d161e2", null ],
-    [ "MapY", "d8/d4f/a11144.html#a2f8504ddba41dd09f69763d66331373b", null ],
-    [ "SourceGuid", "d8/d4f/a11144.html#abf5d5980b360cbf9332460b01d5816f5", null ]
+    [ "LFGJoin", "d8/d4f/a11144.html#a50c79bdef7393907673a328bc36ff8ae", null ],
+    [ "Read", "d8/d4f/a11144.html#a5eca5c5a528cf00f1e6aad99ce5386ed", null ],
+    [ "Achievements", "d8/d4f/a11144.html#a587e98d4a1c8ff0cacd459298a4193c8", null ],
+    [ "Comment", "d8/d4f/a11144.html#a3e12e650a1fa573aafd7c03abd970aff", null ],
+    [ "Needs", "d8/d4f/a11144.html#a313c16e84e2cd0b55551d16273e95917", null ],
+    [ "NoPartialClear", "d8/d4f/a11144.html#aad54be871d0978034fb69a464fd5b9df", null ],
+    [ "Roles", "d8/d4f/a11144.html#a5eaccbeb4fc8b21f5398e216589cb99b", null ],
+    [ "Slots", "d8/d4f/a11144.html#aa14a07716504723283ad80c6357cf53f", null ]
 ];

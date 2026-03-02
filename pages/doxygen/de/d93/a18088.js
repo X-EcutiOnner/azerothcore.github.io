@@ -1,6 +1,8 @@
 var a18088 =
 [
-    [ "IgbTeleportOnVictoryCheck", "de/d93/a18088.html#a29ee8cac93b9920e598da9205406e608", null ],
-    [ "operator()", "de/d93/a18088.html#acf85943e238179e911434358f1593be2", null ],
-    [ "_inst", "de/d93/a18088.html#a015353ecb66da16c697152b7ad3c527e", null ]
+    [ "HandlePeriodic", "de/d93/a18088.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "de/d93/a18088.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "de/d93/a18088.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "de/d93/a18088.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "de/d93/a18088.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

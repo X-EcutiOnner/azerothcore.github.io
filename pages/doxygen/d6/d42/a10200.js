@@ -1,12 +1,17 @@
 var a10200 =
 [
-    [ "RotateMovementGenerator", "d6/d42/a10200.html#a89a6559b4380210972e82c6ca6d5a9db", null ],
-    [ "Finalize", "d6/d42/a10200.html#afd7588c7877b116cc9626a774b89d584", null ],
-    [ "GetMovementGeneratorType", "d6/d42/a10200.html#a20677803edf5d93ceae3bf76ef426a81", null ],
-    [ "Initialize", "d6/d42/a10200.html#a18fea8760bb24912af9349a06ff7b596", null ],
-    [ "Reset", "d6/d42/a10200.html#a3e177762fcfc11ac47aa820b46b93ed0", null ],
-    [ "Update", "d6/d42/a10200.html#a0dc8600e3aa862a81735dfb927232e53", null ],
-    [ "m_direction", "d6/d42/a10200.html#a8717e890670d9f4e2ff66c0981d14aa6", null ],
-    [ "m_duration", "d6/d42/a10200.html#a2cb8d5fc3d26c24e62c7373f1ce49b13", null ],
-    [ "m_maxDuration", "d6/d42/a10200.html#a7cf10886bdd50ccbc5900b9229958e01", null ]
+    [ "ConfusedMovementGenerator", "d6/d42/a10200.html#a694dd083a1c01378e4877939f78309b8", null ],
+    [ "_InitSpecific", "d6/d42/a10200.html#aea922e45838ab8a9cfe1787f0f7c169c", null ],
+    [ "_InitSpecific", "d6/d42/a10200.html#a212665e4306ca335181c255573d30a06", null ],
+    [ "_InitSpecific", "d6/d42/a10200.html#af597e5c544e56c255b179a08290f4ccb", null ],
+    [ "DoFinalize", "d6/d42/a10200.html#a9e2a3f0e1a99436b33a883a1ac797f43", null ],
+    [ "DoFinalize", "d6/d42/a10200.html#a82c2458b43334f06cae1a91224753fd3", null ],
+    [ "DoFinalize", "d6/d42/a10200.html#ab18018803d8e194e9d2220eb8c6450ac", null ],
+    [ "DoInitialize", "d6/d42/a10200.html#a8f1e9d0e00517b0d7f88b4213fd25104", null ],
+    [ "DoReset", "d6/d42/a10200.html#a734a73ffa4008898a170b913aafce899", null ],
+    [ "DoUpdate", "d6/d42/a10200.html#a8703ba139d90194a481388a543a14de6", null ],
+    [ "GetMovementGeneratorType", "d6/d42/a10200.html#a3f0760b38745b9e065e069d6ad984d51", null ],
+    [ "i_nextMove", "d6/d42/a10200.html#ad36fe1fd2d07af01691a319c425dc92c", null ],
+    [ "i_nextMoveTime", "d6/d42/a10200.html#ad7b5bb65d55f6149e8df8cb4e2cdda50", null ],
+    [ "i_waypoints", "d6/d42/a10200.html#a02b83b879cc31fb1a0e2f90e97556ba1", null ]
 ];

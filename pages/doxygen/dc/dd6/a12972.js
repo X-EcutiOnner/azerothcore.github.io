@@ -1,9 +1,8 @@
 var a12972 =
 [
-    [ "npc_mc_core_houndAI", "dc/dd6/a12972.html#a9b07d662e32a342419a848ecd59d6391", null ],
-    [ "DamageTaken", "dc/dd6/a12972.html#aaf2b0ac9b723bb16bfaf8481165e6b4f", null ],
-    [ "Reset", "dc/dd6/a12972.html#a9f4b06230ae2e4fc2fe150eb9e9d1f12", null ],
-    [ "UpdateAI", "dc/dd6/a12972.html#aaba8ef0b33b9bb9acf74223ef0e9aaad", null ],
-    [ "instance", "dc/dd6/a12972.html#ab47451dfeff84c8467be2b76554df897", null ],
-    [ "serratedBiteTimer", "dc/dd6/a12972.html#a3a49df32c788497d3e82912d423683b7", null ]
+    [ "FilterTargets", "dc/dd6/a12972.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
+    [ "HandleScript", "dc/dd6/a12972.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
+    [ "PrepareSpellScript", "dc/dd6/a12972.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
+    [ "Register", "dc/dd6/a12972.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
+    [ "Validate", "dc/dd6/a12972.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
 ];

@@ -1,6 +1,10 @@
 var a21524 =
 [
-    [ "npc_warmage_coldarraAI", "d6/d83/a21528.html", "d6/d83/a21528" ],
-    [ "npc_warmage_coldarra", "d3/dc4/a21524.html#a358f8ab26991798ff076ac764cd7abe2", null ],
-    [ "GetAI", "d3/dc4/a21524.html#aa29181e0ad61b44eff685267f3231382", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "d3/dc4/a21524.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
+    [ "GotStinged", "d3/dc4/a21524.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
+    [ "JustEngagedWith", "d3/dc4/a21524.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
+    [ "Reset", "d3/dc4/a21524.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
+    [ "SpellHit", "d3/dc4/a21524.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
+    [ "UpdateAI", "d3/dc4/a21524.html#a21def23073eeec051c1c97a813e0ea84", null ],
+    [ "rebuff", "d3/dc4/a21524.html#ac83c25091fdd3c7876a88927b758261f", null ]
 ];

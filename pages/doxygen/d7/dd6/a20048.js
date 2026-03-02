@@ -1,8 +1,6 @@
 var a20048 =
 [
-    [ "go_celestial_planetarium_accessAI", "d7/dd6/a20048.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
-    [ "GossipHello", "d7/dd6/a20048.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
-    [ "UpdateAI", "d7/dd6/a20048.html#a9b2bfb74a12e3258476387fc78cde574", null ],
-    [ "_locked", "d7/dd6/a20048.html#a37f83dbbb05e461d613a4c38001f785c", null ],
-    [ "events", "d7/dd6/a20048.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
+    [ "CosmicSmashDamageEvent", "d7/dd6/a20048.html#a5c9606791b560d8be1825a9c73f2393e", null ],
+    [ "Execute", "d7/dd6/a20048.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
+    [ "_caster", "d7/dd6/a20048.html#ab7af2459d3962831812ee2362ee9de2b", null ]
 ];

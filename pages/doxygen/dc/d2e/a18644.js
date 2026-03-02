@@ -1,6 +1,6 @@
 var a18644 =
 [
-    [ "npc_tirion_fordringAI", "dc/d01/a18648.html", "dc/d01/a18648" ],
-    [ "npc_tirion_fordring_tft", "dc/d2e/a18644.html#a04036d958e7ac643c9ba8d9073bca404", null ],
-    [ "GetAI", "dc/d2e/a18644.html#a41dcfa415831091531cbf46e946f442d", null ]
+    [ "VileSpiritActivateEvent", "dc/d2e/a18644.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
+    [ "Execute", "dc/d2e/a18644.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
+    [ "_owner", "dc/d2e/a18644.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
 ];

@@ -1,16 +1,14 @@
 var a14296 =
 [
-    [ "boss_zuljin", "d8/d2d/a14296.html#a8acdf347d7f982c07614c89a101daae0", null ],
-    [ "EnterEvadeMode", "d8/d2d/a14296.html#a1b3da85aa5f4abac16256aa691d035a3", null ],
-    [ "EnterPhase", "d8/d2d/a14296.html#ae9970dba905b947a22c4ddf36bdcb656", null ],
-    [ "GetGUID", "d8/d2d/a14296.html#a29548891ef8efaa5d6baa384e7b9000a", null ],
-    [ "JustDied", "d8/d2d/a14296.html#a2e00e8311c0463a37de87668882ffeec", null ],
-    [ "JustEngagedWith", "d8/d2d/a14296.html#ab6854461a5116e94c9f0ca971a3f89ef", null ],
-    [ "KilledUnit", "d8/d2d/a14296.html#adf220cb760b77cfd09ed746705529064", null ],
-    [ "MovementInform", "d8/d2d/a14296.html#a61501941861f8838392fc8cdbe59feff", null ],
-    [ "Reset", "d8/d2d/a14296.html#a2fe7c0338eb4698cc0aae252f4b14f02", null ],
-    [ "SpawnAdds", "d8/d2d/a14296.html#a83eb0799a25f19eedddd96e609134778", null ],
-    [ "SpellHitTarget", "d8/d2d/a14296.html#aab3558edc5b90be23040077d88e21725", null ],
-    [ "_chargeTargetGUID", "d8/d2d/a14296.html#a3b26fe2e82019ea5ce110d2d0a78f47e", null ],
-    [ "_nextPhase", "d8/d2d/a14296.html#a4fc9983cb34313affa56c243a4164a4a", null ]
+    [ "boss_hexlord_malacrass", "d8/d2d/a14296.html#aaf3fdf0b34904d1c5798ebcc291cdcde", null ],
+    [ "JustEngagedWith", "d8/d2d/a14296.html#ac5af0a5ec11ab8529e74a1ea7f0b4b66", null ],
+    [ "KilledUnit", "d8/d2d/a14296.html#a69e7a3aa2cb068706651bad34363099f", null ],
+    [ "Reset", "d8/d2d/a14296.html#af00159c9e2c54033f52f46d60881f22e", null ],
+    [ "ScheduleClassAbility", "d8/d2d/a14296.html#aefffbab821a4abb4ab0e6779ba73d5ac", null ],
+    [ "SpawnAdds", "d8/d2d/a14296.html#a8ffb01ebe267b4eb935e373bd0d99eed", null ],
+    [ "UseAbility", "d8/d2d/a14296.html#afdad8cc36235f11dc5c4b4f579f5b46b", null ],
+    [ "_classAbilityTimer", "d8/d2d/a14296.html#a40ccd2e586895ab1cde3c51bcd56c11b", null ],
+    [ "_creatureIndex", "d8/d2d/a14296.html#ac13b0f08fec4270ed372f00ae540fdc3", null ],
+    [ "_currentClass", "d8/d2d/a14296.html#ab7e531fccbb486b7b429d77d804841c2", null ],
+    [ "_timeUntilNextDrainPower", "d8/d2d/a14296.html#aa6963eb30a6e8555d4695bf284b13cac", null ]
 ];

@@ -1,8 +1,11 @@
 var a18628 =
 [
-    [ "NecroticPlagueTargetCheck", "d9/d7a/a18628.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
-    [ "operator()", "d9/d7a/a18628.html#a801a176e367a9f4446fe080845477654", null ],
-    [ "_notAura1", "d9/d7a/a18628.html#a4f52417f233e1ab06210726670f719f3", null ],
-    [ "_notAura2", "d9/d7a/a18628.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
-    [ "_sourceObj", "d9/d7a/a18628.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
+    [ "NonTankLKTargetSelector", "d9/d7a/a18628.html#a41c5372505c0c74e93f2c583a0259777", null ],
+    [ "operator()", "d9/d7a/a18628.html#a2e496088092b9885f8e2391c2df91993", null ],
+    [ "_exclude1", "d9/d7a/a18628.html#abe4e56597fa2918b15a003413887ac71", null ],
+    [ "_exclude2", "d9/d7a/a18628.html#a6aa63c93c4e68998f621349760d9ab43", null ],
+    [ "_maxDist", "d9/d7a/a18628.html#ac7e28c908079fbd2e1ca5374731d521e", null ],
+    [ "_playerOnly", "d9/d7a/a18628.html#a5ab89af79aa4840c9a024996a848540c", null ],
+    [ "_reqLOS", "d9/d7a/a18628.html#a61966d6b825f25b6bbf589676cef19f9", null ],
+    [ "_source", "d9/d7a/a18628.html#a86e3ebd2425b76103df7413b5ed4af70", null ]
 ];

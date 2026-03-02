@@ -1,7 +1,12 @@
 var a18820 =
 [
-    [ "OnPeriodic", "d3/d86/a18820.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
-    [ "PrepareAuraScript", "d3/d86/a18820.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
-    [ "Register", "d3/d86/a18820.html#a0fc7ca43a0d82058fc04277742231388", null ],
-    [ "Validate", "d3/d86/a18820.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
+    [ "npc_strangulate_vehicleAI", "d3/d86/a18820.html#a58e79834ed3f463ad51eca703d1c99ef", null ],
+    [ "DoAction", "d3/d86/a18820.html#acf9d5a9e2f8b07f5ceb5ca75634e58fb", null ],
+    [ "IsHeroic", "d3/d86/a18820.html#adb6ae2cefeec245196d21dc1112b2d5c", null ],
+    [ "IsSummonedBy", "d3/d86/a18820.html#a381aec40cdcdf546d70b57a43978dbe9", null ],
+    [ "OnCharmed", "d3/d86/a18820.html#a40e5537897c452d35093920ddd3669b0", null ],
+    [ "PassengerBoarded", "d3/d86/a18820.html#a819746e13af95fa964c6da3d765a7c21", null ],
+    [ "UpdateAI", "d3/d86/a18820.html#a53f567b77b7dfd0ccb5a0d98c0f5ef26", null ],
+    [ "_events", "d3/d86/a18820.html#a19b493e994d246128f63d9109e87737a", null ],
+    [ "_instance", "d3/d86/a18820.html#a7a16fbe4723a95293db01d3a2d80b569", null ]
 ];

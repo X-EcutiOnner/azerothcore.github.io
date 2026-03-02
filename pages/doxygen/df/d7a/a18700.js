@@ -1,7 +1,6 @@
 var a18700 =
 [
-    [ "CheckTargetCount", "df/d7a/a18700.html#a637ba0717ae0f6f736f5532ed65ca301", null ],
-    [ "PrepareSpellScript", "df/d7a/a18700.html#af560e5c4e985e9b139999f5ef618fe3c", null ],
-    [ "Register", "df/d7a/a18700.html#a86e7512496fd38201d458c03a7a60296", null ],
-    [ "Validate", "df/d7a/a18700.html#a744c4aa76387be4aa76a69fbcaa7932e", null ]
+    [ "npc_shambling_horror_iccAI", "df/d34/a18704.html", "df/d34/a18704" ],
+    [ "npc_shambling_horror_icc", "df/d7a/a18700.html#a68219e0c6e79f5e7bed1f353d7bb5bcb", null ],
+    [ "GetAI", "df/d7a/a18700.html#a96fd525fcb34e793b1fc3fc5179e92ec", null ]
 ];

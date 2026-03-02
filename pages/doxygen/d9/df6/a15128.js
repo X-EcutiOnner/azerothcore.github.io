@@ -1,7 +1,6 @@
 var a15128 =
 [
-    [ "hyjalTyrandeAI", "d1/de6/a15132.html", "d1/de6/a15132" ],
-    [ "npc_hyjal_tyrande", "d9/df6/a15128.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
-    [ "GetAI", "d9/df6/a15128.html#a2f863e616352a98763eef9a717d73388", null ],
-    [ "OnGossipSelect", "d9/df6/a15128.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
+    [ "OnRemove", "d9/df6/a15128.html#af9da33426d8ea4462f7d9957c4312019", null ],
+    [ "PrepareAuraScript", "d9/df6/a15128.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
+    [ "Register", "d9/df6/a15128.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
 ];

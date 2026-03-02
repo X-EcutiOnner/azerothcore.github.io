@@ -1,6 +1,7 @@
 var a16840 =
 [
-    [ "npc_toc_priestAI", "d5/d88/a16844.html", "d5/d88/a16844" ],
-    [ "npc_toc_priest", "d0/d7a/a16840.html#a0e360a2cc053434d2f76826683da8eee", null ],
-    [ "GetAI", "d0/d7a/a16840.html#a6056a81bef962a02537d525f07d1c302", null ]
+    [ "HandleEffectPeriodic", "d0/d7a/a16840.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
+    [ "PrepareAuraScript", "d0/d7a/a16840.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
+    [ "Register", "d0/d7a/a16840.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
+    [ "Validate", "d0/d7a/a16840.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
 ];

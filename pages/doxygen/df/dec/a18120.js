@@ -1,7 +1,6 @@
 var a18120 =
 [
-    [ "HandleDummy", "df/dec/a18120.html#a6e5d70c35420384305d7faf991072b38", null ],
-    [ "PrepareSpellScript", "df/dec/a18120.html#a64f912555853aab5693692b22eba52c4", null ],
-    [ "Register", "df/dec/a18120.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
-    [ "Validate", "df/dec/a18120.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
+    [ "IgbTeleportOnVictoryCheck", "df/dec/a18120.html#a29ee8cac93b9920e598da9205406e608", null ],
+    [ "operator()", "df/dec/a18120.html#acf85943e238179e911434358f1593be2", null ],
+    [ "_inst", "df/dec/a18120.html#a015353ecb66da16c697152b7ad3c527e", null ]
 ];

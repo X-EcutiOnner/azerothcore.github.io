@@ -1,6 +1,6 @@
 var a15016 =
 [
-    [ "HandleTriggerSpell", "de/da1/a15016.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
-    [ "PrepareSpellScript", "de/da1/a15016.html#a76a070da8e719198463010499f595599", null ],
-    [ "Register", "de/da1/a15016.html#ae237c4972167a5a17b59800983496a9d", null ]
+    [ "HandleDummy", "de/da1/a15016.html#aa75140309e66c28590a64e10676356da", null ],
+    [ "PrepareSpellScript", "de/da1/a15016.html#a21c4872e16c18c2918dfbea366e61df3", null ],
+    [ "Register", "de/da1/a15016.html#a841c9277224cbae878946deb288b87a1", null ]
 ];

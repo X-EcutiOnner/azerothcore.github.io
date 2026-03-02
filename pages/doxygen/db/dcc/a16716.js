@@ -1,6 +1,7 @@
 var a16716 =
 [
-    [ "npc_toc5_player_vehicleAI", "d5/d33/a16720.html", "d5/d33/a16720" ],
-    [ "npc_toc5_player_vehicle", "db/dcc/a16716.html#a8786627999d3d1681d9de58cd8c46744", null ],
-    [ "GetAI", "db/dcc/a16716.html#af89c559eff828130df821c0c30c61f7a", null ]
+    [ "HandleAfterEffectAbsorb", "db/dcc/a16716.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "db/dcc/a16716.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "db/dcc/a16716.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "db/dcc/a16716.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

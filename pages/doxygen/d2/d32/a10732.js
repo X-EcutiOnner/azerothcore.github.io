@@ -1,5 +1,6 @@
 var a10732 =
 [
-    [ "LogoutComplete", "d2/d32/a10732.html#a94f3ea0cd30d1eb44733c1c5aef05ec7", null ],
-    [ "Write", "d2/d32/a10732.html#a0d958bc07b674ed3339833351fec7d3a", null ]
+    [ "GetEvent", "d2/d32/a10732.html#aabf338a9824038abbd0934a3bef0a269", null ],
+    [ "Read", "d2/d32/a10732.html#a344db9b28e7247dc0285a3468a789721", null ],
+    [ "EventId", "d2/d32/a10732.html#a31de21c2af87d174d139eef870cbb5fd", null ]
 ];

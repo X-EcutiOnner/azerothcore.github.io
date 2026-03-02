@@ -1,7 +1,5 @@
 var a24228 =
 [
-    [ "HandlePeriodic", "d7/d18/a24228.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
-    [ "PrepareAuraScript", "d7/d18/a24228.html#a58dc6668172d046cef3046649928c124", null ],
-    [ "Register", "d7/d18/a24228.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
-    [ "Validate", "d7/d18/a24228.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
+    [ "npc_shattrath_daily_quest", "d7/d18/a24228.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "d7/d18/a24228.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

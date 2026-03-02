@@ -1,8 +1,8 @@
 var a27296 =
 [
-    [ "CheckProc", "da/dde/a27296.html#a6abcfe33cfddde117eb9d19bdf834c3f", null ],
-    [ "HandleProc", "da/dde/a27296.html#a4ee92efd0a312f7b5b4e0e19184cd085", null ],
-    [ "PrepareAuraScript", "da/dde/a27296.html#ac45288980b444c92daecc1392a2cd38c", null ],
-    [ "Register", "da/dde/a27296.html#ac93280657ee8d64aced09b95dac270d4", null ],
-    [ "Validate", "da/dde/a27296.html#ad7b22c7da5d72a392d342624c46b456b", null ]
+    [ "HandleRootRemove", "da/dde/a27296.html#a9678ce2254825b67eb7a16312e960ba9", null ],
+    [ "HandleSnareRemove", "da/dde/a27296.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
+    [ "PrepareSpellScript", "da/dde/a27296.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
+    [ "Register", "da/dde/a27296.html#a119675dccea898932ca090577022b6ba", null ],
+    [ "Validate", "da/dde/a27296.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
 ];

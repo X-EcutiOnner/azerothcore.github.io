@@ -1,6 +1,7 @@
 var a21220 =
 [
-    [ "boss_toravonAI", "d4/d0c/a21224.html", "d4/d0c/a21224" ],
-    [ "boss_toravon", "df/dab/a21220.html#abd30a86924bd7dd9474b5df16f3a8d8d", null ],
-    [ "GetAI", "df/dab/a21220.html#a6db140b1d232312300e20155830cb249", null ]
+    [ "HandlePeriodicDummy", "df/dab/a21220.html#a295f37cddccc696d450a0c4380d43c29", null ],
+    [ "PrepareAuraScript", "df/dab/a21220.html#a9453aa189ba53de3d89bbab183927cfc", null ],
+    [ "Register", "df/dab/a21220.html#a1ca87e8523c020a9e4e0970c68957c14", null ],
+    [ "Validate", "df/dab/a21220.html#a475480c072aaccde7b00cf28aedff3ec", null ]
 ];

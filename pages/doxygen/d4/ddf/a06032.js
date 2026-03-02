@@ -1,9 +1,7 @@
 var a06032 =
 [
-    [ "itemId", "d4/ddf/a06032.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
-    [ "mailTemplate", "d4/ddf/a06032.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
-    [ "sender", "d4/ddf/a06032.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
-    [ "subject", "d4/ddf/a06032.html#a45644f308278529f822080f8274180d8", null ],
-    [ "text", "d4/ddf/a06032.html#a4d57dcb4d130552f5bf756308d79307c", null ],
-    [ "titleId", "d4/ddf/a06032.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
+    [ "ToString", "d4/ddf/a06032.html#a252569604d54dedfbe28b320911aa7b7", null ],
+    [ "ToString", "d4/ddf/a06032.html#ab114258f0dc260983aceea6ca63c1a5c", null ],
+    [ "ToString", "d4/ddf/a06032.html#a61c3f0b723ff92ab388b5cd27cea3151", null ],
+    [ "data", "d4/ddf/a06032.html#ac0fb35a34d9ef399f00ab0bb146afd18", null ]
 ];

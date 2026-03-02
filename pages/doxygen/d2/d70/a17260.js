@@ -1,6 +1,8 @@
 var a17260 =
 [
-    [ "boss_marwynAI", "d6/dba/a17264.html", "d6/dba/a17264" ],
-    [ "boss_marwyn", "d2/d70/a17260.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
-    [ "GetAI", "d2/d70/a17260.html#af1c83878d2121163994bc327ae8e04f7", null ]
+    [ "npc_fos_leaderAI", "d2/d70/a17260.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
+    [ "DoAction", "d2/d70/a17260.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
+    [ "Reset", "d2/d70/a17260.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
+    [ "UpdateAI", "d2/d70/a17260.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
+    [ "events", "d2/d70/a17260.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
 ];

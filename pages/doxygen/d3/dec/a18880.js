@@ -1,7 +1,6 @@
 var a18880 =
 [
-    [ "ValithriaDespawner", "d3/dec/a18880.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
-    [ "Execute", "d3/dec/a18880.html#a4f8c63f52996da14078a7196cae3a00d", null ],
-    [ "operator()", "d3/dec/a18880.html#a05bae39d642f294f2ef98151d66ba382", null ],
-    [ "_creature", "d3/dec/a18880.html#a64bf6181ad867efd987edec141ca3bf0", null ]
+    [ "npc_lk_wicked_spiritAI", "d4/d0c/a18884.html", "d4/d0c/a18884" ],
+    [ "npc_lk_wicked_spirit", "d3/dec/a18880.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
+    [ "GetAI", "d3/dec/a18880.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
 ];

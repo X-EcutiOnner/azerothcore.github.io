@@ -1,5 +1,5 @@
 var a20620 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_11", "d4/db5/a20620.html#a5d8980111e029b4c9311737f3985ab61", null ],
-    [ "OnCheck", "d4/db5/a20620.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
+    [ "go_ulduar_do_not_push_this_button", "d4/db5/a20620.html#aa204af213a643c001161e0c2f173ee6b", null ],
+    [ "OnGossipHello", "d4/db5/a20620.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
 ];

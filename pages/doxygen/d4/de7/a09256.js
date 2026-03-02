@@ -1,8 +1,10 @@
 var a09256 =
 [
-    [ "DungeonEncounter", "d4/de7/a09256.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
-    [ "creditEntry", "d4/de7/a09256.html#a700a0792973678339f33ab85e7396918", null ],
-    [ "creditType", "d4/de7/a09256.html#a66a077e193f099bb7aef363dc75672d6", null ],
-    [ "dbcEntry", "d4/de7/a09256.html#a262bdd0ba443739456fc14bcad83ecda", null ],
-    [ "lastEncounterDungeon", "d4/de7/a09256.html#a67e29b891887e339dbb40515d082e781", null ]
+    [ "Flags", "d4/de7/a09256.html#a5292a64de662f608915844d58199542f", null ],
+    [ "Icon", "d4/de7/a09256.html#ab7460f125e05509baf9331e424b8bacf", null ],
+    [ "ID", "d4/de7/a09256.html#a94b184ecd7c82419fa6d59a59c1d95da", null ],
+    [ "Importance", "d4/de7/a09256.html#a623d8bdc2bf5eea161466340ae8e3cd1", null ],
+    [ "Name", "d4/de7/a09256.html#a45c6eb50f0d56bbdabd6c3b3469c607c", null ],
+    [ "PositionX", "d4/de7/a09256.html#a561763556f1ac77e988c350c37a3a0a1", null ],
+    [ "PositionY", "d4/de7/a09256.html#abec7b2b3e649263f0b963f3fedef60fe", null ]
 ];

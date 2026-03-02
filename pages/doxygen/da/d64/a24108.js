@@ -1,5 +1,6 @@
 var a24108 =
 [
-    [ "npc_karynaku", "da/d64/a24108.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
-    [ "OnQuestAccept", "da/d64/a24108.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
+    [ "npc_mature_netherwing_drakeAI", "dc/d79/a24112.html", "dc/d79/a24112" ],
+    [ "npc_mature_netherwing_drake", "da/d64/a24108.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
+    [ "GetAI", "da/d64/a24108.html#ac5a1dad24920396156f22ab02bfab84b", null ]
 ];

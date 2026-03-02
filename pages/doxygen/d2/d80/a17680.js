@@ -1,6 +1,5 @@
 var a17680 =
 [
-    [ "boss_prince_kelesethAI", "d7/de7/a17684.html", "d7/de7/a17684" ],
-    [ "boss_prince_keleseth_icc", "d2/d80/a17680.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
-    [ "GetAI", "d2/d80/a17680.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
+    [ "achievement_less_rabi", "d2/d80/a17680.html#aee43dd7623f7fecc20a0acb15f342a99", null ],
+    [ "OnCheck", "d2/d80/a17680.html#a16b200bf93fa2571c8b31359ad7ca151", null ]
 ];

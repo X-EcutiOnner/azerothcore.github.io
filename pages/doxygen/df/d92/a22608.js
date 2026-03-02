@@ -1,7 +1,5 @@
 var a22608 =
 [
-    [ "HandleOnHit", "df/d92/a22608.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
-    [ "PrepareSpellScript", "df/d92/a22608.html#a734b735c7e87938bff185be91f9de6e8", null ],
-    [ "Register", "df/d92/a22608.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
-    [ "Validate", "df/d92/a22608.html#a162f60784fdec6b748151e5c2a7ed257", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "df/d92/a22608.html#a037ee225b626b64436570680ae4e9ea0", null ],
+    [ "ProcessEvent", "df/d92/a22608.html#aba05b0edb57e6c42bd45593a51598365", null ]
 ];

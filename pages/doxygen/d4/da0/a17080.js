@@ -1,6 +1,5 @@
 var a17080 =
 [
-    [ "boss_dredAI", "dc/dd2/a17084.html", "dc/dd2/a17084" ],
-    [ "boss_dred", "d4/da0/a17080.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
-    [ "GetAI", "d4/da0/a17080.html#ab8276b185f80a92a54327ea28b19c704", null ]
+    [ "npc_essence_of_twin", "d4/da0/a17080.html#a019de64e5e01e611acfda5db4c279b19", null ],
+    [ "OnGossipHello", "d4/da0/a17080.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
 ];

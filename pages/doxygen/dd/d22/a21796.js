@@ -1,8 +1,6 @@
 var a21796 =
 [
-    [ "AfterApply", "dd/d22/a21796.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
-    [ "PeriodicTick", "dd/d22/a21796.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
-    [ "PrepareAuraScript", "dd/d22/a21796.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
-    [ "Register", "dd/d22/a21796.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
-    [ "Validate", "dd/d22/a21796.html#a946248656cb755f85dd93fd4d607c9a7", null ]
+    [ "npc_spiritual_insightAI", "d6/dd8/a21800.html", "d6/dd8/a21800" ],
+    [ "npc_spiritual_insight", "dd/d22/a21796.html#afe7b9d5953462719407f03b33b8de564", null ],
+    [ "GetAI", "dd/d22/a21796.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
 ];

@@ -1,6 +1,7 @@
 var a17424 =
 [
-    [ "boss_ickAI", "db/dca/a17428.html", "db/dca/a17428" ],
-    [ "boss_ick", "d3/d9d/a17424.html#af97d7f96bc48ba245e28c18614b9369e", null ],
-    [ "GetAI", "d3/d9d/a17424.html#a355285766712a31b704c23fe85d19e5f", null ]
+    [ "HandleEffectPeriodic", "d3/d9d/a17424.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
+    [ "PrepareAuraScript", "d3/d9d/a17424.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
+    [ "Register", "d3/d9d/a17424.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
+    [ "Validate", "d3/d9d/a17424.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
 ];

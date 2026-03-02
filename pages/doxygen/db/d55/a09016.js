@@ -1,9 +1,6 @@
 var a09016 =
 [
-    [ "TransportBase", "db/d55/a09016.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
-    [ "~TransportBase", "db/d55/a09016.html#a81dca3435a1a1666a90acd8e154e3287", null ],
-    [ "CalculatePassengerOffset", "db/d55/a09016.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
-    [ "CalculatePassengerOffset", "db/d55/a09016.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
-    [ "CalculatePassengerPosition", "db/d55/a09016.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
-    [ "CalculatePassengerPosition", "db/d55/a09016.html#a328fbc464c56eca89138380182a0108c", null ]
+    [ "BuildValuesCachedBuffer", "db/d55/a09016.html#a87a3167ae060c8556700e4a137294053", null ],
+    [ "buffer", "db/d55/a09016.html#add7150533a48434b0e606add9cff04d2", null ],
+    [ "posPointers", "db/d55/a09016.html#affa098684782f15383a7df063b178cf1", null ]
 ];

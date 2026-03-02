@@ -1,10 +1,9 @@
 var a08844 =
 [
-    [ "PlayerSetting", "d7/dc3/a08844.html#a77d1fb11aa0039bbdae3ccc523f391ea", null ],
-    [ "PlayerSetting", "d7/dc3/a08844.html#a93a30a0d6104bdda8fd9b5778179a353", null ],
-    [ "AddFlag", "d7/dc3/a08844.html#a1e81343732cd86cdf9974a1d96b73ba7", null ],
-    [ "HasFlag", "d7/dc3/a08844.html#af6e3149ff40b6b4ea2310b5c3254fce0", null ],
-    [ "IsEnabled", "d7/dc3/a08844.html#a3621021d9c0c41c08b6300cd5dfcaf71", null ],
-    [ "RemoveFlag", "d7/dc3/a08844.html#a4ca3645233a466345d6be217d7a0df2b", null ],
-    [ "value", "d7/dc3/a08844.html#a74592e45f8ae4c5f411a982227f809f3", null ]
+    [ "EntryPointData", "d7/dc3/a08844.html#a1852523ba9ca889cdd6731c63de759e2", null ],
+    [ "ClearTaxiPath", "d7/dc3/a08844.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
+    [ "HasTaxiPath", "d7/dc3/a08844.html#afd310b2f367ec7df76f01689ea120e6e", null ],
+    [ "joinPos", "d7/dc3/a08844.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
+    [ "mountSpell", "d7/dc3/a08844.html#a06e1cadac24a2ab90e57373692f829dc", null ],
+    [ "taxiPath", "d7/dc3/a08844.html#a5af670fa420b250c22e0f3237e753a6f", null ]
 ];

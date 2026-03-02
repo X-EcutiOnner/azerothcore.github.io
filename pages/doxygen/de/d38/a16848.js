@@ -1,6 +1,21 @@
 var a16848 =
 [
-    [ "npc_toc_shadow_priestAI", "d1/d22/a16852.html", "d1/d22/a16852" ],
-    [ "npc_toc_shadow_priest", "de/d38/a16848.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
-    [ "GetAI", "de/d38/a16848.html#a93b38d23759da3b7417dbb94b4a951da", null ]
+    [ "boss_faction_championsAI", "de/d38/a16848.html#aec4455c8bdd8d0629b9c3f17178818b6", null ],
+    [ "AttackStart", "de/d38/a16848.html#a465492574894303cbce6df2107b87252", null ],
+    [ "EnemiesInRange", "de/d38/a16848.html#acbb166d6ac50f11eae591ddf1dbba917", null ],
+    [ "EnterEvadeMode", "de/d38/a16848.html#a81f01bf15e7d7d647fa01da165ee0896", null ],
+    [ "EventMapGCD", "de/d38/a16848.html#ad5d17a7895d0c92f8c63fe5689564569", null ],
+    [ "GetThreatMod", "de/d38/a16848.html#aae5bc496f0f17c2167dd8a47c8ae40cd", null ],
+    [ "IsCCed", "de/d38/a16848.html#a6df04b369e7a85e6779228f8a7657ba7", null ],
+    [ "JustDied", "de/d38/a16848.html#aa8976d148ac4882063787f144ebeeea8", null ],
+    [ "JustEngagedWith", "de/d38/a16848.html#a3c8e2e446e6325597f1687201698a2c6", null ],
+    [ "KilledUnit", "de/d38/a16848.html#ac49f6c9994484a6d905362fd66ccf81e", null ],
+    [ "RecalculateThreat", "de/d38/a16848.html#a435b28bf38824d8b36bc6cf105d2dcf2", null ],
+    [ "SelectEnemyCaster", "de/d38/a16848.html#a81a318b636472e15624d01ecf3be65fb", null ],
+    [ "SelectTarget_MostHPLostFriendlyMissingBuff", "de/d38/a16848.html#aea6f9e045fb3866cef15d890f63766d8", null ],
+    [ "UpdateAI", "de/d38/a16848.html#a6c93329b33c0fa469b04622cff1aa517", null ],
+    [ "mAIType", "de/d38/a16848.html#acff880f98ff81d25d02224931fe8ff93", null ],
+    [ "pInstance", "de/d38/a16848.html#a546bff05f2ca0e8e4c8371bfd4d6ed79", null ],
+    [ "powerTimer", "de/d38/a16848.html#a38394cc3ee369fb5bb580d3702792604", null ],
+    [ "threatTimer", "de/d38/a16848.html#a6aa684c94874d3a3bcd7150b0d7cd04b", null ]
 ];

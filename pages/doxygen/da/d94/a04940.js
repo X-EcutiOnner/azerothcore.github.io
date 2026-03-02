@@ -1,11 +1,14 @@
 var a04940 =
 [
-    [ "IoContext", "da/d94/a04940.html#a6ba4b629a3704fcb5d110a71f09900be", null ],
-    [ "IoContext", "da/d94/a04940.html#a8dc945d02df9d28f3dda6c17f1c91502", null ],
-    [ "get_executor", "da/d94/a04940.html#aa642c9d6e49d2396c267c6fc404b2a6b", null ],
-    [ "operator IoContextBaseNamespace::IoContextBase &", "da/d94/a04940.html#a51e3067d9ba9b0b4a557a7e586b1ef91", null ],
-    [ "operator IoContextBaseNamespace::IoContextBase const &", "da/d94/a04940.html#af4aa281948ab71b76bc8f66b735425b3", null ],
-    [ "run", "da/d94/a04940.html#a086cd2ed56d61cf1ec0dbfdec16c50fe", null ],
-    [ "stop", "da/d94/a04940.html#a1165b11f60d138d56eba43657fc299cd", null ],
-    [ "_impl", "da/d94/a04940.html#a22cdb3c45a6dbacb13f90f654bc0c65d", null ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "da/d94/a04940.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "isHole", "da/d94/a04940.html#a3a7e248f31dc8d832dc118d469a98bd4", null ],
+    [ "holetab_h", "da/d94/a04940.html#a7424dd5c858116f845a676e31fe5ae5d", null ],
+    [ "holetab_v", "da/d94/a04940.html#a2b1bf69bcdb58ff1605821d486da3acb", null ],
+    [ "MCINMagic", "da/d94/a04940.html#a6f946547b65d321100fd6efa2966180c", null ],
+    [ "MCLQMagic", "da/d94/a04940.html#a35ae9924cb4e3ad0020167b89d5ea86f", null ],
+    [ "MCNKMagic", "da/d94/a04940.html#aa2d85d3b667d3755f6f7a993e60c574b", null ],
+    [ "MCVTMagic", "da/d94/a04940.html#a32010e610a970d3891ae5effca03de37", null ],
+    [ "MFBOMagic", "da/d94/a04940.html#a329d005a0989137286469e197dc0c812", null ],
+    [ "MH2OMagic", "da/d94/a04940.html#aaeaf747e4bc5c25257f9e0ef1153b5a7", null ],
+    [ "MHDRMagic", "da/d94/a04940.html#ac97bd684dd5bacba0e790f355a3bdddf", null ]
 ];

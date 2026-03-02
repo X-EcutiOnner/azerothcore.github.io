@@ -1,6 +1,6 @@
 var a17156 =
 [
-    [ "HandleScriptEffect", "de/d5d/a17156.html#a90b13b2a093fdd430a383d7ea4126290", null ],
-    [ "PrepareSpellScript", "de/d5d/a17156.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
-    [ "Register", "de/d5d/a17156.html#a53c8d47ee21637055ad901946be1e2c2", null ]
+    [ "boss_tharon_jaAI", "d1/d17/a17160.html", "d1/d17/a17160" ],
+    [ "boss_tharon_ja", "de/d5d/a17156.html#ac34f8f33ea75dc0107222d3720788f7a", null ],
+    [ "GetAI", "de/d5d/a17156.html#ab24612418cb66ed0c1e64fba5ebaa50f", null ]
 ];

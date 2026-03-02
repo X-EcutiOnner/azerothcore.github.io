@@ -1,4 +1,4 @@
 var a00785 =
 [
-    [ "OutdoorPvPScript", "d5/d4a/a10493.html", "d5/d4a/a10493" ]
+    [ "ScriptRegistry< ServerScript >", "d3/d00/a00785.html#ab647e167a3a2438bcbf1e445e37a9747", null ]
 ];

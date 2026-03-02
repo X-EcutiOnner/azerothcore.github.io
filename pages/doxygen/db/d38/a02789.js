@@ -1,80 +1,28 @@
 var a02789 =
 [
-    [ "boss_eadric", "d8/dce/a16640.html", "d8/dce/a16640" ],
-    [ "boss_eadric::boss_eadricAI", "d7/d4e/a16644.html", "d7/d4e/a16644" ],
-    [ "boss_paletress", "dd/d91/a16648.html", "dd/d91/a16648" ],
-    [ "boss_paletress::boss_paletressAI", "d4/d21/a16652.html", "d4/d21/a16652" ],
-    [ "npc_memory", "d9/d6e/a16656.html", "d9/d6e/a16656" ],
-    [ "npc_memory::npc_memoryAI", "d4/d9f/a16660.html", "d4/d9f/a16660" ],
-    [ "npc_argent_soldier", "d5/da9/a16664.html", "d5/da9/a16664" ],
-    [ "npc_argent_soldier::npc_argent_soldierAI", "d7/dd9/a16668.html", "d7/dd9/a16668" ],
-    [ "spell_eadric_radiance", "db/d20/a16672.html", "db/d20/a16672" ],
-    [ "spell_toc5_light_rain", "d9/d33/a16676.html", "d9/d33/a16676" ],
-    [ "spell_reflective_shield_aura", "d1/df1/a16680.html", "d1/df1/a16680" ],
-    [ "ArgentSoldierEvents", "db/d38/a02789.html#a4cb3329c1e0874ec8b64f8b25da2b0d8", [
-      [ "EVENT_MONK_SPELL_FLURRY_OF_BLOWS", "db/d38/a02789.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a95f65e897bf3033957c92991c57edaf0", null ],
-      [ "EVENT_MONK_SPELL_PUMMEL", "db/d38/a02789.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a9e6ced592ea753b1748f3d2e699d31ca", null ],
-      [ "EVENT_PRIESTESS_SPELL_HOLY_SMITE", "db/d38/a02789.html#a4cb3329c1e0874ec8b64f8b25da2b0d8aefad3ae6cb0527da0e05ef07a3650256", null ],
-      [ "EVENT_PRIESTESS_SPELL_SHADOW_WORD_PAIN", "db/d38/a02789.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a9ea437042a10c82e88506979c3c73b3a", null ],
-      [ "EVENT_PRIESTESS_SPELL_FOUNTAIN_OF_LIGHT", "db/d38/a02789.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a692f5a65959d73e4e70a6be60c044783", null ],
-      [ "EVENT_PRIESTESS_SPELL_MIND_CONTROL", "db/d38/a02789.html#a4cb3329c1e0874ec8b64f8b25da2b0d8aa633ec1ad8bab84d82d87792ee8e9f47", null ],
-      [ "EVENT_LIGHTWIELDER_SPELL_BLAZING_LIGHT", "db/d38/a02789.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a6e884319a5fb4505ce978e9a48d2a495", null ],
-      [ "EVENT_LIGHTWIELDER_SPELL_CLEAVE", "db/d38/a02789.html#a4cb3329c1e0874ec8b64f8b25da2b0d8ae575d7dd271f3cae73cb886d72e1eb3b", null ],
-      [ "EVENT_LIGHTWIELDER_SPELL_UNBALANCING_STRIKE", "db/d38/a02789.html#a4cb3329c1e0874ec8b64f8b25da2b0d8a73ec4ff3bff0fb021586914fb70fd5d8", null ]
+    [ "tf_tower_world_state", "d8/d5c/a22504.html", "d8/d5c/a22504" ],
+    [ "OPvPCapturePointTF", "d1/d5b/a22508.html", "d1/d5b/a22508" ],
+    [ "OutdoorPvPTF", "d6/d60/a22512.html", "d6/d60/a22512" ],
+    [ "TF_CAPTURE_BUFF", "db/d38/a02789.html#a82bc235ec6d43b48511d1b3d903a934b", null ],
+    [ "OutdoorPvPTF_TowerType", "db/d38/a02789.html#a7a4347e10a530d56e3c3ae66a5eae999", [
+      [ "TF_TOWER_NW", "db/d38/a02789.html#a7a4347e10a530d56e3c3ae66a5eae999ac95ea754e0befd303c7912671ff54b16", null ],
+      [ "TF_TOWER_N", "db/d38/a02789.html#a7a4347e10a530d56e3c3ae66a5eae999a034d81c6a66a32fef95c75235cb39d2b", null ],
+      [ "TF_TOWER_NE", "db/d38/a02789.html#a7a4347e10a530d56e3c3ae66a5eae999a210d598966bbca14ece80eb1e00bae97", null ],
+      [ "TF_TOWER_SE", "db/d38/a02789.html#a7a4347e10a530d56e3c3ae66a5eae999a01f2c2e0a883f8355bf433a96b52bd65", null ],
+      [ "TF_TOWER_S", "db/d38/a02789.html#a7a4347e10a530d56e3c3ae66a5eae999af3a17ac5cc35927939c90503027342f0", null ],
+      [ "TF_TOWER_NUM", "db/d38/a02789.html#a7a4347e10a530d56e3c3ae66a5eae999ad6085f7af14a95c2f7331b50721ff5a3", null ]
     ] ],
-    [ "ArgentSoldierSpells", "db/d38/a02789.html#a30afc46abd693810c0d4bdbc752bdbe2", [
-      [ "SPELL_FLURRY_OF_BLOWS", "db/d38/a02789.html#a30afc46abd693810c0d4bdbc752bdbe2ae89cf1226fe676ebfd7a92a765832a4b", null ],
-      [ "SPELL_PUMMEL", "db/d38/a02789.html#a30afc46abd693810c0d4bdbc752bdbe2a519a01b082bf9c3f4ed0feed5286cab2", null ],
-      [ "SPELL_DIVINE_SHIELD", "db/d38/a02789.html#a30afc46abd693810c0d4bdbc752bdbe2a901e60dd92a92f9b0f3e1d709857498f", null ],
-      [ "SPELL_FINAL_MEDITATION", "db/d38/a02789.html#a30afc46abd693810c0d4bdbc752bdbe2a558caf2627177de7e1160b2ca24d503f", null ],
-      [ "SPELL_HOLY_SMITE", "db/d38/a02789.html#a30afc46abd693810c0d4bdbc752bdbe2a74efbfbc358f01ad96a6e402941ee122", null ],
-      [ "SPELL_FOUNTAIN_OF_LIGHT", "db/d38/a02789.html#a30afc46abd693810c0d4bdbc752bdbe2a5a77fcbded560651d13c7b9d6468e0d9", null ],
-      [ "NPC_FOUNTAIN_OF_LIGHT", "db/d38/a02789.html#a30afc46abd693810c0d4bdbc752bdbe2a97bf22e0006532fff420e4f0c7d16810", null ],
-      [ "SPELL_SHADOW_WORD_PAIN", "db/d38/a02789.html#a30afc46abd693810c0d4bdbc752bdbe2a6d3fa2c8553893a548ccb9dada8f5192", null ],
-      [ "SPELL_MIND_CONTROL", "db/d38/a02789.html#a30afc46abd693810c0d4bdbc752bdbe2a2ad33f23a80e3a868a9a876debc9c01e", null ],
-      [ "SPELL_BLAZING_LIGHT", "db/d38/a02789.html#a30afc46abd693810c0d4bdbc752bdbe2ac7597b8d89777fc8c1dc3c5e3c8a7a9e", null ],
-      [ "SPELL_CLEAVE", "db/d38/a02789.html#a30afc46abd693810c0d4bdbc752bdbe2a0de0a536dbf18ec5c2e76cfee1d751eb", null ],
-      [ "SPELL_UNBALANCING_STRIKE", "db/d38/a02789.html#a30afc46abd693810c0d4bdbc752bdbe2a3b09d39dcbcaf3ef92fb024de1440f2a", null ]
+    [ "TFTowerStates", "db/d38/a02789.html#a5815248809b8fd06bd664886846a7126", [
+      [ "TF_TOWERSTATE_N", "db/d38/a02789.html#a5815248809b8fd06bd664886846a7126a1bf771ad2a93c40a6d0d5312167a046f", null ],
+      [ "TF_TOWERSTATE_H", "db/d38/a02789.html#a5815248809b8fd06bd664886846a7126a133214fb55c09ba0030cc76b1d2082c1", null ],
+      [ "TF_TOWERSTATE_A", "db/d38/a02789.html#a5815248809b8fd06bd664886846a7126acde31be20bbd32d3bf71bd3352e7e43d", null ]
     ] ],
-    [ "EadricEvents", "db/d38/a02789.html#a656edbcbfd88e5e4a0a6ba5092ad70b9", [
-      [ "EVENT_SPELL_RADIANCE", "db/d38/a02789.html#a656edbcbfd88e5e4a0a6ba5092ad70b9ac5ddd2324a772f07e13eca496ce61bb9", null ],
-      [ "EVENT_SPELL_HAMMER_RIGHTEOUS", "db/d38/a02789.html#a656edbcbfd88e5e4a0a6ba5092ad70b9adc1359744e750219b5a7ea7949992b05", null ]
-    ] ],
-    [ "EadricSpells", "db/d38/a02789.html#aae539510c9ab41c816e16f37b7f03549", [
-      [ "SPELL_EADRIC_ACHIEVEMENT", "db/d38/a02789.html#aae539510c9ab41c816e16f37b7f03549a2bd9c63b3d9da4e9d98cb0a1fbd31289", null ],
-      [ "ACHIEV_FACEROLLER", "db/d38/a02789.html#aae539510c9ab41c816e16f37b7f03549ae27d7059bb3ccf06f7eb19f057ee5455", null ],
-      [ "SPELL_RADIANCE", "db/d38/a02789.html#aae539510c9ab41c816e16f37b7f03549aa4da783d348a29c5cae3870ba3a4f3e9", null ],
-      [ "SPELL_VENGEANCE", "db/d38/a02789.html#aae539510c9ab41c816e16f37b7f03549a1a7799016b55afde2db1b879d1a71ad9", null ],
-      [ "SPELL_HAMMER_JUSTICE", "db/d38/a02789.html#aae539510c9ab41c816e16f37b7f03549a54d6ad45fc88ef7fe90852d1c959fd46", null ],
-      [ "SPELL_HAMMER_RIGHTEOUS", "db/d38/a02789.html#aae539510c9ab41c816e16f37b7f03549a955b852c978fdc7dd46216f40b996e64", null ],
-      [ "SPELL_HAMMER_RIGHTEOUS_DAMAGE", "db/d38/a02789.html#aae539510c9ab41c816e16f37b7f03549a903a84a3f199d8e24ff3136d3fbb6200", null ],
-      [ "SPELL_HAMMER_RIGHTEOUS_ACTION_BAR", "db/d38/a02789.html#aae539510c9ab41c816e16f37b7f03549ad4bff79e4cc6c5a8c471cf3b09973ba7", null ],
-      [ "SPELL_HAMMER_RIGHTEOUS_THROW_BACK", "db/d38/a02789.html#aae539510c9ab41c816e16f37b7f03549a596b74a4a7c1a7965c628a9403719ea0", null ]
-    ] ],
-    [ "PaletressEvents", "db/d38/a02789.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83", [
-      [ "EVENT_SPELL_SMITE", "db/d38/a02789.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83a7aed2ea3a5bc3e928fb749b00d1166b2", null ],
-      [ "EVENT_SPELL_HOLY_FIRE", "db/d38/a02789.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83a5fbe6a0ce0fcfd5c199339d14efff82a", null ],
-      [ "EVENT_SPELL_RENEW", "db/d38/a02789.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83acec0c01eb230f3b0d4f37b4586b2340e", null ],
-      [ "EVENT_MEMORY_SCALE", "db/d38/a02789.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83a1faaa9d0a4504d078dcd882781f46f51", null ],
-      [ "EVENT_MEMORY_START_ATTACK", "db/d38/a02789.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83abf206623be238032a87d20d1974e91e2", null ],
-      [ "EVENT_SPELL_OLD_WOUNDS", "db/d38/a02789.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83abc43794a74613c12bfbcabe82f6ff310", null ],
-      [ "EVENT_SPELL_SHADOWS_PAST", "db/d38/a02789.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83ad5d5147284d1b64818da9ddedeebd622", null ],
-      [ "EVENT_SPELL_WAKING_NIGHTMARE", "db/d38/a02789.html#a4e7bd5ed5a5b6fb61eebaf59b5bd8d83a51388187d9d7b59809e1084910605533", null ]
-    ] ],
-    [ "PaletressSpells", "db/d38/a02789.html#ae9595f620d9888aeae1c43934e479065", [
-      [ "SPELL_SMITE", "db/d38/a02789.html#ae9595f620d9888aeae1c43934e479065a96277e99fce632dafa4fd4dc36108e60", null ],
-      [ "SPELL_HOLY_FIRE", "db/d38/a02789.html#ae9595f620d9888aeae1c43934e479065ac3a4396238fbb11f537aa061424abe2b", null ],
-      [ "SPELL_RENEW", "db/d38/a02789.html#ae9595f620d9888aeae1c43934e479065aaf085a0eea027f75c291005b97cb46bd", null ],
-      [ "SPELL_HOLY_NOVA", "db/d38/a02789.html#ae9595f620d9888aeae1c43934e479065a678bab3de60ed4108ef58f54329f520d", null ],
-      [ "SPELL_SHIELD", "db/d38/a02789.html#ae9595f620d9888aeae1c43934e479065af4b3b7a5e8b4481dcb60a25093408bb2", null ],
-      [ "SPELL_CONFESS", "db/d38/a02789.html#ae9595f620d9888aeae1c43934e479065a4f8639f64cb2688991b2b1bc1973b056", null ],
-      [ "SPELL_SUMMON_MEMORY", "db/d38/a02789.html#ae9595f620d9888aeae1c43934e479065acbff865e8b9b8593c0115a78538d222c", null ],
-      [ "SPELL_OLD_WOUNDS", "db/d38/a02789.html#ae9595f620d9888aeae1c43934e479065a9625d7dbb27fdc285420ec419684fc53", null ],
-      [ "SPELL_SHADOWS_PAST", "db/d38/a02789.html#ae9595f620d9888aeae1c43934e479065af19d664ef227eb9bfc2779735274b4b4", null ],
-      [ "SPELL_WAKING_NIGHTMARE", "db/d38/a02789.html#ae9595f620d9888aeae1c43934e479065ae91867f1a05437c18a1d58ad219cf00f", null ]
-    ] ],
-    [ "ReflectiveShield", "db/d38/a02789.html#aba7bd18e8dcf0b6414c84d2a7d58c55b", [
-      [ "SPELL_REFLECTIVE_SHIELD_DAMAGE", "db/d38/a02789.html#aba7bd18e8dcf0b6414c84d2a7d58c55ba5bbb3f6a28fc8268989468698ae05d71", null ]
-    ] ],
-    [ "AddSC_boss_argent_challenge", "db/d38/a02789.html#ab05f15214d7caad3ff926cff5369cdcb", null ]
+    [ "OutdoorPvPTFBuffZones", "db/d38/a02789.html#a6b09030102f8c0dbb4b0e6bbfdee9b24", null ],
+    [ "OutdoorPvPTFBuffZonesNum", "db/d38/a02789.html#acde5c9331776adb4ed27c2319476e550", null ],
+    [ "TF_ALLY_QUEST", "db/d38/a02789.html#a3967b7bb2df0e330fbd21a68d557b19a", null ],
+    [ "TF_HORDE_QUEST", "db/d38/a02789.html#a1bbe00a4cf0ae9f6750d23ef10539c0a", null ],
+    [ "TF_LOCK_TIME", "db/d38/a02789.html#a925c2f6bf9c7a6d1b694382b888fa85f", null ],
+    [ "TF_LOCK_TIME_UPDATE", "db/d38/a02789.html#a9ef7be226d98726081fd3cb435d223b5", null ],
+    [ "TFCapturePoints", "db/d38/a02789.html#a19e9cf9859a7578f154dcdcfa0670620", null ],
+    [ "TFTowerWorldStates", "db/d38/a02789.html#ac5dbb8989285178cfea88af6f03dd6a6", null ]
 ];

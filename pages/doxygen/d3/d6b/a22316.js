@@ -1,6 +1,6 @@
 var a22316 =
 [
-    [ "HandleSummon", "d3/d6b/a22316.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
-    [ "PrepareSpellScript", "d3/d6b/a22316.html#ae7f071e9d9a82892be31090385679c9f", null ],
-    [ "Register", "d3/d6b/a22316.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
+    [ "npc_wg_queueAI", "d3/d6b/a22316.html#a3760738d61b6148042fc30bd96b88fdc", null ],
+    [ "UpdateAI", "d3/d6b/a22316.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
+    [ "events", "d3/d6b/a22316.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
 ];

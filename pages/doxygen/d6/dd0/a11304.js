@@ -1,6 +1,6 @@
 var a11304 =
 [
-    [ "NameQuery", "d6/dd0/a11304.html#a7dc5a2dceb475303db4b4ab0c0a6d23c", null ],
-    [ "Read", "d6/dd0/a11304.html#ae4a16ebe5372214d3aec65b056a9426e", null ],
-    [ "Guid", "d6/dd0/a11304.html#a52528a68f1c86196e7428f196f93d12b", null ]
+    [ "PetAbandon", "d6/dd0/a11304.html#aeac05969ce6bdb41a02f7ffe56126dfd", null ],
+    [ "Read", "d6/dd0/a11304.html#a58ebb244de4bd65a85f75dcc24250883", null ],
+    [ "PetGUID", "d6/dd0/a11304.html#a7175c081b7cb691ceb4729c1abc5028e", null ]
 ];

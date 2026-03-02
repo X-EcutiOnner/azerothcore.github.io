@@ -1,7 +1,5 @@
 var a04977 =
 [
-    [ "indices", "d7/d01/a04977.html#a23cadbd54502fb4edc68e052e5774664", null ],
-    [ "maxPrims", "d7/d01/a04977.html#a0c46f35977fe683a19e7cb1e580a814b", null ],
-    [ "numPrims", "d7/d01/a04977.html#a623b9ee05707ecdbaa816c797e358e86", null ],
-    [ "primBound", "d7/d01/a04977.html#a3304ad5d821f178941fd44da897213de", null ]
+    [ "Base32", "df/d63/a05528.html", "df/d63/a05528" ],
+    [ "Base64", "d8/d58/a05536.html", "d8/d58/a05536" ]
 ];

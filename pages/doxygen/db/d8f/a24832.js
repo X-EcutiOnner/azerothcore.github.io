@@ -1,8 +1,10 @@
 var a24832 =
 [
-    [ "CheckProc", "db/d8f/a24832.html#a1b9f36ea8dae6ad947a75bbe23f7fc2d", null ],
-    [ "HandleProc", "db/d8f/a24832.html#a506420e3e109bf8f4e7c83b101c80c3c", null ],
-    [ "PrepareAuraScript", "db/d8f/a24832.html#a5e81587c47cbb6f331b6d5f8f22d7616", null ],
-    [ "Register", "db/d8f/a24832.html#a38de7578466df47ebe6fc7b5bfab616b", null ],
-    [ "Validate", "db/d8f/a24832.html#ad81044da0924211cbbaccc671839983c", null ]
+    [ "Load", "db/d8f/a24832.html#a2c4e408e45995098b01a05815fffb34c", null ],
+    [ "OnApply", "db/d8f/a24832.html#acae1047046bb8f555d1798ca024a2650", null ],
+    [ "OnRemove", "db/d8f/a24832.html#aa01df2b86cf69508866f6e7d063c735a", null ],
+    [ "PrepareAuraScript", "db/d8f/a24832.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
+    [ "Register", "db/d8f/a24832.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
+    [ "Validate", "db/d8f/a24832.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
+    [ "_casterGUID", "db/d8f/a24832.html#a8047fb4309487c7a529047ec5148a2e3", null ]
 ];

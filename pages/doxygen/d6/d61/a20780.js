@@ -1,6 +1,6 @@
 var a20780 =
 [
-    [ "HandleScript", "d6/d61/a20780.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
-    [ "PrepareSpellScript", "d6/d61/a20780.html#a4fd05478a145157dbd8377532033ab95", null ],
-    [ "Register", "d6/d61/a20780.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
+    [ "BoomEvent", "d6/d61/a20780.html#aa9b7a8785f382068bb4510ffc0b43004", null ],
+    [ "Execute", "d6/d61/a20780.html#a1a870bea5c8e0a24a8ecd347a862ee75", null ],
+    [ "_me", "d6/d61/a20780.html#a30de77ee751f1c10231088cb84942342", null ]
 ];

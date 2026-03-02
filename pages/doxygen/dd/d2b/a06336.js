@@ -1,7 +1,6 @@
 var a06336 =
 [
-    [ "SpellTargetSelector", "dd/d2b/a06336.html#a9f1f441e542500dc43c58b97729f7f51", null ],
-    [ "operator()", "dd/d2b/a06336.html#a53c27c23f2d9846903e1ff9b479a36b1", null ],
-    [ "_caster", "dd/d2b/a06336.html#ac5b0844c975a6b3ff3c14a843fd28fba", null ],
-    [ "_spellInfo", "dd/d2b/a06336.html#a309ed04630cfb92810b7f51376b3917c", null ]
+    [ "TriggerAI", "dd/d2b/a06336.html#ad8cc7eae28b11af049db88e0d8ff149b", null ],
+    [ "IsSummonedBy", "dd/d2b/a06336.html#a0bcffd9eab068e35d71e3176c33359f1", null ],
+    [ "Permissible", "dd/d2b/a06336.html#aa979e7a4774b35bf83ed137543d517b1", null ]
 ];

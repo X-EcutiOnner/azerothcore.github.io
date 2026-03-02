@@ -1,9 +1,6 @@
 var a17052 =
 [
-    [ "npc_concentrated_ballAI", "d2/def/a17052.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
-    [ "DoAction", "d2/def/a17052.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
-    [ "MovementInform", "d2/def/a17052.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
-    [ "MoveToNextPoint", "d2/def/a17052.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
-    [ "UpdateAI", "d2/def/a17052.html#a6509ff14639bca29b6877db54102d004", null ],
-    [ "despawning", "d2/def/a17052.html#a24145c6c4c38b5a1853647d24871090d", null ]
+    [ "boss_icehowlAI", "d5/d09/a17056.html", "d5/d09/a17056" ],
+    [ "boss_icehowl", "d2/def/a17052.html#ab3c9711fa6af17be9dc7331b42c408be", null ],
+    [ "GetAI", "d2/def/a17052.html#ac77bf3b9d954b8c6be01d0209a80cc6a", null ]
 ];

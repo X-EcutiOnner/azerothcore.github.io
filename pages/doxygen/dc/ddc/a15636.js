@@ -1,6 +1,6 @@
 var a15636 =
 [
-    [ "boss_veknilash", "dc/ddc/a15636.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
-    [ "IAmVeklor", "dc/ddc/a15636.html#a454027d829b962ee0feebb6fd5687714", null ],
-    [ "JustEngagedWith", "dc/ddc/a15636.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
+    [ "FilterTargets", "dc/ddc/a15636.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
+    [ "PrepareSpellScript", "dc/ddc/a15636.html#a32b0be74a9127f920e22aa03c910a005", null ],
+    [ "Register", "dc/ddc/a15636.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
 ];

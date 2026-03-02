@@ -1,7 +1,6 @@
 var a17932 =
 [
-    [ "HandleScript", "db/d27/a17932.html#a276018baa590b942d90c457faea10040", null ],
-    [ "PrepareSpellScript", "db/d27/a17932.html#a0bdef74dbd65d938eb5eac32f6612fe1", null ],
-    [ "Register", "db/d27/a17932.html#a7afc131b5dd31ec6b225fdd38f0edf34", null ],
-    [ "Validate", "db/d27/a17932.html#a4d16e1aec2b24cd70366308f25619cf2", null ]
+    [ "npc_icc_blood_beastAI", "d9/d2c/a17936.html", "d9/d2c/a17936" ],
+    [ "npc_icc_blood_beast", "db/d27/a17932.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
+    [ "GetAI", "db/d27/a17932.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
 ];

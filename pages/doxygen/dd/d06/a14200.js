@@ -1,6 +1,6 @@
 var a14200 =
 [
-    [ "npc_the_scourge_cauldronAI", "d9/d14/a14204.html", "d9/d14/a14204" ],
-    [ "npc_the_scourge_cauldron", "dd/d06/a14200.html#a7ff5315293c4917dec3b0fe0aade2016", null ],
-    [ "GetAI", "dd/d06/a14200.html#ae4e35f1cac0c0f35333ba6113d3c1ad0", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "d9/d14/a14204.html", "d9/d14/a14204" ],
+    [ "npc_jaina_proudmoore_bfu", "dd/d06/a14200.html#af96c4fac318f44cf6e70817b6960999f", null ],
+    [ "GetAI", "dd/d06/a14200.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
 ];

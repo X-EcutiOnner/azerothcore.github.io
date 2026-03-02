@@ -1,12 +1,13 @@
 var a09764 =
 [
-    [ "EventLogEntry", "dc/d62/a09764.html#a31726d40f7b89077b45ffbaca8396a9d", null ],
-    [ "EventLogEntry", "dc/d62/a09764.html#a96a2e3a6d565db452e7d0f1a152f63c7", null ],
-    [ "~EventLogEntry", "dc/d62/a09764.html#a8d6bf0a5a53fdc8e99ad53293d96af7c", null ],
-    [ "SaveToDB", "dc/d62/a09764.html#a2ca71e291a44f95bb42d51083aa84985", null ],
-    [ "WritePacket", "dc/d62/a09764.html#adffe90bd0265dea0ca2fd6bc83f3056e", null ],
-    [ "m_eventType", "dc/d62/a09764.html#a00216643e6856591402c21df490c1fec", null ],
-    [ "m_newRank", "dc/d62/a09764.html#ab733c92f478dc36e3b5ffc61799a6ce7", null ],
-    [ "m_playerGuid1", "dc/d62/a09764.html#a06a2b45d16860c711829f49f97624272", null ],
-    [ "m_playerGuid2", "dc/d62/a09764.html#a1f66e71f9536e484663e437bbcbcefca", null ]
+    [ "GroupReference", "dc/d62/a09764.html#ab1a008e85d413c67696d4d568a98bde7", null ],
+    [ "~GroupReference", "dc/d62/a09764.html#ab586405a850b0985e6b9f08cc6bdf32e", null ],
+    [ "getSubGroup", "dc/d62/a09764.html#a8217ca810bc251005dfe8a2e3b810e1e", null ],
+    [ "next", "dc/d62/a09764.html#a6f8f406f1209dd7060904d40f5424b41", null ],
+    [ "next", "dc/d62/a09764.html#ac913ec0703c28cda068375d01c9cd72d", null ],
+    [ "setSubGroup", "dc/d62/a09764.html#a303caf55ea463398237e6a825f30b143", null ],
+    [ "sourceObjectDestroyLink", "dc/d62/a09764.html#a458157654c27def9b36b68ae099ca7b3", null ],
+    [ "targetObjectBuildLink", "dc/d62/a09764.html#aa7c8acd113fefc7b6d2b9dff94bb047c", null ],
+    [ "targetObjectDestroyLink", "dc/d62/a09764.html#a4c15e8dbb9f990f9ab66c5e1466d0616", null ],
+    [ "iSubGroup", "dc/d62/a09764.html#a528073b16a119cfa81e6f37c6e72cc03", null ]
 ];

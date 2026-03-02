@@ -1,14 +1,13 @@
 var a15232 =
 [
-    [ "npc_cos_stratholme_citizienAI", "d6/d47/a15232.html#a591aaf16ef5befada12378acfbef9465", null ],
-    [ "DoAction", "d6/d47/a15232.html#af9d6fa1dfa83a75194797e99ee80ae0e", null ],
-    [ "InfectMe", "d6/d47/a15232.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b", null ],
-    [ "MoveInLineOfSight", "d6/d47/a15232.html#ab7a8f6423e12ca0ea9bcb085594013a2", null ],
-    [ "Reset", "d6/d47/a15232.html#a0dbb5f295aa9061fa3457c9590ea9b10", null ],
-    [ "SpellHit", "d6/d47/a15232.html#aa8b9a05d3c7d89aa054af919672a69ec", null ],
-    [ "UpdateAI", "d6/d47/a15232.html#a81a1382493091a99cae1c2bb580a7f32", null ],
-    [ "allowTimer", "d6/d47/a15232.html#ae92384763b3cfe4a4bc4180d1c404456", null ],
-    [ "changeTimer", "d6/d47/a15232.html#aa757ab2eef813dceaaad65d84681099b", null ],
-    [ "locked", "d6/d47/a15232.html#aa644050a5fc0b3cd04573e8b3def87ee", null ],
-    [ "pInstance", "d6/d47/a15232.html#aadae06c487a7755114f856a835d48c7e", null ]
+    [ "boss_salrammAI", "d6/d47/a15232.html#ae1055878b3919e29d44ee26efcbe044f", null ],
+    [ "ExplodeGhoul", "d6/d47/a15232.html#adc64d8b10b28b98254c528732fff0516", null ],
+    [ "JustDied", "d6/d47/a15232.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
+    [ "JustEngagedWith", "d6/d47/a15232.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
+    [ "JustSummoned", "d6/d47/a15232.html#afd70403a8644f310f37335c6c9bf5b55", null ],
+    [ "KilledUnit", "d6/d47/a15232.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
+    [ "Reset", "d6/d47/a15232.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
+    [ "UpdateAI", "d6/d47/a15232.html#aa2350dc05884593b1361f9f09b8d9392", null ],
+    [ "events", "d6/d47/a15232.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
+    [ "summons", "d6/d47/a15232.html#a813c09e121730d4ae2e623ac3c37d570", null ]
 ];

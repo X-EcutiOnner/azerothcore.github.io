@@ -1,7 +1,6 @@
 var a21928 =
 [
-    [ "npc_rodin_lightning_enabler", "d9/dac/a21928.html#ae014b208af7664acd2147663d9338583", null ],
-    [ "Reset", "d9/dac/a21928.html#ac3ff539380f8fdd5827c6868815b39cc", null ],
-    [ "UpdateAI", "d9/dac/a21928.html#a5f900d97eec245bf3c27cde5c78b71e3", null ],
-    [ "_scheduler", "d9/dac/a21928.html#a06434f538bd89d429a329bbd24e5fcdf", null ]
+    [ "npc_attracted_reef_bullAI", "da/d4a/a21932.html", "da/d4a/a21932" ],
+    [ "npc_attracted_reef_bull", "d9/dac/a21928.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
+    [ "GetAI", "d9/dac/a21928.html#af705e2768cd41c955af7f944c670ac85", null ]
 ];

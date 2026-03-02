@@ -1,7 +1,7 @@
 var a05728 =
 [
-    [ "cmd", "d8/dcc/a05728.html#a91e8e56c304147b88db250259ff0a87c", null ],
-    [ "error", "d8/dcc/a05728.html#a0872e20a5adcd52a94036bdc6eddc6e6", null ],
-    [ "M2", "d8/dcc/a05728.html#a9bb7dca6b62d35ecae97197c4c9693b7", null ],
-    [ "unk2", "d8/dcc/a05728.html#a47d83719b502236fdad41e2d07b535a0", null ]
+    [ "Count", "d8/dcc/a05728.html#aeeb13e953eff5fde8c9edff41ee17806", null ],
+    [ "FromIndex", "d8/dcc/a05728.html#a8c6cb9f0a8d3488956904e2141405cf7", null ],
+    [ "ToIndex", "d8/dcc/a05728.html#a25cc4ea08020adcf6deac42e2912b1f9", null ],
+    [ "ToString", "d8/dcc/a05728.html#a8d3379c79f103655dd49d993402b741d", null ]
 ];

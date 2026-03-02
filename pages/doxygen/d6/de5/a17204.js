@@ -1,6 +1,7 @@
 var a17204 =
 [
-    [ "FilterTargets", "d6/de5/a17204.html#a36879a2920f43562bb0ff89c76d758e4", null ],
-    [ "PrepareSpellScript", "d6/de5/a17204.html#afeb95c5fe970ebc147d509981b026e98", null ],
-    [ "Register", "d6/de5/a17204.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
+    [ "HandleEffectRemove", "d6/de5/a17204.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
+    [ "Load", "d6/de5/a17204.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
+    [ "PrepareAuraScript", "d6/de5/a17204.html#a97411ddf89a10a962ba74d294eb653e7", null ],
+    [ "Register", "d6/de5/a17204.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
 ];

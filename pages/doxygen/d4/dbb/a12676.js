@@ -1,7 +1,6 @@
 var a12676 =
 [
-    [ "HandleScript", "d4/dbb/a12676.html#a0d244cc1785b136bae0960d697dc761d", null ],
-    [ "PrepareSpellScript", "d4/dbb/a12676.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
-    [ "Register", "d4/dbb/a12676.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
-    [ "Validate", "d4/dbb/a12676.html#a1413754f3a79caf8ec57d394c68f3499", null ]
+    [ "boss_broodlordAI", "de/de1/a12680.html", "de/de1/a12680" ],
+    [ "boss_broodlord", "d4/dbb/a12676.html#a936f7eb723111877e2a5e3a85cb95b2b", null ],
+    [ "GetAI", "d4/dbb/a12676.html#a5bd506c6f397608ce84496fa0fea2679", null ]
 ];

@@ -1,5 +1,6 @@
 var a09268 =
 [
-    [ "MaxAllowedCount", "d8/d14/a09268.html#afb0dcc50d8e9aa85fe2904050d646042", null ],
-    [ "Policy", "d8/d14/a09268.html#a8b2bbd3d9f52166c1235b0d306042609", null ]
+    [ "Conditions", "d8/d14/a09268.html#a93edc2f0d71164b683c844b713befa85", null ],
+    [ "MenuID", "d8/d14/a09268.html#a732aa82f621c312745ddbd6fe2e3e906", null ],
+    [ "TextID", "d8/d14/a09268.html#a6ec8df5fcc5126bdee656ca08c0a5edc", null ]
 ];

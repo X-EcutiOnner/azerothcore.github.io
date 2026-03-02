@@ -1,7 +1,6 @@
 var a18800 =
 [
-    [ "CalculateBonus", "d6/d76/a18800.html#ae149a739150cb7eb9fb67f19130c0510", null ],
-    [ "OnPeriodic", "d6/d76/a18800.html#a19697bd65a325870becc1c30d7deff36", null ],
-    [ "PrepareAuraScript", "d6/d76/a18800.html#a77c272d4a26323c421e4b264f79d5b66", null ],
-    [ "Register", "d6/d76/a18800.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
+    [ "ModDestHeight", "d6/d76/a18800.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
+    [ "PrepareSpellScript", "d6/d76/a18800.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
+    [ "Register", "d6/d76/a18800.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
 ];

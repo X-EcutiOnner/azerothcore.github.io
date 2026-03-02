@@ -1,7 +1,6 @@
 var a21632 =
 [
-    [ "npc_cosmetic_toy_plane", "d8/d69/a21632.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
-    [ "Reset", "d8/d69/a21632.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
-    [ "UpdateAI", "d8/d69/a21632.html#a41d62b314510fbd6637d8eddbea16f96", null ],
-    [ "_movementArray", "d8/d69/a21632.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
+    [ "npc_mageguard_dalaranAI", "da/d1a/a21636.html", "da/d1a/a21636" ],
+    [ "npc_mageguard_dalaran", "d8/d69/a21632.html#a0cec4f232b665325c421cecb5839885f", null ],
+    [ "GetAI", "d8/d69/a21632.html#a10cbddceb53a2d432da2224128c59b28", null ]
 ];

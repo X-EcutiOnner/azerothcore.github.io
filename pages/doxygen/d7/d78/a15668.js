@@ -1,6 +1,14 @@
 var a15668 =
 [
-    [ "HandleOnHit", "d7/d78/a15668.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
-    [ "PrepareSpellScript", "d7/d78/a15668.html#a9e568a1608715973fc438ff5e4356714", null ],
-    [ "Register", "d7/d78/a15668.html#a752d697aada626440fdff2bd889f890f", null ]
+    [ "boss_twinemperorsAI", "d7/d78/a15668.html#ae0857b191dbbf086533062aee5885237", null ],
+    [ "DamageTaken", "d7/d78/a15668.html#a118151851f36de9dfc22971a965cb047", null ],
+    [ "DoAction", "d7/d78/a15668.html#a2b5e585749b7a59663813c7a9d56c223", null ],
+    [ "EnterEvadeMode", "d7/d78/a15668.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
+    [ "GetTwin", "d7/d78/a15668.html#af23aa54bca9752c242e80331862ace4d", null ],
+    [ "IAmVeklor", "d7/d78/a15668.html#acdccdde2ee573f51e1783ea493577258", null ],
+    [ "JustDied", "d7/d78/a15668.html#a9cc74619908c2aa9f8deda2689616735", null ],
+    [ "JustEngagedWith", "d7/d78/a15668.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
+    [ "KilledUnit", "d7/d78/a15668.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
+    [ "UpdateAI", "d7/d78/a15668.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
+    [ "_introDone", "d7/d78/a15668.html#a1b4689b0c403f7246ae100e4f716b138", null ]
 ];

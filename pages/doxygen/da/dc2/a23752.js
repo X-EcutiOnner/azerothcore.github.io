@@ -1,5 +1,6 @@
 var a23752 =
 [
-    [ "npc_thaladred", "da/dc2/a23752.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
-    [ "ScheduleEvents", "da/dc2/a23752.html#a24febff1fc8b155bca0fb177a8119dbb", null ]
+    [ "AfterRemove", "da/dc2/a23752.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
+    [ "PrepareAuraScript", "da/dc2/a23752.html#ad5871ce865820456177362c6b790778f", null ],
+    [ "Register", "da/dc2/a23752.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
 ];

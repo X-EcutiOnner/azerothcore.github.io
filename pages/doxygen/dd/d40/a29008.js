@@ -1,10 +1,7 @@
 var a29008 =
 [
-    [ "HasFlag", "dd/d40/a29008.html#abe23ca5437589a38ea57bc93a6197911", null ],
-    [ "CollisionHeight", "dd/d40/a29008.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
-    [ "CollisionWidth", "dd/d40/a29008.html#ab79497759cf169348b8922301fc43b2f", null ],
-    [ "Flags", "dd/d40/a29008.html#a3bb96e232124771e78f8b5db53405106", null ],
-    [ "Id", "dd/d40/a29008.html#aa19fec147703c7542be260c8ec5a0446", null ],
-    [ "MountHeight", "dd/d40/a29008.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
-    [ "Scale", "dd/d40/a29008.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
+    [ "bit_index", "dd/d40/a29008.html#a1e5cb3fc001169a204507a084435a211", null ],
+    [ "ID", "dd/d40/a29008.html#a63fe7a87e019780d20e86e48efb02eac", null ],
+    [ "nameFemale", "dd/d40/a29008.html#ad0380caf2526715faaddc9330062d90a", null ],
+    [ "nameMale", "dd/d40/a29008.html#a74a767731c96d3d815ddde5a06f68599", null ]
 ];

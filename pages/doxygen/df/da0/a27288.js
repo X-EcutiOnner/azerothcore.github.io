@@ -1,8 +1,6 @@
 var a27288 =
 [
-    [ "CheckProc", "df/da0/a27288.html#a019b47e139e155c0803c0ce9a3a42f82", null ],
-    [ "HandleProc", "df/da0/a27288.html#a92fff2ae3b59c3dd62e92a11312f87ae", null ],
-    [ "PrepareAuraScript", "df/da0/a27288.html#a91ef63b96918e797e677423d51f94112", null ],
-    [ "Register", "df/da0/a27288.html#a5625b3a60a607bd07d4328aa1886cfc5", null ],
-    [ "Validate", "df/da0/a27288.html#ab6178007664afc34556336ec9620cd4f", null ]
+    [ "HandleRemove", "df/da0/a27288.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
+    [ "PrepareAuraScript", "df/da0/a27288.html#a132193c0c13a2f89b9b29391d524023a", null ],
+    [ "Register", "df/da0/a27288.html#a246294a7b9a128a9ec464562846332fc", null ]
 ];

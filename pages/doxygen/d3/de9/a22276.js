@@ -1,8 +1,7 @@
 var a22276 =
 [
-    [ "npc_wg_spirit_guideAI", "d4/d30/a22280.html", "d4/d30/a22280" ],
-    [ "npc_wg_spirit_guide", "d3/de9/a22276.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
-    [ "GetAI", "d3/de9/a22276.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
-    [ "OnGossipHello", "d3/de9/a22276.html#a2d46078cb47f817239685d168f7f2e35", null ],
-    [ "OnGossipSelect", "d3/de9/a22276.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
+    [ "HandleScript", "d3/de9/a22276.html#ad38771460ddf0f95783718775690d1f0", null ],
+    [ "PrepareSpellScript", "d3/de9/a22276.html#a9d3b65b251cc9680352bbf056bb74f05", null ],
+    [ "Register", "d3/de9/a22276.html#a3ba23fd54c35c2d2866db647811c948d", null ],
+    [ "Validate", "d3/de9/a22276.html#a6a58808356785c25032c2befd429ff2b", null ]
 ];

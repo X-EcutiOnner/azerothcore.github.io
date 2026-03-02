@@ -1,16 +1,19 @@
 var a19596 =
 [
-    [ "boss_thaddiusAI", "d4/df2/a19596.html#a8a25d56cb38b755fec6f18a9616632e2", null ],
-    [ "DoAction", "d4/df2/a19596.html#aa9697fa990b9d84f3cc9496df1cb4234", null ],
-    [ "IsAnyPlayerInMeleeRange", "d4/df2/a19596.html#aa5175bb29e16c1c421cf16207e890d57", null ],
-    [ "JustDied", "d4/df2/a19596.html#a2ec7bfa46d972cdd857289693acdc965", null ],
-    [ "JustEngagedWith", "d4/df2/a19596.html#a52ec355e0ddd2a29b06b473303941b46", null ],
-    [ "JustSummoned", "d4/df2/a19596.html#a1aa9a09089a2070eda14fda1bc51f0fe", null ],
-    [ "KilledUnit", "d4/df2/a19596.html#a94f7852267620b0a77c2e1003f080589", null ],
-    [ "Reset", "d4/df2/a19596.html#ae7b69b5e83fdbaa3df25dda989eeaf07", null ],
-    [ "UpdateAI", "d4/df2/a19596.html#a5eef08082268fa181d4d396fc952dbcd", null ],
-    [ "ballLightningEnabled", "d4/df2/a19596.html#a487582d59f0d717c3ec53679ad36f99a", null ],
-    [ "resetTimer", "d4/df2/a19596.html#aba9f23389d5f6724883dc9f7e607a351", null ],
-    [ "reviveTimer", "d4/df2/a19596.html#a11388e745e81c3ad8ba7d97812a17203", null ],
-    [ "summonTimer", "d4/df2/a19596.html#a82288ef27f720b5f0f84bfd0ac6b9ccb", null ]
+    [ "boss_razuviousAI", "d4/df2/a19596.html#a6c5b5a7bc419b30a8814ada3f95f0c3a", null ],
+    [ "DamageTaken", "d4/df2/a19596.html#a4d20aa2066110c45ea06024dda04bb32", null ],
+    [ "JustDied", "d4/df2/a19596.html#addd5c34675473b78e1785a8122a6ccd2", null ],
+    [ "JustEngagedWith", "d4/df2/a19596.html#a9e9137c0c730435f2b2b3e8a731878e8", null ],
+    [ "JustSummoned", "d4/df2/a19596.html#a3126cc2c35dc81a76b43d615bfa1bc4f", null ],
+    [ "KilledUnit", "d4/df2/a19596.html#ab49711d40ea8ecbbf3a1fbab96569cc4", null ],
+    [ "MovementInform", "d4/df2/a19596.html#a40a022ee337caaf0bb59f4beb8d9d3e8", null ],
+    [ "Reset", "d4/df2/a19596.html#ae5b2e00b170a57b194b21445484c10bc", null ],
+    [ "ScheduleInteractWithDeathKnight", "d4/df2/a19596.html#a5cdc692e17c3d331f1f1b12c8160408e", null ],
+    [ "ScheduleRP", "d4/df2/a19596.html#a298fca0637eb5191e39f6010adc78c43", null ],
+    [ "SpawnHelpers", "d4/df2/a19596.html#af2ec0fb6a5d5fe0c165f309a5ca22ff3", null ],
+    [ "SpellHit", "d4/df2/a19596.html#a1c80a6d94af3ed794c25351484ae08ac", null ],
+    [ "UpdateAI", "d4/df2/a19596.html#a4ea0982f190aa21077b6237cac4e4368", null ],
+    [ "_rpBuddyGUID", "d4/df2/a19596.html#a06f80f3eac58b1cdc800bd4174244af5", null ],
+    [ "events", "d4/df2/a19596.html#a5b73fdcb503cef89e87a1e50cc11e825", null ],
+    [ "summons", "d4/df2/a19596.html#a6d3bb24f1b0475a04182d959f2f41b5d", null ]
 ];

@@ -1,7 +1,4 @@
 var a01904 =
 [
-    [ "ACSoapThread", "d4/d0d/a01904.html#a69e574c9a3cecf7c395cd036bb672ed3", null ],
-    [ "ns1__executeCommand", "d4/d0d/a01904.html#af9d30c869db1c560fead6671ff96ad82", null ],
-    [ "process_message", "d4/d0d/a01904.html#abf914e30c869f88f2fafb9f656320c6a", null ],
-    [ "namespaces", "d4/d0d/a01904.html#aabfac0a3b8d38498bc5e1e3bc465ead6", null ]
+    [ "WorldPacket", "d3/d22/a11428.html", "d3/d22/a11428" ]
 ];

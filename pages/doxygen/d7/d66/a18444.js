@@ -1,7 +1,7 @@
 var a18444 =
 [
-    [ "FrostwyrmLandEvent", "d7/d66/a18444.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
-    [ "Execute", "d7/d66/a18444.html#a4da77796a223e6233ac6d908f7700623", null ],
-    [ "_dest", "d7/d66/a18444.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
-    [ "_owner", "d7/d66/a18444.html#a6336050092606ebb27a180abff55dfa2", null ]
+    [ "HandleScript", "d7/d66/a18444.html#a37b261d0df2829788d8290a9194913f5", null ],
+    [ "PrepareSpellScript", "d7/d66/a18444.html#a69386dbef57322393a38eec90662135f", null ],
+    [ "Register", "d7/d66/a18444.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
+    [ "Validate", "d7/d66/a18444.html#a63c446574c700a895d7fbc5bb2b81508", null ]
 ];

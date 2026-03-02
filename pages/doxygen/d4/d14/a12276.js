@@ -1,5 +1,6 @@
 var a12276 =
 [
-    [ "go_shadowforge_brazier", "d4/d14/a12276.html#aafc1d2e865294bb102c918d6016aab4b", null ],
-    [ "OnGossipHello", "d4/d14/a12276.html#a83b188cd2ee68e1ebfe75060465f8f38", null ]
+    [ "npc_av_marshal_or_warmasterAI", "db/d89/a12280.html", "db/d89/a12280" ],
+    [ "npc_av_marshal_or_warmaster", "d4/d14/a12276.html#a7ffc93248d66d50d5d75d1fcf1f907ee", null ],
+    [ "GetAI", "d4/d14/a12276.html#a295eee4baef6a53cf291fdf155cfdf4a", null ]
 ];

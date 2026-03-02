@@ -1,6 +1,7 @@
 var a15920 =
 [
-    [ "npc_bunthen_plainswind", "d2/d30/a15920.html#ad9b789ad3e958dee4733b142813b6302", null ],
-    [ "OnGossipHello", "d2/d30/a15920.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
-    [ "OnGossipSelect", "d2/d30/a15920.html#a117f28d513ac645b9d3d908d052d2146", null ]
+    [ "HandleEffectPeriodic", "d2/d30/a15920.html#ac47c157dbd193bc131d281666ae2097f", null ],
+    [ "PrepareAuraScript", "d2/d30/a15920.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
+    [ "Register", "d2/d30/a15920.html#ac3c158fdddd007d1d7986470032bfc25", null ],
+    [ "Validate", "d2/d30/a15920.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
 ];

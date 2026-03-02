@@ -1,6 +1,7 @@
 var a14504 =
 [
-    [ "npc_ohganAI", "d3/dc0/a14508.html", "d3/dc0/a14508" ],
-    [ "npc_ohgan", "d1/dee/a14504.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
-    [ "GetAI", "d1/dee/a14504.html#a129dc2fcd449850403e0dcb99725da90", null ]
+    [ "HandleScriptEffect", "d1/dee/a14504.html#ace68732d578fbaeb2b209bfded88853a", null ],
+    [ "PrepareSpellScript", "d1/dee/a14504.html#a42a69995e8f527a383e96e2ead832f72", null ],
+    [ "Register", "d1/dee/a14504.html#abb26c89a617bc27f8c2a1cfbb0935234", null ],
+    [ "Validate", "d1/dee/a14504.html#a7697caf8e5390d290b353fb6a291aa10", null ]
 ];

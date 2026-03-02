@@ -1,6 +1,6 @@
 var a22604 =
 [
-    [ "PrepareSpellScript", "d7/d8c/a22604.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
-    [ "Register", "d7/d8c/a22604.html#aa41700bf097963c5a352442723181037", null ],
-    [ "SelectTarget", "d7/d8c/a22604.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "df/d92/a22608.html", "df/d92/a22608" ],
+    [ "instance_sethekk_halls", "d7/d8c/a22604.html#ab50d296266cf377bfb34750ec36963ef", null ],
+    [ "GetInstanceScript", "d7/d8c/a22604.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
 ];

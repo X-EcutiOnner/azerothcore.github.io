@@ -1,13 +1,12 @@
 var a09248 =
 [
-    [ "QuestPOI", "d2/de1/a09248.html#af4ce75549d1fff2042e98683119214a6", null ],
-    [ "QuestPOI", "d2/de1/a09248.html#a4cf252fabc68cf11df5d44f192955a0b", null ],
-    [ "AreaId", "d2/de1/a09248.html#ad81f08fa2bc5fd0ccd81d0efc42ce804", null ],
-    [ "FloorId", "d2/de1/a09248.html#a1af6ed9fdb9ff429e18fb5d98a42ce45", null ],
-    [ "Id", "d2/de1/a09248.html#aace0de15249c756ba3cbd5763cbb3f98", null ],
-    [ "MapId", "d2/de1/a09248.html#a851f8e6e62373d2592173534754d757b", null ],
-    [ "ObjectiveIndex", "d2/de1/a09248.html#ad80f65110beacd44e667008387e6bb70", null ],
-    [ "points", "d2/de1/a09248.html#aeb505cb061a00ecaa2acc749e391f207", null ],
-    [ "Unk3", "d2/de1/a09248.html#a1f1d8fa843c856b54ec1ca85b08d78e1", null ],
-    [ "Unk4", "d2/de1/a09248.html#aa8089160bb8e93ea79df96b956050b70", null ]
+    [ "IsTeamAward1", "d2/de1/a09248.html#a25f928a8f8c3a19b1aa9a5c41b0ba612", null ],
+    [ "IsTeamAward2", "d2/de1/a09248.html#a053bd7825d0464ac322b449f3d243722", null ],
+    [ "RepFaction1", "d2/de1/a09248.html#a4e75bb4149f8bb0b83a5aacba47800dd", null ],
+    [ "RepFaction2", "d2/de1/a09248.html#a5934590811c666d06b68216428574d8a", null ],
+    [ "ReputationMaxCap1", "d2/de1/a09248.html#a292b78f629723c3993a796eb256dd9b8", null ],
+    [ "ReputationMaxCap2", "d2/de1/a09248.html#ac90d17e82d6c8a763d3ea868250b44a7", null ],
+    [ "RepValue1", "d2/de1/a09248.html#a4c5f965e028c45d6ad4d5875f76b2458", null ],
+    [ "RepValue2", "d2/de1/a09248.html#a74f46afc59593d7ae71ab65aa9e1f1c2", null ],
+    [ "TeamDependent", "d2/de1/a09248.html#a66e60a90f166e5fc12ea4dbe615c998f", null ]
 ];

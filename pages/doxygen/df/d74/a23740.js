@@ -1,5 +1,6 @@
 var a23740 =
 [
-    [ "npc_lord_sanguinar", "df/d74/a23740.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
-    [ "ScheduleEvents", "df/d74/a23740.html#af9231da98547875527a519c5884cbec0", null ]
+    [ "HandleCast", "df/d74/a23740.html#a912dc3b17ab7d0818089c32610d82a16", null ],
+    [ "PrepareSpellScript", "df/d74/a23740.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
+    [ "Register", "df/d74/a23740.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
 ];

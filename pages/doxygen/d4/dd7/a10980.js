@@ -1,7 +1,5 @@
 var a10980 =
 [
-    [ "GuildBankSetTabText", "d4/dd7/a10980.html#aba353d3f94a88b71f49b9c0dc096be2c", null ],
-    [ "Read", "d4/dd7/a10980.html#a24f580f6addcd08945c05016b3f0e544", null ],
-    [ "Tab", "d4/dd7/a10980.html#ada6707c2105410d78d4335dbf4747141", null ],
-    [ "TabText", "d4/dd7/a10980.html#a9bb8c3f539fdcf389caf57ed818c6164", null ]
+    [ "Icon", "d4/dd7/a10980.html#ae47c09144b18e42aa48499de3e3fe276", null ],
+    [ "Name", "d4/dd7/a10980.html#a19c79529bbfe25701c9f8253f3e0f9d8", null ]
 ];

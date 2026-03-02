@@ -1,12 +1,11 @@
 var a11556 =
 [
-    [ "WorldObjectSpellTargetCheck", "d6/dbf/a11556.html#a370a66c484d486ac6d2d3419a019c7cd", null ],
-    [ "~WorldObjectSpellTargetCheck", "d6/dbf/a11556.html#a1d519b04f171d230b21da3cc637497cf", null ],
-    [ "operator()", "d6/dbf/a11556.html#a2ae263977948d2195b22a737c36bad20", null ],
-    [ "_caster", "d6/dbf/a11556.html#ac090f8e47bcdfccb85fb791856355827", null ],
-    [ "_condList", "d6/dbf/a11556.html#a70b9331b5871e2e4d92d642715c8192a", null ],
-    [ "_condSrcInfo", "d6/dbf/a11556.html#a288c53998aa7b744f6e3eaeba68fe6d8", null ],
-    [ "_referer", "d6/dbf/a11556.html#a1a24eaafdf716de984a5943e049d10f7", null ],
-    [ "_spellInfo", "d6/dbf/a11556.html#a66bd07338943ee307be19f22326b29b7", null ],
-    [ "_targetSelectionType", "d6/dbf/a11556.html#a0e629a6fd0da179ea0c98c93d2337603", null ]
+    [ "SpellValue", "d6/dbf/a11556.html#a2aebedc86822634a0a80de7a4c16dd7f", null ],
+    [ "AuraDuration", "d6/dbf/a11556.html#af44c190ba8a8636d78f8d271656bdd02", null ],
+    [ "AuraStackAmount", "d6/dbf/a11556.html#af9d7a902bd7d6a24f2ef9480e725d8e8", null ],
+    [ "EffectBasePoints", "d6/dbf/a11556.html#a4de44adea4dc620f0871215e4d4f611d", null ],
+    [ "ForcedCritResult", "d6/dbf/a11556.html#a14f0fd1b3351297e5c71e34e0c9a44fb", null ],
+    [ "MaxAffectedTargets", "d6/dbf/a11556.html#a69ea555bb8ae6642a0c9c85b3f9b373c", null ],
+    [ "MiscVal", "d6/dbf/a11556.html#af81b9a29e521e28a4e88b8677f05a93f", null ],
+    [ "RadiusMod", "d6/dbf/a11556.html#a135bbce8300101411e87a70467dbbd57", null ]
 ];

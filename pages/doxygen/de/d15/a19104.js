@@ -1,7 +1,6 @@
 var a19104 =
 [
-    [ "npc_impaling_spearAI", "de/d15/a19104.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
-    [ "Reset", "de/d15/a19104.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
-    [ "UpdateAI", "de/d15/a19104.html#acb187a58b0ba256b4e003655ac36db34", null ],
-    [ "_vehicleCheckTimer", "de/d15/a19104.html#a264874b9f6f0609792d4b3a325e54f59", null ]
+    [ "npc_captain_brandonAI", "de/d15/a19104.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "de/d15/a19104.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "de/d15/a19104.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

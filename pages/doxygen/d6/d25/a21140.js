@@ -1,6 +1,6 @@
 var a21140 =
 [
-    [ "HandleDummyEffect", "d6/d25/a21140.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
-    [ "PrepareSpellScript", "d6/d25/a21140.html#a07376c95cb2ec41d86a24be59094d207", null ],
-    [ "Register", "d6/d25/a21140.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
+    [ "boss_skadi_graufAI", "da/d9c/a21144.html", "da/d9c/a21144" ],
+    [ "boss_skadi_grauf", "d6/d25/a21140.html#a571db2d2ae21f38b7051319da0f042f6", null ],
+    [ "GetAI", "d6/d25/a21140.html#a9b637a93a572d21691b81b80ec45206d", null ]
 ];

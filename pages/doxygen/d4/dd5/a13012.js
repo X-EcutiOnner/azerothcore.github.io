@@ -1,8 +1,9 @@
 var a13012 =
 [
-    [ "npc_kernobeeAI", "d4/dd5/a13012.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
-    [ "SetGUID", "d4/dd5/a13012.html#ab704b138670279f6d731a6bb58ac6d10", null ],
-    [ "UpdateAI", "d4/dd5/a13012.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
-    [ "checkTimer", "d4/dd5/a13012.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
-    [ "playerGUID", "d4/dd5/a13012.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
+    [ "HandleEffectApply", "d4/dd5/a13012.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
+    [ "HandleEffectRemove", "d4/dd5/a13012.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
+    [ "Load", "d4/dd5/a13012.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
+    [ "PrepareAuraScript", "d4/dd5/a13012.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
+    [ "Register", "d4/dd5/a13012.html#a201bafab6c483b08a6ae27054392dea9", null ],
+    [ "Validate", "d4/dd5/a13012.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
 ];

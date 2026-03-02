@@ -1,5 +1,5 @@
 var a03260 =
 [
-    [ "instance_commandscript", "d9/ddb/a12100.html", "d9/ddb/a12100" ],
-    [ "AddSC_instance_commandscript", "d1/dda/a03260.html#a3d7dc88b6e95322f2f3dc69ad367fa0c", null ]
+    [ "at_quagmirran_lair", "d7/d18/a23308.html", "d7/d18/a23308" ],
+    [ "AddSC_the_slave_pens", "d1/dda/a03260.html#acc273464c0a5ce338fdb03fdd7877dd9", null ]
 ];

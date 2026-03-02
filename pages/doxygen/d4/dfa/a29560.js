@@ -1,7 +1,6 @@
 var a29560 =
 [
-    [ "EnsureScriptRegistriesInitialized", "d4/dfa/a29560.html#ae5a5b6e47735560ea83b9458fb7dd7f4", null ],
-    [ "SetUp", "d4/dfa/a29560.html#a6934840a3250922d4de42044dd35211c", null ],
-    [ "TearDown", "d4/dfa/a29560.html#a8d33dfa0c7dcd81ea426e107beb4b3fa", null ],
-    [ "previousWorld_", "d4/dfa/a29560.html#adff0b9d4abad7843811c543dfd10572e", null ]
+    [ "auraName", "d4/dfa/a29560.html#a953f930e046655ca0d8f373362d3f334", null ],
+    [ "isAlwaysTriggeredAura", "d4/dfa/a29560.html#a05786c8e0daef9a2da98f832c230d99c", null ],
+    [ "procFlags", "d4/dfa/a29560.html#aed48a1ad923118ac0a86d864e1e98519", null ]
 ];

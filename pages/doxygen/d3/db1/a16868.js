@@ -1,7 +1,6 @@
 var a16868 =
 [
-    [ "npc_toc_mageAI", "d3/db1/a16868.html#a188831088c892f68cef7498468b24899", null ],
-    [ "myCanCast", "d3/db1/a16868.html#aaf7fd7b143a4eb410465c7cb34c32d2f", null ],
-    [ "UpdateAI", "d3/db1/a16868.html#a0f4393341a6c565aef2c0b79a39c0699", null ],
-    [ "events", "d3/db1/a16868.html#ab1910ce98f3d1b14e45acba22782d536", null ]
+    [ "npc_toc_paladinAI", "d6/d86/a16872.html", "d6/d86/a16872" ],
+    [ "npc_toc_paladin", "d3/db1/a16868.html#af11025a2a4be2b2c982ad31241d47180", null ],
+    [ "GetAI", "d3/db1/a16868.html#a15766ea4414701040c738251302177af", null ]
 ];

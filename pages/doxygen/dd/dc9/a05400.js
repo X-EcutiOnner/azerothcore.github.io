@@ -1,9 +1,25 @@
 var a05400 =
 [
-    [ "FactoryHolderRegistry", "dd/dc9/a05400.html#a5384598eca62a35bc617a4c395353ecd", null ],
-    [ "FactoryHolder", "dd/dc9/a05400.html#a5e7097c2a475378023f33ec430f4ca85", null ],
-    [ "~FactoryHolder", "dd/dc9/a05400.html#a78673bd2f3d857127c1a91c49e3cd62f", null ],
-    [ "Create", "dd/dc9/a05400.html#a7072fb7dfe99890dea89b1ba661eb3ce", null ],
-    [ "RegisterSelf", "dd/dc9/a05400.html#a9e173f9daaf5c2de36bb8b46da4249e1", null ],
-    [ "_key", "dd/dc9/a05400.html#a98c0e66f8caaa207771efd82b2c2f9aa", null ]
+    [ "Record", "d4/d15/a05404.html", "d4/d15/a05404" ],
+    [ "DBCFileLoader", "dd/dc9/a05400.html#a99ba418c63c49cf9a028626b8e282a01", null ],
+    [ "~DBCFileLoader", "dd/dc9/a05400.html#a2e8dd3e5d88b870ea01e0c8dbfa55acd", null ],
+    [ "DBCFileLoader", "dd/dc9/a05400.html#a2e75536e8df1449449b4b6fe5585074d", null ],
+    [ "AutoProduceData", "dd/dc9/a05400.html#af8810dd9cef9ed82036bbebb4c938521", null ],
+    [ "AutoProduceStrings", "dd/dc9/a05400.html#a12054e13d90636076ce04587aacf8ff6", null ],
+    [ "GetCols", "dd/dc9/a05400.html#a3c536a9333a06213a37c95087eaaf8e3", null ],
+    [ "GetFormatRecordSize", "dd/dc9/a05400.html#a990308cf88d2772db090c37a66e9f9e5", null ],
+    [ "GetNumRows", "dd/dc9/a05400.html#aeedb51dd9b316063a58a989b175d0bc5", null ],
+    [ "GetOffset", "dd/dc9/a05400.html#ae624604ad0cdae8d3eb7212630a33613", null ],
+    [ "getRecord", "dd/dc9/a05400.html#ac4b1c79585f63f53f6d48db235732e20", null ],
+    [ "GetRowSize", "dd/dc9/a05400.html#af322bc9e92472463998ca8082c5da3d6", null ],
+    [ "IsLoaded", "dd/dc9/a05400.html#a28bf265dafc284e9edb55fc1ed261694", null ],
+    [ "Load", "dd/dc9/a05400.html#a32c6a04567395f66270858c5feb57f5f", null ],
+    [ "operator=", "dd/dc9/a05400.html#ac2b0f30fb125b8dae385ca8330d02e8b", null ],
+    [ "data", "dd/dc9/a05400.html#a137152d873bfa3cb2d3860fe6001f404", null ],
+    [ "fieldCount", "dd/dc9/a05400.html#a920472d71232fa759bce768fdca9a1c4", null ],
+    [ "fieldsOffset", "dd/dc9/a05400.html#a7aa68d259f6295df3029456bde143862", null ],
+    [ "recordCount", "dd/dc9/a05400.html#a1a17426b679598ee27363e897b40f2bf", null ],
+    [ "recordSize", "dd/dc9/a05400.html#ab4f28de7c57a6e25c715bb009ed5f701", null ],
+    [ "stringSize", "dd/dc9/a05400.html#a0761727ba38d899f337c733873742d69", null ],
+    [ "stringTable", "dd/dc9/a05400.html#a5961bf01316cc14a075c1b874000e8a2", null ]
 ];

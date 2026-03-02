@@ -1,7 +1,6 @@
 var a21884 =
 [
-    [ "HandleDummy", "d5/db5/a21884.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
-    [ "PrepareSpellScript", "d5/db5/a21884.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
-    [ "Register", "d5/db5/a21884.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
-    [ "Validate", "d5/db5/a21884.html#aeec15705a41ad2ac0e59d90086591d96", null ]
+    [ "npc_venture_co_stragglerAI", "da/da0/a21888.html", "da/da0/a21888" ],
+    [ "npc_venture_co_straggler", "d5/db5/a21884.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
+    [ "GetAI", "d5/db5/a21884.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
 ];

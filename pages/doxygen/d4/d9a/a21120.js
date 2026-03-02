@@ -1,5 +1,6 @@
 var a21120 =
 [
-    [ "go_harpoon_canon", "d4/d9a/a21120.html#aa7651e111cade00bbbdb9d0feced03e6", null ],
-    [ "OnGossipHello", "d4/d9a/a21120.html#ad0098bafd1233636bde181312126e65f", null ]
+    [ "npc_frenzied_worgenAI", "de/d5d/a21124.html", "de/d5d/a21124" ],
+    [ "npc_frenzied_worgen", "d4/d9a/a21120.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
+    [ "GetAI", "d4/d9a/a21120.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
 ];

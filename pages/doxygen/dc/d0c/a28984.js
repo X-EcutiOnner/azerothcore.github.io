@@ -1,13 +1,11 @@
 var a28984 =
 [
-    [ "HasFlag", "dc/d0c/a28984.html#a5d13e1af17cddf3acdbfc5387869e43f", null ],
-    [ "CinematicSequence", "dc/d0c/a28984.html#a33a01b1c26b21706d9898af246f2a0df", null ],
-    [ "expansion", "dc/d0c/a28984.html#ab6547f8b08d4d1bf57a37f9574b71e43", null ],
-    [ "FactionID", "dc/d0c/a28984.html#a5c66801f2f89aeb847699a2dd87486c7", null ],
-    [ "Flags", "dc/d0c/a28984.html#a8c2d30fb87284806a93d4c1da4a6edb0", null ],
-    [ "model_f", "dc/d0c/a28984.html#a4807227fd863e247b18d29db0ea8236a", null ],
-    [ "model_m", "dc/d0c/a28984.html#a50b5409352d7fe3e6f5919d83c9a0eae", null ],
-    [ "name", "dc/d0c/a28984.html#a4970323e45feb3f74b47420648371ab6", null ],
-    [ "RaceID", "dc/d0c/a28984.html#a853f3262af3408cf2791e7cd08ec8d32", null ],
-    [ "TeamID", "dc/d0c/a28984.html#addd21f5fbf6868e7cf2cd3c54c7172a1", null ]
+    [ "icon", "dc/d0c/a28984.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
+    [ "id", "dc/d0c/a28984.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
+    [ "mapId", "dc/d0c/a28984.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
+    [ "worldState", "dc/d0c/a28984.html#a9d745d26316726c861cc5a242f6a4f57", null ],
+    [ "x", "dc/d0c/a28984.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
+    [ "y", "dc/d0c/a28984.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
+    [ "z", "dc/d0c/a28984.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
+    [ "zoneId", "dc/d0c/a28984.html#a0cc33089981237694ca550cba6793a3e", null ]
 ];

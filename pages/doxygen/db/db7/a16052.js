@@ -1,7 +1,6 @@
 var a16052 =
 [
-    [ "npc_steward_of_time", "db/db7/a16052.html#ad49973464c96f44506033b73a85f6360", null ],
-    [ "OnGossipHello", "db/db7/a16052.html#a3b61038393c3addbbfa6643438164db3", null ],
-    [ "OnGossipSelect", "db/db7/a16052.html#af4fe13e266a98129b92e5a25188d947c", null ],
-    [ "OnQuestAccept", "db/db7/a16052.html#a53d552282da49e8246089b2799fff9ca", null ]
+    [ "go_wind_stoneAI", "dc/d2d/a16056.html", "dc/d2d/a16056" ],
+    [ "go_wind_stone", "db/db7/a16052.html#a70c4bcb743b0d587caad4b574c589e3e", null ],
+    [ "GetAI", "db/db7/a16052.html#ab7add0fe4e58eec422e37ae04b9338df", null ]
 ];

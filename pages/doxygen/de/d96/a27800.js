@@ -1,6 +1,7 @@
 var a27800 =
 [
-    [ "CalculateAmount", "de/d96/a27800.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
-    [ "PrepareAuraScript", "de/d96/a27800.html#a845476e27b3751fd5aab505d41d8696d", null ],
-    [ "Register", "de/d96/a27800.html#aa5141f11bcd97cc501297a5309df1079", null ]
+    [ "HandleDummy", "de/d96/a27800.html#a3af91500357eb127f813334bdf538dbd", null ],
+    [ "PrepareSpellScript", "de/d96/a27800.html#ae34ff5e6027efecc34fa770690df5887", null ],
+    [ "Register", "de/d96/a27800.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
+    [ "Validate", "de/d96/a27800.html#a0b107442c0b76a018cc019f776c0b785", null ]
 ];

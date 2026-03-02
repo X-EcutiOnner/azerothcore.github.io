@@ -1,5 +1,6 @@
 var a10260 =
 [
-    [ "Cost", "df/d6f/a10260.html#a6de1eebdd222f71e874a46e5daa354a4", null ],
-    [ "PathIndex", "df/d6f/a10260.html#aa5f8bc350f2c5aeac9d5e135c34eb662", null ]
+    [ "TargetedMovementGeneratorBase", "df/d6f/a10260.html#a670b36c578b32b7d582e8f4b6ef656c3", null ],
+    [ "stopFollowing", "df/d6f/a10260.html#adb0a6f1a63ce265fc63bf362e2f60488", null ],
+    [ "i_target", "df/d6f/a10260.html#a427d8512cbd0ccbaca65dcf48bbe39f6", null ]
 ];

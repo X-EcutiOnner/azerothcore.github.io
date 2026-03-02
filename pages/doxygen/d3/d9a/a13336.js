@@ -1,5 +1,5 @@
 var a13336 =
 [
-    [ "instance_magisters_terrace_InstanceMapScript", "d3/d9a/a13336.html#ad083ab5aa00902987e18f4e9423a705a", null ],
-    [ "ProcessEvent", "d3/d9a/a13336.html#a8dbe1537ea00412a6fa366891204d645", null ]
+    [ "boss_eramas_brightblaze", "d3/d9a/a13336.html#a14d1528750036f27948f5de8a2b44bd3", null ],
+    [ "JustEngagedWith", "d3/d9a/a13336.html#ad34613d2795f7371a43891488044392a", null ]
 ];

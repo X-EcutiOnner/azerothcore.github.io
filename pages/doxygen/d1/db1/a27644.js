@@ -1,7 +1,6 @@
 var a27644 =
 [
-    [ "HandleDispel", "d1/db1/a27644.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
-    [ "PrepareAuraScript", "d1/db1/a27644.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
-    [ "Register", "d1/db1/a27644.html#a2c67e4327fdd034978d4822311632980", null ],
-    [ "Validate", "d1/db1/a27644.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
+    [ "HandleDummy", "d1/db1/a27644.html#a2560417162a1c17cb067cdfeb2fc909d", null ],
+    [ "PrepareSpellScript", "d1/db1/a27644.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c", null ],
+    [ "Register", "d1/db1/a27644.html#a27aece218c848064ae387491f9176099", null ]
 ];

@@ -1,6 +1,6 @@
 var a23900 =
 [
-    [ "npc_simon_bunnyAI", "d0/d7c/a23904.html", "d0/d7c/a23904" ],
-    [ "npc_simon_bunny", "d6/d77/a23900.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
-    [ "GetAI", "d6/d77/a23900.html#ac0c97609916321a1599c0722803a050f", null ]
+    [ "npc_deaths_fel_cannonAI", "d0/d7c/a23904.html", "d0/d7c/a23904" ],
+    [ "npc_deaths_fel_cannon", "d6/d77/a23900.html#a87ecaca75061928600b5114d3913dd26", null ],
+    [ "GetAI", "d6/d77/a23900.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
 ];

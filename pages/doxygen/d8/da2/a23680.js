@@ -1,7 +1,8 @@
 var a23680 =
 [
-    [ "boss_warp_splinter", "d8/da2/a23680.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
-    [ "JustDied", "d8/da2/a23680.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
-    [ "JustEngagedWith", "d8/da2/a23680.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
-    [ "KilledUnit", "d8/da2/a23680.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
+    [ "boss_commander_sarannis", "d8/da2/a23680.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "d8/da2/a23680.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "d8/da2/a23680.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "d8/da2/a23680.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "d8/da2/a23680.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

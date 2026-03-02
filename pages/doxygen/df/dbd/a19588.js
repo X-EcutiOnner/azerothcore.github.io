@@ -1,6 +1,10 @@
 var a19588 =
 [
-    [ "FilterTargets", "df/dbd/a19588.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
-    [ "PrepareSpellScript", "df/dbd/a19588.html#a452937a4e95b40366f915213ec475a84", null ],
-    [ "Register", "df/dbd/a19588.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
+    [ "boss_patchwerkAI", "df/dbd/a19588.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "df/dbd/a19588.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "df/dbd/a19588.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "df/dbd/a19588.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "df/dbd/a19588.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "df/dbd/a19588.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "df/dbd/a19588.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

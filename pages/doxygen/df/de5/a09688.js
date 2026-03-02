@@ -1,7 +1,8 @@
 var a09688 =
 [
-    [ "ObjectGUIDCheck", "df/de5/a09688.html#a4932b3610ddc148ee5a30a6ce91c6f27", null ],
-    [ "operator()", "df/de5/a09688.html#a0f3f6e89a9e621a208cd6795722ae4ef", null ],
-    [ "_equals", "df/de5/a09688.html#a413d991eeee0294a54f3c803e296c3ac", null ],
-    [ "_GUID", "df/de5/a09688.html#a0e97bfe0e160177549a831df8e9b4555", null ]
+    [ "AllCreaturesMatchingOneEntryInRange", "df/de5/a09688.html#a440899ae5e52fedea316b7caa550455e", null ],
+    [ "operator()", "df/de5/a09688.html#a95c87356617b135cc3ab0aec74e9f9c9", null ],
+    [ "m_fRange", "df/de5/a09688.html#ac3ca671167fe5dbc8f9798327a8a3fcf", null ],
+    [ "m_pObject", "df/de5/a09688.html#a1a7b27a1b2f0d623829605e42bf98900", null ],
+    [ "m_uiEntries", "df/de5/a09688.html#a8411b275c6aad74eac83147a6d06fb0b", null ]
 ];

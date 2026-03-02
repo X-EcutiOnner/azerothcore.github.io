@@ -1,33 +1,6 @@
 var a05272 =
 [
-    [ "InsideResult", "d1/d54/a05272.html#a520457b6fe2c2707f0d8da1ccbbde457", [
-      [ "INSIDE", "d1/d54/a05272.html#a520457b6fe2c2707f0d8da1ccbbde457af357b54bbe505f0b5ba932bcfab39b18", null ],
-      [ "MAYBE_INSIDE", "d1/d54/a05272.html#a520457b6fe2c2707f0d8da1ccbbde457a26e412c26fdcf08bfe1ae1ab2bfe8518", null ],
-      [ "ABOVE", "d1/d54/a05272.html#a520457b6fe2c2707f0d8da1ccbbde457ade41efcd4de148c354b78783c2c1ea2a", null ],
-      [ "OUT_OF_BOUNDS", "d1/d54/a05272.html#a520457b6fe2c2707f0d8da1ccbbde457abc5e954c6dc0389c17bc5b1db8d57d85", null ]
-    ] ],
-    [ "GroupModel", "d1/d54/a05272.html#a04394355a9e29ac711f1eac8e1b8f598", null ],
-    [ "GroupModel", "d1/d54/a05272.html#ae80a3f105bb90f9c53c79e120493a080", null ],
-    [ "GroupModel", "d1/d54/a05272.html#abd91bd31c5ec616718cf20f6a1bbb3dc", null ],
-    [ "~GroupModel", "d1/d54/a05272.html#ac4995a270e70f74e6019d35054257c0d", null ],
-    [ "GetBound", "d1/d54/a05272.html#af640b3128c06158f668c0376aa2f870b", null ],
-    [ "GetLiquidLevel", "d1/d54/a05272.html#a7d40df575640d6af6f07a8d2fac3d2b3", null ],
-    [ "GetLiquidType", "d1/d54/a05272.html#a18a06e1abd1bd1631252d984fc6523bf", null ],
-    [ "GetMeshData", "d1/d54/a05272.html#aca4c1cbe22c8f294295eaeda61a41b9a", null ],
-    [ "GetMeshTreeBound", "d1/d54/a05272.html#ab5aae4ea3f04f7995163f785e39f3f0b", null ],
-    [ "GetMogpFlags", "d1/d54/a05272.html#a3a9097772a45d937f95bd2388fca9832", null ],
-    [ "GetWmoID", "d1/d54/a05272.html#a688249a2be14b24567ec46628c9f54b3", null ],
-    [ "IntersectRay", "d1/d54/a05272.html#a993fe26ded8eae40979501ca2004cc76", null ],
-    [ "IsInsideObject", "d1/d54/a05272.html#a885e4ceb83a723599028f45a08fb2f07", null ],
-    [ "readFromFile", "d1/d54/a05272.html#a26ef5a949f7534384d5e18ce3559b174", null ],
-    [ "setLiquidData", "d1/d54/a05272.html#aa7ad91aae0543c338dc6a997bf32cce5", null ],
-    [ "setMeshData", "d1/d54/a05272.html#ad8d7db03ddd9996a77798e5a2e639f5c", null ],
-    [ "writeToFile", "d1/d54/a05272.html#ad1e9c0a3541accf4e4b3c71d1df5c215", null ],
-    [ "iBound", "d1/d54/a05272.html#aec53fdbb6149933298aefbee61d0f442", null ],
-    [ "iGroupWMOID", "d1/d54/a05272.html#adce0e8627021d63217e9efa20e007e36", null ],
-    [ "iLiquid", "d1/d54/a05272.html#a5ad484131e1ec589aa5e9d6f61753c0b", null ],
-    [ "iMogpFlags", "d1/d54/a05272.html#a729f44ee16b082afa174718cb4fdf802", null ],
-    [ "meshTree", "d1/d54/a05272.html#a4c7b308534724048e724265fb1e2adf9", null ],
-    [ "triangles", "d1/d54/a05272.html#a70053fa0535dd38ea81e1e3f2be123e8", null ],
-    [ "vertices", "d1/d54/a05272.html#a0e784e5b8967ee5c475fab8e2e80ca88", null ]
+    [ "TriBoundFunc", "d1/d54/a05272.html#a42711c10595c048420a09e35e3345229", null ],
+    [ "operator()", "d1/d54/a05272.html#a026d443e9156f884a21351700b6c69dd", null ],
+    [ "vertices", "d1/d54/a05272.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb", null ]
 ];

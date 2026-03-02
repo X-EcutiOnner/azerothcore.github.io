@@ -1,4 +1,4 @@
 var a00752 =
 [
-    [ "WardenPayloadMgr", "de/d02/a11940.html", "de/d02/a11940" ]
+    [ "lfg::LfgPlayerData", "da/d3e/a08200.html", "da/d3e/a08200" ]
 ];

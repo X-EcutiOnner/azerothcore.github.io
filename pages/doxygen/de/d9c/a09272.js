@@ -1,7 +1,7 @@
 var a09272 =
 [
-    [ "GetAntiDosPolicyForOpcode", "de/d9c/a09272.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
-    [ "instance", "de/d9c/a09272.html#a859596f153aa470fa503f67092e26160", null ],
-    [ "LoadAntiDosOpcodePolicies", "de/d9c/a09272.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
-    [ "_antiDosOpcodePolicies", "de/d9c/a09272.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
+    [ "QuestPOIPoint", "de/d9c/a09272.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
+    [ "QuestPOIPoint", "de/d9c/a09272.html#a2e80e5a83ab336a8b019f38297862efa", null ],
+    [ "x", "de/d9c/a09272.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
+    [ "y", "de/d9c/a09272.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
 ];

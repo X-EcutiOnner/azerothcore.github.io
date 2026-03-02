@@ -1,6 +1,6 @@
 var a21364 =
 [
-    [ "npc_azure_invaderAI", "dd/d0c/a21368.html", "dd/d0c/a21368" ],
-    [ "npc_azure_invader", "d0/d86/a21364.html#ab318178a618f2bfdcd5ea3105c240d32", null ],
-    [ "GetAI", "d0/d86/a21364.html#a19c000084ea74a401ece81ee0e20b65c", null ]
+    [ "instance_violet_hold_InstanceMapScript", "dd/d0c/a21368.html", "dd/d0c/a21368" ],
+    [ "instance_violet_hold", "d0/d86/a21364.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
+    [ "GetInstanceScript", "d0/d86/a21364.html#aeedcbb24b0709bd172ebbbc6d9851532", null ]
 ];

@@ -1,5 +1,5 @@
 var a28212 =
 [
-    [ "go_table_theka", "d9/d39/a28212.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
-    [ "OnGossipHello", "d9/d39/a28212.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
+    [ "go_sacred_fire_of_life", "d9/d39/a28212.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
+    [ "OnGossipHello", "d9/d39/a28212.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
 ];

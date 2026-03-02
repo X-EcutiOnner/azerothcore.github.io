@@ -1,6 +1,8 @@
 var a21616 =
 [
-    [ "npc_dalaran_mageAI", "d4/df3/a21620.html", "d4/df3/a21620" ],
-    [ "npc_dalaran_mage", "da/d25/a21616.html#a764d637ab0c64e2a0cc0459269974d6d", null ],
-    [ "GetAI", "da/d25/a21616.html#ae2deef0546e2bf0df562e0a67b8b0b93", null ]
+    [ "npc_shandy_dalaranAI", "d4/df3/a21620.html", "d4/df3/a21620" ],
+    [ "npc_shandy_dalaran", "da/d25/a21616.html#a7077c769a252af8ba37b5ff5d524463e", null ],
+    [ "GetAI", "da/d25/a21616.html#a641551a2aef739e1679912ae27ddb888", null ],
+    [ "OnGossipHello", "da/d25/a21616.html#a91287aaba09fce091c9d826e75208f84", null ],
+    [ "OnGossipSelect", "da/d25/a21616.html#ad005a17da187e0cfd03d2faf0099c448", null ]
 ];

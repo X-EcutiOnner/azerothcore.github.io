@@ -1,8 +1,6 @@
 var a27708 =
 [
-    [ "CalculateBuffer", "db/df4/a27708.html#a3fa1917fc77575531e485cd0228bcc00", null ],
-    [ "HandleProc", "db/df4/a27708.html#a35edcf5f57dee1bbb63321cd67b200db", null ],
-    [ "PrepareAuraScript", "db/df4/a27708.html#a325ad66cd69a15260e274562250c8e32", null ],
-    [ "Register", "db/df4/a27708.html#a2d107c9db0b3b1859cb284b741a77ef8", null ],
-    [ "Validate", "db/df4/a27708.html#ae7de3e43a47e6b35d0dead23ac51325e", null ]
+    [ "PrepareAuraScript", "db/df4/a27708.html#a65fa925d99065d028e328a92f2a13805", null ],
+    [ "Register", "db/df4/a27708.html#a95dc732286adf4327f68e23015d58c21", null ],
+    [ "RemoveEffect", "db/df4/a27708.html#a3f474c143f64739187b6049cac5e4b38", null ]
 ];

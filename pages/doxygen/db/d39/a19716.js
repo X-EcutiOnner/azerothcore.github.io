@@ -1,7 +1,8 @@
 var a19716 =
 [
-    [ "boss_commander_stoutbeard", "db/d39/a19716.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
-    [ "JustDied", "db/d39/a19716.html#a2fd835408045715058ba476aa56cb4f7", null ],
-    [ "JustEngagedWith", "db/d39/a19716.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
-    [ "KilledUnit", "db/d39/a19716.html#acf7016c65f020dca9228bd2d2fd89299", null ]
+    [ "FilterTargets", "db/d39/a19716.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "Load", "db/d39/a19716.html#a639105c26214d9887b84a482ca93eb26", null ],
+    [ "PrepareSpellScript", "db/d39/a19716.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "db/d39/a19716.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
+    [ "DrakeGUID", "db/d39/a19716.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
 ];

@@ -1,12 +1,10 @@
 var a22628 =
 [
-    [ "boss_gurtogg_bloodboil", "d6/dd6/a22628.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
-    [ "CanAIAttack", "d6/dd6/a22628.html#a60e6439bab689eb88a18612b6b46c713", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d6/dd6/a22628.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
-    [ "JustDied", "d6/dd6/a22628.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
-    [ "JustEngagedWith", "d6/dd6/a22628.html#a0847173efbae252c2fbbaf1be17097cb", null ],
-    [ "JustSummoned", "d6/dd6/a22628.html#ae718666a1da0e93cb0965c42c40b51df", null ],
-    [ "KilledUnit", "d6/dd6/a22628.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
-    [ "Reset", "d6/dd6/a22628.html#add25677d422b8bddcb753465451f0584", null ],
-    [ "_recentlySpoken", "d6/dd6/a22628.html#a74af813b84f7787a5b764cfe574c087b", null ]
+    [ "boss_murmur", "d6/dd6/a22628.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
+    [ "CastSuppressionOOC", "d6/dd6/a22628.html#aab66339a7436c3c483297b25f6859558", null ],
+    [ "EnterEvadeMode", "d6/dd6/a22628.html#aa0f549c83a92302ece2323c75dd29acc", null ],
+    [ "JustEngagedWith", "d6/dd6/a22628.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
+    [ "Reset", "d6/dd6/a22628.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
+    [ "SetGUID", "d6/dd6/a22628.html#a33ef5951ded28d26fbad832ec8c222e3", null ],
+    [ "ShouldCastResonance", "d6/dd6/a22628.html#ade07217a85655a513d7a472d24589691", null ]
 ];

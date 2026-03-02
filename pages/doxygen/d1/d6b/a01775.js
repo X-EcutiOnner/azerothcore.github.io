@@ -1,8 +1,7 @@
 var a01775 =
 [
-    [ "WorldPackets::Query::NameQuery", "d6/dd0/a11304.html", "d6/dd0/a11304" ],
-    [ "WorldPackets::Query::NameQueryResponse", "d6/d96/a11308.html", "d6/d96/a11308" ],
-    [ "WorldPackets::Query::TimeQuery", "d6/dfb/a11312.html", "d6/dfb/a11312" ],
-    [ "WorldPackets::Query::TimeQueryResponse", "d0/d7b/a11316.html", "d0/d7b/a11316" ],
-    [ "WorldPackets::Query::CorpseMapPositionQuery", "d6/df4/a11320.html", "d6/df4/a11320" ]
+    [ "AuraApplication", "d4/d92/a11528.html", "d4/d92/a11528" ],
+    [ "Aura", "db/d70/a11532.html", "db/d70/a11532" ],
+    [ "UnitAura", "d3/dec/a11536.html", "d3/dec/a11536" ],
+    [ "DynObjAura", "d2/db3/a11540.html", "d2/db3/a11540" ]
 ];

@@ -1,11 +1,15 @@
 var a20160 =
 [
-    [ "boss_flame_leviathan_seat", "d7/d74/a20160.html#a2fc2adc846b2939cf633bf47b4307896", null ],
-    [ "AttackStart", "d7/d74/a20160.html#a88d8a972e5f079c0111c0f189d599e8c", null ],
-    [ "EnterEvadeMode", "d7/d74/a20160.html#ac0f5d43d4be0773fdae62d0ab433713f", null ],
-    [ "PassengerBoarded", "d7/d74/a20160.html#a490fdbcb665f37f0b40a35a6cebe77cf", null ],
-    [ "Reset", "d7/d74/a20160.html#aec34fec1a6a3857ea7895a2762bf82d0", null ],
-    [ "UpdateAI", "d7/d74/a20160.html#a303c50b5684410013f95b0202ea33c8e", null ],
-    [ "_despawnTimer", "d7/d74/a20160.html#afe673a7903cffa7acefb725d52efb08a", null ],
-    [ "vehicle", "d7/d74/a20160.html#a9772b52283f16120dbefb5d218844c38", null ]
+    [ "boss_auriaya", "d7/d74/a20160.html#a2d946ada185a29bf00dc49d28089e64e", null ],
+    [ "DoAction", "d7/d74/a20160.html#aa58503020e3382e0c541047b233945a7", null ],
+    [ "ExecuteEvent", "d7/d74/a20160.html#ad8623f7f0dcda5532893c966cb216fc0", null ],
+    [ "GetData", "d7/d74/a20160.html#a44781b758392f8f519b9684617757620", null ],
+    [ "JustDied", "d7/d74/a20160.html#aa68d15f57a1ef545572f6d14a0541f4f", null ],
+    [ "JustEngagedWith", "d7/d74/a20160.html#ac80d7bbc334e20df9e85540556b8714e", null ],
+    [ "JustSummoned", "d7/d74/a20160.html#aaec8af440e83fd614041cb63115adc48", null ],
+    [ "KilledUnit", "d7/d74/a20160.html#a6a3d2a4c2ae460da8db6b92b85bed45f", null ],
+    [ "Reset", "d7/d74/a20160.html#a4e2d1f982b2d5cb34ec8f77f869e8bad", null ],
+    [ "SummonedCreatureDies", "d7/d74/a20160.html#a928a8d7c084125136bdef1ab0a3a4737", null ],
+    [ "_feralDied", "d7/d74/a20160.html#a6e9a34f197964061752d7fd8283b1bf0", null ],
+    [ "_nineLives", "d7/d74/a20160.html#a26d80573eda1aa1005e1bc5453c182af", null ]
 ];

@@ -1,5 +1,5 @@
 var a24376 =
 [
-    [ "npc_pet_pri_lightwell", "d2/d6a/a24376.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
-    [ "InitializeAI", "d2/d6a/a24376.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
+    [ "npc_pet_proto_drake_whelp", "d2/d6a/a24376.html#adfe4251e85cbc018628480c02e7bfd8c", null ],
+    [ "Reset", "d2/d6a/a24376.html#a4c7697ea29c172dcedbbf84d0b5b1d6f", null ]
 ];

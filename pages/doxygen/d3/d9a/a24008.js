@@ -1,8 +1,7 @@
 var a24008 =
 [
-    [ "npc_captain_saeedAI", "d0/db5/a24012.html", "d0/db5/a24012" ],
-    [ "npc_captain_saeed", "d3/d9a/a24008.html#a8a5bee9f908b10451b8d4720dff85670", null ],
-    [ "GetAI", "d3/d9a/a24008.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
-    [ "OnGossipHello", "d3/d9a/a24008.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
-    [ "OnGossipSelect", "d3/d9a/a24008.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
+    [ "npc_maghar_captiveAI", "d0/db5/a24012.html", "d0/db5/a24012" ],
+    [ "npc_maghar_captive", "d3/d9a/a24008.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
+    [ "GetAI", "d3/d9a/a24008.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
+    [ "OnQuestAccept", "d3/d9a/a24008.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
 ];

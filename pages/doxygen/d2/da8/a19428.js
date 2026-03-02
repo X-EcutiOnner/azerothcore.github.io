@@ -1,6 +1,6 @@
 var a19428 =
 [
-    [ "NotOnSameSide", "d2/da8/a19428.html#ac3189b202a8c0ca4c8f52799ed54e284", null ],
-    [ "operator()", "d2/da8/a19428.html#a59ea48b9633049180ec62d3616fe4dea", null ],
-    [ "m_inLiveSide", "d2/da8/a19428.html#a77c1d18f54609a5f4da2e9c13f62293d", null ]
+    [ "boss_four_horsemenAI", "d2/da2/a19432.html", "d2/da2/a19432" ],
+    [ "boss_four_horsemen", "d2/da8/a19428.html#a6bcaf9a12d854a322f50ac2f98dbb72b", null ],
+    [ "GetAI", "d2/da8/a19428.html#a3ee27da1d0da48306cc10c17c9411d1a", null ]
 ];

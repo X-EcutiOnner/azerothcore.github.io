@@ -1,7 +1,5 @@
 var a15348 =
 [
-    [ "npc_onyxian_lair_guard", "d1/dac/a15348.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
-    [ "JustEngagedWith", "d1/dac/a15348.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
-    [ "UpdateAI", "d1/dac/a15348.html#ac8649636d5847813e49d2ada05f78645", null ],
-    [ "events", "d1/dac/a15348.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
+    [ "npc_black_morass_summoned_add", "d1/dac/a15348.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
+    [ "EnterEvadeMode", "d1/dac/a15348.html#a437e7b72b985713d22883f3e33f30942", null ]
 ];

@@ -1,6 +1,7 @@
 var a18332 =
 [
-    [ "HandlePeriodic", "d0/dd0/a18332.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
-    [ "PrepareAuraScript", "d0/dd0/a18332.html#a5d855d79247dff6f949a5e099abb9352", null ],
-    [ "Register", "d0/dd0/a18332.html#ae797de0ed29b3ca179c07d759b469228", null ]
+    [ "HandleTriggerSpell", "d0/dd0/a18332.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "d0/dd0/a18332.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "d0/dd0/a18332.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "d0/dd0/a18332.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

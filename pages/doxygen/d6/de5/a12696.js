@@ -1,6 +1,6 @@
 var a12696 =
 [
-    [ "boss_firemawAI", "d6/de5/a12696.html#ab3f56c97119676b1a75662e52caecb75", null ],
-    [ "JustEngagedWith", "d6/de5/a12696.html#a04cb1d2fa18dba82b9c881b09406a076", null ],
-    [ "UpdateAI", "d6/de5/a12696.html#a6e35e47b23d713263ef00769324bbbed", null ]
+    [ "boss_chromaggusAI", "d9/d2a/a12700.html", "d9/d2a/a12700" ],
+    [ "boss_chromaggus", "d6/de5/a12696.html#a55847fc0d5430d3f22074b53d7caca4b", null ],
+    [ "GetAI", "d6/de5/a12696.html#ace78172cafb122ce5961ed837201c32b", null ]
 ];

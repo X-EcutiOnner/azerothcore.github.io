@@ -1,6 +1,7 @@
 var a28508 =
 [
-    [ "npc_experience", "dc/dde/a28508.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
-    [ "OnGossipHello", "dc/dde/a28508.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
-    [ "OnGossipSelect", "dc/dde/a28508.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
+    [ "npc_guardianAI", "dc/dde/a28508.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "dc/dde/a28508.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "dc/dde/a28508.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "dc/dde/a28508.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

@@ -1,7 +1,7 @@
 var a18232 =
 [
-    [ "HandleScriptEffect", "df/ddb/a18232.html#abeb703f8f050677bafb8f5ce4173751a", null ],
-    [ "PrepareSpellScript", "df/ddb/a18232.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
-    [ "Register", "df/ddb/a18232.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
-    [ "SelectTarget", "df/ddb/a18232.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
+    [ "OnPeriodic", "df/ddb/a18232.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
+    [ "PrepareAuraScript", "df/ddb/a18232.html#a0e87dae1be4f69e6412129f14056eb79", null ],
+    [ "Register", "df/ddb/a18232.html#a1b26d102252bf7e0fd480076820d343f", null ],
+    [ "Validate", "df/ddb/a18232.html#a211d52aa385a874730abc43b083f2d22", null ]
 ];

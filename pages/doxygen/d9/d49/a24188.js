@@ -1,6 +1,6 @@
 var a24188 =
 [
-    [ "npc_zephyr", "d9/d49/a24188.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
-    [ "OnGossipHello", "d9/d49/a24188.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
-    [ "OnGossipSelect", "d9/d49/a24188.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "d5/dcb/a24192.html", "d5/dcb/a24192" ],
+    [ "npc_shadowmoon_tuber_node", "d9/d49/a24188.html#a98e8c7a84789457900fa342cca209d41", null ],
+    [ "GetAI", "d9/d49/a24188.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
 ];

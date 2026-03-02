@@ -1,10 +1,15 @@
 var a05448 =
 [
-    [ "Category", "d9/d21/a05448.html#a6a7956fedac99271428968ba339f464f", null ],
-    [ "Tags", "d9/d21/a05448.html#ac22787b2dadd4d3991f72f6ccab5c225", null ],
-    [ "Text", "d9/d21/a05448.html#ab63598f64896186fde81048550767b28", null ],
-    [ "Timestamp", "d9/d21/a05448.html#a8248a27d920ca431493750e3f2dec48b", null ],
-    [ "Title", "d9/d21/a05448.html#a857d2d4843480b9967334f079351292a", null ],
-    [ "Type", "d9/d21/a05448.html#af9962592650ba24fd9b3c0ee9ce06f7f", null ],
-    [ "Value", "d9/d21/a05448.html#a09832a09e989c3851e72f4ec198f0e20", null ]
+    [ "iterator", "d9/d21/a05448.html#a301cf316e15e5f55046c1c25ef2a4f5b", null ],
+    [ "RefMgr", "d9/d21/a05448.html#a72110d71a275f564d31d2e6c84c331c3", null ],
+    [ "~RefMgr", "d9/d21/a05448.html#ab386dd35fa62dbf7f1ba2131e6e99f7c", null ],
+    [ "begin", "d9/d21/a05448.html#aacaf11c49931c87bd52b8382065447d3", null ],
+    [ "clearReferences", "d9/d21/a05448.html#a912750f6257a33cd1f85079448b45928", null ],
+    [ "end", "d9/d21/a05448.html#aab6573a792b9b24c3dc4a690c6ff77d9", null ],
+    [ "getFirst", "d9/d21/a05448.html#a67de35d375c34c38db2b87481a141ebf", null ],
+    [ "getFirst", "d9/d21/a05448.html#a2636030fdcd2312e7c2556c2da3ef948", null ],
+    [ "getLast", "d9/d21/a05448.html#a6695bac4fd79bb428fd1f6a72ad6c3e3", null ],
+    [ "getLast", "d9/d21/a05448.html#afab4e70c39d83e38048c5fe80166e5fa", null ],
+    [ "rbegin", "d9/d21/a05448.html#a4c64b9aad3611aff0d1c419b5d5fa8f0", null ],
+    [ "rend", "d9/d21/a05448.html#ae5ef045c8e3bbce625ffdc2c075b90c2", null ]
 ];

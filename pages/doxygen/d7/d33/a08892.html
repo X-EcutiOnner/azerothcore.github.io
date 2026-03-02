@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: UnitActionBarEntry Struct Reference</title>
+<title>AzerothCore: TradeData Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,40 +106,80 @@ $(document).ready(function(){initNavTree('d7/d33/a08892.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d9/d89/a08889.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">UnitActionBarEntry Struct Reference</div></div>
+  <div class="headertitle"><div class="title">TradeData Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">CharmInfo.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">TradeData.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a41f9020c4811b14fc543ddece6af86d7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a41f9020c4811b14fc543ddece6af86d7">UnitActionBarEntry</a> ()</td></tr>
-<tr class="separator:a41f9020c4811b14fc543ddece6af86d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0615e6ad9cf5523d6dc85bd529e65f32"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d69/a00878.html#aaec28a439b9086a5fd69bd5358bb46da">ActiveStates</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a0615e6ad9cf5523d6dc85bd529e65f32">GetType</a> () const</td></tr>
-<tr class="separator:a0615e6ad9cf5523d6dc85bd529e65f32"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afd77e2f64ec856059759d05ddf77876e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#afd77e2f64ec856059759d05ddf77876e">GetAction</a> () const</td></tr>
-<tr class="separator:afd77e2f64ec856059759d05ddf77876e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2af43ec77fcd077b2fe9ca3a6d80123b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a2af43ec77fcd077b2fe9ca3a6d80123b">IsActionBarForSpell</a> () const</td></tr>
-<tr class="separator:a2af43ec77fcd077b2fe9ca3a6d80123b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a110840d38445795957ee0425175b4fb6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a110840d38445795957ee0425175b4fb6">SetActionAndType</a> (<a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> action, <a class="el" href="../../d5/d69/a00878.html#aaec28a439b9086a5fd69bd5358bb46da">ActiveStates</a> type)</td></tr>
-<tr class="separator:a110840d38445795957ee0425175b4fb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a38e0dcad391d09e475f90be5a5382f78"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a38e0dcad391d09e475f90be5a5382f78">SetType</a> (<a class="el" href="../../d5/d69/a00878.html#aaec28a439b9086a5fd69bd5358bb46da">ActiveStates</a> type)</td></tr>
-<tr class="separator:a38e0dcad391d09e475f90be5a5382f78"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa00953783b0b3de3beb755a054c77730"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#aa00953783b0b3de3beb755a054c77730">SetAction</a> (<a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> action)</td></tr>
-<tr class="separator:aa00953783b0b3de3beb755a054c77730"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac2bfab37acbdb9fd955d8f2ee8876b79"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#ac2bfab37acbdb9fd955d8f2ee8876b79">TradeData</a> (<a class="el" href="../../d4/dfc/a08856.html">Player</a> *player, <a class="el" href="../../d4/dfc/a08856.html">Player</a> *trader)</td></tr>
+<tr class="separator:ac2bfab37acbdb9fd955d8f2ee8876b79"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3e3023cdf6deb5283ebbe844727cadef"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/dfc/a08856.html">Player</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a3e3023cdf6deb5283ebbe844727cadef">GetTrader</a> () const</td></tr>
+<tr class="separator:a3e3023cdf6deb5283ebbe844727cadef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a91911ad105b24d6055a65b07ab6c269f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d33/a08892.html">TradeData</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a91911ad105b24d6055a65b07ab6c269f">GetTraderData</a> () const</td></tr>
+<tr class="separator:a91911ad105b24d6055a65b07ab6c269f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6c769042535c69e89bdc19234dd680e4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d41/a08564.html">Item</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a6c769042535c69e89bdc19234dd680e4">GetItem</a> (<a class="el" href="../../d1/d72/a01319.html#ad8fd978c4198825d89a1f02643d20c62">TradeSlots</a> slot) const</td></tr>
+<tr class="separator:a6c769042535c69e89bdc19234dd680e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a420249fcbb7394f16009861ccdb6962a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a420249fcbb7394f16009861ccdb6962a">HasItem</a> (<a class="el" href="../../d5/df2/a08656.html">ObjectGuid</a> itemGuid) const</td></tr>
+<tr class="separator:a420249fcbb7394f16009861ccdb6962a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2982777fbad962000c016309667104df"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d72/a01319.html#ad8fd978c4198825d89a1f02643d20c62">TradeSlots</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a2982777fbad962000c016309667104df">GetTradeSlotForItem</a> (<a class="el" href="../../d5/df2/a08656.html">ObjectGuid</a> itemGuid) const</td></tr>
+<tr class="separator:a2982777fbad962000c016309667104df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab3eff66bb411bd22a11d8e29f7961507"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#ab3eff66bb411bd22a11d8e29f7961507">SetItem</a> (<a class="el" href="../../d1/d72/a01319.html#ad8fd978c4198825d89a1f02643d20c62">TradeSlots</a> slot, <a class="el" href="../../de/d41/a08564.html">Item</a> *item)</td></tr>
+<tr class="separator:ab3eff66bb411bd22a11d8e29f7961507"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a99272f794179b17c50c722ae90ea78bf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a99272f794179b17c50c722ae90ea78bf">GetSpell</a> () const</td></tr>
+<tr class="separator:a99272f794179b17c50c722ae90ea78bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2afa4c75d1fe0b8a712f270166f838ef"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a2afa4c75d1fe0b8a712f270166f838ef">SetSpell</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spell_id, <a class="el" href="../../de/d41/a08564.html">Item</a> *castItem=nullptr)</td></tr>
+<tr class="separator:a2afa4c75d1fe0b8a712f270166f838ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a011acd6730c58aa75d3c27e793748afc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d41/a08564.html">Item</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a011acd6730c58aa75d3c27e793748afc">GetSpellCastItem</a> () const</td></tr>
+<tr class="separator:a011acd6730c58aa75d3c27e793748afc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a27981abf9bddbfe87bf81836b57e0780"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a27981abf9bddbfe87bf81836b57e0780">HasSpellCastItem</a> () const</td></tr>
+<tr class="separator:a27981abf9bddbfe87bf81836b57e0780"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a54d3de8cb15ccc761d272295b19b7575"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a54d3de8cb15ccc761d272295b19b7575">GetMoney</a> () const</td></tr>
+<tr class="separator:a54d3de8cb15ccc761d272295b19b7575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0dc996fdc9acab409833caff4e6b489b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a0dc996fdc9acab409833caff4e6b489b">SetMoney</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> money)</td></tr>
+<tr class="separator:a0dc996fdc9acab409833caff4e6b489b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a75b4970c1f26912bc24da528f226ca76"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a75b4970c1f26912bc24da528f226ca76">IsAccepted</a> () const</td></tr>
+<tr class="separator:a75b4970c1f26912bc24da528f226ca76"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6bc7a8ef2633aaff03381e3eeeb0b2af"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a6bc7a8ef2633aaff03381e3eeeb0b2af">SetAccepted</a> (bool state, bool forTrader=false)</td></tr>
+<tr class="separator:a6bc7a8ef2633aaff03381e3eeeb0b2af"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abbae0b720c0b44a05f0625ebafd09cc8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#abbae0b720c0b44a05f0625ebafd09cc8">IsInAcceptProcess</a> () const</td></tr>
+<tr class="separator:abbae0b720c0b44a05f0625ebafd09cc8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4851016708b0e8336ec33c64ab41aa8a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a4851016708b0e8336ec33c64ab41aa8a">SetInAcceptProcess</a> (bool state)</td></tr>
+<tr class="separator:a4851016708b0e8336ec33c64ab41aa8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:aa50957a4c707ce3dbdfd62a75e3cb8eb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#aa50957a4c707ce3dbdfd62a75e3cb8eb">packedData</a></td></tr>
-<tr class="separator:aa50957a4c707ce3dbdfd62a75e3cb8eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a970e3a0d295495973bda1ff5b4732055"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a970e3a0d295495973bda1ff5b4732055">Update</a> (bool for_trader=true)</td></tr>
+<tr class="separator:a970e3a0d295495973bda1ff5b4732055"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a4d2719632d13db74da5f8246c48039e5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/dfc/a08856.html">Player</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a4d2719632d13db74da5f8246c48039e5">_player</a></td></tr>
+<tr class="separator:a4d2719632d13db74da5f8246c48039e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af1d6f26bafd7c56c35517ac81409b22c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/dfc/a08856.html">Player</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#af1d6f26bafd7c56c35517ac81409b22c">_trader</a></td></tr>
+<tr class="separator:af1d6f26bafd7c56c35517ac81409b22c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a83714687d004cf506b8478ab9fef03ec"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a83714687d004cf506b8478ab9fef03ec">_accepted</a></td></tr>
+<tr class="separator:a83714687d004cf506b8478ab9fef03ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e585dd9ed486381a55e108a709e4db3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a1e585dd9ed486381a55e108a709e4db3">m_acceptProccess</a></td></tr>
+<tr class="separator:a1e585dd9ed486381a55e108a709e4db3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aade15c8c3f6b2a72349026a9acc85168"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#aade15c8c3f6b2a72349026a9acc85168">_money</a></td></tr>
+<tr class="separator:aade15c8c3f6b2a72349026a9acc85168"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a291fdc4207d594982a780485b960f6fa"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#a291fdc4207d594982a780485b960f6fa">m_spell</a></td></tr>
+<tr class="separator:a291fdc4207d594982a780485b960f6fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adb76e2e7f01cc6f1ee4579ee177ba9c1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/df2/a08656.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#adb76e2e7f01cc6f1ee4579ee177ba9c1">m_spellCastItem</a></td></tr>
+<tr class="separator:adb76e2e7f01cc6f1ee4579ee177ba9c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac27f6047b7585f8b3ef069af68851965"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/df2/a08656.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d33/a08892.html#ac27f6047b7585f8b3ef069af68851965">m_items</a> [<a class="el" href="../../d1/d72/a01319.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488">TRADE_SLOT_COUNT</a>]</td></tr>
+<tr class="separator:ac27f6047b7585f8b3ef069af68851965"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a41f9020c4811b14fc543ddece6af86d7" name="a41f9020c4811b14fc543ddece6af86d7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a41f9020c4811b14fc543ddece6af86d7">&#9670;&#160;</a></span>UnitActionBarEntry()</h2>
+<a id="ac2bfab37acbdb9fd955d8f2ee8876b79" name="ac2bfab37acbdb9fd955d8f2ee8876b79"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac2bfab37acbdb9fd955d8f2ee8876b79">&#9670;&#160;</a></span>TradeData()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -148,179 +188,16 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">UnitActionBarEntry::UnitActionBarEntry </td>
+          <td class="memname">TradeData::TradeData </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   96</span>: <a class="code hl_variable" href="../../d7/d33/a08892.html#aa50957a4c707ce3dbdfd62a75e3cb8eb">packedData</a>(<a class="code hl_typedef" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_enumvalue" href="../../d5/d69/a00878.html#aaec28a439b9086a5fd69bd5358bb46daadeaf81cdbd16fe7cfbb9afd2ae17cc17">ACT_DISABLED</a>) &lt;&lt; 24) {}</div>
-<div class="ttc" id="aa00878_html_aaec28a439b9086a5fd69bd5358bb46daadeaf81cdbd16fe7cfbb9afd2ae17cc17"><div class="ttname"><a href="../../d5/d69/a00878.html#aaec28a439b9086a5fd69bd5358bb46daadeaf81cdbd16fe7cfbb9afd2ae17cc17">ACT_DISABLED</a></div><div class="ttdeci">@ ACT_DISABLED</div><div class="ttdef"><b>Definition:</b> CharmInfo.h:62</div></div>
-<div class="ttc" id="aa04337_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa08892_html_aa50957a4c707ce3dbdfd62a75e3cb8eb"><div class="ttname"><a href="../../d7/d33/a08892.html#aa50957a4c707ce3dbdfd62a75e3cb8eb">UnitActionBarEntry::packedData</a></div><div class="ttdeci">uint32 packedData</div><div class="ttdef"><b>Definition:</b> CharmInfo.h:98</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="afd77e2f64ec856059759d05ddf77876e" name="afd77e2f64ec856059759d05ddf77876e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afd77e2f64ec856059759d05ddf77876e">&#9670;&#160;</a></span>GetAction()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> UnitActionBarEntry::GetAction </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  102</span>{ <span class="keywordflow">return</span> <a class="code hl_define" href="../../d5/d69/a00878.html#a374f41406d42023d52c29bb269ccb2b3">UNIT_ACTION_BUTTON_ACTION</a>(<a class="code hl_variable" href="../../d7/d33/a08892.html#aa50957a4c707ce3dbdfd62a75e3cb8eb">packedData</a>); }</div>
-<div class="ttc" id="aa00878_html_a374f41406d42023d52c29bb269ccb2b3"><div class="ttname"><a href="../../d5/d69/a00878.html#a374f41406d42023d52c29bb269ccb2b3">UNIT_ACTION_BUTTON_ACTION</a></div><div class="ttdeci">#define UNIT_ACTION_BUTTON_ACTION(X)</div><div class="ttdef"><b>Definition:</b> CharmInfo.h:31</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00098">packedData</a>, and <a class="el" href="../../#l00031">UNIT_ACTION_BUTTON_ACTION</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l09674">Player::CharmSpellInitialize()</a>, <a class="el" href="../../#l02534">Pet::GenerateActionBarData()</a>, <a class="el" href="../../#l00323">Creature::GetPetAutoSpellOnPos()</a>, <a class="el" href="../../#l00675">WorldSession::HandlePetSetAction()</a>, <a class="el" href="../../#l00291">CharmInfo::SetSpellAutocast()</a>, and <a class="el" href="../../#l00230">CharmInfo::ToggleCreatureAutocast()</a>.</p>
-
-</div>
-</div>
-<a id="a0615e6ad9cf5523d6dc85bd529e65f32" name="a0615e6ad9cf5523d6dc85bd529e65f32"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0615e6ad9cf5523d6dc85bd529e65f32">&#9670;&#160;</a></span>GetType()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d5/d69/a00878.html#aaec28a439b9086a5fd69bd5358bb46da">ActiveStates</a> UnitActionBarEntry::GetType </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  101</span>{ <span class="keywordflow">return</span> <a class="code hl_enumeration" href="../../d5/d69/a00878.html#aaec28a439b9086a5fd69bd5358bb46da">ActiveStates</a>(<a class="code hl_define" href="../../d5/d69/a00878.html#ab00914d5fa4caf6cad7209786ffaf17c">UNIT_ACTION_BUTTON_TYPE</a>(<a class="code hl_variable" href="../../d7/d33/a08892.html#aa50957a4c707ce3dbdfd62a75e3cb8eb">packedData</a>)); }</div>
-<div class="ttc" id="aa00878_html_aaec28a439b9086a5fd69bd5358bb46da"><div class="ttname"><a href="../../d5/d69/a00878.html#aaec28a439b9086a5fd69bd5358bb46da">ActiveStates</a></div><div class="ttdeci">ActiveStates</div><div class="ttdef"><b>Definition:</b> CharmInfo.h:60</div></div>
-<div class="ttc" id="aa00878_html_ab00914d5fa4caf6cad7209786ffaf17c"><div class="ttname"><a href="../../d5/d69/a00878.html#ab00914d5fa4caf6cad7209786ffaf17c">UNIT_ACTION_BUTTON_TYPE</a></div><div class="ttdeci">#define UNIT_ACTION_BUTTON_TYPE(X)</div><div class="ttdef"><b>Definition:</b> CharmInfo.h:32</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00098">packedData</a>, and <a class="el" href="../../#l00032">UNIT_ACTION_BUTTON_TYPE</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l02534">Pet::GenerateActionBarData()</a>, <a class="el" href="../../#l00323">Creature::GetPetAutoSpellOnPos()</a>, <a class="el" href="../../#l00675">WorldSession::HandlePetSetAction()</a>, and <a class="el" href="../../#l00103">IsActionBarForSpell()</a>.</p>
-
-</div>
-</div>
-<a id="a2af43ec77fcd077b2fe9ca3a6d80123b" name="a2af43ec77fcd077b2fe9ca3a6d80123b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2af43ec77fcd077b2fe9ca3a6d80123b">&#9670;&#160;</a></span>IsActionBarForSpell()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool UnitActionBarEntry::IsActionBarForSpell </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  104</span>    {</div>
-<div class="line"><span class="lineno">  105</span>        <a class="code hl_enumeration" href="../../d5/d69/a00878.html#aaec28a439b9086a5fd69bd5358bb46da">ActiveStates</a> <a class="code hl_enumeration" href="../../d8/d36/a04984.html#a636cc62a0635fc1566fb574ebe9941a9">Type</a> = <a class="code hl_function" href="../../d7/d33/a08892.html#a0615e6ad9cf5523d6dc85bd529e65f32">GetType</a>();</div>
-<div class="line"><span class="lineno">  106</span>        <span class="keywordflow">return</span> <a class="code hl_enumeration" href="../../d8/d36/a04984.html#a636cc62a0635fc1566fb574ebe9941a9">Type</a> == <a class="code hl_enumvalue" href="../../d5/d69/a00878.html#aaec28a439b9086a5fd69bd5358bb46daadeaf81cdbd16fe7cfbb9afd2ae17cc17">ACT_DISABLED</a> || <a class="code hl_enumeration" href="../../d8/d36/a04984.html#a636cc62a0635fc1566fb574ebe9941a9">Type</a> == <a class="code hl_enumvalue" href="../../d5/d69/a00878.html#aaec28a439b9086a5fd69bd5358bb46daa60dbce51e005270fd5bc183457883952">ACT_ENABLED</a> || <a class="code hl_enumeration" href="../../d8/d36/a04984.html#a636cc62a0635fc1566fb574ebe9941a9">Type</a> == <a class="code hl_enumvalue" href="../../d5/d69/a00878.html#aaec28a439b9086a5fd69bd5358bb46daad917b891f555940a135b2634d2e72b3b">ACT_PASSIVE</a>;</div>
-<div class="line"><span class="lineno">  107</span>    }</div>
-<div class="ttc" id="aa00878_html_aaec28a439b9086a5fd69bd5358bb46daa60dbce51e005270fd5bc183457883952"><div class="ttname"><a href="../../d5/d69/a00878.html#aaec28a439b9086a5fd69bd5358bb46daa60dbce51e005270fd5bc183457883952">ACT_ENABLED</a></div><div class="ttdeci">@ ACT_ENABLED</div><div class="ttdef"><b>Definition:</b> CharmInfo.h:63</div></div>
-<div class="ttc" id="aa00878_html_aaec28a439b9086a5fd69bd5358bb46daad917b891f555940a135b2634d2e72b3b"><div class="ttname"><a href="../../d5/d69/a00878.html#aaec28a439b9086a5fd69bd5358bb46daad917b891f555940a135b2634d2e72b3b">ACT_PASSIVE</a></div><div class="ttdeci">@ ACT_PASSIVE</div><div class="ttdef"><b>Definition:</b> CharmInfo.h:61</div></div>
-<div class="ttc" id="aa04984_html_a636cc62a0635fc1566fb574ebe9941a9"><div class="ttname"><a href="../../d8/d36/a04984.html#a636cc62a0635fc1566fb574ebe9941a9">Trainer::Type</a></div><div class="ttdeci">Type</div><div class="ttdef"><b>Definition:</b> Trainer.h:32</div></div>
-<div class="ttc" id="aa08892_html_a0615e6ad9cf5523d6dc85bd529e65f32"><div class="ttname"><a href="../../d7/d33/a08892.html#a0615e6ad9cf5523d6dc85bd529e65f32">UnitActionBarEntry::GetType</a></div><div class="ttdeci">ActiveStates GetType() const</div><div class="ttdef"><b>Definition:</b> CharmInfo.h:101</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00062">ACT_DISABLED</a>, <a class="el" href="../../#l00063">ACT_ENABLED</a>, <a class="el" href="../../#l00061">ACT_PASSIVE</a>, and <a class="el" href="../../#l00101">GetType()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00291">CharmInfo::SetSpellAutocast()</a>.</p>
-
-</div>
-</div>
-<a id="aa00953783b0b3de3beb755a054c77730" name="aa00953783b0b3de3beb755a054c77730"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa00953783b0b3de3beb755a054c77730">&#9670;&#160;</a></span>SetAction()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void UnitActionBarEntry::SetAction </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>action</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  120</span>    {</div>
-<div class="line"><span class="lineno">  121</span>        <a class="code hl_variable" href="../../d7/d33/a08892.html#aa50957a4c707ce3dbdfd62a75e3cb8eb">packedData</a> = (<a class="code hl_variable" href="../../d7/d33/a08892.html#aa50957a4c707ce3dbdfd62a75e3cb8eb">packedData</a> &amp; 0xFF000000) | <a class="code hl_define" href="../../d5/d69/a00878.html#a374f41406d42023d52c29bb269ccb2b3">UNIT_ACTION_BUTTON_ACTION</a>(action);</div>
-<div class="line"><span class="lineno">  122</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00098">packedData</a>, and <a class="el" href="../../#l00031">UNIT_ACTION_BUTTON_ACTION</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00145">CharmInfo::AddSpellToActionBar()</a>.</p>
-
-</div>
-</div>
-<a id="a110840d38445795957ee0425175b4fb6" name="a110840d38445795957ee0425175b4fb6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a110840d38445795957ee0425175b4fb6">&#9670;&#160;</a></span>SetActionAndType()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void UnitActionBarEntry::SetActionAndType </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>action</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d4/dfc/a08856.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d5/d69/a00878.html#aaec28a439b9086a5fd69bd5358bb46da">ActiveStates</a>&#160;</td>
-          <td class="paramname"><em>type</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d4/dfc/a08856.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>trader</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -334,19 +211,47 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  110</span>    {</div>
-<div class="line"><span class="lineno">  111</span>        <a class="code hl_variable" href="../../d7/d33/a08892.html#aa50957a4c707ce3dbdfd62a75e3cb8eb">packedData</a> = <a class="code hl_define" href="../../d5/d69/a00878.html#aa4580ef0cb84c2cc5983e75cb92e3ed1">MAKE_UNIT_ACTION_BUTTON</a>(action, type);</div>
-<div class="line"><span class="lineno">  112</span>    }</div>
-<div class="ttc" id="aa00878_html_aa4580ef0cb84c2cc5983e75cb92e3ed1"><div class="ttname"><a href="../../d5/d69/a00878.html#aa4580ef0cb84c2cc5983e75cb92e3ed1">MAKE_UNIT_ACTION_BUTTON</a></div><div class="ttdeci">#define MAKE_UNIT_ACTION_BUTTON(A, T)</div><div class="ttdef"><b>Definition:</b> CharmInfo.h:33</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   38</span>                                              :</div>
+<div class="line"><span class="lineno">   39</span>        <a class="code hl_variable" href="../../d7/d33/a08892.html#a4d2719632d13db74da5f8246c48039e5">_player</a>(player),  <a class="code hl_variable" href="../../d7/d33/a08892.html#af1d6f26bafd7c56c35517ac81409b22c">_trader</a>(trader), <a class="code hl_variable" href="../../d7/d33/a08892.html#a83714687d004cf506b8478ab9fef03ec">_accepted</a>(<span class="keyword">false</span>), <a class="code hl_variable" href="../../d7/d33/a08892.html#a1e585dd9ed486381a55e108a709e4db3">m_acceptProccess</a>(<span class="keyword">false</span>), <a class="code hl_variable" href="../../d7/d33/a08892.html#aade15c8c3f6b2a72349026a9acc85168">_money</a>(0), <a class="code hl_variable" href="../../d7/d33/a08892.html#a291fdc4207d594982a780485b960f6fa">m_spell</a>(0) { }</div>
+<div class="ttc" id="aa08892_html_a1e585dd9ed486381a55e108a709e4db3"><div class="ttname"><a href="../../d7/d33/a08892.html#a1e585dd9ed486381a55e108a709e4db3">TradeData::m_acceptProccess</a></div><div class="ttdeci">bool m_acceptProccess</div><div class="ttdef"><b>Definition:</b> TradeData.h:72</div></div>
+<div class="ttc" id="aa08892_html_a291fdc4207d594982a780485b960f6fa"><div class="ttname"><a href="../../d7/d33/a08892.html#a291fdc4207d594982a780485b960f6fa">TradeData::m_spell</a></div><div class="ttdeci">uint32 m_spell</div><div class="ttdef"><b>Definition:</b> TradeData.h:76</div></div>
+<div class="ttc" id="aa08892_html_a4d2719632d13db74da5f8246c48039e5"><div class="ttname"><a href="../../d7/d33/a08892.html#a4d2719632d13db74da5f8246c48039e5">TradeData::_player</a></div><div class="ttdeci">Player * _player</div><div class="ttdef"><b>Definition:</b> TradeData.h:68</div></div>
+<div class="ttc" id="aa08892_html_a83714687d004cf506b8478ab9fef03ec"><div class="ttname"><a href="../../d7/d33/a08892.html#a83714687d004cf506b8478ab9fef03ec">TradeData::_accepted</a></div><div class="ttdeci">bool _accepted</div><div class="ttdef"><b>Definition:</b> TradeData.h:71</div></div>
+<div class="ttc" id="aa08892_html_aade15c8c3f6b2a72349026a9acc85168"><div class="ttname"><a href="../../d7/d33/a08892.html#aade15c8c3f6b2a72349026a9acc85168">TradeData::_money</a></div><div class="ttdeci">uint32 _money</div><div class="ttdef"><b>Definition:</b> TradeData.h:74</div></div>
+<div class="ttc" id="aa08892_html_af1d6f26bafd7c56c35517ac81409b22c"><div class="ttname"><a href="../../d7/d33/a08892.html#af1d6f26bafd7c56c35517ac81409b22c">TradeData::_trader</a></div><div class="ttdeci">Player * _trader</div><div class="ttdef"><b>Definition:</b> TradeData.h:69</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00033">MAKE_UNIT_ACTION_BUTTON</a>, and <a class="el" href="../../#l00098">packedData</a>.</p>
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a6c769042535c69e89bdc19234dd680e4" name="a6c769042535c69e89bdc19234dd680e4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6c769042535c69e89bdc19234dd680e4">&#9670;&#160;</a></span>GetItem()</h2>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00098">CharmInfo::InitCharmCreateSpells()</a>, <a class="el" href="../../#l00249">CharmInfo::LoadPetActionBar()</a>, and <a class="el" href="../../#l00150">CharmInfo::SetActionBar()</a>.</p>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d41/a08564.html">Item</a> * TradeData::GetItem </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/d72/a01319.html#ad8fd978c4198825d89a1f02643d20c62">TradeSlots</a>&#160;</td>
+          <td class="paramname"><em>slot</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   27</span>{</div>
+<div class="line"><span class="lineno">   28</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d33/a08892.html#ac27f6047b7585f8b3ef069af68851965">m_items</a>[slot] ? <a class="code hl_variable" href="../../d7/d33/a08892.html#a4d2719632d13db74da5f8246c48039e5">_player</a>-&gt;<a class="code hl_function" href="../../d4/dfc/a08856.html#adf5d2bf68d3caad2202caeb25daadc8e">GetItemByGuid</a>(<a class="code hl_variable" href="../../d7/d33/a08892.html#ac27f6047b7585f8b3ef069af68851965">m_items</a>[slot]) : <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   29</span>}</div>
+<div class="ttc" id="aa08856_html_adf5d2bf68d3caad2202caeb25daadc8e"><div class="ttname"><a href="../../d4/dfc/a08856.html#adf5d2bf68d3caad2202caeb25daadc8e">Player::GetItemByGuid</a></div><div class="ttdeci">Item * GetItemByGuid(ObjectGuid guid) const</div><div class="ttdef"><b>Definition:</b> PlayerStorage.cpp:409</div></div>
+<div class="ttc" id="aa08892_html_ac27f6047b7585f8b3ef069af68851965"><div class="ttname"><a href="../../d7/d33/a08892.html#ac27f6047b7585f8b3ef069af68851965">TradeData::m_items</a></div><div class="ttdeci">ObjectGuid m_items[TRADE_SLOT_COUNT]</div><div class="ttdef"><b>Definition:</b> TradeData.h:79</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">_player</a>, <a class="el" href="../../#l00409">Player::GetItemByGuid()</a>, and <a class="el" href="../../#l00079">m_items</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00235">WorldSession::HandleAcceptTradeOpcode()</a>, <a class="el" href="../../#l00072">WorldSession::SendUpdateTrade()</a>, and <a class="el" href="../../#l00192">setAcceptTradeMode()</a>.</p>
 
 </div>
 </div>
-<a id="a38e0dcad391d09e475f90be5a5382f78" name="a38e0dcad391d09e475f90be5a5382f78"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a38e0dcad391d09e475f90be5a5382f78">&#9670;&#160;</a></span>SetType()</h2>
+<a id="a54d3de8cb15ccc761d272295b19b7575" name="a54d3de8cb15ccc761d272295b19b7575"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a54d3de8cb15ccc761d272295b19b7575">&#9670;&#160;</a></span>GetMoney()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -355,10 +260,336 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void UnitActionBarEntry::SetType </td>
+          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> TradeData::GetMoney </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d69/a00878.html#aaec28a439b9086a5fd69bd5358bb46da">ActiveStates</a>&#160;</td>
-          <td class="paramname"><em>type</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   55</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d33/a08892.html#aade15c8c3f6b2a72349026a9acc85168">_money</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00235">WorldSession::HandleAcceptTradeOpcode()</a>, and <a class="el" href="../../#l00072">WorldSession::SendUpdateTrade()</a>.</p>
+
+</div>
+</div>
+<a id="a99272f794179b17c50c722ae90ea78bf" name="a99272f794179b17c50c722ae90ea78bf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a99272f794179b17c50c722ae90ea78bf">&#9670;&#160;</a></span>GetSpell()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> TradeData::GetSpell </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   49</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d33/a08892.html#a291fdc4207d594982a780485b960f6fa">m_spell</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l05669">Spell::CheckCast()</a>, <a class="el" href="../../#l00235">WorldSession::HandleAcceptTradeOpcode()</a>, and <a class="el" href="../../#l00072">WorldSession::SendUpdateTrade()</a>.</p>
+
+</div>
+</div>
+<a id="a011acd6730c58aa75d3c27e793748afc" name="a011acd6730c58aa75d3c27e793748afc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a011acd6730c58aa75d3c27e793748afc">&#9670;&#160;</a></span>GetSpellCastItem()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d41/a08564.html">Item</a> * TradeData::GetSpellCastItem </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   50</span>{</div>
+<div class="line"><span class="lineno">   51</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d33/a08892.html#adb76e2e7f01cc6f1ee4579ee177ba9c1">m_spellCastItem</a> ? <a class="code hl_variable" href="../../d7/d33/a08892.html#a4d2719632d13db74da5f8246c48039e5">_player</a>-&gt;<a class="code hl_function" href="../../d4/dfc/a08856.html#adf5d2bf68d3caad2202caeb25daadc8e">GetItemByGuid</a>(<a class="code hl_variable" href="../../d7/d33/a08892.html#adb76e2e7f01cc6f1ee4579ee177ba9c1">m_spellCastItem</a>) : <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   52</span>}</div>
+<div class="ttc" id="aa08892_html_adb76e2e7f01cc6f1ee4579ee177ba9c1"><div class="ttname"><a href="../../d7/d33/a08892.html#adb76e2e7f01cc6f1ee4579ee177ba9c1">TradeData::m_spellCastItem</a></div><div class="ttdeci">ObjectGuid m_spellCastItem</div><div class="ttdef"><b>Definition:</b> TradeData.h:77</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">_player</a>, <a class="el" href="../../#l00409">Player::GetItemByGuid()</a>, and <a class="el" href="../../#l00077">m_spellCastItem</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00235">WorldSession::HandleAcceptTradeOpcode()</a>.</p>
+
+</div>
+</div>
+<a id="a3e3023cdf6deb5283ebbe844727cadef" name="a3e3023cdf6deb5283ebbe844727cadef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3e3023cdf6deb5283ebbe844727cadef">&#9670;&#160;</a></span>GetTrader()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/dfc/a08856.html">Player</a> * TradeData::GetTrader </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   41</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d33/a08892.html#af1d6f26bafd7c56c35517ac81409b22c">_trader</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l01392">Player::GetTrader()</a>, <a class="el" href="../../#l00235">WorldSession::HandleAcceptTradeOpcode()</a>, <a class="el" href="../../#l00536">WorldSession::HandleBeginTradeOpcode()</a>, <a class="el" href="../../#l00699">WorldSession::HandleSetTradeItemOpcode()</a>, and <a class="el" href="../../#l04155">Player::TradeCancel()</a>.</p>
+
+</div>
+</div>
+<a id="a91911ad105b24d6055a65b07ab6c269f" name="a91911ad105b24d6055a65b07ab6c269f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a91911ad105b24d6055a65b07ab6c269f">&#9670;&#160;</a></span>GetTraderData()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d7/d33/a08892.html">TradeData</a> * TradeData::GetTraderData </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   22</span>{</div>
+<div class="line"><span class="lineno">   23</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d33/a08892.html#af1d6f26bafd7c56c35517ac81409b22c">_trader</a>-&gt;<a class="code hl_function" href="../../d4/dfc/a08856.html#a9866cfe24c371353d49f86972cfd8c1b">GetTradeData</a>();</div>
+<div class="line"><span class="lineno">   24</span>}</div>
+<div class="ttc" id="aa08856_html_a9866cfe24c371353d49f86972cfd8c1b"><div class="ttname"><a href="../../d4/dfc/a08856.html#a9866cfe24c371353d49f86972cfd8c1b">Player::GetTradeData</a></div><div class="ttdeci">TradeData * GetTradeData() const</div><div class="ttdef"><b>Definition:</b> Player.h:1393</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00069">_trader</a>, and <a class="el" href="../../#l01393">Player::GetTradeData()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00072">WorldSession::SendUpdateTrade()</a>, <a class="el" href="../../#l00054">SetItem()</a>, <a class="el" href="../../#l00093">SetMoney()</a>, and <a class="el" href="../../#l00076">SetSpell()</a>.</p>
+
+</div>
+</div>
+<a id="a2982777fbad962000c016309667104df" name="a2982777fbad962000c016309667104df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2982777fbad962000c016309667104df">&#9670;&#160;</a></span>GetTradeSlotForItem()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d1/d72/a01319.html#ad8fd978c4198825d89a1f02643d20c62">TradeSlots</a> TradeData::GetTradeSlotForItem </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/df2/a08656.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>itemGuid</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   41</span>{</div>
+<div class="line"><span class="lineno">   42</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d1/d72/a01319.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488">TRADE_SLOT_COUNT</a>; ++i)</div>
+<div class="line"><span class="lineno">   43</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d33/a08892.html#ac27f6047b7585f8b3ef069af68851965">m_items</a>[i] == itemGuid)</div>
+<div class="line"><span class="lineno">   44</span>            <span class="keywordflow">return</span> <a class="code hl_enumeration" href="../../d1/d72/a01319.html#ad8fd978c4198825d89a1f02643d20c62">TradeSlots</a>(i);</div>
+<div class="line"><span class="lineno">   45</span> </div>
+<div class="line"><span class="lineno">   46</span>    <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d1/d72/a01319.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4">TRADE_SLOT_INVALID</a>;</div>
+<div class="line"><span class="lineno">   47</span>}</div>
+<div class="ttc" id="aa00485_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa01319_html_ad8fd978c4198825d89a1f02643d20c62"><div class="ttname"><a href="../../d1/d72/a01319.html#ad8fd978c4198825d89a1f02643d20c62">TradeSlots</a></div><div class="ttdeci">TradeSlots</div><div class="ttdef"><b>Definition:</b> TradeData.h:28</div></div>
+<div class="ttc" id="aa01319_html_ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488"><div class="ttname"><a href="../../d1/d72/a01319.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488">TRADE_SLOT_COUNT</a></div><div class="ttdeci">@ TRADE_SLOT_COUNT</div><div class="ttdef"><b>Definition:</b> TradeData.h:29</div></div>
+<div class="ttc" id="aa01319_html_ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4"><div class="ttname"><a href="../../d1/d72/a01319.html#ad8fd978c4198825d89a1f02643d20c62ab98427dca4bc30e207c0433e5e307ad4">TRADE_SLOT_INVALID</a></div><div class="ttdeci">@ TRADE_SLOT_INVALID</div><div class="ttdef"><b>Definition:</b> TradeData.h:32</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00079">m_items</a>, <a class="el" href="../../#l00029">TRADE_SLOT_COUNT</a>, and <a class="el" href="../../#l00032">TRADE_SLOT_INVALID</a>.</p>
+
+</div>
+</div>
+<a id="a420249fcbb7394f16009861ccdb6962a" name="a420249fcbb7394f16009861ccdb6962a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a420249fcbb7394f16009861ccdb6962a">&#9670;&#160;</a></span>HasItem()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool TradeData::HasItem </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/df2/a08656.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>itemGuid</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   32</span>{</div>
+<div class="line"><span class="lineno">   33</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d1/d72/a01319.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488">TRADE_SLOT_COUNT</a>; ++i)</div>
+<div class="line"><span class="lineno">   34</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d33/a08892.html#ac27f6047b7585f8b3ef069af68851965">m_items</a>[i] == itemGuid)</div>
+<div class="line"><span class="lineno">   35</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   36</span> </div>
+<div class="line"><span class="lineno">   37</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   38</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00079">m_items</a>, and <a class="el" href="../../#l00029">TRADE_SLOT_COUNT</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00699">WorldSession::HandleSetTradeItemOpcode()</a>.</p>
+
+</div>
+</div>
+<a id="a27981abf9bddbfe87bf81836b57e0780" name="a27981abf9bddbfe87bf81836b57e0780"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a27981abf9bddbfe87bf81836b57e0780">&#9670;&#160;</a></span>HasSpellCastItem()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool TradeData::HasSpellCastItem </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   53</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d33/a08892.html#adb76e2e7f01cc6f1ee4579ee177ba9c1">m_spellCastItem</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00235">WorldSession::HandleAcceptTradeOpcode()</a>.</p>
+
+</div>
+</div>
+<a id="a75b4970c1f26912bc24da528f226ca76" name="a75b4970c1f26912bc24da528f226ca76"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a75b4970c1f26912bc24da528f226ca76">&#9670;&#160;</a></span>IsAccepted()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool TradeData::IsAccepted </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   58</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d33/a08892.html#a83714687d004cf506b8478ab9fef03ec">_accepted</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00235">WorldSession::HandleAcceptTradeOpcode()</a>.</p>
+
+</div>
+</div>
+<a id="abbae0b720c0b44a05f0625ebafd09cc8" name="abbae0b720c0b44a05f0625ebafd09cc8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abbae0b720c0b44a05f0625ebafd09cc8">&#9670;&#160;</a></span>IsInAcceptProcess()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool TradeData::IsInAcceptProcess </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   61</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d33/a08892.html#a1e585dd9ed486381a55e108a709e4db3">m_acceptProccess</a>; }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a6bc7a8ef2633aaff03381e3eeeb0b2af" name="a6bc7a8ef2633aaff03381e3eeeb0b2af"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6bc7a8ef2633aaff03381e3eeeb0b2af">&#9670;&#160;</a></span>SetAccepted()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void TradeData::SetAccepted </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>state</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>forTrader</em> = <code>false</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  124</span>{</div>
+<div class="line"><span class="lineno">  125</span>    <a class="code hl_variable" href="../../d7/d33/a08892.html#a83714687d004cf506b8478ab9fef03ec">_accepted</a> = state;</div>
+<div class="line"><span class="lineno">  126</span> </div>
+<div class="line"><span class="lineno">  127</span>    <span class="keywordflow">if</span> (!state)</div>
+<div class="line"><span class="lineno">  128</span>    {</div>
+<div class="line"><span class="lineno">  129</span>        <a class="code hl_struct" href="../../d5/d7c/a08848.html">TradeStatusInfo</a> info;</div>
+<div class="line"><span class="lineno">  130</span>        info.<a class="code hl_variable" href="../../d5/d7c/a08848.html#a265172d89cdc4c6fc4df20ad5df45c64">Status</a> = <a class="code hl_enumvalue" href="../../d6/df5/a04826.html#a4d14fbf24745aec4ec29280851d99dc0a7a15a69e793317aa8a871df1af37e881">TRADE_STATUS_BACK_TO_TRADE</a>;</div>
+<div class="line"><span class="lineno">  131</span>        <span class="keywordflow">if</span> (forTrader)</div>
+<div class="line"><span class="lineno">  132</span>            <a class="code hl_variable" href="../../d7/d33/a08892.html#af1d6f26bafd7c56c35517ac81409b22c">_trader</a>-&gt;<a class="code hl_function" href="../../d4/dfc/a08856.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../dc/dd5/a11472.html#adf8e1304afaa710c8d57d2b9c0477cd1">SendTradeStatus</a>(info);</div>
+<div class="line"><span class="lineno">  133</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  134</span>            <a class="code hl_variable" href="../../d7/d33/a08892.html#a4d2719632d13db74da5f8246c48039e5">_player</a>-&gt;<a class="code hl_function" href="../../d4/dfc/a08856.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../dc/dd5/a11472.html#adf8e1304afaa710c8d57d2b9c0477cd1">SendTradeStatus</a>(info);</div>
+<div class="line"><span class="lineno">  135</span>    }</div>
+<div class="line"><span class="lineno">  136</span>}</div>
+<div class="ttc" id="aa04826_html_a4d14fbf24745aec4ec29280851d99dc0a7a15a69e793317aa8a871df1af37e881"><div class="ttname"><a href="../../d6/df5/a04826.html#a4d14fbf24745aec4ec29280851d99dc0a7a15a69e793317aa8a871df1af37e881">TRADE_STATUS_BACK_TO_TRADE</a></div><div class="ttdeci">@ TRADE_STATUS_BACK_TO_TRADE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3797</div></div>
+<div class="ttc" id="aa08848_html"><div class="ttname"><a href="../../d5/d7c/a08848.html">TradeStatusInfo</a></div><div class="ttdef"><b>Definition:</b> Player.h:1060</div></div>
+<div class="ttc" id="aa08848_html_a265172d89cdc4c6fc4df20ad5df45c64"><div class="ttname"><a href="../../d5/d7c/a08848.html#a265172d89cdc4c6fc4df20ad5df45c64">TradeStatusInfo::Status</a></div><div class="ttdeci">TradeStatus Status</div><div class="ttdef"><b>Definition:</b> Player.h:1063</div></div>
+<div class="ttc" id="aa08856_html_a6ab11ca64cde7c5cde1f53998a6f7253"><div class="ttname"><a href="../../d4/dfc/a08856.html#a6ab11ca64cde7c5cde1f53998a6f7253">Player::GetSession</a></div><div class="ttdeci">WorldSession * GetSession() const</div><div class="ttdef"><b>Definition:</b> Player.h:2017</div></div>
+<div class="ttc" id="aa11472_html_adf8e1304afaa710c8d57d2b9c0477cd1"><div class="ttname"><a href="../../dc/dd5/a11472.html#adf8e1304afaa710c8d57d2b9c0477cd1">WorldSession::SendTradeStatus</a></div><div class="ttdeci">void SendTradeStatus(TradeStatusInfo const &amp;info)</div><div class="ttdef"><b>Definition:</b> TradeHandler.cpp:33</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00071">_accepted</a>, <a class="el" href="../../#l00068">_player</a>, <a class="el" href="../../#l00069">_trader</a>, <a class="el" href="../../#l02017">Player::GetSession()</a>, <a class="el" href="../../#l00033">WorldSession::SendTradeStatus()</a>, <a class="el" href="../../#l01063">TradeStatusInfo::Status</a>, and <a class="el" href="../../#l03797">TRADE_STATUS_BACK_TO_TRADE</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00235">WorldSession::HandleAcceptTradeOpcode()</a>, <a class="el" href="../../#l00527">WorldSession::HandleUnacceptTradeOpcode()</a>, <a class="el" href="../../#l00054">SetItem()</a>, <a class="el" href="../../#l00093">SetMoney()</a>, and <a class="el" href="../../#l00076">SetSpell()</a>.</p>
+
+</div>
+</div>
+<a id="a4851016708b0e8336ec33c64ab41aa8a" name="a4851016708b0e8336ec33c64ab41aa8a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4851016708b0e8336ec33c64ab41aa8a">&#9670;&#160;</a></span>SetInAcceptProcess()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void TradeData::SetInAcceptProcess </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>state</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -368,30 +599,390 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  115</span>    {</div>
-<div class="line"><span class="lineno">  116</span>        <a class="code hl_variable" href="../../d7/d33/a08892.html#aa50957a4c707ce3dbdfd62a75e3cb8eb">packedData</a> = <a class="code hl_define" href="../../d5/d69/a00878.html#aa4580ef0cb84c2cc5983e75cb92e3ed1">MAKE_UNIT_ACTION_BUTTON</a>(<a class="code hl_define" href="../../d5/d69/a00878.html#a374f41406d42023d52c29bb269ccb2b3">UNIT_ACTION_BUTTON_ACTION</a>(<a class="code hl_variable" href="../../d7/d33/a08892.html#aa50957a4c707ce3dbdfd62a75e3cb8eb">packedData</a>), type);</div>
-<div class="line"><span class="lineno">  117</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   62</span>{ <a class="code hl_variable" href="../../d7/d33/a08892.html#a1e585dd9ed486381a55e108a709e4db3">m_acceptProccess</a> = state; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00033">MAKE_UNIT_ACTION_BUTTON</a>, <a class="el" href="../../#l00098">packedData</a>, and <a class="el" href="../../#l00031">UNIT_ACTION_BUTTON_ACTION</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00291">CharmInfo::SetSpellAutocast()</a>, and <a class="el" href="../../#l00230">CharmInfo::ToggleCreatureAutocast()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00217">clearAcceptTradeMode()</a>, and <a class="el" href="../../#l00192">setAcceptTradeMode()</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="aa50957a4c707ce3dbdfd62a75e3cb8eb" name="aa50957a4c707ce3dbdfd62a75e3cb8eb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa50957a4c707ce3dbdfd62a75e3cb8eb">&#9670;&#160;</a></span>packedData</h2>
+<a id="ab3eff66bb411bd22a11d8e29f7961507" name="ab3eff66bb411bd22a11d8e29f7961507"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab3eff66bb411bd22a11d8e29f7961507">&#9670;&#160;</a></span>SetItem()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> UnitActionBarEntry::packedData</td>
+          <td class="memname">void TradeData::SetItem </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/d72/a01319.html#ad8fd978c4198825d89a1f02643d20c62">TradeSlots</a>&#160;</td>
+          <td class="paramname"><em>slot</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/d41/a08564.html">Item</a> *&#160;</td>
+          <td class="paramname"><em>item</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   55</span>{</div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_class" href="../../d5/df2/a08656.html">ObjectGuid</a> itemGuid = item ? item-&gt;<a class="code hl_function" href="../../d4/d48/a08604.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>() : <a class="code hl_variable" href="../../d5/df2/a08656.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>;</div>
+<div class="line"><span class="lineno">   57</span> </div>
+<div class="line"><span class="lineno">   58</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d33/a08892.html#ac27f6047b7585f8b3ef069af68851965">m_items</a>[slot] == itemGuid)</div>
+<div class="line"><span class="lineno">   59</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   60</span> </div>
+<div class="line"><span class="lineno">   61</span>    <a class="code hl_variable" href="../../d7/d33/a08892.html#ac27f6047b7585f8b3ef069af68851965">m_items</a>[slot] = itemGuid;</div>
+<div class="line"><span class="lineno">   62</span> </div>
+<div class="line"><span class="lineno">   63</span>    <a class="code hl_function" href="../../d7/d33/a08892.html#a6bc7a8ef2633aaff03381e3eeeb0b2af">SetAccepted</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">   64</span>    <a class="code hl_function" href="../../d7/d33/a08892.html#a91911ad105b24d6055a65b07ab6c269f">GetTraderData</a>()-&gt;<a class="code hl_function" href="../../d7/d33/a08892.html#a6bc7a8ef2633aaff03381e3eeeb0b2af">SetAccepted</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">   65</span> </div>
+<div class="line"><span class="lineno">   66</span>    <a class="code hl_function" href="../../d7/d33/a08892.html#a970e3a0d295495973bda1ff5b4732055">Update</a>();</div>
+<div class="line"><span class="lineno">   67</span> </div>
+<div class="line"><span class="lineno">   68</span>    <span class="comment">// need remove possible trader spell applied to changed item</span></div>
+<div class="line"><span class="lineno">   69</span>    <span class="keywordflow">if</span> (slot == <a class="code hl_enumvalue" href="../../d1/d72/a01319.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f">TRADE_SLOT_NONTRADED</a>)</div>
+<div class="line"><span class="lineno">   70</span>        <a class="code hl_function" href="../../d7/d33/a08892.html#a91911ad105b24d6055a65b07ab6c269f">GetTraderData</a>()-&gt;<a class="code hl_function" href="../../d7/d33/a08892.html#a2afa4c75d1fe0b8a712f270166f838ef">SetSpell</a>(0);</div>
+<div class="line"><span class="lineno">   71</span> </div>
+<div class="line"><span class="lineno">   72</span>    <span class="comment">// need remove possible player spell applied (possible move reagent)</span></div>
+<div class="line"><span class="lineno">   73</span>    <a class="code hl_function" href="../../d7/d33/a08892.html#a2afa4c75d1fe0b8a712f270166f838ef">SetSpell</a>(0);</div>
+<div class="line"><span class="lineno">   74</span>}</div>
+<div class="ttc" id="aa01319_html_ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f"><div class="ttname"><a href="../../d1/d72/a01319.html#ad8fd978c4198825d89a1f02643d20c62abdab7c30065c4b145dd2e6ce0e27c45f">TRADE_SLOT_NONTRADED</a></div><div class="ttdeci">@ TRADE_SLOT_NONTRADED</div><div class="ttdef"><b>Definition:</b> TradeData.h:31</div></div>
+<div class="ttc" id="aa08604_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d4/d48/a08604.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:113</div></div>
+<div class="ttc" id="aa08656_html"><div class="ttname"><a href="../../d5/df2/a08656.html">ObjectGuid</a></div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:118</div></div>
+<div class="ttc" id="aa08656_html_a14039d3f3df79203693f713495503165"><div class="ttname"><a href="../../d5/df2/a08656.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a></div><div class="ttdeci">static ObjectGuid const Empty</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:120</div></div>
+<div class="ttc" id="aa08892_html_a2afa4c75d1fe0b8a712f270166f838ef"><div class="ttname"><a href="../../d7/d33/a08892.html#a2afa4c75d1fe0b8a712f270166f838ef">TradeData::SetSpell</a></div><div class="ttdeci">void SetSpell(uint32 spell_id, Item *castItem=nullptr)</div><div class="ttdef"><b>Definition:</b> TradeData.cpp:76</div></div>
+<div class="ttc" id="aa08892_html_a6bc7a8ef2633aaff03381e3eeeb0b2af"><div class="ttname"><a href="../../d7/d33/a08892.html#a6bc7a8ef2633aaff03381e3eeeb0b2af">TradeData::SetAccepted</a></div><div class="ttdeci">void SetAccepted(bool state, bool forTrader=false)</div><div class="ttdef"><b>Definition:</b> TradeData.cpp:123</div></div>
+<div class="ttc" id="aa08892_html_a91911ad105b24d6055a65b07ab6c269f"><div class="ttname"><a href="../../d7/d33/a08892.html#a91911ad105b24d6055a65b07ab6c269f">TradeData::GetTraderData</a></div><div class="ttdeci">TradeData * GetTraderData() const</div><div class="ttdef"><b>Definition:</b> TradeData.cpp:21</div></div>
+<div class="ttc" id="aa08892_html_a970e3a0d295495973bda1ff5b4732055"><div class="ttname"><a href="../../d7/d33/a08892.html#a970e3a0d295495973bda1ff5b4732055">TradeData::Update</a></div><div class="ttdeci">void Update(bool for_trader=true)</div><div class="ttdef"><b>Definition:</b> TradeData.cpp:115</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00120">ObjectGuid::Empty</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00021">GetTraderData()</a>, <a class="el" href="../../#l00079">m_items</a>, <a class="el" href="../../#l00123">SetAccepted()</a>, <a class="el" href="../../#l00076">SetSpell()</a>, <a class="el" href="../../#l00031">TRADE_SLOT_NONTRADED</a>, and <a class="el" href="../../#l00115">Update()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l09674">Player::CharmSpellInitialize()</a>, <a class="el" href="../../#l00102">GetAction()</a>, <a class="el" href="../../#l00101">GetType()</a>, <a class="el" href="../../#l00119">SetAction()</a>, <a class="el" href="../../#l00109">SetActionAndType()</a>, and <a class="el" href="../../#l00114">SetType()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00764">WorldSession::HandleClearTradeItemOpcode()</a>, and <a class="el" href="../../#l00699">WorldSession::HandleSetTradeItemOpcode()</a>.</p>
+
+</div>
+</div>
+<a id="a0dc996fdc9acab409833caff4e6b489b" name="a0dc996fdc9acab409833caff4e6b489b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0dc996fdc9acab409833caff4e6b489b">&#9670;&#160;</a></span>SetMoney()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void TradeData::SetMoney </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>money</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   94</span>{</div>
+<div class="line"><span class="lineno">   95</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d33/a08892.html#aade15c8c3f6b2a72349026a9acc85168">_money</a> == money)</div>
+<div class="line"><span class="lineno">   96</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   97</span> </div>
+<div class="line"><span class="lineno">   98</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d7/d33/a08892.html#a4d2719632d13db74da5f8246c48039e5">_player</a>-&gt;<a class="code hl_function" href="../../d4/dfc/a08856.html#a77b52bf6fc7a0ac6ad37bf836aaf5c7b">HasEnoughMoney</a>(money))</div>
+<div class="line"><span class="lineno">   99</span>    {</div>
+<div class="line"><span class="lineno">  100</span>        <a class="code hl_struct" href="../../d5/d7c/a08848.html">TradeStatusInfo</a> info;</div>
+<div class="line"><span class="lineno">  101</span>        info.<a class="code hl_variable" href="../../d5/d7c/a08848.html#a265172d89cdc4c6fc4df20ad5df45c64">Status</a> = <a class="code hl_enumvalue" href="../../d6/df5/a04826.html#a4d14fbf24745aec4ec29280851d99dc0afe58155fb5030d74225cf275b7e27c6c">TRADE_STATUS_CLOSE_WINDOW</a>;</div>
+<div class="line"><span class="lineno">  102</span>        info.<a class="code hl_variable" href="../../d5/d7c/a08848.html#ac90552353a0fb8ff175fec99bf573981">Result</a> = <a class="code hl_enumvalue" href="../../d8/d7a/a01292.html#a240a18445bd2335a1829e130126f20faaaf326dffde695da47e69254c043c2c55">EQUIP_ERR_NOT_ENOUGH_MONEY</a>;</div>
+<div class="line"><span class="lineno">  103</span>        <a class="code hl_variable" href="../../d7/d33/a08892.html#a4d2719632d13db74da5f8246c48039e5">_player</a>-&gt;<a class="code hl_function" href="../../d4/dfc/a08856.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../dc/dd5/a11472.html#adf8e1304afaa710c8d57d2b9c0477cd1">SendTradeStatus</a>(info);</div>
+<div class="line"><span class="lineno">  104</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  105</span>    }</div>
+<div class="line"><span class="lineno">  106</span> </div>
+<div class="line"><span class="lineno">  107</span>    <a class="code hl_variable" href="../../d7/d33/a08892.html#aade15c8c3f6b2a72349026a9acc85168">_money</a> = money;</div>
+<div class="line"><span class="lineno">  108</span> </div>
+<div class="line"><span class="lineno">  109</span>    <a class="code hl_function" href="../../d7/d33/a08892.html#a6bc7a8ef2633aaff03381e3eeeb0b2af">SetAccepted</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  110</span>    <a class="code hl_function" href="../../d7/d33/a08892.html#a91911ad105b24d6055a65b07ab6c269f">GetTraderData</a>()-&gt;<a class="code hl_function" href="../../d7/d33/a08892.html#a6bc7a8ef2633aaff03381e3eeeb0b2af">SetAccepted</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  111</span> </div>
+<div class="line"><span class="lineno">  112</span>    <a class="code hl_function" href="../../d7/d33/a08892.html#a970e3a0d295495973bda1ff5b4732055">Update</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  113</span>}</div>
+<div class="ttc" id="aa01292_html_a240a18445bd2335a1829e130126f20faaaf326dffde695da47e69254c043c2c55"><div class="ttname"><a href="../../d8/d7a/a01292.html#a240a18445bd2335a1829e130126f20faaaf326dffde695da47e69254c043c2c55">EQUIP_ERR_NOT_ENOUGH_MONEY</a></div><div class="ttdeci">@ EQUIP_ERR_NOT_ENOUGH_MONEY</div><div class="ttdef"><b>Definition:</b> Item.h:76</div></div>
+<div class="ttc" id="aa04826_html_a4d14fbf24745aec4ec29280851d99dc0afe58155fb5030d74225cf275b7e27c6c"><div class="ttname"><a href="../../d6/df5/a04826.html#a4d14fbf24745aec4ec29280851d99dc0afe58155fb5030d74225cf275b7e27c6c">TRADE_STATUS_CLOSE_WINDOW</a></div><div class="ttdeci">@ TRADE_STATUS_CLOSE_WINDOW</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3802</div></div>
+<div class="ttc" id="aa08848_html_ac90552353a0fb8ff175fec99bf573981"><div class="ttname"><a href="../../d5/d7c/a08848.html#ac90552353a0fb8ff175fec99bf573981">TradeStatusInfo::Result</a></div><div class="ttdeci">InventoryResult Result</div><div class="ttdef"><b>Definition:</b> Player.h:1065</div></div>
+<div class="ttc" id="aa08856_html_a77b52bf6fc7a0ac6ad37bf836aaf5c7b"><div class="ttname"><a href="../../d4/dfc/a08856.html#a77b52bf6fc7a0ac6ad37bf836aaf5c7b">Player::HasEnoughMoney</a></div><div class="ttdeci">bool HasEnoughMoney(uint32 amount) const</div><div class="ttdef"><b>Definition:</b> Player.h:1624</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00074">_money</a>, <a class="el" href="../../#l00068">_player</a>, <a class="el" href="../../#l00076">EQUIP_ERR_NOT_ENOUGH_MONEY</a>, <a class="el" href="../../#l02017">Player::GetSession()</a>, <a class="el" href="../../#l00021">GetTraderData()</a>, <a class="el" href="../../#l01624">Player::HasEnoughMoney()</a>, <a class="el" href="../../#l01065">TradeStatusInfo::Result</a>, <a class="el" href="../../#l00033">WorldSession::SendTradeStatus()</a>, <a class="el" href="../../#l00123">SetAccepted()</a>, <a class="el" href="../../#l01063">TradeStatusInfo::Status</a>, <a class="el" href="../../#l03802">TRADE_STATUS_CLOSE_WINDOW</a>, and <a class="el" href="../../#l00115">Update()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00687">WorldSession::HandleSetTradeGoldOpcode()</a>.</p>
+
+</div>
+</div>
+<a id="a2afa4c75d1fe0b8a712f270166f838ef" name="a2afa4c75d1fe0b8a712f270166f838ef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2afa4c75d1fe0b8a712f270166f838ef">&#9670;&#160;</a></span>SetSpell()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void TradeData::SetSpell </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>spell_id</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/d41/a08564.html">Item</a> *&#160;</td>
+          <td class="paramname"><em>castItem</em> = <code>nullptr</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   77</span>{</div>
+<div class="line"><span class="lineno">   78</span>    <a class="code hl_class" href="../../d5/df2/a08656.html">ObjectGuid</a> itemGuid = castItem ? castItem-&gt;<a class="code hl_function" href="../../d4/d48/a08604.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>() : <a class="code hl_variable" href="../../d5/df2/a08656.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>;</div>
+<div class="line"><span class="lineno">   79</span> </div>
+<div class="line"><span class="lineno">   80</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d33/a08892.html#a291fdc4207d594982a780485b960f6fa">m_spell</a> == spell_id &amp;&amp; <a class="code hl_variable" href="../../d7/d33/a08892.html#adb76e2e7f01cc6f1ee4579ee177ba9c1">m_spellCastItem</a> == itemGuid)</div>
+<div class="line"><span class="lineno">   81</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   82</span> </div>
+<div class="line"><span class="lineno">   83</span>    <a class="code hl_variable" href="../../d7/d33/a08892.html#a291fdc4207d594982a780485b960f6fa">m_spell</a> = spell_id;</div>
+<div class="line"><span class="lineno">   84</span>    <a class="code hl_variable" href="../../d7/d33/a08892.html#adb76e2e7f01cc6f1ee4579ee177ba9c1">m_spellCastItem</a> = itemGuid;</div>
+<div class="line"><span class="lineno">   85</span> </div>
+<div class="line"><span class="lineno">   86</span>    <a class="code hl_function" href="../../d7/d33/a08892.html#a6bc7a8ef2633aaff03381e3eeeb0b2af">SetAccepted</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">   87</span>    <a class="code hl_function" href="../../d7/d33/a08892.html#a91911ad105b24d6055a65b07ab6c269f">GetTraderData</a>()-&gt;<a class="code hl_function" href="../../d7/d33/a08892.html#a6bc7a8ef2633aaff03381e3eeeb0b2af">SetAccepted</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">   88</span> </div>
+<div class="line"><span class="lineno">   89</span>    <a class="code hl_function" href="../../d7/d33/a08892.html#a970e3a0d295495973bda1ff5b4732055">Update</a>(<span class="keyword">true</span>);                                           <span class="comment">// send spell info to item owner</span></div>
+<div class="line"><span class="lineno">   90</span>    <a class="code hl_function" href="../../d7/d33/a08892.html#a970e3a0d295495973bda1ff5b4732055">Update</a>(<span class="keyword">false</span>);                                          <span class="comment">// send spell info to caster self</span></div>
+<div class="line"><span class="lineno">   91</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00120">ObjectGuid::Empty</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00021">GetTraderData()</a>, <a class="el" href="../../#l00076">m_spell</a>, <a class="el" href="../../#l00077">m_spellCastItem</a>, <a class="el" href="../../#l00123">SetAccepted()</a>, and <a class="el" href="../../#l00115">Update()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00235">WorldSession::HandleAcceptTradeOpcode()</a>, and <a class="el" href="../../#l00054">SetItem()</a>.</p>
+
+</div>
+</div>
+<a id="a970e3a0d295495973bda1ff5b4732055" name="a970e3a0d295495973bda1ff5b4732055"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a970e3a0d295495973bda1ff5b4732055">&#9670;&#160;</a></span>Update()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void TradeData::Update </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>for_trader</em> = <code>true</code></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  116</span>{</div>
+<div class="line"><span class="lineno">  117</span>    <span class="keywordflow">if</span> (forTarget)</div>
+<div class="line"><span class="lineno">  118</span>        <a class="code hl_variable" href="../../d7/d33/a08892.html#af1d6f26bafd7c56c35517ac81409b22c">_trader</a>-&gt;<a class="code hl_function" href="../../d4/dfc/a08856.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../dc/dd5/a11472.html#ada77032a1b7ad5a8d43e257a117239b9">SendUpdateTrade</a>(<span class="keyword">true</span>);      <span class="comment">// player state for trader</span></div>
+<div class="line"><span class="lineno">  119</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  120</span>        <a class="code hl_variable" href="../../d7/d33/a08892.html#a4d2719632d13db74da5f8246c48039e5">_player</a>-&gt;<a class="code hl_function" href="../../d4/dfc/a08856.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../dc/dd5/a11472.html#ada77032a1b7ad5a8d43e257a117239b9">SendUpdateTrade</a>(<span class="keyword">false</span>);     <span class="comment">// player state for player</span></div>
+<div class="line"><span class="lineno">  121</span>}</div>
+<div class="ttc" id="aa11472_html_ada77032a1b7ad5a8d43e257a117239b9"><div class="ttname"><a href="../../dc/dd5/a11472.html#ada77032a1b7ad5a8d43e257a117239b9">WorldSession::SendUpdateTrade</a></div><div class="ttdeci">void SendUpdateTrade(bool trader_data=true)</div><div class="ttdef"><b>Definition:</b> TradeHandler.cpp:72</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">_player</a>, <a class="el" href="../../#l00069">_trader</a>, <a class="el" href="../../#l02017">Player::GetSession()</a>, and <a class="el" href="../../#l00072">WorldSession::SendUpdateTrade()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00054">SetItem()</a>, <a class="el" href="../../#l00093">SetMoney()</a>, and <a class="el" href="../../#l00076">SetSpell()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a83714687d004cf506b8478ab9fef03ec" name="a83714687d004cf506b8478ab9fef03ec"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a83714687d004cf506b8478ab9fef03ec">&#9670;&#160;</a></span>_accepted</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool TradeData::_accepted</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00123">SetAccepted()</a>.</p>
+
+</div>
+</div>
+<a id="aade15c8c3f6b2a72349026a9acc85168" name="aade15c8c3f6b2a72349026a9acc85168"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aade15c8c3f6b2a72349026a9acc85168">&#9670;&#160;</a></span>_money</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> TradeData::_money</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00093">SetMoney()</a>.</p>
+
+</div>
+</div>
+<a id="a4d2719632d13db74da5f8246c48039e5" name="a4d2719632d13db74da5f8246c48039e5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4d2719632d13db74da5f8246c48039e5">&#9670;&#160;</a></span>_player</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/dfc/a08856.html">Player</a>* TradeData::_player</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00026">GetItem()</a>, <a class="el" href="../../#l00049">GetSpellCastItem()</a>, <a class="el" href="../../#l00123">SetAccepted()</a>, <a class="el" href="../../#l00093">SetMoney()</a>, and <a class="el" href="../../#l00115">Update()</a>.</p>
+
+</div>
+</div>
+<a id="af1d6f26bafd7c56c35517ac81409b22c" name="af1d6f26bafd7c56c35517ac81409b22c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af1d6f26bafd7c56c35517ac81409b22c">&#9670;&#160;</a></span>_trader</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/dfc/a08856.html">Player</a>* TradeData::_trader</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00021">GetTraderData()</a>, <a class="el" href="../../#l00123">SetAccepted()</a>, and <a class="el" href="../../#l00115">Update()</a>.</p>
+
+</div>
+</div>
+<a id="a1e585dd9ed486381a55e108a709e4db3" name="a1e585dd9ed486381a55e108a709e4db3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1e585dd9ed486381a55e108a709e4db3">&#9670;&#160;</a></span>m_acceptProccess</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool TradeData::m_acceptProccess</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac27f6047b7585f8b3ef069af68851965" name="ac27f6047b7585f8b3ef069af68851965"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac27f6047b7585f8b3ef069af68851965">&#9670;&#160;</a></span>m_items</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/df2/a08656.html">ObjectGuid</a> TradeData::m_items[<a class="el" href="../../d1/d72/a01319.html#ad8fd978c4198825d89a1f02643d20c62a1e8d56a5a22d784c5d388fd8bd206488">TRADE_SLOT_COUNT</a>]</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00026">GetItem()</a>, <a class="el" href="../../#l00040">GetTradeSlotForItem()</a>, <a class="el" href="../../#l00031">HasItem()</a>, and <a class="el" href="../../#l00054">SetItem()</a>.</p>
+
+</div>
+</div>
+<a id="a291fdc4207d594982a780485b960f6fa" name="a291fdc4207d594982a780485b960f6fa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a291fdc4207d594982a780485b960f6fa">&#9670;&#160;</a></span>m_spell</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> TradeData::m_spell</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00076">SetSpell()</a>.</p>
+
+</div>
+</div>
+<a id="adb76e2e7f01cc6f1ee4579ee177ba9c1" name="adb76e2e7f01cc6f1ee4579ee177ba9c1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adb76e2e7f01cc6f1ee4579ee177ba9c1">&#9670;&#160;</a></span>m_spellCastItem</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/df2/a08656.html">ObjectGuid</a> TradeData::m_spellCastItem</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00049">GetSpellCastItem()</a>, and <a class="el" href="../../#l00076">SetSpell()</a>.</p>
 
 </div>
 </div>
@@ -400,8 +991,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d7/d33/a08892.html">UnitActionBarEntry</a></li>
-    <li class="footer">Generated on Mon Feb 23 2026 21:16:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d7/d33/a08892.html">TradeData</a></li>
+    <li class="footer">Generated on Mon Mar 2 2026 21:06:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

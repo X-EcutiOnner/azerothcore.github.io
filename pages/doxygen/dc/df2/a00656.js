@@ -1,20 +1,7 @@
 var a00656 =
 [
-    [ "lfg::LfgQueueData", "de/d02/a08081.html", "de/d02/a08081" ],
-    [ "lfg::LfgWaitTime", "de/da2/a08085.html", "de/da2/a08085" ],
-    [ "lfg::LFGQueue", "d4/da6/a08089.html", "d4/da6/a08089" ],
-    [ "LfgCompatibleContainer", "dc/df2/a00656.html#a96438cca4cead6c1fc5d31ef643129e9", null ],
-    [ "LfgQueueDataContainer", "dc/df2/a00656.html#aa2afec59ce753c11c3d8fddf4fb33991", null ],
-    [ "LfgWaitTimesContainer", "dc/df2/a00656.html#a58714a43cbdc03f4008681528fb20447", null ],
-    [ "LfgCompatibility", "dc/df2/a00656.html#a33c5b3513de4cd3c5a525f31008618b6", [
-      [ "LFG_COMPATIBILITY_PENDING", "dc/df2/a00656.html#a33c5b3513de4cd3c5a525f31008618b6a9bd6f6c66c07537c541c6cf47da9311a", null ],
-      [ "LFG_INCOMPATIBLES_WRONG_GROUP_SIZE", "dc/df2/a00656.html#a33c5b3513de4cd3c5a525f31008618b6ab6f6918e09882dce7eb53394dc960123", null ],
-      [ "LFG_INCOMPATIBLES_TOO_MUCH_PLAYERS", "dc/df2/a00656.html#a33c5b3513de4cd3c5a525f31008618b6aab66f0e7b36ded30473ed953e96346a1", null ],
-      [ "LFG_INCOMPATIBLES_MULTIPLE_LFG_GROUPS", "dc/df2/a00656.html#a33c5b3513de4cd3c5a525f31008618b6a5c52733040385425e0b4fafbbe962c57", null ],
-      [ "LFG_INCOMPATIBLES_HAS_IGNORES", "dc/df2/a00656.html#a33c5b3513de4cd3c5a525f31008618b6a232b96c8bc336a74ef0d50fe5092b21b", null ],
-      [ "LFG_INCOMPATIBLES_NO_ROLES", "dc/df2/a00656.html#a33c5b3513de4cd3c5a525f31008618b6ad009d10da76a97578ce600e26e253a63", null ],
-      [ "LFG_INCOMPATIBLES_NO_DUNGEONS", "dc/df2/a00656.html#a33c5b3513de4cd3c5a525f31008618b6a6db8294000b56babf9050ec1fa80bd33", null ],
-      [ "LFG_COMPATIBLES_WITH_LESS_PLAYERS", "dc/df2/a00656.html#a33c5b3513de4cd3c5a525f31008618b6a226ddd4cf32244952984c339a149c93e", null ],
-      [ "LFG_COMPATIBLES_MATCH", "dc/df2/a00656.html#a33c5b3513de4cd3c5a525f31008618b6a9dc8d1185a27e48d0f6953fccaa49ba0", null ]
-    ] ]
+    [ "EMBLEM_PRICE", "dc/df2/a00656.html#a6e37f394008ea3eb20a46c84e03512a5", null ],
+    [ "MAX_GUILD_BANK_TAB_TEXT_LEN", "dc/df2/a00656.html#a458eaf87a56d0ac3d92187c55b14f437", null ],
+    [ "_GetGuildBankTabPrice", "dc/df2/a00656.html#a039068bd46d84b88b1a6a2fa0ae07b80", null ],
+    [ "_GetGuildEventString", "dc/df2/a00656.html#a8e9e4c2d24b387f386cf2d9c02996b59", null ]
 ];

@@ -1,13 +1,14 @@
 var a02933 =
 [
-    [ "instance_halls_of_lightning", "d0/d59/a19920.html", "d0/d59/a19920" ],
-    [ "instance_halls_of_lightning::instance_halls_of_lightning_InstanceMapScript", "d4/d90/a19924.html", "d4/d90/a19924" ],
-    [ "at_hol_hall_of_watchers", "d3/d66/a19928.html", "d3/d66/a19928" ],
-    [ "TitaniumHallwaySpells", "df/d5c/a02933.html#acb18ad00890035d01ae1c735f67fd0c8", [
-      [ "SPELL_FREEZE_ANIM", "df/d5c/a02933.html#acb18ad00890035d01ae1c735f67fd0c8a09463e66b152e3f856401806af0a4823", null ],
-      [ "SPELL_AWAKEN", "df/d5c/a02933.html#acb18ad00890035d01ae1c735f67fd0c8a76e1fd225869c359917096a4030f4799", null ]
+    [ "npc_cairne_bloodhoof", "df/dac/a16164.html", "df/dac/a16164" ],
+    [ "npc_cairne_bloodhoof::npc_cairne_bloodhoofAI", "d3/d1a/a16168.html", "d3/d1a/a16168" ],
+    [ "CairneBloodhoof", "df/d5c/a02933.html#a1d11da63be1309061cba3b5e10f2bbd9", [
+      [ "SPELL_BERSERKER_CHARGE", "df/d5c/a02933.html#a1d11da63be1309061cba3b5e10f2bbd9ae34e5e229d0caf06536a990d65605f66", null ],
+      [ "SPELL_CLEAVE", "df/d5c/a02933.html#a1d11da63be1309061cba3b5e10f2bbd9a0de0a536dbf18ec5c2e76cfee1d751eb", null ],
+      [ "SPELL_MORTAL_STRIKE", "df/d5c/a02933.html#a1d11da63be1309061cba3b5e10f2bbd9a7794ace87705e2898f8b60f1f5228110", null ],
+      [ "SPELL_THUNDERCLAP", "df/d5c/a02933.html#a1d11da63be1309061cba3b5e10f2bbd9a7f4e66bb0a1b5b2705975420f645b16e", null ],
+      [ "SPELL_UPPERCUT", "df/d5c/a02933.html#a1d11da63be1309061cba3b5e10f2bbd9aec5ad6f4170f697acf9499e4e06bb065", null ],
+      [ "SPELL_CAIRNES_HOOFPRINT", "df/d5c/a02933.html#a1d11da63be1309061cba3b5e10f2bbd9aa5dbce7c49b1794438bd8cfc874c7104", null ]
     ] ],
-    [ "AddSC_instance_halls_of_lightning", "df/d5c/a02933.html#acb5e7d848388449d05e307ed07fbcfc6", null ],
-    [ "doorData", "df/d5c/a02933.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "df/d5c/a02933.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
+    [ "AddSC_thunder_bluff", "df/d5c/a02933.html#ae5d674fbd346082d81f6f6720eed1081", null ]
 ];

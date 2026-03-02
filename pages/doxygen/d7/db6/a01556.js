@@ -1,4 +1,5 @@
 var a01556 =
 [
-    [ "GridCell< GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES >", "d2/d3e/a09292.html", "d2/d3e/a09292" ]
+    [ "GridTerrainLoader", "d6/d43/a09404.html", "d6/d43/a09404" ],
+    [ "GridTerrainUnloader", "d6/d88/a09408.html", "d6/d88/a09408" ]
 ];

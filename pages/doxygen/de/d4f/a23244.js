@@ -1,7 +1,7 @@
 var a23244 =
 [
-    [ "HandleScriptEffect", "de/d4f/a23244.html#ad5e905710a20436f120c979c865571c9", null ],
-    [ "PrepareSpellScript", "de/d4f/a23244.html#ab44aa98f47162b50f30622d67ac75395", null ],
-    [ "Register", "de/d4f/a23244.html#ad4c2bf1a8556b6fb85c05d3c83494fed", null ],
-    [ "Validate", "de/d4f/a23244.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2", null ]
+    [ "go_ahune_ice_spear", "de/d4f/a23244.html#a22922e47b819bc60e331cffbc7c353b3", null ],
+    [ "Reset", "de/d4f/a23244.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
+    [ "UpdateAI", "de/d4f/a23244.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
+    [ "_scheduler", "de/d4f/a23244.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
 ];

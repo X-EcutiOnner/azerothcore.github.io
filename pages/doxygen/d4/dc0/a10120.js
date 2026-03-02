@@ -1,10 +1,12 @@
 var a10120 =
 [
-    [ "ID", "d4/dc0/a10120.html#a3bd2bf63526b6ee4a15cf7a2244ff06b", null ],
-    [ "Map", "d4/dc0/a10120.html#af4e60380e8434e5b8f573d2172ddf656", null ],
-    [ "name", "d4/dc0/a10120.html#ae1dd7ba1294653756ea4af9d9b66fa2c", null ],
-    [ "wnameLow", "d4/dc0/a10120.html#a148ead3270ad02213204792d6063cead", null ],
-    [ "x", "d4/dc0/a10120.html#ae8f23fc9e53f6357d56b3a25ed514330", null ],
-    [ "y", "d4/dc0/a10120.html#af2e239c4c76dff49090f8f1d8eb4d455", null ],
-    [ "z", "d4/dc0/a10120.html#adf56d09898752230a4fa1629849ac945", null ]
+    [ "TransportTemplate", "d4/dc0/a10120.html#aef4781a37808827e3ceaffc782c3af1e", null ],
+    [ "~TransportTemplate", "d4/dc0/a10120.html#afc385d824c171d13a184bc0a16121110", null ],
+    [ "accelDist", "d4/dc0/a10120.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
+    [ "accelTime", "d4/dc0/a10120.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
+    [ "entry", "d4/dc0/a10120.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
+    [ "inInstance", "d4/dc0/a10120.html#a971c84762c229b01cab656945f0c16de", null ],
+    [ "keyFrames", "d4/dc0/a10120.html#ac714531f226ca06c3586cf3f6cc06808", null ],
+    [ "mapsUsed", "d4/dc0/a10120.html#a93899b0648871ed8ca32dfe8394347c1", null ],
+    [ "pathTime", "d4/dc0/a10120.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
 ];

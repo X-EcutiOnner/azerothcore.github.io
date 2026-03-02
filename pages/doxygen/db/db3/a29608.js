@@ -1,8 +1,15 @@
 var a29608 =
 [
-    [ "CreateCCEffect", "db/db3/a29608.html#a90bb496c51cd49d187389e714360afca", null ],
-    [ "SetUp", "db/db3/a29608.html#af90043fc0fe122bcbb1c60efcb56a92b", null ],
-    [ "TearDown", "db/db3/a29608.html#a7c3946d9acc7dbcc36c56071e165f6d9", null ],
-    [ "_originalWorld", "db/db3/a29608.html#a2006a12966a8875132c3a2c0b905e1f8", null ],
-    [ "_worldMock", "db/db3/a29608.html#ad18ef661fd5ab748c1c2c5d193b2a7d0", null ]
+    [ "MOCK_METHOD", "db/db3/a29608.html#ad315c9b44cd400050ba5d0ede0a6ed38", null ],
+    [ "MOCK_METHOD", "db/db3/a29608.html#a70f7f432cdb5248e4d7538e989d45c11", null ],
+    [ "MOCK_METHOD", "db/db3/a29608.html#ab1469fe474ab6290bfd8d8222392fdb1", null ],
+    [ "MOCK_METHOD", "db/db3/a29608.html#a72198bd1a85cc6fea8665fb7e0b19ee5", null ],
+    [ "MOCK_METHOD", "db/db3/a29608.html#aebca824eff5f8d2f7c210abdcdf1ed7d", null ],
+    [ "MOCK_METHOD", "db/db3/a29608.html#afc487e92b80c573fd5b01400204401da", null ],
+    [ "MOCK_METHOD", "db/db3/a29608.html#a5e71c6a07e54153dd5081af175031c18", null ],
+    [ "MOCK_METHOD", "db/db3/a29608.html#af6fccda3c70d3ddb643dcae31d63c205", null ],
+    [ "MOCK_METHOD", "db/db3/a29608.html#acccf2037a6b3dbccbadedfdcb7d4c95d", null ],
+    [ "MOCK_METHOD", "db/db3/a29608.html#aff433673cca191db03810f378879eae1", null ],
+    [ "MOCK_METHOD", "db/db3/a29608.html#a0cbd6994e0de9a0052bdcc8750881eac", null ],
+    [ "MOCK_METHOD", "db/db3/a29608.html#a4d624c7be7180f8c85b624e87601d659", null ]
 ];

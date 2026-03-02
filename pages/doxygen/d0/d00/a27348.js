@@ -1,8 +1,6 @@
 var a27348 =
 [
-    [ "ApplyDebuff", "d0/d00/a27348.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
-    [ "PrepareSpellScript", "d0/d00/a27348.html#aa37525d089348f58e3d871830caa3417", null ],
-    [ "Register", "d0/d00/a27348.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
-    [ "RemoveInvalidTargets", "d0/d00/a27348.html#a0451b75aa962065a01a5806992e01b16", null ],
-    [ "Validate", "d0/d00/a27348.html#ac69d777fdf7a2d3c527621dee256690c", null ]
+    [ "CheckProc", "d0/d00/a27348.html#ae8f06d0b6738c92a2e4a45fe0ca81cb9", null ],
+    [ "PrepareAuraScript", "d0/d00/a27348.html#aafd3eba8af1edb89ded08b056f9b497c", null ],
+    [ "Register", "d0/d00/a27348.html#aeb1d84b45afc05b8b9ca5cea2a50f5a4", null ]
 ];

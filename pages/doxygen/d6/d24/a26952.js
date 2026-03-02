@@ -1,7 +1,6 @@
 var a26952 =
 [
-    [ "CheckRequirement", "d6/d24/a26952.html#afc9206b1d92834943c9825dfd97439c9", null ],
-    [ "HandleScriptEffect", "d6/d24/a26952.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
-    [ "PrepareSpellScript", "d6/d24/a26952.html#a0223c05b5832c64b248e82eba770f7fa", null ],
-    [ "Register", "d6/d24/a26952.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
+    [ "HandleDummyEffect", "d6/d24/a26952.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
+    [ "PrepareSpellScript", "d6/d24/a26952.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
+    [ "Register", "d6/d24/a26952.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
 ];

@@ -1,5 +1,6 @@
 var a18560 =
 [
-    [ "at_sindragosa_lair", "d5/d56/a18560.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
-    [ "OnTrigger", "d5/d56/a18560.html#a07074bff20272042ed05be83dd818ee9", null ]
+    [ "FilterTargets", "d5/d56/a18560.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
+    [ "PrepareSpellScript", "d5/d56/a18560.html#a24466e7a04722cc7559b086f89d2edc8", null ],
+    [ "Register", "d5/d56/a18560.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
 ];

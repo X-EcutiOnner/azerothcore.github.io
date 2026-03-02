@@ -1,10 +1,6 @@
 var a15836 =
 [
-    [ "npc_rabid_thistle_bearAI", "d7/db2/a15836.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
-    [ "Initialize", "d7/db2/a15836.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
-    [ "Reset", "d7/db2/a15836.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
-    [ "SpellHit", "d7/db2/a15836.html#a62bde5a122748564cc806046bf9dcbaa", null ],
-    [ "UpdateAI", "d7/db2/a15836.html#a8f6c5b873756a58760b2861bc8b86804", null ],
-    [ "_events", "d7/db2/a15836.html#ad3852bf4588c453642e75fcdc544767b", null ],
-    [ "_playerGUID", "d7/db2/a15836.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
+    [ "npc_webbed_creatureAI", "da/d7c/a15840.html", "da/d7c/a15840" ],
+    [ "npc_webbed_creature", "d7/db2/a15836.html#ae52152939766c411e45e827e9ab52d4f", null ],
+    [ "GetAI", "d7/db2/a15836.html#a30fd53b81260b7fd6ca06881930b79e9", null ]
 ];

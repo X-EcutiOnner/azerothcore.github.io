@@ -1,8 +1,6 @@
 var a18056 =
 [
-    [ "HandlePeriodic", "dc/d3e/a18056.html#a5ff571c616b69bb50c736622feb9ed96", null ],
-    [ "HandleRemove", "dc/d3e/a18056.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
-    [ "PrepareAuraScript", "dc/d3e/a18056.html#a1b140274e283dd95e28fcb773e30f965", null ],
-    [ "Register", "dc/d3e/a18056.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
-    [ "Validate", "dc/d3e/a18056.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
+    [ "npc_gunship_boarding_add_realAI", "d2/d88/a18060.html", "d2/d88/a18060" ],
+    [ "npc_gunship_boarding_add", "dc/d3e/a18056.html#aa80871f80bae7186d3665f73d757e108", null ],
+    [ "GetAI", "dc/d3e/a18056.html#ad7e173bffccca6d852ba545427235447", null ]
 ];

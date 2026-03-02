@@ -1,7 +1,6 @@
 var a18292 =
 [
-    [ "HandleScript", "d0/d77/a18292.html#afc76149cb44a4d2aab48350fb4392036", null ],
-    [ "PrepareSpellScript", "d0/d77/a18292.html#a8598de219c2402596fe97b5dd32c534e", null ],
-    [ "Register", "d0/d77/a18292.html#ac9d4842632431e52932f66d09042ea70", null ],
-    [ "ScaleRange", "d0/d77/a18292.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
+    [ "MalleableGooSelector", "d0/d77/a18292.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
+    [ "operator()", "d0/d77/a18292.html#adf73957539fdcc604f849944473e0015", null ],
+    [ "me", "d0/d77/a18292.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
 ];

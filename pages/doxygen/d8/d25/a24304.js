@@ -1,7 +1,5 @@
 var a24304 =
 [
-    [ "npc_pet_gen_target_following_bomb", "d8/d25/a24304.html#a447c2cd258d784ca1d79c79412a1a426", null ],
-    [ "UpdateAI", "d8/d25/a24304.html#ac68f18d68a313623c04e885f9506f287", null ],
-    [ "bombSpellId", "d8/d25/a24304.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
-    [ "checkTimer", "d8/d25/a24304.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
+    [ "npc_pet_dk_risen_ally", "d8/d25/a24304.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
+    [ "OnCharmed", "d8/d25/a24304.html#ac3927becc1ed929c384b3413bfee9330", null ]
 ];

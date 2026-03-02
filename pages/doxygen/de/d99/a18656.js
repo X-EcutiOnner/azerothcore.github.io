@@ -1,7 +1,6 @@
 var a18656 =
 [
-    [ "HandleScript", "de/d99/a18656.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
-    [ "PrepareSpellScript", "de/d99/a18656.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
-    [ "Register", "de/d99/a18656.html#ad83d563da98ad189f2198a061b1cd50f", null ],
-    [ "Validate", "de/d99/a18656.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
+    [ "LichKingMovieEvent", "de/d99/a18656.html#a3e48e13dc5166c73a9f379045988f86a", null ],
+    [ "Execute", "de/d99/a18656.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
+    [ "_owner", "de/d99/a18656.html#a7ed68f442a644d6bb7a036812351d89e", null ]
 ];

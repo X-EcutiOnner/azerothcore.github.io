@@ -1,8 +1,9 @@
 var a24820 =
 [
-    [ "CheckProc", "df/d6e/a24820.html#ab960abbaa9d2728ff1c471e491844e2f", null ],
-    [ "HandleProc", "df/d6e/a24820.html#a23746c343ca01160b73822e3457514d5", null ],
-    [ "PrepareAuraScript", "df/d6e/a24820.html#a2ddb4cb53c7aabb8e1e09eb1036fafe0", null ],
-    [ "Register", "df/d6e/a24820.html#a78dbfa8833c8f8958e8e9a38cc9812a7", null ],
-    [ "Validate", "df/d6e/a24820.html#a715de16d0510d8b2cbd9e281c3e3274a", null ]
+    [ "FilterTargets", "df/d6e/a24820.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
+    [ "PrepareSpellScript", "df/d6e/a24820.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
+    [ "Register", "df/d6e/a24820.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
+    [ "SetTargets", "df/d6e/a24820.html#ac77e95af9b08118e87e3329eab5515ea", null ],
+    [ "Validate", "df/d6e/a24820.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
+    [ "_targets", "df/d6e/a24820.html#acc66768f54c514552f0ab01274c24f17", null ]
 ];

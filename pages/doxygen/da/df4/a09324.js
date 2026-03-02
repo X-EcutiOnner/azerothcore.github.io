@@ -1,14 +1,15 @@
 var a09324 =
 [
-    [ "areaMapOffset", "da/df4/a09324.html#a70f82337112bb8cbff0b3344666885a1", null ],
-    [ "areaMapSize", "da/df4/a09324.html#adfbbb622974b7942f47dd16d2300246f", null ],
-    [ "buildMagic", "da/df4/a09324.html#a82d0f500f9e84cf6c8bf917a98f92115", null ],
-    [ "heightMapOffset", "da/df4/a09324.html#a7623bee6b8cf7d6e39b8716aa72f8514", null ],
-    [ "heightMapSize", "da/df4/a09324.html#a71c9cd42801697a927543e3acd4c3daf", null ],
-    [ "holesOffset", "da/df4/a09324.html#a876d70dcd6ccec9ad09de77718c02150", null ],
-    [ "holesSize", "da/df4/a09324.html#a3c3cc1895a47dc69265f4b58166c3f6b", null ],
-    [ "liquidMapOffset", "da/df4/a09324.html#ac62deafcc7b435caf4a0f6aafd3d85be", null ],
-    [ "liquidMapSize", "da/df4/a09324.html#a5aa18af3a8e029e8842ddf72fc5d5267", null ],
-    [ "mapMagic", "da/df4/a09324.html#a2691fbc981b2ed5e1d748cd9c0859548", null ],
-    [ "versionMagic", "da/df4/a09324.html#abe722f653ba057fbba84401acbaffbfa", null ]
+    [ "CoordPair", "da/df4/a09324.html#a53b5f24cfdf13b246549a0c1543924c9", null ],
+    [ "CoordPair", "da/df4/a09324.html#aab92ece0f01ebc00cdac4966e02fa8fd", null ],
+    [ "dec_x", "da/df4/a09324.html#a69be5b72b710722120104f0c502fbb70", null ],
+    [ "dec_y", "da/df4/a09324.html#aefa33f8766212bb71e5fd19a318142cc", null ],
+    [ "GetId", "da/df4/a09324.html#ae4f7f304faf2c2363cffe2170b4c5c97", null ],
+    [ "inc_x", "da/df4/a09324.html#aa6a4942253e87ae57e2d69a2563ddef1", null ],
+    [ "inc_y", "da/df4/a09324.html#a120946c5a8c8b49bbdf9a1ee54ded9ec", null ],
+    [ "IsCoordValid", "da/df4/a09324.html#a082960c54e2077df370f891c0534b44f", null ],
+    [ "normalize", "da/df4/a09324.html#afac8086374bfc499e3a8d74d6afc58db", null ],
+    [ "operator=", "da/df4/a09324.html#a27f81c359c4ae278d663e85eccbeebb9", null ],
+    [ "x_coord", "da/df4/a09324.html#a101dd71af6a2cba18140aea2e502ef8b", null ],
+    [ "y_coord", "da/df4/a09324.html#aacae12844cc0c0d70e26b137ad28f700", null ]
 ];

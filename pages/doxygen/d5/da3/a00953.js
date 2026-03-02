@@ -1,9 +1,11 @@
 var a00953 =
 [
-    [ "PetSpell", "d3/d01/a08696.html", "d3/d01/a08696" ],
-    [ "Pet", "d7/d6b/a08700.html", "d7/d6b/a08700" ],
-    [ "AutoSpellList", "d5/da3/a00953.html#a85baf40bd776b1c20b66ba7ad78e0356", null ],
-    [ "PetSpellMap", "d5/da3/a00953.html#a5b33058abef8c309621a9029df331c0e", null ],
-    [ "HAPPINESS_LEVEL_SIZE", "d5/da3/a00953.html#a892e58d225a828ccac38c7d241365e30", null ],
-    [ "PET_LOSE_HAPPINES_INTERVAL", "d5/da3/a00953.html#aa23de8f28ae915637ac3f4f6429b59fb", null ]
+    [ "BattlefieldScript", "d7/de2/a10512.html", "d7/de2/a10512" ],
+    [ "BattlefieldHook", "d5/da3/a00953.html#ad9fb0d66e6cd28e54d79830f1d725089", [
+      [ "BATTLEFIELDHOOK_ON_PLAYER_ENTER_ZONE", "d5/da3/a00953.html#ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235", null ],
+      [ "BATTLEFIELDHOOK_ON_PLAYER_LEAVE_ZONE", "d5/da3/a00953.html#ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007", null ],
+      [ "BATTLEFIELDHOOK_ON_PLAYER_JOIN_WAR", "d5/da3/a00953.html#ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6", null ],
+      [ "BATTLEFIELDHOOK_ON_PLAYER_LEAVE_WAR", "d5/da3/a00953.html#ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab", null ],
+      [ "BATTLEFIELDHOOK_END", "d5/da3/a00953.html#ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac", null ]
+    ] ]
 ];

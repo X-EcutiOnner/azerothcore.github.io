@@ -1,5 +1,7 @@
 var a23264 =
 [
-    [ "boss_quagmirran", "d0/d54/a23264.html#a7f6289b86216b052f434a1417023e22c", null ],
-    [ "JustEngagedWith", "d0/d54/a23264.html#a28253b6653bd2e26e7f246c71a88b625", null ]
+    [ "PeriodicTick", "d0/d54/a23264.html#a94bee50f214d0a61fa81c4cca1b38fb2", null ],
+    [ "PrepareAuraScript", "d0/d54/a23264.html#a2c34fbc5c12be43b1c054cf4b23542cb", null ],
+    [ "Register", "d0/d54/a23264.html#ae1479b53d8c0575947a7ce7cae4747c4", null ],
+    [ "Validate", "d0/d54/a23264.html#ade8d57db324f02734e1752f49976dc9d", null ]
 ];

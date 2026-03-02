@@ -1,6 +1,6 @@
 var a24132 =
 [
-    [ "npc_lord_illidan_stormrageAI", "d4/df6/a24136.html", "d4/df6/a24136" ],
-    [ "npc_lord_illidan_stormrage", "d3/d9d/a24132.html#ad2f213749e170ec4f9903396d132f5f3", null ],
-    [ "GetAI", "d3/d9d/a24132.html#a9aaedc4326b90621965dad522f4af897", null ]
+    [ "npcs_flanis_swiftwing_and_kagrosh", "d3/d9d/a24132.html#aa95eceea94521947bd443805c8ddb52d", null ],
+    [ "OnGossipHello", "d3/d9d/a24132.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
+    [ "OnGossipSelect", "d3/d9d/a24132.html#aff34165955ba93e1fcd2b9731894d871", null ]
 ];

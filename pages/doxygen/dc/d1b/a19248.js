@@ -1,9 +1,9 @@
 var a19248 =
 [
-    [ "npc_icc_severed_essenceAI", "dc/d1b/a19248.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
-    [ "CanAIAttack", "dc/d1b/a19248.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
-    [ "DoAction", "dc/d1b/a19248.html#a938af3a7de5b26432e1ad515a326a032", null ],
-    [ "UpdateAI", "dc/d1b/a19248.html#a66e3324baa87ba109dd968a517ee82a5", null ],
-    [ "Class", "dc/d1b/a19248.html#aa627713be3a2ac01336d158d96aaccc7", null ],
-    [ "events", "dc/d1b/a19248.html#a1bab216925c4123d633d9613bb80365c", null ]
+    [ "npc_icc_skybreaker_vicarAI", "dc/d1b/a19248.html#ae74a306850b328f536b55e5c24c040ab", null ],
+    [ "AttackStart", "dc/d1b/a19248.html#a52b753e1f599eb02385d980a78cd3c78", null ],
+    [ "JustEngagedWith", "dc/d1b/a19248.html#afdb4215cd0578de7342b152783666ed6", null ],
+    [ "Reset", "dc/d1b/a19248.html#aeb11687534fa7c1e76ea22cc07deb73d", null ],
+    [ "UpdateAI", "dc/d1b/a19248.html#af1726169fe63eb3ff1ed95eb0e10d2f0", null ],
+    [ "events", "dc/d1b/a19248.html#a711d9571b4edb87f77eeebbd12e248b3", null ]
 ];

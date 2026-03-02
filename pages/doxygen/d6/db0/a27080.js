@@ -1,7 +1,7 @@
 var a27080 =
 [
-    [ "HandleScript", "d6/db0/a27080.html#aa00117e677af1e236962c59b688d8a98", null ],
-    [ "Load", "d6/db0/a27080.html#ad05b65848e35d87fb9ef1ae413de6256", null ],
-    [ "PrepareSpellScript", "d6/db0/a27080.html#afbffeadede1cc7f08a0a52f4a7bee680", null ],
-    [ "Register", "d6/db0/a27080.html#a52d4828ccd5430a622a32b1279943f9b", null ]
+    [ "HandleDummy", "d6/db0/a27080.html#ad2367c1fd551187b6f19f795abb15ea6", null ],
+    [ "PrepareSpellScript", "d6/db0/a27080.html#a125f7550ce826f74ac14902bc82d5021", null ],
+    [ "Register", "d6/db0/a27080.html#a35e9132e2414383caafbde699de6061d", null ],
+    [ "Validate", "d6/db0/a27080.html#a530489a10287a6dd281d518683b1a3f3", null ]
 ];

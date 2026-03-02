@@ -1,9 +1,5 @@
 var a15560 =
 [
-    [ "npc_claw_tentacle", "df/d96/a15560.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
-    [ "JustDied", "df/d96/a15560.html#aa566b417d1b766668133dd1d6a58293f", null ],
-    [ "JustEngagedWith", "df/d96/a15560.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
-    [ "Reset", "df/d96/a15560.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
-    [ "UpdateAI", "df/d96/a15560.html#ae7d521445680167add653717c7ae4c86", null ],
-    [ "_portalGUID", "df/d96/a15560.html#ab979781a8f77267348595cfa17341bae", null ]
+    [ "boss_kri", "df/d96/a15560.html#a0a95f8d2a380ab48ffd5a034e012cc2c", null ],
+    [ "JustEngagedWith", "df/d96/a15560.html#ab2169ec49ecbff2ee1460e38bd1a163e", null ]
 ];

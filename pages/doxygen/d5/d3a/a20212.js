@@ -1,8 +1,9 @@
 var a20212 =
 [
-    [ "OnApply", "d5/d3a/a20212.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
-    [ "OnRemove", "d5/d3a/a20212.html#ab967233994aa3ff07b272f010b2c1545", null ],
-    [ "PrepareAuraScript", "d5/d3a/a20212.html#a788480ec4aaa57e643f55daca17c6ded", null ],
-    [ "Register", "d5/d3a/a20212.html#a63a3e30704b282a430dcdbb9073a66df", null ],
-    [ "Validate", "d5/d3a/a20212.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
+    [ "npc_thorims_hammer", "d5/d3a/a20212.html#ae22f7278bd68011dc8f593ac4ccfc5ff", null ],
+    [ "Reset", "d5/d3a/a20212.html#a6b7a294849ffd4a75e7f9e0ce3c7314b", null ],
+    [ "UpdateAI", "d5/d3a/a20212.html#a006414298b31eb0cfb964916298d66ce", null ],
+    [ "_beamTimer", "d5/d3a/a20212.html#adcd5af2b86d1d8f119514f799c42444b", null ],
+    [ "_finishTime", "d5/d3a/a20212.html#aa6366b2ba9158a8560ed7289b51e96fc", null ],
+    [ "_removeTimer", "d5/d3a/a20212.html#a7b9a2435b0953c12e693c562193d45e0", null ]
 ];

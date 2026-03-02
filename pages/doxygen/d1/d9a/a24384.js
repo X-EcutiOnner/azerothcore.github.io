@@ -1,9 +1,8 @@
 var a24384 =
 [
-    [ "npc_pet_shaman_fire_elemental", "d1/d9a/a24384.html#a3428642963fc9e7588ec92fd838f1af9", null ],
-    [ "InitializeAI", "d1/d9a/a24384.html#aef4865f83ce0c73efe0c47a11ac87594", null ],
-    [ "JustEngagedWith", "d1/d9a/a24384.html#ac274b9edb03ab13a8e95d8c4fe5055db", null ],
-    [ "UpdateAI", "d1/d9a/a24384.html#a2280e5cc5187a91917a1e517e80e960d", null ],
-    [ "_events", "d1/d9a/a24384.html#aa4578cdbe41d28e399247c84c9fe8049", null ],
-    [ "_initAttack", "d1/d9a/a24384.html#a2df79acc05dd8489e9e994e044b45404", null ]
+    [ "CheckProc", "d1/d9a/a24384.html#a8875c54a3cae852681a389c8777f25bb", null ],
+    [ "HandleProc", "d1/d9a/a24384.html#aa4025d668080ba03af23abbb3a461758", null ],
+    [ "PrepareAuraScript", "d1/d9a/a24384.html#a5fee783960ed7f0b4adcfc30db68061d", null ],
+    [ "Register", "d1/d9a/a24384.html#a5a6251290dd3389e9307c2e6f9b52098", null ],
+    [ "Validate", "d1/d9a/a24384.html#a38cdd5d8346797e53ed82be598df48cd", null ]
 ];

@@ -1,7 +1,6 @@
 var a13880 =
 [
-    [ "OnPeriodic", "de/d8d/a13880.html#a25e7a59384f262a36c74696a1befa01d", null ],
-    [ "PrepareAuraScript", "de/d8d/a13880.html#a9b82fde3e38054b686f9b2a110cfaa1e", null ],
-    [ "Register", "de/d8d/a13880.html#a65e469ba04d8cd2aa23d934bf2915721", null ],
-    [ "Validate", "de/d8d/a13880.html#a6843deda5be8b684c06a86920714f255", null ]
+    [ "HandlePeriodic", "de/d8d/a13880.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
+    [ "PrepareAuraScript", "de/d8d/a13880.html#a2722b97e12e9371745d7f38504d9efdf", null ],
+    [ "Register", "de/d8d/a13880.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
 ];

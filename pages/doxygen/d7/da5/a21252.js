@@ -1,6 +1,13 @@
 var a21252 =
 [
-    [ "boss_cyanigosaAI", "d2/d4e/a21256.html", "d2/d4e/a21256" ],
-    [ "boss_cyanigosa", "d7/da5/a21252.html#a4db12e2fb873ad3595a437df09663a22", null ],
-    [ "GetAI", "d7/da5/a21252.html#a779c7c3a5f0002501361fa92fe14af69", null ]
+    [ "boss_toravonAI", "d7/da5/a21252.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
+    [ "AttackStart", "d7/da5/a21252.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
+    [ "JustDied", "d7/da5/a21252.html#ad501bb34a0014be0abc965aae5383e21", null ],
+    [ "JustEngagedWith", "d7/da5/a21252.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
+    [ "JustSummoned", "d7/da5/a21252.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
+    [ "Reset", "d7/da5/a21252.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
+    [ "UpdateAI", "d7/da5/a21252.html#a97c16b1689cfdb7fa680381964cb272a", null ],
+    [ "events", "d7/da5/a21252.html#ae2a3b691f1580275228204ea8ccaf846", null ],
+    [ "pInstance", "d7/da5/a21252.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
+    [ "summons", "d7/da5/a21252.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
 ];

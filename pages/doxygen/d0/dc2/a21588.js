@@ -1,8 +1,7 @@
 var a21588 =
 [
-    [ "npc_shandy_dalaranAI", "d6/d2e/a21592.html", "d6/d2e/a21592" ],
-    [ "npc_shandy_dalaran", "d0/dc2/a21588.html#a7077c769a252af8ba37b5ff5d524463e", null ],
-    [ "GetAI", "d0/dc2/a21588.html#a641551a2aef739e1679912ae27ddb888", null ],
-    [ "OnGossipHello", "d0/dc2/a21588.html#a91287aaba09fce091c9d826e75208f84", null ],
-    [ "OnGossipSelect", "d0/dc2/a21588.html#ad005a17da187e0cfd03d2faf0099c448", null ]
+    [ "HandleEffectHit", "d0/dc2/a21588.html#a8d7dd2411c3b786e682260eb30862602", null ],
+    [ "PrepareSpellScript", "d0/dc2/a21588.html#a49b6d005013e480f8161779119bc9b2d", null ],
+    [ "Register", "d0/dc2/a21588.html#a017ae25fead98a5c18cdb83128085ddd", null ],
+    [ "Validate", "d0/dc2/a21588.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
 ];

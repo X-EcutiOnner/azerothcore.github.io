@@ -1,8 +1,12 @@
 var a22540 =
 [
-    [ "boss_pandemonius", "d6/d74/a22540.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
-    [ "JustDied", "d6/d74/a22540.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
-    [ "JustEngagedWith", "d6/d74/a22540.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
-    [ "KilledUnit", "d6/d74/a22540.html#a26a012afe8c418c8da283c7b9f983e89", null ],
-    [ "PullRoom", "d6/d74/a22540.html#a05011127290350f11cc1a333b23dbb04", null ]
+    [ "npc_stolen_soul", "d6/d74/a22540.html#a84a0bb8320b2332545748e010d855884", null ],
+    [ "DoAction", "d6/d74/a22540.html#abcfed6b9b46ce48a15b31d062a1618f4", null ],
+    [ "JustDied", "d6/d74/a22540.html#a6a1d6da5a448fd4b8910835d3a346e3a", null ],
+    [ "Reset", "d6/d74/a22540.html#a9f18ffbb42c988067b6dfa8355a4aba6", null ],
+    [ "SetGUID", "d6/d74/a22540.html#a35b3478f2541f7b3d56e0873f96f479f", null ],
+    [ "UpdateAI", "d6/d74/a22540.html#a7bf369dd943ee36600a364d56b85db5a", null ],
+    [ "_myClass", "d6/d74/a22540.html#ade19b9cb41a674f6bd049a621970aeff", null ],
+    [ "_scheduler", "d6/d74/a22540.html#ab62526916f0ccd681383d37d19d94ccc", null ],
+    [ "_targetGuid", "d6/d74/a22540.html#a6efbe90928119902e4b5a7148b12cfac", null ]
 ];

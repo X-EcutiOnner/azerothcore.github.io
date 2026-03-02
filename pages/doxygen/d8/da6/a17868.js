@@ -1,9 +1,7 @@
 var a17868 =
 [
-    [ "CheckProc", "d8/da6/a17868.html#a13426f7a45e9434f980b42f174b22da8", null ],
-    [ "HandlePeriodicTick", "d8/da6/a17868.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
-    [ "HandleProc", "d8/da6/a17868.html#abf744d64dae5835bff3877eeaa919af3", null ],
-    [ "PrepareAuraScript", "d8/da6/a17868.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
-    [ "Register", "d8/da6/a17868.html#a1b72c10256365de71b8f9fadf5886338", null ],
-    [ "Validate", "d8/da6/a17868.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
+    [ "achievement_once_bitten_twice_shy", "d8/da6/a17868.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
+    [ "OnCheck", "d8/da6/a17868.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
+    [ "_spawnMode", "d8/da6/a17868.html#a6f02f5ab07143ddff553279049714902", null ],
+    [ "_wasVampire", "d8/da6/a17868.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
 ];

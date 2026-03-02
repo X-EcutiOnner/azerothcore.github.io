@@ -1,6 +1,7 @@
 var a18620 =
 [
-    [ "LichKingDeathEvent", "df/dda/a18620.html#a9aa328b60358034355b1eed5caacb9f8", null ],
-    [ "Execute", "df/dda/a18620.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
-    [ "_owner", "df/dda/a18620.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
+    [ "HandleInfusion", "df/dda/a18620.html#a9f77330d81fef646dd5d5399800cba66", null ],
+    [ "PrepareSpellScript", "df/dda/a18620.html#ae0a272902b0a9f74058c1dbe62974358", null ],
+    [ "Register", "df/dda/a18620.html#ad759f6215e722f799156b4bdddcb7af1", null ],
+    [ "Validate", "df/dda/a18620.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
 ];

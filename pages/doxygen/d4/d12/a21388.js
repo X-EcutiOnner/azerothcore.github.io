@@ -1,6 +1,18 @@
 var a21388 =
 [
-    [ "npc_azure_raiderAI", "dd/daf/a21392.html", "dd/daf/a21392" ],
-    [ "npc_azure_raider", "d4/d12/a21388.html#a249abee0df263e183341193b828a310c", null ],
-    [ "GetAI", "d4/d12/a21388.html#a88a45e3b117c5105f7541d640dda8470", null ]
+    [ "violet_hold_trashAI", "d4/d12/a21388.html#a87011739810f39291655bc835f9995bd", null ],
+    [ "AttackStart", "d4/d12/a21388.html#ab2d2157977ae2482217fa8ac344b30af", null ],
+    [ "ClearDoorSealAura", "d4/d12/a21388.html#ad0c756eb5bef8036cb47ebcc9e6915df", null ],
+    [ "CreatureStartAttackDoor", "d4/d12/a21388.html#a1e64a9f7c82275969e099b5012a32924", null ],
+    [ "EnterEvadeMode", "d4/d12/a21388.html#ab189607a468514d6c472ac40e6f3d85b", null ],
+    [ "JustDied", "d4/d12/a21388.html#acd512cd3722a2edf0ca539272ded3c79", null ],
+    [ "JustEngagedWith", "d4/d12/a21388.html#a16e7677aa9597dda938a67c51febde6c", null ],
+    [ "JustReachedHome", "d4/d12/a21388.html#ae98d0cd977d59cbfe567fa6e294cde7e", null ],
+    [ "MoveInLineOfSight", "d4/d12/a21388.html#ab0e73a03d6e36a35eb393127bce3dad3", null ],
+    [ "UpdateAI", "d4/d12/a21388.html#a8647797343650fcd4f6304bce3742883", null ],
+    [ "WaypointReached", "d4/d12/a21388.html#ac218e3761b79d4d8186ad8d12e0d0b57", null ],
+    [ "bAddedWP", "d4/d12/a21388.html#ad2e8841054cece73bdc7c2e7782c96a8", null ],
+    [ "bAlt", "d4/d12/a21388.html#ad84ecad1a57f0af44af2795a252d2214", null ],
+    [ "pInstance", "d4/d12/a21388.html#a0a5f5b86cd54c28a828db2ac3e83126b", null ],
+    [ "PLoc", "d4/d12/a21388.html#a9e9ca535b9d2fa1b246975f984c96998", null ]
 ];

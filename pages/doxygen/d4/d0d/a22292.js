@@ -1,7 +1,7 @@
 var a22292 =
 [
-    [ "npc_wg_quest_giver", "d4/d0d/a22292.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "d4/d0d/a22292.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "d4/d0d/a22292.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "d4/d0d/a22292.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "HandleDummy", "d4/d0d/a22292.html#aac2e8e5e00bf25846f36f920acf98dca", null ],
+    [ "PrepareAuraScript", "d4/d0d/a22292.html#aefda37f79ba45361ad91bd79f4e8a486", null ],
+    [ "Register", "d4/d0d/a22292.html#a446c71ed3f5fa2ce653148f9567fd199", null ],
+    [ "Validate", "d4/d0d/a22292.html#a1a2a6547d994cdd8b375a45226b7c36f", null ]
 ];

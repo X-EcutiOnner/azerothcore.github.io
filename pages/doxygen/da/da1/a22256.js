@@ -1,7 +1,7 @@
 var a22256 =
 [
-    [ "OnApply", "da/da1/a22256.html#ad026db5f19c376d9a87f7a1554502809", null ],
-    [ "OnRemove", "da/da1/a22256.html#a0264c6f6f41da3644a803265399f1d82", null ],
-    [ "PrepareAuraScript", "da/da1/a22256.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
-    [ "Register", "da/da1/a22256.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
+    [ "HandleOnEffectHit", "da/da1/a22256.html#a909ec44339061a114697cacee5fba5b2", null ],
+    [ "PrepareSpellScript", "da/da1/a22256.html#ac1bfb2b49cd335ca5961b984fadfffb8", null ],
+    [ "Register", "da/da1/a22256.html#aa241c97b4e895d07fe89d03edca29912", null ],
+    [ "Validate", "da/da1/a22256.html#aa84f4c29ca00789bb47661267549cda6", null ]
 ];

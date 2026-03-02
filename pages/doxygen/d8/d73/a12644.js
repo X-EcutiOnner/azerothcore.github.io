@@ -1,7 +1,5 @@
 var a12644 =
 [
-    [ "boss_broodlordAI", "d8/d73/a12644.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
-    [ "JustDied", "d8/d73/a12644.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
-    [ "JustEngagedWith", "d8/d73/a12644.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
-    [ "UpdateAI", "d8/d73/a12644.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
+    [ "at_dragonspire_hall", "d8/d73/a12644.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
+    [ "OnTrigger", "d8/d73/a12644.html#a0433930ec050a9dbeb60e1b1122772e3", null ]
 ];

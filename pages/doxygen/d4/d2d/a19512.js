@@ -1,7 +1,6 @@
 var a19512 =
 [
-    [ "HandleScript", "d4/d2d/a19512.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
-    [ "PrepareAuraScript", "d4/d2d/a19512.html#aa3053519be0101f55450d76b1291f0f7", null ],
-    [ "Register", "d4/d2d/a19512.html#ada596a7f19115c7178fd07fb9e956f58", null ],
-    [ "Validate", "d4/d2d/a19512.html#a768dec18bc0e879c457a64135ec27ad9", null ]
+    [ "HandleHit", "d4/d2d/a19512.html#aa6302d9372bf6ea514d49d8c8e280781", null ],
+    [ "PrepareSpellScript", "d4/d2d/a19512.html#a87b57541a36d711ecbca6f485915c9ab", null ],
+    [ "Register", "d4/d2d/a19512.html#ad7290a8d786f64fdf7b5b04a7770ff6d", null ]
 ];

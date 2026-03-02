@@ -1,6 +1,6 @@
 var a27420 =
 [
-    [ "HandleDummy", "d0/dfb/a27420.html#af5bccd5dfb9aa37215b083438b6749ea", null ],
-    [ "PrepareSpellScript", "d0/dfb/a27420.html#a6c2b858c893ed215d1192073b06db81d", null ],
-    [ "Register", "d0/dfb/a27420.html#a1b23dc4a7a04e4c910bb738d45a8df1f", null ]
+    [ "FilterTargets", "d0/dfb/a27420.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
+    [ "PrepareSpellScript", "d0/dfb/a27420.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
+    [ "Register", "d0/dfb/a27420.html#abe63ec69fe15fd8924fb63235489e088", null ]
 ];

@@ -1,8 +1,7 @@
 var a14204 =
 [
-    [ "npc_the_scourge_cauldronAI", "d9/d14/a14204.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
-    [ "DoDie", "d9/d14/a14204.html#a9f720a27db2943a66b11ad6355690bf5", null ],
-    [ "JustEngagedWith", "d9/d14/a14204.html#a89954dec2f7d57d933c18822333243ac", null ],
-    [ "MoveInLineOfSight", "d9/d14/a14204.html#a256195dbe75859d72afcd0defb9ff76e", null ],
-    [ "Reset", "d9/d14/a14204.html#ab18bb2eb344f45827685786c665b1750", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "d9/d14/a14204.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
+    [ "Reset", "d9/d14/a14204.html#a18de805428ce0954a5fbfffbf5975342", null ],
+    [ "UpdateAI", "d9/d14/a14204.html#a48b191d0812bfe3212511a52ef0df817", null ],
+    [ "_events", "d9/d14/a14204.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
 ];

@@ -1,8 +1,10 @@
 var a06104 =
 [
-    [ "UpdateResult", "de/d7b/a06104.html#af32cdf09d32607955c98353fbfa7d392", null ],
-    [ "UpdateResult", "de/d7b/a06104.html#a225eb6b9ff745dcd72d623ca79c007c6", null ],
-    [ "archived", "de/d7b/a06104.html#adee274af5f5d6981e28b3587008d690c", null ],
-    [ "recent", "de/d7b/a06104.html#aea54f4388b659def734957a47e9cca8c", null ],
-    [ "updated", "de/d7b/a06104.html#a12b3fffe01639493fc405bd5a797f463", null ]
+    [ "TransactionCallback", "de/d7b/a06104.html#a89e9ebf06ffbad9dcf77a78f9f989450", null ],
+    [ "TransactionCallback", "de/d7b/a06104.html#adeff62976c11d9d90169e4650640118b", null ],
+    [ "AfterComplete", "de/d7b/a06104.html#af2ec892bbca8d2cc694b36fb931fc1e8", null ],
+    [ "InvokeIfReady", "de/d7b/a06104.html#a7937d93dbd22617a2fd3893a6fe8c23c", null ],
+    [ "operator=", "de/d7b/a06104.html#ab73d1741c21ea9fd86f65a647768e972", null ],
+    [ "m_callback", "de/d7b/a06104.html#abb0dbcebb22ea716025ed6aca99f6afb", null ],
+    [ "m_future", "de/d7b/a06104.html#a381e889074bc5ca48574d37fe6eea00f", null ]
 ];

@@ -1,7 +1,7 @@
 var a23924 =
 [
-    [ "HandleEffect", "d7/d77/a23924.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "d7/d77/a23924.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "d7/d77/a23924.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "d7/d77/a23924.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "npc_daranelleAI", "d7/d77/a23924.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "d7/d77/a23924.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "d7/d77/a23924.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "d7/d77/a23924.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

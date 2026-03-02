@@ -1,6 +1,7 @@
 var a16180 =
 [
-    [ "instance_zulfarrak_InstanceMapScript", "d8/db6/a16184.html", "d8/db6/a16184" ],
-    [ "instance_zulfarrak", "df/d8f/a16180.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
-    [ "GetInstanceScript", "df/d8f/a16180.html#a5f092341e49848c9d321452be2193d56", null ]
+    [ "npc_ringoAI", "d8/db6/a16184.html", "d8/db6/a16184" ],
+    [ "npc_ringo", "df/d8f/a16180.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
+    [ "GetAI", "df/d8f/a16180.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
+    [ "OnQuestAccept", "df/d8f/a16180.html#abdf4e5e1b26c1b1a288047e24188ad10", null ]
 ];

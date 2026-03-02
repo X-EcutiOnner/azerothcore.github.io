@@ -1,6 +1,7 @@
 var a27856 =
 [
-    [ "HandleProc", "d3/dd1/a27856.html#a72d56ccc2c6f0337fa68c2759d90c5d6", null ],
-    [ "PrepareAuraScript", "d3/dd1/a27856.html#a49a96d3aa0220b4ec77fb1a384826614", null ],
-    [ "Register", "d3/dd1/a27856.html#adf0852d1aad8097143df205a66a49f2f", null ]
+    [ "HandleScript", "d3/dd1/a27856.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
+    [ "PrepareSpellScript", "d3/dd1/a27856.html#ab363d596d2d1e030f0cc07126b40e921", null ],
+    [ "Register", "d3/dd1/a27856.html#ab9041b811e80e220828d5db59b724682", null ],
+    [ "Validate", "d3/dd1/a27856.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
 ];

@@ -1,6 +1,8 @@
 var a25220 =
 [
-    [ "HandleScriptEffect", "d0/d58/a25220.html#a884d0f5f8bf0f3515b4fedd54dd20ebf", null ],
-    [ "PrepareSpellScript", "d0/d58/a25220.html#a45151bb2eacdd642e8f11564d4ef0d65", null ],
-    [ "Register", "d0/d58/a25220.html#ae01695fd336fca36a7d2569ca741fba5", null ]
+    [ "OnApply", "d0/d58/a25220.html#a9ea247d39fa51d9722c17e6ea83a0e55", null ],
+    [ "OnRemove", "d0/d58/a25220.html#abd45d59ecd41274bd02c17fb066a521e", null ],
+    [ "PrepareAuraScript", "d0/d58/a25220.html#af30811301599459bf2a99a68608a053f", null ],
+    [ "Register", "d0/d58/a25220.html#a0eb56dc80c02932a0d7cf4cca7079c75", null ],
+    [ "Validate", "d0/d58/a25220.html#a29c5049e4455737ff96596a18af118d0", null ]
 ];

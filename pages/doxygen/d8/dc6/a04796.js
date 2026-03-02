@@ -1,16 +1,25 @@
 var a04796 =
 [
-    [ "frand", "d8/dc6/a04796.html#a19bd31014583536af788a65b398e4406", null ],
-    [ "GetRng", "d8/dc6/a04796.html#a8602a67daa881e92c3eb9204c88b7733", null ],
-    [ "irand", "d8/dc6/a04796.html#a6ae07d2bb0593d8339e65c136f63ecc0", null ],
-    [ "rand32", "d8/dc6/a04796.html#ac699324b85bb2266ea8978796967c541", null ],
-    [ "rand_chance", "d8/dc6/a04796.html#a66621d09a8cc2aa9476391004fe2c427", null ],
-    [ "rand_norm", "d8/dc6/a04796.html#af2f9363ceebb6f78067b4a146d1de9df", null ],
-    [ "randtime", "d8/dc6/a04796.html#a9ecda65ea9686c86f47934d04d38ec69", null ],
-    [ "randtime", "d8/dc6/a04796.html#a7c8533961af63b720553e868fdaabd85", null ],
-    [ "urand", "d8/dc6/a04796.html#ab17def34ccbbd868dc87a16bf35acdbd", null ],
-    [ "urandms", "d8/dc6/a04796.html#af901d57f29ff48f701a375e44a0f1261", null ],
-    [ "urandweighted", "d8/dc6/a04796.html#a3f7e714c8fc3a6f6ccbe91d524a84f23", null ],
-    [ "engine", "d8/dc6/a04796.html#a8ab11e2fa939d9f333dfa1a858e7690b", null ],
-    [ "sfmtRand", "d8/dc6/a04796.html#a131ba7587aa544a7e73ff9884d6bc784", null ]
+    [ "Socket< T >", "de/d17/a29420.html", "de/d17/a29420" ],
+    [ "READ_BLOCK_SIZE", "d8/dc6/a04796.html#a16ba013af02b9d4400b5e47d8daa022b", null ],
+    [ "IoContextTcpSocket", "d8/dc6/a04796.html#af72c5a224bc60d68d08afae3ba0cfb2f", null ],
+    [ "ProxyHeaderAddressFamilyAndProtocol", "d8/dc6/a04796.html#a7ddce6d0420753babeb6258ada50eec1", [
+      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V4", "d8/dc6/a04796.html#a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575", null ],
+      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V6", "d8/dc6/a04796.html#a7ddce6d0420753babeb6258ada50eec1a5b0f57dac80a77ad98bc0d371a22f699", null ]
+    ] ],
+    [ "ProxyHeaderReadingState", "d8/dc6/a04796.html#aa514bb66fa404b5b180297bb005c3272", [
+      [ "PROXY_HEADER_READING_STATE_NOT_STARTED", "d8/dc6/a04796.html#aa514bb66fa404b5b180297bb005c3272a0bd44a601a6d6745f442535a457fc67c", null ],
+      [ "PROXY_HEADER_READING_STATE_STARTED", "d8/dc6/a04796.html#aa514bb66fa404b5b180297bb005c3272a6b5e85386b6638d1a72fa2520f355c98", null ],
+      [ "PROXY_HEADER_READING_STATE_FINISHED", "d8/dc6/a04796.html#aa514bb66fa404b5b180297bb005c3272a2898c80db946e4ae677297c1954470fb", null ],
+      [ "PROXY_HEADER_READING_STATE_FAILED", "d8/dc6/a04796.html#aa514bb66fa404b5b180297bb005c3272a7a96033158689ba0590a86245f58922f", null ]
+    ] ],
+    [ "SocketReadCallbackResult", "d8/dc6/a04796.html#a28a77649fbf17e65bca542516efff3e3", [
+      [ "KeepReading", "d8/dc6/a04796.html#a28a77649fbf17e65bca542516efff3e3a0d4c2f1850364968984f50e42be91be5", null ],
+      [ "Stop", "d8/dc6/a04796.html#a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481", null ]
+    ] ],
+    [ "SocketState", "d8/dc6/a04796.html#af8f6bcfe82815814726ab4f90ea013e7", [
+      [ "Open", "d8/dc6/a04796.html#af8f6bcfe82815814726ab4f90ea013e7ac3bf447eabe632720a3aa1a7ce401274", null ],
+      [ "Closing", "d8/dc6/a04796.html#af8f6bcfe82815814726ab4f90ea013e7a5c8de6f894682fdb1786037b2040a26e", null ],
+      [ "Closed", "d8/dc6/a04796.html#af8f6bcfe82815814726ab4f90ea013e7a03f4a47830f97377a35321051685071e", null ]
+    ] ]
 ];

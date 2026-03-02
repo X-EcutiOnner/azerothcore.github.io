@@ -1,15 +1,14 @@
 var a17616 =
 [
-    [ "boss_gal_darah", "d9/d4d/a17616.html#a036b5f96ecf5096040f16e0205e4d57c", null ],
-    [ "GetData", "d9/d4d/a17616.html#a1f8ec6a0a95b10953506e08275db7a2c", null ],
-    [ "JustDied", "d9/d4d/a17616.html#a98f53f7131155114da1eeb19f5a50daa", null ],
-    [ "JustEngagedWith", "d9/d4d/a17616.html#acf7696bdfa868808f29a90dbec4b0688", null ],
-    [ "JustReachedHome", "d9/d4d/a17616.html#aba3c2011a01d4e00b7e1c28f0c4326b9", null ],
-    [ "JustSummoned", "d9/d4d/a17616.html#a490e259cf452c417864c978510d06fd2", null ],
-    [ "KilledUnit", "d9/d4d/a17616.html#a799e52cfe029164149017ea7f963937f", null ],
-    [ "Reset", "d9/d4d/a17616.html#a712339fe4a06d6a4836f4cbb5bd01625", null ],
-    [ "ScheduleEvents", "d9/d4d/a17616.html#ad5acba3d3bc049bb5bdcb95d31ef06d6", null ],
-    [ "SpellHit", "d9/d4d/a17616.html#a3f8cbe22aa2e0d39272b5b4dbfc5f06b", null ],
-    [ "_stampedeVictim", "d9/d4d/a17616.html#a0d34c4486c4188fcc6eb75e904d52a61", null ],
-    [ "impaledList", "d9/d4d/a17616.html#a08f311b7b7cec3bc4056b7d7071bfbf0", null ]
+    [ "boss_drakkari_colossusAI", "d9/d4d/a17616.html#a28594cf76c5b1977a4f70ba0c3811646", null ],
+    [ "DamageTaken", "d9/d4d/a17616.html#ae31f77e5b63fee3d0745919ed737b599", null ],
+    [ "DoAction", "d9/d4d/a17616.html#a8e72a38f6a605cafa2667ca585cf0761", null ],
+    [ "JustReachedHome", "d9/d4d/a17616.html#a93f73f204d07b4805f4a7dd240a96d13", null ],
+    [ "JustSummoned", "d9/d4d/a17616.html#ab58d286bb6f0ea94c2eb70e52e513ad4", null ],
+    [ "MoveInLineOfSight", "d9/d4d/a17616.html#ae1151f6fc9f9ca011a7d476f7d1c6927", null ],
+    [ "Reset", "d9/d4d/a17616.html#a5e9c6da15df58a206533a7c718056c3e", null ],
+    [ "ScheduleTasks", "d9/d4d/a17616.html#afefbba70f93142110dcf9d7940d91d2c", null ],
+    [ "SummonedCreatureDespawn", "d9/d4d/a17616.html#a58658947c4fc115ea9c1d6f1edd1332e", null ],
+    [ "SummonedCreatureDies", "d9/d4d/a17616.html#a59f9efbc2964eec057606d69458b4402", null ],
+    [ "UpdateAI", "d9/d4d/a17616.html#afc816b7d1c2705675560ddd13ecce22d", null ]
 ];

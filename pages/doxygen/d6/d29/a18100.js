@@ -1,9 +1,11 @@
 var a18100 =
 [
-    [ "HandleApply", "d6/d29/a18100.html#a5f23d41765ec949486094a0da45be7e8", null ],
-    [ "HandleRemove", "d6/d29/a18100.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
-    [ "Load", "d6/d29/a18100.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
-    [ "PrepareAuraScript", "d6/d29/a18100.html#aabf5fdf4578935db11e041e638fba187", null ],
-    [ "Register", "d6/d29/a18100.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
-    [ "SendClientControl", "d6/d29/a18100.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
+    [ "CountTargets", "d6/d29/a18100.html#a54f6526359fba124a988ba35c2876fd1", null ],
+    [ "Load", "d6/d29/a18100.html#a32a76ca53528bbfabfcefd2dc6aef4cc", null ],
+    [ "PrepareSpellScript", "d6/d29/a18100.html#a4991d88429ea951c55ef08a90f364d31", null ],
+    [ "Register", "d6/d29/a18100.html#a8bac27d885c8ea0c659c22599c4e97b4", null ],
+    [ "TeleportPlayer", "d6/d29/a18100.html#ac886eae598b55ed4aa9ddbf9ce3a01bd", null ],
+    [ "TriggerWipe", "d6/d29/a18100.html#a0f79722e00e6255d1ed1bf5846d5c839", null ],
+    [ "Validate", "d6/d29/a18100.html#ad2e586d688b413f9ef9a5688d203106a", null ],
+    [ "_playerCount", "d6/d29/a18100.html#a7c116e74c485ca44e5e6e710cfeb5bba", null ]
 ];

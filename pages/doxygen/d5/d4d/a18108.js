@@ -1,9 +1,8 @@
 var a18108 =
 [
-    [ "CalculateDamage", "d5/d4d/a18108.html#a6a9e90d9463825b38b69afc234b35b39", null ],
-    [ "PrepareSpellScript", "d5/d4d/a18108.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
-    [ "Register", "d5/d4d/a18108.html#a2722814a55469e5bae572766ed36309b", null ],
-    [ "RemoveEnergy", "d5/d4d/a18108.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
-    [ "StoreEnergy", "d5/d4d/a18108.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
-    [ "_energyLeft", "d5/d4d/a18108.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
+    [ "Load", "d5/d4d/a18108.html#ad1105149d5e42318382af6c07149d522", null ],
+    [ "PeriodicTick", "d5/d4d/a18108.html#a8e675178256746d08af50a6b75ec582e", null ],
+    [ "PrepareAuraScript", "d5/d4d/a18108.html#a88f4baca7ceac44e5d148b73386a10a7", null ],
+    [ "Register", "d5/d4d/a18108.html#a0fa7d86214827711edd019dd3b40c667", null ],
+    [ "_tickNo", "d5/d4d/a18108.html#a418212d2daa873d69a83b4c1341a8903", null ]
 ];

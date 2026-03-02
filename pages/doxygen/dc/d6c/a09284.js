@@ -1,7 +1,8 @@
 var a09284 =
 [
-    [ "CreatureRelocationNotifier", "dc/d6c/a09284.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
-    [ "Visit", "dc/d6c/a09284.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
-    [ "Visit", "dc/d6c/a09284.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
-    [ "i_creature", "dc/d6c/a09284.html#a3116f6245816ba8fb9edb5995faa9927", null ]
+    [ "DungeonEncounter", "dc/d6c/a09284.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
+    [ "creditEntry", "dc/d6c/a09284.html#a700a0792973678339f33ab85e7396918", null ],
+    [ "creditType", "dc/d6c/a09284.html#a66a077e193f099bb7aef363dc75672d6", null ],
+    [ "dbcEntry", "dc/d6c/a09284.html#a262bdd0ba443739456fc14bcad83ecda", null ],
+    [ "lastEncounterDungeon", "dc/d6c/a09284.html#a67e29b891887e339dbb40515d082e781", null ]
 ];

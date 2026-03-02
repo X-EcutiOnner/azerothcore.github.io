@@ -1,9 +1,10 @@
 var a26812 =
 [
-    [ "CheckCast", "d1/d20/a26812.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
-    [ "HandleDummy", "d1/d20/a26812.html#a7f79495525687fba6229f48935b2558a", null ],
-    [ "Load", "d1/d20/a26812.html#a0c73457e44a3d64bdccee78d28893672", null ],
-    [ "PrepareSpellScript", "d1/d20/a26812.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
-    [ "Register", "d1/d20/a26812.html#ab9f09394ab301350a2abaefde90632fe", null ],
-    [ "Validate", "d1/d20/a26812.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
+    [ "Absorb", "d1/d20/a26812.html#ab4006b00d415a94e6a49856cee7e272b", null ],
+    [ "CalculateAmount", "d1/d20/a26812.html#a57bfd4e7178e9e7c3df12c025d0c7d9e", null ],
+    [ "Load", "d1/d20/a26812.html#a88aa9623f587bb7b5e91da83c76f562a", null ],
+    [ "PrepareAuraScript", "d1/d20/a26812.html#a456c1bd5b284f642d1e040de52eee24b", null ],
+    [ "Register", "d1/d20/a26812.html#a905994099dcc4ac9512d5f27b78a778c", null ],
+    [ "Validate", "d1/d20/a26812.html#ad99966111a1919c610a942a8eb133ea1", null ],
+    [ "healPct", "d1/d20/a26812.html#a3b0527ce7f1fd6afaa57f942275ec81b", null ]
 ];

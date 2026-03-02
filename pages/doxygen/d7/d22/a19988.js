@@ -1,7 +1,12 @@
 var a19988 =
 [
-    [ "creature", "d7/d22/a19988.html#a55a6ee677ab51120867f542e5a5745b0", null ],
-    [ "sound", "d7/d22/a19988.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
-    [ "text", "d7/d22/a19988.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
-    [ "timer", "d7/d22/a19988.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
+    [ "boss_sjonnirAI", "d7/d22/a19988.html#a53127766553d1bee4d7331e6f4fcda05", null ],
+    [ "ActivatePipe", "d7/d22/a19988.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
+    [ "DoAction", "d7/d22/a19988.html#afb2f73908bc17c763a8028af4b499481", null ],
+    [ "JustDied", "d7/d22/a19988.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
+    [ "JustEngagedWith", "d7/d22/a19988.html#aade776baf55155bb3814129ddc2f9632", null ],
+    [ "KilledUnit", "d7/d22/a19988.html#ac79740a8c5e4263f2917647c74e995aa", null ],
+    [ "Reset", "d7/d22/a19988.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
+    [ "ScheduleTasks", "d7/d22/a19988.html#a5c3c31c5be424795e4e96291c910c73c", null ],
+    [ "SlugeCount", "d7/d22/a19988.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
 ];

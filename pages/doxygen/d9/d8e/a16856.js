@@ -1,6 +1,7 @@
 var a16856 =
 [
-    [ "npc_toc_warlockAI", "d5/d01/a16860.html", "d5/d01/a16860" ],
-    [ "npc_toc_warlock", "d9/d8e/a16856.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
-    [ "GetAI", "d9/d8e/a16856.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
+    [ "npc_toc_druidAI", "d9/d8e/a16856.html#adb456f1f93be5329174a3199c9092825", null ],
+    [ "myCanCast", "d9/d8e/a16856.html#af82baa22ae49ba268f494cb07287845e", null ],
+    [ "UpdateAI", "d9/d8e/a16856.html#a82a22a557db647f73690d8838a635eaf", null ],
+    [ "events", "d9/d8e/a16856.html#a6bb27baf17f0286db3222287a8073bd7", null ]
 ];

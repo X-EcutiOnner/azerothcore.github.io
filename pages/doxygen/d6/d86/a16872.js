@@ -1,6 +1,7 @@
 var a16872 =
 [
-    [ "npc_toc_hunterAI", "d5/d9b/a16876.html", "d5/d9b/a16876" ],
-    [ "npc_toc_hunter", "d6/d86/a16872.html#a73d4113df71626af7b8294e08373965e", null ],
-    [ "GetAI", "d6/d86/a16872.html#a8b9d2a8186aefb3e411bd20c006207d4", null ]
+    [ "npc_toc_paladinAI", "d6/d86/a16872.html#a025d39c04e864ebd77f4f930ec20b1e5", null ],
+    [ "myCanCast", "d6/d86/a16872.html#a06130e6e440d0b25d8b5566de6190cbc", null ],
+    [ "UpdateAI", "d6/d86/a16872.html#a32943f1c3ffd0239c85ac1b81786f049", null ],
+    [ "events", "d6/d86/a16872.html#ae47a32bbb05cf2f634ae18bc672ec004", null ]
 ];

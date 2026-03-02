@@ -1,8 +1,8 @@
 var a09212 =
 [
-    [ "MailLevelReward", "db/d70/a09212.html#accd52642cbbab457b69dba54a6ffa23b", null ],
-    [ "MailLevelReward", "db/d70/a09212.html#a3e98aa5c30b0b5648784f9aaf5349a76", null ],
-    [ "mailTemplateId", "db/d70/a09212.html#afdf6684bcd2751822bd00ba1509ef933", null ],
-    [ "raceMask", "db/d70/a09212.html#a341088acd89b79161d932367f4f1798d", null ],
-    [ "senderEntry", "db/d70/a09212.html#a2b678ac953209691b38d583cffab55b5", null ]
+    [ "target_mapId", "db/d70/a09212.html#af6d7558707c026a6d64f2d7b65a344be", null ],
+    [ "target_Orientation", "db/d70/a09212.html#a5f6bf883e167b683e048ce9eeebb7cb0", null ],
+    [ "target_X", "db/d70/a09212.html#a3ef5faea7a6fd9b173ea35036b3390b2", null ],
+    [ "target_Y", "db/d70/a09212.html#a6660d360eaa47098506f246927130e32", null ],
+    [ "target_Z", "db/d70/a09212.html#a32fee5f497804089feb738be84548dc1", null ]
 ];

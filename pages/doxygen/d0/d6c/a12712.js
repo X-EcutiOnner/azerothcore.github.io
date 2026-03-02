@@ -1,6 +1,7 @@
 var a12712 =
 [
-    [ "boss_victor_nefariusAI", "d9/de6/a12716.html", "d9/de6/a12716" ],
-    [ "boss_victor_nefarius", "d0/d6c/a12712.html#a85c529c49a0373a553bc59818fb18f49", null ],
-    [ "GetAI", "d0/d6c/a12712.html#a6ea19bde6980cbb4ca627d17cf57ae24", null ]
+    [ "HandleScript", "d0/d6c/a12712.html#a0d244cc1785b136bae0960d697dc761d", null ],
+    [ "PrepareSpellScript", "d0/d6c/a12712.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
+    [ "Register", "d0/d6c/a12712.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
+    [ "Validate", "d0/d6c/a12712.html#a1413754f3a79caf8ec57d394c68f3499", null ]
 ];

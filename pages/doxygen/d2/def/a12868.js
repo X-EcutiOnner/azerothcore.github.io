@@ -1,6 +1,5 @@
 var a12868 =
 [
-    [ "boss_lucifronAI", "d1/d4f/a12872.html", "d1/d4f/a12872" ],
-    [ "boss_lucifron", "d2/def/a12868.html#aa54be5c49a77524b036c167dbb6d81ea", null ],
-    [ "GetAI", "d2/def/a12868.html#a885366d4190bbc77dc696ee6910435ed", null ]
+    [ "npc_garr_fireswornAI", "d2/def/a12868.html#af2454b2ddf93102378ebf9780d260e56", null ],
+    [ "DamageTaken", "d2/def/a12868.html#ae9582b14e82b163ff97b99cb603e0179", null ]
 ];

@@ -1,6 +1,6 @@
 var a18428 =
 [
-    [ "CheckTarget", "d5/d94/a18428.html#afce64ba75f8370cab6b8f1e561b10587", null ],
-    [ "PrepareSpellScript", "d5/d94/a18428.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
-    [ "Register", "d5/d94/a18428.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
+    [ "npc_big_oozeAI", "d1/d22/a18432.html", "d1/d22/a18432" ],
+    [ "npc_big_ooze", "d5/d94/a18428.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
+    [ "GetAI", "d5/d94/a18428.html#ad06308602d69b51ff3f269bda6c465b5", null ]
 ];

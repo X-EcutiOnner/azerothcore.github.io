@@ -1,11 +1,9 @@
 var a20868 =
 [
-    [ "boss_yoggsaron_neltharion", "dc/d62/a20868.html#ac7ef088876e15e5edc94e4bd92b7f39d", null ],
-    [ "NextStep", "dc/d62/a20868.html#ac0824d322b7e5825686e8a5c2dd4ec94", null ],
-    [ "Reset", "dc/d62/a20868.html#ab26d57690c1d2477678dc9759aefeab2", null ],
-    [ "Say", "dc/d62/a20868.html#a79d315f37b0f0beceddcae85dcb8697f", null ],
-    [ "UpdateAI", "dc/d62/a20868.html#a3728f095ee83c3ea9063b1679f1b3dc9", null ],
-    [ "_checkTimer", "dc/d62/a20868.html#a2adcf3f46d4003ae2044eda474e51983", null ],
-    [ "_running", "dc/d62/a20868.html#acd807afae6aa88c2e385765231a56a86", null ],
-    [ "_step", "dc/d62/a20868.html#a4e4265f17cbc8cfc3dbe09dca7af7939", null ]
+    [ "boss_yoggsaron_keeper", "dc/d62/a20868.html#ad2098933656371b1bf80ec3ea859c418", null ],
+    [ "DoAction", "dc/d62/a20868.html#a9e3d251810b55072458003356213ae15", null ],
+    [ "JustEngagedWith", "dc/d62/a20868.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
+    [ "JustSummoned", "dc/d62/a20868.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
+    [ "UpdateAI", "dc/d62/a20868.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
+    [ "_summons", "dc/d62/a20868.html#aa840eff5f3d8b24225046113737936b4", null ]
 ];

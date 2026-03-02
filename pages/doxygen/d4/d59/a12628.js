@@ -1,6 +1,6 @@
 var a12628 =
 [
-    [ "OnEffect", "d4/d59/a12628.html#a1b5999f392cec9fea4431c3f746ee034", null ],
-    [ "PrepareSpellScript", "d4/d59/a12628.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
-    [ "Register", "d4/d59/a12628.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
+    [ "boss_warmastervooneAI", "de/d29/a12632.html", "de/d29/a12632" ],
+    [ "boss_warmaster_voone", "d4/d59/a12628.html#ac363118e4201adccd4be0028a558442f", null ],
+    [ "GetAI", "d4/d59/a12628.html#a560469e60fda04b2c7d8fd3994493868", null ]
 ];

@@ -1,9 +1,20 @@
 var a08736 =
 [
-    [ "ActionButton", "df/d70/a08736.html#a78f4e95d921fb997647f89c67c2a66b7", null ],
-    [ "GetAction", "df/d70/a08736.html#a7c10f6089fab30179cfe8175b740477a", null ],
-    [ "GetType", "df/d70/a08736.html#abe5bc143770d411cff0d8c8c425b1253", null ],
-    [ "SetActionAndType", "df/d70/a08736.html#a29d804ed78d79f64e868e9741b37d7be", null ],
-    [ "packedData", "df/d70/a08736.html#a2a34a116c4890a12255f9ebe24c1cba8", null ],
-    [ "uState", "df/d70/a08736.html#a6384e73650da93c96d3b4cc42b151b63", null ]
+    [ "CinematicMgr", "df/d70/a08736.html#a95547140d5718eb7fb4a8242a6e6de05", null ],
+    [ "~CinematicMgr", "df/d70/a08736.html#ac56017a73bed15eadfdb6d17891328ff", null ],
+    [ "BeginCinematic", "df/d70/a08736.html#a94ef6fc060617708b7bfd3a8c311e519", null ],
+    [ "EndCinematic", "df/d70/a08736.html#a8a47c7cff4414c6aea3aa31fa483cc60", null ],
+    [ "GetActiveCinematicCamera", "df/d70/a08736.html#a0535dee9b0ec7aa6176809c6dca16b30", null ],
+    [ "IsOnCinematic", "df/d70/a08736.html#a904cb7a2db9b9e92e8539b736487ad0e", null ],
+    [ "SetActiveCinematicCamera", "df/d70/a08736.html#afa5c37702ecdb71e09e552b92fa5ad71", null ],
+    [ "UpdateCinematicLocation", "df/d70/a08736.html#afdcf4c2361f5ce445b1dfc013cf3348d", null ],
+    [ "Player", "df/d70/a08736.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "m_activeCinematicCameraId", "df/d70/a08736.html#ab8cd685c623be2b2609a71e8c4ebb740", null ],
+    [ "m_cinematicCamera", "df/d70/a08736.html#a0c527989b49df340a268b8f69911377c", null ],
+    [ "m_cinematicDiff", "df/d70/a08736.html#a398e47385916c712677268bed43f7955", null ],
+    [ "m_cinematicLength", "df/d70/a08736.html#a60c48bec98a06c5cc0e50268df35c9cd", null ],
+    [ "m_CinematicObject", "df/d70/a08736.html#a969e4ab19088fd45f3ba9483efa2e481", null ],
+    [ "m_lastCinematicCheck", "df/d70/a08736.html#a50c42e2f39ba97a39ee31043dec17337", null ],
+    [ "m_remoteSightPosition", "df/d70/a08736.html#ae4f473744f0e3ad43ef51dbf30f62f55", null ],
+    [ "player", "df/d70/a08736.html#a00099569f6f2b683d4d5640bf971bf2d", null ]
 ];

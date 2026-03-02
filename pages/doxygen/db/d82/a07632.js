@@ -1,10 +1,9 @@
 var a07632 =
 [
-    [ "BattlegroundNA", "db/d82/a07632.html#abf646e63e474ac5bb381078ffd0f286e", null ],
-    [ "FillInitialWorldStates", "db/d82/a07632.html#af0932b648d2a4a4288409d8da360e06b", null ],
-    [ "HandleAreaTrigger", "db/d82/a07632.html#a6a70ff3655c516d45ac1acf959ad8f73", null ],
-    [ "HandlePlayerUnderMap", "db/d82/a07632.html#a098c01b5da65350b2af9ff53dc9f750c", null ],
-    [ "SetupBattleground", "db/d82/a07632.html#addc3350a283fdac24e7aa88c23a7945a", null ],
-    [ "StartingEventCloseDoors", "db/d82/a07632.html#a316492a374884822045971f6dc3db1e2", null ],
-    [ "StartingEventOpenDoors", "db/d82/a07632.html#a72a953c5047a434d28b98e6185173140", null ]
+    [ "entry", "db/d82/a07632.html#a2238cabe763a588a5572611e0aefe6ba", null ],
+    [ "o", "db/d82/a07632.html#a0ebd9ea966eb66cf80b8f3c003db60c0", null ],
+    [ "type", "db/d82/a07632.html#a561ac93f5c1bcc26dacbd0212b602eac", null ],
+    [ "x", "db/d82/a07632.html#a616d422b4e8c99ec3285a87f553d4091", null ],
+    [ "y", "db/d82/a07632.html#a34de8c83a7bc8b33ac0cabdfb1bd3459", null ],
+    [ "z", "db/d82/a07632.html#a78cff0661e6d9440574306ec01389d42", null ]
 ];

@@ -1,6 +1,7 @@
 var a17208 =
 [
-    [ "boss_devourer_of_soulsAI", "df/d58/a17212.html", "df/d58/a17212" ],
-    [ "boss_devourer_of_souls", "d3/daf/a17208.html#a95b3a33be3b85a4c7ecfb4370a9ddc60", null ],
-    [ "GetAI", "d3/daf/a17208.html#a3de68fa630c5b74104c461f88edd1d36", null ]
+    [ "HandleScriptEffect", "d3/daf/a17208.html#a667e50b01f431dba025f692484f6e7ba", null ],
+    [ "PrepareSpellScript", "d3/daf/a17208.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
+    [ "Register", "d3/daf/a17208.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
+    [ "Validate", "d3/daf/a17208.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
 ];

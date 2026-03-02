@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ProcChanceTestHelper::ExtraAttackProcConfig Struct Reference</title>
+<title>AzerothCore: AuraStub Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,74 +105,1539 @@ $(document).ready(function(){initNavTree('db/d8f/a29508.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-types">Public Types</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d6/dd9/a29505.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ProcChanceTestHelper::ExtraAttackProcConfig Struct Reference</div></div>
+  <div class="headertitle"><div class="title">AuraStub Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>Configuration for simulating extra attack chain-proc prevention.  
+<p>Lightweight stub for <a class="el" href="../../db/d70/a11532.html">Aura</a> proc-related functionality.  
  <a href="../../db/d8f/a29508.html#details">More...</a></p>
 
-<p><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">AuraStub.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for AuraStub:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../db/d8f/a29508.png" usemap="#AuraStub_map" alt=""/>
+  <map id="AuraStub_map" name="AuraStub_map">
+<area href="../../d2/db1/a29512.html" title="GMock-enabled Aura stub for verification." alt="MockAuraStub" shape="rect" coords="0,56,96,80"/>
+  </map>
+</div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:ad58a8f2f91c6a32371feab14e51e8e29"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#ad58a8f2f91c6a32371feab14e51e8e29">triggeredSpellHasExtraAttacks</a> = false</td></tr>
-<tr class="separator:ad58a8f2f91c6a32371feab14e51e8e29"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a01a4d76e7e2bf15a3ae06926fa1189c9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a01a4d76e7e2bf15a3ae06926fa1189c9">triggerSpellId</a> = 0</td></tr>
-<tr class="separator:a01a4d76e7e2bf15a3ae06926fa1189c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0b7c47a0c1a328703648936a1da3245f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a0b7c47a0c1a328703648936a1da3245f">lastExtraAttackSpell</a> = 0</td></tr>
-<tr class="separator:a0b7c47a0c1a328703648936a1da3245f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:ae25821c46e0e5524c524f9862140eb7d"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#ae25821c46e0e5524c524f9862140eb7d">TimePoint</a> = std::chrono::steady_clock::time_point</td></tr>
+<tr class="separator:ae25821c46e0e5524c524f9862140eb7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:afa57eed9bcc034faebd4951596eabdc9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#afa57eed9bcc034faebd4951596eabdc9">AuraStub</a> (uint32_t id=0, uint32_t spellFamilyName=0)</td></tr>
+<tr class="separator:afa57eed9bcc034faebd4951596eabdc9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af1679fdcd15bf06081aa3741a47455dd"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#af1679fdcd15bf06081aa3741a47455dd">~AuraStub</a> ()=default</td></tr>
+<tr class="separator:af1679fdcd15bf06081aa3741a47455dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0e0a133767fe8605b9e6b4d929dacb8d"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a0e0a133767fe8605b9e6b4d929dacb8d">GetId</a> () const</td></tr>
+<tr class="separator:a0e0a133767fe8605b9e6b4d929dacb8d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a828a307a414bad0af9f9c98b4c4b19af"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a828a307a414bad0af9f9c98b4c4b19af">GetSpellFamilyName</a> () const</td></tr>
+<tr class="separator:a828a307a414bad0af9f9c98b4c4b19af"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96fe80bb0747b44d81906ecff56865dc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a96fe80bb0747b44d81906ecff56865dc">SetId</a> (uint32_t id)</td></tr>
+<tr class="separator:a96fe80bb0747b44d81906ecff56865dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6100f97e9f7f4e11205a2ba16deaf53d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a6100f97e9f7f4e11205a2ba16deaf53d">SetSpellFamilyName</a> (uint32_t familyName)</td></tr>
+<tr class="separator:a6100f97e9f7f4e11205a2ba16deaf53d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a447ad026454b641c1410ee46a8ef92ca"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d02/a29500.html">AuraEffectStub</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a447ad026454b641c1410ee46a8ef92ca">GetEffect</a> (uint8_t effIndex) const</td></tr>
+<tr class="separator:a447ad026454b641c1410ee46a8ef92ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aba9190e03016c9c5071f32270df2f6cd"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#aba9190e03016c9c5071f32270df2f6cd">HasEffect</a> (uint8_t effIndex) const</td></tr>
+<tr class="separator:aba9190e03016c9c5071f32270df2f6cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9ed503c632c4037e638af0511c68df73"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a9ed503c632c4037e638af0511c68df73">GetEffectMask</a> () const</td></tr>
+<tr class="separator:a9ed503c632c4037e638af0511c68df73"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a349ac0a5abc039a57ec407295f5e4007"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a349ac0a5abc039a57ec407295f5e4007">GetCharges</a> () const</td></tr>
+<tr class="separator:a349ac0a5abc039a57ec407295f5e4007"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a399397839eb3f7f72660b0edf4449fda"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a399397839eb3f7f72660b0edf4449fda">IsUsingCharges</a> () const</td></tr>
+<tr class="separator:a399397839eb3f7f72660b0edf4449fda"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af9302ca6f10e63456c51383f586689c6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#af9302ca6f10e63456c51383f586689c6">SetCharges</a> (uint8_t charges)</td></tr>
+<tr class="separator:af9302ca6f10e63456c51383f586689c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa8c5e134e2e73e0c8fab00896ac08801"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#aa8c5e134e2e73e0c8fab00896ac08801">SetUsingCharges</a> (bool usingCharges)</td></tr>
+<tr class="separator:aa8c5e134e2e73e0c8fab00896ac08801"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a672ff1d71cbfb2ea312298b897a07080"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a672ff1d71cbfb2ea312298b897a07080">DropCharge</a> ()</td></tr>
+<tr class="separator:a672ff1d71cbfb2ea312298b897a07080"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af1eeca715db3ee4282bb9668b2cb799e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#af1eeca715db3ee4282bb9668b2cb799e">WasChargeDropped</a> () const</td></tr>
+<tr class="separator:af1eeca715db3ee4282bb9668b2cb799e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2091f2ff1512a8e21701ef3fafd18710"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a2091f2ff1512a8e21701ef3fafd18710">ResetChargeDropped</a> ()</td></tr>
+<tr class="separator:a2091f2ff1512a8e21701ef3fafd18710"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d5ac8fe095ffdecd266f211c3664df1"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a9d5ac8fe095ffdecd266f211c3664df1">GetDuration</a> () const</td></tr>
+<tr class="separator:a9d5ac8fe095ffdecd266f211c3664df1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad6150b11a36121da1e9ec7391cdd459a"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#ad6150b11a36121da1e9ec7391cdd459a">GetMaxDuration</a> () const</td></tr>
+<tr class="separator:ad6150b11a36121da1e9ec7391cdd459a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a834d69a9a8d6e58106fb139bd08b15ef"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a834d69a9a8d6e58106fb139bd08b15ef">IsPermanent</a> () const</td></tr>
+<tr class="separator:a834d69a9a8d6e58106fb139bd08b15ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acf6a08f10be63eecc8761c1733ffed57"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#acf6a08f10be63eecc8761c1733ffed57">SetDuration</a> (int32_t duration)</td></tr>
+<tr class="separator:acf6a08f10be63eecc8761c1733ffed57"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac4162740db23c4984dfa65352ec6ebc0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#ac4162740db23c4984dfa65352ec6ebc0">SetMaxDuration</a> (int32_t maxDuration)</td></tr>
+<tr class="separator:ac4162740db23c4984dfa65352ec6ebc0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa81c84891b1c277cb58bfabfaa644f64"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#aa81c84891b1c277cb58bfabfaa644f64">IsProcOnCooldown</a> (<a class="el" href="../../db/d8f/a29508.html#ae25821c46e0e5524c524f9862140eb7d">TimePoint</a> now) const</td></tr>
+<tr class="separator:aa81c84891b1c277cb58bfabfaa644f64"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ca4c53254b1d30a5ade59d874cac50b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a3ca4c53254b1d30a5ade59d874cac50b">AddProcCooldown</a> (<a class="el" href="../../db/d8f/a29508.html#ae25821c46e0e5524c524f9862140eb7d">TimePoint</a> cooldownEnd)</td></tr>
+<tr class="separator:a3ca4c53254b1d30a5ade59d874cac50b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4dd56e2582063a18ab63493acf64ebf9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a4dd56e2582063a18ab63493acf64ebf9">ResetProcCooldown</a> ()</td></tr>
+<tr class="separator:a4dd56e2582063a18ab63493acf64ebf9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa1d4772f73dfbad815affeac796bdfbf"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#aa1d4772f73dfbad815affeac796bdfbf">GetStackAmount</a> () const</td></tr>
+<tr class="separator:aa1d4772f73dfbad815affeac796bdfbf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a750d6a1420dafc8a7c917e186c5ba27e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a750d6a1420dafc8a7c917e186c5ba27e">SetStackAmount</a> (uint8_t amount)</td></tr>
+<tr class="separator:a750d6a1420dafc8a7c917e186c5ba27e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8acc4b01359a718092d0ab4c737f9657"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a8acc4b01359a718092d0ab4c737f9657">ModStackAmount</a> (int32_t amount, bool=true)</td></tr>
+<tr class="memdesc:a8acc4b01359a718092d0ab4c737f9657"><td class="mdescLeft">&#160;</td><td class="mdescRight">Modify stack amount (for PROC_ATTR_USE_STACKS_FOR_CHARGES) Mimics <a class="el" href="../../db/d70/a11532.html#a69b589a7414d5d73ed75d12d5ba736ef">Aura::ModStackAmount()</a> - removes aura if stacks reach 0.  <a href="../../db/d8f/a29508.html#a8acc4b01359a718092d0ab4c737f9657">More...</a><br /></td></tr>
+<tr class="separator:a8acc4b01359a718092d0ab4c737f9657"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a68347746ed79c8da64223d256ae3072e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a68347746ed79c8da64223d256ae3072e">IsPassive</a> () const</td></tr>
+<tr class="separator:a68347746ed79c8da64223d256ae3072e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af30f33955f8018390bee6abbb83d2ac7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#af30f33955f8018390bee6abbb83d2ac7">IsRemoved</a> () const</td></tr>
+<tr class="separator:af30f33955f8018390bee6abbb83d2ac7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a53cbbb0b1c31583827e80b88e0d27e69"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a53cbbb0b1c31583827e80b88e0d27e69">SetPassive</a> (bool isPassive)</td></tr>
+<tr class="separator:a53cbbb0b1c31583827e80b88e0d27e69"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a52ab904d4503a6050960132c677c08ec"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a52ab904d4503a6050960132c677c08ec">SetRemoved</a> (bool isRemoved)</td></tr>
+<tr class="separator:a52ab904d4503a6050960132c677c08ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a302b190366d2c9361ef69b86296a36d3"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a302b190366d2c9361ef69b86296a36d3">Remove</a> ()</td></tr>
+<tr class="memdesc:a302b190366d2c9361ef69b86296a36d3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Mark aura as removed (for charge exhaustion) Mimics <a class="el" href="../../db/d70/a11532.html#af9799e5670c2bc3899e3430aa793ca20">Aura::Remove()</a>  <a href="../../db/d8f/a29508.html#a302b190366d2c9361ef69b86296a36d3">More...</a><br /></td></tr>
+<tr class="separator:a302b190366d2c9361ef69b86296a36d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a969d2e73c87733945478b7026961d352"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d13/a29504.html">AuraApplicationStub</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a969d2e73c87733945478b7026961d352">GetOrCreateApplication</a> ()</td></tr>
+<tr class="separator:a969d2e73c87733945478b7026961d352"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a476d62126b1ec72ffcb79c3c89bfead6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d13/a29504.html">AuraApplicationStub</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a476d62126b1ec72ffcb79c3c89bfead6">GetApplication</a> () const</td></tr>
+<tr class="separator:a476d62126b1ec72ffcb79c3c89bfead6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a6db3047e147efb206d08e87735f1e798"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a6db3047e147efb206d08e87735f1e798">_id</a> = 0</td></tr>
+<tr class="separator:a6db3047e147efb206d08e87735f1e798"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a072d77febb916a89381ecb4b12202457"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a072d77febb916a89381ecb4b12202457">_spellFamilyName</a> = 0</td></tr>
+<tr class="separator:a072d77febb916a89381ecb4b12202457"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4fd8bc30add29022a10f9b98cf39d1ab"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../d4/d02/a29500.html">AuraEffectStub</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a4fd8bc30add29022a10f9b98cf39d1ab">_effects</a> [3]</td></tr>
+<tr class="separator:a4fd8bc30add29022a10f9b98cf39d1ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8db37909ba445d465cedf2369f23675c"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../d8/d13/a29504.html">AuraApplicationStub</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a8db37909ba445d465cedf2369f23675c">_application</a></td></tr>
+<tr class="separator:a8db37909ba445d465cedf2369f23675c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a114f69383354c59fbcc8864431d270a8"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a114f69383354c59fbcc8864431d270a8">_charges</a> = 0</td></tr>
+<tr class="separator:a114f69383354c59fbcc8864431d270a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad39ef4f219e81c84f2c0f8a4e6936b75"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#ad39ef4f219e81c84f2c0f8a4e6936b75">_isUsingCharges</a> = false</td></tr>
+<tr class="separator:ad39ef4f219e81c84f2c0f8a4e6936b75"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab6b28446bdd9c33405e4cb9d8a275329"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#ab6b28446bdd9c33405e4cb9d8a275329">_chargeDropped</a> = false</td></tr>
+<tr class="separator:ab6b28446bdd9c33405e4cb9d8a275329"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeafa9a7b62f711ca9e76ec7b31012be3"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#aeafa9a7b62f711ca9e76ec7b31012be3">_duration</a> = -1</td></tr>
+<tr class="separator:aeafa9a7b62f711ca9e76ec7b31012be3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac3a1bd9e766b61bc8704ae052243687e"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#ac3a1bd9e766b61bc8704ae052243687e">_maxDuration</a> = -1</td></tr>
+<tr class="separator:ac3a1bd9e766b61bc8704ae052243687e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adf07a88cbd3252d8a2ce0ed05dd8a16d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8f/a29508.html#ae25821c46e0e5524c524f9862140eb7d">TimePoint</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#adf07a88cbd3252d8a2ce0ed05dd8a16d">_procCooldown</a> = TimePoint::min()</td></tr>
+<tr class="separator:adf07a88cbd3252d8a2ce0ed05dd8a16d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:addd8a3b89abb14f239ceacdafee736fa"><td class="memItemLeft" align="right" valign="top">uint8_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#addd8a3b89abb14f239ceacdafee736fa">_stackAmount</a> = 1</td></tr>
+<tr class="separator:addd8a3b89abb14f239ceacdafee736fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2a520f033919b7debef00f5acda99019"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#a2a520f033919b7debef00f5acda99019">_isPassive</a> = false</td></tr>
+<tr class="separator:a2a520f033919b7debef00f5acda99019"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac27c3e75a2d9b369a4d2bdd8e895970b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d8f/a29508.html#ac27c3e75a2d9b369a4d2bdd8e895970b">_isRemoved</a> = false</td></tr>
+<tr class="separator:ac27c3e75a2d9b369a4d2bdd8e895970b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Configuration for simulating extra attack chain-proc prevention. </p>
-</div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a0b7c47a0c1a328703648936a1da3245f" name="a0b7c47a0c1a328703648936a1da3245f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0b7c47a0c1a328703648936a1da3245f">&#9670;&#160;</a></span>lastExtraAttackSpell</h2>
+<div class="textblock"><p >Lightweight stub for <a class="el" href="../../db/d70/a11532.html">Aura</a> proc-related functionality. </p>
+</div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="ae25821c46e0e5524c524f9862140eb7d" name="ae25821c46e0e5524c524f9862140eb7d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae25821c46e0e5524c524f9862140eb7d">&#9670;&#160;</a></span>TimePoint</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ProcChanceTestHelper::ExtraAttackProcConfig::lastExtraAttackSpell = 0</td>
+          <td class="memname">using <a class="el" href="../../db/d8f/a29508.html#ae25821c46e0e5524c524f9862140eb7d">AuraStub::TimePoint</a> =  std::chrono::steady_clock::time_point</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00041">ExtraAttackChainProcTest::MakeConfig()</a>, and <a class="el" href="../../#l00306">ProcChanceTestHelper::ShouldBlockExtraAttackChainProc()</a>.</p>
-
 </div>
 </div>
-<a id="ad58a8f2f91c6a32371feab14e51e8e29" name="ad58a8f2f91c6a32371feab14e51e8e29"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad58a8f2f91c6a32371feab14e51e8e29">&#9670;&#160;</a></span>triggeredSpellHasExtraAttacks</h2>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="afa57eed9bcc034faebd4951596eabdc9" name="afa57eed9bcc034faebd4951596eabdc9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afa57eed9bcc034faebd4951596eabdc9">&#9670;&#160;</a></span>AuraStub()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool ProcChanceTestHelper::ExtraAttackProcConfig::triggeredSpellHasExtraAttacks = false</td>
+          <td class="memname">AuraStub::AuraStub </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>id</em> = <code>0</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>spellFamilyName</em> = <code>0</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00041">ExtraAttackChainProcTest::MakeConfig()</a>, and <a class="el" href="../../#l00306">ProcChanceTestHelper::ShouldBlockExtraAttackChainProc()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  114</span>        : <a class="code hl_variable" href="../../db/d8f/a29508.html#a6db3047e147efb206d08e87735f1e798">_id</a>(<span class="keywordtype">id</span>), <a class="code hl_variable" href="../../db/d8f/a29508.html#a072d77febb916a89381ecb4b12202457">_spellFamilyName</a>(spellFamilyName)</div>
+<div class="line"><span class="lineno">  115</span>    {</div>
+<div class="line"><span class="lineno">  116</span>        <span class="comment">// Create 3 effect slots by default</span></div>
+<div class="line"><span class="lineno">  117</span>        <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 0; i &lt; 3; ++i)</div>
+<div class="line"><span class="lineno">  118</span>        {</div>
+<div class="line"><span class="lineno">  119</span>            <a class="code hl_variable" href="../../db/d8f/a29508.html#a4fd8bc30add29022a10f9b98cf39d1ab">_effects</a>[i] = std::make_unique&lt;AuraEffectStub&gt;(<span class="keyword">static_cast&lt;</span>uint8_t<span class="keyword">&gt;</span>(i));</div>
+<div class="line"><span class="lineno">  120</span>        }</div>
+<div class="line"><span class="lineno">  121</span>    }</div>
+<div class="ttc" id="aa29508_html_a072d77febb916a89381ecb4b12202457"><div class="ttname"><a href="../../db/d8f/a29508.html#a072d77febb916a89381ecb4b12202457">AuraStub::_spellFamilyName</a></div><div class="ttdeci">uint32_t _spellFamilyName</div><div class="ttdef"><b>Definition:</b> AuraStub.h:253</div></div>
+<div class="ttc" id="aa29508_html_a4fd8bc30add29022a10f9b98cf39d1ab"><div class="ttname"><a href="../../db/d8f/a29508.html#a4fd8bc30add29022a10f9b98cf39d1ab">AuraStub::_effects</a></div><div class="ttdeci">std::unique_ptr&lt; AuraEffectStub &gt; _effects[3]</div><div class="ttdef"><b>Definition:</b> AuraStub.h:255</div></div>
+<div class="ttc" id="aa29508_html_a6db3047e147efb206d08e87735f1e798"><div class="ttname"><a href="../../db/d8f/a29508.html#a6db3047e147efb206d08e87735f1e798">AuraStub::_id</a></div><div class="ttdeci">uint32_t _id</div><div class="ttdef"><b>Definition:</b> AuraStub.h:252</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00255">_effects</a>.</p>
 
 </div>
 </div>
-<a id="a01a4d76e7e2bf15a3ae06926fa1189c9" name="a01a4d76e7e2bf15a3ae06926fa1189c9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a01a4d76e7e2bf15a3ae06926fa1189c9">&#9670;&#160;</a></span>triggerSpellId</h2>
+<a id="af1679fdcd15bf06081aa3741a47455dd" name="af1679fdcd15bf06081aa3741a47455dd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af1679fdcd15bf06081aa3741a47455dd">&#9670;&#160;</a></span>~AuraStub()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ProcChanceTestHelper::ExtraAttackProcConfig::triggerSpellId = 0</td>
+          <td class="memname">virtual AuraStub::~AuraStub </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00041">ExtraAttackChainProcTest::MakeConfig()</a>, and <a class="el" href="../../#l00306">ProcChanceTestHelper::ShouldBlockExtraAttackChainProc()</a>.</p>
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a3ca4c53254b1d30a5ade59d874cac50b" name="a3ca4c53254b1d30a5ade59d874cac50b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3ca4c53254b1d30a5ade59d874cac50b">&#9670;&#160;</a></span>AddProcCooldown()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuraStub::AddProcCooldown </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d8f/a29508.html#ae25821c46e0e5524c524f9862140eb7d">TimePoint</a>&#160;</td>
+          <td class="paramname"><em>cooldownEnd</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  192</span>    {</div>
+<div class="line"><span class="lineno">  193</span>        <a class="code hl_variable" href="../../db/d8f/a29508.html#adf07a88cbd3252d8a2ce0ed05dd8a16d">_procCooldown</a> = cooldownEnd;</div>
+<div class="line"><span class="lineno">  194</span>    }</div>
+<div class="ttc" id="aa29508_html_adf07a88cbd3252d8a2ce0ed05dd8a16d"><div class="ttname"><a href="../../db/d8f/a29508.html#adf07a88cbd3252d8a2ce0ed05dd8a16d">AuraStub::_procCooldown</a></div><div class="ttdeci">TimePoint _procCooldown</div><div class="ttdef"><b>Definition:</b> AuraStub.h:265</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00265">_procCooldown</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00163">ProcChanceTestHelper::ApplyProcCooldown()</a>.</p>
+
+</div>
+</div>
+<a id="a672ff1d71cbfb2ea312298b897a07080" name="a672ff1d71cbfb2ea312298b897a07080"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a672ff1d71cbfb2ea312298b897a07080">&#9670;&#160;</a></span>DropCharge()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool AuraStub::DropCharge </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  162</span>    {</div>
+<div class="line"><span class="lineno">  163</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/d8f/a29508.html#a114f69383354c59fbcc8864431d270a8">_charges</a> &gt; 0)</div>
+<div class="line"><span class="lineno">  164</span>        {</div>
+<div class="line"><span class="lineno">  165</span>            --<a class="code hl_variable" href="../../db/d8f/a29508.html#a114f69383354c59fbcc8864431d270a8">_charges</a>;</div>
+<div class="line"><span class="lineno">  166</span>            <a class="code hl_variable" href="../../db/d8f/a29508.html#ab6b28446bdd9c33405e4cb9d8a275329">_chargeDropped</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  167</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  168</span>        }</div>
+<div class="line"><span class="lineno">  169</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  170</span>    }</div>
+<div class="ttc" id="aa29508_html_a114f69383354c59fbcc8864431d270a8"><div class="ttname"><a href="../../db/d8f/a29508.html#a114f69383354c59fbcc8864431d270a8">AuraStub::_charges</a></div><div class="ttdeci">uint8_t _charges</div><div class="ttdef"><b>Definition:</b> AuraStub.h:258</div></div>
+<div class="ttc" id="aa29508_html_ab6b28446bdd9c33405e4cb9d8a275329"><div class="ttname"><a href="../../db/d8f/a29508.html#ab6b28446bdd9c33405e4cb9d8a275329">AuraStub::_chargeDropped</a></div><div class="ttdeci">bool _chargeDropped</div><div class="ttdef"><b>Definition:</b> AuraStub.h:260</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00260">_chargeDropped</a>, and <a class="el" href="../../#l00258">_charges</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00121">ProcChanceTestHelper::SimulateConsumeProcCharges()</a>.</p>
+
+</div>
+</div>
+<a id="a476d62126b1ec72ffcb79c3c89bfead6" name="a476d62126b1ec72ffcb79c3c89bfead6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a476d62126b1ec72ffcb79c3c89bfead6">&#9670;&#160;</a></span>GetApplication()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d13/a29504.html">AuraApplicationStub</a> * AuraStub::GetApplication </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  247</span>    {</div>
+<div class="line"><span class="lineno">  248</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d8f/a29508.html#a8db37909ba445d465cedf2369f23675c">_application</a>.get();</div>
+<div class="line"><span class="lineno">  249</span>    }</div>
+<div class="ttc" id="aa29508_html_a8db37909ba445d465cedf2369f23675c"><div class="ttname"><a href="../../db/d8f/a29508.html#a8db37909ba445d465cedf2369f23675c">AuraStub::_application</a></div><div class="ttdeci">std::unique_ptr&lt; AuraApplicationStub &gt; _application</div><div class="ttdef"><b>Definition:</b> AuraStub.h:256</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00256">_application</a>.</p>
+
+</div>
+</div>
+<a id="a349ac0a5abc039a57ec407295f5e4007" name="a349ac0a5abc039a57ec407295f5e4007"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a349ac0a5abc039a57ec407295f5e4007">&#9670;&#160;</a></span>GetCharges()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint8_t AuraStub::GetCharges </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  155</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d8f/a29508.html#a114f69383354c59fbcc8864431d270a8">_charges</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00258">_charges</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00121">ProcChanceTestHelper::SimulateConsumeProcCharges()</a>.</p>
+
+</div>
+</div>
+<a id="a9d5ac8fe095ffdecd266f211c3664df1" name="a9d5ac8fe095ffdecd266f211c3664df1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9d5ac8fe095ffdecd266f211c3664df1">&#9670;&#160;</a></span>GetDuration()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int32_t AuraStub::GetDuration </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  176</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d8f/a29508.html#aeafa9a7b62f711ca9e76ec7b31012be3">_duration</a>; }</div>
+<div class="ttc" id="aa29508_html_aeafa9a7b62f711ca9e76ec7b31012be3"><div class="ttname"><a href="../../db/d8f/a29508.html#aeafa9a7b62f711ca9e76ec7b31012be3">AuraStub::_duration</a></div><div class="ttdeci">int32_t _duration</div><div class="ttdef"><b>Definition:</b> AuraStub.h:262</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00262">_duration</a>.</p>
+
+</div>
+</div>
+<a id="a447ad026454b641c1410ee46a8ef92ca" name="a447ad026454b641c1410ee46a8ef92ca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a447ad026454b641c1410ee46a8ef92ca">&#9670;&#160;</a></span>GetEffect()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/d02/a29500.html">AuraEffectStub</a> * AuraStub::GetEffect </td>
+          <td>(</td>
+          <td class="paramtype">uint8_t&#160;</td>
+          <td class="paramname"><em>effIndex</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  134</span>    {</div>
+<div class="line"><span class="lineno">  135</span>        <span class="keywordflow">return</span> (effIndex &lt; 3) ? <a class="code hl_variable" href="../../db/d8f/a29508.html#a4fd8bc30add29022a10f9b98cf39d1ab">_effects</a>[effIndex].get() : <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  136</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00255">_effects</a>.</p>
+
+</div>
+</div>
+<a id="a9ed503c632c4037e638af0511c68df73" name="a9ed503c632c4037e638af0511c68df73"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9ed503c632c4037e638af0511c68df73">&#9670;&#160;</a></span>GetEffectMask()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint8_t AuraStub::GetEffectMask </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  144</span>    {</div>
+<div class="line"><span class="lineno">  145</span>        uint8_t mask = 0;</div>
+<div class="line"><span class="lineno">  146</span>        <span class="keywordflow">for</span> (uint8_t i = 0; i &lt; 3; ++i)</div>
+<div class="line"><span class="lineno">  147</span>        {</div>
+<div class="line"><span class="lineno">  148</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/d8f/a29508.html#a4fd8bc30add29022a10f9b98cf39d1ab">_effects</a>[i])</div>
+<div class="line"><span class="lineno">  149</span>                mask |= (1 &lt;&lt; i);</div>
+<div class="line"><span class="lineno">  150</span>        }</div>
+<div class="line"><span class="lineno">  151</span>        <span class="keywordflow">return</span> mask;</div>
+<div class="line"><span class="lineno">  152</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00255">_effects</a>.</p>
+
+</div>
+</div>
+<a id="a0e0a133767fe8605b9e6b4d929dacb8d" name="a0e0a133767fe8605b9e6b4d929dacb8d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0e0a133767fe8605b9e6b4d929dacb8d">&#9670;&#160;</a></span>GetId()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t AuraStub::GetId </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  126</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d8f/a29508.html#a6db3047e147efb206d08e87735f1e798">_id</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00252">_id</a>.</p>
+
+</div>
+</div>
+<a id="ad6150b11a36121da1e9ec7391cdd459a" name="ad6150b11a36121da1e9ec7391cdd459a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad6150b11a36121da1e9ec7391cdd459a">&#9670;&#160;</a></span>GetMaxDuration()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int32_t AuraStub::GetMaxDuration </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  177</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d8f/a29508.html#ac3a1bd9e766b61bc8704ae052243687e">_maxDuration</a>; }</div>
+<div class="ttc" id="aa29508_html_ac3a1bd9e766b61bc8704ae052243687e"><div class="ttname"><a href="../../db/d8f/a29508.html#ac3a1bd9e766b61bc8704ae052243687e">AuraStub::_maxDuration</a></div><div class="ttdeci">int32_t _maxDuration</div><div class="ttdef"><b>Definition:</b> AuraStub.h:263</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00263">_maxDuration</a>.</p>
+
+</div>
+</div>
+<a id="a969d2e73c87733945478b7026961d352" name="a969d2e73c87733945478b7026961d352"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a969d2e73c87733945478b7026961d352">&#9670;&#160;</a></span>GetOrCreateApplication()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d13/a29504.html">AuraApplicationStub</a> &amp; AuraStub::GetOrCreateApplication </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  240</span>    {</div>
+<div class="line"><span class="lineno">  241</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../db/d8f/a29508.html#a8db37909ba445d465cedf2369f23675c">_application</a>)</div>
+<div class="line"><span class="lineno">  242</span>            <a class="code hl_variable" href="../../db/d8f/a29508.html#a8db37909ba445d465cedf2369f23675c">_application</a> = std::make_unique&lt;AuraApplicationStub&gt;();</div>
+<div class="line"><span class="lineno">  243</span>        <span class="keywordflow">return</span> *<a class="code hl_variable" href="../../db/d8f/a29508.html#a8db37909ba445d465cedf2369f23675c">_application</a>;</div>
+<div class="line"><span class="lineno">  244</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00256">_application</a>.</p>
+
+</div>
+</div>
+<a id="a828a307a414bad0af9f9c98b4c4b19af" name="a828a307a414bad0af9f9c98b4c4b19af"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a828a307a414bad0af9f9c98b4c4b19af">&#9670;&#160;</a></span>GetSpellFamilyName()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t AuraStub::GetSpellFamilyName </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  127</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d8f/a29508.html#a072d77febb916a89381ecb4b12202457">_spellFamilyName</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00253">_spellFamilyName</a>.</p>
+
+</div>
+</div>
+<a id="aa1d4772f73dfbad815affeac796bdfbf" name="aa1d4772f73dfbad815affeac796bdfbf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa1d4772f73dfbad815affeac796bdfbf">&#9670;&#160;</a></span>GetStackAmount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint8_t AuraStub::GetStackAmount </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  202</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d8f/a29508.html#addd8a3b89abb14f239ceacdafee736fa">_stackAmount</a>; }</div>
+<div class="ttc" id="aa29508_html_addd8a3b89abb14f239ceacdafee736fa"><div class="ttname"><a href="../../db/d8f/a29508.html#addd8a3b89abb14f239ceacdafee736fa">AuraStub::_stackAmount</a></div><div class="ttdeci">uint8_t _stackAmount</div><div class="ttdef"><b>Definition:</b> AuraStub.h:267</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00267">_stackAmount</a>.</p>
+
+</div>
+</div>
+<a id="aba9190e03016c9c5071f32270df2f6cd" name="aba9190e03016c9c5071f32270df2f6cd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aba9190e03016c9c5071f32270df2f6cd">&#9670;&#160;</a></span>HasEffect()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AuraStub::HasEffect </td>
+          <td>(</td>
+          <td class="paramtype">uint8_t&#160;</td>
+          <td class="paramname"><em>effIndex</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  139</span>    {</div>
+<div class="line"><span class="lineno">  140</span>        <span class="keywordflow">return</span> effIndex &lt; 3 &amp;&amp; <a class="code hl_variable" href="../../db/d8f/a29508.html#a4fd8bc30add29022a10f9b98cf39d1ab">_effects</a>[effIndex] != <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  141</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00255">_effects</a>.</p>
+
+</div>
+</div>
+<a id="a68347746ed79c8da64223d256ae3072e" name="a68347746ed79c8da64223d256ae3072e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a68347746ed79c8da64223d256ae3072e">&#9670;&#160;</a></span>IsPassive()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AuraStub::IsPassive </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  223</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d8f/a29508.html#a2a520f033919b7debef00f5acda99019">_isPassive</a>; }</div>
+<div class="ttc" id="aa29508_html_a2a520f033919b7debef00f5acda99019"><div class="ttname"><a href="../../db/d8f/a29508.html#a2a520f033919b7debef00f5acda99019">AuraStub::_isPassive</a></div><div class="ttdeci">bool _isPassive</div><div class="ttdef"><b>Definition:</b> AuraStub.h:268</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00268">_isPassive</a>.</p>
+
+</div>
+</div>
+<a id="a834d69a9a8d6e58106fb139bd08b15ef" name="a834d69a9a8d6e58106fb139bd08b15ef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a834d69a9a8d6e58106fb139bd08b15ef">&#9670;&#160;</a></span>IsPermanent()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AuraStub::IsPermanent </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  178</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d8f/a29508.html#ac3a1bd9e766b61bc8704ae052243687e">_maxDuration</a> == -1; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00263">_maxDuration</a>.</p>
+
+</div>
+</div>
+<a id="aa81c84891b1c277cb58bfabfaa644f64" name="aa81c84891b1c277cb58bfabfaa644f64"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa81c84891b1c277cb58bfabfaa644f64">&#9670;&#160;</a></span>IsProcOnCooldown()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AuraStub::IsProcOnCooldown </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d8f/a29508.html#ae25821c46e0e5524c524f9862140eb7d">TimePoint</a>&#160;</td>
+          <td class="paramname"><em>now</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  187</span>    {</div>
+<div class="line"><span class="lineno">  188</span>        <span class="keywordflow">return</span> now &lt; <a class="code hl_variable" href="../../db/d8f/a29508.html#adf07a88cbd3252d8a2ce0ed05dd8a16d">_procCooldown</a>;</div>
+<div class="line"><span class="lineno">  189</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00265">_procCooldown</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>.</p>
+
+</div>
+</div>
+<a id="af30f33955f8018390bee6abbb83d2ac7" name="af30f33955f8018390bee6abbb83d2ac7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af30f33955f8018390bee6abbb83d2ac7">&#9670;&#160;</a></span>IsRemoved()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AuraStub::IsRemoved </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  224</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d8f/a29508.html#ac27c3e75a2d9b369a4d2bdd8e895970b">_isRemoved</a>; }</div>
+<div class="ttc" id="aa29508_html_ac27c3e75a2d9b369a4d2bdd8e895970b"><div class="ttname"><a href="../../db/d8f/a29508.html#ac27c3e75a2d9b369a4d2bdd8e895970b">AuraStub::_isRemoved</a></div><div class="ttdeci">bool _isRemoved</div><div class="ttdef"><b>Definition:</b> AuraStub.h:269</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00269">_isRemoved</a>.</p>
+
+</div>
+</div>
+<a id="a399397839eb3f7f72660b0edf4449fda" name="a399397839eb3f7f72660b0edf4449fda"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a399397839eb3f7f72660b0edf4449fda">&#9670;&#160;</a></span>IsUsingCharges()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AuraStub::IsUsingCharges </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  156</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d8f/a29508.html#ad39ef4f219e81c84f2c0f8a4e6936b75">_isUsingCharges</a>; }</div>
+<div class="ttc" id="aa29508_html_ad39ef4f219e81c84f2c0f8a4e6936b75"><div class="ttname"><a href="../../db/d8f/a29508.html#ad39ef4f219e81c84f2c0f8a4e6936b75">AuraStub::_isUsingCharges</a></div><div class="ttdeci">bool _isUsingCharges</div><div class="ttdef"><b>Definition:</b> AuraStub.h:259</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00259">_isUsingCharges</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00121">ProcChanceTestHelper::SimulateConsumeProcCharges()</a>.</p>
+
+</div>
+</div>
+<a id="a8acc4b01359a718092d0ab4c737f9657" name="a8acc4b01359a718092d0ab4c737f9657"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8acc4b01359a718092d0ab4c737f9657">&#9670;&#160;</a></span>ModStackAmount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool AuraStub::ModStackAmount </td>
+          <td>(</td>
+          <td class="paramtype">int32_t&#160;</td>
+          <td class="paramname"><em>amount</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"> = <code>true</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Modify stack amount (for PROC_ATTR_USE_STACKS_FOR_CHARGES) Mimics <a class="el" href="../../db/d70/a11532.html#a69b589a7414d5d73ed75d12d5ba736ef">Aura::ModStackAmount()</a> - removes aura if stacks reach 0. </p>
+<div class="fragment"><div class="line"><span class="lineno">  210</span>    {</div>
+<div class="line"><span class="lineno">  211</span>        int32_t newAmount = <span class="keyword">static_cast&lt;</span>int32_t<span class="keyword">&gt;</span>(<a class="code hl_variable" href="../../db/d8f/a29508.html#addd8a3b89abb14f239ceacdafee736fa">_stackAmount</a>) + amount;</div>
+<div class="line"><span class="lineno">  212</span>        <span class="keywordflow">if</span> (newAmount &lt;= 0)</div>
+<div class="line"><span class="lineno">  213</span>        {</div>
+<div class="line"><span class="lineno">  214</span>            <a class="code hl_variable" href="../../db/d8f/a29508.html#addd8a3b89abb14f239ceacdafee736fa">_stackAmount</a> = 0;</div>
+<div class="line"><span class="lineno">  215</span>            <a class="code hl_function" href="../../db/d8f/a29508.html#a302b190366d2c9361ef69b86296a36d3">Remove</a>();</div>
+<div class="line"><span class="lineno">  216</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>; <span class="comment">// Aura removed</span></div>
+<div class="line"><span class="lineno">  217</span>        }</div>
+<div class="line"><span class="lineno">  218</span>        <a class="code hl_variable" href="../../db/d8f/a29508.html#addd8a3b89abb14f239ceacdafee736fa">_stackAmount</a> = <span class="keyword">static_cast&lt;</span>uint8_t<span class="keyword">&gt;</span>(newAmount);</div>
+<div class="line"><span class="lineno">  219</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  220</span>    }</div>
+<div class="ttc" id="aa29508_html_a302b190366d2c9361ef69b86296a36d3"><div class="ttname"><a href="../../db/d8f/a29508.html#a302b190366d2c9361ef69b86296a36d3">AuraStub::Remove</a></div><div class="ttdeci">virtual void Remove()</div><div class="ttdoc">Mark aura as removed (for charge exhaustion) Mimics Aura::Remove()</div><div class="ttdef"><b>Definition:</b> AuraStub.h:233</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00267">_stackAmount</a>, and <a class="el" href="../../#l00233">Remove()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00121">ProcChanceTestHelper::SimulateConsumeProcCharges()</a>.</p>
+
+</div>
+</div>
+<a id="a302b190366d2c9361ef69b86296a36d3" name="a302b190366d2c9361ef69b86296a36d3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a302b190366d2c9361ef69b86296a36d3">&#9670;&#160;</a></span>Remove()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void AuraStub::Remove </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Mark aura as removed (for charge exhaustion) Mimics <a class="el" href="../../db/d70/a11532.html#af9799e5670c2bc3899e3430aa793ca20">Aura::Remove()</a> </p>
+<div class="fragment"><div class="line"><span class="lineno">  234</span>    {</div>
+<div class="line"><span class="lineno">  235</span>        <a class="code hl_variable" href="../../db/d8f/a29508.html#ac27c3e75a2d9b369a4d2bdd8e895970b">_isRemoved</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  236</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00269">_isRemoved</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00209">ModStackAmount()</a>, and <a class="el" href="../../#l00121">ProcChanceTestHelper::SimulateConsumeProcCharges()</a>.</p>
+
+</div>
+</div>
+<a id="a2091f2ff1512a8e21701ef3fafd18710" name="a2091f2ff1512a8e21701ef3fafd18710"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2091f2ff1512a8e21701ef3fafd18710">&#9670;&#160;</a></span>ResetChargeDropped()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuraStub::ResetChargeDropped </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  173</span>{ <a class="code hl_variable" href="../../db/d8f/a29508.html#ab6b28446bdd9c33405e4cb9d8a275329">_chargeDropped</a> = <span class="keyword">false</span>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00260">_chargeDropped</a>.</p>
+
+</div>
+</div>
+<a id="a4dd56e2582063a18ab63493acf64ebf9" name="a4dd56e2582063a18ab63493acf64ebf9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4dd56e2582063a18ab63493acf64ebf9">&#9670;&#160;</a></span>ResetProcCooldown()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuraStub::ResetProcCooldown </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  197</span>    {</div>
+<div class="line"><span class="lineno">  198</span>        <a class="code hl_variable" href="../../db/d8f/a29508.html#adf07a88cbd3252d8a2ce0ed05dd8a16d">_procCooldown</a> = TimePoint::min();</div>
+<div class="line"><span class="lineno">  199</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00265">_procCooldown</a>.</p>
+
+</div>
+</div>
+<a id="af9302ca6f10e63456c51383f586689c6" name="af9302ca6f10e63456c51383f586689c6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af9302ca6f10e63456c51383f586689c6">&#9670;&#160;</a></span>SetCharges()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuraStub::SetCharges </td>
+          <td>(</td>
+          <td class="paramtype">uint8_t&#160;</td>
+          <td class="paramname"><em>charges</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  158</span>{ <a class="code hl_variable" href="../../db/d8f/a29508.html#a114f69383354c59fbcc8864431d270a8">_charges</a> = charges; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00258">_charges</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00086">ProcTestContext::WithAuraCharges()</a>.</p>
+
+</div>
+</div>
+<a id="acf6a08f10be63eecc8761c1733ffed57" name="acf6a08f10be63eecc8761c1733ffed57"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acf6a08f10be63eecc8761c1733ffed57">&#9670;&#160;</a></span>SetDuration()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuraStub::SetDuration </td>
+          <td>(</td>
+          <td class="paramtype">int32_t&#160;</td>
+          <td class="paramname"><em>duration</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  180</span>{ <a class="code hl_variable" href="../../db/d8f/a29508.html#aeafa9a7b62f711ca9e76ec7b31012be3">_duration</a> = duration; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00262">_duration</a>.</p>
+
+</div>
+</div>
+<a id="a96fe80bb0747b44d81906ecff56865dc" name="a96fe80bb0747b44d81906ecff56865dc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a96fe80bb0747b44d81906ecff56865dc">&#9670;&#160;</a></span>SetId()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuraStub::SetId </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>id</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  129</span>{ <a class="code hl_variable" href="../../db/d8f/a29508.html#a6db3047e147efb206d08e87735f1e798">_id</a> = id; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00252">_id</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00074">ProcTestContext::WithAuraId()</a>.</p>
+
+</div>
+</div>
+<a id="ac4162740db23c4984dfa65352ec6ebc0" name="ac4162740db23c4984dfa65352ec6ebc0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac4162740db23c4984dfa65352ec6ebc0">&#9670;&#160;</a></span>SetMaxDuration()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuraStub::SetMaxDuration </td>
+          <td>(</td>
+          <td class="paramtype">int32_t&#160;</td>
+          <td class="paramname"><em>maxDuration</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  181</span>{ <a class="code hl_variable" href="../../db/d8f/a29508.html#ac3a1bd9e766b61bc8704ae052243687e">_maxDuration</a> = maxDuration; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00263">_maxDuration</a>.</p>
+
+</div>
+</div>
+<a id="a53cbbb0b1c31583827e80b88e0d27e69" name="a53cbbb0b1c31583827e80b88e0d27e69"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a53cbbb0b1c31583827e80b88e0d27e69">&#9670;&#160;</a></span>SetPassive()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuraStub::SetPassive </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>isPassive</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  226</span>{ <a class="code hl_variable" href="../../db/d8f/a29508.html#a2a520f033919b7debef00f5acda99019">_isPassive</a> = isPassive; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00268">_isPassive</a>.</p>
+
+</div>
+</div>
+<a id="a52ab904d4503a6050960132c677c08ec" name="a52ab904d4503a6050960132c677c08ec"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a52ab904d4503a6050960132c677c08ec">&#9670;&#160;</a></span>SetRemoved()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuraStub::SetRemoved </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>isRemoved</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  227</span>{ <a class="code hl_variable" href="../../db/d8f/a29508.html#ac27c3e75a2d9b369a4d2bdd8e895970b">_isRemoved</a> = isRemoved; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00269">_isRemoved</a>.</p>
+
+</div>
+</div>
+<a id="a6100f97e9f7f4e11205a2ba16deaf53d" name="a6100f97e9f7f4e11205a2ba16deaf53d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6100f97e9f7f4e11205a2ba16deaf53d">&#9670;&#160;</a></span>SetSpellFamilyName()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuraStub::SetSpellFamilyName </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>familyName</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  130</span>{ <a class="code hl_variable" href="../../db/d8f/a29508.html#a072d77febb916a89381ecb4b12202457">_spellFamilyName</a> = familyName; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00253">_spellFamilyName</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00080">ProcTestContext::WithAuraSpellFamily()</a>.</p>
+
+</div>
+</div>
+<a id="a750d6a1420dafc8a7c917e186c5ba27e" name="a750d6a1420dafc8a7c917e186c5ba27e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a750d6a1420dafc8a7c917e186c5ba27e">&#9670;&#160;</a></span>SetStackAmount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuraStub::SetStackAmount </td>
+          <td>(</td>
+          <td class="paramtype">uint8_t&#160;</td>
+          <td class="paramname"><em>amount</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  203</span>{ <a class="code hl_variable" href="../../db/d8f/a29508.html#addd8a3b89abb14f239ceacdafee736fa">_stackAmount</a> = amount; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00267">_stackAmount</a>.</p>
+
+</div>
+</div>
+<a id="aa8c5e134e2e73e0c8fab00896ac08801" name="aa8c5e134e2e73e0c8fab00896ac08801"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa8c5e134e2e73e0c8fab00896ac08801">&#9670;&#160;</a></span>SetUsingCharges()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AuraStub::SetUsingCharges </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>usingCharges</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  159</span>{ <a class="code hl_variable" href="../../db/d8f/a29508.html#ad39ef4f219e81c84f2c0f8a4e6936b75">_isUsingCharges</a> = usingCharges; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00259">_isUsingCharges</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00086">ProcTestContext::WithAuraCharges()</a>.</p>
+
+</div>
+</div>
+<a id="af1eeca715db3ee4282bb9668b2cb799e" name="af1eeca715db3ee4282bb9668b2cb799e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af1eeca715db3ee4282bb9668b2cb799e">&#9670;&#160;</a></span>WasChargeDropped()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AuraStub::WasChargeDropped </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  172</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d8f/a29508.html#ab6b28446bdd9c33405e4cb9d8a275329">_chargeDropped</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00260">_chargeDropped</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a8db37909ba445d465cedf2369f23675c" name="a8db37909ba445d465cedf2369f23675c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8db37909ba445d465cedf2369f23675c">&#9670;&#160;</a></span>_application</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../d8/d13/a29504.html">AuraApplicationStub</a>&gt; AuraStub::_application</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00246">GetApplication()</a>, and <a class="el" href="../../#l00239">GetOrCreateApplication()</a>.</p>
+
+</div>
+</div>
+<a id="ab6b28446bdd9c33405e4cb9d8a275329" name="ab6b28446bdd9c33405e4cb9d8a275329"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab6b28446bdd9c33405e4cb9d8a275329">&#9670;&#160;</a></span>_chargeDropped</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AuraStub::_chargeDropped = false</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00161">DropCharge()</a>, <a class="el" href="../../#l00173">ResetChargeDropped()</a>, and <a class="el" href="../../#l00172">WasChargeDropped()</a>.</p>
+
+</div>
+</div>
+<a id="a114f69383354c59fbcc8864431d270a8" name="a114f69383354c59fbcc8864431d270a8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a114f69383354c59fbcc8864431d270a8">&#9670;&#160;</a></span>_charges</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint8_t AuraStub::_charges = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00161">DropCharge()</a>, <a class="el" href="../../#l00155">GetCharges()</a>, and <a class="el" href="../../#l00158">SetCharges()</a>.</p>
+
+</div>
+</div>
+<a id="aeafa9a7b62f711ca9e76ec7b31012be3" name="aeafa9a7b62f711ca9e76ec7b31012be3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeafa9a7b62f711ca9e76ec7b31012be3">&#9670;&#160;</a></span>_duration</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int32_t AuraStub::_duration = -1</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00176">GetDuration()</a>, and <a class="el" href="../../#l00180">SetDuration()</a>.</p>
+
+</div>
+</div>
+<a id="a4fd8bc30add29022a10f9b98cf39d1ab" name="a4fd8bc30add29022a10f9b98cf39d1ab"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4fd8bc30add29022a10f9b98cf39d1ab">&#9670;&#160;</a></span>_effects</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../d4/d02/a29500.html">AuraEffectStub</a>&gt; AuraStub::_effects[3]</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00113">AuraStub()</a>, <a class="el" href="../../#l00133">GetEffect()</a>, <a class="el" href="../../#l00143">GetEffectMask()</a>, and <a class="el" href="../../#l00138">HasEffect()</a>.</p>
+
+</div>
+</div>
+<a id="a6db3047e147efb206d08e87735f1e798" name="a6db3047e147efb206d08e87735f1e798"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6db3047e147efb206d08e87735f1e798">&#9670;&#160;</a></span>_id</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t AuraStub::_id = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00126">GetId()</a>, and <a class="el" href="../../#l00129">SetId()</a>.</p>
+
+</div>
+</div>
+<a id="a2a520f033919b7debef00f5acda99019" name="a2a520f033919b7debef00f5acda99019"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2a520f033919b7debef00f5acda99019">&#9670;&#160;</a></span>_isPassive</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AuraStub::_isPassive = false</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00223">IsPassive()</a>, and <a class="el" href="../../#l00226">SetPassive()</a>.</p>
+
+</div>
+</div>
+<a id="ac27c3e75a2d9b369a4d2bdd8e895970b" name="ac27c3e75a2d9b369a4d2bdd8e895970b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac27c3e75a2d9b369a4d2bdd8e895970b">&#9670;&#160;</a></span>_isRemoved</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AuraStub::_isRemoved = false</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00224">IsRemoved()</a>, <a class="el" href="../../#l00233">Remove()</a>, and <a class="el" href="../../#l00227">SetRemoved()</a>.</p>
+
+</div>
+</div>
+<a id="ad39ef4f219e81c84f2c0f8a4e6936b75" name="ad39ef4f219e81c84f2c0f8a4e6936b75"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad39ef4f219e81c84f2c0f8a4e6936b75">&#9670;&#160;</a></span>_isUsingCharges</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AuraStub::_isUsingCharges = false</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00156">IsUsingCharges()</a>, and <a class="el" href="../../#l00159">SetUsingCharges()</a>.</p>
+
+</div>
+</div>
+<a id="ac3a1bd9e766b61bc8704ae052243687e" name="ac3a1bd9e766b61bc8704ae052243687e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac3a1bd9e766b61bc8704ae052243687e">&#9670;&#160;</a></span>_maxDuration</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int32_t AuraStub::_maxDuration = -1</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00177">GetMaxDuration()</a>, <a class="el" href="../../#l00178">IsPermanent()</a>, and <a class="el" href="../../#l00181">SetMaxDuration()</a>.</p>
+
+</div>
+</div>
+<a id="adf07a88cbd3252d8a2ce0ed05dd8a16d" name="adf07a88cbd3252d8a2ce0ed05dd8a16d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adf07a88cbd3252d8a2ce0ed05dd8a16d">&#9670;&#160;</a></span>_procCooldown</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d8f/a29508.html#ae25821c46e0e5524c524f9862140eb7d">TimePoint</a> AuraStub::_procCooldown = TimePoint::min()</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00191">AddProcCooldown()</a>, <a class="el" href="../../#l00186">IsProcOnCooldown()</a>, and <a class="el" href="../../#l00196">ResetProcCooldown()</a>.</p>
+
+</div>
+</div>
+<a id="a072d77febb916a89381ecb4b12202457" name="a072d77febb916a89381ecb4b12202457"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a072d77febb916a89381ecb4b12202457">&#9670;&#160;</a></span>_spellFamilyName</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t AuraStub::_spellFamilyName = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00127">GetSpellFamilyName()</a>, and <a class="el" href="../../#l00130">SetSpellFamilyName()</a>.</p>
+
+</div>
+</div>
+<a id="addd8a3b89abb14f239ceacdafee736fa" name="addd8a3b89abb14f239ceacdafee736fa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#addd8a3b89abb14f239ceacdafee736fa">&#9670;&#160;</a></span>_stackAmount</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint8_t AuraStub::_stackAmount = 1</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00202">GetStackAmount()</a>, <a class="el" href="../../#l00209">ModStackAmount()</a>, and <a class="el" href="../../#l00203">SetStackAmount()</a>.</p>
 
 </div>
 </div>
@@ -181,8 +1646,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d4/d02/a29500.html">ProcChanceTestHelper</a></li><li class="navelem"><a class="el" href="../../db/d8f/a29508.html">ExtraAttackProcConfig</a></li>
-    <li class="footer">Generated on Mon Feb 23 2026 21:15:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../db/d8f/a29508.html">AuraStub</a></li>
+    <li class="footer">Generated on Mon Mar 2 2026 21:04:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

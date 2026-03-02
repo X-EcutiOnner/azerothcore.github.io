@@ -1,6 +1,6 @@
 var a11780 =
 [
-    [ "AuraProcHandler", "d0/dde/a11780.html#a1c0ad4a28c98d89a0afc2f8eeda9a421", null ],
-    [ "Call", "d0/dde/a11780.html#abc0c3be9dee08e995c282f20900f3c46", null ],
-    [ "_HandlerScript", "d0/dde/a11780.html#ada8d7a5659598b0092739a91ba2653bd", null ]
+    [ "EffectCalcSpellModHandler", "d0/dde/a11780.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
+    [ "Call", "d0/dde/a11780.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
+    [ "pEffectHandlerScript", "d0/dde/a11780.html#a15c0b24641cb04f31bb3d651dae59448", null ]
 ];

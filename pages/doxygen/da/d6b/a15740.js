@@ -1,6 +1,8 @@
 var a15740 =
 [
-    [ "npc_muglashAI", "dd/d34/a15744.html", "dd/d34/a15744" ],
-    [ "npc_muglash", "da/d6b/a15740.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
-    [ "GetAI", "da/d6b/a15740.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
+    [ "npc_obsidian_eradicator", "da/d6b/a15740.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "da/d6b/a15740.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "da/d6b/a15740.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "da/d6b/a15740.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "da/d6b/a15740.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

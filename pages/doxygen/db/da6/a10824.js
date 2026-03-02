@@ -1,5 +1,5 @@
 var a10824 =
 [
-    [ "AcceptGuildInvite", "db/da6/a10824.html#a4453fc550871082f6295d9229eef265a", null ],
-    [ "Read", "db/da6/a10824.html#a3d39b917ca2650f645ccce12cdc1a1e0", null ]
+    [ "GuildGetInfo", "db/da6/a10824.html#a585a6a49fe9747d5044ac185f1236cf5", null ],
+    [ "Read", "db/da6/a10824.html#aa2b107f35fcf348fb7f84c2971c5fa00", null ]
 ];

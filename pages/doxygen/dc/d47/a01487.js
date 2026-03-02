@@ -1,4 +1,6 @@
 var a01487 =
 [
-    [ "ScriptRegistry< AllCreatureScript >", "dc/d47/a01487.html#a1fdf1f4f0e165d771b9e1e9064529256", null ]
+    [ "clearAcceptTradeMode", "dc/d47/a01487.html#ab516bffb39dfd3d3133b1d3a515c9fb1", null ],
+    [ "clearAcceptTradeMode", "dc/d47/a01487.html#a7b5fc6374a945ebbe9b397c1e115e952", null ],
+    [ "setAcceptTradeMode", "dc/d47/a01487.html#a63b255ea813e0ea4f109492ed7f0213c", null ]
 ];

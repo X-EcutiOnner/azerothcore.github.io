@@ -1,6 +1,6 @@
 var a18900 =
 [
-    [ "npc_the_lich_king_controllerAI", "da/dc7/a18904.html", "da/dc7/a18904" ],
-    [ "npc_the_lich_king_controller", "de/deb/a18900.html#a32b14d699737497ba7c90d8ef17557d7", null ],
-    [ "GetAI", "de/deb/a18900.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
+    [ "ManaVoidSelector", "de/deb/a18900.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "de/deb/a18900.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "de/deb/a18900.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

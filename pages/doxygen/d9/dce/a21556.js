@@ -1,7 +1,9 @@
 var a21556 =
 [
-    [ "HandleProc", "d9/dce/a21556.html#aeb5b70614b266bac0792906bf89a5b97", null ],
-    [ "PrepareAuraScript", "d9/dce/a21556.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
-    [ "Register", "d9/dce/a21556.html#a163e0099271f21362deeb1ba1f169f3f", null ],
-    [ "Validate", "d9/dce/a21556.html#abdb889e4c6d19f756c143d7b36f82257", null ]
+    [ "npc_warmage_coldarraAI", "d9/dce/a21556.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
+    [ "AttackStart", "d9/dce/a21556.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
+    [ "JustEngagedWith", "d9/dce/a21556.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
+    [ "Reset", "d9/dce/a21556.html#adf5094ba2bee34ec793124e798d5af8f", null ],
+    [ "UpdateAI", "d9/dce/a21556.html#a14b221265cc38b4061c52b687274a398", null ],
+    [ "m_uiTimer", "d9/dce/a21556.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
 ];

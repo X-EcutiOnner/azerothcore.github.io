@@ -1,9 +1,5 @@
 var a22116 =
 [
-    [ "npc_engineer_heliceAI", "d9/d90/a22116.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
-    [ "JustDied", "d9/d90/a22116.html#aba224727b86a2bfc39a47b70b424ccef", null ],
-    [ "Reset", "d9/d90/a22116.html#ade3f7f526dd8973c155aafb939db3778", null ],
-    [ "UpdateAI", "d9/d90/a22116.html#a1c333511dd6e82cd22af111e12a701c4", null ],
-    [ "WaypointReached", "d9/d90/a22116.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
-    [ "m_uiChatTimer", "d9/d90/a22116.html#aa305bc2b5711d0745650f80275204ea8", null ]
+    [ "go_pressure_valve", "d9/d90/a22116.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
+    [ "OnGossipHello", "d9/d90/a22116.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
 ];

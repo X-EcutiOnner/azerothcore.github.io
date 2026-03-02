@@ -1,6 +1,5 @@
 var a18892 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "d3/d7d/a18896.html", "d3/d7d/a18896" ],
-    [ "npc_green_dragon_combat_trigger", "d9/d12/a18892.html#acec675494f5e5e9609bf34b7f25cb569", null ],
-    [ "GetAI", "d9/d12/a18892.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
+    [ "achievement_neck_deep_in_vile", "d9/d12/a18892.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
+    [ "OnCheck", "d9/d12/a18892.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
 ];

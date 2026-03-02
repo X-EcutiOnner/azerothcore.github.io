@@ -1,7 +1,14 @@
 var a20836 =
 [
-    [ "boss_yoggsaron_corruptor_tentacle", "d4/dfd/a20836.html#af7da1739cd55e8707b2f33bba0ba2031", null ],
-    [ "DoAction", "d4/dfd/a20836.html#adf9489b954cc83a26263ffffe4ef2dd5", null ],
-    [ "SelectCorruptionTarget", "d4/dfd/a20836.html#a8b868941372af612e269e013594a5c14", null ],
-    [ "UpdateAI", "d4/dfd/a20836.html#a2f8911a615d32689088a6c358ac80d3f", null ]
+    [ "boss_yoggsaron_cloud", "d4/dfd/a20836.html#a905612697cf1c1d4fd155af61bf6866d", null ],
+    [ "AttackStart", "d4/dfd/a20836.html#a280ad77f30f06c01ee16434794814767", null ],
+    [ "DoAction", "d4/dfd/a20836.html#ad7452d20420fc1fc30088e455a9cdfc3", null ],
+    [ "InitWaypoint", "d4/dfd/a20836.html#a390c25b21c29aafb616bd2c827352ffe", null ],
+    [ "JustSummoned", "d4/dfd/a20836.html#a2c321419548e8ce151d639c3fbd7b1b4", null ],
+    [ "MoveInLineOfSight", "d4/dfd/a20836.html#a798009bca30677a645529b1313cc89ae", null ],
+    [ "Reset", "d4/dfd/a20836.html#ad548ae65a05f600487a57899760ebab0", null ],
+    [ "UpdateEscortAI", "d4/dfd/a20836.html#aba8043fca75864e583da9c5167efce3b", null ],
+    [ "WaypointReached", "d4/dfd/a20836.html#aae9f3ac55a3008fcc88d78c907056827", null ],
+    [ "_checkTimer", "d4/dfd/a20836.html#aa6fda2f2b1d3405bd1aca66e37abbcd8", null ],
+    [ "_isSummoning", "d4/dfd/a20836.html#a339bf4c5ef6449d42aa3c36759a99aa4", null ]
 ];

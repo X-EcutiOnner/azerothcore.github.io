@@ -1,7 +1,8 @@
 var a11048 =
 [
-    [ "AutoEquipItem", "d6/d7b/a11048.html#a60accc2bf5c484753f94a8fe947e8f36", null ],
-    [ "Read", "d6/d7b/a11048.html#a187bcedbc110adc332c0cb1de2bd7d9c", null ],
-    [ "SourceBag", "d6/d7b/a11048.html#ad8fe37595168bc57fcd4af46bdbfafdc", null ],
-    [ "SourceSlot", "d6/d7b/a11048.html#aee1f081b0775d7fc9eb67764a9249ec5", null ]
+    [ "SetRaidDifficulty", "d6/d7b/a11048.html#af8d6189ed0209b4f70e32f92c00e13fb", null ],
+    [ "Write", "d6/d7b/a11048.html#a3da812593b22ef506a9d61e16b5485d1", null ],
+    [ "Difficulty", "d6/d7b/a11048.html#a1952e2d54b77437731b693f4eace83ac", null ],
+    [ "IsInGroup", "d6/d7b/a11048.html#a8833543c4f179be97476a26152ec049b", null ],
+    [ "Unk", "d6/d7b/a11048.html#a61a4f0fb74db04cdc11c0729bc104f7a", null ]
 ];

@@ -1,13 +1,6 @@
 var a19388 =
 [
-    [ "boss_anubrekhan", "df/d6a/a19388.html#ad748de528ca78739236b9586ddaa19bd", null ],
-    [ "JustDied", "df/d6a/a19388.html#a9dfb1b89c4f47235e463d90f17522113", null ],
-    [ "JustEngagedWith", "df/d6a/a19388.html#a97d56653381e7a7f8c724263148cd61e", null ],
-    [ "JustSummoned", "df/d6a/a19388.html#af1a01ff6c9790e1660619767c16cfd94", null ],
-    [ "KilledUnit", "df/d6a/a19388.html#a73906e3681c767e5818d380e77525ba2", null ],
-    [ "MoveInLineOfSight", "df/d6a/a19388.html#a9fcbc921973e0bd02867217d15efcc64", null ],
-    [ "Reset", "df/d6a/a19388.html#a1a495fddf89c4c92136d1fd61fba6594", null ],
-    [ "SummonCryptGuards", "df/d6a/a19388.html#a30d2e7464cffc6894882897ed0d66c6a", null ],
-    [ "SummonedCreatureDies", "df/d6a/a19388.html#a12b4f2878b54f5bd34c470d2c7b40098", null ],
-    [ "_sayGreet", "df/d6a/a19388.html#a7f61eb4aab4d0bf81480dea011b11f95", null ]
+    [ "boss_isle_of_conquestAI", "d8/dd8/a19392.html", "d8/dd8/a19392" ],
+    [ "boss_isle_of_conquest", "df/d6a/a19388.html#ad4052d1b6865585d32016e1240449659", null ],
+    [ "GetAI", "df/d6a/a19388.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
 ];

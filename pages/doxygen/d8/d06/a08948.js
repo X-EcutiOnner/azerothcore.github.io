@@ -1,11 +1,8 @@
 var a08948 =
 [
-    [ "SpellPeriodicAuraLogInfo", "d8/d06/a08948.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
-    [ "absorb", "d8/d06/a08948.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
-    [ "auraEff", "d8/d06/a08948.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
-    [ "critical", "d8/d06/a08948.html#a51041b901727b4f595d2a886520626ff", null ],
-    [ "damage", "d8/d06/a08948.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
-    [ "multiplier", "d8/d06/a08948.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
-    [ "overDamage", "d8/d06/a08948.html#a51904be3790c99bded697b2cf7c8db23", null ],
-    [ "resist", "d8/d06/a08948.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
+    [ "CleanDamage", "d8/d06/a08948.html#ad25ab816a679e323c07873efbc1c2f20", null ],
+    [ "absorbed_damage", "d8/d06/a08948.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
+    [ "attackType", "d8/d06/a08948.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
+    [ "hitOutCome", "d8/d06/a08948.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
+    [ "mitigated_damage", "d8/d06/a08948.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
 ];

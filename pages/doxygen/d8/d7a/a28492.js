@@ -1,7 +1,11 @@
 var a28492 =
 [
-    [ "npc_wormholeAI", "d8/d7a/a28492.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
-    [ "GetData", "d8/d7a/a28492.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
-    [ "InitializeAI", "d8/d7a/a28492.html#aa0a903014ec7243036604ffcc67e0a36", null ],
-    [ "_showUnderground", "d8/d7a/a28492.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
+    [ "npc_injured_patientAI", "d8/d7a/a28492.html#a0973487623f1771c598648bc06a6d9a3", null ],
+    [ "JustEngagedWith", "d8/d7a/a28492.html#a621a8cc3f6b9655760431d52766ca589", null ],
+    [ "Reset", "d8/d7a/a28492.html#a007c9c7a4047374574cad17e9309d7c1", null ],
+    [ "SpellHit", "d8/d7a/a28492.html#ac9381e7c958348ae7a5e98fea7dcbe37", null ],
+    [ "UpdateAI", "d8/d7a/a28492.html#a54d0a5574175747779878dce0ebfd44f", null ],
+    [ "_scheduler", "d8/d7a/a28492.html#a60428fa97c8f6520338d53ed368c4c35", null ],
+    [ "Coord", "d8/d7a/a28492.html#af5a6f87c0379edd07a8756018b0c8661", null ],
+    [ "DoctorGUID", "d8/d7a/a28492.html#ad1de0d556a784aa16d87b8367fdb38e3", null ]
 ];

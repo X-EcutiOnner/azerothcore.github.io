@@ -1,7 +1,9 @@
 var a18092 =
 [
-    [ "FilterTargets", "d8/d59/a18092.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
-    [ "Load", "d8/d59/a18092.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
-    [ "PrepareSpellScript", "d8/d59/a18092.html#a7526a6df4c25136f4be78e753c6abf62", null ],
-    [ "Register", "d8/d59/a18092.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
+    [ "CheckAreaTarget", "d8/d59/a18092.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
+    [ "HandleApply", "d8/d59/a18092.html#a9ce86d32957af07313af379b4176d0b3", null ],
+    [ "HandleRemove", "d8/d59/a18092.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
+    [ "Load", "d8/d59/a18092.html#aa10821981f3e80262850e5c46449d5d0", null ],
+    [ "PrepareAuraScript", "d8/d59/a18092.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
+    [ "Register", "d8/d59/a18092.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
 ];

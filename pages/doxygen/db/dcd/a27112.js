@@ -1,6 +1,7 @@
 var a27112 =
 [
-    [ "HandleTriggerSpell", "db/dcd/a27112.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
-    [ "PrepareAuraScript", "db/dcd/a27112.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
-    [ "Register", "db/dcd/a27112.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
+    [ "HandleScript", "db/dcd/a27112.html#aa00117e677af1e236962c59b688d8a98", null ],
+    [ "Load", "db/dcd/a27112.html#ad05b65848e35d87fb9ef1ae413de6256", null ],
+    [ "PrepareSpellScript", "db/dcd/a27112.html#afbffeadede1cc7f08a0a52f4a7bee680", null ],
+    [ "Register", "db/dcd/a27112.html#a52d4828ccd5430a622a32b1279943f9b", null ]
 ];

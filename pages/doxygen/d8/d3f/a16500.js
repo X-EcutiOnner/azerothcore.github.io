@@ -1,6 +1,7 @@
 var a16500 =
 [
-    [ "boss_halionAI", "d9/d59/a16504.html", "d9/d59/a16504" ],
-    [ "boss_halion", "d8/d3f/a16500.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
-    [ "GetAI", "d8/d3f/a16500.html#a142314efb4f45ec146ab0225271d29b1", null ]
+    [ "CheckDistance", "d8/d3f/a16500.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
+    [ "PrepareSpellScript", "d8/d3f/a16500.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
+    [ "Register", "d8/d3f/a16500.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
+    [ "Validate", "d8/d3f/a16500.html#aa5d7a420154b156ca24e73de2faf912a", null ]
 ];

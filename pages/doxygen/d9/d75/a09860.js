@@ -1,10 +1,7 @@
 var a09860 =
 [
-    [ "const_iterator", "d9/d75/a09860.html#ac52d3ebfa7eaeb9d6fd08f0089b13918", null ],
-    [ "StorageType", "d9/d75/a09860.html#a6825a379d1af4254b920c14ab0068e7b", null ],
-    [ "BossBoundaryData", "d9/d75/a09860.html#a3f80cd89e43eae1a74e2b0a6a674d0cb", null ],
-    [ "~BossBoundaryData", "d9/d75/a09860.html#a446a3ec16cdce76058761fce972f1e57", null ],
-    [ "begin", "d9/d75/a09860.html#a326930360d22d5fdf9a895991f2c4e49", null ],
-    [ "end", "d9/d75/a09860.html#ab3dc9905d861b62c4551f45ee8b08ba5", null ],
-    [ "_data", "d9/d75/a09860.html#af60e90664c434a8d36115ca5dec889b5", null ]
+    [ "InstancePlayerBind", "d9/d75/a09860.html#abc20bba094d04eb724d03b8290102981", null ],
+    [ "extended", "d9/d75/a09860.html#a9327f62b74eea3a1a525b2fec6d90b69", null ],
+    [ "perm", "d9/d75/a09860.html#ab35249eb791941b484ecc321b1102b24", null ],
+    [ "save", "d9/d75/a09860.html#a24ef1e0e0a38033a16b697c32e3d8234", null ]
 ];

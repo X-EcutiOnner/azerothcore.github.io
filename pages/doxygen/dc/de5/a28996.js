@@ -1,7 +1,8 @@
 var a28996 =
 [
-    [ "Displayid", "dc/de5/a28996.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
-    [ "ExtendedDisplayInfoID", "dc/de5/a28996.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
-    [ "ModelId", "dc/de5/a28996.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
-    [ "scale", "dc/de5/a28996.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
+    [ "gender", "dc/de5/a28996.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
+    [ "hair_id", "dc/de5/a28996.html#af4646a9adb0a1dc18b34158de2116b84", null ],
+    [ "Id", "dc/de5/a28996.html#a05de87081cf628e806d6518eef1424e4", null ],
+    [ "race", "dc/de5/a28996.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
+    [ "type", "dc/de5/a28996.html#a289bb362ba13235c754647ba67be1e56", null ]
 ];

@@ -1,6 +1,6 @@
 var a19112 =
 [
-    [ "npc_arthas_teleport_visualAI", "d3/d3a/a19116.html", "d3/d3a/a19116" ],
-    [ "npc_arthas_teleport_visual", "d6/d73/a19112.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
-    [ "GetAI", "d6/d73/a19112.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
+    [ "npc_captain_grondelAI", "d6/d73/a19112.html#afbc971fc03584b87229318309d51a2f5", null ],
+    [ "Reset", "d6/d73/a19112.html#a7d3878822e77fba66891e87e23bd3740", null ],
+    [ "UpdateAI", "d6/d73/a19112.html#a4af8548092b49653805224bd4c0ac0a2", null ]
 ];

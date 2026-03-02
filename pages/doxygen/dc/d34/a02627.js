@@ -1,17 +1,15 @@
 var a02627 =
 [
-    [ "AddSC_deathknight_spell_scripts", "dc/d34/a02627.html#adcd4982e9aa1bb7ee8b4b39976cb7273", null ],
-    [ "AddSC_druid_spell_scripts", "dc/d34/a02627.html#a27c286499ee0c44de84c8f14e5c82d50", null ],
-    [ "AddSC_generic_spell_scripts", "dc/d34/a02627.html#ac2941716297c47e58e65de027a53ce16", null ],
-    [ "AddSC_hunter_spell_scripts", "dc/d34/a02627.html#af7e6bdb12ab989b575a1dca18382ea7c", null ],
-    [ "AddSC_item_spell_scripts", "dc/d34/a02627.html#a7c83be18daa3cdaab096b0caf49520a2", null ],
-    [ "AddSC_mage_spell_scripts", "dc/d34/a02627.html#a504d82c8e95f93fa88a54d34e919ed57", null ],
-    [ "AddSC_paladin_spell_scripts", "dc/d34/a02627.html#a1b3a1eb790e51c96829e92e5c922f437", null ],
-    [ "AddSC_priest_spell_scripts", "dc/d34/a02627.html#a0b0a2df1c9b8607784e59887025677c4", null ],
-    [ "AddSC_quest_spell_scripts", "dc/d34/a02627.html#aeb9d6863ab0326c3d6f1ac2c16d9f75c", null ],
-    [ "AddSC_rogue_spell_scripts", "dc/d34/a02627.html#a540405afe3345e19487d2db693272b2a", null ],
-    [ "AddSC_shaman_spell_scripts", "dc/d34/a02627.html#a3082f46075e4e453c37bc429c9d57a1a", null ],
-    [ "AddSC_warlock_spell_scripts", "dc/d34/a02627.html#a2054657c41c2347732a7d2903e3b8138", null ],
-    [ "AddSC_warrior_spell_scripts", "dc/d34/a02627.html#a9c003dba1ff10c2e27f5ee3d4109549f", null ],
-    [ "AddSpellsScripts", "dc/d34/a02627.html#aed7f09583615630437020215a3851296", null ]
+    [ "MySQLType< T >", "db/df6/a05984.html", null ],
+    [ "MySQLType< uint8 >", "d3/d71/a05988.html", null ],
+    [ "MySQLType< uint16 >", "d4/dc4/a05992.html", null ],
+    [ "MySQLType< uint32 >", "d5/d2a/a05996.html", null ],
+    [ "MySQLType< uint64 >", "d3/dc5/a06000.html", null ],
+    [ "MySQLType< int8 >", "de/dd0/a06004.html", null ],
+    [ "MySQLType< int16 >", "dc/dec/a06008.html", null ],
+    [ "MySQLType< int32 >", "d2/dc4/a06012.html", null ],
+    [ "MySQLType< int64 >", "df/de6/a06016.html", null ],
+    [ "MySQLType< float >", "d7/d13/a06020.html", null ],
+    [ "MySQLType< double >", "df/d9b/a06024.html", null ],
+    [ "ParamenterIndexAssertFail", "dc/d34/a02627.html#a4c2b053ff0b94326f3c01cc7c6e61e8a", null ]
 ];

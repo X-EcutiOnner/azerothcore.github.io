@@ -1,11 +1,13 @@
 var a21176 =
 [
-    [ "boss_archavonAI", "de/da9/a21176.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
-    [ "AttackStart", "de/da9/a21176.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
-    [ "JustDied", "de/da9/a21176.html#a3974065a80dedf3e673452e7f6f8e449", null ],
-    [ "JustEngagedWith", "de/da9/a21176.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
-    [ "Reset", "de/da9/a21176.html#a7d101626f39947dd54b574491a5e6d72", null ],
-    [ "UpdateAI", "de/da9/a21176.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
-    [ "events", "de/da9/a21176.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
-    [ "pInstance", "de/da9/a21176.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
+    [ "MoveX", "de/da9/a21176.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
+    [ "MoveY", "de/da9/a21176.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
+    [ "MoveZ", "de/da9/a21176.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
+    [ "npc", "de/da9/a21176.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
+    [ "say", "de/da9/a21176.html#adcd8647fc0ee9799e24173780209f2d9", null ],
+    [ "SpawnO", "de/da9/a21176.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
+    [ "SpawnX", "de/da9/a21176.html#af3ae27adaecafe9a09802bc202973d68", null ],
+    [ "SpawnY", "de/da9/a21176.html#a749e9c6edcc87f258f250344d652145c", null ],
+    [ "SpawnZ", "de/da9/a21176.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
+    [ "trigger", "de/da9/a21176.html#ad2291d89a874c79859b3140754594ed7", null ]
 ];

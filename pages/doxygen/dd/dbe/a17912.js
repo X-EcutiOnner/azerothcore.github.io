@@ -1,6 +1,6 @@
 var a17912 =
 [
-    [ "boss_festergutAI", "d0/d5b/a17916.html", "d0/d5b/a17916" ],
-    [ "boss_festergut", "dd/dbe/a17912.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
-    [ "GetAI", "dd/dbe/a17912.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
+    [ "ModAuraValue", "dd/dbe/a17912.html#a359453c6253beb6f729209c6d3d79af7", null ],
+    [ "PrepareSpellScript", "dd/dbe/a17912.html#a4f916abef69782be10cc6be9ba0124f5", null ],
+    [ "Register", "dd/dbe/a17912.html#a4a387df07c88144288c4327ce86b730a", null ]
 ];

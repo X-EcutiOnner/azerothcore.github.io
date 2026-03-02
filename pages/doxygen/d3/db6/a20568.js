@@ -1,11 +1,5 @@
 var a20568 =
 [
-    [ "npc_ulduar_proximity_mine", "d3/db6/a20568.html#ab9ce5859157d12f4577eda515a183ef6", null ],
-    [ "AttackStart", "d3/db6/a20568.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
-    [ "CanAIAttack", "d3/db6/a20568.html#a18311072271a18b279c5bf21f7da2482", null ],
-    [ "MoveInLineOfSight", "d3/db6/a20568.html#a6a406f8098dac7038173f51e9f85a79b", null ],
-    [ "UpdateAI", "d3/db6/a20568.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
-    [ "exploded", "d3/db6/a20568.html#a3e291553aa853ebb5ff002599c68376c", null ],
-    [ "timer", "d3/db6/a20568.html#a8c69d475914fb11c149fea527d31f758", null ],
-    [ "timer2", "d3/db6/a20568.html#a8feed3514cc188da930ef45bbaa2ff50", null ]
+    [ "achievement_kologarn_rubble_and_roll", "d3/db6/a20568.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
+    [ "OnCheck", "d3/db6/a20568.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
 ];

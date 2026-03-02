@@ -1,6 +1,7 @@
 var a27316 =
 [
-    [ "HandleAfterCast", "da/d47/a27316.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "da/d47/a27316.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "da/d47/a27316.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "HandleProc", "da/d47/a27316.html#a297383c7eae5cc846be4a0f9e28c7e52", null ],
+    [ "PrepareAuraScript", "da/d47/a27316.html#a00a68329e8ab03cb5e38b1ad85932a57", null ],
+    [ "Register", "da/d47/a27316.html#a813cb759ccbe0464334890008d5e5a7a", null ],
+    [ "Validate", "da/d47/a27316.html#a41590ae5cb30b97cdf1db02266dd2c7c", null ]
 ];

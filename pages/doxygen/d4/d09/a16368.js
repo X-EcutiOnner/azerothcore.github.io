@@ -1,21 +1,9 @@
 var a16368 =
 [
-    [ "boss_krik_thirAI", "d4/d09/a16368.html#a92a2b2089c890901cd438c8d8ea432c7", null ],
-    [ "CallWatcher", "d4/d09/a16368.html#aad620a3c305abaf29ed23259d5a06401", null ],
-    [ "DoAction", "d4/d09/a16368.html#af62b22ef531ee79805e80f2ee54af473", null ],
-    [ "GetData", "d4/d09/a16368.html#adcca5f21a596ffae3c50f102c4698c4e", null ],
-    [ "IsInFrenzy", "d4/d09/a16368.html#a9b8453fcfe57b9a87749529002d3879a", null ],
-    [ "JustDied", "d4/d09/a16368.html#ab4a576f9746f7ade8f6b8f8c08795433", null ],
-    [ "JustEngagedWith", "d4/d09/a16368.html#aa99c241641fc7e94412d08bebed07475", null ],
-    [ "KilledUnit", "d4/d09/a16368.html#aad554ec61a0c6ad9cedf6d7d1b33ed1d", null ],
-    [ "MoveInLineOfSight", "d4/d09/a16368.html#a6c72cebac0e09f66bf0a60cdc328aa4d", null ],
-    [ "Reset", "d4/d09/a16368.html#a613441fcb7bd851a03729be84d27650c", null ],
-    [ "SpellHitTarget", "d4/d09/a16368.html#ac638264dbb81c0ba004246c0801c4b85", null ],
-    [ "SummonedCreatureDies", "d4/d09/a16368.html#acb7b45fbe3a736ad65b0a2556ead40ae", null ],
-    [ "SummonWatcher", "d4/d09/a16368.html#a9c0e1d97ef039a5b607a54a856f4f51c", null ],
-    [ "_canTalk", "d4/d09/a16368.html#a6031d8dd33d1f1a312bf5212b34d2bd0", null ],
-    [ "_firstCall", "d4/d09/a16368.html#a069ed0a0de9d467bb0a9aa0839d510f4", null ],
-    [ "_initTalk", "d4/d09/a16368.html#a68a4994c750979b91e46160b0cba77b4", null ],
-    [ "_minionInCombat", "d4/d09/a16368.html#ac07e8e45693b3239bc061e5500880833", null ],
-    [ "_minionsEngaged", "d4/d09/a16368.html#acf2408ba05ee1546f2d1853096c9e2fc", null ]
+    [ "npc_anub_ar_crusher", "d4/d09/a16368.html#a0520d606e8f8fa6f2c1262e025ea2c1c", null ],
+    [ "DamageTaken", "d4/d09/a16368.html#a4fa72bcf368ddc6e8bb4cd986fa50cd2", null ],
+    [ "DoEngagedWith", "d4/d09/a16368.html#a70238afe4b9ae58b99067581db6734c8", null ],
+    [ "DoEvent", "d4/d09/a16368.html#ac20630563a1869f56f538968cb8bb1ea", null ],
+    [ "JustDied", "d4/d09/a16368.html#a66dc8cb3dc096dc0aa5b464879773df7", null ],
+    [ "_hadFrenzy", "d4/d09/a16368.html#a0e3c9d35a654e82d5f845b820de2a9a1", null ]
 ];

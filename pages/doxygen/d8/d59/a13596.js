@@ -1,7 +1,11 @@
 var a13596 =
 [
-    [ "HandleScript", "d8/d59/a13596.html#ab705220b48be16090107135f9e2272cf", null ],
-    [ "PrepareSpellScript", "d8/d59/a13596.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
-    [ "Register", "d8/d59/a13596.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
-    [ "Validate", "d8/d59/a13596.html#ad1d90693a427a52fa728e5ae455932a3", null ]
+    [ "npc_scholomance_occultistAI", "d8/d59/a13596.html#af78103d07aef427130d26b4aed5e5ae3", null ],
+    [ "JustEngagedWith", "d8/d59/a13596.html#a03f0f6d015065c5afcf025dc44dc6aa8", null ],
+    [ "JustReachedHome", "d8/d59/a13596.html#ac4bb0aa4009191a36dd4cebb45fd2ad5", null ],
+    [ "SelectUnitCasting", "d8/d59/a13596.html#adde187b89a74a57aac823e4eb19bfeed", null ],
+    [ "UpdateAI", "d8/d59/a13596.html#ab02edf780adb553b2314045d8effa277", null ],
+    [ "events", "d8/d59/a13596.html#a1ee55a572462a1e832a5b89c8906bd87", null ],
+    [ "instance", "d8/d59/a13596.html#a195fe4d681580c17086a5390fd4f82ba", null ],
+    [ "originalDisplayId", "d8/d59/a13596.html#a4dcc895fef36cd1e9ca8cf38bdc2f6c4", null ]
 ];

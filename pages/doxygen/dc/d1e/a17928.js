@@ -1,7 +1,5 @@
 var a17928 =
 [
-    [ "HandleScript", "dc/d1e/a17928.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
-    [ "PrepareSpellScript", "dc/d1e/a17928.html#a8f668b88a41585cabeace574b30b4f85", null ],
-    [ "Register", "dc/d1e/a17928.html#a8fae161a91fae297b99079bde218ced8", null ],
-    [ "Validate", "dc/d1e/a17928.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
+    [ "achievement_ive_gone_and_made_a_mess", "dc/d1e/a17928.html#a0e71ea3afae02176f81231e51155c038", null ],
+    [ "OnCheck", "dc/d1e/a17928.html#a638cead986783523c7c35ecb9d885b11", null ]
 ];

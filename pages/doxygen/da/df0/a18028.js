@@ -1,6 +1,5 @@
 var a18028 =
 [
-    [ "npc_gunship_boarding_add_realAI", "da/df0/a18028.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
-    [ "UpdateAI", "da/df0/a18028.html#a33ac355c8f61907574a0736a24cbee82", null ],
-    [ "_events", "da/df0/a18028.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
+    [ "npc_zafod_boomboxAI", "da/df0/a18028.html#a6540d8f5787ce1da211123721ef659f3", null ],
+    [ "sGossipSelect", "da/df0/a18028.html#a6378748a168e4e668f696bd9c6dfbc31", null ]
 ];

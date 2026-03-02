@@ -1,6 +1,5 @@
 var a28712 =
 [
-    [ "categoryMask", "d8/de8/a28712.html#abd8816e5dda7bda455ccd6932647c4be", null ],
-    [ "categoryType", "d8/de8/a28712.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
-    [ "ID", "d8/de8/a28712.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
+    [ "ID", "d8/de8/a28712.html#a4a79da5825cf01d38d6ab9d98e033964", null ],
+    [ "parentCategory", "d8/de8/a28712.html#a705e301dff461a8d7aefdc6fb29d39cc", null ]
 ];

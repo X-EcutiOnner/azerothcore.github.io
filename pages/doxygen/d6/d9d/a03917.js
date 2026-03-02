@@ -1,5 +1,6 @@
 var a03917 =
 [
-    [ "ServerMailReward", "d0/d48/a28624.html", "d0/d48/a28624" ],
-    [ "AddSC_server_mail", "d6/d9d/a03917.html#a8c20fa2f42eb423e39f2aaafe8fadafc", null ]
+    [ "DataHeader", "d6/d9d/a03917.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "ScarletMonasteryScriptName", "d6/d9d/a03917.html#ac64beb71a88e1265849782b79406b585", null ],
+    [ "GetScarletMonasteryAI", "d6/d9d/a03917.html#aecdcabc87b1cc31996b702fd11416f35", null ]
 ];

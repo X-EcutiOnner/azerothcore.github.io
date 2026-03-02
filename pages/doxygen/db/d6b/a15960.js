@@ -1,13 +1,6 @@
 var a15960 =
 [
-    [ "npc_shenthulAI", "db/d6b/a15960.html#ae056474022c27be5565bf018a1b56f0b", null ],
-    [ "JustEngagedWith", "db/d6b/a15960.html#acb202ef530bc11ea807f580ff5dfc621", null ],
-    [ "ReceiveEmote", "db/d6b/a15960.html#ab2ddc3e447b36cb0fceffdaff0fca592", null ],
-    [ "Reset", "db/d6b/a15960.html#af077e96eb8bf89af2d6eb79907444a17", null ],
-    [ "UpdateAI", "db/d6b/a15960.html#a2ae643c11c6ea3808be922de96a24e8f", null ],
-    [ "CanEmote", "db/d6b/a15960.html#a920209c374e611e96347d209337c044f", null ],
-    [ "CanTalk", "db/d6b/a15960.html#a82ea8d2ee50538135add120be7616f86", null ],
-    [ "PlayerGUID", "db/d6b/a15960.html#a4b262388aca789d19231426a8cb73379", null ],
-    [ "ResetTimer", "db/d6b/a15960.html#a475a141d639f0136ac943e6afb1ecd15", null ],
-    [ "SaluteTimer", "db/d6b/a15960.html#ae76b4bbde77b6029a788abfbbbe84df8", null ]
+    [ "npc_great_bear_spirit", "db/d6b/a15960.html#a141470a3623aa1152d3505661f1532c8", null ],
+    [ "OnGossipHello", "db/d6b/a15960.html#a2307b8d56fc117d918adc9814fa86f8f", null ],
+    [ "OnGossipSelect", "db/d6b/a15960.html#aae026f4cf8b0de61d36a841dcfdbd92e", null ]
 ];

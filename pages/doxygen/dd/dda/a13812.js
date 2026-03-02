@@ -1,11 +1,8 @@
 var a13812 =
 [
-    [ "npc_kalecgos_kj", "dd/dda/a13812.html#aae30bdf82ff333ef02a1981717c54ea4", null ],
-    [ "DoAction", "dd/dda/a13812.html#a6b2743b9b6bfb4d687e54412fe66c17f", null ],
-    [ "JustSummoned", "dd/dda/a13812.html#acf92559a2b06b8c9cce5c4887dd1316b", null ],
-    [ "Reset", "dd/dda/a13812.html#ab3cd4229999bddc16fe8152acb187111", null ],
-    [ "UpdateAI", "dd/dda/a13812.html#a8a029eb2cf7fd96ed324d93f4d66a30d", null ],
-    [ "events", "dd/dda/a13812.html#ab5cc58e293e20172558e15fa28670633", null ],
-    [ "instance", "dd/dda/a13812.html#a5a6f22c34578ccb7a5c1696d8ed342d6", null ],
-    [ "summons", "dd/dda/a13812.html#a57af12b97c6e250a50283b224bc5cb6f", null ]
+    [ "FilterTargets", "dd/dda/a13812.html#a3aac5e364d04a4a086aaa911051417d5", null ],
+    [ "HandleDummy", "dd/dda/a13812.html#aa0705dee3edeca7b61f82581f367e94a", null ],
+    [ "PrepareSpellScript", "dd/dda/a13812.html#a1efa036eac25d789850849dc1b209379", null ],
+    [ "Register", "dd/dda/a13812.html#a656b512d5bef657004a72acbf7875760", null ],
+    [ "Validate", "dd/dda/a13812.html#a33534d9fd70af99bbde1e4a908d22084", null ]
 ];

@@ -1,6 +1,7 @@
 var a12852 =
 [
-    [ "boss_golemaggAI", "d4/dde/a12856.html", "d4/dde/a12856" ],
-    [ "boss_golemagg", "d8/d51/a12852.html#a66720a143f8987dfa5d6e2acb7cd73cd", null ],
-    [ "GetAI", "d8/d51/a12852.html#a6899f30975e0984306feabe47bbc8317", null ]
+    [ "HandleAfterApply", "d8/d51/a12852.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
+    [ "HandleAfterRemove", "d8/d51/a12852.html#a7970613f1668294f29f61c1f10a9ba37", null ],
+    [ "PrepareAuraScript", "d8/d51/a12852.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
+    [ "Register", "d8/d51/a12852.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
 ];

@@ -1,5 +1,4 @@
 var a01814 =
 [
-    [ "WorldPackets::LFG::LFGJoin", "de/d62/a11112.html", "de/d62/a11112" ],
-    [ "WorldPackets::LFG::LFGLeave", "de/dba/a11116.html", "de/dba/a11116" ]
+    [ "sWorldUpdateTime", "d6/dfc/a01814.html#aa415d38dafe4c1c78c951de9fed8393b", null ]
 ];

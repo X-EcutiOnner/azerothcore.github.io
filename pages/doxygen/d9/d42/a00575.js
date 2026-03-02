@@ -1,4 +1,26 @@
 var a00575 =
 [
-    [ "FollowerReference", "d2/d5d/a10136.html", "d2/d5d/a10136" ]
+    [ "MissileBarrageTest", "d0/d77/a29784.html", "d0/d77/a29784" ],
+    [ "CalculateEffectiveProcRate", "d9/d42/a00575.html#ac2dda4615e476c49664c332dfe3e309b", null ],
+    [ "SimulateMissileBarrageCheckProc", "d9/d42/a00575.html#aefcad72982a8fa6f771f8bef56c3070c", null ],
+    [ "TEST_F", "d9/d42/a00575.html#a7adabded91ba82360d8d9b6b1d5132ea", null ],
+    [ "TEST_F", "d9/d42/a00575.html#a8fa33be2273b532d781422d25e8b6672", null ],
+    [ "TEST_F", "d9/d42/a00575.html#a06d413749aa2d93773f002946e384e45", null ],
+    [ "TEST_F", "d9/d42/a00575.html#a5db2f0c8c8e20002a5c60de95fbecda3", null ],
+    [ "TEST_F", "d9/d42/a00575.html#a70c0b2737c1badc539277422564cad49", null ],
+    [ "TEST_F", "d9/d42/a00575.html#a9c89bbafdb493683c8e42950deff3582", null ],
+    [ "TEST_F", "d9/d42/a00575.html#a9d499aeaaf23a19ea19dd0175bc5df38", null ],
+    [ "TEST_F", "d9/d42/a00575.html#ab4a6da10f775c2bfa3a120cf6ec09973", null ],
+    [ "TEST_F", "d9/d42/a00575.html#acd2cc80be83d1ce20f5f41d590dcbd82", null ],
+    [ "TEST_F", "d9/d42/a00575.html#a574495213ded418bae43ebae94186bd0", null ],
+    [ "TEST_F", "d9/d42/a00575.html#ab39746f7c4ec98445dc62c1bc5cb7265", null ],
+    [ "TEST_F", "d9/d42/a00575.html#aaae02d3218c11e06e93c5ee51f073546", null ],
+    [ "TEST_F", "d9/d42/a00575.html#aeab0a3a6edde33d54feef5dd9ceea629", null ],
+    [ "TEST_F", "d9/d42/a00575.html#ab581bb40fc8c18dc8273db253cad2d44", null ],
+    [ "TEST_F", "d9/d42/a00575.html#ad0e7264881bbb5fe5752d47c56930961", null ],
+    [ "ARCANE_BARRAGE", "d9/d42/a00575.html#abfd925917520301832811c8b3b1b8ae3", null ],
+    [ "ARCANE_BLAST", "d9/d42/a00575.html#a3cf9b20a3fe729ee462b2431e9ba830f", null ],
+    [ "ARCANE_MISSILES", "d9/d42/a00575.html#ab9ece6fbb0862f8f3dce9aa99843c805", null ],
+    [ "FIREBALL", "d9/d42/a00575.html#ae58d0c097ed2d1cccbf272f42b835d52", null ],
+    [ "FROSTFIRE_BOLT", "d9/d42/a00575.html#ae8bd1511afd5de6e1475292711b50296", null ]
 ];

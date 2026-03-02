@@ -1,9 +1,26 @@
 var a29864 =
 [
-    [ "WDT_file", "de/d2c/a29864.html#afa32849d31abde3cb2c9f3b558816368", null ],
-    [ "~WDT_file", "de/d2c/a29864.html#a29bf710b8346204eb848017450afebe1", null ],
-    [ "free", "de/d2c/a29864.html#aee6c7e1e402cf986e754753c5e8aee72", null ],
-    [ "prepareLoadedData", "de/d2c/a29864.html#add675f96f010e67ca1df01b029c9ebfb", null ],
-    [ "main", "de/d2c/a29864.html#a89ddf5d1527ac16a5d05790769d266b3", null ],
-    [ "mphd", "de/d2c/a29864.html#a1d216a266e5e6390e9bd2e02c9d3c7f2", null ]
+    [ "getMCIN", "de/d2c/a29864.html#a5014297529c070757b1a3672f679b83f", null ],
+    [ "getMFBO", "de/d2c/a29864.html#a28a247f0addfd93d3eeed190516e515a", null ],
+    [ "getMH2O", "de/d2c/a29864.html#a6672516f9b82b4dc33e28a5b9fda7000", null ],
+    [ "prepareLoadedData", "de/d2c/a29864.html#aeae95bb7dbb0d46e68db52fb2e212a80", null ],
+    [ "data1", "de/d2c/a29864.html#aeb0dacd46404505504aa4c9cd868838a", null ],
+    [ "data2", "de/d2c/a29864.html#a1996770c42791100aa0cbef91c78fcd2", null ],
+    [ "data3", "de/d2c/a29864.html#a4936a7d0e5ad64f4f75f6550418f80e6", null ],
+    [ "data4", "de/d2c/a29864.html#a6842806c1317e9be2a2cb5cbeeb0580d", null ],
+    [ "data5", "de/d2c/a29864.html#ac5bf3376c3e870ee129acc562588e4d5", null ],
+    [ "fcc", "de/d2c/a29864.html#a5d1b23b9a55361516d4dedbef5886d52", null ],
+    [ "fcc_txt", "de/d2c/a29864.html#a73087fbf3b4ff49036f3d3091c6125bc", null ],
+    [ "flags", "de/d2c/a29864.html#a04fe5874241fd7b868f1d3f5caf7d257", null ],
+    [ "offsDoodsDef", "de/d2c/a29864.html#a62270e73c2fd69dcfd38a4073de20fbc", null ],
+    [ "offsMapObejcts", "de/d2c/a29864.html#ad80da67bf16b98bba014d487da757492", null ],
+    [ "offsMapObejctsIds", "de/d2c/a29864.html#ab1c6fc91e4ac6954f959cb26502b88ce", null ],
+    [ "offsMCIN", "de/d2c/a29864.html#aa89f72d475714b226ed737b43eb8f6fc", null ],
+    [ "offsMFBO", "de/d2c/a29864.html#adc0706b41b60a36a26fea083d0eec379", null ],
+    [ "offsMH2O", "de/d2c/a29864.html#a677d2fc59ea16c6be991d2f1a9365de6", null ],
+    [ "offsModels", "de/d2c/a29864.html#a91801010d9fd98048e02a6dca36eefed", null ],
+    [ "offsModelsIds", "de/d2c/a29864.html#a0e5716fc4586c41f07103baa84c67388", null ],
+    [ "offsObjectsDef", "de/d2c/a29864.html#af3204f96aaab52969f97c56fc8207e1f", null ],
+    [ "offsTex", "de/d2c/a29864.html#abb5f6d7851880d74c6a645fe797cb355", null ],
+    [ "size", "de/d2c/a29864.html#a23b9fac4ccbdcae862135fa3cbe3061d", null ]
 ];

@@ -1,7 +1,5 @@
 var a23572 =
 [
-    [ "FilterTargets", "d1/de0/a23572.html#a834163302ff10875227806d7d4945988", null ],
-    [ "HandleScriptEffect", "d1/de0/a23572.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
-    [ "PrepareSpellScript", "d1/de0/a23572.html#a079e72d57550e03956088b4be1d11422", null ],
-    [ "Register", "d1/de0/a23572.html#abd4e0f268652652d3828ba8d350de849", null ]
+    [ "spellId", "d1/de0/a23572.html#acc63d01d5095adef28b9746c520be973", null ],
+    [ "textId", "d1/de0/a23572.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
 ];

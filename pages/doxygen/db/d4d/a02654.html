@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Spells/spell_mage.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/database/Updater/DBUpdater.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,533 +105,75 @@ $(document).ready(function(){initNavTree('db/d4d/a02654.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">spell_mage.cpp File Reference</div></div>
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">DBUpdater.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Pet.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellAuraEffects.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">TemporarySummon.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">DBUpdater.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">BuiltInConfig.h</a>&quot;</code><br />
+<code>#include &quot;Config.h&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DatabaseLoader.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">StartProcess.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">UpdateFetcher.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">QueryResult.h</a>&quot;</code><br />
+<code>#include &lt;filesystem&gt;</code><br />
+<code>#include &lt;fstream&gt;</code><br />
+<code>#include &lt;iostream&gt;</code><br />
+<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dbe/a26380.html">spell_mage_arcane_blast</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d1f/a26384.html">spell_mage_burning_determination</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d03/a26388.html">spell_mage_molten_armor</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d8b/a26392.html">spell_mage_mirror_image</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd1/a26396.html">spell_mage_burnout</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/da8/a26400.html">spell_mage_burnout_trigger</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/db1/a26404.html">spell_mage_pet_scaling</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/df2/a26408.html">spell_mage_brain_freeze</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d85/a26412.html">spell_mage_glyph_of_eternal_water</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dc4/a26416.html">spell_mage_combustion_proc</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dea/a26420.html">spell_mage_incanters_absorbtion_base_AuraScript</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d51/a26424.html">spell_mage_blast_wave</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/de6/a26428.html">spell_mage_cold_snap</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d2c/a26432.html">spell_mage_fire_frost_ward</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3b/a26436.html">spell_mage_focus_magic</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dd4/a26440.html">spell_mage_ice_barrier_aura</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d23/a26444.html">spell_mage_ice_barrier</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d4c/a26448.html">spell_mage_ignite</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/def/a26452.html">spell_mage_living_bomb</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d88/a26456.html">spell_mage_mana_shield</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dc7/a26460.html">spell_mage_master_of_elements</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d94/a26464.html">spell_mage_polymorph_cast_visual</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/db2/a26468.html">spell_mage_summon_water_elemental</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1b/a26472.html">spell_mage_fingers_of_frost</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dad/a26476.html">spell_mage_arcane_potency</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d92/a26480.html">spell_mage_combustion</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd9/a26484.html">spell_mage_empowered_fire</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d43/a26488.html">spell_mage_gen_extra_effects</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de9/a26492.html">spell_mage_glyph_of_ice_block</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/de2/a26496.html">spell_mage_glyph_of_icy_veins</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d26/a26500.html">spell_mage_glyph_of_polymorph</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd9/a26504.html">spell_mage_hot_streak</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d9c/a26508.html">spell_mage_imp_blizzard</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dd6/a26512.html">spell_mage_imp_mana_gems</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d41/a26516.html">spell_mage_missile_barrage</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d9d/a26520.html">spell_mage_magic_absorption</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d10/a26524.html">spell_mage_blazing_speed</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dde/a26528.html">spell_mage_arcane_missiles</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d48/a26532.html">spell_mage_dragon_breath</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d55/a26536.html">spell_mage_frostfire_bolt</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d33/a26540.html">spell_mage_ice_block</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d46/a26544.html">spell_mage_missile_barrage_proc</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:ab25cd6fd3bfda5736fd43f449c1b5124"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124">MageSpells</a> { <br />
-&#160;&#160;<a class="el" href="../../d1/de2/a03983.html#ab25cd6fd3bfda5736fd43f449c1b5124a490a27b1ed91b6f3f3a8cd41b5ded635">SPELL_MAGE_CLONE_ME</a> = 45204
-, <br />
-&#160;&#160;<a class="el" href="../../d1/de2/a03983.html#ab25cd6fd3bfda5736fd43f449c1b5124a73b29ac6b8c782654ff6d4e43542124f">SPELL_MAGE_MASTERS_THREAT_LIST</a> = 58838
-, <br />
-&#160;&#160;<a class="el" href="../../d1/de2/a03983.html#ab25cd6fd3bfda5736fd43f449c1b5124a0699159f7383b3918ad087631975dbd8">SPELL_PET_HIT_SCALING</a> = 61013
-, <br />
-&#160;&#160;<a class="el" href="../../d1/de2/a03983.html#ab25cd6fd3bfda5736fd43f449c1b5124a91857de5d74978531a10d32c8fc8058f">SPELL_SUMMON_MIRROR_IMAGE1</a> = 58831
-, <br />
-&#160;&#160;<a class="el" href="../../d1/de2/a03983.html#ab25cd6fd3bfda5736fd43f449c1b5124ae877fb36424c6d02560270fbaee8f426">SPELL_SUMMON_MIRROR_IMAGE2</a> = 58833
-, <br />
-&#160;&#160;<a class="el" href="../../d1/de2/a03983.html#ab25cd6fd3bfda5736fd43f449c1b5124ad95b243bb8c22a972eec724b562abb75">SPELL_SUMMON_MIRROR_IMAGE3</a> = 58834
-, <br />
-&#160;&#160;<a class="el" href="../../d1/de2/a03983.html#ab25cd6fd3bfda5736fd43f449c1b5124adfa0626e20fe30b8c54819861210e763">SPELL_SUMMON_MIRROR_IMAGE_GLYPH</a> = 65047
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a8f879d1ddabf7a5890548fe923b0b734">SPELL_MAGE_ARCANE_MISSILES_R1</a> = 5143
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124aeb365610a1f64be024535322d600efa9">SPELL_MAGE_BLAZING_SPEED</a> = 31643
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124af902c6055a7c4d321d31a8d6030e45b7">SPELL_MAGE_MAGIC_ABSORPTION_MANA</a> = 29442
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a6581435e60a8ed6d2ef11fa4ec9de9da">SPELL_MAGE_BURNOUT_TRIGGER</a> = 44450
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a220f2bbe2ba928299f8e9cd759af68fc">SPELL_MAGE_IMPROVED_BLIZZARD_CHILLED</a> = 12486
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a599ac9067a5b4cbe42ea7557e831fc3f">SPELL_MAGE_COMBUSTION</a> = 11129
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124ac5fecbef5a0690390f99f1b70727566b">SPELL_MAGE_COMBUSTION_PROC</a> = 28682
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a61b3456ff5a5cdb94c57c0be96c56f33">SPELL_MAGE_COLD_SNAP</a> = 11958
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a75e05026759d9b14b7d5cdbf1ce6a234">SPELL_MAGE_FOCUS_MAGIC_PROC</a> = 54648
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a0c5b2cb0579c478b7f36a5aee1a45b6e">SPELL_MAGE_FROST_WARDING_R1</a> = 11189
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124af5e1b0ad1e4f78d3b102c8061155459e">SPELL_MAGE_FROST_WARDING_TRIGGERED</a> = 57776
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a422f167d55affa065359ac04e732b816">SPELL_MAGE_INCANTERS_ABSORBTION_R1</a> = 44394
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124acec4a9ecc4023e9709049e07f502ba83">SPELL_MAGE_INCANTERS_ABSORBTION_TRIGGERED</a> = 44413
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a744a819410a70bdedcaa68aeeead2d04">SPELL_MAGE_IGNITE</a> = 12654
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a886a48f0a08f0ae2d45d535ce542dab8">SPELL_MAGE_MASTER_OF_ELEMENTS_ENERGIZE</a> = 29077
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a3194beb3a492322f101edc2bb58cd379">SPELL_MAGE_PERMAFROST_AURA</a> = 68391
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124ab185e7b3efc927ff579a848f59a4dec6">SPELL_MAGE_SQUIRREL_FORM</a> = 32813
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a7f4029f76569babf96dae83a4d33f32b">SPELL_MAGE_GIRAFFE_FORM</a> = 32816
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124ad5a7db4b9c62c2e4531cc589ea6b050f">SPELL_MAGE_SERPENT_FORM</a> = 32817
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124aa36c6d835be3d18c0a9a146f309de5dc">SPELL_MAGE_DRAGONHAWK_FORM</a> = 32818
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a1d25c71ce529713654e90eede8da5dd2">SPELL_MAGE_WORGEN_FORM</a> = 32819
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124af6ea5812f5a9177e7bbc22f292e13983">SPELL_MAGE_SHEEP_FORM</a> = 32820
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124adf14fd7122c8f6ab97c65e5ff8b45ba3">SPELL_MAGE_GLYPH_OF_ETERNAL_WATER</a> = 70937
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124abbf4a8698fe7379264db5729ce10440f">SPELL_MAGE_SUMMON_WATER_ELEMENTAL_PERMANENT</a> = 70908
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a031b2cacce733305e8bbba4ec69cc276">SPELL_MAGE_SUMMON_WATER_ELEMENTAL_TEMPORARY</a> = 70907
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124ac553ca96324337663da102edbf50b474">SPELL_MAGE_GLYPH_OF_BLAST_WAVE</a> = 62126
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a8361e4d18a35c3a0b98379c6186a12ad">SPELL_MAGE_FINGERS_OF_FROST</a> = 44543
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a36a7972054109f8e8dac189a18a1c080">SPELL_MAGE_FINGERS_OF_FROST_AURASTATE_AURA</a> = 44544
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a2a2ca945a40ec79572aafcd10c618301">SPELL_MAGE_ARCANE_POTENCY_RANK_1</a> = 57529
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a8bd812deba6aa600a0beac911df1cf76">SPELL_MAGE_ARCANE_POTENCY_RANK_2</a> = 57531
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a6f6a4f2fd7996e9c293e9eccfad8270b">SPELL_MAGE_EMPOWERED_FIRE_PROC</a> = 67545
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a0bd50a82e2ce0fd7c9ad1b10b6e36f96">SPELL_MAGE_T10_2P_BONUS</a> = 70752
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124ac26405c482abfe4a0ddc7bfb742617ac">SPELL_MAGE_T10_2P_BONUS_EFFECT</a> = 70753
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a3a5440f423904ec6caa228ceff573164">SPELL_MAGE_T8_4P_BONUS</a> = 64869
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124ae7dcf12a2bc77be4e2fc92b623d4df21">SPELL_MAGE_HOT_STREAK_PROC</a> = 48108
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a6f1ed3ca8cab6eb4ec6bb38f7d33b560">SPELL_MAGE_CHILLED_R1</a> = 12484
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a882c0556bd30143c62679328758fb233">SPELL_MAGE_CHILLED_R2</a> = 12485
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124aa8e771a8342a23774f4fd862f7426204">SPELL_MAGE_CHILLED_R3</a> = 12486
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a1b0d66fd0a5f407d767b20b8a9ab5564">SPELL_MAGE_MANA_SURGE</a> = 37445
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124af3bf047796ac4d98c1b829a73aca4786">SPELL_MAGE_FROST_NOVA</a> = 122
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124ab772f9a168d7112d3e4cbc4109e024bb">SPELL_MAGE_LIVING_BOMB_R1</a> = 44457
-<br />
- }</td></tr>
-<tr class="separator:ab25cd6fd3bfda5736fd43f449c1b5124"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a926dc2c0d9908e3fd08efcd7595ffb98"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4d/a02654.html#a926dc2c0d9908e3fd08efcd7595ffb98">MageSpellIcons</a> { <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a926dc2c0d9908e3fd08efcd7595ffb98a1babcf3c3f4613957891c79dea11a606">MAGE_ICON_MAGIC_ABSORPTION</a> = 459
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a926dc2c0d9908e3fd08efcd7595ffb98ad0724d86e620e148232a50ee041f349a">MAGE_ICON_CLEARCASTING</a> = 212
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a926dc2c0d9908e3fd08efcd7595ffb98adfd47aa6c95da3fd27dd00a307308ce2">MAGE_ICON_PRESENCE_OF_MIND</a> = 139
-, <br />
-&#160;&#160;<a class="el" href="../../db/d4d/a02654.html#a926dc2c0d9908e3fd08efcd7595ffb98aa9b67de1dbc9c90fc19534aedca87967">MAGE_ICON_LIVING_BOMB</a> = 3000
-<br />
- }</td></tr>
-<tr class="separator:a926dc2c0d9908e3fd08efcd7595ffb98"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae65dd3851c1d875d7169727f6decf29a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4d/a02654.html#ae65dd3851c1d875d7169727f6decf29a">SilvermoonPolymorph</a> { <a class="el" href="../../db/d4d/a02654.html#ae65dd3851c1d875d7169727f6decf29aa4c179df56422b04e0db366c296ebed25">NPC_AUROSALIA</a> = 18744
- }</td></tr>
-<tr class="separator:ae65dd3851c1d875d7169727f6decf29a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a504d82c8e95f93fa88a54d34e919ed57"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4d/a02654.html#a504d82c8e95f93fa88a54d34e919ed57">AddSC_mage_spell_scripts</a> ()</td></tr>
-<tr class="separator:a504d82c8e95f93fa88a54d34e919ed57"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a16a33693c8570aff221401b100547fb7"><td class="memItemLeft" align="right" valign="top">template class <a class="el" href="../../d6/d1a/a00485.html#a4239bd747d930d5084e8f6e489980585">AC_DATABASE_API</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4d/a02654.html#a16a33693c8570aff221401b100547fb7">DBUpdater&lt; LoginDatabaseConnection &gt;</a></td></tr>
+<tr class="separator:a16a33693c8570aff221401b100547fb7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ace05c45d1df6cb7f16487ef1aa8bc9f7"><td class="memItemLeft" align="right" valign="top">template class <a class="el" href="../../d6/d1a/a00485.html#a4239bd747d930d5084e8f6e489980585">AC_DATABASE_API</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4d/a02654.html#ace05c45d1df6cb7f16487ef1aa8bc9f7">DBUpdater&lt; WorldDatabaseConnection &gt;</a></td></tr>
+<tr class="separator:ace05c45d1df6cb7f16487ef1aa8bc9f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a753e207671f7af3815a056247f2de3ce"><td class="memItemLeft" align="right" valign="top">template class <a class="el" href="../../d6/d1a/a00485.html#a4239bd747d930d5084e8f6e489980585">AC_DATABASE_API</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d4d/a02654.html#a753e207671f7af3815a056247f2de3ce">DBUpdater&lt; CharacterDatabaseConnection &gt;</a></td></tr>
+<tr class="separator:a753e207671f7af3815a056247f2de3ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a926dc2c0d9908e3fd08efcd7595ffb98" name="a926dc2c0d9908e3fd08efcd7595ffb98"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a926dc2c0d9908e3fd08efcd7595ffb98">&#9670;&#160;</a></span>MageSpellIcons</h2>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="a753e207671f7af3815a056247f2de3ce" name="a753e207671f7af3815a056247f2de3ce"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a753e207671f7af3815a056247f2de3ce">&#9670;&#160;</a></span>DBUpdater&lt; CharacterDatabaseConnection &gt;</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../db/d4d/a02654.html#a926dc2c0d9908e3fd08efcd7595ffb98">MageSpellIcons</a></td>
+          <td class="memname">template class <a class="el" href="../../d6/d1a/a00485.html#a4239bd747d930d5084e8f6e489980585">AC_DATABASE_API</a> <a class="el" href="../../d6/d09/a06120.html">DBUpdater</a>&lt; <a class="el" href="../../df/d42/a05944.html">CharacterDatabaseConnection</a> &gt;</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a926dc2c0d9908e3fd08efcd7595ffb98a1babcf3c3f4613957891c79dea11a606" name="a926dc2c0d9908e3fd08efcd7595ffb98a1babcf3c3f4613957891c79dea11a606"></a>MAGE_ICON_MAGIC_ABSORPTION&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a926dc2c0d9908e3fd08efcd7595ffb98ad0724d86e620e148232a50ee041f349a" name="a926dc2c0d9908e3fd08efcd7595ffb98ad0724d86e620e148232a50ee041f349a"></a>MAGE_ICON_CLEARCASTING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a926dc2c0d9908e3fd08efcd7595ffb98adfd47aa6c95da3fd27dd00a307308ce2" name="a926dc2c0d9908e3fd08efcd7595ffb98adfd47aa6c95da3fd27dd00a307308ce2"></a>MAGE_ICON_PRESENCE_OF_MIND&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a926dc2c0d9908e3fd08efcd7595ffb98aa9b67de1dbc9c90fc19534aedca87967" name="a926dc2c0d9908e3fd08efcd7595ffb98aa9b67de1dbc9c90fc19534aedca87967"></a>MAGE_ICON_LIVING_BOMB&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   78</span>{</div>
-<div class="line"><span class="lineno">   79</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a926dc2c0d9908e3fd08efcd7595ffb98a1babcf3c3f4613957891c79dea11a606">MAGE_ICON_MAGIC_ABSORPTION</a>                   = 459,</div>
-<div class="line"><span class="lineno">   80</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a926dc2c0d9908e3fd08efcd7595ffb98ad0724d86e620e148232a50ee041f349a">MAGE_ICON_CLEARCASTING</a>                       = 212,</div>
-<div class="line"><span class="lineno">   81</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a926dc2c0d9908e3fd08efcd7595ffb98adfd47aa6c95da3fd27dd00a307308ce2">MAGE_ICON_PRESENCE_OF_MIND</a>                   = 139,</div>
-<div class="line"><span class="lineno">   82</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#a926dc2c0d9908e3fd08efcd7595ffb98aa9b67de1dbc9c90fc19534aedca87967">MAGE_ICON_LIVING_BOMB</a>                        = 3000</div>
-<div class="line"><span class="lineno">   83</span>};</div>
-<div class="ttc" id="aa02654_html_a926dc2c0d9908e3fd08efcd7595ffb98a1babcf3c3f4613957891c79dea11a606"><div class="ttname"><a href="../../db/d4d/a02654.html#a926dc2c0d9908e3fd08efcd7595ffb98a1babcf3c3f4613957891c79dea11a606">MAGE_ICON_MAGIC_ABSORPTION</a></div><div class="ttdeci">@ MAGE_ICON_MAGIC_ABSORPTION</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:79</div></div>
-<div class="ttc" id="aa02654_html_a926dc2c0d9908e3fd08efcd7595ffb98aa9b67de1dbc9c90fc19534aedca87967"><div class="ttname"><a href="../../db/d4d/a02654.html#a926dc2c0d9908e3fd08efcd7595ffb98aa9b67de1dbc9c90fc19534aedca87967">MAGE_ICON_LIVING_BOMB</a></div><div class="ttdeci">@ MAGE_ICON_LIVING_BOMB</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:82</div></div>
-<div class="ttc" id="aa02654_html_a926dc2c0d9908e3fd08efcd7595ffb98ad0724d86e620e148232a50ee041f349a"><div class="ttname"><a href="../../db/d4d/a02654.html#a926dc2c0d9908e3fd08efcd7595ffb98ad0724d86e620e148232a50ee041f349a">MAGE_ICON_CLEARCASTING</a></div><div class="ttdeci">@ MAGE_ICON_CLEARCASTING</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:80</div></div>
-<div class="ttc" id="aa02654_html_a926dc2c0d9908e3fd08efcd7595ffb98adfd47aa6c95da3fd27dd00a307308ce2"><div class="ttname"><a href="../../db/d4d/a02654.html#a926dc2c0d9908e3fd08efcd7595ffb98adfd47aa6c95da3fd27dd00a307308ce2">MAGE_ICON_PRESENCE_OF_MIND</a></div><div class="ttdeci">@ MAGE_ICON_PRESENCE_OF_MIND</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:81</div></div>
-</div><!-- fragment -->
+
 </div>
 </div>
-<a id="ab25cd6fd3bfda5736fd43f449c1b5124" name="ab25cd6fd3bfda5736fd43f449c1b5124"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab25cd6fd3bfda5736fd43f449c1b5124">&#9670;&#160;</a></span>MageSpells</h2>
+<a id="a16a33693c8570aff221401b100547fb7" name="a16a33693c8570aff221401b100547fb7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a16a33693c8570aff221401b100547fb7">&#9670;&#160;</a></span>DBUpdater&lt; LoginDatabaseConnection &gt;</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d1/de2/a03983.html#ab25cd6fd3bfda5736fd43f449c1b5124">MageSpells</a></td>
+          <td class="memname">template class <a class="el" href="../../d6/d1a/a00485.html#a4239bd747d930d5084e8f6e489980585">AC_DATABASE_API</a> <a class="el" href="../../d6/d09/a06120.html">DBUpdater</a>&lt; <a class="el" href="../../de/db2/a05948.html">LoginDatabaseConnection</a> &gt;</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a490a27b1ed91b6f3f3a8cd41b5ded635" name="ab25cd6fd3bfda5736fd43f449c1b5124a490a27b1ed91b6f3f3a8cd41b5ded635"></a>SPELL_MAGE_CLONE_ME&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a73b29ac6b8c782654ff6d4e43542124f" name="ab25cd6fd3bfda5736fd43f449c1b5124a73b29ac6b8c782654ff6d4e43542124f"></a>SPELL_MAGE_MASTERS_THREAT_LIST&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a0699159f7383b3918ad087631975dbd8" name="ab25cd6fd3bfda5736fd43f449c1b5124a0699159f7383b3918ad087631975dbd8"></a>SPELL_PET_HIT_SCALING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a91857de5d74978531a10d32c8fc8058f" name="ab25cd6fd3bfda5736fd43f449c1b5124a91857de5d74978531a10d32c8fc8058f"></a>SPELL_SUMMON_MIRROR_IMAGE1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124ae877fb36424c6d02560270fbaee8f426" name="ab25cd6fd3bfda5736fd43f449c1b5124ae877fb36424c6d02560270fbaee8f426"></a>SPELL_SUMMON_MIRROR_IMAGE2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124ad95b243bb8c22a972eec724b562abb75" name="ab25cd6fd3bfda5736fd43f449c1b5124ad95b243bb8c22a972eec724b562abb75"></a>SPELL_SUMMON_MIRROR_IMAGE3&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124adfa0626e20fe30b8c54819861210e763" name="ab25cd6fd3bfda5736fd43f449c1b5124adfa0626e20fe30b8c54819861210e763"></a>SPELL_SUMMON_MIRROR_IMAGE_GLYPH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a8f879d1ddabf7a5890548fe923b0b734" name="ab25cd6fd3bfda5736fd43f449c1b5124a8f879d1ddabf7a5890548fe923b0b734"></a>SPELL_MAGE_ARCANE_MISSILES_R1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124aeb365610a1f64be024535322d600efa9" name="ab25cd6fd3bfda5736fd43f449c1b5124aeb365610a1f64be024535322d600efa9"></a>SPELL_MAGE_BLAZING_SPEED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124af902c6055a7c4d321d31a8d6030e45b7" name="ab25cd6fd3bfda5736fd43f449c1b5124af902c6055a7c4d321d31a8d6030e45b7"></a>SPELL_MAGE_MAGIC_ABSORPTION_MANA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a6581435e60a8ed6d2ef11fa4ec9de9da" name="ab25cd6fd3bfda5736fd43f449c1b5124a6581435e60a8ed6d2ef11fa4ec9de9da"></a>SPELL_MAGE_BURNOUT_TRIGGER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a220f2bbe2ba928299f8e9cd759af68fc" name="ab25cd6fd3bfda5736fd43f449c1b5124a220f2bbe2ba928299f8e9cd759af68fc"></a>SPELL_MAGE_IMPROVED_BLIZZARD_CHILLED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a599ac9067a5b4cbe42ea7557e831fc3f" name="ab25cd6fd3bfda5736fd43f449c1b5124a599ac9067a5b4cbe42ea7557e831fc3f"></a>SPELL_MAGE_COMBUSTION&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124ac5fecbef5a0690390f99f1b70727566b" name="ab25cd6fd3bfda5736fd43f449c1b5124ac5fecbef5a0690390f99f1b70727566b"></a>SPELL_MAGE_COMBUSTION_PROC&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a61b3456ff5a5cdb94c57c0be96c56f33" name="ab25cd6fd3bfda5736fd43f449c1b5124a61b3456ff5a5cdb94c57c0be96c56f33"></a>SPELL_MAGE_COLD_SNAP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a75e05026759d9b14b7d5cdbf1ce6a234" name="ab25cd6fd3bfda5736fd43f449c1b5124a75e05026759d9b14b7d5cdbf1ce6a234"></a>SPELL_MAGE_FOCUS_MAGIC_PROC&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a0c5b2cb0579c478b7f36a5aee1a45b6e" name="ab25cd6fd3bfda5736fd43f449c1b5124a0c5b2cb0579c478b7f36a5aee1a45b6e"></a>SPELL_MAGE_FROST_WARDING_R1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124af5e1b0ad1e4f78d3b102c8061155459e" name="ab25cd6fd3bfda5736fd43f449c1b5124af5e1b0ad1e4f78d3b102c8061155459e"></a>SPELL_MAGE_FROST_WARDING_TRIGGERED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a422f167d55affa065359ac04e732b816" name="ab25cd6fd3bfda5736fd43f449c1b5124a422f167d55affa065359ac04e732b816"></a>SPELL_MAGE_INCANTERS_ABSORBTION_R1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124acec4a9ecc4023e9709049e07f502ba83" name="ab25cd6fd3bfda5736fd43f449c1b5124acec4a9ecc4023e9709049e07f502ba83"></a>SPELL_MAGE_INCANTERS_ABSORBTION_TRIGGERED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a744a819410a70bdedcaa68aeeead2d04" name="ab25cd6fd3bfda5736fd43f449c1b5124a744a819410a70bdedcaa68aeeead2d04"></a>SPELL_MAGE_IGNITE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a886a48f0a08f0ae2d45d535ce542dab8" name="ab25cd6fd3bfda5736fd43f449c1b5124a886a48f0a08f0ae2d45d535ce542dab8"></a>SPELL_MAGE_MASTER_OF_ELEMENTS_ENERGIZE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a3194beb3a492322f101edc2bb58cd379" name="ab25cd6fd3bfda5736fd43f449c1b5124a3194beb3a492322f101edc2bb58cd379"></a>SPELL_MAGE_PERMAFROST_AURA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124ab185e7b3efc927ff579a848f59a4dec6" name="ab25cd6fd3bfda5736fd43f449c1b5124ab185e7b3efc927ff579a848f59a4dec6"></a>SPELL_MAGE_SQUIRREL_FORM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a7f4029f76569babf96dae83a4d33f32b" name="ab25cd6fd3bfda5736fd43f449c1b5124a7f4029f76569babf96dae83a4d33f32b"></a>SPELL_MAGE_GIRAFFE_FORM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124ad5a7db4b9c62c2e4531cc589ea6b050f" name="ab25cd6fd3bfda5736fd43f449c1b5124ad5a7db4b9c62c2e4531cc589ea6b050f"></a>SPELL_MAGE_SERPENT_FORM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124aa36c6d835be3d18c0a9a146f309de5dc" name="ab25cd6fd3bfda5736fd43f449c1b5124aa36c6d835be3d18c0a9a146f309de5dc"></a>SPELL_MAGE_DRAGONHAWK_FORM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a1d25c71ce529713654e90eede8da5dd2" name="ab25cd6fd3bfda5736fd43f449c1b5124a1d25c71ce529713654e90eede8da5dd2"></a>SPELL_MAGE_WORGEN_FORM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124af6ea5812f5a9177e7bbc22f292e13983" name="ab25cd6fd3bfda5736fd43f449c1b5124af6ea5812f5a9177e7bbc22f292e13983"></a>SPELL_MAGE_SHEEP_FORM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124adf14fd7122c8f6ab97c65e5ff8b45ba3" name="ab25cd6fd3bfda5736fd43f449c1b5124adf14fd7122c8f6ab97c65e5ff8b45ba3"></a>SPELL_MAGE_GLYPH_OF_ETERNAL_WATER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124abbf4a8698fe7379264db5729ce10440f" name="ab25cd6fd3bfda5736fd43f449c1b5124abbf4a8698fe7379264db5729ce10440f"></a>SPELL_MAGE_SUMMON_WATER_ELEMENTAL_PERMANENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a031b2cacce733305e8bbba4ec69cc276" name="ab25cd6fd3bfda5736fd43f449c1b5124a031b2cacce733305e8bbba4ec69cc276"></a>SPELL_MAGE_SUMMON_WATER_ELEMENTAL_TEMPORARY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124ac553ca96324337663da102edbf50b474" name="ab25cd6fd3bfda5736fd43f449c1b5124ac553ca96324337663da102edbf50b474"></a>SPELL_MAGE_GLYPH_OF_BLAST_WAVE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a8361e4d18a35c3a0b98379c6186a12ad" name="ab25cd6fd3bfda5736fd43f449c1b5124a8361e4d18a35c3a0b98379c6186a12ad"></a>SPELL_MAGE_FINGERS_OF_FROST&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a36a7972054109f8e8dac189a18a1c080" name="ab25cd6fd3bfda5736fd43f449c1b5124a36a7972054109f8e8dac189a18a1c080"></a>SPELL_MAGE_FINGERS_OF_FROST_AURASTATE_AURA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a2a2ca945a40ec79572aafcd10c618301" name="ab25cd6fd3bfda5736fd43f449c1b5124a2a2ca945a40ec79572aafcd10c618301"></a>SPELL_MAGE_ARCANE_POTENCY_RANK_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a8bd812deba6aa600a0beac911df1cf76" name="ab25cd6fd3bfda5736fd43f449c1b5124a8bd812deba6aa600a0beac911df1cf76"></a>SPELL_MAGE_ARCANE_POTENCY_RANK_2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a6f6a4f2fd7996e9c293e9eccfad8270b" name="ab25cd6fd3bfda5736fd43f449c1b5124a6f6a4f2fd7996e9c293e9eccfad8270b"></a>SPELL_MAGE_EMPOWERED_FIRE_PROC&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a0bd50a82e2ce0fd7c9ad1b10b6e36f96" name="ab25cd6fd3bfda5736fd43f449c1b5124a0bd50a82e2ce0fd7c9ad1b10b6e36f96"></a>SPELL_MAGE_T10_2P_BONUS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124ac26405c482abfe4a0ddc7bfb742617ac" name="ab25cd6fd3bfda5736fd43f449c1b5124ac26405c482abfe4a0ddc7bfb742617ac"></a>SPELL_MAGE_T10_2P_BONUS_EFFECT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a3a5440f423904ec6caa228ceff573164" name="ab25cd6fd3bfda5736fd43f449c1b5124a3a5440f423904ec6caa228ceff573164"></a>SPELL_MAGE_T8_4P_BONUS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124ae7dcf12a2bc77be4e2fc92b623d4df21" name="ab25cd6fd3bfda5736fd43f449c1b5124ae7dcf12a2bc77be4e2fc92b623d4df21"></a>SPELL_MAGE_HOT_STREAK_PROC&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a6f1ed3ca8cab6eb4ec6bb38f7d33b560" name="ab25cd6fd3bfda5736fd43f449c1b5124a6f1ed3ca8cab6eb4ec6bb38f7d33b560"></a>SPELL_MAGE_CHILLED_R1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a882c0556bd30143c62679328758fb233" name="ab25cd6fd3bfda5736fd43f449c1b5124a882c0556bd30143c62679328758fb233"></a>SPELL_MAGE_CHILLED_R2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124aa8e771a8342a23774f4fd862f7426204" name="ab25cd6fd3bfda5736fd43f449c1b5124aa8e771a8342a23774f4fd862f7426204"></a>SPELL_MAGE_CHILLED_R3&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124a1b0d66fd0a5f407d767b20b8a9ab5564" name="ab25cd6fd3bfda5736fd43f449c1b5124a1b0d66fd0a5f407d767b20b8a9ab5564"></a>SPELL_MAGE_MANA_SURGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124af3bf047796ac4d98c1b829a73aca4786" name="ab25cd6fd3bfda5736fd43f449c1b5124af3bf047796ac4d98c1b829a73aca4786"></a>SPELL_MAGE_FROST_NOVA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="ab25cd6fd3bfda5736fd43f449c1b5124ab772f9a168d7112d3e4cbc4109e024bb" name="ab25cd6fd3bfda5736fd43f449c1b5124ab772f9a168d7112d3e4cbc4109e024bb"></a>SPELL_MAGE_LIVING_BOMB_R1&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   33</span>{</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a8f879d1ddabf7a5890548fe923b0b734">SPELL_MAGE_ARCANE_MISSILES_R1</a>                = 5143,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124aeb365610a1f64be024535322d600efa9">SPELL_MAGE_BLAZING_SPEED</a>                     = 31643,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124af902c6055a7c4d321d31a8d6030e45b7">SPELL_MAGE_MAGIC_ABSORPTION_MANA</a>             = 29442,</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a6581435e60a8ed6d2ef11fa4ec9de9da">SPELL_MAGE_BURNOUT_TRIGGER</a>                   = 44450,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a220f2bbe2ba928299f8e9cd759af68fc">SPELL_MAGE_IMPROVED_BLIZZARD_CHILLED</a>         = 12486,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a599ac9067a5b4cbe42ea7557e831fc3f">SPELL_MAGE_COMBUSTION</a>                        = 11129,</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124ac5fecbef5a0690390f99f1b70727566b">SPELL_MAGE_COMBUSTION_PROC</a>                   = 28682,</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a61b3456ff5a5cdb94c57c0be96c56f33">SPELL_MAGE_COLD_SNAP</a>                         = 11958,</div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a75e05026759d9b14b7d5cdbf1ce6a234">SPELL_MAGE_FOCUS_MAGIC_PROC</a>                  = 54648,</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a0c5b2cb0579c478b7f36a5aee1a45b6e">SPELL_MAGE_FROST_WARDING_R1</a>                  = 11189,</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124af5e1b0ad1e4f78d3b102c8061155459e">SPELL_MAGE_FROST_WARDING_TRIGGERED</a>           = 57776,</div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a422f167d55affa065359ac04e732b816">SPELL_MAGE_INCANTERS_ABSORBTION_R1</a>           = 44394,</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124acec4a9ecc4023e9709049e07f502ba83">SPELL_MAGE_INCANTERS_ABSORBTION_TRIGGERED</a>    = 44413,</div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a744a819410a70bdedcaa68aeeead2d04">SPELL_MAGE_IGNITE</a>                            = 12654,</div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a886a48f0a08f0ae2d45d535ce542dab8">SPELL_MAGE_MASTER_OF_ELEMENTS_ENERGIZE</a>       = 29077,</div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a3194beb3a492322f101edc2bb58cd379">SPELL_MAGE_PERMAFROST_AURA</a>                   = 68391,</div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124ab185e7b3efc927ff579a848f59a4dec6">SPELL_MAGE_SQUIRREL_FORM</a>                     = 32813,</div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a7f4029f76569babf96dae83a4d33f32b">SPELL_MAGE_GIRAFFE_FORM</a>                      = 32816,</div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124ad5a7db4b9c62c2e4531cc589ea6b050f">SPELL_MAGE_SERPENT_FORM</a>                      = 32817,</div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124aa36c6d835be3d18c0a9a146f309de5dc">SPELL_MAGE_DRAGONHAWK_FORM</a>                   = 32818,</div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a1d25c71ce529713654e90eede8da5dd2">SPELL_MAGE_WORGEN_FORM</a>                       = 32819,</div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124af6ea5812f5a9177e7bbc22f292e13983">SPELL_MAGE_SHEEP_FORM</a>                        = 32820,</div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124adf14fd7122c8f6ab97c65e5ff8b45ba3">SPELL_MAGE_GLYPH_OF_ETERNAL_WATER</a>            = 70937,</div>
-<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124abbf4a8698fe7379264db5729ce10440f">SPELL_MAGE_SUMMON_WATER_ELEMENTAL_PERMANENT</a>  = 70908,</div>
-<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a031b2cacce733305e8bbba4ec69cc276">SPELL_MAGE_SUMMON_WATER_ELEMENTAL_TEMPORARY</a>  = 70907,</div>
-<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124ac553ca96324337663da102edbf50b474">SPELL_MAGE_GLYPH_OF_BLAST_WAVE</a>               = 62126,</div>
-<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a8361e4d18a35c3a0b98379c6186a12ad">SPELL_MAGE_FINGERS_OF_FROST</a>                  = 44543,</div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a36a7972054109f8e8dac189a18a1c080">SPELL_MAGE_FINGERS_OF_FROST_AURASTATE_AURA</a>   = 44544,</div>
-<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a2a2ca945a40ec79572aafcd10c618301">SPELL_MAGE_ARCANE_POTENCY_RANK_1</a>             = 57529,</div>
-<div class="line"><span class="lineno">   63</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a8bd812deba6aa600a0beac911df1cf76">SPELL_MAGE_ARCANE_POTENCY_RANK_2</a>             = 57531,</div>
-<div class="line"><span class="lineno">   64</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a6f6a4f2fd7996e9c293e9eccfad8270b">SPELL_MAGE_EMPOWERED_FIRE_PROC</a>               = 67545,</div>
-<div class="line"><span class="lineno">   65</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a0bd50a82e2ce0fd7c9ad1b10b6e36f96">SPELL_MAGE_T10_2P_BONUS</a>                      = 70752,</div>
-<div class="line"><span class="lineno">   66</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124ac26405c482abfe4a0ddc7bfb742617ac">SPELL_MAGE_T10_2P_BONUS_EFFECT</a>               = 70753,</div>
-<div class="line"><span class="lineno">   67</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a3a5440f423904ec6caa228ceff573164">SPELL_MAGE_T8_4P_BONUS</a>                       = 64869,</div>
-<div class="line"><span class="lineno">   68</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124ae7dcf12a2bc77be4e2fc92b623d4df21">SPELL_MAGE_HOT_STREAK_PROC</a>                   = 48108,</div>
-<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a6f1ed3ca8cab6eb4ec6bb38f7d33b560">SPELL_MAGE_CHILLED_R1</a>                        = 12484,</div>
-<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a882c0556bd30143c62679328758fb233">SPELL_MAGE_CHILLED_R2</a>                        = 12485,</div>
-<div class="line"><span class="lineno">   71</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124aa8e771a8342a23774f4fd862f7426204">SPELL_MAGE_CHILLED_R3</a>                        = 12486,</div>
-<div class="line"><span class="lineno">   72</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a1b0d66fd0a5f407d767b20b8a9ab5564">SPELL_MAGE_MANA_SURGE</a>                        = 37445,</div>
-<div class="line"><span class="lineno">   73</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124af3bf047796ac4d98c1b829a73aca4786">SPELL_MAGE_FROST_NOVA</a>                        = 122,</div>
-<div class="line"><span class="lineno">   74</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124ab772f9a168d7112d3e4cbc4109e024bb">SPELL_MAGE_LIVING_BOMB_R1</a>                    = 44457</div>
-<div class="line"><span class="lineno">   75</span>};</div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a031b2cacce733305e8bbba4ec69cc276"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a031b2cacce733305e8bbba4ec69cc276">SPELL_MAGE_SUMMON_WATER_ELEMENTAL_TEMPORARY</a></div><div class="ttdeci">@ SPELL_MAGE_SUMMON_WATER_ELEMENTAL_TEMPORARY</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:58</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a0bd50a82e2ce0fd7c9ad1b10b6e36f96"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a0bd50a82e2ce0fd7c9ad1b10b6e36f96">SPELL_MAGE_T10_2P_BONUS</a></div><div class="ttdeci">@ SPELL_MAGE_T10_2P_BONUS</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:65</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a0c5b2cb0579c478b7f36a5aee1a45b6e"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a0c5b2cb0579c478b7f36a5aee1a45b6e">SPELL_MAGE_FROST_WARDING_R1</a></div><div class="ttdeci">@ SPELL_MAGE_FROST_WARDING_R1</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:43</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a1b0d66fd0a5f407d767b20b8a9ab5564"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a1b0d66fd0a5f407d767b20b8a9ab5564">SPELL_MAGE_MANA_SURGE</a></div><div class="ttdeci">@ SPELL_MAGE_MANA_SURGE</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:72</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a1d25c71ce529713654e90eede8da5dd2"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a1d25c71ce529713654e90eede8da5dd2">SPELL_MAGE_WORGEN_FORM</a></div><div class="ttdeci">@ SPELL_MAGE_WORGEN_FORM</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:54</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a220f2bbe2ba928299f8e9cd759af68fc"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a220f2bbe2ba928299f8e9cd759af68fc">SPELL_MAGE_IMPROVED_BLIZZARD_CHILLED</a></div><div class="ttdeci">@ SPELL_MAGE_IMPROVED_BLIZZARD_CHILLED</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:38</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a2a2ca945a40ec79572aafcd10c618301"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a2a2ca945a40ec79572aafcd10c618301">SPELL_MAGE_ARCANE_POTENCY_RANK_1</a></div><div class="ttdeci">@ SPELL_MAGE_ARCANE_POTENCY_RANK_1</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:62</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a3194beb3a492322f101edc2bb58cd379"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a3194beb3a492322f101edc2bb58cd379">SPELL_MAGE_PERMAFROST_AURA</a></div><div class="ttdeci">@ SPELL_MAGE_PERMAFROST_AURA</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:49</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a36a7972054109f8e8dac189a18a1c080"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a36a7972054109f8e8dac189a18a1c080">SPELL_MAGE_FINGERS_OF_FROST_AURASTATE_AURA</a></div><div class="ttdeci">@ SPELL_MAGE_FINGERS_OF_FROST_AURASTATE_AURA</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:61</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a3a5440f423904ec6caa228ceff573164"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a3a5440f423904ec6caa228ceff573164">SPELL_MAGE_T8_4P_BONUS</a></div><div class="ttdeci">@ SPELL_MAGE_T8_4P_BONUS</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:67</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a422f167d55affa065359ac04e732b816"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a422f167d55affa065359ac04e732b816">SPELL_MAGE_INCANTERS_ABSORBTION_R1</a></div><div class="ttdeci">@ SPELL_MAGE_INCANTERS_ABSORBTION_R1</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:45</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a599ac9067a5b4cbe42ea7557e831fc3f"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a599ac9067a5b4cbe42ea7557e831fc3f">SPELL_MAGE_COMBUSTION</a></div><div class="ttdeci">@ SPELL_MAGE_COMBUSTION</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:39</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a61b3456ff5a5cdb94c57c0be96c56f33"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a61b3456ff5a5cdb94c57c0be96c56f33">SPELL_MAGE_COLD_SNAP</a></div><div class="ttdeci">@ SPELL_MAGE_COLD_SNAP</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:41</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a6581435e60a8ed6d2ef11fa4ec9de9da"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a6581435e60a8ed6d2ef11fa4ec9de9da">SPELL_MAGE_BURNOUT_TRIGGER</a></div><div class="ttdeci">@ SPELL_MAGE_BURNOUT_TRIGGER</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:37</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a6f1ed3ca8cab6eb4ec6bb38f7d33b560"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a6f1ed3ca8cab6eb4ec6bb38f7d33b560">SPELL_MAGE_CHILLED_R1</a></div><div class="ttdeci">@ SPELL_MAGE_CHILLED_R1</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:69</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a6f6a4f2fd7996e9c293e9eccfad8270b"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a6f6a4f2fd7996e9c293e9eccfad8270b">SPELL_MAGE_EMPOWERED_FIRE_PROC</a></div><div class="ttdeci">@ SPELL_MAGE_EMPOWERED_FIRE_PROC</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:64</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a744a819410a70bdedcaa68aeeead2d04"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a744a819410a70bdedcaa68aeeead2d04">SPELL_MAGE_IGNITE</a></div><div class="ttdeci">@ SPELL_MAGE_IGNITE</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:47</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a75e05026759d9b14b7d5cdbf1ce6a234"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a75e05026759d9b14b7d5cdbf1ce6a234">SPELL_MAGE_FOCUS_MAGIC_PROC</a></div><div class="ttdeci">@ SPELL_MAGE_FOCUS_MAGIC_PROC</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:42</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a7f4029f76569babf96dae83a4d33f32b"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a7f4029f76569babf96dae83a4d33f32b">SPELL_MAGE_GIRAFFE_FORM</a></div><div class="ttdeci">@ SPELL_MAGE_GIRAFFE_FORM</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:51</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a8361e4d18a35c3a0b98379c6186a12ad"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a8361e4d18a35c3a0b98379c6186a12ad">SPELL_MAGE_FINGERS_OF_FROST</a></div><div class="ttdeci">@ SPELL_MAGE_FINGERS_OF_FROST</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:60</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a882c0556bd30143c62679328758fb233"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a882c0556bd30143c62679328758fb233">SPELL_MAGE_CHILLED_R2</a></div><div class="ttdeci">@ SPELL_MAGE_CHILLED_R2</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:70</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a886a48f0a08f0ae2d45d535ce542dab8"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a886a48f0a08f0ae2d45d535ce542dab8">SPELL_MAGE_MASTER_OF_ELEMENTS_ENERGIZE</a></div><div class="ttdeci">@ SPELL_MAGE_MASTER_OF_ELEMENTS_ENERGIZE</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:48</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a8bd812deba6aa600a0beac911df1cf76"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a8bd812deba6aa600a0beac911df1cf76">SPELL_MAGE_ARCANE_POTENCY_RANK_2</a></div><div class="ttdeci">@ SPELL_MAGE_ARCANE_POTENCY_RANK_2</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:63</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124a8f879d1ddabf7a5890548fe923b0b734"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124a8f879d1ddabf7a5890548fe923b0b734">SPELL_MAGE_ARCANE_MISSILES_R1</a></div><div class="ttdeci">@ SPELL_MAGE_ARCANE_MISSILES_R1</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:34</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124aa36c6d835be3d18c0a9a146f309de5dc"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124aa36c6d835be3d18c0a9a146f309de5dc">SPELL_MAGE_DRAGONHAWK_FORM</a></div><div class="ttdeci">@ SPELL_MAGE_DRAGONHAWK_FORM</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:53</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124aa8e771a8342a23774f4fd862f7426204"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124aa8e771a8342a23774f4fd862f7426204">SPELL_MAGE_CHILLED_R3</a></div><div class="ttdeci">@ SPELL_MAGE_CHILLED_R3</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:71</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124ab185e7b3efc927ff579a848f59a4dec6"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124ab185e7b3efc927ff579a848f59a4dec6">SPELL_MAGE_SQUIRREL_FORM</a></div><div class="ttdeci">@ SPELL_MAGE_SQUIRREL_FORM</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:50</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124ab772f9a168d7112d3e4cbc4109e024bb"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124ab772f9a168d7112d3e4cbc4109e024bb">SPELL_MAGE_LIVING_BOMB_R1</a></div><div class="ttdeci">@ SPELL_MAGE_LIVING_BOMB_R1</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:74</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124abbf4a8698fe7379264db5729ce10440f"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124abbf4a8698fe7379264db5729ce10440f">SPELL_MAGE_SUMMON_WATER_ELEMENTAL_PERMANENT</a></div><div class="ttdeci">@ SPELL_MAGE_SUMMON_WATER_ELEMENTAL_PERMANENT</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:57</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124ac26405c482abfe4a0ddc7bfb742617ac"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124ac26405c482abfe4a0ddc7bfb742617ac">SPELL_MAGE_T10_2P_BONUS_EFFECT</a></div><div class="ttdeci">@ SPELL_MAGE_T10_2P_BONUS_EFFECT</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:66</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124ac553ca96324337663da102edbf50b474"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124ac553ca96324337663da102edbf50b474">SPELL_MAGE_GLYPH_OF_BLAST_WAVE</a></div><div class="ttdeci">@ SPELL_MAGE_GLYPH_OF_BLAST_WAVE</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:59</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124ac5fecbef5a0690390f99f1b70727566b"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124ac5fecbef5a0690390f99f1b70727566b">SPELL_MAGE_COMBUSTION_PROC</a></div><div class="ttdeci">@ SPELL_MAGE_COMBUSTION_PROC</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:40</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124acec4a9ecc4023e9709049e07f502ba83"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124acec4a9ecc4023e9709049e07f502ba83">SPELL_MAGE_INCANTERS_ABSORBTION_TRIGGERED</a></div><div class="ttdeci">@ SPELL_MAGE_INCANTERS_ABSORBTION_TRIGGERED</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:46</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124ad5a7db4b9c62c2e4531cc589ea6b050f"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124ad5a7db4b9c62c2e4531cc589ea6b050f">SPELL_MAGE_SERPENT_FORM</a></div><div class="ttdeci">@ SPELL_MAGE_SERPENT_FORM</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:52</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124adf14fd7122c8f6ab97c65e5ff8b45ba3"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124adf14fd7122c8f6ab97c65e5ff8b45ba3">SPELL_MAGE_GLYPH_OF_ETERNAL_WATER</a></div><div class="ttdeci">@ SPELL_MAGE_GLYPH_OF_ETERNAL_WATER</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:56</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124ae7dcf12a2bc77be4e2fc92b623d4df21"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124ae7dcf12a2bc77be4e2fc92b623d4df21">SPELL_MAGE_HOT_STREAK_PROC</a></div><div class="ttdeci">@ SPELL_MAGE_HOT_STREAK_PROC</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:68</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124aeb365610a1f64be024535322d600efa9"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124aeb365610a1f64be024535322d600efa9">SPELL_MAGE_BLAZING_SPEED</a></div><div class="ttdeci">@ SPELL_MAGE_BLAZING_SPEED</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:35</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124af3bf047796ac4d98c1b829a73aca4786"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124af3bf047796ac4d98c1b829a73aca4786">SPELL_MAGE_FROST_NOVA</a></div><div class="ttdeci">@ SPELL_MAGE_FROST_NOVA</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:73</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124af5e1b0ad1e4f78d3b102c8061155459e"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124af5e1b0ad1e4f78d3b102c8061155459e">SPELL_MAGE_FROST_WARDING_TRIGGERED</a></div><div class="ttdeci">@ SPELL_MAGE_FROST_WARDING_TRIGGERED</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:44</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124af6ea5812f5a9177e7bbc22f292e13983"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124af6ea5812f5a9177e7bbc22f292e13983">SPELL_MAGE_SHEEP_FORM</a></div><div class="ttdeci">@ SPELL_MAGE_SHEEP_FORM</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:55</div></div>
-<div class="ttc" id="aa02654_html_ab25cd6fd3bfda5736fd43f449c1b5124af902c6055a7c4d321d31a8d6030e45b7"><div class="ttname"><a href="../../db/d4d/a02654.html#ab25cd6fd3bfda5736fd43f449c1b5124af902c6055a7c4d321d31a8d6030e45b7">SPELL_MAGE_MAGIC_ABSORPTION_MANA</a></div><div class="ttdeci">@ SPELL_MAGE_MAGIC_ABSORPTION_MANA</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:36</div></div>
-</div><!-- fragment -->
+
 </div>
 </div>
-<a id="ae65dd3851c1d875d7169727f6decf29a" name="ae65dd3851c1d875d7169727f6decf29a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae65dd3851c1d875d7169727f6decf29a">&#9670;&#160;</a></span>SilvermoonPolymorph</h2>
+<a id="ace05c45d1df6cb7f16487ef1aa8bc9f7" name="ace05c45d1df6cb7f16487ef1aa8bc9f7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ace05c45d1df6cb7f16487ef1aa8bc9f7">&#9670;&#160;</a></span>DBUpdater&lt; WorldDatabaseConnection &gt;</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../db/d4d/a02654.html#ae65dd3851c1d875d7169727f6decf29a">SilvermoonPolymorph</a></td>
+          <td class="memname">template class <a class="el" href="../../d6/d1a/a00485.html#a4239bd747d930d5084e8f6e489980585">AC_DATABASE_API</a> <a class="el" href="../../d6/d09/a06120.html">DBUpdater</a>&lt; <a class="el" href="../../db/d0b/a05952.html">WorldDatabaseConnection</a> &gt;</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ae65dd3851c1d875d7169727f6decf29aa4c179df56422b04e0db366c296ebed25" name="ae65dd3851c1d875d7169727f6decf29aa4c179df56422b04e0db366c296ebed25"></a>NPC_AUROSALIA&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  860</span>{</div>
-<div class="line"><span class="lineno">  861</span>    <a class="code hl_enumvalue" href="../../db/d4d/a02654.html#ae65dd3851c1d875d7169727f6decf29aa4c179df56422b04e0db366c296ebed25">NPC_AUROSALIA</a>   = 18744,</div>
-<div class="line"><span class="lineno">  862</span>};</div>
-<div class="ttc" id="aa02654_html_ae65dd3851c1d875d7169727f6decf29aa4c179df56422b04e0db366c296ebed25"><div class="ttname"><a href="../../db/d4d/a02654.html#ae65dd3851c1d875d7169727f6decf29aa4c179df56422b04e0db366c296ebed25">NPC_AUROSALIA</a></div><div class="ttdeci">@ NPC_AUROSALIA</div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:861</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a504d82c8e95f93fa88a54d34e919ed57" name="a504d82c8e95f93fa88a54d34e919ed57"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a504d82c8e95f93fa88a54d34e919ed57">&#9670;&#160;</a></span>AddSC_mage_spell_scripts()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void AddSC_mage_spell_scripts </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1563</span>{</div>
-<div class="line"><span class="lineno"> 1564</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d8/dbe/a26380.html">spell_mage_arcane_blast</a>);</div>
-<div class="line"><span class="lineno"> 1565</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dc/dde/a26528.html">spell_mage_arcane_missiles</a>);</div>
-<div class="line"><span class="lineno"> 1566</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d3/dad/a26476.html">spell_mage_arcane_potency</a>);</div>
-<div class="line"><span class="lineno"> 1567</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../db/d10/a26524.html">spell_mage_blazing_speed</a>);</div>
-<div class="line"><span class="lineno"> 1568</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d4/d1f/a26384.html">spell_mage_burning_determination</a>);</div>
-<div class="line"><span class="lineno"> 1569</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d1/d03/a26388.html">spell_mage_molten_armor</a>);</div>
-<div class="line"><span class="lineno"> 1570</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d9/d8b/a26392.html">spell_mage_mirror_image</a>);</div>
-<div class="line"><span class="lineno"> 1571</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/dd1/a26396.html">spell_mage_burnout</a>);</div>
-<div class="line"><span class="lineno"> 1572</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d8/da8/a26400.html">spell_mage_burnout_trigger</a>);</div>
-<div class="line"><span class="lineno"> 1573</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d9/db1/a26404.html">spell_mage_pet_scaling</a>);</div>
-<div class="line"><span class="lineno"> 1574</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d1/df2/a26408.html">spell_mage_brain_freeze</a>);</div>
-<div class="line"><span class="lineno"> 1575</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d4/d92/a26480.html">spell_mage_combustion</a>);</div>
-<div class="line"><span class="lineno"> 1576</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/d85/a26412.html">spell_mage_glyph_of_eternal_water</a>);</div>
-<div class="line"><span class="lineno"> 1577</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../de/dc4/a26416.html">spell_mage_combustion_proc</a>);</div>
-<div class="line"><span class="lineno"> 1578</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dd/d48/a26532.html">spell_mage_dragon_breath</a>);</div>
-<div class="line"><span class="lineno"> 1579</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/dd9/a26484.html">spell_mage_empowered_fire</a>);</div>
-<div class="line"><span class="lineno"> 1580</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/d43/a26488.html">spell_mage_gen_extra_effects</a>);</div>
-<div class="line"><span class="lineno"> 1581</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d2/d55/a26536.html">spell_mage_frostfire_bolt</a>);</div>
-<div class="line"><span class="lineno"> 1582</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/de9/a26492.html">spell_mage_glyph_of_ice_block</a>);</div>
-<div class="line"><span class="lineno"> 1583</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d5/de2/a26496.html">spell_mage_glyph_of_icy_veins</a>);</div>
-<div class="line"><span class="lineno"> 1584</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d6/d26/a26500.html">spell_mage_glyph_of_polymorph</a>);</div>
-<div class="line"><span class="lineno"> 1585</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d3/dd9/a26504.html">spell_mage_hot_streak</a>);</div>
-<div class="line"><span class="lineno"> 1586</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/d23/a26444.html">spell_mage_ice_barrier</a>);</div>
-<div class="line"><span class="lineno"> 1587</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../db/d33/a26540.html">spell_mage_ice_block</a>);</div>
-<div class="line"><span class="lineno"> 1588</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d7/d9c/a26508.html">spell_mage_imp_blizzard</a>);</div>
-<div class="line"><span class="lineno"> 1589</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d4/dd6/a26512.html">spell_mage_imp_mana_gems</a>);</div>
-<div class="line"><span class="lineno"> 1590</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/d41/a26516.html">spell_mage_missile_barrage</a>);</div>
-<div class="line"><span class="lineno"> 1591</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d7/d46/a26544.html">spell_mage_missile_barrage_proc</a>);</div>
-<div class="line"><span class="lineno"> 1592</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dd/d51/a26424.html">spell_mage_blast_wave</a>);</div>
-<div class="line"><span class="lineno"> 1593</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d5/de6/a26428.html">spell_mage_cold_snap</a>);</div>
-<div class="line"><span class="lineno"> 1594</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../de/d2c/a26432.html">spell_mage_fire_frost_ward</a>);</div>
-<div class="line"><span class="lineno"> 1595</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d7/d3b/a26436.html">spell_mage_focus_magic</a>);</div>
-<div class="line"><span class="lineno"> 1596</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d7/d4c/a26448.html">spell_mage_ignite</a>);</div>
-<div class="line"><span class="lineno"> 1597</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d5/def/a26452.html">spell_mage_living_bomb</a>);</div>
-<div class="line"><span class="lineno"> 1598</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../de/d88/a26456.html">spell_mage_mana_shield</a>);</div>
-<div class="line"><span class="lineno"> 1599</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d6/dc7/a26460.html">spell_mage_master_of_elements</a>);</div>
-<div class="line"><span class="lineno"> 1600</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/d94/a26464.html">spell_mage_polymorph_cast_visual</a>);</div>
-<div class="line"><span class="lineno"> 1601</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d1/db2/a26468.html">spell_mage_summon_water_elemental</a>);</div>
-<div class="line"><span class="lineno"> 1602</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/d1b/a26472.html">spell_mage_fingers_of_frost</a>);</div>
-<div class="line"><span class="lineno"> 1603</span>    <a class="code hl_define" href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d8/d9d/a26520.html">spell_mage_magic_absorption</a>);</div>
-<div class="line"><span class="lineno"> 1604</span>}</div>
-<div class="ttc" id="aa01460_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d2/d2f/a01460.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:88</div></div>
-<div class="ttc" id="aa26380_html"><div class="ttname"><a href="../../d8/dbe/a26380.html">spell_mage_arcane_blast</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:86</div></div>
-<div class="ttc" id="aa26384_html"><div class="ttname"><a href="../../d4/d1f/a26384.html">spell_mage_burning_determination</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:114</div></div>
-<div class="ttc" id="aa26388_html"><div class="ttname"><a href="../../d1/d03/a26388.html">spell_mage_molten_armor</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:156</div></div>
-<div class="ttc" id="aa26392_html"><div class="ttname"><a href="../../d9/d8b/a26392.html">spell_mage_mirror_image</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:184</div></div>
-<div class="ttc" id="aa26396_html"><div class="ttname"><a href="../../df/dd1/a26396.html">spell_mage_burnout</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:205</div></div>
-<div class="ttc" id="aa26400_html"><div class="ttname"><a href="../../d8/da8/a26400.html">spell_mage_burnout_trigger</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:236</div></div>
-<div class="ttc" id="aa26404_html"><div class="ttname"><a href="../../d9/db1/a26404.html">spell_mage_pet_scaling</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:256</div></div>
-<div class="ttc" id="aa26408_html"><div class="ttname"><a href="../../d1/df2/a26408.html">spell_mage_brain_freeze</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:368</div></div>
-<div class="ttc" id="aa26412_html"><div class="ttname"><a href="../../df/d85/a26412.html">spell_mage_glyph_of_eternal_water</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:391</div></div>
-<div class="ttc" id="aa26416_html"><div class="ttname"><a href="../../de/dc4/a26416.html">spell_mage_combustion_proc</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:410</div></div>
-<div class="ttc" id="aa26424_html"><div class="ttname"><a href="../../dd/d51/a26424.html">spell_mage_blast_wave</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:459</div></div>
-<div class="ttc" id="aa26428_html"><div class="ttname"><a href="../../d5/de6/a26428.html">spell_mage_cold_snap</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:481</div></div>
-<div class="ttc" id="aa26432_html"><div class="ttname"><a href="../../de/d2c/a26432.html">spell_mage_fire_frost_ward</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:518</div></div>
-<div class="ttc" id="aa26436_html"><div class="ttname"><a href="../../d7/d3b/a26436.html">spell_mage_focus_magic</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:577</div></div>
-<div class="ttc" id="aa26444_html"><div class="ttname"><a href="../../da/d23/a26444.html">spell_mage_ice_barrier</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:651</div></div>
-<div class="ttc" id="aa26448_html"><div class="ttname"><a href="../../d7/d4c/a26448.html">spell_mage_ignite</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:696</div></div>
-<div class="ttc" id="aa26452_html"><div class="ttname"><a href="../../d5/def/a26452.html">spell_mage_living_bomb</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:751</div></div>
-<div class="ttc" id="aa26456_html"><div class="ttname"><a href="../../de/d88/a26456.html">spell_mage_mana_shield</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:779</div></div>
-<div class="ttc" id="aa26460_html"><div class="ttname"><a href="../../d6/dc7/a26460.html">spell_mage_master_of_elements</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:806</div></div>
-<div class="ttc" id="aa26464_html"><div class="ttname"><a href="../../da/d94/a26464.html">spell_mage_polymorph_cast_visual</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:867</div></div>
-<div class="ttc" id="aa26468_html"><div class="ttname"><a href="../../d1/db2/a26468.html">spell_mage_summon_water_elemental</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:906</div></div>
-<div class="ttc" id="aa26472_html"><div class="ttname"><a href="../../da/d1b/a26472.html">spell_mage_fingers_of_frost</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:951</div></div>
-<div class="ttc" id="aa26476_html"><div class="ttname"><a href="../../d3/dad/a26476.html">spell_mage_arcane_potency</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:994</div></div>
-<div class="ttc" id="aa26480_html"><div class="ttname"><a href="../../d4/d92/a26480.html">spell_mage_combustion</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:1035</div></div>
-<div class="ttc" id="aa26484_html"><div class="ttname"><a href="../../df/dd9/a26484.html">spell_mage_empowered_fire</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:1063</div></div>
-<div class="ttc" id="aa26488_html"><div class="ttname"><a href="../../df/d43/a26488.html">spell_mage_gen_extra_effects</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:1101</div></div>
-<div class="ttc" id="aa26492_html"><div class="ttname"><a href="../../da/de9/a26492.html">spell_mage_glyph_of_ice_block</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:1145</div></div>
-<div class="ttc" id="aa26496_html"><div class="ttname"><a href="../../d5/de2/a26496.html">spell_mage_glyph_of_icy_veins</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:1189</div></div>
-<div class="ttc" id="aa26500_html"><div class="ttname"><a href="../../d6/d26/a26500.html">spell_mage_glyph_of_polymorph</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:1210</div></div>
-<div class="ttc" id="aa26504_html"><div class="ttname"><a href="../../d3/dd9/a26504.html">spell_mage_hot_streak</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:1234</div></div>
-<div class="ttc" id="aa26508_html"><div class="ttname"><a href="../../d7/d9c/a26508.html">spell_mage_imp_blizzard</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:1276</div></div>
-<div class="ttc" id="aa26512_html"><div class="ttname"><a href="../../d4/dd6/a26512.html">spell_mage_imp_mana_gems</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:1321</div></div>
-<div class="ttc" id="aa26516_html"><div class="ttname"><a href="../../df/d41/a26516.html">spell_mage_missile_barrage</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:1343</div></div>
-<div class="ttc" id="aa26520_html"><div class="ttname"><a href="../../d8/d9d/a26520.html">spell_mage_magic_absorption</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:1369</div></div>
-<div class="ttc" id="aa26524_html"><div class="ttname"><a href="../../db/d10/a26524.html">spell_mage_blazing_speed</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:1399</div></div>
-<div class="ttc" id="aa26528_html"><div class="ttname"><a href="../../dc/dde/a26528.html">spell_mage_arcane_missiles</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:1422</div></div>
-<div class="ttc" id="aa26532_html"><div class="ttname"><a href="../../dd/d48/a26532.html">spell_mage_dragon_breath</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:1451</div></div>
-<div class="ttc" id="aa26536_html"><div class="ttname"><a href="../../d2/d55/a26536.html">spell_mage_frostfire_bolt</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:1472</div></div>
-<div class="ttc" id="aa26540_html"><div class="ttname"><a href="../../db/d33/a26540.html">spell_mage_ice_block</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:1500</div></div>
-<div class="ttc" id="aa26544_html"><div class="ttname"><a href="../../d7/d46/a26544.html">spell_mage_missile_barrage_proc</a></div><div class="ttdef"><b>Definition:</b> spell_mage.cpp:1521</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00035">AddSpellsScripts()</a>.</p>
 
 </div>
 </div>
@@ -640,8 +182,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_a5c81565c813a087452a284baefe3cb6.html">Spells</a></li><li class="navelem"><a class="el" href="../../db/d4d/a02654.html">spell_mage.cpp</a></li>
-    <li class="footer">Generated on Mon Feb 23 2026 21:14:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_3906e801b468713a6f5b1f193c7ea10d.html">database</a></li><li class="navelem"><a class="el" href="../../dir_ac632e0cb7d565e729369f2b018d776c.html">Updater</a></li><li class="navelem"><a class="el" href="../../db/d4d/a02654.html">DBUpdater.cpp</a></li>
+    <li class="footer">Generated on Mon Mar 2 2026 21:03:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

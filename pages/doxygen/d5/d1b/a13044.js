@@ -1,7 +1,7 @@
 var a13044 =
 [
-    [ "boss_maiden_of_virtue", "d5/d1b/a13044.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
-    [ "JustDied", "d5/d1b/a13044.html#a6eded246318f6b47b46f45168e4a8069", null ],
-    [ "JustEngagedWith", "d5/d1b/a13044.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
-    [ "KilledUnit", "d5/d1b/a13044.html#a32dd66a297d11f5ffac1841bae15727a", null ]
+    [ "npc_kernobeeAI", "d5/de0/a13048.html", "d5/de0/a13048" ],
+    [ "npc_kernobee", "d5/d1b/a13044.html#a325aa3f9962cb99b4af362a23c1b16d8", null ],
+    [ "GetAI", "d5/d1b/a13044.html#a13da5b7e79ada7c5a88e84ca551ce8eb", null ],
+    [ "OnQuestAccept", "d5/d1b/a13044.html#aa830285cf19211b8233620257735ab62", null ]
 ];

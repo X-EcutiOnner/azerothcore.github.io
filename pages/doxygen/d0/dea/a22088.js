@@ -1,5 +1,6 @@
 var a22088 =
 [
-    [ "go_pressure_valve", "d0/dea/a22088.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
-    [ "OnGossipHello", "d0/dea/a22088.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
+    [ "npc_frostbrood_skytalonAI", "d9/d0f/a22092.html", "d9/d0f/a22092" ],
+    [ "npc_frostbrood_skytalon", "d0/dea/a22088.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
+    [ "GetAI", "d0/dea/a22088.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
 ];

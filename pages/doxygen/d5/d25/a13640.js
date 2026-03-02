@@ -1,6 +1,7 @@
 var a13640 =
 [
-    [ "instance_stratholme_InstanceMapScript", "d2/d24/a13644.html", "d2/d24/a13644" ],
-    [ "instance_stratholme", "d5/d25/a13640.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
-    [ "GetInstanceScript", "d5/d25/a13640.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
+    [ "OnPeriodic", "d5/d25/a13640.html#ab193b7cf8a8fe91879317e7d21522976", null ],
+    [ "PrepareAuraScript", "d5/d25/a13640.html#a5dca6bc670612f0b0e8e99381c97bf11", null ],
+    [ "Register", "d5/d25/a13640.html#ac6e0621064e5e0a77e1cdbfa8dbb6a54", null ],
+    [ "Validate", "d5/d25/a13640.html#a290b864756ceff85d52ba3f974a28217", null ]
 ];

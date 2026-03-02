@@ -1,5 +1,9 @@
 var a14904 =
 [
-    [ "PrepareSpellScript", "da/d9c/a14904.html#a50ee42c11937759b6c52c2ab994481c4", null ],
-    [ "Register", "da/d9c/a14904.html#a8dc12a723c2da948c38119e3fc34df35", null ]
+    [ "npc_love_in_air_snivel", "da/d9c/a14904.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
+    [ "AllowAction", "da/d9c/a14904.html#af1097317f62bbb8f8456124001c73576", null ],
+    [ "MoveInLineOfSight", "da/d9c/a14904.html#ae6537707109b95fad20e521d07867cdd", null ],
+    [ "Reset", "da/d9c/a14904.html#a2385ea44d9f44735b193add4a0d0485b", null ],
+    [ "UpdateAI", "da/d9c/a14904.html#a9e712994663e3442359d2f574ebc812c", null ],
+    [ "delay", "da/d9c/a14904.html#a548db6245ef875ec47279246e437934c", null ]
 ];

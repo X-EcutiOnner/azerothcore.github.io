@@ -1,5 +1,6 @@
 var a27936 =
 [
-    [ "achievement_fa_la_la_la_ogrila", "d6/d82/a27936.html#ab98a8ab33fec62936bf3c235659c1445", null ],
-    [ "OnCheck", "d6/d82/a27936.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
+    [ "achievement_arena_by_type", "d6/d82/a27936.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "d6/d82/a27936.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "d6/d82/a27936.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

@@ -1,9 +1,7 @@
 var a14480 =
 [
-    [ "npc_shade_of_jindo", "db/d08/a14480.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
-    [ "IsSummonedBy", "db/d08/a14480.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
-    [ "JustEngagedWith", "db/d08/a14480.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
-    [ "Reset", "db/d08/a14480.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
-    [ "UpdateAI", "db/d08/a14480.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
-    [ "_scheduler", "db/d08/a14480.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
+    [ "OnRemove", "db/d08/a14480.html#ab909660f32a77e86fde5da35e2f69302", null ],
+    [ "PrepareAuraScript", "db/d08/a14480.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
+    [ "Register", "db/d08/a14480.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
+    [ "Validate", "db/d08/a14480.html#abd1254c53c04f72f848d8641affc729d", null ]
 ];

@@ -1,14 +1,15 @@
 var a12264 =
 [
-    [ "boss_galvangarAI", "da/d4f/a12264.html#a34a0cacc52749bd1146fcb779d006b3b", null ],
-    [ "JustEngagedWith", "da/d4f/a12264.html#ac1898cea6887fcfa182aa8a7a535c462", null ],
-    [ "JustRespawned", "da/d4f/a12264.html#a92139ad3720ba662f87c0b55ac77dbeb", null ],
-    [ "Reset", "da/d4f/a12264.html#a96e1a262f368ab0f6885e955133b7ae8", null ],
-    [ "UpdateAI", "da/d4f/a12264.html#a2e5c7511cce7dd0ff27e13cda9807928", null ],
-    [ "CleaveTimer", "da/d4f/a12264.html#ae2f943d7e08b5ca508518cd19c675be9", null ],
-    [ "FrighteningShoutTimer", "da/d4f/a12264.html#a6f62f62ffa1c06baa2649901f02d13dc", null ],
-    [ "MortalStrikeTimer", "da/d4f/a12264.html#acbfa384508002ba9505d280c448f1f0e", null ],
-    [ "ResetTimer", "da/d4f/a12264.html#aaeff7d8bffb2ddcef5591c2c9be22ae2", null ],
-    [ "Whirlwind1Timer", "da/d4f/a12264.html#a1e1b3d242ad06e6b8b2e48fbc135b3c5", null ],
-    [ "Whirlwind2Timer", "da/d4f/a12264.html#adb5a2609f1f065fe7a737b8da2d4aef4", null ]
+    [ "worldstate_commandscript", "da/d4f/a12264.html#aa409f7a2baed14a591d9567d1fb1ffcf", null ],
+    [ "GetCommands", "da/d4f/a12264.html#a9c2b9e6f00727da760ca2be2c0c1aff7", null ],
+    [ "HandleScourgeInvasionBattlesWonCommand", "da/d4f/a12264.html#a1c2167ce554327d674161b7c4f63585c", null ],
+    [ "HandleScourgeInvasionCommand", "da/d4f/a12264.html#a11aeedef82a93f8799fd788a8c492335", null ],
+    [ "HandleScourgeInvasionStartZone", "da/d4f/a12264.html#af242372bd32ed79d839af82f82423837", null ],
+    [ "HandleScourgeInvasionStateCommand", "da/d4f/a12264.html#a5ba0b973087f921dbb764037c8b36134", null ],
+    [ "HandleSunsReachReclamationCounterCommand", "da/d4f/a12264.html#a78ccd5fd1fe4562d93f69199112044d2", null ],
+    [ "HandleSunsReachReclamationPhaseCommand", "da/d4f/a12264.html#a4b7049c1c9932b098441a3af4d7cd03c", null ],
+    [ "HandleSunsReachReclamationStatusCommand", "da/d4f/a12264.html#a1534e35532bc29b8d03594af30e4cdfa", null ],
+    [ "HandleSunsReachReclamationSubPhaseCommand", "da/d4f/a12264.html#a2307687ae1d3cb3f6e5237af4d8f8595", null ],
+    [ "HandleSunwellGateCommand", "da/d4f/a12264.html#a45b73e47c8e9b21063d02922a83e103b", null ],
+    [ "HandleSunwellGateCounterCommand", "da/d4f/a12264.html#a805ab7fa1900feeb3e3034263c3a0a4d", null ]
 ];

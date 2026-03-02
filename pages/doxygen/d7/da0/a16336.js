@@ -1,6 +1,8 @@
 var a16336 =
 [
-    [ "npc_anub_ar_crusher_champion", "d7/da0/a16336.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
-    [ "DoEngagedWith", "d7/da0/a16336.html#a2dcef4fe57880ba725dff52455a7a428", null ],
-    [ "DoEvent", "d7/da0/a16336.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
+    [ "instance_ahnkahet_InstanceScript", "d7/da0/a16336.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
+    [ "IsAllSpheresActivated", "d7/da0/a16336.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
+    [ "OnGameObjectCreate", "d7/da0/a16336.html#ad00fdc90a61e1c927323daa2149f8466", null ],
+    [ "SetData", "d7/da0/a16336.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
+    [ "taldaramPlatform_GUID", "d7/da0/a16336.html#a840ce69595c384be321c1167513d151e", null ]
 ];

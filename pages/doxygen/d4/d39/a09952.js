@@ -1,5 +1,6 @@
 var a09952 =
 [
-    [ "item_guid", "d4/d39/a09952.html#a4033ef7b03b28881e28434ae796fb6ed", null ],
-    [ "item_template", "d4/d39/a09952.html#ac7e05ac4dcc5d4f94b3291d819c7c86b", null ]
+    [ "LootValidatorRef", "d4/d39/a09952.html#acce3ced73583bf8dbf04232cddd6ebd8", null ],
+    [ "sourceObjectDestroyLink", "d4/d39/a09952.html#a8833022cf1acf786c06f1580fbe11c24", null ],
+    [ "targetObjectDestroyLink", "d4/d39/a09952.html#a93baac45dcb801215c28ac0dba097eba", null ]
 ];

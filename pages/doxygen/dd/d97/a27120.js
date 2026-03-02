@@ -1,6 +1,7 @@
 var a27120 =
 [
-    [ "HandleEffectPeriodic", "dd/d97/a27120.html#ab283b40ceb6dcd0a835550531321ce92", null ],
-    [ "PrepareAuraScript", "dd/d97/a27120.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
-    [ "Register", "dd/d97/a27120.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
+    [ "HandleScriptEffect", "dd/d97/a27120.html#ae7bfcdf3306fe4c8532649ff7e892c57", null ],
+    [ "PrepareSpellScript", "dd/d97/a27120.html#ad2bfab00a973366af32388e40b9d2566", null ],
+    [ "Register", "dd/d97/a27120.html#acbf74d85d9d8ce8e9ce0546c90cb7efa", null ],
+    [ "Validate", "dd/d97/a27120.html#a487fa0e6b5f2682349b22737ceeae50c", null ]
 ];

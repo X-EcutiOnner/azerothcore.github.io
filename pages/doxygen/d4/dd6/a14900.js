@@ -1,4 +1,7 @@
 var a14900 =
 [
-    [ "npc_midsummer_bonfire_despawner", "d4/dd6/a14900.html#aacb82b08ec0fef0f53d7e251e010abd8", null ]
+    [ "npc_love_in_air_supply_sentry", "d4/dd6/a14900.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
+    [ "MoveInLineOfSight", "d4/dd6/a14900.html#a9df110324c74277e07183c7db231bbda", null ],
+    [ "UpdateAI", "d4/dd6/a14900.html#aaa658222954f96d45b75daf83555f6f8", null ],
+    [ "lock", "d4/dd6/a14900.html#a59bf67b114014542538165c21aa109a6", null ]
 ];

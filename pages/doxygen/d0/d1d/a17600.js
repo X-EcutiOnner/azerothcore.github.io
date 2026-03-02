@@ -1,7 +1,5 @@
 var a17600 =
 [
-    [ "HandleDummy", "d0/d1d/a17600.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
-    [ "PrepareSpellScript", "d0/d1d/a17600.html#a3ef0564565ea49265800422c835432b0", null ],
-    [ "Register", "d0/d1d/a17600.html#a7b685926a8d511397889616e97bbd563", null ],
-    [ "Validate", "d0/d1d/a17600.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
+    [ "endPosition", "d0/d1d/a17600.html#a8a88b0191d28ef6af8f41db627552602", null ],
+    [ "entry", "d0/d1d/a17600.html#ac4e55af666e269440953ced038c1a8de", null ]
 ];

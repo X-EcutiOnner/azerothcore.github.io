@@ -1,10 +1,7 @@
 var a24900 =
 [
-    [ "FilterTargets", "df/df1/a24900.html#a033c63470d406ad2249c5aa223c00b2f", null ],
-    [ "HandleFinish", "df/df1/a24900.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
-    [ "HandleScript", "df/df1/a24900.html#a2c26838015f1b21715fc1438537e15d3", null ],
-    [ "Load", "df/df1/a24900.html#a669aefa81d57358ef452f4c247b2ceff", null ],
-    [ "PrepareSpellScript", "df/df1/a24900.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
-    [ "Register", "df/df1/a24900.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
-    [ "haveTarget", "df/df1/a24900.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
+    [ "HandlePeriodic", "df/df1/a24900.html#abc823ccb417c7ee54b275fd765c2e9a5", null ],
+    [ "PrepareAuraScript", "df/df1/a24900.html#a51d8701f84737d91cf4367967e2c9439", null ],
+    [ "Register", "df/df1/a24900.html#a57d210027c9fa2a4a7a90c4b1fd7589b", null ],
+    [ "Validate", "df/df1/a24900.html#a507e7e61eef30115812dc5ab5ad33fea", null ]
 ];

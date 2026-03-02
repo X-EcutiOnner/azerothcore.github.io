@@ -1,9 +1,6 @@
 var a21400 =
 [
-    [ "npc_azure_stalkerAI", "dd/d7c/a21400.html#a1499e734f0d95d491bcd23c2e858a1ee", null ],
-    [ "Reset", "dd/d7c/a21400.html#a9bd36e95ce7c3157a2ac53400da51d23", null ],
-    [ "UpdateAI", "dd/d7c/a21400.html#a8c4ea046d69b269e886960ba9562fd0c", null ],
-    [ "TacticalBlinkCasted", "dd/d7c/a21400.html#a875a272380251fcc7f98e5c0f84bb41a", null ],
-    [ "uiBackstabTimer", "dd/d7c/a21400.html#ad03ba957706a62e3d8091d025ddd50dc", null ],
-    [ "uiTacticalBlinkTimer", "dd/d7c/a21400.html#ab817fb9f2f06715f0a08a99e12693697", null ]
+    [ "npc_azure_binderAI", "d2/dbf/a21404.html", "d2/dbf/a21404" ],
+    [ "npc_azure_binder", "dd/d7c/a21400.html#a25b8b19b6ccdae92418c47fe68537c42", null ],
+    [ "GetAI", "dd/d7c/a21400.html#aad091206a8bd06a1064b68b81510eb56", null ]
 ];

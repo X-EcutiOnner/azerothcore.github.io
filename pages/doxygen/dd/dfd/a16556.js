@@ -1,10 +1,14 @@
 var a16556 =
 [
-    [ "spell_halion_damage_aoe_summon", "dd/dfd/a16556.html#a6152e7a0515076af2c7c2155506257b0", null ],
-    [ "HandleSummon", "dd/dfd/a16556.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
-    [ "PrepareSpellScript", "dd/dfd/a16556.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
-    [ "Register", "dd/dfd/a16556.html#aa1f9239a2910d53c85539abba6333893", null ],
-    [ "Validate", "dd/dfd/a16556.html#acb359257b29354b5962d9865e06137e7", null ],
-    [ "_auraSpell", "dd/dfd/a16556.html#a497a74eca703470964157639a6f372e2", null ],
-    [ "_explosionSpell", "dd/dfd/a16556.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
+    [ "npc_halion_controllerAI", "dd/dfd/a16556.html#aabe03dbe5652db6687e7f2857ea33a20", null ],
+    [ "DoAction", "dd/dfd/a16556.html#a8d295797e21c03e7d2c3d504c40ba128", null ],
+    [ "Reset", "dd/dfd/a16556.html#a3004aecb50815287d5f832f2a8a0d250", null ],
+    [ "SetData", "dd/dfd/a16556.html#a3ce9a62d3e44b3ccc279803d5ef87a47", null ],
+    [ "UpdateAI", "dd/dfd/a16556.html#ac3ad9df40560ba8acfcd7fbabd303fde", null ],
+    [ "UpdateCorporeality", "dd/dfd/a16556.html#ac82987f2b2b069b90c509c477004bae6", null ],
+    [ "_corporeality", "dd/dfd/a16556.html#a4c23df1bb774ac724bdf537453592671", null ],
+    [ "_events", "dd/dfd/a16556.html#a92e3f116260265a2d0dbeef769eee03e", null ],
+    [ "_instance", "dd/dfd/a16556.html#a5cce2f56e6ef0b4baeb6f2f7dbfd2f73", null ],
+    [ "_materialDamage", "dd/dfd/a16556.html#afcc510b0d4be10ed057d1a304b803b69", null ],
+    [ "_twilightDamage", "dd/dfd/a16556.html#a13a9efcb11ed31725c45011508407287", null ]
 ];

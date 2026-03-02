@@ -1,6 +1,6 @@
 var a03485 =
 [
-    [ "DataHeader", "d0/dc1/a03485.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "ScarletMonasteryScriptName", "d0/dc1/a03485.html#ac64beb71a88e1265849782b79406b585", null ],
-    [ "GetScarletMonasteryAI", "d0/dc1/a03485.html#aecdcabc87b1cc31996b702fd11416f35", null ]
+    [ "fireworkShowGameobjectStormwind", "d0/dc1/a03485.html#ae843a13f6116ce380e3890397d825ae6", null ],
+    [ "fireworkShowScheduleStormwind", "d0/dc1/a03485.html#af98c86c5b3725a8753fc620996c94b7f", null ],
+    [ "fireworkShowStormwind", "d0/dc1/a03485.html#a378278257abadcd4369abd66f412d8e6", null ]
 ];

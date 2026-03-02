@@ -1,6 +1,7 @@
 var a25012 =
 [
-    [ "HandleScriptEffect", "d6/d7e/a25012.html#a142d6a512ba6e937985a9c21725d8d33", null ],
-    [ "PrepareSpellScript", "d6/d7e/a25012.html#af46fd8adaf8fef92984376ad6aa4f9a2", null ],
-    [ "Register", "d6/d7e/a25012.html#a9cbf1c0678bd0775a452aa3270dff6a0", null ]
+    [ "CheckProc", "d6/d7e/a25012.html#ab376febda606dba5e9f7f5639f867859", null ],
+    [ "HandleProc", "d6/d7e/a25012.html#aa8dac7f0a238f6f131553cbc7a142594", null ],
+    [ "PrepareAuraScript", "d6/d7e/a25012.html#a7693a86824050ff5615996d0d03d0292", null ],
+    [ "Register", "d6/d7e/a25012.html#a458745913288889f687bb19a147cb0fb", null ]
 ];

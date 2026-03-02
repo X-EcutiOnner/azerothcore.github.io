@@ -1,5 +1,8 @@
 var a05948 =
 [
-    [ "element", "de/db2/a05948.html#ae5400b2932fe1a8c514c38fb6bab392f", null ],
-    [ "type", "de/db2/a05948.html#afb3f8dc82da740b1aaae165cb6a5b218", null ]
+    [ "Statements", "de/db2/a05948.html#a6dc31cb64a22e90cc5275bf6fcaaf000", null ],
+    [ "LoginDatabaseConnection", "de/db2/a05948.html#aed22866380f9331ff73d4437a779206c", null ],
+    [ "LoginDatabaseConnection", "de/db2/a05948.html#a27fa1397706cf8b986fe0a05a82a910b", null ],
+    [ "~LoginDatabaseConnection", "de/db2/a05948.html#a7514a6e42889d5d75dcce2e804fff7b8", null ],
+    [ "DoPrepareStatements", "de/db2/a05948.html#a3f826d59e4efa55d7825f90f434ae889", null ]
 ];

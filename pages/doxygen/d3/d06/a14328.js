@@ -1,8 +1,7 @@
 var a14328 =
 [
-    [ "npc_zulaman_hostageAI", "d0/d8e/a14332.html", "d0/d8e/a14332" ],
-    [ "npc_zulaman_hostage", "d3/d06/a14328.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
-    [ "GetAI", "d3/d06/a14328.html#a0ae144dc154dd028b409c9d2393f890c", null ],
-    [ "OnGossipHello", "d3/d06/a14328.html#a89d68a976f916a4de2196b57ec0026b0", null ],
-    [ "OnGossipSelect", "d3/d06/a14328.html#a114f6fbfab90944fd49babcba4b48a11", null ]
+    [ "spell", "d3/d06/a14328.html#a55423d09b2f1775dc386a36168ad764d", null ],
+    [ "spiritEntry", "d3/d06/a14328.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
+    [ "text", "d3/d06/a14328.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
+    [ "unaura", "d3/d06/a14328.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
 ];

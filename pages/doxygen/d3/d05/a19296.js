@@ -1,5 +1,6 @@
 var a19296 =
 [
-    [ "at_icc_putricide_trap", "d3/d05/a19296.html#a9d4183629deada9c22750b8a34e94583", null ],
-    [ "OnTrigger", "d3/d05/a19296.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "d1/d40/a19300.html", "d1/d40/a19300" ],
+    [ "npc_icc_nerubar_broodkeeper", "d3/d05/a19296.html#adf9c3bfb444fed50420c2e780b373f34", null ],
+    [ "GetAI", "d3/d05/a19296.html#ad12186da36f7bbf99275a746bc874bfc", null ]
 ];

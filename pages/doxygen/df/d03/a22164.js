@@ -1,6 +1,7 @@
 var a22164 =
 [
-    [ "npc_time_lost_proto_drakeAI", "db/d02/a22168.html", "db/d02/a22168" ],
-    [ "npc_time_lost_proto_drake", "df/d03/a22164.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
-    [ "GetAI", "df/d03/a22164.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
+    [ "HandleSendEvent", "df/d03/a22164.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
+    [ "PrepareSpellScript", "df/d03/a22164.html#af698a946e07235c18c8b785a1f775ec9", null ],
+    [ "Register", "df/d03/a22164.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
+    [ "Validate", "df/d03/a22164.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
 ];

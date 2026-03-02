@@ -1,6 +1,6 @@
 var a18308 =
 [
-    [ "FilterTargets", "de/d68/a18308.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
-    [ "PrepareSpellScript", "de/d68/a18308.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
-    [ "Register", "de/d68/a18308.html#a32e04a1110d651701b8eab1648c69a57", null ]
+    [ "npc_volatile_oozeAI", "df/d0c/a18312.html", "df/d0c/a18312" ],
+    [ "npc_volatile_ooze", "de/d68/a18308.html#a22847e44812a0b13b92cfcca3a70204e", null ],
+    [ "GetAI", "de/d68/a18308.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
 ];

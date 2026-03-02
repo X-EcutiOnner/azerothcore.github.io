@@ -1,6 +1,9 @@
 var a18836 =
 [
-    [ "npc_lk_spirit_bombAI", "d3/dc9/a18840.html", "d3/dc9/a18840" ],
-    [ "npc_lk_spirit_bomb", "de/d73/a18836.html#acc08d41aa1761c450de782e92307ad7c", null ],
-    [ "GetAI", "de/d73/a18836.html#ade74c00beb2da69dafb0ae93d771c430", null ]
+    [ "FilterTargets", "de/d73/a18836.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
+    [ "Load", "de/d73/a18836.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
+    [ "PrepareSpellScript", "de/d73/a18836.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
+    [ "Register", "de/d73/a18836.html#afad887fba0d97512a7a13a31977cf42d", null ],
+    [ "Validate", "de/d73/a18836.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
+    [ "_instance", "de/d73/a18836.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
 ];

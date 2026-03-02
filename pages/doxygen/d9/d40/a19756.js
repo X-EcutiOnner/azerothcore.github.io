@@ -1,12 +1,14 @@
 var a19756 =
 [
-    [ "instance_nexus_InstanceMapScript", "d9/d40/a19756.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
-    [ "Initialize", "d9/d40/a19756.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
-    [ "KillAllFrayers", "d9/d40/a19756.html#a7c696467deba7a2f15d5175e3427bd20", null ],
-    [ "OnCreatureCreate", "d9/d40/a19756.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
-    [ "OnGameObjectCreate", "d9/d40/a19756.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
-    [ "OnGameObjectRemove", "d9/d40/a19756.html#ac148c67823484eee38ab6646dfb68530", null ],
-    [ "SetBossState", "d9/d40/a19756.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
-    [ "SetData", "d9/d40/a19756.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ],
-    [ "_frayerGUIDs", "d9/d40/a19756.html#ab85b5379b6c177dc1d61ccd14106a325", null ]
+    [ "boss_magus_telestra", "d9/d40/a19756.html#ac8ee0c8ac0bafa479ef6c3669c8aa430", null ],
+    [ "AttackStart", "d9/d40/a19756.html#a9ef67f8a53c5dceaf74bc156e0c6edad", null ],
+    [ "GetData", "d9/d40/a19756.html#a713f93edc709edabe003c305efdd709c", null ],
+    [ "JustDied", "d9/d40/a19756.html#ac69759755637749a58f712b86d3bf9ac", null ],
+    [ "JustEngagedWith", "d9/d40/a19756.html#a91b4569027b3414814bf1f2e86441fc6", null ],
+    [ "JustSummoned", "d9/d40/a19756.html#a1fc0f30287916d6606829987d29d9387", null ],
+    [ "KilledUnit", "d9/d40/a19756.html#a85b333905e5dcd34dbe001306924529a", null ],
+    [ "Reset", "d9/d40/a19756.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
+    [ "SpellHit", "d9/d40/a19756.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
+    [ "UpdateAI", "d9/d40/a19756.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
+    [ "achievement", "d9/d40/a19756.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ]
 ];

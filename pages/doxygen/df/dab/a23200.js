@@ -1,10 +1,6 @@
 var a23200 =
 [
-    [ "npc_frozen_core", "df/dab/a23200.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
-    [ "DoAction", "df/dab/a23200.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
-    [ "Initialize", "df/dab/a23200.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
-    [ "JustDied", "df/dab/a23200.html#a476e086b0379e0cef3a44d250b020d6a", null ],
-    [ "UpdateAI", "df/dab/a23200.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
-    [ "_events", "df/dab/a23200.html#a3a5efec3279644ef713722e1556a3c84", null ],
-    [ "_instance", "df/dab/a23200.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
+    [ "HandleEffectRemove", "df/dab/a23200.html#ac74d25501690970c607a146eec02ab24", null ],
+    [ "PrepareAuraScript", "df/dab/a23200.html#a858929800089fee1a06948bda1c8806f", null ],
+    [ "Register", "df/dab/a23200.html#a003e9c77e59008ea78b3f1e9977ab5d6", null ]
 ];

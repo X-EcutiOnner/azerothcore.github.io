@@ -1,8 +1,10 @@
 var a19684 =
 [
-    [ "Load", "d1/d19/a19684.html#a7bb0a7c71fb3b9958226069ed6e3399b", null ],
-    [ "OnRemove", "d1/d19/a19684.html#a1d9a8a8b289f565712ab79e9857f6eb7", null ],
-    [ "PrepareAuraScript", "d1/d19/a19684.html#aae6c3a215b09fd2270976190600e2cc4", null ],
-    [ "Register", "d1/d19/a19684.html#aa2c970e4e5b84d79960023c79e95f9c3", null ],
-    [ "Validate", "d1/d19/a19684.html#ae4ac76269793280335d76a78e5dced91", null ]
+    [ "npc_power_spark", "d1/d19/a19684.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
+    [ "DamageTaken", "d1/d19/a19684.html#afe33d511823666929232bfd0179ee72a", null ],
+    [ "DoAction", "d1/d19/a19684.html#ab99a859ee718d49ce59171e7e7159abc", null ],
+    [ "UpdateAI", "d1/d19/a19684.html#ab36e75c87aa262a57be1594289284730", null ],
+    [ "_checkTimer", "d1/d19/a19684.html#ae63f0f359037363b840fe51a797969b5", null ],
+    [ "_instance", "d1/d19/a19684.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
+    [ "_moveTimer", "d1/d19/a19684.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
 ];

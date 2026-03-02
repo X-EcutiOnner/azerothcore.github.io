@@ -1,8 +1,8 @@
 var a14364 =
 [
-    [ "HandleScriptEffect", "df/dad/a14364.html#af7f22d3b7ba136ec2af88656b9805168", null ],
-    [ "PrepareSpellScript", "df/dad/a14364.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3", null ],
-    [ "Register", "df/dad/a14364.html#a6a6d95c6d33bc8d90a2022e1ce23c635", null ],
-    [ "Validate", "df/dad/a14364.html#a94a5697e9d8a068fe6ae34b8aaf974fd", null ],
-    [ "spells", "df/dad/a14364.html#a902fc17746af82a4c58fe599c9616ce2", null ]
+    [ "npc_zulaman_hostageAI", "de/d21/a14368.html", "de/d21/a14368" ],
+    [ "npc_zulaman_hostage", "df/dad/a14364.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
+    [ "GetAI", "df/dad/a14364.html#a0ae144dc154dd028b409c9d2393f890c", null ],
+    [ "OnGossipHello", "df/dad/a14364.html#a89d68a976f916a4de2196b57ec0026b0", null ],
+    [ "OnGossipSelect", "df/dad/a14364.html#a114f6fbfab90944fd49babcba4b48a11", null ]
 ];

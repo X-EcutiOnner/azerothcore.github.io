@@ -1,12 +1,7 @@
 var a17636 =
 [
-    [ "boss_moorabiAI", "da/dbf/a17636.html#a60a03c3840a3743719996929d2ca9e59", null ],
-    [ "EnterEvadeMode", "da/dbf/a17636.html#a7b77a6da820e9b3be80c94a37fe07db4", null ],
-    [ "JustDied", "da/dbf/a17636.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
-    [ "JustEngagedWith", "da/dbf/a17636.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
-    [ "KilledUnit", "da/dbf/a17636.html#a265855d2972e534e927bfa609fbf2cf5", null ],
-    [ "Reset", "da/dbf/a17636.html#a9daf89ed0f4e5795cafc63a6a81e5d1d", null ],
-    [ "SpellHitTarget", "da/dbf/a17636.html#af1f30a0f3bf0f88725f8a146c528b77a", null ],
-    [ "UpdateAI", "da/dbf/a17636.html#a9f9956aaaa60d5d0005a55a87d0424eb", null ],
-    [ "events2", "da/dbf/a17636.html#a02a3bc20ca7b1b750bfd1bd29f093dd2", null ]
+    [ "HandleDummy", "da/dbf/a17636.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
+    [ "PrepareSpellScript", "da/dbf/a17636.html#a3ef0564565ea49265800422c835432b0", null ],
+    [ "Register", "da/dbf/a17636.html#a7b685926a8d511397889616e97bbd563", null ],
+    [ "Validate", "da/dbf/a17636.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
 ];

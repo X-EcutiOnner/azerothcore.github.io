@@ -1,7 +1,7 @@
 var a23284 =
 [
-    [ "boss_hydromancer_thespia", "dd/dfc/a23284.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
-    [ "JustDied", "dd/dfc/a23284.html#ad0662daabd636bbf544a6791187d71fa", null ],
-    [ "JustEngagedWith", "dd/dfc/a23284.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
-    [ "KilledUnit", "dd/dfc/a23284.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
+    [ "HandleScriptEffect", "dd/dfc/a23284.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
+    [ "PrepareSpellScript", "dd/dfc/a23284.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
+    [ "Register", "dd/dfc/a23284.html#a14772c25b70078c0034b8de17de5b77a", null ],
+    [ "Validate", "dd/dfc/a23284.html#a8318385367bf6c6b09e0978c461f5d59", null ]
 ];

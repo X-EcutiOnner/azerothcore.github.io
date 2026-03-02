@@ -1,6 +1,5 @@
 var a08696 =
 [
-    [ "active", "d3/d01/a08696.html#a9460571d6fc219ab8c475aab34fc9494", null ],
-    [ "state", "d3/d01/a08696.html#a0600418cb460fdaf8093bfa609e796c8", null ],
-    [ "type", "d3/d01/a08696.html#a4c4a7d0f299ae4e2ceb146a741057032", null ]
+    [ "PositionXYZStreamer", "d3/d01/a08696.html#a8da1be6111bd97ef68d62d0d9d630c56", null ],
+    [ "m_pos", "d3/d01/a08696.html#ae5db7cb3adba811c0b9483645a7f1770", null ]
 ];

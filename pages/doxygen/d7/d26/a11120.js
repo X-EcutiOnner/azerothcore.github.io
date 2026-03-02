@@ -1,9 +1,9 @@
 var a11120 =
 [
-    [ "Weather", "d7/d26/a11120.html#aa404c94fec05b825454a7309827767c6", null ],
-    [ "Weather", "d7/d26/a11120.html#a28f45d81441d2dde6917380978dfb4d0", null ],
-    [ "Write", "d7/d26/a11120.html#a641c7de3e527dcdff07b3f602880b5c8", null ],
-    [ "Abrupt", "d7/d26/a11120.html#a0abe1fcb36d21ac246174cdc98c0e261", null ],
-    [ "Intensity", "d7/d26/a11120.html#ac37cee2364921a50e2b1ec1b19ed69b7", null ],
-    [ "WeatherID", "d7/d26/a11120.html#a32e56458b1e562c124cfc0288a578134", null ]
+    [ "ItemEnchantTimeUpdate", "d7/d26/a11120.html#ade76f6fcc5a2f4032ba1f6a10022de53", null ],
+    [ "Write", "d7/d26/a11120.html#ade148bd152f0708ed90d549d8f9feb0a", null ],
+    [ "Duration", "d7/d26/a11120.html#ad576ce6011716519a70c6e00e0753a49", null ],
+    [ "ItemGuid", "d7/d26/a11120.html#aeff05f6bb1235655b81d21a2f7aecdc8", null ],
+    [ "PlayerGuid", "d7/d26/a11120.html#a4623875e38909d8b7300e7d9c703b216", null ],
+    [ "Slot", "d7/d26/a11120.html#ad8ddb0dfbe2c07385cc2c95a456086b5", null ]
 ];

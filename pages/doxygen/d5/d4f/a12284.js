@@ -1,8 +1,12 @@
 var a12284 =
 [
-    [ "ironhand_guardianAI", "d5/d4f/a12284.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
-    [ "SetData", "d5/d4f/a12284.html#ab4e6402951bf45910fb3399ea107b207", null ],
-    [ "UpdateAI", "d5/d4f/a12284.html#a095b11f44935c8ddb43a20c095495507", null ],
-    [ "events", "d5/d4f/a12284.html#a13ed887285809d2fcad0d23fdf37face", null ],
-    [ "flames_enabled", "d5/d4f/a12284.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
+    [ "boss_balinda", "d5/d4f/a12284.html#a2f3ce696dbc66843cddc13196800866b", null ],
+    [ "DamageTaken", "d5/d4f/a12284.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
+    [ "JustDied", "d5/d4f/a12284.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
+    [ "JustEngagedWith", "d5/d4f/a12284.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
+    [ "JustSummoned", "d5/d4f/a12284.html#a3c2306326d2f85fbb6766352117a1f91", null ],
+    [ "Reset", "d5/d4f/a12284.html#a1ecfa5d743682997076a47cce44b19f5", null ],
+    [ "UpdateAI", "d5/d4f/a12284.html#af3506dd75baef12fd0328aed21636978", null ],
+    [ "_hasCastIceBlock", "d5/d4f/a12284.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
+    [ "summons", "d5/d4f/a12284.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
 ];

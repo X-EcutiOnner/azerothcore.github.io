@@ -1,8 +1,7 @@
 var a24256 =
 [
-    [ "go_skull_pile", "d6/d19/a24256.html#a9cf8dfef432c4967c60f66e645585770", null ],
-    [ "OnGossipHello", "d6/d19/a24256.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
-    [ "OnGossipSelect", "d6/d19/a24256.html#afb8e8db2705355e975fa48c98e09f20b", null ],
-    [ "SendActionMenu", "d6/d19/a24256.html#a048dd224b46ead864958ad524d76167f", null ],
-    [ "_result", "d6/d19/a24256.html#af74fcd75404c0886128401d661067394", null ]
+    [ "HandlePeriodic", "d6/d19/a24256.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
+    [ "PrepareAuraScript", "d6/d19/a24256.html#a58dc6668172d046cef3046649928c124", null ],
+    [ "Register", "d6/d19/a24256.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
+    [ "Validate", "d6/d19/a24256.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
 ];

@@ -1,6 +1,11 @@
 var a18716 =
 [
-    [ "npc_raging_spiritAI", "d0/d28/a18720.html", "d0/d28/a18720" ],
-    [ "npc_raging_spirit", "d9/ddb/a18716.html#ad1a580bd394adc8c58575b600c16f9db", null ],
-    [ "GetAI", "d9/ddb/a18716.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
+    [ "AddMissingStack", "d9/ddb/a18716.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
+    [ "CheckAura", "d9/ddb/a18716.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
+    [ "FilterTargets", "d9/ddb/a18716.html#ab6c86c3680823329d5f3aad985aa316a", null ],
+    [ "Load", "d9/ddb/a18716.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
+    [ "PrepareSpellScript", "d9/ddb/a18716.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
+    [ "Register", "d9/ddb/a18716.html#af0e6f1fc6687de1abcc1689116150088", null ],
+    [ "_hadInitialAura", "d9/ddb/a18716.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
+    [ "_hadJumpingAura", "d9/ddb/a18716.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
 ];

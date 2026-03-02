@@ -1,8 +1,6 @@
 var a23432 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "da/d1e/a23432.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
-    [ "GetData", "da/d1e/a23432.html#a410630dbbe00acf0b69603cfc357d503", null ],
-    [ "SetBossState", "da/d1e/a23432.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
-    [ "SetData", "da/d1e/a23432.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
-    [ "_addsKilled", "da/d1e/a23432.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
+    [ "CalculateDamage", "da/d1e/a23432.html#a170fb61e3a7358d42cc6506067fb978a", null ],
+    [ "PrepareSpellScript", "da/d1e/a23432.html#a197fce87e22a3e4055cabbb925b13aa1", null ],
+    [ "Register", "da/d1e/a23432.html#aac3c6a6b34af795cb08fc299e763f6a8", null ]
 ];

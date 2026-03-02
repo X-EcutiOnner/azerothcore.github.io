@@ -1,7 +1,9 @@
 var a07584 =
 [
-    [ "BattlegroundEYPointIconsStruct", "dc/d86/a07584.html#a322379024d155d293d1c0083c510d232", null ],
-    [ "WorldStateAllianceControlledIndex", "dc/d86/a07584.html#a449932bc2357e26c79520fcf01a71a2a", null ],
-    [ "WorldStateControlIndex", "dc/d86/a07584.html#a82e87048f934b67821bc8ba308ed101d", null ],
-    [ "WorldStateHordeControlledIndex", "dc/d86/a07584.html#a1118c998cf9a319f9c81c100d23c25d3", null ]
+    [ "CapturePointInfo", "dc/d86/a07584.html#a47ba3bbadd15909726e87dc5adc67686", null ],
+    [ "_captured", "dc/d86/a07584.html#aac26833d9951853183095b3985254e03", null ],
+    [ "_iconCapture", "dc/d86/a07584.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
+    [ "_iconNone", "dc/d86/a07584.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
+    [ "_ownerTeamId", "dc/d86/a07584.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
+    [ "_state", "dc/d86/a07584.html#a98cb154218423e295b8007c62222831c", null ]
 ];

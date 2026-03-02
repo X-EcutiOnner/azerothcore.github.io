@@ -1,10 +1,6 @@
 var a21484 =
 [
-    [ "npc_jenny", "d0/deb/a21484.html#ab845ba4551900a03c5a995d348a1be55", null ],
-    [ "DamageTaken", "d0/deb/a21484.html#a8700091c82bfff473f3d5563deb69e0b", null ],
-    [ "Initialize", "d0/deb/a21484.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
-    [ "MoveInLineOfSight", "d0/deb/a21484.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
-    [ "UpdateFollowerAI", "d0/deb/a21484.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
-    [ "_events", "d0/deb/a21484.html#aa98caf8b706551470c943b4b722a85ae", null ],
-    [ "_fezzix", "d0/deb/a21484.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
+    [ "npc_khunok_the_behemothAI", "db/d54/a21488.html", "db/d54/a21488" ],
+    [ "npc_khunok_the_behemoth", "d0/deb/a21484.html#a0370959631c00581495dbd7c37263236", null ],
+    [ "GetAI", "d0/deb/a21484.html#a201aa35dd119d23126b192a1e3786c09", null ]
 ];

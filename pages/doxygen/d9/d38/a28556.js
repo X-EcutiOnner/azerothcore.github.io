@@ -1,8 +1,6 @@
 var a28556 =
 [
-    [ "npc_traveler_mammoth_vendor", "d9/d38/a28556.html#af3b5fc14371eb03e8259799b296967c1", null ],
-    [ "Reset", "d9/d38/a28556.html#a2b8cf527d2a42b4884f0a4e03a15e8ef", null ],
-    [ "UpdateAI", "d9/d38/a28556.html#a98129bb78476ddc0b1a09593b8894fff", null ],
-    [ "_hasEjected", "d9/d38/a28556.html#af801e9849a795358c812fddf69ec8434", null ],
-    [ "_playerGuid", "d9/d38/a28556.html#a9e657a91bedc5643b2de6a135e97d89c", null ]
+    [ "npc_spring_rabbitAI", "d3/dd8/a28560.html", "d3/dd8/a28560" ],
+    [ "npc_spring_rabbit", "d9/d38/a28556.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
+    [ "GetAI", "d9/d38/a28556.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
 ];

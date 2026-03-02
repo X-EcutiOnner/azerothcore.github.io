@@ -1,8 +1,9 @@
 var a19240 =
 [
-    [ "Class", "d8/d38/a19240.html#a095390e9023609f5836c4481ed79e1af", null ],
-    [ "cooldown_ms", "d8/d38/a19240.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
-    [ "id", "d8/d38/a19240.html#ae9fdf89271339b93f306c4aa0871f844", null ],
-    [ "range", "d8/d38/a19240.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
-    [ "targetType", "d8/d38/a19240.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "d8/d38/a19240.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
+    [ "AttackStart", "d8/d38/a19240.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
+    [ "JustEngagedWith", "d8/d38/a19240.html#a7648c626ded6d3abef798b46c77f991d", null ],
+    [ "Reset", "d8/d38/a19240.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
+    [ "UpdateAI", "d8/d38/a19240.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
+    [ "events", "d8/d38/a19240.html#a5aaffc1e78c255c95893be1537e520d6", null ]
 ];

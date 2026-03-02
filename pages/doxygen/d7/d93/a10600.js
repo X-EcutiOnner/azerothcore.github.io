@@ -1,7 +1,5 @@
 var a10600 =
 [
-    [ "SpellScriptLoader", "d7/d93/a10600.html#a0ae97b8f3cf24f46b98a121d35bdeadf", null ],
-    [ "GetAuraScript", "d7/d93/a10600.html#a9c60850e39ffe3d151a128b12777859d", null ],
-    [ "GetSpellScript", "d7/d93/a10600.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
-    [ "IsDatabaseBound", "d7/d93/a10600.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
+    [ "MailScript", "d7/d93/a10600.html#a009eaf9dd8d44427e8e5c91a92ebb5c5", null ],
+    [ "OnBeforeMailDraftSendMailTo", "d7/d93/a10600.html#ab4e3f0552ffc705ef44e8ca6c36f2be7", null ]
 ];

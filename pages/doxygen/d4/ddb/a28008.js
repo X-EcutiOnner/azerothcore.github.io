@@ -1,6 +1,5 @@
 var a28008 =
 [
-    [ "boss_lethonAI", "dd/d3a/a28012.html", "dd/d3a/a28012" ],
-    [ "boss_lethon", "d4/ddb/a28008.html#a5d758979b061646830373de64b2b3af4", null ],
-    [ "GetAI", "d4/ddb/a28008.html#a493baf37aac400635dd0409e79375a1c", null ]
+    [ "AreaTrigger_at_nats_landing", "d4/ddb/a28008.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
+    [ "OnTrigger", "d4/ddb/a28008.html#a67434f74300fa3463e679afb7d344467", null ]
 ];

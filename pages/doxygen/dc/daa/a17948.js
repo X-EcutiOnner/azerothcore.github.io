@@ -1,6 +1,17 @@
 var a17948 =
 [
-    [ "Cooldown", "dc/daa/a17948.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
-    [ "Entry", "dc/daa/a17948.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
-    [ "TargetPosition", "dc/daa/a17948.html#ac47af49622012b4ad40357cadc5214b3", null ]
+    [ "boss_festergutAI", "dc/daa/a17948.html#a7649f45cfc8bf05bf46b4e50319b4fb3", null ],
+    [ "EnterEvadeMode", "dc/daa/a17948.html#a001e00435bb01b464573dbff8338c64a", null ],
+    [ "GetData", "dc/daa/a17948.html#aea4509b130c9b5a8a5dd054ac8783312", null ],
+    [ "JustDied", "dc/daa/a17948.html#abd0f4f55cfb026d0e25ff7a825d390d1", null ],
+    [ "JustEngagedWith", "dc/daa/a17948.html#ad5538ae8933a4fd492ab45560dea785e", null ],
+    [ "JustReachedHome", "dc/daa/a17948.html#a7e371063b84df1f8fe1df1a5bff38ca9", null ],
+    [ "KilledUnit", "dc/daa/a17948.html#a3af6cacb219928c3c89f7ce3d980ae88", null ],
+    [ "RemoveBlight", "dc/daa/a17948.html#a5807cd013ebe935f69bc1824386afd72", null ],
+    [ "Reset", "dc/daa/a17948.html#aeb046d9ef4aa9b7b94aa1ee1727ab1be", null ],
+    [ "SetData", "dc/daa/a17948.html#af8678cd7e9ddd7ef8095217e4820e7af", null ],
+    [ "UpdateAI", "dc/daa/a17948.html#ac2b9e850d425336f2bdc6a1d9a707fa0", null ],
+    [ "_gasDummyGUID", "dc/daa/a17948.html#a742b6ab0990d54e011ac36fde2c2cca2", null ],
+    [ "_inhaleCounter", "dc/daa/a17948.html#aed5b7fce1ebf9f76fffa2ba682c54b4e", null ],
+    [ "_maxInoculatedStack", "dc/daa/a17948.html#aeda8f6f959f7b7bd311aabde940a05ca", null ]
 ];

@@ -1,5 +1,5 @@
 var a18860 =
 [
-    [ "achievement_neck_deep_in_vile", "d0/db9/a18860.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
-    [ "OnCheck", "d0/db9/a18860.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
+    [ "npc_icc_lk_checktargetAI", "d0/db9/a18860.html#a9a5953a9353be61a3fa96eaf7df7c489", null ],
+    [ "CanAIAttack", "d0/db9/a18860.html#a4dfce75e23f1093c3de0ce75b049a20a", null ]
 ];

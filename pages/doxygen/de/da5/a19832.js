@@ -1,8 +1,6 @@
 var a19832 =
 [
-    [ "npc_centrifuge_constructAI", "de/da5/a19832.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
-    [ "DamageTaken", "de/da5/a19832.html#aa568418de267a99108698e79baa1b3f4", null ],
-    [ "JustEngagedWith", "de/da5/a19832.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
-    [ "Reset", "de/da5/a19832.html#a2f7750cea2f59d794c85e20b703370af", null ],
-    [ "UpdateAI", "de/da5/a19832.html#a28316416ad6c56d83c9e878511256445", null ]
+    [ "instance_oculus_InstanceMapScript", "d7/d5e/a19836.html", "d7/d5e/a19836" ],
+    [ "instance_oculus", "de/da5/a19832.html#a404205ea7106531ea57307c40b9589bb", null ],
+    [ "GetInstanceScript", "de/da5/a19832.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
 ];

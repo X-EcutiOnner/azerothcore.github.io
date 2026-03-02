@@ -1,6 +1,9 @@
 var a12344 =
 [
-    [ "boss_anubshiahAI", "dc/da0/a12344.html#ae5bdb5509aad0d386bf73e5aad728744", null ],
-    [ "JustEngagedWith", "dc/da0/a12344.html#ae83c1def323828814b5db6b032002438", null ],
-    [ "UpdateAI", "dc/da0/a12344.html#a3acd88f97e2f1e3386c9b5dfa4f15d15", null ]
+    [ "npc_phalanxAI", "dc/da0/a12344.html#a1a09cd0b0cf765dec20ca9c3c5bb9373", null ],
+    [ "Reset", "dc/da0/a12344.html#a41a14315d82b169528bd764335c16d52", null ],
+    [ "UpdateAI", "dc/da0/a12344.html#a78092bfb2d9b8455b5348d872afc6521", null ],
+    [ "FireballVolley_Timer", "dc/da0/a12344.html#a0e7bedf19d7a69707fcfec9cbd3649e5", null ],
+    [ "MightyBlow_Timer", "dc/da0/a12344.html#ae8fe8a7313f573e910763d5a82303e66", null ],
+    [ "ThunderClap_Timer", "dc/da0/a12344.html#ab68781dcd728e2a0d021a0d52e43fd71", null ]
 ];

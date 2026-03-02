@@ -1,11 +1,17 @@
 var a11428 =
 [
-    [ "Player", "d3/d22/a11428.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "d3/d22/a11428.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Face", "d3/d22/a11428.html#a6334464eea38be514f3faa7538b39a5a", null ],
-    [ "FacialHair", "d3/d22/a11428.html#a44643270b211d275eb94283842791407", null ],
-    [ "Gender", "d3/d22/a11428.html#a14321ea3595debe2836eceab8a82f944", null ],
-    [ "HairColor", "d3/d22/a11428.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
-    [ "HairStyle", "d3/d22/a11428.html#ade5b2dff213547ab4d707070f8979085", null ],
-    [ "Skin", "d3/d22/a11428.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
+    [ "WorldPacket", "d3/d22/a11428.html#a6329945c46586b75f41f4f3b0410a046", null ],
+    [ "WorldPacket", "d3/d22/a11428.html#a121222c627cfce905891be1611705a1a", null ],
+    [ "WorldPacket", "d3/d22/a11428.html#af406fe2f357035990fd5eccf37f3fb93", null ],
+    [ "WorldPacket", "d3/d22/a11428.html#a2880e36e172096407778fcbbdfe917bc", null ],
+    [ "WorldPacket", "d3/d22/a11428.html#a251580581b403cc113aa743c0196ceea", null ],
+    [ "WorldPacket", "d3/d22/a11428.html#a224a2ad18da5d8dd7a7bcbb887870243", null ],
+    [ "GetOpcode", "d3/d22/a11428.html#a666547feae3b83bfbba424a541287239", null ],
+    [ "GetReceivedTime", "d3/d22/a11428.html#a467aa36509adcb07f51bc8af24137c3e", null ],
+    [ "Initialize", "d3/d22/a11428.html#a6b7d58fb0230383629fa888d3aa9dbd8", null ],
+    [ "operator=", "d3/d22/a11428.html#ad44064a3c2c73f6289a9db539b408f50", null ],
+    [ "operator=", "d3/d22/a11428.html#aa1196a05e7b338543b3b94188e59721f", null ],
+    [ "SetOpcode", "d3/d22/a11428.html#acb55a3f9540c39bf88300473c29605ed", null ],
+    [ "m_opcode", "d3/d22/a11428.html#a4ff77d8a27744f07bbab70cdc4a3ef91", null ],
+    [ "m_receivedTime", "d3/d22/a11428.html#abb78776ad3a0f19e5e3d226666612b49", null ]
 ];

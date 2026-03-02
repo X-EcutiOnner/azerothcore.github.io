@@ -1,6 +1,8 @@
 var a15748 =
 [
-    [ "npc_draenei_survivorAI", "dd/d49/a15752.html", "dd/d49/a15752" ],
-    [ "npc_draenei_survivor", "d0/d96/a15748.html#a1dca668a7c3f868677a9bf306288430c", null ],
-    [ "GetAI", "d0/d96/a15748.html#aa8dde30279bb898a4412491faca79267", null ]
+    [ "npc_obsidian_nullifier", "d0/d96/a15748.html#a9dbb6d681e348057564750fcd7e8050a", null ],
+    [ "JustEngagedWith", "d0/d96/a15748.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
+    [ "Reset", "d0/d96/a15748.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
+    [ "UpdateAI", "d0/d96/a15748.html#a37cf1d335dd3735b262e82828c4f904a", null ],
+    [ "_targetGUIDs", "d0/d96/a15748.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
 ];

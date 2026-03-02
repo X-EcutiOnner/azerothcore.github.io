@@ -1,7 +1,6 @@
 var a28616 =
 [
-    [ "HandleDummy", "da/d19/a28616.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
-    [ "PrepareSpellScript", "da/d19/a28616.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
-    [ "Register", "da/d19/a28616.html#a66c530b497e4952b457bbfa50a036c07", null ],
-    [ "Validate", "da/d19/a28616.html#a968333dcfe0553ad73879f3042db5511", null ]
+    [ "npc_necropolis_proxy", "da/d19/a28616.html#a73f92ee73673172989d48064e5984db0", null ],
+    [ "SpellHit", "da/d19/a28616.html#a90d1ab55683a6409403e24291643cca5", null ],
+    [ "SpellHitTarget", "da/d19/a28616.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
 ];

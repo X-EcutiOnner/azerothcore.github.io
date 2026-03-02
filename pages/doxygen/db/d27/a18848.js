@@ -1,6 +1,7 @@
 var a18848 =
 [
-    [ "npc_lk_wicked_spiritAI", "d4/dab/a18852.html", "d4/dab/a18852" ],
-    [ "npc_lk_wicked_spirit", "db/d27/a18848.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
-    [ "GetAI", "db/d27/a18848.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
+    [ "HandleProc", "db/d27/a18848.html#af06730a865009127c7d3e5423afd4d44", null ],
+    [ "PrepareAuraScript", "db/d27/a18848.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
+    [ "Register", "db/d27/a18848.html#a6c97b787ce00491a259c575d26189f8c", null ],
+    [ "Validate", "db/d27/a18848.html#aed9c98e20d916359629e119d6dd2a94f", null ]
 ];

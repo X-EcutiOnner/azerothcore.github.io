@@ -1,7 +1,6 @@
 var a13100 =
 [
-    [ "npc_malchezaar_axe", "d0/d96/a13100.html#a1a5615f2def10add30e7917b770ebc74", null ],
-    [ "Initialize", "d0/d96/a13100.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
-    [ "JustEngagedWith", "d0/d96/a13100.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
-    [ "UpdateAI", "d0/d96/a13100.html#a202ba6922a426f87909eefbccd070175", null ]
+    [ "HandleDummy", "d0/d96/a13100.html#a9551867737eea27a9acf2d3d475e9b3c", null ],
+    [ "PrepareSpellScript", "d0/d96/a13100.html#a3e14dd6a6f26a163282846f714e2ffb5", null ],
+    [ "Register", "d0/d96/a13100.html#a7be884a657889e1b18d1499c8a053c18", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Movement/Spline/MoveSpline.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellProcPipelineTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,73 +106,1011 @@ $(document).ready(function(){initNavTree('dd/de6/a00548.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">MoveSpline.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">SpellProcPipelineTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">MoveSpline.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Creature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
-<code>#include &lt;sstream&gt;</code><br />
+
+<p>End-to-end integration tests for the full proc pipeline.  
+<a href="#details">More...</a></p>
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ProcEventInfoHelper.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">AuraStub.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">UnitStub.h</a>&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d2d/a10272.html">Movement::FallInitializer</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc5/a10276.html">Movement::CommonInitializer</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:db/d40/a04987"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d40/a04987.html">Movement</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a4005b3acaa5011bfc2cc027562c04dfb"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de6/a00548.html#a4005b3acaa5011bfc2cc027562c04dfb">CHECK</a>(exp)</td></tr>
-<tr class="separator:a4005b3acaa5011bfc2cc027562c04dfb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a38662d7ee90bab980921c3ae38a96c78"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom">{ <a class="el" href="../../db/d40/a04987.html#a38662d7ee90bab980921c3ae38a96c78ac0830cab2ceed6a2184d7ae9a6cd4e30">Movement::minimal_duration</a> = 1
- }</td></tr>
-<tr class="separator:a38662d7ee90bab980921c3ae38a96c78"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a0f9e26b66bd86bb9701c366e4f9529c3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d40/a04987.html#a0f9e26b66bd86bb9701c366e4f9529c3">Movement::computeDuration</a> (float length, float velocity)</td></tr>
-<tr class="separator:a0f9e26b66bd86bb9701c366e4f9529c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a19a74f2d1aaf27d22fa48f02d6b2d5f9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de6/a00548.html#a19a74f2d1aaf27d22fa48f02d6b2d5f9">TEST_F</a> (<a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>, FullFlow_BasicProc_100Percent)</td></tr>
+<tr class="separator:a19a74f2d1aaf27d22fa48f02d6b2d5f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af1b16c6116add0a4321bbeea7a241688"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de6/a00548.html#af1b16c6116add0a4321bbeea7a241688">TEST_F</a> (<a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>, FullFlow_BasicProc_0Percent)</td></tr>
+<tr class="separator:af1b16c6116add0a4321bbeea7a241688"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96cc3a634c4f6bcce6debcc6e36f4d25"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de6/a00548.html#a96cc3a634c4f6bcce6debcc6e36f4d25">TEST_F</a> (<a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>, FullFlow_WithCooldown)</td></tr>
+<tr class="separator:a96cc3a634c4f6bcce6debcc6e36f4d25"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a35e27540c06c06c8f59ef51bb1a9d42e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de6/a00548.html#a35e27540c06c06c8f59ef51bb1a9d42e">TEST_F</a> (<a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>, FullFlow_WithCharges)</td></tr>
+<tr class="separator:a35e27540c06c06c8f59ef51bb1a9d42e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5cf9d910c9243364707c2f1dedd0582d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de6/a00548.html#a5cf9d910c9243364707c2f1dedd0582d">TEST_F</a> (<a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>, FullFlow_WithStacks)</td></tr>
+<tr class="separator:a5cf9d910c9243364707c2f1dedd0582d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e85b9df4ec0b3f7d770137f7b1184ec"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de6/a00548.html#a1e85b9df4ec0b3f7d770137f7b1184ec">TEST_F</a> (<a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>, Combined_ChargesAndCooldown)</td></tr>
+<tr class="separator:a1e85b9df4ec0b3f7d770137f7b1184ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a485ca0c9676a25a6fd8b861c804696d7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de6/a00548.html#a485ca0c9676a25a6fd8b861c804696d7">TEST_F</a> (<a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>, Combined_PPM_AndCooldown)</td></tr>
+<tr class="separator:a485ca0c9676a25a6fd8b861c804696d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa109507c0c4b2235951bbd288277f13c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de6/a00548.html#aa109507c0c4b2235951bbd288277f13c">TEST_F</a> (<a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>, Combined_Level60Reduction_WithCooldown)</td></tr>
+<tr class="separator:aa109507c0c4b2235951bbd288277f13c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4aea6e742bac43dda127936d36b603a8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de6/a00548.html#a4aea6e742bac43dda127936d36b603a8">TEST_F</a> (<a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>, Scenario_OmenOfClarity)</td></tr>
+<tr class="separator:a4aea6e742bac43dda127936d36b603a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7bda89f7f74cbe336b48303ff1b672b1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de6/a00548.html#a7bda89f7f74cbe336b48303ff1b672b1">TEST_F</a> (<a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>, Scenario_LeaderOfThePack)</td></tr>
+<tr class="separator:a7bda89f7f74cbe336b48303ff1b672b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad2fb2ff6f41f7e7771cb74d49a945a2f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de6/a00548.html#ad2fb2ff6f41f7e7771cb74d49a945a2f">TEST_F</a> (<a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>, Scenario_ArtOfWar)</td></tr>
+<tr class="separator:ad2fb2ff6f41f7e7771cb74d49a945a2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a121e660142edeb8b8867984871635142"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de6/a00548.html#a121e660142edeb8b8867984871635142">TEST_F</a> (<a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>, Scenario_LightningShield)</td></tr>
+<tr class="separator:a121e660142edeb8b8867984871635142"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aee6d5257c9330329d3161f0da69ff4b7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de6/a00548.html#aee6d5257c9330329d3161f0da69ff4b7">TEST_F</a> (<a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>, Scenario_WanderingPlague)</td></tr>
+<tr class="separator:aee6d5257c9330329d3161f0da69ff4b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9b3f0e79a13fd923e704d971188beabf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de6/a00548.html#a9b3f0e79a13fd923e704d971188beabf">TEST_F</a> (<a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>, EdgeCase_NoAura_NoProcPossible)</td></tr>
+<tr class="separator:a9b3f0e79a13fd923e704d971188beabf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad9d5ae60773ca5e0adec858f943d6219"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de6/a00548.html#ad9d5ae60773ca5e0adec858f943d6219">TEST_F</a> (<a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>, EdgeCase_ZeroCooldown_AllowsRapidProcs)</td></tr>
+<tr class="separator:ad9d5ae60773ca5e0adec858f943d6219"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abc9d5b5417f7a9db72bc69a6dee8991c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de6/a00548.html#abc9d5b5417f7a9db72bc69a6dee8991c">TEST_F</a> (<a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>, EdgeCase_VeryLongCooldown)</td></tr>
+<tr class="separator:abc9d5b5417f7a9db72bc69a6dee8991c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5e23f21d78acf55b11a3edfe0017068"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de6/a00548.html#aa5e23f21d78acf55b11a3edfe0017068">TEST_F</a> (<a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>, EdgeCase_ManyCharges)</td></tr>
+<tr class="separator:aa5e23f21d78acf55b11a3edfe0017068"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a84713952083e2b524a32cefc480858ee"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de6/a00548.html#a84713952083e2b524a32cefc480858ee">TEST_F</a> (<a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>, ActorLevel_AffectsProcChance)</td></tr>
+<tr class="separator:a84713952083e2b524a32cefc480858ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abe1d49b795fc6def60b42b113cec4b6f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de6/a00548.html#abe1d49b795fc6def60b42b113cec4b6f">TEST_F</a> (<a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>, WeaponSpeed_AffectsPPMChance)</td></tr>
+<tr class="separator:abe1d49b795fc6def60b42b113cec4b6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a4005b3acaa5011bfc2cc027562c04dfb" name="a4005b3acaa5011bfc2cc027562c04dfb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4005b3acaa5011bfc2cc027562c04dfb">&#9670;&#160;</a></span>CHECK</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >End-to-end integration tests for the full proc pipeline. </p>
+<p >Tests the complete proc execution flow:</p><ol type="1">
+<li>Cooldown check (IsProcOnCooldown)</li>
+<li>Chance calculation (CalcProcChance)</li>
+<li><a class="el" href="../../d7/d21/a09748.html">Roll</a> check (rand_chance)</li>
+<li>Cooldown application</li>
+<li>Charge consumption (ConsumeProcCharges) </li>
+</ol>
+
+<p class="definition">Definition in file <a class="el" href="../../">SpellProcPipelineTest.cpp</a>.</p>
+</div><h2 class="groupheader">Function Documentation</h2>
+<a id="a84713952083e2b524a32cefc480858ee" name="a84713952083e2b524a32cefc480858ee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a84713952083e2b524a32cefc480858ee">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/19]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define CHECK</td>
+          <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">exp</td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">ActorLevel_AffectsProcChance&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">        <span class="keywordflow">if</span> (!(exp)) \</div>
-<div class="line">        { \</div>
-<div class="line">            if (unit) \</div>
-<div class="line">                LOG_ERROR(<span class="stringliteral">&quot;misc.movesplineinitargs&quot;</span>, <span class="stringliteral">&quot;MoveSplineInitArgs::Validate: expression &#39;{}&#39; failed for {}&quot;</span>, #exp, unit-&gt;GetGUID().ToString()); \</div>
-<div class="line">            else \</div>
-<div class="line">                LOG_ERROR(<span class="stringliteral">&quot;misc.movesplineinitargs&quot;</span>, <span class="stringliteral">&quot;MoveSplineInitArgs::Validate: expression &#39;{}&#39; failed for cyclic spline continuation&quot;</span>, #exp); \</div>
-<div class="line">            <span class="keywordflow">return</span> <span class="keyword">false</span>;\</div>
-<div class="line">        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  418</span>{</div>
+<div class="line"><span class="lineno">  419</span>    _scenario-&gt;WithAura(12345);</div>
+<div class="line"><span class="lineno">  420</span>    _scenario-&gt;WithActorLevel(60);</div>
+<div class="line"><span class="lineno">  421</span> </div>
+<div class="line"><span class="lineno">  422</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  423</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(30.0f)</div>
+<div class="line"><span class="lineno">  424</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc">PROC_ATTR_REDUCE_PROC_60</a>)</div>
+<div class="line"><span class="lineno">  425</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  426</span> </div>
+<div class="line"><span class="lineno">  427</span>    <span class="comment">// At level 60, full 30% chance</span></div>
+<div class="line"><span class="lineno">  428</span>    <span class="comment">// Roll of 25 should pass</span></div>
+<div class="line"><span class="lineno">  429</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry, 25.0f));</div>
+<div class="line"><span class="lineno">  430</span> </div>
+<div class="line"><span class="lineno">  431</span>    <span class="comment">// Reset</span></div>
+<div class="line"><span class="lineno">  432</span>    _scenario-&gt;GetAura()-&gt;ResetProcCooldown();</div>
+<div class="line"><span class="lineno">  433</span> </div>
+<div class="line"><span class="lineno">  434</span>    <span class="comment">// Change to level 80</span></div>
+<div class="line"><span class="lineno">  435</span>    _scenario-&gt;WithActorLevel(80);</div>
+<div class="line"><span class="lineno">  436</span> </div>
+<div class="line"><span class="lineno">  437</span>    <span class="comment">// At level 80, only 10% chance</span></div>
+<div class="line"><span class="lineno">  438</span>    <span class="comment">// Roll of 25 should fail</span></div>
+<div class="line"><span class="lineno">  439</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry, 25.0f));</div>
+<div class="line"><span class="lineno">  440</span>}</div>
+<div class="ttc" id="aa01760_html_a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc"><div class="ttname"><a href="../../d0/d9d/a01760.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc">PROC_ATTR_REDUCE_PROC_60</a></div><div class="ttdeci">@ PROC_ATTR_REDUCE_PROC_60</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:278</div></div>
+<div class="ttc" id="aa29588_html"><div class="ttname"><a href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a></div><div class="ttdoc">Builder class for creating SpellProcEntry test instances.</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:141</div></div>
+<div class="ttc" id="aa29588_html_a2a69603215e9fa526304f420bd5a490c"><div class="ttname"><a href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">SpellProcEntryBuilder::Build</a></div><div class="ttdeci">SpellProcEntry Build() const</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:226</div></div>
+<div class="ttc" id="aa29588_html_a3c99a07866eb497717932af6b7f3a485"><div class="ttname"><a href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">SpellProcEntryBuilder::WithChance</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithChance(float chance)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:208</div></div>
+<div class="ttc" id="aa29588_html_ab9585e517adc231979ca5b817a2f2142"><div class="ttname"><a href="../../d8/d1f/a29588.html#ab9585e517adc231979ca5b817a2f2142">SpellProcEntryBuilder::WithAttributesMask</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithAttributesMask(uint32 attributesMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:190</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+
+</div>
+</div>
+<a id="a1e85b9df4ec0b3f7d770137f7b1184ec" name="a1e85b9df4ec0b3f7d770137f7b1184ec"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1e85b9df4ec0b3f7d770137f7b1184ec">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Combined_ChargesAndCooldown&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  147</span>{</div>
+<div class="line"><span class="lineno">  148</span>    _scenario-&gt;WithAura(12345, 5);  <span class="comment">// 5 charges</span></div>
+<div class="line"><span class="lineno">  149</span> </div>
+<div class="line"><span class="lineno">  150</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  151</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  152</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#acd3a4b7ab057b5f36dd407acc11a4da4">WithCooldown</a>(500ms)</div>
+<div class="line"><span class="lineno">  153</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  154</span> </div>
+<div class="line"><span class="lineno">  155</span>    <span class="comment">// First proc at t=0</span></div>
+<div class="line"><span class="lineno">  156</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  157</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 4);</div>
+<div class="line"><span class="lineno">  158</span> </div>
+<div class="line"><span class="lineno">  159</span>    <span class="comment">// Blocked at t=0 (cooldown)</span></div>
+<div class="line"><span class="lineno">  160</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  161</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 4);</div>
+<div class="line"><span class="lineno">  162</span> </div>
+<div class="line"><span class="lineno">  163</span>    <span class="comment">// Wait and proc again at t=600ms</span></div>
+<div class="line"><span class="lineno">  164</span>    _scenario-&gt;AdvanceTime(600ms);</div>
+<div class="line"><span class="lineno">  165</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  166</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 3);</div>
+<div class="line"><span class="lineno">  167</span> </div>
+<div class="line"><span class="lineno">  168</span>    <span class="comment">// Blocked at t=600ms</span></div>
+<div class="line"><span class="lineno">  169</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  170</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 3);</div>
+<div class="line"><span class="lineno">  171</span>}</div>
+<div class="ttc" id="aa29588_html_acd3a4b7ab057b5f36dd407acc11a4da4"><div class="ttname"><a href="../../d8/d1f/a29588.html#acd3a4b7ab057b5f36dd407acc11a4da4">SpellProcEntryBuilder::WithCooldown</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithCooldown(Milliseconds cooldown)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:214</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00214">SpellProcEntryBuilder::WithCooldown()</a>.</p>
+
+</div>
+</div>
+<a id="aa109507c0c4b2235951bbd288277f13c" name="aa109507c0c4b2235951bbd288277f13c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa109507c0c4b2235951bbd288277f13c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Combined_Level60Reduction_WithCooldown&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  197</span>{</div>
+<div class="line"><span class="lineno">  198</span>    _scenario-&gt;WithAura(12345);</div>
+<div class="line"><span class="lineno">  199</span>    _scenario-&gt;WithActorLevel(80);</div>
+<div class="line"><span class="lineno">  200</span> </div>
+<div class="line"><span class="lineno">  201</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  202</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(30.0f)</div>
+<div class="line"><span class="lineno">  203</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#a7fd74f5d829c140285ca6ed18c0e136aa7732c93397a4a12523155c5f4c719efc">PROC_ATTR_REDUCE_PROC_60</a>)</div>
+<div class="line"><span class="lineno">  204</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#acd3a4b7ab057b5f36dd407acc11a4da4">WithCooldown</a>(1000ms)</div>
+<div class="line"><span class="lineno">  205</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  206</span> </div>
+<div class="line"><span class="lineno">  207</span>    <span class="comment">// Level 80: 30% * (1 - 20/30) = 10% effective chance</span></div>
+<div class="line"><span class="lineno">  208</span>    <span class="comment">// Roll of 5 should pass</span></div>
+<div class="line"><span class="lineno">  209</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry, 5.0f));</div>
+<div class="line"><span class="lineno">  210</span> </div>
+<div class="line"><span class="lineno">  211</span>    <span class="comment">// Blocked by cooldown</span></div>
+<div class="line"><span class="lineno">  212</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry, 5.0f));</div>
+<div class="line"><span class="lineno">  213</span> </div>
+<div class="line"><span class="lineno">  214</span>    <span class="comment">// Wait and try again</span></div>
+<div class="line"><span class="lineno">  215</span>    _scenario-&gt;AdvanceTime(1100ms);</div>
+<div class="line"><span class="lineno">  216</span> </div>
+<div class="line"><span class="lineno">  217</span>    <span class="comment">// Roll of 15 should fail (10% chance)</span></div>
+<div class="line"><span class="lineno">  218</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry, 15.0f));</div>
+<div class="line"><span class="lineno">  219</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00278">PROC_ATTR_REDUCE_PROC_60</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00214">SpellProcEntryBuilder::WithCooldown()</a>.</p>
+
+</div>
+</div>
+<a id="a485ca0c9676a25a6fd8b861c804696d7" name="a485ca0c9676a25a6fd8b861c804696d7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a485ca0c9676a25a6fd8b861c804696d7">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Combined_PPM_AndCooldown&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  174</span>{</div>
+<div class="line"><span class="lineno">  175</span>    _scenario-&gt;WithAura(12345);</div>
+<div class="line"><span class="lineno">  176</span>    _scenario-&gt;WithWeaponSpeed(0, 2500);  <span class="comment">// BASE_ATTACK = 2500ms</span></div>
+<div class="line"><span class="lineno">  177</span> </div>
+<div class="line"><span class="lineno">  178</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  179</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#aa373ae9df6697d722e7f6084a70c8b7a">WithProcsPerMinute</a>(6.0f)  <span class="comment">// 25% with 2500ms weapon</span></div>
+<div class="line"><span class="lineno">  180</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#acd3a4b7ab057b5f36dd407acc11a4da4">WithCooldown</a>(1000ms)</div>
+<div class="line"><span class="lineno">  181</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  182</span> </div>
+<div class="line"><span class="lineno">  183</span>    <span class="comment">// First proc (roll 0 = always pass)</span></div>
+<div class="line"><span class="lineno">  184</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry, 0.0f));</div>
+<div class="line"><span class="lineno">  185</span> </div>
+<div class="line"><span class="lineno">  186</span>    <span class="comment">// Blocked by cooldown even if roll would pass</span></div>
+<div class="line"><span class="lineno">  187</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry, 0.0f));</div>
+<div class="line"><span class="lineno">  188</span> </div>
+<div class="line"><span class="lineno">  189</span>    <span class="comment">// Wait for cooldown</span></div>
+<div class="line"><span class="lineno">  190</span>    _scenario-&gt;AdvanceTime(1100ms);</div>
+<div class="line"><span class="lineno">  191</span> </div>
+<div class="line"><span class="lineno">  192</span>    <span class="comment">// Can proc again</span></div>
+<div class="line"><span class="lineno">  193</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry, 0.0f));</div>
+<div class="line"><span class="lineno">  194</span>}</div>
+<div class="ttc" id="aa29588_html_aa373ae9df6697d722e7f6084a70c8b7a"><div class="ttname"><a href="../../d8/d1f/a29588.html#aa373ae9df6697d722e7f6084a70c8b7a">SpellProcEntryBuilder::WithProcsPerMinute</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithProcsPerMinute(float ppm)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:202</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00214">SpellProcEntryBuilder::WithCooldown()</a>, and <a class="el" href="../../#l00202">SpellProcEntryBuilder::WithProcsPerMinute()</a>.</p>
+
+</div>
+</div>
+<a id="aa5e23f21d78acf55b11a3edfe0017068" name="aa5e23f21d78acf55b11a3edfe0017068"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa5e23f21d78acf55b11a3edfe0017068">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">EdgeCase_ManyCharges&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  396</span>{</div>
+<div class="line"><span class="lineno">  397</span>    _scenario-&gt;WithAura(12345, 100);  <span class="comment">// 100 charges</span></div>
+<div class="line"><span class="lineno">  398</span> </div>
+<div class="line"><span class="lineno">  399</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  400</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  401</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  402</span> </div>
+<div class="line"><span class="lineno">  403</span>    <span class="comment">// Consume all charges</span></div>
+<div class="line"><span class="lineno">  404</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 100; i &gt; 0; --i)</div>
+<div class="line"><span class="lineno">  405</span>    {</div>
+<div class="line"><span class="lineno">  406</span>        EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), i);</div>
+<div class="line"><span class="lineno">  407</span>        EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  408</span>    }</div>
+<div class="line"><span class="lineno">  409</span> </div>
+<div class="line"><span class="lineno">  410</span>    EXPECT_TRUE(_scenario-&gt;GetAura()-&gt;IsRemoved());</div>
+<div class="line"><span class="lineno">  411</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+
+</div>
+</div>
+<a id="a9b3f0e79a13fd923e704d971188beabf" name="a9b3f0e79a13fd923e704d971188beabf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9b3f0e79a13fd923e704d971188beabf">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">EdgeCase_NoAura_NoProcPossible&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  350</span>{</div>
+<div class="line"><span class="lineno">  351</span>    <span class="comment">// Don&#39;t set up aura</span></div>
+<div class="line"><span class="lineno">  352</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  353</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  354</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  355</span> </div>
+<div class="line"><span class="lineno">  356</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  357</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+
+</div>
+</div>
+<a id="abc9d5b5417f7a9db72bc69a6dee8991c" name="abc9d5b5417f7a9db72bc69a6dee8991c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abc9d5b5417f7a9db72bc69a6dee8991c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">EdgeCase_VeryLongCooldown&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  375</span>{</div>
+<div class="line"><span class="lineno">  376</span>    _scenario-&gt;WithAura(12345);</div>
+<div class="line"><span class="lineno">  377</span> </div>
+<div class="line"><span class="lineno">  378</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  379</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  380</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#acd3a4b7ab057b5f36dd407acc11a4da4">WithCooldown</a>(300000ms)  <span class="comment">// 5 minute cooldown</span></div>
+<div class="line"><span class="lineno">  381</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  382</span> </div>
+<div class="line"><span class="lineno">  383</span>    <span class="comment">// First proc</span></div>
+<div class="line"><span class="lineno">  384</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  385</span> </div>
+<div class="line"><span class="lineno">  386</span>    <span class="comment">// Blocked even after 4 minutes</span></div>
+<div class="line"><span class="lineno">  387</span>    _scenario-&gt;AdvanceTime(240000ms);</div>
+<div class="line"><span class="lineno">  388</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  389</span> </div>
+<div class="line"><span class="lineno">  390</span>    <span class="comment">// Allowed after 5 minutes</span></div>
+<div class="line"><span class="lineno">  391</span>    _scenario-&gt;AdvanceTime(60001ms);</div>
+<div class="line"><span class="lineno">  392</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  393</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00214">SpellProcEntryBuilder::WithCooldown()</a>.</p>
+
+</div>
+</div>
+<a id="ad9d5ae60773ca5e0adec858f943d6219" name="ad9d5ae60773ca5e0adec858f943d6219"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad9d5ae60773ca5e0adec858f943d6219">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">EdgeCase_ZeroCooldown_AllowsRapidProcs&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  360</span>{</div>
+<div class="line"><span class="lineno">  361</span>    _scenario-&gt;WithAura(12345);</div>
+<div class="line"><span class="lineno">  362</span> </div>
+<div class="line"><span class="lineno">  363</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  364</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  365</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#acd3a4b7ab057b5f36dd407acc11a4da4">WithCooldown</a>(0ms)</div>
+<div class="line"><span class="lineno">  366</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  367</span> </div>
+<div class="line"><span class="lineno">  368</span>    <span class="comment">// Multiple rapid procs should all succeed</span></div>
+<div class="line"><span class="lineno">  369</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  370</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  371</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  372</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00214">SpellProcEntryBuilder::WithCooldown()</a>.</p>
+
+</div>
+</div>
+<a id="af1b16c6116add0a4321bbeea7a241688" name="af1b16c6116add0a4321bbeea7a241688"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af1b16c6116add0a4321bbeea7a241688">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">FullFlow_BasicProc_0Percent&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   67</span>{</div>
+<div class="line"><span class="lineno">   68</span>    _scenario-&gt;WithAura(12345);</div>
+<div class="line"><span class="lineno">   69</span> </div>
+<div class="line"><span class="lineno">   70</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">   71</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(0.0f)</div>
+<div class="line"><span class="lineno">   72</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">   73</span> </div>
+<div class="line"><span class="lineno">   74</span>    <span class="comment">// 0% chance should never proc (when roll is &gt; 0)</span></div>
+<div class="line"><span class="lineno">   75</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry, 50.0f));</div>
+<div class="line"><span class="lineno">   76</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+
+</div>
+</div>
+<a id="a19a74f2d1aaf27d22fa48f02d6b2d5f9" name="a19a74f2d1aaf27d22fa48f02d6b2d5f9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a19a74f2d1aaf27d22fa48f02d6b2d5f9">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">FullFlow_BasicProc_100Percent&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   55</span>{</div>
+<div class="line"><span class="lineno">   56</span>    _scenario-&gt;WithAura(12345);</div>
+<div class="line"><span class="lineno">   57</span> </div>
+<div class="line"><span class="lineno">   58</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">   59</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">   60</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">   61</span> </div>
+<div class="line"><span class="lineno">   62</span>    <span class="comment">// 100% chance should always proc</span></div>
+<div class="line"><span class="lineno">   63</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">   64</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+
+</div>
+</div>
+<a id="a35e27540c06c06c8f59ef51bb1a9d42e" name="a35e27540c06c06c8f59ef51bb1a9d42e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a35e27540c06c06c8f59ef51bb1a9d42e">&#9670;&#160;</a></span>TEST_F() <span class="overload">[11/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">FullFlow_WithCharges&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  101</span>{</div>
+<div class="line"><span class="lineno">  102</span>    _scenario-&gt;WithAura(12345, 3);  <span class="comment">// 3 charges</span></div>
+<div class="line"><span class="lineno">  103</span> </div>
+<div class="line"><span class="lineno">  104</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  105</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  106</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  107</span> </div>
+<div class="line"><span class="lineno">  108</span>    <span class="comment">// First proc - 3 -&gt; 2 charges</span></div>
+<div class="line"><span class="lineno">  109</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  110</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 2);</div>
+<div class="line"><span class="lineno">  111</span> </div>
+<div class="line"><span class="lineno">  112</span>    <span class="comment">// Second proc - 2 -&gt; 1 charges</span></div>
+<div class="line"><span class="lineno">  113</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  114</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 1);</div>
+<div class="line"><span class="lineno">  115</span> </div>
+<div class="line"><span class="lineno">  116</span>    <span class="comment">// Third proc - 1 -&gt; 0 charges, aura removed</span></div>
+<div class="line"><span class="lineno">  117</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  118</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 0);</div>
+<div class="line"><span class="lineno">  119</span>    EXPECT_TRUE(_scenario-&gt;GetAura()-&gt;IsRemoved());</div>
+<div class="line"><span class="lineno">  120</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+
+</div>
+</div>
+<a id="a96cc3a634c4f6bcce6debcc6e36f4d25" name="a96cc3a634c4f6bcce6debcc6e36f4d25"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a96cc3a634c4f6bcce6debcc6e36f4d25">&#9670;&#160;</a></span>TEST_F() <span class="overload">[12/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">FullFlow_WithCooldown&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   79</span>{</div>
+<div class="line"><span class="lineno">   80</span>    _scenario-&gt;WithAura(12345);</div>
+<div class="line"><span class="lineno">   81</span> </div>
+<div class="line"><span class="lineno">   82</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">   83</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">   84</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#acd3a4b7ab057b5f36dd407acc11a4da4">WithCooldown</a>(1000ms)</div>
+<div class="line"><span class="lineno">   85</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">   86</span> </div>
+<div class="line"><span class="lineno">   87</span>    <span class="comment">// First proc succeeds</span></div>
+<div class="line"><span class="lineno">   88</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">   89</span> </div>
+<div class="line"><span class="lineno">   90</span>    <span class="comment">// Second proc blocked by cooldown</span></div>
+<div class="line"><span class="lineno">   91</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">   92</span> </div>
+<div class="line"><span class="lineno">   93</span>    <span class="comment">// Wait for cooldown</span></div>
+<div class="line"><span class="lineno">   94</span>    _scenario-&gt;AdvanceTime(1100ms);</div>
+<div class="line"><span class="lineno">   95</span> </div>
+<div class="line"><span class="lineno">   96</span>    <span class="comment">// Third proc succeeds</span></div>
+<div class="line"><span class="lineno">   97</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">   98</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00214">SpellProcEntryBuilder::WithCooldown()</a>.</p>
+
+</div>
+</div>
+<a id="a5cf9d910c9243364707c2f1dedd0582d" name="a5cf9d910c9243364707c2f1dedd0582d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5cf9d910c9243364707c2f1dedd0582d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[13/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">FullFlow_WithStacks&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  123</span>{</div>
+<div class="line"><span class="lineno">  124</span>    _scenario-&gt;WithAura(12345, 0, 5);  <span class="comment">// 5 stacks, no charges</span></div>
+<div class="line"><span class="lineno">  125</span> </div>
+<div class="line"><span class="lineno">  126</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  127</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  128</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#a7fd74f5d829c140285ca6ed18c0e136aa689b2d43ebd5bf9a80c4bc523663aa74">PROC_ATTR_USE_STACKS_FOR_CHARGES</a>)</div>
+<div class="line"><span class="lineno">  129</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  130</span> </div>
+<div class="line"><span class="lineno">  131</span>    <span class="comment">// Each proc consumes one stack</span></div>
+<div class="line"><span class="lineno">  132</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 5; i &gt; 0; --i)</div>
+<div class="line"><span class="lineno">  133</span>    {</div>
+<div class="line"><span class="lineno">  134</span>        EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetStackAmount(), i);</div>
+<div class="line"><span class="lineno">  135</span>        EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  136</span>    }</div>
+<div class="line"><span class="lineno">  137</span> </div>
+<div class="line"><span class="lineno">  138</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetStackAmount(), 0);</div>
+<div class="line"><span class="lineno">  139</span>    EXPECT_TRUE(_scenario-&gt;GetAura()-&gt;IsRemoved());</div>
+<div class="line"><span class="lineno">  140</span>}</div>
+<div class="ttc" id="aa01760_html_a7fd74f5d829c140285ca6ed18c0e136aa689b2d43ebd5bf9a80c4bc523663aa74"><div class="ttname"><a href="../../d0/d9d/a01760.html#a7fd74f5d829c140285ca6ed18c0e136aa689b2d43ebd5bf9a80c4bc523663aa74">PROC_ATTR_USE_STACKS_FOR_CHARGES</a></div><div class="ttdeci">@ PROC_ATTR_USE_STACKS_FOR_CHARGES</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:277</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00277">PROC_ATTR_USE_STACKS_FOR_CHARGES</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+
+</div>
+</div>
+<a id="ad2fb2ff6f41f7e7771cb74d49a945a2f" name="ad2fb2ff6f41f7e7771cb74d49a945a2f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad2fb2ff6f41f7e7771cb74d49a945a2f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[14/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_ArtOfWar&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  277</span>{</div>
+<div class="line"><span class="lineno">  278</span>    <span class="comment">// Art of War: 2 charges (typically)</span></div>
+<div class="line"><span class="lineno">  279</span>    _scenario-&gt;WithAura(53486, 2);  <span class="comment">// Art of War</span></div>
+<div class="line"><span class="lineno">  280</span> </div>
+<div class="line"><span class="lineno">  281</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  282</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  283</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  284</span> </div>
+<div class="line"><span class="lineno">  285</span>    <span class="comment">// First Exorcism - consumes charge</span></div>
+<div class="line"><span class="lineno">  286</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  287</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 1);</div>
+<div class="line"><span class="lineno">  288</span> </div>
+<div class="line"><span class="lineno">  289</span>    <span class="comment">// Second Exorcism - consumes last charge</span></div>
+<div class="line"><span class="lineno">  290</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  291</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 0);</div>
+<div class="line"><span class="lineno">  292</span>    EXPECT_TRUE(_scenario-&gt;GetAura()-&gt;IsRemoved());</div>
+<div class="line"><span class="lineno">  293</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+
+</div>
+</div>
+<a id="a7bda89f7f74cbe336b48303ff1b672b1" name="a7bda89f7f74cbe336b48303ff1b672b1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7bda89f7f74cbe336b48303ff1b672b1">&#9670;&#160;</a></span>TEST_F() <span class="overload">[15/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_LeaderOfThePack&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  251</span>{</div>
+<div class="line"><span class="lineno">  252</span>    <span class="comment">// Leader of the Pack: 6 second ICD</span></div>
+<div class="line"><span class="lineno">  253</span>    _scenario-&gt;WithAura(24932);</div>
+<div class="line"><span class="lineno">  254</span> </div>
+<div class="line"><span class="lineno">  255</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  256</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  257</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#acd3a4b7ab057b5f36dd407acc11a4da4">WithCooldown</a>(6000ms)</div>
+<div class="line"><span class="lineno">  258</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  259</span> </div>
+<div class="line"><span class="lineno">  260</span>    <span class="comment">// First crit - procs</span></div>
+<div class="line"><span class="lineno">  261</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  262</span> </div>
+<div class="line"><span class="lineno">  263</span>    <span class="comment">// Second crit at 1 second - blocked</span></div>
+<div class="line"><span class="lineno">  264</span>    _scenario-&gt;AdvanceTime(1000ms);</div>
+<div class="line"><span class="lineno">  265</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  266</span> </div>
+<div class="line"><span class="lineno">  267</span>    <span class="comment">// Third crit at 5 seconds - blocked</span></div>
+<div class="line"><span class="lineno">  268</span>    _scenario-&gt;AdvanceTime(4000ms);</div>
+<div class="line"><span class="lineno">  269</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  270</span> </div>
+<div class="line"><span class="lineno">  271</span>    <span class="comment">// Fourth crit at 6.1 seconds - allowed</span></div>
+<div class="line"><span class="lineno">  272</span>    _scenario-&gt;AdvanceTime(1100ms);</div>
+<div class="line"><span class="lineno">  273</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  274</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00214">SpellProcEntryBuilder::WithCooldown()</a>.</p>
+
+</div>
+</div>
+<a id="a121e660142edeb8b8867984871635142" name="a121e660142edeb8b8867984871635142"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a121e660142edeb8b8867984871635142">&#9670;&#160;</a></span>TEST_F() <span class="overload">[16/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_LightningShield&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  296</span>{</div>
+<div class="line"><span class="lineno">  297</span>    <span class="comment">// Lightning Shield: 3 charges (orbs)</span></div>
+<div class="line"><span class="lineno">  298</span>    _scenario-&gt;WithAura(324, 3);  <span class="comment">// Lightning Shield Rank 1</span></div>
+<div class="line"><span class="lineno">  299</span> </div>
+<div class="line"><span class="lineno">  300</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  301</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  302</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  303</span> </div>
+<div class="line"><span class="lineno">  304</span>    <span class="comment">// First hit - uses orb</span></div>
+<div class="line"><span class="lineno">  305</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  306</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 2);</div>
+<div class="line"><span class="lineno">  307</span> </div>
+<div class="line"><span class="lineno">  308</span>    <span class="comment">// Second hit - uses orb</span></div>
+<div class="line"><span class="lineno">  309</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  310</span>    EXPECT_EQ(_scenario-&gt;GetAura()-&gt;GetCharges(), 1);</div>
+<div class="line"><span class="lineno">  311</span> </div>
+<div class="line"><span class="lineno">  312</span>    <span class="comment">// Third hit - last orb, aura removed</span></div>
+<div class="line"><span class="lineno">  313</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  314</span>    EXPECT_TRUE(_scenario-&gt;GetAura()-&gt;IsRemoved());</div>
+<div class="line"><span class="lineno">  315</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, and <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>.</p>
+
+</div>
+</div>
+<a id="a4aea6e742bac43dda127936d36b603a8" name="a4aea6e742bac43dda127936d36b603a8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4aea6e742bac43dda127936d36b603a8">&#9670;&#160;</a></span>TEST_F() <span class="overload">[17/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_OmenOfClarity&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  226</span>{</div>
+<div class="line"><span class="lineno">  227</span>    <span class="comment">// Omen of Clarity: 6 PPM, no cooldown, no charges</span></div>
+<div class="line"><span class="lineno">  228</span>    _scenario-&gt;WithAura(16864);  <span class="comment">// Omen of Clarity</span></div>
+<div class="line"><span class="lineno">  229</span>    _scenario-&gt;WithWeaponSpeed(0, 2500);  <span class="comment">// Staff</span></div>
+<div class="line"><span class="lineno">  230</span> </div>
+<div class="line"><span class="lineno">  231</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  232</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#aa373ae9df6697d722e7f6084a70c8b7a">WithProcsPerMinute</a>(6.0f)  <span class="comment">// 25% with 2500ms</span></div>
+<div class="line"><span class="lineno">  233</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  234</span> </div>
+<div class="line"><span class="lineno">  235</span>    <span class="comment">// Simulate multiple hits</span></div>
+<div class="line"><span class="lineno">  236</span>    <span class="keywordtype">int</span> procCount = 0;</div>
+<div class="line"><span class="lineno">  237</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 0; i &lt; 10; ++i)</div>
+<div class="line"><span class="lineno">  238</span>    {</div>
+<div class="line"><span class="lineno">  239</span>        <span class="comment">// Roll values simulating ~25% success rate</span></div>
+<div class="line"><span class="lineno">  240</span>        <span class="keywordtype">float</span> roll = (i % 4 == 0) ? 10.0f : 50.0f;</div>
+<div class="line"><span class="lineno">  241</span>        <span class="keywordflow">if</span> (_scenario-&gt;SimulateProc(procEntry, roll))</div>
+<div class="line"><span class="lineno">  242</span>            procCount++;</div>
+<div class="line"><span class="lineno">  243</span>    }</div>
+<div class="line"><span class="lineno">  244</span> </div>
+<div class="line"><span class="lineno">  245</span>    <span class="comment">// With deterministic rolls, should have 3 procs (indexes 0, 4, 8)</span></div>
+<div class="line"><span class="lineno">  246</span>    <span class="comment">// But our test is roll &gt; chance check, so roll 10 fails against 25% chance</span></div>
+<div class="line"><span class="lineno">  247</span>    <span class="comment">// Actually roll 0 always passes, non-zero rolls check roll &gt; chance</span></div>
+<div class="line"><span class="lineno">  248</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, and <a class="el" href="../../#l00202">SpellProcEntryBuilder::WithProcsPerMinute()</a>.</p>
+
+</div>
+</div>
+<a id="aee6d5257c9330329d3161f0da69ff4b7" name="aee6d5257c9330329d3161f0da69ff4b7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aee6d5257c9330329d3161f0da69ff4b7">&#9670;&#160;</a></span>TEST_F() <span class="overload">[18/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_WanderingPlague&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  318</span>{</div>
+<div class="line"><span class="lineno">  319</span>    <span class="comment">// Wandering Plague: 1 second ICD</span></div>
+<div class="line"><span class="lineno">  320</span>    _scenario-&gt;WithAura(49217);</div>
+<div class="line"><span class="lineno">  321</span> </div>
+<div class="line"><span class="lineno">  322</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  323</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  324</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#acd3a4b7ab057b5f36dd407acc11a4da4">WithCooldown</a>(1000ms)</div>
+<div class="line"><span class="lineno">  325</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  326</span> </div>
+<div class="line"><span class="lineno">  327</span>    <span class="comment">// First tick procs</span></div>
+<div class="line"><span class="lineno">  328</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  329</span> </div>
+<div class="line"><span class="lineno">  330</span>    <span class="comment">// Rapid ticks blocked</span></div>
+<div class="line"><span class="lineno">  331</span>    _scenario-&gt;AdvanceTime(200ms);</div>
+<div class="line"><span class="lineno">  332</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  333</span> </div>
+<div class="line"><span class="lineno">  334</span>    _scenario-&gt;AdvanceTime(200ms);</div>
+<div class="line"><span class="lineno">  335</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  336</span> </div>
+<div class="line"><span class="lineno">  337</span>    _scenario-&gt;AdvanceTime(200ms);</div>
+<div class="line"><span class="lineno">  338</span>    EXPECT_FALSE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  339</span> </div>
+<div class="line"><span class="lineno">  340</span>    <span class="comment">// After 1 second total, can proc again</span></div>
+<div class="line"><span class="lineno">  341</span>    _scenario-&gt;AdvanceTime(600ms);</div>
+<div class="line"><span class="lineno">  342</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry));</div>
+<div class="line"><span class="lineno">  343</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00214">SpellProcEntryBuilder::WithCooldown()</a>.</p>
+
+</div>
+</div>
+<a id="abe1d49b795fc6def60b42b113cec4b6f" name="abe1d49b795fc6def60b42b113cec4b6f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abe1d49b795fc6def60b42b113cec4b6f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[19/19]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d78/a29752.html">SpellProcPipelineTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">WeaponSpeed_AffectsPPMChance&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  443</span>{</div>
+<div class="line"><span class="lineno">  444</span>    _scenario-&gt;WithAura(12345);</div>
+<div class="line"><span class="lineno">  445</span> </div>
+<div class="line"><span class="lineno">  446</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  447</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#aa373ae9df6697d722e7f6084a70c8b7a">WithProcsPerMinute</a>(6.0f)</div>
+<div class="line"><span class="lineno">  448</span>        .<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  449</span> </div>
+<div class="line"><span class="lineno">  450</span>    <span class="comment">// Fast dagger (1400ms): 14% chance</span></div>
+<div class="line"><span class="lineno">  451</span>    _scenario-&gt;WithWeaponSpeed(0, 1400);</div>
+<div class="line"><span class="lineno">  452</span>    <span class="comment">// Roll of 10 should pass (&lt; 14%)</span></div>
+<div class="line"><span class="lineno">  453</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry, 10.0f));</div>
+<div class="line"><span class="lineno">  454</span> </div>
+<div class="line"><span class="lineno">  455</span>    <span class="comment">// Reset cooldown</span></div>
+<div class="line"><span class="lineno">  456</span>    _scenario-&gt;GetAura()-&gt;ResetProcCooldown();</div>
+<div class="line"><span class="lineno">  457</span> </div>
+<div class="line"><span class="lineno">  458</span>    <span class="comment">// Slow 2H (3300ms): 33% chance</span></div>
+<div class="line"><span class="lineno">  459</span>    _scenario-&gt;WithWeaponSpeed(0, 3300);</div>
+<div class="line"><span class="lineno">  460</span>    <span class="comment">// Roll of 30 should pass (&lt; 33%)</span></div>
+<div class="line"><span class="lineno">  461</span>    EXPECT_TRUE(_scenario-&gt;SimulateProc(procEntry, 30.0f));</div>
+<div class="line"><span class="lineno">  462</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, and <a class="el" href="../../#l00202">SpellProcEntryBuilder::WithProcsPerMinute()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -180,8 +1118,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_0787b0a4fdc11b0654465feaa92c32a3.html">Movement</a></li><li class="navelem"><a class="el" href="../../dir_cd5f8786a04521b4a96eac0f95f95a85.html">Spline</a></li><li class="navelem"><a class="el" href="../../dd/de6/a00548.html">MoveSpline.cpp</a></li>
-    <li class="footer">Generated on Mon Feb 23 2026 21:13:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../dd/de6/a00548.html">SpellProcPipelineTest.cpp</a></li>
+    <li class="footer">Generated on Mon Mar 2 2026 21:04:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,7 +1,8 @@
 var a08620 =
 [
-    [ "ObjectDistanceOrderPred", "dc/de6/a08620.html#adced3fdc6d99b7506361eb7700fa4cec", null ],
-    [ "operator()", "dc/de6/a08620.html#aaa5023735568f6df28a177fbd9ed866e", null ],
-    [ "m_ascending", "dc/de6/a08620.html#a313cd0450096e49716bfb52f8f238bfc", null ],
-    [ "m_refObj", "dc/de6/a08620.html#aec421fd45a60545bf92b7236e0d0b360", null ]
+    [ "Reset", "dc/de6/a08620.html#a28a5bd110553457c86d7f77e78041713", null ],
+    [ "cosAngle", "dc/de6/a08620.html#a37f49fc816f37dff8c1947f4de7f04d5", null ],
+    [ "sinAngle", "dc/de6/a08620.html#af2a184b7c8e7f324607a0b7468bcb8f6", null ],
+    [ "xyspeed", "dc/de6/a08620.html#a6fada60d677d89580c3a718d42a75d17", null ],
+    [ "zspeed", "dc/de6/a08620.html#ad0a5a36aeabc9b8d8ea27cecae30ae31", null ]
 ];

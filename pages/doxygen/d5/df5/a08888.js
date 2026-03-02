@@ -1,9 +1,14 @@
 var a08888 =
 [
-    [ "GlobalCooldownMgr", "d5/df5/a08888.html#a116f4af13a4e10dc5eb3c3c6a17ad863", null ],
-    [ "AddGlobalCooldown", "d5/df5/a08888.html#acc0291e56fe4d3594d079e357f6ea3ed", null ],
-    [ "CancelGlobalCooldown", "d5/df5/a08888.html#aed6b479416104dc536116fdb1e24fcf3", null ],
-    [ "GetGlobalCooldown", "d5/df5/a08888.html#ae44caed35e93f834ff68394c1ab6434b", null ],
-    [ "HasGlobalCooldown", "d5/df5/a08888.html#a7487d19ae8c59e5c5e871b2e1afabfba", null ],
-    [ "m_GlobalCooldowns", "d5/df5/a08888.html#a80d03691d36758733f326b65992f266e", null ]
+    [ "SocialMap", "d5/df5/a08888.html#a2b80fa18a6f1ed54fda7719867f45ebd", null ],
+    [ "SocialMgr", "d5/df5/a08888.html#a3cff8262ce10d2e8c8c38dc834230545", null ],
+    [ "~SocialMgr", "d5/df5/a08888.html#aef859e6c923a6ba4bb7ac0049f17463d", null ],
+    [ "BroadcastToFriendListers", "d5/df5/a08888.html#a55b35ea17ebfea4ff31710186b87865f", null ],
+    [ "GetFriendInfo", "d5/df5/a08888.html#a7d0c4638b6fde1bf614d90492160ee55", null ],
+    [ "instance", "d5/df5/a08888.html#a223f3d7811d8c360da7f467b70af808f", null ],
+    [ "LoadFromDB", "d5/df5/a08888.html#aab17f5c27494cfdf2b1c5d5038f446a0", null ],
+    [ "MakeFriendStatusPacket", "d5/df5/a08888.html#af30fe2f3223dc7ad9094e44393420d3a", null ],
+    [ "RemovePlayerSocial", "d5/df5/a08888.html#af537c83cc3d481dde68d0a60aa122289", null ],
+    [ "SendFriendStatus", "d5/df5/a08888.html#acf245ca689bd5c0efe4a791b9e0e3c5f", null ],
+    [ "m_socialMap", "d5/df5/a08888.html#a2f8a276598ad01d350aa245fcef82a7a", null ]
 ];

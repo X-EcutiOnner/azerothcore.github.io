@@ -1,6 +1,6 @@
 var a25352 =
 [
-    [ "HandleScriptEffect", "d3/d54/a25352.html#a78a131bdf6a1406604edd130c28d664b", null ],
-    [ "PrepareSpellScript", "d3/d54/a25352.html#a3b2d739227e57667a284ae4600ec1bb6", null ],
-    [ "Register", "d3/d54/a25352.html#a8a70913369aa733160366f37ff1c3470", null ]
+    [ "PrepareSpellScript", "d3/d54/a25352.html#abb178100d4e5fa4032118f86aa34127d", null ],
+    [ "Register", "d3/d54/a25352.html#a50e902cc281b909259097a8bed5651f2", null ],
+    [ "RemoveVehicleAuras", "d3/d54/a25352.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
 ];

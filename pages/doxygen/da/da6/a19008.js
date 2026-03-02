@@ -1,4 +1,6 @@
 var a19008 =
 [
-    [ "operator()", "da/da6/a19008.html#ac13ad1cce91fa28dc81250672c125490", null ]
+    [ "PeriodicTick", "da/da6/a19008.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
+    [ "PrepareAuraScript", "da/da6/a19008.html#a0767ac60151517b803e871a0fcb25967", null ],
+    [ "Register", "da/da6/a19008.html#afd1e28b224035aef5ac109f38d7e118d", null ]
 ];

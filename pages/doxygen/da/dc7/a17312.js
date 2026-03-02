@@ -1,6 +1,11 @@
 var a17312 =
 [
-    [ "npc_spectral_footmanAI", "db/dba/a17316.html", "db/dba/a17316" ],
-    [ "npc_spectral_footman", "da/dc7/a17312.html#a300fb06b896d2d08f9e3671422232ad2", null ],
-    [ "GetAI", "da/dc7/a17312.html#adbc1b961aba6cefb97dfff3014248735", null ]
+    [ "npc_hor_leaderAI", "da/dc7/a17312.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
+    [ "DoAction", "da/dc7/a17312.html#a610700732a6cc197a40106adef654a62", null ],
+    [ "Reset", "da/dc7/a17312.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
+    [ "UpdateAI", "da/dc7/a17312.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
+    [ "events", "da/dc7/a17312.html#a94128223bddd84b8a678e49f3189cb75", null ],
+    [ "first", "da/dc7/a17312.html#add878d336fa7e20bee4d05ac0383dd0a", null ],
+    [ "pInstance", "da/dc7/a17312.html#a8dd77a92b151acad640f1272acf0b65f", null ],
+    [ "shortver", "da/dc7/a17312.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
 ];

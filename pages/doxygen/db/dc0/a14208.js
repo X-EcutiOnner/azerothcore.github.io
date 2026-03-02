@@ -1,6 +1,6 @@
 var a14208 =
 [
-    [ "npc_andorhal_towerAI", "d0/d30/a14212.html", "d0/d30/a14212" ],
-    [ "npc_andorhal_tower", "db/dc0/a14208.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
-    [ "GetAI", "db/dc0/a14208.html#a51139c28da736d26bf27a061862d24ee", null ]
+    [ "boss_blight_wormAI", "d0/d30/a14212.html", "d0/d30/a14212" ],
+    [ "boss_blight_worm", "db/dc0/a14208.html#a6dea51baebc6b44ef94342565136e56d", null ],
+    [ "GetAI", "db/dc0/a14208.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
 ];

@@ -1,8 +1,6 @@
 var a21804 =
 [
-    [ "OnRemove", "d7/d04/a21804.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
-    [ "PrepareAuraScript", "d7/d04/a21804.html#a183b5a3b1332695e3c047bb63435389a", null ],
-    [ "Register", "d7/d04/a21804.html#aad41ab76cc0a882f272e8f79867a7015", null ],
-    [ "Validate", "d7/d04/a21804.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
-    [ "spellIds", "d7/d04/a21804.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "d8/d17/a21808.html", "d8/d17/a21808" ],
+    [ "npc_commander_eligor_dawnbringer", "d7/d04/a21804.html#a71d919af98464d6d63f948507f3ff08c", null ],
+    [ "GetAI", "d7/d04/a21804.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
 ];

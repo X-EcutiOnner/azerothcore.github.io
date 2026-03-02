@@ -1,10 +1,6 @@
 var a14848 =
 [
-    [ "boss_headless_horseman_pumpkin", "df/d5d/a14848.html#a62191ae523401ac57a947db96a245f7a", null ],
-    [ "AttackStart", "df/d5d/a14848.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
-    [ "MoveInLineOfSight", "df/d5d/a14848.html#a212f9803f66d297cd276ef842247776a", null ],
-    [ "Reset", "df/d5d/a14848.html#a9d5f6922a52146b61168f1c50b378294", null ],
-    [ "SpellHit", "df/d5d/a14848.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
-    [ "UpdateAI", "df/d5d/a14848.html#aca53b8839bce5e180ba8583490d694c3", null ],
-    [ "timer", "df/d5d/a14848.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
+    [ "HandleScript", "df/d5d/a14848.html#a4077b809530d28bed0a9419b5a745f42", null ],
+    [ "PrepareSpellScript", "df/d5d/a14848.html#a97eb6d1fcdcf0628433e5bec68785932", null ],
+    [ "Register", "df/d5d/a14848.html#ac09b1c86655eef0febaccff86533b28f", null ]
 ];

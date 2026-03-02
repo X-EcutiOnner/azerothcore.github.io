@@ -1,6 +1,5 @@
 var a24176 =
 [
-    [ "CheckRequirement", "d3/ddb/a24176.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
-    [ "PrepareSpellScript", "d3/ddb/a24176.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
-    [ "Register", "d3/ddb/a24176.html#aa4f62292b32347179a5534e4bc0417f8", null ]
+    [ "go_crystal_prison", "d3/ddb/a24176.html#a0faca8b76f9650ee5cc7825b90463365", null ],
+    [ "OnQuestAccept", "d3/ddb/a24176.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
 ];

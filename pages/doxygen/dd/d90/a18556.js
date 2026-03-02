@@ -1,7 +1,6 @@
 var a18556 =
 [
-    [ "HandleTriggerMissile", "dd/d90/a18556.html#af6370594be48d35a12009fa10a38d91d", null ],
-    [ "PrepareSpellScript", "dd/d90/a18556.html#aeeca4381273f382c3abb68f34d229213", null ],
-    [ "Register", "dd/d90/a18556.html#a0b79f5ee23e53c18277712f1b26e13f3", null ],
-    [ "Validate", "dd/d90/a18556.html#abe0b9290ddf9beaa60a583840d90d914", null ]
+    [ "MysticBuffetTargetFilter", "dd/d90/a18556.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea", null ],
+    [ "operator()", "dd/d90/a18556.html#a76536b8960aa5e64fa8f7a02939d4295", null ],
+    [ "_caster", "dd/d90/a18556.html#a60ef55fa8d6f511bba566ac3c8f8328a", null ]
 ];

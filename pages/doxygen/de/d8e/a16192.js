@@ -1,6 +1,6 @@
 var a16192 =
 [
-    [ "HandleOpenLock", "de/d8e/a16192.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
-    [ "PrepareSpellScript", "de/d8e/a16192.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
-    [ "Register", "de/d8e/a16192.html#a5dcac6f609ec93074ec3ce195101f592", null ]
+    [ "SayerEntry", "de/d8e/a16192.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
+    [ "SayTimer", "de/d8e/a16192.html#a942073f24fd12da712184243d9f098f2", null ],
+    [ "TextEntry", "de/d8e/a16192.html#a360822e4c069be6019c0a465cb2499cf", null ]
 ];

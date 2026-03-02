@@ -1,8 +1,15 @@
 var a18576 =
 [
-    [ "FilterTargets", "d0/dd1/a18576.html#a14e392760361b95578bc95de10cdd8aa", null ],
-    [ "HandleForcedCast", "d0/dd1/a18576.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
-    [ "PrepareSpellScript", "d0/dd1/a18576.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
-    [ "Register", "d0/dd1/a18576.html#ac2105e66f692c6a991ac9190b1901505", null ],
-    [ "Validate", "d0/dd1/a18576.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
+    [ "npc_spinestalkerAI", "d0/dd1/a18576.html#ad758068ccfc12cead2e3a6b646bea374", null ],
+    [ "DoAction", "d0/dd1/a18576.html#a263d897b4c94c71fe6597c0753722ce8", null ],
+    [ "InitializeAI", "d0/dd1/a18576.html#ab87abc1a65e48325c31a52517477297b", null ],
+    [ "JustDied", "d0/dd1/a18576.html#ada5ab1c21b13acc0aee4e7a4907d76d9", null ],
+    [ "JustReachedHome", "d0/dd1/a18576.html#a56e9b760fd28219bee8a3aa604010d07", null ],
+    [ "JustRespawned", "d0/dd1/a18576.html#a6ae99a71f8517055acc6e637b54c78d0", null ],
+    [ "MovementInform", "d0/dd1/a18576.html#aebb6606d219bd6ee59c01718374576e9", null ],
+    [ "Reset", "d0/dd1/a18576.html#a892d973ca4e04138eda70b09e16c9b2a", null ],
+    [ "UpdateAI", "d0/dd1/a18576.html#a94ad98a558ed8df7c17f75a0a6c0ec26", null ],
+    [ "_events", "d0/dd1/a18576.html#a45d8828fc3324d91387a26c560cf725b", null ],
+    [ "_instance", "d0/dd1/a18576.html#a73dfcbf2ea0162cfb69f1ec169f659d4", null ],
+    [ "_summoned", "d0/dd1/a18576.html#a324cd480e056750c61318446c97df48d", null ]
 ];

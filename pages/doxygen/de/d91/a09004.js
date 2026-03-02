@@ -1,11 +1,13 @@
 var a09004 =
 [
-    [ "VehicleSeatAddon", "de/d91/a09004.html#a307b278917998116156e41f9189a582c", null ],
-    [ "VehicleSeatAddon", "de/d91/a09004.html#adaec12df869a9ffc81174f5ef1f65606", null ],
-    [ "ExitParameter", "de/d91/a09004.html#afbb8de193522f1182efff50064e5f83d", null ],
-    [ "ExitParameterO", "de/d91/a09004.html#a06e385ea5cf0441721432925251a5a63", null ],
-    [ "ExitParameterX", "de/d91/a09004.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
-    [ "ExitParameterY", "de/d91/a09004.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
-    [ "ExitParameterZ", "de/d91/a09004.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
-    [ "SeatOrientationOffset", "de/d91/a09004.html#a374c73b40f6e6dad103b172d1829a31d", null ]
+    [ "MMapTargetData", "de/d91/a09004.html#a33cc430ea3c4b5dd4012a16914dc8aeb", null ],
+    [ "MMapTargetData", "de/d91/a09004.html#a8312ea3187617e78b28aab842a8284cc", null ],
+    [ "MMapTargetData", "de/d91/a09004.html#a4108ff5fbbf7c468ff7d90ac7beea4fa", null ],
+    [ "MMapTargetData", "de/d91/a09004.html#a3547f93af46826a051f1164ac1fc9ccc", null ],
+    [ "operator=", "de/d91/a09004.html#a4053689f5f675cf1a621dfb39211b3cc", null ],
+    [ "operator=", "de/d91/a09004.html#a130fe2b359f583acab99c51eb9d0b1ad", null ],
+    [ "PosChanged", "de/d91/a09004.html#ade55876b7781b47a72dac9fea1f2e420", null ],
+    [ "_endTime", "de/d91/a09004.html#a5506c303d668bbead180fe2a8c2ed48e", null ],
+    [ "_posOwner", "de/d91/a09004.html#aeaf1e739388ab834e8c845fa366bbfd3", null ],
+    [ "_posTarget", "de/d91/a09004.html#a7f089d873690e8ea549f6345b6598fc4", null ]
 ];

@@ -1,7 +1,6 @@
 var a19848 =
 [
-    [ "HandleProc", "d5/de1/a19848.html#a84255cd31ebaa7c70de93d569258c709", null ],
-    [ "PrepareAuraScript", "d5/de1/a19848.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
-    [ "Register", "d5/de1/a19848.html#a6bc166d2e1455537fa78c4223da17746", null ],
-    [ "Validate", "d5/de1/a19848.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
+    [ "npc_oculus_drakeAI", "dd/d72/a19852.html", "dd/d72/a19852" ],
+    [ "npc_oculus_drake", "d5/de1/a19848.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
+    [ "GetAI", "d5/de1/a19848.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
 ];

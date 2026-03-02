@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Configuration/Config.cpp File Reference</title>
+<title>AzerothCore: Vec3D Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,229 +105,97 @@ $(document).ready(function(){initNavTree('db/dae/a30028.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">Config.cpp File Reference</div></div>
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#friends">Friends</a> &#124;
+<a href="../../d4/da1/a30025.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">Vec3D Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Config.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">StringConvert.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">StringFormat.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Tokenize.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
-<code>#include &lt;algorithm&gt;</code><br />
-<code>#include &lt;cctype&gt;</code><br />
-<code>#include &lt;cstdlib&gt;</code><br />
-<code>#include &lt;fstream&gt;</code><br />
-<code>#include &lt;locale&gt;</code><br />
-<code>#include &lt;mutex&gt;</code><br />
-<code>#include &lt;unordered_map&gt;</code><br />
-<code>#include &lt;unordered_set&gt;</code><br />
-</div>
-<p><a href="">Go to the source code of this file.</a></p>
+
+<p><code>#include &quot;<a class="el" href="../../">vec3d.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:d4/d06/a04843"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html">anonymous_namespace{Config.cpp}</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a66e77d25ca67f7a5418bc7b252bf4f9c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#a66e77d25ca67f7a5418bc7b252bf4f9c">Vec3D</a> (float x0=0.0f, float y0=0.0f, float z0=0.0f)</td></tr>
+<tr class="separator:a66e77d25ca67f7a5418bc7b252bf4f9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5aa758ed25117a81f53e19d8c80e427"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#aa5aa758ed25117a81f53e19d8c80e427">Vec3D</a> (const <a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;v)</td></tr>
+<tr class="separator:aa5aa758ed25117a81f53e19d8c80e427"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab7e2806da7e3bdfda666b5e4906f08c3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#ab7e2806da7e3bdfda666b5e4906f08c3">operator=</a> (const <a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;v)</td></tr>
+<tr class="separator:ab7e2806da7e3bdfda666b5e4906f08c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4908c6bd44a6a7856eada7b56425b1cc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dae/a30028.html">Vec3D</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#a4908c6bd44a6a7856eada7b56425b1cc">operator+</a> (const <a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;v) const</td></tr>
+<tr class="separator:a4908c6bd44a6a7856eada7b56425b1cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7022d6629a4d968fe6efdc29b54b16aa"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dae/a30028.html">Vec3D</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#a7022d6629a4d968fe6efdc29b54b16aa">operator-</a> (const <a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;v) const</td></tr>
+<tr class="separator:a7022d6629a4d968fe6efdc29b54b16aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa69f6d867a748bd543ec423a57378a21"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#aa69f6d867a748bd543ec423a57378a21">operator*</a> (const <a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;v) const</td></tr>
+<tr class="separator:aa69f6d867a748bd543ec423a57378a21"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d33d483ce46a408a9d0c45ddb075eb4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dae/a30028.html">Vec3D</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#a4d33d483ce46a408a9d0c45ddb075eb4">operator*</a> (float d) const</td></tr>
+<tr class="separator:a4d33d483ce46a408a9d0c45ddb075eb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6c06ca74a17414a8afad8889bc49e5e7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dae/a30028.html">Vec3D</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#a6c06ca74a17414a8afad8889bc49e5e7">operator%</a> (const <a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;v) const</td></tr>
+<tr class="separator:a6c06ca74a17414a8afad8889bc49e5e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a15627b72a8533dba20622314d9c2d02e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#a15627b72a8533dba20622314d9c2d02e">operator+=</a> (const <a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;v)</td></tr>
+<tr class="separator:a15627b72a8533dba20622314d9c2d02e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac4cd3cead349c30f5bdaeecfaff4fdaa"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#ac4cd3cead349c30f5bdaeecfaff4fdaa">operator-=</a> (const <a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;v)</td></tr>
+<tr class="separator:ac4cd3cead349c30f5bdaeecfaff4fdaa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa59022e80683193bae192972da755884"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#aa59022e80683193bae192972da755884">operator*=</a> (float d)</td></tr>
+<tr class="separator:aa59022e80683193bae192972da755884"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a87ac62b18bdb6534dde07295ad3d7418"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#a87ac62b18bdb6534dde07295ad3d7418">lengthSquared</a> () const</td></tr>
+<tr class="separator:a87ac62b18bdb6534dde07295ad3d7418"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa99cf98be42720cb2e6eda8321d0585d"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#aa99cf98be42720cb2e6eda8321d0585d">length</a> () const</td></tr>
+<tr class="separator:aa99cf98be42720cb2e6eda8321d0585d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aad796e1a7950cf29bcf0664ab4529bdd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#aad796e1a7950cf29bcf0664ab4529bdd">normalize</a> ()</td></tr>
+<tr class="separator:aad796e1a7950cf29bcf0664ab4529bdd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab58f61de30ae8941782f902eb54dca29"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dae/a30028.html">Vec3D</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#ab58f61de30ae8941782f902eb54dca29">operator~</a> () const</td></tr>
+<tr class="separator:ab58f61de30ae8941782f902eb54dca29"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae7f0a885985683c338dcf10cdc675849"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#ae7f0a885985683c338dcf10cdc675849">operator float *</a> ()</td></tr>
+<tr class="separator:ae7f0a885985683c338dcf10cdc675849"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a88481e3afc1a3d0cced9a0eb22ef52c4"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#a88481e3afc1a3d0cced9a0eb22ef52c4">TEMPLATE_CONFIG_OPTION</a>(__typename)&#160;&#160;&#160;    template __typename <a class="el" href="../../d6/d6a/a05200.html#a711be8eda4077d967a3677bd138998ac">ConfigMgr::GetOption</a>&lt;__typename&gt;(std::string const&amp; name, __typename const&amp; def, bool showLogs /*= true*/) const;</td></tr>
-<tr class="separator:a88481e3afc1a3d0cced9a0eb22ef52c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a0f061b9d5ea2a680f64bed8b5be9116d"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a></td></tr>
+<tr class="separator:a0f061b9d5ea2a680f64bed8b5be9116d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3441f0095b7f2b5dc424f7b045f92f2c"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a></td></tr>
+<tr class="separator:a3441f0095b7f2b5dc424f7b045f92f2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a619f14529e714231bff4cc6fd36614"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a></td></tr>
+<tr class="separator:a5a619f14529e714231bff4cc6fd36614"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:ac70d5ef108e0df78183c2c28431f34cc"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#ac70d5ef108e0df78183c2c28431f34cc">anonymous_namespace{Config.cpp}::IsAppConfig</a> (std::string_view fileName)</td></tr>
-<tr class="separator:ac70d5ef108e0df78183c2c28431f34cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a874bf90eeee29a9e6e9348805c0b8ca8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#a874bf90eeee29a9e6e9348805c0b8ca8">anonymous_namespace{Config.cpp}::IsLoggingSystemOptions</a> (std::string_view optionName)</td></tr>
-<tr class="separator:a874bf90eeee29a9e6e9348805c0b8ca8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a46a7f61e5998cdcc46e28a3b0e7d0d1b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d1e/a04745.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../db/df0/a30037.html#a05eaca858744a1f9f0e309e7867383e3">ConfigSeverity</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#a46a7f61e5998cdcc46e28a3b0e7d0d1b">anonymous_namespace{Config.cpp}::ParseSeverity</a> (std::string_view value)</td></tr>
-<tr class="separator:a46a7f61e5998cdcc46e28a3b0e7d0d1b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a31b53ef96726f745da939de555373737"><td class="memTemplParams" colspan="2">template&lt;typename Format , typename... Args&gt; </td></tr>
-<tr class="memitem:a31b53ef96726f745da939de555373737"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#a31b53ef96726f745da939de555373737">anonymous_namespace{Config.cpp}::PrintError</a> (std::string_view filename, Format &amp;&amp;fmt, Args &amp;&amp;... args)</td></tr>
-<tr class="separator:a31b53ef96726f745da939de555373737"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac95d8b9816bc49f2a39d0e8bb421a97b"><td class="memTemplParams" colspan="2">template&lt;typename Format , typename... Args&gt; </td></tr>
-<tr class="memitem:ac95d8b9816bc49f2a39d0e8bb421a97b"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#ac95d8b9816bc49f2a39d0e8bb421a97b">anonymous_namespace{Config.cpp}::LogWithSeverity</a> (<a class="el" href="../../db/df0/a30037.html#a05eaca858744a1f9f0e309e7867383e3">ConfigSeverity</a> severity, std::string_view filename, Format &amp;&amp;fmt, Args &amp;&amp;... args)</td></tr>
-<tr class="separator:ac95d8b9816bc49f2a39d0e8bb421a97b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a460c53fb7c529e6bdc783f8dc72d1948"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/dff/a05196.html">ConfigPolicy</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#a460c53fb7c529e6bdc783f8dc72d1948">anonymous_namespace{Config.cpp}::ApplyPolicyString</a> (<a class="el" href="../../d9/dff/a05196.html">ConfigPolicy</a> policy, std::string_view input)</td></tr>
-<tr class="separator:a460c53fb7c529e6bdc783f8dc72d1948"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad5290ec15cd0d01b27b4b790608bd7d8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/dff/a05196.html">ConfigPolicy</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#ad5290ec15cd0d01b27b4b790608bd7d8">anonymous_namespace{Config.cpp}::ApplyPolicyFromArgs</a> (<a class="el" href="../../d9/dff/a05196.html">ConfigPolicy</a> policy, std::vector&lt; std::string &gt; const &amp;args)</td></tr>
-<tr class="separator:ad5290ec15cd0d01b27b4b790608bd7d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab573c6a7facb635d7c4787e5b6f346fa"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#ab573c6a7facb635d7c4787e5b6f346fa">anonymous_namespace{Config.cpp}::AddKey</a> (std::string const &amp;optionName, std::string const &amp;optionKey, std::string_view fileName, bool isOptional, bool isReload)</td></tr>
-<tr class="separator:ab573c6a7facb635d7c4787e5b6f346fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af25d36c8039da7689a28ce9c1334b70f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#af25d36c8039da7689a28ce9c1334b70f">anonymous_namespace{Config.cpp}::ParseFile</a> (std::string const &amp;file, bool isOptional, bool isReload)</td></tr>
-<tr class="separator:af25d36c8039da7689a28ce9c1334b70f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a04d7cd62693d073b89d11aab4ba3342d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#a04d7cd62693d073b89d11aab4ba3342d">anonymous_namespace{Config.cpp}::LoadFile</a> (std::string const &amp;file, bool isOptional, bool isReload)</td></tr>
-<tr class="separator:a04d7cd62693d073b89d11aab4ba3342d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab1ffb5b5ec6ef364da691218a1f840ed"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#ab1ffb5b5ec6ef364da691218a1f840ed">anonymous_namespace{Config.cpp}::IniKeyToEnvVarKey</a> (std::string const &amp;key)</td></tr>
-<tr class="separator:ab1ffb5b5ec6ef364da691218a1f840ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a037f48efd9ff4f980901dc23f9062cfe"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#a037f48efd9ff4f980901dc23f9062cfe">anonymous_namespace{Config.cpp}::GetEnvVarName</a> (std::string const &amp;configName)</td></tr>
-<tr class="separator:a037f48efd9ff4f980901dc23f9062cfe"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4b39ee4aeace82542c39141c4c052417"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d1e/a04745.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#a4b39ee4aeace82542c39141c4c052417">anonymous_namespace{Config.cpp}::EnvVarForIniKey</a> (std::string const &amp;key)</td></tr>
-<tr class="separator:a4b39ee4aeace82542c39141c4c052417"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa22b6bcf6d5dd7e02cab1b0aea10bbee"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d1e/a04745.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#aa22b6bcf6d5dd7e02cab1b0aea10bbee">GetEnvFromCache</a> (std::string const &amp;configName, std::string const &amp;envVarName)</td></tr>
-<tr class="separator:aa22b6bcf6d5dd7e02cab1b0aea10bbee"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7096a6c65872ca33d8f44bdd841eaa31"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
-<tr class="memitem:a7096a6c65872ca33d8f44bdd841eaa31"><td class="memTemplItemLeft" align="right" valign="top">std::string&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#a7096a6c65872ca33d8f44bdd841eaa31">ConfigMgr::GetValueDefault&lt; std::string &gt;</a> (std::string const &amp;name, std::string const &amp;def, bool showLogs) const</td></tr>
-<tr class="separator:a7096a6c65872ca33d8f44bdd841eaa31"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a8bfa20db83fbdc4e649e394ea8d05d0d"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#a8bfa20db83fbdc4e649e394ea8d05d0d">anonymous_namespace{Config.cpp}::_filename</a></td></tr>
-<tr class="separator:a8bfa20db83fbdc4e649e394ea8d05d0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac4608b63b3297653b81c9c4196c12141"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#ac4608b63b3297653b81c9c4196c12141">anonymous_namespace{Config.cpp}::_additonalFiles</a></td></tr>
-<tr class="separator:ac4608b63b3297653b81c9c4196c12141"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa324820f5ede7eec5a4d8eefc77298f4"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#aa324820f5ede7eec5a4d8eefc77298f4">anonymous_namespace{Config.cpp}::_args</a></td></tr>
-<tr class="separator:aa324820f5ede7eec5a4d8eefc77298f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4c4d5bd9313e617a40ed0f27d79dbae9"><td class="memItemLeft" align="right" valign="top">std::unordered_map&lt; std::string, std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#a4c4d5bd9313e617a40ed0f27d79dbae9">anonymous_namespace{Config.cpp}::_configOptions</a></td></tr>
-<tr class="separator:a4c4d5bd9313e617a40ed0f27d79dbae9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4e8b4d4501c2038b56b2692bbd6adb72"><td class="memItemLeft" align="right" valign="top">std::unordered_map&lt; std::string, std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#a4e8b4d4501c2038b56b2692bbd6adb72">anonymous_namespace{Config.cpp}::_envVarCache</a></td></tr>
-<tr class="separator:a4e8b4d4501c2038b56b2692bbd6adb72"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a96e361ca2d2603bb0a5689262ac6787a"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#a96e361ca2d2603bb0a5689262ac6787a">anonymous_namespace{Config.cpp}::_configLock</a></td></tr>
-<tr class="separator:a96e361ca2d2603bb0a5689262ac6787a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae2b763457feff4f3c7a7969e89e11f7d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/dff/a05196.html">ConfigPolicy</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#ae2b763457feff4f3c7a7969e89e11f7d">anonymous_namespace{Config.cpp}::_policy</a></td></tr>
-<tr class="separator:ae2b763457feff4f3c7a7969e89e11f7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa7b3c6eff57b110ceeec72757d37ce1a"><td class="memItemLeft" align="right" valign="top">std::unordered_set&lt; std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#aa7b3c6eff57b110ceeec72757d37ce1a">anonymous_namespace{Config.cpp}::_criticalConfigOptions</a></td></tr>
-<tr class="separator:aa7b3c6eff57b110ceeec72757d37ce1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
+Friends</h2></td></tr>
+<tr class="memitem:ae30695a767fd2a31300bd1b858fda811"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dae/a30028.html">Vec3D</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#ae30695a767fd2a31300bd1b858fda811">operator*</a> (float d, const <a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;v)</td></tr>
+<tr class="separator:ae30695a767fd2a31300bd1b858fda811"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9aa8110efc91a62f0719d9476b3cd7cf"><td class="memItemLeft" align="right" valign="top">std::istream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#a9aa8110efc91a62f0719d9476b3cd7cf">operator&gt;&gt;</a> (std::istream &amp;in, <a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;v)</td></tr>
+<tr class="separator:a9aa8110efc91a62f0719d9476b3cd7cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae0085c2ad66a850cb8270bbdd52d680e"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a30028.html#ae0085c2ad66a850cb8270bbdd52d680e">operator&lt;&lt;</a> (std::ostream &amp;out, const <a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;v)</td></tr>
+<tr class="separator:ae0085c2ad66a850cb8270bbdd52d680e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a88481e3afc1a3d0cced9a0eb22ef52c4" name="a88481e3afc1a3d0cced9a0eb22ef52c4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a88481e3afc1a3d0cced9a0eb22ef52c4">&#9670;&#160;</a></span>TEMPLATE_CONFIG_OPTION</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a66e77d25ca67f7a5418bc7b252bf4f9c" name="a66e77d25ca67f7a5418bc7b252bf4f9c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a66e77d25ca67f7a5418bc7b252bf4f9c">&#9670;&#160;</a></span>Vec3D() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">#define TEMPLATE_CONFIG_OPTION</td>
+          <td class="memname">Vec3D::Vec3D </td>
           <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">__typename</td><td>)</td>
-          <td>&#160;&#160;&#160;    template __typename <a class="el" href="../../d6/d6a/a05200.html#a711be8eda4077d967a3677bd138998ac">ConfigMgr::GetOption</a>&lt;__typename&gt;(std::string const&amp; name, __typename const&amp; def, bool showLogs /*= true*/) const;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a7096a6c65872ca33d8f44bdd841eaa31" name="a7096a6c65872ca33d8f44bdd841eaa31"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7096a6c65872ca33d8f44bdd841eaa31">&#9670;&#160;</a></span>ConfigMgr::GetValueDefault&lt; std::string &gt;()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;&gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">std::string <a class="el" href="../../d6/d6a/a05200.html#a4a122373714bb95f10e6532e30735e55">ConfigMgr::GetValueDefault</a>&lt; std::string &gt; </td>
-          <td>(</td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>name</em>, </td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>x0</em> = <code>0.0f</code>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>def</em>, </td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>y0</em> = <code>0.0f</code>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>showLogs</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  602</span>{</div>
-<div class="line"><span class="lineno">  603</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr = <a class="code hl_variable" href="../../d4/d06/a04843.html#a4c4d5bd9313e617a40ed0f27d79dbae9">_configOptions</a>.find(name);</div>
-<div class="line"><span class="lineno">  604</span>    <span class="keywordtype">bool</span> notFound = itr == <a class="code hl_variable" href="../../d4/d06/a04843.html#a4c4d5bd9313e617a40ed0f27d79dbae9">_configOptions</a>.end();</div>
-<div class="line"><span class="lineno">  605</span>    <span class="keyword">auto</span> envVarName = <a class="code hl_function" href="../../d4/d06/a04843.html#a037f48efd9ff4f980901dc23f9062cfe">GetEnvVarName</a>(name);</div>
-<div class="line"><span class="lineno">  606</span>    <a class="code hl_typedef" href="../../d4/d1e/a04745.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;std::string&gt;</a> envVar = <a class="code hl_function" href="../../db/dae/a30028.html#aa22b6bcf6d5dd7e02cab1b0aea10bbee">GetEnvFromCache</a>(name, envVarName);</div>
-<div class="line"><span class="lineno">  607</span>    <span class="keywordflow">if</span> (envVar)</div>
-<div class="line"><span class="lineno">  608</span>    {</div>
-<div class="line"><span class="lineno">  609</span>        <span class="comment">// If showLogs and this key/value pair wasn&#39;t found in the currently saved config</span></div>
-<div class="line"><span class="lineno">  610</span>        <span class="keywordflow">if</span> (showLogs &amp;&amp; (notFound || itr-&gt;second != envVar-&gt;c_str()))</div>
-<div class="line"><span class="lineno">  611</span>        {</div>
-<div class="line"><span class="lineno">  612</span>            <a class="code hl_define" href="../../d6/d12/a04661.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt; Config: Found config value &#39;{}&#39; from environment variable &#39;{}&#39;.&quot;</span>, name, envVarName);</div>
-<div class="line"><span class="lineno">  613</span>            <a class="code hl_function" href="../../d4/d06/a04843.html#ab573c6a7facb635d7c4787e5b6f346fa">AddKey</a>(name, *envVar, <span class="stringliteral">&quot;ENVIRONMENT&quot;</span>, <span class="keyword">false</span>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  614</span>        }</div>
-<div class="line"><span class="lineno">  615</span> </div>
-<div class="line"><span class="lineno">  616</span>        <span class="keywordflow">return</span> *envVar;</div>
-<div class="line"><span class="lineno">  617</span>    }</div>
-<div class="line"><span class="lineno">  618</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (notFound)</div>
-<div class="line"><span class="lineno">  619</span>    {</div>
-<div class="line"><span class="lineno">  620</span>        <span class="keywordflow">if</span> (showLogs)</div>
-<div class="line"><span class="lineno">  621</span>        {</div>
-<div class="line"><span class="lineno">  622</span>            <span class="keywordtype">bool</span> isCritical = <a class="code hl_variable" href="../../d4/d06/a04843.html#aa7b3c6eff57b110ceeec72757d37ce1a">_criticalConfigOptions</a>.find(name) != <a class="code hl_variable" href="../../d4/d06/a04843.html#aa7b3c6eff57b110ceeec72757d37ce1a">_criticalConfigOptions</a>.end();</div>
-<div class="line"><span class="lineno">  623</span>            <a class="code hl_enumeration" href="../../db/df0/a30037.html#a05eaca858744a1f9f0e309e7867383e3">ConfigSeverity</a> severity = isCritical ? <a class="code hl_variable" href="../../d4/d06/a04843.html#ae2b763457feff4f3c7a7969e89e11f7d">_policy</a>.<a class="code hl_variable" href="../../d9/dff/a05196.html#adfaae562c345965b96fa5f7c92da161e">criticalOptionSeverity</a> : <a class="code hl_variable" href="../../d4/d06/a04843.html#ae2b763457feff4f3c7a7969e89e11f7d">_policy</a>.<a class="code hl_variable" href="../../d9/dff/a05196.html#a3c64d5a1ac04533f27af53de8d688ec5">missingOptionSeverity</a>;</div>
-<div class="line"><span class="lineno">  624</span> </div>
-<div class="line"><span class="lineno">  625</span>            <span class="keywordflow">if</span> (isCritical)</div>
-<div class="line"><span class="lineno">  626</span>            {</div>
-<div class="line"><span class="lineno">  627</span>                <a class="code hl_function" href="../../d4/d06/a04843.html#ac95d8b9816bc49f2a39d0e8bb421a97b">LogWithSeverity</a>(severity, <a class="code hl_variable" href="../../d4/d06/a04843.html#a8bfa20db83fbdc4e649e394ea8d05d0d">_filename</a>,</div>
-<div class="line"><span class="lineno">  628</span>                    <span class="stringliteral">&quot;&gt; Config:\n\nFATAL ERROR: Missing property {} in config file {}, add \&quot;{} = {}\&quot; to this file or define &#39;{}&#39; as an environment variable.\n\nYour server cannot start without this option!&quot;</span>,</div>
-<div class="line"><span class="lineno">  629</span>                    name, <a class="code hl_variable" href="../../d4/d06/a04843.html#a8bfa20db83fbdc4e649e394ea8d05d0d">_filename</a>, name, def, envVarName);</div>
-<div class="line"><span class="lineno">  630</span>            }</div>
-<div class="line"><span class="lineno">  631</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  632</span>            {</div>
-<div class="line"><span class="lineno">  633</span>                std::string configs = <a class="code hl_variable" href="../../d4/d06/a04843.html#a8bfa20db83fbdc4e649e394ea8d05d0d">_filename</a>;</div>
-<div class="line"><span class="lineno">  634</span>                <span class="keywordflow">if</span> (!_moduleConfigFiles.empty())</div>
-<div class="line"><span class="lineno">  635</span>                    configs += <span class="stringliteral">&quot; or module config&quot;</span>;</div>
-<div class="line"><span class="lineno">  636</span> </div>
-<div class="line"><span class="lineno">  637</span>                <a class="code hl_function" href="../../d4/d06/a04843.html#ac95d8b9816bc49f2a39d0e8bb421a97b">LogWithSeverity</a>(severity, <a class="code hl_variable" href="../../d4/d06/a04843.html#a8bfa20db83fbdc4e649e394ea8d05d0d">_filename</a>,</div>
-<div class="line"><span class="lineno">  638</span>                    <span class="stringliteral">&quot;&gt; Config: Missing property {} in config file {}, add \&quot;{} = {}\&quot; to this file or define &#39;{}&#39; as an environment variable.&quot;</span>,</div>
-<div class="line"><span class="lineno">  639</span>                    name, configs, name, def, envVarName);</div>
-<div class="line"><span class="lineno">  640</span>            }</div>
-<div class="line"><span class="lineno">  641</span>        }</div>
-<div class="line"><span class="lineno">  642</span> </div>
-<div class="line"><span class="lineno">  643</span>        <span class="keywordflow">return</span> def;</div>
-<div class="line"><span class="lineno">  644</span>    }</div>
-<div class="line"><span class="lineno">  645</span> </div>
-<div class="line"><span class="lineno">  646</span>    <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  647</span>}</div>
-<div class="ttc" id="aa04661_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d6/d12/a04661.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
-<div class="ttc" id="aa04745_html_aaf8f4d77efd311ec7818ab421294ef82"><div class="ttname"><a href="../../d4/d1e/a04745.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a></div><div class="ttdeci">std::optional&lt; T &gt; Optional</div><div class="ttdoc">Optional helper class to wrap optional values within.</div><div class="ttdef"><b>Definition:</b> Optional.h:24</div></div>
-<div class="ttc" id="aa04843_html_a037f48efd9ff4f980901dc23f9062cfe"><div class="ttname"><a href="../../d4/d06/a04843.html#a037f48efd9ff4f980901dc23f9062cfe">anonymous_namespace{Config.cpp}::GetEnvVarName</a></div><div class="ttdeci">std::string GetEnvVarName(std::string const &amp;configName)</div><div class="ttdef"><b>Definition:</b> Config.cpp:435</div></div>
-<div class="ttc" id="aa04843_html_a4c4d5bd9313e617a40ed0f27d79dbae9"><div class="ttname"><a href="../../d4/d06/a04843.html#a4c4d5bd9313e617a40ed0f27d79dbae9">anonymous_namespace{Config.cpp}::_configOptions</a></div><div class="ttdeci">std::unordered_map&lt; std::string, std::string &gt; _configOptions</div><div class="ttdef"><b>Definition:</b> Config.cpp:38</div></div>
-<div class="ttc" id="aa04843_html_a8bfa20db83fbdc4e649e394ea8d05d0d"><div class="ttname"><a href="../../d4/d06/a04843.html#a8bfa20db83fbdc4e649e394ea8d05d0d">anonymous_namespace{Config.cpp}::_filename</a></div><div class="ttdeci">std::string _filename</div><div class="ttdef"><b>Definition:</b> Config.cpp:35</div></div>
-<div class="ttc" id="aa04843_html_aa7b3c6eff57b110ceeec72757d37ce1a"><div class="ttname"><a href="../../d4/d06/a04843.html#aa7b3c6eff57b110ceeec72757d37ce1a">anonymous_namespace{Config.cpp}::_criticalConfigOptions</a></div><div class="ttdeci">std::unordered_set&lt; std::string &gt; _criticalConfigOptions</div><div class="ttdef"><b>Definition:</b> Config.cpp:43</div></div>
-<div class="ttc" id="aa04843_html_ab573c6a7facb635d7c4787e5b6f346fa"><div class="ttname"><a href="../../d4/d06/a04843.html#ab573c6a7facb635d7c4787e5b6f346fa">anonymous_namespace{Config.cpp}::AddKey</a></div><div class="ttdeci">void AddKey(std::string const &amp;optionName, std::string const &amp;optionKey, std::string_view fileName, bool isOptional, bool isReload)</div><div class="ttdef"><b>Definition:</b> Config.cpp:240</div></div>
-<div class="ttc" id="aa04843_html_ac95d8b9816bc49f2a39d0e8bb421a97b"><div class="ttname"><a href="../../d4/d06/a04843.html#ac95d8b9816bc49f2a39d0e8bb421a97b">anonymous_namespace{Config.cpp}::LogWithSeverity</a></div><div class="ttdeci">void LogWithSeverity(ConfigSeverity severity, std::string_view filename, Format &amp;&amp;fmt, Args &amp;&amp;... args)</div><div class="ttdef"><b>Definition:</b> Config.cpp:109</div></div>
-<div class="ttc" id="aa04843_html_ae2b763457feff4f3c7a7969e89e11f7d"><div class="ttname"><a href="../../d4/d06/a04843.html#ae2b763457feff4f3c7a7969e89e11f7d">anonymous_namespace{Config.cpp}::_policy</a></div><div class="ttdeci">ConfigPolicy _policy</div><div class="ttdef"><b>Definition:</b> Config.cpp:41</div></div>
-<div class="ttc" id="aa05196_html_a3c64d5a1ac04533f27af53de8d688ec5"><div class="ttname"><a href="../../d9/dff/a05196.html#a3c64d5a1ac04533f27af53de8d688ec5">ConfigPolicy::missingOptionSeverity</a></div><div class="ttdeci">ConfigSeverity missingOptionSeverity</div><div class="ttdef"><b>Definition:</b> Config.h:38</div></div>
-<div class="ttc" id="aa05196_html_adfaae562c345965b96fa5f7c92da161e"><div class="ttname"><a href="../../d9/dff/a05196.html#adfaae562c345965b96fa5f7c92da161e">ConfigPolicy::criticalOptionSeverity</a></div><div class="ttdeci">ConfigSeverity criticalOptionSeverity</div><div class="ttdef"><b>Definition:</b> Config.h:39</div></div>
-<div class="ttc" id="aa30028_html_aa22b6bcf6d5dd7e02cab1b0aea10bbee"><div class="ttname"><a href="../../db/dae/a30028.html#aa22b6bcf6d5dd7e02cab1b0aea10bbee">GetEnvFromCache</a></div><div class="ttdeci">Optional&lt; std::string &gt; GetEnvFromCache(std::string const &amp;configName, std::string const &amp;envVarName)</div><div class="ttdef"><b>Definition:</b> Config.cpp:489</div></div>
-<div class="ttc" id="aa30037_html_a05eaca858744a1f9f0e309e7867383e3"><div class="ttname"><a href="../../db/df0/a30037.html#a05eaca858744a1f9f0e309e7867383e3">ConfigSeverity</a></div><div class="ttdeci">ConfigSeverity</div><div class="ttdef"><b>Definition:</b> Config.h:27</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00038">anonymous_namespace{Config.cpp}::_configOptions</a>, <a class="el" href="../../#l00043">anonymous_namespace{Config.cpp}::_criticalConfigOptions</a>, <a class="el" href="../../#l00035">anonymous_namespace{Config.cpp}::_filename</a>, <a class="el" href="../../#l00041">anonymous_namespace{Config.cpp}::_policy</a>, <a class="el" href="../../#l00240">anonymous_namespace{Config.cpp}::AddKey()</a>, <a class="el" href="../../#l00039">ConfigPolicy::criticalOptionSeverity</a>, <a class="el" href="../../#l00489">GetEnvFromCache()</a>, <a class="el" href="../../#l00435">anonymous_namespace{Config.cpp}::GetEnvVarName()</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00109">anonymous_namespace{Config.cpp}::LogWithSeverity()</a>, and <a class="el" href="../../#l00038">ConfigPolicy::missingOptionSeverity</a>.</p>
-
-</div>
-</div>
-<a id="aa22b6bcf6d5dd7e02cab1b0aea10bbee" name="aa22b6bcf6d5dd7e02cab1b0aea10bbee"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa22b6bcf6d5dd7e02cab1b0aea10bbee">&#9670;&#160;</a></span>GetEnvFromCache()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d4/d1e/a04745.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; std::string &gt; GetEnvFromCache </td>
-          <td>(</td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>configName</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>envVarName</em>&#160;</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>z0</em> = <code>0.0f</code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -335,32 +203,668 @@ template&lt;&gt; </div>
           <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  490</span>{</div>
-<div class="line"><span class="lineno">  491</span>    <span class="keyword">auto</span> foundInCache = <a class="code hl_variable" href="../../d4/d06/a04843.html#a4e8b4d4501c2038b56b2692bbd6adb72">_envVarCache</a>.find(envVarName);</div>
-<div class="line"><span class="lineno">  492</span>    <a class="code hl_typedef" href="../../d4/d1e/a04745.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;std::string&gt;</a> foundInEnv;</div>
-<div class="line"><span class="lineno">  493</span>    <span class="comment">// If it&#39;s not in the cache</span></div>
-<div class="line"><span class="lineno">  494</span>    <span class="keywordflow">if</span> (foundInCache == <a class="code hl_variable" href="../../d4/d06/a04843.html#a4e8b4d4501c2038b56b2692bbd6adb72">_envVarCache</a>.end())</div>
-<div class="line"><span class="lineno">  495</span>    {</div>
-<div class="line"><span class="lineno">  496</span>        <span class="comment">// Check the env itself</span></div>
-<div class="line"><span class="lineno">  497</span>        foundInEnv = <a class="code hl_function" href="../../d4/d06/a04843.html#a4b39ee4aeace82542c39141c4c052417">EnvVarForIniKey</a>(configName);</div>
-<div class="line"><span class="lineno">  498</span>        <span class="keywordflow">if</span> (foundInEnv)</div>
-<div class="line"><span class="lineno">  499</span>        {</div>
-<div class="line"><span class="lineno">  500</span>            <span class="comment">// If it&#39;s found in the env, put it in the cache</span></div>
-<div class="line"><span class="lineno">  501</span>            <a class="code hl_variable" href="../../d4/d06/a04843.html#a4e8b4d4501c2038b56b2692bbd6adb72">_envVarCache</a>.emplace(envVarName, *foundInEnv);</div>
-<div class="line"><span class="lineno">  502</span>        }</div>
-<div class="line"><span class="lineno">  503</span>        <span class="comment">// Return the result of checking env</span></div>
-<div class="line"><span class="lineno">  504</span>        <span class="keywordflow">return</span> foundInEnv;</div>
-<div class="line"><span class="lineno">  505</span>    }</div>
-<div class="line"><span class="lineno">  506</span> </div>
-<div class="line"><span class="lineno">  507</span>    <span class="keywordflow">return</span> foundInCache-&gt;second;</div>
-<div class="line"><span class="lineno">  508</span>}</div>
-<div class="ttc" id="aa04843_html_a4b39ee4aeace82542c39141c4c052417"><div class="ttname"><a href="../../d4/d06/a04843.html#a4b39ee4aeace82542c39141c4c052417">anonymous_namespace{Config.cpp}::EnvVarForIniKey</a></div><div class="ttdeci">Optional&lt; std::string &gt; EnvVarForIniKey(std::string const &amp;key)</div><div class="ttdef"><b>Definition:</b> Config.cpp:440</div></div>
-<div class="ttc" id="aa04843_html_a4e8b4d4501c2038b56b2692bbd6adb72"><div class="ttname"><a href="../../d4/d06/a04843.html#a4e8b4d4501c2038b56b2692bbd6adb72">anonymous_namespace{Config.cpp}::_envVarCache</a></div><div class="ttdeci">std::unordered_map&lt; std::string, std::string &gt; _envVarCache</div><div class="ttdef"><b>Definition:</b> Config.cpp:39</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   29</span>: <a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a>(x0), <a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a>(y0), <a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a>(z0) {}</div>
+<div class="ttc" id="aa30028_html_a0f061b9d5ea2a680f64bed8b5be9116d"><div class="ttname"><a href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">Vec3D::x</a></div><div class="ttdeci">float x</div><div class="ttdef"><b>Definition:</b> vec3d.h:27</div></div>
+<div class="ttc" id="aa30028_html_a3441f0095b7f2b5dc424f7b045f92f2c"><div class="ttname"><a href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">Vec3D::y</a></div><div class="ttdeci">float y</div><div class="ttdef"><b>Definition:</b> vec3d.h:27</div></div>
+<div class="ttc" id="aa30028_html_a5a619f14529e714231bff4cc6fd36614"><div class="ttname"><a href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">Vec3D::z</a></div><div class="ttdeci">float z</div><div class="ttdef"><b>Definition:</b> vec3d.h:27</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00039">anonymous_namespace{Config.cpp}::_envVarCache</a>, and <a class="el" href="../../#l00440">anonymous_namespace{Config.cpp}::EnvVarForIniKey()</a>.</p>
+</div>
+</div>
+<a id="aa5aa758ed25117a81f53e19d8c80e427" name="aa5aa758ed25117a81f53e19d8c80e427"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa5aa758ed25117a81f53e19d8c80e427">&#9670;&#160;</a></span>Vec3D() <span class="overload">[2/2]</span></h2>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00601">ConfigMgr::GetValueDefault&lt; std::string &gt;()</a>, and <a class="el" href="../../#l00534">ConfigMgr::GetValueDefault()</a>.</p>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Vec3D::Vec3D </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;&#160;</td>
+          <td class="paramname"><em>v</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   31</span>: <a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a>(v.<a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a>), <a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a>(v.<a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a>), <a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a>(v.<a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a>) {}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="aa99cf98be42720cb2e6eda8321d0585d" name="aa99cf98be42720cb2e6eda8321d0585d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa99cf98be42720cb2e6eda8321d0585d">&#9670;&#160;</a></span>length()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float Vec3D::length </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  105</span>    {</div>
+<div class="line"><span class="lineno">  106</span>        <span class="keywordflow">return</span> std::sqrt(<a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a> * <a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a> + <a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a> * <a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a> + <a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a> * <a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a>);</div>
+<div class="line"><span class="lineno">  107</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00027">x</a>, <a class="el" href="../../#l00027">y</a>, and <a class="el" href="../../#l00027">z</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00109">normalize()</a>.</p>
+
+</div>
+</div>
+<a id="a87ac62b18bdb6534dde07295ad3d7418" name="a87ac62b18bdb6534dde07295ad3d7418"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a87ac62b18bdb6534dde07295ad3d7418">&#9670;&#160;</a></span>lengthSquared()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float Vec3D::lengthSquared </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  100</span>    {</div>
+<div class="line"><span class="lineno">  101</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a> * <a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a> + <a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a> * <a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a> + <a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a> * <a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a>;</div>
+<div class="line"><span class="lineno">  102</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00027">x</a>, <a class="el" href="../../#l00027">y</a>, and <a class="el" href="../../#l00027">z</a>.</p>
+
+</div>
+</div>
+<a id="aad796e1a7950cf29bcf0664ab4529bdd" name="aad796e1a7950cf29bcf0664ab4529bdd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aad796e1a7950cf29bcf0664ab4529bdd">&#9670;&#160;</a></span>normalize()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp; Vec3D::normalize </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  110</span>    {</div>
+<div class="line"><span class="lineno">  111</span>        this-&gt;<a class="code hl_function" href="../../db/dae/a30028.html#aa59022e80683193bae192972da755884">operator*= </a>(1.0f / <a class="code hl_function" href="../../db/dae/a30028.html#aa99cf98be42720cb2e6eda8321d0585d">length</a>());</div>
+<div class="line"><span class="lineno">  112</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  113</span>    }</div>
+<div class="ttc" id="aa30028_html_aa59022e80683193bae192972da755884"><div class="ttname"><a href="../../db/dae/a30028.html#aa59022e80683193bae192972da755884">Vec3D::operator*=</a></div><div class="ttdeci">Vec3D &amp; operator*=(float d)</div><div class="ttdef"><b>Definition:</b> vec3d.h:91</div></div>
+<div class="ttc" id="aa30028_html_aa99cf98be42720cb2e6eda8321d0585d"><div class="ttname"><a href="../../db/dae/a30028.html#aa99cf98be42720cb2e6eda8321d0585d">Vec3D::length</a></div><div class="ttdeci">float length() const</div><div class="ttdef"><b>Definition:</b> vec3d.h:104</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00104">length()</a>, and <a class="el" href="../../#l00091">operator*=()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00115">operator~()</a>.</p>
+
+</div>
+</div>
+<a id="ae7f0a885985683c338dcf10cdc675849" name="ae7f0a885985683c338dcf10cdc675849"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae7f0a885985683c338dcf10cdc675849">&#9670;&#160;</a></span>operator float *()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Vec3D::operator float * </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  135</span>    {</div>
+<div class="line"><span class="lineno">  136</span>        <span class="keywordflow">return</span> (<span class="keywordtype">float</span>*)<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  137</span>    }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a6c06ca74a17414a8afad8889bc49e5e7" name="a6c06ca74a17414a8afad8889bc49e5e7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6c06ca74a17414a8afad8889bc49e5e7">&#9670;&#160;</a></span>operator%()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dae/a30028.html">Vec3D</a> Vec3D::operator% </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;&#160;</td>
+          <td class="paramname"><em>v</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   70</span>    {</div>
+<div class="line"><span class="lineno">   71</span>        <a class="code hl_class" href="../../db/dae/a30028.html">Vec3D</a> r(<a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a> * v.<a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a> - <a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a> * v.<a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a>, <a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a> * v.<a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a> - <a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a> * v.<a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a>, <a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a> * v.<a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a> - <a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a> * v.<a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a>);</div>
+<div class="line"><span class="lineno">   72</span>        <span class="keywordflow">return</span> r;</div>
+<div class="line"><span class="lineno">   73</span>    }</div>
+<div class="ttc" id="aa30028_html"><div class="ttname"><a href="../../db/dae/a30028.html">Vec3D</a></div><div class="ttdef"><b>Definition:</b> vec3d.h:25</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00027">x</a>, <a class="el" href="../../#l00027">y</a>, and <a class="el" href="../../#l00027">z</a>.</p>
+
+</div>
+</div>
+<a id="aa69f6d867a748bd543ec423a57378a21" name="aa69f6d867a748bd543ec423a57378a21"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa69f6d867a748bd543ec423a57378a21">&#9670;&#160;</a></span>operator*() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float Vec3D::operator* </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;&#160;</td>
+          <td class="paramname"><em>v</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   54</span>    {</div>
+<div class="line"><span class="lineno">   55</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a> * v.<a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a> + <a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a> * v.<a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a> + <a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a> * v.<a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a>;</div>
+<div class="line"><span class="lineno">   56</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00027">x</a>, <a class="el" href="../../#l00027">y</a>, and <a class="el" href="../../#l00027">z</a>.</p>
+
+</div>
+</div>
+<a id="a4d33d483ce46a408a9d0c45ddb075eb4" name="a4d33d483ce46a408a9d0c45ddb075eb4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4d33d483ce46a408a9d0c45ddb075eb4">&#9670;&#160;</a></span>operator*() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dae/a30028.html">Vec3D</a> Vec3D::operator* </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>d</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   59</span>    {</div>
+<div class="line"><span class="lineno">   60</span>        <a class="code hl_class" href="../../db/dae/a30028.html">Vec3D</a> r(<a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a> * d, <a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a> * d, <a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a> * d);</div>
+<div class="line"><span class="lineno">   61</span>        <span class="keywordflow">return</span> r;</div>
+<div class="line"><span class="lineno">   62</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00027">x</a>, <a class="el" href="../../#l00027">y</a>, and <a class="el" href="../../#l00027">z</a>.</p>
+
+</div>
+</div>
+<a id="aa59022e80683193bae192972da755884" name="aa59022e80683193bae192972da755884"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa59022e80683193bae192972da755884">&#9670;&#160;</a></span>operator*=()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp; Vec3D::operator*= </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>d</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   92</span>    {</div>
+<div class="line"><span class="lineno">   93</span>        <a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a> *= d;</div>
+<div class="line"><span class="lineno">   94</span>        <a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a> *= d;</div>
+<div class="line"><span class="lineno">   95</span>        <a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a> *= d;</div>
+<div class="line"><span class="lineno">   96</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">   97</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00027">x</a>, <a class="el" href="../../#l00027">y</a>, and <a class="el" href="../../#l00027">z</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00109">normalize()</a>.</p>
+
+</div>
+</div>
+<a id="a4908c6bd44a6a7856eada7b56425b1cc" name="a4908c6bd44a6a7856eada7b56425b1cc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4908c6bd44a6a7856eada7b56425b1cc">&#9670;&#160;</a></span>operator+()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dae/a30028.html">Vec3D</a> Vec3D::operator+ </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;&#160;</td>
+          <td class="paramname"><em>v</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   42</span>    {</div>
+<div class="line"><span class="lineno">   43</span>        <a class="code hl_class" href="../../db/dae/a30028.html">Vec3D</a> r(<a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a> + v.<a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a>, <a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a> + v.<a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a>, <a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a> + v.<a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a>);</div>
+<div class="line"><span class="lineno">   44</span>        <span class="keywordflow">return</span> r;</div>
+<div class="line"><span class="lineno">   45</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00027">x</a>, <a class="el" href="../../#l00027">y</a>, and <a class="el" href="../../#l00027">z</a>.</p>
+
+</div>
+</div>
+<a id="a15627b72a8533dba20622314d9c2d02e" name="a15627b72a8533dba20622314d9c2d02e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a15627b72a8533dba20622314d9c2d02e">&#9670;&#160;</a></span>operator+=()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp; Vec3D::operator+= </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;&#160;</td>
+          <td class="paramname"><em>v</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   76</span>    {</div>
+<div class="line"><span class="lineno">   77</span>        <a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a> += v.<a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a>;</div>
+<div class="line"><span class="lineno">   78</span>        <a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a> += v.<a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a>;</div>
+<div class="line"><span class="lineno">   79</span>        <a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a> += v.<a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a>;</div>
+<div class="line"><span class="lineno">   80</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">   81</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00027">x</a>, <a class="el" href="../../#l00027">y</a>, and <a class="el" href="../../#l00027">z</a>.</p>
+
+</div>
+</div>
+<a id="a7022d6629a4d968fe6efdc29b54b16aa" name="a7022d6629a4d968fe6efdc29b54b16aa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7022d6629a4d968fe6efdc29b54b16aa">&#9670;&#160;</a></span>operator-()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dae/a30028.html">Vec3D</a> Vec3D::operator- </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;&#160;</td>
+          <td class="paramname"><em>v</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   48</span>    {</div>
+<div class="line"><span class="lineno">   49</span>        <a class="code hl_class" href="../../db/dae/a30028.html">Vec3D</a> r(<a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a> - v.<a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a>, <a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a> - v.<a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a>, <a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a> - v.<a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a>);</div>
+<div class="line"><span class="lineno">   50</span>        <span class="keywordflow">return</span> r;</div>
+<div class="line"><span class="lineno">   51</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00027">x</a>, <a class="el" href="../../#l00027">y</a>, and <a class="el" href="../../#l00027">z</a>.</p>
+
+</div>
+</div>
+<a id="ac4cd3cead349c30f5bdaeecfaff4fdaa" name="ac4cd3cead349c30f5bdaeecfaff4fdaa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac4cd3cead349c30f5bdaeecfaff4fdaa">&#9670;&#160;</a></span>operator-=()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp; Vec3D::operator-= </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;&#160;</td>
+          <td class="paramname"><em>v</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   84</span>    {</div>
+<div class="line"><span class="lineno">   85</span>        <a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a> -= v.<a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a>;</div>
+<div class="line"><span class="lineno">   86</span>        <a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a> -= v.<a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a>;</div>
+<div class="line"><span class="lineno">   87</span>        <a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a> -= v.<a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a>;</div>
+<div class="line"><span class="lineno">   88</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">   89</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00027">x</a>, <a class="el" href="../../#l00027">y</a>, and <a class="el" href="../../#l00027">z</a>.</p>
+
+</div>
+</div>
+<a id="ab7e2806da7e3bdfda666b5e4906f08c3" name="ab7e2806da7e3bdfda666b5e4906f08c3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab7e2806da7e3bdfda666b5e4906f08c3">&#9670;&#160;</a></span>operator=()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp; Vec3D::operator= </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;&#160;</td>
+          <td class="paramname"><em>v</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   34</span>    {</div>
+<div class="line"><span class="lineno">   35</span>        <a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a> = v.<a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a>;</div>
+<div class="line"><span class="lineno">   36</span>        <a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a> = v.<a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a>;</div>
+<div class="line"><span class="lineno">   37</span>        <a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a> = v.<a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a>;</div>
+<div class="line"><span class="lineno">   38</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">   39</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00027">x</a>, <a class="el" href="../../#l00027">y</a>, and <a class="el" href="../../#l00027">z</a>.</p>
+
+</div>
+</div>
+<a id="ab58f61de30ae8941782f902eb54dca29" name="ab58f61de30ae8941782f902eb54dca29"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab58f61de30ae8941782f902eb54dca29">&#9670;&#160;</a></span>operator~()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dae/a30028.html">Vec3D</a> Vec3D::operator~ </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  116</span>    {</div>
+<div class="line"><span class="lineno">  117</span>        <a class="code hl_class" href="../../db/dae/a30028.html">Vec3D</a> r(*<span class="keyword">this</span>);</div>
+<div class="line"><span class="lineno">  118</span>        r.normalize();</div>
+<div class="line"><span class="lineno">  119</span>        <span class="keywordflow">return</span> r;</div>
+<div class="line"><span class="lineno">  120</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00109">normalize()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Friends And Related Function Documentation</h2>
+<a id="ae30695a767fd2a31300bd1b858fda811" name="ae30695a767fd2a31300bd1b858fda811"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae30695a767fd2a31300bd1b858fda811">&#9670;&#160;</a></span>operator*</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/dae/a30028.html">Vec3D</a> operator* </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>d</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;&#160;</td>
+          <td class="paramname"><em>v</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   65</span>    {</div>
+<div class="line"><span class="lineno">   66</span>        <span class="keywordflow">return</span> v * d;</div>
+<div class="line"><span class="lineno">   67</span>    }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ae0085c2ad66a850cb8270bbdd52d680e" name="ae0085c2ad66a850cb8270bbdd52d680e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae0085c2ad66a850cb8270bbdd52d680e">&#9670;&#160;</a></span>operator&lt;&lt;</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::ostream &amp; operator&lt;&lt; </td>
+          <td>(</td>
+          <td class="paramtype">std::ostream &amp;&#160;</td>
+          <td class="paramname"><em>out</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;&#160;</td>
+          <td class="paramname"><em>v</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  129</span>    {</div>
+<div class="line"><span class="lineno">  130</span>        out &lt;&lt; v.<a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a> &lt;&lt; <span class="stringliteral">&quot; &quot;</span> &lt;&lt; v.<a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a> &lt;&lt; <span class="stringliteral">&quot; &quot;</span> &lt;&lt; v.<a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a>;</div>
+<div class="line"><span class="lineno">  131</span>        <span class="keywordflow">return</span> out;</div>
+<div class="line"><span class="lineno">  132</span>    }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a9aa8110efc91a62f0719d9476b3cd7cf" name="a9aa8110efc91a62f0719d9476b3cd7cf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9aa8110efc91a62f0719d9476b3cd7cf">&#9670;&#160;</a></span>operator&gt;&gt;</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::istream &amp; operator&gt;&gt; </td>
+          <td>(</td>
+          <td class="paramtype">std::istream &amp;&#160;</td>
+          <td class="paramname"><em>in</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../db/dae/a30028.html">Vec3D</a> &amp;&#160;</td>
+          <td class="paramname"><em>v</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  123</span>    {</div>
+<div class="line"><span class="lineno">  124</span>        in &gt;&gt; v.<a class="code hl_variable" href="../../db/dae/a30028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a> &gt;&gt; v.<a class="code hl_variable" href="../../db/dae/a30028.html#a3441f0095b7f2b5dc424f7b045f92f2c">y</a> &gt;&gt; v.<a class="code hl_variable" href="../../db/dae/a30028.html#a5a619f14529e714231bff4cc6fd36614">z</a>;</div>
+<div class="line"><span class="lineno">  125</span>        <span class="keywordflow">return</span> in;</div>
+<div class="line"><span class="lineno">  126</span>    }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a0f061b9d5ea2a680f64bed8b5be9116d" name="a0f061b9d5ea2a680f64bed8b5be9116d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0f061b9d5ea2a680f64bed8b5be9116d">&#9670;&#160;</a></span>x</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float Vec3D::x</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00532">MapObject::Extract()</a>, <a class="el" href="../../#l00181">Doodad::ExtractSet()</a>, <a class="el" href="../../#l00068">fixCoords()</a>, <a class="el" href="../../#l00133">fixCoordSystem()</a>, <a class="el" href="../../#l00104">length()</a>, <a class="el" href="../../#l00099">lengthSquared()</a>, <a class="el" href="../../#l00069">operator%()</a>, <a class="el" href="../../#l00053">operator*()</a>, <a class="el" href="../../#l00091">operator*=()</a>, <a class="el" href="../../#l00041">operator+()</a>, <a class="el" href="../../#l00075">operator+=()</a>, <a class="el" href="../../#l00047">operator-()</a>, <a class="el" href="../../#l00083">operator-=()</a>, and <a class="el" href="../../#l00033">operator=()</a>.</p>
+
+</div>
+</div>
+<a id="a3441f0095b7f2b5dc424f7b045f92f2c" name="a3441f0095b7f2b5dc424f7b045f92f2c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3441f0095b7f2b5dc424f7b045f92f2c">&#9670;&#160;</a></span>y</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float Vec3D::y</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00070">Model::ConvertToVMAPModel()</a>, <a class="el" href="../../#l00181">Doodad::ExtractSet()</a>, <a class="el" href="../../#l00068">fixCoords()</a>, <a class="el" href="../../#l00133">fixCoordSystem()</a>, <a class="el" href="../../#l00104">length()</a>, <a class="el" href="../../#l00099">lengthSquared()</a>, <a class="el" href="../../#l00069">operator%()</a>, <a class="el" href="../../#l00053">operator*()</a>, <a class="el" href="../../#l00091">operator*=()</a>, <a class="el" href="../../#l00041">operator+()</a>, <a class="el" href="../../#l00075">operator+=()</a>, <a class="el" href="../../#l00047">operator-()</a>, <a class="el" href="../../#l00083">operator-=()</a>, and <a class="el" href="../../#l00033">operator=()</a>.</p>
+
+</div>
+</div>
+<a id="a5a619f14529e714231bff4cc6fd36614" name="a5a619f14529e714231bff4cc6fd36614"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5a619f14529e714231bff4cc6fd36614">&#9670;&#160;</a></span>z</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float Vec3D::z</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00070">Model::ConvertToVMAPModel()</a>, <a class="el" href="../../#l00532">MapObject::Extract()</a>, <a class="el" href="../../#l00181">Doodad::ExtractSet()</a>, <a class="el" href="../../#l00068">fixCoords()</a>, <a class="el" href="../../#l00133">fixCoordSystem()</a>, <a class="el" href="../../#l00104">length()</a>, <a class="el" href="../../#l00099">lengthSquared()</a>, <a class="el" href="../../#l00069">operator%()</a>, <a class="el" href="../../#l00053">operator*()</a>, <a class="el" href="../../#l00091">operator*=()</a>, <a class="el" href="../../#l00041">operator+()</a>, <a class="el" href="../../#l00075">operator+=()</a>, <a class="el" href="../../#l00047">operator-()</a>, <a class="el" href="../../#l00083">operator-=()</a>, and <a class="el" href="../../#l00033">operator=()</a>.</p>
 
 </div>
 </div>
@@ -369,8 +873,8 @@ template&lt;&gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_e8df728d6a6e829c2d0f8060a021b576.html">Configuration</a></li><li class="navelem"><a class="el" href="../../db/dae/a30028.html">Config.cpp</a></li>
-    <li class="footer">Generated on Mon Jan 26 2026 20:58:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../db/dae/a30028.html">Vec3D</a></li>
+    <li class="footer">Generated on Mon Mar 2 2026 21:06:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

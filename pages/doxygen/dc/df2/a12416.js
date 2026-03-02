@@ -1,6 +1,6 @@
 var a12416 =
 [
-    [ "boss_high_priestess_thaurissanAI", "dc/df2/a12416.html#acbc89b59865a5fda5a4143dd8c690b37", null ],
-    [ "JustEngagedWith", "dc/df2/a12416.html#a6602682950aab4e9932bf6cdfac9886b", null ],
-    [ "UpdateAI", "dc/df2/a12416.html#a216a5bc7a38aa5e13f9d025f44e04779", null ]
+    [ "boss_grizzleAI", "db/d8a/a12420.html", "db/d8a/a12420" ],
+    [ "boss_grizzle", "dc/df2/a12416.html#a6c9913cec9503a86e2f5358f65b97b26", null ],
+    [ "GetAI", "dc/df2/a12416.html#aa0bf6c89f13fbd20695ebb7ce965b0f5", null ]
 ];

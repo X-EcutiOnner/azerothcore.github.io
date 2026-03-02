@@ -1,10 +1,6 @@
 var a15188 =
 [
-    [ "boss_meathookAI", "d3/d79/a15188.html#abb35c98da760db634545b81d740cd51a", null ],
-    [ "JustDied", "d3/d79/a15188.html#a44ebee45de335ff6f653e9d60a364458", null ],
-    [ "JustEngagedWith", "d3/d79/a15188.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
-    [ "KilledUnit", "d3/d79/a15188.html#a54deac512294bb0901d072faef3166b1", null ],
-    [ "Reset", "d3/d79/a15188.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
-    [ "UpdateAI", "d3/d79/a15188.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
-    [ "events", "d3/d79/a15188.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
+    [ "instance_mount_hyjal_InstanceMapScript", "df/d23/a15192.html", "df/d23/a15192" ],
+    [ "instance_hyjal", "d3/d79/a15188.html#ade946c0fcaa4bad790bfcb4b6ffb6420", null ],
+    [ "GetInstanceScript", "d3/d79/a15188.html#ae6e39933d7cfd6563f6d37636f1c6f68", null ]
 ];

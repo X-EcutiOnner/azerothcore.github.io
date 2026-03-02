@@ -1,7 +1,7 @@
 var a18352 =
 [
-    [ "HandleSummon", "d6/d26/a18352.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "d6/d26/a18352.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "d6/d26/a18352.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "d6/d26/a18352.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "HandleDummy", "d6/d26/a18352.html#aa61db53d7395fd45b8569e12978fed0b", null ],
+    [ "PrepareSpellScript", "d6/d26/a18352.html#ab63054debe6763027ab52ad122277719", null ],
+    [ "Register", "d6/d26/a18352.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
+    [ "Validate", "d6/d26/a18352.html#adb7e30d10c2071de5d5070b64a10af30", null ]
 ];

@@ -1,6 +1,9 @@
 var a24956 =
 [
-    [ "CheckAreaTarget", "db/d2e/a24956.html#a545323b9964ee4cb3c8d054fac4e2d55", null ],
-    [ "PrepareAuraScript", "db/d2e/a24956.html#a2b6dbd33e34357917f662000a1cd932f", null ],
-    [ "Register", "db/d2e/a24956.html#a7b4a2301b3a608ea5b2dd2504e02741d", null ]
+    [ "PrepareAuraScript", "db/d2e/a24956.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
+    [ "Register", "db/d2e/a24956.html#a04efbc64bfa0312bc1f372e403803c32", null ],
+    [ "Update", "db/d2e/a24956.html#aa463442b994b6275b2e12fe06ae7805c", null ],
+    [ "amplitude", "db/d2e/a24956.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
+    [ "amplitude", "db/d2e/a24956.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
+    [ "isPeriodic", "db/d2e/a24956.html#a0732bf60822bbb547be014566d0e092c", null ]
 ];

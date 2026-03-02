@@ -1,10 +1,10 @@
 var a29320 =
 [
-    [ "ID", "d9/d87/a29320.html#a090069d13cbbcc5762ecca600c506492", null ],
-    [ "map_id", "d9/d87/a29320.html#a685931e2a361f9e0fc81c004c7467d19", null ],
-    [ "MountCreatureID", "d9/d87/a29320.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
-    [ "name", "d9/d87/a29320.html#ae00db3ea736c3a470f6f0690c178e758", null ],
-    [ "x", "d9/d87/a29320.html#a7cbd40848094fa367862d653b0f7170d", null ],
-    [ "y", "d9/d87/a29320.html#a9380befd45cab3104003b2487464bd71", null ],
-    [ "z", "d9/d87/a29320.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
+    [ "attackSpeed", "d9/d87/a29320.html#ab5242f7367e8799a556176178c72fc88", null ],
+    [ "creatureType", "d9/d87/a29320.html#a3dff9074b85261932ed8a8a550c5395b", null ],
+    [ "flags1", "d9/d87/a29320.html#a026745f2ce754d754858d69ee219b518", null ],
+    [ "ID", "d9/d87/a29320.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
+    [ "modelID_A", "d9/d87/a29320.html#a86dfa61342583d920b7d8496bce4b49d", null ],
+    [ "modelID_H", "d9/d87/a29320.html#a1ee597d6fd02507b682874929645e01d", null ],
+    [ "stanceSpell", "d9/d87/a29320.html#a08f54b905e905fb5a59e449f8c613c08", null ]
 ];

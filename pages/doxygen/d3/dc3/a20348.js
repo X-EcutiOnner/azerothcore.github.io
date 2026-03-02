@@ -1,6 +1,6 @@
 var a20348 =
 [
-    [ "FilterTargets", "d3/dc3/a20348.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
-    [ "PrepareSpellScript", "d3/dc3/a20348.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
-    [ "Register", "d3/dc3/a20348.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
+    [ "achievement_freya_knock_on_wood", "d3/dc3/a20348.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
+    [ "OnCheck", "d3/dc3/a20348.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
+    [ "_elderCount", "d3/dc3/a20348.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
 ];

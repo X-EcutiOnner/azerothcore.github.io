@@ -1,8 +1,12 @@
 var a21232 =
 [
-    [ "npc_frozen_orbAI", "d8/d8d/a21232.html#aa7456d1d876690e3723ee0a36866348b", null ],
-    [ "JustEngagedWith", "d8/d8d/a21232.html#afd9686dbb8503d7f756b670269aed33d", null ],
-    [ "Reset", "d8/d8d/a21232.html#a376dc1fcef9752e235008c4ba66e2463", null ],
-    [ "UpdateAI", "d8/d8d/a21232.html#a37d7cf81197fe4344c8b847753997e93", null ],
-    [ "switchTimer", "d8/d8d/a21232.html#afc63a3cf6b814df81a35b53278d722c9", null ]
+    [ "boss_koralonAI", "d8/d8d/a21232.html#a3f5bc42a141011e543d1215eac09dc74", null ],
+    [ "AttackStart", "d8/d8d/a21232.html#aa84e6e9a302172e134163cd07ca57864", null ],
+    [ "JustDied", "d8/d8d/a21232.html#a102c10792d9e7df61d920b5a43f58e51", null ],
+    [ "JustEngagedWith", "d8/d8d/a21232.html#aa7503618dd09e0aebac44394595f4715", null ],
+    [ "Reset", "d8/d8d/a21232.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
+    [ "UpdateAI", "d8/d8d/a21232.html#aa944aad2eb68adc917cba743d1e530c7", null ],
+    [ "events", "d8/d8d/a21232.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
+    [ "pInstance", "d8/d8d/a21232.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
+    [ "rotateTimer", "d8/d8d/a21232.html#ad4b766094f28e940b0b7971d6dadc277", null ]
 ];

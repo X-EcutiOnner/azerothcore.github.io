@@ -1,7 +1,6 @@
 var a12904 =
 [
-    [ "HandlePeriodic", "d0/de2/a12904.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
-    [ "PrepareAuraScript", "d0/de2/a12904.html#a5dca8e116c05d11961cbd7995314441e", null ],
-    [ "Register", "d0/de2/a12904.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
-    [ "Validate", "d0/de2/a12904.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
+    [ "boss_lucifronAI", "d3/d86/a12908.html", "d3/d86/a12908" ],
+    [ "boss_lucifron", "d0/de2/a12904.html#aa54be5c49a77524b036c167dbb6d81ea", null ],
+    [ "GetAI", "d0/de2/a12904.html#a885366d4190bbc77dc696ee6910435ed", null ]
 ];

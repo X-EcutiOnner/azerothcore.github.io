@@ -1,7 +1,9 @@
 var a28612 =
 [
-    [ "HandleDummy", "db/dca/a28612.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
-    [ "PrepareSpellScript", "db/dca/a28612.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
-    [ "Register", "db/dca/a28612.html#a3fda4d652c1264b3cfababdd98297c61", null ],
-    [ "Validate", "db/dca/a28612.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
+    [ "npc_necropolis_health", "db/dca/a28612.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
+    [ "DespawnNecropolis", "db/dca/a28612.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
+    [ "JustDied", "db/dca/a28612.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
+    [ "SpellHit", "db/dca/a28612.html#ad4a9f9b166ab8107a16da918082c6625", null ],
+    [ "SpellHitTarget", "db/dca/a28612.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
+    [ "_zapCount", "db/dca/a28612.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
 ];

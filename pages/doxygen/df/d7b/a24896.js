@@ -1,10 +1,8 @@
 var a24896 =
 [
-    [ "HandleEffectApply", "df/d7b/a24896.html#ac977d07e0b054af33345538f10d80c56", null ],
-    [ "HandleEffectRemove", "df/d7b/a24896.html#acd9c460acb60eae5db8874c246014147", null ],
-    [ "PrepareAuraScript", "df/d7b/a24896.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
-    [ "Register", "df/d7b/a24896.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
-    [ "_hasFlag", "df/d7b/a24896.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
-    [ "_itemId", "df/d7b/a24896.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
-    [ "_modelId", "df/d7b/a24896.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
+    [ "CheckProc", "df/d7b/a24896.html#aa3b4d0bb214146b14d7a991c12f2f38d", null ],
+    [ "HandleProc", "df/d7b/a24896.html#a020b3e9890b8ef88887ec3cf35f7ca6d", null ],
+    [ "PrepareAuraScript", "df/d7b/a24896.html#aee9068453d0c16088eb120da65657903", null ],
+    [ "Register", "df/d7b/a24896.html#ad87e455c7e09c040f574140921b4e406", null ],
+    [ "Validate", "df/d7b/a24896.html#a1075a61443eba3609f4d0602fb4f1144", null ]
 ];

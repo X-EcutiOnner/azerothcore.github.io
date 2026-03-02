@@ -1,7 +1,6 @@
 var a22928 =
 [
-    [ "HandleOnHit", "d7/dbb/a22928.html#a9f368396cef39ba3bd70480f11c44700", null ],
-    [ "PrepareSpellScript", "d7/dbb/a22928.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
-    [ "Register", "d7/dbb/a22928.html#a99f80adcebdd9726a8df51f99d415651", null ],
-    [ "Validate", "d7/dbb/a22928.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
+    [ "ShadowOfDeathSelector", "d7/dbb/a22928.html#a1190094fbde74ccffd954fea742ab0ae", null ],
+    [ "operator()", "d7/dbb/a22928.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
+    [ "_tank", "d7/dbb/a22928.html#adc238645eec306e00918dbab05549fc8", null ]
 ];

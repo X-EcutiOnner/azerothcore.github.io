@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: AuthHelper Namespace Reference</title>
+<title>AzerothCore: Acore::Net Namespace Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,107 +105,25 @@ $(document).ready(function(){initNavTree('d1/dc6/a04964.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">AuthHelper Namespace Reference</div></div>
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">Acore::Net Namespace Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a96896fc9dad2c304f681a24776f6726b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc6/a04964.html#a96896fc9dad2c304f681a24776f6726b">IsPreBCAcceptedClientBuild</a> (<a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> build)</td></tr>
-<tr class="separator:a96896fc9dad2c304f681a24776f6726b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad4f22daf9d88367d90d92416f470a28c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc6/a04964.html#ad4f22daf9d88367d90d92416f470a28c">IsPostBCAcceptedClientBuild</a> (<a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> build)</td></tr>
-<tr class="separator:ad4f22daf9d88367d90d92416f470a28c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a50a906b5a3fdca3508aee0997881a717"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc6/a04964.html#a50a906b5a3fdca3508aee0997881a717">IsAcceptedClientBuild</a> (<a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> build)</td></tr>
-<tr class="separator:a50a906b5a3fdca3508aee0997881a717"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:ac023f15b280fc65fdefefb77f2f7be7b"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc6/a04964.html#ac023f15b280fc65fdefefb77f2f7be7b">MAX_PRE_BC_CLIENT_BUILD</a> = 6141</td></tr>
-<tr class="separator:ac023f15b280fc65fdefefb77f2f7be7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb8b9761e1df323f5c258c0a12da7bd4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc6/a04964.html#abb8b9761e1df323f5c258c0a12da7bd4">address_to_uint</a> (boost::asio::ip::address_v4 const &amp;address)</td></tr>
+<tr class="separator:abb8b9761e1df323f5c258c0a12da7bd4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af108d05a57113d16ab9c8f3b26870be2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc6/a04964.html#af108d05a57113d16ab9c8f3b26870be2">IsInNetwork</a> (boost::asio::ip::address_v4 const &amp;networkAddress, boost::asio::ip::address_v4 const &amp;mask, boost::asio::ip::address_v4 const &amp;clientAddress)</td></tr>
+<tr class="separator:af108d05a57113d16ab9c8f3b26870be2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af75b2c10ca445dc89c53b7ed8d17eae0"><td class="memItemLeft" align="right" valign="top">boost::asio::ip::address_v4&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc6/a04964.html#af75b2c10ca445dc89c53b7ed8d17eae0">GetDefaultNetmaskV4</a> (boost::asio::ip::address_v4 const &amp;networkAddress)</td></tr>
+<tr class="separator:af75b2c10ca445dc89c53b7ed8d17eae0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2617cb1c747a45e5af4e2c32cc29d5de"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc6/a04964.html#a2617cb1c747a45e5af4e2c32cc29d5de">IsInNetwork</a> (boost::asio::ip::address_v6 const &amp;networkAddress, <a class="el" href="../../d6/d1a/a00485.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> prefixLength, boost::asio::ip::address_v6 const &amp;clientAddress)</td></tr>
+<tr class="separator:a2617cb1c747a45e5af4e2c32cc29d5de"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a50a906b5a3fdca3508aee0997881a717" name="a50a906b5a3fdca3508aee0997881a717"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a50a906b5a3fdca3508aee0997881a717">&#9670;&#160;</a></span>IsAcceptedClientBuild()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool AuthHelper::IsAcceptedClientBuild </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>build</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   36</span>    {</div>
-<div class="line"><span class="lineno">   37</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="../../dc/d8f/a04133.html#a639c880efde6e31a4bf6be6b5bcc3cd3">sRealmList</a>-&gt;GetBuildInfo(build) != <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   38</span>    }</div>
-<div class="ttc" id="aa04133_html_a639c880efde6e31a4bf6be6b5bcc3cd3"><div class="ttname"><a href="../../dc/d8f/a04133.html#a639c880efde6e31a4bf6be6b5bcc3cd3">sRealmList</a></div><div class="ttdeci">#define sRealmList</div><div class="ttdef"><b>Definition:</b> RealmList.h:83</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00083">sRealmList</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00317">AuthSession::LogonChallengeCallback()</a>.</p>
-
-</div>
-</div>
-<a id="ad4f22daf9d88367d90d92416f470a28c" name="ad4f22daf9d88367d90d92416f470a28c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad4f22daf9d88367d90d92416f470a28c">&#9670;&#160;</a></span>IsPostBCAcceptedClientBuild()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool AuthHelper::IsPostBCAcceptedClientBuild </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>build</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   31</span>    {</div>
-<div class="line"><span class="lineno">   32</span>        <span class="keywordflow">return</span> build &gt; <a class="code hl_variable" href="../../d1/dc6/a04964.html#ac023f15b280fc65fdefefb77f2f7be7b">MAX_PRE_BC_CLIENT_BUILD</a> &amp;&amp; <a class="code hl_define" href="../../dc/d8f/a04133.html#a639c880efde6e31a4bf6be6b5bcc3cd3">sRealmList</a>-&gt;GetBuildInfo(build);</div>
-<div class="line"><span class="lineno">   33</span>    }</div>
-<div class="ttc" id="aa04964_html_ac023f15b280fc65fdefefb77f2f7be7b"><div class="ttname"><a href="../../d1/dc6/a04964.html#ac023f15b280fc65fdefefb77f2f7be7b">AuthHelper::MAX_PRE_BC_CLIENT_BUILD</a></div><div class="ttdeci">static constexpr uint32 MAX_PRE_BC_CLIENT_BUILD</div><div class="ttdef"><b>Definition:</b> AuthCodes.cpp:23</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00023">MAX_PRE_BC_CLIENT_BUILD</a>, and <a class="el" href="../../#l00083">sRealmList</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00283">AuthSession::HandleLogonChallenge()</a>, and <a class="el" href="../../#l00620">AuthSession::HandleReconnectChallenge()</a>.</p>
-
-</div>
-</div>
-<a id="a96896fc9dad2c304f681a24776f6726b" name="a96896fc9dad2c304f681a24776f6726b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a96896fc9dad2c304f681a24776f6726b">&#9670;&#160;</a></span>IsPreBCAcceptedClientBuild()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool AuthHelper::IsPreBCAcceptedClientBuild </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>build</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   26</span>    {</div>
-<div class="line"><span class="lineno">   27</span>        <span class="keywordflow">return</span> build &lt;= <a class="code hl_variable" href="../../d1/dc6/a04964.html#ac023f15b280fc65fdefefb77f2f7be7b">MAX_PRE_BC_CLIENT_BUILD</a> &amp;&amp; <a class="code hl_define" href="../../dc/d8f/a04133.html#a639c880efde6e31a4bf6be6b5bcc3cd3">sRealmList</a>-&gt;GetBuildInfo(build);</div>
-<div class="line"><span class="lineno">   28</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00023">MAX_PRE_BC_CLIENT_BUILD</a>, and <a class="el" href="../../#l00083">sRealmList</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00283">AuthSession::HandleLogonChallenge()</a>, <a class="el" href="../../#l00620">AuthSession::HandleReconnectChallenge()</a>, and <a class="el" href="../../#l00738">AuthSession::RealmListCallback()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="ac023f15b280fc65fdefefb77f2f7be7b" name="ac023f15b280fc65fdefefb77f2f7be7b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac023f15b280fc65fdefefb77f2f7be7b">&#9670;&#160;</a></span>MAX_PRE_BC_CLIENT_BUILD</h2>
+<a id="abb8b9761e1df323f5c258c0a12da7bd4" name="abb8b9761e1df323f5c258c0a12da7bd4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abb8b9761e1df323f5c258c0a12da7bd4">&#9670;&#160;</a></span>address_to_uint()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -214,18 +132,163 @@ Variables</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr <a class="el" href="../../d8/d59/a04337.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> AuthHelper::MAX_PRE_BC_CLIENT_BUILD = 6141</td>
+          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Acore::Net::address_to_uint </td>
+          <td>(</td>
+          <td class="paramtype">boost::asio::ip::address_v4 const &amp;&#160;</td>
+          <td class="paramname"><em>address</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   28</span>{ <span class="keywordflow">return</span> address.to_uint(); }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00035">GetDefaultNetmaskV4()</a>, and <a class="el" href="../../#l00108">IpLocationStore::GetLocationRecord()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00030">IsPostBCAcceptedClientBuild()</a>, and <a class="el" href="../../#l00025">IsPreBCAcceptedClientBuild()</a>.</p>
+</div>
+</div>
+<a id="af75b2c10ca445dc89c53b7ed8d17eae0" name="af75b2c10ca445dc89c53b7ed8d17eae0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af75b2c10ca445dc89c53b7ed8d17eae0">&#9670;&#160;</a></span>GetDefaultNetmaskV4()</h2>
 
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">boost::asio::ip::address_v4 Acore::Net::GetDefaultNetmaskV4 </td>
+          <td>(</td>
+          <td class="paramtype">boost::asio::ip::address_v4 const &amp;&#160;</td>
+          <td class="paramname"><em>networkAddress</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   36</span>    {</div>
+<div class="line"><span class="lineno">   37</span>        <span class="keywordflow">if</span> ((<a class="code hl_function" href="../../d1/dc6/a04964.html#abb8b9761e1df323f5c258c0a12da7bd4">address_to_uint</a>(networkAddress) &amp; 0x80000000) == 0)</div>
+<div class="line"><span class="lineno">   38</span>        {</div>
+<div class="line"><span class="lineno">   39</span>            <span class="keywordflow">return</span> boost::asio::ip::address_v4(0xFF000000);</div>
+<div class="line"><span class="lineno">   40</span>        }</div>
+<div class="line"><span class="lineno">   41</span>        <span class="keywordflow">if</span> ((address_to_uint(networkAddress) &amp; 0xC0000000) == 0x80000000)</div>
+<div class="line"><span class="lineno">   42</span>        {</div>
+<div class="line"><span class="lineno">   43</span>            <span class="keywordflow">return</span> boost::asio::ip::address_v4(0xFFFF0000);</div>
+<div class="line"><span class="lineno">   44</span>        }</div>
+<div class="line"><span class="lineno">   45</span>        <span class="keywordflow">if</span> ((address_to_uint(networkAddress) &amp; 0xE0000000) == 0xC0000000)</div>
+<div class="line"><span class="lineno">   46</span>        {</div>
+<div class="line"><span class="lineno">   47</span>            <span class="keywordflow">return</span> boost::asio::ip::address_v4(0xFFFFFF00);</div>
+<div class="line"><span class="lineno">   48</span>        }</div>
+<div class="line"><span class="lineno">   49</span>        <span class="keywordflow">return</span> boost::asio::ip::address_v4(0xFFFFFFFF);</div>
+<div class="line"><span class="lineno">   50</span>    }</div>
+<div class="ttc" id="aa04964_html_abb8b9761e1df323f5c258c0a12da7bd4"><div class="ttname"><a href="../../d1/dc6/a04964.html#abb8b9761e1df323f5c258c0a12da7bd4">Acore::Net::address_to_uint</a></div><div class="ttdeci">uint32 address_to_uint(boost::asio::ip::address_v4 const &amp;address)</div><div class="ttdef"><b>Definition:</b> IpAddress.h:28</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00028">address_to_uint()</a>.</p>
+
+</div>
+</div>
+<a id="af108d05a57113d16ab9c8f3b26870be2" name="af108d05a57113d16ab9c8f3b26870be2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af108d05a57113d16ab9c8f3b26870be2">&#9670;&#160;</a></span>IsInNetwork() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool Acore::Net::IsInNetwork </td>
+          <td>(</td>
+          <td class="paramtype">boost::asio::ip::address_v4 const &amp;&#160;</td>
+          <td class="paramname"><em>networkAddress</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">boost::asio::ip::address_v4 const &amp;&#160;</td>
+          <td class="paramname"><em>mask</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">boost::asio::ip::address_v4 const &amp;&#160;</td>
+          <td class="paramname"><em>clientAddress</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   29</span>    {</div>
+<div class="line"><span class="lineno">   30</span>        boost::asio::ip::network_v4 network = boost::asio::ip::make_network_v4(networkAddress, mask);</div>
+<div class="line"><span class="lineno">   31</span>        boost::asio::ip::address_v4_range hosts = network.hosts();</div>
+<div class="line"><span class="lineno">   32</span>        <span class="keywordflow">return</span> hosts.find(clientAddress) != hosts.end();</div>
+<div class="line"><span class="lineno">   33</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00023">Realm::GetAddressForClient()</a>.</p>
+
+</div>
+</div>
+<a id="a2617cb1c747a45e5af4e2c32cc29d5de" name="a2617cb1c747a45e5af4e2c32cc29d5de"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2617cb1c747a45e5af4e2c32cc29d5de">&#9670;&#160;</a></span>IsInNetwork() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool Acore::Net::IsInNetwork </td>
+          <td>(</td>
+          <td class="paramtype">boost::asio::ip::address_v6 const &amp;&#160;</td>
+          <td class="paramname"><em>networkAddress</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>prefixLength</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">boost::asio::ip::address_v6 const &amp;&#160;</td>
+          <td class="paramname"><em>clientAddress</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   53</span>    {</div>
+<div class="line"><span class="lineno">   54</span>        boost::asio::ip::network_v6 network = boost::asio::ip::make_network_v6(networkAddress, prefixLength);</div>
+<div class="line"><span class="lineno">   55</span>        boost::asio::ip::address_v6_range hosts = network.hosts();</div>
+<div class="line"><span class="lineno">   56</span>        <span class="keywordflow">return</span> hosts.find(clientAddress) != hosts.end();</div>
+<div class="line"><span class="lineno">   57</span>    }</div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -233,8 +296,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d1/dc6/a04964.html">AuthHelper</a></li>
-    <li class="footer">Generated on Mon Feb 23 2026 21:16:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../df/d92/a04962.html">Acore</a></li><li class="navelem"><a class="el" href="../../d1/dc6/a04964.html">Net</a></li>
+    <li class="footer">Generated on Mon Mar 2 2026 21:06:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

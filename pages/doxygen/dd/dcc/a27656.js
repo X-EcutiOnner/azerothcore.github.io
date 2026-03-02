@@ -1,6 +1,8 @@
 var a27656 =
 [
-    [ "CalculateAmount", "dd/dcc/a27656.html#aa27de1a2fc517a4b796a10e780239880", null ],
-    [ "PrepareAuraScript", "dd/dcc/a27656.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
-    [ "Register", "dd/dcc/a27656.html#a5ee969ad0916a9337849c75c18f13c29", null ]
+    [ "CheckProc", "dd/dcc/a27656.html#afcda3b112699e108e2db6270836fce1b", null ],
+    [ "OnProc", "dd/dcc/a27656.html#ab953f817368120933828d6b3e5e200c0", null ],
+    [ "PrepareAuraScript", "dd/dcc/a27656.html#a33381b811abcd52f7a57e0f62fa73e5f", null ],
+    [ "Register", "dd/dcc/a27656.html#abfdd5179215432a3e89ea7b498d49867", null ],
+    [ "Validate", "dd/dcc/a27656.html#a19e8f1b9aab5ee4e718b304c87303627", null ]
 ];

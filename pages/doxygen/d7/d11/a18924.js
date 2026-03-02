@@ -1,6 +1,6 @@
 var a18924 =
 [
-    [ "npc_valithria_cloudAI", "d0/d05/a18928.html", "d0/d05/a18928" ],
-    [ "npc_valithria_cloud", "d7/d11/a18924.html#a11d1bdc4c6e8210e2d0706f33d369dde", null ],
-    [ "GetAI", "d7/d11/a18924.html#afeff905cec1245dbac6fa59673aef015", null ]
+    [ "npc_green_dragon_combat_triggerAI", "d0/d05/a18928.html", "d0/d05/a18928" ],
+    [ "npc_green_dragon_combat_trigger", "d7/d11/a18924.html#acec675494f5e5e9609bf34b7f25cb569", null ],
+    [ "GetAI", "d7/d11/a18924.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
 ];

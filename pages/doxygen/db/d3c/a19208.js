@@ -1,6 +1,6 @@
 var a19208 =
 [
-    [ "npc_icc_skybreaker_marksmanAI", "d2/df2/a19212.html", "d2/df2/a19212" ],
-    [ "npc_icc_skybreaker_marksman", "db/d3c/a19208.html#a1d870b78e1acf2d17782265e28698d1c", null ],
-    [ "GetAI", "db/d3c/a19208.html#a374017d37da15705d51ab8edc75683ff", null ]
+    [ "HandleScript", "db/d3c/a19208.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
+    [ "PrepareSpellScript", "db/d3c/a19208.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
+    [ "Register", "db/d3c/a19208.html#ad0c6d34103244cded41481c745dafe58", null ]
 ];

@@ -1,9 +1,13 @@
 var a09012 =
 [
-    [ "VehicleAccessory", "d4/d5d/a09012.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
-    [ "AccessoryEntry", "d4/d5d/a09012.html#a6e3cd6b20680974235c146d34b16295a", null ],
-    [ "IsMinion", "d4/d5d/a09012.html#ace3fd27311370e4db4103f2c3ac70410", null ],
-    [ "SeatId", "d4/d5d/a09012.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
-    [ "SummonedType", "d4/d5d/a09012.html#afc843c62c580c860471b0e49f5901363", null ],
-    [ "SummonTime", "d4/d5d/a09012.html#a13a024b3ceacf38ce4907b079d732420", null ]
+    [ "BuildValuesCachePosPointers", "d4/d5d/a09012.html#ae84124e042e8ba50d755ccef3c02fdd8", null ],
+    [ "ApplyOffset", "d4/d5d/a09012.html#a31a13ea07b3eb9e3d045996e8a6074b2", null ],
+    [ "other", "d4/d5d/a09012.html#ad56ddc5f2d7ea4937b49a61d80b8b138", null ],
+    [ "UnitDynamicFlagsPos", "d4/d5d/a09012.html#a230385a8646ebce01faaadce648b1a61", null ],
+    [ "UnitFieldAuraStatePos", "d4/d5d/a09012.html#a69592cf42c5f6663c8ada3468fcbe658", null ],
+    [ "UnitFieldBytes2Pos", "d4/d5d/a09012.html#aa1df8492f0a3c576b067469ee3552796", null ],
+    [ "UnitFieldDisplayPos", "d4/d5d/a09012.html#a1058d1650d656498f7dcd5139363a315", null ],
+    [ "UnitFieldFactionTemplatePos", "d4/d5d/a09012.html#a9b8eae9da685231956dca3e92b845cbb", null ],
+    [ "UnitFieldFlagsPos", "d4/d5d/a09012.html#a04e607123d1d1dde24611b573d25fedb", null ],
+    [ "UnitNPCFlagsPos", "d4/d5d/a09012.html#aa9412413e1a867d1f3857d18f4d52906", null ]
 ];

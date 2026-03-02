@@ -1,8 +1,19 @@
 var a02444 =
 [
-    [ "instance_old_hillsbrad", "d0/daf/a15256.html", "d0/daf/a15256" ],
-    [ "instance_old_hillsbrad::instance_old_hillsbrad_InstanceMapScript", "d1/d42/a15260.html", "d1/d42/a15260" ],
-    [ "AddSC_instance_old_hillsbrad", "d4/da8/a02444.html#a2b3faa69a9526f156ca7bae70c720075", null ],
-    [ "instancePositions", "d4/da8/a02444.html#a79b42da504a3cfde2581f63a639c7936", null ],
-    [ "thrallPositions", "d4/da8/a02444.html#a04c9058e75a93a56057912eb1c896bd0", null ]
+    [ "ArenaSeasonReward", "dd/d44/a07456.html", "dd/d44/a07456" ],
+    [ "ArenaSeasonRewardGroup", "d2/d2b/a07460.html", "d2/d2b/a07460" ],
+    [ "ArenaSeasonMgr", "d7/d19/a07464.html", "d7/d19/a07464" ],
+    [ "sArenaSeasonMgr", "d4/da8/a02444.html#ac46c94dc4c6cf0de37233cdd42a97ccf", null ],
+    [ "ArenaSeasonRewardGroupCriteriaType", "d4/da8/a02444.html#a983281e9aada2538d6bc53ae4dd4d266", [
+      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE", "d4/da8/a02444.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422", null ],
+      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE", "d4/da8/a02444.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63", null ]
+    ] ],
+    [ "ArenaSeasonRewardType", "d4/da8/a02444.html#a89a1f93759bb943ff9ef0e4991579265", [
+      [ "ARENA_SEASON_REWARD_TYPE_ITEM", "d4/da8/a02444.html#a89a1f93759bb943ff9ef0e4991579265a124351d53a1d14813bc7af90043d8a32", null ],
+      [ "ARENA_SEASON_REWARD_TYPE_ACHIEVEMENT", "d4/da8/a02444.html#a89a1f93759bb943ff9ef0e4991579265ad12571a956e334946d72aa118f464444", null ]
+    ] ],
+    [ "ArenaSeasonState", "d4/da8/a02444.html#a64f8715fead51dc9727d105bce4d0e38", [
+      [ "ARENA_SEASON_STATE_DISABLED", "d4/da8/a02444.html#a64f8715fead51dc9727d105bce4d0e38ac019cd8397ba38ebc1d327c337d48017", null ],
+      [ "ARENA_SEASON_STATE_IN_PROGRESS", "d4/da8/a02444.html#a64f8715fead51dc9727d105bce4d0e38a455a35a5e6e89efd32818e52ca82f5f8", null ]
+    ] ]
 ];

@@ -1,6 +1,7 @@
 var a15492 =
 [
-    [ "HandleDamageCalc", "d1/d6a/a15492.html#a03eb92eff300872cd5fca452a99375ab", null ],
-    [ "PrepareSpellScript", "d1/d6a/a15492.html#ac07421b62bb6044dad89431839a70bd8", null ],
-    [ "Register", "d1/d6a/a15492.html#a70cbf764ab475e2358fa6630798cab9d", null ]
+    [ "FilterTargets", "d1/d6a/a15492.html#a59e477333a54ec828a429d15b35d4936", null ],
+    [ "HandleScript", "d1/d6a/a15492.html#a983fe53aa52e53a45685055fde04a3b7", null ],
+    [ "PrepareSpellScript", "d1/d6a/a15492.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
+    [ "Register", "d1/d6a/a15492.html#a45ac61990990f16c98eaa7136297afc5", null ]
 ];

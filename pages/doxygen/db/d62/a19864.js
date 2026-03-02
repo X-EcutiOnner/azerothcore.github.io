@@ -1,6 +1,7 @@
 var a19864 =
 [
-    [ "HandlePeriodic", "db/d62/a19864.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
-    [ "PrepareAuraScript", "db/d62/a19864.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
-    [ "Register", "db/d62/a19864.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
+    [ "Apply", "db/d62/a19864.html#add8e95d38b0c437833c11cded72fe2a7", null ],
+    [ "PrepareAuraScript", "db/d62/a19864.html#ad2112b571d97e537983b4d11207015e6", null ],
+    [ "Register", "db/d62/a19864.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
+    [ "Validate", "db/d62/a19864.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
 ];

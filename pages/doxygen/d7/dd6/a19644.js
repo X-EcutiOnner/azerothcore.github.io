@@ -1,7 +1,6 @@
 var a19644 =
 [
-    [ "npc_naxxramas_trigger", "d7/dd6/a19644.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
-    [ "Reset", "d7/dd6/a19644.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
-    [ "UpdateAI", "d7/dd6/a19644.html#acd051dd7790aa37cd2375479433509cb", null ],
-    [ "_events", "d7/dd6/a19644.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
+    [ "npc_teslaAI", "de/dab/a19648.html", "de/dab/a19648" ],
+    [ "npc_tesla", "d7/dd6/a19644.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
+    [ "GetAI", "d7/dd6/a19644.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
 ];

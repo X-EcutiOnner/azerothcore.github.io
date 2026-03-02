@@ -1,8 +1,12 @@
 var a22656 =
 [
-    [ "npc_parasitic_shadowfiend", "df/d8e/a22656.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
-    [ "CanAIAttack", "df/d8e/a22656.html#ac7600aed313f1413cb9b522d60d30329", null ],
-    [ "EnterEvadeMode", "df/d8e/a22656.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
-    [ "IsSummonedBy", "df/d8e/a22656.html#a306c696d4243c4525d0a3908a212135d", null ],
-    [ "UpdateAI", "df/d8e/a22656.html#a2706a4ba7876f299b02d2e720f512af2", null ]
+    [ "boss_gurtogg_bloodboil", "df/d8e/a22656.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
+    [ "CanAIAttack", "df/d8e/a22656.html#a60e6439bab689eb88a18612b6b46c713", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "df/d8e/a22656.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
+    [ "JustDied", "df/d8e/a22656.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
+    [ "JustEngagedWith", "df/d8e/a22656.html#a0847173efbae252c2fbbaf1be17097cb", null ],
+    [ "JustSummoned", "df/d8e/a22656.html#ae718666a1da0e93cb0965c42c40b51df", null ],
+    [ "KilledUnit", "df/d8e/a22656.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
+    [ "Reset", "df/d8e/a22656.html#add25677d422b8bddcb753465451f0584", null ],
+    [ "_recentlySpoken", "df/d8e/a22656.html#a74af813b84f7787a5b764cfe574c087b", null ]
 ];

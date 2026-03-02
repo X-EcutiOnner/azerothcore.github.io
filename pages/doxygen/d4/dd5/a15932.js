@@ -1,6 +1,8 @@
 var a15932 =
 [
-    [ "npc_clintar_spiritAI", "db/dcb/a15936.html", "db/dcb/a15936" ],
-    [ "npc_clintar_spirit", "d4/dd5/a15932.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
-    [ "GetAI", "d4/dd5/a15932.html#a118198504f6f93c86302275a11582d60", null ]
+    [ "CheckRequirement", "d4/dd5/a15932.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
+    [ "HandleDummy", "d4/dd5/a15932.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
+    [ "PrepareSpellScript", "d4/dd5/a15932.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
+    [ "Register", "d4/dd5/a15932.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
+    [ "Validate", "d4/dd5/a15932.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
 ];

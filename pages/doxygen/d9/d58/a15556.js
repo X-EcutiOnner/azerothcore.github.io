@@ -1,9 +1,19 @@
 var a15556 =
 [
-    [ "npc_eye_tentacle", "d9/d58/a15556.html#a106deeb95d74597377d32e81695dc3c9", null ],
-    [ "JustDied", "d9/d58/a15556.html#aac965d97034f4f623172297e4f82647e", null ],
-    [ "JustEngagedWith", "d9/d58/a15556.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
-    [ "Reset", "d9/d58/a15556.html#a715439dfa31b4cf9df7ddd678d912108", null ],
-    [ "UpdateAI", "d9/d58/a15556.html#a48f9067f27d61e609a014669c1daedb9", null ],
-    [ "_portalGUID", "d9/d58/a15556.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
+    [ "boss_bug_trio", "d9/d58/a15556.html#acfef187b77a745686cb64bec64398dd4", null ],
+    [ "CheckInRoom", "d9/d58/a15556.html#a9b78f1f7beee555460bd24338a25506d", null ],
+    [ "DamageTaken", "d9/d58/a15556.html#a41e1d62badcad8d360983f07b4101f7e", null ],
+    [ "DoAction", "d9/d58/a15556.html#a808939fbc1a9f2bc9e3a6dda5dce02f4", null ],
+    [ "DoFinalSpell", "d9/d58/a15556.html#a46b943e5d5f5b0972b42edc4134c1f98", null ],
+    [ "EnterCombatWithTrio", "d9/d58/a15556.html#af7d3159f505f5f3dd6e273d47fd9bc80", null ],
+    [ "EnterEvadeMode", "d9/d58/a15556.html#ae6809cc35969618ecfaf1767e8c9ae92", null ],
+    [ "EvadeAllBosses", "d9/d58/a15556.html#a09c60b117f2cb194eeb1a2b13b7e5d37", null ],
+    [ "JustDied", "d9/d58/a15556.html#a2d4d6a43de7ce16b6cf5b7603fbacd87", null ],
+    [ "MovementInform", "d9/d58/a15556.html#aa24ae95cbe50f24abef4ab4ac30278b8", null ],
+    [ "Reset", "d9/d58/a15556.html#a8f07a98ed21c3e362bec3c8d3bd5ea09", null ],
+    [ "UpdateAI", "d9/d58/a15556.html#a26896dd5f3f2e0ca6251bd96f8199e10", null ],
+    [ "_creatureDying", "d9/d58/a15556.html#a89dbaf8c1bba75369b978dd366806bb4", null ],
+    [ "_dying", "d9/d58/a15556.html#a4ad80d1c623a86396d180bc6a6f14bb5", null ],
+    [ "_isEating", "d9/d58/a15556.html#a331eb32e0713aee8d5a84ed32c72de12", null ],
+    [ "_scheduler", "d9/d58/a15556.html#a121d3abe2854c5b798ee1eebdaea699f", null ]
 ];

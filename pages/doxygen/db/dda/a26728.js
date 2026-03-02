@@ -1,7 +1,7 @@
 var a26728 =
 [
-    [ "OnProc", "db/dda/a26728.html#a0a85e641521f1e9b7fd074f7edde97ac", null ],
-    [ "PrepareAuraScript", "db/dda/a26728.html#a4ff27309c8848a6155ad28809ace5cba", null ],
-    [ "Register", "db/dda/a26728.html#a20b6a18ce3fac99689b958b384da7836", null ],
-    [ "Validate", "db/dda/a26728.html#ac4275cca4f974a5a131e4dc1be8eed23", null ]
+    [ "CheckProc", "db/dda/a26728.html#ad9511694733ed76ed2e55ffc1005345e", null ],
+    [ "HandleProc", "db/dda/a26728.html#a8021759730e413476d768495e856c544", null ],
+    [ "PrepareAuraScript", "db/dda/a26728.html#a2d226a3b38dbe3da64f3ae9a3c47f9ea", null ],
+    [ "Register", "db/dda/a26728.html#a2d8e2b52076b519e083c71b99b482c32", null ]
 ];

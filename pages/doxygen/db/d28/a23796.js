@@ -1,6 +1,6 @@
 var a23796 =
 [
-    [ "HandleScriptEffect", "db/d28/a23796.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
-    [ "PrepareSpellScript", "db/d28/a23796.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
-    [ "Register", "db/d28/a23796.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
+    [ "HandlePeriodic", "db/d28/a23796.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
+    [ "PrepareAuraScript", "db/d28/a23796.html#a75d72d196ded2ee109d0231d4342890a", null ],
+    [ "Register", "db/d28/a23796.html#a148013ea68bbc573bddc1c3639dba019", null ]
 ];

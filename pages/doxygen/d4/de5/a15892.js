@@ -1,7 +1,8 @@
 var a15892 =
 [
-    [ "HandleDummy", "d4/de5/a15892.html#a38dafff805471b19ca3cca4ff5273a87", null ],
-    [ "PrepareSpellScript", "d4/de5/a15892.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
-    [ "Register", "d4/de5/a15892.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
-    [ "Validate", "d4/de5/a15892.html#abb7946f53e6271ae69d34caacef61f47", null ]
+    [ "npc_aged_dying_ancient_kodo", "d4/de5/a15892.html#a8707efb78e29b5a3443b0f4d9ee1798b", null ],
+    [ "JustRespawned", "d4/de5/a15892.html#ab401f9002bd49b26cc0526112e715d1e", null ],
+    [ "MoveInLineOfSight", "d4/de5/a15892.html#a2bed1b0965414682dec6f6e4b2872d33", null ],
+    [ "OnGossipHello", "d4/de5/a15892.html#a760b1c45119893fc7e792139b2e9d948", null ],
+    [ "SpellHit", "d4/de5/a15892.html#a24a0324d7a6bd4d05da76469b14720ac", null ]
 ];

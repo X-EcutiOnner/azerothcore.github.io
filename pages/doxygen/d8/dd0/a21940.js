@@ -1,8 +1,9 @@
 var a21940 =
 [
-    [ "AfterApply", "d8/dd0/a21940.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
-    [ "AfterRemove", "d8/dd0/a21940.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
-    [ "PrepareAuraScript", "d8/dd0/a21940.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
-    [ "Register", "d8/dd0/a21940.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
-    [ "Validate", "d8/dd0/a21940.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
+    [ "npc_Apothecary_HanesAI", "d8/dd0/a21940.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
+    [ "JustDied", "d8/dd0/a21940.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
+    [ "Reset", "d8/dd0/a21940.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
+    [ "UpdateEscortAI", "d8/dd0/a21940.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
+    [ "WaypointReached", "d8/dd0/a21940.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
+    [ "PotTimer", "d8/dd0/a21940.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
 ];

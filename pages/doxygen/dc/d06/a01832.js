@@ -1,7 +1,5 @@
 var a01832 =
 [
-    [ "WorldPackets::Calendar::GetEvent", "d1/da2/a10700.html", "d1/da2/a10700" ],
-    [ "WorldPackets::Calendar::GuildFilter", "d6/dfb/a10704.html", "d6/dfb/a10704" ],
-    [ "WorldPackets::Calendar::ArenaTeam", "d0/d91/a10708.html", "d0/d91/a10708" ],
-    [ "WorldPackets::Calendar::CalendarComplain", "da/d91/a10712.html", "da/d91/a10712" ]
+    [ "_characterCacheByNameStore", "dc/d06/a01832.html#a409431c82eb6a62b40d55a773cdb02c6", null ],
+    [ "_characterCacheStore", "dc/d06/a01832.html#a2a209686002fed926e50d55f7c7ca795", null ]
 ];

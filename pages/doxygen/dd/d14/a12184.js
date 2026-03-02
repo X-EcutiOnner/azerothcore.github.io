@@ -1,6 +1,5 @@
 var a12184 =
 [
-    [ "CapturedGroups", "dd/d14/a12184.html#a6842947e5fbe26c2c4aadc1209395902", null ],
-    [ "CurrentTemplate", "dd/d14/a12184.html#a6915499b95c29a00cde15c5a7f562158", null ],
-    [ "ZoneName", "dd/d14/a12184.html#a62633be7d11b2937b301e63f6d1e94e2", null ]
+    [ "flag", "dd/d14/a12184.html#a4ea67fc10eedfaa2e5e029e242e1c32f", null ],
+    [ "text", "dd/d14/a12184.html#a492e5e3c2373adba005034514b0a5a1e", null ]
 ];

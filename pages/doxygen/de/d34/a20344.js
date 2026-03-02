@@ -1,7 +1,5 @@
 var a20344 =
 [
-    [ "HandleEffectPeriodic", "de/d34/a20344.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
-    [ "PrepareAuraScript", "de/d34/a20344.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
-    [ "Register", "de/d34/a20344.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
-    [ "Validate", "de/d34/a20344.html#a16c536c913d003826ef4b86c7a497fec", null ]
+    [ "achievement_freya_getting_back_to_nature", "de/d34/a20344.html#aa4078b573a9335fc52c9b9609590b12f", null ],
+    [ "OnCheck", "de/d34/a20344.html#a850a32450379284784f019a5eb5ff0ff", null ]
 ];

@@ -1,6 +1,9 @@
 var a20512 =
 [
-    [ "boss_kologarn_pit_kill_bunny", "da/d6e/a20512.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
-    [ "Reset", "da/d6e/a20512.html#afd7482896b66f040b8d57b9b6ac37059", null ],
-    [ "UpdateAI", "da/d6e/a20512.html#ad863666aec3db81f73165148ffc98033", null ]
+    [ "HandleEffectPeriodic", "da/d6e/a20512.html#adc6e83abb52a21528c07a1d989818dcf", null ],
+    [ "OnApply", "da/d6e/a20512.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
+    [ "OnRemove", "da/d6e/a20512.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
+    [ "PrepareAuraScript", "da/d6e/a20512.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
+    [ "Register", "da/d6e/a20512.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
+    [ "Validate", "da/d6e/a20512.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
 ];

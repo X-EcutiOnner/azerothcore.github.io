@@ -1,9 +1,10 @@
 var a12224 =
 [
-    [ "titles_commandscript", "df/d24/a12224.html#ac088fd907013150a0508b79c99f6c2f3", null ],
-    [ "GetCommands", "df/d24/a12224.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
-    [ "HandleTitlesAddCommand", "df/d24/a12224.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
-    [ "HandleTitlesCurrentCommand", "df/d24/a12224.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
-    [ "HandleTitlesRemoveCommand", "df/d24/a12224.html#a2001bcc2eddc5688d57154f9906218e4", null ],
-    [ "HandleTitlesSetMaskCommand", "df/d24/a12224.html#a9517b10295b856779cdd067234f640c8", null ]
+    [ "quest_commandscript", "df/d24/a12224.html#a98804583ded14bc50d252475289dda4f", null ],
+    [ "GetCommands", "df/d24/a12224.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
+    [ "HandleQuestAdd", "df/d24/a12224.html#acd1410f224a1d69bba1321999ebf25bc", null ],
+    [ "HandleQuestComplete", "df/d24/a12224.html#a044c30fdaedd07060284bd37fd2e226c", null ],
+    [ "HandleQuestRemove", "df/d24/a12224.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
+    [ "HandleQuestReward", "df/d24/a12224.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ],
+    [ "HandleQuestStatus", "df/d24/a12224.html#adbba92d0cf47879e94710c971fd994ff", null ]
 ];

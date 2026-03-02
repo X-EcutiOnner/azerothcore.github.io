@@ -1,6 +1,7 @@
 var a01190 =
 [
-    [ "GenerateEnchSuffixFactor", "dc/d19/a01190.html#a25026e783b088b45eebd4db8295b1b87", null ],
-    [ "GetItemEnchantMod", "dc/d19/a01190.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
-    [ "LoadRandomEnchantmentsTable", "dc/d19/a01190.html#a376fabf7bba54eaf928217f860f1c33b", null ]
+    [ "operator<<", "dc/d19/a01190.html#a71323635f122d24189054da615cb39e1", null ],
+    [ "operator<<", "dc/d19/a01190.html#ab63323f8a9ade40ddd90338538b5c9b5", null ],
+    [ "operator>>", "dc/d19/a01190.html#a72e22c3226b5f361848aef2c75a6d3fb", null ],
+    [ "operator>>", "dc/d19/a01190.html#af223d782e9dcf0f80ed4009360aa0d80", null ]
 ];

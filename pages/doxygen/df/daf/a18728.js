@@ -1,8 +1,7 @@
 var a18728 =
 [
-    [ "ChangeDamageAndGrow", "df/daf/a18728.html#a017ade08eca93f326d2e5115c4d88c33", null ],
-    [ "CorrectRange", "df/daf/a18728.html#a9022b9efab89bc562428520b3551ff37", null ],
-    [ "PrepareSpellScript", "df/daf/a18728.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
-    [ "Register", "df/daf/a18728.html#a998b810cdbecbca2bf65f18cee14d286", null ],
-    [ "Validate", "df/daf/a18728.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
+    [ "CheckTargetCount", "df/daf/a18728.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
+    [ "PrepareSpellScript", "df/daf/a18728.html#abd32198867e7f01b21b7de6224a597d4", null ],
+    [ "Register", "df/daf/a18728.html#a671bede7fbc68085cd6075f412822869", null ],
+    [ "Validate", "df/daf/a18728.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
 ];

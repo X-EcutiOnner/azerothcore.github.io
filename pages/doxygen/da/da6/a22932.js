@@ -1,9 +1,13 @@
 var a22932 =
 [
-    [ "boss_najentus", "da/da6/a22932.html#ac5d3d54a49524892fe844925d483c244", null ],
-    [ "JustDied", "da/da6/a22932.html#afee32dd32033c7a45068ce12e961797c", null ],
-    [ "JustEngagedWith", "da/da6/a22932.html#a46e3aab64c21b24ac6457acd598679ec", null ],
-    [ "KilledUnit", "da/da6/a22932.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
-    [ "Reset", "da/da6/a22932.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
-    [ "_canTalk", "da/da6/a22932.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
+    [ "boss_teron_gorefiend", "da/da6/a22932.html#a81845f22aa383cdc57912ee9655b7bf9", null ],
+    [ "JustDied", "da/da6/a22932.html#aa080c8d17bc51142c1cecadf7a0376a2", null ],
+    [ "JustEngagedWith", "da/da6/a22932.html#a9f658d42cf27a54c62a71e28b5dfadee", null ],
+    [ "JustSummoned", "da/da6/a22932.html#a71db567c5be7396add349e2f1b455a50", null ],
+    [ "KilledUnit", "da/da6/a22932.html#a70dbf2b2a08cf915866afd51f8a74018", null ],
+    [ "Reset", "da/da6/a22932.html#af32df2d958c618dc08d3da40b92bf3aa", null ],
+    [ "SetData", "da/da6/a22932.html#a139c351471a3f19c7e59cf8e40913820", null ],
+    [ "UpdateAI", "da/da6/a22932.html#a0bdd92c94adf066fdbf8ba9bcb1a1ba1", null ],
+    [ "_intro", "da/da6/a22932.html#a99c62157084373e8eddd4497360cc047", null ],
+    [ "_recentlySpoken", "da/da6/a22932.html#adef80b4509a6a72e7021fd3cc11de697", null ]
 ];

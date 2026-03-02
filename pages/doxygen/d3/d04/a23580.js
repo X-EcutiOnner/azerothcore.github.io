@@ -1,7 +1,6 @@
 var a23580 =
 [
-    [ "HandleOnApply", "d3/d04/a23580.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
-    [ "HandleOnRemove", "d3/d04/a23580.html#aed5f87523c58d94c8f98b76c06abb140", null ],
-    [ "PrepareAuraScript", "d3/d04/a23580.html#ab32413873bec92540f9e85e8013b7ea2", null ],
-    [ "Register", "d3/d04/a23580.html#a0653d8688f98822580a3243a0d47c17a", null ]
+    [ "PrepareSpellScript", "d3/d04/a23580.html#a5b17110b189b7134939aea9dbf2d724b", null ],
+    [ "Register", "d3/d04/a23580.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
+    [ "SelectRandomPlayer", "d3/d04/a23580.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
 ];

@@ -1,17 +1,10 @@
 var a09236 =
 [
-    [ "ActionMenuID", "d9/d4b/a09236.html#a486f9af68a02ae52d51772a3421db377", null ],
-    [ "ActionPoiID", "d9/d4b/a09236.html#a9a20a64e29d0464c40f57286b9c1804d", null ],
-    [ "BoxBroadcastTextID", "d9/d4b/a09236.html#a12882942190a9a568b9dc30214ee6a88", null ],
-    [ "BoxCoded", "d9/d4b/a09236.html#a4f7ba04e2d1078909d9587569504f4cd", null ],
-    [ "BoxMoney", "d9/d4b/a09236.html#ab00c368181ccaba98e878d49de6138e2", null ],
-    [ "BoxText", "d9/d4b/a09236.html#ad794b3c4e84dedce43ff2c80d3c38d4a", null ],
-    [ "Conditions", "d9/d4b/a09236.html#aa1632404bbc869b17dab8833f660c52b", null ],
-    [ "MenuID", "d9/d4b/a09236.html#a6e5b1b2c86bd05b81626a7230349be9a", null ],
-    [ "OptionBroadcastTextID", "d9/d4b/a09236.html#af8af4b4c27405908482db73797cd2d49", null ],
-    [ "OptionIcon", "d9/d4b/a09236.html#a0b73f7ce36e7703725e6b0d01c2a4564", null ],
-    [ "OptionID", "d9/d4b/a09236.html#adf2a8d247a88a062a75eb726dd43d019", null ],
-    [ "OptionNpcFlag", "d9/d4b/a09236.html#a6f41e9adfcb11adabdd79b55c1d47bfc", null ],
-    [ "OptionText", "d9/d4b/a09236.html#a2606ac76a4f3607e45676ed3f1df3a83", null ],
-    [ "OptionType", "d9/d4b/a09236.html#af53a42c8d4ec23be46dfdb16abc9c4ff", null ]
+    [ "PetLevelInfo", "d9/d4b/a09236.html#ad8e757abeae500063e963ffef5469809", null ],
+    [ "armor", "d9/d4b/a09236.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
+    [ "health", "d9/d4b/a09236.html#a322dcab3af8f98726aa6addf38e8891b", null ],
+    [ "mana", "d9/d4b/a09236.html#a27352e73d6ed3945e398e0634dee1e96", null ],
+    [ "max_dmg", "d9/d4b/a09236.html#a092f2600f64f2af885142b2e96d1fe64", null ],
+    [ "min_dmg", "d9/d4b/a09236.html#a299d1c7f4c28893e09de79cd816afa95", null ],
+    [ "stats", "d9/d4b/a09236.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
 ];

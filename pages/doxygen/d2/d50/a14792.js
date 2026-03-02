@@ -1,6 +1,5 @@
 var a14792 =
 [
-    [ "HandleScript", "d2/d50/a14792.html#aa60824ed67ae87e96117fc5bf90bec8c", null ],
-    [ "PrepareSpellScript", "d2/d50/a14792.html#aab4303fff660c68db100e07a4423c39b", null ],
-    [ "Register", "d2/d50/a14792.html#a0fbc130652e58d9418cb3c5036b6aed2", null ]
+    [ "npc_cw_area_triggerAI", "d2/d50/a14792.html#aede21e01dfe762922562b6f5d57bc406", null ],
+    [ "MoveInLineOfSight", "d2/d50/a14792.html#a1fb90760dac1ae429429d84ed033aa7a", null ]
 ];

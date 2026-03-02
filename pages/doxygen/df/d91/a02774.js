@@ -1,67 +1,61 @@
 var a02774 =
 [
-    [ "boss_jaraxxus", "d5/d72/a16948.html", "d5/d72/a16948" ],
-    [ "boss_jaraxxus::boss_jaraxxusAI", "db/d58/a16952.html", "db/d58/a16952" ],
-    [ "npc_fel_infernal", "d9/d12/a16956.html", "d9/d12/a16956" ],
-    [ "npc_fel_infernal::npc_fel_infernalAI", "d4/da9/a16960.html", "d4/da9/a16960" ],
-    [ "npc_mistress_of_pain", "db/d3d/a16964.html", "db/d3d/a16964" ],
-    [ "npc_mistress_of_pain::npc_mistress_of_painAI", "d2/d7c/a16968.html", "d2/d7c/a16968" ],
-    [ "spell_toc25_mistress_kiss_aura", "d7/d15/a16972.html", "d7/d15/a16972" ],
-    [ "spell_mistress_kiss_area", "d8/dd7/a16976.html", "d8/dd7/a16976" ],
-    [ "JaraxxusEvents", "df/d91/a02774.html#a8720becd3353ce4c1eaf4b10f65c3bf3", [
-      [ "EVENT_SPELL_FEL_FIREBALL", "df/d91/a02774.html#a8720becd3353ce4c1eaf4b10f65c3bf3a9631463a0db16f2a5c6e611704b43508", null ],
-      [ "EVENT_SPELL_FEL_LIGHTNING", "df/d91/a02774.html#a8720becd3353ce4c1eaf4b10f65c3bf3a1de9015cbd472ec6adbb63af3e399005", null ],
-      [ "EVENT_SPELL_INCINERATE_FLESH", "df/d91/a02774.html#a8720becd3353ce4c1eaf4b10f65c3bf3a8ada8204aa9d3f27ef49a2f4bac31f5a", null ],
-      [ "EVENT_SPELL_NETHER_POWER", "df/d91/a02774.html#a8720becd3353ce4c1eaf4b10f65c3bf3aa506cad881d3afd3b1c93cf7556eec6e", null ],
-      [ "EVENT_SPELL_LEGION_FLAME", "df/d91/a02774.html#a8720becd3353ce4c1eaf4b10f65c3bf3aa8f6608d034390c00d5137bf7a07ef19", null ],
-      [ "EVENT_SPELL_TOUCH_OF_JARAXXUS", "df/d91/a02774.html#a8720becd3353ce4c1eaf4b10f65c3bf3a871855c238290bffaa2d1d4b00ebfcda", null ],
-      [ "EVENT_SUMMON_VOLCANO", "df/d91/a02774.html#a8720becd3353ce4c1eaf4b10f65c3bf3af2b15f4596bd312ee5a6b1f9aa9a65d4", null ],
-      [ "EVENT_SUMMON_NETHER_PORTAL", "df/d91/a02774.html#a8720becd3353ce4c1eaf4b10f65c3bf3a99993495098d5b8e7e662a1cdcc70a74", null ],
-      [ "EVENT_SPELL_FEL_STEAK", "df/d91/a02774.html#a8720becd3353ce4c1eaf4b10f65c3bf3a96a8166a72ca73a40f407cb8383f6a64", null ],
-      [ "EVENT_SPELL_SHIVAN_SLASH", "df/d91/a02774.html#a8720becd3353ce4c1eaf4b10f65c3bf3a0cbc7f252a2f08714d920dfce6eeedd6", null ],
-      [ "EVENT_SPELL_SPINNING_PAIN_SPIKE", "df/d91/a02774.html#a8720becd3353ce4c1eaf4b10f65c3bf3a4f57cac95020fd58e140584590321d3e", null ],
-      [ "EVENT_SPELL_MISTRESS_KISS", "df/d91/a02774.html#a8720becd3353ce4c1eaf4b10f65c3bf3a5438b6e18c099033625132c8ad268b15", null ]
+    [ "AreaTrigger_at_coilfang_waterfall", "d9/d8c/a27988.html", "d9/d8c/a27988" ],
+    [ "AreaTrigger_at_legion_teleporter", "df/dec/a27992.html", "df/dec/a27992" ],
+    [ "AreaTrigger_at_stormwright_shelf", "d7/d3a/a27996.html", "d7/d3a/a27996" ],
+    [ "AreaTrigger_at_scent_larkorwi", "de/d33/a28000.html", "de/d33/a28000" ],
+    [ "AreaTrigger_at_last_rites", "d6/d50/a28004.html", "d6/d50/a28004" ],
+    [ "AreaTrigger_at_nats_landing", "d4/ddb/a28008.html", "d4/ddb/a28008" ],
+    [ "AreaTrigger_at_sentry_point", "dd/d3a/a28012.html", "dd/d3a/a28012" ],
+    [ "AreaTrigger_at_brewfest", "dc/df3/a28016.html", "dc/df3/a28016" ],
+    [ "AreaTrigger_at_area_52_entrance", "de/de4/a28020.html", "de/de4/a28020" ],
+    [ "Area52Entrance", "df/d91/a02774.html#a7ef276a75040392ab3315082a3518c67", [
+      [ "SPELL_A52_NEURALYZER", "df/d91/a02774.html#a7ef276a75040392ab3315082a3518c67afa491a434774607e1e712c2f79ac322a", null ],
+      [ "NPC_SPOTLIGHT", "df/d91/a02774.html#a7ef276a75040392ab3315082a3518c67acded8211c601c5b237d60a58f65b56ac", null ],
+      [ "SUMMON_COOLDOWN", "df/d91/a02774.html#a7ef276a75040392ab3315082a3518c67aa4b7173ec61f2859f8649f0adcbb37d1", null ],
+      [ "AT_AREA_52_SOUTH", "df/d91/a02774.html#a7ef276a75040392ab3315082a3518c67ac9b6a7b98c7a4b2013ccd61f637851f9", null ],
+      [ "AT_AREA_52_NORTH", "df/d91/a02774.html#a7ef276a75040392ab3315082a3518c67a7eb1ed4b6c4f3ef99e5cdd9b1505a09e", null ],
+      [ "AT_AREA_52_WEST", "df/d91/a02774.html#a7ef276a75040392ab3315082a3518c67a69d8c4647a15efe238a70b1f049ff97f", null ],
+      [ "AT_AREA_52_EAST", "df/d91/a02774.html#a7ef276a75040392ab3315082a3518c67a3173f419da9cf80efa68ca3e99c10528", null ]
     ] ],
-    [ "JaraxxusNPCs", "df/d91/a02774.html#afe0d2ebcbbcebeb9d5c667bf982efe32", [
-      [ "NPC_LEGION_FLAME", "df/d91/a02774.html#afe0d2ebcbbcebeb9d5c667bf982efe32a889c8b99e26ee87ba199ebcdf0867b76", null ],
-      [ "NPC_INFERNAL_VOLCANO", "df/d91/a02774.html#afe0d2ebcbbcebeb9d5c667bf982efe32a6395ad405176040b022e963859646d11", null ],
-      [ "NPC_FEL_INFERNAL", "df/d91/a02774.html#afe0d2ebcbbcebeb9d5c667bf982efe32a920f3d374a6bef7034505b5d2c9a4a34", null ],
-      [ "NPC_NETHER_PORTAL", "df/d91/a02774.html#afe0d2ebcbbcebeb9d5c667bf982efe32a1d2be333e5a6ce48a4afea7ccf760e79", null ],
-      [ "NPC_MISTRESS_OF_PAIN", "df/d91/a02774.html#afe0d2ebcbbcebeb9d5c667bf982efe32a1d4846e8c3400fd4728fb92351b215cc", null ]
+    [ "AtLastRites", "df/d91/a02774.html#aedd9d40d0b524b4a5da323938c6f1c99", [
+      [ "QUEST_LAST_RITES", "df/d91/a02774.html#aedd9d40d0b524b4a5da323938c6f1c99af622e93bef1f891f43c910aec65feef2", null ],
+      [ "QUEST_BREAKING_THROUGH", "df/d91/a02774.html#aedd9d40d0b524b4a5da323938c6f1c99a0d528966459def04c2372cb96fb03057", null ]
     ] ],
-    [ "JaraxxusSpells", "df/d91/a02774.html#a0bdea2820b7a1fb8a7c14d71a00e6469", [
-      [ "SPELL_NETHER_POWER", "df/d91/a02774.html#a0bdea2820b7a1fb8a7c14d71a00e6469a72e2c83a4c15fc78afe75ba3cbd9254d", null ],
-      [ "SPELL_INCINERATE_FLESH", "df/d91/a02774.html#a0bdea2820b7a1fb8a7c14d71a00e6469a3befa83e54a8c2e9856f8d918e233b00", null ],
-      [ "SPELL_FEL_FIREBALL", "df/d91/a02774.html#a0bdea2820b7a1fb8a7c14d71a00e6469a99ac159470e5ec6df42c6b4e8d239f19", null ],
-      [ "SPELL_FEL_LIGHTNING", "df/d91/a02774.html#a0bdea2820b7a1fb8a7c14d71a00e6469a8d26c330ee3df2c044c9407a916b040e", null ],
-      [ "SPELL_TOUCH_OF_JARAXXUS", "df/d91/a02774.html#a0bdea2820b7a1fb8a7c14d71a00e6469a195d3408a69cc4e4a0873ca2c73adc3f", null ],
-      [ "SPELL_LEGION_FLAME", "df/d91/a02774.html#a0bdea2820b7a1fb8a7c14d71a00e6469aa406bcc5c080757175ce7795b2348c70", null ],
-      [ "SPELL_LEGION_FLAME_NPC_AURA", "df/d91/a02774.html#a0bdea2820b7a1fb8a7c14d71a00e6469ab16d37ba8890749757bf299d9f850f7f", null ],
-      [ "SPELL_SUMMON_VOLCANO", "df/d91/a02774.html#a0bdea2820b7a1fb8a7c14d71a00e6469a60fe386e24f058eaff5363e9d4e0ac2c", null ],
-      [ "SPELL_SUMMON_NETHER_PORTAL", "df/d91/a02774.html#a0bdea2820b7a1fb8a7c14d71a00e6469ad5a8025e6e8f9cb91f856969245e08a7", null ],
-      [ "SPELL_FEL_STEAK", "df/d91/a02774.html#a0bdea2820b7a1fb8a7c14d71a00e6469a0ec766dcad1678d56fbb0e8285b2c99c", null ],
-      [ "SPELL_FEL_STEAK_MORPH", "df/d91/a02774.html#a0bdea2820b7a1fb8a7c14d71a00e6469a92e2410fcedce59d7c3607044065e91f", null ],
-      [ "SPELL_SHIVAN_SLASH", "df/d91/a02774.html#a0bdea2820b7a1fb8a7c14d71a00e6469ab697c0d560ed6877bb6889bf294065f1", null ],
-      [ "SPELL_SPINNING_PAIN_SPIKE", "df/d91/a02774.html#a0bdea2820b7a1fb8a7c14d71a00e6469a48db06fc7e7ea62bc6f77d3dd91747ec", null ],
-      [ "SPELL_MISTRESS_KISS", "df/d91/a02774.html#a0bdea2820b7a1fb8a7c14d71a00e6469aa9a172d8dc0e7aee435b26174dc2ca8c", null ],
-      [ "SPELL_MISTRESS_KISS_PERIODIC_DUMMY", "df/d91/a02774.html#a0bdea2820b7a1fb8a7c14d71a00e6469aec0a94cc1daae616809034f3a31043b6", null ],
-      [ "SPELL_MISTRESS_KISS_INTERRUPT", "df/d91/a02774.html#a0bdea2820b7a1fb8a7c14d71a00e6469ac803602c1184b2893dfebf51eb171111", null ],
-      [ "SPELL_CHAINS", "df/d91/a02774.html#a0bdea2820b7a1fb8a7c14d71a00e6469a66970a259c6d1ebdea3185981f3097e6", null ],
-      [ "SPELL_BERSERK", "df/d91/a02774.html#a0bdea2820b7a1fb8a7c14d71a00e6469ad7b3e50b45f9949cd0e4030ca19a6b4f", null ]
+    [ "Brewfest", "df/d91/a02774.html#a9b234b18092b711f6f11cda755fe0bfd", [
+      [ "NPC_TAPPER_SWINDLEKEG", "df/d91/a02774.html#a9b234b18092b711f6f11cda755fe0bfda91dfef2ce070232ed51a69d9c6399130", null ],
+      [ "NPC_IPFELKOFER_IRONKEG", "df/d91/a02774.html#a9b234b18092b711f6f11cda755fe0bfda39440d09522df095e726cb1da7ab817e", null ],
+      [ "AT_BREWFEST_DUROTAR", "df/d91/a02774.html#a9b234b18092b711f6f11cda755fe0bfda6dbf4e730fdb44d7ceb232e60cee3091", null ],
+      [ "AT_BREWFEST_DUN_MOROGH", "df/d91/a02774.html#a9b234b18092b711f6f11cda755fe0bfda91d9e35e7360f1d853d2f54f54548c61", null ],
+      [ "SAY_WELCOME", "df/d91/a02774.html#a9b234b18092b711f6f11cda755fe0bfda53e43b5d6a57facfdbe1b6559295a32f", null ],
+      [ "AREATRIGGER_TALK_COOLDOWN", "df/d91/a02774.html#a9b234b18092b711f6f11cda755fe0bfda7105e5d2474e31860a9bc9f5075c31e4", null ]
     ] ],
-    [ "JaraxxusTexts", "df/d91/a02774.html#a0de5ed4733cf2c29f4248c9eddb9360e", [
-      [ "SAY_INTRO", "df/d91/a02774.html#a0de5ed4733cf2c29f4248c9eddb9360eaf5bc3db04213b3bf118af6ce85b5a637", null ],
-      [ "SAY_AGGRO", "df/d91/a02774.html#a0de5ed4733cf2c29f4248c9eddb9360ea47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "EMOTE_LEGION_FLAME", "df/d91/a02774.html#a0de5ed4733cf2c29f4248c9eddb9360ea7217192e0677e014f01747f589e4510f", null ],
-      [ "EMOTE_NETHER_PORTAL", "df/d91/a02774.html#a0de5ed4733cf2c29f4248c9eddb9360ea53129d482821d39ef2e9ec6bc49be994", null ],
-      [ "SAY_MISTRESS_OF_PAIN", "df/d91/a02774.html#a0de5ed4733cf2c29f4248c9eddb9360ea36d8706f7d591eeae67e5ab22e97ef2e", null ],
-      [ "EMOTE_INCINERATE", "df/d91/a02774.html#a0de5ed4733cf2c29f4248c9eddb9360eaadb464bdc16c06288cb11d9fbd32232f", null ],
-      [ "SAY_INCINERATE", "df/d91/a02774.html#a0de5ed4733cf2c29f4248c9eddb9360ea5cdb0d02f284b7b5291ce74280295247", null ],
-      [ "EMOTE_INFERNAL_ERUPTION", "df/d91/a02774.html#a0de5ed4733cf2c29f4248c9eddb9360eabd232b7f412e11fae257acd4044638db", null ],
-      [ "SAY_INFERNAL_ERUPTION", "df/d91/a02774.html#a0de5ed4733cf2c29f4248c9eddb9360ea6497a890096599c52269313b8a8605b7", null ],
-      [ "SAY_KILL_PLAYER", "df/d91/a02774.html#a0de5ed4733cf2c29f4248c9eddb9360ead8ce3f4de5ecaa5762ee8b55570503a4", null ],
-      [ "SAY_DEATH", "df/d91/a02774.html#a0de5ed4733cf2c29f4248c9eddb9360ea04c962d9b6aaafde54ff92a54369135e", null ],
-      [ "SAY_BERSERK", "df/d91/a02774.html#a0de5ed4733cf2c29f4248c9eddb9360eada55f761193c5ce51964480004c8462b", null ]
+    [ "CoilfangGOs", "df/d91/a02774.html#a9670aee8aef02c60b84d4c3d11c963b5", [
+      [ "GO_COILFANG_WATERFALL", "df/d91/a02774.html#a9670aee8aef02c60b84d4c3d11c963b5a30520dfb9388b8cc7b4cbc9b3420d65d", null ]
     ] ],
-    [ "AddSC_boss_jaraxxus", "df/d91/a02774.html#ae05057811020071be5480076d0ffe62b", null ]
+    [ "LegionTeleporter", "df/d91/a02774.html#ad9a6ea877cb24dbb530ccf0e03cb7012", [
+      [ "SPELL_TELE_A_TO", "df/d91/a02774.html#ad9a6ea877cb24dbb530ccf0e03cb7012a09569d3491e5bf73c2d9e897077cd162", null ],
+      [ "QUEST_GAINING_ACCESS_A", "df/d91/a02774.html#ad9a6ea877cb24dbb530ccf0e03cb7012a1746dcba888866f4914d5fa112323879", null ],
+      [ "SPELL_TELE_H_TO", "df/d91/a02774.html#ad9a6ea877cb24dbb530ccf0e03cb7012a0373689ced7bf6fcd5453719eff7dff9", null ],
+      [ "QUEST_GAINING_ACCESS_H", "df/d91/a02774.html#ad9a6ea877cb24dbb530ccf0e03cb7012a90bff047b5c92fa8418685d95440c5ea", null ]
+    ] ],
+    [ "NatsLanding", "df/d91/a02774.html#a5ee4c50b08414290f73ada43c1c71151", [
+      [ "QUEST_NATS_BARGAIN", "df/d91/a02774.html#a5ee4c50b08414290f73ada43c1c71151aeff02bfb540090dbb759b896b3b3627e", null ],
+      [ "SPELL_FISH_PASTE", "df/d91/a02774.html#a5ee4c50b08414290f73ada43c1c71151a84c85ea415f324f0acec6a0e8d8eb8a6", null ],
+      [ "NPC_LURKING_SHARK", "df/d91/a02774.html#a5ee4c50b08414290f73ada43c1c71151af67d7adb069812fe8e3d79aff3f18900", null ]
+    ] ],
+    [ "ScentLarkorwi", "df/d91/a02774.html#a743ca0b810fe5b376233e725f346d416", [
+      [ "QUEST_SCENT_OF_LARKORWI", "df/d91/a02774.html#a743ca0b810fe5b376233e725f346d416a105afbe1f1e3510efdd8ef9fbfe153ee", null ],
+      [ "NPC_LARKORWI_MATE", "df/d91/a02774.html#a743ca0b810fe5b376233e725f346d416adb746f23675f0b248d264a0557ceff5d", null ]
+    ] ],
+    [ "SentryPoint", "df/d91/a02774.html#a24ef89c28423d02750eff95a35b3a275", [
+      [ "SPELL_TELEPORT_VISUAL", "df/d91/a02774.html#a24ef89c28423d02750eff95a35b3a275a73cc106ecf58fcd3a75fa23f9ff7a21c", null ],
+      [ "QUEST_MISSING_DIPLO_PT14", "df/d91/a02774.html#a24ef89c28423d02750eff95a35b3a275a378a874d36260f01327d51d537b33d94", null ],
+      [ "NPC_TERVOSH", "df/d91/a02774.html#a24ef89c28423d02750eff95a35b3a275a0ef56679b82214bad2e052fb8e979c50", null ]
+    ] ],
+    [ "StormwrightShelf", "df/d91/a02774.html#abdd676bd524ed3ea6915b8b1348861dd", [
+      [ "QUEST_STRENGTH_OF_THE_TEMPEST", "df/d91/a02774.html#abdd676bd524ed3ea6915b8b1348861ddae6b91cb73e581fe9558469357a90ec24", null ],
+      [ "SPELL_CREATE_TRUE_POWER_OF_THE_TEMPEST", "df/d91/a02774.html#abdd676bd524ed3ea6915b8b1348861dda55079b9b218f67c0dcae1b7da0dcb277", null ]
+    ] ],
+    [ "AddSC_areatrigger_scripts", "df/d91/a02774.html#a992f2da647f1f8748c7c9239b52079ad", null ]
 ];

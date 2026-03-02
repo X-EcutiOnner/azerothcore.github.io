@@ -1,7 +1,6 @@
 var a18492 =
 [
-    [ "OnRemove", "d6/d50/a18492.html#aa096174465120bde1994c85f72682be1", null ],
-    [ "PrepareAuraScript", "d6/d50/a18492.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
-    [ "Register", "d6/d50/a18492.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
-    [ "Validate", "d6/d50/a18492.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
+    [ "boss_sindragosaAI", "d9/df8/a18496.html", "d9/df8/a18496" ],
+    [ "boss_sindragosa", "d6/d50/a18492.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
+    [ "GetAI", "d6/d50/a18492.html#a005a6da9f4f9690416a108872b3c2b36", null ]
 ];

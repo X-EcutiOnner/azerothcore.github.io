@@ -1,10 +1,10 @@
 var a08288 =
 [
-    [ "FormationMgr", "d1/db3/a08288.html#ade1aa22473c112aed65d537929b07908", null ],
-    [ "~FormationMgr", "d1/db3/a08288.html#a8f3ee00e25ebacfb71b71b9e7d63f6e0", null ],
-    [ "AddCreatureToGroup", "d1/db3/a08288.html#aef758bdbc8f93c8981aedd51d7e10a07", null ],
-    [ "instance", "d1/db3/a08288.html#a871fec234a94e4adae07315a008acec3", null ],
-    [ "LoadCreatureFormations", "d1/db3/a08288.html#af0ecde62fc5c4a3a2b3be16c58f51fde", null ],
-    [ "RemoveCreatureFromGroup", "d1/db3/a08288.html#a6ecac2b9dcdc8db2cd7a0bd1be0fd364", null ],
-    [ "CreatureGroupMap", "d1/db3/a08288.html#ac11a3dfbe6a4f7df01d966f14b0aecd9", null ]
+    [ "auras", "d1/db3/a08288.html#a20695ff7997e1ebd6fe898a8b41aeddb", null ],
+    [ "bytes1", "d1/db3/a08288.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9", null ],
+    [ "bytes2", "d1/db3/a08288.html#aedf06568867bbb5db5ca8017727dab9d", null ],
+    [ "emote", "d1/db3/a08288.html#a82f7be10807af7b25dd41c643be066fc", null ],
+    [ "mount", "d1/db3/a08288.html#a4d84276a45de1b62e507ac5c763dce3a", null ],
+    [ "path_id", "d1/db3/a08288.html#aa86bac734e0e652b6bb4ea273cf62571", null ],
+    [ "visibilityDistanceType", "d1/db3/a08288.html#ad3ae39b8c5be151e15ab6f1494943bc3", null ]
 ];

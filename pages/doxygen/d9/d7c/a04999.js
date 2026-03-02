@@ -1,8 +1,9 @@
 var a04999 =
 [
-    [ "IMMapMgr", "d9/d7c/a04999.html#a2292f2bdacfc627ab33f02d399221ad5", null ],
-    [ "~IMMapMgr", "d9/d7c/a04999.html#a8298d6b3fbce5ccd835af3c287c361b6", null ],
-    [ "isEnablePathFinding", "d9/d7c/a04999.html#a5d6bcb413c39e82da8e4924c4754c8b0", null ],
-    [ "setEnablePathFinding", "d9/d7c/a04999.html#afdc7e829a374c20b4d072290363c7c62", null ],
-    [ "iEnablePathFinding", "d9/d7c/a04999.html#a25f8900f4546990562fb048e956bb1e0", null ]
+    [ "PermissibleOrderPred", "d3/d98/a06404.html", "d3/d98/a06404" ],
+    [ "GetPermitFor", "d9/d7c/a04999.html#aaf9c138ae6c123d03859db553a39892d", null ],
+    [ "SelectAI", "d9/d7c/a04999.html#a10fef1ff3335f4642179ee423b1ff0d6", null ],
+    [ "SelectFactory", "d9/d7c/a04999.html#ad553c2186f078e696768d40d217738f8", null ],
+    [ "SelectGameObjectAI", "d9/d7c/a04999.html#a2ce404e9b85f551638d8783c01a19860", null ],
+    [ "SelectMovementGenerator", "d9/d7c/a04999.html#a203d17bf72c42c0d3fdb77626b01b679", null ]
 ];

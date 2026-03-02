@@ -1,6 +1,6 @@
 var a17280 =
 [
-    [ "npc_ghostly_priestAI", "df/dda/a17284.html", "df/dda/a17284" ],
-    [ "npc_ghostly_priest", "d7/dcd/a17280.html#a7c03bb327cfc65f4df515969da482ddb", null ],
-    [ "GetAI", "d7/dcd/a17280.html#a0fab76345c5459efcedff02123e4fc8d", null ]
+    [ "instance_forge_of_souls_InstanceScript", "df/dda/a17284.html", "df/dda/a17284" ],
+    [ "instance_forge_of_souls", "d7/dcd/a17280.html#a504896f6e191c87ce77231c4ef267b27", null ],
+    [ "GetInstanceScript", "d7/dcd/a17280.html#a64982b527cfa6057315b8e628549480b", null ]
 ];

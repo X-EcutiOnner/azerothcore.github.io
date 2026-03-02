@@ -1,6 +1,10 @@
 var a16740 =
 [
-    [ "instance_trial_of_the_champion_InstanceMapScript", "d6/dc4/a16744.html", "d6/dc4/a16744" ],
-    [ "instance_trial_of_the_champion", "dd/dca/a16740.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
-    [ "GetInstanceScript", "dd/dca/a16740.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
+    [ "npc_black_knight_ghoulAI", "dd/dca/a16740.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
+    [ "JustEngagedWith", "dd/dca/a16740.html#a8353dea0de91017223c7624a5a96ebec", null ],
+    [ "Reset", "dd/dca/a16740.html#a8a33efa0719063a9565bc07143f8ad83", null ],
+    [ "SpellHit", "dd/dca/a16740.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
+    [ "UpdateAI", "dd/dca/a16740.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
+    [ "events", "dd/dca/a16740.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
+    [ "pInstance", "dd/dca/a16740.html#a35b8375f1b3407f5cee653ee118e0697", null ]
 ];

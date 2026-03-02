@@ -1,6 +1,4 @@
 var a23716 =
 [
-    [ "OnApply", "dc/d52/a23716.html#a472220f22165c6d21eab5f4b5f75921e", null ],
-    [ "PrepareAuraScript", "dc/d52/a23716.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
-    [ "Register", "dc/d52/a23716.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
+    [ "instance_the_botanica_InstanceMapScript", "dc/d52/a23716.html#a86c5e55fe8f7e40d041abbcdb2d23797", null ]
 ];

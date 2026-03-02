@@ -1,13 +1,8 @@
 var a21080 =
 [
-    [ "npc_ferocious_rhinoAI", "d6/dd0/a21080.html#ad70d0aeba4b73330c5087bc84a533389", null ],
-    [ "DoAction", "d6/dd0/a21080.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
-    [ "JustDied", "d6/dd0/a21080.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
-    [ "JustEngagedWith", "d6/dd0/a21080.html#aab35078fe4518b6647f98e316d02898a", null ],
-    [ "JustReachedHome", "d6/dd0/a21080.html#ab8105d6c8c70037c208c83c13c35242d", null ],
-    [ "MoveInLineOfSight", "d6/dd0/a21080.html#a97e32d32a692f223b96746f3ef1086c5", null ],
-    [ "Reset", "d6/dd0/a21080.html#a6d317407c2de2f954b5dd2a6db137304", null ],
-    [ "UpdateAI", "d6/dd0/a21080.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
-    [ "events", "d6/dd0/a21080.html#af23061de7d8566c7435c2c64c53dff89", null ],
-    [ "m_pInstance", "d6/dd0/a21080.html#a97e00db40792c559dd06327c9960abe4", null ]
+    [ "CheckProc", "d6/dd0/a21080.html#a93a45a442c2527468a5bfd4136bb53a0", null ],
+    [ "HandleProc", "d6/dd0/a21080.html#a8641ddd1b6722a30b167d170adb47fd8", null ],
+    [ "PrepareAuraScript", "d6/dd0/a21080.html#a55ce8f27fa326da9b68db7f4cd4bc334", null ],
+    [ "Register", "d6/dd0/a21080.html#a04df3b39b6a80592b6b2afe76e85a1e0", null ],
+    [ "Validate", "d6/dd0/a21080.html#ad4176f188412053b9205820fb6183d38", null ]
 ];

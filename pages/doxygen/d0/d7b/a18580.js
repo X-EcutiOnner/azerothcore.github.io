@@ -1,6 +1,6 @@
 var a18580 =
 [
-    [ "HandleScript", "d0/d7b/a18580.html#a038a827f7fe179ff56ab581efdf08790", null ],
-    [ "PrepareSpellScript", "d0/d7b/a18580.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
-    [ "Register", "d0/d7b/a18580.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
+    [ "npc_rimefangAI", "d8/d28/a18584.html", "d8/d28/a18584" ],
+    [ "npc_rimefang", "d0/d7b/a18580.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
+    [ "GetAI", "d0/d7b/a18580.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
 ];

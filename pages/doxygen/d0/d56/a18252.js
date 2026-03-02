@@ -1,6 +1,7 @@
 var a18252 =
 [
-    [ "AbominationDespawner", "d0/d56/a18252.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
-    [ "operator()", "d0/d56/a18252.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
-    [ "_owner", "d0/d56/a18252.html#af9089e566905b885887a5714ad5b0741", null ]
+    [ "npc_coldflameAI", "d0/d56/a18252.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
+    [ "IsSummonedBy", "d0/d56/a18252.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
+    [ "UpdateAI", "d0/d56/a18252.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
+    [ "events", "d0/d56/a18252.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
 ];

@@ -1,5 +1,5 @@
 var a27932 =
 [
-    [ "achievement_flirt_with_disaster_perf_check", "da/de0/a27932.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
-    [ "OnCheck", "da/de0/a27932.html#a15e620be2f37f930477ba94293dbaf63", null ]
+    [ "achievement_bg_sa_artillery", "da/de0/a27932.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
+    [ "OnCheck", "da/de0/a27932.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
 ];

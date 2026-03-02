@@ -1,5 +1,4 @@
 var a11400 =
 [
-    [ "AccountInfoQueryHolderPerRealm", "dc/d43/a11400.html#a9d821669804cd04cf121e141d94ead36", null ],
-    [ "Initialize", "dc/d43/a11400.html#a9d4e4de9a038697f61e6350f5f59713b", null ]
+    [ "ServerOpcodeHandler", "d7/de6/a04956.html#ga15d54f5e037e138c90bd0c9bf9628ac9", null ]
 ];

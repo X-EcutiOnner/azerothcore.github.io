@@ -1,4 +1,4 @@
 var a01025 =
 [
-    [ "GroupReference", "d7/d5a/a09736.html", "d7/d5a/a09736" ]
+    [ "ScriptRegistry< PlayerScript >", "db/d23/a01025.html#a9c8e85c6181ce386db051bb0a0e6a533", null ]
 ];

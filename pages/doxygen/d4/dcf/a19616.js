@@ -1,6 +1,6 @@
 var a19616 =
 [
-    [ "npc_teslaAI", "d0/dbf/a19620.html", "d0/dbf/a19620" ],
-    [ "npc_tesla", "d4/dcf/a19616.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
-    [ "GetAI", "d4/dcf/a19616.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
+    [ "FilterTargets", "d4/dcf/a19616.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
+    [ "PrepareSpellScript", "d4/dcf/a19616.html#a452937a4e95b40366f915213ec475a84", null ],
+    [ "Register", "d4/dcf/a19616.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
 ];

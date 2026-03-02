@@ -1,7 +1,7 @@
 var a27400 =
 [
-    [ "HandleProc", "de/d92/a27400.html#a3878044c77e9560bcc7d531d5c119e0f", null ],
-    [ "PrepareAuraScript", "de/d92/a27400.html#a3a496539a6adddca91724d9cc77f81c3", null ],
-    [ "Register", "de/d92/a27400.html#a096f4ecd857cc642ff1d1e5119933921", null ],
-    [ "Validate", "de/d92/a27400.html#a1592084736ebe5b10a343aee4dba8050", null ]
+    [ "HandleDummy", "de/d92/a27400.html#a96c5064738653ce16f06634196218a88", null ],
+    [ "PrepareSpellScript", "de/d92/a27400.html#a2fa51a29d2c8ce74c8a4351712ccdeb9", null ],
+    [ "Register", "de/d92/a27400.html#a080969e035143ac8527443025dbacef2", null ],
+    [ "Validate", "de/d92/a27400.html#a66fd30d7cffdc7307b4c9dc821ccdf92", null ]
 ];

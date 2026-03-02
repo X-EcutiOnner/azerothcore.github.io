@@ -1,7 +1,6 @@
 var a21692 =
 [
-    [ "CheckRequirement", "d5/d25/a21692.html#a41beb2c890137328734d6adb14e08302", null ],
-    [ "PrepareSpellScript", "d5/d25/a21692.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
-    [ "Register", "d5/d25/a21692.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
-    [ "SetDest", "d5/d25/a21692.html#a431a556ab73f91ed63f5983e537834a5", null ]
+    [ "npc_mindless_ghoulAI", "d9/d2f/a21696.html", "d9/d2f/a21696" ],
+    [ "npc_mindless_ghoul", "d5/d25/a21692.html#ac5bf71e719c0df04687f426a022fd65e", null ],
+    [ "GetAI", "d5/d25/a21692.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
 ];

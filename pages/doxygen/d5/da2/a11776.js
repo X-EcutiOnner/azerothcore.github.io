@@ -1,6 +1,6 @@
 var a11776 =
 [
-    [ "AfterCheckProcHandler", "d5/da2/a11776.html#ac0a14950e90d064ffd7adc224b25f9d8", null ],
-    [ "Call", "d5/da2/a11776.html#ab2da0d87413dd7317eeaf73df17f1aaf", null ],
-    [ "_HandlerScript", "d5/da2/a11776.html#af5a393efc729e8588c0fc425fdfead99", null ]
+    [ "EffectCalcPeriodicHandler", "d5/da2/a11776.html#a17288ee3b2951f1f2a8dc36a598b9a27", null ],
+    [ "Call", "d5/da2/a11776.html#a6a7eeb9599a10aa4ab918a2c2456a186", null ],
+    [ "pEffectHandlerScript", "d5/da2/a11776.html#a57673f457c08edfbf7fc1877aa071721", null ]
 ];

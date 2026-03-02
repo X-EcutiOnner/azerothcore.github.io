@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: MMAP::Config::TileOverride Struct Reference</title>
+<title>AzerothCore: DBCFile::Exception Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,86 +105,234 @@ $(document).ready(function(){initNavTree('df/db1/a29880.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../db/d86/a29877.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">MMAP::Config::TileOverride Struct Reference</div></div>
+  <div class="headertitle"><div class="title">DBCFile::Exception Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><code>#include &quot;<a class="el" href="../../">dbcfile.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for DBCFile::Exception:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../df/db1/a29880.png" usemap="#DBCFile::Exception_map" alt=""/>
+  <map id="DBCFile::Exception_map" name="DBCFile::Exception_map">
+<area href="../../de/dc4/a29884.html" alt="DBCFile::NotFound" shape="rect" coords="0,56,120,80"/>
+<area href="../../de/dc4/a29884.html" alt="DBCFile::NotFound" shape="rect" coords="130,56,250,80"/>
+  </map>
+</div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a9b880e84fa1d07e414e9a9a62a20969c"><td class="memItemLeft" align="right" valign="top">std::optional&lt; float &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/db1/a29880.html#a9b880e84fa1d07e414e9a9a62a20969c">walkableSlopeAngle</a></td></tr>
-<tr class="separator:a9b880e84fa1d07e414e9a9a62a20969c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6e708a591e7b5597e129a653e1379a1e"><td class="memItemLeft" align="right" valign="top">std::optional&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/db1/a29880.html#a6e708a591e7b5597e129a653e1379a1e">walkableRadius</a></td></tr>
-<tr class="separator:a6e708a591e7b5597e129a653e1379a1e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a32f39a07562c47be0a311d7959678044"><td class="memItemLeft" align="right" valign="top">std::optional&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/db1/a29880.html#a32f39a07562c47be0a311d7959678044">walkableHeight</a></td></tr>
-<tr class="separator:a32f39a07562c47be0a311d7959678044"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af8d2e9bccb8f6bbb36065e686ea39626"><td class="memItemLeft" align="right" valign="top">std::optional&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/db1/a29880.html#af8d2e9bccb8f6bbb36065e686ea39626">walkableClimb</a></td></tr>
-<tr class="separator:af8d2e9bccb8f6bbb36065e686ea39626"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a414c3d1a58dc27f84f70db7372c71394"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/db1/a29880.html#a414c3d1a58dc27f84f70db7372c71394">Exception</a> (std::string <a class="el" href="../../df/db1/a29880.html#aeb732542a0ba63cde3d9b3bff93f4eda">message</a>)</td></tr>
+<tr class="separator:a414c3d1a58dc27f84f70db7372c71394"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1af5fa940a44522664bf8032b0ec164a"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/db1/a29880.html#a1af5fa940a44522664bf8032b0ec164a">~Exception</a> ()=default</td></tr>
+<tr class="separator:a1af5fa940a44522664bf8032b0ec164a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af9bfdfbfe28783d5ad6f7b08cb845c75"><td class="memItemLeft" align="right" valign="top">const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/db1/a29880.html#af9bfdfbfe28783d5ad6f7b08cb845c75">getMessage</a> ()</td></tr>
+<tr class="separator:af9bfdfbfe28783d5ad6f7b08cb845c75"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a414c3d1a58dc27f84f70db7372c71394"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/db1/a29880.html#a414c3d1a58dc27f84f70db7372c71394">Exception</a> (std::string <a class="el" href="../../df/db1/a29880.html#aeb732542a0ba63cde3d9b3bff93f4eda">message</a>)</td></tr>
+<tr class="separator:a414c3d1a58dc27f84f70db7372c71394"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1af5fa940a44522664bf8032b0ec164a"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/db1/a29880.html#a1af5fa940a44522664bf8032b0ec164a">~Exception</a> ()=default</td></tr>
+<tr class="separator:a1af5fa940a44522664bf8032b0ec164a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af9bfdfbfe28783d5ad6f7b08cb845c75"><td class="memItemLeft" align="right" valign="top">const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/db1/a29880.html#af9bfdfbfe28783d5ad6f7b08cb845c75">getMessage</a> ()</td></tr>
+<tr class="separator:af9bfdfbfe28783d5ad6f7b08cb845c75"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:aeb732542a0ba63cde3d9b3bff93f4eda"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/db1/a29880.html#aeb732542a0ba63cde3d9b3bff93f4eda">message</a></td></tr>
+<tr class="separator:aeb732542a0ba63cde3d9b3bff93f4eda"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="af8d2e9bccb8f6bbb36065e686ea39626" name="af8d2e9bccb8f6bbb36065e686ea39626"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af8d2e9bccb8f6bbb36065e686ea39626">&#9670;&#160;</a></span>walkableClimb</h2>
+<div class="textblock"><dl class="todo"><dt><b><a class="el" href="../../d2/ddb/a04952.html#_todo000256">Todo:</a></b></dt><dd>: Add a close function? </dd></dl>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a414c3d1a58dc27f84f70db7372c71394" name="a414c3d1a58dc27f84f70db7372c71394"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a414c3d1a58dc27f84f70db7372c71394">&#9670;&#160;</a></span>Exception() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::optional&lt;int&gt; MMAP::Config::TileOverride::walkableClimb</td>
+          <td class="memname">DBCFile::Exception::Exception </td>
+          <td>(</td>
+          <td class="paramtype">std::string&#160;</td>
+          <td class="paramname"><em>message</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00075">MMAP::Config::GetConfigForTile()</a>, and <a class="el" href="../../#l00158">MMAP::Config::LoadConfig()</a>.</p>
-
+<div class="fragment"><div class="line"><span class="lineno">   37</span>                                     : <a class="code hl_variable" href="../../df/db1/a29880.html#aeb732542a0ba63cde3d9b3bff93f4eda">message</a>(std::move(<a class="code hl_variable" href="../../df/db1/a29880.html#aeb732542a0ba63cde3d9b3bff93f4eda">message</a>))</div>
+<div class="line"><span class="lineno">   38</span>        { }</div>
+<div class="ttc" id="aa29880_html_aeb732542a0ba63cde3d9b3bff93f4eda"><div class="ttname"><a href="../../df/db1/a29880.html#aeb732542a0ba63cde3d9b3bff93f4eda">DBCFile::Exception::message</a></div><div class="ttdeci">std::string message</div><div class="ttdef"><b>Definition:</b> dbcfile.h:42</div></div>
+</div><!-- fragment -->
 </div>
 </div>
-<a id="a32f39a07562c47be0a311d7959678044" name="a32f39a07562c47be0a311d7959678044"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a32f39a07562c47be0a311d7959678044">&#9670;&#160;</a></span>walkableHeight</h2>
+<a id="a1af5fa940a44522664bf8032b0ec164a" name="a1af5fa940a44522664bf8032b0ec164a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1af5fa940a44522664bf8032b0ec164a">&#9670;&#160;</a></span>~Exception() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::optional&lt;int&gt; MMAP::Config::TileOverride::walkableHeight</td>
+          <td class="memname">virtual DBCFile::Exception::~Exception </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00075">MMAP::Config::GetConfigForTile()</a>, and <a class="el" href="../../#l00158">MMAP::Config::LoadConfig()</a>.</p>
-
 </div>
 </div>
-<a id="a6e708a591e7b5597e129a653e1379a1e" name="a6e708a591e7b5597e129a653e1379a1e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6e708a591e7b5597e129a653e1379a1e">&#9670;&#160;</a></span>walkableRadius</h2>
+<a id="a414c3d1a58dc27f84f70db7372c71394" name="a414c3d1a58dc27f84f70db7372c71394"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a414c3d1a58dc27f84f70db7372c71394">&#9670;&#160;</a></span>Exception() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::optional&lt;int&gt; MMAP::Config::TileOverride::walkableRadius</td>
+          <td class="memname">DBCFile::Exception::Exception </td>
+          <td>(</td>
+          <td class="paramtype">std::string&#160;</td>
+          <td class="paramname"><em>message</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00075">MMAP::Config::GetConfigForTile()</a>, and <a class="el" href="../../#l00158">MMAP::Config::LoadConfig()</a>.</p>
-
+<div class="fragment"><div class="line"><span class="lineno">   39</span>                                     : <a class="code hl_variable" href="../../df/db1/a29880.html#aeb732542a0ba63cde3d9b3bff93f4eda">message</a>(std::move(<a class="code hl_variable" href="../../df/db1/a29880.html#aeb732542a0ba63cde3d9b3bff93f4eda">message</a>))</div>
+<div class="line"><span class="lineno">   40</span>        { }</div>
+</div><!-- fragment -->
 </div>
 </div>
-<a id="a9b880e84fa1d07e414e9a9a62a20969c" name="a9b880e84fa1d07e414e9a9a62a20969c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9b880e84fa1d07e414e9a9a62a20969c">&#9670;&#160;</a></span>walkableSlopeAngle</h2>
+<a id="a1af5fa940a44522664bf8032b0ec164a" name="a1af5fa940a44522664bf8032b0ec164a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1af5fa940a44522664bf8032b0ec164a">&#9670;&#160;</a></span>~Exception() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::optional&lt;float&gt; MMAP::Config::TileOverride::walkableSlopeAngle</td>
+          <td class="memname">virtual DBCFile::Exception::~Exception </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00075">MMAP::Config::GetConfigForTile()</a>, and <a class="el" href="../../#l00158">MMAP::Config::LoadConfig()</a>.</p>
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="af9bfdfbfe28783d5ad6f7b08cb845c75" name="af9bfdfbfe28783d5ad6f7b08cb845c75"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af9bfdfbfe28783d5ad6f7b08cb845c75">&#9670;&#160;</a></span>getMessage() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const std::string &amp; DBCFile::Exception::getMessage </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   40</span>{<span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/db1/a29880.html#aeb732542a0ba63cde3d9b3bff93f4eda">message</a>;}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00042">message</a>.</p>
+
+</div>
+</div>
+<a id="af9bfdfbfe28783d5ad6f7b08cb845c75" name="af9bfdfbfe28783d5ad6f7b08cb845c75"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af9bfdfbfe28783d5ad6f7b08cb845c75">&#9670;&#160;</a></span>getMessage() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const std::string &amp; DBCFile::Exception::getMessage </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   42</span>{<span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/db1/a29880.html#aeb732542a0ba63cde3d9b3bff93f4eda">message</a>;}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00042">message</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="aeb732542a0ba63cde3d9b3bff93f4eda" name="aeb732542a0ba63cde3d9b3bff93f4eda"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeb732542a0ba63cde3d9b3bff93f4eda">&#9670;&#160;</a></span>message</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string DBCFile::Exception::message</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00040">getMessage()</a>.</p>
 
 </div>
 </div>
@@ -193,8 +341,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d5/d41/a04946.html">MMAP</a></li><li class="navelem"><a class="el" href="../../da/d8c/a29876.html">Config</a></li><li class="navelem"><a class="el" href="../../df/db1/a29880.html">TileOverride</a></li>
-    <li class="footer">Generated on Mon Feb 23 2026 21:16:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../da/d8c/a29876.html">DBCFile</a></li><li class="navelem"><a class="el" href="../../df/db1/a29880.html">Exception</a></li>
+    <li class="footer">Generated on Mon Mar 2 2026 21:05:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

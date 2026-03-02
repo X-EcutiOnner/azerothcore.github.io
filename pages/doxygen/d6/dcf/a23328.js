@@ -1,6 +1,5 @@
 var a23328 =
 [
-    [ "HandlePeriodic", "d6/dcf/a23328.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
-    [ "PrepareAuraScript", "d6/dcf/a23328.html#a75515896f3d94d227963a3c5258e2d0d", null ],
-    [ "Register", "d6/dcf/a23328.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
+    [ "go_main_chambers_access_panel", "d6/dcf/a23328.html#a30c3c20be1892b5107ef53683d593b75", null ],
+    [ "OnGossipHello", "d6/dcf/a23328.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
 ];

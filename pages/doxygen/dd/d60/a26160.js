@@ -1,6 +1,5 @@
 var a26160 =
 [
-    [ "OnRemove", "dd/d60/a26160.html#a3803e6bbdb17e9a848376481581c993d", null ],
-    [ "PrepareAuraScript", "dd/d60/a26160.html#a6f1340b824af4604e310666e89d05b7a", null ],
-    [ "Register", "dd/d60/a26160.html#a3b361a478f1c035b706ac2e17499fb37", null ]
+    [ "PrepareSpellScript", "dd/d60/a26160.html#ac08a5b38ac3012ad31c8ecdf4ca36585", null ],
+    [ "Register", "dd/d60/a26160.html#a7d6187a7aa8f8d67efe15ffc74fa1873", null ]
 ];

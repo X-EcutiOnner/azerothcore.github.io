@@ -1,7 +1,7 @@
 var a22792 =
 [
-    [ "CheckProc", "de/dd4/a22792.html#a0968b7b32f2d2bef6035e030f544088a", null ],
-    [ "PrepareAuraScript", "de/dd4/a22792.html#ac424e41948196a6e60b790ebcf40783f", null ],
-    [ "Register", "de/dd4/a22792.html#a06bdac68e36b43ee534e937ffd974086", null ],
-    [ "Update", "de/dd4/a22792.html#af6c228840f6af96e353ba964fdd01e54", null ]
+    [ "PrepareAuraScript", "de/dd4/a22792.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
+    [ "ReflectDamage", "de/dd4/a22792.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
+    [ "Register", "de/dd4/a22792.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
+    [ "Validate", "de/dd4/a22792.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
 ];

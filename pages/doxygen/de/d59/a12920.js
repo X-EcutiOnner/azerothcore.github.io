@@ -1,7 +1,7 @@
 var a12920 =
 [
-    [ "HandleScript", "de/d59/a12920.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
-    [ "PrepareSpellScript", "de/d59/a12920.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
-    [ "Register", "de/d59/a12920.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
-    [ "Validate", "de/d59/a12920.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
+    [ "HandleDummy", "de/d59/a12920.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
+    [ "PrepareSpellScript", "de/d59/a12920.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
+    [ "Register", "de/d59/a12920.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
+    [ "Validate", "de/d59/a12920.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
 ];

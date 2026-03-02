@@ -1,6 +1,11 @@
 var a11020 =
 [
-    [ "SetRaidDifficultyClient", "d8/d39/a11020.html#afba49b9e3994eb461ac1b827d0c0fac7", null ],
-    [ "Read", "d8/d39/a11020.html#a347a86f33f0c31a1c3279028d7dfc46c", null ],
-    [ "Mode", "d8/d39/a11020.html#a445a55f5069f60a184b119c57cfedf9a", null ]
+    [ "SaveGuildEmblem", "d8/d39/a11020.html#ae3e507a567dfbead91c84629008539d2", null ],
+    [ "Read", "d8/d39/a11020.html#aeea281ed99165947de4b5d1b4449ea5d", null ],
+    [ "BColor", "d8/d39/a11020.html#a48cfbac2214bfc406d8bc80c175dac8f", null ],
+    [ "Bg", "d8/d39/a11020.html#a53e3f146f6a925bbe1fdae2105b79952", null ],
+    [ "BStyle", "d8/d39/a11020.html#a44fdd025f87e13db6d83afca6c49f5f8", null ],
+    [ "EColor", "d8/d39/a11020.html#ad3775c0839dd9aeb5a708a26ea4ec640", null ],
+    [ "EStyle", "d8/d39/a11020.html#a60c52a080284fabe96c579f39fb0834f", null ],
+    [ "Vendor", "d8/d39/a11020.html#a4bd53f7f5a5f2e7759d6df8a9de0b3f0", null ]
 ];

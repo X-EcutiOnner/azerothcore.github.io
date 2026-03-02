@@ -1,6 +1,5 @@
 var a21604 =
 [
-    [ "npc_mageguard_dalaranAI", "d5/d7d/a21608.html", "d5/d7d/a21608" ],
-    [ "npc_mageguard_dalaran", "de/d8f/a21604.html#a0cec4f232b665325c421cecb5839885f", null ],
-    [ "GetAI", "de/d8f/a21604.html#a10cbddceb53a2d432da2224128c59b28", null ]
+    [ "npc_steam_powered_auctioneerAI", "de/d8f/a21604.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "de/d8f/a21604.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

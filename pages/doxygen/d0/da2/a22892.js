@@ -1,11 +1,12 @@
 var a22892 =
 [
-    [ "boss_supremus", "d0/da2/a22892.html#af1f094534b0e2dec70422839a02327cd", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d0/da2/a22892.html#a2654bf5b1d5b6da723d4968219e069a9", null ],
-    [ "FindHatefulStrikeTarget", "d0/da2/a22892.html#af560466902d0d372662020e1a67b627c", null ],
-    [ "JustEngagedWith", "d0/da2/a22892.html#a7d3a5e2c183db7639a7c25f309359ed1", null ],
-    [ "JustSummoned", "d0/da2/a22892.html#a7265a01fa79213ab6d8b82a4c92b7661", null ],
-    [ "Reset", "d0/da2/a22892.html#a0eaa29849a2571417d4826d238d72e25", null ],
-    [ "SchedulePhase", "d0/da2/a22892.html#a87e3943d6c645138853aa97644f9df0e", null ],
-    [ "SummonedCreatureDespawn", "d0/da2/a22892.html#a2ae72bfef577654e676a64eb2e4efa7a", null ]
+    [ "boss_shade_of_akama", "d0/da2/a22892.html#a385bf995d19652254d6ae8a447c23c37", null ],
+    [ "EnterEvadeMode", "d0/da2/a22892.html#a690f8058fb4358b98960177d76864275", null ],
+    [ "JustDied", "d0/da2/a22892.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
+    [ "MovementInform", "d0/da2/a22892.html#a345707efebd5027c01a25a563d1e6f43", null ],
+    [ "Reset", "d0/da2/a22892.html#a19a1aca1a599704612ac845001895b4f", null ],
+    [ "SpellHit", "d0/da2/a22892.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
+    [ "UpdateAI", "d0/da2/a22892.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
+    [ "channelers", "d0/da2/a22892.html#a63372527172d3f96f533b5776221c2e7", null ],
+    [ "generators", "d0/da2/a22892.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
 ];

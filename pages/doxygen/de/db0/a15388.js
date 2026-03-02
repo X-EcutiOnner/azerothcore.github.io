@@ -1,5 +1,6 @@
 var a15388 =
 [
-    [ "npc_idol_room_spawnerAI", "de/db0/a15388.html#a77c4aa88d213271166158c8e75d41a69", null ],
-    [ "SetData", "de/db0/a15388.html#aa0626c837086b4a275f4d51d1659a242", null ]
+    [ "instance_onyxias_lair_InstanceMapScript", "da/d1a/a15392.html", "da/d1a/a15392" ],
+    [ "instance_onyxias_lair", "de/db0/a15388.html#a1be32e45cb8af86477d300efb6e545cc", null ],
+    [ "GetInstanceScript", "de/db0/a15388.html#abbdc474ce17bca0cb55180661c5204a8", null ]
 ];

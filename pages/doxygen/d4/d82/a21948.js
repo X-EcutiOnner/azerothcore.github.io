@@ -1,7 +1,6 @@
 var a21948 =
 [
-    [ "HandleScript", "d4/d82/a21948.html#a359814a44d4fe58c9f6e7a31c75d7c49", null ],
-    [ "PrepareSpellScript", "d4/d82/a21948.html#a4c6c0903180f3f18d6d9e715efc9f391", null ],
-    [ "Register", "d4/d82/a21948.html#a713b82bc3d82a8324ce4dd090059f463", null ],
-    [ "Validate", "d4/d82/a21948.html#ac8e362d9f76350da106e128138737c5c", null ]
+    [ "npc_plaguehound_trackerAI", "d4/d82/a21948.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "d4/d82/a21948.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "d4/d82/a21948.html#a67c345f49572cde76d9109a1baff6788", null ]
 ];

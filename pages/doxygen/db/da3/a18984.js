@@ -1,8 +1,8 @@
 var a18984 =
 [
-    [ "FilterTargets", "db/da3/a18984.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
-    [ "HandleForceCast", "db/da3/a18984.html#ae783cf255be823bf7c9125f288479e97", null ],
-    [ "Load", "db/da3/a18984.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
-    [ "PrepareSpellScript", "db/da3/a18984.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
-    [ "Register", "db/da3/a18984.html#a454a8909be4bb85f255ea696041ea447", null ]
+    [ "npc_blistering_zombieAI", "db/da3/a18984.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
+    [ "DamageTaken", "db/da3/a18984.html#adf031992078214f90d859df2b54aac91", null ],
+    [ "UpdateAI", "db/da3/a18984.html#ae081898b8dcaf45cd3069e79021de452", null ],
+    [ "casted", "db/da3/a18984.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
+    [ "timer", "db/da3/a18984.html#a8b865c2a87b1fc020d8250767febab0a", null ]
 ];

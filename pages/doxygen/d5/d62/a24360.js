@@ -1,8 +1,9 @@
 var a24360 =
 [
-    [ "CheckProc", "d5/d62/a24360.html#a746a3e24e07ef9a6ddecef80621768f0", null ],
-    [ "HandleProc", "d5/d62/a24360.html#aa0c2bbb60940982e14ae98799fb220a6", null ],
-    [ "PrepareAuraScript", "d5/d62/a24360.html#a0d9decd8a0901b7ab35de6af120baf34", null ],
-    [ "Register", "d5/d62/a24360.html#aae146676b2ca0f29b1712b774b7f9148", null ],
-    [ "Validate", "d5/d62/a24360.html#a7725ff69907bb8328c5f7dffaf941478", null ]
+    [ "npc_pet_gen_toxic_wasteling", "d5/d62/a24360.html#a550a1a9324f605b1a9fd715571f819b7", null ],
+    [ "EnterEvadeMode", "d5/d62/a24360.html#abe25deca7fd1c319085995657d62f22a", null ],
+    [ "MovementInform", "d5/d62/a24360.html#aec73d567c3bd178ffee3bdece83a409e", null ],
+    [ "Reset", "d5/d62/a24360.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
+    [ "UpdateAI", "d5/d62/a24360.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
+    [ "checkTimer", "d5/d62/a24360.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
 ];

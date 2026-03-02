@@ -1,12 +1,7 @@
 var a01250 =
 [
-    [ "WorldObjectScript", "d5/d9e/a10632.html", "d5/d9e/a10632" ],
-    [ "WorldObjectHook", "d4/d22/a01250.html#ab8a14556853bd2637a19973d68ba6d1c", [
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_DESTROY", "d4/d22/a01250.html#ab8a14556853bd2637a19973d68ba6d1ca19911e8e8d81b83808647214673201ce", null ],
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_CREATE", "d4/d22/a01250.html#ab8a14556853bd2637a19973d68ba6d1caa4f7a14c3e5de3e6ace4c9a4bacc656c", null ],
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_SET_MAP", "d4/d22/a01250.html#ab8a14556853bd2637a19973d68ba6d1ca06f900f1b11de87d54d283b4433d5100", null ],
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_RESET_MAP", "d4/d22/a01250.html#ab8a14556853bd2637a19973d68ba6d1cac1f7c2d5eb2a8755ef8e628c8c769241", null ],
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_UPDATE", "d4/d22/a01250.html#ab8a14556853bd2637a19973d68ba6d1ca7fcc241c6d7db7844d86f1d88fb06144", null ],
-      [ "WORLDOBJECTHOOK_END", "d4/d22/a01250.html#ab8a14556853bd2637a19973d68ba6d1ca4efa80e98b34555980ec0b06142a4c59", null ]
-    ] ]
+    [ "MMapTargetData", "de/d91/a09004.html", "de/d91/a09004" ],
+    [ "SafeUnitPointer", "dd/d73/a09008.html", "dd/d73/a09008" ],
+    [ "BuildValuesCachePosPointers", "d4/d5d/a09012.html", "d4/d5d/a09012" ],
+    [ "BuildValuesCachedBuffer", "db/d55/a09016.html", "db/d55/a09016" ]
 ];

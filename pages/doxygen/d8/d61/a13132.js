@@ -1,6 +1,10 @@
 var a13132 =
 [
-    [ "npc_sanguine_spirit", "d8/d61/a13132.html#a1e9a9a8dfaf5475b99d53b6b14db25f0", null ],
-    [ "Reset", "d8/d61/a13132.html#ab92451fe70fd8c444a1c9d0bc318f624", null ],
-    [ "UpdateAI", "d8/d61/a13132.html#abb07fe0308c3cce7ab5e239e66d65c52", null ]
+    [ "npc_netherspite_infernal", "d8/d61/a13132.html#af9837d7a671533523ce323c083c4e847", null ],
+    [ "DamageTaken", "d8/d61/a13132.html#aee9b38f3590e08b16de1789576986a09", null ],
+    [ "JustEngagedWith", "d8/d61/a13132.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
+    [ "KilledUnit", "d8/d61/a13132.html#a49c37fbebed2951c493962c1a3bd0339", null ],
+    [ "MoveInLineOfSight", "d8/d61/a13132.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
+    [ "SpellHit", "d8/d61/a13132.html#abb6c7d0b5e231e460b069198b16106b7", null ],
+    [ "UpdateAI", "d8/d61/a13132.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
 ];

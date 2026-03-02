@@ -1,5 +1,6 @@
 var a19000 =
 [
-    [ "achievement_portal_jockey", "d0/dd4/a19000.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
-    [ "OnCheck", "d0/dd4/a19000.html#a2695b1fee353be7340f319c632a43efc", null ]
+    [ "HandleScript", "d0/dd4/a19000.html#a930b8a515b5d156c16925dc218cf8172", null ],
+    [ "PrepareSpellScript", "d0/dd4/a19000.html#a892b0ba0f6541b3557a0200be5028479", null ],
+    [ "Register", "d0/dd4/a19000.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
 ];

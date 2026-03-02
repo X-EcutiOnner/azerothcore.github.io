@@ -1,6 +1,5 @@
 var a21672 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "d1/d94/a21676.html", "d1/d94/a21676" ],
-    [ "npc_injured_7th_legion_soldier", "d7/df2/a21672.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
-    [ "GetAI", "d7/df2/a21672.html#a0feca7aedcf3c07253d4d402266189cc", null ]
+    [ "go_the_pearl_of_the_depths", "d7/df2/a21672.html#a0e09ddcde0eef050400d90e9a268823a", null ],
+    [ "OnGossipHello", "d7/df2/a21672.html#a745ea14136a78759a3afd7714c6d784a", null ]
 ];

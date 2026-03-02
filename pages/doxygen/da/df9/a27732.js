@@ -1,6 +1,8 @@
 var a27732 =
 [
-    [ "HandleOnHit", "da/df9/a27732.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
-    [ "PrepareSpellScript", "da/df9/a27732.html#a999b019665dec9b0690a1019be428072", null ],
-    [ "Register", "da/df9/a27732.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
+    [ "CheckProc", "da/df9/a27732.html#a4713f3cdce1ee793a8f2232202314ff7", null ],
+    [ "HandleProc", "da/df9/a27732.html#ab892bc268feccba594a5b4b0be3e86f7", null ],
+    [ "PrepareAuraScript", "da/df9/a27732.html#a92a141fcf24f63bc41f6f828f72bf277", null ],
+    [ "Register", "da/df9/a27732.html#a93806efcc1e5976cca2eab57c9e55a7e", null ],
+    [ "Validate", "da/df9/a27732.html#a28801b99335380a7e366e766b6aaea2c", null ]
 ];

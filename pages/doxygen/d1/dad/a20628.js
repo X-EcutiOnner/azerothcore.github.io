@@ -1,5 +1,5 @@
 var a20628 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_13", "d1/dad/a20628.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
-    [ "OnCheck", "d1/dad/a20628.html#ac91196d094f159932ad871ffa9c0f405", null ]
+    [ "npc_ulduar_flames_spread", "d1/dad/a20628.html#a8309d2c6a0d7ad7a7dc2111c709bf45f", null ],
+    [ "SpellHit", "d1/dad/a20628.html#af8cad4be1736f377721b7a0a63cfafe7", null ]
 ];

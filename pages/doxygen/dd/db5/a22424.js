@@ -1,7 +1,5 @@
 var a22424 =
 [
-    [ "OutdoorPvPGH", "dd/db5/a22424.html#a619492e0a1fdf75f37554a2f19268660", null ],
-    [ "HandleKill", "dd/db5/a22424.html#a78cf572faf727c302f9be496d91004e0", null ],
-    [ "SendRemoveWorldStates", "dd/db5/a22424.html#a92c7e489717072ddc34f707fbe462cb2", null ],
-    [ "SetupOutdoorPvP", "dd/db5/a22424.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
+    [ "OutdoorPvP_eastern_plaguelands", "dd/db5/a22424.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
+    [ "GetOutdoorPvP", "dd/db5/a22424.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
 ];

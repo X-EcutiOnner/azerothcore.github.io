@@ -1,7 +1,7 @@
 var a21504 =
 [
-    [ "npc_mootoo_the_youngerAI", "dc/d40/a21504.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "dc/d40/a21504.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "dc/d40/a21504.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "dc/d40/a21504.html#ac758a992ed0d62a272930c84d617b348", null ]
+    [ "npc_lurgglbrAI", "db/d1d/a21508.html", "db/d1d/a21508" ],
+    [ "npc_lurgglbr", "dc/d40/a21504.html#a7df52667e4d789391820a4c2182db8d2", null ],
+    [ "GetAI", "dc/d40/a21504.html#a2795346371e7b474c53dcacb9daf2001", null ],
+    [ "OnQuestAccept", "dc/d40/a21504.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
 ];

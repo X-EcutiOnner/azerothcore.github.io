@@ -1,6 +1,9 @@
 var a24184 =
 [
-    [ "npc_shattrathflaskvendors", "d7/d49/a24184.html#ab74b234406c2022bf519242a7842458a", null ],
-    [ "OnGossipHello", "d7/d49/a24184.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
-    [ "OnGossipSelect", "d7/d49/a24184.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
+    [ "npc_enraged_spiritAI", "d7/d49/a24184.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
+    [ "JustDied", "d7/d49/a24184.html#a9322622f679dbc311bd8983f5037bd2e", null ],
+    [ "JustEngagedWith", "d7/d49/a24184.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
+    [ "Reset", "d7/d49/a24184.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
+    [ "UpdateAI", "d7/d49/a24184.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
+    [ "_scheduler", "d7/d49/a24184.html#afa6825696b0622849f877b392df4b326", null ]
 ];

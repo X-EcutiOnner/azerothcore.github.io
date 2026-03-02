@@ -1,10 +1,9 @@
 var a15592 =
 [
-    [ "boss_huhuran", "df/dae/a15592.html#a64e0b20891992764c708cbb661c18196", null ],
-    [ "DamageTaken", "df/dae/a15592.html#adb47086f29b41f4168ad5d1b2728547d", null ],
-    [ "JustEngagedWith", "df/dae/a15592.html#a08f1d6550680d5bcf07332eade115730", null ],
-    [ "Reset", "df/dae/a15592.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
-    [ "UpdateAI", "df/dae/a15592.html#a23962e668f046b373f94ea6a2d75574a", null ],
-    [ "_berserk", "df/dae/a15592.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
-    [ "_hardEnrage", "df/dae/a15592.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
+    [ "npc_eye_tentacle", "df/dae/a15592.html#a106deeb95d74597377d32e81695dc3c9", null ],
+    [ "JustDied", "df/dae/a15592.html#aac965d97034f4f623172297e4f82647e", null ],
+    [ "JustEngagedWith", "df/dae/a15592.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
+    [ "Reset", "df/dae/a15592.html#a715439dfa31b4cf9df7ddd678d912108", null ],
+    [ "UpdateAI", "df/dae/a15592.html#a48f9067f27d61e609a014669c1daedb9", null ],
+    [ "_portalGUID", "df/dae/a15592.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
 ];

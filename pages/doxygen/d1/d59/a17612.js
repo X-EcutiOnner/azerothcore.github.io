@@ -1,8 +1,6 @@
 var a17612 =
 [
-    [ "boss_eck", "d1/d59/a17612.html#a665b54f72e674c8f65dd09daba5413db", null ],
-    [ "InitializeAI", "d1/d59/a17612.html#a92e5117337d372e1700d074f02c06df6", null ],
-    [ "JustEngagedWith", "d1/d59/a17612.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
-    [ "MovementInform", "d1/d59/a17612.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
-    [ "SpellHitTarget", "d1/d59/a17612.html#a63125d970933d6fa1f196aa28c588f40", null ]
+    [ "boss_drakkari_colossusAI", "d9/d4d/a17616.html", "d9/d4d/a17616" ],
+    [ "boss_drakkari_colossus", "d1/d59/a17612.html#abe1bf28b9147b72c81e5c5efcdeeaf84", null ],
+    [ "GetAI", "d1/d59/a17612.html#a75c6c9c56fe11342dd8aece031059e77", null ]
 ];

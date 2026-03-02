@@ -1,11 +1,9 @@
 var a12548 =
 [
-    [ "npc_rookery_hatcherAI", "dd/d28/a12548.html#a3154429437a108edf77de7ec1f0b2cda", null ],
-    [ "InitializeAI", "dd/d28/a12548.html#af144dc2cbe632038057f931fd71da29d", null ],
-    [ "JustEngagedWith", "dd/d28/a12548.html#a7b7ecaa42bdd35f4ee9fe7fad4cd25a9", null ],
-    [ "UpdateAI", "dd/d28/a12548.html#a0f867aa346a2f829067466fbfe6c5335", null ],
-    [ "events", "dd/d28/a12548.html#a220e6f9869d0ea53a593a6ac8e0e28bd", null ],
-    [ "nearbyEggs", "dd/d28/a12548.html#a2cf183745cdf699af7bd273e0ee4d697", null ],
-    [ "targetEgg", "dd/d28/a12548.html#a877af9948503688944e49503a6293574", null ],
-    [ "targetPosition", "dd/d28/a12548.html#a2e94b3d12ef3d8f80546db6c9a9e9e95", null ]
+    [ "boss_overlordwyrmthalakAI", "dd/d28/a12548.html#a76f9bd309e1c5045c74bb0ba8d8bce5c", null ],
+    [ "JustDied", "dd/d28/a12548.html#ade379755d256c4c290e6dc8bbd862261", null ],
+    [ "JustEngagedWith", "dd/d28/a12548.html#af7780f467df92c9218700773d1257a8c", null ],
+    [ "Reset", "dd/d28/a12548.html#a9dbc4cc1830703c393fbeb9c0385b709", null ],
+    [ "UpdateAI", "dd/d28/a12548.html#a950b2161ed4c2441fb73f8b009c5ba30", null ],
+    [ "Summoned", "dd/d28/a12548.html#a8183e3f02d931809440adc8cc0cd3654", null ]
 ];

@@ -1,9 +1,5 @@
 var a15040 =
 [
-    [ "boss_azuregosAI", "d6/def/a15040.html#a839ab1e096d30062d64c1c515a7462a4", null ],
-    [ "JustDied", "d6/def/a15040.html#aea4d204173b7882d2d9acf8204410947", null ],
-    [ "JustEngagedWith", "d6/def/a15040.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
-    [ "KilledUnit", "d6/def/a15040.html#aeefc791e17d2a687f8beae809c44d123", null ],
-    [ "Reset", "d6/def/a15040.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
-    [ "UpdateAI", "d6/def/a15040.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
+    [ "achievement_pb_terokkar_turkey_time", "d6/def/a15040.html#a68e536379b04e060f44819c9831766c2", null ],
+    [ "OnCheck", "d6/def/a15040.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
 ];

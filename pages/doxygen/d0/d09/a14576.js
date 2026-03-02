@@ -1,6 +1,6 @@
 var a14576 =
 [
-    [ "boss_wushoolayAI", "d7/dbe/a14580.html", "d7/dbe/a14580" ],
-    [ "boss_wushoolay", "d0/d09/a14576.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
-    [ "GetAI", "d0/d09/a14576.html#a70b476358956fd05d6effb75517e2b3d", null ]
+    [ "HandleObjectAreaTargetSelect", "d0/d09/a14576.html#aa7695bddd766d5adefb04710d41894f6", null ],
+    [ "PrepareSpellScript", "d0/d09/a14576.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
+    [ "Register", "d0/d09/a14576.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
 ];

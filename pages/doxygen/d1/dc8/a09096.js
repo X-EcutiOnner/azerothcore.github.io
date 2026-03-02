@@ -1,10 +1,10 @@
 var a09096 =
 [
-    [ "creatureRate", "d1/dc8/a09096.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
-    [ "questDailyRate", "d1/dc8/a09096.html#a1798044bdf25ce774191b00e261add1e", null ],
-    [ "questMonthlyRate", "d1/dc8/a09096.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
-    [ "questRate", "d1/dc8/a09096.html#a914118aa28b3736ff4e6c5b61d738834", null ],
-    [ "questRepeatableRate", "d1/dc8/a09096.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
-    [ "questWeeklyRate", "d1/dc8/a09096.html#a0fb31ebc33d0ce11f392be845907e043", null ],
-    [ "spellRate", "d1/dc8/a09096.html#a508485f1e6833c58a11706667a2c24fd", null ]
+    [ "mapId", "d1/dc8/a09096.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
+    [ "name", "d1/dc8/a09096.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
+    [ "orientation", "d1/dc8/a09096.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
+    [ "position_x", "d1/dc8/a09096.html#a65e7390a1dbb615a155c4f163b830e11", null ],
+    [ "position_y", "d1/dc8/a09096.html#a3d3f398cd23566dce721fefeae7af33c", null ],
+    [ "position_z", "d1/dc8/a09096.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
+    [ "wnameLow", "d1/dc8/a09096.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
 ];

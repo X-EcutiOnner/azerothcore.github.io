@@ -1,6 +1,7 @@
 var a14584 =
 [
-    [ "instance_zulgurub_InstanceMapScript", "d9/d64/a14588.html", "d9/d64/a14588" ],
-    [ "instance_zulgurub", "df/dec/a14584.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
-    [ "GetInstanceScript", "df/dec/a14584.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
+    [ "HandleApply", "df/dec/a14584.html#a92734043e53b5e1ef81fa9b5ccce135e", null ],
+    [ "HandleRemove", "df/dec/a14584.html#a56bf9c77cf96b1e34543a59fc2a308b2", null ],
+    [ "PrepareAuraScript", "df/dec/a14584.html#ae3bcbf588e46cb0e81160fdd48502566", null ],
+    [ "Register", "df/dec/a14584.html#af2343add2ed014832bd34d11519b391b", null ]
 ];

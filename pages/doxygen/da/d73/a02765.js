@@ -1,11 +1,14 @@
 var a02765 =
 [
-    [ "npc_announcer_toc10", "d5/d29/a17076.html", "d5/d29/a17076" ],
-    [ "MenuTexts", "da/d73/a02765.html#a5e87c460d493df2d4629af8c1a30fc5a", [
-      [ "MSG_TESTED", "da/d73/a02765.html#a5e87c460d493df2d4629af8c1a30fc5aa462de44eca88c95eb9e412dcabc36185", null ],
-      [ "MSG_NEXT_STAGE", "da/d73/a02765.html#a5e87c460d493df2d4629af8c1a30fc5aafb4b982343fbe7bdd8db85adec53db80", null ],
-      [ "MSG_CRUSADERS", "da/d73/a02765.html#a5e87c460d493df2d4629af8c1a30fc5aa0f20061fedbed395c6723105b82e091d", null ],
-      [ "MSG_ANUBARAK", "da/d73/a02765.html#a5e87c460d493df2d4629af8c1a30fc5aad43353382c7c2b60068aa5b306b62643", null ]
-    ] ],
-    [ "AddSC_trial_of_the_crusader", "da/d73/a02765.html#aae8fa1928137dde06462a753ceebcca6", null ]
+    [ "npc_artorius", "db/d93/a28372.html", "db/d93/a28372" ],
+    [ "npc_artorius::npc_artoriusAI", "dc/d68/a28376.html", "dc/d68/a28376" ],
+    [ "npc_precious", "d2/d20/a28380.html", "d2/d20/a28380" ],
+    [ "npc_precious::npc_preciousAI", "db/d7b/a28384.html", "db/d7b/a28384" ],
+    [ "npc_simone", "db/d36/a28388.html", "db/d36/a28388" ],
+    [ "npc_simone::npc_simoneAI", "d0/d27/a28392.html", "d0/d27/a28392" ],
+    [ "npc_nelson", "de/d0a/a28396.html", "de/d0a/a28396" ],
+    [ "npc_nelson::npc_nelsonAI", "de/d61/a28400.html", "de/d61/a28400" ],
+    [ "npc_franklin", "d4/d86/a28404.html", "d4/d86/a28404" ],
+    [ "npc_franklin::npc_franklinAI", "d6/d4b/a28408.html", "d6/d4b/a28408" ],
+    [ "AddSC_npc_stave_of_ancients", "da/d73/a02765.html#a81e200e5d045a2403cd76a0559a6fd8c", null ]
 ];

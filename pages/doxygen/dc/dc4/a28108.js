@@ -1,6 +1,5 @@
 var a28108 =
 [
-    [ "go_heatAI", "dc/dc4/a28108.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
-    [ "UpdateAI", "dc/dc4/a28108.html#a2332206ee47b2cea9e4707d16ea79325", null ],
-    [ "timer", "dc/dc4/a28108.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
+    [ "go_arena_ready_marker", "dc/dc4/a28108.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
+    [ "OnGossipHello", "dc/dc4/a28108.html#a9f51ead2b56d51427ff23be9688388d8", null ]
 ];

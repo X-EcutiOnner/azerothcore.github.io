@@ -1,7 +1,7 @@
 var a19384 =
 [
-    [ "HandleScript", "da/d29/a19384.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
-    [ "Launch", "da/d29/a19384.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
-    [ "PrepareSpellScript", "da/d29/a19384.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
-    [ "Register", "da/d29/a19384.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
+    [ "npc_ioc_gunship_captainAI", "da/d29/a19384.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
+    [ "DoAction", "da/d29/a19384.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
+    [ "UpdateAI", "da/d29/a19384.html#a222b304633143bba47d3edde67ea093b", null ],
+    [ "_events", "da/d29/a19384.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
 ];

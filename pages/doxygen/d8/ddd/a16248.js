@@ -1,5 +1,6 @@
 var a16248 =
 [
-    [ "achievement_respect_your_elders", "d8/ddd/a16248.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
-    [ "OnCheck", "d8/ddd/a16248.html#a770922be3ab19848f7a8f43a82d78b88", null ]
+    [ "npc_weegli_blastfuseAI", "d9/df6/a16252.html", "d9/df6/a16252" ],
+    [ "npc_weegli_blastfuse", "d8/ddd/a16248.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
+    [ "GetAI", "d8/ddd/a16248.html#a701681d8771756dac20d30c2e03a1349", null ]
 ];

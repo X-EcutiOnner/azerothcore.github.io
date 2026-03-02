@@ -1,7 +1,7 @@
 var a26260 =
 [
-    [ "HandleProc", "d5/dbc/a26260.html#a0564e0b3ae8c18c35d4c32feb7e365bd", null ],
-    [ "PrepareAuraScript", "d5/dbc/a26260.html#a07f8c8aa2ed37512b197084febed50ef", null ],
-    [ "Register", "d5/dbc/a26260.html#a10d283df17223afb32c238844bb5db67", null ],
-    [ "Validate", "d5/dbc/a26260.html#a1ee914e76abd22ba119740aa4aa6805e", null ]
+    [ "AfterRemove", "d5/dbc/a26260.html#a554e2ab9dfd9d157eee13b7a5c33cf2e", null ],
+    [ "PrepareAuraScript", "d5/dbc/a26260.html#a13f11ec412f18d805282b3810aff5e90", null ],
+    [ "Register", "d5/dbc/a26260.html#ac9a6a96da8387d3c51fece7f0a968779", null ],
+    [ "Validate", "d5/dbc/a26260.html#a2863c81b02f0b08430d9e713e7b644f7", null ]
 ];

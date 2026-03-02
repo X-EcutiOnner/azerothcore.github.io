@@ -1,11 +1,6 @@
 var a17276 =
 [
-    [ "npc_hor_leaderAI", "d7/d54/a17276.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
-    [ "DoAction", "d7/d54/a17276.html#a610700732a6cc197a40106adef654a62", null ],
-    [ "Reset", "d7/d54/a17276.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
-    [ "UpdateAI", "d7/d54/a17276.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
-    [ "events", "d7/d54/a17276.html#a94128223bddd84b8a678e49f3189cb75", null ],
-    [ "first", "d7/d54/a17276.html#add878d336fa7e20bee4d05ac0383dd0a", null ],
-    [ "pInstance", "d7/d54/a17276.html#a8dd77a92b151acad640f1272acf0b65f", null ],
-    [ "shortver", "d7/d54/a17276.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
+    [ "entry", "d7/d54/a17276.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "d7/d54/a17276.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "d7/d54/a17276.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

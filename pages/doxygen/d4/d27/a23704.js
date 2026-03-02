@@ -1,7 +1,10 @@
 var a23704 =
 [
-    [ "CastQuill", "d4/d27/a23704.html#a923234809186bcbdf02457f4be095519", null ],
-    [ "Execute", "d4/d27/a23704.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
-    [ "_caster", "d4/d27/a23704.html#af809b9279aff141ce4007c8d1fbcc331", null ],
-    [ "_spellId", "d4/d27/a23704.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
+    [ "boss_thorngrin_the_tender", "d4/d27/a23704.html#ad960b1084fc08d2870975c7c6c44ab2b", null ],
+    [ "JustDied", "d4/d27/a23704.html#a4bc13108f7cb240fedb44ccae2b54047", null ],
+    [ "JustEngagedWith", "d4/d27/a23704.html#a647ed5b29861b719d3c4a11fd110c512", null ],
+    [ "KilledUnit", "d4/d27/a23704.html#ab3731c5b56e1c01aa5d78d84a5e60234", null ],
+    [ "MoveInLineOfSight", "d4/d27/a23704.html#a9467e59287b3e917907de82507d1a16d", null ],
+    [ "Reset", "d4/d27/a23704.html#af3f1471cbcdadfe3a86421d7232fb4b9", null ],
+    [ "_intro", "d4/d27/a23704.html#a48fc89c7e9814d90a8724ca38c5e2fe8", null ]
 ];

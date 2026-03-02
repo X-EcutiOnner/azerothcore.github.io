@@ -1,4 +1,4 @@
 var a01475 =
 [
-    [ "ScriptRegistry< GameEventScript >", "d7/d1d/a01475.html#a4026f0cd70a2a24f741b1579c24ec594", null ]
+    [ "MAX_INBOX_CLIENT_CAPACITY", "d7/d1d/a01475.html#ae1d9c2394745301897af9c167e219ca8", null ]
 ];

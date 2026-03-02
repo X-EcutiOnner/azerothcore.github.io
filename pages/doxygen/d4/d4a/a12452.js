@@ -1,6 +1,6 @@
 var a12452 =
 [
-    [ "instance_blackrock_depths_InstanceMapScript", "d6/d1b/a12456.html", "d6/d1b/a12456" ],
-    [ "instance_blackrock_depths", "d4/d4a/a12452.html#a8d906bdb520b2c7907b94b0e22b5cdf4", null ],
-    [ "GetInstanceScript", "d4/d4a/a12452.html#af8f8c9929cae50c098efc5a0dbdd727a", null ]
+    [ "boss_high_priestess_thaurissanAI", "d4/d4a/a12452.html#acbc89b59865a5fda5a4143dd8c690b37", null ],
+    [ "JustEngagedWith", "d4/d4a/a12452.html#a6602682950aab4e9932bf6cdfac9886b", null ],
+    [ "UpdateAI", "d4/d4a/a12452.html#a216a5bc7a38aa5e13f9d025f44e04779", null ]
 ];

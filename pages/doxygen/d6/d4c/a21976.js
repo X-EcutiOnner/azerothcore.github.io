@@ -1,6 +1,7 @@
 var a21976 =
 [
-    [ "npc_lord_areteAI", "d2/d65/a21980.html", "d2/d65/a21980" ],
-    [ "npc_lord_arete", "d6/d4c/a21976.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
-    [ "GetAI", "d6/d4c/a21976.html#a212d003e9acb5f141197b5c4d10163a4", null ]
+    [ "HandleScript", "d6/d4c/a21976.html#a359814a44d4fe58c9f6e7a31c75d7c49", null ],
+    [ "PrepareSpellScript", "d6/d4c/a21976.html#a4c6c0903180f3f18d6d9e715efc9f391", null ],
+    [ "Register", "d6/d4c/a21976.html#a713b82bc3d82a8324ce4dd090059f463", null ],
+    [ "Validate", "d6/d4c/a21976.html#ac8e362d9f76350da106e128138737c5c", null ]
 ];

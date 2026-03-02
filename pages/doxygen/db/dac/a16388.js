@@ -1,7 +1,7 @@
 var a16388 =
 [
-    [ "OnRemove", "db/dac/a16388.html#afb0821bc8774e634eefdd87efe6af945", null ],
-    [ "PrepareAuraScript", "db/dac/a16388.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
-    [ "Register", "db/dac/a16388.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
-    [ "Validate", "db/dac/a16388.html#aa794b76c4d9590b867dda57f02724d95", null ]
+    [ "HandleEffectRemove", "db/dac/a16388.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
+    [ "PrepareAuraScript", "db/dac/a16388.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
+    [ "Register", "db/dac/a16388.html#a7c0533650e772713233ea45b0264cbff", null ],
+    [ "Validate", "db/dac/a16388.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
 ];

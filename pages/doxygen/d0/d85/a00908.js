@@ -1,4 +1,4 @@
 var a00908 =
 [
-    [ "ScriptRegistry< MailScript >", "d0/d85/a00908.html#a2c63e917d984cb7f72bcae15da56850c", null ]
+    [ "ScriptRegistry< DynamicObjectScript >", "d0/d85/a00908.html#a81c3616d496bf8bc2392d79508d2e446", null ]
 ];

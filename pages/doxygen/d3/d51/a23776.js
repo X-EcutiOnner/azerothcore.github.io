@@ -1,6 +1,5 @@
 var a23776 =
 [
-    [ "lapseTeleport", "d3/d51/a23776.html#a55c4330397214bf3a43628b3067d4634", null ],
-    [ "Execute", "d3/d51/a23776.html#a122023ed13fce2f5bb3721e459964443", null ],
-    [ "_owner", "d3/d51/a23776.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
+    [ "npc_telonicus", "d3/d51/a23776.html#af8ba6be2d39463725bbbaf7770319a93", null ],
+    [ "ScheduleEvents", "d3/d51/a23776.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
 ];

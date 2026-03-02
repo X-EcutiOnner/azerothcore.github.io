@@ -1,14 +1,17 @@
 var a13284 =
 [
-    [ "boss_priestess_delrissa", "da/d7b/a13284.html#afcbf1aa400ec44b709fd194daab91d3d", null ],
-    [ "CheckInRoom", "da/d7b/a13284.html#afa963761e44412915a6d89f097f33b5d", null ],
-    [ "InitializeAI", "da/d7b/a13284.html#ae5105868d704b6ca91b27dcfbeaef3a9", null ],
-    [ "JustDied", "da/d7b/a13284.html#a82d8c198f38c2aa881386e739dea6a08", null ],
-    [ "JustEngagedWith", "da/d7b/a13284.html#a40c9852f9a1ea24b61edf0f7c00193a6", null ],
-    [ "JustSummoned", "da/d7b/a13284.html#ac0a2c4346c6222380d7bda9a274f78e0", null ],
-    [ "KilledUnit", "da/d7b/a13284.html#af0b41306f53c42745cce39069f446704", null ],
-    [ "Reset", "da/d7b/a13284.html#a60e39157aa3043284b2e1e032c0d9241", null ],
-    [ "SummonedCreatureDies", "da/d7b/a13284.html#a14757692ab4af5c1b5b311f059be9091", null ],
-    [ "HelpersKilled", "da/d7b/a13284.html#a26764cdd42721c9276ccecaa97fc9a6e", null ],
-    [ "PlayersKilled", "da/d7b/a13284.html#a9bde16a69ed9e950ce0dfb91805280cc", null ]
+    [ "npc_barnesAI", "da/d7b/a13284.html#acf165009e5b2164d8244e709043eba09", null ],
+    [ "JustEngagedWith", "da/d7b/a13284.html#a1f24ea5604563c9a16c5a2a91ae078f1", null ],
+    [ "PrepareEncounter", "da/d7b/a13284.html#acdefdf68be1d870f76cbd0e329e3c890", null ],
+    [ "Reset", "da/d7b/a13284.html#a67ee1ef5c6012e499a9d9d7b77938fbe", null ],
+    [ "StartEvent", "da/d7b/a13284.html#ab5ed76e189150b2bb8a57095289246fe", null ],
+    [ "Talk", "da/d7b/a13284.html#a8a5c4a97e9093220a5d8642fcf6ceece", null ],
+    [ "UpdateAI", "da/d7b/a13284.html#a19c6ac3829ae4c38263eda116d56df88", null ],
+    [ "WaypointReached", "da/d7b/a13284.html#acae5cbc4bcbe91b6810d649385a889a9", null ],
+    [ "instance", "da/d7b/a13284.html#a9094deb17c0c77c968bbfb4f9f05e521", null ],
+    [ "m_uiEventId", "da/d7b/a13284.html#a47ac00c081635aeba9ef02a7f1bbd645", null ],
+    [ "m_uiSpotlightGUID", "da/d7b/a13284.html#aceae6d1588aec9035fb80678af32e96c", null ],
+    [ "PerformanceReady", "da/d7b/a13284.html#a27a8ceb27724f074de840d24dcf0e284", null ],
+    [ "TalkCount", "da/d7b/a13284.html#a555a152b2f4981dc824a6fb0f66b5702", null ],
+    [ "TalkTimer", "da/d7b/a13284.html#afa7fd12da57b887f1254e24d444f43d1", null ]
 ];

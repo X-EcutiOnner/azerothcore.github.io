@@ -1,6 +1,7 @@
 var a18264 =
 [
-    [ "boss_professor_putricideAI", "d2/d68/a18268.html", "d2/d68/a18268" ],
-    [ "boss_professor_putricide", "df/dfa/a18264.html#a80776dad5c0205aa6a98752f43e85e32", null ],
-    [ "GetAI", "df/dfa/a18264.html#a7c84089d24bb0c77a5203884254e0925", null ]
+    [ "HandleScriptEffect", "df/dfa/a18264.html#abeb703f8f050677bafb8f5ce4173751a", null ],
+    [ "PrepareSpellScript", "df/dfa/a18264.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
+    [ "Register", "df/dfa/a18264.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
+    [ "SelectTarget", "df/dfa/a18264.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
 ];

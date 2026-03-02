@@ -1,8 +1,9 @@
 var a29712 =
 [
-    [ "prepareLoadedData", "df/d9b/a29712.html#a696cfebd8fe66840b316919519e9b319", null ],
-    [ "fcc", "df/d9b/a29712.html#a83cb69fb9eb6eff82a513c75301e5bf6", null ],
-    [ "fcc_txt", "df/d9b/a29712.html#a9c7e27f948978d771115ca4f88f70b5d", null ],
-    [ "height_map", "df/d9b/a29712.html#a50a7fa80b59ba9c0fcd8d93bd924a13f", null ],
-    [ "size", "df/d9b/a29712.html#add2809c6e520cf4aa43807d61f973f0e", null ]
+    [ "defaultHitMask", "df/d9b/a29712.html#a1b72ebb54d9b7e2543dd41779978fa70", null ],
+    [ "defaultSpellPhaseMask", "df/d9b/a29712.html#af927bd441959e8e122648de610398c65", null ],
+    [ "defaultSpellTypeMask", "df/d9b/a29712.html#aa64e6ad192c41998b368b908c499574d", null ],
+    [ "name", "df/d9b/a29712.html#a78f8589133427f536f15ea05672ad42f", null ],
+    [ "procFlag", "df/d9b/a29712.html#ab9d59a0be623f0d7e732ed2974178d88", null ],
+    [ "requiresSpellPhase", "df/d9b/a29712.html#a37a3ef1c3b19cf7a7ff70a0ca09bfcd9", null ]
 ];

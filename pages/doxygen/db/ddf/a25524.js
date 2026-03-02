@@ -1,6 +1,7 @@
 var a25524 =
 [
-    [ "FilterTargets", "db/ddf/a25524.html#a80d2ffcd64161e53fd795bd40d2b38e0", null ],
-    [ "PrepareSpellScript", "db/ddf/a25524.html#a9fb910382c89750e38cb36bed48a1597", null ],
-    [ "Register", "db/ddf/a25524.html#a667b10129d2d23f72712be523dc93180", null ]
+    [ "HandleProc", "db/ddf/a25524.html#a38baf45ac31e2813316c4c22c2db59ec", null ],
+    [ "PrepareAuraScript", "db/ddf/a25524.html#a3704981effea17b2c513f139a892c37c", null ],
+    [ "Register", "db/ddf/a25524.html#a4d24566853a3a73f9ec215167f2bb401", null ],
+    [ "Validate", "db/ddf/a25524.html#a457f28f8b0bab915dd9e65534ce80b87", null ]
 ];

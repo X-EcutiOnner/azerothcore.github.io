@@ -1,9 +1,10 @@
 var a09816 =
 [
-    [ "BroadcastTextID", "d3/d84/a09816.html#a756f24dbee852a7fbe152c0cb082c412", null ],
-    [ "Emotes", "d3/d84/a09816.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
-    [ "Language", "d3/d84/a09816.html#a33bc5a0c156918b00380710aeb275d3d", null ],
-    [ "Probability", "d3/d84/a09816.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
-    [ "Text_0", "d3/d84/a09816.html#a046d637b91807db067c6e7050184322d", null ],
-    [ "Text_1", "d3/d84/a09816.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
+    [ "PlayerMoveItemData", "d3/d84/a09816.html#a2f707719b409975ddd3023d2239403d6", null ],
+    [ "CanStore", "d3/d84/a09816.html#a00680db86d45ad8e8652218fce05139d", null ],
+    [ "InitItem", "d3/d84/a09816.html#a34298fd6ac20ab0e02c6350dcc5a4d33", null ],
+    [ "IsBank", "d3/d84/a09816.html#ae4d45104dccf78581b4228a31fe192ad", null ],
+    [ "LogBankEvent", "d3/d84/a09816.html#a36516c5ca1aaa13afa9e61831a175068", null ],
+    [ "RemoveItem", "d3/d84/a09816.html#a482460f04b20349e909bac36f893a35a", null ],
+    [ "StoreItem", "d3/d84/a09816.html#a017e3bd414548e66f980587e81e598e5", null ]
 ];

@@ -1,7 +1,8 @@
 var a09380 =
 [
-    [ "GridTerrainUnloader", "d9/d4e/a09380.html#a2cae372520a8e6d6a54ad79381a844e9", null ],
-    [ "UnloadTerrain", "d9/d4e/a09380.html#ad6648cf97602141fcc64bbb6c688f6a0", null ],
-    [ "_grid", "d9/d4e/a09380.html#a94d346bc8d44f285d8cdb97736859201", null ],
-    [ "_map", "d9/d4e/a09380.html#aac1ea80c5210b25ad26f52558336c20d", null ]
+    [ "V8Type", "d9/d4e/a09380.html#a004cbcd4de33cc555da6f6036d735dc0", null ],
+    [ "V9Type", "d9/d4e/a09380.html#a3ec26bc3c9f2e579bf920bf169f3a223", null ],
+    [ "gridIntHeightMultiplier", "d9/d4e/a09380.html#a626b7ad6821722d17bab6e21db618615", null ],
+    [ "v8", "d9/d4e/a09380.html#a8b352fc11c1e705277f8d81b512e3103", null ],
+    [ "v9", "d9/d4e/a09380.html#a37d2628b9fd45b5d5a12baa9eb6efc3c", null ]
 ];

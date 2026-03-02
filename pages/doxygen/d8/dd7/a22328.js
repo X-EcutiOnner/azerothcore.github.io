@@ -1,6 +1,7 @@
 var a22328 =
 [
-    [ "CheckCast", "d8/dd7/a22328.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
-    [ "PrepareSpellScript", "d8/dd7/a22328.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
-    [ "Register", "d8/dd7/a22328.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
+    [ "npc_wg_siege_machineAI", "d8/dd7/a22328.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
+    [ "CanControlVehicle", "d8/dd7/a22328.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
+    [ "UpdateAI", "d8/dd7/a22328.html#a8ddd21047a857facc767a9edc0ec5408", null ],
+    [ "checkTimer", "d8/dd7/a22328.html#abf4b06eae50adeefedba02e2186ea48a", null ]
 ];

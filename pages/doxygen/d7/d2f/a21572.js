@@ -1,6 +1,6 @@
 var a21572 =
 [
-    [ "npc_steam_powered_auctioneerAI", "df/d7b/a21576.html", "df/d7b/a21576" ],
-    [ "npc_steam_powered_auctioneer", "d7/d2f/a21572.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
-    [ "GetAI", "d7/d2f/a21572.html#a39a2f0c187078c759bc4a391e0a81068", null ]
+    [ "npc_bloodmage_laurithAI", "df/d7b/a21576.html", "df/d7b/a21576" ],
+    [ "npc_bloodmage_laurith", "d7/d2f/a21572.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
+    [ "GetAI", "d7/d2f/a21572.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
 ];

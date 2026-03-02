@@ -1,4 +1,4 @@
 var a01001 =
 [
-    [ "operator<<", "df/d59/a01001.html#aa8a947319a6f00895a3c443f5cb258ad", null ]
+    [ "ScriptRegistry< AllCreatureScript >", "df/d59/a01001.html#a1fdf1f4f0e165d771b9e1e9064529256", null ]
 ];

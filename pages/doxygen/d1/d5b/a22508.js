@@ -1,12 +1,14 @@
 var a22508 =
 [
-    [ "boss_exarch_maladaar", "d1/d5b/a22508.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
-    [ "JustDied", "d1/d5b/a22508.html#ab1179a19af8948d430559db4074c41ed", null ],
-    [ "JustEngagedWith", "d1/d5b/a22508.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
-    [ "JustSummoned", "d1/d5b/a22508.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
-    [ "KilledUnit", "d1/d5b/a22508.html#adf35cb8b039676500d4040baa08b0d48", null ],
-    [ "MoveInLineOfSight", "d1/d5b/a22508.html#a14baacd30b9186c7492c981313421d5b", null ],
-    [ "Reset", "d1/d5b/a22508.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
-    [ "UpdateAI", "d1/d5b/a22508.html#a7646c4477135d3d3b8580432902babd4", null ],
-    [ "_talked", "d1/d5b/a22508.html#a15c4f122529b9f52823ea407c43433c5", null ]
+    [ "OPvPCapturePointTF", "d1/d5b/a22508.html#af71fd9e2b7cdfa8c4a352bb5f4ce3d33", null ],
+    [ "ChangeState", "d1/d5b/a22508.html#aa1e2611ef1b260ab363fd2645de142b0", null ],
+    [ "FillInitialWorldStates", "d1/d5b/a22508.html#a8f8588000b515e0c33449f9d7c1357a3", null ],
+    [ "HandlePlayerEnter", "d1/d5b/a22508.html#ae73763b63f5c1522c9b9c5950a6e5dfe", null ],
+    [ "HandlePlayerLeave", "d1/d5b/a22508.html#ace20d19311478a136ae0b75016c36ea8", null ],
+    [ "ResetToTeamControlled", "d1/d5b/a22508.html#a7ad637f6a4005da3166601dafda52d1b", null ],
+    [ "SendChangePhase", "d1/d5b/a22508.html#a16efee78249e510e211b18694ea868f2", null ],
+    [ "Update", "d1/d5b/a22508.html#a15b0758d901bf98f65fa2ee87bb4b401", null ],
+    [ "UpdateTowerState", "d1/d5b/a22508.html#a3f6cbfddd3322e3d948a1330cfa0e4d8", null ],
+    [ "m_TowerState", "d1/d5b/a22508.html#a74e1c07d3186fb6ba54b65efa9700989", null ],
+    [ "m_TowerType", "d1/d5b/a22508.html#ace7e183b6dd438b9649e9ee60c6d00e2", null ]
 ];

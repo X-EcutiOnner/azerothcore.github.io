@@ -1,6 +1,9 @@
 var a20728 =
 [
-    [ "OnPeriodic", "de/df8/a20728.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
-    [ "PrepareAuraScript", "de/df8/a20728.html#a6aa46e818199da206e6543005a7fe87f", null ],
-    [ "Register", "de/df8/a20728.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
+    [ "boss_thorim_gauntlet_npcs", "de/df8/a20728.html#a72ed22f7536d488f886fb42ab3fc84bb", null ],
+    [ "JustEngagedWith", "de/df8/a20728.html#af10a444bada5743c837a9979726c79c9", null ],
+    [ "Reset", "de/df8/a20728.html#a22fcffcc05f155524cadade389ec3607", null ],
+    [ "UpdateAI", "de/df8/a20728.html#a86cec45bbbb8e904200ee0bcc6e44822", null ],
+    [ "_isCaster", "de/df8/a20728.html#a1562e3ba5a7559f6eba9c3a0240a1e20", null ],
+    [ "events", "de/df8/a20728.html#aec35e2b91841c386f083681673e15598", null ]
 ];

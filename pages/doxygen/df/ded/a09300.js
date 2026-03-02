@@ -1,10 +1,7 @@
 var a09300 =
 [
-    [ "GridObjectLoader", "df/ded/a09300.html#a57cd46fee6f747221761aa3114c40ba6", null ],
-    [ "AddObjectHelper", "df/ded/a09300.html#a4e857363f544e91918b22df7fb6b1fe8", null ],
-    [ "LoadAllCellsInGrid", "df/ded/a09300.html#a2f4aac240f93354a4a1cd22a7144fb91", null ],
-    [ "LoadCreatures", "df/ded/a09300.html#a000e7ba83cc08e6c5b34a9bff222a809", null ],
-    [ "LoadGameObjects", "df/ded/a09300.html#ad577dbb6544e806d25b496796651ba5b", null ],
-    [ "_grid", "df/ded/a09300.html#abe551354634514fa3998eccb10fcbefe", null ],
-    [ "_map", "df/ded/a09300.html#a1d3ca2b103b23a95fb208ee64fe4037b", null ]
+    [ "GetAntiDosPolicyForOpcode", "df/ded/a09300.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
+    [ "instance", "df/ded/a09300.html#a859596f153aa470fa503f67092e26160", null ],
+    [ "LoadAntiDosOpcodePolicies", "df/ded/a09300.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
+    [ "_antiDosOpcodePolicies", "df/ded/a09300.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
 ];

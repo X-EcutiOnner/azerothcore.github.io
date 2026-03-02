@@ -1,6 +1,7 @@
 var a21776 =
 [
-    [ "npc_commander_eligor_dawnbringerAI", "da/deb/a21780.html", "da/deb/a21780" ],
-    [ "npc_commander_eligor_dawnbringer", "d1/d0f/a21776.html#a71d919af98464d6d63f948507f3ff08c", null ],
-    [ "GetAI", "d1/d0f/a21776.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
+    [ "FilterTargets", "d1/d0f/a21776.html#af62588a225f0b701a0f9321677ae22b8", null ],
+    [ "HandleScript", "d1/d0f/a21776.html#ad68fad08b2613de096e504bb7dea61cd", null ],
+    [ "PrepareSpellScript", "d1/d0f/a21776.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
+    [ "Register", "d1/d0f/a21776.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
 ];

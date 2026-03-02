@@ -1,7 +1,6 @@
 var a13684 =
 [
-    [ "HandleScriptEffect", "db/de3/a13684.html#a703ac8467126f5c2aee393fcf2400ffc", null ],
-    [ "PrepareSpellScript", "db/de3/a13684.html#a17c49de5f6a37ff83126398d96b43a51", null ],
-    [ "Register", "db/de3/a13684.html#ae205d84cdbe3fbfa519e7d1c8f2ffe16", null ],
-    [ "Validate", "db/de3/a13684.html#a17d53f598be9fe9e9790bb96dfcb4891", null ]
+    [ "instance_sunken_temple_InstanceMapScript", "da/d3b/a13688.html", "da/d3b/a13688" ],
+    [ "instance_sunken_temple", "db/de3/a13684.html#a123b052c1cd1487588c88bf2611bc53b", null ],
+    [ "GetInstanceScript", "db/de3/a13684.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
 ];

@@ -1,6 +1,9 @@
 var a19500 =
 [
-    [ "boss_kelthuzad_minionAI", "d7/d23/a19504.html", "d7/d23/a19504" ],
-    [ "boss_kelthuzad_minion", "d5/df0/a19500.html#a4c6d430035c964b4063139c0cda6bfff", null ],
-    [ "GetAI", "d5/df0/a19500.html#ab951068fedced148653ebf9124ba5e3d", null ]
+    [ "boss_grobbulus_poison_cloudAI", "d5/df0/a19500.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
+    [ "KilledUnit", "d5/df0/a19500.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
+    [ "Reset", "d5/df0/a19500.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
+    [ "UpdateAI", "d5/df0/a19500.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
+    [ "auraVisualTimer", "d5/df0/a19500.html#a74aea4294c26414d3b60983d14d36e31", null ],
+    [ "sizeTimer", "d5/df0/a19500.html#a73f775b30ad36a595e0d8532067ba042", null ]
 ];

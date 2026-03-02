@@ -1,12 +1,6 @@
 var a13416 =
 [
-    [ "npc_koltira_deathweaverAI", "dc/df1/a13416.html#adbc46fce90170aec986faacf012bd2b2", null ],
-    [ "MovementInform", "dc/df1/a13416.html#afed53c190d875d0e59775ebfeb749fcf", null ],
-    [ "Reset", "dc/df1/a13416.html#ac07053d3798d57449c23bfff68e12f1b", null ],
-    [ "sGossipSelect", "dc/df1/a13416.html#af481beffaeb97a69483a62fd5f110616", null ],
-    [ "sQuestAccept", "dc/df1/a13416.html#a83fa04558bc7617b561ec05da9f2a6a1", null ],
-    [ "StartEvent", "dc/df1/a13416.html#aa4f0df71fb88f6685f2c27f19a34b2b3", null ],
-    [ "SummonedCreatureDies", "dc/df1/a13416.html#a967575fafe29db364b4e6a00a5e0457b", null ],
-    [ "UpdateAI", "dc/df1/a13416.html#ac90ed956ba45b6363a21af76393126ac", null ],
-    [ "_valrothGUID", "dc/df1/a13416.html#ad041942412fb8288ff5f850ee6472e78", null ]
+    [ "npc_unworthy_initiateAI", "d0/de5/a13420.html", "d0/de5/a13420" ],
+    [ "npc_unworthy_initiate", "dc/df1/a13416.html#aaa04626b783eadc0b14bd89aa715e694", null ],
+    [ "GetAI", "dc/df1/a13416.html#a0912cc56cb2082b2de086cbd9b914b4a", null ]
 ];

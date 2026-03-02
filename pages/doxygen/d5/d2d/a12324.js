@@ -1,6 +1,5 @@
 var a12324 =
 [
-    [ "boss_ambassador_flamelashAI", "dc/d86/a12328.html", "dc/d86/a12328" ],
-    [ "boss_ambassador_flamelash", "d5/d2d/a12324.html#a53d24a240e48033b0474970e8acac1f4", null ],
-    [ "GetAI", "d5/d2d/a12324.html#a332e347d803a58989445ec57d75361ab", null ]
+    [ "amount", "d5/d2d/a12324.html#a35b1ecbfecae77f1cb7a0a52eafc5f7b", null ],
+    [ "entry", "d5/d2d/a12324.html#ac3d4d211ebb927b1b9a376ee956e1b26", null ]
 ];

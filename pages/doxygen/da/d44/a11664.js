@@ -1,10 +1,13 @@
 var a11664 =
 [
-    [ "EffectHook", "da/d44/a11664.html#a4a197e061d918dfba2bc486f3393b00d", null ],
-    [ "~EffectHook", "da/d44/a11664.html#aa234f63b530764d12064acbe3f5c9299", null ],
-    [ "CheckEffect", "da/d44/a11664.html#ae8823c5d649d182f572818bf3db72902", null ],
-    [ "EffIndexToString", "da/d44/a11664.html#ab818ed274cfd66ecc565b8535b751517", null ],
-    [ "GetAffectedEffectsMask", "da/d44/a11664.html#a31faa86590e22f5ab3ca518f4df02840", null ],
-    [ "IsEffectAffected", "da/d44/a11664.html#a697041ffa562bb6fff792beb159c7af2", null ],
-    [ "effIndex", "da/d44/a11664.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
+    [ "PetAuraMap", "da/d44/a11664.html#a6c020340ff467b5f2d00c3b5f9fee817", null ],
+    [ "PetAura", "da/d44/a11664.html#a8cd7e3284837b30a8a3c6739ab5cb9b3", null ],
+    [ "PetAura", "da/d44/a11664.html#a79a2f086e2d8dbe1af47716b53df0524", null ],
+    [ "AddAura", "da/d44/a11664.html#ae33bb99ab341f66fb2f296ccd6617e63", null ],
+    [ "GetAura", "da/d44/a11664.html#a6f8318410229a89e0b3aa2af28d6cb2b", null ],
+    [ "GetDamage", "da/d44/a11664.html#a38087712cef92ad55dc84f96e2b9e300", null ],
+    [ "IsRemovedOnChangePet", "da/d44/a11664.html#adc1b329e1f303b5ad3f353abb4343cdf", null ],
+    [ "auras", "da/d44/a11664.html#abacd738dfb04687810b981297b1a1567", null ],
+    [ "damage", "da/d44/a11664.html#a216021a7ad893ae6ca65ea068dd6eedb", null ],
+    [ "removeOnChangePet", "da/d44/a11664.html#aa5b3219cd2021341ce0910dce81d8b56", null ]
 ];

@@ -1,9 +1,11 @@
 var a14652 =
 [
-    [ "CheckCast", "d7/d49/a14652.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
-    [ "FilterTargets", "d7/d49/a14652.html#a9638048b4107db116474abf8e18d7760", null ],
-    [ "HandleBeforeHit", "d7/d49/a14652.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
-    [ "HandleScriptEffect", "d7/d49/a14652.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
-    [ "PrepareSpellScript", "d7/d49/a14652.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
-    [ "Register", "d7/d49/a14652.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
+    [ "npc_dark_iron_attack_mole_machine", "d7/d49/a14652.html#a473a8fb4905e5d1333196797d7d0f371", null ],
+    [ "AttackStart", "d7/d49/a14652.html#a999dd932fbaf22a8275dfdba150c3291", null ],
+    [ "JustEngagedWith", "d7/d49/a14652.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
+    [ "MoveInLineOfSight", "d7/d49/a14652.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
+    [ "Reset", "d7/d49/a14652.html#a0727aab751ddfbd94ae070e60e47e768", null ],
+    [ "UpdateAI", "d7/d49/a14652.html#a1217ed510a846d011143ae0a386c6236", null ],
+    [ "goTimer", "d7/d49/a14652.html#a8686845ebef564c9fcaa115866c99749", null ],
+    [ "summonTimer", "d7/d49/a14652.html#a4713da02f4a86547a0f796167e24d8bb", null ]
 ];

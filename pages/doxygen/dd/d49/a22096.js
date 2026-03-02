@@ -1,6 +1,6 @@
 var a22096 =
 [
-    [ "npc_vekjik", "dd/d49/a22096.html#a7439c6038237b77ba8623ae92d6cf708", null ],
-    [ "OnGossipHello", "dd/d49/a22096.html#acdbba5b4970049e72477eccf6672b0e8", null ],
-    [ "OnGossipSelect", "dd/d49/a22096.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
+    [ "PrepareSpellScript", "dd/d49/a22096.html#aa26d34552b04dca1db32390e769ff4dc", null ],
+    [ "RecalculateDamage", "dd/d49/a22096.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
+    [ "Register", "dd/d49/a22096.html#a58d28dea272b1237cf60efb45d67765d", null ]
 ];

@@ -1,9 +1,8 @@
 var a18872 =
 [
-    [ "DelayedCastEvent", "d3/da2/a18872.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
-    [ "Execute", "d3/da2/a18872.html#ae2925429b3049e44d2afd2e8b990af71", null ],
-    [ "_despawnTime", "d3/da2/a18872.html#afcaeafb72df77c36b5496588c219fac4", null ],
-    [ "_originalCaster", "d3/da2/a18872.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
-    [ "_spellId", "d3/da2/a18872.html#abe28a6749101233302634ed226a289e8", null ],
-    [ "_trigger", "d3/da2/a18872.html#a85471a151a3165cc906f3a41103c3f5d", null ]
+    [ "npc_lk_spirit_bombAI", "d3/da2/a18872.html#a366fb54e68c0e603000183cd68daf6b7", null ],
+    [ "IsSummonedBy", "d3/da2/a18872.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
+    [ "MovementInform", "d3/da2/a18872.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
+    [ "UpdateAI", "d3/da2/a18872.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
+    [ "timer", "d3/da2/a18872.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
 ];

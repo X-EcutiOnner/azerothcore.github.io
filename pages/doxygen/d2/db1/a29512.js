@@ -1,7 +1,7 @@
 var a29512 =
 [
-    [ "flatModifier", "d2/db1/a29512.html#a781485dfaede63716eddba66971600e3", null ],
-    [ "hasSpellModOwner", "d2/db1/a29512.html#aa80132f8b5cb980a4a703810fe3fa1a4", null ],
-    [ "hasSpellProto", "d2/db1/a29512.html#a96607da311b5774eeaa01674d32ab22e", null ],
-    [ "pctModifier", "d2/db1/a29512.html#aaf5a1e1118b0dcd155529978bdc172db", null ]
+    [ "MockAuraStub", "d2/db1/a29512.html#a9f0561eabca5230f8fe27384e0deb6b8", null ],
+    [ "MOCK_METHOD", "d2/db1/a29512.html#a727233484b563f548c9f0e2d8a78b9a6", null ],
+    [ "MOCK_METHOD", "d2/db1/a29512.html#a9581f1887abbe708bc4e2da24e1996b5", null ],
+    [ "MOCK_METHOD", "d2/db1/a29512.html#abe2d675e124d5cb9115e8f726b1c7d8b", null ]
 ];

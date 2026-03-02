@@ -1,6 +1,5 @@
 var a22476 =
 [
-    [ "a", "db/df4/a22476.html#af01321c0fa24acf26086f7dccb326640", null ],
-    [ "h", "db/df4/a22476.html#a0b9b712fc851286077ee5bbd8136a413", null ],
-    [ "n", "db/df4/a22476.html#aad82b0a6ff47c6997a6b8d5492748b63", null ]
+    [ "outdoorpvp_na_halaa_creatures", "db/df4/a22476.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
+    [ "UpdateAI", "db/df4/a22476.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
 ];

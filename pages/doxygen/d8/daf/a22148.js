@@ -1,6 +1,6 @@
 var a22148 =
 [
-    [ "HandleScriptEffect", "d8/daf/a22148.html#a1dac2806b74471332aec0595118005a3", null ],
-    [ "PrepareSpellScript", "d8/daf/a22148.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
-    [ "Register", "d8/daf/a22148.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
+    [ "npc_jungle_punch_targetAI", "dd/d1c/a22152.html", "dd/d1c/a22152" ],
+    [ "npc_jungle_punch_target", "d8/daf/a22148.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
+    [ "GetAI", "d8/daf/a22148.html#abb38ccb55abfe0f48f360469031c6902", null ]
 ];

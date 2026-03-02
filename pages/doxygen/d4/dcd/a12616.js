@@ -1,5 +1,5 @@
 var a12616 =
 [
-    [ "go_father_flame", "d4/dcd/a12616.html#aa992bd7029a56faca4b92637688fe845", null ],
-    [ "OnLootStateChanged", "d4/dcd/a12616.html#a84c7055e791a3dac66b75d327c7662c3", null ]
+    [ "at_the_beast_room", "d4/dcd/a12616.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
+    [ "OnTrigger", "d4/dcd/a12616.html#a366c5e35c4030f998404886f1526ae37", null ]
 ];

@@ -1,13 +1,11 @@
 var a08976 =
 [
-    [ "MMapTargetData", "de/d35/a08976.html#a33cc430ea3c4b5dd4012a16914dc8aeb", null ],
-    [ "MMapTargetData", "de/d35/a08976.html#a8312ea3187617e78b28aab842a8284cc", null ],
-    [ "MMapTargetData", "de/d35/a08976.html#a4108ff5fbbf7c468ff7d90ac7beea4fa", null ],
-    [ "MMapTargetData", "de/d35/a08976.html#a3547f93af46826a051f1164ac1fc9ccc", null ],
-    [ "operator=", "de/d35/a08976.html#a4053689f5f675cf1a621dfb39211b3cc", null ],
-    [ "operator=", "de/d35/a08976.html#a130fe2b359f583acab99c51eb9d0b1ad", null ],
-    [ "PosChanged", "de/d35/a08976.html#ade55876b7781b47a72dac9fea1f2e420", null ],
-    [ "_endTime", "de/d35/a08976.html#a5506c303d668bbead180fe2a8c2ed48e", null ],
-    [ "_posOwner", "de/d35/a08976.html#aeaf1e739388ab834e8c845fa366bbfd3", null ],
-    [ "_posTarget", "de/d35/a08976.html#a7f089d873690e8ea549f6345b6598fc4", null ]
+    [ "SpellPeriodicAuraLogInfo", "de/d35/a08976.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
+    [ "absorb", "de/d35/a08976.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
+    [ "auraEff", "de/d35/a08976.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
+    [ "critical", "de/d35/a08976.html#a51041b901727b4f595d2a886520626ff", null ],
+    [ "damage", "de/d35/a08976.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
+    [ "multiplier", "de/d35/a08976.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
+    [ "overDamage", "de/d35/a08976.html#a51904be3790c99bded697b2cf7c8db23", null ],
+    [ "resist", "de/d35/a08976.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
 ];

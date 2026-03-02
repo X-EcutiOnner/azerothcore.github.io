@@ -1,4 +1,7 @@
 var a04610 =
 [
-    [ "Acore::Impl::GenericBaseEncoding< Encoding >", "d3/dd7/a05516.html", "d3/dd7/a05516" ]
+    [ "gobject_commandscript", "de/dfe/a12116.html", "de/dfe/a12116" ],
+    [ "GameObjectEntry", "d9/d98/a04610.html#af6e4fdc2f36213d5f2a9fa6f335517b8", null ],
+    [ "GameObjectSpawnId", "d9/d98/a04610.html#ad5bd2a208bd6c6213df595ee7369126f", null ],
+    [ "AddSC_gobject_commandscript", "d9/d98/a04610.html#a0cc4be9c12b1a892f031cb1ff47e23d9", null ]
 ];

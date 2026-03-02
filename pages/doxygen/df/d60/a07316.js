@@ -1,6 +1,14 @@
 var a07316 =
 [
-    [ "AuctionSearchBidderListRequest", "df/d60/a07316.html#a193c39468959c998a2ccae74342983d2", null ],
-    [ "outbiddedAuctionIds", "df/d60/a07316.html#a6caf25d532b87d38b043cf3aa214f9cd", null ],
-    [ "ownerGuid", "df/d60/a07316.html#a6fb69f4996993f264466c50e7485c4a6", null ]
+    [ "getAll", "df/d60/a07316.html#a736642258b38fa05f04df4f4ac9069db", null ],
+    [ "inventoryType", "df/d60/a07316.html#a521224ce63856745ed64c39f6cbdddc4", null ],
+    [ "itemClass", "df/d60/a07316.html#a97bc36937a55f3e9a88dabf9a4e4f0b5", null ],
+    [ "itemSubClass", "df/d60/a07316.html#acf154bf30417c1a202ae85b4dd1adead", null ],
+    [ "levelmax", "df/d60/a07316.html#a902d715d89a5ca66072393ccefbb1ead", null ],
+    [ "levelmin", "df/d60/a07316.html#ac437de5977b177a586381c8665439a56", null ],
+    [ "listfrom", "df/d60/a07316.html#a2be6266f0bbc631d476710cbe291fab1", null ],
+    [ "quality", "df/d60/a07316.html#a1f234ab443ed5e14aafa02ec3ba5cfde", null ],
+    [ "sorting", "df/d60/a07316.html#a6f2e07af2aafb8eb53d845acd7f5ad71", null ],
+    [ "usable", "df/d60/a07316.html#ad81a5f3c2c58e620673539b6271ff8e9", null ],
+    [ "wsearchedname", "df/d60/a07316.html#a0a3764bd2ad869d9fe04aaced1f271ba", null ]
 ];

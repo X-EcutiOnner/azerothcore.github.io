@@ -1,5 +1,5 @@
 var a00065 =
 [
-    [ "DataMap", "d1/da9/a05549.html", "d1/da9/a05549" ],
-    [ "DataMap::Base", "dc/d3d/a05553.html", "dc/d3d/a05553" ]
+    [ "DataMap", "da/df1/a05668.html", "da/df1/a05668" ],
+    [ "DataMap::Base", "d7/da9/a05672.html", "d7/da9/a05672" ]
 ];

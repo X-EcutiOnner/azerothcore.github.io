@@ -1,9 +1,6 @@
 var a09368 =
 [
-    [ "LiquidData", "db/d4a/a09368.html#ac2435178323f480d2dae449b49b39146", null ],
-    [ "DepthLevel", "db/d4a/a09368.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
-    [ "Entry", "db/d4a/a09368.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
-    [ "Flags", "db/d4a/a09368.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
-    [ "Level", "db/d4a/a09368.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
-    [ "Status", "db/d4a/a09368.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
+    [ "AreaMapType", "db/d4a/a09368.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6", null ],
+    [ "areaMap", "db/d4a/a09368.html#a21673b134ee6b5fb20bab06c3e1b2238", null ],
+    [ "gridArea", "db/d4a/a09368.html#a37e8598e7a22dcb17637243fbeeecb0c", null ]
 ];

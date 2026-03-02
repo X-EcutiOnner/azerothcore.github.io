@@ -1,4 +1,6 @@
 var a10400 =
 [
-    [ "RewardText", "d4/dc7/a10400.html#afa9f5200ef634323d719794e1d1aa4d2", null ]
+    [ "PoolObject", "d4/dc7/a10400.html#a772dc7bc9e1ce25edba89977bf87e3f0", null ],
+    [ "chance", "d4/dc7/a10400.html#ae129795bb2f358af900dbc8892502123", null ],
+    [ "guid", "d4/dc7/a10400.html#ae10fa01f5959e231fe2c16d38d9f3615", null ]
 ];

@@ -1,6 +1,5 @@
 var a10376 =
 [
-    [ "ConditionScript", "de/d1f/a10376.html#a546130ee7ed33c7763115cb0d1506a1b", null ],
-    [ "IsDatabaseBound", "de/d1f/a10376.html#ac4f8325e3fa1e11437056818a0267342", null ],
-    [ "OnConditionCheck", "de/d1f/a10376.html#a2d8a4e71f20c290428c3a86cedfcaab7", null ]
+    [ "ScriptId", "de/d1f/a10376.html#a6b17e959f80e7b3f2f3352a345eebcf9", null ],
+    [ "TypeId", "de/d1f/a10376.html#aaddf1f172211966f5d727e6238889223", null ]
 ];

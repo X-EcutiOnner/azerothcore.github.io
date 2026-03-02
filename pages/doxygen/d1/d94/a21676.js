@@ -1,6 +1,6 @@
 var a21676 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "d1/d94/a21676.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
-    [ "MovementInform", "d1/d94/a21676.html#a999bc868db485578fcc70ae7e056b778", null ],
-    [ "Reset", "d1/d94/a21676.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
+    [ "npc_hourglass_of_eternityAI", "df/d6f/a21680.html", "df/d6f/a21680" ],
+    [ "npc_hourglass_of_eternity", "d1/d94/a21676.html#a40500ff582ead06bd646be86baad7d35", null ],
+    [ "GetAI", "d1/d94/a21676.html#a6cdec424e78e5c9decac73d091eec0ed", null ]
 ];

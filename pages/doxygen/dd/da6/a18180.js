@@ -1,6 +1,6 @@
 var a18180 =
 [
-    [ "npc_vengeful_shadeAI", "d8/d91/a18184.html", "d8/d91/a18184" ],
-    [ "npc_vengeful_shade", "dd/da6/a18180.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
-    [ "GetAI", "dd/da6/a18180.html#afa2c672015b43d83bd55050ed020f7e5", null ]
+    [ "CheckProc", "dd/da6/a18180.html#a86e62fa26606a77284c80583e7b35d27", null ],
+    [ "PrepareAuraScript", "dd/da6/a18180.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
+    [ "Register", "dd/da6/a18180.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
 ];

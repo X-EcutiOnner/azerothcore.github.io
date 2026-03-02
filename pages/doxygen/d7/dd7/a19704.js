@@ -1,6 +1,7 @@
 var a19704 =
 [
-    [ "ChargeRifts", "d7/dd7/a19704.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
-    [ "Execute", "d7/dd7/a19704.html#a8d01bf861d37c25413dc14eee16a2939", null ],
-    [ "_caster", "d7/dd7/a19704.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
+    [ "npc_eoe_wyrmrest_skytalon", "d7/dd7/a19704.html#a8a2c264c200336b9f49f2a86f6953ff6", null ],
+    [ "IsSummonedBy", "d7/dd7/a19704.html#a647ba18085c9522d8075c62ed9ce5b18", null ],
+    [ "JustDied", "d7/dd7/a19704.html#a65df31829e801154ee20d55ad1c15721", null ],
+    [ "PassengerBoarded", "d7/dd7/a19704.html#a350828bdc56029dcbfb863efef4d9d8e", null ]
 ];

@@ -1,5 +1,6 @@
 var a09880 =
 [
-    [ "MinionInfo", "d3/d0b/a09880.html#a537dd49ffb504aeab8b2b1734d5f44d7", null ],
-    [ "bossInfo", "d3/d0b/a09880.html#a04750e14ecb53ce6e3fac35844a713cd", null ]
+    [ "bossId", "d3/d0b/a09880.html#ac7ce1fcc568ad1fe6bc8a20957357ed8", null ],
+    [ "entry", "d3/d0b/a09880.html#a1a199d022692efe54e29a7cb90e73dee", null ],
+    [ "type", "d3/d0b/a09880.html#ab5654860b5c27654fa0346e9e92a71fc", null ]
 ];

@@ -1,9 +1,10 @@
 var a24928 =
 [
-    [ "PrepareAuraScript", "db/df2/a24928.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
-    [ "Register", "db/df2/a24928.html#a04efbc64bfa0312bc1f372e403803c32", null ],
-    [ "Update", "db/df2/a24928.html#aa463442b994b6275b2e12fe06ae7805c", null ],
-    [ "amplitude", "db/df2/a24928.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
-    [ "amplitude", "db/df2/a24928.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
-    [ "isPeriodic", "db/df2/a24928.html#a0732bf60822bbb547be014566d0e092c", null ]
+    [ "FilterTargets", "db/df2/a24928.html#a033c63470d406ad2249c5aa223c00b2f", null ],
+    [ "HandleFinish", "db/df2/a24928.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
+    [ "HandleScript", "db/df2/a24928.html#a2c26838015f1b21715fc1438537e15d3", null ],
+    [ "Load", "db/df2/a24928.html#a669aefa81d57358ef452f4c247b2ceff", null ],
+    [ "PrepareSpellScript", "db/df2/a24928.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
+    [ "Register", "db/df2/a24928.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
+    [ "haveTarget", "db/df2/a24928.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
 ];

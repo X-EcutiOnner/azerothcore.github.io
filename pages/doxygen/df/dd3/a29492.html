@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: DamageInfoStubBuilder Class Reference</title>
+<title>AzerothCore: AuraScriptProcTestFixture Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,53 +105,60 @@ $(document).ready(function(){initNavTree('df/dd3/a29492.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pro-methods">Protected Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d1/d3b/a29489.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">DamageInfoStubBuilder Class Reference</div></div>
+  <div class="headertitle"><div class="title">AuraScriptProcTestFixture Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>Builder for creating <a class="el" href="../../d2/dc8/a29484.html" title="Lightweight stub for DamageInfo.">DamageInfoStub</a> instances with fluent API.  
+<p>Base fixture for <a class="el" href="../../d6/dce/a11748.html">AuraScript</a> proc testing.  
  <a href="../../df/dd3/a29492.html#details">More...</a></p>
 
-<p><code>#include &quot;<a class="el" href="../../">DamageHealInfoStub.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">AuraScriptTestFramework.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for AuraScriptProcTestFixture:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../df/dd3/a29492.png" usemap="#AuraScriptProcTestFixture_map" alt=""/>
+  <map id="AuraScriptProcTestFixture_map" name="AuraScriptProcTestFixture_map">
+<area href="../../da/dc0/a29744.html" title="Integration tests for the proc system." alt="SpellProcIntegrationTest" shape="rect" coords="0,112,176,136"/>
+<area href="../../d2/d76/a29764.html" title="Tests for SpellTypeMask calculation based on proc phase." alt="SpellProcSpellTypeMaskTest" shape="rect" coords="186,112,362,136"/>
+  </map>
+</div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a282b4f92722f9cf12358a9f603df6902"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#a282b4f92722f9cf12358a9f603df6902">DamageInfoStubBuilder</a> ()=default</td></tr>
-<tr class="separator:a282b4f92722f9cf12358a9f603df6902"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abf9d30cde831f2094a181a312bcfe9df"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd3/a29492.html">DamageInfoStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#abf9d30cde831f2094a181a312bcfe9df">WithDamage</a> (uint32_t damage)</td></tr>
-<tr class="separator:abf9d30cde831f2094a181a312bcfe9df"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3265aa4aa273cc9ededb6c9673f6c9e3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd3/a29492.html">DamageInfoStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#a3265aa4aa273cc9ededb6c9673f6c9e3">WithOriginalDamage</a> (uint32_t damage)</td></tr>
-<tr class="separator:a3265aa4aa273cc9ededb6c9673f6c9e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab540fcb56c4034daea104a1b844bdb3a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd3/a29492.html">DamageInfoStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#ab540fcb56c4034daea104a1b844bdb3a">WithSchoolMask</a> (uint32_t schoolMask)</td></tr>
-<tr class="separator:ab540fcb56c4034daea104a1b844bdb3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4fd9332aa42002056d3f9191cd4435d7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd3/a29492.html">DamageInfoStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#a4fd9332aa42002056d3f9191cd4435d7">WithAttackType</a> (uint8_t attackType)</td></tr>
-<tr class="separator:a4fd9332aa42002056d3f9191cd4435d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a681fe7d0c7f3b4136ad4ba2a662e6393"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd3/a29492.html">DamageInfoStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#a681fe7d0c7f3b4136ad4ba2a662e6393">WithSpellInfo</a> (<a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *spellInfo)</td></tr>
-<tr class="separator:a681fe7d0c7f3b4136ad4ba2a662e6393"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3533bbda604c4ed6ac467f28ecb60fbe"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd3/a29492.html">DamageInfoStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#a3533bbda604c4ed6ac467f28ecb60fbe">WithAbsorb</a> (uint32_t absorb)</td></tr>
-<tr class="separator:a3533bbda604c4ed6ac467f28ecb60fbe"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a76827724d8b8d780dc5d136ca01e51e6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd3/a29492.html">DamageInfoStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#a76827724d8b8d780dc5d136ca01e51e6">WithResist</a> (uint32_t resist)</td></tr>
-<tr class="separator:a76827724d8b8d780dc5d136ca01e51e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a81381d471627ddd6e86678551ca4ab5b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd3/a29492.html">DamageInfoStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#a81381d471627ddd6e86678551ca4ab5b">WithBlock</a> (uint32_t block)</td></tr>
-<tr class="separator:a81381d471627ddd6e86678551ca4ab5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a161f5ea9ae33541dfcfd600fc5546b20"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd3/a29492.html">DamageInfoStubBuilder</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#a161f5ea9ae33541dfcfd600fc5546b20">WithHitMask</a> (uint32_t hitMask)</td></tr>
-<tr class="separator:a161f5ea9ae33541dfcfd600fc5546b20"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad50ac35ca7a10f0eb20383fbde4a54dc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dc8/a29484.html">DamageInfoStub</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#ad50ac35ca7a10f0eb20383fbde4a54dc">Build</a> ()</td></tr>
-<tr class="separator:ad50ac35ca7a10f0eb20383fbde4a54dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
+Protected Member Functions</h2></td></tr>
+<tr class="memitem:a65b0d4a0beb4c2f986f71ff5732e0f3c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#a65b0d4a0beb4c2f986f71ff5732e0f3c">SetUp</a> () override</td></tr>
+<tr class="separator:a65b0d4a0beb4c2f986f71ff5732e0f3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a782580d41f8233b93d51fe347601e730"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#a782580d41f8233b93d51fe347601e730">TearDown</a> () override</td></tr>
+<tr class="separator:a782580d41f8233b93d51fe347601e730"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0dd9f22f9528a05b229828e4a2c97757"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d34/a29488.html">ProcTestContext</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#a0dd9f22f9528a05b229828e4a2c97757">Context</a> ()</td></tr>
+<tr class="separator:a0dd9f22f9528a05b229828e4a2c97757"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adee75944dc2e9a3fff7848d0ccfff527"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d60/a11636.html">SpellInfo</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#adee75944dc2e9a3fff7848d0ccfff527">CreateSpellInfo</a> (uint32_t id, uint32_t familyName=0, uint32_t familyFlags0=0, uint32_t familyFlags1=0, uint32_t familyFlags2=0)</td></tr>
+<tr class="separator:adee75944dc2e9a3fff7848d0ccfff527"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a26531bd3f3256075455b32b42a172f6a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d07/a11640.html">SpellProcEntry</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#a26531bd3f3256075455b32b42a172f6a">CreateProcEntry</a> ()</td></tr>
+<tr class="separator:a26531bd3f3256075455b32b42a172f6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a81032fc22ce45902d34cf897606bd966"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d43/a08960.html">ProcEventInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#a81032fc22ce45902d34cf897606bd966">CreateEventInfo</a> (uint32_t typeMask, uint32_t hitMask, uint32_t <a class="el" href="../../d6/d27/a01781.html#aacbfece2441a495ad1e709acd28bc9b7">spellTypeMask</a>=<a class="el" href="../../d0/d9d/a01760.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a>, uint32_t spellPhaseMask=<a class="el" href="../../d0/d9d/a01760.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a>)</td></tr>
+<tr class="separator:a81032fc22ce45902d34cf897606bd966"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a409ccb130f529cb20e5164b465e05ca6"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#a409ccb130f529cb20e5164b465e05ca6">TestCanProc</a> (<a class="el" href="../../da/d07/a11640.html">SpellProcEntry</a> const &amp;procEntry, uint32_t typeMask, uint32_t hitMask, <a class="el" href="../../d9/d60/a11636.html">SpellInfo</a> const *triggerSpell=nullptr)</td></tr>
+<tr class="separator:a409ccb130f529cb20e5164b465e05ca6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a97d06c4fdf207051543fbf8c9207242e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#a97d06c4fdf207051543fbf8c9207242e">TestSpellFamilyMatch</a> (uint32_t procFamilyName, <a class="el" href="../../d7/d68/a05848.html">flag96</a> const &amp;procFamilyMask, <a class="el" href="../../d9/d60/a11636.html">SpellInfo</a> const *triggerSpell)</td></tr>
+<tr class="separator:a97d06c4fdf207051543fbf8c9207242e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:abf06c6b638dcd9489fa0e3d755433514"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dc8/a29484.html">DamageInfoStub</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#abf06c6b638dcd9489fa0e3d755433514">_stub</a></td></tr>
-<tr class="separator:abf06c6b638dcd9489fa0e3d755433514"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0b5925a6df47ba704bfc196cc89c4919"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../d6/d34/a29488.html">ProcTestContext</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#a0b5925a6df47ba704bfc196cc89c4919">_context</a></td></tr>
+<tr class="separator:a0b5925a6df47ba704bfc196cc89c4919"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a30ebff666ac835168f1bf7d6aa771e0c"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d9/d60/a11636.html">SpellInfo</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html#a30ebff666ac835168f1bf7d6aa771e0c">_spellInfos</a></td></tr>
+<tr class="separator:a30ebff666ac835168f1bf7d6aa771e0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Builder for creating <a class="el" href="../../d2/dc8/a29484.html" title="Lightweight stub for DamageInfo.">DamageInfoStub</a> instances with fluent API. </p>
-</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a282b4f92722f9cf12358a9f603df6902" name="a282b4f92722f9cf12358a9f603df6902"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a282b4f92722f9cf12358a9f603df6902">&#9670;&#160;</a></span>DamageInfoStubBuilder()</h2>
+<div class="textblock"><p >Base fixture for <a class="el" href="../../d6/dce/a11748.html">AuraScript</a> proc testing. </p>
+<p >This provides infrastructure for testing proc behavior at the unit level without requiring full game objects. </p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a0dd9f22f9528a05b229828e4a2c97757" name="a0dd9f22f9528a05b229828e4a2c97757"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0dd9f22f9528a05b229828e4a2c97757">&#9670;&#160;</a></span>Context()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -160,7 +167,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">DamageInfoStubBuilder::DamageInfoStubBuilder </td>
+          <td class="memname"><a class="el" href="../../d6/d34/a29488.html">ProcTestContext</a> &amp; AuraScriptProcTestFixture::Context </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -168,16 +175,19 @@ Private Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  161</span>{ <span class="keywordflow">return</span> *<a class="code hl_variable" href="../../df/dd3/a29492.html#a0b5925a6df47ba704bfc196cc89c4919">_context</a>; }</div>
+<div class="ttc" id="aa29492_html_a0b5925a6df47ba704bfc196cc89c4919"><div class="ttname"><a href="../../df/dd3/a29492.html#a0b5925a6df47ba704bfc196cc89c4919">AuraScriptProcTestFixture::_context</a></div><div class="ttdeci">std::unique_ptr&lt; ProcTestContext &gt; _context</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:241</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">_context</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="ad50ac35ca7a10f0eb20383fbde4a54dc" name="ad50ac35ca7a10f0eb20383fbde4a54dc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad50ac35ca7a10f0eb20383fbde4a54dc">&#9670;&#160;</a></span>Build()</h2>
+<a id="a81032fc22ce45902d34cf897606bd966" name="a81032fc22ce45902d34cf897606bd966"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a81032fc22ce45902d34cf897606bd966">&#9670;&#160;</a></span>CreateEventInfo()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -186,7 +196,72 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/dc8/a29484.html">DamageInfoStub</a> DamageInfoStubBuilder::Build </td>
+          <td class="memname"><a class="el" href="../../d4/d43/a08960.html">ProcEventInfo</a> AuraScriptProcTestFixture::CreateEventInfo </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>typeMask</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>hitMask</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>spellTypeMask</em> = <code><a class="el" href="../../d0/d9d/a01760.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a></code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>spellPhaseMask</em> = <code><a class="el" href="../../d0/d9d/a01760.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a></code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  187</span>    {</div>
+<div class="line"><span class="lineno">  188</span>        <span class="keywordflow">return</span> <a class="code hl_class" href="../../dd/d43/a29584.html">ProcEventInfoBuilder</a>()</div>
+<div class="line"><span class="lineno">  189</span>            .<a class="code hl_function" href="../../dd/d43/a29584.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a>(typeMask)</div>
+<div class="line"><span class="lineno">  190</span>            .<a class="code hl_function" href="../../dd/d43/a29584.html#ac8d9c890333158313fb6bd9bdcd14fcf">WithHitMask</a>(hitMask)</div>
+<div class="line"><span class="lineno">  191</span>            .<a class="code hl_function" href="../../dd/d43/a29584.html#aebac87d053e09dba16456a9f49322973">WithSpellTypeMask</a>(<a class="code hl_variable" href="../../d6/d27/a01781.html#aacbfece2441a495ad1e709acd28bc9b7">spellTypeMask</a>)</div>
+<div class="line"><span class="lineno">  192</span>            .<a class="code hl_function" href="../../dd/d43/a29584.html#a2247bbb4936f6d48c4214641a5a466af">WithSpellPhaseMask</a>(spellPhaseMask)</div>
+<div class="line"><span class="lineno">  193</span>            .<a class="code hl_function" href="../../dd/d43/a29584.html#ae0f8d3a43a218b4459db0aa3fee95bf0">Build</a>();</div>
+<div class="line"><span class="lineno">  194</span>    }</div>
+<div class="ttc" id="aa01781_html_aacbfece2441a495ad1e709acd28bc9b7"><div class="ttname"><a href="../../d6/d27/a01781.html#aacbfece2441a495ad1e709acd28bc9b7">spellTypeMask</a></div><div class="ttdeci">static uint32 spellTypeMask[TOTAL_AURAS]</div><div class="ttdef"><b>Definition:</b> SpellMgr.cpp:1777</div></div>
+<div class="ttc" id="aa29584_html"><div class="ttname"><a href="../../dd/d43/a29584.html">ProcEventInfoBuilder</a></div><div class="ttdoc">Builder class for creating ProcEventInfo test instances.</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:31</div></div>
+<div class="ttc" id="aa29584_html_a2247bbb4936f6d48c4214641a5a466af"><div class="ttname"><a href="../../dd/d43/a29584.html#a2247bbb4936f6d48c4214641a5a466af">ProcEventInfoBuilder::WithSpellPhaseMask</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithSpellPhaseMask(uint32 spellPhaseMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:69</div></div>
+<div class="ttc" id="aa29584_html_a83de461b19bd737c5aa2e7fd3ad2a302"><div class="ttname"><a href="../../dd/d43/a29584.html#a83de461b19bd737c5aa2e7fd3ad2a302">ProcEventInfoBuilder::WithTypeMask</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithTypeMask(uint32 typeMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:57</div></div>
+<div class="ttc" id="aa29584_html_ac8d9c890333158313fb6bd9bdcd14fcf"><div class="ttname"><a href="../../dd/d43/a29584.html#ac8d9c890333158313fb6bd9bdcd14fcf">ProcEventInfoBuilder::WithHitMask</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithHitMask(uint32 hitMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:75</div></div>
+<div class="ttc" id="aa29584_html_ae0f8d3a43a218b4459db0aa3fee95bf0"><div class="ttname"><a href="../../dd/d43/a29584.html#ae0f8d3a43a218b4459db0aa3fee95bf0">ProcEventInfoBuilder::Build</a></div><div class="ttdeci">ProcEventInfo Build()</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:111</div></div>
+<div class="ttc" id="aa29584_html_aebac87d053e09dba16456a9f49322973"><div class="ttname"><a href="../../dd/d43/a29584.html#aebac87d053e09dba16456a9f49322973">ProcEventInfoBuilder::WithSpellTypeMask</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithSpellTypeMask(uint32 spellTypeMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:63</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00111">ProcEventInfoBuilder::Build()</a>, <a class="el" href="../../#l01777">spellTypeMask</a>, <a class="el" href="../../#l00075">ProcEventInfoBuilder::WithHitMask()</a>, <a class="el" href="../../#l00069">ProcEventInfoBuilder::WithSpellPhaseMask()</a>, <a class="el" href="../../#l00063">ProcEventInfoBuilder::WithSpellTypeMask()</a>, and <a class="el" href="../../#l00057">ProcEventInfoBuilder::WithTypeMask()</a>.</p>
+
+</div>
+</div>
+<a id="a26531bd3f3256075455b32b42a172f6a" name="a26531bd3f3256075455b32b42a172f6a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a26531bd3f3256075455b32b42a172f6a">&#9670;&#160;</a></span>CreateProcEntry()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../da/d07/a11640.html">SpellProcEntry</a> AuraScriptProcTestFixture::CreateProcEntry </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -194,19 +269,22 @@ Private Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  197</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/dd3/a29492.html#abf06c6b638dcd9489fa0e3d755433514">_stub</a>; }</div>
-<div class="ttc" id="aa29492_html_abf06c6b638dcd9489fa0e3d755433514"><div class="ttname"><a href="../../df/dd3/a29492.html#abf06c6b638dcd9489fa0e3d755433514">DamageInfoStubBuilder::_stub</a></div><div class="ttdeci">DamageInfoStub _stub</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:200</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  179</span>    {</div>
+<div class="line"><span class="lineno">  180</span>        <span class="keywordflow">return</span> <a class="code hl_class" href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a>().<a class="code hl_function" href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  181</span>    }</div>
+<div class="ttc" id="aa29588_html"><div class="ttname"><a href="../../d8/d1f/a29588.html">SpellProcEntryBuilder</a></div><div class="ttdoc">Builder class for creating SpellProcEntry test instances.</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:141</div></div>
+<div class="ttc" id="aa29588_html_a2a69603215e9fa526304f420bd5a490c"><div class="ttname"><a href="../../d8/d1f/a29588.html#a2a69603215e9fa526304f420bd5a490c">SpellProcEntryBuilder::Build</a></div><div class="ttdeci">SpellProcEntry Build() const</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:226</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00200">_stub</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>.</p>
 
 </div>
 </div>
-<a id="a3533bbda604c4ed6ac467f28ecb60fbe" name="a3533bbda604c4ed6ac467f28ecb60fbe"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3533bbda604c4ed6ac467f28ecb60fbe">&#9670;&#160;</a></span>WithAbsorb()</h2>
+<a id="adee75944dc2e9a3fff7848d0ccfff527" name="adee75944dc2e9a3fff7848d0ccfff527"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adee75944dc2e9a3fff7848d0ccfff527">&#9670;&#160;</a></span>CreateSpellInfo()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -215,31 +293,69 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../df/dd3/a29492.html">DamageInfoStubBuilder</a> &amp; DamageInfoStubBuilder::WithAbsorb </td>
+          <td class="memname"><a class="el" href="../../d9/d60/a11636.html">SpellInfo</a> * AuraScriptProcTestFixture::CreateSpellInfo </td>
           <td>(</td>
           <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>absorb</em></td><td>)</td>
+          <td class="paramname"><em>id</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>familyName</em> = <code>0</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>familyFlags0</em> = <code>0</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>familyFlags1</em> = <code>0</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>familyFlags2</em> = <code>0</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  174</span>    {</div>
-<div class="line"><span class="lineno">  175</span>        <a class="code hl_variable" href="../../df/dd3/a29492.html#abf06c6b638dcd9489fa0e3d755433514">_stub</a>.<a class="code hl_function" href="../../d2/dc8/a29484.html#a1c6e75a6933d8cbcc7a66d68d4f65d1c">SetAbsorb</a>(absorb);</div>
-<div class="line"><span class="lineno">  176</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  177</span>    }</div>
-<div class="ttc" id="aa29484_html_a1c6e75a6933d8cbcc7a66d68d4f65d1c"><div class="ttname"><a href="../../d2/dc8/a29484.html#a1c6e75a6933d8cbcc7a66d68d4f65d1c">DamageInfoStub::SetAbsorb</a></div><div class="ttdeci">void SetAbsorb(uint32_t absorb)</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:57</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  167</span>    {</div>
+<div class="line"><span class="lineno">  168</span>        <span class="keyword">auto</span>* spellInfo = <a class="code hl_class" href="../../d5/daf/a29596.html">SpellInfoBuilder</a>()</div>
+<div class="line"><span class="lineno">  169</span>            .<a class="code hl_function" href="../../d5/daf/a29596.html#a1f23f2372b8fd2e7ce8e6aad99868892">WithId</a>(<span class="keywordtype">id</span>)</div>
+<div class="line"><span class="lineno">  170</span>            .<a class="code hl_function" href="../../d5/daf/a29596.html#ae64bb11a8877c42ed63addc210fae8cc">WithSpellFamilyName</a>(familyName)</div>
+<div class="line"><span class="lineno">  171</span>            .<a class="code hl_function" href="../../d5/daf/a29596.html#aa4f184402512fd50c6066910787c4595">WithSpellFamilyFlags</a>(familyFlags0, familyFlags1, familyFlags2)</div>
+<div class="line"><span class="lineno">  172</span>            .<a class="code hl_function" href="../../d5/daf/a29596.html#ab8ba5082d8c0d5d98837e7df20229906">Build</a>();</div>
+<div class="line"><span class="lineno">  173</span>        <a class="code hl_variable" href="../../df/dd3/a29492.html#a30ebff666ac835168f1bf7d6aa771e0c">_spellInfos</a>.push_back(spellInfo);</div>
+<div class="line"><span class="lineno">  174</span>        <span class="keywordflow">return</span> spellInfo;</div>
+<div class="line"><span class="lineno">  175</span>    }</div>
+<div class="ttc" id="aa29492_html_a30ebff666ac835168f1bf7d6aa771e0c"><div class="ttname"><a href="../../df/dd3/a29492.html#a30ebff666ac835168f1bf7d6aa771e0c">AuraScriptProcTestFixture::_spellInfos</a></div><div class="ttdeci">std::vector&lt; SpellInfo * &gt; _spellInfos</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:242</div></div>
+<div class="ttc" id="aa29596_html"><div class="ttname"><a href="../../d5/daf/a29596.html">SpellInfoBuilder</a></div><div class="ttdoc">Builder class for creating SpellInfo test instances.</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:140</div></div>
+<div class="ttc" id="aa29596_html_a1f23f2372b8fd2e7ce8e6aad99868892"><div class="ttname"><a href="../../d5/daf/a29596.html#a1f23f2372b8fd2e7ce8e6aad99868892">SpellInfoBuilder::WithId</a></div><div class="ttdeci">SpellInfoBuilder &amp; WithId(uint32 id)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:144</div></div>
+<div class="ttc" id="aa29596_html_aa4f184402512fd50c6066910787c4595"><div class="ttname"><a href="../../d5/daf/a29596.html#aa4f184402512fd50c6066910787c4595">SpellInfoBuilder::WithSpellFamilyFlags</a></div><div class="ttdeci">SpellInfoBuilder &amp; WithSpellFamilyFlags(uint32 flag0, uint32 flag1=0, uint32 flag2=0)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:156</div></div>
+<div class="ttc" id="aa29596_html_ab8ba5082d8c0d5d98837e7df20229906"><div class="ttname"><a href="../../d5/daf/a29596.html#ab8ba5082d8c0d5d98837e7df20229906">SpellInfoBuilder::Build</a></div><div class="ttdeci">SpellInfo * Build()</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:212</div></div>
+<div class="ttc" id="aa29596_html_ae64bb11a8877c42ed63addc210fae8cc"><div class="ttname"><a href="../../d5/daf/a29596.html#ae64bb11a8877c42ed63addc210fae8cc">SpellInfoBuilder::WithSpellFamilyName</a></div><div class="ttdeci">SpellInfoBuilder &amp; WithSpellFamilyName(uint32 familyName)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:150</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00200">_stub</a>, and <a class="el" href="../../#l00057">DamageInfoStub::SetAbsorb()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00242">_spellInfos</a>, <a class="el" href="../../#l00212">SpellInfoBuilder::Build()</a>, <a class="el" href="../../#l00144">SpellInfoBuilder::WithId()</a>, <a class="el" href="../../#l00156">SpellInfoBuilder::WithSpellFamilyFlags()</a>, and <a class="el" href="../../#l00150">SpellInfoBuilder::WithSpellFamilyName()</a>.</p>
 
 </div>
 </div>
-<a id="a4fd9332aa42002056d3f9191cd4435d7" name="a4fd9332aa42002056d3f9191cd4435d7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4fd9332aa42002056d3f9191cd4435d7">&#9670;&#160;</a></span>WithAttackType()</h2>
+<a id="a65b0d4a0beb4c2f986f71ff5732e0f3c" name="a65b0d4a0beb4c2f986f71ff5732e0f3c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a65b0d4a0beb4c2f986f71ff5732e0f3c">&#9670;&#160;</a></span>SetUp()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -248,31 +364,31 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../df/dd3/a29492.html">DamageInfoStubBuilder</a> &amp; DamageInfoStubBuilder::WithAttackType </td>
+          <td class="memname">void AuraScriptProcTestFixture::SetUp </td>
           <td>(</td>
-          <td class="paramtype">uint8_t&#160;</td>
-          <td class="paramname"><em>attackType</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  162</span>    {</div>
-<div class="line"><span class="lineno">  163</span>        <a class="code hl_variable" href="../../df/dd3/a29492.html#abf06c6b638dcd9489fa0e3d755433514">_stub</a>.<a class="code hl_function" href="../../d2/dc8/a29484.html#aace6419f513faffd0069933a85b9d2a2">SetAttackType</a>(attackType);</div>
-<div class="line"><span class="lineno">  164</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  165</span>    }</div>
-<div class="ttc" id="aa29484_html_aace6419f513faffd0069933a85b9d2a2"><div class="ttname"><a href="../../d2/dc8/a29484.html#aace6419f513faffd0069933a85b9d2a2">DamageInfoStub::SetAttackType</a></div><div class="ttdeci">void SetAttackType(uint8_t attackType)</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:66</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  146</span>    {</div>
+<div class="line"><span class="lineno">  147</span>        <a class="code hl_variable" href="../../df/dd3/a29492.html#a0b5925a6df47ba704bfc196cc89c4919">_context</a> = std::make_unique&lt;ProcTestContext&gt;();</div>
+<div class="line"><span class="lineno">  148</span>        <a class="code hl_variable" href="../../df/dd3/a29492.html#a30ebff666ac835168f1bf7d6aa771e0c">_spellInfos</a>.clear();</div>
+<div class="line"><span class="lineno">  149</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00200">_stub</a>, and <a class="el" href="../../#l00066">DamageInfoStub::SetAttackType()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00241">_context</a>, and <a class="el" href="../../#l00242">_spellInfos</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00038">SpellProcIntegrationTest::SetUp()</a>, and <a class="el" href="../../#l00038">SpellProcSpellTypeMaskTest::SetUp()</a>.</p>
 
 </div>
 </div>
-<a id="a81381d471627ddd6e86678551ca4ab5b" name="a81381d471627ddd6e86678551ca4ab5b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a81381d471627ddd6e86678551ca4ab5b">&#9670;&#160;</a></span>WithBlock()</h2>
+<a id="a782580d41f8233b93d51fe347601e730" name="a782580d41f8233b93d51fe347601e730"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a782580d41f8233b93d51fe347601e730">&#9670;&#160;</a></span>TearDown()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -281,231 +397,169 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../df/dd3/a29492.html">DamageInfoStubBuilder</a> &amp; DamageInfoStubBuilder::WithBlock </td>
+          <td class="memname">void AuraScriptProcTestFixture::TearDown </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  152</span>    {</div>
+<div class="line"><span class="lineno">  153</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span>* spellInfo : <a class="code hl_variable" href="../../df/dd3/a29492.html#a30ebff666ac835168f1bf7d6aa771e0c">_spellInfos</a>)</div>
+<div class="line"><span class="lineno">  154</span>        {</div>
+<div class="line"><span class="lineno">  155</span>            <span class="keyword">delete</span> spellInfo;</div>
+<div class="line"><span class="lineno">  156</span>        }</div>
+<div class="line"><span class="lineno">  157</span>        <a class="code hl_variable" href="../../df/dd3/a29492.html#a30ebff666ac835168f1bf7d6aa771e0c">_spellInfos</a>.clear();</div>
+<div class="line"><span class="lineno">  158</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00242">_spellInfos</a>.</p>
+
+</div>
+</div>
+<a id="a409ccb130f529cb20e5164b465e05ca6" name="a409ccb130f529cb20e5164b465e05ca6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a409ccb130f529cb20e5164b465e05ca6">&#9670;&#160;</a></span>TestCanProc()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AuraScriptProcTestFixture::TestCanProc </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d07/a11640.html">SpellProcEntry</a> const &amp;&#160;</td>
+          <td class="paramname"><em>procEntry</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>typeMask</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>hitMask</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d60/a11636.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname"><em>triggerSpell</em> = <code>nullptr</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  199</span>    {</div>
+<div class="line"><span class="lineno">  200</span>        <a class="code hl_class" href="../../db/df5/a08952.html">DamageInfo</a>* damageInfoPtr = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  201</span>        <a class="code hl_class" href="../../d7/d31/a08956.html">HealInfo</a>* healInfoPtr = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  202</span> </div>
+<div class="line"><span class="lineno">  203</span>        <span class="comment">// Create real DamageInfo/HealInfo if we have a trigger spell</span></div>
+<div class="line"><span class="lineno">  204</span>        <span class="comment">// Note: This requires the actual game classes, which may need adjustment</span></div>
+<div class="line"><span class="lineno">  205</span>        <span class="comment">// For now, we use the stub approach</span></div>
+<div class="line"><span class="lineno">  206</span> </div>
+<div class="line"><span class="lineno">  207</span>        <span class="keyword">auto</span> eventInfo = <a class="code hl_class" href="../../dd/d43/a29584.html">ProcEventInfoBuilder</a>()</div>
+<div class="line"><span class="lineno">  208</span>            .<a class="code hl_function" href="../../dd/d43/a29584.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a>(typeMask)</div>
+<div class="line"><span class="lineno">  209</span>            .<a class="code hl_function" href="../../dd/d43/a29584.html#ac8d9c890333158313fb6bd9bdcd14fcf">WithHitMask</a>(hitMask)</div>
+<div class="line"><span class="lineno">  210</span>            .<a class="code hl_function" href="../../dd/d43/a29584.html#aebac87d053e09dba16456a9f49322973">WithSpellTypeMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a>)</div>
+<div class="line"><span class="lineno">  211</span>            .<a class="code hl_function" href="../../dd/d43/a29584.html#a2247bbb4936f6d48c4214641a5a466af">WithSpellPhaseMask</a>(<a class="code hl_enumvalue" href="../../d0/d9d/a01760.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a>)</div>
+<div class="line"><span class="lineno">  212</span>            .<a class="code hl_function" href="../../dd/d43/a29584.html#ae0f8d3a43a218b4459db0aa3fee95bf0">Build</a>();</div>
+<div class="line"><span class="lineno">  213</span> </div>
+<div class="line"><span class="lineno">  214</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="../../d0/d9d/a01760.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;CanSpellTriggerProcOnEvent(procEntry, eventInfo);</div>
+<div class="line"><span class="lineno">  215</span>    }</div>
+<div class="ttc" id="aa01760_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../d0/d9d/a01760.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:814</div></div>
+<div class="ttc" id="aa01760_html_acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860"><div class="ttname"><a href="../../d0/d9d/a01760.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a></div><div class="ttdeci">@ PROC_SPELL_TYPE_MASK_ALL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:239</div></div>
+<div class="ttc" id="aa01760_html_addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34"><div class="ttname"><a href="../../d0/d9d/a01760.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_HIT</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:246</div></div>
+<div class="ttc" id="aa08952_html"><div class="ttname"><a href="../../db/df5/a08952.html">DamageInfo</a></div><div class="ttdef"><b>Definition:</b> Unit.h:337</div></div>
+<div class="ttc" id="aa08956_html"><div class="ttname"><a href="../../d7/d31/a08956.html">HealInfo</a></div><div class="ttdef"><b>Definition:</b> Unit.h:384</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00111">ProcEventInfoBuilder::Build()</a>, <a class="el" href="../../#l00246">PROC_SPELL_PHASE_HIT</a>, <a class="el" href="../../#l00239">PROC_SPELL_TYPE_MASK_ALL</a>, <a class="el" href="../../#l00814">sSpellMgr</a>, <a class="el" href="../../#l00075">ProcEventInfoBuilder::WithHitMask()</a>, <a class="el" href="../../#l00069">ProcEventInfoBuilder::WithSpellPhaseMask()</a>, <a class="el" href="../../#l00063">ProcEventInfoBuilder::WithSpellTypeMask()</a>, and <a class="el" href="../../#l00057">ProcEventInfoBuilder::WithTypeMask()</a>.</p>
+
+</div>
+</div>
+<a id="a97d06c4fdf207051543fbf8c9207242e" name="a97d06c4fdf207051543fbf8c9207242e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a97d06c4fdf207051543fbf8c9207242e">&#9670;&#160;</a></span>TestSpellFamilyMatch()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AuraScriptProcTestFixture::TestSpellFamilyMatch </td>
           <td>(</td>
           <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>block</em></td><td>)</td>
-          <td></td>
+          <td class="paramname"><em>procFamilyName</em>, </td>
         </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  186</span>    {</div>
-<div class="line"><span class="lineno">  187</span>        <a class="code hl_variable" href="../../df/dd3/a29492.html#abf06c6b638dcd9489fa0e3d755433514">_stub</a>.<a class="code hl_function" href="../../d2/dc8/a29484.html#a353709b9695720cd67a5ac8cec9a2672">SetBlock</a>(block);</div>
-<div class="line"><span class="lineno">  188</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  189</span>    }</div>
-<div class="ttc" id="aa29484_html_a353709b9695720cd67a5ac8cec9a2672"><div class="ttname"><a href="../../d2/dc8/a29484.html#a353709b9695720cd67a5ac8cec9a2672">DamageInfoStub::SetBlock</a></div><div class="ttdeci">void SetBlock(uint32_t block)</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:59</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00200">_stub</a>, and <a class="el" href="../../#l00059">DamageInfoStub::SetBlock()</a>.</p>
-
-</div>
-</div>
-<a id="abf9d30cde831f2094a181a312bcfe9df" name="abf9d30cde831f2094a181a312bcfe9df"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abf9d30cde831f2094a181a312bcfe9df">&#9670;&#160;</a></span>WithDamage()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../df/dd3/a29492.html">DamageInfoStubBuilder</a> &amp; DamageInfoStubBuilder::WithDamage </td>
-          <td>(</td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>damage</em></td><td>)</td>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d7/d68/a05848.html">flag96</a> const &amp;&#160;</td>
+          <td class="paramname"><em>procFamilyMask</em>, </td>
         </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  143</span>    {</div>
-<div class="line"><span class="lineno">  144</span>        <a class="code hl_variable" href="../../df/dd3/a29492.html#abf06c6b638dcd9489fa0e3d755433514">_stub</a>.<a class="code hl_function" href="../../d2/dc8/a29484.html#ac39079942629e30d631eb0b4abcc938c">SetDamage</a>(damage);</div>
-<div class="line"><span class="lineno">  145</span>        <a class="code hl_variable" href="../../df/dd3/a29492.html#abf06c6b638dcd9489fa0e3d755433514">_stub</a>.<a class="code hl_function" href="../../d2/dc8/a29484.html#a2ec521265ea69e94924e10aad3fd1a6c">SetOriginalDamage</a>(damage);</div>
-<div class="line"><span class="lineno">  146</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  147</span>    }</div>
-<div class="ttc" id="aa29484_html_a2ec521265ea69e94924e10aad3fd1a6c"><div class="ttname"><a href="../../d2/dc8/a29484.html#a2ec521265ea69e94924e10aad3fd1a6c">DamageInfoStub::SetOriginalDamage</a></div><div class="ttdeci">void SetOriginalDamage(uint32_t damage)</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:56</div></div>
-<div class="ttc" id="aa29484_html_ac39079942629e30d631eb0b4abcc938c"><div class="ttname"><a href="../../d2/dc8/a29484.html#ac39079942629e30d631eb0b4abcc938c">DamageInfoStub::SetDamage</a></div><div class="ttdeci">void SetDamage(uint32_t damage)</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:55</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00200">_stub</a>, <a class="el" href="../../#l00055">DamageInfoStub::SetDamage()</a>, and <a class="el" href="../../#l00056">DamageInfoStub::SetOriginalDamage()</a>.</p>
-
-</div>
-</div>
-<a id="a161f5ea9ae33541dfcfd600fc5546b20" name="a161f5ea9ae33541dfcfd600fc5546b20"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a161f5ea9ae33541dfcfd600fc5546b20">&#9670;&#160;</a></span>WithHitMask()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../df/dd3/a29492.html">DamageInfoStubBuilder</a> &amp; DamageInfoStubBuilder::WithHitMask </td>
-          <td>(</td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>hitMask</em></td><td>)</td>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d60/a11636.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname"><em>triggerSpell</em>&#160;</td>
         </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  192</span>    {</div>
-<div class="line"><span class="lineno">  193</span>        <a class="code hl_variable" href="../../df/dd3/a29492.html#abf06c6b638dcd9489fa0e3d755433514">_stub</a>.<a class="code hl_function" href="../../d2/dc8/a29484.html#a37b0384b8dc1f9865100dd3c234e79a7">SetHitMask</a>(hitMask);</div>
-<div class="line"><span class="lineno">  194</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  195</span>    }</div>
-<div class="ttc" id="aa29484_html_a37b0384b8dc1f9865100dd3c234e79a7"><div class="ttname"><a href="../../d2/dc8/a29484.html#a37b0384b8dc1f9865100dd3c234e79a7">DamageInfoStub::SetHitMask</a></div><div class="ttdeci">void SetHitMask(uint32_t hitMask)</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:74</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00200">_stub</a>, and <a class="el" href="../../#l00074">DamageInfoStub::SetHitMask()</a>.</p>
-
-</div>
-</div>
-<a id="a3265aa4aa273cc9ededb6c9673f6c9e3" name="a3265aa4aa273cc9ededb6c9673f6c9e3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3265aa4aa273cc9ededb6c9673f6c9e3">&#9670;&#160;</a></span>WithOriginalDamage()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../df/dd3/a29492.html">DamageInfoStubBuilder</a> &amp; DamageInfoStubBuilder::WithOriginalDamage </td>
-          <td>(</td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>damage</em></td><td>)</td>
           <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  150</span>    {</div>
-<div class="line"><span class="lineno">  151</span>        <a class="code hl_variable" href="../../df/dd3/a29492.html#abf06c6b638dcd9489fa0e3d755433514">_stub</a>.<a class="code hl_function" href="../../d2/dc8/a29484.html#a2ec521265ea69e94924e10aad3fd1a6c">SetOriginalDamage</a>(damage);</div>
-<div class="line"><span class="lineno">  152</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  153</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  220</span>    {</div>
+<div class="line"><span class="lineno">  221</span>        <span class="keywordflow">if</span> (procFamilyName &amp;&amp; triggerSpell)</div>
+<div class="line"><span class="lineno">  222</span>        {</div>
+<div class="line"><span class="lineno">  223</span>            <span class="keywordflow">if</span> (procFamilyName != triggerSpell-&gt;SpellFamilyName)</div>
+<div class="line"><span class="lineno">  224</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  225</span> </div>
+<div class="line"><span class="lineno">  226</span>            <span class="keywordflow">if</span> (procFamilyMask)</div>
+<div class="line"><span class="lineno">  227</span>            {</div>
+<div class="line"><span class="lineno">  228</span>                <a class="code hl_class" href="../../d7/d68/a05848.html">flag96</a> triggerMask;</div>
+<div class="line"><span class="lineno">  229</span>                triggerMask[0] = triggerSpell-&gt;SpellFamilyFlags[0];</div>
+<div class="line"><span class="lineno">  230</span>                triggerMask[1] = triggerSpell-&gt;SpellFamilyFlags[1];</div>
+<div class="line"><span class="lineno">  231</span>                triggerMask[2] = triggerSpell-&gt;SpellFamilyFlags[2];</div>
+<div class="line"><span class="lineno">  232</span> </div>
+<div class="line"><span class="lineno">  233</span>                <span class="keywordflow">if</span> (!(triggerMask &amp; procFamilyMask))</div>
+<div class="line"><span class="lineno">  234</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  235</span>            }</div>
+<div class="line"><span class="lineno">  236</span>        }</div>
+<div class="line"><span class="lineno">  237</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  238</span>    }</div>
+<div class="ttc" id="aa05848_html"><div class="ttname"><a href="../../d7/d68/a05848.html">flag96</a></div><div class="ttdef"><b>Definition:</b> Util.h:442</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00200">_stub</a>, and <a class="el" href="../../#l00056">DamageInfoStub::SetOriginalDamage()</a>.</p>
-
-</div>
-</div>
-<a id="a76827724d8b8d780dc5d136ca01e51e6" name="a76827724d8b8d780dc5d136ca01e51e6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a76827724d8b8d780dc5d136ca01e51e6">&#9670;&#160;</a></span>WithResist()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../df/dd3/a29492.html">DamageInfoStubBuilder</a> &amp; DamageInfoStubBuilder::WithResist </td>
-          <td>(</td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>resist</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  180</span>    {</div>
-<div class="line"><span class="lineno">  181</span>        <a class="code hl_variable" href="../../df/dd3/a29492.html#abf06c6b638dcd9489fa0e3d755433514">_stub</a>.<a class="code hl_function" href="../../d2/dc8/a29484.html#a678124e67c82340eb16f4f62fecb08ad">SetResist</a>(resist);</div>
-<div class="line"><span class="lineno">  182</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  183</span>    }</div>
-<div class="ttc" id="aa29484_html_a678124e67c82340eb16f4f62fecb08ad"><div class="ttname"><a href="../../d2/dc8/a29484.html#a678124e67c82340eb16f4f62fecb08ad">DamageInfoStub::SetResist</a></div><div class="ttdeci">void SetResist(uint32_t resist)</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:58</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00200">_stub</a>, and <a class="el" href="../../#l00058">DamageInfoStub::SetResist()</a>.</p>
-
-</div>
-</div>
-<a id="ab540fcb56c4034daea104a1b844bdb3a" name="ab540fcb56c4034daea104a1b844bdb3a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab540fcb56c4034daea104a1b844bdb3a">&#9670;&#160;</a></span>WithSchoolMask()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../df/dd3/a29492.html">DamageInfoStubBuilder</a> &amp; DamageInfoStubBuilder::WithSchoolMask </td>
-          <td>(</td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>schoolMask</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  156</span>    {</div>
-<div class="line"><span class="lineno">  157</span>        <a class="code hl_variable" href="../../df/dd3/a29492.html#abf06c6b638dcd9489fa0e3d755433514">_stub</a>.<a class="code hl_function" href="../../d2/dc8/a29484.html#a93a42bde3254e00d2f78af0f95bcd83b">SetSchoolMask</a>(schoolMask);</div>
-<div class="line"><span class="lineno">  158</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  159</span>    }</div>
-<div class="ttc" id="aa29484_html_a93a42bde3254e00d2f78af0f95bcd83b"><div class="ttname"><a href="../../d2/dc8/a29484.html#a93a42bde3254e00d2f78af0f95bcd83b">DamageInfoStub::SetSchoolMask</a></div><div class="ttdeci">void SetSchoolMask(uint32_t schoolMask)</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:65</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00200">_stub</a>, and <a class="el" href="../../#l00065">DamageInfoStub::SetSchoolMask()</a>.</p>
-
-</div>
-</div>
-<a id="a681fe7d0c7f3b4136ad4ba2a662e6393" name="a681fe7d0c7f3b4136ad4ba2a662e6393"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a681fe7d0c7f3b4136ad4ba2a662e6393">&#9670;&#160;</a></span>WithSpellInfo()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../df/dd3/a29492.html">DamageInfoStubBuilder</a> &amp; DamageInfoStubBuilder::WithSpellInfo </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d41/a11604.html">SpellInfo</a> const *&#160;</td>
-          <td class="paramname"><em>spellInfo</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  168</span>    {</div>
-<div class="line"><span class="lineno">  169</span>        <a class="code hl_variable" href="../../df/dd3/a29492.html#abf06c6b638dcd9489fa0e3d755433514">_stub</a>.<a class="code hl_function" href="../../d2/dc8/a29484.html#a5bc50df8c1efcc1f7628f2707fcc06da">SetSpellInfo</a>(spellInfo);</div>
-<div class="line"><span class="lineno">  170</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><span class="lineno">  171</span>    }</div>
-<div class="ttc" id="aa29484_html_a5bc50df8c1efcc1f7628f2707fcc06da"><div class="ttname"><a href="../../d2/dc8/a29484.html#a5bc50df8c1efcc1f7628f2707fcc06da">DamageInfoStub::SetSpellInfo</a></div><div class="ttdeci">void SetSpellInfo(SpellInfo const *spellInfo)</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:70</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00200">_stub</a>, and <a class="el" href="../../#l00070">DamageInfoStub::SetSpellInfo()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00388">SpellInfo::SpellFamilyFlags</a>, and <a class="el" href="../../#l00387">SpellInfo::SpellFamilyName</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="abf06c6b638dcd9489fa0e3d755433514" name="abf06c6b638dcd9489fa0e3d755433514"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abf06c6b638dcd9489fa0e3d755433514">&#9670;&#160;</a></span>_stub</h2>
+<a id="a0b5925a6df47ba704bfc196cc89c4919" name="a0b5925a6df47ba704bfc196cc89c4919"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0b5925a6df47ba704bfc196cc89c4919">&#9670;&#160;</a></span>_context</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -514,7 +568,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/dc8/a29484.html">DamageInfoStub</a> DamageInfoStubBuilder::_stub</td>
+          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../d6/d34/a29488.html">ProcTestContext</a>&gt; AuraScriptProcTestFixture::_context</td>
         </tr>
       </table>
   </td>
@@ -524,7 +578,31 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00197">Build()</a>, <a class="el" href="../../#l00173">WithAbsorb()</a>, <a class="el" href="../../#l00161">WithAttackType()</a>, <a class="el" href="../../#l00185">WithBlock()</a>, <a class="el" href="../../#l00142">WithDamage()</a>, <a class="el" href="../../#l00191">WithHitMask()</a>, <a class="el" href="../../#l00149">WithOriginalDamage()</a>, <a class="el" href="../../#l00179">WithResist()</a>, <a class="el" href="../../#l00155">WithSchoolMask()</a>, and <a class="el" href="../../#l00167">WithSpellInfo()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00161">Context()</a>, and <a class="el" href="../../#l00145">SetUp()</a>.</p>
+
+</div>
+</div>
+<a id="a30ebff666ac835168f1bf7d6aa771e0c" name="a30ebff666ac835168f1bf7d6aa771e0c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a30ebff666ac835168f1bf7d6aa771e0c">&#9670;&#160;</a></span>_spellInfos</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt;<a class="el" href="../../d9/d60/a11636.html">SpellInfo</a>*&gt; AuraScriptProcTestFixture::_spellInfos</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00164">CreateSpellInfo()</a>, <a class="el" href="../../#l00145">SetUp()</a>, and <a class="el" href="../../#l00151">TearDown()</a>.</p>
 
 </div>
 </div>
@@ -533,8 +611,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/dd3/a29492.html">DamageInfoStubBuilder</a></li>
-    <li class="footer">Generated on Mon Feb 23 2026 21:15:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../df/dd3/a29492.html">AuraScriptProcTestFixture</a></li>
+    <li class="footer">Generated on Mon Mar 2 2026 21:04:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

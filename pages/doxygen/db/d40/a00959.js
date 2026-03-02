@@ -1,4 +1,4 @@
 var a00959 =
 [
-    [ "ScriptRegistry< AreaTriggerScript >", "db/d40/a00959.html#a0447158682f05ead25ae60d49a490088", null ]
+    [ "ScriptRegistry< WorldMapScript >", "db/d40/a00959.html#a729e333e6d0c4e5e353dd22c9612f446", null ]
 ];

@@ -1,7 +1,8 @@
 var a26788 =
 [
-    [ "HandleScriptEffect", "de/d84/a26788.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
-    [ "Load", "de/d84/a26788.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
-    [ "PrepareSpellScript", "de/d84/a26788.html#ade09cd376d00df8b5e709026e353f409", null ],
-    [ "Register", "de/d84/a26788.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
+    [ "CheckProc", "de/d84/a26788.html#acfdb90639eb05a5ec252c20c9f302fed", null ],
+    [ "HandleProc", "de/d84/a26788.html#aa2e48771627700ee12153b13a094cea8", null ],
+    [ "PrepareAuraScript", "de/d84/a26788.html#a0fec47a0918ecfe3517c63190b27e91c", null ],
+    [ "Register", "de/d84/a26788.html#a88b06e814ade33fad51c8036d963f654", null ],
+    [ "Validate", "de/d84/a26788.html#ae9911ba6c95cfc6c345743b0f970062b", null ]
 ];

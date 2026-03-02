@@ -1,6 +1,6 @@
 var a21268 =
 [
-    [ "npc_erekem_guardAI", "dc/d59/a21272.html", "dc/d59/a21272" ],
-    [ "npc_erekem_guard", "d6/d34/a21268.html#a78592996e90f77f81eec0325a7f11956", null ],
-    [ "GetAI", "d6/d34/a21268.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
+    [ "npc_frozen_orb_stalkerAI", "d6/d34/a21268.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
+    [ "JustSummoned", "d6/d34/a21268.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
+    [ "Reset", "d6/d34/a21268.html#a064ccb90afeb9b36d501850482c60bc4", null ]
 ];
