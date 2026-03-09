@@ -1,13 +1,19 @@
 var a15598 =
 [
-    [ "npc_tharnarianAI", "d1/dbe/a15598.html#a8e22d45f6420aa8079f8fb7150a2a53a", null ],
-    [ "Initialize", "d1/dbe/a15598.html#ad1d89491b42a56406273a04045e7e91d", null ],
-    [ "Reset", "d1/dbe/a15598.html#a7de1f46bee4e79effc5dbb405854a7da", null ],
-    [ "SetGUID", "d1/dbe/a15598.html#a8717a30828b91853ceba1b5e62126f29", null ],
-    [ "sGossipSelect", "d1/dbe/a15598.html#a33b5898def48e17ba27363b98f51849b", null ],
-    [ "UpdateAI", "d1/dbe/a15598.html#a1e58a89064bdfb69e4445db72184d8b3", null ],
-    [ "_bearGUID", "d1/dbe/a15598.html#af7a116b8226ddb51e9f0f118f2d8fa22", null ],
-    [ "_events", "d1/dbe/a15598.html#aff73052a4b7407d760af3dde09fa8a07", null ],
-    [ "_facing", "d1/dbe/a15598.html#ad2120fffc0ffa93d4fca1e9e8c0a4371", null ],
-    [ "_scriptRunning", "d1/dbe/a15598.html#a5be50b02cc8ce2e7b4dd334e923a7c10", null ]
+    [ "boss_bug_trio", "d1/dbe/a15598.html#acfef187b77a745686cb64bec64398dd4", null ],
+    [ "CheckInRoom", "d1/dbe/a15598.html#a9b78f1f7beee555460bd24338a25506d", null ],
+    [ "DamageTaken", "d1/dbe/a15598.html#a41e1d62badcad8d360983f07b4101f7e", null ],
+    [ "DoAction", "d1/dbe/a15598.html#a808939fbc1a9f2bc9e3a6dda5dce02f4", null ],
+    [ "DoFinalSpell", "d1/dbe/a15598.html#a46b943e5d5f5b0972b42edc4134c1f98", null ],
+    [ "EnterCombatWithTrio", "d1/dbe/a15598.html#af7d3159f505f5f3dd6e273d47fd9bc80", null ],
+    [ "EnterEvadeMode", "d1/dbe/a15598.html#ae6809cc35969618ecfaf1767e8c9ae92", null ],
+    [ "EvadeAllBosses", "d1/dbe/a15598.html#a09c60b117f2cb194eeb1a2b13b7e5d37", null ],
+    [ "JustDied", "d1/dbe/a15598.html#a2d4d6a43de7ce16b6cf5b7603fbacd87", null ],
+    [ "MovementInform", "d1/dbe/a15598.html#aa24ae95cbe50f24abef4ab4ac30278b8", null ],
+    [ "Reset", "d1/dbe/a15598.html#a8f07a98ed21c3e362bec3c8d3bd5ea09", null ],
+    [ "UpdateAI", "d1/dbe/a15598.html#a26896dd5f3f2e0ca6251bd96f8199e10", null ],
+    [ "_creatureDying", "d1/dbe/a15598.html#a89dbaf8c1bba75369b978dd366806bb4", null ],
+    [ "_dying", "d1/dbe/a15598.html#a4ad80d1c623a86396d180bc6a6f14bb5", null ],
+    [ "_isEating", "d1/dbe/a15598.html#a331eb32e0713aee8d5a84ed32c72de12", null ],
+    [ "_scheduler", "d1/dbe/a15598.html#a121d3abe2854c5b798ee1eebdaea699f", null ]
 ];

@@ -1,7 +1,7 @@
 var a21826 =
 [
-    [ "npc_warmage_violetstand", "dd/dcb/a21826.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "dd/dcb/a21826.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "dd/dcb/a21826.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "dd/dcb/a21826.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "FilterTargets", "dd/dcb/a21826.html#af62588a225f0b701a0f9321677ae22b8", null ],
+    [ "HandleScript", "dd/dcb/a21826.html#ad68fad08b2613de096e504bb7dea61cd", null ],
+    [ "PrepareSpellScript", "dd/dcb/a21826.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
+    [ "Register", "dd/dcb/a21826.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
 ];

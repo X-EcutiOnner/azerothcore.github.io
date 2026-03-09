@@ -1,7 +1,5 @@
 var a17646 =
 [
-    [ "HandleDummy", "d6/d87/a17646.html#a89c0706f21fe92fd443c3638181044ec", null ],
-    [ "PrepareSpellScript", "d6/d87/a17646.html#a957e29d2458fd90228ef9c53e997c642", null ],
-    [ "Register", "d6/d87/a17646.html#a250c95310503cd59d73e45a9b9372268", null ],
-    [ "Validate", "d6/d87/a17646.html#a1c67a262eb95def51661919a3bad3437", null ]
+    [ "at_tyrannus_event_starter", "d6/d87/a17646.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
+    [ "OnTrigger", "d6/d87/a17646.html#a8dcfce4cd24dbc45df987b4a9bfcbbc0", null ]
 ];

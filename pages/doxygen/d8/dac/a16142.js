@@ -1,6 +1,7 @@
 var a16142 =
 [
-    [ "boss_sartharionAI", "d4/d27/a16146.html", "d4/d27/a16146" ],
-    [ "boss_sartharion", "d8/dac/a16142.html#a6605aee69372d08fba8f4b4523896588", null ],
-    [ "GetAI", "d8/dac/a16142.html#aca5d66e0f5cdcafd6f9cd2c173f43839", null ]
+    [ "npc_toogaAI", "d4/d27/a16146.html", "d4/d27/a16146" ],
+    [ "npc_tooga", "d8/dac/a16142.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
+    [ "GetAI", "d8/dac/a16142.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
+    [ "OnQuestAccept", "d8/dac/a16142.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
 ];

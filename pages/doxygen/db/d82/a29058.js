@@ -1,10 +1,7 @@
 var a29058 =
 [
-    [ "ADTFile", "db/d82/a29058.html#a763f0f9c1106700987797864b2fdb006", null ],
-    [ "~ADTFile", "db/d82/a29058.html#ad1533f5b630a70b6ff95861e64960de0", null ],
-    [ "init", "db/d82/a29058.html#ab9ba3b1a2aac611bec5bfe4a454e4042", null ],
-    [ "_file", "db/d82/a29058.html#a7f3071e63be08fe3288d5ab03b5b8acf", null ],
-    [ "Adtfilename", "db/d82/a29058.html#a07c82112e26b96a87e22f1c7bec9c72e", null ],
-    [ "ModelInstanceNames", "db/d82/a29058.html#a6601e20fed78c54bb281ad3bd0ce7800", null ],
-    [ "WmoInstanceNames", "db/d82/a29058.html#acd96c287a01828bf3e49fb599a3b5d81", null ]
+    [ "bit_index", "db/d82/a29058.html#a1e5cb3fc001169a204507a084435a211", null ],
+    [ "ID", "db/d82/a29058.html#a63fe7a87e019780d20e86e48efb02eac", null ],
+    [ "nameFemale", "db/d82/a29058.html#ad0380caf2526715faaddc9330062d90a", null ],
+    [ "nameMale", "db/d82/a29058.html#a74a767731c96d3d815ddde5a06f68599", null ]
 ];

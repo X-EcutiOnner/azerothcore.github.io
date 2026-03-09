@@ -1,8 +1,11 @@
 var a30122 =
 [
-    [ "canLink", "de/d86/a30122.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
-    [ "categoryId", "de/d86/a30122.html#abf285e69e8e2a90626a157cb0c50d158", null ],
-    [ "id", "de/d86/a30122.html#a7740b26f1bde19a05b002c00eded25e3", null ],
-    [ "name", "de/d86/a30122.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
-    [ "spellIcon", "de/d86/a30122.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
+    [ "material", "de/d86/a30122.html#a7079e8817a9684602084eb224f2540fc", null ],
+    [ "pos_x", "de/d86/a30122.html#ac4d971cc46506be14716124afbb5ad9c", null ],
+    [ "pos_y", "de/d86/a30122.html#a6cd85f2a674d732e88371ffce5e46077", null ],
+    [ "pos_z", "de/d86/a30122.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
+    [ "xtiles", "de/d86/a30122.html#aca34dfa64624cfe04c314c13bbed0062", null ],
+    [ "xverts", "de/d86/a30122.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
+    [ "ytiles", "de/d86/a30122.html#a9901a7e9828ac840bc290b0768831d66", null ],
+    [ "yverts", "de/d86/a30122.html#abf24042b85692cd0df05d65d734dd99e", null ]
 ];

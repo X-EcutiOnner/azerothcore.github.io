@@ -1,9 +1,7 @@
 var a20082 =
 [
-    [ "npc_thorims_hammerAI", "df/db3/a20082.html#aafda36c8d784252d271ef031ab6a3d34", null ],
-    [ "Reset", "df/db3/a20082.html#a57975d0dc00c86946e547ba43c7151ec", null ],
-    [ "UpdateAI", "df/db3/a20082.html#a4e01a61d09c11647e06c3547d6fa91fa", null ],
-    [ "_beamTimer", "df/db3/a20082.html#aba7c6c078977a8187a7e673ba3126bfd", null ],
-    [ "_finishTime", "df/db3/a20082.html#a218bd28d18a2c2f0aef6906619437209", null ],
-    [ "_removeTimer", "df/db3/a20082.html#a958e4c975d1ae634745107af7d204f82", null ]
+    [ "HandleEffectRemove", "df/db3/a20082.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
+    [ "PrepareAuraScript", "df/db3/a20082.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
+    [ "Register", "df/db3/a20082.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
+    [ "Validate", "df/db3/a20082.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
 ];

@@ -1,7 +1,8 @@
 var a09014 =
 [
-    [ "IsFitToRequirements", "d3/d83/a09014.html#ac175634ed2eab2911c3749fa208a073a", null ],
-    [ "castFlags", "d3/d83/a09014.html#a03cd65a460ea252818de9230cb656c1c", null ],
-    [ "spellId", "d3/d83/a09014.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
-    [ "userType", "d3/d83/a09014.html#adcf285572403481cb418bddebc5f4bfa", null ]
+    [ "AttackPosition", "d3/d83/a09014.html#a6681bcab6c497d2c7fc6e5585f422744", null ],
+    [ "operator=", "d3/d83/a09014.html#a019fe5d4c053c1d6980789b7f97f6e54", null ],
+    [ "operator==", "d3/d83/a09014.html#a320adced006c0f70456492c9e9dc99c2", null ],
+    [ "_pos", "d3/d83/a09014.html#a77783e0e6e83836ad6e5903535ad9370", null ],
+    [ "_taken", "d3/d83/a09014.html#a113512b8ab66c879fd85c43263c3b7f1", null ]
 ];

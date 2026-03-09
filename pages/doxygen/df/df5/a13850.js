@@ -1,6 +1,8 @@
 var a13850 =
 [
-    [ "npc_ravenclaw_apparitionAI", "d3/d19/a13854.html", "d3/d19/a13854" ],
-    [ "npc_ravenclaw_apparition", "df/df5/a13850.html#a961044571250519e62d7d33633974038", null ],
-    [ "GetAI", "df/df5/a13850.html#a9de4a85f8318ff8b1ad30aa4c8f15765", null ]
+    [ "OnPeriodic", "df/df5/a13850.html#acd400b0a061d1814591e33d16bf4180a", null ],
+    [ "OnRemove", "df/df5/a13850.html#a3da85c726007690220e9b4f81d30f185", null ],
+    [ "PrepareAuraScript", "df/df5/a13850.html#a216d723f309ffa46df4bba7af79752c8", null ],
+    [ "Register", "df/df5/a13850.html#a43fe84c2717d73e20a2562f596a84f36", null ],
+    [ "Validate", "df/df5/a13850.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
 ];

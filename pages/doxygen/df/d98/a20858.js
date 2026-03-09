@@ -1,5 +1,6 @@
 var a20858 =
 [
-    [ "go_thorim_lever", "df/d98/a20858.html#a7641a89c3c369d26753a6e97dd435802", null ],
-    [ "OnGossipHello", "df/d98/a20858.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
+    [ "PrepareSpellScript", "df/d98/a20858.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
+    [ "Register", "df/d98/a20858.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
+    [ "SelectTarget", "df/d98/a20858.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
 ];

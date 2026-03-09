@@ -1,15 +1,16 @@
 var a11986 =
 [
-    [ "worldstate_commandscript", "d9/d02/a11986.html#aa409f7a2baed14a591d9567d1fb1ffcf", null ],
-    [ "GetCommands", "d9/d02/a11986.html#a9c2b9e6f00727da760ca2be2c0c1aff7", null ],
-    [ "HandleScourgeInvasionBattlesWonCommand", "d9/d02/a11986.html#a1c2167ce554327d674161b7c4f63585c", null ],
-    [ "HandleScourgeInvasionCommand", "d9/d02/a11986.html#a11aeedef82a93f8799fd788a8c492335", null ],
-    [ "HandleScourgeInvasionStartZone", "d9/d02/a11986.html#af242372bd32ed79d839af82f82423837", null ],
-    [ "HandleScourgeInvasionStateCommand", "d9/d02/a11986.html#a5ba0b973087f921dbb764037c8b36134", null ],
-    [ "HandleSunsReachReclamationCounterCommand", "d9/d02/a11986.html#a78ccd5fd1fe4562d93f69199112044d2", null ],
-    [ "HandleSunsReachReclamationPhaseCommand", "d9/d02/a11986.html#a4b7049c1c9932b098441a3af4d7cd03c", null ],
-    [ "HandleSunsReachReclamationStatusCommand", "d9/d02/a11986.html#a1534e35532bc29b8d03594af30e4cdfa", null ],
-    [ "HandleSunsReachReclamationSubPhaseCommand", "d9/d02/a11986.html#a2307687ae1d3cb3f6e5237af4d8f8595", null ],
-    [ "HandleSunwellGateCommand", "d9/d02/a11986.html#a45b73e47c8e9b21063d02922a83e103b", null ],
-    [ "HandleSunwellGateCounterCommand", "d9/d02/a11986.html#a805ab7fa1900feeb3e3034263c3a0a4d", null ]
+    [ "CheckContainer", "d9/d02/a11986.html#a08e083224760d2bca1996da9cd9cb014", null ],
+    [ "CheckResultContainer", "d9/d02/a11986.html#a6ce6feb03f6e0250bc03fea4612098df", null ],
+    [ "WardenCheckMgr", "d9/d02/a11986.html#a2de08c0613dd688f4bbbb4cc572f3d72", null ],
+    [ "~WardenCheckMgr", "d9/d02/a11986.html#a0d89190f580435337c328da4bf2497b8", null ],
+    [ "GetMaxValidCheckId", "d9/d02/a11986.html#a79926d8228c3252fc0eabe295f6e78a8", null ],
+    [ "GetWardenDataById", "d9/d02/a11986.html#a290e74857c1b1a50ced0a46b7477fa4c", null ],
+    [ "GetWardenResultById", "d9/d02/a11986.html#a8c06b4f57a84a8229ad1674a5048ced9", null ],
+    [ "instance", "d9/d02/a11986.html#aba9de1e123070338dc0049db8d8f0663", null ],
+    [ "LoadWardenChecks", "d9/d02/a11986.html#ad02847547a06d98c582d09992dce9d11", null ],
+    [ "LoadWardenOverrides", "d9/d02/a11986.html#a0a82e118a8f8236fecf1b00de0e2071c", null ],
+    [ "CheckIdPool", "d9/d02/a11986.html#ac1d20dec3028cdff0f475c4aff8af928", null ],
+    [ "CheckResultStore", "d9/d02/a11986.html#a4f0224b8377827aced304b28fdefbda7", null ],
+    [ "CheckStore", "d9/d02/a11986.html#aac59e154d81b838f27c577af87b86bd1", null ]
 ];

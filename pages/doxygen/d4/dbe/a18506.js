@@ -1,6 +1,7 @@
 var a18506 =
 [
-    [ "ModDestHeight", "d4/dbe/a18506.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
-    [ "PrepareSpellScript", "d4/dbe/a18506.html#a288f8917d73be30234e465778b1f6544", null ],
-    [ "Register", "d4/dbe/a18506.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
+    [ "HandleCast", "d4/dbe/a18506.html#aaa3262bc782e342825d4caba2954e95d", null ],
+    [ "PrepareSpellScript", "d4/dbe/a18506.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
+    [ "Register", "d4/dbe/a18506.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
+    [ "Validate", "d4/dbe/a18506.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
 ];

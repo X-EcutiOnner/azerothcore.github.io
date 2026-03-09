@@ -1,7 +1,6 @@
 var a20322 =
 [
-    [ "HandleAfterHit", "d6/d33/a20322.html#a75953cbb3a288fd373e602ed07d84441", null ],
-    [ "PrepareSpellScript", "d6/d33/a20322.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
-    [ "Register", "d6/d33/a20322.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
-    [ "Validate", "d6/d33/a20322.html#aea2b951dd2353800958f654df58d8fd8", null ]
+    [ "PrepareSpellScript", "d6/d33/a20322.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
+    [ "RecalculateDamage", "d6/d33/a20322.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
+    [ "Register", "d6/d33/a20322.html#af2b5382122be41a6b1ee4ab721b417da", null ]
 ];

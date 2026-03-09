@@ -1,7 +1,6 @@
 var a16574 =
 [
-    [ "HandleAfterHit", "de/dc6/a16574.html#a6fc446385881ddb4c94de73199649816", null ],
-    [ "PrepareSpellScript", "de/dc6/a16574.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
-    [ "Register", "de/dc6/a16574.html#aaae368b2f647aa6a56827550e50dafe1", null ],
-    [ "Validate", "de/dc6/a16574.html#ad4c84071b538b657fa1302982f8799b4", null ]
+    [ "npc_onyx_flamecallerAI", "d5/d9e/a16578.html", "d5/d9e/a16578" ],
+    [ "npc_onyx_flamecaller", "de/dc6/a16574.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
+    [ "GetAI", "de/dc6/a16574.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
 ];

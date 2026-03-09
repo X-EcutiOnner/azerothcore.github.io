@@ -1,6 +1,8 @@
 var a24626 =
 [
-    [ "DeathEvent", "d1/dbc/a24626.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "d1/dbc/a24626.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "d1/dbc/a24626.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "HandleEffectApply", "d1/dbc/a24626.html#a8134145c22b99c7b75537091c386bcd1", null ],
+    [ "HandleEffectRemove", "d1/dbc/a24626.html#a5d24ca41dcc75a11077da691abd902e0", null ],
+    [ "PrepareAuraScript", "d1/dbc/a24626.html#ae5f1b77a6aed21faf3ad9c168a8fcaa2", null ],
+    [ "Register", "d1/dbc/a24626.html#acff27aac4af2b0a0530348371fcb55b2", null ],
+    [ "Validate", "d1/dbc/a24626.html#af656fbf06181436bbb020282160c1293", null ]
 ];

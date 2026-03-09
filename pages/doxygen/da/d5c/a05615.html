@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Impl::StringConvertImpl::For&lt; bool, void &gt; Struct Reference</title>
+<title>AzerothCore: Member List</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('da/d5c/a05615.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('d4/dff/a05618.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,125 +104,60 @@ $(document).ready(function(){initNavTree('da/d5c/a05615.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="summary">
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="../../df/d16/a05612.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Impl::StringConvertImpl::For&lt; bool, void &gt; Struct Reference</div></div>
+  <div class="headertitle"><div class="title">Metric Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">StringConvert.h</a>&quot;</code></p>
-<table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:acfabf7e368302aa32ae96367f836edd2"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d5/d13/a04739.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d5c/a05615.html#acfabf7e368302aa32ae96367f836edd2">FromString</a> (std::string_view str, int strict=0)</td></tr>
-<tr class="separator:acfabf7e368302aa32ae96367f836edd2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3a97bead5d1614412948b41fe499d50c"><td class="memItemLeft" align="right" valign="top">static std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d5c/a05615.html#a3a97bead5d1614412948b41fe499d50c">ToString</a> (bool val)</td></tr>
-<tr class="separator:a3a97bead5d1614412948b41fe499d50c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="acfabf7e368302aa32ae96367f836edd2" name="acfabf7e368302aa32ae96367f836edd2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acfabf7e368302aa32ae96367f836edd2">&#9670;&#160;</a></span>FromString()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static <a class="el" href="../../d5/d13/a04739.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; bool &gt; <a class="el" href="../../db/de6/a05607.html">Acore::Impl::StringConvertImpl::For</a>&lt; bool, void &gt;::FromString </td>
-          <td>(</td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>str</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>strict</em> = <code>0</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   97</span>        {</div>
-<div class="line"><span class="lineno">   98</span>            <span class="keywordflow">if</span> (strict)</div>
-<div class="line"><span class="lineno">   99</span>            {</div>
-<div class="line"><span class="lineno">  100</span>                <span class="keywordflow">if</span> (str == <span class="stringliteral">&quot;1&quot;</span>)</div>
-<div class="line"><span class="lineno">  101</span>                {</div>
-<div class="line"><span class="lineno">  102</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  103</span>                }</div>
-<div class="line"><span class="lineno">  104</span>                <span class="keywordflow">if</span> (str == <span class="stringliteral">&quot;0&quot;</span>)</div>
-<div class="line"><span class="lineno">  105</span>                {</div>
-<div class="line"><span class="lineno">  106</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  107</span>                }</div>
-<div class="line"><span class="lineno">  108</span>                <span class="keywordflow">return</span> std::nullopt;</div>
-<div class="line"><span class="lineno">  109</span>            }</div>
-<div class="line"><span class="lineno">  110</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  111</span>            {</div>
-<div class="line"><span class="lineno">  112</span>                <span class="keywordflow">if</span> ((str == <span class="stringliteral">&quot;1&quot;</span>) || <a class="code hl_function" href="../../da/d9d/a04751.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str, <span class="stringliteral">&quot;y&quot;</span>) || <a class="code hl_function" href="../../da/d9d/a04751.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str, <span class="stringliteral">&quot;on&quot;</span>) || <a class="code hl_function" href="../../da/d9d/a04751.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str, <span class="stringliteral">&quot;yes&quot;</span>) || <a class="code hl_function" href="../../da/d9d/a04751.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str, <span class="stringliteral">&quot;true&quot;</span>))</div>
-<div class="line"><span class="lineno">  113</span>                {</div>
-<div class="line"><span class="lineno">  114</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  115</span>                }</div>
-<div class="line"><span class="lineno">  116</span>                <span class="keywordflow">if</span> ((str == <span class="stringliteral">&quot;0&quot;</span>) || <a class="code hl_function" href="../../da/d9d/a04751.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str, <span class="stringliteral">&quot;n&quot;</span>) || <a class="code hl_function" href="../../da/d9d/a04751.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str, <span class="stringliteral">&quot;off&quot;</span>) || <a class="code hl_function" href="../../da/d9d/a04751.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str, <span class="stringliteral">&quot;no&quot;</span>) || <a class="code hl_function" href="../../da/d9d/a04751.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str, <span class="stringliteral">&quot;false&quot;</span>))</div>
-<div class="line"><span class="lineno">  117</span>                {</div>
-<div class="line"><span class="lineno">  118</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  119</span>                }</div>
-<div class="line"><span class="lineno">  120</span>                <span class="keywordflow">return</span> std::nullopt;</div>
-<div class="line"><span class="lineno">  121</span>            }</div>
-<div class="line"><span class="lineno">  122</span>        }</div>
-<div class="ttc" id="aa04751_html_a131b997858d0d4c6825222d64948db73"><div class="ttname"><a href="../../da/d9d/a04751.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a></div><div class="ttdeci">bool StringEqualI(std::string_view a, std::string_view b)</div><div class="ttdef"><b>Definition:</b> Util.cpp:592</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00592">StringEqualI()</a>.</p>
-
-</div>
-</div>
-<a id="a3a97bead5d1614412948b41fe499d50c" name="a3a97bead5d1614412948b41fe499d50c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3a97bead5d1614412948b41fe499d50c">&#9670;&#160;</a></span>ToString()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static std::string <a class="el" href="../../db/de6/a05607.html">Acore::Impl::StringConvertImpl::For</a>&lt; bool, void &gt;::ToString </td>
-          <td>(</td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>val</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  125</span>        {</div>
-<div class="line"><span class="lineno">  126</span>            <span class="keywordflow">return</span> (val ? <span class="stringliteral">&quot;1&quot;</span> : <span class="stringliteral">&quot;0&quot;</span>);</div>
-<div class="line"><span class="lineno">  127</span>        }</div>
-</div><!-- fragment -->
-</div>
-</div>
-</div><!-- contents -->
+<p>This is the complete list of members for <a class="el" href="../../d4/dff/a05618.html">Metric</a>, including all inherited members.</p>
+<table class="directory">
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#aff2c5e8ffb475ad21f0aa65628ff570c">_batchTimer</a></td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a733fad863e25309ae91b241c7847eb0d">_bucket</a></td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a3c96e42f0a86453dc634367e701f5d1a">_databaseName</a></td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a1063712aaca72d92ec956faca429367e">_dataStream</a></td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a9cd2480c3f41c12433a663faa88d1ed5">_enabled</a></td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a069ffe856af041ad52e7a3457a879f1c">_hostname</a></td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#ac79c40752899dfe70aa873259a6ea0ac">_org</a></td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a7cedc55a1862c055a0a78e2230890920">_overallStatusLogger</a></td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#aaae9789c14c301c4d4568755c1e879cd">_overallStatusTimer</a></td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a5f5943d40f6a4e0d1f3694aca6acd630">_overallStatusTimerInterval</a></td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a5ac9faa55dc2f33cde3ff872d58127ec">_overallStatusTimerTriggered</a></td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a28bb6c659cf9d832a85d3853f4a2a416">_port</a></td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#ae178c518e4b2717168816252a6c64e29">_queuedData</a></td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a66247a532448986aee8f1f59696f34b8">_realmName</a></td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#aedac5a2cafadfd12328cb2c6ae8e3d3c">_thresholds</a></td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#ad3b2998c526a8c571a32cb3c7a8e7c73">_token</a></td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a64a3abc9f45f3e2f0d07da6e4ab51d9c">_updateInterval</a></td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#ae8672bad01631983ee33c967d20426e8">_useV2</a></td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#aa173ee54d8df0fb98c1bec718c8776cd">Connect</a>()</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a22934a06eb31e77c7ae3e26265a12272">FormatInfluxDBTagValue</a>(std::string const &amp;value)</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#ad211fc8a237f4c61a2f06d0d1bb42858">FormatInfluxDBValue</a>(bool value)</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#ae53d7439e7b057177d9a1034e957d097">FormatInfluxDBValue</a>(T value)</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a922ffc0d5ba8f995f7a9db1cb1a12927">FormatInfluxDBValue</a>(std::string const &amp;value)</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#ad504fad839c6cda7e164d535fee23039">FormatInfluxDBValue</a>(char const *value)</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a268b52607a8f1551d5b4c58b71119902">FormatInfluxDBValue</a>(double value)</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a1474d1913f1db34a25d318b46e21a2b2">FormatInfluxDBValue</a>(float value)</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a4f6b404ac54599df1d655169696e3685">FormatInfluxDBValue</a>(std::chrono::nanoseconds value)</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a78b6bab30c34900ed4ba71521cd099e1">GetDataStream</a>()</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a92fe5c4df90ee484294ccdd581224fc7">Initialize</a>(std::string const &amp;realmName, Acore::Asio::IoContext &amp;ioContext, std::function&lt; void()&gt; overallStatusLogger)</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a5013a4cfaa8e40a739e9f7439efae575">instance</a>()</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#adab48e64baf463bb397018dec458a44a">IsEnabled</a>() const</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#ae104eda6b396c24e00e36afb829c5e2d">LoadFromConfigs</a>()</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#ae311ec37fcee62549ea1bc95462deb12">LogEvent</a>(std::string const &amp;category, std::string const &amp;title, std::string const &amp;description)</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a4bf949c419e470c108fbcbe8611de406">LogValue</a>(std::string const &amp;category, T value, std::vector&lt; MetricTag &gt; tags)</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a5a3d74daf5dcaf419ef9e58360d7bfe7">Metric</a>()</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a57334426f5b1e719de6619f14fb602eb">ScheduleOverallStatusLog</a>()</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a124025419c5b48f64d67e0a77d9c17f0">ScheduleSend</a>()</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a7212053ff45ef4091c3e2eebff3538ac">SendBatch</a>()</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#abc7b0f5520cdd605275da65b3eaeadcc">ShouldLog</a>(std::string const &amp;category, int64 value) const</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a9009801fac483699b59e2682568ef859">Unload</a>()</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#a75fa6f12f59a26d52d01bad17b6ae97b">Update</a>()</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/dff/a05618.html#adc8e82a2fb75a49918fcf020b0d4ded7">~Metric</a>()</td><td class="entry"><a class="el" href="../../d4/dff/a05618.html">Metric</a></td><td class="entry"></td></tr>
+</table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../da/d47/a04824.html">Acore</a></li><li class="navelem"><a class="el" href="../../da/d70/a04836.html">Impl</a></li><li class="navelem"><a class="el" href="../../de/d25/a04846.html">StringConvertImpl</a></li><li class="navelem"><a class="el" href="../../da/d5c/a05615.html">For&lt; bool, void &gt;</a></li>
-    <li class="footer">Generated on Mon Dec 29 2025 20:51:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Mar 9 2026 21:04:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

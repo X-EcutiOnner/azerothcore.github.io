@@ -1,7 +1,9 @@
 var a28074 =
 [
-    [ "cutPercent", "d1/d09/a28074.html#a8581a6a5198dab10680f477a477a7c80", null ],
-    [ "depositPercent", "d1/d09/a28074.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
-    [ "faction", "d1/d09/a28074.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
-    [ "houseId", "d1/d09/a28074.html#a1bf77c1b14731def0e3de44143df2eed", null ]
+    [ "emerald_dragonAI", "d1/d09/a28074.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
+    [ "ExecuteEvent", "d1/d09/a28074.html#a6e60f146c7b86a119f269bf755831ac6", null ],
+    [ "JustSummoned", "d1/d09/a28074.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
+    [ "KilledUnit", "d1/d09/a28074.html#a69b24bf865ecd38822d5602314cddf11", null ],
+    [ "Reset", "d1/d09/a28074.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
+    [ "UpdateAI", "d1/d09/a28074.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
 ];

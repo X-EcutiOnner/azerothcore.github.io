@@ -1,5 +1,5 @@
 var a05358 =
 [
-    [ "Head", "db/d62/a05358.html#ac5c6d38e71241055f58984e88368494a", null ],
-    [ "Tail", "db/d62/a05358.html#a8b16ba737e930ebc023b8cea8231f678", null ]
+    [ "argument_type", "db/d62/a05358.html#ad0011a133ce27e947c35917314e60693", null ],
+    [ "result_type", "db/d62/a05358.html#a6dcbf6789c1565b95f16de3d580118a9", null ]
 ];

@@ -1,7 +1,9 @@
 var a12406 =
 [
-    [ "go_suppression_deviceAI", "d8/dec/a12410.html", "d8/dec/a12410" ],
-    [ "go_suppression_device", "dd/d3d/a12406.html#a900713d6b029015f8868a96e5e1b9018", null ],
-    [ "GetAI", "dd/d3d/a12406.html#aa51bb6f9616022c1f4e1e711ca1130e8", null ],
-    [ "OnLootStateChanged", "dd/d3d/a12406.html#a684546c3ce0c0785d52a87eb011ef313", null ]
+    [ "npc_burning_spiritAI", "dd/d3d/a12406.html#a52f63423d09794446b0c01da2feb325d", null ],
+    [ "EnterEvadeMode", "dd/d3d/a12406.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
+    [ "IsSummonedBy", "dd/d3d/a12406.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
+    [ "MovementInform", "dd/d3d/a12406.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
+    [ "_events", "dd/d3d/a12406.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
+    [ "_flamelasherGUID", "dd/d3d/a12406.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
 ];

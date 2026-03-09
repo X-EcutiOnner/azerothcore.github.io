@@ -1,5 +1,7 @@
 var a20142 =
 [
-    [ "FlameLeviathanPursuedTargetSelector", "da/d98/a20142.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
-    [ "operator()", "da/d98/a20142.html#aaa2a49366fb651f7486b463ce597f364", null ]
+    [ "HandleDummyEffect", "da/d98/a20142.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
+    [ "PrepareSpellScript", "da/d98/a20142.html#a84a4f52928873e58b1fc49e783c5083a", null ],
+    [ "Register", "da/d98/a20142.html#a90c00bcb1768d696addab407425e406a", null ],
+    [ "SelectTarget", "da/d98/a20142.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
 ];

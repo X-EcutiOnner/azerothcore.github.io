@@ -1,10 +1,7 @@
 var a13774 =
 [
-    [ "npc_partygoer_pather", "d5/db6/a13774.html#a15a0e517e8671afb9d636ebe781a4bcd", null ],
-    [ "Initialize", "d5/db6/a13774.html#afb114b0587c550e39c41e131364da663", null ],
-    [ "PathEndReached", "d5/db6/a13774.html#a55833d306716ba411f96ecd024cc7c72", null ],
-    [ "Reset", "d5/db6/a13774.html#ade2cc36ff49001138eee5b607ec83b12", null ],
-    [ "UpdateAI", "d5/db6/a13774.html#a4d222399b6b789e7a2a2faa4765116a6", null ],
-    [ "_events", "d5/db6/a13774.html#ac210dc0286ded980e78743237a08bb23", null ],
-    [ "_path", "d5/db6/a13774.html#a4da184c44858e99eca2b07193fd48f13", null ]
+    [ "CheckCast", "d5/db6/a13774.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
+    [ "PrepareSpellScript", "d5/db6/a13774.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
+    [ "Register", "d5/db6/a13774.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
+    [ "Validate", "d5/db6/a13774.html#a9208b9c010bb9cc379c195939351aa45", null ]
 ];

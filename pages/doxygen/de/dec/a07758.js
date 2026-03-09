@@ -1,10 +1,20 @@
 var a07758 =
 [
-    [ "storage_type", "de/dec/a07758.html#a054c554d9d812e571455bce39655a9ac", null ],
-    [ "value_type", "de/dec/a07758.html#a5c55c97d4dd08c5e71563596e0c59111", null ],
-    [ "operator value_type", "de/dec/a07758.html#a2d439c3664d398cebfc503b2769bfa9c", null ],
-    [ "operator*", "de/dec/a07758.html#a9d4cf547beb996e5945acb84f5305200", null ],
-    [ "operator->", "de/dec/a07758.html#afb5bb4e6e4a32db89e3b8a68e9c0d901", null ],
-    [ "TryConsume", "de/dec/a07758.html#a57892ca7457ca93bdcdbbb8309311c8f", null ],
-    [ "val", "de/dec/a07758.html#aef50fdfc79df3ca784eb90a69bd43076", null ]
+    [ "ChannelMap", "de/dec/a07758.html#a84c686f095464d67f750309244a47ba5", null ],
+    [ "ChannelRightsMap", "de/dec/a07758.html#a4e153c81aede8182160b0a5ab89e5b4b", null ],
+    [ "ChannelMgr", "de/dec/a07758.html#aa671334be6933f374466666ec5c6cc46", null ],
+    [ "~ChannelMgr", "de/dec/a07758.html#a2f9099cf528aacae9110d349841e57a7", null ],
+    [ "forTeam", "de/dec/a07758.html#a62fd837572c3c88d8848115c98587401", null ],
+    [ "GetChannel", "de/dec/a07758.html#a89dbd4095eeeb79ae59947beb2d2cd17", null ],
+    [ "GetChannelRightsFor", "de/dec/a07758.html#a5cc03c09dfc33a89d3d4f59d1e92d757", null ],
+    [ "GetJoinChannel", "de/dec/a07758.html#a92540d37b38ccc032665fa220349a4ec", null ],
+    [ "LoadChannelRights", "de/dec/a07758.html#a4fa043d2c61f5013d62b192d46bd453a", null ],
+    [ "LoadChannels", "de/dec/a07758.html#a73e822c758aacb7f959407b100b9aff6", null ],
+    [ "MakeNotOnPacket", "de/dec/a07758.html#ae85b95eac40037d5066efa17fb484bc5", null ],
+    [ "SetChannelRightsFor", "de/dec/a07758.html#a1d672ab806b5e00bdd96d3a56fe3520b", null ],
+    [ "_channelIdMax", "de/dec/a07758.html#a41bbe928d2e50c899a10b4b7da0e1a68", null ],
+    [ "_teamId", "de/dec/a07758.html#a1ac5de545c0cb91088176fae883748ed", null ],
+    [ "channelRightsEmpty", "de/dec/a07758.html#aecb848ba8e3cfa8ccdb84a1f62a26ab9", null ],
+    [ "channels", "de/dec/a07758.html#a823810bd463e51a0fb007712717f13dd", null ],
+    [ "channels_rights", "de/dec/a07758.html#adfc7c2e0156b2dc290c1c0f307a6911f", null ]
 ];

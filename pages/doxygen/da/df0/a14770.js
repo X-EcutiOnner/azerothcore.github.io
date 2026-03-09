@@ -1,6 +1,7 @@
 var a14770 =
 [
-    [ "HandleScriptEffect", "da/df0/a14770.html#aebd700897688157ca62405c92fe58680", null ],
-    [ "PrepareSpellScript", "da/df0/a14770.html#a09e11d1938279a2302fb8805e71c6c36", null ],
-    [ "Register", "da/df0/a14770.html#aa0679665ba2c496e0a5aa5f6864d7230", null ]
+    [ "go_direbrew_mole_machineAI", "da/df0/a14770.html#a4e667ad9e572e93c045ae01f63bea648", null ],
+    [ "Reset", "da/df0/a14770.html#a32dd801b5d898fd8634edcb6cae52bdf", null ],
+    [ "UpdateAI", "da/df0/a14770.html#a2eaa8a0ad0907e4aa497a7e1c3a31b29", null ],
+    [ "_scheduler", "da/df0/a14770.html#a5960ff83f21cf5964f422e3a7b297f22", null ]
 ];

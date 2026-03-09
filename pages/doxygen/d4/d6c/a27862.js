@@ -1,6 +1,8 @@
 var a27862 =
 [
-    [ "npc_locksmith", "d4/d6c/a27862.html#af959a6395ebc33109405f18f262e4ecb", null ],
-    [ "OnGossipHello", "d4/d6c/a27862.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
-    [ "OnGossipSelect", "d4/d6c/a27862.html#a62ec02e226255ff1f81895391a6494b8", null ]
+    [ "HandleEffect", "d4/d6c/a27862.html#a1c1a06362742abcf83e1817c468de3d3", null ],
+    [ "PrepareSpellScript", "d4/d6c/a27862.html#a0e2cce13a3b2c8b8e9ace8876def8b9c", null ],
+    [ "Register", "d4/d6c/a27862.html#a56108b37bc69809ce80d424e2bcb3f55", null ],
+    [ "SendMiss", "d4/d6c/a27862.html#afda727460aebc8fe97d5c18d0195ea2c", null ],
+    [ "Validate", "d4/d6c/a27862.html#ab9533351a176f4e0d641a6e36a75d6b9", null ]
 ];

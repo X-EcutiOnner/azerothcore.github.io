@@ -1,7 +1,5 @@
 var a27974 =
 [
-    [ "HandleDummy", "d3/d29/a27974.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
-    [ "PrepareSpellScript", "d3/d29/a27974.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
-    [ "Register", "d3/d29/a27974.html#a66c530b497e4952b457bbfa50a036c07", null ],
-    [ "Validate", "d3/d29/a27974.html#a968333dcfe0553ad73879f3042db5511", null ]
+    [ "achievement_bg_ic_glaive_grave", "d3/d29/a27974.html#a97e1cead0102a120b3bd14592ea26034", null ],
+    [ "OnCheck", "d3/d29/a27974.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
 ];

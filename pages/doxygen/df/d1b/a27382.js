@@ -1,6 +1,6 @@
 var a27382 =
 [
-    [ "boss_emerissAI", "dd/d50/a27386.html", "dd/d50/a27386" ],
-    [ "boss_emeriss", "df/d1b/a27382.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "df/d1b/a27382.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "FilterTargets", "df/d1b/a27382.html#ac157503562ac3ef9ddba2c358595ecc5", null ],
+    [ "PrepareSpellScript", "df/d1b/a27382.html#af41d6353088c5565b0027265c9bd4d8b", null ],
+    [ "Register", "df/d1b/a27382.html#a95e386af9016e598e932177cb400fd8b", null ]
 ];

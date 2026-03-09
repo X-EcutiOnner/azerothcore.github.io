@@ -1,6 +1,6 @@
 var a28186 =
 [
-    [ "color", "d8/d90/a28186.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
-    [ "ID", "d8/d90/a28186.html#ac125147c2dc5546a0116f48e08f36e59", null ],
-    [ "spellitemenchantement", "d8/d90/a28186.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
+    [ "go_flamesAI", "d8/d90/a28186.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
+    [ "UpdateAI", "d8/d90/a28186.html#a2d4c91f0bff924335881d1096c0af313", null ],
+    [ "timer", "d8/d90/a28186.html#ae53c7c6c669e982babf304f173b58b1a", null ]
 ];

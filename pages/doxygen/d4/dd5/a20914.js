@@ -1,6 +1,10 @@
 var a20914 =
 [
-    [ "npc_xt002_boombotAI", "d2/d22/a20918.html", "d2/d22/a20918" ],
-    [ "npc_xt002_boombot", "d4/dd5/a20914.html#a6e2f7dd0d26d140a5b73b0f66ea434af", null ],
-    [ "GetAI", "d4/dd5/a20914.html#a27237e7a60042ed7163b19d80537c1b3", null ]
+    [ "boss_yoggsaron_constrictor_tentacle", "d4/dd5/a20914.html#a3206b641b6c6dffdabb8cacc09ac564a", null ],
+    [ "DoAction", "d4/dd5/a20914.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
+    [ "JustDied", "d4/dd5/a20914.html#aac8f5a80248c4616074e7ef88fb10395", null ],
+    [ "SelectConstrictTarget", "d4/dd5/a20914.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
+    [ "UpdateAI", "d4/dd5/a20914.html#a930b35c2385ba2977f2f2da3b4b38f07", null ],
+    [ "_checkTimer", "d4/dd5/a20914.html#aa6c76606c7c9e6ee71e94433cb721f96", null ],
+    [ "_playerGUID", "d4/dd5/a20914.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
 ];

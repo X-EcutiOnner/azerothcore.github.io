@@ -1,6 +1,6 @@
 var a14070 =
 [
-    [ "go", "d2/d0c/a14070.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
-    [ "npc", "d2/d0c/a14070.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
-    [ "pos", "d2/d0c/a14070.html#a51175880a326101b29879d7a6a62c48d", null ]
+    [ "npc_augustus_the_touched", "d2/d0c/a14070.html#abc84c884345f44cf780410569cdee10c", null ],
+    [ "OnGossipHello", "d2/d0c/a14070.html#a81e0d4f2aaa685cd5231ea430c86e7b4", null ],
+    [ "OnGossipSelect", "d2/d0c/a14070.html#a992da9b22693c1fac1148b4ba545b819", null ]
 ];

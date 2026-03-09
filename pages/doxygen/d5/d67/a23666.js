@@ -1,7 +1,8 @@
 var a23666 =
 [
-    [ "OnApply", "d5/d67/a23666.html#a301e47da9be4b4a449701c59c19bc62b", null ],
-    [ "PrepareAuraScript", "d5/d67/a23666.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
-    [ "Register", "d5/d67/a23666.html#aaf38547f7fa233b03429734dbe374f13", null ],
-    [ "Validate", "d5/d67/a23666.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
+    [ "npc_warchief_portal", "d5/d67/a23666.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "d5/d67/a23666.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "d5/d67/a23666.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "d5/d67/a23666.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "d5/d67/a23666.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

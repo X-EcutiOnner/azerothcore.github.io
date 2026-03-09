@@ -1,9 +1,6 @@
 var a19234 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "d3/d50/a19234.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
-    [ "KilledUnit", "d3/d50/a19234.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
-    [ "Reset", "d3/d50/a19234.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
-    [ "UpdateAI", "d3/d50/a19234.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
-    [ "auraVisualTimer", "d3/d50/a19234.html#a74aea4294c26414d3b60983d14d36e31", null ],
-    [ "sizeTimer", "d3/d50/a19234.html#a73f775b30ad36a595e0d8532067ba042", null ]
+    [ "PrepareSpellScript", "d3/d50/a19234.html#aac12da39c503615036120e3e0cd55622", null ],
+    [ "Register", "d3/d50/a19234.html#a808d2283be9714c14f22a2df0a52dd61", null ],
+    [ "RelocateDest", "d3/d50/a19234.html#a843c9dc403404ddd2de667e57e01f00c", null ]
 ];

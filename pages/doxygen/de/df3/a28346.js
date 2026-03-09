@@ -1,8 +1,10 @@
 var a28346 =
 [
-    [ "ID", "de/df3/a28346.html#a36958c346c8554d9ab1cfb73ac583818", null ],
-    [ "Model", "de/df3/a28346.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
-    [ "Origin", "de/df3/a28346.html#a684c69add50ee545ee606ae456a93336", null ],
-    [ "OriginFacing", "de/df3/a28346.html#a460723250353c7720cd87677991283cf", null ],
-    [ "SoundID", "de/df3/a28346.html#aa56be05c7ab4015738e049d75ff365c6", null ]
+    [ "guard_shattrath_scryerAI", "de/df3/a28346.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "de/df3/a28346.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "de/df3/a28346.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "de/df3/a28346.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "de/df3/a28346.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "de/df3/a28346.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "de/df3/a28346.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

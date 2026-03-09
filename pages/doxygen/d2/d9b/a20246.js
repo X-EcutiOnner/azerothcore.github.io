@@ -1,7 +1,5 @@
 var a20246 =
 [
-    [ "boss_freya_lifebinderAI", "d2/d9b/a20246.html#ae421aa209690e4a2908995b6b7d322cd", null ],
-    [ "Reset", "d2/d9b/a20246.html#a972bd7d390d444e0ea2bc513d5d3816a", null ],
-    [ "UpdateAI", "d2/d9b/a20246.html#afb06c217c1012d6463e44689359eada9", null ],
-    [ "_healTimer", "d2/d9b/a20246.html#a7021d13dceb9af343f0e820cf086046e", null ]
+    [ "boss_flame_leviathan_overload_device", "d2/d9b/a20246.html#a6cd506d0615b1db9d42bf4d4858f6b05", null ],
+    [ "OnSpellClick", "d2/d9b/a20246.html#a3f313a637fd95e28db1265ae84f349a8", null ]
 ];

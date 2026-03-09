@@ -1,6 +1,6 @@
 var a14470 =
 [
-    [ "PeriodicTick", "d7/d74/a14470.html#a0832c36a9497674374b2998398bfc3a4", null ],
-    [ "PrepareAuraScript", "d7/d74/a14470.html#a89acb64235da1ff59da90a509fbeec9d", null ],
-    [ "Register", "d7/d74/a14470.html#aab689a2cb84dcd064736171035640584", null ]
+    [ "boss_gahzranka", "d7/d74/a14470.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "d7/d74/a14470.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "d7/d74/a14470.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

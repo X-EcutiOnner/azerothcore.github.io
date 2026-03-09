@@ -1,7 +1,7 @@
 var a10746 =
 [
-    [ "GuildBankActivate", "d2/d13/a10746.html#a5b27541a26ada694d9635f6d6873ef20", null ],
-    [ "Read", "d2/d13/a10746.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
-    [ "Banker", "d2/d13/a10746.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
-    [ "FullUpdate", "d2/d13/a10746.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
+    [ "AutoBankItem", "d2/d13/a10746.html#a02d39ddc9eda90be709b2fa9c1f6023d", null ],
+    [ "Read", "d2/d13/a10746.html#a8651192c6040cdf5d257c134dde1208c", null ],
+    [ "Bag", "d2/d13/a10746.html#a69f9b65ecb778c94c6e9278e5f98d31b", null ],
+    [ "Slot", "d2/d13/a10746.html#a970f2ca85a76de1a25ad40a9ebf0029f", null ]
 ];

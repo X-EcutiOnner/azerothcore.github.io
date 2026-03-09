@@ -1,6 +1,10 @@
 var a18310 =
 [
-    [ "npc_rimefangAI", "dd/da8/a18314.html", "dd/da8/a18314" ],
-    [ "npc_rimefang", "d1/d6d/a18310.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
-    [ "GetAI", "d1/d6d/a18310.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
+    [ "npc_bone_spikeAI", "d1/d6d/a18310.html#a1b54aaa7b5ed142561fbc02e9593e87c", null ],
+    [ "DoAction", "d1/d6d/a18310.html#a38b2944fb4e9d7fcc7205423faa8a994", null ],
+    [ "IsSummonedBy", "d1/d6d/a18310.html#af2794484ee3ebf0579ce7357d222240d", null ],
+    [ "JustDied", "d1/d6d/a18310.html#ae9c8fa649ba9fac74187913d29be9dd6", null ],
+    [ "UpdateAI", "d1/d6d/a18310.html#a8eff2bcc6507c65e563ed272977f224e", null ],
+    [ "events", "d1/d6d/a18310.html#a6a35900435d41d0603919f29415667a5", null ],
+    [ "hasTrappedUnit", "d1/d6d/a18310.html#aeb7236ef0d313fd3799458f3d50276f7", null ]
 ];

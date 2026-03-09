@@ -1,7 +1,8 @@
 var a13342 =
 [
-    [ "HandleAfterCast", "d6/d72/a13342.html#afa662fbe1b777047259ac6212961f7a5", null ],
-    [ "HandleScript", "d6/d72/a13342.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
-    [ "PrepareSpellScript", "d6/d72/a13342.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
-    [ "Register", "d6/d72/a13342.html#a4a898b0b096583af33f1f691a252b2ed", null ]
+    [ "CheckProc", "d6/d72/a13342.html#a085f6affd2bf76fe66f9023e67725848", null ],
+    [ "HandleProc", "d6/d72/a13342.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
+    [ "PrepareAuraScript", "d6/d72/a13342.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
+    [ "Register", "d6/d72/a13342.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
+    [ "Validate", "d6/d72/a13342.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
 ];

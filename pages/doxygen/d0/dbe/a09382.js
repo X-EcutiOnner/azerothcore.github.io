@@ -1,10 +1,14 @@
 var a09382 =
 [
-    [ "MostHPPercentMissingInRange", "d0/dbe/a09382.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
-    [ "operator()", "d0/dbe/a09382.html#ab1734490a3db95ad715756e85ecfaf77", null ],
-    [ "i_hpPct", "d0/dbe/a09382.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
-    [ "i_maxHpPct", "d0/dbe/a09382.html#afd12795ef0cd99e05e4e21f869582416", null ],
-    [ "i_minHpPct", "d0/dbe/a09382.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
-    [ "i_obj", "d0/dbe/a09382.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
-    [ "i_range", "d0/dbe/a09382.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
+    [ "areaMapOffset", "d0/dbe/a09382.html#a70f82337112bb8cbff0b3344666885a1", null ],
+    [ "areaMapSize", "d0/dbe/a09382.html#adfbbb622974b7942f47dd16d2300246f", null ],
+    [ "buildMagic", "d0/dbe/a09382.html#a82d0f500f9e84cf6c8bf917a98f92115", null ],
+    [ "heightMapOffset", "d0/dbe/a09382.html#a7623bee6b8cf7d6e39b8716aa72f8514", null ],
+    [ "heightMapSize", "d0/dbe/a09382.html#a71c9cd42801697a927543e3acd4c3daf", null ],
+    [ "holesOffset", "d0/dbe/a09382.html#a876d70dcd6ccec9ad09de77718c02150", null ],
+    [ "holesSize", "d0/dbe/a09382.html#a3c3cc1895a47dc69265f4b58166c3f6b", null ],
+    [ "liquidMapOffset", "d0/dbe/a09382.html#ac62deafcc7b435caf4a0f6aafd3d85be", null ],
+    [ "liquidMapSize", "d0/dbe/a09382.html#a5aa18af3a8e029e8842ddf72fc5d5267", null ],
+    [ "mapMagic", "d0/dbe/a09382.html#a2691fbc981b2ed5e1d748cd9c0859548", null ],
+    [ "versionMagic", "d0/dbe/a09382.html#abe722f653ba057fbba84401acbaffbfa", null ]
 ];

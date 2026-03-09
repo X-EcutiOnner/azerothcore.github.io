@@ -1,7 +1,8 @@
 var a24390 =
 [
-    [ "o", "d2/d14/a24390.html#a3785e9b55ea3a7140086ce1f86232109", null ],
-    [ "x", "d2/d14/a24390.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
-    [ "y", "d2/d14/a24390.html#a10fbad67977d8dd3911eb629c1797684", null ],
-    [ "z", "d2/d14/a24390.html#a69fc2438e52f6c0de3af13900ff38166", null ]
+    [ "npc_pet_gen_valkyr_guardian", "d2/d14/a24390.html#a546f0b0b4273de8216e9f688c2d68209", null ],
+    [ "InitializeAI", "d2/d14/a24390.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
+    [ "OwnerAttacked", "d2/d14/a24390.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
+    [ "UpdateAI", "d2/d14/a24390.html#a9a5a233763365c6cca5618459a23a816", null ],
+    [ "targetCheck", "d2/d14/a24390.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
 ];

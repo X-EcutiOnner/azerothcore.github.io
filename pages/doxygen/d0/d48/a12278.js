@@ -1,12 +1,11 @@
 var a12278 =
 [
-    [ "boss_pyroguard_emberseerAI", "d0/d48/a12278.html#ac08deea0d151d109f36bb3cf66a34f29", null ],
-    [ "JustDied", "d0/d48/a12278.html#aa35fc50d327c0bf7506bfd166d098522", null ],
-    [ "JustEngagedWith", "d0/d48/a12278.html#a9eff335ff04e3da1e4488e00b55ecbaa", null ],
-    [ "OpenDoors", "d0/d48/a12278.html#a8002f8d7b6b06b970d38d9824d57d737", null ],
-    [ "Reset", "d0/d48/a12278.html#ab82a2bc6e9596d14dd2fd65b859af74d", null ],
-    [ "SetData", "d0/d48/a12278.html#a5892ccaf9107e2da47c22c21bf5b2ed9", null ],
-    [ "SpellHit", "d0/d48/a12278.html#a236f20c40eb1c37a25b04b5cf83e2488", null ],
-    [ "UpdateAI", "d0/d48/a12278.html#a075147c4409174652e732293426b732d", null ],
-    [ "UpdateRunes", "d0/d48/a12278.html#a87d7d63893a9feb6bb6c44adf1c637eb", null ]
+    [ "spectator_commandscript", "d0/d48/a12278.html#a1bf79d739a6af02405bc268c9bb50c26", null ],
+    [ "GetCommands", "d0/d48/a12278.html#a3451bcda07b51a33fd8368cf00ac190f", null ],
+    [ "HandleSpectatorCommand", "d0/d48/a12278.html#aaf331e54c3c19b5d16d9d5f5c9d28721", null ],
+    [ "HandleSpectatorLeaveCommand", "d0/d48/a12278.html#a15e661891f4e08c3efa0bd844c3954aa", null ],
+    [ "HandleSpectatorResetCommand", "d0/d48/a12278.html#a23a1a3740609a6d0caa6e0f10c7e8653", null ],
+    [ "HandleSpectatorSpectateCommand", "d0/d48/a12278.html#ad1f117a77c0154fc25e937dfe21870a2", null ],
+    [ "HandleSpectatorVersionCommand", "d0/d48/a12278.html#aaf7c57603d263f7ab919f12d9680f058", null ],
+    [ "HandleSpectatorWatchCommand", "d0/d48/a12278.html#a1ee822e332374b375962d1ae87adbc61", null ]
 ];

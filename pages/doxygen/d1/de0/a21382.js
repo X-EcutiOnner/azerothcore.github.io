@@ -1,18 +1,12 @@
 var a21382 =
 [
-    [ "boss_ymironAI", "d1/de0/a21382.html#a3a4d81b7a0f3f27f94fea60eff043696", null ],
-    [ "EnterEvadeMode", "d1/de0/a21382.html#a8fbc8526e82efea3e2eddedc421b85a2", null ],
-    [ "JustDied", "d1/de0/a21382.html#ad1da47485b8f17ea550a1b6bc943eb9a", null ],
-    [ "JustEngagedWith", "d1/de0/a21382.html#aed0cc8f034454db0046a5adce7f9d8a0", null ],
-    [ "KilledUnit", "d1/de0/a21382.html#ae1d69402520e1cf4d3a17c0ca9af35bd", null ],
-    [ "MovementInform", "d1/de0/a21382.html#a6e3c14da21d45bb7ddfba25d4487bba7", null ],
-    [ "Reset", "d1/de0/a21382.html#a2b6619a51641a82109e98fd4decd22e3", null ],
-    [ "SpellHitTarget", "d1/de0/a21382.html#a2f2782926ee9a59fc5188d02347f9ca8", null ],
-    [ "UpdateAI", "d1/de0/a21382.html#aaa447c1c6092bfc7c1d117d32b2c5673", null ],
-    [ "BoatNum", "d1/de0/a21382.html#ac5663f283d1a97fea1646c1ec230a7dc", null ],
-    [ "BoatOrder", "d1/de0/a21382.html#a319095910309b0a78d321c4d33994542", null ],
-    [ "events", "d1/de0/a21382.html#af2d8d9a2ec7ec5876c99ae909d3befd2", null ],
-    [ "pInstance", "d1/de0/a21382.html#a115529fcbc5a0c8b57152be49915d575", null ],
-    [ "summons", "d1/de0/a21382.html#aaa5d90d3940c84adebce772c594b0ee2", null ],
-    [ "summons2", "d1/de0/a21382.html#aa82280ec0e02924d653b62298ed7e471", null ]
+    [ "boss_moraggAI", "d1/de0/a21382.html#a3ae881c9adca20a2cb894af85297d53e", null ],
+    [ "EnterEvadeMode", "d1/de0/a21382.html#a4e70e42407f452c4685c732949fd2b52", null ],
+    [ "JustDied", "d1/de0/a21382.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
+    [ "JustEngagedWith", "d1/de0/a21382.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
+    [ "MoveInLineOfSight", "d1/de0/a21382.html#a52a99d72dfa017baacb76717e6db931b", null ],
+    [ "Reset", "d1/de0/a21382.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
+    [ "UpdateAI", "d1/de0/a21382.html#aec7645eaae190d1e7982aae181ff9224", null ],
+    [ "events", "d1/de0/a21382.html#acd021e4216e3920f0534da95d69ba5eb", null ],
+    [ "pInstance", "d1/de0/a21382.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
 ];

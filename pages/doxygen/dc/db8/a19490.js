@@ -1,7 +1,6 @@
 var a19490 =
 [
-    [ "EoEDrakeEnterVehicleEvent", "dc/db8/a19490.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
-    [ "Execute", "dc/db8/a19490.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
-    [ "_owner", "dc/db8/a19490.html#ab48302fdff800afddfeec2c0d756873c", null ],
-    [ "_playerGUID", "dc/db8/a19490.html#add56bff0695453e01f300e0434a39ec8", null ]
+    [ "boss_gluthAI", "d5/d5a/a19494.html", "d5/d5a/a19494" ],
+    [ "boss_gluth", "dc/db8/a19490.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
+    [ "GetAI", "dc/db8/a19490.html#a3b19c938aaecc897d6552715064be7f8", null ]
 ];

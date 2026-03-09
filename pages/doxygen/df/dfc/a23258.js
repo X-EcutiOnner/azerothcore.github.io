@@ -1,8 +1,6 @@
 var a23258 =
 [
-    [ "Absorb", "df/dfc/a23258.html#a1c054ce067a620e16611cbb9e784cee1", null ],
-    [ "CalculateAmount", "df/dfc/a23258.html#abd828dd3493339db9c0613e960792941", null ],
-    [ "PrepareAuraScript", "df/dfc/a23258.html#a1075139fc82cd8e1b30d4bc0f89fbfe0", null ],
-    [ "Register", "df/dfc/a23258.html#a85840e7d27a7ed256c45de87f4486d45", null ],
-    [ "Update", "df/dfc/a23258.html#afbf28fd4eb66899a424e0b542d561656", null ]
+    [ "HandleEffectRemove", "df/dfc/a23258.html#a4000209ccbcbc62a51db3e7b672ea69d", null ],
+    [ "PrepareAuraScript", "df/dfc/a23258.html#adc6f982b0e3cc56039746f425cb09113", null ],
+    [ "Register", "df/dfc/a23258.html#a5ceecc2f9a9664755b5e492fda54a560", null ]
 ];

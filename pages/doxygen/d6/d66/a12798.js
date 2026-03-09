@@ -1,9 +1,9 @@
 var a12798 =
 [
-    [ "boss_curator", "d6/d66/a12798.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
-    [ "JustDied", "d6/d66/a12798.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
-    [ "JustEngagedWith", "d6/d66/a12798.html#a848f477a101956662389cab5ffcc0727", null ],
-    [ "JustSummoned", "d6/d66/a12798.html#ac779d275e03e6ba190617d215b217ce5", null ],
-    [ "KilledUnit", "d6/d66/a12798.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
-    [ "Reset", "d6/d66/a12798.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
+    [ "npc_drakonid_spawner", "d6/d66/a12798.html#a2b657e800dc5cc30c618391413ded116", null ],
+    [ "DoAction", "d6/d66/a12798.html#ab013cff0430c09fe1045fdc735e45182", null ],
+    [ "IsSummonedBy", "d6/d66/a12798.html#a6a2170e0f20736d69006ce6d6c769476", null ],
+    [ "SummonedCreatureDies", "d6/d66/a12798.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
+    [ "UpdateAI", "d6/d66/a12798.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
+    [ "_owner", "d6/d66/a12798.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
 ];

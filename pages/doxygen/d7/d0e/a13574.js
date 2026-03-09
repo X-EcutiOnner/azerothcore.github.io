@@ -1,6 +1,6 @@
 var a13574 =
 [
-    [ "HandlePeriodic", "d7/d0e/a13574.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
-    [ "PrepareAuraScript", "d7/d0e/a13574.html#a7ac99d626990f068a00f403847bfa6bc", null ],
-    [ "Register", "d7/d0e/a13574.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
+    [ "boss_darkmaster_gandlingAI", "d2/d46/a13578.html", "d2/d46/a13578" ],
+    [ "boss_darkmaster_gandling", "d7/d0e/a13574.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
+    [ "GetAI", "d7/d0e/a13574.html#a21ea53862614303af31a517a53d1fbf6", null ]
 ];

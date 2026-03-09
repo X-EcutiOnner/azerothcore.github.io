@@ -1,9 +1,6 @@
 var a28102 =
 [
-    [ "CinematicSequence", "d0/db7/a28102.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
-    [ "ClassID", "d0/db7/a28102.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
-    [ "expansion", "d0/db7/a28102.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
-    [ "name", "d0/db7/a28102.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
-    [ "powerType", "d0/db7/a28102.html#a74aec35dc161a7e830453b9365a6f107", null ],
-    [ "spellfamily", "d0/db7/a28102.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
+    [ "npc_spirit_shadeAI", "d8/dd2/a28106.html", "d8/dd2/a28106" ],
+    [ "npc_spirit_shade", "d0/db7/a28102.html#a891ede5651789274496d6426daf9937d", null ],
+    [ "GetAI", "d0/db7/a28102.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
 ];

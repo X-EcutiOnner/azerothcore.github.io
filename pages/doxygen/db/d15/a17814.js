@@ -1,6 +1,6 @@
 var a17814 =
 [
-    [ "npc_gunship_rocketeerAI", "d7/d7f/a17818.html", "d7/d7f/a17818" ],
-    [ "npc_gunship_rocketeer", "db/d15/a17814.html#a7ed2cf258269f239bb73f2f06411db07", null ],
-    [ "GetAI", "db/d15/a17814.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
+    [ "npc_kinetic_bombAI", "d7/d7f/a17818.html", "d7/d7f/a17818" ],
+    [ "npc_kinetic_bomb", "db/d15/a17814.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
+    [ "GetAI", "db/d15/a17814.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
 ];

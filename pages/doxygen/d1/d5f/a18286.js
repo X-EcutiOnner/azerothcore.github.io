@@ -1,6 +1,5 @@
 var a18286 =
 [
-    [ "MysticBuffetTargetFilter", "d1/d5f/a18286.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea", null ],
-    [ "operator()", "d1/d5f/a18286.html#a76536b8960aa5e64fa8f7a02939d4295", null ],
-    [ "_caster", "d1/d5f/a18286.html#a60ef55fa8d6f511bba566ac3c8f8328a", null ]
+    [ "at_lady_deathwhisper_entrance", "d1/d5f/a18286.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
+    [ "OnTrigger", "d1/d5f/a18286.html#a769c838c94a88af5492057909d88f3de", null ]
 ];

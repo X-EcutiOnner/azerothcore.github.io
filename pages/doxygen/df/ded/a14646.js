@@ -1,8 +1,10 @@
 var a14646 =
 [
-    [ "OnApply", "df/ded/a14646.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
-    [ "OnRemove", "df/ded/a14646.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
-    [ "PrepareAuraScript", "df/ded/a14646.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
-    [ "Register", "df/ded/a14646.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
-    [ "Validate", "df/ded/a14646.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
+    [ "npc_zealot_zath", "df/ded/a14646.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
+    [ "JustDied", "df/ded/a14646.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
+    [ "JustEngagedWith", "df/ded/a14646.html#a25e059f40de51d880f4ec209ff4dd924", null ],
+    [ "Reset", "df/ded/a14646.html#abc4e40afd644f2c89444f3fe475817c0", null ],
+    [ "UpdateAI", "df/ded/a14646.html#a467ce2437ec112b42f864ef412c0c976", null ],
+    [ "_scheduler", "df/ded/a14646.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
+    [ "instance", "df/ded/a14646.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
 ];

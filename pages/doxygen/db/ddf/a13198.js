@@ -1,20 +1,11 @@
 var a13198 =
 [
-    [ "Events", "db/ddf/a13198.html#ac42a71db175efdf9b2ab4c2bbb899428", [
-      [ "EVENT_START_RITUAL", "db/ddf/a13198.html#ac42a71db175efdf9b2ab4c2bbb899428a5c1cf14a3bf0dfd786daa93ac0a8b043", null ],
-      [ "EVENT_GHOULPLOSION", "db/ddf/a13198.html#ac42a71db175efdf9b2ab4c2bbb899428a2fcb5b116ac91e1ae11dfb820a2c8e58", null ],
-      [ "EVENT_RAISE_GHOUL", "db/ddf/a13198.html#ac42a71db175efdf9b2ab4c2bbb899428a77051c0b97f18ea906fd85d954ec6184", null ],
-      [ "EVENT_RESUME_WP", "db/ddf/a13198.html#ac42a71db175efdf9b2ab4c2bbb899428a1db9eee6c0d33c1cf8b8107810a10ab0", null ]
-    ] ],
-    [ "Points", "db/ddf/a13198.html#aaa928de603fc54bbfec990160bce55e9", [
-      [ "POINT_CORPSE_REACHED", "db/ddf/a13198.html#aaa928de603fc54bbfec990160bce55e9a8f666ca441d6b3c527fe55f20534c389", null ]
-    ] ],
-    [ "npc_acherus_necromancerAI", "db/ddf/a13198.html#a6cec770b61952cd8df720ac783ea46e5", null ],
-    [ "MovementInform", "db/ddf/a13198.html#ad446b9b5bbd6f27ac9d3c71d0fe48518", null ],
-    [ "Reset", "db/ddf/a13198.html#a3fece0dc9ec211be3e4130240428ad57", null ],
-    [ "UpdateAI", "db/ddf/a13198.html#a5bddb39afcb84311536b621679619305", null ],
-    [ "events", "db/ddf/a13198.html#a1c119e9719fe139d30b7d2cfd1822ad1", null ],
-    [ "geistGUID", "db/ddf/a13198.html#af8d7f13d1b58a01311637d004bf14f2c", null ],
-    [ "isOnRitual", "db/ddf/a13198.html#ab04499369c51994457e6aec2d635a5cf", null ],
-    [ "targetCorpseGUID", "db/ddf/a13198.html#adf1d8777507658f264c951c88623ce9e", null ]
+    [ "boss_tenris_mirkblood", "db/ddf/a13198.html#ae626332a437983bbb0219bbe2d4b75dc", null ],
+    [ "DamageTaken", "db/ddf/a13198.html#a0316d2d936f10928fe01d1d5a532e9e0", null ],
+    [ "EnterEvadeMode", "db/ddf/a13198.html#a5da11ca73a280c08d1ab0ab4df66d836", null ],
+    [ "JustEngagedWith", "db/ddf/a13198.html#ad95106bbe08589a5ca1d0f2f30aab0ec", null ],
+    [ "KilledUnit", "db/ddf/a13198.html#ab0a5fedbd8714326a948163d7bcc0838", null ],
+    [ "Reset", "db/ddf/a13198.html#a88d46f6e972525979687b315db90dc30", null ],
+    [ "SpellHit", "db/ddf/a13198.html#a5d69e0cf2a394ac9eed94bb82ab35949", null ],
+    [ "_mirrorTarget", "db/ddf/a13198.html#a1e9a1c361046b12fe0569fbdef4a7033", null ]
 ];

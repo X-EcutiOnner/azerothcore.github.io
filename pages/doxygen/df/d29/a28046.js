@@ -1,4 +1,5 @@
 var a28046 =
 [
-    [ "ratio", "df/d29/a28046.html#abd6f48f1ad2826ae1c3c782337bac618", null ]
+    [ "AreaTrigger_at_stormwright_shelf", "df/d29/a28046.html#a97cdf51a8992b3d9edc138351770fd75", null ],
+    [ "OnTrigger", "df/d29/a28046.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
 ];

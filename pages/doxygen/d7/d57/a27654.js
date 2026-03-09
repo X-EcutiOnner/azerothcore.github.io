@@ -1,5 +1,10 @@
 var a27654 =
 [
-    [ "item_generic_limit_chance_above_60", "d7/d57/a27654.html#abc18809810f0a7668020d01c482be84b", null ],
-    [ "OnCastItemCombatSpell", "d7/d57/a27654.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
+    [ "CalcPeriodic", "d7/d57/a27654.html#abd23b7e24d9688dd4b9cbe70cdd45d75", null ],
+    [ "CalculateAmount", "d7/d57/a27654.html#a55aa6c6a23e4db0f407b86bcf95d3761", null ],
+    [ "HandleEffectCalcSpellMod", "d7/d57/a27654.html#a8c888218fde2176a3c3b5cb97fdce5de", null ],
+    [ "HandlePeriodic", "d7/d57/a27654.html#ae2c4de235fc727039a50f1b6ba729422", null ],
+    [ "Load", "d7/d57/a27654.html#a9e1a5a07db18f6ff238276f9e1c44321", null ],
+    [ "PrepareAuraScript", "d7/d57/a27654.html#a847c1db1bf92baeba47260ffbacbcdd9", null ],
+    [ "Register", "d7/d57/a27654.html#a9241ab85d616f4f17c52b3730c5434e1", null ]
 ];

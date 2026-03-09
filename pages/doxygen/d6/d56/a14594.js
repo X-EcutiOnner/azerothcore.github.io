@@ -1,8 +1,10 @@
 var a14594 =
 [
-    [ "npc_hallows_end_train_fire", "d6/d56/a14594.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
-    [ "Reset", "d6/d56/a14594.html#afdda52e0adce23f56fa9d1357469a17d", null ],
-    [ "SpellHit", "d6/d56/a14594.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
-    [ "UpdateAI", "d6/d56/a14594.html#a686a565e1743c31166d8d57f67a0adce", null ],
-    [ "timer", "d6/d56/a14594.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
+    [ "npc_vilebranch_speaker", "d6/d56/a14594.html#acd8dfc95c5969fe67e1386d5dbd5884b", null ],
+    [ "JustDied", "d6/d56/a14594.html#aa7708f176879db3acd50399b74e4a90c", null ],
+    [ "JustEngagedWith", "d6/d56/a14594.html#a236afb8512c2d941479f8a7c18f688a6", null ],
+    [ "Reset", "d6/d56/a14594.html#a248195a137cb91f10a882ec12974c7c5", null ],
+    [ "UpdateAI", "d6/d56/a14594.html#a75f263fa9241319b58bf77cbf1b75088", null ],
+    [ "_scheduler", "d6/d56/a14594.html#abd52bbd2ce88b011176d93ae92b851d0", null ],
+    [ "instance", "d6/d56/a14594.html#a88fb28d2c39f0da967ab6706872e68b2", null ]
 ];

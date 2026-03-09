@@ -1,7 +1,6 @@
 var a09910 =
 [
-    [ "MapPreloadRequest", "d5/de9/a09910.html#abb217a11f2b2ed7716cad33e0fd667e7", null ],
-    [ "call", "d5/de9/a09910.html#a688f4e2c5517c29c10c0810325211b50", null ],
-    [ "_mapId", "d5/de9/a09910.html#aa207469ff8369f9b5559b35404d16847", null ],
-    [ "_updater", "d5/de9/a09910.html#ae6d0d229c7cd04152fd54d03aa69306a", null ]
+    [ "bossId", "d5/de9/a09910.html#ac7ce1fcc568ad1fe6bc8a20957357ed8", null ],
+    [ "entry", "d5/de9/a09910.html#a1a199d022692efe54e29a7cb90e73dee", null ],
+    [ "type", "d5/de9/a09910.html#ab5654860b5c27654fa0346e9e92a71fc", null ]
 ];

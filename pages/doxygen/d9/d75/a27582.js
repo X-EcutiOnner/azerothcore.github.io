@@ -1,5 +1,6 @@
 var a27582 =
 [
-    [ "go_dragonflayer_cage", "d9/d75/a27582.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
-    [ "OnGossipHello", "d9/d75/a27582.html#a542530a0b84879b21a4b9982cf4300d0", null ]
+    [ "HandleProc", "d9/d75/a27582.html#a933975b17f340d9f458dc95b77aa43ac", null ],
+    [ "PrepareAuraScript", "d9/d75/a27582.html#ad9df49f481d936068ebee0d2f6179e9f", null ],
+    [ "Register", "d9/d75/a27582.html#a54dd9a2a6646282897cabec00f092525", null ]
 ];

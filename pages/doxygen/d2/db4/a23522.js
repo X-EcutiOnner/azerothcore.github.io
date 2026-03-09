@@ -1,6 +1,7 @@
 var a23522 =
 [
-    [ "HandleScript", "d2/db4/a23522.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
-    [ "PrepareSpellScript", "d2/db4/a23522.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
-    [ "Register", "d2/db4/a23522.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
+    [ "PeriodicTick", "d2/db4/a23522.html#a53541105e40202e4a73ecc38d84e9eca", null ],
+    [ "PrepareAuraScript", "d2/db4/a23522.html#a79c8829a86db535e254db009d5286430", null ],
+    [ "Register", "d2/db4/a23522.html#a58cd762eb10d224bb188aaf167c816b9", null ],
+    [ "Validate", "d2/db4/a23522.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f", null ]
 ];

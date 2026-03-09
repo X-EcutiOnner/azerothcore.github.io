@@ -1,8 +1,9 @@
 var a26894 =
 [
-    [ "ApplyDebuff", "de/d60/a26894.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
-    [ "PrepareSpellScript", "de/d60/a26894.html#aa37525d089348f58e3d871830caa3417", null ],
-    [ "Register", "de/d60/a26894.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
-    [ "RemoveInvalidTargets", "de/d60/a26894.html#a0451b75aa962065a01a5806992e01b16", null ],
-    [ "Validate", "de/d60/a26894.html#ac69d777fdf7a2d3c527621dee256690c", null ]
+    [ "CheckCast", "de/d60/a26894.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
+    [ "HandleDummy", "de/d60/a26894.html#a7f79495525687fba6229f48935b2558a", null ],
+    [ "Load", "de/d60/a26894.html#a0c73457e44a3d64bdccee78d28893672", null ],
+    [ "PrepareSpellScript", "de/d60/a26894.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
+    [ "Register", "de/d60/a26894.html#ab9f09394ab301350a2abaefde90632fe", null ],
+    [ "Validate", "de/d60/a26894.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
 ];

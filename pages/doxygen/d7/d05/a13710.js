@@ -1,6 +1,6 @@
 var a13710 =
 [
-    [ "HandleSendEvent", "d7/d05/a13710.html#a1be975f4440b823c34cc3e790fcff608", null ],
-    [ "PrepareSpellScript", "d7/d05/a13710.html#a91ac4a392fcf5b6e833fb3f5103d8e06", null ],
-    [ "Register", "d7/d05/a13710.html#a217fb7cb47b08999d49ec04b345b77fe", null ]
+    [ "instance_stratholme_InstanceMapScript", "de/da9/a13714.html", "de/da9/a13714" ],
+    [ "instance_stratholme", "d7/d05/a13710.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
+    [ "GetInstanceScript", "d7/d05/a13710.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
 ];

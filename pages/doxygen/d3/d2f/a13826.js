@@ -1,6 +1,8 @@
 var a13826 =
 [
-    [ "CheckProc", "d3/d2f/a13826.html#af6d00234388ceb5d1c9acd8775c66788", null ],
-    [ "PrepareAuraScript", "d3/d2f/a13826.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
-    [ "Register", "d3/d2f/a13826.html#acad1e829a317d15e73549047ece67eda", null ]
+    [ "FilterTargets", "d3/d2f/a13826.html#ac7f7287b88cde82fbf8a625f002c86fa", null ],
+    [ "HandleAfterCast", "d3/d2f/a13826.html#aa28714ce9ac251fe7c3bdec17b47deb3", null ],
+    [ "Load", "d3/d2f/a13826.html#aecfa38940ea3dd287179bdef3d290487", null ],
+    [ "PrepareSpellScript", "d3/d2f/a13826.html#a222e2c8e5401c132e89b29bbd22d46a6", null ],
+    [ "Register", "d3/d2f/a13826.html#a1a3607dd7e3d56bde3b92cbf4bcd0e78", null ]
 ];

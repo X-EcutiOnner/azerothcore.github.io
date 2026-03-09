@@ -1,5 +1,25 @@
 var a10006 =
 [
-    [ "IdleMovementFactory", "dd/d45/a10006.html#af2bb5ef9fe67f3dda64d6ce44e825f52", null ],
-    [ "Create", "dd/d45/a10006.html#a5e99eab3436482927bc83100f85581cd", null ]
+    [ "MailItemMap", "dd/d45/a10006.html#afad4472f25a020fd6c8d6452840d021c", null ],
+    [ "MailDraft", "dd/d45/a10006.html#a8a7a37890b6a280f2b08659e5e59b354", null ],
+    [ "MailDraft", "dd/d45/a10006.html#adbadad7d9522146672759298c981f7db", null ],
+    [ "AddCOD", "dd/d45/a10006.html#a8d863191bb48369359ad170aab7145e0", null ],
+    [ "AddItem", "dd/d45/a10006.html#ae0c2b4bac4dd8f2a8c53608c45cbb11a", null ],
+    [ "AddMoney", "dd/d45/a10006.html#a4d0be4ea780f25c5302278b5748b6a6b", null ],
+    [ "deleteIncludedItems", "dd/d45/a10006.html#a0b5a445213d5fcc598ed016f1cbf2cf8", null ],
+    [ "GetBody", "dd/d45/a10006.html#ae60b40718fffcdda286161e342d1738d", null ],
+    [ "GetCOD", "dd/d45/a10006.html#a2b4d799ab7ec945b60c07747981ad0a5", null ],
+    [ "GetMailTemplateId", "dd/d45/a10006.html#ab5906ccf0213f8be241fbb177fef53bd", null ],
+    [ "GetMoney", "dd/d45/a10006.html#a461ee77c1d85b07513d5f453c8c8507a", null ],
+    [ "GetSubject", "dd/d45/a10006.html#a671268ee9b384c5c8c954bb62b3a41a0", null ],
+    [ "prepareItems", "dd/d45/a10006.html#ad6481e16a4dbe15b30a942278943c1d2", null ],
+    [ "SendMailTo", "dd/d45/a10006.html#aaee8965aaa66351954bdc7db246151d7", null ],
+    [ "SendReturnToSender", "dd/d45/a10006.html#ab57f00b07519984be8e0f3eb03955ee2", null ],
+    [ "m_body", "dd/d45/a10006.html#aea4413d56053710844b37518596e7b38", null ],
+    [ "m_COD", "dd/d45/a10006.html#a73472d56d74d215494975e6ce6580008", null ],
+    [ "m_items", "dd/d45/a10006.html#a58eef2cacd7834941404a366afc52a9d", null ],
+    [ "m_mailTemplateId", "dd/d45/a10006.html#a8a7997191ebeaebbdd78677c99409278", null ],
+    [ "m_mailTemplateItemsNeed", "dd/d45/a10006.html#aa8fced0ed98a18667c9d9a55027e99e9", null ],
+    [ "m_money", "dd/d45/a10006.html#a8915b8116364db1265eba0ce0d0471c2", null ],
+    [ "m_subject", "dd/d45/a10006.html#aa71d5223f51ffe20c1bf0c91f567d6f8", null ]
 ];

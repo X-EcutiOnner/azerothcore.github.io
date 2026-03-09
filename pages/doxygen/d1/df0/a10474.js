@@ -1,17 +1,10 @@
 var a10474 =
 [
-    [ "WorldScript", "d1/df0/a10474.html#a89b4180130e22738c2898562de6b9145", null ],
-    [ "OnAfterConfigLoad", "d1/df0/a10474.html#affadabcae325631b2683ef458c6d13ee", null ],
-    [ "OnAfterUnloadAllMaps", "d1/df0/a10474.html#a15bc203d07dd2fef96c2a6d13d3ddd44", null ],
-    [ "OnBeforeConfigLoad", "d1/df0/a10474.html#a78baa1285b6495d7beace131dfba8400", null ],
-    [ "OnBeforeFinalizePlayerWorldSession", "d1/df0/a10474.html#a480e411f6178e5128bc5e760d9f36d99", null ],
-    [ "OnBeforeWorldInitialized", "d1/df0/a10474.html#a8ec0a2cc97986db07698392e5c503571", null ],
-    [ "OnLoadCustomDatabaseTable", "d1/df0/a10474.html#af9c5296102d7ef0f716796788650ec4d", null ],
-    [ "OnMotdChange", "d1/df0/a10474.html#a3a72e488dd36a672d7aaa0b59fffe154", null ],
-    [ "OnOpenStateChange", "d1/df0/a10474.html#a7eab4282e8be8ef2a643478f9fe6e0e2", null ],
-    [ "OnShutdown", "d1/df0/a10474.html#a3578707d9be5da90530633a93b4b2bf8", null ],
-    [ "OnShutdownCancel", "d1/df0/a10474.html#a322bd84359ac77369d9aa84bc8bf9649", null ],
-    [ "OnShutdownInitiate", "d1/df0/a10474.html#a83c76efd3de10b0a35c4a311c44d13c1", null ],
-    [ "OnStartup", "d1/df0/a10474.html#a117234aac087ec653c83cfe01a6dce7a", null ],
-    [ "OnUpdate", "d1/df0/a10474.html#ad28857965a9f6f993a47c95af6d9c5ad", null ]
+    [ "Flags", "d1/df0/a10474.html#abf9c2701e766951e5a211bf6bf85b175", null ],
+    [ "ID", "d1/df0/a10474.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
+    [ "needSave", "d1/df0/a10474.html#aae888b1bf10f654ee212f3d687c111e9", null ],
+    [ "needSend", "d1/df0/a10474.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
+    [ "ReputationListID", "d1/df0/a10474.html#a052caeeae1ecdca831097591e0fddaf6", null ],
+    [ "roundedUp", "d1/df0/a10474.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
+    [ "Standing", "d1/df0/a10474.html#ae87da6cada559e11a9607e194013d671", null ]
 ];

@@ -1,5 +1,8 @@
 var a11346 =
 [
-    [ "WorldObjectSpellTrajTargetCheck", "d2/d11/a11346.html#a0c08b6b4c7878678eb419a556f718be0", null ],
-    [ "operator()", "d2/d11/a11346.html#aa1f7772cdb19914cc365a325f801b5d5", null ]
+    [ "PetSpellAutocast", "d2/d11/a11346.html#ab858647d14031a2a6109d1e923402d08", null ],
+    [ "Read", "d2/d11/a11346.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
+    [ "AutocastEnabled", "d2/d11/a11346.html#a3c04543dcd5382682654b3860b84c6a3", null ],
+    [ "PetGUID", "d2/d11/a11346.html#aeed828abebf683078ee61204c91e28c9", null ],
+    [ "SpellID", "d2/d11/a11346.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
 ];

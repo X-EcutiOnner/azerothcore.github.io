@@ -1,4 +1,8 @@
 var a28454 =
 [
-    [ "ratio", "d7/d69/a28454.html#a4d2880eb4c15dca8148ee5aa21920e6d", null ]
+    [ "npc_franklinAI", "d1/dba/a28458.html", "d1/dba/a28458" ],
+    [ "npc_franklin", "d7/d69/a28454.html#aab059dfa69e52083892e3170c8838e0a", null ],
+    [ "GetAI", "d7/d69/a28454.html#a10933878afe9d0cc78fa1113341fd522", null ],
+    [ "OnGossipHello", "d7/d69/a28454.html#a318d512914b135800caabe0efbb1c467", null ],
+    [ "OnGossipSelect", "d7/d69/a28454.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
 ];

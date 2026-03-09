@@ -1,7 +1,6 @@
 var a14394 =
 [
-    [ "FilterTargets", "dd/dc4/a14394.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
-    [ "HandleDummyEffect", "dd/dc4/a14394.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
-    [ "PrepareSpellScript", "dd/dc4/a14394.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
-    [ "Register", "dd/dc4/a14394.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
+    [ "instance_zulaman_InstanceMapScript", "d7/d09/a14398.html", "d7/d09/a14398" ],
+    [ "instance_zulaman", "dd/dc4/a14394.html#a5a81dddc07dea599e2a197737206427b", null ],
+    [ "GetInstanceScript", "dd/dc4/a14394.html#a2144a517b22c5d6e7f6cc31d344669fc", null ]
 ];

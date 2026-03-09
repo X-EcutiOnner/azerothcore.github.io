@@ -1,6 +1,6 @@
 var a25074 =
 [
-    [ "CheckProc", "d4/d16/a25074.html#af742bdfd97c9202d50ed7aa1cf8e7d49", null ],
-    [ "PrepareAuraScript", "d4/d16/a25074.html#a255a58ad99059ba28ab09a94e7cc683a", null ],
-    [ "Register", "d4/d16/a25074.html#a4ec4dd2342a5b75c975dc6ffe0b02b79", null ]
+    [ "HandleScriptEffect", "d4/d16/a25074.html#a1ace281bf2fd53722f8328a79369b5df", null ],
+    [ "PrepareSpellScript", "d4/d16/a25074.html#ac9a0019091f291b1b3a770ec57bd83e8", null ],
+    [ "Register", "d4/d16/a25074.html#a821a6b11a177bf7586ab666081ab222a", null ]
 ];

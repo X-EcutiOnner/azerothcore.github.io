@@ -1,5 +1,10 @@
 var a27430 =
 [
-    [ "go_arena_ready_marker", "df/d26/a27430.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
-    [ "OnGossipHello", "df/d26/a27430.html#a9f51ead2b56d51427ff23be9688388d8", null ]
+    [ "CalculateAPAmount", "df/d26/a27430.html#abba0772c18bf98696dc1f236da79401e", null ],
+    [ "CalculateResistanceAmount", "df/d26/a27430.html#a2db04d2d4af16e34cb69b71dbcd0c066", null ],
+    [ "CalculateSPAmount", "df/d26/a27430.html#a4ecc412bb7d5e89a886c9ad4cc562187", null ],
+    [ "CalculateStatAmount", "df/d26/a27430.html#a9269eee5ef676c466e662305389988f0", null ],
+    [ "HandleEffectApply", "df/d26/a27430.html#aa818ca9c4e7b1320f97931525faff1c4", null ],
+    [ "PrepareAuraScript", "df/d26/a27430.html#a5b35686a2ddd761343d811a8472c1c3b", null ],
+    [ "Register", "df/d26/a27430.html#a9bf7cd6309b4724462b03c1080324f83", null ]
 ];

@@ -1,6 +1,11 @@
 var a12254 =
 [
-    [ "boss_lord_valthalakAI", "d9/d34/a12258.html", "d9/d34/a12258" ],
-    [ "boss_lord_valthalak", "d2/d45/a12254.html#a180ecb2e2b11ee79c80de18124de3dbc", null ],
-    [ "GetAI", "d2/d45/a12254.html#a771bd8ff3918d71007b5e4b05baf3df3", null ]
+    [ "pooltools_commandscript", "d2/d45/a12254.html#a3428978e91000cbe46dd2b84a30eee2d", null ],
+    [ "GetCommands", "d2/d45/a12254.html#aebd69a3ae0a0e0833f3eaeeb637d97e6", null ],
+    [ "HandlePoolAdd", "d2/d45/a12254.html#afb113b7673dbddf804f9384fbc400d67", null ],
+    [ "HandlePoolClear", "d2/d45/a12254.html#a4bde765f2949ae2db1601e8f5a103ed2", null ],
+    [ "HandlePoolDef", "d2/d45/a12254.html#a12edd3f4697bba8e03594ceed8c6c289", null ],
+    [ "HandlePoolEnd", "d2/d45/a12254.html#a039862a0ca89201187f4e06ce792cae8", null ],
+    [ "HandlePoolRemove", "d2/d45/a12254.html#a158f83f814cba8328dcb81f02525dcdb", null ],
+    [ "HandlePoolStart", "d2/d45/a12254.html#a13629c50653c80b949bdf80485e51d59", null ]
 ];

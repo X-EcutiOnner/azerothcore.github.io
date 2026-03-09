@@ -1,6 +1,10 @@
 var a21122 =
 [
-    [ "FilterTargets", "de/def/a21122.html#a7efa78a7991b7ca859c7d622f973265d", null ],
-    [ "PrepareSpellScript", "de/def/a21122.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
-    [ "Register", "de/def/a21122.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
+    [ "npc_dragonflayer_forge_master", "de/def/a21122.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
+    [ "JustDied", "de/def/a21122.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
+    [ "JustEngagedWith", "de/def/a21122.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
+    [ "Reset", "de/def/a21122.html#af2c844c926b94456df796b4252e899c2", null ],
+    [ "dataId", "de/def/a21122.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
+    [ "pInstance", "de/def/a21122.html#a27b5988d777347832795581b0186c09f", null ],
+    [ "prevDataId", "de/def/a21122.html#aa057cb5ae681b4b802031151ea1a3529", null ]
 ];

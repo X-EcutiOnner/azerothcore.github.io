@@ -1,6 +1,8 @@
 var a27870 =
 [
-    [ "npc_fireworkAI", "d9/d8a/a27874.html", "d9/d8a/a27874" ],
-    [ "npc_firework", "dd/d22/a27870.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
-    [ "GetAI", "dd/d22/a27870.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
+    [ "HandleDamage", "dd/d22/a27870.html#a371d3112e619453b7c92933a145bf4d2", null ],
+    [ "HandleDummy", "dd/d22/a27870.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
+    [ "PrepareSpellScript", "dd/d22/a27870.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
+    [ "Register", "dd/d22/a27870.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
+    [ "Validate", "dd/d22/a27870.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
 ];

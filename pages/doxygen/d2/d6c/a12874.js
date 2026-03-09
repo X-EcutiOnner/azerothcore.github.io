@@ -1,9 +1,6 @@
 var a12874 =
 [
-    [ "FilterTargets", "d2/d6c/a12874.html#a88b91e40b330d39bd04a7873128fb858", null ],
-    [ "HandleFinish", "d2/d6c/a12874.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
-    [ "PrepareSpellScript", "d2/d6c/a12874.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
-    [ "Register", "d2/d6c/a12874.html#ab2008e585589cbf313170064d37c4aa9", null ],
-    [ "Validate", "d2/d6c/a12874.html#af4963be6c544a1706a6dc30dcbf18309", null ],
-    [ "_targets", "d2/d6c/a12874.html#a2f75199a90e52cff770f46bce76d5149", null ]
+    [ "boss_baron_geddonAI", "d9/db6/a12878.html", "d9/db6/a12878" ],
+    [ "boss_baron_geddon", "d2/d6c/a12874.html#ad72caf30219b4295c0be4289b9d25498", null ],
+    [ "GetAI", "d2/d6c/a12874.html#a8f328680a5f99fb275cb0b3e8adf9c63", null ]
 ];

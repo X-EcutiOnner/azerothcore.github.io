@@ -1,8 +1,12 @@
 var a24582 =
 [
-    [ "npc_pet_gen_valkyr_guardian", "d8/dbd/a24582.html#a546f0b0b4273de8216e9f688c2d68209", null ],
-    [ "InitializeAI", "d8/dbd/a24582.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
-    [ "OwnerAttacked", "d8/dbd/a24582.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
-    [ "UpdateAI", "d8/dbd/a24582.html#a9a5a233763365c6cca5618459a23a816", null ],
-    [ "targetCheck", "d8/dbd/a24582.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
+    [ "CheckTarget", "d8/dbd/a24582.html#a731aa2c0a2b67b8a15cab72ea2cb961a", null ],
+    [ "CheckTargets", "d8/dbd/a24582.html#a3b5bbef0c43a600387235822f3c6dbc7", null ],
+    [ "HandleCorpseExplosion", "d8/dbd/a24582.html#a201de2ee86d0cf954117df0e5343ee69", null ],
+    [ "HandleDamage", "d8/dbd/a24582.html#a810fc65eb5d7160366d63210bad9caea", null ],
+    [ "Load", "d8/dbd/a24582.html#a00b45e2f466de39c95251c2a38f6c3bd", null ],
+    [ "PrepareSpellScript", "d8/dbd/a24582.html#a4cae1673a840d8ec0d727b881a3616cf", null ],
+    [ "Register", "d8/dbd/a24582.html#a9e67ea51300569a0e163cb3e427b086e", null ],
+    [ "Validate", "d8/dbd/a24582.html#a93984e8b831cb4c37ec2726d44532d43", null ],
+    [ "_target", "d8/dbd/a24582.html#a5028b9d3166270b2b0557943e962eade", null ]
 ];

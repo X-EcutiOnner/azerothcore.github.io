@@ -1,6 +1,7 @@
 var a12138 =
 [
-    [ "boss_grizzleAI", "de/d76/a12142.html", "de/d76/a12142" ],
-    [ "boss_grizzle", "df/d7b/a12138.html#a6c9913cec9503a86e2f5358f65b97b26", null ],
-    [ "GetAI", "df/d7b/a12138.html#aa0bf6c89f13fbd20695ebb7ce965b0f5", null ]
+    [ "gear_commandscript", "df/d7b/a12138.html#a2e37c7d761982f7185b2418ae5aa4315", null ],
+    [ "GetCommands", "df/d7b/a12138.html#a9212aa39f13c646b1b8cf8be78cc8a6a", null ],
+    [ "HandleGearRepairCommand", "df/d7b/a12138.html#a28cd5680f07f984326d79d91adbbfd70", null ],
+    [ "HandleGearStatsCommand", "df/d7b/a12138.html#acca4bc7e8cae51ee2a6172b32f87aa56", null ]
 ];

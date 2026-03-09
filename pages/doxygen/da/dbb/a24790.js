@@ -1,8 +1,6 @@
 var a24790 =
 [
-    [ "HandleEffectApply", "da/dbb/a24790.html#a88e98bcb11fb16696f789878f79c665c", null ],
-    [ "HandleEffectRemove", "da/dbb/a24790.html#ab2d5f1dccd9bdf9f087ee3203b0d18c2", null ],
-    [ "PrepareAuraScript", "da/dbb/a24790.html#a64f9e0f3d0376342767b912e32642c6c", null ],
-    [ "Register", "da/dbb/a24790.html#a72d6639589588282ea15cfe83c9e9b76", null ],
-    [ "Validate", "da/dbb/a24790.html#ac936c92c3a24fba95505243cd3e79c21", null ]
+    [ "CalculateAmount", "da/dbb/a24790.html#a66fd870eff0f2a225630e26047d36225", null ],
+    [ "PrepareAuraScript", "da/dbb/a24790.html#afde8a1734c57e01094077af3d3bdf757", null ],
+    [ "Register", "da/dbb/a24790.html#a8e5b9dd71dfccb224e92784725f2a8a9", null ]
 ];

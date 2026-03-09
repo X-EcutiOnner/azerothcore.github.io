@@ -1,7 +1,9 @@
 var a28090 =
 [
-    [ "Class", "d1/d77/a28090.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
-    [ "Gender", "d1/d77/a28090.html#aba6251a7020c6e66b9fc7a21859df271", null ],
-    [ "ItemId", "d1/d77/a28090.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
-    [ "Race", "d1/d77/a28090.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
+    [ "boss_ysondreAI", "d1/d77/a28090.html#a7c5c6a9484aa035a5bda6a6d4a4cc0bc", null ],
+    [ "DamageTaken", "d1/d77/a28090.html#a99ee250e776001bb142815fc711ae75d", null ],
+    [ "ExecuteEvent", "d1/d77/a28090.html#a88e3caa536a71730c757590be1bd3de1", null ],
+    [ "JustEngagedWith", "d1/d77/a28090.html#af96597cf06d2ed71f85c7b4055793dcf", null ],
+    [ "Reset", "d1/d77/a28090.html#ac2ea95a5f8c032d7d9166d92bce51ba1", null ],
+    [ "_stage", "d1/d77/a28090.html#a5c96faa6b5e6cc350e9c53f34fe17eb1", null ]
 ];

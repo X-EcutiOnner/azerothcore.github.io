@@ -1,6 +1,6 @@
 var a01295 =
 [
-    [ "AddItemsSetItem", "d2/d68/a01295.html#a02944420353f8ba883b80737f8e63137", null ],
-    [ "ItemCanGoIntoBag", "d2/d68/a01295.html#a0c91640134a5241ec34f91bdec13c8ec", null ],
-    [ "RemoveItemsSetItem", "d2/d68/a01295.html#a402c3dd64769702b750f96adff4b3a14", null ]
+    [ "Bag", "d1/dfe/a08586.html", "d1/dfe/a08586" ],
+    [ "MAX_BAG_SIZE", "d2/d68/a01295.html#a60a065b8fab298fb24dfd8f22f657d77", null ],
+    [ "NewItemOrBag", "d2/d68/a01295.html#a6b74a54b7de3ced0e27f4128f0d95c64", null ]
 ];

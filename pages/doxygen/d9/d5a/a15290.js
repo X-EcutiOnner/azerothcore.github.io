@@ -1,6 +1,6 @@
 var a15290 =
 [
-    [ "HandleScriptEffect", "d9/d5a/a15290.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
-    [ "PrepareSpellScript", "d9/d5a/a15290.html#aa109d61baba87acf5bce5d44bff55214", null ],
-    [ "Register", "d9/d5a/a15290.html#ac8412777c84abfe56262d6d83163e9a1", null ]
+    [ "npc_crate_helperAI", "d8/d42/a15294.html", "d8/d42/a15294" ],
+    [ "npc_crate_helper", "d9/d5a/a15290.html#ae08751928234656dcda84dd5c7e4cc37", null ],
+    [ "GetAI", "d9/d5a/a15290.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
 ];

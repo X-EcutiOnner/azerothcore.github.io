@@ -1,6 +1,7 @@
 var a13950 =
 [
-    [ "npc_lady_sylvanas_windrunner_bfuAI", "d5/d11/a13954.html", "d5/d11/a13954" ],
-    [ "npc_lady_sylvanas_windrunner_bfu", "d1/ddf/a13950.html#a77e98bc345f7d27f145d4b29c4deb58e", null ],
-    [ "GetAI", "d1/ddf/a13950.html#a94fdd0778818fcc6a8b818d38dde6f75", null ]
+    [ "OnPeriodic", "d1/ddf/a13950.html#a25e7a59384f262a36c74696a1befa01d", null ],
+    [ "PrepareAuraScript", "d1/ddf/a13950.html#a9b82fde3e38054b686f9b2a110cfaa1e", null ],
+    [ "Register", "d1/ddf/a13950.html#a65e469ba04d8cd2aa23d934bf2915721", null ],
+    [ "Validate", "d1/ddf/a13950.html#a6843deda5be8b684c06a86920714f255", null ]
 ];

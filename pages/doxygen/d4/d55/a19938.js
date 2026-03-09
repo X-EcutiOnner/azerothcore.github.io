@@ -1,6 +1,6 @@
 var a19938 =
 [
-    [ "CastRunesEvent", "d4/d55/a19938.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
-    [ "Execute", "d4/d55/a19938.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
-    [ "_owner", "d4/d55/a19938.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
+    [ "PrepareSpellScript", "d4/d55/a19938.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
+    [ "Register", "d4/d55/a19938.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
+    [ "SetDest", "d4/d55/a19938.html#a24341aae14ed77101d4c31f2fbe11463", null ]
 ];

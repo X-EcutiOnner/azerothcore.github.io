@@ -1,8 +1,7 @@
 var a09390 =
 [
-    [ "FriendlyMissingBuffInRange", "da/d2f/a09390.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
-    [ "operator()", "da/d2f/a09390.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
-    [ "i_obj", "da/d2f/a09390.html#aba43edf48b2b0184b52143707c3531f4", null ],
-    [ "i_range", "da/d2f/a09390.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
-    [ "i_spell", "da/d2f/a09390.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
+    [ "flags", "da/d2f/a09390.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
+    [ "fourcc", "da/d2f/a09390.html#a93b48dd741d13ff036eac8a77df9f916", null ],
+    [ "gridHeight", "da/d2f/a09390.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
+    [ "gridMaxHeight", "da/d2f/a09390.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
 ];

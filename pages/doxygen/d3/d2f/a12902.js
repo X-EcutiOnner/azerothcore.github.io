@@ -1,5 +1,5 @@
 var a12902 =
 [
-    [ "PrepareSpellScript", "d3/d2f/a12902.html#a50d6ebe961a0841e10537a434a741072", null ],
-    [ "Register", "d3/d2f/a12902.html#abc2f73133448278e0bf1bc589917dfd1", null ]
+    [ "npc_garr_fireswornAI", "d3/d2f/a12902.html#af2454b2ddf93102378ebf9780d260e56", null ],
+    [ "DamageTaken", "d3/d2f/a12902.html#ae9582b14e82b163ff97b99cb603e0179", null ]
 ];

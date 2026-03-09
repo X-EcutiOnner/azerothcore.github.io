@@ -1,6 +1,6 @@
 var a11142 =
 [
-    [ "ClientOpcodeHandler", "d9/d62/a04803.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
-    [ "Call", "d9/d62/a04803.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
-    [ "ProcessingPlace", "d9/d62/a04803.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
+    [ "ListInventory", "d4/d25/a11142.html#a7b0432d3b1243bdf6d70f9f55ee0f614", null ],
+    [ "Read", "d4/d25/a11142.html#a2fd1298c1da842824fca7d971cb2028b", null ],
+    [ "VendorGuid", "d4/d25/a11142.html#a9c6288866c870b4a82169fe7fbef4512", null ]
 ];

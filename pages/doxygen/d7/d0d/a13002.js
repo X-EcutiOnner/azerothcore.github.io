@@ -1,8 +1,6 @@
 var a13002 =
 [
-    [ "npc_barnesAI", "d2/de5/a13006.html", "d2/de5/a13006" ],
-    [ "npc_barnes", "d7/d0d/a13002.html#aacdc737a94397a90b48b635293fe9c80", null ],
-    [ "GetAI", "d7/d0d/a13002.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
-    [ "OnGossipHello", "d7/d0d/a13002.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
-    [ "OnGossipSelect", "d7/d0d/a13002.html#aa04d577e318f16f581f82761b6014eb5", null ]
+    [ "boss_shazzrahAI", "d7/d0d/a13002.html#a984b3d32d5f231a019f2c0f1bb027907", null ],
+    [ "ExecuteEvent", "d7/d0d/a13002.html#a0f6e3e6876b9b769ea53db5c9028c6ff", null ],
+    [ "JustEngagedWith", "d7/d0d/a13002.html#aaa8111d42cacd58f767513026976668c", null ]
 ];

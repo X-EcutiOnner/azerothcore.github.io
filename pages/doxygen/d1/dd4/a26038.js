@@ -1,7 +1,8 @@
 var a26038 =
 [
-    [ "HandleDummy", "d1/dd4/a26038.html#a630b3359dcecdb65992df67fbc4b197b", null ],
-    [ "PrepareSpellScript", "d1/dd4/a26038.html#a9960211eda513e642a386e0ff3bcd4c5", null ],
-    [ "Register", "d1/dd4/a26038.html#aaa1c9db89ddd7a7590b3b41b377d4cec", null ],
-    [ "Validate", "d1/dd4/a26038.html#a9af89aba8006d93b8c0ae2ce7143255e", null ]
+    [ "OnRemove", "d1/dd4/a26038.html#a645e869079e711a87f1a957b42a35e98", null ],
+    [ "OnStackChange", "d1/dd4/a26038.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b", null ],
+    [ "PrepareAuraScript", "d1/dd4/a26038.html#a5f9e9d07879705917e1cd261808f0a8f", null ],
+    [ "Register", "d1/dd4/a26038.html#ac86068a892255e38244c487a7456cd9f", null ],
+    [ "Validate", "d1/dd4/a26038.html#a74cb62725d939000a1c4ab32b4f4335f", null ]
 ];

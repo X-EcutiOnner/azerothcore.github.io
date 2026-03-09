@@ -1,6 +1,7 @@
 var a15698 =
 [
-    [ "npc_omenAI", "dd/dae/a15702.html", "dd/dae/a15702" ],
-    [ "npc_omen", "d1/dcc/a15698.html#aff955303a8b9741838779a59dd496f62", null ],
-    [ "GetAI", "d1/dcc/a15698.html#a8023ad3298000d9819c46f46a93166d4", null ]
+    [ "npc_sartura_royal_guard", "d1/dcc/a15698.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
+    [ "JustEngagedWith", "d1/dcc/a15698.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
+    [ "Reset", "d1/dcc/a15698.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
+    [ "UpdateAI", "d1/dcc/a15698.html#a2ed50f65847133c897facecbaa4711d8", null ]
 ];

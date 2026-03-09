@@ -1,5 +1,6 @@
 var a23570 =
 [
-    [ "go_main_chambers_access_panel", "d9/d69/a23570.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "d9/d69/a23570.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "CheckProc", "d9/d69/a23570.html#add583b34b9052fbb37c43c558f0f8b96", null ],
+    [ "PrepareAuraScript", "d9/d69/a23570.html#a3d7ed0fa175daffcf11fc3ee04b189bf", null ],
+    [ "Register", "d9/d69/a23570.html#ab91f611f59e83d4f1b7c71b1595db667", null ]
 ];

@@ -1,8 +1,10 @@
 var a29878 =
 [
-    [ "_ACORE_DB_IMPORT_CONFIG", "d1/dba/a29878.html#a97392c73658eeeb49d256527b19ad90f", null ],
-    [ "GetConsoleArguments", "d1/dba/a29878.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "main", "d1/dba/a29878.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "StartDB", "d1/dba/a29878.html#a1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "d1/dba/a29878.html#a927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "adt_CELLS", "d6/d7d/a29886.html", "d6/d7d/a29886" ],
+    [ "getMCNK", "d1/dba/a29878.html#a8330b7cb405146399d3d20e6952a8b40", null ],
+    [ "prepareLoadedData", "d1/dba/a29878.html#adc7346499aa51f4422c810b7e757f835", null ],
+    [ "cells", "d1/dba/a29878.html#a434ed0ca354ec27d5334cc63e5650038", null ],
+    [ "fcc", "d1/dba/a29878.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
+    [ "fcc_txt", "d1/dba/a29878.html#a514bae36851623daf76b26a9d63f1ae0", null ],
+    [ "size", "d1/dba/a29878.html#a1a40f52ea9eef3add8207da89cb71210", null ]
 ];

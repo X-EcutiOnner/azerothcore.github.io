@@ -1,13 +1,28 @@
 var a02840 =
 [
-    [ "spell_ooze_zap", "d4/dd5/a15932.html", "d4/dd5/a15932" ],
-    [ "spell_ooze_zap_channel_end", "db/dcb/a15936.html", "db/dcb/a15936" ],
-    [ "spell_energize_aoe", "dc/dcd/a15940.html", "dc/dcd/a15940" ],
-    [ "SpellScripts", "d9/d4d/a02840.html#a7da1350130e8c0e2dbb048bb6d532048", [
-      [ "SPELL_OOZE_ZAP", "d9/d4d/a02840.html#a7da1350130e8c0e2dbb048bb6d532048a1b2971d13842ea79dee4215970f1b0f8", null ],
-      [ "SPELL_OOZE_ZAP_CHANNEL_END", "d9/d4d/a02840.html#a7da1350130e8c0e2dbb048bb6d532048a02f7e373b9176afcf3033085c6cc4a1d", null ],
-      [ "SPELL_OOZE_CHANNEL_CREDIT", "d9/d4d/a02840.html#a7da1350130e8c0e2dbb048bb6d532048a5e8e7d71235ca347c586316d35c81f2b", null ],
-      [ "SPELL_ENERGIZED", "d9/d4d/a02840.html#a7da1350130e8c0e2dbb048bb6d532048a37a0a6328b9098980d1ec0596ddebbca", null ]
+    [ "OPvPCapturePointHP", "d1/dcb/a22514.html", "d1/dcb/a22514" ],
+    [ "OutdoorPvPHP", "d9/d53/a22518.html", "d9/d53/a22518" ],
+    [ "OutdoorPvPHPBuffZonesNum", "d9/d4d/a02840.html#a01aada98c8079ea71a361cba06e10640", null ],
+    [ "OutdoorPvPHPSpells", "d9/d4d/a02840.html#a09664100577cc20866b21589f3c1eb4a", [
+      [ "AlliancePlayerKillReward", "d9/d4d/a02840.html#a09664100577cc20866b21589f3c1eb4aad472ab0479934282573d2a2b142ecddc", null ],
+      [ "HordePlayerKillReward", "d9/d4d/a02840.html#a09664100577cc20866b21589f3c1eb4aa831169d26f4b6d47dc372629927d7e45", null ],
+      [ "AllianceBuff", "d9/d4d/a02840.html#a09664100577cc20866b21589f3c1eb4aa426e0e0ba254467f65dbcecd1cb3451a", null ],
+      [ "HordeBuff", "d9/d4d/a02840.html#a09664100577cc20866b21589f3c1eb4aab7ca0ff835377a499cd163afa9ddfaa2", null ]
     ] ],
-    [ "AddSC_dustwallow_marsh", "d9/d4d/a02840.html#a90fa5d1f62873c538b717bfbfb93251b", null ]
+    [ "OutdoorPvPHPTowerType", "d9/d4d/a02840.html#ad618152baad1f5a1d7f70f40941e8f33", [
+      [ "HP_TOWER_BROKEN_HILL", "d9/d4d/a02840.html#ad618152baad1f5a1d7f70f40941e8f33ac441f3412d9e7d328a88cb288f56bfd9", null ],
+      [ "HP_TOWER_OVERLOOK", "d9/d4d/a02840.html#ad618152baad1f5a1d7f70f40941e8f33a8c33cdd1da9aa64b4a329b18f6f54447", null ],
+      [ "HP_TOWER_STADIUM", "d9/d4d/a02840.html#ad618152baad1f5a1d7f70f40941e8f33a7fda380ac328f409fa311478cd32be84", null ],
+      [ "HP_TOWER_NUM", "d9/d4d/a02840.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355", null ]
+    ] ],
+    [ "HP_CREDITMARKER", "d9/d4d/a02840.html#a3be5b978c2160f84a013071d76c121aa", null ],
+    [ "HP_MAP_A", "d9/d4d/a02840.html#ab540dae1c3c44e27c4441e9d56e10d1d", null ],
+    [ "HP_MAP_H", "d9/d4d/a02840.html#ab15c51d80dc177784041dedc55e39c56", null ],
+    [ "HP_MAP_N", "d9/d4d/a02840.html#a8a39817e7479fa79181e8c99bb83ca5c", null ],
+    [ "HP_TowerArtKit_A", "d9/d4d/a02840.html#ab9c6e470e4a4759ce2e77f88661521bb", null ],
+    [ "HP_TowerArtKit_H", "d9/d4d/a02840.html#a6791490624d9d1c2995c6a13659f8692", null ],
+    [ "HP_TowerArtKit_N", "d9/d4d/a02840.html#ae64775fc45fae501937d72c9d55c8dc1", null ],
+    [ "HPCapturePoints", "d9/d4d/a02840.html#a23f671f25a8a3e3db11f4a0953b34773", null ],
+    [ "HPTowerFlags", "d9/d4d/a02840.html#ae6571d986fbbf7b469cf495033f46516", null ],
+    [ "OutdoorPvPHPBuffZones", "d9/d4d/a02840.html#a876ea3aeffde8ab2532706d13ae6e2ce", null ]
 ];

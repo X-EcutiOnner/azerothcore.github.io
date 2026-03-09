@@ -1,10 +1,26 @@
 var a08642 =
 [
-    [ "EquipmentSet", "d8/dad/a08642.html#acd3085c12c795daceae86e94448109e2", null ],
-    [ "Guid", "d8/dad/a08642.html#aae529ea61a2ad4f114b6a108564f5474", null ],
-    [ "IconName", "d8/dad/a08642.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
-    [ "IgnoreMask", "d8/dad/a08642.html#af116e824d23f000f424f3b261618e827", null ],
-    [ "Items", "d8/dad/a08642.html#a113e6e5883afe38d446a6d435cd34a01", null ],
-    [ "Name", "d8/dad/a08642.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
-    [ "state", "d8/dad/a08642.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
+    [ "JumpInfo", "da/ddb/a08650.html", "da/ddb/a08650" ],
+    [ "TransportInfo", "dd/d5e/a08646.html", "dd/d5e/a08646" ],
+    [ "MovementInfo", "d8/dad/a08642.html#a809340998de55a9ffa895f7b27e1f2c3", null ],
+    [ "AddExtraMovementFlag", "d8/dad/a08642.html#aff0e449eb1567041f1a44c34e5fa85bc", null ],
+    [ "AddMovementFlag", "d8/dad/a08642.html#ae02908de40bf25e5d07d3bb248448a68", null ],
+    [ "GetExtraMovementFlags", "d8/dad/a08642.html#a7a9353ff367c80cddeaddd63fcd32ddb", null ],
+    [ "GetMovementFlags", "d8/dad/a08642.html#ade08354701baa32b9ff232d6b07e6097", null ],
+    [ "HasExtraMovementFlag", "d8/dad/a08642.html#afad84c80474a806e8abb4626ccfbcfaf", null ],
+    [ "HasMovementFlag", "d8/dad/a08642.html#ad9571cb899d58cc60fbe2412be79116e", null ],
+    [ "OutDebug", "d8/dad/a08642.html#af8c4c6db42364ec712398b317238c90b", null ],
+    [ "RemoveMovementFlag", "d8/dad/a08642.html#ab38114c14a8848a082b4f265eab11c72", null ],
+    [ "SetFallTime", "d8/dad/a08642.html#a683565ad0865709083e81d07a8ce1395", null ],
+    [ "SetMovementFlags", "d8/dad/a08642.html#ace324e7171c3520efdce76d2bbc75c67", null ],
+    [ "fallTime", "d8/dad/a08642.html#abcf42fcf7d61044fd9fb5e6857e21ab5", null ],
+    [ "flags", "d8/dad/a08642.html#ab64213c21ac3cdfd769a5acdc7fce200", null ],
+    [ "flags2", "d8/dad/a08642.html#aa8dc40a9829334f2ca7fa4e7347f91a5", null ],
+    [ "guid", "d8/dad/a08642.html#a10c1c9721558fd98d33bb43b3bfff837", null ],
+    [ "jump", "d8/dad/a08642.html#a920a536b873fcc63dd6bb22882a7a8ea", null ],
+    [ "pitch", "d8/dad/a08642.html#af2945943a91efc4cd5f2f9a0b86424cf", null ],
+    [ "pos", "d8/dad/a08642.html#afc5605f3e357e6ca4f2c681329bb0302", null ],
+    [ "splineElevation", "d8/dad/a08642.html#ac524b47fa52b05e7c6a6b7c577c9291f", null ],
+    [ "time", "d8/dad/a08642.html#a90c332cb1b99ce1ac6eab39bc2a6e4b2", null ],
+    [ "transport", "d8/dad/a08642.html#ac2b0f738ec695f4c9f032daad3e1f041", null ]
 ];

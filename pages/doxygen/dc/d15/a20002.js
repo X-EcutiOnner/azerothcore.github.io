@@ -1,6 +1,8 @@
 var a20002 =
 [
-    [ "npc_auriaya_feral_defenderAI", "d3/d5c/a20006.html", "d3/d5c/a20006" ],
-    [ "npc_auriaya_feral_defender", "dc/d15/a20002.html#ae1afc396a1d9e6c9c2042ee0f58fb270", null ],
-    [ "GetAI", "dc/d15/a20002.html#abec35e280e42154af82f3e7e4fcec48d", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "dc/d15/a20002.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
+    [ "CheckAchievementCriteriaMeet", "dc/d15/a20002.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
+    [ "SetData", "dc/d15/a20002.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
+    [ "_bjarngrimAchievement", "dc/d15/a20002.html#aba06463eb70c68716f571951395c6e2a", null ],
+    [ "_volkhanAchievement", "dc/d15/a20002.html#a52db8081961566ef2002424f00b60189", null ]
 ];

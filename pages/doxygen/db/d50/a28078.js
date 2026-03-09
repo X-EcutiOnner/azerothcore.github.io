@@ -1,5 +1,6 @@
 var a28078 =
 [
-    [ "ID", "db/d50/a28078.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
-    [ "price", "db/d50/a28078.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
+    [ "npc_dream_fogAI", "da/d35/a28082.html", "da/d35/a28082" ],
+    [ "npc_dream_fog", "db/d50/a28078.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
+    [ "GetAI", "db/d50/a28078.html#a48c45fec086e3a50462deed44734ba38", null ]
 ];

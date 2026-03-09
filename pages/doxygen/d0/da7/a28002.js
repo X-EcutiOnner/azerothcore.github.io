@@ -1,5 +1,5 @@
 var a28002 =
 [
-    [ "go_transport_the_purple_princess", "d0/da7/a28002.html#ab0c79197964857d578036693a2c18e8a", null ],
-    [ "EventInform", "d0/da7/a28002.html#ac5b73f1bea180797169138f8e9228783", null ]
+    [ "achievement_sa_defense_of_the_ancients", "d0/da7/a28002.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "d0/da7/a28002.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

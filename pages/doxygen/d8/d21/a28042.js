@@ -1,4 +1,5 @@
 var a28042 =
 [
-    [ "cost", "d8/d21/a28042.html#a624313c8b56b9755593b2f4bacd306d7", null ]
+    [ "AreaTrigger_at_legion_teleporter", "d8/d21/a28042.html#a2b648bd038f41025c19338367c696d25", null ],
+    [ "OnTrigger", "d8/d21/a28042.html#ae8239e5ad56d93627102dbd02989353d", null ]
 ];

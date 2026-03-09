@@ -1,6 +1,6 @@
 var a19046 =
 [
-    [ "npc_icc_putricades_trapAI", "db/de9/a19050.html", "db/de9/a19050" ],
-    [ "npc_icc_putricades_trap", "d8/d00/a19046.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
-    [ "GetAI", "d8/d00/a19046.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
+    [ "HandleScript", "d8/d00/a19046.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
+    [ "PrepareSpellScript", "d8/d00/a19046.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
+    [ "Register", "d8/d00/a19046.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
 ];

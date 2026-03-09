@@ -1,6 +1,5 @@
 var a13194 =
 [
-    [ "npc_acherus_necromancerAI", "db/ddf/a13198.html", "db/ddf/a13198" ],
-    [ "npc_acherus_necromancer", "d7/d81/a13194.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
-    [ "GetAI", "d7/d81/a13194.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
+    [ "at_karazhan_atiesh_aran", "d7/d81/a13194.html#ac84f5848b8a26cbfdd2544108567a6cc", null ],
+    [ "OnTrigger", "d7/d81/a13194.html#a5a6646c573b6e0bab0cbc288e594979e", null ]
 ];

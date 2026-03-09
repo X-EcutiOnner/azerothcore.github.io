@@ -1,8 +1,6 @@
 var a11170 =
 [
-    [ "ServerPktHeader", "d5/d11/a11170.html#a761e294fccc02055a46bfc46656da706", null ],
-    [ "getHeaderLength", "d5/d11/a11170.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
-    [ "isLargePacket", "d5/d11/a11170.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
-    [ "header", "d5/d11/a11170.html#adc69128832b16124c284c584e7540b11", null ],
-    [ "size", "d5/d11/a11170.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
+    [ "ItemRefundInfo", "d5/d11/a11170.html#ab43208228bc0c6d1dc9dcc3154589b49", null ],
+    [ "Read", "d5/d11/a11170.html#a9aaf7ecb1f757708c541e4957a72c610", null ],
+    [ "ItemGuid", "d5/d11/a11170.html#a23cce0e086b7c640fd744403f3cfe45e", null ]
 ];

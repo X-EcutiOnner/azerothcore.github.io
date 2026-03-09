@@ -1,10 +1,11 @@
 var a14222 =
 [
-    [ "npc_batrider", "d3/d21/a14222.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
-    [ "DamageTaken", "d3/d21/a14222.html#ad4818b1363082a91223526908c38777c", null ],
-    [ "JustEngagedWith", "d3/d21/a14222.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
-    [ "Reset", "d3/d21/a14222.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
-    [ "UpdateAI", "d3/d21/a14222.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
-    [ "_mode", "d3/d21/a14222.html#acd53ec78a754219511af1ad2f11422a9", null ],
-    [ "_scheduler", "d3/d21/a14222.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
+    [ "npc_highborne_lamenterAI", "d3/d21/a14222.html#ad91cd657166a12d3c34adcf7b11d076f", null ],
+    [ "JustEngagedWith", "d3/d21/a14222.html#a77a978fdb0ba0de506f66ec0b2906229", null ],
+    [ "Reset", "d3/d21/a14222.html#a7cf9338767e8edf0a87a5552703de87a", null ],
+    [ "UpdateAI", "d3/d21/a14222.html#a1048c558b825b58dbc7a3d97869a3e88", null ],
+    [ "EventCast", "d3/d21/a14222.html#a02ed3216c8b71e3d2be695866dbc0089", null ],
+    [ "EventCastTimer", "d3/d21/a14222.html#afc490ae2382fd7097b3877c7f9eadf6b", null ],
+    [ "EventMove", "d3/d21/a14222.html#aca22c73db989f0393926067506794e43", null ],
+    [ "EventMoveTimer", "d3/d21/a14222.html#a36d1993262eb0a7200e2bec625f5b4d1", null ]
 ];

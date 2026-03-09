@@ -1,7 +1,7 @@
 var a15966 =
 [
-    [ "go_troll_cageAI", "da/d74/a15966.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
-    [ "GossipHello", "da/d74/a15966.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
-    [ "initBlyCrewMember", "da/d74/a15966.html#a6bfb77ec97367d8704885acfef801b74", null ],
-    [ "instance", "da/d74/a15966.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
+    [ "HandleEffectPeriodic", "da/d74/a15966.html#ac47c157dbd193bc131d281666ae2097f", null ],
+    [ "PrepareAuraScript", "da/d74/a15966.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
+    [ "Register", "da/d74/a15966.html#ac3c158fdddd007d1d7986470032bfc25", null ],
+    [ "Validate", "da/d74/a15966.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
 ];

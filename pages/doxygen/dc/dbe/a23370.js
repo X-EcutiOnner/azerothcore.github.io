@@ -1,12 +1,10 @@
 var a23370 =
 [
-    [ "boss_leotheras_the_blind", "dc/dbe/a23370.html#a9229850f996812366a20508931965a87", null ],
-    [ "AttackStart", "dc/dbe/a23370.html#a678ed3eba7d53976fd6efa9051d11124", null ],
-    [ "DemonTime", "dc/dbe/a23370.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
-    [ "DoAction", "dc/dbe/a23370.html#a4f3fd791f12b3f176ce109237c516889", null ],
-    [ "ElfTime", "dc/dbe/a23370.html#a52f101530de8883231faa7f5fe689691", null ],
-    [ "MoveToTargetIfOutOfRange", "dc/dbe/a23370.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
-    [ "Reset", "dc/dbe/a23370.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
-    [ "UpdateAI", "dc/dbe/a23370.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
-    [ "_recentlySpoken", "dc/dbe/a23370.html#ad5231f13a247247dd7095b16c381fc7c", null ]
+    [ "boss_warlord_kalithresh", "dc/dbe/a23370.html#afcf2288fbea2d5010c41344ce0247559", null ],
+    [ "JustDied", "dc/dbe/a23370.html#a1947562aa9dafea371e2f2da824a3f65", null ],
+    [ "JustEngagedWith", "dc/dbe/a23370.html#a2712f5c363c3929550b77ef2536b1385", null ],
+    [ "KilledUnit", "dc/dbe/a23370.html#a06855288497f5335a236867ef681d3f8", null ],
+    [ "MoveInLineOfSight", "dc/dbe/a23370.html#a544da19b6c3a6f159ed6b1639def1071", null ],
+    [ "Reset", "dc/dbe/a23370.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
+    [ "_introDone", "dc/dbe/a23370.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
 ];

@@ -1,21 +1,81 @@
 var a03719 =
 [
-    [ "instance_blackwing_lair", "d7/d3c/a12824.html", "d7/d3c/a12824" ],
-    [ "instance_blackwing_lair::instance_blackwing_lair_InstanceMapScript", "d1/d60/a12828.html", "d1/d60/a12828" ],
-    [ "spell_bwl_shadowflame", "d6/d01/a12832.html", "d6/d01/a12832" ],
-    [ "at_orb_of_command", "da/d8e/a12836.html", "da/d8e/a12836" ],
-    [ "orb_of_command_misc", "d7/da7/a03719.html#a5ddae3d5f11ae5a5d826e7e18d4cded5", [
-      [ "QUEST_BLACKHANDS_COMMAND", "d7/da7/a03719.html#a5ddae3d5f11ae5a5d826e7e18d4cded5ae1d5923d960c45957f7789ee3d943db5", null ]
+    [ "BWLScriptName", "d7/da7/a03719.html#a7b545b19f3c0a35967e17ed74f3f21b2", null ],
+    [ "DataHeader", "d7/da7/a03719.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "RegisterBlackwingLairCreatureAI", "d7/da7/a03719.html#a82a479b9c6b812beefeb3a8ced1438aa", null ],
+    [ "BWLCreatureIds", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4f", [
+      [ "NPC_GRETHOK", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4faf397b79c56313c06d741f61f9a3fa8bf", null ],
+      [ "NPC_BLACKWING_GUARDSMAN", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa452d2bfa37157a8f9c0cfae3243afd61", null ],
+      [ "NPC_NEFARIAN_TROOPS", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa761d9f901fdba1da139c2899d2335051", null ],
+      [ "NPC_RAZORGORE", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fab9148da8e944bdb2c541c670ade5ee2f", null ],
+      [ "NPC_BLACKWING_DRAGON", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa2c542ded0aaba770e8e4bc9799662339", null ],
+      [ "NPC_BLACKWING_TASKMASTER", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa9686d523c9807c85adb81b24e9ae663f", null ],
+      [ "NPC_BLACKWING_LEGIONAIRE", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fabe4fd2c7b2ad9b4ea79834c26865f203", null ],
+      [ "NPC_BLACKWING_WARLOCK", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4facad205bfdb0fd369b2d7a9f52c2f798e", null ],
+      [ "NPC_BLACKWING_MAGE", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa5ce44c401ded9edb0f85c01b65afc174", null ],
+      [ "NPC_VAELASTRAZ", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4facc468babd2acaa327041d46766e9dec4", null ],
+      [ "NPC_BROODLORD", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa0429b55864dc1628ebf2cc160a93c1dc", null ],
+      [ "NPC_FIREMAW", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4faa241015f224d2db99e55326b4dded69f", null ],
+      [ "NPC_EBONROC", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa6a2f981fda00d3ae44d9448256a9ea19", null ],
+      [ "NPC_FLAMEGOR", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fadb647171558f3c58dccef9bcd0108d6f", null ],
+      [ "NPC_CHROMAGGUS", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa55dd5903da9c02f18bbbdafaf5fde0eb", null ],
+      [ "NPC_VICTOR_NEFARIUS", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa2bdf43f19b2d8c2f771f0f55a6fad9c9", null ],
+      [ "NPC_NEFARIAN", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fae8830226aeb4002944c0375d61a14e3b", null ],
+      [ "NPC_BLACK_SPAWNER", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa93d50c7a6130ae6a6152c7a0c12de49f", null ],
+      [ "NPC_RED_SPAWNER", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa216a1b67c03db33780efe17030c1832d", null ],
+      [ "NPC_GREEN_SPAWNER", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fae96931ed395b2a388948c7d9e5df6527", null ],
+      [ "NPC_BRONZE_SPAWNER", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa6e5aae47400e9ba8451f000db4ad10dc", null ],
+      [ "NPC_BLUE_SPAWNER", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4faded1574d362c780f846690d7306ab987", null ],
+      [ "NPC_BRONZE_DRAKONID", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4faacb1238073f579d267219b3bf0cd61df", null ],
+      [ "NPC_BLUE_DRAKONID", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa450a08f96946d6faf1c9610e3fa6adfe", null ],
+      [ "NPC_RED_DRAKONID", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa29cb889cb42ed3e4fbeedfbee132b25f", null ],
+      [ "NPC_GREEN_DRAKONID", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa8724da46a6ef5ac2a0b6c939b3cd2bd0", null ],
+      [ "NPC_BLACK_DRAKONID", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fab81fa55501d6dbc25ed1adf0330787ef", null ],
+      [ "NPC_CHROMATIC_DRAKONID", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa3da34df86f187ff4714dcd155df0bcbd", null ],
+      [ "NPC_BONE_CONSTRUCT", "d7/da7/a03719.html#ac02f9e34b4a5d720bc51fa7198d9ef4fa22402b3c881e3f3dd16c43393faa7067", null ]
     ] ],
-    [ "ShadowFlame", "d7/da7/a03719.html#a18a82309d32c08f1de5944fde20789fa", [
-      [ "SPELL_ONYXIA_SCALE_CLOAK", "d7/da7/a03719.html#a18a82309d32c08f1de5944fde20789faa2f64e1a42a1d2fb4d6c849100de2c7d0", null ],
-      [ "SPELL_SHADOW_FLAME_DOT", "d7/da7/a03719.html#a18a82309d32c08f1de5944fde20789faaed2cf39ef97aea751e32c5249fc8fc3e", null ]
+    [ "BWLEncounter", "d7/da7/a03719.html#ab09f71d157de7a7a0d9a78a3ae8ca034", [
+      [ "DATA_RAZORGORE_THE_UNTAMED", "d7/da7/a03719.html#ab09f71d157de7a7a0d9a78a3ae8ca034ae70e30478292dd4146feab9eda8b4615", null ],
+      [ "DATA_VAELASTRAZ_THE_CORRUPT", "d7/da7/a03719.html#ab09f71d157de7a7a0d9a78a3ae8ca034a0f43fc873c98f50d6e927819dfb898f8", null ],
+      [ "DATA_BROODLORD_LASHLAYER", "d7/da7/a03719.html#ab09f71d157de7a7a0d9a78a3ae8ca034ac9a22e7f87e32cb805c4b690ee91a5a5", null ],
+      [ "DATA_FIREMAW", "d7/da7/a03719.html#ab09f71d157de7a7a0d9a78a3ae8ca034acc4342d1b5c80d7bc2176894467cfdf6", null ],
+      [ "DATA_EBONROC", "d7/da7/a03719.html#ab09f71d157de7a7a0d9a78a3ae8ca034ab99f253ea5d221dca0452b73f4401182", null ],
+      [ "DATA_FLAMEGOR", "d7/da7/a03719.html#ab09f71d157de7a7a0d9a78a3ae8ca034a236ea6c400310e4f19714a88d484c2b5", null ],
+      [ "DATA_CHROMAGGUS", "d7/da7/a03719.html#ab09f71d157de7a7a0d9a78a3ae8ca034a2cb2a4cc6ce13fbc5e24dd2fb284ff79", null ],
+      [ "DATA_NEFARIAN", "d7/da7/a03719.html#ab09f71d157de7a7a0d9a78a3ae8ca034a32b2079ddfeda070f3315d8e28971660", null ],
+      [ "DATA_LORD_VICTOR_NEFARIUS", "d7/da7/a03719.html#ab09f71d157de7a7a0d9a78a3ae8ca034a2ba156c530e67f9c88a4d54715f5fa97", null ],
+      [ "DATA_GRETHOK", "d7/da7/a03719.html#ab09f71d157de7a7a0d9a78a3ae8ca034a5195e3b83d9466f820e2fddbe77d64df", null ],
+      [ "DATA_NEFARIAN_TROOPS", "d7/da7/a03719.html#ab09f71d157de7a7a0d9a78a3ae8ca034aa5f5be9038028255c66aef5d2d4ec7fb", null ],
+      [ "DATA_GO_CHROMAGGUS_DOOR", "d7/da7/a03719.html#ab09f71d157de7a7a0d9a78a3ae8ca034aa1b22febb4f79c4264ec32e5cb8dbc51", null ],
+      [ "DATA_GO_CHROMAGGUS_DOOR_EXIT", "d7/da7/a03719.html#ab09f71d157de7a7a0d9a78a3ae8ca034a770943809f31fc32287d4cba0509e823", null ]
     ] ],
-    [ "AddSC_instance_blackwing_lair", "d7/da7/a03719.html#a942a9ad3e1b872492dfc7d62615df103", null ],
-    [ "creatureData", "d7/da7/a03719.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d7/da7/a03719.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "Entry", "d7/da7/a03719.html#a79d118516d0621008a183666ffecc3ad", null ],
-    [ "objectData", "d7/da7/a03719.html#a59ddfa91084111da23b5d47482e4ff8d", null ],
-    [ "orbOfCommandTP", "d7/da7/a03719.html#a9ee49a7ad7d4b8e8f52533faa578370f", null ],
-    [ "SummonPosition", "d7/da7/a03719.html#a2c79c628fd8c60d02dc0b2368a70be04", null ]
+    [ "BWLEvents", "d7/da7/a03719.html#a0661af2e41b6765f7a800eb4a9b37a62", [
+      [ "EVENT_RAZOR_SPAWN", "d7/da7/a03719.html#a0661af2e41b6765f7a800eb4a9b37a62aa1f2af93d652b8aeb4639b009cca337a", null ],
+      [ "EVENT_RAZOR_PHASE_TWO", "d7/da7/a03719.html#a0661af2e41b6765f7a800eb4a9b37a62a78ea30dac17e63c8a662f7860345c2c6", null ],
+      [ "EVENT_RESPAWN_NEFARIUS", "d7/da7/a03719.html#a0661af2e41b6765f7a800eb4a9b37a62af75d0754bd8b87f8f229fd540b9c5c4e", null ]
+    ] ],
+    [ "BWLGameObjectIds", "d7/da7/a03719.html#a6c868993469921a4050cdd9cbc9e4abf", [
+      [ "GO_BLACK_DRAGON_EGG", "d7/da7/a03719.html#a6c868993469921a4050cdd9cbc9e4abfa64614c9b7943ebc8b442d41f72ef0e24", null ],
+      [ "GO_PORTCULLIS_RAZORGORE", "d7/da7/a03719.html#a6c868993469921a4050cdd9cbc9e4abfaff80c24224fa886f1a761924bd38034b", null ],
+      [ "GO_PORTCULLIS_RAZORGORE_ROOM", "d7/da7/a03719.html#a6c868993469921a4050cdd9cbc9e4abfafe8bcead8622621a7e4f847783271804", null ],
+      [ "GO_PORTCULLIS_VAELASTRASZ", "d7/da7/a03719.html#a6c868993469921a4050cdd9cbc9e4abfa78ed4b47b79cd08aabb9b655256e8a02", null ],
+      [ "GO_PORTCULLIS_BROODLORD", "d7/da7/a03719.html#a6c868993469921a4050cdd9cbc9e4abfa29f696cd0bfb04dcbab502438dcc176a", null ],
+      [ "GO_PORTCULLIS_THREEDRAGONS", "d7/da7/a03719.html#a6c868993469921a4050cdd9cbc9e4abfa848d513b1c682d90ac41e7d3082a852a", null ],
+      [ "GO_CHROMAGGUS_LEVER", "d7/da7/a03719.html#a6c868993469921a4050cdd9cbc9e4abfaa0bead73520ed546966f6819fbd930cd", null ],
+      [ "GO_PORTCULLIS_CHROMAGGUS", "d7/da7/a03719.html#a6c868993469921a4050cdd9cbc9e4abfa1e1e07b6790ca12f03345a2bf1280308", null ],
+      [ "GO_PORTCULLIS_CHROMAGGUS_EXIT", "d7/da7/a03719.html#a6c868993469921a4050cdd9cbc9e4abfa6ec10262dc2e8311b1ac9ca6d510cbf6", null ],
+      [ "GO_PORTCULLIS_NEFARIAN", "d7/da7/a03719.html#a6c868993469921a4050cdd9cbc9e4abfa2cd1d7f8c53e13e7b2b4d48c536ae236", null ],
+      [ "GO_SUPPRESSION_DEVICE", "d7/da7/a03719.html#a6c868993469921a4050cdd9cbc9e4abfac4721074356592da23a4529af848b78f", null ]
+    ] ],
+    [ "BWLMisc", "d7/da7/a03719.html#a1adac81d8f2075505fecfde91953080f", [
+      [ "ACTION_PHASE_TWO", "d7/da7/a03719.html#a1adac81d8f2075505fecfde91953080faf176da20fc5a7d4386a131e38b386e06", null ],
+      [ "DATA_EGG_EVENT", "d7/da7/a03719.html#a1adac81d8f2075505fecfde91953080fa2ab992d07fdd3a99a150abb72fdb074b", null ],
+      [ "TALK_EGG_BROKEN_RAND", "d7/da7/a03719.html#a1adac81d8f2075505fecfde91953080fa0217d8a93a7104be8fe4dbf972c7393f", null ],
+      [ "SAY_NEFARIAN_VAEL_INTRO", "d7/da7/a03719.html#a1adac81d8f2075505fecfde91953080fa9d9f0f0070821d807bb6488ba9cdf689", null ],
+      [ "DATA_NEFARIAN_LEFT_TUNNEL", "d7/da7/a03719.html#a1adac81d8f2075505fecfde91953080fa94173a98d77a9d0054977805b4e8d62d", null ],
+      [ "DATA_NEFARIAN_RIGHT_TUNNEL", "d7/da7/a03719.html#a1adac81d8f2075505fecfde91953080fa407ab878051e2e3b810c6216f78bf876", null ],
+      [ "ACTION_NEFARIUS_ADD_KILLED", "d7/da7/a03719.html#a1adac81d8f2075505fecfde91953080fa5b266dce7529da7022dd16216bf22e4d", null ]
+    ] ],
+    [ "GetBlackwingLairAI", "d7/da7/a03719.html#a66b27efa7158211c2d644ec17579976e", null ],
+    [ "EncounterCount", "d7/da7/a03719.html#ae6104e16f72c5b3e12bd4250dde032ce", null ]
 ];

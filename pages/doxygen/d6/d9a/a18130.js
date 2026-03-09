@@ -1,8 +1,6 @@
 var a18130 =
 [
-    [ "HandleScript", "d6/d9a/a18130.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
-    [ "PrepareSpellScript", "d6/d9a/a18130.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
-    [ "Register", "d6/d9a/a18130.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
-    [ "SelectTarget", "d6/d9a/a18130.html#a36d575c6a63e94905bf435bc9d39e588", null ],
-    [ "Validate", "d6/d9a/a18130.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
+    [ "npc_gunship_rocketeerAI", "de/d4c/a18134.html", "de/d4c/a18134" ],
+    [ "npc_gunship_rocketeer", "d6/d9a/a18130.html#a7ed2cf258269f239bb73f2f06411db07", null ],
+    [ "GetAI", "d6/d9a/a18130.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
 ];

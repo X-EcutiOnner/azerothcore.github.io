@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/tools/vmap4_extractor/mpq_libmpq04.h File Reference</title>
+<title>AzerothCore: HolidayDateCalculatorTest Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,56 +105,31 @@ $(document).ready(function(){initNavTree('da/d7e/a29698.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#typedef-members">Typedefs</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">mpq_libmpq04.h File Reference</div></div>
+<a href="#pro-methods">Protected Member Functions</a> &#124;
+<a href="../../d8/da4/a29695.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">HolidayDateCalculatorTest Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;libmpq/mpq.h&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">loadlib/loadlib.h</a>&quot;</code><br />
-<code>#include &lt;cstring&gt;</code><br />
-<code>#include &lt;deque&gt;</code><br />
-<code>#include &lt;iostream&gt;</code><br />
-<code>#include &lt;vector&gt;</code><br />
-</div>
-<p><a href="">Go to the source code of this file.</a></p>
+<div class="dynheader">
+Inheritance diagram for HolidayDateCalculatorTest:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../da/d7e/a29698.png" alt=""/>
+ </div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d6d/a28706.html">MPQArchive</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da0/a28710.html">MPQFile</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a8d76af4bfff910da40b4f93a1c465744"><td class="memItemLeft" align="right" valign="top">typedef std::deque&lt; <a class="el" href="../../df/d6d/a28706.html">MPQArchive</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d7e/a29698.html#a8d76af4bfff910da40b4f93a1c465744">ArchiveSet</a></td></tr>
-<tr class="separator:a8d76af4bfff910da40b4f93a1c465744"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:aff3add09c98fece7ace91b0e7c90435e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d7e/a29698.html#aff3add09c98fece7ace91b0e7c90435e">flipcc</a> (char *fcc)</td></tr>
-<tr class="separator:aff3add09c98fece7ace91b0e7c90435e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
+Protected Member Functions</h2></td></tr>
+<tr class="memitem:a98d1b0446f1db9a0e25ad93b40d7d7a0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d7e/a29698.html#a98d1b0446f1db9a0e25ad93b40d7d7a0">ExpectDate</a> (const std::tm &amp;date, int year, int month, int day)</td></tr>
+<tr class="separator:a98d1b0446f1db9a0e25ad93b40d7d7a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af1ee91196bfb749605bf98f4441a03a4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d7e/a29698.html#af1ee91196bfb749605bf98f4441a03a4">IsValidDate</a> (int year, int month, int day)</td></tr>
+<tr class="separator:af1ee91196bfb749605bf98f4441a03a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af80c133dce034eed150593681fba594d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d7e/a29698.html#af80c133dce034eed150593681fba594d">IsLeapYear</a> (int year)</td></tr>
+<tr class="separator:af80c133dce034eed150593681fba594d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="a8d76af4bfff910da40b4f93a1c465744" name="a8d76af4bfff910da40b4f93a1c465744"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8d76af4bfff910da40b4f93a1c465744">&#9670;&#160;</a></span>ArchiveSet</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::deque&lt;<a class="el" href="../../df/d6d/a28706.html">MPQArchive</a>*&gt; <a class="el" href="../../d8/da4/a29695.html#a8d76af4bfff910da40b4f93a1c465744">ArchiveSet</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="aff3add09c98fece7ace91b0e7c90435e" name="aff3add09c98fece7ace91b0e7c90435e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aff3add09c98fece7ace91b0e7c90435e">&#9670;&#160;</a></span>flipcc()</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a98d1b0446f1db9a0e25ad93b40d7d7a0" name="a98d1b0446f1db9a0e25ad93b40d7d7a0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a98d1b0446f1db9a0e25ad93b40d7d7a0">&#9670;&#160;</a></span>ExpectDate()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -163,23 +138,133 @@ Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void flipcc </td>
+          <td class="memname">void HolidayDateCalculatorTest::ExpectDate </td>
           <td>(</td>
-          <td class="paramtype">char *&#160;</td>
-          <td class="paramname"><em>fcc</em></td><td>)</td>
+          <td class="paramtype">const std::tm &amp;&#160;</td>
+          <td class="paramname"><em>date</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>year</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>month</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>day</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   25</span>    {</div>
+<div class="line"><span class="lineno">   26</span>        EXPECT_EQ(date.tm_year + 1900, year);</div>
+<div class="line"><span class="lineno">   27</span>        EXPECT_EQ(date.tm_mon + 1, month);</div>
+<div class="line"><span class="lineno">   28</span>        EXPECT_EQ(date.tm_mday, day);</div>
+<div class="line"><span class="lineno">   29</span>    }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="af80c133dce034eed150593681fba594d" name="af80c133dce034eed150593681fba594d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af80c133dce034eed150593681fba594d">&#9670;&#160;</a></span>IsLeapYear()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool HolidayDateCalculatorTest::IsLeapYear </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>year</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  100</span>{</div>
-<div class="line"><span class="lineno">  101</span>    std::swap(fcc[0], fcc[3]);</div>
-<div class="line"><span class="lineno">  102</span>    std::swap(fcc[1], fcc[2]);</div>
-<div class="line"><span class="lineno">  103</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   52</span>    {</div>
+<div class="line"><span class="lineno">   53</span>        <span class="keywordflow">return</span> (year % 4 == 0 &amp;&amp; year % 100 != 0) || (year % 400 == 0);</div>
+<div class="line"><span class="lineno">   54</span>    }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="af1ee91196bfb749605bf98f4441a03a4" name="af1ee91196bfb749605bf98f4441a03a4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af1ee91196bfb749605bf98f4441a03a4">&#9670;&#160;</a></span>IsValidDate()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool HolidayDateCalculatorTest::IsValidDate </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>year</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>month</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>day</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   33</span>    {</div>
+<div class="line"><span class="lineno">   34</span>        <span class="keywordflow">if</span> (month &lt; 1 || month &gt; 12) <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   35</span>        <span class="keywordflow">if</span> (day &lt; 1 || day &gt; 31) <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   36</span> </div>
+<div class="line"><span class="lineno">   37</span>        <span class="comment">// Check days in month</span></div>
+<div class="line"><span class="lineno">   38</span>        <span class="keywordtype">int</span> daysInMonth[] = {0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};</div>
+<div class="line"><span class="lineno">   39</span> </div>
+<div class="line"><span class="lineno">   40</span>        <span class="comment">// Leap year check for February</span></div>
+<div class="line"><span class="lineno">   41</span>        <span class="keywordflow">if</span> (month == 2)</div>
+<div class="line"><span class="lineno">   42</span>        {</div>
+<div class="line"><span class="lineno">   43</span>            <span class="keywordtype">bool</span> isLeap = (year % 4 == 0 &amp;&amp; year % 100 != 0) || (year % 400 == 0);</div>
+<div class="line"><span class="lineno">   44</span>            <span class="keywordflow">if</span> (isLeap) daysInMonth[2] = 29;</div>
+<div class="line"><span class="lineno">   45</span>        }</div>
+<div class="line"><span class="lineno">   46</span> </div>
+<div class="line"><span class="lineno">   47</span>        <span class="keywordflow">return</span> day &lt;= daysInMonth[month];</div>
+<div class="line"><span class="lineno">   48</span>    }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -188,8 +273,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_ac5beb3152ba3ce8038adbba12e192c7.html">tools</a></li><li class="navelem"><a class="el" href="../../dir_b604cd515113e1b9d14f26b265d784ac.html">vmap4_extractor</a></li><li class="navelem"><a class="el" href="../../da/d7e/a29698.html">mpq_libmpq04.h</a></li>
-    <li class="footer">Generated on Mon Jul 28 2025 20:51:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../da/d7e/a29698.html">HolidayDateCalculatorTest</a></li>
+    <li class="footer">Generated on Mon Mar 9 2026 21:04:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

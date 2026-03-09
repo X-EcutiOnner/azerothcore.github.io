@@ -1,9 +1,8 @@
 var a21738 =
 [
-    [ "npc_bonker_togglevoltAI", "de/ded/a21738.html#adfd43a6a804a35e235262e55f0155ffe", null ],
-    [ "JustDied", "de/ded/a21738.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
-    [ "Reset", "de/ded/a21738.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
-    [ "UpdateEscortAI", "de/ded/a21738.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
-    [ "WaypointReached", "de/ded/a21738.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
-    [ "Bonker_agro", "de/ded/a21738.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
+    [ "npc_future_youAI", "de/ded/a21738.html#a7608c050dd198e3133050e222b42f62b", null ],
+    [ "EnterEvadeMode", "de/ded/a21738.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
+    [ "MoveInLineOfSight", "de/ded/a21738.html#a35b67f9e948f5ffbde8a423190ece603", null ],
+    [ "Reset", "de/ded/a21738.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
+    [ "UpdateAI", "de/ded/a21738.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
 ];

@@ -1,7 +1,7 @@
 var a22370 =
 [
-    [ "npc_engineer_heliceAI", "db/d8b/a22374.html", "db/d8b/a22374" ],
-    [ "npc_engineer_helice", "df/d30/a22370.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
-    [ "GetAI", "df/d30/a22370.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
-    [ "OnQuestAccept", "df/d30/a22370.html#ae0979d68744372d5d4669b6f014eb123", null ]
+    [ "npc_wg_quest_giver", "df/d30/a22370.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "df/d30/a22370.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "df/d30/a22370.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "df/d30/a22370.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

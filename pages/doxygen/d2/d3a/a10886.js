@@ -1,9 +1,8 @@
 var a10886 =
 [
-    [ "EnchantmentLog", "d2/d3a/a10886.html#a4427184d166b18e984dc301a6786aac3", null ],
-    [ "Write", "d2/d3a/a10886.html#a17752d3e862c1915f8479058a4be1eb7", null ],
-    [ "Caster", "d2/d3a/a10886.html#ae35a0c689357cf4b5a031f40314a7045", null ],
-    [ "EnchantId", "d2/d3a/a10886.html#a72a85b9f0d40c9406d64a9bf0b06581e", null ],
-    [ "ItemId", "d2/d3a/a10886.html#ad393d5f227bb81738582572bd2601650", null ],
-    [ "Target", "d2/d3a/a10886.html#a9ef981f750bee2101c1f886fa2514913", null ]
+    [ "GuildCommandResult", "d2/d3a/a10886.html#a9b82d7f9fe8f9b42fb4ed74c14cba03d", null ],
+    [ "Write", "d2/d3a/a10886.html#a621e211342b3bf9b5de01a9a3b66291b", null ],
+    [ "Command", "d2/d3a/a10886.html#a099cf9f39c403f76971d006245b03f29", null ],
+    [ "Name", "d2/d3a/a10886.html#a122ee78cb5fc38aa7ecd7a2cad8a33cc", null ],
+    [ "Result", "d2/d3a/a10886.html#a8b6b2127aa39807a61bf0cc3cce15921", null ]
 ];

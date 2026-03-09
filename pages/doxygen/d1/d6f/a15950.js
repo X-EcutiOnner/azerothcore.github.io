@@ -1,6 +1,6 @@
 var a15950 =
 [
-    [ "HandleOpenLock", "d1/d6f/a15950.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
-    [ "PrepareSpellScript", "d1/d6f/a15950.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
-    [ "Register", "d1/d6f/a15950.html#a5dcac6f609ec93074ec3ce195101f592", null ]
+    [ "npc_tiger_matriarchAI", "db/d79/a15954.html", "db/d79/a15954" ],
+    [ "npc_tiger_matriarch", "d1/d6f/a15950.html#a05a08bfa64c428213a4b534a982afb71", null ],
+    [ "GetAI", "d1/d6f/a15950.html#a6d5664ca125a775c2d71f322f5a57655", null ]
 ];

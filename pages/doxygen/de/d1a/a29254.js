@@ -1,8 +1,7 @@
 var a29254 =
 [
-    [ "_ACORE_DB_IMPORT_CONFIG", "de/d1a/a29254.html#a97392c73658eeeb49d256527b19ad90f", null ],
-    [ "GetConsoleArguments", "de/d1a/a29254.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "main", "de/d1a/a29254.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "StartDB", "de/d1a/a29254.html#a1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "de/d1a/a29254.html#a927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "ID", "de/d1a/a29254.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
+    [ "Index", "de/d1a/a29254.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
+    [ "Skill", "de/d1a/a29254.html#aed5e58cf605d3c28cd0d26015722be03", null ],
+    [ "Type", "de/d1a/a29254.html#a39b0b548efd795c162926bddcdd301b5", null ]
 ];

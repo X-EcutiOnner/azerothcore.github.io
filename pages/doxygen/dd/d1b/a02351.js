@@ -1,23 +1,17 @@
 var a02351 =
 [
-    [ "BattlegroundBE", "d3/dc9/a07600.html", "d3/dc9/a07600" ],
-    [ "BattlegroundBEGameObjects", "dd/d1b/a02351.html#a1b0280d2208da5214e6132c85687575e", [
-      [ "BG_BE_OBJECT_TYPE_DOOR_1", "dd/d1b/a02351.html#a1b0280d2208da5214e6132c85687575ea7668b0cb45bb8fcb5d169d52601f8ffc", null ],
-      [ "BG_BE_OBJECT_TYPE_DOOR_2", "dd/d1b/a02351.html#a1b0280d2208da5214e6132c85687575ea4f5f05ba355663c10696918af17e7285", null ],
-      [ "BG_BE_OBJECT_TYPE_DOOR_3", "dd/d1b/a02351.html#a1b0280d2208da5214e6132c85687575ea46f638ce865d69bfd79373d8105a8e83", null ],
-      [ "BG_BE_OBJECT_TYPE_DOOR_4", "dd/d1b/a02351.html#a1b0280d2208da5214e6132c85687575eabd8ea2d0bde54698184bcfff07ffb6f6", null ],
-      [ "BG_BE_OBJECT_TYPE_BUFF_1", "dd/d1b/a02351.html#a1b0280d2208da5214e6132c85687575ea828640a929b6a7559e1828cfdbf95f10", null ],
-      [ "BG_BE_OBJECT_TYPE_BUFF_2", "dd/d1b/a02351.html#a1b0280d2208da5214e6132c85687575eac4122fbc499fb8d6ca4de47dfa6f3bab", null ]
+    [ "Arena", "d4/d7b/a07474.html", "d4/d7b/a07474" ],
+    [ "ArenaBroadcastTexts", "dd/d1b/a02351.html#a407f2036481e3d9e2def3daa50546c71", [
+      [ "ARENA_TEXT_START_ONE_MINUTE", "dd/d1b/a02351.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854", null ],
+      [ "ARENA_TEXT_START_THIRTY_SECONDS", "dd/d1b/a02351.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084", null ],
+      [ "ARENA_TEXT_START_FIFTEEN_SECONDS", "dd/d1b/a02351.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9", null ],
+      [ "ARENA_TEXT_START_BATTLE_HAS_BEGUN", "dd/d1b/a02351.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd", null ]
     ] ],
-    [ "BattlegroundBEObjectTypes", "dd/d1b/a02351.html#ac30a97954fa7cc5e46429c1b15e02aa6", [
-      [ "BG_BE_OBJECT_DOOR_1", "dd/d1b/a02351.html#ac30a97954fa7cc5e46429c1b15e02aa6a0df93d02d5b293963bebae8c18c3ae17", null ],
-      [ "BG_BE_OBJECT_DOOR_2", "dd/d1b/a02351.html#ac30a97954fa7cc5e46429c1b15e02aa6a1bc43e32d61d4d2a6e605214b3498d0e", null ],
-      [ "BG_BE_OBJECT_DOOR_3", "dd/d1b/a02351.html#ac30a97954fa7cc5e46429c1b15e02aa6a65b47239921b2cc82d549ec06684dcbb", null ],
-      [ "BG_BE_OBJECT_DOOR_4", "dd/d1b/a02351.html#ac30a97954fa7cc5e46429c1b15e02aa6ac892d4ba71d39d87a754d48158edafc5", null ],
-      [ "BG_BE_OBJECT_BUFF_1", "dd/d1b/a02351.html#ac30a97954fa7cc5e46429c1b15e02aa6a7467355220ec6cd486b4d31f2017b176", null ],
-      [ "BG_BE_OBJECT_BUFF_2", "dd/d1b/a02351.html#ac30a97954fa7cc5e46429c1b15e02aa6ac11771a5f0517038daf7fe96e7cf00eb", null ],
-      [ "BG_BE_OBJECT_READY_MARKER_1", "dd/d1b/a02351.html#ac30a97954fa7cc5e46429c1b15e02aa6a24a38ed55bbaaed44bea527c0b11cd09", null ],
-      [ "BG_BE_OBJECT_READY_MARKER_2", "dd/d1b/a02351.html#ac30a97954fa7cc5e46429c1b15e02aa6a6bd3edd28c4d84ebc22f367173a2704d", null ],
-      [ "BG_BE_OBJECT_MAX", "dd/d1b/a02351.html#ac30a97954fa7cc5e46429c1b15e02aa6a4f887547bcc1f47df4522c823c507d6f", null ]
+    [ "ArenaSpellIds", "dd/d1b/a02351.html#a05b7784b7a9a1ce8e6367f6f9bb875d9", [
+      [ "SPELL_ALLIANCE_GOLD_FLAG", "dd/d1b/a02351.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c", null ],
+      [ "SPELL_ALLIANCE_GREEN_FLAG", "dd/d1b/a02351.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f", null ],
+      [ "SPELL_HORDE_GOLD_FLAG", "dd/d1b/a02351.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0", null ],
+      [ "SPELL_HORDE_GREEN_FLAG", "dd/d1b/a02351.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222", null ],
+      [ "SPELL_LAST_MAN_STANDING", "dd/d1b/a02351.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd", null ]
     ] ]
 ];

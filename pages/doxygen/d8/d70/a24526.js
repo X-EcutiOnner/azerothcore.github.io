@@ -1,10 +1,6 @@
 var a24526 =
 [
-    [ "npc_isla_starmaneAI", "d8/d70/a24526.html#a0cb655d324ddde173dcfdee069c0f694", null ],
-    [ "JustDied", "d8/d70/a24526.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
-    [ "JustEngagedWith", "d8/d70/a24526.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
-    [ "JustRespawned", "d8/d70/a24526.html#a69b395a9b9504737109870c5e8db74c8", null ],
-    [ "UpdateEscortAI", "d8/d70/a24526.html#af4b8c80e7443bb671be253238b124910", null ],
-    [ "WaypointReached", "d8/d70/a24526.html#a5d00583afa4e811e4f3cb8400787a990", null ],
-    [ "events", "d8/d70/a24526.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
+    [ "CheckProc", "d8/d70/a24526.html#afec3e119cb5ef12632b603225ccb5b8d", null ],
+    [ "PrepareAuraScript", "d8/d70/a24526.html#a2f42e70482f71a4c275f70897b90ed72", null ],
+    [ "Register", "d8/d70/a24526.html#a048f59b6b0d52232e3a953f173324fc2", null ]
 ];

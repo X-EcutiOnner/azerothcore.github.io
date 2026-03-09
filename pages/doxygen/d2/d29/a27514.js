@@ -1,6 +1,6 @@
 var a27514 =
 [
-    [ "go_midsummer_musicAI", "d2/d29/a27514.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
-    [ "UpdateAI", "d2/d29/a27514.html#adf185ee702e9e74f65204b90786f9eb4", null ],
-    [ "_events", "d2/d29/a27514.html#a31e45a754930cdc3206fe2b7f754d234", null ]
+    [ "HandleDummy", "d2/d29/a27514.html#af5bccd5dfb9aa37215b083438b6749ea", null ],
+    [ "PrepareSpellScript", "d2/d29/a27514.html#a6c2b858c893ed215d1192073b06db81d", null ],
+    [ "Register", "d2/d29/a27514.html#a1b23dc4a7a04e4c910bb738d45a8df1f", null ]
 ];

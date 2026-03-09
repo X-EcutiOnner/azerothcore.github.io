@@ -1,11 +1,15 @@
 var a19542 =
 [
-    [ "boss_ormorok", "d5/d8c/a19542.html#aa4862339ed41d5c593a93ef605d85a39", null ],
-    [ "JustDied", "d5/d8c/a19542.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
-    [ "JustEngagedWith", "d5/d8c/a19542.html#a22ac203db7c3b445e653798743e48764", null ],
-    [ "JustSummoned", "d5/d8c/a19542.html#acc149b49e6658454610a7871e3c82b5e", null ],
-    [ "KilledUnit", "d5/d8c/a19542.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
-    [ "Reset", "d5/d8c/a19542.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
-    [ "UpdateAI", "d5/d8c/a19542.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
-    [ "_spikesCount", "d5/d8c/a19542.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
+    [ "boss_grobbulusAI", "d5/d8c/a19542.html#ad9e7cd519e30eded06f76bcc69189117", null ],
+    [ "JustDied", "d5/d8c/a19542.html#aa717d51aa10c139473031072065064ce", null ],
+    [ "JustEngagedWith", "d5/d8c/a19542.html#a4c74d53fe029d02df9652dbb87a09242", null ],
+    [ "JustSummoned", "d5/d8c/a19542.html#af266d40889fbecd50a118a579b711757", null ],
+    [ "KilledUnit", "d5/d8c/a19542.html#a266ef5135e09ee6a0b0b9ae0aaac822b", null ],
+    [ "PullChamberAdds", "d5/d8c/a19542.html#ad215f20452cd48c2c2bca394410d739b", null ],
+    [ "Reset", "d5/d8c/a19542.html#a6bd34fcdcfa47b19f366ba85e7f420cb", null ],
+    [ "SummonedCreatureDespawn", "d5/d8c/a19542.html#ae939b029565ef9a075c0d9f0f94b76f3", null ],
+    [ "UpdateAI", "d5/d8c/a19542.html#aafd79debbe76b02a1478c03daf235b05", null ],
+    [ "dropSludgeTimer", "d5/d8c/a19542.html#a5fdcf157f498b8e47d6380b03fe819d6", null ],
+    [ "events", "d5/d8c/a19542.html#a810a91ffbcc3caa7c31e17afbd615392", null ],
+    [ "summons", "d5/d8c/a19542.html#a39ce39397f845a4fddf20da5f5812713", null ]
 ];

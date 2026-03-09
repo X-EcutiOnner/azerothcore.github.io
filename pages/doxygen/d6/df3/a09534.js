@@ -1,8 +1,8 @@
 var a09534 =
 [
-    [ "AllWorldObjectsInExactRange", "d6/df3/a09534.html#a0281d22587b9b1bdbfbdd8dccc625186", null ],
-    [ "operator()", "d6/df3/a09534.html#afe0bea69ddd5e275363361bf37284840", null ],
-    [ "_equals", "d6/df3/a09534.html#aebb4cb9e84cf91cca235fe663dba8d60", null ],
-    [ "_object", "d6/df3/a09534.html#a5fba0e3c7cde76bfe56f8e9e9716412b", null ],
-    [ "_range", "d6/df3/a09534.html#ae40de8ce49bb429243e5059b6d14398f", null ]
+    [ "CreatureListSearcher", "d6/df3/a09534.html#a7b16bf9b7a847a08fa6582b81b607e20", null ],
+    [ "Visit", "d6/df3/a09534.html#a48c084b8fbcbf7db7c051d1aa2aff523", null ],
+    [ "Visit", "d6/df3/a09534.html#a91fcbdcfb08964ebaacec8acae13476b", null ],
+    [ "i_check", "d6/df3/a09534.html#a985d622243d5c7c6c91eb01377b0f91b", null ],
+    [ "i_phaseMask", "d6/df3/a09534.html#a10e4e1fb5749d2b1065dd6a1245783d0", null ]
 ];

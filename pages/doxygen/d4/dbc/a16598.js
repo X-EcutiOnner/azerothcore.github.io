@@ -1,6 +1,13 @@
 var a16598 =
 [
-    [ "npc_toc_paladinAI", "da/db4/a16602.html", "da/db4/a16602" ],
-    [ "npc_toc_paladin", "d4/dbc/a16598.html#af11025a2a4be2b2c982ad31241d47180", null ],
-    [ "GetAI", "d4/dbc/a16598.html#a15766ea4414701040c738251302177af", null ]
+    [ "boss_twilight_halionAI", "d4/dbc/a16598.html#aab05bab963d603c3cb70edfd62a84b49", null ],
+    [ "DamageTaken", "d4/dbc/a16598.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
+    [ "EnterEvadeMode", "d4/dbc/a16598.html#af7076251fc1fad1dc259d747934910e2", null ],
+    [ "JustDied", "d4/dbc/a16598.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
+    [ "JustEngagedWith", "d4/dbc/a16598.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
+    [ "KilledUnit", "d4/dbc/a16598.html#ada770d51f63c841c500ffc3197a7a89f", null ],
+    [ "Reset", "d4/dbc/a16598.html#a9c945841926d5b08f37c6a720dd25a14", null ],
+    [ "UpdateAI", "d4/dbc/a16598.html#a6ab1d215ed077883781b0c0188282c5e", null ],
+    [ "_events", "d4/dbc/a16598.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
+    [ "_instance", "d4/dbc/a16598.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
 ];

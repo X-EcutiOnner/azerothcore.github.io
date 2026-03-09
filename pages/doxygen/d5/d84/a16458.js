@@ -1,6 +1,5 @@
 var a16458 =
 [
-    [ "npc_black_knight_skeletal_gryphonAI", "d6/d10/a16462.html", "d6/d10/a16462" ],
-    [ "npc_black_knight_skeletal_gryphon", "d5/d84/a16458.html#a5dc83a92fbe2eb4d6faa30f23a9ac777", null ],
-    [ "GetAI", "d5/d84/a16458.html#aad244f95877a208b56a2b6544984d724", null ]
+    [ "achievement_watch_him_die", "d5/d84/a16458.html#a0d885871eac61d859780e08c8518bb15", null ],
+    [ "OnCheck", "d5/d84/a16458.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
 ];

@@ -1,6 +1,7 @@
 var a11946 =
 [
-    [ "player_settings_commandscript", "da/d8a/a11946.html#ab8585064d4d358d7d48eed97379a3a78", null ],
-    [ "GetCommands", "da/d8a/a11946.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
-    [ "HandleSettingsAnnouncerFlags", "da/d8a/a11946.html#af505117caa66ed4222e52ff91c486b6e", null ]
+    [ "PlayerDumpReader", "da/d8a/a11946.html#ad630b61e298fb1ddf165481c9a14e077", null ],
+    [ "LoadDump", "da/d8a/a11946.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
+    [ "LoadDumpFromFile", "da/d8a/a11946.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
+    [ "LoadDumpFromString", "da/d8a/a11946.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
 ];

@@ -1,8 +1,9 @@
 var a19810 =
 [
-    [ "dark_rune_stormcallerAI", "d1/d43/a19810.html#ad889fb0c50e879c958c9b8bb681e4bf7", null ],
-    [ "JustEngagedWith", "d1/d43/a19810.html#a7ddfb8afac3ff28a84b26255628fab50", null ],
-    [ "Reset", "d1/d43/a19810.html#afa9cc2e1a9f7d21cd885479e9afdcd12", null ],
-    [ "UpdateAI", "d1/d43/a19810.html#adbd245fc5180dc7c78704595a9592864", null ],
-    [ "events", "d1/d43/a19810.html#aa7d8d1d075eeb03952b47cc16846a3db", null ]
+    [ "HandleApply", "d1/d43/a19810.html#a29679ed64fc288dc0e85beed2971d4be", null ],
+    [ "HandleRemove", "d1/d43/a19810.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
+    [ "Load", "d1/d43/a19810.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
+    [ "PrepareAuraScript", "d1/d43/a19810.html#a2804f25643e59f3922291abcb055b641", null ],
+    [ "Register", "d1/d43/a19810.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
+    [ "Validate", "d1/d43/a19810.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
 ];

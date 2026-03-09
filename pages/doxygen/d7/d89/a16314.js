@@ -1,10 +1,11 @@
 var a16314 =
 [
-    [ "spell_halion_combustion_consumption_aura", "d7/d89/a16314.html#a8b67aee76c7288748757e6bec7f4cb78", null ],
-    [ "AddMarkStack", "d7/d89/a16314.html#a337776c42bd6c42ecdffb508808ed070", null ],
-    [ "OnApply", "d7/d89/a16314.html#afeea3e5026e6d8472440c9cffac9bce9", null ],
-    [ "OnRemove", "d7/d89/a16314.html#a3959dbe8bbdf2d3953daf14072614708", null ],
-    [ "PrepareAuraScript", "d7/d89/a16314.html#a334f2211429dde989b6beb6c10a71464", null ],
-    [ "Register", "d7/d89/a16314.html#affc66a03e9d1eaef30a54b8a044734b8", null ],
-    [ "_markSpell", "d7/d89/a16314.html#a8236d9d50f267a12216d90f8041da439", null ]
+    [ "boss_amanitar", "d7/d89/a16314.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
+    [ "EnterEvadeMode", "d7/d89/a16314.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
+    [ "JustDied", "d7/d89/a16314.html#a138049712649ff414950d9d0ca05d712", null ],
+    [ "JustEngagedWith", "d7/d89/a16314.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
+    [ "Reset", "d7/d89/a16314.html#aab3faca4526947a72d8ca049a605f5be", null ],
+    [ "SummonedCreatureDespawn", "d7/d89/a16314.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
+    [ "SummonMushroom", "d7/d89/a16314.html#afc5b4942931f6020b2894b901650fc35", null ],
+    [ "_mushroomsDeque", "d7/d89/a16314.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
 ];

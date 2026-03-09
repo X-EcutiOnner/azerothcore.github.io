@@ -1,8 +1,15 @@
 var a19878 =
 [
-    [ "npc_algalon_worm_holeAI", "da/db9/a19878.html#a07b36b40972bebea6b17890aa8fee50c", null ],
-    [ "JustSummoned", "da/db9/a19878.html#a148de5da4502813e369ec6c52b1671a0", null ],
-    [ "Reset", "da/db9/a19878.html#a915a8e5e23062cb10da9a3dbe387cf51", null ],
-    [ "UpdateAI", "da/db9/a19878.html#a9df88d81aa4f4dd7e1dcdf6209832c32", null ],
-    [ "_summonTimer", "da/db9/a19878.html#a73a55560e5ff7957d883f732bc0d2a82", null ]
+    [ "boss_varosAI", "da/db9/a19878.html#a3e6815b80a3f9f5e8c53bb762e9058f2", null ],
+    [ "EnterEvadeMode", "da/db9/a19878.html#a0b7eeef4529b47357d729852cdeab002", null ],
+    [ "JustDied", "da/db9/a19878.html#a2724167a66a059e1c0ca1612d8405d68", null ],
+    [ "JustEngagedWith", "da/db9/a19878.html#a2f25555ca2884f6bffb289d209e87740", null ],
+    [ "JustSummoned", "da/db9/a19878.html#a24b2a1e438b02c67e64b79adb0cfeafe", null ],
+    [ "MoveInLineOfSight", "da/db9/a19878.html#a87f743f03dc19659d0e77ee23cd2c327", null ],
+    [ "Reset", "da/db9/a19878.html#aef24d04954a26bb6381c860403e84288", null ],
+    [ "UpdateAI", "da/db9/a19878.html#acc1ac3c2bf5cb1a7732f375285467423", null ],
+    [ "events", "da/db9/a19878.html#a36746118770c936e7606962365e102d8", null ],
+    [ "pInstance", "da/db9/a19878.html#a9cf7c0159753512ae7dea8a2f6a9da74", null ],
+    [ "step", "da/db9/a19878.html#af4c8e11f0aad369f09902eb1ccc48059", null ],
+    [ "ZapAngle", "da/db9/a19878.html#aef225fcf580c5e500d3242ac4be24260", null ]
 ];

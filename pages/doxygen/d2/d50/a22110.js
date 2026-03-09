@@ -1,6 +1,7 @@
 var a22110 =
 [
-    [ "CheckRequirement", "d2/d50/a22110.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "d2/d50/a22110.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "d2/d50/a22110.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "HandleScriptEffect", "d2/d50/a22110.html#ad20cf97a7dd442d5670a22095b487a01", null ],
+    [ "PrepareSpellScript", "d2/d50/a22110.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
+    [ "Register", "d2/d50/a22110.html#a996ea344ea2a3312cb8886565b80972d", null ],
+    [ "Validate", "d2/d50/a22110.html#a29bf5a9615e02281f426bf521a045567", null ]
 ];

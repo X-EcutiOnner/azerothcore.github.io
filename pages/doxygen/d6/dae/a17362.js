@@ -1,10 +1,11 @@
 var a17362 =
 [
-    [ "npc_living_mojoAI", "d6/dae/a17362.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
-    [ "AttackStart", "d6/dae/a17362.html#ad3f73a040176cd804f9715141063d176", null ],
-    [ "DoAction", "d6/dae/a17362.html#a9d942e99f358a7488d473969ab461d6f", null ],
-    [ "MoveInLineOfSight", "d6/dae/a17362.html#a7981568666269e25580ae839f1f97f09", null ],
-    [ "Reset", "d6/dae/a17362.html#a139df1207438dbd3793a2fbc58c2396c", null ],
-    [ "UpdateAI", "d6/dae/a17362.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
-    [ "events", "d6/dae/a17362.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
+    [ "npc_hor_leaderAI", "d6/dae/a17362.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
+    [ "DoAction", "d6/dae/a17362.html#a610700732a6cc197a40106adef654a62", null ],
+    [ "Reset", "d6/dae/a17362.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
+    [ "UpdateAI", "d6/dae/a17362.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
+    [ "events", "d6/dae/a17362.html#a94128223bddd84b8a678e49f3189cb75", null ],
+    [ "first", "d6/dae/a17362.html#add878d336fa7e20bee4d05ac0383dd0a", null ],
+    [ "pInstance", "d6/dae/a17362.html#a8dd77a92b151acad640f1272acf0b65f", null ],
+    [ "shortver", "d6/dae/a17362.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
 ];

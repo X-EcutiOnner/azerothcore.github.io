@@ -1,8 +1,6 @@
 var a22094 =
 [
-    [ "npc_ravenous_worgAI", "d3/d7e/a22094.html#a5404516869e171c84b774f2a7b8be15d", null ],
-    [ "AttackStart", "d3/d7e/a22094.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
-    [ "UpdateAI", "d3/d7e/a22094.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
-    [ "_attack", "d3/d7e/a22094.html#a3df5c98821ba33a40e25e7b050858b96", null ],
-    [ "_pacified", "d3/d7e/a22094.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
+    [ "HandleDummy", "d3/d7e/a22094.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
+    [ "PrepareSpellScript", "d3/d7e/a22094.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
+    [ "Register", "d3/d7e/a22094.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
 ];

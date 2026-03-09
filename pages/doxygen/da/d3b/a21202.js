@@ -1,7 +1,6 @@
 var a21202 =
 [
-    [ "HandleEffectPeriodic", "da/d3b/a21202.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
-    [ "PrepareAuraScript", "da/d3b/a21202.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
-    [ "Register", "da/d3b/a21202.html#a74052d7da1523b3c4010465510e5fe04", null ],
-    [ "Validate", "da/d3b/a21202.html#a587a469c649877f80e8fe80062e8b5d4", null ]
+    [ "boss_svalaAI", "dc/d08/a21206.html", "dc/d08/a21206" ],
+    [ "boss_svala", "da/d3b/a21202.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
+    [ "GetAI", "da/d3b/a21202.html#a0c3b94635eca667a28496cf799efad25", null ]
 ];

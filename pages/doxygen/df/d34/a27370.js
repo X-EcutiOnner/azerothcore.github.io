@@ -1,9 +1,8 @@
 var a27370 =
 [
-    [ "boss_lethonAI", "df/d34/a27370.html#ac5d53a746f5286776b2e510f1de86790", null ],
-    [ "DamageTaken", "df/d34/a27370.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
-    [ "JustEngagedWith", "df/d34/a27370.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
-    [ "Reset", "df/d34/a27370.html#a0e53d139f64d104557e157a91176a47a", null ],
-    [ "SpellHitTarget", "df/d34/a27370.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
-    [ "_stage", "df/d34/a27370.html#aa267296ee60efc7d39a20dc05afec081", null ]
+    [ "CheckProc", "df/d34/a27370.html#a019b47e139e155c0803c0ce9a3a42f82", null ],
+    [ "HandleProc", "df/d34/a27370.html#a92fff2ae3b59c3dd62e92a11312f87ae", null ],
+    [ "PrepareAuraScript", "df/d34/a27370.html#a91ef63b96918e797e677423d51f94112", null ],
+    [ "Register", "df/d34/a27370.html#a5625b3a60a607bd07d4328aa1886cfc5", null ],
+    [ "Validate", "df/d34/a27370.html#ab6178007664afc34556336ec9620cd4f", null ]
 ];

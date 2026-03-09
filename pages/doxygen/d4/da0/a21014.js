@@ -1,6 +1,6 @@
 var a21014 =
 [
-    [ "boss_yoggsaron_crusher_tentacleAI", "dd/d3f/a21018.html", "dd/d3f/a21018" ],
-    [ "boss_yoggsaron_crusher_tentacle", "d4/da0/a21014.html#a9bb0c5535bf98e186d39f235f5786ff0", null ],
-    [ "GetAI", "d4/da0/a21014.html#a82b6a328197ec81223c1d00dabb79a66", null ]
+    [ "HandleScript", "d4/da0/a21014.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
+    [ "PrepareSpellScript", "d4/da0/a21014.html#ab2a4155f6029850c61e84d7c180addae", null ],
+    [ "Register", "d4/da0/a21014.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
 ];

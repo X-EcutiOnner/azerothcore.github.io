@@ -1,6 +1,6 @@
 var a21386 =
 [
-    [ "instance_utgarde_pinnacle_InstanceMapScript", "d9/d43/a21390.html", "d9/d43/a21390" ],
-    [ "instance_utgarde_pinnacle", "d3/d28/a21386.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
-    [ "GetInstanceScript", "d3/d28/a21386.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
+    [ "HandleEffectPeriodic", "d3/d28/a21386.html#a508ff9e362d586497839aa29ceae1227", null ],
+    [ "PrepareAuraScript", "d3/d28/a21386.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
+    [ "Register", "d3/d28/a21386.html#a4b08cefe7d334635b70d389cc9df4901", null ]
 ];

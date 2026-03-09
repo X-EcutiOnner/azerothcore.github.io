@@ -1,7 +1,11 @@
 var a27306 =
 [
-    [ "CharacterDeleteActionIpLogger", "dc/d9c/a27306.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "dc/d9c/a27306.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnPlayerDelete", "dc/d9c/a27306.html#adb16e45e425fa816b2572692349d0005", null ],
-    [ "OnPlayerFailedDelete", "dc/d9c/a27306.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
+    [ "AddTarget", "dc/d9c/a27306.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
+    [ "HandleApply", "dc/d9c/a27306.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
+    [ "HandleEffectPeriodic", "dc/d9c/a27306.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
+    [ "HandleRemove", "dc/d9c/a27306.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
+    [ "PrepareAuraScript", "dc/d9c/a27306.html#abd535f756fae06c9fae613d69ef4e353", null ],
+    [ "Register", "dc/d9c/a27306.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
+    [ "Validate", "dc/d9c/a27306.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
+    [ "_targets", "dc/d9c/a27306.html#ad2467bc150cb08766c57cca23d4d9843", null ]
 ];

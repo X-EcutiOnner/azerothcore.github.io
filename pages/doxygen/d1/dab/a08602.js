@@ -1,8 +1,6 @@
 var a08602 =
 [
-    [ "PlayerCreateInfoAction", "d1/dab/a08602.html#a50d56595c71374e132dfe9f988144e75", null ],
-    [ "PlayerCreateInfoAction", "d1/dab/a08602.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
-    [ "action", "d1/dab/a08602.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
-    [ "button", "d1/dab/a08602.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
-    [ "type", "d1/dab/a08602.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
+    [ "DamageMax", "d1/dab/a08602.html#afc0bd7960848f6434c182a3fadc1e256", null ],
+    [ "DamageMin", "d1/dab/a08602.html#acbab962cbc25ad032c97216feac281bb", null ],
+    [ "DamageType", "d1/dab/a08602.html#aecdcc73f2cb30ef5cc149607e01bbe34", null ]
 ];

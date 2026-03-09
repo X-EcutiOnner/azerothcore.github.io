@@ -1,7 +1,9 @@
 var a09638 =
 [
-    [ "AddonHandler", "d0/df8/a09638.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
-    [ "~AddonHandler", "d0/df8/a09638.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
-    [ "BuildAddonPacket", "d0/df8/a09638.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
-    [ "instance", "d0/df8/a09638.html#a2925b829b803dd07e96685086357ef85", null ]
+    [ "AnyGroupedUnitInObjectRangeCheck", "d0/df8/a09638.html#a2c775f62eeabcb8af5306cbcedae322e", null ],
+    [ "operator()", "d0/df8/a09638.html#a3c316eacdd1c74c69d8297871f84d7b9", null ],
+    [ "_raid", "d0/df8/a09638.html#a6a9cffd02435913a5d7ee53cd1e8cc0b", null ],
+    [ "_range", "d0/df8/a09638.html#a01b4592ac61d58ff39e5bb2eb1a1b997", null ],
+    [ "_refUnit", "d0/df8/a09638.html#ad083243ef5487aa374b19e3c82b0457c", null ],
+    [ "_source", "d0/df8/a09638.html#a91de967d2376ea96b1fc0838094915cf", null ]
 ];

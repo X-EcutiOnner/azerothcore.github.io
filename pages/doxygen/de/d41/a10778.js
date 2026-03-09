@@ -1,5 +1,7 @@
 var a10778 =
 [
-    [ "SocketEnchantID", "de/d41/a10778.html#ae682a8405a5fa1c70033d190dde25d99", null ],
-    [ "SocketIndex", "de/d41/a10778.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
+    [ "CalendarComplain", "de/d41/a10778.html#a35252d9ee72257a0771f3faa274f8029", null ],
+    [ "Read", "de/d41/a10778.html#ae955f181fe7b36ba360d5b8e9a53db45", null ],
+    [ "ComplainGuid", "de/d41/a10778.html#a3a8ba139be8eef32193658fa235fc4c5", null ],
+    [ "EventId", "de/d41/a10778.html#a3cc5c6b822a697df900826b64b5b9759", null ]
 ];

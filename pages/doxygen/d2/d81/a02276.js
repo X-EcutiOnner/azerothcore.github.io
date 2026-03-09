@@ -1,15 +1,5 @@
 var a02276 =
 [
-    [ "WaypointData", "dd/dcf/a10352.html", "dd/dcf/a10352" ],
-    [ "WaypointMgr", "db/d5f/a10356.html", "db/d5f/a10356" ],
-    [ "sWaypointMgr", "d2/d81/a02276.html#a8e3218ae672aeeb8c1d9dc23a3a1a627", null ],
-    [ "WaypointPath", "d2/d81/a02276.html#ad4c69f0b86cdc2e4bbf85b203829313c", null ],
-    [ "WaypointPathContainer", "d2/d81/a02276.html#a4022be9e8c89b6ab197c2564c77b52c5", null ],
-    [ "WaypointMoveType", "d2/d81/a02276.html#ac26115060a1cd0169937b206edddd863", [
-      [ "WAYPOINT_MOVE_TYPE_WALK", "d2/d81/a02276.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff", null ],
-      [ "WAYPOINT_MOVE_TYPE_RUN", "d2/d81/a02276.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55", null ],
-      [ "WAYPOINT_MOVE_TYPE_LAND", "d2/d81/a02276.html#ac26115060a1cd0169937b206edddd863a3190ebe456b4d1effe17f57ecc3379fa", null ],
-      [ "WAYPOINT_MOVE_TYPE_TAKEOFF", "d2/d81/a02276.html#ac26115060a1cd0169937b206edddd863a6c91e1f2cbadf7be7393f34b5de1b843", null ],
-      [ "WAYPOINT_MOVE_TYPE_MAX", "d2/d81/a02276.html#ac26115060a1cd0169937b206edddd863a32847b8584f9ff3ce07eb01923c37188", null ]
-    ] ]
+    [ "ConfusedMovementGenerator< T >", "d4/df3/a10234.html", "d4/df3/a10234" ],
+    [ "MAX_CONF_WAYPOINTS", "d2/d81/a02276.html#ad4f7a217e114623ec80b1743f39ed3ea", null ]
 ];

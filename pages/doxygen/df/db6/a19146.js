@@ -1,7 +1,7 @@
 var a19146 =
 [
-    [ "HandleScript", "df/db6/a19146.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
-    [ "Launch", "df/db6/a19146.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
-    [ "PrepareSpellScript", "df/db6/a19146.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
-    [ "Register", "df/db6/a19146.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
+    [ "npc_captain_arnathAI", "df/db6/a19146.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
+    [ "FindFriendlyCreature", "df/db6/a19146.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
+    [ "Reset", "df/db6/a19146.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
+    [ "UpdateAI", "df/db6/a19146.html#a020efd7adc0d60152007906e3229988d", null ]
 ];

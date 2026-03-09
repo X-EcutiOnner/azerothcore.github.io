@@ -1,6 +1,6 @@
 var a16074 =
 [
-    [ "HandleApplyAura", "da/df8/a16074.html#aeddfd61eab5aa077ca07a924ec491285", null ],
-    [ "PrepareSpellScript", "da/df8/a16074.html#ad53341842455d98722c03318dd80fb94", null ],
-    [ "Register", "da/df8/a16074.html#a10cb03ba6175f48b0ccaf69ec90e8f50", null ]
+    [ "npc_qiraj_war_spawnAI", "da/da6/a16078.html", "da/da6/a16078" ],
+    [ "npc_qiraj_war_spawn", "da/df8/a16074.html#a2afba33e9fd879ac3fea206768b14334", null ],
+    [ "GetAI", "da/df8/a16074.html#a32339f20251c188b895c02b6cc9217e9", null ]
 ];

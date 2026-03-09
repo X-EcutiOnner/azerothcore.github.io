@@ -1,9 +1,7 @@
 var a24114 =
 [
-    [ "boss_nethermancer_sepethrea", "d3/d03/a24114.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "EnterEvadeMode", "d3/d03/a24114.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
-    [ "JustDied", "d3/d03/a24114.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
-    [ "JustEngagedWith", "d3/d03/a24114.html#a89851b9f6eb94270fe22151d3a968bec", null ],
-    [ "JustSummoned", "d3/d03/a24114.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
-    [ "KilledUnit", "d3/d03/a24114.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
+    [ "npc_maxx_a_million_escortAI", "de/d7c/a24118.html", "de/d7c/a24118" ],
+    [ "npc_maxx_a_million_escort", "d3/d03/a24114.html#a958a88b495594dd8e14919d950ac917a", null ],
+    [ "GetAI", "d3/d03/a24114.html#af79619087908d442f503e0b0d633937d", null ],
+    [ "OnQuestAccept", "d3/d03/a24114.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
 ];

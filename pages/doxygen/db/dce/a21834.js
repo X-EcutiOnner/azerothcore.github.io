@@ -1,5 +1,6 @@
 var a21834 =
 [
-    [ "npc_steam_powered_auctioneerAI", "db/dce/a21834.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
-    [ "CanBeSeen", "db/dce/a21834.html#a3352588abda326f7c72d0764a3f53370", null ]
+    [ "npc_q24545_vegard_dummyAI", "db/dce/a21834.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
+    [ "UpdateAI", "db/dce/a21834.html#aa31baac9ce3c4c951f93917b88390797", null ],
+    [ "done", "db/dce/a21834.html#a0208fbae8e6c46d0671107530279c50c", null ]
 ];

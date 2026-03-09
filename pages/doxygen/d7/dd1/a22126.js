@@ -1,11 +1,12 @@
 var a22126 =
 [
-    [ "npc_lake_frogAI", "d7/dd1/a22126.html#ac08eeed39d046ce35d7d6aa65d53cab5", null ],
-    [ "ReceiveEmote", "d7/dd1/a22126.html#abd58e65b6829c70818c578ed615a980b", null ],
-    [ "Reset", "d7/dd1/a22126.html#a3773b3a21ea25db316481f1da5e6dd3c", null ],
-    [ "sGossipSelect", "d7/dd1/a22126.html#a95906677ff65e004408ae65df3f49b5c", null ],
-    [ "UpdateAI", "d7/dd1/a22126.html#aed8368ec27fed5cd14e4a54091aa9584", null ],
-    [ "_events", "d7/dd1/a22126.html#a314d7d7891c05bda288ea0d590f0cfa4", null ],
-    [ "_following", "d7/dd1/a22126.html#a0078f9134a61f0ec2465ce103523e341", null ],
-    [ "_runningScript", "d7/dd1/a22126.html#af76102ba6c9ffd80baa95623b7312980", null ]
+    [ "npc_tournament_training_dummyAI", "d7/dd1/a22126.html#ab84a35b5145c74f16dfbbe020dd9a73b", null ],
+    [ "DamageTaken", "d7/dd1/a22126.html#a98c18794124922e6946a82a324410837", null ],
+    [ "EnterEvadeMode", "d7/dd1/a22126.html#a3f31d705284b0fad2f00c9210ff06646", null ],
+    [ "MoveInLineOfSight", "d7/dd1/a22126.html#a7a05c8682767f5a2d847e99eeed8e00f", null ],
+    [ "Reset", "d7/dd1/a22126.html#a7339ffe52dc789f9480afca7141a169e", null ],
+    [ "SpellHit", "d7/dd1/a22126.html#a5cd56075333fb59ddd8d4a48dc2eecdf", null ],
+    [ "UpdateAI", "d7/dd1/a22126.html#a8bba917f0e0d67cd7a0121ab71d5a419", null ],
+    [ "events", "d7/dd1/a22126.html#a77fa2ef2f15208ab8b284c71e0227fc4", null ],
+    [ "isVulnerable", "d7/dd1/a22126.html#a4a4d3029a329e6eb253bc57c5f7b2a98", null ]
 ];

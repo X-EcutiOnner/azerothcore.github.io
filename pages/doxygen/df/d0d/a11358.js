@@ -1,7 +1,5 @@
 var a11358 =
 [
-    [ "SpellImmune", "df/d0d/a11358.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
-    [ "blockType", "df/d0d/a11358.html#a13a353d02a7330820df170eb46e7a26d", null ],
-    [ "spellId", "df/d0d/a11358.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
-    [ "type", "df/d0d/a11358.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
+    [ "RequestPetInfo", "df/d0d/a11358.html#ae0861d1fb77fe39bb48c26505e36ed2b", null ],
+    [ "Read", "df/d0d/a11358.html#a5cc9bb57bce7dc7f24243fdc63e17870", null ]
 ];

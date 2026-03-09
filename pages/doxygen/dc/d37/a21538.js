@@ -1,6 +1,5 @@
 var a21538 =
 [
-    [ "boss_xevozzAI", "de/dc4/a21542.html", "de/dc4/a21542" ],
-    [ "boss_xevozz", "dc/d37/a21538.html#a814ac939c4570d33450c4a6664833087", null ],
-    [ "GetAI", "dc/d37/a21538.html#a712d8ed125d464da56b677914fbf8796", null ]
+    [ "npc_khunok_the_behemothAI", "dc/d37/a21538.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
+    [ "MoveInLineOfSight", "dc/d37/a21538.html#a5d54954a159da764aa7b83579e03688c", null ]
 ];

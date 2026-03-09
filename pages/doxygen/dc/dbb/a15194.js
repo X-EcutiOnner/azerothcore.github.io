@@ -1,6 +1,10 @@
 var a15194 =
 [
-    [ "HandleDummyHitTarget", "dc/dbb/a15194.html#ae773d73496578170061baedd8f7daec1", null ],
-    [ "PrepareSpellScript", "dc/dbb/a15194.html#a822fe6d19c2ee0d02dc5561b4f910cf9", null ],
-    [ "Register", "dc/dbb/a15194.html#a651cc94581130224ba23e864f8ad7060", null ]
+    [ "hyjalJainaAI", "dc/dbb/a15194.html#aa7532b691e85fd9bd467e20db39c59da", null ],
+    [ "IsSummonedBy", "dc/dbb/a15194.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
+    [ "JustDied", "dc/dbb/a15194.html#a605687080e5149b3f08ce8349ba9b336", null ],
+    [ "JustEngagedWith", "dc/dbb/a15194.html#a187efe775b1e2a35637638507e77352e", null ],
+    [ "PathEndReached", "dc/dbb/a15194.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
+    [ "Reset", "dc/dbb/a15194.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
+    [ "UpdateAI", "dc/dbb/a15194.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
 ];

@@ -1,5 +1,6 @@
 var a12382 =
 [
-    [ "at_scarshield_infiltrator", "dc/dc1/a12382.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
-    [ "OnTrigger", "dc/dc1/a12382.html#a607c3ee2bd4716cf1e0499e202d379fc", null ]
+    [ "npc_lokhtos_darkbargainer", "dc/dc1/a12382.html#af91685ecf0f63313968b3d82373668d2", null ],
+    [ "OnGossipHello", "dc/dc1/a12382.html#a39547487ef7db8a3942556665099893f", null ],
+    [ "OnGossipSelect", "dc/dc1/a12382.html#a5a4640678a5669c75b1fa5d787999c02", null ]
 ];

@@ -1,5 +1,6 @@
 var a19538 =
 [
-    [ "achievement_split_personality", "d2/d36/a19538.html#aac29ae7c321306a663e55493987af45d", null ],
-    [ "OnCheck", "d2/d36/a19538.html#ab5379f3c1191eeb747cb6762fc42ce01", null ]
+    [ "boss_grobbulusAI", "d5/d8c/a19542.html", "d5/d8c/a19542" ],
+    [ "boss_grobbulus", "d2/d36/a19538.html#acf1b781e86e33a363b68354d34d3c015", null ],
+    [ "GetAI", "d2/d36/a19538.html#ae918614566a0b9979aef4e1aeaac394c", null ]
 ];

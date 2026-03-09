@@ -1,7 +1,7 @@
 var a24702 =
 [
-    [ "HandleProc", "df/d89/a24702.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
-    [ "PrepareAuraScript", "df/d89/a24702.html#a2840931b939b95e6a476c07f08ca66b5", null ],
-    [ "Register", "df/d89/a24702.html#ae769fddc14aed4d1055d2f947d292fcf", null ],
-    [ "lastChargeUsedTime", "df/d89/a24702.html#a69e1d242b6d4bfc752e7e0921aa0f90c", null ]
+    [ "CheckProc", "df/d89/a24702.html#a841b1a19cafcbf3b3bf82867cbb23384", null ],
+    [ "HandleProc", "df/d89/a24702.html#a1d2e356b47d793bf9193b03f635ce579", null ],
+    [ "PrepareAuraScript", "df/d89/a24702.html#addfa11cf74409b4bb369c2bbf583c13c", null ],
+    [ "Register", "df/d89/a24702.html#a180fbfc09087cb2cd919734c447fef10", null ]
 ];

@@ -1,7 +1,6 @@
 var a21154 =
 [
-    [ "HandleScriptEffect", "d2/d89/a21154.html#a173ee086127655cdfcca507fd5b15b2e", null ],
-    [ "PrepareSpellScript", "d2/d89/a21154.html#a005d47b18a820c35ec596b5539db94eb", null ],
-    [ "Register", "d2/d89/a21154.html#a20a0d554e80707c1517422cb747f38e8", null ],
-    [ "Validate", "d2/d89/a21154.html#a5ca44686e26def56adc2b98d88145235", null ]
+    [ "npc_ferocious_rhinoAI", "d4/d5c/a21158.html", "d4/d5c/a21158" ],
+    [ "npc_ferocious_rhino", "d2/d89/a21154.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
+    [ "GetAI", "d2/d89/a21154.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
 ];

@@ -1,7 +1,6 @@
 var a15714 =
 [
-    [ "npc_shenthulAI", "d0/d35/a15718.html", "d0/d35/a15718" ],
-    [ "npc_shenthul", "da/d13/a15714.html#a77815503c7d9c811fe3821232e308714", null ],
-    [ "GetAI", "da/d13/a15714.html#a1683f8c89add6270277c59951c74027e", null ],
-    [ "OnQuestAccept", "da/d13/a15714.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
+    [ "boss_veknilash", "da/d13/a15714.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
+    [ "IAmVeklor", "da/d13/a15714.html#a454027d829b962ee0feebb6fd5687714", null ],
+    [ "JustEngagedWith", "da/d13/a15714.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
 ];

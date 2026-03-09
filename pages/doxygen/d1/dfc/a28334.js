@@ -1,6 +1,8 @@
 var a28334 =
 [
-    [ "ChannelID", "d1/dfc/a28334.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
-    [ "flags", "d1/dfc/a28334.html#aa77db644555e336ccbb8dd138c192425", null ],
-    [ "pattern", "d1/dfc/a28334.html#ad8b550cf444d66eede00abcf2cefec22", null ]
+    [ "go_bellsAI", "d1/dfc/a28334.html#a6f22847c66a3b5faded35da799359846", null ],
+    [ "UpdateAI", "d1/dfc/a28334.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
+    [ "_events", "d1/dfc/a28334.html#a46c66442078cee28a76fc412746ca026", null ],
+    [ "_soundId", "d1/dfc/a28334.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
+    [ "once", "d1/dfc/a28334.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
 ];

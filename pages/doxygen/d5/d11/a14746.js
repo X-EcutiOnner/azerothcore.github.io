@@ -1,6 +1,6 @@
 var a14746 =
 [
-    [ "OnAuraRemove", "d5/d11/a14746.html#ad16e8b64999771154360afad71454c07", null ],
-    [ "PrepareAuraScript", "d5/d11/a14746.html#a70963be80861e10ecd093e40b77e7078", null ],
-    [ "Register", "d5/d11/a14746.html#a7381cbea873fb57485e4539aa478d236", null ]
+    [ "CheckItem", "d5/d11/a14746.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
+    [ "PrepareSpellScript", "d5/d11/a14746.html#a0fa160f1218cf838444f894716cb8aed", null ],
+    [ "Register", "d5/d11/a14746.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
 ];

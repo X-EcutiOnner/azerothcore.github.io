@@ -1,11 +1,7 @@
 var a26814 =
 [
-    [ "AddTarget", "d8/da7/a26814.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
-    [ "HandleApply", "d8/da7/a26814.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
-    [ "HandleEffectPeriodic", "d8/da7/a26814.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
-    [ "HandleRemove", "d8/da7/a26814.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
-    [ "PrepareAuraScript", "d8/da7/a26814.html#abd535f756fae06c9fae613d69ef4e353", null ],
-    [ "Register", "d8/da7/a26814.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
-    [ "Validate", "d8/da7/a26814.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
-    [ "_targets", "d8/da7/a26814.html#ad2467bc150cb08766c57cca23d4d9843", null ]
+    [ "OnProc", "d8/da7/a26814.html#a0a85e641521f1e9b7fd074f7edde97ac", null ],
+    [ "PrepareAuraScript", "d8/da7/a26814.html#a4ff27309c8848a6155ad28809ace5cba", null ],
+    [ "Register", "d8/da7/a26814.html#a20b6a18ce3fac99689b958b384da7836", null ],
+    [ "Validate", "d8/da7/a26814.html#ac4275cca4f974a5a131e4dc1be8eed23", null ]
 ];

@@ -1,11 +1,6 @@
 var a12930 =
 [
-    [ "boss_terestian_illhoof", "d2/dc7/a12930.html#a5750bf4f12ac01216335a926f885e136", null ],
-    [ "JustDied", "d2/dc7/a12930.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
-    [ "JustEngagedWith", "d2/dc7/a12930.html#adc1f9195954eda7ec406ac9a084b7508", null ],
-    [ "JustSummoned", "d2/dc7/a12930.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
-    [ "KilledUnit", "d2/dc7/a12930.html#ab7de8b406de200eec981fab79a56dcd7", null ],
-    [ "Reset", "d2/dc7/a12930.html#a685b00f0e3317740412adfc48df1c3fb", null ],
-    [ "SpellHit", "d2/dc7/a12930.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
-    [ "SummonKilrek", "d2/dc7/a12930.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
+    [ "npc_core_ragerAI", "de/d9e/a12934.html", "de/d9e/a12934" ],
+    [ "npc_core_rager", "d2/dc7/a12930.html#ada4acfa2a1934d1609a8f9c78da6377d", null ],
+    [ "GetAI", "d2/dc7/a12930.html#a0ace94ecc1ebfb0e880c50d9b68087db", null ]
 ];

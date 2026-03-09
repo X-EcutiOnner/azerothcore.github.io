@@ -1,7 +1,5 @@
 var a13646 =
 [
-    [ "HandlePull", "d1/d3e/a13646.html#a5a43bb53d3c534054498f8366d617e5a", null ],
-    [ "PrepareSpellScript", "d1/d3e/a13646.html#aec00f82a35c8154e7d4c1f47c52d486f", null ],
-    [ "RaycastToObstacle", "d1/d3e/a13646.html#ad6dfdf70e9ffd43510c4791f804ce340", null ],
-    [ "Register", "d1/d3e/a13646.html#a6da76afd5feaa0d60be70ff8469d78bc", null ]
+    [ "npc_apothecary_frye", "d1/d3e/a13646.html#a5546099958a9a267d237e65720588456", null ],
+    [ "JustDied", "d1/d3e/a13646.html#ab1dc310e90c591b44ce4d5bcf1bac930", null ]
 ];

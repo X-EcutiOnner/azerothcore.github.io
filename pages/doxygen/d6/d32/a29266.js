@@ -1,8 +1,8 @@
 var a29266 =
 [
-    [ "_ACORE_DB_IMPORT_CONFIG", "d6/d32/a29266.html#a97392c73658eeeb49d256527b19ad90f", null ],
-    [ "GetConsoleArguments", "d6/d32/a29266.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "main", "d6/d32/a29266.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "StartDB", "d6/d32/a29266.html#a1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "d6/d32/a29266.html#a927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "areaTriggerText", "d6/d32/a29266.html#a32bb8c4a4defce661d108627e25b645a", null ],
+    [ "Difficulty", "d6/d32/a29266.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
+    [ "MapId", "d6/d32/a29266.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
+    [ "maxPlayers", "d6/d32/a29266.html#a7ab33229ffee11a27861439053c79831", null ],
+    [ "resetTime", "d6/d32/a29266.html#a891a741efb049b51996e1a6110efc52d", null ]
 ];

@@ -1,5 +1,7 @@
 var a28134 =
 [
-    [ "ID", "d9/db7/a28134.html#a01bcdc3543d3ff250354acf5e0724c14", null ],
-    [ "spellId", "d9/db7/a28134.html#aabbb95c091e0b0946bcb05746b1c23f3", null ]
+    [ "HandlePeriodic", "d9/db7/a28134.html#a3da4cc5322f2e34244729fe3b3876482", null ],
+    [ "PrepareAuraScript", "d9/db7/a28134.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
+    [ "Register", "d9/db7/a28134.html#a53b6067f46912648413fc6d6f107b0d8", null ],
+    [ "Validate", "d9/db7/a28134.html#aa03222717b3c06316b232a6ac0270ec0", null ]
 ];

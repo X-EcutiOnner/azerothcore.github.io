@@ -1,8 +1,10 @@
 var a13166 =
 [
-    [ "HandleDummy", "d8/d9e/a13166.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "d8/d9e/a13166.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "d8/d9e/a13166.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "d8/d9e/a13166.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "d8/d9e/a13166.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "npc_netherspite_infernal", "d8/d9e/a13166.html#af9837d7a671533523ce323c083c4e847", null ],
+    [ "DamageTaken", "d8/d9e/a13166.html#aee9b38f3590e08b16de1789576986a09", null ],
+    [ "JustEngagedWith", "d8/d9e/a13166.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
+    [ "KilledUnit", "d8/d9e/a13166.html#a49c37fbebed2951c493962c1a3bd0339", null ],
+    [ "MoveInLineOfSight", "d8/d9e/a13166.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
+    [ "SpellHit", "d8/d9e/a13166.html#abb6c7d0b5e231e460b069198b16106b7", null ],
+    [ "UpdateAI", "d8/d9e/a13166.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
 ];

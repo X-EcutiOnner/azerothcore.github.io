@@ -1,7 +1,8 @@
 var a18118 =
 [
-    [ "HandleSummon", "de/d37/a18118.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "de/d37/a18118.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "de/d37/a18118.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "de/d37/a18118.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "npc_gunship_mageAI", "de/d37/a18118.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
+    [ "AttackStart", "de/d37/a18118.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
+    [ "CanAIAttack", "de/d37/a18118.html#aadcb217a9df96bee02287d75a23e32c2", null ],
+    [ "MovementInform", "de/d37/a18118.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
+    [ "UpdateAI", "de/d37/a18118.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
 ];

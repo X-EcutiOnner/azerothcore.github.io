@@ -1,6 +1,6 @@
 var a20010 =
 [
-    [ "FilterTargets", "db/dcd/a20010.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
-    [ "PrepareSpellScript", "db/dcd/a20010.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
-    [ "Register", "db/dcd/a20010.html#a4e803984a3eded2736825f631786c204", null ]
+    [ "boss_krystallusAI", "d2/d54/a20014.html", "d2/d54/a20014" ],
+    [ "boss_krystallus", "db/dcd/a20010.html#a1d7453c9d67594bfdbd650fea897666a", null ],
+    [ "GetAI", "db/dcd/a20010.html#aba14bcfa00a5d997959abd94af647bf4", null ]
 ];

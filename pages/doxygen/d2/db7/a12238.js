@@ -1,6 +1,6 @@
 var a12238 =
 [
-    [ "boss_halyconAI", "d4/d18/a12242.html", "d4/d18/a12242" ],
-    [ "boss_halycon", "d2/db7/a12238.html#aa149c5f8b34b9c00102f9a0758dcbd9a", null ],
-    [ "GetAI", "d2/db7/a12238.html#a861f1b0213ad9bcf572c9d59eabba699", null ]
+    [ "player_settings_commandscript", "d2/db7/a12238.html#ab8585064d4d358d7d48eed97379a3a78", null ],
+    [ "GetCommands", "d2/db7/a12238.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
+    [ "HandleSettingsAnnouncerFlags", "d2/db7/a12238.html#af505117caa66ed4222e52ff91c486b6e", null ]
 ];

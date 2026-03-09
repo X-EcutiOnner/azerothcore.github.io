@@ -1,6 +1,6 @@
 var a18230 =
 [
-    [ "npc_ice_tombAI", "df/d1a/a18234.html", "df/d1a/a18234" ],
-    [ "npc_ice_tomb", "d6/da9/a18230.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
-    [ "GetAI", "d6/da9/a18230.html#ac99b7c9887e54a1764310bd3e079811a", null ]
+    [ "CheckProc", "d6/da9/a18230.html#a86e62fa26606a77284c80583e7b35d27", null ],
+    [ "PrepareAuraScript", "d6/da9/a18230.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
+    [ "Register", "d6/da9/a18230.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
 ];

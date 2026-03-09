@@ -1,11 +1,7 @@
 var a11970 =
 [
-    [ "spectator_commandscript", "db/d54/a11970.html#a1bf79d739a6af02405bc268c9bb50c26", null ],
-    [ "GetCommands", "db/d54/a11970.html#a3451bcda07b51a33fd8368cf00ac190f", null ],
-    [ "HandleSpectatorCommand", "db/d54/a11970.html#aaf331e54c3c19b5d16d9d5f5c9d28721", null ],
-    [ "HandleSpectatorLeaveCommand", "db/d54/a11970.html#a15e661891f4e08c3efa0bd844c3954aa", null ],
-    [ "HandleSpectatorResetCommand", "db/d54/a11970.html#a23a1a3740609a6d0caa6e0f10c7e8653", null ],
-    [ "HandleSpectatorSpectateCommand", "db/d54/a11970.html#ad1f117a77c0154fc25e937dfe21870a2", null ],
-    [ "HandleSpectatorVersionCommand", "db/d54/a11970.html#aaf7c57603d263f7ab919f12d9680f058", null ],
-    [ "HandleSpectatorWatchCommand", "db/d54/a11970.html#a1ee822e332374b375962d1ae87adbc61", null ]
+    [ "CompressedData", "db/d54/a11970.html#a22e1d740e6c3094fea83eb1a44e40944", null ],
+    [ "CompressedSize", "db/d54/a11970.html#ab57879b41c825623a989db13a53f2f4e", null ],
+    [ "Id", "db/d54/a11970.html#af1e6a5cc01ee05432be5c41c88d84794", null ],
+    [ "Key", "db/d54/a11970.html#ad100540b5c6722a19c938b134a985aed", null ]
 ];

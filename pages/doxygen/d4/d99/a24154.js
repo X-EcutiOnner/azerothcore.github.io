@@ -1,7 +1,10 @@
 var a24154 =
 [
-    [ "OnPeriodic", "d4/d99/a24154.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
-    [ "PrepareAuraScript", "d4/d99/a24154.html#a6f7db06cc1ace68ee0076077773b1659", null ],
-    [ "Register", "d4/d99/a24154.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
-    [ "Validate", "d4/d99/a24154.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
+    [ "npc_infernal_attackerAI", "d4/d99/a24154.html#ae04c4e026f22bd650bb33940b923df9a", null ],
+    [ "IsSummonedBy", "d4/d99/a24154.html#a926e6cd6772784872a905de7245007ac", null ],
+    [ "JustDied", "d4/d99/a24154.html#a1822131520f98dd5f1dd637282f20ae3", null ],
+    [ "Reset", "d4/d99/a24154.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
+    [ "SpellHit", "d4/d99/a24154.html#a956f3fb1e341519817599df08afc2589", null ],
+    [ "UpdateAI", "d4/d99/a24154.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
+    [ "casterGUID", "d4/d99/a24154.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
 ];

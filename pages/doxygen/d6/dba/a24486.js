@@ -1,6 +1,6 @@
 var a24486 =
 [
-    [ "PrepareSpellScript", "d6/dba/a24486.html#aba1979c98f7d0e162cb7aee36c57f568", null ],
-    [ "Register", "d6/dba/a24486.html#a07f75e1ad374118ab0195dd1a17376ed", null ],
-    [ "SetDest", "d6/dba/a24486.html#a23afed27143ca0b8e4cdc477d47ab6e0", null ]
+    [ "HandlePeriodic", "d6/dba/a24486.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
+    [ "PrepareAuraScript", "d6/dba/a24486.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
+    [ "Register", "d6/dba/a24486.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
 ];

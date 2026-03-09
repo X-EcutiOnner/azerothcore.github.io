@@ -1,9 +1,6 @@
 var a18990 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "d9/d53/a18990.html#a91868021309239f5582bb7ee89baec13", null ],
-    [ "AttackStart", "d9/d53/a18990.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
-    [ "JustEngagedWith", "d9/d53/a18990.html#a12927240144022174e3d190be6b34976", null ],
-    [ "Reset", "d9/d53/a18990.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
-    [ "UpdateAI", "d9/d53/a18990.html#a969a36e147006971a93711349f90c193", null ],
-    [ "events", "d9/d53/a18990.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
+    [ "npc_risen_archmageAI", "dd/d36/a18994.html", "dd/d36/a18994" ],
+    [ "npc_risen_archmage", "d9/d53/a18990.html#adf6dfe2a00325955939c84bcc1e4eb68", null ],
+    [ "GetAI", "d9/d53/a18990.html#a8e8c4913e163c5d649fa79c2eb424864", null ]
 ];

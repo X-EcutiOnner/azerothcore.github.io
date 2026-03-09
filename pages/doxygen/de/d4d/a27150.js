@@ -1,7 +1,6 @@
 var a27150 =
 [
-    [ "HandleDummy", "de/d4d/a27150.html#a436ed0843e0035308c69f0854decd7f2", null ],
-    [ "PrepareSpellScript", "de/d4d/a27150.html#a42ff645d6c8e94353ae118327af5f4e6", null ],
-    [ "Register", "de/d4d/a27150.html#a0b69f667ea83dee61206bbc723020cbc", null ],
-    [ "Validate", "de/d4d/a27150.html#a93e68d77227297883aae472ef08fb67c", null ]
+    [ "HandleDummy", "de/d4d/a27150.html#afb85971597df327fa44271ee0c4b3d04", null ],
+    [ "PrepareSpellScript", "de/d4d/a27150.html#a43052fedbec62cfbdbbf24fbfcbca047", null ],
+    [ "Register", "de/d4d/a27150.html#a7a249dd2bcdccf1a19d151d041a25215", null ]
 ];

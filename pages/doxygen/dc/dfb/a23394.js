@@ -1,6 +1,5 @@
 var a23394 =
 [
-    [ "OnPeriodic", "dc/dfb/a23394.html#adfd5a3a6d9c16cd6acdb1f24e7874f20", null ],
-    [ "PrepareAuraScript", "dc/dfb/a23394.html#a8444053fa146a4163ea905634be78dfc", null ],
-    [ "Register", "dc/dfb/a23394.html#aad8868dc3d00fd3ea648abe7b536970d", null ]
+    [ "at_underbog_ghazan", "dc/dfb/a23394.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
+    [ "_OnTrigger", "dc/dfb/a23394.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
 ];

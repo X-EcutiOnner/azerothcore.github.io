@@ -1,6 +1,8 @@
 var a20850 =
 [
-    [ "boss_thorim_arena_npcsAI", "de/da7/a20854.html", "de/da7/a20854" ],
-    [ "boss_thorim_arena_npcs", "de/d08/a20850.html#a60d22280bb1eb3c9da92deb08e887942", null ],
-    [ "GetAI", "de/d08/a20850.html#a3709e1c9df32755f5932398ba3535f2f", null ]
+    [ "OnPeriodic", "de/d08/a20850.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
+    [ "OnRemove", "de/d08/a20850.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
+    [ "PrepareAuraScript", "de/d08/a20850.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
+    [ "Register", "de/d08/a20850.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
+    [ "Validate", "de/d08/a20850.html#aa56622a1e57c157260940023a6c70a35", null ]
 ];

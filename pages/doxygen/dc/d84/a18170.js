@@ -1,6 +1,6 @@
 var a18170 =
 [
-    [ "ExtraRemoveEffect", "dc/d84/a18170.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
-    [ "PrepareAuraScript", "dc/d84/a18170.html#a41992ed6c23275d3a910915755b682f9", null ],
-    [ "Register", "dc/d84/a18170.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
+    [ "IgbTeleportOnVictoryCheck", "dc/d84/a18170.html#a29ee8cac93b9920e598da9205406e608", null ],
+    [ "operator()", "dc/d84/a18170.html#acf85943e238179e911434358f1593be2", null ],
+    [ "_inst", "dc/d84/a18170.html#a015353ecb66da16c697152b7ad3c527e", null ]
 ];

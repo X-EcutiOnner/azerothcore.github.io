@@ -1,8 +1,8 @@
 var a18734 =
 [
-    [ "Load", "d0/d55/a18734.html#a3a5fa4814a7724db0ba7be5c5158798b", null ],
-    [ "PeriodicTick", "d0/d55/a18734.html#a4ff0ab22db0bbd4483ddb379de069c48", null ],
-    [ "PrepareAuraScript", "d0/d55/a18734.html#a029820fbfc34af4d0ccb825a9f9d2b0d", null ],
-    [ "Register", "d0/d55/a18734.html#a909819dde9d5154f3d2cf04b04fa33f7", null ],
-    [ "_instance", "d0/d55/a18734.html#aebebb858f2ae41f2260d6843b3da8052", null ]
+    [ "FilterTargets", "d0/d55/a18734.html#a242fa53c2da9ac557623281bccf2af92", null ],
+    [ "HandleSendEvent", "d0/d55/a18734.html#a6120e057e2ee39d34eaeab79782add8d", null ],
+    [ "Load", "d0/d55/a18734.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
+    [ "PrepareSpellScript", "d0/d55/a18734.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
+    [ "Register", "d0/d55/a18734.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
 ];

@@ -1,6 +1,7 @@
 var a19458 =
 [
-    [ "npc_hover_diskAI", "d7/d58/a19462.html", "d7/d58/a19462" ],
-    [ "npc_hover_disk", "dc/d3f/a19458.html#af0ab534387a2af4e168915801ee855e5", null ],
-    [ "GetAI", "dc/d3f/a19458.html#adbe9285126089ca998e9b6360f42c553", null ]
+    [ "HandleTriggerSpell", "dc/d3f/a19458.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
+    [ "PrepareAuraScript", "dc/d3f/a19458.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
+    [ "Register", "dc/d3f/a19458.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
+    [ "Validate", "dc/d3f/a19458.html#a813bad39641956fff697580f271416d2", null ]
 ];

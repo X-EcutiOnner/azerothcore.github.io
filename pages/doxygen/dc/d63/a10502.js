@@ -1,11 +1,8 @@
 var a10502 =
 [
-    [ "PointMoveMap", "dc/d63/a10502.html#a777e97ebcf367638578d1c189480ad99", null ],
-    [ "SystemMgr", "dc/d63/a10502.html#ac7fd54676b46afcbc520e4c58fcdce75", null ],
-    [ "~SystemMgr", "dc/d63/a10502.html#ab192b30aa7ff1edd27bb23e87a7ac4c5", null ],
-    [ "GetPointMoveList", "dc/d63/a10502.html#af9f998f9778cebce3edb39b7296994d5", null ],
-    [ "instance", "dc/d63/a10502.html#a71b78a44a3656802d55211d68fb19e12", null ],
-    [ "LoadScriptWaypoints", "dc/d63/a10502.html#af8097171a2ffc49600397c6a519dddc3", null ],
-    [ "_empty", "dc/d63/a10502.html#a4c90cb038afeb09c107979348bd3ca01", null ],
-    [ "m_mPointMoveMap", "dc/d63/a10502.html#a3603d019adf647df9f314a7ca61a25dd", null ]
+    [ "AllCommandScript", "dc/d63/a10502.html#a7ff235b904eecdd4d02d2025c4078980", null ],
+    [ "IsDatabaseBound", "dc/d63/a10502.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
+    [ "OnBeforeIsInvokerVisible", "dc/d63/a10502.html#a6f85dc271c1b61244978aa4474e708b0", null ],
+    [ "OnHandleDevCommand", "dc/d63/a10502.html#aba983f0e052ece230617573f04a35c92", null ],
+    [ "OnTryExecuteCommand", "dc/d63/a10502.html#a3a116836453073e77bbd8ab974f36f47", null ]
 ];

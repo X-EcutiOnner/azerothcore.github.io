@@ -1,15 +1,11 @@
 var a16434 =
 [
-    [ "npc_argent_soldierAI", "d9/df1/a16434.html#abbfbb5a1e116c6deb3db23f12ff8994f", null ],
-    [ "DamageTaken", "d9/df1/a16434.html#afb48cc1c2e254c292c33eade74b6fad7", null ],
-    [ "JustDied", "d9/df1/a16434.html#aedf4dcd909c1009fedfde593522454ec", null ],
-    [ "JustEngagedWith", "d9/df1/a16434.html#a0aa59fdf0668d64f3b670c595579ba81", null ],
-    [ "Reset", "d9/df1/a16434.html#a1a0c00c09c348f746730c9743d4b7b6b", null ],
-    [ "SetData", "d9/df1/a16434.html#a20b62b48f5cf92106fcd1860d9e91956", null ],
-    [ "UpdateAI", "d9/df1/a16434.html#aed2921c1f6bc0507bf9e6f02f224ab44", null ],
-    [ "WaypointReached", "d9/df1/a16434.html#af70fb91477dbeaa7e6e409f3381f0770", null ],
-    [ "bCheck", "d9/df1/a16434.html#af570597c33add7ac5ebf3d01e8c9b2df", null ],
-    [ "events", "d9/df1/a16434.html#ac458fc9a331dc7edfdc764215b1926e8", null ],
-    [ "pInstance", "d9/df1/a16434.html#ac9951514f27f343ae96e856f484e7baf", null ],
-    [ "uiWaypoint", "d9/df1/a16434.html#a87382571221c608017fd2d4cb99193dc", null ]
+    [ "spell_hadronox_summon_periodic_aura", "d9/df1/a16434.html#a80cbba741e8005a89a1bbf47a5fc82fb", null ],
+    [ "HandlePeriodic", "d9/df1/a16434.html#a048695baf71d307e5aaa00e54586c9f7", null ],
+    [ "OnApply", "d9/df1/a16434.html#a4466547bc1a5259a33354f2008d6cce7", null ],
+    [ "PrepareAuraScript", "d9/df1/a16434.html#a4205560054e5baed86aecba3b98fc202", null ],
+    [ "Register", "d9/df1/a16434.html#a09efdcddaed4af2833139ca20ef94376", null ],
+    [ "Validate", "d9/df1/a16434.html#a20827683249c17625242e205bb51f9e8", null ],
+    [ "_delay", "d9/df1/a16434.html#abdcc08812e4cf771d4d845ebbbf68790", null ],
+    [ "_spellEntry", "d9/df1/a16434.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
 ];

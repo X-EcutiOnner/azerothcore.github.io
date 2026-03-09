@@ -1,5 +1,6 @@
 var a24298 =
 [
-    [ "at_commander_dawnforge", "d8/d17/a24298.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
-    [ "OnTrigger", "d8/d17/a24298.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
+    [ "HandleSendEvent", "d8/d17/a24298.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
+    [ "PrepareSpellScript", "d8/d17/a24298.html#aed8815b1d068ba04f12c7714a64af769", null ],
+    [ "Register", "d8/d17/a24298.html#aa55fa06e76b1f34e319e16984405ed20", null ]
 ];

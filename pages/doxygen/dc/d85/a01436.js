@@ -1,4 +1,4 @@
 var a01436 =
 [
-    [ "ScriptRegistry< AllBattlegroundScript >", "dc/d85/a01436.html#a4a1c5c34c42d3aaca9edc12feb3f7575", null ]
+    [ "GroupReference", "de/db8/a09794.html", "de/db8/a09794" ]
 ];

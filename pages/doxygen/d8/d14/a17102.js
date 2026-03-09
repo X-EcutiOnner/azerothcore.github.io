@@ -1,6 +1,6 @@
 var a17102 =
 [
-    [ "npc_hor_spiritual_reflectionAI", "d4/d05/a17106.html", "d4/d05/a17106" ],
-    [ "npc_hor_spiritual_reflection", "d8/d14/a17102.html#a5f43c7b336335698468092f72c804fea", null ],
-    [ "GetAI", "d8/d14/a17102.html#ab6aafc6db10943662fb66b0f77fc34ec", null ]
+    [ "boss_icehowlAI", "d4/d05/a17106.html", "d4/d05/a17106" ],
+    [ "boss_icehowl", "d8/d14/a17102.html#ab3c9711fa6af17be9dc7331b42c408be", null ],
+    [ "GetAI", "d8/d14/a17102.html#ac77bf3b9d954b8c6be01d0209a80cc6a", null ]
 ];

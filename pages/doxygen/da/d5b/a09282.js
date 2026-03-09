@@ -1,9 +1,6 @@
 var a09282 =
 [
-    [ "GameObjectLastSearcher", "da/d5b/a09282.html#a9f478f784f46fa502910f621f10238f2", null ],
-    [ "Visit", "da/d5b/a09282.html#a2ba394a2da9f72c7621567092c175f0b", null ],
-    [ "Visit", "da/d5b/a09282.html#a4298bd100890e61a34e827f96d70e752", null ],
-    [ "i_check", "da/d5b/a09282.html#a06f8a6b33e26cdc17508198a9ee08f87", null ],
-    [ "i_object", "da/d5b/a09282.html#a4573ba382a79a34f6c006b7c175f84f1", null ],
-    [ "i_phaseMask", "da/d5b/a09282.html#a7130ecacc379e9f41779a8e0f422b32c", null ]
+    [ "faction", "da/d5b/a09282.html#aaad6e04ef66264f040ddd91ae7f4e04b", null ],
+    [ "faction_rank", "da/d5b/a09282.html#a1ffb9cddf950edfb17e9779691b09f07", null ],
+    [ "faction_rate", "da/d5b/a09282.html#ab86cdfcd03a47f0c48e0661c5e9c8fd4", null ]
 ];

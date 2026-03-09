@@ -1,6 +1,6 @@
 var a19906 =
 [
-    [ "PrepareSpellScript", "da/dcc/a19906.html#af7426e99a49f8618fc38242ded7132f1", null ],
-    [ "RecalculateDamage", "da/dcc/a19906.html#a94e70b20f2139f668227dccb623c1af6", null ],
-    [ "Register", "da/dcc/a19906.html#acd911f78780e052d88f5f47574092d62", null ]
+    [ "npc_centrifuge_constructAI", "d6/d1d/a19910.html", "d6/d1d/a19910" ],
+    [ "npc_centrifuge_construct", "da/dcc/a19906.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
+    [ "GetAI", "da/dcc/a19906.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
 ];

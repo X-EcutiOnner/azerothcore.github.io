@@ -1,10 +1,8 @@
 var a23902 =
 [
-    [ "boss_harbinger_skyriss", "d8/d38/a23902.html#a245179f74d61c2671b397e8f2473b599", null ],
-    [ "EnterEvadeMode", "d8/d38/a23902.html#a873413da06569343225e6659f8277b2c", null ],
-    [ "JustDied", "d8/d38/a23902.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
-    [ "JustEngagedWith", "d8/d38/a23902.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
-    [ "JustSummoned", "d8/d38/a23902.html#a97d84139a3e970e22d7d422f2f825f12", null ],
-    [ "KilledUnit", "d8/d38/a23902.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
-    [ "Reset", "d8/d38/a23902.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
+    [ "boss_mechano_lord_capacitus", "d8/d38/a23902.html#ab5867184d4e50a89a1afe25eb40e6bc3", null ],
+    [ "JustDied", "d8/d38/a23902.html#a596314e7aebcc9e2e7311b4e0850b817", null ],
+    [ "JustEngagedWith", "d8/d38/a23902.html#a4aa9ee50a942fe123acfdeee0350fa2d", null ],
+    [ "JustSummoned", "d8/d38/a23902.html#a9a0b2cac08002db63162f95b9476c251", null ],
+    [ "KilledUnit", "d8/d38/a23902.html#a6a408c654f91a44a40b3df52c0f2b093", null ]
 ];

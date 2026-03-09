@@ -1,6 +1,9 @@
 var a24038 =
 [
-    [ "HandlePeriodic", "d2/da5/a24038.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
-    [ "PrepareAuraScript", "d2/da5/a24038.html#a75d72d196ded2ee109d0231d4342890a", null ],
-    [ "Register", "d2/da5/a24038.html#a148013ea68bbc573bddc1c3639dba019", null ]
+    [ "npc_fel_guard_houndAI", "d2/da5/a24038.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
+    [ "MovementInform", "d2/da5/a24038.html#a127a0d7b61fde64c0ced52192f438f12", null ],
+    [ "Reset", "d2/da5/a24038.html#ab979c3602897b1148ffd5d4a81941197", null ],
+    [ "UpdateAI", "d2/da5/a24038.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
+    [ "checkTimer", "d2/da5/a24038.html#ad22bb6efafb4396cd0137c1384240029", null ],
+    [ "helboarGUID", "d2/da5/a24038.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
 ];

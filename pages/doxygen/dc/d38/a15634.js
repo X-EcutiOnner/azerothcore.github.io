@@ -1,6 +1,9 @@
 var a15634 =
 [
-    [ "npc_troll_volunteerAI", "da/d4a/a15638.html", "da/d4a/a15638" ],
-    [ "npc_troll_volunteer", "dc/d38/a15634.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
-    [ "GetAI", "dc/d38/a15634.html#aba0208b0910ace75686941c462ecca56", null ]
+    [ "npc_eye_tentacle", "dc/d38/a15634.html#a106deeb95d74597377d32e81695dc3c9", null ],
+    [ "JustDied", "dc/d38/a15634.html#aac965d97034f4f623172297e4f82647e", null ],
+    [ "JustEngagedWith", "dc/d38/a15634.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
+    [ "Reset", "dc/d38/a15634.html#a715439dfa31b4cf9df7ddd678d912108", null ],
+    [ "UpdateAI", "dc/d38/a15634.html#a48f9067f27d61e609a014669c1daedb9", null ],
+    [ "_portalGUID", "dc/d38/a15634.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
 ];

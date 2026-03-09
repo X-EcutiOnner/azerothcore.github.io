@@ -1,6 +1,7 @@
 var a13906 =
 [
-    [ "npc_parqual_fintallas", "d8/d41/a13906.html#a9edaf1f7cf4e81ce24c54faa4aed6cf6", null ],
-    [ "OnGossipHello", "d8/d41/a13906.html#af7c1f119d91aa63ee96765f2092b0a6c", null ],
-    [ "OnGossipSelect", "d8/d41/a13906.html#a39276ef82ec5214a1727ebd60235a506", null ]
+    [ "HandleScriptEffect", "d8/d41/a13906.html#ae631c634c77cc207338e3549a664969b", null ],
+    [ "PrepareSpellScript", "d8/d41/a13906.html#ac9f825f10512be5849c46460e9cdbec8", null ],
+    [ "Register", "d8/d41/a13906.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
+    [ "Validate", "d8/d41/a13906.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
 ];

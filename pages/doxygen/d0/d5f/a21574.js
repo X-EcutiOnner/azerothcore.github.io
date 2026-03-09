@@ -1,6 +1,10 @@
 var a21574 =
 [
-    [ "npc_vh_sinclari", "d0/d5f/a21574.html#ad0235f207a3031420532174c04e0c348", null ],
-    [ "OnGossipHello", "d0/d5f/a21574.html#a95f0d094d417d9d6ce99d7c8aa83496f", null ],
-    [ "OnGossipSelect", "d0/d5f/a21574.html#af0a260d7868f601ae239c226b10d4de3", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "d0/d5f/a21574.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
+    [ "GotStinged", "d0/d5f/a21574.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
+    [ "JustEngagedWith", "d0/d5f/a21574.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
+    [ "Reset", "d0/d5f/a21574.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
+    [ "SpellHit", "d0/d5f/a21574.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
+    [ "UpdateAI", "d0/d5f/a21574.html#a21def23073eeec051c1c97a813e0ea84", null ],
+    [ "rebuff", "d0/d5f/a21574.html#ac83c25091fdd3c7876a88927b758261f", null ]
 ];

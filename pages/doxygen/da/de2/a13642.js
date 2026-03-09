@@ -1,8 +1,7 @@
 var a13642 =
 [
-    [ "HandleApply", "da/de2/a13642.html#a717e3428afd59fa3a5e9916887d88273", null ],
-    [ "HandleRemove", "da/de2/a13642.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
-    [ "PrepareAuraScript", "da/de2/a13642.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
-    [ "Register", "da/de2/a13642.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
-    [ "Validate", "da/de2/a13642.html#a393a46618a4e1928b8149e04b4823726", null ]
+    [ "npc_apothecary_genericAI", "da/de2/a13642.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "da/de2/a13642.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "da/de2/a13642.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "da/de2/a13642.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

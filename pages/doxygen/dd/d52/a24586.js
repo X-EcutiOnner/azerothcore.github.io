@@ -1,6 +1,8 @@
 var a24586 =
 [
-    [ "PrepareSpellScript", "dd/d52/a24586.html#ae915f8f6522f0a8d308b2a5f43b8884f", null ],
-    [ "RecalculateDamage", "dd/d52/a24586.html#af01757d0968da2a096d800782ed7e66e", null ],
-    [ "Register", "dd/d52/a24586.html#a62b6613707a2a9b78d52bffe92de604e", null ]
+    [ "CheckCast", "dd/d52/a24586.html#a94851a2b6a62138e28466317e9e88480", null ],
+    [ "HandleDummy", "dd/d52/a24586.html#a970684d219c99519512c437a8efd8d43", null ],
+    [ "PrepareSpellScript", "dd/d52/a24586.html#a39b726e6c5809a6f8100970e8b71fc71", null ],
+    [ "Register", "dd/d52/a24586.html#a7acf718f0a1109d384fd2b9dd23ca62c", null ],
+    [ "Validate", "dd/d52/a24586.html#a59cca008a97447e257bf24071301b366", null ]
 ];

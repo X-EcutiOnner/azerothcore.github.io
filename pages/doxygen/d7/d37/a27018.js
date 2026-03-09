@@ -1,10 +1,7 @@
 var a27018 =
 [
-    [ "CalculateAPAmount", "d7/d37/a27018.html#ae76d10c68df1f149f83d4247122b47a7", null ],
-    [ "CalculateResistanceAmount", "d7/d37/a27018.html#ab21a4b135dfd70963f75eff7bffbf476", null ],
-    [ "CalculateSPAmount", "d7/d37/a27018.html#a421996ca946d5b04c264718e6dd63fa9", null ],
-    [ "CalculateStatAmount", "d7/d37/a27018.html#ae695515c915f2452dccb71aeb018f3a3", null ],
-    [ "HandleEffectApply", "d7/d37/a27018.html#a207864c73e485e0db0fe47bde97d87a2", null ],
-    [ "PrepareAuraScript", "d7/d37/a27018.html#a4179be48195872410bda69cac3454812", null ],
-    [ "Register", "d7/d37/a27018.html#a94b34a7e4c36bf1336b5611e82e2dd58", null ]
+    [ "HandleEffectRemove", "d7/d37/a27018.html#a814687d3938e966f8721438e1a722f77", null ],
+    [ "PrepareAuraScript", "d7/d37/a27018.html#a2144b0602501471a4001883ce9de6db3", null ],
+    [ "Register", "d7/d37/a27018.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
+    [ "AuraEffectHandleModes", "d7/d37/a27018.html#ab291f6c6f269ec7004df39a043f49efd", null ]
 ];

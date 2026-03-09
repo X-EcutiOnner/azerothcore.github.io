@@ -1,6 +1,6 @@
 var a13566 =
 [
-    [ "FixOrientation", "d9/d68/a13566.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
-    [ "Execute", "d9/d68/a13566.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
-    [ "_owner", "d9/d68/a13566.html#a5f12db3774bdeef25a300780c00db1fb", null ]
+    [ "instance_scarlet_monastery_InstanceMapScript", "d9/d43/a13570.html", "d9/d43/a13570" ],
+    [ "instance_scarlet_monastery", "d9/d68/a13566.html#a8f068ebd98bd81dbb60dbccd795f1f3f", null ],
+    [ "GetInstanceScript", "d9/d68/a13566.html#a1c66031217457809fbe56303085715a0", null ]
 ];

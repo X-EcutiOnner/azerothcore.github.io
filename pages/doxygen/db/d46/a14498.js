@@ -1,11 +1,5 @@
 var a14498 =
 [
-    [ "npc_the_etymidian", "db/d46/a14498.html#af491016ac89b67947650a5ca9c379875", null ],
-    [ "MoveInLineOfSight", "db/d46/a14498.html#adde2d86e30442eb1b47219e934e24407", null ],
-    [ "Reset", "db/d46/a14498.html#a714edf3ba5f7a6d59242c991764effc5", null ],
-    [ "UpdateAI", "db/d46/a14498.html#a1f3cfddae43e443c5cd4a8a0f9f87a89", null ],
-    [ "orphanGUID", "db/d46/a14498.html#a9ba2c34b08d0fe61e18037b02f352d08", null ],
-    [ "phase", "db/d46/a14498.html#a7086e9a8a8a7287cf90688270e9933a7", null ],
-    [ "playerGUID", "db/d46/a14498.html#a7371e361c018360315e20086b0b99079", null ],
-    [ "timer", "db/d46/a14498.html#a8508a2c89eeeee2d235e1178ca77e895", null ]
+    [ "at_zulgurub_entrance_speech", "db/d46/a14498.html#afef11c6a7e97befd07072826fa13be55", null ],
+    [ "_OnTrigger", "db/d46/a14498.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
 ];

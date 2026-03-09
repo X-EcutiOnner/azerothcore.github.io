@@ -1,6 +1,6 @@
 var a21138 =
 [
-    [ "OnRemove", "d3/dfa/a21138.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
-    [ "PrepareAuraScript", "d3/dfa/a21138.html#a5fb0837417b915676549370cc76c477d", null ],
-    [ "Register", "d3/dfa/a21138.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
+    [ "boss_palehoofAI", "d0/dfd/a21142.html", "d0/dfd/a21142" ],
+    [ "boss_palehoof", "d3/dfa/a21138.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
+    [ "GetAI", "d3/dfa/a21138.html#ae33ca6e71b251214be50168a5940d058", null ]
 ];

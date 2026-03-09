@@ -1,5 +1,5 @@
 var a04688 =
 [
-    [ "group_commandscript", "db/db7/a12120.html", "db/db7/a12120" ],
-    [ "AddSC_group_commandscript", "df/d72/a04688.html#ac4c9434ed910cd9636e0a8644a8e91e1", null ]
+    [ "achievement_commandscript", "d2/db3/a12078.html", "d2/db3/a12078" ],
+    [ "AddSC_achievement_commandscript", "df/d72/a04688.html#afeb482a8cffe8416071764bc4e78bff2", null ]
 ];

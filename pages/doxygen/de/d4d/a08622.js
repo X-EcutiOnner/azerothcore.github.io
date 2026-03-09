@@ -1,9 +1,5 @@
 var a08622 =
 [
-    [ "areaFlag", "de/d4d/a08622.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
-    [ "areaID", "de/d4d/a08622.html#a455a890a1d82d31873873ac497cb83b7", null ],
-    [ "x1", "de/d4d/a08622.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
-    [ "x2", "de/d4d/a08622.html#aebdb021c0b9c40d624d5115b24616a12", null ],
-    [ "y1", "de/d4d/a08622.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
-    [ "y2", "de/d4d/a08622.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
+    [ "Description", "de/d4d/a08622.html#a4187f2b02014c83bc4f1b3d65d229311", null ],
+    [ "Name", "de/d4d/a08622.html#a787ca2c05ddac7ee5c3a5c28a02b8494", null ]
 ];

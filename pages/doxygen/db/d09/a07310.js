@@ -1,6 +1,9 @@
 var a07310 =
 [
-    [ "ArenaTeamFilterByTypes", "db/d09/a07310.html#ac28ee86767c48219dbe141620c87e129", null ],
-    [ "Filter", "db/d09/a07310.html#a7c04437788359b40db1c0d4492d51497", null ],
-    [ "_validTypes", "db/d09/a07310.html#aa3b5ce8932b00b092813af239d83b7d1", null ]
+    [ "SmartWaypointMgr", "db/d09/a07310.html#ad9168edcc4fd16260178d4a9277f71ba", null ],
+    [ "~SmartWaypointMgr", "db/d09/a07310.html#a300be22ad39e320833297c3f05cdcecc", null ],
+    [ "GetPath", "db/d09/a07310.html#ac833faad34e77a7b9e5a7b0c46fe8394", null ],
+    [ "instance", "db/d09/a07310.html#a7ae477d4d210d938e167453d9085e520", null ],
+    [ "LoadFromDB", "db/d09/a07310.html#a9b5cdb29d31e7de0a407f600aef482af", null ],
+    [ "waypoint_map", "db/d09/a07310.html#ac22c9bc98be18bb4ffa051387dd844e1", null ]
 ];

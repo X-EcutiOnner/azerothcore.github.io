@@ -1,8 +1,18 @@
 var a19630 =
 [
-    [ "npc_centrifuge_constructAI", "d4/d16/a19630.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
-    [ "DamageTaken", "d4/d16/a19630.html#aa568418de267a99108698e79baa1b3f4", null ],
-    [ "JustEngagedWith", "d4/d16/a19630.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
-    [ "Reset", "d4/d16/a19630.html#a2f7750cea2f59d794c85e20b703370af", null ],
-    [ "UpdateAI", "d4/d16/a19630.html#a28316416ad6c56d83c9e878511256445", null ]
+    [ "boss_nothAI", "d4/d16/a19630.html#a0a1f8e88396b04d070c4034b2419f0bb", null ],
+    [ "EnterEvadeMode", "d4/d16/a19630.html#af0c4cfb04564b23840ee88dfa1badf55", null ],
+    [ "IsInRoom", "d4/d16/a19630.html#a8e9c27804ae01e46285a3bed42091754", null ],
+    [ "JustDied", "d4/d16/a19630.html#a18dd73c178eff3170d371c4bd4062b76", null ],
+    [ "JustEngagedWith", "d4/d16/a19630.html#aed044bf36d56b2241e591eb45999900b", null ],
+    [ "JustSummoned", "d4/d16/a19630.html#a61e814ce0a861ba98ccc21d8d6df128a", null ],
+    [ "KilledUnit", "d4/d16/a19630.html#a1d5b013cdbaab702a85fc1d344ad6f6a", null ],
+    [ "Reset", "d4/d16/a19630.html#a311754fa1fa1b112272395179e3b1bff", null ],
+    [ "StartBalconyPhase", "d4/d16/a19630.html#ac890e5f4e6e9e40d78e75d2c86bd6740", null ],
+    [ "StartGroundPhase", "d4/d16/a19630.html#a3ae5f948e2faf051b1cb88cd638c612e", null ],
+    [ "SummonHelper", "d4/d16/a19630.html#abfe6252bec42fdc3d7738aef3dd2ec74", null ],
+    [ "UpdateAI", "d4/d16/a19630.html#a87f4e825fb8f9f48991d5dcf94af78e3", null ],
+    [ "events", "d4/d16/a19630.html#a3f3e282c6ee1d259f1f2a401f6195251", null ],
+    [ "summons", "d4/d16/a19630.html#a4e95ad18274331e402124d4a8424cb18", null ],
+    [ "timesInBalcony", "d4/d16/a19630.html#a249c96d4230bd2b43c4be733317c4bc4", null ]
 ];

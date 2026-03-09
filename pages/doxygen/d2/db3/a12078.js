@@ -1,11 +1,7 @@
 var a12078 =
 [
-    [ "npc_rocknotAI", "d2/db3/a12078.html#a4daa5104eabb6d38c22274b48a8514be", null ],
-    [ "DoGo", "d2/db3/a12078.html#a7591520e06782feddb98a86107fbcb27", null ],
-    [ "Reset", "d2/db3/a12078.html#a4d855a23c638e835de6f1c4644350166", null ],
-    [ "UpdateAI", "d2/db3/a12078.html#a1d3bce3248766393be5f84c5ca5030b1", null ],
-    [ "WaypointReached", "d2/db3/a12078.html#ae7d6f0b1e52767c61ad014accb1cec7a", null ],
-    [ "BreakDoor_Timer", "d2/db3/a12078.html#a3ae6edef4812fd3161c3b8ad5aa5cac2", null ],
-    [ "BreakKeg_Timer", "d2/db3/a12078.html#a6f380ad58cf55fe2ea9fc1f56118b454", null ],
-    [ "instance", "d2/db3/a12078.html#a4328c25f12f562cfdf41740e908cb3bd", null ]
+    [ "achievement_commandscript", "d2/db3/a12078.html#ac1c40d7b3b628cc206c44eae18592292", null ],
+    [ "GetCommands", "d2/db3/a12078.html#adeac4e6f74f006daa76b0ebb8ea1469c", null ],
+    [ "HandleAchievementAddCommand", "d2/db3/a12078.html#ac4f6addfb0c52d584bf8081436aa3d7a", null ],
+    [ "HandleAchievementCheckAllCommand", "d2/db3/a12078.html#a0e3b83961ff20899a8492c8d8b7c13be", null ]
 ];

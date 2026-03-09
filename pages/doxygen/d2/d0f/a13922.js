@@ -1,6 +1,7 @@
 var a13922 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "dc/d13/a13926.html", "dc/d13/a13926" ],
-    [ "npc_jaina_proudmoore_bfu", "d2/d0f/a13922.html#af96c4fac318f44cf6e70817b6960999f", null ],
-    [ "GetAI", "d2/d0f/a13922.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
+    [ "FilterTargets", "d2/d0f/a13922.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
+    [ "HandleHit", "d2/d0f/a13922.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
+    [ "PrepareSpellScript", "d2/d0f/a13922.html#a905e1f979284a368463ad4829891b6ee", null ],
+    [ "Register", "d2/d0f/a13922.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
 ];

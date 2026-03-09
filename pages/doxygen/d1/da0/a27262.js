@@ -1,5 +1,6 @@
 var a27262 =
 [
-    [ "achievement_sickly_gazelle", "d1/da0/a27262.html#abb613cb222c727923c4c5ce843db3a5f", null ],
-    [ "OnCheck", "d1/da0/a27262.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
+    [ "HandleScript", "d1/da0/a27262.html#acde0ae837d0cd3af0f38481027200291", null ],
+    [ "PrepareSpellScript", "d1/da0/a27262.html#ac1237e0af7f88f75ebc551af52fc301c", null ],
+    [ "Register", "d1/da0/a27262.html#a2dc2628984358628afe7d9b62ced7794", null ]
 ];

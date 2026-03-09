@@ -1,6 +1,6 @@
 var a20802 =
 [
-    [ "boss_thorim_sif_blizzardAI", "db/dff/a20806.html", "db/dff/a20806" ],
-    [ "boss_thorim_sif_blizzard", "d9/d04/a20802.html#acc42b4c9434f9eece2d93c2e4f3697fc", null ],
-    [ "GetAI", "d9/d04/a20802.html#afbff96363951c952a195f5c2a105e279", null ]
+    [ "OnPeriodic", "d9/d04/a20802.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
+    [ "PrepareAuraScript", "d9/d04/a20802.html#a6aa46e818199da206e6543005a7fe87f", null ],
+    [ "Register", "d9/d04/a20802.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
 ];

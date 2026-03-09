@@ -1,7 +1,5 @@
 var a02435 =
 [
-    [ "ArenaTeamFilter", "d7/da8/a07480.html", "d7/da8/a07480" ],
-    [ "ArenaTeamFilterByTypes", "d0/dd1/a07484.html", "d0/dd1/a07484" ],
-    [ "ArenaTeamFilterAllTeams", "df/d26/a07488.html", "df/d26/a07488" ],
-    [ "ArenaTeamFilterFactoryByUserInput", "dd/d6f/a07492.html", "dd/d6f/a07492" ]
+    [ "BGSpamProtect", "d9/da8/a07598.html", "d9/da8/a07598" ],
+    [ "sBGSpam", "d1/de1/a02435.html#ae37d7994736d43484a627d5de2af5fc1", null ]
 ];

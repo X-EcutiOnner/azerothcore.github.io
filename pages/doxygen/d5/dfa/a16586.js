@@ -1,7 +1,6 @@
 var a16586 =
 [
-    [ "npc_toc_druidAI", "d5/dfa/a16586.html#adb456f1f93be5329174a3199c9092825", null ],
-    [ "myCanCast", "d5/dfa/a16586.html#af82baa22ae49ba268f494cb07287845e", null ],
-    [ "UpdateAI", "d5/dfa/a16586.html#a82a22a557db647f73690d8838a635eaf", null ],
-    [ "events", "d5/dfa/a16586.html#a6bb27baf17f0286db3222287a8073bd7", null ]
+    [ "boss_halionAI", "d8/d48/a16590.html", "d8/d48/a16590" ],
+    [ "boss_halion", "d5/dfa/a16586.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
+    [ "GetAI", "d5/dfa/a16586.html#a142314efb4f45ec146ab0225271d29b1", null ]
 ];

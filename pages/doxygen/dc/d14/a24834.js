@@ -1,6 +1,8 @@
 var a24834 =
 [
-    [ "CalculateAmount", "dc/d14/a24834.html#ada4514ba7769ebceeed1e0ab1c3a33e8", null ],
-    [ "PrepareAuraScript", "dc/d14/a24834.html#a1faa084b17776e826242293e2aaef2f4", null ],
-    [ "Register", "dc/d14/a24834.html#a94b21c91954385201d4bad6aff2205fc", null ]
+    [ "AfterApply", "dc/d14/a24834.html#a4d2941ebb326d603ac08f428f811c29b", null ],
+    [ "AfterRemove", "dc/d14/a24834.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
+    [ "PrepareAuraScript", "dc/d14/a24834.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
+    [ "Register", "dc/d14/a24834.html#a78e30a950b9fc08dff5072028816b8b4", null ],
+    [ "Validate", "dc/d14/a24834.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
 ];

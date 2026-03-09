@@ -1,8 +1,6 @@
 var a16698 =
 [
-    [ "npc_toc_pet_warlockAI", "db/dcc/a16698.html#a0f4128d5fd7a855f1fb2870465bc1ce7", null ],
-    [ "EnterEvadeMode", "db/dcc/a16698.html#a62219f63e82fc67f63db2cbd713647a0", null ],
-    [ "myCanCast", "db/dcc/a16698.html#a81607ebd90d8f511bb18b03ff497d9eb", null ],
-    [ "UpdateAI", "db/dcc/a16698.html#a05a150e01f519675ac7b69d3c2a97ed4", null ],
-    [ "events", "db/dcc/a16698.html#a8edadebd7e6660041233a24fb07173bf", null ]
+    [ "boss_saviana_ragefireAI", "d5/dc6/a16702.html", "d5/dc6/a16702" ],
+    [ "boss_saviana_ragefire", "db/dcc/a16698.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
+    [ "GetAI", "db/dcc/a16698.html#a0a0073d8710af066d9711636f4d5b01e", null ]
 ];

@@ -1,9 +1,8 @@
 var a23030 =
 [
-    [ "HandleAfterCast", "de/dbe/a23030.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
-    [ "HandleDummy", "de/dbe/a23030.html#ae94594e337c2e0e6864f3723df8349bf", null ],
-    [ "Load", "de/dbe/a23030.html#a301008eff6b13a43070b3916925391ae", null ],
-    [ "PrepareSpellScript", "de/dbe/a23030.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
-    [ "Register", "de/dbe/a23030.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
-    [ "_targetCount", "de/dbe/a23030.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
+    [ "instance_black_temple_InstanceMapScript", "de/dbe/a23030.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
+    [ "OnCreatureCreate", "de/dbe/a23030.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
+    [ "OnGameObjectCreate", "de/dbe/a23030.html#a564a49814ceb3b3161a6476335ab653a", null ],
+    [ "SetBossState", "de/dbe/a23030.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
+    [ "ashtongueGUIDs", "de/dbe/a23030.html#a85fa9c5231f13529a0741b0f92266c90", null ]
 ];

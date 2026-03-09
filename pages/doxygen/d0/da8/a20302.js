@@ -1,8 +1,6 @@
 var a20302 =
 [
-    [ "npc_ulduar_saronite_animusAI", "d0/da8/a20302.html#a2b94427feb24a7bda075b6a8f403433a", null ],
-    [ "JustDied", "d0/da8/a20302.html#a30abcab01de3732bc5525864576615b0", null ],
-    [ "UpdateAI", "d0/da8/a20302.html#a1490961adc8fc03ab28a992aff55b43b", null ],
-    [ "pInstance", "d0/da8/a20302.html#a5d3b297355f286b0ad08ed38dbd5b0d2", null ],
-    [ "timer", "d0/da8/a20302.html#a3d0345d4c503eb3f0e4acbe346f1c5e5", null ]
+    [ "HandleScript", "d0/da8/a20302.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
+    [ "PrepareSpellScript", "d0/da8/a20302.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
+    [ "Register", "d0/da8/a20302.html#a04a5b3a4f768200d74f4641508633d35", null ]
 ];

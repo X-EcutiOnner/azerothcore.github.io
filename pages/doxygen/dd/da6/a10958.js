@@ -1,12 +1,6 @@
 var a10958 =
 [
-    [ "StartMirrorTimer", "dd/da6/a10958.html#a86039d4a721636477f266712682883f0", null ],
-    [ "StartMirrorTimer", "dd/da6/a10958.html#a5202945882fb3cb5dd8574b6e6f8d5b0", null ],
-    [ "Write", "dd/da6/a10958.html#afa6cc6032804e3d8f3f7797b2231847f", null ],
-    [ "MaxValue", "dd/da6/a10958.html#a3f26c682d547be40d2800eff2189348d", null ],
-    [ "Paused", "dd/da6/a10958.html#af3994b2c6a57e734f9d1ebeedcab7759", null ],
-    [ "Scale", "dd/da6/a10958.html#a5879b6c796d7d7c2fd59001d2813a6b3", null ],
-    [ "SpellID", "dd/da6/a10958.html#a3d90aa3046eb6272249f8fe171d7cd2f", null ],
-    [ "Timer", "dd/da6/a10958.html#abb9dbec2c5df4b2dfbc96314a0465011", null ],
-    [ "Value", "dd/da6/a10958.html#ad0f2f8f95fdea9a7555e3056bb49cc53", null ]
+    [ "GuildDemoteMember", "dd/da6/a10958.html#aa3d68021828c516d7b1995811e8df7d7", null ],
+    [ "Read", "dd/da6/a10958.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
+    [ "Demotee", "dd/da6/a10958.html#a60c7e56c201d794fb473a62fccc160bb", null ]
 ];

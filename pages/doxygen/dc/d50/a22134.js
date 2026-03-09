@@ -1,7 +1,18 @@
 var a22134 =
 [
-    [ "HandleAfterEffectApply", "dc/d50/a22134.html#ab54795dc49ca453db40494a694158a98", null ],
-    [ "PrepareAuraScript", "dc/d50/a22134.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
-    [ "Register", "dc/d50/a22134.html#addd4fac4cc8a93d800abacb144e3303c", null ],
-    [ "Validate", "dc/d50/a22134.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
+    [ "npc_blessed_bannerAI", "dc/d50/a22134.html#a563cd394d72a900d735f8639074deae1", null ],
+    [ "JustDied", "dc/d50/a22134.html#a06e0e0c1e673c13488bd47e130098915", null ],
+    [ "JustEngagedWith", "dc/d50/a22134.html#abfdd9e554fbbe16f6058d5cb10394a84", null ],
+    [ "JustSummoned", "dc/d50/a22134.html#a354921ca9a3603c48885a38a507347c4", null ],
+    [ "MoveInLineOfSight", "dc/d50/a22134.html#a34a0a856a4a4c05954ba300d8031e374", null ],
+    [ "Reset", "dc/d50/a22134.html#a6fe7e49f2077ed549a6406592aec345e", null ],
+    [ "UpdateAI", "dc/d50/a22134.html#a8ca070c63dd48e22823ac26d11da75be", null ],
+    [ "events", "dc/d50/a22134.html#a79b7fbee1492860fe64d42928e494e3d", null ],
+    [ "guidDalfors", "dc/d50/a22134.html#a369a837b6fa57d0960f24d9ea629ed04", null ],
+    [ "guidHalof", "dc/d50/a22134.html#aef28a7624fb88e65a7f79fe34c320a29", null ],
+    [ "guidMason", "dc/d50/a22134.html#a05e6dc20409e2271de8fe4f4b3ae7bfa", null ],
+    [ "guidPriest", "dc/d50/a22134.html#a25f4056b2d7fda02885f58502f809a9c", null ],
+    [ "HalofSpawned", "dc/d50/a22134.html#a38e98094f05c09ea19a4f44771194b2e", null ],
+    [ "PhaseCount", "dc/d50/a22134.html#a983110caf86d94374a299d7268f7458c", null ],
+    [ "Summons", "dc/d50/a22134.html#a92d7543e31c5cb367379711cb767ebd6", null ]
 ];

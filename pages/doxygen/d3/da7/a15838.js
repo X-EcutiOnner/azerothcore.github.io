@@ -1,14 +1,8 @@
 var a15838 =
 [
-    [ "npc_taskmaster_fizzuleAI", "d3/da7/a15838.html#ac792f91930c869ce919f8fd96b3fb076", null ],
-    [ "DoFriend", "d3/da7/a15838.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
-    [ "JustEngagedWith", "d3/da7/a15838.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
-    [ "ReceiveEmote", "d3/da7/a15838.html#a21d0d70086f085b715a12d05fbe5d611", null ],
-    [ "Reset", "d3/da7/a15838.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
-    [ "SpellHit", "d3/da7/a15838.html#a4c35104935a3a6264c853a657dc42244", null ],
-    [ "UpdateAI", "d3/da7/a15838.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
-    [ "factionNorm", "d3/da7/a15838.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
-    [ "FlareCount", "d3/da7/a15838.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
-    [ "IsFriend", "d3/da7/a15838.html#ab7e6bd2e023545c73fba758267551eee", null ],
-    [ "ResetTimer", "d3/da7/a15838.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
+    [ "npc_injured_draeneiAI", "d3/da7/a15838.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
+    [ "JustEngagedWith", "d3/da7/a15838.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
+    [ "MoveInLineOfSight", "d3/da7/a15838.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
+    [ "Reset", "d3/da7/a15838.html#adcb601f739a91ce71926791885152471", null ],
+    [ "UpdateAI", "d3/da7/a15838.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
 ];

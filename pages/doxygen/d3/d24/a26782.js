@@ -1,8 +1,7 @@
 var a26782 =
 [
-    [ "CheckCast", "d3/d24/a26782.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
-    [ "CheckQuest", "d3/d24/a26782.html#abc927d932c1d5e05eab1918364d68ed5", null ],
-    [ "HandleActiveObject", "d3/d24/a26782.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
-    [ "PrepareSpellScript", "d3/d24/a26782.html#a96e69476965cc2466213a5371a57093a", null ],
-    [ "Register", "d3/d24/a26782.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
+    [ "HandleProc", "d3/d24/a26782.html#ab743366a1ee3e2a77ecafde5a06439d0", null ],
+    [ "PrepareAuraScript", "d3/d24/a26782.html#afcf7c0209a22464b7cf72f2b4fa74eaf", null ],
+    [ "Register", "d3/d24/a26782.html#a1898ee4e5e69f7b00b242340e53c131f", null ],
+    [ "Validate", "d3/d24/a26782.html#a84495f575255d3359490021254edb31b", null ]
 ];

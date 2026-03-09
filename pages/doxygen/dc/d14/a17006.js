@@ -1,6 +1,6 @@
 var a17006 =
 [
-    [ "entry", "dc/d14/a17006.html#a80e1510436336f4ed17748a06b27178d", null ],
-    [ "pathId", "dc/d14/a17006.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
-    [ "startPosition", "dc/d14/a17006.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
+    [ "npc_toc_retro_paladinAI", "d0/d7c/a17010.html", "d0/d7c/a17010" ],
+    [ "npc_toc_retro_paladin", "dc/d14/a17006.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
+    [ "GetAI", "dc/d14/a17006.html#a1213c99792aa4362275bc827aa2f037e", null ]
 ];

@@ -1,6 +1,6 @@
 var a20922 =
 [
-    [ "npc_xt002_life_sparkAI", "de/d94/a20926.html", "de/d94/a20926" ],
-    [ "npc_xt002_life_spark", "d9/d33/a20922.html#a9644718d192708e391b833468a0ff21e", null ],
-    [ "GetAI", "d9/d33/a20922.html#a09a1ce332d55fad146947c94bb53f564", null ]
+    [ "boss_yoggsaron_descend_portal", "d9/d33/a20922.html#aa64788351819e9c7f5505c929818770d", null ],
+    [ "OnSpellClick", "d9/d33/a20922.html#af72e8c3611b5e134e39ab9695405e08e", null ],
+    [ "_instance", "d9/d33/a20922.html#a6b430a5f4045cdf3c3524208f02d53d2", null ]
 ];

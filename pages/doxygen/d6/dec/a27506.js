@@ -1,7 +1,6 @@
 var a27506 =
 [
-    [ "go_darkmoon_faire_musicAI", "d6/dec/a27506.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
-    [ "UpdateAI", "d6/dec/a27506.html#af3d802bd852fc0483f72781edb13b5d5", null ],
-    [ "_events", "d6/dec/a27506.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
-    [ "rnd", "d6/dec/a27506.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
+    [ "CheckProc", "d6/dec/a27506.html#a3b98aef2d745773a55ac10daded629e7", null ],
+    [ "PrepareAuraScript", "d6/dec/a27506.html#ab49dc1c178c4089fe8f708da3cd22bf2", null ],
+    [ "Register", "d6/dec/a27506.html#a5c0c53a39fdc770f8c6e9a86cd87c74a", null ]
 ];

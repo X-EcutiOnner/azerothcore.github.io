@@ -1,24 +1,7 @@
 var a08710 =
 [
-    [ "Totem", "d0/d7f/a08710.html#a556c9121978cad2d780ef0c1ba63c28a", null ],
-    [ "~Totem", "d0/d7f/a08710.html#a7c7376e438a14b5561049f82650c62c5", null ],
-    [ "GetSpell", "d0/d7f/a08710.html#a1454ef318166d69bee1eddcaec73604a", null ],
-    [ "GetTotemDuration", "d0/d7f/a08710.html#a588f187bbf8aa0e16b45974610ec593b", null ],
-    [ "GetTotemType", "d0/d7f/a08710.html#aa1c94dfcaee2deaef2786e2f4f63b837", null ],
-    [ "InitStats", "d0/d7f/a08710.html#a4661c91b5123862fc44e7a290cf70d1f", null ],
-    [ "InitSummon", "d0/d7f/a08710.html#aaf87ce98ed8bfc42072228c9e39bfdf6", null ],
-    [ "IsImmunedToSpellEffect", "d0/d7f/a08710.html#a25d245ac788196851f748d84b529bd98", null ],
-    [ "SetTotemDuration", "d0/d7f/a08710.html#aced4f5c6ff70852083c23fb32cd50a7f", null ],
-    [ "UnSummon", "d0/d7f/a08710.html#ab127e1cc25ef8878b9a44cb0eb080523", null ],
-    [ "Update", "d0/d7f/a08710.html#aa44d1386a44ade821cc6dfe5caee9b90", null ],
-    [ "UpdateAllStats", "d0/d7f/a08710.html#a515d54b852bbedf597f9f69cb7c0982b", null ],
-    [ "UpdateArmor", "d0/d7f/a08710.html#a0b587243be09d58f5693570933680bff", null ],
-    [ "UpdateAttackPowerAndDamage", "d0/d7f/a08710.html#a8a18cacf85203a6918dcdbe19fcde850", null ],
-    [ "UpdateDamagePhysical", "d0/d7f/a08710.html#afbef34893575beb29356634a140bce62", null ],
-    [ "UpdateMaxHealth", "d0/d7f/a08710.html#a01f507b7699f92e90b5601280408ba76", null ],
-    [ "UpdateMaxPower", "d0/d7f/a08710.html#af0a51bf3565114ba84fd8fcad93170ad", null ],
-    [ "UpdateResistances", "d0/d7f/a08710.html#aa65b8427a4cd938312ac4d9d4ab54f69", null ],
-    [ "UpdateStats", "d0/d7f/a08710.html#a9c417b6be9a58cda23250067f6cadbcc", null ],
-    [ "m_duration", "d0/d7f/a08710.html#a0bff976b49617405869ac7f2416e0ca1", null ],
-    [ "m_type", "d0/d7f/a08710.html#a7e31af10f1ff0e854941e3a44254d139", null ]
+    [ "UsedPos", "d0/d7f/a08710.html#aef230e392619ad4abc2da649d11b2394", null ],
+    [ "dist", "d0/d7f/a08710.html#ae73cbe8b0cf3ce714f6654df3a8874de", null ],
+    [ "sign", "d0/d7f/a08710.html#a2b5f97425309d56482a1f287b6d5be69", null ],
+    [ "size", "d0/d7f/a08710.html#a4ad5a2df36ae9c1cd9130c5efd27af58", null ]
 ];

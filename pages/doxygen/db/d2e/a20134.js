@@ -1,8 +1,6 @@
 var a20134 =
 [
-    [ "FilterTargets", "db/d2e/a20134.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
-    [ "HandleScript", "db/d2e/a20134.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
-    [ "PrepareSpellScript", "db/d2e/a20134.html#aea46762f43b31923617f740e0545fe98", null ],
-    [ "Register", "db/d2e/a20134.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
-    [ "Validate", "db/d2e/a20134.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
+    [ "HandlePeriodic", "db/d2e/a20134.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
+    [ "PrepareAuraScript", "db/d2e/a20134.html#a7c6b6839da4a93f656800c9ae174c832", null ],
+    [ "Register", "db/d2e/a20134.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
 ];

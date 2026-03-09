@@ -1,17 +1,12 @@
 var a10386 =
 [
-    [ "GuildScript", "d7/d85/a10386.html#a9f2e849a2fb4a1cb901080f129692482", null ],
-    [ "CanGuildSendBankList", "d7/d85/a10386.html#a293f3d822ae075246f1a7552ce9b0424", null ],
-    [ "IsDatabaseBound", "d7/d85/a10386.html#aae0601f04ec90533bb7699c68f68fe8f", null ],
-    [ "OnAddMember", "d7/d85/a10386.html#a908df71c0d9be1258e624f4e977e8d75", null ],
-    [ "OnBankEvent", "d7/d85/a10386.html#a8f29c847a68fb41dd3bca4ac257ee159", null ],
-    [ "OnCreate", "d7/d85/a10386.html#acfc89fe841629beca8de15c23c48a6c7", null ],
-    [ "OnDisband", "d7/d85/a10386.html#a5c840084ca74af0556ac5d6256bfd75d", null ],
-    [ "OnEvent", "d7/d85/a10386.html#ad0733568cee8ded5c89d8404166201bb", null ],
-    [ "OnInfoChanged", "d7/d85/a10386.html#a3ce284c112b61c6077b509d55a52f388", null ],
-    [ "OnItemMove", "d7/d85/a10386.html#a2309a1ae2828cb7c758a5cf0329f1f5a", null ],
-    [ "OnMemberDepositMoney", "d7/d85/a10386.html#a64d676d964b408b6fde7ab9185951eb0", null ],
-    [ "OnMemberWitdrawMoney", "d7/d85/a10386.html#a503c5116512f8ac45506732674aa5635", null ],
-    [ "OnMOTDChanged", "d7/d85/a10386.html#ac5886f63fbc5da499843677339f4944b", null ],
-    [ "OnRemoveMember", "d7/d85/a10386.html#a0231be74a2625a91fc617980dfc41ca3", null ]
+    [ "delay", "d7/d85/a10386.html#aa05ef99c3e04589501362a07d0dd032a", null ],
+    [ "event_chance", "d7/d85/a10386.html#af54f2d38ca1a11664f516799f3bb80c8", null ],
+    [ "event_id", "d7/d85/a10386.html#a083020691278af836e48f0a0c2feff96", null ],
+    [ "id", "d7/d85/a10386.html#af7248c313ceefedb5b7ff6ed4c2ffd6b", null ],
+    [ "move_type", "d7/d85/a10386.html#afb1a57b423a258e99c6921727a27e2e7", null ],
+    [ "orientation", "d7/d85/a10386.html#a971411811b0e60839538f82cd55dcfb7", null ],
+    [ "x", "d7/d85/a10386.html#a2dfd7f1f946ebef0b67d8f1542198b4b", null ],
+    [ "y", "d7/d85/a10386.html#a574c5ba7eb5e6bd55f6c55bb511c03f7", null ],
+    [ "z", "d7/d85/a10386.html#a013fa650f43e790e652016fbce2e1bd5", null ]
 ];

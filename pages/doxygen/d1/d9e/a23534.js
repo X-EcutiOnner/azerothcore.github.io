@@ -1,5 +1,6 @@
 var a23534 =
 [
-    [ "boss_quagmirran", "d1/d9e/a23534.html#a7f6289b86216b052f434a1417023e22c", null ],
-    [ "JustEngagedWith", "d1/d9e/a23534.html#a28253b6653bd2e26e7f246c71a88b625", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "d7/dfa/a23538.html", "d7/dfa/a23538" ],
+    [ "instance_blood_furnace", "d1/d9e/a23534.html#a925a045fa518e72c1eff02fe3c66202b", null ],
+    [ "GetInstanceScript", "d1/d9e/a23534.html#a885ba94e1777dfd6586daca304622d3d", null ]
 ];

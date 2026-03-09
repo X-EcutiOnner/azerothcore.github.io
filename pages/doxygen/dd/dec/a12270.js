@@ -1,9 +1,9 @@
 var a12270 =
 [
-    [ "boss_overlordwyrmthalakAI", "dd/dec/a12270.html#a76f9bd309e1c5045c74bb0ba8d8bce5c", null ],
-    [ "JustDied", "dd/dec/a12270.html#ade379755d256c4c290e6dc8bbd862261", null ],
-    [ "JustEngagedWith", "dd/dec/a12270.html#af7780f467df92c9218700773d1257a8c", null ],
-    [ "Reset", "dd/dec/a12270.html#a9dbc4cc1830703c393fbeb9c0385b709", null ],
-    [ "UpdateAI", "dd/dec/a12270.html#a950b2161ed4c2441fb73f8b009c5ba30", null ],
-    [ "Summoned", "dd/dec/a12270.html#a8183e3f02d931809440adc8cc0cd3654", null ]
+    [ "send_commandscript", "dd/dec/a12270.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
+    [ "GetCommands", "dd/dec/a12270.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
+    [ "HandleSendItemsCommand", "dd/dec/a12270.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
+    [ "HandleSendMailCommand", "dd/dec/a12270.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
+    [ "HandleSendMessageCommand", "dd/dec/a12270.html#a91017e6171ac9e4dfff6c2036228de47", null ],
+    [ "HandleSendMoneyCommand", "dd/dec/a12270.html#a26938bb54bb3cb678c49737a92cadb56", null ]
 ];

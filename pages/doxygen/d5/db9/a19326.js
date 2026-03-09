@@ -1,10 +1,9 @@
 var a19326 =
 [
-    [ "boss_patchwerkAI", "d5/db9/a19326.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
-    [ "JustDied", "d5/db9/a19326.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
-    [ "JustEngagedWith", "d5/db9/a19326.html#a1317cb819d6247f62e0c6c725157db30", null ],
-    [ "KilledUnit", "d5/db9/a19326.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
-    [ "Reset", "d5/db9/a19326.html#a1d03058bf53e670f4fe9384e9f047891", null ],
-    [ "UpdateAI", "d5/db9/a19326.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
-    [ "events", "d5/db9/a19326.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
+    [ "npc_icc_severed_essenceAI", "d5/db9/a19326.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
+    [ "CanAIAttack", "d5/db9/a19326.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
+    [ "DoAction", "d5/db9/a19326.html#a938af3a7de5b26432e1ad515a326a032", null ],
+    [ "UpdateAI", "d5/db9/a19326.html#a66e3324baa87ba109dd968a517ee82a5", null ],
+    [ "Class", "d5/db9/a19326.html#aa627713be3a2ac01336d158d96aaccc7", null ],
+    [ "events", "d5/db9/a19326.html#a1bab216925c4123d633d9613bb80365c", null ]
 ];

@@ -1,4 +1,6 @@
 var a07562 =
 [
-    [ "HordeChannelMgr", "d4/de0/a07562.html#a9354a4b4122500bba602254d0c9f3b98", null ]
+    [ "_Battlegrounds", "d4/de0/a07562.html#aa48f3a9d4a51e357055a0bc60ca41d7c", null ],
+    [ "_ClientBattlegroundIds", "d4/de0/a07562.html#a0526fab23b40ac1b33ce18243ad41132", null ],
+    [ "BGFreeSlotQueue", "d4/de0/a07562.html#a49fd7eb3a472894f233d309d35d509be", null ]
 ];

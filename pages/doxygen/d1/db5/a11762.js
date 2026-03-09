@@ -1,19 +1,6 @@
 var a11762 =
 [
-    [ "CityAttack", "d5/d91/a11770.html", "d5/d91/a11770" ],
-    [ "InvasionZone", "df/d9a/a11766.html", "df/d9a/a11766" ],
-    [ "ScourgeInvasionData", "d1/db5/a11762.html#a40749458bbad64d1d277cd7cd9dac939", null ],
-    [ "GetData", "d1/db5/a11762.html#adca57b4cf5a065fad1a7bd184571bdc5", null ],
-    [ "Reset", "d1/db5/a11762.html#a0ae2fc830e4f85fb619c38fdcad794ae", null ],
-    [ "m_activeInvasions", "d1/db5/a11762.html#af98aea31bf9c878adf2870890911282f", null ],
-    [ "m_battlesWon", "d1/db5/a11762.html#aea7079c6f876188857219c574ca0798d", null ],
-    [ "m_broadcastTimer", "d1/db5/a11762.html#a7c251f312e332ab60fa6de6e8cf4189d", null ],
-    [ "m_cityAttacks", "d1/db5/a11762.html#a70127135568b3a439f040697f1dc525c", null ],
-    [ "m_lastAttackZone", "d1/db5/a11762.html#a38ead6b33009083055538fd4f0b7de35", null ],
-    [ "m_pendingInvasions", "d1/db5/a11762.html#af62efb05ce49a3cb764328976f8054f6", null ],
-    [ "m_pendingPallids", "d1/db5/a11762.html#a2a2f610d9c398bc82f4e39eea4fbadfc", null ],
-    [ "m_remaining", "d1/db5/a11762.html#afa0f9b63b3c2111affdf9769ee529d88", null ],
-    [ "m_siMutex", "d1/db5/a11762.html#acefb72f28d000395bc1362cd9a62b26a", null ],
-    [ "m_state", "d1/db5/a11762.html#acb26a954f14aec654513b16e5e53cad8", null ],
-    [ "m_timers", "d1/db5/a11762.html#a06375cf97a023be4f3fff94cc43405a9", null ]
+    [ "HitHandler", "d1/db5/a11762.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
+    [ "Call", "d1/db5/a11762.html#a157baaa3ceba62a9910cba5377bd7699", null ],
+    [ "pHitHandlerScript", "d1/db5/a11762.html#ac24144e49930a01a3049740a4072f626", null ]
 ];

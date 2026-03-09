@@ -1,21 +1,14 @@
 var a16578 =
 [
-    [ "boss_faction_championsAI", "d5/d9e/a16578.html#aec4455c8bdd8d0629b9c3f17178818b6", null ],
-    [ "AttackStart", "d5/d9e/a16578.html#a465492574894303cbce6df2107b87252", null ],
-    [ "EnemiesInRange", "d5/d9e/a16578.html#acbb166d6ac50f11eae591ddf1dbba917", null ],
-    [ "EnterEvadeMode", "d5/d9e/a16578.html#a81f01bf15e7d7d647fa01da165ee0896", null ],
-    [ "EventMapGCD", "d5/d9e/a16578.html#ad5d17a7895d0c92f8c63fe5689564569", null ],
-    [ "GetThreatMod", "d5/d9e/a16578.html#aae5bc496f0f17c2167dd8a47c8ae40cd", null ],
-    [ "IsCCed", "d5/d9e/a16578.html#a6df04b369e7a85e6779228f8a7657ba7", null ],
-    [ "JustDied", "d5/d9e/a16578.html#aa8976d148ac4882063787f144ebeeea8", null ],
-    [ "JustEngagedWith", "d5/d9e/a16578.html#a3c8e2e446e6325597f1687201698a2c6", null ],
-    [ "KilledUnit", "d5/d9e/a16578.html#ac49f6c9994484a6d905362fd66ccf81e", null ],
-    [ "RecalculateThreat", "d5/d9e/a16578.html#a435b28bf38824d8b36bc6cf105d2dcf2", null ],
-    [ "SelectEnemyCaster", "d5/d9e/a16578.html#a81a318b636472e15624d01ecf3be65fb", null ],
-    [ "SelectTarget_MostHPLostFriendlyMissingBuff", "d5/d9e/a16578.html#aea6f9e045fb3866cef15d890f63766d8", null ],
-    [ "UpdateAI", "d5/d9e/a16578.html#a6c93329b33c0fa469b04622cff1aa517", null ],
-    [ "mAIType", "d5/d9e/a16578.html#acff880f98ff81d25d02224931fe8ff93", null ],
-    [ "pInstance", "d5/d9e/a16578.html#a546bff05f2ca0e8e4c8371bfd4d6ed79", null ],
-    [ "powerTimer", "d5/d9e/a16578.html#a38394cc3ee369fb5bb580d3702792604", null ],
-    [ "threatTimer", "d5/d9e/a16578.html#a6aa684c94874d3a3bcd7150b0d7cd04b", null ]
+    [ "npc_onyx_flamecallerAI", "d5/d9e/a16578.html#aa0633855e57f6681cfc68a8dfee9a733", null ],
+    [ "AddWaypoints", "d5/d9e/a16578.html#a308b99ee4d07ed1de0cabd94dafd5dd8", null ],
+    [ "EnterEvadeMode", "d5/d9e/a16578.html#ac29163e2e69cffbf21249eb3828b5b72", null ],
+    [ "IsSummonedBy", "d5/d9e/a16578.html#afc6c4faffd83b2fa4ddbb4ae78b622d9", null ],
+    [ "JustEngagedWith", "d5/d9e/a16578.html#a3cba2cd9a920816bee993ae2986639a0", null ],
+    [ "Reset", "d5/d9e/a16578.html#a756a44feb79eb56f443ee16995a2566d", null ],
+    [ "UpdateEscortAI", "d5/d9e/a16578.html#aab57193b332fdde2dd237a9cb15a06c1", null ],
+    [ "WaypointReached", "d5/d9e/a16578.html#a8b510bce47929e85741f5debd857de8d", null ],
+    [ "_events", "d5/d9e/a16578.html#a9280b604135308078860c20667da9819", null ],
+    [ "_instance", "d5/d9e/a16578.html#a3fb01e6a8df3b8205f494f03faf8ace8", null ],
+    [ "_lavaGoutCount", "d5/d9e/a16578.html#a1f46c988316c1870f506a66f2390e79b", null ]
 ];

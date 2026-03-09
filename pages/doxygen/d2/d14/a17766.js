@@ -1,6 +1,6 @@
 var a17766 =
 [
-    [ "npc_igb_ship_crewAI", "da/d45/a17770.html", "da/d45/a17770" ],
-    [ "npc_igb_ship_crew", "d2/d14/a17766.html#a5f4380aba94766a6a75b97026998b881", null ],
-    [ "GetAI", "d2/d14/a17766.html#a48955817e21a01a726b50685b467c229", null ]
+    [ "boss_prince_kelesethAI", "da/d45/a17770.html", "da/d45/a17770" ],
+    [ "boss_prince_keleseth_icc", "d2/d14/a17766.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
+    [ "GetAI", "d2/d14/a17766.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
 ];

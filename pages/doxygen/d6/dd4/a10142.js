@@ -1,12 +1,6 @@
 var a10142 =
 [
-    [ "FacingInfo", "d6/dd4/a10142.html#a1ac825c359704924c66e46eada64e34e", null ],
-    [ "FacingInfo", "d6/dd4/a10142.html#a7820b3ce134dcca05b9b15299eb3b33f", null ],
-    [ "FacingInfo", "d6/dd4/a10142.html#add6411db27c1d313d2f133adf0c35755", null ],
-    [ "angle", "d6/dd4/a10142.html#ac56b304c2c5df7ab72c6fcbd2f845b02", null ],
-    [ "f", "d6/dd4/a10142.html#a2ec440462f34b9990e6062f7078adb6e", null ],
-    [ "target", "d6/dd4/a10142.html#a064b5265b4bb2a0053908bf6031b8f65", null ],
-    [ "x", "d6/dd4/a10142.html#ac08687158cc0bcfbc9814b1cbbe95684", null ],
-    [ "y", "d6/dd4/a10142.html#ad7fcfb6b1c5402a0570748d343eadfcc", null ],
-    [ "z", "d6/dd4/a10142.html#a5ff017b732d47684f675041e44227754", null ]
+    [ "SplineRawInitializer", "d6/dd4/a10142.html#a2aba4b3ca8e2312cc9e910ef4b3a5a26", null ],
+    [ "operator()", "d6/dd4/a10142.html#a878f8d8b2bc4b7c0e5c92d3055a437af", null ],
+    [ "_points", "d6/dd4/a10142.html#a3cea33c8d33407f7d2d8ea96a85a58c5", null ]
 ];

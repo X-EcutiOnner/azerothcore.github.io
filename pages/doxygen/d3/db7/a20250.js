@@ -1,6 +1,12 @@
 var a20250 =
 [
-    [ "boss_freya_healthy_sporeAI", "da/d29/a20254.html", "da/d29/a20254" ],
-    [ "boss_freya_healthy_spore", "d3/db7/a20250.html#a16633136393061aa98c7a98f535d421e", null ],
-    [ "GetAI", "d3/db7/a20250.html#ae76eb3b334f82c536f71fdcfc86e4382", null ]
+    [ "npc_freya_ward", "d3/db7/a20250.html#aeb5b3a3495622b05faf41d2ec0a82e3f", null ],
+    [ "DoAction", "d3/db7/a20250.html#ac52ff5e24ff5361808fce4d8d1574ada", null ],
+    [ "JustSummoned", "d3/db7/a20250.html#a71cd4c583a1f33168d12bbe473d0482e", null ],
+    [ "Reset", "d3/db7/a20250.html#a134ff84f2cfa3a00cdd6158da6641369", null ],
+    [ "SummonedCreatureDespawn", "d3/db7/a20250.html#a20fde559565c47f4451581e5d1a61e99", null ],
+    [ "UpdateAI", "d3/db7/a20250.html#a62122abe02ae9351617eb3af9e36e88e", null ],
+    [ "_castTimer", "d3/db7/a20250.html#afe313ebbc5c711183a9e623d8213ae64", null ],
+    [ "_summoned", "d3/db7/a20250.html#aecae1e0f3b84d97cef40023a36dd4254", null ],
+    [ "summons", "d3/db7/a20250.html#abf3d2443c9badc35097b6e5c818f1c88", null ]
 ];

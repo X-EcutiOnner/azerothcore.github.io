@@ -1,7 +1,8 @@
 var a18002 =
 [
-    [ "HandleSpikes", "df/df1/a18002.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
-    [ "PrepareSpellScript", "df/df1/a18002.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
-    [ "Register", "df/df1/a18002.html#a893345cf191d084a0f97a8464b7d381a", null ],
-    [ "Validate", "df/df1/a18002.html#aa6545760706d8695aefd4064c3c71c6b", null ]
+    [ "HandleHit", "df/df1/a18002.html#ace9793d64d5378ef33bf30e8d0be8bd6", null ],
+    [ "HandleScript", "df/df1/a18002.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
+    [ "Load", "df/df1/a18002.html#ab1d81386ae3ccd332c01864d7f456017", null ],
+    [ "PrepareSpellScript", "df/df1/a18002.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
+    [ "Register", "df/df1/a18002.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
 ];

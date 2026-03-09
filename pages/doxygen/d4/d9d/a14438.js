@@ -1,7 +1,7 @@
 var a14438 =
 [
-    [ "npc_direbrew_minion", "d4/d9d/a14438.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
-    [ "IsSummonedBy", "d4/d9d/a14438.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
-    [ "Reset", "d4/d9d/a14438.html#a21fb7a778e9025ca4185951460a96d08", null ],
-    [ "_instance", "d4/d9d/a14438.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
+    [ "HandleTriggerSpell", "d4/d9d/a14438.html#a66b366f4989d99a58b331e56024e4520", null ],
+    [ "PrepareAuraScript", "d4/d9d/a14438.html#a4b00497e095b5c43571b543252b31e58", null ],
+    [ "Register", "d4/d9d/a14438.html#abacee7689888bf8c5d21b534a6d71b40", null ],
+    [ "Validate", "d4/d9d/a14438.html#a6bef0ac760a319deed6f71fee213e885", null ]
 ];

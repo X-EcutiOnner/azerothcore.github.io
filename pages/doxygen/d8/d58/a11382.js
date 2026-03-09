@@ -1,12 +1,7 @@
 var a11382 =
 [
-    [ "cooldown", "d8/d58/a11382.html#a0cd88c27979ccc5284aa46846db32a7c", null ],
-    [ "customChance", "d8/d58/a11382.html#adf6742b70f0b00abddf1da6f45da3d16", null ],
-    [ "ppmRate", "d8/d58/a11382.html#a931b2df4a187482e32ef252c3320080a", null ],
-    [ "procEx", "d8/d58/a11382.html#a911770f28fe36243593b12fe92d6fbec", null ],
-    [ "procFlags", "d8/d58/a11382.html#af253ef32b9de49fe85d0fe6f06855a60", null ],
-    [ "procPhase", "d8/d58/a11382.html#a179d83770a02e4ab13f809ed3943a399", null ],
-    [ "schoolMask", "d8/d58/a11382.html#a9a6d38ee4e4a35066780ef924c63f92f", null ],
-    [ "spellFamilyMask", "d8/d58/a11382.html#a2aa57bf419ab51129fe7240750ee8910", null ],
-    [ "spellFamilyName", "d8/d58/a11382.html#a5ffa91b3f66ebb0ac34f30e1c532fb3a", null ]
+    [ "TimeQueryResponse", "d8/d58/a11382.html#abefcc15670a85ae023d24bfa5dc26a11", null ],
+    [ "Write", "d8/d58/a11382.html#a5fbfca11889684a0ab6b437eb30527cc", null ],
+    [ "ServerTime", "d8/d58/a11382.html#a9dfc03a60bb8a1f20eb850e3f8a00b88", null ],
+    [ "TimeResponse", "d8/d58/a11382.html#a4f528e5c08dc67a2c6f7826b21a771ed", null ]
 ];

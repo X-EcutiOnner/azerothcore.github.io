@@ -1,6 +1,5 @@
 var a23442 =
 [
-    [ "HandleEffectRemove", "db/dc7/a23442.html#ac74d25501690970c607a146eec02ab24", null ],
-    [ "PrepareAuraScript", "db/dc7/a23442.html#a858929800089fee1a06948bda1c8806f", null ],
-    [ "Register", "db/dc7/a23442.html#a003e9c77e59008ea78b3f1e9977ab5d6", null ]
+    [ "instance_the_underbog_InstanceMapScript", "db/dc7/a23442.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
+    [ "Initialize", "db/dc7/a23442.html#a9c7c10020eef3db4794283c0f946d086", null ]
 ];

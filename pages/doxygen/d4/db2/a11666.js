@@ -1,7 +1,5 @@
 var a11666 =
 [
-    [ "Command", "d4/db2/a11666.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
-    [ "ModuleId", "d4/db2/a11666.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
-    [ "ModuleKey", "d4/db2/a11666.html#aba0f236c39186022816bd86f8e8e9093", null ],
-    [ "Size", "d4/db2/a11666.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
+    [ "ImplicitTargetType", "d4/db2/a11666.html#adc4268d74a3f0b47902e16eea2fc854a", null ],
+    [ "UsedTargetObjectType", "d4/db2/a11666.html#a7bbc11d4a7a68f9441d393c7b48f5231", null ]
 ];

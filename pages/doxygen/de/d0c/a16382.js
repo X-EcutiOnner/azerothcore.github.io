@@ -1,11 +1,6 @@
 var a16382 =
 [
-    [ "boss_saviana_ragefireAI", "de/d0c/a16382.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
-    [ "JustDied", "de/d0c/a16382.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
-    [ "JustEngagedWith", "de/d0c/a16382.html#a458eb370872c20441b5ec6ecd2c97500", null ],
-    [ "JustReachedHome", "de/d0c/a16382.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
-    [ "KilledUnit", "de/d0c/a16382.html#ac07513681c72d6748246cc7c349d117c", null ],
-    [ "MovementInform", "de/d0c/a16382.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
-    [ "Reset", "de/d0c/a16382.html#a4b7f103331c566cbf007a075161505af", null ],
-    [ "UpdateAI", "de/d0c/a16382.html#af36ca2a359f950a10214d07aad240324", null ]
+    [ "instance_ahnkahet_InstanceScript", "d8/d28/a16386.html", "d8/d28/a16386" ],
+    [ "instance_ahnkahet", "de/d0c/a16382.html#afbe11bc040019231878cf31cc357830b", null ],
+    [ "GetInstanceScript", "de/d0c/a16382.html#a8847099c88f11de363c45e27998f10b7", null ]
 ];

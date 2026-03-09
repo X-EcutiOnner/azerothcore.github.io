@@ -1,6 +1,7 @@
 var a18774 =
 [
-    [ "CaptainSurviveTalk", "d9/db8/a18774.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
-    [ "Execute", "d9/db8/a18774.html#a871cf08e8c7fced2971cae8abbc20454", null ],
-    [ "_owner", "d9/db8/a18774.html#ac8de506afb4688560ea637918d07b01e", null ]
+    [ "OnRemove", "d9/db8/a18774.html#a106935d92ef6ba7909c57264e26b5522", null ],
+    [ "PrepareAuraScript", "d9/db8/a18774.html#a8ce8f5d4ebd4279fdfd192ba3b01b894", null ],
+    [ "Register", "d9/db8/a18774.html#a095e7530a0f2e7a76dc8bd3f75759089", null ],
+    [ "Validate", "d9/db8/a18774.html#a0b4283bdb19a4ceef505aab41c99abe8", null ]
 ];

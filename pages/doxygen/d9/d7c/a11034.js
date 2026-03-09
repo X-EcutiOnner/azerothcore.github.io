@@ -1,26 +1,7 @@
 var a11034 =
 [
-    [ "const_iterator", "d9/d7c/a11034.html#addf94a15196be64e78daef56971456f3", null ],
-    [ "const_reference", "d9/d7c/a11034.html#af7498377cf931f643d8322d3a28c06f1", null ],
-    [ "iterator", "d9/d7c/a11034.html#a48c70221dedd1b6cbc570389e9584bf1", null ],
-    [ "reference", "d9/d7c/a11034.html#a03f40f93fb06fb760db6c33e10a3b32e", null ],
-    [ "size_type", "d9/d7c/a11034.html#a5ba1ac83b8b2f62042c08f60c46b04fd", null ],
-    [ "storage_type", "d9/d7c/a11034.html#afce3457c601054a23960e7ee1b74bcbe", null ],
-    [ "value_type", "d9/d7c/a11034.html#aca1087c268cece397033692f38ef5993", null ],
-    [ "Array", "d9/d7c/a11034.html#a26ca423c917ee3a5f1a6b6833db60c9a", null ],
-    [ "Array", "d9/d7c/a11034.html#a3af6a02c02b1fc0b73280bce76d5a0f2", null ],
-    [ "begin", "d9/d7c/a11034.html#aa48bde3281324c7dc98f43f37ba96266", null ],
-    [ "begin", "d9/d7c/a11034.html#ac7e8d02a6aa7eca56b8bc2d2ede66b51", null ],
-    [ "empty", "d9/d7c/a11034.html#abd548ee195aee9f14bd62264024d93a3", null ],
-    [ "end", "d9/d7c/a11034.html#af11a3a13899d1d06ac8acd54f49dfc6e", null ],
-    [ "end", "d9/d7c/a11034.html#a39bad8cfbd854b3767fed0621f96c37c", null ],
-    [ "operator[]", "d9/d7c/a11034.html#ac3e76af8d640fc9c0255968a17c26ada", null ],
-    [ "operator[]", "d9/d7c/a11034.html#a7e2dab59358e8f5301cab932b9b43894", null ],
-    [ "push_back", "d9/d7c/a11034.html#a8cf213a45cc881f9486a730dd18d0a92", null ],
-    [ "push_back", "d9/d7c/a11034.html#a3708388e67428fe0ebefb4e71c069939", null ],
-    [ "reserve", "d9/d7c/a11034.html#a5f23ed7c6bd7462e013c8ef3a5b78ba5", null ],
-    [ "resize", "d9/d7c/a11034.html#aee31c094fadba01a43e7eba0294a9275", null ],
-    [ "size", "d9/d7c/a11034.html#a974cea46868d70d22b04745d92a1860f", null ],
-    [ "_limit", "d9/d7c/a11034.html#ad54cf12a2a831141edc38754443c0f2b", null ],
-    [ "_storage", "d9/d7c/a11034.html#a8ac6afe40e5b86c27ac01fa8f872a832", null ]
+    [ "GuildBankLogQueryResults", "d9/d7c/a11034.html#a878f9545b3141a327de85771de4f1779", null ],
+    [ "Write", "d9/d7c/a11034.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
+    [ "Entry", "d9/d7c/a11034.html#a5f3704df5311f06833c3243201d35930", null ],
+    [ "Tab", "d9/d7c/a11034.html#a214db612bb08e557dd41d3962c827dca", null ]
 ];

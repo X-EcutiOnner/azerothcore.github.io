@@ -1,5 +1,6 @@
 var a28314 =
 [
-    [ "ID", "db/d97/a28314.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
-    [ "price", "db/d97/a28314.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
+    [ "go_amberpine_outhouse", "db/d97/a28314.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
+    [ "OnGossipHello", "db/d97/a28314.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
+    [ "OnGossipSelect", "db/d97/a28314.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
 ];

@@ -1,4 +1,4 @@
 var a01427 =
 [
-    [ "GroupReference", "dc/d62/a09764.html", "dc/d62/a09764" ]
+    [ "GroupRefMgr", "d0/d6d/a09798.html", "d0/d6d/a09798" ]
 ];

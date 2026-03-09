@@ -1,10 +1,5 @@
 var a20806 =
 [
-    [ "boss_thorim_sif_blizzardAI", "db/dff/a20806.html#a99d1c529126452e580ebc7e3e513b367", null ],
-    [ "AttackStart", "db/dff/a20806.html#a1f05551f323fa410a699497f3875b21f", null ],
-    [ "InitWaypoint", "db/dff/a20806.html#a1e0a384081750bdf38cc8e0065070ec8", null ],
-    [ "JustEngagedWith", "db/dff/a20806.html#a9fea5617dccb493c7af435c485462ff3", null ],
-    [ "MoveInLineOfSight", "db/dff/a20806.html#ab91a2a71ff00e38d2eca50ccc654d9f3", null ],
-    [ "Reset", "db/dff/a20806.html#a193ba575c4f3f16d850e56f12f190c77", null ],
-    [ "WaypointReached", "db/dff/a20806.html#a961f90068f25d81f55159763fe2677f8", null ]
+    [ "achievement_thorim_stand_in_the_lightning", "db/dff/a20806.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
+    [ "OnCheck", "db/dff/a20806.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
 ];

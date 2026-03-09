@@ -1,12 +1,6 @@
 var a18666 =
 [
-    [ "npc_the_lich_king_controllerAI", "d3/d54/a18666.html#a211c370e9c370e00fba3c83e51738886", null ],
-    [ "AttackStart", "d3/d54/a18666.html#a58e11746c14f6bbb1b5c56c1d0136d9f", null ],
-    [ "DoAction", "d3/d54/a18666.html#aaf940a0ca812d84dbde81fc7e41feaca", null ],
-    [ "JustSummoned", "d3/d54/a18666.html#aa610e24316505165cbb826ff5bece5c5", null ],
-    [ "MoveInLineOfSight", "d3/d54/a18666.html#a0ee33ab5733c12163e92213376e893e4", null ],
-    [ "Reset", "d3/d54/a18666.html#a2c4410cc2ad995452f742f79e8e4af8b", null ],
-    [ "UpdateAI", "d3/d54/a18666.html#a34a0295ad1a45a9bc060ff8595c22e14", null ],
-    [ "_events", "d3/d54/a18666.html#a90c3d818318004c7c21ec66d4d080615", null ],
-    [ "_instance", "d3/d54/a18666.html#a480a284881ba5f56bc6222607bd01a76", null ]
+    [ "PeriodicTick", "d3/d54/a18666.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
+    [ "PrepareAuraScript", "d3/d54/a18666.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
+    [ "Register", "d3/d54/a18666.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
 ];

@@ -1,6 +1,7 @@
 var a18302 =
 [
-    [ "npc_spinestalkerAI", "db/d4d/a18306.html", "db/d4d/a18306" ],
-    [ "npc_spinestalker", "dc/d22/a18302.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
-    [ "GetAI", "dc/d22/a18302.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
+    [ "npc_coldflameAI", "dc/d22/a18302.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
+    [ "IsSummonedBy", "dc/d22/a18302.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
+    [ "UpdateAI", "dc/d22/a18302.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
+    [ "events", "dc/d22/a18302.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
 ];

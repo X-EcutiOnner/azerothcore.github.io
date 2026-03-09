@@ -1,8 +1,5 @@
 var a08014 =
 [
-    [ "cancelTime", "d6/d4e/a08014.html#a5fe6d6ede54a1f1228e29fc7ef55a413", null ],
-    [ "inProgress", "d6/d4e/a08014.html#a8f3eddc8fbca950f184b6fb8b400344e", null ],
-    [ "reason", "d6/d4e/a08014.html#a279a5575ca0956266ae81b7a165874cf", null ],
-    [ "victim", "d6/d4e/a08014.html#a949262b4b3cbe0f813aae4fab704e7d2", null ],
-    [ "votes", "d6/d4e/a08014.html#a7619305fea30cc7fdc47f0a7ee365304", null ]
+    [ "Glyph", "d6/d4e/a08014.html#a99ef57f9c0bbab04953bd6edcf5b83f2", null ],
+    [ "Slot", "d6/d4e/a08014.html#acc79672f4bddb27eb980b6aac19f83ec", null ]
 ];

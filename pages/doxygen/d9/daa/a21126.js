@@ -1,8 +1,10 @@
 var a21126 =
 [
-    [ "Absorb", "d9/daa/a21126.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
-    [ "CalculateAmount", "d9/daa/a21126.html#afe50bf22d07e68757caffb056ad55811", null ],
-    [ "PrepareAuraScript", "d9/daa/a21126.html#afa4ef1f7faa36a521c208dde10d09437", null ],
-    [ "Register", "d9/daa/a21126.html#aae020936d42da81c445f7d296660987b", null ],
-    [ "Validate", "d9/daa/a21126.html#a5852135c5214ee3938603632b0f21917", null ]
+    [ "npc_enslaved_proto_drake", "d9/daa/a21126.html#aec835fdc8b1beb270176d5341d26c265", null ],
+    [ "MovementInform", "d9/daa/a21126.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
+    [ "Reset", "d9/daa/a21126.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
+    [ "SetData", "d9/daa/a21126.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
+    [ "UpdateAI", "d9/daa/a21126.html#a252f84198df610bac44b6bd9cd80602e", null ],
+    [ "_events", "d9/daa/a21126.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
+    [ "_setData", "d9/daa/a21126.html#adb997badd8831dea7763eaecc93b7773", null ]
 ];

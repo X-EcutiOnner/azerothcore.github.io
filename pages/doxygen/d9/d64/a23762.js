@@ -1,6 +1,6 @@
 var a23762 =
 [
-    [ "CheckProc", "d9/d64/a23762.html#add583b34b9052fbb37c43c558f0f8b96", null ],
-    [ "PrepareAuraScript", "d9/d64/a23762.html#a3d7ed0fa175daffcf11fc3ee04b189bf", null ],
-    [ "Register", "d9/d64/a23762.html#ab91f611f59e83d4f1b7c71b1595db667", null ]
+    [ "instance_the_botanica_InstanceMapScript", "d1/d58/a23766.html", "d1/d58/a23766" ],
+    [ "instance_the_botanica", "d9/d64/a23762.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
+    [ "GetInstanceScript", "d9/d64/a23762.html#a335f671443ca0fb9db5956cefdf37182", null ]
 ];

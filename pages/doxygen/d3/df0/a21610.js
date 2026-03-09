@@ -1,8 +1,6 @@
 var a21610 =
 [
-    [ "npc_azure_mage_slayerAI", "d3/df0/a21610.html#af1a57574d70a48b16d70d8a056f54018", null ],
-    [ "Reset", "d3/df0/a21610.html#aabe921f0d4fd147c457779791a7af619", null ],
-    [ "UpdateAI", "d3/df0/a21610.html#a7cc5ea88be6c9cf767a0cd433db7dd73", null ],
-    [ "uiArcaneEmpowermentTimer", "d3/df0/a21610.html#ace0fdd5e4b57e7ce603d2355bfc838dd", null ],
-    [ "uiSpellLockTimer", "d3/df0/a21610.html#ac3c4d2be0dd9ba42e40adccda7100947", null ]
+    [ "npc_hidden_cultistAI", "df/d50/a21614.html", "df/d50/a21614" ],
+    [ "npc_hidden_cultist", "d3/df0/a21610.html#ab455b35fea966360e01fb8975adad989", null ],
+    [ "GetAI", "d3/df0/a21610.html#a4897006d9416f1177b0bc0e41df60293", null ]
 ];

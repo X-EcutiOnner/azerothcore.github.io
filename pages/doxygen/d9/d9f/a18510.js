@@ -1,6 +1,6 @@
 var a18510 =
 [
-    [ "ModDest", "d9/d9f/a18510.html#a71638bdecb0f580dceff7858441056d8", null ],
-    [ "PrepareSpellScript", "d9/d9f/a18510.html#a741227928e07585b156ec716ae8b13da", null ],
-    [ "Register", "d9/d9f/a18510.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
+    [ "CheckTarget", "d9/d9f/a18510.html#afce64ba75f8370cab6b8f1e561b10587", null ],
+    [ "PrepareSpellScript", "d9/d9f/a18510.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
+    [ "Register", "d9/d9f/a18510.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
 ];

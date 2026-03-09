@@ -1,5 +1,5 @@
 var a28658 =
 [
-    [ "HasMissile", "db/ddc/a28658.html#af8f9e79164ee3c7a617f63552bb23816", null ],
-    [ "MissileModel", "db/ddc/a28658.html#ae9ab544537448113f628c22ed8c91a27", null ]
+    [ "npc_necropolis", "db/ddc/a28658.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
+    [ "SpellHit", "db/ddc/a28658.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
 ];

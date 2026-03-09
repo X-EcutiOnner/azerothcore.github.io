@@ -1,8 +1,7 @@
 var a25266 =
 [
-    [ "AchievementCredit", "d9/d0d/a25266.html#ab0ec836feb53875de355330e05367fe8", null ],
-    [ "Load", "d9/d0d/a25266.html#ae48c67f363e399f076122cb6eee10ffb", null ],
-    [ "PrepareSpellScript", "d9/d0d/a25266.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
-    [ "Register", "d9/d0d/a25266.html#a793921687c96a39f7dd872b9721096ca", null ],
-    [ "Validate", "d9/d0d/a25266.html#a5be222c322714ec62f8beaf69faab257", null ]
+    [ "HandleDummy", "d9/d0d/a25266.html#af5d0fc4e596c04c6ca3faf4079f6b602", null ],
+    [ "Load", "d9/d0d/a25266.html#a4098aa621012c5e3623ee905d2d2c8eb", null ],
+    [ "PrepareSpellScript", "d9/d0d/a25266.html#ad9d1823fa4302334419e6f9a01f0a728", null ],
+    [ "Register", "d9/d0d/a25266.html#a4d683270dc086454630475d39f0105e8", null ]
 ];

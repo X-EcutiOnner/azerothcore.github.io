@@ -1,6 +1,7 @@
 var a18218 =
 [
-    [ "LastPhaseIceTombTargetSelector", "de/d6b/a18218.html#ac01f20b199bb0ee63b9c8f8206321057", null ],
-    [ "operator()", "de/d6b/a18218.html#a92a846ff557334b1f30d8e062a2c64e9", null ],
-    [ "_source", "de/d6b/a18218.html#ab10d10dd0de7717078d31ac026d4c933", null ]
+    [ "PrepareSpellScript", "de/d6b/a18218.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
+    [ "Register", "de/d6b/a18218.html#aff4f05a5a4742a408646000b7cece38c", null ],
+    [ "RemovePassengers", "de/d6b/a18218.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
+    [ "Validate", "de/d6b/a18218.html#a2a8da9d150804f979f2313f623ad7760", null ]
 ];

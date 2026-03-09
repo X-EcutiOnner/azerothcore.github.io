@@ -1,6 +1,8 @@
 var a03470 =
 [
-    [ "fireworkShowGameobjectTeldrassil", "df/d5c/a03470.html#ade54ff9545ac94f914ea82994571e3a0", null ],
-    [ "fireworkShowScheduleTeldrassil", "df/d5c/a03470.html#a5a91b29d6818da3b038fc384535233b6", null ],
-    [ "fireworkShowTeldrassil", "df/d5c/a03470.html#a8999f3fc85a14b073f5037adea6f7496", null ]
+    [ "instance_the_botanica", "d9/d64/a23762.html", "d9/d64/a23762" ],
+    [ "instance_the_botanica::instance_the_botanica_InstanceMapScript", "d1/d58/a23766.html", "d1/d58/a23766" ],
+    [ "spell_botanica_call_of_the_falcon_aura", "dc/dd9/a23770.html", "dc/dd9/a23770" ],
+    [ "spell_botanica_shift_form_aura", "d7/d01/a23774.html", "d7/d01/a23774" ],
+    [ "AddSC_instance_the_botanica", "df/d5c/a03470.html#a42bac8d93a9aac296390fec4cb6b94cb", null ]
 ];

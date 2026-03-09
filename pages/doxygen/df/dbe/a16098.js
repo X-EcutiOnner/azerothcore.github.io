@@ -1,11 +1,6 @@
 var a16098 =
 [
-    [ "spell_hadronox_summon_periodic_aura", "df/dbe/a16098.html#afcca15cddf71c0d46bd811eab9174f1a", null ],
-    [ "HandlePeriodic", "df/dbe/a16098.html#a048695baf71d307e5aaa00e54586c9f7", null ],
-    [ "OnApply", "df/dbe/a16098.html#a4466547bc1a5259a33354f2008d6cce7", null ],
-    [ "PrepareAuraScript", "df/dbe/a16098.html#a4205560054e5baed86aecba3b98fc202", null ],
-    [ "Register", "df/dbe/a16098.html#a09efdcddaed4af2833139ca20ef94376", null ],
-    [ "Validate", "df/dbe/a16098.html#a20827683249c17625242e205bb51f9e8", null ],
-    [ "_delay", "df/dbe/a16098.html#a191d7eec948e0753835bd41eef66f1ec", null ],
-    [ "_spellEntry", "df/dbe/a16098.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
+    [ "go_wind_stoneAI", "d6/d0c/a16102.html", "d6/d0c/a16102" ],
+    [ "go_wind_stone", "df/dbe/a16098.html#a70c4bcb743b0d587caad4b574c589e3e", null ],
+    [ "GetAI", "df/dbe/a16098.html#ab7add0fe4e58eec422e37ae04b9338df", null ]
 ];

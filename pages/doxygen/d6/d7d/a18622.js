@@ -1,5 +1,6 @@
 var a18622 =
 [
-    [ "achievement_neck_deep_in_vile", "d6/d7d/a18622.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
-    [ "OnCheck", "d6/d7d/a18622.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
+    [ "npc_spinestalkerAI", "d6/d4e/a18626.html", "d6/d4e/a18626" ],
+    [ "npc_spinestalker", "d6/d7d/a18622.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
+    [ "GetAI", "d6/d7d/a18622.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
 ];

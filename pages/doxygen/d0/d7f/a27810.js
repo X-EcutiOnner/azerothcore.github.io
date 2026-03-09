@@ -1,6 +1,7 @@
 var a27810 =
 [
-    [ "npc_injured_patientAI", "df/de6/a27814.html", "df/de6/a27814" ],
-    [ "npc_injured_patient", "d0/d7f/a27810.html#a0b7ef214aa1b20df088dee0976c73783", null ],
-    [ "GetAI", "d0/d7f/a27810.html#a0c042bb81e684f903d28d7879af99d4a", null ]
+    [ "HandleProc", "d0/d7f/a27810.html#a5046d3b14fcf4260da937032c043fe42", null ],
+    [ "PrepareAuraScript", "d0/d7f/a27810.html#abcc31343fd53057e8116b47dd56033c1", null ],
+    [ "Register", "d0/d7f/a27810.html#a9a04291ffb75010ccaa46801d06e2080", null ],
+    [ "Validate", "d0/d7f/a27810.html#a13ecea64673f78b4b384a411a7aa8ca7", null ]
 ];

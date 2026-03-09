@@ -1,6 +1,7 @@
 var a16614 =
 [
-    [ "npc_toc_shadow_priestAI", "df/d1a/a16618.html", "df/d1a/a16618" ],
-    [ "npc_toc_shadow_priest", "d1/d36/a16614.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
-    [ "GetAI", "d1/d36/a16614.html#a93b38d23759da3b7417dbb94b4a951da", null ]
+    [ "npc_orb_carrierAI", "d1/d36/a16614.html#a2011c247d2157f5f2a06db6e149743e0", null ],
+    [ "DoAction", "d1/d36/a16614.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
+    [ "TriggerCutter", "d1/d36/a16614.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
+    [ "UpdateAI", "d1/d36/a16614.html#a99a08390fcf2b0a058aee161932392d0", null ]
 ];

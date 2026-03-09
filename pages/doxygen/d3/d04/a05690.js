@@ -1,18 +1,17 @@
 var a05690 =
 [
-    [ "build", "d3/d04/a05690.html#a4c2989e284a86a7257c3f4a7b507265c", null ],
-    [ "cmd", "d3/d04/a05690.html#a296fd5746ea3ad8f5b341cd92ecb92a6", null ],
-    [ "country", "d3/d04/a05690.html#a5391c693d5aee76e67001f648b108792", null ],
-    [ "error", "d3/d04/a05690.html#a36a4e2114203cbec036c7f6c6ba1f11b", null ],
-    [ "gamename", "d3/d04/a05690.html#ae6f5a1b7c4684bb96deaa51cb9cfc7bc", null ],
-    [ "I", "d3/d04/a05690.html#a48ed2eb4f17a62d033320b981fe9d07c", null ],
-    [ "I_len", "d3/d04/a05690.html#a589c5dadf3e694ba5e3d9f1e5732426e", null ],
-    [ "ip", "d3/d04/a05690.html#a5993cfad4be8f9e457bd6067ced6bd2a", null ],
-    [ "os", "d3/d04/a05690.html#ad8c71a1e514e6b8f6d6a4681ba1db0c1", null ],
-    [ "platform", "d3/d04/a05690.html#afc0d27e7213846988c0ee7ccc5e54ee0", null ],
-    [ "size", "d3/d04/a05690.html#aae293343b590c23405a32d2809887020", null ],
-    [ "timezone_bias", "d3/d04/a05690.html#a44cdd2733fb678966bc3252b6bef9d16", null ],
-    [ "version1", "d3/d04/a05690.html#aa7a794d75e11e98aa9f88cb8e82be9e9", null ],
-    [ "version2", "d3/d04/a05690.html#abe9218ee7ebdffa48dd404a2ad465ca4", null ],
-    [ "version3", "d3/d04/a05690.html#a6a9e5088baf8c568916891a55e035db3", null ]
+    [ "CircularBuffer", "d3/d04/a05690.html#a169d3975fbe8eda83c02f62b34347bc9", null ],
+    [ "capacity", "d3/d04/a05690.html#aed04549e911fb6ecebbac1cbd01e9dcd", null ],
+    [ "content", "d3/d04/a05690.html#ad364f8ee7c9176b912ea053e2f3c928f", null ],
+    [ "empty", "d3/d04/a05690.html#a7509cc5ef0dd0a9f731c47b05929580c", null ],
+    [ "full", "d3/d04/a05690.html#a2a2f13f00dca028142c250b5f2183097", null ],
+    [ "peak_back", "d3/d04/a05690.html#ad4bb17889033526da4605ebddd60f3c7", null ],
+    [ "put", "d3/d04/a05690.html#a2a5e093804731b69969c18e49a206572", null ],
+    [ "size", "d3/d04/a05690.html#af429f831da3fd31618d1c1612cd94ce7", null ],
+    [ "buf_", "d3/d04/a05690.html#aa2b9389da6cd912b4dd54d89ca1d69ee", null ],
+    [ "full_", "d3/d04/a05690.html#a1dfcbf9f9d2760d7d82144c57ff8a60e", null ],
+    [ "head_", "d3/d04/a05690.html#a43ba1c722307cdbbf38f8ba1ec7f64c6", null ],
+    [ "max_size_", "d3/d04/a05690.html#a4ad34b67dc4924addf79905732203d2a", null ],
+    [ "mutex_", "d3/d04/a05690.html#aa4762ba2167d8b9560ff39328b4b3afa", null ],
+    [ "tail_", "d3/d04/a05690.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f", null ]
 ];

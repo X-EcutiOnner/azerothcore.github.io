@@ -1,6 +1,7 @@
 var a19978 =
 [
-    [ "achievement_assembly_of_iron", "de/d10/a19978.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
-    [ "OnCheck", "de/d10/a19978.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
-    [ "_targetEntry", "de/d10/a19978.html#a20e8938ff30b18737fb96cf0277b5680", null ]
+    [ "OnRemove", "de/d10/a19978.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
+    [ "PrepareAuraScript", "de/d10/a19978.html#a2d278e60b34870110dab188896109e24", null ],
+    [ "Register", "de/d10/a19978.html#ac15847527cc4d162b3b34b8ca8628864", null ],
+    [ "Validate", "de/d10/a19978.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
 ];

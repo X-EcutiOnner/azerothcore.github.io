@@ -1,13 +1,10 @@
 var a09274 =
 [
-    [ "WorldObjectWorker", "de/d9e/a09274.html#a15dd68579f1a92f015cfac8577db7422", null ],
-    [ "Visit", "de/d9e/a09274.html#ae264461e49602fd0b8a17e30ed554c64", null ],
-    [ "Visit", "de/d9e/a09274.html#a3021825347d132f1368a77d29a8318df", null ],
-    [ "Visit", "de/d9e/a09274.html#a7b7869c7d151e8abc924f517ecfdef82", null ],
-    [ "Visit", "de/d9e/a09274.html#a7de6ea339a8113d242dd099ca4d36927", null ],
-    [ "Visit", "de/d9e/a09274.html#a29196fa36ce32a0cec68d0d67372a400", null ],
-    [ "Visit", "de/d9e/a09274.html#a17097541c49264c15ebfe474f54aeca2", null ],
-    [ "i_do", "de/d9e/a09274.html#aa16ce8cce21d4590ef6612e14fb48919", null ],
-    [ "i_mapTypeMask", "de/d9e/a09274.html#a6f8e447b9693154f56ce010869acadb9", null ],
-    [ "i_phaseMask", "de/d9e/a09274.html#affa6245985c5d271900be12104ab6bb6", null ]
+    [ "creatureRate", "de/d9e/a09274.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
+    [ "questDailyRate", "de/d9e/a09274.html#a1798044bdf25ce774191b00e261add1e", null ],
+    [ "questMonthlyRate", "de/d9e/a09274.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
+    [ "questRate", "de/d9e/a09274.html#a914118aa28b3736ff4e6c5b61d738834", null ],
+    [ "questRepeatableRate", "de/d9e/a09274.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
+    [ "questWeeklyRate", "de/d9e/a09274.html#a0fb31ebc33d0ce11f392be845907e043", null ],
+    [ "spellRate", "de/d9e/a09274.html#a508485f1e6833c58a11706667a2c24fd", null ]
 ];

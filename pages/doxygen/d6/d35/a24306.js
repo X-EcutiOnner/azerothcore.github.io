@@ -1,8 +1,7 @@
 var a24306 =
 [
-    [ "npc_bessyAI", "d6/d35/a24306.html#ad1300a563888b34689bedf97c387707c", null ],
-    [ "JustDied", "d6/d35/a24306.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
-    [ "JustSummoned", "d6/d35/a24306.html#a4197fb122299fd152e5da335bb832ae5", null ],
-    [ "Reset", "d6/d35/a24306.html#aed64386629e52c3b65abadde54a63cc4", null ],
-    [ "WaypointReached", "d6/d35/a24306.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
+    [ "HandlePeriodic", "d6/d35/a24306.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
+    [ "PrepareAuraScript", "d6/d35/a24306.html#a58dc6668172d046cef3046649928c124", null ],
+    [ "Register", "d6/d35/a24306.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
+    [ "Validate", "d6/d35/a24306.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
 ];

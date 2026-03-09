@@ -1,8 +1,10 @@
 var a09566 =
 [
-    [ "flags", "dc/db7/a09566.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
-    [ "group", "dc/db7/a09566.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
-    [ "guid", "dc/db7/a09566.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
-    [ "name", "dc/db7/a09566.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
-    [ "roles", "dc/db7/a09566.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
+    [ "AnyDeadUnitObjectInRangeCheck", "dc/db7/a09566.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
+    [ "operator()", "dc/db7/a09566.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
+    [ "operator()", "dc/db7/a09566.html#ae885f49537043421a92b44c201bec358", null ],
+    [ "operator()", "dc/db7/a09566.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
+    [ "operator()", "dc/db7/a09566.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
+    [ "i_range", "dc/db7/a09566.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
+    [ "i_searchObj", "dc/db7/a09566.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
 ];

@@ -1,9 +1,7 @@
 var a26342 =
 [
-    [ "CountTargets", "d2/dac/a26342.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
-    [ "HandleDummy", "d2/dac/a26342.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
-    [ "PrepareSpellScript", "d2/dac/a26342.html#adfb7e3fbb52aa349573b95c457823900", null ],
-    [ "Register", "d2/dac/a26342.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
-    [ "Validate", "d2/dac/a26342.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
-    [ "_targetCount", "d2/dac/a26342.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
+    [ "HandleProc", "d2/dac/a26342.html#ab25ebdc33ed9f13d9b1f880df064be13", null ],
+    [ "PrepareAuraScript", "d2/dac/a26342.html#afa5dcaae76c60f38b8be4c47cbdaaf95", null ],
+    [ "Register", "d2/dac/a26342.html#ab56b68dce7bf0c1cc251ff261e606cf9", null ],
+    [ "Validate", "d2/dac/a26342.html#a53ad60f89b9db1b0cc34385477aea856", null ]
 ];

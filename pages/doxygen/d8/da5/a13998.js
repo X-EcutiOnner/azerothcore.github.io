@@ -1,12 +1,6 @@
 var a13998 =
 [
-    [ "npc_akilzon_eagle", "d8/da5/a13998.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
-    [ "JustEngagedWith", "d8/da5/a13998.html#aa5c3d77a1086ad90397d47f081b25476", null ],
-    [ "MoveInLineOfSight", "d8/da5/a13998.html#adefd384b8a273ca52343d836a399f3cb", null ],
-    [ "MovementInform", "d8/da5/a13998.html#abf69be0c32356e65e6d451c33fb389f0", null ],
-    [ "Reset", "d8/da5/a13998.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
-    [ "UpdateAI", "d8/da5/a13998.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
-    [ "arrived", "d8/da5/a13998.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
-    [ "EagleSwoop_Timer", "d8/da5/a13998.html#a37a5861ef690729e2a8bfafddce168be", null ],
-    [ "TargetGUID", "d8/da5/a13998.html#a14d4f82f932569d24f6014ad39640619", null ]
+    [ "instance_the_stockade_InstanceMapScript", "d8/dfe/a14002.html", "d8/dfe/a14002" ],
+    [ "instance_the_stockade", "d8/da5/a13998.html#a533049c10a72da4b94f9807017f28c0d", null ],
+    [ "GetInstanceScript", "d8/da5/a13998.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
 ];

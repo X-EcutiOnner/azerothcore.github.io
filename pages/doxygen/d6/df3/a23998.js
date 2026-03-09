@@ -1,7 +1,9 @@
 var a23998 =
 [
-    [ "OnApply", "d6/df3/a23998.html#abab02b8307b762d070ba12358f59916d", null ],
-    [ "OnRemove", "d6/df3/a23998.html#a5ac45a5cfa17689d241c44241216ff38", null ],
-    [ "PrepareAuraScript", "d6/df3/a23998.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
-    [ "Register", "d6/df3/a23998.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d6/df3/a23998.html#a273d585416dc92d39d5ec3824c08504d", null ],
+    [ "IsSummonedBy", "d6/df3/a23998.html#a5f002d36c492ed2caf2290f4a073a7d0", null ],
+    [ "Reset", "d6/df3/a23998.html#a06fa50580efeab8d847a05f20956d175", null ],
+    [ "UpdateAI", "d6/df3/a23998.html#a8261a259cfbee0d3610ee441406fafcd", null ],
+    [ "playerGuid", "d6/df3/a23998.html#aab717dd49284c483759a6223dbd7e6ea", null ],
+    [ "timer", "d6/df3/a23998.html#afba1b71178c563a3db906057cd20de45", null ]
 ];

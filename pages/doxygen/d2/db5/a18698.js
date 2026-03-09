@@ -1,7 +1,7 @@
 var a18698 =
 [
-    [ "npc_blazing_skeletonAI", "d2/db5/a18698.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
-    [ "Reset", "d2/db5/a18698.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
-    [ "UpdateAI", "d2/db5/a18698.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
-    [ "_events", "d2/db5/a18698.html#aab1b04989d5e3fc289f00bc121df193d", null ]
+    [ "TriggerWickedSpirit", "d2/db5/a18698.html#ace62bc037a2bd8ca9c9c56202eb811e7", null ],
+    [ "Execute", "d2/db5/a18698.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d", null ],
+    [ "_counter", "d2/db5/a18698.html#a24b85a62208f881418f97b0a8cb10f27", null ],
+    [ "_owner", "d2/db5/a18698.html#ab460675158bfedd7f17a4b8e1cc06b3c", null ]
 ];

@@ -1,5 +1,6 @@
 var a27542 =
 [
-    [ "go_tele_to_dalaran_crystal", "d4/d3b/a27542.html#ab41268b7d568e8f189338f27cd90a62c", null ],
-    [ "OnGossipHello", "d4/d3b/a27542.html#a7f754a29249653ca7848494310ef1a8d", null ]
+    [ "HandleKnockBack", "d4/d3b/a27542.html#abad9f9293260a3e99be98b43aabb321b", null ],
+    [ "PrepareSpellScript", "d4/d3b/a27542.html#a65787b78165631898458264e6ee310f4", null ],
+    [ "Register", "d4/d3b/a27542.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
 ];

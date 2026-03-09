@@ -1,5 +1,12 @@
 var a18870 =
 [
-    [ "npc_alchemist_adrianna", "dd/dbc/a18870.html#a310d375bc73c51e407580b063a6543fa", null ],
-    [ "OnGossipHello", "dd/dbc/a18870.html#a02ec6a66037d72e30bbe821ceee38691", null ]
+    [ "npc_strangulate_vehicleAI", "dd/dbc/a18870.html#a58e79834ed3f463ad51eca703d1c99ef", null ],
+    [ "DoAction", "dd/dbc/a18870.html#acf9d5a9e2f8b07f5ceb5ca75634e58fb", null ],
+    [ "IsHeroic", "dd/dbc/a18870.html#adb6ae2cefeec245196d21dc1112b2d5c", null ],
+    [ "IsSummonedBy", "dd/dbc/a18870.html#a381aec40cdcdf546d70b57a43978dbe9", null ],
+    [ "OnCharmed", "dd/dbc/a18870.html#a40e5537897c452d35093920ddd3669b0", null ],
+    [ "PassengerBoarded", "dd/dbc/a18870.html#a819746e13af95fa964c6da3d765a7c21", null ],
+    [ "UpdateAI", "dd/dbc/a18870.html#a53f567b77b7dfd0ccb5a0d98c0f5ef26", null ],
+    [ "_events", "dd/dbc/a18870.html#a19b493e994d246128f63d9109e87737a", null ],
+    [ "_instance", "dd/dbc/a18870.html#a7a16fbe4723a95293db01d3a2d80b569", null ]
 ];

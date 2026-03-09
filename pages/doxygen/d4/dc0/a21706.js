@@ -1,9 +1,12 @@
 var a21706 =
 [
-    [ "npc_lurgglbrAI", "d4/dc0/a21706.html#a9239b85c65f9b405335d432f355637d5", null ],
-    [ "Reset", "d4/dc0/a21706.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
-    [ "UpdateAI", "d4/dc0/a21706.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
-    [ "WaypointReached", "d4/dc0/a21706.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
-    [ "IntroPhase", "d4/dc0/a21706.html#a57e2c42cccf91765365e0b046446637a", null ],
-    [ "IntroTimer", "d4/dc0/a21706.html#ada9762806ae0132e37197e6fb1279866", null ]
+    [ "npc_dalaran_warriorAI", "d4/dc0/a21706.html#a0c96d8b0797a1388f9fe725753ea91bc", null ],
+    [ "Initialize", "d4/dc0/a21706.html#aa04ecd7a8f988e94ab663a7994e83dd9", null ],
+    [ "JustEngagedWith", "d4/dc0/a21706.html#ae6690f0681363784e457fbd653f5b3f9", null ],
+    [ "Reset", "d4/dc0/a21706.html#a074d116ba39d87fa85c17fbc1764c79b", null ],
+    [ "UpdateAI", "d4/dc0/a21706.html#ae2a740ecd35694b4d04c6aea7ae567fa", null ],
+    [ "Battleshout_timer", "d4/dc0/a21706.html#ae36f30f816164b60232bd849e74c3da1", null ],
+    [ "disarm_timer", "d4/dc0/a21706.html#a54f7ceb37d7e3456166f5af761c95e9e", null ],
+    [ "hamstring_timer", "d4/dc0/a21706.html#ae0e660b8c3faf70a6061260a4b90a4af", null ],
+    [ "shout_timer", "d4/dc0/a21706.html#ac91770c1e9eb31d687247450898a48ae", null ]
 ];

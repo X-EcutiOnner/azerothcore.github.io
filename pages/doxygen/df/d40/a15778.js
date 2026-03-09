@@ -1,9 +1,7 @@
 var a15778 =
 [
-    [ "go_wind_stoneAI", "df/d40/a15778.html#a4370be2b59ea50bf5ea2285bfbf4e242", null ],
-    [ "GossipHello", "df/d40/a15778.html#a73f129b7b636a1178fe3402cf1e6c50d", null ],
-    [ "GossipSelect", "df/d40/a15778.html#aff4dedbf3a6fea405722f7064633edb1", null ],
-    [ "InitializeAI", "df/d40/a15778.html#a33f98d1de05b539a66c4103b4c61de1f", null ],
-    [ "SummonNPC", "df/d40/a15778.html#ab44f563b8f117a19ac78508c3cba72e9", null ],
-    [ "_creatureGuid", "df/d40/a15778.html#a50ad8b248381a6d9fac7a291796966d6", null ]
+    [ "npc_vekniss_stinger", "df/d40/a15778.html#ad48098961715a924270cb8bbbe77e4b0", null ],
+    [ "JustEngagedWith", "df/d40/a15778.html#ae7c758687c81cfb223066f0a9348eab8", null ],
+    [ "Reset", "df/d40/a15778.html#a2a79f3775aad83410ff2670aa438e811", null ],
+    [ "UpdateAI", "df/d40/a15778.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
 ];

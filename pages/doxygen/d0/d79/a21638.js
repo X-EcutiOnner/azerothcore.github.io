@@ -1,6 +1,7 @@
 var a21638 =
 [
-    [ "npc_azure_captainAI", "d5/d2b/a21642.html", "d5/d2b/a21642" ],
-    [ "npc_azure_captain", "d0/d79/a21638.html#aeced2dbbfb23c161fd2bbc22859886a4", null ],
-    [ "GetAI", "d0/d79/a21638.html#a0d1bd80fc38c61e05d3f31ffe587350f", null ]
+    [ "HandleEffectHit", "d0/d79/a21638.html#a8d7dd2411c3b786e682260eb30862602", null ],
+    [ "PrepareSpellScript", "d0/d79/a21638.html#a49b6d005013e480f8161779119bc9b2d", null ],
+    [ "Register", "d0/d79/a21638.html#a017ae25fead98a5c18cdb83128085ddd", null ],
+    [ "Validate", "d0/d79/a21638.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
 ];

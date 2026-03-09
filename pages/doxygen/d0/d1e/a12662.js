@@ -1,7 +1,6 @@
 var a12662 =
 [
-    [ "HandlePeriodic", "d0/d1e/a12662.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
-    [ "PrepareAuraScript", "d0/d1e/a12662.html#a5dca8e116c05d11961cbd7995314441e", null ],
-    [ "Register", "d0/d1e/a12662.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
-    [ "Validate", "d0/d1e/a12662.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
+    [ "boss_warmastervooneAI", "dc/d4f/a12666.html", "dc/d4f/a12666" ],
+    [ "boss_warmaster_voone", "d0/d1e/a12662.html#ac363118e4201adccd4be0028a558442f", null ],
+    [ "GetAI", "d0/d1e/a12662.html#a560469e60fda04b2c7d8fd3994493868", null ]
 ];

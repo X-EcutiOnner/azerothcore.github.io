@@ -1,6 +1,13 @@
 var a21158 =
 [
-    [ "CheckCast", "d4/d5c/a21158.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "d4/d5c/a21158.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "d4/d5c/a21158.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "npc_ferocious_rhinoAI", "d4/d5c/a21158.html#ad70d0aeba4b73330c5087bc84a533389", null ],
+    [ "DoAction", "d4/d5c/a21158.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
+    [ "JustDied", "d4/d5c/a21158.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
+    [ "JustEngagedWith", "d4/d5c/a21158.html#aab35078fe4518b6647f98e316d02898a", null ],
+    [ "JustReachedHome", "d4/d5c/a21158.html#ab8105d6c8c70037c208c83c13c35242d", null ],
+    [ "MoveInLineOfSight", "d4/d5c/a21158.html#a97e32d32a692f223b96746f3ef1086c5", null ],
+    [ "Reset", "d4/d5c/a21158.html#a6d317407c2de2f954b5dd2a6db137304", null ],
+    [ "UpdateAI", "d4/d5c/a21158.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
+    [ "events", "d4/d5c/a21158.html#af23061de7d8566c7435c2c64c53dff89", null ],
+    [ "m_pInstance", "d4/d5c/a21158.html#a97e00db40792c559dd06327c9960abe4", null ]
 ];

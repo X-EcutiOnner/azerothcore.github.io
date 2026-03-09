@@ -1,6 +1,6 @@
 var a15618 =
 [
-    [ "npc_tiger_matriarch_creditAI", "d2/dde/a15622.html", "d2/dde/a15622" ],
-    [ "npc_tiger_matriarch_credit", "dc/d1d/a15618.html#a9d76e8e808c828da501551025eecd8ea", null ],
-    [ "GetAI", "dc/d1d/a15618.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
+    [ "FilterTargets", "dc/d1d/a15618.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
+    [ "PrepareSpellScript", "dc/d1d/a15618.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
+    [ "Register", "dc/d1d/a15618.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
 ];

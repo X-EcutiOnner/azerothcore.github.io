@@ -1,8 +1,10 @@
 var a15358 =
 [
-    [ "npc_ouro_spawner", "db/d9f/a15358.html#acb18739e5a1734312ffdda35321e5f34", null ],
-    [ "JustSummoned", "db/d9f/a15358.html#a722dada5bf97c730462a0de2b082d5ff", null ],
-    [ "MoveInLineOfSight", "db/d9f/a15358.html#a83c0972db4435ccf1af069574e4056f4", null ],
-    [ "Reset", "db/d9f/a15358.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
-    [ "hasSummoned", "db/d9f/a15358.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
+    [ "boss_aeonus", "db/d9f/a15358.html#af823ef2187b852dc72d2f63020e1701b", null ],
+    [ "IsSummonedBy", "db/d9f/a15358.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
+    [ "JustDied", "db/d9f/a15358.html#a649275c31e61f542a13fd791ee85277b", null ],
+    [ "JustEngagedWith", "db/d9f/a15358.html#a5f193144e36a889630d5dbadb4aa665f", null ],
+    [ "JustReachedHome", "db/d9f/a15358.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
+    [ "KilledUnit", "db/d9f/a15358.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
+    [ "MoveInLineOfSight", "db/d9f/a15358.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
 ];

@@ -1,5 +1,13 @@
 var a12790 =
 [
-    [ "npc_chess_move_trigger", "dc/d68/a12790.html#a6c0c37677db45ee11ebe158893d99632", null ],
-    [ "DamageTaken", "dc/d68/a12790.html#af413c7af2254c1cc06462b2a62ac88db", null ]
+    [ "boss_nefarian", "dc/d68/a12790.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
+    [ "JustDied", "dc/d68/a12790.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
+    [ "JustEngagedWith", "dc/d68/a12790.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
+    [ "KilledUnit", "dc/d68/a12790.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
+    [ "MovementInform", "dc/d68/a12790.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
+    [ "PathEndReached", "dc/d68/a12790.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
+    [ "Reset", "dc/d68/a12790.html#a5d687fce34b17e22c605c263395e823b", null ],
+    [ "UpdateAI", "dc/d68/a12790.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
+    [ "_introDone", "dc/d68/a12790.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
+    [ "classesPresent", "dc/d68/a12790.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
 ];

@@ -1,6 +1,6 @@
 var a21838 =
 [
-    [ "npc_mei_francis_mountAI", "dc/dbc/a21842.html", "dc/dbc/a21842" ],
-    [ "npc_mei_francis_mount", "d3/d3e/a21838.html#ab34facb1d4d9a542710340493488eaa8", null ],
-    [ "GetAI", "d3/d3e/a21838.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
+    [ "npc_q24545_vegardAI", "dc/dbc/a21842.html", "dc/dbc/a21842" ],
+    [ "npc_q24545_vegard", "d3/d3e/a21838.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
+    [ "GetAI", "d3/d3e/a21838.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
 ];

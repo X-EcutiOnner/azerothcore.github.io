@@ -1,4 +1,5 @@
 var a02495 =
 [
-    [ "GetAge", "d5/d56/a02495.html#a347e0449afd73dbcc6c084dbe72af6c8", null ]
+    [ "achievIdByArenaSlot", "d5/d56/a02495.html#a5264f22d916c9472e9a16ac52140f87c", null ],
+    [ "achievIdForDungeon", "d5/d56/a02495.html#ac50d520adf892744d066d8c5187046b0", null ]
 ];

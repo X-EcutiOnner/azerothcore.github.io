@@ -1,6 +1,8 @@
 var a21310 =
 [
-    [ "npc_ravenous_furbolgAI", "dc/ddc/a21314.html", "dc/ddc/a21314" ],
-    [ "npc_ravenous_furbolg", "de/d4e/a21310.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
-    [ "GetAI", "de/d4e/a21310.html#a284c366e6f5bd024d9627a83dd966669", null ]
+    [ "npc_frozen_orbAI", "de/d4e/a21310.html#aa7456d1d876690e3723ee0a36866348b", null ],
+    [ "JustEngagedWith", "de/d4e/a21310.html#afd9686dbb8503d7f756b670269aed33d", null ],
+    [ "Reset", "de/d4e/a21310.html#a376dc1fcef9752e235008c4ba66e2463", null ],
+    [ "UpdateAI", "de/d4e/a21310.html#a37d7cf81197fe4344c8b847753997e93", null ],
+    [ "switchTimer", "de/d4e/a21310.html#afc63a3cf6b814df81a35b53278d722c9", null ]
 ];

@@ -1,7 +1,6 @@
 var a13590 =
 [
-    [ "HandleRemove", "db/da1/a13590.html#a4484cf33e423f23cad9559a6a16ed9b4", null ],
-    [ "PrepareAuraScript", "db/da1/a13590.html#a6fa407996b59d98d0eeef877ee89784d", null ],
-    [ "Register", "db/da1/a13590.html#a7dc81b47954ee8c10b99f389740de0be", null ],
-    [ "Validate", "db/da1/a13590.html#afd94a159c0f429f2a63ffbd0a38d32e3", null ]
+    [ "boss_kirtonos_the_heraldAI", "dc/de8/a13594.html", "dc/de8/a13594" ],
+    [ "boss_kirtonos_the_herald", "db/da1/a13590.html#a0e81153a0da7910cda4c9b6d32544318", null ],
+    [ "GetAI", "db/da1/a13590.html#aa5e0fe2386aae52fd53ff309282db652", null ]
 ];

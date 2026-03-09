@@ -1,7 +1,9 @@
 var a14858 =
 [
-    [ "OnPeriodic", "d7/d05/a14858.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
-    [ "PrepareAuraScript", "d7/d05/a14858.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
-    [ "Register", "d7/d05/a14858.html#aeb388d608830aeb3b30f707304403b41", null ],
-    [ "Validate", "d7/d05/a14858.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
+    [ "entries", "d7/d05/a14858.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
+    [ "entries", "d7/d05/a14858.html#a953850b267eb6f599bb49d82080bdf64", null ],
+    [ "revelerId", "d7/d05/a14858.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
+    [ "schedule", "d7/d05/a14858.html#abf912f0df4468a233292020c71d70f78", null ],
+    [ "size", "d7/d05/a14858.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
+    [ "spawns", "d7/d05/a14858.html#a09a3d07fa1b5ce5026b6191d43e8682c", null ]
 ];

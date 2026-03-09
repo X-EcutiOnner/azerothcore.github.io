@@ -1,8 +1,9 @@
 var a15514 =
 [
-    [ "npc_injured_draeneiAI", "d8/df0/a15514.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
-    [ "JustEngagedWith", "d8/df0/a15514.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
-    [ "MoveInLineOfSight", "d8/df0/a15514.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
-    [ "Reset", "d8/df0/a15514.html#adcb601f739a91ce71926791885152471", null ],
-    [ "UpdateAI", "d8/df0/a15514.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
+    [ "npc_buru_egg", "d8/df0/a15514.html#a6aa2896342b802caecde1c1dffcf4907", null ],
+    [ "JustDied", "d8/df0/a15514.html#a3de169b252374f0b2daed3ecb5a11502", null ],
+    [ "JustEngagedWith", "d8/df0/a15514.html#a8cde6848569671876a17b00d75228ebe", null ],
+    [ "JustSummoned", "d8/df0/a15514.html#abebb96dcb3d653bddd4210da6567fb87", null ],
+    [ "UpdateAI", "d8/df0/a15514.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
+    [ "_instance", "d8/df0/a15514.html#a5b168226755a57368f17827e3457a0ca", null ]
 ];

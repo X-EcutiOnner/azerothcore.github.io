@@ -1,8 +1,6 @@
 var a20174 =
 [
-    [ "HandleOnEffectApply", "d6/dee/a20174.html#a83ff54727e886161c5568a60833932d1", null ],
-    [ "HandleOnEffectRemove", "d6/dee/a20174.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
-    [ "PrepareAuraScript", "d6/dee/a20174.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
-    [ "Register", "d6/dee/a20174.html#ae07af138c6f9c565799574b4f8343492", null ],
-    [ "Validate", "d6/dee/a20174.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
+    [ "CastRunesEvent", "d6/dee/a20174.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
+    [ "Execute", "d6/dee/a20174.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
+    [ "_owner", "d6/dee/a20174.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
 ];

@@ -1,5 +1,9 @@
 var a13738 =
 [
-    [ "at_twilight_grove", "d5/d1e/a13738.html#a2ef32dbac0a35aa7dc6ebbafe926125f", null ],
-    [ "OnTrigger", "d5/d1e/a13738.html#a8ee7239b8429df38a237926a7252322b", null ]
+    [ "boss_brutallus", "d5/d1e/a13738.html#a501c898505eb4265edee1546bc54713e", null ],
+    [ "AttackStart", "d5/d1e/a13738.html#a05edf7010f4e7364399bc81582502219", null ],
+    [ "JustDied", "d5/d1e/a13738.html#a48ae6589613f2ac90a499b9b6ae07d01", null ],
+    [ "JustEngagedWith", "d5/d1e/a13738.html#a04ff0c07c578c3b92cf45d1ed27fb883", null ],
+    [ "KilledUnit", "d5/d1e/a13738.html#a608607d83680da85f91324ce0035804b", null ],
+    [ "Reset", "d5/d1e/a13738.html#a20ad64739072e39e7ff3132c6f637af7", null ]
 ];

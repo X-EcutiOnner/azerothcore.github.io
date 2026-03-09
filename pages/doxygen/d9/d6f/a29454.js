@@ -1,7 +1,8 @@
 var a29454 =
 [
-    [ "checkDirectories", "d9/d6f/a29454.html#ab24803c49e5019c665aa545cfd2d32dc", null ],
-    [ "finish", "d9/d6f/a29454.html#a32e7545f3a98690aeb284a4eb66f272d", null ],
-    [ "handleArgs", "d9/d6f/a29454.html#a9da584ba5e81bed140f90563dd648d38", null ],
-    [ "main", "d9/d6f/a29454.html#a3c04138a5bfe5d72780bb7e82a18e627", null ]
+    [ "MapDifficulty", "d9/d6f/a29454.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
+    [ "MapDifficulty", "d9/d6f/a29454.html#a227aec55b5b774076882ea34f70d5d88", null ],
+    [ "hasErrorMessage", "d9/d6f/a29454.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
+    [ "maxPlayers", "d9/d6f/a29454.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
+    [ "resetTime", "d9/d6f/a29454.html#a7190131620b9eee0897ac7b4dd62949e", null ]
 ];

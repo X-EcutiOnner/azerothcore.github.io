@@ -1,6 +1,7 @@
 var a13654 =
 [
-    [ "ChangeSummonPos", "d6/d67/a13654.html#ae24a7c8279a92f1018748a0e930736ac", null ],
-    [ "PrepareSpellScript", "d6/d67/a13654.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
-    [ "Register", "d6/d67/a13654.html#a03a1a1e5501452eacaceadd9725f2287", null ]
+    [ "HandleAfterCast", "d6/d67/a13654.html#afa662fbe1b777047259ac6212961f7a5", null ],
+    [ "HandleScript", "d6/d67/a13654.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
+    [ "PrepareSpellScript", "d6/d67/a13654.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
+    [ "Register", "d6/d67/a13654.html#a4a898b0b096583af33f1f691a252b2ed", null ]
 ];

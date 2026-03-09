@@ -1,8 +1,5 @@
 var a17730 =
 [
-    [ "ResetEncounterEvent", "da/d91/a17730.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
-    [ "Execute", "da/d91/a17730.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
-    [ "_caster", "da/d91/a17730.html#abb37778222749b27791baa329e268c32", null ],
-    [ "_otherTransport", "da/d91/a17730.html#a7f2d0aaade5833381e3e7624745fc504", null ],
-    [ "_spellId", "da/d91/a17730.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
+    [ "achievement_less_rabi", "da/d91/a17730.html#aee43dd7623f7fecc20a0acb15f342a99", null ],
+    [ "OnCheck", "da/d91/a17730.html#a16b200bf93fa2571c8b31359ad7ca151", null ]
 ];

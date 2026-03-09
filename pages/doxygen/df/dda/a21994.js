@@ -1,6 +1,6 @@
 var a21994 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "d6/d9b/a21998.html", "d6/d9b/a21998" ],
-    [ "npc_q24545_wretched_ghoul", "df/dda/a21994.html#a3842b5bd89c911d29d561307113fb032", null ],
-    [ "GetAI", "df/dda/a21994.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
+    [ "npc_plaguehound_trackerAI", "d6/d9b/a21998.html", "d6/d9b/a21998" ],
+    [ "npc_plaguehound_tracker", "df/dda/a21994.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
+    [ "GetAI", "df/dda/a21994.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
 ];

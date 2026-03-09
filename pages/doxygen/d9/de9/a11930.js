@@ -1,5 +1,6 @@
 var a11930 =
 [
-    [ "flag", "d9/de9/a11930.html#a6cae645736c697e2c2bf51a70c230070", null ],
-    [ "text", "d9/de9/a11930.html#aff011cbcd136992bfe6abb4e0e4a48ac", null ]
+    [ "FieldGuidType", "d9/de9/a11930.html#a88e763ed9715ad76a0eb1c1a9ad7a59b", null ],
+    [ "FieldName", "d9/de9/a11930.html#a669f1ecf12148799e59e7b3e3124d681", null ],
+    [ "IsDependentField", "d9/de9/a11930.html#a241b9e8f5672e30732f0b938b02046d4", null ]
 ];

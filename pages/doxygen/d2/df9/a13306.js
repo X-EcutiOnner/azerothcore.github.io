@@ -1,7 +1,7 @@
 var a13306 =
 [
-    [ "HandleEffectApply", "d2/df9/a13306.html#a710536e0a3bacf173d037041e755bd82", null ],
-    [ "HandleEffectRemove", "d2/df9/a13306.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
-    [ "PrepareAuraScript", "d2/df9/a13306.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
-    [ "Register", "d2/df9/a13306.html#a9092818bdb15a12163aae633049cb7f6", null ]
+    [ "HandleDummy", "d2/df9/a13306.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
+    [ "PrepareSpellScript", "d2/df9/a13306.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
+    [ "Register", "d2/df9/a13306.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
+    [ "Validate", "d2/df9/a13306.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
 ];

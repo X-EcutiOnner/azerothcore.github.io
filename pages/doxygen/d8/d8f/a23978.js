@@ -1,6 +1,6 @@
 var a23978 =
 [
-    [ "HandlePeriodic", "d8/d8f/a23978.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
-    [ "PrepareAuraScript", "d8/d8f/a23978.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
-    [ "Register", "d8/d8f/a23978.html#acf77c76f02671da215c7103b60ed77ac", null ]
+    [ "npc_simon_bunnyAI", "d9/d8c/a23982.html", "d9/d8c/a23982" ],
+    [ "npc_simon_bunny", "d8/d8f/a23978.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
+    [ "GetAI", "d8/d8f/a23978.html#ac0c97609916321a1599c0722803a050f", null ]
 ];

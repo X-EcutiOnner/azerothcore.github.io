@@ -1,6 +1,4 @@
 var a01487 =
 [
-    [ "clearAcceptTradeMode", "dc/d47/a01487.html#ab516bffb39dfd3d3133b1d3a515c9fb1", null ],
-    [ "clearAcceptTradeMode", "dc/d47/a01487.html#a7b5fc6374a945ebbe9b397c1e115e952", null ],
-    [ "setAcceptTradeMode", "dc/d47/a01487.html#a63b255ea813e0ea4f109492ed7f0213c", null ]
+    [ "MOVEMENT_PACKET_TIME_DELAY", "dc/d47/a01487.html#a69e254ae3a119a96053add6b9732296c", null ]
 ];

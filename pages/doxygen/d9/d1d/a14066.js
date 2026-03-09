@@ -1,7 +1,11 @@
 var a14066 =
 [
-    [ "HandleScript", "d9/d1d/a14066.html#ac45614416a710794b3e3a5cee239e28a", null ],
-    [ "PrepareSpellScript", "d9/d1d/a14066.html#a832aee6557e27bfa418957297a05bea3", null ],
-    [ "Register", "d9/d1d/a14066.html#a2f5d255de09818203e498c0090bdd3fb", null ],
-    [ "Validate", "d9/d1d/a14066.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
+    [ "npc_balance_of_light_and_shadowAI", "d9/d1d/a14066.html#a00cc1f78fa8fe26bf472d99a490d05ad", null ],
+    [ "CanBeSeen", "d9/d1d/a14066.html#af336c2afbf6c2850679fd7d8d1f0d5e9", null ],
+    [ "JustDied", "d9/d1d/a14066.html#ae862f8763614a98dae6b982414caf30a", null ],
+    [ "MovementInform", "d9/d1d/a14066.html#ad426816ae3c4d5a95587787d28f57ed8", null ],
+    [ "SpellHit", "d9/d1d/a14066.html#abfddfff72b63fd05673584915d647958", null ],
+    [ "UpdateAI", "d9/d1d/a14066.html#a540e3c28cc36917cde0153dd372d0287", null ],
+    [ "_targetGUID", "d9/d1d/a14066.html#adaf2340aa5fe7b96c8f5cacc1c8d5545", null ],
+    [ "timer", "d9/d1d/a14066.html#a204e0a809e9c392f20ec900e9a90a075", null ]
 ];

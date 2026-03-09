@@ -1,7 +1,9 @@
 var a20254 =
 [
-    [ "boss_freya_healthy_sporeAI", "da/d29/a20254.html#a1f72bc2b113f3b909d44fd54fff87e31", null ],
-    [ "Reset", "da/d29/a20254.html#ad6d6562b5cc9f8232bdda99ec2204052", null ],
-    [ "UpdateAI", "da/d29/a20254.html#ace79c59d62e597ae31425b4006e1363f", null ],
-    [ "_despawnTimer", "da/d29/a20254.html#aaf65ef07480e5c634cc42dac0c7c734c", null ]
+    [ "npc_hodirs_fury", "da/d29/a20254.html#abda902842d76a0a5a17196a11654f5ab", null ],
+    [ "MovementInform", "da/d29/a20254.html#a4d82007c5b70edad74b461948629b9fb", null ],
+    [ "Reset", "da/d29/a20254.html#a8f50cc6b79ba7feab8ac2f83f82a598f", null ],
+    [ "UpdateAI", "da/d29/a20254.html#a58a8b1664bb00b930cce86e856facb8b", null ],
+    [ "_switchTargetTimer", "da/d29/a20254.html#a9736332e6f3d163f04aa12cbd6829670", null ],
+    [ "_timeToHit", "da/d29/a20254.html#a611d171dc27bd78d298040eabfc00e5f", null ]
 ];

@@ -1,6 +1,5 @@
 var a17482 =
 [
-    [ "npc_dark_nucleusAI", "d9/dc9/a17486.html", "d9/dc9/a17486" ],
-    [ "npc_dark_nucleus", "db/d49/a17482.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
-    [ "GetAI", "db/d49/a17482.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
+    [ "at_hor_battered_hilt_throw", "db/d49/a17482.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
+    [ "OnTrigger", "db/d49/a17482.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
 ];

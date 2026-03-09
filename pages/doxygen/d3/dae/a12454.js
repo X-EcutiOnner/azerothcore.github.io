@@ -1,6 +1,7 @@
 var a12454 =
 [
-    [ "boss_firemawAI", "d3/dae/a12454.html#ab3f56c97119676b1a75662e52caecb75", null ],
-    [ "JustEngagedWith", "d3/dae/a12454.html#a04cb1d2fa18dba82b9c881b09406a076", null ],
-    [ "UpdateAI", "d3/dae/a12454.html#a6e35e47b23d713263ef00769324bbbed", null ]
+    [ "boss_grizzleAI", "d3/dae/a12454.html#a3310892cafc2a8e022105f77258b25af", null ],
+    [ "JustEngagedWith", "d3/dae/a12454.html#a598e7e7d6bdd847bf01968116988a935", null ],
+    [ "UpdateAI", "d3/dae/a12454.html#a2dc5c27cd4eaf2aa1484a370a68e3314", null ],
+    [ "nextTremorTime", "d3/dae/a12454.html#ab0f05592db6d0c806247e76232760c44", null ]
 ];

@@ -1,6 +1,5 @@
 var a25018 =
 [
-    [ "CalculateAmount", "db/d4f/a25018.html#af913c896771e238ef62898f67af61cc4", null ],
-    [ "PrepareAuraScript", "db/d4f/a25018.html#a4be139ae22c20468be1930195097d98a", null ],
-    [ "Register", "db/d4f/a25018.html#a90d6446ed05f9dfedb43d689e8de0614", null ]
+    [ "PrepareSpellScript", "db/d4f/a25018.html#a41169895bb29fe136e3fb0c2dd50d9fb", null ],
+    [ "Register", "db/d4f/a25018.html#ab6a32b26cc0277f71a71b9fd1d567bf1", null ]
 ];

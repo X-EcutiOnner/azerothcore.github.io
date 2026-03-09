@@ -1,8 +1,6 @@
 var a23786 =
 [
-    [ "HandleDummyApply", "dd/d85/a23786.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
-    [ "HandleDummyRemove", "dd/d85/a23786.html#a368376fe4262815b9b9a9811178cec6d", null ],
-    [ "HandlePeriodicRemove", "dd/d85/a23786.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
-    [ "PrepareAuraScript", "dd/d85/a23786.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
-    [ "Register", "dd/d85/a23786.html#afeb47a40cfea3d958fee7a410e83857f", null ]
+    [ "HandlePeriodic", "dd/d85/a23786.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
+    [ "PrepareAuraScript", "dd/d85/a23786.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
+    [ "Register", "dd/d85/a23786.html#acf77c76f02671da215c7103b60ed77ac", null ]
 ];

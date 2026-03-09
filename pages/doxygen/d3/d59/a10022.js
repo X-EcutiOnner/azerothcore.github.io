@@ -1,8 +1,6 @@
 var a10022 =
 [
-    [ "TimedFleeingMovementGenerator", "d3/d59/a10022.html#ae3eed5f4b5a8d11ad4eed67ce5329742", null ],
-    [ "Finalize", "d3/d59/a10022.html#a1a18f033663fa93ef0b9885aae21f766", null ],
-    [ "GetMovementGeneratorType", "d3/d59/a10022.html#a1533d13f4e786e498353805a2a2daf85", null ],
-    [ "Update", "d3/d59/a10022.html#a53688aae55bfdd3a33eb24484fcc157e", null ],
-    [ "i_totalFleeTime", "d3/d59/a10022.html#a2858047459ff675383e7b86805702369", null ]
+    [ "ServerMailItems", "d3/d59/a10022.html#a95cb2278da300c6b0385241f5a3950c1", null ],
+    [ "item", "d3/d59/a10022.html#ae03738595a87a47e831bcbeea6f97d34", null ],
+    [ "itemCount", "d3/d59/a10022.html#a4475d65dd5721d4af323ae93d15f4170", null ]
 ];

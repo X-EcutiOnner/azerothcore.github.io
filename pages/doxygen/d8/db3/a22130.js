@@ -1,7 +1,6 @@
 var a22130 =
 [
-    [ "HandleScript", "d8/db3/a22130.html#a95de3ae27cfd764380ab1648b49af38d", null ],
-    [ "Load", "d8/db3/a22130.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
-    [ "PrepareSpellScript", "d8/db3/a22130.html#a442138710213b9b120d8ce57b733205a", null ],
-    [ "Register", "d8/db3/a22130.html#af9d8f764a6a02737f8b559f067156df6", null ]
+    [ "npc_blessed_bannerAI", "dc/d50/a22134.html", "dc/d50/a22134" ],
+    [ "npc_blessed_banner", "d8/db3/a22130.html#a779a0c653088b2d206226e146a19101f", null ],
+    [ "GetAI", "d8/db3/a22130.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
 ];

@@ -1,6 +1,9 @@
 var a18598 =
 [
-    [ "npc_lk_spirit_bombAI", "db/dfc/a18602.html", "db/dfc/a18602" ],
-    [ "npc_lk_spirit_bomb", "d1/dad/a18598.html#acc08d41aa1761c450de782e92307ad7c", null ],
-    [ "GetAI", "d1/dad/a18598.html#ade74c00beb2da69dafb0ae93d771c430", null ]
+    [ "FilterTargets", "d1/dad/a18598.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
+    [ "FilterTargetsSubseq", "d1/dad/a18598.html#a88a53a855e01b550fbd106ac318a891e", null ],
+    [ "PrepareSpellScript", "d1/dad/a18598.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
+    [ "Register", "d1/dad/a18598.html#a27e8768422b311f6db16757e167f4102", null ],
+    [ "Validate", "d1/dad/a18598.html#a96ef76527449a138685830b52fa95146", null ],
+    [ "_targetList", "d1/dad/a18598.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
 ];

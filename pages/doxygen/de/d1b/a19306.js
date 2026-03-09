@@ -1,8 +1,9 @@
 var a19306 =
 [
-    [ "boss_maexxna_webwrapAI", "de/d1b/a19306.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
-    [ "IsSummonedBy", "de/d1b/a19306.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
-    [ "JustDied", "de/d1b/a19306.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
-    [ "UpdateAI", "de/d1b/a19306.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
-    [ "victimGUID", "de/d1b/a19306.html#a54081ebfc0df639b7e18b5f079802c92", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "de/d1b/a19306.html#a91868021309239f5582bb7ee89baec13", null ],
+    [ "AttackStart", "de/d1b/a19306.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
+    [ "JustEngagedWith", "de/d1b/a19306.html#a12927240144022174e3d190be6b34976", null ],
+    [ "Reset", "de/d1b/a19306.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
+    [ "UpdateAI", "de/d1b/a19306.html#a969a36e147006971a93711349f90c193", null ],
+    [ "events", "de/d1b/a19306.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
 ];

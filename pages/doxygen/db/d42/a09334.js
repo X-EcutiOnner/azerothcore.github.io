@@ -1,9 +1,9 @@
 var a09334 =
 [
-    [ "PlayerLastSearcher", "db/d42/a09334.html#a0a4c736bbde38ccb0a0a8ceafdb751c7", null ],
-    [ "Visit", "db/d42/a09334.html#a25785fbe4cb8ac9a8753705b9df3b507", null ],
-    [ "Visit", "db/d42/a09334.html#a19e60fc9fc43ad3a718132a2884e41b0", null ],
-    [ "i_check", "db/d42/a09334.html#a93f5e1dd1f680cc9467671b59d2c5a12", null ],
-    [ "i_object", "db/d42/a09334.html#a2d9af6a6ef1105b19c49852fce17b8e6", null ],
-    [ "i_phaseMask", "db/d42/a09334.html#ad5bfaa4154c99e34515da98db7dccadf", null ]
+    [ "CellArea", "db/d42/a09334.html#ace8ca84753b4ec8681415386fb135053", null ],
+    [ "CellArea", "db/d42/a09334.html#a547aa2c544abb8de2c6defdd6ec77fa3", null ],
+    [ "operator!", "db/d42/a09334.html#a386d4a562c27155012daedc361541e3b", null ],
+    [ "ResizeBorders", "db/d42/a09334.html#aebb8a0eb3210fa09d647d89ce8a0c7b8", null ],
+    [ "high_bound", "db/d42/a09334.html#a0c90f0474902deaafc4a64faaf6e8071", null ],
+    [ "low_bound", "db/d42/a09334.html#a374fe9802c798e6ece359a8025b6e1df", null ]
 ];

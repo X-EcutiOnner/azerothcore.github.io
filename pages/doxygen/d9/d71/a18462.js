@@ -1,7 +1,6 @@
 var a18462 =
 [
-    [ "CheckTargetCount", "d9/d71/a18462.html#a637ba0717ae0f6f736f5532ed65ca301", null ],
-    [ "PrepareSpellScript", "d9/d71/a18462.html#af560e5c4e985e9b139999f5ef618fe3c", null ],
-    [ "Register", "d9/d71/a18462.html#a86e7512496fd38201d458c03a7a60296", null ],
-    [ "Validate", "d9/d71/a18462.html#a744c4aa76387be4aa76a69fbcaa7932e", null ]
+    [ "boss_rotfaceAI", "d6/d89/a18466.html", "d6/d89/a18466" ],
+    [ "boss_rotface", "d9/d71/a18462.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "d9/d71/a18462.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

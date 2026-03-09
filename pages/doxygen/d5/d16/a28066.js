@@ -1,6 +1,6 @@
 var a28066 =
 [
-    [ "AreaGroupId", "d5/d16/a28066.html#a2868a59574e635d5f5859cfa01811151", null ],
-    [ "AreaId", "d5/d16/a28066.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
-    [ "nextGroup", "d5/d16/a28066.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
+    [ "AreaTrigger_at_brewfest", "d5/d16/a28066.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
+    [ "OnTrigger", "d5/d16/a28066.html#a17e4a8d671136466c7673789e4f69a84", null ],
+    [ "_triggerTimes", "d5/d16/a28066.html#ab763765427796ad17338bcc8d63cf891", null ]
 ];

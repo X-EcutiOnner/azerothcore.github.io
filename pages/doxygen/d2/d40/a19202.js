@@ -1,6 +1,7 @@
 var a19202 =
 [
-    [ "npc_boss_gothik_minionAI", "df/d28/a19206.html", "df/d28/a19206" ],
-    [ "npc_boss_gothik_minion", "d2/d40/a19202.html#a6cabeae812639ac179133245d85a0e15", null ],
-    [ "GetAI", "d2/d40/a19202.html#a8abb1ec265f9eeb646a858bee06cfb92", null ]
+    [ "OnApply", "d2/d40/a19202.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
+    [ "OnRemove", "d2/d40/a19202.html#a697a7c76f944b5df956a9de07746b7a9", null ],
+    [ "PrepareAuraScript", "d2/d40/a19202.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
+    [ "Register", "d2/d40/a19202.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
 ];

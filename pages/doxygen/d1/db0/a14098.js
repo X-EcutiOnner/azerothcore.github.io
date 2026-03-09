@@ -1,6 +1,7 @@
 var a14098 =
 [
-    [ "OnEffect", "d1/db0/a14098.html#ab87d53faac04ced3c11088e260782068", null ],
-    [ "PrepareSpellScript", "d1/db0/a14098.html#af618e8d84029dda5e48b699cbcf671be", null ],
-    [ "Register", "d1/db0/a14098.html#abcfe54b8901ec3c5e070b3c528ade26e", null ]
+    [ "npc_ranger_lilatha", "d1/db0/a14098.html#abd13a89b41a289edefb9bc21588f8d29", null ],
+    [ "Reset", "d1/db0/a14098.html#a3e804e483b51961193ee1079caba40be", null ],
+    [ "sQuestAccept", "d1/db0/a14098.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
+    [ "WaypointReached", "d1/db0/a14098.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
 ];

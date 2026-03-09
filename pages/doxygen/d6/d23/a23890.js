@@ -1,14 +1,16 @@
 var a23890 =
 [
-    [ "npc_warden_mellicharAI", "d6/d23/a23890.html#a3486b015ccb8fecfe5e215f45e45f15e", null ],
-    [ "AttackStart", "d6/d23/a23890.html#a2b16dc3ad358e4179fe20e2066ba5c64", null ],
-    [ "DamageTaken", "d6/d23/a23890.html#a07e7b215ed7653fe7e1ee44d34a74bbd", null ],
-    [ "JustDied", "d6/d23/a23890.html#a867404a125aeb4ee3332a4e2b5a8f547", null ],
-    [ "JustEngagedWith", "d6/d23/a23890.html#ad584a3c2dd8f108cc9b4e66a6917f97b", null ],
-    [ "JustSummoned", "d6/d23/a23890.html#a3fe95a64b640fb61459da2c8621fbc9c", null ],
-    [ "MoveInLineOfSight", "d6/d23/a23890.html#aa4edaf9534e7232526fd9c7bd097b7c4", null ],
-    [ "Reset", "d6/d23/a23890.html#aebd55a8e6e618e4dc37cf253c60c3a94", null ],
-    [ "SetData", "d6/d23/a23890.html#a0d0e8d1af5179aea73aa60e060ba751a", null ],
-    [ "SummonedCreatureDies", "d6/d23/a23890.html#a58e1011986be65725d4db3d782bc72ac", null ],
-    [ "UpdateAI", "d6/d23/a23890.html#a944cff5367213d561a7e6df5faf2a216", null ]
+    [ "instance_the_eye_InstanceMapScript", "d6/d23/a23890.html#a0c2b90c0f155e279aece7cd36d9de6d7", null ],
+    [ "GetGuidData", "d6/d23/a23890.html#a882432d126cc9e90322eaa16f5ef15c8", null ],
+    [ "OnCreatureCreate", "d6/d23/a23890.html#a8a89f56945022e34cc5d9ead06a58b63", null ],
+    [ "OnGameObjectCreate", "d6/d23/a23890.html#a56c6933c2c231c228ca147107fbfc930", null ],
+    [ "AlarGUID", "d6/d23/a23890.html#a2a5323d92963da3b4b99ef1f7debaa4d", null ],
+    [ "BridgeWindowGUID", "d6/d23/a23890.html#a1fa987352d6c4c5f11d5415d4b886aaa", null ],
+    [ "GrandAstromancerCapernianGUID", "d6/d23/a23890.html#aa8e267617231a7816a43e9957c745c58", null ],
+    [ "KaelStateLeftGUID", "d6/d23/a23890.html#ab2ca710f119fbfc1a7b57a88462d145b", null ],
+    [ "KaelStateRightGUID", "d6/d23/a23890.html#a25ba703325800d2976eff860437f3d57", null ],
+    [ "KaelthasGUID", "d6/d23/a23890.html#a547528fbfe31974759b0e6fbdf12df31", null ],
+    [ "LordSanguinarGUID", "d6/d23/a23890.html#a5794e1c326ad2eb4fee2bdfab8261257", null ],
+    [ "MasterEngineerTelonicusGUID", "d6/d23/a23890.html#abded7dc13c226ccad53c151d75ced243", null ],
+    [ "ThaladredTheDarkenerGUID", "d6/d23/a23890.html#ada64ef9f71d61ea19144cec596ba06e2", null ]
 ];

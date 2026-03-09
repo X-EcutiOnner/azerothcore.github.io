@@ -1,11 +1,16 @@
 var a21402 =
 [
-    [ "boss_archavonAI", "da/dd3/a21402.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
-    [ "AttackStart", "da/dd3/a21402.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
-    [ "JustDied", "da/dd3/a21402.html#a3974065a80dedf3e673452e7f6f8e449", null ],
-    [ "JustEngagedWith", "da/dd3/a21402.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
-    [ "Reset", "da/dd3/a21402.html#a7d101626f39947dd54b574491a5e6d72", null ],
-    [ "UpdateAI", "da/dd3/a21402.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
-    [ "events", "da/dd3/a21402.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
-    [ "pInstance", "da/dd3/a21402.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
+    [ "boss_zuramatAI", "da/dd3/a21402.html#ab4c04fec01023295946d170a466d1c48", null ],
+    [ "EnterEvadeMode", "da/dd3/a21402.html#a991437ea0d9fd1ce7807ef9937c4cb0a", null ],
+    [ "JustDied", "da/dd3/a21402.html#a060df9b36f2f62f3fc7afb80386d51c5", null ],
+    [ "JustEngagedWith", "da/dd3/a21402.html#a85cc0f20b51e84ff1c5c16a3b2b004b9", null ],
+    [ "JustSummoned", "da/dd3/a21402.html#a6e925207ddc112f7dd7044c08023f90e", null ],
+    [ "KilledUnit", "da/dd3/a21402.html#adb79f8c244f57b88848dd44b592faf41", null ],
+    [ "MoveInLineOfSight", "da/dd3/a21402.html#aa3ef3256d203d264dee12eff4491a28c", null ],
+    [ "Reset", "da/dd3/a21402.html#a18498e4bc4bfac33ff2c591f5bf28d7d", null ],
+    [ "SummonedCreatureDespawn", "da/dd3/a21402.html#a242f814bfec2e937e1338097e78080e3", null ],
+    [ "UpdateAI", "da/dd3/a21402.html#adb591699b7d8ece0b1775afd40a4181b", null ],
+    [ "events", "da/dd3/a21402.html#a4406b42618f3e40fa90e0a34ec3ad09f", null ],
+    [ "pInstance", "da/dd3/a21402.html#a8ebb5ca6f9f18b0205e8b6a54492c06a", null ],
+    [ "summons", "da/dd3/a21402.html#a42cb09654095c8a157720f99e7957102", null ]
 ];

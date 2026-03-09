@@ -1,6 +1,8 @@
 var a12546 =
 [
-    [ "instance_blackwing_lair_InstanceMapScript", "de/d7d/a12550.html", "de/d7d/a12550" ],
-    [ "instance_blackwing_lair", "df/ddb/a12546.html#afb9a7ce1ac297b023aa8364cc1383336", null ],
-    [ "GetInstanceScript", "df/ddb/a12546.html#a70aff4e1bb406f232d0b4961037ed0a1", null ]
+    [ "CheckProc", "df/ddb/a12546.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "df/ddb/a12546.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "df/ddb/a12546.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "df/ddb/a12546.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "df/ddb/a12546.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

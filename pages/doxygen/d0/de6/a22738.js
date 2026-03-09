@@ -1,5 +1,7 @@
 var a22738 =
 [
-    [ "OutdoorPvP_silithus", "d0/de6/a22738.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
-    [ "GetOutdoorPvP", "d0/de6/a22738.html#a126d6acc77218addd10072199ccd2470", null ]
+    [ "npc_blade_of_azzinoth", "d0/de6/a22738.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "d0/de6/a22738.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "d0/de6/a22738.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "d0/de6/a22738.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

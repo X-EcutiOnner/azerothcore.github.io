@@ -1,7 +1,5 @@
 var a28730 =
 [
-    [ "TalentSpellPos", "d2/da2/a28730.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
-    [ "TalentSpellPos", "d2/da2/a28730.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
-    [ "rank", "d2/da2/a28730.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
-    [ "talent_id", "d2/da2/a28730.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
+    [ "go_transport_the_purple_princess", "d2/da2/a28730.html#ab0c79197964857d578036693a2c18e8a", null ],
+    [ "EventInform", "d2/da2/a28730.html#ac5b73f1bea180797169138f8e9228783", null ]
 ];

@@ -1,22 +1,21 @@
 var a02171 =
 [
-    [ "AISpellInfoType", "d8/d1b/a06400.html", "d8/d1b/a06400" ],
-    [ "AI_DEFAULT_COOLDOWN", "d6/d1e/a02171.html#a41c947edd84b4f2bb45133dc7aa00cad", null ],
-    [ "AICondition", "d6/d1e/a02171.html#ac43b18581ae7a7b66984b1003502d5af", [
-      [ "AICOND_AGGRO", "d6/d1e/a02171.html#ac43b18581ae7a7b66984b1003502d5afac41d9d90387a55a0b5be34e13683f9c8", null ],
-      [ "AICOND_COMBAT", "d6/d1e/a02171.html#ac43b18581ae7a7b66984b1003502d5afa6be0faa08bd4f7bb7891ce5e2b7e4642", null ],
-      [ "AICOND_DIE", "d6/d1e/a02171.html#ac43b18581ae7a7b66984b1003502d5afaeda5ad2d2df79acf7c72e4785011cf6e", null ]
+    [ "DefaultTargetSelector", "d1/d03/a06386.html", "d1/d03/a06386" ],
+    [ "SpellTargetSelector", "d9/d71/a06390.html", "d9/d71/a06390" ],
+    [ "NonTankTargetSelector", "d8/d59/a06394.html", "d8/d59/a06394" ],
+    [ "PowerUsersSelector", "dd/d9c/a06398.html", "dd/d9c/a06398" ],
+    [ "RangeSelector", "d5/de7/a06402.html", "d5/de7/a06402" ],
+    [ "UnitAI", "da/d70/a06406.html", "da/d70/a06406" ],
+    [ "PlayerAI", "db/d70/a06410.html", "db/d70/a06410" ],
+    [ "SimpleCharmedAI", "d8/db0/a06414.html", "d8/db0/a06414" ],
+    [ "CAST_AI", "d6/d1e/a02171.html#a0476b18cfebeb691aabb4344ec4f8af3", null ],
+    [ "ENSURE_AI", "d6/d1e/a02171.html#afbd9552e4d9ae2fb45fe846c8e9775cf", null ],
+    [ "SelectTargetMethod", "d6/d1e/a02171.html#a482ee472018cb5f0e11addaabad35c3d", [
+      [ "Random", "d6/d1e/a02171.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23", null ],
+      [ "MaxThreat", "d6/d1e/a02171.html#a482ee472018cb5f0e11addaabad35c3da8a65bf968cbf5bef0f097c4f6cc842c0", null ],
+      [ "MinThreat", "d6/d1e/a02171.html#a482ee472018cb5f0e11addaabad35c3da01cd0e3f1d186cc67cb2235ac1e02fa4", null ],
+      [ "MaxDistance", "d6/d1e/a02171.html#a482ee472018cb5f0e11addaabad35c3da26566fa367c162fcc3c6639f66c6b611", null ],
+      [ "MinDistance", "d6/d1e/a02171.html#a482ee472018cb5f0e11addaabad35c3da334b6577674b84a8854d5281a52e48b1", null ]
     ] ],
-    [ "AITarget", "d6/d1e/a02171.html#a0160eb61118b5e41325297a2e1691805", [
-      [ "AITARGET_SELF", "d6/d1e/a02171.html#a0160eb61118b5e41325297a2e1691805a4b428b5bdc3edc7ea5f9ca4c9780e7f2", null ],
-      [ "AITARGET_VICTIM", "d6/d1e/a02171.html#a0160eb61118b5e41325297a2e1691805a7a53e2d219f908fcf583c5c00d5d9452", null ],
-      [ "AITARGET_ENEMY", "d6/d1e/a02171.html#a0160eb61118b5e41325297a2e1691805a96629d4be8c89fe161fecd4a8fc34439", null ],
-      [ "AITARGET_ALLY", "d6/d1e/a02171.html#a0160eb61118b5e41325297a2e1691805a0a4905e11672a2854778c1c2c8221b56", null ],
-      [ "AITARGET_BUFF", "d6/d1e/a02171.html#a0160eb61118b5e41325297a2e1691805a1dedb7d4847bb64f81a7760ce25670ed", null ],
-      [ "AITARGET_DEBUFF", "d6/d1e/a02171.html#a0160eb61118b5e41325297a2e1691805aad9b55cf2a0d16b9eb1620544f0e3654", null ]
-    ] ],
-    [ "GetAISpellInfo", "d6/d1e/a02171.html#a1ed41ad074263f6c0c63f38b7f51414b", null ],
-    [ "GetInstanceAI", "d6/d1e/a02171.html#a6650ccba23715eea545340cd3e712233", null ],
-    [ "InstanceHasScript", "d6/d1e/a02171.html#aad76768c8aee9ce3ac24657437adb0de", null ],
-    [ "RAND", "d6/d1e/a02171.html#a95d9a0c5ba0d54645670ba51c16ed33c", null ]
+    [ "EnsureAI", "d6/d1e/a02171.html#a1c66b73f1d3e1e8031c25ae739f094e6", null ]
 ];

@@ -1,5 +1,7 @@
 var a27286 =
 [
-    [ "achievement_killed_exp_or_honor_target", "de/da3/a27286.html#aad432878c97af698dd1cc4019d716281", null ],
-    [ "OnCheck", "de/da3/a27286.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
+    [ "CalcPeriodic", "de/da3/a27286.html#af787d0c8738284e757f808e7d138bdc6", null ],
+    [ "PrepareAuraScript", "de/da3/a27286.html#a383db196133bbecee06fe443fdb1bc24", null ],
+    [ "Register", "de/da3/a27286.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
+    [ "Update", "de/da3/a27286.html#af3f4a7b82e099313d609df7f85f02d00", null ]
 ];

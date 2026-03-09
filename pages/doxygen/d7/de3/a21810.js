@@ -1,6 +1,6 @@
 var a21810 =
 [
-    [ "PrepareSpellScript", "d7/de3/a21810.html#a072a5228690b929af3b65d771bf5f485", null ],
-    [ "Register", "d7/de3/a21810.html#a87235eb9494edd94221f0380e815aa6b", null ],
-    [ "SetDest", "d7/de3/a21810.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
+    [ "SACDeactivateEvent", "d7/de3/a21810.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
+    [ "Execute", "d7/de3/a21810.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
+    [ "_owner", "d7/de3/a21810.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
 ];

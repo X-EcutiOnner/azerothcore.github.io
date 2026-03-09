@@ -1,10 +1,10 @@
 var a09370 =
 [
-    [ "NearestGameObjectEntryInObjectRangeCheck", "d6/dc1/a09370.html#a7d57ae865868d4848caf088c4520b2a7", null ],
-    [ "NearestGameObjectEntryInObjectRangeCheck", "d6/dc1/a09370.html#a28d97af524c2bab39e1bd2e5508e434b", null ],
-    [ "operator()", "d6/dc1/a09370.html#ad0c6798e28784ed547102414f4c6a31f", null ],
-    [ "i_entry", "d6/dc1/a09370.html#a5d19a23e7da2e5e5ed417d0a9623ffbb", null ],
-    [ "i_obj", "d6/dc1/a09370.html#a104b8bece6ea78ba049dc592e54311be", null ],
-    [ "i_onlySpawned", "d6/dc1/a09370.html#a2a58a6bcff73142e21c082bf2c11eff2", null ],
-    [ "i_range", "d6/dc1/a09370.html#a94fc995a14f84060f3bfe5827f17b95e", null ]
+    [ "iterator", "d6/dc1/a09370.html#a6bf9d06cfe6cb2e7df465ebf2acc099f", null ],
+    [ "begin", "d6/dc1/a09370.html#a1e4e67ba11ac8da077942a6581647bf3", null ],
+    [ "end", "d6/dc1/a09370.html#a266acb421cfc6ccc56dc2acff3202971", null ],
+    [ "getFirst", "d6/dc1/a09370.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05", null ],
+    [ "getLast", "d6/dc1/a09370.html#a46a36813eaf752815a3f8c739db88a5d", null ],
+    [ "rbegin", "d6/dc1/a09370.html#ae69734978b5eec009a696861b7b7152b", null ],
+    [ "rend", "d6/dc1/a09370.html#a3f7b88b333f1da3a6ffdfc8ec31d8f52", null ]
 ];

@@ -1,10 +1,5 @@
 var a19714 =
 [
-    [ "npc_molten_golem", "d6/d0d/a19714.html#a38350948396b7df97837780531f79515", null ],
-    [ "DamageTaken", "d6/d0d/a19714.html#aa3521246b0c2bed18b5466879ec1d107", null ],
-    [ "DoAction", "d6/d0d/a19714.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
-    [ "Reset", "d6/d0d/a19714.html#a24e23d0959bcda5be05786381a35ac77", null ],
-    [ "UpdateAI", "d6/d0d/a19714.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
-    [ "events", "d6/d0d/a19714.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
-    [ "m_pInstance", "d6/d0d/a19714.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
+    [ "npc_mr_bigglesworth", "d6/d0d/a19714.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
+    [ "JustDied", "d6/d0d/a19714.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
 ];

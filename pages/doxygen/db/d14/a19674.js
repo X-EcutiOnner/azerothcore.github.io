@@ -1,9 +1,16 @@
 var a19674 =
 [
-    [ "HandleOnEffectApply", "db/d14/a19674.html#a6ab047004cc901331d747641f218cf6a", null ],
-    [ "HandleOnEffectRemove", "db/d14/a19674.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
-    [ "PrepareAuraScript", "db/d14/a19674.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
-    [ "Register", "db/d14/a19674.html#a83b0d414a6e97b434f82492fa01ac385", null ],
-    [ "Validate", "db/d14/a19674.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
-    [ "_drakeGUID", "db/d14/a19674.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
+    [ "boss_thaddiusAI", "db/d14/a19674.html#a8a25d56cb38b755fec6f18a9616632e2", null ],
+    [ "DoAction", "db/d14/a19674.html#aa9697fa990b9d84f3cc9496df1cb4234", null ],
+    [ "IsAnyPlayerInMeleeRange", "db/d14/a19674.html#aa5175bb29e16c1c421cf16207e890d57", null ],
+    [ "JustDied", "db/d14/a19674.html#a2ec7bfa46d972cdd857289693acdc965", null ],
+    [ "JustEngagedWith", "db/d14/a19674.html#a52ec355e0ddd2a29b06b473303941b46", null ],
+    [ "JustSummoned", "db/d14/a19674.html#a1aa9a09089a2070eda14fda1bc51f0fe", null ],
+    [ "KilledUnit", "db/d14/a19674.html#a94f7852267620b0a77c2e1003f080589", null ],
+    [ "Reset", "db/d14/a19674.html#ae7b69b5e83fdbaa3df25dda989eeaf07", null ],
+    [ "UpdateAI", "db/d14/a19674.html#a5eef08082268fa181d4d396fc952dbcd", null ],
+    [ "ballLightningEnabled", "db/d14/a19674.html#a487582d59f0d717c3ec53679ad36f99a", null ],
+    [ "resetTimer", "db/d14/a19674.html#aba9f23389d5f6724883dc9f7e607a351", null ],
+    [ "reviveTimer", "db/d14/a19674.html#a11388e745e81c3ad8ba7d97812a17203", null ],
+    [ "summonTimer", "db/d14/a19674.html#a82288ef27f720b5f0f84bfd0ac6b9ccb", null ]
 ];

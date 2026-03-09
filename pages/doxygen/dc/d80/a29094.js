@@ -1,7 +1,10 @@
 var a29094 =
 [
-    [ "_pad", "dc/d80/a29094.html#ad6e8aff776dfb6fa95c30d0318b3af25", null ],
-    [ "Count", "dc/d80/a29094.html#ac90dd584efc679554d4cee31c988c7c8", null ],
-    [ "Name", "dc/d80/a29094.html#ae93b772cbbe91b9ed55c78e22317c8dd", null ],
-    [ "StartIndex", "dc/d80/a29094.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa", null ]
+    [ "HasFlag", "dc/d80/a29094.html#abe23ca5437589a38ea57bc93a6197911", null ],
+    [ "CollisionHeight", "dc/d80/a29094.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
+    [ "CollisionWidth", "dc/d80/a29094.html#ab79497759cf169348b8922301fc43b2f", null ],
+    [ "Flags", "dc/d80/a29094.html#a3bb96e232124771e78f8b5db53405106", null ],
+    [ "Id", "dc/d80/a29094.html#aa19fec147703c7542be260c8ec5a0446", null ],
+    [ "MountHeight", "dc/d80/a29094.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
+    [ "Scale", "dc/d80/a29094.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
 ];

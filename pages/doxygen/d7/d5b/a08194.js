@@ -1,10 +1,14 @@
 var a08194 =
 [
-    [ "Puppet", "d7/d5b/a08194.html#ab0082936291e6b7f5370656c7c9ed948", null ],
-    [ "GetOwner", "d7/d5b/a08194.html#a38760bce8e8ebf28ae0143ad2931afd5", null ],
-    [ "InitStats", "d7/d5b/a08194.html#ac5dd23d7cf6d4b4a2ba073ae1128181b", null ],
-    [ "InitSummon", "d7/d5b/a08194.html#abfc97f1d25cb1ac27b1bed6f61867fa3", null ],
-    [ "RemoveFromWorld", "d7/d5b/a08194.html#a61dcfc821c2221d1747fcb2180e03bfd", null ],
-    [ "Update", "d7/d5b/a08194.html#a5281497d7689e1dd10f89b5a9f83006f", null ],
-    [ "m_owner", "d7/d5b/a08194.html#adae18eabdba52ef8a9f7c5c8768e060c", null ]
+    [ "LfgQueueStatusData", "d7/d5b/a08194.html#af50fc3422feb137a7ccd820e2ac2fe44", null ],
+    [ "dps", "d7/d5b/a08194.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a", null ],
+    [ "dungeonId", "d7/d5b/a08194.html#a9a6288f9e14e593e147b4f60a1dc8991", null ],
+    [ "healers", "d7/d5b/a08194.html#a61b2c2f4391022c7e4ba3972c4467a74", null ],
+    [ "queuedTime", "d7/d5b/a08194.html#a398efafa1ef7faa6600d6fdb28306f49", null ],
+    [ "tanks", "d7/d5b/a08194.html#a74f54d22ca9e2b6711bf363737b9ff06", null ],
+    [ "waitTime", "d7/d5b/a08194.html#aa794f234bf93e66916f7eadb986f17ef", null ],
+    [ "waitTimeAvg", "d7/d5b/a08194.html#af44b91dd7ddfb702662663f989f026fc", null ],
+    [ "waitTimeDps", "d7/d5b/a08194.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf", null ],
+    [ "waitTimeHealer", "d7/d5b/a08194.html#abf57fbbaac89b08bacf0731e3a8b65e3", null ],
+    [ "waitTimeTank", "d7/d5b/a08194.html#a73cdcd16181375a7d428e6b50cb1e1e6", null ]
 ];

@@ -1,14 +1,8 @@
 var a13082 =
 [
-    [ "boss_selin_fireheart", "d9/dd3/a13082.html#ae3270a227550391fd752d3f241e5ea46", null ],
-    [ "CanAIAttack", "d9/dd3/a13082.html#a36f409a006a09812452052d554d5e810", null ],
-    [ "JustDied", "d9/dd3/a13082.html#a1330c499c04aee849bcbb3ebfe30eb1e", null ],
-    [ "JustEngagedWith", "d9/dd3/a13082.html#ad414ec34127bffbae1b6b5f9a794f28c", null ],
-    [ "KilledUnit", "d9/dd3/a13082.html#a0fc74ba75a482a67d19f4323df1f5e6c", null ],
-    [ "MovementInform", "d9/dd3/a13082.html#a8072412acc5f52fdeea3b4f740021a91", null ],
-    [ "OnPowerUpdate", "d9/dd3/a13082.html#a71677fbd88ab14b6fb40e3bc9897c982", null ],
-    [ "Reset", "d9/dd3/a13082.html#a6d6cab76647794f971c9a6837d8fbf8c", null ],
-    [ "SelectNearestCrystal", "d9/dd3/a13082.html#afe01bdf64e5f84c7aa5ee0f164ac29c0", null ],
-    [ "SpawnCrystals", "d9/dd3/a13082.html#a5c874662b9bf518782b2dc824f1eb03d", null ],
-    [ "SummonedCreatureDies", "d9/dd3/a13082.html#a396341d39bead723a7c6f716c08aa447", null ]
+    [ "npc_kernobeeAI", "d9/dd3/a13082.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
+    [ "SetGUID", "d9/dd3/a13082.html#ab704b138670279f6d731a6bb58ac6d10", null ],
+    [ "UpdateAI", "d9/dd3/a13082.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
+    [ "checkTimer", "d9/dd3/a13082.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
+    [ "playerGUID", "d9/dd3/a13082.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
 ];

@@ -1,31 +1,48 @@
 var a02846 =
 [
-    [ "npcs_riverbreeze_and_silversky", "d4/dfe/a15944.html", "d4/dfe/a15944" ],
-    [ "at_ancient_leaf", "de/d2c/a15948.html", "de/d2c/a15948" ],
-    [ "AncientMisc", "d5/d4c/a02846.html#adaffe09a7c2b9f9bfdc48d5068c18068", [
-      [ "QUEST_ANCIENT_LEAF", "d5/d4c/a02846.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3", null ],
-      [ "NPC_VARTRUS", "d5/d4c/a02846.html#adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99", null ],
-      [ "NPC_STOMA", "d5/d4c/a02846.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81", null ],
-      [ "NPC_HASTAT", "d5/d4c/a02846.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04", null ],
-      [ "CREATURE_GROUP_ANCIENTS", "d5/d4c/a02846.html#adaffe09a7c2b9f9bfdc48d5068c18068a929e77d337e49edf4de033ddb8ccf149", null ]
+    [ "DataHeader", "d5/d4c/a02846.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "OnyxiasLairScriptName", "d5/d4c/a02846.html#a411397a87d359be66de671f07dbefefe", null ],
+    [ "RegisterOnyxiasLairCreatureAI", "d5/d4c/a02846.html#a4becd56438e0f64fd4e609bda9b542a4", null ],
+    [ "eAchievementData", "d5/d4c/a02846.html#aca087c1cb2fbca0c938185dd321856c4", [
+      [ "ACHIEV_CRITERIA_MANY_WHELPS_10_PLAYER", "d5/d4c/a02846.html#aca087c1cb2fbca0c938185dd321856c4a57918d5eb6d9b6dad01b98eec717c611", null ],
+      [ "ACHIEV_CRITERIA_MANY_WHELPS_25_PLAYER", "d5/d4c/a02846.html#aca087c1cb2fbca0c938185dd321856c4ab4cb5a7391642e00f98bf8c4feca4931", null ],
+      [ "ACHIEV_CRITERIA_DEEP_BREATH_10_PLAYER", "d5/d4c/a02846.html#aca087c1cb2fbca0c938185dd321856c4a7d5dc918b0b3edc2fc3863242904bb22", null ],
+      [ "ACHIEV_CRITERIA_DEEP_BREATH_25_PLAYER", "d5/d4c/a02846.html#aca087c1cb2fbca0c938185dd321856c4a7c0f8695a55dfedf6c942dead4b86bb9", null ],
+      [ "ACHIEV_TIMED_START_EVENT", "d5/d4c/a02846.html#aca087c1cb2fbca0c938185dd321856c4a6ac3776ff6343c84361329e38055da04", null ]
     ] ],
-    [ "RiverbreezeAndSilversky", "d5/d4c/a02846.html#acc75d54553750c832fe50b6cb0c42427", [
-      [ "SPELL_CENARION_BEACON", "d5/d4c/a02846.html#acc75d54553750c832fe50b6cb0c42427aefb9fe5d61b5fc5b810f077e47334d49", null ],
-      [ "ITEM_CENARION_BEACON", "d5/d4c/a02846.html#acc75d54553750c832fe50b6cb0c42427a677781938bceb63690d56c2e2c445f46", null ],
-      [ "ACTION_CREATE_CENARION_BEACON", "d5/d4c/a02846.html#acc75d54553750c832fe50b6cb0c42427acc340298bf9880e22b326c208affb4a1", null ],
-      [ "NPC_ARATHANDRIS_SILVERSKY", "d5/d4c/a02846.html#acc75d54553750c832fe50b6cb0c42427a15af7b53355112caefafe032f27b15d6", null ],
-      [ "NPC_MAYBESS_RIVERBREEZE", "d5/d4c/a02846.html#acc75d54553750c832fe50b6cb0c42427a3362be702aaaa11f11e1df72d0a8e149", null ],
-      [ "QUEST_CLEASING_FELWOOD_A", "d5/d4c/a02846.html#acc75d54553750c832fe50b6cb0c42427ab52d337e733144a5a21fce9825f80fff", null ],
-      [ "QUEST_CLEASING_FELWOOD_H", "d5/d4c/a02846.html#acc75d54553750c832fe50b6cb0c42427a24da8ad4e5cec47c9a66a1e03e07383f", null ],
-      [ "GOSSIP_MENU_SILVERSKY", "d5/d4c/a02846.html#acc75d54553750c832fe50b6cb0c42427a201df035f33936e3020580c82101e7f8", null ],
-      [ "GOSSIP_MENU_RIVERBREEZE", "d5/d4c/a02846.html#acc75d54553750c832fe50b6cb0c42427ac00e8bf57bf7a4be3444d02de30309dc", null ],
-      [ "GOSSIP_OPTION_BEACON", "d5/d4c/a02846.html#acc75d54553750c832fe50b6cb0c42427a0999bd0707a4dbe03c5715081af725e1", null ],
-      [ "TEXT_SILVERSKY_1", "d5/d4c/a02846.html#acc75d54553750c832fe50b6cb0c42427a3148f1367e563486599162f32be4af21", null ],
-      [ "TEXT_SILVERSKY_2", "d5/d4c/a02846.html#acc75d54553750c832fe50b6cb0c42427a62011283d742f7947270994268e055de", null ],
-      [ "TEXT_SILVERSKY_3", "d5/d4c/a02846.html#acc75d54553750c832fe50b6cb0c42427af033b1f55bfbe0ccfd66cd1df7b50289", null ],
-      [ "TEXT_RIVERBREEZE_1", "d5/d4c/a02846.html#acc75d54553750c832fe50b6cb0c42427ac53b44e51816fbef84a98123a317125e", null ],
-      [ "TEXT_RIVERBREEZE_2", "d5/d4c/a02846.html#acc75d54553750c832fe50b6cb0c42427a06658a3d493565d3f8a42555e037fa40", null ],
-      [ "TEXT_RIVERBREEZE_3", "d5/d4c/a02846.html#acc75d54553750c832fe50b6cb0c42427a1d15502f6a496af4174cb3c5960818b5", null ]
+    [ "eCreatures", "d5/d4c/a02846.html#a59602e8f26d052c0b6f6bdfe896510b8", [
+      [ "NPC_ONYXIA", "d5/d4c/a02846.html#a59602e8f26d052c0b6f6bdfe896510b8ac5297157e46436388d2a4e835c06de6e", null ],
+      [ "NPC_ONYXIAN_WHELP", "d5/d4c/a02846.html#a59602e8f26d052c0b6f6bdfe896510b8a29f399e186a17314b99be364d738371a", null ],
+      [ "NPC_ONYXIAN_LAIR_GUARD", "d5/d4c/a02846.html#a59602e8f26d052c0b6f6bdfe896510b8ac5a305bf78c6e737c665da793df48e49", null ],
+      [ "NPC_KELESETH", "d0/d18/a04463.html#a59602e8f26d052c0b6f6bdfe896510b8a1aa34e102fe5c920939fbbed64fd3bdd", null ],
+      [ "NPC_DALRONN", "d0/d18/a04463.html#a59602e8f26d052c0b6f6bdfe896510b8adc8eb044588758e3cfb4ed8c699e483d", null ],
+      [ "NPC_DALRONN_GHOST", "d0/d18/a04463.html#a59602e8f26d052c0b6f6bdfe896510b8ad6b59b3f0fa1841b3dbce49b32ce88f7", null ],
+      [ "NPC_SKARVALD", "d0/d18/a04463.html#a59602e8f26d052c0b6f6bdfe896510b8a531d439e3ed6f40d45aaf591d93722af", null ],
+      [ "NPC_SKARVALD_GHOST", "d0/d18/a04463.html#a59602e8f26d052c0b6f6bdfe896510b8aa4eafbdfd4632f9b207feb03c1c9906e", null ],
+      [ "NPC_INGVAR", "d0/d18/a04463.html#a59602e8f26d052c0b6f6bdfe896510b8aa8071c2550f86111dabfe071bb8905ec", null ],
+      [ "NPC_DARK_RANGER_MARRAH", "d0/d18/a04463.html#a59602e8f26d052c0b6f6bdfe896510b8a629c86c326a68aa9c57e75b658644e27", null ],
+      [ "NPC_ENSLAVED_PROTO_DRAKE", "d0/d18/a04463.html#a59602e8f26d052c0b6f6bdfe896510b8ab4269b45260da78a67bfdab9a95d8c2c", null ],
+      [ "NPC_ICHOR_GLOBULE", "dd/d44/a04097.html#a59602e8f26d052c0b6f6bdfe896510b8a5c39abb26566ef9fb1e3afe0cecc9762", null ]
     ] ],
-    [ "AddSC_felwood", "d5/d4c/a02846.html#a63ae28c9f250057b35a18fb585c6a2cf", null ]
+    [ "eGameObjects", "d5/d4c/a02846.html#a0b356f44d43edb1bff30f404c9469250", [
+      [ "GO_WHELP_SPAWNER", "d5/d4c/a02846.html#a0b356f44d43edb1bff30f404c9469250adf4548283b784850a8154cefa0fd360d", null ],
+      [ "GO_WHELP_EGG", "d5/d4c/a02846.html#a0b356f44d43edb1bff30f404c9469250a4695e1a78b0f6094399a19023996f851", null ],
+      [ "GO_MAIN_GATE", "d3/d45/a04280.html#a0b356f44d43edb1bff30f404c9469250af7f4bfc022fbae9247e3389c3e755e0b", null ],
+      [ "GO_SOUTH_PORTCULLIS", "d3/d45/a04280.html#a0b356f44d43edb1bff30f404c9469250a5ebaf585ae3da6d909256800aebebbfc", null ],
+      [ "GO_EAST_PORTCULLIS", "d3/d45/a04280.html#a0b356f44d43edb1bff30f404c9469250a8a57a3fcd514b7a621e04ae73c2647c9", null ],
+      [ "GO_NORTH_PORTCULLIS", "d3/d45/a04280.html#a0b356f44d43edb1bff30f404c9469250af8f7a209e9b9e0909610ffbcb8fe94ca", null ],
+      [ "GO_CHAMPIONS_LOOT", "d3/d45/a04280.html#a0b356f44d43edb1bff30f404c9469250af347b8590e6d6688cd7cd8a901a01839", null ],
+      [ "GO_CHAMPIONS_LOOT_H", "d3/d45/a04280.html#a0b356f44d43edb1bff30f404c9469250a911cbac98e241072502109aef1a58966", null ],
+      [ "GO_EADRIC_LOOT", "d3/d45/a04280.html#a0b356f44d43edb1bff30f404c9469250ad29f747e71326720660778477708682f", null ],
+      [ "GO_EADRIC_LOOT_H", "d3/d45/a04280.html#a0b356f44d43edb1bff30f404c9469250afec277328734b29a227e6942dcc303e1", null ],
+      [ "GO_PALETRESS_LOOT", "d3/d45/a04280.html#a0b356f44d43edb1bff30f404c9469250a22dab9e0abcb8bbe36c42b492a6ae6b1", null ],
+      [ "GO_PALETRESS_LOOT_H", "d3/d45/a04280.html#a0b356f44d43edb1bff30f404c9469250a558835744936913cd5345f9435739ee0", null ]
+    ] ],
+    [ "eInstanceData", "d5/d4c/a02846.html#a7395e25d8049b2c60a1c7191d197f5cc", [
+      [ "DATA_ONYXIA", "d5/d4c/a02846.html#a7395e25d8049b2c60a1c7191d197f5cca8fddf4be448f687691188b276d390817", null ],
+      [ "MAX_ENCOUNTER", "d5/d4c/a02846.html#a7395e25d8049b2c60a1c7191d197f5cca7913656ef56deb3793c0c5f3d999d80d", null ],
+      [ "DATA_WHELP_SUMMONED", "d5/d4c/a02846.html#a7395e25d8049b2c60a1c7191d197f5cca620ba8d85c596c11f1df0132b0117fbc", null ],
+      [ "DATA_DEEP_BREATH_FAILED", "d5/d4c/a02846.html#a7395e25d8049b2c60a1c7191d197f5cca3678a84e6e3ed1c831e230a816a5475d", null ]
+    ] ],
+    [ "GetOnyxiasLairAI", "d5/d4c/a02846.html#a3573a392c09a4df350f96df672ce58ad", null ]
 ];

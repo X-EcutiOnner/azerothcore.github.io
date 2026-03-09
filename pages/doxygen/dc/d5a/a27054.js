@@ -1,7 +1,10 @@
 var a27054 =
 [
-    [ "HandleDummy", "dc/d5a/a27054.html#ab8916b5c232d7b55f4a6bb3e9f9ab122", null ],
-    [ "PrepareSpellScript", "dc/d5a/a27054.html#ac8cfa0b54c585f12682602a678d7bf2d", null ],
-    [ "Register", "dc/d5a/a27054.html#aee02661fa8845afd666ca27163b4a761", null ],
-    [ "Validate", "dc/d5a/a27054.html#aba9079e2418281315029c839b22df1c5", null ]
+    [ "GetTarget", "dc/d5a/a27054.html#a1bfcb90731a93e4897c9d4fbf46d2a01", null ],
+    [ "HandleEffectPeriodicPlatform", "dc/d5a/a27054.html#ac499c8adcd74206ad60a7fc24d32cc3c", null ],
+    [ "HandleEffectPeriodicSelf", "dc/d5a/a27054.html#a2272a970ca5edca6f7353beb2279c29c", null ],
+    [ "PerformKick", "dc/d5a/a27054.html#aa192aa92cc5c55f8bf2306c4463a3efc", null ],
+    [ "PrepareAuraScript", "dc/d5a/a27054.html#a489f1da8f8008db8f096470f28455ef9", null ],
+    [ "Register", "dc/d5a/a27054.html#a164c94c63cf03b98ee085b18a0a8af9a", null ],
+    [ "AuraEffectHandleModes", "dc/d5a/a27054.html#a91d53900d8c6d0dd2a7519a4836aa05b", null ]
 ];

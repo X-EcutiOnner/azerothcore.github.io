@@ -1,5 +1,6 @@
 var a13018 =
 [
-    [ "at_karazhan_side_entrance", "d1/d5c/a13018.html#abdaa7339a53941e2e89c4fcd439395fc", null ],
-    [ "_OnTrigger", "d1/d5c/a13018.html#a80d0018a9442ef7f0834dc329047e135", null ]
+    [ "npc_flamewaker_priestAI", "d4/d3f/a13022.html", "d4/d3f/a13022" ],
+    [ "npc_flamewaker_priest", "d1/d5c/a13018.html#a2ae4d75192f8ddc60d092b9a129e636e", null ],
+    [ "GetAI", "d1/d5c/a13018.html#a8a38c2c54ae8366496eb58145f75eac9", null ]
 ];

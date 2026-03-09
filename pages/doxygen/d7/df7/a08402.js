@@ -1,5 +1,10 @@
 var a08402 =
 [
-    [ "Color", "d7/df7/a08402.html#ad6232c851b72ce04d2dcfa00596fc1df", null ],
-    [ "Content", "d7/df7/a08402.html#a5437849d9b7f229c4466e174d619d057", null ]
+    [ "IsCastable", "d7/df7/a08402.html#a677b21866e24d2c94de28d96db07aafd", null ],
+    [ "MoneyCost", "d7/df7/a08402.html#af20caa962ba1f5edb376b78b6b35b119", null ],
+    [ "ReqAbility", "d7/df7/a08402.html#a101686190208be6fb46a46768ca779f9", null ],
+    [ "ReqLevel", "d7/df7/a08402.html#a45e87439b1ae356ccb9ff381f58f942e", null ],
+    [ "ReqSkillLine", "d7/df7/a08402.html#a008ff0df36f2e19534a5fda97616f14f", null ],
+    [ "ReqSkillRank", "d7/df7/a08402.html#aa151d559cb276797a39dd203fd1b24c2", null ],
+    [ "SpellId", "d7/df7/a08402.html#ac289744925387c199fde756867bbfc57", null ]
 ];

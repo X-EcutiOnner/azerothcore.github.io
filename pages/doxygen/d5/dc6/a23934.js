@@ -1,9 +1,6 @@
 var a23934 =
 [
-    [ "boss_high_botanist_freywinn", "d5/dc6/a23934.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
-    [ "JustDied", "d5/dc6/a23934.html#a7b370482ea195d0305cba339ce0cbab3", null ],
-    [ "JustEngagedWith", "d5/dc6/a23934.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
-    [ "KilledUnit", "d5/dc6/a23934.html#a80a997e0d12c175da0a46d7362890b9c", null ],
-    [ "ResumeEncounter", "d5/dc6/a23934.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
-    [ "SummonedCreatureDies", "d5/dc6/a23934.html#a7f1a02d4b944191471f59ba728b6372e", null ]
+    [ "instance_mechanar_InstanceMapScript", "da/d00/a23938.html", "da/d00/a23938" ],
+    [ "instance_mechanar", "d5/dc6/a23934.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
+    [ "GetInstanceScript", "d5/dc6/a23934.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
 ];

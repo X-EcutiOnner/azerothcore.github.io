@@ -1,10 +1,11 @@
 var a08950 =
 [
-    [ "PetLevelInfo", "de/d45/a08950.html#ad8e757abeae500063e963ffef5469809", null ],
-    [ "armor", "de/d45/a08950.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
-    [ "health", "de/d45/a08950.html#a322dcab3af8f98726aa6addf38e8891b", null ],
-    [ "mana", "de/d45/a08950.html#a27352e73d6ed3945e398e0634dee1e96", null ],
-    [ "max_dmg", "de/d45/a08950.html#a092f2600f64f2af885142b2e96d1fe64", null ],
-    [ "min_dmg", "de/d45/a08950.html#a299d1c7f4c28893e09de79cd816afa95", null ],
-    [ "stats", "de/d45/a08950.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
+    [ "UnitActionBarEntry", "de/d45/a08950.html#a41f9020c4811b14fc543ddece6af86d7", null ],
+    [ "GetAction", "de/d45/a08950.html#afd77e2f64ec856059759d05ddf77876e", null ],
+    [ "GetType", "de/d45/a08950.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
+    [ "IsActionBarForSpell", "de/d45/a08950.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
+    [ "SetAction", "de/d45/a08950.html#aa00953783b0b3de3beb755a054c77730", null ],
+    [ "SetActionAndType", "de/d45/a08950.html#a110840d38445795957ee0425175b4fb6", null ],
+    [ "SetType", "de/d45/a08950.html#a38e0dcad391d09e475f90be5a5382f78", null ],
+    [ "packedData", "de/d45/a08950.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
 ];

@@ -1,9 +1,6 @@
 var a09934 =
 [
-    [ "TransportAnimation", "d9/d8b/a09934.html#a775b84b54deefd38af40222afd82d572", null ],
-    [ "GetAnimNode", "d9/d8b/a09934.html#a73b56750c90afce38dbf57793bae16f3", null ],
-    [ "GetAnimRotation", "d9/d8b/a09934.html#aa2c892f14712828acaa85fa6e6d919bb", null ],
-    [ "Path", "d9/d8b/a09934.html#a7c45df781dda8058d281a2cf7e5fe5fb", null ],
-    [ "Rotations", "d9/d8b/a09934.html#a5fa771fb487c437d7d6229eadf7d90c3", null ],
-    [ "TotalTime", "d9/d8b/a09934.html#a59a31ffc2e642a3950b0509130a76ad4", null ]
+    [ "DoorInfo", "d9/d8b/a09934.html#a26f4849a1d68df466e6db0ccbb8d001b", null ],
+    [ "bossInfo", "d9/d8b/a09934.html#a14f7742a1b272d0cd76dda6ce28cde26", null ],
+    [ "type", "d9/d8b/a09934.html#ad77a91752ea10a11c8e73655e63dd5c1", null ]
 ];

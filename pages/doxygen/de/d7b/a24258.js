@@ -1,14 +1,15 @@
 var a24258 =
 [
-    [ "npc_maghar_captiveAI", "de/d7b/a24258.html#abab2cfe84f4bb83fea3b35202a957bb5", null ],
-    [ "JustDied", "de/d7b/a24258.html#adbef78d8c908bfbce6ea506c55fb6922", null ],
-    [ "JustEngagedWith", "de/d7b/a24258.html#a2a0ec4a496c7352ba88ceef99eb769e4", null ],
-    [ "JustSummoned", "de/d7b/a24258.html#afe55f91acd8c47a758b8d08bd07d763f", null ],
-    [ "Reset", "de/d7b/a24258.html#abebcdcb102f8d338ae0b792708940cd7", null ],
-    [ "SpellHitTarget", "de/d7b/a24258.html#ab4f4deaae35fdbd602c9925f26e6d0e7", null ],
-    [ "UpdateAI", "de/d7b/a24258.html#a295cbae9196e320fabbb4cfb9dc33150", null ],
-    [ "WaypointReached", "de/d7b/a24258.html#abfbba8942df57e974ab24ad693c16e70", null ],
-    [ "ChainLightningTimer", "de/d7b/a24258.html#aa00a6978074f62d3d8ddead64d3240cf", null ],
-    [ "FrostShockTimer", "de/d7b/a24258.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f", null ],
-    [ "HealTimer", "de/d7b/a24258.html#a31613adba706f3b5f948f2f7c4222038", null ]
+    [ "dragonmaw_race_npc", "de/d7b/a24258.html#ad93bcd14a4fd05c9e8a1aee4dd53d4aa", null ],
+    [ "FailQuest", "de/d7b/a24258.html#a15a1223f9dc5d3979485a753687f169e", null ],
+    [ "FinishRace", "de/d7b/a24258.html#a2439f54aca4ff28c23d351245099a4fc", null ],
+    [ "MovementInform", "de/d7b/a24258.html#ad0b4ef357605a44a4188c29292303dcf", null ],
+    [ "PathEndReached", "de/d7b/a24258.html#a6b93a5fb6beb8e8b886f6bf8bb58d3d2", null ],
+    [ "Reset", "de/d7b/a24258.html#a0edde2bdb8d4d2204551ebc7a7c41fe9", null ],
+    [ "sQuestAccept", "de/d7b/a24258.html#a539fcaf1dc25a34531d032032c19182e", null ],
+    [ "StartRace", "de/d7b/a24258.html#ac7d20cb0f2a997d2306195da5c9004e8", null ],
+    [ "StartRaceAttacks", "de/d7b/a24258.html#a341528843b89a29711f60a1b932da616", null ],
+    [ "TakeOff", "de/d7b/a24258.html#a8b14aeb1e67059a159f42aad578ccbfb", null ],
+    [ "UpdateAI", "de/d7b/a24258.html#a5d84467b3fa0c3eefcf7054d0dde472c", null ],
+    [ "_playerGUID", "de/d7b/a24258.html#a8a172511afed700d5c0fa1d5de4cb379", null ]
 ];

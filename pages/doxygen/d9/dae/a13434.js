@@ -1,6 +1,6 @@
 var a13434 =
 [
-    [ "HandleActivateObject", "d9/dae/a13434.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
-    [ "PrepareSpellScript", "d9/dae/a13434.html#ad55914fdc6771e09a508572d59ad30ed", null ],
-    [ "Register", "d9/dae/a13434.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
+    [ "npc_scarlet_ghoulAI", "d3/d87/a13438.html", "d3/d87/a13438" ],
+    [ "npc_scarlet_ghoul", "d9/dae/a13434.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
+    [ "GetAI", "d9/dae/a13434.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
 ];

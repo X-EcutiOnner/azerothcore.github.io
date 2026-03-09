@@ -1,6 +1,7 @@
 var a02636 =
 [
-    [ "CharacterDatabase", "dd/d32/a02636.html#a7e7534bc66d79434bd280b77cb124eec", null ],
-    [ "LoginDatabase", "dd/d32/a02636.html#a2cf25eafe7f2f73b61ccde11d55daf0c", null ],
-    [ "WorldDatabase", "dd/d32/a02636.html#afa9a6509f9913c9c7dd3081523badd7c", null ]
+    [ "FieldTypeToString", "dd/d32/a02636.html#a9b1d39b7abfe176191c0ed27188ed310", null ],
+    [ "InitializeDatabaseFieldMetadata", "dd/d32/a02636.html#a5e0e57902060d1fcd32688acb949b98e", null ],
+    [ "MysqlTypeToFieldType", "dd/d32/a02636.html#a1a26932646b97d033efdf53078561a90", null ],
+    [ "SizeForType", "dd/d32/a02636.html#ae077e892df09ce687a0a50be949ad69f", null ]
 ];

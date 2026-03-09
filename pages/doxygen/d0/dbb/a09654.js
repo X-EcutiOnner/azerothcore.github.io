@@ -1,9 +1,8 @@
 var a09654 =
 [
-    [ "BroadcastTextID", "d0/dbb/a09654.html#a756f24dbee852a7fbe152c0cb082c412", null ],
-    [ "Emotes", "d0/dbb/a09654.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
-    [ "Language", "d0/dbb/a09654.html#a33bc5a0c156918b00380710aeb275d3d", null ],
-    [ "Probability", "d0/dbb/a09654.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
-    [ "Text_0", "d0/dbb/a09654.html#a046d637b91807db067c6e7050184322d", null ],
-    [ "Text_1", "d0/dbb/a09654.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
+    [ "AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck", "d0/dbb/a09654.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf", null ],
+    [ "operator()", "d0/dbb/a09654.html#a2b38f9e66b1ba3bb678d763937852e02", null ],
+    [ "i_funit", "d0/dbb/a09654.html#aed6fe2e6d17e2076a373b32de071cd18", null ],
+    [ "i_obj", "d0/dbb/a09654.html#a65245ce627d5ccfde557f2d7e744ead6", null ],
+    [ "i_range", "d0/dbb/a09654.html#aff91ead572f2ed0d1912dbd0180196d5", null ]
 ];

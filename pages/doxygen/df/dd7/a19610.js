@@ -1,10 +1,15 @@
 var a19610 =
 [
-    [ "npc_oculus_drakegiverAI", "db/dd8/a19614.html", "db/dd8/a19614" ],
-    [ "npc_oculus_drakegiver", "df/dd7/a19610.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
-    [ "GetAI", "df/dd7/a19610.html#aa26a2b82c5e4076ce704d5884895d903", null ],
-    [ "OnGossipHello", "df/dd7/a19610.html#ac00d09d2d81121d562e3303704229c18", null ],
-    [ "OnGossipSelect", "df/dd7/a19610.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
-    [ "RemoveEssence", "df/dd7/a19610.html#a70513d873111c590ca4e33cb446a4438", null ],
-    [ "StoreEssence", "df/dd7/a19610.html#ac8bbe890722aa924a7f0dee161d342c4", null ]
+    [ "boss_maexxnaAI", "df/dd7/a19610.html#a3bf898911798eaa891ef7638a3a2cc20", null ],
+    [ "DoCastWebWrap", "df/dd7/a19610.html#a5d78455f5ba6e30df6644897b4e6ad7e", null ],
+    [ "IsInRoom", "df/dd7/a19610.html#a957bd38232c020611fc24dd8a6e55640", null ],
+    [ "JustDied", "df/dd7/a19610.html#a4f0121aedeff9d44b28e888f5f3d0382", null ],
+    [ "JustEngagedWith", "df/dd7/a19610.html#a9974fc771b3663878964aeb20914fe43", null ],
+    [ "JustSummoned", "df/dd7/a19610.html#ab45b74b3067b42089fee804844ea41dd", null ],
+    [ "KilledUnit", "df/dd7/a19610.html#a11cda2b905ef2381c317a01e4163be00", null ],
+    [ "Reset", "df/dd7/a19610.html#a78385da6845ce8e3075616c24696d0cc", null ],
+    [ "UpdateAI", "df/dd7/a19610.html#a6f0453babfa84764467970369894eb97", null ],
+    [ "events", "df/dd7/a19610.html#a6ddb73eeb18560a08e72dd6ccc5d0c83", null ],
+    [ "summons", "df/dd7/a19610.html#a7ea3de40dfd638db7e34c523a0461335", null ],
+    [ "wraps", "df/dd7/a19610.html#a3bfe3ab90ff6f401c3f7b8655e3abc05", null ]
 ];

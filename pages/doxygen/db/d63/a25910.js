@@ -1,6 +1,6 @@
 var a25910 =
 [
-    [ "PartyTimeEmoteEvent", "db/d63/a25910.html#a525efd58fc8465658208058e6dc5d31c", null ],
-    [ "Execute", "db/d63/a25910.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
-    [ "_player", "db/d63/a25910.html#a61ecb44828c6e4c868def8899791feb3", null ]
+    [ "HandlePeriodicTick", "db/d63/a25910.html#a058eeb1e0489340763a58d92d4bed832", null ],
+    [ "PrepareAuraScript", "db/d63/a25910.html#a3d71859b7e7f914a395f131dd4a6b4ab", null ],
+    [ "Register", "db/d63/a25910.html#ae5a8adc3fe7cc5c5d7dd715449d3442f", null ]
 ];

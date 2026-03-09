@@ -1,10 +1,5 @@
 var a28366 =
 [
-    [ "HasFlag", "d1/df9/a28366.html#abe23ca5437589a38ea57bc93a6197911", null ],
-    [ "CollisionHeight", "d1/df9/a28366.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
-    [ "CollisionWidth", "d1/df9/a28366.html#ab79497759cf169348b8922301fc43b2f", null ],
-    [ "Flags", "d1/df9/a28366.html#a3bb96e232124771e78f8b5db53405106", null ],
-    [ "Id", "d1/df9/a28366.html#aa19fec147703c7542be260c8ec5a0446", null ],
-    [ "MountHeight", "d1/df9/a28366.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
-    [ "Scale", "d1/df9/a28366.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
+    [ "item_mysterious_egg", "d1/df9/a28366.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
+    [ "OnExpire", "d1/df9/a28366.html#a5ea72284626826b75819f89b3b91c540", null ]
 ];

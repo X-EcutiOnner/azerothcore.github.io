@@ -1,4 +1,5 @@
 var a01547 =
 [
-    [ "MapGrid< GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES >", "dd/def/a09412.html", "dd/def/a09412" ]
+    [ "AddonHandler", "d8/dfa/a09858.html", "d8/dfa/a09858" ],
+    [ "sAddOnHandler", "da/ded/a01547.html#a53c18d341aaa47d117be75333e4ab43d", null ]
 ];

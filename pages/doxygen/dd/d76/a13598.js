@@ -1,8 +1,15 @@
 var a13598 =
 [
-    [ "HandleApply", "dd/d76/a13598.html#a2c64240e8675fc76598600ae2632570f", null ],
-    [ "HandleRemove", "dd/d76/a13598.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
-    [ "PrepareAuraScript", "dd/d76/a13598.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
-    [ "Register", "dd/d76/a13598.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
-    [ "Validate", "dd/d76/a13598.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
+    [ "boss_kormok", "dd/d76/a13598.html#a2bacfd366d084cae31b8cc689fb26d0b", null ],
+    [ "DamageTaken", "dd/d76/a13598.html#a2aa7fedea09b4d0526028826be2cb360", null ],
+    [ "IsSummonedBy", "dd/d76/a13598.html#a641bd06b5da44e04534150fc1fc6f9e0", null ],
+    [ "JustDied", "dd/d76/a13598.html#a219bc4f5e13e58bb4a8f79cbc36b5ad7", null ],
+    [ "JustEngagedWith", "dd/d76/a13598.html#a7fc5bb05831e5b8e22c7d59c5c71f87a", null ],
+    [ "JustSummoned", "dd/d76/a13598.html#a49ba1031e5639c3d8fdaf9ae9884a038", null ],
+    [ "Reset", "dd/d76/a13598.html#a70252bf1680510294f62e2c42220156e", null ],
+    [ "SummonedCreatureDespawn", "dd/d76/a13598.html#a6f23b4b006de4b8b5fda6e0203e2f8a7", null ],
+    [ "UpdateAI", "dd/d76/a13598.html#aea5651a98492885eb4d598714df4fd40", null ],
+    [ "_mages", "dd/d76/a13598.html#ae0de3f9848cb9051a18ba15347af3e7a", null ],
+    [ "_scheduler", "dd/d76/a13598.html#a540ef7a05a503a989f93d4b53daacb4b", null ],
+    [ "_summons", "dd/d76/a13598.html#aefaac0c5af45f63faeac6bf9ef1ca7fc", null ]
 ];

@@ -1,6 +1,7 @@
 var a21958 =
 [
-    [ "npc_heated_battleAI", "d4/d35/a21958.html#a2b73957d7890549f4b02488c5527fcef", null ],
-    [ "DamageTaken", "d4/d35/a21958.html#a8422c157214195d7166ede35c9c05d19", null ],
-    [ "Reset", "d4/d35/a21958.html#a11a4f3270ff260e30da89017dad38433", null ]
+    [ "HandleDummy", "d4/d35/a21958.html#abb5726c8afa66a946eefc8767094ea9b", null ],
+    [ "PrepareSpellScript", "d4/d35/a21958.html#ab5d9f8125c75bbd8fbb2717516d3eddd", null ],
+    [ "Register", "d4/d35/a21958.html#a38efc59fcbb40469521419723a1dceb3", null ],
+    [ "Validate", "d4/d35/a21958.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e", null ]
 ];

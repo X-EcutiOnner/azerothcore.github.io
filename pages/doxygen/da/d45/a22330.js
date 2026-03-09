@@ -1,6 +1,6 @@
 var a22330 =
 [
-    [ "HandleHealPct", "da/d45/a22330.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "da/d45/a22330.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "da/d45/a22330.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "HandleDamage", "da/d45/a22330.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
+    [ "PrepareSpellScript", "da/d45/a22330.html#a23b6afe1e35edc4013767b119b8e0218", null ],
+    [ "Register", "da/d45/a22330.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
 ];

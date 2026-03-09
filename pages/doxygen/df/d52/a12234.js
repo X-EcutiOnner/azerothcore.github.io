@@ -1,8 +1,7 @@
 var a12234 =
 [
-    [ "CheckProc", "df/d52/a12234.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "df/d52/a12234.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "df/d52/a12234.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "df/d52/a12234.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "df/d52/a12234.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "player_commandscript", "df/d52/a12234.html#a1565aa67743cfd3e5fe5179b4100bd20", null ],
+    [ "GetCommands", "df/d52/a12234.html#a0e1e8eec0fe449c95c5cf9dd06a0fced", null ],
+    [ "HandlePlayerLearnCommand", "df/d52/a12234.html#a6ca511bcecf73049665772cb80dbcf40", null ],
+    [ "HandlePlayerUnLearnCommand", "df/d52/a12234.html#a22fddb5da1278fe794a78a899c423bfd", null ]
 ];

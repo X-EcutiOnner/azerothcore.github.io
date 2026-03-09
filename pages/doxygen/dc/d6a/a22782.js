@@ -1,12 +1,8 @@
 var a22782 =
 [
-    [ "boss_exarch_maladaar", "dc/d6a/a22782.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
-    [ "JustDied", "dc/d6a/a22782.html#ab1179a19af8948d430559db4074c41ed", null ],
-    [ "JustEngagedWith", "dc/d6a/a22782.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
-    [ "JustSummoned", "dc/d6a/a22782.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
-    [ "KilledUnit", "dc/d6a/a22782.html#adf35cb8b039676500d4040baa08b0d48", null ],
-    [ "MoveInLineOfSight", "dc/d6a/a22782.html#a14baacd30b9186c7492c981313421d5b", null ],
-    [ "Reset", "dc/d6a/a22782.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
-    [ "UpdateAI", "dc/d6a/a22782.html#a7646c4477135d3d3b8580432902babd4", null ],
-    [ "_talked", "dc/d6a/a22782.html#a15c4f122529b9f52823ea407c43433c5", null ]
+    [ "Load", "dc/d6a/a22782.html#a038301fbb547469574efff88455be663", null ],
+    [ "OnPeriodic", "dc/d6a/a22782.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
+    [ "PrepareAuraScript", "dc/d6a/a22782.html#a386df1300e6a99b02efd13ef4968e99a", null ],
+    [ "Register", "dc/d6a/a22782.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
+    [ "Validate", "dc/d6a/a22782.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
 ];

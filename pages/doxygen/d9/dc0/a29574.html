@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/tools/map_extractor/mpq_libmpq.cpp File Reference</title>
+<title>AzerothCore: HealInfoStub Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,35 +105,618 @@ $(document).ready(function(){initNavTree('d9/dc0/a29574.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">mpq_libmpq.cpp File Reference</div></div>
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="../../d0/d0e/a29571.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">HealInfoStub Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">mpq_libmpq04.h</a>&quot;</code><br />
-<code>#include &lt;cstdio&gt;</code><br />
-<code>#include &lt;deque&gt;</code><br />
-</div>
-<p><a href="">Go to the source code of this file.</a></p>
+
+<p>Lightweight stub for <a class="el" href="../../d2/dd5/a08986.html">HealInfo</a>.  
+ <a href="../../d9/dc0/a29574.html#details">More...</a></p>
+
+<p><code>#include &quot;<a class="el" href="../../">DamageHealInfoStub.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a8ae40ebe73635e831bc65b70e7f97f3c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/df9/a29580.html#a8d76af4bfff910da40b4f93a1c465744">ArchiveSet</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc0/a29574.html#a8ae40ebe73635e831bc65b70e7f97f3c">gOpenArchives</a></td></tr>
-<tr class="separator:a8ae40ebe73635e831bc65b70e7f97f3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:afa2b7c6e93b387f16e2b545adc4fa05c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc0/a29574.html#afa2b7c6e93b387f16e2b545adc4fa05c">HealInfoStub</a> ()=default</td></tr>
+<tr class="separator:afa2b7c6e93b387f16e2b545adc4fa05c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae011c5a0f72cd5581e661793c3ac2fdc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc0/a29574.html#ae011c5a0f72cd5581e661793c3ac2fdc">HealInfoStub</a> (uint32_t heal, uint32_t effectiveHeal, uint32_t absorb, <a class="el" href="../../d0/d1c/a11670.html">SpellInfo</a> const *spellInfo=nullptr)</td></tr>
+<tr class="separator:ae011c5a0f72cd5581e661793c3ac2fdc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae599d81216cbcaa69f206ac6eca6d886"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc0/a29574.html#ae599d81216cbcaa69f206ac6eca6d886">~HealInfoStub</a> ()=default</td></tr>
+<tr class="separator:ae599d81216cbcaa69f206ac6eca6d886"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abc0ad944af22920bc105b1b4c71ad467"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc0/a29574.html#abc0ad944af22920bc105b1b4c71ad467">GetHeal</a> () const</td></tr>
+<tr class="separator:abc0ad944af22920bc105b1b4c71ad467"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa19e94b9523f803f2af09fb77382f3c2"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc0/a29574.html#aa19e94b9523f803f2af09fb77382f3c2">GetEffectiveHeal</a> () const</td></tr>
+<tr class="separator:aa19e94b9523f803f2af09fb77382f3c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae8cd0f206d4dbd78b56838cdb49dad6"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc0/a29574.html#aae8cd0f206d4dbd78b56838cdb49dad6">GetAbsorb</a> () const</td></tr>
+<tr class="separator:aae8cd0f206d4dbd78b56838cdb49dad6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5af3db6eed10c8b2cd17f0509f6085fa"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc0/a29574.html#a5af3db6eed10c8b2cd17f0509f6085fa">GetOverheal</a> () const</td></tr>
+<tr class="separator:a5af3db6eed10c8b2cd17f0509f6085fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6dede4a2256ff21fde331ae05d257718"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc0/a29574.html#a6dede4a2256ff21fde331ae05d257718">SetHeal</a> (uint32_t heal)</td></tr>
+<tr class="separator:a6dede4a2256ff21fde331ae05d257718"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad8c263f50edf324a72ca366f6caf4377"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc0/a29574.html#ad8c263f50edf324a72ca366f6caf4377">SetEffectiveHeal</a> (uint32_t effectiveHeal)</td></tr>
+<tr class="separator:ad8c263f50edf324a72ca366f6caf4377"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5f7988705654a3b6f460ddbbecb3992b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc0/a29574.html#a5f7988705654a3b6f460ddbbecb3992b">SetAbsorb</a> (uint32_t absorb)</td></tr>
+<tr class="separator:a5f7988705654a3b6f460ddbbecb3992b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a05ce52ae6ea15c8043dfeae236466017"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d1c/a11670.html">SpellInfo</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc0/a29574.html#a05ce52ae6ea15c8043dfeae236466017">GetSpellInfo</a> () const</td></tr>
+<tr class="separator:a05ce52ae6ea15c8043dfeae236466017"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2e5ac0bb798710d33e0ff4c29c8507a0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc0/a29574.html#a2e5ac0bb798710d33e0ff4c29c8507a0">SetSpellInfo</a> (<a class="el" href="../../d0/d1c/a11670.html">SpellInfo</a> const *spellInfo)</td></tr>
+<tr class="separator:a2e5ac0bb798710d33e0ff4c29c8507a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac110638d1729fae0ba6594d7f092d4b0"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc0/a29574.html#ac110638d1729fae0ba6594d7f092d4b0">GetHitMask</a> () const</td></tr>
+<tr class="separator:ac110638d1729fae0ba6594d7f092d4b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4f50475819621d56efd4e359ed004483"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc0/a29574.html#a4f50475819621d56efd4e359ed004483">SetHitMask</a> (uint32_t hitMask)</td></tr>
+<tr class="separator:a4f50475819621d56efd4e359ed004483"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a44c86cf0c0d87d9ceb9574ced0990845"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc0/a29574.html#a44c86cf0c0d87d9ceb9574ced0990845">_heal</a> = 0</td></tr>
+<tr class="separator:a44c86cf0c0d87d9ceb9574ced0990845"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aab54619f78456698c646d83ac448e1e2"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc0/a29574.html#aab54619f78456698c646d83ac448e1e2">_effectiveHeal</a> = 0</td></tr>
+<tr class="separator:aab54619f78456698c646d83ac448e1e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b6726177d88f4da4b4fa36e96136711"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc0/a29574.html#a1b6726177d88f4da4b4fa36e96136711">_absorb</a> = 0</td></tr>
+<tr class="separator:a1b6726177d88f4da4b4fa36e96136711"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2228ffd4334cc5adff51e67394d19de9"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc0/a29574.html#a2228ffd4334cc5adff51e67394d19de9">_hitMask</a> = 0</td></tr>
+<tr class="separator:a2228ffd4334cc5adff51e67394d19de9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a94cd95b537e2510047da23a7f9176aa6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d1c/a11670.html">SpellInfo</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc0/a29574.html#a94cd95b537e2510047da23a7f9176aa6">_spellInfo</a> = nullptr</td></tr>
+<tr class="separator:a94cd95b537e2510047da23a7f9176aa6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a8ae40ebe73635e831bc65b70e7f97f3c" name="a8ae40ebe73635e831bc65b70e7f97f3c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8ae40ebe73635e831bc65b70e7f97f3c">&#9670;&#160;</a></span>gOpenArchives</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >Lightweight stub for <a class="el" href="../../d2/dd5/a08986.html">HealInfo</a>. </p>
+<p >Mirrors the key fields of <a class="el" href="../../d2/dd5/a08986.html">HealInfo</a> for proc testing. </p>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="afa2b7c6e93b387f16e2b545adc4fa05c" name="afa2b7c6e93b387f16e2b545adc4fa05c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afa2b7c6e93b387f16e2b545adc4fa05c">&#9670;&#160;</a></span>HealInfoStub() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d4/df9/a29580.html#a8d76af4bfff910da40b4f93a1c465744">ArchiveSet</a> gOpenArchives</td>
+          <td class="memname">HealInfoStub::HealInfoStub </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00057">MPQArchive::isOpened()</a>, <a class="el" href="../../#l00024">MPQArchive::MPQArchive()</a>, and <a class="el" href="../../#l00062">MPQFile::MPQFile()</a>.</p>
+</div>
+</div>
+<a id="ae011c5a0f72cd5581e661793c3ac2fdc" name="ae011c5a0f72cd5581e661793c3ac2fdc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae011c5a0f72cd5581e661793c3ac2fdc">&#9670;&#160;</a></span>HealInfoStub() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">HealInfoStub::HealInfoStub </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>heal</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>effectiveHeal</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>absorb</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d0/d1c/a11670.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname"><em>spellInfo</em> = <code>nullptr</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  100</span>        : <a class="code hl_variable" href="../../d9/dc0/a29574.html#a44c86cf0c0d87d9ceb9574ced0990845">_heal</a>(heal)</div>
+<div class="line"><span class="lineno">  101</span>        , <a class="code hl_variable" href="../../d9/dc0/a29574.html#aab54619f78456698c646d83ac448e1e2">_effectiveHeal</a>(effectiveHeal)</div>
+<div class="line"><span class="lineno">  102</span>        , <a class="code hl_variable" href="../../d9/dc0/a29574.html#a1b6726177d88f4da4b4fa36e96136711">_absorb</a>(absorb)</div>
+<div class="line"><span class="lineno">  103</span>        , <a class="code hl_variable" href="../../d9/dc0/a29574.html#a94cd95b537e2510047da23a7f9176aa6">_spellInfo</a>(spellInfo)</div>
+<div class="line"><span class="lineno">  104</span>    {}</div>
+<div class="ttc" id="aa29574_html_a1b6726177d88f4da4b4fa36e96136711"><div class="ttname"><a href="../../d9/dc0/a29574.html#a1b6726177d88f4da4b4fa36e96136711">HealInfoStub::_absorb</a></div><div class="ttdeci">uint32_t _absorb</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:129</div></div>
+<div class="ttc" id="aa29574_html_a44c86cf0c0d87d9ceb9574ced0990845"><div class="ttname"><a href="../../d9/dc0/a29574.html#a44c86cf0c0d87d9ceb9574ced0990845">HealInfoStub::_heal</a></div><div class="ttdeci">uint32_t _heal</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:127</div></div>
+<div class="ttc" id="aa29574_html_a94cd95b537e2510047da23a7f9176aa6"><div class="ttname"><a href="../../d9/dc0/a29574.html#a94cd95b537e2510047da23a7f9176aa6">HealInfoStub::_spellInfo</a></div><div class="ttdeci">SpellInfo const  * _spellInfo</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:131</div></div>
+<div class="ttc" id="aa29574_html_aab54619f78456698c646d83ac448e1e2"><div class="ttname"><a href="../../d9/dc0/a29574.html#aab54619f78456698c646d83ac448e1e2">HealInfoStub::_effectiveHeal</a></div><div class="ttdeci">uint32_t _effectiveHeal</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:128</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ae599d81216cbcaa69f206ac6eca6d886" name="ae599d81216cbcaa69f206ac6eca6d886"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae599d81216cbcaa69f206ac6eca6d886">&#9670;&#160;</a></span>~HealInfoStub()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual HealInfoStub::~HealInfoStub </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="aae8cd0f206d4dbd78b56838cdb49dad6" name="aae8cd0f206d4dbd78b56838cdb49dad6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aae8cd0f206d4dbd78b56838cdb49dad6">&#9670;&#160;</a></span>GetAbsorb()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t HealInfoStub::GetAbsorb </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  111</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/dc0/a29574.html#a1b6726177d88f4da4b4fa36e96136711">_absorb</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00129">_absorb</a>.</p>
+
+</div>
+</div>
+<a id="aa19e94b9523f803f2af09fb77382f3c2" name="aa19e94b9523f803f2af09fb77382f3c2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa19e94b9523f803f2af09fb77382f3c2">&#9670;&#160;</a></span>GetEffectiveHeal()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t HealInfoStub::GetEffectiveHeal </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  110</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/dc0/a29574.html#aab54619f78456698c646d83ac448e1e2">_effectiveHeal</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00128">_effectiveHeal</a>.</p>
+
+</div>
+</div>
+<a id="abc0ad944af22920bc105b1b4c71ad467" name="abc0ad944af22920bc105b1b4c71ad467"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abc0ad944af22920bc105b1b4c71ad467">&#9670;&#160;</a></span>GetHeal()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t HealInfoStub::GetHeal </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  109</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/dc0/a29574.html#a44c86cf0c0d87d9ceb9574ced0990845">_heal</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00127">_heal</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00224">HealInfoStubBuilder::WithOverheal()</a>.</p>
+
+</div>
+</div>
+<a id="ac110638d1729fae0ba6594d7f092d4b0" name="ac110638d1729fae0ba6594d7f092d4b0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac110638d1729fae0ba6594d7f092d4b0">&#9670;&#160;</a></span>GetHitMask()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t HealInfoStub::GetHitMask </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  123</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/dc0/a29574.html#a2228ffd4334cc5adff51e67394d19de9">_hitMask</a>; }</div>
+<div class="ttc" id="aa29574_html_a2228ffd4334cc5adff51e67394d19de9"><div class="ttname"><a href="../../d9/dc0/a29574.html#a2228ffd4334cc5adff51e67394d19de9">HealInfoStub::_hitMask</a></div><div class="ttdeci">uint32_t _hitMask</div><div class="ttdef"><b>Definition:</b> DamageHealInfoStub.h:130</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00130">_hitMask</a>.</p>
+
+</div>
+</div>
+<a id="a5af3db6eed10c8b2cd17f0509f6085fa" name="a5af3db6eed10c8b2cd17f0509f6085fa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5af3db6eed10c8b2cd17f0509f6085fa">&#9670;&#160;</a></span>GetOverheal()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t HealInfoStub::GetOverheal </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  112</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/dc0/a29574.html#a44c86cf0c0d87d9ceb9574ced0990845">_heal</a> &gt; <a class="code hl_variable" href="../../d9/dc0/a29574.html#aab54619f78456698c646d83ac448e1e2">_effectiveHeal</a> ? <a class="code hl_variable" href="../../d9/dc0/a29574.html#a44c86cf0c0d87d9ceb9574ced0990845">_heal</a> - <a class="code hl_variable" href="../../d9/dc0/a29574.html#aab54619f78456698c646d83ac448e1e2">_effectiveHeal</a> : 0; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00128">_effectiveHeal</a>, and <a class="el" href="../../#l00127">_heal</a>.</p>
+
+</div>
+</div>
+<a id="a05ce52ae6ea15c8043dfeae236466017" name="a05ce52ae6ea15c8043dfeae236466017"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a05ce52ae6ea15c8043dfeae236466017">&#9670;&#160;</a></span>GetSpellInfo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d1c/a11670.html">SpellInfo</a> const  * HealInfoStub::GetSpellInfo </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  119</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/dc0/a29574.html#a94cd95b537e2510047da23a7f9176aa6">_spellInfo</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00131">_spellInfo</a>.</p>
+
+</div>
+</div>
+<a id="a5f7988705654a3b6f460ddbbecb3992b" name="a5f7988705654a3b6f460ddbbecb3992b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5f7988705654a3b6f460ddbbecb3992b">&#9670;&#160;</a></span>SetAbsorb()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void HealInfoStub::SetAbsorb </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>absorb</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  116</span>{ <a class="code hl_variable" href="../../d9/dc0/a29574.html#a1b6726177d88f4da4b4fa36e96136711">_absorb</a> = absorb; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00129">_absorb</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00235">HealInfoStubBuilder::WithAbsorb()</a>.</p>
+
+</div>
+</div>
+<a id="ad8c263f50edf324a72ca366f6caf4377" name="ad8c263f50edf324a72ca366f6caf4377"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad8c263f50edf324a72ca366f6caf4377">&#9670;&#160;</a></span>SetEffectiveHeal()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void HealInfoStub::SetEffectiveHeal </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>effectiveHeal</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  115</span>{ <a class="code hl_variable" href="../../d9/dc0/a29574.html#aab54619f78456698c646d83ac448e1e2">_effectiveHeal</a> = effectiveHeal; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00128">_effectiveHeal</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00218">HealInfoStubBuilder::WithEffectiveHeal()</a>, <a class="el" href="../../#l00211">HealInfoStubBuilder::WithHeal()</a>, <a class="el" href="../../#l00107">ProcTestContext::WithHeal()</a>, and <a class="el" href="../../#l00224">HealInfoStubBuilder::WithOverheal()</a>.</p>
+
+</div>
+</div>
+<a id="a6dede4a2256ff21fde331ae05d257718" name="a6dede4a2256ff21fde331ae05d257718"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6dede4a2256ff21fde331ae05d257718">&#9670;&#160;</a></span>SetHeal()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void HealInfoStub::SetHeal </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>heal</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  114</span>{ <a class="code hl_variable" href="../../d9/dc0/a29574.html#a44c86cf0c0d87d9ceb9574ced0990845">_heal</a> = heal; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00127">_heal</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00211">HealInfoStubBuilder::WithHeal()</a>, and <a class="el" href="../../#l00107">ProcTestContext::WithHeal()</a>.</p>
+
+</div>
+</div>
+<a id="a4f50475819621d56efd4e359ed004483" name="a4f50475819621d56efd4e359ed004483"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4f50475819621d56efd4e359ed004483">&#9670;&#160;</a></span>SetHitMask()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void HealInfoStub::SetHitMask </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>hitMask</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  124</span>{ <a class="code hl_variable" href="../../d9/dc0/a29574.html#a2228ffd4334cc5adff51e67394d19de9">_hitMask</a> = hitMask; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00130">_hitMask</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00114">ProcTestContext::WithCriticalHit()</a>, <a class="el" href="../../#l00247">HealInfoStubBuilder::WithHitMask()</a>, and <a class="el" href="../../#l00121">ProcTestContext::WithNormalHit()</a>.</p>
+
+</div>
+</div>
+<a id="a2e5ac0bb798710d33e0ff4c29c8507a0" name="a2e5ac0bb798710d33e0ff4c29c8507a0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2e5ac0bb798710d33e0ff4c29c8507a0">&#9670;&#160;</a></span>SetSpellInfo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void HealInfoStub::SetSpellInfo </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d1c/a11670.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname"><em>spellInfo</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  120</span>{ <a class="code hl_variable" href="../../d9/dc0/a29574.html#a94cd95b537e2510047da23a7f9176aa6">_spellInfo</a> = spellInfo; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00131">_spellInfo</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00241">HealInfoStubBuilder::WithSpellInfo()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a1b6726177d88f4da4b4fa36e96136711" name="a1b6726177d88f4da4b4fa36e96136711"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1b6726177d88f4da4b4fa36e96136711">&#9670;&#160;</a></span>_absorb</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t HealInfoStub::_absorb = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00111">GetAbsorb()</a>, and <a class="el" href="../../#l00116">SetAbsorb()</a>.</p>
+
+</div>
+</div>
+<a id="aab54619f78456698c646d83ac448e1e2" name="aab54619f78456698c646d83ac448e1e2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aab54619f78456698c646d83ac448e1e2">&#9670;&#160;</a></span>_effectiveHeal</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t HealInfoStub::_effectiveHeal = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00110">GetEffectiveHeal()</a>, <a class="el" href="../../#l00112">GetOverheal()</a>, and <a class="el" href="../../#l00115">SetEffectiveHeal()</a>.</p>
+
+</div>
+</div>
+<a id="a44c86cf0c0d87d9ceb9574ced0990845" name="a44c86cf0c0d87d9ceb9574ced0990845"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a44c86cf0c0d87d9ceb9574ced0990845">&#9670;&#160;</a></span>_heal</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t HealInfoStub::_heal = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00109">GetHeal()</a>, <a class="el" href="../../#l00112">GetOverheal()</a>, and <a class="el" href="../../#l00114">SetHeal()</a>.</p>
+
+</div>
+</div>
+<a id="a2228ffd4334cc5adff51e67394d19de9" name="a2228ffd4334cc5adff51e67394d19de9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2228ffd4334cc5adff51e67394d19de9">&#9670;&#160;</a></span>_hitMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t HealInfoStub::_hitMask = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00123">GetHitMask()</a>, and <a class="el" href="../../#l00124">SetHitMask()</a>.</p>
+
+</div>
+</div>
+<a id="a94cd95b537e2510047da23a7f9176aa6" name="a94cd95b537e2510047da23a7f9176aa6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a94cd95b537e2510047da23a7f9176aa6">&#9670;&#160;</a></span>_spellInfo</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/d1c/a11670.html">SpellInfo</a> const* HealInfoStub::_spellInfo = nullptr</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00119">GetSpellInfo()</a>, and <a class="el" href="../../#l00120">SetSpellInfo()</a>.</p>
 
 </div>
 </div>
@@ -142,8 +725,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_ac5beb3152ba3ce8038adbba12e192c7.html">tools</a></li><li class="navelem"><a class="el" href="../../dir_816589248c496bc2270bc4e83dc7035c.html">map_extractor</a></li><li class="navelem"><a class="el" href="../../d9/dc0/a29574.html">mpq_libmpq.cpp</a></li>
-    <li class="footer">Generated on Mon Jun 23 2025 20:47:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/dc0/a29574.html">HealInfoStub</a></li>
+    <li class="footer">Generated on Mon Mar 9 2026 21:04:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

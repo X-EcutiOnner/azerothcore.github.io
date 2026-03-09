@@ -1,7 +1,7 @@
 var a23078 =
 [
-    [ "SuckBackEvent", "d2/d37/a23078.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
-    [ "Execute", "d2/d37/a23078.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
-    [ "_action", "d2/d37/a23078.html#abc54669df2dba0238723a40ababe4c0a", null ],
-    [ "_owner", "d2/d37/a23078.html#a4d8bc09803f7786022c1836457ded488", null ]
+    [ "HandleScriptEffect", "d2/d37/a23078.html#a0038e566bc5054e4208fd727fcc266fa", null ],
+    [ "PrepareSpellScript", "d2/d37/a23078.html#abb661bacf4cec1f2e15f4aeda2ab991e", null ],
+    [ "Register", "d2/d37/a23078.html#a416b811c2676c598df0ac0e5906a94d3", null ],
+    [ "Validate", "d2/d37/a23078.html#a11e82a2b40dbbd9949a1dda3bd715679", null ]
 ];

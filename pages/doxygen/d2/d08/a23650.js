@@ -1,11 +1,7 @@
 var a23650 =
 [
-    [ "boss_gruul", "d2/d08/a23650.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
-    [ "JustDied", "d2/d08/a23650.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
-    [ "JustEngagedWith", "d2/d08/a23650.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
-    [ "KilledUnit", "d2/d08/a23650.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
-    [ "Reset", "d2/d08/a23650.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
-    [ "UpdateAI", "d2/d08/a23650.html#a3503b84f4fb896d439ccd49a997e4087", null ],
-    [ "_caveInTimer", "d2/d08/a23650.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
-    [ "_recentlySpoken", "d2/d08/a23650.html#a411ec67153dd4715eb397a420c45bb12", null ]
+    [ "FilterTargets", "d2/d08/a23650.html#a834163302ff10875227806d7d4945988", null ],
+    [ "HandleScriptEffect", "d2/d08/a23650.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
+    [ "PrepareSpellScript", "d2/d08/a23650.html#a079e72d57550e03956088b4be1d11422", null ],
+    [ "Register", "d2/d08/a23650.html#abd4e0f268652652d3828ba8d350de849", null ]
 ];

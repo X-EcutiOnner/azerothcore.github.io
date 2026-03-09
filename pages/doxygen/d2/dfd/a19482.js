@@ -1,5 +1,17 @@
 var a19482 =
 [
-    [ "go_the_focusing_iris", "d2/dfd/a19482.html#a9c2fa1e739ff98ebdd9b9fdcc2ab5ece", null ],
-    [ "OnGossipHello", "d2/dfd/a19482.html#a7f3f1170713d63f912ca5732453a7e33", null ]
+    [ "boss_four_horsemenAI", "d2/dfd/a19482.html#a828a858c3337791bd2acb3d6ba730233", null ],
+    [ "AttackStart", "d2/dfd/a19482.html#aeb7e82fe20d4f6c4c5379c060beee161", null ],
+    [ "EnterEvadeMode", "d2/dfd/a19482.html#a86f458f0413cab4c8129affff1b73a70", null ],
+    [ "JustDied", "d2/dfd/a19482.html#a3ba69ed84d129a1a48952880c77bcf53", null ],
+    [ "JustEngagedWith", "d2/dfd/a19482.html#a17b8ca30ceb0efb87be77f970c526444", null ],
+    [ "KilledUnit", "d2/dfd/a19482.html#a87bdde27a69a020a26da31f01286593a", null ],
+    [ "MovementInform", "d2/dfd/a19482.html#aa900c075c04673341b3100488c45f9e7", null ],
+    [ "MoveToCorner", "d2/dfd/a19482.html#a7891dc79980c67d82867f6181685b359", null ],
+    [ "Reset", "d2/dfd/a19482.html#a8f41a8eadb6b01d32b177640b91d929f", null ],
+    [ "UpdateAI", "d2/dfd/a19482.html#ac3a1f33bf9823e2171180c3311f647f1", null ],
+    [ "currentWaypoint", "d2/dfd/a19482.html#ab3c2643e1b3c58452661255979e67e63", null ],
+    [ "events", "d2/dfd/a19482.html#a5c135d69b30853e2eb8a52a1a5e230f7", null ],
+    [ "horsemanId", "d2/dfd/a19482.html#ab0c4162177096e7bd007996e8677fd8b", null ],
+    [ "movementPhase", "d2/dfd/a19482.html#a09b826c28e9bf6c417a650dfe710a2dd", null ]
 ];

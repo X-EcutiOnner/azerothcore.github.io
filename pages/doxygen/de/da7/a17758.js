@@ -1,6 +1,6 @@
 var a17758 =
 [
-    [ "npc_zafod_boomboxAI", "d6/d9f/a17762.html", "d6/d9f/a17762" ],
-    [ "npc_zafod_boombox", "de/da7/a17758.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
-    [ "GetAI", "de/da7/a17758.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
+    [ "StandUpEvent", "de/da7/a17758.html#a2f68b19898c65b9229159d9133b3d7cf", null ],
+    [ "Execute", "de/da7/a17758.html#a56bc1071300ff8f81e62839685e8f53a", null ],
+    [ "_owner", "de/da7/a17758.html#a456a494140657d81b203834f7b88d5d1", null ]
 ];

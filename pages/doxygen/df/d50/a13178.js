@@ -1,6 +1,10 @@
 var a13178 =
 [
-    [ "npc_scarlet_courierAI", "d6/dc0/a13182.html", "d6/dc0/a13182" ],
-    [ "npc_scarlet_courier", "df/d50/a13178.html#ac9bb46ff40bdf5c83d55c14e52243004", null ],
-    [ "GetAI", "df/d50/a13178.html#a4b6b5a14ec6ce13a9ce7089f08bce9f5", null ]
+    [ "boss_servant_quarters", "df/d50/a13178.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
+    [ "JustDied", "df/d50/a13178.html#a3b9df7ab573f22a9e15761cb662db404", null ],
+    [ "JustEngagedWith", "df/d50/a13178.html#afe4a4a78824851f63ce560a60d55cee3", null ],
+    [ "MovementInform", "df/d50/a13178.html#a00d31d9421903b6a92c03a3bd0382328", null ],
+    [ "Reset", "df/d50/a13178.html#a273a09b1242968a5dd45ab9866fbe481", null ],
+    [ "UpdateAI", "df/d50/a13178.html#a6a41cfd67310077803733190645050e4", null ],
+    [ "_scheduler", "df/d50/a13178.html#a520142de5e8d2911684b18c85a3f37e2", null ]
 ];

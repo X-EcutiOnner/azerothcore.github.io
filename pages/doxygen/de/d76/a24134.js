@@ -1,8 +1,7 @@
 var a24134 =
 [
-    [ "instance_mechanar_InstanceMapScript", "de/d76/a24134.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
-    [ "OnCreatureCreate", "de/d76/a24134.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
-    [ "OnGameObjectCreate", "de/d76/a24134.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
-    [ "OnGameObjectRemove", "de/d76/a24134.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
-    [ "_pathaleonGUID", "de/d76/a24134.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
+    [ "HandleScriptEffect", "de/d76/a24134.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
+    [ "PrepareSpellScript", "de/d76/a24134.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
+    [ "Register", "de/d76/a24134.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
+    [ "Validate", "de/d76/a24134.html#a5209de3456c374010502a94f67ff4544", null ]
 ];

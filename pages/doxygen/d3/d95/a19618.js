@@ -1,6 +1,8 @@
 var a19618 =
 [
-    [ "npc_oculus_drakeAI", "dd/d8b/a19622.html", "dd/d8b/a19622" ],
-    [ "npc_oculus_drake", "d3/d95/a19618.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
-    [ "GetAI", "d3/d95/a19618.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
+    [ "boss_maexxna_webwrapAI", "d3/d95/a19618.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
+    [ "IsSummonedBy", "d3/d95/a19618.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
+    [ "JustDied", "d3/d95/a19618.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
+    [ "UpdateAI", "d3/d95/a19618.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
+    [ "victimGUID", "d3/d95/a19618.html#a54081ebfc0df639b7e18b5f079802c92", null ]
 ];

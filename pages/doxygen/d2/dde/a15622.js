@@ -1,6 +1,5 @@
 var a15622 =
 [
-    [ "npc_tiger_matriarch_creditAI", "d2/dde/a15622.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
-    [ "UpdateAI", "d2/dde/a15622.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
-    [ "events", "d2/dde/a15622.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
+    [ "NotInStomachSelector", "d2/dde/a15622.html#a766a75e73261ac8bb76c90e8befd21ad", null ],
+    [ "operator()", "d2/dde/a15622.html#a189c90e585ecef8ffbcbe9227c588946", null ]
 ];

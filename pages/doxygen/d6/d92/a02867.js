@@ -1,22 +1,31 @@
 var a02867 =
 [
-    [ "npc_braug_dimspirit", "d7/de2/a16060.html", "d7/de2/a16060" ],
-    [ "npc_kaya_flathoof", "d9/d73/a16064.html", "d9/d73/a16064" ],
-    [ "npc_kaya_flathoof::npc_kaya_flathoofAI", "d9/d48/a16068.html", "d9/d48/a16068" ],
-    [ "GOSSIP_HBD1", "d6/d92/a02867.html#a487e562e5e99ccd61aa7e93289874033", null ],
-    [ "GOSSIP_HBD2", "d6/d92/a02867.html#adc43152833884ed78e5debdaaf5d500d", null ],
-    [ "GOSSIP_HBD3", "d6/d92/a02867.html#aced35316178914dd542d4750f8bbb6cf", null ],
-    [ "GOSSIP_HBD4", "d6/d92/a02867.html#a182f8c24fa1421c6a7c68e289491400e", null ],
-    [ "GOSSIP_HBD5", "d6/d92/a02867.html#a34cc0e8072e5c86b2dd23a03fbc8f024", null ],
-    [ "Kaya", "d6/d92/a02867.html#ab10ce9d7e7d19709d0e99ef45b935f15", [
-      [ "FACTION_ESCORTEE_H", "d6/d92/a02867.html#ab10ce9d7e7d19709d0e99ef45b935f15a189eaa6b201834d1bd3182efbd449c1f", null ],
-      [ "NPC_GRIMTOTEM_RUFFIAN", "d6/d92/a02867.html#ab10ce9d7e7d19709d0e99ef45b935f15a01961a91f321286d0ab25df44697f94f", null ],
-      [ "NPC_GRIMTOTEM_BRUTE", "d6/d92/a02867.html#ab10ce9d7e7d19709d0e99ef45b935f15ac4f5df2a1f9d7cd9aba151ebfa864967", null ],
-      [ "NPC_GRIMTOTEM_SORCERER", "d6/d92/a02867.html#ab10ce9d7e7d19709d0e99ef45b935f15ac5803d139c1801ccfdba4b115381afd6", null ],
-      [ "SAY_START", "d6/d92/a02867.html#ab10ce9d7e7d19709d0e99ef45b935f15a2eae21cbf7d110ee89a9798ef6f00239", null ],
-      [ "SAY_AMBUSH", "d6/d92/a02867.html#ab10ce9d7e7d19709d0e99ef45b935f15a68cb8abe7aeb84b5de4ba23b8f814d1e", null ],
-      [ "SAY_END", "d6/d92/a02867.html#ab10ce9d7e7d19709d0e99ef45b935f15a40884932ffbbf14d6c380b9022bcfe97", null ],
-      [ "QUEST_PROTECT_KAYA", "d6/d92/a02867.html#ab10ce9d7e7d19709d0e99ef45b935f15a4a8a823950ae7fb8722359672b427cc6", null ]
+    [ "npcs_riverbreeze_and_silversky", "d9/d77/a15990.html", "d9/d77/a15990" ],
+    [ "at_ancient_leaf", "d2/d17/a15994.html", "d2/d17/a15994" ],
+    [ "AncientMisc", "d6/d92/a02867.html#adaffe09a7c2b9f9bfdc48d5068c18068", [
+      [ "QUEST_ANCIENT_LEAF", "d6/d92/a02867.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3", null ],
+      [ "NPC_VARTRUS", "d6/d92/a02867.html#adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99", null ],
+      [ "NPC_STOMA", "d6/d92/a02867.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81", null ],
+      [ "NPC_HASTAT", "d6/d92/a02867.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04", null ],
+      [ "CREATURE_GROUP_ANCIENTS", "d6/d92/a02867.html#adaffe09a7c2b9f9bfdc48d5068c18068a929e77d337e49edf4de033ddb8ccf149", null ]
     ] ],
-    [ "AddSC_stonetalon_mountains", "d6/d92/a02867.html#a985f3fb3a28d1163b27b5de21b1ec6cf", null ]
+    [ "RiverbreezeAndSilversky", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427", [
+      [ "SPELL_CENARION_BEACON", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427aefb9fe5d61b5fc5b810f077e47334d49", null ],
+      [ "ITEM_CENARION_BEACON", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427a677781938bceb63690d56c2e2c445f46", null ],
+      [ "ACTION_CREATE_CENARION_BEACON", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427acc340298bf9880e22b326c208affb4a1", null ],
+      [ "NPC_ARATHANDRIS_SILVERSKY", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427a15af7b53355112caefafe032f27b15d6", null ],
+      [ "NPC_MAYBESS_RIVERBREEZE", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427a3362be702aaaa11f11e1df72d0a8e149", null ],
+      [ "QUEST_CLEASING_FELWOOD_A", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427ab52d337e733144a5a21fce9825f80fff", null ],
+      [ "QUEST_CLEASING_FELWOOD_H", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427a24da8ad4e5cec47c9a66a1e03e07383f", null ],
+      [ "GOSSIP_MENU_SILVERSKY", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427a201df035f33936e3020580c82101e7f8", null ],
+      [ "GOSSIP_MENU_RIVERBREEZE", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427ac00e8bf57bf7a4be3444d02de30309dc", null ],
+      [ "GOSSIP_OPTION_BEACON", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427a0999bd0707a4dbe03c5715081af725e1", null ],
+      [ "TEXT_SILVERSKY_1", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427a3148f1367e563486599162f32be4af21", null ],
+      [ "TEXT_SILVERSKY_2", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427a62011283d742f7947270994268e055de", null ],
+      [ "TEXT_SILVERSKY_3", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427af033b1f55bfbe0ccfd66cd1df7b50289", null ],
+      [ "TEXT_RIVERBREEZE_1", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427ac53b44e51816fbef84a98123a317125e", null ],
+      [ "TEXT_RIVERBREEZE_2", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427a06658a3d493565d3f8a42555e037fa40", null ],
+      [ "TEXT_RIVERBREEZE_3", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427a1d15502f6a496af4174cb3c5960818b5", null ]
+    ] ],
+    [ "AddSC_felwood", "d6/d92/a02867.html#a63ae28c9f250057b35a18fb585c6a2cf", null ]
 ];

@@ -1,7 +1,7 @@
 var a18638 =
 [
-    [ "AuraRemoveEvent", "d9/dab/a18638.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "d9/dab/a18638.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "d9/dab/a18638.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "d9/dab/a18638.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "HandleTriggerMissile", "d9/dab/a18638.html#af6370594be48d35a12009fa10a38d91d", null ],
+    [ "PrepareSpellScript", "d9/dab/a18638.html#aeeca4381273f382c3abb68f34d229213", null ],
+    [ "Register", "d9/dab/a18638.html#a0b79f5ee23e53c18277712f1b26e13f3", null ],
+    [ "Validate", "d9/dab/a18638.html#abe0b9290ddf9beaa60a583840d90d914", null ]
 ];

@@ -1,9 +1,9 @@
 var a15042 =
 [
-    [ "boss_temporus", "db/dbf/a15042.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "db/dbf/a15042.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "db/dbf/a15042.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "db/dbf/a15042.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "db/dbf/a15042.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "db/dbf/a15042.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "HandlePeriodic", "db/dbf/a15042.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
+    [ "Load", "db/dbf/a15042.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
+    [ "PrepareAuraScript", "db/dbf/a15042.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
+    [ "Register", "db/dbf/a15042.html#ac331de3219ae7da9e35e962011540bdf", null ],
+    [ "Validate", "db/dbf/a15042.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
+    [ "_buffGiven", "db/dbf/a15042.html#aec2476ad5e046213b90af04ad91f0230", null ]
 ];

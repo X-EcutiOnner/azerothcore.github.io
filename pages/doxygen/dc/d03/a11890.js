@@ -1,10 +1,19 @@
 var a11890 =
 [
-    [ "lfg_commandscript", "dc/d03/a11890.html#a90faaca821e4162e0aea40a4d98af62c", null ],
-    [ "GetCommands", "dc/d03/a11890.html#a324310f9b04675c277ceae44ea09fbaf", null ],
-    [ "HandleLfgCleanCommand", "dc/d03/a11890.html#a93db689dbdb97a0318d62409a863767e", null ],
-    [ "HandleLfgGroupInfoCommand", "dc/d03/a11890.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
-    [ "HandleLfgOptionsCommand", "dc/d03/a11890.html#a73187a97c883d8d1bb3765943dd98c39", null ],
-    [ "HandleLfgPlayerInfoCommand", "dc/d03/a11890.html#acdf12aff45f16904df5724ab158e3b97", null ],
-    [ "HandleLfgQueueInfoCommand", "dc/d03/a11890.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
+    [ "CreatureTextMgr", "dc/d03/a11890.html#a00cc7ebfdb0702de8af841dcbbddcc3b", null ],
+    [ "~CreatureTextMgr", "dc/d03/a11890.html#a6f77e1f030bb16b585f9a75059a06f31", null ],
+    [ "GetLocalizedChatString", "dc/d03/a11890.html#a169c53804fb5bf4ecd509ee90482ebf5", null ],
+    [ "GetRangeForChatType", "dc/d03/a11890.html#aeddebd7d3fcf604ee4d11b77ff87fd53", null ],
+    [ "GetTextMap", "dc/d03/a11890.html#a5237341864a3082126bed703d68312b2", null ],
+    [ "instance", "dc/d03/a11890.html#a92acbdab30a8942859e01526144b9989", null ],
+    [ "LoadCreatureTextLocales", "dc/d03/a11890.html#a826a3cd2e991c358a98fced5512297dd", null ],
+    [ "LoadCreatureTexts", "dc/d03/a11890.html#a129039b5a7d2de067656cd6e47de43dd", null ],
+    [ "SendChat", "dc/d03/a11890.html#a93c7fa546a0f41e7d59c6782aecee070", null ],
+    [ "SendChatPacket", "dc/d03/a11890.html#a0b94720ae3ab22ba8bb961f26f47548b", null ],
+    [ "SendEmote", "dc/d03/a11890.html#a8b9dc67f09242b5ade7405663ca52fda", null ],
+    [ "SendNonChatPacket", "dc/d03/a11890.html#a2303c6343e233beb3f7a1ebda40e080e", null ],
+    [ "SendSound", "dc/d03/a11890.html#aa36b6dd5010eea049973122bec4fceb1", null ],
+    [ "TextExist", "dc/d03/a11890.html#aa92d99a93a387193a10eb7a30c59b86e", null ],
+    [ "mLocaleTextMap", "dc/d03/a11890.html#a12ecf289ef6d78691b6ab23f3cdd9fd8", null ],
+    [ "mTextMap", "dc/d03/a11890.html#ad25faab453d0f5d6270797eeeb5e2e40", null ]
 ];

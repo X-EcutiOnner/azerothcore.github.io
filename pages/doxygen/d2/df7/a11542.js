@@ -1,6 +1,8 @@
 var a11542 =
 [
-    [ "EffectSplitHandler", "d2/df7/a11542.html#a1e31c0f06961aba66f6737c4b4aca7f6", null ],
-    [ "Call", "d2/df7/a11542.html#ae0ef79af01cce82ed3cbe208d98b325a", null ],
-    [ "pEffectHandlerScript", "d2/df7/a11542.html#a181c0f987789f3725e7ba7e023cfc4e7", null ]
+    [ "SkillDiscoveryEntry", "d2/df7/a11542.html#a54c0f12153c6e63a37e5da44d233b271", null ],
+    [ "SkillDiscoveryEntry", "d2/df7/a11542.html#a301cae078fe1943cae045e94dc3d38ad", null ],
+    [ "chance", "d2/df7/a11542.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
+    [ "reqSkillValue", "d2/df7/a11542.html#a61e0edc8fee1fa4045d846668d08449c", null ],
+    [ "spellId", "d2/df7/a11542.html#a75ca40729917317173b2953c8f47f833", null ]
 ];

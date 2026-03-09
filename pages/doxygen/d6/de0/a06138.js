@@ -1,9 +1,11 @@
 var a06138 =
 [
-    [ "TurretAI", "d6/de0/a06138.html#a0aaa1ee5eb1b2e83657ef24479d9a91e", null ],
-    [ "AttackStart", "d6/de0/a06138.html#ab6eb7cf777595a4b196373123da19bea", null ],
-    [ "CanAIAttack", "d6/de0/a06138.html#a47c1c38ddcc1f473104fb698fe338684", null ],
-    [ "Permissible", "d6/de0/a06138.html#aac81fb574d70369fb006fb7ba22a0784", null ],
-    [ "UpdateAI", "d6/de0/a06138.html#aa2d308443a31d8a06bbc63517695dfef", null ],
-    [ "m_minRange", "d6/de0/a06138.html#a4cffbf9bcb29468dad6a6583c905b99a", null ]
+    [ "AppenderDB", "d6/de0/a06138.html#af8e48076d47a06c73f6b8ae054955a83", null ],
+    [ "~AppenderDB", "d6/de0/a06138.html#a7da848083d02833acc632051a2d938bf", null ],
+    [ "_write", "d6/de0/a06138.html#af38ab76e4d3ea9ebe864582c0030c49a", null ],
+    [ "getType", "d6/de0/a06138.html#a96221ceed23435556df03c5f7ffab61e", null ],
+    [ "setRealmId", "d6/de0/a06138.html#a769ff59f4dbbff1b77398dd20c016ace", null ],
+    [ "enabled", "d6/de0/a06138.html#a55e70394d0a7f321e0cf75a9b822b482", null ],
+    [ "realmId", "d6/de0/a06138.html#a5c9bf2ae429c0903cffe9a01c03b6028", null ],
+    [ "type", "d6/de0/a06138.html#a8d9968c073ee16a8fe082254ec232ebb", null ]
 ];

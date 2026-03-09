@@ -1,7 +1,6 @@
 var a14006 =
 [
-    [ "FilterTargets", "d8/d47/a14006.html#aebe9055301495dd3a21736b9a2a35f31", null ],
-    [ "HandleDamageCalc", "d8/d47/a14006.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
-    [ "PrepareSpellScript", "d8/d47/a14006.html#a03b8e21e58988d9fc774205263c0817f", null ],
-    [ "Register", "d8/d47/a14006.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
+    [ "instance_uldaman_InstanceMapScript", "d7/d3f/a14010.html", "d7/d3f/a14010" ],
+    [ "instance_uldaman", "d8/d47/a14006.html#a854807db729d15aa4a09aad051fe3bda", null ],
+    [ "GetInstanceScript", "d8/d47/a14006.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
 ];

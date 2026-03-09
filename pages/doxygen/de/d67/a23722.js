@@ -1,7 +1,6 @@
 var a23722 =
 [
-    [ "boss_the_maker", "de/d67/a23722.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
-    [ "JustDied", "de/d67/a23722.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
-    [ "JustEngagedWith", "de/d67/a23722.html#a6b0a4442dbabde69ca9352017ee23675", null ],
-    [ "KilledUnit", "de/d67/a23722.html#a40643ca00fe7d7029a291335e47c722a", null ]
+    [ "instance_arcatraz_InstanceMapScript", "d0/d4f/a23726.html", "d0/d4f/a23726" ],
+    [ "instance_arcatraz", "de/d67/a23722.html#a6fc8860651573353b54fd26bddea32aa", null ],
+    [ "GetInstanceScript", "de/d67/a23722.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
 ];

@@ -1,10 +1,8 @@
 var a21094 =
 [
-    [ "boss_yoggsaron_voiceAI", "d0/de7/a21094.html#ac78b27f8d4df433e1fad2ae550a4da44", null ],
-    [ "Reset", "d0/de7/a21094.html#ae5561244ad7387a3614bb6f1e23a7001", null ],
-    [ "SpellHitTarget", "d0/de7/a21094.html#a0cc39577b4b70eb1be16f9c8b5cb5c72", null ],
-    [ "UpdateAI", "d0/de7/a21094.html#a3c8458c25f7389f5fb5218177590a4c6", null ],
-    [ "_current", "d0/de7/a21094.html#ad94ddde194a32b380ba1d309f1ece14a", null ],
-    [ "_targets", "d0/de7/a21094.html#ab6132214a2249fbb5de8a5115b114381", null ],
-    [ "events", "d0/de7/a21094.html#ac0c6aa9efe9d9e80b29fae8c190962dc", null ]
+    [ "boss_keleseth", "d0/de7/a21094.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
+    [ "AttackStart", "d0/de7/a21094.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
+    [ "JustDied", "d0/de7/a21094.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
+    [ "JustEngagedWith", "d0/de7/a21094.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
+    [ "KilledUnit", "d0/de7/a21094.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
 ];

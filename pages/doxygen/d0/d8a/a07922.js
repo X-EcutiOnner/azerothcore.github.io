@@ -1,6 +1,4 @@
 var a07922 =
 [
-    [ "ConditionSourceInfo", "d0/d8a/a07922.html#adc6441ec52fab3ab8d2b58a146a3fef3", null ],
-    [ "mConditionTargets", "d0/d8a/a07922.html#acb67deba44021698a447e8288bca0bd4", null ],
-    [ "mLastFailedCondition", "d0/d8a/a07922.html#a099d3457a0a15d8feeacc0dc8c32d439", null ]
+    [ "type", "d0/d8a/a07922.html#adb9fbbd823ddc1a80d7d8b3063c1ec54", null ]
 ];

@@ -1,6 +1,7 @@
 var a26470 =
 [
-    [ "CheckCast", "dc/dcd/a26470.html#a2edd0bcaa3b026cc70f9f6b58f53f486", null ],
-    [ "PrepareSpellScript", "dc/dcd/a26470.html#aaf1e16dbc8d33aadcbf74dc4cebe715b", null ],
-    [ "Register", "dc/dcd/a26470.html#a32aaab12105c9b1c09edfa8a444ced9c", null ]
+    [ "CheckProc", "dc/dcd/a26470.html#a325336c96dad74ec221c07817222fee1", null ],
+    [ "HandleProc", "dc/dcd/a26470.html#a75c8e4664e75afd2129b6e5f047d74e3", null ],
+    [ "PrepareAuraScript", "dc/dcd/a26470.html#a30f6dd531d4316b4bbb3297af2c17e2e", null ],
+    [ "Register", "dc/dcd/a26470.html#a6c86a4cf273d90086c4ebdbcaa6b6632", null ]
 ];

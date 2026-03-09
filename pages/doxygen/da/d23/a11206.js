@@ -1,11 +1,7 @@
 var a11206 =
 [
-    [ "Player", "da/d23/a11206.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "da/d23/a11206.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Face", "da/d23/a11206.html#a6334464eea38be514f3faa7538b39a5a", null ],
-    [ "FacialHair", "da/d23/a11206.html#a44643270b211d275eb94283842791407", null ],
-    [ "Gender", "da/d23/a11206.html#a14321ea3595debe2836eceab8a82f944", null ],
-    [ "HairColor", "da/d23/a11206.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
-    [ "HairStyle", "da/d23/a11206.html#ade5b2dff213547ab4d707070f8979085", null ],
-    [ "Skin", "da/d23/a11206.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
+    [ "MinimapPingClient", "da/d23/a11206.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
+    [ "Read", "da/d23/a11206.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
+    [ "MapX", "da/d23/a11206.html#ad4ff3977c260035145d6acd00429d81e", null ],
+    [ "MapY", "da/d23/a11206.html#abd8640cb98238f339218c3b945885c97", null ]
 ];

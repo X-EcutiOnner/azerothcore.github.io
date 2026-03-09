@@ -1,11 +1,100 @@
 var a04037 =
 [
-    [ "npc_the_scourge_cauldron", "d5/df4/a14236.html", "d5/df4/a14236" ],
-    [ "npc_the_scourge_cauldron::npc_the_scourge_cauldronAI", "d3/dc2/a14240.html", "d3/dc2/a14240" ],
-    [ "npc_andorhal_tower", "dc/d1e/a14244.html", "dc/d1e/a14244" ],
-    [ "npc_andorhal_tower::npc_andorhal_towerAI", "dc/d33/a14248.html", "dc/d33/a14248" ],
-    [ "AndorhalTower", "df/d11/a04037.html#a07061f0cf471fb1cb236b428c31965c8", [
-      [ "GO_BEACON_TORCH", "df/d11/a04037.html#a07061f0cf471fb1cb236b428c31965c8ace3e47469a19c76e79a7ae1ca2b4f798", null ]
+    [ "spell_q12641_death_comes_from_on_high_summon_ghouls", "d2/dd5/a13410.html", "d2/dd5/a13410" ],
+    [ "spell_q12641_death_comes_from_on_high_recall_eye", "d6/d38/a13414.html", "d6/d38/a13414" ],
+    [ "npc_death_knight_initiate", "d2/dd1/a13418.html", "d2/dd1/a13418" ],
+    [ "npc_death_knight_initiate::npc_death_knight_initiateAI", "d6/da6/a13422.html", "d6/da6/a13422" ],
+    [ "spell_item_gift_of_the_harvester", "d2/dbe/a13426.html", "d2/dbe/a13426" ],
+    [ "spell_q12698_the_gift_that_keeps_on_giving", "df/d01/a13430.html", "df/d01/a13430" ],
+    [ "npc_scarlet_ghoul", "d9/dae/a13434.html", "d9/dae/a13434" ],
+    [ "npc_scarlet_ghoul::npc_scarlet_ghoulAI", "d3/d87/a13438.html", "d3/d87/a13438" ],
+    [ "npc_dkc1_gothik", "df/d28/a13442.html", "df/d28/a13442" ],
+    [ "npc_dkc1_gothik::npc_dkc1_gothikAI", "d4/daf/a13446.html", "d4/daf/a13446" ],
+    [ "npc_unworthy_initiate", "d3/d9e/a13450.html", "d3/d9e/a13450" ],
+    [ "npc_unworthy_initiate::npc_unworthy_initiateAI", "d9/d43/a13454.html", "d9/d43/a13454" ],
+    [ "npc_unworthy_initiate_anchor", "d0/db9/a13458.html", "d0/db9/a13458" ],
+    [ "npc_unworthy_initiate_anchor::npc_unworthy_initiate_anchorAI", "d4/df0/a13462.html", "d4/df0/a13462" ],
+    [ "go_acherus_soul_prison", "d0/d4d/a13466.html", "d0/d4d/a13466" ],
+    [ "spell_death_knight_initiate_visual", "d4/d7f/a13470.html", "d4/d7f/a13470" ],
+    [ "spell_lich_king_vo_blocker", "d8/dd2/a13474.html", "d8/dd2/a13474" ],
+    [ "spell_lich_king_whisper", "d8/d7d/a13478.html", "d8/d7d/a13478" ],
+    [ "GCD_CAST", "df/d11/a04037.html#a4e0920d64510440a7850bf1c1ef76f54", null ],
+    [ "DeathComesFromOnHigh", "df/d11/a04037.html#a8d5eadbb5d71d2183b6fe75139c887ea", [
+      [ "SPELL_CALL_OF_THE_DEAD", "df/d11/a04037.html#a8d5eadbb5d71d2183b6fe75139c887eaacd0a3ad4be38d369e5f72df2d231a982", null ],
+      [ "SPELL_FORGE_CREDIT", "da/d3e/a03581.html#a8d5eadbb5d71d2183b6fe75139c887eaae3bf8440b92fce514fdeb81a4d5cbe15", null ],
+      [ "SPELL_TOWN_HALL_CREDIT", "da/d3e/a03581.html#a8d5eadbb5d71d2183b6fe75139c887eaa51f8e22e332e2e3e0c715d547355fc82", null ],
+      [ "SPELL_SCARLET_HOLD_CREDIT", "da/d3e/a03581.html#a8d5eadbb5d71d2183b6fe75139c887eaa7934ecc64f2c4dfbbbf853d6bb82b7d5", null ],
+      [ "SPELL_CHAPEL_CREDIT", "da/d3e/a03581.html#a8d5eadbb5d71d2183b6fe75139c887eaaa3171e13a9b70448bd2c64b75fe23ce4", null ],
+      [ "NPC_NEW_AVALON_FORGE", "da/d3e/a03581.html#a8d5eadbb5d71d2183b6fe75139c887eaa2f4ab59da4c1e9fe3eeb53cf20832f0e", null ],
+      [ "NPC_NEW_AVALON_TOWN_HALL", "da/d3e/a03581.html#a8d5eadbb5d71d2183b6fe75139c887eaa2b4f620e8297fdc7167dbfc9b0394ffe", null ],
+      [ "NPC_SCARLET_HOLD", "da/d3e/a03581.html#a8d5eadbb5d71d2183b6fe75139c887eaa745be6578f398745e5058bbc362f36d7", null ],
+      [ "NPC_CHAPEL_OF_THE_CRIMSON_FLAME", "da/d3e/a03581.html#a8d5eadbb5d71d2183b6fe75139c887eaa65e0966966b77379f295a0601ef33dc3", null ]
     ] ],
-    [ "AddSC_western_plaguelands", "df/d11/a04037.html#a978fbc9b0f23371fedcca17926c637cb", null ]
+    [ "deathsChallenge", "df/d11/a04037.html#a8f10a57d17ad15b9a0e14245bcf79b63", [
+      [ "SPELL_DUEL", "df/d11/a04037.html#a8f10a57d17ad15b9a0e14245bcf79b63aa4a531ba862d340d8569255af4c59069", null ],
+      [ "SPELL_DUEL_VICTORY", "df/d11/a04037.html#a8f10a57d17ad15b9a0e14245bcf79b63ae8d88b372b66f9b825344bfeaf392708", null ],
+      [ "SPELL_DUEL_FLAG", "df/d11/a04037.html#a8f10a57d17ad15b9a0e14245bcf79b63a1c592d461a8cc02648121d8f87329a7d", null ],
+      [ "SAY_DUEL", "df/d11/a04037.html#a8f10a57d17ad15b9a0e14245bcf79b63a7a383d3a269b4cf23c0b99b8cf60d0b5", null ],
+      [ "QUEST_DEATH_CHALLENGE", "df/d11/a04037.html#a8f10a57d17ad15b9a0e14245bcf79b63a10d1682200c0c72611b3cd99af1b613c", null ],
+      [ "DATA_IN_PROGRESS", "df/d11/a04037.html#a8f10a57d17ad15b9a0e14245bcf79b63a80cd6f5d182cc1729fa496f31ae35ca6", null ],
+      [ "EVENT_SPEAK", "df/d11/a04037.html#a8f10a57d17ad15b9a0e14245bcf79b63a4b6c4609ea1b0550ac22871ebd9af5bc", null ],
+      [ "EVENT_DUEL_LOST", "df/d11/a04037.html#a8f10a57d17ad15b9a0e14245bcf79b63aba893dd076928fa851701f5b25107cc8", null ]
+    ] ],
+    [ "EyeOfAcherusMisc", "df/d11/a04037.html#ab53744cff6e4c29bb868b1441a934d6f", [
+      [ "SPELL_THE_EYE_OF_ACHERUS", "df/d11/a04037.html#ab53744cff6e4c29bb868b1441a934d6fa3ba8bf7b86ad4ae22520569c02c7c66b", null ]
+    ] ],
+    [ "GiftOfTheHarvester", "df/d11/a04037.html#a34a7eb05eb22314c694883b77bf38b41", [
+      [ "NPC_GHOUL", "df/d11/a04037.html#a34a7eb05eb22314c694883b77bf38b41a5e4dc0157e48c1d94b208248dfbf21e4", null ],
+      [ "MAX_GHOULS", "df/d11/a04037.html#a34a7eb05eb22314c694883b77bf38b41aa7f64c4b3f098267130d424a74594e9d", null ],
+      [ "SPELL_GHOUL_EMERGE", "df/d11/a04037.html#a34a7eb05eb22314c694883b77bf38b41adc7ae145b314d14adb3cbbe37a941936", null ],
+      [ "SPELL_SUMMON_SCARLET_GHOST", "df/d11/a04037.html#a34a7eb05eb22314c694883b77bf38b41af66f97d8449866aa17dee4999861c6ce", null ],
+      [ "SPELL_GHOUL_SUBMERGE", "df/d11/a04037.html#a34a7eb05eb22314c694883b77bf38b41ae95cf507057ad77d9414b63e5b319ede", null ],
+      [ "EVENT_GHOUL_RESTORE_STATE", "df/d11/a04037.html#a34a7eb05eb22314c694883b77bf38b41af3843347b39a90e0dfa4caa56b60b722", null ],
+      [ "EVENT_GHOUL_CHECK_COMBAT", "df/d11/a04037.html#a34a7eb05eb22314c694883b77bf38b41a384b7a45547dd7ea79d9a5a31a1ff603", null ],
+      [ "EVENT_GHOUL_EMOTE", "df/d11/a04037.html#a34a7eb05eb22314c694883b77bf38b41a9d1897c09a5510faf943cf99ed02050a", null ],
+      [ "EVENT_GHOUL_MOVE_TO_PIT", "df/d11/a04037.html#a34a7eb05eb22314c694883b77bf38b41a383333dea4ffd5f166293381b6a93bbb", null ],
+      [ "SAY_GOTHIK_PIT", "df/d11/a04037.html#a34a7eb05eb22314c694883b77bf38b41a11a420f8cc442d28386aa19b2a2983a5", null ]
+    ] ],
+    [ "spells_lich_king_whisper", "df/d11/a04037.html#abc830bbb9ced1ba06639825e7e0ed7ea", [
+      [ "SPELL_LICH_KING_VO_BLOCKER", "df/d11/a04037.html#abc830bbb9ced1ba06639825e7e0ed7eaaa382fd3190a952e343abd2e4b45cfe67", null ],
+      [ "SPELL_LICHKINGDK001", "df/d11/a04037.html#abc830bbb9ced1ba06639825e7e0ed7eaa8a87043d4577e2e649f4e40506ea4f0a", null ],
+      [ "SPELL_LICHKINGDK002", "df/d11/a04037.html#abc830bbb9ced1ba06639825e7e0ed7eaa81a25ea53d44491eb4e7208865f692fe", null ],
+      [ "SPELL_LICHKINGDK003", "df/d11/a04037.html#abc830bbb9ced1ba06639825e7e0ed7eaa6cf3418a81513654d1e6841caceceddf", null ],
+      [ "SPELL_LICHKINGDK004", "df/d11/a04037.html#abc830bbb9ced1ba06639825e7e0ed7eaa9e6adfa172be669b3d393878095fd546", null ],
+      [ "SPELL_LICHKINGDK005", "df/d11/a04037.html#abc830bbb9ced1ba06639825e7e0ed7eaa30d92ed248e378855ae8f010ec5ba4d2", null ],
+      [ "SPELL_LICHKINGDK006", "df/d11/a04037.html#abc830bbb9ced1ba06639825e7e0ed7eaa86efefaa2ade6c15b715cedd2dbc2a77", null ],
+      [ "SPELL_LICHKINGDK007", "df/d11/a04037.html#abc830bbb9ced1ba06639825e7e0ed7eaaef0f2fd9d58d9ccb6e04f28bac92cebc", null ],
+      [ "SPELL_LICHKINGDK008", "df/d11/a04037.html#abc830bbb9ced1ba06639825e7e0ed7eaae9b9660563d2096d35cce6e540a8ad92", null ],
+      [ "SPELL_LICHKINGDK009", "df/d11/a04037.html#abc830bbb9ced1ba06639825e7e0ed7eaae0e3bbb835b7cb4fbf75ff858f217e2a", null ],
+      [ "SPELL_LICHKINGDK010", "df/d11/a04037.html#abc830bbb9ced1ba06639825e7e0ed7eaa4f54632ae3be4eb64f3f3ece0c7bdedf", null ],
+      [ "SPELL_LICHKINGDK011", "df/d11/a04037.html#abc830bbb9ced1ba06639825e7e0ed7eaab461fe19f0595f95683053bf5f18ee17", null ],
+      [ "SPELL_LICHKINGDK012", "df/d11/a04037.html#abc830bbb9ced1ba06639825e7e0ed7eaa863a5889a853d731d7f72f374f27ef70", null ],
+      [ "SPELL_LICHKINGDK013", "df/d11/a04037.html#abc830bbb9ced1ba06639825e7e0ed7eaa10fb1f29f24f6e6c0251b7b0add121de", null ],
+      [ "SPELL_LICHKINGDK014", "df/d11/a04037.html#abc830bbb9ced1ba06639825e7e0ed7eaafd5d6bbf89fd2a980f8b01e20d36c2b7", null ],
+      [ "SPELL_LICHKINGDK015", "df/d11/a04037.html#abc830bbb9ced1ba06639825e7e0ed7eaaeac91373231bcdb8f16c1913e84db842", null ],
+      [ "SPELL_LICHKINGDK016", "df/d11/a04037.html#abc830bbb9ced1ba06639825e7e0ed7eaac18b6a8a2ce6fd5b29caed5d77c59d3f", null ]
+    ] ],
+    [ "UnworthyInitiate", "df/d11/a04037.html#af590a53311e888b53dcef8e183ba91cd", [
+      [ "SPELL_SOUL_PRISON_CHAIN", "df/d11/a04037.html#af590a53311e888b53dcef8e183ba91cdaacb469d2ce157ba80de3be49aac61238", null ],
+      [ "SPELL_DK_INITIATE_VISUAL", "df/d11/a04037.html#af590a53311e888b53dcef8e183ba91cda7eabf8b933a62dab546b7b50aa8a3f2d", null ],
+      [ "SPELL_ICY_TOUCH", "df/d11/a04037.html#af590a53311e888b53dcef8e183ba91cdaa08ac9e39da810d5834d1811db20481f", null ],
+      [ "SPELL_PLAGUE_STRIKE", "df/d11/a04037.html#af590a53311e888b53dcef8e183ba91cda20e455c0ae51cf9a08598dfbd3cfad1a", null ],
+      [ "SPELL_BLOOD_STRIKE", "df/d11/a04037.html#af590a53311e888b53dcef8e183ba91cda3ef59951fd37ac1673af905f4afa2c3a", null ],
+      [ "SPELL_DEATH_COIL", "df/d11/a04037.html#af590a53311e888b53dcef8e183ba91cda196972e452f4cb5df032e5119d25f163", null ],
+      [ "SAY_EVENT_START", "df/d11/a04037.html#af590a53311e888b53dcef8e183ba91cda5b99398ffec3de91807ff5682f0a7478", null ],
+      [ "SAY_EVENT_ATTACK", "df/d11/a04037.html#af590a53311e888b53dcef8e183ba91cda775cad6d6cdebea207fa4d24aa12b6d2", null ],
+      [ "EVENT_ICY_TOUCH", "df/d11/a04037.html#af590a53311e888b53dcef8e183ba91cda7faf8ac32436c1944001a241d8b02925", null ],
+      [ "EVENT_PLAGUE_STRIKE", "df/d11/a04037.html#af590a53311e888b53dcef8e183ba91cda3de0f2b00dd774ee52706362e41dfda9", null ],
+      [ "EVENT_BLOOD_STRIKE", "df/d11/a04037.html#af590a53311e888b53dcef8e183ba91cda84b24833c5e8be35e2397c44f8ade944", null ],
+      [ "EVENT_DEATH_COIL", "df/d11/a04037.html#af590a53311e888b53dcef8e183ba91cdaf17ea4feb08751873794a2be33e793aa", null ]
+    ] ],
+    [ "UnworthyInitiatePhase", "df/d11/a04037.html#ab36fb5898313f01df12c91aca8341be3", [
+      [ "PHASE_CHAINED", "df/d11/a04037.html#ab36fb5898313f01df12c91aca8341be3ab62f3e421ce27e15d2b48ed3f8733658", null ],
+      [ "PHASE_TO_EQUIP", "df/d11/a04037.html#ab36fb5898313f01df12c91aca8341be3a9114c886e3fd9e6982472be76c145da8", null ],
+      [ "PHASE_EQUIPING", "df/d11/a04037.html#ab36fb5898313f01df12c91aca8341be3a4096389ac7ae398fbf4ff16ea63946c8", null ],
+      [ "PHASE_TO_ATTACK", "df/d11/a04037.html#ab36fb5898313f01df12c91aca8341be3a125fbd2981202cf891395e9588d6f7b4", null ],
+      [ "PHASE_ATTACKING", "df/d11/a04037.html#ab36fb5898313f01df12c91aca8341be3ad7f03f3a9e0bd32ed13f8503fb71b3f9", null ]
+    ] ],
+    [ "AddSC_the_scarlet_enclave_c1", "df/d11/a04037.html#a4e50d499ea814e96ce4b4d94a25b1cb0", null ],
+    [ "acherus_soul_prison", "df/d11/a04037.html#adffec7eed38fb87c9c0ecb9f5141b4a0", null ]
 ];

@@ -1,6 +1,8 @@
 var a26534 =
 [
-    [ "HandleScriptEffect", "d0/d77/a26534.html#ab958c74ba8b40488751e5137eb0b6a66", null ],
-    [ "PrepareSpellScript", "d0/d77/a26534.html#a810fcbfe27f3c6991d1c5f599609b6f7", null ],
-    [ "Register", "d0/d77/a26534.html#a12c61c9057250f12ea50be74ba74c948", null ]
+    [ "CheckProc", "d0/d77/a26534.html#a801610a9f9fae5cb711850254b291268", null ],
+    [ "HandleProc", "d0/d77/a26534.html#a3f6a53421c7c4b9346d98aa51c4ccd6d", null ],
+    [ "PrepareAuraScript", "d0/d77/a26534.html#ad08915b0c7f35bef76ddd05a62add43c", null ],
+    [ "Register", "d0/d77/a26534.html#a8626318b6f9b35a8b1c116062618b3c0", null ],
+    [ "Validate", "d0/d77/a26534.html#a8a3abd528fda4aab149fb7f6e5eae00d", null ]
 ];

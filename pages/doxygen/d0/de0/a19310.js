@@ -1,7 +1,6 @@
 var a19310 =
 [
-    [ "OnPeriodic", "d0/de0/a19310.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
-    [ "PrepareAuraScript", "d0/de0/a19310.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
-    [ "Register", "d0/de0/a19310.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
-    [ "Validate", "d0/de0/a19310.html#a54cfed486827216817adb740efa6646e", null ]
+    [ "npc_icc_valkyr_heraldAI", "dc/d06/a19314.html", "dc/d06/a19314" ],
+    [ "npc_icc_valkyr_herald", "d0/de0/a19310.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
+    [ "GetAI", "d0/de0/a19310.html#a7537269841d0380d2dc9e4641705acf9", null ]
 ];

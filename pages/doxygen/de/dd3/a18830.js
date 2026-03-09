@@ -1,6 +1,6 @@
 var a18830 =
 [
-    [ "npc_captain_brandonAI", "d2/dc0/a18834.html", "d2/dc0/a18834" ],
-    [ "npc_captain_brandon", "de/dd3/a18830.html#ad522dd280882d894b5d32e7c888f2360", null ],
-    [ "GetAI", "de/dd3/a18830.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
+    [ "ModDest", "de/dd3/a18830.html#a71638bdecb0f580dceff7858441056d8", null ],
+    [ "PrepareSpellScript", "de/dd3/a18830.html#a741227928e07585b156ec716ae8b13da", null ],
+    [ "Register", "de/dd3/a18830.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
 ];

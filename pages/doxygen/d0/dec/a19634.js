@@ -1,7 +1,6 @@
 var a19634 =
 [
-    [ "Apply", "d0/dec/a19634.html#add8e95d38b0c437833c11cded72fe2a7", null ],
-    [ "PrepareAuraScript", "d0/dec/a19634.html#ad2112b571d97e537983b4d11207015e6", null ],
-    [ "Register", "d0/dec/a19634.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
-    [ "Validate", "d0/dec/a19634.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
+    [ "boss_patchwerkAI", "db/d22/a19638.html", "db/d22/a19638" ],
+    [ "boss_patchwerk", "d0/dec/a19634.html#a526983c4f5191a839ba4a017ac2d14e4", null ],
+    [ "GetAI", "d0/dec/a19634.html#a03f2dec61192405760958e26d998d67e", null ]
 ];

@@ -1,5 +1,9 @@
 var a15162 =
 [
-    [ "npc_hive_zara_swarmer", "dd/d7b/a15162.html#a374fa63e210e0be8a074af9199126a9e", null ],
-    [ "PathEndReached", "dd/d7b/a15162.html#a3b3510bd00853395b756e1d83d96a474", null ]
+    [ "boss_azgalor", "dd/d7b/a15162.html#ac794e0eacc2d543fa62e4b521089f080", null ],
+    [ "DoAction", "dd/d7b/a15162.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
+    [ "JustDied", "dd/d7b/a15162.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
+    [ "JustEngagedWith", "dd/d7b/a15162.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
+    [ "KilledUnit", "dd/d7b/a15162.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
+    [ "_recentlySpoken", "dd/d7b/a15162.html#abea34396ddde0aa02a073b2f3119fec9", null ]
 ];

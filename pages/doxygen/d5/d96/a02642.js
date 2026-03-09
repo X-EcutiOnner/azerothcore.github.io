@@ -1,8 +1,8 @@
 var a02642 =
 [
-    [ "GetDefaultDatabaseInfo", "d5/d96/a02642.html#a5560c170776773a1a20d93060003e89d", null ],
-    [ "CHARACTER_DATABASE_INFO_DEFAULT", "d5/d96/a02642.html#a6854faf653c8b94d9e1b611db3269d1a", null ],
-    [ "EMPTY_DATABASE_INFO", "d5/d96/a02642.html#aa2920a017ca93e102f17b0ca20885c5b", null ],
-    [ "LOGIN_DATABASE_INFO_DEFAULT", "d5/d96/a02642.html#aa5457f479ebc812232cc3f0d67fabde1", null ],
-    [ "WORLD_DATABASE_INFO_DEFAULT", "d5/d96/a02642.html#ad2151db3d84513bc271cf642ad76bb80", null ]
+    [ "TransactionBase", "d8/d2f/a06122.html", "d8/d2f/a06122" ],
+    [ "Transaction< T >", "dc/d8f/a05938.html", "dc/d8f/a05938" ],
+    [ "TransactionTask", "dc/d1e/a06126.html", "dc/d1e/a06126" ],
+    [ "TransactionWithResultTask", "d2/d44/a06130.html", "d2/d44/a06130" ],
+    [ "TransactionCallback", "dc/d40/a06134.html", "dc/d40/a06134" ]
 ];

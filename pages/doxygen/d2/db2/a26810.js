@@ -1,9 +1,7 @@
 var a26810 =
 [
-    [ "HandleAfterHit", "d2/db2/a26810.html#a05341e7a67f50c6ced4bf4bd3892f39a", null ],
-    [ "HandleBeforeHit", "d2/db2/a26810.html#a7ca0fe15f6679c73aa77818ef3d94eed", null ],
-    [ "Load", "d2/db2/a26810.html#a6b2a1f378c0f5a2762ce1d34740d310e", null ],
-    [ "PrepareSpellScript", "d2/db2/a26810.html#a496c27472579be3b8989868765ec19ef", null ],
-    [ "Register", "d2/db2/a26810.html#a133e338413e960c442446a2a4a13b85b", null ],
-    [ "_stackAmount", "d2/db2/a26810.html#a3aa304a5386f6c0ee4aa428bf4ed12bb", null ]
+    [ "HandleProc", "d2/db2/a26810.html#a9601839ce1fff4e1be66f435a78693ac", null ],
+    [ "PrepareAuraScript", "d2/db2/a26810.html#ae7b3804ed0fe40c85d245e2762fd8181", null ],
+    [ "Register", "d2/db2/a26810.html#a588226cc60a7ff0f8a05e8ec34c855e5", null ],
+    [ "Validate", "d2/db2/a26810.html#aea68ea2da0853d72d94a19b98db9375f", null ]
 ];

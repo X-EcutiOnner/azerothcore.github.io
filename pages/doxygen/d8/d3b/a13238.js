@@ -1,7 +1,11 @@
 var a13238 =
 [
-    [ "OnApply", "d8/d3b/a13238.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
-    [ "OnRemove", "d8/d3b/a13238.html#a810203874163cf04798c3edbe69b747e", null ],
-    [ "PrepareAuraScript", "d8/d3b/a13238.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
-    [ "Register", "d8/d3b/a13238.html#af2ad52165de188897fdeb8d62646b7cc", null ]
+    [ "npc_demon_chain", "d8/d3b/a13238.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
+    [ "AttackStart", "d8/d3b/a13238.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
+    [ "IsSummonedBy", "d8/d3b/a13238.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
+    [ "JustDied", "d8/d3b/a13238.html#a35d1b7de8612f11cdf61b9d663990686", null ],
+    [ "JustEngagedWith", "d8/d3b/a13238.html#a9743ebc31c5159a03889bfd40b09d749", null ],
+    [ "MoveInLineOfSight", "d8/d3b/a13238.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
+    [ "Reset", "d8/d3b/a13238.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
+    [ "sacrificeGUID", "d8/d3b/a13238.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
 ];

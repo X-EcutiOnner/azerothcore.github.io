@@ -1,6 +1,6 @@
 var a17458 =
 [
-    [ "boss_prince_taldaramAI", "d4/da1/a17462.html", "d4/da1/a17462" ],
-    [ "boss_prince_taldaram_icc", "dc/d9e/a17458.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
-    [ "GetAI", "dc/d9e/a17458.html#a2a8c89206ab72afc68260f41a246da3b", null ]
+    [ "npc_hor_risen_witch_doctorAI", "d4/da1/a17462.html", "d4/da1/a17462" ],
+    [ "npc_hor_risen_witch_doctor", "dc/d9e/a17458.html#add06a10c9b4342b136b5cab49338b095", null ],
+    [ "GetAI", "dc/d9e/a17458.html#a055a8d29d8e6a58b92968ed1c39c1b1d", null ]
 ];

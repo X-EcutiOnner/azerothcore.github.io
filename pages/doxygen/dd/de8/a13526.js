@@ -1,12 +1,8 @@
 var a13526 =
 [
-    [ "boss_sathrovarr", "dd/de8/a13526.html#a92bff830219f795d0aae4511f3d524bb", null ],
-    [ "CanAIAttack", "dd/de8/a13526.html#a053dcf604aed91ac7c888d682653da54", null ],
-    [ "DoAction", "dd/de8/a13526.html#ad0b549678e5b4eb7dfc1c1879885b45a", null ],
-    [ "JustDied", "dd/de8/a13526.html#aa6683f0ccb70260e24f79d86ec4ae2d1", null ],
-    [ "JustEngagedWith", "dd/de8/a13526.html#a1f3a74ac6f83673eed9b2a4276a5cf49", null ],
-    [ "KilledUnit", "dd/de8/a13526.html#a17e2a5d253536c25cd04269b71a5c0ed", null ],
-    [ "Reset", "dd/de8/a13526.html#a171c0e2c07ddf4c5271af8ed83f15257", null ],
-    [ "UpdateAI", "dd/de8/a13526.html#a99c5c8801333f2eaf6b9fee287588093", null ],
-    [ "_instance", "dd/de8/a13526.html#af7bfd6a65db102b5010f7b300e4acd27", null ]
+    [ "CheckCast", "dd/de8/a13526.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
+    [ "HandleScriptEffect", "dd/de8/a13526.html#a36bb2b95651889eaa0321a7a327e173f", null ],
+    [ "PrepareSpellScript", "dd/de8/a13526.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
+    [ "Register", "dd/de8/a13526.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
+    [ "Validate", "dd/de8/a13526.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
 ];

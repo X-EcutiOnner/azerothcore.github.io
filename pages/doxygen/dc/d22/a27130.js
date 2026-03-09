@@ -1,7 +1,7 @@
 var a27130 =
 [
-    [ "HandleApplyAura", "dc/d22/a27130.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
-    [ "PrepareSpellScript", "dc/d22/a27130.html#adf09900347264bc341884092ea0fee40", null ],
-    [ "Register", "dc/d22/a27130.html#ac56484d4048817a164963e519a97d137", null ],
-    [ "Validate", "dc/d22/a27130.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
+    [ "HandleDummy", "dc/d22/a27130.html#ad2367c1fd551187b6f19f795abb15ea6", null ],
+    [ "PrepareSpellScript", "dc/d22/a27130.html#a125f7550ce826f74ac14902bc82d5021", null ],
+    [ "Register", "dc/d22/a27130.html#a35e9132e2414383caafbde699de6061d", null ],
+    [ "Validate", "dc/d22/a27130.html#a530489a10287a6dd281d518683b1a3f3", null ]
 ];

@@ -1,5 +1,8 @@
 var a27230 =
 [
-    [ "achievement_resilient_victory", "d5/ddd/a27230.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
-    [ "OnCheck", "d5/ddd/a27230.html#a21445d406f67771a20608260b3f9b033", null ]
+    [ "HandleScript", "d5/ddd/a27230.html#a1e096b2b2f5a285e660f64fb133f4f8b", null ],
+    [ "Load", "d5/ddd/a27230.html#ad4e3fecb64bbb0f5c63b90d445c0b9f3", null ],
+    [ "PrepareSpellScript", "d5/ddd/a27230.html#a5c4b2a46dfd6bdc2d14ee02f673628c1", null ],
+    [ "Register", "d5/ddd/a27230.html#aa823af94e3366ae799ebaf03e52411dd", null ],
+    [ "Validate", "d5/ddd/a27230.html#ad6985954002f88436a2681e758f41fb2", null ]
 ];

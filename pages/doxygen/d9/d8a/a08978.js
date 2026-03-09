@@ -1,7 +1,8 @@
 var a08978 =
 [
-    [ "IsFitToRequirements", "d9/d8a/a08978.html#ac175634ed2eab2911c3749fa208a073a", null ],
-    [ "castFlags", "d9/d8a/a08978.html#a03cd65a460ea252818de9230cb656c1c", null ],
-    [ "spellId", "d9/d8a/a08978.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
-    [ "userType", "d9/d8a/a08978.html#adcf285572403481cb418bddebc5f4bfa", null ]
+    [ "CleanDamage", "d9/d8a/a08978.html#ad25ab816a679e323c07873efbc1c2f20", null ],
+    [ "absorbed_damage", "d9/d8a/a08978.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
+    [ "attackType", "d9/d8a/a08978.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
+    [ "hitOutCome", "d9/d8a/a08978.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
+    [ "mitigated_damage", "d9/d8a/a08978.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
 ];

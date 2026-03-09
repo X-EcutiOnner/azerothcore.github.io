@@ -1,5 +1,6 @@
 var a27254 =
 [
-    [ "achievement_bg_sa_artillery", "db/d9c/a27254.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
-    [ "OnCheck", "db/d9c/a27254.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
+    [ "HandleScript", "db/d9c/a27254.html#ad0885113f3bd8eea8ff3db30b55cc240", null ],
+    [ "PrepareSpellScript", "db/d9c/a27254.html#a8410b746f810eaeb7f71c3a7de607a84", null ],
+    [ "Register", "db/d9c/a27254.html#ab8f5c857ee42a6767d10277b52a7da01", null ]
 ];

@@ -1,7 +1,9 @@
 var a17506 =
 [
-    [ "HandleDummyTick", "d1/df7/a17506.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
-    [ "PrepareAuraScript", "d1/df7/a17506.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
-    [ "Register", "d1/df7/a17506.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
-    [ "Validate", "d1/df7/a17506.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
+    [ "FilterTargets", "d1/df7/a17506.html#aefebf504286394cf3caffa566543e4a4", null ],
+    [ "FilterTargetsNext", "d1/df7/a17506.html#a356b6ace97d07df22a232d2287072b5e", null ],
+    [ "PrepareSpellScript", "d1/df7/a17506.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
+    [ "Register", "d1/df7/a17506.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
+    [ "Unload", "d1/df7/a17506.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
+    [ "targetList", "d1/df7/a17506.html#a3c839185938e0b67b97f652d1d15e213", null ]
 ];

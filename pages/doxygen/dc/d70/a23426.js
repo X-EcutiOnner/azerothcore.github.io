@@ -1,7 +1,7 @@
 var a23426 =
 [
-    [ "FilterTargets", "dc/d70/a23426.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
-    [ "HandleDummy", "dc/d70/a23426.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
-    [ "PrepareSpellScript", "dc/d70/a23426.html#ae7714acbe0a08781e3bc297847c47870", null ],
-    [ "Register", "dc/d70/a23426.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
+    [ "HandleScript", "dc/d70/a23426.html#a8933535f9507b90b54032c17985cc3c6", null ],
+    [ "PrepareSpellScript", "dc/d70/a23426.html#acadb563eaeffac47b3f883f9d8c37994", null ],
+    [ "Register", "dc/d70/a23426.html#a797ae84dcb0fc13b0799934bde71809c", null ],
+    [ "Validate", "dc/d70/a23426.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
 ];

@@ -1,6 +1,10 @@
 var a21486 =
 [
-    [ "boss_erekemAI", "de/db2/a21490.html", "de/db2/a21490" ],
-    [ "boss_erekem", "d3/dea/a21486.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
-    [ "GetAI", "d3/dea/a21486.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
+    [ "npc_azure_spellbreakerAI", "d3/dea/a21486.html#a1daf4cb20f4081380d8deda9a58da2fd", null ],
+    [ "Reset", "d3/dea/a21486.html#a731ff2d4311359145c353de2d91935c8", null ],
+    [ "UpdateAI", "d3/dea/a21486.html#a053ecfe5c78220c4fa1ac896ce161210", null ],
+    [ "uiArcaneBlastTimer", "d3/dea/a21486.html#a1e752971a31c7d3415c1820eb3574a98", null ],
+    [ "uiChainsOfIceTimer", "d3/dea/a21486.html#a2cbf33865a79a781d8b7aad04cd2095c", null ],
+    [ "uiConeOfColdTimer", "d3/dea/a21486.html#a4970c7459b044b08bf36e17c703395fb", null ],
+    [ "uiSlowTimer", "d3/dea/a21486.html#a2a02b42ec104cfb6682782a80f813eef", null ]
 ];

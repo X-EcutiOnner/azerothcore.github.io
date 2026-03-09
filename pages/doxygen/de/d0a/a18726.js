@@ -1,6 +1,6 @@
 var a18726 =
 [
-    [ "HandleScript", "de/d0a/a18726.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
-    [ "PrepareSpellScript", "de/d0a/a18726.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
-    [ "Register", "de/d0a/a18726.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
+    [ "npc_tirion_fordringAI", "d9/d5f/a18730.html", "d9/d5f/a18730" ],
+    [ "npc_tirion_fordring_tft", "de/d0a/a18726.html#a04036d958e7ac643c9ba8d9073bca404", null ],
+    [ "GetAI", "de/d0a/a18726.html#a41dcfa415831091531cbf46e946f442d", null ]
 ];

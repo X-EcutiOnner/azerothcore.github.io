@@ -1,6 +1,6 @@
 var a17314 =
 [
-    [ "HandleDummy", "d6/d89/a17314.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
-    [ "PrepareSpellScript", "d6/d89/a17314.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
-    [ "Register", "d6/d89/a17314.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
+    [ "npc_fos_leader_secondAI", "dc/d7c/a17318.html", "dc/d7c/a17318" ],
+    [ "npc_fos_leader_second", "d6/d89/a17314.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
+    [ "GetAI", "d6/d89/a17314.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
 ];

@@ -1,8 +1,8 @@
 var a16342 =
 [
-    [ "OnApply", "d9/dc6/a16342.html#a7165da94ce589afcd24411a308802c18", null ],
-    [ "OnRemove", "d9/dc6/a16342.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49", null ],
-    [ "PrepareAuraScript", "d9/dc6/a16342.html#ab8361bc1d2cc786b52f1fc2b7ff09527", null ],
-    [ "Register", "d9/dc6/a16342.html#a0ff7bbd0dea458b15231ecf419b1c49c", null ],
-    [ "Validate", "d9/dc6/a16342.html#acf29b80b7b74c3f409e1f046b8062994", null ]
+    [ "HandleAfterCast", "d9/dc6/a16342.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
+    [ "HandleDummyEffect", "d9/dc6/a16342.html#a539c233fc820248930e1988c4074b9c8", null ],
+    [ "Load", "d9/dc6/a16342.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
+    [ "PrepareSpellScript", "d9/dc6/a16342.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
+    [ "Register", "d9/dc6/a16342.html#ae90184fd34636b33755b732ec82fd52f", null ]
 ];

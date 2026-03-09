@@ -1,6 +1,6 @@
 var a12530 =
 [
-    [ "HandleOnHit", "d0/da7/a12530.html#a804097903354ab3a730f0fe3eb5ec863", null ],
-    [ "PrepareSpellScript", "d0/da7/a12530.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
-    [ "Register", "d0/da7/a12530.html#a53bed6f1af71fd309a04bc004d07be80", null ]
+    [ "boss_drakkisathAI", "d3/d0d/a12534.html", "d3/d0d/a12534" ],
+    [ "boss_drakkisath", "d0/da7/a12530.html#a73f21cbd7b81fc045ae129d7d650b455", null ],
+    [ "GetAI", "d0/da7/a12530.html#ad27999ba129b2e3617c1aba1c4b9772b", null ]
 ];

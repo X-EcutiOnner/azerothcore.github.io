@@ -1,7 +1,10 @@
 var a10390 =
 [
-    [ "InstanceMapScript", "d6/d23/a10390.html#a350d328f82cc5e7ea43f3c8779d25a67", null ],
-    [ "checkValidity", "d6/d23/a10390.html#a221dd91e2d2f761e66d990a6cae42306", null ],
-    [ "GetInstanceScript", "d6/d23/a10390.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8", null ],
-    [ "IsDatabaseBound", "d6/d23/a10390.html#ab77651bb427813a7e119057c3dc53ca8", null ]
+    [ "WaypointMgr", "d6/d23/a10390.html#a2f038884959f10348bd5b7af3abee7db", null ],
+    [ "~WaypointMgr", "d6/d23/a10390.html#a7b0fed55791df7ab040a46984700d18e", null ],
+    [ "GetPath", "d6/d23/a10390.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
+    [ "instance", "d6/d23/a10390.html#aacd2ed943503288057b3fb9a935a56e9", null ],
+    [ "Load", "d6/d23/a10390.html#a69ae451ce07f2e68be81b1a86649115d", null ],
+    [ "ReloadPath", "d6/d23/a10390.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
+    [ "_waypointStore", "d6/d23/a10390.html#af70ce7663d7f132339ea8d163311c248", null ]
 ];

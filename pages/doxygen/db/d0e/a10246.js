@@ -1,10 +1,8 @@
 var a10246 =
 [
-    [ "QuestStatusData", "db/d0e/a10246.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
-    [ "CreatureOrGOCount", "db/d0e/a10246.html#aa5892dc0744a41ac565568307f12ad35", null ],
-    [ "Explored", "db/d0e/a10246.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
-    [ "ItemCount", "db/d0e/a10246.html#a466999cea52f65bf58916bc34750bf95", null ],
-    [ "PlayerCount", "db/d0e/a10246.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
-    [ "Status", "db/d0e/a10246.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
-    [ "Timer", "db/d0e/a10246.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
+    [ "TimedFleeingMovementGenerator", "db/d0e/a10246.html#ae3eed5f4b5a8d11ad4eed67ce5329742", null ],
+    [ "Finalize", "db/d0e/a10246.html#a1a18f033663fa93ef0b9885aae21f766", null ],
+    [ "GetMovementGeneratorType", "db/d0e/a10246.html#a1533d13f4e786e498353805a2a2daf85", null ],
+    [ "Update", "db/d0e/a10246.html#a53688aae55bfdd3a33eb24484fcc157e", null ],
+    [ "i_totalFleeTime", "db/d0e/a10246.html#a2858047459ff675383e7b86805702369", null ]
 ];

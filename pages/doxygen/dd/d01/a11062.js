@@ -1,6 +1,6 @@
 var a11062 =
 [
-    [ "PetLearnedSpell", "dd/d01/a11062.html#a5d105cca08515b9550998f2c86b13a1a", null ],
-    [ "Write", "dd/d01/a11062.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
-    [ "SpellID", "dd/d01/a11062.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
+    [ "InstanceReset", "dd/d01/a11062.html#ab1ff5009dc40f18c30941e327e5c3863", null ],
+    [ "Write", "dd/d01/a11062.html#a0809c4de226d3aaab9817c393cef6055", null ],
+    [ "MapId", "dd/d01/a11062.html#a7b80bb32e524fe1d0ddadf955f1ec4a2", null ]
 ];

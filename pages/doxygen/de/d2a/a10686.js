@@ -1,5 +1,10 @@
 var a10686 =
 [
-    [ "GuildEventLogQuery", "de/d2a/a10686.html#af66d667a4b722745fa4f855870ef332c", null ],
-    [ "Read", "de/d2a/a10686.html#a48881f116070d5a7c03e7cace86656f6", null ]
+    [ "VehicleScript", "de/d2a/a10686.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
+    [ "OnAddPassenger", "de/d2a/a10686.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
+    [ "OnInstall", "de/d2a/a10686.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
+    [ "OnInstallAccessory", "de/d2a/a10686.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
+    [ "OnRemovePassenger", "de/d2a/a10686.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
+    [ "OnReset", "de/d2a/a10686.html#a38fca3fec8785f015084b832f9e3b08c", null ],
+    [ "OnUninstall", "de/d2a/a10686.html#a7d4bafe42756ee73b5ce79783842c243", null ]
 ];

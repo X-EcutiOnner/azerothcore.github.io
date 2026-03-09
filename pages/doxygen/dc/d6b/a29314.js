@@ -1,14 +1,18 @@
 var a29314 =
 [
-    [ "file_MVER", "d9/d59/a28326.html", "d9/d59/a28326" ],
-    [ "FileLoader", "d1/dfc/a28334.html", "d1/dfc/a28334" ],
-    [ "FILE_FORMAT_VERSION", "dc/d6b/a29314.html#a82680783457cdcbe83db9eefe68f8a9b", null ],
-    [ "int16", "dc/d6b/a29314.html#aa0d0fdc87fd135ef2bedb030901cdb9c", null ],
-    [ "int32", "dc/d6b/a29314.html#ab7903878916593daecbeb95b98115ab0", null ],
-    [ "int64", "dc/d6b/a29314.html#a7cde0074dfd288f2d70c0e035dacb28a", null ],
-    [ "int8", "dc/d6b/a29314.html#aa79c2d3de4fcd200458c406f40b2ae64", null ],
-    [ "uint16", "dc/d6b/a29314.html#ac2a9e79eb120216f855626495b7bd18a", null ],
-    [ "uint32", "dc/d6b/a29314.html#acbd4acd0d29e2d6c43104827f77d9cd2", null ],
-    [ "uint64", "dc/d6b/a29314.html#abc0f5bc07737e498f287334775dff2b6", null ],
-    [ "uint8", "dc/d6b/a29314.html#a33a5e996e7a90acefb8b1c0bea47e365", null ]
+    [ "getArmorMod", "dc/d6b/a29314.html#a0e56e757faf660cabe0ba4316ee17f12", null ],
+    [ "getDPSMod", "dc/d6b/a29314.html#aa0718862ebfeea92ad299e04c9c622c8", null ],
+    [ "getFeralBonus", "dc/d6b/a29314.html#aa54c3d1add4a1b982c05138f876fd138", null ],
+    [ "getSpellBonus", "dc/d6b/a29314.html#aba240e0c9f81ca7d5f17d3631410a7b3", null ],
+    [ "getssdMultiplier", "dc/d6b/a29314.html#ab0fbc14e59c3a387b21d3f4a825d3b36", null ],
+    [ "IsTwoHand", "dc/d6b/a29314.html#ac83356dba956bfb0aa0a0fb0d976b60e", null ],
+    [ "armorMod", "dc/d6b/a29314.html#a742f8447dca5961fb39e50de8233fa86", null ],
+    [ "armorMod2", "dc/d6b/a29314.html#a36dba32ea7febb8dab627fa992de878b", null ],
+    [ "dpsMod", "dc/d6b/a29314.html#ace956cab0056bcf0e116ac0884ad3575", null ],
+    [ "Id", "dc/d6b/a29314.html#aebc75b8f80cb210b6af081077bd88e85", null ],
+    [ "Level", "dc/d6b/a29314.html#a5758f5152401efde26edf3110c0d11e2", null ],
+    [ "spellPower", "dc/d6b/a29314.html#a03804cca02fd1146dffb762bcd1274f8", null ],
+    [ "ssdMultiplier", "dc/d6b/a29314.html#a7559b9045268d8050372153c8c976946", null ],
+    [ "ssdMultiplier2", "dc/d6b/a29314.html#a57cdfb5465ced673edeb8c35bd7a3535", null ],
+    [ "ssdMultiplier3", "dc/d6b/a29314.html#ae78f00d5ed42704a4093b5df939498d7", null ]
 ];

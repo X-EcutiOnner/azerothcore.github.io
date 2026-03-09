@@ -1,5 +1,6 @@
 var a15298 =
 [
-    [ "NotInStomachSelector", "d4/d38/a15298.html#a766a75e73261ac8bb76c90e8befd21ad", null ],
-    [ "operator()", "d4/d38/a15298.html#a189c90e585ecef8ffbcbe9227c588946", null ]
+    [ "npc_cos_chromie_start", "d4/d38/a15298.html#ae8f810af1e593ad16958049f6ad19616", null ],
+    [ "OnGossipSelect", "d4/d38/a15298.html#a80db05062f24dd2d5bc0bb6996cf8a30", null ],
+    [ "OnQuestAccept", "d4/d38/a15298.html#a038e046773718f5cd55d2b4eb98b3d24", null ]
 ];

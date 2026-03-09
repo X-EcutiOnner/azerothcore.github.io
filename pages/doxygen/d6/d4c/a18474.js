@@ -1,6 +1,11 @@
 var a18474 =
 [
-    [ "HandleScript", "d6/d4c/a18474.html#aa05c6e510e933a71a6bce8d653632ebd", null ],
-    [ "PrepareSpellScript", "d6/d4c/a18474.html#add6b78f0396a34c36e0dff1928889e43", null ],
-    [ "Register", "d6/d4c/a18474.html#a587247f7417cefa2b8aa5a8edb8e2616", null ]
+    [ "npc_little_oozeAI", "d6/d4c/a18474.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
+    [ "EnterEvadeMode", "d6/d4c/a18474.html#a0bd4bfcc8c373a449f297011289e5530", null ],
+    [ "IsSummonedBy", "d6/d4c/a18474.html#afb9763ade36bd742398a8bca961c136b", null ],
+    [ "JustDied", "d6/d4c/a18474.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
+    [ "UpdateAI", "d6/d4c/a18474.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
+    [ "events", "d6/d4c/a18474.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
+    [ "firstUpdate", "d6/d4c/a18474.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
+    [ "instance", "d6/d4c/a18474.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
 ];

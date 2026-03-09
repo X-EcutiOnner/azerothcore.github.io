@@ -1,6 +1,6 @@
 var a14562 =
 [
-    [ "HandleDummy", "df/d28/a14562.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
-    [ "PrepareSpellScript", "df/d28/a14562.html#a87a787c6ab3804847c90266f570381c6", null ],
-    [ "Register", "df/d28/a14562.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
+    [ "HandleOnHit", "df/d28/a14562.html#a76b09288d14d399735250607e2105eb3", null ],
+    [ "PrepareSpellScript", "df/d28/a14562.html#a2270ce546ae286ffa701d094df591aa2", null ],
+    [ "Register", "df/d28/a14562.html#a710f2a60bf6ae00909d279b98ac6b7d6", null ]
 ];

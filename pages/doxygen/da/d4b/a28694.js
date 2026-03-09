@@ -1,6 +1,4 @@
 var a28694 =
 [
-    [ "categoryMask", "da/d4b/a28694.html#abd8816e5dda7bda455ccd6932647c4be", null ],
-    [ "categoryType", "da/d4b/a28694.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
-    [ "ID", "da/d4b/a28694.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
+    [ "operator()", "da/d4b/a28694.html#a76ede7ef27a41a284821e690c88375c9", null ]
 ];

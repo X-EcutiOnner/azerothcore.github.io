@@ -1,12 +1,20 @@
 var a10162 =
 [
-    [ "delay", "d0/d93/a10162.html#aa05ef99c3e04589501362a07d0dd032a", null ],
-    [ "event_chance", "d0/d93/a10162.html#af54f2d38ca1a11664f516799f3bb80c8", null ],
-    [ "event_id", "d0/d93/a10162.html#a083020691278af836e48f0a0c2feff96", null ],
-    [ "id", "d0/d93/a10162.html#af7248c313ceefedb5b7ff6ed4c2ffd6b", null ],
-    [ "move_type", "d0/d93/a10162.html#afb1a57b423a258e99c6921727a27e2e7", null ],
-    [ "orientation", "d0/d93/a10162.html#a971411811b0e60839538f82cd55dcfb7", null ],
-    [ "x", "d0/d93/a10162.html#a2dfd7f1f946ebef0b67d8f1542198b4b", null ],
-    [ "y", "d0/d93/a10162.html#a574c5ba7eb5e6bd55f6c55bb511c03f7", null ],
-    [ "z", "d0/d93/a10162.html#a013fa650f43e790e652016fbce2e1bd5", null ]
+    [ "ZoneScript", "d0/d93/a10162.html#a3519b281545e348167893060c2aa352c", null ],
+    [ "~ZoneScript", "d0/d93/a10162.html#af4aa4d8f6b48d7d63fb6daa85d50c756", null ],
+    [ "GetCreatureEntry", "d0/d93/a10162.html#a8cabd274bffe18004c3fced46ae325b0", null ],
+    [ "GetData", "d0/d93/a10162.html#a8997612fdbdacbf5e28e4de60d03e805", null ],
+    [ "GetData64", "d0/d93/a10162.html#ab7aecf55fb84288840465dd69eacc8eb", null ],
+    [ "GetGameObjectEntry", "d0/d93/a10162.html#a3101d469bb171957177011fc0a76999b", null ],
+    [ "GetGuidData", "d0/d93/a10162.html#aa1483a9ca7f97cef589dd141d669cc46", null ],
+    [ "OnCreatureCreate", "d0/d93/a10162.html#ae61020e57e9ca8ae0d42a51e39b1fee0", null ],
+    [ "OnCreatureEvade", "d0/d93/a10162.html#a8113c8738b772b740dbc7a2352637669", null ],
+    [ "OnCreatureRemove", "d0/d93/a10162.html#adf80a1b08c7ab4451cd6967138727b56", null ],
+    [ "OnGameObjectCreate", "d0/d93/a10162.html#afa02089edff085ecd4eb7178b94ffe26", null ],
+    [ "OnGameObjectRemove", "d0/d93/a10162.html#a61c1ab81f65b4bfdf638eec002cb498c", null ],
+    [ "OnUnitDeath", "d0/d93/a10162.html#afaf1aecaaaac82508b8f1c50712b8204", null ],
+    [ "ProcessEvent", "d0/d93/a10162.html#ab32f7102df50af48e43f544bd107f964", null ],
+    [ "SetData", "d0/d93/a10162.html#a949e67ea24c7e4b70a20806952735576", null ],
+    [ "SetData64", "d0/d93/a10162.html#a321c2fc00f1d3d261a4887a1e74f4244", null ],
+    [ "SetGuidData", "d0/d93/a10162.html#ac465d5e7d00a7e3b935942f1627763f4", null ]
 ];

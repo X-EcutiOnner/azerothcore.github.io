@@ -1,7 +1,5 @@
 var a09914 =
 [
-    [ "LFGUpdateRequest", "d1/d39/a09914.html#a85900fc44d5dfb5595fbe7dc3422dfaa", null ],
-    [ "call", "d1/d39/a09914.html#a15258001db5870a0f52bb0c72cba3587", null ],
-    [ "m_diff", "d1/d39/a09914.html#a27e818e5d985ac91be6eca14a1ebd73f", null ],
-    [ "m_updater", "d1/d39/a09914.html#a1bb4423241495aebab83ebc1acf66510", null ]
+    [ "bossId", "d1/d39/a09914.html#af9fc7d02d16d4fb3547273428553cf05", null ],
+    [ "boundary", "d1/d39/a09914.html#a7b474c6b9225102ba08864256d07d9e6", null ]
 ];

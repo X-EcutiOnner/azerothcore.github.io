@@ -1,27 +1,9 @@
 var a18034 =
 [
-    [ "boss_professor_putricideAI", "de/d09/a18034.html#a4b8da227d51dab70c8cd2049ef9d5785", null ],
-    [ "CanAIAttack", "de/d09/a18034.html#ac0b540bd1266badcbabdb50e2409d4a5", null ],
-    [ "ChangePhase", "de/d09/a18034.html#af3b8b1bca2e5c043b5cf7a2df771dce1", null ],
-    [ "DamageTaken", "de/d09/a18034.html#a721a1c4a1391c074cb92cf2d7cda278e", null ],
-    [ "DoAction", "de/d09/a18034.html#ae373180193d65c1555c1649af8e08f6c", null ],
-    [ "EnterEvadeMode", "de/d09/a18034.html#ae0b55ae5b0c63510bae45f290615ab8e", null ],
-    [ "GetData", "de/d09/a18034.html#a061d60b47e450e139b137e042908a1bd", null ],
-    [ "JustDied", "de/d09/a18034.html#ab4782624c71f99b28c2aaa3f307f6b03", null ],
-    [ "JustEngagedWith", "de/d09/a18034.html#ad0eb4dec4e48e63c4ce1656616ada626", null ],
-    [ "JustReachedHome", "de/d09/a18034.html#a80677fa12904cdf69eb5f47db190513b", null ],
-    [ "JustSummoned", "de/d09/a18034.html#abc47d7d06a57e9650664af1ffe2362a8", null ],
-    [ "KilledUnit", "de/d09/a18034.html#a1ff6312035c4bcfd773de47ae8dfda50", null ],
-    [ "MoveInLineOfSight", "de/d09/a18034.html#a5b888888d077ba50dd49400e3092bd37", null ],
-    [ "MovementInform", "de/d09/a18034.html#a0a01aa0dd2e61008dffa4f95d2dbf6d7", null ],
-    [ "Reset", "de/d09/a18034.html#ace23336f6204ac8eb59187e024e9cfa8", null ],
-    [ "SetData", "de/d09/a18034.html#af789687d10fce3b216c2d562ac7798a0", null ],
-    [ "UpdateAI", "de/d09/a18034.html#a2981d85544ef63fa0683d3567be043bc", null ],
-    [ "_experimentState", "de/d09/a18034.html#a191632077d18da7ef09254bea62b4b9d", null ],
-    [ "_phase", "de/d09/a18034.html#a7582bb2d0fa50e86aac9e892b55b423c", null ],
-    [ "bCallEvade", "de/d09/a18034.html#abc42dcf6588ebe8849e41115e17c165c", null ],
-    [ "bChangePhase", "de/d09/a18034.html#a4da7453534c2a600e1f5dec47a17d4b9", null ],
-    [ "bEnteredCombat", "de/d09/a18034.html#a1fa4d69f86408cc752ac4edab76a87dd", null ],
-    [ "sayFestergutDeathTimer", "de/d09/a18034.html#a432f28a03c7dc38060c6301023de5e44", null ],
-    [ "sayRotfaceDeathTimer", "de/d09/a18034.html#acc985a0aeaf9572ff774d11b3b8dde30", null ]
+    [ "BattleExperienceEvent", "de/d09/a18034.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
+    [ "Execute", "de/d09/a18034.html#a3971962ec90f682baeae96fe6098fa97", null ],
+    [ "_creature", "de/d09/a18034.html#a0155536d5c2be329a1f3b57c4d852098", null ],
+    [ "_level", "de/d09/a18034.html#a22f0d7e59f579362be4576180d0977b8", null ],
+    [ "ExperiencedSpells", "de/d09/a18034.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
+    [ "ExperiencedTimes", "de/d09/a18034.html#af682cc246c7fdae39cc2a1e57110badc", null ]
 ];

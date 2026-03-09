@@ -1,11 +1,9 @@
 var a02525 =
 [
-    [ "SkillDiscoveryEntry", "dc/dda/a11508.html", "dc/dda/a11508" ],
-    [ "SkillDiscoveryList", "db/de8/a02525.html#a0c80a6b86b3b7bd5e9c238efa802919b", null ],
-    [ "SkillDiscoveryMap", "db/de8/a02525.html#ab7ec6a8662e4edd3167deb3c917d2eab", null ],
-    [ "GetExplicitDiscoverySpell", "db/de8/a02525.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
-    [ "GetSkillDiscoverySpell", "db/de8/a02525.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
-    [ "HasDiscoveredAllSpells", "db/de8/a02525.html#abdf3c2fcf65212466dfb54053e35024c", null ],
-    [ "LoadSkillDiscoveryTable", "db/de8/a02525.html#addd95f0a239a27ed32cd943aa1052019", null ],
-    [ "SkillDiscoveryStore", "db/de8/a02525.html#a1d624484e07efeeabc8a73a10c75ca4d", null ]
+    [ "MapType", "db/de8/a02525.html#a2a540ae6cb73c9914f0253464b155227", null ],
+    [ "Find", "db/de8/a02525.html#a42d065468e6e62b7161ba0c17e1d75ea", null ],
+    [ "Insert", "db/de8/a02525.html#a3ba44f9ba2a1ff4fd122944f95ef06bd", null ],
+    [ "Remove", "db/de8/a02525.html#a8f833a3f02f1e431170dd5d052b0f919", null ],
+    [ "RemoveByName", "db/de8/a02525.html#a9c5298580060e7a6078ffb5f4008c549", null ],
+    [ "PlayerNameMap", "db/de8/a02525.html#aa8fcdd0ac947e92edddddd4e2daf61dd", null ]
 ];

@@ -1,7 +1,7 @@
 var a30018 =
 [
-    [ "MPQArchive", "d6/db6/a29012.html", "d6/db6/a29012" ],
-    [ "MPQFile", "d3/dd2/a29016.html", "d3/dd2/a29016" ],
-    [ "ArchiveSet", "db/d26/a30018.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "db/d26/a30018.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "walkableClimb", "db/d26/a30018.html#af8d2e9bccb8f6bbb36065e686ea39626", null ],
+    [ "walkableHeight", "db/d26/a30018.html#a32f39a07562c47be0a311d7959678044", null ],
+    [ "walkableRadius", "db/d26/a30018.html#a6e708a591e7b5597e129a653e1379a1e", null ],
+    [ "walkableSlopeAngle", "db/d26/a30018.html#a9b880e84fa1d07e414e9a9a62a20969c", null ]
 ];

@@ -1,6 +1,7 @@
 var a12758 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "d4/dba/a12762.html", "d4/dba/a12762" ],
-    [ "instance_gnomeregan", "d7/de3/a12758.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
-    [ "GetInstanceScript", "d7/de3/a12758.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
+    [ "boss_ebonrocAI", "d7/de3/a12758.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
+    [ "JustEngagedWith", "d7/de3/a12758.html#a2c74e0030b1093d79245978939043d53", null ],
+    [ "MovementInform", "d7/de3/a12758.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
+    [ "UpdateAI", "d7/de3/a12758.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
 ];

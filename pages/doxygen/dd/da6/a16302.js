@@ -1,8 +1,19 @@
 var a16302 =
 [
-    [ "OnApply", "dd/da6/a16302.html#a96321003a002be0e4838901f03f8a5d8", null ],
-    [ "OnRemove", "dd/da6/a16302.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
-    [ "PrepareAuraScript", "dd/da6/a16302.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
-    [ "Register", "dd/da6/a16302.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
-    [ "Validate", "dd/da6/a16302.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
+    [ "npc_weegli_blastfuseAI", "dd/da6/a16302.html#acde6b3e037d3c297e5d1beccdbe3d03a", null ],
+    [ "AttackStart", "dd/da6/a16302.html#a5e9140b38021ed6a2808e026fd77f8f1", null ],
+    [ "DestroyDoor", "dd/da6/a16302.html#a0cf76693b1af179c9857abdccc6931ee", null ],
+    [ "InitializeAI", "dd/da6/a16302.html#a61490f8c63f8056ac9f145ed8dd789c7", null ],
+    [ "JustReachedHome", "dd/da6/a16302.html#a4a88bc4bff8b5b2f75e3dd0c25927815", null ],
+    [ "MovementInform", "dd/da6/a16302.html#a33470a45eba0cbb62b041010f6aed302", null ],
+    [ "Reset", "dd/da6/a16302.html#abec9f353a1430afae12c21273bf32197", null ],
+    [ "sGossipHello", "dd/da6/a16302.html#a3a8381fa5e5d4daf19f312166247bea5", null ],
+    [ "sGossipSelect", "dd/da6/a16302.html#a0927116dcc55a1107dce7c65d1295e2a", null ],
+    [ "UpdateAI", "dd/da6/a16302.html#a73e482ebbb1566738e6775a574500dc8", null ],
+    [ "Bomb_Timer", "dd/da6/a16302.html#af6f68e291ce7d8cf25105ac64d7eebff", null ],
+    [ "destroyingDoor", "dd/da6/a16302.html#a0c7f207666da8ad74ff9dc64b582a042", null ],
+    [ "instance", "dd/da6/a16302.html#a609616e5136cf11bc16f9bb30ba92879", null ],
+    [ "LandMine_Timer", "dd/da6/a16302.html#ad9bab1d2c7a2baf35f6f7fb2cb4a27c7", null ],
+    [ "outroStage", "dd/da6/a16302.html#a30cdbce7bddb4d1d221925de86329a41", null ],
+    [ "outroTimer", "dd/da6/a16302.html#a08ef419fbef2ec38b7bcd408f135cd29", null ]
 ];

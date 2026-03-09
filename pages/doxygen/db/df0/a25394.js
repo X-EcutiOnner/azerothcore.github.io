@@ -1,6 +1,5 @@
 var a25394 =
 [
-    [ "HandleScript", "db/df0/a25394.html#a1055ce8e5cbcc9d475bd9dab1f99cf92", null ],
-    [ "PrepareSpellScript", "db/df0/a25394.html#a460823e5ad006c08d5b6378b7df279f0", null ],
-    [ "Register", "db/df0/a25394.html#a7099938c5f14238b5afdadb6d040f931", null ]
+    [ "PrepareSpellScript", "db/df0/a25394.html#a096abf53c6e622875c463060e986b5ef", null ],
+    [ "Register", "db/df0/a25394.html#a68905cc33f09dbb42db67139193530cb", null ]
 ];

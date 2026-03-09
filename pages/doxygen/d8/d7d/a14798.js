@@ -1,9 +1,11 @@
 var a14798 =
 [
-    [ "boss_azuregosAI", "d8/d7d/a14798.html#a839ab1e096d30062d64c1c515a7462a4", null ],
-    [ "JustDied", "d8/d7d/a14798.html#aea4d204173b7882d2d9acf8204410947", null ],
-    [ "JustEngagedWith", "d8/d7d/a14798.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
-    [ "KilledUnit", "d8/d7d/a14798.html#aeefc791e17d2a687f8beae809c44d123", null ],
-    [ "Reset", "d8/d7d/a14798.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
-    [ "UpdateAI", "d8/d7d/a14798.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
+    [ "npc_winterfin_playmate", "d8/d7d/a14798.html#a9c07fb9115c21ba5c3ef7459662e8f38", null ],
+    [ "MoveInLineOfSight", "d8/d7d/a14798.html#a7e8640e3bfe0a8f960ce22a2daf136a4", null ],
+    [ "Reset", "d8/d7d/a14798.html#aae6b51c22dc0448608c1cf9412565e25", null ],
+    [ "UpdateAI", "d8/d7d/a14798.html#a8e04dc18ee8a6d9412cd574994908eb6", null ],
+    [ "orphanGUID", "d8/d7d/a14798.html#a9189bf7b93e7c46e559c22f3504f919f", null ],
+    [ "phase", "d8/d7d/a14798.html#a0a1051dc971ef393843bd1ba655a2e1b", null ],
+    [ "playerGUID", "d8/d7d/a14798.html#a142fe7a438ee22384f682f26ff4a9f9c", null ],
+    [ "timer", "d8/d7d/a14798.html#abf4b5f3e16f32a3385b71ef002c5ee64", null ]
 ];

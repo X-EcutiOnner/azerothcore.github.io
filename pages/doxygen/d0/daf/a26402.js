@@ -1,6 +1,7 @@
 var a26402 =
 [
-    [ "CheckCast", "d0/daf/a26402.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
-    [ "PrepareSpellScript", "d0/daf/a26402.html#a33e86d770e926247c58c00143b55c418", null ],
-    [ "Register", "d0/daf/a26402.html#a453c7fa25baf458c9a319053ca726621", null ]
+    [ "HandleProc", "d0/daf/a26402.html#aebcd51739dd9d4e898e97bdb296d6318", null ],
+    [ "PrepareAuraScript", "d0/daf/a26402.html#a22c77e732d014aef99c077ee58f3a80d", null ],
+    [ "Register", "d0/daf/a26402.html#a3b1baf102b8f034dc762b4d6c029649c", null ],
+    [ "Validate", "d0/daf/a26402.html#a44168885a726eef1e0430e0f483d78fc", null ]
 ];

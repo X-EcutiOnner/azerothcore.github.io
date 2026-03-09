@@ -1,4 +1,4 @@
 var a29918 =
 [
-    [ "gOpenArchives", "dd/d9c/a29918.html#a8ae40ebe73635e831bc65b70e7f97f3c", null ]
+    [ "coords", "dd/d9c/a29918.html#a6de1e0be070d552f8002bff7675bb9cf", null ]
 ];

@@ -1,9 +1,5 @@
 var a12490 =
 [
-    [ "FilterTargets", "d7/db0/a12490.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "d7/db0/a12490.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "d7/db0/a12490.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "d7/db0/a12490.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "d7/db0/a12490.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "d7/db0/a12490.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "boss_moira_bronzebeard", "d7/db0/a12490.html#abb9a87023b8afa242e60f9694dea1c39", null ],
+    [ "GetAI", "d7/db0/a12490.html#ad99554aac80c79933b78ab4b6d42cc4f", null ]
 ];

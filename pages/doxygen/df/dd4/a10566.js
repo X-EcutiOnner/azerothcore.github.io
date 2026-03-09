@@ -1,7 +1,15 @@
 var a10566 =
 [
-    [ "LogoutResponse", "df/dd4/a10566.html#a434ee19fbc4d3e336444b1c62ac2be84", null ],
-    [ "Write", "df/dd4/a10566.html#a0b08225b6ac303afd20ec213aafe4bcb", null ],
-    [ "Instant", "df/dd4/a10566.html#aad6819dc426b91b6ad43f180a53e12ef", null ],
-    [ "LogoutResult", "df/dd4/a10566.html#a5543bf1a6342e9a217cd906e4a185b2e", null ]
+    [ "CreatureScript", "df/dd4/a10566.html#afa0053e299f9125cc288ea38652edecb", null ],
+    [ "GetAI", "df/dd4/a10566.html#a24ba3529655943afdf6598450d14e6c2", null ],
+    [ "GetDialogStatus", "df/dd4/a10566.html#a41562245c4a44843363d6b0ce32ce48d", null ],
+    [ "IsDatabaseBound", "df/dd4/a10566.html#af19c64d23391f8b835f79bc6cf315caa", null ],
+    [ "OnFfaPvpStateUpdate", "df/dd4/a10566.html#a316efb5c026588eb4bce8a0ce6b5cc0f", null ],
+    [ "OnGossipHello", "df/dd4/a10566.html#a6268b132444845302ada504f48629a4f", null ],
+    [ "OnGossipSelect", "df/dd4/a10566.html#a30f160576b4cb97d940ecf3468834667", null ],
+    [ "OnGossipSelectCode", "df/dd4/a10566.html#ad99f4a96106b9dc5cf9c29304d781d6a", null ],
+    [ "OnQuestAccept", "df/dd4/a10566.html#a6b106a237886f49e523ae7b07e9c5979", null ],
+    [ "OnQuestComplete", "df/dd4/a10566.html#a4d39c9b2edbbbc2ae08b5cdcc95b4d7b", null ],
+    [ "OnQuestReward", "df/dd4/a10566.html#aba2be0f342cb9811bd0ebee954d7d36e", null ],
+    [ "OnQuestSelect", "df/dd4/a10566.html#a1e054fb61dd560aa7718d59127ad4b51", null ]
 ];

@@ -1,8 +1,7 @@
 var a26530 =
 [
-    [ "HandleDummy", "da/dd8/a26530.html#ae396c96647e36da357bdc70e11e3145f", null ],
-    [ "Load", "da/dd8/a26530.html#a2b4811bf7e60361e13bc382e62173cee", null ],
-    [ "PrepareSpellScript", "da/dd8/a26530.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
-    [ "Register", "da/dd8/a26530.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
-    [ "count", "da/dd8/a26530.html#a73358b2272ad12faef006b1ef633cac0", null ]
+    [ "CalculateSpellAmount", "da/dd8/a26530.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
+    [ "CheckCast", "da/dd8/a26530.html#af043f7ee0f80baf667e64225effd57d1", null ],
+    [ "PrepareSpellScript", "da/dd8/a26530.html#a233ac4020722078d865cf980d7fa76cf", null ],
+    [ "Register", "da/dd8/a26530.html#a3648ecd94430e21dd014795156c1eb98", null ]
 ];

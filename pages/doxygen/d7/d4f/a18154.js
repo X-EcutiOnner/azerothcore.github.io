@@ -1,11 +1,8 @@
 var a18154 =
 [
-    [ "npc_little_oozeAI", "d7/d4f/a18154.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
-    [ "EnterEvadeMode", "d7/d4f/a18154.html#a0bd4bfcc8c373a449f297011289e5530", null ],
-    [ "IsSummonedBy", "d7/d4f/a18154.html#afb9763ade36bd742398a8bca961c136b", null ],
-    [ "JustDied", "d7/d4f/a18154.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
-    [ "UpdateAI", "d7/d4f/a18154.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
-    [ "events", "d7/d4f/a18154.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
-    [ "firstUpdate", "d7/d4f/a18154.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
-    [ "instance", "d7/d4f/a18154.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
+    [ "Load", "d7/d4f/a18154.html#a363d0afcf2f79b8219652de5a3a6d466", null ],
+    [ "PrepareSpellScript", "d7/d4f/a18154.html#a8df1abd311a1c32cd6ed296d75566eac", null ],
+    [ "Register", "d7/d4f/a18154.html#a61e8f66c7446e0587b5d743f0e6ead92", null ],
+    [ "RelocateDest", "d7/d4f/a18154.html#abad4acee4c0898fea6bfb57b8155cab2", null ],
+    [ "SelectTransport", "d7/d4f/a18154.html#a0564852176d80ee6593baa3abb18238a", null ]
 ];

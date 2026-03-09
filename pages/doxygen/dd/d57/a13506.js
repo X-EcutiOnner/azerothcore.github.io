@@ -1,8 +1,6 @@
 var a13506 =
 [
-    [ "HandleApply", "dd/d57/a13506.html#a2e07ffc92d44757fe2b074244048dbf4", null ],
-    [ "HandleRemove", "dd/d57/a13506.html#ae0d8cb63cf62e5015daa56463524aa27", null ],
-    [ "PrepareAuraScript", "dd/d57/a13506.html#a4a59bd5c9ce7b74d29cdd6132f94c0bf", null ],
-    [ "Register", "dd/d57/a13506.html#a3b91d692ad34b7ce965887590780e146", null ],
-    [ "Validate", "dd/d57/a13506.html#aa3ee5b49e9e1009d5be34214eefd2a6d", null ]
+    [ "npc_acherus_necromancerAI", "d4/df0/a13510.html", "d4/df0/a13510" ],
+    [ "npc_acherus_necromancer", "dd/d57/a13506.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
+    [ "GetAI", "dd/d57/a13506.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
 ];

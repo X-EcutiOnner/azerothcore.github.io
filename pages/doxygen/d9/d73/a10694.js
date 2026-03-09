@@ -1,5 +1,6 @@
 var a10694 =
 [
-    [ "GuildPermissionsQuery", "d9/d73/a10694.html#a6ab30e173d26362db0065f4f9f8fa5f8", null ],
-    [ "Read", "d9/d73/a10694.html#aec20af8c3c8236627353287fe2eaa0a7", null ]
+    [ "WorldMapScript", "d9/d73/a10694.html#a49300e796ceb6ab1a40ed9cbb89a9e4d", null ],
+    [ "checkValidity", "d9/d73/a10694.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
+    [ "isAfterLoadScript", "d9/d73/a10694.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
 ];

@@ -1,11 +1,13 @@
 var a15630 =
 [
-    [ "npc_tiger_matriarchAI", "da/d48/a15630.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
-    [ "DamageTaken", "da/d48/a15630.html#ab41c4275fe4f42b36615f746a100ccda", null ],
-    [ "IsSummonedBy", "da/d48/a15630.html#a8b02683be93944a65b38658bba0af4d8", null ],
-    [ "JustEngagedWith", "da/d48/a15630.html#a9a9295008552f5330f778dd3a0c591ea", null ],
-    [ "KilledUnit", "da/d48/a15630.html#aabde7633ac07966ee1cd2d9817582189", null ],
-    [ "UpdateAI", "da/d48/a15630.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
-    [ "_events", "da/d48/a15630.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
-    [ "_tigerGuid", "da/d48/a15630.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
+    [ "boss_cthun", "da/d48/a15630.html#a287ee7b65708971e4fdfa7b814486935", null ],
+    [ "DoAction", "da/d48/a15630.html#a04ae38b67d358f1d34820b855aab3869", null ],
+    [ "JustDied", "da/d48/a15630.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
+    [ "JustEngagedWith", "da/d48/a15630.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
+    [ "Reset", "da/d48/a15630.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
+    [ "ScheduleTasks", "da/d48/a15630.html#a5a0514e56217bb3b30b22b2681542adb", null ],
+    [ "SummonedCreatureDies", "da/d48/a15630.html#a49d76bb4cf30ee66fae6114313394961", null ],
+    [ "UpdateAI", "da/d48/a15630.html#a7d2685597f1eec2459fe509e5b97681f", null ],
+    [ "_fleshTentaclesKilled", "da/d48/a15630.html#a139de83ae488c40d40a4587509cd197d", null ],
+    [ "WisperTimer", "da/d48/a15630.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
 ];

@@ -1,8 +1,7 @@
 var a08654 =
 [
-    [ "checkLeaderOnly", "d3/dd0/a08654.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
-    [ "faction", "d3/dd0/a08654.html#a23c649e494795b27856b67225370a820", null ],
-    [ "id", "d3/dd0/a08654.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
-    [ "note", "d3/dd0/a08654.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
-    [ "priority", "d3/dd0/a08654.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
+    [ "AddToGrid", "d3/dd0/a08654.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
+    [ "IsInGrid", "d3/dd0/a08654.html#a996724d21d62e478f50031faa7637cd5", null ],
+    [ "RemoveFromGrid", "d3/dd0/a08654.html#a29740a98fea7db66cdffd824940a2ec2", null ],
+    [ "_gridRef", "d3/dd0/a08654.html#aa44ba47734267ac07b733f218623f3c5", null ]
 ];

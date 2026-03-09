@@ -1,9 +1,10 @@
 var a14538 =
 [
-    [ "entries", "d2/dd0/a14538.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
-    [ "entries", "d2/dd0/a14538.html#a953850b267eb6f599bb49d82080bdf64", null ],
-    [ "revelerId", "d2/dd0/a14538.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
-    [ "schedule", "d2/dd0/a14538.html#a24e3daaa7cd515c4d48e465b2b089968", null ],
-    [ "size", "d2/dd0/a14538.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
-    [ "spawns", "d2/dd0/a14538.html#ab61d72705ce024f13c93309d955417fc", null ]
+    [ "boss_jeklik", "d2/dd0/a14538.html#a826bdba66fee3bb82b64ca6174b66c44", null ],
+    [ "EnterEvadeMode", "d2/dd0/a14538.html#a70dc363e0690e72846db5f779375edc1", null ],
+    [ "JustDied", "d2/dd0/a14538.html#ae648ba9ff49f4970612a8c3351789b66", null ],
+    [ "JustEngagedWith", "d2/dd0/a14538.html#aeb57cfc66104f6e2b2e36b6551207dd8", null ],
+    [ "PathEndReached", "d2/dd0/a14538.html#a689e8f91361de45e6f885fea0dec900a", null ],
+    [ "Reset", "d2/dd0/a14538.html#a7959106123e60e3584b32b50a272746c", null ],
+    [ "batRidersCount", "d2/dd0/a14538.html#a3d81395ec4518d4e2ca7f273fc658395", null ]
 ];

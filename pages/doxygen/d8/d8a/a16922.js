@@ -1,6 +1,7 @@
 var a16922 =
 [
-    [ "HandleScriptEffect", "d8/d8a/a16922.html#a90b13b2a093fdd430a383d7ea4126290", null ],
-    [ "PrepareSpellScript", "d8/d8a/a16922.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
-    [ "Register", "d8/d8a/a16922.html#a53c8d47ee21637055ad901946be1e2c2", null ]
+    [ "npc_toc_paladinAI", "d8/d8a/a16922.html#a025d39c04e864ebd77f4f930ec20b1e5", null ],
+    [ "myCanCast", "d8/d8a/a16922.html#a06130e6e440d0b25d8b5566de6190cbc", null ],
+    [ "UpdateAI", "d8/d8a/a16922.html#a32943f1c3ffd0239c85ac1b81786f049", null ],
+    [ "events", "d8/d8a/a16922.html#ae47a32bbb05cf2f634ae18bc672ec004", null ]
 ];

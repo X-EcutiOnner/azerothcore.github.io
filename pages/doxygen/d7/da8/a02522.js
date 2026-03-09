@@ -1,7 +1,6 @@
 var a02522 =
 [
-    [ "GetExplicitDiscoverySpell", "d7/da8/a02522.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
-    [ "GetSkillDiscoverySpell", "d7/da8/a02522.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
-    [ "HasDiscoveredAllSpells", "d7/da8/a02522.html#abdf3c2fcf65212466dfb54053e35024c", null ],
-    [ "LoadSkillDiscoveryTable", "d7/da8/a02522.html#addd95f0a239a27ed32cd943aa1052019", null ]
+    [ "AntiDosOpcodePolicy", "d3/dbd/a09326.html", "d3/dbd/a09326" ],
+    [ "WorldGlobals", "db/d50/a09330.html", "db/d50/a09330" ],
+    [ "sWorldGlobals", "d7/da8/a02522.html#abde160907db136b0b0c16309add3ae94", null ]
 ];

@@ -1,9 +1,21 @@
 var a01388 =
 [
-    [ "PetSpell", "db/d44/a08720.html", "db/d44/a08720" ],
-    [ "Pet", "d3/dc5/a08724.html", "d3/dc5/a08724" ],
-    [ "AutoSpellList", "d0/d36/a01388.html#a85baf40bd776b1c20b66ba7ad78e0356", null ],
-    [ "PetSpellMap", "d0/d36/a01388.html#a5b33058abef8c309621a9029df331c0e", null ],
-    [ "HAPPINESS_LEVEL_SIZE", "d0/d36/a01388.html#a892e58d225a828ccac38c7d241365e30", null ],
-    [ "PET_LOSE_HAPPINES_INTERVAL", "d0/d36/a01388.html#aa23de8f28ae915637ac3f4f6429b59fb", null ]
+    [ "Totem", "d0/d16/a08926.html", "d0/d16/a08926" ],
+    [ "EARTHBIND_TOTEM_ENTRY", "d0/d36/a01388.html#a6cae59b1369b7371cefb92be8fc73fa5", null ],
+    [ "SENTRY_TOTEM_ENTRY", "d0/d36/a01388.html#a2bd46e1df17fdee45cd35896306092fb", null ],
+    [ "TotemImmunitySpells", "d0/d36/a01388.html#a526213bf692d4f8d189a61617f4a59c9", [
+      [ "SPELL_CYCLONE", "d0/d36/a01388.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58", null ],
+      [ "SPELL_STONECLAW", "d0/d36/a01388.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649", null ],
+      [ "SPELL_BIND_SIGHT", "d0/d36/a01388.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a", null ],
+      [ "SPELL_INTERVENE", "d0/d36/a01388.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c", null ]
+    ] ],
+    [ "TotemSpellIds", "d0/d36/a01388.html#a7092ec93c941969cd2cdd2291c6de0be", [
+      [ "SentryTotemSpell", "d0/d36/a01388.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3", null ],
+      [ "FireTotemSpell", "d0/d36/a01388.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7", null ]
+    ] ],
+    [ "TotemType", "d0/d36/a01388.html#a65151889ab4b03cf02268cc7a7ff0ba3", [
+      [ "TOTEM_PASSIVE", "d0/d36/a01388.html#a65151889ab4b03cf02268cc7a7ff0ba3a63f155f3367aa262aae567b57c623069", null ],
+      [ "TOTEM_ACTIVE", "d0/d36/a01388.html#a65151889ab4b03cf02268cc7a7ff0ba3a3c3ecb49d653993abf86f289019e27b0", null ],
+      [ "TOTEM_STATUE", "d0/d36/a01388.html#a65151889ab4b03cf02268cc7a7ff0ba3ab0fbf32f7d371a34f276dfdf6552e300", null ]
+    ] ]
 ];

@@ -1,7 +1,5 @@
 var a22550 =
 [
-    [ "npc_wg_quest_giver", "d6/d1a/a22550.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "d6/d1a/a22550.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "d6/d1a/a22550.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "d6/d1a/a22550.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "OutdoorPvP_terokkar_forest", "d6/d1a/a22550.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
+    [ "GetOutdoorPvP", "d6/d1a/a22550.html#acf268293812d7a1a233e7f1fcba1e733", null ]
 ];

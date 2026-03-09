@@ -1,8 +1,8 @@
 var a27606 =
 [
-    [ "go_bellsAI", "da/de1/a27606.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "da/de1/a27606.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "da/de1/a27606.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "da/de1/a27606.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "da/de1/a27606.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "CheckProc", "da/de1/a27606.html#a11d7fe14f7b3cca93578926f157ef0d5", null ],
+    [ "HandleProc", "da/de1/a27606.html#ac18d7286dd26ebbb868e01d17a412124", null ],
+    [ "PrepareAuraScript", "da/de1/a27606.html#a8af3179c6688cfe0940bcd932f6766fa", null ],
+    [ "Register", "da/de1/a27606.html#a239b3daf5f03f5e5930c7b6712a63d8a", null ],
+    [ "Validate", "da/de1/a27606.html#a9919c0a8d284a36b3162ed435d2f7711", null ]
 ];

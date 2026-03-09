@@ -1,9 +1,14 @@
 var a12734 =
 [
-    [ "HandleEffectApply", "d6/d04/a12734.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
-    [ "HandleEffectRemove", "d6/d04/a12734.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
-    [ "Load", "d6/d04/a12734.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
-    [ "PrepareAuraScript", "d6/d04/a12734.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
-    [ "Register", "d6/d04/a12734.html#a201bafab6c483b08a6ae27054392dea9", null ],
-    [ "Validate", "d6/d04/a12734.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
+    [ "boss_chromaggusAI", "d6/d04/a12734.html#a06f811fb8aa0c15e07e8a771ac722056", null ],
+    [ "CanAIAttack", "d6/d04/a12734.html#a4643974601831ced1f6173965009ad20", null ],
+    [ "Initialize", "d6/d04/a12734.html#a0697edb4aa9fb60a0db2ccf54c32dc19", null ],
+    [ "JustEngagedWith", "d6/d04/a12734.html#a66b6f31ebcfdb2fe9adba85311e655bb", null ],
+    [ "PathEndReached", "d6/d04/a12734.html#a2805052cd90212ecb9b5f313f4ecc384", null ],
+    [ "Reset", "d6/d04/a12734.html#aaa72a25326e9c4e1936020a1e6e7b87a", null ],
+    [ "SetGUID", "d6/d04/a12734.html#ac2f3f6efccc3d48ddd2a7f9175439123", null ],
+    [ "UpdateAI", "d6/d04/a12734.html#a4a120f99c6586fd06af6699bfe913d24", null ],
+    [ "_breathSpells", "d6/d04/a12734.html#a10e18592d163d4be586701de47da48c9", null ],
+    [ "_playerGUID", "d6/d04/a12734.html#a03a7fc87c67b04eb0b1289276023c1b4", null ],
+    [ "Enraged", "d6/d04/a12734.html#acc8b5cfbae8debb22a0493400ec310c4", null ]
 ];

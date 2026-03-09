@@ -1,6 +1,6 @@
 var a12914 =
 [
-    [ "go_blood_drenched_doorAI", "dd/d29/a12918.html", "dd/d29/a12918" ],
-    [ "go_blood_drenched_door", "db/d73/a12914.html#a32451e046236bc66b605088cab35fefc", null ],
-    [ "GetAI", "db/d73/a12914.html#a983405ff279eabe0bc607fb85bd47eb9", null ]
+    [ "boss_gehennasAI", "dd/d29/a12918.html", "dd/d29/a12918" ],
+    [ "boss_gehennas", "db/d73/a12914.html#a380a24cbaad4e247c6c76fd63ac34f59", null ],
+    [ "GetAI", "db/d73/a12914.html#a92f9ff0e957da5331b4a3ecc48be0ffa", null ]
 ];

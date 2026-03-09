@@ -1,6 +1,6 @@
 var a18478 =
 [
-    [ "npc_raging_spiritAI", "d2/d0c/a18482.html", "d2/d0c/a18482" ],
-    [ "npc_raging_spirit", "d6/db5/a18478.html#ad1a580bd394adc8c58575b600c16f9db", null ],
-    [ "GetAI", "d6/db5/a18478.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
+    [ "npc_big_oozeAI", "d2/d0c/a18482.html", "d2/d0c/a18482" ],
+    [ "npc_big_ooze", "d6/db5/a18478.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
+    [ "GetAI", "d6/db5/a18478.html#ad06308602d69b51ff3f269bda6c465b5", null ]
 ];

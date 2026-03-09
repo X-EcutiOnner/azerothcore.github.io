@@ -1,8 +1,6 @@
 var a16014 =
 [
-    [ "HandleAfterCast", "d5/df2/a16014.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
-    [ "HandleDummyEffect", "d5/df2/a16014.html#a539c233fc820248930e1988c4074b9c8", null ],
-    [ "Load", "d5/df2/a16014.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
-    [ "PrepareSpellScript", "d5/df2/a16014.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
-    [ "Register", "d5/df2/a16014.html#ae90184fd34636b33755b732ec82fd52f", null ]
+    [ "npc_clintar_spiritAI", "d7/d76/a16018.html", "d7/d76/a16018" ],
+    [ "npc_clintar_spirit", "d5/df2/a16014.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
+    [ "GetAI", "d5/df2/a16014.html#a118198504f6f93c86302275a11582d60", null ]
 ];

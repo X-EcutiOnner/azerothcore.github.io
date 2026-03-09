@@ -1,6 +1,6 @@
 var a16694 =
 [
-    [ "npc_toc_pet_warlockAI", "db/dcc/a16698.html", "db/dcc/a16698" ],
-    [ "npc_toc_pet_warlock", "d9/d53/a16694.html#a4703f506d677d7e490c6813c6d9b060b", null ],
-    [ "GetAI", "d9/d53/a16694.html#aebcaff82726508a14028cb22a1ef944b", null ]
+    [ "npc_living_infernoAI", "d9/d53/a16694.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
+    [ "IsSummonedBy", "d9/d53/a16694.html#a4b6986a392aee0741ba47651e809c76c", null ],
+    [ "JustDied", "d9/d53/a16694.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
 ];

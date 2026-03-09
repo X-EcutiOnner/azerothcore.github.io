@@ -1,9 +1,10 @@
 var a04856 =
 [
-    [ "MMAP::MapTiles", "de/d76/a29976.html", "de/d76/a29976" ],
-    [ "MMAP::Tile", "d9/db6/a29980.html", "d9/db6/a29980" ],
-    [ "MMAP::TileInfo", "d7/d96/a29984.html", "d7/d96/a29984" ],
-    [ "MMAP::TileBuilder", "d3/d3b/a29988.html", "d3/d3b/a29988" ],
-    [ "MMAP::MapBuilder", "d8/d6d/a29992.html", "d8/d6d/a29992" ],
-    [ "TileList", "db/dde/a04856.html#aa2aae6f254337f29866a5d240d5ec2b1", null ]
+    [ "SecretMgr", "d4/db0/a29518.html", "d4/db0/a29518" ],
+    [ "SecretMgr::Secret", "d4/d9a/a29522.html", "d4/d9a/a29522" ],
+    [ "sSecretMgr", "db/dde/a04856.html#a5104e1ebeb8cbf71ec16e9492a3ad622", null ],
+    [ "Secrets", "db/dde/a04856.html#ab54b0ec728a299f0ff9e8a7796297a01", [
+      [ "SECRET_TOTP_MASTER_KEY", "db/dde/a04856.html#ab54b0ec728a299f0ff9e8a7796297a01a414121b0e05fa3a392ffe0da5afe0fe9", null ],
+      [ "NUM_SECRETS", "db/dde/a04856.html#ab54b0ec728a299f0ff9e8a7796297a01a087643d0aa89a708bad0f254697489c6", null ]
+    ] ]
 ];

@@ -1,13 +1,7 @@
 var a15982 =
 [
-    [ "npc_shadowpriest_sezzizAI", "d9/d96/a15982.html#a14c5cee1c3032b8df4ad902eb273e9b0", null ],
-    [ "AttackStart", "d9/d96/a15982.html#a8278a73501ea33164cbdef8599144f4a", null ],
-    [ "Reset", "d9/d96/a15982.html#ab08cc327c4206e4526e77eea3bf17e0b", null ],
-    [ "UpdateAI", "d9/d96/a15982.html#a1c0236b52d4cd87634659991e0dfc728", null ],
-    [ "_missingHPForHealTimer", "d9/d96/a15982.html#a1171f0cd40bd3d7198bab15b12edc131", null ],
-    [ "_missingHPForRenewTimer", "d9/d96/a15982.html#a8df4e1046348599cd5d1e31e3dc4eb0c", null ],
-    [ "_physicScreemTimer", "d9/d96/a15982.html#a43de246b93f3380d5b79ffba6434aa5a", null ],
-    [ "_shadowBoltTimer", "d9/d96/a15982.html#a34a18991ff2c0aafac15694ed9667193", null ],
-    [ "_summmonAddsCount", "d9/d96/a15982.html#a8ce2b172757d1f7d188152ecc0fe30f5", null ],
-    [ "_summonAddsTimer", "d9/d96/a15982.html#aff413ce6f4106d212f35fb7abbfa047e", null ]
+    [ "HandleDummy", "d9/d96/a15982.html#a30a87266b89021caf7d05c45397f70d1", null ],
+    [ "PrepareSpellScript", "d9/d96/a15982.html#a43a92b346088d710719722e8feed9634", null ],
+    [ "Register", "d9/d96/a15982.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
+    [ "Validate", "d9/d96/a15982.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
 ];

@@ -1,19 +1,22 @@
 var a02072 =
 [
-    [ "boss_mekgineer_steamrigger", "d2/d0e/a23288.html", "d2/d0e/a23288" ],
-    [ "MekgineerSteamrigger", "de/d9d/a02072.html#a4766bad7859befee09dc2ce208e1c4dd", [
-      [ "SAY_MECHANICS", "de/d9d/a02072.html#a4766bad7859befee09dc2ce208e1c4ddac616ae8f03c32cc59f26b5337aae84ba", null ],
-      [ "SAY_AGGRO", "de/d9d/a02072.html#a4766bad7859befee09dc2ce208e1c4dda47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_SLAY", "de/d9d/a02072.html#a4766bad7859befee09dc2ce208e1c4dda9e64f6e600dd42567d18006912811f75", null ],
-      [ "SAY_DEATH", "de/d9d/a02072.html#a4766bad7859befee09dc2ce208e1c4dda04c962d9b6aaafde54ff92a54369135e", null ],
-      [ "SPELL_SUPER_SHRINK_RAY", "de/d9d/a02072.html#a4766bad7859befee09dc2ce208e1c4dda4499c6dfeb4c15552b20d4bdc0e63edd", null ],
-      [ "SPELL_SAW_BLADE", "de/d9d/a02072.html#a4766bad7859befee09dc2ce208e1c4ddabe5ec412b26a2ffb5cd6071f90620e58", null ],
-      [ "SPELL_ELECTRIFIED_NET", "de/d9d/a02072.html#a4766bad7859befee09dc2ce208e1c4dda8af7ec94d6adf009820da95c833d041a", null ],
-      [ "SPELL_ENRAGE", "de/d9d/a02072.html#a4766bad7859befee09dc2ce208e1c4dda2a20f56307679be4d4f01a0d3d93cc7e", null ],
-      [ "SPELL_SUMMON_MECHANICS_1", "de/d9d/a02072.html#a4766bad7859befee09dc2ce208e1c4dda48f35e8fc2aae6e24c0616e4c1b13d01", null ],
-      [ "SPELL_SUMMON_MECHANICS_2", "de/d9d/a02072.html#a4766bad7859befee09dc2ce208e1c4ddae60e2ad853b074c2f53e31ca1e5f8ff1", null ],
-      [ "SPELL_SUMMON_MECHANICS_3", "de/d9d/a02072.html#a4766bad7859befee09dc2ce208e1c4dda5059715773c9ffed1b3ef2ff2c8f289c", null ],
-      [ "NPC_STREAMRIGGER_MECHANIC", "de/d9d/a02072.html#a4766bad7859befee09dc2ce208e1c4dda6eb80a7e6891ababaf4ac14b1d9f890e", null ]
+    [ "ServerMailCondition", "d3/d77/a10018.html", "d3/d77/a10018" ],
+    [ "ServerMailItems", "d3/d59/a10022.html", "d3/d59/a10022" ],
+    [ "ServerMail", "da/d24/a10026.html", "da/d24/a10026" ],
+    [ "ServerMailMgr", "d8/d23/a10030.html", "d8/d23/a10030" ],
+    [ "sServerMailMgr", "de/d9d/a02072.html#a6423d219eaead162b40b6021eadca0c4", null ],
+    [ "ServerMailContainer", "de/d9d/a02072.html#a9c10c94a0a8508b3af2e92d3455d063b", null ],
+    [ "ServerMailConditionType", "de/d9d/a02072.html#ab25c41bc314095f74fe678a33e086a2b", [
+      [ "Invalid", "de/d9d/a02072.html#ab25c41bc314095f74fe678a33e086a2ba4bbb8f967da6d1a610596d7257179c2b", null ],
+      [ "Level", "de/d9d/a02072.html#ab25c41bc314095f74fe678a33e086a2baa0db49ba470c1c9ae2128c3470339153", null ],
+      [ "PlayTime", "de/d9d/a02072.html#ab25c41bc314095f74fe678a33e086a2bad50a5da6b13baa381b72761aae02cde3", null ],
+      [ "Quest", "de/d9d/a02072.html#ab25c41bc314095f74fe678a33e086a2ba07bf513a88c3df282a30cb374f8a933d", null ],
+      [ "Achievement", "de/d9d/a02072.html#ab25c41bc314095f74fe678a33e086a2bae29be78e8cf65f9f1a934917f9e0903e", null ],
+      [ "Reputation", "de/d9d/a02072.html#ab25c41bc314095f74fe678a33e086a2ba8d9bec4f224970e231041639de877092", null ],
+      [ "Faction", "de/d9d/a02072.html#ab25c41bc314095f74fe678a33e086a2ba3dcd53a8339c060c69c660b1b89b5201", null ],
+      [ "Race", "de/d9d/a02072.html#ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879", null ],
+      [ "Class", "de/d9d/a02072.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af", null ],
+      [ "AccountFlags", "de/d9d/a02072.html#ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225", null ]
     ] ],
-    [ "AddSC_boss_mekgineer_steamrigger", "de/d9d/a02072.html#a9aa3518f4196a7c844ab6ffafbc91068", null ]
+    [ "ServerMailConditionTypePairs", "de/d9d/a02072.html#af981b509cb816fa6720cf16cceaa9081", null ]
 ];

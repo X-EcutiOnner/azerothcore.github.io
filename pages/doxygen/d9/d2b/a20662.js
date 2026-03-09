@@ -1,6 +1,7 @@
 var a20662 =
 [
-    [ "npc_ulduar_flames_spreadAI", "dd/ded/a20666.html", "dd/ded/a20666" ],
-    [ "npc_ulduar_flames_spread", "d9/d2b/a20662.html#aca9713b28d6d0c7b13b85a00c8a53ab0", null ],
-    [ "GetAI", "d9/d2b/a20662.html#af492a5bc9304a05f8475a39458c6abdb", null ]
+    [ "HandleEffectPeriodic", "d9/d2b/a20662.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
+    [ "PrepareAuraScript", "d9/d2b/a20662.html#af432e810a46e35f95bb0b3b2eaada132", null ],
+    [ "Register", "d9/d2b/a20662.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
+    [ "Validate", "d9/d2b/a20662.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
 ];

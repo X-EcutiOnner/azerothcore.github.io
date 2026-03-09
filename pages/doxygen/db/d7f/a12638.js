@@ -1,6 +1,6 @@
 var a12638 =
 [
-    [ "boss_magmadarAI", "db/d7f/a12638.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
-    [ "ExecuteEvent", "db/d7f/a12638.html#a7d4c1807cb320fdc331057209a4ce166", null ],
-    [ "JustEngagedWith", "db/d7f/a12638.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
+    [ "boss_thebeastAI", "d7/de8/a12642.html", "d7/de8/a12642" ],
+    [ "boss_the_beast", "db/d7f/a12638.html#a131344b5fada63f4a8f0b3692ecba9eb", null ],
+    [ "GetAI", "db/d7f/a12638.html#a0b40497c665c571247cb8ad8b85ac63f", null ]
 ];

@@ -1,9 +1,16 @@
 var a08666 =
 [
-    [ "EntryPointData", "d9/dfd/a08666.html#a1852523ba9ca889cdd6731c63de759e2", null ],
-    [ "ClearTaxiPath", "d9/dfd/a08666.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
-    [ "HasTaxiPath", "d9/dfd/a08666.html#afd310b2f367ec7df76f01689ea120e6e", null ],
-    [ "joinPos", "d9/dfd/a08666.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
-    [ "mountSpell", "d9/dfd/a08666.html#a06e1cadac24a2ab90e57373692f829dc", null ],
-    [ "taxiPath", "d9/dfd/a08666.html#a5af670fa420b250c22e0f3237e753a6f", null ]
+    [ "UpdateState", "d9/dfd/a08666.html#aa4f58928ebfbd115280b12866d9b7d23", [
+      [ "NotUpdating", "d9/dfd/a08666.html#aa4f58928ebfbd115280b12866d9b7d23a29cf8e7615ba78787e84d5298e9835ba", null ],
+      [ "PendingAdd", "d9/dfd/a08666.html#aa4f58928ebfbd115280b12866d9b7d23acc2e650db938ff5bf5525de448cd8ddf", null ],
+      [ "Updating", "d9/dfd/a08666.html#aa4f58928ebfbd115280b12866d9b7d23ad1caed37f15232d71507dbf81af2a919", null ]
+    ] ],
+    [ "UpdatableMapObject", "d9/dfd/a08666.html#a5602f3b21fe1299e300e71d645f3eaee", null ],
+    [ "GetMapUpdateListOffset", "d9/dfd/a08666.html#a52bf945e86eba8c73701a3e378503eeb", null ],
+    [ "GetUpdateState", "d9/dfd/a08666.html#a90b2d1a9f5b356f013ac4a357020de66", null ],
+    [ "SetMapUpdateListOffset", "d9/dfd/a08666.html#aef864d62d4cbefb63647fe691d69dfd4", null ],
+    [ "SetUpdateState", "d9/dfd/a08666.html#a7c95f861c7e13c17e2ebf8088882a709", null ],
+    [ "Map", "d9/dfd/a08666.html#ad2f32e921244459f7cc6d50355429cc6", null ],
+    [ "_mapUpdateListOffset", "d9/dfd/a08666.html#af4aaf71a3308e72af67f20bf0e7ced57", null ],
+    [ "_mapUpdateState", "d9/dfd/a08666.html#a46f9010396bb1bd84fb654bbe2795f8e", null ]
 ];

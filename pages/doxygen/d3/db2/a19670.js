@@ -1,8 +1,6 @@
 var a19670 =
 [
-    [ "HandleEffectPeriodic", "d3/db2/a19670.html#abb453e3d38677be7082f2cd4e43134cc", null ],
-    [ "HandleOnEffectApply", "d3/db2/a19670.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
-    [ "PrepareAuraScript", "d3/db2/a19670.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
-    [ "Register", "d3/db2/a19670.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
-    [ "Validate", "d3/db2/a19670.html#a09481646f8ec90b0135d93d83cc18929", null ]
+    [ "boss_thaddiusAI", "db/d14/a19674.html", "db/d14/a19674" ],
+    [ "boss_thaddius", "d3/db2/a19670.html#aff97b030b861feb646e1b22f60ee3605", null ],
+    [ "GetAI", "d3/db2/a19670.html#acf841c6897396f517a74932fc3480e69", null ]
 ];

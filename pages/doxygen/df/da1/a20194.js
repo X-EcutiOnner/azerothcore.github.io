@@ -1,7 +1,6 @@
 var a20194 =
 [
-    [ "achievement_flame_leviathan_garage", "df/da1/a20194.html#a1893b4059d7212d023c45bb828bb1905", null ],
-    [ "OnCheck", "df/da1/a20194.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
-    [ "_entry1", "df/da1/a20194.html#af482d6c1b2681b9fec572281620a86b7", null ],
-    [ "_entry2", "df/da1/a20194.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
+    [ "HandleInstaKill", "df/da1/a20194.html#a9371a2cc86616fd04e47939d45f01cae", null ],
+    [ "PrepareSpellScript", "df/da1/a20194.html#a38eed301f1db3ea7ac15b626e5927500", null ],
+    [ "Register", "df/da1/a20194.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
 ];

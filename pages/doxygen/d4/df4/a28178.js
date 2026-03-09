@@ -1,4 +1,9 @@
 var a28178 =
 [
-    [ "ID", "d4/df4/a28178.html#a7d31bf2a11559873fc410d4cb32c5f54", null ]
+    [ "go_tadpole_cageAI", "d4/df4/a28178.html#a87dc192a13cecf834d49cd04451224cd", null ],
+    [ "GossipHello", "d4/df4/a28178.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
+    [ "OnStateChanged", "d4/df4/a28178.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
+    [ "SummonTadpoles", "d4/df4/a28178.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
+    [ "UpdateAI", "d4/df4/a28178.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
+    [ "requireSummon", "d4/df4/a28178.html#a9884081855fc45776a6b12b9a68890e4", null ]
 ];

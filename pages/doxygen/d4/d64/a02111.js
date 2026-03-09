@@ -1,35 +1,21 @@
 var a02111 =
 [
-    [ "CreatureAI", "d7/d0a/a06388.html", "d7/d0a/a06388" ],
-    [ "TIME_INTERVAL_LOOK", "d4/d64/a02111.html#a8de08a341cdd207e19eef425c2f5f152", null ],
-    [ "VISIBILITY_RANGE", "d4/d64/a02111.html#a5548091cca58d569e4226b6915ec8cb2", null ],
-    [ "CreatureBoundary", "d4/d64/a02111.html#a7994a32cb10f6de9d90e32ef2d6c1f37", null ],
-    [ "Permitions", "d4/d64/a02111.html#adf806592547de59418c6070d69c5efb9", [
-      [ "PERMIT_BASE_NO", "d4/d64/a02111.html#adf806592547de59418c6070d69c5efb9a3ea8686bf6c00259f435df8f34da17c0", null ],
-      [ "PERMIT_BASE_IDLE", "d4/d64/a02111.html#adf806592547de59418c6070d69c5efb9aa30fb6bbae2f275b7c269df6b7bac2c0", null ],
-      [ "PERMIT_BASE_REACTIVE", "d4/d64/a02111.html#adf806592547de59418c6070d69c5efb9a8781eb0d588151b618bd98b03423dc58", null ],
-      [ "PERMIT_BASE_PROACTIVE", "d4/d64/a02111.html#adf806592547de59418c6070d69c5efb9a06a019c60b174cae59e682299512d78c", null ],
-      [ "PERMIT_BASE_FACTION_SPECIFIC", "d4/d64/a02111.html#adf806592547de59418c6070d69c5efb9a9935ee057ed82483ff6a6363709db059", null ],
-      [ "PERMIT_BASE_SPECIAL", "d4/d64/a02111.html#adf806592547de59418c6070d69c5efb9a01dc7d3add2acacf44721592378df415", null ]
+    [ "TSpellSummary", "de/de6/a06446.html", "de/de6/a06446" ],
+    [ "eNPCs", "d4/d64/a02111.html#abaecf87f40b40c4c71ec596a0b73e911", [
+      [ "NPC_BROODLORD", "d4/d64/a02111.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc", null ],
+      [ "NPC_JAN_ALAI", "d4/d64/a02111.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca", null ],
+      [ "NPC_SARTHARION", "d4/d64/a02111.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10", null ],
+      [ "NPC_FREYA", "d4/d64/a02111.html#abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752", null ],
+      [ "NPC_INGVAR_UNDEAD", "d5/d8e/a04448.html#abaecf87f40b40c4c71ec596a0b73e911ac5f7785a73b2ea4946e698f73996e906", null ],
+      [ "NPC_ANNHYLDE", "d5/d8e/a04448.html#abaecf87f40b40c4c71ec596a0b73e911a244024200627132843a0b95f2fdefcb4", null ],
+      [ "NPC_THROW", "d5/d8e/a04448.html#abaecf87f40b40c4c71ec596a0b73e911a5c7c851e12a8c23ef9569157753a2546", null ],
+      [ "NPC_FROST_TOMB", "d5/de3/a04457.html#abaecf87f40b40c4c71ec596a0b73e911a8d3888198310322d79e29632f594ac76", null ],
+      [ "NPC_SKELETON", "d5/de3/a04457.html#abaecf87f40b40c4c71ec596a0b73e911ae6d4da6ba356104e95b11d5cd561d0f3", null ]
     ] ],
-    [ "SCEquip", "d4/d64/a02111.html#a8561d766fce1bb059293efa6256c9717", [
-      [ "EQUIP_NO_CHANGE", "d4/d64/a02111.html#a8561d766fce1bb059293efa6256c9717a52eb65358cd8ffabf53e7104b78e95a2", null ],
-      [ "EQUIP_UNEQUIP", "d4/d64/a02111.html#a8561d766fce1bb059293efa6256c9717a435fadd0e5fa209afb6fd9363afbe54c", null ]
-    ] ],
-    [ "SelectEffect", "d4/d64/a02111.html#a8b21f6463e7db78be55dee9160352869", [
-      [ "SELECT_EFFECT_DONTCARE", "d4/d64/a02111.html#a8b21f6463e7db78be55dee9160352869a391dc42f0a158e8fdffbc0b18d9250e9", null ],
-      [ "SELECT_EFFECT_DAMAGE", "d4/d64/a02111.html#a8b21f6463e7db78be55dee9160352869ae1b4806793cac829bda8b64d0233adae", null ],
-      [ "SELECT_EFFECT_HEALING", "d4/d64/a02111.html#a8b21f6463e7db78be55dee9160352869a7c5e00f75a32eb7e8f1a5ea2dcb7d404", null ],
-      [ "SELECT_EFFECT_AURA", "d4/d64/a02111.html#a8b21f6463e7db78be55dee9160352869a5e73a49eeb722bf496ce76b4448280e5", null ]
-    ] ],
-    [ "SelectTargetType", "d4/d64/a02111.html#a09291ebbaa06245b9f65d046a8b67621", [
-      [ "SELECT_TARGET_DONTCARE", "d4/d64/a02111.html#a09291ebbaa06245b9f65d046a8b67621a3a0e529ee20cdfb171df9e8d67f0f749", null ],
-      [ "SELECT_TARGET_SELF", "d4/d64/a02111.html#a09291ebbaa06245b9f65d046a8b67621ae0e226db3f7e8c664ce1958c8fdc8e4a", null ],
-      [ "SELECT_TARGET_SINGLE_ENEMY", "d4/d64/a02111.html#a09291ebbaa06245b9f65d046a8b67621a371e0b7a2a0f1bc7809a2651c1ee6261", null ],
-      [ "SELECT_TARGET_AOE_ENEMY", "d4/d64/a02111.html#a09291ebbaa06245b9f65d046a8b67621af8f6f83b9b85f662ac5ce0dfb463daa4", null ],
-      [ "SELECT_TARGET_ANY_ENEMY", "d4/d64/a02111.html#a09291ebbaa06245b9f65d046a8b67621a25807921690235c31bdc32b599e04508", null ],
-      [ "SELECT_TARGET_SINGLE_FRIEND", "d4/d64/a02111.html#a09291ebbaa06245b9f65d046a8b67621a316f9dbbb2b5f3bc0667436767f540cb", null ],
-      [ "SELECT_TARGET_AOE_FRIEND", "d4/d64/a02111.html#a09291ebbaa06245b9f65d046a8b67621a21f9e37e67ab22ebd4bec53351757e38", null ],
-      [ "SELECT_TARGET_ANY_FRIEND", "d4/d64/a02111.html#a09291ebbaa06245b9f65d046a8b67621a0af0a125ae9df4fecd57d759643832b3", null ]
-    ] ]
+    [ "GetClosestCreatureWithEntry", "d4/d64/a02111.html#a136c0c059281a05f9cb91237ce55be7b", null ],
+    [ "GetClosestGameObjectWithEntry", "d4/d64/a02111.html#a80b13d7c0fa3b835b0834955ed0f93d8", null ],
+    [ "GetCreatureListWithEntryInGrid", "d4/d64/a02111.html#ab6a8246d473139627106be4651f6329d", null ],
+    [ "GetDeadCreatureListInGrid", "d4/d64/a02111.html#a2e3edf6fd8a6865d815af4f8acb184af", null ],
+    [ "GetGameObjectListWithEntryInGrid", "d4/d64/a02111.html#ae9abb80c4e811509bca88e65cf817276", null ],
+    [ "SpellSummary", "d4/d64/a02111.html#ae56af266ccaa1794f1f014938b07e9cc", null ]
 ];

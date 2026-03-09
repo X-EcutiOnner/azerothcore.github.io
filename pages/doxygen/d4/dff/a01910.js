@@ -1,20 +1,12 @@
 var a01910 =
 [
-    [ "WorldPackets::Misc::Weather", "da/d8e/a11152.html", "da/d8e/a11152" ],
-    [ "WorldPackets::Misc::LevelUpInfo", "d6/df0/a11156.html", "d6/df0/a11156" ],
-    [ "WorldPackets::Misc::PlayMusic", "dc/d90/a11160.html", "dc/d90/a11160" ],
-    [ "WorldPackets::Misc::PlayObjectSound", "d8/da5/a11164.html", "d8/da5/a11164" ],
-    [ "WorldPackets::Misc::Playsound", "db/d3e/a11168.html", "db/d3e/a11168" ],
-    [ "WorldPackets::Misc::MinimapPingClient", "d1/dbe/a11172.html", "d1/dbe/a11172" ],
-    [ "WorldPackets::Misc::MinimapPing", "d6/def/a11176.html", "d6/def/a11176" ],
-    [ "WorldPackets::Misc::RandomRollClient", "df/de8/a11180.html", "df/de8/a11180" ],
-    [ "WorldPackets::Misc::RandomRoll", "d3/d0e/a11184.html", "d3/d0e/a11184" ],
-    [ "WorldPackets::Misc::StartMirrorTimer", "dd/dd0/a11188.html", "dd/dd0/a11188" ],
-    [ "WorldPackets::Misc::PauseMirrorTimer", "d8/dcb/a11192.html", "d8/dcb/a11192" ],
-    [ "WorldPackets::Misc::StopMirrorTimer", "d1/d82/a11196.html", "d1/d82/a11196" ],
-    [ "WorldPackets::Misc::DurabilityDamageDeath", "d6/d29/a11200.html", "d6/d29/a11200" ],
-    [ "WorldPackets::Misc::CrossedInebriationThreshold", "d4/d63/a11204.html", "d4/d63/a11204" ],
-    [ "WorldPackets::Misc::UITime", "d7/d10/a11208.html", "d7/d10/a11208" ],
-    [ "WorldPackets::Misc::Complain", "d0/d7a/a11212.html", "d0/d7a/a11212" ],
-    [ "WorldPackets::Misc::ComplainResult", "d1/d71/a11216.html", "d1/d71/a11216" ]
+    [ "PacketHandler< PacketClass, HandlerFunction >", "db/d8f/a11410.html", "db/d8f/a11410" ],
+    [ "PacketHandler< WorldPacket, HandlerFunction >", "d8/dc8/a11414.html", "d8/dc8/a11414" ],
+    [ "get_packet_class< T >", "d0/de1/a11418.html", null ],
+    [ "get_packet_class< void(WorldSession::*)(PacketClass &)>", "db/d65/a11422.html", "db/d65/a11422" ],
+    [ "DEFINE_HANDLER", "d4/dff/a01910.html#ab23af9582942bed23ea9ab4a8747c67c", null ],
+    [ "DEFINE_SERVER_OPCODE_HANDLER", "d4/dff/a01910.html#a4bcb2df62d580f2bb5ab3c2aa5b35f5e", null ],
+    [ "GetOpcodeNameForLogging", "da/de7/a04983.html#ga699f5666ad5594443aa2ca21df85a1d3", null ],
+    [ "GetOpcodeNameForLoggingImpl", "d4/dff/a01910.html#a0adf4b5d8c638656581d9a62be18539e", null ],
+    [ "opcodeTable", "da/de7/a04983.html#gaab348862a5b8f265e05e5b0ac296162a", null ]
 ];

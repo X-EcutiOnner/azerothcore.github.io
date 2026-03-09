@@ -1,7 +1,6 @@
 var a23790 =
 [
-    [ "HandleDummyApply", "db/dbd/a23790.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
-    [ "HandleDummyRemove", "db/dbd/a23790.html#a5d68d9e15600119deca7179ffe00acda", null ],
-    [ "PrepareAuraScript", "db/dbd/a23790.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
-    [ "Register", "db/dbd/a23790.html#a094004ccf6b4cae4d27bca639b76b899", null ]
+    [ "HandleCast", "db/dbd/a23790.html#a912dc3b17ab7d0818089c32610d82a16", null ],
+    [ "PrepareSpellScript", "db/dbd/a23790.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
+    [ "Register", "db/dbd/a23790.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
 ];

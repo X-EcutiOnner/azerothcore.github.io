@@ -1,8 +1,20 @@
 var a29966 =
 [
-    [ "_ACORE_DB_IMPORT_CONFIG", "d8/df0/a29966.html#a97392c73658eeeb49d256527b19ad90f", null ],
-    [ "GetConsoleArguments", "d8/df0/a29966.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "main", "d8/df0/a29966.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "StartDB", "d8/df0/a29966.html#a1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "d8/df0/a29966.html#a927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "FileLoader", "d8/df0/a29966.html#a51313b536560d1d89d8350475d2bc749", null ],
+    [ "~FileLoader", "d8/df0/a29966.html#a0954776182dd01364bdb216539ce398b", null ],
+    [ "FileLoader", "d8/df0/a29966.html#a51313b536560d1d89d8350475d2bc749", null ],
+    [ "~FileLoader", "d8/df0/a29966.html#a0954776182dd01364bdb216539ce398b", null ],
+    [ "free", "d8/df0/a29966.html#a738aeb2ebe751c9fc75013dbce30dcc4", null ],
+    [ "free", "d8/df0/a29966.html#aef98564821c8e63b6d484179cda0b380", null ],
+    [ "GetData", "d8/df0/a29966.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
+    [ "GetData", "d8/df0/a29966.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
+    [ "GetDataSize", "d8/df0/a29966.html#a2a07adb0692a51af06ccd31d449ae444", null ],
+    [ "GetDataSize", "d8/df0/a29966.html#a2a07adb0692a51af06ccd31d449ae444", null ],
+    [ "loadFile", "d8/df0/a29966.html#a11908109042f93ddde393e7a874683c9", null ],
+    [ "loadFile", "d8/df0/a29966.html#a11908109042f93ddde393e7a874683c9", null ],
+    [ "prepareLoadedData", "d8/df0/a29966.html#ab66347098d7c9ac470339c232f9b7588", null ],
+    [ "prepareLoadedData", "d8/df0/a29966.html#a498a33d80768843b4ab1ff2d5ffe68d9", null ],
+    [ "data", "d8/df0/a29966.html#aff1880ac2038f17f4d1f63bc9f7d9afd", null ],
+    [ "data_size", "d8/df0/a29966.html#a355891fc980538e74080b9b83a95dec8", null ],
+    [ "version", "d8/df0/a29966.html#a41cedec185e5909d83c8a185d1476dee", null ]
 ];

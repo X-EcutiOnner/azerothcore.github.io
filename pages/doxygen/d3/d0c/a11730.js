@@ -1,5 +1,10 @@
 var a11730 =
 [
-    [ "data", "d5/dc9/a04804.html#ga4e97bd1d129d33b86a11c79c8cfa437b", null ],
-    [ "ScriptId", "d5/dc9/a04804.html#gaa452a9be01e00154512cb55980737ae6", null ]
+    [ "EffectHook", "d3/d0c/a11730.html#a4a197e061d918dfba2bc486f3393b00d", null ],
+    [ "~EffectHook", "d3/d0c/a11730.html#aa234f63b530764d12064acbe3f5c9299", null ],
+    [ "CheckEffect", "d3/d0c/a11730.html#ae8823c5d649d182f572818bf3db72902", null ],
+    [ "EffIndexToString", "d3/d0c/a11730.html#ab818ed274cfd66ecc565b8535b751517", null ],
+    [ "GetAffectedEffectsMask", "d3/d0c/a11730.html#a31faa86590e22f5ab3ca518f4df02840", null ],
+    [ "IsEffectAffected", "d3/d0c/a11730.html#a697041ffa562bb6fff792beb159c7af2", null ],
+    [ "effIndex", "d3/d0c/a11730.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
 ];

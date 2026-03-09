@@ -1,8 +1,7 @@
 var a08854 =
 [
-    [ "VehicleSeat", "de/d62/a08854.html#ad2d19e3fc73c06cd7c8e339bd2b45a0c", null ],
-    [ "IsEmpty", "de/d62/a08854.html#a9f68076857cb85ee7679f04043acdedc", null ],
-    [ "Passenger", "de/d62/a08854.html#ac334f2f573bf52f164d570f8b83fc197", null ],
-    [ "SeatAddon", "de/d62/a08854.html#a3c46401aa5859287e4bcb24141c848cc", null ],
-    [ "SeatInfo", "de/d62/a08854.html#add0cf92d445f6ea0cf910b0bc0d80b62", null ]
+    [ "ItemPosCount", "de/d62/a08854.html#a43458da1fc31d827b6de726754f7901e", null ],
+    [ "isContainedIn", "de/d62/a08854.html#a6977c544a2d39ca5872b75f27517974f", null ],
+    [ "count", "de/d62/a08854.html#a4e09f94aa0808f76b2d5ff23691abb27", null ],
+    [ "pos", "de/d62/a08854.html#ad8954f1a6323316510cfe0f332ee495f", null ]
 ];

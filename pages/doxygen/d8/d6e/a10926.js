@@ -1,9 +1,11 @@
 var a10926 =
 [
-    [ "LevelUpInfo", "d8/d6e/a10926.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
-    [ "Write", "d8/d6e/a10926.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
-    [ "HealthDelta", "d8/d6e/a10926.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
-    [ "Level", "d8/d6e/a10926.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
-    [ "PowerDelta", "d8/d6e/a10926.html#a697da64ac234c24fe73e68d408697ee6", null ],
-    [ "StatDelta", "d8/d6e/a10926.html#a580e4a3cd77631e960b7753542375d6d", null ]
+    [ "GuildRankTabPermissions", "d4/df1/a10930.html", "d4/df1/a10930" ],
+    [ "GuildPermissionsQueryResults", "d8/d6e/a10926.html#aa643af51780fc550f3947936266d54f5", null ],
+    [ "Write", "d8/d6e/a10926.html#a4a5937a8daab44b5000a5308ed0be06a", null ],
+    [ "Flags", "d8/d6e/a10926.html#a368162426ab526adafc7ecb223fdf865", null ],
+    [ "NumTabs", "d8/d6e/a10926.html#ab797ef0f0081c4520a6333afbe6cd5b4", null ],
+    [ "RankID", "d8/d6e/a10926.html#a795ba45650991bd5c1aa03c17886d86b", null ],
+    [ "Tab", "d8/d6e/a10926.html#ae54eeb1a76f5eeaf4a63bcb58bab3460", null ],
+    [ "WithdrawGoldLimit", "d8/d6e/a10926.html#a9d175a8de69f15c3f8eadf237f68e84a", null ]
 ];

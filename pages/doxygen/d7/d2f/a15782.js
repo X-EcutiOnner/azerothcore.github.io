@@ -1,6 +1,8 @@
 var a15782 =
 [
-    [ "npc_braug_dimspirit", "d7/d2f/a15782.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
-    [ "OnGossipHello", "d7/d2f/a15782.html#aeaed026edf5a1fa82c941f667c05815b", null ],
-    [ "OnGossipSelect", "d7/d2f/a15782.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
+    [ "npc_obsidian_eradicator", "d7/d2f/a15782.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "d7/d2f/a15782.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "d7/d2f/a15782.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "d7/d2f/a15782.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "d7/d2f/a15782.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

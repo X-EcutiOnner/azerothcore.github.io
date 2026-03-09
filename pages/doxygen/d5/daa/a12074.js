@@ -1,7 +1,21 @@
 var a12074 =
 [
-    [ "npc_rocknotAI", "d2/db3/a12078.html", "d2/db3/a12078" ],
-    [ "npc_rocknot", "d5/daa/a12074.html#a64a0cd215c1f4881948e5a49cf1b86d7", null ],
-    [ "GetAI", "d5/daa/a12074.html#ac8a90d54e9303c40f0313fda1dcfea86", null ],
-    [ "OnQuestReward", "d5/daa/a12074.html#abd8ad3d7e6dd1e557398e268409a2c98", null ]
+    [ "account_commandscript", "d5/daa/a12074.html#acfea28449f30913389ab2eddfc512dbb", null ],
+    [ "GetCommands", "d5/daa/a12074.html#a28baac859fcc2ee8bbf00dcdf7b38f4d", null ],
+    [ "HandleAccount2FARemoveCommand", "d5/daa/a12074.html#a9cba65441f9e594e14ff55537f7f83f0", null ],
+    [ "HandleAccount2FASetupCommand", "d5/daa/a12074.html#aedfc70990dd6211938baad8b11a45e8c", null ],
+    [ "HandleAccountAddonCommand", "d5/daa/a12074.html#ac05636d86ea945c48fdf2c8565029e2e", null ],
+    [ "HandleAccountCommand", "d5/daa/a12074.html#aca24ee7a088839552cdf75c0a418d4e3", null ],
+    [ "HandleAccountCreateCommand", "d5/daa/a12074.html#af8b6cb76e8a6f762b86c3a8d7134d056", null ],
+    [ "HandleAccountDeleteCommand", "d5/daa/a12074.html#a4bb0b76ef822011054d699df31f60d7e", null ],
+    [ "HandleAccountLockCountryCommand", "d5/daa/a12074.html#a35e6b959596f1d9a32d39af117d2b95e", null ],
+    [ "HandleAccountLockIpCommand", "d5/daa/a12074.html#a14e0d3fefc18f003c0079250e5c06b18", null ],
+    [ "HandleAccountOnlineListCommand", "d5/daa/a12074.html#a36cb5b885d6c0745303b386ad42541f6", null ],
+    [ "HandleAccountPasswordCommand", "d5/daa/a12074.html#a5cbbc397cd816e82963c7e2e352c90e5", null ],
+    [ "HandleAccountRemoveLockCountryCommand", "d5/daa/a12074.html#a6a40319f52f00881a5be4a50f812b337", null ],
+    [ "HandleAccountSet2FACommand", "d5/daa/a12074.html#a195e5037d3c4886ca8e69a56daadd028", null ],
+    [ "HandleAccountSetAddonCommand", "d5/daa/a12074.html#aca017dc33dab7c379d8203569775f21b", null ],
+    [ "HandleAccountSetEmailCommand", "d5/daa/a12074.html#ad4f26277c3484e8091e5f23ddbd45a2f", null ],
+    [ "HandleAccountSetGmLevelCommand", "d5/daa/a12074.html#a1aaee019de3b7802281e25e926fa4821", null ],
+    [ "HandleAccountSetPasswordCommand", "d5/daa/a12074.html#a77e9bb9f0f82b19ec9306533cab0d7bd", null ]
 ];

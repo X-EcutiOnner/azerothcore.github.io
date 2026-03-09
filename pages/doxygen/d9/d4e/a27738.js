@@ -1,6 +1,8 @@
 var a27738 =
 [
-    [ "npc_taxi", "d9/d4e/a27738.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
-    [ "OnGossipHello", "d9/d4e/a27738.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
-    [ "OnGossipSelect", "d9/d4e/a27738.html#a5a7443abba8cf98a3073195177981edc", null ]
+    [ "Load", "d9/d4e/a27738.html#af6c19828b80a6cc06e4c9c207e7c52b8", null ],
+    [ "OnRemove", "d9/d4e/a27738.html#a097cf2a2abecda1e89f85bc4bd4ec029", null ],
+    [ "PrepareAuraScript", "d9/d4e/a27738.html#a2161d27a90b3f87fd07f75723b6d9e13", null ],
+    [ "Register", "d9/d4e/a27738.html#a932760326c822f1b47df1afdec6bb9cb", null ],
+    [ "Validate", "d9/d4e/a27738.html#a69bcfedb7f566c572201aadc9e75df08", null ]
 ];

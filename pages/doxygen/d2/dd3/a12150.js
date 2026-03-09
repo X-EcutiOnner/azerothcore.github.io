@@ -1,6 +1,18 @@
 var a12150 =
 [
-    [ "boss_hedrumAI", "d2/dd3/a12150.html#a95e4af51a8e24fa7b36b924c6cdfb86c", null ],
-    [ "JustEngagedWith", "d2/dd3/a12150.html#a1cf03b06598f2b36814062d47a73ed82", null ],
-    [ "UpdateAI", "d2/dd3/a12150.html#aa515ed081aaabdad751c1bbba56d3d96", null ]
+    [ "gobject_commandscript", "d2/dd3/a12150.html#a664ffe7aa07b1e08156545675ae5dc69", null ],
+    [ "GetCommands", "d2/dd3/a12150.html#a75124102670615a7b3a0ecd457ab631a", null ],
+    [ "HandleGameObjectActivateCommand", "d2/dd3/a12150.html#a2512dfca6b1ae8a2476551a02caa202a", null ],
+    [ "HandleGameObjectAddCommand", "d2/dd3/a12150.html#a23717867956cc0da99e3640d2b790346", null ],
+    [ "HandleGameObjectAddTempCommand", "d2/dd3/a12150.html#a49908d7c180d778c43702563add17d2d", null ],
+    [ "HandleGameObjectDeleteCommand", "d2/dd3/a12150.html#a06ef45827cefcc19f748c5940dfb4b1d", null ],
+    [ "HandleGameObjectInfoCommand", "d2/dd3/a12150.html#a1d6e3c850b0bc2772d3f1f09877d8a40", null ],
+    [ "HandleGameObjectLoadCommand", "d2/dd3/a12150.html#a1d364680fd9c8f2be42e899e9e091676", null ],
+    [ "HandleGameObjectMoveCommand", "d2/dd3/a12150.html#a7098a5b0c94cb09b8c6fe08eba261d93", null ],
+    [ "HandleGameObjectNearCommand", "d2/dd3/a12150.html#a156f293b3bf9c7439b62814ee8f27650", null ],
+    [ "HandleGameObjectRespawn", "d2/dd3/a12150.html#aafed57aa556c8cdc0c380185b056d705", null ],
+    [ "HandleGameObjectSetPhaseCommand", "d2/dd3/a12150.html#af2ac49c9fdd408be62dd4ee179c1142c", null ],
+    [ "HandleGameObjectSetStateCommand", "d2/dd3/a12150.html#ae6d100f51d8b08e1576092eedc4db15f", null ],
+    [ "HandleGameObjectTargetCommand", "d2/dd3/a12150.html#a11d33046310495c0a6d883a307c95632", null ],
+    [ "HandleGameObjectTurnCommand", "d2/dd3/a12150.html#a75883394613b2c3501cd48f5334199b7", null ]
 ];

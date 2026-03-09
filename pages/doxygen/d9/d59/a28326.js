@@ -1,7 +1,5 @@
 var a28326 =
 [
-    [ "Class", "d9/d59/a28326.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
-    [ "Gender", "d9/d59/a28326.html#aba6251a7020c6e66b9fc7a21859df271", null ],
-    [ "ItemId", "d9/d59/a28326.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
-    [ "Race", "d9/d59/a28326.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
+    [ "go_veil_skith_cage", "d9/d59/a28326.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
+    [ "OnGossipHello", "d9/d59/a28326.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
 ];

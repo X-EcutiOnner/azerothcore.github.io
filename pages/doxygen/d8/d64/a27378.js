@@ -1,7 +1,8 @@
 var a27378 =
 [
-    [ "npc_spirit_shadeAI", "d8/d64/a27378.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "d8/d64/a27378.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "d8/d64/a27378.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "d8/d64/a27378.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "CheckProc", "d8/d64/a27378.html#a6abcfe33cfddde117eb9d19bdf834c3f", null ],
+    [ "HandleProc", "d8/d64/a27378.html#a4ee92efd0a312f7b5b4e0e19184cd085", null ],
+    [ "PrepareAuraScript", "d8/d64/a27378.html#ac45288980b444c92daecc1392a2cd38c", null ],
+    [ "Register", "d8/d64/a27378.html#ac93280657ee8d64aced09b95dac270d4", null ],
+    [ "Validate", "d8/d64/a27378.html#ad7b22c7da5d72a392d342624c46b456b", null ]
 ];

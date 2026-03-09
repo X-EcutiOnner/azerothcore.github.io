@@ -1,8 +1,10 @@
 var a02843 =
 [
-    [ "spell_gordunni_trap", "d9/ddf/a15952.html", "d9/ddf/a15952" ],
-    [ "GordunniTrap", "d0/d45/a02843.html#ae11511f5835ecdfec73fde1f9f29431c", [
-      [ "GO_GORDUNNI_DIRT_MOUND", "d0/d45/a02843.html#ae11511f5835ecdfec73fde1f9f29431ca12df131fc84f6cc9bcf7d02eaf65e1ab", null ]
-    ] ],
-    [ "AddSC_feralas", "d0/d45/a02843.html#a06e54e3edc2df068be660ac788b402e3", null ]
+    [ "OutdoorPvP_nagrand", "d8/d03/a22522.html", "d8/d03/a22522" ],
+    [ "outdoorpvp_na_halaa_creatures", "dd/d67/a22526.html", "dd/d67/a22526" ],
+    [ "AddSC_outdoorpvp_na", "d0/d45/a02843.html#a03015585e7619177355fefd05f85e1c7", null ],
+    [ "FlagPlayerPvP", "d0/d45/a02843.html#ab1d33448696056a0951a0c306a511f1e", null ],
+    [ "UpdateCreatureHalaa", "d0/d45/a02843.html#a37af66c813e135cc11bd1dc663b35697", null ],
+    [ "halaaNPCAlly", "d0/d45/a02843.html#a3428675268608e5372767fc629259d5c", null ],
+    [ "halaaNPCHorde", "d0/d45/a02843.html#a531a4e8a5291c048ad0f3b0fc64b29d9", null ]
 ];

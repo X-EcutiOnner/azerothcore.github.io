@@ -1,6 +1,10 @@
 var a15530 =
 [
-    [ "npc_death_ravagerAI", "d0/de0/a15534.html", "d0/de0/a15534" ],
-    [ "npc_death_ravager", "d4/d4b/a15530.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
-    [ "GetAI", "d4/d4b/a15530.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
+    [ "boss_moam", "d4/d4b/a15530.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
+    [ "InitializeAI", "d4/d4b/a15530.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
+    [ "JustDied", "d4/d4b/a15530.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
+    [ "JustEngagedWith", "d4/d4b/a15530.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
+    [ "Reset", "d4/d4b/a15530.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
+    [ "SummonedCreatureDies", "d4/d4b/a15530.html#a8401c5e2bd216deee197617b78d85222", null ],
+    [ "UpdateAI", "d4/d4b/a15530.html#aadd8320c6194923b113967d3d6c49a5e", null ]
 ];

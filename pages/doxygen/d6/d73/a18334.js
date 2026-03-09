@@ -1,6 +1,6 @@
 var a18334 =
 [
-    [ "OrderWhelpTargetSelector", "d6/d73/a18334.html#a5e433367ebbf88c6bb8fef9d43eafcfa", null ],
-    [ "operator()", "d6/d73/a18334.html#abf98b730a2b794012c28b61ab8bb6b6c", null ],
-    [ "_owner", "d6/d73/a18334.html#ae475da3cca3d6288ce7df0b84d59005e", null ]
+    [ "AbominationDespawner", "d6/d73/a18334.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "d6/d73/a18334.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "d6/d73/a18334.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

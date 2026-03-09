@@ -1,7 +1,6 @@
 var a16594 =
 [
-    [ "npc_toc_shamanAI", "d8/d9e/a16594.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
-    [ "myCanCast", "d8/d9e/a16594.html#a993739662d2687c27219853669b8a485", null ],
-    [ "UpdateAI", "d8/d9e/a16594.html#a2ad17245685feb3f085ef9a669459c61", null ],
-    [ "events", "d8/d9e/a16594.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
+    [ "boss_twilight_halionAI", "d4/dbc/a16598.html", "d4/dbc/a16598" ],
+    [ "boss_twilight_halion", "d8/d9e/a16594.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
+    [ "GetAI", "d8/d9e/a16594.html#a56842d74b16cbd5636649cbc643c50d8", null ]
 ];

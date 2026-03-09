@@ -1,5 +1,6 @@
 var a15766 =
 [
-    [ "go_crystalline_tear", "d5/d66/a15766.html#a9e19c6538ecd1a758f2639171321d965", null ],
-    [ "OnQuestAccept", "d5/d66/a15766.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
+    [ "OnPeriodic", "d5/d66/a15766.html#a5945e24db52c6bacae7221b085dc877b", null ],
+    [ "PrepareAuraScript", "d5/d66/a15766.html#acc987aa864a8333de7bd0b770eb9018d", null ],
+    [ "Register", "d5/d66/a15766.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
 ];

@@ -1,7 +1,10 @@
 var a30026 =
 [
-    [ "MPQArchive", "de/d07/a29020.html", "de/d07/a29020" ],
-    [ "MPQFile", "d7/d0c/a29024.html", "d7/d0c/a29024" ],
-    [ "ArchiveSet", "d3/d14/a30026.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "d3/d14/a30026.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "maxSimplificationError", "d3/d14/a30026.html#a010878a247d639234d2bb8571280aca6", null ],
+    [ "vertexPerMapEdge", "d3/d14/a30026.html#af620af11a09215f106fc6704c88fa411", null ],
+    [ "vertexPerTileEdge", "d3/d14/a30026.html#a5a801e68fac6d59c1a236aeaf374bc9e", null ],
+    [ "walkableClimb", "d3/d14/a30026.html#aa5f6c5daf51b6390b7146f9a8d6de7ec", null ],
+    [ "walkableHeight", "d3/d14/a30026.html#a42b9a553cb3cd5d9c39d4cb7f0f59486", null ],
+    [ "walkableRadius", "d3/d14/a30026.html#a43f00aacc5e1497c169d4ba908883140", null ],
+    [ "walkableSlopeAngle", "d3/d14/a30026.html#a9792dfe730bfc437797a359896a14528", null ]
 ];

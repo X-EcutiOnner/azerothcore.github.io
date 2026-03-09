@@ -1,7 +1,5 @@
 var a28162 =
 [
-    [ "EmoteType", "d7/d63/a28162.html#a2d319652021081fdb02472c32a28e318", null ],
-    [ "Flags", "d7/d63/a28162.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
-    [ "Id", "d7/d63/a28162.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
-    [ "UnitStandState", "d7/d63/a28162.html#ada83e548faa01917a5db19eaa15dbbec", null ]
+    [ "go_ethereum_prison", "d7/d63/a28162.html#a1872dab11a8470194ab35f87e217aa8a", null ],
+    [ "OnGossipHello", "d7/d63/a28162.html#a73479b0512ea778336fad4bd5cd9b909", null ]
 ];

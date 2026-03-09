@@ -1,7 +1,5 @@
 var a12678 =
 [
-    [ "HandleScript", "db/d21/a12678.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
-    [ "PrepareSpellScript", "db/d21/a12678.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
-    [ "Register", "db/d21/a12678.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
-    [ "Validate", "db/d21/a12678.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
+    [ "at_dragonspire_hall", "db/d21/a12678.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
+    [ "OnTrigger", "db/d21/a12678.html#a0433930ec050a9dbeb60e1b1122772e3", null ]
 ];

@@ -1,6 +1,7 @@
 var a15122 =
 [
-    [ "instance_razorfen_downs_InstanceMapScript", "d7/de6/a15126.html", "d7/de6/a15126" ],
-    [ "instance_razorfen_downs", "d9/d1a/a15122.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
-    [ "GetInstanceScript", "d9/d1a/a15122.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
+    [ "HandleOnHit", "d9/d1a/a15122.html#ae3241486a612293b5421a523f6d854d9", null ],
+    [ "PrepareSpellScript", "d9/d1a/a15122.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
+    [ "Register", "d9/d1a/a15122.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
+    [ "Validate", "d9/d1a/a15122.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
 ];

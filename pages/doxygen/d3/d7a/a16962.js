@@ -1,7 +1,8 @@
 var a16962 =
 [
-    [ "HandlePeriodicTick", "d3/d7a/a16962.html#a7fa0334a0a33b15758b6362aa0a9bd7d", null ],
-    [ "PrepareAuraScript", "d3/d7a/a16962.html#aabaef31a3c699c322e24e064f357f82f", null ],
-    [ "Register", "d3/d7a/a16962.html#ae9602bc623422c124dfc37a18c0dbfec", null ],
-    [ "Validate", "d3/d7a/a16962.html#a18d92a82760992bc5d8503e3f774f208", null ]
+    [ "npc_toc_hunterAI", "d3/d7a/a16962.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
+    [ "JustSummoned", "d3/d7a/a16962.html#aa270248ad9e0c319234ff0741270b465", null ],
+    [ "myCanCast", "d3/d7a/a16962.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
+    [ "UpdateAI", "d3/d7a/a16962.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
+    [ "events", "d3/d7a/a16962.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
 ];

@@ -1,9 +1,7 @@
 var a09462 =
 [
-    [ "NearestAssistCreatureInCreatureRangeCheck", "d3/d21/a09462.html#ac9e380add6c9df4afc707007528c7434", null ],
-    [ "NearestAssistCreatureInCreatureRangeCheck", "d3/d21/a09462.html#aa26e19df606a366147e1db4fd1aa6eac", null ],
-    [ "operator()", "d3/d21/a09462.html#a9a085d16b30849537441f809052ac196", null ],
-    [ "i_enemy", "d3/d21/a09462.html#a0ba09da942c48e523c278cff0e0a4139", null ],
-    [ "i_obj", "d3/d21/a09462.html#a905ea6b07b97ed23de4f4cf9946642af", null ],
-    [ "i_range", "d3/d21/a09462.html#ab82a4b97ebb2bef047ae85404b0e3da0", null ]
+    [ "CreatureRelocationNotifier", "d3/d21/a09462.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
+    [ "Visit", "d3/d21/a09462.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
+    [ "Visit", "d3/d21/a09462.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
+    [ "i_creature", "d3/d21/a09462.html#a3116f6245816ba8fb9edb5995faa9927", null ]
 ];

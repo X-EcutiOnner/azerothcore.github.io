@@ -1,17 +1,10 @@
 var a23774 =
 [
-    [ "boss_magtheridon", "d7/d01/a23774.html#a3d718a101047cd90448577ee520adf5e", null ],
-    [ "DoAction", "d7/d01/a23774.html#a3015fd8503a0da84e7b78c551587f8a3", null ],
-    [ "JustDied", "d7/d01/a23774.html#adca91ab2fbfe88cc79b19aaa4bff74cf", null ],
-    [ "JustEngagedWith", "d7/d01/a23774.html#a93fb4d888ebd6273bca0a128c8303996", null ],
-    [ "KilledUnit", "d7/d01/a23774.html#a42aa45e199f76f567bc7a677f3d3aedf", null ],
-    [ "Reset", "d7/d01/a23774.html#a0999e13f434699bb14c2ef6d2467a043", null ],
-    [ "ScheduleCombatEvents", "d7/d01/a23774.html#ae9b2f0929c2309e6bd57cc1241452d61", null ],
-    [ "UpdateAI", "d7/d01/a23774.html#a656e9595b30d014c54cc456d7f81f657", null ],
-    [ "_castingQuake", "d7/d01/a23774.html#ad1c95705a7018b4eb62cbee6f20fb65a", null ],
-    [ "_channelersKilled", "d7/d01/a23774.html#a305f71322dbe10e12588ebe0c45eff5f", null ],
-    [ "_currentPhase", "d7/d01/a23774.html#a2871d60efe88d3901bad9a4c5249fcfb", null ],
-    [ "_interruptScheduler", "d7/d01/a23774.html#aae56fde097d925bcf58be1d8e6bf50f4", null ],
-    [ "_magReleased", "d7/d01/a23774.html#a6dd4891771771acf5456a129113e864e", null ],
-    [ "_recentlySpoken", "d7/d01/a23774.html#af860281db4d20e3d3b9589657c921a50", null ]
+    [ "CheckProc", "d7/d01/a23774.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
+    [ "Load", "d7/d01/a23774.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
+    [ "PrepareAuraScript", "d7/d01/a23774.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
+    [ "Register", "d7/d01/a23774.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
+    [ "_lastForm", "d7/d01/a23774.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
+    [ "_lastSchool", "d7/d01/a23774.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
+    [ "_swapTime", "d7/d01/a23774.html#af832dc200e928df3849ab7d7f93cb412", null ]
 ];

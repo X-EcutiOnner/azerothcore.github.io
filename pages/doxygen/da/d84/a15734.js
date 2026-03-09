@@ -1,10 +1,7 @@
 var a15734 =
 [
-    [ "CreatureId", "da/d84/a15734.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
-    [ "DespTimer", "da/d84/a15734.html#a0dfec745982b346ac1cd0af672be31fb", null ],
-    [ "SpawnCount", "da/d84/a15734.html#ad5347ee83eaa00fe0721279099c48433", null ],
-    [ "SpawnTimer", "da/d84/a15734.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
-    [ "UsedSpawnPoint", "da/d84/a15734.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
-    [ "WaveTextId", "da/d84/a15734.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
-    [ "YellTimer", "da/d84/a15734.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
+    [ "boss_glob_of_viscidus", "da/d84/a15734.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
+    [ "InitializeAI", "da/d84/a15734.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
+    [ "MovementInform", "da/d84/a15734.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
+    [ "UpdateAI", "da/d84/a15734.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
 ];

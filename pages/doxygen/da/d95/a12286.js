@@ -1,11 +1,14 @@
 var a12286 =
 [
-    [ "npc_blackhand_incarceratorAI", "da/d95/a12286.html#adecfd5bcc6bf5fee0688459ebac03e18", null ],
-    [ "DamageTaken", "da/d95/a12286.html#a3bc090518cba2bc64fb5c454bbb47b72", null ],
-    [ "JustEngagedWith", "da/d95/a12286.html#a2026328f428c4e5c15551773255da21f", null ],
-    [ "Reset", "da/d95/a12286.html#a3a98f2d5fd764c852a1d9418315cd56b", null ],
-    [ "SetData", "da/d95/a12286.html#ae9d92237c6327abd78ada9a306ee8a09", null ],
-    [ "UpdateAI", "da/d95/a12286.html#a1bc6aa88d7bc5163e2cc4e2cc1779076", null ],
-    [ "_events", "da/d95/a12286.html#abcd817233c0cb85656856c4107d86793", null ],
-    [ "_fleedForAssistance", "da/d95/a12286.html#ab4e59b91b47dffc19db6b49ecd4c9fd8", null ]
+    [ "tele_commandscript", "da/d95/a12286.html#a13d522c3480c5b82071d5f77bd41f942", null ],
+    [ "DoNameTeleport", "da/d95/a12286.html#aeab9bf62f33fd1d55055ba2ae7925f82", null ],
+    [ "GetCommands", "da/d95/a12286.html#a296b26e39d5d575ebe68728ff1b49f68", null ],
+    [ "HandleTeleAddCommand", "da/d95/a12286.html#a8d429a38c01a19f8c89c87937ef24248", null ],
+    [ "HandleTeleCommand", "da/d95/a12286.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa", null ],
+    [ "HandleTeleDelCommand", "da/d95/a12286.html#ad3d85b0057797de2aceeb620cf62efc0", null ],
+    [ "HandleTeleGroupCommand", "da/d95/a12286.html#af83e529b482654851a7a1ee77beb107e", null ],
+    [ "HandleTeleNameCommand", "da/d95/a12286.html#a70fcde1c7c5a9e5297035862adca55c4", null ],
+    [ "HandleTeleNameNpcIdCommand", "da/d95/a12286.html#a52852b7f3d7a6bbf68164e6918b9a141", null ],
+    [ "HandleTeleNameNpcNameCommand", "da/d95/a12286.html#a2f68bad0f1af5d40fcefb8c394472b65", null ],
+    [ "HandleTeleNameNpcSpawnIdCommand", "da/d95/a12286.html#a7a45fa39afa6bae2359a68b11a504bc5", null ]
 ];

@@ -1,7 +1,6 @@
 var a18206 =
 [
-    [ "FrostwyrmLandEvent", "d9/d7b/a18206.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
-    [ "Execute", "d9/d7b/a18206.html#a4da77796a223e6233ac6d908f7700623", null ],
-    [ "_dest", "d9/d7b/a18206.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
-    [ "_owner", "d9/d7b/a18206.html#a6336050092606ebb27a180abff55dfa2", null ]
+    [ "IgbArtilleryCheck", "d9/d7b/a18206.html#a78b65928551ed799cf3f446f0603c50e", null ],
+    [ "operator()", "d9/d7b/a18206.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
+    [ "_entry", "d9/d7b/a18206.html#a98a6a0836414da82c288e372e982f69f", null ]
 ];

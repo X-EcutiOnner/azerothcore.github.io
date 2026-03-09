@@ -1,6 +1,6 @@
 var a16358 =
 [
-    [ "OnSummon", "d4/d26/a16358.html#ae2766d12fb686356b46126848f356c5a", null ],
-    [ "PrepareSpellScript", "d4/d26/a16358.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
-    [ "Register", "d4/d26/a16358.html#a717394bfbea621ae637f9e87efddda62", null ]
+    [ "ModDestHeight", "d4/d26/a16358.html#a8bda9327c4244af41c513528ad5c818c", null ],
+    [ "PrepareSpellScript", "d4/d26/a16358.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
+    [ "Register", "d4/d26/a16358.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
 ];

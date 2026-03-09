@@ -1,7 +1,6 @@
 var a11074 =
 [
-    [ "PetActionSound", "df/d30/a11074.html#ae20a837d2b3f647d2a1d7c5e398b7b56", null ],
-    [ "Write", "df/d30/a11074.html#a8627631f2eb7d93cda52ce09a749fb0c", null ],
-    [ "Action", "df/d30/a11074.html#a25b3a4b44bcda9bec898aca1a88b90ed", null ],
-    [ "UnitGUID", "df/d30/a11074.html#a32b15c490da02bc5020653a9e9bfbd68", null ]
+    [ "SetDungeonDifficultyClient", "df/d30/a11074.html#ae3bb2ac16b8712a3eb731913af26961c", null ],
+    [ "Read", "df/d30/a11074.html#a6f92ee86dc73b1a51a9c4683997e6c4f", null ],
+    [ "Mode", "df/d30/a11074.html#a3cb1f62fba1849dfb59c9b8f46fe4c27", null ]
 ];

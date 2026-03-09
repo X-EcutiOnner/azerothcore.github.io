@@ -1,8 +1,7 @@
 var a24578 =
 [
-    [ "npc_pet_gen_gnomish_flame_turret", "d2/d09/a24578.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
-    [ "AttackStart", "d2/d09/a24578.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
-    [ "Reset", "d2/d09/a24578.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
-    [ "UpdateAI", "d2/d09/a24578.html#ae3db08323af4b82009ffd660b3e78474", null ],
-    [ "checkTimer", "d2/d09/a24578.html#ac6705f4980ca561a5fd33c2917488439", null ]
+    [ "CorpseExplosionCheck", "d2/d09/a24578.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
+    [ "operator()", "d2/d09/a24578.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
+    [ "_allowGhoul", "d2/d09/a24578.html#abd42a0731af969ceccdfceae722ba276", null ],
+    [ "_casterGUID", "d2/d09/a24578.html#a497df87745f452716c652e9b1be6d46f", null ]
 ];

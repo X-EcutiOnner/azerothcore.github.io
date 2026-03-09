@@ -1,8 +1,7 @@
 var a14122 =
 [
-    [ "HandleScriptEffect", "d4/da7/a14122.html#af7f22d3b7ba136ec2af88656b9805168", null ],
-    [ "PrepareSpellScript", "d4/da7/a14122.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3", null ],
-    [ "Register", "d4/da7/a14122.html#a6a6d95c6d33bc8d90a2022e1ce23c635", null ],
-    [ "Validate", "d4/da7/a14122.html#a94a5697e9d8a068fe6ae34b8aaf974fd", null ],
-    [ "spells", "d4/da7/a14122.html#a902fc17746af82a4c58fe599c9616ce2", null ]
+    [ "npc_king_magni_bronzebeard", "d4/da7/a14122.html#af100ccf11c9d266be439318519280a9a", null ],
+    [ "JustDied", "d4/da7/a14122.html#a3323285cc5c4cee9df001e83584b8114", null ],
+    [ "JustEngagedWith", "d4/da7/a14122.html#a8c92169605d30c82f4699ff2b29101a6", null ],
+    [ "UpdateAI", "d4/da7/a14122.html#ad23891becf07d991c5ffc4f89719fa04", null ]
 ];

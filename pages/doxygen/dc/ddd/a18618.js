@@ -1,5 +1,5 @@
 var a18618 =
 [
-    [ "achievement_been_waiting_long_time", "dc/ddd/a18618.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
-    [ "OnCheck", "dc/ddd/a18618.html#a5e72304220d3a649d2182cb287215da6", null ]
+    [ "achievement_all_you_can_eat", "dc/ddd/a18618.html#a0995024862a445ea1f0ff5c82475fc64", null ],
+    [ "OnCheck", "dc/ddd/a18618.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
 ];

@@ -1,6 +1,6 @@
 var a17566 =
 [
-    [ "FilterTargets", "d4/d67/a17566.html#a7abb4397b5fcf956bf31fa4dc9960ece", null ],
-    [ "PrepareSpellScript", "d4/d67/a17566.html#a8e9d81b34e05506569f4b910c1958de3", null ],
-    [ "Register", "d4/d67/a17566.html#aa80980c3f68abcb0fac7a41172f70012", null ]
+    [ "npc_pos_after_first_bossAI", "d0/da3/a17570.html", "d0/da3/a17570" ],
+    [ "npc_pos_after_first_boss", "d4/d67/a17566.html#a76ae57195ceca454928245f2db12f68c", null ],
+    [ "GetAI", "d4/d67/a17566.html#a3f807335f79218ecc70c32f5496267a6", null ]
 ];

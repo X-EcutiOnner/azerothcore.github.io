@@ -1,8 +1,7 @@
 var a29358 =
 [
-    [ "npc_elder_clearwaterAI", "da/de9/a29362.html", "da/de9/a29362" ],
-    [ "npc_elder_clearwater", "dd/d96/a29358.html#abeee1650938a71762bb0c148ea9834d1", null ],
-    [ "GetAI", "dd/d96/a29358.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
-    [ "OnGossipHello", "dd/d96/a29358.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
-    [ "OnQuestReward", "dd/d96/a29358.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
+    [ "ID", "dd/d96/a29358.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
+    [ "RadiusMax", "dd/d96/a29358.html#ab82c1acb9309b17104958182d80b01d1", null ],
+    [ "RadiusMin", "dd/d96/a29358.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
+    [ "RadiusPerLevel", "dd/d96/a29358.html#a74bb59afb808af45ceff6367468fca1e", null ]
 ];

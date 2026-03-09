@@ -1,9 +1,13 @@
 var a02540 =
 [
-    [ "SQLElementData", "dc/d0a/a06084.html", "dc/d0a/a06084" ],
-    [ "SQLOperation", "db/d46/a06088.html", "db/d46/a06088" ],
-    [ "SQLElementDataType", "d4/db0/a02540.html#abb4a6cfcce013f18b29779f1f435e627", [
-      [ "SQL_ELEMENT_RAW", "d4/db0/a02540.html#abb4a6cfcce013f18b29779f1f435e627a49f9977e0908bdeb2a8b30b5877d939a", null ],
-      [ "SQL_ELEMENT_PREPARED", "d4/db0/a02540.html#abb4a6cfcce013f18b29779f1f435e627af61734e97ffd411ebb8f4275ea05600d", null ]
-    ] ]
+    [ "SkillPerfectItemEntry", "d1/d94/a11546.html", "d1/d94/a11546" ],
+    [ "SkillExtraItemEntry", "df/dda/a11550.html", "df/dda/a11550" ],
+    [ "SkillExtraItemMap", "d4/db0/a02540.html#a9ba2d7d2e815aee57a701990b858db7b", null ],
+    [ "SkillPerfectItemMap", "d4/db0/a02540.html#ad732be66d93ed6e8f498077f27e2766b", null ],
+    [ "canCreateExtraItems", "d4/db0/a02540.html#a49687e255d65fa15dac5e6a428c5739d", null ],
+    [ "CanCreatePerfectItem", "d4/db0/a02540.html#a818c557864790091814604b6d2175e52", null ],
+    [ "LoadSkillExtraItemTable", "d4/db0/a02540.html#a3244d04018405bafe21acc8bc96cc743", null ],
+    [ "LoadSkillPerfectItemTable", "d4/db0/a02540.html#a121df170a82be5ab5b05999a6be27b69", null ],
+    [ "SkillExtraItemStore", "d4/db0/a02540.html#acc52416c05fbae29bcbfa9f0683485cd", null ],
+    [ "SkillPerfectItemStore", "d4/db0/a02540.html#ac676f0acbf782fa2d31bd66b8eaa8260", null ]
 ];

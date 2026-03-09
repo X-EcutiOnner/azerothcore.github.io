@@ -1,5 +1,7 @@
 var a19074 =
 [
-    [ "at_frozen_throne_teleport", "d9/dc5/a19074.html#a8065b9f9b55b267be1757775f84de349", null ],
-    [ "OnTrigger", "d9/dc5/a19074.html#ae1f9476b7f47320f545e702e9317bd03", null ]
+    [ "HandleForceCast", "d9/dc5/a19074.html#accc757e0a23103242865f0ce3085f9d9", null ],
+    [ "Load", "d9/dc5/a19074.html#a7206571378a0196a8648659628bdeece", null ],
+    [ "PrepareSpellScript", "d9/dc5/a19074.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
+    [ "Register", "d9/dc5/a19074.html#ace665321732f59f13b2ef831c71c2f18", null ]
 ];

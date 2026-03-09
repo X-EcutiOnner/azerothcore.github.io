@@ -1,7 +1,6 @@
 var a25430 =
 [
-    [ "EjectPassenger", "d3/d19/a25430.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
-    [ "PrepareSpellScript", "d3/d19/a25430.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
-    [ "Register", "d3/d19/a25430.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
-    [ "Validate", "d3/d19/a25430.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
+    [ "HandleScriptEffect", "d3/d19/a25430.html#a78a131bdf6a1406604edd130c28d664b", null ],
+    [ "PrepareSpellScript", "d3/d19/a25430.html#a3b2d739227e57667a284ae4600ec1bb6", null ],
+    [ "Register", "d3/d19/a25430.html#a8a70913369aa733160366f37ff1c3470", null ]
 ];

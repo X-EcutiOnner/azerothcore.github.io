@@ -1,7 +1,6 @@
 var a28118 =
 [
-    [ "Displayid", "d5/d8a/a28118.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
-    [ "ExtendedDisplayInfoID", "d5/d8a/a28118.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
-    [ "ModelId", "d5/d8a/a28118.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
-    [ "scale", "d5/d8a/a28118.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
+    [ "boss_taerarAI", "d8/d40/a28122.html", "d8/d40/a28122" ],
+    [ "boss_taerar", "d5/d8a/a28118.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "d5/d8a/a28118.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

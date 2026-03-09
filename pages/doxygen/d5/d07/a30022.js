@@ -1,7 +1,12 @@
 var a30022 =
 [
-    [ "MPQArchive", "d3/dd2/a29016.html", "d3/dd2/a29016" ],
-    [ "MPQFile", "de/d07/a29020.html", "de/d07/a29020" ],
-    [ "ArchiveSet", "d5/d07/a30022.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "d5/d07/a30022.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "cellSizeHorizontal", "d5/d07/a30022.html#a5356c03dab90621b69de7a79ed4ab195", null ],
+    [ "cellSizeVertical", "d5/d07/a30022.html#a47b5a920afa39ae27a80241d58f152a3", null ],
+    [ "tileOverrides", "d5/d07/a30022.html#a129437291e75a919e4158bf1df0f7f0a", null ],
+    [ "vertexPerMapEdge", "d5/d07/a30022.html#a9d32da8787f54a7dadb86458319e0238", null ],
+    [ "vertexPerTileEdge", "d5/d07/a30022.html#a8dd6b0146358fcbbb6b7c56a96c467c9", null ],
+    [ "walkableClimb", "d5/d07/a30022.html#a2bd854b374d67d53b03a7bacf0785726", null ],
+    [ "walkableHeight", "d5/d07/a30022.html#a1de27edad5c45f8033ce74352c563f52", null ],
+    [ "walkableRadius", "d5/d07/a30022.html#a232dd51ab056c5e836fe1bb84eeee90e", null ],
+    [ "walkableSlopeAngle", "d5/d07/a30022.html#ad66e0a04ba9087304cf3909bb85b622a", null ]
 ];

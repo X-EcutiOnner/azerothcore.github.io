@@ -1,6 +1,5 @@
 var a21422 =
 [
-    [ "HandleOnHit", "d5/d22/a21422.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "d5/d22/a21422.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "d5/d22/a21422.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "go_vh_activation_crystal", "d5/d22/a21422.html#a4af485ac7ab6144282f3204a6d045cea", null ],
+    [ "OnGossipHello", "d5/d22/a21422.html#a47a61ba67086580135559332931e9c6e", null ]
 ];

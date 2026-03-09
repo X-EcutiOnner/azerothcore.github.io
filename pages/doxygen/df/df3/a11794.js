@@ -1,6 +1,6 @@
 var a11794 =
 [
-    [ "bg_commandscript", "df/df3/a11794.html#a86ffdfaed58149f5036f5c1e1040507a", null ],
-    [ "GetCommands", "df/df3/a11794.html#a911ccd6445b08c05069f7f196556c891", null ],
-    [ "HandleBagsClearCommand", "df/df3/a11794.html#a92347e90c2f78d0dfeb41eb033366319", null ]
+    [ "EffectBase", "df/df3/a11794.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
+    [ "CheckEffect", "df/df3/a11794.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
+    [ "ToString", "df/df3/a11794.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
 ];

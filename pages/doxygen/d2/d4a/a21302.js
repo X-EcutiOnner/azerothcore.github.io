@@ -1,6 +1,13 @@
 var a21302 =
 [
-    [ "npc_ferocious_rhinoAI", "d4/d23/a21306.html", "d4/d23/a21306" ],
-    [ "npc_ferocious_rhino", "d2/d4a/a21302.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
-    [ "GetAI", "d2/d4a/a21302.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
+    [ "boss_toravonAI", "d2/d4a/a21302.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
+    [ "AttackStart", "d2/d4a/a21302.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
+    [ "JustDied", "d2/d4a/a21302.html#ad501bb34a0014be0abc965aae5383e21", null ],
+    [ "JustEngagedWith", "d2/d4a/a21302.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
+    [ "JustSummoned", "d2/d4a/a21302.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
+    [ "Reset", "d2/d4a/a21302.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
+    [ "UpdateAI", "d2/d4a/a21302.html#a97c16b1689cfdb7fa680381964cb272a", null ],
+    [ "events", "d2/d4a/a21302.html#ae2a3b691f1580275228204ea8ccaf846", null ],
+    [ "pInstance", "d2/d4a/a21302.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
+    [ "summons", "d2/d4a/a21302.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
 ];

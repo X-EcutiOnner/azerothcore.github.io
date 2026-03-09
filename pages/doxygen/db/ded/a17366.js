@@ -1,7 +1,6 @@
 var a17366 =
 [
-    [ "HandleDummy", "db/ded/a17366.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
-    [ "PrepareSpellScript", "db/ded/a17366.html#a3ef0564565ea49265800422c835432b0", null ],
-    [ "Register", "db/ded/a17366.html#a7b685926a8d511397889616e97bbd563", null ],
-    [ "Validate", "db/ded/a17366.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
+    [ "npc_ghostly_priestAI", "de/d5f/a17370.html", "de/d5f/a17370" ],
+    [ "npc_ghostly_priest", "db/ded/a17366.html#a7c03bb327cfc65f4df515969da482ddb", null ],
+    [ "GetAI", "db/ded/a17366.html#a0fab76345c5459efcedff02123e4fc8d", null ]
 ];

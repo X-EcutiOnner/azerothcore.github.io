@@ -1,7 +1,9 @@
 var a09774 =
 [
-    [ "LootView", "d2/d64/a09774.html#a4cfc8ca1034e941a85d2955f38b2e894", null ],
-    [ "loot", "d2/d64/a09774.html#ac95fa4805c79923b292e8984b00de929", null ],
-    [ "permission", "d2/d64/a09774.html#a33d7eeebd6fbc854300275a4138d9030", null ],
-    [ "viewer", "d2/d64/a09774.html#af9a6926c6c871dee245f876038e49995", null ]
+    [ "WorldPacketList", "d2/d64/a09774.html#a27bf64080270086d6dbc752f8d96ec4c", null ],
+    [ "LocalizedPacketListDo", "d2/d64/a09774.html#ab52133e238752f725f18580018a84cd2", null ],
+    [ "~LocalizedPacketListDo", "d2/d64/a09774.html#a8442452027bcb5c98d60830e016803b5", null ],
+    [ "operator()", "d2/d64/a09774.html#adea9610e36d436563ba1f472481aed85", null ],
+    [ "i_builder", "d2/d64/a09774.html#a83bda52b10d30f7fd633c285b79e740b", null ],
+    [ "i_data_cache", "d2/d64/a09774.html#ae2ec6175868c4c82274ce7a623a954a3", null ]
 ];

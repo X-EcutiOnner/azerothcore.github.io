@@ -1,7 +1,6 @@
 var a14062 =
 [
-    [ "OnPeriodic", "df/d01/a14062.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
-    [ "PrepareAuraScript", "df/d01/a14062.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
-    [ "Register", "df/d01/a14062.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
-    [ "Validate", "df/d01/a14062.html#a7ed214de6769314a45540e9afdb82949", null ]
+    [ "npc_balance_of_light_and_shadowAI", "d9/d1d/a14066.html", "d9/d1d/a14066" ],
+    [ "npc_balance_of_light_and_shadow", "df/d01/a14062.html#a55229e3ea8dd9c52972185b36c08908b", null ],
+    [ "GetAI", "df/d01/a14062.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
 ];

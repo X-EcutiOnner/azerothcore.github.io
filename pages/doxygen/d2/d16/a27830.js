@@ -1,7 +1,8 @@
 var a27830 =
 [
-    [ "npc_guardianAI", "d2/d16/a27830.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
-    [ "JustEngagedWith", "d2/d16/a27830.html#a50257f80245bc59437e53083badcb056", null ],
-    [ "Reset", "d2/d16/a27830.html#a217df9bae079f56ffd70d27958fb2756", null ],
-    [ "UpdateAI", "d2/d16/a27830.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
+    [ "CheckProc", "d2/d16/a27830.html#a8a61fbd855294e6218cfc0e2dd3706c9", null ],
+    [ "OnProc", "d2/d16/a27830.html#a9217135a55d6612bf1d36b63ac09e7fb", null ],
+    [ "PrepareAuraScript", "d2/d16/a27830.html#a8bf573bb900773d4669708536b0b8011", null ],
+    [ "Register", "d2/d16/a27830.html#ae8ddcb6329088f904cbae3292ff92023", null ],
+    [ "Validate", "d2/d16/a27830.html#a918c9334b7f20710c0d6448a33c94601", null ]
 ];

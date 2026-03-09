@@ -1,8 +1,10 @@
 var a16058 =
 [
-    [ "instance_ahnkahet_InstanceScript", "d7/d3b/a16058.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
-    [ "IsAllSpheresActivated", "d7/d3b/a16058.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
-    [ "OnGameObjectCreate", "d7/d3b/a16058.html#ad00fdc90a61e1c927323daa2149f8466", null ],
-    [ "SetData", "d7/d3b/a16058.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
-    [ "taldaramPlatform_GUID", "d7/d3b/a16058.html#a840ce69595c384be321c1167513d151e", null ]
+    [ "CreatureId", "d7/d3b/a16058.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
+    [ "DespTimer", "d7/d3b/a16058.html#a0dfec745982b346ac1cd0af672be31fb", null ],
+    [ "SpawnCount", "d7/d3b/a16058.html#ad5347ee83eaa00fe0721279099c48433", null ],
+    [ "SpawnTimer", "d7/d3b/a16058.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
+    [ "UsedSpawnPoint", "d7/d3b/a16058.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
+    [ "WaveTextId", "d7/d3b/a16058.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
+    [ "YellTimer", "d7/d3b/a16058.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
 ];

@@ -1,6 +1,6 @@
 var a19354 =
 [
-    [ "FilterTargets", "d1/dcc/a19354.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
-    [ "PrepareSpellScript", "d1/dcc/a19354.html#a452937a4e95b40366f915213ec475a84", null ],
-    [ "Register", "d1/dcc/a19354.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
+    [ "npc_icc_gauntlet_controllerAI", "d1/d5c/a19358.html", "d1/d5c/a19358" ],
+    [ "npc_icc_gauntlet_controller", "d1/dcc/a19354.html#a5fc4c941842e25bc3da93686e588627b", null ],
+    [ "GetAI", "d1/dcc/a19354.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
 ];

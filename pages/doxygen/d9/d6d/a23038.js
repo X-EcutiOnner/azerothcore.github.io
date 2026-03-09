@@ -1,7 +1,6 @@
 var a23038 =
 [
-    [ "PrepareAuraScript", "d9/d6d/a23038.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
-    [ "ReflectDamage", "d9/d6d/a23038.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
-    [ "Register", "d9/d6d/a23038.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
-    [ "Validate", "d9/d6d/a23038.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
+    [ "HandleScriptEffect", "d9/d6d/a23038.html#a0810dd4ad4d324c1a53e192fc99d1d35", null ],
+    [ "PrepareSpellScript", "d9/d6d/a23038.html#a0ece61d7bed3e19ee6f6175a55c0733d", null ],
+    [ "Register", "d9/d6d/a23038.html#a827cefe322562f0e8ea7cfa58b9a776b", null ]
 ];

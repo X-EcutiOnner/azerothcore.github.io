@@ -1,5 +1,11 @@
 var a11178 =
 [
-    [ "AccountInfoQueryHolderPerRealm", "d4/d8b/a11178.html#a9d821669804cd04cf121e141d94ead36", null ],
-    [ "Initialize", "d4/d8b/a11178.html#a9d4e4de9a038697f61e6350f5f59713b", null ]
+    [ "LFGJoin", "d4/d8b/a11178.html#a50c79bdef7393907673a328bc36ff8ae", null ],
+    [ "Read", "d4/d8b/a11178.html#a5eca5c5a528cf00f1e6aad99ce5386ed", null ],
+    [ "Achievements", "d4/d8b/a11178.html#a587e98d4a1c8ff0cacd459298a4193c8", null ],
+    [ "Comment", "d4/d8b/a11178.html#a3e12e650a1fa573aafd7c03abd970aff", null ],
+    [ "Needs", "d4/d8b/a11178.html#a313c16e84e2cd0b55551d16273e95917", null ],
+    [ "NoPartialClear", "d4/d8b/a11178.html#aad54be871d0978034fb69a464fd5b9df", null ],
+    [ "Roles", "d4/d8b/a11178.html#a5eaccbeb4fc8b21f5398e216589cb99b", null ],
+    [ "Slots", "d4/d8b/a11178.html#aa14a07716504723283ad80c6357cf53f", null ]
 ];

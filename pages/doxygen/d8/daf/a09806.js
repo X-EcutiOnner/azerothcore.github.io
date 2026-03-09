@@ -1,13 +1,16 @@
 var a09806 =
 [
-    [ "ServerMail", "d8/daf/a09806.html#a50cf3e6929e397a3c1de83b9fcf83416", null ],
-    [ "active", "d8/daf/a09806.html#a24a12fcafd0b0f4a7c0558737d8fd71f", null ],
-    [ "body", "d8/daf/a09806.html#a58d352611dcb35126f6ec93622ddc4b9", null ],
-    [ "conditions", "d8/daf/a09806.html#a818b993f72f82a022277e1c8d9160011", null ],
-    [ "id", "d8/daf/a09806.html#a6b47994eff9201a6a75f8c621b64716c", null ],
-    [ "itemsA", "d8/daf/a09806.html#a0992466672427c1d24c686bd8fa39378", null ],
-    [ "itemsH", "d8/daf/a09806.html#ad120200ba47bf8ea8511a46d56f0daec", null ],
-    [ "moneyA", "d8/daf/a09806.html#a6a84ca583beef891422f67bef7919c47", null ],
-    [ "moneyH", "d8/daf/a09806.html#a0e899ce54283bc000cc6afb96e6a3244", null ],
-    [ "subject", "d8/daf/a09806.html#a246e499c69c57a436aac4c039ea37d31", null ]
+    [ "GuildBankRightsAndSlots", "d8/daf/a09806.html#ae00a8b8f227d7afdcf08847e3787ee0d", null ],
+    [ "GuildBankRightsAndSlots", "d8/daf/a09806.html#af5f0087090a7145a22baa1396822318b", null ],
+    [ "GuildBankRightsAndSlots", "d8/daf/a09806.html#a4bdf40d99704211b9e80b554ebade54f", null ],
+    [ "GetRights", "d8/daf/a09806.html#a19b76bebdb62434191189ba789c2810f", null ],
+    [ "GetSlots", "d8/daf/a09806.html#a51780060b5699bed6b78cc9ba4e95371", null ],
+    [ "GetTabId", "d8/daf/a09806.html#a6ba7c49480a1c5325d3702fb61d397cc", null ],
+    [ "SetGuildMasterValues", "d8/daf/a09806.html#a1399f191b3b0a44dc1e76fc49adc1412", null ],
+    [ "SetRights", "d8/daf/a09806.html#abf4e1f1556554e7f756dc566fbdd7f40", null ],
+    [ "SetSlots", "d8/daf/a09806.html#a8ed33a4e1d2a957d61c5f7556533f225", null ],
+    [ "SetTabId", "d8/daf/a09806.html#abe84f6bcdfd48d70b894470d025f3aae", null ],
+    [ "rights", "d8/daf/a09806.html#a2a8f5acf21828bfa15d0b3dd6874b5cb", null ],
+    [ "slots", "d8/daf/a09806.html#a5a327399d94704bc290199baa21ff8d7", null ],
+    [ "tabId", "d8/daf/a09806.html#ab09825a02a7a21a4915595230d2a5839", null ]
 ];

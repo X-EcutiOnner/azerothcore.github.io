@@ -1,8 +1,10 @@
 var a01316 =
 [
-    [ "MailScript", "d7/d9f/a10568.html", "d7/d9f/a10568" ],
-    [ "MailHook", "d4/d49/a01316.html#a7a2fb0cc0937712e8aff65574e1068d6", [
-      [ "MAILHOOK_ON_BEFORE_MAIL_DRAFT_SEND_MAIL_TO", "d4/d49/a01316.html#a7a2fb0cc0937712e8aff65574e1068d6a8f3555a10968fd2749e256067782760f", null ],
-      [ "MAILHOOK_END", "d4/d49/a01316.html#a7a2fb0cc0937712e8aff65574e1068d6a97af521f76b0d427812db0ac3303f285", null ]
-    ] ]
+    [ "EnchStoreItem", "d4/d46/a08598.html", "d4/d46/a08598" ],
+    [ "EnchantmentStore", "d4/d49/a01316.html#ab462bc366dd954f1c0b539c408b74c01", null ],
+    [ "EnchStoreList", "d4/d49/a01316.html#ab5e9dd6a265a402e7a9499fdaae1e850", null ],
+    [ "GenerateEnchSuffixFactor", "d4/d49/a01316.html#a25026e783b088b45eebd4db8295b1b87", null ],
+    [ "GetItemEnchantMod", "d4/d49/a01316.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
+    [ "LoadRandomEnchantmentsTable", "d4/d49/a01316.html#a376fabf7bba54eaf928217f860f1c33b", null ],
+    [ "RandomItemEnch", "d4/d49/a01316.html#a6aeb6f30f019ca8d9839fcf41beb1ac7", null ]
 ];

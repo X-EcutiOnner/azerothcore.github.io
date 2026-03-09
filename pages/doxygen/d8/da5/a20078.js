@@ -1,6 +1,6 @@
 var a20078 =
 [
-    [ "npc_thorims_hammerAI", "df/db3/a20082.html", "df/db3/a20082" ],
-    [ "npc_thorims_hammer", "d8/da5/a20078.html#a97cbcda73931e6119f8ab30fa4bb0806", null ],
-    [ "GetAI", "d8/da5/a20078.html#aaee92d115d112ebf590cf690de8c6667", null ]
+    [ "HandleScript", "d8/da5/a20078.html#a992dbad02eab01824d870bdd3fca93d0", null ],
+    [ "PrepareSpellScript", "d8/da5/a20078.html#a0e6b4d1f59896a255929556baa943bdb", null ],
+    [ "Register", "d8/da5/a20078.html#a6bd2b3f20ee88fbba18ea6da6e8a23ab", null ]
 ];

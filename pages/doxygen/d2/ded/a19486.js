@@ -1,8 +1,7 @@
 var a19486 =
 [
-    [ "FilterTargets", "d2/ded/a19486.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
-    [ "Load", "d2/ded/a19486.html#a639105c26214d9887b84a482ca93eb26", null ],
-    [ "PrepareSpellScript", "d2/ded/a19486.html#a354ae20be436528b16095d4cd8d37859", null ],
-    [ "Register", "d2/ded/a19486.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
-    [ "DrakeGUID", "d2/ded/a19486.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
+    [ "OnApply", "d2/ded/a19486.html#a72a01dea703436b2a220a9976da60fa6", null ],
+    [ "PrepareAuraScript", "d2/ded/a19486.html#adb17425258d4fb2c0c464236e15f32d7", null ],
+    [ "Register", "d2/ded/a19486.html#af026c126029c68ed8b7c6c1886720e4c", null ],
+    [ "Validate", "d2/ded/a19486.html#a5674396828adf4e80102ed2277f1e08a", null ]
 ];

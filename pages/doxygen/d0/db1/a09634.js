@@ -1,19 +1,9 @@
 var a09634 =
 [
-    [ "GuildContainer", "d0/db1/a09634.html#aa9afb05ecb2eb6ee427503a4ea76f7ca", null ],
-    [ "GuildMgr", "d0/db1/a09634.html#a0d4a44461eb4c54ddb6646dfd1c11a68", null ],
-    [ "~GuildMgr", "d0/db1/a09634.html#ae90afb785961e122afc419a61dfb20c1", null ],
-    [ "AddGuild", "d0/db1/a09634.html#a5b63dae4f2252c452c797b83477d2280", null ],
-    [ "GenerateGuildId", "d0/db1/a09634.html#a8ad7c4fc3e292e6cecd4964ad22cd135", null ],
-    [ "GetGuildById", "d0/db1/a09634.html#a04f4586ea6461c6f7165efba2bf666a1", null ],
-    [ "GetGuildByLeader", "d0/db1/a09634.html#a5198534a243b70104ce17a7871fcfb27", null ],
-    [ "GetGuildByName", "d0/db1/a09634.html#af9ff736e84a18d8dfce3826c9459df37", null ],
-    [ "GetGuildNameById", "d0/db1/a09634.html#ad32af675831da389755da5f3e4e47361", null ],
-    [ "instance", "d0/db1/a09634.html#aef69fd59528ec594c76ae390a4ba05bd", null ],
-    [ "LoadGuilds", "d0/db1/a09634.html#ac1eb56686e276e11838e9150696b5045", null ],
-    [ "RemoveGuild", "d0/db1/a09634.html#a51728f1c2780cdb105cb35947739cbd7", null ],
-    [ "ResetTimes", "d0/db1/a09634.html#ad2670ee42ff5252a879ccc5cbb730833", null ],
-    [ "SetNextGuildId", "d0/db1/a09634.html#ae1ae88575b7fcb37d4ee1d76f79c0c45", null ],
-    [ "GuildStore", "d0/db1/a09634.html#a174158d11bf6102462a094ff4a8fa402", null ],
-    [ "NextGuildId", "d0/db1/a09634.html#a75e150f66ebccfc05824a4f7b66a9210", null ]
+    [ "AnyFriendlyNotSelfUnitInObjectRangeCheck", "d0/db1/a09634.html#a213e07e67eefd1454be655e154380202", null ],
+    [ "operator()", "d0/db1/a09634.html#a8b3547500300e3b9d8de88c0b12b268e", null ],
+    [ "i_funit", "d0/db1/a09634.html#a43b531ac740cb263d347ece24ff675fc", null ],
+    [ "i_obj", "d0/db1/a09634.html#a5fe4b376f00d33554a9a263abc743e68", null ],
+    [ "i_playerOnly", "d0/db1/a09634.html#a16cd07545542916e0f49250c77fad304", null ],
+    [ "i_range", "d0/db1/a09634.html#ac087254cf99c5f845918998f369c176a", null ]
 ];

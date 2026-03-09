@@ -1,7 +1,10 @@
 var a17210 =
 [
-    [ "HandlePeriodicTick", "d5/d92/a17210.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
-    [ "PrepareAuraScript", "d5/d92/a17210.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
-    [ "Register", "d5/d92/a17210.html#a4653ccb0d93d056adf3b14056865787c", null ],
-    [ "Validate", "d5/d92/a17210.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
+    [ "boss_tharon_jaAI", "d5/d92/a17210.html#a03025fa529e932f23479ff19b0cd8238", null ],
+    [ "DoAction", "d5/d92/a17210.html#a655fd83c2d671847fea9ae393c132fb9", null ],
+    [ "JustDied", "d5/d92/a17210.html#a7928b5db061f1073e1decc2d40601195", null ],
+    [ "JustEngagedWith", "d5/d92/a17210.html#aab194a8f802eeb625d1a74960acbe154", null ],
+    [ "KilledUnit", "d5/d92/a17210.html#a41e929a3768768eb06bafdee3269fd24", null ],
+    [ "Reset", "d5/d92/a17210.html#a272e8565a9b00a27505b301d52814eee", null ],
+    [ "UpdateAI", "d5/d92/a17210.html#a6f482cabcb0bd56711878a5ea297b950", null ]
 ];

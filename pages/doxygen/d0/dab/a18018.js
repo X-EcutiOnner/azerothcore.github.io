@@ -1,6 +1,5 @@
 var a18018 =
 [
-    [ "AbominationDespawner", "d0/dab/a18018.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
-    [ "operator()", "d0/dab/a18018.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
-    [ "_owner", "d0/dab/a18018.html#af9089e566905b885887a5714ad5b0741", null ]
+    [ "achievement_flu_shot_shortage", "d0/dab/a18018.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
+    [ "OnCheck", "d0/dab/a18018.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
 ];

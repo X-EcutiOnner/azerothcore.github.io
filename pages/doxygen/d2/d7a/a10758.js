@@ -1,7 +1,6 @@
 var a10758 =
 [
-    [ "GuildBankDepositMoney", "d2/d7a/a10758.html#a967628850b85038d917be69dc71e6a0e", null ],
-    [ "Read", "d2/d7a/a10758.html#aa1d4274b057cc4ecec6b078ac4925a94", null ],
-    [ "Banker", "d2/d7a/a10758.html#afdeb7ea381853078d515d8a0f157533b", null ],
-    [ "Money", "d2/d7a/a10758.html#a41258345b9f83dcf8e374145f517251e", null ]
+    [ "BuyBankSlotResult", "d2/d7a/a10758.html#a93b60814becc451c38f06f9702a9e027", null ],
+    [ "Write", "d2/d7a/a10758.html#a55a6609863b0d3ef966f222526268acb", null ],
+    [ "Result", "d2/d7a/a10758.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
 ];

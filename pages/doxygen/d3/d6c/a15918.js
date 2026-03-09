@@ -1,12 +1,10 @@
 var a15918 =
 [
-    [ "DialogueHelper", "d3/d6c/a15918.html#a3566655e8781bf5f9dff514fcd659421", null ],
-    [ "DialogueUpdate", "d3/d6c/a15918.html#aaac3463d91a0cdbe2622b4fd85b34ed0", null ],
-    [ "DoNextDialogueStep", "d3/d6c/a15918.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af", null ],
-    [ "GetSpeakerByEntry", "d3/d6c/a15918.html#a50e652ca2cff035d8c79517fdbcfc67a", null ],
-    [ "JustDidDialogueStep", "d3/d6c/a15918.html#a79e80634f1780895669f5c810958fd4f", null ],
-    [ "StartNextDialogueText", "d3/d6c/a15918.html#ac16b8b9b50e8b35980d21f161bf33340", null ],
-    [ "_actionTimer", "d3/d6c/a15918.html#a33b8551c136bcbc896b29d935c155a75", null ],
-    [ "_currentEntry", "d3/d6c/a15918.html#a89ca5e8d25372bd8ab32322a0a9999f2", null ],
-    [ "_dialogueArray", "d3/d6c/a15918.html#a489b8cd1c75ced0ec8e34b8051899dd7", null ]
+    [ "npc_rabid_thistle_bearAI", "d3/d6c/a15918.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
+    [ "Initialize", "d3/d6c/a15918.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
+    [ "Reset", "d3/d6c/a15918.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
+    [ "SpellHit", "d3/d6c/a15918.html#a62bde5a122748564cc806046bf9dcbaa", null ],
+    [ "UpdateAI", "d3/d6c/a15918.html#a8f6c5b873756a58760b2861bc8b86804", null ],
+    [ "_events", "d3/d6c/a15918.html#ad3852bf4588c453642e75fcdc544767b", null ],
+    [ "_playerGUID", "d3/d6c/a15918.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
 ];

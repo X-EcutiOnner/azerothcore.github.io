@@ -1,7 +1,9 @@
 var a26614 =
 [
-    [ "HandleDummy", "dc/d25/a26614.html#abc630a0c8274f5f85901b2505ff2ae04", null ],
-    [ "PrepareSpellScript", "dc/d25/a26614.html#af79cd7c2f6ed47a93dbbe17aaca6834f", null ],
-    [ "Register", "dc/d25/a26614.html#a3f1808538acca2742c19f68af9a6fd56", null ],
-    [ "Validate", "dc/d25/a26614.html#a475e1d5d8c70e0edd5957a1e493fd43e", null ]
+    [ "AllowT10Proc", "dc/d25/a26614.html#a0d058542d9175f0ad2a3110f05e4f7c4", null ],
+    [ "OnRemove", "dc/d25/a26614.html#a52807f94eba44a9b574577a0b27acb22", null ],
+    [ "PrepareAuraScript", "dc/d25/a26614.html#a430303b7df445d38da9316324359c2d6", null ],
+    [ "Register", "dc/d25/a26614.html#aa2f2d9175c4429f5743ad6cc54b1634a", null ],
+    [ "Validate", "dc/d25/a26614.html#aabfc9dd5bd171c0b4d2166c8d671e6cf", null ],
+    [ "_canProcT10", "dc/d25/a26614.html#a26d723ef58e5df2852ce0ef20e1c1bdf", null ]
 ];

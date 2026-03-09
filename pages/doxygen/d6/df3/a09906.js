@@ -1,9 +1,8 @@
 var a09906 =
 [
-    [ "MapUpdateRequest", "d6/df3/a09906.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
-    [ "call", "d6/df3/a09906.html#a2cb96db357347d47596725e5c345b02f", null ],
-    [ "m_diff", "d6/df3/a09906.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
-    [ "m_map", "d6/df3/a09906.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
-    [ "m_updater", "d6/df3/a09906.html#aeb063738175aa8ddc751290f922ffef2", null ],
-    [ "s_diff", "d6/df3/a09906.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
+    [ "InstResetEvent", "d6/df3/a09906.html#aefa8f2b1b2cf29ad3472712278741fa4", null ],
+    [ "InstResetEvent", "d6/df3/a09906.html#af6f80b924e52cd5296d21f4a5d1374c2", null ],
+    [ "difficulty", "d6/df3/a09906.html#a67afe513dd42370ac4bb385a7128a324", null ],
+    [ "mapid", "d6/df3/a09906.html#ad02e00b2782304fbd75973fe58eefd33", null ],
+    [ "type", "d6/df3/a09906.html#ad211513c7ed39269d464190398dabaed", null ]
 ];

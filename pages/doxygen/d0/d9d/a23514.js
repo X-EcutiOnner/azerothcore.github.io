@@ -1,7 +1,8 @@
 var a23514 =
 [
-    [ "HandleScriptEffect", "d0/d9d/a23514.html#ad5e905710a20436f120c979c865571c9", null ],
-    [ "PrepareSpellScript", "d0/d9d/a23514.html#ab44aa98f47162b50f30622d67ac75395", null ],
-    [ "Register", "d0/d9d/a23514.html#ad4c2bf1a8556b6fb85c05d3c83494fed", null ],
-    [ "Validate", "d0/d9d/a23514.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2", null ]
+    [ "boss_broggok", "d0/d9d/a23514.html#ae20c04793116d3e8eab62d2ee27010df", null ],
+    [ "DoAction", "d0/d9d/a23514.html#af5de5a1747c502f72af015c09d050354", null ],
+    [ "JustEngagedWith", "d0/d9d/a23514.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
+    [ "JustSummoned", "d0/d9d/a23514.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
+    [ "Reset", "d0/d9d/a23514.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
 ];

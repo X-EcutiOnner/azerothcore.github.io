@@ -1,7 +1,10 @@
 var a17426 =
 [
-    [ "HandlePeriodic", "de/d00/a17426.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
-    [ "PrepareAuraScript", "de/d00/a17426.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
-    [ "Register", "de/d00/a17426.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
-    [ "Validate", "de/d00/a17426.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
+    [ "npc_hor_spiritual_reflectionAI", "de/d00/a17426.html#aac0a916bfa325284b354e7241fe857ab", null ],
+    [ "EnterEvadeMode", "de/d00/a17426.html#a49f1c93206bfff53090c138a3dbf79e5", null ],
+    [ "JustDied", "de/d00/a17426.html#a72073c44f881d4a78552de4119a716d7", null ],
+    [ "JustEngagedWith", "de/d00/a17426.html#ac35e648b93bb39ca831390bf88f6a3e7", null ],
+    [ "Reset", "de/d00/a17426.html#ad1f523fad45c34077e6d6ce7b9a4aefd", null ],
+    [ "UpdateAI", "de/d00/a17426.html#af9613e9309b85317bc6e3a84013dcf89", null ],
+    [ "events", "de/d00/a17426.html#a89a466917aa5634c4c86ecbce21280b7", null ]
 ];

@@ -1,9 +1,11 @@
 var a19010 =
 [
-    [ "npc_icc_severed_essenceAI", "d8/d44/a19010.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
-    [ "CanAIAttack", "d8/d44/a19010.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
-    [ "DoAction", "d8/d44/a19010.html#a938af3a7de5b26432e1ad515a326a032", null ],
-    [ "UpdateAI", "d8/d44/a19010.html#a66e3324baa87ba109dd968a517ee82a5", null ],
-    [ "Class", "d8/d44/a19010.html#aa627713be3a2ac01336d158d96aaccc7", null ],
-    [ "events", "d8/d44/a19010.html#a1bab216925c4123d633d9613bb80365c", null ]
+    [ "npc_valithria_cloudAI", "d8/d44/a19010.html#a5b550d0154f302cecc509fbd868a53bb", null ],
+    [ "AttackStart", "d8/d44/a19010.html#a5835d5ba19e1480016e585c1e49489c9", null ],
+    [ "EnterEvadeMode", "d8/d44/a19010.html#a346fd998d41451d7d1e605afdb13b65c", null ],
+    [ "MoveInLineOfSight", "d8/d44/a19010.html#a8d4c8d082f12b96b2b77447d0b942c2c", null ],
+    [ "Reset", "d8/d44/a19010.html#abca34d7285ef23c062006df8f8ae6d53", null ],
+    [ "UpdateAI", "d8/d44/a19010.html#a6908f5731915bf7d15bb4921c960aa30", null ],
+    [ "_events", "d8/d44/a19010.html#afc5c9299d7f1f73c087a19dcfb19e096", null ],
+    [ "_instance", "d8/d44/a19010.html#a20cc2bba9d1005cc93b55dfba8bfbcf3", null ]
 ];

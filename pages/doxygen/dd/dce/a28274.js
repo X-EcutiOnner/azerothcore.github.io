@@ -1,5 +1,5 @@
 var a28274 =
 [
-    [ "ID", "dd/dce/a28274.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
-    [ "price", "dd/dce/a28274.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
+    [ "go_tele_to_violet_stand", "dd/dce/a28274.html#a63350db1dfd400c565e30775378d48cc", null ],
+    [ "OnGossipHello", "dd/dce/a28274.html#a4d075584f065501a2c3be9ef82387f43", null ]
 ];

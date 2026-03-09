@@ -1,7 +1,7 @@
 var a19186 =
 [
-    [ "HandleScriptEffect", "d5/d37/a19186.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
-    [ "PrepareSpellScript", "d5/d37/a19186.html#a21a3175346c9b12c02205f2d33da3b86", null ],
-    [ "Register", "d5/d37/a19186.html#af5f279ad20e9153f201262eaa7615978", null ],
-    [ "Validate", "d5/d37/a19186.html#a635ff34619767f657778016e1eb901aa", null ]
+    [ "npc_impaling_spearAI", "d5/d37/a19186.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
+    [ "Reset", "d5/d37/a19186.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
+    [ "UpdateAI", "d5/d37/a19186.html#acb187a58b0ba256b4e003655ac36db34", null ],
+    [ "_vehicleCheckTimer", "d5/d37/a19186.html#a264874b9f6f0609792d4b3a325e54f59", null ]
 ];

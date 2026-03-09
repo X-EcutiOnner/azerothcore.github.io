@@ -1,14 +1,13 @@
 var a16218 =
 [
-    [ "boss_baltharus_the_warbornAI", "d8/d79/a16218.html#adaf6cb6ab81a461b202d40900b4b744c", null ],
-    [ "DoAction", "d8/d79/a16218.html#ab22f46e2514c10ce0e8141b3f69f069d", null ],
-    [ "InitializeAI", "d8/d79/a16218.html#ac188db2a727e2fb3c411f8616f8a2f41", null ],
-    [ "JustDied", "d8/d79/a16218.html#aaeb3e9b1bd25464cec4a1b0adf88afbe", null ],
-    [ "JustEngagedWith", "d8/d79/a16218.html#a4b670f4d89f9ed9ffeebf9d9426d79dc", null ],
-    [ "JustReachedHome", "d8/d79/a16218.html#ab178ccb3ee8bfa2649f03bfc18f1e424", null ],
-    [ "JustSummoned", "d8/d79/a16218.html#a7947c96290ea2cbe1b7ed6b6a8db65fe", null ],
-    [ "KilledUnit", "d8/d79/a16218.html#adb1a9e2af865292215c02cc1fb959cd3", null ],
-    [ "Reset", "d8/d79/a16218.html#a68e503ddac7be2f4e08d68e64aa2e725", null ],
-    [ "UpdateAI", "d8/d79/a16218.html#abe2e7188e33e70d52ab1985f821fa9c5", null ],
-    [ "_introDone", "d8/d79/a16218.html#a463209610cbc8e34d9839abeaf6df0e6", null ]
+    [ "npc_cairne_bloodhoofAI", "d8/d79/a16218.html#ac87f0d10b1886ffa24ae201fdb614441", null ],
+    [ "JustDied", "d8/d79/a16218.html#a88bab853ee3f7445c1d5f0d4d1f3485b", null ],
+    [ "Reset", "d8/d79/a16218.html#ab58f32a6bd1659b1a54fb056526c121a", null ],
+    [ "sGossipSelect", "d8/d79/a16218.html#aa95b820eb4d3c6c5f1898a67c319b1a6", null ],
+    [ "UpdateAI", "d8/d79/a16218.html#aefcbb7b2da6d1039055c27feeb1f5f9e", null ],
+    [ "_berserkerChargeTimer", "d8/d79/a16218.html#a2efb1949abe83dadf62b5c868ae57fe2", null ],
+    [ "_cleaveTimer", "d8/d79/a16218.html#ab1ed741e998cd7ed088cab3af378b3ca", null ],
+    [ "_mortalStrikeTimer", "d8/d79/a16218.html#a9f33790662ce229669e5d1d6f2aac8b0", null ],
+    [ "_thunderclapTimer", "d8/d79/a16218.html#a6bdca667875353db2badc40fd95a1ce4", null ],
+    [ "_uppercutTimer", "d8/d79/a16218.html#a9f13acd7df900d9bdac64898b183c67d", null ]
 ];

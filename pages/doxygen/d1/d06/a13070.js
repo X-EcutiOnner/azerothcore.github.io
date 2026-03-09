@@ -1,6 +1,6 @@
 var a13070 =
 [
-    [ "boss_garaxxas", "d1/d06/a13070.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
-    [ "JustEngagedWith", "d1/d06/a13070.html#aebfd7b63d714468ed69e920fb89c345d", null ],
-    [ "Reset", "d1/d06/a13070.html#a56e6489ce49971cb066444888355626e", null ]
+    [ "instance_gnomeregan_InstanceMapScript", "d9/d40/a13074.html", "d9/d40/a13074" ],
+    [ "instance_gnomeregan", "d1/d06/a13070.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
+    [ "GetInstanceScript", "d1/d06/a13070.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
 ];

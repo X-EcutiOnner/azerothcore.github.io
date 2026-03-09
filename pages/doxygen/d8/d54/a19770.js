@@ -1,6 +1,7 @@
 var a19770 =
 [
-    [ "boss_sjonnir_iron_sludgeAI", "de/da3/a19774.html", "de/da3/a19774" ],
-    [ "boss_sjonnir_iron_sludge", "d8/d54/a19770.html#ae1c523266aab3e8e2c337dede7390c7b", null ],
-    [ "GetAI", "d8/d54/a19770.html#a2d077bfeac6479d83240ee00ca5aa0e0", null ]
+    [ "Load", "d8/d54/a19770.html#a76c4a5c9b3bbed286a9d724c521944fd", null ],
+    [ "PrepareSpellScript", "d8/d54/a19770.html#a10fd04468a4de402f2d2d1d4b003a5c9", null ],
+    [ "Register", "d8/d54/a19770.html#a86259dfc100541aec0f9c7e744bbf24d", null ],
+    [ "SetDest", "d8/d54/a19770.html#a231a75702f4a98f51d1be45510c5d05f", null ]
 ];

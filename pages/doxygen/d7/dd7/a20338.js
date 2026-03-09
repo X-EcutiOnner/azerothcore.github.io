@@ -1,6 +1,6 @@
 var a20338 =
 [
-    [ "id", "d7/dd7/a20338.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
-    [ "x", "d7/dd7/a20338.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
-    [ "y", "d7/dd7/a20338.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
+    [ "achievement_flame_leviathan_towers", "d7/dd7/a20338.html#a491d66bdd373b6044e406126719ef910", null ],
+    [ "OnCheck", "d7/dd7/a20338.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
+    [ "_towerCount", "d7/dd7/a20338.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
 ];

@@ -1,7 +1,6 @@
 var a21442 =
 [
-    [ "PrepareAuraScript", "d4/dfe/a21442.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
-    [ "Register", "d4/dfe/a21442.html#a7225d1f83921e4de06516c1db5a5038a", null ],
-    [ "TriggerFists", "d4/dfe/a21442.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
-    [ "Validate", "d4/dfe/a21442.html#a977897c569245148eb94892bb42d4ca5", null ]
+    [ "npc_azure_invaderAI", "d5/de1/a21446.html", "d5/de1/a21446" ],
+    [ "npc_azure_invader", "d4/dfe/a21442.html#ab318178a618f2bfdcd5ea3105c240d32", null ],
+    [ "GetAI", "d4/dfe/a21442.html#a19c000084ea74a401ece81ee0e20b65c", null ]
 ];

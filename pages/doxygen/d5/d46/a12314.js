@@ -1,11 +1,12 @@
 var a12314 =
 [
-    [ "boss_solakar_flamewreathAI", "d5/d46/a12314.html#ada12a91bedec9be8923f9dc74fce07d0", null ],
-    [ "ExecuteEvent", "d5/d46/a12314.html#aa1fca22d30b15ee93cc02084ebab0c2c", null ],
-    [ "InitializeAI", "d5/d46/a12314.html#a7a8a5d3c453e29ec746422e1ba8e4d34", null ],
-    [ "JustDied", "d5/d46/a12314.html#aceb580afa2329ada3236dc759f3a3c20", null ],
-    [ "JustEngagedWith", "d5/d46/a12314.html#a47f8a133b6f8c0de11a66b712bb8e266", null ],
-    [ "Reset", "d5/d46/a12314.html#a25ae2943a7ce9a1f459cfd1313c84c49", null ],
-    [ "UpdateAI", "d5/d46/a12314.html#ac5f908584251455c720ce3f25ed07dae", null ],
-    [ "resetTimer", "d5/d46/a12314.html#acd7fdd30767a7863f265eb96e29c221e", null ]
+    [ "npc_av_marshal_or_warmasterAI", "d5/d46/a12314.html#af3620678992778edbb859622e057893a", null ],
+    [ "AttackStart", "d5/d46/a12314.html#aed39eaed8648ce78349c49ee33918b93", null ],
+    [ "EnterEvadeMode", "d5/d46/a12314.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
+    [ "JustRespawned", "d5/d46/a12314.html#a460c6912063587214ba0f2e01878d827", null ],
+    [ "Reset", "d5/d46/a12314.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
+    [ "UpdateAI", "d5/d46/a12314.html#a7bf1631810c8446bc157f8ff220199b7", null ],
+    [ "_attacked", "d5/d46/a12314.html#a56d7211a3565c19b499f7de2eda6c862", null ],
+    [ "_hasAura", "d5/d46/a12314.html#a1c0049100cde1c62daf80779d1135156", null ],
+    [ "events", "d5/d46/a12314.html#a49b8e01897cd5347bbd06cac254163f4", null ]
 ];

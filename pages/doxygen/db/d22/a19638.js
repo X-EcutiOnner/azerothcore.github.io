@@ -1,7 +1,10 @@
 var a19638 =
 [
-    [ "HandleProc", "db/d22/a19638.html#adb7714eca4c317ab76db0ecbc813669e", null ],
-    [ "PrepareAuraScript", "db/d22/a19638.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
-    [ "Register", "db/d22/a19638.html#a445ce7331c36e507aa24466ff9a67781", null ],
-    [ "Validate", "db/d22/a19638.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
+    [ "boss_patchwerkAI", "db/d22/a19638.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "db/d22/a19638.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "db/d22/a19638.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "db/d22/a19638.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "db/d22/a19638.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "db/d22/a19638.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "db/d22/a19638.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

@@ -1,6 +1,6 @@
 var a23386 =
 [
-    [ "FilterTargets", "d8/da5/a23386.html#ac20676c292d87276e444bad56d71960d", null ],
-    [ "PrepareSpellScript", "d8/da5/a23386.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
-    [ "Register", "d8/da5/a23386.html#ae356b768872de3e87806c19bf8cccb08", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d8/da5/a23386.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
+    [ "OnGameObjectCreate", "d8/da5/a23386.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
+    [ "SetBossState", "d8/da5/a23386.html#ab1e344fbf169ee40f28741217f3dca14", null ]
 ];

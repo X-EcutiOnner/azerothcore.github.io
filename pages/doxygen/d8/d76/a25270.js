@@ -1,10 +1,8 @@
 var a25270 =
 [
-    [ "Load", "d8/d76/a25270.html#a6ae104e97dc9c0aa50e115fe1f17e161", null ],
-    [ "OnPeriodic", "d8/d76/a25270.html#ab1dc8acb8072f70625375480742fee5e", null ],
-    [ "PrepareAuraScript", "d8/d76/a25270.html#a2e81d03893b23aa8dc9c615683206f75", null ],
-    [ "Register", "d8/d76/a25270.html#ac2f2c8359487ad8c619e9faf8535b927", null ],
-    [ "Validate", "d8/d76/a25270.html#a0c88acf48d0ea7dd7ac3ac85aa3a126d", null ],
-    [ "_applyTimes", "d8/d76/a25270.html#a1bf9f3a1eb52bb64df59b381c412552f", null ],
-    [ "stackAmount", "d8/d76/a25270.html#ac8d762bdb40366c93602497e9aaa42eb", null ]
+    [ "OnApply", "d8/d76/a25270.html#a9ea247d39fa51d9722c17e6ea83a0e55", null ],
+    [ "OnRemove", "d8/d76/a25270.html#abd45d59ecd41274bd02c17fb066a521e", null ],
+    [ "PrepareAuraScript", "d8/d76/a25270.html#af30811301599459bf2a99a68608a053f", null ],
+    [ "Register", "d8/d76/a25270.html#a0eb56dc80c02932a0d7cf4cca7079c75", null ],
+    [ "Validate", "d8/d76/a25270.html#a29c5049e4455737ff96596a18af118d0", null ]
 ];

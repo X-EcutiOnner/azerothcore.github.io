@@ -1,11 +1,7 @@
 var a22862 =
 [
-    [ "boss_blackheart_the_inciter", "d5/d9b/a22862.html#a772b2b4574fa6ccd445924193985859b", null ],
-    [ "EnterEvadeMode", "d5/d9b/a22862.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
-    [ "JustDied", "d5/d9b/a22862.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
-    [ "JustEngagedWith", "d5/d9b/a22862.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
-    [ "KilledUnit", "d5/d9b/a22862.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
-    [ "Reset", "d5/d9b/a22862.html#add75633d1c04d0be91e7e80f28213917", null ],
-    [ "UpdateAI", "d5/d9b/a22862.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
-    [ "InciteChaos", "d5/d9b/a22862.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
+    [ "PrepareAuraScript", "d5/d9b/a22862.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
+    [ "Register", "d5/d9b/a22862.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
+    [ "Update", "d5/d9b/a22862.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
+    [ "Validate", "d5/d9b/a22862.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
 ];

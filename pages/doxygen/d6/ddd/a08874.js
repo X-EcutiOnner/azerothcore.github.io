@@ -1,6 +1,9 @@
 var a08874 =
 [
-    [ "Condition", "d6/ddd/a08874.html#a78172859719e85a21c0a39e41c692cf4", null ],
-    [ "EventId", "d6/ddd/a08874.html#aa5d7e88828c9f44b5913d4593496894f", null ],
-    [ "Num", "d6/ddd/a08874.html#a7cf6141e00b1a33063409c9828773b94", null ]
+    [ "EntryPointData", "d6/ddd/a08874.html#a1852523ba9ca889cdd6731c63de759e2", null ],
+    [ "ClearTaxiPath", "d6/ddd/a08874.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
+    [ "HasTaxiPath", "d6/ddd/a08874.html#afd310b2f367ec7df76f01689ea120e6e", null ],
+    [ "joinPos", "d6/ddd/a08874.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
+    [ "mountSpell", "d6/ddd/a08874.html#a06e1cadac24a2ab90e57373692f829dc", null ],
+    [ "taxiPath", "d6/ddd/a08874.html#a5af670fa420b250c22e0f3237e753a6f", null ]
 ];

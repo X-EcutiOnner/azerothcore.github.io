@@ -1,12 +1,24 @@
 var a13034 =
 [
-    [ "boss_felblood_kaelthas", "d3/d7b/a13034.html#a85abfb330ccc1fed5b9dc851d780f386", null ],
-    [ "DamageTaken", "d3/d7b/a13034.html#ae29fb38a2f7dcf778b4443bc56f10e84", null ],
-    [ "DoAction", "d3/d7b/a13034.html#a984dcde8d78adbce00e307eb3c4d32b8", null ],
-    [ "GravityLapseSequence", "d3/d7b/a13034.html#aae902304d9e7ef27bdb9bde8cdf85605", null ],
-    [ "JustDied", "d3/d7b/a13034.html#affea155d0eb2b4dda1b9dc8847fc2444", null ],
-    [ "JustEngagedWith", "d3/d7b/a13034.html#a1d8806d7813d11aa61e043e420852218", null ],
-    [ "LapseAction", "d3/d7b/a13034.html#ae1ac5b5da2a548f5b1dc1bdffb303b25", null ],
-    [ "Reset", "d3/d7b/a13034.html#abde9a26abd8eef0b8cd25cbd6522d899", null ],
-    [ "_gravityLapseCounter", "d3/d7b/a13034.html#ab4e884a341fa25a555c160f6978861fc", null ]
+    [ "instance_molten_core_InstanceMapScript", "d3/d7b/a13034.html#aac834ca3723fbe4cdba2d2813feb0451", null ],
+    [ "CheckMajordomoExecutus", "d3/d7b/a13034.html#ae1a8863f382d142b1d8722065f20949e", null ],
+    [ "DoAction", "d3/d7b/a13034.html#a0849a6d1a98b6c49cca7341f6341179c", null ],
+    [ "GetGuidData", "d3/d7b/a13034.html#a644bfe3309b765ba8df750acdb81d496", null ],
+    [ "OnCreatureCreate", "d3/d7b/a13034.html#ace732c2df084275ae3af76b612c1a098", null ],
+    [ "OnCreatureRemove", "d3/d7b/a13034.html#af45a1eb74e5e59f98808d2a54ea00b0f", null ],
+    [ "OnGameObjectCreate", "d3/d7b/a13034.html#aee70a5df7498eba0bba840870c0b5cf3", null ],
+    [ "OnPlayerEnter", "d3/d7b/a13034.html#aaadc39f4b4032cc59105525ce6a7b6a8", null ],
+    [ "SetBossState", "d3/d7b/a13034.html#a38a20534aeb08f52fbf6e57f49763bdd", null ],
+    [ "SummonMajordomoExecutus", "d3/d7b/a13034.html#abee5c9c60893401fb5df17dbe2ccead9", null ],
+    [ "_cacheOfTheFirelordGUID", "d3/d7b/a13034.html#a080decfc444d3d89f0334a76bfb5e757", null ],
+    [ "_circlesGUIDs", "d3/d7b/a13034.html#ac87977d4b94ceccad965c00cab772cbe", null ],
+    [ "_garrGUID", "d3/d7b/a13034.html#a44a6c18c9e1d279cfb16a087d1313845", null ],
+    [ "_golemaggGUID", "d3/d7b/a13034.html#a42ba68922c644e8a3c752bdaefbadb57", null ],
+    [ "_golemaggMinionsGUIDS", "d3/d7b/a13034.html#afe5ea95bd9fc8fa7e1d3d737bad8923c", null ],
+    [ "_lavaSplashGUID", "d3/d7b/a13034.html#a7bdd42ce9cf698f6d78fde784ac0b32f", null ],
+    [ "_lavaSteamGUID", "d3/d7b/a13034.html#aaa5552c50b504a3a3e2d5534840a52cf", null ],
+    [ "_magmadarGUID", "d3/d7b/a13034.html#a2a46b6d841d988dce9c5e54b19a1967a", null ],
+    [ "_majordomoExecutusGUID", "d3/d7b/a13034.html#a88215e741eec8be55882290de22f5c69", null ],
+    [ "_ragnarosGUID", "d3/d7b/a13034.html#a8d512fa12205db57c322b0734b344717", null ],
+    [ "_runesGUIDs", "d3/d7b/a13034.html#ae259af00a4f2a349795d08d969f93fe2", null ]
 ];

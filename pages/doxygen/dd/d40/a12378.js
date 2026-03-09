@@ -1,6 +1,9 @@
 var a12378 =
 [
-    [ "near_scarshield_infiltrator", "dd/d40/a12378.html#a38d2e75946c429b4d80b007f190406bc", null ],
-    [ "OnTrigger", "dd/d40/a12378.html#aeb761433e3210ce85c1de4dab653a87c", null ],
-    [ "whisperedTargets", "dd/d40/a12378.html#a5655e241d2551798a960cb6375c7df23", null ]
+    [ "npc_phalanxAI", "dd/d40/a12378.html#a1a09cd0b0cf765dec20ca9c3c5bb9373", null ],
+    [ "Reset", "dd/d40/a12378.html#a41a14315d82b169528bd764335c16d52", null ],
+    [ "UpdateAI", "dd/d40/a12378.html#a78092bfb2d9b8455b5348d872afc6521", null ],
+    [ "FireballVolley_Timer", "dd/d40/a12378.html#a0e7bedf19d7a69707fcfec9cbd3649e5", null ],
+    [ "MightyBlow_Timer", "dd/d40/a12378.html#ae8fe8a7313f573e910763d5a82303e66", null ],
+    [ "ThunderClap_Timer", "dd/d40/a12378.html#ab68781dcd728e2a0d021a0d52e43fd71", null ]
 ];

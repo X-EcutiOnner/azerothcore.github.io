@@ -1,8 +1,13 @@
 var a09246 =
 [
-    [ "AIRelocationNotifier", "df/dc1/a09246.html#ab19dba99802231bc1ba7b3ae3cb4bdb3", null ],
-    [ "Visit", "df/dc1/a09246.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
-    [ "Visit", "df/dc1/a09246.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
-    [ "i_unit", "df/dc1/a09246.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
-    [ "isCreature", "df/dc1/a09246.html#a199f4b91d00dd4db90855e5521d87a95", null ]
+    [ "entry", "df/dc1/a09246.html#a9b4a88edefbc1e4b08a8ee03dfd90274", null ],
+    [ "height", "df/dc1/a09246.html#a40fcdb1274bc2587e8870b39a64289e1", null ],
+    [ "length", "df/dc1/a09246.html#a8e1ac424a973e546aa7c35e387e32a23", null ],
+    [ "map", "df/dc1/a09246.html#a9ecb58fde45a318ba0d6306c603aba4b", null ],
+    [ "orientation", "df/dc1/a09246.html#a5db58eaf63aceeaeb93bf6f4d5961a97", null ],
+    [ "radius", "df/dc1/a09246.html#ae4195d9f29b425394296009c22654380", null ],
+    [ "width", "df/dc1/a09246.html#af914195a4e7f2314a6241fb81cc8cfa8", null ],
+    [ "x", "df/dc1/a09246.html#a423077ceaf75c367831a6d9f55427a6f", null ],
+    [ "y", "df/dc1/a09246.html#a55ab832828addcef1b2f570bda81f2ce", null ],
+    [ "z", "df/dc1/a09246.html#ae5d0d4e9ef4006ad6c7195b999ef00c2", null ]
 ];

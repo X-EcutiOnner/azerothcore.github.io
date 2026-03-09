@@ -1,7 +1,7 @@
 var a22190 =
 [
-    [ "HandleScriptEffect", "de/d50/a22190.html#a7b0fca053f225beda41942d8fee86383", null ],
-    [ "PrepareSpellScript", "de/d50/a22190.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
-    [ "Register", "de/d50/a22190.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
-    [ "Validate", "de/d50/a22190.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
+    [ "npc_engineer_heliceAI", "da/dbe/a22194.html", "da/dbe/a22194" ],
+    [ "npc_engineer_helice", "de/d50/a22190.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
+    [ "GetAI", "de/d50/a22190.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
+    [ "OnQuestAccept", "de/d50/a22190.html#ae0979d68744372d5d4669b6f014eb123", null ]
 ];

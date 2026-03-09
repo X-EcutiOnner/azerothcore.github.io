@@ -1,10 +1,6 @@
 var a15094 =
 [
-    [ "CurrId", "d3/dd4/a15094.html#a126d1c0e7d475a07acd91de471cb7cab", null ],
-    [ "DestId", "d3/dd4/a15094.html#a7b12c520ee50ab29e5047a1c71b22729", null ],
-    [ "o", "d3/dd4/a15094.html#a94c284d63e66765c4d484c8edea8fdb8", null ],
-    [ "spellId", "d3/dd4/a15094.html#a7240ecd6f50a6db0e2be4eb4e55b3a48", null ],
-    [ "x", "d3/dd4/a15094.html#a41c7bdb057d984f552a41835651d84f5", null ],
-    [ "y", "d3/dd4/a15094.html#abe083129d7a4e514e97eeae7cff40af5", null ],
-    [ "z", "d3/dd4/a15094.html#ac49d886d09e2ebf8ccf8abd59a9649ec", null ]
+    [ "HandleTriggerSpell", "d3/dd4/a15094.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
+    [ "PrepareSpellScript", "d3/dd4/a15094.html#a76a070da8e719198463010499f595599", null ],
+    [ "Register", "d3/dd4/a15094.html#ae237c4972167a5a17b59800983496a9d", null ]
 ];

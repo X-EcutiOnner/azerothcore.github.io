@@ -1,8 +1,7 @@
 var a13962 =
 [
-    [ "npc_the_scourge_cauldronAI", "dd/d75/a13962.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
-    [ "DoDie", "dd/d75/a13962.html#a9f720a27db2943a66b11ad6355690bf5", null ],
-    [ "JustEngagedWith", "dd/d75/a13962.html#a89954dec2f7d57d933c18822333243ac", null ],
-    [ "MoveInLineOfSight", "dd/d75/a13962.html#a256195dbe75859d72afcd0defb9ff76e", null ],
-    [ "Reset", "dd/d75/a13962.html#ab18bb2eb344f45827685786c665b1750", null ]
+    [ "PeriodicTick", "dd/d75/a13962.html#acca46d585d06d461f735cddb6075b3b1", null ],
+    [ "PrepareAuraScript", "dd/d75/a13962.html#abd7382ab22efd3d82c4f00745255d024", null ],
+    [ "Register", "dd/d75/a13962.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
+    [ "Validate", "dd/d75/a13962.html#acb31ba162452a30ff0c208829560f9fd", null ]
 ];

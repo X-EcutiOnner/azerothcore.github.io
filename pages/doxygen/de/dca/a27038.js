@@ -1,6 +1,8 @@
 var a27038 =
 [
-    [ "HandleDummy", "de/dca/a27038.html#a2560417162a1c17cb067cdfeb2fc909d", null ],
-    [ "PrepareSpellScript", "de/dca/a27038.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c", null ],
-    [ "Register", "de/dca/a27038.html#a27aece218c848064ae387491f9176099", null ]
+    [ "HandleEffectRemove", "de/dca/a27038.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
+    [ "if", "de/dca/a27038.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
+    [ "PrepareAuraScript", "de/dca/a27038.html#a531f51626ae4527282ad1e628911a9ea", null ],
+    [ "Register", "de/dca/a27038.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
+    [ "AuraEffectHandleModes", "de/dca/a27038.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
 ];

@@ -1,7 +1,7 @@
 var a27154 =
 [
-    [ "HandleDummy", "d1/dde/a27154.html#a3af91500357eb127f813334bdf538dbd", null ],
-    [ "PrepareSpellScript", "d1/dde/a27154.html#ae34ff5e6027efecc34fa770690df5887", null ],
-    [ "Register", "d1/dde/a27154.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
-    [ "Validate", "d1/dde/a27154.html#a0b107442c0b76a018cc019f776c0b785", null ]
+    [ "HandleDummy", "d1/dde/a27154.html#aef93741620dcf29179502f88891ad0b5", null ],
+    [ "Load", "d1/dde/a27154.html#ab8e5dcd009cca538c9921dcb9c5fe109", null ],
+    [ "PrepareSpellScript", "d1/dde/a27154.html#ac92fd133395705e4cb3730bc96e1f787", null ],
+    [ "Register", "d1/dde/a27154.html#a69336bea35240c0014693ae167d4124b", null ]
 ];

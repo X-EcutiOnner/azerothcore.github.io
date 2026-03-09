@@ -1,8 +1,6 @@
 var a15070 =
 [
-    [ "Load", "d2/dc3/a15070.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
-    [ "PeriodicTick", "d2/dc3/a15070.html#ae4761ac3bce02903a7266511d80503f9", null ],
-    [ "PrepareAuraScript", "d2/dc3/a15070.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
-    [ "Register", "d2/dc3/a15070.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
-    [ "_ticks", "d2/dc3/a15070.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
+    [ "PrepareAuraScript", "d2/dc3/a15070.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
+    [ "RecalculateHook", "d2/dc3/a15070.html#af3952993947dfb24381083d21a9e64cb", null ],
+    [ "Register", "d2/dc3/a15070.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
 ];

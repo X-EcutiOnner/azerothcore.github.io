@@ -1,7 +1,9 @@
 var a11190 =
 [
-    [ "MapSessionFilter", "de/dee/a11190.html#ad11a700c36f8f45640402e96edc74b49", null ],
-    [ "~MapSessionFilter", "de/dee/a11190.html#a82960e741c8f64d24a764a915f14e2b8", null ],
-    [ "Process", "de/dee/a11190.html#a54483596fe2a5a0d30fab9a13506b375", null ],
-    [ "ProcessUnsafe", "de/dee/a11190.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
+    [ "LevelUpInfo", "de/dee/a11190.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
+    [ "Write", "de/dee/a11190.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
+    [ "HealthDelta", "de/dee/a11190.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
+    [ "Level", "de/dee/a11190.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
+    [ "PowerDelta", "de/dee/a11190.html#a697da64ac234c24fe73e68d408697ee6", null ],
+    [ "StatDelta", "de/dee/a11190.html#a580e4a3cd77631e960b7753542375d6d", null ]
 ];

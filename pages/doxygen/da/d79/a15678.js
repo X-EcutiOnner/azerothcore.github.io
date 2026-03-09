@@ -1,6 +1,6 @@
 var a15678 =
 [
-    [ "npc_bunthen_plainswind", "da/d79/a15678.html#ad9b789ad3e958dee4733b142813b6302", null ],
-    [ "OnGossipHello", "da/d79/a15678.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
-    [ "OnGossipSelect", "da/d79/a15678.html#a117f28d513ac645b9d3d908d052d2146", null ]
+    [ "FilterTargets", "da/d79/a15678.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
+    [ "PrepareSpellScript", "da/d79/a15678.html#a32b0be74a9127f920e22aa03c910a005", null ],
+    [ "Register", "da/d79/a15678.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
 ];

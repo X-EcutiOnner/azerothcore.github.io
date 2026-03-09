@@ -1,10 +1,8 @@
 var a19454 =
 [
-    [ "npc_scion_of_eternityAI", "d5/d10/a19454.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
-    [ "AttackStart", "d5/d10/a19454.html#a1335f9e34ff73d5501455062be025ada", null ],
-    [ "JustDied", "d5/d10/a19454.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
-    [ "MoveInLineOfSight", "d5/d10/a19454.html#a74a69fa532f0921285ef678bbd2fa761", null ],
-    [ "UpdateAI", "d5/d10/a19454.html#adb16afb6ea1583a7156b80a8d833951a", null ],
-    [ "events", "d5/d10/a19454.html#ae0e194a24a14033a499e68524da1699d", null ],
-    [ "pInstance", "d5/d10/a19454.html#aa828ca4a75696645d7aa350f1f981f40", null ]
+    [ "HandleScript", "d5/d10/a19454.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
+    [ "HandleScript2", "d5/d10/a19454.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
+    [ "Load", "d5/d10/a19454.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
+    [ "PrepareSpellScript", "d5/d10/a19454.html#a2d1dbae570206b358878020879708000", null ],
+    [ "Register", "d5/d10/a19454.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
 ];

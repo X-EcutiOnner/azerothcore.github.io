@@ -1,9 +1,6 @@
 var a17866 =
 [
-    [ "HandleApply", "dc/d6e/a17866.html#a5f23d41765ec949486094a0da45be7e8", null ],
-    [ "HandleRemove", "dc/d6e/a17866.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
-    [ "Load", "dc/d6e/a17866.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
-    [ "PrepareAuraScript", "dc/d6e/a17866.html#aabf5fdf4578935db11e041e638fba187", null ],
-    [ "Register", "dc/d6e/a17866.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
-    [ "SendClientControl", "dc/d6e/a17866.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
+    [ "VampiricBiteTargetSelector", "dc/d6e/a17866.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
+    [ "operator()", "dc/d6e/a17866.html#ac16204f50f62cb2568998d1ea137f55d", null ],
+    [ "_source", "dc/d6e/a17866.html#af23a69491c915909566249b109b1f0e8", null ]
 ];

@@ -1,8 +1,7 @@
 var a15874 =
 [
-    [ "npc_pluckyAI", "d3/db4/a15878.html", "d3/db4/a15878" ],
-    [ "npc_plucky", "dd/dd6/a15874.html#a86bb2992b8af5893987145117aaf3608", null ],
-    [ "GetAI", "dd/dd6/a15874.html#a51e73f4e1f618aee5a000e31328efefc", null ],
-    [ "OnGossipHello", "dd/dd6/a15874.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
-    [ "OnGossipSelect", "dd/dd6/a15874.html#a88fa465246b4c657b921ebdc96f7a112", null ]
+    [ "HandleEffectRemove", "dd/dd6/a15874.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
+    [ "PrepareAuraScript", "dd/dd6/a15874.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
+    [ "Register", "dd/dd6/a15874.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
+    [ "AuraEffectHandleModes", "dd/dd6/a15874.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
 ];

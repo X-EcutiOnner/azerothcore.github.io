@@ -1,7 +1,6 @@
 var a13442 =
 [
-    [ "HandleScriptEffect", "df/d28/a13442.html#a703ac8467126f5c2aee393fcf2400ffc", null ],
-    [ "PrepareSpellScript", "df/d28/a13442.html#a17c49de5f6a37ff83126398d96b43a51", null ],
-    [ "Register", "df/d28/a13442.html#ae205d84cdbe3fbfa519e7d1c8f2ffe16", null ],
-    [ "Validate", "df/d28/a13442.html#a17d53f598be9fe9e9790bb96dfcb4891", null ]
+    [ "npc_dkc1_gothikAI", "d4/daf/a13446.html", "d4/daf/a13446" ],
+    [ "npc_dkc1_gothik", "df/d28/a13442.html#ae4a6aec0235b01044ebd5c9c71d400d9", null ],
+    [ "GetAI", "df/d28/a13442.html#aeb285cf6977cfab5d337f51ae41907ec", null ]
 ];

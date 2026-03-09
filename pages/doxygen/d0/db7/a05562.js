@@ -1,7 +1,8 @@
 var a05562 =
 [
-    [ "EnumText", "d0/db7/a05562.html#a8eaf5ce52dcc9fd44476f9add1140e0d", null ],
-    [ "Constant", "d0/db7/a05562.html#a020a7ebf3b1ee476d5f7ee605f43525d", null ],
-    [ "Description", "d0/db7/a05562.html#ab08504e4ec70c5495f5a45856f2e6976", null ],
-    [ "Title", "d0/db7/a05562.html#a7326575ea4083e28ac62556526a092a4", null ]
+    [ "Decode", "d0/db7/a05562.html#aba5ab7c59ce77414bca38bfcde32d1c0", null ],
+    [ "Encode", "d0/db7/a05562.html#ad6cde2310ca52940df1bbf93deff6b91", null ],
+    [ "BITS_PER_CHAR", "d0/db7/a05562.html#a5efb6c842ab7733dc26fd67f1a00ccdf", null ],
+    [ "DECODE_ERROR", "d0/db7/a05562.html#a8fccf3d4b22e835fc4dca6b942771a2a", null ],
+    [ "PADDING", "d0/db7/a05562.html#a2e5699431f24ca6b745294b935b99240", null ]
 ];

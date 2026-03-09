@@ -1,6 +1,7 @@
 var a19814 =
 [
-    [ "iron_golem_custodianAI", "db/dd2/a19818.html", "db/dd2/a19818" ],
-    [ "iron_golem_custodian", "dc/df5/a19814.html#adc11b755e193adbad757c21e5b15e063", null ],
-    [ "GetAI", "dc/df5/a19814.html#a272e0c9fe475a665aa80a95f1e1d8629", null ]
+    [ "HandlePull", "dc/df5/a19814.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
+    [ "PrepareSpellScript", "dc/df5/a19814.html#ac192245513e162a2842e47f5b0d64338", null ],
+    [ "Register", "dc/df5/a19814.html#af6c7a881c2fcf07461006fef63074e5e", null ],
+    [ "SelectTarget", "dc/df5/a19814.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
 ];

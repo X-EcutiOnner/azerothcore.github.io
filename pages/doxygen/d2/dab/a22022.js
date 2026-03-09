@@ -1,8 +1,7 @@
 var a22022 =
 [
-    [ "npc_q24545_vegardAI", "d2/dab/a22022.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
-    [ "JustDied", "d2/dab/a22022.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
-    [ "KilledUnit", "d2/dab/a22022.html#a2d78117a6c2a29f52f1905595425964a", null ],
-    [ "UpdateAI", "d2/dab/a22022.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
-    [ "events", "d2/dab/a22022.html#a68f48d92cc5559025e635d599c2882e3", null ]
+    [ "HandleScript", "d2/dab/a22022.html#ac55fd613d1ea17ae89361fbf8759fec3", null ],
+    [ "PrepareSpellScript", "d2/dab/a22022.html#a26e704fd016cdf9b1d47fb9edcff7a72", null ],
+    [ "Register", "d2/dab/a22022.html#a9b8efef83b515f2250bda500ff741aa3", null ],
+    [ "Validate", "d2/dab/a22022.html#ad5e9b0ae8a8103b7d901dd333e62fc35", null ]
 ];

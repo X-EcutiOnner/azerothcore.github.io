@@ -1,5 +1,4 @@
 var a01535 =
 [
-    [ "Acore::EmoteChatBuilder", "df/da6/a09836.html", "df/da6/a09836" ],
-    [ "isNasty", "dc/d93/a01535.html#ae6092f307f09a5dcbbc5ed10c145032f", null ]
+    [ "validUtf8String", "dc/d93/a01535.html#a15c437e1d990c60d0d271ab1773b7d97", null ]
 ];

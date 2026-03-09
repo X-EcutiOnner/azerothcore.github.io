@@ -1,8 +1,6 @@
 var a22978 =
 [
-    [ "Load", "d6/dee/a22978.html#a038301fbb547469574efff88455be663", null ],
-    [ "OnPeriodic", "d6/dee/a22978.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
-    [ "PrepareAuraScript", "d6/dee/a22978.html#a386df1300e6a99b02efd13ef4968e99a", null ],
-    [ "Register", "d6/dee/a22978.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
-    [ "Validate", "d6/dee/a22978.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
+    [ "ShadowOfDeathSelector", "d6/dee/a22978.html#a1190094fbde74ccffd954fea742ab0ae", null ],
+    [ "operator()", "d6/dee/a22978.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
+    [ "_tank", "d6/dee/a22978.html#adc238645eec306e00918dbab05549fc8", null ]
 ];

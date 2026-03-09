@@ -1,9 +1,7 @@
 var a26338 =
 [
-    [ "Load", "de/d5d/a26338.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
-    [ "PrepareSpellScript", "de/d5d/a26338.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
-    [ "Register", "de/d5d/a26338.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
-    [ "TriggerHeal", "de/d5d/a26338.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
-    [ "Validate", "de/d5d/a26338.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
-    [ "healPct", "de/d5d/a26338.html#a33b4d26c34903e45b7274e369f096ce1", null ]
+    [ "HandleDummy", "de/d5d/a26338.html#aa510199edee85bfcf6314559e9c72928", null ],
+    [ "PrepareSpellScript", "de/d5d/a26338.html#a8d2dce1e15f87bb3f744f89b7a531c72", null ],
+    [ "Register", "de/d5d/a26338.html#a1da7830a42eabcccba81000b7094b205", null ],
+    [ "Validate", "de/d5d/a26338.html#ad5f88629afe87669a18a7424b8b34ba0", null ]
 ];

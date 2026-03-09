@@ -1,6 +1,8 @@
 var a29382 =
 [
-    [ "npc_target_dummyAI", "da/dc9/a29386.html", "da/dc9/a29386" ],
-    [ "npc_target_dummy", "d4/daa/a29382.html#a04847f9893a40c0f1c1879f448cc228d", null ],
-    [ "GetAI", "d4/daa/a29382.html#a1aff9199c160e20f9e92ee9f90178d63", null ]
+    [ "Color", "d4/daa/a29382.html#a670fb4e2a31958f81d46047f74d9916f", null ],
+    [ "Comparator", "d4/daa/a29382.html#ace0bdad11edd9db12e45d374da623793", null ],
+    [ "CompareColor", "d4/daa/a29382.html#a801e2221bbb1b6aab67a57381901cf08", null ],
+    [ "ID", "d4/daa/a29382.html#aae73769db40326d298bb1d04eef38871", null ],
+    [ "Value", "d4/daa/a29382.html#ac314a9a6b447d386e31a286811f66538", null ]
 ];

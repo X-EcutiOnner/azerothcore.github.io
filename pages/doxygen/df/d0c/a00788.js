@@ -1,4 +1,6 @@
 var a00788 =
 [
-    [ "ScriptRegistry< BattlegroundMapScript >", "df/d0c/a00788.html#a79e6d39d74f9bbf97afe75113cd4db80", null ]
+    [ "TSpellSummary", "de/de6/a06446.html", "de/de6/a06446" ],
+    [ "SCR_CLEAR", "df/d0c/a00788.html#ab71e08e3f39b7ee7bda0306cd39b96a0", null ],
+    [ "SpellSummary", "df/d0c/a00788.html#ae56af266ccaa1794f1f014938b07e9cc", null ]
 ];

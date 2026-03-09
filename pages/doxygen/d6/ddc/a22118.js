@@ -1,9 +1,5 @@
 var a22118 =
 [
-    [ "npc_venture_co_stragglerAI", "d6/ddc/a22118.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
-    [ "Reset", "d6/ddc/a22118.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
-    [ "SpellHit", "d6/ddc/a22118.html#ae1919454c270d10342079b60a727a306", null ],
-    [ "UpdateAI", "d6/ddc/a22118.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
-    [ "_events", "d6/ddc/a22118.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
-    [ "_playerGUID", "d6/ddc/a22118.html#a649493944b143782d995b5bdda3714b4", null ]
+    [ "npc_guardian_pavilionAI", "d6/ddc/a22118.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "d6/ddc/a22118.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

@@ -1,9 +1,10 @@
 var a28510 =
 [
-    [ "itemId", "df/d57/a28510.html#ae125712e5569c9699b4748b6a15fbc12", null ],
-    [ "items_to_triggerspell", "df/d57/a28510.html#a8496a2f3fa3e230def04b996fc585760", null ],
-    [ "name", "df/d57/a28510.html#a9b62f843833d524f200782d44151503d", null ],
-    [ "required_skill_id", "df/d57/a28510.html#ab3058ac725fb8f105b9359d5a5147942", null ],
-    [ "required_skill_value", "df/d57/a28510.html#a58d0997a73cf48061545edbc0201f544", null ],
-    [ "spells", "df/d57/a28510.html#a8aac032992efe1bfbba0e49693562c7f", null ]
+    [ "npc_air_force_botsAI", "df/d57/a28510.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "df/d57/a28510.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "df/d57/a28510.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "df/d57/a28510.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "df/d57/a28510.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "df/d57/a28510.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "df/d57/a28510.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

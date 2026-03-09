@@ -1,10 +1,8 @@
 var a28642 =
 [
-    [ "attackSpeed", "d9/d92/a28642.html#ab5242f7367e8799a556176178c72fc88", null ],
-    [ "creatureType", "d9/d92/a28642.html#a3dff9074b85261932ed8a8a550c5395b", null ],
-    [ "flags1", "d9/d92/a28642.html#a026745f2ce754d754858d69ee219b518", null ],
-    [ "ID", "d9/d92/a28642.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
-    [ "modelID_A", "d9/d92/a28642.html#a86dfa61342583d920b7d8496bce4b49d", null ],
-    [ "modelID_H", "d9/d92/a28642.html#a1ee597d6fd02507b682874929645e01d", null ],
-    [ "stanceSpell", "d9/d92/a28642.html#a08f54b905e905fb5a59e449f8c613c08", null ]
+    [ "npc_traveler_mammoth_vendor", "d9/d92/a28642.html#af3b5fc14371eb03e8259799b296967c1", null ],
+    [ "Reset", "d9/d92/a28642.html#a2b8cf527d2a42b4884f0a4e03a15e8ef", null ],
+    [ "UpdateAI", "d9/d92/a28642.html#a98129bb78476ddc0b1a09593b8894fff", null ],
+    [ "_hasEjected", "d9/d92/a28642.html#af801e9849a795358c812fddf69ec8434", null ],
+    [ "_playerGuid", "d9/d92/a28642.html#a9e657a91bedc5643b2de6a135e97d89c", null ]
 ];

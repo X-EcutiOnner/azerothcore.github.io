@@ -1,9 +1,10 @@
 var a24430 =
 [
-    [ "npc_enraged_spiritAI", "d2/d25/a24430.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
-    [ "JustDied", "d2/d25/a24430.html#a9322622f679dbc311bd8983f5037bd2e", null ],
-    [ "JustEngagedWith", "d2/d25/a24430.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
-    [ "Reset", "d2/d25/a24430.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
-    [ "UpdateAI", "d2/d25/a24430.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
-    [ "_scheduler", "d2/d25/a24430.html#afa6825696b0622849f877b392df4b326", null ]
+    [ "npc_pet_hunter_snake_trap", "d2/d25/a24430.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
+    [ "EnterEvadeMode", "d2/d25/a24430.html#a819add0c7b968063403d10275fdc289f", null ],
+    [ "MoveInLineOfSight", "d2/d25/a24430.html#a32d5ed7f4d436f2678b34f4a1d572721", null ],
+    [ "Reset", "d2/d25/a24430.html#a831cf6eea8bd03247cd9877d3be6e1ee", null ],
+    [ "UpdateAI", "d2/d25/a24430.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
+    [ "_init", "d2/d25/a24430.html#a1b5c1301389749f82667c35f3daff847", null ],
+    [ "_spellTimer", "d2/d25/a24430.html#ab9397451e2e8320ca77560a19baeee3f", null ]
 ];

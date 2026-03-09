@@ -1,6 +1,6 @@
 var a10554 =
 [
-    [ "ShowingCloak", "d6/de1/a10554.html#ac8fcfe92c148787a07b77d0b9ebb45cb", null ],
-    [ "Read", "d6/de1/a10554.html#ad72ae43efc070655aa078d9985369442", null ],
-    [ "ShowCloak", "d6/de1/a10554.html#aa9eda46557031d67b4a675bd998e5b7d", null ]
+    [ "BattlegroundScript", "d6/de1/a10554.html#a306231f1c7346a00a3f877c7cef3897b", null ],
+    [ "GetBattleground", "d6/de1/a10554.html#a782c6e81f4ed9a63f9276dcc4f0f9116", null ],
+    [ "IsDatabaseBound", "d6/de1/a10554.html#a35b571d570c85a861af6f949b51453cb", null ]
 ];

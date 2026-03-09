@@ -1,8 +1,8 @@
 var a29366 =
 [
-    [ "npc_riggle_bassbaitAI", "df/d43/a29370.html", "df/d43/a29370" ],
-    [ "npc_riggle_bassbait", "d3/d0c/a29366.html#afc4280099cda3c28c4634d649e636839", null ],
-    [ "GetAI", "d3/d0c/a29366.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
-    [ "OnGossipHello", "d3/d0c/a29366.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
-    [ "OnQuestReward", "d3/d0c/a29366.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
+    [ "NoRuneCost", "d3/d0c/a29366.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
+    [ "NoRunicPowerGain", "d3/d0c/a29366.html#a97da075ecd116ef27fd4265bb8380667", null ],
+    [ "ID", "d3/d0c/a29366.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
+    [ "RuneCost", "d3/d0c/a29366.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
+    [ "runePowerGain", "d3/d0c/a29366.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
 ];

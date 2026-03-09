@@ -1,7 +1,5 @@
 var a29954 =
 [
-    [ "MPQArchive", "dd/d2e/a28959.html", "dd/d2e/a28959" ],
-    [ "MPQFile", "db/d65/a28963.html", "db/d65/a28963" ],
-    [ "ArchiveSet", "d0/dbc/a29954.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "d0/dbc/a29954.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "fcc", "d0/dbc/a29954.html#a828a2845e666d6eb47d6d4705a663a3d", null ],
+    [ "fcc_txt", "d0/dbc/a29954.html#acf0f4449ab5a64822833b86b41e2487c", null ]
 ];

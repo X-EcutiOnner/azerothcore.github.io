@@ -1,7 +1,17 @@
 var a11326 =
 [
-    [ "chance", "d0/dfa/a11326.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
-    [ "triggeredByAura", "d0/dfa/a11326.html#abb48d6093570ba9c5488f200544a1e83", null ],
-    [ "triggeredByEffIdx", "d0/dfa/a11326.html#a82d752dedab39f417af225add6af1403", null ],
-    [ "triggeredSpell", "d0/dfa/a11326.html#a02ac12119655f9ab82347d21cc68803a", null ]
+    [ "CompactArray", "d0/dfa/a11326.html#a167096f1966862ec92556b6f5d3aa3b8", null ],
+    [ "CompactArray", "d0/dfa/a11326.html#a70adda7a73d5c54b1d29668f23778c9f", null ],
+    [ "CompactArray", "d0/dfa/a11326.html#a757f7d94e52fa821dc1fdb03877574f3", null ],
+    [ "Clear", "d0/dfa/a11326.html#ae213ad313a4b0688763e882a2010c494", null ],
+    [ "GetMask", "d0/dfa/a11326.html#a3a421d4ee2e7459cbc945c6c70c1993f", null ],
+    [ "GetSize", "d0/dfa/a11326.html#a656c3568cd73d10dd6f9cda1809ff509", null ],
+    [ "Insert", "d0/dfa/a11326.html#a313aedf5c623505860a227149cb64b5a", null ],
+    [ "operator!=", "d0/dfa/a11326.html#adaade1e09d979a6e98b90253f442a9e5", null ],
+    [ "operator=", "d0/dfa/a11326.html#a75f0995b55269fc2d0bca87a0294fcb3", null ],
+    [ "operator=", "d0/dfa/a11326.html#a14d76ffa09769e341dea769424ac586c", null ],
+    [ "operator==", "d0/dfa/a11326.html#a24c7c9794991ec3bf4ecefa93f8ee23e", null ],
+    [ "operator[]", "d0/dfa/a11326.html#af146d3e880ec34358ff6a07247f741d8", null ],
+    [ "_contents", "d0/dfa/a11326.html#a1e0ff07a4905517dc6e92a3615bc36d0", null ],
+    [ "_mask", "d0/dfa/a11326.html#a85ef9a03e561e385f41de88e6e0f98c0", null ]
 ];

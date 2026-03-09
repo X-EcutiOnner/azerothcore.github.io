@@ -1,5 +1,6 @@
 var a12558 =
 [
-    [ "at_orb_of_command", "df/dda/a12558.html#a1f0b196362b76e050eba66d3ce612623", null ],
-    [ "OnTrigger", "df/dda/a12558.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
+    [ "boss_highlordomokkAI", "d7/d2b/a12562.html", "d7/d2b/a12562" ],
+    [ "boss_highlord_omokk", "df/dda/a12558.html#af5174587ed3cd1c46f604183a75de99e", null ],
+    [ "GetAI", "df/dda/a12558.html#afb8efb012791c6a2fc18975a1ec7f984", null ]
 ];

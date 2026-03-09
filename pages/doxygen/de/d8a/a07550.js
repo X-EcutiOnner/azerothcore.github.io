@@ -1,17 +1,7 @@
 var a07550 =
 [
-    [ "HasFlag", "de/d8a/a07550.html#a23315bfbd0748f82c948051697079c24", null ],
-    [ "IsModerator", "de/d8a/a07550.html#af664dc84e5a60301c4fce6fda8971062", null ],
-    [ "IsMuted", "de/d8a/a07550.html#a5d1e0f8e424033e34338940677ca054c", null ],
-    [ "IsOwner", "de/d8a/a07550.html#a4687757cb7df9778f0f5eb67714c917c", null ],
-    [ "IsOwnerGM", "de/d8a/a07550.html#ad4e1573168c91372dc4af2847d4ad454", null ],
-    [ "SetFlag", "de/d8a/a07550.html#a9cb5a3ce70a2afcc553992f4a65b80e1", null ],
-    [ "SetModerator", "de/d8a/a07550.html#a0a0cbaa77040171b7b50f89914946a8a", null ],
-    [ "SetMuted", "de/d8a/a07550.html#adf989acef0b1e53a9dc2d3210db646b7", null ],
-    [ "SetOwner", "de/d8a/a07550.html#aac6a9ea0bf478901e62c729ac6a3e9cd", null ],
-    [ "SetOwnerGM", "de/d8a/a07550.html#a2e4be6dfb921ad07ebd0de3abb81f5e4", null ],
-    [ "_gmStatus", "de/d8a/a07550.html#a15686cee4d1d0d8f39c13341bc9df624", null ],
-    [ "flags", "de/d8a/a07550.html#ae9ed61476c5f13dddf4aa5e98fe8c5c4", null ],
-    [ "player", "de/d8a/a07550.html#afba1915e2dd4109928180e33884b8412", null ],
-    [ "plrPtr", "de/d8a/a07550.html#a5c986d75e173cc42160143ae7621ab6b", null ]
+    [ "BattlegroundObjectInfo", "de/d8a/a07550.html#a848f2b15f47ceeb91c40e916d5659486", null ],
+    [ "object", "de/d8a/a07550.html#a6722b83d6969c1a34b4846f19865075a", null ],
+    [ "spellid", "de/d8a/a07550.html#ae0233a1078bc735e40855ea7608f5f11", null ],
+    [ "timer", "de/d8a/a07550.html#a7eaf1fbe40f3a7918965da8d5ac81a50", null ]
 ];

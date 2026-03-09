@@ -1,6 +1,5 @@
 var a01559 =
 [
-    [ "GridObjectLoader", "d8/d80/a09328.html", "d8/d80/a09328" ],
-    [ "GridObjectCleaner", "d7/db6/a09332.html", "d7/db6/a09332" ],
-    [ "GridObjectUnloader", "d9/dbe/a09336.html", "d9/dbe/a09336" ]
+    [ "holetab_h", "de/d1a/a01559.html#a10e90ca95e60d3244de3e68d7882433b", null ],
+    [ "holetab_v", "de/d1a/a01559.html#a54b408dce116992610ba9c141426d821", null ]
 ];

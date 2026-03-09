@@ -1,8 +1,6 @@
 var a22450 =
 [
-    [ "npc_freed_protodrakeAI", "d6/d95/a22450.html#a9e80808035be749c87a1170f37ac3daf", null ],
-    [ "MovementInform", "d6/d95/a22450.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
-    [ "Reset", "d6/d95/a22450.html#ab5781438300442bb7bcb4510aec9d233", null ],
-    [ "UpdateAI", "d6/d95/a22450.html#a9e83b133444e977c35e90b700149472c", null ],
-    [ "events", "d6/d95/a22450.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
+    [ "npc_released_offspring_harkoaAI", "d6/d95/a22450.html#ab1002f002987b6ea2366129afd48d65c", null ],
+    [ "MovementInform", "d6/d95/a22450.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
+    [ "Reset", "d6/d95/a22450.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
 ];

@@ -1,8 +1,6 @@
 var a16518 =
 [
-    [ "npc_announcer_toc5AI", "d6/dff/a16518.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
-    [ "DamageTaken", "d6/dff/a16518.html#a53458483699ac026ff2cd36b5f061571", null ],
-    [ "MovementInform", "d6/dff/a16518.html#acdcf4110b3815635ad173a70e7a1e603", null ],
-    [ "Reset", "d6/dff/a16518.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
-    [ "UpdateAI", "d6/dff/a16518.html#ad2c596253d67d051f497a8d77859846d", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d7/de7/a16522.html", "d7/de7/a16522" ],
+    [ "instance_obsidian_sanctum", "d6/dff/a16518.html#a6cf2121c4167156f5748c144372b3c0b", null ],
+    [ "GetInstanceScript", "d6/dff/a16518.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
 ];

@@ -1,8 +1,7 @@
 var a27050 =
 [
-    [ "Detonate", "dc/d8d/a27050.html#a89f46334c78fc190afd7b03706fa2513", null ],
-    [ "HandleProc", "dc/d8d/a27050.html#a82ad88c757eed35f7e0f2af38ceb2273", null ],
-    [ "PrepareAuraScript", "dc/d8d/a27050.html#a7268602da6dc74d7c501fb90c8167226", null ],
-    [ "Register", "dc/d8d/a27050.html#ac1574e943840e5f15a808ed4d338cd5f", null ],
-    [ "Validate", "dc/d8d/a27050.html#abbc5c9d069e716d9356ec366713abb84", null ]
+    [ "CheckTarget", "dc/d8d/a27050.html#abaef73201d2e0bd1d6789309442019e0", null ],
+    [ "HandleScriptEffect", "dc/d8d/a27050.html#a545196cd976bfabbd85ba48942012e1e", null ],
+    [ "PrepareSpellScript", "dc/d8d/a27050.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
+    [ "Register", "dc/d8d/a27050.html#a36563a197b7377660b7c3f9e85d478bd", null ]
 ];

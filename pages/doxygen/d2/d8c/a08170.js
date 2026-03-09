@@ -1,12 +1,23 @@
 var a08170 =
 [
-    [ "QuestMenu", "d2/d8c/a08170.html#a60ba5b35499c6a9ed510300d3300421e", null ],
-    [ "~QuestMenu", "d2/d8c/a08170.html#a14df9b6699c327853121ae032704db8d", null ],
-    [ "AddMenuItem", "d2/d8c/a08170.html#ac8735756bbf9f2fa799c505bd740e070", null ],
-    [ "ClearMenu", "d2/d8c/a08170.html#ab3d3881aabe000694acab37a3774507e", null ],
-    [ "Empty", "d2/d8c/a08170.html#a1a850cb70956f299ea91cb0d732ad202", null ],
-    [ "GetItem", "d2/d8c/a08170.html#a08240a8d18dce0cb96db19f54c67dd2c", null ],
-    [ "GetMenuItemCount", "d2/d8c/a08170.html#a2338a6fb88c32bfb66fe524a8ffaa0d7", null ],
-    [ "HasItem", "d2/d8c/a08170.html#a7fe36e4a4acfc66a00f08034c470b5e3", null ],
-    [ "_questMenuItems", "d2/d8c/a08170.html#a49279a3943009f2d1475d792c2c3d21a", null ]
+    [ "Lfg5Guids", "d2/d8c/a08170.html#ae3c4d14ffe3bd3824efd53d3e66a5b30", null ],
+    [ "Lfg5Guids", "d2/d8c/a08170.html#a9bb6a28de6b87b5de2de4d78c27eb345", null ],
+    [ "Lfg5Guids", "d2/d8c/a08170.html#aeb018ae41f1ab39481a103c01c96d5de", null ],
+    [ "Lfg5Guids", "d2/d8c/a08170.html#a74e7afce30fb2e2ca99b78df29e6975e", null ],
+    [ "~Lfg5Guids", "d2/d8c/a08170.html#ad956189426a61abf0d9058b5b9f7549e", null ],
+    [ "addRoles", "d2/d8c/a08170.html#a13337aa8eadfc10987ead13ea8209ea5", null ],
+    [ "clear", "d2/d8c/a08170.html#aff9d7632f888db252956bbfaa9dc2f62", null ],
+    [ "empty", "d2/d8c/a08170.html#a14538fb8efd8e177d47dae2d9fca912f", null ],
+    [ "force_insert_front", "d2/d8c/a08170.html#a77745ad60c60112415fcb4f2a6dd29d0", null ],
+    [ "front", "d2/d8c/a08170.html#a822a9a4b5d82e11d34d2c1c22266bc0c", null ],
+    [ "hasGuid", "d2/d8c/a08170.html#a006c11b73f8ba552773b7ca7e1d453ab", null ],
+    [ "insert", "d2/d8c/a08170.html#aee7acd31d624eabc2baaf4ecf4a1652b", null ],
+    [ "operator<", "d2/d8c/a08170.html#ae319ccef734a235fad62573a5d747825", null ],
+    [ "operator=", "d2/d8c/a08170.html#aea6ab45388b1ce27596ac66989b740f7", null ],
+    [ "operator==", "d2/d8c/a08170.html#abf9085148dcb87de11f8697304fa0b7b", null ],
+    [ "remove", "d2/d8c/a08170.html#abb7a4268219a9d0c9801ad233262870a", null ],
+    [ "size", "d2/d8c/a08170.html#aa92daa0cdace672d751a3f10a8b8a6ff", null ],
+    [ "toString", "d2/d8c/a08170.html#a19fd7ca444d3114e0fc8c46c460e1249", null ],
+    [ "guids", "d2/d8c/a08170.html#a34c689c4c3e7f3754fa5d30cc95f524b", null ],
+    [ "roles", "d2/d8c/a08170.html#a254e125e26aa95f51bf8f226507e71c6", null ]
 ];

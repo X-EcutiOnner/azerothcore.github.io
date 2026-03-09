@@ -1,17 +1,8 @@
 var a28514 =
 [
-    [ "Entry", "d6/d50/a28514.html#a4e8689fabe6b3ef5c495bf84fa1945b7", null ],
-    [ "Difficulty", "d6/d50/a28514.html#aa85e97ced86b0d27c753ca924eba074b", null ],
-    [ "ExpansionLevel", "d6/d50/a28514.html#a5bbacc248aa127b889d60b3a25b12b83", null ],
-    [ "Flags", "d6/d50/a28514.html#a9481c296a064ec400b0f050097903557", null ],
-    [ "GroupID", "d6/d50/a28514.html#a7a6c2971a61b171d00c885ce452601ce", null ],
-    [ "ID", "d6/d50/a28514.html#ae0fdf0d9afd2f99e9b7e6094960e86e0", null ],
-    [ "MapID", "d6/d50/a28514.html#a6c947b111d7d356ba02eb6fffc77f5cb", null ],
-    [ "MaxLevel", "d6/d50/a28514.html#aa4fbfd45d4319c9e8319508821bf4a65", null ],
-    [ "MinLevel", "d6/d50/a28514.html#a17ae5fe60486c54a3becb2b14d5953c9", null ],
-    [ "Name", "d6/d50/a28514.html#a7cb21e4e996be24d531b03fea66ecd27", null ],
-    [ "TargetLevel", "d6/d50/a28514.html#a2e6456d16cce98666b0ac63cebf0eb82", null ],
-    [ "TargetLevelMax", "d6/d50/a28514.html#ae4a27f7bc0563f606f40d955a40fab1e", null ],
-    [ "TargetLevelMin", "d6/d50/a28514.html#a7558f3dc7d695fb17bc3b64e0c381de7", null ],
-    [ "TypeID", "d6/d50/a28514.html#a84a498b44063cc95ba1a3b565c44a81b", null ]
+    [ "npc_chicken_cluckAI", "d9/dbf/a28518.html", "d9/dbf/a28518" ],
+    [ "npc_chicken_cluck", "d6/d50/a28514.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
+    [ "GetAI", "d6/d50/a28514.html#abf986f555672823477c3c17e0f59bdbe", null ],
+    [ "OnQuestAccept", "d6/d50/a28514.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
+    [ "OnQuestComplete", "d6/d50/a28514.html#a8f22520166a557e066502eb16bdae774", null ]
 ];

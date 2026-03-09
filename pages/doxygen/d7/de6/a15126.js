@@ -1,12 +1,7 @@
 var a15126 =
 [
-    [ "instance_razorfen_downs_InstanceMapScript", "d7/de6/a15126.html#a04d36b66a5570d03bb95ef2225a5c902", null ],
-    [ "GetData", "d7/de6/a15126.html#a3d1611870945cd0c8cd7d4e7728cfd84", null ],
-    [ "Initialize", "d7/de6/a15126.html#aed9ab9542badb0296ca0660c39541cb8", null ],
-    [ "OnGameObjectCreate", "d7/de6/a15126.html#a567ac5d9a17514ede5b84c5d78204072", null ],
-    [ "ReadSaveDataMore", "d7/de6/a15126.html#a7d6fefed563b0b9763b9c63136c65952", null ],
-    [ "SetData", "d7/de6/a15126.html#a1dfd39d65b16bb6e1373fe83ba4053c5", null ],
-    [ "WriteSaveDataMore", "d7/de6/a15126.html#ae5cd5cf84e8db976f3006dc52bb5fab4", null ],
-    [ "_firesState", "d7/de6/a15126.html#a74809429d3d2b1db5374dacf34d8a1b7", null ],
-    [ "_gongPhase", "d7/de6/a15126.html#a23485a35f0aa2f2ffad53398882d163a", null ]
+    [ "HandleOnHit", "d7/de6/a15126.html#a9f1d78b4a98bc76877903b79923c1634", null ],
+    [ "PrepareSpellScript", "d7/de6/a15126.html#afb0a8a16850da30b0fbdb3d10a935f21", null ],
+    [ "Register", "d7/de6/a15126.html#ab923488eb891e1f9b1f5cb8ed61f3865", null ],
+    [ "Validate", "d7/de6/a15126.html#a57d85b1702e5c89d72972505121180ed", null ]
 ];

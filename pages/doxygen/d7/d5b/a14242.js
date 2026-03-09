@@ -1,6 +1,6 @@
 var a14242 =
 [
-    [ "HandleOnHit", "d7/d5b/a14242.html#a76b09288d14d399735250607e2105eb3", null ],
-    [ "PrepareSpellScript", "d7/d5b/a14242.html#a2270ce546ae286ffa701d094df591aa2", null ],
-    [ "Register", "d7/d5b/a14242.html#a710f2a60bf6ae00909d279b98ac6b7d6", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "d8/dda/a14246.html", "d8/dda/a14246" ],
+    [ "npc_jaina_proudmoore_bfu", "d7/d5b/a14242.html#af96c4fac318f44cf6e70817b6960999f", null ],
+    [ "GetAI", "d7/d5b/a14242.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
 ];

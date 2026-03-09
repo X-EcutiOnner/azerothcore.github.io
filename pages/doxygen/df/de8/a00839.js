@@ -1,4 +1,5 @@
 var a00839 =
 [
-    [ "AllCreatureScript", "d4/d25/a10472.html", "d4/d25/a10472" ]
+    [ "AreaTriggerScript", "d5/d6f/a10526.html", "d5/d6f/a10526" ],
+    [ "OnlyOnceAreaTriggerScript", "da/d61/a10530.html", "da/d61/a10530" ]
 ];

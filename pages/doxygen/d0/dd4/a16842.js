@@ -1,6 +1,6 @@
 var a16842 =
 [
-    [ "npc_announcer_toc10", "d0/dd4/a16842.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
-    [ "OnGossipHello", "d0/dd4/a16842.html#afcc5262e7c49b7456af146de14805a06", null ],
-    [ "OnGossipSelect", "d0/dd4/a16842.html#a9a2bf1d3a215332744ca473041cc0520", null ]
+    [ "HideNpcEvent", "d0/dd4/a16842.html#ab454295aab0f5d4586740140232e96eb", null ],
+    [ "Execute", "d0/dd4/a16842.html#aecfbbbcac3fd98675913a6381c891a59", null ],
+    [ "_owner", "d0/dd4/a16842.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
 ];

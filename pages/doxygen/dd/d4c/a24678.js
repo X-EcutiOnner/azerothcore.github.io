@@ -1,6 +1,7 @@
 var a24678 =
 [
-    [ "HandlePeriodic", "dd/d4c/a24678.html#adc387a1b001119b95179856c030853ad", null ],
-    [ "PrepareAuraScript", "dd/d4c/a24678.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
-    [ "Register", "dd/d4c/a24678.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
+    [ "HandleProc", "dd/d4c/a24678.html#a1c9c503e64b8e9060e7af700aabdf30b", null ],
+    [ "PrepareAuraScript", "dd/d4c/a24678.html#a9aa6b540ab7061d48290eb2a49113adf", null ],
+    [ "Register", "dd/d4c/a24678.html#a142a1a5d27b714935aa5e05619e06ae3", null ],
+    [ "Validate", "dd/d4c/a24678.html#a88cb3af37d3133f95355634c8bd98d61", null ]
 ];

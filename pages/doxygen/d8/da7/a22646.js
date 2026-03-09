@@ -1,6 +1,10 @@
 var a22646 =
 [
-    [ "npc_released_offspring_harkoaAI", "d8/da7/a22646.html#ab1002f002987b6ea2366129afd48d65c", null ],
-    [ "MovementInform", "d8/da7/a22646.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
-    [ "Reset", "d8/da7/a22646.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
+    [ "boss_talon_king_ikiss", "d8/da7/a22646.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "JustDied", "d8/da7/a22646.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "d8/da7/a22646.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "d8/da7/a22646.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "d8/da7/a22646.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "d8/da7/a22646.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "d8/da7/a22646.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

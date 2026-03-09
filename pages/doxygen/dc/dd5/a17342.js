@@ -1,6 +1,15 @@
 var a17342 =
 [
-    [ "boss_drakkari_colossusAI", "d9/ddf/a17346.html", "d9/ddf/a17346" ],
-    [ "boss_drakkari_colossus", "dc/dd5/a17342.html#abe1bf28b9147b72c81e5c5efcdeeaf84", null ],
-    [ "GetAI", "dc/dd5/a17342.html#a75c6c9c56fe11342dd8aece031059e77", null ]
+    [ "boss_falricAI", "dc/dd5/a17342.html#a8b333fe1571f98b4e9f44152d130a22d", null ],
+    [ "DoAction", "dc/dd5/a17342.html#a2a7de8f939cd3cdc113c841da36e28c8", null ],
+    [ "EnterEvadeMode", "dc/dd5/a17342.html#aacb6a3b13fe5ea08ab2ff0e77ff841a4", null ],
+    [ "JustDied", "dc/dd5/a17342.html#a4ee3163afcda23102d639740fd628f39", null ],
+    [ "JustEngagedWith", "dc/dd5/a17342.html#ae5a8b14e1984dbd2866af7c442c02df2", null ],
+    [ "KilledUnit", "dc/dd5/a17342.html#a4a8b45eb85c1328af6beec69f2db1842", null ],
+    [ "Reset", "dc/dd5/a17342.html#a0af8ef161bc2a37a5c7f7fa880194251", null ],
+    [ "UpdateAI", "dc/dd5/a17342.html#a640036111dcd14e40016342ffdef7d63", null ],
+    [ "events", "dc/dd5/a17342.html#aa94ca00db157378071b78142b213de23", null ],
+    [ "pInstance", "dc/dd5/a17342.html#aebeae3541bbbf392c44fd52516bb2d98", null ],
+    [ "startFightTimer", "dc/dd5/a17342.html#addd560074b840aed36f41883f893340e", null ],
+    [ "uiHopelessnessCount", "dc/dd5/a17342.html#a0ad83fb57263116a59976834c6667ea9", null ]
 ];

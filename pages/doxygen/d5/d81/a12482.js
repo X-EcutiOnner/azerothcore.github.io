@@ -1,10 +1,7 @@
 var a12482 =
 [
-    [ "npc_corrupted_totem", "d5/d81/a12482.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
-    [ "IsSummonedBy", "d5/d81/a12482.html#ae8314903c9006b7bca94a47115a0d05b", null ],
-    [ "JustDied", "d5/d81/a12482.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
-    [ "Reset", "d5/d81/a12482.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
-    [ "SetAura", "d5/d81/a12482.html#a509688befda49f789f77ee0e4170a74e", null ],
-    [ "UpdateAI", "d5/d81/a12482.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
-    [ "_auraAdded", "d5/d81/a12482.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
+    [ "boss_moira_bronzebeardAI", "d5/d81/a12482.html#a11265b6aad76574c2c76253128c79165", null ],
+    [ "CastOnEmperorIfPossible", "d5/d81/a12482.html#a0df43e5c605783312291bd4ba1921f8c", null ],
+    [ "JustEngagedWith", "d5/d81/a12482.html#a40ae00eb86e2bec048a9394d4deef106", null ],
+    [ "UpdateAI", "d5/d81/a12482.html#ae3f22a059330fb564cd30e581fc0198d", null ]
 ];

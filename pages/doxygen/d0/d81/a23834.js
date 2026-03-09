@@ -1,6 +1,6 @@
 var a23834 =
 [
-    [ "boss_porung", "d0/d81/a23834.html#acef31010461bbf716ac9b13d950807ee", null ],
-    [ "JustDied", "d0/d81/a23834.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
-    [ "JustEngagedWith", "d0/d81/a23834.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
+    [ "HandlePeriodic", "d0/d81/a23834.html#aec3f36e2c5fedddd84478b9e3a59e6f4", null ],
+    [ "PrepareAuraScript", "d0/d81/a23834.html#a2b809a60626119f6bcf595bd3581c2be", null ],
+    [ "Register", "d0/d81/a23834.html#a299f84e9c12406c79a56999a13de5c1c", null ]
 ];

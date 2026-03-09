@@ -1,7 +1,8 @@
 var a24750 =
 [
-    [ "CorpseExplosionCheck", "d1/d31/a24750.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
-    [ "operator()", "d1/d31/a24750.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
-    [ "_allowGhoul", "d1/d31/a24750.html#abd42a0731af969ceccdfceae722ba276", null ],
-    [ "_casterGUID", "d1/d31/a24750.html#a497df87745f452716c652e9b1be6d46f", null ]
+    [ "CheckProc", "d1/d31/a24750.html#a1b7b855383b04bd1b627c6f1e33ad7a5", null ],
+    [ "HandleProc", "d1/d31/a24750.html#a726af9faf0170050f662cb1cc99e6ec8", null ],
+    [ "PrepareAuraScript", "d1/d31/a24750.html#a204655e4eea1cf8694c62ddae6d5a760", null ],
+    [ "Register", "d1/d31/a24750.html#a23e8088d6d9626ec4c3f8fc6e66c1e24", null ],
+    [ "Validate", "d1/d31/a24750.html#a5a3006bb5d54d68b8eb529a8c680c5c0", null ]
 ];

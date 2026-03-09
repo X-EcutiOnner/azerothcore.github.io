@@ -1,12 +1,21 @@
 var a12966 =
 [
-    [ "boss_bigbadwolf", "d7/d03/a12966.html#a1e4ad63c96d64f81e8b9ea82f118cdcc", null ],
-    [ "EnterEvadeMode", "d7/d03/a12966.html#a4f2d5307f5d05ed58bfc200f53bf2969", null ],
-    [ "JustDied", "d7/d03/a12966.html#a167083a43e00a60e9c3792cadaf6e80c", null ],
-    [ "JustEngagedWith", "d7/d03/a12966.html#a529fad938a0ef7261f1c2d589b6ff29c", null ],
-    [ "JustReachedHome", "d7/d03/a12966.html#a7755bf925d919c73075a41f8774280c0", null ],
-    [ "KilledUnit", "d7/d03/a12966.html#a8e004a1feac796ed467eba744f211827", null ],
-    [ "UpdateAI", "d7/d03/a12966.html#ab788a0155a3ffe6535d58263eea16dee", null ],
-    [ "_scheduler", "d7/d03/a12966.html#a661d9b619be30764ba5b89d71de870e9", null ],
-    [ "instance", "d7/d03/a12966.html#aed0e9edc52f13b7b0cfa5047849c26a9", null ]
+    [ "boss_majordomoAI", "d7/d03/a12966.html#a55c13b164aa2d0bc2bd4a18f3043fca2", null ],
+    [ "CanAIAttack", "d7/d03/a12966.html#adcd7b8ced551c2ee3868f6586778ca64", null ],
+    [ "DamageTaken", "d7/d03/a12966.html#a7cc99275d0b798a56aeb189f364669e9", null ],
+    [ "DoAction", "d7/d03/a12966.html#ae3820f98568287d44b6366416f858858", null ],
+    [ "InitializeAI", "d7/d03/a12966.html#ae3adee89e63c289f1dd38e0f7700e67b", null ],
+    [ "JustDied", "d7/d03/a12966.html#a8db4401bfec6986abe2490e1bb05b9ee", null ],
+    [ "JustEngagedWith", "d7/d03/a12966.html#a8ff20148be5869f2ab4bb8d66f2fea5b", null ],
+    [ "JustReachedHome", "d7/d03/a12966.html#aaeccf6f1c74dc1109b3b0968f5cc57c6", null ],
+    [ "JustSummoned", "d7/d03/a12966.html#a51bea2ba94084c0ea6a8da98f08e02ce", null ],
+    [ "KilledUnit", "d7/d03/a12966.html#a986f347bfe35f17fada815595825b547", null ],
+    [ "MovementInform", "d7/d03/a12966.html#a49ed1d7da066305a46ab99fbd897572a", null ],
+    [ "Reset", "d7/d03/a12966.html#aba684c09253ba1cccf788fbf01a10d71", null ],
+    [ "SpellHit", "d7/d03/a12966.html#ae40ac9fdd49c182daff81f411d316bb4", null ],
+    [ "SummonedCreatureDies", "d7/d03/a12966.html#af1e7213b798cdab457d8b32024da414e", null ],
+    [ "UpdateAI", "d7/d03/a12966.html#ae3b52ef5527ab932d1bfa479ed767b0f", null ],
+    [ "aliveMinionsGUIDS", "d7/d03/a12966.html#a9571e4fca8a95459d9037e656ecd6454", null ],
+    [ "majordomoSummonsData", "d7/d03/a12966.html#a2cf09a0ea3428cd7f49e00b0ab629c3e", null ],
+    [ "static_minionsGUIDS", "d7/d03/a12966.html#ab06ea927cb87aabbd5367399cb2b17eb", null ]
 ];

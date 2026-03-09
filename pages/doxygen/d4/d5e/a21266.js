@@ -1,6 +1,16 @@
 var a21266 =
 [
-    [ "instance_utgarde_keep_InstanceMapScript", "d8/d63/a21270.html", "d8/d63/a21270" ],
-    [ "instance_utgarde_keep", "d4/d5e/a21266.html#abe013e4f086f63722a6398b2b7928c80", null ],
-    [ "GetInstanceScript", "d4/d5e/a21266.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
+    [ "boss_emalonAI", "d4/d5e/a21266.html#ac87b3ea34e9781f3843321ef874321fe", null ],
+    [ "AttackStart", "d4/d5e/a21266.html#ab08f49aabe76b623496da2fc0198a6c1", null ],
+    [ "JustDied", "d4/d5e/a21266.html#a79a05156b690140e955a6e850ac41e5b", null ],
+    [ "JustEngagedWith", "d4/d5e/a21266.html#a9a3b4e6df73586125c0369aa2d3666df", null ],
+    [ "JustSummoned", "d4/d5e/a21266.html#a895f302d336faa0c3f93854314d3b427", null ],
+    [ "Reset", "d4/d5e/a21266.html#ae5d33f728077d5bbc3b7d74db8015f5d", null ],
+    [ "ResetSummons", "d4/d5e/a21266.html#a7df4da85c40ba1c34063df9b2df5874b", null ],
+    [ "SpellHitTarget", "d4/d5e/a21266.html#a2c60642848b73bc00d1a8244d4fb4733", null ],
+    [ "SummonedCreatureDies", "d4/d5e/a21266.html#a25a18c4d110b407c5fcf09c14444e8b0", null ],
+    [ "UpdateAI", "d4/d5e/a21266.html#a4701d5a77b6ae7ce3432c81b7b6d14cf", null ],
+    [ "events", "d4/d5e/a21266.html#a78312371e28b4be3c072dc870370b577", null ],
+    [ "pInstance", "d4/d5e/a21266.html#af4cc6489905f9702999cc23fd6a920c2", null ],
+    [ "summons", "d4/d5e/a21266.html#a1b6ccd418114e57a0c843cc980a56243", null ]
 ];

@@ -1,6 +1,7 @@
 var a16722 =
 [
-    [ "npc_fel_infernalAI", "d2/dea/a16726.html", "d2/dea/a16726" ],
-    [ "npc_fel_infernal", "d6/d21/a16722.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
-    [ "GetAI", "d6/d21/a16722.html#a768201a7516c9972800c941cf2079a11", null ]
+    [ "CountAllies", "d6/d21/a16722.html#a207c1fd89fd726054a881e342391d2a0", null ],
+    [ "PrepareSpellScript", "d6/d21/a16722.html#ae1e230ad204a280a261ebe0f21c7f8a5", null ],
+    [ "Register", "d6/d21/a16722.html#a47574795b2a262625c65ab23a4179684", null ],
+    [ "Validate", "d6/d21/a16722.html#a0178e7c4f5509a4bb2c6ed3811fc9685", null ]
 ];

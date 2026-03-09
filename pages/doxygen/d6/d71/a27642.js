@@ -1,5 +1,7 @@
 var a27642 =
 [
-    [ "item_disgusting_jar", "d6/d71/a27642.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
-    [ "OnExpire", "d6/d71/a27642.html#a4f6967035a4d247914a6034fcebac5c5", null ]
+    [ "HandleAuraApply", "d6/d71/a27642.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
+    [ "HandleAuraRemove", "d6/d71/a27642.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
+    [ "PrepareAuraScript", "d6/d71/a27642.html#a5c7d7c0b8880128121d66d39094f1965", null ],
+    [ "Register", "d6/d71/a27642.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
 ];

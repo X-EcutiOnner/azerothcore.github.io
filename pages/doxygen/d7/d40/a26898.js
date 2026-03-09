@@ -1,9 +1,8 @@
 var a26898 =
 [
-    [ "HandleHeal", "d7/d40/a26898.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
-    [ "Load", "d7/d40/a26898.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
-    [ "PrepareSpellScript", "d7/d40/a26898.html#a91eb46af707897f228e5d1bbd199a833", null ],
-    [ "Register", "d7/d40/a26898.html#ae28f1b0c23511153eafc037cae067bc0", null ],
-    [ "firstHeal", "d7/d40/a26898.html#a405326e6e1cd82816aef1712fdf335a0", null ],
-    [ "riptide", "d7/d40/a26898.html#acaec32f6730bc2e04e613aa982d285bf", null ]
+    [ "CalculateAmount", "d7/d40/a26898.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
+    [ "PrepareAuraScript", "d7/d40/a26898.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
+    [ "ReflectDamage", "d7/d40/a26898.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
+    [ "Register", "d7/d40/a26898.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
+    [ "Validate", "d7/d40/a26898.html#af2936ba4a29fc8735a3cabe805c77355", null ]
 ];

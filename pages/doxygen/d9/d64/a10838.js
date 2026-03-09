@@ -1,7 +1,6 @@
 var a10838 =
 [
-    [ "SwapInventoryItem", "d9/d64/a10838.html#a26e2887fe352de8a8c5d9d65ba598460", null ],
-    [ "Read", "d9/d64/a10838.html#ae81c9c5566e1f7e1c8d6915f9620d5b4", null ],
-    [ "DestinationSlot", "d9/d64/a10838.html#aaaca9b79b11d152cf1c4b273e8f47679", null ],
-    [ "SourceSlot", "d9/d64/a10838.html#a59117b7ce21919acc55b3da079050dc3", null ]
+    [ "SetSheathed", "d9/d64/a10838.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
+    [ "Read", "d9/d64/a10838.html#ae2158689450e3a9207b6992ea5223106", null ],
+    [ "CurrentSheathState", "d9/d64/a10838.html#a8363787ac7959f19234def2707ef0b32", null ]
 ];

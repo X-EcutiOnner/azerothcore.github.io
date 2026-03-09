@@ -1,12 +1,5 @@
 var a28362 =
 [
-    [ "ID", "d3/dae/a28362.html#a84ba697182123cb3e7dd3ba07241e971", null ],
-    [ "maxScale", "d3/dae/a28362.html#a23ca0ae7c45790a24f58546970194abf", null ],
-    [ "maxScaleLevel", "d3/dae/a28362.html#ad5d722d74bc08d4de3edd54c2f24addb", null ],
-    [ "minScale", "d3/dae/a28362.html#a3eacdd8639c6dd25dbd3205a58860cf9", null ],
-    [ "minScaleLevel", "d3/dae/a28362.html#a49d9d7847cc4d54891d83166eb277740", null ],
-    [ "Name", "d3/dae/a28362.html#a937fc579ab2790f4a972f07d3453a762", null ],
-    [ "petFoodMask", "d3/dae/a28362.html#a4d9dd8baa3f7981633248513bb25f4ca", null ],
-    [ "petTalentType", "d3/dae/a28362.html#a802000cefb6c4d357edfc45cc291e21e", null ],
-    [ "skillLine", "d3/dae/a28362.html#ad4498d40b31d18742ee4ac235cb58a2e", null ]
+    [ "item_incendiary_explosives", "d3/dae/a28362.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
+    [ "OnUse", "d3/dae/a28362.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
 ];

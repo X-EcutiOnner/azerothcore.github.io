@@ -1,6 +1,6 @@
 var a15538 =
 [
-    [ "npc_stillpine_capitiveAI", "de/d2f/a15542.html", "de/d2f/a15542" ],
-    [ "npc_stillpine_capitive", "d4/d0b/a15538.html#a6c9ce06ffe8cafaea2f428ba610d6964", null ],
-    [ "GetAI", "d4/d0b/a15538.html#ad1d81ae43d3c417b8817da61afef4e4b", null ]
+    [ "HandleScript", "d4/d0b/a15538.html#a7e6ec873a252106ba865bdef05f757f5", null ],
+    [ "PrepareSpellScript", "d4/d0b/a15538.html#a98e80c8726c350aca850b6c87c5861da", null ],
+    [ "Register", "d4/d0b/a15538.html#a994bb1f4670d16f6797b9e0df1d8c36c", null ]
 ];

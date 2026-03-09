@@ -1,6 +1,6 @@
 var a21526 =
 [
-    [ "boss_moraggAI", "de/dd5/a21530.html", "de/dd5/a21530" ],
-    [ "boss_moragg", "d6/dce/a21526.html#aeb43f9cc4c41f049fd0a13e79cadfcd1", null ],
-    [ "GetAI", "d6/dce/a21526.html#a5ea2f210038b3e44bf2cb9c402e1b761", null ]
+    [ "npc_sinkhole_kill_creditAI", "de/dd5/a21530.html", "de/dd5/a21530" ],
+    [ "npc_sinkhole_kill_credit", "d6/dce/a21526.html#a627d01aaaa3408986f2b4d171624e680", null ],
+    [ "GetAI", "d6/dce/a21526.html#a4d734432f132bea2c4525d049fbcfa67", null ]
 ];

@@ -1,12 +1,23 @@
 var a10382 =
 [
-    [ "GroupScript", "dc/ddf/a10382.html#a0680f82522424afc364e9b94e1c6f686", null ],
-    [ "CanGroupJoinBattlegroundQueue", "dc/ddf/a10382.html#a931b4a94a2f95958579b37c0af6ece03", null ],
-    [ "IsDatabaseBound", "dc/ddf/a10382.html#acb561e8a2d5b3542e228a7beb8122fbf", null ],
-    [ "OnAddMember", "dc/ddf/a10382.html#adb279c4c0ba60ffea994f35cd7e91ad1", null ],
-    [ "OnChangeLeader", "dc/ddf/a10382.html#a64a1441fd3db3f25236691efcff4a80b", null ],
-    [ "OnCreate", "dc/ddf/a10382.html#a18973a7e5f260712f032ca1129d4a0bc", null ],
-    [ "OnDisband", "dc/ddf/a10382.html#a3cb94966ba1d02180fb3e7cf95000e5f", null ],
-    [ "OnInviteMember", "dc/ddf/a10382.html#a2ae925dc27708fdaa4d5909b582b77a7", null ],
-    [ "OnRemoveMember", "dc/ddf/a10382.html#adf640b01746ee92fed31670ee5cc8d0f", null ]
+    [ "LengthArray", "dc/ddf/a10382.html#a20cf3df436c8fc337019cb8dbd4fc74f", null ],
+    [ "LengthType", "dc/ddf/a10382.html#a5bbffaf9ea67b7747d5c0749d38162fb", null ],
+    [ "Spline", "dc/ddf/a10382.html#a9aaaf0914627ffdad08de010920fd626", null ],
+    [ "clear", "dc/ddf/a10382.html#a091e42262c66dff880bfa787c74a0bcc", null ],
+    [ "computeIndex", "dc/ddf/a10382.html#a69a59bf415f83e6770694799e3c905b1", null ],
+    [ "computeIndexInBounds", "dc/ddf/a10382.html#aa344531c5931b35d759830991174c6a0", null ],
+    [ "computeIndexInBounds", "dc/ddf/a10382.html#a97b872ca05f947444945860e04bb2651", null ],
+    [ "evaluate_derivative", "dc/ddf/a10382.html#ad4b8334bf969be613fdf68043b602fb1", null ],
+    [ "evaluate_derivative", "dc/ddf/a10382.html#ae0801ccc74dc971248f743cfadc248a3", null ],
+    [ "evaluate_percent", "dc/ddf/a10382.html#ae05046412e2825316172dc8b1cdac870", null ],
+    [ "evaluate_percent", "dc/ddf/a10382.html#a249fa3aa29b3baa59a5afec0e14c7ef5", null ],
+    [ "init_cyclic_spline", "dc/ddf/a10382.html#ada945b9cb6b0ec086679aba48aa79413", null ],
+    [ "init_spline", "dc/ddf/a10382.html#a4cc857f480a0a6531dac70fd520a89ed", null ],
+    [ "initLengths", "dc/ddf/a10382.html#ad1cdf5235b5a2a64f32125bcf9048094", null ],
+    [ "initLengths", "dc/ddf/a10382.html#a708b60c2b21178db578520dfd98af6f7", null ],
+    [ "length", "dc/ddf/a10382.html#aab929569bba2417387acd22f0634504d", null ],
+    [ "length", "dc/ddf/a10382.html#a6791d5411365109dffcc699170f03291", null ],
+    [ "length", "dc/ddf/a10382.html#a73b3a47713e07a5d07959a2eb17be87e", null ],
+    [ "set_length", "dc/ddf/a10382.html#a7c5aba567e41d196c8bf0faf175ed43e", null ],
+    [ "lengths", "dc/ddf/a10382.html#a307a7a746de042f0cd21f48797768afb", null ]
 ];

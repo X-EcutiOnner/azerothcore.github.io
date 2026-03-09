@@ -1,8 +1,5 @@
 var a12198 =
 [
-    [ "boss_doomrelAI", "d2/db3/a12202.html", "d2/db3/a12202" ],
-    [ "boss_doomrel", "df/d96/a12198.html#aee45a59f9a62f1d32a7dc344bd3c46c6", null ],
-    [ "GetAI", "df/d96/a12198.html#a1b8a95208506f79c00ed40be2d51eb38", null ],
-    [ "OnGossipHello", "df/d96/a12198.html#a3c544ae70c46a62ac7dd2fc5cca97c8b", null ],
-    [ "OnGossipSelect", "df/d96/a12198.html#ae430a8fef70bd46267482a70084049c1", null ]
+    [ "flag", "df/d96/a12198.html#abde26bce31a9153038294f78e9fdc18c", null ],
+    [ "text", "df/d96/a12198.html#a3bf2ae3fd8a347ee70e2c537d909ce30", null ]
 ];

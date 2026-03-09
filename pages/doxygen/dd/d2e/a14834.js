@@ -1,7 +1,5 @@
 var a14834 =
 [
-    [ "PeriodicTick", "dd/d2e/a14834.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
-    [ "PrepareAuraScript", "dd/d2e/a14834.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
-    [ "Register", "dd/d2e/a14834.html#a24058b120f4fa06b89f6d582c53a365a", null ],
-    [ "Validate", "dd/d2e/a14834.html#a093b09be5abde91a1487d67a7a554d30", null ]
+    [ "npc_cw_area_triggerAI", "dd/d2e/a14834.html#aede21e01dfe762922562b6f5d57bc406", null ],
+    [ "MoveInLineOfSight", "dd/d2e/a14834.html#a1fb90760dac1ae429429d84ed033aa7a", null ]
 ];

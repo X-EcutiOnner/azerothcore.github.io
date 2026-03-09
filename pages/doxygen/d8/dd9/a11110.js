@@ -1,10 +1,9 @@
 var a11110 =
 [
-    [ "WorldStateInfo", "de/d2b/a11114.html", "de/d2b/a11114" ],
-    [ "InitWorldStates", "d8/dd9/a11110.html#a9b1f27c7a07df6629473a6e9d6aa45b5", null ],
-    [ "Write", "d8/dd9/a11110.html#ad40588a16c7430a633c0537c82ea3a5b", null ],
-    [ "AreaID", "d8/dd9/a11110.html#a98ac08c68b5c004fd352f38c7084531f", null ],
-    [ "MapID", "d8/dd9/a11110.html#a657c3043204c6957e8438c3c3c7068f3", null ],
-    [ "Worldstates", "d8/dd9/a11110.html#a29ffba2a130f0b93d61b2025255502fb", null ],
-    [ "ZoneID", "d8/dd9/a11110.html#add07a226b1fe8ea752306b0e04d4ef71", null ]
+    [ "SwapItem", "d8/dd9/a11110.html#a603871bfd69a2bcc2083de350f48875a", null ],
+    [ "Read", "d8/dd9/a11110.html#a475122a155c96446ecad1b92ef5c7a19", null ],
+    [ "DestinationBag", "d8/dd9/a11110.html#a30a5a1fccf9c028fa207e58dd0ff82b6", null ],
+    [ "DestinationSlot", "d8/dd9/a11110.html#a0cf0b21ebfccb843ee23831e17982081", null ],
+    [ "SourceBag", "d8/dd9/a11110.html#a19d0895bf7a25da8d8bdaceed14ff0a1", null ],
+    [ "SourceSlot", "d8/dd9/a11110.html#ab080d55f63eb07c8db090123260bee23", null ]
 ];

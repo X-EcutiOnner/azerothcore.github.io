@@ -1,10 +1,7 @@
 var a14326 =
 [
-    [ "npc_zealot_zath", "dc/dfa/a14326.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
-    [ "JustDied", "dc/dfa/a14326.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
-    [ "JustEngagedWith", "dc/dfa/a14326.html#a25e059f40de51d880f4ec209ff4dd924", null ],
-    [ "Reset", "dc/dfa/a14326.html#abc4e40afd644f2c89444f3fe475817c0", null ],
-    [ "UpdateAI", "dc/dfa/a14326.html#a467ce2437ec112b42f864ef412c0c976", null ],
-    [ "_scheduler", "dc/dfa/a14326.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
-    [ "instance", "dc/dfa/a14326.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
+    [ "FilterTargets", "dc/dfa/a14326.html#aebe9055301495dd3a21736b9a2a35f31", null ],
+    [ "HandleDamageCalc", "dc/dfa/a14326.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
+    [ "PrepareSpellScript", "dc/dfa/a14326.html#a03b8e21e58988d9fc774205263c0817f", null ],
+    [ "Register", "dc/dfa/a14326.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
 ];

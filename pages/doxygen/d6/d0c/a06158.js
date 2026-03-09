@@ -1,8 +1,8 @@
 var a06158 =
 [
-    [ "PassiveAI", "d6/d0c/a06158.html#ad1ae1c9e8a101dabd89aeed5c71eb453", null ],
-    [ "AttackStart", "d6/d0c/a06158.html#ac2aeba8cb148659de1ef97733fbb0651", null ],
-    [ "MoveInLineOfSight", "d6/d0c/a06158.html#a3a54c7d7268b8c2f4e081a99b4b0cd11", null ],
-    [ "Permissible", "d6/d0c/a06158.html#a2960223799a5b3baedbdd7e664604865", null ],
-    [ "UpdateAI", "d6/d0c/a06158.html#ae8aa0cf612d23e5b9438e3f2b443f3d9", null ]
+    [ "UpdateResult", "d6/d0c/a06158.html#af32cdf09d32607955c98353fbfa7d392", null ],
+    [ "UpdateResult", "d6/d0c/a06158.html#a225eb6b9ff745dcd72d623ca79c007c6", null ],
+    [ "archived", "d6/d0c/a06158.html#adee274af5f5d6981e28b3587008d690c", null ],
+    [ "recent", "d6/d0c/a06158.html#aea54f4388b659def734957a47e9cca8c", null ],
+    [ "updated", "d6/d0c/a06158.html#a12b3fffe01639493fc405bd5a797f463", null ]
 ];

@@ -1,6 +1,6 @@
 var a17574 =
 [
-    [ "BloodboltHitCheck", "df/d32/a17574.html#a84873f1ec2c1e214e35d32954622e9af", null ],
-    [ "operator()", "df/d32/a17574.html#a1eddfd7bbea8def20dcc080413af6364", null ],
-    [ "_ai", "df/d32/a17574.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
+    [ "npc_pos_tyrannus_eventsAI", "dc/de0/a17578.html", "dc/de0/a17578" ],
+    [ "npc_pos_tyrannus_events", "df/d32/a17574.html#a9e61db8b2b30e86fc5e554b3f4d51b7c", null ],
+    [ "GetAI", "df/d32/a17574.html#ae5863e99d77815de71c1774e908b3f65", null ]
 ];

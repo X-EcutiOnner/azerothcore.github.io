@@ -1,8 +1,8 @@
 var a13538 =
 [
-    [ "OnPeriodic", "d1/d68/a13538.html#acd400b0a061d1814591e33d16bf4180a", null ],
-    [ "OnRemove", "d1/d68/a13538.html#a3da85c726007690220e9b4f81d30f185", null ],
-    [ "PrepareAuraScript", "d1/d68/a13538.html#a216d723f309ffa46df4bba7af79752c8", null ],
-    [ "Register", "d1/d68/a13538.html#a43fe84c2717d73e20a2562f596a84f36", null ],
-    [ "Validate", "d1/d68/a13538.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
+    [ "DelayedSummonEvent", "d1/d68/a13538.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
+    [ "Execute", "d1/d68/a13538.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
+    [ "_entry", "d1/d68/a13538.html#a24d72110a070eb0bd03af081ef616de4", null ],
+    [ "_owner", "d1/d68/a13538.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
+    [ "_pos", "d1/d68/a13538.html#aef19987803a1cce47cbd8d9005a288ac", null ]
 ];

@@ -1,6 +1,7 @@
 var a19434 =
 [
-    [ "npc_power_sparkAI", "de/df8/a19438.html", "de/df8/a19438" ],
-    [ "npc_power_spark", "d0/d67/a19434.html#a9efd2810feb5f90f9f12f51ec7282410", null ],
-    [ "GetAI", "d0/d67/a19434.html#a573198b86697d222c693581bf430453f", null ]
+    [ "npc_ioc_gunship_captainAI", "d0/d67/a19434.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
+    [ "DoAction", "d0/d67/a19434.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
+    [ "UpdateAI", "d0/d67/a19434.html#a222b304633143bba47d3edde67ea093b", null ],
+    [ "_events", "d0/d67/a19434.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Battlegrounds/ArenaHookDefaultsTest.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellProcChainGuardTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,42 +107,106 @@ $(document).ready(function(){initNavTree('d4/d2a/a00632.html','../../'); initRes
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">ArenaHookDefaultsTest.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">SpellProcChainGuardTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptDefines/ArenaScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptDefines/AllBattlegroundScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ArenaTeam.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldMock.h</a>&quot;</code><br />
+
+<p><a class="el" href="../../d4/d8e/a09018.html">Unit</a> tests for proc chain guard and TAKEN auto-trigger logic.  
+<a href="#details">More...</a></p>
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ProcEventInfoHelper.h</a>&quot;</code><br />
 <code>#include &quot;gtest/gtest.h&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d67/a29616.html">ArenaHookDefaultsTest</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a6677d75c2b2c5b8a1b910e5b7a943867"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a6677d75c2b2c5b8a1b910e5b7a943867">TEST_F</a> (<a class="el" href="../../d0/d67/a29616.html">ArenaHookDefaultsTest</a>, CanSaveToDBDefaultsTrue)</td></tr>
-<tr class="separator:a6677d75c2b2c5b8a1b910e5b7a943867"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab81f733e33491c5907ae23252337725c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#ab81f733e33491c5907ae23252337725c">TEST_F</a> (<a class="el" href="../../d0/d67/a29616.html">ArenaHookDefaultsTest</a>, OnBeforeArenaTeamMemberUpdateDefaultsTrue)</td></tr>
-<tr class="separator:ab81f733e33491c5907ae23252337725c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acede4c371594a1fd0528b8197fcc6cbb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#acede4c371594a1fd0528b8197fcc6cbb">TEST_F</a> (<a class="el" href="../../d0/d67/a29616.html">ArenaHookDefaultsTest</a>, CanSaveArenaStatsForMemberDefaultsTrue)</td></tr>
-<tr class="separator:acede4c371594a1fd0528b8197fcc6cbb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a107778bcf48a658ed6e9f2a52234d6d0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a107778bcf48a658ed6e9f2a52234d6d0">TEST_F</a> (<a class="el" href="../../d0/d67/a29616.html">ArenaHookDefaultsTest</a>, OnBeforeArenaCheckWinConditionsDefaultsTrue)</td></tr>
-<tr class="separator:a107778bcf48a658ed6e9f2a52234d6d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af7f1863961720e96f331f17dd1d7ad7a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#af7f1863961720e96f331f17dd1d7ad7a">TEST_F</a> (<a class="el" href="../../d0/d67/a29616.html">ArenaHookDefaultsTest</a>, CanAddGroupToMatchingPoolDefaultsTrue)</td></tr>
-<tr class="separator:af7f1863961720e96f331f17dd1d7ad7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abb810fe89abdcbd96e44ddf079e86cf3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#abb810fe89abdcbd96e44ddf079e86cf3">TEST_F</a> (<a class="el" href="../../d0/d67/a29616.html">ArenaHookDefaultsTest</a>, MemberUpdateCallingConventionAllowsByDefault)</td></tr>
-<tr class="separator:abb810fe89abdcbd96e44ddf079e86cf3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a64d33971444e0a18568e5f4ca968edd0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a64d33971444e0a18568e5f4ca968edd0">TEST_F</a> (<a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>, TakenProcTriggerSpell_SetsTriggeredCanProc)</td></tr>
+<tr class="separator:a64d33971444e0a18568e5f4ca968edd0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a08b5b072a5fa78fe96a38353673bc7d4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a08b5b072a5fa78fe96a38353673bc7d4">TEST_F</a> (<a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>, TakenProcTriggerDamage_SetsTriggeredCanProc)</td></tr>
+<tr class="separator:a08b5b072a5fa78fe96a38353673bc7d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4ce720b7e4e4c38b09b1634fa83e22b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#aa4ce720b7e4e4c38b09b1634fa83e22b">TEST_F</a> (<a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>, TakenProcOtherAura_DoesNotSetTriggeredCanProc)</td></tr>
+<tr class="separator:aa4ce720b7e4e4c38b09b1634fa83e22b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2e91af600e2c51ac8b213ccfbd828ff0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a2e91af600e2c51ac8b213ccfbd828ff0">TEST_F</a> (<a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>, DoneProcTriggerSpell_DoesNotSetTriggeredCanProc)</td></tr>
+<tr class="separator:a2e91af600e2c51ac8b213ccfbd828ff0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a382fdda4389c386542ab238b318743eb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a382fdda4389c386542ab238b318743eb">TEST_F</a> (<a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>, NoProcFlags_DoesNotSetTriggeredCanProc)</td></tr>
+<tr class="separator:a382fdda4389c386542ab238b318743eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4a527e8281339163309ca5e4d40fbe2e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a4a527e8281339163309ca5e4d40fbe2e">TEST_F</a> (<a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>, AlwaysTriggeredAura_StaysTrue)</td></tr>
+<tr class="separator:a4a527e8281339163309ca5e4d40fbe2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5aaff474c85003cc29134ae0d94cde23"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a5aaff474c85003cc29134ae0d94cde23">TEST_F</a> (<a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>, TakenDamage_WithProcTriggerSpell_SetsFlag)</td></tr>
+<tr class="separator:a5aaff474c85003cc29134ae0d94cde23"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a057a869b522ef7c027f230aab341d719"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a057a869b522ef7c027f230aab341d719">TEST_F</a> (<a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>, TakenPeriodic_WithProcTriggerDamage_SetsFlag)</td></tr>
+<tr class="separator:a057a869b522ef7c027f230aab341d719"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4a2e703f6c243762e1f78ac229311900"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a4a2e703f6c243762e1f78ac229311900">TEST_F</a> (<a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>, MixedDoneAndTaken_WithProcTriggerSpell_SetsFlag)</td></tr>
+<tr class="separator:a4a2e703f6c243762e1f78ac229311900"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6dff023d399c8508abe0e654a2e57531"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a6dff023d399c8508abe0e654a2e57531">TEST_F</a> (<a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>, TakenProcModAura_DoesNotSetTriggeredCanProc)</td></tr>
+<tr class="separator:a6dff023d399c8508abe0e654a2e57531"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7e52a749ce32f88ec54c45beba8e4294"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a7e52a749ce32f88ec54c45beba8e4294">TEST_F</a> (<a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>, Scenario_MoltenArmor_TakenAutoTrigger)</td></tr>
+<tr class="separator:a7e52a749ce32f88ec54c45beba8e4294"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aef227c5b7a8870a4a4846a12f06a187f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#aef227c5b7a8870a4a4846a12f06a187f">TEST_F</a> (<a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>, Scenario_Reckoning_TakenAutoTrigger)</td></tr>
+<tr class="separator:aef227c5b7a8870a4a4846a12f06a187f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad652c89536f5871bca0fcc7070961b06"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#ad652c89536f5871bca0fcc7070961b06">TEST_F</a> (<a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>, Scenario_Redoubt_TakenAutoTrigger)</td></tr>
+<tr class="separator:ad652c89536f5871bca0fcc7070961b06"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6f96584c668b3204d49226e736c38727"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a6f96584c668b3204d49226e736c38727">TEST_F</a> (<a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>, AutoGenTriggeredCanProc_AllowsTriggeredSpells)</td></tr>
+<tr class="separator:a6f96584c668b3204d49226e736c38727"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51240e8b59bee356e4a38c6b20fdf01b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a51240e8b59bee356e4a38c6b20fdf01b">TEST_F</a> (<a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>, WithoutAutoTrigger_TriggeredSpellsBlocked)</td></tr>
+<tr class="separator:a51240e8b59bee356e4a38c6b20fdf01b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5071a19c9d81a0c3ac637c0840edd597"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a5071a19c9d81a0c3ac637c0840edd597">TEST_F</a> (<a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>, DisallowProcEvents_BlocksAllAuras)</td></tr>
+<tr class="separator:a5071a19c9d81a0c3ac637c0840edd597"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7856746333fc36f6ea16d9a9277ac519"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a7856746333fc36f6ea16d9a9277ac519">TEST_F</a> (<a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>, DisallowProcEvents_CounterBalanced)</td></tr>
+<tr class="separator:a7856746333fc36f6ea16d9a9277ac519"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a59319505e14ebebd57b7770d0d755b71"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a59319505e14ebebd57b7770d0d755b71">TEST_F</a> (<a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>, NoDisallowProcEvents_AllAurasCanProc)</td></tr>
+<tr class="separator:a59319505e14ebebd57b7770d0d755b71"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a653b066b3e623a583d805d62372e5c18"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a653b066b3e623a583d805d62372e5c18">TEST_F</a> (<a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>, InstantTargetProcs_BlocksDuringSpecificAura)</td></tr>
+<tr class="separator:a653b066b3e623a583d805d62372e5c18"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a83710bb2e0c7104acdeccfd8a1b444ef"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a83710bb2e0c7104acdeccfd8a1b444ef">TEST_F</a> (<a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>, InstantTargetProcs_CounterBalanced)</td></tr>
+<tr class="separator:a83710bb2e0c7104acdeccfd8a1b444ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af64788b04390898c2b11975971964762"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#af64788b04390898c2b11975971964762">TEST_F</a> (<a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>, MultipleInstantTargetProcs_EachIndependent)</td></tr>
+<tr class="separator:af64788b04390898c2b11975971964762"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1f4b9781a25551b1db62d7597c50c08d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a1f4b9781a25551b1db62d7597c50c08d">TEST_F</a> (<a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>, Combined_DisallowAndInstantTarget_StackCorrectly)</td></tr>
+<tr class="separator:a1f4b9781a25551b1db62d7597c50c08d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a44d7b8fcb5451d7af2400ee6786e0d01"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a44d7b8fcb5451d7af2400ee6786e0d01">TEST_F</a> (<a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>, RemovedAura_SkippedInLoop)</td></tr>
+<tr class="separator:a44d7b8fcb5451d7af2400ee6786e0d01"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac32af2d080b092e1a34f33bfafcf1b9f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#ac32af2d080b092e1a34f33bfafcf1b9f">TEST_F</a> (<a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>, RemovedAuraWithInstantProcs_DoesNotAffectCounter)</td></tr>
+<tr class="separator:ac32af2d080b092e1a34f33bfafcf1b9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a87dbc3e6bbe7baafb6d210223df4e61a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a87dbc3e6bbe7baafb6d210223df4e61a">TEST_F</a> (<a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>, EmptyContainer_NoEffect)</td></tr>
+<tr class="separator:a87dbc3e6bbe7baafb6d210223df4e61a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3a2ffce7518701d4d117b4b4a98f3966"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a3a2ffce7518701d4d117b4b4a98f3966">TEST_F</a> (<a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>, EmptyContainer_WithDisallowProc_StillBalanced)</td></tr>
+<tr class="separator:a3a2ffce7518701d4d117b4b4a98f3966"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ada1040ceb9f7168d2314274d2361266f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#ada1040ceb9f7168d2314274d2361266f">TEST_F</a> (<a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>, Scenario_MoltenArmorVsEyeForAnEye)</td></tr>
+<tr class="separator:ada1040ceb9f7168d2314274d2361266f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4939b5a40863f8f9a90bcbe7fa13aa8b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a4939b5a40863f8f9a90bcbe7fa13aa8b">TEST_F</a> (<a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>, Scenario_SealOfRighteousness_TriggeredDamage)</td></tr>
+<tr class="separator:a4939b5a40863f8f9a90bcbe7fa13aa8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a496f1d12a189663af59c9a45c24e2231"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d2a/a00632.html#a496f1d12a189663af59c9a45c24e2231">TEST_F</a> (<a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>, Scenario_NormalMeleeHit_AurasCanProc)</td></tr>
+<tr class="separator:a496f1d12a189663af59c9a45c24e2231"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="af7f1863961720e96f331f17dd1d7ad7a" name="af7f1863961720e96f331f17dd1d7ad7a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af7f1863961720e96f331f17dd1d7ad7a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/6]</span></h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p ><a class="el" href="../../d4/d8e/a09018.html">Unit</a> tests for proc chain guard and TAKEN auto-trigger logic. </p>
+<p >Tests two fixes ported from TrinityCore:</p>
+<ol type="1">
+<li>Proc chain guard (<a class="el" href="../../d4/d8e/a09018.html#ae70846e14ba5bb30c24ed937e2e1ec7d">Unit::TriggerAurasProcOnEvent</a>):<ul>
+<li>TRIGGERED_DISALLOW_PROC_EVENTS on triggering spell blocks all cascading procs during the proc event</li>
+<li>SPELL_ATTR3_INSTANT_TARGET_PROCS on individual auras blocks cascading procs during that specific aura's proc trigger</li>
+<li>Prevents infinite proc loops between reactive damage auras (e.g. Molten Armor &lt;-&gt; Eye for an Eye)</li>
+</ul>
+</li>
+<li>TAKEN auto-trigger (<a class="el" href="../../dc/d7d/a11722.html#aeca13d7535faa653ad4de42e2cef9c48">SpellMgr::LoadSpellProcs</a> auto-generation):<ul>
+<li>TAKEN-proc auras with SPELL_AURA_PROC_TRIGGER_SPELL or SPELL_AURA_PROC_TRIGGER_DAMAGE automatically get PROC_ATTR_TRIGGERED_CAN_PROC so they can proc from triggered spells (e.g. Mage Armor proccing from Judgement) </li>
+</ul>
+</li>
+</ol>
+
+<p class="definition">Definition in file <a class="el" href="../../">SpellProcChainGuardTest.cpp</a>.</p>
+</div><h2 class="groupheader">Function Documentation</h2>
+<a id="a1f4b9781a25551b1db62d7597c50c08d" name="a1f4b9781a25551b1db62d7597c50c08d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1f4b9781a25551b1db62d7597c50c08d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/29]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -150,13 +214,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d67/a29616.html">ArenaHookDefaultsTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">CanAddGroupToMatchingPoolDefaultsTrue&#160;</td>
+          <td class="paramtype">Combined_DisallowAndInstantTarget_StackCorrectly&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -166,18 +230,39 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  105</span>{</div>
-<div class="line"><span class="lineno">  106</span>    EXPECT_TRUE(<a class="code hl_define" href="../../da/db7/a01088.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;CanAddGroupToMatchingPool(<span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, 0, <span class="keyword">nullptr</span>, <a class="code hl_enumeration" href="../../dc/d6d/a04802.html#a1ce5a7d59f519e0e96d66c360886e3eb">BattlegroundBracketId</a>(0)));</div>
-<div class="line"><span class="lineno">  107</span>}</div>
-<div class="ttc" id="aa01088_html_ae8161e629869974bc49b1cbfc73c1087"><div class="ttname"><a href="../../da/db7/a01088.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a></div><div class="ttdeci">#define sScriptMgr</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:732</div></div>
-<div class="ttc" id="aa04802_html_a1ce5a7d59f519e0e96d66c360886e3eb"><div class="ttname"><a href="../../dc/d6d/a04802.html#a1ce5a7d59f519e0e96d66c360886e3eb">BattlegroundBracketId</a></div><div class="ttdeci">BattlegroundBracketId</div><div class="ttdef"><b>Definition:</b> DBCEnums.h:46</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  429</span>{</div>
+<div class="line"><span class="lineno">  430</span>    std::vector&lt;ProcChainGuardSimulator::AuraConfig&gt; auras = {</div>
+<div class="line"><span class="lineno">  431</span>        {.spellId = 100, .hasInstantTargetProcs = <span class="keyword">false</span>},</div>
+<div class="line"><span class="lineno">  432</span>        {.spellId = 200, .hasInstantTargetProcs = <span class="keyword">true</span>},</div>
+<div class="line"><span class="lineno">  433</span>        {.spellId = 300, .hasInstantTargetProcs = <span class="keyword">false</span>},</div>
+<div class="line"><span class="lineno">  434</span>    };</div>
+<div class="line"><span class="lineno">  435</span> </div>
+<div class="line"><span class="lineno">  436</span>    _sim.SimulateTriggerAurasProc(<span class="comment">/*disallowProcEvents=*/</span><span class="keyword">true</span>, auras);</div>
+<div class="line"><span class="lineno">  437</span> </div>
+<div class="line"><span class="lineno">  438</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; records = _sim.GetRecords();</div>
+<div class="line"><span class="lineno">  439</span>    ASSERT_EQ(records.size(), 3u);</div>
+<div class="line"><span class="lineno">  440</span> </div>
+<div class="line"><span class="lineno">  441</span>    <span class="comment">// Aura 100: disableProcs active, procDeep=1</span></div>
+<div class="line"><span class="lineno">  442</span>    EXPECT_FALSE(records[0].canProcDuringTrigger);</div>
+<div class="line"><span class="lineno">  443</span>    EXPECT_EQ(records[0].procDeepDuringTrigger, 1);</div>
+<div class="line"><span class="lineno">  444</span> </div>
+<div class="line"><span class="lineno">  445</span>    <span class="comment">// Aura 200: disableProcs + INSTANT_TARGET_PROCS, procDeep=2</span></div>
+<div class="line"><span class="lineno">  446</span>    EXPECT_FALSE(records[1].canProcDuringTrigger);</div>
+<div class="line"><span class="lineno">  447</span>    EXPECT_EQ(records[1].procDeepDuringTrigger, 2)</div>
+<div class="line"><span class="lineno">  448</span>        &lt;&lt; <span class="stringliteral">&quot;DISALLOW_PROC_EVENTS + INSTANT_TARGET_PROCS should stack to 2&quot;</span>;</div>
+<div class="line"><span class="lineno">  449</span> </div>
+<div class="line"><span class="lineno">  450</span>    <span class="comment">// Aura 300: back to just disableProcs, procDeep=1</span></div>
+<div class="line"><span class="lineno">  451</span>    EXPECT_FALSE(records[2].canProcDuringTrigger);</div>
+<div class="line"><span class="lineno">  452</span>    EXPECT_EQ(records[2].procDeepDuringTrigger, 1);</div>
+<div class="line"><span class="lineno">  453</span> </div>
+<div class="line"><span class="lineno">  454</span>    EXPECT_EQ(_sim.GetProcDeep(), 0)</div>
+<div class="line"><span class="lineno">  455</span>        &lt;&lt; <span class="stringliteral">&quot;Counter should be balanced after combined scenario&quot;</span>;</div>
+<div class="line"><span class="lineno">  456</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00732">sScriptMgr</a>.</p>
-
 </div>
 </div>
-<a id="acede4c371594a1fd0528b8197fcc6cbb" name="acede4c371594a1fd0528b8197fcc6cbb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acede4c371594a1fd0528b8197fcc6cbb">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/6]</span></h2>
+<a id="a5071a19c9d81a0c3ac637c0840edd597" name="a5071a19c9d81a0c3ac637c0840edd597"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5071a19c9d81a0c3ac637c0840edd597">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/29]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -185,13 +270,728 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d67/a29616.html">ArenaHookDefaultsTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">CanSaveArenaStatsForMemberDefaultsTrue&#160;</td>
+          <td class="paramtype">DisallowProcEvents_BlocksAllAuras&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  292</span>{</div>
+<div class="line"><span class="lineno">  293</span>    <span class="comment">// When triggering spell has TRIGGERED_DISALLOW_PROC_EVENTS,</span></div>
+<div class="line"><span class="lineno">  294</span>    <span class="comment">// all auras should fire with CanProc() == false</span></div>
+<div class="line"><span class="lineno">  295</span>    std::vector&lt;ProcChainGuardSimulator::AuraConfig&gt; auras = {</div>
+<div class="line"><span class="lineno">  296</span>        {.spellId = 100, .hasInstantTargetProcs = <span class="keyword">false</span>},</div>
+<div class="line"><span class="lineno">  297</span>        {.spellId = 200, .hasInstantTargetProcs = <span class="keyword">false</span>},</div>
+<div class="line"><span class="lineno">  298</span>        {.spellId = 300, .hasInstantTargetProcs = <span class="keyword">false</span>},</div>
+<div class="line"><span class="lineno">  299</span>    };</div>
+<div class="line"><span class="lineno">  300</span> </div>
+<div class="line"><span class="lineno">  301</span>    _sim.SimulateTriggerAurasProc(<span class="comment">/*disallowProcEvents=*/</span><span class="keyword">true</span>, auras);</div>
+<div class="line"><span class="lineno">  302</span> </div>
+<div class="line"><span class="lineno">  303</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; records = _sim.GetRecords();</div>
+<div class="line"><span class="lineno">  304</span>    ASSERT_EQ(records.size(), 3u);</div>
+<div class="line"><span class="lineno">  305</span> </div>
+<div class="line"><span class="lineno">  306</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; rec : records)</div>
+<div class="line"><span class="lineno">  307</span>    {</div>
+<div class="line"><span class="lineno">  308</span>        EXPECT_FALSE(rec.canProcDuringTrigger)</div>
+<div class="line"><span class="lineno">  309</span>            &lt;&lt; <span class="stringliteral">&quot;Aura &quot;</span> &lt;&lt; rec.spellId</div>
+<div class="line"><span class="lineno">  310</span>            &lt;&lt; <span class="stringliteral">&quot; should have CanProc()=false with DISALLOW_PROC_EVENTS&quot;</span>;</div>
+<div class="line"><span class="lineno">  311</span>        EXPECT_EQ(rec.procDeepDuringTrigger, 1)</div>
+<div class="line"><span class="lineno">  312</span>            &lt;&lt; <span class="stringliteral">&quot;m_procDeep should be 1 for all auras&quot;</span>;</div>
+<div class="line"><span class="lineno">  313</span>    }</div>
+<div class="line"><span class="lineno">  314</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a7856746333fc36f6ea16d9a9277ac519" name="a7856746333fc36f6ea16d9a9277ac519"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7856746333fc36f6ea16d9a9277ac519">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">DisallowProcEvents_CounterBalanced&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  317</span>{</div>
+<div class="line"><span class="lineno">  318</span>    std::vector&lt;ProcChainGuardSimulator::AuraConfig&gt; auras = {</div>
+<div class="line"><span class="lineno">  319</span>        {.spellId = 100},</div>
+<div class="line"><span class="lineno">  320</span>    };</div>
+<div class="line"><span class="lineno">  321</span> </div>
+<div class="line"><span class="lineno">  322</span>    _sim.SimulateTriggerAurasProc(<span class="comment">/*disallowProcEvents=*/</span><span class="keyword">true</span>, auras);</div>
+<div class="line"><span class="lineno">  323</span> </div>
+<div class="line"><span class="lineno">  324</span>    EXPECT_EQ(_sim.GetProcDeep(), 0)</div>
+<div class="line"><span class="lineno">  325</span>        &lt;&lt; <span class="stringliteral">&quot;m_procDeep should return to 0 after function exits&quot;</span>;</div>
+<div class="line"><span class="lineno">  326</span>    EXPECT_TRUE(_sim.CanProc())</div>
+<div class="line"><span class="lineno">  327</span>        &lt;&lt; <span class="stringliteral">&quot;CanProc() should be true after function exits&quot;</span>;</div>
+<div class="line"><span class="lineno">  328</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a87dbc3e6bbe7baafb6d210223df4e61a" name="a87dbc3e6bbe7baafb6d210223df4e61a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a87dbc3e6bbe7baafb6d210223df4e61a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">EmptyContainer_NoEffect&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  502</span>{</div>
+<div class="line"><span class="lineno">  503</span>    std::vector&lt;ProcChainGuardSimulator::AuraConfig&gt; auras;</div>
+<div class="line"><span class="lineno">  504</span> </div>
+<div class="line"><span class="lineno">  505</span>    _sim.SimulateTriggerAurasProc(<span class="comment">/*disallowProcEvents=*/</span><span class="keyword">false</span>, auras);</div>
+<div class="line"><span class="lineno">  506</span> </div>
+<div class="line"><span class="lineno">  507</span>    EXPECT_EQ(_sim.GetRecords().size(), 0u);</div>
+<div class="line"><span class="lineno">  508</span>    EXPECT_EQ(_sim.GetProcDeep(), 0);</div>
+<div class="line"><span class="lineno">  509</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a3a2ffce7518701d4d117b4b4a98f3966" name="a3a2ffce7518701d4d117b4b4a98f3966"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3a2ffce7518701d4d117b4b4a98f3966">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">EmptyContainer_WithDisallowProc_StillBalanced&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  512</span>{</div>
+<div class="line"><span class="lineno">  513</span>    std::vector&lt;ProcChainGuardSimulator::AuraConfig&gt; auras;</div>
+<div class="line"><span class="lineno">  514</span> </div>
+<div class="line"><span class="lineno">  515</span>    _sim.SimulateTriggerAurasProc(<span class="comment">/*disallowProcEvents=*/</span><span class="keyword">true</span>, auras);</div>
+<div class="line"><span class="lineno">  516</span> </div>
+<div class="line"><span class="lineno">  517</span>    EXPECT_EQ(_sim.GetRecords().size(), 0u);</div>
+<div class="line"><span class="lineno">  518</span>    EXPECT_EQ(_sim.GetProcDeep(), 0)</div>
+<div class="line"><span class="lineno">  519</span>        &lt;&lt; <span class="stringliteral">&quot;Even with disableProcs and empty container, counter should balance&quot;</span>;</div>
+<div class="line"><span class="lineno">  520</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a653b066b3e623a583d805d62372e5c18" name="a653b066b3e623a583d805d62372e5c18"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a653b066b3e623a583d805d62372e5c18">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">InstantTargetProcs_BlocksDuringSpecificAura&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  356</span>{</div>
+<div class="line"><span class="lineno">  357</span>    std::vector&lt;ProcChainGuardSimulator::AuraConfig&gt; auras = {</div>
+<div class="line"><span class="lineno">  358</span>        {.spellId = 100, .hasInstantTargetProcs = <span class="keyword">false</span>},</div>
+<div class="line"><span class="lineno">  359</span>        {.spellId = 200, .hasInstantTargetProcs = <span class="keyword">true</span>},   <span class="comment">// This one blocks</span></div>
+<div class="line"><span class="lineno">  360</span>        {.spellId = 300, .hasInstantTargetProcs = <span class="keyword">false</span>},</div>
+<div class="line"><span class="lineno">  361</span>    };</div>
+<div class="line"><span class="lineno">  362</span> </div>
+<div class="line"><span class="lineno">  363</span>    _sim.SimulateTriggerAurasProc(<span class="comment">/*disallowProcEvents=*/</span><span class="keyword">false</span>, auras);</div>
+<div class="line"><span class="lineno">  364</span> </div>
+<div class="line"><span class="lineno">  365</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; records = _sim.GetRecords();</div>
+<div class="line"><span class="lineno">  366</span>    ASSERT_EQ(records.size(), 3u);</div>
+<div class="line"><span class="lineno">  367</span> </div>
+<div class="line"><span class="lineno">  368</span>    <span class="comment">// Aura 100: normal, can proc</span></div>
+<div class="line"><span class="lineno">  369</span>    EXPECT_TRUE(records[0].canProcDuringTrigger)</div>
+<div class="line"><span class="lineno">  370</span>        &lt;&lt; <span class="stringliteral">&quot;First aura (no INSTANT_TARGET_PROCS) should allow procs&quot;</span>;</div>
+<div class="line"><span class="lineno">  371</span>    EXPECT_EQ(records[0].procDeepDuringTrigger, 0);</div>
+<div class="line"><span class="lineno">  372</span> </div>
+<div class="line"><span class="lineno">  373</span>    <span class="comment">// Aura 200: has INSTANT_TARGET_PROCS, blocked</span></div>
+<div class="line"><span class="lineno">  374</span>    EXPECT_FALSE(records[1].canProcDuringTrigger)</div>
+<div class="line"><span class="lineno">  375</span>        &lt;&lt; <span class="stringliteral">&quot;Aura with INSTANT_TARGET_PROCS should block procs during its trigger&quot;</span>;</div>
+<div class="line"><span class="lineno">  376</span>    EXPECT_EQ(records[1].procDeepDuringTrigger, 1);</div>
+<div class="line"><span class="lineno">  377</span> </div>
+<div class="line"><span class="lineno">  378</span>    <span class="comment">// Aura 300: normal again, can proc (counter was decremented)</span></div>
+<div class="line"><span class="lineno">  379</span>    EXPECT_TRUE(records[2].canProcDuringTrigger)</div>
+<div class="line"><span class="lineno">  380</span>        &lt;&lt; <span class="stringliteral">&quot;Next aura after INSTANT_TARGET_PROCS should allow procs again&quot;</span>;</div>
+<div class="line"><span class="lineno">  381</span>    EXPECT_EQ(records[2].procDeepDuringTrigger, 0);</div>
+<div class="line"><span class="lineno">  382</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a83710bb2e0c7104acdeccfd8a1b444ef" name="a83710bb2e0c7104acdeccfd8a1b444ef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a83710bb2e0c7104acdeccfd8a1b444ef">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">InstantTargetProcs_CounterBalanced&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  385</span>{</div>
+<div class="line"><span class="lineno">  386</span>    std::vector&lt;ProcChainGuardSimulator::AuraConfig&gt; auras = {</div>
+<div class="line"><span class="lineno">  387</span>        {.spellId = 100, .hasInstantTargetProcs = <span class="keyword">true</span>},</div>
+<div class="line"><span class="lineno">  388</span>    };</div>
+<div class="line"><span class="lineno">  389</span> </div>
+<div class="line"><span class="lineno">  390</span>    _sim.SimulateTriggerAurasProc(<span class="comment">/*disallowProcEvents=*/</span><span class="keyword">false</span>, auras);</div>
+<div class="line"><span class="lineno">  391</span> </div>
+<div class="line"><span class="lineno">  392</span>    EXPECT_EQ(_sim.GetProcDeep(), 0)</div>
+<div class="line"><span class="lineno">  393</span>        &lt;&lt; <span class="stringliteral">&quot;m_procDeep should return to 0 after INSTANT_TARGET_PROCS aura&quot;</span>;</div>
+<div class="line"><span class="lineno">  394</span>    EXPECT_TRUE(_sim.CanProc());</div>
+<div class="line"><span class="lineno">  395</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="af64788b04390898c2b11975971964762" name="af64788b04390898c2b11975971964762"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af64788b04390898c2b11975971964762">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">MultipleInstantTargetProcs_EachIndependent&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  398</span>{</div>
+<div class="line"><span class="lineno">  399</span>    std::vector&lt;ProcChainGuardSimulator::AuraConfig&gt; auras = {</div>
+<div class="line"><span class="lineno">  400</span>        {.spellId = 100, .hasInstantTargetProcs = <span class="keyword">true</span>},</div>
+<div class="line"><span class="lineno">  401</span>        {.spellId = 200, .hasInstantTargetProcs = <span class="keyword">true</span>},</div>
+<div class="line"><span class="lineno">  402</span>        {.spellId = 300, .hasInstantTargetProcs = <span class="keyword">true</span>},</div>
+<div class="line"><span class="lineno">  403</span>    };</div>
+<div class="line"><span class="lineno">  404</span> </div>
+<div class="line"><span class="lineno">  405</span>    _sim.SimulateTriggerAurasProc(<span class="comment">/*disallowProcEvents=*/</span><span class="keyword">false</span>, auras);</div>
+<div class="line"><span class="lineno">  406</span> </div>
+<div class="line"><span class="lineno">  407</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; records = _sim.GetRecords();</div>
+<div class="line"><span class="lineno">  408</span>    ASSERT_EQ(records.size(), 3u);</div>
+<div class="line"><span class="lineno">  409</span> </div>
+<div class="line"><span class="lineno">  410</span>    <span class="comment">// Each aura should independently block during its own trigger</span></div>
+<div class="line"><span class="lineno">  411</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; rec : records)</div>
+<div class="line"><span class="lineno">  412</span>    {</div>
+<div class="line"><span class="lineno">  413</span>        EXPECT_FALSE(rec.canProcDuringTrigger)</div>
+<div class="line"><span class="lineno">  414</span>            &lt;&lt; <span class="stringliteral">&quot;Aura &quot;</span> &lt;&lt; rec.spellId</div>
+<div class="line"><span class="lineno">  415</span>            &lt;&lt; <span class="stringliteral">&quot; with INSTANT_TARGET_PROCS should block during trigger&quot;</span>;</div>
+<div class="line"><span class="lineno">  416</span>        EXPECT_EQ(rec.procDeepDuringTrigger, 1)</div>
+<div class="line"><span class="lineno">  417</span>            &lt;&lt; <span class="stringliteral">&quot;Each aura should increment to exactly 1 (not accumulate)&quot;</span>;</div>
+<div class="line"><span class="lineno">  418</span>    }</div>
+<div class="line"><span class="lineno">  419</span> </div>
+<div class="line"><span class="lineno">  420</span>    EXPECT_EQ(_sim.GetProcDeep(), 0)</div>
+<div class="line"><span class="lineno">  421</span>        &lt;&lt; <span class="stringliteral">&quot;Counter should be balanced after all auras processed&quot;</span>;</div>
+<div class="line"><span class="lineno">  422</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a59319505e14ebebd57b7770d0d755b71" name="a59319505e14ebebd57b7770d0d755b71"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a59319505e14ebebd57b7770d0d755b71">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">NoDisallowProcEvents_AllAurasCanProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  331</span>{</div>
+<div class="line"><span class="lineno">  332</span>    std::vector&lt;ProcChainGuardSimulator::AuraConfig&gt; auras = {</div>
+<div class="line"><span class="lineno">  333</span>        {.spellId = 100, .hasInstantTargetProcs = <span class="keyword">false</span>},</div>
+<div class="line"><span class="lineno">  334</span>        {.spellId = 200, .hasInstantTargetProcs = <span class="keyword">false</span>},</div>
+<div class="line"><span class="lineno">  335</span>    };</div>
+<div class="line"><span class="lineno">  336</span> </div>
+<div class="line"><span class="lineno">  337</span>    _sim.SimulateTriggerAurasProc(<span class="comment">/*disallowProcEvents=*/</span><span class="keyword">false</span>, auras);</div>
+<div class="line"><span class="lineno">  338</span> </div>
+<div class="line"><span class="lineno">  339</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; records = _sim.GetRecords();</div>
+<div class="line"><span class="lineno">  340</span>    ASSERT_EQ(records.size(), 2u);</div>
+<div class="line"><span class="lineno">  341</span> </div>
+<div class="line"><span class="lineno">  342</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; rec : records)</div>
+<div class="line"><span class="lineno">  343</span>    {</div>
+<div class="line"><span class="lineno">  344</span>        EXPECT_TRUE(rec.canProcDuringTrigger)</div>
+<div class="line"><span class="lineno">  345</span>            &lt;&lt; <span class="stringliteral">&quot;Aura &quot;</span> &lt;&lt; rec.spellId</div>
+<div class="line"><span class="lineno">  346</span>            &lt;&lt; <span class="stringliteral">&quot; should have CanProc()=true without DISALLOW_PROC_EVENTS&quot;</span>;</div>
+<div class="line"><span class="lineno">  347</span>        EXPECT_EQ(rec.procDeepDuringTrigger, 0);</div>
+<div class="line"><span class="lineno">  348</span>    }</div>
+<div class="line"><span class="lineno">  349</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a44d7b8fcb5451d7af2400ee6786e0d01" name="a44d7b8fcb5451d7af2400ee6786e0d01"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a44d7b8fcb5451d7af2400ee6786e0d01">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">RemovedAura_SkippedInLoop&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  463</span>{</div>
+<div class="line"><span class="lineno">  464</span>    std::vector&lt;ProcChainGuardSimulator::AuraConfig&gt; auras = {</div>
+<div class="line"><span class="lineno">  465</span>        {.spellId = 100, .hasInstantTargetProcs = <span class="keyword">false</span>, .isRemoved = <span class="keyword">false</span>},</div>
+<div class="line"><span class="lineno">  466</span>        {.spellId = 200, .hasInstantTargetProcs = <span class="keyword">true</span>,  .isRemoved = <span class="keyword">true</span>},</div>
+<div class="line"><span class="lineno">  467</span>        {.spellId = 300, .hasInstantTargetProcs = <span class="keyword">false</span>, .isRemoved = <span class="keyword">false</span>},</div>
+<div class="line"><span class="lineno">  468</span>    };</div>
+<div class="line"><span class="lineno">  469</span> </div>
+<div class="line"><span class="lineno">  470</span>    _sim.SimulateTriggerAurasProc(<span class="comment">/*disallowProcEvents=*/</span><span class="keyword">false</span>, auras);</div>
+<div class="line"><span class="lineno">  471</span> </div>
+<div class="line"><span class="lineno">  472</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; records = _sim.GetRecords();</div>
+<div class="line"><span class="lineno">  473</span>    ASSERT_EQ(records.size(), 2u)</div>
+<div class="line"><span class="lineno">  474</span>        &lt;&lt; <span class="stringliteral">&quot;Removed aura should be skipped&quot;</span>;</div>
+<div class="line"><span class="lineno">  475</span> </div>
+<div class="line"><span class="lineno">  476</span>    EXPECT_EQ(records[0].spellId, 100u);</div>
+<div class="line"><span class="lineno">  477</span>    EXPECT_EQ(records[1].spellId, 300u);</div>
+<div class="line"><span class="lineno">  478</span> </div>
+<div class="line"><span class="lineno">  479</span>    <span class="comment">// The INSTANT_TARGET_PROCS aura was removed, so it shouldn&#39;t affect</span></div>
+<div class="line"><span class="lineno">  480</span>    <span class="comment">// the counter for the next aura</span></div>
+<div class="line"><span class="lineno">  481</span>    EXPECT_TRUE(records[1].canProcDuringTrigger);</div>
+<div class="line"><span class="lineno">  482</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ac32af2d080b092e1a34f33bfafcf1b9f" name="ac32af2d080b092e1a34f33bfafcf1b9f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac32af2d080b092e1a34f33bfafcf1b9f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[11/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">RemovedAuraWithInstantProcs_DoesNotAffectCounter&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  485</span>{</div>
+<div class="line"><span class="lineno">  486</span>    std::vector&lt;ProcChainGuardSimulator::AuraConfig&gt; auras = {</div>
+<div class="line"><span class="lineno">  487</span>        {.spellId = 100, .hasInstantTargetProcs = <span class="keyword">true</span>, .isRemoved = <span class="keyword">true</span>},</div>
+<div class="line"><span class="lineno">  488</span>    };</div>
+<div class="line"><span class="lineno">  489</span> </div>
+<div class="line"><span class="lineno">  490</span>    _sim.SimulateTriggerAurasProc(<span class="comment">/*disallowProcEvents=*/</span><span class="keyword">false</span>, auras);</div>
+<div class="line"><span class="lineno">  491</span> </div>
+<div class="line"><span class="lineno">  492</span>    EXPECT_EQ(_sim.GetRecords().size(), 0u);</div>
+<div class="line"><span class="lineno">  493</span>    EXPECT_EQ(_sim.GetProcDeep(), 0)</div>
+<div class="line"><span class="lineno">  494</span>        &lt;&lt; <span class="stringliteral">&quot;Removed aura should not touch the proc deep counter&quot;</span>;</div>
+<div class="line"><span class="lineno">  495</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ada1040ceb9f7168d2314274d2361266f" name="ada1040ceb9f7168d2314274d2361266f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ada1040ceb9f7168d2314274d2361266f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[12/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_MoltenArmorVsEyeForAnEye&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  527</span>{</div>
+<div class="line"><span class="lineno">  528</span>    <span class="comment">// Molten Armor (43046) has SPELL_ATTR3_INSTANT_TARGET_PROCS</span></div>
+<div class="line"><span class="lineno">  529</span>    <span class="comment">// When Molten Armor deals fire damage to an attacker, that damage</span></div>
+<div class="line"><span class="lineno">  530</span>    <span class="comment">// should not trigger the attacker&#39;s reactive procs (Eye for an Eye)</span></div>
+<div class="line"><span class="lineno">  531</span>    <span class="comment">// back on the mage, preventing infinite ping-pong</span></div>
+<div class="line"><span class="lineno">  532</span> </div>
+<div class="line"><span class="lineno">  533</span>    <span class="comment">// Mage&#39;s perspective: paladin hits mage, mage&#39;s auras proc</span></div>
+<div class="line"><span class="lineno">  534</span>    std::vector&lt;ProcChainGuardSimulator::AuraConfig&gt; mageAuras = {</div>
+<div class="line"><span class="lineno">  535</span>        {.spellId = 43046, .hasInstantTargetProcs = <span class="keyword">true</span>},  <span class="comment">// Molten Armor</span></div>
+<div class="line"><span class="lineno">  536</span>    };</div>
+<div class="line"><span class="lineno">  537</span> </div>
+<div class="line"><span class="lineno">  538</span>    <span class="comment">// The paladin&#39;s melee hit is NOT TRIGGERED_DISALLOW_PROC_EVENTS</span></div>
+<div class="line"><span class="lineno">  539</span>    _sim.SimulateTriggerAurasProc(<span class="comment">/*disallowProcEvents=*/</span><span class="keyword">false</span>, mageAuras);</div>
+<div class="line"><span class="lineno">  540</span> </div>
+<div class="line"><span class="lineno">  541</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; records = _sim.GetRecords();</div>
+<div class="line"><span class="lineno">  542</span>    ASSERT_EQ(records.size(), 1u);</div>
+<div class="line"><span class="lineno">  543</span> </div>
+<div class="line"><span class="lineno">  544</span>    <span class="comment">// During Molten Armor&#39;s proc trigger, CanProc() is false</span></div>
+<div class="line"><span class="lineno">  545</span>    <span class="comment">// This means the fire damage it deals cannot trigger further procs</span></div>
+<div class="line"><span class="lineno">  546</span>    EXPECT_FALSE(records[0].canProcDuringTrigger)</div>
+<div class="line"><span class="lineno">  547</span>        &lt;&lt; <span class="stringliteral">&quot;Molten Armor proc should block cascading procs (prevents EfaE loop)&quot;</span>;</div>
+<div class="line"><span class="lineno">  548</span> </div>
+<div class="line"><span class="lineno">  549</span>    EXPECT_EQ(_sim.GetProcDeep(), 0)</div>
+<div class="line"><span class="lineno">  550</span>        &lt;&lt; <span class="stringliteral">&quot;Counter balanced after Molten Armor scenario&quot;</span>;</div>
+<div class="line"><span class="lineno">  551</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a496f1d12a189663af59c9a45c24e2231" name="a496f1d12a189663af59c9a45c24e2231"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a496f1d12a189663af59c9a45c24e2231">&#9670;&#160;</a></span>TEST_F() <span class="overload">[13/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_NormalMeleeHit_AurasCanProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  578</span>{</div>
+<div class="line"><span class="lineno">  579</span>    <span class="comment">// A normal melee swing should allow all auras to proc normally</span></div>
+<div class="line"><span class="lineno">  580</span>    <span class="comment">// (no DISALLOW_PROC_EVENTS, no INSTANT_TARGET_PROCS)</span></div>
+<div class="line"><span class="lineno">  581</span> </div>
+<div class="line"><span class="lineno">  582</span>    std::vector&lt;ProcChainGuardSimulator::AuraConfig&gt; targetAuras = {</div>
+<div class="line"><span class="lineno">  583</span>        {.spellId = 20177, .hasInstantTargetProcs = <span class="keyword">false</span>}, <span class="comment">// Reckoning</span></div>
+<div class="line"><span class="lineno">  584</span>        {.spellId = 20127, .hasInstantTargetProcs = <span class="keyword">false</span>}, <span class="comment">// Redoubt</span></div>
+<div class="line"><span class="lineno">  585</span>        {.spellId = 16958, .hasInstantTargetProcs = <span class="keyword">false</span>}, <span class="comment">// Blood Craze</span></div>
+<div class="line"><span class="lineno">  586</span>    };</div>
+<div class="line"><span class="lineno">  587</span> </div>
+<div class="line"><span class="lineno">  588</span>    _sim.SimulateTriggerAurasProc(<span class="comment">/*disallowProcEvents=*/</span><span class="keyword">false</span>, targetAuras);</div>
+<div class="line"><span class="lineno">  589</span> </div>
+<div class="line"><span class="lineno">  590</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; records = _sim.GetRecords();</div>
+<div class="line"><span class="lineno">  591</span>    ASSERT_EQ(records.size(), 3u);</div>
+<div class="line"><span class="lineno">  592</span> </div>
+<div class="line"><span class="lineno">  593</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; rec : records)</div>
+<div class="line"><span class="lineno">  594</span>    {</div>
+<div class="line"><span class="lineno">  595</span>        EXPECT_TRUE(rec.canProcDuringTrigger)</div>
+<div class="line"><span class="lineno">  596</span>            &lt;&lt; <span class="stringliteral">&quot;Aura &quot;</span> &lt;&lt; rec.spellId</div>
+<div class="line"><span class="lineno">  597</span>            &lt;&lt; <span class="stringliteral">&quot; should proc normally from a regular melee hit&quot;</span>;</div>
+<div class="line"><span class="lineno">  598</span>        EXPECT_EQ(rec.procDeepDuringTrigger, 0);</div>
+<div class="line"><span class="lineno">  599</span>    }</div>
+<div class="line"><span class="lineno">  600</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a4939b5a40863f8f9a90bcbe7fa13aa8b" name="a4939b5a40863f8f9a90bcbe7fa13aa8b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4939b5a40863f8f9a90bcbe7fa13aa8b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[14/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/daf/a29754.html">ProcChainGuardTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_SealOfRighteousness_TriggeredDamage&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  554</span>{</div>
+<div class="line"><span class="lineno">  555</span>    <span class="comment">// SoR bonus damage is triggered with TRIGGERED_DISALLOW_PROC_EVENTS</span></div>
+<div class="line"><span class="lineno">  556</span>    <span class="comment">// It should not trigger the target&#39;s reactive damage auras back</span></div>
+<div class="line"><span class="lineno">  557</span> </div>
+<div class="line"><span class="lineno">  558</span>    std::vector&lt;ProcChainGuardSimulator::AuraConfig&gt; targetAuras = {</div>
+<div class="line"><span class="lineno">  559</span>        {.spellId = 43046, .hasInstantTargetProcs = <span class="keyword">true</span>},  <span class="comment">// Molten Armor</span></div>
+<div class="line"><span class="lineno">  560</span>        {.spellId = 12345, .hasInstantTargetProcs = <span class="keyword">false</span>}, <span class="comment">// Some other aura</span></div>
+<div class="line"><span class="lineno">  561</span>    };</div>
+<div class="line"><span class="lineno">  562</span> </div>
+<div class="line"><span class="lineno">  563</span>    _sim.SimulateTriggerAurasProc(<span class="comment">/*disallowProcEvents=*/</span><span class="keyword">true</span>, targetAuras);</div>
+<div class="line"><span class="lineno">  564</span> </div>
+<div class="line"><span class="lineno">  565</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; records = _sim.GetRecords();</div>
+<div class="line"><span class="lineno">  566</span>    ASSERT_EQ(records.size(), 2u);</div>
+<div class="line"><span class="lineno">  567</span> </div>
+<div class="line"><span class="lineno">  568</span>    <span class="comment">// All auras should see CanProc() = false</span></div>
+<div class="line"><span class="lineno">  569</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; rec : records)</div>
+<div class="line"><span class="lineno">  570</span>    {</div>
+<div class="line"><span class="lineno">  571</span>        EXPECT_FALSE(rec.canProcDuringTrigger)</div>
+<div class="line"><span class="lineno">  572</span>            &lt;&lt; <span class="stringliteral">&quot;All target auras should be blocked when SoR damage&quot;</span></div>
+<div class="line"><span class="lineno">  573</span>            &lt;&lt; <span class="stringliteral">&quot; has DISALLOW_PROC_EVENTS&quot;</span>;</div>
+<div class="line"><span class="lineno">  574</span>    }</div>
+<div class="line"><span class="lineno">  575</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a4a527e8281339163309ca5e4d40fbe2e" name="a4a527e8281339163309ca5e4d40fbe2e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4a527e8281339163309ca5e4d40fbe2e">&#9670;&#160;</a></span>TEST_F() <span class="overload">[15/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">AlwaysTriggeredAura_StaysTrue&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  112</span>{</div>
+<div class="line"><span class="lineno">  113</span>    <a class="code hl_struct" href="../../d7/de2/a29610.html">ProcChanceTestHelper::TakenAutoTriggerConfig</a> config;</div>
+<div class="line"><span class="lineno">  114</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#aed48a1ad923118ac0a86d864e1e98519">procFlags</a> = 0;  <span class="comment">// No TAKEN flags</span></div>
+<div class="line"><span class="lineno">  115</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a953f930e046655ca0d8f373362d3f334">auraName</a> = <a class="code hl_enumvalue" href="../../d6/d27/a01781.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>;</div>
+<div class="line"><span class="lineno">  116</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a05786c8e0daef9a2da98f832c230d99c">isAlwaysTriggeredAura</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  117</span> </div>
+<div class="line"><span class="lineno">  118</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d5/dcf/a29586.html#a9fabb85c7059a3df250ab3c68eca624e">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc</a>(config))</div>
+<div class="line"><span class="lineno">  119</span>        &lt;&lt; <span class="stringliteral">&quot;isAlwaysTriggeredAura should keep addTriggerFlag = true&quot;</span>;</div>
+<div class="line"><span class="lineno">  120</span>}</div>
+<div class="ttc" id="aa01781_html_a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf"><div class="ttname"><a href="../../d6/d27/a01781.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_DUMMY</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:67</div></div>
+<div class="ttc" id="aa29586_html_a9fabb85c7059a3df250ab3c68eca624e"><div class="ttname"><a href="../../d5/dcf/a29586.html#a9fabb85c7059a3df250ab3c68eca624e">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc</a></div><div class="ttdeci">static bool ShouldAutoAddTriggeredCanProc(TakenAutoTriggerConfig const &amp;config)</div><div class="ttdoc">Simulate the TAKEN auto-trigger logic from SpellMgr::LoadSpellProcs()</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:555</div></div>
+<div class="ttc" id="aa29610_html"><div class="ttname"><a href="../../d7/de2/a29610.html">ProcChanceTestHelper::TakenAutoTriggerConfig</a></div><div class="ttdoc">Configuration for simulating the TAKEN auto-trigger logic from SpellMgr::LoadSpellProcs() auto-genera...</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:539</div></div>
+<div class="ttc" id="aa29610_html_a05786c8e0daef9a2da98f832c230d99c"><div class="ttname"><a href="../../d7/de2/a29610.html#a05786c8e0daef9a2da98f832c230d99c">ProcChanceTestHelper::TakenAutoTriggerConfig::isAlwaysTriggeredAura</a></div><div class="ttdeci">bool isAlwaysTriggeredAura</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:542</div></div>
+<div class="ttc" id="aa29610_html_a953f930e046655ca0d8f373362d3f334"><div class="ttname"><a href="../../d7/de2/a29610.html#a953f930e046655ca0d8f373362d3f334">ProcChanceTestHelper::TakenAutoTriggerConfig::auraName</a></div><div class="ttdeci">uint32 auraName</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:541</div></div>
+<div class="ttc" id="aa29610_html_aed48a1ad923118ac0a86d864e1e98519"><div class="ttname"><a href="../../d7/de2/a29610.html#aed48a1ad923118ac0a86d864e1e98519">ProcChanceTestHelper::TakenAutoTriggerConfig::procFlags</a></div><div class="ttdeci">uint32 procFlags</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:540</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00541">ProcChanceTestHelper::TakenAutoTriggerConfig::auraName</a>, <a class="el" href="../../#l00542">ProcChanceTestHelper::TakenAutoTriggerConfig::isAlwaysTriggeredAura</a>, <a class="el" href="../../#l00540">ProcChanceTestHelper::TakenAutoTriggerConfig::procFlags</a>, <a class="el" href="../../#l00555">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc()</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
+
+</div>
+</div>
+<a id="a6f96584c668b3204d49226e736c38727" name="a6f96584c668b3204d49226e736c38727"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6f96584c668b3204d49226e736c38727">&#9670;&#160;</a></span>TEST_F() <span class="overload">[16/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">AutoGenTriggeredCanProc_AllowsTriggeredSpells&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  218</span>{</div>
+<div class="line"><span class="lineno">  219</span>    <span class="comment">// Verify that when TAKEN auto-trigger sets addTriggerFlag,</span></div>
+<div class="line"><span class="lineno">  220</span>    <span class="comment">// the resulting proc entry with PROC_ATTR_TRIGGERED_CAN_PROC</span></div>
+<div class="line"><span class="lineno">  221</span>    <span class="comment">// allows triggered spells through the filter</span></div>
+<div class="line"><span class="lineno">  222</span> </div>
+<div class="line"><span class="lineno">  223</span>    <span class="comment">// Step 1: Auto-trigger logic says yes</span></div>
+<div class="line"><span class="lineno">  224</span>    <a class="code hl_struct" href="../../d7/de2/a29610.html">ProcChanceTestHelper::TakenAutoTriggerConfig</a> autoConfig;</div>
+<div class="line"><span class="lineno">  225</span>    autoConfig.<a class="code hl_variable" href="../../d7/de2/a29610.html#aed48a1ad923118ac0a86d864e1e98519">procFlags</a> = <a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>;</div>
+<div class="line"><span class="lineno">  226</span>    autoConfig.<a class="code hl_variable" href="../../d7/de2/a29610.html#a953f930e046655ca0d8f373362d3f334">auraName</a> = <a class="code hl_enumvalue" href="../../d6/d27/a01781.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>;</div>
+<div class="line"><span class="lineno">  227</span>    ASSERT_TRUE(<a class="code hl_function" href="../../d5/dcf/a29586.html#a9fabb85c7059a3df250ab3c68eca624e">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc</a>(autoConfig));</div>
+<div class="line"><span class="lineno">  228</span> </div>
+<div class="line"><span class="lineno">  229</span>    <span class="comment">// Step 2: Build proc entry with the auto-added attribute</span></div>
+<div class="line"><span class="lineno">  230</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d9/d8f/a29638.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  231</span>        .<a class="code hl_function" href="../../d9/d8f/a29638.html#acebcb2a676a7e8e6821854137e056fff">WithProcFlags</a>(<a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>)</div>
+<div class="line"><span class="lineno">  232</span>        .<a class="code hl_function" href="../../d9/d8f/a29638.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#a7fd74f5d829c140285ca6ed18c0e136aaaebacd180f279fede2360781af5d414c">PROC_ATTR_TRIGGERED_CAN_PROC</a>)</div>
+<div class="line"><span class="lineno">  233</span>        .<a class="code hl_function" href="../../d9/d8f/a29638.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  234</span>        .<a class="code hl_function" href="../../d9/d8f/a29638.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  235</span> </div>
+<div class="line"><span class="lineno">  236</span>    <span class="comment">// Step 3: Verify triggered spells pass through the filter</span></div>
+<div class="line"><span class="lineno">  237</span>    <a class="code hl_struct" href="../../d3/dd9/a29590.html">ProcChanceTestHelper::TriggeredSpellConfig</a> trigConfig;</div>
+<div class="line"><span class="lineno">  238</span>    trigConfig.<a class="code hl_variable" href="../../d3/dd9/a29590.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;  <span class="comment">// e.g. Judgement damage is triggered</span></div>
+<div class="line"><span class="lineno">  239</span>    trigConfig.<a class="code hl_variable" href="../../d3/dd9/a29590.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  240</span>    trigConfig.<a class="code hl_variable" href="../../d3/dd9/a29590.html#ab2f859d45c5a9a02301ecc117bf3e25e">spellHasNotAProc</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  241</span> </div>
+<div class="line"><span class="lineno">  242</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d5/dcf/a29586.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  243</span>        trigConfig, procEntry, <a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>))</div>
+<div class="line"><span class="lineno">  244</span>        &lt;&lt; <span class="stringliteral">&quot;Auto-generated TRIGGERED_CAN_PROC should allow triggered spells&quot;</span>;</div>
+<div class="line"><span class="lineno">  245</span>}</div>
+<div class="ttc" id="aa01769_html_a7fd74f5d829c140285ca6ed18c0e136aaaebacd180f279fede2360781af5d414c"><div class="ttname"><a href="../../d7/d6d/a01769.html#a7fd74f5d829c140285ca6ed18c0e136aaaebacd180f279fede2360781af5d414c">PROC_ATTR_TRIGGERED_CAN_PROC</a></div><div class="ttdeci">@ PROC_ATTR_TRIGGERED_CAN_PROC</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:274</div></div>
+<div class="ttc" id="aa01769_html_ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12"><div class="ttname"><a href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a></div><div class="ttdeci">@ PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:111</div></div>
+<div class="ttc" id="aa01781_html_a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b"><div class="ttname"><a href="../../d6/d27/a01781.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a></div><div class="ttdeci">@ SPELL_AURA_PROC_TRIGGER_SPELL</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:105</div></div>
+<div class="ttc" id="aa29586_html_ab3d733d9e66b5e9554501be5e09349f7"><div class="ttname"><a href="../../d5/dcf/a29586.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a></div><div class="ttdeci">static bool ShouldBlockTriggeredSpell(TriggeredSpellConfig const &amp;config, SpellProcEntry const &amp;procEntry, uint32 eventTypeMask)</div><div class="ttdoc">Simulate triggered spell filtering Implements the self-loop prevention and triggered spell blocking f...</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:256</div></div>
+<div class="ttc" id="aa29590_html"><div class="ttname"><a href="../../d3/dd9/a29590.html">ProcChanceTestHelper::TriggeredSpellConfig</a></div><div class="ttdoc">Configuration for simulating triggered spell filtering.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:239</div></div>
+<div class="ttc" id="aa29590_html_aae527e9b8a2969ef67e9c4fbaf43c381"><div class="ttname"><a href="../../d3/dd9/a29590.html#aae527e9b8a2969ef67e9c4fbaf43c381">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a></div><div class="ttdeci">bool isTriggered</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:240</div></div>
+<div class="ttc" id="aa29590_html_ab2f859d45c5a9a02301ecc117bf3e25e"><div class="ttname"><a href="../../d3/dd9/a29590.html#ab2f859d45c5a9a02301ecc117bf3e25e">ProcChanceTestHelper::TriggeredSpellConfig::spellHasNotAProc</a></div><div class="ttdeci">bool spellHasNotAProc</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:242</div></div>
+<div class="ttc" id="aa29590_html_af3e394eb5563aa4a76bd51d6c52f6db2"><div class="ttname"><a href="../../d3/dd9/a29590.html#af3e394eb5563aa4a76bd51d6c52f6db2">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a></div><div class="ttdeci">bool auraHasCanProcFromProcs</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:241</div></div>
+<div class="ttc" id="aa29638_html"><div class="ttname"><a href="../../d9/d8f/a29638.html">SpellProcEntryBuilder</a></div><div class="ttdoc">Builder class for creating SpellProcEntry test instances.</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:141</div></div>
+<div class="ttc" id="aa29638_html_a2a69603215e9fa526304f420bd5a490c"><div class="ttname"><a href="../../d9/d8f/a29638.html#a2a69603215e9fa526304f420bd5a490c">SpellProcEntryBuilder::Build</a></div><div class="ttdeci">SpellProcEntry Build() const</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:226</div></div>
+<div class="ttc" id="aa29638_html_a3c99a07866eb497717932af6b7f3a485"><div class="ttname"><a href="../../d9/d8f/a29638.html#a3c99a07866eb497717932af6b7f3a485">SpellProcEntryBuilder::WithChance</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithChance(float chance)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:208</div></div>
+<div class="ttc" id="aa29638_html_ab9585e517adc231979ca5b817a2f2142"><div class="ttname"><a href="../../d9/d8f/a29638.html#ab9585e517adc231979ca5b817a2f2142">SpellProcEntryBuilder::WithAttributesMask</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithAttributesMask(uint32 attributesMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:190</div></div>
+<div class="ttc" id="aa29638_html_acebcb2a676a7e8e6821854137e056fff"><div class="ttname"><a href="../../d9/d8f/a29638.html#acebcb2a676a7e8e6821854137e056fff">SpellProcEntryBuilder::WithProcFlags</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithProcFlags(uint32 procFlags)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:166</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00541">ProcChanceTestHelper::TakenAutoTriggerConfig::auraName</a>, <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00274">PROC_ATTR_TRIGGERED_CAN_PROC</a>, <a class="el" href="../../#l00111">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>, <a class="el" href="../../#l00540">ProcChanceTestHelper::TakenAutoTriggerConfig::procFlags</a>, <a class="el" href="../../#l00555">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc()</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>, <a class="el" href="../../#l00242">ProcChanceTestHelper::TriggeredSpellConfig::spellHasNotAProc</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00166">SpellProcEntryBuilder::WithProcFlags()</a>.</p>
+
+</div>
+</div>
+<a id="a2e91af600e2c51ac8b213ccfbd828ff0" name="a2e91af600e2c51ac8b213ccfbd828ff0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2e91af600e2c51ac8b213ccfbd828ff0">&#9670;&#160;</a></span>TEST_F() <span class="overload">[17/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">DoneProcTriggerSpell_DoesNotSetTriggeredCanProc&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -202,18 +1002,22 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   90</span>{</div>
-<div class="line"><span class="lineno">   91</span>    <a class="code hl_class" href="../../d5/d3c/a07504.html">ArenaTeam</a> team;</div>
-<div class="line"><span class="lineno">   92</span>    EXPECT_TRUE(<a class="code hl_define" href="../../da/db7/a01088.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;CanSaveArenaStatsForMember(&amp;team, <a class="code hl_variable" href="../../d5/df2/a08656.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>));</div>
-<div class="line"><span class="lineno">   93</span>}</div>
-<div class="ttc" id="aa07504_html"><div class="ttname"><a href="../../d5/d3c/a07504.html">ArenaTeam</a></div><div class="ttdef"><b>Definition:</b> ArenaTeam.h:137</div></div>
-<div class="ttc" id="aa08656_html_a14039d3f3df79203693f713495503165"><div class="ttname"><a href="../../d5/df2/a08656.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a></div><div class="ttdeci">static ObjectGuid const Empty</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:120</div></div>
+<div class="line"><span class="lineno">   91</span>    <a class="code hl_struct" href="../../d7/de2/a29610.html">ProcChanceTestHelper::TakenAutoTriggerConfig</a> config;</div>
+<div class="line"><span class="lineno">   92</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#aed48a1ad923118ac0a86d864e1e98519">procFlags</a> = <a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>;</div>
+<div class="line"><span class="lineno">   93</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a953f930e046655ca0d8f373362d3f334">auraName</a> = <a class="code hl_enumvalue" href="../../d6/d27/a01781.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>;</div>
+<div class="line"><span class="lineno">   94</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a05786c8e0daef9a2da98f832c230d99c">isAlwaysTriggeredAura</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   95</span> </div>
+<div class="line"><span class="lineno">   96</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d5/dcf/a29586.html#a9fabb85c7059a3df250ab3c68eca624e">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc</a>(config))</div>
+<div class="line"><span class="lineno">   97</span>        &lt;&lt; <span class="stringliteral">&quot;DONE-only proc flags should NOT trigger TAKEN auto-add logic&quot;</span>;</div>
+<div class="line"><span class="lineno">   98</span>}</div>
+<div class="ttc" id="aa01769_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc"><div class="ttname"><a href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a></div><div class="ttdeci">@ PROC_FLAG_DONE_MELEE_AUTO_ATTACK</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:110</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00120">ObjectGuid::Empty</a>, and <a class="el" href="../../#l00732">sScriptMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00541">ProcChanceTestHelper::TakenAutoTriggerConfig::auraName</a>, <a class="el" href="../../#l00542">ProcChanceTestHelper::TakenAutoTriggerConfig::isAlwaysTriggeredAura</a>, <a class="el" href="../../#l00110">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>, <a class="el" href="../../#l00540">ProcChanceTestHelper::TakenAutoTriggerConfig::procFlags</a>, <a class="el" href="../../#l00555">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc()</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
 
 </div>
 </div>
-<a id="a6677d75c2b2c5b8a1b910e5b7a943867" name="a6677d75c2b2c5b8a1b910e5b7a943867"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6677d75c2b2c5b8a1b910e5b7a943867">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/6]</span></h2>
+<a id="a4a2e703f6c243762e1f78ac229311900" name="a4a2e703f6c243762e1f78ac229311900"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4a2e703f6c243762e1f78ac229311900">&#9670;&#160;</a></span>TEST_F() <span class="overload">[18/29]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -221,13 +1025,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d67/a29616.html">ArenaHookDefaultsTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">CanSaveToDBDefaultsTrue&#160;</td>
+          <td class="paramtype">MixedDoneAndTaken_WithProcTriggerSpell_SetsFlag&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -237,17 +1041,24 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   72</span>{</div>
-<div class="line"><span class="lineno">   73</span>    <a class="code hl_class" href="../../d5/d3c/a07504.html">ArenaTeam</a> team;</div>
-<div class="line"><span class="lineno">   74</span>    EXPECT_TRUE(<a class="code hl_define" href="../../da/db7/a01088.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;CanSaveToDB(&amp;team));</div>
-<div class="line"><span class="lineno">   75</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  146</span>{</div>
+<div class="line"><span class="lineno">  147</span>    <span class="comment">// Both DONE and TAKEN flags present - TAKEN mask still matches</span></div>
+<div class="line"><span class="lineno">  148</span>    <a class="code hl_struct" href="../../d7/de2/a29610.html">ProcChanceTestHelper::TakenAutoTriggerConfig</a> config;</div>
+<div class="line"><span class="lineno">  149</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#aed48a1ad923118ac0a86d864e1e98519">procFlags</a> = <a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a></div>
+<div class="line"><span class="lineno">  150</span>                     | <a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>;</div>
+<div class="line"><span class="lineno">  151</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a953f930e046655ca0d8f373362d3f334">auraName</a> = <a class="code hl_enumvalue" href="../../d6/d27/a01781.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>;</div>
+<div class="line"><span class="lineno">  152</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a05786c8e0daef9a2da98f832c230d99c">isAlwaysTriggeredAura</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  153</span> </div>
+<div class="line"><span class="lineno">  154</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d5/dcf/a29586.html#a9fabb85c7059a3df250ab3c68eca624e">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc</a>(config))</div>
+<div class="line"><span class="lineno">  155</span>        &lt;&lt; <span class="stringliteral">&quot;Mixed DONE+TAKEN flags should still trigger TAKEN auto-add&quot;</span>;</div>
+<div class="line"><span class="lineno">  156</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00732">sScriptMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00541">ProcChanceTestHelper::TakenAutoTriggerConfig::auraName</a>, <a class="el" href="../../#l00542">ProcChanceTestHelper::TakenAutoTriggerConfig::isAlwaysTriggeredAura</a>, <a class="el" href="../../#l00110">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>, <a class="el" href="../../#l00111">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>, <a class="el" href="../../#l00540">ProcChanceTestHelper::TakenAutoTriggerConfig::procFlags</a>, <a class="el" href="../../#l00555">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc()</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
 
 </div>
 </div>
-<a id="abb810fe89abdcbd96e44ddf079e86cf3" name="abb810fe89abdcbd96e44ddf079e86cf3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abb810fe89abdcbd96e44ddf079e86cf3">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/6]</span></h2>
+<a id="a382fdda4389c386542ab238b318743eb" name="a382fdda4389c386542ab238b318743eb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a382fdda4389c386542ab238b318743eb">&#9670;&#160;</a></span>TEST_F() <span class="overload">[19/29]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -255,13 +1066,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d67/a29616.html">ArenaHookDefaultsTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">MemberUpdateCallingConventionAllowsByDefault&#160;</td>
+          <td class="paramtype">NoProcFlags_DoesNotSetTriggeredCanProc&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -271,26 +1082,22 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  117</span>{</div>
-<div class="line"><span class="lineno">  118</span>    <a class="code hl_class" href="../../d5/d3c/a07504.html">ArenaTeam</a> team;</div>
-<div class="line"><span class="lineno">  119</span>    <span class="keywordtype">bool</span> hookResult = <a class="code hl_define" href="../../da/db7/a01088.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnBeforeArenaTeamMemberUpdate(</div>
-<div class="line"><span class="lineno">  120</span>        &amp;team, <span class="keyword">nullptr</span>, <span class="keyword">true</span>, 1500, 0);</div>
-<div class="line"><span class="lineno">  121</span> </div>
-<div class="line"><span class="lineno">  122</span>    <span class="comment">// This simulates the condition in Arena::EndBattleground.</span></div>
-<div class="line"><span class="lineno">  123</span>    <span class="comment">// MemberWon must be called when no scripts are registered.</span></div>
-<div class="line"><span class="lineno">  124</span>    <span class="keywordtype">bool</span> memberWonWouldExecute = hookResult; <span class="comment">// NOT !hookResult</span></div>
-<div class="line"><span class="lineno">  125</span>    EXPECT_TRUE(memberWonWouldExecute)</div>
-<div class="line"><span class="lineno">  126</span>        &lt;&lt; <span class="stringliteral">&quot;MemberWon/MemberLost must execute when no scripts override &quot;</span></div>
-<div class="line"><span class="lineno">  127</span>           <span class="stringliteral">&quot;OnBeforeArenaTeamMemberUpdate. Check Arena.cpp is using &quot;</span></div>
-<div class="line"><span class="lineno">  128</span>           <span class="stringliteral">&quot;if(sScriptMgr-&gt;OnBeforeArenaTeamMemberUpdate(...)) without negation.&quot;</span>;</div>
-<div class="line"><span class="lineno">  129</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  101</span>{</div>
+<div class="line"><span class="lineno">  102</span>    <a class="code hl_struct" href="../../d7/de2/a29610.html">ProcChanceTestHelper::TakenAutoTriggerConfig</a> config;</div>
+<div class="line"><span class="lineno">  103</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#aed48a1ad923118ac0a86d864e1e98519">procFlags</a> = 0;</div>
+<div class="line"><span class="lineno">  104</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a953f930e046655ca0d8f373362d3f334">auraName</a> = <a class="code hl_enumvalue" href="../../d6/d27/a01781.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>;</div>
+<div class="line"><span class="lineno">  105</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a05786c8e0daef9a2da98f832c230d99c">isAlwaysTriggeredAura</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  106</span> </div>
+<div class="line"><span class="lineno">  107</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d5/dcf/a29586.html#a9fabb85c7059a3df250ab3c68eca624e">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc</a>(config))</div>
+<div class="line"><span class="lineno">  108</span>        &lt;&lt; <span class="stringliteral">&quot;Zero proc flags should NOT auto-add TRIGGERED_CAN_PROC&quot;</span>;</div>
+<div class="line"><span class="lineno">  109</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00732">sScriptMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00541">ProcChanceTestHelper::TakenAutoTriggerConfig::auraName</a>, <a class="el" href="../../#l00542">ProcChanceTestHelper::TakenAutoTriggerConfig::isAlwaysTriggeredAura</a>, <a class="el" href="../../#l00540">ProcChanceTestHelper::TakenAutoTriggerConfig::procFlags</a>, <a class="el" href="../../#l00555">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc()</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
 
 </div>
 </div>
-<a id="a107778bcf48a658ed6e9f2a52234d6d0" name="a107778bcf48a658ed6e9f2a52234d6d0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a107778bcf48a658ed6e9f2a52234d6d0">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/6]</span></h2>
+<a id="a7e52a749ce32f88ec54c45beba8e4294" name="a7e52a749ce32f88ec54c45beba8e4294"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7e52a749ce32f88ec54c45beba8e4294">&#9670;&#160;</a></span>TEST_F() <span class="overload">[20/29]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -298,13 +1105,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d67/a29616.html">ArenaHookDefaultsTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">OnBeforeArenaCheckWinConditionsDefaultsTrue&#160;</td>
+          <td class="paramtype">Scenario_MoltenArmor_TakenAutoTrigger&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -314,16 +1121,28 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   98</span>{</div>
-<div class="line"><span class="lineno">   99</span>    EXPECT_TRUE(<a class="code hl_define" href="../../da/db7/a01088.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnBeforeArenaCheckWinConditions(<span class="keyword">nullptr</span>));</div>
-<div class="line"><span class="lineno">  100</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  175</span>{</div>
+<div class="line"><span class="lineno">  176</span>    <span class="comment">// Molten Armor (30482): TAKEN_MELEE_AUTO_ATTACK + PROC_TRIGGER_DAMAGE</span></div>
+<div class="line"><span class="lineno">  177</span>    <span class="comment">// Note: Molten Armor has an explicit spell_proc entry so auto-gen</span></div>
+<div class="line"><span class="lineno">  178</span>    <span class="comment">// is skipped, but the logic should still apply if it didn&#39;t</span></div>
+<div class="line"><span class="lineno">  179</span>    <a class="code hl_struct" href="../../d7/de2/a29610.html">ProcChanceTestHelper::TakenAutoTriggerConfig</a> config;</div>
+<div class="line"><span class="lineno">  180</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#aed48a1ad923118ac0a86d864e1e98519">procFlags</a> = <a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a></div>
+<div class="line"><span class="lineno">  181</span>                     | <a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ad10b509b0f942337bade4b6e78aafa7c">PROC_FLAG_TAKEN_SPELL_MELEE_DMG_CLASS</a>;</div>
+<div class="line"><span class="lineno">  182</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a953f930e046655ca0d8f373362d3f334">auraName</a> = <a class="code hl_enumvalue" href="../../d6/d27/a01781.html#a538cdc259460b365f406fe0b3a981799acc5994eedad39ba63e84f1279bfd5e2f">SPELL_AURA_PROC_TRIGGER_DAMAGE</a>;</div>
+<div class="line"><span class="lineno">  183</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a05786c8e0daef9a2da98f832c230d99c">isAlwaysTriggeredAura</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  184</span> </div>
+<div class="line"><span class="lineno">  185</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d5/dcf/a29586.html#a9fabb85c7059a3df250ab3c68eca624e">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc</a>(config))</div>
+<div class="line"><span class="lineno">  186</span>        &lt;&lt; <span class="stringliteral">&quot;Molten Armor-like aura should auto-add TRIGGERED_CAN_PROC&quot;</span>;</div>
+<div class="line"><span class="lineno">  187</span>}</div>
+<div class="ttc" id="aa01769_html_ade1c2af066d4cf1bbcd88f13f01cd4d6ad10b509b0f942337bade4b6e78aafa7c"><div class="ttname"><a href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ad10b509b0f942337bade4b6e78aafa7c">PROC_FLAG_TAKEN_SPELL_MELEE_DMG_CLASS</a></div><div class="ttdeci">@ PROC_FLAG_TAKEN_SPELL_MELEE_DMG_CLASS</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:114</div></div>
+<div class="ttc" id="aa01781_html_a538cdc259460b365f406fe0b3a981799acc5994eedad39ba63e84f1279bfd5e2f"><div class="ttname"><a href="../../d6/d27/a01781.html#a538cdc259460b365f406fe0b3a981799acc5994eedad39ba63e84f1279bfd5e2f">SPELL_AURA_PROC_TRIGGER_DAMAGE</a></div><div class="ttdeci">@ SPELL_AURA_PROC_TRIGGER_DAMAGE</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:106</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00732">sScriptMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00541">ProcChanceTestHelper::TakenAutoTriggerConfig::auraName</a>, <a class="el" href="../../#l00542">ProcChanceTestHelper::TakenAutoTriggerConfig::isAlwaysTriggeredAura</a>, <a class="el" href="../../#l00111">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>, <a class="el" href="../../#l00114">PROC_FLAG_TAKEN_SPELL_MELEE_DMG_CLASS</a>, <a class="el" href="../../#l00540">ProcChanceTestHelper::TakenAutoTriggerConfig::procFlags</a>, <a class="el" href="../../#l00555">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc()</a>, and <a class="el" href="../../#l00106">SPELL_AURA_PROC_TRIGGER_DAMAGE</a>.</p>
 
 </div>
 </div>
-<a id="ab81f733e33491c5907ae23252337725c" name="ab81f733e33491c5907ae23252337725c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab81f733e33491c5907ae23252337725c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/6]</span></h2>
+<a id="aef227c5b7a8870a4a4846a12f06a187f" name="aef227c5b7a8870a4a4846a12f06a187f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aef227c5b7a8870a4a4846a12f06a187f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[21/29]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -331,13 +1150,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d67/a29616.html">ArenaHookDefaultsTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">OnBeforeArenaTeamMemberUpdateDefaultsTrue&#160;</td>
+          <td class="paramtype">Scenario_Reckoning_TakenAutoTrigger&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -347,13 +1166,355 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   81</span>{</div>
-<div class="line"><span class="lineno">   82</span>    <a class="code hl_class" href="../../d5/d3c/a07504.html">ArenaTeam</a> team;</div>
-<div class="line"><span class="lineno">   83</span>    EXPECT_TRUE(<a class="code hl_define" href="../../da/db7/a01088.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnBeforeArenaTeamMemberUpdate(&amp;team, <span class="keyword">nullptr</span>, <span class="keyword">true</span>, 1500, 0));</div>
-<div class="line"><span class="lineno">   84</span>    EXPECT_TRUE(<a class="code hl_define" href="../../da/db7/a01088.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnBeforeArenaTeamMemberUpdate(&amp;team, <span class="keyword">nullptr</span>, <span class="keyword">false</span>, 1500, 0));</div>
-<div class="line"><span class="lineno">   85</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  190</span>{</div>
+<div class="line"><span class="lineno">  191</span>    <span class="comment">// Reckoning (20177): TAKEN_MELEE_AUTO_ATTACK + PROC_TRIGGER_SPELL</span></div>
+<div class="line"><span class="lineno">  192</span>    <a class="code hl_struct" href="../../d7/de2/a29610.html">ProcChanceTestHelper::TakenAutoTriggerConfig</a> config;</div>
+<div class="line"><span class="lineno">  193</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#aed48a1ad923118ac0a86d864e1e98519">procFlags</a> = <a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>;</div>
+<div class="line"><span class="lineno">  194</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a953f930e046655ca0d8f373362d3f334">auraName</a> = <a class="code hl_enumvalue" href="../../d6/d27/a01781.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>;</div>
+<div class="line"><span class="lineno">  195</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a05786c8e0daef9a2da98f832c230d99c">isAlwaysTriggeredAura</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  196</span> </div>
+<div class="line"><span class="lineno">  197</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d5/dcf/a29586.html#a9fabb85c7059a3df250ab3c68eca624e">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc</a>(config))</div>
+<div class="line"><span class="lineno">  198</span>        &lt;&lt; <span class="stringliteral">&quot;Reckoning-like aura should auto-add TRIGGERED_CAN_PROC&quot;</span>;</div>
+<div class="line"><span class="lineno">  199</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00732">sScriptMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00541">ProcChanceTestHelper::TakenAutoTriggerConfig::auraName</a>, <a class="el" href="../../#l00542">ProcChanceTestHelper::TakenAutoTriggerConfig::isAlwaysTriggeredAura</a>, <a class="el" href="../../#l00111">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>, <a class="el" href="../../#l00540">ProcChanceTestHelper::TakenAutoTriggerConfig::procFlags</a>, <a class="el" href="../../#l00555">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc()</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
+
+</div>
+</div>
+<a id="ad652c89536f5871bca0fcc7070961b06" name="ad652c89536f5871bca0fcc7070961b06"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad652c89536f5871bca0fcc7070961b06">&#9670;&#160;</a></span>TEST_F() <span class="overload">[22/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_Redoubt_TakenAutoTrigger&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  202</span>{</div>
+<div class="line"><span class="lineno">  203</span>    <span class="comment">// Redoubt (20127): TAKEN_MELEE_AUTO_ATTACK + PROC_TRIGGER_SPELL</span></div>
+<div class="line"><span class="lineno">  204</span>    <a class="code hl_struct" href="../../d7/de2/a29610.html">ProcChanceTestHelper::TakenAutoTriggerConfig</a> config;</div>
+<div class="line"><span class="lineno">  205</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#aed48a1ad923118ac0a86d864e1e98519">procFlags</a> = <a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>;</div>
+<div class="line"><span class="lineno">  206</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a953f930e046655ca0d8f373362d3f334">auraName</a> = <a class="code hl_enumvalue" href="../../d6/d27/a01781.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>;</div>
+<div class="line"><span class="lineno">  207</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a05786c8e0daef9a2da98f832c230d99c">isAlwaysTriggeredAura</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  208</span> </div>
+<div class="line"><span class="lineno">  209</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d5/dcf/a29586.html#a9fabb85c7059a3df250ab3c68eca624e">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc</a>(config))</div>
+<div class="line"><span class="lineno">  210</span>        &lt;&lt; <span class="stringliteral">&quot;Redoubt-like aura should auto-add TRIGGERED_CAN_PROC&quot;</span>;</div>
+<div class="line"><span class="lineno">  211</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00541">ProcChanceTestHelper::TakenAutoTriggerConfig::auraName</a>, <a class="el" href="../../#l00542">ProcChanceTestHelper::TakenAutoTriggerConfig::isAlwaysTriggeredAura</a>, <a class="el" href="../../#l00111">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>, <a class="el" href="../../#l00540">ProcChanceTestHelper::TakenAutoTriggerConfig::procFlags</a>, <a class="el" href="../../#l00555">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc()</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
+
+</div>
+</div>
+<a id="a5aaff474c85003cc29134ae0d94cde23" name="a5aaff474c85003cc29134ae0d94cde23"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5aaff474c85003cc29134ae0d94cde23">&#9670;&#160;</a></span>TEST_F() <span class="overload">[23/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">TakenDamage_WithProcTriggerSpell_SetsFlag&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  123</span>{</div>
+<div class="line"><span class="lineno">  124</span>    <span class="comment">// PROC_FLAG_TAKEN_DAMAGE is in TAKEN_HIT_PROC_FLAG_MASK</span></div>
+<div class="line"><span class="lineno">  125</span>    <a class="code hl_struct" href="../../d7/de2/a29610.html">ProcChanceTestHelper::TakenAutoTriggerConfig</a> config;</div>
+<div class="line"><span class="lineno">  126</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#aed48a1ad923118ac0a86d864e1e98519">procFlags</a> = <a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6abcffcf75e3fd5015383c586153dc32c1">PROC_FLAG_TAKEN_DAMAGE</a>;</div>
+<div class="line"><span class="lineno">  127</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a953f930e046655ca0d8f373362d3f334">auraName</a> = <a class="code hl_enumvalue" href="../../d6/d27/a01781.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>;</div>
+<div class="line"><span class="lineno">  128</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a05786c8e0daef9a2da98f832c230d99c">isAlwaysTriggeredAura</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  129</span> </div>
+<div class="line"><span class="lineno">  130</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d5/dcf/a29586.html#a9fabb85c7059a3df250ab3c68eca624e">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc</a>(config))</div>
+<div class="line"><span class="lineno">  131</span>        &lt;&lt; <span class="stringliteral">&quot;PROC_FLAG_TAKEN_DAMAGE + PROC_TRIGGER_SPELL should set flag&quot;</span>;</div>
+<div class="line"><span class="lineno">  132</span>}</div>
+<div class="ttc" id="aa01769_html_ade1c2af066d4cf1bbcd88f13f01cd4d6abcffcf75e3fd5015383c586153dc32c1"><div class="ttname"><a href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6abcffcf75e3fd5015383c586153dc32c1">PROC_FLAG_TAKEN_DAMAGE</a></div><div class="ttdeci">@ PROC_FLAG_TAKEN_DAMAGE</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:137</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00541">ProcChanceTestHelper::TakenAutoTriggerConfig::auraName</a>, <a class="el" href="../../#l00542">ProcChanceTestHelper::TakenAutoTriggerConfig::isAlwaysTriggeredAura</a>, <a class="el" href="../../#l00137">PROC_FLAG_TAKEN_DAMAGE</a>, <a class="el" href="../../#l00540">ProcChanceTestHelper::TakenAutoTriggerConfig::procFlags</a>, <a class="el" href="../../#l00555">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc()</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
+
+</div>
+</div>
+<a id="a057a869b522ef7c027f230aab341d719" name="a057a869b522ef7c027f230aab341d719"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a057a869b522ef7c027f230aab341d719">&#9670;&#160;</a></span>TEST_F() <span class="overload">[24/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">TakenPeriodic_WithProcTriggerDamage_SetsFlag&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  135</span>{</div>
+<div class="line"><span class="lineno">  136</span>    <a class="code hl_struct" href="../../d7/de2/a29610.html">ProcChanceTestHelper::TakenAutoTriggerConfig</a> config;</div>
+<div class="line"><span class="lineno">  137</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#aed48a1ad923118ac0a86d864e1e98519">procFlags</a> = <a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a968d75fc25f1413369015f9ba98870b4">PROC_FLAG_TAKEN_PERIODIC</a>;</div>
+<div class="line"><span class="lineno">  138</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a953f930e046655ca0d8f373362d3f334">auraName</a> = <a class="code hl_enumvalue" href="../../d6/d27/a01781.html#a538cdc259460b365f406fe0b3a981799acc5994eedad39ba63e84f1279bfd5e2f">SPELL_AURA_PROC_TRIGGER_DAMAGE</a>;</div>
+<div class="line"><span class="lineno">  139</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a05786c8e0daef9a2da98f832c230d99c">isAlwaysTriggeredAura</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  140</span> </div>
+<div class="line"><span class="lineno">  141</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d5/dcf/a29586.html#a9fabb85c7059a3df250ab3c68eca624e">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc</a>(config))</div>
+<div class="line"><span class="lineno">  142</span>        &lt;&lt; <span class="stringliteral">&quot;PROC_FLAG_TAKEN_PERIODIC + PROC_TRIGGER_DAMAGE should set flag&quot;</span>;</div>
+<div class="line"><span class="lineno">  143</span>}</div>
+<div class="ttc" id="aa01769_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a968d75fc25f1413369015f9ba98870b4"><div class="ttname"><a href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a968d75fc25f1413369015f9ba98870b4">PROC_FLAG_TAKEN_PERIODIC</a></div><div class="ttdeci">@ PROC_FLAG_TAKEN_PERIODIC</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:135</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00541">ProcChanceTestHelper::TakenAutoTriggerConfig::auraName</a>, <a class="el" href="../../#l00542">ProcChanceTestHelper::TakenAutoTriggerConfig::isAlwaysTriggeredAura</a>, <a class="el" href="../../#l00135">PROC_FLAG_TAKEN_PERIODIC</a>, <a class="el" href="../../#l00540">ProcChanceTestHelper::TakenAutoTriggerConfig::procFlags</a>, <a class="el" href="../../#l00555">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc()</a>, and <a class="el" href="../../#l00106">SPELL_AURA_PROC_TRIGGER_DAMAGE</a>.</p>
+
+</div>
+</div>
+<a id="a6dff023d399c8508abe0e654a2e57531" name="a6dff023d399c8508abe0e654a2e57531"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6dff023d399c8508abe0e654a2e57531">&#9670;&#160;</a></span>TEST_F() <span class="overload">[25/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">TakenProcModAura_DoesNotSetTriggeredCanProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  159</span>{</div>
+<div class="line"><span class="lineno">  160</span>    <span class="comment">// SPELL_AURA_ADD_FLAT_MODIFIER is not PROC_TRIGGER_SPELL/DAMAGE</span></div>
+<div class="line"><span class="lineno">  161</span>    <a class="code hl_struct" href="../../d7/de2/a29610.html">ProcChanceTestHelper::TakenAutoTriggerConfig</a> config;</div>
+<div class="line"><span class="lineno">  162</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#aed48a1ad923118ac0a86d864e1e98519">procFlags</a> = <a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>;</div>
+<div class="line"><span class="lineno">  163</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a953f930e046655ca0d8f373362d3f334">auraName</a> = <a class="code hl_enumvalue" href="../../d6/d27/a01781.html#a538cdc259460b365f406fe0b3a981799a50563ee6555455f041b81ce199ad1a4f">SPELL_AURA_ADD_FLAT_MODIFIER</a>;</div>
+<div class="line"><span class="lineno">  164</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a05786c8e0daef9a2da98f832c230d99c">isAlwaysTriggeredAura</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  165</span> </div>
+<div class="line"><span class="lineno">  166</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d5/dcf/a29586.html#a9fabb85c7059a3df250ab3c68eca624e">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc</a>(config))</div>
+<div class="line"><span class="lineno">  167</span>        &lt;&lt; <span class="stringliteral">&quot;TAKEN proc + modifier aura should NOT auto-add TRIGGERED_CAN_PROC&quot;</span>;</div>
+<div class="line"><span class="lineno">  168</span>}</div>
+<div class="ttc" id="aa01781_html_a538cdc259460b365f406fe0b3a981799a50563ee6555455f041b81ce199ad1a4f"><div class="ttname"><a href="../../d6/d27/a01781.html#a538cdc259460b365f406fe0b3a981799a50563ee6555455f041b81ce199ad1a4f">SPELL_AURA_ADD_FLAT_MODIFIER</a></div><div class="ttdeci">@ SPELL_AURA_ADD_FLAT_MODIFIER</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:170</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00541">ProcChanceTestHelper::TakenAutoTriggerConfig::auraName</a>, <a class="el" href="../../#l00542">ProcChanceTestHelper::TakenAutoTriggerConfig::isAlwaysTriggeredAura</a>, <a class="el" href="../../#l00111">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>, <a class="el" href="../../#l00540">ProcChanceTestHelper::TakenAutoTriggerConfig::procFlags</a>, <a class="el" href="../../#l00555">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc()</a>, and <a class="el" href="../../#l00170">SPELL_AURA_ADD_FLAT_MODIFIER</a>.</p>
+
+</div>
+</div>
+<a id="aa4ce720b7e4e4c38b09b1634fa83e22b" name="aa4ce720b7e4e4c38b09b1634fa83e22b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa4ce720b7e4e4c38b09b1634fa83e22b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[26/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">TakenProcOtherAura_DoesNotSetTriggeredCanProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   79</span>{</div>
+<div class="line"><span class="lineno">   80</span>    <a class="code hl_struct" href="../../d7/de2/a29610.html">ProcChanceTestHelper::TakenAutoTriggerConfig</a> config;</div>
+<div class="line"><span class="lineno">   81</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#aed48a1ad923118ac0a86d864e1e98519">procFlags</a> = <a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>;</div>
+<div class="line"><span class="lineno">   82</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a953f930e046655ca0d8f373362d3f334">auraName</a> = <a class="code hl_enumvalue" href="../../d6/d27/a01781.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>;</div>
+<div class="line"><span class="lineno">   83</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a05786c8e0daef9a2da98f832c230d99c">isAlwaysTriggeredAura</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   84</span> </div>
+<div class="line"><span class="lineno">   85</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d5/dcf/a29586.html#a9fabb85c7059a3df250ab3c68eca624e">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc</a>(config))</div>
+<div class="line"><span class="lineno">   86</span>        &lt;&lt; <span class="stringliteral">&quot;TAKEN proc + DUMMY aura should NOT auto-add TRIGGERED_CAN_PROC&quot;</span>;</div>
+<div class="line"><span class="lineno">   87</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00541">ProcChanceTestHelper::TakenAutoTriggerConfig::auraName</a>, <a class="el" href="../../#l00542">ProcChanceTestHelper::TakenAutoTriggerConfig::isAlwaysTriggeredAura</a>, <a class="el" href="../../#l00111">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>, <a class="el" href="../../#l00540">ProcChanceTestHelper::TakenAutoTriggerConfig::procFlags</a>, <a class="el" href="../../#l00555">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc()</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
+
+</div>
+</div>
+<a id="a08b5b072a5fa78fe96a38353673bc7d4" name="a08b5b072a5fa78fe96a38353673bc7d4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a08b5b072a5fa78fe96a38353673bc7d4">&#9670;&#160;</a></span>TEST_F() <span class="overload">[27/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">TakenProcTriggerDamage_SetsTriggeredCanProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   68</span>{</div>
+<div class="line"><span class="lineno">   69</span>    <a class="code hl_struct" href="../../d7/de2/a29610.html">ProcChanceTestHelper::TakenAutoTriggerConfig</a> config;</div>
+<div class="line"><span class="lineno">   70</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#aed48a1ad923118ac0a86d864e1e98519">procFlags</a> = <a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a83f7552203278e82d55d40034cea9105">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_NEG</a>;</div>
+<div class="line"><span class="lineno">   71</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a953f930e046655ca0d8f373362d3f334">auraName</a> = <a class="code hl_enumvalue" href="../../d6/d27/a01781.html#a538cdc259460b365f406fe0b3a981799acc5994eedad39ba63e84f1279bfd5e2f">SPELL_AURA_PROC_TRIGGER_DAMAGE</a>;</div>
+<div class="line"><span class="lineno">   72</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a05786c8e0daef9a2da98f832c230d99c">isAlwaysTriggeredAura</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   73</span> </div>
+<div class="line"><span class="lineno">   74</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d5/dcf/a29586.html#a9fabb85c7059a3df250ab3c68eca624e">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc</a>(config))</div>
+<div class="line"><span class="lineno">   75</span>        &lt;&lt; <span class="stringliteral">&quot;TAKEN proc + PROC_TRIGGER_DAMAGE should auto-add TRIGGERED_CAN_PROC&quot;</span>;</div>
+<div class="line"><span class="lineno">   76</span>}</div>
+<div class="ttc" id="aa01769_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a83f7552203278e82d55d40034cea9105"><div class="ttname"><a href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a83f7552203278e82d55d40034cea9105">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_NEG</a></div><div class="ttdeci">@ PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_NEG</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:132</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00541">ProcChanceTestHelper::TakenAutoTriggerConfig::auraName</a>, <a class="el" href="../../#l00542">ProcChanceTestHelper::TakenAutoTriggerConfig::isAlwaysTriggeredAura</a>, <a class="el" href="../../#l00132">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00540">ProcChanceTestHelper::TakenAutoTriggerConfig::procFlags</a>, <a class="el" href="../../#l00555">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc()</a>, and <a class="el" href="../../#l00106">SPELL_AURA_PROC_TRIGGER_DAMAGE</a>.</p>
+
+</div>
+</div>
+<a id="a64d33971444e0a18568e5f4ca968edd0" name="a64d33971444e0a18568e5f4ca968edd0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a64d33971444e0a18568e5f4ca968edd0">&#9670;&#160;</a></span>TEST_F() <span class="overload">[28/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">TakenProcTriggerSpell_SetsTriggeredCanProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   57</span>{</div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_struct" href="../../d7/de2/a29610.html">ProcChanceTestHelper::TakenAutoTriggerConfig</a> config;</div>
+<div class="line"><span class="lineno">   59</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#aed48a1ad923118ac0a86d864e1e98519">procFlags</a> = <a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>;</div>
+<div class="line"><span class="lineno">   60</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a953f930e046655ca0d8f373362d3f334">auraName</a> = <a class="code hl_enumvalue" href="../../d6/d27/a01781.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>;</div>
+<div class="line"><span class="lineno">   61</span>    config.<a class="code hl_variable" href="../../d7/de2/a29610.html#a05786c8e0daef9a2da98f832c230d99c">isAlwaysTriggeredAura</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   62</span> </div>
+<div class="line"><span class="lineno">   63</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d5/dcf/a29586.html#a9fabb85c7059a3df250ab3c68eca624e">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc</a>(config))</div>
+<div class="line"><span class="lineno">   64</span>        &lt;&lt; <span class="stringliteral">&quot;TAKEN proc + PROC_TRIGGER_SPELL should auto-add TRIGGERED_CAN_PROC&quot;</span>;</div>
+<div class="line"><span class="lineno">   65</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00541">ProcChanceTestHelper::TakenAutoTriggerConfig::auraName</a>, <a class="el" href="../../#l00542">ProcChanceTestHelper::TakenAutoTriggerConfig::isAlwaysTriggeredAura</a>, <a class="el" href="../../#l00111">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>, <a class="el" href="../../#l00540">ProcChanceTestHelper::TakenAutoTriggerConfig::procFlags</a>, <a class="el" href="../../#l00555">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc()</a>, and <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>.</p>
+
+</div>
+</div>
+<a id="a51240e8b59bee356e4a38c6b20fdf01b" name="a51240e8b59bee356e4a38c6b20fdf01b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a51240e8b59bee356e4a38c6b20fdf01b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[29/29]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/dae/a29750.html">TakenAutoTriggerTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">WithoutAutoTrigger_TriggeredSpellsBlocked&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  248</span>{</div>
+<div class="line"><span class="lineno">  249</span>    <span class="comment">// Without the TAKEN auto-trigger, DONE-only proc auras would block</span></div>
+<div class="line"><span class="lineno">  250</span>    <span class="comment">// triggered spells (no TRIGGERED_CAN_PROC set)</span></div>
+<div class="line"><span class="lineno">  251</span> </div>
+<div class="line"><span class="lineno">  252</span>    <a class="code hl_struct" href="../../d7/de2/a29610.html">ProcChanceTestHelper::TakenAutoTriggerConfig</a> autoConfig;</div>
+<div class="line"><span class="lineno">  253</span>    autoConfig.<a class="code hl_variable" href="../../d7/de2/a29610.html#aed48a1ad923118ac0a86d864e1e98519">procFlags</a> = <a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>;  <span class="comment">// DONE only</span></div>
+<div class="line"><span class="lineno">  254</span>    autoConfig.<a class="code hl_variable" href="../../d7/de2/a29610.html#a953f930e046655ca0d8f373362d3f334">auraName</a> = <a class="code hl_enumvalue" href="../../d6/d27/a01781.html#a538cdc259460b365f406fe0b3a981799a3c6e04ab343a9f5ef767f8e8dd71af5b">SPELL_AURA_PROC_TRIGGER_SPELL</a>;</div>
+<div class="line"><span class="lineno">  255</span>    ASSERT_FALSE(<a class="code hl_function" href="../../d5/dcf/a29586.html#a9fabb85c7059a3df250ab3c68eca624e">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc</a>(autoConfig));</div>
+<div class="line"><span class="lineno">  256</span> </div>
+<div class="line"><span class="lineno">  257</span>    <span class="comment">// Build proc entry WITHOUT TRIGGERED_CAN_PROC</span></div>
+<div class="line"><span class="lineno">  258</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d9/d8f/a29638.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  259</span>        .<a class="code hl_function" href="../../d9/d8f/a29638.html#acebcb2a676a7e8e6821854137e056fff">WithProcFlags</a>(<a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>)</div>
+<div class="line"><span class="lineno">  260</span>        .<a class="code hl_function" href="../../d9/d8f/a29638.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(0)  <span class="comment">// No TRIGGERED_CAN_PROC</span></div>
+<div class="line"><span class="lineno">  261</span>        .<a class="code hl_function" href="../../d9/d8f/a29638.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  262</span>        .<a class="code hl_function" href="../../d9/d8f/a29638.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  263</span> </div>
+<div class="line"><span class="lineno">  264</span>    <span class="comment">// Triggered spells should be blocked</span></div>
+<div class="line"><span class="lineno">  265</span>    <a class="code hl_struct" href="../../d3/dd9/a29590.html">ProcChanceTestHelper::TriggeredSpellConfig</a> trigConfig;</div>
+<div class="line"><span class="lineno">  266</span>    trigConfig.<a class="code hl_variable" href="../../d3/dd9/a29590.html#aae527e9b8a2969ef67e9c4fbaf43c381">isTriggered</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  267</span>    trigConfig.<a class="code hl_variable" href="../../d3/dd9/a29590.html#af3e394eb5563aa4a76bd51d6c52f6db2">auraHasCanProcFromProcs</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  268</span>    trigConfig.<a class="code hl_variable" href="../../d3/dd9/a29590.html#ab2f859d45c5a9a02301ecc117bf3e25e">spellHasNotAProc</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  269</span> </div>
+<div class="line"><span class="lineno">  270</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d5/dcf/a29586.html#ab3d733d9e66b5e9554501be5e09349f7">ProcChanceTestHelper::ShouldBlockTriggeredSpell</a>(</div>
+<div class="line"><span class="lineno">  271</span>        trigConfig, procEntry, <a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>))</div>
+<div class="line"><span class="lineno">  272</span>        &lt;&lt; <span class="stringliteral">&quot;Without TRIGGERED_CAN_PROC, triggered spells should be blocked&quot;</span>;</div>
+<div class="line"><span class="lineno">  273</span>}</div>
+<div class="ttc" id="aa01769_html_ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67"><div class="ttname"><a href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a></div><div class="ttdeci">@ PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:131</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00241">ProcChanceTestHelper::TriggeredSpellConfig::auraHasCanProcFromProcs</a>, <a class="el" href="../../#l00541">ProcChanceTestHelper::TakenAutoTriggerConfig::auraName</a>, <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00240">ProcChanceTestHelper::TriggeredSpellConfig::isTriggered</a>, <a class="el" href="../../#l00110">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00540">ProcChanceTestHelper::TakenAutoTriggerConfig::procFlags</a>, <a class="el" href="../../#l00555">ProcChanceTestHelper::ShouldAutoAddTriggeredCanProc()</a>, <a class="el" href="../../#l00256">ProcChanceTestHelper::ShouldBlockTriggeredSpell()</a>, <a class="el" href="../../#l00105">SPELL_AURA_PROC_TRIGGER_SPELL</a>, <a class="el" href="../../#l00242">ProcChanceTestHelper::TriggeredSpellConfig::spellHasNotAProc</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00166">SpellProcEntryBuilder::WithProcFlags()</a>.</p>
 
 </div>
 </div>
@@ -362,8 +1523,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_d68c8764f6b69d1180b66c35742ddf05.html">Battlegrounds</a></li><li class="navelem"><a class="el" href="../../d4/d2a/a00632.html">ArenaHookDefaultsTest.cpp</a></li>
-    <li class="footer">Generated on Mon Mar 2 2026 21:04:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d4/d2a/a00632.html">SpellProcChainGuardTest.cpp</a></li>
+    <li class="footer">Generated on Mon Mar 9 2026 21:04:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

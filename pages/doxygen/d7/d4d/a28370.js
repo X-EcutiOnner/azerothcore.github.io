@@ -1,5 +1,5 @@
 var a28370 =
 [
-    [ "ID", "d7/d4d/a28370.html#a01bcdc3543d3ff250354acf5e0724c14", null ],
-    [ "spellId", "d7/d4d/a28370.html#aabbb95c091e0b0946bcb05746b1c23f3", null ]
+    [ "item_disgusting_jar", "d7/d4d/a28370.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
+    [ "OnExpire", "d7/d4d/a28370.html#a4f6967035a4d247914a6034fcebac5c5", null ]
 ];

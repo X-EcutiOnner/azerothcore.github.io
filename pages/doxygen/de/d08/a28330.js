@@ -1,7 +1,6 @@
 var a28330 =
 [
-    [ "bit_index", "de/d08/a28330.html#a1e5cb3fc001169a204507a084435a211", null ],
-    [ "ID", "de/d08/a28330.html#a63fe7a87e019780d20e86e48efb02eac", null ],
-    [ "nameFemale", "de/d08/a28330.html#ad0380caf2526715faaddc9330062d90a", null ],
-    [ "nameMale", "de/d08/a28330.html#a74a767731c96d3d815ddde5a06f68599", null ]
+    [ "go_bellsAI", "d1/dfc/a28334.html", "d1/dfc/a28334" ],
+    [ "go_bells", "de/d08/a28330.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
+    [ "GetAI", "de/d08/a28330.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
 ];

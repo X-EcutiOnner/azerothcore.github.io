@@ -1,8 +1,6 @@
 var a27694 =
 [
-    [ "npc_artoriusAI", "d3/d71/a27698.html", "d3/d71/a27698" ],
-    [ "npc_artorius", "d6/dd7/a27694.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
-    [ "GetAI", "d6/dd7/a27694.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
-    [ "OnGossipHello", "d6/dd7/a27694.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
-    [ "OnGossipSelect", "d6/dd7/a27694.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
+    [ "HandleDummy", "d6/dd7/a27694.html#a2560417162a1c17cb067cdfeb2fc909d", null ],
+    [ "PrepareSpellScript", "d6/dd7/a27694.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c", null ],
+    [ "Register", "d6/dd7/a27694.html#a27aece218c848064ae387491f9176099", null ]
 ];

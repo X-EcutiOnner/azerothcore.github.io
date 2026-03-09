@@ -1,11 +1,11 @@
 var a20790 =
 [
-    [ "boss_thorim_lightning_orbAI", "dc/d32/a20790.html#a14d4b9f445abfaba77bcfc52173ff705", null ],
-    [ "AttackStart", "dc/d32/a20790.html#a88a885b96016788f8011dd1d3d44d992", null ],
-    [ "EnterEvadeMode", "dc/d32/a20790.html#a04bc99d1bd16f8297e7da8902e4bcaab", null ],
-    [ "InitWaypoint", "dc/d32/a20790.html#a420217dd9e482edc24a87dead2753321", null ],
-    [ "MoveInLineOfSight", "dc/d32/a20790.html#a0ee02cdd5cedf8a6565493b9812e88ae", null ],
-    [ "Reset", "dc/d32/a20790.html#a4e410303d287a4c827c279a4e7c3ca99", null ],
-    [ "WaypointReached", "dc/d32/a20790.html#a141659a0ebbcc097f0f03dec30dad2ca", null ],
-    [ "Timer", "dc/d32/a20790.html#ac251df35736ae44e08f82ae7bbe8fc15", null ]
+    [ "boss_thorim_arena_npcs", "dc/d32/a20790.html#a849567e412254aa8d0d7da33b6b1522f", null ],
+    [ "CanAIAttack", "dc/d32/a20790.html#aa4f90aadf8a9705fea03433195d41ad0", null ],
+    [ "JustEngagedWith", "dc/d32/a20790.html#a2f23cddcf5a0db42ba24730dfbe54976", null ],
+    [ "Reset", "dc/d32/a20790.html#a7b118ec6fa25c0f452419d1f5b4a698f", null ],
+    [ "SelectT", "dc/d32/a20790.html#a3fa38189c886a486aabb39a372834938", null ],
+    [ "UpdateAI", "dc/d32/a20790.html#a6a8489763ca223c749aa71c2da05b3cf", null ],
+    [ "_isCaster", "dc/d32/a20790.html#abfd184437df3983659a9ae21a13638fb", null ],
+    [ "events", "dc/d32/a20790.html#aad99dd6ca7d3595222ce42b5b859e462", null ]
 ];

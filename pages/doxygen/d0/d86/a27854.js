@@ -1,6 +1,8 @@
 var a27854 =
 [
-    [ "npc_pet_trainerAI", "d2/d7b/a27858.html", "d2/d7b/a27858" ],
-    [ "npc_pet_trainer", "d0/d86/a27854.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "d0/d86/a27854.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "HandleDummy", "d0/d86/a27854.html#ad2eec86cff225cc0bd806e31596fb127", null ],
+    [ "PrepareSpellScript", "d0/d86/a27854.html#a59a04dcfee911c70e13ea8d27b4a49c4", null ],
+    [ "Register", "d0/d86/a27854.html#a6c72b4c813368774283ae94036a43ee2", null ],
+    [ "SendMiss", "d0/d86/a27854.html#a7c6d300e60ed492c82d5c017d3e73ed1", null ],
+    [ "Validate", "d0/d86/a27854.html#a9a5014de08f73ad5dad29354812030ac", null ]
 ];

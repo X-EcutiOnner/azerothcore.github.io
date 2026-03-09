@@ -1,10 +1,7 @@
 var a12854 =
 [
-    [ "npc_netherspite_infernal", "df/d9a/a12854.html#af9837d7a671533523ce323c083c4e847", null ],
-    [ "DamageTaken", "df/d9a/a12854.html#aee9b38f3590e08b16de1789576986a09", null ],
-    [ "JustEngagedWith", "df/d9a/a12854.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
-    [ "KilledUnit", "df/d9a/a12854.html#a49c37fbebed2951c493962c1a3bd0339", null ],
-    [ "MoveInLineOfSight", "df/d9a/a12854.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
-    [ "SpellHit", "df/d9a/a12854.html#abb6c7d0b5e231e460b069198b16106b7", null ],
-    [ "UpdateAI", "df/d9a/a12854.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
+    [ "HandleRemove", "df/d9a/a12854.html#a754b44b62c131e20e1be94b3407e2006", null ],
+    [ "PrepareAuraScript", "df/d9a/a12854.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
+    [ "Register", "df/d9a/a12854.html#a02cd375ec140f7614104b7e56df13430", null ],
+    [ "Validate", "df/d9a/a12854.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
 ];

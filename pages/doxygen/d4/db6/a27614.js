@@ -1,6 +1,6 @@
 var a27614 =
 [
-    [ "guard_shattrath_scryerAI", "d4/dec/a27618.html", "d4/dec/a27618" ],
-    [ "guard_shattrath_scryer", "d4/db6/a27614.html#a2ee4d6881d7c24cd848c590b84207663", null ],
-    [ "GetAI", "d4/db6/a27614.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
+    [ "HandleProc", "d4/db6/a27614.html#afb4fb2152937e62982aab2a17820d1d9", null ],
+    [ "PrepareAuraScript", "d4/db6/a27614.html#a43ec587b6e8ac94baba7253dfec47640", null ],
+    [ "Register", "d4/db6/a27614.html#ad0824cc4c53915239d609aa117fc4691", null ]
 ];

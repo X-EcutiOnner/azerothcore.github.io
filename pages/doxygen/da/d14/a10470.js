@@ -1,10 +1,10 @@
 var a10470 =
 [
-    [ "WorldObjectScript", "da/d14/a10470.html#af044c3699a591c137abc5e03c772890b", null ],
-    [ "IsDatabaseBound", "da/d14/a10470.html#a48f037dd6152ff68ebef672de68df45e", null ],
-    [ "OnWorldObjectCreate", "da/d14/a10470.html#a2b32bc661e5a377de98902f3bc16679b", null ],
-    [ "OnWorldObjectDestroy", "da/d14/a10470.html#a7856d4b561cd99a7f405f86fffd57fef", null ],
-    [ "OnWorldObjectResetMap", "da/d14/a10470.html#a32e6b907a20d84377e1ddfce79b5cfe1", null ],
-    [ "OnWorldObjectSetMap", "da/d14/a10470.html#a12cf83d65dded66b41ca54a3c1bd31cb", null ],
-    [ "OnWorldObjectUpdate", "da/d14/a10470.html#abc139d1aa728f8a70886eed65d28f566", null ]
+    [ "QuestStatusData", "da/d14/a10470.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
+    [ "CreatureOrGOCount", "da/d14/a10470.html#aa5892dc0744a41ac565568307f12ad35", null ],
+    [ "Explored", "da/d14/a10470.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
+    [ "ItemCount", "da/d14/a10470.html#a466999cea52f65bf58916bc34750bf95", null ],
+    [ "PlayerCount", "da/d14/a10470.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
+    [ "Status", "da/d14/a10470.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
+    [ "Timer", "da/d14/a10470.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
 ];

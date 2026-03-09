@@ -1,6 +1,9 @@
 var a18190 =
 [
-    [ "CheckTarget", "de/d93/a18190.html#afce64ba75f8370cab6b8f1e561b10587", null ],
-    [ "PrepareSpellScript", "de/d93/a18190.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
-    [ "Register", "de/d93/a18190.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
+    [ "CalculateDamage", "de/d93/a18190.html#a6a9e90d9463825b38b69afc234b35b39", null ],
+    [ "PrepareSpellScript", "de/d93/a18190.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
+    [ "Register", "de/d93/a18190.html#a2722814a55469e5bae572766ed36309b", null ],
+    [ "RemoveEnergy", "de/d93/a18190.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
+    [ "StoreEnergy", "de/d93/a18190.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
+    [ "_energyLeft", "de/d93/a18190.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
 ];

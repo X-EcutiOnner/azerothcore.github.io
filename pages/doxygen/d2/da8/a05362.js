@@ -1,8 +1,9 @@
 var a05362 =
 [
-    [ "Decode", "d2/da8/a05362.html#aacf2a55e180aa5ee475ac76c6af4d47a", null ],
-    [ "Encode", "d2/da8/a05362.html#a51c8847dc9b75161f4d2d366324dc50f", null ],
-    [ "BITS_PER_CHAR", "d2/da8/a05362.html#a10f3736ee2ed8e79e1236798e2b1d2be", null ],
-    [ "DECODE_ERROR", "d2/da8/a05362.html#ace6b211be8a36043942f0a1aaee063b1", null ],
-    [ "PADDING", "d2/da8/a05362.html#af099d69cc636a7ad298ec9e38b2f20d2", null ]
+    [ "criticalOptionSeverity", "d2/da8/a05362.html#adfaae562c345965b96fa5f7c92da161e", null ],
+    [ "defaultSeverity", "d2/da8/a05362.html#a4d490930b6bbaa9c50570ff9808b1af9", null ],
+    [ "missingFileSeverity", "d2/da8/a05362.html#a8cd5da53d2cd0b5d0533741a2dcf651c", null ],
+    [ "missingOptionSeverity", "d2/da8/a05362.html#a3c64d5a1ac04533f27af53de8d688ec5", null ],
+    [ "unknownOptionSeverity", "d2/da8/a05362.html#ad41070de3cb2c7fa2916654b9e2a693e", null ],
+    [ "valueErrorSeverity", "d2/da8/a05362.html#a2c1a05a826289e1cc3f01a988718dda2", null ]
 ];

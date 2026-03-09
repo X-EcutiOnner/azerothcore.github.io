@@ -1,6 +1,9 @@
 var a21478 =
 [
-    [ "boss_cyanigosaAI", "de/d30/a21482.html", "de/d30/a21482" ],
-    [ "boss_cyanigosa", "d1/d45/a21478.html#a4db12e2fb873ad3595a437df09663a22", null ],
-    [ "GetAI", "d1/d45/a21478.html#a779c7c3a5f0002501361fa92fe14af69", null ]
+    [ "npc_azure_stalkerAI", "d1/d45/a21478.html#a1499e734f0d95d491bcd23c2e858a1ee", null ],
+    [ "Reset", "d1/d45/a21478.html#a9bd36e95ce7c3157a2ac53400da51d23", null ],
+    [ "UpdateAI", "d1/d45/a21478.html#a8c4ea046d69b269e886960ba9562fd0c", null ],
+    [ "TacticalBlinkCasted", "d1/d45/a21478.html#a875a272380251fcc7f98e5c0f84bb41a", null ],
+    [ "uiBackstabTimer", "d1/d45/a21478.html#ad03ba957706a62e3d8091d025ddd50dc", null ],
+    [ "uiTacticalBlinkTimer", "d1/d45/a21478.html#ab817fb9f2f06715f0a08a99e12693697", null ]
 ];

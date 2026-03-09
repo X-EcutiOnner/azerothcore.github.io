@@ -1,10 +1,6 @@
 var a16470 =
 [
-    [ "npc_black_knight_ghoulAI", "d7/d57/a16470.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
-    [ "JustEngagedWith", "d7/d57/a16470.html#a8353dea0de91017223c7624a5a96ebec", null ],
-    [ "Reset", "d7/d57/a16470.html#a8a33efa0719063a9565bc07143f8ad83", null ],
-    [ "SpellHit", "d7/d57/a16470.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
-    [ "UpdateAI", "d7/d57/a16470.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
-    [ "events", "d7/d57/a16470.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
-    [ "pInstance", "d7/d57/a16470.html#a35b8375f1b3407f5cee653ee118e0697", null ]
+    [ "HandleScriptEffect", "d7/d57/a16470.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "d7/d57/a16470.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "d7/d57/a16470.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

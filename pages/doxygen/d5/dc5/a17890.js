@@ -1,6 +1,6 @@
 var a17890 =
 [
-    [ "IgbArtilleryCheck", "d5/dc5/a17890.html#a78b65928551ed799cf3f446f0603c50e", null ],
-    [ "operator()", "d5/dc5/a17890.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
-    [ "_entry", "d5/dc5/a17890.html#a98a6a0836414da82c288e372e982f69f", null ]
+    [ "BloodboltHitCheck", "d5/dc5/a17890.html#a84873f1ec2c1e214e35d32954622e9af", null ],
+    [ "operator()", "d5/dc5/a17890.html#a1eddfd7bbea8def20dcc080413af6364", null ],
+    [ "_ai", "d5/dc5/a17890.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
 ];

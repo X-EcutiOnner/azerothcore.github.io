@@ -1,6 +1,7 @@
 var a22082 =
 [
-    [ "npc_mrfloppyAI", "d6/d1a/a22086.html", "d6/d1a/a22086" ],
-    [ "npc_mrfloppy", "d8/d4f/a22082.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
-    [ "GetAI", "d8/d4f/a22082.html#a88590566309f3fc155eb6dc26055a161", null ]
+    [ "HandleDummy", "d8/d4f/a22082.html#abfb58e49821e6a563940e8ba518db850", null ],
+    [ "PrepareSpellScript", "d8/d4f/a22082.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
+    [ "Register", "d8/d4f/a22082.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
+    [ "Validate", "d8/d4f/a22082.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
 ];

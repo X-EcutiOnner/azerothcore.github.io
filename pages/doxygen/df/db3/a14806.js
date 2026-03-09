@@ -1,7 +1,11 @@
 var a14806 =
 [
-    [ "HandleOnHit", "df/db3/a14806.html#a9f1d78b4a98bc76877903b79923c1634", null ],
-    [ "PrepareSpellScript", "df/db3/a14806.html#afb0a8a16850da30b0fbdb3d10a935f21", null ],
-    [ "Register", "df/db3/a14806.html#ab923488eb891e1f9b1f5cb8ed61f3865", null ],
-    [ "Validate", "df/db3/a14806.html#a57d85b1702e5c89d72972505121180ed", null ]
+    [ "npc_the_biggest_tree", "df/db3/a14806.html#a7366f46c4864fa0f1372c920b94c6e97", null ],
+    [ "MoveInLineOfSight", "df/db3/a14806.html#a572c0b146d461b6a8504163452570954", null ],
+    [ "Reset", "df/db3/a14806.html#a3fd4c5e522e8945925124426a8ff870b", null ],
+    [ "UpdateAI", "df/db3/a14806.html#a3d1b33ab7cd28de5438f53a00657170a", null ],
+    [ "orphanGUID", "df/db3/a14806.html#a36c170fb178a19256fd41fb2cbbb7830", null ],
+    [ "phase", "df/db3/a14806.html#a7101fe10b15ce1779d3d131e597ef636", null ],
+    [ "playerGUID", "df/db3/a14806.html#ab39af61d9ab7d9f7210f96b65971654d", null ],
+    [ "timer", "df/db3/a14806.html#a7525783692c3bc9642f534296b71a5f5", null ]
 ];

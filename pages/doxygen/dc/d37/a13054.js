@@ -1,5 +1,6 @@
 var a13054 =
 [
-    [ "boss_ellris_duskhallow", "dc/d37/a13054.html#a85dc1f923c8211180cc5b250fb509ba7", null ],
-    [ "JustEngagedWith", "dc/d37/a13054.html#a5bb5bc51b62ad371bf086c6ced2eee89", null ]
+    [ "boss_mr_smiteAI", "d8/d8b/a13058.html", "d8/d8b/a13058" ],
+    [ "boss_mr_smite", "dc/d37/a13054.html#a011d41112ef7376b71d2959f806be262", null ],
+    [ "GetAI", "dc/d37/a13054.html#a619ca0aede1eb33f992328048319c4f0", null ]
 ];

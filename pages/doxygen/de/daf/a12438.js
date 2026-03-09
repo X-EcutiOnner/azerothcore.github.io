@@ -1,7 +1,14 @@
 var a12438 =
 [
-    [ "HandleScript", "de/daf/a12438.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
-    [ "PrepareSpellScript", "de/daf/a12438.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
-    [ "Register", "de/daf/a12438.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
-    [ "Validate", "de/daf/a12438.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
+    [ "boss_general_angerforgeAI", "de/daf/a12438.html#af5537ccebc7ac6af49f9b6612d3a6138", null ],
+    [ "JustEngagedWith", "de/daf/a12438.html#ae99e11630596c62c4155a18f5a0a3dd5", null ],
+    [ "Reset", "de/daf/a12438.html#aff55a804bdca840016e0f6b1d11f7106", null ],
+    [ "SummonAdds", "de/daf/a12438.html#a218f4de2d057505f60b2977835e5fd91", null ],
+    [ "SummonMedics", "de/daf/a12438.html#aeabe71bde9b03a944beedeac68cffd19", null ],
+    [ "UpdateAI", "de/daf/a12438.html#a751c0d0015c235c8716a2a8ff18500ba", null ],
+    [ "Adds_Timer", "de/daf/a12438.html#a069f0008735b38c249ddfe5246025438", null ],
+    [ "Cleave_Timer", "de/daf/a12438.html#af80ac4df7aaab1469ee62ac8b054a0b9", null ],
+    [ "HamString_Timer", "de/daf/a12438.html#a04c51b1400d17454ca529d6aa257697b", null ],
+    [ "Medics", "de/daf/a12438.html#a06fc801b89c53430603f1a33bb3e7bd8", null ],
+    [ "MightyBlow_Timer", "de/daf/a12438.html#aeea6bb264e2d175d1906d8606eced529", null ]
 ];

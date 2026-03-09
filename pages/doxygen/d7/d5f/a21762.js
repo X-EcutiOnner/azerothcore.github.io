@@ -1,14 +1,7 @@
 var a21762 =
 [
-    [ "npc_hidden_cultistAI", "d7/d5f/a21762.html#a970aaa2401664337147696624cc8cac4", null ],
-    [ "AttackPlayer", "d7/d5f/a21762.html#a55e3b02d05f35d134fc605a13efe9018", null ],
-    [ "Initialize", "d7/d5f/a21762.html#ab9199126a5a19cc3c6dc612bc428d79c", null ],
-    [ "PreScript", "d7/d5f/a21762.html#a92be5361e2b28152adcca0629b286bb8", null ],
-    [ "Reset", "d7/d5f/a21762.html#afe38e448d86cdf910870d72a3890ae1f", null ],
-    [ "sGossipSelect", "d7/d5f/a21762.html#adf6d85bc5a32c8bd7c125d24f67411d9", null ],
-    [ "UpdateAI", "d7/d5f/a21762.html#a0bba4d10439d47d44ff856c7fec18595", null ],
-    [ "_emoteState", "d7/d5f/a21762.html#adb4e884787dc480358c5be22d276ec49", null ],
-    [ "_events", "d7/d5f/a21762.html#ab0494e33d16a43aa1426784d1882e41c", null ],
-    [ "_npcFlags", "d7/d5f/a21762.html#aea867d06cb737e2a44445c2c8c7d6e45", null ],
-    [ "_playerGUID", "d7/d5f/a21762.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18", null ]
+    [ "CheckCast", "d7/d5f/a21762.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
+    [ "HandleScript", "d7/d5f/a21762.html#a8128bb2d7588409dae73bed78d5285a7", null ],
+    [ "PrepareSpellScript", "d7/d5f/a21762.html#aee17a8a21ec5df027082c6990189dccc", null ],
+    [ "Register", "d7/d5f/a21762.html#a2a97265e102e9ce31997d99275b42973", null ]
 ];

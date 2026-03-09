@@ -1,6 +1,6 @@
 var a21010 =
 [
-    [ "boss_yoggsaron_death_orbAI", "db/de9/a21010.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
-    [ "UpdateAI", "db/de9/a21010.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
-    [ "_startTimer", "db/de9/a21010.html#aebc8edef5f84219e1c50f2394d129443", null ]
+    [ "CheckCast", "db/de9/a21010.html#a715a58956db4253c8adfed039833debd", null ],
+    [ "PrepareSpellScript", "db/de9/a21010.html#a3b03178d8ab54db36a19ba5a27444917", null ],
+    [ "Register", "db/de9/a21010.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
 ];

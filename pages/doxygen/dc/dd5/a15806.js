@@ -1,9 +1,5 @@
 var a15806 =
 [
-    [ "npc_custodian_of_timeAI", "dc/dd5/a15806.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
-    [ "JustEngagedWith", "dc/dd5/a15806.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
-    [ "MoveInLineOfSight", "dc/dd5/a15806.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
-    [ "Reset", "dc/dd5/a15806.html#a56bcc694ac286488ed4b3f2328c30573", null ],
-    [ "UpdateAI", "dc/dd5/a15806.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
-    [ "WaypointReached", "dc/dd5/a15806.html#a963736e62fbd0caea631ee3fb69fca46", null ]
+    [ "at_battleguard_sartura", "dc/dd5/a15806.html#a9247cdebeb57d2ddbfa75f60da125d36", null ],
+    [ "OnTrigger", "dc/dd5/a15806.html#a6a7b9f210ce0c2844b4f2412c0fe440e", null ]
 ];

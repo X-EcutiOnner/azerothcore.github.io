@@ -1,6 +1,6 @@
 var a12322 =
 [
-    [ "OrcDeathEvent", "db/de2/a12322.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
-    [ "Execute", "db/de2/a12322.html#a293ec6667da669a27fe75965f919cd68", null ],
-    [ "_me", "db/de2/a12322.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
+    [ "boss_drektharAI", "d7/def/a12326.html", "d7/def/a12326" ],
+    [ "boss_drekthar", "db/de2/a12322.html#ac9296654b10191ac9d58219ba36f57b3", null ],
+    [ "GetAI", "db/de2/a12322.html#adeacbbc81ab675260c2cac1a6c76d3fe", null ]
 ];

@@ -1,4 +1,4 @@
 var a01709 =
 [
-    [ "MapReference", "d8/d13/a10084.html", "d8/d13/a10084" ]
+    [ "MapRefMgr", "d6/d82/a10118.html", "d6/d82/a10118" ]
 ];

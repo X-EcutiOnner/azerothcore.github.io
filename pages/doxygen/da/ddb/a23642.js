@@ -1,7 +1,6 @@
 var a23642 =
 [
-    [ "OnApply", "da/ddb/a23642.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
-    [ "PeriodicTick", "da/ddb/a23642.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
-    [ "PrepareAuraScript", "da/ddb/a23642.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
-    [ "Register", "da/ddb/a23642.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
+    [ "boss_porung", "da/ddb/a23642.html#acef31010461bbf716ac9b13d950807ee", null ],
+    [ "JustDied", "da/ddb/a23642.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
+    [ "JustEngagedWith", "da/ddb/a23642.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
 ];

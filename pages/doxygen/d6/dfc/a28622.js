@@ -1,5 +1,7 @@
 var a28622 =
 [
-    [ "ID", "d6/dfc/a28622.html#a0272b3c1130508a2681035c91ee416e6", null ],
-    [ "SpellID", "d6/dfc/a28622.html#a231d22a763ddcd9f1fbdab81521dcf67", null ]
+    [ "npc_venomhide_hatchlingAI", "db/d4e/a28626.html", "db/d4e/a28626" ],
+    [ "npc_venomhide_hatchling", "d6/dfc/a28622.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
+    [ "GetAI", "d6/dfc/a28622.html#a96110b752965d751ab7b466c4f67e333", null ],
+    [ "OnGossipHello", "d6/dfc/a28622.html#a404d875592b847ddb9f3250c9d954bfc", null ]
 ];

@@ -1,6 +1,8 @@
 var a17026 =
 [
-    [ "boss_marwynAI", "dc/d13/a17030.html", "dc/d13/a17030" ],
-    [ "boss_marwyn", "de/d75/a17026.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
-    [ "GetAI", "de/d75/a17026.html#af1c83878d2121163994bc327ae8e04f7", null ]
+    [ "npc_toc_pet_hunterAI", "de/d75/a17026.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
+    [ "EnterEvadeMode", "de/d75/a17026.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
+    [ "myCanCast", "de/d75/a17026.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
+    [ "UpdateAI", "de/d75/a17026.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
+    [ "events", "de/d75/a17026.html#ade038312363f976b34868ed2cbebb58d", null ]
 ];

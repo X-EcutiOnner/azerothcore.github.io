@@ -1,6 +1,7 @@
 var a22822 =
 [
-    [ "instance_mana_tombs_InstanceMapScript", "df/d44/a22826.html", "df/d44/a22826" ],
-    [ "instance_mana_tombs", "da/daf/a22822.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
-    [ "GetInstanceScript", "da/daf/a22822.html#a26e4dad0957df886bc446396ab48ceda", null ]
+    [ "boss_lady_malande", "da/daf/a22822.html#a8cb693d203463dcba809e7ffc23c6868", null ],
+    [ "AttackStart", "da/daf/a22822.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
+    [ "JustEngagedWith", "da/daf/a22822.html#af4b5f376e387851e15517de03636acde", null ],
+    [ "UpdateAI", "da/daf/a22822.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
 ];

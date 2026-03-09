@@ -1,9 +1,8 @@
 var a17274 =
 [
-    [ "npc_pos_collapsing_icicleAI", "dc/d7c/a17274.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
-    [ "SpellHitTarget", "dc/d7c/a17274.html#aea107ede3b11726b3f7caae590edaf52", null ],
-    [ "UpdateAI", "dc/d7c/a17274.html#ade416a422e67ce61e8874320cce7143b", null ],
-    [ "pInstance", "dc/d7c/a17274.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
-    [ "timer1", "dc/d7c/a17274.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
-    [ "timer2", "dc/d7c/a17274.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
+    [ "npc_fos_corrupted_soul_fragmentAI", "dc/d7c/a17274.html#a61797329ecddde6da2e23e951fa92ca2", null ],
+    [ "Reset", "dc/d7c/a17274.html#a5bb03371b24593ca2de995bf85857782", null ],
+    [ "UpdateAI", "dc/d7c/a17274.html#ac6e651186c5edfd8e5279ddd38a15eb9", null ],
+    [ "pInstance", "dc/d7c/a17274.html#a6ced23b3b4150b31020a636559d6eec6", null ],
+    [ "timer", "dc/d7c/a17274.html#aa19c9928e3979bb01d89dc81b8feb4fc", null ]
 ];

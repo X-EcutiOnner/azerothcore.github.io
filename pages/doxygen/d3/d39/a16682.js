@@ -1,7 +1,7 @@
 var a16682 =
 [
-    [ "npc_toc_enh_shamanAI", "d3/d39/a16682.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
-    [ "myCanCast", "d3/d39/a16682.html#a8a38da4063a22361b25835a67f14ff52", null ],
-    [ "UpdateAI", "d3/d39/a16682.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
-    [ "events", "d3/d39/a16682.html#adec973540bf3b046f54547fb845c06b1", null ]
+    [ "HandleDummy", "d3/d39/a16682.html#a96b430cb0546fb599da22cd675660187", null ],
+    [ "PrepareSpellScript", "d3/d39/a16682.html#ad0330cb78a330f05c18f33375f231fbc", null ],
+    [ "Register", "d3/d39/a16682.html#a70a36683a235dec6044a8a32f20c606c", null ],
+    [ "Validate", "d3/d39/a16682.html#affa7ccf869e98eacd3a153cc645d704e", null ]
 ];

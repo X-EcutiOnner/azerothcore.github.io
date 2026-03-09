@@ -1,6 +1,9 @@
 var a10210 =
 [
-    [ "PoolObject", "da/d7f/a10210.html#a772dc7bc9e1ce25edba89977bf87e3f0", null ],
-    [ "chance", "da/d7f/a10210.html#ae129795bb2f358af900dbc8892502123", null ],
-    [ "guid", "da/d7f/a10210.html#ae10fa01f5959e231fe2c16d38d9f3615", null ]
+    [ "ChaseAngle", "da/d7f/a10210.html#a0744c615f437514a52b5a26fb717013a", null ],
+    [ "IsAngleOkay", "da/d7f/a10210.html#aec86c653850655b723e5224ea20b0e21", null ],
+    [ "LowerBound", "da/d7f/a10210.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
+    [ "UpperBound", "da/d7f/a10210.html#a275d01ce57b23d42d4150b10c8433dee", null ],
+    [ "RelativeAngle", "da/d7f/a10210.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
+    [ "Tolerance", "da/d7f/a10210.html#a2bb42885da594380cb742c29b6518ea3", null ]
 ];

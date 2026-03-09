@@ -1,6 +1,6 @@
 var a22470 =
 [
-    [ "HandleScriptEffect", "de/d45/a22470.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
-    [ "PrepareSpellScript", "de/d45/a22470.html#afa4ad1b205bf963b4230881738baf938", null ],
-    [ "Register", "de/d45/a22470.html#a0d8925effced854471e2fbec9c631b91", null ]
+    [ "FilterTargets", "de/d45/a22470.html#a4d81860c41daab44851da605d38b4753", null ],
+    [ "PrepareSpellScript", "de/d45/a22470.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
+    [ "Register", "de/d45/a22470.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
 ];

@@ -1,8 +1,6 @@
 var a20098 =
 [
-    [ "npc_brann_radioAI", "d8/dd1/a20098.html#a329ca0310efe109f7fb364045f6eccbb", null ],
-    [ "MoveInLineOfSight", "d8/dd1/a20098.html#ad119431edd6f632b4c44fc4e8708d375", null ],
-    [ "Reset", "d8/dd1/a20098.html#a89183942dcb38f48de1867bfbce15721", null ],
-    [ "_helpLock", "d8/dd1/a20098.html#ae927b6c8143cfb029ab6574d10dde60e", null ],
-    [ "_lock", "d8/dd1/a20098.html#a421cfd2b8b149a0f3ea5bc2262ba6bac", null ]
+    [ "CosmicSmashDamageEvent", "d8/dd1/a20098.html#a5c9606791b560d8be1825a9c73f2393e", null ],
+    [ "Execute", "d8/dd1/a20098.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
+    [ "_caster", "d8/dd1/a20098.html#ab7af2459d3962831812ee2362ee9de2b", null ]
 ];

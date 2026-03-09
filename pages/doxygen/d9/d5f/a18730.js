@@ -1,6 +1,15 @@
 var a18730 =
 [
-    [ "HandleScript", "d9/d5f/a18730.html#a930b8a515b5d156c16925dc218cf8172", null ],
-    [ "PrepareSpellScript", "d9/d5f/a18730.html#a892b0ba0f6541b3557a0200be5028479", null ],
-    [ "Register", "d9/d5f/a18730.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
+    [ "npc_tirion_fordringAI", "d9/d5f/a18730.html#aa0f94cef85e96cda4a2e280eaa7110de", null ],
+    [ "CanAIAttack", "d9/d5f/a18730.html#a1bdef323e9c7364fab789abc39ef00a0", null ],
+    [ "DoAction", "d9/d5f/a18730.html#a5fd5b3fde84ed04c794546d11fe946d7", null ],
+    [ "EnterEvadeMode", "d9/d5f/a18730.html#a1275cee8f49c67920041ad8d50c62aa4", null ],
+    [ "JustReachedHome", "d9/d5f/a18730.html#a6e6c7c2f4f8e60126fd4adc42fe3b4f4", null ],
+    [ "MovementInform", "d9/d5f/a18730.html#a7284240c4eafbc80748d5e2867a64a9f", null ],
+    [ "Reset", "d9/d5f/a18730.html#ac41e569535322bb5907fa4116bbac739", null ],
+    [ "sGossipSelect", "d9/d5f/a18730.html#a56599a97f019121160b2f6ac43019772", null ],
+    [ "SpellHit", "d9/d5f/a18730.html#ae68b900f87c646cfb3ece5518b59e687", null ],
+    [ "UpdateAI", "d9/d5f/a18730.html#a3f729624820266f1cf1e5577c5047c3b", null ],
+    [ "_events", "d9/d5f/a18730.html#a7bb0d243cc9b3e836dd99864f2a5e669", null ],
+    [ "_instance", "d9/d5f/a18730.html#a223a7f09ae03971487bb55e770503f7e", null ]
 ];

@@ -1,8 +1,6 @@
 var a13534 =
 [
-    [ "FilterTargets", "d3/dd6/a13534.html#a3aac5e364d04a4a086aaa911051417d5", null ],
-    [ "HandleDummy", "d3/dd6/a13534.html#aa0705dee3edeca7b61f82581f367e94a", null ],
-    [ "PrepareSpellScript", "d3/dd6/a13534.html#a1efa036eac25d789850849dc1b209379", null ],
-    [ "Register", "d3/dd6/a13534.html#a656b512d5bef657004a72acbf7875760", null ],
-    [ "Validate", "d3/dd6/a13534.html#a33534d9fd70af99bbde1e4a908d22084", null ]
+    [ "OnRemove", "d3/dd6/a13534.html#aedad236b202300eee0925e3600b87bfa", null ],
+    [ "PrepareAuraScript", "d3/dd6/a13534.html#acfdeb98e274989e378d4d4c800306a24", null ],
+    [ "Register", "d3/dd6/a13534.html#a0d820ca108e3aabe87ab5867d997264c", null ]
 ];

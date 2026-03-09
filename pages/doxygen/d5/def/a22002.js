@@ -1,6 +1,6 @@
 var a22002 =
 [
-    [ "GhoulTargetCheck", "d5/def/a22002.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
-    [ "operator()", "d5/def/a22002.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
-    [ "_alive", "d5/def/a22002.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
+    [ "npc_razael_and_lyana", "d5/def/a22002.html#aec7257a1136a3580e2b4542e032429d6", null ],
+    [ "OnGossipHello", "d5/def/a22002.html#a9c9085db92853d5275c12e804a68b0fc", null ],
+    [ "OnGossipSelect", "d5/def/a22002.html#a407d8344280e8e38efb3991fda1d52cd", null ]
 ];

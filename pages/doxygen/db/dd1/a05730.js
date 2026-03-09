@@ -1,10 +1,21 @@
 var a05730 =
 [
-    [ "FreezeDetector", "dc/d6d/a04802.html#gae4bea4699ff716ee22295d12bc9f1b9b", null ],
-    [ "Handler", "dc/d6d/a04802.html#gad4c4e5b291e0c6c2dc169a7dbffdfabb", null ],
-    [ "Start", "dc/d6d/a04802.html#ga6a90ff702a8d363bd23334c81e2e5770", null ],
-    [ "_lastChangeMsTime", "dc/d6d/a04802.html#ga0a2b971b7ea733d846be71abf7b5dc1d", null ],
-    [ "_maxCoreStuckTimeInMs", "dc/d6d/a04802.html#ga54077eab38ea5d0db27f08c50fd0652e", null ],
-    [ "_timer", "dc/d6d/a04802.html#ga2377cec7cca6dbb9133a3d48b4d376c3", null ],
-    [ "_worldLoopCounter", "dc/d6d/a04802.html#ga0ea988a0e070d056c16d7c9f3b1035f4", null ]
+    [ "EventProcessor", "db/dd1/a05730.html#a5c430ef08365f5eeca0f3321991bfaac", null ],
+    [ "~EventProcessor", "db/dd1/a05730.html#af30a066c911c3841d35854c900743b9e", null ],
+    [ "AddEvent", "db/dd1/a05730.html#afd92abbbf10158540614eb615f7f2e2b", null ],
+    [ "AddEvent", "db/dd1/a05730.html#a3ed0b93d52ff192098983a3e6a9c5acd", null ],
+    [ "AddEventAtOffset", "db/dd1/a05730.html#a9f961ef09108513fd1ea06cf756744d3", null ],
+    [ "AddEventAtOffset", "db/dd1/a05730.html#a1da0c3001bd6009d6bac25a969ed7196", null ],
+    [ "AddEventAtOffset", "db/dd1/a05730.html#a1f1251ae4804bb53d8d7244d74ca6591", null ],
+    [ "AddEventAtOffset", "db/dd1/a05730.html#a25566439bbb1d9de555e20380184b38f", null ],
+    [ "CalculateQueueTime", "db/dd1/a05730.html#a2db97870b30361980b2d72ef806de951", null ],
+    [ "CalculateTime", "db/dd1/a05730.html#a1a92f983f1dd415146c2875f80cba433", null ],
+    [ "CancelEventGroup", "db/dd1/a05730.html#a29651ba6704e7908820af60ec37a2478", null ],
+    [ "HasEvents", "db/dd1/a05730.html#a5f09366ac8e595f24b0c095f4127b9e7", null ],
+    [ "KillAllEvents", "db/dd1/a05730.html#a15a65ecc2391f505266176cfc7f29c39", null ],
+    [ "ModifyEventTime", "db/dd1/a05730.html#ad54487e1753d8ce12bdddb1358ddb0cc", null ],
+    [ "Update", "db/dd1/a05730.html#a72fe67593c7684a55d27fb225ea51d05", null ],
+    [ "m_aborting", "db/dd1/a05730.html#a7a1beec186648c90c112ead3cc5df064", null ],
+    [ "m_events", "db/dd1/a05730.html#a168a435c77de52a151c735d3f004dbb9", null ],
+    [ "m_time", "db/dd1/a05730.html#a829eb8c07982b66e98c0ca118b54aaef", null ]
 ];

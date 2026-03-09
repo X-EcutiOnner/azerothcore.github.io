@@ -1,7 +1,6 @@
 var a12506 =
 [
-    [ "HandleDummy", "d9/d86/a12506.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
-    [ "PrepareSpellScript", "d9/d86/a12506.html#a6ec124990f202af0c6063c285bf04d88", null ],
-    [ "Register", "d9/d86/a12506.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
-    [ "Validate", "d9/d86/a12506.html#ae35efa08f507aac5b72166a216d01870", null ]
+    [ "boss_gloomrel", "d9/d86/a12506.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
+    [ "OnGossipHello", "d9/d86/a12506.html#a6ce6898142d767a130ec09769f2be488", null ],
+    [ "OnGossipSelect", "d9/d86/a12506.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
 ];

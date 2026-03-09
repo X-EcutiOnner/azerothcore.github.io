@@ -1,7 +1,8 @@
 var a17898 =
 [
-    [ "DamageGunship", "d5/d44/a17898.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
-    [ "PrepareSpellScript", "d5/d44/a17898.html#aa698d016ae58d665c081976f20ec0385", null ],
-    [ "Register", "d5/d44/a17898.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
-    [ "Validate", "d5/d44/a17898.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
+    [ "OnApply", "d5/d44/a17898.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
+    [ "OnRemove", "d5/d44/a17898.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
+    [ "PrepareAuraScript", "d5/d44/a17898.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
+    [ "Register", "d5/d44/a17898.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
+    [ "Validate", "d5/d44/a17898.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
 ];

@@ -1,5 +1,6 @@
 var a17162 =
 [
-    [ "at_hor_battered_hilt_throw", "d3/d94/a17162.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
-    [ "OnTrigger", "d3/d94/a17162.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
+    [ "npc_announcer_toc10", "d3/d94/a17162.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
+    [ "OnGossipHello", "d3/d94/a17162.html#afcc5262e7c49b7456af146de14805a06", null ],
+    [ "OnGossipSelect", "d3/d94/a17162.html#a9a2bf1d3a215332744ca473041cc0520", null ]
 ];

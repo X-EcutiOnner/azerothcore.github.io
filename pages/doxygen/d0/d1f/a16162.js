@@ -1,6 +1,6 @@
 var a16162 =
 [
-    [ "boss_sartharion_shadronAI", "d7/def/a16166.html", "d7/def/a16166" ],
-    [ "boss_sartharion_shadron", "d0/d1f/a16162.html#ac297719abff8c795af10973492fc6fbe", null ],
-    [ "GetAI", "d0/d1f/a16162.html#a95c7184ee7589f01920adc57a7df963b", null ]
+    [ "npc_taskmaster_fizzuleAI", "d7/def/a16166.html", "d7/def/a16166" ],
+    [ "npc_taskmaster_fizzule", "d0/d1f/a16162.html#aa42e6cc1a3ac58ea79f5184f7bb293a9", null ],
+    [ "GetAI", "d0/d1f/a16162.html#a6281de7424932fe6580ffefa199498d9", null ]
 ];

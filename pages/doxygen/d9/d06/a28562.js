@@ -1,10 +1,7 @@
 var a28562 =
 [
-    [ "PvPDifficultyEntry", "d9/d06/a28562.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
-    [ "GetBracketId", "d9/d06/a28562.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
-    [ "bracketId", "d9/d06/a28562.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
-    [ "difficulty", "d9/d06/a28562.html#a33ac017d785a4586a78e715d97836720", null ],
-    [ "mapId", "d9/d06/a28562.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
-    [ "maxLevel", "d9/d06/a28562.html#a1385166568239f2118b65377df8b4b55", null ],
-    [ "minLevel", "d9/d06/a28562.html#acd07e8d759af1b73ec7543f6e70df242", null ]
+    [ "npc_sayge", "d9/d06/a28562.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
+    [ "OnGossipHello", "d9/d06/a28562.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
+    [ "OnGossipSelect", "d9/d06/a28562.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
+    [ "SendAction", "d9/d06/a28562.html#aed1988335672423d024546654aa95298", null ]
 ];

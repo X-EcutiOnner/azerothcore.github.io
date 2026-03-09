@@ -1,20 +1,14 @@
 var a21342 =
 [
-    [ "boss_skadi_graufAI", "d5/d6f/a21342.html#ad5266bee9f90bc7c5622bd30825820eb", null ],
-    [ "CheckPlayers", "d5/d6f/a21342.html#ac240eae79545ab4dc0b5cbc0f5592e8e", null ],
-    [ "DoAction", "d5/d6f/a21342.html#a51a189e6f1f6c9c6948194d3181a7426", null ],
-    [ "JustEngagedWith", "d5/d6f/a21342.html#a6e9c8012479fac7873567acf1e5476a2", null ],
-    [ "MovementInform", "d5/d6f/a21342.html#a2b8fc3e54c0a1970510eabd74b4cee5b", null ],
-    [ "RemoveSkadi", "d5/d6f/a21342.html#a11c732dff2d71bce71c0077e1bda57cf", null ],
-    [ "Reset", "d5/d6f/a21342.html#ab04a1a98da7d318ee54c4af9aaabcfae", null ],
-    [ "SelectNextPos", "d5/d6f/a21342.html#aa01ac1cbc1866628c0953b22cca0b114", null ],
-    [ "SpawnFlameTriggers", "d5/d6f/a21342.html#ae7e2383327566d74af8839a4b0e0303f", null ],
-    [ "SpawnHelpers", "d5/d6f/a21342.html#a1ee67c3814a6ab406b7ca304c28314d3", null ],
-    [ "SpellHitTarget", "d5/d6f/a21342.html#a218c5df55286c143711a7f2023ada012", null ],
-    [ "UpdateAI", "d5/d6f/a21342.html#add5671b1f9e20590e1121f8c18d064cc", null ],
-    [ "AchievementHitCount", "d5/d6f/a21342.html#ae233171c66fb042f57156adfafb8e4fb", null ],
-    [ "currentPos", "d5/d6f/a21342.html#a486d9d7998015bb922addf92791cbe8f", null ],
-    [ "events", "d5/d6f/a21342.html#ab1cffcaa77006c54f8c948bc2a8d661a", null ],
-    [ "m_pInstance", "d5/d6f/a21342.html#a4cff3d8e4c1be9a2b5e9b501e455f2be", null ],
-    [ "summons", "d5/d6f/a21342.html#aac4eb6351a0fe1cf7423d277d9375f8a", null ]
+    [ "boss_erekemAI", "d5/d6f/a21342.html#aedf10fef3f0f2ac6797efa5f5a809f4a", null ],
+    [ "EnterEvadeMode", "d5/d6f/a21342.html#a2c9f8f444b3b28d5cfdbaa234e9d76ee", null ],
+    [ "GetChainHealTargetGUID", "d5/d6f/a21342.html#aa346cbaded883bbb3806acf9cb32579a", null ],
+    [ "JustDied", "d5/d6f/a21342.html#a12e7fb5389977dcacb4e1eadda771467", null ],
+    [ "JustEngagedWith", "d5/d6f/a21342.html#ad380838dbb6c2a3488fa57f2999e137c", null ],
+    [ "KilledUnit", "d5/d6f/a21342.html#a120a2c9a6af821ce9a5e68dbab6e800d", null ],
+    [ "MoveInLineOfSight", "d5/d6f/a21342.html#a5905809cba20d426c4d222b1e91055bc", null ],
+    [ "Reset", "d5/d6f/a21342.html#a338bbc123b1d3adef4f014c3302c4590", null ],
+    [ "UpdateAI", "d5/d6f/a21342.html#a234ae447260ae30a137a53fb986e5dc4", null ],
+    [ "events", "d5/d6f/a21342.html#a8d4445b6d35f534061818f7708f39f7e", null ],
+    [ "pInstance", "d5/d6f/a21342.html#aa68ece744a21ed2ef8d3e7c4b4081d8e", null ]
 ];

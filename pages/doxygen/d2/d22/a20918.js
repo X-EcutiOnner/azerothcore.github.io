@@ -1,12 +1,9 @@
 var a20918 =
 [
-    [ "npc_xt002_boombotAI", "d2/d22/a20918.html#a9be3f9270a828946e2934aea24aa5549", null ],
-    [ "DamageTaken", "d2/d22/a20918.html#ad581fd228701d851c8d3bf0f3a1f854c", null ],
-    [ "Explode", "d2/d22/a20918.html#afe8c0408887b8cd0cb533475c221035b", null ],
-    [ "JustDied", "d2/d22/a20918.html#ad6d240b16aa8f7f297b1ad0982a8827e", null ],
-    [ "MovementInform", "d2/d22/a20918.html#a2cb53c683de44347b0448d8a1611300e", null ],
-    [ "Reset", "d2/d22/a20918.html#a5d4f4a4c6c098f440064caa37438a7ed", null ],
-    [ "UpdateAI", "d2/d22/a20918.html#a2bebdd97339b3b545331a494a51246eb", null ],
-    [ "_boomed", "d2/d22/a20918.html#acd75eb57db0043fbae633a2f63924c05", null ],
-    [ "_locked", "d2/d22/a20918.html#ada468c62b133ec1a9c043eec1c52c0d1", null ]
+    [ "boss_yoggsaron_keeper", "d2/d22/a20918.html#ad2098933656371b1bf80ec3ea859c418", null ],
+    [ "DoAction", "d2/d22/a20918.html#a9e3d251810b55072458003356213ae15", null ],
+    [ "JustEngagedWith", "d2/d22/a20918.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
+    [ "JustSummoned", "d2/d22/a20918.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
+    [ "UpdateAI", "d2/d22/a20918.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
+    [ "_summons", "d2/d22/a20918.html#aa840eff5f3d8b24225046113737936b4", null ]
 ];

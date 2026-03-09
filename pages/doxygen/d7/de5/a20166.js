@@ -1,6 +1,5 @@
 var a20166 =
 [
-    [ "CheckAreaTarget", "d7/de5/a20166.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
-    [ "PrepareAuraScript", "d7/de5/a20166.html#a921b2f67c417244310398bd93061d61c", null ],
-    [ "Register", "d7/de5/a20166.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
+    [ "achievement_algalon_herald_of_the_titans", "d7/de5/a20166.html#a13c75b878f4669d212eeb09b55336384", null ],
+    [ "OnCheck", "d7/de5/a20166.html#a20811d7bb453b1758967c11545e630e9", null ]
 ];

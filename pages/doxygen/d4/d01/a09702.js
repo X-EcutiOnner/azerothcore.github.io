@@ -1,5 +1,6 @@
 var a09702 =
 [
-    [ "bossId", "d4/d01/a09702.html#ac7be12fc714b2760399185e96b01efe0", null ],
-    [ "entry", "d4/d01/a09702.html#adae739bf9cf30d1a8ca5c5790dc61c01", null ]
+    [ "AllFriendlyCreaturesInGrid", "d4/d01/a09702.html#a6ad66997d093ffa52e2d80337dcb5460", null ],
+    [ "operator()", "d4/d01/a09702.html#aca2b8ed7de69c57bb270e0c663781f97", null ],
+    [ "unit", "d4/d01/a09702.html#a3842fa1eceabaa2d40b2bab4393cb431", null ]
 ];

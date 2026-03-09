@@ -1,14 +1,11 @@
 var a13698 =
 [
-    [ "instance_uldaman_InstanceMapScript", "d3/d5b/a13698.html#ab2607f229d1e34852c82139ddb597712", null ],
-    [ "GetData", "d3/d5b/a13698.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
-    [ "Initialize", "d3/d5b/a13698.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
-    [ "OnCreatureCreate", "d3/d5b/a13698.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
-    [ "OnGameObjectCreate", "d3/d5b/a13698.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
-    [ "ReadSaveDataMore", "d3/d5b/a13698.html#a8e0e03189463039dd31d883ad9c40e51", null ],
-    [ "SetData", "d3/d5b/a13698.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
-    [ "WriteSaveDataMore", "d3/d5b/a13698.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
-    [ "_encounters", "d3/d5b/a13698.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
-    [ "ancientVaultDoorGUID", "d3/d5b/a13698.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
-    [ "archaedasTempleDoorGUID", "d3/d5b/a13698.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
+    [ "boss_baroness_anastariAI", "d3/d5b/a13698.html#acf180bbe881ba1f6e49c075254759c00", null ],
+    [ "JustDied", "d3/d5b/a13698.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
+    [ "JustEngagedWith", "d3/d5b/a13698.html#a7329455d99045e7002abffe09112a4ea", null ],
+    [ "Reset", "d3/d5b/a13698.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
+    [ "SchedulePossession", "d3/d5b/a13698.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
+    [ "UpdateAI", "d3/d5b/a13698.html#a962e4e3091d126682825c326af5f6922", null ],
+    [ "_possessedTargetGuid", "d3/d5b/a13698.html#a36e386b847c7032b5ce95a01070518ad", null ],
+    [ "_scheduler", "d3/d5b/a13698.html#aa59518627a5e64e371dbbb45cfced75f", null ]
 ];

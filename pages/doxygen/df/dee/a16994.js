@@ -1,6 +1,7 @@
 var a16994 =
 [
-    [ "npc_fos_leader_secondAI", "d8/de6/a16998.html", "d8/de6/a16998" ],
-    [ "npc_fos_leader_second", "df/dee/a16994.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
-    [ "GetAI", "df/dee/a16994.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
+    [ "npc_toc_rogueAI", "df/dee/a16994.html#a34027e7d10edbfba8e046f4785e37899", null ],
+    [ "myCanCast", "df/dee/a16994.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
+    [ "UpdateAI", "df/dee/a16994.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
+    [ "events", "df/dee/a16994.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
 ];

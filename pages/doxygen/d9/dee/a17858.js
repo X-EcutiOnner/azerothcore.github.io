@@ -1,7 +1,6 @@
 var a17858 =
 [
-    [ "FilterTargets", "d9/dee/a17858.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
-    [ "Load", "d9/dee/a17858.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
-    [ "PrepareSpellScript", "d9/dee/a17858.html#a7526a6df4c25136f4be78e753c6abf62", null ],
-    [ "Register", "d9/dee/a17858.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
+    [ "PrepareSpellScript", "d9/dee/a17858.html#a37899f12707930d038de38bae92c9aff", null ],
+    [ "Register", "d9/dee/a17858.html#a3677d2e7db842f899e6e2d2c8c9a3d42", null ],
+    [ "SelectDest", "d9/dee/a17858.html#a4caabf8afac621ef70bbbac1a2b5177e", null ]
 ];

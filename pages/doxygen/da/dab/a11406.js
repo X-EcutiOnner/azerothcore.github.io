@@ -1,8 +1,7 @@
 var a11406 =
 [
-    [ "target_mapId", "da/dab/a11406.html#a6dbbb558810388e0d051d84a0279a444", null ],
-    [ "target_Orientation", "da/dab/a11406.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
-    [ "target_X", "da/dab/a11406.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
-    [ "target_Y", "da/dab/a11406.html#a6f432d8770adebf513346713b7890b5c", null ],
-    [ "target_Z", "da/dab/a11406.html#a3af706b81f8fbef12277c518964f717a", null ]
+    [ "UpdateWorldState", "da/dab/a11406.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
+    [ "Write", "da/dab/a11406.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
+    [ "Value", "da/dab/a11406.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
+    [ "VariableID", "da/dab/a11406.html#aa73278b324822f509f48e6edcdaed457", null ]
 ];

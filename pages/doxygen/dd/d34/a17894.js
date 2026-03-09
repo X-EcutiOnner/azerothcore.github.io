@@ -1,7 +1,9 @@
 var a17894 =
 [
-    [ "HandleScript", "dd/d34/a17894.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
-    [ "PrepareSpellScript", "dd/d34/a17894.html#ab69926839f72ee76eba2b225aba9690c", null ],
-    [ "Register", "dd/d34/a17894.html#aad8925e891d7537993f02f3bc2552fea", null ],
-    [ "SelectRandomTarget", "dd/d34/a17894.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
+    [ "FilterTargets", "dd/d34/a17894.html#a7b490400378893a19cdaf52af25f3a51", null ],
+    [ "HandleScript", "dd/d34/a17894.html#acee46fb0af45364478a92db59fcc3f24", null ],
+    [ "Load", "dd/d34/a17894.html#a46a43b9a8dec2f61aee3dccad4178a78", null ],
+    [ "PrepareSpellScript", "dd/d34/a17894.html#abb8fac43566f92b19e644edc38ab5d73", null ],
+    [ "Register", "dd/d34/a17894.html#a1add221102b7067ffc130969f5172eae", null ],
+    [ "Validate", "dd/d34/a17894.html#a4d2b60161f5aed31132f0fc554aab7b6", null ]
 ];

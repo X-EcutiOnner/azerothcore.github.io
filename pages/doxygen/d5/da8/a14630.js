@@ -1,8 +1,6 @@
 var a14630 =
 [
-    [ "npc_love_in_air_snivel_real", "d5/da8/a14630.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
-    [ "Talk", "d5/da8/a14630.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
-    [ "UpdateAI", "d5/da8/a14630.html#a22ed25da8fe3441ef0e4183390983f40", null ],
-    [ "actionCounter", "d5/da8/a14630.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
-    [ "actionTimer", "d5/da8/a14630.html#a3bbee1ff355581772b337268775b8fbc", null ]
+    [ "boss_renatakiAI", "d9/ddf/a14634.html", "d9/ddf/a14634" ],
+    [ "boss_renataki", "d5/da8/a14630.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
+    [ "GetAI", "d5/da8/a14630.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
 ];

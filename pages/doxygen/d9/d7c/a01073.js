@@ -1,27 +1,8 @@
 var a01073 =
 [
-    [ "go_type", "dd/db3/a10332.html", "dd/db3/a10332" ],
-    [ "creature_type", "d3/d0c/a10336.html", "d3/d0c/a10336" ],
-    [ "OPvPCapturePoint", "d1/dac/a10340.html", "d1/dac/a10340" ],
-    [ "OutdoorPvP", "d2/dc2/a10344.html", "d2/dc2/a10344" ],
-    [ "MAX_OUTDOORPVP_TYPES", "d9/d7c/a01073.html#a61d2d26058751cc92ed3744e7216a061", null ],
-    [ "PlayerSet", "d9/d7c/a01073.html#a080aeb08f4e15904e94076846a03e927", null ],
-    [ "ObjectiveStates", "d9/d7c/a01073.html#a7908847b61cb33598912d94a2c0d153a", [
-      [ "OBJECTIVESTATE_NEUTRAL", "d9/d7c/a01073.html#a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6", null ],
-      [ "OBJECTIVESTATE_ALLIANCE", "d9/d7c/a01073.html#a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01", null ],
-      [ "OBJECTIVESTATE_HORDE", "d9/d7c/a01073.html#a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545", null ],
-      [ "OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE", "d9/d7c/a01073.html#a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683", null ],
-      [ "OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE", "d9/d7c/a01073.html#a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143", null ],
-      [ "OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE", "d9/d7c/a01073.html#a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b", null ],
-      [ "OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE", "d9/d7c/a01073.html#a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a", null ]
-    ] ],
-    [ "OutdoorPvPTypes", "d9/d7c/a01073.html#a56e7764289940901c2a230103f78adee", [
-      [ "OUTDOOR_PVP_HP", "d9/d7c/a01073.html#a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780", null ],
-      [ "OUTDOOR_PVP_NA", "d9/d7c/a01073.html#a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811", null ],
-      [ "OUTDOOR_PVP_TF", "d9/d7c/a01073.html#a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab", null ],
-      [ "OUTDOOR_PVP_ZM", "d9/d7c/a01073.html#a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc", null ],
-      [ "OUTDOOR_PVP_SI", "d9/d7c/a01073.html#a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e", null ],
-      [ "OUTDOOR_PVP_EP", "d9/d7c/a01073.html#a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125", null ],
-      [ "OUTDOOR_PVP_GH", "d9/d7c/a01073.html#a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6", null ]
-    ] ]
+    [ "CreatureScript", "df/dd4/a10566.html", "df/dd4/a10566" ],
+    [ "GenericCreatureScript< AI >", "d5/df1/a10570.html", "d5/df1/a10570" ],
+    [ "FactoryCreatureScript< AI, AIFactory >", "d4/d44/a10574.html", "d4/d44/a10574" ],
+    [ "RegisterCreatureAI", "d9/d7c/a01073.html#a5e7352841895df7117e2830448eb533f", null ],
+    [ "RegisterCreatureAIWithFactory", "d9/d7c/a01073.html#a25cc02ecf50f52ec8cdff096060b8be1", null ]
 ];

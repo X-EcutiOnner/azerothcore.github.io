@@ -1,5 +1,5 @@
 var a01544 =
 [
-    [ "CellArea", "d4/dd9/a09304.html", "d4/dd9/a09304" ],
-    [ "Cell", "d7/d3d/a09308.html", "d7/d3d/a09308" ]
+    [ "Acore::EmoteChatBuilder", "dd/d94/a09866.html", "dd/d94/a09866" ],
+    [ "isNasty", "d6/d83/a01544.html#ae6092f307f09a5dcbbc5ed10c145032f", null ]
 ];

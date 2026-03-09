@@ -1,9 +1,14 @@
 var a18354 =
 [
-    [ "ShadowTrapLKTargetSelector", "d7/d4b/a18354.html#a33561775948e07ac6ade2037f237441d", null ],
-    [ "operator()", "d7/d4b/a18354.html#a3770329509c6ab2f16ae369ea8d72645", null ],
-    [ "_maxDist", "d7/d4b/a18354.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
-    [ "_playerOnly", "d7/d4b/a18354.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
-    [ "_reqLOS", "d7/d4b/a18354.html#a7911be23196f59d55028affc3be23c20", null ],
-    [ "_source", "d7/d4b/a18354.html#af416013aabf3b217b07228072076603d", null ]
+    [ "npc_putricide_oozeAI", "d7/d4b/a18354.html#a5b3200110d6cd8ac1311220ab2ee3385", null ],
+    [ "CastMainSpell", "d7/d4b/a18354.html#a62c9027b6d8a7812fcf5c0023621ef70", null ],
+    [ "IsSummonedBy", "d7/d4b/a18354.html#a8e96a50b9a35f6220bf6c824c1acce58", null ],
+    [ "SelectNewTarget", "d7/d4b/a18354.html#a0a4167a73249967fcf268683f936647d", null ],
+    [ "SetGUID", "d7/d4b/a18354.html#af8abd6581901df51a3757f4a19443045", null ],
+    [ "SpellHit", "d7/d4b/a18354.html#ab9d288f8eded19720a0aee3bd91920d2", null ],
+    [ "SpellHitTarget", "d7/d4b/a18354.html#a501e0f46abdb1bcc0d99ab9792f738fe", null ],
+    [ "UpdateAI", "d7/d4b/a18354.html#a508fe1a9974f2ffa36c72575c2d4b252", null ],
+    [ "_hitTargetSpellId", "d7/d4b/a18354.html#a728b62580e7a84e9947a45b460ab140c", null ],
+    [ "_newTargetSelectTimer", "d7/d4b/a18354.html#a9615a0e6c73c155330c1791c2a205553", null ],
+    [ "targetGUID", "d7/d4b/a18354.html#ae01b7ffe31548aa15d913cc28fa32422", null ]
 ];

@@ -1,5 +1,6 @@
 var a15066 =
 [
-    [ "npc_black_morass_summoned_add", "d7/d6e/a15066.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
-    [ "EnterEvadeMode", "d7/d6e/a15066.html#a437e7b72b985713d22883f3e33f30942", null ]
+    [ "OnAuraRemove", "d7/d6e/a15066.html#ad16e8b64999771154360afad71454c07", null ],
+    [ "PrepareAuraScript", "d7/d6e/a15066.html#a70963be80861e10ecd093e40b77e7078", null ],
+    [ "Register", "d7/d6e/a15066.html#a7381cbea873fb57485e4539aa478d236", null ]
 ];

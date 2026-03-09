@@ -1,13 +1,10 @@
 var a14926 =
 [
-    [ "boss_infinite_corruptorAI", "d1/d32/a14926.html#add36192941eaabf7f3d1d41c572783bd", null ],
-    [ "DoAction", "d1/d32/a14926.html#a8ff0a9731ad7bc118a1014bdbb0e1daf", null ],
-    [ "JustDied", "d1/d32/a14926.html#a6d2f445bf0819ac644d7de14d3b7034d", null ],
-    [ "JustEngagedWith", "d1/d32/a14926.html#a644725505db4fc7a98c4255d0eb34616", null ],
-    [ "JustSummoned", "d1/d32/a14926.html#a2b12c03184b169a56a0e6696a107dc35", null ],
-    [ "Reset", "d1/d32/a14926.html#a4dbff495bfcda6fb715dec68616e1764", null ],
-    [ "UpdateAI", "d1/d32/a14926.html#aaa0a45066ab7ad7d5a7543822d399947", null ],
-    [ "beamTimer", "d1/d32/a14926.html#a2f8048e591a818f073a65bfcfa49e66c", null ],
-    [ "events", "d1/d32/a14926.html#a5491db8f5e063ca84f18f1ca63c1e846", null ],
-    [ "summons", "d1/d32/a14926.html#aa5de5f986f8a6d3ba5f3aad84422eab6", null ]
+    [ "boss_headless_horseman_pumpkin", "d1/d32/a14926.html#a62191ae523401ac57a947db96a245f7a", null ],
+    [ "AttackStart", "d1/d32/a14926.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
+    [ "MoveInLineOfSight", "d1/d32/a14926.html#a212f9803f66d297cd276ef842247776a", null ],
+    [ "Reset", "d1/d32/a14926.html#a9d5f6922a52146b61168f1c50b378294", null ],
+    [ "SpellHit", "d1/d32/a14926.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
+    [ "UpdateAI", "d1/d32/a14926.html#aca53b8839bce5e180ba8583490d694c3", null ],
+    [ "timer", "d1/d32/a14926.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
 ];

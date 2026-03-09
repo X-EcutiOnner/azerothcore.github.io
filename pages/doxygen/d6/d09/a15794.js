@@ -1,6 +1,8 @@
 var a15794 =
 [
-    [ "npc_aquementasAI", "d3/d8a/a15798.html", "d3/d8a/a15798" ],
-    [ "npc_aquementas", "d6/d09/a15794.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
-    [ "GetAI", "d6/d09/a15794.html#a8a071b3073d69306feb84aca347a22c8", null ]
+    [ "npc_ahnqiraji_critter", "d6/d09/a15794.html#a60e2dc1c52579a410d3435126bf39684", null ],
+    [ "JustDied", "d6/d09/a15794.html#a71d3d5262bde847a18932fea89cb6648", null ],
+    [ "JustEngagedWith", "d6/d09/a15794.html#aca1df706306f9181db26cd77e5b66452", null ],
+    [ "Reset", "d6/d09/a15794.html#a645e16e9da29f6579320394201d0ada7", null ],
+    [ "UpdateAI", "d6/d09/a15794.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
 ];

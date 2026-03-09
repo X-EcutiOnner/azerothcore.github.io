@@ -1,10 +1,12 @@
 var a10266 =
 [
-    [ "AchievementScript", "de/d4e/a10266.html#a85f0d7a676e7e31bc87ca64040b29489", null ],
-    [ "CanCheckCriteria", "de/d4e/a10266.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
-    [ "IsCompletedCriteria", "de/d4e/a10266.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
-    [ "IsDatabaseBound", "de/d4e/a10266.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
-    [ "IsRealmCompleted", "de/d4e/a10266.html#abc54c295c1bcad45e21aed99e43a3713", null ],
-    [ "OnBeforeCheckCriteria", "de/d4e/a10266.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
-    [ "SetRealmCompleted", "de/d4e/a10266.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
+    [ "RotateMovementGenerator", "de/d4e/a10266.html#a89a6559b4380210972e82c6ca6d5a9db", null ],
+    [ "Finalize", "de/d4e/a10266.html#afd7588c7877b116cc9626a774b89d584", null ],
+    [ "GetMovementGeneratorType", "de/d4e/a10266.html#a20677803edf5d93ceae3bf76ef426a81", null ],
+    [ "Initialize", "de/d4e/a10266.html#a18fea8760bb24912af9349a06ff7b596", null ],
+    [ "Reset", "de/d4e/a10266.html#a3e177762fcfc11ac47aa820b46b93ed0", null ],
+    [ "Update", "de/d4e/a10266.html#a0dc8600e3aa862a81735dfb927232e53", null ],
+    [ "m_direction", "de/d4e/a10266.html#a8717e890670d9f4e2ff66c0981d14aa6", null ],
+    [ "m_duration", "de/d4e/a10266.html#a2cb8d5fc3d26c24e62c7373f1ce49b13", null ],
+    [ "m_maxDuration", "de/d4e/a10266.html#a7cf10886bdd50ccbc5900b9229958e01", null ]
 ];

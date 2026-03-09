@@ -1,6 +1,6 @@
 var a12018 =
 [
-    [ "boss_galvangarAI", "d9/df9/a12022.html", "d9/df9/a12022" ],
-    [ "boss_galvangar", "d7/d87/a12018.html#a3949cfd3c987bdf52d313568de9379ba", null ],
-    [ "GetAI", "d7/d87/a12018.html#a9fd978eb38ae3e2d8d65cf4214e673e3", null ]
+    [ "rainChance", "d8/d36/a04984.html#ga8c3d9f1d251a9b167c9adc99101e5612", null ],
+    [ "snowChance", "d8/d36/a04984.html#ga474650c5237c4a7428e858775fea7b86", null ],
+    [ "stormChance", "d8/d36/a04984.html#gaa50e5243877e8283f30ee9376b2d519e", null ]
 ];

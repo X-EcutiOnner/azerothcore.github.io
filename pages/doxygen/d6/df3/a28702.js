@@ -1,9 +1,7 @@
 var a28702 =
 [
-    [ "TimeSeg", "d6/df3/a28702.html#a16782e722a5bada41691841fe594b7a6", null ],
-    [ "TransportEntry", "d6/df3/a28702.html#afcdb94a38d68d2ff8af225dc599db8a4", null ],
-    [ "W", "d6/df3/a28702.html#a4158a2babefbf4e148a64fe16bf113f6", null ],
-    [ "X", "d6/df3/a28702.html#a9c7cb1fd0463d1158d971db6f15431ff", null ],
-    [ "Y", "d6/df3/a28702.html#a7f0ff898e752e2e904ebee1412643df6", null ],
-    [ "Z", "d6/df3/a28702.html#a87647d71a965e80154ca36dc05421585", null ]
+    [ "HandleDummy", "d6/df3/a28702.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "d6/df3/a28702.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "d6/df3/a28702.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "d6/df3/a28702.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

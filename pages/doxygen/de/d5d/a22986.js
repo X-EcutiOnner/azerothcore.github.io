@@ -1,7 +1,5 @@
 var a22986 =
 [
-    [ "HandleDummy", "de/d5d/a22986.html#adb4e8218eb498d430ececfa357bc1d8a", null ],
-    [ "PrepareSpellScript", "de/d5d/a22986.html#a85f582794bf8ca2c80add8d9fe35f9f5", null ],
-    [ "Register", "de/d5d/a22986.html#af5926d8570de13e66aa1870184620b94", null ],
-    [ "Validate", "de/d5d/a22986.html#aa2839c6dba3d0c6ecfeb19f5ff3a39d2", null ]
+    [ "npc_vengeful_spirit", "de/d5d/a22986.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
+    [ "OnCharmed", "de/d5d/a22986.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
 ];

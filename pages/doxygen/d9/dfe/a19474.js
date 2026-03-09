@@ -1,6 +1,12 @@
 var a19474 =
 [
-    [ "npc_eoe_wyrmrest_skytalonAI", "d6/ddc/a19478.html", "d6/ddc/a19478" ],
-    [ "npc_eoe_wyrmrest_skytalon", "d9/dfe/a19474.html#a55685de624b277840f8fc0c397b8aebf", null ],
-    [ "GetAI", "d9/dfe/a19474.html#a01a384ab10cfccbd159f116e0bef52e8", null ]
+    [ "boss_faerlinaAI", "d9/dfe/a19474.html#a3a97178599b9053c23a079ed1a2ed163", null ],
+    [ "JustDied", "d9/dfe/a19474.html#a7ac2e510568a9dad710beaad42db0544", null ],
+    [ "JustEngagedWith", "d9/dfe/a19474.html#a830dfa4fed62b4588ea8866174d3653a", null ],
+    [ "KilledUnit", "d9/dfe/a19474.html#a6f7a6e66abcf4f4dd685bbb805920900", null ],
+    [ "MoveInLineOfSight", "d9/dfe/a19474.html#aa5cd735c22d46e1b756f87f3952033a1", null ],
+    [ "Reset", "d9/dfe/a19474.html#acee81492b9b751df587a3a2cdd691ab3", null ],
+    [ "SpellHit", "d9/dfe/a19474.html#aa4fac163e31dcd9353238f993259d5ec", null ],
+    [ "SummonHelpers", "d9/dfe/a19474.html#af2fbf866f87d568ee6028f0931d3b74e", null ],
+    [ "_introDone", "d9/dfe/a19474.html#a9febd1d69c27140ddd2ac018181c67ec", null ]
 ];

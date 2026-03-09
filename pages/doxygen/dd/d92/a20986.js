@@ -1,8 +1,8 @@
 var a20986 =
 [
-    [ "boss_yoggsaron_guardian_of_ysAI", "dd/d92/a20986.html#a5542a4fd68a012049a79047f47dccc68", null ],
-    [ "JustDied", "dd/d92/a20986.html#ad75f0baeef73a79cdb9bf62463bc8e50", null ],
-    [ "Reset", "dd/d92/a20986.html#a43d12c19425f3caa56a9732774b6f943", null ],
-    [ "UpdateAI", "dd/d92/a20986.html#a8e1d0b14747db6ce06b882f3f9d61963", null ],
-    [ "_spellTimer", "dd/d92/a20986.html#a45dec8609328d65413ae6c88f693ba15", null ]
+    [ "FilterTargets", "dd/d92/a20986.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
+    [ "HandleDummyEffect", "dd/d92/a20986.html#ab1f662fa107d176386067ffc6467d90f", null ],
+    [ "PrepareSpellScript", "dd/d92/a20986.html#a069cc54bf009830ad781c790b4fcedad", null ],
+    [ "Register", "dd/d92/a20986.html#ac91532151b689bde35d7120b1e9aec5b", null ],
+    [ "Validate", "dd/d92/a20986.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
 ];

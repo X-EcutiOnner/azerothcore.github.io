@@ -1,9 +1,8 @@
 var a20646 =
 [
-    [ "HandleEffectPeriodic", "d5/d16/a20646.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
-    [ "Load", "d5/d16/a20646.html#a60deabce505dd3993dca0e71402dc190", null ],
-    [ "PrepareAuraScript", "d5/d16/a20646.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
-    [ "Register", "d5/d16/a20646.html#a524c071390365b7dab59bc7a79b50f15", null ],
-    [ "_lastMSTime", "d5/d16/a20646.html#a013e9e0eef93583722f7d347c2ebbc49", null ],
-    [ "_lastOrientation", "d5/d16/a20646.html#a2537b325ff57b867092f3d9a1bd0fa8b", null ]
+    [ "npc_ulduar_mimiron_rocket", "d5/d16/a20646.html#aec8a2c9f653ddd1e8ea72093cb02d785", null ],
+    [ "InitializeAI", "d5/d16/a20646.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
+    [ "Reset", "d5/d16/a20646.html#a982da2f2392882a86e72de4c4769fa41", null ],
+    [ "SetData", "d5/d16/a20646.html#a507124f21657b62ff2b68060b52503b1", null ],
+    [ "UpdateAI", "d5/d16/a20646.html#ac26ec740ce5fa75f96babbe26e2263cc", null ]
 ];

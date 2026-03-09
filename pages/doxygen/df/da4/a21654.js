@@ -1,6 +1,5 @@
 var a21654 =
 [
-    [ "npc_azure_saboteurAI", "d4/d6c/a21658.html", "d4/d6c/a21658" ],
-    [ "npc_azure_saboteur", "df/da4/a21654.html#ae60362727a7a246b7c6c923ed96c7be7", null ],
-    [ "GetAI", "df/da4/a21654.html#a69b552fb6f725d00ac4b0303d36a7138", null ]
+    [ "npc_steam_powered_auctioneerAI", "df/da4/a21654.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "df/da4/a21654.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

@@ -1,8 +1,6 @@
 var a16990 =
 [
-    [ "npc_fos_leaderAI", "d6/db5/a16990.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
-    [ "DoAction", "d6/db5/a16990.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
-    [ "Reset", "d6/db5/a16990.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
-    [ "UpdateAI", "d6/db5/a16990.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
-    [ "events", "d6/db5/a16990.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
+    [ "npc_toc_rogueAI", "df/dee/a16994.html", "df/dee/a16994" ],
+    [ "npc_toc_rogue", "d6/db5/a16990.html#a925840be9698e381358235a827c20b8a", null ],
+    [ "GetAI", "d6/db5/a16990.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
 ];

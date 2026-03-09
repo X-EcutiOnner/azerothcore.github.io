@@ -1,6 +1,8 @@
 var a12894 =
 [
-    [ "HandleHit", "dc/de4/a12894.html#ae6dbaebdc4b0248215416e8d4550d2cb", null ],
-    [ "PrepareSpellScript", "dc/de4/a12894.html#ae08237f9eb95cc8a4b53a7de50af7b91", null ],
-    [ "Register", "dc/de4/a12894.html#a84853f416eb8250dc3d863dbe22a157f", null ]
+    [ "boss_garrAI", "dc/de4/a12894.html#a12d403a90bf4920763ddd87b252f544a", null ],
+    [ "JustEngagedWith", "dc/de4/a12894.html#a3b2bf0e6d3b6b32c450d03b1c88f3850", null ],
+    [ "Reset", "dc/de4/a12894.html#acb14e869dac8e7df83b5b9d858cd2b21", null ],
+    [ "UpdateAI", "dc/de4/a12894.html#aca82837e143f4509db221de15276b90c", null ],
+    [ "massEruptionTimer", "dc/de4/a12894.html#ab807c47afd1ba8320730c3aa733e1b15", null ]
 ];

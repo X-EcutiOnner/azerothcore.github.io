@@ -1,10 +1,8 @@
 var a27782 =
 [
-    [ "npc_air_force_botsAI", "db/d18/a27782.html#a062eb272826d52ffd9b72054f970b761", null ],
-    [ "GetSummonedGuard", "db/d18/a27782.html#ac4f39049ba15caf314939f12b82ccd05", null ],
-    [ "MoveInLineOfSight", "db/d18/a27782.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
-    [ "Reset", "db/d18/a27782.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
-    [ "SummonGuard", "db/d18/a27782.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
-    [ "SpawnAssoc", "db/d18/a27782.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
-    [ "SpawnedGUID", "db/d18/a27782.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
+    [ "CheckProc", "db/d18/a27782.html#a4713f3cdce1ee793a8f2232202314ff7", null ],
+    [ "HandleProc", "db/d18/a27782.html#ab892bc268feccba594a5b4b0be3e86f7", null ],
+    [ "PrepareAuraScript", "db/d18/a27782.html#a92a141fcf24f63bc41f6f828f72bf277", null ],
+    [ "Register", "db/d18/a27782.html#a93806efcc1e5976cca2eab57c9e55a7e", null ],
+    [ "Validate", "db/d18/a27782.html#a28801b99335380a7e366e766b6aaea2c", null ]
 ];

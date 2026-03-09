@@ -1,9 +1,13 @@
 var a19854 =
 [
-    [ "npc_brann_bronzebeard_algalonAI", "d1/da2/a19854.html#a5ab0ff088866cf9d6af99ee3f42e897a", null ],
-    [ "DoAction", "d1/da2/a19854.html#a9de9e9b19b8a635ec4bc0a4f8c8d13c6", null ],
-    [ "MovementInform", "d1/da2/a19854.html#a7f8d3efed49f0d43a5e9e73ee8bd36e0", null ],
-    [ "UpdateAI", "d1/da2/a19854.html#a16e3fcd7f082e04f648d2341a7e83cba", null ],
-    [ "_currentPoint", "d1/da2/a19854.html#ae9da41b5b4cae16e1ed4709ab41b8964", null ],
-    [ "events", "d1/da2/a19854.html#ab71b71ac63517349cb8702bb29d76334", null ]
+    [ "npc_oculus_unstable_sphereAI", "d1/da2/a19854.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
+    [ "AttackStart", "d1/da2/a19854.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
+    [ "MoveInLineOfSight", "d1/da2/a19854.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
+    [ "MovementInform", "d1/da2/a19854.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
+    [ "PickNewLocation", "d1/da2/a19854.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
+    [ "Reset", "d1/da2/a19854.html#ac2e391d0149b62823ac9074d45c694cf", null ],
+    [ "UpdateAI", "d1/da2/a19854.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
+    [ "gonext", "d1/da2/a19854.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
+    [ "located", "d1/da2/a19854.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
+    [ "timer", "d1/da2/a19854.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
 ];

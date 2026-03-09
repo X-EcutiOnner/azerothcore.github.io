@@ -1,13 +1,12 @@
 var a11582 =
 [
-    [ "PlayerTextBuilder", "de/d1a/a11582.html#a0740c581636009448fe2c29084db41ae", null ],
-    [ "operator()", "de/d1a/a11582.html#a64d2905971ecd645e364a774f320a721", null ],
-    [ "_gender", "de/d1a/a11582.html#aece205d3d523dcf6fefbdd9914943723", null ],
-    [ "_language", "de/d1a/a11582.html#a934d4a519c2c7b4017805b3bc24a4714", null ],
-    [ "_msgType", "de/d1a/a11582.html#af546f2788870b8b10b3405695ef81171", null ],
-    [ "_source", "de/d1a/a11582.html#a9fe9f865b0ba84b5497e63947893533e", null ],
-    [ "_talker", "de/d1a/a11582.html#a8a8cd00cc76e048500800938a773aa06", null ],
-    [ "_target", "de/d1a/a11582.html#ac97cf187d079c5162e47bebb7024faa5", null ],
-    [ "_textGroup", "de/d1a/a11582.html#ab44fe12e73da36acb1199987e8573467", null ],
-    [ "_textId", "de/d1a/a11582.html#a17b33a9a05a77722219a85a71f3bbc5e", null ]
+    [ "SpellDestination", "de/d1a/a11582.html#aa91f31101de3139b2e2d2976dac94686", null ],
+    [ "SpellDestination", "de/d1a/a11582.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
+    [ "SpellDestination", "de/d1a/a11582.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
+    [ "SpellDestination", "de/d1a/a11582.html#a7b8949fa80249aee8bebc56620ec746c", null ],
+    [ "Relocate", "de/d1a/a11582.html#ab565861d5013130639013e3c4d22d712", null ],
+    [ "RelocateOffset", "de/d1a/a11582.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
+    [ "_position", "de/d1a/a11582.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
+    [ "_transportGUID", "de/d1a/a11582.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
+    [ "_transportOffset", "de/d1a/a11582.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
 ];

@@ -1,7 +1,7 @@
 var a15158 =
 [
-    [ "npc_hive_zara_larva", "d5/d5b/a15158.html#a50fb5738d7b0818689216fee0915a0de", null ],
-    [ "JustSummoned", "d5/d5b/a15158.html#a2a1d80f70ae265b1db50e3a7165fa099", null ],
-    [ "MovementInform", "d5/d5b/a15158.html#a6890c58106450d654062f548a80cb42f", null ],
-    [ "_instance", "d5/d5b/a15158.html#aa8333a25c0e184dd75db580b03ef9cb2", null ]
+    [ "PeriodicTick", "d5/d5b/a15158.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
+    [ "PrepareAuraScript", "d5/d5b/a15158.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
+    [ "Register", "d5/d5b/a15158.html#a24058b120f4fa06b89f6d582c53a365a", null ],
+    [ "Validate", "d5/d5b/a15158.html#a093b09be5abde91a1487d67a7a554d30", null ]
 ];

@@ -1,10 +1,7 @@
 var a07486 =
 [
-    [ "BattlegroundRL", "d4/dd9/a07486.html#ae2e0ccf2badc174b7f5c909f805fe669", null ],
-    [ "FillInitialWorldStates", "d4/dd9/a07486.html#a410a5dbfa6fccbe802058d60eb7393d9", null ],
-    [ "HandleAreaTrigger", "d4/dd9/a07486.html#ad1184e3e2f09a6665d40a75006e6f863", null ],
-    [ "HandlePlayerUnderMap", "d4/dd9/a07486.html#a2d03a49dee964bcaa3421a93d0735e63", null ],
-    [ "SetupBattleground", "d4/dd9/a07486.html#a3393353028ffd35eaad1d5e121654366", null ],
-    [ "StartingEventCloseDoors", "d4/dd9/a07486.html#aae633887d9689898c8b73efa8257eb34", null ],
-    [ "StartingEventOpenDoors", "d4/dd9/a07486.html#adb2ec6770c2b25b94f8f7dff7486d5cf", null ]
+    [ "ArenaSeasonReward", "d4/dd9/a07486.html#ae0871effd7fcac1006d8a16f9c7d7d04", null ],
+    [ "operator==", "d4/dd9/a07486.html#a2f04bbb871ab3b90f5dc3121e2bff213", null ],
+    [ "entry", "d4/dd9/a07486.html#ab3144a4701e1ebd88a3a94544ee76cdf", null ],
+    [ "type", "d4/dd9/a07486.html#ac4c8cff64cf2eb7f34d28080a2a5528b", null ]
 ];

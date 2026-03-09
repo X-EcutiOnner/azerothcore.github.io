@@ -1,6 +1,8 @@
 var a20950 =
 [
-    [ "OnRemove", "da/d4e/a20950.html#a492bd9e9c82937e00897e19362b40901", null ],
-    [ "PrepareAuraScript", "da/d4e/a20950.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
-    [ "Register", "da/d4e/a20950.html#adfcaf82ff48225ea0e0314d421795644", null ]
+    [ "OnApply", "da/d4e/a20950.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
+    [ "OnRemove", "da/d4e/a20950.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "da/d4e/a20950.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "da/d4e/a20950.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "da/d4e/a20950.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

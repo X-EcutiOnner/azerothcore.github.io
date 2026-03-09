@@ -1,5 +1,6 @@
 var a18926 =
 [
-    [ "at_icc_start_blood_quickening", "db/dc9/a18926.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
-    [ "OnTrigger", "db/dc9/a18926.html#a814670e127b1eace6068a553b23d00f7", null ]
+    [ "ActivateSpirit", "db/dc9/a18926.html#ae5c9f8e693a98c828e0e922870552952", null ],
+    [ "PrepareSpellScript", "db/dc9/a18926.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
+    [ "Register", "db/dc9/a18926.html#a2b1d27e93a879681098a83d17c4d686a", null ]
 ];

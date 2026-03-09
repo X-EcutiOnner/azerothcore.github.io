@@ -1,6 +1,6 @@
 var a14278 =
 [
-    [ "OnRemove", "d8/db4/a14278.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
-    [ "PrepareAuraScript", "d8/db4/a14278.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
-    [ "Register", "d8/db4/a14278.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
+    [ "npc_the_scourge_cauldronAI", "da/dd0/a14282.html", "da/dd0/a14282" ],
+    [ "npc_the_scourge_cauldron", "d8/db4/a14278.html#a7ff5315293c4917dec3b0fe0aade2016", null ],
+    [ "GetAI", "d8/db4/a14278.html#ae4e35f1cac0c0f35333ba6113d3c1ad0", null ]
 ];

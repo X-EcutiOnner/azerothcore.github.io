@@ -1,11 +1,25 @@
 var a29834 =
 [
-    [ "icon", "d2/d0c/a29834.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
-    [ "id", "d2/d0c/a29834.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
-    [ "mapId", "d2/d0c/a29834.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
-    [ "worldState", "d2/d0c/a29834.html#a9d745d26316726c861cc5a242f6a4f57", null ],
-    [ "x", "d2/d0c/a29834.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
-    [ "y", "d2/d0c/a29834.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
-    [ "z", "d2/d0c/a29834.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
-    [ "zoneId", "d2/d0c/a29834.html#a0cc33089981237694ca550cba6793a3e", null ]
+    [ "AddsValueBeyondDBC", "d2/d0c/a29834.html#ada68807ba3950313c5a7652a7fe85c40", null ],
+    [ "HasDBCData", "d2/d0c/a29834.html#a70c20b8efd966a3051591e4292957f21", null ],
+    [ "ToSpellProcEntry", "d2/d0c/a29834.html#a70ebb9c47633f6c55f863593d1f1b0d7", null ],
+    [ "AttributesMask", "d2/d0c/a29834.html#a32a562ccd8812c33b385fb6a4812693f", null ],
+    [ "Chance", "d2/d0c/a29834.html#a9e4e897bb784e63d991e76f8efd393ab", null ],
+    [ "Charges", "d2/d0c/a29834.html#a1795067c9622f90fe10afaa9086729d2", null ],
+    [ "Cooldown", "d2/d0c/a29834.html#a8ae054e7700edebf204b6b9d5285b570", null ],
+    [ "DBC_ProcChance", "d2/d0c/a29834.html#a687725337f68ab28c9f862997666b979", null ],
+    [ "DBC_ProcCharges", "d2/d0c/a29834.html#a674bdd693e94bea55c93985a04a3cde5", null ],
+    [ "DBC_ProcFlags", "d2/d0c/a29834.html#aba345f90612d66a1ae8ff83b863c3752", null ],
+    [ "DisableEffectsMask", "d2/d0c/a29834.html#a255f45e42d9ad7f4a1a71b12289f6280", null ],
+    [ "HitMask", "d2/d0c/a29834.html#aac7528939d9f28432649a5e947cb112b", null ],
+    [ "ProcFlags", "d2/d0c/a29834.html#ac62ba46b22a759991731a15b17ccf3d9", null ],
+    [ "ProcsPerMinute", "d2/d0c/a29834.html#a1005dd21ca315c4ee18cc1f0b1147590", null ],
+    [ "SchoolMask", "d2/d0c/a29834.html#ab76502dd0f6d6e9fa8608800547b097c", null ],
+    [ "SpellFamilyMask0", "d2/d0c/a29834.html#a8b316b64763de61fabe8eee119a3c33b", null ],
+    [ "SpellFamilyMask1", "d2/d0c/a29834.html#a0f2454783d5fcd2b751b40b8e32d8476", null ],
+    [ "SpellFamilyMask2", "d2/d0c/a29834.html#a74093101a8fe41b8bb641da9957d6ef2", null ],
+    [ "SpellFamilyName", "d2/d0c/a29834.html#a11a0c26f6d3e6f3b8e47e1c968841094", null ],
+    [ "SpellId", "d2/d0c/a29834.html#ad78ff047d8971788febae990abc86698", null ],
+    [ "SpellPhaseMask", "d2/d0c/a29834.html#ab2356da98d2b2c9d250d1c86056a427c", null ],
+    [ "SpellTypeMask", "d2/d0c/a29834.html#a8ac8ca4ac8ed7eb60de720bb0bac36b1", null ]
 ];

@@ -1,6 +1,5 @@
 var a14938 =
 [
-    [ "boss_meathookAI", "dc/d73/a14942.html", "dc/d73/a14942" ],
-    [ "boss_meathook", "d8/d1b/a14938.html#a044c8ec4a419e5c5a8b290df9c0ad169", null ],
-    [ "GetAI", "d8/d1b/a14938.html#ae8ee3631ff1f80f4fad99e4eca042ad8", null ]
+    [ "go_pumpkin_shrine", "d8/d1b/a14938.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
+    [ "OnGossipSelect", "d8/d1b/a14938.html#a35763a67d39c1d68974a9602ce26b699", null ]
 ];

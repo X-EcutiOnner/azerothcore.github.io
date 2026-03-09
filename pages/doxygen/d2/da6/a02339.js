@@ -1,48 +1,65 @@
 var a02339 =
 [
-    [ "DataHeader", "d2/da6/a02339.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "OnyxiasLairScriptName", "d2/da6/a02339.html#a411397a87d359be66de671f07dbefefe", null ],
-    [ "RegisterOnyxiasLairCreatureAI", "d2/da6/a02339.html#a4becd56438e0f64fd4e609bda9b542a4", null ],
-    [ "eAchievementData", "d2/da6/a02339.html#aca087c1cb2fbca0c938185dd321856c4", [
-      [ "ACHIEV_CRITERIA_MANY_WHELPS_10_PLAYER", "d2/da6/a02339.html#aca087c1cb2fbca0c938185dd321856c4a57918d5eb6d9b6dad01b98eec717c611", null ],
-      [ "ACHIEV_CRITERIA_MANY_WHELPS_25_PLAYER", "d2/da6/a02339.html#aca087c1cb2fbca0c938185dd321856c4ab4cb5a7391642e00f98bf8c4feca4931", null ],
-      [ "ACHIEV_CRITERIA_DEEP_BREATH_10_PLAYER", "d2/da6/a02339.html#aca087c1cb2fbca0c938185dd321856c4a7d5dc918b0b3edc2fc3863242904bb22", null ],
-      [ "ACHIEV_CRITERIA_DEEP_BREATH_25_PLAYER", "d2/da6/a02339.html#aca087c1cb2fbca0c938185dd321856c4a7c0f8695a55dfedf6c942dead4b86bb9", null ],
-      [ "ACHIEV_TIMED_START_EVENT", "d2/da6/a02339.html#aca087c1cb2fbca0c938185dd321856c4a6ac3776ff6343c84361329e38055da04", null ]
+    [ "ChaseRange", "db/d6a/a10206.html", "db/d6a/a10206" ],
+    [ "ChaseAngle", "da/d7f/a10210.html", "da/d7f/a10210" ],
+    [ "MotionMaster", "d9/ddb/a10214.html", "d9/ddb/a10214" ],
+    [ "SPEED_CHARGE", "d2/da6/a02339.html#a6386d0a4b64b17a25a60627bb55b360c", null ],
+    [ "VISUAL_WAYPOINT", "d2/da6/a02339.html#af0544189c7fc748059c3075861102b40", null ],
+    [ "AnimTier", "d2/da6/a02339.html#ae799184a3f3653b4b574f6df7a414255", [
+      [ "Ground", "d2/da6/a02339.html#ae799184a3f3653b4b574f6df7a414255a3519d51443d41746a097cd54cd5c11cf", null ],
+      [ "Swim", "d2/da6/a02339.html#ae799184a3f3653b4b574f6df7a414255ad0d933facd58904b226d055e75da2a6d", null ],
+      [ "Hover", "d2/da6/a02339.html#ae799184a3f3653b4b574f6df7a414255aeee0168be69b854c20621fc6f01cc3fc", null ],
+      [ "Fly", "d2/da6/a02339.html#ae799184a3f3653b4b574f6df7a414255aac51deb7d2c3f9663a6df72c7c9b2b51", null ],
+      [ "Submerged", "d2/da6/a02339.html#ae799184a3f3653b4b574f6df7a414255a88090e6b4ce449b1204f909a4fb2b062", null ],
+      [ "Max", "d2/da6/a02339.html#ae799184a3f3653b4b574f6df7a414255a6a061313d22e51e0f25b7cd4dc065233", null ]
     ] ],
-    [ "eCreatures", "d2/da6/a02339.html#a59602e8f26d052c0b6f6bdfe896510b8", [
-      [ "NPC_ONYXIA", "d2/da6/a02339.html#a59602e8f26d052c0b6f6bdfe896510b8ac5297157e46436388d2a4e835c06de6e", null ],
-      [ "NPC_ONYXIAN_WHELP", "d2/da6/a02339.html#a59602e8f26d052c0b6f6bdfe896510b8a29f399e186a17314b99be364d738371a", null ],
-      [ "NPC_ONYXIAN_LAIR_GUARD", "d2/da6/a02339.html#a59602e8f26d052c0b6f6bdfe896510b8ac5a305bf78c6e737c665da793df48e49", null ],
-      [ "NPC_KELESETH", "d2/d4c/a02828.html#a59602e8f26d052c0b6f6bdfe896510b8a1aa34e102fe5c920939fbbed64fd3bdd", null ],
-      [ "NPC_DALRONN", "d2/d4c/a02828.html#a59602e8f26d052c0b6f6bdfe896510b8adc8eb044588758e3cfb4ed8c699e483d", null ],
-      [ "NPC_DALRONN_GHOST", "d2/d4c/a02828.html#a59602e8f26d052c0b6f6bdfe896510b8ad6b59b3f0fa1841b3dbce49b32ce88f7", null ],
-      [ "NPC_SKARVALD", "d2/d4c/a02828.html#a59602e8f26d052c0b6f6bdfe896510b8a531d439e3ed6f40d45aaf591d93722af", null ],
-      [ "NPC_SKARVALD_GHOST", "d2/d4c/a02828.html#a59602e8f26d052c0b6f6bdfe896510b8aa4eafbdfd4632f9b207feb03c1c9906e", null ],
-      [ "NPC_INGVAR", "d2/d4c/a02828.html#a59602e8f26d052c0b6f6bdfe896510b8aa8071c2550f86111dabfe071bb8905ec", null ],
-      [ "NPC_DARK_RANGER_MARRAH", "d2/d4c/a02828.html#a59602e8f26d052c0b6f6bdfe896510b8a629c86c326a68aa9c57e75b658644e27", null ],
-      [ "NPC_ENSLAVED_PROTO_DRAKE", "d2/d4c/a02828.html#a59602e8f26d052c0b6f6bdfe896510b8ab4269b45260da78a67bfdab9a95d8c2c", null ],
-      [ "NPC_ICHOR_GLOBULE", "d1/de5/a02822.html#a59602e8f26d052c0b6f6bdfe896510b8a5c39abb26566ef9fb1e3afe0cecc9762", null ]
+    [ "ForcedMovement", "d2/da6/a02339.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0", [
+      [ "FORCED_MOVEMENT_NONE", "d2/da6/a02339.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0ac15d09ddd2435bb2983acffff5295ece", null ],
+      [ "FORCED_MOVEMENT_WALK", "d2/da6/a02339.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a07986a6a917801c4cd7b63770ad77b37", null ],
+      [ "FORCED_MOVEMENT_RUN", "d2/da6/a02339.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0a68cfb3ea55f2221d6af0a858d5f8f1e2", null ],
+      [ "FORCED_MOVEMENT_MAX", "d2/da6/a02339.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0aa870362ed5298d009468dbd4e4985b7f", null ]
     ] ],
-    [ "eGameObjects", "d2/da6/a02339.html#a0b356f44d43edb1bff30f404c9469250", [
-      [ "GO_WHELP_SPAWNER", "d2/da6/a02339.html#a0b356f44d43edb1bff30f404c9469250adf4548283b784850a8154cefa0fd360d", null ],
-      [ "GO_WHELP_EGG", "d2/da6/a02339.html#a0b356f44d43edb1bff30f404c9469250a4695e1a78b0f6094399a19023996f851", null ],
-      [ "GO_MAIN_GATE", "de/db6/a02792.html#a0b356f44d43edb1bff30f404c9469250af7f4bfc022fbae9247e3389c3e755e0b", null ],
-      [ "GO_SOUTH_PORTCULLIS", "de/db6/a02792.html#a0b356f44d43edb1bff30f404c9469250a5ebaf585ae3da6d909256800aebebbfc", null ],
-      [ "GO_EAST_PORTCULLIS", "de/db6/a02792.html#a0b356f44d43edb1bff30f404c9469250a8a57a3fcd514b7a621e04ae73c2647c9", null ],
-      [ "GO_NORTH_PORTCULLIS", "de/db6/a02792.html#a0b356f44d43edb1bff30f404c9469250af8f7a209e9b9e0909610ffbcb8fe94ca", null ],
-      [ "GO_CHAMPIONS_LOOT", "de/db6/a02792.html#a0b356f44d43edb1bff30f404c9469250af347b8590e6d6688cd7cd8a901a01839", null ],
-      [ "GO_CHAMPIONS_LOOT_H", "de/db6/a02792.html#a0b356f44d43edb1bff30f404c9469250a911cbac98e241072502109aef1a58966", null ],
-      [ "GO_EADRIC_LOOT", "de/db6/a02792.html#a0b356f44d43edb1bff30f404c9469250ad29f747e71326720660778477708682f", null ],
-      [ "GO_EADRIC_LOOT_H", "de/db6/a02792.html#a0b356f44d43edb1bff30f404c9469250afec277328734b29a227e6942dcc303e1", null ],
-      [ "GO_PALETRESS_LOOT", "de/db6/a02792.html#a0b356f44d43edb1bff30f404c9469250a22dab9e0abcb8bbe36c42b492a6ae6b1", null ],
-      [ "GO_PALETRESS_LOOT_H", "de/db6/a02792.html#a0b356f44d43edb1bff30f404c9469250a558835744936913cd5345f9435739ee0", null ]
+    [ "MMCleanFlag", "d2/da6/a02339.html#a1a14fe34f2e738c20bcc4e3c5cc71de5", [
+      [ "MMCF_NONE", "d2/da6/a02339.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a94162d33d05261960508206156596b79", null ],
+      [ "MMCF_UPDATE", "d2/da6/a02339.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ab78b5bb4f06ecc2246991dc5660faca5", null ],
+      [ "MMCF_RESET", "d2/da6/a02339.html#a1a14fe34f2e738c20bcc4e3c5cc71de5a52a6ffecbabca2148ffb0ad5ac3009f2", null ],
+      [ "MMCF_INUSE", "d2/da6/a02339.html#a1a14fe34f2e738c20bcc4e3c5cc71de5ae59b5bbe7b7d76f6167d789502da8cb0", null ]
     ] ],
-    [ "eInstanceData", "d2/da6/a02339.html#a7395e25d8049b2c60a1c7191d197f5cc", [
-      [ "DATA_ONYXIA", "d2/da6/a02339.html#a7395e25d8049b2c60a1c7191d197f5cca8fddf4be448f687691188b276d390817", null ],
-      [ "MAX_ENCOUNTER", "d2/da6/a02339.html#a7395e25d8049b2c60a1c7191d197f5cca7913656ef56deb3793c0c5f3d999d80d", null ],
-      [ "DATA_WHELP_SUMMONED", "d2/da6/a02339.html#a7395e25d8049b2c60a1c7191d197f5cca620ba8d85c596c11f1df0132b0117fbc", null ],
-      [ "DATA_DEEP_BREATH_FAILED", "d2/da6/a02339.html#a7395e25d8049b2c60a1c7191d197f5cca3678a84e6e3ed1c831e230a816a5475d", null ]
+    [ "MovementGeneratorType", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9", [
+      [ "IDLE_MOTION_TYPE", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e", null ],
+      [ "RANDOM_MOTION_TYPE", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9aec7cad6c9576df1fca0eb4fa073e5ff2", null ],
+      [ "WAYPOINT_MOTION_TYPE", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9a6158029efb794f0a586a62f35cef5ae9", null ],
+      [ "MAX_DB_MOTION_TYPE", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9a06257c74c322baaae86bc2bfd1dd359b", null ],
+      [ "ANIMAL_RANDOM_MOTION_TYPE", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9ae9aa98899960f240ae2de52288b2dbd6", null ],
+      [ "CONFUSED_MOTION_TYPE", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9aaf0253f8d6a3f2a5219bcf9db3494611", null ],
+      [ "CHASE_MOTION_TYPE", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9a4a7484b1c685865cef43981b61d3a881", null ],
+      [ "HOME_MOTION_TYPE", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9ab50c687899070d507c7858b481807426", null ],
+      [ "FLIGHT_MOTION_TYPE", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9ad1cbffaeac9c9f09b8aeedbaadef54f4", null ],
+      [ "POINT_MOTION_TYPE", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9ad05105e19ca15912eceb8a1d856c7467", null ],
+      [ "FLEEING_MOTION_TYPE", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9a96bdbc5913c5eb73d6eb7b28bbe9b05e", null ],
+      [ "DISTRACT_MOTION_TYPE", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9a35aa056191b760ab18515a11f00f1759", null ],
+      [ "ASSISTANCE_MOTION_TYPE", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9a32a9419cbc2b947d521e0ea050020a9c", null ],
+      [ "ASSISTANCE_DISTRACT_MOTION_TYPE", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9aec81245314a6864c0e3561d3bfc04ec4", null ],
+      [ "TIMED_FLEEING_MOTION_TYPE", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9a0358690810ecf133811aa6b73bc086fc", null ],
+      [ "FOLLOW_MOTION_TYPE", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9ae99e76e1e80feb6d7ff6e1df01e98e9c", null ],
+      [ "ROTATE_MOTION_TYPE", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9a5e3cb574fe15a9c73536dab95be16c3f", null ],
+      [ "EFFECT_MOTION_TYPE", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9af4917c7ba7d6e157bc3b8c59773cc6ac", null ],
+      [ "ESCORT_MOTION_TYPE", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9a61498726a0e9657284d8fb8b173cf4bf", null ],
+      [ "FORMATION_MOTION_TYPE", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9a0c2be8cafce0c581d8b51ac1b31d0721", null ],
+      [ "NULL_MOTION_TYPE", "d2/da6/a02339.html#a4f12806b915efea564eae942207002f9a9e63cfaad6d8b0e2c14a8b53f6f02e0b", null ]
     ] ],
-    [ "GetOnyxiasLairAI", "d2/da6/a02339.html#a3573a392c09a4df350f96df672ce58ad", null ]
+    [ "MovementSlot", "d2/da6/a02339.html#a42f80f4e5d95e3ba656adbee43cfc3f5", [
+      [ "MOTION_SLOT_IDLE", "d2/da6/a02339.html#a42f80f4e5d95e3ba656adbee43cfc3f5a8c7bb505a87bb49d9e66390133eed5a7", null ],
+      [ "MOTION_SLOT_ACTIVE", "d2/da6/a02339.html#a42f80f4e5d95e3ba656adbee43cfc3f5a89ae2a485a626fc8f0ba275f61cc5fcc", null ],
+      [ "MOTION_SLOT_CONTROLLED", "d2/da6/a02339.html#a42f80f4e5d95e3ba656adbee43cfc3f5a4b14f4870ac324393280d0d554f9c41e", null ],
+      [ "MAX_MOTION_SLOT", "d2/da6/a02339.html#a42f80f4e5d95e3ba656adbee43cfc3f5a99e3f1c482d8a964a3613986a34658b5", null ]
+    ] ],
+    [ "PathSource", "d2/da6/a02339.html#a7c48b62afc7f5aeede09278c110acbac", [
+      [ "WAYPOINT_MGR", "d2/da6/a02339.html#a7c48b62afc7f5aeede09278c110acbaca0d6ed3fb744700ecd75c60dbb7e67bb7", null ],
+      [ "SMART_WAYPOINT_MGR", "d2/da6/a02339.html#a7c48b62afc7f5aeede09278c110acbacaa9717883c14a449d4650b322fa5b7a0f", null ]
+    ] ],
+    [ "RotateDirection", "d2/da6/a02339.html#a1978c8aa3f81d04079c45fe56aa51233", [
+      [ "ROTATE_DIRECTION_LEFT", "d2/da6/a02339.html#a1978c8aa3f81d04079c45fe56aa51233af0378f46d4f9f1521d769f7c1c046d6a", null ],
+      [ "ROTATE_DIRECTION_RIGHT", "d2/da6/a02339.html#a1978c8aa3f81d04079c45fe56aa51233adb74149191eeae76464e730abe95a4c5", null ]
+    ] ]
 ];

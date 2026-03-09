@@ -1,6 +1,7 @@
 var a26510 =
 [
-    [ "HandleDummyEffect", "da/d7e/a26510.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
-    [ "PrepareSpellScript", "da/d7e/a26510.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
-    [ "Register", "da/d7e/a26510.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
+    [ "HandleKnockBack", "da/d7e/a26510.html#a860fb74000a42a7d6f22d17dde93cdf6", null ],
+    [ "PrepareSpellScript", "da/d7e/a26510.html#ab951d6403188f178f79311cead8a0a8f", null ],
+    [ "Register", "da/d7e/a26510.html#ac62f4fdf003cdd53650fe632b3ed3ef1", null ],
+    [ "Validate", "da/d7e/a26510.html#add1bd8f583772d4dfeb20f01b9fac8ed", null ]
 ];

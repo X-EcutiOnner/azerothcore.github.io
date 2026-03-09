@@ -1,8 +1,7 @@
 var a11818 =
 [
-    [ "accountId", "db/d60/a11818.html#ad146b84be01ec07a5fee8184f0cc2da9", null ],
-    [ "accountName", "db/d60/a11818.html#a4849bd1f43fd15eea1991948abdc576d", null ],
-    [ "deleteDate", "db/d60/a11818.html#a65a101727094841d34e8775bb7504cba", null ],
-    [ "lowGuid", "db/d60/a11818.html#a11fd07e662184f750ac0a5e547a22437", null ],
-    [ "name", "db/d60/a11818.html#a0e85dce38305e222c5654315ed68bfc1", null ]
+    [ "EffectApplyHandler", "db/d60/a11818.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
+    [ "Call", "db/d60/a11818.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
+    [ "mode", "db/d60/a11818.html#ac776375c5a5de321edc572c87e983193", null ],
+    [ "pEffectHandlerScript", "db/d60/a11818.html#acd715556a7661f688ce0de9afe62250a", null ]
 ];

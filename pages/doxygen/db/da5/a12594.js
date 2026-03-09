@@ -1,7 +1,6 @@
 var a12594 =
 [
-    [ "HandlePeriodic", "db/da5/a12594.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
-    [ "PrepareAuraScript", "db/da5/a12594.html#aae9d31049889eea5c5f09dd5437de950", null ],
-    [ "Register", "db/da5/a12594.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
-    [ "Validate", "db/da5/a12594.html#a462b882e41932f99e3501f32368cf4de", null ]
+    [ "npc_blackhand_incarceratorAI", "d2/dc4/a12598.html", "d2/dc4/a12598" ],
+    [ "npc_blackhand_incarcerator", "db/da5/a12594.html#a0c6bb8ea789e81803a11be57ac1b68e2", null ],
+    [ "GetAI", "db/da5/a12594.html#a021ddf6442812f7fb698ba7fb45b9ffb", null ]
 ];

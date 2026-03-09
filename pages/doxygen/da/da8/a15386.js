@@ -1,14 +1,15 @@
 var a15386 =
 [
-    [ "boss_twinemperorsAI", "da/da8/a15386.html#ae0857b191dbbf086533062aee5885237", null ],
-    [ "DamageTaken", "da/da8/a15386.html#a118151851f36de9dfc22971a965cb047", null ],
-    [ "DoAction", "da/da8/a15386.html#a2b5e585749b7a59663813c7a9d56c223", null ],
-    [ "EnterEvadeMode", "da/da8/a15386.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
-    [ "GetTwin", "da/da8/a15386.html#af23aa54bca9752c242e80331862ace4d", null ],
-    [ "IAmVeklor", "da/da8/a15386.html#acdccdde2ee573f51e1783ea493577258", null ],
-    [ "JustDied", "da/da8/a15386.html#a9cc74619908c2aa9f8deda2689616735", null ],
-    [ "JustEngagedWith", "da/da8/a15386.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
-    [ "KilledUnit", "da/da8/a15386.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
-    [ "UpdateAI", "da/da8/a15386.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
-    [ "_introDone", "da/da8/a15386.html#a1b4689b0c403f7246ae100e4f716b138", null ]
+    [ "npc_time_rift", "da/da8/a15386.html#ab553bcc40699a63310feaaa7b1bd2604", null ],
+    [ "DoSelectSummon", "da/da8/a15386.html#af2932c60efaea64d27d52b118b9a8095", null ],
+    [ "DoSummonAtRift", "da/da8/a15386.html#a6cb4717848efe7e5e0b0113a9ff7dcb5", null ],
+    [ "JustSummoned", "da/da8/a15386.html#a1d96b081db3cb2a9c40f5adb1c9b109d", null ],
+    [ "Reset", "da/da8/a15386.html#ad08ca716f120a45ee1688e03d2049aba", null ],
+    [ "SummonedCreatureDies", "da/da8/a15386.html#ae0ebd0268454ac0cac83235afd7f6363", null ],
+    [ "UpdateAI", "da/da8/a15386.html#ab5924378c7978c6fae95f9861040c63d", null ],
+    [ "_events", "da/da8/a15386.html#a12ffd459f8d63f299269da5b65f60128", null ],
+    [ "_instance", "da/da8/a15386.html#a8eab9c3011c885321d59e2884318d0e8", null ],
+    [ "_riftKeeperGUID", "da/da8/a15386.html#ad554d8266ded70cadd8c00a3ff5a3321", null ],
+    [ "waveMobIndex", "da/da8/a15386.html#aa312223ece9f0f1c4ac2861aed3988a9", null ],
+    [ "waveMobs", "da/da8/a15386.html#a7872706f9b5bdee7e6ca2d94e39e592f", null ]
 ];

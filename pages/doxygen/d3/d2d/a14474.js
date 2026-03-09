@@ -1,8 +1,8 @@
 var a14474 =
 [
-    [ "OnApply", "d3/d2d/a14474.html#a6f3f05316f025ef638672a82cc855136", null ],
-    [ "PeriodicTick", "d3/d2d/a14474.html#a051d292f9483e6b82d773fba3ab52460", null ],
-    [ "PrepareAuraScript", "d3/d2d/a14474.html#ab8face95be60d7c5ba3fe15f0d05de25", null ],
-    [ "Register", "d3/d2d/a14474.html#a0004de73250b8523db2b9ab714c8a246", null ],
-    [ "Validate", "d3/d2d/a14474.html#aae1809dd5bc8baa06ee079a6d2a8b940", null ]
+    [ "FilterTargets", "d3/d2d/a14474.html#a3405b21202d423c649e0b8d341b42d9c", null ],
+    [ "HandleWipeThreat", "d3/d2d/a14474.html#a2bbcce83bffebc509e9ec54778e82639", null ],
+    [ "PrepareSpellScript", "d3/d2d/a14474.html#a59948484b528cab69c695f08b39b886d", null ],
+    [ "Register", "d3/d2d/a14474.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
+    [ "_wipeThreat", "d3/d2d/a14474.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
 ];

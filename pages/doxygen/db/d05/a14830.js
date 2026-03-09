@@ -1,6 +1,6 @@
 var a14830 =
 [
-    [ "HandleHit", "db/d05/a14830.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
-    [ "PrepareSpellScript", "db/d05/a14830.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
-    [ "Register", "db/d05/a14830.html#a64a861b5c25df5780390aa55899393d7", null ]
+    [ "npc_cw_area_triggerAI", "dd/d2e/a14834.html", "dd/d2e/a14834" ],
+    [ "npc_cw_area_trigger", "db/d05/a14830.html#a11af64ac4ab078566bf8f68a36781939", null ],
+    [ "GetAI", "db/d05/a14830.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
 ];

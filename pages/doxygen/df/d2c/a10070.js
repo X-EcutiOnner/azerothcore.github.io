@@ -1,6 +1,8 @@
 var a10070 =
 [
-    [ "TargetedMovementGeneratorBase", "df/d2c/a10070.html#a670b36c578b32b7d582e8f4b6ef656c3", null ],
-    [ "stopFollowing", "df/d2c/a10070.html#adb0a6f1a63ce265fc63bf362e2f60488", null ],
-    [ "i_target", "df/d2c/a10070.html#a427d8512cbd0ccbaca65dcf48bbe39f6", null ]
+    [ "BoundaryIntersectBoundary", "df/d2c/a10070.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
+    [ "~BoundaryIntersectBoundary", "df/d2c/a10070.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
+    [ "IsWithinBoundaryArea", "df/d2c/a10070.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
+    [ "_b1", "df/d2c/a10070.html#ab0239437fa92e39d144bf3856eb347c7", null ],
+    [ "_b2", "df/d2c/a10070.html#a41e100c17db99990981293399660824c", null ]
 ];

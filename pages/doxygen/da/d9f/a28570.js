@@ -1,5 +1,7 @@
 var a28570 =
 [
-    [ "Exp", "da/d9f/a28570.html#aa34490babd6ccdc45857947db3f36d60", null ],
-    [ "id", "da/d9f/a28570.html#abe177efe7ea9d1d1ae8e7d09655c7193", null ]
+    [ "npc_steam_tonkAI", "da/d9f/a28570.html#a64bc74af412304d50526e5c93e01a333", null ],
+    [ "JustEngagedWith", "da/d9f/a28570.html#a95b023adf0a2e62788e0d5646b17b319", null ],
+    [ "OnPossess", "da/d9f/a28570.html#a954208c1a9826ae84a7402f59e1d7055", null ],
+    [ "Reset", "da/d9f/a28570.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
 ];

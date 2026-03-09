@@ -1,8 +1,13 @@
 var a05023 =
 [
-    [ "MMapData", "db/d39/a05023.html#ab6aa577df2b8bc749e68515b7b5ef96c", null ],
-    [ "~MMapData", "db/d39/a05023.html#a28ad87f05014c49373557369e9177df5", null ],
-    [ "loadedTileRefs", "db/d39/a05023.html#afa8799db33459dd5e36b7a43eae7d16b", null ],
-    [ "navMesh", "db/d39/a05023.html#a786a4b43773e4402451bed82cf221f66", null ],
-    [ "navMeshQueries", "db/d39/a05023.html#abb7a9f9131b3657eff54ed17fc329b43", null ]
+    [ "anonymous_namespace{AddonMgr.cpp}", "d7/d17/a05024.html", [
+      [ "SavedAddonsList", "d7/d17/a05024.html#afa468163a23ed58507a89e5724c06eac", null ],
+      [ "m_bannedAddons", "d7/d17/a05024.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
+      [ "m_knownAddons", "d7/d17/a05024.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
+    ] ],
+    [ "BannedAddonList", "db/d39/a05023.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
+    [ "GetAddonInfo", "db/d39/a05023.html#a65cb6a88902972060e44c57d7d9ec738", null ],
+    [ "GetBannedAddons", "db/d39/a05023.html#ad7d0938e7463238a86e8c811e1a58800", null ],
+    [ "LoadFromDB", "db/d39/a05023.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
+    [ "SaveAddon", "db/d39/a05023.html#a85021021149b7eb4d78cbe81e43d3d45", null ]
 ];

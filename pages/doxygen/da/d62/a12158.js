@@ -1,11 +1,12 @@
 var a12158 =
 [
-    [ "boss_high_interrogator_gerstahnAI", "da/d62/a12158.html#a557fda67d1d1de268ba661350ba915dc", null ],
-    [ "JustEngagedWith", "da/d62/a12158.html#a80e01faa471f9e83e85c3c47fd815dea", null ],
-    [ "Reset", "da/d62/a12158.html#ab63099f83037b3716d1e2b9c21d7d607", null ],
-    [ "UpdateAI", "da/d62/a12158.html#a67b34f7cf4c62a57bc9fb556f5fb0b81", null ],
-    [ "ManaBurn_Timer", "da/d62/a12158.html#aede307f972942c15c4b2bfa90e75856d", null ],
-    [ "PsychicScream_Timer", "da/d62/a12158.html#a291f3484e4d125fefe437d96b12153f1", null ],
-    [ "ShadowShield_Timer", "da/d62/a12158.html#a7ba151c46b097825dca9b8e3ac2cdee9", null ],
-    [ "ShadowWordPain_Timer", "da/d62/a12158.html#aec0eab93e8494bc1abc87d81460fac31", null ]
+    [ "guild_commandscript", "da/d62/a12158.html#a4394d242740505ad128e4cebf4b617f0", null ],
+    [ "GetCommands", "da/d62/a12158.html#a6b0a700e7fa3251373c1405d245f6931", null ],
+    [ "HandleGuildCreateCommand", "da/d62/a12158.html#a2d2c2414b9b08a5d510fccd223b34a36", null ],
+    [ "HandleGuildDeleteCommand", "da/d62/a12158.html#a4bbef641c86de37611e7ff1c906b4048", null ],
+    [ "HandleGuildInfoCommand", "da/d62/a12158.html#adbe43a3a362608e37dd7d6652a83adfc", null ],
+    [ "HandleGuildInviteCommand", "da/d62/a12158.html#a67210b9845ca4475e6ab3d0d7cc0dbab", null ],
+    [ "HandleGuildRankCommand", "da/d62/a12158.html#adbea3b610c98354866fec52a43fedda0", null ],
+    [ "HandleGuildRenameCommand", "da/d62/a12158.html#ac946b4284c85e43b1ca29f69df9a8f27", null ],
+    [ "HandleGuildUninviteCommand", "da/d62/a12158.html#aa7b134de9c3632cc1e147064c9ffcb5f", null ]
 ];

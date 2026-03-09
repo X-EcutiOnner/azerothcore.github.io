@@ -1,7 +1,7 @@
 var a26666 =
 [
-    [ "HandleDummy", "db/d57/a26666.html#a1abe1e04be6b6c410e0ff273d8aa15c9", null ],
-    [ "Load", "db/d57/a26666.html#a249e9c3c74bcc20ea2c0d5ce63fbd88c", null ],
-    [ "PrepareSpellScript", "db/d57/a26666.html#aeffcc8db6125a35227545911fa03a850", null ],
-    [ "Register", "db/d57/a26666.html#a1de981482ebb05b8507b308dba7a426b", null ]
+    [ "CheckAreaTarget", "db/d57/a26666.html#a2d240518259d2452d263fc436de5056e", null ],
+    [ "PrepareAuraScript", "db/d57/a26666.html#a0b97b273f13805f027e5f5113d4a8e40", null ],
+    [ "Register", "db/d57/a26666.html#a50406feea1b2cf34ad101a3b1fd25d7c", null ],
+    [ "Validate", "db/d57/a26666.html#adfd1ccae4029680415409df737aa2533", null ]
 ];

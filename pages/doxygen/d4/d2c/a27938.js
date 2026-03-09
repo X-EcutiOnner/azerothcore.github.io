@@ -1,6 +1,7 @@
 var a27938 =
 [
-    [ "npc_necropolis_proxy", "d4/d2c/a27938.html#a73f92ee73673172989d48064e5984db0", null ],
-    [ "SpellHit", "d4/d2c/a27938.html#a90d1ab55683a6409403e24291643cca5", null ],
-    [ "SpellHitTarget", "d4/d2c/a27938.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
+    [ "HandleProc", "d4/d2c/a27938.html#a41b42a2d219904cdaf2a714d97e500f7", null ],
+    [ "PrepareAuraScript", "d4/d2c/a27938.html#a95c26300614ecdab588ddcc256fc1fd6", null ],
+    [ "Register", "d4/d2c/a27938.html#afb32150ac10ad392b63f40db05433835", null ],
+    [ "Validate", "d4/d2c/a27938.html#ab012775206fb6011eff8fbed293319c8", null ]
 ];

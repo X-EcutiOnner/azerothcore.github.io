@@ -1,11 +1,10 @@
 var a09126 =
 [
-    [ "~GridCell", "d0/d6d/a09126.html#a042be8f85e83068d4bb39a0de0618146", null ],
-    [ "AddFarVisibleObject", "d0/d6d/a09126.html#a9a81bdbf151463b4687227df0fa39ece", null ],
-    [ "AddGridObject", "d0/d6d/a09126.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
-    [ "RemoveFarVisibleObject", "d0/d6d/a09126.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
-    [ "Visit", "d0/d6d/a09126.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
-    [ "Visit", "d0/d6d/a09126.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
-    [ "_farVisibleObjects", "d0/d6d/a09126.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
-    [ "_gridObjects", "d0/d6d/a09126.html#ac5a741aebc11124aa228e5107e664335", null ]
+    [ "mapId", "d0/d6d/a09126.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
+    [ "name", "d0/d6d/a09126.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
+    [ "orientation", "d0/d6d/a09126.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
+    [ "position_x", "d0/d6d/a09126.html#a65e7390a1dbb615a155c4f163b830e11", null ],
+    [ "position_y", "d0/d6d/a09126.html#a3d3f398cd23566dce721fefeae7af33c", null ],
+    [ "position_z", "d0/d6d/a09126.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
+    [ "wnameLow", "d0/d6d/a09126.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
 ];

@@ -1,12 +1,6 @@
 var a17074 =
 [
-    [ "npc_shadowy_mercenaryAI", "d5/d74/a17074.html#ac631624615653a4f82ecfae2aa418455", null ],
-    [ "AttackStart", "d5/d74/a17074.html#a001fa53e29cf8a20ed2e3312058ceb0a", null ],
-    [ "DoAction", "d5/d74/a17074.html#a62f4e98e1dadfa0a2aeea43af9d26234", null ],
-    [ "EnterEvadeMode", "d5/d74/a17074.html#a31a9ddf038046534fad1d41afcf76548", null ],
-    [ "JustDied", "d5/d74/a17074.html#a33e576c92d1b10492cb6e65000ca8198", null ],
-    [ "JustEngagedWith", "d5/d74/a17074.html#ae12ade5e863a0022ea99620f354ca51b", null ],
-    [ "Reset", "d5/d74/a17074.html#afad174f812e2aadf6db86703a46f61d2", null ],
-    [ "UpdateAI", "d5/d74/a17074.html#a7a0238f32aa0d608b9d883db5f170052", null ],
-    [ "events", "d5/d74/a17074.html#a4c6e5a49dc4364477187a0189a166578", null ]
+    [ "boss_gormokAI", "d7/d4c/a17078.html", "d7/d4c/a17078" ],
+    [ "boss_gormok", "d5/d74/a17074.html#a86ce0681be4370198c44dde5aa98a593", null ],
+    [ "GetAI", "d5/d74/a17074.html#a45cff2e7ee0525de37382cf09b116a32", null ]
 ];

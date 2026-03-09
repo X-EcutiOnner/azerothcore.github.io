@@ -1,6 +1,8 @@
 var a15910 =
 [
-    [ "npc_rivern_frostwind", "d0/d49/a15910.html#a0675c120fc28b26c7ea3c35f8d3f2a64", null ],
-    [ "OnGossipHello", "d0/d49/a15910.html#a90a6582633336de422c9f98973562b32", null ],
-    [ "OnGossipSelect", "d0/d49/a15910.html#a067ff91179f551633594d488eda269ed", null ]
+    [ "npc_prospector_remtravelAI", "d0/d49/a15910.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d0/d49/a15910.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d0/d49/a15910.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d0/d49/a15910.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d0/d49/a15910.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
 ];

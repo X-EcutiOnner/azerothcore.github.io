@@ -1,5 +1,6 @@
 var a27646 =
 [
-    [ "item_petrov_cluster_bombs", "da/df1/a27646.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "da/df1/a27646.html#a14e8a00a532b5aebc8469ff538848f53", null ]
+    [ "HandleSchoolDMG", "da/df1/a27646.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
+    [ "PrepareSpellScript", "da/df1/a27646.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
+    [ "Register", "da/df1/a27646.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
 ];

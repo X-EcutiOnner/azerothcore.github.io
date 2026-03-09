@@ -1,9 +1,8 @@
 var a26462 =
 [
-    [ "CheckCast", "db/da7/a26462.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
-    [ "HandleDummy", "db/da7/a26462.html#a7f79495525687fba6229f48935b2558a", null ],
-    [ "Load", "db/da7/a26462.html#a0c73457e44a3d64bdccee78d28893672", null ],
-    [ "PrepareSpellScript", "db/da7/a26462.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
-    [ "Register", "db/da7/a26462.html#ab9f09394ab301350a2abaefde90632fe", null ],
-    [ "Validate", "db/da7/a26462.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
+    [ "CheckProc", "db/da7/a26462.html#ae0e2b86fc99705d7a80c2122643db33f", null ],
+    [ "HandleProc", "db/da7/a26462.html#ae1027c9041171c9ed613acfd68be5ba3", null ],
+    [ "PrepareAuraScript", "db/da7/a26462.html#a69d4c898f52ce6334f0bf9963e8c5085", null ],
+    [ "Register", "db/da7/a26462.html#acfea07ba1efeba58bcfc465122a3f66d", null ],
+    [ "Validate", "db/da7/a26462.html#a69daf001676f73289682ff63897e81cb", null ]
 ];

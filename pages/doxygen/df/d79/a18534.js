@@ -1,9 +1,7 @@
 var a18534 =
 [
-    [ "HandleScript", "df/d79/a18534.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
-    [ "Load", "df/d79/a18534.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
-    [ "PrepareSpellScript", "df/d79/a18534.html#a73931c9434114749b9db648665153083", null ],
-    [ "Register", "df/d79/a18534.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
-    [ "SelectTarget", "df/d79/a18534.html#a95be527c43ceeb4801f4e494753c1b59", null ],
-    [ "_target", "df/d79/a18534.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
+    [ "IceTombSummonEvent", "df/d79/a18534.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
+    [ "Execute", "df/d79/a18534.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
+    [ "_owner", "df/d79/a18534.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
+    [ "_sindragosaGUID", "df/d79/a18534.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
 ];

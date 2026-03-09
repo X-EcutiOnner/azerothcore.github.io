@@ -1,6 +1,5 @@
 var a14510 =
 [
-    [ "npc_cw_area_triggerAI", "df/d96/a14514.html", "df/d96/a14514" ],
-    [ "npc_cw_area_trigger", "d6/d56/a14510.html#a11af64ac4ab078566bf8f68a36781939", null ],
-    [ "GetAI", "d6/d56/a14510.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
+    [ "at_zulgurub_bloodfire_pit_speech", "d6/d56/a14510.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
+    [ "_OnTrigger", "d6/d56/a14510.html#a8f1e477942ba9a5f653077632a98930f", null ]
 ];

@@ -1,8 +1,9 @@
 var a12582 =
 [
-    [ "boss_garrAI", "da/d21/a12582.html#a12d403a90bf4920763ddd87b252f544a", null ],
-    [ "JustEngagedWith", "da/d21/a12582.html#a3b2bf0e6d3b6b32c450d03b1c88f3850", null ],
-    [ "Reset", "da/d21/a12582.html#acb14e869dac8e7df83b5b9d858cd2b21", null ],
-    [ "UpdateAI", "da/d21/a12582.html#aca82837e143f4509db221de15276b90c", null ],
-    [ "massEruptionTimer", "da/d21/a12582.html#ab807c47afd1ba8320730c3aa733e1b15", null ]
+    [ "boss_overlordwyrmthalakAI", "da/d21/a12582.html#a76f9bd309e1c5045c74bb0ba8d8bce5c", null ],
+    [ "JustDied", "da/d21/a12582.html#ade379755d256c4c290e6dc8bbd862261", null ],
+    [ "JustEngagedWith", "da/d21/a12582.html#af7780f467df92c9218700773d1257a8c", null ],
+    [ "Reset", "da/d21/a12582.html#a9dbc4cc1830703c393fbeb9c0385b709", null ],
+    [ "UpdateAI", "da/d21/a12582.html#a950b2161ed4c2441fb73f8b009c5ba30", null ],
+    [ "Summoned", "da/d21/a12582.html#a8183e3f02d931809440adc8cc0cd3654", null ]
 ];

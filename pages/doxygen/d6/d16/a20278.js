@@ -1,6 +1,5 @@
 var a20278 =
 [
-    [ "achievement_freya_knock_on_wood", "d6/d16/a20278.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
-    [ "OnCheck", "d6/d16/a20278.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
-    [ "_elderCount", "d6/d16/a20278.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
+    [ "go_ulduar_tower", "d6/d16/a20278.html#afc1add1a0543921f52afe1eb907f5de3", null ],
+    [ "OnDestroyed", "d6/d16/a20278.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
 ];

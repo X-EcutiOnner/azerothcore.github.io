@@ -1,7 +1,6 @@
 var a21406 =
 [
-    [ "HandleScript", "d4/d7f/a21406.html#a47b991c20c523d151893fefd9d487714", null ],
-    [ "PrepareSpellScript", "d4/d7f/a21406.html#ab2db47d0a2694c0734db600e810e190d", null ],
-    [ "Register", "d4/d7f/a21406.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
-    [ "Validate", "d4/d7f/a21406.html#a89d601f6036fe38238767281f3427e54", null ]
+    [ "npc_vh_void_sentryAI", "d6/d2e/a21410.html", "d6/d2e/a21410" ],
+    [ "npc_vh_void_sentry", "d4/d7f/a21406.html#a6d4995d112a3fe6b59c3c3c417d98c45", null ],
+    [ "GetAI", "d4/d7f/a21406.html#ab3bcb8f8e9084e2ab588f80929a5d5ce", null ]
 ];

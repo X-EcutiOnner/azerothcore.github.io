@@ -1,8 +1,6 @@
 var a27726 =
 [
-    [ "npc_franklinAI", "d6/d60/a27730.html", "d6/d60/a27730" ],
-    [ "npc_franklin", "d5/de0/a27726.html#aab059dfa69e52083892e3170c8838e0a", null ],
-    [ "GetAI", "d5/de0/a27726.html#a10933878afe9d0cc78fa1113341fd522", null ],
-    [ "OnGossipHello", "d5/de0/a27726.html#a318d512914b135800caabe0efbb1c467", null ],
-    [ "OnGossipSelect", "d5/de0/a27726.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
+    [ "HandleAfterHit", "d5/de0/a27726.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
+    [ "PrepareSpellScript", "d5/de0/a27726.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
+    [ "Register", "d5/de0/a27726.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
 ];

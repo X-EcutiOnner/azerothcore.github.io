@@ -1,10 +1,11 @@
 var a13562 =
 [
-    [ "MoveDelayed", "d5/d41/a13562.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
-    [ "Execute", "d5/d41/a13562.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
-    [ "_o", "d5/d41/a13562.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
-    [ "_owner", "d5/d41/a13562.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
-    [ "_x", "d5/d41/a13562.html#aa490d19022c27932e76af38281fe158b", null ],
-    [ "_y", "d5/d41/a13562.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
-    [ "_z", "d5/d41/a13562.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
+    [ "npc_valkyr_battle_maidenAI", "d5/d41/a13562.html#a859b63621c500c7a36150fadbb460b2b", null ],
+    [ "Reset", "d5/d41/a13562.html#a3ca06a5822f1b5ae625b1dcc71ec0c30", null ],
+    [ "UpdateAI", "d5/d41/a13562.html#a33251b8d8abb9b46a5af4cb4e92472b8", null ],
+    [ "FlyBackTimer", "d5/d41/a13562.html#a625eb33fb32f935c5109a8d3d70c5ae7", null ],
+    [ "phase", "d5/d41/a13562.html#abd5d71272aa575be8583254217194e49", null ],
+    [ "x", "d5/d41/a13562.html#a2dbae2865b6c6db4e82b7d1dc8a67739", null ],
+    [ "y", "d5/d41/a13562.html#acccea63fedf38de14f7818016830a0a9", null ],
+    [ "z", "d5/d41/a13562.html#adde328d26ad752a9e5f2ab32eab2a4e0", null ]
 ];

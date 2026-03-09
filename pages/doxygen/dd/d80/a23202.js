@@ -1,7 +1,6 @@
 var a23202 =
 [
-    [ "HandleOnHit", "dd/d80/a23202.html#a9f368396cef39ba3bd70480f11c44700", null ],
-    [ "PrepareSpellScript", "dd/d80/a23202.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
-    [ "Register", "dd/d80/a23202.html#a99f80adcebdd9726a8df51f99d415651", null ],
-    [ "Validate", "dd/d80/a23202.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
+    [ "OnPeriodic", "dd/d80/a23202.html#adfd5a3a6d9c16cd6acdb1f24e7874f20", null ],
+    [ "PrepareAuraScript", "dd/d80/a23202.html#a8444053fa146a4163ea905634be78dfc", null ],
+    [ "Register", "dd/d80/a23202.html#aad8868dc3d00fd3ea648abe7b536970d", null ]
 ];

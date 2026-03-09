@@ -1,6 +1,6 @@
 var a16062 =
 [
-    [ "HandlePeriodic", "db/db5/a16062.html#ad22b433005b2678bde3516a01eaaaa60", null ],
-    [ "PrepareAuraScript", "db/db5/a16062.html#a3711004edaef7242d9cae1f23f9b7467", null ],
-    [ "Register", "db/db5/a16062.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
+    [ "SpellId", "db/db5/a16062.html#a2c430be201c1fd866ee96224f1803a20", null ],
+    [ "Timer1", "db/db5/a16062.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
+    [ "Timer2", "db/db5/a16062.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
 ];

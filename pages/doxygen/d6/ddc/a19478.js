@@ -1,6 +1,6 @@
 var a19478 =
 [
-    [ "npc_eoe_wyrmrest_skytalonAI", "d6/ddc/a19478.html#a0878695bc4179e3b6e92dde9f2b5cf19", null ],
-    [ "JustDied", "d6/ddc/a19478.html#aaa88ff236fd49a9c672ab29feb7377b8", null ],
-    [ "PassengerBoarded", "d6/ddc/a19478.html#aa3352276e87d805cc8722eb97d10ca46", null ]
+    [ "boss_four_horsemenAI", "d2/dfd/a19482.html", "d2/dfd/a19482" ],
+    [ "boss_four_horsemen", "d6/ddc/a19478.html#a6bcaf9a12d854a322f50ac2f98dbb72b", null ],
+    [ "GetAI", "d6/ddc/a19478.html#a3ee27da1d0da48306cc10c17c9411d1a", null ]
 ];

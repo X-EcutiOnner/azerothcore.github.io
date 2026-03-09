@@ -1,7 +1,6 @@
 var a17966 =
 [
-    [ "OnPeriodic", "d3/d52/a17966.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
-    [ "PrepareAuraScript", "d3/d52/a17966.html#a0e87dae1be4f69e6412129f14056eb79", null ],
-    [ "Register", "d3/d52/a17966.html#a1b26d102252bf7e0fd480076820d343f", null ],
-    [ "Validate", "d3/d52/a17966.html#a211d52aa385a874730abc43b083f2d22", null ]
+    [ "PrepareAuraScript", "d3/d52/a17966.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
+    [ "RecalculateHook", "d3/d52/a17966.html#a829e96cabbb565922f7183adb3edf13c", null ],
+    [ "Register", "d3/d52/a17966.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
 ];

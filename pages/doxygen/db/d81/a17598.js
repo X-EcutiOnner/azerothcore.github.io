@@ -1,6 +1,6 @@
 var a17598 =
 [
-    [ "HandleScript", "db/d81/a17598.html#acd11d50f398857dc2a24bd2d63e52222", null ],
-    [ "PrepareSpellScript", "db/d81/a17598.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
-    [ "Register", "db/d81/a17598.html#ad7f12515dc21ab6b19148370fd491629", null ]
+    [ "npc_pos_martin_or_gorkun_secondAI", "d8/dd6/a17602.html", "d8/dd6/a17602" ],
+    [ "npc_pos_martin_or_gorkun_second", "db/d81/a17598.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
+    [ "GetAI", "db/d81/a17598.html#a180936e3bb98eb55d29ebd51350906c0", null ]
 ];

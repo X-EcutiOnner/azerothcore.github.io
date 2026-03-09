@@ -1,12 +1,10 @@
 var a07962 =
 [
-    [ "far_clip", "d0/d49/a07962.html#af70a06bda2dffbf2d3c49cb696beea2f", null ],
-    [ "fov", "d0/d49/a07962.html#ae553ef5e28cc3af3acd45b9efd309fbe", null ],
-    [ "near_clip", "d0/d49/a07962.html#a9426497de885b901d364c0b3ddd487d9", null ],
-    [ "position_base", "d0/d49/a07962.html#abf0892be5ecf6d1e1021e101832396f3", null ],
-    [ "positions", "d0/d49/a07962.html#a5d23816339fea0ac1e2c6fdad5fe58d8", null ],
-    [ "rolldata", "d0/d49/a07962.html#ad3428dcc0b93e509c9225fa86ea2d691", null ],
-    [ "target_position_base", "d0/d49/a07962.html#a2515ee6fa2fc41f7fca531b55cf0dc61", null ],
-    [ "target_positions", "d0/d49/a07962.html#a12132e4bcc881cab134851938c45e05a", null ],
-    [ "type", "d0/d49/a07962.html#afd67c926b538e189b036d88a9a277a2f", null ]
+    [ "storage_type", "d0/d49/a07962.html#a054c554d9d812e571455bce39655a9ac", null ],
+    [ "value_type", "d0/d49/a07962.html#a5c55c97d4dd08c5e71563596e0c59111", null ],
+    [ "operator value_type", "d0/d49/a07962.html#a2d439c3664d398cebfc503b2769bfa9c", null ],
+    [ "operator*", "d0/d49/a07962.html#a9d4cf547beb996e5945acb84f5305200", null ],
+    [ "operator->", "d0/d49/a07962.html#afb5bb4e6e4a32db89e3b8a68e9c0d901", null ],
+    [ "TryConsume", "d0/d49/a07962.html#a57892ca7457ca93bdcdbbb8309311c8f", null ],
+    [ "val", "d0/d49/a07962.html#aef50fdfc79df3ca784eb90a69bd43076", null ]
 ];

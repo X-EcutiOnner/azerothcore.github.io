@@ -1,11 +1,6 @@
 var a10826 =
 [
-    [ "SaveGuildEmblem", "d6/dd9/a10826.html#ae3e507a567dfbead91c84629008539d2", null ],
-    [ "Read", "d6/dd9/a10826.html#aeea281ed99165947de4b5d1b4449ea5d", null ],
-    [ "BColor", "d6/dd9/a10826.html#a48cfbac2214bfc406d8bc80c175dac8f", null ],
-    [ "Bg", "d6/dd9/a10826.html#a53e3f146f6a925bbe1fdae2105b79952", null ],
-    [ "BStyle", "d6/dd9/a10826.html#a44fdd025f87e13db6d83afca6c49f5f8", null ],
-    [ "EColor", "d6/dd9/a10826.html#ad3775c0839dd9aeb5a708a26ea4ec640", null ],
-    [ "EStyle", "d6/dd9/a10826.html#a60c52a080284fabe96c579f39fb0834f", null ],
-    [ "Vendor", "d6/dd9/a10826.html#a4bd53f7f5a5f2e7759d6df8a9de0b3f0", null ]
+    [ "EmoteClient", "d6/dd9/a10826.html#af98c098cb1019057d8027f39c168e1a9", null ],
+    [ "Read", "d6/dd9/a10826.html#abad5fca865b7b99e595ce95137e8105c", null ],
+    [ "EmoteID", "d6/dd9/a10826.html#a24503de36535106220984ffbf6ba0338", null ]
 ];

@@ -1,12 +1,14 @@
 var a16538 =
 [
-    [ "npc_swarm_scarabAI", "dc/d65/a16538.html#a0d0cefd52543044773e7df772f90fd37", null ],
-    [ "CanAIAttack", "dc/d65/a16538.html#a95a27742f4f7fa1af45964b6270a9558", null ],
-    [ "DoAction", "dc/d65/a16538.html#ac1fe6742ef1e7bdee4c81a3933a31659", null ],
-    [ "JustDied", "dc/d65/a16538.html#a0fe99c71cac6d3ee8d360f0d46d03fcd", null ],
-    [ "JustEngagedWith", "dc/d65/a16538.html#a585e1e8800e97b2aa3d6c893d54c1d2b", null ],
-    [ "Reset", "dc/d65/a16538.html#aa24cc2f2b7aa4c5c534e8d2ce2957237", null ],
-    [ "UpdateAI", "dc/d65/a16538.html#aa33d9e101ba7de2a25a6213baccf6df1", null ],
-    [ "despawnTimer", "dc/d65/a16538.html#a6d35e43af695ac112b972badb665f06d", null ],
-    [ "determinationTimer", "dc/d65/a16538.html#af319dbf16bc1d3939602465f0a87d30c", null ]
+    [ "boss_baltharus_the_warbornAI", "dc/d65/a16538.html#adaf6cb6ab81a461b202d40900b4b744c", null ],
+    [ "DoAction", "dc/d65/a16538.html#ab22f46e2514c10ce0e8141b3f69f069d", null ],
+    [ "InitializeAI", "dc/d65/a16538.html#ac188db2a727e2fb3c411f8616f8a2f41", null ],
+    [ "JustDied", "dc/d65/a16538.html#aaeb3e9b1bd25464cec4a1b0adf88afbe", null ],
+    [ "JustEngagedWith", "dc/d65/a16538.html#a4b670f4d89f9ed9ffeebf9d9426d79dc", null ],
+    [ "JustReachedHome", "dc/d65/a16538.html#ab178ccb3ee8bfa2649f03bfc18f1e424", null ],
+    [ "JustSummoned", "dc/d65/a16538.html#a7947c96290ea2cbe1b7ed6b6a8db65fe", null ],
+    [ "KilledUnit", "dc/d65/a16538.html#adb1a9e2af865292215c02cc1fb959cd3", null ],
+    [ "Reset", "dc/d65/a16538.html#a68e503ddac7be2f4e08d68e64aa2e725", null ],
+    [ "UpdateAI", "dc/d65/a16538.html#abe2e7188e33e70d52ab1985f821fa9c5", null ],
+    [ "_introDone", "dc/d65/a16538.html#a463209610cbc8e34d9839abeaf6df0e6", null ]
 ];

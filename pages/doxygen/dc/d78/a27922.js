@@ -1,4 +1,6 @@
 var a27922 =
 [
-    [ "go_necropolis", "dc/d78/a27922.html#aef477499aefa5340db97538a8f3a3cca", null ]
+    [ "HandleOnHit", "dc/d78/a27922.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "dc/d78/a27922.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "dc/d78/a27922.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

@@ -1,11 +1,7 @@
 var a28482 =
 [
-    [ "ClassID", "d8/dbb/a28482.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
-    [ "DisplayInfoID", "d8/dbb/a28482.html#a87657df2ad024245ccb2192303f76b7a", null ],
-    [ "ID", "d8/dbb/a28482.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
-    [ "InventoryType", "d8/dbb/a28482.html#a6dc33fc40a299b010c18a7009aff648b", null ],
-    [ "Material", "d8/dbb/a28482.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
-    [ "SheatheType", "d8/dbb/a28482.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
-    [ "SoundOverrideSubclassID", "d8/dbb/a28482.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
-    [ "SubclassID", "d8/dbb/a28482.html#ac39254716573e335caf312f635353a2e", null ]
+    [ "npc_riggle_bassbaitAI", "d8/dbb/a28482.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "d8/dbb/a28482.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "d8/dbb/a28482.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "d8/dbb/a28482.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

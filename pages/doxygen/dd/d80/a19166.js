@@ -1,6 +1,6 @@
 var a19166 =
 [
-    [ "boss_four_horsemenAI", "d7/d5b/a19170.html", "d7/d5b/a19170" ],
-    [ "boss_four_horsemen", "dd/d80/a19166.html#a6bcaf9a12d854a322f50ac2f98dbb72b", null ],
-    [ "GetAI", "dd/d80/a19166.html#a3ee27da1d0da48306cc10c17c9411d1a", null ]
+    [ "npc_captain_rupertAI", "d7/d5b/a19170.html", "d7/d5b/a19170" ],
+    [ "npc_captain_rupert", "dd/d80/a19166.html#a7a4535a6b784b460c79722e9a50c3ff6", null ],
+    [ "GetAI", "dd/d80/a19166.html#a20afc31fc1a8bb09692ab0cc47af3c1b", null ]
 ];

@@ -1,5 +1,8 @@
 var a24022 =
 [
-    [ "npc_thaladred", "d3/d47/a24022.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
-    [ "ScheduleEvents", "d3/d47/a24022.html#a24febff1fc8b155bca0fb177a8119dbb", null ]
+    [ "npc_ancestral_wolfAI", "d3/d47/a24022.html#a59ccca7093575f4bcac57a4751d977d4", null ],
+    [ "MoveInLineOfSight", "d3/d47/a24022.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
+    [ "Reset", "d3/d47/a24022.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
+    [ "WaypointReached", "d3/d47/a24022.html#a2b553c29823e5ef888ee02a3ed413386", null ],
+    [ "ryga", "d3/d47/a24022.html#ac238214604720e298124b58c35d58e05", null ]
 ];

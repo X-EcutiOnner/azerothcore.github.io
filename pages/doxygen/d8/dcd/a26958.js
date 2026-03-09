@@ -1,6 +1,7 @@
 var a26958 =
 [
-    [ "HandleDummy", "d8/dcd/a26958.html#af5bccd5dfb9aa37215b083438b6749ea", null ],
-    [ "PrepareSpellScript", "d8/dcd/a26958.html#a6c2b858c893ed215d1192073b06db81d", null ],
-    [ "Register", "d8/dcd/a26958.html#a1b23dc4a7a04e4c910bb738d45a8df1f", null ]
+    [ "CheckProc", "d8/dcd/a26958.html#adc34c24521c893499c72bc0fe8a946eb", null ],
+    [ "PrepareAuraScript", "d8/dcd/a26958.html#a1e7cf41ceb818d7d234c1b998e7280be", null ],
+    [ "Register", "d8/dcd/a26958.html#a60a2902196abf3239fe6b8f7defcd609", null ],
+    [ "Validate", "d8/dcd/a26958.html#a13e108f88a07f0b46291cdc718022437", null ]
 ];

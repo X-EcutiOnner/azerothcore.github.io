@@ -1,7 +1,6 @@
 var a24094 =
 [
-    [ "boss_gatewatcher_iron_hand", "d2/d51/a24094.html#aef70e713007af38b510f0a3b8c082b24", null ],
-    [ "JustDied", "d2/d51/a24094.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
-    [ "JustEngagedWith", "d2/d51/a24094.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
-    [ "KilledUnit", "d2/d51/a24094.html#a1973142412b4094dbd9fa51600741148", null ]
+    [ "npc_commander_dawnforgeAI", "d3/d03/a24098.html", "d3/d03/a24098" ],
+    [ "npc_commander_dawnforge", "d2/d51/a24094.html#ab4d430725f68f906e9c8def66b1d6646", null ],
+    [ "GetAI", "d2/d51/a24094.html#a6089b087b7c3b18659e23c677814318b", null ]
 ];

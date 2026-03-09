@@ -1,5 +1,8 @@
 var a05070 =
 [
-    [ "TileEntries", "df/d0f/a05070.html#ac982af8210389fe769d161a12d4cdb5f", null ],
-    [ "UniqueEntries", "df/d0f/a05070.html#a5ba6c948eedc6c070a7eb6aa3816d85c", null ]
+    [ "anonymous_namespace{WeatherMgr.cpp}", "db/d78/a05071.html", [
+      [ "_weatherData", "db/d78/a05071.html#ab7d0026c60fbd90f9833172d25e7037f", null ]
+    ] ],
+    [ "GetWeatherData", "d8/d36/a04984.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],
+    [ "LoadWeatherData", "d8/d36/a04984.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ]
 ];

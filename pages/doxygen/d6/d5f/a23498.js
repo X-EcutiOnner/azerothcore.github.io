@@ -1,7 +1,10 @@
 var a23498 =
 [
-    [ "PeriodicTick", "d6/d5f/a23498.html#a789d2d4d2bc75e412abe80a33102fa06", null ],
-    [ "PrepareAuraScript", "d6/d5f/a23498.html#a49db8ade3bc3a3da9e043e8b9ad1759d", null ],
-    [ "Register", "d6/d5f/a23498.html#aec2d7f564107f5b294a5d5c3dd3f9b25", null ],
-    [ "Validate", "d6/d5f/a23498.html#a7c2309d3192b2a18d8035c8067849d6d", null ]
+    [ "boss_blindeye_the_seer", "d6/d5f/a23498.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
+    [ "JustDied", "d6/d5f/a23498.html#ad70a72b18587da82d26bde8f10d63700", null ],
+    [ "JustEngagedWith", "d6/d5f/a23498.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
+    [ "Reset", "d6/d5f/a23498.html#aabbda75266615f64ce88ce092e68bfa4", null ],
+    [ "UpdateAI", "d6/d5f/a23498.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
+    [ "_scheduler", "d6/d5f/a23498.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
+    [ "instance", "d6/d5f/a23498.html#a74462f26d66da3ca370825858060b1c2", null ]
 ];

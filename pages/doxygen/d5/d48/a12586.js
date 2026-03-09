@@ -1,6 +1,6 @@
 var a12586 =
 [
-    [ "npc_garr_fireswornAI", "da/d34/a12590.html", "da/d34/a12590" ],
-    [ "npc_garr_firesworn", "d5/d48/a12586.html#a54c8f5daab9b8c4e1e7ff5d7777fcddf", null ],
-    [ "GetAI", "d5/d48/a12586.html#a07e47767a44d3613f8cba2c3dfb1d14e", null ]
+    [ "boss_pyroguard_emberseerAI", "da/d34/a12590.html", "da/d34/a12590" ],
+    [ "boss_pyroguard_emberseer", "d5/d48/a12586.html#af9f55c012880404e2e6f8278763af194", null ],
+    [ "GetAI", "d5/d48/a12586.html#a060c52f53760e60a022a7034dd785b1d", null ]
 ];

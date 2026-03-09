@@ -1,9 +1,14 @@
 var a04967 =
 [
-    [ "MDLCallback", "da/d70/a04967.html#a241899d601778892a72080cceaa96318", null ],
-    [ "operator()", "da/d70/a04967.html#a7e65ac1aebc8ac951303ee8e7cd85623", null ],
-    [ "operator()", "da/d70/a04967.html#a2130223692a9d0f8491f7ea7ae24270c", null ],
-    [ "_callback", "da/d70/a04967.html#a8eae05fc208dcc7f50147bf55c47764c", null ],
-    [ "objects", "da/d70/a04967.html#a297d43aa55ffbb4f69f8e5888c8e116f", null ],
-    [ "objects_size", "da/d70/a04967.html#a92fa352db4ba43afd590677d0ae1e5d9", null ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "da/d70/a04967.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "isHole", "da/d70/a04967.html#a3a7e248f31dc8d832dc118d469a98bd4", null ],
+    [ "holetab_h", "da/d70/a04967.html#a7424dd5c858116f845a676e31fe5ae5d", null ],
+    [ "holetab_v", "da/d70/a04967.html#a2b1bf69bcdb58ff1605821d486da3acb", null ],
+    [ "MCINMagic", "da/d70/a04967.html#a6f946547b65d321100fd6efa2966180c", null ],
+    [ "MCLQMagic", "da/d70/a04967.html#a35ae9924cb4e3ad0020167b89d5ea86f", null ],
+    [ "MCNKMagic", "da/d70/a04967.html#aa2d85d3b667d3755f6f7a993e60c574b", null ],
+    [ "MCVTMagic", "da/d70/a04967.html#a32010e610a970d3891ae5effca03de37", null ],
+    [ "MFBOMagic", "da/d70/a04967.html#a329d005a0989137286469e197dc0c812", null ],
+    [ "MH2OMagic", "da/d70/a04967.html#aaeaf747e4bc5c25257f9e0ef1153b5a7", null ],
+    [ "MHDRMagic", "da/d70/a04967.html#ac97bd684dd5bacba0e790f355a3bdddf", null ]
 ];

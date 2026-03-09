@@ -1,6 +1,6 @@
 var a24366 =
 [
-    [ "npc_dragonmaw_peonAI", "df/d0d/a24370.html", "df/d0d/a24370" ],
-    [ "npc_dragonmaw_peon", "df/d56/a24366.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
-    [ "GetAI", "df/d56/a24366.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
+    [ "HandleDamageCalc", "df/d56/a24366.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
+    [ "PrepareSpellScript", "df/d56/a24366.html#a183477b6269dbc705a10e60ab36c13b1", null ],
+    [ "Register", "df/d56/a24366.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
 ];

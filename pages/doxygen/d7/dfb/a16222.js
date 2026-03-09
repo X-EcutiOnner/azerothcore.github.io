@@ -1,6 +1,7 @@
 var a16222 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "d5/dd5/a16226.html", "d5/dd5/a16226" ],
-    [ "npc_baltharus_the_warborn_clone", "d7/dfb/a16222.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
-    [ "GetAI", "d7/dfb/a16222.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
+    [ "npc_ameAI", "d5/dd5/a16226.html", "d5/dd5/a16226" ],
+    [ "npc_ame", "d7/dfb/a16222.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
+    [ "GetAI", "d7/dfb/a16222.html#a09f7688c38d56319791f7543eb32f317", null ],
+    [ "OnQuestAccept", "d7/dfb/a16222.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
 ];

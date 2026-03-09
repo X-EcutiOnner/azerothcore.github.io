@@ -1,4 +1,29 @@
 var a29550 =
 [
-    [ "gOpenArchives", "d3/da6/a29550.html#a8ae40ebe73635e831bc65b70e7f97f3c", null ]
+    [ "AuraEffectStub", "d3/da6/a29550.html#ad2566d6b861d865b3b4c0192ff6208fe", null ],
+    [ "~AuraEffectStub", "d3/da6/a29550.html#acb3d8ec6a1b19393850ea3a0e1fc171d", null ],
+    [ "GetAmount", "d3/da6/a29550.html#a45f25bb929c6bbce7097080844fd46af", null ],
+    [ "GetAuraType", "d3/da6/a29550.html#ae386fc8d6aa7ee54dc462956d3fe3b2a", null ],
+    [ "GetBaseAmount", "d3/da6/a29550.html#a2f2d129302985893fdbcfaf46904bf00", null ],
+    [ "GetCritChance", "d3/da6/a29550.html#ab592b4bfdf5a848b94683b5344caf35d", null ],
+    [ "GetEffIndex", "d3/da6/a29550.html#ad656908e7808dd11adcde87535a81e89", null ],
+    [ "GetTickNumber", "d3/da6/a29550.html#a3cc86707e1d9298417ad9e3198581952", null ],
+    [ "GetTotalTicks", "d3/da6/a29550.html#a5c36edee27a3dffd6b71d2ad782e2468", null ],
+    [ "IsPeriodic", "d3/da6/a29550.html#a52161b11aad65af9fb43b382050933c1", null ],
+    [ "SetAmount", "d3/da6/a29550.html#a6caed843ba74cab33e74c4788f258c18", null ],
+    [ "SetAuraType", "d3/da6/a29550.html#a380d93bad19fcd7f549eb6b62b0b8c33", null ],
+    [ "SetBaseAmount", "d3/da6/a29550.html#a35bbe2f87d9c17e8a4b54ff737229693", null ],
+    [ "SetCritChance", "d3/da6/a29550.html#a2f6c5f7c39537b6a3e72095bb336223a", null ],
+    [ "SetEffIndex", "d3/da6/a29550.html#aee06a27d9047462bd3e2cb3ac5ae4b57", null ],
+    [ "SetPeriodic", "d3/da6/a29550.html#a78f8813a21de9c97221e4b4a6f999308", null ],
+    [ "SetTickNumber", "d3/da6/a29550.html#a14aa5814e488bf74b72eb061c72c4928", null ],
+    [ "SetTotalTicks", "d3/da6/a29550.html#acb0d99b854e980374c64cb404c2e3dc7", null ],
+    [ "_amount", "d3/da6/a29550.html#a36b14631796ffedb3b7d8122d80dec5d", null ],
+    [ "_auraType", "d3/da6/a29550.html#a2837d83d68bc7c7c6d9431fe547cc538", null ],
+    [ "_baseAmount", "d3/da6/a29550.html#aedb1f7c6f08de5e06ec2b9eed5797854", null ],
+    [ "_critChance", "d3/da6/a29550.html#ae7f6f6a1d7e0690843fa4ddb079540e7", null ],
+    [ "_effIndex", "d3/da6/a29550.html#a010603c0087e3bf51748e7958f434b6e", null ],
+    [ "_isPeriodic", "d3/da6/a29550.html#aa13f1591f0b420deee4779f878262f3d", null ],
+    [ "_tickNumber", "d3/da6/a29550.html#ab31045554d3ae1f9bb2d12df0a05a39d", null ],
+    [ "_totalTicks", "d3/da6/a29550.html#ab34510e2a88d9f5fdaff890115faddf5", null ]
 ];

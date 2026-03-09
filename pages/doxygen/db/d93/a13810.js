@@ -1,16 +1,9 @@
 var a13810 =
 [
-    [ "npc_bh_thalorien_dawnseekerAI", "db/d93/a13810.html#aa0fc35194d16d63854926d4266569d77", null ],
-    [ "DamageTaken", "db/d93/a13810.html#a46f47c937db63c2cd12331bce4e251cf", null ],
-    [ "EnterEvadeMode", "db/d93/a13810.html#a55b6176ee579f5f320ce36b63f83d314", null ],
-    [ "JustSummoned", "db/d93/a13810.html#aa23391bbed38571a86508b4c87e5c66c", null ],
-    [ "MovementInform", "db/d93/a13810.html#a5f47c72447c197642a0081e544095489", null ],
-    [ "Reset", "db/d93/a13810.html#a6a9beaf984d954bc11a5f7dff17ca442", null ],
-    [ "SetData", "db/d93/a13810.html#a24293b807b8999acbb6fbe59e3c06232", null ],
-    [ "SummonedCreatureDespawn", "db/d93/a13810.html#a095587a925d6054da2e2fdc9de2b415e", null ],
-    [ "UpdateAI", "db/d93/a13810.html#aa432d9d89eed150f0b3cf0beaef144d2", null ],
-    [ "events", "db/d93/a13810.html#a5b98f3bcba320cbec0116d3f4a8e4d05", null ],
-    [ "morlenGUID", "db/d93/a13810.html#aefe243dea75b1aac366fae1395e0e398", null ],
-    [ "playerGUID", "db/d93/a13810.html#ab93ca177abc21647a1162006ed50a551", null ],
-    [ "summons", "db/d93/a13810.html#af36ccbeaec6bc0157cb8cac6d705c3c3", null ]
+    [ "npc_demonic_vapor_trail", "db/d93/a13810.html#a5bd024ea050372e982a183da59b45904", null ],
+    [ "JustSummoned", "db/d93/a13810.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
+    [ "Reset", "db/d93/a13810.html#a9da762ab640abfaf5092034f284239af", null ],
+    [ "SpellHitTarget", "db/d93/a13810.html#a21e2223f58156da2fbe1803554623ecd", null ],
+    [ "UpdateAI", "db/d93/a13810.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
+    [ "_timer", "db/d93/a13810.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
 ];

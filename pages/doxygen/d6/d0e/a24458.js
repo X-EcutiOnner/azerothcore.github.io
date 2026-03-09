@@ -1,6 +1,9 @@
 var a24458 =
 [
-    [ "npc_shattrathflaskvendors", "d6/d0e/a24458.html#ab74b234406c2022bf519242a7842458a", null ],
-    [ "OnGossipHello", "d6/d0e/a24458.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
-    [ "OnGossipSelect", "d6/d0e/a24458.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
+    [ "npc_pet_shaman_earth_elemental", "d6/d0e/a24458.html#a07f3792cb3b5264d209f1b4726867773", null ],
+    [ "InitializeAI", "d6/d0e/a24458.html#a8bbca6686ae324a50cd1598125280446", null ],
+    [ "JustEngagedWith", "d6/d0e/a24458.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
+    [ "UpdateAI", "d6/d0e/a24458.html#ab28951b483cab31bf5672fc74e7323e1", null ],
+    [ "_events", "d6/d0e/a24458.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
+    [ "_initAttack", "d6/d0e/a24458.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
 ];

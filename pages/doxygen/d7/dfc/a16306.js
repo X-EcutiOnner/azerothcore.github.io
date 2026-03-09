@@ -1,7 +1,6 @@
 var a16306 =
 [
-    [ "HandlePeriodic", "d7/dfc/a16306.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
-    [ "PrepareAuraScript", "d7/dfc/a16306.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
-    [ "Register", "d7/dfc/a16306.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
-    [ "Validate", "d7/dfc/a16306.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
+    [ "npc_shadowpriest_sezzizAI", "d6/d76/a16310.html", "d6/d76/a16310" ],
+    [ "npc_shadowpriest_sezziz", "d7/dfc/a16306.html#a1be46acc9d8f1405f925f7b7f87592ea", null ],
+    [ "GetAI", "d7/dfc/a16306.html#a1513b766f18dbc290b6682582fd33b1d", null ]
 ];

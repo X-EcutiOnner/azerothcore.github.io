@@ -1,10 +1,5 @@
 var a04703 =
 [
-    [ "ban_commandscript", "d5/d49/a12056.html", "d5/d49/a12056" ],
-    [ "BanMode", "d6/d8c/a04703.html#aee9acfaac97a86a40bad738a75eb5264", [
-      [ "BAN_ACCOUNT", "d6/d8c/a04703.html#aee9acfaac97a86a40bad738a75eb5264a7092b1d29da920594bf62c7abe0e9ba1", null ],
-      [ "BAN_CHARACTER", "d6/d8c/a04703.html#aee9acfaac97a86a40bad738a75eb5264ab7cde4c4b1dd975c191f10ab0b18ab79", null ],
-      [ "BAN_IP", "d6/d8c/a04703.html#aee9acfaac97a86a40bad738a75eb5264ab68a6a6d80749ee19c73fc9dd4f4d74b", null ]
-    ] ],
-    [ "AddSC_ban_commandscript", "d6/d8c/a04703.html#aac8ae57b7b7f9ef5cb5aa2975ef444ff", null ]
+    [ "honor_commandscript", "d2/d85/a12162.html", "d2/d85/a12162" ],
+    [ "AddSC_honor_commandscript", "d6/d8c/a04703.html#ab7c57f853cb45a82b5563b703a1ee041", null ]
 ];

@@ -1,6 +1,8 @@
 var a27502 =
 [
-    [ "go_darkmoon_faire_musicAI", "d6/dec/a27506.html", "d6/dec/a27506" ],
-    [ "go_darkmoon_faire_music", "de/d71/a27502.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
-    [ "GetAI", "de/d71/a27502.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
+    [ "CheckProc", "de/d71/a27502.html#a33412f2b5abb1ce2160408ef13e7f0cb", null ],
+    [ "HandleProc", "de/d71/a27502.html#ab24c3d3f697a7ebd146d6135305c7741", null ],
+    [ "PrepareAuraScript", "de/d71/a27502.html#a8eccfbb749b85bbb850874324f17bbde", null ],
+    [ "Register", "de/d71/a27502.html#a482dd09de6cba9f5a36a6cdad1b82a0a", null ],
+    [ "Validate", "de/d71/a27502.html#a0c3020d44608920a2820e73e0b9e4b42", null ]
 ];

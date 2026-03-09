@@ -1,6 +1,6 @@
 var a18630 =
 [
-    [ "ManaVoidSelector", "d5/d68/a18630.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
-    [ "operator()", "d5/d68/a18630.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
-    [ "_source", "d5/d68/a18630.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
+    [ "npc_rimefangAI", "de/d6c/a18634.html", "de/d6c/a18634" ],
+    [ "npc_rimefang", "d5/d68/a18630.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
+    [ "GetAI", "d5/d68/a18630.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
 ];

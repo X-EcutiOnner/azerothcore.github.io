@@ -1,34 +1,11 @@
 var a04990 =
 [
-    [ "Bank", "de/d7d/a05000.html", "de/d7d/a05000" ],
-    [ "Calendar", "d6/dd1/a05001.html", "d6/dd1/a05001" ],
-    [ "Character", "d7/daf/a05002.html", "d7/daf/a05002" ],
-    [ "Chat", "d7/d3c/a05003.html", "d7/d3c/a05003" ],
-    [ "Combat", "d2/d38/a05005.html", "d2/d38/a05005" ],
-    [ "CombatLog", "d7/d8a/a05004.html", "d7/d8a/a05004" ],
-    [ "Guild", "d1/da2/a04991.html", "d1/da2/a04991" ],
-    [ "Instance", "d5/dc0/a05006.html", "d5/dc0/a05006" ],
-    [ "Item", "db/d5b/a05007.html", "db/d5b/a05007" ],
-    [ "LFG", "d6/df3/a05008.html", "d6/df3/a05008" ],
-    [ "Misc", "d1/d91/a05009.html", "d1/d91/a05009" ],
-    [ "NPC", "d8/d79/a05010.html", "d8/d79/a05010" ],
-    [ "Pet", "db/dd9/a05012.html", "db/dd9/a05012" ],
-    [ "Query", "de/dbd/a05013.html", "de/dbd/a05013" ],
-    [ "Strings", "db/dc2/a05011.html", "db/dc2/a05011" ],
-    [ "Totem", "dc/d66/a05014.html", "dc/d66/a05014" ],
-    [ "WorldState", "d0/d0c/a05015.html", "d0/d0c/a05015" ],
-    [ "Array", "d1/dd7/a11256.html", "d1/dd7/a11256" ],
-    [ "ClientPacket", "d1/d9c/a10676.html", "d1/d9c/a10676" ],
-    [ "CompactArray", "d1/d6b/a11260.html", "d1/d6b/a11260" ],
-    [ "IllegalHyperlinkException", "d7/dc9/a11224.html", "d7/dc9/a11224" ],
-    [ "InvalidHyperlinkException", "d4/da4/a11220.html", "d4/da4/a11220" ],
-    [ "InvalidStringValueException", "d0/d7a/a11212.html", "d0/d7a/a11212" ],
-    [ "InvalidUtf8ValueException", "d1/d71/a11216.html", "d1/d71/a11216" ],
-    [ "Packet", "df/de3/a10668.html", "df/de3/a10668" ],
-    [ "PacketArrayMaxCapacityException", "d1/dff/a11252.html", "d1/dff/a11252" ],
-    [ "ServerPacket", "d6/d3d/a10672.html", "d6/d3d/a10672" ],
-    [ "String", "d1/d9f/a11248.html", "d1/d9f/a11248" ],
-    [ "CheckCompactArrayMaskOverflow", "d5/de1/a04990.html#afb4909c8c4c13b14c8eceda2e9b4246d", null ],
-    [ "operator<<", "d5/de1/a04990.html#a82e35db0d6b671a4f4a581aac05828dc", null ],
-    [ "operator>>", "d5/de1/a04990.html#ab21e8e534a45a2a33d69cd11562a45c6", null ]
+    [ "SteadyTimer", "db/d04/a04992.html", [
+      [ "GetExpirationTime", "db/d04/a04992.html#a546bd84b57be90f3ceb4cfc0fb92ae1c", null ]
+    ] ],
+    [ "IoContext", "d1/ddb/a05106.html", "d1/ddb/a05106" ],
+    [ "Resolver", "db/da9/a05110.html", "db/da9/a05110" ],
+    [ "Strand", "d5/d80/a05114.html", "d5/d80/a05114" ],
+    [ "get_io_context", "d5/de1/a04990.html#a47f8fe35925492e3f01d723115279f2e", null ],
+    [ "post", "d5/de1/a04990.html#ac437e3511a92ead72c7d3c1f6004daaf", null ]
 ];

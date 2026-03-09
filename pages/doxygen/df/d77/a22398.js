@@ -1,8 +1,9 @@
 var a22398 =
 [
-    [ "CheckCast", "df/d77/a22398.html#ab1584c391ac81b8338387acc6187001f", null ],
-    [ "HandleDummy", "df/d77/a22398.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
-    [ "PrepareSpellScript", "df/d77/a22398.html#a08d9ffb7dcbe786071979166e0489336", null ],
-    [ "Register", "df/d77/a22398.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
-    [ "Validate", "df/d77/a22398.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
+    [ "HandleFinish", "df/d77/a22398.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
+    [ "Load", "df/d77/a22398.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
+    [ "PrepareSpellScript", "df/d77/a22398.html#a8326b3f9f78aab65225e81d274cc37df", null ],
+    [ "Register", "df/d77/a22398.html#a749858f56e15a0bb6074d15ba166625d", null ],
+    [ "Validate", "df/d77/a22398.html#a64005c52e7112c466f6206b7f6c847c0", null ],
+    [ "handled", "df/d77/a22398.html#a7afe3007a016cb553f437544f8fd6f89", null ]
 ];

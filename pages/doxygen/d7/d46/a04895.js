@@ -1,16 +1,24 @@
 var a04895 =
 [
-    [ "ModelFlags", "d7/d46/a04895.html#a829dc978e29d88ada1059ea4ca6c4cd3", [
-      [ "MOD_M2", "d7/d46/a04895.html#a829dc978e29d88ada1059ea4ca6c4cd3a36c4baaa0c832deca9bc0f05addf1168", null ],
-      [ "MOD_WORLDSPAWN", "d7/d46/a04895.html#a829dc978e29d88ada1059ea4ca6c4cd3aa5609345ab3d1b82637666503b9bb0b4", null ],
-      [ "MOD_HAS_BOUND", "d7/d46/a04895.html#a829dc978e29d88ada1059ea4ca6c4cd3ae86efc863566bd1ba59ca8ad8cb72851", null ]
+    [ "MMAP::MeshData", "db/d2f/a30054.html", "db/d2f/a30054" ],
+    [ "MMAP::TerrainBuilder", "d2/df5/a30058.html", "d2/df5/a30058" ],
+    [ "Grid", "d7/d46/a04895.html#a6ddcf7a168396ad1ecedfc4e5fe04c09", [
+      [ "GRID_V8", "d7/d46/a04895.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a1b3d969edeab4d39be8a3a59ebca6e0b", null ],
+      [ "GRID_V9", "d7/d46/a04895.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a90e846a47ab162703bf2dc5664a61289", null ]
     ] ],
-    [ "ExtractGameobjectModels", "d7/d46/a04895.html#a7b3d0cbf404ed32359e354ccf6e34392", null ],
-    [ "ExtractSingleModel", "d7/d46/a04895.html#a6a96194f748b715f0400249583336ae5", null ],
-    [ "ExtractSingleWmo", "d7/d46/a04895.html#afc9839262206eb10094c1769141ae146", null ],
-    [ "FileExists", "d7/d46/a04895.html#aab524156a5705c5cd09f96106eaac92d", null ],
-    [ "GenerateUniqueObjectId", "d7/d46/a04895.html#a6a3d179f34597554b17a122f27cd6be5", null ],
-    [ "strToLower", "d7/d46/a04895.html#ac9e88429cc2168db83793cb7074bc69f", null ],
-    [ "szWorkDirWmo", "d7/d46/a04895.html#ac706bf73d4ee9783a3b882fad9c3cbea", null ],
-    [ "WmoDoodads", "d7/d46/a04895.html#a17b22c7645963c9e5c277b72605a4966", null ]
+    [ "Spot", "d7/d46/a04895.html#aa0140172b3856ff5a4e0db0227a41165", [
+      [ "TOP", "d7/d46/a04895.html#aa0140172b3856ff5a4e0db0227a41165aecf8447d11b71464b1a20efa4b87cef1", null ],
+      [ "RIGHT", "d7/d46/a04895.html#aa0140172b3856ff5a4e0db0227a41165a7ba16840bb5803d51ebe597bc881851e", null ],
+      [ "LEFT", "d7/d46/a04895.html#aa0140172b3856ff5a4e0db0227a41165a5bf23f4bd225a5f4caadf6820404332b", null ],
+      [ "BOTTOM", "d7/d46/a04895.html#aa0140172b3856ff5a4e0db0227a41165a8f0736dff0eeeaeeb131796615680d04", null ],
+      [ "ENTIRE", "d7/d46/a04895.html#aa0140172b3856ff5a4e0db0227a41165a333ed540d45ff2a6bc5ac8a954e93f12", null ]
+    ] ],
+    [ "GRID_PART_SIZE", "d7/d46/a04895.html#a39bc2d4fa649e77addef85b06c49b369", null ],
+    [ "GRID_SIZE", "d7/d46/a04895.html#a16e4fdf7de4239156a5a8eb83dcc9e8c", null ],
+    [ "INVALID_MAP_LIQ_HEIGHT", "d7/d46/a04895.html#a44bbf7085ddd1deacaae673ea4ec357c", null ],
+    [ "INVALID_MAP_LIQ_HEIGHT_MAX", "d7/d46/a04895.html#a26a6da9ce81eb096651bf47cb90f947f", null ],
+    [ "V8_SIZE", "d7/d46/a04895.html#a6918d13eba00db309998162fbff2fb7c", null ],
+    [ "V8_SIZE_SQ", "d7/d46/a04895.html#a94a0ee7c4f225dfc488737a7ba825bae", null ],
+    [ "V9_SIZE", "d7/d46/a04895.html#a32c90e1638c0f8693e2fc95201d2ec3f", null ],
+    [ "V9_SIZE_SQ", "d7/d46/a04895.html#a7eb8c24e8759cfd1ebd37b1efc72618b", null ]
 ];

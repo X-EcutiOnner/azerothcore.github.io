@@ -1,7 +1,12 @@
 var a21282 =
 [
-    [ "HandleOnEffectRemove", "d5/d5d/a21282.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
-    [ "PrepareAuraScript", "d5/d5d/a21282.html#a72e6468602d40eb479a80c611d60eb2e", null ],
-    [ "Register", "d5/d5d/a21282.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
-    [ "Validate", "d5/d5d/a21282.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
+    [ "boss_koralonAI", "d5/d5d/a21282.html#a3f5bc42a141011e543d1215eac09dc74", null ],
+    [ "AttackStart", "d5/d5d/a21282.html#aa84e6e9a302172e134163cd07ca57864", null ],
+    [ "JustDied", "d5/d5d/a21282.html#a102c10792d9e7df61d920b5a43f58e51", null ],
+    [ "JustEngagedWith", "d5/d5d/a21282.html#aa7503618dd09e0aebac44394595f4715", null ],
+    [ "Reset", "d5/d5d/a21282.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
+    [ "UpdateAI", "d5/d5d/a21282.html#aa944aad2eb68adc917cba743d1e530c7", null ],
+    [ "events", "d5/d5d/a21282.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
+    [ "pInstance", "d5/d5d/a21282.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
+    [ "rotateTimer", "d5/d5d/a21282.html#ad4b766094f28e940b0b7971d6dadc277", null ]
 ];

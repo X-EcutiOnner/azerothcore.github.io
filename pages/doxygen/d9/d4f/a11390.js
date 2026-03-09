@@ -1,7 +1,6 @@
 var a11390 =
 [
-    [ "attributeMask", "d9/d4f/a11390.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
-    [ "customChance", "d9/d4f/a11390.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
-    [ "PPMChance", "d9/d4f/a11390.html#adb76c11f0073a2738374c98c01fda009", null ],
-    [ "procEx", "d9/d4f/a11390.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
+    [ "TotemDestroyed", "d9/d4f/a11390.html#a3bcaa030b2c15d54617564cf0f5e4c36", null ],
+    [ "Read", "d9/d4f/a11390.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2", null ],
+    [ "Slot", "d9/d4f/a11390.html#a41eebde65aa696c2dec812da0aeab633", null ]
 ];

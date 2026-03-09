@@ -1,7 +1,6 @@
 var a18442 =
 [
-    [ "OnRemove", "dc/d40/a18442.html#ac1a58d605156c03d05eb99605287e762", null ],
-    [ "PrepareAuraScript", "dc/d40/a18442.html#a2db820022631647e942b5ec84e63717e", null ],
-    [ "Register", "dc/d40/a18442.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
-    [ "Validate", "dc/d40/a18442.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
+    [ "FilterTargetsInitial", "dc/d40/a18442.html#a92cc71f268793c616bed66d9a489a145", null ],
+    [ "PrepareSpellScript", "dc/d40/a18442.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
+    [ "Register", "dc/d40/a18442.html#a91b96940a9e72e632989b49f7e475dba", null ]
 ];

@@ -1,6 +1,10 @@
 var a18250 =
 [
-    [ "CheckProc", "dd/d8c/a18250.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "dd/d8c/a18250.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "dd/d8c/a18250.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "npc_cult_fanaticAI", "dd/d8c/a18250.html#a766e536288b84110f88a8bd282e97932", null ],
+    [ "JustEngagedWith", "dd/d8c/a18250.html#a709b75f4b1519bc7c6988985a22d076f", null ],
+    [ "Reset", "dd/d8c/a18250.html#a772830df1d16d0463c8c00f14c337db0", null ],
+    [ "SpellHit", "dd/d8c/a18250.html#a17c02a83b522c9717de3d89517104e42", null ],
+    [ "UpdateAI", "dd/d8c/a18250.html#ac79afdab3721d78d2b7e5da360083cea", null ],
+    [ "_instance", "dd/d8c/a18250.html#a7448fdf85cccfcb12509b0274205bff4", null ],
+    [ "events", "dd/d8c/a18250.html#a9576978141062fa1babbbc5ed42483c4", null ]
 ];

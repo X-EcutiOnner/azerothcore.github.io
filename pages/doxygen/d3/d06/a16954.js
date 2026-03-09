@@ -1,8 +1,7 @@
 var a16954 =
 [
-    [ "npc_fos_corrupted_soul_fragmentAI", "d3/d06/a16954.html#a61797329ecddde6da2e23e951fa92ca2", null ],
-    [ "Reset", "d3/d06/a16954.html#a5bb03371b24593ca2de995bf85857782", null ],
-    [ "UpdateAI", "d3/d06/a16954.html#ac6e651186c5edfd8e5279ddd38a15eb9", null ],
-    [ "pInstance", "d3/d06/a16954.html#a6ced23b3b4150b31020a636559d6eec6", null ],
-    [ "timer", "d3/d06/a16954.html#aa19c9928e3979bb01d89dc81b8feb4fc", null ]
+    [ "npc_toc_mageAI", "d3/d06/a16954.html#a188831088c892f68cef7498468b24899", null ],
+    [ "myCanCast", "d3/d06/a16954.html#aaf7fd7b143a4eb410465c7cb34c32d2f", null ],
+    [ "UpdateAI", "d3/d06/a16954.html#a0f4393341a6c565aef2c0b79a39c0699", null ],
+    [ "events", "d3/d06/a16954.html#ab1910ce98f3d1b14e45acba22782d536", null ]
 ];

@@ -1,9 +1,8 @@
 var a10082 =
 [
-    [ "PathMovementBase", "d2/d7a/a10082.html#a6b76e1527ed69ff631d7a72c309f264a", null ],
-    [ "PathMovementBase", "d2/d7a/a10082.html#a953fcda0cf7764f659fc5a4a19408550", null ],
-    [ "~PathMovementBase", "d2/d7a/a10082.html#a33b2b53993fe897712a196bc4ad86bd1", null ],
-    [ "GetCurrentNode", "d2/d7a/a10082.html#a7ceb52928f2198392980c3926516fd82", null ],
-    [ "i_currentNode", "d2/d7a/a10082.html#a5420aef90d3529881ef41362ebb29934", null ],
-    [ "i_path", "d2/d7a/a10082.html#a3dbc5e41e0c6245f369afc7a24081c83", null ]
+    [ "PositionFullTerrainStatus", "d2/d7a/a10082.html#ae0349ed89530b35af91b7b1862acaffe", null ],
+    [ "areaId", "d2/d7a/a10082.html#ac04966fa31b30f341a937906223463d4", null ],
+    [ "floorZ", "d2/d7a/a10082.html#abbd186ca681e532d567b5a221a62c02b", null ],
+    [ "liquidInfo", "d2/d7a/a10082.html#ac96230ad8521342ec97cf4f94013d0b4", null ],
+    [ "outdoors", "d2/d7a/a10082.html#ae531eb0a4abc029f82d699c98d6aa565", null ]
 ];

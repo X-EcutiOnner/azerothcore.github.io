@@ -1,8 +1,26 @@
 var a20622 =
 [
-    [ "npc_ulduar_mimiron_rocketAI", "df/d8e/a20622.html#ad758070aaeadc4d7b2b7ff4108b76c89", null ],
-    [ "InitializeAI", "df/d8e/a20622.html#aba3bf48434dca79f56f4b9aac707d48c", null ],
-    [ "Reset", "df/d8e/a20622.html#a60fbcbae9205bfd1c63b5bef7924b3ee", null ],
-    [ "SetData", "df/d8e/a20622.html#a8e547ba872c9bc2ec95ae2f60b011fce", null ],
-    [ "UpdateAI", "df/d8e/a20622.html#a28106e303d5e7c1bce9ceaa571129dca", null ]
+    [ "boss_mimiron", "df/d8e/a20622.html#a780bfc5cae4bd1c45671071e4d5f9521", null ],
+    [ "AttackStart", "df/d8e/a20622.html#aee739c9b16ae36af6104b54bde9cf7f7", null ],
+    [ "CloseDoorAndButton", "df/d8e/a20622.html#ab5aa46f62dcb16febafb8bb081b1ec38", null ],
+    [ "EnterEvadeMode", "df/d8e/a20622.html#a9f39f9afa3f561115c4f7e630364f566", null ],
+    [ "GetData", "df/d8e/a20622.html#ab3aa6e8702c74ee27fa776c0a9bef77d", null ],
+    [ "JustEngagedWith", "df/d8e/a20622.html#ab9ce3920c2a06deb31bcf25f1b2947a8", null ],
+    [ "JustReachedHome", "df/d8e/a20622.html#a9e84d80c2e194c6d51b9d67d0c72db19", null ],
+    [ "MoveInLineOfSight", "df/d8e/a20622.html#a0b1497cf1fc3cca2db670b74eb4745ee", null ],
+    [ "Reset", "df/d8e/a20622.html#aec9cce9e0fcab78cfcf37e605cc6c08a", null ],
+    [ "ResetGameObjects", "df/d8e/a20622.html#ac3a10be85349fc62ef14ecd937159e61", null ],
+    [ "SetData", "df/d8e/a20622.html#aa9578fe08ab058a64e67935d262224ac", null ],
+    [ "SpellHit", "df/d8e/a20622.html#af4e88527fb72bcbc1dc0a57b6007a461", null ],
+    [ "UpdateAI", "df/d8e/a20622.html#adea87e321b4c401109ab4c37e314aca2", null ],
+    [ "allowedFlameSpreadTime", "df/d8e/a20622.html#ad5e66bc6e8226e2bc238e03e615477a7", null ],
+    [ "bAchievBombBot", "df/d8e/a20622.html#ab37a096be0b05a190f0c06d08f4c587f", null ],
+    [ "bAchievProximityMine", "df/d8e/a20622.html#ad578e63b7e73bb808a6eff0f2ea04f72", null ],
+    [ "bAchievRocketStrike", "df/d8e/a20622.html#a815f7874653ef671ead7d3bb7afdc01c", null ],
+    [ "berserk", "df/d8e/a20622.html#af74157021d0711cb8d27f7437a272afc", null ],
+    [ "bIsEvading", "df/d8e/a20622.html#a40085505e82615d06f8182b400a35304", null ],
+    [ "changeAllowedFlameSpreadTime", "df/d8e/a20622.html#ac8369348d301e7b138bdc0c21b0f01f3", null ],
+    [ "hardmode", "df/d8e/a20622.html#aac452bf805a6a882b9dfb7465b1d8e96", null ],
+    [ "minutesTalkNum", "df/d8e/a20622.html#a034688591a493fa6701ffab962cad9c7", null ],
+    [ "outofCombatTimer", "df/d8e/a20622.html#ae6888654d187f2ca62eaf748f27306cf", null ]
 ];

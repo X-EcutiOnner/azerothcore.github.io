@@ -1,10 +1,9 @@
 var a23010 =
 [
-    [ "boss_gathios_the_shatterer", "dc/dc6/a23010.html#a34708f52c610e567c5acf62962e90d4e", null ],
-    [ "JustEngagedWith", "dc/dc6/a23010.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
-    [ "SelectCouncilMember", "dc/dc6/a23010.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
-    [ "UpdateAI", "dc/dc6/a23010.html#a1541f1efd3978a4c91b80e411aec6442", null ],
-    [ "_toggleAura", "dc/dc6/a23010.html#aa983e2d9018a9e53ee29840781f47c33", null ],
-    [ "_toggleBlessing", "dc/dc6/a23010.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
-    [ "_toggleSeal", "dc/dc6/a23010.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
+    [ "boss_najentus", "dc/dc6/a23010.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "dc/dc6/a23010.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "dc/dc6/a23010.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "dc/dc6/a23010.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "dc/dc6/a23010.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
+    [ "_canTalk", "dc/dc6/a23010.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
 ];

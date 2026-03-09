@@ -1,8 +1,13 @@
 var a21642 =
 [
-    [ "npc_azure_captainAI", "d5/d2b/a21642.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
-    [ "Reset", "d5/d2b/a21642.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
-    [ "UpdateAI", "d5/d2b/a21642.html#ae50ac21138e12be43caa93e37062051e", null ],
-    [ "uiMortalStrikeTimer", "d5/d2b/a21642.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
-    [ "uiWhirlwindTimer", "d5/d2b/a21642.html#a2e3439976a6e84a60be765cb0b929798", null ]
+    [ "npc_preparations_for_war_vehicle", "d5/d2b/a21642.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
+    [ "MovementInform", "d5/d2b/a21642.html#a5380670d521c7805a045aeac26c7c686", null ],
+    [ "PassengerBoarded", "d5/d2b/a21642.html#a84b4af01c9854cbae3fca5a59aa83763", null ],
+    [ "SpellHit", "d5/d2b/a21642.html#acf861b4dae849862241f6a6a8abdcdd8", null ],
+    [ "UpdateAI", "d5/d2b/a21642.html#ae40a23070d96ecf122e9de5571a845ef", null ],
+    [ "passenger_x", "d5/d2b/a21642.html#ac2eb8ea5fa8f5c5206ae799e4b74b213", null ],
+    [ "passenger_y", "d5/d2b/a21642.html#afd99c49b3c3b996c92def21229f1ec87", null ],
+    [ "passenger_z", "d5/d2b/a21642.html#a18d051868134d8c62f64923905bf19db", null ],
+    [ "searchForShipTimer", "d5/d2b/a21642.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
+    [ "transportEntry", "d5/d2b/a21642.html#aa0083566387cd42750aaa56b1fa23fed", null ]
 ];

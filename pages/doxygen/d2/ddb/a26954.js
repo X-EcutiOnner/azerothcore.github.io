@@ -1,7 +1,6 @@
 var a26954 =
 [
-    [ "HandleEffectProc", "d2/ddb/a26954.html#a7f2ddbf54a4932277ad91eb0036915ab", null ],
-    [ "PrepareAuraScript", "d2/ddb/a26954.html#a47d844a9700cd8add793e3f3088d1b82", null ],
-    [ "Register", "d2/ddb/a26954.html#ad40dfc164ab98fc9734e1ed15ea14c17", null ],
-    [ "Validate", "d2/ddb/a26954.html#a97f5239399e7135b02000722eaf837ad", null ]
+    [ "HandleProc", "d2/ddb/a26954.html#ac81521531646341356525465bac2a816", null ],
+    [ "PrepareAuraScript", "d2/ddb/a26954.html#aa57cede2bfc6354c8b95410d8fb50575", null ],
+    [ "Register", "d2/ddb/a26954.html#a8daf8414ff4705741dfed0e818607741", null ]
 ];

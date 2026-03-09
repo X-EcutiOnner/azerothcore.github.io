@@ -1,6 +1,6 @@
 var a00779 =
 [
-    [ "TSpellSummary", "dd/daf/a06416.html", "dd/daf/a06416" ],
-    [ "SCR_CLEAR", "d3/d95/a00779.html#ab71e08e3f39b7ee7bda0306cd39b96a0", null ],
-    [ "SpellSummary", "d3/d95/a00779.html#ae56af266ccaa1794f1f014938b07e9cc", null ]
+    [ "ConcatenateDungeons", "d3/d95/a00779.html#aeaebe53b818ad905c96d2cc56c18b7ca", null ],
+    [ "GetRolesString", "d3/d95/a00779.html#adc336ffd636b51b0052448739671d46b", null ],
+    [ "GetStateString", "d3/d95/a00779.html#a9d097d73fe8f096de2098ac74022b643", null ]
 ];

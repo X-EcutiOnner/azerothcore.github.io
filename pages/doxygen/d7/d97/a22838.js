@@ -1,8 +1,9 @@
 var a22838 =
 [
-    [ "boss_darkweaver_syth", "d7/d97/a22838.html#a4f719165e07206c5a378412b3f82ff86", null ],
-    [ "JustDied", "d7/d97/a22838.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
-    [ "JustEngagedWith", "d7/d97/a22838.html#aaf6dab75e66734e930c5732749f3d69a", null ],
-    [ "KilledUnit", "d7/d97/a22838.html#a1904c2596dd455f84625974beec4a2c8", null ],
-    [ "Reset", "d7/d97/a22838.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
+    [ "HandleAfterCast", "d7/d97/a22838.html#a32928b579ef42f377e911ef27197ed61", null ],
+    [ "HandleDummy", "d7/d97/a22838.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
+    [ "Load", "d7/d97/a22838.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
+    [ "PrepareSpellScript", "d7/d97/a22838.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
+    [ "Register", "d7/d97/a22838.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
+    [ "_targetCount", "d7/d97/a22838.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
 ];

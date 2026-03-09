@@ -1,12 +1,8 @@
 var a21522 =
 [
-    [ "boss_lavanthorAI", "df/d27/a21522.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
-    [ "EnterEvadeMode", "df/d27/a21522.html#a0334d92f1ddf30235efe298df622535b", null ],
-    [ "JustDied", "df/d27/a21522.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
-    [ "JustEngagedWith", "df/d27/a21522.html#a9820ec47af72af19f00b172ee138f908", null ],
-    [ "MoveInLineOfSight", "df/d27/a21522.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
-    [ "Reset", "df/d27/a21522.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
-    [ "UpdateAI", "df/d27/a21522.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
-    [ "events", "df/d27/a21522.html#a273adc56adefe9810013bc80950f2624", null ],
-    [ "pInstance", "df/d27/a21522.html#ad6059577c5e131523f39316c2291b421", null ]
+    [ "HandleEffectRemove", "df/d27/a21522.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "df/d27/a21522.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "df/d27/a21522.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "df/d27/a21522.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "df/d27/a21522.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

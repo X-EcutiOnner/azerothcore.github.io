@@ -1,6 +1,12 @@
 var a13090 =
 [
-    [ "instance_magisters_terrace_InstanceMapScript", "db/d2c/a13094.html", "db/d2c/a13094" ],
-    [ "instance_magisters_terrace", "dd/dde/a13090.html#a81e23ce04c4d765193d2d2763ef78987", null ],
-    [ "GetInstanceScript", "dd/dde/a13090.html#a465cbaebb13535cdb7f6a2108e026fc5", null ]
+    [ "BoardCell", "dd/dde/a13090.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
+    [ "Reset", "dd/dde/a13090.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
+    [ "SetData", "dd/dde/a13090.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
+    [ "SetPiece", "dd/dde/a13090.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
+    [ "col", "dd/dde/a13090.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
+    [ "pieceEntry", "dd/dde/a13090.html#a7697506ccc800d38968e457c44bfa019", null ],
+    [ "pieceGUID", "dd/dde/a13090.html#a74f494e406c56d4c61d79539acea684c", null ],
+    [ "row", "dd/dde/a13090.html#a195c187e134be546f224cbb0eef8c844", null ],
+    [ "triggerGUID", "dd/dde/a13090.html#a9cafdea50739b014a97e60611adcd3f1", null ]
 ];

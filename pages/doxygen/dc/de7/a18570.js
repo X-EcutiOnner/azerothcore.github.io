@@ -1,6 +1,6 @@
 var a18570 =
 [
-    [ "npc_spirit_wardenAI", "df/dec/a18574.html", "df/dec/a18574" ],
-    [ "npc_spirit_warden", "dc/de7/a18570.html#ab585d20eadb7876752d731702db44293", null ],
-    [ "GetAI", "dc/de7/a18570.html#ab33ab494d7fee64eed7c75464ce60489", null ]
+    [ "CheckProc", "dc/de7/a18570.html#ad701d353f03eb5a1ccca28a6530555db", null ],
+    [ "PrepareAuraScript", "dc/de7/a18570.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
+    [ "Register", "dc/de7/a18570.html#a4f787e29064c15f4dad9047ff618982a", null ]
 ];

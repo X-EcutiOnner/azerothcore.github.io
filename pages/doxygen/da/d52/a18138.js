@@ -1,5 +1,8 @@
 var a18138 =
 [
-    [ "RotfaceHeightCheck", "da/d52/a18138.html#aabdeaee465989c339fc7a3f186e20498", null ],
-    [ "operator()", "da/d52/a18138.html#a585743e0e76c64a5caa37acab46d04d5", null ]
+    [ "HandlePeriodic", "da/d52/a18138.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "da/d52/a18138.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "da/d52/a18138.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "da/d52/a18138.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "da/d52/a18138.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

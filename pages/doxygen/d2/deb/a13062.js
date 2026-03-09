@@ -1,5 +1,6 @@
 var a13062 =
 [
-    [ "boss_yazzai", "d2/deb/a13062.html#a6c92ffeff3e56f98cb1bd08f1835fe10", null ],
-    [ "JustEngagedWith", "d2/deb/a13062.html#ab504de0e51a3715485eb65e006352a6f", null ]
+    [ "instance_deadmines_InstanceMapScript", "da/dde/a13066.html", "da/dde/a13066" ],
+    [ "instance_deadmines", "d2/deb/a13062.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
+    [ "GetInstanceScript", "d2/deb/a13062.html#ac5cb65972d52324cedf662cc44dca626", null ]
 ];

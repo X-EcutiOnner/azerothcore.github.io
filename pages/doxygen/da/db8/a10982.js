@@ -1,12 +1,9 @@
 var a10982 =
 [
-    [ "Complain", "da/db8/a10982.html#aa1cf8c3159d1334186b28c0abf0b5bec", null ],
-    [ "Read", "da/db8/a10982.html#a5a5cc78c807ce5d1e455bedd283c0f4d", null ],
-    [ "Description", "da/db8/a10982.html#a557676064707e2597a10e9b2efc9d09a", null ],
-    [ "SpammerGuid", "da/db8/a10982.html#a4a8b664b598624046b26953051a28718", null ],
-    [ "SpamType", "da/db8/a10982.html#aece15ac467b310fc170844119978aa2a", null ],
-    [ "Unk1", "da/db8/a10982.html#a7cc02360329a0b67c67fb5798d1e658d", null ],
-    [ "Unk2", "da/db8/a10982.html#a2d935ee2ed26a672d0f5795b79d887cb", null ],
-    [ "Unk3", "da/db8/a10982.html#a63aae3eaab2d6b72e08e4436ebe3bc0b", null ],
-    [ "Unk4", "da/db8/a10982.html#ad9570c82409ce59ad94f3e8233fd251c", null ]
+    [ "GuildBankUpdateTab", "da/db8/a10982.html#a2950da8bfc40df57a3f5a66eee47a7ef", null ],
+    [ "Read", "da/db8/a10982.html#ac261ff0102489efb4d69bd866ffc9283", null ],
+    [ "Banker", "da/db8/a10982.html#a7ab950cee095221f9114224a624d46db", null ],
+    [ "BankTab", "da/db8/a10982.html#a66284a4d9cb40b025ef265d443e6e62f", null ],
+    [ "Icon", "da/db8/a10982.html#a75a219a9e2ab677a41920f39a1613a1b", null ],
+    [ "Name", "da/db8/a10982.html#a44261fbc379b3137548922faf4b5cbda", null ]
 ];

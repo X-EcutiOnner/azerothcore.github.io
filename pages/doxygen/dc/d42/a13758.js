@@ -1,6 +1,5 @@
 var a13758 =
 [
-    [ "npc_augustus_the_touched", "dc/d42/a13758.html#abc84c884345f44cf780410569cdee10c", null ],
-    [ "OnGossipHello", "dc/d42/a13758.html#a81e0d4f2aaa685cd5231ea430c86e7b4", null ],
-    [ "OnGossipSelect", "dc/d42/a13758.html#a992da9b22693c1fac1148b4ba545b819", null ]
+    [ "at_sunwell_madrigosa", "dc/d42/a13758.html#a489ddb537ef272f22bd69ced194762e7", null ],
+    [ "_OnTrigger", "dc/d42/a13758.html#a137c231ea66d3781080a5617a2ffcc9e", null ]
 ];

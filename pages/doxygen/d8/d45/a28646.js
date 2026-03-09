@@ -1,5 +1,5 @@
 var a28646 =
 [
-    [ "Duration", "d8/d45/a28646.html#a20417b0f394c08c779fd3851c2cde87d", null ],
-    [ "ID", "d8/d45/a28646.html#a04f9304093a15b4b7f6596993f2e86d9", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "d8/d45/a28646.html#afaa929276f8b131005c9b94daa9a09f9", null ],
+    [ "OnPlayerCompleteQuest", "d8/d45/a28646.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
 ];

@@ -1,9 +1,8 @@
 var a27346 =
 [
-    [ "emerald_dragonAI", "da/dc9/a27346.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
-    [ "ExecuteEvent", "da/dc9/a27346.html#a6e60f146c7b86a119f269bf755831ac6", null ],
-    [ "JustSummoned", "da/dc9/a27346.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
-    [ "KilledUnit", "da/dc9/a27346.html#a69b24bf865ecd38822d5602314cddf11", null ],
-    [ "Reset", "da/dc9/a27346.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
-    [ "UpdateAI", "da/dc9/a27346.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
+    [ "HandleRootRemove", "da/dc9/a27346.html#a9678ce2254825b67eb7a16312e960ba9", null ],
+    [ "HandleSnareRemove", "da/dc9/a27346.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
+    [ "PrepareSpellScript", "da/dc9/a27346.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
+    [ "Register", "da/dc9/a27346.html#a119675dccea898932ca090577022b6ba", null ],
+    [ "Validate", "da/dc9/a27346.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
 ];

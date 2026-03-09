@@ -1,10 +1,11 @@
 var a10290 =
 [
-    [ "AllItemScript", "d3/d0d/a10290.html#a7c0e310c69966e0eab6f2951dedcda63", null ],
-    [ "CanItemExpire", "d3/d0d/a10290.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
-    [ "CanItemQuestAccept", "d3/d0d/a10290.html#a545e2bc7436a064146025954eaf5ae92", null ],
-    [ "CanItemRemove", "d3/d0d/a10290.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
-    [ "CanItemUse", "d3/d0d/a10290.html#a89d237f426840658e4423fb9cc7428db", null ],
-    [ "OnItemGossipSelect", "d3/d0d/a10290.html#a7157f72c6d09988b60480d1671892cde", null ],
-    [ "OnItemGossipSelectCode", "d3/d0d/a10290.html#a9e13f025e5cf10bf51c87a4dc1e7968d", null ]
+    [ "EffectMovementGenerator", "d3/d0d/a10290.html#a5b00ae06964d5c572bf2c6d14c82147e", null ],
+    [ "Finalize", "d3/d0d/a10290.html#a50cad77c4261bea67428b9dcd5a37ea1", null ],
+    [ "GetMovementGeneratorType", "d3/d0d/a10290.html#a42c56bc35cf3d752e24ccc36adcd2e82", null ],
+    [ "Initialize", "d3/d0d/a10290.html#a376f554231bc5dc4c95790e6c85dcb01", null ],
+    [ "Reset", "d3/d0d/a10290.html#a9627573a7206e12ff469e8e6e076862b", null ],
+    [ "Update", "d3/d0d/a10290.html#adff45ee4ce3cc72b6cc88e626c3bd0a5", null ],
+    [ "i_spline", "d3/d0d/a10290.html#a35b92e440aa2af623f62d4fe8ecf216e", null ],
+    [ "m_Id", "d3/d0d/a10290.html#a56f483336fe5c86c6d186ec4d7772d4b", null ]
 ];

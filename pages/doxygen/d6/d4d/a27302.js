@@ -1,8 +1,9 @@
 var a27302 =
 [
-    [ "CharacterActionIpLogger", "d6/d4d/a27302.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "d6/d4d/a27302.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnPlayerCreate", "d6/d4d/a27302.html#a48844efac9d9af9c6415ad49d2473688", null ],
-    [ "OnPlayerLogin", "d6/d4d/a27302.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
-    [ "OnPlayerLogout", "d6/d4d/a27302.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
+    [ "HandleAfterHit", "d6/d4d/a27302.html#a05341e7a67f50c6ced4bf4bd3892f39a", null ],
+    [ "HandleBeforeHit", "d6/d4d/a27302.html#a7ca0fe15f6679c73aa77818ef3d94eed", null ],
+    [ "Load", "d6/d4d/a27302.html#a6b2a1f378c0f5a2762ce1d34740d310e", null ],
+    [ "PrepareSpellScript", "d6/d4d/a27302.html#a496c27472579be3b8989868765ec19ef", null ],
+    [ "Register", "d6/d4d/a27302.html#a133e338413e960c442446a2a4a13b85b", null ],
+    [ "_stackAmount", "d6/d4d/a27302.html#a3aa304a5386f6c0ee4aa428bf4ed12bb", null ]
 ];

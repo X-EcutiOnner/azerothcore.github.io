@@ -1,6 +1,7 @@
 var a13898 =
 [
-    [ "npc_highborne_lamenterAI", "d4/d99/a13902.html", "d4/d99/a13902" ],
-    [ "npc_highborne_lamenter", "dc/d07/a13898.html#a40316cf73a688e34e95dd41feef8612a", null ],
-    [ "GetAI", "dc/d07/a13898.html#aad8ccb43b325b797f60a16e338458a1e", null ]
+    [ "HandleSchoolDamage", "dc/d07/a13898.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
+    [ "PrepareSpellScript", "dc/d07/a13898.html#a8063f3d669e07dc0768607feb9a2f763", null ],
+    [ "Register", "dc/d07/a13898.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
+    [ "Validate", "dc/d07/a13898.html#af90ae09274b0082bd8bd674ca43596f6", null ]
 ];

@@ -1,6 +1,7 @@
 var a16374 =
 [
-    [ "npc_living_infernoAI", "d0/d21/a16374.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
-    [ "IsSummonedBy", "d0/d21/a16374.html#a4b6986a392aee0741ba47651e809c76c", null ],
-    [ "JustDied", "d0/d21/a16374.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
+    [ "HandleScript", "d0/d21/a16374.html#ae9939f2795b8ba428277c7d658af715c", null ],
+    [ "PrepareSpellScript", "d0/d21/a16374.html#aabe244008103ff317e3fc1e26b04115a", null ],
+    [ "Register", "d0/d21/a16374.html#a4f492bdd96ef190354f37c95217bb696", null ],
+    [ "Validate", "d0/d21/a16374.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
 ];

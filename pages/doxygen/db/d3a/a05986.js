@@ -1,6 +1,10 @@
 var a05986 =
 [
-    [ "changed", "db/d3a/a05986.html#af0cf916cd514f64f53f98c108ff63591", null ],
-    [ "counter", "db/d3a/a05986.html#a5ba0b1002e0bfd61ad17b2130a207cb1", null ],
-    [ "date", "db/d3a/a05986.html#a9a6769cf4ca7ba55752adc8cdeba71f5", null ]
+    [ "MySQLConnectionInfo", "db/d3a/a05986.html#ae60c54053d71eb9325df10701b1f42d3", null ],
+    [ "database", "db/d3a/a05986.html#a7e65a418ad668772e4ce1b298d92f10a", null ],
+    [ "host", "db/d3a/a05986.html#a2659372561aae5feb8da121984354ef3", null ],
+    [ "password", "db/d3a/a05986.html#af5a51bd38ce1d58f65444d69b0283966", null ],
+    [ "port_or_socket", "db/d3a/a05986.html#a37b89660afb3ee085e817836e9d1d01f", null ],
+    [ "ssl", "db/d3a/a05986.html#a90e5a934b4ec46e5783248a1a80a4830", null ],
+    [ "user", "db/d3a/a05986.html#a6bf4166ebb99ea30a3894e3d8833bde6", null ]
 ];

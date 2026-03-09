@@ -1,10 +1,12 @@
 var a11442 =
 [
-    [ "EffectHook", "d1/dbe/a11442.html#a4a197e061d918dfba2bc486f3393b00d", null ],
-    [ "~EffectHook", "d1/dbe/a11442.html#aa234f63b530764d12064acbe3f5c9299", null ],
-    [ "CheckEffect", "d1/dbe/a11442.html#ae8823c5d649d182f572818bf3db72902", null ],
-    [ "EffIndexToString", "d1/dbe/a11442.html#ab818ed274cfd66ecc565b8535b751517", null ],
-    [ "GetAffectedEffectsMask", "d1/dbe/a11442.html#a31faa86590e22f5ab3ca518f4df02840", null ],
-    [ "IsEffectAffected", "d1/dbe/a11442.html#a697041ffa562bb6fff792beb159c7af2", null ],
-    [ "effIndex", "d1/dbe/a11442.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
+    [ "Build", "d1/dbe/a11442.html#aa5ed2806342a36723f1317105ebc13fa", null ],
+    [ "FormatVersion", "d1/dbe/a11442.html#abf0c90aa56c9f74e4139b4a1ead3115e", null ],
+    [ "Locale", "d1/dbe/a11442.html#acdcbe4c10ad6143b756638349c185ae5", null ],
+    [ "OptionalDataSize", "d1/dbe/a11442.html#a88c79f6e69197e23ce191bcef187c0fe", null ],
+    [ "SessionKey", "d1/dbe/a11442.html#aff4e4f46725d72923bac3e197ae7d2e3", null ],
+    [ "Signature", "d1/dbe/a11442.html#a34b88d6d83daeee7827176993c152de4", null ],
+    [ "SnifferId", "d1/dbe/a11442.html#a95d3f116ef30a096970ee4f3dd10e2ed", null ],
+    [ "SniffStartTicks", "d1/dbe/a11442.html#a1884076ea4fe5af08964471d0058fd4d", null ],
+    [ "SniffStartUnixtime", "d1/dbe/a11442.html#a8923983e21b7a7f1dd3ee4f21b7df592", null ]
 ];

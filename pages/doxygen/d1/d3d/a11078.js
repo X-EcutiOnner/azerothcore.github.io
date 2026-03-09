@@ -1,7 +1,6 @@
 var a11078 =
 [
-    [ "PetDismissSound", "d1/d3d/a11078.html#a035aeb40e5de8b5d3d5d9703ad0f19c9", null ],
-    [ "Write", "d1/d3d/a11078.html#a06f3c97d815a3e8de55bcd2b3eecdb64", null ],
-    [ "ModelId", "d1/d3d/a11078.html#aba65e6547adde55978ce7b2abb779d51", null ],
-    [ "ModelPosition", "d1/d3d/a11078.html#a06e6bff9d70996ba890c31ea74363dad", null ]
+    [ "ResetFailedNotify", "d1/d3d/a11078.html#a82e12a0f207590b6176253cf36a22d2f", null ],
+    [ "Write", "d1/d3d/a11078.html#af03055514ef0e1e97f24c66d2cd94185", null ],
+    [ "MapId", "d1/d3d/a11078.html#a17f065fc6d5438d74f38bde67a841be7", null ]
 ];

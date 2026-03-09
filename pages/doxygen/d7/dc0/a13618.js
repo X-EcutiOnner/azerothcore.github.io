@@ -1,9 +1,7 @@
 var a13618 =
 [
-    [ "boss_muru", "d7/dc0/a13618.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
-    [ "DamageTaken", "d7/dc0/a13618.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
-    [ "JustEngagedWith", "d7/dc0/a13618.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
-    [ "JustSummoned", "d7/dc0/a13618.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
-    [ "MoveInLineOfSight", "d7/dc0/a13618.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
-    [ "Reset", "d7/dc0/a13618.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
+    [ "HandleEffectApply", "d7/dc0/a13618.html#a710536e0a3bacf173d037041e755bd82", null ],
+    [ "HandleEffectRemove", "d7/dc0/a13618.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
+    [ "PrepareAuraScript", "d7/dc0/a13618.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
+    [ "Register", "d7/dc0/a13618.html#a9092818bdb15a12163aae633049cb7f6", null ]
 ];

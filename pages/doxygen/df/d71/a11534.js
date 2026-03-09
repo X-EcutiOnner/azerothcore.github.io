@@ -1,6 +1,5 @@
 var a11534 =
 [
-    [ "EffectAbsorbHandler", "df/d71/a11534.html#a29bb773b8271acf651b08f33ce358720", null ],
-    [ "Call", "df/d71/a11534.html#a56bfb0fd0d860678920445d1182c09ef", null ],
-    [ "pEffectHandlerScript", "df/d71/a11534.html#a519489b8d951173a806e86cfe075faf1", null ]
+    [ "SocketAdded", "df/d71/a11534.html#a01090d6713f49dc026f77f8481b492cb", null ],
+    [ "SocketRemoved", "df/d71/a11534.html#a4a978f9304e4aeabfb9ce1998b8a27cc", null ]
 ];

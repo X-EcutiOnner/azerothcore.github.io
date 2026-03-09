@@ -1,6 +1,6 @@
 var a20878 =
 [
-    [ "boss_xt002AI", "de/de3/a20882.html", "de/de3/a20882" ],
-    [ "boss_xt002", "dc/d3e/a20878.html#aebd7e513b3bef6a25ad0f9766d18174e", null ],
-    [ "GetAI", "dc/d3e/a20878.html#a146e4a10da7d81213e7f63d6e86c79f2", null ]
+    [ "x", "dc/d3e/a20878.html#ae4223168378b602a0a96dbb424a22be4", null ],
+    [ "y", "dc/d3e/a20878.html#a30f361d8104e4de44541d75945105963", null ],
+    [ "z", "dc/d3e/a20878.html#ae68a79519c35302b89976ac29bb77e26", null ]
 ];

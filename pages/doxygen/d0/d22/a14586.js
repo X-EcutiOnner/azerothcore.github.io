@@ -1,6 +1,13 @@
 var a14586 =
 [
-    [ "npc_soh_fire_trigger", "d0/d22/a14586.html#a8bddde264f4848c9a8ed83dcad190223", null ],
-    [ "Reset", "d0/d22/a14586.html#acbec442907a8b40ae04496c53f210aa2", null ],
-    [ "SpellHit", "d0/d22/a14586.html#a6b96cc998d38c9fbf0ce93e0529c0f4c", null ]
+    [ "npc_ohganAI", "d0/d22/a14586.html#a43f7fa66ff39bca177d30fc1d0d78080", null ],
+    [ "JustDied", "d0/d22/a14586.html#a89e506868e3191362545e34d21528b8f", null ],
+    [ "JustEngagedWith", "d0/d22/a14586.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
+    [ "KilledUnit", "d0/d22/a14586.html#a4e202eef928e54bd52160705bba5cc35", null ],
+    [ "Reset", "d0/d22/a14586.html#ac3e1bc9dc819138741eb3b4448051547", null ],
+    [ "SetGUID", "d0/d22/a14586.html#a575531a144c46ae3084e56e452125f16", null ],
+    [ "UpdateAI", "d0/d22/a14586.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
+    [ "_scheduler", "d0/d22/a14586.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
+    [ "instance", "d0/d22/a14586.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],
+    [ "reviveGUID", "d0/d22/a14586.html#afc066ae0c6d370f6632408b08de3c3bb", null ]
 ];

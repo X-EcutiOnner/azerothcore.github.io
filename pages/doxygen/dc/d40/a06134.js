@@ -1,8 +1,10 @@
 var a06134 =
 [
-    [ "ArcherAI", "dc/d40/a06134.html#a113c138958054716182c15ee9f2b47da", null ],
-    [ "AttackStart", "dc/d40/a06134.html#adc79f7ead63ecaf8fed9ea4f81d27f76", null ],
-    [ "Permissible", "dc/d40/a06134.html#ac5b3d144b0d71a5e527d53f33c3d31cc", null ],
-    [ "UpdateAI", "dc/d40/a06134.html#aa6e072e239549d337de61670a05eb6f8", null ],
-    [ "m_minRange", "dc/d40/a06134.html#ab449efcd81769888ff8d8bc5f348cbe7", null ]
+    [ "TransactionCallback", "dc/d40/a06134.html#a89e9ebf06ffbad9dcf77a78f9f989450", null ],
+    [ "TransactionCallback", "dc/d40/a06134.html#adeff62976c11d9d90169e4650640118b", null ],
+    [ "AfterComplete", "dc/d40/a06134.html#af2ec892bbca8d2cc694b36fb931fc1e8", null ],
+    [ "InvokeIfReady", "dc/d40/a06134.html#a7937d93dbd22617a2fd3893a6fe8c23c", null ],
+    [ "operator=", "dc/d40/a06134.html#ab73d1741c21ea9fd86f65a647768e972", null ],
+    [ "m_callback", "dc/d40/a06134.html#abb0dbcebb22ea716025ed6aca99f6afb", null ],
+    [ "m_future", "dc/d40/a06134.html#a381e889074bc5ca48574d37fe6eea00f", null ]
 ];

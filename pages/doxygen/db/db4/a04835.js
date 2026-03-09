@@ -1,29 +1,4 @@
 var a04835 =
 [
-    [ "SpellProcPPMTest", "db/d77/a29680.html", "db/d77/a29680" ],
-    [ "TEST_F", "db/db4/a04835.html#ad906fa2cfb70f1126dd79d22504bfb77", null ],
-    [ "TEST_F", "db/db4/a04835.html#a80e3b407d4b13f3b1cb4948d5cdb4209", null ],
-    [ "TEST_F", "db/db4/a04835.html#ae184a37db844e23c6120a45da76a3d2b", null ],
-    [ "TEST_F", "db/db4/a04835.html#a826e8fe1182bffba3a197cda0adb8a26", null ],
-    [ "TEST_F", "db/db4/a04835.html#a1eecf2088dfa4e882fcd2e288a16c926", null ],
-    [ "TEST_F", "db/db4/a04835.html#a371f6254f8a9812a581ca62370e79087", null ],
-    [ "TEST_F", "db/db4/a04835.html#ae3a783720b4fd8de30af2daa8a46968d", null ],
-    [ "TEST_F", "db/db4/a04835.html#a408cefc1b2d32154333df6ee02554cfb", null ],
-    [ "TEST_F", "db/db4/a04835.html#aee2d794fc0d42fdf6fa96deefd0f7ef3", null ],
-    [ "TEST_F", "db/db4/a04835.html#ac17243ceceb68ae78be97f22188bdf48", null ],
-    [ "TEST_F", "db/db4/a04835.html#adf12a2820af1538b7fd5b997f86b9c36", null ],
-    [ "TEST_F", "db/db4/a04835.html#a7b4b316b40f2c8520f3fc928bdaf7db7", null ],
-    [ "TEST_F", "db/db4/a04835.html#adb660bd4a3e222dfc26ea9a15ff261ef", null ],
-    [ "TEST_F", "db/db4/a04835.html#ab8926bcff4bd558ffd6975cca56094af", null ],
-    [ "TEST_F", "db/db4/a04835.html#a8937afbe525924e8a161bb7de0f75363", null ],
-    [ "TEST_F", "db/db4/a04835.html#aa9d6bf7b0b381063c82d2eb7e7b32881", null ],
-    [ "TEST_F", "db/db4/a04835.html#a8d7e22c4c996419c0bdd6afe8ac51449", null ],
-    [ "TEST_F", "db/db4/a04835.html#ad0f75a757355e651e5657c020795869c", null ],
-    [ "TEST_F", "db/db4/a04835.html#a0692ae371dd7ec0e8127647ab490da56", null ],
-    [ "TEST_F", "db/db4/a04835.html#aa1421e922e607bf83d6348d8cfb3e61c", null ],
-    [ "TEST_F", "db/db4/a04835.html#a0ecc1d1a3fe097523b683612714be585", null ],
-    [ "TEST_F", "db/db4/a04835.html#ab62c7f868fef4a454b48e828cfc97bc1", null ],
-    [ "TEST_F", "db/db4/a04835.html#aa3f155d3e40e3d9a72b9aab37e02c2d5", null ],
-    [ "TEST_F", "db/db4/a04835.html#a89e1be04b18f0a1379f66db5f18f84cd", null ],
-    [ "TEST_F", "db/db4/a04835.html#a5a2221ed60add2ea6f41efa43ba1caf5", null ]
+    [ "DBCStorageIterator< T >", "dd/d27/a28742.html", "dd/d27/a28742" ]
 ];

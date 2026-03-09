@@ -1,7 +1,9 @@
 var a18186 =
 [
-    [ "HandleCast", "d1/db3/a18186.html#aaa3262bc782e342825d4caba2954e95d", null ],
-    [ "PrepareSpellScript", "d1/db3/a18186.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
-    [ "Register", "d1/db3/a18186.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
-    [ "Validate", "d1/db3/a18186.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
+    [ "CalculatePower", "d1/db3/a18186.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
+    [ "Load", "d1/db3/a18186.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
+    [ "PrepareSpellScript", "d1/db3/a18186.html#a49489a8e4e39735efa560f53236dfc2c", null ],
+    [ "PreventPowerGainOnHit", "d1/db3/a18186.html#a5eebe6f82a6d7306d6e232b755531939", null ],
+    [ "Register", "d1/db3/a18186.html#a67b59c096848adaad5566cbc2140da59", null ],
+    [ "Validate", "d1/db3/a18186.html#a355500a6f3bfed084030738041d0e3b9", null ]
 ];

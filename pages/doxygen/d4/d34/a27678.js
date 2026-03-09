@@ -1,7 +1,6 @@
 var a27678 =
 [
-    [ "npc_engineering_tele_trinket", "d4/d34/a27678.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
-    [ "CanLearn", "d4/d34/a27678.html#a8a35f1c09a9df609561e76f4ed578647", null ],
-    [ "OnGossipHello", "d4/d34/a27678.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
-    [ "OnGossipSelect", "d4/d34/a27678.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
+    [ "HandleBanish", "d4/d34/a27678.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
+    [ "PrepareSpellScript", "d4/d34/a27678.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
+    [ "Register", "d4/d34/a27678.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
 ];

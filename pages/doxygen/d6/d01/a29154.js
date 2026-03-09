@@ -1,5 +1,6 @@
 var a29154 =
 [
-    [ "go_arcane_prison", "d6/d01/a29154.html#ad73ac33d843027de0e516de8f90c45a0", null ],
-    [ "OnGossipHello", "d6/d01/a29154.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
+    [ "Id", "d6/d01/a29154.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
+    [ "SpellId", "d6/d01/a29154.html#ae8c119bacf706916f331d3f316fb1347", null ],
+    [ "TypeFlags", "d6/d01/a29154.html#aae92871758e9a738a888cacf0946f16b", null ]
 ];

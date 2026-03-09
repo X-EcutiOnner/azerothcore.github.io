@@ -1,7 +1,15 @@
 var a19786 =
 [
-    [ "creature", "d7/df9/a19786.html#a55a6ee677ab51120867f542e5a5745b0", null ],
-    [ "sound", "d7/df9/a19786.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
-    [ "text", "d7/df9/a19786.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
-    [ "timer", "d7/df9/a19786.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
+    [ "boss_anomalus", "d7/df9/a19786.html#aa4dd8fac7c360beb834382f624ed2246", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d7/df9/a19786.html#ada0735330bff29a8c04706c980e6bbfc", null ],
+    [ "GetData", "d7/df9/a19786.html#ad48aebb50cda7ee621f71803669f04c2", null ],
+    [ "JustDied", "d7/df9/a19786.html#a41e257481921a122dba30348559e05fb", null ],
+    [ "JustEngagedWith", "d7/df9/a19786.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
+    [ "JustSummoned", "d7/df9/a19786.html#a3c0413f30d96268cab724856334e61ee", null ],
+    [ "Reset", "d7/df9/a19786.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
+    [ "SetData", "d7/df9/a19786.html#aa79ec9829862b573cd0f38f965d737e8", null ],
+    [ "UpdateAI", "d7/df9/a19786.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
+    [ "_empowered", "d7/df9/a19786.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
+    [ "achievement", "d7/df9/a19786.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
+    [ "activeRifts", "d7/df9/a19786.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
 ];

@@ -1,6 +1,6 @@
 var a16430 =
 [
-    [ "npc_argent_soldierAI", "d9/df1/a16434.html", "d9/df1/a16434" ],
-    [ "npc_argent_soldier", "d1/dfb/a16430.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
-    [ "GetAI", "d1/dfb/a16430.html#adfeed3d533104b9617dfbb06925a3d44", null ]
+    [ "npc_anub_ar_crusher_necromancer", "d1/dfb/a16430.html#a469d30b357551c4ce77f040bea79e951", null ],
+    [ "DoEngagedWith", "d1/dfb/a16430.html#ab83cd9a16b191547f9307b80d8c697f6", null ],
+    [ "DoEvent", "d1/dfb/a16430.html#a67889b3a207ab26b7895e2f7996359b1", null ]
 ];

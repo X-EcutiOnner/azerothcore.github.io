@@ -1,7 +1,6 @@
 var a24202 =
 [
-    [ "HandleDummy", "d8/d4d/a24202.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "d8/d4d/a24202.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "d8/d4d/a24202.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "d8/d4d/a24202.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "npc_torloth_the_magnificentAI", "d3/d1d/a24206.html", "d3/d1d/a24206" ],
+    [ "npc_torloth_the_magnificent", "d8/d4d/a24202.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
+    [ "GetAI", "d8/d4d/a24202.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
 ];

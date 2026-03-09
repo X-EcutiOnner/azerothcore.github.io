@@ -1,20 +1,15 @@
 var a01136 =
 [
-    [ "WEATHER_SEASONS", "d1/d34/a04957.html#ga5ee30d2da0d958800dd3ad582c49d487", null ],
-    [ "WeatherState", "d1/d34/a04957.html#ga32b7b9e733438755c99c2abd6cb8c94d", [
-      [ "WEATHER_STATE_FINE", "d1/d34/a04957.html#gga32b7b9e733438755c99c2abd6cb8c94da5d4c47a117d36afee4195bd260951366", null ],
-      [ "WEATHER_STATE_FOG", "d1/d34/a04957.html#gga32b7b9e733438755c99c2abd6cb8c94daf088b1890d40b05c4022d90d931e8717", null ],
-      [ "WEATHER_STATE_LIGHT_RAIN", "d1/d34/a04957.html#gga32b7b9e733438755c99c2abd6cb8c94dafe59189ae98629ed11fbd343da10e97d", null ],
-      [ "WEATHER_STATE_MEDIUM_RAIN", "d1/d34/a04957.html#gga32b7b9e733438755c99c2abd6cb8c94da33ce6050f5c9a8dbbfc2556756f960c3", null ],
-      [ "WEATHER_STATE_HEAVY_RAIN", "d1/d34/a04957.html#gga32b7b9e733438755c99c2abd6cb8c94da13bf6f46f69defe7fbea2c659e6d3873", null ],
-      [ "WEATHER_STATE_LIGHT_SNOW", "d1/d34/a04957.html#gga32b7b9e733438755c99c2abd6cb8c94da8a760bcf8d764d8749a800905111ab05", null ],
-      [ "WEATHER_STATE_MEDIUM_SNOW", "d1/d34/a04957.html#gga32b7b9e733438755c99c2abd6cb8c94da2a382668c4c73bc864079b0cf1602da6", null ],
-      [ "WEATHER_STATE_HEAVY_SNOW", "d1/d34/a04957.html#gga32b7b9e733438755c99c2abd6cb8c94daaad9131eee7d0dce651a4142705871a3", null ],
-      [ "WEATHER_STATE_LIGHT_SANDSTORM", "d1/d34/a04957.html#gga32b7b9e733438755c99c2abd6cb8c94dabe53f9722c1f5ee37a0ce46a356402eb", null ],
-      [ "WEATHER_STATE_MEDIUM_SANDSTORM", "d1/d34/a04957.html#gga32b7b9e733438755c99c2abd6cb8c94da35248c6d29502ee854f2a9c92a1c9204", null ],
-      [ "WEATHER_STATE_HEAVY_SANDSTORM", "d1/d34/a04957.html#gga32b7b9e733438755c99c2abd6cb8c94da185c2513fb0f271a64db1feb5691def0", null ],
-      [ "WEATHER_STATE_THUNDERS", "d1/d34/a04957.html#gga32b7b9e733438755c99c2abd6cb8c94da0a333865e8ae65ce8f5bb03f905dee29", null ],
-      [ "WEATHER_STATE_BLACKRAIN", "d1/d34/a04957.html#gga32b7b9e733438755c99c2abd6cb8c94daa69a93da31c84906e5b64469cda9f27f", null ],
-      [ "WEATHER_STATE_BLACKSNOW", "d1/d34/a04957.html#gga32b7b9e733438755c99c2abd6cb8c94da3aea8b6958d36e83f025fc7a489d1357", null ]
-    ] ]
+    [ "PoolTemplateData", "d7/d21/a10430.html", "d7/d21/a10430" ],
+    [ "PoolObject", "dd/dd7/a10434.html", "dd/dd7/a10434" ],
+    [ "Pool", "d2/dfb/a10438.html", null ],
+    [ "ActivePoolData", "d1/d9e/a10442.html", "d1/d9e/a10442" ],
+    [ "PoolGroup< T >", "d2/df6/a10446.html", "d2/df6/a10446" ],
+    [ "PoolMgr", "de/d72/a10450.html", "de/d72/a10450" ],
+    [ "sPoolMgr", "d1/dae/a01136.html#a9189dd9c6265b9e6d57104dd61a5fe85", null ],
+    [ "ActivePoolObjects", "d1/dae/a01136.html#a6fd2b29871e3f63cf9cc493968a0ab74", null ],
+    [ "ActivePoolPools", "d1/dae/a01136.html#ad18a3f26065fec260d0281c5354067dd", null ],
+    [ "PooledQuestRelation", "d1/dae/a01136.html#ace9e74e256f166b08f2834044ecfba43", null ],
+    [ "PooledQuestRelationBounds", "d1/dae/a01136.html#adabd05f382474650e093706cf4ea4e35", null ],
+    [ "PooledQuestRelationBoundsNC", "d1/dae/a01136.html#a54dd98ebecf13a92dd29f7d3789d5b56", null ]
 ];

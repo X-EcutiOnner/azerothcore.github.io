@@ -1,13 +1,6 @@
 var a10358 =
 [
-    [ "FormulaScript", "d5/d3b/a10358.html#a0c850c1a09bc78a4ceee5f27615d50d7", null ],
-    [ "OnAfterArenaRatingCalculation", "d5/d3b/a10358.html#aa3510b1cfb4661cf6028e1b9f443c865", null ],
-    [ "OnBaseGainCalculation", "d5/d3b/a10358.html#ab154eaf469d5fe3e86c364940816270a", null ],
-    [ "OnBeforeUpdatingPersonalRating", "d5/d3b/a10358.html#a2208a5684c95b936aa9ca1ae863d9682", null ],
-    [ "OnColorCodeCalculation", "d5/d3b/a10358.html#a83893099062d1fb7ce69fe38bf8c4699", null ],
-    [ "OnGainCalculation", "d5/d3b/a10358.html#aa83fab65cc89bd03021da2805e935ffb", null ],
-    [ "OnGrayLevelCalculation", "d5/d3b/a10358.html#affeb57234f961b9e01f5898c7738f38f", null ],
-    [ "OnGroupRateCalculation", "d5/d3b/a10358.html#a1098d29595b4f9206cccf3c3c1dad5f3", null ],
-    [ "OnHonorCalculation", "d5/d3b/a10358.html#a54a5e523ad5a9d3eb2dd061ced2d209f", null ],
-    [ "OnZeroDifferenceCalculation", "d5/d3b/a10358.html#a7755c35bc56e6645e36de08c12a4847d", null ]
+    [ "HoverMovementTransform", "d5/d3b/a10358.html#afc47d2d80c4a4a654cb60f9ad15dc63b", null ],
+    [ "operator()", "d5/d3b/a10358.html#a7b4c22c7ba3332c0829832756b734809", null ],
+    [ "_offset", "d5/d3b/a10358.html#a7fe74e38dbefb11af541a8750465861c", null ]
 ];

@@ -1,11 +1,8 @@
 var a29110 =
 [
-    [ "material", "de/d72/a29110.html#a7079e8817a9684602084eb224f2540fc", null ],
-    [ "pos_x", "de/d72/a29110.html#ac4d971cc46506be14716124afbb5ad9c", null ],
-    [ "pos_y", "de/d72/a29110.html#a6cd85f2a674d732e88371ffce5e46077", null ],
-    [ "pos_z", "de/d72/a29110.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
-    [ "xtiles", "de/d72/a29110.html#aca34dfa64624cfe04c314c13bbed0062", null ],
-    [ "xverts", "de/d72/a29110.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
-    [ "ytiles", "de/d72/a29110.html#a9901a7e9828ac840bc290b0768831d66", null ],
-    [ "yverts", "de/d72/a29110.html#abf24042b85692cd0df05d65d734dd99e", null ]
+    [ "DamagedDisplayId", "de/d72/a29110.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
+    [ "DestroyedDisplayId", "de/d72/a29110.html#afc891df0c9491a34f784e8f141434be5", null ],
+    [ "Id", "de/d72/a29110.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
+    [ "RebuildingDisplayId", "de/d72/a29110.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
+    [ "SmokeDisplayId", "de/d72/a29110.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
 ];

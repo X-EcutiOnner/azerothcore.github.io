@@ -1,7 +1,6 @@
 var a22098 =
 [
-    [ "HandleScriptEffect", "d3/d5a/a22098.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
-    [ "PrepareSpellScript", "d3/d5a/a22098.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
-    [ "Register", "d3/d5a/a22098.html#a278206630f9f45f2dba50b259a6115c1", null ],
-    [ "Validate", "d3/d5a/a22098.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
+    [ "npc_infra_green_bomber_genericAI", "df/d1d/a22102.html", "df/d1d/a22102" ],
+    [ "npc_infra_green_bomber_generic", "d3/d5a/a22098.html#a39134a09376c35f15e99377cd28ac6ff", null ],
+    [ "GetAI", "d3/d5a/a22098.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
 ];

@@ -1,6 +1,5 @@
 var a18942 =
 [
-    [ "HandleScript", "dd/d0d/a18942.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
-    [ "PrepareSpellScript", "dd/d0d/a18942.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
-    [ "Register", "dd/d0d/a18942.html#ad0c6d34103244cded41481c745dafe58", null ]
+    [ "achievement_neck_deep_in_vile", "dd/d0d/a18942.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
+    [ "OnCheck", "dd/d0d/a18942.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
 ];

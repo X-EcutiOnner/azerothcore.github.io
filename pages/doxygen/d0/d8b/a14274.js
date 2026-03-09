@@ -1,10 +1,10 @@
 var a14274 =
 [
-    [ "npc_vilebranch_speaker", "d0/d8b/a14274.html#acd8dfc95c5969fe67e1386d5dbd5884b", null ],
-    [ "JustDied", "d0/d8b/a14274.html#aa7708f176879db3acd50399b74e4a90c", null ],
-    [ "JustEngagedWith", "d0/d8b/a14274.html#a236afb8512c2d941479f8a7c18f688a6", null ],
-    [ "Reset", "d0/d8b/a14274.html#a248195a137cb91f10a882ec12974c7c5", null ],
-    [ "UpdateAI", "d0/d8b/a14274.html#a75f263fa9241319b58bf77cbf1b75088", null ],
-    [ "_scheduler", "d0/d8b/a14274.html#abd52bbd2ce88b011176d93ae92b851d0", null ],
-    [ "instance", "d0/d8b/a14274.html#a88fb28d2c39f0da967ab6706872e68b2", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "d0/d8b/a14274.html#af7d495f489979690615d091bbd9d539b", null ],
+    [ "CanAIAttack", "d0/d8b/a14274.html#af332a66852c9499912d8ef4959f394f5", null ],
+    [ "InitializeAI", "d0/d8b/a14274.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
+    [ "JustRespawned", "d0/d8b/a14274.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
+    [ "Reset", "d0/d8b/a14274.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
+    [ "UpdateAI", "d0/d8b/a14274.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
+    [ "_events", "d0/d8b/a14274.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
 ];

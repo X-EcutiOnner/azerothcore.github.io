@@ -1,6 +1,6 @@
 var a24374 =
 [
-    [ "npc_drake_dealer_hurlunk", "d5/d35/a24374.html#ae6d095365d23c30d5b772b047b459ddb", null ],
-    [ "OnGossipHello", "d5/d35/a24374.html#ad04b7f906f029d9935e29c585b0de421", null ],
-    [ "OnGossipSelect", "d5/d35/a24374.html#aa23833dcdefb909899120c25d5376111", null ]
+    [ "achievement", "d5/d35/a24374.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "d5/d35/a24374.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "d5/d35/a24374.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
 ];

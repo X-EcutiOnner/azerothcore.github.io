@@ -1,6 +1,11 @@
 var a18398 =
 [
-    [ "boss_the_lich_kingAI", "d0/d06/a18402.html", "d0/d06/a18402" ],
-    [ "boss_the_lich_king", "de/d0e/a18398.html#a10e2789a98a85907d24eabae6d7655f4", null ],
-    [ "GetAI", "de/d0e/a18398.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
+    [ "Load", "de/d0e/a18398.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
+    [ "PrepareSpellScript", "de/d0e/a18398.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
+    [ "Register", "de/d0e/a18398.html#a9adbad7cc2185b22fb16135e78114548", null ],
+    [ "SelectTarget", "de/d0e/a18398.html#a296ec09cec9661123ea5c86f3f262f32", null ],
+    [ "SetTarget", "de/d0e/a18398.html#a15373dc2a0767e011faf504f6377e24d", null ],
+    [ "StartAttack", "de/d0e/a18398.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
+    [ "Validate", "de/d0e/a18398.html#a7619f7ec6dc0ce14293414729731ed00", null ],
+    [ "_target", "de/d0e/a18398.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
 ];

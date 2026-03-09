@@ -1,9 +1,7 @@
 var a11230 =
 [
-    [ "EncryptableAndCompressiblePacket", "d6/de4/a11230.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
-    [ "CompressIfNeeded", "d6/de4/a11230.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
-    [ "NeedsCompression", "d6/de4/a11230.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
-    [ "NeedsEncryption", "d6/de4/a11230.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
-    [ "_encrypt", "d6/de4/a11230.html#a37a68eddad23001a85a4a2f77e237810", null ],
-    [ "SocketQueueLink", "d6/de4/a11230.html#a88f11ce75f439fd290bdc09156d559c2", null ]
+    [ "StopMirrorTimer", "d6/de4/a11230.html#aabd646c82f3dcdff2eef2158c6724dff", null ],
+    [ "StopMirrorTimer", "d6/de4/a11230.html#a25f930852c7124cdfbf73687e62a26d1", null ],
+    [ "Write", "d6/de4/a11230.html#ae99dab4406316eac99a6e0e0146d879e", null ],
+    [ "Timer", "d6/de4/a11230.html#a5e5cf56b83aca514cff34c1a17f2d3b1", null ]
 ];

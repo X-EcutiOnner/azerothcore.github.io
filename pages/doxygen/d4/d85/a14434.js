@@ -1,10 +1,9 @@
 var a14434 =
 [
-    [ "npc_coren_direbrew_sisters", "d4/d85/a14434.html#a415ea0ebd044236f5f4c4d6c28896e00", null ],
-    [ "GetGUID", "d4/d85/a14434.html#a61863117e71ebfb7f1c4c83780ece7bc", null ],
-    [ "JustEngagedWith", "d4/d85/a14434.html#a34e0b6af032240c152c463c221d99335", null ],
-    [ "SetGUID", "d4/d85/a14434.html#a8b25691671f4a65e990e9f39c92214ae", null ],
-    [ "UpdateAI", "d4/d85/a14434.html#a7434b08d12d3f0902d1944b75323560c", null ],
-    [ "_scheduler", "d4/d85/a14434.html#a9d8ca85e7bbd3cc9c61c2bbb38b7d222", null ],
-    [ "_targetGUID", "d4/d85/a14434.html#a801a6811124a7db3a31ec492ef954b20", null ]
+    [ "npc_amanishi_scout", "d4/d85/a14434.html#a74bed56c21c184e661f62c30ce6d9140", null ],
+    [ "JustEngagedWith", "d4/d85/a14434.html#a5969fadd871094e993c4d3fe0b08054c", null ],
+    [ "Reset", "d4/d85/a14434.html#ac527a3a656888f7ac3d13636a0de7aad", null ],
+    [ "ScheduleCombat", "d4/d85/a14434.html#acb736dc42c5f9afbd92c97bfa8293606", null ],
+    [ "UpdateAI", "d4/d85/a14434.html#a3740a4fde31e1e81edb34dde61403acc", null ],
+    [ "_drumGUID", "d4/d85/a14434.html#afd9a1a57c413d5857331ac90665cc1e0", null ]
 ];

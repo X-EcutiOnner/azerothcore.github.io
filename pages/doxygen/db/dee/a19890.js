@@ -1,8 +1,10 @@
 var a19890 =
 [
-    [ "HandlePeriodic", "db/dee/a19890.html#a2724a85983561a14db8b06ae492ead55", null ],
-    [ "OnRemove", "db/dee/a19890.html#a6d0f941f30d8c850e48396fffd13768d", null ],
-    [ "PrepareAuraScript", "db/dee/a19890.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
-    [ "Register", "db/dee/a19890.html#a85270947972be9c299a642b31969ef68", null ],
-    [ "Validate", "db/dee/a19890.html#a91ebb4e69d02deb5129965f543c474d1", null ]
+    [ "npc_oculus_drakegiverAI", "d8/d89/a19894.html", "d8/d89/a19894" ],
+    [ "npc_oculus_drakegiver", "db/dee/a19890.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
+    [ "GetAI", "db/dee/a19890.html#aa26a2b82c5e4076ce704d5884895d903", null ],
+    [ "OnGossipHello", "db/dee/a19890.html#ac00d09d2d81121d562e3303704229c18", null ],
+    [ "OnGossipSelect", "db/dee/a19890.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
+    [ "RemoveEssence", "db/dee/a19890.html#a70513d873111c590ca4e33cb446a4438", null ],
+    [ "StoreEssence", "db/dee/a19890.html#ac8bbe890722aa924a7f0dee161d342c4", null ]
 ];

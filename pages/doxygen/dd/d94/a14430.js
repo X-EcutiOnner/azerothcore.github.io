@@ -1,17 +1,15 @@
 var a14430 =
 [
-    [ "npc_coren_direbrew", "dd/d94/a14430.html#a51ab68feb3dde3fb23c708afcdcdbd34", null ],
-    [ "CanBeSeen", "dd/d94/a14430.html#ad4db2a85c92f69e54036f4133396f201", null ],
-    [ "DamageTaken", "dd/d94/a14430.html#a782a08ed525eab8a9e9044dc1d5814b3", null ],
-    [ "DoAction", "dd/d94/a14430.html#a2d417a9310b5b75df09879678d967794", null ],
-    [ "JustDied", "dd/d94/a14430.html#a39913e601440fcd6ffbc77ad7c204ac8", null ],
-    [ "JustSummoned", "dd/d94/a14430.html#a2cb3d9de6ccdffa73f709b82cfae790a", null ],
-    [ "MoveInLineOfSight", "dd/d94/a14430.html#a9c48c7e4a97998c2091992f51b734679", null ],
-    [ "Reset", "dd/d94/a14430.html#a49eb75eb89742ee70ca957d4e2f0b5d0", null ],
-    [ "sGossipSelect", "dd/d94/a14430.html#ad8b665606985984ad633f66ad9b73bd2", null ],
-    [ "SummonedCreatureDies", "dd/d94/a14430.html#aafdc2d271d1e267f5b3deba7d00e07fc", null ],
-    [ "SummonSister", "dd/d94/a14430.html#a358fe5922a85ea3eee6abe9451869b66", null ],
-    [ "UpdateAI", "dd/d94/a14430.html#af6615292fa853883979dc37c6e247289", null ],
-    [ "_events", "dd/d94/a14430.html#a81ee26c215b7581a13faf56ee041b9fe", null ],
-    [ "_summons", "dd/d94/a14430.html#a261d4c4dea56748e66752cb11588086a", null ]
+    [ "npc_amanishi_tempest", "dd/d94/a14430.html#a8e15b39501998e9f8c45baef0963d160", null ],
+    [ "DoAction", "dd/d94/a14430.html#a50963cc0aac2560f6ddbf81000943ac3", null ],
+    [ "EnterEvadeMode", "dd/d94/a14430.html#a66c787bd318fdcad83b7b5008b4979f9", null ],
+    [ "JustDied", "dd/d94/a14430.html#aadda903d17a5f4560ce2db896bd7b257", null ],
+    [ "JustEngagedWith", "dd/d94/a14430.html#af277f5d1f73cf79ea8cfcb1e4fc744e3", null ],
+    [ "JustSummoned", "dd/d94/a14430.html#aac72fdc33051370c3cffa388f466b6be", null ],
+    [ "Reset", "dd/d94/a14430.html#aa921f85142f9103bea839bdc0330e1cc", null ],
+    [ "ScheduleEvents", "dd/d94/a14430.html#a09ba0ce51ad981578adcc1950c89d5ae", null ],
+    [ "SummonedCreatureEvade", "dd/d94/a14430.html#a61eebb122c9288c826cdf352c17e0590", null ],
+    [ "UpdateAI", "dd/d94/a14430.html#ad8f6b32c3f08eb2a4ac36a8d91434a4d", null ],
+    [ "_instance", "dd/d94/a14430.html#ab88e1d1ad979192f0519045d8ed2e14f", null ],
+    [ "_summons", "dd/d94/a14430.html#a4337b2bc417d8dafc4a6d5d10bbd0db9", null ]
 ];

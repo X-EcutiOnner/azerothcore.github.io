@@ -1,6 +1,7 @@
 var a27110 =
 [
-    [ "PrepareAuraScript", "d8/d98/a27110.html#a65fa925d99065d028e328a92f2a13805", null ],
-    [ "Register", "d8/d98/a27110.html#a95dc732286adf4327f68e23015d58c21", null ],
-    [ "RemoveEffect", "d8/d98/a27110.html#a3f474c143f64739187b6049cac5e4b38", null ]
+    [ "HandleDummy", "d8/d98/a27110.html#a367bd26543382ad71668fbe4f524d823", null ],
+    [ "PrepareSpellScript", "d8/d98/a27110.html#a71cde3f81fdb253d8e93a19be104e9db", null ],
+    [ "Register", "d8/d98/a27110.html#a7c73e3381592bef44d2265aff296b301", null ],
+    [ "Validate", "d8/d98/a27110.html#a03d59b6859286dbe460b348df6de63d7", null ]
 ];

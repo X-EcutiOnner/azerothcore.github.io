@@ -1,8 +1,14 @@
 var a13706 =
 [
-    [ "HandleEffectApply", "d1/d4e/a13706.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
-    [ "HandleEffectRemove", "d1/d4e/a13706.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
-    [ "Load", "d1/d4e/a13706.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
-    [ "PrepareAuraScript", "d1/d4e/a13706.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
-    [ "Register", "d1/d4e/a13706.html#a6a90296c9903ce65913f3bba29dea176", null ]
+    [ "boss_sothos", "d1/d4e/a13706.html#a2e7283078d4049ff339f29c3fdfc69cf", null ],
+    [ "DoAction", "d1/d4e/a13706.html#a1433dddccb71896016bc014bdf92b453", null ],
+    [ "IsSummonedBy", "d1/d4e/a13706.html#aaaf7e317f146bb296c4ba6f57c5f72d4", null ],
+    [ "JustDied", "d1/d4e/a13706.html#a2d634aade37ea887f6bbf4b43baf061d", null ],
+    [ "JustEngagedWith", "d1/d4e/a13706.html#ace8a0c92ec3ab3e76cceb63c5b4a277b", null ],
+    [ "Reset", "d1/d4e/a13706.html#a042578148cae9a0b9befb7c5747a8e99", null ],
+    [ "UpdateAI", "d1/d4e/a13706.html#a35e247fa9bfe00927b844af8d0ef916f", null ],
+    [ "_jarienDied", "d1/d4e/a13706.html#a74725d8a4b3ce9fbfb9f06868fa02055", null ],
+    [ "_phase", "d1/d4e/a13706.html#a5719cd4a85527c256fb7f048be6489f7", null ],
+    [ "_scheduler", "d1/d4e/a13706.html#a5e18256858cd594b45628508500e5f1a", null ],
+    [ "_talked", "d1/d4e/a13706.html#a3f3c0d0a079aad1306b638e8ff34f2f6", null ]
 ];

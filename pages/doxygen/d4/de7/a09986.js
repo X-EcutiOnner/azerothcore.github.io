@@ -1,9 +1,10 @@
 var a09986 =
 [
-    [ "ChaseAngle", "d4/de7/a09986.html#a0744c615f437514a52b5a26fb717013a", null ],
-    [ "IsAngleOkay", "d4/de7/a09986.html#aec86c653850655b723e5224ea20b0e21", null ],
-    [ "LowerBound", "d4/de7/a09986.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
-    [ "UpperBound", "d4/de7/a09986.html#a275d01ce57b23d42d4150b10c8433dee", null ],
-    [ "RelativeAngle", "d4/de7/a09986.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
-    [ "Tolerance", "d4/de7/a09986.html#a2bb42885da594380cb742c29b6518ea3", null ]
+    [ "iterator", "d4/de7/a09986.html#a9fada63aa17222fc5e216f3904affafd", null ],
+    [ "begin", "d4/de7/a09986.html#aee3a4701c5bc51f4028fe53f18675989", null ],
+    [ "end", "d4/de7/a09986.html#ad61defd77296790a6c5d0a43bacbbe4b", null ],
+    [ "getFirst", "d4/de7/a09986.html#ae47bba95a17db31a42231da948245387", null ],
+    [ "getLast", "d4/de7/a09986.html#ac03e93ac8ad6fc91ec9d2961b8904217", null ],
+    [ "rbegin", "d4/de7/a09986.html#af68f1d93a80e13976798dfed0063a1e4", null ],
+    [ "rend", "d4/de7/a09986.html#a92c30fb269bc99820b6964a99ee86d98", null ]
 ];

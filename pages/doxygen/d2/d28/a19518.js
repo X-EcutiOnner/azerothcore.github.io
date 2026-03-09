@@ -1,14 +1,6 @@
 var a19518 =
 [
-    [ "boss_keristrasza", "d2/d28/a19518.html#a5f83fee9a5616751601f0c1155afab36", null ],
-    [ "CanRemovePrison", "d2/d28/a19518.html#a900a4a8428a04b880462b20196e94858", null ],
-    [ "GetData", "d2/d28/a19518.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
-    [ "JustDied", "d2/d28/a19518.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
-    [ "JustEngagedWith", "d2/d28/a19518.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
-    [ "KilledUnit", "d2/d28/a19518.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
-    [ "RemovePrison", "d2/d28/a19518.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
-    [ "Reset", "d2/d28/a19518.html#a13dce974fa83577397a80ff52de5d835", null ],
-    [ "SetData", "d2/d28/a19518.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
-    [ "UpdateAI", "d2/d28/a19518.html#a46a2e61e27cc72710c7aa14212673eae", null ],
-    [ "aGuids", "d2/d28/a19518.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
+    [ "npc_boss_gothik_minionAI", "d4/d74/a19522.html", "d4/d74/a19522" ],
+    [ "npc_boss_gothik_minion", "d2/d28/a19518.html#a6cabeae812639ac179133245d85a0e15", null ],
+    [ "GetAI", "d2/d28/a19518.html#a8abb1ec265f9eeb646a858bee06cfb92", null ]
 ];

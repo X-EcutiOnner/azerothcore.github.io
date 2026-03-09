@@ -1,12 +1,9 @@
 var a19954 =
 [
-    [ "npc_assembly_lightningAI", "d7/d45/a19954.html#a4b778b6545e7c93e66a07160db793651", null ],
-    [ "AttackStart", "d7/d45/a19954.html#afd4657e8c6a2eb39346e99cb54a7ab1a", null ],
-    [ "EnterEvadeMode", "d7/d45/a19954.html#a4c0bb838053412a3945648ed1a5a13b9", null ],
-    [ "MoveInLineOfSight", "d7/d45/a19954.html#a077f788e67cdb67683ac13f3a3d1322b", null ],
-    [ "MovementInform", "d7/d45/a19954.html#a95227f93c5ac6871bfcea603ebb2188d", null ],
-    [ "OnCharmed", "d7/d45/a19954.html#aa08e4c286723c76251bd75aa54b24f5f", null ],
-    [ "Reset", "d7/d45/a19954.html#a1f03885bfd91d9b9cdde1d90b51d2c96", null ],
-    [ "UpdateAI", "d7/d45/a19954.html#a94edd1ea5278bd5ca8d5d64619e9c8b4", null ],
-    [ "_boomed", "d7/d45/a19954.html#aa6b4a46674a7d4106a49ef308ec27b9e", null ]
+    [ "HandleOnEffectApply", "d7/d45/a19954.html#a6ab047004cc901331d747641f218cf6a", null ],
+    [ "HandleOnEffectRemove", "d7/d45/a19954.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
+    [ "PrepareAuraScript", "d7/d45/a19954.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
+    [ "Register", "d7/d45/a19954.html#a83b0d414a6e97b434f82492fa01ac385", null ],
+    [ "Validate", "d7/d45/a19954.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
+    [ "_drakeGUID", "d7/d45/a19954.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
 ];

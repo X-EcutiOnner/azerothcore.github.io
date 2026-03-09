@@ -1,111 +1,21 @@
 var a01175 =
 [
-    [ "CreatureMovementData", "dd/d37/a08248.html", "dd/d37/a08248" ],
-    [ "CreatureModel", "d1/d86/a08252.html", "d1/d86/a08252" ],
-    [ "CreatureTemplate", "d1/d78/a08256.html", "d1/d78/a08256" ],
-    [ "CreatureBaseStats", "d3/d5b/a08260.html", "d3/d5b/a08260" ],
-    [ "CreatureLocale", "dc/d76/a08264.html", "dc/d76/a08264" ],
-    [ "GossipMenuItemsLocale", "d6/d02/a08268.html", "d6/d02/a08268" ],
-    [ "PointOfInterestLocale", "d4/da0/a08272.html", "d4/da0/a08272" ],
-    [ "EquipmentInfo", "d2/d4f/a08276.html", "d2/d4f/a08276" ],
-    [ "CreatureData", "d8/d67/a08280.html", "d8/d67/a08280" ],
-    [ "CreatureModelInfo", "d0/d92/a08284.html", "d0/d92/a08284" ],
-    [ "CreatureAddon", "d1/db3/a08288.html", "d1/db3/a08288" ],
-    [ "VendorItem", "d5/df9/a08292.html", "d5/df9/a08292" ],
-    [ "VendorItemData", "de/d19/a08296.html", "de/d19/a08296" ],
-    [ "VendorItemCount", "d7/d9a/a08300.html", "d7/d9a/a08300" ],
-    [ "CreatureSpellCooldown", "df/d26/a08304.html", "df/d26/a08304" ],
-    [ "CREATURE_REGEN_INTERVAL", "d6/df2/a01175.html#a6afabaf7b3d8095557d5fdef43a7ee32", null ],
-    [ "MAX_AGGRO_RESET_TIME", "d6/df2/a01175.html#a8e7138fa4d60c160a41804cb93cd171b", null ],
-    [ "MAX_CREATURE_QUEST_ITEMS", "d6/df2/a01175.html#a946f1a01c64642a53fd348756fa74589", null ],
-    [ "MAX_EQUIPMENT_ITEMS", "d6/df2/a01175.html#ada6042a73a1120d894eaf5d81ef7aa1a", null ],
-    [ "MAX_KILL_CREDIT", "d6/df2/a01175.html#a3f331d9e202385f679104cc20ef74c3d", null ],
-    [ "CreatureAddonContainer", "d6/df2/a01175.html#ac7a71ba63817249171653509906de7c8", null ],
-    [ "CreatureBaseStatsContainer", "d6/df2/a01175.html#ade6a94c0d4f388a0394d648ed7663a29", null ],
-    [ "CreatureModelContainer", "d6/df2/a01175.html#a4771c8f830e8368feef2f3539fb82673", null ],
-    [ "CreatureQuestItemList", "d6/df2/a01175.html#a40f2d292ed9f49ffa155dff632dc15c5", null ],
-    [ "CreatureQuestItemMap", "d6/df2/a01175.html#ab73ac085ce9072e26a505e0098969d7f", null ],
-    [ "CreatureSpellCooldowns", "d6/df2/a01175.html#a98f7cc9dceeeb6a0d1741093667db03c", null ],
-    [ "CreatureTemplateContainer", "d6/df2/a01175.html#ab12170e3eeaeb988a07355262ca85757", null ],
-    [ "EquipmentInfoContainer", "d6/df2/a01175.html#a800848b17f866c05085ee8a59f42c6ac", null ],
-    [ "EquipmentInfoContainerInternal", "d6/df2/a01175.html#a064cb5a850ff499a14bcf97b361ce6af", null ],
-    [ "VendorItemCounts", "d6/df2/a01175.html#a545edaa9fa6e5172e0acaa6f686d8a6c", null ],
-    [ "VendorItemList", "d6/df2/a01175.html#ade72c22c956598b6544cf254bdf9e975", null ],
-    [ "ChatType", "d6/df2/a01175.html#ab474065b922c4091606228d4c785b15e", [
-      [ "CHAT_TYPE_SAY", "d6/df2/a01175.html#ab474065b922c4091606228d4c785b15ea259d4bad6e08f092ee9af5a87de80961", null ],
-      [ "CHAT_TYPE_YELL", "d6/df2/a01175.html#ab474065b922c4091606228d4c785b15eadc5980413f923977ff9f66e4966b005c", null ],
-      [ "CHAT_TYPE_TEXT_EMOTE", "d6/df2/a01175.html#ab474065b922c4091606228d4c785b15ea45c06648182a8ec2320d052aef7893b9", null ],
-      [ "CHAT_TYPE_BOSS_EMOTE", "d6/df2/a01175.html#ab474065b922c4091606228d4c785b15ea983164442279412488cf59d326d2c81d", null ],
-      [ "CHAT_TYPE_WHISPER", "d6/df2/a01175.html#ab474065b922c4091606228d4c785b15eac9530b47feeb0908379b96ae42b417c7", null ],
-      [ "CHAT_TYPE_BOSS_WHISPER", "d6/df2/a01175.html#ab474065b922c4091606228d4c785b15ea42bf788b7a507b711a9fe07b4c24bcc7", null ],
-      [ "CHAT_TYPE_ZONE_YELL", "d6/df2/a01175.html#ab474065b922c4091606228d4c785b15eac4409452bcef503c226a3480f043a82b", null ],
-      [ "CHAT_TYPE_END", "d6/df2/a01175.html#ab474065b922c4091606228d4c785b15eac3f09781bf0d52668b6d44455efc3e55", null ]
+    [ "Trainer::Spell", "d7/df7/a08402.html", "d7/df7/a08402" ],
+    [ "Trainer::Trainer", "dd/d8f/a08406.html", "dd/d8f/a08406" ],
+    [ "FailReason", "d6/df2/a01175.html#ae4935022d4e3c686a8b51cd68a4f2b66", [
+      [ "Unavailable", "d6/df2/a01175.html#ae4935022d4e3c686a8b51cd68a4f2b66a453e6aa38d87b28ccae545967c53004f", null ],
+      [ "NotEnoughMoney", "d6/df2/a01175.html#ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094", null ],
+      [ "NotEnoughSkill", "d6/df2/a01175.html#ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264", null ]
     ] ],
-    [ "CreatureChaseMovementType", "d6/df2/a01175.html#a3686a5cf358c5282e94cd850b1173bc9", [
-      [ "Run", "d6/df2/a01175.html#a3686a5cf358c5282e94cd850b1173bc9ac5301693c4e792bcd5a479ef38fb8f8d", null ],
-      [ "CanWalk", "d6/df2/a01175.html#a3686a5cf358c5282e94cd850b1173bc9a69045874015beb7513aa025b16a386bb", null ],
-      [ "AlwaysWalk", "d6/df2/a01175.html#a3686a5cf358c5282e94cd850b1173bc9a1bc5e61a482c5dd7de8dfaaab7270c21", null ],
-      [ "Max", "d6/df2/a01175.html#a3686a5cf358c5282e94cd850b1173bc9a6a061313d22e51e0f25b7cd4dc065233", null ]
+    [ "SpellState", "d6/df2/a01175.html#a34dc7b354e539f94e4c8a4cbd0711758", [
+      [ "Available", "d6/df2/a01175.html#a34dc7b354e539f94e4c8a4cbd0711758a78945de8de090e90045d299651a68a9b", null ],
+      [ "Unavailable", "d6/df2/a01175.html#a34dc7b354e539f94e4c8a4cbd0711758a453e6aa38d87b28ccae545967c53004f", null ],
+      [ "Known", "d6/df2/a01175.html#a34dc7b354e539f94e4c8a4cbd0711758a2f5650e484fa195949ac6c8d11dca4fd", null ]
     ] ],
-    [ "CreatureFlagsExtra", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6ae", [
-      [ "CREATURE_FLAG_EXTRA_INSTANCE_BIND", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea5eb667efacd8e34e2b0c1e228703d56a", null ],
-      [ "CREATURE_FLAG_EXTRA_CIVILIAN", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeacee44eaa784b79fab1d8928d2a44ef8c", null ],
-      [ "CREATURE_FLAG_EXTRA_NO_PARRY", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea82d02e843cfe5d025dbcd8f08ad26016", null ],
-      [ "CREATURE_FLAG_EXTRA_NO_PARRY_HASTEN", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea485bf10da98d6743727c85bca2962c8a", null ],
-      [ "CREATURE_FLAG_EXTRA_NO_BLOCK", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea027980ae6aedbd2649f2d23b391d0018", null ],
-      [ "CREATURE_FLAG_EXTRA_NO_CRUSHING_BLOWS", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea0b9eaa7da44acf16db98c69a4490ee0f", null ],
-      [ "CREATURE_FLAG_EXTRA_NO_XP", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea49014cb31a44f91960148878d5402936", null ],
-      [ "CREATURE_FLAG_EXTRA_TRIGGER", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea33ddfbc771eb0cf946bde28b049bcf92", null ],
-      [ "CREATURE_FLAG_EXTRA_NO_TAUNT", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea8e2e57b4b720b5d232da77efa493d9e0", null ],
-      [ "CREATURE_FLAG_EXTRA_NO_MOVE_FLAGS_UPDATE", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea7594a0cdcfaf554a3ffaf219568d5f2a", null ],
-      [ "CREATURE_FLAG_EXTRA_GHOST_VISIBILITY", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea99456c4fd1265b9817a1d525074f369c", null ],
-      [ "CREATURE_FLAG_EXTRA_USE_OFFHAND_ATTACK", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeac70f5bb20c581d60ed52be474d199f3e", null ],
-      [ "CREATURE_FLAG_EXTRA_NO_SELL_VENDOR", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeaa2eb07bfb0870b7d63f66785080d9878", null ],
-      [ "CREATURE_FLAG_EXTRA_IGNORE_COMBAT", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea010139a112a534bdec268292ffb51a56", null ],
-      [ "CREATURE_FLAG_EXTRA_WORLDEVENT", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeaf088ab48174a093528b1decaf519634f", null ],
-      [ "CREATURE_FLAG_EXTRA_GUARD", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeae0962d239a48b905431c02086ae9b0de", null ],
-      [ "CREATURE_FLAG_EXTRA_IGNORE_FEIGN_DEATH", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea86940606c0a6532a416f668c0a09ca65", null ],
-      [ "CREATURE_FLAG_EXTRA_NO_CRIT", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea2c769928dc0a9de2eb3c160b14cc58fa", null ],
-      [ "CREATURE_FLAG_EXTRA_NO_SKILL_GAINS", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeac2ef76f3a9d7ec0bdc733ce9f2050527", null ],
-      [ "CREATURE_FLAG_EXTRA_OBEYS_TAUNT_DIMINISHING_RETURNS", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea6a55dc1573efacf11b363b0f29efee62", null ],
-      [ "CREATURE_FLAG_EXTRA_ALL_DIMINISH", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeae5acf0dad379133a0f083e195992df6c", null ],
-      [ "CREATURE_FLAG_EXTRA_NO_PLAYER_DAMAGE_REQ", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea8ff1b07b39d4513a802697b1e6796cd4", null ],
-      [ "CREATURE_FLAG_EXTRA_AVOID_AOE", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeac76a858f3209ba102bf261c9ffccbf99", null ],
-      [ "CREATURE_FLAG_EXTRA_NO_DODGE", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeab9eec285fe44252e925f9ab1b0187e6c", null ],
-      [ "CREATURE_FLAG_EXTRA_MODULE", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeae00238b53e70a93ff8af09880d945639", null ],
-      [ "CREATURE_FLAG_EXTRA_DONT_CALL_ASSISTANCE", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea7f6a51e74361969dd3fdbf38993e590b", null ],
-      [ "CREATURE_FLAG_EXTRA_IGNORE_ALL_ASSISTANCE_CALLS", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea33a5e887c2422c472aa4f80134bc56f4", null ],
-      [ "CREATURE_FLAG_EXTRA_DONT_OVERRIDE_ENTRY_SAI", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aeafe175c08cff508f324fd4ee330437e87", null ],
-      [ "CREATURE_FLAG_EXTRA_DUNGEON_BOSS", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea30602d96feb595ff0b760c897005a799", null ],
-      [ "CREATURE_FLAG_EXTRA_IGNORE_PATHFINDING", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea432399b2532ba8bac59cf2d4a9896e31", null ],
-      [ "CREATURE_FLAG_EXTRA_IMMUNITY_KNOCKBACK", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea7a34213bf9fc666bb573799a1750ba44", null ],
-      [ "CREATURE_FLAG_EXTRA_HARD_RESET", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea5bab8409d8820db219156ff357dab245", null ],
-      [ "CREATURE_FLAG_EXTRA_DB_ALLOWED", "d6/df2/a01175.html#a0ce2c6787ec2444d3b23ca43b0c5a6aea04400aa73c5d761f561895e223875fc5", null ]
-    ] ],
-    [ "CreatureFlightMovementType", "d6/df2/a01175.html#a2d939485aee8367ac402f581fd13d705", [
-      [ "None", "d6/df2/a01175.html#a2d939485aee8367ac402f581fd13d705a6adf97f83acf6453d4a6a4b1070f3754", null ],
-      [ "DisableGravity", "d6/df2/a01175.html#a2d939485aee8367ac402f581fd13d705a65fa4cecb88a83780edd35a065f79bc5", null ],
-      [ "CanFly", "d6/df2/a01175.html#a2d939485aee8367ac402f581fd13d705a68d6a9750f0ac787a349f07ae2d86a69", null ],
-      [ "Max", "d6/df2/a01175.html#a2d939485aee8367ac402f581fd13d705a6a061313d22e51e0f25b7cd4dc065233", null ]
-    ] ],
-    [ "CreatureGroundMovementType", "d6/df2/a01175.html#a41d8876d4a61c87754a0a48348de49bf", [
-      [ "None", "d6/df2/a01175.html#a41d8876d4a61c87754a0a48348de49bfa6adf97f83acf6453d4a6a4b1070f3754", null ],
-      [ "Run", "d6/df2/a01175.html#a41d8876d4a61c87754a0a48348de49bfac5301693c4e792bcd5a479ef38fb8f8d", null ],
-      [ "Hover", "d6/df2/a01175.html#a41d8876d4a61c87754a0a48348de49bfaeee0168be69b854c20621fc6f01cc3fc", null ],
-      [ "Max", "d6/df2/a01175.html#a41d8876d4a61c87754a0a48348de49bfa6a061313d22e51e0f25b7cd4dc065233", null ]
-    ] ],
-    [ "CreatureRandomMovementType", "d6/df2/a01175.html#ac5419660ed841edccfaa5c7290083846", [
-      [ "Walk", "d6/df2/a01175.html#ac5419660ed841edccfaa5c7290083846a7a16a854f32231a8df9326136b09ee62", null ],
-      [ "CanRun", "d6/df2/a01175.html#ac5419660ed841edccfaa5c7290083846ad030426e7ebe1a50711689b8dd92cce3", null ],
-      [ "AlwaysRun", "d6/df2/a01175.html#ac5419660ed841edccfaa5c7290083846a6eb62f1766deb6206aff4629e4059052", null ],
-      [ "Max", "d6/df2/a01175.html#ac5419660ed841edccfaa5c7290083846a6a061313d22e51e0f25b7cd4dc065233", null ]
-    ] ],
-    [ "InhabitTypeValues", "d6/df2/a01175.html#aec385f62258c23b8c755b8e78a0e1873", [
-      [ "INHABIT_GROUND", "d6/df2/a01175.html#aec385f62258c23b8c755b8e78a0e1873a520d2ee7572e47cd40d4a81ec015a38b", null ],
-      [ "INHABIT_WATER", "d6/df2/a01175.html#aec385f62258c23b8c755b8e78a0e1873a3e409a2141cd78fb1bdd83d36c2388e7", null ],
-      [ "INHABIT_AIR", "d6/df2/a01175.html#aec385f62258c23b8c755b8e78a0e1873a2e939d2dbf075bfb7c86e3e971beb228", null ],
-      [ "INHABIT_ROOT", "d6/df2/a01175.html#aec385f62258c23b8c755b8e78a0e1873acc3db535154ef13d1dad073fa6d5eea5", null ],
-      [ "INHABIT_ANYWHERE", "d6/df2/a01175.html#aec385f62258c23b8c755b8e78a0e1873ab9163dc24970d6c55bc79f344d177e15", null ]
-    ] ],
-    [ "PET_FOCUS_REGEN_INTERVAL", "d6/df2/a01175.html#a8d66cb2ffced78d42fdd3dbc45e27cee", null ]
+    [ "Type", "d6/df2/a01175.html#a636cc62a0635fc1566fb574ebe9941a9", [
+      [ "Class", "d6/df2/a01175.html#a636cc62a0635fc1566fb574ebe9941a9a9bd81329febf6efe22788e03ddeaf0af", null ],
+      [ "Mount", "d6/df2/a01175.html#a636cc62a0635fc1566fb574ebe9941a9aeace16d66cdd93ad876c620db7456077", null ],
+      [ "Tradeskill", "d6/df2/a01175.html#a636cc62a0635fc1566fb574ebe9941a9a7f36331b1b83871b2bd2773a286f54cd", null ],
+      [ "Pet", "d6/df2/a01175.html#a636cc62a0635fc1566fb574ebe9941a9a7c986af4cf8f6e55a1f846dc498ce91d", null ]
+    ] ]
 ];

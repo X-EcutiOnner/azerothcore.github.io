@@ -1,7 +1,7 @@
 var a16618 =
 [
-    [ "npc_toc_shadow_priestAI", "df/d1a/a16618.html#af13a18be542fb314c19af52f89d216b8", null ],
-    [ "myCanCast", "df/d1a/a16618.html#a83422ff3e140b57a484d98876a9a8070", null ],
-    [ "UpdateAI", "df/d1a/a16618.html#afc23ba15d3ee925212e77b5211504c2b", null ],
-    [ "events", "df/d1a/a16618.html#a31665a22920b416d7423958a3e2928ec", null ]
+    [ "HandleDummy", "df/d1a/a16618.html#ad0782bfbd977954aac6170ee9111aef6", null ],
+    [ "PrepareSpellScript", "df/d1a/a16618.html#ac456524856c4a3c4913423693a8fd50c", null ],
+    [ "Register", "df/d1a/a16618.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
+    [ "Validate", "df/d1a/a16618.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
 ];

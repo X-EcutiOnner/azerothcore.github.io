@@ -1,6 +1,5 @@
 var a10598 =
 [
-    [ "EmoteClient", "dc/d55/a10598.html#af98c098cb1019057d8027f39c168e1a9", null ],
-    [ "Read", "dc/d55/a10598.html#abad5fca865b7b99e595ce95137e8105c", null ],
-    [ "EmoteID", "dc/d55/a10598.html#a24503de36535106220984ffbf6ba0338", null ]
+    [ "GenericGameObjectScript", "dc/d55/a10598.html#a7d1d46c8d325619637aef9b9dc5419f7", null ],
+    [ "GetAI", "dc/d55/a10598.html#a7e3ba0f4a88489de522ae714d628c9ab", null ]
 ];

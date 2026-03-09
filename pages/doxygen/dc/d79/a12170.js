@@ -1,7 +1,6 @@
 var a12170 =
 [
-    [ "boss_moira_bronzebeardAI", "dc/d79/a12170.html#a11265b6aad76574c2c76253128c79165", null ],
-    [ "CastOnEmperorIfPossible", "dc/d79/a12170.html#a0df43e5c605783312291bd4ba1921f8c", null ],
-    [ "JustEngagedWith", "dc/d79/a12170.html#a40ae00eb86e2bec048a9394d4deef106", null ],
-    [ "UpdateAI", "dc/d79/a12170.html#ae3f22a059330fb564cd30e581fc0198d", null ]
+    [ "inventory_commandscript", "dc/d79/a12170.html#a765d3606093dd3e15bb59c058333dca7", null ],
+    [ "GetCommands", "dc/d79/a12170.html#ac002b65cbe2e5dafc7614c7afa4a20e6", null ],
+    [ "HandleInventoryCountCommand", "dc/d79/a12170.html#a60d05e2fd4e23fdb6bc6513a1dc67ba3", null ]
 ];

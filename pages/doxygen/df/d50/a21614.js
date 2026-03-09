@@ -1,6 +1,14 @@
 var a21614 =
 [
-    [ "npc_azure_raiderAI", "dd/dbe/a21618.html", "dd/dbe/a21618" ],
-    [ "npc_azure_raider", "df/d50/a21614.html#a249abee0df263e183341193b828a310c", null ],
-    [ "GetAI", "df/d50/a21614.html#a88a45e3b117c5105f7541d640dda8470", null ]
+    [ "npc_hidden_cultistAI", "df/d50/a21614.html#a970aaa2401664337147696624cc8cac4", null ],
+    [ "AttackPlayer", "df/d50/a21614.html#a55e3b02d05f35d134fc605a13efe9018", null ],
+    [ "Initialize", "df/d50/a21614.html#ab9199126a5a19cc3c6dc612bc428d79c", null ],
+    [ "PreScript", "df/d50/a21614.html#a92be5361e2b28152adcca0629b286bb8", null ],
+    [ "Reset", "df/d50/a21614.html#afe38e448d86cdf910870d72a3890ae1f", null ],
+    [ "sGossipSelect", "df/d50/a21614.html#adf6d85bc5a32c8bd7c125d24f67411d9", null ],
+    [ "UpdateAI", "df/d50/a21614.html#a0bba4d10439d47d44ff856c7fec18595", null ],
+    [ "_emoteState", "df/d50/a21614.html#adb4e884787dc480358c5be22d276ec49", null ],
+    [ "_events", "df/d50/a21614.html#ab0494e33d16a43aa1426784d1882e41c", null ],
+    [ "_npcFlags", "df/d50/a21614.html#aea867d06cb737e2a44445c2c8c7d6e45", null ],
+    [ "_playerGUID", "df/d50/a21614.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18", null ]
 ];

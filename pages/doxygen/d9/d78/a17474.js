@@ -1,6 +1,7 @@
 var a17474 =
 [
-    [ "npc_blood_queen_lana_thelAI", "d9/dc9/a17478.html", "d9/dc9/a17478" ],
-    [ "npc_blood_queen_lana_thel", "d9/d78/a17474.html#a39adef3ae54efd4433805bd8ad4719be", null ],
-    [ "GetAI", "d9/d78/a17474.html#a02d928ac4ef1704cee2498ebe6533561", null ]
+    [ "HandleEffectPeriodic", "d9/d78/a17474.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
+    [ "PrepareAuraScript", "d9/d78/a17474.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
+    [ "Register", "d9/d78/a17474.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
+    [ "Validate", "d9/d78/a17474.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
 ];

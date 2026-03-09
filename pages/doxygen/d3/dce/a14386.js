@@ -1,9 +1,7 @@
 var a14386 =
 [
-    [ "HandleEffectPeriodic", "d3/dce/a14386.html#a798c8ddfc71e703bfe1e3c1f2d926cef", null ],
-    [ "HandleEffectRemove", "d3/dce/a14386.html#a96ed7366e568b70e82d622586740aa56", null ],
-    [ "Load", "d3/dce/a14386.html#a85cbc44e586330e2adfc0656a428bd7b", null ],
-    [ "PrepareAuraScript", "d3/dce/a14386.html#abd1f851112a50b79e815cdd894275bab", null ],
-    [ "Register", "d3/dce/a14386.html#aa3cd85aed063017c4737e7660fa81f37", null ],
-    [ "questTick", "d3/dce/a14386.html#ae2980e5f4934ce2ba5b755b7d45fab82", null ]
+    [ "HandleScript", "d3/dce/a14386.html#ac45614416a710794b3e3a5cee239e28a", null ],
+    [ "PrepareSpellScript", "d3/dce/a14386.html#a832aee6557e27bfa418957297a05bea3", null ],
+    [ "Register", "d3/dce/a14386.html#a2f5d255de09818203e498c0090bdd3fb", null ],
+    [ "Validate", "d3/dce/a14386.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
 ];

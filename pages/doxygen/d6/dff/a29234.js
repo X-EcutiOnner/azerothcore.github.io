@@ -1,7 +1,7 @@
 var a29234 =
 [
-    [ "MPQArchive", "d1/daa/a28250.html", "d1/daa/a28250" ],
-    [ "MPQFile", "d2/de2/a28254.html", "d2/de2/a28254" ],
-    [ "ArchiveSet", "d6/dff/a29234.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "d6/dff/a29234.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "AllocationPct", "d6/dff/a29234.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
+    [ "Enchantment", "d6/dff/a29234.html#a45e694082c1dbdeef5229561f617d584", null ],
+    [ "ID", "d6/dff/a29234.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
+    [ "Name", "d6/dff/a29234.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
 ];

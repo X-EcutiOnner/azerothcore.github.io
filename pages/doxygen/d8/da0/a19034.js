@@ -1,12 +1,8 @@
 var a19034 =
 [
-    [ "npc_icc_nerubar_broodkeeperAI", "d8/da0/a19034.html#a2e3abb6f8889b8df818e8260e6428375", null ],
-    [ "InitializeAI", "d8/da0/a19034.html#ac39bb8074ebb7106b426f507b73b368e", null ],
-    [ "JustEngagedWith", "d8/da0/a19034.html#ae69a8fd357856d0ec6a944ca8c0007ca", null ],
-    [ "MoveInLineOfSight", "d8/da0/a19034.html#a846fe2784308eb694f5f482133a33a7f", null ],
-    [ "MovementInform", "d8/da0/a19034.html#a9a5584eea4bc08f55ddfd7efe23bce2e", null ],
-    [ "Reset", "d8/da0/a19034.html#afbb260e4968865e7c4141e73a050e663", null ],
-    [ "UpdateAI", "d8/da0/a19034.html#ad63d3a91bdd677a9cdd497198860cac6", null ],
-    [ "_didWebBeam", "d8/da0/a19034.html#a8772cf938d30ddcc439d3912db578dfa", null ],
-    [ "events", "d8/da0/a19034.html#ac1b5b05f9fbaf1879c95bc7127fcb6e9", null ]
+    [ "npc_blistering_zombieAI", "d8/da0/a19034.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
+    [ "DamageTaken", "d8/da0/a19034.html#adf031992078214f90d859df2b54aac91", null ],
+    [ "UpdateAI", "d8/da0/a19034.html#ae081898b8dcaf45cd3069e79021de452", null ],
+    [ "casted", "d8/da0/a19034.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
+    [ "timer", "d8/da0/a19034.html#a8b865c2a87b1fc020d8250767febab0a", null ]
 ];

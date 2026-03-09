@@ -1,6 +1,8 @@
 var a18846 =
 [
-    [ "npc_captain_rupertAI", "d0/dbe/a18850.html", "d0/dbe/a18850" ],
-    [ "npc_captain_rupert", "dc/dcb/a18846.html#a7a4535a6b784b460c79722e9a50c3ff6", null ],
-    [ "GetAI", "dc/dcb/a18846.html#a20afc31fc1a8bb09692ab0cc47af3c1b", null ]
+    [ "Load", "dc/dcb/a18846.html#add67e02f44e3658bff98faf7a9466ba3", null ],
+    [ "OnPeriodic", "dc/dcb/a18846.html#a3e523e0bb23e4aba279ba6704206bfc4", null ],
+    [ "PrepareAuraScript", "dc/dcb/a18846.html#a399fc30c23c03d3c4964ec23faed7c18", null ],
+    [ "Register", "dc/dcb/a18846.html#a4ee6fe23e45481eea16f77d8de72742e", null ],
+    [ "_is25Man", "dc/dcb/a18846.html#ab7776e2d8eff0de1176d5d5efa853c6d", null ]
 ];

@@ -1,5 +1,6 @@
 var a18930 =
 [
-    [ "at_icc_start_frostwing_gauntlet", "d4/d54/a18930.html#a285cd9046d5658fc5d917c3427bbbe83", null ],
-    [ "OnTrigger", "d4/d54/a18930.html#a7137166f281876f00d4e03c846875d85", null ]
+    [ "npc_lk_wicked_spiritAI", "d1/d48/a18934.html", "d1/d48/a18934" ],
+    [ "npc_lk_wicked_spirit", "d4/d54/a18930.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
+    [ "GetAI", "d4/d54/a18930.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
 ];

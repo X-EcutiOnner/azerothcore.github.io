@@ -1,6 +1,7 @@
 var a15086 =
 [
-    [ "instance_maraudon_InstanceMapScript", "d3/d23/a15090.html", "d3/d23/a15090" ],
-    [ "instance_maraudon", "dc/d2f/a15086.html#aaae11d2569d04b42840b101a5702cf24", null ],
-    [ "GetInstanceScript", "dc/d2f/a15086.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
+    [ "HandleScript", "dc/d2f/a15086.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
+    [ "PrepareSpellScript", "dc/d2f/a15086.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
+    [ "Register", "dc/d2f/a15086.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
+    [ "Validate", "dc/d2f/a15086.html#aa1e74de390a8b71e43e43664981a36ff", null ]
 ];

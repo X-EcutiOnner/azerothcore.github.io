@@ -1,6 +1,7 @@
 var a15586 =
 [
-    [ "npc_rabid_thistle_bearAI", "d7/d7c/a15590.html", "d7/d7c/a15590" ],
-    [ "npc_rabid_thistle_bear", "de/d77/a15586.html#a34b20a4ea22d74352712dee105247d56", null ],
-    [ "GetAI", "de/d77/a15586.html#ab5c21cd3afa0bd13c937e6acf1912af4", null ]
+    [ "npc_hivezara_stinger", "de/d77/a15586.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
+    [ "JustEngagedWith", "de/d77/a15586.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
+    [ "Reset", "de/d77/a15586.html#ae8e893c90942a469628c393d5b5380cc", null ],
+    [ "UpdateAI", "de/d77/a15586.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
 ];

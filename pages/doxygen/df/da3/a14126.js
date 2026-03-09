@@ -1,7 +1,6 @@
 var a14126 =
 [
-    [ "HandleEffect", "df/da3/a14126.html#a8cda8eff109af7441d6990a236a52b80", null ],
-    [ "PrepareSpellScript", "df/da3/a14126.html#acc2698ba702be211bef63cefa41005f4", null ],
-    [ "Register", "df/da3/a14126.html#a5d6dccbb44a5d95055755673ad70707f", null ],
-    [ "Validate", "df/da3/a14126.html#a0b106298aa550e4fe9e8a449ed7eaa51", null ]
+    [ "npc_bh_thalorien_dawnseekerAI", "d9/d6f/a14130.html", "d9/d6f/a14130" ],
+    [ "npc_bh_thalorien_dawnseeker", "df/da3/a14126.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
+    [ "GetAI", "df/da3/a14126.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
 ];

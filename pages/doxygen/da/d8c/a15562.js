@@ -1,6 +1,6 @@
 var a15562 =
 [
-    [ "npc_murkdeepAI", "da/d05/a15566.html", "da/d05/a15566" ],
-    [ "npc_murkdeep", "da/d8c/a15562.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
-    [ "GetAI", "da/d8c/a15562.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
+    [ "FilterTargets", "da/d8c/a15562.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
+    [ "PrepareSpellScript", "da/d8c/a15562.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
+    [ "Register", "da/d8c/a15562.html#a3168a3f97ddb38b261a0730405ba27db", null ]
 ];

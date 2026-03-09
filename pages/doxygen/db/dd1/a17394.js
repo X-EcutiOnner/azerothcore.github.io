@@ -1,7 +1,12 @@
 var a17394 =
 [
-    [ "HandleScriptEffect", "db/dd1/a17394.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
-    [ "PrepareSpellScript", "db/dd1/a17394.html#aac410690d906867216b40a49d8f15318", null ],
-    [ "Register", "db/dd1/a17394.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
-    [ "Validate", "db/dd1/a17394.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
+    [ "npc_shadowy_mercenaryAI", "db/dd1/a17394.html#ac631624615653a4f82ecfae2aa418455", null ],
+    [ "AttackStart", "db/dd1/a17394.html#a001fa53e29cf8a20ed2e3312058ceb0a", null ],
+    [ "DoAction", "db/dd1/a17394.html#a62f4e98e1dadfa0a2aeea43af9d26234", null ],
+    [ "EnterEvadeMode", "db/dd1/a17394.html#a31a9ddf038046534fad1d41afcf76548", null ],
+    [ "JustDied", "db/dd1/a17394.html#a33e576c92d1b10492cb6e65000ca8198", null ],
+    [ "JustEngagedWith", "db/dd1/a17394.html#ae12ade5e863a0022ea99620f354ca51b", null ],
+    [ "Reset", "db/dd1/a17394.html#afad174f812e2aadf6db86703a46f61d2", null ],
+    [ "UpdateAI", "db/dd1/a17394.html#a7a0238f32aa0d608b9d883db5f170052", null ],
+    [ "events", "db/dd1/a17394.html#a4c6e5a49dc4364477187a0189a166578", null ]
 ];

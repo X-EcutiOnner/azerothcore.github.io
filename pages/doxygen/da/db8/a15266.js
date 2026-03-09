@@ -1,8 +1,10 @@
 var a15266 =
 [
-    [ "npc_obsidian_destroyer", "da/db8/a15266.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
-    [ "JustDied", "da/db8/a15266.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
-    [ "JustEngagedWith", "da/db8/a15266.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
-    [ "Reset", "da/db8/a15266.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
-    [ "UpdateAI", "da/db8/a15266.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
+    [ "boss_meathookAI", "da/db8/a15266.html#abb35c98da760db634545b81d740cd51a", null ],
+    [ "JustDied", "da/db8/a15266.html#a44ebee45de335ff6f653e9d60a364458", null ],
+    [ "JustEngagedWith", "da/db8/a15266.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
+    [ "KilledUnit", "da/db8/a15266.html#a54deac512294bb0901d072faef3166b1", null ],
+    [ "Reset", "da/db8/a15266.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
+    [ "UpdateAI", "da/db8/a15266.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
+    [ "events", "da/db8/a15266.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
 ];

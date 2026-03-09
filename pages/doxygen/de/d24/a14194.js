@@ -1,5 +1,6 @@
 var a14194 =
 [
-    [ "at_zulgurub_edge_of_madness_speech", "de/d24/a14194.html#a7d4007716e3ed634ac7e3d3dba26e6f7", null ],
-    [ "_OnTrigger", "de/d24/a14194.html#a725de49be12116f2f7e77edd31a096ae", null ]
+    [ "npc_tyrion_spybotAI", "d0/d2c/a14198.html", "d0/d2c/a14198" ],
+    [ "npc_tyrion_spybot", "de/d24/a14194.html#a7e0eed1b51ffe1df2d8ae2ad37f26528", null ],
+    [ "GetAI", "de/d24/a14194.html#af81b70437703edc8d99fe24249891dd6", null ]
 ];

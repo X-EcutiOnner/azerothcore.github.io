@@ -1,7 +1,7 @@
 var a18758 =
 [
-    [ "OnApply", "d6/d1c/a18758.html#ac35f5d98980f54470a75a72b3578681f", null ],
-    [ "OnRemove", "d6/d1c/a18758.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
-    [ "PrepareAuraScript", "d6/d1c/a18758.html#a83c90d16fa151026a1e02927e31922ee", null ],
-    [ "Register", "d6/d1c/a18758.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
+    [ "OnPeriodic", "d6/d1c/a18758.html#accd12b06341f3168c74cb18926614f7f", null ],
+    [ "OnUpdate", "d6/d1c/a18758.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
+    [ "PrepareAuraScript", "d6/d1c/a18758.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
+    [ "Register", "d6/d1c/a18758.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
 ];

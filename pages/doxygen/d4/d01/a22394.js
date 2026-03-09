@@ -1,7 +1,6 @@
 var a22394 =
 [
-    [ "HandleSendEvent", "d4/d01/a22394.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
-    [ "PrepareSpellScript", "d4/d01/a22394.html#af698a946e07235c18c8b785a1f775ec9", null ],
-    [ "Register", "d4/d01/a22394.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
-    [ "Validate", "d4/d01/a22394.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
+    [ "HandleSummon", "d4/d01/a22394.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
+    [ "PrepareSpellScript", "d4/d01/a22394.html#ae7f071e9d9a82892be31090385679c9f", null ],
+    [ "Register", "d4/d01/a22394.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
 ];

@@ -1,8 +1,11 @@
 var a11258 =
 [
-    [ "SkillExtraItemEntry", "d7/d4e/a11258.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
-    [ "SkillExtraItemEntry", "d7/d4e/a11258.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
-    [ "additionalCreateChance", "d7/d4e/a11258.html#a299d886468e9caf22f9d6ce80a64c247", null ],
-    [ "newMaxOrEntry", "d7/d4e/a11258.html#adfda967d36154b039495f0b289a5c9d1", null ],
-    [ "requiredSpecialization", "d7/d4e/a11258.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
+    [ "MoneyCost", "d7/d4e/a11258.html#a8f88c27f149bf304f46b00dec2aa4a30", null ],
+    [ "PointCost", "d7/d4e/a11258.html#aebcad3f23dbca753ad970081af0a78c9", null ],
+    [ "ReqAbility", "d7/d4e/a11258.html#acc13f04eb19a4555ae1a54594f1d858b", null ],
+    [ "ReqLevel", "d7/d4e/a11258.html#a9478dc1065bc10ebc591ff8022e43993", null ],
+    [ "ReqSkillLine", "d7/d4e/a11258.html#a5267f4615e01571a4a16d17d6914981b", null ],
+    [ "ReqSkillRank", "d7/d4e/a11258.html#ae6f9640e257d83d633c48168edc658b6", null ],
+    [ "SpellID", "d7/d4e/a11258.html#accf0f9aa4c8f2130f6926235dca69476", null ],
+    [ "Usable", "d7/d4e/a11258.html#a35d7186073a231f0dd1fe5920eec175b", null ]
 ];

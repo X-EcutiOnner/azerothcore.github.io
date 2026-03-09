@@ -1,7 +1,7 @@
 var a25446 =
 [
-    [ "PrepareAuraScript", "da/d7b/a25446.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
-    [ "Register", "da/d7b/a25446.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
-    [ "TriggerFoodBuff", "da/d7b/a25446.html#a5d125413491dd377d61b8e30c4979fdd", null ],
-    [ "Validate", "da/d7b/a25446.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
+    [ "HandleDamage", "da/d7b/a25446.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
+    [ "PrepareSpellScript", "da/d7b/a25446.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
+    [ "Register", "da/d7b/a25446.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
+    [ "Validate", "da/d7b/a25446.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
 ];

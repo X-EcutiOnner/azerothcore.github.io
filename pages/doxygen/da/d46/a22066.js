@@ -1,7 +1,6 @@
 var a22066 =
 [
-    [ "HandleScriptEffect", "da/d46/a22066.html#a8df8d5addea956e80ad0a30ff8f73050", null ],
-    [ "PrepareSpellScript", "da/d46/a22066.html#adf6593e47a5766c40e7e3859fce00f81", null ],
-    [ "Register", "da/d46/a22066.html#a6e3bbfb11816f72ae85efb4defb23ad7", null ],
-    [ "Validate", "da/d46/a22066.html#afdabca016ed5eae85a0bdb3fd9d695ec", null ]
+    [ "npc_boneguard_footmanAI", "da/d46/a22066.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "da/d46/a22066.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "da/d46/a22066.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

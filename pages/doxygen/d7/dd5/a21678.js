@@ -1,10 +1,9 @@
 var a21678 =
 [
-    [ "npc_sinkhole_kill_creditAI", "d7/dd5/a21678.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
-    [ "Reset", "d7/dd5/a21678.html#a677990d64d2963ff995d9d8522c5aa81", null ],
-    [ "SpellHit", "d7/dd5/a21678.html#a95eaf518fb18b67820d6195cd525b017", null ],
-    [ "UpdateAI", "d7/dd5/a21678.html#a75611004a543bece9d3f51914547f2fe", null ],
-    [ "casterGuid", "d7/dd5/a21678.html#a147921788b07f5e776e03aaf15049cf0", null ],
-    [ "phase", "d7/dd5/a21678.html#aa45455a8d540d6f942c948cf56d11f05", null ],
-    [ "phaseTimer", "d7/dd5/a21678.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
+    [ "npc_archmage_landalockAI", "d7/dd5/a21678.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
+    [ "GetImageEntry", "d7/dd5/a21678.html#ae09841969253c0baf72cc235b6fa058e", null ],
+    [ "JustSummoned", "d7/dd5/a21678.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
+    [ "UpdateAI", "d7/dd5/a21678.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
+    [ "_summonGUID", "d7/dd5/a21678.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
+    [ "_switchImageTimer", "d7/dd5/a21678.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
 ];

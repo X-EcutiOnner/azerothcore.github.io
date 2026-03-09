@@ -1,8 +1,8 @@
 var a27742 =
 [
-    [ "npc_elder_clearwaterAI", "d2/d5b/a27746.html", "d2/d5b/a27746" ],
-    [ "npc_elder_clearwater", "db/dae/a27742.html#abeee1650938a71762bb0c148ea9834d1", null ],
-    [ "GetAI", "db/dae/a27742.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
-    [ "OnGossipHello", "db/dae/a27742.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
-    [ "OnQuestReward", "db/dae/a27742.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
+    [ "ApplyEffect", "db/dae/a27742.html#a0c303c58064236969e17d1f2df3e0556", null ],
+    [ "PrepareAuraScript", "db/dae/a27742.html#a716a483282946f840ac15d73c6e21a94", null ],
+    [ "Register", "db/dae/a27742.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
+    [ "RemoveEffect", "db/dae/a27742.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
+    [ "Validate", "db/dae/a27742.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
 ];

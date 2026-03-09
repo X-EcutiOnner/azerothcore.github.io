@@ -1,6 +1,6 @@
 var a25698 =
 [
-    [ "CheckCast", "d8/dd0/a25698.html#ac1bc3f881c31c5ab90785a62a5f5b5ae", null ],
-    [ "PrepareSpellScript", "d8/dd0/a25698.html#a2a9c657ccffbacfc661c6bb1dc41d9de", null ],
-    [ "Register", "d8/dd0/a25698.html#a4b34bd5ce9d3e948d6c712d71ed71b2d", null ]
+    [ "CheckCast", "d8/dd0/a25698.html#a7fa12be149f0cb2202142d7f44cde0a6", null ],
+    [ "PrepareSpellScript", "d8/dd0/a25698.html#ad6867dad8bda358bd1479935c80b82e7", null ],
+    [ "Register", "d8/dd0/a25698.html#a0ab2f1f2a87db93e54dc883c4e53d7ba", null ]
 ];

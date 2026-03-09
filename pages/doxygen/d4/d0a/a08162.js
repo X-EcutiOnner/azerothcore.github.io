@@ -1,5 +1,7 @@
 var a08162 =
 [
-    [ "QuestIcon", "d4/d0a/a08162.html#ad8bbfe08780eaa68a8205e2634d211b8", null ],
-    [ "QuestId", "d4/d0a/a08162.html#a522a4fcb28daec3e1a620b6f02c3d8fe", null ]
+    [ "global_sequence", "d4/d0a/a08162.html#afbd5f7baa1b1daf4dda4fe0cf503a97b", null ],
+    [ "interpolation_type", "d4/d0a/a08162.html#ac3315ce2b2261a6fd23b0c72ea34aa5e", null ],
+    [ "timestamps", "d4/d0a/a08162.html#a8bf7fdd2652275ae553b921196e68d1c", null ],
+    [ "values", "d4/d0a/a08162.html#a9d4ea5dfc36b34541e5ba7350df645e1", null ]
 ];

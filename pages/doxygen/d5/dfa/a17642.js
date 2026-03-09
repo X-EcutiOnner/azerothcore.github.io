@@ -1,8 +1,6 @@
 var a17642 =
 [
-    [ "CheckProc", "d5/dfa/a17642.html#a11620e4d645b3bfd35924700b5dad289", null ],
-    [ "HandleProc", "d5/dfa/a17642.html#aa80a032f2ec80aba36f6fe0208412587", null ],
-    [ "PrepareAuraScript", "d5/dfa/a17642.html#afe04f0cb6539238412253b63dd3c82b9", null ],
-    [ "Register", "d5/dfa/a17642.html#ac18d1d1a1d19b0dfa5cb1565377ba273", null ],
-    [ "Validate", "d5/dfa/a17642.html#ac42fe3248fadf0ecca95893e06c490ee", null ]
+    [ "HandleEffectPeriodic", "d5/dfa/a17642.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
+    [ "PrepareAuraScript", "d5/dfa/a17642.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
+    [ "Register", "d5/dfa/a17642.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
 ];

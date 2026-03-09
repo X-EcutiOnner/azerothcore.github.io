@@ -1,6 +1,7 @@
 var a20842 =
 [
-    [ "boss_thorim_ancient_rune_giantAI", "d8/d08/a20846.html", "d8/d08/a20846" ],
-    [ "boss_thorim_ancient_rune_giant", "df/d5c/a20842.html#ad87dca7c6058e4b8b1234410644523dd", null ],
-    [ "GetAI", "df/d5c/a20842.html#aa8a0ff1416d5678a5d6bb7bdc36d6617", null ]
+    [ "FilterTargets", "df/d5c/a20842.html#a582691eca81b6db6d78ca925ad8fb084", null ],
+    [ "PrepareSpellScript", "df/d5c/a20842.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
+    [ "RecalculateDamage", "df/d5c/a20842.html#a02c1af0414de344056b2375488f23c01", null ],
+    [ "Register", "df/d5c/a20842.html#a1e030067944878000b731edf456d6bc8", null ]
 ];

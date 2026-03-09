@@ -1,14 +1,8 @@
 var a05554 =
 [
-    [ "SFMTRand", "d4/d74/a05554.html#aa40843ec8c3162e4be6cbf8067f93c9b", null ],
-    [ "operator delete", "d4/d74/a05554.html#a20ef76641899ebf23ecfdfa03933d1d9", null ],
-    [ "operator delete", "d4/d74/a05554.html#ac6267ac04c03814f574a155a4a0cffcb", null ],
-    [ "operator delete[]", "d4/d74/a05554.html#a5051cdb95e18230b7fee753beb621603", null ],
-    [ "operator delete[]", "d4/d74/a05554.html#a7cfe99d3c100b6ba124b82fce756960f", null ],
-    [ "operator new", "d4/d74/a05554.html#a73dfbe0b1545b5604dfde603517efbfb", null ],
-    [ "operator new", "d4/d74/a05554.html#a3dc4f4d003c77547117ec7c31486f884", null ],
-    [ "operator new[]", "d4/d74/a05554.html#a61d2b3bc61bfa640c8b0241d09347d2b", null ],
-    [ "operator new[]", "d4/d74/a05554.html#ace8e8802bdb710f3354d3ff7d619497c", null ],
-    [ "RandomUInt32", "d4/d74/a05554.html#a8d129952ad2916419cdf54aa474c23c0", null ],
-    [ "_state", "d4/d74/a05554.html#a9bc20836138e5dd4db93f7d03a9e856b", null ]
+    [ "Decode", "d4/d74/a05554.html#aacf2a55e180aa5ee475ac76c6af4d47a", null ],
+    [ "Encode", "d4/d74/a05554.html#a51c8847dc9b75161f4d2d366324dc50f", null ],
+    [ "BITS_PER_CHAR", "d4/d74/a05554.html#a10f3736ee2ed8e79e1236798e2b1d2be", null ],
+    [ "DECODE_ERROR", "d4/d74/a05554.html#ace6b211be8a36043942f0a1aaee063b1", null ],
+    [ "PADDING", "d4/d74/a05554.html#af099d69cc636a7ad298ec9e38b2f20d2", null ]
 ];

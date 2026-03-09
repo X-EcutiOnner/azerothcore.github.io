@@ -1,6 +1,7 @@
 var a13858 =
 [
-    [ "npc_lord_gregor_lescovarAI", "db/dc4/a13862.html", "db/dc4/a13862" ],
-    [ "npc_lord_gregor_lescovar", "d2/d17/a13858.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
-    [ "GetAI", "d2/d17/a13858.html#a4cf39729bb687c7db3538575a799283e", null ]
+    [ "OnRemove", "d2/d17/a13858.html#a2438d8c85ff2a446572286b0d058ecf1", null ],
+    [ "PrepareAuraScript", "d2/d17/a13858.html#ade353aafb960cabdb615718f41f485e8", null ],
+    [ "Register", "d2/d17/a13858.html#af1c312778a13f7fe8d174247f69258ac", null ],
+    [ "Validate", "d2/d17/a13858.html#afd75cdeb9430833fa6a59d7913c86a97", null ]
 ];

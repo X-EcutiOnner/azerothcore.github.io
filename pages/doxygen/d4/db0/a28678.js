@@ -1,10 +1,8 @@
 var a28678 =
 [
-    [ "ID", "d4/db0/a28678.html#a090069d13cbbcc5762ecca600c506492", null ],
-    [ "map_id", "d4/db0/a28678.html#a685931e2a361f9e0fc81c004c7467d19", null ],
-    [ "MountCreatureID", "d4/db0/a28678.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
-    [ "name", "d4/db0/a28678.html#ae00db3ea736c3a470f6f0690c178e758", null ],
-    [ "x", "d4/db0/a28678.html#a7cbd40848094fa367862d653b0f7170d", null ],
-    [ "y", "d4/db0/a28678.html#a9380befd45cab3104003b2487464bd71", null ],
-    [ "z", "d4/db0/a28678.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
+    [ "npc_minion_spawner", "d4/db0/a28678.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
+    [ "CanSpawnRareMinion", "d4/db0/a28678.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
+    [ "JustSummoned", "d4/db0/a28678.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
+    [ "Reset", "d4/db0/a28678.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
+    [ "UpdateAI", "d4/db0/a28678.html#a24f93f1314bb73edb369e188eda83104", null ]
 ];

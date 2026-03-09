@@ -1,17 +1,18 @@
 var a12014 =
 [
-    [ "boss_drektharAI", "d2/d2c/a12014.html#a4cd7f817b3dfe457cb330e73316e18d1", null ],
-    [ "AttackStart", "d2/d2c/a12014.html#a058d9683179756e49aa4e243d270105c", null ],
-    [ "EnterEvadeMode", "d2/d2c/a12014.html#a7f8677796d1b9dbe7021c056252278d3", null ],
-    [ "JustEngagedWith", "d2/d2c/a12014.html#aea7fad4bfdc14e5526a6620ee5d3ba2e", null ],
-    [ "JustRespawned", "d2/d2c/a12014.html#aef244c80a915eaf4c1e0ff1c1080b18a", null ],
-    [ "Reset", "d2/d2c/a12014.html#a87e1f67ae379360bc0843d7bb3cd0acb", null ],
-    [ "UpdateAI", "d2/d2c/a12014.html#a79f1f0430496d2a1759ded7cca5cdef3", null ],
-    [ "Attacked", "d2/d2c/a12014.html#a6a6b5b2b00e85231441f5a8a0213e5ec", null ],
-    [ "FrenzyTimer", "d2/d2c/a12014.html#afd2d5fc6b7091fb019048d32a8b3631e", null ],
-    [ "KnockdownTimer", "d2/d2c/a12014.html#a235912a2cb78bd10b6b3a45c51ee0cff", null ],
-    [ "ResetTimer", "d2/d2c/a12014.html#a7d7b0a8d19d540e998db3b6e189cc16d", null ],
-    [ "Whirlwind2Timer", "d2/d2c/a12014.html#a788359b7f2df1794dbff643d75b2c561", null ],
-    [ "WhirlwindTimer", "d2/d2c/a12014.html#aef399775e552d7e80224fbb0c2f62aff", null ],
-    [ "YellTimer", "d2/d2c/a12014.html#ad45ea624603c427fa5b3e40cd6ba7f5d", null ]
+    [ "WardenWin", "d2/d2c/a12014.html#ace17ee6e11a0c88478dc9f24c1c7db8f", null ],
+    [ "~WardenWin", "d2/d2c/a12014.html#ac1264c71c1e6f80fa70bf1794aa41368", null ],
+    [ "ForceChecks", "d2/d2c/a12014.html#a2a0e780572b1870f692803caa1ef673d", null ],
+    [ "GetModuleForClient", "d2/d2c/a12014.html#ad5dbc585ebb22eda2e1265f14129aa5c", null ],
+    [ "HandleData", "d2/d2c/a12014.html#a9860f6b2c0beb6d730b02c99e6172690", null ],
+    [ "HandleHashResult", "d2/d2c/a12014.html#a05ab06f2a7928affab20fd1b795a2d3f", null ],
+    [ "Init", "d2/d2c/a12014.html#a3222620148b84a4d95593800a83ba3fa", null ],
+    [ "InitializeModule", "d2/d2c/a12014.html#a2082c6a634c5b1f6cb63d376ff9a9695", null ],
+    [ "IsCheckInProgress", "d2/d2c/a12014.html#aee57f10f6f4f676908c54f305210b6bc", null ],
+    [ "RequestChecks", "d2/d2c/a12014.html#a9a3e9b53f66e97a615c288058b9adcf3", null ],
+    [ "RequestHash", "d2/d2c/a12014.html#abb53eb2b1d9dc95f8e77d12d4086c6c1", null ],
+    [ "_ChecksTodo", "d2/d2c/a12014.html#a61d85f3e94cb64aedbc977c74a64e0be", null ],
+    [ "_CurrentChecks", "d2/d2c/a12014.html#a9cb49a2629d08e0f54d363f81c284425", null ],
+    [ "_PendingChecks", "d2/d2c/a12014.html#a463e1f12600b12ddf54f762093ae57f0", null ],
+    [ "_serverTicks", "d2/d2c/a12014.html#a79e969e649fa057cd3a1a835837188c6", null ]
 ];

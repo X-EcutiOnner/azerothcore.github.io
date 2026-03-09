@@ -1,7 +1,5 @@
 var a18078 =
 [
-    [ "HandleExtraEffect", "d5/d4f/a18078.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
-    [ "PrepareAuraScript", "d5/d4f/a18078.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
-    [ "Register", "d5/d4f/a18078.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
-    [ "Validate", "d5/d4f/a18078.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
+    [ "npc_zafod_boomboxAI", "d5/d4f/a18078.html#a6540d8f5787ce1da211123721ef659f3", null ],
+    [ "sGossipSelect", "d5/d4f/a18078.html#a6378748a168e4e668f696bd9c6dfbc31", null ]
 ];

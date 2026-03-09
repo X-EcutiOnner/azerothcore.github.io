@@ -1,5 +1,6 @@
 var a17326 =
 [
-    [ "at_tyrannus_event_starter", "d1/d6d/a17326.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
-    [ "OnTrigger", "d1/d6d/a17326.html#a8dcfce4cd24dbc45df987b4a9bfcbbc0", null ]
+    [ "entry", "d1/d6d/a17326.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "d1/d6d/a17326.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "d1/d6d/a17326.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

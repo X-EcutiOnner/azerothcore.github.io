@@ -1,5 +1,6 @@
 var a21230 =
 [
-    [ "AreaTrigger_at_celestial_planetarium_enterance", "de/d7a/a21230.html#ae1503a754a05a77991d9955a2fb74265", null ],
-    [ "OnTrigger", "de/d7a/a21230.html#aa7aa93e00170313de251af4e562c422c", null ]
+    [ "boss_ymironAI", "d8/df3/a21234.html", "d8/df3/a21234" ],
+    [ "boss_ymiron", "de/d7a/a21230.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
+    [ "GetAI", "de/d7a/a21230.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
 ];

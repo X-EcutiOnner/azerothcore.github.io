@@ -1,11 +1,7 @@
 var a04271 =
 [
-    [ "npc_announcer_toc10", "d6/dcb/a17112.html", "d6/dcb/a17112" ],
-    [ "MenuTexts", "d6/d4e/a04271.html#a5e87c460d493df2d4629af8c1a30fc5a", [
-      [ "MSG_TESTED", "d6/d4e/a04271.html#a5e87c460d493df2d4629af8c1a30fc5aa462de44eca88c95eb9e412dcabc36185", null ],
-      [ "MSG_NEXT_STAGE", "d6/d4e/a04271.html#a5e87c460d493df2d4629af8c1a30fc5aafb4b982343fbe7bdd8db85adec53db80", null ],
-      [ "MSG_CRUSADERS", "d6/d4e/a04271.html#a5e87c460d493df2d4629af8c1a30fc5aa0f20061fedbed395c6723105b82e091d", null ],
-      [ "MSG_ANUBARAK", "d6/d4e/a04271.html#a5e87c460d493df2d4629af8c1a30fc5aad43353382c7c2b60068aa5b306b62643", null ]
-    ] ],
-    [ "AddSC_trial_of_the_crusader", "d6/d4e/a04271.html#aae8fa1928137dde06462a753ceebcca6", null ]
+    [ "instance_trial_of_the_champion", "d7/dc2/a16826.html", "d7/dc2/a16826" ],
+    [ "instance_trial_of_the_champion::instance_trial_of_the_champion_InstanceMapScript", "d5/d1b/a16830.html", "d5/d1b/a16830" ],
+    [ "AddSC_instance_trial_of_the_champion", "d6/d4e/a04271.html#a15e8163b6e8598d38b9f8c3b0ab9d5bd", null ],
+    [ "SpawnPosition", "d6/d4e/a04271.html#a70438d12d4153aa7d510c89551abf7c9", null ]
 ];

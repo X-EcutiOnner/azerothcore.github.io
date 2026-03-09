@@ -1,5 +1,8 @@
 var a29246 =
 [
-    [ "item_petrov_cluster_bombs", "d5/d30/a29246.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "d5/d30/a29246.html#a14e8a00a532b5aebc8469ff538848f53", null ]
+    [ "Id", "d5/d30/a29246.html#a6943bf760d15b3f8af4109d131652d72", null ],
+    [ "MapId", "d5/d30/a29246.html#ab0cccd760636a3b42af693d6c483bed9", null ],
+    [ "X", "d5/d30/a29246.html#a91183890254546efeb3162173cc60dad", null ],
+    [ "Y", "d5/d30/a29246.html#a19ab4d026b45d74f006479641afbc4d3", null ],
+    [ "Z", "d5/d30/a29246.html#aaa23c59f20fc96aec148b82516f30036", null ]
 ];

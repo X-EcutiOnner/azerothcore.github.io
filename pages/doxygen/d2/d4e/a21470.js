@@ -1,6 +1,8 @@
 var a21470 =
 [
-    [ "instance_vault_of_archavon_InstanceMapScript", "db/d19/a21474.html", "db/d19/a21474" ],
-    [ "instance_vault_of_archavon", "d2/d4e/a21470.html#a0be8d95ff0f3b751e6f833689e436310", null ],
-    [ "GetInstanceScript", "d2/d4e/a21470.html#abb955a8873a3a3021e164225dd1f857a", null ]
+    [ "npc_azure_raiderAI", "d2/d4e/a21470.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
+    [ "Reset", "d2/d4e/a21470.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
+    [ "UpdateAI", "d2/d4e/a21470.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
+    [ "uiConcussionBlowTimer", "d2/d4e/a21470.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
+    [ "uiMagicReflectionTimer", "d2/d4e/a21470.html#acb262ab506ea58201abfe2057525c548", null ]
 ];

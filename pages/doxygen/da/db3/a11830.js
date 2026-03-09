@@ -1,8 +1,6 @@
 var a11830 =
 [
-    [ "CreatureCountWorker", "da/db3/a11830.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
-    [ "GetTopCreatureCount", "da/db3/a11830.html#a5d4d009b6685dd71703f96f9945a463e", null ],
-    [ "Visit", "da/db3/a11830.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
-    [ "Visit", "da/db3/a11830.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
-    [ "creatureIds", "da/db3/a11830.html#a3a6f946c40b1006164793dbaed2b3948", null ]
+    [ "EffectSplitHandler", "da/db3/a11830.html#a1e31c0f06961aba66f6737c4b4aca7f6", null ],
+    [ "Call", "da/db3/a11830.html#ae0ef79af01cce82ed3cbe208d98b325a", null ],
+    [ "pEffectHandlerScript", "da/db3/a11830.html#a181c0f987789f3725e7ba7e023cfc4e7", null ]
 ];

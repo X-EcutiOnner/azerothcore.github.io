@@ -1,6 +1,6 @@
 var a26154 =
 [
-    [ "PrepareSpellScript", "de/dca/a26154.html#a7099b8d28128cfea49288792ea02606c", null ],
-    [ "Register", "de/dca/a26154.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
-    [ "UpdateTarget", "de/dca/a26154.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
+    [ "HandleDummy", "de/dca/a26154.html#af306009f2c418e898478720b9c4ad6ab", null ],
+    [ "PrepareSpellScript", "de/dca/a26154.html#a44cb481fe93fd1c691495cc1ead35e5e", null ],
+    [ "Register", "de/dca/a26154.html#af51e3b3cbfb469fa6230a36d8d5fcec7", null ]
 ];

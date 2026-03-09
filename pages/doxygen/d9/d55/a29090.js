@@ -1,10 +1,12 @@
 var a29090 =
 [
-    [ "WDTFile", "d9/d55/a29090.html#a10c133d9b2f8d39cb6c2b3d8c2791b78", null ],
-    [ "~WDTFile", "d9/d55/a29090.html#a445fe73204fd378e2b63a83d9f5dca0a", null ],
-    [ "GetMap", "d9/d55/a29090.html#aa952c5bfe52a1aa851984a7e6dc963c9", null ],
-    [ "init", "d9/d55/a29090.html#a91a33f89cae35254f52e8c4f1c33e2cb", null ],
-    [ "_file", "d9/d55/a29090.html#a54ab64288144b9cf4904e67bb359e524", null ],
-    [ "_wmoNames", "d9/d55/a29090.html#a6ec4f95ff866585403670b620a42a857", null ],
-    [ "filename", "d9/d55/a29090.html#ab3dac8623598bac1152a514a00126bf6", null ]
+    [ "ID", "d9/d55/a29090.html#a84ba697182123cb3e7dd3ba07241e971", null ],
+    [ "maxScale", "d9/d55/a29090.html#a23ca0ae7c45790a24f58546970194abf", null ],
+    [ "maxScaleLevel", "d9/d55/a29090.html#ad5d722d74bc08d4de3edd54c2f24addb", null ],
+    [ "minScale", "d9/d55/a29090.html#a3eacdd8639c6dd25dbd3205a58860cf9", null ],
+    [ "minScaleLevel", "d9/d55/a29090.html#a49d9d7847cc4d54891d83166eb277740", null ],
+    [ "Name", "d9/d55/a29090.html#a937fc579ab2790f4a972f07d3453a762", null ],
+    [ "petFoodMask", "d9/d55/a29090.html#a4d9dd8baa3f7981633248513bb25f4ca", null ],
+    [ "petTalentType", "d9/d55/a29090.html#a802000cefb6c4d357edfc45cc291e21e", null ],
+    [ "skillLine", "d9/d55/a29090.html#ad4498d40b31d18742ee4ac235cb58a2e", null ]
 ];

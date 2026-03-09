@@ -1,9 +1,9 @@
 var a09374 =
 [
-    [ "NearestGameObjectTypeInObjectRangeCheck", "dd/d62/a09374.html#a46cde63433cf803205006ad775fe73b5", null ],
-    [ "NearestGameObjectTypeInObjectRangeCheck", "dd/d62/a09374.html#a4bf0dee77fb4979a02eebdc610995640", null ],
-    [ "operator()", "dd/d62/a09374.html#ac41947606f4344e19edb13aa58f0a5a7", null ],
-    [ "i_obj", "dd/d62/a09374.html#aca71a09421fdf412489f7f54cf4bc379", null ],
-    [ "i_range", "dd/d62/a09374.html#a37f212d5cb1ef2b8d55e19b749861a17", null ],
-    [ "i_type", "dd/d62/a09374.html#a68965425169b93053eadad91403855e0", null ]
+    [ "GridReference", "dd/d62/a09374.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
+    [ "~GridReference", "dd/d62/a09374.html#afd6a4f88eb066818afde1b752600bb12", null ],
+    [ "next", "dd/d62/a09374.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
+    [ "sourceObjectDestroyLink", "dd/d62/a09374.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
+    [ "targetObjectBuildLink", "dd/d62/a09374.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
+    [ "targetObjectDestroyLink", "dd/d62/a09374.html#ac4c863d059b5c826e9597056dc7c887a", null ]
 ];

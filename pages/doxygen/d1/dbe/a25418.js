@@ -1,5 +1,7 @@
 var a25418 =
 [
-    [ "PrepareSpellScript", "d1/dbe/a25418.html#a096abf53c6e622875c463060e986b5ef", null ],
-    [ "Register", "d1/dbe/a25418.html#a68905cc33f09dbb42db67139193530cb", null ]
+    [ "OnApply", "d1/dbe/a25418.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
+    [ "OnRemove", "d1/dbe/a25418.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
+    [ "PrepareAuraScript", "d1/dbe/a25418.html#a9a7b549e059b6bd2d22802f60e952658", null ],
+    [ "Register", "d1/dbe/a25418.html#aae603735281daf02ceca157e218d5c9f", null ]
 ];

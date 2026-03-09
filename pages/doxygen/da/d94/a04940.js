@@ -1,14 +1,8 @@
 var a04940 =
 [
-    [ "_CRT_SECURE_NO_DEPRECATE", "da/d94/a04940.html#a411c46599e926f8cdf49c63957255359", null ],
-    [ "isHole", "da/d94/a04940.html#a3a7e248f31dc8d832dc118d469a98bd4", null ],
-    [ "holetab_h", "da/d94/a04940.html#a7424dd5c858116f845a676e31fe5ae5d", null ],
-    [ "holetab_v", "da/d94/a04940.html#a2b1bf69bcdb58ff1605821d486da3acb", null ],
-    [ "MCINMagic", "da/d94/a04940.html#a6f946547b65d321100fd6efa2966180c", null ],
-    [ "MCLQMagic", "da/d94/a04940.html#a35ae9924cb4e3ad0020167b89d5ea86f", null ],
-    [ "MCNKMagic", "da/d94/a04940.html#aa2d85d3b667d3755f6f7a993e60c574b", null ],
-    [ "MCVTMagic", "da/d94/a04940.html#a32010e610a970d3891ae5effca03de37", null ],
-    [ "MFBOMagic", "da/d94/a04940.html#a329d005a0989137286469e197dc0c812", null ],
-    [ "MH2OMagic", "da/d94/a04940.html#aaeaf747e4bc5c25257f9e0ef1153b5a7", null ],
-    [ "MHDRMagic", "da/d94/a04940.html#ac97bd684dd5bacba0e790f355a3bdddf", null ]
+    [ "Vec3D", "d2/d16/a30086.html", "d2/d16/a30086" ],
+    [ "AaBox3D", "dc/dd9/a30090.html", "dc/dd9/a30090" ],
+    [ "Vec2D", "d7/d62/a30094.html", "d7/d62/a30094" ],
+    [ "Quaternion", "d2/df1/a30098.html", "d2/df1/a30098" ],
+    [ "rotate", "da/d94/a04940.html#a36f9f3de1d3e6935da68df2c6e347a4d", null ]
 ];

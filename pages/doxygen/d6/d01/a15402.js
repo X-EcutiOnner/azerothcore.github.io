@@ -1,7 +1,6 @@
 var a15402 =
 [
-    [ "FilterTargets", "d6/d01/a15402.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
-    [ "HandleOnHit", "d6/d01/a15402.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
-    [ "PrepareSpellScript", "d6/d01/a15402.html#ad7372e543391a23c003b4121e0dd8a09", null ],
-    [ "Register", "d6/d01/a15402.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
+    [ "instance_dire_maul_InstanceMapScript", "d7/d13/a15406.html", "d7/d13/a15406" ],
+    [ "instance_dire_maul", "d6/d01/a15402.html#a54ac2c7095a99481c7efbe4237533fac", null ],
+    [ "GetInstanceScript", "d6/d01/a15402.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
 ];

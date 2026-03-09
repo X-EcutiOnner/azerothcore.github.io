@@ -1,6 +1,8 @@
 var a12162 =
 [
-    [ "boss_magmusAI", "d8/da4/a12166.html", "d8/da4/a12166" ],
-    [ "boss_magmus", "d2/d85/a12162.html#a97747c0d7e1fd33204033d6061d6d570", null ],
-    [ "GetAI", "d2/d85/a12162.html#a171bc08a8dd9fa502f3b2b6cf736fd52", null ]
+    [ "honor_commandscript", "d2/d85/a12162.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
+    [ "GetCommands", "d2/d85/a12162.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
+    [ "HandleHonorAddCommand", "d2/d85/a12162.html#a03caa77b436e3d513e1325badf05df33", null ],
+    [ "HandleHonorAddKillCommand", "d2/d85/a12162.html#aec79f459796d821a032477827e16308a", null ],
+    [ "HandleHonorUpdateCommand", "d2/d85/a12162.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
 ];

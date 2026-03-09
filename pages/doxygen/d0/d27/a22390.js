@@ -1,4 +1,7 @@
 var a22390 =
 [
-    [ "npc_adventurous_dwarfAI", "d0/d27/a22390.html#af953c5fef2ea8abbf7835b0bc5cf1b23", null ]
+    [ "HandleScript", "d0/d27/a22390.html#a26eb647b6c938df3aeff7981571dc475", null ],
+    [ "PrepareSpellScript", "d0/d27/a22390.html#a10114d8fa956aabff64aa0df7708f635", null ],
+    [ "Register", "d0/d27/a22390.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
+    [ "Validate", "d0/d27/a22390.html#adb477d34d8012c6fb45c5548fc49e127", null ]
 ];

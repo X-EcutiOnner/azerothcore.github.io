@@ -1,5 +1,6 @@
 var a21362 =
 [
-    [ "npc_ritual_channelerAI", "d2/d62/a21362.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
-    [ "AttackStart", "d2/d62/a21362.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
+    [ "npc_ichor_globuleAI", "d7/d7e/a21366.html", "d7/d7e/a21366" ],
+    [ "npc_ichor_globule", "d2/d62/a21362.html#a4dbd3b057e319ba83e0e1c94b99cd2ab", null ],
+    [ "GetAI", "d2/d62/a21362.html#a4fed5ebd2e1b6ff6867a9488a6e1aef2", null ]
 ];

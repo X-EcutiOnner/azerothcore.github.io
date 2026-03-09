@@ -1,6 +1,9 @@
 var a26918 =
 [
-    [ "FilterTargets", "dd/d2f/a26918.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
-    [ "PrepareSpellScript", "dd/d2f/a26918.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
-    [ "Register", "dd/d2f/a26918.html#abe63ec69fe15fd8924fb63235489e088", null ]
+    [ "CheckProc", "dd/d2f/a26918.html#ac0e2bf5c1a96ce0502561bb6bcb6ad97", null ],
+    [ "HandleDispel", "dd/d2f/a26918.html#a64235032423050de10581165c57f8b0a", null ],
+    [ "HandleProc", "dd/d2f/a26918.html#ab1c1196f003f7ff0bf6f6eae5bd6de9a", null ],
+    [ "PrepareAuraScript", "dd/d2f/a26918.html#af7ba0eb96dca76a288dd034665822069", null ],
+    [ "Register", "dd/d2f/a26918.html#ababc8b42c64740655864d2834a639384", null ],
+    [ "Validate", "dd/d2f/a26918.html#a03ecf2489369cbb7a6dff555db153a96", null ]
 ];

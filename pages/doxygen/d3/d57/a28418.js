@@ -1,11 +1,10 @@
 var a28418 =
 [
-    [ "Displayid", "d3/d57/a28418.html#a4aa3c391401f39d6f4a595f4dff0668b", null ],
-    [ "filename", "d3/d57/a28418.html#a0cee5b90a15b39e1ff49231e332cc320", null ],
-    [ "maxX", "d3/d57/a28418.html#a10563ae885d34e516825a18db95b40e7", null ],
-    [ "maxY", "d3/d57/a28418.html#a711286df6d2bd74246dee2170052c17a", null ],
-    [ "maxZ", "d3/d57/a28418.html#acb74e32790b2c60cca5faef1caa225e4", null ],
-    [ "minX", "d3/d57/a28418.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da", null ],
-    [ "minY", "d3/d57/a28418.html#a7168f5b3229bd27edde78e88bf7dc20a", null ],
-    [ "minZ", "d3/d57/a28418.html#ac88aefc2530212b9dff10e018c4e9305", null ]
+    [ "go_evil_book_for_dummies", "d3/d57/a28418.html#a69f599910bce0070c6b1af547c459b72", null ],
+    [ "HasLeatherSpecialty", "d3/d57/a28418.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
+    [ "OnGossipHello", "d3/d57/a28418.html#aeb29351e2faf135298419488eb16cc7e", null ],
+    [ "OnGossipSelect", "d3/d57/a28418.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
+    [ "SendActionMenu", "d3/d57/a28418.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
+    [ "SendConfirmLearn", "d3/d57/a28418.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
+    [ "SendConfirmUnlearn", "d3/d57/a28418.html#af9c10b0423327d8644020e8f5e26a603", null ]
 ];

@@ -1,5 +1,5 @@
 var a04685 =
 [
-    [ "server_commandscript", "d6/d91/a12240.html", "d6/d91/a12240" ],
-    [ "AddSC_server_commandscript", "d7/d47/a04685.html#aaa97392c09b5045a6040d75b224bdf22", null ]
+    [ "go_commandscript", "df/d9d/a12146.html", "df/d9d/a12146" ],
+    [ "AddSC_go_commandscript", "d7/d47/a04685.html#a95fcb467686a27e069827ed3775df197", null ]
 ];

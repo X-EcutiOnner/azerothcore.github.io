@@ -1,14 +1,15 @@
 var a13326 =
 [
-    [ "boss_apothecary_hummelAI", "dd/d3d/a13326.html#a75796eb8dc83729f2f726ff51317bd66", null ],
-    [ "DamageTaken", "dd/d3d/a13326.html#a2af77fbe7f089b5da20d2ff693cfcedf", null ],
-    [ "DoAction", "dd/d3d/a13326.html#a03fb543ba20f92d5528bf4667c457631", null ],
-    [ "JustDied", "dd/d3d/a13326.html#a3c7bc5f9aa04f155debbdacafed6163d", null ],
-    [ "Reset", "dd/d3d/a13326.html#a31381343d2533af670941baf872b3635", null ],
-    [ "sGossipSelect", "dd/d3d/a13326.html#a1a9953c37286fd40c0aa0eebfec3eb86", null ],
-    [ "SummonedCreatureDies", "dd/d3d/a13326.html#a8947cbd1c2856334a0d6529bc664f71b", null ],
-    [ "UpdateAI", "dd/d3d/a13326.html#a61e4d85ecd592142ba07588512505990", null ],
-    [ "_deadCount", "dd/d3d/a13326.html#aaac2018e16b80997f884745732605559", null ],
-    [ "_isDead", "dd/d3d/a13326.html#aa3c37a38b95c6b3bec4e3b787d2155df", null ],
-    [ "_phase", "dd/d3d/a13326.html#a951d68d4e645860cdb5c5e348bf1fff4", null ]
+    [ "npc_image_of_medivhAI", "dd/d3d/a13326.html#a1afe3245dc18db3c0bf6801b5ca20d31", null ],
+    [ "JustEngagedWith", "dd/d3d/a13326.html#a1013be426b3567d8cbd1c45debc914c5", null ],
+    [ "NextStep", "dd/d3d/a13326.html#a87160b37ba61af4866fe3f410813fe9f", null ],
+    [ "Reset", "dd/d3d/a13326.html#af2e7dd7f1038bb5662fe7375a7e052c4", null ],
+    [ "UpdateAI", "dd/d3d/a13326.html#a321d689d645b4630e2e93e6251d5130c", null ],
+    [ "ArcanagosGUID", "dd/d3d/a13326.html#a877c693b6ac736aa874926d8efe0d79a", null ],
+    [ "ATimer", "dd/d3d/a13326.html#a28aef0767b6adb0ccf0479dd50dc11a8", null ],
+    [ "EventStarted", "dd/d3d/a13326.html#a9a662b435218a3e13ca58eb4a6b3af86", null ],
+    [ "instance", "dd/d3d/a13326.html#a2e02aa8d441426aa51f46121eec0becb", null ],
+    [ "MTimer", "dd/d3d/a13326.html#a16c3f6d5bd1cc288590bd096233e0bfb", null ],
+    [ "Step", "dd/d3d/a13326.html#a9d7b9bdcf9e185284dba5251a0deb0b3", null ],
+    [ "YellTimer", "dd/d3d/a13326.html#a34ad7cabe4cb86e23deb30ca0ce77db0", null ]
 ];

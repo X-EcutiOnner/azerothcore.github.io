@@ -1,6 +1,7 @@
 var a14714 =
 [
-    [ "HandleDummy", "da/d7a/a14714.html#a5e0797e5af760b618b1498f405766de8", null ],
-    [ "PrepareSpellScript", "da/d7a/a14714.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
-    [ "Register", "da/d7a/a14714.html#a2254e486bda73e07f8327c3412c7852b", null ]
+    [ "FilterTargets", "da/d7a/a14714.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
+    [ "HandleDummyEffect", "da/d7a/a14714.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
+    [ "PrepareSpellScript", "da/d7a/a14714.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
+    [ "Register", "da/d7a/a14714.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
 ];

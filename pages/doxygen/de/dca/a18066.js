@@ -1,7 +1,6 @@
 var a18066 =
 [
-    [ "HandleTriggerSpell", "de/dca/a18066.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
-    [ "PrepareAuraScript", "de/dca/a18066.html#afff0c81696ddcb427ce105d510ef93b1", null ],
-    [ "Register", "de/dca/a18066.html#aa50c6066115d7b60704eff48e77d10bd", null ],
-    [ "Validate", "de/dca/a18066.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
+    [ "npc_muradin_bronzebeard_igbAI", "d0/dc5/a18070.html", "d0/dc5/a18070" ],
+    [ "npc_muradin_bronzebeard_igb", "de/dca/a18066.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
+    [ "GetAI", "de/dca/a18066.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
 ];

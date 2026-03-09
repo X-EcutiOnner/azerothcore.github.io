@@ -1,7 +1,7 @@
 var a25442 =
 [
-    [ "OnApply", "db/d08/a25442.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
-    [ "OnRemove", "db/d08/a25442.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
-    [ "PrepareAuraScript", "db/d08/a25442.html#a9a7b549e059b6bd2d22802f60e952658", null ],
-    [ "Register", "db/d08/a25442.html#aae603735281daf02ceca157e218d5c9f", null ]
+    [ "ModDest", "db/d08/a25442.html#afe0fb68de61a657ce6900e71973e4d77", null ],
+    [ "ModifyCookingSkill", "db/d08/a25442.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
+    [ "PrepareSpellScript", "db/d08/a25442.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
+    [ "Register", "db/d08/a25442.html#a6919079b43a816eb601a68c51ad39794", null ]
 ];

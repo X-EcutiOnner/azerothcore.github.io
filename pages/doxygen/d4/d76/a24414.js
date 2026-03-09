@@ -1,6 +1,9 @@
 var a24414 =
 [
-    [ "npc_illidari_spawnAI", "d7/de1/a24418.html", "d7/de1/a24418" ],
-    [ "npc_illidari_spawn", "d4/d76/a24414.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
-    [ "GetAI", "d4/d76/a24414.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
+    [ "npc_pet_gen_fetch_ball", "d4/d76/a24414.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
+    [ "IsSummonedBy", "d4/d76/a24414.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
+    [ "SpellHitTarget", "d4/d76/a24414.html#a87bdded236f6584d9b71507a1253f7d0", null ],
+    [ "UpdateAI", "d4/d76/a24414.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
+    [ "checkTimer", "d4/d76/a24414.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
+    [ "targetGUID", "d4/d76/a24414.html#ae474374af7c2270e218ed236d90c789c", null ]
 ];

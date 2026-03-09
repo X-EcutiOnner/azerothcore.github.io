@@ -1,7 +1,7 @@
 var a27842 =
 [
-    [ "npc_steam_tonkAI", "da/dc6/a27842.html#a64bc74af412304d50526e5c93e01a333", null ],
-    [ "JustEngagedWith", "da/dc6/a27842.html#a95b023adf0a2e62788e0d5646b17b319", null ],
-    [ "OnPossess", "da/dc6/a27842.html#a954208c1a9826ae84a7402f59e1d7055", null ],
-    [ "Reset", "da/dc6/a27842.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
+    [ "HandleDummy", "da/dc6/a27842.html#a0eae8fe2faee05bad7a34e84dddd3317", null ],
+    [ "PrepareSpellScript", "da/dc6/a27842.html#a24634405a8d0ccdd22f4832815262446", null ],
+    [ "Register", "da/dc6/a27842.html#a3394b9b9e5899550251d553ac9f77f8a", null ],
+    [ "Validate", "da/dc6/a27842.html#ae56a900b3484fd6397d38c4ad8efe5c2", null ]
 ];

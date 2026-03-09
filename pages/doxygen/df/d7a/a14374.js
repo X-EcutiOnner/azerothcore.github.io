@@ -1,11 +1,16 @@
 var a14374 =
 [
-    [ "npc_dark_iron_attack_mole_machine", "df/d7a/a14374.html#a473a8fb4905e5d1333196797d7d0f371", null ],
-    [ "AttackStart", "df/d7a/a14374.html#a999dd932fbaf22a8275dfdba150c3291", null ],
-    [ "JustEngagedWith", "df/d7a/a14374.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
-    [ "MoveInLineOfSight", "df/d7a/a14374.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
-    [ "Reset", "df/d7a/a14374.html#a0727aab751ddfbd94ae070e60e47e768", null ],
-    [ "UpdateAI", "df/d7a/a14374.html#a1217ed510a846d011143ae0a386c6236", null ],
-    [ "goTimer", "df/d7a/a14374.html#a8686845ebef564c9fcaa115866c99749", null ],
-    [ "summonTimer", "df/d7a/a14374.html#a4713da02f4a86547a0f796167e24d8bb", null ]
+    [ "boss_zuljin", "df/d7a/a14374.html#a8acdf347d7f982c07614c89a101daae0", null ],
+    [ "EnterEvadeMode", "df/d7a/a14374.html#a1b3da85aa5f4abac16256aa691d035a3", null ],
+    [ "EnterPhase", "df/d7a/a14374.html#ae9970dba905b947a22c4ddf36bdcb656", null ],
+    [ "GetGUID", "df/d7a/a14374.html#a29548891ef8efaa5d6baa384e7b9000a", null ],
+    [ "JustDied", "df/d7a/a14374.html#a2e00e8311c0463a37de87668882ffeec", null ],
+    [ "JustEngagedWith", "df/d7a/a14374.html#ab6854461a5116e94c9f0ca971a3f89ef", null ],
+    [ "KilledUnit", "df/d7a/a14374.html#adf220cb760b77cfd09ed746705529064", null ],
+    [ "MovementInform", "df/d7a/a14374.html#a61501941861f8838392fc8cdbe59feff", null ],
+    [ "Reset", "df/d7a/a14374.html#a2fe7c0338eb4698cc0aae252f4b14f02", null ],
+    [ "SpawnAdds", "df/d7a/a14374.html#a83eb0799a25f19eedddd96e609134778", null ],
+    [ "SpellHitTarget", "df/d7a/a14374.html#aab3558edc5b90be23040077d88e21725", null ],
+    [ "_chargeTargetGUID", "df/d7a/a14374.html#a3b26fe2e82019ea5ce110d2d0a78f47e", null ],
+    [ "_nextPhase", "df/d7a/a14374.html#a4fc9983cb34313affa56c243a4164a4a", null ]
 ];

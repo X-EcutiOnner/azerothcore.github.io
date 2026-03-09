@@ -1,7 +1,10 @@
 var a29370 =
 [
-    [ "npc_riggle_bassbaitAI", "df/d43/a29370.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "df/d43/a29370.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "df/d43/a29370.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "df/d43/a29370.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "attackSpeed", "df/d43/a29370.html#ab5242f7367e8799a556176178c72fc88", null ],
+    [ "creatureType", "df/d43/a29370.html#a3dff9074b85261932ed8a8a550c5395b", null ],
+    [ "flags1", "df/d43/a29370.html#a026745f2ce754d754858d69ee219b518", null ],
+    [ "ID", "df/d43/a29370.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
+    [ "modelID_A", "df/d43/a29370.html#a86dfa61342583d920b7d8496bce4b49d", null ],
+    [ "modelID_H", "df/d43/a29370.html#a1ee597d6fd02507b682874929645e01d", null ],
+    [ "stanceSpell", "df/d43/a29370.html#a08f54b905e905fb5a59e449f8c613c08", null ]
 ];

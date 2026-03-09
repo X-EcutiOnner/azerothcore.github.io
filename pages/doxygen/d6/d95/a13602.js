@@ -1,6 +1,7 @@
 var a13602 =
 [
-    [ "HandlePeriodic", "d6/d95/a13602.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
-    [ "PrepareAuraScript", "d6/d95/a13602.html#a2722b97e12e9371745d7f38504d9efdf", null ],
-    [ "Register", "d6/d95/a13602.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
+    [ "HandleScript", "d6/d95/a13602.html#a6ce169d6c1b106195f787b52ea433311", null ],
+    [ "PrepareSpellScript", "d6/d95/a13602.html#a4f71583df2193274365944e6d228247c", null ],
+    [ "Register", "d6/d95/a13602.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
+    [ "Validate", "d6/d95/a13602.html#a51025308f88001f1f66d7f68f174f325", null ]
 ];

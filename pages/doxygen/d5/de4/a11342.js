@@ -1,6 +1,6 @@
 var a11342 =
 [
-    [ "WorldObjectSpellConeTargetCheck", "d5/de4/a11342.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
-    [ "operator()", "d5/de4/a11342.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
-    [ "_coneAngle", "d5/de4/a11342.html#a8f946789292320ea8b205dec5d1e1975", null ]
+    [ "PetStopAttack", "d5/de4/a11342.html#a4a68127f3290d4f2e288600757dd3282", null ],
+    [ "Read", "d5/de4/a11342.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
+    [ "PetGUID", "d5/de4/a11342.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
 ];

@@ -1,14 +1,10 @@
 var a22806 =
 [
-    [ "boss_nexusprince_shaffar", "d7/dde/a22806.html#a2e861fb53bca7a40e967971b5e7be533", null ],
-    [ "JustDied", "d7/dde/a22806.html#abf2fef0888bced83511883027bf4d500", null ],
-    [ "JustEngagedWith", "d7/dde/a22806.html#af28242e0c0f2dcbfb2fb16514d912200", null ],
-    [ "JustSummoned", "d7/dde/a22806.html#a576240b46ce0988f0ef86e1460c831ef", null ],
-    [ "KilledUnit", "d7/dde/a22806.html#ad5dd5ab4178d968146e2205e60c49d07", null ],
-    [ "MoveInLineOfSight", "d7/dde/a22806.html#a71e501225d88851210d2e0e58de27f99", null ],
-    [ "Reset", "d7/dde/a22806.html#a35db119f5351a8ef9bef4588cbdd83cf", null ],
-    [ "SummonedCreatureDespawn", "d7/dde/a22806.html#ab806564e96708ca12f444249abd3c88c", null ],
-    [ "UpdateAI", "d7/dde/a22806.html#a147500575a3821262ec718ec023b458c", null ],
-    [ "HasTaunted", "d7/dde/a22806.html#aa7d55363fe9a326dc86bd4f4076d12ab", null ],
-    [ "summons", "d7/dde/a22806.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a", null ]
+    [ "boss_illidari_council", "d7/dde/a22806.html#a078c36be39b377f6d1cdbf061d70270d", null ],
+    [ "AttackStart", "d7/dde/a22806.html#a260b15ec58164f17543aa044a89875a8", null ],
+    [ "DamageTaken", "d7/dde/a22806.html#af8e88c307efaba392cc2a1d2f3862078", null ],
+    [ "DoAction", "d7/dde/a22806.html#a6c3c57523ed2775ba553af1171b46463", null ],
+    [ "EnterEvadeMode", "d7/dde/a22806.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
+    [ "MoveInLineOfSight", "d7/dde/a22806.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
+    [ "UpdateAI", "d7/dde/a22806.html#a8b30df956aa4ce1727756f1d19e151be", null ]
 ];

@@ -1,14 +1,18 @@
 var a00593 =
 [
-    [ "SpellProcTargetResolutionTest", "da/d5f/a29768.html", null ],
-    [ "ResolveProcTriggerTarget", "d2/da3/a00593.html#ae0ceced3da7b46834d403b94be7bd498", null ],
-    [ "TEST_F", "d2/da3/a00593.html#a94bb580a1521b12b0dc26d91b4d9e3ca", null ],
-    [ "TEST_F", "d2/da3/a00593.html#adc4f7536f5fbc531ee25c5e2e8aa823c", null ],
-    [ "TEST_F", "d2/da3/a00593.html#a6349a6956dcb722f54714e939b3ccb12", null ],
-    [ "TEST_F", "d2/da3/a00593.html#a8d1c35ebc225b6f64d08e5748e6adbfe", null ],
-    [ "TEST_F", "d2/da3/a00593.html#ac01a72b5a8b9e24ce8306b05cca87dbb", null ],
-    [ "TEST_F", "d2/da3/a00593.html#adc3e9713f51dc9d0659472c769da1073", null ],
-    [ "TEST_F", "d2/da3/a00593.html#a65154972e92d7ebcbd52504ba1d20322", null ],
-    [ "FAKE_ENEMY", "d2/da3/a00593.html#a44641e393e88c869080a70e5d49c017c", null ],
-    [ "FAKE_ROGUE", "d2/da3/a00593.html#aa56828182e47a5c051cfcc0318167b79", null ]
+    [ "WildGrowthTickScalingTest", "df/d63/a29846.html", null ],
+    [ "CalcAllTicks", "d2/da3/a00593.html#a7d72b7a206fea0eaa814a190c35a0e29", null ],
+    [ "CalcPct", "d2/da3/a00593.html#a95e4d56dd3e5ff9502c8bb2627784cd5", null ],
+    [ "CalcWildGrowthTickAmount", "d2/da3/a00593.html#addfd88f5be5daae3a078cbade7aed80e", null ],
+    [ "TEST_F", "d2/da3/a00593.html#a9d52bfcc939885d06058fd6bf5d53c2c", null ],
+    [ "TEST_F", "d2/da3/a00593.html#aa504cc9a356860eb165f182559c176a5", null ],
+    [ "TEST_F", "d2/da3/a00593.html#a782bf6635bb8ed38811c7267570bbc89", null ],
+    [ "TEST_F", "d2/da3/a00593.html#a2aa08e1fb8bf70cf536d6b6bcd66ff1d", null ],
+    [ "TEST_F", "d2/da3/a00593.html#ad88848d6f6a3aac255bc69c9fe088035", null ],
+    [ "TEST_F", "d2/da3/a00593.html#a5baa77f7a4dcc6d8040eab8d54e78de4", null ],
+    [ "TEST_F", "d2/da3/a00593.html#ad78da13617963af6adeadcec4d175082", null ],
+    [ "TEST_F", "d2/da3/a00593.html#ade248bfbf5bb17e3ab46f8d2276b3ba8", null ],
+    [ "TEST_F", "d2/da3/a00593.html#a476b6f58d0b66ce6fce645271bac47d7", null ],
+    [ "DEFAULT_REDUCTION", "d2/da3/a00593.html#ae0cd8a076081c01395db37925ee7e3f5", null ],
+    [ "TOTAL_TICKS", "d2/da3/a00593.html#a7748fbc7dddd525998e933e79311736a", null ]
 ];

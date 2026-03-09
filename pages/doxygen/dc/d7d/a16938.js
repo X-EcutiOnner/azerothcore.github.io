@@ -1,7 +1,7 @@
 var a16938 =
 [
-    [ "HandleScriptEffect", "dc/d7d/a16938.html#a667e50b01f431dba025f692484f6e7ba", null ],
-    [ "PrepareSpellScript", "dc/d7d/a16938.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
-    [ "Register", "dc/d7d/a16938.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
-    [ "Validate", "dc/d7d/a16938.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
+    [ "npc_toc_shadow_priestAI", "dc/d7d/a16938.html#af13a18be542fb314c19af52f89d216b8", null ],
+    [ "myCanCast", "dc/d7d/a16938.html#a83422ff3e140b57a484d98876a9a8070", null ],
+    [ "UpdateAI", "dc/d7d/a16938.html#afc23ba15d3ee925212e77b5211504c2b", null ],
+    [ "events", "dc/d7d/a16938.html#a31665a22920b416d7423958a3e2928ec", null ]
 ];

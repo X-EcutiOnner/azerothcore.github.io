@@ -1,7 +1,6 @@
 var a18178 =
 [
-    [ "HandleScript", "df/d3d/a18178.html#a802f667b20bccd3395c233482aa2485b", null ],
-    [ "PrepareSpellScript", "df/d3d/a18178.html#ad371e6387d5df422eaa05acc9efe2f46", null ],
-    [ "Register", "df/d3d/a18178.html#a730fded490df68f501010f952ceea40b", null ],
-    [ "Validate", "df/d3d/a18178.html#a8ec4a10d4d3c348029256fec28a19ed6", null ]
+    [ "HandlePeriodicTick", "df/d3d/a18178.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
+    [ "PrepareAuraScript", "df/d3d/a18178.html#a9962029ce4a5223d7aa05068e8d83326", null ],
+    [ "Register", "df/d3d/a18178.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
 ];

@@ -1,5 +1,7 @@
 var a01784 =
 [
-    [ "DispelList", "d6/d3d/a01784.html#a711d5a2b2f8cbeb49153d9e33ea51bf1", null ],
-    [ "SpellEffects", "d6/d3d/a01784.html#a294b5954f08aebdafe9e5a6f00e2dc82", null ]
+    [ "AuraApplication", "d7/dc0/a11562.html", "d7/dc0/a11562" ],
+    [ "Aura", "d5/da0/a11566.html", "d5/da0/a11566" ],
+    [ "UnitAura", "db/d6c/a11570.html", "db/d6c/a11570" ],
+    [ "DynObjAura", "d1/df1/a11574.html", "d1/df1/a11574" ]
 ];

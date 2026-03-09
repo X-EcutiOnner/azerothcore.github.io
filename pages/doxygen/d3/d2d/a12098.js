@@ -1,6 +1,8 @@
 var a12098 =
 [
-    [ "boss_anubshiahAI", "dc/d62/a12102.html", "dc/d62/a12102" ],
-    [ "boss_anubshiah", "d3/d2d/a12098.html#a7176d98f966dac62f7ac1a10d3f2afa1", null ],
-    [ "GetAI", "d3/d2d/a12098.html#a157420b5f0c4c05e7dc2ee327ef81cb9", null ]
+    [ "cache_commandscript", "d3/d2d/a12098.html#a709e1d02632aed18113c1adb52e962b5", null ],
+    [ "GetCommands", "d3/d2d/a12098.html#ae62aed5b701a408460d8fedcd08bb3a4", null ],
+    [ "HandleCacheDeleteCommand", "d3/d2d/a12098.html#a9ee0f4aceb031ad1c6b1870320fca88b", null ],
+    [ "HandleCacheInfoCommand", "d3/d2d/a12098.html#aa9bce5578450a35909a4e481bc21867f", null ],
+    [ "HandleCacheRefreshCommand", "d3/d2d/a12098.html#abf02cad15dabdcc5ed3df1fab0e87b6f", null ]
 ];

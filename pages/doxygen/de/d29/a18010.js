@@ -1,6 +1,7 @@
 var a18010 =
 [
-    [ "PrepareSpellScript", "de/d29/a18010.html#a9041ce6139de9a48621d6898ddcca673", null ],
-    [ "RecalculateDamage", "de/d29/a18010.html#abfb7c002577a59864fb2aa069b713c0a", null ],
-    [ "Register", "de/d29/a18010.html#a4308449e8cbe7ed59598a837024141cb", null ]
+    [ "HandleScript", "de/d29/a18010.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
+    [ "PrepareSpellScript", "de/d29/a18010.html#a8f668b88a41585cabeace574b30b4f85", null ],
+    [ "Register", "de/d29/a18010.html#a8fae161a91fae297b99079bde218ced8", null ],
+    [ "Validate", "de/d29/a18010.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
 ];

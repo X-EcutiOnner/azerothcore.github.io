@@ -1,18 +1,23 @@
 var a02783 =
 [
-    [ "OutdoorPvPSI", "d8/de8/a22496.html", "d8/de8/a22496" ],
-    [ "OutdoorPvPSISpells", "d7/d69/a02783.html#a62a8c4b8a007cc2da63e91f039a9b0f5", [
-      [ "SI_SILITHYST_FLAG_GO_SPELL", "d7/d69/a02783.html#a62a8c4b8a007cc2da63e91f039a9b0f5add71e365726ced6250de08c4c883f055", null ],
-      [ "SI_SILITHYST_FLAG", "d7/d69/a02783.html#a62a8c4b8a007cc2da63e91f039a9b0f5a1bf0ed27bacc509ec19e1648e1a9ec74", null ],
-      [ "SI_TRACES_OF_SILITHYST", "d7/d69/a02783.html#a62a8c4b8a007cc2da63e91f039a9b0f5a8f61c4e11367451aa4b95455a9086410", null ],
-      [ "SI_CENARION_FAVOR", "d7/d69/a02783.html#a62a8c4b8a007cc2da63e91f039a9b0f5a113a47f651228b031a6d40c36d34d2fb", null ]
-    ] ],
-    [ "OutdoorPvPSIBuffZones", "d7/d69/a02783.html#a155bfb73bcc562d8eaaa4d62d52e59bc", null ],
-    [ "OutdoorPvPSIBuffZonesNum", "d7/d69/a02783.html#aaf633cff2fc1b3449acb7753f698c4d4", null ],
-    [ "SI_AREATRIGGER_A", "d7/d69/a02783.html#aca1406dea9e721dc32c834e8b85b2d9a", null ],
-    [ "SI_AREATRIGGER_H", "d7/d69/a02783.html#abb17804eb9913c298a5dae804e1c7206", null ],
-    [ "SI_MAX_RESOURCES", "d7/d69/a02783.html#a9558d0ea12ff1048686daf5bf0ff999c", null ],
-    [ "SI_SILITHYST_MOUND", "d7/d69/a02783.html#a5a6a1265e5e65971f8d86be718ea3bb3", null ],
-    [ "SI_TURNIN_QUEST_CM_A", "d7/d69/a02783.html#a18c47c74867642b4bd8cc166d9fe1e79", null ],
-    [ "SI_TURNIN_QUEST_CM_H", "d7/d69/a02783.html#ad1787da9136bc956357571149e1f6b60", null ]
+    [ "AddSC_achievement_scripts", "d7/d69/a02783.html#a5091d6f933800f3313078304ad5c38ca", null ],
+    [ "AddSC_action_ip_logger", "d7/d69/a02783.html#a530be5efb251d5ca58e97804e48ad953", null ],
+    [ "AddSC_areatrigger_scripts", "d7/d69/a02783.html#a992f2da647f1f8748c7c9239b52079ad", null ],
+    [ "AddSC_chat_log", "d7/d69/a02783.html#ae796ad81a78a552e5c31fcf6c5c135fa", null ],
+    [ "AddSC_emerald_dragons", "d7/d69/a02783.html#aabef9c5c7a434027ce4d3af6e2b77430", null ],
+    [ "AddSC_generic_creature", "d7/d69/a02783.html#a50f66c4d6429b38157e35a75a0daa31d", null ],
+    [ "AddSC_go_scripts", "d7/d69/a02783.html#a279b19d9fff015d16fc8bbd2fbc9325a", null ],
+    [ "AddSC_guards", "d7/d69/a02783.html#acba582cbc90c710c629dd30926acdca4", null ],
+    [ "AddSC_item_scripts", "d7/d69/a02783.html#a3e28ebf5a580887bb117f786689a34c6", null ],
+    [ "AddSC_npc_innkeeper", "d7/d69/a02783.html#a3ffce1ea6cca981888af85ba67364df9", null ],
+    [ "AddSC_npc_professions", "d7/d69/a02783.html#a428ec531a2dc4e479b5c73e0d0694091", null ],
+    [ "AddSC_npc_stave_of_ancients", "d7/d69/a02783.html#a81e200e5d045a2403cd76a0559a6fd8c", null ],
+    [ "AddSC_npc_taxi", "d7/d69/a02783.html#a36f8a13e2844278c955f3a8155e7a11c", null ],
+    [ "AddSC_npcs_special", "d7/d69/a02783.html#aac822f73be6c9bf1dfaa4bbaec0e5aef", null ],
+    [ "AddSC_player_scripts", "d7/d69/a02783.html#a1f476a8466c12651b57fd55bf13b9617", null ],
+    [ "AddSC_scourge_invasion", "d7/d69/a02783.html#a5e9656f80b8e7b4176a6271aadc2d8e7", null ],
+    [ "AddSC_server_mail", "d7/d69/a02783.html#a8c20fa2f42eb423e39f2aaafe8fadafc", null ],
+    [ "AddSC_suns_reach_reclamation", "d7/d69/a02783.html#ae3e186d64e39803c404f1afb2144557b", null ],
+    [ "AddSC_transport_zeppelins", "d7/d69/a02783.html#a29051596b0a3382db98c6b72f7ff3173", null ],
+    [ "AddWorldScripts", "d7/d69/a02783.html#a5e7b18db76511725a47c51e9ce748575", null ]
 ];

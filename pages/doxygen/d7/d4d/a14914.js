@@ -1,6 +1,8 @@
 var a14914 =
 [
-    [ "boss_epochAI", "da/d7c/a14918.html", "da/d7c/a14918" ],
-    [ "boss_epoch", "d7/d4d/a14914.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
-    [ "GetAI", "d7/d4d/a14914.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
+    [ "npc_hallows_end_train_fire", "d7/d4d/a14914.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
+    [ "Reset", "d7/d4d/a14914.html#afdda52e0adce23f56fa9d1357469a17d", null ],
+    [ "SpellHit", "d7/d4d/a14914.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
+    [ "UpdateAI", "d7/d4d/a14914.html#a686a565e1743c31166d8d57f67a0adce", null ],
+    [ "timer", "d7/d4d/a14914.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
 ];

@@ -1,7 +1,10 @@
 var a17674 =
 [
-    [ "npc_icc_blood_beastAI", "d3/d2b/a17674.html#af52eff9f66451444c5acba6930c1bff6", null ],
-    [ "DoAction", "d3/d2b/a17674.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
-    [ "UpdateAI", "d3/d2b/a17674.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
-    [ "timer1", "d3/d2b/a17674.html#a1074059162f818088808795119f081be", null ]
+    [ "boss_drakkari_elementalAI", "d3/d2b/a17674.html#aad8f28b7e45a7897cb758dff90aa46d8", null ],
+    [ "DoAction", "d3/d2b/a17674.html#afc16e2da1f40ec0c0257e3bedc04c8a7", null ],
+    [ "JustDied", "d3/d2b/a17674.html#aec2878e51a12749914e3a30c0ddea900", null ],
+    [ "JustEngagedWith", "d3/d2b/a17674.html#a75cbf6a164ab4337f86b600541c563f2", null ],
+    [ "Reset", "d3/d2b/a17674.html#a3a0cd44c30eacac26bcfd1bbe2a18086", null ],
+    [ "UpdateAI", "d3/d2b/a17674.html#adb9ad99bc784a76da238ed2ee694d4f2", null ],
+    [ "events", "d3/d2b/a17674.html#abd9bef8fd2bd10a520d9569351bd925b", null ]
 ];

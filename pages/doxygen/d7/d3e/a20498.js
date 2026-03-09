@@ -1,9 +1,7 @@
 var a20498 =
 [
-    [ "HandleEffectPeriodic", "d7/d3e/a20498.html#adc6e83abb52a21528c07a1d989818dcf", null ],
-    [ "OnApply", "d7/d3e/a20498.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
-    [ "OnRemove", "d7/d3e/a20498.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
-    [ "PrepareAuraScript", "d7/d3e/a20498.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
-    [ "Register", "d7/d3e/a20498.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
-    [ "Validate", "d7/d3e/a20498.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
+    [ "HandleEffectPeriodic", "d7/d3e/a20498.html#af6c50396e9b47cd909184aea80244728", null ],
+    [ "PrepareAuraScript", "d7/d3e/a20498.html#aeb41825334049c8e3a39b48cbf271477", null ],
+    [ "Register", "d7/d3e/a20498.html#aaa44ceb54aa928c4436120f435bcdc4b", null ],
+    [ "Validate", "d7/d3e/a20498.html#a0098e4949fc75b1a2464128f4df869aa", null ]
 ];

@@ -1,6 +1,8 @@
 var a27022 =
 [
-    [ "HandleBanish", "dd/d9c/a27022.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "dd/d9c/a27022.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "dd/d9c/a27022.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "HandleDummy", "dd/d9c/a27022.html#ae396c96647e36da357bdc70e11e3145f", null ],
+    [ "Load", "dd/d9c/a27022.html#a2b4811bf7e60361e13bc382e62173cee", null ],
+    [ "PrepareSpellScript", "dd/d9c/a27022.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
+    [ "Register", "dd/d9c/a27022.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
+    [ "count", "dd/d9c/a27022.html#a73358b2272ad12faef006b1ef633cac0", null ]
 ];

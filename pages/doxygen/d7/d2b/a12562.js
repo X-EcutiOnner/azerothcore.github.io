@@ -1,6 +1,8 @@
 var a12562 =
 [
-    [ "boss_baron_geddonAI", "d4/d95/a12566.html", "d4/d95/a12566" ],
-    [ "boss_baron_geddon", "d7/d2b/a12562.html#ad72caf30219b4295c0be4289b9d25498", null ],
-    [ "GetAI", "d7/d2b/a12562.html#a8f328680a5f99fb275cb0b3e8adf9c63", null ]
+    [ "boss_highlordomokkAI", "d7/d2b/a12562.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
+    [ "JustDied", "d7/d2b/a12562.html#ac7e125b4350880d3d195b915c8be9de0", null ],
+    [ "JustEngagedWith", "d7/d2b/a12562.html#a072dc582f931deb7d1e0db9ad535f146", null ],
+    [ "Reset", "d7/d2b/a12562.html#a627390013798de7a53a95817624417e3", null ],
+    [ "UpdateAI", "d7/d2b/a12562.html#a38e6008d616131d2876ae5a085a083ff", null ]
 ];

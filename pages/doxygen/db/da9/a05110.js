@@ -1,6 +1,6 @@
 var a05110 =
 [
-    [ "TriBoundFunc", "db/da9/a05110.html#a42711c10595c048420a09e35e3345229", null ],
-    [ "operator()", "db/da9/a05110.html#a026d443e9156f884a21351700b6c69dd", null ],
-    [ "vertices", "db/da9/a05110.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb", null ]
+    [ "Resolver", "db/da9/a05110.html#ad1a3a95744d64df722a6fb4b267316e6", null ],
+    [ "Resolve", "db/da9/a05110.html#ab190f885c84753fe65405db6fb04bf7c", null ],
+    [ "_impl", "db/da9/a05110.html#a08ed9183a6338606524c44f0fd5695a0", null ]
 ];

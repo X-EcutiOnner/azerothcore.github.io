@@ -1,12 +1,9 @@
 var a11578 =
 [
-    [ "CreatureTextBuilder", "db/d39/a11578.html#a582eed3ab284675e72261a1db9808925", null ],
-    [ "operator()", "db/d39/a11578.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
-    [ "_gender", "db/d39/a11578.html#a615c3046f749bf44b036958fb1a50128", null ],
-    [ "_language", "db/d39/a11578.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
-    [ "_msgType", "db/d39/a11578.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
-    [ "_source", "db/d39/a11578.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
-    [ "_target", "db/d39/a11578.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
-    [ "_textGroup", "db/d39/a11578.html#afcd842c1482980c6232f3f19d21a1481", null ],
-    [ "_textId", "db/d39/a11578.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
+    [ "SpellEvent", "db/d39/a11578.html#abca64eb7d39df9788cef9df7e8634368", null ],
+    [ "~SpellEvent", "db/d39/a11578.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
+    [ "Abort", "db/d39/a11578.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
+    [ "Execute", "db/d39/a11578.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
+    [ "IsDeletable", "db/d39/a11578.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
+    [ "m_Spell", "db/d39/a11578.html#a22cce1d722f5086932ae3e97c58d2921", null ]
 ];

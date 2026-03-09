@@ -1,9 +1,8 @@
 var a24606 =
 [
-    [ "npc_pet_gen_fetch_ball", "d6/dee/a24606.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
-    [ "IsSummonedBy", "d6/dee/a24606.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
-    [ "SpellHitTarget", "d6/dee/a24606.html#a87bdded236f6584d9b71507a1253f7d0", null ],
-    [ "UpdateAI", "d6/dee/a24606.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
-    [ "checkTimer", "d6/dee/a24606.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
-    [ "targetGUID", "d6/dee/a24606.html#ae474374af7c2270e218ed236d90c789c", null ]
+    [ "HandleDamage", "d6/dee/a24606.html#a2c5149eb0b6698240c25b63e71af0854", null ],
+    [ "PrepareSpellScript", "d6/dee/a24606.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
+    [ "Register", "d6/dee/a24606.html#ad29179d9159700b52b0c21a779cd060b", null ],
+    [ "Suicide", "d6/dee/a24606.html#a981f8547eae9b317111bf9a7016510ab", null ],
+    [ "Validate", "d6/dee/a24606.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
 ];

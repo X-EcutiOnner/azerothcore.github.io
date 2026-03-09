@@ -1,7 +1,6 @@
 var a22258 =
 [
-    [ "GetSeatNumber", "db/d16/a22258.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
-    [ "HandleDummy", "db/d16/a22258.html#ac5945381452559e1d5655f5345bdeff3", null ],
-    [ "PrepareSpellScript", "db/d16/a22258.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
-    [ "Register", "db/d16/a22258.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
+    [ "npc_brunnhildar_prisonerAI", "df/d55/a22262.html", "df/d55/a22262" ],
+    [ "npc_brunnhildar_prisoner", "db/d16/a22258.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
+    [ "GetAI", "db/d16/a22258.html#aa2a1787849c74a5163a39137c9d03d57", null ]
 ];

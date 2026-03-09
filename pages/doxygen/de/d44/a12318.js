@@ -1,6 +1,12 @@
 var a12318 =
 [
-    [ "OrcMoveEvent", "de/d44/a12318.html#a71f7fe243741a1629bdd846fc97f0112", null ],
-    [ "Execute", "de/d44/a12318.html#a58a3c88ed3c6b534016179949b85ff9e", null ],
-    [ "_me", "de/d44/a12318.html#ad8d09bbb659d44e9f4b9171cea7ef7e8", null ]
+    [ "boss_balinda", "de/d44/a12318.html#a2f3ce696dbc66843cddc13196800866b", null ],
+    [ "DamageTaken", "de/d44/a12318.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
+    [ "JustDied", "de/d44/a12318.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
+    [ "JustEngagedWith", "de/d44/a12318.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
+    [ "JustSummoned", "de/d44/a12318.html#a3c2306326d2f85fbb6766352117a1f91", null ],
+    [ "Reset", "de/d44/a12318.html#a1ecfa5d743682997076a47cce44b19f5", null ],
+    [ "UpdateAI", "de/d44/a12318.html#af3506dd75baef12fd0328aed21636978", null ],
+    [ "_hasCastIceBlock", "de/d44/a12318.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
+    [ "summons", "de/d44/a12318.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
 ];

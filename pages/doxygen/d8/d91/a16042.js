@@ -1,18 +1,13 @@
 var a16042 =
 [
-    [ "boss_taldaram", "d8/d91/a16042.html#a6438d3534aca5e4a92afb3e6c6e24f73", null ],
-    [ "DamageTaken", "d8/d91/a16042.html#a2252fef717c2da047dc2d823e70660c0", null ],
-    [ "DoAction", "d8/d91/a16042.html#aee1cf0553e8c7ebebea4a83f2d7e6d5d", null ],
-    [ "InitializeAI", "d8/d91/a16042.html#a3d5b4628d6fb2db91ed073b042eefdc4", null ],
-    [ "JustDied", "d8/d91/a16042.html#a4b6c0f51fd3a2a8c00ef095eeeea785d", null ],
-    [ "JustEngagedWith", "d8/d91/a16042.html#a07e1cb5b53906f92a1f485340aa004e5", null ],
-    [ "JustSummoned", "d8/d91/a16042.html#a5ae9201a71fa665908f924647b262825", null ],
-    [ "KilledUnit", "d8/d91/a16042.html#a8fe516a08547ec03e8114b07e9c87d1f", null ],
-    [ "MovementInform", "d8/d91/a16042.html#a17ca98f742a06b1496b2216e984811d8", null ],
-    [ "OnAuraRemove", "d8/d91/a16042.html#ab8c64f75675db04f9ed8a37939e882e4", null ],
-    [ "Reset", "d8/d91/a16042.html#ae26fec572206d2f1f9acc229ee797496", null ],
-    [ "ScheduleCombatEvents", "d8/d91/a16042.html#a247e5357fcdf8da8e00bef09f3568ca3", null ],
-    [ "SpellHitTarget", "d8/d91/a16042.html#a0f228ea10a538a9ecf70b9f54d399150", null ],
-    [ "vanishDamage", "d8/d91/a16042.html#a85d8c95320e6f1f486a39043218f0350", null ],
-    [ "victimSperePos", "d8/d91/a16042.html#a06efb376b0d08207a0efce74770f21dc", null ]
+    [ "npc_shenthulAI", "d8/d91/a16042.html#ae056474022c27be5565bf018a1b56f0b", null ],
+    [ "JustEngagedWith", "d8/d91/a16042.html#acb202ef530bc11ea807f580ff5dfc621", null ],
+    [ "ReceiveEmote", "d8/d91/a16042.html#ab2ddc3e447b36cb0fceffdaff0fca592", null ],
+    [ "Reset", "d8/d91/a16042.html#af077e96eb8bf89af2d6eb79907444a17", null ],
+    [ "UpdateAI", "d8/d91/a16042.html#a2ae643c11c6ea3808be922de96a24e8f", null ],
+    [ "CanEmote", "d8/d91/a16042.html#a920209c374e611e96347d209337c044f", null ],
+    [ "CanTalk", "d8/d91/a16042.html#a82ea8d2ee50538135add120be7616f86", null ],
+    [ "PlayerGUID", "d8/d91/a16042.html#a4b262388aca789d19231426a8cb73379", null ],
+    [ "ResetTimer", "d8/d91/a16042.html#a475a141d639f0136ac943e6afb1ecd15", null ],
+    [ "SaluteTimer", "d8/d91/a16042.html#ae76b4bbde77b6029a788abfbbbe84df8", null ]
 ];

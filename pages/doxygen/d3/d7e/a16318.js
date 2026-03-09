@@ -1,10 +1,6 @@
 var a16318 =
 [
-    [ "spell_halion_marks_aura", "d3/d7e/a16318.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
-    [ "BeforeDispel", "d3/d7e/a16318.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
-    [ "OnRemove", "d3/d7e/a16318.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
-    [ "PrepareAuraScript", "d3/d7e/a16318.html#acd5285ea5c378b31526440d263c54770", null ],
-    [ "Register", "d3/d7e/a16318.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
-    [ "_removeSpellId", "d3/d7e/a16318.html#aeef9d928c6a8739337251e144558b169", null ],
-    [ "_summonSpellId", "d3/d7e/a16318.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
+    [ "HandleApply", "d3/d7e/a16318.html#aee4d5908035d06be2f1469a50db02e26", null ],
+    [ "PrepareAuraScript", "d3/d7e/a16318.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
+    [ "Register", "d3/d7e/a16318.html#ac83962bef84b68cef6d7937769730598", null ]
 ];

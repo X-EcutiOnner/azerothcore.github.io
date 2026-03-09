@@ -1,7 +1,6 @@
 var a23614 =
 [
-    [ "HandleScript", "d9/df4/a23614.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
-    [ "PrepareSpellScript", "d9/df4/a23614.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
-    [ "Register", "d9/df4/a23614.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
-    [ "Validate", "d9/df4/a23614.html#a46aca18049e02d50f57579b3fdc705bd", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "da/d73/a23618.html", "da/d73/a23618" ],
+    [ "instance_magtheridons_lair", "d9/df4/a23614.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
+    [ "GetInstanceScript", "d9/df4/a23614.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
 ];

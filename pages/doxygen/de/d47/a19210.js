@@ -1,6 +1,6 @@
 var a19210 =
 [
-    [ "npc_gothik_triggerAI", "d4/dbd/a19214.html", "d4/dbd/a19214" ],
-    [ "npc_gothik_trigger", "de/d47/a19210.html#a6975122d49b0d76fb2b33b310a7ccb71", null ],
-    [ "GetAI", "de/d47/a19210.html#a9b3b47e95d2c41c109a9ccd3915b89ff", null ]
+    [ "HandleEvent", "de/d47/a19210.html#a7936a64a1142a47b2addfd746dccfcef", null ],
+    [ "PrepareSpellScript", "de/d47/a19210.html#a00e2be07131c674558d0364df98849ab", null ],
+    [ "Register", "de/d47/a19210.html#a89364583504d2eaa75473586850bc3d5", null ]
 ];

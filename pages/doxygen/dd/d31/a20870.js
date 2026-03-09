@@ -1,5 +1,5 @@
 var a20870 =
 [
-    [ "achievement_thorim_stand_in_the_lightning", "dd/d31/a20870.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
-    [ "OnCheck", "dd/d31/a20870.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
+    [ "achievement_xt002_nerf_gravity_bombs", "dd/d31/a20870.html#a9c6471da08acb7a0543d7cc07784dd85", null ],
+    [ "OnCheck", "dd/d31/a20870.html#a03f61470694399ab32aea354cd697771", null ]
 ];

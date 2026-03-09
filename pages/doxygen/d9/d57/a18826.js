@@ -1,7 +1,6 @@
 var a18826 =
 [
-    [ "npc_captain_arnathAI", "d9/d57/a18826.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
-    [ "FindFriendlyCreature", "d9/d57/a18826.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
-    [ "Reset", "d9/d57/a18826.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
-    [ "UpdateAI", "d9/d57/a18826.html#a020efd7adc0d60152007906e3229988d", null ]
+    [ "ModDestHeight", "d9/d57/a18826.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
+    [ "PrepareSpellScript", "d9/d57/a18826.html#a288f8917d73be30234e465778b1f6544", null ],
+    [ "Register", "d9/d57/a18826.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
 ];

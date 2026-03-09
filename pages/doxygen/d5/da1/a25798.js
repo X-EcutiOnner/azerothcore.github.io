@@ -1,6 +1,6 @@
 var a25798 =
 [
-    [ "HandleDummy", "d5/da1/a25798.html#ade4c16273ebefaeefac3bfb51c61d19a", null ],
-    [ "PrepareSpellScript", "d5/da1/a25798.html#adfa89e065aa18b3e11998331c426151a", null ],
-    [ "Register", "d5/da1/a25798.html#ab37569c6b2362220cbce92eb184cc6db", null ]
+    [ "HandlePreventAura", "d5/da1/a25798.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
+    [ "PrepareSpellScript", "d5/da1/a25798.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
+    [ "Register", "d5/da1/a25798.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
 ];

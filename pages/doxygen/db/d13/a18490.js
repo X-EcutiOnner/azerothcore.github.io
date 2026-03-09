@@ -1,8 +1,6 @@
 var a18490 =
 [
-    [ "ChangeDamageAndGrow", "db/d13/a18490.html#a017ade08eca93f326d2e5115c4d88c33", null ],
-    [ "CorrectRange", "db/d13/a18490.html#a9022b9efab89bc562428520b3551ff37", null ],
-    [ "PrepareSpellScript", "db/d13/a18490.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
-    [ "Register", "db/d13/a18490.html#a998b810cdbecbca2bf65f18cee14d286", null ],
-    [ "Validate", "db/d13/a18490.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
+    [ "ExtraRemoveEffect", "db/d13/a18490.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
+    [ "PrepareAuraScript", "db/d13/a18490.html#a41992ed6c23275d3a910915755b682f9", null ],
+    [ "Register", "db/d13/a18490.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
 ];

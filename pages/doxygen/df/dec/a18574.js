@@ -1,9 +1,7 @@
 var a18574 =
 [
-    [ "npc_spirit_wardenAI", "df/dec/a18574.html#a3391168478345d8b5c1fee151f6e9f04", null ],
-    [ "JustDied", "df/dec/a18574.html#aa762c0bea6361107312e8231508dc655", null ],
-    [ "Reset", "df/dec/a18574.html#ad6076663f65f43874feb0ecfc57718a4", null ],
-    [ "UpdateAI", "df/dec/a18574.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
-    [ "_events", "df/dec/a18574.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
-    [ "_instance", "df/dec/a18574.html#a58ebb8e42e77add79fc888248013eb24", null ]
+    [ "OnRemove", "df/dec/a18574.html#aa096174465120bde1994c85f72682be1", null ],
+    [ "PrepareAuraScript", "df/dec/a18574.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
+    [ "Register", "df/dec/a18574.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
+    [ "Validate", "df/dec/a18574.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
 ];

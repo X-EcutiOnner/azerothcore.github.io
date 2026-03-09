@@ -1,6 +1,7 @@
 var a23098 =
 [
-    [ "boss_essence_of_desireAI", "df/d33/a23102.html", "df/d33/a23102" ],
-    [ "boss_essence_of_desire", "dd/d93/a23098.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "dd/d93/a23098.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "HandleProc", "dd/d93/a23098.html#a43892c85339867a65e992b7f17fdc61c", null ],
+    [ "PrepareAuraScript", "dd/d93/a23098.html#ab5728e2c3df5b887c26f2485575087ff", null ],
+    [ "Register", "dd/d93/a23098.html#aae9f80730de402ebbda918e0116e59a0", null ],
+    [ "Validate", "dd/d93/a23098.html#a8ef20577e375a5c7d3a66824f27bf937", null ]
 ];

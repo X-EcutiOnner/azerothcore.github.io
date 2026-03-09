@@ -1,10 +1,7 @@
 var a16890 =
 [
-    [ "boss_tharon_jaAI", "d3/d58/a16890.html#a03025fa529e932f23479ff19b0cd8238", null ],
-    [ "DoAction", "d3/d58/a16890.html#a655fd83c2d671847fea9ae393c132fb9", null ],
-    [ "JustDied", "d3/d58/a16890.html#a7928b5db061f1073e1decc2d40601195", null ],
-    [ "JustEngagedWith", "d3/d58/a16890.html#aab194a8f802eeb625d1a74960acbe154", null ],
-    [ "KilledUnit", "d3/d58/a16890.html#a41e929a3768768eb06bafdee3269fd24", null ],
-    [ "Reset", "d3/d58/a16890.html#a272e8565a9b00a27505b301d52814eee", null ],
-    [ "UpdateAI", "d3/d58/a16890.html#a6f482cabcb0bd56711878a5ea297b950", null ]
+    [ "HandleEffectPeriodic", "d3/d58/a16890.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
+    [ "PrepareAuraScript", "d3/d58/a16890.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
+    [ "Register", "d3/d58/a16890.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
+    [ "Validate", "d3/d58/a16890.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
 ];

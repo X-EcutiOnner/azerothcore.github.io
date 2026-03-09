@@ -1,6 +1,6 @@
 var a12742 =
 [
-    [ "boss_mr_smiteAI", "dc/d61/a12746.html", "dc/d61/a12746" ],
-    [ "boss_mr_smite", "db/d25/a12742.html#a011d41112ef7376b71d2959f806be262", null ],
-    [ "GetAI", "db/d25/a12742.html#a619ca0aede1eb33f992328048319c4f0", null ]
+    [ "go_chromaggus_leverAI", "db/d25/a12742.html#a51406a7e313702282cebfbf067c9ce4e", null ],
+    [ "GossipHello", "db/d25/a12742.html#a44ece597fcfcf290234cc1ef073fbf18", null ],
+    [ "_instance", "db/d25/a12742.html#a364f66c7cf0a7bc4a3ea97b87ebe9f90", null ]
 ];

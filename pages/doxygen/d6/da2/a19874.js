@@ -1,6 +1,6 @@
 var a19874 =
 [
-    [ "npc_algalon_worm_holeAI", "da/db9/a19878.html", "da/db9/a19878" ],
-    [ "npc_algalon_worm_hole", "d6/da2/a19874.html#a72516a4824fa61a331caff46d2784c64", null ],
-    [ "GetAI", "d6/da2/a19874.html#aac6ff3a41f08f5a11baa78c0526a3556", null ]
+    [ "boss_varosAI", "da/db9/a19878.html", "da/db9/a19878" ],
+    [ "boss_varos", "d6/da2/a19874.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
+    [ "GetAI", "d6/da2/a19874.html#a36733c4eb6179e43d61a1c37480666ea", null ]
 ];

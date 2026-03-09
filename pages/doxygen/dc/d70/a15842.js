@@ -1,6 +1,6 @@
 var a15842 =
 [
-    [ "npc_twiggy_flatheadAI", "d0/d96/a15846.html", "d0/d96/a15846" ],
-    [ "npc_twiggy_flathead", "dc/d70/a15842.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
-    [ "GetAI", "dc/d70/a15842.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
+    [ "npc_magwinAI", "d0/d96/a15846.html", "d0/d96/a15846" ],
+    [ "npc_magwin", "dc/d70/a15842.html#a1a45602fd312a4c436b09fb7b90ac1d4", null ],
+    [ "GetAI", "dc/d70/a15842.html#a83bee0fd5c1494f2bb732fe9e0ed1594", null ]
 ];

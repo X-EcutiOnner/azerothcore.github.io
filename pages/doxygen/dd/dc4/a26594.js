@@ -1,6 +1,7 @@
 var a26594 =
 [
-    [ "HandleScriptEffect", "dd/dc4/a26594.html#a703b5a1725e05bfbfccc3b6ee5107d95", null ],
-    [ "PrepareSpellScript", "dd/dc4/a26594.html#ab2bb14aac4758dac46aae636ba09e50d", null ],
-    [ "Register", "dd/dc4/a26594.html#ae2fca7fde9af90dd7d461c2d046d9783", null ]
+    [ "HandleProc", "dd/dc4/a26594.html#ad97c3b5df293ed8afae3e662467088c2", null ],
+    [ "PrepareAuraScript", "dd/dc4/a26594.html#a691f14220a619e1915636417927aaa13", null ],
+    [ "Register", "dd/dc4/a26594.html#a4f3c644a91dab0641ef489fd2da171a2", null ],
+    [ "Validate", "dd/dc4/a26594.html#a6fee4af68a8d312bcb543e0c67932cc9", null ]
 ];

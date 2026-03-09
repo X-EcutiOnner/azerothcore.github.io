@@ -1,6 +1,5 @@
 var a12218 =
 [
-    [ "boss_drakkisathAI", "d4/d0c/a12222.html", "d4/d0c/a12222" ],
-    [ "boss_drakkisath", "d4/d2d/a12218.html#a73f21cbd7b81fc045ae129d7d650b455", null ],
-    [ "GetAI", "d4/d2d/a12218.html#ad27999ba129b2e3617c1aba1c4b9772b", null ]
+    [ "flag", "d4/d2d/a12218.html#a4ea67fc10eedfaa2e5e029e242e1c32f", null ],
+    [ "text", "d4/d2d/a12218.html#a492e5e3c2373adba005034514b0a5a1e", null ]
 ];

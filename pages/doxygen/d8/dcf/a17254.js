@@ -1,6 +1,7 @@
 var a17254 =
 [
-    [ "npc_pos_tyrannus_eventsAI", "d0/d37/a17258.html", "d0/d37/a17258" ],
-    [ "npc_pos_tyrannus_events", "d8/dcf/a17254.html#a9e61db8b2b30e86fc5e554b3f4d51b7c", null ],
-    [ "GetAI", "d8/dcf/a17254.html#ae5863e99d77815de71c1774e908b3f65", null ]
+    [ "HandleEffectRemove", "d8/dcf/a17254.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
+    [ "Load", "d8/dcf/a17254.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
+    [ "PrepareAuraScript", "d8/dcf/a17254.html#a97411ddf89a10a962ba74d294eb653e7", null ],
+    [ "Register", "d8/dcf/a17254.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
 ];

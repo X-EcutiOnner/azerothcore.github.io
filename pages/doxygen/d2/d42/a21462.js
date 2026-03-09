@@ -1,6 +1,8 @@
 var a21462 =
 [
-    [ "npc_frozen_orb_stalkerAI", "d1/d18/a21466.html", "d1/d18/a21466" ],
-    [ "npc_frozen_orb_stalker", "d2/d42/a21462.html#a7f025c829106aa6668427f913d07a722", null ],
-    [ "GetAI", "d2/d42/a21462.html#af33e27138a70286bac561113ed09f350", null ]
+    [ "npc_azure_mage_slayerAI", "d2/d42/a21462.html#af1a57574d70a48b16d70d8a056f54018", null ],
+    [ "Reset", "d2/d42/a21462.html#aabe921f0d4fd147c457779791a7af619", null ],
+    [ "UpdateAI", "d2/d42/a21462.html#a7cc5ea88be6c9cf767a0cd433db7dd73", null ],
+    [ "uiArcaneEmpowermentTimer", "d2/d42/a21462.html#ace0fdd5e4b57e7ce603d2355bfc838dd", null ],
+    [ "uiSpellLockTimer", "d2/d42/a21462.html#ac3c4d2be0dd9ba42e40adccda7100947", null ]
 ];

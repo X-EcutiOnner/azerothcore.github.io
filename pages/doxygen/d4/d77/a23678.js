@@ -1,11 +1,16 @@
 var a23678 =
 [
-    [ "boss_high_king_maulgar", "d4/d77/a23678.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
-    [ "DoAction", "d4/d77/a23678.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
-    [ "JustDied", "d4/d77/a23678.html#ad235febd755745313b72394c633c3723", null ],
-    [ "JustEngagedWith", "d4/d77/a23678.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
-    [ "KilledUnit", "d4/d77/a23678.html#a2059016597039929103c053d6524ebf7", null ],
-    [ "Reset", "d4/d77/a23678.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
-    [ "UpdateAI", "d4/d77/a23678.html#ae540909dbbb3cf93e37503cd755c3001", null ],
-    [ "_recentlySpoken", "d4/d77/a23678.html#a306f8492d83703b339a8fbe044e0cbbd", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "d4/d77/a23678.html#aa438091d2868b26d961ee4f81e9cea11", null ],
+    [ "GetGuidData", "d4/d77/a23678.html#a1a0623204ecaaa3623fc503783c4d766", null ],
+    [ "Initialize", "d4/d77/a23678.html#a3761d56e59d5bf1147986978c9fdf2e3", null ],
+    [ "OnCreatureCreate", "d4/d77/a23678.html#a9fa5637791d249553472b31c024f9fc1", null ],
+    [ "ReadSaveDataMore", "d4/d77/a23678.html#a67bc6a2dde5c649d16ef7e2c26c6069b", null ],
+    [ "SetData", "d4/d77/a23678.html#a566090f29d13977354fb50e68d92f046", null ],
+    [ "SetGuidData", "d4/d77/a23678.html#aba8c1ea3be2a6199cefa47c52ecf7f31", null ],
+    [ "Update", "d4/d77/a23678.html#aad1666c364feff4e2b7654f5894c129f", null ],
+    [ "WriteSaveDataMore", "d4/d77/a23678.html#aaa8b1b054df41a79ac074ae48e180ee9", null ],
+    [ "ExecutionerGUID", "d4/d77/a23678.html#aa879398b1732952eba7b2b8a822a959e", null ],
+    [ "LastArrowGUID", "d4/d77/a23678.html#a602015bb20d74f6d3aac07b23ad48aea", null ],
+    [ "PrisonerGUID", "d4/d77/a23678.html#a0648efa6b0bbf4860d55f9b11f138e39", null ],
+    [ "RescueTimer", "d4/d77/a23678.html#a8df2961264a192ab2692e3c8ca507666", null ]
 ];

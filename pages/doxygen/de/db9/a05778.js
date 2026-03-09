@@ -1,7 +1,6 @@
 var a05778 =
 [
-    [ "ToString", "de/db9/a05778.html#a252569604d54dedfbe28b320911aa7b7", null ],
-    [ "ToString", "de/db9/a05778.html#ab114258f0dc260983aceea6ca63c1a5c", null ],
-    [ "ToString", "de/db9/a05778.html#a61c3f0b723ff92ab388b5cd27cea3151", null ],
-    [ "data", "de/db9/a05778.html#ac0fb35a34d9ef399f00ab0bb146afd18", null ]
+    [ "~AsyncProcessResult", "de/db9/a05778.html#a16f0ce13c7401ce07e91b349c91365e0", null ],
+    [ "GetFutureResult", "de/db9/a05778.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8", null ],
+    [ "Terminate", "de/db9/a05778.html#af3951c38d2b368c15c0ac7d415b96ebd", null ]
 ];

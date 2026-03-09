@@ -1,6 +1,10 @@
 var a26522 =
 [
-    [ "HandleScriptEffect", "dc/daf/a26522.html#a8b60ae77f13045a582548fe5d1186d54", null ],
-    [ "PrepareSpellScript", "dc/daf/a26522.html#ad68619783c4a1aad5a24826bf5d89858", null ],
-    [ "Register", "dc/daf/a26522.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
+    [ "CheckProc", "dc/daf/a26522.html#a787008462dce35eb27deda41301b146d", null ],
+    [ "HandleProc", "dc/daf/a26522.html#a5b791c7cb8dae574fef801ce42dc6aa1", null ],
+    [ "Load", "dc/daf/a26522.html#a9760351c28f5f9948f0b64ae2ca91c24", null ],
+    [ "PrepareAuraScript", "dc/daf/a26522.html#ab3d5e71597c67ec0aed70f7e5d2319ac", null ],
+    [ "Register", "dc/daf/a26522.html#aa4ef731870355dc386fcd07c5f19d090", null ],
+    [ "Validate", "dc/daf/a26522.html#ad04864f0710262364cf40e071446d87c", null ],
+    [ "_procTarget", "dc/daf/a26522.html#a9383231fc71c6239507fdf8765d63f3d", null ]
 ];

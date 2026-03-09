@@ -1,9 +1,13 @@
 var a09306 =
 [
-    [ "CreatureSearcher", "df/d6f/a09306.html#ac6fc899c41c2a93f530fa53c693f0df8", null ],
-    [ "Visit", "df/d6f/a09306.html#a50630891bfb459c6c526b3e4e7e29136", null ],
-    [ "Visit", "df/d6f/a09306.html#a503aab809be6f5d60c020e89c64dce7b", null ],
-    [ "i_check", "df/d6f/a09306.html#abc72e56d9453d798fcb457aff023d3ac", null ],
-    [ "i_object", "df/d6f/a09306.html#af31c7a1cf3f03a42d7fe66836e306b85", null ],
-    [ "i_phaseMask", "df/d6f/a09306.html#a5fa5777da405c57700a7e1ea7d5f94cf", null ]
+    [ "QuestPOI", "df/d6f/a09306.html#af4ce75549d1fff2042e98683119214a6", null ],
+    [ "QuestPOI", "df/d6f/a09306.html#a4cf252fabc68cf11df5d44f192955a0b", null ],
+    [ "AreaId", "df/d6f/a09306.html#ad81f08fa2bc5fd0ccd81d0efc42ce804", null ],
+    [ "FloorId", "df/d6f/a09306.html#a1af6ed9fdb9ff429e18fb5d98a42ce45", null ],
+    [ "Id", "df/d6f/a09306.html#aace0de15249c756ba3cbd5763cbb3f98", null ],
+    [ "MapId", "df/d6f/a09306.html#a851f8e6e62373d2592173534754d757b", null ],
+    [ "ObjectiveIndex", "df/d6f/a09306.html#ad80f65110beacd44e667008387e6bb70", null ],
+    [ "points", "df/d6f/a09306.html#aeb505cb061a00ecaa2acc749e391f207", null ],
+    [ "Unk3", "df/d6f/a09306.html#a1f1d8fa843c856b54ec1ca85b08d78e1", null ],
+    [ "Unk4", "df/d6f/a09306.html#aa8089160bb8e93ea79df96b956050b70", null ]
 ];

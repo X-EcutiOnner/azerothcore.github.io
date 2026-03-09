@@ -1,14 +1,7 @@
 var a20402 =
 [
-    [ "npc_ulduar_hodir_mageAI", "d6/d33/a20402.html#a118059c877151a9f6b2b15a4070e2704", null ],
-    [ "AttackStart", "d6/d33/a20402.html#a3217617eb3312c1da34dc7dce590fe0d", null ],
-    [ "CanAIAttack", "d6/d33/a20402.html#a66ea56e856fcc706e4f938512def1590", null ],
-    [ "EnterEvadeMode", "d6/d33/a20402.html#a6d4cd626dcd58f825a6c88b804bb38a7", null ],
-    [ "JustDied", "d6/d33/a20402.html#a0176f8b45c20af1552e1a8b70e307442", null ],
-    [ "MoveInLineOfSight", "d6/d33/a20402.html#aaf35c04462b1698e85df64190f4e2c8a", null ],
-    [ "ScheduleAbilities", "d6/d33/a20402.html#a7927f399ef1c89b3eb83804fde9b2700", null ],
-    [ "SpellHit", "d6/d33/a20402.html#aa814a46a45ce5eb9696c8f6c6de8c521", null ],
-    [ "UpdateAI", "d6/d33/a20402.html#acbbe6667360e5bb7576c1ea741c2e2f1", null ],
-    [ "events", "d6/d33/a20402.html#a556453c557df0be6a57255e400d98a87", null ],
-    [ "pInstance", "d6/d33/a20402.html#ac4677898f5612c01d98ab242c7628e8f", null ]
+    [ "npc_ulduar_saronite_vapors", "d6/d33/a20402.html#a1b582f4b98f596d701d9f5742d345e44", null ],
+    [ "IsSummonedBy", "d6/d33/a20402.html#a5efda334c3166dce2d1ca9655658b4d2", null ],
+    [ "JustDied", "d6/d33/a20402.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
+    [ "pInstance", "d6/d33/a20402.html#aaa51547a77bcd8aa53c7a057e3ca37d6", null ]
 ];

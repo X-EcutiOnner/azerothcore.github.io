@@ -1,5 +1,6 @@
 var a13886 =
 [
-    [ "npc_king_varian_wrynn", "d5/d2a/a13886.html#a33b7c492a7435b3f80e508be9e3440e9", null ],
-    [ "OnQuestReward", "d5/d2a/a13886.html#a1255cca95a7a2b039702b30db377a19f", null ]
+    [ "HandlePeriodic", "d5/d2a/a13886.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
+    [ "PrepareAuraScript", "d5/d2a/a13886.html#a7ac99d626990f068a00f403847bfa6bc", null ],
+    [ "Register", "d5/d2a/a13886.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
 ];

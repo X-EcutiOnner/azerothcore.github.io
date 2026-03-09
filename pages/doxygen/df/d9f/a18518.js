@@ -1,6 +1,6 @@
 var a18518 =
 [
-    [ "HandleScript", "df/d9f/a18518.html#a9489c3454830d3826cb077c95947bf2d", null ],
-    [ "PrepareSpellScript", "df/d9f/a18518.html#a19492e616ac6e69187bca4499175071e", null ],
-    [ "Register", "df/d9f/a18518.html#a3446174d3308f535c27581b63ade9e8a", null ]
+    [ "npc_precious_iccAI", "d1/d10/a18522.html", "d1/d10/a18522" ],
+    [ "npc_precious_icc", "df/d9f/a18518.html#a463eb0df1edb17e154658dac131f0898", null ],
+    [ "GetAI", "df/d9f/a18518.html#aa63840c5968a089bff41dcd9c86d5849", null ]
 ];

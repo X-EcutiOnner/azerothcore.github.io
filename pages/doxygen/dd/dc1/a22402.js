@@ -1,6 +1,7 @@
 var a22402 =
 [
-    [ "HandleScript", "dd/dc1/a22402.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
-    [ "PrepareSpellScript", "dd/dc1/a22402.html#a5a4ce9453638d61fe52514240f0a9384", null ],
-    [ "Register", "dd/dc1/a22402.html#a889f931aaa37d3a283f4d585b384a68e", null ]
+    [ "HandleScript", "dd/dc1/a22402.html#a1811115f1732912bdfaeeb8272db2304", null ],
+    [ "PrepareSpellScript", "dd/dc1/a22402.html#a50c24464dd88717bf78971d679715d7b", null ],
+    [ "Register", "dd/dc1/a22402.html#ab48b37db40865d60d7cda3260ec15ba8", null ],
+    [ "Validate", "dd/dc1/a22402.html#a0f0e4621965ea7ed7a108bca6d232ad0", null ]
 ];

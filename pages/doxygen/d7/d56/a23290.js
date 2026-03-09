@@ -1,11 +1,7 @@
 var a23290 =
 [
-    [ "boss_doomlordkazzakAI", "d7/d56/a23290.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
-    [ "JustDied", "d7/d56/a23290.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
-    [ "JustEngagedWith", "d7/d56/a23290.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
-    [ "JustRespawned", "d7/d56/a23290.html#a174912c149657f4d88446f4ac0631598", null ],
-    [ "KilledUnit", "d7/d56/a23290.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
-    [ "Reset", "d7/d56/a23290.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
-    [ "UpdateAI", "d7/d56/a23290.html#a28a0a8345fcd5411491409854acef729", null ],
-    [ "_inBerserk", "d7/d56/a23290.html#a996d17128aca96c00c8416957ebc24d0", null ]
+    [ "npc_ahune_ice_spear_bunny", "d7/d56/a23290.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
+    [ "InitializeAI", "d7/d56/a23290.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
+    [ "UpdateAI", "d7/d56/a23290.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
+    [ "_scheduler", "d7/d56/a23290.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
 ];

@@ -1,12 +1,9 @@
 var a22458 =
 [
-    [ "npc_icefangAI", "d6/de5/a22458.html#ab74b58a77e3c1349ed308f7febef794a", null ],
-    [ "AttackStart", "d6/de5/a22458.html#a56615ecdb45389aa793374d26a636d45", null ],
-    [ "EnterEvadeMode", "d6/de5/a22458.html#a1465c4779ea8b080f934163c8db6c99c", null ],
-    [ "JustDied", "d6/de5/a22458.html#a3140c8306a384833cca1580ad964d73a", null ],
-    [ "JustEngagedWith", "d6/de5/a22458.html#a8455dd4afb5ef5a694ca9237848df907", null ],
-    [ "OnCharmed", "d6/de5/a22458.html#ad7f3465f5730cd9ebd42bb4092ec8e68", null ],
-    [ "PassengerBoarded", "d6/de5/a22458.html#acf6e8e273830d022eaca3a28a4bd5320", null ],
-    [ "UpdateAI", "d6/de5/a22458.html#ab4d752f2273062c48339b53e611e617c", null ],
-    [ "WaypointReached", "d6/de5/a22458.html#ae315a1d22317edb2864e4d796f808ffb", null ]
+    [ "npc_crusade_recruitAI", "d6/de5/a22458.html#aa5d5e8cc4fe612fda84d971d9cee987f", null ],
+    [ "Reset", "d6/de5/a22458.html#a183360b99ecbd784b4dabbf5158f59d1", null ],
+    [ "sGossipSelect", "d6/de5/a22458.html#ab7bfdc4cc8c86645174ac154ee5db541", null ],
+    [ "UpdateAI", "d6/de5/a22458.html#a0b4dad62e1adf04013d8fbcefe310400", null ],
+    [ "_events", "d6/de5/a22458.html#a32060a04ba73fbf9ae2df8417e826ce9", null ],
+    [ "_heading", "d6/de5/a22458.html#a6e260a6e085962d54b765bff4cb17963", null ]
 ];

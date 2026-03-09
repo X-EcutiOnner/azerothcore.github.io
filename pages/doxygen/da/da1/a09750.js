@@ -1,7 +1,9 @@
 var a09750 =
 [
-    [ "QuestItem", "da/da1/a09750.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
-    [ "QuestItem", "da/da1/a09750.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
-    [ "index", "da/da1/a09750.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
-    [ "is_looted", "da/da1/a09750.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
+    [ "UnitAuraCheck", "da/da1/a09750.html#acbc0c969db8b768720ab3b8235c28352", null ],
+    [ "operator()", "da/da1/a09750.html#abc385cad226ac51c09a908864d360fd3", null ],
+    [ "operator()", "da/da1/a09750.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
+    [ "_casterGUID", "da/da1/a09750.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
+    [ "_present", "da/da1/a09750.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
+    [ "_spellId", "da/da1/a09750.html#a0dd71c851f803fb70a4543c77b672889", null ]
 ];

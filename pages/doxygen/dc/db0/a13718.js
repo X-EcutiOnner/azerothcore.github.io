@@ -1,9 +1,6 @@
 var a13718 =
 [
-    [ "npc_professor_phizzlethorpeAI", "dc/db0/a13718.html#a92af4732575008c1a4f061cef0f23902", null ],
-    [ "JustEngagedWith", "dc/db0/a13718.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
-    [ "JustSummoned", "dc/db0/a13718.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
-    [ "sQuestAccept", "dc/db0/a13718.html#ad4a4bd9af581abe832933da69b18d76f", null ],
-    [ "UpdateAI", "dc/db0/a13718.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
-    [ "WaypointReached", "dc/db0/a13718.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ]
+    [ "instance_sunken_temple_InstanceMapScript", "db/db7/a13722.html", "db/db7/a13722" ],
+    [ "instance_sunken_temple", "dc/db0/a13718.html#a123b052c1cd1487588c88bf2611bc53b", null ],
+    [ "GetInstanceScript", "dc/db0/a13718.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
 ];

@@ -1,7 +1,9 @@
 var a13934 =
 [
-    [ "boss_blight_wormAI", "df/d4b/a13934.html#af267e395fbd539f871e498dc6745c610", null ],
-    [ "Reset", "df/d4b/a13934.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
-    [ "UpdateAI", "df/d4b/a13934.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
-    [ "_events", "df/d4b/a13934.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
+    [ "boss_entropius", "df/d4b/a13934.html#a458deaa80c9694cd2608150bc5519c76", null ],
+    [ "EnterEvadeMode", "df/d4b/a13934.html#a01889b192525af082471d092bff28c88", null ],
+    [ "JustDied", "df/d4b/a13934.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
+    [ "JustEngagedWith", "df/d4b/a13934.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
+    [ "Reset", "df/d4b/a13934.html#ad9da990a540703d38cb45dd2da72c179", null ],
+    [ "UpdateAI", "df/d4b/a13934.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
 ];

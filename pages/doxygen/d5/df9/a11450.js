@@ -1,7 +1,5 @@
 var a11450 =
 [
-    [ "EffectAuraNameCheck", "d5/df9/a11450.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
-    [ "Check", "d5/df9/a11450.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
-    [ "ToString", "d5/df9/a11450.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
-    [ "effAurName", "d5/df9/a11450.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
+    [ "SocketIPBytes", "d5/df9/a11450.html#aa10551a3c7371bafa9b27919e37b16ff", null ],
+    [ "SocketPort", "d5/df9/a11450.html#a6e6fb49cad093530f6ba650ca2ff57af", null ]
 ];

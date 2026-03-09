@@ -1,7 +1,6 @@
 var a23186 =
 [
-    [ "Absorb", "df/da6/a23186.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
-    [ "HandleEffectRemove", "df/da6/a23186.html#a3d4026e5208acb948c089a4bedba0de8", null ],
-    [ "PrepareAuraScript", "df/da6/a23186.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
-    [ "Register", "df/da6/a23186.html#a983cf678001efcbccc4b34a9ad919881", null ]
+    [ "HandleScriptEffect", "df/da6/a23186.html#a18fb2e73a00f1de7c62049eadfcbc658", null ],
+    [ "PrepareSpellScript", "df/da6/a23186.html#ae80b4ca96692035c399d1621b632fe66", null ],
+    [ "Register", "df/da6/a23186.html#ac655157c74104a51f045e114fc63a42d", null ]
 ];

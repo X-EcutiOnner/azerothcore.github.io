@@ -1,8 +1,10 @@
 var a14086 =
 [
-    [ "npc_zulaman_hostageAI", "d0/d7a/a14090.html", "d0/d7a/a14090" ],
-    [ "npc_zulaman_hostage", "df/de8/a14086.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
-    [ "GetAI", "df/de8/a14086.html#a0ae144dc154dd028b409c9d2393f890c", null ],
-    [ "OnGossipHello", "df/de8/a14086.html#a89d68a976f916a4de2196b57ec0026b0", null ],
-    [ "OnGossipSelect", "df/de8/a14086.html#a114f6fbfab90944fd49babcba4b48a11", null ]
+    [ "npc_partygoer_pather", "df/de8/a14086.html#a15a0e517e8671afb9d636ebe781a4bcd", null ],
+    [ "Initialize", "df/de8/a14086.html#afb114b0587c550e39c41e131364da663", null ],
+    [ "PathEndReached", "df/de8/a14086.html#a55833d306716ba411f96ecd024cc7c72", null ],
+    [ "Reset", "df/de8/a14086.html#ade2cc36ff49001138eee5b607ec83b12", null ],
+    [ "UpdateAI", "df/de8/a14086.html#a4d222399b6b789e7a2a2faa4765116a6", null ],
+    [ "_events", "df/de8/a14086.html#ac210dc0286ded980e78743237a08bb23", null ],
+    [ "_path", "df/de8/a14086.html#a4da184c44858e99eca2b07193fd48f13", null ]
 ];

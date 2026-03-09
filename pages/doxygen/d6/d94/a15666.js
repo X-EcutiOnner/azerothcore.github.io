@@ -1,6 +1,9 @@
 var a15666 =
 [
-    [ "npcs_riverbreeze_and_silversky", "d6/d94/a15666.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
-    [ "OnGossipHello", "d6/d94/a15666.html#a7de032322a37f929c316aadfdadda768", null ],
-    [ "OnGossipSelect", "d6/d94/a15666.html#a93c7b159dda733da5030de747bad30b5", null ]
+    [ "boss_fankriss", "d6/d94/a15666.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
+    [ "JustEngagedWith", "d6/d94/a15666.html#a9eaae719a271a95f64ac8076fe807c13", null ],
+    [ "Reset", "d6/d94/a15666.html#af84010ee103eb81c1e269b03fc640f81", null ],
+    [ "SummonHatchlingWaves", "d6/d94/a15666.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
+    [ "SummonWorms", "d6/d94/a15666.html#ada23537921c3a11195450db89eb8fcfe", null ],
+    [ "summonWormSpells", "d6/d94/a15666.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
 ];

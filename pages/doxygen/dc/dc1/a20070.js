@@ -1,6 +1,8 @@
 var a20070 =
 [
-    [ "npc_mimirons_infernoAI", "d2/d24/a20074.html", "d2/d24/a20074" ],
-    [ "npc_mimirons_inferno", "dc/dc1/a20070.html#a7a531a65a179b5d56c888c055b72d269", null ],
-    [ "GetAI", "dc/dc1/a20070.html#a69294c5e8f50727e5f1a6586a8a3682b", null ]
+    [ "brann_bronzebeardAI", "d2/d24/a20074.html", "d2/d24/a20074" ],
+    [ "brann_bronzebeard", "dc/dc1/a20070.html#a66fd8785647896a1a5f7be041242cfd6", null ],
+    [ "GetAI", "dc/dc1/a20070.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
+    [ "OnGossipHello", "dc/dc1/a20070.html#a2714a2dde596db76706b8a86f97f82b8", null ],
+    [ "OnGossipSelect", "dc/dc1/a20070.html#a0e0068a45012e50a9f645d393bdfe163", null ]
 ];

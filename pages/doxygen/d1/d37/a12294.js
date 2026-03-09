@@ -1,6 +1,9 @@
 var a12294 =
 [
-    [ "boss_rend_blackhandAI", "da/dfe/a12298.html", "da/dfe/a12298" ],
-    [ "boss_rend_blackhand", "d1/d37/a12294.html#afd12818c33de25332bf207f30c8490a1", null ],
-    [ "GetAI", "d1/d37/a12294.html#aed65d31a5a841af8aed015555bf811cb", null ]
+    [ "titles_commandscript", "d1/d37/a12294.html#ac088fd907013150a0508b79c99f6c2f3", null ],
+    [ "GetCommands", "d1/d37/a12294.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
+    [ "HandleTitlesAddCommand", "d1/d37/a12294.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
+    [ "HandleTitlesCurrentCommand", "d1/d37/a12294.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
+    [ "HandleTitlesRemoveCommand", "d1/d37/a12294.html#a2001bcc2eddc5688d57154f9906218e4", null ],
+    [ "HandleTitlesSetMaskCommand", "d1/d37/a12294.html#a9517b10295b856779cdd067234f640c8", null ]
 ];

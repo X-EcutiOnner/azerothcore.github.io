@@ -1,6 +1,5 @@
 var a28254 =
 [
-    [ "AreaGroupId", "d2/de2/a28254.html#a2868a59574e635d5f5859cfa01811151", null ],
-    [ "AreaId", "d2/de2/a28254.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
-    [ "nextGroup", "d2/de2/a28254.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
+    [ "go_tablet_of_the_seven", "d2/de2/a28254.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
+    [ "OnGossipHello", "d2/de2/a28254.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
 ];

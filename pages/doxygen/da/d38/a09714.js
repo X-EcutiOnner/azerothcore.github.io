@@ -1,6 +1,8 @@
 var a09714 =
 [
-    [ "DoorInfo", "da/d38/a09714.html#a26f4849a1d68df466e6db0ccbb8d001b", null ],
-    [ "bossInfo", "da/d38/a09714.html#a14f7742a1b272d0cd76dda6ce28cde26", null ],
-    [ "type", "da/d38/a09714.html#ad77a91752ea10a11c8e73655e63dd5c1", null ]
+    [ "AllCreaturesOfEntryInRange", "da/d38/a09714.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
+    [ "operator()", "da/d38/a09714.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
+    [ "m_fRange", "da/d38/a09714.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
+    [ "m_pObject", "da/d38/a09714.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
+    [ "m_uiEntry", "da/d38/a09714.html#abf653360d2ee482728fb137a37fe0512", null ]
 ];

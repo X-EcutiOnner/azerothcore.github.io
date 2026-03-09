@@ -1,4 +1,4 @@
 var a01787 =
 [
-    [ "GetTargetFlagMask", "de/dc3/a01787.html#adc898dfddc20010c41bb771b6d6f274e", null ]
+    [ "AuraEffectHandler", "de/dc3/a01787.html#a2817e7c4c5917ae8deba00b38850e8db", null ]
 ];

@@ -1,6 +1,5 @@
 var a08726 =
 [
-    [ "GlobalCooldown", "dc/dfe/a08726.html#a5859ccec9d1fdf0a8f11f5ab77c135a9", null ],
-    [ "cast_time", "dc/dfe/a08726.html#a7e2fe46367bad59669b0f2fd33736b30", null ],
-    [ "duration", "dc/dfe/a08726.html#a7fbf3127e4a2cc93171934148275ae1d", null ]
+    [ "PositionXYZStreamer", "dc/dfe/a08726.html#a8da1be6111bd97ef68d62d0d9d630c56", null ],
+    [ "m_pos", "dc/dfe/a08726.html#ae5db7cb3adba811c0b9483645a7f1770", null ]
 ];

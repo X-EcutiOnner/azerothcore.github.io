@@ -1,11 +1,7 @@
 var a26386 =
 [
-    [ "CheckCast", "db/d36/a26386.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
-    [ "HandleMaxHealthHeal", "db/d36/a26386.html#a019833641487ac07cb2c8740d5686a41", null ],
-    [ "HandleScript", "db/d36/a26386.html#a35b9d69b8147ef06527b8533ef376e72", null ],
-    [ "Load", "db/d36/a26386.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
-    [ "PrepareSpellScript", "db/d36/a26386.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
-    [ "Register", "db/d36/a26386.html#afd716f555ac73287bd268c6124b15b1c", null ],
-    [ "Validate", "db/d36/a26386.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
-    [ "_manaAmount", "db/d36/a26386.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
+    [ "HandleProc", "db/d36/a26386.html#aed93f4b7af2194f765375b8f5e0318f7", null ],
+    [ "PrepareAuraScript", "db/d36/a26386.html#a10e7c8e5df3cc2e13450fc6ee9f30342", null ],
+    [ "Register", "db/d36/a26386.html#afb0a37d7f0e8dac4a2aa4bf4d35f470a", null ],
+    [ "Validate", "db/d36/a26386.html#a690f78253492b2d509d0ce1cf7807ffa", null ]
 ];

@@ -1,20 +1,13 @@
 var a13266 =
 [
-    [ "boss_darkmaster_gandlingAI", "d4/d2a/a13266.html#a1fbd651c6f5ad3630ae450c6a523360c", null ],
-    [ "FindRoom", "d4/d2a/a13266.html#a7ca1847b3223c82f7c190546809c49bc", null ],
-    [ "GetData", "d4/d2a/a13266.html#a06e03e66d7a99a98ba915057c0082217", null ],
-    [ "JustDied", "d4/d2a/a13266.html#afaac9e6939e0d873f576129546560fba", null ],
-    [ "JustEngagedWith", "d4/d2a/a13266.html#aa71a73d3804187c6b89566ec3d1cd6ed", null ],
-    [ "JustSummoned", "d4/d2a/a13266.html#a24e4031367eb59ad7a9ea352bd0b4ccd", null ],
-    [ "OpenAllGates", "d4/d2a/a13266.html#ab28b7d97956c21515c9872d8f9122f18", null ],
-    [ "Reset", "d4/d2a/a13266.html#a8244b7b91de9a0413193001f41288f7f", null ],
-    [ "SetData", "d4/d2a/a13266.html#a1b7ed8e98d4a271dfd8df76738cc0072", null ],
-    [ "SetGate", "d4/d2a/a13266.html#a32fbc731852f46fbdd36b36764dd2303", null ],
-    [ "SpawnMobsInRoom", "d4/d2a/a13266.html#a68adf734efff345529dbb74bebe15798", null ],
-    [ "SpellHitTarget", "d4/d2a/a13266.html#ae98715a31cd22febb1725977556a48aa", null ],
-    [ "SummonedCreatureDespawn", "d4/d2a/a13266.html#aa0abb31ac1a05c4a99e4b8079410867a", null ],
-    [ "UpdateAI", "d4/d2a/a13266.html#a2c525445ad39ddc47366f3f632014d89", null ],
-    [ "current_room", "d4/d2a/a13266.html#a597f7ee62ee41ff6a1a12a6c9dd7cd93", null ],
-    [ "Guardians", "d4/d2a/a13266.html#a3681da718192f0f961282fa4f655355e", null ],
-    [ "summons", "d4/d2a/a13266.html#a745d411fc485892529cb4cc6f06ba3af", null ]
+    [ "boss_crone", "d4/d2a/a13266.html#a710bdf6fac05be54cf10e40cd661c837", null ],
+    [ "EnterEvadeMode", "d4/d2a/a13266.html#a4dcdde0b699f445cfa6be7e0c7dbb8d0", null ],
+    [ "JustDied", "d4/d2a/a13266.html#a545de2a25b48590d11896c41b6e94df0", null ],
+    [ "JustEngagedWith", "d4/d2a/a13266.html#a9801cd39667d1a08770820bd17beac00", null ],
+    [ "JustReachedHome", "d4/d2a/a13266.html#a59d40cda923cb8b72413b9d5f267f52a", null ],
+    [ "KilledUnit", "d4/d2a/a13266.html#ae4d343636955589d740d1df4e21fba99", null ],
+    [ "Reset", "d4/d2a/a13266.html#a247db7fc1329ef00e48fd9bd09fb27a1", null ],
+    [ "UpdateAI", "d4/d2a/a13266.html#a8bd505acd55ca5292d29c96916a461e5", null ],
+    [ "_scheduler", "d4/d2a/a13266.html#a7f9e2e45c0bbb60fc19dd54bc380f814", null ],
+    [ "instance", "d4/d2a/a13266.html#a3795fe3185005693ed9bba49177bb35a", null ]
 ];

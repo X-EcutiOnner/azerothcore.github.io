@@ -1,7 +1,10 @@
 var a11138 =
 [
-    [ "OpcodeHandler", "d9/d62/a04803.html#gad7dc8101b537abe699b18ae8de444a81", null ],
-    [ "~OpcodeHandler", "d9/d62/a04803.html#ga5400057a3d849035aedda259828a5af5", null ],
-    [ "Name", "d9/d62/a04803.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
-    [ "Status", "d9/d62/a04803.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
+    [ "BuyItem", "dd/dfb/a11138.html#a3069d333bccadf53310ce86118b2c224", null ],
+    [ "Read", "dd/dfb/a11138.html#aeeda3c4a9200cfdc3372f1a3510f453b", null ],
+    [ "Count", "dd/dfb/a11138.html#a72fee9e84781ae2be25f9f15a2bb6de2", null ],
+    [ "Item", "dd/dfb/a11138.html#a07c03ec8db8e498b417b7dbabb9412b3", null ],
+    [ "Slot", "dd/dfb/a11138.html#a7db43e484bf82fb81ccca197c24df2d1", null ],
+    [ "Unk", "dd/dfb/a11138.html#aaf2b6aefb11379325b8cf9931abff638", null ],
+    [ "VendorGuid", "dd/dfb/a11138.html#aab9a5ff8f6f71a311e58e78b81ef7021", null ]
 ];

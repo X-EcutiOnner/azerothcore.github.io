@@ -1,10 +1,7 @@
 var a22282 =
 [
-    [ "npc_infra_green_bomber_genericAI", "d5/ded/a22282.html#aed712ea3625971e059e2ecd158227287", null ],
-    [ "DamageTaken", "d5/ded/a22282.html#a8f860368df96e430b441c8316db99c93", null ],
-    [ "GetSummoner", "d5/ded/a22282.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
-    [ "IsSummonedBy", "d5/ded/a22282.html#a79676717b7c6219ea74ebe5a580eab28", null ],
-    [ "SpreadFire", "d5/ded/a22282.html#a5727c839b7dd02ea64eccce3606688d1", null ],
-    [ "UpdateAI", "d5/ded/a22282.html#a252875777655e963965676a24c15e766", null ],
-    [ "events", "d5/ded/a22282.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
+    [ "npc_hyldsmeet_protodrake", "d5/ded/a22282.html#a409a5f5eace583ef874421819c975ed8", null ],
+    [ "PassengerBoarded", "d5/ded/a22282.html#a0067d3b394c967946e329ea25c2dc315", null ],
+    [ "UpdateAI", "d5/ded/a22282.html#a49ce0b6b324b968b1b2902c1db037a53", null ],
+    [ "_accessoryRespawnTimer", "d5/ded/a22282.html#a724645a3d05ba26d99a8bc1668d1dc3a", null ]
 ];

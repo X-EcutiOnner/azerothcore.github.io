@@ -1,6 +1,6 @@
 var a17830 =
 [
-    [ "PrepareSpellScript", "d3/d1d/a17830.html#a47df21229183b628c1d82bf34cbbe396", null ],
-    [ "Register", "d3/d1d/a17830.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
-    [ "RelocateTransportOffset", "d3/d1d/a17830.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
+    [ "HandleScript", "d3/d1d/a17830.html#ace45b0d9ce3815046e842d462fdcc9b6", null ],
+    [ "PrepareSpellScript", "d3/d1d/a17830.html#a0257968b3a4d9ef3241420bbc5abb63a", null ],
+    [ "Register", "d3/d1d/a17830.html#aed524436eacc6f1dddcc2f3cb6f502fc", null ]
 ];

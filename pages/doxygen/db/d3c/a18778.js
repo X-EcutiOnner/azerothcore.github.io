@@ -1,6 +1,7 @@
 var a18778 =
 [
-    [ "npc_highlord_tirion_fordringAI", "d5/db7/a18782.html", "d5/db7/a18782" ],
-    [ "npc_highlord_tirion_fordring_lh", "db/d3c/a18778.html#a96102a488330c54a3e3654c767e8e1a5", null ],
-    [ "GetAI", "db/d3c/a18778.html#aea42394c04c1763cffe10eb5eba09854", null ]
+    [ "CheckTargetCount", "db/d3c/a18778.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
+    [ "PrepareSpellScript", "db/d3c/a18778.html#abd32198867e7f01b21b7de6224a597d4", null ],
+    [ "Register", "db/d3c/a18778.html#a671bede7fbc68085cd6075f412822869", null ],
+    [ "Validate", "db/d3c/a18778.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
 ];

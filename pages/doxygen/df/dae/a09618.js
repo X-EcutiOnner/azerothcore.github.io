@@ -1,21 +1,8 @@
 var a09618 =
 [
-    [ "BankTab", "df/dae/a09618.html#a4cc137e35b63b86c5d436e6bc15ad590", null ],
-    [ "Delete", "df/dae/a09618.html#a834715b072cf26a56933a971de7bdde4", null ],
-    [ "GetIcon", "df/dae/a09618.html#a2406a477fff518690b1a9656d0c2129b", null ],
-    [ "GetItem", "df/dae/a09618.html#a9c5baa8eb92520b73c646488e3b38caa", null ],
-    [ "GetName", "df/dae/a09618.html#a0360f82663e5f9e073bcb28affcdf0b3", null ],
-    [ "GetText", "df/dae/a09618.html#ace1887dd0ef166be4fc6f8cb894d80b3", null ],
-    [ "LoadFromDB", "df/dae/a09618.html#a016c23dc9710058e969ccfc51501afd6", null ],
-    [ "LoadItemFromDB", "df/dae/a09618.html#aa7bd9e67c6685878fa7bf158c09fae51", null ],
-    [ "SendText", "df/dae/a09618.html#ac3ca58dcc1997788226c6fe0d5b690c7", null ],
-    [ "SetInfo", "df/dae/a09618.html#afb645aa2e4219558eb2f493782804657", null ],
-    [ "SetItem", "df/dae/a09618.html#a3013ae191efb43063162f4cbb5508392", null ],
-    [ "SetText", "df/dae/a09618.html#a5945b66216eebcb4ac68a6e429c15972", null ],
-    [ "m_guildId", "df/dae/a09618.html#abc272a367b69a90207dbf10580a55038", null ],
-    [ "m_icon", "df/dae/a09618.html#a25217a0d4f9dc91c853f7007f63f140b", null ],
-    [ "m_items", "df/dae/a09618.html#a80cc2a64638722401276263d01e5ee27", null ],
-    [ "m_name", "df/dae/a09618.html#a5555e808bc4597ad9a74e69b95e56149", null ],
-    [ "m_tabId", "df/dae/a09618.html#ab055a2b7500c83c96a78c396dc60588a", null ],
-    [ "m_text", "df/dae/a09618.html#afc7ac5ed7c4c2d79170548fe061917eb", null ]
+    [ "AnyUnfriendlyNoTotemUnitInObjectRangeCheck", "df/dae/a09618.html#ac4378cfa8fedb3453c0e810d497cb99c", null ],
+    [ "operator()", "df/dae/a09618.html#ad9e3486316cf297ba79a588c60b4ce15", null ],
+    [ "i_funit", "df/dae/a09618.html#ace766830b26d8aae3ec673d2102a9969", null ],
+    [ "i_obj", "df/dae/a09618.html#ae12f4176e49438cfa248345cfe7c9947", null ],
+    [ "i_range", "df/dae/a09618.html#a8335ef8fd7376e7c920dfbca2318d646", null ]
 ];

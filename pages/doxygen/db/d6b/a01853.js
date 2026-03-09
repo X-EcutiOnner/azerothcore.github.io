@@ -1,18 +1,11 @@
 var a01853 =
 [
-    [ "UnitBaseEvent", "d7/df6/a08080.html", "d7/df6/a08080" ],
-    [ "ThreatRefStatusChangeEvent", "d9/d93/a08084.html", "d9/d93/a08084" ],
-    [ "ThreatMgrEvent", "d5/d49/a08092.html", "d5/d49/a08092" ],
-    [ "UEV_ALL_EVENT_MASK", "db/d6b/a01853.html#a99af7f8805c877a694d51ab4feb1e58b", null ],
-    [ "UEV_THREAT_MANAGER_EVENT_MASK", "db/d6b/a01853.html#a28d3aa8f148208fa65f5ef1af46913cc", null ],
-    [ "UEV_THREAT_REF_EVENT_MASK", "db/d6b/a01853.html#aca3c8db6dd274b113d9c3c7755ff5d7a", null ],
-    [ "UNIT_EVENT_TYPE", "db/d6b/a01853.html#a5207de6e2fb421d2579a9baf4c471e97", [
-      [ "UEV_THREAT_REF_ONLINE_STATUS", "db/d6b/a01853.html#a5207de6e2fb421d2579a9baf4c471e97a77f8da111f54455d20c58ae0fd4156f9", null ],
-      [ "UEV_THREAT_REF_THREAT_CHANGE", "db/d6b/a01853.html#a5207de6e2fb421d2579a9baf4c471e97a5c74b5ccc46cdc399916b41b6d97bfb0", null ],
-      [ "UEV_THREAT_REF_REMOVE_FROM_LIST", "db/d6b/a01853.html#a5207de6e2fb421d2579a9baf4c471e97aa8b5a9d97c235e1f56e98ff4103b08d0", null ],
-      [ "UEV_THREAT_REF_ASSECCIBLE_STATUS", "db/d6b/a01853.html#a5207de6e2fb421d2579a9baf4c471e97abd7481924e1cb036704820e5be0407db", null ],
-      [ "UEV_THREAT_SORT_LIST", "db/d6b/a01853.html#a5207de6e2fb421d2579a9baf4c471e97a74092d5fa151b78ce0de1ddf3ed05865", null ],
-      [ "UEV_THREAT_SET_NEXT_TARGET", "db/d6b/a01853.html#a5207de6e2fb421d2579a9baf4c471e97ac45249081756ba40d712bd7e08626ed9", null ],
-      [ "UEV_THREAT_VICTIM_CHANGED", "db/d6b/a01853.html#a5207de6e2fb421d2579a9baf4c471e97af02166c466fbff650b908cd08c7e4669", null ]
+    [ "BanMgr", "d0/d2b/a10166.html", "d0/d2b/a10166" ],
+    [ "sBan", "db/d6b/a01853.html#a7d5e9b6aab3c8157bcf25fa0f070bb17", null ],
+    [ "BanReturn", "db/d6b/a01853.html#a4dd4670ead55e2780d09a66ab39943a7", [
+      [ "BAN_SUCCESS", "db/d6b/a01853.html#a4dd4670ead55e2780d09a66ab39943a7ab48bdf9afe21b115b7550bf103d1dc28", null ],
+      [ "BAN_SYNTAX_ERROR", "db/d6b/a01853.html#a4dd4670ead55e2780d09a66ab39943a7a7ec21f8f8ea6d0904423dded4b8f0dc8", null ],
+      [ "BAN_NOTFOUND", "db/d6b/a01853.html#a4dd4670ead55e2780d09a66ab39943a7aaefc3ea320005c27d70704fb92aed7ad", null ],
+      [ "BAN_LONGER_EXISTS", "db/d6b/a01853.html#a4dd4670ead55e2780d09a66ab39943a7ac441589615fb2fe9c7decb985f6f0d3c", null ]
     ] ]
 ];

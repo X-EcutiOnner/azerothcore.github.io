@@ -1,9 +1,6 @@
 var a19774 =
 [
-    [ "boss_sjonnir_iron_sludgeAI", "de/da3/a19774.html#aac57ae32188c47ca97b7331d62986e66", null ],
-    [ "JustDied", "de/da3/a19774.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
-    [ "JustEngagedWith", "de/da3/a19774.html#a772d279407d724477560898559710433", null ],
-    [ "Reset", "de/da3/a19774.html#a5b4a726aa496923d81c41b038e5f7449", null ],
-    [ "UpdateAI", "de/da3/a19774.html#a2745ff26c165851c367e080d28652984", null ],
-    [ "events", "de/da3/a19774.html#a468d45f9b9c2172f326068d59a74121a", null ]
+    [ "HandleScript", "de/da3/a19774.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c", null ],
+    [ "PrepareSpellScript", "de/da3/a19774.html#ad1eae4d206e9e9e48230f60a2961fddb", null ],
+    [ "Register", "de/da3/a19774.html#ae6685e7fd80373f2fc9a37cd4065f8b6", null ]
 ];

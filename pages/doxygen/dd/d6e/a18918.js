@@ -1,5 +1,6 @@
 var a18918 =
 [
-    [ "at_icc_saurfang_portal", "dd/d6e/a18918.html#a7f30058251c520634a0b7bad08380e5d", null ],
-    [ "OnTrigger", "dd/d6e/a18918.html#a8980fe0e67aa33335f0fdb947a294213", null ]
+    [ "npc_lk_spirit_bombAI", "df/de3/a18922.html", "df/de3/a18922" ],
+    [ "npc_lk_spirit_bomb", "dd/d6e/a18918.html#acc08d41aa1761c450de782e92307ad7c", null ],
+    [ "GetAI", "dd/d6e/a18918.html#ade74c00beb2da69dafb0ae93d771c430", null ]
 ];

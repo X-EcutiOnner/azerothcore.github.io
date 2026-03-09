@@ -1,9 +1,10 @@
 var a05542 =
 [
-    [ "IteratorPair", "dc/df9/a05542.html#ad2e586dfd291c34c82ec71d66e59f36c", null ],
-    [ "IteratorPair", "dc/df9/a05542.html#a446d4e8dd1146b053987d48d0dcef59d", null ],
-    [ "IteratorPair", "dc/df9/a05542.html#ae8b79501762f0c0ba6e2d769c56e9f8f", null ],
-    [ "begin", "dc/df9/a05542.html#a59ff07f1663a3f98f2e10a895ab37ae4", null ],
-    [ "end", "dc/df9/a05542.html#aa515ca48852213fb51a4d83e9d5c91d2", null ],
-    [ "_iterators", "dc/df9/a05542.html#a9b08728bc90076dd1db392982840c31e", null ]
+    [ "Find", "dc/df9/a05542.html#a1d6a7cd1596aa03a8e53609c7d7b6e33", null ],
+    [ "GetElements", "dc/df9/a05542.html#a653b00a9d570ae9d9276a061beda3f35", null ],
+    [ "GetElements", "dc/df9/a05542.html#a209cbb9e5ba70b9f5f66e64e2c36411d", null ],
+    [ "Insert", "dc/df9/a05542.html#ad61d9aa314133d8eba934fe56cff48e0", null ],
+    [ "Remove", "dc/df9/a05542.html#a5a9666fc5f0136a778d8c542a386d4bf", null ],
+    [ "Size", "dc/df9/a05542.html#a289258c9015016a70d2867df7e113def", null ],
+    [ "_elements", "dc/df9/a05542.html#adda6657e9a0fd08b105cd4d6b2baa9d3", null ]
 ];

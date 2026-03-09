@@ -1,6 +1,6 @@
 var a28190 =
 [
-    [ "Id", "d8/dfe/a28190.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
-    [ "SpellId", "d8/dfe/a28190.html#ae8c119bacf706916f331d3f316fb1347", null ],
-    [ "TypeFlags", "d8/dfe/a28190.html#aae92871758e9a738a888cacf0946f16b", null ]
+    [ "go_heatAI", "d7/dca/a28194.html", "d7/dca/a28194" ],
+    [ "go_heat", "d8/dfe/a28190.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
+    [ "GetAI", "d8/dfe/a28190.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
 ];

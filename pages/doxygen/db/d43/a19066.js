@@ -1,9 +1,8 @@
 var a19066 =
 [
-    [ "spell_trigger_spell_from_caster", "db/d43/a19066.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
-    [ "HandleTrigger", "db/d43/a19066.html#afc11c9408ea11cb04e476999a9bdf522", null ],
-    [ "PrepareSpellScript", "db/d43/a19066.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
-    [ "Register", "db/d43/a19066.html#ae44cc1a87267c1d08603d1aff2384957", null ],
-    [ "Validate", "db/d43/a19066.html#a3aace9a309bc848b887b03c949c921bd", null ],
-    [ "_triggerId", "db/d43/a19066.html#a29af52a9035f18936515a464889fefe5", null ]
+    [ "FilterTargets", "db/d43/a19066.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
+    [ "HandleForceCast", "db/d43/a19066.html#ae783cf255be823bf7c9125f288479e97", null ],
+    [ "Load", "db/d43/a19066.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
+    [ "PrepareSpellScript", "db/d43/a19066.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
+    [ "Register", "db/d43/a19066.html#a454a8909be4bb85f255ea696041ea447", null ]
 ];

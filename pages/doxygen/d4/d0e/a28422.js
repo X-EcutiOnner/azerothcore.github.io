@@ -1,6 +1,8 @@
 var a28422 =
 [
-    [ "color", "d4/d0e/a28422.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
-    [ "ID", "d4/d0e/a28422.html#ac125147c2dc5546a0116f48e08f36e59", null ],
-    [ "spellitemenchantement", "d4/d0e/a28422.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
+    [ "npc_artoriusAI", "db/d83/a28426.html", "db/d83/a28426" ],
+    [ "npc_artorius", "d4/d0e/a28422.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
+    [ "GetAI", "d4/d0e/a28422.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
+    [ "OnGossipHello", "d4/d0e/a28422.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
+    [ "OnGossipSelect", "d4/d0e/a28422.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
 ];

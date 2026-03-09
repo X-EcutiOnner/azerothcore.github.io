@@ -1,8 +1,7 @@
 var a16986 =
 [
-    [ "npc_fos_leaderAI", "d6/db5/a16990.html", "d6/db5/a16990" ],
-    [ "npc_fos_leader", "d8/d42/a16986.html#a4223072bc180e990ff9e01bf772def5b", null ],
-    [ "GetAI", "d8/d42/a16986.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
-    [ "OnGossipHello", "d8/d42/a16986.html#a3858054505d439902624378b9355f40d", null ],
-    [ "OnGossipSelect", "d8/d42/a16986.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
+    [ "npc_toc_dkAI", "d8/d42/a16986.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
+    [ "myCanCast", "d8/d42/a16986.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
+    [ "UpdateAI", "d8/d42/a16986.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
+    [ "events", "d8/d42/a16986.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
 ];

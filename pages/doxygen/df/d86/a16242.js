@@ -1,5 +1,6 @@
 var a16242 =
 [
-    [ "at_baltharus_plateau", "df/d86/a16242.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
-    [ "OnTrigger", "df/d86/a16242.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
+    [ "SayerEntry", "df/d86/a16242.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
+    [ "SayTimer", "df/d86/a16242.html#a942073f24fd12da712184243d9f098f2", null ],
+    [ "TextEntry", "df/d86/a16242.html#a360822e4c069be6019c0a465cb2499cf", null ]
 ];

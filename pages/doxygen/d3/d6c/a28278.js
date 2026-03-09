@@ -1,8 +1,6 @@
 var a28278 =
 [
-    [ "gender", "d3/d6c/a28278.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
-    [ "hair_id", "d3/d6c/a28278.html#af4646a9adb0a1dc18b34158de2116b84", null ],
-    [ "Id", "d3/d6c/a28278.html#a05de87081cf628e806d6518eef1424e4", null ],
-    [ "race", "d3/d6c/a28278.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
-    [ "type", "d3/d6c/a28278.html#a289bb362ba13235c754647ba67be1e56", null ]
+    [ "go_fel_crystalforge", "d3/d6c/a28278.html#aa44708a617edd51651da49918ab776e5", null ],
+    [ "OnGossipHello", "d3/d6c/a28278.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
+    [ "OnGossipSelect", "d3/d6c/a28278.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
 ];

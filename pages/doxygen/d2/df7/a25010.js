@@ -1,8 +1,7 @@
 var a25010 =
 [
-    [ "HandleSchoolDMG", "d2/df7/a25010.html#ab273304fdbeea8768622c3e6b222aaf2", null ],
-    [ "HandleScriptEffect", "d2/df7/a25010.html#a06f9cf29387b49f3e5950661173c77eb", null ],
-    [ "PrepareSpellScript", "d2/df7/a25010.html#ac1a2b89eda37ed4e6c5946a93e7a58a2", null ],
-    [ "Register", "d2/df7/a25010.html#a9bdbf7578509976d482a26869e9068aa", null ],
-    [ "Validate", "d2/df7/a25010.html#a20a7b3a25711a90ab5f0e14991112ea0", null ]
+    [ "CheckRequirement", "d2/df7/a25010.html#a6be5f335a15226db87a04548490f488d", null ],
+    [ "PrepareSpellScript", "d2/df7/a25010.html#a25463eda0ce51a124e8715baf305c8f6", null ],
+    [ "Register", "d2/df7/a25010.html#a8db5a5597d8f6fe4064799766fb61502", null ],
+    [ "_level", "d2/df7/a25010.html#a3d6867e8eae9afde2b03acc2e6ebe961", null ]
 ];

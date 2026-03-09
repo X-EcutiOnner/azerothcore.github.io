@@ -1,10 +1,8 @@
 var a23418 =
 [
-    [ "boss_morogrim_tidewalker", "db/d80/a23418.html#a138a200da298f64697e2e47fb8004ccb", null ],
-    [ "JustDied", "db/d80/a23418.html#a139d87e7cffe03183538eb493e063195", null ],
-    [ "JustEngagedWith", "db/d80/a23418.html#a3244672aeb994673e1f46708699bcc2c", null ],
-    [ "JustSummoned", "db/d80/a23418.html#a2b669007520094948138c95468b77f9f", null ],
-    [ "KilledUnit", "db/d80/a23418.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
-    [ "Reset", "db/d80/a23418.html#a78ed1d1f8c55407497a4fb679587975d", null ],
-    [ "_recentlySpoken", "db/d80/a23418.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
+    [ "boss_the_black_stalker", "db/d80/a23418.html#ac33519b374509cefe43b8e97701719ee", null ],
+    [ "JustEngagedWith", "db/d80/a23418.html#ad118347103ec463a09492e81dbd61418", null ],
+    [ "JustSummoned", "db/d80/a23418.html#a9e0299a99df83abb7de476a765b667b9", null ],
+    [ "SummonedCreatureDies", "db/d80/a23418.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
+    [ "UpdateAI", "db/d80/a23418.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
 ];

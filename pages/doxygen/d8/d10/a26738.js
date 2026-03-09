@@ -1,8 +1,11 @@
 var a26738 =
 [
-    [ "HandleScript", "d8/d10/a26738.html#a1e096b2b2f5a285e660f64fb133f4f8b", null ],
-    [ "Load", "d8/d10/a26738.html#ad4e3fecb64bbb0f5c63b90d445c0b9f3", null ],
-    [ "PrepareSpellScript", "d8/d10/a26738.html#a5c4b2a46dfd6bdc2d14ee02f673628c1", null ],
-    [ "Register", "d8/d10/a26738.html#aa823af94e3366ae799ebaf03e52411dd", null ],
-    [ "Validate", "d8/d10/a26738.html#ad6985954002f88436a2681e758f41fb2", null ]
+    [ "CheckCast", "d8/d10/a26738.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
+    [ "HandleMaxHealthHeal", "d8/d10/a26738.html#a019833641487ac07cb2c8740d5686a41", null ],
+    [ "HandleScript", "d8/d10/a26738.html#a35b9d69b8147ef06527b8533ef376e72", null ],
+    [ "Load", "d8/d10/a26738.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
+    [ "PrepareSpellScript", "d8/d10/a26738.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
+    [ "Register", "d8/d10/a26738.html#afd716f555ac73287bd268c6124b15b1c", null ],
+    [ "Validate", "d8/d10/a26738.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
+    [ "_manaAmount", "d8/d10/a26738.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
 ];

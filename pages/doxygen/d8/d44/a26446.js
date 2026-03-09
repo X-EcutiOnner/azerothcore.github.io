@@ -1,6 +1,7 @@
 var a26446 =
 [
-    [ "HandleAfterHit", "d8/d44/a26446.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
-    [ "PrepareSpellScript", "d8/d44/a26446.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
-    [ "Register", "d8/d44/a26446.html#a2a780069022e62b14992a7b69626ac3d", null ]
+    [ "HandleProc", "d8/d44/a26446.html#a18407e24557465a32d3d0a0ac274039e", null ],
+    [ "PrepareAuraScript", "d8/d44/a26446.html#a8d8cc8d38e72911c529039961bf19094", null ],
+    [ "Register", "d8/d44/a26446.html#a0e770622694eb54dcff4077b17e4f811", null ],
+    [ "Validate", "d8/d44/a26446.html#a42165d070ce0e04106d3df06e4890eb8", null ]
 ];

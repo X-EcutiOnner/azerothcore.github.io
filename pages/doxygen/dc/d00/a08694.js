@@ -1,11 +1,10 @@
 var a08694 =
 [
-    [ "FriendInfo", "dc/d00/a08694.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
-    [ "FriendInfo", "dc/d00/a08694.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
-    [ "Area", "dc/d00/a08694.html#adf16884b55545ed9302dbb54d653867b", null ],
-    [ "Class", "dc/d00/a08694.html#a8b797fcfda05d52d4297f32e458be519", null ],
-    [ "Flags", "dc/d00/a08694.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
-    [ "Level", "dc/d00/a08694.html#a70d9a74f4587f648db5bf49b61091213", null ],
-    [ "Note", "dc/d00/a08694.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
-    [ "Status", "dc/d00/a08694.html#a380f11d65b34e1e598b7861987cecfe6", null ]
+    [ "ObjectGuidGeneratorBase", "dc/d00/a08694.html#a8af6741cc884915ee86b489fc970fed1", null ],
+    [ "~ObjectGuidGeneratorBase", "dc/d00/a08694.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
+    [ "Generate", "dc/d00/a08694.html#a7a6d9e5a78eef31007a46c10805c3fbe", null ],
+    [ "GetNextAfterMaxUsed", "dc/d00/a08694.html#abf1f20b97af8071459bd850e7106a442", null ],
+    [ "HandleCounterOverflow", "dc/d00/a08694.html#ada7a44ac47b112491c575c38465740fc", null ],
+    [ "Set", "dc/d00/a08694.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
+    [ "_nextGuid", "dc/d00/a08694.html#a4a14102e019aa10f41b050054cacca22", null ]
 ];

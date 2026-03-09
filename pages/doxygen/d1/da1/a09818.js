@@ -1,14 +1,12 @@
 var a09818 =
 [
-    [ "DoublePosition", "d1/da1/a09818.html#a59190a2456f052c6ffa6e181ced94a4f", null ],
-    [ "DoublePosition", "d1/da1/a09818.html#a9900e06c36c6ebc4edd0ba45264990b8", null ],
-    [ "DoublePosition", "d1/da1/a09818.html#a543ff52f7b278f68cc36ee880932e744", null ],
-    [ "GetDoubleExactDist2dSq", "d1/da1/a09818.html#ae17b4e695ff23a8ec323405801f2013a", null ],
-    [ "GetDoublePositionX", "d1/da1/a09818.html#a7c769d1762f99150a46ceaa2b2bfa8e8", null ],
-    [ "GetDoublePositionY", "d1/da1/a09818.html#a201096c85022d54b1d9dbe9264df901f", null ],
-    [ "GetDoublePositionZ", "d1/da1/a09818.html#a01fc3985229b6bd03e6d1da95f871c17", null ],
-    [ "sync", "d1/da1/a09818.html#a75e75187d6663591a39c87bc1086aebd", null ],
-    [ "DoublePosX", "d1/da1/a09818.html#a4f9ffbbe4396f3ec26a81139f5868e2e", null ],
-    [ "DoublePosY", "d1/da1/a09818.html#a90839893f3a58a72a07177d3eee1d691", null ],
-    [ "DoublePosZ", "d1/da1/a09818.html#a19af503e9623ccaeb032bfe9f0a0ed63", null ]
+    [ "LogEntry", "d1/da1/a09818.html#af61604a7dc0cc4da315a09fa5b207f37", null ],
+    [ "LogEntry", "d1/da1/a09818.html#aba3f6f501c59e356166abe71082c421b", null ],
+    [ "~LogEntry", "d1/da1/a09818.html#a3c66b8a7be1800c5a9e1dc15aab6d3e9", null ],
+    [ "GetGUID", "d1/da1/a09818.html#a7af4eac577f8da07540f81e185b2ad49", null ],
+    [ "GetTimestamp", "d1/da1/a09818.html#a643c92439463707671bb08b72bf3a447", null ],
+    [ "SaveToDB", "d1/da1/a09818.html#a1c00aa88973423a1c112c2776a14e78f", null ],
+    [ "m_guid", "d1/da1/a09818.html#a75754f42f8a202a9a319c86515a3f0dd", null ],
+    [ "m_guildId", "d1/da1/a09818.html#a89e0192732a43dc44aff3730bc5ad445", null ],
+    [ "m_timestamp", "d1/da1/a09818.html#ad19e7364e1beba61c9b7a4383b6d42c6", null ]
 ];

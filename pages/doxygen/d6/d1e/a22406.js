@@ -1,6 +1,6 @@
 var a22406 =
 [
-    [ "HandleScriptEffect", "d6/d1e/a22406.html#a1dac2806b74471332aec0595118005a3", null ],
-    [ "PrepareSpellScript", "d6/d1e/a22406.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
-    [ "Register", "d6/d1e/a22406.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
+    [ "CheckCast", "d6/d1e/a22406.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
+    [ "PrepareSpellScript", "d6/d1e/a22406.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
+    [ "Register", "d6/d1e/a22406.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
 ];

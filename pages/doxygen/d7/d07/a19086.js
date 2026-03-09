@@ -1,7 +1,7 @@
 var a19086 =
 [
-    [ "DelayedCastMincharEvent", "d7/d07/a19086.html#a76d8a08ca273eec5b2e083d136336a15", null ],
-    [ "Execute", "d7/d07/a19086.html#a12aeff246d07e541ed192974320842cb", null ],
-    [ "_spellId", "d7/d07/a19086.html#af4ea90407b2c8a283f137d213ffe97be", null ],
-    [ "_trigger", "d7/d07/a19086.html#a9f3cd02e77ad35b98a6753b792383548", null ]
+    [ "FrostwingVrykulSearcher", "d7/d07/a19086.html#a10aa54184b42a0538dc4f325204399e9", null ],
+    [ "operator()", "d7/d07/a19086.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
+    [ "_range", "d7/d07/a19086.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
+    [ "_source", "d7/d07/a19086.html#af5d3c93f41698e71c867336d0453d40a", null ]
 ];

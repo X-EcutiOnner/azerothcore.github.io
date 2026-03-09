@@ -1,6 +1,7 @@
 var a23326 =
 [
-    [ "OnPeriodic", "d1/d28/a23326.html#a4d3d6350a06b6c7382792670c04e38e1", null ],
-    [ "PrepareAuraScript", "d1/d28/a23326.html#ac9231c238adf7e733d55bc6098daddc0", null ],
-    [ "Register", "d1/d28/a23326.html#aa6aa32b3adc89ac405f071fa9b804778", null ]
+    [ "HandleProc", "d1/d28/a23326.html#a03b2be5894d489a6021aff2744aee0e0", null ],
+    [ "PrepareAuraScript", "d1/d28/a23326.html#a0ff401cd6d8e32ff458b7383b76a92a1", null ],
+    [ "Register", "d1/d28/a23326.html#a804e1bc3d570d28cb2e06155054f3169", null ],
+    [ "Validate", "d1/d28/a23326.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb", null ]
 ];

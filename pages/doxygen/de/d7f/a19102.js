@@ -1,9 +1,13 @@
 var a19102 =
 [
-    [ "npc_isle_of_conquest_turretAI", "de/d7f/a19102.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
-    [ "JustDied", "de/d7f/a19102.html#a88390da94298bea9c445bb422a806d23", null ],
-    [ "SpellHit", "de/d7f/a19102.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
-    [ "UpdateAI", "de/d7f/a19102.html#a81c039a2a230b261967842161757b6f8", null ],
-    [ "events", "de/d7f/a19102.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
-    [ "faction", "de/d7f/a19102.html#aca941c070a97278c8ec27d7e6b4edede", null ]
+    [ "npc_highlord_tirion_fordringAI", "de/d7f/a19102.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
+    [ "Reset", "de/d7f/a19102.html#a80051b1b2a663997304b1754a3f9ff25", null ],
+    [ "SetData", "de/d7f/a19102.html#a5642aab7afc50a7494c43ae7a130d571", null ],
+    [ "UpdateAI", "de/d7f/a19102.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
+    [ "_bolvarFordragon", "de/d7f/a19102.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
+    [ "_damnedKills", "de/d7f/a19102.html#a56e035884d2ab94629c133efc1fc8feb", null ],
+    [ "_events", "de/d7f/a19102.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
+    [ "_factionNPC", "de/d7f/a19102.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
+    [ "_instance", "de/d7f/a19102.html#acd16d6200b08df23576aa9ccbb060d31", null ],
+    [ "_theLichKing", "de/d7f/a19102.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
 ];

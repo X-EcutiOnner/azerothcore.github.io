@@ -1,5 +1,6 @@
 var a27650 =
 [
-    [ "item_captured_frog", "de/d20/a27650.html#ad41b743c98c9534453eca8cf1f367366", null ],
-    [ "OnUse", "de/d20/a27650.html#a1156467ca046a077ea494f92c488bf54", null ]
+    [ "HandleAuraApply", "de/d20/a27650.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
+    [ "PrepareAuraScript", "de/d20/a27650.html#a7596065e5ffcacf099a5984f5d940c11", null ],
+    [ "Register", "de/d20/a27650.html#a8efa76b28dddad68fee132f37791f231", null ]
 ];

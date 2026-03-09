@@ -1,6 +1,7 @@
 var a16478 =
 [
-    [ "HandleSpellHit", "d9/db4/a16478.html#a11b9bb078e5c38b8db8b3e3fcd5114d8", null ],
-    [ "PrepareSpellScript", "d9/db4/a16478.html#a75a2441ca6b4fb7928c4d14f44c08ba3", null ],
-    [ "Register", "d9/db4/a16478.html#a9322b834fadc89b4fbc19dbbc762f205", null ]
+    [ "HandleScriptEffect", "d9/db4/a16478.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
+    [ "PrepareSpellScript", "d9/db4/a16478.html#a392c40d469c3c1e816d5dc364fde824c", null ],
+    [ "Register", "d9/db4/a16478.html#aa59c26b25ca0f440de36e450adf050a5", null ],
+    [ "Validate", "d9/db4/a16478.html#a370f83112d901f9565734b11d12858f4", null ]
 ];

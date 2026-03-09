@@ -1,7 +1,6 @@
 var a23910 =
 [
-    [ "boss_zereketh_the_unbound", "d3/d1f/a23910.html#abb2fc5cbe7514142160818016fda1936", null ],
-    [ "JustDied", "d3/d1f/a23910.html#ac5d96da9a33a536f2002cce11453ded3", null ],
-    [ "JustEngagedWith", "d3/d1f/a23910.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
-    [ "KilledUnit", "d3/d1f/a23910.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
+    [ "HandleAfterRemove", "d3/d1f/a23910.html#ac9756a8f206c114ff6443331ca266184", null ],
+    [ "PrepareAuraScript", "d3/d1f/a23910.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
+    [ "Register", "d3/d1f/a23910.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
 ];

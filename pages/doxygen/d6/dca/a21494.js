@@ -1,6 +1,8 @@
 var a21494 =
 [
-    [ "npc_erekem_guardAI", "d3/d0f/a21498.html", "d3/d0f/a21498" ],
-    [ "npc_erekem_guard", "d6/dca/a21494.html#a78592996e90f77f81eec0325a7f11956", null ],
-    [ "GetAI", "d6/dca/a21494.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
+    [ "npc_azure_captainAI", "d6/dca/a21494.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
+    [ "Reset", "d6/dca/a21494.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
+    [ "UpdateAI", "d6/dca/a21494.html#ae50ac21138e12be43caa93e37062051e", null ],
+    [ "uiMortalStrikeTimer", "d6/dca/a21494.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
+    [ "uiWhirlwindTimer", "d6/dca/a21494.html#a2e3439976a6e84a60be765cb0b929798", null ]
 ];

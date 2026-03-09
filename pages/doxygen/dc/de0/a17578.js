@@ -1,9 +1,11 @@
 var a17578 =
 [
-    [ "FilterTargets", "dc/de0/a17578.html#a7b490400378893a19cdaf52af25f3a51", null ],
-    [ "HandleScript", "dc/de0/a17578.html#acee46fb0af45364478a92db59fcc3f24", null ],
-    [ "Load", "dc/de0/a17578.html#a46a43b9a8dec2f61aee3dccad4178a78", null ],
-    [ "PrepareSpellScript", "dc/de0/a17578.html#abb8fac43566f92b19e644edc38ab5d73", null ],
-    [ "Register", "dc/de0/a17578.html#a1add221102b7067ffc130969f5172eae", null ],
-    [ "Validate", "dc/de0/a17578.html#a4d2b60161f5aed31132f0fc554aab7b6", null ]
+    [ "npc_pos_tyrannus_eventsAI", "dc/de0/a17578.html#a51769d22a4cb448fae90d827e2494581", null ],
+    [ "MovementInform", "dc/de0/a17578.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
+    [ "SetData", "dc/de0/a17578.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
+    [ "UpdateAI", "dc/de0/a17578.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
+    [ "deathbringerGUID", "dc/de0/a17578.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
+    [ "events", "dc/de0/a17578.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
+    [ "killsLeft", "dc/de0/a17578.html#ac81d85e0ceb0b571373f44475baa36df", null ],
+    [ "pInstance", "dc/de0/a17578.html#a44460335986bcedf35dc295c242df6da", null ]
 ];

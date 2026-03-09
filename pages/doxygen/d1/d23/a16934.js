@@ -1,7 +1,6 @@
 var a16934 =
 [
-    [ "HandleEffectRemove", "d1/d23/a16934.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
-    [ "Load", "d1/d23/a16934.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
-    [ "PrepareAuraScript", "d1/d23/a16934.html#a97411ddf89a10a962ba74d294eb653e7", null ],
-    [ "Register", "d1/d23/a16934.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
+    [ "npc_toc_shadow_priestAI", "dc/d7d/a16938.html", "dc/d7d/a16938" ],
+    [ "npc_toc_shadow_priest", "d1/d23/a16934.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
+    [ "GetAI", "d1/d23/a16934.html#a93b38d23759da3b7417dbb94b4a951da", null ]
 ];

@@ -1,6 +1,6 @@
 var a20654 =
 [
-    [ "npc_ulduar_flames_initialAI", "df/da7/a20658.html", "df/da7/a20658" ],
-    [ "npc_ulduar_flames_initial", "db/dd2/a20654.html#aee0c62a38e3e0958e015faef2c434273", null ],
-    [ "GetAI", "db/dd2/a20654.html#ac0db78c361324a594220ad644001f4eb", null ]
+    [ "ModDest", "db/dd2/a20654.html#aae907d93c4c5d951b39c6c71aa647dee", null ],
+    [ "PrepareSpellScript", "db/dd2/a20654.html#a028184d1e5a2898d7b6ba7a545683f48", null ],
+    [ "Register", "db/dd2/a20654.html#ae9b8d62283a23d7cfcd2ec5d92df7bbe", null ]
 ];

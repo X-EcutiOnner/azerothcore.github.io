@@ -1,9 +1,6 @@
 var a14838 =
 [
-    [ "boss_azgalor", "d4/d58/a14838.html#ac794e0eacc2d543fa62e4b521089f080", null ],
-    [ "DoAction", "d4/d58/a14838.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
-    [ "JustDied", "d4/d58/a14838.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
-    [ "JustEngagedWith", "d4/d58/a14838.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
-    [ "KilledUnit", "d4/d58/a14838.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
-    [ "_recentlySpoken", "d4/d58/a14838.html#abea34396ddde0aa02a073b2f3119fec9", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "d8/d80/a14842.html", "d8/d80/a14842" ],
+    [ "npc_grizzlemaw_cw_trigger", "d4/d58/a14838.html#a4514796784d974ba6de09b5a5d4e5f3b", null ],
+    [ "GetAI", "d4/d58/a14838.html#a1a834bda866033a3cca4fc4ece447313", null ]
 ];

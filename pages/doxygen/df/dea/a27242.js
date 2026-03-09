@@ -1,5 +1,6 @@
 var a27242 =
 [
-    [ "achievement_bg_ic_resource_glut", "df/dea/a27242.html#ace247962dccee2601ceade593b0874d4", null ],
-    [ "OnCheck", "df/dea/a27242.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
+    [ "ModDest", "df/dea/a27242.html#ab03387aec0a02a6b3bac1014443554b6", null ],
+    [ "PrepareSpellScript", "df/dea/a27242.html#a53f7da301759fb18686bc73281c4a321", null ],
+    [ "Register", "df/dea/a27242.html#a266198fbc6203517f9845ef6212ddf13", null ]
 ];

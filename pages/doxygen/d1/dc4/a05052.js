@@ -1,11 +1,7 @@
 var a05052 =
 [
-    [ "IoContext", "d1/dc4/a05052.html#a6ba4b629a3704fcb5d110a71f09900be", null ],
-    [ "IoContext", "d1/dc4/a05052.html#a8dc945d02df9d28f3dda6c17f1c91502", null ],
-    [ "get_executor", "d1/dc4/a05052.html#aa642c9d6e49d2396c267c6fc404b2a6b", null ],
-    [ "operator IoContextBaseNamespace::IoContextBase &", "d1/dc4/a05052.html#a51e3067d9ba9b0b4a557a7e586b1ef91", null ],
-    [ "operator IoContextBaseNamespace::IoContextBase const &", "d1/dc4/a05052.html#af4aa281948ab71b76bc8f66b735425b3", null ],
-    [ "run", "d1/dc4/a05052.html#a086cd2ed56d61cf1ec0dbfdec16c50fe", null ],
-    [ "stop", "d1/dc4/a05052.html#a1165b11f60d138d56eba43657fc299cd", null ],
-    [ "_impl", "d1/dc4/a05052.html#a22cdb3c45a6dbacb13f90f654bc0c65d", null ]
+    [ "ArenaTeam", "d3/d6f/a10774.html", "d3/d6f/a10774" ],
+    [ "CalendarComplain", "de/d41/a10778.html", "de/d41/a10778" ],
+    [ "GetEvent", "dc/dc5/a10766.html", "dc/dc5/a10766" ],
+    [ "GuildFilter", "dd/d60/a10770.html", "dd/d60/a10770" ]
 ];

@@ -1,8 +1,6 @@
 var a11250 =
 [
-    [ "SkillDiscoveryEntry", "d4/d4d/a11250.html#a54c0f12153c6e63a37e5da44d233b271", null ],
-    [ "SkillDiscoveryEntry", "d4/d4d/a11250.html#a301cae078fe1943cae045e94dc3d38ad", null ],
-    [ "chance", "d4/d4d/a11250.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
-    [ "reqSkillValue", "d4/d4d/a11250.html#a61e0edc8fee1fa4045d846668d08449c", null ],
-    [ "spellId", "d4/d4d/a11250.html#a75ca40729917317173b2953c8f47f833", null ]
+    [ "ComplainResult", "d4/d4d/a11250.html#a9c0f7cf8600887fdbc5283fa23f77857", null ],
+    [ "Write", "d4/d4d/a11250.html#a1b74c82acbfae8d62c7b1d6ef59caa1e", null ],
+    [ "Unk", "d4/d4d/a11250.html#a88445c8e01e64f89176dd6c1ebb1a986", null ]
 ];

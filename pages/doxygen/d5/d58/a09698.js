@@ -1,10 +1,8 @@
 var a09698 =
 [
-    [ "const_iterator", "d5/d58/a09698.html#ac52d3ebfa7eaeb9d6fd08f0089b13918", null ],
-    [ "StorageType", "d5/d58/a09698.html#a6825a379d1af4254b920c14ab0068e7b", null ],
-    [ "BossBoundaryData", "d5/d58/a09698.html#a3f80cd89e43eae1a74e2b0a6a674d0cb", null ],
-    [ "~BossBoundaryData", "d5/d58/a09698.html#a446a3ec16cdce76058761fce972f1e57", null ],
-    [ "begin", "d5/d58/a09698.html#a326930360d22d5fdf9a895991f2c4e49", null ],
-    [ "end", "d5/d58/a09698.html#ab3dc9905d861b62c4551f45ee8b08ba5", null ],
-    [ "_data", "d5/d58/a09698.html#af60e90664c434a8d36115ca5dec889b5", null ]
+    [ "NearestPlayerInObjectRangeCheck", "d5/d58/a09698.html#ae8e57c69baf8bdaf0448864d4afbb1a4", null ],
+    [ "NearestPlayerInObjectRangeCheck", "d5/d58/a09698.html#aac3d406d10a036b92a55bcd955411165", null ],
+    [ "operator()", "d5/d58/a09698.html#a5d7ed3141c03d2209d5a3b1a689d1668", null ],
+    [ "i_obj", "d5/d58/a09698.html#a9cd17091269bcfc2b48fefc12ac9b127", null ],
+    [ "i_range", "d5/d58/a09698.html#ab55f93d7c5d6ca3461bcbe49010fcb83", null ]
 ];

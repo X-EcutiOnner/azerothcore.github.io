@@ -1,8 +1,6 @@
 var a23238 =
 [
-    [ "CalcPeriodic", "da/df3/a23238.html#aad87c25b9b3255a4871bec39d9787299", null ],
-    [ "PrepareAuraScript", "da/df3/a23238.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
-    [ "Register", "da/df3/a23238.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
-    [ "Update", "da/df3/a23238.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
-    [ "Validate", "da/df3/a23238.html#ae4f7bfb1cd95666acada217173876352", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "d8/df4/a23242.html", "d8/df4/a23242" ],
+    [ "instance_serpent_shrine", "da/df3/a23238.html#aac4fc7113307805138ba4ce4a9adff09", null ],
+    [ "GetInstanceScript", "da/df3/a23238.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
 ];

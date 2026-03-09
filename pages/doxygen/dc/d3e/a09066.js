@@ -1,10 +1,8 @@
 var a09066 =
 [
-    [ "Flags", "dc/d3e/a09066.html#a5292a64de662f608915844d58199542f", null ],
-    [ "Icon", "dc/d3e/a09066.html#ab7460f125e05509baf9331e424b8bacf", null ],
-    [ "ID", "dc/d3e/a09066.html#a94b184ecd7c82419fa6d59a59c1d95da", null ],
-    [ "Importance", "dc/d3e/a09066.html#a623d8bdc2bf5eea161466340ae8e3cd1", null ],
-    [ "Name", "dc/d3e/a09066.html#a45c6eb50f0d56bbdabd6c3b3469c607c", null ],
-    [ "PositionX", "dc/d3e/a09066.html#a561763556f1ac77e988c350c37a3a0a1", null ],
-    [ "PositionY", "dc/d3e/a09066.html#abec7b2b3e649263f0b963f3fedef60fe", null ]
+    [ "VehicleSeat", "dc/d3e/a09066.html#ad2d19e3fc73c06cd7c8e339bd2b45a0c", null ],
+    [ "IsEmpty", "dc/d3e/a09066.html#a9f68076857cb85ee7679f04043acdedc", null ],
+    [ "Passenger", "dc/d3e/a09066.html#ac334f2f573bf52f164d570f8b83fc197", null ],
+    [ "SeatAddon", "dc/d3e/a09066.html#a3c46401aa5859287e4bcb24141c848cc", null ],
+    [ "SeatInfo", "dc/d3e/a09066.html#add0cf92d445f6ea0cf910b0bc0d80b62", null ]
 ];

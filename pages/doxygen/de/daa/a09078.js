@@ -1,6 +1,9 @@
 var a09078 =
 [
-    [ "Conditions", "de/daa/a09078.html#a93edc2f0d71164b683c844b713befa85", null ],
-    [ "MenuID", "de/daa/a09078.html#a732aa82f621c312745ddbd6fe2e3e906", null ],
-    [ "TextID", "de/daa/a09078.html#a6ec8df5fcc5126bdee656ca08c0a5edc", null ]
+    [ "GameEventAIHookWorker", "de/daa/a09078.html#ad72640a18d2d32a9201c965089ee49cf", null ],
+    [ "Visit", "de/daa/a09078.html#a23d979ee43838e7d58e9123e36474a5a", null ],
+    [ "Visit", "de/daa/a09078.html#a79106ec550d072d690bbf3496d76cb0a", null ],
+    [ "Visit", "de/daa/a09078.html#a165476edd8b252bbb90b8b78fae963a6", null ],
+    [ "_activate", "de/daa/a09078.html#a756665eafa08f3c8c51ccef69bdd619f", null ],
+    [ "_eventId", "de/daa/a09078.html#ab1ee68bb7134e84780772eba2cfac766", null ]
 ];

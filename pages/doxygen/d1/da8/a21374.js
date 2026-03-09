@@ -1,13 +1,12 @@
 var a21374 =
 [
-    [ "MoveX", "d1/da8/a21374.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
-    [ "MoveY", "d1/da8/a21374.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
-    [ "MoveZ", "d1/da8/a21374.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
-    [ "npc", "d1/da8/a21374.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
-    [ "say", "d1/da8/a21374.html#adcd8647fc0ee9799e24173780209f2d9", null ],
-    [ "SpawnO", "d1/da8/a21374.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
-    [ "SpawnX", "d1/da8/a21374.html#af3ae27adaecafe9a09802bc202973d68", null ],
-    [ "SpawnY", "d1/da8/a21374.html#a749e9c6edcc87f258f250344d652145c", null ],
-    [ "SpawnZ", "d1/da8/a21374.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
-    [ "trigger", "d1/da8/a21374.html#ad2291d89a874c79859b3140754594ed7", null ]
+    [ "boss_lavanthorAI", "d1/da8/a21374.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
+    [ "EnterEvadeMode", "d1/da8/a21374.html#a0334d92f1ddf30235efe298df622535b", null ],
+    [ "JustDied", "d1/da8/a21374.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
+    [ "JustEngagedWith", "d1/da8/a21374.html#a9820ec47af72af19f00b172ee138f908", null ],
+    [ "MoveInLineOfSight", "d1/da8/a21374.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
+    [ "Reset", "d1/da8/a21374.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
+    [ "UpdateAI", "d1/da8/a21374.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
+    [ "events", "d1/da8/a21374.html#a273adc56adefe9810013bc80950f2624", null ],
+    [ "pInstance", "d1/da8/a21374.html#ad6059577c5e131523f39316c2291b421", null ]
 ];

@@ -1,6 +1,6 @@
 var a24446 =
 [
-    [ "PrepareSpellScript", "dc/d8e/a24446.html#aa858fff409e5c75d865c91cb5fbef679", null ],
-    [ "Register", "dc/d8e/a24446.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
-    [ "SetDest", "dc/d8e/a24446.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
+    [ "DeathEvent", "dc/d8e/a24446.html#a2fb9a98c077d715c4648aede6597276e", null ],
+    [ "Execute", "dc/d8e/a24446.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
+    [ "_owner", "dc/d8e/a24446.html#a099d0d5ae50126f00220b3ed90907617", null ]
 ];

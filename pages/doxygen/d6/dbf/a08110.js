@@ -1,8 +1,8 @@
 var a08110 =
 [
-    [ "bounding_radius", "d6/dbf/a08110.html#a9f4a794b06bcbe31fc0a104cc97b91a4", null ],
-    [ "combat_reach", "d6/dbf/a08110.html#ac271edb10093db19e4df1396053f820d", null ],
-    [ "gender", "d6/dbf/a08110.html#aa5c8134851ff4f7ab6ad2af3b6e1dc1e", null ],
-    [ "is_trigger", "d6/dbf/a08110.html#a52dbfa82e1525df681b87ab07ba8ead0", null ],
-    [ "modelid_other_gender", "d6/dbf/a08110.html#a222b3c513a64b385954ea549e67f4255", null ]
+    [ "UnitBaseEvent", "d6/dbf/a08110.html#a2d4586c59a7595374d427a15924c34fd", null ],
+    [ "getType", "d6/dbf/a08110.html#a7619b09043a8a729df77502786216aff", null ],
+    [ "matchesTypeMask", "d6/dbf/a08110.html#a05103aacf99310a6c9e602296d56f168", null ],
+    [ "setType", "d6/dbf/a08110.html#a1a3ae3042df9ca91d17a1c3320579867", null ],
+    [ "iType", "d6/dbf/a08110.html#a528a4023be375f43f4ac33b55f5c95d9", null ]
 ];

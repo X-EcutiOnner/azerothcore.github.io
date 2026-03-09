@@ -1,8 +1,6 @@
 var a24394 =
 [
-    [ "CreatureId", "df/d5a/a24394.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "df/d5a/a24394.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "df/d5a/a24394.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "df/d5a/a24394.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "df/d5a/a24394.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "PrepareSpellScript", "df/d5a/a24394.html#ae915f8f6522f0a8d308b2a5f43b8884f", null ],
+    [ "RecalculateDamage", "df/d5a/a24394.html#af01757d0968da2a096d800782ed7e66e", null ],
+    [ "Register", "df/d5a/a24394.html#a62b6613707a2a9b78d52bffe92de604e", null ]
 ];

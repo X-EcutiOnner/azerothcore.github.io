@@ -1,7 +1,8 @@
 var a13910 =
 [
-    [ "o", "d6/d21/a13910.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
-    [ "x", "d6/d21/a13910.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
-    [ "y", "d6/d21/a13910.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
-    [ "z", "d6/d21/a13910.html#abf42d988d416ebe409100c4b860d26db", null ]
+    [ "HandleApply", "d6/d21/a13910.html#a2c64240e8675fc76598600ae2632570f", null ],
+    [ "HandleRemove", "d6/d21/a13910.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
+    [ "PrepareAuraScript", "d6/d21/a13910.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
+    [ "Register", "d6/d21/a13910.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
+    [ "Validate", "d6/d21/a13910.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
 ];

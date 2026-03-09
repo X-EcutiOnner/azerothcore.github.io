@@ -1,8 +1,6 @@
 var a28594 =
 [
-    [ "canLink", "d3/d41/a28594.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
-    [ "categoryId", "d3/d41/a28594.html#abf285e69e8e2a90626a157cb0c50d158", null ],
-    [ "id", "d3/d41/a28594.html#a7740b26f1bde19a05b002c00eded25e3", null ],
-    [ "name", "d3/d41/a28594.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
-    [ "spellIcon", "d3/d41/a28594.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
+    [ "npc_experience", "d3/d41/a28594.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
+    [ "OnGossipHello", "d3/d41/a28594.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
+    [ "OnGossipSelect", "d3/d41/a28594.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
 ];

@@ -1,9 +1,14 @@
 var a12570 =
 [
-    [ "HandleAfterApply", "d7/d2f/a12570.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
-    [ "HandleAfterRemove", "d7/d2f/a12570.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
-    [ "PeriodicTick", "d7/d2f/a12570.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
-    [ "PrepareAuraScript", "d7/d2f/a12570.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
-    [ "Register", "d7/d2f/a12570.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
-    [ "Validate", "d7/d2f/a12570.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
+    [ "boss_lord_valthalakAI", "d7/d2f/a12570.html#a7f10837eafefefb87b338410c5994362", null ],
+    [ "DamageTaken", "d7/d2f/a12570.html#a6fe691c8dd5c5b387eed08e3a010bec7", null ],
+    [ "IsSummonedBy", "d7/d2f/a12570.html#a852589ca84562ad1a9dcdd403fe5aa83", null ],
+    [ "JustDied", "d7/d2f/a12570.html#a4c9bd060e62f1c4d3819350bf549a39a", null ],
+    [ "JustEngagedWith", "d7/d2f/a12570.html#acee7b1758b670a688fe1afcdef3b9f8c", null ],
+    [ "Reset", "d7/d2f/a12570.html#abcc993a205602484fb46a67bc68dbbd9", null ],
+    [ "StartFighting", "d7/d2f/a12570.html#af06da24e8bedf922895c8c591c1def04", null ],
+    [ "StartTalking", "d7/d2f/a12570.html#ab89e407c8afccd712c3b9375f0de8687", null ],
+    [ "UpdateAI", "d7/d2f/a12570.html#a2b39a384ac7133aa013e21b0e873c4e2", null ],
+    [ "frenzy15", "d7/d2f/a12570.html#aabd65fc1a1bdbbc9c3a46c918bc7dff5", null ],
+    [ "frenzy40", "d7/d2f/a12570.html#a75aa55580bed475e88e9071fa5284267", null ]
 ];

@@ -1,13 +1,7 @@
 var a28686 =
 [
-    [ "actionFlag", "d8/de4/a28686.html#a6257ae486eff937cf12be64f0e850ca6", null ],
-    [ "arrivalEventID", "d8/de4/a28686.html#a1ffe17f529066091b18451a1121ce6ac", null ],
-    [ "delay", "d8/de4/a28686.html#aef005db912b0a57ecc5d62c66d838826", null ],
-    [ "departureEventID", "d8/de4/a28686.html#a670a033aaf0ff48676373baf9235d670", null ],
-    [ "index", "d8/de4/a28686.html#af9f8e03c2d9c1bdf266b3d62f1174224", null ],
-    [ "mapid", "d8/de4/a28686.html#aa2c6fb8a785e297c72384043698dd401", null ],
-    [ "path", "d8/de4/a28686.html#aa0692acbae0d4639c89ece77265d7858", null ],
-    [ "x", "d8/de4/a28686.html#a9acd2aad6b8820c04f6749bd2944b54f", null ],
-    [ "y", "d8/de4/a28686.html#a08778d3ef9a9a87fd731b54d5501daab", null ],
-    [ "z", "d8/de4/a28686.html#af48d85940d7f204091e8438427a72e2d", null ]
+    [ "npc_flameshocker", "d8/de4/a28686.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
+    [ "JustDied", "d8/de4/a28686.html#aba94a5bcec75c649049d5816a53ace58", null ],
+    [ "Reset", "d8/de4/a28686.html#a13cb88e2b33df2d910fb73053684b420", null ],
+    [ "UpdateAI", "d8/de4/a28686.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
 ];

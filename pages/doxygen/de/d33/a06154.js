@@ -1,8 +1,6 @@
 var a06154 =
 [
-    [ "GuardAI", "de/d33/a06154.html#ac1f0ba47d8e32c65845808170330b7af", null ],
-    [ "EnterEvadeMode", "de/d33/a06154.html#af021cc31298d4a0f38a7d82ac8e02e30", null ],
-    [ "JustDied", "de/d33/a06154.html#a96820cdcb632d3a71f9deacf4998a774", null ],
-    [ "Permissible", "de/d33/a06154.html#a238f38bd3fc7cfa8ace3549f4a6199fb", null ],
-    [ "Reset", "de/d33/a06154.html#a91b12b6a50641d17a79550b9ffb5284a", null ]
+    [ "DirectoryEntry", "de/d33/a06154.html#a02538aefc1b014b60957d4c67793000f", null ],
+    [ "path", "de/d33/a06154.html#aca34dff6659f2da63f31e12bb41cf3d0", null ],
+    [ "state", "de/d33/a06154.html#aeddd31e8fbb23e54549e985f09c4ea96", null ]
 ];

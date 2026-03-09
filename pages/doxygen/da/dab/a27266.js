@@ -1,5 +1,6 @@
 var a27266 =
 [
-    [ "achievement_everything_counts", "da/dab/a27266.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
-    [ "OnCheck", "da/dab/a27266.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
+    [ "PrepareAuraScript", "da/dab/a27266.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
+    [ "Register", "da/dab/a27266.html#a91f4b2b8796c7efab2f622893a393619", null ],
+    [ "AuraEffectHandleModes", "da/dab/a27266.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
 ];

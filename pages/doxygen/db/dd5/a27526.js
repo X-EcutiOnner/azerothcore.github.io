@@ -1,5 +1,7 @@
 var a27526 =
 [
-    [ "go_tablet_of_the_seven", "db/dd5/a27526.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
-    [ "OnGossipHello", "db/dd5/a27526.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
+    [ "HandleDummy", "db/dd5/a27526.html#abd35c974f5ebec4c8845c05ab4f6d309", null ],
+    [ "PrepareSpellScript", "db/dd5/a27526.html#a99deca1c5c8631342be400cb863eefb2", null ],
+    [ "Register", "db/dd5/a27526.html#aa5ecc51b030fe7280e824ade641216d3", null ],
+    [ "Validate", "db/dd5/a27526.html#a731503d3769718695d109ad71160e67a", null ]
 ];

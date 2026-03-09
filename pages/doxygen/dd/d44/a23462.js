@@ -1,6 +1,5 @@
 var a23462 =
 [
-    [ "HandlePeriodic", "dd/d44/a23462.html#a25c698e911ec02d9cd7f757ba87281df", null ],
-    [ "PrepareAuraScript", "dd/d44/a23462.html#a7bf79bc5e5f509b52965f03e998db399", null ],
-    [ "Register", "dd/d44/a23462.html#ab3eec9f591384c7c1c684651c38aa614", null ]
+    [ "npc_invisible_tractor_beam_source", "dd/d44/a23462.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
+    [ "IsSummonedBy", "dd/d44/a23462.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
 ];

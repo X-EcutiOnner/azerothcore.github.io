@@ -1,6 +1,6 @@
 var a18702 =
 [
-    [ "npc_suppresserAI", "d2/d16/a18706.html", "d2/d16/a18706" ],
-    [ "npc_suppresser", "d7/df5/a18702.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
-    [ "GetAI", "d7/df5/a18702.html#a48869515abbac1491337a93b987231da", null ]
+    [ "LichKingDeathEvent", "d7/df5/a18702.html#a9aa328b60358034355b1eed5caacb9f8", null ],
+    [ "Execute", "d7/df5/a18702.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
+    [ "_owner", "d7/df5/a18702.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
 ];

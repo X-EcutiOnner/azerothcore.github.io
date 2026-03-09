@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellScriptMissileBarrageTest.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellProcArcanePotencyTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -109,198 +109,125 @@ $(document).ready(function(){initNavTree('d9/d42/a00575.html','../../'); initRes
 <a href="#namespaces">Namespaces</a> &#124;
 <a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">SpellScriptMissileBarrageTest.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">SpellProcArcanePotencyTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><a class="el" href="../../d7/d19/a08988.html">Unit</a> tests for Missile Barrage (44404-44408) proc behavior.  
+<p><a class="el" href="../../d4/d8e/a09018.html">Unit</a> tests for Arcane Potency proc behavior.  
 <a href="#details">More...</a></p>
-<div class="textblock"><code>#include &quot;gtest/gtest.h&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellInfo.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">AuraScriptTestFramework.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
 Namespaces</h2></td></tr>
-<tr class="memitem:d1/dc4/a05052"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc4/a05052.html">MageSpellFlags</a></td></tr>
-<tr class="memdesc:d1/dc4/a05052"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get the SpellFamilyFlags[0] for common Mage spells. <br /></td></tr>
+<tr class="memitem:dd/d78/a05079"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d78/a05079.html">anonymous_namespace{SpellProcArcanePotencyTest.cpp}</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:aefcad72982a8fa6f771f8bef56c3070c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a> (<a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellFamilyFlags0, int rollResult)</td></tr>
-<tr class="memdesc:aefcad72982a8fa6f771f8bef56c3070c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Simulates the CheckProc logic from <a class="el" href="../../d7/de2/a26552.html">spell_mage_missile_barrage</a>.  <a href="../../d9/d42/a00575.html#aefcad72982a8fa6f771f8bef56c3070c">More...</a><br /></td></tr>
-<tr class="separator:aefcad72982a8fa6f771f8bef56c3070c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7adabded91ba82360d8d9b6b1d5132ea"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#a7adabded91ba82360d8d9b6b1d5132ea">TEST_F</a> (<a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>, ArcaneBlast_AlwaysProcs_RegardlessOfRoll)</td></tr>
-<tr class="separator:a7adabded91ba82360d8d9b6b1d5132ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8fa33be2273b532d781422d25e8b6672"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#a8fa33be2273b532d781422d25e8b6672">TEST_F</a> (<a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>, ArcaneBlast_Returns100PercentRate)</td></tr>
-<tr class="separator:a8fa33be2273b532d781422d25e8b6672"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aeab0a3a6edde33d54feef5dd9ceea629"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#aeab0a3a6edde33d54feef5dd9ceea629">TEST_F</a> (<a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>, Fireball_ProcsOnLowRoll)</td></tr>
-<tr class="separator:aeab0a3a6edde33d54feef5dd9ceea629"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaae02d3218c11e06e93c5ee51f073546"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#aaae02d3218c11e06e93c5ee51f073546">TEST_F</a> (<a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>, Fireball_FailsOnHighRoll)</td></tr>
-<tr class="separator:aaae02d3218c11e06e93c5ee51f073546"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab581bb40fc8c18dc8273db253cad2d44"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#ab581bb40fc8c18dc8273db253cad2d44">TEST_F</a> (<a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>, Fireball_Returns50PercentRate)</td></tr>
-<tr class="separator:ab581bb40fc8c18dc8273db253cad2d44"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5db2f0c8c8e20002a5c60de95fbecda3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#a5db2f0c8c8e20002a5c60de95fbecda3">TEST_F</a> (<a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>, ArcaneMissiles_Returns50PercentRate)</td></tr>
-<tr class="separator:a5db2f0c8c8e20002a5c60de95fbecda3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad0e7264881bbb5fe5752d47c56930961"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#ad0e7264881bbb5fe5752d47c56930961">TEST_F</a> (<a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>, OtherSpells_Returns50PercentRate)</td></tr>
-<tr class="separator:ad0e7264881bbb5fe5752d47c56930961"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac2dda4615e476c49664c332dfe3e309b"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a> (float dbcChance, float checkProcRate)</td></tr>
-<tr class="memdesc:ac2dda4615e476c49664c332dfe3e309b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Calculate the effective proc rate combining DBC chance and CheckProc.  <a href="../../d9/d42/a00575.html#ac2dda4615e476c49664c332dfe3e309b">More...</a><br /></td></tr>
-<tr class="separator:ac2dda4615e476c49664c332dfe3e309b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acd2cc80be83d1ce20f5f41d590dcbd82"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#acd2cc80be83d1ce20f5f41d590dcbd82">TEST_F</a> (<a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>, EffectiveRate_ArcaneBlast_Rank5)</td></tr>
-<tr class="separator:acd2cc80be83d1ce20f5f41d590dcbd82"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab39746f7c4ec98445dc62c1bc5cb7265"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#ab39746f7c4ec98445dc62c1bc5cb7265">TEST_F</a> (<a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>, EffectiveRate_Fireball_Rank5)</td></tr>
-<tr class="separator:ab39746f7c4ec98445dc62c1bc5cb7265"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab4a6da10f775c2bfa3a120cf6ec09973"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#ab4a6da10f775c2bfa3a120cf6ec09973">TEST_F</a> (<a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>, EffectiveRate_ArcaneBlast_Rank1)</td></tr>
-<tr class="separator:ab4a6da10f775c2bfa3a120cf6ec09973"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a574495213ded418bae43ebae94186bd0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#a574495213ded418bae43ebae94186bd0">TEST_F</a> (<a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>, EffectiveRate_Fireball_Rank1)</td></tr>
-<tr class="separator:a574495213ded418bae43ebae94186bd0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9d499aeaaf23a19ea19dd0175bc5df38"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#a9d499aeaaf23a19ea19dd0175bc5df38">TEST_F</a> (<a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>, DBCProcChances_MatchExpectedValues)</td></tr>
-<tr class="separator:a9d499aeaaf23a19ea19dd0175bc5df38"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a70c0b2737c1badc539277422564cad49"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#a70c0b2737c1badc539277422564cad49">TEST_F</a> (<a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>, BoundaryRoll_49_Succeeds)</td></tr>
-<tr class="separator:a70c0b2737c1badc539277422564cad49"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9c89bbafdb493683c8e42950deff3582"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#a9c89bbafdb493683c8e42950deff3582">TEST_F</a> (<a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>, BoundaryRoll_50_Fails)</td></tr>
-<tr class="separator:a9c89bbafdb493683c8e42950deff3582"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a06d413749aa2d93773f002946e384e45"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#a06d413749aa2d93773f002946e384e45">TEST_F</a> (<a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>, ArcaneBlastFlag_ExactMatch)</td></tr>
-<tr class="separator:a06d413749aa2d93773f002946e384e45"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afc51c074c8129f52f5f281f4d27c08e0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/dce/a11674.html">SpellProcEntry</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d78/a05079.html#afc51c074c8129f52f5f281f4d27c08e0">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::BuildArcanePotencyProcEntry</a> ()</td></tr>
+<tr class="separator:afc51c074c8129f52f5f281f4d27c08e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae2c75192be295f76f95c1d28cb599452"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#ae2c75192be295f76f95c1d28cb599452">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, ProcEntry_HasReqSpellmodAttribute)</td></tr>
+<tr class="separator:ae2c75192be295f76f95c1d28cb599452"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acb9e8708ead931789692c4843695b1f2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#acb9e8708ead931789692c4843695b1f2">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, ProcEntry_CastPhaseOnly)</td></tr>
+<tr class="separator:acb9e8708ead931789692c4843695b1f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab14911bfff6244d90e4bad32f7661669"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#ab14911bfff6244d90e4bad32f7661669">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, ProcEntry_MageFamily)</td></tr>
+<tr class="separator:ab14911bfff6244d90e4bad32f7661669"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aafc20e2202faf9465b6499dbe0c5bba4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#aafc20e2202faf9465b6499dbe0c5bba4">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, ProcEntry_BothRanksIdentical)</td></tr>
+<tr class="separator:aafc20e2202faf9465b6499dbe0c5bba4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae2b9e360834e97f1938218405f9632c5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#ae2b9e360834e97f1938218405f9632c5">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, FamilyMask_Fireball_Matches)</td></tr>
+<tr class="separator:ae2b9e360834e97f1938218405f9632c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7bdbbcb320798ba3d70ef6f54ce1a57a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#a7bdbbcb320798ba3d70ef6f54ce1a57a">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, FamilyMask_Frostbolt_Matches)</td></tr>
+<tr class="separator:a7bdbbcb320798ba3d70ef6f54ce1a57a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a5ddcb64a0c2f2bb55f53ac2405cd19"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#a1a5ddcb64a0c2f2bb55f53ac2405cd19">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, FamilyMask_ArcaneBlast_Matches)</td></tr>
+<tr class="separator:a1a5ddcb64a0c2f2bb55f53ac2405cd19"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a57dc9556cf0be707c2dc83b18da58713"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#a57dc9556cf0be707c2dc83b18da58713">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, FamilyMask_ArcaneExplosion_Matches)</td></tr>
+<tr class="separator:a57dc9556cf0be707c2dc83b18da58713"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a28eafd5c0cb7bb8e01efbb06f7b34233"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#a28eafd5c0cb7bb8e01efbb06f7b34233">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, FamilyMask_FrostfireBolt_Matches)</td></tr>
+<tr class="separator:a28eafd5c0cb7bb8e01efbb06f7b34233"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d62c3db90beab7feca6eae255c63b32"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#a9d62c3db90beab7feca6eae255c63b32">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, FamilyMask_FireBlast_Matches)</td></tr>
+<tr class="separator:a9d62c3db90beab7feca6eae255c63b32"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a36cc74c392392b4e050fd3a9a93ec059"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#a36cc74c392392b4e050fd3a9a93ec059">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, FamilyMask_Scorch_Matches)</td></tr>
+<tr class="separator:a36cc74c392392b4e050fd3a9a93ec059"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abece168d313065ce3e27c87340d28554"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#abece168d313065ce3e27c87340d28554">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, FamilyMask_ArcaneMissiles_DoesNotMatch)</td></tr>
+<tr class="separator:abece168d313065ce3e27c87340d28554"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a089abece3e94a26f04aa17410f5e39ef"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#a089abece3e94a26f04aa17410f5e39ef">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, FamilyMask_IceLance_DoesNotMatch)</td></tr>
+<tr class="separator:a089abece3e94a26f04aa17410f5e39ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adcb3e2e59c18273567517073dba880f6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#adcb3e2e59c18273567517073dba880f6">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, FamilyMask_ArcaneBarrage_DoesNotMatch)</td></tr>
+<tr class="separator:adcb3e2e59c18273567517073dba880f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2d4b85c0008eabeb4461f01bccaf89f8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#a2d4b85c0008eabeb4461f01bccaf89f8">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, FamilyMask_NonMageSpell_DoesNotMatch)</td></tr>
+<tr class="separator:a2d4b85c0008eabeb4461f01bccaf89f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adfc27e70e188d4249a0bca1cfe629a0b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#adfc27e70e188d4249a0bca1cfe629a0b">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, Phase_TriggersOnCast)</td></tr>
+<tr class="separator:adfc27e70e188d4249a0bca1cfe629a0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab1f6efbe06103643b8039abfb5cd2415"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#ab1f6efbe06103643b8039abfb5cd2415">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, Phase_DoesNotTriggerOnHit)</td></tr>
+<tr class="separator:ab1f6efbe06103643b8039abfb5cd2415"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae2b88365c6b1f408d161344563db98cf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#ae2b88365c6b1f408d161344563db98cf">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, Phase_DoesNotTriggerOnFinish)</td></tr>
+<tr class="separator:ae2b88365c6b1f408d161344563db98cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a364de25f6fd5bb612f3c4bc96219139b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#a364de25f6fd5bb612f3c4bc96219139b">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, ReqSpellmod_AuraWithCharges_BlocksWithoutAppliedMod)</td></tr>
+<tr class="separator:a364de25f6fd5bb612f3c4bc96219139b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae68d06799176ab8a4d7a6b42fc3e0b34"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#ae68d06799176ab8a4d7a6b42fc3e0b34">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, ReqSpellmod_AuraWithoutCharges_SkipsCheck)</td></tr>
+<tr class="separator:ae68d06799176ab8a4d7a6b42fc3e0b34"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adc248b654ba37d17805c085a73b5caa4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#adc248b654ba37d17805c085a73b5caa4">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, MaskBits_CorrectBitsSet)</td></tr>
+<tr class="separator:adc248b654ba37d17805c085a73b5caa4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a92d64ca04bcabf0bac5ef88dd39f9e9f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d42/a00575.html#a92d64ca04bcabf0bac5ef88dd39f9e9f">TEST_F</a> (<a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>, MaskBits_CorrectBitsNotSet)</td></tr>
+<tr class="separator:a92d64ca04bcabf0bac5ef88dd39f9e9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a3cf9b20a3fe729ee462b2431e9ba830f"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc4/a05052.html#a3cf9b20a3fe729ee462b2431e9ba830f">MageSpellFlags::ARCANE_BLAST</a> = 0x20000000</td></tr>
-<tr class="separator:a3cf9b20a3fe729ee462b2431e9ba830f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab9ece6fbb0862f8f3dce9aa99843c805"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc4/a05052.html#ab9ece6fbb0862f8f3dce9aa99843c805">MageSpellFlags::ARCANE_MISSILES</a> = 0x00000020</td></tr>
-<tr class="separator:ab9ece6fbb0862f8f3dce9aa99843c805"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae58d0c097ed2d1cccbf272f42b835d52"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc4/a05052.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a> = 0x00000001</td></tr>
-<tr class="separator:ae58d0c097ed2d1cccbf272f42b835d52"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae8bd1511afd5de6e1475292711b50296"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc4/a05052.html#ae8bd1511afd5de6e1475292711b50296">MageSpellFlags::FROSTFIRE_BOLT</a> = 0x00000000</td></tr>
-<tr class="separator:ae8bd1511afd5de6e1475292711b50296"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abfd925917520301832811c8b3b1b8ae3"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc4/a05052.html#abfd925917520301832811c8b3b1b8ae3">MageSpellFlags::ARCANE_BARRAGE</a> = 0x00000000</td></tr>
-<tr class="separator:abfd925917520301832811c8b3b1b8ae3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab7cb67ee4f38543186bfc7d42b192712"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d78/a05079.html#ab7cb67ee4f38543186bfc7d42b192712">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::ARCANE_POTENCY_R1</a> = 57529</td></tr>
+<tr class="separator:ab7cb67ee4f38543186bfc7d42b192712"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7390e1976d9f6f9d2d32c2c81c4ecdf4"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d78/a05079.html#a7390e1976d9f6f9d2d32c2c81c4ecdf4">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::ARCANE_POTENCY_R2</a> = 57531</td></tr>
+<tr class="separator:a7390e1976d9f6f9d2d32c2c81c4ecdf4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5e47842611c20b40ffa87c0123871fc4"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d78/a05079.html#a5e47842611c20b40ffa87c0123871fc4">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::AP_FAMILY_MASK0</a> = 0x61401035</td></tr>
+<tr class="separator:a5e47842611c20b40ffa87c0123871fc4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a323736cdd0c6b7b1aa47796fa535ed99"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d78/a05079.html#a323736cdd0c6b7b1aa47796fa535ed99">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::AP_FAMILY_MASK1</a> = 0x00001000</td></tr>
+<tr class="separator:a323736cdd0c6b7b1aa47796fa535ed99"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a13fa88da914c4b6165705a95a970f3ad"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d78/a05079.html#a13fa88da914c4b6165705a95a970f3ad">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::AP_FAMILY_MASK2</a> = 0</td></tr>
+<tr class="separator:a13fa88da914c4b6165705a95a970f3ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8212ec73f1228fa44d4e5d13dd5035f8"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d78/a05079.html#a8212ec73f1228fa44d4e5d13dd5035f8">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::FIREBALL_FLAG0</a> = 0x00000001</td></tr>
+<tr class="separator:a8212ec73f1228fa44d4e5d13dd5035f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a74e888eaed31ead886468c50a4dae9b0"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d78/a05079.html#a74e888eaed31ead886468c50a4dae9b0">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::FROSTFIRE_BOLT_FLAG0</a> = 0x00000004</td></tr>
+<tr class="separator:a74e888eaed31ead886468c50a4dae9b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af7d0944caac46971cff954248d8f4b97"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d78/a05079.html#af7d0944caac46971cff954248d8f4b97">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::FROSTFIRE_BOLT_FLAG1</a> = 0x00001000</td></tr>
+<tr class="separator:af7d0944caac46971cff954248d8f4b97"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af9bb82cee65d66714b330bff0daeb2ec"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d78/a05079.html#af9bb82cee65d66714b330bff0daeb2ec">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::FIRE_BLAST_FLAG0</a> = 0x00000010</td></tr>
+<tr class="separator:af9bb82cee65d66714b330bff0daeb2ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82f6894c895d164a44f2f69466aaaba5"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d78/a05079.html#a82f6894c895d164a44f2f69466aaaba5">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::FROSTBOLT_FLAG0</a> = 0x00000020</td></tr>
+<tr class="separator:a82f6894c895d164a44f2f69466aaaba5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abd2f6511cf44da27561c25a1fe544e1d"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d78/a05079.html#abd2f6511cf44da27561c25a1fe544e1d">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::ARCANE_EXPLOSION_FLAG0</a> = 0x00001000</td></tr>
+<tr class="separator:abd2f6511cf44da27561c25a1fe544e1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7a6e5d42ddb7c5e656e5471145ddae50"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d78/a05079.html#a7a6e5d42ddb7c5e656e5471145ddae50">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::SCORCH_FLAG0</a> = 0x00400000</td></tr>
+<tr class="separator:a7a6e5d42ddb7c5e656e5471145ddae50"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a307089ef20a320b15ee6c7188ffb3654"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d78/a05079.html#a307089ef20a320b15ee6c7188ffb3654">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::ARCANE_BLAST_FLAG0</a> = 0x20000000</td></tr>
+<tr class="separator:a307089ef20a320b15ee6c7188ffb3654"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1524b7c23900094e528bed6c5a93836c"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d78/a05079.html#a1524b7c23900094e528bed6c5a93836c">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::ARCANE_MISSILES_FLAG0</a> = 0x00000800</td></tr>
+<tr class="separator:a1524b7c23900094e528bed6c5a93836c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a130d1d85e94ec7289b135dc22dc1ce51"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d78/a05079.html#a130d1d85e94ec7289b135dc22dc1ce51">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::ICE_LANCE_FLAG0</a> = 0x00020000</td></tr>
+<tr class="separator:a130d1d85e94ec7289b135dc22dc1ce51"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82cc9a4e74d7cfa646c989cb42f520eb"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d78/a05079.html#a82cc9a4e74d7cfa646c989cb42f520eb">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::ARCANE_BARRAGE_FLAG1</a> = 0x00008000</td></tr>
+<tr class="separator:a82cc9a4e74d7cfa646c989cb42f520eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p ><a class="el" href="../../d7/d19/a08988.html">Unit</a> tests for Missile Barrage (44404-44408) proc behavior. </p>
-<p >Missile Barrage talent should proc:</p><ul>
-<li>100% chance when casting Arcane Blast (SpellFamilyFlags[0] &amp; 0x20000000)</li>
-<li>50% reduced chance when casting other spells (Arcane Barrage, Frostfire Bolt, etc.)</li>
-</ul>
-<p >DBC Base proc chances by rank:</p><ul>
-<li>Rank 1 (44404): 4%</li>
-<li>Rank 2 (44405): 8%</li>
-<li>Rank 3 (44406): 12%</li>
-<li>Rank 4 (44407): 16%</li>
-<li>Rank 5 (44408): 20%</li>
-</ul>
-<p >Effective proc rates:</p><ul>
-<li>Arcane Blast: Full DBC chance (4-20%)</li>
-<li>Other spells: 50% of DBC chance (2-10%) </li>
+<div class="textblock"><p ><a class="el" href="../../d4/d8e/a09018.html">Unit</a> tests for Arcane Potency proc behavior. </p>
+<p >Arcane Potency (57529/57531) buffs should only be consumed by the spell that was actually affected by the crit bonus, not by the same cast that triggered them. This is achieved via PROC_ATTR_REQ_SPELLMOD (0x08) which requires the proccing aura to be in the triggering spell's m_appliedMods.</p>
+<p >The crit aura registration in SpellDoneCritChance ensures that only spells whose crit chance was actually modified by Arcane Potency will have it in their m_appliedMods set.</p>
+<p >References:</p><ul>
+<li>TrinityCore commit 81f16b201b</li>
+<li>ChromieCraft issue #9092 </li>
 </ul>
 
-<p class="definition">Definition in file <a class="el" href="../../">SpellScriptMissileBarrageTest.cpp</a>.</p>
+<p class="definition">Definition in file <a class="el" href="../../">SpellProcArcanePotencyTest.cpp</a>.</p>
 </div><h2 class="groupheader">Function Documentation</h2>
-<a id="ac2dda4615e476c49664c332dfe3e309b" name="ac2dda4615e476c49664c332dfe3e309b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac2dda4615e476c49664c332dfe3e309b">&#9670;&#160;</a></span>CalculateEffectiveProcRate()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float CalculateEffectiveProcRate </td>
-          <td>(</td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>dbcChance</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>checkProcRate</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Calculate the effective proc rate combining DBC chance and CheckProc. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">dbcChance</td><td>Base proc chance from DBC (e.g., 20 for rank 5) </td></tr>
-    <tr><td class="paramname">checkProcRate</td><td>CheckProc pass rate (100 for Arcane Blast, 50 for others) </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section return"><dt>Returns</dt><dd>Effective proc rate as percentage </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  185</span>{</div>
-<div class="line"><span class="lineno">  186</span>    <span class="keywordflow">return</span> dbcChance * (checkProcRate / 100.0f);</div>
-<div class="line"><span class="lineno">  187</span>}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00189">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="aefcad72982a8fa6f771f8bef56c3070c" name="aefcad72982a8fa6f771f8bef56c3070c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aefcad72982a8fa6f771f8bef56c3070c">&#9670;&#160;</a></span>SimulateMissileBarrageCheckProc()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool SimulateMissileBarrageCheckProc </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>spellFamilyFlags0</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>rollResult</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Simulates the CheckProc logic from <a class="el" href="../../d7/de2/a26552.html">spell_mage_missile_barrage</a>. </p>
-<p >This mirrors the actual script at: <a class="el" href="../../d8/d2e/a03548.html">src/server/scripts/Spells/spell_mage.cpp</a>:1325-1338</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">spellFamilyFlags0</td><td>The SpellFamilyFlags[0] of the triggering spell </td></tr>
-    <tr><td class="paramname">rollResult</td><td>The result of roll_chance_i(50) - pass 0-49 to succeed, 50-99 to fail </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section return"><dt>Returns</dt><dd>true if the proc check passes </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">   58</span>{</div>
-<div class="line"><span class="lineno">   59</span>    <span class="comment">// Arcane Blast - full proc chance (100%)</span></div>
-<div class="line"><span class="lineno">   60</span>    <span class="comment">// Arcane Blast spell family flags: 0x20000000</span></div>
-<div class="line"><span class="lineno">   61</span>    <span class="keywordflow">if</span> (spellFamilyFlags0 &amp; 0x20000000)</div>
-<div class="line"><span class="lineno">   62</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   63</span> </div>
-<div class="line"><span class="lineno">   64</span>    <span class="comment">// Other spells - 50% proc chance</span></div>
-<div class="line"><span class="lineno">   65</span>    <span class="comment">// Simulates: return roll_chance_i(50);</span></div>
-<div class="line"><span class="lineno">   66</span>    <span class="keywordflow">return</span> rollResult &lt; 50;</div>
-<div class="line"><span class="lineno">   67</span>}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00097">MissileBarrageTest::RunStatisticalTest()</a>, and <a class="el" href="../../#l00115">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="a7adabded91ba82360d8d9b6b1d5132ea" name="a7adabded91ba82360d8d9b6b1d5132ea"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7adabded91ba82360d8d9b6b1d5132ea">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/15]</span></h2>
+<a id="adcb3e2e59c18273567517073dba880f6" name="adcb3e2e59c18273567517073dba880f6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adcb3e2e59c18273567517073dba880f6">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -308,356 +235,13 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">ArcaneBlast_AlwaysProcs_RegardlessOfRoll&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  116</span>{</div>
-<div class="line"><span class="lineno">  117</span>    <span class="comment">// Arcane Blast should always pass CheckProc, regardless of the roll result</span></div>
-<div class="line"><span class="lineno">  118</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> roll = 0; roll &lt; 100; roll++)</div>
-<div class="line"><span class="lineno">  119</span>    {</div>
-<div class="line"><span class="lineno">  120</span>        EXPECT_TRUE(<a class="code hl_function" href="../../d9/d42/a00575.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d1/dc4/a05052.html#a3cf9b20a3fe729ee462b2431e9ba830f">MageSpellFlags::ARCANE_BLAST</a>, roll))</div>
-<div class="line"><span class="lineno">  121</span>            &lt;&lt; <span class="stringliteral">&quot;Arcane Blast should always proc, but failed with roll=&quot;</span> &lt;&lt; roll;</div>
-<div class="line"><span class="lineno">  122</span>    }</div>
-<div class="line"><span class="lineno">  123</span>}</div>
-<div class="ttc" id="aa00575_html_aefcad72982a8fa6f771f8bef56c3070c"><div class="ttname"><a href="../../d9/d42/a00575.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a></div><div class="ttdeci">bool SimulateMissileBarrageCheckProc(uint32 spellFamilyFlags0, int rollResult)</div><div class="ttdoc">Simulates the CheckProc logic from spell_mage_missile_barrage.</div><div class="ttdef"><b>Definition:</b> SpellScriptMissileBarrageTest.cpp:57</div></div>
-<div class="ttc" id="aa05052_html_a3cf9b20a3fe729ee462b2431e9ba830f"><div class="ttname"><a href="../../d1/dc4/a05052.html#a3cf9b20a3fe729ee462b2431e9ba830f">MageSpellFlags::ARCANE_BLAST</a></div><div class="ttdeci">constexpr uint32 ARCANE_BLAST</div><div class="ttdef"><b>Definition:</b> SpellScriptMissileBarrageTest.cpp:74</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00074">MageSpellFlags::ARCANE_BLAST</a>, and <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
-
-</div>
-</div>
-<a id="a8fa33be2273b532d781422d25e8b6672" name="a8fa33be2273b532d781422d25e8b6672"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8fa33be2273b532d781422d25e8b6672">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/15]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">ArcaneBlast_Returns100PercentRate&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  126</span>{</div>
-<div class="line"><span class="lineno">  127</span>    <span class="keywordtype">float</span> rate = RunStatisticalTest(<a class="code hl_variable" href="../../d1/dc4/a05052.html#a3cf9b20a3fe729ee462b2431e9ba830f">MageSpellFlags::ARCANE_BLAST</a>);</div>
-<div class="line"><span class="lineno">  128</span>    EXPECT_NEAR(rate, 100.0f, 0.01f) &lt;&lt; <span class="stringliteral">&quot;Arcane Blast should have 100% CheckProc pass rate&quot;</span>;</div>
-<div class="line"><span class="lineno">  129</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00074">MageSpellFlags::ARCANE_BLAST</a>.</p>
-
-</div>
-</div>
-<a id="a06d413749aa2d93773f002946e384e45" name="a06d413749aa2d93773f002946e384e45"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a06d413749aa2d93773f002946e384e45">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/15]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">ArcaneBlastFlag_ExactMatch&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  266</span>{</div>
-<div class="line"><span class="lineno">  267</span>    <span class="comment">// Test that exactly the Arcane Blast flag triggers 100% rate</span></div>
-<div class="line"><span class="lineno">  268</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d9/d42/a00575.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(0x20000000, 99));</div>
-<div class="line"><span class="lineno">  269</span> </div>
-<div class="line"><span class="lineno">  270</span>    <span class="comment">// Combined flags should also work if Arcane Blast is present</span></div>
-<div class="line"><span class="lineno">  271</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d9/d42/a00575.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(0x20000001, 99));</div>
-<div class="line"><span class="lineno">  272</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d9/d42/a00575.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(0x20000020, 99));</div>
-<div class="line"><span class="lineno">  273</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d9/d42/a00575.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(0xFFFFFFFF, 99));</div>
-<div class="line"><span class="lineno">  274</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
-
-</div>
-</div>
-<a id="a5db2f0c8c8e20002a5c60de95fbecda3" name="a5db2f0c8c8e20002a5c60de95fbecda3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5db2f0c8c8e20002a5c60de95fbecda3">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/15]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">ArcaneMissiles_Returns50PercentRate&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  162</span>{</div>
-<div class="line"><span class="lineno">  163</span>    <span class="keywordtype">float</span> rate = RunStatisticalTest(<a class="code hl_variable" href="../../d1/dc4/a05052.html#ab9ece6fbb0862f8f3dce9aa99843c805">MageSpellFlags::ARCANE_MISSILES</a>);</div>
-<div class="line"><span class="lineno">  164</span>    EXPECT_NEAR(rate, 50.0f, 0.01f) &lt;&lt; <span class="stringliteral">&quot;Arcane Missiles should have 50% CheckProc pass rate&quot;</span>;</div>
-<div class="line"><span class="lineno">  165</span>}</div>
-<div class="ttc" id="aa05052_html_ab9ece6fbb0862f8f3dce9aa99843c805"><div class="ttname"><a href="../../d1/dc4/a05052.html#ab9ece6fbb0862f8f3dce9aa99843c805">MageSpellFlags::ARCANE_MISSILES</a></div><div class="ttdeci">constexpr uint32 ARCANE_MISSILES</div><div class="ttdef"><b>Definition:</b> SpellScriptMissileBarrageTest.cpp:75</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00075">MageSpellFlags::ARCANE_MISSILES</a>.</p>
-
-</div>
-</div>
-<a id="a70c0b2737c1badc539277422564cad49" name="a70c0b2737c1badc539277422564cad49"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a70c0b2737c1badc539277422564cad49">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/15]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">BoundaryRoll_49_Succeeds&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  254</span>{</div>
-<div class="line"><span class="lineno">  255</span>    <span class="comment">// Roll of 49 should succeed (&lt; 50)</span></div>
-<div class="line"><span class="lineno">  256</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d9/d42/a00575.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d1/dc4/a05052.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>, 49));</div>
-<div class="line"><span class="lineno">  257</span>}</div>
-<div class="ttc" id="aa05052_html_ae58d0c097ed2d1cccbf272f42b835d52"><div class="ttname"><a href="../../d1/dc4/a05052.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a></div><div class="ttdeci">constexpr uint32 FIREBALL</div><div class="ttdef"><b>Definition:</b> SpellScriptMissileBarrageTest.cpp:76</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">MageSpellFlags::FIREBALL</a>, and <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
-
-</div>
-</div>
-<a id="a9c89bbafdb493683c8e42950deff3582" name="a9c89bbafdb493683c8e42950deff3582"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9c89bbafdb493683c8e42950deff3582">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/15]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">BoundaryRoll_50_Fails&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  260</span>{</div>
-<div class="line"><span class="lineno">  261</span>    <span class="comment">// Roll of 50 should fail (&gt;= 50)</span></div>
-<div class="line"><span class="lineno">  262</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d9/d42/a00575.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d1/dc4/a05052.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>, 50));</div>
-<div class="line"><span class="lineno">  263</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">MageSpellFlags::FIREBALL</a>, and <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
-
-</div>
-</div>
-<a id="a9d499aeaaf23a19ea19dd0175bc5df38" name="a9d499aeaaf23a19ea19dd0175bc5df38"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9d499aeaaf23a19ea19dd0175bc5df38">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/15]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">DBCProcChances_MatchExpectedValues&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  222</span>{</div>
-<div class="line"><span class="lineno">  223</span>    <span class="comment">// Expected DBC proc chances for each rank</span></div>
-<div class="line"><span class="lineno">  224</span>    <span class="comment">// Note: These should match the actual DBC values</span></div>
-<div class="line"><span class="lineno">  225</span>    <span class="keyword">struct </span>RankData</div>
-<div class="line"><span class="lineno">  226</span>    {</div>
-<div class="line"><span class="lineno">  227</span>        <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId;</div>
-<div class="line"><span class="lineno">  228</span>        <span class="keywordtype">int</span> expectedChance;</div>
-<div class="line"><span class="lineno">  229</span>    };</div>
-<div class="line"><span class="lineno">  230</span> </div>
-<div class="line"><span class="lineno">  231</span>    std::vector&lt;RankData&gt; ranks = {</div>
-<div class="line"><span class="lineno">  232</span>        { 44404, 4 },   <span class="comment">// Rank 1: 4% (actually 8% in some versions)</span></div>
-<div class="line"><span class="lineno">  233</span>        { 44405, 8 },   <span class="comment">// Rank 2</span></div>
-<div class="line"><span class="lineno">  234</span>        { 44406, 12 },  <span class="comment">// Rank 3</span></div>
-<div class="line"><span class="lineno">  235</span>        { 44407, 16 },  <span class="comment">// Rank 4</span></div>
-<div class="line"><span class="lineno">  236</span>        { 44408, 20 },  <span class="comment">// Rank 5</span></div>
-<div class="line"><span class="lineno">  237</span>    };</div>
-<div class="line"><span class="lineno">  238</span> </div>
-<div class="line"><span class="lineno">  239</span>    <span class="comment">// This documents the expected values - actual verification would require SpellMgr</span></div>
-<div class="line"><span class="lineno">  240</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; rank : ranks)</div>
-<div class="line"><span class="lineno">  241</span>    {</div>
-<div class="line"><span class="lineno">  242</span>        SCOPED_TRACE(<span class="stringliteral">&quot;Spell ID: &quot;</span> + std::to_string(rank.spellId));</div>
-<div class="line"><span class="lineno">  243</span>        <span class="comment">// The actual DBC lookup would be:</span></div>
-<div class="line"><span class="lineno">  244</span>        <span class="comment">// SpellInfo const* spellInfo = sSpellMgr-&gt;GetSpellInfo(rank.spellId);</span></div>
-<div class="line"><span class="lineno">  245</span>        <span class="comment">// EXPECT_EQ(spellInfo-&gt;ProcChance, rank.expectedChance);</span></div>
-<div class="line"><span class="lineno">  246</span>    }</div>
-<div class="line"><span class="lineno">  247</span>}</div>
-<div class="ttc" id="aa00485_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ab4a6da10f775c2bfa3a120cf6ec09973" name="ab4a6da10f775c2bfa3a120cf6ec09973"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab4a6da10f775c2bfa3a120cf6ec09973">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/15]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">EffectiveRate_ArcaneBlast_Rank1&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  204</span>{</div>
-<div class="line"><span class="lineno">  205</span>    <span class="comment">// Rank 1: 4% base chance * 100% CheckProc = 4% effective</span></div>
-<div class="line"><span class="lineno">  206</span>    <span class="keywordtype">float</span> effective = <a class="code hl_function" href="../../d9/d42/a00575.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a>(4.0f, 100.0f);</div>
-<div class="line"><span class="lineno">  207</span>    EXPECT_NEAR(effective, 4.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  208</span>}</div>
-<div class="ttc" id="aa00575_html_ac2dda4615e476c49664c332dfe3e309b"><div class="ttname"><a href="../../d9/d42/a00575.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a></div><div class="ttdeci">float CalculateEffectiveProcRate(float dbcChance, float checkProcRate)</div><div class="ttdoc">Calculate the effective proc rate combining DBC chance and CheckProc.</div><div class="ttdef"><b>Definition:</b> SpellScriptMissileBarrageTest.cpp:184</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00184">CalculateEffectiveProcRate()</a>.</p>
-
-</div>
-</div>
-<a id="acd2cc80be83d1ce20f5f41d590dcbd82" name="acd2cc80be83d1ce20f5f41d590dcbd82"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acd2cc80be83d1ce20f5f41d590dcbd82">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/15]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">EffectiveRate_ArcaneBlast_Rank5&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  190</span>{</div>
-<div class="line"><span class="lineno">  191</span>    <span class="comment">// Rank 5: 20% base chance * 100% CheckProc = 20% effective</span></div>
-<div class="line"><span class="lineno">  192</span>    <span class="keywordtype">float</span> effective = <a class="code hl_function" href="../../d9/d42/a00575.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a>(20.0f, 100.0f);</div>
-<div class="line"><span class="lineno">  193</span>    EXPECT_NEAR(effective, 20.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  194</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00184">CalculateEffectiveProcRate()</a>.</p>
-
-</div>
-</div>
-<a id="a574495213ded418bae43ebae94186bd0" name="a574495213ded418bae43ebae94186bd0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a574495213ded418bae43ebae94186bd0">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/15]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">EffectiveRate_Fireball_Rank1&#160;</td>
+          <td class="paramtype">FamilyMask_ArcaneBarrage_DoesNotMatch&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -668,17 +252,20 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  211</span>{</div>
-<div class="line"><span class="lineno">  212</span>    <span class="comment">// Rank 1: 4% base chance * 50% CheckProc = 2% effective</span></div>
-<div class="line"><span class="lineno">  213</span>    <span class="keywordtype">float</span> effective = <a class="code hl_function" href="../../d9/d42/a00575.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a>(4.0f, 50.0f);</div>
-<div class="line"><span class="lineno">  214</span>    EXPECT_NEAR(effective, 2.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  212</span>    <span class="keyword">auto</span>* spell = CreateSpellInfo(44425, <a class="code hl_enumvalue" href="../../d6/ddb/a04853.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae">SPELLFAMILY_MAGE</a>, 0, <a class="code hl_variable" href="../../dd/d78/a05079.html#a82cc9a4e74d7cfa646c989cb42f520eb">ARCANE_BARRAGE_FLAG1</a>);</div>
+<div class="line"><span class="lineno">  213</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_function" href="../../dd/d78/a05079.html#afc51c074c8129f52f5f281f4d27c08e0">BuildArcanePotencyProcEntry</a>();</div>
+<div class="line"><span class="lineno">  214</span>    EXPECT_FALSE(TestSpellFamilyMatch(procEntry.SpellFamilyName, procEntry.SpellFamilyMask, spell));</div>
 <div class="line"><span class="lineno">  215</span>}</div>
+<div class="ttc" id="aa04853_html_a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae"><div class="ttname"><a href="../../d6/ddb/a04853.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae">SPELLFAMILY_MAGE</a></div><div class="ttdeci">@ SPELLFAMILY_MAGE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3771</div></div>
+<div class="ttc" id="aa05079_html_a82cc9a4e74d7cfa646c989cb42f520eb"><div class="ttname"><a href="../../dd/d78/a05079.html#a82cc9a4e74d7cfa646c989cb42f520eb">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::ARCANE_BARRAGE_FLAG1</a></div><div class="ttdeci">constexpr uint32 ARCANE_BARRAGE_FLAG1</div><div class="ttdef"><b>Definition:</b> SpellProcArcanePotencyTest.cpp:76</div></div>
+<div class="ttc" id="aa05079_html_afc51c074c8129f52f5f281f4d27c08e0"><div class="ttname"><a href="../../dd/d78/a05079.html#afc51c074c8129f52f5f281f4d27c08e0">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::BuildArcanePotencyProcEntry</a></div><div class="ttdeci">SpellProcEntry BuildArcanePotencyProcEntry()</div><div class="ttdef"><b>Definition:</b> SpellProcArcanePotencyTest.cpp:81</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00184">CalculateEffectiveProcRate()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00076">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::ARCANE_BARRAGE_FLAG1</a>, <a class="el" href="../../#l00081">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::BuildArcanePotencyProcEntry()</a>, and <a class="el" href="../../#l03771">SPELLFAMILY_MAGE</a>.</p>
 
 </div>
 </div>
-<a id="ab39746f7c4ec98445dc62c1bc5cb7265" name="ab39746f7c4ec98445dc62c1bc5cb7265"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab39746f7c4ec98445dc62c1bc5cb7265">&#9670;&#160;</a></span>TEST_F() <span class="overload">[11/15]</span></h2>
+<a id="a1a5ddcb64a0c2f2bb55f53ac2405cd19" name="a1a5ddcb64a0c2f2bb55f53ac2405cd19"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1a5ddcb64a0c2f2bb55f53ac2405cd19">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -686,13 +273,85 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">EffectiveRate_Fireball_Rank5&#160;</td>
+          <td class="paramtype">FamilyMask_ArcaneBlast_Matches&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  157</span>{</div>
+<div class="line"><span class="lineno">  158</span>    <span class="keyword">auto</span>* spell = CreateSpellInfo(30451, <a class="code hl_enumvalue" href="../../d6/ddb/a04853.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae">SPELLFAMILY_MAGE</a>, <a class="code hl_variable" href="../../dd/d78/a05079.html#a307089ef20a320b15ee6c7188ffb3654">ARCANE_BLAST_FLAG0</a>);</div>
+<div class="line"><span class="lineno">  159</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_function" href="../../dd/d78/a05079.html#afc51c074c8129f52f5f281f4d27c08e0">BuildArcanePotencyProcEntry</a>();</div>
+<div class="line"><span class="lineno">  160</span>    EXPECT_TRUE(TestSpellFamilyMatch(procEntry.SpellFamilyName, procEntry.SpellFamilyMask, spell));</div>
+<div class="line"><span class="lineno">  161</span>}</div>
+<div class="ttc" id="aa05079_html_a307089ef20a320b15ee6c7188ffb3654"><div class="ttname"><a href="../../dd/d78/a05079.html#a307089ef20a320b15ee6c7188ffb3654">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::ARCANE_BLAST_FLAG0</a></div><div class="ttdeci">constexpr uint32 ARCANE_BLAST_FLAG0</div><div class="ttdef"><b>Definition:</b> SpellProcArcanePotencyTest.cpp:68</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::ARCANE_BLAST_FLAG0</a>, <a class="el" href="../../#l00081">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::BuildArcanePotencyProcEntry()</a>, and <a class="el" href="../../#l03771">SPELLFAMILY_MAGE</a>.</p>
+
+</div>
+</div>
+<a id="a57dc9556cf0be707c2dc83b18da58713" name="a57dc9556cf0be707c2dc83b18da58713"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a57dc9556cf0be707c2dc83b18da58713">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/22]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">FamilyMask_ArcaneExplosion_Matches&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  164</span>{</div>
+<div class="line"><span class="lineno">  165</span>    <span class="keyword">auto</span>* spell = CreateSpellInfo(1449, <a class="code hl_enumvalue" href="../../d6/ddb/a04853.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae">SPELLFAMILY_MAGE</a>, <a class="code hl_variable" href="../../dd/d78/a05079.html#abd2f6511cf44da27561c25a1fe544e1d">ARCANE_EXPLOSION_FLAG0</a>);</div>
+<div class="line"><span class="lineno">  166</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_function" href="../../dd/d78/a05079.html#afc51c074c8129f52f5f281f4d27c08e0">BuildArcanePotencyProcEntry</a>();</div>
+<div class="line"><span class="lineno">  167</span>    EXPECT_TRUE(TestSpellFamilyMatch(procEntry.SpellFamilyName, procEntry.SpellFamilyMask, spell));</div>
+<div class="line"><span class="lineno">  168</span>}</div>
+<div class="ttc" id="aa05079_html_abd2f6511cf44da27561c25a1fe544e1d"><div class="ttname"><a href="../../dd/d78/a05079.html#abd2f6511cf44da27561c25a1fe544e1d">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::ARCANE_EXPLOSION_FLAG0</a></div><div class="ttdeci">constexpr uint32 ARCANE_EXPLOSION_FLAG0</div><div class="ttdef"><b>Definition:</b> SpellProcArcanePotencyTest.cpp:64</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00064">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::ARCANE_EXPLOSION_FLAG0</a>, <a class="el" href="../../#l00081">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::BuildArcanePotencyProcEntry()</a>, and <a class="el" href="../../#l03771">SPELLFAMILY_MAGE</a>.</p>
+
+</div>
+</div>
+<a id="abece168d313065ce3e27c87340d28554" name="abece168d313065ce3e27c87340d28554"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abece168d313065ce3e27c87340d28554">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/22]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">FamilyMask_ArcaneMissiles_DoesNotMatch&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -703,17 +362,18 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  197</span>{</div>
-<div class="line"><span class="lineno">  198</span>    <span class="comment">// Rank 5: 20% base chance * 50% CheckProc = 10% effective</span></div>
-<div class="line"><span class="lineno">  199</span>    <span class="keywordtype">float</span> effective = <a class="code hl_function" href="../../d9/d42/a00575.html#ac2dda4615e476c49664c332dfe3e309b">CalculateEffectiveProcRate</a>(20.0f, 50.0f);</div>
-<div class="line"><span class="lineno">  200</span>    EXPECT_NEAR(effective, 10.0f, 0.01f);</div>
+<div class="line"><span class="lineno">  198</span>    <span class="keyword">auto</span>* spell = CreateSpellInfo(5143, <a class="code hl_enumvalue" href="../../d6/ddb/a04853.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae">SPELLFAMILY_MAGE</a>, <a class="code hl_variable" href="../../dd/d78/a05079.html#a1524b7c23900094e528bed6c5a93836c">ARCANE_MISSILES_FLAG0</a>);</div>
+<div class="line"><span class="lineno">  199</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_function" href="../../dd/d78/a05079.html#afc51c074c8129f52f5f281f4d27c08e0">BuildArcanePotencyProcEntry</a>();</div>
+<div class="line"><span class="lineno">  200</span>    EXPECT_FALSE(TestSpellFamilyMatch(procEntry.SpellFamilyName, procEntry.SpellFamilyMask, spell));</div>
 <div class="line"><span class="lineno">  201</span>}</div>
+<div class="ttc" id="aa05079_html_a1524b7c23900094e528bed6c5a93836c"><div class="ttname"><a href="../../dd/d78/a05079.html#a1524b7c23900094e528bed6c5a93836c">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::ARCANE_MISSILES_FLAG0</a></div><div class="ttdeci">constexpr uint32 ARCANE_MISSILES_FLAG0</div><div class="ttdef"><b>Definition:</b> SpellProcArcanePotencyTest.cpp:72</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00184">CalculateEffectiveProcRate()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00072">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::ARCANE_MISSILES_FLAG0</a>, <a class="el" href="../../#l00081">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::BuildArcanePotencyProcEntry()</a>, and <a class="el" href="../../#l03771">SPELLFAMILY_MAGE</a>.</p>
 
 </div>
 </div>
-<a id="aaae02d3218c11e06e93c5ee51f073546" name="aaae02d3218c11e06e93c5ee51f073546"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaae02d3218c11e06e93c5ee51f073546">&#9670;&#160;</a></span>TEST_F() <span class="overload">[12/15]</span></h2>
+<a id="ae2b9e360834e97f1938218405f9632c5" name="ae2b9e360834e97f1938218405f9632c5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae2b9e360834e97f1938218405f9632c5">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -721,13 +381,13 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Fireball_FailsOnHighRoll&#160;</td>
+          <td class="paramtype">FamilyMask_Fireball_Matches&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -737,21 +397,19 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  146</span>{</div>
-<div class="line"><span class="lineno">  147</span>    <span class="comment">// Rolls 50-99 should fail</span></div>
-<div class="line"><span class="lineno">  148</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> roll = 50; roll &lt; 100; roll++)</div>
-<div class="line"><span class="lineno">  149</span>    {</div>
-<div class="line"><span class="lineno">  150</span>        EXPECT_FALSE(<a class="code hl_function" href="../../d9/d42/a00575.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d1/dc4/a05052.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>, roll))</div>
-<div class="line"><span class="lineno">  151</span>            &lt;&lt; <span class="stringliteral">&quot;Fireball should NOT proc with roll=&quot;</span> &lt;&lt; roll &lt;&lt; <span class="stringliteral">&quot; (&gt;= 50)&quot;</span>;</div>
-<div class="line"><span class="lineno">  152</span>    }</div>
-<div class="line"><span class="lineno">  153</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  143</span>{</div>
+<div class="line"><span class="lineno">  144</span>    <span class="keyword">auto</span>* spell = CreateSpellInfo(133, <a class="code hl_enumvalue" href="../../d6/ddb/a04853.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae">SPELLFAMILY_MAGE</a>, <a class="code hl_variable" href="../../dd/d78/a05079.html#a8212ec73f1228fa44d4e5d13dd5035f8">FIREBALL_FLAG0</a>);</div>
+<div class="line"><span class="lineno">  145</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_function" href="../../dd/d78/a05079.html#afc51c074c8129f52f5f281f4d27c08e0">BuildArcanePotencyProcEntry</a>();</div>
+<div class="line"><span class="lineno">  146</span>    EXPECT_TRUE(TestSpellFamilyMatch(procEntry.SpellFamilyName, procEntry.SpellFamilyMask, spell));</div>
+<div class="line"><span class="lineno">  147</span>}</div>
+<div class="ttc" id="aa05079_html_a8212ec73f1228fa44d4e5d13dd5035f8"><div class="ttname"><a href="../../dd/d78/a05079.html#a8212ec73f1228fa44d4e5d13dd5035f8">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::FIREBALL_FLAG0</a></div><div class="ttdeci">constexpr uint32 FIREBALL_FLAG0</div><div class="ttdef"><b>Definition:</b> SpellProcArcanePotencyTest.cpp:55</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">MageSpellFlags::FIREBALL</a>, and <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00081">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::BuildArcanePotencyProcEntry()</a>, <a class="el" href="../../#l00055">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::FIREBALL_FLAG0</a>, and <a class="el" href="../../#l03771">SPELLFAMILY_MAGE</a>.</p>
 
 </div>
 </div>
-<a id="aeab0a3a6edde33d54feef5dd9ceea629" name="aeab0a3a6edde33d54feef5dd9ceea629"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aeab0a3a6edde33d54feef5dd9ceea629">&#9670;&#160;</a></span>TEST_F() <span class="overload">[13/15]</span></h2>
+<a id="a9d62c3db90beab7feca6eae255c63b32" name="a9d62c3db90beab7feca6eae255c63b32"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9d62c3db90beab7feca6eae255c63b32">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -759,13 +417,13 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Fireball_ProcsOnLowRoll&#160;</td>
+          <td class="paramtype">FamilyMask_FireBlast_Matches&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -775,21 +433,19 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  136</span>{</div>
-<div class="line"><span class="lineno">  137</span>    <span class="comment">// Rolls 0-49 should succeed</span></div>
-<div class="line"><span class="lineno">  138</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> roll = 0; roll &lt; 50; roll++)</div>
-<div class="line"><span class="lineno">  139</span>    {</div>
-<div class="line"><span class="lineno">  140</span>        EXPECT_TRUE(<a class="code hl_function" href="../../d9/d42/a00575.html#aefcad72982a8fa6f771f8bef56c3070c">SimulateMissileBarrageCheckProc</a>(<a class="code hl_variable" href="../../d1/dc4/a05052.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>, roll))</div>
-<div class="line"><span class="lineno">  141</span>            &lt;&lt; <span class="stringliteral">&quot;Fireball should proc with roll=&quot;</span> &lt;&lt; roll &lt;&lt; <span class="stringliteral">&quot; (&lt; 50)&quot;</span>;</div>
-<div class="line"><span class="lineno">  142</span>    }</div>
-<div class="line"><span class="lineno">  143</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  179</span>{</div>
+<div class="line"><span class="lineno">  180</span>    <span class="keyword">auto</span>* spell = CreateSpellInfo(2136, <a class="code hl_enumvalue" href="../../d6/ddb/a04853.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae">SPELLFAMILY_MAGE</a>, <a class="code hl_variable" href="../../dd/d78/a05079.html#af9bb82cee65d66714b330bff0daeb2ec">FIRE_BLAST_FLAG0</a>);</div>
+<div class="line"><span class="lineno">  181</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_function" href="../../dd/d78/a05079.html#afc51c074c8129f52f5f281f4d27c08e0">BuildArcanePotencyProcEntry</a>();</div>
+<div class="line"><span class="lineno">  182</span>    EXPECT_TRUE(TestSpellFamilyMatch(procEntry.SpellFamilyName, procEntry.SpellFamilyMask, spell));</div>
+<div class="line"><span class="lineno">  183</span>}</div>
+<div class="ttc" id="aa05079_html_af9bb82cee65d66714b330bff0daeb2ec"><div class="ttname"><a href="../../dd/d78/a05079.html#af9bb82cee65d66714b330bff0daeb2ec">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::FIRE_BLAST_FLAG0</a></div><div class="ttdeci">constexpr uint32 FIRE_BLAST_FLAG0</div><div class="ttdef"><b>Definition:</b> SpellProcArcanePotencyTest.cpp:60</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">MageSpellFlags::FIREBALL</a>, and <a class="el" href="../../#l00057">SimulateMissileBarrageCheckProc()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00081">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::BuildArcanePotencyProcEntry()</a>, <a class="el" href="../../#l00060">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::FIRE_BLAST_FLAG0</a>, and <a class="el" href="../../#l03771">SPELLFAMILY_MAGE</a>.</p>
 
 </div>
 </div>
-<a id="ab581bb40fc8c18dc8273db253cad2d44" name="ab581bb40fc8c18dc8273db253cad2d44"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab581bb40fc8c18dc8273db253cad2d44">&#9670;&#160;</a></span>TEST_F() <span class="overload">[14/15]</span></h2>
+<a id="a7bdbbcb320798ba3d70ef6f54ce1a57a" name="a7bdbbcb320798ba3d70ef6f54ce1a57a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7bdbbcb320798ba3d70ef6f54ce1a57a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -797,13 +453,13 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Fireball_Returns50PercentRate&#160;</td>
+          <td class="paramtype">FamilyMask_Frostbolt_Matches&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -813,17 +469,19 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  156</span>{</div>
-<div class="line"><span class="lineno">  157</span>    <span class="keywordtype">float</span> rate = RunStatisticalTest(<a class="code hl_variable" href="../../d1/dc4/a05052.html#ae58d0c097ed2d1cccbf272f42b835d52">MageSpellFlags::FIREBALL</a>);</div>
-<div class="line"><span class="lineno">  158</span>    EXPECT_NEAR(rate, 50.0f, 0.01f) &lt;&lt; <span class="stringliteral">&quot;Fireball should have 50% CheckProc pass rate&quot;</span>;</div>
-<div class="line"><span class="lineno">  159</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  150</span>{</div>
+<div class="line"><span class="lineno">  151</span>    <span class="keyword">auto</span>* spell = CreateSpellInfo(116, <a class="code hl_enumvalue" href="../../d6/ddb/a04853.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae">SPELLFAMILY_MAGE</a>, <a class="code hl_variable" href="../../dd/d78/a05079.html#a82f6894c895d164a44f2f69466aaaba5">FROSTBOLT_FLAG0</a>);</div>
+<div class="line"><span class="lineno">  152</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_function" href="../../dd/d78/a05079.html#afc51c074c8129f52f5f281f4d27c08e0">BuildArcanePotencyProcEntry</a>();</div>
+<div class="line"><span class="lineno">  153</span>    EXPECT_TRUE(TestSpellFamilyMatch(procEntry.SpellFamilyName, procEntry.SpellFamilyMask, spell));</div>
+<div class="line"><span class="lineno">  154</span>}</div>
+<div class="ttc" id="aa05079_html_a82f6894c895d164a44f2f69466aaaba5"><div class="ttname"><a href="../../dd/d78/a05079.html#a82f6894c895d164a44f2f69466aaaba5">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::FROSTBOLT_FLAG0</a></div><div class="ttdeci">constexpr uint32 FROSTBOLT_FLAG0</div><div class="ttdef"><b>Definition:</b> SpellProcArcanePotencyTest.cpp:62</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">MageSpellFlags::FIREBALL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00081">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::BuildArcanePotencyProcEntry()</a>, <a class="el" href="../../#l00062">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::FROSTBOLT_FLAG0</a>, and <a class="el" href="../../#l03771">SPELLFAMILY_MAGE</a>.</p>
 
 </div>
 </div>
-<a id="ad0e7264881bbb5fe5752d47c56930961" name="ad0e7264881bbb5fe5752d47c56930961"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad0e7264881bbb5fe5752d47c56930961">&#9670;&#160;</a></span>TEST_F() <span class="overload">[15/15]</span></h2>
+<a id="a28eafd5c0cb7bb8e01efbb06f7b34233" name="a28eafd5c0cb7bb8e01efbb06f7b34233"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a28eafd5c0cb7bb8e01efbb06f7b34233">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/22]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -831,13 +489,13 @@ Variables</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d77/a29784.html">MissileBarrageTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">OtherSpells_Returns50PercentRate&#160;</td>
+          <td class="paramtype">FamilyMask_FrostfireBolt_Matches&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -847,12 +505,600 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  168</span>{</div>
-<div class="line"><span class="lineno">  169</span>    <span class="comment">// Any spell that doesn&#39;t have the Arcane Blast flag should get 50% rate</span></div>
-<div class="line"><span class="lineno">  170</span>    <span class="keywordtype">float</span> rate = RunStatisticalTest(0x00000000);</div>
-<div class="line"><span class="lineno">  171</span>    EXPECT_NEAR(rate, 50.0f, 0.01f) &lt;&lt; <span class="stringliteral">&quot;Other spells should have 50% CheckProc pass rate&quot;</span>;</div>
-<div class="line"><span class="lineno">  172</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  171</span>{</div>
+<div class="line"><span class="lineno">  172</span>    <span class="keyword">auto</span>* spell = CreateSpellInfo(44614, <a class="code hl_enumvalue" href="../../d6/ddb/a04853.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae">SPELLFAMILY_MAGE</a>,</div>
+<div class="line"><span class="lineno">  173</span>        <a class="code hl_variable" href="../../dd/d78/a05079.html#a74e888eaed31ead886468c50a4dae9b0">FROSTFIRE_BOLT_FLAG0</a>, <a class="code hl_variable" href="../../dd/d78/a05079.html#af7d0944caac46971cff954248d8f4b97">FROSTFIRE_BOLT_FLAG1</a>);</div>
+<div class="line"><span class="lineno">  174</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_function" href="../../dd/d78/a05079.html#afc51c074c8129f52f5f281f4d27c08e0">BuildArcanePotencyProcEntry</a>();</div>
+<div class="line"><span class="lineno">  175</span>    EXPECT_TRUE(TestSpellFamilyMatch(procEntry.SpellFamilyName, procEntry.SpellFamilyMask, spell));</div>
+<div class="line"><span class="lineno">  176</span>}</div>
+<div class="ttc" id="aa05079_html_a74e888eaed31ead886468c50a4dae9b0"><div class="ttname"><a href="../../dd/d78/a05079.html#a74e888eaed31ead886468c50a4dae9b0">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::FROSTFIRE_BOLT_FLAG0</a></div><div class="ttdeci">constexpr uint32 FROSTFIRE_BOLT_FLAG0</div><div class="ttdef"><b>Definition:</b> SpellProcArcanePotencyTest.cpp:57</div></div>
+<div class="ttc" id="aa05079_html_af7d0944caac46971cff954248d8f4b97"><div class="ttname"><a href="../../dd/d78/a05079.html#af7d0944caac46971cff954248d8f4b97">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::FROSTFIRE_BOLT_FLAG1</a></div><div class="ttdeci">constexpr uint32 FROSTFIRE_BOLT_FLAG1</div><div class="ttdef"><b>Definition:</b> SpellProcArcanePotencyTest.cpp:58</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00081">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::BuildArcanePotencyProcEntry()</a>, <a class="el" href="../../#l00057">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::FROSTFIRE_BOLT_FLAG0</a>, <a class="el" href="../../#l00058">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::FROSTFIRE_BOLT_FLAG1</a>, and <a class="el" href="../../#l03771">SPELLFAMILY_MAGE</a>.</p>
+
+</div>
+</div>
+<a id="a089abece3e94a26f04aa17410f5e39ef" name="a089abece3e94a26f04aa17410f5e39ef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a089abece3e94a26f04aa17410f5e39ef">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/22]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">FamilyMask_IceLance_DoesNotMatch&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  204</span>{</div>
+<div class="line"><span class="lineno">  205</span>    <span class="keyword">auto</span>* spell = CreateSpellInfo(30455, <a class="code hl_enumvalue" href="../../d6/ddb/a04853.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae">SPELLFAMILY_MAGE</a>, <a class="code hl_variable" href="../../dd/d78/a05079.html#a130d1d85e94ec7289b135dc22dc1ce51">ICE_LANCE_FLAG0</a>);</div>
+<div class="line"><span class="lineno">  206</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_function" href="../../dd/d78/a05079.html#afc51c074c8129f52f5f281f4d27c08e0">BuildArcanePotencyProcEntry</a>();</div>
+<div class="line"><span class="lineno">  207</span>    EXPECT_FALSE(TestSpellFamilyMatch(procEntry.SpellFamilyName, procEntry.SpellFamilyMask, spell));</div>
+<div class="line"><span class="lineno">  208</span>}</div>
+<div class="ttc" id="aa05079_html_a130d1d85e94ec7289b135dc22dc1ce51"><div class="ttname"><a href="../../dd/d78/a05079.html#a130d1d85e94ec7289b135dc22dc1ce51">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::ICE_LANCE_FLAG0</a></div><div class="ttdeci">constexpr uint32 ICE_LANCE_FLAG0</div><div class="ttdef"><b>Definition:</b> SpellProcArcanePotencyTest.cpp:74</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00081">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::BuildArcanePotencyProcEntry()</a>, <a class="el" href="../../#l00074">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::ICE_LANCE_FLAG0</a>, and <a class="el" href="../../#l03771">SPELLFAMILY_MAGE</a>.</p>
+
+</div>
+</div>
+<a id="a2d4b85c0008eabeb4461f01bccaf89f8" name="a2d4b85c0008eabeb4461f01bccaf89f8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2d4b85c0008eabeb4461f01bccaf89f8">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/22]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">FamilyMask_NonMageSpell_DoesNotMatch&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  218</span>{</div>
+<div class="line"><span class="lineno">  219</span>    <span class="comment">// Warrior spell with matching flags should NOT match due to family check</span></div>
+<div class="line"><span class="lineno">  220</span>    <span class="keyword">auto</span>* spell = CreateSpellInfo(6343, <span class="comment">/*SPELLFAMILY_WARRIOR*/</span>4, <a class="code hl_variable" href="../../dd/d78/a05079.html#a8212ec73f1228fa44d4e5d13dd5035f8">FIREBALL_FLAG0</a>);</div>
+<div class="line"><span class="lineno">  221</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_function" href="../../dd/d78/a05079.html#afc51c074c8129f52f5f281f4d27c08e0">BuildArcanePotencyProcEntry</a>();</div>
+<div class="line"><span class="lineno">  222</span>    EXPECT_FALSE(TestSpellFamilyMatch(procEntry.SpellFamilyName, procEntry.SpellFamilyMask, spell));</div>
+<div class="line"><span class="lineno">  223</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00081">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::BuildArcanePotencyProcEntry()</a>, and <a class="el" href="../../#l00055">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::FIREBALL_FLAG0</a>.</p>
+
+</div>
+</div>
+<a id="a36cc74c392392b4e050fd3a9a93ec059" name="a36cc74c392392b4e050fd3a9a93ec059"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a36cc74c392392b4e050fd3a9a93ec059">&#9670;&#160;</a></span>TEST_F() <span class="overload">[11/22]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">FamilyMask_Scorch_Matches&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  186</span>{</div>
+<div class="line"><span class="lineno">  187</span>    <span class="keyword">auto</span>* spell = CreateSpellInfo(2948, <a class="code hl_enumvalue" href="../../d6/ddb/a04853.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae">SPELLFAMILY_MAGE</a>, <a class="code hl_variable" href="../../dd/d78/a05079.html#a7a6e5d42ddb7c5e656e5471145ddae50">SCORCH_FLAG0</a>);</div>
+<div class="line"><span class="lineno">  188</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_function" href="../../dd/d78/a05079.html#afc51c074c8129f52f5f281f4d27c08e0">BuildArcanePotencyProcEntry</a>();</div>
+<div class="line"><span class="lineno">  189</span>    EXPECT_TRUE(TestSpellFamilyMatch(procEntry.SpellFamilyName, procEntry.SpellFamilyMask, spell));</div>
+<div class="line"><span class="lineno">  190</span>}</div>
+<div class="ttc" id="aa05079_html_a7a6e5d42ddb7c5e656e5471145ddae50"><div class="ttname"><a href="../../dd/d78/a05079.html#a7a6e5d42ddb7c5e656e5471145ddae50">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::SCORCH_FLAG0</a></div><div class="ttdeci">constexpr uint32 SCORCH_FLAG0</div><div class="ttdef"><b>Definition:</b> SpellProcArcanePotencyTest.cpp:66</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00081">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::BuildArcanePotencyProcEntry()</a>, <a class="el" href="../../#l00066">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::SCORCH_FLAG0</a>, and <a class="el" href="../../#l03771">SPELLFAMILY_MAGE</a>.</p>
+
+</div>
+</div>
+<a id="a92d64ca04bcabf0bac5ef88dd39f9e9f" name="a92d64ca04bcabf0bac5ef88dd39f9e9f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a92d64ca04bcabf0bac5ef88dd39f9e9f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[12/22]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">MaskBits_CorrectBitsNotSet&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  339</span>{</div>
+<div class="line"><span class="lineno">  340</span>    <span class="comment">// Bit 11: Arcane Missiles - should NOT be set</span></div>
+<div class="line"><span class="lineno">  341</span>    EXPECT_FALSE(<a class="code hl_variable" href="../../dd/d78/a05079.html#a5e47842611c20b40ffa87c0123871fc4">AP_FAMILY_MASK0</a> &amp; 0x00000800);</div>
+<div class="line"><span class="lineno">  342</span>    <span class="comment">// Bit 17: Ice Lance - should NOT be set</span></div>
+<div class="line"><span class="lineno">  343</span>    EXPECT_FALSE(<a class="code hl_variable" href="../../dd/d78/a05079.html#a5e47842611c20b40ffa87c0123871fc4">AP_FAMILY_MASK0</a> &amp; 0x00020000);</div>
+<div class="line"><span class="lineno">  344</span>    <span class="comment">// Mask1 bit 15: Arcane Barrage - should NOT be set</span></div>
+<div class="line"><span class="lineno">  345</span>    EXPECT_FALSE(<a class="code hl_variable" href="../../dd/d78/a05079.html#a323736cdd0c6b7b1aa47796fa535ed99">AP_FAMILY_MASK1</a> &amp; 0x00008000);</div>
+<div class="line"><span class="lineno">  346</span>}</div>
+<div class="ttc" id="aa05079_html_a323736cdd0c6b7b1aa47796fa535ed99"><div class="ttname"><a href="../../dd/d78/a05079.html#a323736cdd0c6b7b1aa47796fa535ed99">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::AP_FAMILY_MASK1</a></div><div class="ttdeci">constexpr uint32 AP_FAMILY_MASK1</div><div class="ttdef"><b>Definition:</b> SpellProcArcanePotencyTest.cpp:50</div></div>
+<div class="ttc" id="aa05079_html_a5e47842611c20b40ffa87c0123871fc4"><div class="ttname"><a href="../../dd/d78/a05079.html#a5e47842611c20b40ffa87c0123871fc4">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::AP_FAMILY_MASK0</a></div><div class="ttdeci">constexpr uint32 AP_FAMILY_MASK0</div><div class="ttdef"><b>Definition:</b> SpellProcArcanePotencyTest.cpp:49</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00049">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::AP_FAMILY_MASK0</a>, and <a class="el" href="../../#l00050">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::AP_FAMILY_MASK1</a>.</p>
+
+</div>
+</div>
+<a id="adc248b654ba37d17805c085a73b5caa4" name="adc248b654ba37d17805c085a73b5caa4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adc248b654ba37d17805c085a73b5caa4">&#9670;&#160;</a></span>TEST_F() <span class="overload">[13/22]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">MaskBits_CorrectBitsSet&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  317</span>{</div>
+<div class="line"><span class="lineno">  318</span>    <span class="comment">// Verify the exact bits in our SpellFamilyMask0</span></div>
+<div class="line"><span class="lineno">  319</span>    <span class="comment">// Bit 0: Fireball</span></div>
+<div class="line"><span class="lineno">  320</span>    EXPECT_TRUE(<a class="code hl_variable" href="../../dd/d78/a05079.html#a5e47842611c20b40ffa87c0123871fc4">AP_FAMILY_MASK0</a> &amp; 0x00000001);</div>
+<div class="line"><span class="lineno">  321</span>    <span class="comment">// Bit 2: Frostfire Bolt</span></div>
+<div class="line"><span class="lineno">  322</span>    EXPECT_TRUE(<a class="code hl_variable" href="../../dd/d78/a05079.html#a5e47842611c20b40ffa87c0123871fc4">AP_FAMILY_MASK0</a> &amp; 0x00000004);</div>
+<div class="line"><span class="lineno">  323</span>    <span class="comment">// Bit 4: Fire Blast</span></div>
+<div class="line"><span class="lineno">  324</span>    EXPECT_TRUE(<a class="code hl_variable" href="../../dd/d78/a05079.html#a5e47842611c20b40ffa87c0123871fc4">AP_FAMILY_MASK0</a> &amp; 0x00000010);</div>
+<div class="line"><span class="lineno">  325</span>    <span class="comment">// Bit 5: Frostbolt</span></div>
+<div class="line"><span class="lineno">  326</span>    EXPECT_TRUE(<a class="code hl_variable" href="../../dd/d78/a05079.html#a5e47842611c20b40ffa87c0123871fc4">AP_FAMILY_MASK0</a> &amp; 0x00000020);</div>
+<div class="line"><span class="lineno">  327</span>    <span class="comment">// Bit 12: Arcane Explosion</span></div>
+<div class="line"><span class="lineno">  328</span>    EXPECT_TRUE(<a class="code hl_variable" href="../../dd/d78/a05079.html#a5e47842611c20b40ffa87c0123871fc4">AP_FAMILY_MASK0</a> &amp; 0x00001000);</div>
+<div class="line"><span class="lineno">  329</span>    <span class="comment">// Bit 22: Scorch</span></div>
+<div class="line"><span class="lineno">  330</span>    EXPECT_TRUE(<a class="code hl_variable" href="../../dd/d78/a05079.html#a5e47842611c20b40ffa87c0123871fc4">AP_FAMILY_MASK0</a> &amp; 0x00400000);</div>
+<div class="line"><span class="lineno">  331</span>    <span class="comment">// Bit 29: Arcane Blast</span></div>
+<div class="line"><span class="lineno">  332</span>    EXPECT_TRUE(<a class="code hl_variable" href="../../dd/d78/a05079.html#a5e47842611c20b40ffa87c0123871fc4">AP_FAMILY_MASK0</a> &amp; 0x20000000);</div>
+<div class="line"><span class="lineno">  333</span> </div>
+<div class="line"><span class="lineno">  334</span>    <span class="comment">// Mask1: Bit 12 (Frostfire Bolt secondary)</span></div>
+<div class="line"><span class="lineno">  335</span>    EXPECT_TRUE(<a class="code hl_variable" href="../../dd/d78/a05079.html#a323736cdd0c6b7b1aa47796fa535ed99">AP_FAMILY_MASK1</a> &amp; 0x00001000);</div>
+<div class="line"><span class="lineno">  336</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00049">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::AP_FAMILY_MASK0</a>, and <a class="el" href="../../#l00050">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::AP_FAMILY_MASK1</a>.</p>
+
+</div>
+</div>
+<a id="ae2b88365c6b1f408d161344563db98cf" name="ae2b88365c6b1f408d161344563db98cf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae2b88365c6b1f408d161344563db98cf">&#9670;&#160;</a></span>TEST_F() <span class="overload">[14/22]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Phase_DoesNotTriggerOnFinish&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  260</span>{</div>
+<div class="line"><span class="lineno">  261</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d9/d8f/a29638.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  262</span>        .<a class="code hl_function" href="../../d9/d8f/a29638.html#acebcb2a676a7e8e6821854137e056fff">WithProcFlags</a>(<a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>)</div>
+<div class="line"><span class="lineno">  263</span>        .<a class="code hl_function" href="../../d9/d8f/a29638.html#ae7ddfcb398c2f5e52834bd74d25754dc">WithSpellPhaseMask</a>(<a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d">PROC_SPELL_PHASE_CAST</a>)</div>
+<div class="line"><span class="lineno">  264</span>        .<a class="code hl_function" href="../../d9/d8f/a29638.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#a7fd74f5d829c140285ca6ed18c0e136aab159732a2ad05b51e240bb9860b72876">PROC_ATTR_REQ_SPELLMOD</a>)</div>
+<div class="line"><span class="lineno">  265</span>        .<a class="code hl_function" href="../../d9/d8f/a29638.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  266</span> </div>
+<div class="line"><span class="lineno">  267</span>    <span class="keyword">auto</span> scenario = <a class="code hl_class" href="../../df/d9f/a29546.html">ProcScenarioBuilder</a>()</div>
+<div class="line"><span class="lineno">  268</span>        .<a class="code hl_function" href="../../df/d9f/a29546.html#a89641d017b53d0d4f07865ed254441bb">OnSpellDamage</a>()</div>
+<div class="line"><span class="lineno">  269</span>        .<a class="code hl_function" href="../../df/d9f/a29546.html#a737e84f1e0324e521d9c51368d538c5f">OnFinish</a>();</div>
+<div class="line"><span class="lineno">  270</span>    <a class="code hl_define" href="../../d9/d24/a00524.html#ab8dc66c27ffce0980153941e8e7ab701">EXPECT_PROC_DOES_NOT_TRIGGER</a>(procEntry, scenario);</div>
+<div class="line"><span class="lineno">  271</span>}</div>
+<div class="ttc" id="aa00524_html_ab8dc66c27ffce0980153941e8e7ab701"><div class="ttname"><a href="../../d9/d24/a00524.html#ab8dc66c27ffce0980153941e8e7ab701">EXPECT_PROC_DOES_NOT_TRIGGER</a></div><div class="ttdeci">#define EXPECT_PROC_DOES_NOT_TRIGGER(procEntry, scenario)</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:478</div></div>
+<div class="ttc" id="aa01769_html_a7fd74f5d829c140285ca6ed18c0e136aab159732a2ad05b51e240bb9860b72876"><div class="ttname"><a href="../../d7/d6d/a01769.html#a7fd74f5d829c140285ca6ed18c0e136aab159732a2ad05b51e240bb9860b72876">PROC_ATTR_REQ_SPELLMOD</a></div><div class="ttdeci">@ PROC_ATTR_REQ_SPELLMOD</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:276</div></div>
+<div class="ttc" id="aa01769_html_addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d"><div class="ttname"><a href="../../d7/d6d/a01769.html#addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d">PROC_SPELL_PHASE_CAST</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_CAST</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:245</div></div>
+<div class="ttc" id="aa01769_html_ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67"><div class="ttname"><a href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a></div><div class="ttdeci">@ PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:131</div></div>
+<div class="ttc" id="aa29546_html"><div class="ttname"><a href="../../df/d9f/a29546.html">ProcScenarioBuilder</a></div><div class="ttdoc">Helper class for testing specific proc scenarios.</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:252</div></div>
+<div class="ttc" id="aa29546_html_a737e84f1e0324e521d9c51368d538c5f"><div class="ttname"><a href="../../df/d9f/a29546.html#a737e84f1e0324e521d9c51368d538c5f">ProcScenarioBuilder::OnFinish</a></div><div class="ttdeci">ProcScenarioBuilder &amp; OnFinish()</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:415</div></div>
+<div class="ttc" id="aa29546_html_a89641d017b53d0d4f07865ed254441bb"><div class="ttname"><a href="../../df/d9f/a29546.html#a89641d017b53d0d4f07865ed254441bb">ProcScenarioBuilder::OnSpellDamage</a></div><div class="ttdeci">ProcScenarioBuilder &amp; OnSpellDamage()</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:282</div></div>
+<div class="ttc" id="aa29638_html"><div class="ttname"><a href="../../d9/d8f/a29638.html">SpellProcEntryBuilder</a></div><div class="ttdoc">Builder class for creating SpellProcEntry test instances.</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:141</div></div>
+<div class="ttc" id="aa29638_html_a2a69603215e9fa526304f420bd5a490c"><div class="ttname"><a href="../../d9/d8f/a29638.html#a2a69603215e9fa526304f420bd5a490c">SpellProcEntryBuilder::Build</a></div><div class="ttdeci">SpellProcEntry Build() const</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:226</div></div>
+<div class="ttc" id="aa29638_html_ab9585e517adc231979ca5b817a2f2142"><div class="ttname"><a href="../../d9/d8f/a29638.html#ab9585e517adc231979ca5b817a2f2142">SpellProcEntryBuilder::WithAttributesMask</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithAttributesMask(uint32 attributesMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:190</div></div>
+<div class="ttc" id="aa29638_html_acebcb2a676a7e8e6821854137e056fff"><div class="ttname"><a href="../../d9/d8f/a29638.html#acebcb2a676a7e8e6821854137e056fff">SpellProcEntryBuilder::WithProcFlags</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithProcFlags(uint32 procFlags)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:166</div></div>
+<div class="ttc" id="aa29638_html_ae7ddfcb398c2f5e52834bd74d25754dc"><div class="ttname"><a href="../../d9/d8f/a29638.html#ae7ddfcb398c2f5e52834bd74d25754dc">SpellProcEntryBuilder::WithSpellPhaseMask</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithSpellPhaseMask(uint32 spellPhaseMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:178</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00478">EXPECT_PROC_DOES_NOT_TRIGGER</a>, <a class="el" href="../../#l00415">ProcScenarioBuilder::OnFinish()</a>, <a class="el" href="../../#l00282">ProcScenarioBuilder::OnSpellDamage()</a>, <a class="el" href="../../#l00276">PROC_ATTR_REQ_SPELLMOD</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00245">PROC_SPELL_PHASE_CAST</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, <a class="el" href="../../#l00166">SpellProcEntryBuilder::WithProcFlags()</a>, and <a class="el" href="../../#l00178">SpellProcEntryBuilder::WithSpellPhaseMask()</a>.</p>
+
+</div>
+</div>
+<a id="ab1f6efbe06103643b8039abfb5cd2415" name="ab1f6efbe06103643b8039abfb5cd2415"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab1f6efbe06103643b8039abfb5cd2415">&#9670;&#160;</a></span>TEST_F() <span class="overload">[15/22]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Phase_DoesNotTriggerOnHit&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  245</span>{</div>
+<div class="line"><span class="lineno">  246</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d9/d8f/a29638.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  247</span>        .<a class="code hl_function" href="../../d9/d8f/a29638.html#acebcb2a676a7e8e6821854137e056fff">WithProcFlags</a>(<a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>)</div>
+<div class="line"><span class="lineno">  248</span>        .<a class="code hl_function" href="../../d9/d8f/a29638.html#ae7ddfcb398c2f5e52834bd74d25754dc">WithSpellPhaseMask</a>(<a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d">PROC_SPELL_PHASE_CAST</a>)</div>
+<div class="line"><span class="lineno">  249</span>        .<a class="code hl_function" href="../../d9/d8f/a29638.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#a7fd74f5d829c140285ca6ed18c0e136aab159732a2ad05b51e240bb9860b72876">PROC_ATTR_REQ_SPELLMOD</a>)</div>
+<div class="line"><span class="lineno">  250</span>        .<a class="code hl_function" href="../../d9/d8f/a29638.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  251</span> </div>
+<div class="line"><span class="lineno">  252</span>    <span class="keyword">auto</span> scenario = <a class="code hl_class" href="../../df/d9f/a29546.html">ProcScenarioBuilder</a>()</div>
+<div class="line"><span class="lineno">  253</span>        .<a class="code hl_function" href="../../df/d9f/a29546.html#a89641d017b53d0d4f07865ed254441bb">OnSpellDamage</a>()</div>
+<div class="line"><span class="lineno">  254</span>        .<a class="code hl_function" href="../../df/d9f/a29546.html#a33990b1e289f2557222db834e16d7555">OnHit</a>()</div>
+<div class="line"><span class="lineno">  255</span>        .<a class="code hl_function" href="../../df/d9f/a29546.html#ac3aafe6190c8cfd475c8a2ff291f6d8d">WithNormalHit</a>();</div>
+<div class="line"><span class="lineno">  256</span>    <a class="code hl_define" href="../../d9/d24/a00524.html#ab8dc66c27ffce0980153941e8e7ab701">EXPECT_PROC_DOES_NOT_TRIGGER</a>(procEntry, scenario);</div>
+<div class="line"><span class="lineno">  257</span>}</div>
+<div class="ttc" id="aa29546_html_a33990b1e289f2557222db834e16d7555"><div class="ttname"><a href="../../df/d9f/a29546.html#a33990b1e289f2557222db834e16d7555">ProcScenarioBuilder::OnHit</a></div><div class="ttdeci">ProcScenarioBuilder &amp; OnHit()</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:409</div></div>
+<div class="ttc" id="aa29546_html_ac3aafe6190c8cfd475c8a2ff291f6d8d"><div class="ttname"><a href="../../df/d9f/a29546.html#ac3aafe6190c8cfd475c8a2ff291f6d8d">ProcScenarioBuilder::WithNormalHit</a></div><div class="ttdeci">ProcScenarioBuilder &amp; WithNormalHit()</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:357</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00478">EXPECT_PROC_DOES_NOT_TRIGGER</a>, <a class="el" href="../../#l00409">ProcScenarioBuilder::OnHit()</a>, <a class="el" href="../../#l00282">ProcScenarioBuilder::OnSpellDamage()</a>, <a class="el" href="../../#l00276">PROC_ATTR_REQ_SPELLMOD</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00245">PROC_SPELL_PHASE_CAST</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, <a class="el" href="../../#l00357">ProcScenarioBuilder::WithNormalHit()</a>, <a class="el" href="../../#l00166">SpellProcEntryBuilder::WithProcFlags()</a>, and <a class="el" href="../../#l00178">SpellProcEntryBuilder::WithSpellPhaseMask()</a>.</p>
+
+</div>
+</div>
+<a id="adfc27e70e188d4249a0bca1cfe629a0b" name="adfc27e70e188d4249a0bca1cfe629a0b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adfc27e70e188d4249a0bca1cfe629a0b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[16/22]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Phase_TriggersOnCast&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  230</span>{</div>
+<div class="line"><span class="lineno">  231</span>    <span class="comment">// Test phase filtering in isolation (no family filter)</span></div>
+<div class="line"><span class="lineno">  232</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d9/d8f/a29638.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  233</span>        .<a class="code hl_function" href="../../d9/d8f/a29638.html#acebcb2a676a7e8e6821854137e056fff">WithProcFlags</a>(<a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>)</div>
+<div class="line"><span class="lineno">  234</span>        .<a class="code hl_function" href="../../d9/d8f/a29638.html#ae7ddfcb398c2f5e52834bd74d25754dc">WithSpellPhaseMask</a>(<a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d">PROC_SPELL_PHASE_CAST</a>)</div>
+<div class="line"><span class="lineno">  235</span>        .<a class="code hl_function" href="../../d9/d8f/a29638.html#ab9585e517adc231979ca5b817a2f2142">WithAttributesMask</a>(<a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#a7fd74f5d829c140285ca6ed18c0e136aab159732a2ad05b51e240bb9860b72876">PROC_ATTR_REQ_SPELLMOD</a>)</div>
+<div class="line"><span class="lineno">  236</span>        .<a class="code hl_function" href="../../d9/d8f/a29638.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  237</span> </div>
+<div class="line"><span class="lineno">  238</span>    <span class="keyword">auto</span> scenario = <a class="code hl_class" href="../../df/d9f/a29546.html">ProcScenarioBuilder</a>()</div>
+<div class="line"><span class="lineno">  239</span>        .<a class="code hl_function" href="../../df/d9f/a29546.html#a89641d017b53d0d4f07865ed254441bb">OnSpellDamage</a>()</div>
+<div class="line"><span class="lineno">  240</span>        .<a class="code hl_function" href="../../df/d9f/a29546.html#acdf86a4468e902e8d98f2ce9196950e7">OnCast</a>();</div>
+<div class="line"><span class="lineno">  241</span>    <a class="code hl_define" href="../../d9/d24/a00524.html#ad89bc4ac2d1077d7e73a7e08336ff303">EXPECT_PROC_TRIGGERS</a>(procEntry, scenario);</div>
+<div class="line"><span class="lineno">  242</span>}</div>
+<div class="ttc" id="aa00524_html_ad89bc4ac2d1077d7e73a7e08336ff303"><div class="ttname"><a href="../../d9/d24/a00524.html#ad89bc4ac2d1077d7e73a7e08336ff303">EXPECT_PROC_TRIGGERS</a></div><div class="ttdeci">#define EXPECT_PROC_TRIGGERS(procEntry, scenario)</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:472</div></div>
+<div class="ttc" id="aa29546_html_acdf86a4468e902e8d98f2ce9196950e7"><div class="ttname"><a href="../../df/d9f/a29546.html#acdf86a4468e902e8d98f2ce9196950e7">ProcScenarioBuilder::OnCast</a></div><div class="ttdeci">ProcScenarioBuilder &amp; OnCast()</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:403</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00472">EXPECT_PROC_TRIGGERS</a>, <a class="el" href="../../#l00403">ProcScenarioBuilder::OnCast()</a>, <a class="el" href="../../#l00282">ProcScenarioBuilder::OnSpellDamage()</a>, <a class="el" href="../../#l00276">PROC_ATTR_REQ_SPELLMOD</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00245">PROC_SPELL_PHASE_CAST</a>, <a class="el" href="../../#l00190">SpellProcEntryBuilder::WithAttributesMask()</a>, <a class="el" href="../../#l00166">SpellProcEntryBuilder::WithProcFlags()</a>, and <a class="el" href="../../#l00178">SpellProcEntryBuilder::WithSpellPhaseMask()</a>.</p>
+
+</div>
+</div>
+<a id="aafc20e2202faf9465b6499dbe0c5bba4" name="aafc20e2202faf9465b6499dbe0c5bba4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aafc20e2202faf9465b6499dbe0c5bba4">&#9670;&#160;</a></span>TEST_F() <span class="overload">[17/22]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ProcEntry_BothRanksIdentical&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  127</span>{</div>
+<div class="line"><span class="lineno">  128</span>    <span class="comment">// Both ranks should use the same proc configuration</span></div>
+<div class="line"><span class="lineno">  129</span>    <span class="keyword">auto</span> r1 = <a class="code hl_function" href="../../dd/d78/a05079.html#afc51c074c8129f52f5f281f4d27c08e0">BuildArcanePotencyProcEntry</a>();</div>
+<div class="line"><span class="lineno">  130</span>    <span class="keyword">auto</span> r2 = <a class="code hl_function" href="../../dd/d78/a05079.html#afc51c074c8129f52f5f281f4d27c08e0">BuildArcanePotencyProcEntry</a>();</div>
+<div class="line"><span class="lineno">  131</span> </div>
+<div class="line"><span class="lineno">  132</span>    EXPECT_EQ(r1.SpellFamilyName, r2.SpellFamilyName);</div>
+<div class="line"><span class="lineno">  133</span>    EXPECT_TRUE(r1.SpellFamilyMask == r2.SpellFamilyMask);</div>
+<div class="line"><span class="lineno">  134</span>    EXPECT_EQ(r1.SpellPhaseMask, r2.SpellPhaseMask);</div>
+<div class="line"><span class="lineno">  135</span>    EXPECT_EQ(r1.AttributesMask, r2.AttributesMask);</div>
+<div class="line"><span class="lineno">  136</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00081">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::BuildArcanePotencyProcEntry()</a>.</p>
+
+</div>
+</div>
+<a id="acb9e8708ead931789692c4843695b1f2" name="acb9e8708ead931789692c4843695b1f2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acb9e8708ead931789692c4843695b1f2">&#9670;&#160;</a></span>TEST_F() <span class="overload">[18/22]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ProcEntry_CastPhaseOnly&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  114</span>{</div>
+<div class="line"><span class="lineno">  115</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_function" href="../../dd/d78/a05079.html#afc51c074c8129f52f5f281f4d27c08e0">BuildArcanePotencyProcEntry</a>();</div>
+<div class="line"><span class="lineno">  116</span>    EXPECT_EQ(procEntry.SpellPhaseMask, <a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d">PROC_SPELL_PHASE_CAST</a>)</div>
+<div class="line"><span class="lineno">  117</span>        &lt;&lt; <span class="stringliteral">&quot;Arcane Potency should only proc on CAST phase&quot;</span>;</div>
+<div class="line"><span class="lineno">  118</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00081">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::BuildArcanePotencyProcEntry()</a>, and <a class="el" href="../../#l00245">PROC_SPELL_PHASE_CAST</a>.</p>
+
+</div>
+</div>
+<a id="ae2c75192be295f76f95c1d28cb599452" name="ae2c75192be295f76f95c1d28cb599452"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae2c75192be295f76f95c1d28cb599452">&#9670;&#160;</a></span>TEST_F() <span class="overload">[19/22]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ProcEntry_HasReqSpellmodAttribute&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  106</span>{</div>
+<div class="line"><span class="lineno">  107</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_function" href="../../dd/d78/a05079.html#afc51c074c8129f52f5f281f4d27c08e0">BuildArcanePotencyProcEntry</a>();</div>
+<div class="line"><span class="lineno">  108</span>    EXPECT_TRUE(procEntry.AttributesMask &amp; <a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#a7fd74f5d829c140285ca6ed18c0e136aab159732a2ad05b51e240bb9860b72876">PROC_ATTR_REQ_SPELLMOD</a>)</div>
+<div class="line"><span class="lineno">  109</span>        &lt;&lt; <span class="stringliteral">&quot;Arcane Potency must have PROC_ATTR_REQ_SPELLMOD to prevent &quot;</span></div>
+<div class="line"><span class="lineno">  110</span>           <span class="stringliteral">&quot;same-cast consumption&quot;</span>;</div>
+<div class="line"><span class="lineno">  111</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00081">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::BuildArcanePotencyProcEntry()</a>, and <a class="el" href="../../#l00276">PROC_ATTR_REQ_SPELLMOD</a>.</p>
+
+</div>
+</div>
+<a id="ab14911bfff6244d90e4bad32f7661669" name="ab14911bfff6244d90e4bad32f7661669"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab14911bfff6244d90e4bad32f7661669">&#9670;&#160;</a></span>TEST_F() <span class="overload">[20/22]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ProcEntry_MageFamily&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  121</span>{</div>
+<div class="line"><span class="lineno">  122</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_function" href="../../dd/d78/a05079.html#afc51c074c8129f52f5f281f4d27c08e0">BuildArcanePotencyProcEntry</a>();</div>
+<div class="line"><span class="lineno">  123</span>    EXPECT_EQ(procEntry.SpellFamilyName, <a class="code hl_enumvalue" href="../../d6/ddb/a04853.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae">SPELLFAMILY_MAGE</a>);</div>
+<div class="line"><span class="lineno">  124</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00081">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::BuildArcanePotencyProcEntry()</a>, and <a class="el" href="../../#l03771">SPELLFAMILY_MAGE</a>.</p>
+
+</div>
+</div>
+<a id="a364de25f6fd5bb612f3c4bc96219139b" name="a364de25f6fd5bb612f3c4bc96219139b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a364de25f6fd5bb612f3c4bc96219139b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[21/22]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ReqSpellmod_AuraWithCharges_BlocksWithoutAppliedMod&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  278</span>{</div>
+<div class="line"><span class="lineno">  279</span>    <span class="comment">// When PROC_ATTR_REQ_SPELLMOD is set and aura uses charges,</span></div>
+<div class="line"><span class="lineno">  280</span>    <span class="comment">// GetProcEffectMask should return 0 if aura is not in m_appliedMods.</span></div>
+<div class="line"><span class="lineno">  281</span>    <span class="comment">// We test the prerequisite: that the proc entry is configured correctly</span></div>
+<div class="line"><span class="lineno">  282</span>    <span class="comment">// so the charge-gating code path in GetProcEffectMask is reachable.</span></div>
+<div class="line"><span class="lineno">  283</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_function" href="../../dd/d78/a05079.html#afc51c074c8129f52f5f281f4d27c08e0">BuildArcanePotencyProcEntry</a>();</div>
+<div class="line"><span class="lineno">  284</span> </div>
+<div class="line"><span class="lineno">  285</span>    <span class="keyword">auto</span> aura = <a class="code hl_class" href="../../d4/d3c/a29566.html">AuraStubBuilder</a>()</div>
+<div class="line"><span class="lineno">  286</span>        .<a class="code hl_function" href="../../d4/d3c/a29566.html#aa8dc59189364f6be82822588a47d32fd">WithId</a>(<a class="code hl_variable" href="../../dd/d78/a05079.html#ab7cb67ee4f38543186bfc7d42b192712">ARCANE_POTENCY_R1</a>)</div>
+<div class="line"><span class="lineno">  287</span>        .<a class="code hl_function" href="../../d4/d3c/a29566.html#a0e11ce060ed827bfc2b72d2b26a6693b">WithCharges</a>(1)</div>
+<div class="line"><span class="lineno">  288</span>        .<a class="code hl_function" href="../../d4/d3c/a29566.html#a7d5b970e591a239849e42a0c444f62d4">Build</a>();</div>
+<div class="line"><span class="lineno">  289</span> </div>
+<div class="line"><span class="lineno">  290</span>    <span class="comment">// The aura should be using charges (required for REQ_SPELLMOD gating)</span></div>
+<div class="line"><span class="lineno">  291</span>    EXPECT_TRUE(aura-&gt;IsUsingCharges());</div>
+<div class="line"><span class="lineno">  292</span>    EXPECT_TRUE(procEntry.AttributesMask &amp; <a class="code hl_enumvalue" href="../../d7/d6d/a01769.html#a7fd74f5d829c140285ca6ed18c0e136aab159732a2ad05b51e240bb9860b72876">PROC_ATTR_REQ_SPELLMOD</a>);</div>
+<div class="line"><span class="lineno">  293</span>}</div>
+<div class="ttc" id="aa05079_html_ab7cb67ee4f38543186bfc7d42b192712"><div class="ttname"><a href="../../dd/d78/a05079.html#ab7cb67ee4f38543186bfc7d42b192712">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::ARCANE_POTENCY_R1</a></div><div class="ttdeci">constexpr uint32 ARCANE_POTENCY_R1</div><div class="ttdef"><b>Definition:</b> SpellProcArcanePotencyTest.cpp:45</div></div>
+<div class="ttc" id="aa29566_html"><div class="ttname"><a href="../../d4/d3c/a29566.html">AuraStubBuilder</a></div><div class="ttdoc">Builder for creating AuraStub instances with fluent API.</div><div class="ttdef"><b>Definition:</b> AuraStub.h:290</div></div>
+<div class="ttc" id="aa29566_html_a0e11ce060ed827bfc2b72d2b26a6693b"><div class="ttname"><a href="../../d4/d3c/a29566.html#a0e11ce060ed827bfc2b72d2b26a6693b">AuraStubBuilder::WithCharges</a></div><div class="ttdeci">AuraStubBuilder &amp; WithCharges(uint8_t charges)</div><div class="ttdef"><b>Definition:</b> AuraStub.h:306</div></div>
+<div class="ttc" id="aa29566_html_a7d5b970e591a239849e42a0c444f62d4"><div class="ttname"><a href="../../d4/d3c/a29566.html#a7d5b970e591a239849e42a0c444f62d4">AuraStubBuilder::Build</a></div><div class="ttdeci">std::unique_ptr&lt; AuraStub &gt; Build()</div><div class="ttdef"><b>Definition:</b> AuraStub.h:353</div></div>
+<div class="ttc" id="aa29566_html_aa8dc59189364f6be82822588a47d32fd"><div class="ttname"><a href="../../d4/d3c/a29566.html#aa8dc59189364f6be82822588a47d32fd">AuraStubBuilder::WithId</a></div><div class="ttdeci">AuraStubBuilder &amp; WithId(uint32_t id)</div><div class="ttdef"><b>Definition:</b> AuraStub.h:294</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00045">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::ARCANE_POTENCY_R1</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00081">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::BuildArcanePotencyProcEntry()</a>, <a class="el" href="../../#l00276">PROC_ATTR_REQ_SPELLMOD</a>, <a class="el" href="../../#l00306">AuraStubBuilder::WithCharges()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
+
+</div>
+</div>
+<a id="ae68d06799176ab8a4d7a6b42fc3e0b34" name="ae68d06799176ab8a4d7a6b42fc3e0b34"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae68d06799176ab8a4d7a6b42fc3e0b34">&#9670;&#160;</a></span>TEST_F() <span class="overload">[22/22]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d7c/a29742.html">ArcanePotencyProcTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ReqSpellmod_AuraWithoutCharges_SkipsCheck&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  296</span>{</div>
+<div class="line"><span class="lineno">  297</span>    <span class="comment">// If aura has no charges, PROC_ATTR_REQ_SPELLMOD check is skipped</span></div>
+<div class="line"><span class="lineno">  298</span>    <span class="comment">// (no charges to consume = no need for spellmod gating)</span></div>
+<div class="line"><span class="lineno">  299</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_function" href="../../dd/d78/a05079.html#afc51c074c8129f52f5f281f4d27c08e0">BuildArcanePotencyProcEntry</a>();</div>
+<div class="line"><span class="lineno">  300</span> </div>
+<div class="line"><span class="lineno">  301</span>    <span class="keyword">auto</span> aura = <a class="code hl_class" href="../../d4/d3c/a29566.html">AuraStubBuilder</a>()</div>
+<div class="line"><span class="lineno">  302</span>        .<a class="code hl_function" href="../../d4/d3c/a29566.html#aa8dc59189364f6be82822588a47d32fd">WithId</a>(<a class="code hl_variable" href="../../dd/d78/a05079.html#ab7cb67ee4f38543186bfc7d42b192712">ARCANE_POTENCY_R1</a>)</div>
+<div class="line"><span class="lineno">  303</span>        .<a class="code hl_function" href="../../d4/d3c/a29566.html#a0e11ce060ed827bfc2b72d2b26a6693b">WithCharges</a>(0)</div>
+<div class="line"><span class="lineno">  304</span>        .<a class="code hl_function" href="../../d4/d3c/a29566.html#a7d5b970e591a239849e42a0c444f62d4">Build</a>();</div>
+<div class="line"><span class="lineno">  305</span> </div>
+<div class="line"><span class="lineno">  306</span>    EXPECT_FALSE(aura-&gt;IsUsingCharges());</div>
+<div class="line"><span class="lineno">  307</span>    <span class="comment">// Even though PROC_ATTR_REQ_SPELLMOD is set, the condition</span></div>
+<div class="line"><span class="lineno">  308</span>    <span class="comment">// (IsUsingCharges() || USE_STACKS_FOR_CHARGES) would be false</span></div>
+<div class="line"><span class="lineno">  309</span>    <span class="comment">// so the spellmod check would be skipped</span></div>
+<div class="line"><span class="lineno">  310</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00045">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::ARCANE_POTENCY_R1</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00081">anonymous_namespace{SpellProcArcanePotencyTest.cpp}::BuildArcanePotencyProcEntry()</a>, <a class="el" href="../../#l00306">AuraStubBuilder::WithCharges()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -860,8 +1106,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d9/d42/a00575.html">SpellScriptMissileBarrageTest.cpp</a></li>
-    <li class="footer">Generated on Mon Mar 2 2026 21:04:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d9/d42/a00575.html">SpellProcArcanePotencyTest.cpp</a></li>
+    <li class="footer">Generated on Mon Mar 9 2026 21:04:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

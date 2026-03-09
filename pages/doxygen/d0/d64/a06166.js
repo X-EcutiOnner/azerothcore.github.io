@@ -1,10 +1,11 @@
 var a06166 =
 [
-    [ "NullCreatureAI", "d0/d64/a06166.html#aa9969eeb9a79559c9f2d3bd907b3fd85", null ],
-    [ "AttackStart", "d0/d64/a06166.html#a94d4594e1f39143ea41ce00aeecec4b4", null ],
-    [ "EnterEvadeMode", "d0/d64/a06166.html#a726edd296c16ed2414fcc1827f88238f", null ],
-    [ "MoveInLineOfSight", "d0/d64/a06166.html#a12c54c92a08e81751563ec9522236b28", null ],
-    [ "OnCharmed", "d0/d64/a06166.html#a77b274955dcfdf2d10bbc43b64330f8d", null ],
-    [ "Permissible", "d0/d64/a06166.html#a77595426da50819a0ff0744930d19b23", null ],
-    [ "UpdateAI", "d0/d64/a06166.html#ab200fcf78dee74a2ec808c01f5855236", null ]
+    [ "AppliedFileEntry", "d0/d64/a06166.html#ac925dd4c2f889ae84e8be8cba9a0ef06", null ],
+    [ "GetStateAsString", "d0/d64/a06166.html#a803f0ee67f0d3944b0933cf97723b5d3", null ],
+    [ "StateConvert", "d0/d64/a06166.html#a16274f0e9e6669be265ba75f79c4b10f", null ],
+    [ "StateConvert", "d0/d64/a06166.html#ac35fc4abcc60015c56765ceebc6fdb8f", null ],
+    [ "hash", "d0/d64/a06166.html#af39f798a10c2675e870d4d62f1d0a10c", null ],
+    [ "name", "d0/d64/a06166.html#a8fc429eae6816054b5828952a5698a4c", null ],
+    [ "state", "d0/d64/a06166.html#a7899f60d95db04e776b7ccfbc1003cfb", null ],
+    [ "timestamp", "d0/d64/a06166.html#a13703e88b76f26858696b33a8bc8f862", null ]
 ];

@@ -1,6 +1,9 @@
 var a17594 =
 [
-    [ "FilterTargets", "d5/db3/a17594.html#a59255a2cee0f9d8a75ca183647851779", null ],
-    [ "PrepareSpellScript", "d5/db3/a17594.html#af8d1cc9c709aeb3a68d1f452bb605c71", null ],
-    [ "Register", "d5/db3/a17594.html#a6b6dbeaa8feb8eac4441a87cdf371a36", null ]
+    [ "npc_pos_collapsing_icicleAI", "d5/db3/a17594.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
+    [ "SpellHitTarget", "d5/db3/a17594.html#aea107ede3b11726b3f7caae590edaf52", null ],
+    [ "UpdateAI", "d5/db3/a17594.html#ade416a422e67ce61e8874320cce7143b", null ],
+    [ "pInstance", "d5/db3/a17594.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
+    [ "timer1", "d5/db3/a17594.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
+    [ "timer2", "d5/db3/a17594.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
 ];

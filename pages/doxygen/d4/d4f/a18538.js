@@ -1,7 +1,6 @@
 var a18538 =
 [
-    [ "CheckTargetCount", "d4/d4f/a18538.html#a44f558248f944464c773105728cffbca", null ],
-    [ "PrepareSpellScript", "d4/d4f/a18538.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
-    [ "Register", "d4/d4f/a18538.html#aeda833ca8483d337311086b9d0a14081", null ],
-    [ "Validate", "d4/d4f/a18538.html#aee84751e352dbfc12472fc15924c48fa", null ]
+    [ "LastPhaseIceTombTargetSelector", "d4/d4f/a18538.html#ac01f20b199bb0ee63b9c8f8206321057", null ],
+    [ "operator()", "d4/d4f/a18538.html#a92a846ff557334b1f30d8e062a2c64e9", null ],
+    [ "_source", "d4/d4f/a18538.html#ab10d10dd0de7717078d31ac026d4c933", null ]
 ];

@@ -1,6 +1,6 @@
 var a21162 =
 [
-    [ "HandleScript", "d5/d0e/a21162.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
-    [ "PrepareSpellScript", "d5/d0e/a21162.html#ab2a4155f6029850c61e84d7c180addae", null ],
-    [ "Register", "d5/d0e/a21162.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
+    [ "npc_ravenous_furbolgAI", "d0/d28/a21166.html", "d0/d28/a21166" ],
+    [ "npc_ravenous_furbolg", "d5/d0e/a21162.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
+    [ "GetAI", "d5/d0e/a21162.html#a284c366e6f5bd024d9627a83dd966669", null ]
 ];

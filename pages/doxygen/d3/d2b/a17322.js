@@ -1,6 +1,10 @@
 var a17322 =
 [
-    [ "HandleEffectPeriodic", "d3/d2b/a17322.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
-    [ "PrepareAuraScript", "d3/d2b/a17322.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
-    [ "Register", "d3/d2b/a17322.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
+    [ "HandleAfterEffectAbsorb", "d3/d2b/a17322.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
+    [ "Load", "d3/d2b/a17322.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
+    [ "PrepareAuraScript", "d3/d2b/a17322.html#a0856d66c801715f16cd251ddf9b25a59", null ],
+    [ "Register", "d3/d2b/a17322.html#a69d8dfebb981b51592770b7b5807bc80", null ],
+    [ "Validate", "d3/d2b/a17322.html#a55ec42ce316978220103a3a39f3939a3", null ],
+    [ "amount", "d3/d2b/a17322.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
+    [ "fired", "d3/d2b/a17322.html#a6a7afa99044644608b16e83328bfd5fa", null ]
 ];

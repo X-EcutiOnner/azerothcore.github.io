@@ -1,8 +1,12 @@
 var a30066 =
 [
-    [ "areaTriggerText", "db/d5c/a30066.html#a32bb8c4a4defce661d108627e25b645a", null ],
-    [ "Difficulty", "db/d5c/a30066.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
-    [ "MapId", "db/d5c/a30066.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
-    [ "maxPlayers", "db/d5c/a30066.html#a7ab33229ffee11a27861439053c79831", null ],
-    [ "resetTime", "db/d5c/a30066.html#a891a741efb049b51996e1a6110efc52d", null ]
+    [ "Bounds", "db/d5c/a30066.html#a1e982b341ac3859fad38b2efc81ab8ea", null ],
+    [ "DoodadSet", "db/d5c/a30066.html#abbf6e50e76b120be17215cfcf227a524", null ],
+    [ "Flags", "db/d5c/a30066.html#a06f5e96119239356eea45b9acdadf6e1", null ],
+    [ "Id", "db/d5c/a30066.html#a952442c180e8d3710af31272b54eb6ec", null ],
+    [ "NameSet", "db/d5c/a30066.html#a55df9aed38d8cf1503b21f5fd9d5e5d0", null ],
+    [ "Position", "db/d5c/a30066.html#a7e6463db89eaf53bc20832afb1842a5b", null ],
+    [ "Rotation", "db/d5c/a30066.html#a2c04715e800b9f375c287cced96643d1", null ],
+    [ "Scale", "db/d5c/a30066.html#a142716fecae07abc013c7f3bd053c0ea", null ],
+    [ "UniqueId", "db/d5c/a30066.html#a749e920740b9e91547fe1f87933d1c7d", null ]
 ];

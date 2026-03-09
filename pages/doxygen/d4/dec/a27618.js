@@ -1,10 +1,7 @@
 var a27618 =
 [
-    [ "guard_shattrath_scryerAI", "d4/dec/a27618.html#a97accbf467ca1190f8a05512b3857164", null ],
-    [ "Reset", "d4/dec/a27618.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
-    [ "UpdateAI", "d4/dec/a27618.html#ad759cca08b0093522e190ddc038e2c73", null ],
-    [ "banishTimer", "d4/dec/a27618.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
-    [ "canTeleport", "d4/dec/a27618.html#a84188b40b44deae5714466bb23bf2f0d", null ],
-    [ "exileTimer", "d4/dec/a27618.html#a97fbc3f54c23049fd91ad432cd560698", null ],
-    [ "playerGUID", "d4/dec/a27618.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
+    [ "HandleProc", "d4/dec/a27618.html#a4dbe9fedd6aabfd75f80c7ed6ab1d324", null ],
+    [ "PrepareAuraScript", "d4/dec/a27618.html#ae1ac0e47e529c729f04fb2e37ae4c1f9", null ],
+    [ "Register", "d4/dec/a27618.html#affb8d0a167e6f1bef1aaabd5eb99fe38", null ],
+    [ "Validate", "d4/dec/a27618.html#ae068298d60cdf9623748a8b6c77faabd", null ]
 ];

@@ -1,8 +1,5 @@
 var a05458 =
 [
-    [ "~Runnable", "de/d5f/a05458.html#add1dc9a377ee89c32cc40c42907e5bd8", null ],
-    [ "decReference", "de/d5f/a05458.html#a69bf63c7f684de6e278de0468ed8fa06", null ],
-    [ "incReference", "de/d5f/a05458.html#a062323e141fa33ae094adbef16caf3d6", null ],
-    [ "run", "de/d5f/a05458.html#ad92d9c0459fbcc59d2b0d8fe2ed620c9", null ],
-    [ "m_refs", "de/d5f/a05458.html#ae047c0949843835f0b240484df01b7f8", null ]
+    [ "~Permissible", "de/d5f/a05458.html#a9ed19d14dda478fe1ff6cb092d684be2", null ],
+    [ "Permit", "de/d5f/a05458.html#a0fccdbc46c9bafea63757ceee62b0385", null ]
 ];

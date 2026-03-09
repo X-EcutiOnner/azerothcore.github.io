@@ -1,6 +1,8 @@
 var a17358 =
 [
-    [ "npc_living_mojoAI", "d6/dae/a17362.html", "d6/dae/a17362" ],
-    [ "npc_living_mojo", "d7/da2/a17358.html#af24190023549b4ec5fa47b5959618a8a", null ],
-    [ "GetAI", "d7/da2/a17358.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
+    [ "npc_hor_leaderAI", "d6/dae/a17362.html", "d6/dae/a17362" ],
+    [ "npc_hor_leader", "d7/da2/a17358.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
+    [ "GetAI", "d7/da2/a17358.html#a55e7357aa6dff1efdff08541e88413e9", null ],
+    [ "OnGossipHello", "d7/da2/a17358.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
+    [ "OnGossipSelect", "d7/da2/a17358.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
 ];

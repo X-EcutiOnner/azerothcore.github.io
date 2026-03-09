@@ -1,9 +1,9 @@
 var a29050 =
 [
-    [ "Flags", "d7/da0/a29050.html#a4471edebd870d3dfaaf34292341e5f60", null ],
-    [ "Id", "d7/da0/a29050.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
-    [ "Position", "d7/da0/a29050.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
-    [ "Rotation", "d7/da0/a29050.html#a986c3ea05d510db03ec969f0d116fb34", null ],
-    [ "Scale", "d7/da0/a29050.html#af8bcb02c541b9261dbf879353ba6893a", null ],
-    [ "UniqueId", "d7/da0/a29050.html#a374c9893af515badc54b22b2a4d5e024", null ]
+    [ "HolidayWorldStateId", "d7/da0/a29050.html#a3f70ffbb1abb5a96fe91c2eec3682c8b", null ],
+    [ "id", "d7/da0/a29050.html#a52f7840f9247d2af63062dd280b37341", null ],
+    [ "mapid", "d7/da0/a29050.html#a11e1326eeb24b436b10db53acc323c13", null ],
+    [ "maxGroupSize", "d7/da0/a29050.html#adbdae47b424c3b61b76b48ea5798f52d", null ],
+    [ "name", "d7/da0/a29050.html#a9a56ca930ff8425d4b77066e47a1e09f", null ],
+    [ "type", "d7/da0/a29050.html#a647669b97599d7edf02b5a38dd1d5116", null ]
 ];

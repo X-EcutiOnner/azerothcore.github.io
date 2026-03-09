@@ -1,10 +1,7 @@
 var a17002 =
 [
-    [ "HandleAfterEffectAbsorb", "d9/d6a/a17002.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
-    [ "Load", "d9/d6a/a17002.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
-    [ "PrepareAuraScript", "d9/d6a/a17002.html#a0856d66c801715f16cd251ddf9b25a59", null ],
-    [ "Register", "d9/d6a/a17002.html#a69d8dfebb981b51592770b7b5807bc80", null ],
-    [ "Validate", "d9/d6a/a17002.html#a55ec42ce316978220103a3a39f3939a3", null ],
-    [ "amount", "d9/d6a/a17002.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
-    [ "fired", "d9/d6a/a17002.html#a6a7afa99044644608b16e83328bfd5fa", null ]
+    [ "npc_toc_enh_shamanAI", "d9/d6a/a17002.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
+    [ "myCanCast", "d9/d6a/a17002.html#a8a38da4063a22361b25835a67f14ff52", null ],
+    [ "UpdateAI", "d9/d6a/a17002.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
+    [ "events", "d9/d6a/a17002.html#adec973540bf3b046f54547fb845c06b1", null ]
 ];

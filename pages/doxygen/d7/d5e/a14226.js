@@ -1,7 +1,6 @@
 var a14226 =
 [
-    [ "HandleScriptEffect", "d7/d5e/a14226.html#ace68732d578fbaeb2b209bfded88853a", null ],
-    [ "PrepareSpellScript", "d7/d5e/a14226.html#a42a69995e8f527a383e96e2ead832f72", null ],
-    [ "Register", "d7/d5e/a14226.html#abb26c89a617bc27f8c2a1cfbb0935234", null ],
-    [ "Validate", "d7/d5e/a14226.html#a7697caf8e5390d290b353fb6a291aa10", null ]
+    [ "npc_parqual_fintallas", "d7/d5e/a14226.html#a9edaf1f7cf4e81ce24c54faa4aed6cf6", null ],
+    [ "OnGossipHello", "d7/d5e/a14226.html#af7c1f119d91aa63ee96765f2092b0a6c", null ],
+    [ "OnGossipSelect", "d7/d5e/a14226.html#a39276ef82ec5214a1727ebd60235a506", null ]
 ];

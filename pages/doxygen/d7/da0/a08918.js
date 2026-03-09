@@ -1,13 +1,14 @@
 var a08918 =
 [
-    [ "entry", "d7/da0/a08918.html#a9b4a88edefbc1e4b08a8ee03dfd90274", null ],
-    [ "height", "d7/da0/a08918.html#a40fcdb1274bc2587e8870b39a64289e1", null ],
-    [ "length", "d7/da0/a08918.html#a8e1ac424a973e546aa7c35e387e32a23", null ],
-    [ "map", "d7/da0/a08918.html#a9ecb58fde45a318ba0d6306c603aba4b", null ],
-    [ "orientation", "d7/da0/a08918.html#a5db58eaf63aceeaeb93bf6f4d5961a97", null ],
-    [ "radius", "d7/da0/a08918.html#ae4195d9f29b425394296009c22654380", null ],
-    [ "width", "d7/da0/a08918.html#af914195a4e7f2314a6241fb81cc8cfa8", null ],
-    [ "x", "d7/da0/a08918.html#a423077ceaf75c367831a6d9f55427a6f", null ],
-    [ "y", "d7/da0/a08918.html#a55ab832828addcef1b2f570bda81f2ce", null ],
-    [ "z", "d7/da0/a08918.html#ae5d0d4e9ef4006ad6c7195b999ef00c2", null ]
+    [ "SocialMap", "d7/da0/a08918.html#a2b80fa18a6f1ed54fda7719867f45ebd", null ],
+    [ "SocialMgr", "d7/da0/a08918.html#a3cff8262ce10d2e8c8c38dc834230545", null ],
+    [ "~SocialMgr", "d7/da0/a08918.html#aef859e6c923a6ba4bb7ac0049f17463d", null ],
+    [ "BroadcastToFriendListers", "d7/da0/a08918.html#a55b35ea17ebfea4ff31710186b87865f", null ],
+    [ "GetFriendInfo", "d7/da0/a08918.html#a7d0c4638b6fde1bf614d90492160ee55", null ],
+    [ "instance", "d7/da0/a08918.html#a223f3d7811d8c360da7f467b70af808f", null ],
+    [ "LoadFromDB", "d7/da0/a08918.html#aab17f5c27494cfdf2b1c5d5038f446a0", null ],
+    [ "MakeFriendStatusPacket", "d7/da0/a08918.html#af30fe2f3223dc7ad9094e44393420d3a", null ],
+    [ "RemovePlayerSocial", "d7/da0/a08918.html#af537c83cc3d481dde68d0a60aa122289", null ],
+    [ "SendFriendStatus", "d7/da0/a08918.html#acf245ca689bd5c0efe4a791b9e0e3c5f", null ],
+    [ "m_socialMap", "d7/da0/a08918.html#a2f8a276598ad01d350aa245fcef82a7a", null ]
 ];

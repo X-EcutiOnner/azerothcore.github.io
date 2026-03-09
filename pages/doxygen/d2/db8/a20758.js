@@ -1,9 +1,11 @@
 var a20758 =
 [
-    [ "npc_ulduar_dark_rune_sentinelAI", "d2/db8/a20758.html#a533ae31e0507f12f7d94e347b6b7ebf2", null ],
-    [ "CanAIAttack", "d2/db8/a20758.html#a12b2e5c621a8b04a4d80dde706a4bb2b", null ],
-    [ "Reset", "d2/db8/a20758.html#ada2897f48effedd5d5baa5a260497b5a", null ],
-    [ "UpdateAI", "d2/db8/a20758.html#aa9b319928a9b23cf4d47a07c1eaeb0cd", null ],
-    [ "timer1", "d2/db8/a20758.html#a383a2ee113822b7eff52466f0cc0e137", null ],
-    [ "timer2", "d2/db8/a20758.html#ad5c4698c5d12ff42179d62c47d9f7719", null ]
+    [ "boss_thorim_lightning_orb", "d2/db8/a20758.html#a04d4de44a41e62d6c1c4c68d3064a861", null ],
+    [ "AttackStart", "d2/db8/a20758.html#a8e512ec039d93b1ceb7a2b8ee556fa56", null ],
+    [ "EnterEvadeMode", "d2/db8/a20758.html#a855df9994de0901e56ac6f84d71ab7e4", null ],
+    [ "InitWaypoint", "d2/db8/a20758.html#a46a7a73cb200d7bbaa7f38871c765254", null ],
+    [ "MoveInLineOfSight", "d2/db8/a20758.html#a3577618ff9d5bdea191d840b6c968fad", null ],
+    [ "Reset", "d2/db8/a20758.html#adeefc7cd014021305b77cc9c52102ce6", null ],
+    [ "WaypointReached", "d2/db8/a20758.html#a3948ca0a57befa16e15e0d6ab97a0cbe", null ],
+    [ "Timer", "d2/db8/a20758.html#a79c24c42364c9932199ece2775f7a7f2", null ]
 ];

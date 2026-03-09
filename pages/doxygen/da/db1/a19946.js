@@ -1,16 +1,8 @@
 var a19946 =
 [
-    [ "boss_runemaster_molgeimAI", "da/db1/a19946.html#a9454bd0e95a5361baed5b186b1290606", null ],
-    [ "JustDied", "da/db1/a19946.html#a98df9b6d86eb0cec19f3a32dbf79a0e1", null ],
-    [ "JustEngagedWith", "da/db1/a19946.html#ade0ee9133e2d571015d7b0b2ea9d988b", null ],
-    [ "JustReachedHome", "da/db1/a19946.html#add0ccdadc163490cb9d241aedb919cfc", null ],
-    [ "KilledUnit", "da/db1/a19946.html#a1e1e8f4dbd450799135c8065d8229481", null ],
-    [ "Reset", "da/db1/a19946.html#ae17903a98365dc462b6dfd13efb6c689", null ],
-    [ "SpellHit", "da/db1/a19946.html#a35f83a6017a8c6a46334c5c65b3f62c4", null ],
-    [ "UpdateAI", "da/db1/a19946.html#a7db3d0f2725fd8b7aff01d1f60aba5bd", null ],
-    [ "UpdatePhase", "da/db1/a19946.html#adc700e8903de503260839c2d627d4b44", null ],
-    [ "_phase", "da/db1/a19946.html#a47a958b930d898627bcbde9a1b0426e6", null ],
-    [ "events", "da/db1/a19946.html#a626a84eca5840ba0851aa6bc151e5277", null ],
-    [ "pInstance", "da/db1/a19946.html#a422e7c2e139483cd377856bf3357b6a3", null ],
-    [ "summons", "da/db1/a19946.html#ad7b215ef95f6d37f94accf4d0e8a19e1", null ]
+    [ "HandleOnEffectApply", "da/db1/a19946.html#ac852d761940494f78b50ba3b060057a2", null ],
+    [ "HandleOnEffectRemove", "da/db1/a19946.html#a6764750586be8b57d52a2dba87d89e76", null ],
+    [ "PrepareAuraScript", "da/db1/a19946.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
+    [ "Register", "da/db1/a19946.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
+    [ "Validate", "da/db1/a19946.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
 ];

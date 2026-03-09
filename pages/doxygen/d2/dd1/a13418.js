@@ -1,7 +1,8 @@
 var a13418 =
 [
-    [ "OnRemove", "d2/dd1/a13418.html#a55460c6393c165e3096c967c81136032", null ],
-    [ "PrepareAuraScript", "d2/dd1/a13418.html#afd4e4483f704169e6d213ced134d4c62", null ],
-    [ "Register", "d2/dd1/a13418.html#a8458f77fde6eaddc273b3fe5f4e49ae0", null ],
-    [ "Validate", "d2/dd1/a13418.html#af580258d287f5db6103b89d3085669bc", null ]
+    [ "npc_death_knight_initiateAI", "d6/da6/a13422.html", "d6/da6/a13422" ],
+    [ "npc_death_knight_initiate", "d2/dd1/a13418.html#a0c1b552035bed7be9af1fbdf8205b4b6", null ],
+    [ "GetAI", "d2/dd1/a13418.html#ac38e0ed0ea1eac8e0de6f08664cb095a", null ],
+    [ "OnGossipHello", "d2/dd1/a13418.html#a24f1b91ad0a69e4468e812747225d303", null ],
+    [ "OnGossipSelect", "d2/dd1/a13418.html#ab0712bc84003b5eb72f11b49ef6e57a7", null ]
 ];

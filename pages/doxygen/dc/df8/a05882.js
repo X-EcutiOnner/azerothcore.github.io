@@ -1,17 +1,18 @@
 var a05882 =
 [
-    [ "QueryCallbackData", "dc/df8/a05882.html#a43aa5b63c21480a9a02e5b1705f5e46a", null ],
-    [ "QueryCallbackData", "dc/df8/a05882.html#af3d8b55a1a392e1f471bcf7ce16d8f45", null ],
-    [ "QueryCallbackData", "dc/df8/a05882.html#a81f06a2940c72077d0f8bbe0d6292c5e", null ],
-    [ "~QueryCallbackData", "dc/df8/a05882.html#a7a748ec0f04555caf696be1792701134", null ],
-    [ "QueryCallbackData", "dc/df8/a05882.html#aea307606758c54a99e020421acaa5697", null ],
-    [ "operator=", "dc/df8/a05882.html#a135161ac21cd4f11f2178acc8316afea", null ],
-    [ "operator=", "dc/df8/a05882.html#a5b4baade8dd78ab3dc00e1003f679fb3", null ],
-    [ "ConstructActiveMember", "dc/df8/a05882.html#a63276ee687270e668e7c51876ced5fb1", null ],
-    [ "DestroyActiveMember", "dc/df8/a05882.html#aac0ba6a0017441eb25c4b294fde99186", null ],
-    [ "MoveFrom", "dc/df8/a05882.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa", null ],
-    [ "QueryCallback", "dc/df8/a05882.html#a3bf0675bb0e337d06f1e7ef31d7622fe", null ],
-    [ "_isPrepared", "dc/df8/a05882.html#ad4e5dcd8f5648dfa36116b9944813ec6", null ],
-    [ "_prepared", "dc/df8/a05882.html#ab87a39965f1ca9d48d6e5a88fde51976", null ],
-    [ "_string", "dc/df8/a05882.html#a384db60c65e7823fdbc0ff430ac8dfe1", null ]
+    [ "build", "dc/df8/a05882.html#a4c2989e284a86a7257c3f4a7b507265c", null ],
+    [ "cmd", "dc/df8/a05882.html#a296fd5746ea3ad8f5b341cd92ecb92a6", null ],
+    [ "country", "dc/df8/a05882.html#a5391c693d5aee76e67001f648b108792", null ],
+    [ "error", "dc/df8/a05882.html#a36a4e2114203cbec036c7f6c6ba1f11b", null ],
+    [ "gamename", "dc/df8/a05882.html#ae6f5a1b7c4684bb96deaa51cb9cfc7bc", null ],
+    [ "I", "dc/df8/a05882.html#a48ed2eb4f17a62d033320b981fe9d07c", null ],
+    [ "I_len", "dc/df8/a05882.html#a589c5dadf3e694ba5e3d9f1e5732426e", null ],
+    [ "ip", "dc/df8/a05882.html#a5993cfad4be8f9e457bd6067ced6bd2a", null ],
+    [ "os", "dc/df8/a05882.html#ad8c71a1e514e6b8f6d6a4681ba1db0c1", null ],
+    [ "platform", "dc/df8/a05882.html#afc0d27e7213846988c0ee7ccc5e54ee0", null ],
+    [ "size", "dc/df8/a05882.html#aae293343b590c23405a32d2809887020", null ],
+    [ "timezone_bias", "dc/df8/a05882.html#a44cdd2733fb678966bc3252b6bef9d16", null ],
+    [ "version1", "dc/df8/a05882.html#aa7a794d75e11e98aa9f88cb8e82be9e9", null ],
+    [ "version2", "dc/df8/a05882.html#abe9218ee7ebdffa48dd404a2ad465ca4", null ],
+    [ "version3", "dc/df8/a05882.html#a6a9e5088baf8c568916891a55e035db3", null ]
 ];

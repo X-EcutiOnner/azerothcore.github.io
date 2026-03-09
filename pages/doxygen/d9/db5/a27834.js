@@ -1,7 +1,7 @@
 var a27834 =
 [
-    [ "npc_sayge", "d9/db5/a27834.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
-    [ "OnGossipHello", "d9/db5/a27834.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
-    [ "OnGossipSelect", "d9/db5/a27834.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
-    [ "SendAction", "d9/db5/a27834.html#aed1988335672423d024546654aa95298", null ]
+    [ "FilterTargets", "d9/db5/a27834.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
+    [ "PrepareSpellScript", "d9/db5/a27834.html#a954f00317eab544dd57e657368aab7fb", null ],
+    [ "Register", "d9/db5/a27834.html#a1804684c8685372faf2e88e56b48f5be", null ],
+    [ "Validate", "d9/db5/a27834.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
 ];

@@ -1,5 +1,6 @@
 var a21902 =
 [
-    [ "go_the_pearl_of_the_depths", "db/d5c/a21902.html#a0e09ddcde0eef050400d90e9a268823a", null ],
-    [ "OnGossipHello", "db/d5c/a21902.html#a745ea14136a78759a3afd7714c6d784a", null ]
+    [ "npc_mrfloppyAI", "dd/d39/a21906.html", "dd/d39/a21906" ],
+    [ "npc_mrfloppy", "db/d5c/a21902.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
+    [ "GetAI", "db/d5c/a21902.html#a88590566309f3fc155eb6dc26055a161", null ]
 ];

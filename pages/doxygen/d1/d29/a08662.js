@@ -1,13 +1,11 @@
 var a08662 =
 [
-    [ "BGData", "d1/d29/a08662.html#a91ccfa5183ef5996fb4bdf78567c09ba", null ],
-    [ "bgAfkReportedCount", "d1/d29/a08662.html#ab7374e7b8fc6607dd6b4f04385e80ca3", null ],
-    [ "bgAfkReportedTimer", "d1/d29/a08662.html#a51f8f4e05dc0224982af9a61d2dfae36", null ],
-    [ "bgAfkReporter", "d1/d29/a08662.html#a94047ac71676b7914e058aac8a8cb0ea", null ],
-    [ "bgInstanceID", "d1/d29/a08662.html#a8eff26fd78b5763501a3f5460de4e551", null ],
-    [ "bgIsRandom", "d1/d29/a08662.html#a6f25dd5c9dc6afcc7964a5d0b7d1444c", null ],
-    [ "bgQueueSlot", "d1/d29/a08662.html#a1c77bcf4135d994f0801558adca02f40", null ],
-    [ "bgTeamId", "d1/d29/a08662.html#ac97f7cafb6ae69a12588e40328cdc0cb", null ],
-    [ "bgTypeID", "d1/d29/a08662.html#a3398da6a15fd66cdd8dc172997d3786b", null ],
-    [ "isInvited", "d1/d29/a08662.html#a8e23a1664eedf33b2195d2d8d5b01b82", null ]
+    [ "MovableMapObject", "d1/d29/a08662.html#ad9f4cb74c55993cfdfc5895aefc33cfb", null ],
+    [ "GetCurrentCell", "d1/d29/a08662.html#a6d7d87cff5f00f3b370584675caf7870", null ],
+    [ "SetCurrentCell", "d1/d29/a08662.html#a4caa8c9e50452bff413dec06bf80b84c", null ],
+    [ "Map", "d1/d29/a08662.html#ad2f32e921244459f7cc6d50355429cc6", null ],
+    [ "ObjectGridLoader", "d1/d29/a08662.html#a9551c85ae0e43e4d212225c643da2262", null ],
+    [ "RandomMovementGenerator", "d1/d29/a08662.html#a260ebfc53c9406bc0356c553822d8ab2", null ],
+    [ "_currentCell", "d1/d29/a08662.html#a529db8859c0c9713bcc2f62459bbcc9f", null ],
+    [ "_moveState", "d1/d29/a08662.html#a6782d8e3dc7de58ef83a83cf0a355e43", null ]
 ];

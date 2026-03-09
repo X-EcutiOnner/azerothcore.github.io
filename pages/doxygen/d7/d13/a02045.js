@@ -1,10 +1,12 @@
 var a02045 =
 [
-    [ "AutobroadcastMgr", "d2/d00/a07376.html", "d2/d00/a07376" ],
-    [ "sAutobroadcastMgr", "d7/d13/a02045.html#a34abff2dadcb74370b0749fe9fda3878", null ],
-    [ "AnnounceType", "d7/d13/a02045.html#a28a4ef2f64643c76d8be05bf9eafc731", [
-      [ "World", "d7/d13/a02045.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6", null ],
-      [ "Notification", "d7/d13/a02045.html#a28a4ef2f64643c76d8be05bf9eafc731a96d008db67fc0b5551a926842bbb6a71", null ],
-      [ "Both", "d7/d13/a02045.html#a28a4ef2f64643c76d8be05bf9eafc731a130c5b3473c57faa76e2a1c54e26f88e", null ]
-    ] ]
+    [ "InstancePlayerBind", "dc/d85/a09890.html", "dc/d85/a09890" ],
+    [ "BoundInstancesMapWrapper", "d9/dc5/a09894.html", "d9/dc5/a09894" ],
+    [ "InstanceSave", "da/dda/a09898.html", "da/dda/a09898" ],
+    [ "InstanceSaveMgr", "d8/dd7/a09902.html", "d8/dd7/a09902" ],
+    [ "InstanceSaveMgr::InstResetEvent", "d6/df3/a09906.html", "d6/df3/a09906" ],
+    [ "sInstanceSaveMgr", "d7/d13/a02045.html#ae1d3c96dbd749e40f06799fa52eeb9a2", null ],
+    [ "BoundInstancesMap", "d7/d13/a02045.html#aaa779bf09b703eb355cb51ac3481a19e", null ],
+    [ "PlayerBindStorage", "d7/d13/a02045.html#a2e2e3e31db4cc3be56b24e732c84106b", null ],
+    [ "ResetTimeByMapDifficultyMap", "d7/d13/a02045.html#aecf15b673beb714ef0acaa3bac23696a", null ]
 ];

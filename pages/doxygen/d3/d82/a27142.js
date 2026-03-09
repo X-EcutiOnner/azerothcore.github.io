@@ -1,6 +1,8 @@
 var a27142 =
 [
-    [ "HandleRemove", "d3/d82/a27142.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
-    [ "PrepareAuraScript", "d3/d82/a27142.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
-    [ "Register", "d3/d82/a27142.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
+    [ "Load", "d3/d82/a27142.html#a510f81e77597ef55a87b4f77fa324b2b", null ],
+    [ "OnRemove", "d3/d82/a27142.html#a8b3a3678d1864e630173ab8eb4d504da", null ],
+    [ "PrepareAuraScript", "d3/d82/a27142.html#a1a98b0d8059d5ae47688c2c9bd0486bd", null ],
+    [ "Register", "d3/d82/a27142.html#ae7ed739883e30015e99b6ab5d6cb3f39", null ],
+    [ "Validate", "d3/d82/a27142.html#a3820e716d20809896c84c1ca781af4d1", null ]
 ];

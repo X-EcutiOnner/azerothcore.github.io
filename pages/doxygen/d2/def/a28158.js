@@ -1,5 +1,5 @@
 var a28158 =
 [
-    [ "Id", "d2/def/a28158.html#a79e4b857b811a044aed0ce33422df801", null ],
-    [ "quality_mod", "d2/def/a28158.html#a756e7b316cc365f15f24e5e4637303a6", null ]
+    [ "go_arena_ready_marker", "d2/def/a28158.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
+    [ "OnGossipHello", "d2/def/a28158.html#a9f51ead2b56d51427ff23be9688388d8", null ]
 ];

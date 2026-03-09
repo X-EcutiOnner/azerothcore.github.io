@@ -1,7 +1,7 @@
 var a17586 =
 [
-    [ "OnProc", "d9/d09/a17586.html#a5b6e96abb900da33657cdbbd137138e3", null ],
-    [ "PrepareAuraScript", "d9/d09/a17586.html#a5502476536a923e77af67c4bbcf005e3", null ],
-    [ "Register", "d9/d09/a17586.html#aca08edf219504156d6157c95702bb815", null ],
-    [ "Validate", "d9/d09/a17586.html#a52b1231f37e8b3d810614365659a98b6", null ]
+    [ "npc_pos_icicle_triggerAI", "d9/d09/a17586.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
+    [ "UpdateAI", "d9/d09/a17586.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
+    [ "pInstance", "d9/d09/a17586.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
+    [ "timer", "d9/d09/a17586.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
 ];

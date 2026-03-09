@@ -1,10 +1,6 @@
 var a16238 =
 [
-    [ "npc_xerestraszaAI", "d4/d67/a16238.html#a768ae45296e16b8fcada6359dfd6c7e5", null ],
-    [ "DoAction", "d4/d67/a16238.html#af696ecee315892b2bf0233113d2f89f9", null ],
-    [ "Reset", "d4/d67/a16238.html#a0eceae8fb9bf5071bc8d9cddf783507b", null ],
-    [ "UpdateAI", "d4/d67/a16238.html#a6389ab58f4b44c668590113ec75f2adf", null ],
-    [ "_events", "d4/d67/a16238.html#ae998fc6aaee14bc313ff38bb76d79e43", null ],
-    [ "_introDone", "d4/d67/a16238.html#a9d01014297290dafbb7ed25bffbe6fe6", null ],
-    [ "_isIntro", "d4/d67/a16238.html#a71ffbf3fedb77bd693beabb4ee52f57a", null ]
+    [ "npc_rivern_frostwind", "d4/d67/a16238.html#a0675c120fc28b26c7ea3c35f8d3f2a64", null ],
+    [ "OnGossipHello", "d4/d67/a16238.html#a90a6582633336de422c9f98973562b32", null ],
+    [ "OnGossipSelect", "d4/d67/a16238.html#a067ff91179f551633594d488eda269ed", null ]
 ];

@@ -1,8 +1,6 @@
 var a09290 =
 [
-    [ "GameObjectWorker", "dc/dcf/a09290.html#a79dd3983b007d982bbb1f0b33c5c7a54", null ],
-    [ "Visit", "dc/dcf/a09290.html#a754197d7a9aa3203cda964cbee81ae9a", null ],
-    [ "Visit", "dc/dcf/a09290.html#a47a10a6790179eb5b78cbb66dd9d7b54", null ],
-    [ "_func", "dc/dcf/a09290.html#abeaa251f909368e3ebeeff4dcefbda94", null ],
-    [ "_phaseMask", "dc/dcf/a09290.html#accfe66385f5bbfb461d0493c22fde20e", null ]
+    [ "EmoteDelay", "dc/dcf/a09290.html#a053adbedc95026b192360e13d32c9401", null ],
+    [ "EmoteType", "dc/dcf/a09290.html#aa5189cb250b3f46086ecd69dee23414b", null ],
+    [ "Greeting", "dc/dcf/a09290.html#a84aa5fced9b8989487d1468c4eccb976", null ]
 ];

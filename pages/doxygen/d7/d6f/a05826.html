@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Member List</title>
+<title>AzerothCore: TimeTrackerSmall Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('dc/d5f/a05829.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('d7/d6f/a05826.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,61 +104,227 @@ $(document).ready(function(){initNavTree('dc/d5f/a05829.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">LoginDatabaseConnection Member List</div></div>
+  <div class="summary">
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="../../de/d27/a05823.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">TimeTrackerSmall Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../dc/d5f/a05829.html">LoginDatabaseConnection</a>, including all inherited members.</p>
-<table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a42ae3c8ff4843505caa1c15d16050297">_HandleMySQLErrno</a>(uint32 errNo, char const *err=&quot;&quot;, uint8 attempts=5)</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"><span class="mlabel">protected</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#ade1f91232f3b8714e738dd2f7cc30b32">_Query</a>(std::string_view sql, MySQLResult **pResult, MySQLField **pFields, uint64 *pRowCount, uint32 *pFieldCount)</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a6e4f001afd95446320034731fb12c8e3">_Query</a>(PreparedStatementBase *stmt, MySQLPreparedStatement **mysqlStmt, MySQLResult **pResult, uint64 *pRowCount, uint32 *pFieldCount)</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#ab763784bf989e44c9e9b89f60b40276b">BeginTransaction</a>()</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a5ac81d3dd7c4cb4829ac3bb22f340f2c">Close</a>()</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a38c23f6a8fab723a3b6c467595da9f0b">CommitTransaction</a>()</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../dc/d5f/a05829.html#a3f826d59e4efa55d7825f90f434ae889">DoPrepareStatements</a>() override</td><td class="entry"><a class="el" href="../../dc/d5f/a05829.html">LoginDatabaseConnection</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a5422a4d24e8b76bbb7b98d1e53b6264d">EscapeString</a>(char *to, const char *from, std::size_t length)</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#ac9bb537b21f3780c8f1a0c11297706d6">Execute</a>(std::string_view sql)</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a023f265786596b49b876b5d8eb6fd4b8">Execute</a>(PreparedStatementBase *stmt)</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a33bfca5cf068fad1c3c675ae37f2f310">ExecuteTransaction</a>(std::shared_ptr&lt; TransactionBase &gt; transaction)</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#ae4e9cf9807f0212a7d5051cad72b4e44">GetLastError</a>()</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a2e60da9b1bd76d96de3ad5b23e5a4e0a">GetPreparedStatement</a>(uint32 index)</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a24fee52343cb2c1cf0142205b4a59276">GetServerInfo</a>() const</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a6dcd919eb0c6b7c8b23922b299729048">GetServerVersion</a>() const</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a056b280e9a3c948a37308b507890d313">LockIfReady</a>()</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../dc/d5f/a05829.html#aed22866380f9331ff73d4437a779206c">LoginDatabaseConnection</a>(MySQLConnectionInfo &amp;connInfo)</td><td class="entry"><a class="el" href="../../dc/d5f/a05829.html">LoginDatabaseConnection</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d5f/a05829.html#a27fa1397706cf8b986fe0a05a82a910b">LoginDatabaseConnection</a>(ProducerConsumerQueue&lt; SQLOperation * &gt; *q, MySQLConnectionInfo &amp;connInfo)</td><td class="entry"><a class="el" href="../../dc/d5f/a05829.html">LoginDatabaseConnection</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#aa9a08dc366602dfb95e58b02a9eb1063">m_connectionFlags</a></td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a4e958b3355a1b39ea672dc27dd38366a">m_connectionInfo</a></td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#aba6677ab672aece8ec00b4a3c33aeff4">m_Mutex</a></td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#aceac12bbc78307049e6685ebcc59237f">m_Mysql</a></td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#ac1a09db6a84f77c5d0dadd777d99b72d">m_prepareError</a></td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a3d2337c42a0463bca0bb123f238f9ba7">m_queue</a></td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#af6c437f04a5b861f8a56c24a372348fe">m_reconnecting</a></td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a5d82989a517e562adb833004fd56ff2a">m_stmts</a></td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a4093dd78c16775e1762b9cdfd7d9823b">m_worker</a></td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a6dd83b2bbcba305735e2ead2e4cac719">MySQLConnection</a>(MySQLConnectionInfo &amp;connInfo)</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a8ee2d30965f757954913b9b11d497114">MySQLConnection</a>(ProducerConsumerQueue&lt; SQLOperation * &gt; *queue, MySQLConnectionInfo &amp;connInfo)</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#aefb504c18dc11aa656d309363da95f3e">MySQLConnection</a>(MySQLConnection const &amp;right)=delete</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a571e0c5ce065b8975e3095a260d18cd7">Open</a>()</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a4b49275cdee9d7864ba9e49c037d31b9">operator=</a>(MySQLConnection const &amp;right)=delete</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a690c6afae2cfa2938700a32fdce91d7d">Ping</a>()</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a345a1b68e7cd2578504521ca0b55eb7e">PreparedStatementContainer</a> typedef</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a1f4f168a16bbd4b589b38a2d12cd3cd0">PrepareStatement</a>(uint32 index, std::string_view sql, ConnectionFlags flags)</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a6ae4039f5646adf6859db05be7974ea1">PrepareStatements</a>()</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a8c05ec510296198c91e98e7d18e9d6c7">Query</a>(std::string_view sql)</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#abf541439a7934a2fa3d8267356f4c631">Query</a>(PreparedStatementBase *stmt)</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#a5b774adbbd056adf560f9b7cfcf2393a">RollbackTransaction</a>()</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d5f/a05829.html#a6dc31cb64a22e90cc5275bf6fcaaf000">Statements</a> typedef</td><td class="entry"><a class="el" href="../../dc/d5f/a05829.html">LoginDatabaseConnection</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#ab2a72378169f8cb860c9c217a198f97b">Unlock</a>()</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d5f/a05829.html#a7514a6e42889d5d75dcce2e804fff7b8">~LoginDatabaseConnection</a>() override</td><td class="entry"><a class="el" href="../../dc/d5f/a05829.html">LoginDatabaseConnection</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d7/d3b/a05841.html#ad7e23da74a5e7722158939f969af16d7">~MySQLConnection</a>()</td><td class="entry"><a class="el" href="../../d7/d3b/a05841.html">MySQLConnection</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-</table></div><!-- contents -->
+<p><code>#include &quot;<a class="el" href="../../">Timer.h</a>&quot;</code></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a38a962c928eac8546d1fd37a094077cc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6f/a05826.html#a38a962c928eac8546d1fd37a094077cc">TimeTrackerSmall</a> (<a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> expiry=0)</td></tr>
+<tr class="separator:a38a962c928eac8546d1fd37a094077cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6c10a37051caf7c16f1aa057bf2bf7da"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6f/a05826.html#a6c10a37051caf7c16f1aa057bf2bf7da">Update</a> (<a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> diff)</td></tr>
+<tr class="separator:a6c10a37051caf7c16f1aa057bf2bf7da"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af4455d0ebb784497e9fd1a08cc915062"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6f/a05826.html#af4455d0ebb784497e9fd1a08cc915062">Passed</a> () const</td></tr>
+<tr class="separator:af4455d0ebb784497e9fd1a08cc915062"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab8a3c45ffe0e83132e708b5e87625c02"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6f/a05826.html#ab8a3c45ffe0e83132e708b5e87625c02">Reset</a> (<a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> interval)</td></tr>
+<tr class="separator:ab8a3c45ffe0e83132e708b5e87625c02"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ebcfabed1bf252b6afb6c3182142c7b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6f/a05826.html#a2ebcfabed1bf252b6afb6c3182142c7b">GetExpiry</a> () const</td></tr>
+<tr class="separator:a2ebcfabed1bf252b6afb6c3182142c7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a332f650bcfc81fb4b0de1b58ff1e0c9b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6f/a05826.html#a332f650bcfc81fb4b0de1b58ff1e0c9b">i_expiryTime</a></td></tr>
+<tr class="separator:a332f650bcfc81fb4b0de1b58ff1e0c9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a38a962c928eac8546d1fd37a094077cc" name="a38a962c928eac8546d1fd37a094077cc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a38a962c928eac8546d1fd37a094077cc">&#9670;&#160;</a></span>TimeTrackerSmall()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">TimeTrackerSmall::TimeTrackerSmall </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
+          <td class="paramname"><em>expiry</em> = <code>0</code></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  235</span>        : <a class="code hl_variable" href="../../d7/d6f/a05826.html#a332f650bcfc81fb4b0de1b58ff1e0c9b">i_expiryTime</a>(expiry)</div>
+<div class="line"><span class="lineno">  236</span>    {</div>
+<div class="line"><span class="lineno">  237</span>    }</div>
+<div class="ttc" id="aa05826_html_a332f650bcfc81fb4b0de1b58ff1e0c9b"><div class="ttname"><a href="../../d7/d6f/a05826.html#a332f650bcfc81fb4b0de1b58ff1e0c9b">TimeTrackerSmall::i_expiryTime</a></div><div class="ttdeci">int32 i_expiryTime</div><div class="ttdef"><b>Definition:</b> Timer.h:260</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a2ebcfabed1bf252b6afb6c3182142c7b" name="a2ebcfabed1bf252b6afb6c3182142c7b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2ebcfabed1bf252b6afb6c3182142c7b">&#9670;&#160;</a></span>GetExpiry()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> TimeTrackerSmall::GetExpiry </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  255</span>    {</div>
+<div class="line"><span class="lineno">  256</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d6f/a05826.html#a332f650bcfc81fb4b0de1b58ff1e0c9b">i_expiryTime</a>;</div>
+<div class="line"><span class="lineno">  257</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00260">i_expiryTime</a>.</p>
+
+</div>
+</div>
+<a id="af4455d0ebb784497e9fd1a08cc915062" name="af4455d0ebb784497e9fd1a08cc915062"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af4455d0ebb784497e9fd1a08cc915062">&#9670;&#160;</a></span>Passed()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool TimeTrackerSmall::Passed </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  245</span>    {</div>
+<div class="line"><span class="lineno">  246</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d6f/a05826.html#a332f650bcfc81fb4b0de1b58ff1e0c9b">i_expiryTime</a> &lt;= 0;</div>
+<div class="line"><span class="lineno">  247</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00260">i_expiryTime</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00138">MotionTransport::Update()</a>, and <a class="el" href="../../#l00088">DynTreeImpl::update()</a>.</p>
+
+</div>
+</div>
+<a id="ab8a3c45ffe0e83132e708b5e87625c02" name="ab8a3c45ffe0e83132e708b5e87625c02"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab8a3c45ffe0e83132e708b5e87625c02">&#9670;&#160;</a></span>Reset()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void TimeTrackerSmall::Reset </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
+          <td class="paramname"><em>interval</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  250</span>    {</div>
+<div class="line"><span class="lineno">  251</span>        <a class="code hl_variable" href="../../d7/d6f/a05826.html#a332f650bcfc81fb4b0de1b58ff1e0c9b">i_expiryTime</a> = interval;</div>
+<div class="line"><span class="lineno">  252</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00260">i_expiryTime</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00138">MotionTransport::Update()</a>, and <a class="el" href="../../#l00088">DynTreeImpl::update()</a>.</p>
+
+</div>
+</div>
+<a id="a6c10a37051caf7c16f1aa057bf2bf7da" name="a6c10a37051caf7c16f1aa057bf2bf7da"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6c10a37051caf7c16f1aa057bf2bf7da">&#9670;&#160;</a></span>Update()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void TimeTrackerSmall::Update </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
+          <td class="paramname"><em>diff</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  240</span>    {</div>
+<div class="line"><span class="lineno">  241</span>        <a class="code hl_variable" href="../../d7/d6f/a05826.html#a332f650bcfc81fb4b0de1b58ff1e0c9b">i_expiryTime</a> -= diff;</div>
+<div class="line"><span class="lineno">  242</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00260">i_expiryTime</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00138">MotionTransport::Update()</a>, and <a class="el" href="../../#l00088">DynTreeImpl::update()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a332f650bcfc81fb4b0de1b58ff1e0c9b" name="a332f650bcfc81fb4b0de1b58ff1e0c9b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a332f650bcfc81fb4b0de1b58ff1e0c9b">&#9670;&#160;</a></span>i_expiryTime</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> TimeTrackerSmall::i_expiryTime</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00254">GetExpiry()</a>, <a class="el" href="../../#l00244">Passed()</a>, <a class="el" href="../../#l00249">Reset()</a>, and <a class="el" href="../../#l00239">Update()</a>.</p>
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Feb 16 2026 21:01:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d7/d6f/a05826.html">TimeTrackerSmall</a></li>
+    <li class="footer">Generated on Mon Mar 9 2026 21:05:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

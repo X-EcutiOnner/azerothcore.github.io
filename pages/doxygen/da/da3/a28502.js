@@ -1,6 +1,6 @@
 var a28502 =
 [
-    [ "Enchantment", "da/da3/a28502.html#a480ab806214bb138d56dfd5e9e43936f", null ],
-    [ "ID", "da/da3/a28502.html#acb673be771124b84dd3fdd5deb300de7", null ],
-    [ "Name", "da/da3/a28502.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
+    [ "spawnedCreatureEntry", "da/da3/a28502.html#a32b390dfff99d5fd3c49359779718af4", null ],
+    [ "spawnType", "da/da3/a28502.html#a056dabf4092da4ef3155a661607ca772", null ],
+    [ "thisCreatureEntry", "da/da3/a28502.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
 ];

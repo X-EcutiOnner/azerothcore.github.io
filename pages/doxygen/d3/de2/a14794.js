@@ -1,7 +1,8 @@
 var a14794 =
 [
-    [ "boss_azuregosAI", "d8/d7d/a14798.html", "d8/d7d/a14798" ],
-    [ "boss_azuregos", "d3/de2/a14794.html#a48590db0037870ca5c9425a468e5ea3a", null ],
-    [ "GetAI", "d3/de2/a14794.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
-    [ "OnGossipSelect", "d3/de2/a14794.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
+    [ "OnApply", "d3/de2/a14794.html#a6f3f05316f025ef638672a82cc855136", null ],
+    [ "PeriodicTick", "d3/de2/a14794.html#a051d292f9483e6b82d773fba3ab52460", null ],
+    [ "PrepareAuraScript", "d3/de2/a14794.html#ab8face95be60d7c5ba3fe15f0d05de25", null ],
+    [ "Register", "d3/de2/a14794.html#a0004de73250b8523db2b9ab714c8a246", null ],
+    [ "Validate", "d3/de2/a14794.html#aae1809dd5bc8baa06ee079a6d2a8b940", null ]
 ];

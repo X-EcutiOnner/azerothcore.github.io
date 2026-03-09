@@ -1,15 +1,6 @@
 var a22866 =
 [
-    [ "boss_grandmaster_vorpil", "d5/dda/a22866.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
-    [ "counterVoidSpawns", "d5/dda/a22866.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
-    [ "JustDied", "d5/dda/a22866.html#ab492fff8a9a275c662b44eeff3300b90", null ],
-    [ "JustEngagedWith", "d5/dda/a22866.html#af1e6da02cd33742efad568424cf32c4f", null ],
-    [ "JustSummoned", "d5/dda/a22866.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
-    [ "KilledUnit", "d5/dda/a22866.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
-    [ "MoveInLineOfSight", "d5/dda/a22866.html#adb24a3d337b64f37759a3a39802d7e27", null ],
-    [ "Reset", "d5/dda/a22866.html#a6471121ee02a834591b36d03fae28672", null ],
-    [ "spawnVoidTraveler", "d5/dda/a22866.html#aa842bc3d88d0a3a411dcba3711809956", null ],
-    [ "summonPortals", "d5/dda/a22866.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
-    [ "sayHelp", "d5/dda/a22866.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
-    [ "sayIntro", "d5/dda/a22866.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
+    [ "PrepareAuraScript", "d5/dda/a22866.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
+    [ "Register", "d5/dda/a22866.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
+    [ "Update", "d5/dda/a22866.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
 ];

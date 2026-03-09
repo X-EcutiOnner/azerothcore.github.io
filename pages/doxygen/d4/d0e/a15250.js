@@ -1,20 +1,13 @@
 var a15250 =
 [
-    [ "npc_general_andorov", "d4/d0e/a15250.html#ac3bbdeaad9c7bb303a5de6773916dcff", null ],
-    [ "GetData", "d4/d0e/a15250.html#adf1b6a0767c3633c96d41d6a8c59e670", null ],
-    [ "InitializeAI", "d4/d0e/a15250.html#a701221e8fd8830a3586d9791fd8eca56", null ],
-    [ "JustDied", "d4/d0e/a15250.html#ae6342cc5d033bc2900594cabccaf7233", null ],
-    [ "JustEngagedWith", "d4/d0e/a15250.html#a9f1261cde233466b814b53be03406370", null ],
-    [ "JustSummoned", "d4/d0e/a15250.html#a3add3fa13ffae3cd688eaf564c3f835d", null ],
-    [ "KilledUnit", "d4/d0e/a15250.html#a728b73ed109ee6b2b45eb3f1415b4744", null ],
-    [ "MoveInLineOfSight", "d4/d0e/a15250.html#a230803b7f29829118d105ec768941ffa", null ],
-    [ "sGossipSelect", "d4/d0e/a15250.html#a38eadfe7e465c276f7496c5b51f60d03", null ],
-    [ "UpdateEscortAI", "d4/d0e/a15250.html#ab5f5af15cf76071dcce833514bb8c867", null ],
-    [ "WaypointReached", "d4/d0e/a15250.html#ab9edc924b6e5ade56e3f6443a7454eaa", null ],
-    [ "_initialAttackTimer", "d4/d0e/a15250.html#a38dd94fea45cf2c1821cb01e3d3e70d8", null ],
-    [ "_paused", "d4/d0e/a15250.html#aa0708d2c1e4829371b93697744fb10b7", null ],
-    [ "_summons", "d4/d0e/a15250.html#ac8cb94b3870f655b61a52cdb5076fc4c", null ],
-    [ "Endwaypoint", "d4/d0e/a15250.html#a6897bb1ed63743ce8b225786d63910df", null ],
-    [ "events", "d4/d0e/a15250.html#aa7eace59bc5f630cafba513f9e2ec0f8", null ],
-    [ "instance", "d4/d0e/a15250.html#ae79d42dc7fa334ace67f07651ce4720a", null ]
+    [ "boss_infinite_corruptorAI", "d4/d0e/a15250.html#add36192941eaabf7f3d1d41c572783bd", null ],
+    [ "DoAction", "d4/d0e/a15250.html#a8ff0a9731ad7bc118a1014bdbb0e1daf", null ],
+    [ "JustDied", "d4/d0e/a15250.html#a6d2f445bf0819ac644d7de14d3b7034d", null ],
+    [ "JustEngagedWith", "d4/d0e/a15250.html#a644725505db4fc7a98c4255d0eb34616", null ],
+    [ "JustSummoned", "d4/d0e/a15250.html#a2b12c03184b169a56a0e6696a107dc35", null ],
+    [ "Reset", "d4/d0e/a15250.html#a4dbff495bfcda6fb715dec68616e1764", null ],
+    [ "UpdateAI", "d4/d0e/a15250.html#aaa0a45066ab7ad7d5a7543822d399947", null ],
+    [ "beamTimer", "d4/d0e/a15250.html#a2f8048e591a818f073a65bfcfa49e66c", null ],
+    [ "events", "d4/d0e/a15250.html#a5491db8f5e063ca84f18f1ca63c1e846", null ],
+    [ "summons", "d4/d0e/a15250.html#aa5de5f986f8a6d3ba5f3aad84422eab6", null ]
 ];

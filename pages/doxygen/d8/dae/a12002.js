@@ -1,12 +1,12 @@
 var a12002 =
 [
-    [ "npc_av_marshal_or_warmasterAI", "d8/dae/a12002.html#af3620678992778edbb859622e057893a", null ],
-    [ "AttackStart", "d8/dae/a12002.html#aed39eaed8648ce78349c49ee33918b93", null ],
-    [ "EnterEvadeMode", "d8/dae/a12002.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
-    [ "JustRespawned", "d8/dae/a12002.html#a460c6912063587214ba0f2e01878d827", null ],
-    [ "Reset", "d8/dae/a12002.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
-    [ "UpdateAI", "d8/dae/a12002.html#a7bf1631810c8446bc157f8ff220199b7", null ],
-    [ "_attacked", "d8/dae/a12002.html#a56d7211a3565c19b499f7de2eda6c862", null ],
-    [ "_hasAura", "d8/dae/a12002.html#a1c0049100cde1c62daf80779d1135156", null ],
-    [ "events", "d8/dae/a12002.html#a49b8e01897cd5347bbd06cac254163f4", null ]
+    [ "WardenMac", "d8/dae/a12002.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
+    [ "~WardenMac", "d8/dae/a12002.html#a5f3832580c73a0af34fa83669a92ceab", null ],
+    [ "GetModuleForClient", "d8/dae/a12002.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
+    [ "HandleData", "d8/dae/a12002.html#a024be47d39641cb0e7654b0e0999e444", null ],
+    [ "HandleHashResult", "d8/dae/a12002.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
+    [ "Init", "d8/dae/a12002.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
+    [ "InitializeModule", "d8/dae/a12002.html#a4fceef34e83db1a357d9eadce35efdef", null ],
+    [ "RequestChecks", "d8/dae/a12002.html#a2437a3a5650305b05fc22d312d0006da", null ],
+    [ "RequestHash", "d8/dae/a12002.html#af031f18554c5a96b4eb39371a92b9c51", null ]
 ];

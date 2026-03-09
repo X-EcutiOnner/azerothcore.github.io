@@ -1,6 +1,9 @@
 var a27458 =
 [
-    [ "go_flamesAI", "d7/d23/a27458.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "d7/d23/a27458.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "d7/d23/a27458.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "CalculateAmount", "d7/d23/a27458.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
+    [ "CheckProc", "d7/d23/a27458.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
+    [ "HandleProc", "d7/d23/a27458.html#a741570ba77f70d90b437198f63e565f3", null ],
+    [ "PrepareAuraScript", "d7/d23/a27458.html#af4e49e2362994f247c119c16c013e4b3", null ],
+    [ "Register", "d7/d23/a27458.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
+    [ "Validate", "d7/d23/a27458.html#a939d6815bcaee9b9d2b062313aac912a", null ]
 ];

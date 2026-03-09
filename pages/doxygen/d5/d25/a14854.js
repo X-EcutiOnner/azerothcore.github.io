@@ -1,6 +1,6 @@
 var a14854 =
 [
-    [ "FilterTargets", "d5/d25/a14854.html#a45b0713b2942199bf0e19752fe765aac", null ],
-    [ "PrepareSpellScript", "d5/d25/a14854.html#a7f7177d7754a99743202f69a0342f587", null ],
-    [ "Register", "d5/d25/a14854.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
+    [ "gameobjectId", "d5/d25/a14854.html#a5cebf652fccc66cb5f98968036405d14", null ],
+    [ "spawnIndex", "d5/d25/a14854.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
+    [ "timestamp", "d5/d25/a14854.html#a0c49f62b35e906637890fee896c74951", null ]
 ];

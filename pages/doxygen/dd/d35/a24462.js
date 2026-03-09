@@ -1,6 +1,9 @@
 var a24462 =
 [
-    [ "npc_zephyr", "dd/d35/a24462.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
-    [ "OnGossipHello", "dd/d35/a24462.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
-    [ "OnGossipSelect", "dd/d35/a24462.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
+    [ "npc_pet_shaman_fire_elemental", "dd/d35/a24462.html#a3428642963fc9e7588ec92fd838f1af9", null ],
+    [ "InitializeAI", "dd/d35/a24462.html#aef4865f83ce0c73efe0c47a11ac87594", null ],
+    [ "JustEngagedWith", "dd/d35/a24462.html#ac274b9edb03ab13a8e95d8c4fe5055db", null ],
+    [ "UpdateAI", "dd/d35/a24462.html#a2280e5cc5187a91917a1e517e80e960d", null ],
+    [ "_events", "dd/d35/a24462.html#aa4578cdbe41d28e399247c84c9fe8049", null ],
+    [ "_initAttack", "dd/d35/a24462.html#a2df79acc05dd8489e9e994e044b45404", null ]
 ];

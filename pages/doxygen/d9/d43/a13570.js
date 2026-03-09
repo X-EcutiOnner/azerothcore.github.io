@@ -1,11 +1,16 @@
 var a13570 =
 [
-    [ "npc_kalecgos_kj", "d9/d43/a13570.html#aae30bdf82ff333ef02a1981717c54ea4", null ],
-    [ "DoAction", "d9/d43/a13570.html#a6b2743b9b6bfb4d687e54412fe66c17f", null ],
-    [ "JustSummoned", "d9/d43/a13570.html#acf92559a2b06b8c9cce5c4887dd1316b", null ],
-    [ "Reset", "d9/d43/a13570.html#ab3cd4229999bddc16fe8152acb187111", null ],
-    [ "UpdateAI", "d9/d43/a13570.html#a8a029eb2cf7fd96ed324d93f4d66a30d", null ],
-    [ "events", "d9/d43/a13570.html#ab5cc58e293e20172558e15fa28670633", null ],
-    [ "instance", "d9/d43/a13570.html#a5a6f22c34578ccb7a5c1696d8ed342d6", null ],
-    [ "summons", "d9/d43/a13570.html#a57af12b97c6e250a50283b224bc5cb6f", null ]
+    [ "instance_scarlet_monastery_InstanceMapScript", "d9/d43/a13570.html#a4abdd53f735be815cb2d43497d1531e0", null ],
+    [ "GetData", "d9/d43/a13570.html#a07d9bcc1b1daa29f31be146aaa85993c", null ],
+    [ "GetGuidData", "d9/d43/a13570.html#a49ac1088399ef71b1fcd7c90c6a34fac", null ],
+    [ "OnCreatureCreate", "d9/d43/a13570.html#a71fcfc166f945325a4ee149645a9ccef", null ],
+    [ "OnGameObjectCreate", "d9/d43/a13570.html#a5e90e8cadff18b19c9a1d451dbe675c9", null ],
+    [ "SetData", "d9/d43/a13570.html#aaf498d563d070d6250a182f583651777", null ],
+    [ "_ashbringerNpcGUID", "d9/d43/a13570.html#a1abdafc284def7ab4069a17c0aeda535", null ],
+    [ "_ashencounter", "d9/d43/a13570.html#ac6f544cf00bb6d987c9128cce9c1aa10", null ],
+    [ "_doorChapelGUID", "d9/d43/a13570.html#a9f5070bfd7326ccaa1ebe697524a814b", null ],
+    [ "_doorHighInquisitorGUID", "d9/d43/a13570.html#a1c9c74f06b2e1db77d5e6c75e720290c", null ],
+    [ "_encounter", "d9/d43/a13570.html#a9d025f0d9740eaec42fe4f45971a6cf9", null ],
+    [ "_mograineGUID", "d9/d43/a13570.html#ad34fc11ed5bd36a8f3a84f183627deb1", null ],
+    [ "_whitemaneGUID", "d9/d43/a13570.html#af6c6214f8d506815afeeb2af4ad4a71b", null ]
 ];

@@ -1,6 +1,6 @@
 var a17914 =
 [
-    [ "CheckProc", "d9/d2b/a17914.html#a86e62fa26606a77284c80583e7b35d27", null ],
-    [ "PrepareAuraScript", "d9/d2b/a17914.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
-    [ "Register", "d9/d2b/a17914.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
+    [ "HandleScript", "d9/d2b/a17914.html#acd11d50f398857dc2a24bd2d63e52222", null ],
+    [ "PrepareSpellScript", "d9/d2b/a17914.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
+    [ "Register", "d9/d2b/a17914.html#ad7f12515dc21ab6b19148370fd491629", null ]
 ];

@@ -1,25 +1,11 @@
 var a07606 =
 [
-    [ "ChatCommandBuilder", "d3/dd4/a07606.html#ab53f2e507d41dc1ba9b015ba8292e043", null ],
-    [ "ChatCommandNode", "d3/dd4/a07606.html#af67470ce232b1324c920815bc6be0255", null ],
-    [ "ChatCommandNode", "d3/dd4/a07606.html#ace4fbb9c35b5b8cf92dd3328636a4308", null ],
-    [ "GetAutoCompletionsFor", "d3/dd4/a07606.html#a47c97ff69746c49c3049d267428af25f", null ],
-    [ "GetTopLevelMap", "d3/dd4/a07606.html#a9e6a191ab52d02cb00e06ee451ad2cdd", null ],
-    [ "HasVisibleSubCommands", "d3/dd4/a07606.html#aad6609f9c4c6af53555823d337af11e4", null ],
-    [ "InvalidateCommandMap", "d3/dd4/a07606.html#a2d2b56b3e6022865e26058cc5bb5b8eb", null ],
-    [ "IsInvokerVisible", "d3/dd4/a07606.html#afc1fb38efba73def9e39de413139346b", null ],
-    [ "IsVisible", "d3/dd4/a07606.html#abdad09a6ec7395e43f60de4a6ed7fcc9", null ],
-    [ "LoadCommandMap", "d3/dd4/a07606.html#aa42fdd06b21123d4386e5091504e7ec5", null ],
-    [ "LoadCommandsIntoMap", "d3/dd4/a07606.html#a86a4715db5436e7735764594cc13e2c8", null ],
-    [ "LoadFromBuilder", "d3/dd4/a07606.html#a1aaa40278958d49e19a443817811d807", null ],
-    [ "ResolveNames", "d3/dd4/a07606.html#a17d8dd1747fd24663accd2e2af45551b", null ],
-    [ "SendCommandHelp", "d3/dd4/a07606.html#ae6e247f87720c56b6a4e6ab42eca9a6e", null ],
-    [ "SendCommandHelpFor", "d3/dd4/a07606.html#a72468eda1d9e8f78a7b0b4c902d24057", null ],
-    [ "TryExecuteCommand", "d3/dd4/a07606.html#a0028dd4991726c18bebb0168376bff52", null ],
-    [ "FilteredCommandListIterator", "d3/dd4/a07606.html#a51b8e0feacb74550bddae60a564ed9cb", null ],
-    [ "_help", "d3/dd4/a07606.html#aab74ed564cfd021660a0f06b3879680f", null ],
-    [ "_invoker", "d3/dd4/a07606.html#a6efa70ba248fe2e1131ac71cf400f07a", null ],
-    [ "_name", "d3/dd4/a07606.html#a1f03e3c4c3582ac4668fe1387b23d9fa", null ],
-    [ "_permission", "d3/dd4/a07606.html#afafeb5561392d3b1b0016eb9d9251176", null ],
-    [ "_subCommands", "d3/dd4/a07606.html#aba4526ea09ea4f4c77d92b34d8a0e756", null ]
+    [ "BattlegroundABScore", "d3/dd4/a07606.html#ae219ecb551c89ad5a5cb22f1996a598b", null ],
+    [ "BuildObjectivesBlock", "d3/dd4/a07606.html#a86ac6e9b19eaa7ed257f25f9f73c22cf", null ],
+    [ "GetAttr1", "d3/dd4/a07606.html#af0f066f76f4d84e844946862ae819b4f", null ],
+    [ "GetAttr2", "d3/dd4/a07606.html#a8ac00679dd8dfeef81f159b7a2b22027", null ],
+    [ "UpdateScore", "d3/dd4/a07606.html#a43aaefd97c8880cbf70381282d81f7cf", null ],
+    [ "BattlegroundAB", "d3/dd4/a07606.html#ad5365fcb2edd84180065badd1572ba8e", null ],
+    [ "BasesAssaulted", "d3/dd4/a07606.html#a25643abf67d1ae2f8498951c11833994", null ],
+    [ "BasesDefended", "d3/dd4/a07606.html#a450504481d335230b3e035d4337694be", null ]
 ];

@@ -1,8 +1,5 @@
 var a05790 =
 [
-    [ "Statements", "d3/d09/a05790.html#adaf49f7cb45d90cb041f979b1821e4a1", null ],
-    [ "WorldDatabaseConnection", "d3/d09/a05790.html#a0c03387d2c019c86d1fe4933eca6aae5", null ],
-    [ "WorldDatabaseConnection", "d3/d09/a05790.html#a015f79a049d37f742232bc5ac10e9551", null ],
-    [ "~WorldDatabaseConnection", "d3/d09/a05790.html#a2feafa80fe8e838587d8f7b641c0ab09", null ],
-    [ "DoPrepareStatements", "d3/d09/a05790.html#a280aa4a4571581c5cef8f9967631b484", null ]
+    [ "FromString", "d3/d09/a05790.html#acfabf7e368302aa32ae96367f836edd2", null ],
+    [ "ToString", "d3/d09/a05790.html#a3a97bead5d1614412948b41fe499d50c", null ]
 ];

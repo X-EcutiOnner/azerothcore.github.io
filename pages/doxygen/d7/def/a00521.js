@@ -1,15 +1,15 @@
 var a00521 =
 [
-    [ "ProcChanceTestHelper", "dd/dd5/a29536.html", "dd/dd5/a29536" ],
-    [ "ProcChanceTestHelper::TriggeredSpellConfig", "d3/d91/a29540.html", "d3/d91/a29540" ],
-    [ "ProcChanceTestHelper::ExtraAttackProcConfig", "d4/de7/a29544.html", "d4/de7/a29544" ],
-    [ "ProcChanceTestHelper::PPMModifierConfig", "d3/da0/a29548.html", "d3/da0/a29548" ],
-    [ "ProcChanceTestHelper::EquipmentConfig", "dc/da8/a29552.html", "dc/da8/a29552" ],
-    [ "ProcChanceTestHelper::CascadeProcConfig", "d6/db8/a29556.html", "d6/db8/a29556" ],
-    [ "ProcChanceTestHelper::TakenAutoTriggerConfig", "d4/dfa/a29560.html", "d4/dfa/a29560" ],
-    [ "ProcChanceTestHelper::ConditionsConfig", "d8/dcf/a29564.html", "d8/dcf/a29564" ],
-    [ "ProcTestScenario", "d4/dbd/a29568.html", "d4/dbd/a29568" ],
-    [ "ProcChainGuardSimulator", "de/d46/a29572.html", "de/d46/a29572" ],
-    [ "ProcChainGuardSimulator::AuraConfig", "d9/d53/a29576.html", "d9/d53/a29576" ],
-    [ "ProcChainGuardSimulator::ProcRecord", "d4/df9/a29580.html", "d4/df9/a29580" ]
+    [ "ProcChanceTestHelper", "d5/dcf/a29586.html", "d5/dcf/a29586" ],
+    [ "ProcChanceTestHelper::TriggeredSpellConfig", "d3/dd9/a29590.html", "d3/dd9/a29590" ],
+    [ "ProcChanceTestHelper::ExtraAttackProcConfig", "de/ddc/a29594.html", "de/ddc/a29594" ],
+    [ "ProcChanceTestHelper::PPMModifierConfig", "da/d54/a29598.html", "da/d54/a29598" ],
+    [ "ProcChanceTestHelper::EquipmentConfig", "d5/dc6/a29602.html", "d5/dc6/a29602" ],
+    [ "ProcChanceTestHelper::CascadeProcConfig", "df/d2d/a29606.html", "df/d2d/a29606" ],
+    [ "ProcChanceTestHelper::TakenAutoTriggerConfig", "d7/de2/a29610.html", "d7/de2/a29610" ],
+    [ "ProcChanceTestHelper::ConditionsConfig", "d1/d86/a29614.html", "d1/d86/a29614" ],
+    [ "ProcTestScenario", "df/dec/a29618.html", "df/dec/a29618" ],
+    [ "ProcChainGuardSimulator", "d6/d9d/a29622.html", "d6/d9d/a29622" ],
+    [ "ProcChainGuardSimulator::AuraConfig", "db/d0e/a29626.html", "db/d0e/a29626" ],
+    [ "ProcChainGuardSimulator::ProcRecord", "d0/dc7/a29630.html", "d0/dc7/a29630" ]
 ];

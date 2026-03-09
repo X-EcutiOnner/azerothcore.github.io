@@ -1,5 +1,6 @@
 var a11242 =
 [
-    [ "SocketAdded", "d8/d4e/a11242.html#a89b23aa46aca3772ad0c0f36f41db537", null ],
-    [ "SocketRemoved", "d8/d4e/a11242.html#a4f4ec084812a4191a477f7fa9223fa6e", null ]
+    [ "UITime", "d8/d4e/a11242.html#a24311ce7df9e9a0f40a3c5473cef34b3", null ],
+    [ "Write", "d8/d4e/a11242.html#ab24cdd76abd5914c3a30ee42c7681855", null ],
+    [ "Time", "d8/d4e/a11242.html#ac4ad6c7c425167e90fd2497f7ebaec4c", null ]
 ];

@@ -1,6 +1,12 @@
 var a23542 =
 [
-    [ "instance_the_slave_pens_InstanceMapScript", "dd/d8e/a23546.html", "dd/d8e/a23546" ],
-    [ "instance_the_slave_pens", "d5/d48/a23542.html#a765f7b66ad3bed1828524ecb143742f2", null ],
-    [ "GetInstanceScript", "d5/d48/a23542.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
+    [ "boss_omor_the_unscarred", "d5/d48/a23542.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
+    [ "JustDied", "d5/d48/a23542.html#a9ddae483a0f8cefd8a19975b60002660", null ],
+    [ "JustEngagedWith", "d5/d48/a23542.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
+    [ "JustSummoned", "d5/d48/a23542.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
+    [ "KilledUnit", "d5/d48/a23542.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
+    [ "Reset", "d5/d48/a23542.html#a0ec22c50cd096677a20299ab45a3c344", null ],
+    [ "UpdateAI", "d5/d48/a23542.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
+    [ "_hasSpoken", "d5/d48/a23542.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
+    [ "_targetGUID", "d5/d48/a23542.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
 ];

@@ -1,6 +1,6 @@
 var a16714 =
 [
-    [ "boss_jaraxxusAI", "d3/d91/a16718.html", "d3/d91/a16718" ],
-    [ "boss_jaraxxus", "d4/ddf/a16714.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
-    [ "GetAI", "d4/ddf/a16714.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
+    [ "instance_ruby_sanctum_InstanceMapScript", "d3/d91/a16718.html", "d3/d91/a16718" ],
+    [ "instance_ruby_sanctum", "d4/ddf/a16714.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
+    [ "GetInstanceScript", "d4/ddf/a16714.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
 ];

@@ -1,8 +1,10 @@
 var a22814 =
 [
-    [ "boss_pandemonius", "de/dad/a22814.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
-    [ "JustDied", "de/dad/a22814.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
-    [ "JustEngagedWith", "de/dad/a22814.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
-    [ "KilledUnit", "de/dad/a22814.html#a26a012afe8c418c8da283c7b9f983e89", null ],
-    [ "PullRoom", "de/dad/a22814.html#a05011127290350f11cc1a333b23dbb04", null ]
+    [ "boss_gathios_the_shatterer", "de/dad/a22814.html#a34708f52c610e567c5acf62962e90d4e", null ],
+    [ "JustEngagedWith", "de/dad/a22814.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
+    [ "SelectCouncilMember", "de/dad/a22814.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
+    [ "UpdateAI", "de/dad/a22814.html#a1541f1efd3978a4c91b80e411aec6442", null ],
+    [ "_toggleAura", "de/dad/a22814.html#aa983e2d9018a9e53ee29840781f47c33", null ],
+    [ "_toggleBlessing", "de/dad/a22814.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
+    [ "_toggleSeal", "de/dad/a22814.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
 ];

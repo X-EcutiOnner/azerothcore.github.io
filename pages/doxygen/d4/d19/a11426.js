@@ -1,4 +1,7 @@
 var a11426 =
 [
-    [ "spellid", "d4/d19/a11426.html#a14f5dd3b53f06437074965e9b7753e89", null ]
+    [ "OpcodeHandler", "da/de7/a04983.html#gad7dc8101b537abe699b18ae8de444a81", null ],
+    [ "~OpcodeHandler", "da/de7/a04983.html#ga5400057a3d849035aedda259828a5af5", null ],
+    [ "Name", "da/de7/a04983.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
+    [ "Status", "da/de7/a04983.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
 ];

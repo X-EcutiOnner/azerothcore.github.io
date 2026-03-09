@@ -1,14 +1,10 @@
 var a08826 =
 [
-    [ "SafeUnitPointer", "d4/d6d/a08826.html#a05ee5199683b1e68189a7d122bf3f5f4", null ],
-    [ "SafeUnitPointer", "d4/d6d/a08826.html#a9ac4023d6ec32f96c757206dd4aa3fd6", null ],
-    [ "~SafeUnitPointer", "d4/d6d/a08826.html#ad9c2be82f67eb4e825a9ffd07307983a", null ],
-    [ "Initialize", "d4/d6d/a08826.html#a40f6e04585ca487c457d17ce10cc7b8c", null ],
-    [ "operator Unit *", "d4/d6d/a08826.html#afee1d290f436472dd719ff83f41721f5", null ],
-    [ "operator->", "d4/d6d/a08826.html#af63a04a7c6e6cb3002f5a99f90f70328", null ],
-    [ "operator=", "d4/d6d/a08826.html#a44f522d9c22861f853df0286a3764d3e", null ],
-    [ "SetPointedTo", "d4/d6d/a08826.html#a6603c67b736224a8e6559340afa8b275", null ],
-    [ "UnitDeleted", "d4/d6d/a08826.html#a872b0a86328fb03e5feccdf364ea5cce", null ],
-    [ "defaultValue", "d4/d6d/a08826.html#a38dce117cb135c9b84918a9bbc884f28", null ],
-    [ "ptr", "d4/d6d/a08826.html#aa8bf5e4728aeb1ca7a8de1a727a84884", null ]
+    [ "DuelInfo", "d4/d6d/a08826.html#a183f336e52fe7cdaa34dbb43991d0c39", null ],
+    [ "Initiator", "d4/d6d/a08826.html#ae1a6667f934c88ad8f0b160e6a8b1190", null ],
+    [ "IsMounted", "d4/d6d/a08826.html#ad80e3507a7bdfc8f7dbebd07697c464f", null ],
+    [ "Opponent", "d4/d6d/a08826.html#a2765770367c839ad28f804e2df3205cb", null ],
+    [ "OutOfBoundsTime", "d4/d6d/a08826.html#a8ff9ae1c990674b6ac0cd929f5114f23", null ],
+    [ "StartTime", "d4/d6d/a08826.html#a1b8b4c373b2e4243f8e33a391821528f", null ],
+    [ "State", "d4/d6d/a08826.html#ae8492a9857d819fcec56a10cfd5051e2", null ]
 ];

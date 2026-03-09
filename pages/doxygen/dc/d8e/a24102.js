@@ -1,7 +1,5 @@
 var a24102 =
 [
-    [ "HandleDamage", "dc/d8e/a24102.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "dc/d8e/a24102.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "dc/d8e/a24102.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "dc/d8e/a24102.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "at_commander_dawnforge", "dc/d8e/a24102.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
+    [ "OnTrigger", "dc/d8e/a24102.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
 ];

@@ -1,9 +1,10 @@
 var a12094 =
 [
-    [ "npc_burning_spiritAI", "df/dac/a12094.html#a52f63423d09794446b0c01da2feb325d", null ],
-    [ "EnterEvadeMode", "df/dac/a12094.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
-    [ "IsSummonedBy", "df/dac/a12094.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
-    [ "MovementInform", "df/dac/a12094.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
-    [ "_events", "df/dac/a12094.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
-    [ "_flamelasherGUID", "df/dac/a12094.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
+    [ "bf_commandscript", "df/dac/a12094.html#a806ca440ae1b51fffefee9d298dab3df", null ],
+    [ "GetCommands", "df/dac/a12094.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
+    [ "HandleBattlefieldEnable", "df/dac/a12094.html#a08dd3bdd279c760fe0f126200a01619e", null ],
+    [ "HandleBattlefieldEnd", "df/dac/a12094.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
+    [ "HandleBattlefieldStart", "df/dac/a12094.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
+    [ "HandleBattlefieldSwitch", "df/dac/a12094.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
+    [ "HandleBattlefieldTimer", "df/dac/a12094.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
 ];

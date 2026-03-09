@@ -1,12 +1,11 @@
 var a23102 =
 [
-    [ "boss_essence_of_desireAI", "df/d33/a23102.html#a02f6dec07038297c15c264fb501b01ab", null ],
-    [ "DamageTaken", "df/d33/a23102.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
-    [ "DoAction", "df/d33/a23102.html#ad55459d8e75f34783c1516be05cbb97f", null ],
-    [ "JustEngagedWith", "df/d33/a23102.html#a0976078399b2190cca25aa2ae5c3c201", null ],
-    [ "KilledUnit", "df/d33/a23102.html#a07509843bd658e3fc0b02cb817da37e9", null ],
-    [ "MovementInform", "df/d33/a23102.html#ad65068c5f56db269b4dc711745f96cfb", null ],
-    [ "Reset", "df/d33/a23102.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
-    [ "UpdateAI", "df/d33/a23102.html#af348a1b996a8e7704ba55185ef79fe7d", null ],
-    [ "_recentlySpoken", "df/d33/a23102.html#a6507c0da056a74d961d28e96120cd676", null ]
+    [ "boss_doomwalker", "df/d33/a23102.html#a47811086ff98b1a09af5300af94b6c0e", null ],
+    [ "JustDied", "df/d33/a23102.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
+    [ "JustEngagedWith", "df/d33/a23102.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
+    [ "KilledUnit", "df/d33/a23102.html#a2335eb642940397f73ee2a8051624e8e", null ],
+    [ "MoveInLineOfSight", "df/d33/a23102.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
+    [ "Reset", "df/d33/a23102.html#aba08b227d629c9f35e59f465e29c267b", null ],
+    [ "UpdateAI", "df/d33/a23102.html#a3105c50e512c6f709985cece619b131f", null ],
+    [ "_inEnrage", "df/d33/a23102.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
 ];

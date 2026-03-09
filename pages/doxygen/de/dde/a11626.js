@@ -1,7 +1,7 @@
 var a11626 =
 [
-    [ "PlayerGuid", "de/dde/a11626.html#a629a600c48376d04293c225390f747ff", null ],
-    [ "PrimaryKey", "de/dde/a11626.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
-    [ "StoredType", "de/dde/a11626.html#a9bea7cf549813010b55c23417d65edc6", null ],
-    [ "TableName", "de/dde/a11626.html#a0f308af88812c110c490c94368bda482", null ]
+    [ "WorldObjectSpellNearbyTargetCheck", "de/dde/a11626.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
+    [ "operator()", "de/dde/a11626.html#a731ee07d028a5ee63ecd14321c83664d", null ],
+    [ "_position", "de/dde/a11626.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
+    [ "_range", "de/dde/a11626.html#abfec0df490876b2b83dcdee4da75a77f", null ]
 ];

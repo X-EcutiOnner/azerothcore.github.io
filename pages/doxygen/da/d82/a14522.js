@@ -1,5 +1,7 @@
 var a14522 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "da/d82/a14522.html#a40207493c75d8a63284e08f1f75d56c4", null ],
-    [ "MoveInLineOfSight", "da/d82/a14522.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
+    [ "OnRemove", "da/d82/a14522.html#ab909660f32a77e86fde5da35e2f69302", null ],
+    [ "PrepareAuraScript", "da/d82/a14522.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
+    [ "Register", "da/d82/a14522.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
+    [ "Validate", "da/d82/a14522.html#abd1254c53c04f72f848d8641affc729d", null ]
 ];

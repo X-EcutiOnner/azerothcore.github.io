@@ -1,7 +1,10 @@
 var a18754 =
 [
-    [ "HandleForceCast", "dd/d65/a18754.html#accc757e0a23103242865f0ce3085f9d9", null ],
-    [ "Load", "dd/d65/a18754.html#a7206571378a0196a8648659628bdeece", null ],
-    [ "PrepareSpellScript", "dd/d65/a18754.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
-    [ "Register", "dd/d65/a18754.html#ace665321732f59f13b2ef831c71c2f18", null ]
+    [ "npc_shambling_horror_iccAI", "dd/d65/a18754.html#a0d15c62bead7a4da3c8a8abd0b2ee612", null ],
+    [ "CanAIAttack", "dd/d65/a18754.html#a6d77fdd16c4b089049ade7f7b081b4e9", null ],
+    [ "DamageTaken", "dd/d65/a18754.html#aed90f2c487c28190c7af630f4ea2fa13", null ],
+    [ "Reset", "dd/d65/a18754.html#ac5bab3d9f360e4e00dcab9abc3799865", null ],
+    [ "UpdateAI", "dd/d65/a18754.html#abae6058591022057e93d48da3db1b8bc", null ],
+    [ "_events", "dd/d65/a18754.html#af12b65fe4f77e8b2d3f5c87379dd69d2", null ],
+    [ "_frenzied", "dd/d65/a18754.html#a34347cbecea4c6f538345b7285e8f1c0", null ]
 ];

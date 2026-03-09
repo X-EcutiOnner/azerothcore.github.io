@@ -1,7 +1,11 @@
 var a12514 =
 [
-    [ "HandleDummy", "d7/d82/a12514.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
-    [ "PrepareSpellScript", "d7/d82/a12514.html#a5308de47023b89e4ff8680158a502ac0", null ],
-    [ "Register", "d7/d82/a12514.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
-    [ "Validate", "d7/d82/a12514.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
+    [ "boss_doomrelAI", "d7/d82/a12514.html#a231cc3989d1c575af941a5462ad94cbd", null ],
+    [ "EnterEvadeMode", "d7/d82/a12514.html#ae633f4cc1747f291a3911ca50ee39370", null ],
+    [ "JustEngagedWith", "d7/d82/a12514.html#a622f673548b0a6f1db2a59ef69f31ac7", null ],
+    [ "Reset", "d7/d82/a12514.html#aec30616ad3c84ee4b6dd92f6ac8b4fbc", null ],
+    [ "UpdateAI", "d7/d82/a12514.html#a3d851f7bd5a78858fd228cac78c05f27", null ],
+    [ "_events", "d7/d82/a12514.html#aaf800dd1d20dc8288cad5aa21cd602b0", null ],
+    [ "instance", "d7/d82/a12514.html#aa0fc44bb955e83c2ef7b7373751fc2c2", null ],
+    [ "Voidwalkers", "d7/d82/a12514.html#af29d871a370a534f508f225d49c3dc9f", null ]
 ];

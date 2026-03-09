@@ -1,8 +1,7 @@
 var a09094 =
 [
-    [ "DungeonEncounter", "d2/d3e/a09094.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
-    [ "creditEntry", "d2/d3e/a09094.html#a700a0792973678339f33ab85e7396918", null ],
-    [ "creditType", "d2/d3e/a09094.html#a66a077e193f099bb7aef363dc75672d6", null ],
-    [ "dbcEntry", "d2/d3e/a09094.html#a262bdd0ba443739456fc14bcad83ecda", null ],
-    [ "lastEncounterDungeon", "d2/d3e/a09094.html#a67e29b891887e339dbb40515d082e781", null ]
+    [ "EquipementIdPrev", "d2/d3e/a09094.html#a719c716f8914a200bfde4f5bb3275f26", null ],
+    [ "EquipmentId", "d2/d3e/a09094.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
+    [ "ModelId", "d2/d3e/a09094.html#ade2b2413020be410428b9fee9aa284d6", null ],
+    [ "ModelIdPrev", "d2/d3e/a09094.html#a9de7aa11788b22692738b72718193057", null ]
 ];

@@ -1,8 +1,20 @@
 var a14578 =
 [
-    [ "CalcPeriodic", "d1/d18/a14578.html#ae2ce9c161a25385c6de1f4b7607c9935", null ],
-    [ "HandleEffectApply", "d1/d18/a14578.html#a4321da69ee59416bd50e621b804e5423", null ],
-    [ "HandleEffectPeriodicUpdate", "d1/d18/a14578.html#a3f23e4a8fecf83ba580c904f15e1e98b", null ],
-    [ "PrepareAuraScript", "d1/d18/a14578.html#a956136be8cb484efc9af2429d8779a03", null ],
-    [ "Register", "d1/d18/a14578.html#a1d4b1c43305b3133e4ac7f8b6ce70727", null ]
+    [ "boss_mandokirAI", "d1/d18/a14578.html#a4ba4ac7fabd3e74dc10a00a3188252e9", null ],
+    [ "CalculateThreat", "d1/d18/a14578.html#ad86e2b4c9078bc1b11b304f05679ca94", null ],
+    [ "DamageDealt", "d1/d18/a14578.html#a0dca07b45b3293a0f19401b299fbfb9c", null ],
+    [ "DoAction", "d1/d18/a14578.html#a7358c7abb58a6c9ec200d06246d00d41", null ],
+    [ "DoMeleeAttackIfReady", "d1/d18/a14578.html#acf13e5898f110ad98a1aa745d3b998d7", null ],
+    [ "JustDied", "d1/d18/a14578.html#a6bbc3ae1131f9becba0a35ea2e3a57dd", null ],
+    [ "JustEngagedWith", "d1/d18/a14578.html#aa7ea6260e403a92ba415b82b4dd71026", null ],
+    [ "KilledUnit", "d1/d18/a14578.html#a6230dc14db38d43fb060f028cfde9d32", null ],
+    [ "MovementInform", "d1/d18/a14578.html#a909f7fffc7e38cc6b0bba4edd45cb348", null ],
+    [ "OnTeleportUnreacheablePlayer", "d1/d18/a14578.html#a875c046b8a2f4a01bded282143c6d1d0", null ],
+    [ "Reset", "d1/d18/a14578.html#a2b2267e3d7be6d16ffab031d2cb4a1a6", null ],
+    [ "SetGUID", "d1/d18/a14578.html#ad496b4bd7e97988b44357ac91ac3701c", null ],
+    [ "UpdateAI", "d1/d18/a14578.html#a1037b770bb46400aef0ec034f86468fc", null ],
+    [ "_chargeTarget", "d1/d18/a14578.html#a5040c31467e9d3c6edc30b9133ec6873", null ],
+    [ "_useExecute", "d1/d18/a14578.html#a305f064869874d8620d794a7d26f6358", null ],
+    [ "killCount", "d1/d18/a14578.html#a280e27385988e0f5cc65c60511bd4100", null ],
+    [ "reviveGUID", "d1/d18/a14578.html#a7f955c8399167d3f3aa974596f398c13", null ]
 ];

@@ -1,6 +1,6 @@
 var a27338 =
 [
-    [ "AreaTrigger_at_brewfest", "d3/dc5/a27338.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
-    [ "OnTrigger", "d3/dc5/a27338.html#a17e4a8d671136466c7673789e4f69a84", null ],
-    [ "_triggerTimes", "d3/dc5/a27338.html#ab763765427796ad17338bcc8d63cf891", null ]
+    [ "HandleRemove", "d3/dc5/a27338.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
+    [ "PrepareAuraScript", "d3/dc5/a27338.html#a132193c0c13a2f89b9b29391d524023a", null ],
+    [ "Register", "d3/dc5/a27338.html#a246294a7b9a128a9ec464562846332fc", null ]
 ];

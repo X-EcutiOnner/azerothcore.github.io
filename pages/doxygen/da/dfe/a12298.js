@@ -1,20 +1,15 @@
 var a12298 =
 [
-    [ "boss_rend_blackhandAI", "da/dfe/a12298.html#a2814a327bc7a9f757f7a05912a662f44", null ],
-    [ "EnterEvadeMode", "da/dfe/a12298.html#a144c325de23530f4d77d6ab0a82bd341", null ],
-    [ "IsSummonedBy", "da/dfe/a12298.html#aaa526ce953dd90de0d2459e74b96d3b7", null ],
-    [ "JustDied", "da/dfe/a12298.html#a4e41038af6075585346ce7acc40f5d16", null ],
-    [ "JustEngagedWith", "da/dfe/a12298.html#ad2800c1ca9785cf9a4445bb298635464", null ],
-    [ "JustSummoned", "da/dfe/a12298.html#ab003c8952ff1d7c71295621967a29bbd", null ],
-    [ "MovementInform", "da/dfe/a12298.html#a0219dfff536ebb0663dbd575c2955630", null ],
-    [ "Reset", "da/dfe/a12298.html#adf7859684e871f844db8d39ae29d4229", null ],
-    [ "SetData", "da/dfe/a12298.html#ae8da177a417f420f63b318477ad2fa9c", null ],
-    [ "SummonedCreatureDespawn", "da/dfe/a12298.html#a09f814167a86eed5e13dec8a34a5d2e8", null ],
-    [ "SummonedCreatureDies", "da/dfe/a12298.html#af0467f9f8cf7f552cd90994b6a208394", null ],
-    [ "SummonWave", "da/dfe/a12298.html#a51a96beb5c271191c52a0b12d3824043", null ],
-    [ "UpdateAI", "da/dfe/a12298.html#a89970f47673bc2ce1290900251970fe4", null ],
-    [ "_currentWave", "da/dfe/a12298.html#aff4797532d1ab098dc8f52454c2ecd05", null ],
-    [ "gythEvent", "da/dfe/a12298.html#ac5c2ee831c560ef96338dd08a61ec4c1", null ],
-    [ "victorGUID", "da/dfe/a12298.html#a414de083616e4b77a84af8617a3b5f8e", null ],
-    [ "waveDoorGUID", "da/dfe/a12298.html#a0f426a5f2cde0f522ba2a236d34f9d5a", null ]
+    [ "worldstate_commandscript", "da/dfe/a12298.html#aa409f7a2baed14a591d9567d1fb1ffcf", null ],
+    [ "GetCommands", "da/dfe/a12298.html#a9c2b9e6f00727da760ca2be2c0c1aff7", null ],
+    [ "HandleScourgeInvasionBattlesWonCommand", "da/dfe/a12298.html#a1c2167ce554327d674161b7c4f63585c", null ],
+    [ "HandleScourgeInvasionCommand", "da/dfe/a12298.html#a11aeedef82a93f8799fd788a8c492335", null ],
+    [ "HandleScourgeInvasionStartZone", "da/dfe/a12298.html#af242372bd32ed79d839af82f82423837", null ],
+    [ "HandleScourgeInvasionStateCommand", "da/dfe/a12298.html#a5ba0b973087f921dbb764037c8b36134", null ],
+    [ "HandleSunsReachReclamationCounterCommand", "da/dfe/a12298.html#a78ccd5fd1fe4562d93f69199112044d2", null ],
+    [ "HandleSunsReachReclamationPhaseCommand", "da/dfe/a12298.html#a4b7049c1c9932b098441a3af4d7cd03c", null ],
+    [ "HandleSunsReachReclamationStatusCommand", "da/dfe/a12298.html#a1534e35532bc29b8d03594af30e4cdfa", null ],
+    [ "HandleSunsReachReclamationSubPhaseCommand", "da/dfe/a12298.html#a2307687ae1d3cb3f6e5237af4d8f8595", null ],
+    [ "HandleSunwellGateCommand", "da/dfe/a12298.html#a45b73e47c8e9b21063d02922a83e103b", null ],
+    [ "HandleSunwellGateCounterCommand", "da/dfe/a12298.html#a805ab7fa1900feeb3e3034263c3a0a4d", null ]
 ];

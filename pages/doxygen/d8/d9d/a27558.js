@@ -1,5 +1,8 @@
 var a27558 =
 [
-    [ "go_scourge_cage", "d8/d9d/a27558.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
-    [ "OnGossipHello", "d8/d9d/a27558.html#ab4e97cd290342d623d212cc7cec227d5", null ]
+    [ "CheckProc", "d8/d9d/a27558.html#a825ef4acafa2371f27ca8ca6465610f9", null ],
+    [ "HandleProc", "d8/d9d/a27558.html#a311916a7939ea2c4c2e23d6e4778aba4", null ],
+    [ "PrepareAuraScript", "d8/d9d/a27558.html#a89c7a57718cdb23f7235ff2379a7a192", null ],
+    [ "Register", "d8/d9d/a27558.html#abff50b0398b596898db4638fbadffa9c", null ],
+    [ "Validate", "d8/d9d/a27558.html#abedd0e9efa9c595e1142f0358d135d1b", null ]
 ];

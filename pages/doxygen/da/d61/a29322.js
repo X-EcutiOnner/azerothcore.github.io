@@ -1,7 +1,8 @@
 var a29322 =
 [
-    [ "MPQArchive", "d1/dfc/a28334.html", "d1/dfc/a28334" ],
-    [ "MPQFile", "da/d0b/a28338.html", "da/d0b/a28338" ],
-    [ "ArchiveSet", "da/d61/a29322.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "da/d61/a29322.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "canLink", "da/d61/a29322.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
+    [ "categoryId", "da/d61/a29322.html#abf285e69e8e2a90626a157cb0c50d158", null ],
+    [ "id", "da/d61/a29322.html#a7740b26f1bde19a05b002c00eded25e3", null ],
+    [ "name", "da/d61/a29322.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
+    [ "spellIcon", "da/d61/a29322.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
 ];

@@ -1,6 +1,5 @@
 var a14970 =
 [
-    [ "npc_crate_helperAI", "df/db1/a14970.html#ad58a2f3746da7862658fb3b9e1580836", null ],
-    [ "SpellHit", "df/db1/a14970.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
-    [ "_marked", "df/db1/a14970.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
+    [ "MidsummerPlayerScript", "df/db1/a14970.html#ace19c3dfaec5aa5bdfab46552a759306", null ],
+    [ "OnPlayerUpdateZone", "df/db1/a14970.html#af512e1744264ac69fe2b7f7ba3836760", null ]
 ];

@@ -1,9 +1,12 @@
 var a05634 =
 [
-    [ "TimeTrackerSmall", "d7/d1a/a05634.html#a38a962c928eac8546d1fd37a094077cc", null ],
-    [ "GetExpiry", "d7/d1a/a05634.html#a2ebcfabed1bf252b6afb6c3182142c7b", null ],
-    [ "Passed", "d7/d1a/a05634.html#af4455d0ebb784497e9fd1a08cc915062", null ],
-    [ "Reset", "d7/d1a/a05634.html#ab8a3c45ffe0e83132e708b5e87625c02", null ],
-    [ "Update", "d7/d1a/a05634.html#a6c10a37051caf7c16f1aa057bf2bf7da", null ],
-    [ "i_expiryTime", "d7/d1a/a05634.html#a332f650bcfc81fb4b0de1b58ff1e0c9b", null ]
+    [ "Node", "de/df7/a05638.html", "de/df7/a05638" ],
+    [ "MPSCQueueNonIntrusive", "d7/d1a/a05634.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
+    [ "~MPSCQueueNonIntrusive", "d7/d1a/a05634.html#a599e2093215f70dc4f2f7db08965d816", null ],
+    [ "MPSCQueueNonIntrusive", "d7/d1a/a05634.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
+    [ "Dequeue", "d7/d1a/a05634.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
+    [ "Enqueue", "d7/d1a/a05634.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
+    [ "operator=", "d7/d1a/a05634.html#a75063e89049903fb5305d67ea1a02034", null ],
+    [ "_head", "d7/d1a/a05634.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
+    [ "_tail", "d7/d1a/a05634.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
 ];

@@ -1,9 +1,9 @@
 var a26742 =
 [
-    [ "HandleKnockBack", "d5/d3f/a26742.html#acaa8f445874270f34ea5b42a506671db", null ],
-    [ "HandleScript", "d5/d3f/a26742.html#a29e47298601cb55c5442a3fa59bb3646", null ],
-    [ "Load", "d5/d3f/a26742.html#a45700aba665b601b2c860af5a869d1af", null ],
-    [ "PrepareSpellScript", "d5/d3f/a26742.html#aad1c175a2611152278d847ac59f93090", null ],
-    [ "Register", "d5/d3f/a26742.html#ad790d435f422fabd128e601fb2dff103", null ],
-    [ "Validate", "d5/d3f/a26742.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
+    [ "CheckCast", "d5/d3f/a26742.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
+    [ "HandleTriggerSpellHit", "d5/d3f/a26742.html#aca027bb2995456bfcedd33c06966eb88", null ],
+    [ "HandleTriggerSpellLaunch", "d5/d3f/a26742.html#aa67bf9f81086a3837037d67306979072", null ],
+    [ "PrepareSpellScript", "d5/d3f/a26742.html#a9247b5f3a376bebdcf857565b5049944", null ],
+    [ "Register", "d5/d3f/a26742.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
+    [ "Validate", "d5/d3f/a26742.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
 ];

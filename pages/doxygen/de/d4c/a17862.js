@@ -1,6 +1,6 @@
 var a17862 =
 [
-    [ "HandlePeriodicTick", "de/d4c/a17862.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
-    [ "PrepareAuraScript", "de/d4c/a17862.html#a9962029ce4a5223d7aa05068e8d83326", null ],
-    [ "Register", "de/d4c/a17862.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
+    [ "PrepareSpellScript", "de/d4c/a17862.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
+    [ "Register", "de/d4c/a17862.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
+    [ "SetDest", "de/d4c/a17862.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
 ];

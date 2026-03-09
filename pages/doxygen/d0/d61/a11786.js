@@ -1,7 +1,6 @@
 var a11786 =
 [
-    [ "achievement_commandscript", "d0/d61/a11786.html#ac1c40d7b3b628cc206c44eae18592292", null ],
-    [ "GetCommands", "d0/d61/a11786.html#adeac4e6f74f006daa76b0ebb8ea1469c", null ],
-    [ "HandleAchievementAddCommand", "d0/d61/a11786.html#ac4f6addfb0c52d584bf8081436aa3d7a", null ],
-    [ "HandleAchievementCheckAllCommand", "d0/d61/a11786.html#a0e3b83961ff20899a8492c8d8b7c13be", null ]
+    [ "CheckAreaTargetHandler", "d0/d61/a11786.html#a641b633e37079949c8b1b71a32f4222e", null ],
+    [ "Call", "d0/d61/a11786.html#ab434cb7ba8927c16e2b63c2ad8ae9a25", null ],
+    [ "pHandlerScript", "d0/d61/a11786.html#a7c1e677d10a89ea7f1ea06f8de10e0f9", null ]
 ];

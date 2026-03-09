@@ -1,8 +1,12 @@
 var a07658 =
 [
-    [ "SearchMap", "d7/df8/a07658.html#a21bc680abec11928000923003bbad93f", null ],
-    [ "MakeSearchMap", "d7/df8/a07658.html#a8dc3337ff2ed1427fa9efdf35e458d7d", null ],
-    [ "Match", "d7/df8/a07658.html#a9f447ee626e80d616c304a4d07f25987", null ],
-    [ "TryConsume", "d7/df8/a07658.html#ac5bc3cde0205d8a1b200989cf6eb09cb", null ],
-    [ "_map", "d7/df8/a07658.html#a97e69e0044967ebb5369bfa0f46bd7bf", null ]
+    [ "CapturePointInfo", "d7/df8/a07658.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
+    [ "IsUncontrolled", "d7/df8/a07658.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
+    [ "IsUnderControl", "d7/df8/a07658.html#a3f33897525f5104e2e7733dd6247c090", null ],
+    [ "IsUnderControl", "d7/df8/a07658.html#af6b021020b120b87c300981b8bb60992", null ],
+    [ "_areaTrigger", "d7/df8/a07658.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
+    [ "_barStatus", "d7/df8/a07658.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
+    [ "_ownerTeamId", "d7/df8/a07658.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
+    [ "_playersCount", "d7/df8/a07658.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
+    [ "player", "d7/df8/a07658.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
 ];

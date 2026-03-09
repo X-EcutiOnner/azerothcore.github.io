@@ -1,4 +1,5 @@
 var a00845 =
 [
-    [ "ScriptRegistry< WorldObjectScript >", "d7/dcf/a00845.html#a2e5b964820eedff4e7b34c6c79cfca6d", null ]
+    [ "ForeachMaps", "d7/dcf/a00845.html#a899f6a046cdda33d737030dd4923ca7d", null ],
+    [ "ScriptRegistry< AllMapScript >", "d7/dcf/a00845.html#ada370fef23e6d206da686c8bb6149104", null ]
 ];

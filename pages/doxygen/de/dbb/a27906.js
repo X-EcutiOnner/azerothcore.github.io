@@ -1,7 +1,7 @@
 var a27906 =
 [
-    [ "npc_crashin_thrashin_robot", "de/dbb/a27906.html#ad21336d212498b1c9ef5d46979d147ab", null ],
-    [ "IsSummonedBy", "de/dbb/a27906.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
-    [ "UpdateAI", "de/dbb/a27906.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
-    [ "_scheduler", "de/dbb/a27906.html#a55778501d154d0a9e77f76054e926f85", null ]
+    [ "HandleScript", "de/dbb/a27906.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
+    [ "PrepareSpellScript", "de/dbb/a27906.html#ab363d596d2d1e030f0cc07126b40e921", null ],
+    [ "Register", "de/dbb/a27906.html#ab9041b811e80e220828d5db59b724682", null ],
+    [ "Validate", "de/dbb/a27906.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
 ];

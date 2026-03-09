@@ -1,7 +1,6 @@
 var a22186 =
 [
-    [ "npc_rodin_lightning_enabler", "d0/dfc/a22186.html#ae014b208af7664acd2147663d9338583", null ],
-    [ "Reset", "d0/dfc/a22186.html#ac3ff539380f8fdd5827c6868815b39cc", null ],
-    [ "UpdateAI", "d0/dfc/a22186.html#a5f900d97eec245bf3c27cde5c78b71e3", null ],
-    [ "_scheduler", "d0/dfc/a22186.html#a06434f538bd89d429a329bbd24e5fcdf", null ]
+    [ "npc_bushwhackerAI", "d0/dfc/a22186.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "d0/dfc/a22186.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "d0/dfc/a22186.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

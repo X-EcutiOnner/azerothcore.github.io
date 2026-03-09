@@ -1,6 +1,6 @@
 var a19426 =
 [
-    [ "npc_vortex_rideAI", "de/db7/a19430.html", "de/db7/a19430" ],
-    [ "npc_vortex_ride", "df/dd9/a19426.html#ad794cda407c9dfc35dd9bc2724f5014a", null ],
-    [ "GetAI", "df/dd9/a19426.html#a23ef53feb432127db2620810a55d02ff", null ]
+    [ "npc_four_car_garageAI", "df/dd9/a19426.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
+    [ "JustDied", "df/dd9/a19426.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
+    [ "PassengerBoarded", "df/dd9/a19426.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
 ];

@@ -1,6 +1,6 @@
 var a24262 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "da/d9a/a24266.html", "da/d9a/a24266" ],
-    [ "npc_creditmarker_visit_with_ancestors", "d5/df0/a24262.html#a60f7abac7198d8504d944828dceb1ffa", null ],
-    [ "GetAI", "d5/df0/a24262.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
+    [ "npc_shattrathflaskvendors", "d5/df0/a24262.html#ab74b234406c2022bf519242a7842458a", null ],
+    [ "OnGossipHello", "d5/df0/a24262.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
+    [ "OnGossipSelect", "d5/df0/a24262.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
 ];

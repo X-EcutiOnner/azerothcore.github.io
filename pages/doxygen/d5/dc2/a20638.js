@@ -1,9 +1,11 @@
 var a20638 =
 [
-    [ "npc_ulduar_bot_summon_triggerAI", "d5/dc2/a20638.html#a60e0706b9285cdf4b25b6f399cad18e9", null ],
-    [ "DoAction", "d5/dc2/a20638.html#ac5d0e28ee330741da3b287d965537f39", null ],
-    [ "Reset", "d5/dc2/a20638.html#a91207c04ecee6fc0e906133e054bf51b", null ],
-    [ "UpdateAI", "d5/dc2/a20638.html#aebec433e806d4f63f5593db0301612b4", null ],
-    [ "option", "d5/dc2/a20638.html#a98bb19fea19a05127b4b32df039acf05", null ],
-    [ "timer", "d5/dc2/a20638.html#a118d048557b0ed314180299c3cd2bcbc", null ]
+    [ "npc_ulduar_proximity_mine", "d5/dc2/a20638.html#ab9ce5859157d12f4577eda515a183ef6", null ],
+    [ "AttackStart", "d5/dc2/a20638.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
+    [ "CanAIAttack", "d5/dc2/a20638.html#a18311072271a18b279c5bf21f7da2482", null ],
+    [ "MoveInLineOfSight", "d5/dc2/a20638.html#a6a406f8098dac7038173f51e9f85a79b", null ],
+    [ "UpdateAI", "d5/dc2/a20638.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
+    [ "exploded", "d5/dc2/a20638.html#a3e291553aa853ebb5ff002599c68376c", null ],
+    [ "timer", "d5/dc2/a20638.html#a8c69d475914fb11c149fea527d31f758", null ],
+    [ "timer2", "d5/dc2/a20638.html#a8feed3514cc188da930ef45bbaa2ff50", null ]
 ];

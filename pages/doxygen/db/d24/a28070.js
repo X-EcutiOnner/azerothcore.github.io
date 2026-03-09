@@ -1,11 +1,6 @@
 var a28070 =
 [
-    [ "icon", "db/d24/a28070.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
-    [ "id", "db/d24/a28070.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
-    [ "mapId", "db/d24/a28070.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
-    [ "worldState", "db/d24/a28070.html#a9d745d26316726c861cc5a242f6a4f57", null ],
-    [ "x", "db/d24/a28070.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
-    [ "y", "db/d24/a28070.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
-    [ "z", "db/d24/a28070.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
-    [ "zoneId", "db/d24/a28070.html#a0cc33089981237694ca550cba6793a3e", null ]
+    [ "AreaTrigger_at_area_52_entrance", "db/d24/a28070.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "db/d24/a28070.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "db/d24/a28070.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

@@ -1,12 +1,16 @@
 var a09946 =
 [
-    [ "BanAccount", "db/d43/a09946.html#af85ceffee2ae6a143df5e36f6a004f07", null ],
-    [ "BanAccountByPlayerName", "db/d43/a09946.html#a35f92762d69fe32e49b9b239c74e4734", null ],
-    [ "BanCharacter", "db/d43/a09946.html#ad5048b36828bfe20a95dfb85515de831", null ],
-    [ "BanIP", "db/d43/a09946.html#a404890eab19b97773e6c9aef8cc65707", null ],
-    [ "instance", "db/d43/a09946.html#aa495dfaab6af98c43f645acf516a5630", null ],
-    [ "RemoveBanAccount", "db/d43/a09946.html#ae831e6227442edc70469229d5d73fa3f", null ],
-    [ "RemoveBanAccountByPlayerName", "db/d43/a09946.html#a7b5e1ae6d34ae4f6a15e03c434953aea", null ],
-    [ "RemoveBanCharacter", "db/d43/a09946.html#afbde6c0b26802f684ecf78c2f493cc67", null ],
-    [ "RemoveBanIP", "db/d43/a09946.html#afcf4857007432ebff042c85c5daf2325", null ]
+    [ "StoredLootItem", "db/d43/a09946.html#a32da4030f3e58b7fae5001511c6caa40", null ],
+    [ "conditionLootId", "db/d43/a09946.html#a9be27c3407923df6b15bef993dd58830", null ],
+    [ "count", "db/d43/a09946.html#a25c63cc5a94ecc3bf803e83be5aabc39", null ],
+    [ "follow_loot_rules", "db/d43/a09946.html#ac945688a64f92c40ada1abd5847d9b0d", null ],
+    [ "freeforall", "db/d43/a09946.html#a41a3c4caf90fc8c42d2e0e5192201d19", null ],
+    [ "is_blocked", "db/d43/a09946.html#a895cc61dd542959c3726dbc54abf7434", null ],
+    [ "is_counted", "db/d43/a09946.html#a801a125a5035167f3f511560a29808c4", null ],
+    [ "is_underthreshold", "db/d43/a09946.html#ae11badaeeccbb3af7f150d4ca55347a3", null ],
+    [ "itemid", "db/d43/a09946.html#afac1addff36f4cd08626ac7ae1ce0cff", null ],
+    [ "itemIndex", "db/d43/a09946.html#a076564a43a586c6b6d17cd64fca8e9fb", null ],
+    [ "needs_quest", "db/d43/a09946.html#ae7530d417ac10c5766fc25664b427d50", null ],
+    [ "randomPropertyId", "db/d43/a09946.html#a12e1cb9403cc4f6ceb770c8cf50a1d17", null ],
+    [ "randomSuffix", "db/d43/a09946.html#a2588c810dcd51a5c0c6558b99493602b", null ]
 ];

@@ -1,6 +1,6 @@
 var a18022 =
 [
-    [ "UnboundPlagueTargetSelector", "da/d32/a18022.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "da/d32/a18022.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "da/d32/a18022.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "npc_stinky_iccAI", "da/dd5/a18026.html", "da/dd5/a18026" ],
+    [ "npc_stinky_icc", "da/d32/a18022.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
+    [ "GetAI", "da/d32/a18022.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
 ];

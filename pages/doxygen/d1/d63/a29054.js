@@ -1,12 +1,7 @@
 var a29054 =
 [
-    [ "Bounds", "d1/d63/a29054.html#a1e982b341ac3859fad38b2efc81ab8ea", null ],
-    [ "DoodadSet", "d1/d63/a29054.html#abbf6e50e76b120be17215cfcf227a524", null ],
-    [ "Flags", "d1/d63/a29054.html#a06f5e96119239356eea45b9acdadf6e1", null ],
-    [ "Id", "d1/d63/a29054.html#a952442c180e8d3710af31272b54eb6ec", null ],
-    [ "NameSet", "d1/d63/a29054.html#a55df9aed38d8cf1503b21f5fd9d5e5d0", null ],
-    [ "Position", "d1/d63/a29054.html#a7e6463db89eaf53bc20832afb1842a5b", null ],
-    [ "Rotation", "d1/d63/a29054.html#a2c04715e800b9f375c287cced96643d1", null ],
-    [ "Scale", "d1/d63/a29054.html#a142716fecae07abc013c7f3bd053c0ea", null ],
-    [ "UniqueId", "d1/d63/a29054.html#a749e920740b9e91547fe1f87933d1c7d", null ]
+    [ "Class", "d1/d63/a29054.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
+    [ "Gender", "d1/d63/a29054.html#aba6251a7020c6e66b9fc7a21859df271", null ],
+    [ "ItemId", "d1/d63/a29054.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
+    [ "Race", "d1/d63/a29054.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
 ];

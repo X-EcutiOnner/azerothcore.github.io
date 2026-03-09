@@ -1,7 +1,6 @@
 var a20494 =
 [
-    [ "HandleScript", "de/d35/a20494.html#a760bb60198017605111d02af98c827b1", null ],
-    [ "PrepareSpellScript", "de/d35/a20494.html#a6128956f1037b62fff2e6f10ec22d956", null ],
-    [ "Register", "de/d35/a20494.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
-    [ "Validate", "de/d35/a20494.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
+    [ "FilterTargets", "de/d35/a20494.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
+    [ "PrepareSpellScript", "de/d35/a20494.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
+    [ "Register", "de/d35/a20494.html#af6704b0789566b2b385ac573eaa50f06", null ]
 ];

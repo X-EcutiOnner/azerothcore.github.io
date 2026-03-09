@@ -1,6 +1,6 @@
 var a22226 =
 [
-    [ "npc_llod_genericAI", "de/da4/a22230.html", "de/da4/a22230" ],
-    [ "npc_llod_generic", "dd/ddd/a22226.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
-    [ "GetAI", "dd/ddd/a22226.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
+    [ "HandleScriptEffect", "dd/ddd/a22226.html#a1dac2806b74471332aec0595118005a3", null ],
+    [ "PrepareSpellScript", "dd/ddd/a22226.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
+    [ "Register", "dd/ddd/a22226.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
 ];

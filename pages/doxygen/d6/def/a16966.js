@@ -1,7 +1,6 @@
 var a16966 =
 [
-    [ "HandlePeriodicTick", "d6/def/a16966.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
-    [ "PrepareAuraScript", "d6/def/a16966.html#a93e894c642101160dd51f30952c82d24", null ],
-    [ "Register", "d6/def/a16966.html#a49172ede0f888e391b9b4a835475220a", null ],
-    [ "Validate", "d6/def/a16966.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
+    [ "npc_toc_boomkinAI", "d6/d1c/a16970.html", "d6/d1c/a16970" ],
+    [ "npc_toc_boomkin", "d6/def/a16966.html#a17274ff748cd364592a551ad2c547eac", null ],
+    [ "GetAI", "d6/def/a16966.html#a626fe854faade9bd96cd60b9e6e970bd", null ]
 ];

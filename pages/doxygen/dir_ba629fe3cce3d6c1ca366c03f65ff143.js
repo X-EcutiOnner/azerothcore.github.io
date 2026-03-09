@@ -1,9 +1,9 @@
 var dir_ba629fe3cce3d6c1ca366c03f65ff143 =
 [
-    [ "boss_krystallus.cpp", "d8/df9/a04517.html", "d8/df9/a04517" ],
-    [ "boss_maiden_of_grief.cpp", "d1/d24/a04514.html", "d1/d24/a04514" ],
-    [ "boss_sjonnir.cpp", "d7/ddc/a04523.html", "d7/ddc/a04523" ],
-    [ "brann_bronzebeard.cpp", "d3/d83/a04520.html", "d3/d83/a04520" ],
-    [ "halls_of_stone.h", "db/da2/a04526.html", "db/da2/a04526" ],
-    [ "instance_halls_of_stone.cpp", "d2/d5d/a04511.html", "d2/d5d/a04511" ]
+    [ "boss_krystallus.cpp", "d1/d56/a04544.html", "d1/d56/a04544" ],
+    [ "boss_maiden_of_grief.cpp", "d9/d36/a04541.html", "d9/d36/a04541" ],
+    [ "boss_sjonnir.cpp", "d2/df8/a04550.html", "d2/df8/a04550" ],
+    [ "brann_bronzebeard.cpp", "d0/da8/a04547.html", "d0/da8/a04547" ],
+    [ "halls_of_stone.h", "d3/d56/a04553.html", "d3/d56/a04553" ],
+    [ "instance_halls_of_stone.cpp", "d7/d23/a04538.html", "d7/d23/a04538" ]
 ];

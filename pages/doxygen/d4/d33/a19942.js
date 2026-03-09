@@ -1,6 +1,6 @@
 var a19942 =
 [
-    [ "boss_runemaster_molgeimAI", "da/db1/a19946.html", "da/db1/a19946" ],
-    [ "boss_runemaster_molgeim", "d4/d33/a19942.html#a440e4e43b941ac2b956c7c586a95f991", null ],
-    [ "GetAI", "d4/d33/a19942.html#a080e70913be1e6ad9521bab5b90a92a6", null ]
+    [ "HandlePeriodic", "d4/d33/a19942.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
+    [ "PrepareAuraScript", "d4/d33/a19942.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
+    [ "Register", "d4/d33/a19942.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
 ];

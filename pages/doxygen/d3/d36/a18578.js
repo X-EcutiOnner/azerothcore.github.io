@@ -1,7 +1,7 @@
 var a18578 =
 [
-    [ "HandleProc", "d3/d36/a18578.html#af06730a865009127c7d3e5423afd4d44", null ],
-    [ "PrepareAuraScript", "d3/d36/a18578.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
-    [ "Register", "d3/d36/a18578.html#a6c97b787ce00491a259c575d26189f8c", null ],
-    [ "Validate", "d3/d36/a18578.html#aed9c98e20d916359629e119d6dd2a94f", null ]
+    [ "HandleScript", "d3/d36/a18578.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
+    [ "PrepareSpellScript", "d3/d36/a18578.html#a7e6b56f426be7925255da3ebc239f909", null ],
+    [ "Register", "d3/d36/a18578.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
+    [ "Validate", "d3/d36/a18578.html#a86b4296eab73fc63b38558871f16a889", null ]
 ];

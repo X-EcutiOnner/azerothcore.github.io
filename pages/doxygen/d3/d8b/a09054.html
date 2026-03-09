@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: RepRewardRate Struct Reference</title>
+<title>AzerothCore: VehicleDespawnEvent Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,130 +105,192 @@ $(document).ready(function(){initNavTree('d3/d8b/a09054.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
 <a href="../../d2/d92/a09051.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">RepRewardRate Struct Reference</div></div>
+  <div class="headertitle"><div class="title">VehicleDespawnEvent Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Vehicle.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for VehicleDespawnEvent:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../d3/d8b/a09054.png" usemap="#VehicleDespawnEvent_map" alt=""/>
+  <map id="VehicleDespawnEvent_map" name="VehicleDespawnEvent_map">
+<area href="../../d6/dcf/a05722.html" alt="BasicEvent" shape="rect" coords="0,0,139,24"/>
+  </map>
+</div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a914118aa28b3736ff4e6c5b61d738834"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d8b/a09054.html#a914118aa28b3736ff4e6c5b61d738834">questRate</a></td></tr>
-<tr class="separator:a914118aa28b3736ff4e6c5b61d738834"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1798044bdf25ce774191b00e261add1e"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d8b/a09054.html#a1798044bdf25ce774191b00e261add1e">questDailyRate</a></td></tr>
-<tr class="separator:a1798044bdf25ce774191b00e261add1e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0fb31ebc33d0ce11f392be845907e043"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d8b/a09054.html#a0fb31ebc33d0ce11f392be845907e043">questWeeklyRate</a></td></tr>
-<tr class="separator:a0fb31ebc33d0ce11f392be845907e043"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0db34ed7420bc376cfe64a0d12434fea"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d8b/a09054.html#a0db34ed7420bc376cfe64a0d12434fea">questMonthlyRate</a></td></tr>
-<tr class="separator:a0db34ed7420bc376cfe64a0d12434fea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2b050d4cf6555e824d59a3ffc0558b21"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d8b/a09054.html#a2b050d4cf6555e824d59a3ffc0558b21">questRepeatableRate</a></td></tr>
-<tr class="separator:a2b050d4cf6555e824d59a3ffc0558b21"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa9c27c19179b8a7bdfdc11d906cd1c06"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d8b/a09054.html#aa9c27c19179b8a7bdfdc11d906cd1c06">creatureRate</a></td></tr>
-<tr class="separator:aa9c27c19179b8a7bdfdc11d906cd1c06"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a508485f1e6833c58a11706667a2c24fd"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d8b/a09054.html#a508485f1e6833c58a11706667a2c24fd">spellRate</a></td></tr>
-<tr class="separator:a508485f1e6833c58a11706667a2c24fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a53c96e023186cfb36084814b69e62d15"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d8b/a09054.html#a53c96e023186cfb36084814b69e62d15">VehicleDespawnEvent</a> (<a class="el" href="../../d4/d8e/a09018.html">Unit</a> &amp;self, <a class="el" href="../../d5/df9/a00044.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> duration)</td></tr>
+<tr class="separator:a53c96e023186cfb36084814b69e62d15"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a39284ca2343e54cec915ac3ecf51f4a8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d8b/a09054.html#a39284ca2343e54cec915ac3ecf51f4a8">Execute</a> (<a class="el" href="../../d6/d1a/a00485.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> e_time, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> p_time) override</td></tr>
+<tr class="separator:a39284ca2343e54cec915ac3ecf51f4a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a05722"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a05722')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d6/dcf/a05722.html">BasicEvent</a></td></tr>
+<tr class="memitem:a9c3cd17edab7fc410f88bb680d756975 inherit pub_methods_a05722"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dcf/a05722.html#a9c3cd17edab7fc410f88bb680d756975">BasicEvent</a> ()=default</td></tr>
+<tr class="separator:a9c3cd17edab7fc410f88bb680d756975 inherit pub_methods_a05722"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0c3860e1c8854c2db20a225944792afd inherit pub_methods_a05722"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dcf/a05722.html#a0c3860e1c8854c2db20a225944792afd">~BasicEvent</a> ()=default</td></tr>
+<tr class="separator:a0c3860e1c8854c2db20a225944792afd inherit pub_methods_a05722"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a89297a10b64d01895332655122ed8ccb inherit pub_methods_a05722"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dcf/a05722.html#a89297a10b64d01895332655122ed8ccb">Execute</a> (<a class="el" href="../../d6/d1a/a00485.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:a89297a10b64d01895332655122ed8ccb inherit pub_methods_a05722"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a62c0483af9fd1885e779cf088a50eb02 inherit pub_methods_a05722"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dcf/a05722.html#a62c0483af9fd1885e779cf088a50eb02">IsDeletable</a> () const</td></tr>
+<tr class="separator:a62c0483af9fd1885e779cf088a50eb02 inherit pub_methods_a05722"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5584968148a48bd7ba072515bd489963 inherit pub_methods_a05722"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dcf/a05722.html#a5584968148a48bd7ba072515bd489963">Abort</a> (<a class="el" href="../../d6/d1a/a00485.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>)</td></tr>
+<tr class="separator:a5584968148a48bd7ba072515bd489963 inherit pub_methods_a05722"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afafade0729f08b8f1193a66f50c18348 inherit pub_methods_a05722"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dcf/a05722.html#afafade0729f08b8f1193a66f50c18348">ScheduleAbort</a> ()</td></tr>
+<tr class="separator:afafade0729f08b8f1193a66f50c18348 inherit pub_methods_a05722"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:a0d472ea9a1a7b615f01c73d20cfc6573"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d8e/a09018.html">Unit</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d8b/a09054.html#a0d472ea9a1a7b615f01c73d20cfc6573">_self</a></td></tr>
+<tr class="separator:a0d472ea9a1a7b615f01c73d20cfc6573"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9ac4ab83b785691285fb20364925b7ca"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/df9/a00044.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d8b/a09054.html#a9ac4ab83b785691285fb20364925b7ca">_duration</a></td></tr>
+<tr class="separator:a9ac4ab83b785691285fb20364925b7ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="aa9c27c19179b8a7bdfdc11d906cd1c06" name="aa9c27c19179b8a7bdfdc11d906cd1c06"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa9c27c19179b8a7bdfdc11d906cd1c06">&#9670;&#160;</a></span>creatureRate</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a53c96e023186cfb36084814b69e62d15" name="a53c96e023186cfb36084814b69e62d15"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a53c96e023186cfb36084814b69e62d15">&#9670;&#160;</a></span>VehicleDespawnEvent()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">float RepRewardRate::creatureRate</td>
+          <td class="memname">VehicleDespawnEvent::VehicleDespawnEvent </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/d8e/a09018.html">Unit</a> &amp;&#160;</td>
+          <td class="paramname"><em>self</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/df9/a00044.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td>
+          <td class="paramname"><em>duration</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
+<div class="fragment"><div class="line"><span class="lineno">  104</span>: <a class="code hl_variable" href="../../d3/d8b/a09054.html#a0d472ea9a1a7b615f01c73d20cfc6573">_self</a>(self), <a class="code hl_variable" href="../../d3/d8b/a09054.html#a9ac4ab83b785691285fb20364925b7ca">_duration</a>(duration) { }</div>
+<div class="ttc" id="aa09054_html_a0d472ea9a1a7b615f01c73d20cfc6573"><div class="ttname"><a href="../../d3/d8b/a09054.html#a0d472ea9a1a7b615f01c73d20cfc6573">VehicleDespawnEvent::_self</a></div><div class="ttdeci">Unit &amp; _self</div><div class="ttdef"><b>Definition:</b> Vehicle.h:108</div></div>
+<div class="ttc" id="aa09054_html_a9ac4ab83b785691285fb20364925b7ca"><div class="ttname"><a href="../../d3/d8b/a09054.html#a9ac4ab83b785691285fb20364925b7ca">VehicleDespawnEvent::_duration</a></div><div class="ttdeci">Milliseconds _duration</div><div class="ttdef"><b>Definition:</b> Vehicle.h:109</div></div>
+</div><!-- fragment -->
 </div>
 </div>
-<a id="a1798044bdf25ce774191b00e261add1e" name="a1798044bdf25ce774191b00e261add1e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1798044bdf25ce774191b00e261add1e">&#9670;&#160;</a></span>questDailyRate</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a39284ca2343e54cec915ac3ecf51f4a8" name="a39284ca2343e54cec915ac3ecf51f4a8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a39284ca2343e54cec915ac3ecf51f4a8">&#9670;&#160;</a></span>Execute()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">float RepRewardRate::questDailyRate</td>
+          <td class="memname">bool VehicleDespawnEvent::Execute </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td>
+          <td class="paramname"><em>e_time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>p_time</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="../../d6/dcf/a05722.html#a89297a10b64d01895332655122ed8ccb">BasicEvent</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">15909</span>{</div>
+<div class="line"><span class="lineno">15910</span>    <a class="code hl_struct" href="../../da/d2c/a08718.html">Position</a> pos = <a class="code hl_variable" href="../../d3/d8b/a09054.html#a0d472ea9a1a7b615f01c73d20cfc6573">_self</a>;</div>
+<div class="line"><span class="lineno">15911</span>    <a class="code hl_variable" href="../../d3/d8b/a09054.html#a0d472ea9a1a7b615f01c73d20cfc6573">_self</a>.<a class="code hl_function" href="../../de/d6b/a08670.html#a51ee0969c43fed32eacf1a56e24393eb">MovePositionToFirstCollision</a>(pos, 20.0f, M_PI);</div>
+<div class="line"><span class="lineno">15912</span>    <a class="code hl_variable" href="../../d3/d8b/a09054.html#a0d472ea9a1a7b615f01c73d20cfc6573">_self</a>.<a class="code hl_function" href="../../d4/d8e/a09018.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../d9/ddb/a10214.html#afc9ce801b909ecbe54867f6f643b5920">MovePoint</a>(0, pos);</div>
+<div class="line"><span class="lineno">15913</span>    <a class="code hl_variable" href="../../d3/d8b/a09054.html#a0d472ea9a1a7b615f01c73d20cfc6573">_self</a>.<a class="code hl_function" href="../../df/d76/a08634.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d5/df4/a08258.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>(<a class="code hl_variable" href="../../d3/d8b/a09054.html#a9ac4ab83b785691285fb20364925b7ca">_duration</a>);</div>
+<div class="line"><span class="lineno">15914</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">15915</span>}</div>
+<div class="ttc" id="aa08258_html_ab5bbc9b5cedb702466f5d0c1fcddb8f9"><div class="ttname"><a href="../../d5/df4/a08258.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">Creature::DespawnOrUnsummon</a></div><div class="ttdeci">void DespawnOrUnsummon(Milliseconds msTimeToDespawn=0ms, Seconds forcedRespawnTimer=0s)</div><div class="ttdef"><b>Definition:</b> Creature.cpp:2142</div></div>
+<div class="ttc" id="aa08634_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../df/d76/a08634.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition:</b> Object.h:205</div></div>
+<div class="ttc" id="aa08670_html_a51ee0969c43fed32eacf1a56e24393eb"><div class="ttname"><a href="../../de/d6b/a08670.html#a51ee0969c43fed32eacf1a56e24393eb">WorldObject::MovePositionToFirstCollision</a></div><div class="ttdeci">void MovePositionToFirstCollision(Position &amp;pos, float dist, float angle)</div><div class="ttdef"><b>Definition:</b> Object.cpp:2896</div></div>
+<div class="ttc" id="aa08718_html"><div class="ttname"><a href="../../da/d2c/a08718.html">Position</a></div><div class="ttdef"><b>Definition:</b> Position.h:27</div></div>
+<div class="ttc" id="aa09018_html_a4a04a3f22c3b0d6f4933993ac0cc7aa4"><div class="ttname"><a href="../../d4/d8e/a09018.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">Unit::GetMotionMaster</a></div><div class="ttdeci">MotionMaster * GetMotionMaster()</div><div class="ttdef"><b>Definition:</b> Unit.h:1749</div></div>
+<div class="ttc" id="aa10214_html_afc9ce801b909ecbe54867f6f643b5920"><div class="ttname"><a href="../../d9/ddb/a10214.html#afc9ce801b909ecbe54867f6f643b5920">MotionMaster::MovePoint</a></div><div class="ttdeci">void MovePoint(uint32 id, const Position &amp;pos, ForcedMovement forcedMovement=FORCED_MOVEMENT_NONE, float speed=0.f, bool generatePath=true, bool forceDestination=true, std::optional&lt; AnimTier &gt; animTier=std::nullopt)</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:240</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00109">_duration</a>, <a class="el" href="../../#l00108">_self</a>, <a class="el" href="../../#l02142">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l01749">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l00240">MotionMaster::MovePoint()</a>, <a class="el" href="../../#l02896">WorldObject::MovePositionToFirstCollision()</a>, and <a class="el" href="../../#l00205">Object::ToCreature()</a>.</p>
 
 </div>
 </div>
-<a id="a0db34ed7420bc376cfe64a0d12434fea" name="a0db34ed7420bc376cfe64a0d12434fea"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0db34ed7420bc376cfe64a0d12434fea">&#9670;&#160;</a></span>questMonthlyRate</h2>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a9ac4ab83b785691285fb20364925b7ca" name="a9ac4ab83b785691285fb20364925b7ca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9ac4ab83b785691285fb20364925b7ca">&#9670;&#160;</a></span>_duration</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">float RepRewardRate::questMonthlyRate</td>
+          <td class="memname"><a class="el" href="../../d5/df9/a00044.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> VehicleDespawnEvent::_duration</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l15908">Execute()</a>.</p>
 
 </div>
 </div>
-<a id="a914118aa28b3736ff4e6c5b61d738834" name="a914118aa28b3736ff4e6c5b61d738834"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a914118aa28b3736ff4e6c5b61d738834">&#9670;&#160;</a></span>questRate</h2>
+<a id="a0d472ea9a1a7b615f01c73d20cfc6573" name="a0d472ea9a1a7b615f01c73d20cfc6573"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0d472ea9a1a7b615f01c73d20cfc6573">&#9670;&#160;</a></span>_self</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">float RepRewardRate::questRate</td>
+          <td class="memname"><a class="el" href="../../d4/d8e/a09018.html">Unit</a>&amp; VehicleDespawnEvent::_self</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l07775">ObjectMgr::LoadReputationRewardRate()</a>.</p>
-
-</div>
-</div>
-<a id="a2b050d4cf6555e824d59a3ffc0558b21" name="a2b050d4cf6555e824d59a3ffc0558b21"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2b050d4cf6555e824d59a3ffc0558b21">&#9670;&#160;</a></span>questRepeatableRate</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float RepRewardRate::questRepeatableRate</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a0fb31ebc33d0ce11f392be845907e043" name="a0fb31ebc33d0ce11f392be845907e043"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0fb31ebc33d0ce11f392be845907e043">&#9670;&#160;</a></span>questWeeklyRate</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float RepRewardRate::questWeeklyRate</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a508485f1e6833c58a11706667a2c24fd" name="a508485f1e6833c58a11706667a2c24fd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a508485f1e6833c58a11706667a2c24fd">&#9670;&#160;</a></span>spellRate</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float RepRewardRate::spellRate</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
+<p class="reference">Referenced by <a class="el" href="../../#l15908">Execute()</a>.</p>
 
 </div>
 </div>
@@ -237,8 +299,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d8b/a09054.html">RepRewardRate</a></li>
-    <li class="footer">Generated on Mon Dec 22 2025 20:49:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d8b/a09054.html">VehicleDespawnEvent</a></li>
+    <li class="footer">Generated on Mon Mar 9 2026 21:05:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

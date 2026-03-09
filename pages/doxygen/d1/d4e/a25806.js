@@ -1,6 +1,6 @@
 var a25806 =
 [
-    [ "HandleScriptEffect", "d1/d4e/a25806.html#a94bbfc928beab8c8f27d84d1c9ab1558", null ],
-    [ "PrepareSpellScript", "d1/d4e/a25806.html#a479832175a4c77ce0c0a2f3d3f98f08c", null ],
-    [ "Register", "d1/d4e/a25806.html#aff9efad03d94958c29c84ea3c0d19fdb", null ]
+    [ "HandleDummyTick", "d1/d4e/a25806.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
+    [ "PrepareAuraScript", "d1/d4e/a25806.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
+    [ "Register", "d1/d4e/a25806.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
 ];

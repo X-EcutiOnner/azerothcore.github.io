@@ -1,8 +1,11 @@
 var a18878 =
 [
-    [ "npc_arthas_teleport_visualAI", "d2/d86/a18878.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
-    [ "Reset", "d2/d86/a18878.html#a27155b8880a2a86b733bcd074e977b59", null ],
-    [ "UpdateAI", "d2/d86/a18878.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
-    [ "_events", "d2/d86/a18878.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
-    [ "_instance", "d2/d86/a18878.html#a25bc023e061a0845421a652b571a6e1e", null ]
+    [ "npc_terenas_menethilAI", "d2/d86/a18878.html#aa2e95b96928b033ef374843ad1fb9f3c", null ],
+    [ "CanAIAttack", "d2/d86/a18878.html#a1414da7f20e0f93486eb77c9b9450fa9", null ],
+    [ "DamageTaken", "d2/d86/a18878.html#ae62a6f965ffb11d633190f1ca4122bc9", null ],
+    [ "DoAction", "d2/d86/a18878.html#a4f261b19a7a8676dfd6d76d428a4f1b1", null ],
+    [ "EnterEvadeMode", "d2/d86/a18878.html#ada5313b34e8c20c82ac97396e54e27df", null ],
+    [ "UpdateAI", "d2/d86/a18878.html#a6210ca6e5e954d5c66d2108359efc888", null ],
+    [ "_events", "d2/d86/a18878.html#ae61e4919b99a2b9195a389992947a125", null ],
+    [ "_instance", "d2/d86/a18878.html#a60aae54e5e54526ba12a9468a3f45c88", null ]
 ];

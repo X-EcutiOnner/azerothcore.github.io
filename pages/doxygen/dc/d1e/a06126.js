@@ -1,12 +1,13 @@
 var a06126 =
 [
-    [ "CombatAI", "dc/d1e/a06126.html#a32e63efb85155ac3deeb818a9a1ba18a", null ],
-    [ "InitializeAI", "dc/d1e/a06126.html#a70caf22165251220365d03873b3d3f17", null ],
-    [ "JustDied", "dc/d1e/a06126.html#a9176b9b9c7a5e13fb05dae636c7ef2d4", null ],
-    [ "JustEngagedWith", "dc/d1e/a06126.html#ab157082819d821cf0b0093f084111e16", null ],
-    [ "Permissible", "dc/d1e/a06126.html#aaf52e2cbeb1ea9a816b5e8d914c03edb", null ],
-    [ "Reset", "dc/d1e/a06126.html#a7a39daea9b9bd09572472ae0d8689edd", null ],
-    [ "UpdateAI", "dc/d1e/a06126.html#af12583d15ccd183f6236c1889d539b9b", null ],
-    [ "events", "dc/d1e/a06126.html#af59650830fa1abdf8eec179a12e328e7", null ],
-    [ "spells", "dc/d1e/a06126.html#ae0ecfc744e4200bbf7ea36cdd84b13c0", null ]
+    [ "TransactionTask", "dc/d1e/a06126.html#a13573f827891ad172847dc0e466b0b9e", null ],
+    [ "~TransactionTask", "dc/d1e/a06126.html#a68bc982f025d40bbc3a7323cd8c96786", null ],
+    [ "CleanupOnFailure", "dc/d1e/a06126.html#adc2f1534bce5a7ce198eeeb510fcb533", null ],
+    [ "Execute", "dc/d1e/a06126.html#aa1c1df059d15fe2077ceea5cfb51ba22", null ],
+    [ "TryExecute", "dc/d1e/a06126.html#a28c9ca1d9d3fdc6a722dcec68e46a38f", null ],
+    [ "DatabaseWorker", "dc/d1e/a06126.html#ac8984f2167ec797d478f3a771d1c1c3f", null ],
+    [ "DatabaseWorkerPool", "dc/d1e/a06126.html#a5d89109a06fa4fca3057b99bbfa84e58", null ],
+    [ "TransactionCallback", "dc/d1e/a06126.html#ac3345f3314b133d53268f53e222cdc74", null ],
+    [ "_deadlockLock", "dc/d1e/a06126.html#a84b48dbb670dd884e9b44ea53c8b0008", null ],
+    [ "m_trans", "dc/d1e/a06126.html#a242f0cb47bc6b456b6bea9aa372df4b6", null ]
 ];

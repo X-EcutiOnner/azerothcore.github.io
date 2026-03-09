@@ -1,7 +1,8 @@
 var a23594 =
 [
-    [ "npc_underbog_mushroom", "dc/d59/a23594.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
-    [ "InitializeAI", "dc/d59/a23594.html#a7c192010cc63715eaa3f38b1d1372936", null ],
-    [ "UpdateAI", "dc/d59/a23594.html#a9a8ed51b12809152ebe78dda69944d77", null ],
-    [ "_scheduler", "dc/d59/a23594.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
+    [ "HandleDummyApply", "dc/d59/a23594.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
+    [ "HandleDummyRemove", "dc/d59/a23594.html#a368376fe4262815b9b9a9811178cec6d", null ],
+    [ "HandlePeriodicRemove", "dc/d59/a23594.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
+    [ "PrepareAuraScript", "dc/d59/a23594.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
+    [ "Register", "dc/d59/a23594.html#afeb47a40cfea3d958fee7a410e83857f", null ]
 ];

@@ -1,6 +1,8 @@
 var a21666 =
 [
-    [ "npc_violet_hold_defense_system", "d0/de0/a21666.html#abb5eb275e803201aad3010ad77aa4b41", null ],
-    [ "Reset", "d0/de0/a21666.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
-    [ "UpdateAI", "d0/de0/a21666.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ]
+    [ "npc_shandy_dalaranAI", "d1/dcb/a21670.html", "d1/dcb/a21670" ],
+    [ "npc_shandy_dalaran", "d0/de0/a21666.html#a7077c769a252af8ba37b5ff5d524463e", null ],
+    [ "GetAI", "d0/de0/a21666.html#a641551a2aef739e1679912ae27ddb888", null ],
+    [ "OnGossipHello", "d0/de0/a21666.html#a91287aaba09fce091c9d826e75208f84", null ],
+    [ "OnGossipSelect", "d0/de0/a21666.html#ad005a17da187e0cfd03d2faf0099c448", null ]
 ];

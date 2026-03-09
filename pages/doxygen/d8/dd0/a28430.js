@@ -1,6 +1,6 @@
 var a28430 =
 [
-    [ "Id", "d8/dd0/a28430.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
-    [ "Order", "d8/dd0/a28430.html#a16fca42d9a0a98e034a93984c4362b53", null ],
-    [ "TypeFlags", "d8/dd0/a28430.html#ac7246adc7c6c3217de8ac093983b7553", null ]
+    [ "npc_preciousAI", "df/d15/a28434.html", "df/d15/a28434" ],
+    [ "npc_precious", "d8/dd0/a28430.html#a3c3ad9da13de64498cabc8e252e99ab2", null ],
+    [ "GetAI", "d8/dd0/a28430.html#a754ad85c8b1942b400a47c28297bad62", null ]
 ];

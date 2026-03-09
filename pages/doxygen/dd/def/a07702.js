@@ -1,6 +1,11 @@
 var a07702 =
 [
-    [ "operator bool", "dd/def/a07702.html#a02878c282dfcfd2b9f4eddf99a805fa3", null ],
-    [ "tail", "dd/def/a07702.html#a0bd839d0c7a8b7ce84612c80f3ca84e7", null ],
-    [ "token", "dd/def/a07702.html#a55e214db8a01ac3c427874d03f1bda54", null ]
+    [ "BattlegroundSAScore", "dd/def/a07702.html#afb1312e304eee973740cfe208657c5b9", null ],
+    [ "BuildObjectivesBlock", "dd/def/a07702.html#a57bf8241b404571cda5a8e113c334eab", null ],
+    [ "GetAttr1", "dd/def/a07702.html#aa31cd91ede928c57cd201dba61f7f585", null ],
+    [ "GetAttr2", "dd/def/a07702.html#aba47bb1ec440f405bfde8513c60ae576", null ],
+    [ "UpdateScore", "dd/def/a07702.html#a169a2a0a51edb6564e98c4b55f3e8a3b", null ],
+    [ "BattlegroundSA", "dd/def/a07702.html#ab31c13442be48941f5dab4214b95cde9", null ],
+    [ "DemolishersDestroyed", "dd/def/a07702.html#ac49c28efa42cfad7232268de4be45e66", null ],
+    [ "GatesDestroyed", "dd/def/a07702.html#aeb1310b64150dd51f91722574a9dd3fc", null ]
 ];

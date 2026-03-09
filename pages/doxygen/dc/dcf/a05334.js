@@ -1,7 +1,6 @@
 var a05334 =
 [
-    [ "TypeContainerVisitor", "dc/dcf/a05334.html#a1dd5b1ac8e4703358a32431efed8faa2", null ],
-    [ "Visit", "dc/dcf/a05334.html#adf0874fc1f8bb38d2f62530f5667c836", null ],
-    [ "Visit", "dc/dcf/a05334.html#af8110dd70655223f06fb08b552420a6d", null ],
-    [ "i_visitor", "dc/dcf/a05334.html#a7be8eccd05fd489da52e587f51555891", null ]
+    [ "NodeArray", "dc/dcf/a05334.html#ad14de28828d5dd9c425e47a261125423", null ],
+    [ "AddNode", "dc/dcf/a05334.html#a370b6e8633c2c739ff68c0399e315a7e", null ],
+    [ "_nodes", "dc/dcf/a05334.html#a581a71d15d245efc585297c218313134", null ]
 ];

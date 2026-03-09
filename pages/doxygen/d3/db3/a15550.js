@@ -1,7 +1,9 @@
 var a15550 =
 [
-    [ "HandleEffectRemove", "d3/db3/a15550.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
-    [ "PrepareAuraScript", "d3/db3/a15550.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
-    [ "Register", "d3/db3/a15550.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
-    [ "AuraEffectHandleModes", "d3/db3/a15550.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
+    [ "go_ossirian_crystalAI", "d3/db3/a15550.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
+    [ "DoAction", "d3/db3/a15550.html#a581436335d190466520c07fde56ad441", null ],
+    [ "GossipHello", "d3/db3/a15550.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
+    [ "SetGUID", "d3/db3/a15550.html#a9b4af48363a6d3194a22312fafa48587", null ],
+    [ "_instance", "d3/db3/a15550.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
+    [ "_triggerGUID", "d3/db3/a15550.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
 ];

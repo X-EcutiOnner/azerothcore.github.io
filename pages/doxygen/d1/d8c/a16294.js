@@ -1,7 +1,7 @@
 var a16294 =
 [
-    [ "npc_orb_carrierAI", "d1/d8c/a16294.html#a2011c247d2157f5f2a06db6e149743e0", null ],
-    [ "DoAction", "d1/d8c/a16294.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
-    [ "TriggerCutter", "d1/d8c/a16294.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
-    [ "UpdateAI", "d1/d8c/a16294.html#a99a08390fcf2b0a058aee161932392d0", null ]
+    [ "go_troll_cageAI", "d1/d8c/a16294.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
+    [ "GossipHello", "d1/d8c/a16294.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
+    [ "initBlyCrewMember", "d1/d8c/a16294.html#a6bfb77ec97367d8704885acfef801b74", null ],
+    [ "instance", "d1/d8c/a16294.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
 ];

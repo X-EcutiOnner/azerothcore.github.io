@@ -1,8 +1,6 @@
 var a12250 =
 [
-    [ "boss_highlordomokkAI", "d5/d45/a12250.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
-    [ "JustDied", "d5/d45/a12250.html#ac7e125b4350880d3d195b915c8be9de0", null ],
-    [ "JustEngagedWith", "d5/d45/a12250.html#a072dc582f931deb7d1e0db9ad535f146", null ],
-    [ "Reset", "d5/d45/a12250.html#a627390013798de7a53a95817624417e3", null ],
-    [ "UpdateAI", "d5/d45/a12250.html#a38e6008d616131d2876ae5a085a083ff", null ]
+    [ "CapturedGroups", "d5/d45/a12250.html#a6842947e5fbe26c2c4aadc1209395902", null ],
+    [ "CurrentTemplate", "d5/d45/a12250.html#a6915499b95c29a00cde15c5a7f562158", null ],
+    [ "ZoneName", "d5/d45/a12250.html#a62633be7d11b2937b301e63f6d1e94e2", null ]
 ];

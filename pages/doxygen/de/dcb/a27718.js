@@ -1,8 +1,7 @@
 var a27718 =
 [
-    [ "npc_nelsonAI", "d2/d76/a27722.html", "d2/d76/a27722" ],
-    [ "npc_nelson", "de/dcb/a27718.html#ada597926a6db1aa7823ddabc19945b11", null ],
-    [ "GetAI", "de/dcb/a27718.html#a75fea281fb49249345c48236bf44b1c8", null ],
-    [ "OnGossipHello", "de/dcb/a27718.html#aa693b365a15d4617f214f9c3c229bf89", null ],
-    [ "OnGossipSelect", "de/dcb/a27718.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
+    [ "HandleTeleport", "de/dcb/a27718.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
+    [ "PrepareAuraScript", "de/dcb/a27718.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
+    [ "Register", "de/dcb/a27718.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
+    [ "Validate", "de/dcb/a27718.html#adabf22bd591a10662ffbf0354a18a936", null ]
 ];

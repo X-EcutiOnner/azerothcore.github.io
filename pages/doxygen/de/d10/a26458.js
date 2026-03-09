@@ -1,6 +1,7 @@
 var a26458 =
 [
-    [ "HandleEffectScriptEffect", "de/d10/a26458.html#a852a621f0b008dc1294dbeb9e9877a04", null ],
-    [ "PrepareSpellScript", "de/d10/a26458.html#a8b0f656994289f260645a2ae60d9ee4b", null ],
-    [ "Register", "de/d10/a26458.html#a1fa4dca7bae36c5e2acde0fe8b8cd801", null ]
+    [ "HandleProc", "de/d10/a26458.html#a19c34d190abeab629f48cbbaaa066cf8", null ],
+    [ "PrepareAuraScript", "de/d10/a26458.html#aaf5c649ef33b57ac964613308d3357d1", null ],
+    [ "Register", "de/d10/a26458.html#aed9d3ef3406aea2656b34230229241de", null ],
+    [ "Validate", "de/d10/a26458.html#a7f0074e18ffddba1383b01ce774ecff5", null ]
 ];

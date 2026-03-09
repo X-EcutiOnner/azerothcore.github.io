@@ -1,5 +1,5 @@
 var a04988 =
 [
-    [ "GetBounds", "d5/d6e/a04988.html#aad63d9f5960111e34b0a3005e2c51d0f", null ],
-    [ "GetBounds2", "d5/d6e/a04988.html#adcedbb1fa73310dff07fb945793fb23e", null ]
+    [ "basic_endpoint", "dd/d94/a05102.html", null ],
+    [ "tcp_endpoint", "d5/d6e/a04988.html#a27a44b709519f6caccf33bc420c4698b", null ]
 ];

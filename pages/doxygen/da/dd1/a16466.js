@@ -1,6 +1,6 @@
 var a16466 =
 [
-    [ "npc_black_knight_ghoulAI", "d7/d57/a16470.html", "d7/d57/a16470" ],
-    [ "npc_black_knight_ghoul", "da/dd1/a16466.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
-    [ "GetAI", "da/dd1/a16466.html#a52308f8d168e1ccea22de653813b7f6f", null ]
+    [ "instance_azjol_nerub_InstanceScript", "da/dd1/a16466.html#a886ed4c1485fdedcc176341210eee31a", null ],
+    [ "OnCreatureEvade", "da/dd1/a16466.html#af163238686bf22f11908f64ffb5cacca", null ],
+    [ "OnUnitDeath", "da/dd1/a16466.html#a45792f7c2d1a042d68907a0f475634d1", null ]
 ];

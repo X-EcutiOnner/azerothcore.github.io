@@ -1,6 +1,7 @@
 var a20154 =
 [
-    [ "OnPeriodic", "da/df5/a20154.html#a379c55df994c58932fef7e7a59fd8426", null ],
-    [ "PrepareAuraScript", "da/df5/a20154.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
-    [ "Register", "da/df5/a20154.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
+    [ "HandlePeriodic", "da/df5/a20154.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
+    [ "PrepareAuraScript", "da/df5/a20154.html#ad78b06733a8609dd39e885db2f23edba", null ],
+    [ "Register", "da/df5/a20154.html#ac9ae9be546964752869163896c4045dd", null ],
+    [ "Validate", "da/df5/a20154.html#afcca84d03b29ef7569c03f973a6c191b", null ]
 ];

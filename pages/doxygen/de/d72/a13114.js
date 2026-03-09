@@ -1,6 +1,7 @@
 var a13114 =
 [
-    [ "CheckRequirement", "de/d72/a13114.html#a31d69034f463d552afa4063bf89271da", null ],
-    [ "PrepareSpellScript", "de/d72/a13114.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
-    [ "Register", "de/d72/a13114.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
+    [ "boss_maiden_of_virtue", "de/d72/a13114.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
+    [ "JustDied", "de/d72/a13114.html#a6eded246318f6b47b46f45168e4a8069", null ],
+    [ "JustEngagedWith", "de/d72/a13114.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
+    [ "KilledUnit", "de/d72/a13114.html#a32dd66a297d11f5ffac1841bae15727a", null ]
 ];

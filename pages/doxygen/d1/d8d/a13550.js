@@ -1,6 +1,7 @@
 var a13550 =
 [
-    [ "CastArmageddon", "d1/d8d/a13550.html#a2e90929b63e6151252aa01a55dbd801f", null ],
-    [ "Execute", "d1/d8d/a13550.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
-    [ "_caster", "d1/d8d/a13550.html#a1e70887099a7a47b7c26517d4363ad93", null ]
+    [ "OnApply", "d1/d8d/a13550.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
+    [ "OnRemove", "d1/d8d/a13550.html#a810203874163cf04798c3edbe69b747e", null ],
+    [ "PrepareAuraScript", "d1/d8d/a13550.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
+    [ "Register", "d1/d8d/a13550.html#af2ad52165de188897fdeb8d62646b7cc", null ]
 ];

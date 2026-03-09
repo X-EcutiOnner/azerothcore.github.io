@@ -1,8 +1,8 @@
 var a23510 =
 [
-    [ "FilterTargets", "d6/ddc/a23510.html#a8687ba9c22299e62e5911a3729fa4a0a", null ],
-    [ "HandleDummy", "d6/ddc/a23510.html#addb3580259be74126b7de36d1b0a8a97", null ],
-    [ "PrepareSpellScript", "d6/ddc/a23510.html#aba82de0886d03037de4564f9908b8c89", null ],
-    [ "Register", "d6/ddc/a23510.html#a1650962493d48f5553a9e2771e594f1f", null ],
-    [ "Validate", "d6/ddc/a23510.html#a0a29926e43bd5ff58ca7ad79df6f8cc1", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "d6/ddc/a23510.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
+    [ "GetData", "d6/ddc/a23510.html#a410630dbbe00acf0b69603cfc357d503", null ],
+    [ "SetBossState", "d6/ddc/a23510.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
+    [ "SetData", "d6/ddc/a23510.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
+    [ "_addsKilled", "d6/ddc/a23510.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
 ];

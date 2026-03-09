@@ -1,20 +1,11 @@
 var a15846 =
 [
-    [ "npc_twiggy_flatheadAI", "d0/d96/a15846.html#a03aee9619eafa0f497390c520cbfaf24", null ],
-    [ "CleanUp", "d0/d96/a15846.html#adfe48ed23633691608b289c4751c788a", null ],
-    [ "EnterEvadeMode", "d0/d96/a15846.html#a9fd1519e6196ba4db30740b16904964b", null ],
-    [ "JustEngagedWith", "d0/d96/a15846.html#aa601e079ed93d4d21f2ea2decf6cdab3", null ],
-    [ "MoveInLineOfSight", "d0/d96/a15846.html#a95188ce1d3abba7dfeef5a9cbd6d3306", null ],
-    [ "Reset", "d0/d96/a15846.html#ab98c38a9d8c3cb3e1ac67f321cfe90fb", null ],
-    [ "UpdateAI", "d0/d96/a15846.html#a0a9cefdaf419143eed6e6aa89489e8dd", null ],
-    [ "AffrayChallenger", "d0/d96/a15846.html#a42354987ab877f7c113ac44b50d4a660", null ],
-    [ "BigWill", "d0/d96/a15846.html#a4a017e9153c04e34b2c9c3ae30583856", null ],
-    [ "ChallengerChecker", "d0/d96/a15846.html#a9908c43715426b75c06c1e2032f4fcca", null ],
-    [ "ChallengerDown", "d0/d96/a15846.html#a8777dbc5bd40e29a46d1195414a3f754", null ],
-    [ "EventBigWill", "d0/d96/a15846.html#a32d931e4aabbabedd05ae243038cca8e", null ],
-    [ "EventGrate", "d0/d96/a15846.html#a8bc3907272941dbf2218cc0dbafb205f", null ],
-    [ "EventInProgress", "d0/d96/a15846.html#a4dd84ae18a7f79238f110659db03b984", null ],
-    [ "PlayerGUID", "d0/d96/a15846.html#aa510117962fc5294113f2f88a1f2a652", null ],
-    [ "Wave", "d0/d96/a15846.html#a5a38a9a8da1b9cd03e800fcd90e38d1a", null ],
-    [ "WaveTimer", "d0/d96/a15846.html#a8a0d2b9db7f49cdb367dcf6f68bc1633", null ]
+    [ "npc_magwinAI", "d0/d96/a15846.html#ad4a352dd0c7c6f76e74f110b00ec9053", null ],
+    [ "JustEngagedWith", "d0/d96/a15846.html#aea2ab8bf79d6fcc3d2036d160274fab8", null ],
+    [ "Reset", "d0/d96/a15846.html#a883ef3cd1b097847de148ccb9bd3e903", null ],
+    [ "sQuestAccept", "d0/d96/a15846.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
+    [ "UpdateEscortAI", "d0/d96/a15846.html#a34236331be8842a9e2a98036ea382e18", null ],
+    [ "WaypointReached", "d0/d96/a15846.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
+    [ "_events", "d0/d96/a15846.html#a32dad2bde92efab7e0f0d16e809df665", null ],
+    [ "_player", "d0/d96/a15846.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
 ];

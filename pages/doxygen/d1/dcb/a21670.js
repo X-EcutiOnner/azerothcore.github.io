@@ -1,8 +1,13 @@
 var a21670 =
 [
-    [ "HandleEffectRemove", "d1/dcb/a21670.html#aa2b05befb775244423264f6b5e2387c1", null ],
-    [ "Load", "d1/dcb/a21670.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
-    [ "PrepareAuraScript", "d1/dcb/a21670.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
-    [ "Register", "d1/dcb/a21670.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
-    [ "Validate", "d1/dcb/a21670.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
+    [ "npc_shandy_dalaranAI", "d1/dcb/a21670.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
+    [ "Reset", "d1/dcb/a21670.html#a38f0630d4e18cea01de343afdcb96db3", null ],
+    [ "RollTask", "d1/dcb/a21670.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
+    [ "SetData", "d1/dcb/a21670.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
+    [ "UpdateAI", "d1/dcb/a21670.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
+    [ "_aquanosGUID", "d1/dcb/a21670.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
+    [ "_canWash", "d1/dcb/a21670.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
+    [ "_events", "d1/dcb/a21670.html#a3fbae63669c8382097b0bcb936301945", null ],
+    [ "_lCount", "d1/dcb/a21670.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
+    [ "_lSource", "d1/dcb/a21670.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
 ];

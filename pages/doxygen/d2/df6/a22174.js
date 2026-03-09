@@ -1,6 +1,6 @@
 var a22174 =
 [
-    [ "npc_plaguehound_trackerAI", "d9/d90/a22178.html", "d9/d90/a22178" ],
-    [ "npc_plaguehound_tracker", "d2/df6/a22174.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
-    [ "GetAI", "d2/df6/a22174.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
+    [ "npc_vekjik", "d2/df6/a22174.html#a7439c6038237b77ba8623ae92d6cf708", null ],
+    [ "OnGossipHello", "d2/df6/a22174.html#acdbba5b4970049e72477eccf6672b0e8", null ],
+    [ "OnGossipSelect", "d2/df6/a22174.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
 ];

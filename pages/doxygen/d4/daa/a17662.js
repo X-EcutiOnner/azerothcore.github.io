@@ -1,7 +1,6 @@
 var a17662 =
 [
-    [ "FilterTargets", "d4/daa/a17662.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
-    [ "Load", "d4/daa/a17662.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
-    [ "PrepareSpellScript", "d4/daa/a17662.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
-    [ "Register", "d4/daa/a17662.html#a33342cc676adaabe5e3896fa559631b7", null ]
+    [ "boss_drakkari_colossusAI", "db/dfc/a17666.html", "db/dfc/a17666" ],
+    [ "boss_drakkari_colossus", "d4/daa/a17662.html#abe1bf28b9147b72c81e5c5efcdeeaf84", null ],
+    [ "GetAI", "d4/daa/a17662.html#a75c6c9c56fe11342dd8aece031059e77", null ]
 ];

@@ -1,6 +1,5 @@
 var a28010 =
 [
-    [ "X", "d1/d75/a28010.html#a55bda49b2eb919415afaf780ca1977de", null ],
-    [ "Y", "d1/d75/a28010.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
-    [ "Z", "d1/d75/a28010.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
+    [ "achievement_not_even_a_scratch", "d1/d75/a28010.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "d1/d75/a28010.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

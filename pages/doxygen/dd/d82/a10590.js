@@ -1,8 +1,7 @@
 var a10590 =
 [
-    [ "PlayedTime", "dd/d82/a10590.html#abc477d90a27dc41a7c643448302464cf", null ],
-    [ "Write", "dd/d82/a10590.html#a147071f2545cd91213d6c92dab7438c7", null ],
-    [ "LevelTime", "dd/d82/a10590.html#a2bf832827f9497a59bbfac714799b4b5", null ],
-    [ "TotalTime", "dd/d82/a10590.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
-    [ "TriggerScriptEvent", "dd/d82/a10590.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
+    [ "GameEventScript", "dd/d82/a10590.html#ac43a9c70638ad56b69b5841ee8410374", null ],
+    [ "OnEventCheck", "dd/d82/a10590.html#aadab9593da561e9b19202d09b53cba36", null ],
+    [ "OnStart", "dd/d82/a10590.html#a0e61a9e1379aef55af93a593af84a3cc", null ],
+    [ "OnStop", "dd/d82/a10590.html#a4813f26f03e5ba79a740bf30558e604c", null ]
 ];

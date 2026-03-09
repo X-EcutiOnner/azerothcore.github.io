@@ -1,7 +1,12 @@
 var a15242 =
 [
-    [ "boss_rajaxx", "da/d64/a15242.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
-    [ "JustDied", "da/d64/a15242.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
-    [ "JustEngagedWith", "da/d64/a15242.html#a8dad79921559359b6aa7149641925fe5", null ],
-    [ "UpdateAI", "da/d64/a15242.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
+    [ "boss_epochAI", "da/d64/a15242.html#a2986db39b7db92b1fa9d64cef5f8c08b", null ],
+    [ "JustDied", "da/d64/a15242.html#a780aa5bc86c80aaeeffad441b2873121", null ],
+    [ "JustEngagedWith", "da/d64/a15242.html#ae742dceac5979faebb58a133e9bd91f0", null ],
+    [ "KilledUnit", "da/d64/a15242.html#af41946feab7b86d812f706bd7abbf1bd", null ],
+    [ "Reset", "da/d64/a15242.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
+    [ "SpellHitTarget", "da/d64/a15242.html#ab87dfcf635a65b02be29186d2990fef3", null ],
+    [ "UpdateAI", "da/d64/a15242.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
+    [ "events", "da/d64/a15242.html#af0c1477b3d9fb48cfcf55f32e21591f4", null ],
+    [ "warps", "da/d64/a15242.html#a478113af1ce565c729604c6039f55551", null ]
 ];

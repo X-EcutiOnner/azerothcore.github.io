@@ -1,7 +1,11 @@
 var a12166 =
 [
-    [ "boss_magmusAI", "d8/da4/a12166.html#a8a3e5361bda492007013af9228899b8f", null ],
-    [ "JustEngagedWith", "d8/da4/a12166.html#a11e4868628564078997694373315a9d6", null ],
-    [ "Reset", "d8/da4/a12166.html#a5fe304cec86831b7e64f83caee1392d0", null ],
-    [ "UpdateAI", "d8/da4/a12166.html#aa8bb8282c794ea02fe7bd95b3d32e5ea", null ]
+    [ "instance_commandscript", "d8/da4/a12166.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
+    [ "GetCommands", "d8/da4/a12166.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
+    [ "HandleInstanceGetBossStateCommand", "d8/da4/a12166.html#a0530ca6481073d6bafd11596546140b0", null ],
+    [ "HandleInstanceListBindsCommand", "d8/da4/a12166.html#abf42411f9c78ce59b21b34691e3d4233", null ],
+    [ "HandleInstanceSaveDataCommand", "d8/da4/a12166.html#a4b494a8b1de470612436fbb9fa433416", null ],
+    [ "HandleInstanceSetBossStateCommand", "d8/da4/a12166.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
+    [ "HandleInstanceStatsCommand", "d8/da4/a12166.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
+    [ "HandleInstanceUnbindCommand", "d8/da4/a12166.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
 ];

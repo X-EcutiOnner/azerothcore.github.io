@@ -1,9 +1,7 @@
 var a24742 =
 [
-    [ "HandleAfterHit", "dc/d85/a24742.html#ae1b4b01bd1a6903bcd594d2191e2770b", null ],
-    [ "Load", "dc/d85/a24742.html#a7f0dae9dd4ead6ea10e8343810671282", null ],
-    [ "PrepareSpellScript", "dc/d85/a24742.html#a293ff5d232851bce7cbc4a83aa8253b5", null ],
-    [ "Register", "dc/d85/a24742.html#ae9eeb78d006bc01dd05fdd726dea9b90", null ],
-    [ "Validate", "dc/d85/a24742.html#afdbb71f81aacc9ac1a5119707952ec52", null ],
-    [ "_executed", "dc/d85/a24742.html#a2fe77cc280a5fa3bb324d969f1081b65", null ]
+    [ "AfterApply", "dc/d85/a24742.html#aee69eceead7e31cce2638ff252f6653d", null ],
+    [ "AfterRemove", "dc/d85/a24742.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
+    [ "PrepareAuraScript", "dc/d85/a24742.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
+    [ "Register", "dc/d85/a24742.html#ab5f8afbfa688ebd548a5508543498b55", null ]
 ];

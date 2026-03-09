@@ -1,6 +1,8 @@
 var a17310 =
 [
-    [ "HandleDummy", "d6/dff/a17310.html#aef592aafe931351186edf98f7aba7e22", null ],
-    [ "PrepareSpellScript", "d6/dff/a17310.html#ab79a160e0d5b0c6e0ecfa842a4da2819", null ],
-    [ "Register", "d6/dff/a17310.html#a7594952f23cba22b886c2c3b10f363d4", null ]
+    [ "npc_fos_leaderAI", "d6/dff/a17310.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
+    [ "DoAction", "d6/dff/a17310.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
+    [ "Reset", "d6/dff/a17310.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
+    [ "UpdateAI", "d6/dff/a17310.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
+    [ "events", "d6/dff/a17310.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
 ];

@@ -1,6 +1,6 @@
 var a17510 =
 [
-    [ "AddExtraDamage", "d5/d76/a17510.html#adeedfdd7555dfd009c99db6f002f7488", null ],
-    [ "PrepareSpellScript", "d5/d76/a17510.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
-    [ "Register", "d5/d76/a17510.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
+    [ "boss_ickAI", "d2/d3e/a17514.html", "d2/d3e/a17514" ],
+    [ "boss_ick", "d5/d76/a17510.html#af97d7f96bc48ba245e28c18614b9369e", null ],
+    [ "GetAI", "d5/d76/a17510.html#a355285766712a31b704c23fe85d19e5f", null ]
 ];

@@ -1,5 +1,7 @@
 var a27238 =
 [
-    [ "achievement_save_the_day", "d2/d6f/a27238.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
-    [ "OnCheck", "d2/d6f/a27238.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
+    [ "HandleDummy", "d2/d6f/a27238.html#a4c837e7342603519d1f23ab8702c3160", null ],
+    [ "PrepareSpellScript", "d2/d6f/a27238.html#ae9d6ab0c9b9cf87f7b86f28e9bb25371", null ],
+    [ "Register", "d2/d6f/a27238.html#a16a5ca3ec9a8c463c9a2975fa29eb1e9", null ],
+    [ "Validate", "d2/d6f/a27238.html#ad742f4ce0d0db70427f7ba849a4526df", null ]
 ];

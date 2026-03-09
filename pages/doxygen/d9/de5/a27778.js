@@ -1,6 +1,6 @@
 var a27778 =
 [
-    [ "npc_air_force_botsAI", "db/d18/a27782.html", "db/d18/a27782" ],
-    [ "npc_air_force_bots", "d9/de5/a27778.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
-    [ "GetAI", "d9/de5/a27778.html#ae971e34d61b0f960d8f5940f9015523d", null ]
+    [ "CheckProc", "d9/de5/a27778.html#ad99bf14a9b71a9ff7b2ccb73eaae41ce", null ],
+    [ "PrepareAuraScript", "d9/de5/a27778.html#a787d22fa4d989bf28aa69f64d55d9687", null ],
+    [ "Register", "d9/de5/a27778.html#a4ef23658a8f36556513fcd7b9673a14f", null ]
 ];

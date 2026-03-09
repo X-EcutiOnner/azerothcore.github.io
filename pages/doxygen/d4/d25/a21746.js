@@ -1,7 +1,6 @@
 var a21746 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "d4/d25/a21746.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
-    [ "Reset", "d4/d25/a21746.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
-    [ "UpdateAI", "d4/d25/a21746.html#a75f16f2b028ca341db6e08536be06bfa", null ],
-    [ "uiTimer", "d4/d25/a21746.html#a0cf5f0413b1cded835252a38e272f835", null ]
+    [ "npc_mindless_ghoulAI", "d4/d25/a21746.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
+    [ "CanAIAttack", "d4/d25/a21746.html#a18fbc44ad760a69d952d003622ec75b2", null ],
+    [ "JustDied", "d4/d25/a21746.html#a272067bef6dbab24024f7de990c10b64", null ]
 ];

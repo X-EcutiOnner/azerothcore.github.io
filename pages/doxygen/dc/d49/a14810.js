@@ -1,11 +1,11 @@
 var a14810 =
 [
-    [ "boss_anetheron", "dc/d49/a14810.html#a6c103caa3f137756599a75bff03a6648", null ],
-    [ "DoAction", "dc/d49/a14810.html#a2fd485de26c820fec5240f9141a09964", null ],
-    [ "JustDied", "dc/d49/a14810.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
-    [ "JustEngagedWith", "dc/d49/a14810.html#aa34ac87ad4014fbecb481be7896c577c", null ],
-    [ "JustSummoned", "dc/d49/a14810.html#af9c156e28c7eca710d8367bd2a99387d", null ],
-    [ "KilledUnit", "dc/d49/a14810.html#a4471af823278a3664574729bf5c749be", null ],
-    [ "PathEndReached", "dc/d49/a14810.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
-    [ "_recentlySpoken", "dc/d49/a14810.html#accd9455c3b1d536ca177be6028f3503d", null ]
+    [ "npc_high_oracle_soo_roo", "dc/d49/a14810.html#a86f5f3c3869e9fa7afcfc9425dfdfdde", null ],
+    [ "MoveInLineOfSight", "dc/d49/a14810.html#ae3b4da2d6b888cf6325bb93b3fdbde7f", null ],
+    [ "Reset", "dc/d49/a14810.html#a89a60a83a46e0095045b2353e50483ed", null ],
+    [ "UpdateAI", "dc/d49/a14810.html#ac22cfa519e478da643a51ae887f306fd", null ],
+    [ "orphanGUID", "dc/d49/a14810.html#acd6636eb290a2fe4470b04d467ff7fa1", null ],
+    [ "phase", "dc/d49/a14810.html#abeec923d25d21773f9d8f8ba1deb0148", null ],
+    [ "playerGUID", "dc/d49/a14810.html#a329832491f86c6fcc9ccc4c98b19991e", null ],
+    [ "timer", "dc/d49/a14810.html#aa5238d3ee361374681947de874391a1f", null ]
 ];

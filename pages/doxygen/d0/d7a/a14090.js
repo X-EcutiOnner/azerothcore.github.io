@@ -1,9 +1,9 @@
 var a14090 =
 [
-    [ "npc_zulaman_hostageAI", "d0/d7a/a14090.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
-    [ "JustDied", "d0/d7a/a14090.html#af87bdebb039f1da5736408cf3aad6487", null ],
-    [ "JustEngagedWith", "d0/d7a/a14090.html#af0aa229973da1a6230a854439658e9ed", null ],
-    [ "UpdateAI", "d0/d7a/a14090.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
-    [ "IsLoot", "d0/d7a/a14090.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
-    [ "PlayerGUID", "d0/d7a/a14090.html#a49f15c5a94d005c56218d00ac6732b82", null ]
+    [ "npc_partygoer", "d0/d7a/a14090.html#af053caedfd1fa8173b875f521d279418", null ],
+    [ "Initialize", "d0/d7a/a14090.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
+    [ "Reset", "d0/d7a/a14090.html#ad1936099ec5696a2a593e5041b0360c6", null ],
+    [ "UpdateAI", "d0/d7a/a14090.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
+    [ "_events", "d0/d7a/a14090.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
+    [ "_facing", "d0/d7a/a14090.html#a9e934091894987ec091b03090bf733e5", null ]
 ];

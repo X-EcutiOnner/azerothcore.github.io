@@ -1,6 +1,5 @@
 var a14570 =
 [
-    [ "HandleScript", "d6/d71/a14570.html#a4077b809530d28bed0a9419b5a745f42", null ],
-    [ "PrepareSpellScript", "d6/d71/a14570.html#a97eb6d1fcdcf0628433e5bec68785932", null ],
-    [ "Register", "d6/d71/a14570.html#ac09b1c86655eef0febaccff86533b28f", null ]
+    [ "npc_brain_wash_totem", "d6/d71/a14570.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
+    [ "EnterEvadeMode", "d6/d71/a14570.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
 ];

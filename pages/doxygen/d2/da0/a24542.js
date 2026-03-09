@@ -1,6 +1,6 @@
 var a24542 =
 [
-    [ "npc_pet_dk_ghoul", "d2/da0/a24542.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
-    [ "IsSummonedBy", "d2/da0/a24542.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
-    [ "JustDied", "d2/da0/a24542.html#a6095e3619b470283b9875b90e2805b54", null ]
+    [ "CheckProc", "d2/da0/a24542.html#ace3662e092d02de975929741c470230d", null ],
+    [ "PrepareAuraScript", "d2/da0/a24542.html#aed547ead2b8822f08eb1530f4b29e2f8", null ],
+    [ "Register", "d2/da0/a24542.html#ae6432106538261827c3eac3dde1450f2", null ]
 ];

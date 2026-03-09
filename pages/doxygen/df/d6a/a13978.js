@@ -1,12 +1,7 @@
 var a13978 =
 [
-    [ "npc_daphne_stilwellAI", "df/d6a/a13978.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
-    [ "AttackStart", "df/d6a/a13978.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
-    [ "JustSummoned", "df/d6a/a13978.html#ae56554d30e9de7644efab891555c57e0", null ],
-    [ "Reset", "df/d6a/a13978.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
-    [ "SummonedCreatureDies", "df/d6a/a13978.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
-    [ "Update", "df/d6a/a13978.html#a4099d75c4a6bca1525781a5753ef9972", null ],
-    [ "WaypointReached", "df/d6a/a13978.html#a1035eb0a1696730d8304593b5fb079e4", null ],
-    [ "summons", "df/d6a/a13978.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
-    [ "textCounter", "df/d6a/a13978.html#a62ab24169c1b7c3028ab33303b217f63", null ]
+    [ "HandleAfterCast", "df/d6a/a13978.html#a251ddadd9d26039da542c402e4ee254f", null ],
+    [ "PrepareSpellScript", "df/d6a/a13978.html#a91114aeb4f917ec5138a0c7b20688174", null ],
+    [ "Register", "df/d6a/a13978.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
+    [ "Validate", "df/d6a/a13978.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
 ];

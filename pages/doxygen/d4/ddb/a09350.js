@@ -1,10 +1,11 @@
 var a09350 =
 [
-    [ "AnyDeadUnitSpellTargetInRangeCheck", "d4/ddb/a09350.html#a212c308a02716ff382e820e86e233ed3", null ],
-    [ "operator()", "d4/ddb/a09350.html#af328df880d17a62e2dbed0ff4231fc39", null ],
-    [ "operator()", "d4/ddb/a09350.html#adcc69b9ef03a68aa235e40449a80b701", null ],
-    [ "operator()", "d4/ddb/a09350.html#a2f2483cf7078681cb3acf28560e61184", null ],
-    [ "operator()", "d4/ddb/a09350.html#aba0bf4c320a684b68743a06e724a369e", null ],
-    [ "i_check", "d4/ddb/a09350.html#aa2223ad31acf47a1608ded6b5cbc2f03", null ],
-    [ "i_spellInfo", "d4/ddb/a09350.html#afeb889f6cee596b2c2229f86e0a8a3f1", null ]
+    [ "~GridCell", "d4/ddb/a09350.html#a042be8f85e83068d4bb39a0de0618146", null ],
+    [ "AddFarVisibleObject", "d4/ddb/a09350.html#a9a81bdbf151463b4687227df0fa39ece", null ],
+    [ "AddGridObject", "d4/ddb/a09350.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
+    [ "RemoveFarVisibleObject", "d4/ddb/a09350.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
+    [ "Visit", "d4/ddb/a09350.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
+    [ "Visit", "d4/ddb/a09350.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
+    [ "_farVisibleObjects", "d4/ddb/a09350.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
+    [ "_gridObjects", "d4/ddb/a09350.html#ac5a741aebc11124aa228e5107e664335", null ]
 ];

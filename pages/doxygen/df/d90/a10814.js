@@ -1,7 +1,6 @@
 var a10814 =
 [
-    [ "GuildBankTextQueryResult", "df/d90/a10814.html#aa1e25895e246c3a688d7850e517858d3", null ],
-    [ "Write", "df/d90/a10814.html#acb6b28dcf56b821e3c0d5b58f6baa2dd", null ],
-    [ "Tab", "df/d90/a10814.html#abfc5522a0f94086474493db85ed1ef73", null ],
-    [ "Text", "df/d90/a10814.html#ae78c1d1b802e12efd058987117158ec3", null ]
+    [ "PlayedTimeClient", "df/d90/a10814.html#a1c82d4d153606da9887d64599f319883", null ],
+    [ "Read", "df/d90/a10814.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3", null ],
+    [ "TriggerScriptEvent", "df/d90/a10814.html#a092b32f76df529a4f1284d7231b8fc6b", null ]
 ];

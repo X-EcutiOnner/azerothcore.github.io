@@ -1,10 +1,12 @@
 var a17942 =
 [
-    [ "npc_cult_adherentAI", "d7/d51/a17942.html#a1ea249a25b188a949213788614f4049e", null ],
-    [ "JustEngagedWith", "d7/d51/a17942.html#ab97e0177fbc9fc7135dc7a7de0e6e31a", null ],
-    [ "Reset", "d7/d51/a17942.html#ab0b54e45468b5ebed0194c441cce434e", null ],
-    [ "SpellHit", "d7/d51/a17942.html#ab0d83d53a7f0d14cb15e133e426f2f02", null ],
-    [ "UpdateAI", "d7/d51/a17942.html#ad89638cf5859615ba2e3a0deb6701751", null ],
-    [ "_instance", "d7/d51/a17942.html#a970e99fba28d6e3e0cb759c87a866273", null ],
-    [ "events", "d7/d51/a17942.html#aa53025d3fe95086dc0c23d5d563df7c4", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "d7/d51/a17942.html#a4313164857ebd174fe33a9a16340b332", null ],
+    [ "DoAction", "d7/d51/a17942.html#a16eeb7d0ed6c943c088285462131cd51", null ],
+    [ "MovementInform", "d7/d51/a17942.html#a9a2e367f30ee16ca55e634de8e22551e", null ],
+    [ "Reset", "d7/d51/a17942.html#ad5d5a9de05e472d24fe399b4de79a3d0", null ],
+    [ "SpellHit", "d7/d51/a17942.html#a19b42ca678e7bf93c86891b4ea0a2dce", null ],
+    [ "UpdateAI", "d7/d51/a17942.html#a1ae2393871e0f4ebeb86521f06959a7a", null ],
+    [ "_events", "d7/d51/a17942.html#ae7079b335373cc06a040756328e7f714", null ],
+    [ "_guardList", "d7/d51/a17942.html#a1cbd87af34584979b37dfff8b29f9623", null ],
+    [ "_instance", "d7/d51/a17942.html#af1d8694678b10e5393c658ba0b20f47a", null ]
 ];

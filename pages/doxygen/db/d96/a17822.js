@@ -1,8 +1,7 @@
 var a17822 =
 [
-    [ "HandlePeriodic", "db/d96/a17822.html#a5ff571c616b69bb50c736622feb9ed96", null ],
-    [ "HandleRemove", "db/d96/a17822.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
-    [ "PrepareAuraScript", "db/d96/a17822.html#a1b140274e283dd95e28fcb773e30f965", null ],
-    [ "Register", "db/d96/a17822.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
-    [ "Validate", "db/d96/a17822.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
+    [ "HandleDummyTick", "db/d96/a17822.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
+    [ "PrepareAuraScript", "db/d96/a17822.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
+    [ "Register", "db/d96/a17822.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
+    [ "Validate", "db/d96/a17822.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
 ];

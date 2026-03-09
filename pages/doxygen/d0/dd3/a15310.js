@@ -1,9 +1,14 @@
 var a15310 =
 [
-    [ "npc_eye_tentacle", "d0/dd3/a15310.html#a106deeb95d74597377d32e81695dc3c9", null ],
-    [ "JustDied", "d0/dd3/a15310.html#aac965d97034f4f623172297e4f82647e", null ],
-    [ "JustEngagedWith", "d0/dd3/a15310.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
-    [ "Reset", "d0/dd3/a15310.html#a715439dfa31b4cf9df7ddd678d912108", null ],
-    [ "UpdateAI", "d0/dd3/a15310.html#a48f9067f27d61e609a014669c1daedb9", null ],
-    [ "_portalGUID", "d0/dd3/a15310.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
+    [ "npc_cos_stratholme_citizienAI", "d0/dd3/a15310.html#a591aaf16ef5befada12378acfbef9465", null ],
+    [ "DoAction", "d0/dd3/a15310.html#af9d6fa1dfa83a75194797e99ee80ae0e", null ],
+    [ "InfectMe", "d0/dd3/a15310.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b", null ],
+    [ "MoveInLineOfSight", "d0/dd3/a15310.html#ab7a8f6423e12ca0ea9bcb085594013a2", null ],
+    [ "Reset", "d0/dd3/a15310.html#a0dbb5f295aa9061fa3457c9590ea9b10", null ],
+    [ "SpellHit", "d0/dd3/a15310.html#aa8b9a05d3c7d89aa054af919672a69ec", null ],
+    [ "UpdateAI", "d0/dd3/a15310.html#a81a1382493091a99cae1c2bb580a7f32", null ],
+    [ "allowTimer", "d0/dd3/a15310.html#ae92384763b3cfe4a4bc4180d1c404456", null ],
+    [ "changeTimer", "d0/dd3/a15310.html#aa757ab2eef813dceaaad65d84681099b", null ],
+    [ "locked", "d0/dd3/a15310.html#aa644050a5fc0b3cd04573e8b3def87ee", null ],
+    [ "pInstance", "d0/dd3/a15310.html#aadae06c487a7755114f856a835d48c7e", null ]
 ];

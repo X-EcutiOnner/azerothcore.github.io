@@ -1,7 +1,6 @@
 var a13026 =
 [
-    [ "HandleDummy", "d8/dc5/a13026.html#ac2889b1744117f8c0bffcce04952d7c2", null ],
-    [ "PrepareSpellScript", "d8/dc5/a13026.html#a5738144c85424e11f33aada38273e24e", null ],
-    [ "Register", "d8/dc5/a13026.html#a206a4d40e082246193ba36c9080cdac1", null ],
-    [ "Validate", "d8/dc5/a13026.html#a0718461731d563d2c948848f60101d49", null ]
+    [ "bossId", "d8/dc5/a13026.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
+    [ "circleId", "d8/dc5/a13026.html#aaa379e61fda2f7225ab4089757df5d24", null ],
+    [ "runeId", "d8/dc5/a13026.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
 ];

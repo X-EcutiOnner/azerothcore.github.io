@@ -1,9 +1,6 @@
 var a14418 =
 [
-    [ "npc_brew_bubble", "dc/d6b/a14418.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
-    [ "DoAction", "dc/d6b/a14418.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
-    [ "MoveInLineOfSight", "dc/d6b/a14418.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
-    [ "Reset", "dc/d6b/a14418.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
-    [ "UpdateAI", "dc/d6b/a14418.html#a25018deaa206620f6e98ba722f689b8d", null ],
-    [ "timer", "dc/d6b/a14418.html#a4bee73add756ba4b3137818b2dacd27f", null ]
+    [ "OnEffect", "dc/d6b/a14418.html#ab87d53faac04ced3c11088e260782068", null ],
+    [ "PrepareSpellScript", "dc/d6b/a14418.html#af618e8d84029dda5e48b699cbcf671be", null ],
+    [ "Register", "dc/d6b/a14418.html#abcfe54b8901ec3c5e070b3c528ade26e", null ]
 ];

@@ -1,5 +1,5 @@
 var a20686 =
 [
-    [ "achievement_mimiron_firefighter", "dd/da4/a20686.html#ae26c3b2572bc9e3e75fb25537fe46a6c", null ],
-    [ "OnCheck", "dd/da4/a20686.html#a1ebd287ef20c6d367f30b1c30ba68728", null ]
+    [ "npc_ulduar_rocket_strike_trigger", "dd/da4/a20686.html#aeed5dd446c67bba7edac698fe5e237c8", null ],
+    [ "SpellHitTarget", "dd/da4/a20686.html#ad4a438c5143a6de2b469baa28f0893c5", null ]
 ];

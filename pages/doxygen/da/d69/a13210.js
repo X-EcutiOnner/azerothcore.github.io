@@ -1,7 +1,6 @@
 var a13210 =
 [
-    [ "HandleHit", "da/d69/a13210.html#aa06c722fbd75f11fa3ba43c77e68f15f", null ],
-    [ "Load", "da/d69/a13210.html#affe2cd261752db89b1b418eb18a3370c", null ],
-    [ "PrepareSpellScript", "da/d69/a13210.html#a90a11fb3309325c93e7c052e172a0d0b", null ],
-    [ "Register", "da/d69/a13210.html#aaadaf49a3757e78d69ffc32768945d16", null ]
+    [ "HandleCast", "da/d69/a13210.html#aefe0621647cd9e25f19063eb5ce4dd69", null ],
+    [ "PrepareSpellScript", "da/d69/a13210.html#afb4d3414a0da5e2701ee114349cf64ce", null ],
+    [ "Register", "da/d69/a13210.html#a261a63e366c22c6bf2d1d7dfec97c6e2", null ]
 ];

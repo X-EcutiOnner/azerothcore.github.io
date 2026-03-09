@@ -1,8 +1,7 @@
 var a27750 =
 [
-    [ "npc_riggle_bassbaitAI", "d3/d8d/a27754.html", "d3/d8d/a27754" ],
-    [ "npc_riggle_bassbait", "df/d69/a27750.html#afc4280099cda3c28c4634d649e636839", null ],
-    [ "GetAI", "df/d69/a27750.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
-    [ "OnGossipHello", "df/d69/a27750.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
-    [ "OnQuestReward", "df/d69/a27750.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
+    [ "HandleProc", "df/d69/a27750.html#a2a1d6c4a6fdcfbb0ab34769649dbe321", null ],
+    [ "PrepareAuraScript", "df/d69/a27750.html#afa1f4cba7a02cb4a92a67c6e41d3349c", null ],
+    [ "Register", "df/d69/a27750.html#ae3711d9dff0acd196b1fae8e2285fb2a", null ],
+    [ "Validate", "df/d69/a27750.html#a77b31ab1d2952c5d77e8a1ca9cf18405", null ]
 ];

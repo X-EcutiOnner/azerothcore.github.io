@@ -1,6 +1,7 @@
 var a23322 =
 [
-    [ "OnPeriodic", "d9/da0/a23322.html#a769d30c78e4feaa9cc0c581af5264c02", null ],
-    [ "PrepareAuraScript", "d9/da0/a23322.html#a076e4b548de5cad64b7d81ddd8c5194f", null ],
-    [ "Register", "d9/da0/a23322.html#af1c2b7baf0ff7164cafab8f1a53bbb18", null ]
+    [ "HandleScriptEffect", "d9/da0/a23322.html#ad5e905710a20436f120c979c865571c9", null ],
+    [ "PrepareSpellScript", "d9/da0/a23322.html#ab44aa98f47162b50f30622d67ac75395", null ],
+    [ "Register", "d9/da0/a23322.html#ad4c2bf1a8556b6fb85c05d3c83494fed", null ],
+    [ "Validate", "d9/da0/a23322.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2", null ]
 ];

@@ -1,7 +1,6 @@
 var a23254 =
 [
-    [ "PrepareAuraScript", "dd/ded/a23254.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
-    [ "Register", "dd/ded/a23254.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
-    [ "Update", "dd/ded/a23254.html#a3f98767367564734c9877d1870aac31b", null ],
-    [ "Validate", "dd/ded/a23254.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
+    [ "HandleApplyAura", "dd/ded/a23254.html#a4fde347d339f08cd01e2a47883d4b988", null ],
+    [ "PrepareSpellScript", "dd/ded/a23254.html#ab22bd56638a6adc8d111250780221cb9", null ],
+    [ "Register", "dd/ded/a23254.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
 ];

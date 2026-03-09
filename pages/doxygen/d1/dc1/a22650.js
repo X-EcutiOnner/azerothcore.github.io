@@ -1,6 +1,8 @@
 var a22650 =
 [
-    [ "npc_crusade_recruitAI", "da/d9b/a22654.html", "da/d9b/a22654" ],
-    [ "npc_crusade_recruit", "d1/dc1/a22650.html#a6e130f153c506255ef5ece1baf006028", null ],
-    [ "GetAI", "d1/dc1/a22650.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
+    [ "FilterTargets", "d1/dc1/a22650.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
+    [ "HandleDummyHitTarget", "d1/dc1/a22650.html#ae892090a9bd48aa447224c9f96801d37", null ],
+    [ "PrepareSpellScript", "d1/dc1/a22650.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
+    [ "Register", "d1/dc1/a22650.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
+    [ "Validate", "d1/dc1/a22650.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
 ];

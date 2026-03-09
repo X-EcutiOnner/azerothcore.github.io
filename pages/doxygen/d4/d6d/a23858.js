@@ -1,8 +1,8 @@
 var a23858 =
 [
-    [ "npc_warchief_portal", "d4/d6d/a23858.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
-    [ "JustSummoned", "d4/d6d/a23858.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
-    [ "SetData", "d4/d6d/a23858.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
-    [ "UpdateAI", "d4/d6d/a23858.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
-    [ "_scheduler", "d4/d6d/a23858.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
+    [ "HandleScriptEffect", "d4/d6d/a23858.html#a7cde39fc0844f19604c8026a853e8216", null ],
+    [ "Load", "d4/d6d/a23858.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
+    [ "PrepareSpellScript", "d4/d6d/a23858.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
+    [ "Register", "d4/d6d/a23858.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
+    [ "_currentSpellId", "d4/d6d/a23858.html#a0ad25535ba345fe9672150af67687305", null ]
 ];

@@ -1,7 +1,7 @@
 var a23842 =
 [
-    [ "FilterTargets", "db/d29/a23842.html#a834163302ff10875227806d7d4945988", null ],
-    [ "HandleScriptEffect", "db/d29/a23842.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
-    [ "PrepareSpellScript", "db/d29/a23842.html#a079e72d57550e03956088b4be1d11422", null ],
-    [ "Register", "db/d29/a23842.html#abd4e0f268652652d3828ba8d350de849", null ]
+    [ "HandleEffect", "db/d29/a23842.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
+    [ "PrepareSpellScript", "db/d29/a23842.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
+    [ "Register", "db/d29/a23842.html#ac406946bb793125d49006e3a877c9638", null ],
+    [ "SelectTarget", "db/d29/a23842.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
 ];

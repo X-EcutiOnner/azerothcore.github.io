@@ -1,7 +1,5 @@
 var a20434 =
 [
-    [ "HandleAfterEffectApply", "d6/d5b/a20434.html#adab765d78094eec673abce5140145267", null ],
-    [ "OnApply", "d6/d5b/a20434.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
-    [ "PrepareAuraScript", "d6/d5b/a20434.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
-    [ "Register", "d6/d5b/a20434.html#ac1007ce2ee5e046639829558855f0188", null ]
+    [ "achievement_shadowdodger", "d6/d5b/a20434.html#a8389a4972968fcc6cd7807e96ee5e527", null ],
+    [ "OnCheck", "d6/d5b/a20434.html#a3ee0baca0c9163a601cd4bcfa9ebeb04", null ]
 ];

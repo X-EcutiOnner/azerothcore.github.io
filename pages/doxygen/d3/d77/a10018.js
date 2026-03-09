@@ -1,17 +1,8 @@
 var a10018 =
 [
-    [ "FleeingMovementGenerator", "d3/d77/a10018.html#a84808dc91baadc114a6c283dd0ba6caa", null ],
-    [ "DoFinalize", "d3/d77/a10018.html#a89dd4d270b35e855c268374d8bfc3ebb", null ],
-    [ "DoFinalize", "d3/d77/a10018.html#a693ec24e9d51ea0f63d15e1c07afdb2d", null ],
-    [ "DoInitialize", "d3/d77/a10018.html#adeb978816b67ec9542ccd131da1403be", null ],
-    [ "DoReset", "d3/d77/a10018.html#a0e84bc32b599040c7f8ed9cdf92679e8", null ],
-    [ "DoUpdate", "d3/d77/a10018.html#ad78ed87cc8d2569a2744ef43957ba498", null ],
-    [ "GetMovementGeneratorType", "d3/d77/a10018.html#aa739940493313028f17d306c1b23da52", null ],
-    [ "GetPoint", "d3/d77/a10018.html#a77d3ae9533947a538220f9340ed7a907", null ],
-    [ "SetTargetLocation", "d3/d77/a10018.html#ab0e0f55df28f7cbcf108191e1e129634", null ],
-    [ "_fleeTargetGUID", "d3/d77/a10018.html#ade625570dc07a778a2089c986fac38f7", null ],
-    [ "_interrupt", "d3/d77/a10018.html#a1b71b8e2f29109b5dee1e1661d54f74a", null ],
-    [ "_invalidPathsCount", "d3/d77/a10018.html#a56cbd33bf6cd8152f4586b2298c8fdf8", null ],
-    [ "_path", "d3/d77/a10018.html#a4955c5c4b2d18c11da2b9d2a75524c16", null ],
-    [ "_timer", "d3/d77/a10018.html#a33bbc20fc564b7166965ca2f8e9b9211", null ]
+    [ "ServerMailCondition", "d3/d77/a10018.html#a2ee7d2f3587159c95883fe32674cb586", null ],
+    [ "CheckCondition", "d3/d77/a10018.html#a3c223658629357f05d8879555717f624", null ],
+    [ "state", "d3/d77/a10018.html#a309f739872afaf644331335b27649561", null ],
+    [ "type", "d3/d77/a10018.html#a3b318e7743ca48fcf8ba849398a06968", null ],
+    [ "value", "d3/d77/a10018.html#af709199aed99633cc70d9118ee4fd4fc", null ]
 ];

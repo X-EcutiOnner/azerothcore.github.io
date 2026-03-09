@@ -1,7 +1,6 @@
 var a16002 =
 [
-    [ "HandleDummy", "da/d8a/a16002.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
-    [ "PrepareSpellScript", "da/d8a/a16002.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
-    [ "Register", "da/d8a/a16002.html#a4359ad73b513a368509a066a039ddf53", null ],
-    [ "_targetCount", "da/d8a/a16002.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
+    [ "npc_bunthen_plainswind", "da/d8a/a16002.html#ad9b789ad3e958dee4733b142813b6302", null ],
+    [ "OnGossipHello", "da/d8a/a16002.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
+    [ "OnGossipSelect", "da/d8a/a16002.html#a117f28d513ac645b9d3d908d052d2146", null ]
 ];

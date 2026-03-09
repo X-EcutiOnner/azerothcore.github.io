@@ -1,7 +1,8 @@
 var a09670 =
 [
-    [ "InstancePlayerBind", "d7/d67/a09670.html#abc20bba094d04eb724d03b8290102981", null ],
-    [ "extended", "d7/d67/a09670.html#a9327f62b74eea3a1a525b2fec6d90b69", null ],
-    [ "perm", "d7/d67/a09670.html#ab35249eb791941b484ecc321b1102b24", null ],
-    [ "save", "d7/d67/a09670.html#a24ef1e0e0a38033a16b697c32e3d8234", null ]
+    [ "NearestHostileUnitInAttackDistanceCheck", "d7/d67/a09670.html#a0b1d14f1347a3749a91ef6e888ccb23e", null ],
+    [ "NearestHostileUnitInAttackDistanceCheck", "d7/d67/a09670.html#a5645c9808db082b0301ec8b2ea93ce7f", null ],
+    [ "operator()", "d7/d67/a09670.html#adc28281742cd1f6a49152481b48f944e", null ],
+    [ "m_range", "d7/d67/a09670.html#ab79296a88ed07257edbe3449c2515b40", null ],
+    [ "me", "d7/d67/a09670.html#a298d2489b9bf30aa510407afca79a374", null ]
 ];

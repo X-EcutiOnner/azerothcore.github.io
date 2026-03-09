@@ -1,6 +1,7 @@
 var a10822 =
 [
-    [ "GuildSetGuildMaster", "db/d67/a10822.html#ae6ca07252de719cc506042c8d3e8285e", null ],
-    [ "Read", "db/d67/a10822.html#a94f16e55a840c7cba991a119af5d8263", null ],
-    [ "NewMasterName", "db/d67/a10822.html#a02f37610492c75373266bb93000adcbf", null ]
+    [ "Emote", "db/d67/a10822.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
+    [ "Write", "db/d67/a10822.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
+    [ "EmoteID", "db/d67/a10822.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
+    [ "Guid", "db/d67/a10822.html#ab96a1c0933e90872f54eb0995098274a", null ]
 ];

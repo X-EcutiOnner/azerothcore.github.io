@@ -1,6 +1,7 @@
 var a22378 =
 [
-    [ "npc_jungle_punch_targetAI", "db/d65/a22382.html", "db/d65/a22382" ],
-    [ "npc_jungle_punch_target", "d8/dcf/a22378.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
-    [ "GetAI", "d8/dcf/a22378.html#abb38ccb55abfe0f48f360469031c6902", null ]
+    [ "npc_wg_siege_machineAI", "d8/dcf/a22378.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
+    [ "CanControlVehicle", "d8/dcf/a22378.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
+    [ "UpdateAI", "d8/dcf/a22378.html#a8ddd21047a857facc767a9edc0ec5408", null ],
+    [ "checkTimer", "d8/dcf/a22378.html#abf4b06eae50adeefedba02e2186ea48a", null ]
 ];

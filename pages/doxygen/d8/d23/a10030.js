@@ -1,15 +1,14 @@
 var a10030 =
 [
-    [ "HomeMovementGenerator", "d8/d23/a10030.html#af52495a86296d288d2312bf8616108d0", null ],
-    [ "~HomeMovementGenerator", "d8/d23/a10030.html#a9d889b5112f6c93a0707227fc65dd902", null ],
-    [ "_setTargetLocation", "d8/d23/a10030.html#a7ac3be92303b77b640c7199ec65184dd", null ],
-    [ "DoFinalize", "d8/d23/a10030.html#ab1ce2df22dba7759ca28a77532a17db1", null ],
-    [ "DoInitialize", "d8/d23/a10030.html#aaa6f7b1aa064be00a726539830d6c30e", null ],
-    [ "DoReset", "d8/d23/a10030.html#acfebf75bcd7cc62c1b0105eb0c5e9100", null ],
-    [ "DoUpdate", "d8/d23/a10030.html#a4e3c1f79f8115312f22612a4b8c6fede", null ],
-    [ "GetMovementGeneratorType", "d8/d23/a10030.html#aaa203c37c8259c8b54ad5ec70db484f1", null ],
-    [ "unitSpeedChanged", "d8/d23/a10030.html#ac5078f624899e574a7b56b72e2824b9a", null ],
-    [ "_walk", "d8/d23/a10030.html#a97f3cd9b1c5919ffe9ab979d8ad4e747", null ],
-    [ "arrived", "d8/d23/a10030.html#aab9cd0057a625afef2d96feebd6428fb", null ],
-    [ "i_recalculateTravel", "d8/d23/a10030.html#a77b40bcbada8ea43accae23ceb642628", null ]
+    [ "ServerMailMgr", "d8/d23/a10030.html#aeec2235e9dd9b36b868634d850f02a5b", null ],
+    [ "~ServerMailMgr", "d8/d23/a10030.html#adba54af38e90ecae21e79835910ba195", null ],
+    [ "ConditionTypeUsesConditionState", "d8/d23/a10030.html#a2e7a8cdc7ebdb51204823fd30a0449b3", null ],
+    [ "GetAllServerMailStore", "d8/d23/a10030.html#acb4521f696c6f11c977dc9d8b76e0c16", null ],
+    [ "GetServerMailConditionType", "d8/d23/a10030.html#a57f8aea4b5bb15ff77b9ebd8e65e8092", null ],
+    [ "instance", "d8/d23/a10030.html#abc85cb07f717384fac09f4e2b0f59af1", null ],
+    [ "LoadMailServerTemplates", "d8/d23/a10030.html#a1a01dd7a8e5c45bc7c97203e4a04a768", null ],
+    [ "LoadMailServerTemplatesConditions", "d8/d23/a10030.html#a6bb75bdb34a25dd01fdc7e81b4e9b897", null ],
+    [ "LoadMailServerTemplatesItems", "d8/d23/a10030.html#a49aea924f27804d21fbe06e72e159df3", null ],
+    [ "SendServerMail", "d8/d23/a10030.html#af615430a40e9ddfff49bc338b31d6c1b", null ],
+    [ "_serverMailStore", "d8/d23/a10030.html#a96ae3a78694ca97d112c5d92884f2415", null ]
 ];

@@ -1,7 +1,7 @@
 var a26270 =
 [
-    [ "AfterRemove", "db/d7e/a26270.html#a9dc5ef5c5545fc382e221ca9473ac3bd", null ],
-    [ "PrepareAuraScript", "db/d7e/a26270.html#a0fd3e297a66df888f6e30f93b9f60947", null ],
-    [ "Register", "db/d7e/a26270.html#a2b1872fa0342e0f530b61fc7a5bf876b", null ],
-    [ "Validate", "db/d7e/a26270.html#ae08f33e0271166afa87208faa30684c4", null ]
+    [ "HandleProc", "db/d7e/a26270.html#a682a80e8abf8c7dc94921389eb0a15b1", null ],
+    [ "PrepareAuraScript", "db/d7e/a26270.html#af0d99e25521ece82c1179ec033ba4216", null ],
+    [ "Register", "db/d7e/a26270.html#a6ad6a77042b9a48b5017980b2fddefce", null ],
+    [ "Validate", "db/d7e/a26270.html#a147bfdbb7339eb47989f84ed6be86862", null ]
 ];

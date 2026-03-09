@@ -1,6 +1,6 @@
 var a25818 =
 [
-    [ "PrepareSpellScript", "d9/dc7/a25818.html#a72e57e8a4bdb9a4fcd73e3519b6025ea", null ],
-    [ "Register", "d9/dc7/a25818.html#aac4d3c8ecde3652c65c05abad5c8eaeb", null ],
-    [ "SelectTarget", "d9/dc7/a25818.html#a3153b6c6814922cd7220e19b06f2a602", null ]
+    [ "OnBaseRemove", "d9/dc7/a25818.html#aa6d10399bba721ff7a3651508fcdf449", null ],
+    [ "PrepareAuraScript", "d9/dc7/a25818.html#a34ad4890c7ce30427537e36980057e57", null ],
+    [ "Register", "d9/dc7/a25818.html#a713e694cad6f1cf533d45f5d633da36e", null ]
 ];

@@ -1,8 +1,12 @@
 var a14822 =
 [
-    [ "npc_doomfire_spirit", "d6/d1c/a14822.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
-    [ "Reset", "d6/d1c/a14822.html#a0600718fad91723eba74b903583c5942", null ],
-    [ "TryTeleportInDirection", "d6/d1c/a14822.html#a7fc48df636df66a006a8179fd63e2a65", null ],
-    [ "UpdateAI", "d6/d1c/a14822.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
-    [ "turnConstant", "d6/d1c/a14822.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
+    [ "npc_alexstraza_the_lifebinder", "d6/d1c/a14822.html#a7c30258540803bde75843cb070b6a288", null ],
+    [ "MoveInLineOfSight", "d6/d1c/a14822.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
+    [ "Reset", "d6/d1c/a14822.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
+    [ "SetData", "d6/d1c/a14822.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
+    [ "UpdateAI", "d6/d1c/a14822.html#ad13b21d571833210b1c069b7ea8bea05", null ],
+    [ "orphanGUID", "d6/d1c/a14822.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
+    [ "phase", "d6/d1c/a14822.html#a98216e43888854ac93f22169a0e253e5", null ],
+    [ "playerGUID", "d6/d1c/a14822.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
+    [ "timer", "d6/d1c/a14822.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
 ];

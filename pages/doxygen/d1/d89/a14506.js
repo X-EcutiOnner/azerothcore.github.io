@@ -1,5 +1,5 @@
 var a14506 =
 [
-    [ "at_bring_your_orphan_to", "d1/d89/a14506.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
-    [ "OnTrigger", "d1/d89/a14506.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
+    [ "at_zulgurub_temple_speech", "d1/d89/a14506.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
+    [ "_OnTrigger", "d1/d89/a14506.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
 ];

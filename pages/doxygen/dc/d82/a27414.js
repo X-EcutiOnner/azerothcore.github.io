@@ -1,9 +1,6 @@
 var a27414 =
 [
-    [ "ChatLogScript", "dc/d82/a27414.html#ade8c407083cf094f0767412e7b6d7730", null ],
-    [ "OnPlayerCanUseChat", "dc/d82/a27414.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
-    [ "OnPlayerCanUseChat", "dc/d82/a27414.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
-    [ "OnPlayerCanUseChat", "dc/d82/a27414.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
-    [ "OnPlayerCanUseChat", "dc/d82/a27414.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
-    [ "OnPlayerCanUseChat", "dc/d82/a27414.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
+    [ "CheckCast", "dc/d82/a27414.html#aecbecbd753b8ed32d51971a090063ef4", null ],
+    [ "PrepareSpellScript", "dc/d82/a27414.html#a0efb319154edb2c798460de72d6a56ed", null ],
+    [ "Register", "dc/d82/a27414.html#acd6ecb0204dd369c410e465551328f56", null ]
 ];

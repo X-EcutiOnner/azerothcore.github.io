@@ -1,17 +1,13 @@
 var a15694 =
 [
-    [ "npc_clintar_spiritAI", "d4/d34/a15694.html#ab64c9da6af7246e1665a5264a26d75ab", null ],
-    [ "EnterEvadeMode", "d4/d34/a15694.html#a2ccffe81e2bd7cddcab10746bc9311bf", null ],
-    [ "IsSummonedBy", "d4/d34/a15694.html#af55bc32b17bfd45968e668c5591325ae", null ],
-    [ "JustDied", "d4/d34/a15694.html#a4e90511d9daf0545f0fee471f3ab0d5e", null ],
-    [ "Reset", "d4/d34/a15694.html#afd59b5e50deb65f7175138272f439740", null ],
-    [ "StartEvent", "d4/d34/a15694.html#ae3bbfd8374bf667d4eeb26e047ee2186", null ],
-    [ "UpdateAI", "d4/d34/a15694.html#a4b780f14cb2aa08c06e39a58501a21fe", null ],
-    [ "WaypointReached", "d4/d34/a15694.html#a98315f3202daaac261a1e7f0222b01c5", null ],
-    [ "checkPlayerTimer", "d4/d34/a15694.html#a10165a369bb8a7775050ae425cb94123", null ],
-    [ "CurrWP", "d4/d34/a15694.html#ae3b4588a2dfd337ffc71456652fa136f", null ],
-    [ "EventOnWait", "d4/d34/a15694.html#a7473dff3417d3e7510bc4fb7acbeb494", null ],
-    [ "EventTimer", "d4/d34/a15694.html#a27b0a90757df63df276b1e26bfbaba83", null ],
-    [ "PlayerGUID", "d4/d34/a15694.html#ad721852353215d46bc623efca358981f", null ],
-    [ "Step", "d4/d34/a15694.html#af9b65e2de0dcce5844fbc642b32f5a3f", null ]
+    [ "boss_sartura", "d4/d34/a15694.html#a7faaf16a1a56badd1e65a3364d425f02", null ],
+    [ "DamageTaken", "d4/d34/a15694.html#a9a404743ac8491a9efc7091259706e0f", null ],
+    [ "InitializeAI", "d4/d34/a15694.html#ae86d0a6b0cd591b3bb18333195109c22", null ],
+    [ "JustDied", "d4/d34/a15694.html#aceff44022b8d53da41ecfcb1e2317e01", null ],
+    [ "JustEngagedWith", "d4/d34/a15694.html#ab1c024908117e8460eb89c062d3825dc", null ],
+    [ "KilledUnit", "d4/d34/a15694.html#a516a75910e872718a519c2a5c9805770", null ],
+    [ "Reset", "d4/d34/a15694.html#ab3514ad48f622f65d67063723601f8de", null ],
+    [ "UpdateAI", "d4/d34/a15694.html#af3d093dab3f5191d5da2df36ca9c4a11", null ],
+    [ "berserked", "d4/d34/a15694.html#a8ad40cee9667500cb0e9533256d216c6", null ],
+    [ "enraged", "d4/d34/a15694.html#af916ff3f6468b1e48d5b1944442594e5", null ]
 ];

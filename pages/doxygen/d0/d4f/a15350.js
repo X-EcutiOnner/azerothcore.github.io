@@ -1,6 +1,7 @@
 var a15350 =
 [
-    [ "OnRemove", "d0/d4f/a15350.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
-    [ "PrepareAuraScript", "d0/d4f/a15350.html#a47849d8241ed17ad0fb541c1178b0760", null ],
-    [ "Register", "d0/d4f/a15350.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
+    [ "npc_tarethaAI", "d5/d31/a15354.html", "d5/d31/a15354" ],
+    [ "npc_taretha", "d0/d4f/a15350.html#a54379e06518ff972e91e25e295731f5a", null ],
+    [ "GetAI", "d0/d4f/a15350.html#a5045bb7119b12800ee0053818fcae5fe", null ],
+    [ "OnGossipHello", "d0/d4f/a15350.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
 ];

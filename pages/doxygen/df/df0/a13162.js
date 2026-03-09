@@ -1,7 +1,19 @@
 var a13162 =
 [
-    [ "HandleEffectApply", "df/df0/a13162.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "df/df0/a13162.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "df/df0/a13162.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "df/df0/a13162.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "boss_malchezaar", "df/df0/a13162.html#a68adb0f05177316f9e39a48669f60829", null ],
+    [ "clearweapons", "df/df0/a13162.html#a354e07cb1f9ae86d96d07cb80f911474", null ],
+    [ "EnfeebleResetHealth", "df/df0/a13162.html#a7fcaec7c991f9d6df816aef650e53855", null ],
+    [ "Initialize", "df/df0/a13162.html#a1b48e2c117ac4c60f11310e43d34264b", null ],
+    [ "JustDied", "df/df0/a13162.html#aee066b4a67c61ae70fc487adf0be00e0", null ],
+    [ "JustEngagedWith", "df/df0/a13162.html#a5cfd1284c572f72ecde9d9ad94922d2b", null ],
+    [ "KilledUnit", "df/df0/a13162.html#a0d91be1d9ad3a0876bec8b694edd44be", null ],
+    [ "MaxSpawns", "df/df0/a13162.html#a25ef9558fcccee430ef92703af903d91", null ],
+    [ "PickTarget", "df/df0/a13162.html#a2c825f7f116891601ef2c3809c7db15c", null ],
+    [ "Reset", "df/df0/a13162.html#a72b54fd786c064114df3b8a09835e841", null ],
+    [ "SpawnInfernal", "df/df0/a13162.html#a58d1823940988f6f55aec8a5da44fd54", null ],
+    [ "SpellHitTarget", "df/df0/a13162.html#a9eb75b54ea480b38590695635a9cb4fe", null ],
+    [ "_enfeebleTargets", "df/df0/a13162.html#adc405cdbcc17eabade5794a7801c5323", null ],
+    [ "_phase", "df/df0/a13162.html#a94be6cf7bb8cd7857fe82638d0d0e853", null ],
+    [ "infernalTargets", "df/df0/a13162.html#a55b8c2dd25af193e078fdb0315863783", null ],
+    [ "relays", "df/df0/a13162.html#a7695c12779ada381cb04085dcf8dbb2c", null ]
 ];

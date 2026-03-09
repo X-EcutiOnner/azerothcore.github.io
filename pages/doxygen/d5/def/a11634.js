@@ -1,7 +1,6 @@
 var a11634 =
 [
-    [ "StringTransaction", "d5/def/a11634.html#aef82d603733e7cb0636d95abea9e6cdc", null ],
-    [ "Append", "d5/def/a11634.html#a0d1d9db61a1b3658c3d0fde37e2a4c5e", null ],
-    [ "GetBuffer", "d5/def/a11634.html#a7cb52c3e029cdb971dfbb4048ade25a0", null ],
-    [ "_buf", "d5/def/a11634.html#a4ec7dd27d7a2321cd1cead11ca78c1ef", null ]
+    [ "WorldObjectSpellConeTargetCheck", "d5/def/a11634.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
+    [ "operator()", "d5/def/a11634.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
+    [ "_coneAngle", "d5/def/a11634.html#a8f946789292320ea8b205dec5d1e1975", null ]
 ];

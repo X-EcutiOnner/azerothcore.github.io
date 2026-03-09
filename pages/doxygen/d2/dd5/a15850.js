@@ -1,7 +1,5 @@
 var a15850 =
 [
-    [ "npc_wizzlecrank_shredderAI", "dc/d45/a15854.html", "dc/d45/a15854" ],
-    [ "npc_wizzlecrank_shredder", "d2/dd5/a15850.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
-    [ "GetAI", "d2/dd5/a15850.html#a5c42cc6d8cf2642333731138077af66e", null ],
-    [ "OnQuestAccept", "d2/dd5/a15850.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
+    [ "go_ravager_cage", "d2/dd5/a15850.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
+    [ "OnGossipHello", "d2/dd5/a15850.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
 ];

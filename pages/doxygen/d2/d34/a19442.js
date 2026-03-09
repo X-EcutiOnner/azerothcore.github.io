@@ -1,6 +1,10 @@
 var a19442 =
 [
-    [ "npc_nexus_lordAI", "d4/dd0/a19446.html", "d4/dd0/a19446" ],
-    [ "npc_nexus_lord", "d2/d34/a19442.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
-    [ "GetAI", "d2/d34/a19442.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
+    [ "boss_isle_of_conquestAI", "d2/d34/a19442.html#a7880ea86e7a03f5b14875065a83a206a", null ],
+    [ "CheckRageBuff", "d2/d34/a19442.html#a6d60480e39fa89dbcc0facce9f0b69a3", null ],
+    [ "JustEngagedWith", "d2/d34/a19442.html#a878635ef0673325943e6026ad76c2b06", null ],
+    [ "Reset", "d2/d34/a19442.html#add59669e5f6c3c882ac008c720349573", null ],
+    [ "UpdateAI", "d2/d34/a19442.html#ab33aa7e735c5837428a4cf2b76e4275e", null ],
+    [ "events", "d2/d34/a19442.html#a38e308b66b0f35d3efe6916b03e4391c", null ],
+    [ "rage", "d2/d34/a19442.html#aa16ebdd6e2f486d3a6e4b58f4cb5e696", null ]
 ];

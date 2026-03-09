@@ -1,11 +1,6 @@
 var a17042 =
 [
-    [ "npc_hor_leaderAI", "d3/d91/a17042.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
-    [ "DoAction", "d3/d91/a17042.html#a610700732a6cc197a40106adef654a62", null ],
-    [ "Reset", "d3/d91/a17042.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
-    [ "UpdateAI", "d3/d91/a17042.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
-    [ "events", "d3/d91/a17042.html#a94128223bddd84b8a678e49f3189cb75", null ],
-    [ "first", "d3/d91/a17042.html#add878d336fa7e20bee4d05ac0383dd0a", null ],
-    [ "pInstance", "d3/d91/a17042.html#a8dd77a92b151acad640f1272acf0b65f", null ],
-    [ "shortver", "d3/d91/a17042.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
+    [ "npc_fel_infernalAI", "d8/d97/a17046.html", "d8/d97/a17046" ],
+    [ "npc_fel_infernal", "d3/d91/a17042.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
+    [ "GetAI", "d3/d91/a17042.html#a768201a7516c9972800c941cf2079a11", null ]
 ];

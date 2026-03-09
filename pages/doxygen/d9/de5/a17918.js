@@ -1,6 +1,7 @@
 var a17918 =
 [
-    [ "DaranavanMoveEvent", "d9/de5/a17918.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
-    [ "Execute", "d9/de5/a17918.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
-    [ "_darnavan", "d9/de5/a17918.html#a7585edb957755efbc6064f232d50ea4e", null ]
+    [ "achievement_once_bitten_twice_shy", "d9/de5/a17918.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
+    [ "OnCheck", "d9/de5/a17918.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
+    [ "_spawnMode", "d9/de5/a17918.html#a6f02f5ab07143ddff553279049714902", null ],
+    [ "_wasVampire", "d9/de5/a17918.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
 ];

@@ -1,6 +1,6 @@
 var a14334 =
 [
-    [ "boss_wushoolayAI", "dc/d1b/a14338.html", "dc/d1b/a14338" ],
-    [ "boss_wushoolay", "dd/d42/a14334.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
-    [ "GetAI", "dd/d42/a14334.html#a70b476358956fd05d6effb75517e2b3d", null ]
+    [ "cooldown", "dd/d42/a14334.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
+    [ "spell", "dd/d42/a14334.html#a00ee3238030686e1cc66562f7cefb27a", null ],
+    [ "target", "dd/d42/a14334.html#a16e54dbd059baac1b6e7229621339d83", null ]
 ];

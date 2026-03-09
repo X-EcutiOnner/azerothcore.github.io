@@ -1,11 +1,11 @@
 var a14494 =
 [
-    [ "npc_elder_kekek", "d8/df0/a14494.html#a6084af39be5c70699c9fdcf3cd58e954", null ],
-    [ "MoveInLineOfSight", "d8/df0/a14494.html#a0c673e4fdf8e75d3bc8570db166bcd95", null ],
-    [ "Reset", "d8/df0/a14494.html#a97e615bdefba5baf459960fc2987cd69", null ],
-    [ "UpdateAI", "d8/df0/a14494.html#a5823bc7164d797c40d48b9b74642d9b5", null ],
-    [ "orphanGUID", "d8/df0/a14494.html#a98c79e46e051c35819c6025828a519cb", null ],
-    [ "phase", "d8/df0/a14494.html#a99fd9d984f92d5ba8b5876675855d4f6", null ],
-    [ "playerGUID", "d8/df0/a14494.html#a614ed3332f4af3c5178aa69da968a3d3", null ],
-    [ "timer", "d8/df0/a14494.html#a445c048d8858f5dc7c1e88308ed7e5ab", null ]
+    [ "boss_hakkarAI", "d8/df0/a14494.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
+    [ "ApplyHakkarPowerStacks", "d8/df0/a14494.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
+    [ "CheckInRoom", "d8/df0/a14494.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
+    [ "EnterEvadeMode", "d8/df0/a14494.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
+    [ "JustDied", "d8/df0/a14494.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
+    [ "JustEngagedWith", "d8/df0/a14494.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
+    [ "Reset", "d8/df0/a14494.html#a52db5743c09088e2e9f1aff1513960f2", null ],
+    [ "UpdateAI", "d8/df0/a14494.html#a1119212465bcf293991d7a520c6ffe42", null ]
 ];

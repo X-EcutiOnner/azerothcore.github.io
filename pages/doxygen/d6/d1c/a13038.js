@@ -1,6 +1,6 @@
 var a13038 =
 [
-    [ "HandleAfterCast", "d6/d1c/a13038.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
-    [ "PrepareSpellScript", "d6/d1c/a13038.html#aa0956db2d03405a54893bc30516f5839", null ],
-    [ "Register", "d6/d1c/a13038.html#a45726adacf1d30b5488df54f57447c0c", null ]
+    [ "npc_mc_core_houndAI", "d1/d78/a13042.html", "d1/d78/a13042" ],
+    [ "npc_mc_core_hound", "d6/d1c/a13038.html#aee1ef71447dbd1494de5e0065bd5ae78", null ],
+    [ "GetAI", "d6/d1c/a13038.html#a3aa8c5332b509b4d5498cd726ab47e40", null ]
 ];

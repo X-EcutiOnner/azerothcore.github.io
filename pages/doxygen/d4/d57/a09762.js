@@ -1,6 +1,7 @@
 var a09762 =
 [
-    [ "LootValidatorRef", "d4/d57/a09762.html#acce3ced73583bf8dbf04232cddd6ebd8", null ],
-    [ "sourceObjectDestroyLink", "d4/d57/a09762.html#a8833022cf1acf786c06f1580fbe11c24", null ],
-    [ "targetObjectDestroyLink", "d4/d57/a09762.html#a93baac45dcb801215c28ac0dba097eba", null ]
+    [ "PowerCheck", "d4/d57/a09762.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
+    [ "operator()", "d4/d57/a09762.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
+    [ "_equals", "d4/d57/a09762.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
+    [ "_power", "d4/d57/a09762.html#a922a57b62b4289835b539a69b0f58fa1", null ]
 ];

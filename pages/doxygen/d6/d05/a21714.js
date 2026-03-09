@@ -1,7 +1,6 @@
 var a21714 =
 [
-    [ "HandleScriptEffect", "d6/d05/a21714.html#a23d220613a4133e01fb3d7cbacb3aa1c", null ],
-    [ "PrepareSpellScript", "d6/d05/a21714.html#a73b5af95ee4f593337c3803574d190db", null ],
-    [ "Register", "d6/d05/a21714.html#a930de2343532feb50b86304f32269e4c", null ],
-    [ "Validate", "d6/d05/a21714.html#ae9bfedf7e89487217ad927459e259c04", null ]
+    [ "npc_conversing_with_the_depths_triggerAI", "d8/d88/a21718.html", "d8/d88/a21718" ],
+    [ "npc_conversing_with_the_depths_trigger", "d6/d05/a21714.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
+    [ "GetAI", "d6/d05/a21714.html#a61c337bfe1efb3589cf0df91d9082236", null ]
 ];

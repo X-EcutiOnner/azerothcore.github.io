@@ -1,13 +1,5 @@
 var a29042 =
 [
-    [ "liquidTris", "d8/d2d/a29042.html#ad166656bfa449d3093cb23e7bef2cc76", null ],
-    [ "liquidType", "d8/d2d/a29042.html#afbbb20fcb4e597c2addcc47893a33f92", null ],
-    [ "liquidVerts", "d8/d2d/a29042.html#a52796933ab018f27d12f625673f7f8a9", null ],
-    [ "offMeshConnectionDirs", "d8/d2d/a29042.html#a58350c36d5b88fe255880f6c217d4ef9", null ],
-    [ "offMeshConnectionRads", "d8/d2d/a29042.html#a56bbdeb5028302de0c5eb5a02cffa44c", null ],
-    [ "offMeshConnections", "d8/d2d/a29042.html#a706feac90bb398da61296bac9d0b7176", null ],
-    [ "offMeshConnectionsAreas", "d8/d2d/a29042.html#af5af113433bb2776e6735195e57ab6f7", null ],
-    [ "offMeshConnectionsFlags", "d8/d2d/a29042.html#a8c819b625f1bb0b21bb756144b2e1266", null ],
-    [ "solidTris", "d8/d2d/a29042.html#adb04d376bfa182cf9666689e6c5a7c68", null ],
-    [ "solidVerts", "d8/d2d/a29042.html#a915387c2cfa7111de4a957646a2aace4", null ]
+    [ "ID", "d8/d2d/a29042.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
+    [ "price", "d8/d2d/a29042.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
 ];

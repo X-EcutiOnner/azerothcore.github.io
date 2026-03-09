@@ -1,11 +1,6 @@
 var a08794 =
 [
-    [ "SpellPeriodicAuraLogInfo", "d4/dbe/a08794.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
-    [ "absorb", "d4/dbe/a08794.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
-    [ "auraEff", "d4/dbe/a08794.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
-    [ "critical", "d4/dbe/a08794.html#a51041b901727b4f595d2a886520626ff", null ],
-    [ "damage", "d4/dbe/a08794.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
-    [ "multiplier", "d4/dbe/a08794.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
-    [ "overDamage", "d4/dbe/a08794.html#a51904be3790c99bded697b2cf7c8db23", null ],
-    [ "resist", "d4/dbe/a08794.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
+    [ "PlayerCreateInfoItem", "d4/dbe/a08794.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
+    [ "item_amount", "d4/dbe/a08794.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
+    [ "item_id", "d4/dbe/a08794.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
 ];

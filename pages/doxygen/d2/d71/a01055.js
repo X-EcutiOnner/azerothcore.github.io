@@ -1,4 +1,4 @@
 var a01055 =
 [
-    [ "ConditionScript", "d3/d24/a10528.html", "d3/d24/a10528" ]
+    [ "ScriptRegistry< GameObjectScript >", "d2/d71/a01055.html#ae9014c60529a1387cccce404773fd736", null ]
 ];

@@ -1,9 +1,8 @@
 var a08862 =
 [
-    [ "TransportBase", "d2/d23/a08862.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
-    [ "~TransportBase", "d2/d23/a08862.html#a81dca3435a1a1666a90acd8e154e3287", null ],
-    [ "CalculatePassengerOffset", "d2/d23/a08862.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
-    [ "CalculatePassengerOffset", "d2/d23/a08862.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
-    [ "CalculatePassengerPosition", "d2/d23/a08862.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
-    [ "CalculatePassengerPosition", "d2/d23/a08862.html#a328fbc464c56eca89138380182a0108c", null ]
+    [ "checkLeaderOnly", "d2/d23/a08862.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
+    [ "faction", "d2/d23/a08862.html#a23c649e494795b27856b67225370a820", null ],
+    [ "id", "d2/d23/a08862.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
+    [ "note", "d2/d23/a08862.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
+    [ "priority", "d2/d23/a08862.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
 ];

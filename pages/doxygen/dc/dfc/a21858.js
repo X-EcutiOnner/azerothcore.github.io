@@ -1,9 +1,14 @@
 var a21858 =
 [
-    [ "npc_archmage_landalockAI", "dc/dfc/a21858.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
-    [ "GetImageEntry", "dc/dfc/a21858.html#ae09841969253c0baf72cc235b6fa058e", null ],
-    [ "JustSummoned", "dc/dfc/a21858.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
-    [ "UpdateAI", "dc/dfc/a21858.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
-    [ "_summonGUID", "dc/dfc/a21858.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
-    [ "_switchImageTimer", "dc/dfc/a21858.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "dc/dfc/a21858.html#a84beab3be0d7e5d5d3674a57b1928f09", null ],
+    [ "ChangeImage", "dc/dfc/a21858.html#a815e5c67b282e2840676b5453d94d5dc", null ],
+    [ "MovementInform", "dc/dfc/a21858.html#a2ed09d31771e9c225d8d8b40ba8f0f82", null ],
+    [ "Reset", "dc/dfc/a21858.html#a71410a3e3e5134311bf7bc2ef3051eb3", null ],
+    [ "StoreTargets", "dc/dfc/a21858.html#a0732307643a442bc3f070b9cc91d78c9", null ],
+    [ "TurnAudience", "dc/dfc/a21858.html#afa7fce3a9cccfcc7b088e72df9f312a4", null ],
+    [ "UpdateAI", "dc/dfc/a21858.html#a454984668ca58c8a6fdd9ad4f630dece", null ],
+    [ "_events", "dc/dfc/a21858.html#a907626beb601f789a725d88d45689eb2", null ],
+    [ "audienceList", "dc/dfc/a21858.html#a5bdb09658bd93e46387df8eeb8cf0221", null ],
+    [ "imageList", "dc/dfc/a21858.html#a8177ed5bc5fd54b98f2f36c9389b8099", null ],
+    [ "talkWing", "dc/dfc/a21858.html#ace957ffe4fba8f229946d61d63c1798c", null ]
 ];

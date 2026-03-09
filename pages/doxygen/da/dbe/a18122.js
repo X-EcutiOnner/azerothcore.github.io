@@ -1,6 +1,6 @@
 var a18122 =
 [
-    [ "OnRemove", "da/dbe/a18122.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
-    [ "PrepareAuraScript", "da/dbe/a18122.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
-    [ "Register", "da/dbe/a18122.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
+    [ "npc_gunship_gunnerAI", "d5/dff/a18126.html", "d5/dff/a18126" ],
+    [ "npc_gunship_gunner", "da/dbe/a18122.html#a409711f22b35eae0c0d48bc23545e592", null ],
+    [ "GetAI", "da/dbe/a18122.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
 ];

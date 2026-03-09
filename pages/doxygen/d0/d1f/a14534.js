@@ -1,6 +1,6 @@
 var a14534 =
 [
-    [ "gameobjectId", "d0/d1f/a14534.html#a5cebf652fccc66cb5f98968036405d14", null ],
-    [ "spawnIndex", "d0/d1f/a14534.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
-    [ "timestamp", "d0/d1f/a14534.html#a0c49f62b35e906637890fee896c74951", null ]
+    [ "FilterTargets", "d0/d1f/a14534.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
+    [ "PrepareSpellScript", "d0/d1f/a14534.html#a0a1cbde8aff10303d91a791276a865f4", null ],
+    [ "Register", "d0/d1f/a14534.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
 ];

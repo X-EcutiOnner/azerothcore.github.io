@@ -1,8 +1,7 @@
 var a02621 =
 [
-    [ "TransactionBase", "d7/da0/a06092.html", "d7/da0/a06092" ],
-    [ "Transaction< T >", "d0/d71/a05908.html", "d0/d71/a05908" ],
-    [ "TransactionTask", "da/db0/a06096.html", "da/db0/a06096" ],
-    [ "TransactionWithResultTask", "de/daa/a06100.html", "de/daa/a06100" ],
-    [ "TransactionCallback", "de/d7b/a06104.html", "de/d7b/a06104" ]
+    [ "GetCleanAliasName", "d6/d10/a02621.html#ae187308862c39923e2b843bc9d4c989c", null ],
+    [ "GetDefaultValue", "d6/d10/a02621.html#a2ea1ae2c2289bdc9068ec9c886d124c8", null ],
+    [ "IsCorrectAlias", "d6/d10/a02621.html#a56e834d391c0eb5187d3c7dd0dad88b7", null ],
+    [ "IsCorrectFieldType", "d6/d10/a02621.html#a61bef7957f008e8cd937746ba03feb73", null ]
 ];

@@ -1,8 +1,12 @@
 var a05063 =
 [
-    [ "LocationInfo", "da/d0f/a05063.html#ae2e70dc65cd3b0379600a67dce7de6ba", null ],
-    [ "ground_Z", "da/d0f/a05063.html#a0ffbfcfc677809dda6250855d9594ca5", null ],
-    [ "hitInstance", "da/d0f/a05063.html#a5e3fc81a2b7353808dc0c95eebe570be", null ],
-    [ "hitModel", "da/d0f/a05063.html#a2a7e0be8d8e43b055dd1d43cd5331738", null ],
-    [ "rootId", "da/d0f/a05063.html#aae82d7d8518db5e131d6a327927c75a2", null ]
+    [ "DismissCritter", "de/d98/a11334.html", "de/d98/a11334" ],
+    [ "PetAbandon", "d9/d07/a11338.html", "d9/d07/a11338" ],
+    [ "PetActionSound", "d0/d60/a11362.html", "d0/d60/a11362" ],
+    [ "PetDismissSound", "d0/de6/a11366.html", "d0/de6/a11366" ],
+    [ "PetLearnedSpell", "d8/db4/a11350.html", "d8/db4/a11350" ],
+    [ "PetSpellAutocast", "d2/d11/a11346.html", "d2/d11/a11346" ],
+    [ "PetStopAttack", "d5/de4/a11342.html", "d5/de4/a11342" ],
+    [ "PetUnlearnedSpell", "d2/d98/a11354.html", "d2/d98/a11354" ],
+    [ "RequestPetInfo", "df/d0d/a11358.html", "df/d0d/a11358" ]
 ];

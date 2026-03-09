@@ -1,16 +1,16 @@
 var a13802 =
 [
-    [ "npc_rinjiAI", "d4/d2b/a13802.html#ab613818b92530269f0802077eccc92d0", null ],
-    [ "DoSpawnAmbush", "d4/d2b/a13802.html#af2535d7364641fadc98bca91ace9c906", null ],
-    [ "JustEngagedWith", "d4/d2b/a13802.html#ae5ca00ee9baead3392a9239dfb68d377", null ],
-    [ "JustRespawned", "d4/d2b/a13802.html#a471f2e8da91639d4e68ad64a11d7b950", null ],
-    [ "JustSummoned", "d4/d2b/a13802.html#a09d65e7bd5a76552208eee920cfcb4f9", null ],
-    [ "Reset", "d4/d2b/a13802.html#ada230a1b7b0f3c8b2b41c706856681b8", null ],
-    [ "sQuestAccept", "d4/d2b/a13802.html#a15b9a0756ae6cebac690c8bb997e99d2", null ],
-    [ "UpdateEscortAI", "d4/d2b/a13802.html#a60f05b58b115f3f2ea11206778893547", null ],
-    [ "WaypointReached", "d4/d2b/a13802.html#a9463060a57b85113b71482c8a0974f60", null ],
-    [ "_IsByOutrunner", "d4/d2b/a13802.html#adecc4eb9f90969621b52b97ff594558d", null ],
-    [ "postEventCount", "d4/d2b/a13802.html#a601f142bd2a04ed303611044bac91035", null ],
-    [ "postEventTimer", "d4/d2b/a13802.html#a5154e551143e81d431f706ad07b78ca0", null ],
-    [ "spawnId", "d4/d2b/a13802.html#a3fc84d1e0f5243c6e8f292ddcac15ace", null ]
+    [ "boss_felmyst", "d4/d2b/a13802.html#a96aa8f038e3f93aa7628ce3f28ef39ff", null ],
+    [ "InitializeAI", "d4/d2b/a13802.html#af29021c428a9c7ffcea517d91b1d4b39", null ],
+    [ "JustDied", "d4/d2b/a13802.html#a2269784b565f6a9d18bd9124cf4b8472", null ],
+    [ "JustEngagedWith", "d4/d2b/a13802.html#a6fc19cd8b8c7891a912a50fcd673d96f", null ],
+    [ "KilledUnit", "d4/d2b/a13802.html#a0233ebbcbb21d100425ac76223e839be", null ],
+    [ "MovementInform", "d4/d2b/a13802.html#adf8cd17c20be6acbe381777e8c0efdba", null ],
+    [ "Reset", "d4/d2b/a13802.html#ae5181c789809a859edb40488e206c0d3", null ],
+    [ "ScheduleGroundAbilities", "d4/d2b/a13802.html#a2d77aab0f9c403e130f0513a0b3013ce", null ],
+    [ "SpellHitTarget", "d4/d2b/a13802.html#a9b603cd704126cc6a6bbd65e2bb702e5", null ],
+    [ "StartIntro", "d4/d2b/a13802.html#a55e6defd1bc7f8f1dfd2376cb4589356", null ],
+    [ "UpdateAI", "d4/d2b/a13802.html#a0e429d8cf49946c0232b9c405c340356", null ],
+    [ "_currentLane", "d4/d2b/a13802.html#a7b4230a28ad7d8136ae16ada9d471a39", null ],
+    [ "_strafeCount", "d4/d2b/a13802.html#adc58c6e8aef0debe6689e42cebff5aa2", null ]
 ];

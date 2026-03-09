@@ -1,6 +1,9 @@
 var a17570 =
 [
-    [ "FilterTargets", "d0/da3/a17570.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
-    [ "PrepareSpellScript", "d0/da3/a17570.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
-    [ "Register", "d0/da3/a17570.html#add40d7731b07b30b595f76f7d4e983f4", null ]
+    [ "npc_pos_after_first_bossAI", "d0/da3/a17570.html#a622df71849da1e10e2b73068f0adea98", null ],
+    [ "MovementInform", "d0/da3/a17570.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
+    [ "Reset", "d0/da3/a17570.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
+    [ "UpdateAI", "d0/da3/a17570.html#ac45111887fd7833a041355658dd26158", null ],
+    [ "events", "d0/da3/a17570.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
+    [ "pInstance", "d0/da3/a17570.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
 ];

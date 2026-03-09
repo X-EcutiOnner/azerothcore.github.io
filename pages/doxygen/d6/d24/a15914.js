@@ -1,6 +1,6 @@
 var a15914 =
 [
-    [ "SayerEntry", "d6/d24/a15914.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
-    [ "SayTimer", "d6/d24/a15914.html#a942073f24fd12da712184243d9f098f2", null ],
-    [ "TextEntry", "d6/d24/a15914.html#a360822e4c069be6019c0a465cb2499cf", null ]
+    [ "npc_rabid_thistle_bearAI", "d3/d6c/a15918.html", "d3/d6c/a15918" ],
+    [ "npc_rabid_thistle_bear", "d6/d24/a15914.html#a34b20a4ea22d74352712dee105247d56", null ],
+    [ "GetAI", "d6/d24/a15914.html#ab5c21cd3afa0bd13c937e6acf1912af4", null ]
 ];

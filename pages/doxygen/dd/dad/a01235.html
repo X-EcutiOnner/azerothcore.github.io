@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Entities/Object/ObjectVisibilityContainer.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Entities/Object/Updates/UpdateData.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -104,67 +104,25 @@ $(document).ready(function(){initNavTree('dd/dad/a01235.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#typedef-members">Typedefs</a>  </div>
-  <div class="headertitle"><div class="title">ObjectVisibilityContainer.h File Reference</div></div>
+  <div class="headertitle"><div class="title">UpdateData.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
-<code>#include &lt;memory&gt;</code><br />
-<code>#include &lt;unordered_map&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">UpdateData.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ByteBuffer.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Errors.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Opcodes.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
-<table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d46/a08684.html">ObjectVisibilityContainer</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a6fe979433a4dd2c9023626ecc74bf6a5"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d5/df2/a08656.html">ObjectGuid</a>, <a class="el" href="../../d4/d2b/a08640.html">WorldObject</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dad/a01235.html#a6fe979433a4dd2c9023626ecc74bf6a5">VisibleWorldObjectsMap</a></td></tr>
-<tr class="separator:a6fe979433a4dd2c9023626ecc74bf6a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a52b38df575afa7eef8fb58759ee03bd8"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d5/df2/a08656.html">ObjectGuid</a>, <a class="el" href="../../d4/dfc/a08856.html">Player</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dad/a01235.html#a52b38df575afa7eef8fb58759ee03bd8">VisiblePlayersMap</a></td></tr>
-<tr class="separator:a52b38df575afa7eef8fb58759ee03bd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="a52b38df575afa7eef8fb58759ee03bd8" name="a52b38df575afa7eef8fb58759ee03bd8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a52b38df575afa7eef8fb58759ee03bd8">&#9670;&#160;</a></span>VisiblePlayersMap</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d5/df2/a08656.html">ObjectGuid</a>, <a class="el" href="../../d4/dfc/a08856.html">Player</a>*&gt; <a class="el" href="../../dd/dad/a01235.html#a52b38df575afa7eef8fb58759ee03bd8">VisiblePlayersMap</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a6fe979433a4dd2c9023626ecc74bf6a5" name="a6fe979433a4dd2c9023626ecc74bf6a5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6fe979433a4dd2c9023626ecc74bf6a5">&#9670;&#160;</a></span>VisibleWorldObjectsMap</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d5/df2/a08656.html">ObjectGuid</a>, <a class="el" href="../../d4/d2b/a08640.html">WorldObject</a>*&gt; <a class="el" href="../../dd/dad/a01235.html#a6fe979433a4dd2c9023626ecc74bf6a5">VisibleWorldObjectsMap</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_7cceb56be83a77325820340cc4b7f0cb.html">Object</a></li><li class="navelem"><a class="el" href="../../dd/dad/a01235.html">ObjectVisibilityContainer.h</a></li>
-    <li class="footer">Generated on Mon Mar 2 2026 21:03:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_7cceb56be83a77325820340cc4b7f0cb.html">Object</a></li><li class="navelem"><a class="el" href="../../dir_bd6eb97edc7b31fb689fc59ea27199a0.html">Updates</a></li><li class="navelem"><a class="el" href="../../dd/dad/a01235.html">UpdateData.cpp</a></li>
+    <li class="footer">Generated on Mon Mar 9 2026 21:03:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

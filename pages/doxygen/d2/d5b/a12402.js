@@ -1,7 +1,6 @@
 var a12402 =
 [
-    [ "boss_broodlordAI", "d2/d5b/a12402.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
-    [ "JustDied", "d2/d5b/a12402.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
-    [ "JustEngagedWith", "d2/d5b/a12402.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
-    [ "UpdateAI", "d2/d5b/a12402.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
+    [ "npc_burning_spiritAI", "dd/d3d/a12406.html", "dd/d3d/a12406" ],
+    [ "npc_burning_spirit", "d2/d5b/a12402.html#a596e654486c82d15d7a37b069a99856d", null ],
+    [ "GetAI", "d2/d5b/a12402.html#a3c704a0856d669a1e684e5a858bc4334", null ]
 ];

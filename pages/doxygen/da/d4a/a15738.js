@@ -1,6 +1,5 @@
 var a15738 =
 [
-    [ "SpellId", "da/d4a/a15738.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "da/d4a/a15738.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "da/d4a/a15738.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "npc_toxic_slime", "da/d4a/a15738.html#a4c3a03916280342ec9aec07049de161f", null ],
+    [ "InitializeAI", "da/d4a/a15738.html#ae69f228040aaa5bc4df40a652f551992", null ]
 ];

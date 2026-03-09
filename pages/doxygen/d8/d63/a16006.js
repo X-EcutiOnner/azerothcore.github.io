@@ -1,5 +1,6 @@
 var a16006 =
 [
-    [ "achievement_respect_your_elders", "d8/d63/a16006.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
-    [ "OnCheck", "d8/d63/a16006.html#a770922be3ab19848f7a8f43a82d78b88", null ]
+    [ "npc_great_bear_spirit", "d8/d63/a16006.html#a141470a3623aa1152d3505661f1532c8", null ],
+    [ "OnGossipHello", "d8/d63/a16006.html#a2307b8d56fc117d918adc9814fa86f8f", null ],
+    [ "OnGossipSelect", "d8/d63/a16006.html#aae026f4cf8b0de61d36a841dcfdbd92e", null ]
 ];

@@ -1,7 +1,6 @@
 var a20926 =
 [
-    [ "npc_xt002_life_sparkAI", "de/d94/a20926.html#a763ec1834d3b71c88bfa80bc0e34966a", null ],
-    [ "Reset", "de/d94/a20926.html#a596e2ed45b9221915781b03bf2d18e5b", null ],
-    [ "UpdateAI", "de/d94/a20926.html#af0a1e717b08b2fa35dd4ff83778a87c1", null ],
-    [ "_attackTimer", "de/d94/a20926.html#a79bf005de95aa1fee60dfc73b8920dad", null ]
+    [ "boss_yoggsaron_influence_tentacle", "de/d94/a20926.html#ad770f3c3e63240e50c965f277b2324ea", null ],
+    [ "DamageTaken", "de/d94/a20926.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
+    [ "JustDied", "de/d94/a20926.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
 ];

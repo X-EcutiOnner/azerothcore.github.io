@@ -1,8 +1,14 @@
 var a16166 =
 [
-    [ "boss_sartharion_shadronAI", "d7/def/a16166.html#a02e2e657ac74ab37a4568589511de664", null ],
-    [ "ExecuteEvent", "d7/def/a16166.html#a6a26f1f777988be6eaf8b1a675bbbabb", null ],
-    [ "HandleExtraEvent", "d7/def/a16166.html#a3db5e816f6253f9c4251690bfbbe1912", null ],
-    [ "Reset", "d7/def/a16166.html#a7054cde1de2166c2b06489187115cb3f", null ],
-    [ "SummonedCreatureDies", "d7/def/a16166.html#a8b70b3b7287108ad13caeb85a83cf26f", null ]
+    [ "npc_taskmaster_fizzuleAI", "d7/def/a16166.html#ac792f91930c869ce919f8fd96b3fb076", null ],
+    [ "DoFriend", "d7/def/a16166.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
+    [ "JustEngagedWith", "d7/def/a16166.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
+    [ "ReceiveEmote", "d7/def/a16166.html#a21d0d70086f085b715a12d05fbe5d611", null ],
+    [ "Reset", "d7/def/a16166.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
+    [ "SpellHit", "d7/def/a16166.html#a4c35104935a3a6264c853a657dc42244", null ],
+    [ "UpdateAI", "d7/def/a16166.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
+    [ "factionNorm", "d7/def/a16166.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
+    [ "FlareCount", "d7/def/a16166.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
+    [ "IsFriend", "d7/def/a16166.html#ab7e6bd2e023545c73fba758267551eee", null ],
+    [ "ResetTimer", "d7/def/a16166.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
 ];

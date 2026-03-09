@@ -1,8 +1,7 @@
 var a10974 =
 [
-    [ "CrossedInebriationThreshold", "d9/d49/a10974.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
-    [ "Write", "d9/d49/a10974.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
-    [ "Guid", "d9/d49/a10974.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
-    [ "ItemID", "d9/d49/a10974.html#a9e48a650bf21872099cdb0626e875fd7", null ],
-    [ "Threshold", "d9/d49/a10974.html#a87b756b64cbfb8f292f46cce38308095", null ]
+    [ "GuildBankActivate", "d9/d49/a10974.html#a5b27541a26ada694d9635f6d6873ef20", null ],
+    [ "Read", "d9/d49/a10974.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
+    [ "Banker", "d9/d49/a10974.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
+    [ "FullUpdate", "d9/d49/a10974.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
 ];

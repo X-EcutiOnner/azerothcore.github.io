@@ -1,7 +1,10 @@
 var a18258 =
 [
-    [ "HandleScript", "df/da5/a18258.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
-    [ "PrepareSpellScript", "df/da5/a18258.html#a7e6b56f426be7925255da3ebc239f909", null ],
-    [ "Register", "df/da5/a18258.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
-    [ "Validate", "df/da5/a18258.html#a86b4296eab73fc63b38558871f16a889", null ]
+    [ "npc_cult_adherentAI", "df/da5/a18258.html#a1ea249a25b188a949213788614f4049e", null ],
+    [ "JustEngagedWith", "df/da5/a18258.html#ab97e0177fbc9fc7135dc7a7de0e6e31a", null ],
+    [ "Reset", "df/da5/a18258.html#ab0b54e45468b5ebed0194c441cce434e", null ],
+    [ "SpellHit", "df/da5/a18258.html#ab0d83d53a7f0d14cb15e133e426f2f02", null ],
+    [ "UpdateAI", "df/da5/a18258.html#ad89638cf5859615ba2e3a0deb6701751", null ],
+    [ "_instance", "df/da5/a18258.html#a970e99fba28d6e3e0cb759c87a866273", null ],
+    [ "events", "df/da5/a18258.html#aa53025d3fe95086dc0c23d5d563df7c4", null ]
 ];

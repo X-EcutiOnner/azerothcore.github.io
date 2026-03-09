@@ -1,9 +1,7 @@
 var a15878 =
 [
-    [ "npc_pluckyAI", "d3/db4/a15878.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
-    [ "ReceiveEmote", "d3/db4/a15878.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
-    [ "Reset", "d3/db4/a15878.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
-    [ "UpdateAI", "d3/db4/a15878.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
-    [ "NormFaction", "d3/db4/a15878.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
-    [ "ResetTimer", "d3/db4/a15878.html#ac9808c21666cd17b0603e7e67a61d015", null ]
+    [ "npc_prophet_velen", "d3/db4/a15878.html#a6f35fa9af478e1bb8fbbdda97845d067", null ],
+    [ "JustDied", "d3/db4/a15878.html#a8f1e689b5597bc1c8c810bafe2ad0330", null ],
+    [ "Reset", "d3/db4/a15878.html#a5beec39fd545129d0f124bb19524f95c", null ],
+    [ "UpdateAI", "d3/db4/a15878.html#a2d016ecfedc5c7e886e7412081b54792", null ]
 ];

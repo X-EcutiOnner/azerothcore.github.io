@@ -1,6 +1,6 @@
 var a14014 =
 [
-    [ "cooldown", "d8/da9/a14014.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
-    [ "spell", "d8/da9/a14014.html#a00ee3238030686e1cc66562f7cefb27a", null ],
-    [ "target", "d8/da9/a14014.html#a16e54dbd059baac1b6e7229621339d83", null ]
+    [ "HandleSendEvent", "d8/da9/a14014.html#af62c176d53589228d5e0077c9fc268a3", null ],
+    [ "PrepareSpellScript", "d8/da9/a14014.html#acea8e256f267dd496e5f573e982dba5f", null ],
+    [ "Register", "d8/da9/a14014.html#a0827e177a8268994bb4e63f07993a354", null ]
 ];

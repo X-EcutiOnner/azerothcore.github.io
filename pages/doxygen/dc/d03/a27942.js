@@ -1,6 +1,6 @@
 var a27942 =
 [
-    [ "npc_necropolis_relay", "dc/d03/a27942.html#a044958acd1449d664532aeea7d0cb2fd", null ],
-    [ "SpellHit", "dc/d03/a27942.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
-    [ "SpellHitTarget", "dc/d03/a27942.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
+    [ "HandleProc", "dc/d03/a27942.html#a72d56ccc2c6f0337fa68c2759d90c5d6", null ],
+    [ "PrepareAuraScript", "dc/d03/a27942.html#a49a96d3aa0220b4ec77fb1a384826614", null ],
+    [ "Register", "dc/d03/a27942.html#adf0852d1aad8097143df205a66a49f2f", null ]
 ];

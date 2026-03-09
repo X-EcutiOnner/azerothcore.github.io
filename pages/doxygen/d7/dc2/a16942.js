@@ -1,6 +1,6 @@
 var a16942 =
 [
-    [ "boss_bronjahmAI", "d6/d3a/a16946.html", "d6/d3a/a16946" ],
-    [ "boss_bronjahm", "d7/dc2/a16942.html#a699e1be5273979c76cd5d06b60f0ee05", null ],
-    [ "GetAI", "d7/dc2/a16942.html#a04676028f1f324b6eecea625122794ed", null ]
+    [ "npc_toc_warlockAI", "d6/d3a/a16946.html", "d6/d3a/a16946" ],
+    [ "npc_toc_warlock", "d7/dc2/a16942.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
+    [ "GetAI", "d7/dc2/a16942.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
 ];

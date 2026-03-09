@@ -1,10 +1,9 @@
 var a23918 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "d8/d26/a23918.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
-    [ "GetGuidData", "d8/d26/a23918.html#aa4bedf168359eaf5332476a6de99c830", null ],
-    [ "OnGameObjectCreate", "d8/d26/a23918.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
-    [ "SetBossState", "d8/d26/a23918.html#a2937e4ea47af542a476bd3399ecc7233", null ],
-    [ "SetData", "d8/d26/a23918.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
-    [ "StasisPodGUIDs", "d8/d26/a23918.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
-    [ "WardensShieldGUID", "d8/d26/a23918.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
+    [ "boss_nethermancer_sepethrea", "d8/d26/a23918.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
+    [ "EnterEvadeMode", "d8/d26/a23918.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
+    [ "JustDied", "d8/d26/a23918.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
+    [ "JustEngagedWith", "d8/d26/a23918.html#a89851b9f6eb94270fe22151d3a968bec", null ],
+    [ "JustSummoned", "d8/d26/a23918.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
+    [ "KilledUnit", "d8/d26/a23918.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
 ];

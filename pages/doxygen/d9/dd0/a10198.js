@@ -1,5 +1,6 @@
 var a10198 =
 [
-    [ "petitionGuid", "d9/dd0/a10198.html#adafc1020d722bd3885429041ce9a292c", null ],
-    [ "signatureMap", "d9/dd0/a10198.html#a70bd865a5b11ffc0ceed08b683548b42", null ]
+    [ "sourceObjectDestroyLink", "d9/dd0/a10198.html#a575a5bac090f5bc5b3f2a721aa64ef42", null ],
+    [ "targetObjectBuildLink", "d9/dd0/a10198.html#abf8c86604c3ef4349567c736090402f6", null ],
+    [ "targetObjectDestroyLink", "d9/dd0/a10198.html#a5cb0bab8be8116b9a489a4922c44c5c8", null ]
 ];

@@ -1,7 +1,9 @@
 var a12802 =
 [
-    [ "boss_maiden_of_virtue", "d1/ded/a12802.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
-    [ "JustDied", "d1/ded/a12802.html#a6eded246318f6b47b46f45168e4a8069", null ],
-    [ "JustEngagedWith", "d1/ded/a12802.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
-    [ "KilledUnit", "d1/ded/a12802.html#a32dd66a297d11f5ffac1841bae15727a", null ]
+    [ "FilterTargets", "d1/ded/a12802.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
+    [ "HandleOnHitRogue", "d1/ded/a12802.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
+    [ "HandleOnHitWarlock", "d1/ded/a12802.html#a76f9e5e11a6f2e25868dba567d798002", null ],
+    [ "PrepareSpellScript", "d1/ded/a12802.html#a4792a25aa6fe6126a94900784798dbee", null ],
+    [ "Register", "d1/ded/a12802.html#a0f6146c64a86e953c042f8404bbfe683", null ],
+    [ "Validate", "d1/ded/a12802.html#af65d372cdbb365eff73edb8cf18734c8", null ]
 ];

@@ -1,6 +1,6 @@
 var a17146 =
 [
-    [ "npc_hor_lumbering_abominationAI", "df/dd2/a17150.html", "df/dd2/a17150" ],
-    [ "npc_hor_lumbering_abomination", "de/dcc/a17146.html#a0d394d1ba52a05a6db0ae983daea7123", null ],
-    [ "GetAI", "de/dcc/a17146.html#a0601ac0af85e545617013846c48de29a", null ]
+    [ "HandleEffectPeriodic", "de/dcc/a17146.html#a8775f4e2cb6be96f57596413d560206c", null ],
+    [ "PrepareAuraScript", "de/dcc/a17146.html#a45118f9887d248a5eb840b945dee5b79", null ],
+    [ "Register", "de/dcc/a17146.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
 ];

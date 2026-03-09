@@ -1,9 +1,8 @@
 var a01028 =
 [
-    [ "DatabaseScript", "db/d25/a10544.html", "db/d25/a10544" ],
-    [ "DatabaseHook", "db/d08/a01028.html#a5f7dd71299279ad5a845d4d4030e707e", [
-      [ "DATABASEHOOK_ON_AFTER_DATABASES_LOADED", "db/d08/a01028.html#a5f7dd71299279ad5a845d4d4030e707ea669793dd5bb736daf7bf4e7a57422171", null ],
-      [ "DATABASEHOOK_ON_AFTER_DATABASE_LOAD_CREATURETEMPLATES", "db/d08/a01028.html#a5f7dd71299279ad5a845d4d4030e707ea5da0ac4b05308347ca9a69286153d974", null ],
-      [ "DATABASEHOOK_END", "db/d08/a01028.html#a5f7dd71299279ad5a845d4d4030e707eaf2e5c468c0dfdec9fc3dea4359a93d04", null ]
+    [ "MailScript", "db/d64/a10634.html", "db/d64/a10634" ],
+    [ "MailHook", "db/d08/a01028.html#a7a2fb0cc0937712e8aff65574e1068d6", [
+      [ "MAILHOOK_ON_BEFORE_MAIL_DRAFT_SEND_MAIL_TO", "db/d08/a01028.html#a7a2fb0cc0937712e8aff65574e1068d6a8f3555a10968fd2749e256067782760f", null ],
+      [ "MAILHOOK_END", "db/d08/a01028.html#a7a2fb0cc0937712e8aff65574e1068d6a97af521f76b0d427812db0ac3303f285", null ]
     ] ]
 ];

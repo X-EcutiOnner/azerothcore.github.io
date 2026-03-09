@@ -1,6 +1,9 @@
 var a21590 =
 [
-    [ "npc_azure_invaderAI", "d7/d37/a21594.html", "d7/d37/a21594" ],
-    [ "npc_azure_invader", "de/d7a/a21590.html#ab318178a618f2bfdcd5ea3105c240d32", null ],
-    [ "GetAI", "de/d7a/a21590.html#a19c000084ea74a401ece81ee0e20b65c", null ]
+    [ "npc_bonker_togglevoltAI", "de/d7a/a21590.html#adfd43a6a804a35e235262e55f0155ffe", null ],
+    [ "JustDied", "de/d7a/a21590.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
+    [ "Reset", "de/d7a/a21590.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
+    [ "UpdateEscortAI", "de/d7a/a21590.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
+    [ "WaypointReached", "de/d7a/a21590.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
+    [ "Bonker_agro", "de/d7a/a21590.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
 ];

@@ -1,6 +1,6 @@
 var a16266 =
 [
-    [ "boss_halionAI", "d0/d63/a16270.html", "d0/d63/a16270" ],
-    [ "boss_halion", "d4/dbc/a16266.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
-    [ "GetAI", "d4/dbc/a16266.html#a142314efb4f45ec146ab0225271d29b1", null ]
+    [ "instance_zulfarrak_InstanceMapScript", "d0/d63/a16270.html", "d0/d63/a16270" ],
+    [ "instance_zulfarrak", "d4/dbc/a16266.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
+    [ "GetInstanceScript", "d4/dbc/a16266.html#a5f092341e49848c9d321452be2193d56", null ]
 ];

@@ -1,13 +1,8 @@
 var a14950 =
 [
-    [ "boss_salrammAI", "d1/db8/a14950.html#ae1055878b3919e29d44ee26efcbe044f", null ],
-    [ "ExplodeGhoul", "d1/db8/a14950.html#adc64d8b10b28b98254c528732fff0516", null ],
-    [ "JustDied", "d1/db8/a14950.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
-    [ "JustEngagedWith", "d1/db8/a14950.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
-    [ "JustSummoned", "d1/db8/a14950.html#afd70403a8644f310f37335c6c9bf5b55", null ],
-    [ "KilledUnit", "d1/db8/a14950.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
-    [ "Reset", "d1/db8/a14950.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
-    [ "UpdateAI", "d1/db8/a14950.html#aa2350dc05884593b1361f9f09b8d9392", null ],
-    [ "events", "d1/db8/a14950.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
-    [ "summons", "d1/db8/a14950.html#a813c09e121730d4ae2e623ac3c37d570", null ]
+    [ "npc_love_in_air_snivel_real", "d1/db8/a14950.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
+    [ "Talk", "d1/db8/a14950.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
+    [ "UpdateAI", "d1/db8/a14950.html#a22ed25da8fe3441ef0e4183390983f40", null ],
+    [ "actionCounter", "d1/db8/a14950.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
+    [ "actionTimer", "d1/db8/a14950.html#a3bbee1ff355581772b337268775b8fbc", null ]
 ];

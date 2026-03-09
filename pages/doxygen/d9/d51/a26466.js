@@ -1,8 +1,9 @@
 var a26466 =
 [
-    [ "CalculateAmount", "d9/d51/a26466.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
-    [ "PrepareAuraScript", "d9/d51/a26466.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
-    [ "ReflectDamage", "d9/d51/a26466.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
-    [ "Register", "d9/d51/a26466.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
-    [ "Validate", "d9/d51/a26466.html#af2936ba4a29fc8735a3cabe805c77355", null ]
+    [ "HandleAfterCast", "d9/d51/a26466.html#afd2fbc51ac1e99789994021af36688f3", null ],
+    [ "HandleTriggerSpell", "d9/d51/a26466.html#ae140ab00101f081454b55e12a7c54440", null ],
+    [ "Load", "d9/d51/a26466.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
+    [ "PrepareSpellScript", "d9/d51/a26466.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
+    [ "Register", "d9/d51/a26466.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
+    [ "_triggerSpellId", "d9/d51/a26466.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
 ];

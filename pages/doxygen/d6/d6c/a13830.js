@@ -1,6 +1,12 @@
 var a13830 =
 [
-    [ "npc_corporal_keeshanAI", "dd/dab/a13834.html", "dd/dab/a13834" ],
-    [ "npc_corporal_keeshan", "d6/d6c/a13830.html#a0ca9459a7f283e040f14e0052762f587", null ],
-    [ "GetAI", "d6/d6c/a13830.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
+    [ "boss_kalecgos", "d6/d6c/a13830.html#a9a3eaee76ada967445cc0ed3d5ed21d2", null ],
+    [ "CanAIAttack", "d6/d6c/a13830.html#aa810a7eae5a6b1102e2e96022eaf5085", null ],
+    [ "CheckInRoom", "d6/d6c/a13830.html#a99cf385b11044c364b23fa8fc7e755ee", null ],
+    [ "ClearPlayerAuras", "d6/d6c/a13830.html#a17ffb7ec1b591acb0e5c359cb73ed2f6", null ],
+    [ "DoAction", "d6/d6c/a13830.html#aaccfa519a7290eb56990e43de4beea97", null ],
+    [ "JustEngagedWith", "d6/d6c/a13830.html#ab4d440dd0b66002b840bc4b3d3a8f7ef", null ],
+    [ "KilledUnit", "d6/d6c/a13830.html#a9844d54a8334ae5d20689593cd8a5e1a", null ],
+    [ "Reset", "d6/d6c/a13830.html#ad30cbd6d6fe343b9eb44fb96b0779551", null ],
+    [ "_sathBanished", "d6/d6c/a13830.html#a595eb66eb6f820efa29fcc5d631fe159", null ]
 ];

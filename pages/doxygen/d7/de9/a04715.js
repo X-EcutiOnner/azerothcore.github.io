@@ -1,5 +1,5 @@
 var a04715 =
 [
-    [ "lookup_commandscript", "da/d1b/a12156.html", "da/d1b/a12156" ],
-    [ "AddSC_lookup_commandscript", "d7/de9/a04715.html#aae75b0f1415c6529e5837e3b27d054f6", null ]
+    [ "group_commandscript", "da/da0/a12154.html", "da/da0/a12154" ],
+    [ "AddSC_group_commandscript", "d7/de9/a04715.html#ac4c9434ed910cd9636e0a8644a8e91e1", null ]
 ];

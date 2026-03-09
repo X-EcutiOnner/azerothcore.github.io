@@ -1,8 +1,6 @@
 var a18338 =
 [
-    [ "FilterTargets", "da/df2/a18338.html#a14e392760361b95578bc95de10cdd8aa", null ],
-    [ "HandleForcedCast", "da/df2/a18338.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
-    [ "PrepareSpellScript", "da/df2/a18338.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
-    [ "Register", "da/df2/a18338.html#ac2105e66f692c6a991ac9190b1901505", null ],
-    [ "Validate", "da/df2/a18338.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
+    [ "UnboundPlagueTargetSelector", "da/df2/a18338.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
+    [ "operator()", "da/df2/a18338.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
+    [ "_source", "da/df2/a18338.html#a87eb77615e443ccec373d571708a156a", null ]
 ];

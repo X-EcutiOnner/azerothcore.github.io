@@ -1,6 +1,7 @@
 var a14774 =
 [
-    [ "HandleTriggerSpell", "d2/d2a/a14774.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
-    [ "PrepareSpellScript", "d2/d2a/a14774.html#a76a070da8e719198463010499f595599", null ],
-    [ "Register", "d2/d2a/a14774.html#ae237c4972167a5a17b59800983496a9d", null ]
+    [ "HandleScriptEffect", "d2/d2a/a14774.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
+    [ "PrepareSpellScript", "d2/d2a/a14774.html#a3d906994c11e52e89c842189be73ddfd", null ],
+    [ "Register", "d2/d2a/a14774.html#a4cdab36e2265c696207a39e16549ab13", null ],
+    [ "Validate", "d2/d2a/a14774.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
 ];

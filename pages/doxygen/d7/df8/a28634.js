@@ -1,7 +1,7 @@
 var a28634 =
 [
-    [ "Flags", "d7/df8/a28634.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
-    [ "ID", "d7/df8/a28634.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
-    [ "RangeMax", "d7/df8/a28634.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
-    [ "RangeMin", "d7/df8/a28634.html#a127a46f2382edea750ca567d5ea3d304", null ]
+    [ "npc_crashin_thrashin_robot", "d7/df8/a28634.html#ad21336d212498b1c9ef5d46979d147ab", null ],
+    [ "IsSummonedBy", "d7/df8/a28634.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
+    [ "UpdateAI", "d7/df8/a28634.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
+    [ "_scheduler", "d7/df8/a28634.html#a55778501d154d0a9e77f76054e926f85", null ]
 ];

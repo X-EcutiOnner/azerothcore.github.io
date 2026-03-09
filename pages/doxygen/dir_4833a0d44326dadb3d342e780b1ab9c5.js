@@ -1,9 +1,9 @@
 var dir_4833a0d44326dadb3d342e780b1ab9c5 =
 [
-    [ "boss_felblood_kaelthas.cpp", "dd/d81/a04001.html", "dd/d81/a04001" ],
-    [ "boss_priestess_delrissa.cpp", "d7/df2/a03986.html", "d7/df2/a03986" ],
-    [ "boss_selin_fireheart.cpp", "dd/d27/a03989.html", "dd/d27/a03989" ],
-    [ "boss_vexallus.cpp", "d9/d0c/a03992.html", "d9/d0c/a03992" ],
-    [ "instance_magisters_terrace.cpp", "df/d58/a03998.html", "df/d58/a03998" ],
-    [ "magisters_terrace.h", "d9/d0d/a03995.html", "d9/d0d/a03995" ]
+    [ "boss_felblood_kaelthas.cpp", "d7/dcb/a04028.html", "d7/dcb/a04028" ],
+    [ "boss_priestess_delrissa.cpp", "d9/d9f/a04013.html", "d9/d9f/a04013" ],
+    [ "boss_selin_fireheart.cpp", "d9/d97/a04016.html", "d9/d97/a04016" ],
+    [ "boss_vexallus.cpp", "da/d6d/a04019.html", "da/d6d/a04019" ],
+    [ "instance_magisters_terrace.cpp", "d6/d73/a04025.html", "d6/d73/a04025" ],
+    [ "magisters_terrace.h", "dc/d86/a04022.html", "dc/d86/a04022" ]
 ];

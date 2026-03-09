@@ -1,6 +1,6 @@
 var a27006 =
 [
-    [ "HandleAuraApply", "d5/da3/a27006.html#a0c17d42095cac3d4cf304df1fc83acbf", null ],
-    [ "PrepareAuraScript", "d5/da3/a27006.html#a6eedadacba366104fdca2791862be216", null ],
-    [ "Register", "d5/da3/a27006.html#a5869dc6372d479d85da1118d0c9ec8e6", null ]
+    [ "HandleFinish", "d5/da3/a27006.html#a53263ce51581f36c2df80b49c93fa9d3", null ],
+    [ "PrepareSpellScript", "d5/da3/a27006.html#a8113f61816473399f0ceab18b104d058", null ],
+    [ "Register", "d5/da3/a27006.html#a36bf50cdb7be7ba03eafd4848c6ceced", null ]
 ];

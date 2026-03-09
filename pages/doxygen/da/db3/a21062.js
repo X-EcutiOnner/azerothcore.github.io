@@ -1,10 +1,11 @@
 var a21062 =
 [
-    [ "boss_yoggsaron_immortal_guardianAI", "da/db3/a21062.html#a84a3ffe43a4ce49cd543f770594cd683", null ],
-    [ "DamageTaken", "da/db3/a21062.html#aec157bcf0628a7301bcb91dd62bcc484", null ],
-    [ "Reset", "da/db3/a21062.html#a763f772414f00c0f83402e1a635b6bd0", null ],
-    [ "SpellHit", "da/db3/a21062.html#a60721961f2eb5e91c15890252166b872", null ],
-    [ "UpdateAI", "da/db3/a21062.html#a7fa550f683fcf16f5bd70a307bffcb2b", null ],
-    [ "_spellTimer", "da/db3/a21062.html#a4ed360380707195e10753436020b67eb", null ],
-    [ "_visualTimer", "da/db3/a21062.html#a8c382c37aaa3d20cfc0fe604af52bef4", null ]
+    [ "npc_ulduar_storm_tempered_keeper", "da/db3/a21062.html#ae4dc8352fd0ff41974a33a4500d19e74", null ],
+    [ "JustDied", "da/db3/a21062.html#a8051e2b824a6c0df08dafab6e25d6bc7", null ],
+    [ "JustEngagedWith", "da/db3/a21062.html#a1bd5ba0e92e09953bc1ecb69a61c98f1", null ],
+    [ "JustSummoned", "da/db3/a21062.html#a9b1f8cd15790dbd179e313546f9754bf", null ],
+    [ "Reset", "da/db3/a21062.html#a5bbb71bfbeb2c4e09d20a94ed7913183", null ],
+    [ "UpdateAI", "da/db3/a21062.html#a9f36f099f7db4c3e1a06b8d4082e58c5", null ],
+    [ "events", "da/db3/a21062.html#a4a79bd561fa63230a52730da20d7143c", null ],
+    [ "otherGUID", "da/db3/a21062.html#a4fb550c7e49ea5078ec0ab59cda2c6d8", null ]
 ];

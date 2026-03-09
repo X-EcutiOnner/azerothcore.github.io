@@ -1,14 +1,9 @@
 var a13110 =
 [
-    [ "npc_death_knight_initiateAI", "d8/d4f/a13110.html#aa03a128068072b85bf0926cdececaaf2", null ],
-    [ "DamageTaken", "d8/d4f/a13110.html#ac83f7d28886eaf5fb44c3c6ce44a7acd", null ],
-    [ "GetData", "d8/d4f/a13110.html#ac3216c0cf7284fd7a8d5ece153467b41", null ],
-    [ "Reset", "d8/d4f/a13110.html#ad152856d614c8f4c900f77749ac55dd9", null ],
-    [ "SpellHit", "d8/d4f/a13110.html#a308f2f29ec7f9277d102564ff6d39e32", null ],
-    [ "UpdateAI", "d8/d4f/a13110.html#a6e67cda0b83578818a5e3b34ed9517cf", null ],
-    [ "_duelGUID", "d8/d4f/a13110.html#a32dd4a91841f2e75c8bca109015fc56a", null ],
-    [ "_duelInProgress", "d8/d4f/a13110.html#a3fdcf062b22c08b1dd616dad591a1021", null ],
-    [ "events", "d8/d4f/a13110.html#aa1c6d513e04253d0b83522c9c1cc2ac8", null ],
-    [ "playerGUIDs", "d8/d4f/a13110.html#ac12adec2cb751e2e41008954bbe20248", null ],
-    [ "timer", "d8/d4f/a13110.html#ad22e8bc9e0d22a5ba164a60e438d98a7", null ]
+    [ "boss_curator", "d8/d4f/a13110.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
+    [ "JustDied", "d8/d4f/a13110.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
+    [ "JustEngagedWith", "d8/d4f/a13110.html#a848f477a101956662389cab5ffcc0727", null ],
+    [ "JustSummoned", "d8/d4f/a13110.html#ac779d275e03e6ba190617d215b217ce5", null ],
+    [ "KilledUnit", "d8/d4f/a13110.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
+    [ "Reset", "d8/d4f/a13110.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
 ];

@@ -1,12 +1,19 @@
 var a12006 =
 [
-    [ "boss_balinda", "d3/d86/a12006.html#a2f3ce696dbc66843cddc13196800866b", null ],
-    [ "DamageTaken", "d3/d86/a12006.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
-    [ "JustDied", "d3/d86/a12006.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
-    [ "JustEngagedWith", "d3/d86/a12006.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
-    [ "JustSummoned", "d3/d86/a12006.html#a3c2306326d2f85fbb6766352117a1f91", null ],
-    [ "Reset", "d3/d86/a12006.html#a1ecfa5d743682997076a47cce44b19f5", null ],
-    [ "UpdateAI", "d3/d86/a12006.html#af3506dd75baef12fd0328aed21636978", null ],
-    [ "_hasCastIceBlock", "d3/d86/a12006.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
-    [ "summons", "d3/d86/a12006.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
+    [ "WardenPayloadMgr", "d3/d86/a12006.html#a0a90c3e8ab6d5b5698f330b997efed27", null ],
+    [ "ClearQueuedPayloads", "d3/d86/a12006.html#ade67b783b6e6c7421b0d86a9143d60d9", null ],
+    [ "DequeuePayload", "d3/d86/a12006.html#a0fb196873e89729eb5c3ad3238e75a6a", null ],
+    [ "GetFreePayloadId", "d3/d86/a12006.html#a698b2ab4709a495f299be18b053e4014", null ],
+    [ "GetPayloadById", "d3/d86/a12006.html#a9f7d7ab2c529b74b67fb363a063ffa27", null ],
+    [ "GetPayloadCountInQueue", "d3/d86/a12006.html#ae3878c7264337d646f7a5d503907d7aa", null ],
+    [ "GetPayloadsInQueue", "d3/d86/a12006.html#a6b8ed858cc20f8acc0266edbe84b3dfd", null ],
+    [ "QueuePayload", "d3/d86/a12006.html#a36f9cf58fa5c9d34fdac860c3ae692d1", null ],
+    [ "RegisterPayload", "d3/d86/a12006.html#ab3b7d9cbbb94eab430a0caff00448a4a", null ],
+    [ "RegisterPayload", "d3/d86/a12006.html#ae2e7a14fe433ed45e94d3e74ba43f579", null ],
+    [ "UnregisterPayload", "d3/d86/a12006.html#a97d5b53d0e1fd42663ad673b31fe4fab", null ],
+    [ "CachedChecks", "d3/d86/a12006.html#a65c6878274bc49b921714278d77eed56", null ],
+    [ "QueuedPayloads", "d3/d86/a12006.html#a0d473fcc12806a29a6cf191ebd1ec9ff", null ],
+    [ "WardenPayloadCheckType", "d3/d86/a12006.html#a5d6853734e30d11fce42dfeeb3a06c22", null ],
+    [ "WardenPayloadOffsetMax", "d3/d86/a12006.html#a0a6537e719e9f8f4c371340d0d1b4db7", null ],
+    [ "WardenPayloadOffsetMin", "d3/d86/a12006.html#a9f7e5a100c56a6ee9a6bd39a792b9e44", null ]
 ];

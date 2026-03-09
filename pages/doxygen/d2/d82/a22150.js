@@ -1,6 +1,6 @@
 var a22150 =
 [
-    [ "HandleOnEffectRemove", "d2/d82/a22150.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "d2/d82/a22150.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "d2/d82/a22150.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "HandleHealPct", "d2/d82/a22150.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
+    [ "PrepareSpellScript", "d2/d82/a22150.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
+    [ "Register", "d2/d82/a22150.html#a52f253d2a3b9b3890020107b7722ad96", null ]
 ];

@@ -1,7 +1,5 @@
 var a15870 =
 [
-    [ "npc_paoka_swiftmountainAI", "d4/d2f/a15870.html#a92a229f76de3bc46ae14910439db0004", null ],
-    [ "DoSpawnWyvern", "d4/d2f/a15870.html#a7997a3d398db82c205e3a8af77ac1684", null ],
-    [ "Reset", "d4/d2f/a15870.html#acae0427957aba04a54e6001823bc7eb4", null ],
-    [ "WaypointReached", "d4/d2f/a15870.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
+    [ "go_bristlelimb_cage", "d4/d2f/a15870.html#ab965b9c529577a5e58639285fa35d3d7", null ],
+    [ "OnGossipHello", "d4/d2f/a15870.html#a6f29e07550767c1c0610f46e4921503f", null ]
 ];

@@ -1,4 +1,6 @@
 var a11354 =
 [
-    [ "AddSpellMod", "d2/d98/a11354.html#a1c14e27dd094be2fccff3d74a1414a80", null ]
+    [ "PetUnlearnedSpell", "d2/d98/a11354.html#aa2b125a271228aee0d942a207de170b7", null ],
+    [ "Write", "d2/d98/a11354.html#a11cf7780eba530026a0898bfafd27109", null ],
+    [ "SpellID", "d2/d98/a11354.html#adfca5feb5be2408e489edc44e9cd215b", null ]
 ];

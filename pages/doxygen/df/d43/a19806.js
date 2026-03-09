@@ -1,6 +1,14 @@
 var a19806 =
 [
-    [ "dark_rune_stormcallerAI", "d1/d43/a19810.html", "d1/d43/a19810" ],
-    [ "dark_rune_stormcaller", "df/d43/a19806.html#ab31774011fc3e1e8ffa1a3b7c5cbfbcc", null ],
-    [ "GetAI", "df/d43/a19806.html#a9072aaf482106cfae0d3901507b47f60", null ]
+    [ "boss_magus_telestra", "df/d43/a19806.html#ac8ee0c8ac0bafa479ef6c3669c8aa430", null ],
+    [ "AttackStart", "df/d43/a19806.html#a9ef67f8a53c5dceaf74bc156e0c6edad", null ],
+    [ "GetData", "df/d43/a19806.html#a713f93edc709edabe003c305efdd709c", null ],
+    [ "JustDied", "df/d43/a19806.html#ac69759755637749a58f712b86d3bf9ac", null ],
+    [ "JustEngagedWith", "df/d43/a19806.html#a91b4569027b3414814bf1f2e86441fc6", null ],
+    [ "JustSummoned", "df/d43/a19806.html#a1fc0f30287916d6606829987d29d9387", null ],
+    [ "KilledUnit", "df/d43/a19806.html#a85b333905e5dcd34dbe001306924529a", null ],
+    [ "Reset", "df/d43/a19806.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
+    [ "SpellHit", "df/d43/a19806.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
+    [ "UpdateAI", "df/d43/a19806.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
+    [ "achievement", "df/d43/a19806.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ]
 ];

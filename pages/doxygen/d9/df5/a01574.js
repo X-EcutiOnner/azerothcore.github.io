@@ -1,4 +1,4 @@
 var a01574 =
 [
-    [ "CreatureUnitRelocationWorker", "d9/df5/a01574.html#a6dd107031f342074ca560b711fe188d7", null ]
+    [ "GridCell< GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES >", "d4/ddb/a09350.html", "d4/ddb/a09350" ]
 ];

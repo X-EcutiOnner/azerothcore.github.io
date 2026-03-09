@@ -1,6 +1,9 @@
 var a21050 =
 [
-    [ "boss_yoggsaron_influence_tentacleAI", "d0/da1/a21054.html", "d0/da1/a21054" ],
-    [ "boss_yoggsaron_influence_tentacle", "d5/d47/a21050.html#a44155d82364bdde7e00131be3b6edfb6", null ],
-    [ "GetAI", "d5/d47/a21050.html#afb691fae90c0add07cfc8c02b9d2b975", null ]
+    [ "npc_ulduar_keeperAI", "d5/d47/a21050.html#ac69d21f3820f2c01a80ff664c317d111", null ],
+    [ "DoAction", "d5/d47/a21050.html#a03011d04761926d67e43c0bea5a0901f", null ],
+    [ "Reset", "d5/d47/a21050.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
+    [ "SpellHit", "d5/d47/a21050.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
+    [ "UpdateAI", "d5/d47/a21050.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
+    [ "_keeper", "d5/d47/a21050.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
 ];

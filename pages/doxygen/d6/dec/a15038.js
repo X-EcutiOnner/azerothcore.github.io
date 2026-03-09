@@ -1,9 +1,8 @@
 var a15038 =
 [
-    [ "boss_chrono_lord_deja", "d6/dec/a15038.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
-    [ "JustDied", "d6/dec/a15038.html#a68eb4941364f9fac121aa3d610d45f48", null ],
-    [ "JustEngagedWith", "d6/dec/a15038.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
-    [ "KilledUnit", "d6/dec/a15038.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
-    [ "MoveInLineOfSight", "d6/dec/a15038.html#a535c0c157c60804188ad8c4413c277dd", null ],
-    [ "OwnTalk", "d6/dec/a15038.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
+    [ "CheckCast", "d6/dec/a15038.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
+    [ "HandleDummy", "d6/dec/a15038.html#ad39da0510c21855dd74abd93f33621c9", null ],
+    [ "PrepareSpellScript", "d6/dec/a15038.html#a727093fec8cc8422cbbaa79d821338c8", null ],
+    [ "Register", "d6/dec/a15038.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
+    [ "Validate", "d6/dec/a15038.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
 ];

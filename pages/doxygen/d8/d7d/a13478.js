@@ -1,5 +1,8 @@
 var a13478 =
 [
-    [ "at_sunwell_eredar_twins", "d8/d7d/a13478.html#afc183c384bc87321186b20e0ac168c1f", null ],
-    [ "_OnTrigger", "d8/d7d/a13478.html#aa862756c9905e2cb10d60c70b47919aa", null ]
+    [ "HandleDummy", "d8/d7d/a13478.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
+    [ "HandleScript", "d8/d7d/a13478.html#a528ce741ebde0fb6b796431da800e439", null ],
+    [ "PrepareSpellScript", "d8/d7d/a13478.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
+    [ "Register", "d8/d7d/a13478.html#a8dea4b47777324b88c7e022f11741b25", null ],
+    [ "Validate", "d8/d7d/a13478.html#a6f49345b2beea56b4eaad390a6062118", null ]
 ];

@@ -1,10 +1,7 @@
 var a15566 =
 [
-    [ "npc_murkdeepAI", "da/d05/a15566.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
-    [ "JustEngagedWith", "da/d05/a15566.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
-    [ "Reset", "da/d05/a15566.html#aa89316a0fe4f99630a4a129aed305e24", null ],
-    [ "UpdateAI", "da/d05/a15566.html#aeca85a1324791d18ac825401fb8a31e8", null ],
-    [ "events", "da/d05/a15566.html#ae3d344829aeba22ef0c5947863720390", null ],
-    [ "phase", "da/d05/a15566.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
-    [ "spawnTimer", "da/d05/a15566.html#a6b139fb5cc0776103934f14be15c34d1", null ]
+    [ "boss_rajaxx", "da/d05/a15566.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
+    [ "JustDied", "da/d05/a15566.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
+    [ "JustEngagedWith", "da/d05/a15566.html#a8dad79921559359b6aa7149641925fe5", null ],
+    [ "UpdateAI", "da/d05/a15566.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
 ];

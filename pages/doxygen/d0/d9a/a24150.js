@@ -1,6 +1,6 @@
 var a24150 =
 [
-    [ "npc_deaths_fel_cannonAI", "d0/d9a/a24150.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
-    [ "Reset", "d0/d9a/a24150.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
-    [ "UpdateAI", "d0/d9a/a24150.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
+    [ "npc_infernal_attackerAI", "d4/d99/a24154.html", "d4/d99/a24154" ],
+    [ "npc_infernal_attacker", "d0/d9a/a24150.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "d0/d9a/a24150.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

@@ -1,6 +1,8 @@
 var a13686 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "dc/d03/a13690.html", "dc/d03/a13690" ],
-    [ "instance_the_stockade", "dc/d7b/a13686.html#a533049c10a72da4b94f9807017f28c0d", null ],
-    [ "GetInstanceScript", "dc/d7b/a13686.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
+    [ "CalcPeriodic", "dc/d7b/a13686.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
+    [ "HandleDummyTick", "dc/d7b/a13686.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
+    [ "HandleUpdatePeriodic", "dc/d7b/a13686.html#a70ef86fd58eec1422bac6b61a4123842", null ],
+    [ "PrepareAuraScript", "dc/d7b/a13686.html#a9a97a6ab249728dbad4d3603640a7963", null ],
+    [ "Register", "dc/d7b/a13686.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
 ];

@@ -1,6 +1,8 @@
 var a26674 =
 [
-    [ "HandleDummy", "d8/d84/a26674.html#aa530b0e27c9b9ba1978a80fd4a47f68d", null ],
-    [ "PrepareSpellScript", "d8/d84/a26674.html#a22adac71d2693d17313e506f1d12532f", null ],
-    [ "Register", "d8/d84/a26674.html#a2680afcbe3d7e95404c614e2f0f93bf4", null ]
+    [ "HandleApply", "d8/d84/a26674.html#aafdf3712f163919f010d11d0becb398f", null ],
+    [ "HandleRemove", "d8/d84/a26674.html#ac3e33cb37d13b633f3938a48917a4975", null ],
+    [ "PrepareAuraScript", "d8/d84/a26674.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
+    [ "Register", "d8/d84/a26674.html#a84e7337494dc2e1772ca10dea26c675f", null ],
+    [ "Validate", "d8/d84/a26674.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
 ];

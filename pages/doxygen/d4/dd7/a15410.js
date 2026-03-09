@@ -1,7 +1,6 @@
 var a15410 =
 [
-    [ "boss_glob_of_viscidus", "d4/dd7/a15410.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
-    [ "InitializeAI", "d4/dd7/a15410.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
-    [ "MovementInform", "d4/dd7/a15410.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
-    [ "UpdateAI", "d4/dd7/a15410.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
+    [ "instance_maraudon_InstanceMapScript", "db/de2/a15414.html", "db/de2/a15414" ],
+    [ "instance_maraudon", "d4/dd7/a15410.html#aaae11d2569d04b42840b101a5702cf24", null ],
+    [ "GetInstanceScript", "d4/dd7/a15410.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
 ];

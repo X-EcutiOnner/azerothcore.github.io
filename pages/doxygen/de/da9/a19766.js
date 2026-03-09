@@ -1,5 +1,8 @@
 var a19766 =
 [
-    [ "boss_sjonnir_dwarfAI", "de/da9/a19766.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
-    [ "UpdateAI", "de/da9/a19766.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
+    [ "FilterTargets", "de/da9/a19766.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "Load", "de/da9/a19766.html#a639105c26214d9887b84a482ca93eb26", null ],
+    [ "PrepareSpellScript", "de/da9/a19766.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "de/da9/a19766.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
+    [ "DrakeGUID", "de/da9/a19766.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
 ];

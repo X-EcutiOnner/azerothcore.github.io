@@ -1,10 +1,7 @@
 var a16186 =
 [
-    [ "HandleDummy", "da/d64/a16186.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
-    [ "HandleSchoolDamage", "da/d64/a16186.html#a8372b7d176c94689b1b7fe99add7812e", null ],
-    [ "Load", "da/d64/a16186.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
-    [ "PrepareSpellScript", "da/d64/a16186.html#a3fd71e2a93f99f19443640a2147b1663", null ],
-    [ "Register", "da/d64/a16186.html#a8278d362a4354ccf81665ce0067c9a06", null ],
-    [ "Validate", "da/d64/a16186.html#a414b1e1396910b87a671305ce9dcab09", null ],
-    [ "_spawned", "da/d64/a16186.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
+    [ "npc_lakota_windsongAI", "d2/d07/a16190.html", "d2/d07/a16190" ],
+    [ "npc_lakota_windsong", "da/d64/a16186.html#a08a585ac36189ec23354c7acb26d223d", null ],
+    [ "GetAI", "da/d64/a16186.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
+    [ "OnQuestAccept", "da/d64/a16186.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
 ];

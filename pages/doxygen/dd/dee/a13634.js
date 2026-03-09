@@ -1,8 +1,7 @@
 var a13634 =
 [
-    [ "HandleApply", "dd/dee/a13634.html#a9dce02909356193476e66586aee87f1d", null ],
-    [ "OnPeriodic", "dd/dee/a13634.html#add4f000f81d5d4112719c6dd7464163c", null ],
-    [ "PrepareAuraScript", "dd/dee/a13634.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
-    [ "Register", "dd/dee/a13634.html#abc349f12f375b1f284eb78a363e8172a", null ],
-    [ "Validate", "dd/dee/a13634.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
+    [ "boss_apothecary_hummelAI", "d5/def/a13638.html", "d5/def/a13638" ],
+    [ "boss_apothecary_hummel", "dd/dee/a13634.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
+    [ "GetAI", "dd/dee/a13634.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
+    [ "OnQuestReward", "dd/dee/a13634.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
 ];

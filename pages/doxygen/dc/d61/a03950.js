@@ -1,17 +1,21 @@
 var a03950 =
 [
-    [ "instance_zulgurub", "db/d22/a14620.html", "db/d22/a14620" ],
-    [ "instance_zulgurub::instance_zulgurub_InstanceMapScript", "d9/d22/a14624.html", "d9/d22/a14624" ],
-    [ "go_brazier_of_madness", "dd/dfe/a14628.html", "dd/dfe/a14628" ],
-    [ "EdgeOfMadnessEnum", "dc/d61/a03950.html#a45822838f1310b1a812eba191cb3d416", [
-      [ "EVENT_EDGE_OF_MADNESS_GRILEK", "dc/d61/a03950.html#a45822838f1310b1a812eba191cb3d416ad02945634d7affb86fe4a6fa1baee9e7", null ],
-      [ "EVENT_EDGE_OF_MADNESS_HAZZARAH", "dc/d61/a03950.html#a45822838f1310b1a812eba191cb3d416a8ec0daec449beba98b500943bcacc8e4", null ],
-      [ "EVENT_EDGE_OF_MADNESS_RENATAKI", "dc/d61/a03950.html#a45822838f1310b1a812eba191cb3d416a4d7aeb529f52ed41b6c933726f9e2e1d", null ],
-      [ "EVENT_EDGE_OF_MADNESS_WUSHOOLAY", "dc/d61/a03950.html#a45822838f1310b1a812eba191cb3d416ac13476b6183a6ba6aad91191ef3c1073", null ]
+    [ "npc_partygoer_pather", "df/de8/a14086.html", "df/de8/a14086" ],
+    [ "npc_partygoer", "d0/d7a/a14090.html", "d0/d7a/a14090" ],
+    [ "npc_lor_themar_theron", "d7/dc5/a14094.html", "d7/dc5/a14094" ],
+    [ "Partygoer", "dc/d61/a03950.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e", [
+      [ "EVENT_RANDOM_ACTION", "dc/d61/a03950.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacb43fc5be7eecf527a639a9122091f96", null ],
+      [ "EVENT_REMOVE_EQUIPMENT", "dc/d61/a03950.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886", null ],
+      [ "EVENT_STOP_DANCING", "dc/d61/a03950.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacaad2f31616c81d6fa79aaad83b2fba4", null ],
+      [ "EVENT_THROW_FIREWORKS", "dc/d61/a03950.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eaa67af798691d1e37088900cb7c2ebf51", null ],
+      [ "EVENT_RESET_FACING", "dc/d61/a03950.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea1d5b4f747a997b97e8ac881aa879bbb9", null ],
+      [ "GO_FIREWORKS_LAUNCHER", "dc/d61/a03950.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea4fd8fdeafd948ad27d906801728d7081", null ]
     ] ],
-    [ "AddSC_instance_zulgurub", "dc/d61/a03950.html#a224e147b1990c0996e0ac61a1865e34c", null ],
-    [ "BrazierOfMadnessContainer", "dc/d61/a03950.html#a808ff75d7f4ab6555cdc154544ef727f", null ],
-    [ "creatureData", "dc/d61/a03950.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "dc/d61/a03950.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "edgeOfMagnessSummonPos", "dc/d61/a03950.html#a352683729da59da9923d0f67d510f73c", null ]
+    [ "Partygoer_Pather", "dc/d61/a03950.html#a3222d14ce03d75912e65560ebf2a961b", [
+      [ "EVENT_PATH", "dc/d61/a03950.html#a3222d14ce03d75912e65560ebf2a961bab210624be9af9dc44683266b3b3efcea", null ],
+      [ "EVENT_RANDOM_ACTION_PATHER", "dc/d61/a03950.html#a3222d14ce03d75912e65560ebf2a961ba93c437ac824047af79e5296f2f70938b", null ],
+      [ "EVENT_REMOVE_EQUIPMENT_PATHER", "dc/d61/a03950.html#a3222d14ce03d75912e65560ebf2a961baae55cce9b375894e1a9adbbd8c42610f", null ],
+      [ "EVENT_STOP_DANCING_PATHER", "dc/d61/a03950.html#a3222d14ce03d75912e65560ebf2a961ba038dd2b09deef9325222dec4d8a99292", null ]
+    ] ],
+    [ "AddSC_eversong_woods", "dc/d61/a03950.html#a78299b9cdd3e783b3f231a9dda40a7b4", null ]
 ];

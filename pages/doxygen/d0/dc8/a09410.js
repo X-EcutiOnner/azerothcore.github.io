@@ -1,9 +1,8 @@
 var a09410 =
 [
-    [ "AnyFriendlyUnitInObjectRangeCheck", "d0/dc8/a09410.html#a4ed3a469f35cb7b64ad5f144281b7910", null ],
-    [ "operator()", "d0/dc8/a09410.html#a6e1026191fd4b1b45696a60f45b1b7b8", null ],
-    [ "i_funit", "d0/dc8/a09410.html#a9ebd1a1d9716dfda55509396947c1a83", null ],
-    [ "i_obj", "d0/dc8/a09410.html#adacade7450b0af19540ea705e1bd438b", null ],
-    [ "i_playerOnly", "d0/dc8/a09410.html#a6b0d852333ee74a20281ce7de5a45b98", null ],
-    [ "i_range", "d0/dc8/a09410.html#a2af638499152888a698b0fc1570e46ed", null ]
+    [ "V8Type", "d0/dc8/a09410.html#a004cbcd4de33cc555da6f6036d735dc0", null ],
+    [ "V9Type", "d0/dc8/a09410.html#a3ec26bc3c9f2e579bf920bf169f3a223", null ],
+    [ "gridIntHeightMultiplier", "d0/dc8/a09410.html#a626b7ad6821722d17bab6e21db618615", null ],
+    [ "v8", "d0/dc8/a09410.html#a8b352fc11c1e705277f8d81b512e3103", null ],
+    [ "v9", "d0/dc8/a09410.html#a37d2628b9fd45b5d5a12baa9eb6efc3c", null ]
 ];

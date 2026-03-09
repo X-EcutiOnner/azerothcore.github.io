@@ -1,8 +1,6 @@
 var a13134 =
 [
-    [ "npc_dkc1_gothikAI", "d6/d2d/a13134.html#a35e65bd943f86ba3a1d6841569289df6", null ],
-    [ "DoAction", "d6/d2d/a13134.html#a3193c562973bbf995ab5e0173a93d01f", null ],
-    [ "MoveInLineOfSight", "d6/d2d/a13134.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
-    [ "UpdateAI", "d6/d2d/a13134.html#a346d32c9831babe6fb5f675b70b7a897", null ],
-    [ "spoken", "d6/d2d/a13134.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
+    [ "HandleDummy", "d6/d2d/a13134.html#a9551867737eea27a9acf2d3d475e9b3c", null ],
+    [ "PrepareSpellScript", "d6/d2d/a13134.html#a3e14dd6a6f26a163282846f714e2ffb5", null ],
+    [ "Register", "d6/d2d/a13134.html#a7be884a657889e1b18d1499c8a053c18", null ]
 ];

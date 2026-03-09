@@ -1,7 +1,5 @@
 var a19242 =
 [
-    [ "HandleRemove", "d5/dea/a19242.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
-    [ "PrepareAuraScript", "d5/dea/a19242.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
-    [ "Register", "d5/dea/a19242.html#ad7ba015a7878adad0820cf378d2632ca", null ],
-    [ "Validate", "d5/dea/a19242.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
+    [ "at_icc_shutdown_traps", "d5/dea/a19242.html#aa13f5d78d3032e8114e9978f42468f64", null ],
+    [ "OnTrigger", "d5/dea/a19242.html#abb31b3f6d0b159b625d731ac47127005", null ]
 ];

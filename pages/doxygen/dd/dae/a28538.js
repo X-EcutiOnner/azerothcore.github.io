@@ -1,8 +1,6 @@
 var a28538 =
 [
-    [ "areaTriggerText", "dd/dae/a28538.html#a32bb8c4a4defce661d108627e25b645a", null ],
-    [ "Difficulty", "dd/dae/a28538.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
-    [ "MapId", "dd/dae/a28538.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
-    [ "maxPlayers", "dd/dae/a28538.html#a7ab33229ffee11a27861439053c79831", null ],
-    [ "resetTime", "dd/dae/a28538.html#a891a741efb049b51996e1a6110efc52d", null ]
+    [ "npc_injured_patientAI", "d5/d77/a28542.html", "d5/d77/a28542" ],
+    [ "npc_injured_patient", "dd/dae/a28538.html#a0b7ef214aa1b20df088dee0976c73783", null ],
+    [ "GetAI", "dd/dae/a28538.html#a0c042bb81e684f903d28d7879af99d4a", null ]
 ];

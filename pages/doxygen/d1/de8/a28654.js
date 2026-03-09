@@ -1,8 +1,9 @@
 var a28654 =
 [
-    [ "Color", "d1/de8/a28654.html#a670fb4e2a31958f81d46047f74d9916f", null ],
-    [ "Comparator", "d1/de8/a28654.html#ace0bdad11edd9db12e45d374da623793", null ],
-    [ "CompareColor", "d1/de8/a28654.html#a801e2221bbb1b6aab67a57381901cf08", null ],
-    [ "ID", "d1/de8/a28654.html#aae73769db40326d298bb1d04eef38871", null ],
-    [ "Value", "d1/de8/a28654.html#ac314a9a6b447d386e31a286811f66538", null ]
+    [ "npc_herald_of_the_lich_king", "d1/de8/a28654.html#a62e373796ce4e6509692e6837cdb561f", null ],
+    [ "ChangeZoneEventStatus", "d1/de8/a28654.html#a30c44f2f62badd27b105a55527d40670", null ],
+    [ "DoAction", "d1/de8/a28654.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
+    [ "InitializeAI", "d1/de8/a28654.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
+    [ "UpdateAI", "d1/de8/a28654.html#a21a5093a46959f4b69777b63de12c557", null ],
+    [ "UpdateWeather", "d1/de8/a28654.html#a3c6d076171596c9ce472cddda18a42be", null ]
 ];

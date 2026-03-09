@@ -1,5 +1,6 @@
 var a27270 =
 [
-    [ "achievement_bg_av_perfection", "de/d4f/a27270.html#a8a0ef996bdb1244026268922b301184c", null ],
-    [ "OnCheck", "de/d4f/a27270.html#a17e700c17b5144b571f2aeed92a77749", null ]
+    [ "HandleFinish", "de/d4f/a27270.html#ac4c50220d86f809644e339fc578d9b4a", null ],
+    [ "PrepareSpellScript", "de/d4f/a27270.html#a5a14594ed93150e34626a7e0edb8171b", null ],
+    [ "Register", "de/d4f/a27270.html#a9d28a3b88d57e2f89921d59f56148f74", null ]
 ];

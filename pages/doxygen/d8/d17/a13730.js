@@ -1,6 +1,7 @@
 var a13730 =
 [
-    [ "npc_maredis_firestarAI", "d8/d17/a13730.html#ac2d4ed4b205146524dcf11585d65ae12", null ],
-    [ "sGossipHello", "d8/d17/a13730.html#a72790dc9525249a4b558c37c4a0bd03f", null ],
-    [ "sGossipSelect", "d8/d17/a13730.html#acefb2bc09fe8f7ad77d53ee6eb8bbb71", null ]
+    [ "OnRemove", "d8/d17/a13730.html#a55460c6393c165e3096c967c81136032", null ],
+    [ "PrepareAuraScript", "d8/d17/a13730.html#afd4e4483f704169e6d213ced134d4c62", null ],
+    [ "Register", "d8/d17/a13730.html#a8458f77fde6eaddc273b3fe5f4e49ae0", null ],
+    [ "Validate", "d8/d17/a13730.html#af580258d287f5db6103b89d3085669bc", null ]
 ];

@@ -1,9 +1,7 @@
 var a11106 =
 [
-    [ "TotemCreated", "dd/dec/a11106.html#a24c9e483d1edb526330311c719d750df", null ],
-    [ "Write", "dd/dec/a11106.html#a554900ae7442f00a63c983ea7ea74510", null ],
-    [ "Duration", "dd/dec/a11106.html#aff6335b86ac051bccb623124905c7180", null ],
-    [ "Slot", "dd/dec/a11106.html#a0889c816fbef728f1a0a6c530c801eac", null ],
-    [ "SpellID", "dd/dec/a11106.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
-    [ "Totem", "dd/dec/a11106.html#a684d15c5368e8065c78e9320eebb676b", null ]
+    [ "AutoEquipItemSlot", "dd/dec/a11106.html#aa51f40a4172ac41548ec6199bc84375d", null ],
+    [ "Read", "dd/dec/a11106.html#ade6a15026e9c461b38301edf79f367be", null ],
+    [ "DestinationSlot", "dd/dec/a11106.html#a683a9bd141b2f99db431de2ae7d213e3", null ],
+    [ "ItemGuid", "dd/dec/a11106.html#a9d4da587061833262acff66674d3ac41", null ]
 ];

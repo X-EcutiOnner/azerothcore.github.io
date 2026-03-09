@@ -1,5 +1,7 @@
 var a11266 =
 [
-    [ "AbsorbAuraOrderPred", "d3/d5c/a11266.html#a30283854715c90496e14d260f913f5fa", null ],
-    [ "operator()", "d3/d5c/a11266.html#a8f705a8b053ef6ff2e2827b4c7f9c643", null ]
+    [ "TrainerBuySpell", "d3/d5c/a11266.html#a8afb92fb908d5efd54bcb78269069d39", null ],
+    [ "Read", "d3/d5c/a11266.html#aa916b9d01157f5f8e98efbcacb3bb5a2", null ],
+    [ "SpellID", "d3/d5c/a11266.html#ae342c806c8faabae54260a26659d49ea", null ],
+    [ "TrainerGUID", "d3/d5c/a11266.html#aca1d9dc89b96415a5065a67f7083423c", null ]
 ];

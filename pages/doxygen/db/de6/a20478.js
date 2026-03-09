@@ -1,12 +1,7 @@
 var a20478 =
 [
-    [ "npc_ulduar_iron_constructAI", "db/de6/a20478.html#ab81224d24ab1925cde97ab76c2a514d1", null ],
-    [ "DamageTaken", "db/de6/a20478.html#a5235538b755dd83615d80a1f7d0ec1b9", null ],
-    [ "JustDied", "db/de6/a20478.html#a5b8e1c38257fc13c59bcaf8cb251fee2", null ],
-    [ "JustReachedHome", "db/de6/a20478.html#a12416ffe731f96a1ca2949d995eb909c", null ],
-    [ "MoveInLineOfSight", "db/de6/a20478.html#a12b228a1edb9460ddcb2b8232bb8209e", null ],
-    [ "Reset", "db/de6/a20478.html#ac6dba374d72247be14923aa54898b9b5", null ],
-    [ "SpellHit", "db/de6/a20478.html#a10a5444576af84ae50ad8af930ed5970", null ],
-    [ "UpdateAI", "db/de6/a20478.html#ac5aabd4a48b6a2f5057eb5ee8a8c99f8", null ],
-    [ "timer", "db/de6/a20478.html#ae1996cf79f8a82df7fe02cd60e5ce3a4", null ]
+    [ "HandleEffectPeriodic", "db/de6/a20478.html#a428d1251465cc9947e7474eab83494e3", null ],
+    [ "PrepareAuraScript", "db/de6/a20478.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
+    [ "Register", "db/de6/a20478.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
+    [ "Validate", "db/de6/a20478.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
 ];

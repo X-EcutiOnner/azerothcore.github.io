@@ -1,7 +1,6 @@
 var a21026 =
 [
-    [ "boss_yoggsaron_corruptor_tentacleAI", "d6/d7a/a21026.html#a5f8fbd8ac772fad79f809de4d3128574", null ],
-    [ "DoAction", "d6/d7a/a21026.html#abac26b3be775eea734403be36cbed4d2", null ],
-    [ "SelectCorruptionTarget", "d6/d7a/a21026.html#a1d61b34d31794cd2bdcddfe91dc1103e", null ],
-    [ "UpdateAI", "d6/d7a/a21026.html#a0269d1dc655af5680d7074cb093740b8", null ]
+    [ "achievement_yogg_saron_darkness", "d6/d7a/a21026.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
+    [ "OnCheck", "d6/d7a/a21026.html#a809902fca87abaeb4334132763624ed6", null ],
+    [ "_keepersCount", "d6/d7a/a21026.html#a765ec4606bb489760ed1e15db10de1dc", null ]
 ];

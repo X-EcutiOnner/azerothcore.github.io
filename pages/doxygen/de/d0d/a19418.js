@@ -1,6 +1,9 @@
 var a19418 =
 [
-    [ "boss_malygosAI", "d8/deb/a19422.html", "d8/deb/a19422" ],
-    [ "boss_malygos", "de/d0d/a19418.html#aeac3c63d4ccd2947a6f7e4c007dc6aa1", null ],
-    [ "GetAI", "de/d0d/a19418.html#a9e1d821311fa8b92318a99ea79ddb1e3", null ]
+    [ "npc_isle_of_conquest_turretAI", "de/d0d/a19418.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
+    [ "JustDied", "de/d0d/a19418.html#a88390da94298bea9c445bb422a806d23", null ],
+    [ "SpellHit", "de/d0d/a19418.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
+    [ "UpdateAI", "de/d0d/a19418.html#a81c039a2a230b261967842161757b6f8", null ],
+    [ "events", "de/d0d/a19418.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
+    [ "faction", "de/d0d/a19418.html#aca941c070a97278c8ec27d7e6b4edede", null ]
 ];

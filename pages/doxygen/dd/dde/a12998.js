@@ -1,5 +1,6 @@
 var a12998 =
 [
-    [ "textid", "dd/dde/a12998.html#a7dac5c31d7df501f28eee3e1dec0523a", null ],
-    [ "timer", "dd/dde/a12998.html#ab7851f383e7221c6ff2700ee345d9504", null ]
+    [ "boss_shazzrahAI", "d7/d0d/a13002.html", "d7/d0d/a13002" ],
+    [ "boss_shazzrah", "dd/dde/a12998.html#a99a162d6eac5c9046a27f53ec05af7e4", null ],
+    [ "GetAI", "dd/dde/a12998.html#a8135f6ab246dbce4c2ebebe0e7f137d5", null ]
 ];

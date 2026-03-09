@@ -1,9 +1,6 @@
 var a16426 =
 [
-    [ "npc_memoryAI", "d3/d35/a16426.html#ad927d377d60b44f43808469042f5feb9", null ],
-    [ "JustDied", "d3/d35/a16426.html#a7b0484919d671877f29dfa05ca1265d9", null ],
-    [ "Reset", "d3/d35/a16426.html#a985c51bbfa2cceeb7601432491253aaf", null ],
-    [ "UpdateAI", "d3/d35/a16426.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
-    [ "events", "d3/d35/a16426.html#a2ed2993e89728a3723456a67e13581f7", null ],
-    [ "pInstance", "d3/d35/a16426.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
+    [ "npc_anub_ar_crusher_crypt_fiend", "d3/d35/a16426.html#a89abbce738f115c26dae9dacb065cc3d", null ],
+    [ "DoEngagedWith", "d3/d35/a16426.html#a20cdbe7eb580cd9f9763019d8927182f", null ],
+    [ "DoEvent", "d3/d35/a16426.html#a276eca6e65b32905f6919d49530ccc2f", null ]
 ];

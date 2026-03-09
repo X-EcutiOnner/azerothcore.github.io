@@ -1,5 +1,9 @@
 var a20734 =
 [
-    [ "go_ulduar_working_harpoon", "d2/d38/a20734.html#a9aaaa16f23f07e402f20a048fd69d347", null ],
-    [ "OnGossipHello", "d2/d38/a20734.html#a164bdd0a9538293699665a821c4f25f3", null ]
+    [ "npc_ulduar_dark_rune_watcher", "d2/d38/a20734.html#aaddea3969eaab06df6b7e5d08f6ad626", null ],
+    [ "CanAIAttack", "d2/d38/a20734.html#ae87ae4e671855f9e18eef6ba7f455463", null ],
+    [ "Reset", "d2/d38/a20734.html#a66ac44c21691994b0b45c096dd7a0d56", null ],
+    [ "UpdateAI", "d2/d38/a20734.html#a008399ff99fbf7c298485450cd3bd4e3", null ],
+    [ "timer1", "d2/d38/a20734.html#a8e7520f4f33604ebd8177b12ca610ea3", null ],
+    [ "timer2", "d2/d38/a20734.html#a1be016384a7fd92e96786ff6caf6c77d", null ]
 ];

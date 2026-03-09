@@ -1,6 +1,6 @@
 var a00470 =
 [
-    [ "AppenderConsole", "d9/d3f/a05560.html", "d9/d3f/a05560" ],
+    [ "AppenderConsole", "de/dd0/a05590.html", "de/dd0/a05590" ],
     [ "ColorTypes", "d0/d29/a00470.html#a6a9b1b5f775325358eae2c7e95ebe832", [
       [ "BLACK", "d0/d29/a00470.html#a6a9b1b5f775325358eae2c7e95ebe832af77fb67151d0c18d397069ad8c271ba3", null ],
       [ "RED", "d0/d29/a00470.html#a6a9b1b5f775325358eae2c7e95ebe832af80f9a890089d211842d59625e561f88", null ],

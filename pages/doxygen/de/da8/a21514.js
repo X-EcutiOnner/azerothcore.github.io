@@ -1,11 +1,6 @@
 var a21514 =
 [
-    [ "npc_ichor_globuleAI", "de/da8/a21514.html#a4d581f89c8385276fd407c000af9e569", null ],
-    [ "AttackStart", "de/da8/a21514.html#aa4e1fc88a26d6ef41f1ca96c93abbc1a", null ],
-    [ "JustDied", "de/da8/a21514.html#ad29c7659590933b0749e8e1c2c2e4c46", null ],
-    [ "MoveInLineOfSight", "de/da8/a21514.html#af8ef8296512d57d934a171f1a5060e73", null ],
-    [ "SpellHit", "de/da8/a21514.html#a1396538a446545408e3c304f3e56400f", null ],
-    [ "UpdateAI", "de/da8/a21514.html#a6ff13c853583e5178fb3a690e17303de", null ],
-    [ "pInstance", "de/da8/a21514.html#a94cbe93a69a28171fc3d91d71b6ec419", null ],
-    [ "uiRangeCheck_Timer", "de/da8/a21514.html#a99914a55d2dc0b36a623dc7d6248e953", null ]
+    [ "HandleEffectPeriodic", "de/da8/a21514.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
+    [ "PrepareAuraScript", "de/da8/a21514.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
+    [ "Register", "de/da8/a21514.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
 ];

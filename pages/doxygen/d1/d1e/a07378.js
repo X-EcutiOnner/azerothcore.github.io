@@ -1,10 +1,12 @@
 var a07378 =
 [
-    [ "SelectionPool", "d1/d1e/a07378.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
-    [ "AddGroup", "d1/d1e/a07378.html#a87fe4747536355ad7affda76640a082e", null ],
-    [ "GetPlayerCount", "d1/d1e/a07378.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
-    [ "Init", "d1/d1e/a07378.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
-    [ "KickGroup", "d1/d1e/a07378.html#a74fb708546a8612ca52b24b8472b71ef", null ],
-    [ "PlayerCount", "d1/d1e/a07378.html#a0c08c47f68dbb45175efc524f4553e16", null ],
-    [ "SelectedGroups", "d1/d1e/a07378.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
+    [ "Type", "d1/d1e/a07378.html#a758c9729d907d872a5e5365539486408", [
+      [ "ADD", "d1/d1e/a07378.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d", null ],
+      [ "REMOVE", "d1/d1e/a07378.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538", null ],
+      [ "UPDATE_BID", "d1/d1e/a07378.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5", null ]
+    ] ],
+    [ "AuctionSearcherUpdate", "d1/d1e/a07378.html#acfc9c3749967b90c2b8633c40f1aa2bd", null ],
+    [ "~AuctionSearcherUpdate", "d1/d1e/a07378.html#a34cb7ede5d2108065a51a80396d6fc55", null ],
+    [ "listFaction", "d1/d1e/a07378.html#a3f61acebd3d594e3a23d682d2d5292bc", null ],
+    [ "updateType", "d1/d1e/a07378.html#af6ee8672029884bdbec327242ce5d5d2", null ]
 ];

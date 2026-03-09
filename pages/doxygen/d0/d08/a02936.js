@@ -1,37 +1,50 @@
 var a02936 =
 [
-    [ "npc_bunthen_plainswind", "d8/d67/a15956.html", "d8/d67/a15956" ],
-    [ "npc_great_bear_spirit", "db/d6b/a15960.html", "db/d6b/a15960" ],
-    [ "npc_silva_filnaveth", "dd/dba/a15964.html", "dd/dba/a15964" ],
-    [ "npc_clintar_spirit", "df/d6e/a15968.html", "df/d6e/a15968" ],
-    [ "npc_clintar_spirit::npc_clintar_spiritAI", "db/d21/a15972.html", "db/d21/a15972" ],
-    [ "npc_omen", "d5/dc9/a15976.html", "d5/dc9/a15976" ],
-    [ "npc_omen::npc_omenAI", "d0/de1/a15980.html", "d0/de1/a15980" ],
-    [ "npc_giant_spotlight", "d1/d0c/a15984.html", "d1/d0c/a15984" ],
-    [ "npc_giant_spotlight::npc_giant_spotlightAI", "d8/de5/a15988.html", "d8/de5/a15988" ],
-    [ "Bunthen", "d0/d08/a02936.html#adbbeebdb932cdc68f2ad2b58d4c922fb", [
-      [ "QUEST_SEA_LION_HORDE", "d0/d08/a02936.html#adbbeebdb932cdc68f2ad2b58d4c922fba19a2ff94115fefe241626f3331ce747f", null ],
-      [ "QUEST_SEA_LION_ALLY", "d0/d08/a02936.html#adbbeebdb932cdc68f2ad2b58d4c922fba9333cbca83acf867219e50edeeb6ad5a", null ],
-      [ "TAXI_PATH_ID_ALLY", "d0/d08/a02936.html#adbbeebdb932cdc68f2ad2b58d4c922fba5f9b640f23c79dda3001d48c5d714b08", null ],
-      [ "TAXI_PATH_ID_HORDE", "d0/d08/a02936.html#adbbeebdb932cdc68f2ad2b58d4c922fbaa6f489a16374ddf85329d3ee985c460b", null ]
+    [ "npc_gilthares", "d8/df3/a16154.html", "d8/df3/a16154" ],
+    [ "npc_gilthares::npc_giltharesAI", "df/d0b/a16158.html", "df/d0b/a16158" ],
+    [ "npc_taskmaster_fizzule", "d0/d1f/a16162.html", "d0/d1f/a16162" ],
+    [ "npc_taskmaster_fizzule::npc_taskmaster_fizzuleAI", "d7/def/a16166.html", "d7/def/a16166" ],
+    [ "npc_twiggy_flathead", "d7/d9a/a16170.html", "d7/d9a/a16170" ],
+    [ "npc_twiggy_flathead::npc_twiggy_flatheadAI", "d8/deb/a16174.html", "d8/deb/a16174" ],
+    [ "npc_wizzlecrank_shredder", "d7/da2/a16178.html", "d7/da2/a16178" ],
+    [ "npc_wizzlecrank_shredder::npc_wizzlecrank_shredderAI", "d7/d98/a16182.html", "d7/d98/a16182" ],
+    [ "Gilthares", "d0/d08/a02936.html#aa3e172c8a560dd0d92fb1d8f79b90716", [
+      [ "SAY_GIL_START", "d0/d08/a02936.html#aa3e172c8a560dd0d92fb1d8f79b90716a9cc558649c398869a908d76e46580a55", null ],
+      [ "SAY_GIL_AT_LAST", "d0/d08/a02936.html#aa3e172c8a560dd0d92fb1d8f79b90716a74625b1d5af887cffe07cc6889f66f94", null ],
+      [ "SAY_GIL_PROCEED", "d0/d08/a02936.html#aa3e172c8a560dd0d92fb1d8f79b90716a83573efbb4a65334a79436dadb172c25", null ],
+      [ "SAY_GIL_FREEBOOTERS", "d0/d08/a02936.html#aa3e172c8a560dd0d92fb1d8f79b90716add548aa464c97165ed4e9a07e2d26b76", null ],
+      [ "SAY_GIL_AGGRO", "d0/d08/a02936.html#aa3e172c8a560dd0d92fb1d8f79b90716a189c2478bea56968035dc5626a361ad9", null ],
+      [ "SAY_GIL_ALMOST", "d0/d08/a02936.html#aa3e172c8a560dd0d92fb1d8f79b90716af98466d2079315f8451fe5fd010cfd86", null ],
+      [ "SAY_GIL_SWEET", "d0/d08/a02936.html#aa3e172c8a560dd0d92fb1d8f79b90716a53a6c4cad1fc536662a170117dab1f9b", null ],
+      [ "SAY_GIL_FREED", "d0/d08/a02936.html#aa3e172c8a560dd0d92fb1d8f79b90716af0bf3f928b89fe85bfd73f9973f02046", null ],
+      [ "QUEST_FREE_FROM_HOLD", "d0/d08/a02936.html#aa3e172c8a560dd0d92fb1d8f79b90716a406ffd8f7c4e1a504188c50f2743b36a", null ]
     ] ],
-    [ "ClintarSpirit", "d0/d08/a02936.html#af06e96ced22feb1885564950e05417a2", [
-      [ "ASPECT_RAVEN", "d0/d08/a02936.html#af06e96ced22feb1885564950e05417a2a5aa355f8770a619dd97c43a1ed6c8e7f", null ],
-      [ "CLINTAR_SPIRIT_SAY_START", "d0/d08/a02936.html#af06e96ced22feb1885564950e05417a2a4003cbd90da80c6fb02ae957c7e3e60e", null ]
+    [ "TaskmasterFizzule", "d0/d08/a02936.html#a75148097e6b48058f314d1f1d4fc4ed0", [
+      [ "FACTION_FRIENDLY_F", "d0/d08/a02936.html#a75148097e6b48058f314d1f1d4fc4ed0a31d50866a36abfe970a3514cb06962ea", null ],
+      [ "SPELL_FLARE", "d0/d08/a02936.html#a75148097e6b48058f314d1f1d4fc4ed0a8046626c29fcfd2e2491ac4f74af6eba", null ],
+      [ "SPELL_FOLLY", "d0/d08/a02936.html#a75148097e6b48058f314d1f1d4fc4ed0a736760d92e40d0f4387af0951d3ef13a", null ]
     ] ],
-    [ "Omen", "d0/d08/a02936.html#a7fb152206db70a70437b235647a95793", [
-      [ "NPC_OMEN", "d0/d08/a02936.html#a7fb152206db70a70437b235647a95793a6d34405f4268188f4709fddd135879a1", null ],
-      [ "SPELL_OMEN_CLEAVE", "d0/d08/a02936.html#a7fb152206db70a70437b235647a95793a525d07772748bd50623894654941eebb", null ],
-      [ "SPELL_OMEN_STARFALL", "d0/d08/a02936.html#a7fb152206db70a70437b235647a95793a8a65e86a799ba7daf95b45212e2d0cac", null ],
-      [ "SPELL_OMEN_SUMMON_SPOTLIGHT", "d0/d08/a02936.html#a7fb152206db70a70437b235647a95793a09afe0a7256990b201fc144424201c79", null ],
-      [ "SPELL_ELUNE_CANDLE", "d0/d08/a02936.html#a7fb152206db70a70437b235647a95793a333999af862b8d1706a4b34ced3448e6", null ],
-      [ "GO_ELUNE_TRAP_1", "d0/d08/a02936.html#a7fb152206db70a70437b235647a95793a55d48a597022d003e1e18a7cb332c3e3", null ],
-      [ "GO_ELUNE_TRAP_2", "d0/d08/a02936.html#a7fb152206db70a70437b235647a95793a70bba7030d170525f9351e8643ed8e51", null ],
-      [ "EVENT_CAST_CLEAVE", "d0/d08/a02936.html#a7fb152206db70a70437b235647a95793a9b4959d7ea485f12c7d67e5bd7672383", null ],
-      [ "EVENT_CAST_STARFALL", "d0/d08/a02936.html#a7fb152206db70a70437b235647a95793a59097ac157a655e4c9371e19a53820fc", null ],
-      [ "EVENT_DESPAWN", "d0/d08/a02936.html#a7fb152206db70a70437b235647a95793a37c22b84c74c36e2af467a6bd1047f15", null ]
+    [ "TwiggyFlathead", "d0/d08/a02936.html#aa59efdc816049c3fc44f4f97e12a5658", [
+      [ "NPC_BIG_WILL", "d0/d08/a02936.html#aa59efdc816049c3fc44f4f97e12a5658a52b94fa0523183a46082d10748f5c26e", null ],
+      [ "NPC_AFFRAY_CHALLENGER", "d0/d08/a02936.html#aa59efdc816049c3fc44f4f97e12a5658aa3eb3b7d13bad2106f352684e916714e", null ],
+      [ "SAY_TWIGGY_FLATHEAD_BEGIN", "d0/d08/a02936.html#aa59efdc816049c3fc44f4f97e12a5658a28f41773e448294cb2b7bdb0e2196423", null ],
+      [ "SAY_TWIGGY_FLATHEAD_FRAY", "d0/d08/a02936.html#aa59efdc816049c3fc44f4f97e12a5658a1e039ea737b8aaa19f4293172019e7bd", null ],
+      [ "SAY_TWIGGY_FLATHEAD_DOWN", "d0/d08/a02936.html#aa59efdc816049c3fc44f4f97e12a5658a0a41b6c14d5e6d0fa171a6ce3571243b", null ],
+      [ "SAY_TWIGGY_FLATHEAD_OVER", "d0/d08/a02936.html#aa59efdc816049c3fc44f4f97e12a5658afcef9e183c118b65e0e78c8b503eabaa", null ]
     ] ],
-    [ "AddSC_moonglade", "d0/d08/a02936.html#a849e20dbd083abdfb7fb96857fb7d89f", null ],
-    [ "AspectRavenSummon", "d0/d08/a02936.html#a8b390a1d926d93da400a7e199a1da6b6", null ],
-    [ "Clintar_spirit_WP", "d0/d08/a02936.html#adcc622dc5710ac246cbdd4f072ad52fe", null ]
+    [ "Wizzlecrank", "d0/d08/a02936.html#ac43046d19bb8d15ff051d8b88111a24d", [
+      [ "SAY_MERCENARY", "d0/d08/a02936.html#ac43046d19bb8d15ff051d8b88111a24daf5cf9a9b244c85c38bd02b6148fe9217", null ],
+      [ "SAY_START", "d0/d08/a02936.html#ac43046d19bb8d15ff051d8b88111a24da2eae21cbf7d110ee89a9798ef6f00239", null ],
+      [ "SAY_STARTUP1", "d0/d08/a02936.html#ac43046d19bb8d15ff051d8b88111a24da38e6de67604407821fa452a13ee74da2", null ],
+      [ "SAY_STARTUP2", "d0/d08/a02936.html#ac43046d19bb8d15ff051d8b88111a24da23d6a197b8495317fae68ebc5426bfd7", null ],
+      [ "SAY_PROGRESS_1", "d0/d08/a02936.html#ac43046d19bb8d15ff051d8b88111a24dac7ef023ed2cd6e71dcfa4b57f34ffb21", null ],
+      [ "SAY_PROGRESS_2", "d0/d08/a02936.html#ac43046d19bb8d15ff051d8b88111a24da967473f354dae95832b5e82733f4cced", null ],
+      [ "SAY_PROGRESS_3", "d0/d08/a02936.html#ac43046d19bb8d15ff051d8b88111a24da25cbd1006b2e610756fbd3227fb87dcc", null ],
+      [ "SAY_END", "d0/d08/a02936.html#ac43046d19bb8d15ff051d8b88111a24da40884932ffbbf14d6c380b9022bcfe97", null ],
+      [ "QUEST_ESCAPE", "d0/d08/a02936.html#ac43046d19bb8d15ff051d8b88111a24dac283b4a9a83bbf1c8f03006b37d75208", null ],
+      [ "NPC_PILOT_WIZZ", "d0/d08/a02936.html#ac43046d19bb8d15ff051d8b88111a24dabea7d3cfb3795470ea680285a2de300b", null ],
+      [ "NPC_MERCENARY", "d0/d08/a02936.html#ac43046d19bb8d15ff051d8b88111a24da3fe4be631c0b988a493e3867b76fab3f", null ]
+    ] ],
+    [ "AddSC_the_barrens", "d0/d08/a02936.html#a89bb85fa847a65b610f6b4d1f9f0214c", null ],
+    [ "AffrayChallengerLoc", "d0/d08/a02936.html#a0e553820217161ed24e533b560f8ab03", null ]
 ];

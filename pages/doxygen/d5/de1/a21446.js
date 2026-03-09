@@ -1,6 +1,10 @@
 var a21446 =
 [
-    [ "boss_toravonAI", "d3/d7d/a21450.html", "d3/d7d/a21450" ],
-    [ "boss_toravon", "d5/de1/a21446.html#abd30a86924bd7dd9474b5df16f3a8d8d", null ],
-    [ "GetAI", "d5/de1/a21446.html#a6db140b1d232312300e20155830cb249", null ]
+    [ "npc_azure_invaderAI", "d5/de1/a21446.html#a85f164a6ba24d7a14d77264441a78f46", null ],
+    [ "Reset", "d5/de1/a21446.html#ada44600272b19d9416d957bc52bc3be4", null ],
+    [ "UpdateAI", "d5/de1/a21446.html#a7dfdcb2a88930c6b4150f7f7c825a2df", null ],
+    [ "uiBrutalStrikeTimer", "d5/de1/a21446.html#a4b88a85f3344edbdadde0104668509aa", null ],
+    [ "uiCleaveTimer", "d5/de1/a21446.html#a8b1792a8a405651d602d9ed634f52689", null ],
+    [ "uiImpaleTimer", "d5/de1/a21446.html#aa709ee8919a2d0317d563259c7630c99", null ],
+    [ "uiSunderArmorTimer", "d5/de1/a21446.html#ab2e6d01df033985ac29e963cf2895466", null ]
 ];

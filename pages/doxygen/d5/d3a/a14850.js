@@ -1,12 +1,11 @@
 var a14850 =
 [
-    [ "boss_kazrogal", "d5/d3a/a14850.html#a2b3cc0e99c478c55f907898fbec2b8b2", null ],
-    [ "DoAction", "d5/d3a/a14850.html#a7721debceeefaeb69e71855b8e8742f8", null ],
-    [ "GetMarkRepeatTimer", "d5/d3a/a14850.html#a0b54f8c935d09367d7e6b7dbf6c4ce61", null ],
-    [ "JustDied", "d5/d3a/a14850.html#abc839abddfbb5fb1e1dd3a67e0b661cb", null ],
-    [ "JustEngagedWith", "d5/d3a/a14850.html#a2c0aafd271b2500d32f5add7e75cd990", null ],
-    [ "KilledUnit", "d5/d3a/a14850.html#ab1439114a84d85947106d979f38d12fa", null ],
-    [ "Reset", "d5/d3a/a14850.html#acb9f4ee5d97b43082bf6fc0c424685ab", null ],
-    [ "_markCounter", "d5/d3a/a14850.html#a54ef8b88bf62e260e19a964d1926ef4a", null ],
-    [ "_recentlySpoken", "d5/d3a/a14850.html#ad7401abae1b25d58ed93cc800d75bc26", null ]
+    [ "o", "d5/d3a/a14850.html#af0a1551e7a1ced5413b6096ba15db8b2", null ],
+    [ "rot0", "d5/d3a/a14850.html#a1cc2b7787c803a4e126e06ab5b5c0ee6", null ],
+    [ "rot1", "d5/d3a/a14850.html#a71696fa3f95eb20d950b6ba2ada153f4", null ],
+    [ "rot2", "d5/d3a/a14850.html#ac2e4113330ebc9d9db379fb87eb55c03", null ],
+    [ "rot3", "d5/d3a/a14850.html#a3fc28475914b0ed4afe46fd4f4ff66b1", null ],
+    [ "x", "d5/d3a/a14850.html#a6e527854cf0959995d6b0133dedc94c9", null ],
+    [ "y", "d5/d3a/a14850.html#a7536047696bd4883237369976b503131", null ],
+    [ "z", "d5/d3a/a14850.html#a33ba4ca8ce5f406aaa5f571ba7236eb5", null ]
 ];

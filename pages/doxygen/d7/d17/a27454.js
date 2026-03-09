@@ -1,6 +1,7 @@
 var a27454 =
 [
-    [ "go_flamesAI", "d7/d23/a27458.html", "d7/d23/a27458" ],
-    [ "go_flames", "d7/d17/a27454.html#a75d49202eaf2078b8276e59944d1ec89", null ],
-    [ "GetAI", "d7/d17/a27454.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
+    [ "CalculateAmount", "d7/d17/a27454.html#adc34e5742173d039f6050d5ccc0a2cae", null ],
+    [ "PrepareAuraScript", "d7/d17/a27454.html#aa966d001c3687403dfa2b13e998ca241", null ],
+    [ "Register", "d7/d17/a27454.html#aeecb9756d4304ed2316b6d2a8f0d6ac4", null ],
+    [ "Validate", "d7/d17/a27454.html#af1eee4d8e966d66fea04173e7481b5ce", null ]
 ];

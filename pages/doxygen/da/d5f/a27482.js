@@ -1,6 +1,7 @@
 var a27482 =
 [
-    [ "go_l70_etc_musicAI", "da/d5f/a27482.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
-    [ "UpdateAI", "da/d5f/a27482.html#a182a5a9bbe53ced25740de9a4a368469", null ],
-    [ "_events", "da/d5f/a27482.html#aa0cda672b4491b3cfc75214038aa2132", null ]
+    [ "HandleDispel", "da/d5f/a27482.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
+    [ "PrepareAuraScript", "da/d5f/a27482.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
+    [ "Register", "da/d5f/a27482.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
+    [ "Validate", "da/d5f/a27482.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
 ];

@@ -1,6 +1,16 @@
 var a18466 =
 [
-    [ "npc_icc_ice_sphereAI", "df/dfd/a18470.html", "df/dfd/a18470" ],
-    [ "npc_icc_ice_sphere", "d6/d89/a18466.html#a4ed169ba87e801bb83ca4f3c457534cf", null ],
-    [ "GetAI", "d6/d89/a18466.html#aabb9ef14ea217f282173edf1600d3ecd", null ]
+    [ "boss_rotfaceAI", "d6/d89/a18466.html#abe4c4df1732127814a507b0f99203ebb", null ],
+    [ "EnterEvadeMode", "d6/d89/a18466.html#a8b166241350c7437c0baab2bc783dc93", null ],
+    [ "JustDied", "d6/d89/a18466.html#ab5ba6f23e4a0f097386452bdd497ef5a", null ],
+    [ "JustEngagedWith", "d6/d89/a18466.html#aa34831a7c2986451ff518a76547edecc", null ],
+    [ "JustReachedHome", "d6/d89/a18466.html#adac69ee7aca11d5d355ef71a11a39a1d", null ],
+    [ "JustSummoned", "d6/d89/a18466.html#aaa273c65b0545931797057ca4cdab1eb", null ],
+    [ "KilledUnit", "d6/d89/a18466.html#a9356f21962b312eccfba1b3e75afaba0", null ],
+    [ "Reset", "d6/d89/a18466.html#aed06635aabcb47fd700ab1a894bad13c", null ],
+    [ "SpellHitTarget", "d6/d89/a18466.html#a99d88373a20464fac3ebf035430c2e75", null ],
+    [ "UpdateAI", "d6/d89/a18466.html#aaf47878572d23bfb22f2ae77fed8d95e", null ],
+    [ "_oozeFloodDummyGUIDs", "d6/d89/a18466.html#a28e859c796fc210cba9a1ac7bfd0124a", null ],
+    [ "_oozeFloodStage", "d6/d89/a18466.html#aa007ed2c05914b1ce664d347bb04abaa", null ],
+    [ "infectionCooldown", "d6/d89/a18466.html#a3b9c9223da7cd6163ea6369fee6439f5", null ]
 ];

@@ -1,7 +1,21 @@
 var a02738 =
 [
-    [ "go_transport_the_iron_eagle", "d6/de3/a28672.html", "d6/de3/a28672" ],
-    [ "go_transport_the_thundercaller", "de/d16/a28676.html", "de/d16/a28676" ],
-    [ "go_transport_the_purple_princess", "dd/d9b/a28680.html", "dd/d9b/a28680" ],
-    [ "AddSC_transport_zeppelins", "da/d62/a02738.html#a29051596b0a3382db98c6b72f7ff3173", null ]
+    [ "AccountActionIpLogger", "d1/d55/a28026.html", "d1/d55/a28026" ],
+    [ "CharacterActionIpLogger", "d6/d28/a28030.html", "d6/d28/a28030" ],
+    [ "CharacterDeleteActionIpLogger", "d7/d83/a28034.html", "d7/d83/a28034" ],
+    [ "IPLoggingTypes", "da/d62/a02738.html#a3b67d8dbf539fa5519b3e33da9d0137b", [
+      [ "ACCOUNT_LOGIN", "da/d62/a02738.html#a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8", null ],
+      [ "ACCOUNT_FAIL_LOGIN", "da/d62/a02738.html#a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f", null ],
+      [ "ACCOUNT_CHANGE_PW", "da/d62/a02738.html#a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059", null ],
+      [ "ACCOUNT_CHANGE_PW_FAIL", "da/d62/a02738.html#a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53", null ],
+      [ "ACCOUNT_CHANGE_EMAIL", "da/d62/a02738.html#a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c", null ],
+      [ "ACCOUNT_CHANGE_EMAIL_FAIL", "da/d62/a02738.html#a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30", null ],
+      [ "CHARACTER_CREATE", "da/d62/a02738.html#a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85", null ],
+      [ "CHARACTER_LOGIN", "da/d62/a02738.html#a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363", null ],
+      [ "CHARACTER_LOGOUT", "da/d62/a02738.html#a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607", null ],
+      [ "CHARACTER_DELETE", "da/d62/a02738.html#a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162", null ],
+      [ "CHARACTER_FAILED_DELETE", "da/d62/a02738.html#a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7", null ],
+      [ "UNKNOWN_ACTION", "da/d62/a02738.html#a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8", null ]
+    ] ],
+    [ "AddSC_action_ip_logger", "da/d62/a02738.html#a530be5efb251d5ca58e97804e48ad953", null ]
 ];

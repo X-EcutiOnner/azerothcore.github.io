@@ -1,6 +1,6 @@
 var a27866 =
 [
-    [ "npc_experience", "dd/d23/a27866.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
-    [ "OnGossipHello", "dd/d23/a27866.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
-    [ "OnGossipSelect", "dd/d23/a27866.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
+    [ "HandleDummy", "dd/d23/a27866.html#a68a86f7f86324336dc837622e01fa6af", null ],
+    [ "PrepareSpellScript", "dd/d23/a27866.html#a8c0a4b3b96a93b6977c2d3077fdfff1d", null ],
+    [ "Register", "dd/d23/a27866.html#ad168c9164d1edd23abfbf05141b96de4", null ]
 ];

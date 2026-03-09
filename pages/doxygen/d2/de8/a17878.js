@@ -1,6 +1,7 @@
 var a17878 =
 [
-    [ "BurningPitchFilterCheck", "d2/de8/a17878.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
-    [ "operator()", "d2/de8/a17878.html#a24be987c8471d8a7096025debf6e60b1", null ],
-    [ "_entry", "d2/de8/a17878.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
+    [ "PeriodicTick", "d2/de8/a17878.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
+    [ "PrepareAuraScript", "d2/de8/a17878.html#ac1abcbe62887678adad0194fdf27825a", null ],
+    [ "Register", "d2/de8/a17878.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
+    [ "Validate", "d2/de8/a17878.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
 ];

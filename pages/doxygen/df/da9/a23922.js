@@ -1,8 +1,10 @@
 var a23922 =
 [
-    [ "boss_commander_sarannis", "df/da9/a23922.html#ace0957feb37f864798008849be25f607", null ],
-    [ "JustDied", "df/da9/a23922.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
-    [ "JustEngagedWith", "df/da9/a23922.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
-    [ "KilledUnit", "df/da9/a23922.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
-    [ "ScheduleReinforcements", "df/da9/a23922.html#a293f0b860a66396a30c6d255eef85309", null ]
+    [ "npc_raging_flames", "df/da9/a23922.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
+    [ "EnterEvadeMode", "df/da9/a23922.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
+    [ "FixateRandomTarget", "df/da9/a23922.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
+    [ "InitializeAI", "df/da9/a23922.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
+    [ "IsSummonedBy", "df/da9/a23922.html#ae42c4329be355807af92c1c803e61500", null ],
+    [ "Reset", "df/da9/a23922.html#a34ac2249e507784d81c4040e87a646e0", null ],
+    [ "UpdateAI", "df/da9/a23922.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
 ];

@@ -1,7 +1,7 @@
 var a21890 =
 [
-    [ "npc_cosmetic_toy_plane", "dd/da0/a21890.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
-    [ "Reset", "dd/da0/a21890.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
-    [ "UpdateAI", "dd/da0/a21890.html#a41d62b314510fbd6637d8eddbea16f96", null ],
-    [ "_movementArray", "dd/da0/a21890.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
+    [ "OnRemove", "dd/da0/a21890.html#a335bc64860227122e0536f61144e2003", null ],
+    [ "PrepareAuraScript", "dd/da0/a21890.html#ae38bdeb74493f73bed1246c011bb2076", null ],
+    [ "Register", "dd/da0/a21890.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
+    [ "Validate", "dd/da0/a21890.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
 ];

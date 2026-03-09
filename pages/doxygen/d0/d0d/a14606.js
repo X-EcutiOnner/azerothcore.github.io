@@ -1,10 +1,6 @@
 var a14606 =
 [
-    [ "boss_headless_horseman_pumpkin", "d0/d0d/a14606.html#a62191ae523401ac57a947db96a245f7a", null ],
-    [ "AttackStart", "d0/d0d/a14606.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
-    [ "MoveInLineOfSight", "d0/d0d/a14606.html#a212f9803f66d297cd276ef842247776a", null ],
-    [ "Reset", "d0/d0d/a14606.html#a9d5f6922a52146b61168f1c50b378294", null ],
-    [ "SpellHit", "d0/d0d/a14606.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
-    [ "UpdateAI", "d0/d0d/a14606.html#aca53b8839bce5e180ba8583490d694c3", null ],
-    [ "timer", "d0/d0d/a14606.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
+    [ "LaunchHit", "d0/d0d/a14606.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
+    [ "PrepareSpellScript", "d0/d0d/a14606.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
+    [ "Register", "d0/d0d/a14606.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
 ];

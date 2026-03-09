@@ -1,7 +1,7 @@
 var a15922 =
 [
-    [ "npc_ranshallaAI", "d5/d2a/a15926.html", "d5/d2a/a15926" ],
-    [ "npc_ranshalla", "d3/d87/a15922.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
-    [ "GetAI", "d3/d87/a15922.html#a1a81651366cc05d3ad6e9929160fe059", null ],
-    [ "OnQuestAccept", "d3/d87/a15922.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
+    [ "npc_tharnarianAI", "d5/d2a/a15926.html", "d5/d2a/a15926" ],
+    [ "npc_tharnarian", "d3/d87/a15922.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
+    [ "GetAI", "d3/d87/a15922.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
+    [ "OnQuestReward", "d3/d87/a15922.html#aedf88edfd99292a68b8e08f9f05d8f00", null ]
 ];

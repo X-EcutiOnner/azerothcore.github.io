@@ -1,10 +1,11 @@
 var a23458 =
 [
-    [ "Spells", "d5/d4d/a23458.html#a70ca1841fb1db54e6f76b96331e05cf1", [
-      [ "SPELL_GROW", "d5/d4d/a23458.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
-      [ "SPELL_SPORE_CLOUD", "d5/d4d/a23458.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
-    ] ],
-    [ "npc_rancid_mushroom", "d5/d4d/a23458.html#a15896957b94de57de9eda5a199a05d4c", null ],
-    [ "InitializeAI", "d5/d4d/a23458.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
-    [ "UpdateAI", "d5/d4d/a23458.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
+    [ "boss_gruul", "d5/d4d/a23458.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
+    [ "JustDied", "d5/d4d/a23458.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
+    [ "JustEngagedWith", "d5/d4d/a23458.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
+    [ "KilledUnit", "d5/d4d/a23458.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
+    [ "Reset", "d5/d4d/a23458.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
+    [ "UpdateAI", "d5/d4d/a23458.html#a3503b84f4fb896d439ccd49a997e4087", null ],
+    [ "_caveInTimer", "d5/d4d/a23458.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
+    [ "_recentlySpoken", "d5/d4d/a23458.html#a411ec67153dd4715eb397a420c45bb12", null ]
 ];

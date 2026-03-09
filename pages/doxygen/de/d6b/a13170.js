@@ -1,6 +1,7 @@
 var a13170 =
 [
-    [ "npc_koltira_deathweaverAI", "db/d69/a13174.html", "db/d69/a13174" ],
-    [ "npc_koltira_deathweaver", "de/d6b/a13170.html#a5e9fdbc8dc70ce3480906b86aed381a3", null ],
-    [ "GetAI", "de/d6b/a13170.html#afddc561b88679f3dd6ca8b374807b0f0", null ]
+    [ "npc_malchezaar_axe", "de/d6b/a13170.html#a1a5615f2def10add30e7917b770ebc74", null ],
+    [ "Initialize", "de/d6b/a13170.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
+    [ "JustEngagedWith", "de/d6b/a13170.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
+    [ "UpdateAI", "de/d6b/a13170.html#a202ba6922a426f87909eefbccd070175", null ]
 ];

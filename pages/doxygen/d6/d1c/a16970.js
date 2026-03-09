@@ -1,6 +1,8 @@
 var a16970 =
 [
-    [ "FilterTargets", "d6/d1c/a16970.html#a36879a2920f43562bb0ff89c76d758e4", null ],
-    [ "PrepareSpellScript", "d6/d1c/a16970.html#afeb95c5fe970ebc147d509981b026e98", null ],
-    [ "Register", "d6/d1c/a16970.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
+    [ "npc_toc_boomkinAI", "d6/d1c/a16970.html#a12c586d57aa6dd3893889f103dbfee20", null ],
+    [ "JustSummoned", "d6/d1c/a16970.html#a0d049885773b7f1abd7e03f9200852f4", null ],
+    [ "myCanCast", "d6/d1c/a16970.html#a691a0250db77cc4def2bf67b25a1298c", null ],
+    [ "UpdateAI", "d6/d1c/a16970.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
+    [ "events", "d6/d1c/a16970.html#a0b367855092884b2ce30834e89fced87", null ]
 ];

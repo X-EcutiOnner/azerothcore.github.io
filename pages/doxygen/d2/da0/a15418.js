@@ -1,6 +1,10 @@
 var a15418 =
 [
-    [ "HandleOnHit", "d2/da0/a15418.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
-    [ "PrepareSpellScript", "d2/da0/a15418.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
-    [ "Register", "d2/da0/a15418.html#a1e608d67914c0071a913d96d70c625d6", null ]
+    [ "CurrId", "d2/da0/a15418.html#a126d1c0e7d475a07acd91de471cb7cab", null ],
+    [ "DestId", "d2/da0/a15418.html#a7b12c520ee50ab29e5047a1c71b22729", null ],
+    [ "o", "d2/da0/a15418.html#a94c284d63e66765c4d484c8edea8fdb8", null ],
+    [ "spellId", "d2/da0/a15418.html#a7240ecd6f50a6db0e2be4eb4e55b3a48", null ],
+    [ "x", "d2/da0/a15418.html#a41c7bdb057d984f552a41835651d84f5", null ],
+    [ "y", "d2/da0/a15418.html#abe083129d7a4e514e97eeae7cff40af5", null ],
+    [ "z", "d2/da0/a15418.html#ac49d886d09e2ebf8ccf8abd59a9649ec", null ]
 ];

@@ -1,6 +1,6 @@
 var a17946 =
 [
-    [ "npc_vengeful_shadeAI", "dd/dee/a17950.html", "dd/dee/a17950" ],
-    [ "npc_vengeful_shade", "db/d26/a17946.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
-    [ "GetAI", "db/d26/a17946.html#afa2c672015b43d83bd55050ed020f7e5", null ]
+    [ "npc_saurfang_eventAI", "dd/dee/a17950.html", "dd/dee/a17950" ],
+    [ "npc_saurfang_event", "db/d26/a17946.html#a3bfce5457466360458498833098d660c", null ],
+    [ "GetAI", "db/d26/a17946.html#a953842d2fa3380a8331faf3a42cb3177", null ]
 ];

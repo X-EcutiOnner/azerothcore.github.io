@@ -1,4 +1,4 @@
 var a01067 =
 [
-    [ "ScriptRegistry< AreaTriggerScript >", "d2/d49/a01067.html#a0447158682f05ead25ae60d49a490088", null ]
+    [ "ScriptRegistry< BattlefieldScript >", "d2/d49/a01067.html#a66e07787094ffe5d2156ad0768c6dd4e", null ]
 ];

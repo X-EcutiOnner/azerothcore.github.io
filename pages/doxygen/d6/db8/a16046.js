@@ -1,7 +1,9 @@
 var a16046 =
 [
-    [ "HandleScript", "d6/db8/a16046.html#ae9939f2795b8ba428277c7d658af715c", null ],
-    [ "PrepareSpellScript", "d6/db8/a16046.html#aabe244008103ff317e3fc1e26b04115a", null ],
-    [ "Register", "d6/db8/a16046.html#a4f492bdd96ef190354f37c95217bb696", null ],
-    [ "Validate", "d6/db8/a16046.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
+    [ "npc_thrall_warchiefAI", "d5/dab/a16050.html", "d5/dab/a16050" ],
+    [ "npc_thrall_warchief", "d6/db8/a16046.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
+    [ "GetAI", "d6/db8/a16046.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
+    [ "OnGossipHello", "d6/db8/a16046.html#a5cd40c062fb07d2ddfffdc159f2935d3", null ],
+    [ "OnGossipSelect", "d6/db8/a16046.html#a63367ca0b252c148f625b305575fd768", null ],
+    [ "OnQuestReward", "d6/db8/a16046.html#a6576664c201d62cab1fa2f073cddee6e", null ]
 ];

@@ -1,15 +1,15 @@
 var a19598 =
 [
-    [ "boss_varosAI", "db/d79/a19598.html#a3e6815b80a3f9f5e8c53bb762e9058f2", null ],
-    [ "EnterEvadeMode", "db/d79/a19598.html#a0b7eeef4529b47357d729852cdeab002", null ],
-    [ "JustDied", "db/d79/a19598.html#a2724167a66a059e1c0ca1612d8405d68", null ],
-    [ "JustEngagedWith", "db/d79/a19598.html#a2f25555ca2884f6bffb289d209e87740", null ],
-    [ "JustSummoned", "db/d79/a19598.html#a24b2a1e438b02c67e64b79adb0cfeafe", null ],
-    [ "MoveInLineOfSight", "db/d79/a19598.html#a87f743f03dc19659d0e77ee23cd2c327", null ],
-    [ "Reset", "db/d79/a19598.html#aef24d04954a26bb6381c860403e84288", null ],
-    [ "UpdateAI", "db/d79/a19598.html#acc1ac3c2bf5cb1a7732f375285467423", null ],
-    [ "events", "db/d79/a19598.html#a36746118770c936e7606962365e102d8", null ],
-    [ "pInstance", "db/d79/a19598.html#a9cf7c0159753512ae7dea8a2f6a9da74", null ],
-    [ "step", "db/d79/a19598.html#af4c8e11f0aad369f09902eb1ccc48059", null ],
-    [ "ZapAngle", "db/d79/a19598.html#aef225fcf580c5e500d3242ac4be24260", null ]
+    [ "boss_loathebAI", "db/d79/a19598.html#a60256114947b0e9c01f5308108485935", null ],
+    [ "IsInRoom", "db/d79/a19598.html#a617d45ab3bde4184aa31c1b2c70c1a6f", null ],
+    [ "JustDied", "db/d79/a19598.html#acf24e563d4876fb9f899a4250b19b6f5", null ],
+    [ "JustEngagedWith", "db/d79/a19598.html#a1abcf157e05eeb634f8e857a2de35538", null ],
+    [ "JustSummoned", "db/d79/a19598.html#a8a28f9fe6c087c230103d1139ddb73dc", null ],
+    [ "KilledUnit", "db/d79/a19598.html#a4dac78bba24069050dd9df729dd58b45", null ],
+    [ "Reset", "db/d79/a19598.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
+    [ "SummonedCreatureDies", "db/d79/a19598.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
+    [ "UpdateAI", "db/d79/a19598.html#ab009008f892493b822e5ea5491c58525", null ],
+    [ "doomCounter", "db/d79/a19598.html#aed5c631ede2eea27451a74ae21221325", null ],
+    [ "events", "db/d79/a19598.html#adc49463bbe227f892e31716516032c64", null ],
+    [ "summons", "db/d79/a19598.html#a37ef117714403002afb4faa4978f136b", null ]
 ];

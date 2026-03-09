@@ -1,7 +1,7 @@
 var a13462 =
 [
-    [ "CheckCast", "d4/df0/a13462.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
-    [ "PrepareSpellScript", "d4/df0/a13462.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
-    [ "Register", "d4/df0/a13462.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
-    [ "Validate", "d4/df0/a13462.html#a9208b9c010bb9cc379c195939351aa45", null ]
+    [ "npc_unworthy_initiate_anchorAI", "d4/df0/a13462.html#a2d1a90c4f3c5047a41c7e9f80db13a99", null ],
+    [ "GetGUID", "d4/df0/a13462.html#a83cca82e7d75231a6aa586f67dad766e", null ],
+    [ "SetGUID", "d4/df0/a13462.html#ad5cb7d502138bc067a63a32a583ee99a", null ],
+    [ "prisonerGUID", "d4/df0/a13462.html#a38a3e7e7207bb6d809d03c90e67f7742", null ]
 ];

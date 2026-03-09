@@ -1,6 +1,6 @@
 var a00479 =
 [
-    [ "Log", "db/d7d/a05568.html", "db/d7d/a05568" ],
+    [ "Log", "dd/d82/a05598.html", "dd/d82/a05598" ],
     [ "LOG_DEBUG", "d9/d4a/a00479.html#a47ac782b14a7531c6232777165a1a161", null ],
     [ "LOG_ERROR", "d9/d4a/a00479.html#a43832e3fa8508deb4ce43e520005fcd9", null ],
     [ "LOG_EXCEPTION_FREE", "d9/d4a/a00479.html#aa30f9aa89655372730e1d6fec2e40c5e", null ],

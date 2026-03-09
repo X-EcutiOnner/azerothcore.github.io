@@ -1,11 +1,11 @@
 var a13766 =
 [
-    [ "npc_supervisor_raelen", "d4/d5b/a13766.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
-    [ "CallPeasent", "d4/d5b/a13766.html#a0b8d661a86ec334adeb502d6936135ee", null ],
-    [ "Reset", "d4/d5b/a13766.html#a656029c56da84d2d3cee7380d6032e3d", null ],
-    [ "SetData", "d4/d5b/a13766.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
-    [ "UpdateAI", "d4/d5b/a13766.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
-    [ "_events", "d4/d5b/a13766.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
-    [ "_PeasentId", "d4/d5b/a13766.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
-    [ "peasentGUIDs", "d4/d5b/a13766.html#a6e290a29c8205b22bd668f0516e8904a", null ]
+    [ "boss_alythess", "d4/d5b/a13766.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
+    [ "AttackStart", "d4/d5b/a13766.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
+    [ "DoAction", "d4/d5b/a13766.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
+    [ "JustDied", "d4/d5b/a13766.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
+    [ "JustEngagedWith", "d4/d5b/a13766.html#ac5047ee0124864304284c1142e885158", null ],
+    [ "KilledUnit", "d4/d5b/a13766.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
+    [ "Reset", "d4/d5b/a13766.html#ab5f990d305f42a2d00e182f617175672", null ],
+    [ "_isSisterDead", "d4/d5b/a13766.html#a9f9fa0823685066b4990a17880782b9a", null ]
 ];

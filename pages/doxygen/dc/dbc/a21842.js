@@ -1,5 +1,8 @@
 var a21842 =
 [
-    [ "npc_mei_francis_mountAI", "dc/dbc/a21842.html#aa9886ead02754faebff8b21eeb85dee6", null ],
-    [ "CanBeSeen", "dc/dbc/a21842.html#ad5e33495339a0315bc7b01351810157e", null ]
+    [ "npc_q24545_vegardAI", "dc/dbc/a21842.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "dc/dbc/a21842.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "dc/dbc/a21842.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "dc/dbc/a21842.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "dc/dbc/a21842.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

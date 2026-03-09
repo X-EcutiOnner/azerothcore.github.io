@@ -1,5 +1,6 @@
 var a16810 =
 [
-    [ "npc_essence_of_twin", "d6/d63/a16810.html#a019de64e5e01e611acfda5db4c279b19", null ],
-    [ "OnGossipHello", "d6/d63/a16810.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
+    [ "npc_toc5_grand_champion_minionAI", "df/d64/a16814.html", "df/d64/a16814" ],
+    [ "npc_toc5_grand_champion_minion", "d6/d63/a16810.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
+    [ "GetAI", "d6/d63/a16810.html#a55acf397b94ba63b1db626dc1041b28e", null ]
 ];

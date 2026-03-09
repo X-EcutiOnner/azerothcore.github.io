@@ -1,8 +1,10 @@
 var a17802 =
 [
-    [ "npc_gunship_mageAI", "d5/d9c/a17802.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
-    [ "AttackStart", "d5/d9c/a17802.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
-    [ "CanAIAttack", "d5/d9c/a17802.html#aadcb217a9df96bee02287d75a23e32c2", null ],
-    [ "MovementInform", "d5/d9c/a17802.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
-    [ "UpdateAI", "d5/d9c/a17802.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
+    [ "npc_dark_nucleusAI", "d5/d9c/a17802.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
+    [ "AttackStart", "d5/d9c/a17802.html#a3dec28dd13257b944df0c559d26a76e0", null ],
+    [ "DamageTaken", "d5/d9c/a17802.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
+    [ "JustDied", "d5/d9c/a17802.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
+    [ "Reset", "d5/d9c/a17802.html#ac84f79f84e721ab1306c8eed8658b143", null ],
+    [ "UpdateAI", "d5/d9c/a17802.html#a3a08457c34d4dd904a99a78875d6318c", null ],
+    [ "timer", "d5/d9c/a17802.html#ac5f9824276987b81aef5cfee05158049", null ]
 ];

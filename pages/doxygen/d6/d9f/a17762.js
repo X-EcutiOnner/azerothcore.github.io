@@ -1,5 +1,6 @@
 var a17762 =
 [
-    [ "npc_zafod_boomboxAI", "d6/d9f/a17762.html#a6540d8f5787ce1da211123721ef659f3", null ],
-    [ "sGossipSelect", "d6/d9f/a17762.html#a6378748a168e4e668f696bd9c6dfbc31", null ]
+    [ "ShockVortexExplodeEvent", "d6/d9f/a17762.html#ad972aed372822e10a476d1592192f3ea", null ],
+    [ "Execute", "d6/d9f/a17762.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
+    [ "_owner", "d6/d9f/a17762.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
 ];

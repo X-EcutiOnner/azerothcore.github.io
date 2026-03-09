@@ -1,6 +1,8 @@
 var a11546 =
 [
-    [ "CheckProcHandler", "d1/d94/a11546.html#a1b5bfc85cb9a81a64ebd4b769e3d3651", null ],
-    [ "Call", "d1/d94/a11546.html#a977558dc8838a05259effc268235696a", null ],
-    [ "_HandlerScript", "d1/d94/a11546.html#abcb28d1a2f32402511c1e659b2f3b443", null ]
+    [ "SkillPerfectItemEntry", "d1/d94/a11546.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
+    [ "SkillPerfectItemEntry", "d1/d94/a11546.html#a678f9908440187faad38c0e1ffaf82de", null ],
+    [ "perfectCreateChance", "d1/d94/a11546.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
+    [ "perfectItemType", "d1/d94/a11546.html#a057605f8867d4df5cb290318598a2908", null ],
+    [ "requiredSpecialization", "d1/d94/a11546.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
 ];

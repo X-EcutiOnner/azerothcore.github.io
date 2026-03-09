@@ -1,6 +1,4 @@
 var a10462 =
 [
-    [ "WeatherScript", "df/d0a/a10462.html#a4f86b051364c95f5389d7ed473429b7b", null ],
-    [ "IsDatabaseBound", "df/d0a/a10462.html#a2547902149ce080711ccacb709b10e8a", null ],
-    [ "OnChange", "df/d0a/a10462.html#a10c105f1e1bff1e9fe484e98b00cf76c", null ]
+    [ "RewardText", "df/d0a/a10462.html#afa9f5200ef634323d719794e1d1aa4d2", null ]
 ];

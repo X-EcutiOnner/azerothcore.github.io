@@ -1,6 +1,11 @@
 var a15954 =
 [
-    [ "npc_sergeant_blyAI", "d5/d51/a15958.html", "d5/d51/a15958" ],
-    [ "npc_sergeant_bly", "db/d79/a15954.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
-    [ "GetAI", "db/d79/a15954.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
+    [ "npc_tiger_matriarchAI", "db/d79/a15954.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
+    [ "DamageTaken", "db/d79/a15954.html#ab41c4275fe4f42b36615f746a100ccda", null ],
+    [ "IsSummonedBy", "db/d79/a15954.html#a8b02683be93944a65b38658bba0af4d8", null ],
+    [ "JustEngagedWith", "db/d79/a15954.html#a9a9295008552f5330f778dd3a0c591ea", null ],
+    [ "KilledUnit", "db/d79/a15954.html#aabde7633ac07966ee1cd2d9817582189", null ],
+    [ "UpdateAI", "db/d79/a15954.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
+    [ "_events", "db/d79/a15954.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
+    [ "_tigerGuid", "db/d79/a15954.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
 ];

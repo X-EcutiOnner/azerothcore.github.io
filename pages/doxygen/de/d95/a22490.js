@@ -1,14 +1,13 @@
 var a22490 =
 [
-    [ "npc_wild_wyrm", "de/d95/a22490.html#a7adb3a9f2d17c55995218219c2af13a6", null ],
-    [ "DamageTaken", "de/d95/a22490.html#a0ff51f46c203f3b1b8dea063463c5c4d", null ],
-    [ "DoAction", "de/d95/a22490.html#afdd165233995f79aa9ec82d7c2c1f258", null ],
-    [ "InitSpellsForPhase", "de/d95/a22490.html#adcc805b0880d95c185af4a587474c2d2", null ],
-    [ "MovementInform", "de/d95/a22490.html#aeaa4f0327f06ee67a63fd15b914ffac8", null ],
-    [ "PassengerBoarded", "de/d95/a22490.html#a362052015873c615448bec978d744c9e", null ],
-    [ "Reset", "de/d95/a22490.html#a2e826c49b41a389ddfbeac3d3c7933f5", null ],
-    [ "SpellHit", "de/d95/a22490.html#a3d12d555ab7c992ca37e826609b3cd72", null ],
-    [ "UpdateAI", "de/d95/a22490.html#adbbf5b93476eef2ef54f51d2523a726e", null ],
-    [ "_phase", "de/d95/a22490.html#a7fa0ac4d2feaf62b08c4667c8f0b7474", null ],
-    [ "_playerGuid", "de/d95/a22490.html#ade2cc59d0afcf5ebfd7c6fbd694e0809", null ]
+    [ "OPvPCapturePointEP_PWT", "de/d95/a22490.html#a17e3d11c9b282f203bb0e1511fb5af02", null ],
+    [ "ChangeState", "de/d95/a22490.html#a1e26a3ed8d700533df0a51d8db510a4f", null ],
+    [ "FillInitialWorldStates", "de/d95/a22490.html#ab5faf124f53394a4a54a86a7bf5d0626", null ],
+    [ "HandlePlayerEnter", "de/d95/a22490.html#ab9bf289c0814e60fd75902b4e87d1e46", null ],
+    [ "HandlePlayerLeave", "de/d95/a22490.html#a5772e54263c613eee365856def5e74e6", null ],
+    [ "SendChangePhase", "de/d95/a22490.html#af1cffc64adac5b64c04175ad1685d0b8", null ],
+    [ "SummonFlightMaster", "de/d95/a22490.html#ab3808f8d756cc5f0b48db9375ae2fa1c", null ],
+    [ "UpdateTowerState", "de/d95/a22490.html#af30325b43d2861eb667b33dcb23ffc1e", null ],
+    [ "m_FlightMasterSpawnedId", "de/d95/a22490.html#afeefd804849b925e6d0a880d8efb5319", null ],
+    [ "m_TowerState", "de/d95/a22490.html#a914dcbb37baf457750cfe9829d95d88c", null ]
 ];

@@ -1,8 +1,10 @@
 var a13494 =
 [
-    [ "npc_demonic_vapor", "d3/d2d/a13494.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
-    [ "IsSummonedBy", "d3/d2d/a13494.html#ace56fe54dc6d3f597df0d1e28924082f", null ],
-    [ "Reset", "d3/d2d/a13494.html#a7d2b88ab26904cedaac34f03567806bc", null ],
-    [ "UpdateAI", "d3/d2d/a13494.html#a6637d2d5fc6615c2d76aa0d04c36a047", null ],
-    [ "_timer", "d3/d2d/a13494.html#ab067f5b9b9f37db4db9ab6e5295e5d52", null ]
+    [ "npc_scarlet_courierAI", "d3/d2d/a13494.html#a83c5e32659d38a513790322e46dcc283", null ],
+    [ "JustEngagedWith", "d3/d2d/a13494.html#aa470197f0949a413c421bda8c7c09279", null ],
+    [ "MovementInform", "d3/d2d/a13494.html#add19812d92d62b602f96ffc5fb513d6c", null ],
+    [ "Reset", "d3/d2d/a13494.html#ab642188631b67ae5ff5fd312eaf37ff0", null ],
+    [ "UpdateAI", "d3/d2d/a13494.html#ac37287a77e37785b606c742ff8d6eeeb", null ],
+    [ "uiStage", "d3/d2d/a13494.html#a2f920922f8c6f1a878d0e4978e081257", null ],
+    [ "uiStage_timer", "d3/d2d/a13494.html#a8ee22a276535a3a9c2f12a62e984d55b", null ]
 ];

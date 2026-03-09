@@ -1,8 +1,7 @@
 var a16330 =
 [
-    [ "Load", "d9/d2d/a16330.html#a55dc086667f0fe23e513608e951276ed", null ],
-    [ "Phase", "d9/d2d/a16330.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
-    [ "PrepareSpellScript", "d9/d2d/a16330.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
-    [ "Register", "d9/d2d/a16330.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
-    [ "Validate", "d9/d2d/a16330.html#a87192df547adaf3cb060155d9cf4da79", null ]
+    [ "HandleDummy", "d9/d2d/a16330.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
+    [ "PrepareSpellScript", "d9/d2d/a16330.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
+    [ "Register", "d9/d2d/a16330.html#a4359ad73b513a368509a066a039ddf53", null ],
+    [ "_targetCount", "d9/d2d/a16330.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
 ];

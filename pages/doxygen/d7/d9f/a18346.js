@@ -1,6 +1,6 @@
 var a18346 =
 [
-    [ "PeriodicTick", "d7/d9f/a18346.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
-    [ "PrepareAuraScript", "d7/d9f/a18346.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
-    [ "Register", "d7/d9f/a18346.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
+    [ "boss_professor_putricideAI", "dc/dcc/a18350.html", "dc/dcc/a18350" ],
+    [ "boss_professor_putricide", "d7/d9f/a18346.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "d7/d9f/a18346.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

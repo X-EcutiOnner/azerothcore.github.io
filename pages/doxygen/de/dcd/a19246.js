@@ -1,6 +1,5 @@
 var a19246 =
 [
-    [ "HandleHit", "de/dcd/a19246.html#aa6302d9372bf6ea514d49d8c8e280781", null ],
-    [ "PrepareSpellScript", "de/dcd/a19246.html#a87b57541a36d711ecbca6f485915c9ab", null ],
-    [ "Register", "de/dcd/a19246.html#ad7290a8d786f64fdf7b5b04a7770ff6d", null ]
+    [ "at_icc_start_blood_quickening", "de/dcd/a19246.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
+    [ "OnTrigger", "de/dcd/a19246.html#a814670e127b1eace6068a553b23d00f7", null ]
 ];

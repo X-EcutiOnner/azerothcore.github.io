@@ -1,7 +1,10 @@
 var a28354 =
 [
-    [ "Displayid", "dc/d71/a28354.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
-    [ "ExtendedDisplayInfoID", "dc/d71/a28354.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
-    [ "ModelId", "dc/d71/a28354.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
-    [ "scale", "dc/d71/a28354.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
+    [ "guard_shattrath_aldorAI", "dc/d71/a28354.html#a88961dfe4100dfe207af693a1eed86ad", null ],
+    [ "Reset", "dc/d71/a28354.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
+    [ "UpdateAI", "dc/d71/a28354.html#ac87ee12d4487971b68c70f06f63eb410", null ],
+    [ "banishTimer", "dc/d71/a28354.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
+    [ "canTeleport", "dc/d71/a28354.html#af4d933b56431d2f2755d87fb05922458", null ],
+    [ "exileTimer", "dc/d71/a28354.html#a8d56205206f3e14184922f96873456ad", null ],
+    [ "playerGUID", "dc/d71/a28354.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
 ];

@@ -1,11 +1,8 @@
 var a22050 =
 [
-    [ "npc_torturer_lecraftAI", "df/dab/a22050.html#a0886d83c8ab8b7db728928ecf922031b", null ],
-    [ "JustEngagedWith", "df/dab/a22050.html#ac6fa83aa5673bd6c90e128f06e56049e", null ],
-    [ "Reset", "df/dab/a22050.html#a13177e318e7777ecb13ba71c4f10f425", null ],
-    [ "SpellHit", "df/dab/a22050.html#a837805efcb6c99de55646a232f151ae8", null ],
-    [ "UpdateAI", "df/dab/a22050.html#a45919da006b0e767ec38810a6fcbac5d", null ],
-    [ "_events", "df/dab/a22050.html#a7879e11a94c32266ed11dc352ae7e802", null ],
-    [ "_playerGUID", "df/dab/a22050.html#ab792ceb52fe5c04851f69b9c2922822d", null ],
-    [ "_textCounter", "df/dab/a22050.html#aa7560f419ca1486efb9d6c3bda3cedf1", null ]
+    [ "npc_llod_genericAI", "df/dab/a22050.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "df/dab/a22050.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "df/dab/a22050.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "df/dab/a22050.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "df/dab/a22050.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

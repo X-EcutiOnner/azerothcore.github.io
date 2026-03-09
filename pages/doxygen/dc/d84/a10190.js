@@ -1,25 +1,10 @@
 var a10190 =
 [
-    [ "OutdoorPvPMgr", "dc/d84/a10190.html#a57480bb851822adda3d106f4a842354b", null ],
-    [ "~OutdoorPvPMgr", "dc/d84/a10190.html#a47a54de2e5f8d2d95691be9f6707d1d8", null ],
-    [ "AddZone", "dc/d84/a10190.html#a2f71683200a6f780ea1365ec2934b875", null ],
-    [ "CanTalkTo", "dc/d84/a10190.html#a8020976431b2754fc73acf762ed140b1", null ],
-    [ "Die", "dc/d84/a10190.html#a60821e2ea353606552f863aed2807316", null ],
-    [ "GetOutdoorPvPToZoneId", "dc/d84/a10190.html#aa297448e0e861e9d033b2a3a5d5176bb", null ],
-    [ "GetZoneScript", "dc/d84/a10190.html#a1c4ebcc2c64d9075e2f2f85e9239e4fa", null ],
-    [ "HandleCustomSpell", "dc/d84/a10190.html#a0134ce08b64931aadf7ffac968c47521", null ],
-    [ "HandleDropFlag", "dc/d84/a10190.html#aa1e8175a9964e3fdbd7f98ef33650217", null ],
-    [ "HandleGossipOption", "dc/d84/a10190.html#aa041123e1030c23c9862b494b057d3b2", null ],
-    [ "HandleOpenGo", "dc/d84/a10190.html#a8de2d40eb24baf6f7f1597fd97202a85", null ],
-    [ "HandlePlayerEnterZone", "dc/d84/a10190.html#ac3c4b3b6df6ae7787ff7072f3f46521f", null ],
-    [ "HandlePlayerLeaveZone", "dc/d84/a10190.html#a37c292b98c44830833c15eba1d74e24d", null ],
-    [ "HandlePlayerResurrects", "dc/d84/a10190.html#ad39bacd781ddb165c680758643a54c56", null ],
-    [ "InitOutdoorPvP", "dc/d84/a10190.html#aaae2ebe275de3da1282bd48b4dfc2ae9", null ],
-    [ "instance", "dc/d84/a10190.html#a0a92945f30266985e289742c29b13ed2", null ],
-    [ "Update", "dc/d84/a10190.html#a981b6e2b6201f3b1d32ffe4b2e215a57", null ],
-    [ "_lock", "dc/d84/a10190.html#ab8f0f56d34805ccf6b7210e390b947f7", null ],
-    [ "m_OutdoorPvPDatas", "dc/d84/a10190.html#aae1d441ea9e1715154b8f630b4cd4b2c", null ],
-    [ "m_OutdoorPvPMap", "dc/d84/a10190.html#a0927b39028f4060b0125bb63fe73a53a", null ],
-    [ "m_OutdoorPvPSet", "dc/d84/a10190.html#a4dc1a3a28d95a63b2ac6e5c9310730d6", null ],
-    [ "m_UpdateTimer", "dc/d84/a10190.html#ad07d15d5bbdf9d2e67a576d61e942b40", null ]
+    [ "CreateWorldPacket", "dc/d84/a10190.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
+    [ "GetMotd", "dc/d84/a10190.html#ab589dd8bfad950e02ee716ea9005253f", null ],
+    [ "GetMotdPacket", "dc/d84/a10190.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
+    [ "instance", "dc/d84/a10190.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
+    [ "LoadMotd", "dc/d84/a10190.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
+    [ "LoadMotdLocale", "dc/d84/a10190.html#a21aa89787d5b0bbf69158f799122edd5", null ],
+    [ "SetMotd", "dc/d84/a10190.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
 ];

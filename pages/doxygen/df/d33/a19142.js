@@ -1,7 +1,6 @@
 var a19142 =
 [
-    [ "HandleTriggerSpell", "df/d33/a19142.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
-    [ "PrepareAuraScript", "df/d33/a19142.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
-    [ "Register", "df/d33/a19142.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
-    [ "Validate", "df/d33/a19142.html#a813bad39641956fff697580f271416d2", null ]
+    [ "npc_captain_arnathAI", "df/db6/a19146.html", "df/db6/a19146" ],
+    [ "npc_captain_arnath", "df/d33/a19142.html#ab96afce64a7714ea84bab932f80c9302", null ],
+    [ "GetAI", "df/d33/a19142.html#a302ec007389e677011334d78f410207b", null ]
 ];

@@ -1,7 +1,15 @@
 var a09998 =
 [
-    [ "Finalize", "d8/dd6/a09998.html#a90c8b42ef67968bf58acae5678dc7496", null ],
-    [ "Initialize", "d8/dd6/a09998.html#ad6b97c3e2884dfbe3f17e2579b31ac66", null ],
-    [ "Reset", "d8/dd6/a09998.html#a6db99ea9863dc60d032bacda37afa078", null ],
-    [ "Update", "d8/dd6/a09998.html#af044c8725ef11e8a152987225521ef8b", null ]
+    [ "MailSender", "d8/dd6/a09998.html#a16466924bf75ea8203ba27c0f3e6188b", null ],
+    [ "MailSender", "d8/dd6/a09998.html#a735cfef6950357644d6965978dde0309", null ],
+    [ "MailSender", "d8/dd6/a09998.html#a145000f5ef63627ee26a5699846e06cf", null ],
+    [ "MailSender", "d8/dd6/a09998.html#a9ddda06cf5ecc55efdc4525353471c5b", null ],
+    [ "MailSender", "d8/dd6/a09998.html#a7d5a5e40aa20de720f310b739f159225", null ],
+    [ "MailSender", "d8/dd6/a09998.html#a12c87bb414a3e8889c95091f3b51716b", null ],
+    [ "GetMailMessageType", "d8/dd6/a09998.html#a64c99a49ec01d2226b6bf740edb380fb", null ],
+    [ "GetSenderId", "d8/dd6/a09998.html#a03145c3fdc5bbabc64019e63e121132b", null ],
+    [ "GetStationery", "d8/dd6/a09998.html#a6a4446e52e20ad7ab4817bf024b38631", null ],
+    [ "m_messageType", "d8/dd6/a09998.html#a45a312eda342d2197f15d73b47d7787b", null ],
+    [ "m_senderId", "d8/dd6/a09998.html#a0954b3514cfcba4258b1b266dfd71ddb", null ],
+    [ "m_stationery", "d8/dd6/a09998.html#a1bbced35b4600f9a45a421d28a33393b", null ]
 ];

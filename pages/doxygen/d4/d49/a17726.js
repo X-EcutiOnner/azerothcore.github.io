@@ -1,7 +1,6 @@
 var a17726 =
 [
-    [ "DelayedMovementEvent", "d4/d49/a17726.html#a21241cde30f66ae42edb311542f7405c", null ],
-    [ "Execute", "d4/d49/a17726.html#a8287761226ee671905151891779b6efb", null ],
-    [ "_dest", "d4/d49/a17726.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
-    [ "_owner", "d4/d49/a17726.html#a046942728282a997068de447271f3cbe", null ]
+    [ "HandlePeriodic", "d4/d49/a17726.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
+    [ "PrepareAuraScript", "d4/d49/a17726.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
+    [ "Register", "d4/d49/a17726.html#a9753daf5cdc812e9027c1153b450686d", null ]
 ];

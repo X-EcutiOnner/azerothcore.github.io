@@ -1,7 +1,6 @@
 var a14026 =
 [
-    [ "HandleDispel", "d0/df0/a14026.html#a415977576283972ce4a1050c70826d7c", null ],
-    [ "PrepareAuraScript", "d0/df0/a14026.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
-    [ "Register", "d0/df0/a14026.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
-    [ "Validate", "d0/df0/a14026.html#ac496e7bef875ca46660217e74fc3bc74", null ]
+    [ "npc_professor_phizzlethorpeAI", "d0/df8/a14030.html", "d0/df8/a14030" ],
+    [ "npc_professor_phizzlethorpe", "d0/df0/a14026.html#a8d32b4a107533c81033c617b0b97027d", null ],
+    [ "GetAI", "d0/df0/a14026.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
 ];

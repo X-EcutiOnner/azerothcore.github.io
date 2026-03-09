@@ -1,10 +1,13 @@
 var a14902 =
 [
-    [ "npc_hyjal_frost_wyrm", "da/d79/a14902.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "da/d79/a14902.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "da/d79/a14902.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "da/d79/a14902.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "da/d79/a14902.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "da/d79/a14902.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "da/d79/a14902.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "npc_costumed_orphan_matron", "da/d79/a14902.html#a0b913090588613ac00ea928f6273d56f", null ],
+    [ "DoAction", "da/d79/a14902.html#a7a7739f89604ffb5afc6bab75118340e", null ],
+    [ "GetInitXYZ", "da/d79/a14902.html#a3c6d0e6cecd1c4ef85b3d77c45ef6533", null ],
+    [ "Reset", "da/d79/a14902.html#a962de50b13079f3337c4e41eb2d98b55", null ],
+    [ "sGossipHello", "da/d79/a14902.html#a1a9c58c087b8addf8e482375737d6c49", null ],
+    [ "sQuestAccept", "da/d79/a14902.html#adac5d514261a210a701442da13ba1587", null ],
+    [ "UpdateAI", "da/d79/a14902.html#a4679d807df8749265ba0453c5b7588f1", null ],
+    [ "allowQuest", "da/d79/a14902.html#a722f4bfd0fb8b2665ff2b79d3208bc90", null ],
+    [ "eventStarted", "da/d79/a14902.html#a5292ab4e45fe3a858b3a59ef4a79bb34", null ],
+    [ "horseGUID", "da/d79/a14902.html#a92cfd09cefd26933ae322f2cc2716927", null ]
 ];

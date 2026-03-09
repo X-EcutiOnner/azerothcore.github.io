@@ -1,7 +1,8 @@
 var a18934 =
 [
-    [ "OnRemove", "d1/d48/a18934.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
-    [ "PrepareAuraScript", "d1/d48/a18934.html#acf654e563f47df9ad033d7080f47662b", null ],
-    [ "Register", "d1/d48/a18934.html#aad4497ba7cad48b9547e8696714d8c23", null ],
-    [ "Validate", "d1/d48/a18934.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
+    [ "npc_lk_wicked_spiritAI", "d1/d48/a18934.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
+    [ "CanAIAttack", "d1/d48/a18934.html#ae094420b1a6e134632baa0b086c806c6", null ],
+    [ "JustDied", "d1/d48/a18934.html#adf153fab1c8639b2b5790ed418afb85d", null ],
+    [ "JustRespawned", "d1/d48/a18934.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
+    [ "Reset", "d1/d48/a18934.html#a8b15079251b6855679d738a342126006", null ]
 ];

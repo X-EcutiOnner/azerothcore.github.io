@@ -1,5 +1,5 @@
 var a04709 =
 [
-    [ "pet_commandscript", "d3/d6b/a12196.html", "d3/d6b/a12196" ],
-    [ "AddSC_pet_commandscript", "dd/dcf/a04709.html#a9c7b2cae4f7afb6ae0c9ccc623877625", null ]
+    [ "cheat_commandscript", "d7/dee/a12114.html", "d7/dee/a12114" ],
+    [ "AddSC_cheat_commandscript", "dd/dcf/a04709.html#aafc88882ff0af0beb4632ec2c929fc8c", null ]
 ];

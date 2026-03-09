@@ -1,8 +1,5 @@
 var a12646 =
 [
-    [ "MajordomoAddData", "da/d44/a12646.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
-    [ "MajordomoAddData", "da/d44/a12646.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
-    [ "creatureEntry", "da/d44/a12646.html#ae3a0444e88158123f4d6359328e89a1d", null ],
-    [ "guid", "da/d44/a12646.html#a2f2b0aaace557361a21d1072f36933dc", null ],
-    [ "spawnPos", "da/d44/a12646.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
+    [ "at_trigger_the_beast_movement", "da/d44/a12646.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
+    [ "OnTrigger", "da/d44/a12646.html#a333d685d765497a950fde35067d876a1", null ]
 ];

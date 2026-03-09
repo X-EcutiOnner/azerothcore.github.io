@@ -1,9 +1,9 @@
 var a05061 =
 [
-    [ "ManagedModel", "da/d34/a05061.html#ab641724be7e7791c2c95982acc13f3b0", null ],
-    [ "decRefCount", "da/d34/a05061.html#a5a104acbc0661b19ba2a662dc669b73d", null ],
-    [ "getModel", "da/d34/a05061.html#a053fc6647a16746fba19a0795610fea2", null ],
-    [ "setModel", "da/d34/a05061.html#aa450ae6be22d507c36a746850629831d", null ],
-    [ "iModel", "da/d34/a05061.html#a5e20d0157691bd6036247a83eea8d19b", null ],
-    [ "iRefCount", "da/d34/a05061.html#afb30ad900a5979f98276324a1ab1c328", null ]
+    [ "Hello", "d1/d17/a11254.html", "d1/d17/a11254" ],
+    [ "TrainerBuyFailed", "d9/d3d/a11270.html", "d9/d3d/a11270" ],
+    [ "TrainerBuySpell", "d3/d5c/a11266.html", "d3/d5c/a11266" ],
+    [ "TrainerBuySucceeded", "d8/dc5/a11274.html", "d8/dc5/a11274" ],
+    [ "TrainerList", "dd/d1f/a11262.html", "dd/d1f/a11262" ],
+    [ "TrainerListSpell", "d7/d4e/a11258.html", "d7/d4e/a11258" ]
 ];

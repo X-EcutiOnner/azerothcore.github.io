@@ -1,20 +1,25 @@
 var a00941 =
 [
-    [ "FormationInfo", "d0/d92/a08284.html", "d0/d92/a08284" ],
-    [ "FormationMgr", "d1/db3/a08288.html", "d1/db3/a08288" ],
-    [ "CreatureGroup", "d5/df9/a08292.html", "d5/df9/a08292" ],
-    [ "sFormationMgr", "d6/dad/a00941.html#ae80a51404625cee821a8727ed7369352", null ],
-    [ "CreatureGroupInfoType", "d6/dad/a00941.html#a2c3447bf21f430bff136da6811d93a61", null ],
-    [ "GroupAIFlags", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869c", [
-      [ "GROUP_AI_FLAG_MEMBER_ASSIST_LEADER", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2", null ],
-      [ "GROUP_AI_FLAG_LEADER_ASSIST_MEMBER", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e", null ],
-      [ "GROUP_AI_FLAG_EVADE_TOGETHER", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a", null ],
-      [ "GROUP_AI_FLAG_RESPAWN_ON_EVADE", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869cafd1b3cc36d34613f8cef22a23e0c6ee6", null ],
-      [ "GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043", null ],
-      [ "GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e", null ],
-      [ "GROUP_AI_FLAG_FOLLOW_LEADER", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87", null ],
-      [ "GROUP_AI_FLAG_ASSIST_MASK", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869ca9fb1dd5025383fe38dc24bd42572256c", null ],
-      [ "GROUP_AI_FLAG_EVADE_MASK", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd", null ],
-      [ "GROUP_AI_FLAG_SUPPORTED", "d6/dad/a00941.html#a3754da8cc6b209da0180cd76de20869ca77e2c9b09a3c1f6ade309decc6d82c60", null ]
+    [ "MiscScript", "d4/dc3/a10638.html", "d4/dc3/a10638" ],
+    [ "MiscHook", "d6/dad/a00941.html#af37f873b1735a7e1f78da6f2f334c134", [
+      [ "MISCHOOK_ON_CONSTRUCT_OBJECT", "d6/dad/a00941.html#af37f873b1735a7e1f78da6f2f334c134aced03c29bfe1b673cd653f80f983c9fb", null ],
+      [ "MISCHOOK_ON_DESTRUCT_OBJECT", "d6/dad/a00941.html#af37f873b1735a7e1f78da6f2f334c134a9733f4054c726297206f0d94936b198f", null ],
+      [ "MISCHOOK_ON_CONSTRUCT_PLAYER", "d6/dad/a00941.html#af37f873b1735a7e1f78da6f2f334c134ab44e63644ffca18d22fd8f100d741439", null ],
+      [ "MISCHOOK_ON_DESTRUCT_PLAYER", "d6/dad/a00941.html#af37f873b1735a7e1f78da6f2f334c134a5cc41f8f78b3b4e4d2339ef9081298bf", null ],
+      [ "MISCHOOK_ON_CONSTRUCT_GROUP", "d6/dad/a00941.html#af37f873b1735a7e1f78da6f2f334c134a1ca06f199a58422ef7353799ca54ae72", null ],
+      [ "MISCHOOK_ON_DESTRUCT_GROUP", "d6/dad/a00941.html#af37f873b1735a7e1f78da6f2f334c134a3ce8336f58fbbc6e7eb236bbaea4e6da", null ],
+      [ "MISCHOOK_ON_CONSTRUCT_INSTANCE_SAVE", "d6/dad/a00941.html#af37f873b1735a7e1f78da6f2f334c134a56a3d6798447586097a2539a15cb4aa2", null ],
+      [ "MISCHOOK_ON_DESTRUCT_INSTANCE_SAVE", "d6/dad/a00941.html#af37f873b1735a7e1f78da6f2f334c134ace5f04f0c222b965d512026b695922c5", null ],
+      [ "MISCHOOK_ON_ITEM_CREATE", "d6/dad/a00941.html#af37f873b1735a7e1f78da6f2f334c134aadbe4a9d67dbca7b90292899c0ae8d4c", null ],
+      [ "MISCHOOK_CAN_APPLY_SOULBOUND_FLAG", "d6/dad/a00941.html#af37f873b1735a7e1f78da6f2f334c134a5d3215bd4e18f89cb0a717a84829e17f", null ],
+      [ "MISCHOOK_CAN_ITEM_APPLY_EQUIP_SPELL", "d6/dad/a00941.html#af37f873b1735a7e1f78da6f2f334c134ae9bacf4ccf18f7e88d8aa9f83bdebded", null ],
+      [ "MISCHOOK_CAN_SEND_AUCTIONHELLO", "d6/dad/a00941.html#af37f873b1735a7e1f78da6f2f334c134a584163956c233073e85f343585092a27", null ],
+      [ "MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL", "d6/dad/a00941.html#af37f873b1735a7e1f78da6f2f334c134ad8dcf71de9c5c4a16743e80d66ac70c0", null ],
+      [ "MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL_RESULT", "d6/dad/a00941.html#af37f873b1735a7e1f78da6f2f334c134a0de17e7f67dd7280da04e7a2fc502433", null ],
+      [ "MISCHOOK_ON_AFTER_LOOT_TEMPLATE_PROCESS", "d6/dad/a00941.html#af37f873b1735a7e1f78da6f2f334c134ad88e01abe00726c718edd6c7903ec8ea", null ],
+      [ "MISCHOOK_ON_PLAYER_SET_PHASE", "d6/dad/a00941.html#af37f873b1735a7e1f78da6f2f334c134a26ed92ee73e91e93437535e17f9d1616", null ],
+      [ "MISCHOOK_ON_INSTANCE_SAVE", "d6/dad/a00941.html#af37f873b1735a7e1f78da6f2f334c134a29a966b43bc8252d88a8ecdeb4c9928f", null ],
+      [ "MISCHOOK_GET_DIALOG_STATUS", "d6/dad/a00941.html#af37f873b1735a7e1f78da6f2f334c134a9c2cb4ea6da418aff3e4f1cad36a6490", null ],
+      [ "MISCHOOK_END", "d6/dad/a00941.html#af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9", null ]
     ] ]
 ];

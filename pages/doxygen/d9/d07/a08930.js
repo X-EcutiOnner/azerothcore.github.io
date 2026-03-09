@@ -1,13 +1,14 @@
 var a08930 =
 [
-    [ "entry", "d9/d07/a08930.html#a9b4a88edefbc1e4b08a8ee03dfd90274", null ],
-    [ "height", "d9/d07/a08930.html#a40fcdb1274bc2587e8870b39a64289e1", null ],
-    [ "length", "d9/d07/a08930.html#a8e1ac424a973e546aa7c35e387e32a23", null ],
-    [ "map", "d9/d07/a08930.html#a9ecb58fde45a318ba0d6306c603aba4b", null ],
-    [ "orientation", "d9/d07/a08930.html#a5db58eaf63aceeaeb93bf6f4d5961a97", null ],
-    [ "radius", "d9/d07/a08930.html#ae4195d9f29b425394296009c22654380", null ],
-    [ "width", "d9/d07/a08930.html#af914195a4e7f2314a6241fb81cc8cfa8", null ],
-    [ "x", "d9/d07/a08930.html#a423077ceaf75c367831a6d9f55427a6f", null ],
-    [ "y", "d9/d07/a08930.html#a55ab832828addcef1b2f570bda81f2ce", null ],
-    [ "z", "d9/d07/a08930.html#ae5d0d4e9ef4006ad6c7195b999ef00c2", null ]
+    [ "PassengerSet", "d9/d07/a08930.html#aa6421ebd51e84c819604e18e93729d27", null ],
+    [ "Transport", "d9/d07/a08930.html#a36928c178aa490c02aa25b4b12e2bf63", null ],
+    [ "AddPassenger", "d9/d07/a08930.html#ac5c328f816b0358a68265322219357c1", null ],
+    [ "CalculatePassengerOffset", "d9/d07/a08930.html#a327d37eef797c4197b8bba503bd8a3f8", null ],
+    [ "CalculatePassengerPosition", "d9/d07/a08930.html#ae4e716194ce5e9c466a8fe5c53ee0980", null ],
+    [ "DelayedUpdate", "d9/d07/a08930.html#aabc885fccc7a4a4d6a98f9ed8b39cd43", null ],
+    [ "GetPassengers", "d9/d07/a08930.html#a3f70c977ba2450d4244e54e4260f6ea1", null ],
+    [ "GetPathProgress", "d9/d07/a08930.html#a4ecab9f8617918aea3a26cc0feb9c021", null ],
+    [ "RemovePassenger", "d9/d07/a08930.html#a1d70745a16a1cbf3307a25ff4a53c75d", null ],
+    [ "SetPathProgress", "d9/d07/a08930.html#acb68e75a78fa196a4b514abd24c0e322", null ],
+    [ "_passengers", "d9/d07/a08930.html#adc2089495aadaab23414ecae3b2df180", null ]
 ];

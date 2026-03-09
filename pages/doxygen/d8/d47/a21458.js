@@ -1,8 +1,6 @@
 var a21458 =
 [
-    [ "npc_frozen_orbAI", "d8/d47/a21458.html#aa7456d1d876690e3723ee0a36866348b", null ],
-    [ "JustEngagedWith", "d8/d47/a21458.html#afd9686dbb8503d7f756b670269aed33d", null ],
-    [ "Reset", "d8/d47/a21458.html#a376dc1fcef9752e235008c4ba66e2463", null ],
-    [ "UpdateAI", "d8/d47/a21458.html#a37d7cf81197fe4344c8b847753997e93", null ],
-    [ "switchTimer", "d8/d47/a21458.html#afc63a3cf6b814df81a35b53278d722c9", null ]
+    [ "npc_azure_mage_slayerAI", "d2/d42/a21462.html", "d2/d42/a21462" ],
+    [ "npc_azure_mage_slayer", "d8/d47/a21458.html#ad5e5453235c224f4fac40244516dd1ad", null ],
+    [ "GetAI", "d8/d47/a21458.html#a9b795915100f47b11a65abdfdcbf39f4", null ]
 ];

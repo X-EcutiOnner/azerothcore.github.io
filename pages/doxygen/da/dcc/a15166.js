@@ -1,5 +1,6 @@
 var a15166 =
 [
-    [ "pathId", "da/dcc/a15166.html#aefd9fa5c6e7f45047994c7cc47e5967c", null ],
-    [ "spellId", "da/dcc/a15166.html#af495f984d5b81baeaa61ddca127a9508", null ]
+    [ "FilterTargets", "da/dcc/a15166.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
+    [ "PrepareSpellScript", "da/dcc/a15166.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
+    [ "Register", "da/dcc/a15166.html#a164b8b946dc801db878603488c978adb", null ]
 ];

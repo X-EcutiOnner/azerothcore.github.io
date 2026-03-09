@@ -1,8 +1,7 @@
 var a13338 =
 [
-    [ "npc_apothecary_baxter", "d2/dc0/a13338.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
-    [ "JustDied", "d2/dc0/a13338.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
-    [ "Reset", "d2/dc0/a13338.html#afee5103029bd761c48cbf6a11655c44a", null ],
-    [ "UpdateAI", "d2/dc0/a13338.html#ad06090f599d0fda3a88f3182c990a49f", null ],
-    [ "_scheduler", "d2/dc0/a13338.html#a6d813041e055f3c2b28be7cba3acde13", null ]
+    [ "HandleDummy", "d2/dc0/a13338.html#ac2889b1744117f8c0bffcce04952d7c2", null ],
+    [ "PrepareSpellScript", "d2/dc0/a13338.html#a5738144c85424e11f33aada38273e24e", null ],
+    [ "Register", "d2/dc0/a13338.html#a206a4d40e082246193ba36c9080cdac1", null ],
+    [ "Validate", "d2/dc0/a13338.html#a0718461731d563d2c948848f60101d49", null ]
 ];

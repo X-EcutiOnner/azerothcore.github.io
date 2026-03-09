@@ -1,9 +1,10 @@
 var a26682 =
 [
-    [ "CheckCast", "d0/d5c/a26682.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
-    [ "HandleActiveObject", "d0/d5c/a26682.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
-    [ "HandleDummy", "d0/d5c/a26682.html#a39dd06ae92d04060ee41897318a701fd", null ],
-    [ "Load", "d0/d5c/a26682.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
-    [ "PrepareSpellScript", "d0/d5c/a26682.html#a016e480d7b2267c9bf824c9cb029f134", null ],
-    [ "Register", "d0/d5c/a26682.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
+    [ "CheckProc", "d0/d5c/a26682.html#a23dfb39522f7a5437af439ef567d6ec6", null ],
+    [ "HandleEffectApply", "d0/d5c/a26682.html#ab83f17b45edc5dba8f4b3f3fbc88c626", null ],
+    [ "HandleEffectRemove", "d0/d5c/a26682.html#a7bab07fde0fb18e89388e1bc4c72c165", null ],
+    [ "HandleProc", "d0/d5c/a26682.html#a8352d7d9376f149fa227f7ca983e2660", null ],
+    [ "PrepareAuraScript", "d0/d5c/a26682.html#a309dabfa452d3279e7fb47a8e4784779", null ],
+    [ "Register", "d0/d5c/a26682.html#a3d020d3025f0ad086c43b4239205cd94", null ],
+    [ "Validate", "d0/d5c/a26682.html#ac3a5505808b3a7e718071f1202805ac5", null ]
 ];

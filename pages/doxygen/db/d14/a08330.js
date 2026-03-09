@@ -1,9 +1,7 @@
 var a08330 =
 [
-    [ "artKits", "db/d14/a08330.html#a7ae038f7051f3da177d3cdc95ef608d2", null ],
-    [ "entry", "db/d14/a08330.html#ae1378dcb4327a4d000c3299a32f9d23f", null ],
-    [ "faction", "db/d14/a08330.html#a77e0b2613b7a1cda1bd306f066e63a39", null ],
-    [ "flags", "db/d14/a08330.html#a4120c9184b4cfab7afada48ccf8e713e", null ],
-    [ "maxgold", "db/d14/a08330.html#ae80fd304ee4d02d5e0d13ec6136ec736", null ],
-    [ "mingold", "db/d14/a08330.html#a3b1c3dd6f223bd93cda6e993a64b61d1", null ]
+    [ "VendorItemCount", "db/d14/a08330.html#abdf2d2900f75bb2b8d9727bab8fcbbc3", null ],
+    [ "count", "db/d14/a08330.html#aff4c062138792ffb37dadb19b725c87c", null ],
+    [ "itemId", "db/d14/a08330.html#a225158bbb56d6666ba4918155f08f993", null ],
+    [ "lastIncrementTime", "db/d14/a08330.html#a0b88ba4ea590abbdc9234ff4a2a335fa", null ]
 ];

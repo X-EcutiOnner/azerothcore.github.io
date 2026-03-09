@@ -1,6 +1,6 @@
 var a13966 =
 [
-    [ "npc_andorhal_towerAI", "da/da0/a13970.html", "da/da0/a13970" ],
-    [ "npc_andorhal_tower", "d3/dd5/a13966.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
-    [ "GetAI", "d3/dd5/a13966.html#a51139c28da736d26bf27a061862d24ee", null ]
+    [ "ChangeSummonPos", "d3/dd5/a13966.html#ae24a7c8279a92f1018748a0e930736ac", null ],
+    [ "PrepareSpellScript", "d3/dd5/a13966.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
+    [ "Register", "d3/dd5/a13966.html#a03a1a1e5501452eacaceadd9725f2287", null ]
 ];

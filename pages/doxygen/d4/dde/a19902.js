@@ -1,7 +1,12 @@
 var a19902 =
 [
-    [ "HandleDummyEffect", "d4/dde/a19902.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
-    [ "PrepareSpellScript", "d4/dde/a19902.html#a84a4f52928873e58b1fc49e783c5083a", null ],
-    [ "Register", "d4/dde/a19902.html#a90c00bcb1768d696addab407425e406a", null ],
-    [ "SelectTarget", "d4/dde/a19902.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
+    [ "npc_oculus_drakeAI", "d4/dde/a19902.html#a214d9b77a5653f1a5f60106081eaf683", null ],
+    [ "IsSummonedBy", "d4/dde/a19902.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
+    [ "MovementInform", "d4/dde/a19902.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
+    [ "PassengerBoarded", "d4/dde/a19902.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
+    [ "SpellHitTarget", "d4/dde/a19902.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
+    [ "UpdateAI", "d4/dde/a19902.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
+    [ "despawnTimer", "d4/dde/a19902.html#a560dc0936a78267a4036b209c6718732", null ],
+    [ "JustSummoned", "d4/dde/a19902.html#a8b656a464525e881944e72e9486b0eb9", null ],
+    [ "m_pInstance", "d4/dde/a19902.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
 ];

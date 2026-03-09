@@ -1,10 +1,7 @@
 var a27762 =
 [
-    [ "npc_training_dummyAI", "d2/d18/a27762.html#a2f10fd0b4365e99446f728883a47eb6a", null ],
-    [ "DamageTaken", "d2/d18/a27762.html#a641c40906a6365f068ccbdba9d033923", null ],
-    [ "EnterEvadeMode", "d2/d18/a27762.html#adb1de124bdb2a986efcfcfc287b6d824", null ],
-    [ "MoveInLineOfSight", "d2/d18/a27762.html#a52f3516e9da6895eeddcdef7a198a6b1", null ],
-    [ "Reset", "d2/d18/a27762.html#af63f500cb3179964c90afab0d4a2c9b7", null ],
-    [ "UpdateAI", "d2/d18/a27762.html#a5e7892a64cd1a5cf678b401b62497bfb", null ],
-    [ "resetTimer", "d2/d18/a27762.html#a443f2f7de257af473d6e9793f34a2071", null ]
+    [ "CalculateAmount", "d2/d18/a27762.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
+    [ "PrepareAuraScript", "d2/d18/a27762.html#a20dad49a99420556f393a16525eb14b4", null ],
+    [ "Register", "d2/d18/a27762.html#ad7d339ab137ebd640981f7789e1757f0", null ],
+    [ "Validate", "d2/d18/a27762.html#a341acb2dd25c1db94777f7036f3338ac", null ]
 ];

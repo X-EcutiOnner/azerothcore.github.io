@@ -1,9 +1,8 @@
 var a26818 =
 [
-    [ "CheckCast", "dc/dc0/a26818.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
-    [ "FilterTargets", "dc/dc0/a26818.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
-    [ "HandleDummy", "dc/dc0/a26818.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
-    [ "PrepareSpellScript", "dc/dc0/a26818.html#a9c992e732b525e29f684947398d20efb", null ],
-    [ "Register", "dc/dc0/a26818.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
-    [ "Validate", "dc/dc0/a26818.html#abca1e5aa46e7753588c8120090775195", null ]
+    [ "HandleProc", "dc/dc0/a26818.html#a95553bc0c973be3a2e3911602e4067c8", null ],
+    [ "PrepareAuraScript", "dc/dc0/a26818.html#a99ea6943a3e8d4105b4187d8ea1a298d", null ],
+    [ "Register", "dc/dc0/a26818.html#aad50f19b0c854b7f9c5d81cd2e86bdfa", null ],
+    [ "Validate", "dc/dc0/a26818.html#aad1324e94920136258c419094cfca4c3", null ],
+    [ "_cooldownEnd", "dc/dc0/a26818.html#a4f19a965ed8ddab712633abdb761d210", null ]
 ];

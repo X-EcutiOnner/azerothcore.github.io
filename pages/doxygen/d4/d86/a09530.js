@@ -1,9 +1,9 @@
 var a09530 =
 [
-    [ "UnitAuraCheck", "d4/d86/a09530.html#acbc0c969db8b768720ab3b8235c28352", null ],
-    [ "operator()", "d4/d86/a09530.html#abc385cad226ac51c09a908864d360fd3", null ],
-    [ "operator()", "d4/d86/a09530.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
-    [ "_casterGUID", "d4/d86/a09530.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
-    [ "_present", "d4/d86/a09530.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
-    [ "_spellId", "d4/d86/a09530.html#a0dd71c851f803fb70a4543c77b672889", null ]
+    [ "CreatureLastSearcher", "d4/d86/a09530.html#a422c7a5a2cd4e93f7b0ad31cc4c6555d", null ],
+    [ "Visit", "d4/d86/a09530.html#ae6774df4ffff18cd4f3b4c07724db4f4", null ],
+    [ "Visit", "d4/d86/a09530.html#a08635cefbba5dca34734569816d2edb8", null ],
+    [ "i_check", "d4/d86/a09530.html#a2b9afe2c43af6e68f7fa5ba661790ef9", null ],
+    [ "i_object", "d4/d86/a09530.html#ab8a14acb8d0fc9835d1325430fa1a367", null ],
+    [ "i_phaseMask", "d4/d86/a09530.html#a9dd25e3437e1c1e5e4c8d68ab3548500", null ]
 ];

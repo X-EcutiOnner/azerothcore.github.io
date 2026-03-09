@@ -1,6 +1,6 @@
 var a17534 =
 [
-    [ "OnAbsorb", "df/df8/a17534.html#aa6582457cd0502ca263433d04b40b64f", null ],
-    [ "PrepareAuraScript", "df/df8/a17534.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
-    [ "Register", "df/df8/a17534.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
+    [ "boss_tyrannusAI", "da/d7d/a17538.html", "da/d7d/a17538" ],
+    [ "boss_tyrannus", "df/df8/a17534.html#a81373192ffea8817cb72b80f4629da43", null ],
+    [ "GetAI", "df/df8/a17534.html#ad107030de1427d070305f5dcef96c016", null ]
 ];

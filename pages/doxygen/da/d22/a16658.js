@@ -1,7 +1,7 @@
 var a16658 =
 [
-    [ "npc_toc_warriorAI", "da/d22/a16658.html#a6eee7e4fc83ed56a0f775b6892dc8dcb", null ],
-    [ "myCanCast", "da/d22/a16658.html#ac815e13cbbe9a8833330e15213420c65", null ],
-    [ "UpdateAI", "da/d22/a16658.html#aa787deda09d9bbf2c54d51e618eb2a82", null ],
-    [ "events", "da/d22/a16658.html#ae8f9d3f5f2c9172442c7ba4a83275cc1", null ]
+    [ "OnApply", "da/d22/a16658.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
+    [ "PrepareAuraScript", "da/d22/a16658.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
+    [ "Register", "da/d22/a16658.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
+    [ "Validate", "da/d22/a16658.html#a2c9e4d82bd25f439e01a05700563b122", null ]
 ];

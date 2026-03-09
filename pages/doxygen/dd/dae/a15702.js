@@ -1,10 +1,15 @@
 var a15702 =
 [
-    [ "npc_omenAI", "dd/dae/a15702.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
-    [ "JustDied", "dd/dae/a15702.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
-    [ "JustEngagedWith", "dd/dae/a15702.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
-    [ "MovementInform", "dd/dae/a15702.html#a92e59bde1f0da2ee537a836304a3c385", null ],
-    [ "SpellHit", "dd/dae/a15702.html#a4e3960d506fd0435de055a365906a9c9", null ],
-    [ "UpdateAI", "dd/dae/a15702.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
-    [ "events", "dd/dae/a15702.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
+    [ "boss_skeram", "dd/dae/a15702.html#a293710a88c91a181ee1000939386e176", null ],
+    [ "DoTeleport", "dd/dae/a15702.html#a96166ddebd5906868b872c39a6755a70", null ],
+    [ "EnterEvadeMode", "dd/dae/a15702.html#ab050e31d661c8c089d175de231b0eeb2", null ],
+    [ "JustDied", "dd/dae/a15702.html#a6b30a6ca5167aae41ad70bd502265d2b", null ],
+    [ "JustEngagedWith", "dd/dae/a15702.html#a07bba9a1a62ad9ad15b9cd42b5d5b3d3", null ],
+    [ "JustSummoned", "dd/dae/a15702.html#a3e3d74bc646a96e20a88d3541f806c62", null ],
+    [ "KilledUnit", "dd/dae/a15702.html#a185cb6686d37e064278260ebe5fae13a", null ],
+    [ "Reset", "dd/dae/a15702.html#a08c9c2c577ef4b713594ca67f4c87a68", null ],
+    [ "UpdateAI", "dd/dae/a15702.html#aaf29331e0fac71479747d62fd9f1e301", null ],
+    [ "_copiesGUIDs", "dd/dae/a15702.html#a28f1465938dc2141779d5171ea09ecd0", null ],
+    [ "_flag", "dd/dae/a15702.html#a0abcf1e8721aa972be70774d5be7b53b", null ],
+    [ "_hpct", "dd/dae/a15702.html#a5c8760788264a9a04a28c05a0247676c", null ]
 ];

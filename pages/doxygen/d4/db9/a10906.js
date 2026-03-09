@@ -1,6 +1,8 @@
 var a10906 =
 [
-    [ "ItemRefundInfo", "d4/db9/a10906.html#ab43208228bc0c6d1dc9dcc3154589b49", null ],
-    [ "Read", "d4/db9/a10906.html#a9aaf7ecb1f757708c541e4957a72c610", null ],
-    [ "ItemGuid", "d4/db9/a10906.html#a23cce0e086b7c640fd744403f3cfe45e", null ]
+    [ "GuildEvent", "d4/db9/a10906.html#a78be16122c01d4c68d67e050ede92006", null ],
+    [ "Write", "d4/db9/a10906.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
+    [ "Guid", "d4/db9/a10906.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
+    [ "Params", "d4/db9/a10906.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
+    [ "Type", "d4/db9/a10906.html#a961ae90991fa23bfc94a054dba357392", null ]
 ];

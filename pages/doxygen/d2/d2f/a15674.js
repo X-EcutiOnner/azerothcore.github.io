@@ -1,6 +1,6 @@
 var a15674 =
 [
-    [ "HandleDummy", "d2/d2f/a15674.html#af9c26a7e5f6cba4f1146cb626dbcf8ed", null ],
-    [ "PrepareSpellScript", "d2/d2f/a15674.html#adc581ed46587afcc8be3800ae79105f6", null ],
-    [ "Register", "d2/d2f/a15674.html#a7d09808ea2fdec450fcd129e996bd245", null ]
+    [ "OnRemove", "d2/d2f/a15674.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
+    [ "PrepareAuraScript", "d2/d2f/a15674.html#a47849d8241ed17ad0fb541c1178b0760", null ],
+    [ "Register", "d2/d2f/a15674.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
 ];

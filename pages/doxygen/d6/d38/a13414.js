@@ -1,5 +1,7 @@
 var a13414 =
 [
-    [ "at_malfurion_stormrage", "d6/d38/a13414.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
-    [ "OnTrigger", "d6/d38/a13414.html#a0aa7818bd09b8a456d1ebbaa7d5f5c1d", null ]
+    [ "HandleScriptEffect", "d6/d38/a13414.html#a1cdba27f7311021407307bcd35235fed", null ],
+    [ "PrepareSpellScript", "d6/d38/a13414.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
+    [ "Register", "d6/d38/a13414.html#a9794991aa1710ce37112888eeb572796", null ],
+    [ "Validate", "d6/d38/a13414.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
 ];

@@ -1,12 +1,9 @@
 var a13770 =
 [
-    [ "npc_eastvale_peasent", "d6/d8f/a13770.html#a5282dac41228569d4431d84c1f160f05", null ],
-    [ "Initialize", "d6/d8f/a13770.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
-    [ "PathEndReached", "d6/d8f/a13770.html#a002ec21e0715b020aa19cd0839408033", null ],
-    [ "Reset", "d6/d8f/a13770.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
-    [ "SetData", "d6/d8f/a13770.html#add14d9505880727e208e7ef9428f5acd", null ],
-    [ "UpdateAI", "d6/d8f/a13770.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
-    [ "_events", "d6/d8f/a13770.html#a1b310b07481366042dc45f7a27ce6408", null ],
-    [ "_path", "d6/d8f/a13770.html#a907db8e6148947248b5bcfdb35023e16", null ],
-    [ "_realenGUID", "d6/d8f/a13770.html#aad06364be8698b5ba69cd229e2a5085b", null ]
+    [ "spell_eredar_twins_apply_touch", "d6/d8f/a13770.html#a1ffb6952cbbb79bb6a963ea57b8400aa", null ],
+    [ "HandleApplyTouch", "d6/d8f/a13770.html#a200219828e22c35ef2f7c7a7fd61c973", null ],
+    [ "PrepareSpellScript", "d6/d8f/a13770.html#a6e6c42042faa1a6cd82d4680d28587ae", null ],
+    [ "Register", "d6/d8f/a13770.html#a8c49e8aeb1f00e8324aa4c1d420fb068", null ],
+    [ "Validate", "d6/d8f/a13770.html#a36ff1d126191de7880d98242b3b714b5", null ],
+    [ "_touchSpell", "d6/d8f/a13770.html#a9f8c58013add0fc5a05a78e1b90a32e1", null ]
 ];

@@ -1,5 +1,6 @@
 var a18298 =
 [
-    [ "achievement_all_you_can_eat", "d3/d99/a18298.html#a0995024862a445ea1f0ff5c82475fc64", null ],
-    [ "OnCheck", "d3/d99/a18298.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
+    [ "npc_coldflameAI", "dc/d22/a18302.html", "dc/d22/a18302" ],
+    [ "npc_coldflame", "d3/d99/a18298.html#a573b887358e2ba2281c4c119a267c33f", null ],
+    [ "GetAI", "d3/d99/a18298.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
 ];

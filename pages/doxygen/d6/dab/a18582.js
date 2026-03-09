@@ -1,7 +1,6 @@
 var a18582 =
 [
-    [ "OnPeriodic", "d6/dab/a18582.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
-    [ "PrepareAuraScript", "d6/dab/a18582.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
-    [ "Register", "d6/dab/a18582.html#a0fc7ca43a0d82058fc04277742231388", null ],
-    [ "Validate", "d6/dab/a18582.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
+    [ "HandleSpecial", "d6/dab/a18582.html#afa540e8c748ca3083667528e2449bc65", null ],
+    [ "PrepareSpellScript", "d6/dab/a18582.html#a9472211ffdaa33802099b22b2a721645", null ],
+    [ "Register", "d6/dab/a18582.html#ab868b10372ff2ef401d19b126acf00c6", null ]
 ];

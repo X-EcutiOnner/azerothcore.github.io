@@ -1,4 +1,4 @@
 var a00983 =
 [
-    [ "ScriptRegistry< InstanceMapScript >", "d7/d98/a00983.html#a1271f70bb9300f8012216659f38edaee", null ]
+    [ "ScriptRegistry< WeatherScript >", "d7/d98/a00983.html#aa691cee39a36861af34c3315e7aa582b", null ]
 ];

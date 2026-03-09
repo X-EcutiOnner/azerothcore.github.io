@@ -1,6 +1,7 @@
 var a14446 =
 [
-    [ "go_direbrew_mole_machineAI", "d0/df2/a14450.html", "d0/df2/a14450" ],
-    [ "go_direbrew_mole_machine", "df/d5e/a14446.html#a759d291a5be227d8beae3bbc779e56f4", null ],
-    [ "GetAI", "df/d5e/a14446.html#a793e5e544664d6c2c3897161c9cccbbb", null ]
+    [ "HandleEffect", "df/d5e/a14446.html#a8cda8eff109af7441d6990a236a52b80", null ],
+    [ "PrepareSpellScript", "df/d5e/a14446.html#acc2698ba702be211bef63cefa41005f4", null ],
+    [ "Register", "df/d5e/a14446.html#a5d6dccbb44a5d95055755673ad70707f", null ],
+    [ "Validate", "df/d5e/a14446.html#a0b106298aa550e4fe9e8a449ed7eaa51", null ]
 ];

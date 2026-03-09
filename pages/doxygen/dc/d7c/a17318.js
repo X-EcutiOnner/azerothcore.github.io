@@ -1,7 +1,5 @@
 var a17318 =
 [
-    [ "HandleEffectPeriodic", "dc/d7c/a17318.html#a4802c810efd7dd8a9954845366398e7f", null ],
-    [ "PrepareAuraScript", "dc/d7c/a17318.html#a008166d25e7a278507e953325f40ccd5", null ],
-    [ "Register", "dc/d7c/a17318.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
-    [ "Validate", "dc/d7c/a17318.html#a3fc78060f881262c59151b6eb6a943f8", null ]
+    [ "npc_fos_leader_secondAI", "dc/d7c/a17318.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
+    [ "MovementInform", "dc/d7c/a17318.html#a9cc0b500f1289dc8b764b3755468e639", null ]
 ];

@@ -1,8 +1,6 @@
 var a19386 =
 [
-    [ "npc_teslaAI", "d8/ded/a19386.html#a7281220648af1357b1377d6f7874d663", null ],
-    [ "DamageTaken", "d8/ded/a19386.html#aa3ab570e86261bc3178e17109d76af12", null ],
-    [ "EnterEvadeMode", "d8/ded/a19386.html#acc8115216989b34593a9435eeb051eda", null ],
-    [ "JustEngagedWith", "d8/ded/a19386.html#add93f68bc96b3c93dc0a3271543711e6", null ],
-    [ "UpdateAI", "d8/ded/a19386.html#a962745569b07e368067ee483d2379840", null ]
+    [ "icecrown_citadel_teleport", "d8/ded/a19386.html#ab74d5962073dcf3b4488c33aaa935377", null ],
+    [ "OnGossipHello", "d8/ded/a19386.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
+    [ "OnGossipSelect", "d8/ded/a19386.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
 ];

@@ -1,10 +1,6 @@
 var a03509 =
 [
-    [ "spell_summon_noblegarden_bunny_controller", "df/d9f/a14996.html", "df/d9f/a14996" ],
-    [ "spell_item_noblegarden_chocolate", "d8/d68/a15000.html", "d8/d68/a15000" ],
-    [ "eNoblegarden", "df/d8e/a03509.html#a2009b91b1ae924c27559f49fd9fc0e3d", [
-      [ "SPELL_NOBLEGARDEN_BUNNY", "df/d8e/a03509.html#a2009b91b1ae924c27559f49fd9fc0e3da713d80d4de08c5ec515a4d2164f00510", null ],
-      [ "SPELL_WELL_FED", "df/d8e/a03509.html#a2009b91b1ae924c27559f49fd9fc0e3da5e004e090ce4bb16a1328cc8423247ae", null ]
-    ] ],
-    [ "AddSC_event_noblegarden_scripts", "df/d8e/a03509.html#a60b11fd113b9059778bb843dd1806c79", null ]
+    [ "fireworkShowGameobjectStormwind", "df/d8e/a03509.html#ae843a13f6116ce380e3890397d825ae6", null ],
+    [ "fireworkShowScheduleStormwind", "df/d8e/a03509.html#af98c86c5b3725a8753fc620996c94b7f", null ],
+    [ "fireworkShowStormwind", "df/d8e/a03509.html#a378278257abadcd4369abd66f412d8e6", null ]
 ];

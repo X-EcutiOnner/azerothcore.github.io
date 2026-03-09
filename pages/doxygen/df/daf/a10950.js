@@ -1,7 +1,7 @@
 var a10950 =
 [
-    [ "RandomRollClient", "df/daf/a10950.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
-    [ "Read", "df/daf/a10950.html#ab682763f35a40f776b1742927df0a336", null ],
-    [ "Max", "df/daf/a10950.html#a45a1e140ed402f54deb4c0798360a43a", null ],
-    [ "Min", "df/daf/a10950.html#a3cd07e7891b43b453b56013d76f51f71", null ]
+    [ "GuildSetMemberNote", "df/daf/a10950.html#a4747c3d015cb1b0d0056928fd75e4d18", null ],
+    [ "Read", "df/daf/a10950.html#a3d90b6ce26d55a55bac1d953dd39b049", null ],
+    [ "Note", "df/daf/a10950.html#a33b7b73bd5d26c2a0ac99d6dc0131c41", null ],
+    [ "NoteeName", "df/daf/a10950.html#acf6beb0a5b122a04162e9d2c027203af", null ]
 ];

@@ -1,9 +1,5 @@
 var a28714 =
 [
-    [ "adtId", "d9/d51/a28714.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
-    [ "areaId", "d9/d51/a28714.html#a7f652c68036429350543fc5a2cc6861e", null ],
-    [ "Flags", "d9/d51/a28714.html#a60f9a61948d1e28587c9d1a338730f37", null ],
-    [ "groupId", "d9/d51/a28714.html#a09052bad3028899580ffedd556672b64", null ],
-    [ "Id", "d9/d51/a28714.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
-    [ "rootId", "d9/d51/a28714.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
+    [ "npc_suns_reach_reclamation", "d9/d51/a28714.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
+    [ "OnQuestReward", "d9/d51/a28714.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
 ];

@@ -1,7 +1,6 @@
 var a23926 =
 [
-    [ "AfterApply", "d0/d14/a23926.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
-    [ "PrepareAuraScript", "d0/d14/a23926.html#aa98346e5f5b23fe016148426a19a719f", null ],
-    [ "Register", "d0/d14/a23926.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
-    [ "Validate", "d0/d14/a23926.html#a616d1758aa257140f4941fe12ef21e87", null ]
+    [ "HandlePeriodic", "d0/d14/a23926.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
+    [ "PrepareAuraScript", "d0/d14/a23926.html#a438425f3002028a0978e0dbab580ca03", null ],
+    [ "Register", "d0/d14/a23926.html#af4b26607e8838b7bbbe8777f57601341", null ]
 ];

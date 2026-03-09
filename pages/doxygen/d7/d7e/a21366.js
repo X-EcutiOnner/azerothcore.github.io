@@ -1,6 +1,11 @@
 var a21366 =
 [
-    [ "HandleDummyEffect", "d7/d7e/a21366.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
-    [ "PrepareSpellScript", "d7/d7e/a21366.html#a07376c95cb2ec41d86a24be59094d207", null ],
-    [ "Register", "d7/d7e/a21366.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
+    [ "npc_ichor_globuleAI", "d7/d7e/a21366.html#a4d581f89c8385276fd407c000af9e569", null ],
+    [ "AttackStart", "d7/d7e/a21366.html#aa4e1fc88a26d6ef41f1ca96c93abbc1a", null ],
+    [ "JustDied", "d7/d7e/a21366.html#ad29c7659590933b0749e8e1c2c2e4c46", null ],
+    [ "MoveInLineOfSight", "d7/d7e/a21366.html#af8ef8296512d57d934a171f1a5060e73", null ],
+    [ "SpellHit", "d7/d7e/a21366.html#a1396538a446545408e3c304f3e56400f", null ],
+    [ "UpdateAI", "d7/d7e/a21366.html#a6ff13c853583e5178fb3a690e17303de", null ],
+    [ "pInstance", "d7/d7e/a21366.html#a94cbe93a69a28171fc3d91d71b6ec419", null ],
+    [ "uiRangeCheck_Timer", "d7/d7e/a21366.html#a99914a55d2dc0b36a623dc7d6248e953", null ]
 ];

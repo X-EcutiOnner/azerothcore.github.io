@@ -1,5 +1,4 @@
 var a01595 =
 [
-    [ "HyperlinkDataTokenizer", "d4/dfb/a08048.html", "d4/dfb/a08048" ],
-    [ "HYPERLINK_DATA_DELIMITER", "dc/dbf/a01595.html#a306ae32a610f410bc85994a15699c867", null ]
+    [ "CreatureUnitRelocationWorker", "dc/dbf/a01595.html#a6dd107031f342074ca560b711fe188d7", null ]
 ];

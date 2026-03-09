@@ -1,9 +1,7 @@
 var a09302 =
 [
-    [ "UnitListSearcher", "dc/d65/a09302.html#a24c0de32dc3baa927962626421a343ae", null ],
-    [ "Visit", "dc/d65/a09302.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d", null ],
-    [ "Visit", "dc/d65/a09302.html#a92f9b0407e609b6c61f10d93aa49912f", null ],
-    [ "Visit", "dc/d65/a09302.html#a5fddd281a9f9cd10cf3948d4bf7b626f", null ],
-    [ "i_check", "dc/d65/a09302.html#a508a47e6261e7ae6e5669aee853ff99e", null ],
-    [ "i_phaseMask", "dc/d65/a09302.html#a43c863350bea423cf4a720c4c680fd4c", null ]
+    [ "QuestPOIPoint", "dc/d65/a09302.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
+    [ "QuestPOIPoint", "dc/d65/a09302.html#a2e80e5a83ab336a8b019f38297862efa", null ],
+    [ "x", "dc/d65/a09302.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
+    [ "y", "dc/d65/a09302.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
 ];

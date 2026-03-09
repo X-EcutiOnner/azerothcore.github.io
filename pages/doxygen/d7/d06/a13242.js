@@ -1,8 +1,11 @@
 var a13242 =
 [
-    [ "HandleHit", "d7/d06/a13242.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
-    [ "PrepareSpellScript", "d7/d06/a13242.html#a53f170244b390f7035e131fb5c79cb3f", null ],
-    [ "Register", "d7/d06/a13242.html#a248124b837cf71f7d422154db4581747", null ],
-    [ "Validate", "d7/d06/a13242.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
-    [ "_emote", "d7/d06/a13242.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
+    [ "boss_terestian_illhoof", "d7/d06/a13242.html#a5750bf4f12ac01216335a926f885e136", null ],
+    [ "JustDied", "d7/d06/a13242.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
+    [ "JustEngagedWith", "d7/d06/a13242.html#adc1f9195954eda7ec406ac9a084b7508", null ],
+    [ "JustSummoned", "d7/d06/a13242.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
+    [ "KilledUnit", "d7/d06/a13242.html#ab7de8b406de200eec981fab79a56dcd7", null ],
+    [ "Reset", "d7/d06/a13242.html#a685b00f0e3317740412adfc48df1c3fb", null ],
+    [ "SpellHit", "d7/d06/a13242.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
+    [ "SummonKilrek", "d7/d06/a13242.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
 ];

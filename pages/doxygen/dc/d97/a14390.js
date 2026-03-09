@@ -1,6 +1,6 @@
 var a14390 =
 [
-    [ "HandleEffectRemove", "dc/d97/a14390.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
-    [ "PrepareAuraScript", "dc/d97/a14390.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
-    [ "Register", "dc/d97/a14390.html#aa436788f638fedacb217ca508da5f426", null ]
+    [ "go", "dc/d97/a14390.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
+    [ "npc", "dc/d97/a14390.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
+    [ "pos", "dc/d97/a14390.html#a51175880a326101b29879d7a6a62c48d", null ]
 ];

@@ -1,9 +1,8 @@
 var a07458 =
 [
-    [ "entry", "d2/d57/a07458.html#a2238cabe763a588a5572611e0aefe6ba", null ],
-    [ "o", "d2/d57/a07458.html#a0ebd9ea966eb66cf80b8f3c003db60c0", null ],
-    [ "type", "d2/d57/a07458.html#a561ac93f5c1bcc26dacbd0212b602eac", null ],
-    [ "x", "d2/d57/a07458.html#a616d422b4e8c99ec3285a87f553d4091", null ],
-    [ "y", "d2/d57/a07458.html#a34de8c83a7bc8b33ac0cabdfb1bd3459", null ],
-    [ "z", "d2/d57/a07458.html#a78cff0661e6d9440574306ec01389d42", null ]
+    [ "nbTowerCannonBottom", "d2/d57/a07458.html#a06e8dcf63efd928b72f3ec7d433ccb89", null ],
+    [ "nbTurretTop", "d2/d57/a07458.html#a5a728dccad89da190131cd93b62390b7", null ],
+    [ "TowerCannonBottom", "d2/d57/a07458.html#a21fa09356b3349bf45865aa3f0920268", null ],
+    [ "towerEntry", "d2/d57/a07458.html#a37e171a06a6e7bf5c0832417c597c2e1", null ],
+    [ "TurretTop", "d2/d57/a07458.html#a6849ba6967fa275950da9fec16df9bec", null ]
 ];

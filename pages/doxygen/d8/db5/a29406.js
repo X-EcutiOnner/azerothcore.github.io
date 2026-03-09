@@ -1,9 +1,10 @@
 var a29406 =
 [
-    [ "npc_chicken_cluckAI", "d8/db5/a29406.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "d8/db5/a29406.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "d8/db5/a29406.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "d8/db5/a29406.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "d8/db5/a29406.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "d8/db5/a29406.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "ID", "d8/db5/a29406.html#a090069d13cbbcc5762ecca600c506492", null ],
+    [ "map_id", "d8/db5/a29406.html#a685931e2a361f9e0fc81c004c7467d19", null ],
+    [ "MountCreatureID", "d8/db5/a29406.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
+    [ "name", "d8/db5/a29406.html#ae00db3ea736c3a470f6f0690c178e758", null ],
+    [ "x", "d8/db5/a29406.html#a7cbd40848094fa367862d653b0f7170d", null ],
+    [ "y", "d8/db5/a29406.html#a9380befd45cab3104003b2487464bd71", null ],
+    [ "z", "d8/db5/a29406.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
 ];

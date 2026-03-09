@@ -1,6 +1,8 @@
 var a22014 =
 [
-    [ "npc_q24545_vegard_dummyAI", "d5/d54/a22014.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
-    [ "UpdateAI", "d5/d54/a22014.html#aa31baac9ce3c4c951f93917b88390797", null ],
-    [ "done", "d5/d54/a22014.html#a0208fbae8e6c46d0671107530279c50c", null ]
+    [ "CheckCast", "d5/d54/a22014.html#a49e425fa95e5107f38aa16e546674b7d", null ],
+    [ "HandleScript", "d5/d54/a22014.html#a38e8d469e10470b448c0947c6bdbe4bb", null ],
+    [ "PrepareSpellScript", "d5/d54/a22014.html#a9e7a1239e165131b70c437793b5371d0", null ],
+    [ "Register", "d5/d54/a22014.html#a3d80b43080e0d81cbb45ed665efcda2a", null ],
+    [ "Validate", "d5/d54/a22014.html#aa3153a940a762a7ee09e7c62b6b61053", null ]
 ];

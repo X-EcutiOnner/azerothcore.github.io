@@ -1,8 +1,12 @@
 var a16182 =
 [
-    [ "npc_twilight_summonAI", "d7/d98/a16182.html#a8f5dfe54a5ac1d7a058c5efb9bead77a", null ],
-    [ "DoAction", "d7/d98/a16182.html#aac4c1e3bc635b30f1ceed8b25f2c7829", null ],
-    [ "Reset", "d7/d98/a16182.html#a1174c827aef1b05603214e4717c78f8a", null ],
-    [ "UpdateAI", "d7/d98/a16182.html#addb312c34c668b8189087de6cf89543b", null ],
-    [ "fadeArmorTimer", "d7/d98/a16182.html#ace4028c8f4d0240b4e2939481312d0d2", null ]
+    [ "npc_wizzlecrank_shredderAI", "d7/d98/a16182.html#a055c4b426219aa3372a83d2e2021d916", null ],
+    [ "JustSummoned", "d7/d98/a16182.html#a7cad21f0b3286ed75256a49c315069ce", null ],
+    [ "Reset", "d7/d98/a16182.html#a86929e8a2f3433f37e4dda03e3011193", null ],
+    [ "UpdateEscortAI", "d7/d98/a16182.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
+    [ "WaypointReached", "d7/d98/a16182.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
+    [ "WaypointStart", "d7/d98/a16182.html#a00857e372e53950338ed71d672edb780", null ],
+    [ "IsPostEvent", "d7/d98/a16182.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
+    [ "PostEventCount", "d7/d98/a16182.html#aa5284a284c074f32cee85d29aea00f2f", null ],
+    [ "PostEventTimer", "d7/d98/a16182.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
 ];

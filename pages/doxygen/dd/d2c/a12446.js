@@ -1,7 +1,7 @@
 var a12446 =
 [
-    [ "boss_ebonrocAI", "dd/d2c/a12446.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
-    [ "JustEngagedWith", "dd/d2c/a12446.html#a2c74e0030b1093d79245978939043d53", null ],
-    [ "MovementInform", "dd/d2c/a12446.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
-    [ "UpdateAI", "dd/d2c/a12446.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
+    [ "boss_gorosh_the_dervishAI", "dd/d2c/a12446.html#adac003c51a2d1d0a8daa6ba552114c25", null ],
+    [ "JustEngagedWith", "dd/d2c/a12446.html#a52bc5f76baff626b8834aa604fdd8e6a", null ],
+    [ "UpdateAI", "dd/d2c/a12446.html#aa17e26419a8e3f7cd99c5e9b44be8ed8", null ],
+    [ "nextWhirlwindTime", "dd/d2c/a12446.html#a4ab769a862310bbd8b283e83077ad23d", null ]
 ];

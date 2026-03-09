@@ -1,7 +1,6 @@
 var a15102 =
 [
-    [ "npc_onyxian_lair_guard", "d3/d85/a15102.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
-    [ "JustEngagedWith", "d3/d85/a15102.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
-    [ "UpdateAI", "d3/d85/a15102.html#ac8649636d5847813e49d2ada05f78645", null ],
-    [ "events", "d3/d85/a15102.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
+    [ "HandleScriptEffect", "d3/d85/a15102.html#a2acaaf3716237f147429cb07779ae49e", null ],
+    [ "PrepareSpellScript", "d3/d85/a15102.html#a55df717ede47b17a32ae33ecd64617cd", null ],
+    [ "Register", "d3/d85/a15102.html#ac515af62f7e42cafecc4afdf7ba15ddf", null ]
 ];

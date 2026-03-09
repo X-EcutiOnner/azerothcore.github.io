@@ -1,9 +1,17 @@
 var a18634 =
 [
-    [ "DelayedCastEvent", "de/d6c/a18634.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
-    [ "Execute", "de/d6c/a18634.html#ae2925429b3049e44d2afd2e8b990af71", null ],
-    [ "_despawnTime", "de/d6c/a18634.html#afcaeafb72df77c36b5496588c219fac4", null ],
-    [ "_originalCaster", "de/d6c/a18634.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
-    [ "_spellId", "de/d6c/a18634.html#abe28a6749101233302634ed226a289e8", null ],
-    [ "_trigger", "de/d6c/a18634.html#a85471a151a3165cc906f3a41103c3f5d", null ]
+    [ "npc_rimefangAI", "de/d6c/a18634.html#ae89b397bafdcb06e94fa94c18ef0d2c8", null ],
+    [ "DoAction", "de/d6c/a18634.html#a79d34453b3ace5c1f80b12b862890e3c", null ],
+    [ "InitializeAI", "de/d6c/a18634.html#ae515d0b1d383c48e40fa4795edd1b247", null ],
+    [ "JustDied", "de/d6c/a18634.html#ab3cd1550cda44cecf889f4bf28f976ba", null ],
+    [ "JustEngagedWith", "de/d6c/a18634.html#ad161bb0a6c76d223b1e687a1cc604375", null ],
+    [ "JustReachedHome", "de/d6c/a18634.html#a7b15a9c6db1a48c3766afcb41d66b61f", null ],
+    [ "JustRespawned", "de/d6c/a18634.html#a47ed52a4a0511d7b1e3eb4bd5da409ca", null ],
+    [ "MovementInform", "de/d6c/a18634.html#aacd146fbfac94b8f82b3971ff74644cc", null ],
+    [ "Reset", "de/d6c/a18634.html#a8956324e2806393d26bf146f4e2c48b0", null ],
+    [ "UpdateAI", "de/d6c/a18634.html#a00872042199924a14089c1057c479ff7", null ],
+    [ "_events", "de/d6c/a18634.html#ade0c279565236eb3fd59fd43eef4c3e1", null ],
+    [ "_icyBlastCounter", "de/d6c/a18634.html#aef3e7d4cd3d23f407ef4ba5aa5c737c9", null ],
+    [ "_instance", "de/d6c/a18634.html#ad12541907c439117cf8c8a6741c07445", null ],
+    [ "_summoned", "de/d6c/a18634.html#aa27dd1e338145a65915262a8d44f7519", null ]
 ];

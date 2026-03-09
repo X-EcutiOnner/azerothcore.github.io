@@ -1,5 +1,5 @@
 var a28618 =
 [
-    [ "Flags", "dc/d43/a28618.html#a0cb97c73af91dcfdd151c38aa46828cc", null ],
-    [ "Id", "dc/d43/a28618.html#a85e0e36dbc79f309d7f50b087ebcd166", null ]
+    [ "npc_stable_masterAI", "dc/d43/a28618.html#a5c6f9bca1004af163ddb074b606330be", null ],
+    [ "sGossipSelect", "dc/d43/a28618.html#a09205661674dd011ffe425deaadde053", null ]
 ];

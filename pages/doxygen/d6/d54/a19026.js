@@ -1,5 +1,8 @@
 var a19026 =
 [
-    [ "npc_icc_buff_switcher", "d6/d54/a19026.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
-    [ "OnGossipSelect", "d6/d54/a19026.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
+    [ "npc_suppresserAI", "d6/d54/a19026.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
+    [ "AttackStart", "d6/d54/a19026.html#ae36105de1df1dd9841332d9a8e7799be", null ],
+    [ "IsSummonedBy", "d6/d54/a19026.html#a35ec340b2d02a14707fc353428b1298d", null ],
+    [ "UpdateAI", "d6/d54/a19026.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
+    [ "_instance", "d6/d54/a19026.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
 ];

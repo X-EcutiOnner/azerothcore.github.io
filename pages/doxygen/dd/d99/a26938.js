@@ -1,8 +1,8 @@
 var a26938 =
 [
-    [ "ApplyDebuff", "dd/d99/a26938.html#a76ecb96d27c54b18f3628476dae4cc73", null ],
-    [ "PrepareSpellScript", "dd/d99/a26938.html#aeff4dce89b0d893b90571e0ff63e1aaa", null ],
-    [ "Register", "dd/d99/a26938.html#ae53dfd7f60a1c4132c441f7cd1595b95", null ],
-    [ "RemoveInvalidTargets", "dd/d99/a26938.html#a1374c764b20b95febbca44c593bde218", null ],
-    [ "Validate", "dd/d99/a26938.html#a2eb14ea281b41b08acd4514c01aa938f", null ]
+    [ "CheckProc", "dd/d99/a26938.html#ae73e9e1681eb191bb7e90a09c89b6c0d", null ],
+    [ "HandleProc", "dd/d99/a26938.html#a3e6027433902a5f8b4955c766cca51b4", null ],
+    [ "PrepareAuraScript", "dd/d99/a26938.html#a843b376abe1439d8431df9a70f40deb6", null ],
+    [ "Register", "dd/d99/a26938.html#a0dcd926eaf184ad5758f833b1c185e33", null ],
+    [ "Validate", "dd/d99/a26938.html#af13ff5845ea9121ceac37a4d93914f23", null ]
 ];

@@ -1,6 +1,6 @@
 var a16274 =
 [
-    [ "boss_twilight_halionAI", "d1/d94/a16278.html", "d1/d94/a16278" ],
-    [ "boss_twilight_halion", "d6/db4/a16274.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
-    [ "GetAI", "d6/db4/a16274.html#a56842d74b16cbd5636649cbc643c50d8", null ]
+    [ "HandleSummon", "d6/db4/a16274.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
+    [ "PrepareSpellScript", "d6/db4/a16274.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
+    [ "Register", "d6/db4/a16274.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
 ];

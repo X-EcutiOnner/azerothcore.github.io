@@ -1,6 +1,8 @@
 var a16622 =
 [
-    [ "npc_toc_warlockAI", "db/dd6/a16626.html", "db/dd6/a16626" ],
-    [ "npc_toc_warlock", "d7/d99/a16622.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
-    [ "GetAI", "d7/d99/a16622.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
+    [ "OnApply", "d7/d99/a16622.html#a96321003a002be0e4838901f03f8a5d8", null ],
+    [ "OnRemove", "d7/d99/a16622.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
+    [ "PrepareAuraScript", "d7/d99/a16622.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
+    [ "Register", "d7/d99/a16622.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
+    [ "Validate", "d7/d99/a16622.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
 ];

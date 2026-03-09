@@ -1,7 +1,9 @@
 var a28630 =
 [
-    [ "ID", "d8/d08/a28630.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
-    [ "RadiusMax", "d8/d08/a28630.html#ab82c1acb9309b17104958182d80b01d1", null ],
-    [ "RadiusMin", "d8/d08/a28630.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
-    [ "RadiusPerLevel", "d8/d08/a28630.html#a74bb59afb808af45ceff6367468fca1e", null ]
+    [ "npc_arcanite_dragonling", "d8/d08/a28630.html#a9b7e4cefa312a16c90018d655ad94758", null ],
+    [ "CanAIAttack", "d8/d08/a28630.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
+    [ "IsSummonedBy", "d8/d08/a28630.html#a921b35a91c4f21258efdb41fd87413db", null ],
+    [ "JustEngagedWith", "d8/d08/a28630.html#a65f6d779681861117f750b70154b3e0d", null ],
+    [ "Reset", "d8/d08/a28630.html#a4468d91430add821bf7a7ab11d8063da", null ],
+    [ "UpdateAI", "d8/d08/a28630.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
 ];

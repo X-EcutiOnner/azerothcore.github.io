@@ -1,7 +1,6 @@
 var a15262 =
 [
-    [ "npc_hivezara_stinger", "da/d02/a15262.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
-    [ "JustEngagedWith", "da/d02/a15262.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
-    [ "Reset", "da/d02/a15262.html#ae8e893c90942a469628c393d5b5380cc", null ],
-    [ "UpdateAI", "da/d02/a15262.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
+    [ "boss_meathookAI", "da/db8/a15266.html", "da/db8/a15266" ],
+    [ "boss_meathook", "da/d02/a15262.html#a044c8ec4a419e5c5a8b290df9c0ad169", null ],
+    [ "GetAI", "da/d02/a15262.html#ae8ee3631ff1f80f4fad99e4eca042ad8", null ]
 ];

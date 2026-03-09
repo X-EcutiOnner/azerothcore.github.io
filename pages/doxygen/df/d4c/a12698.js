@@ -1,6 +1,6 @@
 var a12698 =
 [
-    [ "boss_sulfuronAI", "d8/d4a/a12702.html", "d8/d4a/a12702" ],
-    [ "boss_sulfuron", "df/d4c/a12698.html#aed72791db02009136592b905cc4f4df3", null ],
-    [ "GetAI", "df/d4c/a12698.html#aced001845e4a9bb9f517d45a36f474c7", null ]
+    [ "OnEffect", "df/d4c/a12698.html#a1b5999f392cec9fea4431c3f746ee034", null ],
+    [ "PrepareSpellScript", "df/d4c/a12698.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
+    [ "Register", "df/d4c/a12698.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
 ];

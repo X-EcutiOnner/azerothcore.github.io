@@ -1,6 +1,8 @@
 var a14966 =
 [
-    [ "npc_crate_helperAI", "df/db1/a14970.html", "df/db1/a14970" ],
-    [ "npc_crate_helper", "df/d55/a14966.html#ae08751928234656dcda84dd5c7e4cc37", null ],
-    [ "GetAI", "df/d55/a14966.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
+    [ "OnApply", "df/d55/a14966.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
+    [ "OnRemove", "df/d55/a14966.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
+    [ "PrepareAuraScript", "df/d55/a14966.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
+    [ "Register", "df/d55/a14966.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
+    [ "Validate", "df/d55/a14966.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
 ];

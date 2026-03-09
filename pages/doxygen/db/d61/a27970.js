@@ -1,7 +1,5 @@
 var a27970 =
 [
-    [ "HandleDummy", "db/d61/a27970.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
-    [ "PrepareSpellScript", "db/d61/a27970.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
-    [ "Register", "db/d61/a27970.html#a3fda4d652c1264b3cfababdd98297c61", null ],
-    [ "Validate", "db/d61/a27970.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
+    [ "achievement_bg_ic_resource_glut", "db/d61/a27970.html#ace247962dccee2601ceade593b0874d4", null ],
+    [ "OnCheck", "db/d61/a27970.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
 ];

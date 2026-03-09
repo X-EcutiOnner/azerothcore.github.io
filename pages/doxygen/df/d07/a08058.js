@@ -1,10 +1,6 @@
 var a08058 =
 [
-    [ "AssistDelayEvent", "df/d07/a08058.html#a022b9cf38b8e059df2dceca38e366b7d", null ],
-    [ "AssistDelayEvent", "df/d07/a08058.html#a5371fc2a2f9334b821058b96d0c6bc13", null ],
-    [ "AddAssistant", "df/d07/a08058.html#a987303ec41927528e9a5abfd9ab75512", null ],
-    [ "Execute", "df/d07/a08058.html#a5afd295abeb1295e43f48b8951b24c35", null ],
-    [ "m_assistants", "df/d07/a08058.html#ac6de6befda582bd38f92afda01204e94", null ],
-    [ "m_owner", "df/d07/a08058.html#aabcce364c8009e8172b9d090059ce48c", null ],
-    [ "m_victim", "df/d07/a08058.html#a47aff9ce39f5fec3718d6564e53b799e", null ]
+    [ "value_type", "df/d07/a08058.html#ac481731c1965ea0420cd7820e1e89881", null ],
+    [ "StoreTo", "df/d07/a08058.html#a36969f95d224ae4561d46a3ca7b20d26", null ],
+    [ "tag", "df/d07/a08058.html#a24d00ca0725d6b4f236bccd7cf5ecbc7", null ]
 ];

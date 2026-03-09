@@ -1,9 +1,10 @@
 var a09114 =
 [
-    [ "CellArea", "d4/d6b/a09114.html#ace8ca84753b4ec8681415386fb135053", null ],
-    [ "CellArea", "d4/d6b/a09114.html#a547aa2c544abb8de2c6defdd6ec77fa3", null ],
-    [ "operator!", "d4/d6b/a09114.html#a386d4a562c27155012daedc361541e3b", null ],
-    [ "ResizeBorders", "d4/d6b/a09114.html#aebb8a0eb3210fa09d647d89ce8a0c7b8", null ],
-    [ "high_bound", "d4/d6b/a09114.html#a0c90f0474902deaafc4a64faaf6e8071", null ],
-    [ "low_bound", "d4/d6b/a09114.html#a374fe9802c798e6ece359a8025b6e1df", null ]
+    [ "MapType", "d4/d6b/a09114.html#a8fa5f0aca9316901f42b2df8251c5a5d", null ],
+    [ "HashMapHolder", "d4/d6b/a09114.html#ad10240097462af2a8a76c9429bd7cbca", null ],
+    [ "Find", "d4/d6b/a09114.html#a314b4ce3265136fe326b909fe6ef6716", null ],
+    [ "GetContainer", "d4/d6b/a09114.html#ad9dfe5d223496a379a4aec0fc12c42d9", null ],
+    [ "GetLock", "d4/d6b/a09114.html#a52cc052c8d73d5b700c7f9253138942f", null ],
+    [ "Insert", "d4/d6b/a09114.html#af5c618228c141e28ffa11468cfffb21a", null ],
+    [ "Remove", "d4/d6b/a09114.html#a7b9c3761746641133d4a9837559c0bb0", null ]
 ];

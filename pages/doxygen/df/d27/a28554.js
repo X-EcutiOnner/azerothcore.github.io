@@ -1,5 +1,6 @@
 var a28554 =
 [
-    [ "id", "df/d27/a28554.html#a22e48015dd880199e131089e35b1ce05", null ],
-    [ "spellId", "df/d27/a28554.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
+    [ "npc_guardianAI", "db/d12/a28558.html", "db/d12/a28558" ],
+    [ "npc_guardian", "df/d27/a28554.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
+    [ "GetAI", "df/d27/a28554.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
 ];

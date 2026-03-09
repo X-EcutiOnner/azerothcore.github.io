@@ -1,7 +1,6 @@
 var a22154 =
 [
-    [ "HandleScript", "d0/dbb/a22154.html#a7fec959237546201ea94d5f87068e1c5", null ],
-    [ "PrepareSpellScript", "d0/dbb/a22154.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
-    [ "Register", "d0/dbb/a22154.html#a0aab07a4950f60a290491aa13103b332", null ],
-    [ "Validate", "d0/dbb/a22154.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
+    [ "npc_still_at_it_triggerAI", "d0/d19/a22158.html", "d0/d19/a22158" ],
+    [ "npc_still_at_it_trigger", "d0/dbb/a22154.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
+    [ "GetAI", "d0/dbb/a22154.html#ae273ea6295f50248d303983d4b4137df", null ]
 ];

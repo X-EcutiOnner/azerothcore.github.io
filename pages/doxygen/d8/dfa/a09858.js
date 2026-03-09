@@ -1,7 +1,7 @@
 var a09858 =
 [
-    [ "ownerGUID", "d8/dfa/a09858.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
-    [ "script", "d8/dfa/a09858.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
-    [ "sourceGUID", "d8/dfa/a09858.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
-    [ "targetGUID", "d8/dfa/a09858.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
+    [ "AddonHandler", "d8/dfa/a09858.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
+    [ "~AddonHandler", "d8/dfa/a09858.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
+    [ "BuildAddonPacket", "d8/dfa/a09858.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
+    [ "instance", "d8/dfa/a09858.html#a2925b829b803dd07e96685086357ef85", null ]
 ];

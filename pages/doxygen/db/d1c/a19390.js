@@ -1,5 +1,5 @@
 var a19390 =
 [
-    [ "at_thaddius_entrance", "db/d1c/a19390.html#ad81a60cac337baad82ea526de1d151d1", null ],
-    [ "_OnTrigger", "db/d1c/a19390.html#acc869cade2b48ceb782d78aa7df6f246", null ]
+    [ "at_frozen_throne_teleport", "db/d1c/a19390.html#a8065b9f9b55b267be1757775f84de349", null ],
+    [ "OnTrigger", "db/d1c/a19390.html#ae1f9476b7f47320f545e702e9317bd03", null ]
 ];

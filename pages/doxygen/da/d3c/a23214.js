@@ -1,6 +1,5 @@
 var a23214 =
 [
-    [ "HandleSchoolDamage", "da/d3c/a23214.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
-    [ "PrepareSpellScript", "da/d3c/a23214.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
-    [ "Register", "da/d3c/a23214.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
+    [ "go_strange_pool", "da/d3c/a23214.html#aa44feb353ad1cb440e5b6707112af680", null ],
+    [ "OnGossipHello", "da/d3c/a23214.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
 ];

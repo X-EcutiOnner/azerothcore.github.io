@@ -1,6 +1,6 @@
 var a21426 =
 [
-    [ "boss_koralonAI", "d1/d59/a21430.html", "d1/d59/a21430" ],
-    [ "boss_koralon", "d3/dd6/a21426.html#a43b9fb1224abeba44080fb02062451b0", null ],
-    [ "GetAI", "d3/dd6/a21426.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
+    [ "npc_vh_sinclari", "d3/dd6/a21426.html#ad0235f207a3031420532174c04e0c348", null ],
+    [ "OnGossipHello", "d3/dd6/a21426.html#a95f0d094d417d9d6ce99d7c8aa83496f", null ],
+    [ "OnGossipSelect", "d3/dd6/a21426.html#af0a260d7868f601ae239c226b10d4de3", null ]
 ];

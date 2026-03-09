@@ -1,7 +1,10 @@
 var a22514 =
 [
-    [ "OnApply", "d1/dcb/a22514.html#ad026db5f19c376d9a87f7a1554502809", null ],
-    [ "OnRemove", "d1/dcb/a22514.html#a0264c6f6f41da3644a803265399f1d82", null ],
-    [ "PrepareAuraScript", "d1/dcb/a22514.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
-    [ "Register", "d1/dcb/a22514.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
+    [ "OPvPCapturePointHP", "d1/dcb/a22514.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
+    [ "ChangeState", "d1/dcb/a22514.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
+    [ "FillInitialWorldStates", "d1/dcb/a22514.html#aa8d725422951485970d9106450fb6a38", null ],
+    [ "HandlePlayerEnter", "d1/dcb/a22514.html#ad9738c621df084d5a3f0070c80403642", null ],
+    [ "HandlePlayerLeave", "d1/dcb/a22514.html#a86e849e5387383a6c751e69350ffa07c", null ],
+    [ "SendChangePhase", "d1/dcb/a22514.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
+    [ "m_TowerType", "d1/dcb/a22514.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
 ];

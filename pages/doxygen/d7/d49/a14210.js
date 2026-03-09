@@ -1,9 +1,7 @@
 var a14210 =
 [
-    [ "boss_hazzarah", "d7/d49/a14210.html#a73ba49b91addc9c03e1692587fe66a52", null ],
-    [ "CanAIAttack", "d7/d49/a14210.html#a9038a5b4276fda8a6865217a7c494eec", null ],
-    [ "JustEngagedWith", "d7/d49/a14210.html#a18e382c03ff923bb851a9cd8e2541788", null ],
-    [ "JustSummoned", "d7/d49/a14210.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
-    [ "SummonedCreatureDies", "d7/d49/a14210.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
-    [ "UpdateAI", "d7/d49/a14210.html#a61d92f1650a84ed9684d33879e54bd09", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "de/dd8/a14214.html", "de/dd8/a14214" ],
+    [ "npc_lady_sylvanas_windrunner", "d7/d49/a14210.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
+    [ "GetAI", "d7/d49/a14210.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
+    [ "OnQuestReward", "d7/d49/a14210.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
 ];

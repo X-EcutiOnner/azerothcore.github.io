@@ -1,6 +1,8 @@
 var a27462 =
 [
-    [ "go_heatAI", "d9/d0e/a27466.html", "d9/d0e/a27466" ],
-    [ "go_heat", "d5/d04/a27462.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
-    [ "GetAI", "d5/d04/a27462.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
+    [ "Apply", "d5/d04/a27462.html#ac3145df90b6b179fece1c76da114e395", null ],
+    [ "HandleEffectPeriodic", "d5/d04/a27462.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
+    [ "PrepareAuraScript", "d5/d04/a27462.html#aa911ba0b5a13a933bf50a072799a040f", null ],
+    [ "Register", "d5/d04/a27462.html#ae0dff9b5002d3d3361d794a75645057f", null ],
+    [ "Validate", "d5/d04/a27462.html#ad81184b508474a89fbafc63594ef0ab1", null ]
 ];

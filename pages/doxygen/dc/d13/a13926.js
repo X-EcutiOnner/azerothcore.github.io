@@ -1,7 +1,6 @@
 var a13926 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "dc/d13/a13926.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
-    [ "Reset", "dc/d13/a13926.html#a18de805428ce0954a5fbfffbf5975342", null ],
-    [ "UpdateAI", "dc/d13/a13926.html#a48b191d0812bfe3212511a52ef0df817", null ],
-    [ "_events", "dc/d13/a13926.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
+    [ "HandleEffectApply", "dc/d13/a13926.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
+    [ "PrepareAuraScript", "dc/d13/a13926.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
+    [ "Register", "dc/d13/a13926.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
 ];

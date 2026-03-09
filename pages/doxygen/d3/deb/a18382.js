@@ -1,6 +1,7 @@
 var a18382 =
 [
-    [ "LichKingDeathEvent", "d3/deb/a18382.html#a9aa328b60358034355b1eed5caacb9f8", null ],
-    [ "Execute", "d3/deb/a18382.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
-    [ "_owner", "d3/deb/a18382.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
+    [ "HandleTriggerSpell", "d3/deb/a18382.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "d3/deb/a18382.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "d3/deb/a18382.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "d3/deb/a18382.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

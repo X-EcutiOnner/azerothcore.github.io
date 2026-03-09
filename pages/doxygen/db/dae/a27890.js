@@ -1,5 +1,6 @@
 var a27890 =
 [
-    [ "npc_stable_masterAI", "db/dae/a27890.html#a5c6f9bca1004af163ddb074b606330be", null ],
-    [ "sGossipSelect", "db/dae/a27890.html#a09205661674dd011ffe425deaadde053", null ]
+    [ "HandleScript", "db/dae/a27890.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
+    [ "PrepareSpellScript", "db/dae/a27890.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
+    [ "Register", "db/dae/a27890.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
 ];

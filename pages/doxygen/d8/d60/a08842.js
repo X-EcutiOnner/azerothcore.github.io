@@ -1,7 +1,8 @@
 var a08842 =
 [
-    [ "VehicleDespawnEvent", "d8/d60/a08842.html#a53c96e023186cfb36084814b69e62d15", null ],
-    [ "Execute", "d8/d60/a08842.html#a39284ca2343e54cec915ac3ecf51f4a8", null ],
-    [ "_duration", "d8/d60/a08842.html#a9ac4ab83b785691285fb20364925b7ca", null ],
-    [ "_self", "d8/d60/a08842.html#a0d472ea9a1a7b615f01c73d20cfc6573", null ]
+    [ "EnchantDuration", "d8/d60/a08842.html#a1ce5f81deaa60494c247673c113632d8", null ],
+    [ "EnchantDuration", "d8/d60/a08842.html#a52448f2bb8b788193a69fe9a2d8729f3", null ],
+    [ "item", "d8/d60/a08842.html#ae803f6a9ce9cdb0dbb133bc85b6613ab", null ],
+    [ "leftduration", "d8/d60/a08842.html#a3f4edafbc9b09cb5ab660bc68af435f3", null ],
+    [ "slot", "d8/d60/a08842.html#a3de1a8d64aea4c5c1f984a74c6bb017d", null ]
 ];

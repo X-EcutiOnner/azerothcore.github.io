@@ -1,7 +1,8 @@
 var a05982 =
 [
-    [ "arg1", "d5/d61/a05982.html#aa2018e5823bcf013847605847231e3c2", null ],
-    [ "arg2", "d5/d61/a05982.html#a4c8721b050e72556a901be1a4a49c2b6", null ],
-    [ "arg3", "d5/d61/a05982.html#acadf2c3d1d60f8f49fde62b9172980e5", null ],
-    [ "updateType", "d5/d61/a05982.html#a84cace2469c54d57b33abe5ca93588ca", null ]
+    [ "Statements", "d5/d61/a05982.html#adaf49f7cb45d90cb041f979b1821e4a1", null ],
+    [ "WorldDatabaseConnection", "d5/d61/a05982.html#a0c03387d2c019c86d1fe4933eca6aae5", null ],
+    [ "WorldDatabaseConnection", "d5/d61/a05982.html#a015f79a049d37f742232bc5ac10e9551", null ],
+    [ "~WorldDatabaseConnection", "d5/d61/a05982.html#a2feafa80fe8e838587d8f7b641c0ab09", null ],
+    [ "DoPrepareStatements", "d5/d61/a05982.html#a280aa4a4571581c5cef8f9967631b484", null ]
 ];

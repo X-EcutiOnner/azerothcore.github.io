@@ -1,7 +1,5 @@
 var a16362 =
 [
-    [ "HandleDummy", "da/d34/a16362.html#a96b430cb0546fb599da22cd675660187", null ],
-    [ "PrepareSpellScript", "da/d34/a16362.html#ad0330cb78a330f05c18f33375f231fbc", null ],
-    [ "Register", "da/d34/a16362.html#a70a36683a235dec6044a8a32f20c606c", null ],
-    [ "Validate", "da/d34/a16362.html#affa7ccf869e98eacd3a153cc645d704e", null ]
+    [ "achievement_volunteer_work", "da/d34/a16362.html#a43db6e553b370f139ac376840fdf6d70", null ],
+    [ "OnCheck", "da/d34/a16362.html#abdbbe9165d3d72d76fe685ebce5e304d", null ]
 ];

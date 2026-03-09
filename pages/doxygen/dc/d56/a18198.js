@@ -1,6 +1,7 @@
 var a18198 =
 [
-    [ "npc_precious_iccAI", "d6/d8e/a18202.html", "d6/d8e/a18202" ],
-    [ "npc_precious_icc", "dc/d56/a18198.html#a463eb0df1edb17e154658dac131f0898", null ],
-    [ "GetAI", "dc/d56/a18198.html#aa63840c5968a089bff41dcd9c86d5849", null ]
+    [ "FilterTargets", "dc/d56/a18198.html#a77afd0b56c9bddd74999d5df30457b7f", null ],
+    [ "HandleDummy", "dc/d56/a18198.html#a04166e4e5a4ba082755433555855cb30", null ],
+    [ "PrepareSpellScript", "dc/d56/a18198.html#aaefa58014db12fb76e3416ae807c69e8", null ],
+    [ "Register", "dc/d56/a18198.html#a497ee30669d45341023abe549c91ddaf", null ]
 ];

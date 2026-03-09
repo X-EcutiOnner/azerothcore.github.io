@@ -1,7 +1,9 @@
 var a01190 =
 [
-    [ "operator<<", "dc/d19/a01190.html#a71323635f122d24189054da615cb39e1", null ],
-    [ "operator<<", "dc/d19/a01190.html#ab63323f8a9ade40ddd90338538b5c9b5", null ],
-    [ "operator>>", "dc/d19/a01190.html#a72e22c3226b5f361848aef2c75a6d3fb", null ],
-    [ "operator>>", "dc/d19/a01190.html#af223d782e9dcf0f80ed4009360aa0d80", null ]
+    [ "DynamicObject", "d6/d60/a08410.html", "d6/d60/a08410" ],
+    [ "DynamicObjectType", "dc/d19/a01190.html#aee85c2f840289bcf773609333ee91131", [
+      [ "DYNAMIC_OBJECT_PORTAL", "dc/d19/a01190.html#aee85c2f840289bcf773609333ee91131a241a99bd67606cb106b003bab51e3a5b", null ],
+      [ "DYNAMIC_OBJECT_AREA_SPELL", "dc/d19/a01190.html#aee85c2f840289bcf773609333ee91131a7fb219efa9ce6ad8dc94e20c1feff546", null ],
+      [ "DYNAMIC_OBJECT_FARSIGHT_FOCUS", "dc/d19/a01190.html#aee85c2f840289bcf773609333ee91131a59fbc7f63f5d2715fbc29110f393168d", null ]
+    ] ]
 ];

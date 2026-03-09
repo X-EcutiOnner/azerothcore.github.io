@@ -1,6 +1,6 @@
 var a12414 =
 [
-    [ "FilterTargets", "d4/d93/a12414.html#ac630fb5f068e4d26adb078b118994c45", null ],
-    [ "PrepareSpellScript", "d4/d93/a12414.html#a5f4986bfad79573e65d56ff276c49914", null ],
-    [ "Register", "d4/d93/a12414.html#aa1f5838d43871fd7908ea3b914666000", null ]
+    [ "boss_anubshiahAI", "d4/d93/a12414.html#ae5bdb5509aad0d386bf73e5aad728744", null ],
+    [ "JustEngagedWith", "d4/d93/a12414.html#ae83c1def323828814b5db6b032002438", null ],
+    [ "UpdateAI", "d4/d93/a12414.html#a3acd88f97e2f1e3386c9b5dfa4f15d15", null ]
 ];

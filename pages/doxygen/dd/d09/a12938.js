@@ -1,8 +1,6 @@
 var a12938 =
 [
-    [ "npc_tito", "dd/d09/a12938.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
-    [ "JustEngagedWith", "dd/d09/a12938.html#a71335c1474e8a29edf76addacb737fa9", null ],
-    [ "UpdateAI", "dd/d09/a12938.html#ac357c29e68d8480d94349da844efd3ad", null ],
-    [ "_scheduler", "dd/d09/a12938.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
-    [ "instance", "dd/d09/a12938.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
+    [ "boss_lucifronAI", "d9/d53/a12942.html", "d9/d53/a12942" ],
+    [ "boss_lucifron", "dd/d09/a12938.html#aa54be5c49a77524b036c167dbb6d81ea", null ],
+    [ "GetAI", "dd/d09/a12938.html#a885366d4190bbc77dc696ee6910435ed", null ]
 ];

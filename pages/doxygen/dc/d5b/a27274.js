@@ -1,5 +1,8 @@
 var a27274 =
 [
-    [ "achievement_sa_defense_of_the_ancients", "dc/d5b/a27274.html#a678cffdece32710a42a92db0c092f3a5", null ],
-    [ "OnCheck", "dc/d5b/a27274.html#af23e346f9b022f490b84c8081f847a2f", null ]
+    [ "CheckCast", "dc/d5b/a27274.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
+    [ "CheckQuest", "dc/d5b/a27274.html#abc927d932c1d5e05eab1918364d68ed5", null ],
+    [ "HandleActiveObject", "dc/d5b/a27274.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
+    [ "PrepareSpellScript", "dc/d5b/a27274.html#a96e69476965cc2466213a5371a57093a", null ],
+    [ "Register", "dc/d5b/a27274.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
 ];

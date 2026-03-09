@@ -1,11 +1,9 @@
 var a13986 =
 [
-    [ "npc_tapoke_slim_jahnAI", "de/d11/a13986.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
-    [ "AttackedBy", "de/d11/a13986.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
-    [ "DamageTaken", "de/d11/a13986.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
-    [ "JustEngagedWith", "de/d11/a13986.html#a544b8eaee365217a4a735ed39b4607b2", null ],
-    [ "JustSummoned", "de/d11/a13986.html#ae468305fbe930baf0a1547f2e6de9953", null ],
-    [ "Reset", "de/d11/a13986.html#a5aeaa5511584d1095639e7df584019c5", null ],
-    [ "WaypointReached", "de/d11/a13986.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
-    [ "IsFriendSummoned", "de/d11/a13986.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
+    [ "spell_sunwell_teleport", "de/d11/a13986.html#a6c61c9bb6cb5737469686a7976207f1d", null ],
+    [ "HandleScript", "de/d11/a13986.html#a4bd9ef50ecc45c792feb8e4d820298b5", null ],
+    [ "PrepareSpellScript", "de/d11/a13986.html#afc3c927b4bd5ec19074a0ee6d59783f2", null ],
+    [ "Register", "de/d11/a13986.html#a3a82c7a6d6673c5860b196e0cd644aab", null ],
+    [ "Validate", "de/d11/a13986.html#a351a2beced058f9354515baa38b0292e", null ],
+    [ "_triggeredSpellId", "de/d11/a13986.html#a66d97a0028b8a0c430ac5152213f60eb", null ]
 ];

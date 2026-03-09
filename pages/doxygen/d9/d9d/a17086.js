@@ -1,6 +1,6 @@
 var a17086 =
 [
-    [ "npc_tortured_riflemanAI", "de/d85/a17090.html", "de/d85/a17090" ],
-    [ "npc_tortured_rifleman", "d9/d9d/a17086.html#a32e4164864c3873b3684ad531a2e924a", null ],
-    [ "GetAI", "d9/d9d/a17086.html#aaef71feb7077c561eb2bcf7d4fc411c7", null ]
+    [ "boss_acidmawAI", "de/d85/a17090.html", "de/d85/a17090" ],
+    [ "boss_acidmaw", "d9/d9d/a17086.html#a86e71bf9ae950a4f8efa58d6f679e8bf", null ],
+    [ "GetAI", "d9/d9d/a17086.html#aacbd4c83e6e9c9790e6cf9a87e3aa9a0", null ]
 ];

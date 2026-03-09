@@ -1,6 +1,7 @@
 var a26430 =
 [
-    [ "FilterTargets", "d1/dca/a26430.html#a17626abdbc4066956b76945b11b3f0c6", null ],
-    [ "PrepareSpellScript", "d1/dca/a26430.html#abfeb75060c1f930b33003dd1e458f882", null ],
-    [ "Register", "d1/dca/a26430.html#a8e5146a57f181b17280d198bcd2e216d", null ]
+    [ "HandleProc", "d1/dca/a26430.html#a88510ad234c654bbe3316f6557742f77", null ],
+    [ "PrepareAuraScript", "d1/dca/a26430.html#adff2a6b6161cc6fa6a49bd55c088394c", null ],
+    [ "Register", "d1/dca/a26430.html#aeaae510592ba20f76e322701a9c30c17", null ],
+    [ "Validate", "d1/dca/a26430.html#a1d9dc752bd385ff99ee4c39094c68d8a", null ]
 ];

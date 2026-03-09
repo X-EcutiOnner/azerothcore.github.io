@@ -1,8 +1,6 @@
 var a25902 =
 [
-    [ "HandleProc", "dc/deb/a25902.html#ad92c7804b26bd29d135e55c8adad9093", null ],
-    [ "OnRemove", "dc/deb/a25902.html#afa8e065ed835243f3ebb95c10792adf8", null ],
-    [ "PrepareAuraScript", "dc/deb/a25902.html#a5e986f77b23fd0402089ea36f0360c79", null ],
-    [ "Register", "dc/deb/a25902.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
-    [ "Validate", "dc/deb/a25902.html#a51f81afec6ff0918530208d9de9dae24", null ]
+    [ "HandleSummon", "dc/deb/a25902.html#ad1ee0eb347454d50216610a266226d68", null ],
+    [ "PrepareSpellScript", "dc/deb/a25902.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
+    [ "Register", "dc/deb/a25902.html#aa145041af68291f107c3ff11ce15b85e", null ]
 ];

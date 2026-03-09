@@ -1,13 +1,15 @@
 var a07526 =
 [
-    [ "WhoListCacheMgr", "d7/d7c/a07526.html#a2190c113c3d38bd316b17a4400c113e6", null ],
-    [ "~WhoListCacheMgr", "d7/d7c/a07526.html#ae32706d7786014e142dc1cb9ccd29d70", null ],
-    [ "WhoListCacheMgr", "d7/d7c/a07526.html#a366e452317179d647042c24c56faafa1", null ],
-    [ "WhoListCacheMgr", "d7/d7c/a07526.html#ae0358ae9260f929410f6518f89135161", null ],
-    [ "GetWhoList", "d7/d7c/a07526.html#a4dec6544342fdc5052b69dcc61148453", null ],
-    [ "instance", "d7/d7c/a07526.html#a1e8ce970e3213cd0361af303df98b387", null ],
-    [ "operator=", "d7/d7c/a07526.html#a80615aa0a66ac29765f27598e605c712", null ],
-    [ "operator=", "d7/d7c/a07526.html#ab8aff37f9e66aef40ccb794928bc001c", null ],
-    [ "Update", "d7/d7c/a07526.html#a3db2ef832cf1413fb2e565ca0d922a80", null ],
-    [ "_whoListStorage", "d7/d7c/a07526.html#a75495cb910c6de65d60a5080248e1e25", null ]
+    [ "ModifyMatchmakerRating", "d7/d7c/a07526.html#aaa6de888c3f85ef8cbe9baa2f997aba1", null ],
+    [ "ModifyPersonalRating", "d7/d7c/a07526.html#a34401ea82507df97e540c698fa549b5f", null ],
+    [ "Class", "d7/d7c/a07526.html#a5f6519e8ad3281a09608f8740927fbd3", null ],
+    [ "Guid", "d7/d7c/a07526.html#ac0dc6765247a0f36b3d3ff527a678010", null ],
+    [ "MatchMakerRating", "d7/d7c/a07526.html#ac91a344c7aecb72d17841413f5d935da", null ],
+    [ "MaxMMR", "d7/d7c/a07526.html#afc86e111a1c699254c5ea761d0dda088", null ],
+    [ "Name", "d7/d7c/a07526.html#a7917e705d8c15bbe2731c32375c34d16", null ],
+    [ "PersonalRating", "d7/d7c/a07526.html#a03168b1bdc8e6dac30d3b63e692ce854", null ],
+    [ "SeasonGames", "d7/d7c/a07526.html#ae3724b7268c161d5553b8cc1fae2cf75", null ],
+    [ "SeasonWins", "d7/d7c/a07526.html#a7239187cef3a02839fe27577ad022ec9", null ],
+    [ "WeekGames", "d7/d7c/a07526.html#a97906127f7eb1babe2bf2ebcda7c0a88", null ],
+    [ "WeekWins", "d7/d7c/a07526.html#a5b9e5e02d59569080d34abd9b9728693", null ]
 ];

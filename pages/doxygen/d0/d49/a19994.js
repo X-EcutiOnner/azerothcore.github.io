@@ -1,6 +1,10 @@
 var a19994 =
 [
-    [ "npc_auriaya_sanctum_sentryAI", "dd/d2b/a19998.html", "dd/d2b/a19998" ],
-    [ "npc_auriaya_sanctum_sentry", "d0/d49/a19994.html#aa275374ba3a19a2e6a8768d4f01752b2", null ],
-    [ "GetAI", "d0/d49/a19994.html#a6a8843d3f24378a2fd334e773618ab72", null ]
+    [ "npc_molten_golem", "d0/d49/a19994.html#a38350948396b7df97837780531f79515", null ],
+    [ "DamageTaken", "d0/d49/a19994.html#aa3521246b0c2bed18b5466879ec1d107", null ],
+    [ "DoAction", "d0/d49/a19994.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
+    [ "Reset", "d0/d49/a19994.html#a24e23d0959bcda5be05786381a35ac77", null ],
+    [ "UpdateAI", "d0/d49/a19994.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
+    [ "events", "d0/d49/a19994.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
+    [ "m_pInstance", "d0/d49/a19994.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
 ];

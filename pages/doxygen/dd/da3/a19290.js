@@ -1,6 +1,9 @@
 var a19290 =
 [
-    [ "WebTargetSelector", "dd/da3/a19290.html#a2f19cffab18fd6f2f5a1d296aa1db47d", null ],
-    [ "operator()", "dd/da3/a19290.html#a289821eaae114ba384a9ee9b8c19325f", null ],
-    [ "_maexxna", "dd/da3/a19290.html#ad21c9ac380f7b97aacc06f08f1c45974", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "dd/da3/a19290.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
+    [ "AttackStart", "dd/da3/a19290.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
+    [ "JustEngagedWith", "dd/da3/a19290.html#a7648c626ded6d3abef798b46c77f991d", null ],
+    [ "Reset", "dd/da3/a19290.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
+    [ "UpdateAI", "dd/da3/a19290.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
+    [ "events", "dd/da3/a19290.html#a5aaffc1e78c255c95893be1537e520d6", null ]
 ];

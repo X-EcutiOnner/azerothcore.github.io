@@ -1,14 +1,10 @@
 var a09266 =
 [
-    [ "WorldObjectLastSearcher", "de/d2b/a09266.html#af8baf5ff23a3167a963ade43faec09fc", null ],
-    [ "Visit", "de/d2b/a09266.html#ac011f150695eb1f3a83536175fd2a016", null ],
-    [ "Visit", "de/d2b/a09266.html#af5c5a533084c436e0d7de828e1ef82ad", null ],
-    [ "Visit", "de/d2b/a09266.html#a962a050f568dab037a9a48879eae0f86", null ],
-    [ "Visit", "de/d2b/a09266.html#a98967233e04c6223361897c02bc0edc5", null ],
-    [ "Visit", "de/d2b/a09266.html#a94d30e81eb509ff4fd3dac7c207c819b", null ],
-    [ "Visit", "de/d2b/a09266.html#a39a9d66014df641c0cb08f619f9d8434", null ],
-    [ "i_check", "de/d2b/a09266.html#a66afc21dd0fd740c2723516b8c33a319", null ],
-    [ "i_mapTypeMask", "de/d2b/a09266.html#a5689c8aa9120bc545c98ec0916d78d56", null ],
-    [ "i_object", "de/d2b/a09266.html#a765d65a90639b34a8cf9f42fdd6ae653", null ],
-    [ "i_phaseMask", "de/d2b/a09266.html#a966213d495a613f33aebaa8ebda7c380", null ]
+    [ "PetLevelInfo", "de/d2b/a09266.html#ad8e757abeae500063e963ffef5469809", null ],
+    [ "armor", "de/d2b/a09266.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
+    [ "health", "de/d2b/a09266.html#a322dcab3af8f98726aa6addf38e8891b", null ],
+    [ "mana", "de/d2b/a09266.html#a27352e73d6ed3945e398e0634dee1e96", null ],
+    [ "max_dmg", "de/d2b/a09266.html#a092f2600f64f2af885142b2e96d1fe64", null ],
+    [ "min_dmg", "de/d2b/a09266.html#a299d1c7f4c28893e09de79cd816afa95", null ],
+    [ "stats", "de/d2b/a09266.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
 ];

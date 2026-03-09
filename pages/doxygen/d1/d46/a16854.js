@@ -1,6 +1,6 @@
 var a16854 =
 [
-    [ "OnPeriodic", "d1/d46/a16854.html#a6f2e191d76f894517aed395866b7e508", null ],
-    [ "PrepareAuraScript", "d1/d46/a16854.html#a571ee1c735b6095408973bfe5f91bcf7", null ],
-    [ "Register", "d1/d46/a16854.html#a6094dc303c034e49fb4e543874db080b", null ]
+    [ "npc_swarm_scarabAI", "d6/dee/a16858.html", "d6/dee/a16858" ],
+    [ "npc_swarm_scarab", "d1/d46/a16854.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
+    [ "GetAI", "d1/d46/a16854.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
 ];

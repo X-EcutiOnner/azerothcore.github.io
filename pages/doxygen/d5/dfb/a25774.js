@@ -1,6 +1,5 @@
 var a25774 =
 [
-    [ "HandleHeal", "d5/dfb/a25774.html#a3d315ab6d76d45f3d0f5de4a312377ff", null ],
-    [ "PrepareSpellScript", "d5/dfb/a25774.html#ad77d816c82714fe2cafb4dbf48691937", null ],
-    [ "Register", "d5/dfb/a25774.html#a313abe6367e5494bd81a557ab42f9f50", null ]
+    [ "PrepareSpellScript", "d5/dfb/a25774.html#a9137654c01f41c735f477b85e4ec6d73", null ],
+    [ "Register", "d5/dfb/a25774.html#af1002e90bc0801c0759393d2d4af8778", null ]
 ];

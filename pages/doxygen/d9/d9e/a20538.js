@@ -1,7 +1,5 @@
 var a20538 =
 [
-    [ "StoneGripTargetSelector", "d9/d9e/a20538.html#a74fc772e2bc0694dee05fe82de4463e2", null ],
-    [ "operator()", "d9/d9e/a20538.html#ae40653def55e656f2347029a97605395", null ],
-    [ "_me", "d9/d9e/a20538.html#ae5781d6b553491a1e3e8bfde2b965c3a", null ],
-    [ "_victim", "d9/d9e/a20538.html#a09c3c6f832c20776f11b72a468a4b0bb", null ]
+    [ "achievement_staying_buffed_all_winter_25", "d9/d9e/a20538.html#a91f0ab3bada837cff6414350b98a27a3", null ],
+    [ "OnCheck", "d9/d9e/a20538.html#a36591082184bc8466e124bad9a910545", null ]
 ];

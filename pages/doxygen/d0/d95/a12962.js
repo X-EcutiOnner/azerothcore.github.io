@@ -1,6 +1,8 @@
 var a12962 =
 [
-    [ "npc_grandmother", "d0/d95/a12962.html#a6cffe8c574859779f6561dde0aef9666", null ],
-    [ "OnGossipHello", "d0/d95/a12962.html#ae39335d22b5fd1fc4c0f9d34e8977124", null ],
-    [ "OnGossipSelect", "d0/d95/a12962.html#a0e2b684377ed593abfbb49b730cfe9b2", null ]
+    [ "boss_majordomoAI", "d7/d03/a12966.html", "d7/d03/a12966" ],
+    [ "boss_majordomo", "d0/d95/a12962.html#a77a1ff3d2c7aafecad9f78fcd87536b1", null ],
+    [ "GetAI", "d0/d95/a12962.html#aceae0dc662e93bf68556073e8b324964", null ],
+    [ "OnGossipHello", "d0/d95/a12962.html#a8d1b625df61b27fef0bfe6f635a3b7ae", null ],
+    [ "OnGossipSelect", "d0/d95/a12962.html#a69c2c5fc557b02c9a0b26bdb7b57443c", null ]
 ];

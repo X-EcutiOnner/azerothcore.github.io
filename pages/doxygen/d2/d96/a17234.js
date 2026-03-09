@@ -1,15 +1,7 @@
 var a17234 =
 [
-    [ "npc_pos_leaderAI", "d2/d96/a17234.html#a21973bccde394785f8619df7cae5270b", null ],
-    [ "AttackStart", "d2/d96/a17234.html#a6dc4161441752b8ea9baab642d6a0684", null ],
-    [ "JustSummoned", "d2/d96/a17234.html#a03bfcd0ea38073ff8481188d1b570553", null ],
-    [ "MoveInLineOfSight", "d2/d96/a17234.html#ad28f607b313f7729649261969912eba5", null ],
-    [ "Reset", "d2/d96/a17234.html#aee23a2835b84ac060a29b41c10116904", null ],
-    [ "SetData", "d2/d96/a17234.html#a2b49d5045e0d1e25e7a05b1e3ce65b4f", null ],
-    [ "SummonedCreatureDespawn", "d2/d96/a17234.html#a9a35459cf7b83c9f0afc557d1b0b40e7", null ],
-    [ "UpdateAI", "d2/d96/a17234.html#a1507ab4bdade501cf92f843cec20842d", null ],
-    [ "counter", "d2/d96/a17234.html#a7012a08c6409a40646dcd91a47eb6886", null ],
-    [ "events", "d2/d96/a17234.html#a7ea570e98c7a70ae604861c2166eb429", null ],
-    [ "pInstance", "d2/d96/a17234.html#a1ba3692738d6bd474d54fe8910a7f316", null ],
-    [ "summons", "d2/d96/a17234.html#a44b5ee694d96644da91167c7d793eeb3", null ]
+    [ "HandleScriptEffect", "d2/d96/a17234.html#a62cef31900cd61167823f3e66aa2d64b", null ],
+    [ "PrepareSpellScript", "d2/d96/a17234.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
+    [ "Register", "d2/d96/a17234.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
+    [ "Validate", "d2/d96/a17234.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
 ];

@@ -1,6 +1,6 @@
 var a24290 =
 [
-    [ "npc_commander_dawnforgeAI", "df/d7c/a24294.html", "df/d7c/a24294" ],
-    [ "npc_commander_dawnforge", "d7/dc1/a24290.html#ab4d430725f68f906e9c8def66b1d6646", null ],
-    [ "GetAI", "d7/dc1/a24290.html#a6089b087b7c3b18659e23c677814318b", null ]
+    [ "PrepareSpellScript", "d7/dc1/a24290.html#aba1979c98f7d0e162cb7aee36c57f568", null ],
+    [ "Register", "d7/dc1/a24290.html#a07f75e1ad374118ab0195dd1a17376ed", null ],
+    [ "SetDest", "d7/dc1/a24290.html#a23afed27143ca0b8e4cdc477d47ab6e0", null ]
 ];

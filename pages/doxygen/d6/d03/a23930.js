@@ -1,7 +1,11 @@
 var a23930 =
 [
-    [ "HandleCast", "d6/d03/a23930.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
-    [ "PrepareSpellScript", "d6/d03/a23930.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
-    [ "Register", "d6/d03/a23930.html#a6ae0573ea69573df64cd57ba84f99918", null ],
-    [ "Validate", "d6/d03/a23930.html#ab5794ca5c0863ce40194ed40e156279a", null ]
+    [ "boss_pathaleon_the_calculator", "d6/d03/a23930.html#a679dc3ccc23c6def44e0f0669822e146", null ],
+    [ "CanAIAttack", "d6/d03/a23930.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
+    [ "DoAction", "d6/d03/a23930.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
+    [ "JustDied", "d6/d03/a23930.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
+    [ "JustEngagedWith", "d6/d03/a23930.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
+    [ "KilledUnit", "d6/d03/a23930.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
+    [ "Reset", "d6/d03/a23930.html#adc48067c3656bf768c3013ff266565c0", null ],
+    [ "_isEnraged", "d6/d03/a23930.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
 ];

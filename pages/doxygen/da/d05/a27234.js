@@ -1,5 +1,9 @@
 var a27234 =
 [
-    [ "achievement_bg_control_all_nodes", "da/d05/a27234.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
-    [ "OnCheck", "da/d05/a27234.html#a69609eb5488519fa5a1f43b13a80e280", null ]
+    [ "HandleKnockBack", "da/d05/a27234.html#acaa8f445874270f34ea5b42a506671db", null ],
+    [ "HandleScript", "da/d05/a27234.html#a29e47298601cb55c5442a3fa59bb3646", null ],
+    [ "Load", "da/d05/a27234.html#a45700aba665b601b2c860af5a869d1af", null ],
+    [ "PrepareSpellScript", "da/d05/a27234.html#aad1c175a2611152278d847ac59f93090", null ],
+    [ "Register", "da/d05/a27234.html#ad790d435f422fabd128e601fb2dff103", null ],
+    [ "Validate", "da/d05/a27234.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
 ];

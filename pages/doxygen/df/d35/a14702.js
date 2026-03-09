@@ -1,11 +1,10 @@
 var a14702 =
 [
-    [ "HandleFinish", "df/d35/a14702.html#ace3a2ad0cf8ac31f7ef5345f1dbbf6e7", null ],
-    [ "HandleScript", "df/d35/a14702.html#a2a2f005c29f0381c3c45d04a75ccc378", null ],
-    [ "Load", "df/d35/a14702.html#a177ea78202f4d5b4c381f1712b01fe43", null ],
-    [ "PrepareSpellScript", "df/d35/a14702.html#a9714f48de3982feb245f78efb8008f1b", null ],
-    [ "Register", "df/d35/a14702.html#ad24c159a0dcfb86eb35a4286f606a3ab", null ],
-    [ "ThrowNextTorch", "df/d35/a14702.html#a6ea11852ede397c1ede1ebaabb906c35", null ],
-    [ "Validate", "df/d35/a14702.html#a026fbf7123f6780459c19ff04b370b08", null ],
-    [ "handled", "df/d35/a14702.html#a869fde9e5d0756d3c68a8db3e10ad50d", null ]
+    [ "npc_brewfest_super_brew_trigger", "df/d35/a14702.html#a3d2189978683150b1c431fa0fd637358", null ],
+    [ "AttackStart", "df/d35/a14702.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
+    [ "JustEngagedWith", "df/d35/a14702.html#a61be52cb8ba0cc10285820ad5324816e", null ],
+    [ "MoveInLineOfSight", "df/d35/a14702.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
+    [ "Reset", "df/d35/a14702.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
+    [ "UpdateAI", "df/d35/a14702.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
+    [ "timer", "df/d35/a14702.html#a2ebb06175e3142cca156e57e8386fe02", null ]
 ];

@@ -1,10 +1,7 @@
 var a21634 =
 [
-    [ "npc_azure_spellbreakerAI", "d4/dff/a21634.html#a1daf4cb20f4081380d8deda9a58da2fd", null ],
-    [ "Reset", "d4/dff/a21634.html#a731ff2d4311359145c353de2d91935c8", null ],
-    [ "UpdateAI", "d4/dff/a21634.html#a053ecfe5c78220c4fa1ac896ce161210", null ],
-    [ "uiArcaneBlastTimer", "d4/dff/a21634.html#a1e752971a31c7d3415c1820eb3574a98", null ],
-    [ "uiChainsOfIceTimer", "d4/dff/a21634.html#a2cbf33865a79a781d8b7aad04cd2095c", null ],
-    [ "uiConeOfColdTimer", "d4/dff/a21634.html#a4970c7459b044b08bf36e17c703395fb", null ],
-    [ "uiSlowTimer", "d4/dff/a21634.html#a2a02b42ec104cfb6682782a80f813eef", null ]
+    [ "HandleProc", "d4/dff/a21634.html#aeb5b70614b266bac0792906bf89a5b97", null ],
+    [ "PrepareAuraScript", "d4/dff/a21634.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
+    [ "Register", "d4/dff/a21634.html#a163e0099271f21362deeb1ba1f169f3f", null ],
+    [ "Validate", "d4/dff/a21634.html#abdb889e4c6d19f756c143d7b36f82257", null ]
 ];

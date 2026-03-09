@@ -1,18 +1,11 @@
 var a15218 =
 [
-    [ "boss_ossirian", "d4/d27/a15218.html#ab03a53ee2c0dc70ab86328e9a7ad1495", null ],
-    [ "InitializeAI", "d4/d27/a15218.html#a76731e2594cfadf5305d8abc502f665a", null ],
-    [ "JustEngagedWith", "d4/d27/a15218.html#a78616bb875bd51d5727e85d0b65d1a73", null ],
-    [ "JustSummoned", "d4/d27/a15218.html#ad462996cd1b12395f6cdaa33a7b876f1", null ],
-    [ "KilledUnit", "d4/d27/a15218.html#a716acecfc8e38eb663557fafb56719fd", null ],
-    [ "MoveInLineOfSight", "d4/d27/a15218.html#a16aa4ac59c1c8f6f844c311745b6e969", null ],
-    [ "Reset", "d4/d27/a15218.html#a17a31cf7827cdb904efa64d954b19c4a", null ],
-    [ "SetGUID", "d4/d27/a15218.html#a87369e8995c096301908ec209e17b274", null ],
-    [ "SpawnNextCrystal", "d4/d27/a15218.html#a2a95c315af6a9e2bcedc8a9c9a9d9789", null ],
-    [ "SpellHit", "d4/d27/a15218.html#a0b5b92a9bce9a5dd0054cb833a56d32f", null ],
-    [ "SummonedCreatureDespawn", "d4/d27/a15218.html#a5c3ac7bddf52e2390f91599bb3ce3a64", null ],
-    [ "UpdateAI", "d4/d27/a15218.html#a8f3822d1cc3354efa5292d88fedd4087", null ],
-    [ "_crystalIterator", "d4/d27/a15218.html#adc049248fa851c954d5fcbf643d47c16", null ],
-    [ "_firstCrystalGUID", "d4/d27/a15218.html#a498d562d4ceeaecc6a01047bc4559235", null ],
-    [ "_saidIntro", "d4/d27/a15218.html#a5a9b0b7ae7421a4554f4c4abc8850220", null ]
+    [ "npc_hyjal_ground_trash", "d4/d27/a15218.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
+    [ "AttackStart", "d4/d27/a15218.html#a0ab86d651644dcc579585176c2b5c07e", null ],
+    [ "DoAction", "d4/d27/a15218.html#aa92481bcf993c4eda5ef271145200d77", null ],
+    [ "GetNearbyFriendlyTrashCreature", "d4/d27/a15218.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
+    [ "JustEngagedWith", "d4/d27/a15218.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
+    [ "PathEndReached", "d4/d27/a15218.html#a035610284a56e690200f978b0fd496ab", null ],
+    [ "Reset", "d4/d27/a15218.html#aa38b45f63841c049a2add0a9832268ef", null ],
+    [ "UpdateAI", "d4/d27/a15218.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
 ];

@@ -1,11 +1,9 @@
 var a11158 =
 [
-    [ "OptionalData", "de/d4c/a11162.html", "de/d4c/a11162" ],
-    [ "ArrivalTicks", "dd/d1c/a11158.html#a8fa635d0c8f77a0e39fd66501490f6ea", null ],
-    [ "ConnectionId", "dd/d1c/a11158.html#abe8700ec99d55a66b22f8fbb28c833fa", null ],
-    [ "Direction", "dd/d1c/a11158.html#a03a38a8ceed9eb1ea5585fcfb1ab29b8", null ],
-    [ "Length", "dd/d1c/a11158.html#ab889533c6ebe4a8b3dbf0a2a5fef06dc", null ],
-    [ "Opcode", "dd/d1c/a11158.html#a7fcc9281cd10ecf79929f9f17c855b65", null ],
-    [ "OptionalData", "dd/d1c/a11158.html#aa5219ee4193cccf913dabf6db5d6f57a", null ],
-    [ "OptionalDataSize", "dd/d1c/a11158.html#a03b79fe07bd5f0a1c254f2fb92a3ecba", null ]
+    [ "WrapItem", "dd/d1c/a11158.html#a7de705fe4ac1b4d71a6487533f40f2aa", null ],
+    [ "Read", "dd/d1c/a11158.html#adcd87a65cc32bc0096b650a705de9a55", null ],
+    [ "GiftBag", "dd/d1c/a11158.html#a45ebce1daa3de00eca9ff7fb352a9063", null ],
+    [ "GiftSlot", "dd/d1c/a11158.html#acd6da351e2ad9108921e2d9c7b13e82b", null ],
+    [ "ItemBag", "dd/d1c/a11158.html#a577a588900d74f22cfe67a1fbe82424b", null ],
+    [ "ItemSlot", "dd/d1c/a11158.html#a6a4bd31c0d4b97a019caca716a79c073", null ]
 ];

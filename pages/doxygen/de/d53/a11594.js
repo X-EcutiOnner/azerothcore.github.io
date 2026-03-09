@@ -1,8 +1,6 @@
 var a11594 =
 [
-    [ "CreatureTextId", "de/d53/a11594.html#ae8058e922bafc69b718ca4be1be39688", null ],
-    [ "operator<", "de/d53/a11594.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
-    [ "entry", "de/d53/a11594.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
-    [ "textGroup", "de/d53/a11594.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
-    [ "textId", "de/d53/a11594.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
+    [ "ChannelTargetData", "de/d53/a11594.html#a26f2a2037750712d8718d9537603e3a1", null ],
+    [ "channelGUID", "de/d53/a11594.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
+    [ "spellDst", "de/d53/a11594.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
 ];

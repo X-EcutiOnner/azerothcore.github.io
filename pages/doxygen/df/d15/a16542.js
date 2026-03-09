@@ -1,6 +1,6 @@
 var a16542 =
 [
-    [ "npc_frost_sphereAI", "dd/d32/a16546.html", "dd/d32/a16546" ],
-    [ "npc_frost_sphere", "df/d15/a16542.html#a0256ba1c53853307f8b66e22b10bef24", null ],
-    [ "GetAI", "df/d15/a16542.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "dd/d32/a16546.html", "dd/d32/a16546" ],
+    [ "npc_baltharus_the_warborn_clone", "df/d15/a16542.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
+    [ "GetAI", "df/d15/a16542.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
 ];

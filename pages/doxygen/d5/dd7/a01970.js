@@ -1,6 +1,8 @@
 var a01970 =
 [
-    [ "instance_mana_tombs", "d4/dc8/a22548.html", "d4/dc8/a22548" ],
-    [ "instance_mana_tombs::instance_mana_tombs_InstanceMapScript", "d3/d3a/a22552.html", "d3/d3a/a22552" ],
-    [ "AddSC_instance_mana_tombs", "d5/dd7/a01970.html#ab3a34e5f5a1433a62cdca43b8f13182c", null ]
+    [ "WorldPackets::Bank::AutoBankItem", "d2/d13/a10746.html", "d2/d13/a10746" ],
+    [ "WorldPackets::Bank::AutoStoreBankItem", "db/d29/a10750.html", "db/d29/a10750" ],
+    [ "WorldPackets::Bank::BuyBankSlot", "d1/d5e/a10754.html", "d1/d5e/a10754" ],
+    [ "WorldPackets::Bank::BuyBankSlotResult", "d2/d7a/a10758.html", "d2/d7a/a10758" ],
+    [ "WorldPackets::Bank::ShowBank", "d9/d21/a10762.html", "d9/d21/a10762" ]
 ];

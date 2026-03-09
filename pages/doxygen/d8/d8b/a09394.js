@@ -1,8 +1,12 @@
 var a09394 =
 [
-    [ "AnyUnfriendlyUnitInObjectRangeCheck", "d8/d8b/a09394.html#a2d83b68a7991d3b3dc2355ecde1efa5d", null ],
-    [ "operator()", "d8/d8b/a09394.html#a5b02b45b937d6b2b0b141967c70f93d9", null ],
-    [ "i_funit", "d8/d8b/a09394.html#a55222acf6dbb538a213eb604f67f40ce", null ],
-    [ "i_obj", "d8/d8b/a09394.html#a5d7e5e8898bd092c1055739fae82f693", null ],
-    [ "i_range", "d8/d8b/a09394.html#aa1c728ceea2ddc2e88ea07132a3fe250", null ]
+    [ "flags", "d8/d8b/a09394.html#ab1c2612a57fcfce78e10de45dfc1c28d", null ],
+    [ "fourcc", "d8/d8b/a09394.html#a5e7b1d32e42afbeb6898ee02014847cd", null ],
+    [ "height", "d8/d8b/a09394.html#ab064dde684394c3aa84f9b151749d524", null ],
+    [ "liquidFlags", "d8/d8b/a09394.html#a90f22c454f03ecee6aa1b9f9392e10a0", null ],
+    [ "liquidLevel", "d8/d8b/a09394.html#ae4f34f9b8139b18416862bcd413f4aaa", null ],
+    [ "liquidType", "d8/d8b/a09394.html#ab2ce1920efaec0a4fc0a81df9d6539e3", null ],
+    [ "offsetX", "d8/d8b/a09394.html#a2ddee980eda8b7321b55ba44697688b5", null ],
+    [ "offsetY", "d8/d8b/a09394.html#abc57f9e6c2f9fae58f575d8e1309f420", null ],
+    [ "width", "d8/d8b/a09394.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed", null ]
 ];

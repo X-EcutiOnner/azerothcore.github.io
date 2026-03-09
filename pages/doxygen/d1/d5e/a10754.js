@@ -1,9 +1,6 @@
 var a10754 =
 [
-    [ "GuildBankUpdateTab", "d1/d5e/a10754.html#a2950da8bfc40df57a3f5a66eee47a7ef", null ],
-    [ "Read", "d1/d5e/a10754.html#ac261ff0102489efb4d69bd866ffc9283", null ],
-    [ "Banker", "d1/d5e/a10754.html#a7ab950cee095221f9114224a624d46db", null ],
-    [ "BankTab", "d1/d5e/a10754.html#a66284a4d9cb40b025ef265d443e6e62f", null ],
-    [ "Icon", "d1/d5e/a10754.html#a75a219a9e2ab677a41920f39a1613a1b", null ],
-    [ "Name", "d1/d5e/a10754.html#a44261fbc379b3137548922faf4b5cbda", null ]
+    [ "BuyBankSlot", "d1/d5e/a10754.html#a0bc11087e9359c6ac762f915b11287d8", null ],
+    [ "Read", "d1/d5e/a10754.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
+    [ "Banker", "d1/d5e/a10754.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
 ];

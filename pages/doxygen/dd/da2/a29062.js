@@ -1,7 +1,6 @@
 var a29062 =
 [
-    [ "Paths", "dd/da2/a29062.html#aff167c694a55441bcf5504f5d1933f41", null ],
-    [ "References", "dd/da2/a29062.html#a07f0d7daa9cd934768b8a603dc52bea3", null ],
-    [ "Sets", "dd/da2/a29062.html#a43774f8dd70e85e16aa8d49b5c6a25b6", null ],
-    [ "Spawns", "dd/da2/a29062.html#a51f24c059516683f0744b81819186c0e", null ]
+    [ "ChannelID", "dd/da2/a29062.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
+    [ "flags", "dd/da2/a29062.html#aa77db644555e336ccbb8dd138c192425", null ],
+    [ "pattern", "dd/da2/a29062.html#ad8b550cf444d66eede00abcf2cefec22", null ]
 ];

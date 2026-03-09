@@ -1,8 +1,9 @@
 var a09862 =
 [
-    [ "PositionFullTerrainStatus", "df/df7/a09862.html#ae0349ed89530b35af91b7b1862acaffe", null ],
-    [ "areaId", "df/df7/a09862.html#ac04966fa31b30f341a937906223463d4", null ],
-    [ "floorZ", "df/df7/a09862.html#abbd186ca681e532d567b5a221a62c02b", null ],
-    [ "liquidInfo", "df/df7/a09862.html#ac96230ad8521342ec97cf4f94013d0b4", null ],
-    [ "outdoors", "df/df7/a09862.html#ae531eb0a4abc029f82d699c98d6aa565", null ]
+    [ "LoginQueryHolder", "df/df7/a09862.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
+    [ "GetAccountId", "df/df7/a09862.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
+    [ "GetGuid", "df/df7/a09862.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
+    [ "Initialize", "df/df7/a09862.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
+    [ "m_accountId", "df/df7/a09862.html#abc8056182803af44a062fe6153fdd009", null ],
+    [ "m_guid", "df/df7/a09862.html#ab4696408b2e649dcdaae0bc4330c0b9e", null ]
 ];

@@ -1,12 +1,12 @@
 var a08574 =
 [
-    [ "SpellModifier", "d4/d3a/a08574.html#adba5fad6b904d09a43be7302e7eb62bd", null ],
-    [ "charges", "d4/d3a/a08574.html#a1aaf71299c2dd27b58a049d252efdee8", null ],
-    [ "mask", "d4/d3a/a08574.html#aba1b01bf3486d61cc1876b03078a35ee", null ],
-    [ "op", "d4/d3a/a08574.html#a21d017f0c8d3108a0eb5f48798103356", null ],
-    [ "ownerAura", "d4/d3a/a08574.html#a5e180553fb4739eb7f947da70fbe7ef8", null ],
-    [ "priority", "d4/d3a/a08574.html#a163a81b49cfdeb73236ee930d6f24673", null ],
-    [ "spellId", "d4/d3a/a08574.html#a465803efab27b2ba0a49c6571b65b908", null ],
-    [ "type", "d4/d3a/a08574.html#a22f64b9c021f5a87f30f01ef117ebb0b", null ],
-    [ "value", "d4/d3a/a08574.html#a31742662ba8112c9e9b972897a928e57", null ]
+    [ "QuaternionData", "d4/d3a/a08574.html#a8a582c133d5fba901470a776c7144432", null ],
+    [ "QuaternionData", "d4/d3a/a08574.html#a7f68a7bf3da861de017168eef5b8c6a0", null ],
+    [ "FromEulerAnglesZYX", "d4/d3a/a08574.html#a4c5f4bc5c0bd4fff3f3ad77e6fd74c09", null ],
+    [ "IsUnit", "d4/d3a/a08574.html#ab0330c115f97ff6368d8e8ab9820191e", null ],
+    [ "ToEulerAnglesZYX", "d4/d3a/a08574.html#a65c564f6ae82c8f1bfb8f7786b5f0b90", null ],
+    [ "w", "d4/d3a/a08574.html#a1f5567b478ebb94161786c85a29ad66a", null ],
+    [ "x", "d4/d3a/a08574.html#aca37b701a67eefbf72922a5e7bf98cb2", null ],
+    [ "y", "d4/d3a/a08574.html#ac222999cbb4681893fe591a5afc3587d", null ],
+    [ "z", "d4/d3a/a08574.html#a7418b0e143cc32169864d77870db5ad7", null ]
 ];

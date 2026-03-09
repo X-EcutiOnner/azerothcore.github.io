@@ -1,6 +1,6 @@
 var a15882 =
 [
-    [ "HandleDummy", "db/d4e/a15882.html#a2750ae788168e7496ea2345c5535509c", null ],
-    [ "PrepareSpellScript", "db/d4e/a15882.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
-    [ "Register", "db/d4e/a15882.html#ab6c961d89d22761402eb4f5881cbd318", null ]
+    [ "npc_webbed_creatureAI", "d5/d6d/a15886.html", "d5/d6d/a15886" ],
+    [ "npc_webbed_creature", "db/d4e/a15882.html#ae52152939766c411e45e827e9ab52d4f", null ],
+    [ "GetAI", "db/d4e/a15882.html#a30fd53b81260b7fd6ca06881930b79e9", null ]
 ];

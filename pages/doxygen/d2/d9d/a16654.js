@@ -1,6 +1,7 @@
 var a16654 =
 [
-    [ "npc_toc_warriorAI", "da/d22/a16658.html", "da/d22/a16658" ],
-    [ "npc_toc_warrior", "d2/d9d/a16654.html#a3e969be07603ef59389106769010660c", null ],
-    [ "GetAI", "d2/d9d/a16654.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
+    [ "OnApply", "d2/d9d/a16654.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
+    [ "OnRemove", "d2/d9d/a16654.html#a781994b0be4588f4df29399fc900ec69", null ],
+    [ "PrepareAuraScript", "d2/d9d/a16654.html#aee648b80e7352edffb20fd60697e1d88", null ],
+    [ "Register", "d2/d9d/a16654.html#a53c56711e31500f827123c08f44072cb", null ]
 ];

@@ -1,8 +1,8 @@
 var a13542 =
 [
-    [ "CheckCast", "d0/d46/a13542.html#a414c603646c1a6be9bbb7059abbb7e71", null ],
-    [ "HandleScriptEffect", "d0/d46/a13542.html#a22f630cb9df4b435a5624f2865915753", null ],
-    [ "PrepareSpellScript", "d0/d46/a13542.html#a6e6b27ade1cac743946a976dbf343066", null ],
-    [ "Register", "d0/d46/a13542.html#a4afae0bafceeb6e6a9a26aea2162d4d9", null ],
-    [ "Validate", "d0/d46/a13542.html#a85779288126b21f516f2feb0238ee65b", null ]
+    [ "npc_highlord_darion_mograineAI", "dd/de2/a13546.html", "dd/de2/a13546" ],
+    [ "npc_highlord_darion_mograine", "d0/d46/a13542.html#a86680b1a140c706b10fd48befc572286", null ],
+    [ "GetAI", "d0/d46/a13542.html#a350539ed741fa372ffff92ffbc6e6260", null ],
+    [ "OnGossipHello", "d0/d46/a13542.html#a35afc9d80b4570163af9f6013949a70c", null ],
+    [ "OnGossipSelect", "d0/d46/a13542.html#a0539d24556c16a1a72be8258c752f5f5", null ]
 ];

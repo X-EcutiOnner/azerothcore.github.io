@@ -1,6 +1,6 @@
 var a25918 =
 [
-    [ "FilterTargets", "dd/d6c/a25918.html#abe299fbad07f800e90b1614ec661c185", null ],
-    [ "PrepareSpellScript", "dd/d6c/a25918.html#a53bae2b6575436705adff74caf9225b7", null ],
-    [ "Register", "dd/d6c/a25918.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
+    [ "HandleOnEffectHit", "dd/d6c/a25918.html#a07157e7255d52acf6eb5d5e5c17e2190", null ],
+    [ "PrepareSpellScript", "dd/d6c/a25918.html#a0b2fd34dda3b23b574f6a5a0c4435006", null ],
+    [ "Register", "dd/d6c/a25918.html#a59c6a1618faa5a44e1c37337b39a3cba", null ]
 ];

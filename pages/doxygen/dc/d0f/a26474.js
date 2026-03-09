@@ -1,7 +1,6 @@
 var a26474 =
 [
-    [ "HandleHeal", "dc/d0f/a26474.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
-    [ "PrepareSpellScript", "dc/d0f/a26474.html#a9de9260bc1e2582138c58a708e5d899c", null ],
-    [ "Register", "dc/d0f/a26474.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
-    [ "Validate", "dc/d0f/a26474.html#aa300822cf5455404482124a6853fb314", null ]
+    [ "CheckProc", "dc/d0f/a26474.html#aa8a8c89cf55ab6796a81671d0312a481", null ],
+    [ "PrepareAuraScript", "dc/d0f/a26474.html#a9c88f86a4edafda286725008ecfeab6c", null ],
+    [ "Register", "dc/d0f/a26474.html#ad75f33c72dff282e4a8976c92e0b4e76", null ]
 ];

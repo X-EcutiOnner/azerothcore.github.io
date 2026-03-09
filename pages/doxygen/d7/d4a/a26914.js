@@ -1,5 +1,6 @@
 var a26914 =
 [
-    [ "EarthenPowerTargetSelector", "d7/d4a/a26914.html#a61290afcc621c73682160a4e6a6e0f5d", null ],
-    [ "operator()", "d7/d4a/a26914.html#a9f3d7e7bdb3a3affa72da57903f28940", null ]
+    [ "HandleDamage", "d7/d4a/a26914.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
+    [ "PrepareSpellScript", "d7/d4a/a26914.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
+    [ "Register", "d7/d4a/a26914.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
 ];

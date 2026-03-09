@@ -1,7 +1,6 @@
 var a25490 =
 [
-    [ "HandleScript", "d3/df8/a25490.html#a12f4c4a85f19ceb55d274428cf2b25a4", null ],
-    [ "PrepareSpellScript", "d3/df8/a25490.html#acf1173670c35c84ae7aba29be00d31cf", null ],
-    [ "Register", "d3/df8/a25490.html#a5a2c59463a0546b6f5cd375b3671b86b", null ],
-    [ "Validate", "d3/df8/a25490.html#a437a018fd6917bee51bdbba7cf29e53d", null ]
+    [ "CalculateDamage", "d3/df8/a25490.html#a2b0d2465c42bb32a2e0a2be1884eddb6", null ],
+    [ "PrepareSpellScript", "d3/df8/a25490.html#a4271f026fd9cddeb109761e9b864c381", null ],
+    [ "Register", "d3/df8/a25490.html#a03bb4cf19328efa783600273663b609a", null ]
 ];

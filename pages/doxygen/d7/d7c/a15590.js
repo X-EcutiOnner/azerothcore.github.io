@@ -1,10 +1,8 @@
 var a15590 =
 [
-    [ "npc_rabid_thistle_bearAI", "d7/d7c/a15590.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
-    [ "Initialize", "d7/d7c/a15590.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
-    [ "Reset", "d7/d7c/a15590.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
-    [ "SpellHit", "d7/d7c/a15590.html#a62bde5a122748564cc806046bf9dcbaa", null ],
-    [ "UpdateAI", "d7/d7c/a15590.html#a8f6c5b873756a58760b2861bc8b86804", null ],
-    [ "_events", "d7/d7c/a15590.html#ad3852bf4588c453642e75fcdc544767b", null ],
-    [ "_playerGUID", "d7/d7c/a15590.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
+    [ "npc_obsidian_destroyer", "d7/d7c/a15590.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
+    [ "JustDied", "d7/d7c/a15590.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
+    [ "JustEngagedWith", "d7/d7c/a15590.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
+    [ "Reset", "d7/d7c/a15590.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
+    [ "UpdateAI", "d7/d7c/a15590.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
 ];

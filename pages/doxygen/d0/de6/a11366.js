@@ -1,8 +1,7 @@
 var a11366 =
 [
-    [ "DirectionType", "d0/de6/a11366.html#a8491033c0286895c2d4d3280cfd529f0", null ],
-    [ "ObjectType", "d0/de6/a11366.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
-    [ "ReferenceType", "d0/de6/a11366.html#a44e310a789c4c5a288f07c9254ad389a", null ],
-    [ "SelectionCategory", "d0/de6/a11366.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
-    [ "SelectionCheckType", "d0/de6/a11366.html#a35c8d221b47de13408a0256598fa9d63", null ]
+    [ "PetDismissSound", "d0/de6/a11366.html#a035aeb40e5de8b5d3d5d9703ad0f19c9", null ],
+    [ "Write", "d0/de6/a11366.html#a06f3c97d815a3e8de55bcd2b3eecdb64", null ],
+    [ "ModelId", "d0/de6/a11366.html#aba65e6547adde55978ce7b2abb779d51", null ],
+    [ "ModelPosition", "d0/de6/a11366.html#a06e6bff9d70996ba890c31ea74363dad", null ]
 ];

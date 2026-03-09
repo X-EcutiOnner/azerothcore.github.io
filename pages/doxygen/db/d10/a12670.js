@@ -1,6 +1,6 @@
 var a12670 =
 [
-    [ "boss_ragnarosAI", "df/d27/a12674.html", "df/d27/a12674" ],
-    [ "boss_ragnaros", "db/d10/a12670.html#a47bd4dc50a0d05e8cbb75c1a5a52c9b5", null ],
-    [ "GetAI", "db/d10/a12670.html#af54e36608e160811ca06952fd2c63f6e", null ]
+    [ "instance_blackrock_spireMapScript", "df/d27/a12674.html", "df/d27/a12674" ],
+    [ "instance_blackrock_spire", "db/d10/a12670.html#a3238be88efcdc9669e7e6a1d725649b3", null ],
+    [ "GetInstanceScript", "db/d10/a12670.html#a5ee2cc38a36ce2cd8c1196ce9f687e2a", null ]
 ];

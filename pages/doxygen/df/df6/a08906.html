@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Member List</title>
+<title>AzerothCore: RaceMgr Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('de/d6b/a08909.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('df/df6/a08906.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,21 +104,462 @@ $(document).ready(function(){initNavTree('de/d6b/a08909.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">PassengerInfo Member List</div></div>
+  <div class="summary">
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-static-attribs">Static Private Attributes</a> &#124;
+<a href="../../d0/d2b/a08903.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">RaceMgr Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../de/d6b/a08909.html">PassengerInfo</a>, including all inherited members.</p>
-<table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../de/d6b/a08909.html#a738a014abc8cb5df525642acc218576b">Guid</a></td><td class="entry"><a class="el" href="../../de/d6b/a08909.html">PassengerInfo</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../de/d6b/a08909.html#a037411c58c414d0c5a39915b7acd578d">IsUnselectable</a></td><td class="entry"><a class="el" href="../../de/d6b/a08909.html">PassengerInfo</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../de/d6b/a08909.html#acccf504073283011dc32b05a5a87b85a">Reset</a>()</td><td class="entry"><a class="el" href="../../de/d6b/a08909.html">PassengerInfo</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-</table></div><!-- contents -->
+<p><code>#include &quot;<a class="el" href="../../">RaceMgr.h</a>&quot;</code></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:ac54cc09b38129b4d7cfc02767c8ba41e"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../df/df6/a08906.html">RaceMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df6/a08906.html#ac54cc09b38129b4d7cfc02767c8ba41e">instance</a> ()</td></tr>
+<tr class="separator:ac54cc09b38129b4d7cfc02767c8ba41e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a93d2f89ab56fa6d4c20547b411b0a812"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df6/a08906.html#a93d2f89ab56fa6d4c20547b411b0a812">LoadRaces</a> ()</td></tr>
+<tr class="separator:a93d2f89ab56fa6d4c20547b411b0a812"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5cf45d0a57727daee3432fca51479c32"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df6/a08906.html#a5cf45d0a57727daee3432fca51479c32">GetMaxRaces</a> ()</td></tr>
+<tr class="separator:a5cf45d0a57727daee3432fca51479c32"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3789528cb72e6f837633b8f3692ea36b"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df6/a08906.html#a3789528cb72e6f837633b8f3692ea36b">SetMaxRaces</a> (<a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> max)</td></tr>
+<tr class="separator:a3789528cb72e6f837633b8f3692ea36b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ba5fec061f9bbd2ccbfcad2ea29cd8a"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df6/a08906.html#a0ba5fec061f9bbd2ccbfcad2ea29cd8a">GetPlayableRaceMask</a> ()</td></tr>
+<tr class="separator:a0ba5fec061f9bbd2ccbfcad2ea29cd8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6e8a0ba72a13d62321246cb4c11a6f4d"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df6/a08906.html#a6e8a0ba72a13d62321246cb4c11a6f4d">GetAllianceRaceMask</a> ()</td></tr>
+<tr class="separator:a6e8a0ba72a13d62321246cb4c11a6f4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab783bff98d389f35ef89f45327cec299"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df6/a08906.html#ab783bff98d389f35ef89f45327cec299">GetHordeRaceMask</a> ()</td></tr>
+<tr class="separator:ab783bff98d389f35ef89f45327cec299"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a78e384652a5e52776f13085d14e6037a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df6/a08906.html#a78e384652a5e52776f13085d14e6037a">RaceMgr</a> ()</td></tr>
+<tr class="separator:a78e384652a5e52776f13085d14e6037a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3abfe795c417bf794f3b38a23deac7a3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df6/a08906.html#a3abfe795c417bf794f3b38a23deac7a3">~RaceMgr</a> ()</td></tr>
+<tr class="separator:a3abfe795c417bf794f3b38a23deac7a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-static-attribs" name="pri-static-attribs"></a>
+Static Private Attributes</h2></td></tr>
+<tr class="memitem:af5b87bbc81180f92f18424dfb0181569"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df6/a08906.html#af5b87bbc81180f92f18424dfb0181569">_maxRaces</a> = 0</td></tr>
+<tr class="separator:af5b87bbc81180f92f18424dfb0181569"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ddd9c8393001fc41b14dd95eece8400"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df6/a08906.html#a0ddd9c8393001fc41b14dd95eece8400">_playableRaceMask</a> = 0</td></tr>
+<tr class="separator:a0ddd9c8393001fc41b14dd95eece8400"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a694fca25b429d99dad214ea277ade0c7"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df6/a08906.html#a694fca25b429d99dad214ea277ade0c7">_allianceRaceMask</a> = 0</td></tr>
+<tr class="separator:a694fca25b429d99dad214ea277ade0c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3f27d5d4ae27c1ebe2462f35dbace85e"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df6/a08906.html#a3f27d5d4ae27c1ebe2462f35dbace85e">_hordeRaceMask</a> = 0</td></tr>
+<tr class="separator:a3f27d5d4ae27c1ebe2462f35dbace85e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a78e384652a5e52776f13085d14e6037a" name="a78e384652a5e52776f13085d14e6037a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a78e384652a5e52776f13085d14e6037a">&#9670;&#160;</a></span>RaceMgr()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">RaceMgr::RaceMgr </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   34</span>{</div>
+<div class="line"><span class="lineno">   35</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a3abfe795c417bf794f3b38a23deac7a3" name="a3abfe795c417bf794f3b38a23deac7a3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3abfe795c417bf794f3b38a23deac7a3">&#9670;&#160;</a></span>~RaceMgr()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">RaceMgr::~RaceMgr </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   38</span>{</div>
+<div class="line"><span class="lineno">   39</span>}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a6e8a0ba72a13d62321246cb4c11a6f4d" name="a6e8a0ba72a13d62321246cb4c11a6f4d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6e8a0ba72a13d62321246cb4c11a6f4d">&#9670;&#160;</a></span>GetAllianceRaceMask()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> RaceMgr::GetAllianceRaceMask </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   42</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/df6/a08906.html#a694fca25b429d99dad214ea277ade0c7">_allianceRaceMask</a>; }</div>
+<div class="ttc" id="aa08906_html_a694fca25b429d99dad214ea277ade0c7"><div class="ttname"><a href="../../df/df6/a08906.html#a694fca25b429d99dad214ea277ade0c7">RaceMgr::_allianceRaceMask</a></div><div class="ttdeci">static uint32 _allianceRaceMask</div><div class="ttdef"><b>Definition:</b> RaceMgr.h:48</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00048">_allianceRaceMask</a>.</p>
+
+</div>
+</div>
+<a id="ab783bff98d389f35ef89f45327cec299" name="ab783bff98d389f35ef89f45327cec299"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab783bff98d389f35ef89f45327cec299">&#9670;&#160;</a></span>GetHordeRaceMask()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> RaceMgr::GetHordeRaceMask </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   43</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/df6/a08906.html#a3f27d5d4ae27c1ebe2462f35dbace85e">_hordeRaceMask</a>; }</div>
+<div class="ttc" id="aa08906_html_a3f27d5d4ae27c1ebe2462f35dbace85e"><div class="ttname"><a href="../../df/df6/a08906.html#a3f27d5d4ae27c1ebe2462f35dbace85e">RaceMgr::_hordeRaceMask</a></div><div class="ttdeci">static uint32 _hordeRaceMask</div><div class="ttdef"><b>Definition:</b> RaceMgr.h:49</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00049">_hordeRaceMask</a>.</p>
+
+</div>
+</div>
+<a id="a5cf45d0a57727daee3432fca51479c32" name="a5cf45d0a57727daee3432fca51479c32"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5cf45d0a57727daee3432fca51479c32">&#9670;&#160;</a></span>GetMaxRaces()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> RaceMgr::GetMaxRaces </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   39</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/df6/a08906.html#af5b87bbc81180f92f18424dfb0181569">_maxRaces</a>; }</div>
+<div class="ttc" id="aa08906_html_af5b87bbc81180f92f18424dfb0181569"><div class="ttname"><a href="../../df/df6/a08906.html#af5b87bbc81180f92f18424dfb0181569">RaceMgr::_maxRaces</a></div><div class="ttdeci">static uint8 _maxRaces</div><div class="ttdef"><b>Definition:</b> RaceMgr.h:45</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00045">_maxRaces</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00047">LoadRaces()</a>.</p>
+
+</div>
+</div>
+<a id="a0ba5fec061f9bbd2ccbfcad2ea29cd8a" name="a0ba5fec061f9bbd2ccbfcad2ea29cd8a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ba5fec061f9bbd2ccbfcad2ea29cd8a">&#9670;&#160;</a></span>GetPlayableRaceMask()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> RaceMgr::GetPlayableRaceMask </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   41</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/df6/a08906.html#a0ddd9c8393001fc41b14dd95eece8400">_playableRaceMask</a>; }</div>
+<div class="ttc" id="aa08906_html_a0ddd9c8393001fc41b14dd95eece8400"><div class="ttname"><a href="../../df/df6/a08906.html#a0ddd9c8393001fc41b14dd95eece8400">RaceMgr::_playableRaceMask</a></div><div class="ttdeci">static uint32 _playableRaceMask</div><div class="ttdef"><b>Definition:</b> RaceMgr.h:47</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00047">_playableRaceMask</a>.</p>
+
+</div>
+</div>
+<a id="ac54cc09b38129b4d7cfc02767c8ba41e" name="ac54cc09b38129b4d7cfc02767c8ba41e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac54cc09b38129b4d7cfc02767c8ba41e">&#9670;&#160;</a></span>instance()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../df/df6/a08906.html">RaceMgr</a> * RaceMgr::instance </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   42</span>{</div>
+<div class="line"><span class="lineno">   43</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../df/df6/a08906.html">RaceMgr</a> <a class="code hl_function" href="../../df/df6/a08906.html#ac54cc09b38129b4d7cfc02767c8ba41e">instance</a>;</div>
+<div class="line"><span class="lineno">   44</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../df/df6/a08906.html#ac54cc09b38129b4d7cfc02767c8ba41e">instance</a>;</div>
+<div class="line"><span class="lineno">   45</span>}</div>
+<div class="ttc" id="aa08906_html"><div class="ttname"><a href="../../df/df6/a08906.html">RaceMgr</a></div><div class="ttdef"><b>Definition:</b> RaceMgr.h:30</div></div>
+<div class="ttc" id="aa08906_html_ac54cc09b38129b4d7cfc02767c8ba41e"><div class="ttname"><a href="../../df/df6/a08906.html#ac54cc09b38129b4d7cfc02767c8ba41e">RaceMgr::instance</a></div><div class="ttdeci">static RaceMgr * instance()</div><div class="ttdef"><b>Definition:</b> RaceMgr.cpp:41</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00041">instance()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00041">instance()</a>.</p>
+
+</div>
+</div>
+<a id="a93d2f89ab56fa6d4c20547b411b0a812" name="a93d2f89ab56fa6d4c20547b411b0a812"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a93d2f89ab56fa6d4c20547b411b0a812">&#9670;&#160;</a></span>LoadRaces()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void RaceMgr::LoadRaces </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   48</span>{</div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_function" href="../../df/df6/a08906.html#a3789528cb72e6f837633b8f3692ea36b">SetMaxRaces</a>(0 + 1);</div>
+<div class="line"><span class="lineno">   50</span>    <a class="code hl_variable" href="../../df/df6/a08906.html#a0ddd9c8393001fc41b14dd95eece8400">_playableRaceMask</a> = 0;</div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_variable" href="../../df/df6/a08906.html#a3f27d5d4ae27c1ebe2462f35dbace85e">_hordeRaceMask</a>    = 0;</div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_variable" href="../../df/df6/a08906.html#a694fca25b429d99dad214ea277ade0c7">_allianceRaceMask</a> = 0;</div>
+<div class="line"><span class="lineno">   53</span> </div>
+<div class="line"><span class="lineno">   54</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; raceEntry : <a class="code hl_variable" href="../../d0/dc8/a01124.html#a65f7a499e3030205871c757cd69867db">sChrRacesStore</a>)</div>
+<div class="line"><span class="lineno">   55</span>    {</div>
+<div class="line"><span class="lineno">   56</span>        <span class="keywordflow">if</span> (!raceEntry)</div>
+<div class="line"><span class="lineno">   57</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   58</span> </div>
+<div class="line"><span class="lineno">   59</span>        <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> alliance = raceEntry-&gt;alliance;</div>
+<div class="line"><span class="lineno">   60</span>        <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> raceId = raceEntry-&gt;RaceID;</div>
+<div class="line"><span class="lineno">   61</span> </div>
+<div class="line"><span class="lineno">   62</span>        <span class="keywordflow">if</span> (raceEntry-&gt;Flags &amp; <a class="code hl_enumvalue" href="../../dd/dca/a04847.html#a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c">CHRRACES_FLAGS_NOT_PLAYABLE</a>)</div>
+<div class="line"><span class="lineno">   63</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   64</span> </div>
+<div class="line"><span class="lineno">   65</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/df6/a08906.html#a5cf45d0a57727daee3432fca51479c32">GetMaxRaces</a>() &lt;= raceId)</div>
+<div class="line"><span class="lineno">   66</span>            <a class="code hl_function" href="../../df/df6/a08906.html#a3789528cb72e6f837633b8f3692ea36b">SetMaxRaces</a>(raceId + 1);</div>
+<div class="line"><span class="lineno">   67</span> </div>
+<div class="line"><span class="lineno">   68</span>        <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> raceBit = (1 &lt;&lt; (raceId - 1));</div>
+<div class="line"><span class="lineno">   69</span> </div>
+<div class="line"><span class="lineno">   70</span>        <a class="code hl_variable" href="../../df/df6/a08906.html#a0ddd9c8393001fc41b14dd95eece8400">_playableRaceMask</a> |= raceBit;</div>
+<div class="line"><span class="lineno">   71</span> </div>
+<div class="line"><span class="lineno">   72</span>        <span class="keywordflow">if</span> (alliance == <a class="code hl_enumvalue" href="../../d6/ddb/a04853.html#a796ad9c090eebb8bc66086d5e0bf8ccca128ca86620ed164f3b36035ef62606dd">ALLIANCE_HORDE</a>)</div>
+<div class="line"><span class="lineno">   73</span>            <a class="code hl_variable" href="../../df/df6/a08906.html#a3f27d5d4ae27c1ebe2462f35dbace85e">_hordeRaceMask</a> |= raceBit;</div>
+<div class="line"><span class="lineno">   74</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (alliance == <a class="code hl_enumvalue" href="../../d6/ddb/a04853.html#a796ad9c090eebb8bc66086d5e0bf8cccaeefb5bb552b08f1c8368a0aa39118245">ALLIANCE_ALLIANCE</a>)</div>
+<div class="line"><span class="lineno">   75</span>            <a class="code hl_variable" href="../../df/df6/a08906.html#a694fca25b429d99dad214ea277ade0c7">_allianceRaceMask</a> |= raceBit;</div>
+<div class="line"><span class="lineno">   76</span>    }</div>
+<div class="line"><span class="lineno">   77</span>}</div>
+<div class="ttc" id="aa00485_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa00485_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa01124_html_a65f7a499e3030205871c757cd69867db"><div class="ttname"><a href="../../d0/dc8/a01124.html#a65f7a499e3030205871c757cd69867db">sChrRacesStore</a></div><div class="ttdeci">DBCStorage&lt; ChrRacesEntry &gt; sChrRacesStore(ChrRacesEntryfmt)</div></div>
+<div class="ttc" id="aa04847_html_a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c"><div class="ttname"><a href="../../dd/dca/a04847.html#a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c">CHRRACES_FLAGS_NOT_PLAYABLE</a></div><div class="ttdeci">@ CHRRACES_FLAGS_NOT_PLAYABLE</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:673</div></div>
+<div class="ttc" id="aa04853_html_a796ad9c090eebb8bc66086d5e0bf8ccca128ca86620ed164f3b36035ef62606dd"><div class="ttname"><a href="../../d6/ddb/a04853.html#a796ad9c090eebb8bc66086d5e0bf8ccca128ca86620ed164f3b36035ef62606dd">ALLIANCE_HORDE</a></div><div class="ttdeci">@ ALLIANCE_HORDE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3681</div></div>
+<div class="ttc" id="aa04853_html_a796ad9c090eebb8bc66086d5e0bf8cccaeefb5bb552b08f1c8368a0aa39118245"><div class="ttname"><a href="../../d6/ddb/a04853.html#a796ad9c090eebb8bc66086d5e0bf8cccaeefb5bb552b08f1c8368a0aa39118245">ALLIANCE_ALLIANCE</a></div><div class="ttdeci">@ ALLIANCE_ALLIANCE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3680</div></div>
+<div class="ttc" id="aa08906_html_a3789528cb72e6f837633b8f3692ea36b"><div class="ttname"><a href="../../df/df6/a08906.html#a3789528cb72e6f837633b8f3692ea36b">RaceMgr::SetMaxRaces</a></div><div class="ttdeci">static void SetMaxRaces(uint8 max)</div><div class="ttdef"><b>Definition:</b> RaceMgr.h:40</div></div>
+<div class="ttc" id="aa08906_html_a5cf45d0a57727daee3432fca51479c32"><div class="ttname"><a href="../../df/df6/a08906.html#a5cf45d0a57727daee3432fca51479c32">RaceMgr::GetMaxRaces</a></div><div class="ttdeci">static uint8 GetMaxRaces()</div><div class="ttdef"><b>Definition:</b> RaceMgr.h:39</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00048">_allianceRaceMask</a>, <a class="el" href="../../#l00049">_hordeRaceMask</a>, <a class="el" href="../../#l00047">_playableRaceMask</a>, <a class="el" href="../../#l03680">ALLIANCE_ALLIANCE</a>, <a class="el" href="../../#l03681">ALLIANCE_HORDE</a>, <a class="el" href="../../#l00673">CHRRACES_FLAGS_NOT_PLAYABLE</a>, <a class="el" href="../../#l00039">GetMaxRaces()</a>, <a class="el" href="../../d0/dc8/a01124.html#a65f7a499e3030205871c757cd69867db">sChrRacesStore</a>, and <a class="el" href="../../#l00040">SetMaxRaces()</a>.</p>
+
+</div>
+</div>
+<a id="a3789528cb72e6f837633b8f3692ea36b" name="a3789528cb72e6f837633b8f3692ea36b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3789528cb72e6f837633b8f3692ea36b">&#9670;&#160;</a></span>SetMaxRaces()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void RaceMgr::SetMaxRaces </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>max</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   40</span>{ <a class="code hl_variable" href="../../df/df6/a08906.html#af5b87bbc81180f92f18424dfb0181569">_maxRaces</a> = max; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00045">_maxRaces</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00047">LoadRaces()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a694fca25b429d99dad214ea277ade0c7" name="a694fca25b429d99dad214ea277ade0c7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a694fca25b429d99dad214ea277ade0c7">&#9670;&#160;</a></span>_allianceRaceMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> RaceMgr::_allianceRaceMask = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00042">GetAllianceRaceMask()</a>, and <a class="el" href="../../#l00047">LoadRaces()</a>.</p>
+
+</div>
+</div>
+<a id="a3f27d5d4ae27c1ebe2462f35dbace85e" name="a3f27d5d4ae27c1ebe2462f35dbace85e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3f27d5d4ae27c1ebe2462f35dbace85e">&#9670;&#160;</a></span>_hordeRaceMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> RaceMgr::_hordeRaceMask = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00043">GetHordeRaceMask()</a>, and <a class="el" href="../../#l00047">LoadRaces()</a>.</p>
+
+</div>
+</div>
+<a id="af5b87bbc81180f92f18424dfb0181569" name="af5b87bbc81180f92f18424dfb0181569"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af5b87bbc81180f92f18424dfb0181569">&#9670;&#160;</a></span>_maxRaces</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> RaceMgr::_maxRaces = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00039">GetMaxRaces()</a>, and <a class="el" href="../../#l00040">SetMaxRaces()</a>.</p>
+
+</div>
+</div>
+<a id="a0ddd9c8393001fc41b14dd95eece8400" name="a0ddd9c8393001fc41b14dd95eece8400"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ddd9c8393001fc41b14dd95eece8400">&#9670;&#160;</a></span>_playableRaceMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> RaceMgr::_playableRaceMask = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00041">GetPlayableRaceMask()</a>, and <a class="el" href="../../#l00047">LoadRaces()</a>.</p>
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Feb 16 2026 21:02:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../df/df6/a08906.html">RaceMgr</a></li>
+    <li class="footer">Generated on Mon Mar 9 2026 21:05:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,5 @@
 var a13466 =
 [
-    [ "FilterTargets", "d0/d4d/a13466.html#a78675c3421e0243de9e136b646c56be1", null ],
-    [ "PrepareSpellScript", "d0/d4d/a13466.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
-    [ "Register", "d0/d4d/a13466.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
+    [ "go_acherus_soul_prison", "d0/d4d/a13466.html#a13c858f74080b8f7963fdacc4b554019", null ],
+    [ "OnGossipHello", "d0/d4d/a13466.html#a904059cbeac3ddb3acf07ec1afe78c37", null ]
 ];

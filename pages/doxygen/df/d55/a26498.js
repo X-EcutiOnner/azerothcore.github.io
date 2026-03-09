@@ -1,8 +1,6 @@
 var a26498 =
 [
-    [ "AfterCheckProc", "df/d55/a26498.html#ad817bc9b07538434956bf64ea1dd0367", null ],
-    [ "HandleProc", "df/d55/a26498.html#af972e6ed5524dadd618d6cd907c0241b", null ],
-    [ "PrepareAuraScript", "df/d55/a26498.html#a0fbc28d9a524b6dff6783077ecd0b3b9", null ],
-    [ "Register", "df/d55/a26498.html#a2cab6b2b0ff567fca6530fa4d917aec1", null ],
-    [ "Validate", "df/d55/a26498.html#aa15febbd22621da12b567fc429917bf0", null ]
+    [ "OnRemove", "df/d55/a26498.html#ae1f257e43effcb396d57d42db3063afd", null ],
+    [ "PrepareAuraScript", "df/d55/a26498.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
+    [ "Register", "df/d55/a26498.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
 ];

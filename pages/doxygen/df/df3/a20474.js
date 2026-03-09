@@ -1,6 +1,6 @@
 var a20474 =
 [
-    [ "npc_ulduar_iron_constructAI", "db/de6/a20478.html", "db/de6/a20478" ],
-    [ "npc_ulduar_iron_construct", "df/df3/a20474.html#a56ddf4d4d290dbb15303419c1dab18da", null ],
-    [ "GetAI", "df/df3/a20474.html#a7d46ba96b6f1968e35721d45c17b1a49", null ]
+    [ "DestroyWinterCache", "df/df3/a20474.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
+    [ "PrepareSpellScript", "df/df3/a20474.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
+    [ "Register", "df/df3/a20474.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
 ];

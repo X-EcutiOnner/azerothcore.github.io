@@ -1,12 +1,6 @@
 var a21430 =
 [
-    [ "boss_koralonAI", "d1/d59/a21430.html#a3f5bc42a141011e543d1215eac09dc74", null ],
-    [ "AttackStart", "d1/d59/a21430.html#aa84e6e9a302172e134163cd07ca57864", null ],
-    [ "JustDied", "d1/d59/a21430.html#a102c10792d9e7df61d920b5a43f58e51", null ],
-    [ "JustEngagedWith", "d1/d59/a21430.html#aa7503618dd09e0aebac44394595f4715", null ],
-    [ "Reset", "d1/d59/a21430.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
-    [ "UpdateAI", "d1/d59/a21430.html#aa944aad2eb68adc917cba743d1e530c7", null ],
-    [ "events", "d1/d59/a21430.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
-    [ "pInstance", "d1/d59/a21430.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
-    [ "rotateTimer", "d1/d59/a21430.html#ad4b766094f28e940b0b7971d6dadc277", null ]
+    [ "npc_vh_teleportation_portalAI", "d3/d7b/a21434.html", "d3/d7b/a21434" ],
+    [ "npc_vh_teleportation_portal", "d1/d59/a21430.html#a9a554058f594f992a17dbb3887117a6f", null ],
+    [ "GetAI", "d1/d59/a21430.html#a0721c64c01ae69bd78dfc15637c97f49", null ]
 ];

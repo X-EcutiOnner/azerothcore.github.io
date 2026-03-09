@@ -1,9 +1,7 @@
 var a24074 =
 [
-    [ "boss_void_reaver", "db/d8d/a24074.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
-    [ "JustDied", "db/d8d/a24074.html#a49e6f52b11177bdac07adff92c2675f5", null ],
-    [ "JustEngagedWith", "db/d8d/a24074.html#a9260d05e11f4dec6fc25432a0524706b", null ],
-    [ "KilledUnit", "db/d8d/a24074.html#adc234fc43308771a42d99049876cad1b", null ],
-    [ "Reset", "db/d8d/a24074.html#a02c36ea960de24991f879943991a93c6", null ],
-    [ "_recentlySpoken", "db/d8d/a24074.html#adc1bb9a6a3340f157c3ffcbd7dcd71ac", null ]
+    [ "npc_kurenai_captiveAI", "d6/df6/a24078.html", "d6/df6/a24078" ],
+    [ "npc_kurenai_captive", "db/d8d/a24074.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "db/d8d/a24074.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "db/d8d/a24074.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
 ];

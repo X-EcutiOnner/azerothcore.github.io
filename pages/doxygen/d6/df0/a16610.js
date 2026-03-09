@@ -1,7 +1,6 @@
 var a16610 =
 [
-    [ "npc_toc_priestAI", "d6/df0/a16610.html#aa362d2136193a8738e311bba18b87c90", null ],
-    [ "myCanCast", "d6/df0/a16610.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
-    [ "UpdateAI", "d6/df0/a16610.html#ae51d2ac95320909150c673b76c9856c7", null ],
-    [ "events", "d6/df0/a16610.html#aa5be20e87351424e0e4698540fc1fef4", null ]
+    [ "npc_orb_carrierAI", "d1/d36/a16614.html", "d1/d36/a16614" ],
+    [ "npc_orb_carrier", "d6/df0/a16610.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
+    [ "GetAI", "d6/df0/a16610.html#ab5b7bbffc43b840c686dc889805ea401", null ]
 ];

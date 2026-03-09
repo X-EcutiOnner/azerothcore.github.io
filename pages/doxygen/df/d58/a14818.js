@@ -1,9 +1,11 @@
 var a14818 =
 [
-    [ "npc_ancient_wisp", "df/d58/a14818.html#a70e45e500b3490a034b058ca2ec16d39", null ],
-    [ "DamageTaken", "df/d58/a14818.html#ad7d96e6b54cdc23a5101338474125e71", null ],
-    [ "JustEngagedWith", "df/d58/a14818.html#a755ed852b3149ada65c5750410776fc8", null ],
-    [ "Reset", "df/d58/a14818.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
-    [ "UpdateAI", "df/d58/a14818.html#a51ca214de826d7126f32e49f6852bca3", null ],
-    [ "_instance", "df/d58/a14818.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
+    [ "npc_the_etymidian", "df/d58/a14818.html#af491016ac89b67947650a5ca9c379875", null ],
+    [ "MoveInLineOfSight", "df/d58/a14818.html#adde2d86e30442eb1b47219e934e24407", null ],
+    [ "Reset", "df/d58/a14818.html#a714edf3ba5f7a6d59242c991764effc5", null ],
+    [ "UpdateAI", "df/d58/a14818.html#a1f3cfddae43e443c5cd4a8a0f9f87a89", null ],
+    [ "orphanGUID", "df/d58/a14818.html#a9ba2c34b08d0fe61e18037b02f352d08", null ],
+    [ "phase", "df/d58/a14818.html#a7086e9a8a8a7287cf90688270e9933a7", null ],
+    [ "playerGUID", "df/d58/a14818.html#a7371e361c018360315e20086b0b99079", null ],
+    [ "timer", "df/d58/a14818.html#a8508a2c89eeeee2d235e1178ca77e895", null ]
 ];

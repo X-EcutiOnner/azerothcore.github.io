@@ -1,7 +1,7 @@
 var a22934 =
 [
-    [ "npc_blade_of_azzinoth", "da/de5/a22934.html#a55afe56313c237afe8080662b2ed2dba", null ],
-    [ "DoAction", "da/de5/a22934.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
-    [ "IsSummonedBy", "da/de5/a22934.html#af2925da1235b809ee81469fe32ab0f92", null ],
-    [ "JustSummoned", "da/de5/a22934.html#a501e2d1ae9af813fd9c30395e7774983", null ]
+    [ "CalculateAmount", "da/de5/a22934.html#adad1c8a513ce8a1badbd40c291363de1", null ],
+    [ "PrepareAuraScript", "da/de5/a22934.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
+    [ "Register", "da/de5/a22934.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
+    [ "Update", "da/de5/a22934.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
 ];

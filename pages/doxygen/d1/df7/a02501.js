@@ -1,6 +1,10 @@
 var a02501 =
 [
-    [ "AntiDosOpcodePolicy", "de/dfd/a09296.html", "de/dfd/a09296" ],
-    [ "WorldGlobals", "df/ded/a09300.html", "df/ded/a09300" ],
-    [ "sWorldGlobals", "d1/df7/a02501.html#abde160907db136b0b0c16309add3ae94", null ]
+    [ "SavedAddonsList", "d1/df7/a02501.html#afa468163a23ed58507a89e5724c06eac", null ],
+    [ "GetAddonInfo", "d1/df7/a02501.html#a65cb6a88902972060e44c57d7d9ec738", null ],
+    [ "GetBannedAddons", "d1/df7/a02501.html#ad7d0938e7463238a86e8c811e1a58800", null ],
+    [ "LoadFromDB", "d1/df7/a02501.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
+    [ "SaveAddon", "d1/df7/a02501.html#a85021021149b7eb4d78cbe81e43d3d45", null ],
+    [ "m_bannedAddons", "d1/df7/a02501.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
+    [ "m_knownAddons", "d1/df7/a02501.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
 ];

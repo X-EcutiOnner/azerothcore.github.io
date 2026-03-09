@@ -1,6 +1,6 @@
 var a17850 =
 [
-    [ "PrepareSpellScript", "d4/d7d/a17850.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
-    [ "Register", "d4/d7d/a17850.html#a651f52f7d242251ff69d100fd69376e4", null ],
-    [ "SelectTarget", "d4/d7d/a17850.html#aede083ebebe38deb5898ff028564ef95", null ]
+    [ "OnAbsorb", "d4/d7d/a17850.html#aa6582457cd0502ca263433d04b40b64f", null ],
+    [ "PrepareAuraScript", "d4/d7d/a17850.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
+    [ "Register", "d4/d7d/a17850.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
 ];

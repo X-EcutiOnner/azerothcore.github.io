@@ -1,6 +1,6 @@
 var a17338 =
 [
-    [ "entry", "dc/d1a/a17338.html#af2cf5df64adf9ac1575a8217b103e738", null ],
-    [ "x", "dc/d1a/a17338.html#aad21475d521921ea30cc0ae5d260ce69", null ],
-    [ "y", "dc/d1a/a17338.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
+    [ "boss_falricAI", "dc/dd5/a17342.html", "dc/dd5/a17342" ],
+    [ "boss_falric", "dc/d1a/a17338.html#aa64253f502f79db5947c09788fb66deb", null ],
+    [ "GetAI", "dc/d1a/a17338.html#a95249877208d19bb54edd8de18616158", null ]
 ];

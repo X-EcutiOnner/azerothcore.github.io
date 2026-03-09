@@ -1,5 +1,5 @@
 var a10970 =
 [
-    [ "DurabilityDamageDeath", "da/df4/a10970.html#a9b4350d37291b9b714be1563b28dcb43", null ],
-    [ "Write", "da/df4/a10970.html#a35a93d9abeeb029f3da080487423f495", null ]
+    [ "GuildLeave", "da/df4/a10970.html#a6a09ab5c50b7185a91e76f428e28f402", null ],
+    [ "Read", "da/df4/a10970.html#a0ea07ca846a92b5357276b5868d98e5f", null ]
 ];

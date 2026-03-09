@@ -1,7 +1,6 @@
 var a24034 =
 [
-    [ "HandleEffect", "d1/d37/a24034.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
-    [ "PrepareSpellScript", "d1/d37/a24034.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
-    [ "Register", "d1/d37/a24034.html#ac406946bb793125d49006e3a877c9638", null ],
-    [ "SelectTarget", "d1/d37/a24034.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
+    [ "npc_fel_guard_houndAI", "d2/da5/a24038.html", "d2/da5/a24038" ],
+    [ "npc_fel_guard_hound", "d1/d37/a24034.html#a324179695f04a31b233b0ce94a46634c", null ],
+    [ "GetAI", "d1/d37/a24034.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
 ];

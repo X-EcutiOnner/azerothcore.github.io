@@ -1,5 +1,6 @@
 var a16106 =
 [
-    [ "achievement_hadronox_denied", "d3/d94/a16106.html#aeb1dcb0cee9cfe1bd149aa070a9ab7a0", null ],
-    [ "OnCheck", "d3/d94/a16106.html#a0ee9c8fb90a43bc011c75026d6bcc2e5", null ]
+    [ "npc_braug_dimspirit", "d3/d94/a16106.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
+    [ "OnGossipHello", "d3/d94/a16106.html#aeaed026edf5a1fa82c941f667c05815b", null ],
+    [ "OnGossipSelect", "d3/d94/a16106.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
 ];

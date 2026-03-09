@@ -1,7 +1,6 @@
 var a24498 =
 [
-    [ "HandleSendEvent", "dd/dac/a24498.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "dd/dac/a24498.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "dd/dac/a24498.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "dd/dac/a24498.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "HandlePeriodic", "dd/dac/a24498.html#adc387a1b001119b95179856c030853ad", null ],
+    [ "PrepareAuraScript", "dd/dac/a24498.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
+    [ "Register", "dd/dac/a24498.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
 ];

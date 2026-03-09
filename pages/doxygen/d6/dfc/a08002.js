@@ -1,7 +1,5 @@
 var a08002 =
 [
-    [ "LfgProposalPlayer", "d6/dfc/a08002.html#a80f7d0f3597201dc7fca4d08dd3b7a38", null ],
-    [ "accept", "d6/dfc/a08002.html#acbf0ce1e12307569487096dc5ca544a6", null ],
-    [ "group", "d6/dfc/a08002.html#a900f24e9caaa1569eeea93b4284139a1", null ],
-    [ "role", "d6/dfc/a08002.html#a54ab4a0f32cc3abc7489fc9c3655fe99", null ]
+    [ "IsColorValid", "d6/dfc/a08002.html#a4bb1cd2a247136daadfa36f85b50a65d", null ],
+    [ "IsTextValid", "d6/dfc/a08002.html#a25b0d16c232ab67fc75a81a494fb5815", null ]
 ];

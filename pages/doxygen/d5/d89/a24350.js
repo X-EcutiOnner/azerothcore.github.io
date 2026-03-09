@@ -1,10 +1,6 @@
 var a24350 =
 [
-    [ "npc_infernal_attackerAI", "d5/d89/a24350.html#ae04c4e026f22bd650bb33940b923df9a", null ],
-    [ "IsSummonedBy", "d5/d89/a24350.html#a926e6cd6772784872a905de7245007ac", null ],
-    [ "JustDied", "d5/d89/a24350.html#a1822131520f98dd5f1dd637282f20ae3", null ],
-    [ "Reset", "d5/d89/a24350.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
-    [ "SpellHit", "d5/d89/a24350.html#a956f3fb1e341519817599df08afc2589", null ],
-    [ "UpdateAI", "d5/d89/a24350.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
-    [ "casterGUID", "d5/d89/a24350.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
+    [ "npc_pet_dk_ghoul", "d5/d89/a24350.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
+    [ "IsSummonedBy", "d5/d89/a24350.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
+    [ "JustDied", "d5/d89/a24350.html#a6095e3619b470283b9875b90e2805b54", null ]
 ];

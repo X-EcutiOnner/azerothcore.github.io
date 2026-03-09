@@ -1,5 +1,6 @@
 var a27282 =
 [
-    [ "achievement_not_even_a_scratch", "d2/d00/a27282.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "d2/d00/a27282.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "HandleSendEvent", "d2/d00/a27282.html#a8126102215aa6eedd638b89d1a6b7110", null ],
+    [ "PrepareSpellScript", "d2/d00/a27282.html#abc57ba05637e2c51bf2d1fb918a93667", null ],
+    [ "Register", "d2/d00/a27282.html#ac37abad48c398bdb22529c1a44327d34", null ]
 ];

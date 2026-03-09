@@ -1,6 +1,6 @@
 var a16974 =
 [
-    [ "boss_devourer_of_soulsAI", "df/d21/a16978.html", "df/d21/a16978" ],
-    [ "boss_devourer_of_souls", "d3/d8c/a16974.html#a95b3a33be3b85a4c7ecfb4370a9ddc60", null ],
-    [ "GetAI", "d3/d8c/a16974.html#a3de68fa630c5b74104c461f88edd1d36", null ]
+    [ "npc_toc_warriorAI", "df/d21/a16978.html", "df/d21/a16978" ],
+    [ "npc_toc_warrior", "d3/d8c/a16974.html#a3e969be07603ef59389106769010660c", null ],
+    [ "GetAI", "d3/d8c/a16974.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
 ];

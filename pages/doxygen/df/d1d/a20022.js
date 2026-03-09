@@ -1,6 +1,6 @@
 var a20022 =
 [
-    [ "boss_flame_leviathanAI", "de/dda/a20026.html", "de/dda/a20026" ],
-    [ "boss_flame_leviathan", "df/d1d/a20022.html#af4fcd38fc7095701c6c31674d849aef4", null ],
-    [ "GetAI", "df/d1d/a20022.html#a3a402b002472bfe4347b512f21654c50", null ]
+    [ "CalculateDamage", "df/d1d/a20022.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
+    [ "PrepareSpellScript", "df/d1d/a20022.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
+    [ "Register", "df/d1d/a20022.html#a02851f0b94687512a8e016bfb9b826e3", null ]
 ];

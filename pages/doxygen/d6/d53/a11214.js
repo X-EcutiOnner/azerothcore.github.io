@@ -1,5 +1,7 @@
 var a11214 =
 [
-    [ "amountCounter", "d6/d53/a11214.html#af652ffc837bde625aa39e913ec2e2eec", null ],
-    [ "lastReceiveTime", "d6/d53/a11214.html#ae0f3f2a90a24b48d239e3df3525f8fdc", null ]
+    [ "RandomRollClient", "d6/d53/a11214.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
+    [ "Read", "d6/d53/a11214.html#ab682763f35a40f776b1742927df0a336", null ],
+    [ "Max", "d6/d53/a11214.html#a45a1e140ed402f54deb4c0798360a43a", null ],
+    [ "Min", "d6/d53/a11214.html#a3cd07e7891b43b453b56013d76f51f71", null ]
 ];

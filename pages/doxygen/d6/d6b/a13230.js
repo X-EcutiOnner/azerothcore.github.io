@@ -1,8 +1,9 @@
 var a13230 =
 [
-    [ "npc_highlord_darion_mograineAI", "d5/d8c/a13234.html", "d5/d8c/a13234" ],
-    [ "npc_highlord_darion_mograine", "d6/d6b/a13230.html#a86680b1a140c706b10fd48befc572286", null ],
-    [ "GetAI", "d6/d6b/a13230.html#a350539ed741fa372ffff92ffbc6e6260", null ],
-    [ "OnGossipHello", "d6/d6b/a13230.html#a35afc9d80b4570163af9f6013949a70c", null ],
-    [ "OnGossipSelect", "d6/d6b/a13230.html#a0539d24556c16a1a72be8258c752f5f5", null ]
+    [ "go_blood_drenched_doorAI", "d6/d6b/a13230.html#af431fff2778278cbd3e27b3906201373", null ],
+    [ "GossipHello", "d6/d6b/a13230.html#aa3d9c4ee80d6fb42103a3f02abdd8d20", null ],
+    [ "UpdateAI", "d6/d6b/a13230.html#a644ac9ce05242714d1b87150852539f3", null ],
+    [ "events", "d6/d6b/a13230.html#a2c51ffa6a3992fe55c2e22cb783409c9", null ],
+    [ "mirkblood", "d6/d6b/a13230.html#a07e1b098c31efe45e2df4f85f71109e4", null ],
+    [ "opener", "d6/d6b/a13230.html#aa70272eb79e875ba7d7767a1bf82afe9", null ]
 ];

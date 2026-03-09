@@ -1,5 +1,6 @@
 var a16998 =
 [
-    [ "npc_fos_leader_secondAI", "d8/de6/a16998.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
-    [ "MovementInform", "d8/de6/a16998.html#a9cc0b500f1289dc8b764b3755468e639", null ]
+    [ "npc_toc_enh_shamanAI", "d9/d6a/a17002.html", "d9/d6a/a17002" ],
+    [ "npc_toc_enh_shaman", "d8/de6/a16998.html#ac328b63a988d2cd8640237b250c338a8", null ],
+    [ "GetAI", "d8/de6/a16998.html#a4501c9289a06750d8f153f89565b12f3", null ]
 ];

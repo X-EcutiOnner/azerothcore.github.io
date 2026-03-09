@@ -1,6 +1,9 @@
 var a23338 =
 [
-    [ "HandleEffectRemove", "d5/db8/a23338.html#a9e578e576d8fa4198cf1f0e9f03ba47a", null ],
-    [ "PrepareAuraScript", "d5/db8/a23338.html#a5fa56f4d61c63487919bb2080795e391", null ],
-    [ "Register", "d5/db8/a23338.html#a2d0bbef8b32c688b7409837b426d9cd1", null ]
+    [ "boss_mennu_the_betrayer", "d5/db8/a23338.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
+    [ "JustDied", "d5/db8/a23338.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
+    [ "JustEngagedWith", "d5/db8/a23338.html#a535b9af1677b8af50515818a18e88d27", null ],
+    [ "JustSummoned", "d5/db8/a23338.html#a59949872270890ef794a77029074210b", null ],
+    [ "KilledUnit", "d5/db8/a23338.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
+    [ "Reset", "d5/db8/a23338.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
 ];

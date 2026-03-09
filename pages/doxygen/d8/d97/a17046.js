@@ -1,6 +1,9 @@
 var a17046 =
 [
-    [ "npc_ghostly_priestAI", "d1/d7c/a17050.html", "d1/d7c/a17050" ],
-    [ "npc_ghostly_priest", "d8/d97/a17046.html#a7c03bb327cfc65f4df515969da482ddb", null ],
-    [ "GetAI", "d8/d97/a17046.html#a0fab76345c5459efcedff02123e4fc8d", null ]
+    [ "npc_fel_infernalAI", "d8/d97/a17046.html#a7f34b34facdfeea3fc3507ad3cf84dda", null ],
+    [ "EnterEvadeMode", "d8/d97/a17046.html#aedec8729b9be931a74fe00d1aa649848", null ],
+    [ "JustDied", "d8/d97/a17046.html#a599786069f98231eeb7f9ca809f8e671", null ],
+    [ "Reset", "d8/d97/a17046.html#a09f408c9250467228b91ef9f6c9544f4", null ],
+    [ "UpdateAI", "d8/d97/a17046.html#a45075fdaba6d7c04cb526420deb8a0ac", null ],
+    [ "events", "d8/d97/a17046.html#acf955037c246f7b5f12cc5338b300b63", null ]
 ];

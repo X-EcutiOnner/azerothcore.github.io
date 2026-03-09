@@ -1,8 +1,8 @@
 var a22386 =
 [
-    [ "npc_adventurous_dwarfAI", "d0/d27/a22390.html", "d0/d27/a22390" ],
-    [ "npc_adventurous_dwarf", "d2/dba/a22386.html#a15c39e217907189db9be7799e696f310", null ],
-    [ "GetAI", "d2/dba/a22386.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
-    [ "OnGossipHello", "d2/dba/a22386.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
-    [ "OnGossipSelect", "d2/dba/a22386.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
+    [ "go_wg_vehicle_teleporterAI", "d2/dba/a22386.html#af84e73765b1a4d810b41613824999186", null ],
+    [ "IsFriendly", "d2/dba/a22386.html#adca817c8919958db888d5e9c759ad545", null ],
+    [ "IsValidVehicle", "d2/dba/a22386.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
+    [ "UpdateAI", "d2/dba/a22386.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
+    [ "_checkTimer", "d2/dba/a22386.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
 ];

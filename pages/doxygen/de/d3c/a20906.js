@@ -1,9 +1,8 @@
 var a20906 =
 [
-    [ "npc_xt002_pummellerAI", "de/d3c/a20906.html#a2942c05c93036c2e02b9a72c784441b1", null ],
-    [ "Reset", "de/d3c/a20906.html#a6542fb3e585f100f06f6be14a1346306", null ],
-    [ "UpdateAI", "de/d3c/a20906.html#a959990310303ff2102f1c03852b4ab8e", null ],
-    [ "_arcingSmashTimer", "de/d3c/a20906.html#a830fda66756dc3f34a530939116e7556", null ],
-    [ "_trampleTimer", "de/d3c/a20906.html#ae5e450601861f83b20419405bb92ef6d", null ],
-    [ "_uppercutTimer", "de/d3c/a20906.html#a5a1bdb380438070effc091ec37db6aec", null ]
+    [ "boss_yoggsaron_crusher_tentacle", "de/d3c/a20906.html#aa550582ebb2fddc8574f1ca96faeb9a5", null ],
+    [ "DamageTaken", "de/d3c/a20906.html#aa38dbd7050000d3aab774a7b719912f4", null ],
+    [ "DoAction", "de/d3c/a20906.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
+    [ "Reset", "de/d3c/a20906.html#aba082f8d2fa200eca9c52336df544221", null ],
+    [ "UpdateAI", "de/d3c/a20906.html#ae22a12401dc98534da1cb771468a58ce", null ]
 ];

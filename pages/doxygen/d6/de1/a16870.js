@@ -1,7 +1,6 @@
 var a16870 =
 [
-    [ "HandleScriptEffect", "d6/de1/a16870.html#a51064b3a11f453724ae0879c80eaf8df", null ],
-    [ "PrepareSpellScript", "d6/de1/a16870.html#aac26002ff107e609fb7258306b430f1b", null ],
-    [ "Register", "d6/de1/a16870.html#a0efef7644706940e3929ce99cd162c91", null ],
-    [ "Validate", "d6/de1/a16870.html#a7110d4136337d44aa0300ec82e5a6511", null ]
+    [ "npc_nerubian_burrowerAI", "da/d29/a16874.html", "da/d29/a16874" ],
+    [ "npc_nerubian_burrower", "d6/de1/a16870.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
+    [ "GetAI", "d6/de1/a16870.html#a145ebac6f95f9190429b9bfa37e23312", null ]
 ];

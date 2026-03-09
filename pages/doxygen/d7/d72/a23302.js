@@ -1,12 +1,6 @@
 var a23302 =
 [
-    [ "boss_fathomlord_karathress", "d7/d72/a23302.html#a05c483ea61011926c260b43f6c01cac3", null ],
-    [ "DoAction", "d7/d72/a23302.html#adc5685244341e353c6dac67b0191d877", null ],
-    [ "JustDied", "d7/d72/a23302.html#a4c356359be50b626a28fab4a803386f8", null ],
-    [ "JustEngagedWith", "d7/d72/a23302.html#ae221d994f2ebb0a298288233727ea1ba", null ],
-    [ "JustReachedHome", "d7/d72/a23302.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
-    [ "JustSummoned", "d7/d72/a23302.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
-    [ "KilledUnit", "d7/d72/a23302.html#a02812a3cc7de22348058dedd107bb6d0", null ],
-    [ "Reset", "d7/d72/a23302.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
-    [ "_recentlySpoken", "d7/d72/a23302.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
+    [ "HandleScript", "d7/d72/a23302.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
+    [ "PrepareSpellScript", "d7/d72/a23302.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
+    [ "Register", "d7/d72/a23302.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
 ];

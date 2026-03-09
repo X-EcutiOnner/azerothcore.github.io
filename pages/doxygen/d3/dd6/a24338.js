@@ -1,6 +1,6 @@
 var a24338 =
 [
-    [ "npc_invis_infernal_casterAI", "d1/d80/a24342.html", "d1/d80/a24342" ],
-    [ "npc_invis_infernal_caster", "d3/dd6/a24338.html#a9aed081ef904075830428bbc76f53874", null ],
-    [ "GetAI", "d3/dd6/a24338.html#aede0c5cc390ea423169b1cba66d929cd", null ]
+    [ "go_ancient_skull_pile", "d3/dd6/a24338.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
+    [ "OnGossipHello", "d3/dd6/a24338.html#afc258eaeb7586f0f539223c21f82ea63", null ],
+    [ "OnGossipSelect", "d3/dd6/a24338.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
 ];

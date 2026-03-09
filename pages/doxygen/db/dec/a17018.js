@@ -1,6 +1,8 @@
 var a17018 =
 [
-    [ "boss_falricAI", "df/d1d/a17022.html", "df/d1d/a17022" ],
-    [ "boss_falric", "db/dec/a17018.html#aa64253f502f79db5947c09788fb66deb", null ],
-    [ "GetAI", "db/dec/a17018.html#a95249877208d19bb54edd8de18616158", null ]
+    [ "npc_toc_pet_warlockAI", "db/dec/a17018.html#a0f4128d5fd7a855f1fb2870465bc1ce7", null ],
+    [ "EnterEvadeMode", "db/dec/a17018.html#a62219f63e82fc67f63db2cbd713647a0", null ],
+    [ "myCanCast", "db/dec/a17018.html#a81607ebd90d8f511bb18b03ff497d9eb", null ],
+    [ "UpdateAI", "db/dec/a17018.html#a05a150e01f519675ac7b69d3c2a97ed4", null ],
+    [ "events", "db/dec/a17018.html#a8edadebd7e6660041233a24fb07173bf", null ]
 ];

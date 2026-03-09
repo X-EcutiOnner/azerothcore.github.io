@@ -1,6 +1,4 @@
 var a15442 =
 [
-    [ "OnPeriodic", "db/d8e/a15442.html#a5945e24db52c6bacae7221b085dc877b", null ],
-    [ "PrepareAuraScript", "db/d8e/a15442.html#acc987aa864a8333de7bd0b770eb9018d", null ],
-    [ "Register", "db/d8e/a15442.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
+    [ "instance_ragefire_chasm_InstanceMapScript", "db/d8e/a15442.html#a4b55a59943c798b203a0a3c811588e7d", null ]
 ];

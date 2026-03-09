@@ -1,6 +1,7 @@
 var a16906 =
 [
-    [ "boss_trollgoreAI", "d1/d97/a16910.html", "d1/d97/a16910" ],
-    [ "boss_trollgore", "d2/d99/a16906.html#a95102f1fae6c667e0780b8b388fc156b", null ],
-    [ "GetAI", "d2/d99/a16906.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
+    [ "npc_toc_druidAI", "d2/d99/a16906.html#adb456f1f93be5329174a3199c9092825", null ],
+    [ "myCanCast", "d2/d99/a16906.html#af82baa22ae49ba268f494cb07287845e", null ],
+    [ "UpdateAI", "d2/d99/a16906.html#a82a22a557db647f73690d8838a635eaf", null ],
+    [ "events", "d2/d99/a16906.html#a6bb27baf17f0286db3222287a8073bd7", null ]
 ];

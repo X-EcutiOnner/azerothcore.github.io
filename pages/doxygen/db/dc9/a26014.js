@@ -1,7 +1,8 @@
 var a26014 =
 [
-    [ "Load", "db/dc9/a26014.html#a8be944ae201f4f8406948aff78f982d9", null ],
-    [ "OnDummyEffect", "db/dc9/a26014.html#adcb707400963e549a295e115d6f3583b", null ],
-    [ "PrepareSpellScript", "db/dc9/a26014.html#a5b2175a933df10d775bc3381f515aa96", null ],
-    [ "Register", "db/dc9/a26014.html#a6e41bf15401c540887dd321e4b2cc7d3", null ]
+    [ "HandleDummy", "db/dc9/a26014.html#a57897df074b7766c022526e082b4a13b", null ],
+    [ "Load", "db/dc9/a26014.html#a47cbade67be124496c6194391ab51794", null ],
+    [ "PrepareSpellScript", "db/dc9/a26014.html#af5e5a22976adfa5588ca8e054e19a669", null ],
+    [ "Register", "db/dc9/a26014.html#ab0c3be8436b79288bb45899448fd6c1b", null ],
+    [ "Validate", "db/dc9/a26014.html#a97d037267e385e0d3fd80543a5ddb366", null ]
 ];

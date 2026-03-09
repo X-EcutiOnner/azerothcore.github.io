@@ -1,6 +1,10 @@
 var a16558 =
 [
-    [ "npc_anubarak_spikeAI", "dd/df1/a16562.html", "dd/df1/a16562" ],
-    [ "npc_anubarak_spike", "d6/d43/a16558.html#a4e96de1910c23311ad4644960ccd5022", null ],
-    [ "GetAI", "d6/d43/a16558.html#a7d55b321eb7e595fe5886dc382134947", null ]
+    [ "npc_xerestraszaAI", "d6/d43/a16558.html#a768ae45296e16b8fcada6359dfd6c7e5", null ],
+    [ "DoAction", "d6/d43/a16558.html#af696ecee315892b2bf0233113d2f89f9", null ],
+    [ "Reset", "d6/d43/a16558.html#a0eceae8fb9bf5071bc8d9cddf783507b", null ],
+    [ "UpdateAI", "d6/d43/a16558.html#a6389ab58f4b44c668590113ec75f2adf", null ],
+    [ "_events", "d6/d43/a16558.html#ae998fc6aaee14bc313ff38bb76d79e43", null ],
+    [ "_introDone", "d6/d43/a16558.html#a9d01014297290dafbb7ed25bffbe6fe6", null ],
+    [ "_isIntro", "d6/d43/a16558.html#a71ffbf3fedb77bd693beabb4ee52f57a", null ]
 ];

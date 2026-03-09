@@ -1,12 +1,7 @@
 var a11710 =
 [
-    [ "WardenMac", "d0/d20/a11710.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
-    [ "~WardenMac", "d0/d20/a11710.html#a5f3832580c73a0af34fa83669a92ceab", null ],
-    [ "GetModuleForClient", "d0/d20/a11710.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
-    [ "HandleData", "d0/d20/a11710.html#a024be47d39641cb0e7654b0e0999e444", null ],
-    [ "HandleHashResult", "d0/d20/a11710.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
-    [ "Init", "d0/d20/a11710.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
-    [ "InitializeModule", "d0/d20/a11710.html#a4fceef34e83db1a357d9eadce35efdef", null ],
-    [ "RequestChecks", "d0/d20/a11710.html#a2437a3a5650305b05fc22d312d0006da", null ],
-    [ "RequestHash", "d0/d20/a11710.html#af031f18554c5a96b4eb39371a92b9c51", null ]
+    [ "maxvalue", "d0/d20/a11710.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
+    [ "skill", "d0/d20/a11710.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
+    [ "step", "d0/d20/a11710.html#a1c882f7d43c65954cb99566225660312", null ],
+    [ "value", "d0/d20/a11710.html#a064fece53cdaf07b072510b14200a968", null ]
 ];

@@ -1,6 +1,6 @@
 var a13010 =
 [
-    [ "npc_image_of_medivhAI", "df/d75/a13014.html", "df/d75/a13014" ],
-    [ "npc_image_of_medivh", "d8/d58/a13010.html#a55ee6f97bc7f144209927a2813cab6a9", null ],
-    [ "GetAI", "d8/d58/a13010.html#a11769c47fda3f1c4d8d80329f70d1957", null ]
+    [ "boss_sulfuronAI", "df/d75/a13014.html", "df/d75/a13014" ],
+    [ "boss_sulfuron", "d8/d58/a13010.html#aed72791db02009136592b905cc4f4df3", null ],
+    [ "GetAI", "d8/d58/a13010.html#aced001845e4a9bb9f517d45a36f474c7", null ]
 ];

@@ -1,6 +1,5 @@
 var a04634 =
 [
-    [ "lfg_commandscript", "d4/d93/a12148.html", "d4/d93/a12148" ],
-    [ "AddSC_lfg_commandscript", "d0/dbd/a04634.html#a484938015a7f5ffa8f5b1d0e259d355b", null ],
-    [ "GetPlayerInfo", "d0/dbd/a04634.html#a1d2591add059e8c4daf04b9f706da765", null ]
+    [ "guild_commandscript", "da/d62/a12158.html", "da/d62/a12158" ],
+    [ "AddSC_guild_commandscript", "d0/dbd/a04634.html#af4f585942ab79df7bff025b621beef86", null ]
 ];

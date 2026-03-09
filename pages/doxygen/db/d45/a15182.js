@@ -1,9 +1,7 @@
 var a15182 =
 [
-    [ "spell_gen_ayamiss_swarmer_loop", "db/d45/a15182.html#ad910e172ef6866f102fa3407f676169a", null ],
-    [ "HandleScript", "db/d45/a15182.html#acd0dffad436cb414deb546b192957783", null ],
-    [ "Load", "db/d45/a15182.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
-    [ "PrepareSpellScript", "db/d45/a15182.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
-    [ "Register", "db/d45/a15182.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
-    [ "_pathId", "db/d45/a15182.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
+    [ "OnPeriodic", "db/d45/a15182.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
+    [ "PrepareAuraScript", "db/d45/a15182.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
+    [ "Register", "db/d45/a15182.html#aeb388d608830aeb3b30f707304403b41", null ],
+    [ "Validate", "db/d45/a15182.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
 ];

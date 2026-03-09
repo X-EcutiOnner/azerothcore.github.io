@@ -1,7 +1,8 @@
 var a12510 =
 [
-    [ "HandleDummy", "d7/df8/a12510.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
-    [ "PrepareSpellScript", "d7/df8/a12510.html#ad07165f81a7f407c716f90691ecb9817", null ],
-    [ "Register", "d7/df8/a12510.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
-    [ "Validate", "d7/df8/a12510.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
+    [ "boss_doomrelAI", "d7/d82/a12514.html", "d7/d82/a12514" ],
+    [ "boss_doomrel", "d7/df8/a12510.html#aee45a59f9a62f1d32a7dc344bd3c46c6", null ],
+    [ "GetAI", "d7/df8/a12510.html#a1b8a95208506f79c00ed40be2d51eb38", null ],
+    [ "OnGossipHello", "d7/df8/a12510.html#a3c544ae70c46a62ac7dd2fc5cca97c8b", null ],
+    [ "OnGossipSelect", "d7/df8/a12510.html#ae430a8fef70bd46267482a70084049c1", null ]
 ];

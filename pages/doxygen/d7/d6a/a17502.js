@@ -1,13 +1,18 @@
 var a17502 =
 [
-    [ "npc_kinetic_bombAI", "d7/d6a/a17502.html#a0f3852f332d4027b5a00a67e20ec886b", null ],
-    [ "DoAction", "d7/d6a/a17502.html#a52e913b244e58f99745926d021dc0d95", null ],
-    [ "IsSummonedBy", "d7/d6a/a17502.html#a03dc3870b23105bb1d0d207adefe2541", null ],
-    [ "Reset", "d7/d6a/a17502.html#abf30320da7f6fc6a4f213b0c4b2b24ce", null ],
-    [ "UpdateAI", "d7/d6a/a17502.html#a1ce9bf99879796652878990a773e6a2c", null ],
-    [ "_events", "d7/d6a/a17502.html#a7b14483f361a90b1ff2c5de06d6dbbaf", null ],
-    [ "_groundZ", "d7/d6a/a17502.html#ac4de8610671b000bdff5cf47f2aecd0f", null ],
-    [ "_x", "d7/d6a/a17502.html#a5780cb1c041d7a57f75e0dbeadc27814", null ],
-    [ "_y", "d7/d6a/a17502.html#a5d9f4039c87e1e57234af51cd4617022", null ],
-    [ "exploded", "d7/d6a/a17502.html#a1391f0fffa2f57cbb630b34bfc78aa64", null ]
+    [ "boss_garfrostAI", "d7/d6a/a17502.html#af9f0a6bc8b982b025312d6b2c1f91549", null ],
+    [ "DamageTaken", "d7/d6a/a17502.html#a7a033f54f2c994c74b7125fb549af513", null ],
+    [ "EnterEvadeMode", "d7/d6a/a17502.html#acca25c3bf34760ed1f0e451d8d304ab6", null ],
+    [ "JustDied", "d7/d6a/a17502.html#a6439d3163c49973b36ae10c85b9dd11e", null ],
+    [ "JustEngagedWith", "d7/d6a/a17502.html#a06e1b8d8e0b1f0fd5fac0b2a4bad4ad6", null ],
+    [ "KilledUnit", "d7/d6a/a17502.html#af3751410e925a20c21b282d1b2de3bf3", null ],
+    [ "MovementInform", "d7/d6a/a17502.html#aadebdb2dd4402be150711f98dfab3f5f", null ],
+    [ "Reset", "d7/d6a/a17502.html#a916fd78cf3fd309ab8b13c96325002f2", null ],
+    [ "SetData", "d7/d6a/a17502.html#a3563e70e731836857837b1d4ac135130", null ],
+    [ "SpellHitTarget", "d7/d6a/a17502.html#ab7a4941d3d4565215ab3ac200ee1d534", null ],
+    [ "UpdateAI", "d7/d6a/a17502.html#a27cf76c48504dfb21f1a4a0caf9dd4cb", null ],
+    [ "bCanSayBoulderHit", "d7/d6a/a17502.html#a587196314c341334418ea19c7f9ea597", null ],
+    [ "events", "d7/d6a/a17502.html#addafeb61c54f95e71d9c45de3bddd25b", null ],
+    [ "phase", "d7/d6a/a17502.html#a917a6a57e8c55b9be92f01e2e7422508", null ],
+    [ "pInstance", "d7/d6a/a17502.html#a57ded0b0c7085ea978c01efa28e7d096", null ]
 ];

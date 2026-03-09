@@ -1,11 +1,8 @@
 var a05198 =
 [
-    [ "AuthCrypt", "da/dac/a05198.html#a8c5239631bd6cf700059af31f04126a3", null ],
-    [ "DecryptRecv", "da/dac/a05198.html#a552bd409afb5fcda8a11627ccb20e4b0", null ],
-    [ "EncryptSend", "da/dac/a05198.html#a385fe62742cdbbf62725ace616a06b37", null ],
-    [ "Init", "da/dac/a05198.html#ac76e9a59dc6bcef074e3213cecb4c7b8", null ],
-    [ "IsInitialized", "da/dac/a05198.html#a911330ec40c0ca881af2f0c6fd6b0fef", null ],
-    [ "_clientDecrypt", "da/dac/a05198.html#ae67fcb84288ebd120ad71bedc52086c2", null ],
-    [ "_initialized", "da/dac/a05198.html#a99de2f8dd625cef94d70eeddefc9ac5c", null ],
-    [ "_serverEncrypt", "da/dac/a05198.html#af30b0691f7089d52c2fbd9c5b9f52e68", null ]
+    [ "MMapData", "da/dac/a05198.html#ab6aa577df2b8bc749e68515b7b5ef96c", null ],
+    [ "~MMapData", "da/dac/a05198.html#a28ad87f05014c49373557369e9177df5", null ],
+    [ "loadedTileRefs", "da/dac/a05198.html#afa8799db33459dd5e36b7a43eae7d16b", null ],
+    [ "navMesh", "da/dac/a05198.html#a786a4b43773e4402451bed82cf221f66", null ],
+    [ "navMeshQueries", "da/dac/a05198.html#abb7a9f9131b3657eff54ed17fc329b43", null ]
 ];

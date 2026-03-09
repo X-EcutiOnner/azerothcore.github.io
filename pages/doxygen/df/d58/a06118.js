@@ -1,8 +1,11 @@
 var a06118 =
 [
-    [ "BannedAddon", "df/d58/a06118.html#aadd8cb8602ec03455a91b4f49767fdc8", null ],
-    [ "Id", "df/d58/a06118.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
-    [ "NameMD5", "df/d58/a06118.html#a67c4437044d747ff9867a71967697767", null ],
-    [ "Timestamp", "df/d58/a06118.html#af62257c39a4ae1eba959086e981b0d19", null ],
-    [ "VersionMD5", "df/d58/a06118.html#acb8dbe824f71363eb81504f43a126d96", null ]
+    [ "SQLOperation", "df/d58/a06118.html#a0f69657715b7d24458227b22a3b40b1a", null ],
+    [ "~SQLOperation", "df/d58/a06118.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
+    [ "SQLOperation", "df/d58/a06118.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
+    [ "call", "df/d58/a06118.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
+    [ "Execute", "df/d58/a06118.html#aff1090554bc4a6fe7a33270e63416e19", null ],
+    [ "operator=", "df/d58/a06118.html#ac31349ed45ea051540ac345bd4b814d5", null ],
+    [ "SetConnection", "df/d58/a06118.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
+    [ "m_conn", "df/d58/a06118.html#adf322db48064fcf4528f713f857f1b40", null ]
 ];

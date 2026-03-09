@@ -1,7 +1,7 @@
 var a26670 =
 [
-    [ "HandleScript", "df/d61/a26670.html#aa00117e677af1e236962c59b688d8a98", null ],
-    [ "Load", "df/d61/a26670.html#ad05b65848e35d87fb9ef1ae413de6256", null ],
-    [ "PrepareSpellScript", "df/d61/a26670.html#afbffeadede1cc7f08a0a52f4a7bee680", null ],
-    [ "Register", "df/d61/a26670.html#a52d4828ccd5430a622a32b1279943f9b", null ]
+    [ "PeriodicTick", "df/d61/a26670.html#a4fcdb073b4140311f31c5965ea7d1316", null ],
+    [ "PrepareAuraScript", "df/d61/a26670.html#ad332660b3b30ecb7b5c949c702574879", null ],
+    [ "Register", "df/d61/a26670.html#ad752eaecf8b0b3efcc7f61d88fb447d9", null ],
+    [ "Validate", "df/d61/a26670.html#a426b39c9733464c5d69d707d4e931f64", null ]
 ];

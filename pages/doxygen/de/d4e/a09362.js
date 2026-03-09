@@ -1,8 +1,5 @@
 var a09362 =
 [
-    [ "NearestGameObjectFishingHole", "de/d4e/a09362.html#ab0e4734202edf26b69881ab85abe1d93", null ],
-    [ "NearestGameObjectFishingHole", "de/d4e/a09362.html#a256c64e6c82d98349b958647d98bf4ce", null ],
-    [ "operator()", "de/d4e/a09362.html#a52e2c64f8209ab364f4e85e1f4e947dc", null ],
-    [ "i_obj", "de/d4e/a09362.html#a182fbf6b5cc68fb0eba6be26568c9d78", null ],
-    [ "i_range", "de/d4e/a09362.html#af27a870fb654a130bf1e4ac1472fdffc", null ]
+    [ "Visit", "de/d4e/a09362.html#aa0f56809b23b117bde869576ddaa9dbd", null ],
+    [ "Visit", "de/d4e/a09362.html#afab06305b5b3568b93d07f80efd616ae", null ]
 ];

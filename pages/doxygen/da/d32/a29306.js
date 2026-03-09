@@ -1,10 +1,7 @@
 var a29306 =
 [
-    [ "go_evil_book_for_dummies", "da/d32/a29306.html#a69f599910bce0070c6b1af547c459b72", null ],
-    [ "HasLeatherSpecialty", "da/d32/a29306.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
-    [ "OnGossipHello", "da/d32/a29306.html#aeb29351e2faf135298419488eb16cc7e", null ],
-    [ "OnGossipSelect", "da/d32/a29306.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
-    [ "SendActionMenu", "da/d32/a29306.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
-    [ "SendConfirmLearn", "da/d32/a29306.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
-    [ "SendConfirmUnlearn", "da/d32/a29306.html#af9c10b0423327d8644020e8f5e26a603", null ]
+    [ "EpicPropertiesPoints", "da/d32/a29306.html#a35dc60a15091357e03032226621340f7", null ],
+    [ "itemLevel", "da/d32/a29306.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
+    [ "RarePropertiesPoints", "da/d32/a29306.html#a9359171635ef3e9a0029820fad286368", null ],
+    [ "UncommonPropertiesPoints", "da/d32/a29306.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
 ];

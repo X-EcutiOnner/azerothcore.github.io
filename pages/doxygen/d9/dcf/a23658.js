@@ -1,8 +1,7 @@
 var a23658 =
 [
-    [ "ApplyStun", "d9/dcf/a23658.html#a5a5b921dc45418485919e599e80f8ca8", null ],
-    [ "HandleScriptEffect", "d9/dcf/a23658.html#a32619710179250a6a0b408856a888153", null ],
-    [ "PrepareSpellScript", "d9/dcf/a23658.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
-    [ "Register", "d9/dcf/a23658.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
-    [ "Validate", "d9/dcf/a23658.html#a66d91a87078c663903cd836344eec867", null ]
+    [ "HandleOnApply", "d9/dcf/a23658.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
+    [ "HandleOnRemove", "d9/dcf/a23658.html#aed5f87523c58d94c8f98b76c06abb140", null ],
+    [ "PrepareAuraScript", "d9/dcf/a23658.html#ab32413873bec92540f9e85e8013b7ea2", null ],
+    [ "Register", "d9/dcf/a23658.html#a0653d8688f98822580a3243a0d47c17a", null ]
 ];

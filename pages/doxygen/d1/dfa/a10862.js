@@ -1,8 +1,9 @@
 var a10862 =
 [
-    [ "SellItem", "d1/dfa/a10862.html#a5c7bdfba6d948b9fdaea3416bce03e5e", null ],
-    [ "Read", "d1/dfa/a10862.html#a7387e53c30f41dc8f5fd3ffbe4e4a347", null ],
-    [ "Count", "d1/dfa/a10862.html#a0116f5d02f18bf1a315fbf81b6467239", null ],
-    [ "ItemGuid", "d1/dfa/a10862.html#a92ae3a3dc04a699c4f201026c08974ca", null ],
-    [ "VendorGuid", "d1/dfa/a10862.html#a13200b200096a11e93a6d23fd6122378", null ]
+    [ "GuildInfoResponse", "d1/dfa/a10862.html#a256cb81ad2e08050be99c9e1061c2009", null ],
+    [ "Write", "d1/dfa/a10862.html#a3222d0018c9593400d3d01258b82371e", null ],
+    [ "CreateDate", "d1/dfa/a10862.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
+    [ "GuildName", "d1/dfa/a10862.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
+    [ "NumAccounts", "d1/dfa/a10862.html#a21b42f1654aa10f7872d87635fea66ac", null ],
+    [ "NumMembers", "d1/dfa/a10862.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
 ];

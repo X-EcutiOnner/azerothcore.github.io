@@ -1,11 +1,15 @@
 var a05378 =
 [
-    [ "Decode", "dd/d9e/a05378.html#a1017c0ca9db8f38832271dbe04a6c22c", null ],
-    [ "DecodedSize", "dd/d9e/a05378.html#ae7f09527200686c22611e59e995a17ef", null ],
-    [ "Encode", "dd/d9e/a05378.html#a9132df0434948b03df8f79b6cc48252c", null ],
-    [ "EncodedSize", "dd/d9e/a05378.html#ab6808fd4c674e10ce28153394189abf5", null ],
-    [ "BITS_PER_CHAR", "dd/d9e/a05378.html#a04facbd14c7d876af5154cb200d74e6b", null ],
-    [ "DECODE_ERROR", "dd/d9e/a05378.html#ab52b675a0956909cdac9413443551086", null ],
-    [ "PAD_TO", "dd/d9e/a05378.html#a8cec4e14ca170842d1eadf8b7b42b12b", null ],
-    [ "PADDING", "dd/d9e/a05378.html#a328b2cd9dc377fb8d5b6740cde162b92", null ]
+    [ "IV", "dd/d9e/a05378.html#a3ab3c73ca75661d53842f924f9914656", null ],
+    [ "Key", "dd/d9e/a05378.html#ad479930aa60f991335d4cf68251958bb", null ],
+    [ "Tag", "dd/d9e/a05378.html#ad6abd9fd7a9b7bafc4c300ebca415a1e", null ],
+    [ "AES", "dd/d9e/a05378.html#a75c197cecf7cd7230a1a9f64e8ec9f00", null ],
+    [ "~AES", "dd/d9e/a05378.html#abcdb72bef5a57586630650372c339410", null ],
+    [ "Init", "dd/d9e/a05378.html#a910f4dcbbd2868264d4b11f3041c833d", null ],
+    [ "Process", "dd/d9e/a05378.html#a9933ca01e34684d466bc364dda11a30a", null ],
+    [ "_ctx", "dd/d9e/a05378.html#ae461a0a028ca8d02af56496252e6322d", null ],
+    [ "_encrypting", "dd/d9e/a05378.html#ac5e1bc89ac1c21f97994db7c76ae4e4e", null ],
+    [ "IV_SIZE_BYTES", "dd/d9e/a05378.html#a5c62e48e8791379cdcdb5d20c018f0ea", null ],
+    [ "KEY_SIZE_BYTES", "dd/d9e/a05378.html#a03df6b128e9d2553c44e71680ca79cb5", null ],
+    [ "TAG_SIZE_BYTES", "dd/d9e/a05378.html#a0a7619278214bbe6b2bd5ad003828ef0", null ]
 ];

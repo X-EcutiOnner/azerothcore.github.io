@@ -1,7 +1,7 @@
 var a16326 =
 [
-    [ "HandleScriptEffect", "d1/dc4/a16326.html#a9582a8faa1b8ba973a76d651a7479348", null ],
-    [ "PrepareSpellScript", "d1/dc4/a16326.html#a681102507df3aa365ee2e2f064be5e54", null ],
-    [ "Register", "d1/dc4/a16326.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
-    [ "Validate", "d1/dc4/a16326.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
+    [ "npc_ahnkahar_nerubian", "d1/dc4/a16326.html#ae18cdf09bae50751e266e95caf165f8e", null ],
+    [ "Reset", "d1/dc4/a16326.html#a387831015ec8e4bc65cff8c8550bb176", null ],
+    [ "UpdateAI", "d1/dc4/a16326.html#a9a773127e4f94bcdf142718355eae0e8", null ],
+    [ "uiSprintTimer", "d1/dc4/a16326.html#a27a6f57a6b145cc595896d1ad453064f", null ]
 ];

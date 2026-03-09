@@ -1,6 +1,6 @@
 var a23994 =
 [
-    [ "AfterRemove", "d8/d4e/a23994.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "d8/d4e/a23994.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "d8/d4e/a23994.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d6/df3/a23998.html", "d6/df3/a23998" ],
+    [ "npc_oscillating_frequency_scanner_master_bunny", "d8/d4e/a23994.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
+    [ "GetAI", "d8/d4e/a23994.html#a60d55e2eda4484ceea4e475ac8653977", null ]
 ];

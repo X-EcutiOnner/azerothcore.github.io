@@ -1,6 +1,14 @@
 var a16234 =
 [
-    [ "npc_xerestraszaAI", "d4/d67/a16238.html", "d4/d67/a16238" ],
-    [ "npc_xerestrasza", "de/d60/a16234.html#a49023756b5dab130e4ffd7e62fa80ce4", null ],
-    [ "GetAI", "de/d60/a16234.html#a5e0ede0054969d4787db56781dc55846", null ]
+    [ "npc_ringoAI", "de/d60/a16234.html#a816dcad96afa6bec595f4b2dfe6fb11c", null ],
+    [ "ClearFaint", "de/d60/a16234.html#abd24108debcafafa601958824d44abbb", null ],
+    [ "MoveInLineOfSight", "de/d60/a16234.html#a6758ef2fe371338826dfc8582d6d03f0", null ],
+    [ "Reset", "de/d60/a16234.html#a5b2cf17642bd4a560abb54b8d42bcd25", null ],
+    [ "SetFaint", "de/d60/a16234.html#a09d3770aade34afe5a3a15e17cc64933", null ],
+    [ "SpellHit", "de/d60/a16234.html#ad30d1a9fb84cc777d48b1363cf571d72", null ],
+    [ "UpdateFollowerAI", "de/d60/a16234.html#a3b0effa8ec4d335a1d24d2238346b04a", null ],
+    [ "EndEventProgress", "de/d60/a16234.html#a4df563b83103bbd7e1f0d81a78f6401a", null ],
+    [ "EndEventTimer", "de/d60/a16234.html#a03f20114ca340c7c710bd77ee3c905ef", null ],
+    [ "FaintTimer", "de/d60/a16234.html#a37d12c7edf3100837c99e3fb572f4bf1", null ],
+    [ "SpraggleGUID", "de/d60/a16234.html#a3b58d34a1263355e7b11e22e0eef00a5", null ]
 ];

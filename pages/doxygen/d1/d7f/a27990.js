@@ -1,5 +1,5 @@
 var a27990 =
 [
-    [ "npc_sunwell_gate", "d1/d7f/a27990.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
-    [ "OnQuestReward", "d1/d7f/a27990.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
+    [ "achievement_sickly_gazelle", "d1/d7f/a27990.html#abb613cb222c727923c4c5ce843db3a5f", null ],
+    [ "OnCheck", "d1/d7f/a27990.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
 ];

@@ -1,6 +1,9 @@
 var a14738 =
 [
-    [ "HandleDummy", "d3/de6/a14738.html#aa75140309e66c28590a64e10676356da", null ],
-    [ "PrepareSpellScript", "d3/de6/a14738.html#a21c4872e16c18c2918dfbea366e61df3", null ],
-    [ "Register", "d3/de6/a14738.html#a841c9277224cbae878946deb288b87a1", null ]
+    [ "npc_brew_bubble", "d3/de6/a14738.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
+    [ "DoAction", "d3/de6/a14738.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
+    [ "MoveInLineOfSight", "d3/de6/a14738.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
+    [ "Reset", "d3/de6/a14738.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
+    [ "UpdateAI", "d3/de6/a14738.html#a25018deaa206620f6e98ba722f689b8d", null ],
+    [ "timer", "d3/de6/a14738.html#a4bee73add756ba4b3137818b2dacd27f", null ]
 ];

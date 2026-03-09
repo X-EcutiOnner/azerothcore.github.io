@@ -1,12 +1,8 @@
 var a17950 =
 [
-    [ "npc_vengeful_shadeAI", "dd/dee/a17950.html#acd3961c7c81f88a341cb71888c55c882", null ],
-    [ "AttackStart", "dd/dee/a17950.html#afbd441c5ebf2207d37da1a905be1a247", null ],
-    [ "EnterEvadeMode", "dd/dee/a17950.html#a37bffb02c4ebf6acab8c3474581056a6", null ],
-    [ "MoveInLineOfSight", "dd/dee/a17950.html#a1e8e28e76f27edc5e07574e6050d7e5f", null ],
-    [ "Reset", "dd/dee/a17950.html#acf85448a221a37be819b7ab82f4f9fdc", null ],
-    [ "SpellHitTarget", "dd/dee/a17950.html#af9b40af943ee8a7c9bd8866f116871fc", null ],
-    [ "UpdateAI", "dd/dee/a17950.html#a3a353d677b469d750474a7497c5224a7", null ],
-    [ "targetGUID", "dd/dee/a17950.html#a75c3f61506fe42e41b10a2e67f5b091d", null ],
-    [ "unroot_timer", "dd/dee/a17950.html#a49ea66a0fb6e3c09730d92308bd1cac7", null ]
+    [ "npc_saurfang_eventAI", "dd/dee/a17950.html#a8436a87576c92ecc0b45106683d20e93", null ],
+    [ "DoAction", "dd/dee/a17950.html#a45201c4a5b94fad948efe1d08e63e262", null ],
+    [ "SetData", "dd/dee/a17950.html#a7f012a54ebce5307940eb7957f028d52", null ],
+    [ "SpellHit", "dd/dee/a17950.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
+    [ "_index", "dd/dee/a17950.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
 ];

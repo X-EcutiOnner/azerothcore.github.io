@@ -1,9 +1,8 @@
 var a22466 =
 [
-    [ "HandlePeriodic", "df/d7a/a22466.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
-    [ "Load", "df/d7a/a22466.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
-    [ "PrepareAuraScript", "df/d7a/a22466.html#a1057e5262d413149a023bc904a3c3751", null ],
-    [ "Register", "df/d7a/a22466.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
-    [ "Validate", "df/d7a/a22466.html#a85d7ac258d50f690574ad7656256cd05", null ],
-    [ "_counter", "df/d7a/a22466.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
+    [ "HandleApply", "df/d7a/a22466.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
+    [ "HandleRemove", "df/d7a/a22466.html#a06c7c65d973fcf348f5c929503902520", null ],
+    [ "PrepareAuraScript", "df/d7a/a22466.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
+    [ "Register", "df/d7a/a22466.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
+    [ "Validate", "df/d7a/a22466.html#a8135c492638557eec71189282e7f78a2", null ]
 ];

@@ -1,12 +1,12 @@
 var a13762 =
 [
-    [ "npc_cameron", "de/d26/a13762.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
-    [ "MoveTheChildren", "de/d26/a13762.html#a85ae436f19f69ffb853330f01ee152a0", null ],
-    [ "PathEndReached", "de/d26/a13762.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
-    [ "sOnGameEvent", "de/d26/a13762.html#ab22841871cfcdc926b28296a5b4e440c", null ],
-    [ "SoundPicker", "de/d26/a13762.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
-    [ "UpdateAI", "de/d26/a13762.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
-    [ "_childrenGUIDs", "de/d26/a13762.html#ad260466902e8fb1a2e02998cc4549695", null ],
-    [ "_events", "de/d26/a13762.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
-    [ "_started", "de/d26/a13762.html#a985d0590eedde340a3923e299d4dffd8", null ]
+    [ "boss_sacrolash", "de/d26/a13762.html#a6e251340b2ba8a8300611cf229b93095", null ],
+    [ "CheckInRoom", "de/d26/a13762.html#ae650b6019d2f9191e1b532176159804d", null ],
+    [ "DoAction", "de/d26/a13762.html#adbcbd24a90549978032d31d1beeaa4e6", null ],
+    [ "JustDied", "de/d26/a13762.html#a17c995220572cf803c36470ca80840e2", null ],
+    [ "JustEngagedWith", "de/d26/a13762.html#a822576bf8588d4e45f1532e1980cc7c7", null ],
+    [ "JustSummoned", "de/d26/a13762.html#a94214bc45414f61ff53102d6136b7b5c", null ],
+    [ "KilledUnit", "de/d26/a13762.html#a4d99da498db0e5a60c7c25fcb91e5270", null ],
+    [ "Reset", "de/d26/a13762.html#aa3128dae87d181e7ab93cf3a13723982", null ],
+    [ "_isSisterDead", "de/d26/a13762.html#a248d37df91c82069321fc5ea8b1e885d", null ]
 ];

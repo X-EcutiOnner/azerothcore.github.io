@@ -1,15 +1,12 @@
 var a11246 =
 [
-    [ "BaseSocketMgr", "d8/df3/a11246.html#a6f9671b94ae64c0c3482e085cb2a252f", null ],
-    [ "WorldSocketMgr", "d8/df3/a11246.html#a8e46ddcf7ba33a66c7226150400cc08b", null ],
-    [ "CreateThreads", "d8/df3/a11246.html#a04e98fcb25c09ff85e9536cf43fd4e6e", null ],
-    [ "GetApplicationSendBufferSize", "d8/df3/a11246.html#a8deeaffd7d25bacd8bfa15d29dff6aeb", null ],
-    [ "Instance", "d8/df3/a11246.html#aaa32a527707cb66916b1499a2e283250", null ],
-    [ "OnSocketAccept", "d8/df3/a11246.html#aec088639145bbea3fcb69714ac5b5b67", null ],
-    [ "OnSocketOpen", "d8/df3/a11246.html#a308aacca5450fca4a4b35009ddd6142f", null ],
-    [ "StartWorldNetwork", "d8/df3/a11246.html#acaf85b16b490bfda8532b49456a38b71", null ],
-    [ "StopNetwork", "d8/df3/a11246.html#aede126ecfe75f2917aaf730330ea3b82", null ],
-    [ "_socketApplicationSendBufferSize", "d8/df3/a11246.html#a7a5ca8c2c9165d3cb1f46adbdfe917b0", null ],
-    [ "_socketSystemSendBufferSize", "d8/df3/a11246.html#a043da77b04a29c4c5fe81698ae279985", null ],
-    [ "_tcpNoDelay", "d8/df3/a11246.html#a6f440c4cde2deaa72cbc5dbd348a00b6", null ]
+    [ "Complain", "d8/df3/a11246.html#aa1cf8c3159d1334186b28c0abf0b5bec", null ],
+    [ "Read", "d8/df3/a11246.html#a5a5cc78c807ce5d1e455bedd283c0f4d", null ],
+    [ "Description", "d8/df3/a11246.html#a557676064707e2597a10e9b2efc9d09a", null ],
+    [ "SpammerGuid", "d8/df3/a11246.html#a4a8b664b598624046b26953051a28718", null ],
+    [ "SpamType", "d8/df3/a11246.html#aece15ac467b310fc170844119978aa2a", null ],
+    [ "Unk1", "d8/df3/a11246.html#a7cc02360329a0b67c67fb5798d1e658d", null ],
+    [ "Unk2", "d8/df3/a11246.html#a2d935ee2ed26a672d0f5795b79d887cb", null ],
+    [ "Unk3", "d8/df3/a11246.html#a63aae3eaab2d6b72e08e4436ebe3bc0b", null ],
+    [ "Unk4", "d8/df3/a11246.html#ad9570c82409ce59ad94f3e8233fd251c", null ]
 ];

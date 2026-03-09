@@ -1,10 +1,7 @@
 var a05350 =
 [
-    [ "Find", "d7/d24/a05350.html#a1d6a7cd1596aa03a8e53609c7d7b6e33", null ],
-    [ "GetElements", "d7/d24/a05350.html#a653b00a9d570ae9d9276a061beda3f35", null ],
-    [ "GetElements", "d7/d24/a05350.html#a209cbb9e5ba70b9f5f66e64e2c36411d", null ],
-    [ "Insert", "d7/d24/a05350.html#ad61d9aa314133d8eba934fe56cff48e0", null ],
-    [ "Remove", "d7/d24/a05350.html#a5a9666fc5f0136a778d8c542a386d4bf", null ],
-    [ "Size", "d7/d24/a05350.html#a289258c9015016a70d2867df7e113def", null ],
-    [ "_elements", "d7/d24/a05350.html#adda6657e9a0fd08b105cd4d6b2baa9d3", null ]
+    [ "operator()", "d7/d24/a05350.html#af1b2d9b7517b57a5a0a598f58b470c33", null ],
+    [ "closestEntity", "d7/d24/a05350.html#ab377424b7edd0274f61967619700f841", null ],
+    [ "hitLocation", "d7/d24/a05350.html#a00e778dd78dca96391d200e18dfc2c9d", null ],
+    [ "hitNormal", "d7/d24/a05350.html#a57f40f48c26829f7da9e48efd839d773", null ]
 ];

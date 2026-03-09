@@ -1,5 +1,5 @@
 var a23830 =
 [
-    [ "at_rp_nethekurse", "d5/d27/a23830.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
-    [ "_OnTrigger", "d5/d27/a23830.html#a93001d6dda7b2711f1efe100ffab5879", null ]
+    [ "npc_thaladred", "d5/d27/a23830.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
+    [ "ScheduleEvents", "d5/d27/a23830.html#a24febff1fc8b155bca0fb177a8119dbb", null ]
 ];

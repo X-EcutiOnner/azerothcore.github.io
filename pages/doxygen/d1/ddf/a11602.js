@@ -1,9 +1,10 @@
 var a11602 =
 [
-    [ "CreatureTextLocalizer", "d1/ddf/a11602.html#a799f1007b9977224d71da1451c3454e1", null ],
-    [ "~CreatureTextLocalizer", "d1/ddf/a11602.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
-    [ "operator()", "d1/ddf/a11602.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
-    [ "_builder", "d1/ddf/a11602.html#a1d8d97d3e423810d044a8155b182899d", null ],
-    [ "_msgType", "d1/ddf/a11602.html#adf9260955b0141e85ff47c66350244e2", null ],
-    [ "_packetCache", "d1/ddf/a11602.html#a660b352a1c1855f4b10a8aebef88133f", null ]
+    [ "TriggeredByAuraSpellData", "d1/ddf/a11602.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
+    [ "Init", "d1/ddf/a11602.html#a782e0056967e006748318af3112c0e43", null ],
+    [ "operator bool", "d1/ddf/a11602.html#a85d4782b76b060c172aaa6f914d400da", null ],
+    [ "operator!", "d1/ddf/a11602.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
+    [ "effectIndex", "d1/ddf/a11602.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
+    [ "spellInfo", "d1/ddf/a11602.html#af58f62fb168e9da7011f7b570f08e977", null ],
+    [ "tickNumber", "d1/ddf/a11602.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
 ];

@@ -1,9 +1,7 @@
 var a27522 =
 [
-    [ "go_gilded_brazierAI", "da/dcd/a27522.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
-    [ "GossipHello", "da/dcd/a27522.html#afac9e217c294e72ff5f2526422e6321e", null ],
-    [ "Initialize", "da/dcd/a27522.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
-    [ "UpdateAI", "da/dcd/a27522.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
-    [ "_events", "da/dcd/a27522.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
-    [ "_playerGUID", "da/dcd/a27522.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
+    [ "PeriodicTick", "da/dcd/a27522.html#a0093da1cb71f87bb7302bf6ccc9a255c", null ],
+    [ "PrepareAuraScript", "da/dcd/a27522.html#afd362a7dd0373e9480445a99023a5c8c", null ],
+    [ "Register", "da/dcd/a27522.html#a0332788648661d5c2665c5d1431e4ca7", null ],
+    [ "Validate", "da/dcd/a27522.html#aecb5c0c9f5258a3ce7ff18cf08f89845", null ]
 ];

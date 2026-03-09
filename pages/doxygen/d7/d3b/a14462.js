@@ -1,7 +1,12 @@
 var a14462 =
 [
-    [ "HandleScriptEffect", "d7/d3b/a14462.html#ae758c224878aebdde0124b5d4ec902a5", null ],
-    [ "PrepareSpellScript", "d7/d3b/a14462.html#ac3755ef09a905d90ce7df328b83d51aa", null ],
-    [ "Register", "d7/d3b/a14462.html#a051d0fe383e5675e39e4ac8ed7a6e329", null ],
-    [ "Validate", "d7/d3b/a14462.html#a56f71954e122f651c6e2ec68453e16cc", null ]
+    [ "npc_zulian_prowlerAI", "d7/d3b/a14462.html#a367613efead335b060173011267ddcff", null ],
+    [ "JustDied", "d7/d3b/a14462.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
+    [ "JustEngagedWith", "d7/d3b/a14462.html#a207504b15ecd22b78088593b80433581", null ],
+    [ "Reset", "d7/d3b/a14462.html#a62d14bae970d8a70a997c683e0e94259", null ],
+    [ "SpellHit", "d7/d3b/a14462.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
+    [ "UpdateAI", "d7/d3b/a14462.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
+    [ "_events", "d7/d3b/a14462.html#a994ae5b4e72429141155d1342830e5ad", null ],
+    [ "_instance", "d7/d3b/a14462.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
+    [ "_sideData", "d7/d3b/a14462.html#afa44e09c5677c2fc567be6a67b766bde", null ]
 ];

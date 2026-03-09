@@ -1,5 +1,5 @@
 var a19726 =
 [
-    [ "at_hol_hall_of_watchers", "d1/d41/a19726.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
-    [ "_OnTrigger", "d1/d41/a19726.html#a45e1cd4bce8c22a8c3da9b162c0eef4c", null ]
+    [ "at_naxxramas_hub_portal", "d1/d41/a19726.html#a946086e8a4651240b84526a1b2d54065", null ],
+    [ "OnTrigger", "d1/d41/a19726.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
 ];

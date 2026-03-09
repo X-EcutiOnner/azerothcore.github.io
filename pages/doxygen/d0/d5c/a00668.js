@@ -1,29 +1,30 @@
 var a00668 =
 [
-    [ "PallidHorrorPaths", "d0/d5c/a00668.html#ad2d2b5f255f79a9389125d179974fa6c", [
-      [ "PATH_STORMWIND_KEEP", "d0/d5c/a00668.html#ad2d2b5f255f79a9389125d179974fa6caebc3eba5e01a79f8a51f55bb0b795589", null ],
-      [ "PATH_STORMWIND_TRADE_DISTRICT", "d0/d5c/a00668.html#ad2d2b5f255f79a9389125d179974fa6ca18d27259451c4d6fa6e8eda96abb669c", null ],
-      [ "PATH_UNDERCITY_TRADE_QUARTER", "d0/d5c/a00668.html#ad2d2b5f255f79a9389125d179974fa6ca396cc934fa150add08da6a9bfeee6130", null ],
-      [ "PATH_UNDERCITY_ROYAL_QUARTER", "d0/d5c/a00668.html#ad2d2b5f255f79a9389125d179974fa6caa4c7de27637688faf47903d52c69102b", null ]
+    [ "MAX_ACCOUNT_STR", "d0/d5c/a00668.html#a134ebf22666a6525929447b2d869d400", null ],
+    [ "MAX_EMAIL_STR", "d0/d5c/a00668.html#ad64d9bd18bac10ab1af09b042d734c64", null ],
+    [ "MAX_PASS_STR", "d0/d5c/a00668.html#a45827712253b6d66092106cef5ae724b", null ],
+    [ "AccountOpResult", "d0/d5c/a00668.html#a0161874ada0cecbbd1fd5d31da73703e", [
+      [ "AOR_OK", "d0/d5c/a00668.html#a0161874ada0cecbbd1fd5d31da73703ea73449863bb0d97def55bd65307e97f18", null ],
+      [ "AOR_NAME_TOO_LONG", "d0/d5c/a00668.html#a0161874ada0cecbbd1fd5d31da73703eaec4fb519d9e6032adc269ca4a27c38f4", null ],
+      [ "AOR_PASS_TOO_LONG", "d0/d5c/a00668.html#a0161874ada0cecbbd1fd5d31da73703eaed91b79b9e639b8f988c5f06fcfd901c", null ],
+      [ "AOR_EMAIL_TOO_LONG", "d0/d5c/a00668.html#a0161874ada0cecbbd1fd5d31da73703eaaf639a81cbf8cf6bd685e34d73e895a1", null ],
+      [ "AOR_NAME_ALREADY_EXIST", "d0/d5c/a00668.html#a0161874ada0cecbbd1fd5d31da73703eae0b6297de7a7e8b516f5fc98a4d8750c", null ],
+      [ "AOR_NAME_NOT_EXIST", "d0/d5c/a00668.html#a0161874ada0cecbbd1fd5d31da73703ea05e659ba76ce9dd582551a24f2923b24", null ],
+      [ "AOR_DB_INTERNAL_ERROR", "d0/d5c/a00668.html#a0161874ada0cecbbd1fd5d31da73703ea368516df3522ada12ce8a39c789a687d", null ]
     ] ],
-    [ "WorldStateSunsReachQuests", "d0/d5c/a00668.html#ae92d2d64df97e6d4e504459dbe62a704", [
-      [ "QUEST_ERRATIC_BEHAVIOR", "d0/d5c/a00668.html#ae92d2d64df97e6d4e504459dbe62a704a4f2a85bb3172f682d010d0782c9bcc24", null ],
-      [ "QUEST_SANCTUM_WARDS", "d0/d5c/a00668.html#ae92d2d64df97e6d4e504459dbe62a704a937beacad369f610742b3d62fe33cab0", null ],
-      [ "QUEST_BATTLE_FOR_THE_SUNS_REACH_ARMORY", "d0/d5c/a00668.html#ae92d2d64df97e6d4e504459dbe62a704a98ebea3b62e2627835de9b62156cf05a", null ],
-      [ "QUEST_DISTRACTION_AT_THE_DEAD_SCAR", "d0/d5c/a00668.html#ae92d2d64df97e6d4e504459dbe62a704adf3a2dd8db11cc9c77b39a8eaebce873", null ],
-      [ "QUEST_INTERCEPTING_THE_MANA_CELLS", "d0/d5c/a00668.html#ae92d2d64df97e6d4e504459dbe62a704a6f30cdc73db7de9c5c0c7be0e1b6c377", null ],
-      [ "QUEST_INTERCEPT_THE_REINFORCEMENTS", "d0/d5c/a00668.html#ae92d2d64df97e6d4e504459dbe62a704ab875551f6415f6ac57dfd81dae4b1af5", null ],
-      [ "QUEST_TAKING_THE_HARBOR", "d0/d5c/a00668.html#ae92d2d64df97e6d4e504459dbe62a704adf6f0dde850df588195e298e20884dc3", null ],
-      [ "QUEST_MAKING_READY", "d0/d5c/a00668.html#ae92d2d64df97e6d4e504459dbe62a704abadeaae10ba1cf07a4e49d58b27a2430", null ],
-      [ "QUEST_DISCOVERING_YOUR_ROOTS", "d0/d5c/a00668.html#ae92d2d64df97e6d4e504459dbe62a704ad53e4065f2edb54c276af531e4cbd158", null ],
-      [ "QUEST_A_CHARITABLE_DONATION", "d0/d5c/a00668.html#ae92d2d64df97e6d4e504459dbe62a704af367c41748283293358b00d0ceea276b", null ],
-      [ "QUEST_A_MAGNANIMOUS_BENEFACTOR", "d0/d5c/a00668.html#ae92d2d64df97e6d4e504459dbe62a704ac530d05014596aa5ace83a6c92b0b5c4", null ],
-      [ "COUNTER_MAX_VAL_REQ", "d0/d5c/a00668.html#ae92d2d64df97e6d4e504459dbe62a704a45e1556a8329106c7b177a050f5e45a5", null ]
-    ] ],
-    [ "WorldStateSunwellGateQuests", "d0/d5c/a00668.html#ab96270d11fbb117a1f967bc0d80f91ca", [
-      [ "QUEST_AGAMATH_THE_FIRST_GATE", "d0/d5c/a00668.html#ab96270d11fbb117a1f967bc0d80f91caa5488c9368a2859c5f47656009ebe9eeb", null ],
-      [ "QUEST_ROHENDOR_THE_SECOND_GATE", "d0/d5c/a00668.html#ab96270d11fbb117a1f967bc0d80f91caaac3b523ff003dbd2c4630a2f64f9ef52", null ],
-      [ "QUEST_ARCHONISUS_THE_FINAL_GATE", "d0/d5c/a00668.html#ab96270d11fbb117a1f967bc0d80f91caa79773a037e39a86021645c7ef20836dc", null ],
-      [ "COUNTER_MAX_VAL_REQ_SWP_GATES", "d0/d5c/a00668.html#ab96270d11fbb117a1f967bc0d80f91caadc56c79d9946a6da707fde15807fcfc5", null ]
-    ] ]
+    [ "ChangeEmail", "d0/d5c/a00668.html#a2a6c83e2d4e6121855beb252f23c905b", null ],
+    [ "ChangePassword", "d0/d5c/a00668.html#a6a9cb892c15d78b5de65738005234ff6", null ],
+    [ "ChangeUsername", "d0/d5c/a00668.html#a3382c6430bfbf14e32ca11b5ac68fc23", null ],
+    [ "CheckPassword", "d0/d5c/a00668.html#a17c28dfcb31af8f4241bb5210408185a", null ],
+    [ "CreateAccount", "d0/d5c/a00668.html#a761f39260d15a979ce0214f212b936b7", null ],
+    [ "DeleteAccount", "d0/d5c/a00668.html#a120323b16b2a5aefa6aa69e8be5ccef6", null ],
+    [ "GetCharactersCount", "d0/d5c/a00668.html#a4fb760897161c3d463f842b28bcf7c20", null ],
+    [ "GetId", "d0/d5c/a00668.html#aa215c9a96c37b8a5d76d980ecf8de114", null ],
+    [ "GetName", "d0/d5c/a00668.html#af911e3860ec519c541d6df35468ee41b", null ],
+    [ "GetSecurity", "d0/d5c/a00668.html#a8280510b2564ec6ea76727218c1687b3", null ],
+    [ "GetSecurity", "d0/d5c/a00668.html#a30b6e5cf1733f0143f86aaeff600215c", null ],
+    [ "IsAdminAccount", "d0/d5c/a00668.html#adb1b210137b09011677c74011addeefa", null ],
+    [ "IsConsoleAccount", "d0/d5c/a00668.html#a81bbc2af33211a3130c6aa215f5607b7", null ],
+    [ "IsGMAccount", "d0/d5c/a00668.html#a2f5fb2cf0c24e610c09ac734be93c7a9", null ],
+    [ "IsPlayerAccount", "d0/d5c/a00668.html#a63751f144cb7acb57fc20f0caf5e7043", null ]
 ];

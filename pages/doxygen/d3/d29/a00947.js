@@ -1,4 +1,4 @@
 var a00947 =
 [
-    [ "ItemScript", "d3/d30/a10592.html", "d3/d30/a10592" ]
+    [ "ScriptRegistry< MiscScript >", "d3/d29/a00947.html#a925ee1bbb5e173c3d816d0ae35b38a67", null ]
 ];

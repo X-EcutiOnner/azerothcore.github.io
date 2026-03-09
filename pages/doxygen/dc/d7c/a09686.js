@@ -1,8 +1,10 @@
 var a09686 =
 [
-    [ "InstResetEvent", "dc/d7c/a09686.html#aefa8f2b1b2cf29ad3472712278741fa4", null ],
-    [ "InstResetEvent", "dc/d7c/a09686.html#af6f80b924e52cd5296d21f4a5d1374c2", null ],
-    [ "difficulty", "dc/d7c/a09686.html#a67afe513dd42370ac4bb385a7128a324", null ],
-    [ "mapid", "dc/d7c/a09686.html#ad02e00b2782304fbd75973fe58eefd33", null ],
-    [ "type", "dc/d7c/a09686.html#ad211513c7ed39269d464190398dabaed", null ]
+    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "dc/d7c/a09686.html#aa9f15d071efe7ca7bb975489fec2afbd", null ],
+    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "dc/d7c/a09686.html#a1e25384d08beeee84d83e401f5a5a565", null ],
+    [ "operator()", "dc/d7c/a09686.html#abc2ab6f33a6a58a6e692cc32e8139839", null ],
+    [ "i_alive", "dc/d7c/a09686.html#a7a01388f86d25fa0728d94c6e1a7f752", null ],
+    [ "i_entry", "dc/d7c/a09686.html#ae2bf2c0a0f431f5de445fbee26b60a57", null ],
+    [ "i_obj", "dc/d7c/a09686.html#aa0340c79c37f3494b01c52f034705aa4", null ],
+    [ "i_range", "dc/d7c/a09686.html#a695af00612b17e0182ad76a5c3be2356", null ]
 ];

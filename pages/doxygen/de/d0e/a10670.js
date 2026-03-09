@@ -1,6 +1,10 @@
 var a10670 =
 [
-    [ "GuildInviteByName", "de/d0e/a10670.html#a5e0bab98d87000ad796ebb2753cd566b", null ],
-    [ "Read", "de/d0e/a10670.html#a91f3fba33e265cbb119f1d3e69d4a8ca", null ],
-    [ "Name", "de/d0e/a10670.html#a048c7ed9de19bcb57c0cdb10e2cf3bef", null ]
+    [ "ArgsType", "de/d0e/a10670.html#a4ea4d3b165a196482ebe96af9c462658", null ],
+    [ "AuraScriptType", "de/d0e/a10670.html#a7b2a19d6c7c75c0df22eae17b0c8e90a", null ],
+    [ "SpellScriptType", "de/d0e/a10670.html#a790a8ef2b59bfe6298486648858506ed", null ],
+    [ "GenericSpellAndAuraScriptLoader", "de/d0e/a10670.html#ab1bd69d57c6e2322044b8f7cf46cedb6", null ],
+    [ "GetAuraScript", "de/d0e/a10670.html#a5f3c898a0dc6d9085589b88eb5571528", null ],
+    [ "GetSpellScript", "de/d0e/a10670.html#a913fa28d2a2cf100ce73cf641e333e01", null ],
+    [ "_args", "de/d0e/a10670.html#aad6527f64ede0d896880ffa90d05a378", null ]
 ];

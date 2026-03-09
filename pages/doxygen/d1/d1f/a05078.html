@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Member List</title>
+<title>AzerothCore: anonymous_namespace{BinarySpellDetectionTest.cpp} Namespace Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d5/d65/a05081.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('d1/d1f/a05078.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,23 +104,77 @@ $(document).ready(function(){initNavTree('d5/d65/a05081.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">VMAP::LocationInfoCallback Member List</div></div>
+  <div class="summary">
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">anonymous_namespace{BinarySpellDetectionTest.cpp} Namespace Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../d5/d65/a05081.html">VMAP::LocationInfoCallback</a>, including all inherited members.</p>
-<table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/d65/a05081.html#a81b8c00fcc0a1780445ffbdf85decfdf">LocationInfoCallback</a>(ModelInstance *val, LocationInfo &amp;info)</td><td class="entry"><a class="el" href="../../d5/d65/a05081.html">VMAP::LocationInfoCallback</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/d65/a05081.html#a9a8b8529a571b3652cd898b2888d8027">locInfo</a></td><td class="entry"><a class="el" href="../../d5/d65/a05081.html">VMAP::LocationInfoCallback</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/d65/a05081.html#ac2ccfe87fa33cae7d2513c24ba8bfbeb">operator()</a>(const Vector3 &amp;point, uint32 entry)</td><td class="entry"><a class="el" href="../../d5/d65/a05081.html">VMAP::LocationInfoCallback</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d5/d65/a05081.html#a19c87ad1c9665c3ddfbfa89ccdee5c10">prims</a></td><td class="entry"><a class="el" href="../../d5/d65/a05081.html">VMAP::LocationInfoCallback</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d5/d65/a05081.html#a1ada8b8a1742f02b2d1f28ee82903246">result</a></td><td class="entry"><a class="el" href="../../d5/d65/a05081.html">VMAP::LocationInfoCallback</a></td><td class="entry"></td></tr>
-</table></div><!-- contents -->
+<p>Tests for the binary spell detection condition used in <a class="el" href="../../dc/d7d/a11722.html#a57a52b9d7490bc3e73d5906c6c7780a0">SpellMgr::LoadSpellInfoCustomAttributes</a>.  
+<a href="../../d1/d1f/a05078.html#details">More...</a></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:ab2154405a408271aa60863454b0303fe"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d1f/a05078.html#ab2154405a408271aa60863454b0303fe">ShouldMarkBinary</a> (<a class="el" href="../../d0/d1c/a11670.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> effIndex)</td></tr>
+<tr class="separator:ab2154405a408271aa60863454b0303fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p >Tests for the binary spell detection condition used in <a class="el" href="../../dc/d7d/a11722.html#a57a52b9d7490bc3e73d5906c6c7780a0">SpellMgr::LoadSpellInfoCustomAttributes</a>. </p>
+<p >The condition determines whether a non-damage aura effect should mark a spell as binary (fully resistable via spell resistance).</p>
+<p >Correct logic: CalcValue() || ((INTERRUPT_CAST || DONT_BREAK_STEALTH) &amp;&amp; !NO_IMMUNITIES)</p>
+<p >A spell should be marked binary if:</p><ul>
+<li>Its effect has a non-zero CalcValue (e.g. Fear, Polymorph, Frost Nova), OR</li>
+<li>It is an interrupt/stealth spell without the NO_IMMUNITIES attribute </li>
+</ul>
+</div><h2 class="groupheader">Function Documentation</h2>
+<a id="ab2154405a408271aa60863454b0303fe" name="ab2154405a408271aa60863454b0303fe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab2154405a408271aa60863454b0303fe">&#9670;&#160;</a></span>ShouldMarkBinary()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool anonymous_namespace{BinarySpellDetectionTest.cpp}::ShouldMarkBinary </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d1c/a11670.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname"><em>spellInfo</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>effIndex</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   42</span>    {</div>
+<div class="line"><span class="lineno">   43</span>        <span class="keywordflow">return</span> spellInfo-&gt;Effects[effIndex].CalcValue() ||</div>
+<div class="line"><span class="lineno">   44</span>            ((spellInfo-&gt;Effects[effIndex].Effect == <a class="code hl_enumvalue" href="../../d6/ddb/a04853.html#a292c893150c454dd75628b719db1fe97ae2d17b59f752f772b7a79a2643a1d45f">SPELL_EFFECT_INTERRUPT_CAST</a> ||</div>
+<div class="line"><span class="lineno">   45</span>              spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#a93795b2131c8cbe38a7b23768a5a146da6e135d0f3f1ffad609c7a52988db5d0e">SPELL_ATTR0_CU_DONT_BREAK_STEALTH</a>)) &amp;&amp;</div>
+<div class="line"><span class="lineno">   46</span>             !spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../d6/ddb/a04853.html#a9dcd0ba8d94905ba214797c12e7c44ada6a12b14654225a9ccea65799ce6fc780">SPELL_ATTR0_NO_IMMUNITIES</a>));</div>
+<div class="line"><span class="lineno">   47</span>    }</div>
+<div class="ttc" id="aa01802_html_a93795b2131c8cbe38a7b23768a5a146da6e135d0f3f1ffad609c7a52988db5d0e"><div class="ttname"><a href="../../dd/ddc/a01802.html#a93795b2131c8cbe38a7b23768a5a146da6e135d0f3f1ffad609c7a52988db5d0e">SPELL_ATTR0_CU_DONT_BREAK_STEALTH</a></div><div class="ttdeci">@ SPELL_ATTR0_CU_DONT_BREAK_STEALTH</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:182</div></div>
+<div class="ttc" id="aa04853_html_a292c893150c454dd75628b719db1fe97ae2d17b59f752f772b7a79a2643a1d45f"><div class="ttname"><a href="../../d6/ddb/a04853.html#a292c893150c454dd75628b719db1fe97ae2d17b59f752f772b7a79a2643a1d45f">SPELL_EFFECT_INTERRUPT_CAST</a></div><div class="ttdeci">@ SPELL_EFFECT_INTERRUPT_CAST</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:834</div></div>
+<div class="ttc" id="aa04853_html_a9dcd0ba8d94905ba214797c12e7c44ada6a12b14654225a9ccea65799ce6fc780"><div class="ttname"><a href="../../d6/ddb/a04853.html#a9dcd0ba8d94905ba214797c12e7c44ada6a12b14654225a9ccea65799ce6fc780">SPELL_ATTR0_NO_IMMUNITIES</a></div><div class="ttdeci">@ SPELL_ATTR0_NO_IMMUNITIES</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:399</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00393">SpellInfo::Effects</a>, <a class="el" href="../../#l00415">SpellInfo::HasAttribute()</a>, <a class="el" href="../../#l00182">SPELL_ATTR0_CU_DONT_BREAK_STEALTH</a>, <a class="el" href="../../#l00399">SPELL_ATTR0_NO_IMMUNITIES</a>, and <a class="el" href="../../#l00834">SPELL_EFFECT_INTERRUPT_CAST</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00057">TEST_F()</a>.</p>
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Feb 16 2026 21:02:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d1/d1f/a05078.html">anonymous_namespace{BinarySpellDetectionTest.cpp}</a></li>
+    <li class="footer">Generated on Mon Mar 9 2026 21:05:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

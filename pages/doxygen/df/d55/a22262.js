@@ -1,7 +1,9 @@
 var a22262 =
 [
-    [ "HandleDummy", "df/d55/a22262.html#abfb58e49821e6a563940e8ba518db850", null ],
-    [ "PrepareSpellScript", "df/d55/a22262.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
-    [ "Register", "df/d55/a22262.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
-    [ "Validate", "df/d55/a22262.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
+    [ "npc_brunnhildar_prisonerAI", "df/d55/a22262.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "df/d55/a22262.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "df/d55/a22262.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "df/d55/a22262.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "df/d55/a22262.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "df/d55/a22262.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

@@ -1,14 +1,13 @@
 var a18038 =
 [
-    [ "npc_putricide_oozeAI", "d9/db1/a18038.html#a5b3200110d6cd8ac1311220ab2ee3385", null ],
-    [ "CastMainSpell", "d9/db1/a18038.html#a62c9027b6d8a7812fcf5c0023621ef70", null ],
-    [ "IsSummonedBy", "d9/db1/a18038.html#a8e96a50b9a35f6220bf6c824c1acce58", null ],
-    [ "SelectNewTarget", "d9/db1/a18038.html#a0a4167a73249967fcf268683f936647d", null ],
-    [ "SetGUID", "d9/db1/a18038.html#af8abd6581901df51a3757f4a19443045", null ],
-    [ "SpellHit", "d9/db1/a18038.html#ab9d288f8eded19720a0aee3bd91920d2", null ],
-    [ "SpellHitTarget", "d9/db1/a18038.html#a501e0f46abdb1bcc0d99ab9792f738fe", null ],
-    [ "UpdateAI", "d9/db1/a18038.html#a508fe1a9974f2ffa36c72575c2d4b252", null ],
-    [ "_hitTargetSpellId", "d9/db1/a18038.html#a728b62580e7a84e9947a45b460ab140c", null ],
-    [ "_newTargetSelectTimer", "d9/db1/a18038.html#a9615a0e6c73c155330c1791c2a205553", null ],
-    [ "targetGUID", "d9/db1/a18038.html#ae01b7ffe31548aa15d913cc28fa32422", null ]
+    [ "PassengerController", "d9/db1/a18038.html#ab834deac8dfd9a7ddd1bcb37b1e5c354", null ],
+    [ "ClearSlot", "d9/db1/a18038.html#ae10f0917fb6fd395c3bb4428cbb617cb", null ],
+    [ "ResetSlots", "d9/db1/a18038.html#a2302ac8b9fac75ba58ced41e2b5236f0", null ],
+    [ "SelectSpawnPoint", "d9/db1/a18038.html#a4a4d575417a7c7940471f21e32d48b5c", null ],
+    [ "SummonCreatures", "d9/db1/a18038.html#a287e4cafc1d3739edf90c00ad91e2c64", null ],
+    [ "_controlledSlots", "d9/db1/a18038.html#af4271e53792477394a5c1022ed8fb30f", null ],
+    [ "_respawnCooldowns", "d9/db1/a18038.html#a98a6d819ec193d5a1e96739ac507b146", null ],
+    [ "_slotInfo", "d9/db1/a18038.html#a9c8fa44394c10eb2a7fec3c4f273f448", null ],
+    [ "_spawnPoint", "d9/db1/a18038.html#ab168baee9c4d6343c7adb6978a3a56d2", null ],
+    [ "_transport", "d9/db1/a18038.html#ac2c664d3b5941c673c13f7e36aa2d974", null ]
 ];

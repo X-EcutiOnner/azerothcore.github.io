@@ -1,6 +1,6 @@
 var a12690 =
 [
-    [ "boss_shazzrahAI", "d5/d2a/a12690.html#a984b3d32d5f231a019f2c0f1bb027907", null ],
-    [ "ExecuteEvent", "d5/d2a/a12690.html#a0f6e3e6876b9b769ea53db5c9028c6ff", null ],
-    [ "JustEngagedWith", "d5/d2a/a12690.html#aaa8111d42cacd58f767513026976668c", null ]
+    [ "near_scarshield_infiltrator", "d5/d2a/a12690.html#a38d2e75946c429b4d80b007f190406bc", null ],
+    [ "OnTrigger", "d5/d2a/a12690.html#aeb761433e3210ce85c1de4dab653a87c", null ],
+    [ "whisperedTargets", "d5/d2a/a12690.html#a5655e241d2551798a960cb6375c7df23", null ]
 ];

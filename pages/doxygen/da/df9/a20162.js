@@ -1,7 +1,5 @@
 var a20162 =
 [
-    [ "OnPeriodic", "da/df9/a20162.html#a9407d5477a40e36863e5fb5775dda122", null ],
-    [ "PrepareAuraScript", "da/df9/a20162.html#a1ecb6e617976cdfbeb534849db41d57a", null ],
-    [ "Register", "da/df9/a20162.html#a34a31e96b21de9b9320d8276f7beb45e", null ],
-    [ "Validate", "da/df9/a20162.html#a2c2ca2c0425ab3b815d246b1caebf588", null ]
+    [ "achievement_algalon_he_feeds_on_your_tears", "da/df9/a20162.html#a91f4ddbce55a50e563df701eb0bcfff7", null ],
+    [ "OnCheck", "da/df9/a20162.html#affea33614581545c65513bfe533d7246", null ]
 ];

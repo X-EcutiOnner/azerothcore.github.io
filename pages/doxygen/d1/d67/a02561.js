@@ -1,6 +1,9 @@
 var a02561 =
 [
-    [ "GetLibraryVersion", "d1/d67/a02561.html#aefa4bd51f34aad2d1a141c00a2310092", null ],
-    [ "Library_End", "d1/d67/a02561.html#aff44554b66bd7ef0e21f1db5beb0b81a", null ],
-    [ "Library_Init", "d1/d67/a02561.html#a70b74137156f0a22792c3cf95c54decc", null ]
+    [ "SQLElementData", "de/d8c/a06114.html", "de/d8c/a06114" ],
+    [ "SQLOperation", "df/d58/a06118.html", "df/d58/a06118" ],
+    [ "SQLElementDataType", "d1/d67/a02561.html#abb4a6cfcce013f18b29779f1f435e627", [
+      [ "SQL_ELEMENT_RAW", "d1/d67/a02561.html#abb4a6cfcce013f18b29779f1f435e627a49f9977e0908bdeb2a8b30b5877d939a", null ],
+      [ "SQL_ELEMENT_PREPARED", "d1/d67/a02561.html#abb4a6cfcce013f18b29779f1f435e627af61734e97ffd411ebb8f4275ea05600d", null ]
+    ] ]
 ];

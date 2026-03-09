@@ -1,19 +1,7 @@
 var a10794 =
 [
-    [ "GuildBankSwapItems", "df/d4a/a10794.html#ab335b2ce30db878b41fa3a61953d7d60", null ],
-    [ "Read", "df/d4a/a10794.html#a3f64634235beeabb9cee055926e6260a", null ],
-    [ "AutoStore", "df/d4a/a10794.html#aa9eba5c523f7318b2c5e1fa09032920f", null ],
-    [ "Banker", "df/d4a/a10794.html#a464b37b7cb45a474531662a5032728e6", null ],
-    [ "BankItemCount", "df/d4a/a10794.html#af11a90a704181b7ed9d823367daf8dc9", null ],
-    [ "BankOnly", "df/d4a/a10794.html#a2078c50c82bb7b889575da516108f16d", null ],
-    [ "BankSlot", "df/d4a/a10794.html#a9250ac77819b5ad0be64507d890723c3", null ],
-    [ "BankSlot1", "df/d4a/a10794.html#ae1e39a84d20fe752311e839384ffdf47", null ],
-    [ "BankTab", "df/d4a/a10794.html#a39134b0defcdea989bf034decf6001e3", null ],
-    [ "BankTab1", "df/d4a/a10794.html#a714d47cb3f39425c80094ee9d7f20a12", null ],
-    [ "ContainerItemSlot", "df/d4a/a10794.html#a2d4830a216f616646e1119d7282c0f94", null ],
-    [ "ContainerSlot", "df/d4a/a10794.html#a0032741b343e3c5a05a8ca30e46126ee", null ],
-    [ "ItemID", "df/d4a/a10794.html#a6c231ac64ec02cb360bdd8bf88e134b5", null ],
-    [ "ItemID1", "df/d4a/a10794.html#adc987aa11525cb48a9e5e9d789fe47bd", null ],
-    [ "StackCount", "df/d4a/a10794.html#af4ce1f211586bd988ec884820038e049", null ],
-    [ "ToSlot", "df/d4a/a10794.html#a0294b1260e1b90386b9096e08f9f7838", null ]
+    [ "LogoutResponse", "df/d4a/a10794.html#a434ee19fbc4d3e336444b1c62ac2be84", null ],
+    [ "Write", "df/d4a/a10794.html#a0b08225b6ac303afd20ec213aafe4bcb", null ],
+    [ "Instant", "df/d4a/a10794.html#aad6819dc426b91b6ad43f180a53e12ef", null ],
+    [ "LogoutResult", "df/d4a/a10794.html#a5543bf1a6342e9a217cd906e4a185b2e", null ]
 ];

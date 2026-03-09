@@ -1,6 +1,5 @@
 var a19082 =
 [
-    [ "RespawnEvent", "d3/d30/a19082.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
-    [ "Execute", "d3/d30/a19082.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
-    [ "_owner", "d3/d30/a19082.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
+    [ "achievement_portal_jockey", "d3/d30/a19082.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
+    [ "OnCheck", "d3/d30/a19082.html#a2695b1fee353be7340f319c632a43efc", null ]
 ];

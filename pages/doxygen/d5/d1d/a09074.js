@@ -1,17 +1,9 @@
 var a09074 =
 [
-    [ "ActionMenuID", "d5/d1d/a09074.html#a486f9af68a02ae52d51772a3421db377", null ],
-    [ "ActionPoiID", "d5/d1d/a09074.html#a9a20a64e29d0464c40f57286b9c1804d", null ],
-    [ "BoxBroadcastTextID", "d5/d1d/a09074.html#a12882942190a9a568b9dc30214ee6a88", null ],
-    [ "BoxCoded", "d5/d1d/a09074.html#a4f7ba04e2d1078909d9587569504f4cd", null ],
-    [ "BoxMoney", "d5/d1d/a09074.html#ab00c368181ccaba98e878d49de6138e2", null ],
-    [ "BoxText", "d5/d1d/a09074.html#ad794b3c4e84dedce43ff2c80d3c38d4a", null ],
-    [ "Conditions", "d5/d1d/a09074.html#aa1632404bbc869b17dab8833f660c52b", null ],
-    [ "MenuID", "d5/d1d/a09074.html#a6e5b1b2c86bd05b81626a7230349be9a", null ],
-    [ "OptionBroadcastTextID", "d5/d1d/a09074.html#af8af4b4c27405908482db73797cd2d49", null ],
-    [ "OptionIcon", "d5/d1d/a09074.html#a0b73f7ce36e7703725e6b0d01c2a4564", null ],
-    [ "OptionID", "d5/d1d/a09074.html#adf2a8d247a88a062a75eb726dd43d019", null ],
-    [ "OptionNpcFlag", "d5/d1d/a09074.html#a6f41e9adfcb11adabdd79b55c1d47bfc", null ],
-    [ "OptionText", "d5/d1d/a09074.html#a2606ac76a4f3607e45676ed3f1df3a83", null ],
-    [ "OptionType", "d5/d1d/a09074.html#af53a42c8d4ec23be46dfdb16abc9c4ff", null ]
+    [ "TransportBase", "d5/d1d/a09074.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
+    [ "~TransportBase", "d5/d1d/a09074.html#a81dca3435a1a1666a90acd8e154e3287", null ],
+    [ "CalculatePassengerOffset", "d5/d1d/a09074.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
+    [ "CalculatePassengerOffset", "d5/d1d/a09074.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
+    [ "CalculatePassengerPosition", "d5/d1d/a09074.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
+    [ "CalculatePassengerPosition", "d5/d1d/a09074.html#a328fbc464c56eca89138380182a0108c", null ]
 ];

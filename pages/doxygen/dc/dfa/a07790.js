@@ -1,5 +1,4 @@
 var a07790 =
 [
-    [ "IsColorValid", "dc/dfa/a07790.html#ad9f1623f6e04696a0e3520d3996170e4", null ],
-    [ "IsTextValid", "dc/dfa/a07790.html#a3b729ae39753a31c38c16e5186fe7f46", null ]
+    [ "TryConsumeTo", "dc/dfa/a07790.html#a0e6df60e4195364958e85632e43b4ad0", null ]
 ];

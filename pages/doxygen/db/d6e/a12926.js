@@ -1,11 +1,10 @@
 var a12926 =
 [
-    [ "npc_demon_chain", "db/d6e/a12926.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
-    [ "AttackStart", "db/d6e/a12926.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
-    [ "IsSummonedBy", "db/d6e/a12926.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
-    [ "JustDied", "db/d6e/a12926.html#a35d1b7de8612f11cdf61b9d663990686", null ],
-    [ "JustEngagedWith", "db/d6e/a12926.html#a9743ebc31c5159a03889bfd40b09d749", null ],
-    [ "MoveInLineOfSight", "db/d6e/a12926.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
-    [ "Reset", "db/d6e/a12926.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
-    [ "sacrificeGUID", "db/d6e/a12926.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
+    [ "boss_golemaggAI", "db/d6e/a12926.html#a79e2416a55a1531316d891ebff4e5575", null ],
+    [ "DamageTaken", "db/d6e/a12926.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
+    [ "Reset", "db/d6e/a12926.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
+    [ "UpdateAI", "db/d6e/a12926.html#af7b322731241dbb08041a92cd355f273", null ],
+    [ "earthquakeTimer", "db/d6e/a12926.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
+    [ "enraged", "db/d6e/a12926.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
+    [ "pyroblastTimer", "db/d6e/a12926.html#a142ededff85d517c08744bdafd644c34", null ]
 ];

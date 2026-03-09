@@ -1,7 +1,7 @@
 var a09082 =
 [
-    [ "QuestPOIPoint", "d8/d06/a09082.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
-    [ "QuestPOIPoint", "d8/d06/a09082.html#a2e80e5a83ab336a8b019f38297862efa", null ],
-    [ "x", "d8/d06/a09082.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
-    [ "y", "d8/d06/a09082.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
+    [ "Done", "d8/d06/a09082.html#abc88850d392fb4b62e778d09445de0be", null ],
+    [ "DoneWorldState", "d8/d06/a09082.html#a380755d90c958b6532bae7f8a4d70b44", null ],
+    [ "MaxWorldState", "d8/d06/a09082.html#a8c144531f876b6def613c0011e0efe47", null ],
+    [ "ReqNum", "d8/d06/a09082.html#ae1d182aef449388993e4965de447d971", null ]
 ];

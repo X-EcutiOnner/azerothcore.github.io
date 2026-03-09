@@ -1,6 +1,7 @@
 var a16766 =
 [
-    [ "boss_acidmawAI", "d7/d4f/a16770.html", "d7/d4f/a16770" ],
-    [ "boss_acidmaw", "d2/d30/a16766.html#a86e71bf9ae950a4f8efa58d6f679e8bf", null ],
-    [ "GetAI", "d2/d30/a16766.html#aacbd4c83e6e9c9790e6cf9a87e3aa9a0", null ]
+    [ "HandleAfterEffectAbsorb", "d2/d30/a16766.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "d2/d30/a16766.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "d2/d30/a16766.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "d2/d30/a16766.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

@@ -1,5 +1,9 @@
 var a10726 =
 [
-    [ "GuildDelete", "d4/dde/a10726.html#a86733335c7b60d5b9eb8616692da3a7f", null ],
-    [ "Read", "d4/dde/a10726.html#ae5ca379b187902323638f4c10be0a4d0", null ]
+    [ "fX", "d4/dde/a10726.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
+    [ "fY", "d4/dde/a10726.html#a9b158e247014eec0d35e465ab9469ac7", null ],
+    [ "fZ", "d4/dde/a10726.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
+    [ "uiCreatureEntry", "d4/dde/a10726.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
+    [ "uiPointId", "d4/dde/a10726.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
+    [ "uiWaitTime", "d4/dde/a10726.html#a305620aad71152c1139a88dea05a1887", null ]
 ];

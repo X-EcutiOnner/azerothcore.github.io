@@ -1,6 +1,7 @@
 var a18530 =
 [
-    [ "ModDestHeight", "de/df1/a18530.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
-    [ "PrepareSpellScript", "de/df1/a18530.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
-    [ "Register", "de/df1/a18530.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
+    [ "FrostBombExplosion", "de/df1/a18530.html#ac7d318e241e6442e8aa084b27ea50236", null ],
+    [ "Execute", "de/df1/a18530.html#a0b6521266f18b621260286c530ff3f36", null ],
+    [ "_owner", "de/df1/a18530.html#aa9ff39ce43c351e8815f895896fa759b", null ],
+    [ "_sindragosaGUID", "de/df1/a18530.html#a5afc3d543c8fa457c90735f841aa161c", null ]
 ];

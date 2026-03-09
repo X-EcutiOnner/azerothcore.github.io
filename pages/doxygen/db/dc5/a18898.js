@@ -1,7 +1,7 @@
 var a18898 =
 [
-    [ "HandleQuestComplete", "db/dc5/a18898.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
-    [ "HandleScript", "db/dc5/a18898.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
-    [ "PrepareSpellScript", "db/dc5/a18898.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
-    [ "Register", "db/dc5/a18898.html#a3258d4517cfc758080691bab429624d7", null ]
+    [ "HandleProc", "db/dc5/a18898.html#af06730a865009127c7d3e5423afd4d44", null ],
+    [ "PrepareAuraScript", "db/dc5/a18898.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
+    [ "Register", "db/dc5/a18898.html#a6c97b787ce00491a259c575d26189f8c", null ],
+    [ "Validate", "db/dc5/a18898.html#aed9c98e20d916359629e119d6dd2a94f", null ]
 ];

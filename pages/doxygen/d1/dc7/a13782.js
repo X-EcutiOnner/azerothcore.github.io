@@ -1,7 +1,7 @@
 var a13782 =
 [
-    [ "npc_ranger_lilatha", "d1/dc7/a13782.html#abd13a89b41a289edefb9bc21588f8d29", null ],
-    [ "Reset", "d1/dc7/a13782.html#a3e804e483b51961193ee1079caba40be", null ],
-    [ "sQuestAccept", "d1/dc7/a13782.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
-    [ "WaypointReached", "d1/dc7/a13782.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
+    [ "HandleScript", "d1/dc7/a13782.html#aae2f572a523431f6764f08e4719adbcf", null ],
+    [ "PrepareSpellScript", "d1/dc7/a13782.html#a20fdb423d5db4f1fa629a0f0480e2a9f", null ],
+    [ "Register", "d1/dc7/a13782.html#ae3b002197564318cc92242bd925d35af", null ],
+    [ "Validate", "d1/dc7/a13782.html#a98d9d84fd26d110efbbbaba9a19ef423", null ]
 ];

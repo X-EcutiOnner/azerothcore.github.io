@@ -1,6 +1,9 @@
 var a02624 =
 [
-    [ "DatabaseWorkerPool< T >", "d5/d98/a05916.html", "d5/d98/a05916" ],
-    [ "MIN_MYSQL_CLIENT_VERSION", "d8/d09/a02624.html#abfde8cf59610848eff4ea61d09bb8ca7", null ],
-    [ "MIN_MYSQL_SERVER_VERSION", "d8/d09/a02624.html#acd4a83e86313ca0bb35cb66497bc79b2", null ]
+    [ "QueryCallback::QueryCallbackData", "dc/d36/a06074.html", "dc/d36/a06074" ],
+    [ "Construct", "d8/d09/a02624.html#a0e2a26009ee3d271eeacbb20a20e930b", null ],
+    [ "ConstructActiveMember", "d8/d09/a02624.html#a63276ee687270e668e7c51876ced5fb1", null ],
+    [ "Destroy", "d8/d09/a02624.html#aa4339e1c31032221caeaaedac04c0b32", null ],
+    [ "DestroyActiveMember", "d8/d09/a02624.html#aac0ba6a0017441eb25c4b294fde99186", null ],
+    [ "MoveFrom", "d8/d09/a02624.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa", null ]
 ];

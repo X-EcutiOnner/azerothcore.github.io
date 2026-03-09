@@ -1,6 +1,6 @@
 var a15214 =
 [
-    [ "HandleScript", "d5/deb/a15214.html#a7e6ec873a252106ba865bdef05f757f5", null ],
-    [ "PrepareSpellScript", "d5/deb/a15214.html#a98e80c8726c350aca850b6c87c5861da", null ],
-    [ "Register", "d5/deb/a15214.html#a994bb1f4670d16f6797b9e0df1d8c36c", null ]
+    [ "HandleHeal", "d5/deb/a15214.html#a953536a9a393af9472bdd89018449df0", null ],
+    [ "PrepareSpellScript", "d5/deb/a15214.html#a70503fc6042001a860d361f2597b7153", null ],
+    [ "Register", "d5/deb/a15214.html#a383479896e6deb96e50b827370ccfd4d", null ]
 ];

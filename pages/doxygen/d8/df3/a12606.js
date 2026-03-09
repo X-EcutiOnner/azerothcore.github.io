@@ -1,6 +1,6 @@
 var a12606 =
 [
-    [ "boss_gehennasAI", "d8/df3/a12606.html#aaefd1f10d03957477863df95143a95a9", null ],
-    [ "ExecuteEvent", "d8/df3/a12606.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
-    [ "JustEngagedWith", "d8/df3/a12606.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
+    [ "boss_rend_blackhandAI", "df/d23/a12610.html", "df/d23/a12610" ],
+    [ "boss_rend_blackhand", "d8/df3/a12606.html#afd12818c33de25332bf207f30c8490a1", null ],
+    [ "GetAI", "d8/df3/a12606.html#aed65d31a5a841af8aed015555bf811cb", null ]
 ];

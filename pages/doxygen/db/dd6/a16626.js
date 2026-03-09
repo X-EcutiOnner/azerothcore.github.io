@@ -1,8 +1,7 @@
 var a16626 =
 [
-    [ "npc_toc_warlockAI", "db/dd6/a16626.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
-    [ "JustSummoned", "db/dd6/a16626.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
-    [ "myCanCast", "db/dd6/a16626.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
-    [ "UpdateAI", "db/dd6/a16626.html#a554849d02d923439bd810b7d8c242afa", null ],
-    [ "events", "db/dd6/a16626.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
+    [ "HandlePeriodic", "db/dd6/a16626.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
+    [ "PrepareAuraScript", "db/dd6/a16626.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
+    [ "Register", "db/dd6/a16626.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
+    [ "Validate", "db/dd6/a16626.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
 ];

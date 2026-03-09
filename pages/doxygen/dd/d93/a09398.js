@@ -1,8 +1,6 @@
 var a09398 =
 [
-    [ "AnyUnfriendlyNoTotemUnitInObjectRangeCheck", "dd/d93/a09398.html#ac4378cfa8fedb3453c0e810d497cb99c", null ],
-    [ "operator()", "dd/d93/a09398.html#ad9e3486316cf297ba79a588c60b4ce15", null ],
-    [ "i_funit", "dd/d93/a09398.html#ace766830b26d8aae3ec673d2102a9969", null ],
-    [ "i_obj", "dd/d93/a09398.html#ae12f4176e49438cfa248345cfe7c9947", null ],
-    [ "i_range", "dd/d93/a09398.html#a8335ef8fd7376e7c920dfbca2318d646", null ]
+    [ "AreaMapType", "dd/d93/a09398.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6", null ],
+    [ "areaMap", "dd/d93/a09398.html#a21673b134ee6b5fb20bab06c3e1b2238", null ],
+    [ "gridArea", "dd/d93/a09398.html#a37e8598e7a22dcb17637243fbeeecb0c", null ]
 ];

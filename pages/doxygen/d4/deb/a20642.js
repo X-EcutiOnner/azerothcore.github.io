@@ -1,7 +1,6 @@
 var a20642 =
 [
-    [ "HandleEffectPeriodic", "d4/deb/a20642.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
-    [ "PrepareAuraScript", "d4/deb/a20642.html#af432e810a46e35f95bb0b3b2eaada132", null ],
-    [ "Register", "d4/deb/a20642.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
-    [ "Validate", "d4/deb/a20642.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
+    [ "HandleDamage", "d4/deb/a20642.html#af2578478e83eb2f6c2de32a692e9be91", null ],
+    [ "PrepareSpellScript", "d4/deb/a20642.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
+    [ "Register", "d4/deb/a20642.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
 ];

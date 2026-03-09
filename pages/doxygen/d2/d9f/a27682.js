@@ -1,7 +1,7 @@
 var a27682 =
 [
-    [ "npc_prof_leather", "d2/d9f/a27682.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
-    [ "HasLeatherSpecialty", "d2/d9f/a27682.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
-    [ "OnGossipHello", "d2/d9f/a27682.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
-    [ "OnGossipSelect", "d2/d9f/a27682.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
+    [ "HandleScriptEffect", "d2/d9f/a27682.html#a328c1ba6ccd98e25e477a3f784cb47ff", null ],
+    [ "PrepareSpellScript", "d2/d9f/a27682.html#aa211032991d8fd11d574cb364533a515", null ],
+    [ "Register", "d2/d9f/a27682.html#a13315f197f2e6975dca00b53cbc599d2", null ],
+    [ "Validate", "d2/d9f/a27682.html#a3b752f07631223199ed7ac404ed1afed", null ]
 ];

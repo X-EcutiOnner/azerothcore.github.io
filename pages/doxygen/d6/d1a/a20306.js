@@ -1,8 +1,6 @@
 var a20306 =
 [
-    [ "OnApply", "d6/d1a/a20306.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
-    [ "OnRemove", "d6/d1a/a20306.html#a4709f570f9014eb36bc8c65269470373", null ],
-    [ "PrepareAuraScript", "d6/d1a/a20306.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
-    [ "Register", "d6/d1a/a20306.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
-    [ "Validate", "d6/d1a/a20306.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
+    [ "OnPeriodic", "d6/d1a/a20306.html#a379c55df994c58932fef7e7a59fd8426", null ],
+    [ "PrepareAuraScript", "d6/d1a/a20306.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
+    [ "Register", "d6/d1a/a20306.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
 ];

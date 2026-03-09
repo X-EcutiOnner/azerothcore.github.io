@@ -1,27 +1,8 @@
 var a09754 =
 [
-    [ "LootStore", "db/df4/a09754.html#a99896ddfc04c20e2f7088a2ad8403e35", null ],
-    [ "~LootStore", "db/df4/a09754.html#a5ed3ef2d00fdcb8edc3c4ddb9cb5a9ca", null ],
-    [ "CheckLootRefs", "db/df4/a09754.html#a6506931ec5ce351687bc0c44ef74b435", null ],
-    [ "Clear", "db/df4/a09754.html#abd9b51ff3aa4452ff5f5cc82267bac48", null ],
-    [ "GetEntryName", "db/df4/a09754.html#a6adbdbba33f3c6d55d02f8f94de2e3ab", null ],
-    [ "GetLootFor", "db/df4/a09754.html#a541edad9042f950ba2545c6e1126c419", null ],
-    [ "GetLootForConditionFill", "db/df4/a09754.html#a46e8a8ed43a1e885ade1d5b74d79bb4b", null ],
-    [ "GetName", "db/df4/a09754.html#acecb88522c97b74f87e0ed40fa009a04", null ],
-    [ "HaveLootFor", "db/df4/a09754.html#abd45358d22bbb44f54743792a7fd0039", null ],
-    [ "HaveQuestLootFor", "db/df4/a09754.html#a82a84ddb5051cf3e9ee508c2f0642d1e", null ],
-    [ "HaveQuestLootForPlayer", "db/df4/a09754.html#ad800486cf5afb5842073b8ca1a43aad8", null ],
-    [ "IsRatesAllowed", "db/df4/a09754.html#aa64da1c4756d94e30c552b17795b1da0", null ],
-    [ "LoadAndCollectLootIds", "db/df4/a09754.html#a172a485f55b00f97248779c3f9f996dd", null ],
-    [ "LoadLootTable", "db/df4/a09754.html#a131a846a8bce5b792a06a130bb1d1599", null ],
-    [ "ReportInvalidCount", "db/df4/a09754.html#aa03234f502990184089e66778674c474", null ],
-    [ "ReportNonExistingId", "db/df4/a09754.html#ab34193850f17f42ec65a466eefe4ff76", null ],
-    [ "ReportNonExistingId", "db/df4/a09754.html#a85d0955deaa4332a977a131fbb93eb87", null ],
-    [ "ReportUnusedIds", "db/df4/a09754.html#af0fe6608310a123d70cc8221e65e4556", null ],
-    [ "ResetConditions", "db/df4/a09754.html#a4f258b3698a2a0a77a28b3b8a885e579", null ],
-    [ "Verify", "db/df4/a09754.html#afd0762a7391f530009b44bf6b4a3a3be", null ],
-    [ "m_entryName", "db/df4/a09754.html#a2dc4594b3aa9d4737a785a3b47c559c5", null ],
-    [ "m_LootTemplates", "db/df4/a09754.html#a58cf63357ad373aaf5866f5f2dcb23a8", null ],
-    [ "m_name", "db/df4/a09754.html#aaae57f6cacb66f1024fa572cd6ba8003", null ],
-    [ "m_ratesAllowed", "db/df4/a09754.html#a9edc9a356084a1395ca5367db91981bd", null ]
+    [ "AllWorldObjectsInExactRange", "db/df4/a09754.html#a0281d22587b9b1bdbfbdd8dccc625186", null ],
+    [ "operator()", "db/df4/a09754.html#afe0bea69ddd5e275363361bf37284840", null ],
+    [ "_equals", "db/df4/a09754.html#aebb4cb9e84cf91cca235fe663dba8d60", null ],
+    [ "_object", "db/df4/a09754.html#a5fba0e3c7cde76bfe56f8e9e9716412b", null ],
+    [ "_range", "db/df4/a09754.html#ae40de8ce49bb429243e5059b6d14398f", null ]
 ];

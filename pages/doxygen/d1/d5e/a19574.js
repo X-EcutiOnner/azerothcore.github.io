@@ -1,13 +1,17 @@
 var a19574 =
 [
-    [ "npc_oculus_unstable_sphereAI", "d1/d5e/a19574.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
-    [ "AttackStart", "d1/d5e/a19574.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
-    [ "MoveInLineOfSight", "d1/d5e/a19574.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
-    [ "MovementInform", "d1/d5e/a19574.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
-    [ "PickNewLocation", "d1/d5e/a19574.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
-    [ "Reset", "d1/d5e/a19574.html#ac2e391d0149b62823ac9074d45c694cf", null ],
-    [ "UpdateAI", "d1/d5e/a19574.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
-    [ "gonext", "d1/d5e/a19574.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
-    [ "located", "d1/d5e/a19574.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
-    [ "timer", "d1/d5e/a19574.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
+    [ "boss_kelthuzadAI", "d1/d5e/a19574.html#a3fa1e67bf942824cd40c5591f4e63a08", null ],
+    [ "EnterEvadeMode", "d1/d5e/a19574.html#ac99064d95afff73680df1fe96749665a", null ],
+    [ "JustDied", "d1/d5e/a19574.html#a49066a2fa1dc424a27262706c8af046a", null ],
+    [ "JustEngagedWith", "d1/d5e/a19574.html#a8fd3938c0e91a0773eacba9fbdb4a60e", null ],
+    [ "JustSummoned", "d1/d5e/a19574.html#a0b305ec3029d149c3ca273cb7ba52e1b", null ],
+    [ "KilledUnit", "d1/d5e/a19574.html#ad2fa9b4d11b158e3fadf0c304be6b431", null ],
+    [ "MoveInLineOfSight", "d1/d5e/a19574.html#a440b758486cd95b7884fe2ce9bdfb28f", null ],
+    [ "NormalizeOrientation", "d1/d5e/a19574.html#a21ac290b79119d47b7509b04b34ea16e", null ],
+    [ "Reset", "d1/d5e/a19574.html#a5df92ebc5bd4ee8d06b17e31381be8c4", null ],
+    [ "SpawnHelpers", "d1/d5e/a19574.html#ad81fa9c3449ba347de09b1519be6d408", null ],
+    [ "SummonHelper", "d1/d5e/a19574.html#a3a21a45072144b6f0421733466770267", null ],
+    [ "UpdateAI", "d1/d5e/a19574.html#a3004d23e6eaa3f2ef5942e96e0c17308", null ],
+    [ "events", "d1/d5e/a19574.html#a1ac1341c022c65f46b30a9c70b3f37ba", null ],
+    [ "summons", "d1/d5e/a19574.html#a4b8a2fcda2e9f4e3944c3527dd6afb1e", null ]
 ];

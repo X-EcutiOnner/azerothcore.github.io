@@ -1,6 +1,6 @@
 var a15446 =
 [
-    [ "HandleDummy", "d3/d6a/a15446.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
-    [ "PrepareSpellScript", "d3/d6a/a15446.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
-    [ "Register", "d3/d6a/a15446.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "d4/d8a/a15450.html", "d4/d8a/a15450" ],
+    [ "instance_razorfen_downs", "d3/d6a/a15446.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
+    [ "GetInstanceScript", "d3/d6a/a15446.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
 ];

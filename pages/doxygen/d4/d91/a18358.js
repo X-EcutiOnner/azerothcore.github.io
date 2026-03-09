@@ -1,11 +1,6 @@
 var a18358 =
 [
-    [ "NonTankLKTargetSelector", "d4/d91/a18358.html#a41c5372505c0c74e93f2c583a0259777", null ],
-    [ "operator()", "d4/d91/a18358.html#a2e496088092b9885f8e2391c2df91993", null ],
-    [ "_exclude1", "d4/d91/a18358.html#abe4e56597fa2918b15a003413887ac71", null ],
-    [ "_exclude2", "d4/d91/a18358.html#a6aa63c93c4e68998f621349760d9ab43", null ],
-    [ "_maxDist", "d4/d91/a18358.html#ac7e28c908079fbd2e1ca5374731d521e", null ],
-    [ "_playerOnly", "d4/d91/a18358.html#a5ab89af79aa4840c9a024996a848540c", null ],
-    [ "_reqLOS", "d4/d91/a18358.html#a61966d6b825f25b6bbf589676cef19f9", null ],
-    [ "_source", "d4/d91/a18358.html#a86e3ebd2425b76103df7413b5ed4af70", null ]
+    [ "npc_volatile_oozeAI", "d2/dba/a18362.html", "d2/dba/a18362" ],
+    [ "npc_volatile_ooze", "d4/d91/a18358.html#a22847e44812a0b13b92cfcca3a70204e", null ],
+    [ "GetAI", "d4/d91/a18358.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
 ];

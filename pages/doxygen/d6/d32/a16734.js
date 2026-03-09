@@ -1,10 +1,6 @@
 var a16734 =
 [
-    [ "npc_mistress_of_painAI", "d6/d32/a16734.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
-    [ "EnterEvadeMode", "d6/d32/a16734.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
-    [ "JustDied", "d6/d32/a16734.html#ae60f294f902a2f687446f7599d071e42", null ],
-    [ "Reset", "d6/d32/a16734.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
-    [ "SpellHit", "d6/d32/a16734.html#a077843a7ead2034da695be816de42f9e", null ],
-    [ "UpdateAI", "d6/d32/a16734.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
-    [ "events", "d6/d32/a16734.html#a941ae1faab010551db6a8e6749993357", null ]
+    [ "boss_paletressAI", "dd/d62/a16738.html", "dd/d62/a16738" ],
+    [ "boss_paletress", "d6/d32/a16734.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
+    [ "GetAI", "d6/d32/a16734.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
 ];

@@ -1,13 +1,9 @@
 var a08830 =
 [
-    [ "BuildValuesCachePosPointers", "d7/d70/a08830.html#ae84124e042e8ba50d755ccef3c02fdd8", null ],
-    [ "ApplyOffset", "d7/d70/a08830.html#a31a13ea07b3eb9e3d045996e8a6074b2", null ],
-    [ "other", "d7/d70/a08830.html#ad56ddc5f2d7ea4937b49a61d80b8b138", null ],
-    [ "UnitDynamicFlagsPos", "d7/d70/a08830.html#a230385a8646ebce01faaadce648b1a61", null ],
-    [ "UnitFieldAuraStatePos", "d7/d70/a08830.html#a69592cf42c5f6663c8ada3468fcbe658", null ],
-    [ "UnitFieldBytes2Pos", "d7/d70/a08830.html#aa1df8492f0a3c576b067469ee3552796", null ],
-    [ "UnitFieldDisplayPos", "d7/d70/a08830.html#a1058d1650d656498f7dcd5139363a315", null ],
-    [ "UnitFieldFactionTemplatePos", "d7/d70/a08830.html#a9b8eae9da685231956dca3e92b845cbb", null ],
-    [ "UnitFieldFlagsPos", "d7/d70/a08830.html#a04e607123d1d1dde24611b573d25fedb", null ],
-    [ "UnitNPCFlagsPos", "d7/d70/a08830.html#aa9412413e1a867d1f3857d18f4d52906", null ]
+    [ "areaFlag", "d7/d70/a08830.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
+    [ "areaID", "d7/d70/a08830.html#a455a890a1d82d31873873ac497cb83b7", null ],
+    [ "x1", "d7/d70/a08830.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
+    [ "x2", "d7/d70/a08830.html#aebdb021c0b9c40d624d5115b24616a12", null ],
+    [ "y1", "d7/d70/a08830.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
+    [ "y2", "d7/d70/a08830.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
 ];

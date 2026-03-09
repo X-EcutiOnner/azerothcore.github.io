@@ -1,7 +1,7 @@
 var a19274 =
 [
-    [ "FilterTargets", "da/db4/a19274.html#af92aec0df6c962a10ccbebb366081cfd", null ],
-    [ "PrepareSpellScript", "da/db4/a19274.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
-    [ "Register", "da/db4/a19274.html#af59416debfc7685bec92541a00e1dafe", null ],
-    [ "Validate", "da/db4/a19274.html#abbe7ae557fb510457504f72adfa0aedc", null ]
+    [ "HandleDummy", "da/db4/a19274.html#a4bfc155129bd80c94b4b59474f30d748", null ],
+    [ "PrepareSpellScript", "da/db4/a19274.html#a9c72772f9d17b34562bd11418d67872d", null ],
+    [ "Register", "da/db4/a19274.html#a10c9f511da4eb366117d356c118408c6", null ],
+    [ "Validate", "da/db4/a19274.html#a655f2081d17c06c155641efc45efc1f8", null ]
 ];

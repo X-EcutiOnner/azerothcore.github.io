@@ -1,8 +1,9 @@
 var a10678 =
 [
-    [ "GuildEvent", "d6/df8/a10678.html#a78be16122c01d4c68d67e050ede92006", null ],
-    [ "Write", "d6/df8/a10678.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
-    [ "Guid", "d6/df8/a10678.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
-    [ "Params", "d6/df8/a10678.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
-    [ "Type", "d6/df8/a10678.html#a961ae90991fa23bfc94a054dba357392", null ]
+    [ "TransportScript", "d6/df8/a10678.html#a4b83123b122fa98831d304670a3de50a", null ],
+    [ "IsDatabaseBound", "d6/df8/a10678.html#a956f0d757e5d974566fa8fac0df731e5", null ],
+    [ "OnAddCreaturePassenger", "d6/df8/a10678.html#a5afb1f1dca2264089238ddd68b38a86d", null ],
+    [ "OnAddPassenger", "d6/df8/a10678.html#a806f4829b47429900271f6dde7eaa625", null ],
+    [ "OnRelocate", "d6/df8/a10678.html#a10334c1929c80fc80c76791cbd52f6dd", null ],
+    [ "OnRemovePassenger", "d6/df8/a10678.html#a6d6a3af4fcde46101b78cfdb787a2248", null ]
 ];

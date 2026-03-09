@@ -1,10 +1,6 @@
 var a14870 =
 [
-    [ "hyjalJainaAI", "df/db4/a14870.html#aa7532b691e85fd9bd467e20db39c59da", null ],
-    [ "IsSummonedBy", "df/db4/a14870.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
-    [ "JustDied", "df/db4/a14870.html#a605687080e5149b3f08ce8349ba9b336", null ],
-    [ "JustEngagedWith", "df/db4/a14870.html#a187efe775b1e2a35637638507e77352e", null ],
-    [ "PathEndReached", "df/db4/a14870.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
-    [ "Reset", "df/db4/a14870.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
-    [ "UpdateAI", "df/db4/a14870.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
+    [ "HandleScript", "df/db4/a14870.html#aa60824ed67ae87e96117fc5bf90bec8c", null ],
+    [ "PrepareSpellScript", "df/db4/a14870.html#aab4303fff660c68db100e07a4423c39b", null ],
+    [ "Register", "df/db4/a14870.html#a0fbc130652e58d9418cb3c5036b6aed2", null ]
 ];

@@ -1,5 +1,11 @@
 var a13058 =
 [
-    [ "boss_eramas_brightblaze", "d8/d8b/a13058.html#a14d1528750036f27948f5de8a2b44bd3", null ],
-    [ "JustEngagedWith", "d8/d8b/a13058.html#ad34613d2795f7371a43891488044392a", null ]
+    [ "boss_mr_smiteAI", "d8/d8b/a13058.html#a277e52b7086db7e6447c4ad07ff8c8a2", null ],
+    [ "JustEngagedWith", "d8/d8b/a13058.html#a3b2e5636b6c13bc243a067cacc7ab529", null ],
+    [ "MovementInform", "d8/d8b/a13058.html#ade54a8fa42cbbf9febecf1a3eee00fd3", null ],
+    [ "Reset", "d8/d8b/a13058.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108", null ],
+    [ "UpdateAI", "d8/d8b/a13058.html#aa1693c8cc5bcc60a256f5d61f81cce1a", null ],
+    [ "events", "d8/d8b/a13058.html#a3471692c39233f3c25cdc875c0078f2c", null ],
+    [ "health34", "d8/d8b/a13058.html#adc83683c2f6a7073469cd2f5aa325717", null ],
+    [ "health67", "d8/d8b/a13058.html#af30c26b46b14e9e16fe5d48d4dcf23de", null ]
 ];

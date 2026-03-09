@@ -1,10 +1,7 @@
 var a10874 =
 [
-    [ "BuyItem", "d2/d74/a10874.html#a3069d333bccadf53310ce86118b2c224", null ],
-    [ "Read", "d2/d74/a10874.html#aeeda3c4a9200cfdc3372f1a3510f453b", null ],
-    [ "Count", "d2/d74/a10874.html#a72fee9e84781ae2be25f9f15a2bb6de2", null ],
-    [ "Item", "d2/d74/a10874.html#a07c03ec8db8e498b417b7dbabb9412b3", null ],
-    [ "Slot", "d2/d74/a10874.html#a7db43e484bf82fb81ccca197c24df2d1", null ],
-    [ "Unk", "d2/d74/a10874.html#aaf2b6aefb11379325b8cf9931abff638", null ],
-    [ "VendorGuid", "d2/d74/a10874.html#aab9a5ff8f6f71a311e58e78b81ef7021", null ]
+    [ "Flags", "d2/d74/a10874.html#a46bfcae3e4788d6ea4e6ee71b8a16edd", null ],
+    [ "TabFlags", "d2/d74/a10874.html#af9c7b68d1bd48da88f65fa40a01ccc72", null ],
+    [ "TabWithdrawItemLimit", "d2/d74/a10874.html#af16392abbddf27a8b21fd21d998501e6", null ],
+    [ "WithdrawGoldLimit", "d2/d74/a10874.html#a3dc50115a24b686d3a2fa9e28a7042af", null ]
 ];

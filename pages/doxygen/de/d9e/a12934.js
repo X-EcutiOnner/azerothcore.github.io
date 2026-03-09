@@ -1,17 +1,10 @@
 var a12934 =
 [
-    [ "boss_dorothee", "de/d9e/a12934.html#a8bd5b4753c2d8f8aced0c036912f10f1", null ],
-    [ "DoAction", "de/d9e/a12934.html#a1b9cf1e58d68d249249a8b0d082b725a", null ],
-    [ "EnterEvadeMode", "de/d9e/a12934.html#a6dfc4109370d4e932e7376a443bd64ad", null ],
-    [ "JustDied", "de/d9e/a12934.html#a289dfa1f257ca25acba9487908e6223c", null ],
-    [ "JustEngagedWith", "de/d9e/a12934.html#aa35dafeb9faf8eeea55caa0eeb669db3", null ],
-    [ "JustReachedHome", "de/d9e/a12934.html#a762209d2bf78cc21c48a426732f2354e", null ],
-    [ "Reset", "de/d9e/a12934.html#ae3f123a6a9223b7928295812326b0cb4", null ],
-    [ "SummonedCreatureDies", "de/d9e/a12934.html#a0e76c828a1c7c49741963b6e98003a66", null ],
-    [ "SummonTito", "de/d9e/a12934.html#a5c04074aab40ecaeeb84b33205b40144", null ],
-    [ "UpdateAI", "de/d9e/a12934.html#a30fbcc5e7ca4ed74b9d2895b94a9a19e", null ],
-    [ "_scheduler", "de/d9e/a12934.html#a840bcbad78ff881ef3a803ffa23d3c6e", null ],
-    [ "_startIntro", "de/d9e/a12934.html#a20e6555e2117a62fce3af7f7fb7167cc", null ],
-    [ "instance", "de/d9e/a12934.html#ac6a6f1c9074697f761e4e09550cfea71", null ],
-    [ "titoDied", "de/d9e/a12934.html#a258cc9ce32f314e723d5345ac18336bf", null ]
+    [ "npc_core_ragerAI", "de/d9e/a12934.html#a3c5125e0a10043f6181c10ba749fa579", null ],
+    [ "DamageTaken", "de/d9e/a12934.html#a758eb158eb9d232d74514281028efcb3", null ],
+    [ "Reset", "de/d9e/a12934.html#acf83e469d3d8108276227a942fda28b3", null ],
+    [ "UpdateAI", "de/d9e/a12934.html#a2183cf5ab22b737413b86a657fde6d3c", null ],
+    [ "instance", "de/d9e/a12934.html#a7cfddba62f737214b8cfc7fbffa8c2e2", null ],
+    [ "mangleTimer", "de/d9e/a12934.html#a081333b967abb3812b9ddae2f933a324", null ],
+    [ "rangeCheckTimer", "de/d9e/a12934.html#ade427bdd9ec99807b6f190c890136414", null ]
 ];

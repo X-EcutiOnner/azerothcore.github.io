@@ -1,10 +1,6 @@
 var a25614 =
 [
-    [ "Load", "de/d99/a25614.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
-    [ "OnApply", "de/d99/a25614.html#a83d922c434442e22482410d61aa0198f", null ],
-    [ "OnPetApply", "de/d99/a25614.html#a6df5e59e29cb89310a1c78bf93029545", null ],
-    [ "OnRemove", "de/d99/a25614.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
-    [ "PrepareAuraScript", "de/d99/a25614.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
-    [ "Register", "de/d99/a25614.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
-    [ "Validate", "de/d99/a25614.html#ab318472ea9f4aaa79e45f18783586eed", null ]
+    [ "PrepareAuraScript", "de/d99/a25614.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
+    [ "Register", "de/d99/a25614.html#abb54f08b1932e3638537656360d3aad8", null ],
+    [ "AuraEffectHandleModes", "de/d99/a25614.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
 ];

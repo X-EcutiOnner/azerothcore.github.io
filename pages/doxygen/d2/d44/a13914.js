@@ -1,8 +1,6 @@
 var a13914 =
 [
-    [ "npc_varian_wrynnAI", "d2/d8d/a13918.html", "d2/d8d/a13918" ],
-    [ "npc_varian_wrynn", "d2/d44/a13914.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
-    [ "GetAI", "d2/d44/a13914.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
-    [ "OnGossipHello", "d2/d44/a13914.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
-    [ "OnGossipSelect", "d2/d44/a13914.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
+    [ "HandlePeriodic", "d2/d44/a13914.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
+    [ "PrepareAuraScript", "d2/d44/a13914.html#a2722b97e12e9371745d7f38504d9efdf", null ],
+    [ "Register", "d2/d44/a13914.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
 ];

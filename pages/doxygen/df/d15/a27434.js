@@ -1,5 +1,8 @@
 var a27434 =
 [
-    [ "go_ethereum_prison", "df/d15/a27434.html#a1872dab11a8470194ab35f87e217aa8a", null ],
-    [ "OnGossipHello", "df/d15/a27434.html#a73479b0512ea778336fad4bd5cd9b909", null ]
+    [ "FilterTargets", "df/d15/a27434.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
+    [ "HandleDummy", "df/d15/a27434.html#a2214b10da042a3af2fd3311872cc5286", null ],
+    [ "PrepareSpellScript", "df/d15/a27434.html#a9959966856601f79a83931a7a7ecff91", null ],
+    [ "Register", "df/d15/a27434.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
+    [ "Validate", "df/d15/a27434.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
 ];

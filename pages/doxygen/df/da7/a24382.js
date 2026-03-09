@@ -1,5 +1,7 @@
 var a24382 =
 [
-    [ "npc_karynaku", "df/da7/a24382.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
-    [ "OnQuestAccept", "df/da7/a24382.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
+    [ "npc_pet_gen_target_following_bomb", "df/da7/a24382.html#a447c2cd258d784ca1d79c79412a1a426", null ],
+    [ "UpdateAI", "df/da7/a24382.html#ac68f18d68a313623c04e885f9506f287", null ],
+    [ "bombSpellId", "df/da7/a24382.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
+    [ "checkTimer", "df/da7/a24382.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
 ];

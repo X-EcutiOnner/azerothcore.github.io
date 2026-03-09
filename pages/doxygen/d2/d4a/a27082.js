@@ -1,7 +1,5 @@
 var a27082 =
 [
-    [ "HandleRemove", "d2/d4a/a27082.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
-    [ "PrepareAuraScript", "d2/d4a/a27082.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
-    [ "Register", "d2/d4a/a27082.html#a338ee9c0eddd309ce2a791160059bad6", null ],
-    [ "Validate", "d2/d4a/a27082.html#ae8272b65a070fc959af003f701567c3c", null ]
+    [ "spell_q55_sacred_cleansing", "d2/d4a/a27082.html#a4aa8a16350a7a55706841471fd985ca2", null ],
+    [ "GetSpellScript", "d2/d4a/a27082.html#a50a8f2d777169aaeef88533b66b88fb2", null ]
 ];

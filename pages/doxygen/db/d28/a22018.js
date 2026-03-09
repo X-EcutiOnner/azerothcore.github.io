@@ -1,6 +1,8 @@
 var a22018 =
 [
-    [ "npc_q24545_vegardAI", "d2/dab/a22022.html", "d2/dab/a22022" ],
-    [ "npc_q24545_vegard", "db/d28/a22018.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
-    [ "GetAI", "db/d28/a22018.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
+    [ "AfterApply", "db/d28/a22018.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
+    [ "AfterRemove", "db/d28/a22018.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
+    [ "PrepareAuraScript", "db/d28/a22018.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
+    [ "Register", "db/d28/a22018.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
+    [ "Validate", "db/d28/a22018.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
 ];

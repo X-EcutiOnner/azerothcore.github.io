@@ -1,7 +1,13 @@
 var a17602 =
 [
-    [ "achievement_once_bitten_twice_shy", "d8/dd6/a17602.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
-    [ "OnCheck", "d8/dd6/a17602.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
-    [ "_spawnMode", "d8/dd6/a17602.html#a6f02f5ab07143ddff553279049714902", null ],
-    [ "_wasVampire", "d8/dd6/a17602.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
+    [ "npc_pos_martin_or_gorkun_secondAI", "d8/dd6/a17602.html#a2b8f5479565297c95ecdc4882e7d27ae", null ],
+    [ "DoAction", "d8/dd6/a17602.html#aa1df5c0f5612a9fc9a4e78fb901dc8e7", null ],
+    [ "JustSummoned", "d8/dd6/a17602.html#acdfc5d370da977ab69752016368cc9b0", null ],
+    [ "MovementInform", "d8/dd6/a17602.html#a95c033e4e2ca224be09ce993f4e7996d", null ],
+    [ "SummonedCreatureDespawn", "d8/dd6/a17602.html#af31de5c7f901baf4d8c62964fee8ead8", null ],
+    [ "UpdateAI", "d8/dd6/a17602.html#ad22fbcd52404c1e9c1fc71f3bc6b7525", null ],
+    [ "events", "d8/dd6/a17602.html#a44045ae5151625a4d7aacb69e9c934e5", null ],
+    [ "i", "d8/dd6/a17602.html#aa185914ee8a2352e4d233f1fc4800390", null ],
+    [ "pInstance", "d8/dd6/a17602.html#ac38febd0bce9338346d0c1aa6ba50de3", null ],
+    [ "summons", "d8/dd6/a17602.html#ad0f2097f168ea5983e3eece24cb82bfa", null ]
 ];

@@ -1,8 +1,7 @@
 var a14958 =
 [
-    [ "npc_arthasAI", "d4/dcc/a14962.html", "d4/dcc/a14962" ],
-    [ "npc_arthas", "d5/dac/a14958.html#a87c280ff9861187b0a713f795e657266", null ],
-    [ "GetAI", "d5/dac/a14958.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
-    [ "OnGossipHello", "d5/dac/a14958.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
-    [ "OnGossipSelect", "d5/dac/a14958.html#aeca2f4baa3c943281c676c6498393165", null ]
+    [ "HandleScript", "d5/dac/a14958.html#a78899a874a645d531dd4d89f2bd5478a", null ],
+    [ "PrepareSpellScript", "d5/dac/a14958.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
+    [ "Register", "d5/dac/a14958.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
+    [ "Validate", "d5/dac/a14958.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
 ];

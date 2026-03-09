@@ -1,7 +1,5 @@
 var a18458 =
 [
-    [ "CheckTargetCount", "d8/d24/a18458.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
-    [ "PrepareSpellScript", "d8/d24/a18458.html#abd32198867e7f01b21b7de6224a597d4", null ],
-    [ "Register", "d8/d24/a18458.html#a671bede7fbc68085cd6075f412822869", null ],
-    [ "Validate", "d8/d24/a18458.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
+    [ "RotfaceHeightCheck", "d8/d24/a18458.html#aabdeaee465989c339fc7a3f186e20498", null ],
+    [ "operator()", "d8/d24/a18458.html#a585743e0e76c64a5caa37acab46d04d5", null ]
 ];

@@ -1,6 +1,8 @@
 var a19110 =
 [
-    [ "npc_four_car_garageAI", "d4/d8e/a19110.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
-    [ "JustDied", "d4/d8e/a19110.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
-    [ "PassengerBoarded", "d4/d8e/a19110.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
+    [ "npc_rotting_frost_giantAI", "d4/d8e/a19110.html#a7b412075e17a81bf50aba63f96c16e53", null ],
+    [ "JustDied", "d4/d8e/a19110.html#a68b4e823de82fdfd31ccf765192e8768", null ],
+    [ "Reset", "d4/d8e/a19110.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
+    [ "UpdateAI", "d4/d8e/a19110.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
+    [ "_events", "d4/d8e/a19110.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
 ];

@@ -1,10 +1,22 @@
 var a09958 =
 [
-    [ "ID", "dd/dbc/a09958.html#a3bd2bf63526b6ee4a15cf7a2244ff06b", null ],
-    [ "Map", "dd/dbc/a09958.html#af4e60380e8434e5b8f573d2172ddf656", null ],
-    [ "name", "dd/dbc/a09958.html#ae1dd7ba1294653756ea4af9d9b66fa2c", null ],
-    [ "wnameLow", "dd/dbc/a09958.html#a148ead3270ad02213204792d6063cead", null ],
-    [ "x", "dd/dbc/a09958.html#ae8f23fc9e53f6357d56b3a25ed514330", null ],
-    [ "y", "dd/dbc/a09958.html#af2e239c4c76dff49090f8f1d8eb4d455", null ],
-    [ "z", "dd/dbc/a09958.html#adf56d09898752230a4fa1629849ac945", null ]
+    [ "LootGroup", "dd/dbc/a09958.html#a66528563891f68cc71cf2e82c0c55f78", null ],
+    [ "~LootGroup", "dd/dbc/a09958.html#a8e99105a3db65b4f8afcf032ce3bb33f", null ],
+    [ "LootGroup", "dd/dbc/a09958.html#a0bf71d71cb78e1e8864feac535adf100", null ],
+    [ "AddEntry", "dd/dbc/a09958.html#a6724f160613257f2d48c0e675a372c48", null ],
+    [ "CheckLootRefs", "dd/dbc/a09958.html#ac7690d157243edebe340baf2e274546f", null ],
+    [ "CollectLootIds", "dd/dbc/a09958.html#a41a24435f67bcf4fa8bf8447b5d4d9ba", null ],
+    [ "CopyConditions", "dd/dbc/a09958.html#a55a98102081eca760af46fe2158ad6e4", null ],
+    [ "GetEqualChancedItemList", "dd/dbc/a09958.html#a273b39ba11c62186f6b49f9eadf512c6", null ],
+    [ "GetExplicitlyChancedItemList", "dd/dbc/a09958.html#a5654d18106376d9fb168dfd8e27f1355", null ],
+    [ "HasQuestDrop", "dd/dbc/a09958.html#adee692736847d987093655aac3f23be8", null ],
+    [ "HasQuestDropForPlayer", "dd/dbc/a09958.html#a0cc5c4a880c400b432d2ac0c482430ed", null ],
+    [ "operator=", "dd/dbc/a09958.html#a7ca1a5e58a5e78430209e1207b732265", null ],
+    [ "Process", "dd/dbc/a09958.html#a0f9d7b304045ed812b6203376dc442db", null ],
+    [ "RawTotalChance", "dd/dbc/a09958.html#a5a4dfbbfaf6c6f87217c124f387d7951", null ],
+    [ "Roll", "dd/dbc/a09958.html#a77483c54ae8cb9747726bfa0e7d7225f", null ],
+    [ "TotalChance", "dd/dbc/a09958.html#ab306f81dc00d214e0ec8ac3903eff42e", null ],
+    [ "Verify", "dd/dbc/a09958.html#a5486b1c43c6af31681d5c442957d5cf1", null ],
+    [ "EqualChanced", "dd/dbc/a09958.html#a517a0800528f49cdb3202ff5bcf5280d", null ],
+    [ "ExplicitlyChanced", "dd/dbc/a09958.html#a18c4cf84cf4c6f02a66ba45fa2978f49", null ]
 ];

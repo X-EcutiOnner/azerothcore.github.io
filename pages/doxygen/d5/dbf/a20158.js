@@ -1,7 +1,6 @@
 var a20158 =
 [
-    [ "HandleScript", "d5/dbf/a20158.html#a9580f04e1543262026818f0944bb96c3", null ],
-    [ "PrepareSpellScript", "d5/dbf/a20158.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
-    [ "Register", "d5/dbf/a20158.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
-    [ "Validate", "d5/dbf/a20158.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
+    [ "PrepareSpellScript", "d5/dbf/a20158.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
+    [ "RecalculateDamage", "d5/dbf/a20158.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
+    [ "Register", "d5/dbf/a20158.html#aac131aa2d2e5342cf0303b918a077b45", null ]
 ];

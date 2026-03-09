@@ -1,9 +1,8 @@
 var a05346 =
 [
-    [ "Count", "d5/d30/a05346.html#a05f606f459c905632d1452727bc93a0d", null ],
-    [ "GetElements", "d5/d30/a05346.html#a260f2bd14ae022a5810539ba87cec51e", null ],
-    [ "GetElements", "d5/d30/a05346.html#ae04b24e63268c7b60bea36beec148a8a", null ],
-    [ "Insert", "d5/d30/a05346.html#a791a9c0d1c878323960e529e0c7b66c8", null ],
-    [ "Remove", "d5/d30/a05346.html#abfb5e987b1c711d259896708887ca6d7", null ],
-    [ "i_elements", "d5/d30/a05346.html#a095f3a1caf74ca4e9e12ecca538a0cc4", null ]
+    [ "ComputeCell", "d5/d30/a05346.html#a32a8b5ab15a28fb06672fcf62ac63d1e", null ],
+    [ "isValid", "d5/d30/a05346.html#afe64d87e738675f1c8cb0fa6d440029c", null ],
+    [ "operator==", "d5/d30/a05346.html#a13e8b2fcda561f185777e4d8b48da3f5", null ],
+    [ "x", "d5/d30/a05346.html#a8435f7d7b8f529dfe397ada59e3405a1", null ],
+    [ "y", "d5/d30/a05346.html#af3d5ae020727d58286ef7725958063a9", null ]
 ];

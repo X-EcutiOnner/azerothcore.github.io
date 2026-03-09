@@ -1,6 +1,7 @@
 var a16550 =
 [
-    [ "npc_nerubian_burrowerAI", "de/dec/a16554.html", "de/dec/a16554" ],
-    [ "npc_nerubian_burrower", "d9/dea/a16550.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
-    [ "GetAI", "d9/dea/a16550.html#a145ebac6f95f9190429b9bfa37e23312", null ]
+    [ "CheckDistance", "d9/dea/a16550.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
+    [ "PrepareSpellScript", "d9/dea/a16550.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
+    [ "Register", "d9/dea/a16550.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
+    [ "Validate", "d9/dea/a16550.html#aa5d7a420154b156ca24e73de2faf912a", null ]
 ];

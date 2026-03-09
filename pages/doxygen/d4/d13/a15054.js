@@ -1,6 +1,7 @@
 var a15054 =
 [
-    [ "NpcRunToHome", "d4/d13/a15054.html#ac190e89b494554e391e6ebd878d7f8e8", null ],
-    [ "Execute", "d4/d13/a15054.html#a0da766e3bae0d8d97a46ef82b3873cc0", null ],
-    [ "_owner", "d4/d13/a15054.html#a7dd38171a6e55665fc28a74212313e51", null ]
+    [ "GetVisualThrow", "d4/d13/a15054.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
+    [ "HandleDummy", "d4/d13/a15054.html#adca1aacf89dcf452f1c98cae97f09690", null ],
+    [ "PrepareSpellScript", "d4/d13/a15054.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
+    [ "Register", "d4/d13/a15054.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
 ];

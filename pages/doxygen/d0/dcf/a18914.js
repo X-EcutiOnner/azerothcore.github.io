@@ -1,6 +1,6 @@
 var a18914 =
 [
-    [ "PrepareSpellScript", "d0/dcf/a18914.html#aac12da39c503615036120e3e0cd55622", null ],
-    [ "Register", "d0/dcf/a18914.html#a808d2283be9714c14f22a2df0a52dd61", null ],
-    [ "RelocateDest", "d0/dcf/a18914.html#a843c9dc403404ddd2de667e57e01f00c", null ]
+    [ "HandleScript", "d0/dcf/a18914.html#a910663e3fb2534c0e3aefcfd0adfe2fb", null ],
+    [ "PrepareSpellScript", "d0/dcf/a18914.html#a2c6acef52962f606130d643cbd93104b", null ],
+    [ "Register", "d0/dcf/a18914.html#a03ed4f257c313ba33361c16f313fdfcc", null ]
 ];

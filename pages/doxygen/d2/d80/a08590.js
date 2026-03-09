@@ -1,6 +1,6 @@
 var a08590 =
 [
-    [ "PlayerClassLevelInfo", "d2/d80/a08590.html#a60153094e3179bfc6c028d2b76775805", null ],
-    [ "basehealth", "d2/d80/a08590.html#a034ae3d2b5b14ce454710ca8f92ffee0", null ],
-    [ "basemana", "d2/d80/a08590.html#a939a8d8739a553c919d84e399ce17d22", null ]
+    [ "item_count", "d2/d80/a08590.html#a437fe00f34ad414e3c9f81d01a153d13", null ],
+    [ "setid", "d2/d80/a08590.html#ab8c24b76b1c0eb92c0fe52ca9baf293a", null ],
+    [ "spells", "d2/d80/a08590.html#af8156bad9771ed816fd861d3eb992aaa", null ]
 ];

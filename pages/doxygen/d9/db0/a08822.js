@@ -1,13 +1,10 @@
 var a08822 =
 [
-    [ "MMapTargetData", "d9/db0/a08822.html#a33cc430ea3c4b5dd4012a16914dc8aeb", null ],
-    [ "MMapTargetData", "d9/db0/a08822.html#a8312ea3187617e78b28aab842a8284cc", null ],
-    [ "MMapTargetData", "d9/db0/a08822.html#a4108ff5fbbf7c468ff7d90ac7beea4fa", null ],
-    [ "MMapTargetData", "d9/db0/a08822.html#a3547f93af46826a051f1164ac1fc9ccc", null ],
-    [ "operator=", "d9/db0/a08822.html#a4053689f5f675cf1a621dfb39211b3cc", null ],
-    [ "operator=", "d9/db0/a08822.html#a130fe2b359f583acab99c51eb9d0b1ad", null ],
-    [ "PosChanged", "d9/db0/a08822.html#ade55876b7781b47a72dac9fea1f2e420", null ],
-    [ "_endTime", "d9/db0/a08822.html#a5506c303d668bbead180fe2a8c2ed48e", null ],
-    [ "_posOwner", "d9/db0/a08822.html#aeaf1e739388ab834e8c845fa366bbfd3", null ],
-    [ "_posTarget", "d9/db0/a08822.html#a7f089d873690e8ea549f6345b6598fc4", null ]
+    [ "PvPInfo", "d9/db0/a08822.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
+    [ "EndTimer", "d9/db0/a08822.html#ae06b5030552c02f30fe8386633a753df", null ],
+    [ "FFAPvPEndTimer", "d9/db0/a08822.html#a739dfc63dfe39429a44ea682d9120522", null ],
+    [ "IsHostile", "d9/db0/a08822.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
+    [ "IsInFFAPvPArea", "d9/db0/a08822.html#a8a654926248b3974587af1eb9c064d15", null ],
+    [ "IsInHostileArea", "d9/db0/a08822.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
+    [ "IsInNoPvPArea", "d9/db0/a08822.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
 ];

@@ -1,5 +1,6 @@
 var a14178 =
 [
-    [ "at_zulgurub_entrance_speech", "d7/d1e/a14178.html#afef11c6a7e97befd07072826fa13be55", null ],
-    [ "_OnTrigger", "d7/d1e/a14178.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
+    [ "npc_lord_gregor_lescovarAI", "dd/dfe/a14182.html", "dd/dfe/a14182" ],
+    [ "npc_lord_gregor_lescovar", "d7/d1e/a14178.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
+    [ "GetAI", "d7/d1e/a14178.html#a4cf39729bb687c7db3538575a799283e", null ]
 ];

@@ -1,5 +1,6 @@
 var a28246 =
 [
-    [ "ID", "dc/d64/a28246.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
-    [ "price", "dc/d64/a28246.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
+    [ "go_gilded_brazierAI", "d1/daa/a28250.html", "d1/daa/a28250" ],
+    [ "go_gilded_brazier", "dc/d64/a28246.html#a778c753a8432131601371da8849ef004", null ],
+    [ "GetAI", "dc/d64/a28246.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
 ];

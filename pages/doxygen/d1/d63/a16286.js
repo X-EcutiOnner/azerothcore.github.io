@@ -1,14 +1,22 @@
 var a16286 =
 [
-    [ "npc_halion_controllerAI", "d1/d63/a16286.html#aabe03dbe5652db6687e7f2857ea33a20", null ],
-    [ "DoAction", "d1/d63/a16286.html#a8d295797e21c03e7d2c3d504c40ba128", null ],
-    [ "Reset", "d1/d63/a16286.html#a3004aecb50815287d5f832f2a8a0d250", null ],
-    [ "SetData", "d1/d63/a16286.html#a3ce9a62d3e44b3ccc279803d5ef87a47", null ],
-    [ "UpdateAI", "d1/d63/a16286.html#ac3ad9df40560ba8acfcd7fbabd303fde", null ],
-    [ "UpdateCorporeality", "d1/d63/a16286.html#ac82987f2b2b069b90c509c477004bae6", null ],
-    [ "_corporeality", "d1/d63/a16286.html#a4c23df1bb774ac724bdf537453592671", null ],
-    [ "_events", "d1/d63/a16286.html#a92e3f116260265a2d0dbeef769eee03e", null ],
-    [ "_instance", "d1/d63/a16286.html#a5cce2f56e6ef0b4baeb6f2f7dbfd2f73", null ],
-    [ "_materialDamage", "d1/d63/a16286.html#afcc510b0d4be10ed057d1a304b803b69", null ],
-    [ "_twilightDamage", "d1/d63/a16286.html#a13a9efcb11ed31725c45011508407287", null ]
+    [ "npc_sergeant_blyAI", "d1/d63/a16286.html#a216f8b75707e25698619786b87500461", null ],
+    [ "DoAction", "d1/d63/a16286.html#a4fb20172c48257aafe284b3934a9c357", null ],
+    [ "EnterEvadeMode", "d1/d63/a16286.html#a2844efbb2f213401f83ab042f974974a", null ],
+    [ "InitializeAI", "d1/d63/a16286.html#ae3abcf75a666c5bd722ca060fca4a12c", null ],
+    [ "MovementInform", "d1/d63/a16286.html#acf32d74b4f0454f01f7313df6b35c4d3", null ],
+    [ "Reset", "d1/d63/a16286.html#a2991ad4ecd6b236d7002c3dddd540b00", null ],
+    [ "sGossipHello", "d1/d63/a16286.html#a342c8b5bd49e8cfd94c41a58159e4f5c", null ],
+    [ "sGossipSelect", "d1/d63/a16286.html#a9df8eeb695736b2a182c38a69840e99f", null ],
+    [ "switchFactionIfAlive", "d1/d63/a16286.html#a89cbd29300ca07b3366a197a7549edab", null ],
+    [ "UpdateAI", "d1/d63/a16286.html#afdcbd6c79fb31d888c5b903deb04ad9d", null ],
+    [ "ableToPortHome", "d1/d63/a16286.html#aa223fcf402ed5d99ea88275b357f398c", null ],
+    [ "instance", "d1/d63/a16286.html#acf42a824739dd69d64c3b1e3eff6a944", null ],
+    [ "PlayerGUID", "d1/d63/a16286.html#a188e306a05afa5f25271d17b4385b623", null ],
+    [ "Porthome_Timer", "d1/d63/a16286.html#aeb17b772324aa2d985606659a2aee895", null ],
+    [ "postGossipStep", "d1/d63/a16286.html#aca6869f05555499b210c09889d3f6684", null ],
+    [ "Revenge_Timer", "d1/d63/a16286.html#af6263dbfa9e4cbc6f7812a10894f3dd2", null ],
+    [ "ShieldBash_Timer", "d1/d63/a16286.html#a5ed567ac16bef8f53a66a12fbaf4573e", null ],
+    [ "startedFight", "d1/d63/a16286.html#a7a037981d3d2a37abf0d3995283ac218", null ],
+    [ "Text_Timer", "d1/d63/a16286.html#a97edb216194b16d273fe6098fdaba51e", null ]
 ];

@@ -1,6 +1,8 @@
 var a15938 =
 [
-    [ "instance_zulfarrak_InstanceMapScript", "db/d73/a15942.html", "db/d73/a15942" ],
-    [ "instance_zulfarrak", "d0/d29/a15938.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
-    [ "GetInstanceScript", "d0/d29/a15938.html#a5f092341e49848c9d321452be2193d56", null ]
+    [ "npc_aged_dying_ancient_kodo", "d0/d29/a15938.html#a8707efb78e29b5a3443b0f4d9ee1798b", null ],
+    [ "JustRespawned", "d0/d29/a15938.html#ab401f9002bd49b26cc0526112e715d1e", null ],
+    [ "MoveInLineOfSight", "d0/d29/a15938.html#a2bed1b0965414682dec6f6e4b2872d33", null ],
+    [ "OnGossipHello", "d0/d29/a15938.html#a760b1c45119893fc7e792139b2e9d948", null ],
+    [ "SpellHit", "d0/d29/a15938.html#a24a0324d7a6bd4d05da76469b14720ac", null ]
 ];

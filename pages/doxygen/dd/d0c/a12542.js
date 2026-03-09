@@ -1,7 +1,11 @@
 var a12542 =
 [
-    [ "HandleRemove", "dd/d0c/a12542.html#a754b44b62c131e20e1be94b3407e2006", null ],
-    [ "PrepareAuraScript", "dd/d0c/a12542.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
-    [ "Register", "dd/d0c/a12542.html#a02cd375ec140f7614104b7e56df13430", null ],
-    [ "Validate", "dd/d0c/a12542.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
+    [ "boss_gythAI", "dd/d0c/a12542.html#aeec049af24b3a6f94051f1008ce107e6", null ],
+    [ "EnterEvadeMode", "dd/d0c/a12542.html#a20296c618ad366d7ac956f16671cc408", null ],
+    [ "IsSummonedBy", "dd/d0c/a12542.html#a6800421a2e9e889e649e792ee642d8ac", null ],
+    [ "JustDied", "dd/d0c/a12542.html#a979da1f3922d9575b6c237b85952fb6c", null ],
+    [ "JustEngagedWith", "dd/d0c/a12542.html#a6c0ca15d87851c205d94679ea65e5193", null ],
+    [ "JustSummoned", "dd/d0c/a12542.html#ab9024ce261129c82d4304d2a13834a5f", null ],
+    [ "Reset", "dd/d0c/a12542.html#aa3c86b403af5394a4e4cb30781bcb46b", null ],
+    [ "UpdateAI", "dd/d0c/a12542.html#a66f27f6d49b40dcc2894f177b281570f", null ]
 ];

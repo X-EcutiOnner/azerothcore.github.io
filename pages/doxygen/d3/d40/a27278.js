@@ -1,5 +1,6 @@
 var a27278 =
 [
-    [ "achievement_tilted", "d3/d40/a27278.html#a868d7b8a437434d6dc34b5000c429e66", null ],
-    [ "OnCheck", "d3/d40/a27278.html#a61d3eb78450383485699532d96f79d93", null ]
+    [ "HandleScript", "d3/d40/a27278.html#a54c724bd8786c894ecaa584c164c2e53", null ],
+    [ "PrepareSpellScript", "d3/d40/a27278.html#a4505b9196609ae9339fe7e5948963663", null ],
+    [ "Register", "d3/d40/a27278.html#ae293d6a2a477f716f357516781246069", null ]
 ];

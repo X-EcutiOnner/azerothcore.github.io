@@ -1,10 +1,5 @@
 var a28718 =
 [
-    [ "area_id", "db/d08/a28718.html#acbd77950bf9548d266e568640cf38458", null ],
-    [ "map_id", "db/d08/a28718.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
-    [ "virtual_map_id", "db/d08/a28718.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
-    [ "x1", "db/d08/a28718.html#a78967fef40841f705c2564a177cb36f3", null ],
-    [ "x2", "db/d08/a28718.html#a037dca812715df0b4f2551f8684b537c", null ],
-    [ "y1", "db/d08/a28718.html#a7f90073656e1cd00a88add9f8d881d11", null ],
-    [ "y2", "db/d08/a28718.html#ad8e0164952e5565488d5443f269ec79e", null ]
+    [ "npc_sunwell_gate", "db/d08/a28718.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
+    [ "OnQuestReward", "db/d08/a28718.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
 ];

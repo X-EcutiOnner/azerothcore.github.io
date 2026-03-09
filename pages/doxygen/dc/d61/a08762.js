@@ -1,11 +1,19 @@
 var a08762 =
 [
-    [ "DispelInfo", "dc/d61/a08762.html#ab6e88e6fc168d22a8b31754a9b1bf2e5", null ],
-    [ "GetDispeller", "dc/d61/a08762.html#a1c6f02de66ffa847c09d19922b02bc20", null ],
-    [ "GetDispellerSpellId", "dc/d61/a08762.html#a0d09f205ff9374fddc694a66ccf0c31d", null ],
-    [ "GetRemovedCharges", "dc/d61/a08762.html#a9c0bd34ebe7d0a0839b7bdee31ef3f3d", null ],
-    [ "SetRemovedCharges", "dc/d61/a08762.html#a3c249e2b70b9f4d8bb3bd9fed07a1bd7", null ],
-    [ "_chargesRemoved", "dc/d61/a08762.html#a5b6105f37470acb57bbda3e14ee664be", null ],
-    [ "_dispellerSpell", "dc/d61/a08762.html#a484e6d516c5de30413e97f2c4abb5515", null ],
-    [ "_dispellerUnit", "dc/d61/a08762.html#ab14d6e0df8bbb89ef0d3550724209040", null ]
+    [ "PetInfo", "dc/d61/a08762.html#a1bee56222719503aef508dd3f2ddd2f1", null ],
+    [ "ActionBar", "dc/d61/a08762.html#affe10e9845d23f597df23ed271d91039", null ],
+    [ "CreatedBySpellId", "dc/d61/a08762.html#a40d2f28579271de9b1533b5d412fecbb", null ],
+    [ "CreatureId", "dc/d61/a08762.html#a879009caeaa61fdef801db178599197e", null ],
+    [ "DisplayId", "dc/d61/a08762.html#ab7128ea7655961abfb3f8f074006bc7c", null ],
+    [ "Experience", "dc/d61/a08762.html#aee5536e251e20d8f4ee293f7f5eab2d3", null ],
+    [ "Happiness", "dc/d61/a08762.html#a39ee3606989e65fc284a6701482c2aa9", null ],
+    [ "Health", "dc/d61/a08762.html#a5e0835afbf2f396e8030236484984628", null ],
+    [ "LastSaveTime", "dc/d61/a08762.html#afafdbe4176d1bf26ab5022ab2d219ed6", null ],
+    [ "Level", "dc/d61/a08762.html#aabcf03700a0207df9086a6f7a354a7b9", null ],
+    [ "Mana", "dc/d61/a08762.html#a25a72a18fd6e38dea4db6ff8d3942423", null ],
+    [ "Name", "dc/d61/a08762.html#adb037d9f6d2606baa469c5c63385476a", null ],
+    [ "PetNumber", "dc/d61/a08762.html#af57645f36ae45c0045abe991419b797d", null ],
+    [ "ReactState", "dc/d61/a08762.html#ad7cd098ff265de389412626fad6d6d6f", null ],
+    [ "Type", "dc/d61/a08762.html#ae8fa5344688bb4bf34b806f9b67ef32c", null ],
+    [ "WasRenamed", "dc/d61/a08762.html#a98827cf01b6f610692fe4295582ead34", null ]
 ];

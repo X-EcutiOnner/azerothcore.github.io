@@ -1,9 +1,11 @@
 var a10846 =
 [
-    [ "SwapItem", "d5/d56/a10846.html#a603871bfd69a2bcc2083de350f48875a", null ],
-    [ "Read", "d5/d56/a10846.html#a475122a155c96446ecad1b92ef5c7a19", null ],
-    [ "DestinationBag", "d5/d56/a10846.html#a30a5a1fccf9c028fa207e58dd0ff82b6", null ],
-    [ "DestinationSlot", "d5/d56/a10846.html#a0cf0b21ebfccb843ee23831e17982081", null ],
-    [ "SourceBag", "d5/d56/a10846.html#a19d0895bf7a25da8d8bdaceed14ff0a1", null ],
-    [ "SourceSlot", "d5/d56/a10846.html#ab080d55f63eb07c8db090123260bee23", null ]
+    [ "BackgroundColor", "d5/d56/a10846.html#abab86dd497de86088873178bf1d54b5b", null ],
+    [ "BorderColor", "d5/d56/a10846.html#abb2489b9be8a0d4a20d209d6293d7d46", null ],
+    [ "BorderStyle", "d5/d56/a10846.html#acd5105c31e0f56e680f3384e86186872", null ],
+    [ "EmblemColor", "d5/d56/a10846.html#a2e8a4768292d3566bb61009056a8a230", null ],
+    [ "EmblemStyle", "d5/d56/a10846.html#aa6309467f9f09725a8698de864b4e63c", null ],
+    [ "GuildName", "d5/d56/a10846.html#a74d4e1690c07a647c97ca2225e8488dd", null ],
+    [ "RankCount", "d5/d56/a10846.html#acddb77850a86348df197afc724c4eaa0", null ],
+    [ "Ranks", "d5/d56/a10846.html#aec9fd9a1a3bfa040375193027b32cf24", null ]
 ];

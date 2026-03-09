@@ -1,6 +1,6 @@
 var a21518 =
 [
-    [ "boss_lavanthorAI", "df/d27/a21522.html", "df/d27/a21522" ],
-    [ "boss_lavanthor", "d9/dbb/a21518.html#aa935ffe07f59db59b9b8484f22927026", null ],
-    [ "GetAI", "d9/dbb/a21518.html#aae09ecbe56efac6538bdfb6120e0be40", null ]
+    [ "npc_violet_hold_defense_system", "d9/dbb/a21518.html#abb5eb275e803201aad3010ad77aa4b41", null ],
+    [ "Reset", "d9/dbb/a21518.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
+    [ "UpdateAI", "d9/dbb/a21518.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ]
 ];

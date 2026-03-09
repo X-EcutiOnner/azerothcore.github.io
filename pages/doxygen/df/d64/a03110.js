@@ -1,23 +1,6 @@
 var a03110 =
 [
-    [ "instance_black_temple", "d3/d15/a22976.html", "d3/d15/a22976" ],
-    [ "instance_black_temple::instance_black_temple_InstanceMapScript", "d7/d88/a22980.html", "d7/d88/a22980" ],
-    [ "spell_black_template_harpooners_mark_aura", "dd/df7/a22984.html", "dd/df7/a22984" ],
-    [ "spell_black_template_free_friend", "d0/d98/a22988.html", "d0/d98/a22988" ],
-    [ "spell_black_temple_curse_of_the_bleakheart_aura", "db/dca/a22992.html", "db/dca/a22992" ],
-    [ "spell_black_temple_skeleton_shot_aura", "d7/d4b/a22996.html", "d7/d4b/a22996" ],
-    [ "spell_black_temple_wyvern_sting_aura", "d0/d90/a23000.html", "d0/d90/a23000" ],
-    [ "spell_black_temple_charge_rage_aura", "d3/d46/a23004.html", "d3/d46/a23004" ],
-    [ "spell_black_temple_shadow_inferno_aura", "d6/da9/a23008.html", "d6/da9/a23008" ],
-    [ "spell_black_temple_spell_absorption_aura", "d5/d5e/a23012.html", "d5/d5e/a23012" ],
-    [ "spell_black_temple_bloodbolt", "d3/db2/a23016.html", "d3/db2/a23016" ],
-    [ "spell_black_temple_consuming_strikes_aura", "d2/d9f/a23020.html", "d2/d9f/a23020" ],
-    [ "spell_black_temple_curse_of_vitality_aura", "d1/d32/a23024.html", "d1/d32/a23024" ],
-    [ "spell_black_temple_summon_shadowfiends", "dc/d84/a23028.html", "dc/d84/a23028" ],
-    [ "spell_black_temple_l5_arcane_charge", "db/df7/a23032.html", "db/df7/a23032" ],
-    [ "AddSC_instance_black_temple", "df/d64/a03110.html#a15f766c45ce62741982e2a1711514aa8", null ],
-    [ "boundaries", "df/d64/a03110.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "df/d64/a03110.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "df/d64/a03110.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "summonData", "df/d64/a03110.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
+    [ "instance_ragefire_chasm", "d6/dfd/a15438.html", "d6/dfd/a15438" ],
+    [ "instance_ragefire_chasm::instance_ragefire_chasm_InstanceMapScript", "db/d8e/a15442.html", "db/d8e/a15442" ],
+    [ "AddSC_instance_ragefire_chasm", "df/d64/a03110.html#ace0e54ffe3a81b932d5ce1977698f5ac", null ]
 ];

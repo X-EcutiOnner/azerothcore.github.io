@@ -1,8 +1,6 @@
 var a21618 =
 [
-    [ "npc_azure_raiderAI", "dd/dbe/a21618.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
-    [ "Reset", "dd/dbe/a21618.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
-    [ "UpdateAI", "dd/dbe/a21618.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
-    [ "uiConcussionBlowTimer", "dd/dbe/a21618.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
-    [ "uiMagicReflectionTimer", "dd/dbe/a21618.html#acb262ab506ea58201abfe2057525c548", null ]
+    [ "HandleEffect", "dd/dbe/a21618.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
+    [ "PrepareSpellScript", "dd/dbe/a21618.html#aec199e9f9651267fac88bd86be326bb4", null ],
+    [ "Register", "dd/dbe/a21618.html#a14bd854db86750704c8377d457dea360", null ]
 ];

@@ -1,7 +1,6 @@
 var a19678 =
 [
-    [ "HandleOnEffectApply", "da/dcc/a19678.html#a4841f7a44f5df964c4eb9965383fd747", null ],
-    [ "PrepareAuraScript", "da/dcc/a19678.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
-    [ "Register", "da/dcc/a19678.html#a68fba646552678744f49d10b59704a35", null ],
-    [ "Validate", "da/dcc/a19678.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
+    [ "boss_thaddius_summonAI", "df/ddb/a19682.html", "df/ddb/a19682" ],
+    [ "boss_thaddius_summon", "da/dcc/a19678.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
+    [ "GetAI", "da/dcc/a19678.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
 ];

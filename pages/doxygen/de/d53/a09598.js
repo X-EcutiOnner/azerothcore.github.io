@@ -1,12 +1,8 @@
 var a09598 =
 [
-    [ "LogEntry", "de/d53/a09598.html#af61604a7dc0cc4da315a09fa5b207f37", null ],
-    [ "LogEntry", "de/d53/a09598.html#aba3f6f501c59e356166abe71082c421b", null ],
-    [ "~LogEntry", "de/d53/a09598.html#a3c66b8a7be1800c5a9e1dc15aab6d3e9", null ],
-    [ "GetGUID", "de/d53/a09598.html#a7af4eac577f8da07540f81e185b2ad49", null ],
-    [ "GetTimestamp", "de/d53/a09598.html#a643c92439463707671bb08b72bf3a447", null ],
-    [ "SaveToDB", "de/d53/a09598.html#a1c00aa88973423a1c112c2776a14e78f", null ],
-    [ "m_guid", "de/d53/a09598.html#a75754f42f8a202a9a319c86515a3f0dd", null ],
-    [ "m_guildId", "de/d53/a09598.html#a89e0192732a43dc44aff3730bc5ad445", null ],
-    [ "m_timestamp", "de/d53/a09598.html#ad19e7364e1beba61c9b7a4383b6d42c6", null ]
+    [ "MostHPMissingInRange", "de/d53/a09598.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
+    [ "operator()", "de/d53/a09598.html#a420388204d8a1420552b902fbcb2bebe", null ],
+    [ "i_hp", "de/d53/a09598.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
+    [ "i_obj", "de/d53/a09598.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
+    [ "i_range", "de/d53/a09598.html#acef63da9004997c7f25056651284efa9", null ]
 ];

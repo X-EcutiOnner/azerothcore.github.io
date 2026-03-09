@@ -1,6 +1,7 @@
 var a12714 =
 [
-    [ "bossId", "df/d93/a12714.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
-    [ "circleId", "df/d93/a12714.html#aaa379e61fda2f7225ab4089757df5d24", null ],
-    [ "runeId", "df/d93/a12714.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
+    [ "boss_broodlordAI", "df/d93/a12714.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
+    [ "JustDied", "df/d93/a12714.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
+    [ "JustEngagedWith", "df/d93/a12714.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
+    [ "UpdateAI", "df/d93/a12714.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
 ];

@@ -1,6 +1,12 @@
 var a18994 =
 [
-    [ "npc_icc_valkyr_heraldAI", "df/d54/a18998.html", "df/d54/a18998" ],
-    [ "npc_icc_valkyr_herald", "dd/d36/a18994.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
-    [ "GetAI", "dd/d36/a18994.html#a7537269841d0380d2dc9e4641705acf9", null ]
+    [ "npc_risen_archmageAI", "dd/d36/a18994.html#a4dd62e51fc75fc5e4a44859437549f29", null ],
+    [ "CanAIAttack", "dd/d36/a18994.html#a063a28cd36dbc709699e6d1d4e4ca9e3", null ],
+    [ "DoAction", "dd/d36/a18994.html#accc43068aa0a7f62d6fabfb85acb1498", null ],
+    [ "JustEngagedWith", "dd/d36/a18994.html#aef3a1631b4bb8d28d4056036981b0192", null ],
+    [ "JustSummoned", "dd/d36/a18994.html#aff6e86057086db1319bb680e52e41634", null ],
+    [ "Reset", "dd/d36/a18994.html#a522d30cb60cf6af2cd8cc943a7e2f5e3", null ],
+    [ "UpdateAI", "dd/d36/a18994.html#ae78dc64f858573b234210ca175e5bdd9", null ],
+    [ "_events", "dd/d36/a18994.html#a6dff9ff5332c0bc337840882689f47ed", null ],
+    [ "_instance", "dd/d36/a18994.html#a1b4e12b199bf3ada517c895c5f387c4a", null ]
 ];

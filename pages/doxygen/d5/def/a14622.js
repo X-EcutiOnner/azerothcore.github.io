@@ -1,7 +1,6 @@
 var a14622 =
 [
-    [ "npc_love_in_air_supply_sentry", "d5/def/a14622.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
-    [ "MoveInLineOfSight", "d5/def/a14622.html#a9df110324c74277e07183c7db231bbda", null ],
-    [ "UpdateAI", "d5/def/a14622.html#aaa658222954f96d45b75daf83555f6f8", null ],
-    [ "lock", "d5/def/a14622.html#a59bf67b114014542538165c21aa109a6", null ]
+    [ "HandleOnHit", "d5/def/a14622.html#a36909ef786940eb1a05539c968d78e80", null ],
+    [ "PrepareSpellScript", "d5/def/a14622.html#a4bc6792c99b40834ec1a8a9764589e24", null ],
+    [ "Register", "d5/def/a14622.html#ad1d60c5f747f8ec16cbf2402567cfebd", null ]
 ];

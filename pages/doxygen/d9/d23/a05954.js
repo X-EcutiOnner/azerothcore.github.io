@@ -1,6 +1,11 @@
 var a05954 =
 [
-    [ "CheckExecutable", "d9/d23/a05954.html#a65cf44a18a72ba92f91a667e41f9da80", null ],
-    [ "corrected_path", "d9/d23/a05954.html#a31499b458f0ff0ec518980f51d6a242a", null ],
-    [ "GetCorrectedMySQLExecutable", "d9/d23/a05954.html#a8ab8efffe5408f97f438e06766f65ec9", null ]
+    [ "DatabaseWorker", "d9/d23/a05954.html#a64450680e7b6e31bb42ce4f79788eb27", null ],
+    [ "~DatabaseWorker", "d9/d23/a05954.html#a170c873cbc917ece6a87591450dbe5a9", null ],
+    [ "DatabaseWorker", "d9/d23/a05954.html#aa43f1d875400b0ba6c031e0811397ed3", null ],
+    [ "operator=", "d9/d23/a05954.html#a15e753c757da609b55a66380f526091a", null ],
+    [ "WorkerThread", "d9/d23/a05954.html#ab74cbccbb68bfbbab58550eced982d1a", null ],
+    [ "_connection", "d9/d23/a05954.html#a2f21d73b584d9e5f17afc7a0ac78f129", null ],
+    [ "_queue", "d9/d23/a05954.html#a9c47ad6c0d4dca85a63be45c4e678a70", null ],
+    [ "_workerThread", "d9/d23/a05954.html#ad02a90f600f1996c053f36e186edf292", null ]
 ];

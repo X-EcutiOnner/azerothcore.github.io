@@ -1,7 +1,8 @@
 var a11210 =
 [
-    [ "Player", "db/da4/a11210.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "db/da4/a11210.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "FactionChange", "db/da4/a11210.html#adff657ead29df26ead5e20a8ecf44e87", null ],
-    [ "Race", "db/da4/a11210.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
+    [ "MinimapPing", "db/da4/a11210.html#a846074f55e6224bf322b96c7bfe9e008", null ],
+    [ "Write", "db/da4/a11210.html#a94eb49e309ce83b04ccaf8f7e3e8bde7", null ],
+    [ "MapX", "db/da4/a11210.html#ab747a36a7dfefb0692e8c6abb1d161e2", null ],
+    [ "MapY", "db/da4/a11210.html#a2f8504ddba41dd09f69763d66331373b", null ],
+    [ "SourceGuid", "db/da4/a11210.html#abf5d5980b360cbf9332460b01d5816f5", null ]
 ];

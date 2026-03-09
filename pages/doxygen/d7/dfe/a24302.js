@@ -1,7 +1,7 @@
 var a24302 =
 [
-    [ "npc_bessyAI", "d6/d35/a24306.html", "d6/d35/a24306" ],
-    [ "npc_bessy", "d7/dfe/a24302.html#a08278c1524445054ca158433044a0824", null ],
-    [ "GetAI", "d7/dfe/a24302.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
-    [ "OnQuestAccept", "d7/dfe/a24302.html#a98b8e816195b81bab12cc9906df79807", null ]
+    [ "HandleSendEvent", "d7/dfe/a24302.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
+    [ "PrepareSpellScript", "d7/dfe/a24302.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
+    [ "Register", "d7/dfe/a24302.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
+    [ "Validate", "d7/dfe/a24302.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
 ];

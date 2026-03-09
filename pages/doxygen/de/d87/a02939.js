@@ -1,58 +1,47 @@
 var a02939 =
 [
-    [ "npc_draenei_survivor", "d6/d25/a15784.html", "d6/d25/a15784" ],
-    [ "npc_draenei_survivor::npc_draenei_survivorAI", "df/df7/a15788.html", "df/df7/a15788" ],
-    [ "npc_injured_draenei", "d3/d35/a15792.html", "d3/d35/a15792" ],
-    [ "npc_injured_draenei::npc_injured_draeneiAI", "dc/d3d/a15796.html", "dc/d3d/a15796" ],
-    [ "npc_magwin", "d0/d14/a15800.html", "d0/d14/a15800" ],
-    [ "npc_magwin::npc_magwinAI", "d2/daf/a15804.html", "d2/daf/a15804" ],
-    [ "go_ravager_cage", "dd/dda/a15808.html", "dd/dda/a15808" ],
-    [ "npc_death_ravager", "d0/d40/a15812.html", "d0/d40/a15812" ],
-    [ "npc_death_ravager::npc_death_ravagerAI", "dc/dd9/a15816.html", "dc/dd9/a15816" ],
-    [ "npc_stillpine_capitive", "d5/d7f/a15820.html", "d5/d7f/a15820" ],
-    [ "npc_stillpine_capitive::npc_stillpine_capitiveAI", "dd/d6b/a15824.html", "dd/d6b/a15824" ],
-    [ "go_bristlelimb_cage", "d5/db8/a15828.html", "d5/db8/a15828" ],
-    [ "spell_inoculate_nestlewood_owlkin", "d6/d5a/a15832.html", "d6/d5a/a15832" ],
-    [ "BristlelimbCage", "de/d87/a02939.html#ab69bb59145b8e4a3ee5c269d141090a0", [
-      [ "QUEST_THE_PROPHECY_OF_AKIDA", "de/d87/a02939.html#ab69bb59145b8e4a3ee5c269d141090a0ae8d9e7f48db483f0e3497db05e0a8ab5", null ],
-      [ "NPC_STILLPINE_CAPITIVE", "de/d87/a02939.html#ab69bb59145b8e4a3ee5c269d141090a0af8664c69b400568c2fc8974230b57cdf", null ],
-      [ "GO_BRISTELIMB_CAGE", "de/d87/a02939.html#ab69bb59145b8e4a3ee5c269d141090a0aef32e220b187e5b1852e8f7a5bf67ed8", null ],
-      [ "CAPITIVE_SAY", "de/d87/a02939.html#ab69bb59145b8e4a3ee5c269d141090a0a98d7f3af2f348e324c78eca1ee3312e4", null ],
-      [ "POINT_INIT", "de/d87/a02939.html#ab69bb59145b8e4a3ee5c269d141090a0a965d8213c7e2bdb3d719b4dc8abe6175", null ],
-      [ "EVENT_DESPAWN", "de/d87/a02939.html#ab69bb59145b8e4a3ee5c269d141090a0a37c22b84c74c36e2af467a6bd1047f15", null ]
+    [ "npc_aquementas", "d5/d7f/a16118.html", "d5/d7f/a16118" ],
+    [ "npc_aquementas::npc_aquementasAI", "de/dcc/a16122.html", "de/dcc/a16122" ],
+    [ "npc_custodian_of_time", "d1/d57/a16126.html", "d1/d57/a16126" ],
+    [ "npc_custodian_of_time::npc_custodian_of_timeAI", "da/d28/a16130.html", "da/d28/a16130" ],
+    [ "npc_steward_of_time", "d6/d36/a16134.html", "d6/d36/a16134" ],
+    [ "npc_stone_watcher_of_norgannon", "d6/d5e/a16138.html", "d6/d5e/a16138" ],
+    [ "npc_tooga", "d8/dac/a16142.html", "d8/dac/a16142" ],
+    [ "npc_tooga::npc_toogaAI", "d4/d27/a16146.html", "d4/d27/a16146" ],
+    [ "Aquementas", "de/d87/a02939.html#a664764efa00aaadfd6e4510fe26486d8", [
+      [ "AGGRO_YELL_AQUE", "de/d87/a02939.html#a664764efa00aaadfd6e4510fe26486d8a704ce77b08e582a06d3e38b4714ff5e3", null ],
+      [ "SPELL_AQUA_JET", "de/d87/a02939.html#a664764efa00aaadfd6e4510fe26486d8a4ee489332c793185c566210d9bf91269", null ],
+      [ "SPELL_FROST_SHOCK", "de/d87/a02939.html#a664764efa00aaadfd6e4510fe26486d8a73b0724093ccf1b7960c55c236c1502c", null ]
     ] ],
-    [ "draeneiSurvivor", "de/d87/a02939.html#a4312325b44ff42e455a1955a0a0d0ce0", [
-      [ "SAY_HEAL", "de/d87/a02939.html#a4312325b44ff42e455a1955a0a0d0ce0a3bb81f47f40ebbd45afd95991300a0b6", null ],
-      [ "SAY_HELP", "de/d87/a02939.html#a4312325b44ff42e455a1955a0a0d0ce0a13e3c4fbf4ffac2b5a7fc5c14d049293", null ],
-      [ "SPELL_IRRIDATION", "de/d87/a02939.html#a4312325b44ff42e455a1955a0a0d0ce0a75ebf4ca85d16446e34a15b18cdf38ef", null ],
-      [ "SPELL_STUNNED", "de/d87/a02939.html#a4312325b44ff42e455a1955a0a0d0ce0acf37fb2b5fa94a29d651d4b9364de3b1", null ]
+    [ "CustodianOfTime", "de/d87/a02939.html#a37701b2c74106cf0388b7bb342de1bf6", [
+      [ "WHISPER_CUSTODIAN_1", "de/d87/a02939.html#a37701b2c74106cf0388b7bb342de1bf6a25d9b01e13803e0edc1678a64d7b2b0a", null ],
+      [ "WHISPER_CUSTODIAN_2", "de/d87/a02939.html#a37701b2c74106cf0388b7bb342de1bf6a94972f2086da11a89348b01001f0f78b", null ],
+      [ "WHISPER_CUSTODIAN_3", "de/d87/a02939.html#a37701b2c74106cf0388b7bb342de1bf6a06594b919a53dcb69dd5d8b1617a18d8", null ],
+      [ "WHISPER_CUSTODIAN_4", "de/d87/a02939.html#a37701b2c74106cf0388b7bb342de1bf6a108cce45652b8a8986c6f7ec5026ffe5", null ],
+      [ "WHISPER_CUSTODIAN_5", "de/d87/a02939.html#a37701b2c74106cf0388b7bb342de1bf6a196d6e1ffdf8de102970f8a54e399e12", null ],
+      [ "WHISPER_CUSTODIAN_6", "de/d87/a02939.html#a37701b2c74106cf0388b7bb342de1bf6a530330eb596dc0e4c8549320e77f0707", null ],
+      [ "WHISPER_CUSTODIAN_7", "de/d87/a02939.html#a37701b2c74106cf0388b7bb342de1bf6a4110ed2c02dfa60cdc563d53a24e5507", null ],
+      [ "WHISPER_CUSTODIAN_8", "de/d87/a02939.html#a37701b2c74106cf0388b7bb342de1bf6ac502f63ee8f999f45e4599cb07f7c9fb", null ],
+      [ "WHISPER_CUSTODIAN_9", "de/d87/a02939.html#a37701b2c74106cf0388b7bb342de1bf6ad0c4bfda8d7326ad9de433ef312d80fe", null ],
+      [ "WHISPER_CUSTODIAN_10", "de/d87/a02939.html#a37701b2c74106cf0388b7bb342de1bf6a3e9024cc1ad59a04f50c4e5aa6108f0b", null ],
+      [ "WHISPER_CUSTODIAN_11", "de/d87/a02939.html#a37701b2c74106cf0388b7bb342de1bf6a709706759bc4cad92916d8b1f070c1a5", null ],
+      [ "WHISPER_CUSTODIAN_12", "de/d87/a02939.html#a37701b2c74106cf0388b7bb342de1bf6a25fc2c55641b1187b7c365330336f3eb", null ],
+      [ "WHISPER_CUSTODIAN_13", "de/d87/a02939.html#a37701b2c74106cf0388b7bb342de1bf6aaeee6879311fff39df2258f56000ed46", null ],
+      [ "WHISPER_CUSTODIAN_14", "de/d87/a02939.html#a37701b2c74106cf0388b7bb342de1bf6adb8c6e85b360e8f939f58c4d98c9ff5d", null ]
     ] ],
-    [ "Magwin", "de/d87/a02939.html#a8f680a89d6b189116cd0885d3f8e0232", [
-      [ "SAY_START", "de/d87/a02939.html#a8f680a89d6b189116cd0885d3f8e0232a2eae21cbf7d110ee89a9798ef6f00239", null ],
-      [ "SAY_AGGRO", "de/d87/a02939.html#a8f680a89d6b189116cd0885d3f8e0232a47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_PROGRESS", "de/d87/a02939.html#a8f680a89d6b189116cd0885d3f8e0232a0a1c1c8ee2f4fb58f4e107f259c6a7a5", null ],
-      [ "SAY_END1", "de/d87/a02939.html#a8f680a89d6b189116cd0885d3f8e0232a944891a3d2f715c9e1c8f47d65f16eca", null ],
-      [ "SAY_END2", "de/d87/a02939.html#a8f680a89d6b189116cd0885d3f8e0232aa0efc3eab3d2447cc17568f7ceed8cba", null ],
-      [ "EMOTE_HUG", "de/d87/a02939.html#a8f680a89d6b189116cd0885d3f8e0232a32c1d786a95676b42ba62cccb0249d6d", null ],
-      [ "NPC_COWLEN", "de/d87/a02939.html#a8f680a89d6b189116cd0885d3f8e0232a72a6ae36de9915698b0dbb6646852a3a", null ],
-      [ "SAY_COWLEN", "de/d87/a02939.html#a8f680a89d6b189116cd0885d3f8e0232a3b5ee5ee9166e2ca31e5271bfb24aead", null ],
-      [ "EVENT_ACCEPT_QUEST", "de/d87/a02939.html#a8f680a89d6b189116cd0885d3f8e0232ac570135999543136afc56b60cd580a2d", null ],
-      [ "EVENT_START_ESCORT", "de/d87/a02939.html#a8f680a89d6b189116cd0885d3f8e0232aac17b854a151f2f2ca72de93bf3c9e01", null ],
-      [ "EVENT_STAND", "de/d87/a02939.html#a8f680a89d6b189116cd0885d3f8e0232a306a9ab7ce63e6bdb9de7e1cb8ddb026", null ],
-      [ "EVENT_TALK_END", "de/d87/a02939.html#a8f680a89d6b189116cd0885d3f8e0232add701ab59fa34c09ea3a0c03ccad4b00", null ],
-      [ "EVENT_COWLEN_TALK", "de/d87/a02939.html#a8f680a89d6b189116cd0885d3f8e0232a87e4ec7fc1940c461ccea28f089583a7", null ],
-      [ "QUEST_A_CRY_FOR_HELP", "de/d87/a02939.html#a8f680a89d6b189116cd0885d3f8e0232a5e07ef0614c38548bc743a6622705cd8", null ]
+    [ "Tooga", "de/d87/a02939.html#ae0596032f6a7ef3f5e96279535462629", [
+      [ "SAY_TOOG_WORRIED", "de/d87/a02939.html#ae0596032f6a7ef3f5e96279535462629a9a83c37dc7eb5238cefd3bd723fe62e6", null ],
+      [ "SAY_TOOG_POST_1", "de/d87/a02939.html#ae0596032f6a7ef3f5e96279535462629a4238ab12002edc45629b758df841bd73", null ],
+      [ "SAY_TORT_POST_2", "de/d87/a02939.html#ae0596032f6a7ef3f5e96279535462629a5dfaa68e10085dafec6d4f97cb9cedfc", null ],
+      [ "SAY_TOOG_POST_3", "de/d87/a02939.html#ae0596032f6a7ef3f5e96279535462629adafc2f58d5120a13bf01183d6feeaf9c", null ],
+      [ "SAY_TORT_POST_4", "de/d87/a02939.html#ae0596032f6a7ef3f5e96279535462629a94e61a4f152705539aae94bb20ba457d", null ],
+      [ "SAY_TOOG_POST_5", "de/d87/a02939.html#ae0596032f6a7ef3f5e96279535462629ae2f254cfc020d86b4bcf78e25bb09cf6", null ],
+      [ "SAY_TORT_POST_6", "de/d87/a02939.html#ae0596032f6a7ef3f5e96279535462629a8774c87d4b15b03b2f521d3f8551f473", null ],
+      [ "QUEST_TOOGA", "de/d87/a02939.html#ae0596032f6a7ef3f5e96279535462629aa7fd99bb32abd80385f2ce67dab6271c", null ],
+      [ "NPC_TORTA", "de/d87/a02939.html#ae0596032f6a7ef3f5e96279535462629a19a2b5b25e017a5c600fd55148cad421", null ],
+      [ "POINT_ID_TO_WATER", "de/d87/a02939.html#ae0596032f6a7ef3f5e96279535462629afa7d708cb04f36a055f8e17403d6ba98", null ],
+      [ "FACTION_TOOG_ESCORTEE", "de/d87/a02939.html#ae0596032f6a7ef3f5e96279535462629a1fc13ca51d1cd9614d2f9af06e3c274e", null ]
     ] ],
-    [ "NestlewoodOwlkin", "de/d87/a02939.html#a8399336a8832e4ae3f893a082e3f6a23", [
-      [ "NPC_NESTLEWOOD_OWLKIN_ENTRY", "de/d87/a02939.html#a8399336a8832e4ae3f893a082e3f6a23a042fac43f48aae1e0c20efae45c8edd4", null ],
-      [ "NPC_INOCULATED_OWLKIN_ENTRY", "de/d87/a02939.html#a8399336a8832e4ae3f893a082e3f6a23a81405be99e82dc85aab4f0a4a9560783", null ],
-      [ "TALK_OWLKIN", "de/d87/a02939.html#a8399336a8832e4ae3f893a082e3f6a23a018df08708e7e76f44efdb0f93a8dac7", null ]
-    ] ],
-    [ "RavegerCage", "de/d87/a02939.html#afbe1872b98459d496587a276f39f6172", [
-      [ "NPC_DEATH_RAVAGER", "de/d87/a02939.html#afbe1872b98459d496587a276f39f6172a3fc36348616e2274939b17da119f4cbb", null ],
-      [ "SPELL_REND", "de/d87/a02939.html#afbe1872b98459d496587a276f39f6172ac553ad24710435636bd9736df18484c6", null ],
-      [ "SPELL_ENRAGING_BITE", "de/d87/a02939.html#afbe1872b98459d496587a276f39f6172a441711efdb9fa90311571a2a0dbfe888", null ],
-      [ "QUEST_STRENGTH_ONE", "de/d87/a02939.html#afbe1872b98459d496587a276f39f6172a2ca7128123717d9b2be0d049b0180449", null ]
-    ] ],
-    [ "AddSC_azuremyst_isle", "de/d87/a02939.html#a92fc206251c5ac3ca89e584f0e69e0cb", null ]
+    [ "AddSC_tanaris", "de/d87/a02939.html#accb894d274ef2ad335966f8efb2265ae", null ],
+    [ "ToWaterLoc", "de/d87/a02939.html#a637f2ece77285feff35a76f446e13296", null ]
 ];

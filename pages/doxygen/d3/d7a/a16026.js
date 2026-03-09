@@ -1,12 +1,10 @@
 var a16026 =
 [
-    [ "npc_twilight_volunteer", "d3/d7a/a16026.html#a3062041fcabf972e0a3d4753363c37b3", null ],
-    [ "AttackStart", "d3/d7a/a16026.html#abc2e12fb7be5b1a7dabc4c2211e7de13", null ],
-    [ "DoAction", "d3/d7a/a16026.html#ae95bcb02ee4f0ead76e249de0cba2d88", null ],
-    [ "EnterEvadeMode", "d3/d7a/a16026.html#abd88e6fe0565babb92ccae17df0421d6", null ],
-    [ "MovementInform", "d3/d7a/a16026.html#a4f27ae97ccf2c349a6352a0f5ba1681a", null ],
-    [ "UpdateAI", "d3/d7a/a16026.html#a93288a45982b172c201e2442a4c91114", null ],
-    [ "events", "d3/d7a/a16026.html#ad8cc52c1462d7adbfbe566c55c0ed244", null ],
-    [ "isSacraficeTarget", "d3/d7a/a16026.html#a8350dba2c41754a2e5d15c94731ef27d", null ],
-    [ "pInstance", "d3/d7a/a16026.html#ad58453e078520fa23238a96115e5f38f", null ]
+    [ "npc_omenAI", "d3/d7a/a16026.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
+    [ "JustDied", "d3/d7a/a16026.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
+    [ "JustEngagedWith", "d3/d7a/a16026.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
+    [ "MovementInform", "d3/d7a/a16026.html#a92e59bde1f0da2ee537a836304a3c385", null ],
+    [ "SpellHit", "d3/d7a/a16026.html#a4e3960d506fd0435de055a365906a9c9", null ],
+    [ "UpdateAI", "d3/d7a/a16026.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
+    [ "events", "d3/d7a/a16026.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
 ];

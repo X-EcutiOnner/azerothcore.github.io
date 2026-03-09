@@ -1,6 +1,6 @@
 var a23382 =
 [
-    [ "HandleDummy", "d6/d49/a23382.html#a3347413822ce083085bcf1418fbdbae2", null ],
-    [ "PrepareSpellScript", "d6/d49/a23382.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
-    [ "Register", "d6/d49/a23382.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d8/da5/a23386.html", "d8/da5/a23386" ],
+    [ "instance_steam_vault", "d6/d49/a23382.html#aa3417083841ccb50c8a2f29ba343e115", null ],
+    [ "GetInstanceScript", "d6/d49/a23382.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
 ];

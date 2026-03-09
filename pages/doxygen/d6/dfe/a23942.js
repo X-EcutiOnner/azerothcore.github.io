@@ -1,8 +1,6 @@
 var a23942 =
 [
-    [ "boss_laj", "d6/dfe/a23942.html#a3c9323ab4b5530504588ea62aed2edff", null ],
-    [ "Reset", "d6/dfe/a23942.html#ace690a0662376addaa40093f3f119c31", null ],
-    [ "ScheduleTasks", "d6/dfe/a23942.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
-    [ "_lastTransform", "d6/dfe/a23942.html#a097eacaaf77a09bec087530bad587b11", null ],
-    [ "_transformContainer", "d6/dfe/a23942.html#a313e66ceeb4e359251dad65383e7f568", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d5/df2/a23946.html", "d5/df2/a23946" ],
+    [ "npc_deaths_door_fell_cannon_target_bunny", "d6/dfe/a23942.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
+    [ "GetAI", "d6/dfe/a23942.html#a250707096229da28024960beeb7725bf", null ]
 ];

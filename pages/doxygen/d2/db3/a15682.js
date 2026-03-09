@@ -1,6 +1,8 @@
 var a15682 =
 [
-    [ "npc_great_bear_spirit", "d2/db3/a15682.html#a141470a3623aa1152d3505661f1532c8", null ],
-    [ "OnGossipHello", "d2/db3/a15682.html#a2307b8d56fc117d918adc9814fa86f8f", null ],
-    [ "OnGossipSelect", "d2/db3/a15682.html#aae026f4cf8b0de61d36a841dcfdbd92e", null ]
+    [ "npc_ouro_spawner", "d2/db3/a15682.html#acb18739e5a1734312ffdda35321e5f34", null ],
+    [ "JustSummoned", "d2/db3/a15682.html#a722dada5bf97c730462a0de2b082d5ff", null ],
+    [ "MoveInLineOfSight", "d2/db3/a15682.html#a83c0972db4435ccf1af069574e4056f4", null ],
+    [ "Reset", "d2/db3/a15682.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
+    [ "hasSummoned", "d2/db3/a15682.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
 ];

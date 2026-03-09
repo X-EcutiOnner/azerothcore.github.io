@@ -1,10 +1,16 @@
 var a29378 =
 [
-    [ "npc_training_dummyAI", "d7/d55/a29378.html#a2f10fd0b4365e99446f728883a47eb6a", null ],
-    [ "DamageTaken", "d7/d55/a29378.html#a641c40906a6365f068ccbdba9d033923", null ],
-    [ "EnterEvadeMode", "d7/d55/a29378.html#adb1de124bdb2a986efcfcfc287b6d824", null ],
-    [ "MoveInLineOfSight", "d7/d55/a29378.html#a52f3516e9da6895eeddcdef7a198a6b1", null ],
-    [ "Reset", "d7/d55/a29378.html#af63f500cb3179964c90afab0d4a2c9b7", null ],
-    [ "UpdateAI", "d7/d55/a29378.html#a5e7892a64cd1a5cf678b401b62497bfb", null ],
-    [ "resetTimer", "d7/d55/a29378.html#a443f2f7de257af473d6e9793f34a2071", null ]
+    [ "amount", "d7/d55/a29378.html#a3086819447f7ae23bf5697a45cbc6f93", null ],
+    [ "aura_id", "d7/d55/a29378.html#a5866d4e8ce373b6eb9af1d27e2db2c1b", null ],
+    [ "charges", "d7/d55/a29378.html#ade74be0906ef080347ac81ed48379cd1", null ],
+    [ "description", "d7/d55/a29378.html#a7dc66c82551a59750d6294f3503a3dbc", null ],
+    [ "EnchantmentCondition", "d7/d55/a29378.html#a2416afe9ae8371b9d284dd3c176c98d1", null ],
+    [ "GemID", "d7/d55/a29378.html#a324fd42b7184f5c626c33323a4d72b07", null ],
+    [ "ID", "d7/d55/a29378.html#af46fa8808024e75705b812b695bd1590", null ],
+    [ "requiredLevel", "d7/d55/a29378.html#a53bf562ea4dfccb14bfb627c831b477e", null ],
+    [ "requiredSkill", "d7/d55/a29378.html#a6ca7dac0e1f497b3c96887a6c09097bc", null ],
+    [ "requiredSkillValue", "d7/d55/a29378.html#a7a57764dad60c9369826638c1355127e", null ],
+    [ "slot", "d7/d55/a29378.html#af64b13ce2e81d5be7e73763cd5c5e4b8", null ],
+    [ "spellid", "d7/d55/a29378.html#a694edc79cf8ba571338bff2a3aad512d", null ],
+    [ "type", "d7/d55/a29378.html#adb693b7ada8d1a65c1d8091d1055c7bf", null ]
 ];

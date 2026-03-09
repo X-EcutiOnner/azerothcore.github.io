@@ -1,9 +1,7 @@
 var a22938 =
 [
-    [ "npc_flame_of_azzinoth", "de/ddc/a22938.html#acdeb046c2214bd449257ba1b932c8a5c", null ],
-    [ "IsSummonedBy", "de/ddc/a22938.html#a5254057af0371a08ea01fe91502c2a20", null ],
-    [ "JustEngagedWith", "de/ddc/a22938.html#a24eba1a6cdea4971573a6f4b2dd34fb3", null ],
-    [ "JustSummoned", "de/ddc/a22938.html#ad2e7085fcd985a08cc2e317485a8fff1", null ],
-    [ "UpdateAI", "de/ddc/a22938.html#a7a1c9b967e6a79721dea8cbca44cbb5b", null ],
-    [ "_bladeGUID", "de/ddc/a22938.html#ae797d929b0e9c8953a4c9efd392a21f3", null ]
+    [ "HandleEffectRemove", "de/ddc/a22938.html#a6adc572bb13dde9b83a44a1c27833019", null ],
+    [ "PrepareAuraScript", "de/ddc/a22938.html#a877c26735531508d1806273117f3e8bc", null ],
+    [ "Register", "de/ddc/a22938.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5", null ],
+    [ "Validate", "de/ddc/a22938.html#a8c45ba806d865f7b9d56950013bdd81c", null ]
 ];

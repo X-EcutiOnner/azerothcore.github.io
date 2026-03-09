@@ -1,6 +1,5 @@
 var a02342 =
 [
-    [ "BG_SA_BOAT_START", "d7/d54/a02342.html#a2ec6635cf59771fcfd56b16cd670eebc", null ],
-    [ "BG_SA_ROUNDLENGTH", "d7/d54/a02342.html#a1197e8f288608511601a41e8e8ea80ce", null ],
-    [ "BG_SA_WARMUPLENGTH", "d7/d54/a02342.html#a7447506b77b9babea7568349335ea705", null ]
+    [ "GetIdleMovementGenerator", "d7/d54/a02342.html#ab03e344726a074f17f8c63d10b67fcc1", null ],
+    [ "isStatic", "d7/d54/a02342.html#a05fec3371a9aee5a6448115a645a505d", null ]
 ];

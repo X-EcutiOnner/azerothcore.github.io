@@ -1,6 +1,5 @@
 var a20614 =
 [
-    [ "HandleDamage", "de/de7/a20614.html#af2578478e83eb2f6c2de32a692e9be91", null ],
-    [ "PrepareSpellScript", "de/de7/a20614.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
-    [ "Register", "de/de7/a20614.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
+    [ "achievement_kologarn_rubble_and_roll", "de/de7/a20614.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
+    [ "OnCheck", "de/de7/a20614.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
 ];

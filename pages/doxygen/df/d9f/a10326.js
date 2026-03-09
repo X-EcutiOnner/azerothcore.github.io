@@ -1,6 +1,7 @@
 var a10326 =
 [
-    [ "BattlegroundScript", "df/d9f/a10326.html#a306231f1c7346a00a3f877c7cef3897b", null ],
-    [ "GetBattleground", "df/d9f/a10326.html#a782c6e81f4ed9a63f9276dcc4f0f9116", null ],
-    [ "IsDatabaseBound", "df/d9f/a10326.html#a35b571d570c85a861af6f949b51453cb", null ]
+    [ "WriteCommonMonsterMovePart", "df/d9f/a10326.html#a5dcdbeb513f6da51b0af20d9acd2ac58", null ],
+    [ "WriteCreate", "df/d9f/a10326.html#ae5682d7012cca35bd8643b01ce558eb5", null ],
+    [ "WriteMonsterMove", "df/d9f/a10326.html#a4c4294e3fed32aca35078dd4975b057d", null ],
+    [ "WriteStopMovement", "df/d9f/a10326.html#a1b960c1141ab9b4dca932e0eddaee204", null ]
 ];

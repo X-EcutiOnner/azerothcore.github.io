@@ -1,6 +1,6 @@
 var a27658 =
 [
-    [ "trigger_periodicAI", "de/d61/a27662.html", "de/d61/a27662" ],
-    [ "trigger_periodic", "dd/d1b/a27658.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
-    [ "GetAI", "dd/d1b/a27658.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
+    [ "CheckCast", "dd/d1b/a27658.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
+    [ "PrepareSpellScript", "dd/d1b/a27658.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
+    [ "Register", "dd/d1b/a27658.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
 ];

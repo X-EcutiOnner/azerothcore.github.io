@@ -1,6 +1,7 @@
 var a01652 =
 [
-    [ "Acore::BroadcastTextBuilder", "de/dd5/a11824.html", "de/dd5/a11824" ],
-    [ "Acore::CustomChatTextBuilder", "df/dd5/a11828.html", "df/dd5/a11828" ],
-    [ "Acore::AcoreStringChatBuilder", "d1/db9/a11832.html", "d1/db9/a11832" ]
+    [ "ChannelMgr", "de/dec/a07758.html", "de/dec/a07758" ],
+    [ "AllianceChannelMgr", "d3/da5/a07762.html", "d3/da5/a07762" ],
+    [ "HordeChannelMgr", "dd/d73/a07766.html", "dd/d73/a07766" ],
+    [ "MAX_CHANNEL_PASS_STR", "d0/dc0/a01652.html#a06f16ee81d2214d67575f108b76f6333", null ]
 ];

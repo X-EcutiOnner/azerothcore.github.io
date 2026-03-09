@@ -1,6 +1,9 @@
 var a18854 =
 [
-    [ "npc_frostwing_vrykulAI", "df/dd7/a18858.html", "df/dd7/a18858" ],
-    [ "npc_frostwing_vrykul", "d3/d92/a18854.html#ab915aa094ddebd9201a1c626e6427409", null ],
-    [ "GetAI", "d3/d92/a18854.html#a11678e59b6db9a41c7b6a575339995fd", null ]
+    [ "HandleScript", "d3/d92/a18854.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
+    [ "Load", "d3/d92/a18854.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
+    [ "PrepareSpellScript", "d3/d92/a18854.html#a73931c9434114749b9db648665153083", null ],
+    [ "Register", "d3/d92/a18854.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
+    [ "SelectTarget", "d3/d92/a18854.html#a95be527c43ceeb4801f4e494753c1b59", null ],
+    [ "_target", "d3/d92/a18854.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
 ];

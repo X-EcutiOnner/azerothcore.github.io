@@ -1,8 +1,9 @@
 var a08758 =
 [
-    [ "DiminishingReturn", "dd/dcd/a08758.html#acd4828637710636d0164fced285c854d", null ],
-    [ "DRGroup", "dd/dcd/a08758.html#add3ab95d65e283a326e1922129941ae4", null ],
-    [ "hitCount", "dd/dcd/a08758.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
-    [ "hitTime", "dd/dcd/a08758.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
-    [ "stack", "dd/dcd/a08758.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
+    [ "PetInfo", "dc/d61/a08762.html", "dc/d61/a08762" ],
+    [ "GetUnslottedHunterPet", "dd/dcd/a08758.html#a4e0e22a135703c989976694a32912cbd", null ],
+    [ "CurrentPet", "dd/dcd/a08758.html#a7a9f76452985abc65560773ac413208f", null ],
+    [ "MaxStabledPets", "dd/dcd/a08758.html#a2a30270bbd396b7fa4e035429ff8d04e", null ],
+    [ "StabledPets", "dd/dcd/a08758.html#a6bd064e692fff316581d08680b163026", null ],
+    [ "UnslottedPets", "dd/dcd/a08758.html#a8e6f6e36722dd883e6df962a1e950346", null ]
 ];

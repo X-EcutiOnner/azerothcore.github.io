@@ -1,9 +1,11 @@
 var a22238 =
 [
-    [ "npc_lord_areteAI", "d8/dfc/a22238.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
-    [ "InitializeAI", "d8/dfc/a22238.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
-    [ "UpdateAI", "d8/dfc/a22238.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
-    [ "_landgrenGUID", "d8/dfc/a22238.html#ac0e3753096dfe779024acc8400791171", null ],
-    [ "_landgrenSoulGUID", "d8/dfc/a22238.html#aaa28c67691610136f0b418b30892f3cd", null ],
-    [ "events", "d8/dfc/a22238.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
+    [ "npc_iron_watcherAI", "d8/dfc/a22238.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
+    [ "MovementInform", "d8/dfc/a22238.html#aaf329f0160efa778abdebf86b1cf230b", null ],
+    [ "Reset", "d8/dfc/a22238.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
+    [ "SpellHit", "d8/dfc/a22238.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
+    [ "UpdateAI", "d8/dfc/a22238.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
+    [ "charging", "d8/dfc/a22238.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
+    [ "hpTimer", "d8/dfc/a22238.html#afcbb113387345361baf0351a19e6eb1d", null ],
+    [ "spellTimer", "d8/dfc/a22238.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
 ];

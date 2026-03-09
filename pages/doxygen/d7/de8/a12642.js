@@ -1,7 +1,12 @@
 var a12642 =
 [
-    [ "HandleDummy", "d7/de8/a12642.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
-    [ "PrepareSpellScript", "d7/de8/a12642.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
-    [ "Register", "d7/de8/a12642.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
-    [ "Validate", "d7/de8/a12642.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
+    [ "boss_thebeastAI", "d7/de8/a12642.html#a51b7d4ec10d2616d99fb21e680ff17b4", null ],
+    [ "FindNearbyOrcs", "d7/de8/a12642.html#ad832a878880ac32e05d360262546422a", null ],
+    [ "JustEngagedWith", "d7/de8/a12642.html#ab107354f10d0af4b840ab5ff8d3d0eaf", null ],
+    [ "Reset", "d7/de8/a12642.html#abfa1bca308a02ef0e80d2baf11670305", null ],
+    [ "SetData", "d7/de8/a12642.html#a6f30ed7c0451613998660b258145f801", null ],
+    [ "UpdateAI", "d7/de8/a12642.html#a0f490e907ce632e1fb921a6eb46b49c0", null ],
+    [ "_beastReached", "d7/de8/a12642.html#a01271598b4b3c85a7066e66d8150e522", null ],
+    [ "_nearbyOrcsGUIDs", "d7/de8/a12642.html#af32fb34f4c76cfe292da9bc84a5d6372", null ],
+    [ "_orcYelled", "d7/de8/a12642.html#a16df847475ea220b8ac4ea944e8d1ca4", null ]
 ];

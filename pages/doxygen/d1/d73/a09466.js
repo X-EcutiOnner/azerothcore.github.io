@@ -1,10 +1,8 @@
 var a09466 =
 [
-    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d1/d73/a09466.html#aa9f15d071efe7ca7bb975489fec2afbd", null ],
-    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d1/d73/a09466.html#a1e25384d08beeee84d83e401f5a5a565", null ],
-    [ "operator()", "d1/d73/a09466.html#abc2ab6f33a6a58a6e692cc32e8139839", null ],
-    [ "i_alive", "d1/d73/a09466.html#a7a01388f86d25fa0728d94c6e1a7f752", null ],
-    [ "i_entry", "d1/d73/a09466.html#ae2bf2c0a0f431f5de445fbee26b60a57", null ],
-    [ "i_obj", "d1/d73/a09466.html#aa0340c79c37f3494b01c52f034705aa4", null ],
-    [ "i_range", "d1/d73/a09466.html#a695af00612b17e0182ad76a5c3be2356", null ]
+    [ "AIRelocationNotifier", "d1/d73/a09466.html#ab19dba99802231bc1ba7b3ae3cb4bdb3", null ],
+    [ "Visit", "d1/d73/a09466.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
+    [ "Visit", "d1/d73/a09466.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
+    [ "i_unit", "d1/d73/a09466.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
+    [ "isCreature", "d1/d73/a09466.html#a199f4b91d00dd4db90855e5521d87a95", null ]
 ];

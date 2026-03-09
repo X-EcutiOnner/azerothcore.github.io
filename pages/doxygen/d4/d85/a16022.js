@@ -1,25 +1,6 @@
 var a16022 =
 [
-    [ "boss_jedoga_shadowseeker", "d4/d85/a16022.html#ab9cbbc07add92d5e02910660d54bac52", null ],
-    [ "DamageTaken", "d4/d85/a16022.html#a049fa9b95e231bbbbc0f9d1970d1281d", null ],
-    [ "DespawnOOCSummons", "d4/d85/a16022.html#ac52f5994af533906e5b60e539c48abb4", null ],
-    [ "DoAction", "d4/d85/a16022.html#aa1c42164d1eb87240443c21c96805bfa", null ],
-    [ "GetData", "d4/d85/a16022.html#a7829368c62ef80d41480e0f8fdfacd06", null ],
-    [ "JustDied", "d4/d85/a16022.html#af2ea97b4d6b74b81b5abc0520e832dbc", null ],
-    [ "JustEngagedWith", "d4/d85/a16022.html#acbd8518cd3d32ddb98d79659a2aa4313", null ],
-    [ "JustSummoned", "d4/d85/a16022.html#a69cef8ffc1b62eab23538cb3d7f342d7", null ],
-    [ "KilledUnit", "d4/d85/a16022.html#a1d6db2fdd85d4df233a65f8963dcd2ad", null ],
-    [ "MoveInLineOfSight", "d4/d85/a16022.html#a3d70de2d7a6d2c50083a684b9d969550", null ],
-    [ "MovementInform", "d4/d85/a16022.html#a4522476699ac513e209d9ee2d56309f0", null ],
-    [ "ReschedulleCombatEvents", "d4/d85/a16022.html#a501370436e01fb860433a8d782b7b37e", null ],
-    [ "Reset", "d4/d85/a16022.html#a3def3996c41da5a5f5ad1368b1cb973d", null ],
-    [ "SummonedCreatureDies", "d4/d85/a16022.html#a3efaecfd3dcf2987b1a8afced8f674b2", null ],
-    [ "UpdateAI", "d4/d85/a16022.html#a7f1d6998efe3fdeb60ba1743c6561902", null ],
-    [ "combatSummonsSummoned", "d4/d85/a16022.html#af300322d9b1f7705289588e217e120a3", null ],
-    [ "oocSummons", "d4/d85/a16022.html#a8ab34fcd605e5c15c4dab7fb3f5a3160", null ],
-    [ "oocTriggers", "d4/d85/a16022.html#adcec05da7f5feeca36e5e9054fba871f", null ],
-    [ "ritualTriggered", "d4/d85/a16022.html#a28837c2f84acf08657cc301e8d382cfc", null ],
-    [ "sacrificeTargetGUID", "d4/d85/a16022.html#a3b2d17143859cadc1bcbd1f43498286c", null ],
-    [ "sayPreachTimer", "d4/d85/a16022.html#ac4e501a54c8da479cede1378db0c953c", null ],
-    [ "volunteerWork", "d4/d85/a16022.html#aa0ff8d7556662b8db97aebcf27e0d5e4", null ]
+    [ "npc_omenAI", "d3/d7a/a16026.html", "d3/d7a/a16026" ],
+    [ "npc_omen", "d4/d85/a16022.html#aff955303a8b9741838779a59dd496f62", null ],
+    [ "GetAI", "d4/d85/a16022.html#a8023ad3298000d9819c46f46a93166d4", null ]
 ];

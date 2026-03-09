@@ -1,5 +1,6 @@
 var a21182 =
 [
-    [ "achievement_yogg_saron_kiss_and_make_up", "dc/d68/a21182.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
-    [ "OnCheck", "dc/d68/a21182.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
+    [ "boss_skadiAI", "d9/dd0/a21186.html", "d9/dd0/a21186" ],
+    [ "boss_skadi", "dc/d68/a21182.html#a124c1c1de7ba232b3256a65547370464", null ],
+    [ "GetAI", "dc/d68/a21182.html#a4b66199169442af5ec6542be71c19033", null ]
 ];

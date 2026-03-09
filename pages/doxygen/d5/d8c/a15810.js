@@ -1,7 +1,6 @@
 var a15810 =
 [
-    [ "npc_steward_of_time", "d5/d8c/a15810.html#ad49973464c96f44506033b73a85f6360", null ],
-    [ "OnGossipHello", "d5/d8c/a15810.html#a3b61038393c3addbbfa6643438164db3", null ],
-    [ "OnGossipSelect", "d5/d8c/a15810.html#af4fe13e266a98129b92e5a25188d947c", null ],
-    [ "OnQuestAccept", "d5/d8c/a15810.html#a53d552282da49e8246089b2799fff9ca", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "d4/db4/a15814.html", "d4/db4/a15814" ],
+    [ "instance_wailing_caverns", "d5/d8c/a15810.html#a906f59c39f59237e9eedb479dfc7d825", null ],
+    [ "GetInstanceScript", "d5/d8c/a15810.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
 ];

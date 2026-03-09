@@ -1,15 +1,13 @@
 var a10026 =
 [
-    [ "HomeMovementGenerator", "da/d24/a10026.html#af52495a86296d288d2312bf8616108d0", null ],
-    [ "~HomeMovementGenerator", "da/d24/a10026.html#a9d889b5112f6c93a0707227fc65dd902", null ],
-    [ "_setTargetLocation", "da/d24/a10026.html#a7ac3be92303b77b640c7199ec65184dd", null ],
-    [ "DoFinalize", "da/d24/a10026.html#ab1ce2df22dba7759ca28a77532a17db1", null ],
-    [ "DoInitialize", "da/d24/a10026.html#aaa6f7b1aa064be00a726539830d6c30e", null ],
-    [ "DoReset", "da/d24/a10026.html#acfebf75bcd7cc62c1b0105eb0c5e9100", null ],
-    [ "DoUpdate", "da/d24/a10026.html#a4e3c1f79f8115312f22612a4b8c6fede", null ],
-    [ "GetMovementGeneratorType", "da/d24/a10026.html#aaa203c37c8259c8b54ad5ec70db484f1", null ],
-    [ "unitSpeedChanged", "da/d24/a10026.html#ac5078f624899e574a7b56b72e2824b9a", null ],
-    [ "_walk", "da/d24/a10026.html#a97f3cd9b1c5919ffe9ab979d8ad4e747", null ],
-    [ "arrived", "da/d24/a10026.html#aab9cd0057a625afef2d96feebd6428fb", null ],
-    [ "i_recalculateTravel", "da/d24/a10026.html#a77b40bcbada8ea43accae23ceb642628", null ]
+    [ "ServerMail", "da/d24/a10026.html#a50cf3e6929e397a3c1de83b9fcf83416", null ],
+    [ "active", "da/d24/a10026.html#a24a12fcafd0b0f4a7c0558737d8fd71f", null ],
+    [ "body", "da/d24/a10026.html#a58d352611dcb35126f6ec93622ddc4b9", null ],
+    [ "conditions", "da/d24/a10026.html#a818b993f72f82a022277e1c8d9160011", null ],
+    [ "id", "da/d24/a10026.html#a6b47994eff9201a6a75f8c621b64716c", null ],
+    [ "itemsA", "da/d24/a10026.html#a0992466672427c1d24c686bd8fa39378", null ],
+    [ "itemsH", "da/d24/a10026.html#ad120200ba47bf8ea8511a46d56f0daec", null ],
+    [ "moneyA", "da/d24/a10026.html#a6a84ca583beef891422f67bef7919c47", null ],
+    [ "moneyH", "da/d24/a10026.html#a0e899ce54283bc000cc6afb96e6a3244", null ],
+    [ "subject", "da/d24/a10026.html#a246e499c69c57a436aac4c039ea37d31", null ]
 ];

@@ -1,12 +1,11 @@
 var a17618 =
 [
-    [ "npc_high_overlord_saurfangAI", "dd/dad/a17618.html#a5c31259d9eb26e09d2b645d826e75328", null ],
-    [ "DoAction", "dd/dad/a17618.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
-    [ "MovementInform", "dd/dad/a17618.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
-    [ "Reset", "dd/dad/a17618.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
-    [ "SpellHit", "dd/dad/a17618.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
-    [ "UpdateAI", "dd/dad/a17618.html#a92124e7490a066bf63836397a3bdc71b", null ],
-    [ "_events", "dd/dad/a17618.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
-    [ "_guardList", "dd/dad/a17618.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
-    [ "_instance", "dd/dad/a17618.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
+    [ "npc_pos_leader_secondAI", "dd/dad/a17618.html#a2ded8591da2548921cd016d592d1f1c8", null ],
+    [ "DoAction", "dd/dad/a17618.html#a941d3b42d6a0e58496b724af56fee44a", null ],
+    [ "MovementInform", "dd/dad/a17618.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
+    [ "SpellHitTarget", "dd/dad/a17618.html#ae630b7b225379831d15a11f66507bc6a", null ],
+    [ "UpdateAI", "dd/dad/a17618.html#a640aea9ce4a47dd13d417748e533fc33", null ],
+    [ "barrierGUID", "dd/dad/a17618.html#a452c096475581c12bf2f4ccb12448026", null ],
+    [ "events", "dd/dad/a17618.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
+    [ "pInstance", "dd/dad/a17618.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
 ];

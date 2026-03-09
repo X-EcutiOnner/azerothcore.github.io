@@ -1,8 +1,10 @@
 var a09550 =
 [
-    [ "LocalizedPacketDo", "d1/dbc/a09550.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
-    [ "~LocalizedPacketDo", "d1/dbc/a09550.html#a4296260b2011e1f7c300987073863ca9", null ],
-    [ "operator()", "d1/dbc/a09550.html#a43449bdf0302e426b8cb4341326196b1", null ],
-    [ "i_builder", "d1/dbc/a09550.html#a2c794905898feb502bfc5d3760f962b8", null ],
-    [ "i_data_cache", "d1/dbc/a09550.html#a2bbff655e1a5268981c48e3ee028b104", null ]
+    [ "PlayerListSearcherWithSharedVision", "d1/dbc/a09550.html#aace01efe09c3190b81651d237e2e9a8a", null ],
+    [ "Visit", "d1/dbc/a09550.html#a5348d9887ebfd9c0a0016b31d3db8ffb", null ],
+    [ "Visit", "d1/dbc/a09550.html#a34c24d8e219b8dbbdf27c1d36489f3fa", null ],
+    [ "Visit", "d1/dbc/a09550.html#ac45ae498dc7f74426b66344d9367046a", null ],
+    [ "i_check", "d1/dbc/a09550.html#a7261e79c2980cfb61686c01254d70c8b", null ],
+    [ "i_objects", "d1/dbc/a09550.html#ac8e5495912121d8d3baac9d02e947815", null ],
+    [ "i_phaseMask", "d1/dbc/a09550.html#a9bd8d6c842ac2f4cf1f10441216f906c", null ]
 ];

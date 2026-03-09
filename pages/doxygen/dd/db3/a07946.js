@@ -1,6 +1,5 @@
 var a07946 =
 [
-    [ "p0", "dd/db3/a07946.html#aaf1df5d479ef12c6bfa9b02c8d9a54ad", null ],
-    [ "p1", "dd/db3/a07946.html#a8c5a9c6371f264469203575be48684fa", null ],
-    [ "p2", "dd/db3/a07946.html#a40d46738768d6c2037e5978ce32a9fb8", null ]
+    [ "value_type", "dd/db3/a07946.html#ae75362e108b0a7323fe92cae75c4729c", null ],
+    [ "TryConsume", "dd/db3/a07946.html#a19112294c2e36c8e36fb3f77f2ccabba", null ]
 ];

@@ -1,11 +1,6 @@
 var a24726 =
 [
-    [ "CalcPeriodic", "d1/ddb/a24726.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
-    [ "CalculateHasteAmount", "d1/ddb/a24726.html#a75d428e0b3619d53bd9436712d2e394e", null ],
-    [ "CalculateSPAmount", "d1/ddb/a24726.html#a81805b43a47065281f83889d8be95c54", null ],
-    [ "CalculateStatAmount", "d1/ddb/a24726.html#a763276aaa00bb6953e0b52118662e7a8", null ],
-    [ "HandleEffectApply", "d1/ddb/a24726.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
-    [ "HandlePeriodic", "d1/ddb/a24726.html#ab3c7d479eae88ab4a59b06610af19429", null ],
-    [ "PrepareAuraScript", "d1/ddb/a24726.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
-    [ "Register", "d1/ddb/a24726.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
+    [ "HandleScriptEffect", "d1/ddb/a24726.html#ad9863535a38094779e765fe65450ce55", null ],
+    [ "PrepareSpellScript", "d1/ddb/a24726.html#a653061d36c204fbd0d2dc1f983864bf1", null ],
+    [ "Register", "d1/ddb/a24726.html#a5019887a078af86682eea3974bacf6dc", null ]
 ];

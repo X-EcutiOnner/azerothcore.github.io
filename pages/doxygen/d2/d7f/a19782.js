@@ -1,9 +1,6 @@
 var a19782 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "d2/d7f/a19782.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
-    [ "JustEngagedWith", "d2/d7f/a19782.html#a9e6527bc46d7b685d938833d18796cee", null ],
-    [ "MoveInLineOfSight", "d2/d7f/a19782.html#a7449e135f088a2d4b22a423c71118093", null ],
-    [ "MovementInform", "d2/d7f/a19782.html#ac04d90e974f85282737bb5081a123106", null ],
-    [ "UpdateAI", "d2/d7f/a19782.html#afccd77c8e90d129fb3a347205a2102db", null ],
-    [ "events", "d2/d7f/a19782.html#a73c135ec94b41a752fc203c5e20128d0", null ]
+    [ "ChargeRifts", "d2/d7f/a19782.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
+    [ "Execute", "d2/d7f/a19782.html#a8d01bf861d37c25413dc14eee16a2939", null ],
+    [ "_caster", "d2/d7f/a19782.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
 ];

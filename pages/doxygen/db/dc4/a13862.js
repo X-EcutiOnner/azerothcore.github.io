@@ -1,13 +1,6 @@
 var a13862 =
 [
-    [ "npc_lord_gregor_lescovarAI", "db/dc4/a13862.html#ab3ed8a9536fc6be948f280e319d4fec7", null ],
-    [ "DoGuardsDisappearAndDie", "db/dc4/a13862.html#a8588cae3dc8aa3dd46c55439d355df9b", null ],
-    [ "EnterEvadeMode", "db/dc4/a13862.html#a95e60614808191e4c1f909f5e38e4741", null ],
-    [ "JustEngagedWith", "db/dc4/a13862.html#ad0ca7d80d68b9623b99c644daa8f4c57", null ],
-    [ "Reset", "db/dc4/a13862.html#a06df695e9acd96b07f4e58c9461a708c", null ],
-    [ "UpdateAI", "db/dc4/a13862.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
-    [ "WaypointReached", "db/dc4/a13862.html#ad91850dc72d0307e28b881717bfba6db", null ],
-    [ "MarzonGUID", "db/dc4/a13862.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
-    [ "uiPhase", "db/dc4/a13862.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
-    [ "uiTimer", "db/dc4/a13862.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]
+    [ "CastArmageddon", "db/dc4/a13862.html#a2e90929b63e6151252aa01a55dbd801f", null ],
+    [ "Execute", "db/dc4/a13862.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
+    [ "_caster", "db/dc4/a13862.html#a1e70887099a7a47b7c26517d4363ad93", null ]
 ];

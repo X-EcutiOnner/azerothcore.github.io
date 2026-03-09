@@ -1,8 +1,6 @@
 var a10882 =
 [
-    [ "AutoStoreBagItem", "d2/df9/a10882.html#a09e4b117d8789d513a0e766986340140", null ],
-    [ "Read", "d2/df9/a10882.html#a172832ec72012278b000f38d761823b4", null ],
-    [ "DestinationBag", "d2/df9/a10882.html#a7472dfd7ccd78051bc8808832f8e74cb", null ],
-    [ "SourceBag", "d2/df9/a10882.html#a27e27653e6f00869070de7354adff52d", null ],
-    [ "SourceSlot", "d2/df9/a10882.html#a517202ccb270d78289630404beb61afc", null ]
+    [ "GuildUpdateMotdText", "d2/df9/a10882.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
+    [ "Read", "d2/df9/a10882.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
+    [ "MotdText", "d2/df9/a10882.html#a5b2ee458a919be7f912d49cf984490ac", null ]
 ];

@@ -1,6 +1,6 @@
 var a20902 =
 [
-    [ "npc_xt002_pummellerAI", "de/d3c/a20906.html", "de/d3c/a20906" ],
-    [ "npc_xt002_pummeller", "d8/d2f/a20902.html#af620e31a231ca8fb812324521bad4673", null ],
-    [ "GetAI", "d8/d2f/a20902.html#a9ec4e452a3763c3d03e581a17e5d7efe", null ]
+    [ "boss_yoggsaron_death_orb", "d8/d2f/a20902.html#aad626ea1576dc2efe2d228e4919de393", null ],
+    [ "UpdateAI", "d8/d2f/a20902.html#a9557c25da8cfdc6b7e62ff9b2b78714b", null ],
+    [ "_startTimer", "d8/d2f/a20902.html#a272b6b4c6c8f1f9fed933b9e1fd6f749", null ]
 ];

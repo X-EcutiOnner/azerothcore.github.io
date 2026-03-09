@@ -1,6 +1,12 @@
 var a20358 =
 [
-    [ "npc_ulduar_flash_freezeAI", "df/d53/a20362.html", "df/d53/a20362" ],
-    [ "npc_ulduar_flash_freeze", "d2/dd7/a20358.html#a0301ed1231d3b0d113e9fc9389e8f160", null ],
-    [ "GetAI", "d2/dd7/a20358.html#a933f99c8d38ab98c8454919b6373bb41", null ]
+    [ "boss_freya_elder_stonebark", "d2/dd7/a20358.html#ad379afe772ff29d689bc763786d28793", null ],
+    [ "DamageTaken", "d2/dd7/a20358.html#a1a6b9897ffff95b29de351d02411f216", null ],
+    [ "JustDied", "d2/dd7/a20358.html#a32df2ec9d4e24c6a8f7fddefc4b5e61f", null ],
+    [ "JustEngagedWith", "d2/dd7/a20358.html#a363a639d65fb746cca3410427f8a1e10", null ],
+    [ "KilledUnit", "d2/dd7/a20358.html#ae10b5a8a477107432cbcc93c4da9c3ec", null ],
+    [ "Reset", "d2/dd7/a20358.html#ac1edb11c975123a59bc4099acdefcd0f", null ],
+    [ "UpdateAI", "d2/dd7/a20358.html#a913cd147d5a88189e183d817357946e3", null ],
+    [ "_chargesCount", "d2/dd7/a20358.html#adc75d1735bc32fad8cad2abf4d8712fa", null ],
+    [ "events", "d2/dd7/a20358.html#a5d88a59b9c98981c3f7f049701fc76e3", null ]
 ];

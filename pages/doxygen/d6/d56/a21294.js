@@ -1,6 +1,7 @@
 var a21294 =
 [
-    [ "npc_massive_jormungarAI", "d4/d9c/a21298.html", "d4/d9c/a21298" ],
-    [ "npc_massive_jormungar", "d6/d56/a21294.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
-    [ "GetAI", "d6/d56/a21294.html#a68e3557e967ef633ba59fa81e661b80c", null ]
+    [ "PrepareAuraScript", "d6/d56/a21294.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
+    [ "Register", "d6/d56/a21294.html#a7225d1f83921e4de06516c1db5a5038a", null ],
+    [ "TriggerFists", "d6/d56/a21294.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
+    [ "Validate", "d6/d56/a21294.html#a977897c569245148eb94892bb42d4ca5", null ]
 ];

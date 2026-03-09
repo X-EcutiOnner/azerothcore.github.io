@@ -1,9 +1,9 @@
 var a17906 =
 [
-    [ "CheckAreaTarget", "d0/d9b/a17906.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
-    [ "HandleApply", "d0/d9b/a17906.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
-    [ "Load", "d0/d9b/a17906.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
-    [ "PrepareAuraScript", "d0/d9b/a17906.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
-    [ "Register", "d0/d9b/a17906.html#a8f476129e0678149463c4b16232f6cb6", null ],
-    [ "_teamIdInInstance", "d0/d9b/a17906.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
+    [ "CheckTarget", "d0/d9b/a17906.html#a43fc6a16aca217ef043fa34a58391357", null ],
+    [ "HandlePresence", "d0/d9b/a17906.html#a52ea6041c5fe004c1e996a974cc59d5d", null ],
+    [ "OnCast", "d0/d9b/a17906.html#a96cec6f1b51a2c0c03f89447c5306b5a", null ],
+    [ "PrepareSpellScript", "d0/d9b/a17906.html#abe559b32aa82f19abb0a6d664b75c748", null ],
+    [ "Register", "d0/d9b/a17906.html#ad8c7a9935e85c06f837e694ebcaffba1", null ],
+    [ "Validate", "d0/d9b/a17906.html#a2301414a88dcbf4bdc8a486ec4be994e", null ]
 ];

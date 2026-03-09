@@ -1,12 +1,10 @@
 var a09602 =
 [
-    [ "EventLogEntry", "dd/d5f/a09602.html#a31726d40f7b89077b45ffbaca8396a9d", null ],
-    [ "EventLogEntry", "dd/d5f/a09602.html#a96a2e3a6d565db452e7d0f1a152f63c7", null ],
-    [ "~EventLogEntry", "dd/d5f/a09602.html#a8d6bf0a5a53fdc8e99ad53293d96af7c", null ],
-    [ "SaveToDB", "dd/d5f/a09602.html#a2ca71e291a44f95bb42d51083aa84985", null ],
-    [ "WritePacket", "dd/d5f/a09602.html#adffe90bd0265dea0ca2fd6bc83f3056e", null ],
-    [ "m_eventType", "dd/d5f/a09602.html#a00216643e6856591402c21df490c1fec", null ],
-    [ "m_newRank", "dd/d5f/a09602.html#ab733c92f478dc36e3b5ffc61799a6ce7", null ],
-    [ "m_playerGuid1", "dd/d5f/a09602.html#a06a2b45d16860c711829f49f97624272", null ],
-    [ "m_playerGuid2", "dd/d5f/a09602.html#a1f66e71f9536e484663e437bbcbcefca", null ]
+    [ "MostHPPercentMissingInRange", "dd/d5f/a09602.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
+    [ "operator()", "dd/d5f/a09602.html#ab1734490a3db95ad715756e85ecfaf77", null ],
+    [ "i_hpPct", "dd/d5f/a09602.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
+    [ "i_maxHpPct", "dd/d5f/a09602.html#afd12795ef0cd99e05e4e21f869582416", null ],
+    [ "i_minHpPct", "dd/d5f/a09602.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
+    [ "i_obj", "dd/d5f/a09602.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
+    [ "i_range", "dd/d5f/a09602.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
 ];

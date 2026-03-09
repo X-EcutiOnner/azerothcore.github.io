@@ -1,7 +1,7 @@
 var a15198 =
 [
-    [ "boss_kurinnaxx", "dc/dbf/a15198.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
-    [ "InitializeAI", "dc/dbf/a15198.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
-    [ "JustDied", "dc/dbf/a15198.html#adb749c8737888a099ad7a3d58292a612", null ],
-    [ "JustEngagedWith", "dc/dbf/a15198.html#a451cd7ee80b0428a199c33012562bdb3", null ]
+    [ "hyjalThrallAI", "d6/d55/a15202.html", "d6/d55/a15202" ],
+    [ "npc_hyjal_thrall", "dc/dbf/a15198.html#a232f085f208a47f7fae08128de1d06b8", null ],
+    [ "GetAI", "dc/dbf/a15198.html#a699b5df19e4e84166348ecfba2dd0172", null ],
+    [ "OnGossipSelect", "dc/dbf/a15198.html#af833f26d79d34655c010aa04f984a94a", null ]
 ];

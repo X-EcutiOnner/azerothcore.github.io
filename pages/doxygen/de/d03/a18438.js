@@ -1,7 +1,6 @@
 var a18438 =
 [
-    [ "OnPeriodic", "de/d03/a18438.html#accd12b06341f3168c74cb18926614f7f", null ],
-    [ "OnUpdate", "de/d03/a18438.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
-    [ "PrepareAuraScript", "de/d03/a18438.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
-    [ "Register", "de/d03/a18438.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
+    [ "OnRemove", "de/d03/a18438.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
+    [ "PrepareAuraScript", "de/d03/a18438.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
+    [ "Register", "de/d03/a18438.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
 ];

@@ -1,5 +1,6 @@
 var a13334 =
 [
-    [ "npc_apothecary_frye", "df/d68/a13334.html#a5546099958a9a267d237e65720588456", null ],
-    [ "JustDied", "df/d68/a13334.html#ab1dc310e90c591b44ce4d5bcf1bac930", null ]
+    [ "HandleProc", "df/d68/a13334.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
+    [ "PrepareAuraScript", "df/d68/a13334.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
+    [ "Register", "df/d68/a13334.html#a24df76ff0933685bade58deff98856d2", null ]
 ];

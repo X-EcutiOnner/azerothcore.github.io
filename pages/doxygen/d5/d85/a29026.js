@@ -1,10 +1,14 @@
 var a29026 =
 [
-    [ "Tile", "d5/d85/a29026.html#aa68e7829d0a4109a5fca036afe725756", null ],
-    [ "~Tile", "d5/d85/a29026.html#aa5be25df0d267368c90c8f790b218f7a", null ],
-    [ "chf", "d5/d85/a29026.html#a9cd4f4be0393e1b40d1ea83dad189a35", null ],
-    [ "cset", "d5/d85/a29026.html#a8263aa243c049daa70ed537f206c6a15", null ],
-    [ "dmesh", "d5/d85/a29026.html#a23efb981de3dbc2ecdbe4dafdbaa8f58", null ],
-    [ "pmesh", "d5/d85/a29026.html#a00dde7c2b62890f4d78697e669f2a810", null ],
-    [ "solid", "d5/d85/a29026.html#a6c263578a352c75a21570a26439d6156", null ]
+    [ "IsFlyable", "d5/d85/a29026.html#a2a59297a617c9d3b582ede2a028bd07e", null ],
+    [ "IsSanctuary", "d5/d85/a29026.html#ad239b4e381b6af858a181e9c361d6cbb", null ],
+    [ "area_level", "d5/d85/a29026.html#a23434848cf8b2eab4de1b6530b8d5f8d", null ],
+    [ "area_name", "d5/d85/a29026.html#a87653e6b7f7368a59af7adaf77a49e10", null ],
+    [ "exploreFlag", "d5/d85/a29026.html#a78cf3009cd0fe49dc7870c7f65c79251", null ],
+    [ "flags", "d5/d85/a29026.html#a5854e3f565d827dbad3d9a36f99e9a25", null ],
+    [ "ID", "d5/d85/a29026.html#ad02bb9fce21f464e38223581074a9e21", null ],
+    [ "LiquidTypeOverride", "d5/d85/a29026.html#abe743a4b542c4356aab9d41f3fae7457", null ],
+    [ "mapid", "d5/d85/a29026.html#a048ac249318efd9aa35bb705bfb92dc8", null ],
+    [ "team", "d5/d85/a29026.html#ae18e0efef83e663452715f6be15ecaef", null ],
+    [ "zone", "d5/d85/a29026.html#a3b4f9e187629db5ced9a06c601fc7f78", null ]
 ];

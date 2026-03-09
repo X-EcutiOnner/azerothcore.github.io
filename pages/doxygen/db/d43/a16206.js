@@ -1,7 +1,9 @@
 var a16206 =
 [
-    [ "DelayedTalk", "db/d43/a16206.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
-    [ "Execute", "db/d43/a16206.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
-    [ "_owner", "db/d43/a16206.html#a9d13769bb3fbaed32919fc919da35006", null ],
-    [ "_talkId", "db/d43/a16206.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
+    [ "npc_pluckyAI", "db/d43/a16206.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
+    [ "ReceiveEmote", "db/d43/a16206.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
+    [ "Reset", "db/d43/a16206.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
+    [ "UpdateAI", "db/d43/a16206.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
+    [ "NormFaction", "db/d43/a16206.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
+    [ "ResetTimer", "db/d43/a16206.html#ac9808c21666cd17b0603e7e67a61d015", null ]
 ];

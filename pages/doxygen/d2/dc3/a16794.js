@@ -1,6 +1,6 @@
 var a16794 =
 [
-    [ "boss_eydisAI", "d8/d8b/a16798.html", "d8/d8b/a16798" ],
-    [ "boss_eydis", "d2/dc3/a16794.html#aa555f80882499bc4627e622fbb48b2a4", null ],
-    [ "GetAI", "d2/dc3/a16794.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
+    [ "HandleSpellHit", "d2/dc3/a16794.html#a8c801b92f6e405668edae54989dd58e8", null ],
+    [ "PrepareSpellScript", "d2/dc3/a16794.html#abae02a74f626b890f61df551318dcc81", null ],
+    [ "Register", "d2/dc3/a16794.html#a2d5b57bbf51aadfc3eb56f8f756d04ef", null ]
 ];

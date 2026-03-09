@@ -1,7 +1,9 @@
 var a18182 =
 [
-    [ "HandleScript", "dc/def/a18182.html#aa579f99f704f4db50b38b5f9b87259d7", null ],
-    [ "PrepareSpellScript", "dc/def/a18182.html#a92a6f2b0d5a0845e35c07d0b5cefe053", null ],
-    [ "Register", "dc/def/a18182.html#a2278ecef3dc60082ccb8964a34e55587", null ],
-    [ "Validate", "dc/def/a18182.html#aeee94330ee7ea9b4fd7447e642404119", null ]
+    [ "HandleApply", "dc/def/a18182.html#a5f23d41765ec949486094a0da45be7e8", null ],
+    [ "HandleRemove", "dc/def/a18182.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
+    [ "Load", "dc/def/a18182.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
+    [ "PrepareAuraScript", "dc/def/a18182.html#aabf5fdf4578935db11e041e638fba187", null ],
+    [ "Register", "dc/def/a18182.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
+    [ "SendClientControl", "dc/def/a18182.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
 ];

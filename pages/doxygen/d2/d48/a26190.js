@@ -1,7 +1,6 @@
 var a26190 =
 [
-    [ "OnApply", "d2/d48/a26190.html#aa86d7b45f028773b8666c06d3a0e60b4", null ],
-    [ "OnRemove", "d2/d48/a26190.html#a0fdd3c926bb1b2846579102e64e8e18c", null ],
-    [ "PrepareAuraScript", "d2/d48/a26190.html#aa93b45e31c33caf3ea51a26846566b34", null ],
-    [ "Register", "d2/d48/a26190.html#a56d819c88a4e70a89cef5183e3c5b728", null ]
+    [ "HandleOpenObject", "d2/d48/a26190.html#ab658c13615fac1861470bb4b853e76a4", null ],
+    [ "PrepareSpellScript", "d2/d48/a26190.html#a0fd0a3dc06fc2140add9e3d86e544bef", null ],
+    [ "Register", "d2/d48/a26190.html#a40ff1e10d366ca7183e4e8d027c92d1b", null ]
 ];

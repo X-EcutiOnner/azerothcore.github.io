@@ -1,6 +1,6 @@
 var a26698 =
 [
-    [ "HandleScript", "df/d3c/a26698.html#a8866d650b96c4cae3201a2829cbeff3d", null ],
-    [ "PrepareSpellScript", "df/d3c/a26698.html#aa16f51aa8a4fea2a84cadbb01d18b635", null ],
-    [ "Register", "df/d3c/a26698.html#aeaa094c8d1f3407bf56d58d88c2238a1", null ]
+    [ "HandleEffectCalcSpellMod", "df/d3c/a26698.html#a81395c735b9546632af71319067b575b", null ],
+    [ "PrepareAuraScript", "df/d3c/a26698.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
+    [ "Register", "df/d3c/a26698.html#ae49a0ec525819981595c12839133a35b", null ]
 ];

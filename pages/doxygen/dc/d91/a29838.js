@@ -1,7 +1,5 @@
 var a29838 =
 [
-    [ "cutPercent", "dc/d91/a29838.html#a8581a6a5198dab10680f477a477a7c80", null ],
-    [ "depositPercent", "dc/d91/a29838.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
-    [ "faction", "dc/d91/a29838.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
-    [ "houseId", "dc/d91/a29838.html#a1bf77c1b14731def0e3de44143df2eed", null ]
+    [ "CreateBasicProcEntry", "dc/d91/a29838.html#a047473844c17b28cab20159721fc9ee8", null ],
+    [ "SetUp", "dc/d91/a29838.html#ad9848a18a0b1fa950cabcfa1584e0103", null ]
 ];

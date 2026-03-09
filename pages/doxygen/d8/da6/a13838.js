@@ -1,7 +1,12 @@
 var a13838 =
 [
-    [ "npc_deathstalker_erlandAI", "d3/db7/a13842.html", "d3/db7/a13842" ],
-    [ "npc_deathstalker_erland", "d8/da6/a13838.html#ad49faf068e982f245f0d1e21f0700c40", null ],
-    [ "GetAI", "d8/da6/a13838.html#ab59235f212ddb985056cb8e32719b723", null ],
-    [ "OnQuestAccept", "d8/da6/a13838.html#a81b20bc8c7249a59d69ba63ab32a5f06", null ]
+    [ "boss_sathrovarr", "d8/da6/a13838.html#a92bff830219f795d0aae4511f3d524bb", null ],
+    [ "CanAIAttack", "d8/da6/a13838.html#a053dcf604aed91ac7c888d682653da54", null ],
+    [ "DoAction", "d8/da6/a13838.html#ad0b549678e5b4eb7dfc1c1879885b45a", null ],
+    [ "JustDied", "d8/da6/a13838.html#aa6683f0ccb70260e24f79d86ec4ae2d1", null ],
+    [ "JustEngagedWith", "d8/da6/a13838.html#a1f3a74ac6f83673eed9b2a4276a5cf49", null ],
+    [ "KilledUnit", "d8/da6/a13838.html#a17e2a5d253536c25cd04269b71a5c0ed", null ],
+    [ "Reset", "d8/da6/a13838.html#a171c0e2c07ddf4c5271af8ed83f15257", null ],
+    [ "UpdateAI", "d8/da6/a13838.html#a99c5c8801333f2eaf6b9fee287588093", null ],
+    [ "_instance", "d8/da6/a13838.html#af7bfd6a65db102b5010f7b300e4acd27", null ]
 ];

@@ -1,10 +1,17 @@
 var a02480 =
 [
-    [ "SavedAddonsList", "d2/d35/a02480.html#afa468163a23ed58507a89e5724c06eac", null ],
-    [ "GetAddonInfo", "d2/d35/a02480.html#a65cb6a88902972060e44c57d7d9ec738", null ],
-    [ "GetBannedAddons", "d2/d35/a02480.html#ad7d0938e7463238a86e8c811e1a58800", null ],
-    [ "LoadFromDB", "d2/d35/a02480.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
-    [ "SaveAddon", "d2/d35/a02480.html#a85021021149b7eb4d78cbe81e43d3d45", null ],
-    [ "m_bannedAddons", "d2/d35/a02480.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
-    [ "m_knownAddons", "d2/d35/a02480.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
+    [ "GroupQueueInfo", "d0/dd3/a07574.html", "d0/dd3/a07574" ],
+    [ "BattlegroundQueue", "df/d2f/a07578.html", "df/d2f/a07578" ],
+    [ "BattlegroundQueue::SelectionPool", "df/dd7/a07582.html", "df/dd7/a07582" ],
+    [ "BGQueueInviteEvent", "d2/d62/a07586.html", "d2/d62/a07586" ],
+    [ "BGQueueRemoveEvent", "d7/da3/a07590.html", "d7/da3/a07590" ],
+    [ "BattlegroundQueueGroupTypes", "d2/d35/a02480.html#a589e9d4a3badd48f91fddc2afa661b17", [
+      [ "BG_QUEUE_PREMADE_ALLIANCE", "d2/d35/a02480.html#a589e9d4a3badd48f91fddc2afa661b17a8f1f06d0124e05efcb390e0e9a29ddf4", null ],
+      [ "BG_QUEUE_PREMADE_HORDE", "d2/d35/a02480.html#a589e9d4a3badd48f91fddc2afa661b17a39d0b398e1bcd59620eb0f8701139d1c", null ],
+      [ "BG_QUEUE_NORMAL_ALLIANCE", "d2/d35/a02480.html#a589e9d4a3badd48f91fddc2afa661b17a4b31b889f93f89bfaacde424717c2697", null ],
+      [ "BG_QUEUE_NORMAL_HORDE", "d2/d35/a02480.html#a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d", null ],
+      [ "BG_QUEUE_CFBG", "d2/d35/a02480.html#a589e9d4a3badd48f91fddc2afa661b17ab87d2294b56bc938b1c7bc14c5040239", null ],
+      [ "BG_QUEUE_MAX", "d2/d35/a02480.html#a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992", null ]
+    ] ],
+    [ "COUNT_OF_PLAYERS_TO_AVERAGE_WAIT_TIME", "d2/d35/a02480.html#aebc536d6c303d31049ad05f333c275ba", null ]
 ];

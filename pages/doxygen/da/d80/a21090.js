@@ -1,6 +1,7 @@
 var a21090 =
 [
-    [ "boss_yoggsaron_voiceAI", "d0/de7/a21094.html", "d0/de7/a21094" ],
-    [ "boss_yoggsaron_voice", "da/d80/a21090.html#ae5d10416bb83e57c0e9d3ef5d6f5adc6", null ],
-    [ "GetAI", "da/d80/a21090.html#a50abcde0313df06a114a2f5f44a1d481", null ]
+    [ "npc_frost_tomb", "da/d80/a21090.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
+    [ "JustDied", "da/d80/a21090.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
+    [ "UpdateAI", "da/d80/a21090.html#af2122e9c8cb206151f631659c7d167da", null ],
+    [ "PrisonerGUID", "da/d80/a21090.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
 ];

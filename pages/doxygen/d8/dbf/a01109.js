@@ -1,25 +1,21 @@
 var a01109 =
 [
-    [ "UpdateData", "db/d69/a08585.html", "db/d69/a08585" ],
-    [ "OBJECT_UPDATE_FLAGS", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9e", [
-      [ "UPDATEFLAG_NONE", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9eab3f4d8eafca6e04f6b445bedda939799", null ],
-      [ "UPDATEFLAG_SELF", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9eacb59b2f7a20c57e2dc11ad4a4a74195f", null ],
-      [ "UPDATEFLAG_TRANSPORT", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9ea7b800b143915d7a9ea65020153cee3ca", null ],
-      [ "UPDATEFLAG_HAS_TARGET", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9eae67f7342d7c369d11cfb6d50bea094dd", null ],
-      [ "UPDATEFLAG_UNKNOWN", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9eab102319844f46e52393bb89975c591f7", null ],
-      [ "UPDATEFLAG_LOWGUID", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9ea65f9bb0b19a3ecbc46fbe3b4573cb15b", null ],
-      [ "UPDATEFLAG_LIVING", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9ea0eedb2f7b118804bb3fe89fde52d7632", null ],
-      [ "UPDATEFLAG_STATIONARY_POSITION", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9ead20e13b8389c2680af0a59dc557d4ee1", null ],
-      [ "UPDATEFLAG_VEHICLE", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9ea6dfc1770c97c7c1d8433e0e12ad47c51", null ],
-      [ "UPDATEFLAG_POSITION", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9ea2e4269d3be94ff8f1f715c41c060222b", null ],
-      [ "UPDATEFLAG_ROTATION", "d8/dbf/a01109.html#af1fc105a57ed0bc535d17509e4ad5e9ea2a1fa785627688900bcc7bb221f1462a", null ]
+    [ "CleaningFlags", "d8/dbf/a01109.html#ad8ba5c50a4cd2d5193e35ccc83798c67", [
+      [ "CLEANING_FLAG_ACHIEVEMENT_PROGRESS", "d8/dbf/a01109.html#ad8ba5c50a4cd2d5193e35ccc83798c67afdcd00f9b75d683b143cbbe0ac22d748", null ],
+      [ "CLEANING_FLAG_SKILLS", "d8/dbf/a01109.html#ad8ba5c50a4cd2d5193e35ccc83798c67ac23b2648d4cf0fe8d9ff4cd96722a714", null ],
+      [ "CLEANING_FLAG_SPELLS", "d8/dbf/a01109.html#ad8ba5c50a4cd2d5193e35ccc83798c67a39fa10b14e68e92b74ab6697d0e1d564", null ],
+      [ "CLEANING_FLAG_TALENTS", "d8/dbf/a01109.html#ad8ba5c50a4cd2d5193e35ccc83798c67a06a3fa1596c0c32ec619b9b9cb1d1550", null ],
+      [ "CLEANING_FLAG_QUESTSTATUS", "d8/dbf/a01109.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c", null ]
     ] ],
-    [ "OBJECT_UPDATE_TYPE", "d8/dbf/a01109.html#aa0f2952f4b375c0e91f5276ff267cbad", [
-      [ "UPDATETYPE_VALUES", "d8/dbf/a01109.html#aa0f2952f4b375c0e91f5276ff267cbada1fc033f630eab16bbf5b7ce7938d7bef", null ],
-      [ "UPDATETYPE_MOVEMENT", "d8/dbf/a01109.html#aa0f2952f4b375c0e91f5276ff267cbadac08838cdcba5218c53ea7745f5c0c370", null ],
-      [ "UPDATETYPE_CREATE_OBJECT", "d8/dbf/a01109.html#aa0f2952f4b375c0e91f5276ff267cbada4dc60011a5f19dc6c7d8ef61f9b10e20", null ],
-      [ "UPDATETYPE_CREATE_OBJECT2", "d8/dbf/a01109.html#aa0f2952f4b375c0e91f5276ff267cbadaf72ecfc1f4c6b5006f7985299cc2cd8f", null ],
-      [ "UPDATETYPE_OUT_OF_RANGE_OBJECTS", "d8/dbf/a01109.html#aa0f2952f4b375c0e91f5276ff267cbada5e1317f5c975a9e3a19c37922f49e089", null ],
-      [ "UPDATETYPE_NEAR_OBJECTS", "d8/dbf/a01109.html#aa0f2952f4b375c0e91f5276ff267cbada5017763e8c136985831c2ee1583795d5", null ]
-    ] ]
+    [ "AchievementProgressCheck", "d8/dbf/a01109.html#afe5cf638b3ba626c9dc18258d4c528fa", null ],
+    [ "CheckUnique", "d8/dbf/a01109.html#ab98182e5f92f72090600314cc41f0d39", null ],
+    [ "CleanCharacterAchievementProgress", "d8/dbf/a01109.html#ae5939466cf9b4fbb63eb136baf62767f", null ],
+    [ "CleanCharacterQuestStatus", "d8/dbf/a01109.html#a9f512823f852120bf4c3ec78eb4bbeaa", null ],
+    [ "CleanCharacterSkills", "d8/dbf/a01109.html#ae8c5d4dc123b8a900254bcbc82c1ffbe", null ],
+    [ "CleanCharacterSpell", "d8/dbf/a01109.html#aca5826d283031348e5d6ae6eb75ad605", null ],
+    [ "CleanCharacterTalent", "d8/dbf/a01109.html#a344f61fb209b507b775a0bbfb1315fac", null ],
+    [ "CleanDatabase", "d8/dbf/a01109.html#a357c8a07f912c6efb55a13cc9bc089b9", null ],
+    [ "SkillCheck", "d8/dbf/a01109.html#a0f72cf24646d1ece0eb793890840992d", null ],
+    [ "SpellCheck", "d8/dbf/a01109.html#a02688f57778d28a7bcc4ca6cee2074ad", null ],
+    [ "TalentCheck", "d8/dbf/a01109.html#aac707369555aa95807c11b1578ae80d2", null ]
 ];

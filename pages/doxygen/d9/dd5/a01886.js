@@ -1,4 +1,6 @@
 var a01886 =
 [
-    [ "sWorldSocketMgr", "d7/de6/a04956.html#ga43ae464e29649083953e305b20b3e27f", null ]
+    [ "WorldPackets::Packet", "d0/db7/a10734.html", "d0/db7/a10734" ],
+    [ "WorldPackets::ServerPacket", "d0/d24/a10738.html", "d0/d24/a10738" ],
+    [ "WorldPackets::ClientPacket", "d8/dc5/a10742.html", "d8/dc5/a10742" ]
 ];

@@ -1,11 +1,10 @@
 var a11862 =
 [
-    [ "group_commandscript", "d4/d85/a11862.html#ad2890427cfe3649b2e0fe0896693372c", null ],
-    [ "GetCommands", "d4/d85/a11862.html#a5e7e069c58ecc5baca4ef1118e6c143e", null ],
-    [ "HandleGroupDisbandCommand", "d4/d85/a11862.html#a538539340a697e02453ddcfa669fb646", null ],
-    [ "HandleGroupJoinCommand", "d4/d85/a11862.html#a382e8532c653464e90b45569e813ae37", null ],
-    [ "HandleGroupLeaderCommand", "d4/d85/a11862.html#a899858a63add3c68e0e1446d29216c00", null ],
-    [ "HandleGroupListCommand", "d4/d85/a11862.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
-    [ "HandleGroupRemoveCommand", "d4/d85/a11862.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
-    [ "HandleGroupReviveCommand", "d4/d85/a11862.html#a13968d61ec037aacc8070bc675290f94", null ]
+    [ "CustomChatTextBuilder", "d4/d85/a11862.html#a47b3e24f7100d13180ad1946647999ae", null ],
+    [ "operator()", "d4/d85/a11862.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
+    [ "_language", "d4/d85/a11862.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
+    [ "_msgType", "d4/d85/a11862.html#a0db1501da33fde77ab3c50943666b1fd", null ],
+    [ "_source", "d4/d85/a11862.html#ad75f22d7eb6a62d59730918f4336768c", null ],
+    [ "_target", "d4/d85/a11862.html#aa45be322836be588d8df2b253a22ee5c", null ],
+    [ "_text", "d4/d85/a11862.html#ab59c9b938b564329483e38466169a92c", null ]
 ];

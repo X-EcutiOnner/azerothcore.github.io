@@ -1,6 +1,14 @@
 var a17350 =
 [
-    [ "boss_drakkari_elementalAI", "dd/df7/a17354.html", "dd/df7/a17354" ],
-    [ "boss_drakkari_elemental", "d5/d7a/a17350.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
-    [ "GetAI", "d5/d7a/a17350.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
+    [ "boss_marwynAI", "d5/d7a/a17350.html#abfc074b89e4edcf461c4df4d00c90856", null ],
+    [ "DoAction", "d5/d7a/a17350.html#adc68f202aa2e78bd3a7969bfddcce710", null ],
+    [ "EnterEvadeMode", "d5/d7a/a17350.html#acb0b5675c2ff9f614ddafd88ff96e62e", null ],
+    [ "JustDied", "d5/d7a/a17350.html#a11f64dbf0333c212584d441d4b719d9c", null ],
+    [ "JustEngagedWith", "d5/d7a/a17350.html#ae7509cf8b3b93e97b2e617c1ac181c87", null ],
+    [ "KilledUnit", "d5/d7a/a17350.html#a43b40959a22a1767c1c717f5bf7200ad", null ],
+    [ "Reset", "d5/d7a/a17350.html#a7433e7ed2007ccde768e1e15640ac99d", null ],
+    [ "UpdateAI", "d5/d7a/a17350.html#abaa8f609099423c9d8db5b93f2dd411e", null ],
+    [ "events", "d5/d7a/a17350.html#a87c1f1785612cfd42667bd635ce16f2a", null ],
+    [ "pInstance", "d5/d7a/a17350.html#a524e6c4145851d67edfdc0d9cb5b2e7c", null ],
+    [ "startFightTimer", "d5/d7a/a17350.html#a2a1d7531025f136e368fc7d2b4c0d163", null ]
 ];

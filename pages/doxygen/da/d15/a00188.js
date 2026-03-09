@@ -1,7 +1,7 @@
 var a00188 =
 [
-    [ "VMAP::ModelSpawn", "d3/dc5/a05260.html", "d3/dc5/a05260" ],
-    [ "VMAP::ModelInstance", "df/d65/a05264.html", "df/d65/a05264" ],
+    [ "VMAP::ModelSpawn", "df/d26/a05290.html", "df/d26/a05290" ],
+    [ "VMAP::ModelInstance", "d6/df3/a05294.html", "d6/df3/a05294" ],
     [ "ModelFlags", "da/d15/a00188.html#ac540ff16efadcc07eeb9d8511b94ccce", [
       [ "MOD_M2", "da/d15/a00188.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673", null ],
       [ "MOD_WORLDSPAWN", "da/d15/a00188.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46", null ],

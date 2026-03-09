@@ -1,7 +1,6 @@
 var a11338 =
 [
-    [ "WorldObjectSpellAreaTargetCheck", "d9/d07/a11338.html#a2b017300220426ac42de18e3a8699219", null ],
-    [ "operator()", "d9/d07/a11338.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
-    [ "_position", "d9/d07/a11338.html#a680c45dd148161657da011a1772375ca", null ],
-    [ "_range", "d9/d07/a11338.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ]
+    [ "PetAbandon", "d9/d07/a11338.html#aeac05969ce6bdb41a02f7ffe56126dfd", null ],
+    [ "Read", "d9/d07/a11338.html#a58ebb244de4bd65a85f75dcc24250883", null ],
+    [ "PetGUID", "d9/d07/a11338.html#a7175c081b7cb691ceb4729c1abc5028e", null ]
 ];

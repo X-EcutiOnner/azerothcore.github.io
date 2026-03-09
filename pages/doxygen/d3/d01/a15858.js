@@ -1,7 +1,8 @@
 var a15858 =
 [
-    [ "npc_lakota_windsongAI", "d4/dab/a15862.html", "d4/dab/a15862" ],
-    [ "npc_lakota_windsong", "d3/d01/a15858.html#a08a585ac36189ec23354c7acb26d223d", null ],
-    [ "GetAI", "d3/d01/a15858.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
-    [ "OnQuestAccept", "d3/d01/a15858.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
+    [ "npc_death_ravagerAI", "d3/d01/a15858.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "d3/d01/a15858.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "d3/d01/a15858.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "d3/d01/a15858.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "d3/d01/a15858.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

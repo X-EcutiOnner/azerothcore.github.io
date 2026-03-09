@@ -1,5 +1,6 @@
 var a29158 =
 [
-    [ "go_jotunheim_cage", "d5/d2e/a29158.html#a28c9312de97a822e34f05c7358b42df4", null ],
-    [ "OnGossipHello", "d5/d2e/a29158.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
+    [ "Id", "d5/d2e/a29158.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
+    [ "Order", "d5/d2e/a29158.html#a16fca42d9a0a98e034a93984c4362b53", null ],
+    [ "TypeFlags", "d5/d2e/a29158.html#ac7246adc7c6c3217de8ac093983b7553", null ]
 ];

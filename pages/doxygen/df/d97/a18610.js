@@ -1,6 +1,6 @@
 var a18610 =
 [
-    [ "npc_lk_wicked_spiritAI", "d9/dde/a18614.html", "d9/dde/a18614" ],
-    [ "npc_lk_wicked_spirit", "df/d97/a18610.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
-    [ "GetAI", "df/d97/a18610.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
+    [ "FilterTargets", "df/d97/a18610.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
+    [ "PrepareSpellScript", "df/d97/a18610.html#a24466e7a04722cc7559b086f89d2edc8", null ],
+    [ "Register", "df/d97/a18610.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
 ];

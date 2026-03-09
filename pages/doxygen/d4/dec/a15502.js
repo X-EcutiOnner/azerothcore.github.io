@@ -1,6 +1,8 @@
 var a15502 =
 [
-    [ "npc_draenei_survivorAI", "d6/d5e/a15506.html", "d6/d5e/a15506" ],
-    [ "npc_draenei_survivor", "d4/dec/a15502.html#a1dca668a7c3f868677a9bf306288430c", null ],
-    [ "GetAI", "d4/dec/a15502.html#aa8dde30279bb898a4412491faca79267", null ]
+    [ "HandleScript", "d4/dec/a15502.html#ac58aef1b295e32c8a44852278edc18f8", null ],
+    [ "Load", "d4/dec/a15502.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
+    [ "PrepareSpellScript", "d4/dec/a15502.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
+    [ "Register", "d4/dec/a15502.html#a95f4abd67d6baf75980ff28a7518503d", null ],
+    [ "Validate", "d4/dec/a15502.html#a98271e7adb17b11e39241154a83b0d0d", null ]
 ];

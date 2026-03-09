@@ -1,6 +1,6 @@
 var a16262 =
 [
-    [ "SendEncounterUnit", "d1/d6e/a16262.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
-    [ "Execute", "d1/d6e/a16262.html#ae21b67f8fe8a0677778436563872495f", null ],
-    [ "_owner", "d1/d6e/a16262.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
+    [ "creatureID", "d1/d6e/a16262.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "d1/d6e/a16262.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "d1/d6e/a16262.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

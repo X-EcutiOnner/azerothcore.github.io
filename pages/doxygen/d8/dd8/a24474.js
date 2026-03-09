@@ -1,5 +1,6 @@
 var a24474 =
 [
-    [ "npc_shattrath_daily_quest", "d8/dd8/a24474.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
-    [ "DoAction", "d8/dd8/a24474.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
+    [ "HandleEffectRemove", "d8/dd8/a24474.html#a9472b79a272aff36be657b66883d822f", null ],
+    [ "PrepareAuraScript", "d8/dd8/a24474.html#ad46fedf6ef019d1b5e93d98e7bba8417", null ],
+    [ "Register", "d8/dd8/a24474.html#ace15e1f5c158f1f203862b40da2cf8fc", null ]
 ];

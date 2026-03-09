@@ -1,7 +1,9 @@
 var a22506 =
 [
-    [ "HandleScript", "d6/d15/a22506.html#ad38771460ddf0f95783718775690d1f0", null ],
-    [ "PrepareSpellScript", "d6/d15/a22506.html#a9d3b65b251cc9680352bbf056bb74f05", null ],
-    [ "Register", "d6/d15/a22506.html#a3ba23fd54c35c2d2866db647811c948d", null ],
-    [ "Validate", "d6/d15/a22506.html#a6a58808356785c25032c2befd429ff2b", null ]
+    [ "OPvPCapturePointGH", "d6/d15/a22506.html#a6e46100e50212310af4301c492d5773e", null ],
+    [ "ChangeState", "d6/d15/a22506.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
+    [ "FillInitialWorldStates", "d6/d15/a22506.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
+    [ "HandlePlayerEnter", "d6/d15/a22506.html#afea733c44d129d9a5af78a8337d9e04a", null ],
+    [ "HandlePlayerLeave", "d6/d15/a22506.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
+    [ "SendChangePhase", "d6/d15/a22506.html#aec741b9102829bf77850dc06a49bb8da", null ]
 ];

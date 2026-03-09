@@ -1,14 +1,11 @@
 var a12422 =
 [
-    [ "boss_chromaggusAI", "d6/d8d/a12422.html#a06f811fb8aa0c15e07e8a771ac722056", null ],
-    [ "CanAIAttack", "d6/d8d/a12422.html#a4643974601831ced1f6173965009ad20", null ],
-    [ "Initialize", "d6/d8d/a12422.html#a0697edb4aa9fb60a0db2ccf54c32dc19", null ],
-    [ "JustEngagedWith", "d6/d8d/a12422.html#a66b6f31ebcfdb2fe9adba85311e655bb", null ],
-    [ "PathEndReached", "d6/d8d/a12422.html#a2805052cd90212ecb9b5f313f4ecc384", null ],
-    [ "Reset", "d6/d8d/a12422.html#aaa72a25326e9c4e1936020a1e6e7b87a", null ],
-    [ "SetGUID", "d6/d8d/a12422.html#ac2f3f6efccc3d48ddd2a7f9175439123", null ],
-    [ "UpdateAI", "d6/d8d/a12422.html#a4a120f99c6586fd06af6699bfe913d24", null ],
-    [ "_breathSpells", "d6/d8d/a12422.html#a10e18592d163d4be586701de47da48c9", null ],
-    [ "_playerGUID", "d6/d8d/a12422.html#a03a7fc87c67b04eb0b1289276023c1b4", null ],
-    [ "Enraged", "d6/d8d/a12422.html#acc8b5cfbae8debb22a0493400ec310c4", null ]
+    [ "boss_draganthaurissanAI", "d6/d8d/a12422.html#a2ecd55ed9e7e48829cb85862e965b7d8", null ],
+    [ "JustDied", "d6/d8d/a12422.html#a7a7d4737c4825cfabc1012f9cce0e38a", null ],
+    [ "JustEngagedWith", "d6/d8d/a12422.html#a00604bed2c13a7b470d950059122f018", null ],
+    [ "KilledUnit", "d6/d8d/a12422.html#acec58686917d6e5aff9a51a96b023174", null ],
+    [ "SetData", "d6/d8d/a12422.html#aaa43aa340f946f3b8361f2bb7b29ef40", null ],
+    [ "UpdateAI", "d6/d8d/a12422.html#a04eaea53b78d490373f9bb911cc92596", null ],
+    [ "hasYelled", "d6/d8d/a12422.html#aef5ede4f444e85fafd30faab6043672b", null ],
+    [ "SenatorYells", "d6/d8d/a12422.html#ab4b27bf33b58b44ac604ca6bf6b5e424", null ]
 ];

@@ -1,16 +1,9 @@
 var a24570 =
 [
-    [ "npc_pet_gen_argent_pony_bridle", "d0/d60/a24570.html#a9df25627a92b8914ab8009be099f15d4", null ],
-    [ "DoAction", "d0/d60/a24570.html#a4c08ed385886a118c165925602b1dff7", null ],
-    [ "EnterEvadeMode", "d0/d60/a24570.html#a897e72a4bf279607903bce58a5a45c6f", null ],
-    [ "GetData", "d0/d60/a24570.html#a862546ec66d8282c87169305711e4ec7", null ],
-    [ "OnGossipHello", "d0/d60/a24570.html#a35cfcfd3418295bcb1140d1b8b8266ab", null ],
-    [ "OnGossipSelect", "d0/d60/a24570.html#a36f15c2c0ec3466b492148303e828403", null ],
-    [ "Reset", "d0/d60/a24570.html#a4d885f00ea1b6b97270d41f2583bd0dc", null ],
-    [ "UpdateAI", "d0/d60/a24570.html#a1172dbd471ee8f05f25ff77dc222a61d", null ],
-    [ "_banners", "d0/d60/a24570.html#aeda5ce6c8f4f37ce7a4630c06586cde1", null ],
-    [ "_init", "d0/d60/a24570.html#a8a7dd73d9d3af5ca00998735e45ee7e8", null ],
-    [ "_lastAura", "d0/d60/a24570.html#a4abeb86eb0179a77d47d737d67495411", null ],
-    [ "_mountTimer", "d0/d60/a24570.html#a38253b6d1e1f7fb8fc3fdccb2522a090", null ],
-    [ "_state", "d0/d60/a24570.html#ae57f97ca9a08353e8ec8ebfadbd51541", null ]
+    [ "HandleAfterHit", "d0/d60/a24570.html#ae1b4b01bd1a6903bcd594d2191e2770b", null ],
+    [ "Load", "d0/d60/a24570.html#a7f0dae9dd4ead6ea10e8343810671282", null ],
+    [ "PrepareSpellScript", "d0/d60/a24570.html#a293ff5d232851bce7cbc4a83aa8253b5", null ],
+    [ "Register", "d0/d60/a24570.html#ae9eeb78d006bc01dd05fdd726dea9b90", null ],
+    [ "Validate", "d0/d60/a24570.html#afdbb71f81aacc9ac1a5119707952ec52", null ],
+    [ "_executed", "d0/d60/a24570.html#a2fe77cc280a5fa3bb324d969f1081b65", null ]
 ];

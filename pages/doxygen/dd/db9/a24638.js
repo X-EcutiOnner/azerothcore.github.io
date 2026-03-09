@@ -1,9 +1,6 @@
 var a24638 =
 [
-    [ "npc_pet_shaman_earth_elemental", "dd/db9/a24638.html#a07f3792cb3b5264d209f1b4726867773", null ],
-    [ "InitializeAI", "dd/db9/a24638.html#a8bbca6686ae324a50cd1598125280446", null ],
-    [ "JustEngagedWith", "dd/db9/a24638.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
-    [ "UpdateAI", "dd/db9/a24638.html#ab28951b483cab31bf5672fc74e7323e1", null ],
-    [ "_events", "dd/db9/a24638.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
-    [ "_initAttack", "dd/db9/a24638.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
+    [ "RaiseDeadCheck", "dd/db9/a24638.html#abc6439e5b457f2f6e832f504167a392d", null ],
+    [ "operator()", "dd/db9/a24638.html#a9647e6afd21e7397f05349e66bea4326", null ],
+    [ "_caster", "dd/db9/a24638.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
 ];

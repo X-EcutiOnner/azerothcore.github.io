@@ -1,10 +1,8 @@
 var a26378 =
 [
-    [ "spell_pal_judgement", "d7/d3d/a26378.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
-    [ "HandleScriptEffect", "d7/d3d/a26378.html#add419a824dbebdc168d2b6dc49d07913", null ],
-    [ "PrepareSpellScript", "d7/d3d/a26378.html#a2cffed69c16a1a6189048ed52af35152", null ],
-    [ "Register", "d7/d3d/a26378.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
-    [ "SealApplication", "d7/d3d/a26378.html#a0bb55f122d560c70f416e448d03d2184", null ],
-    [ "Validate", "d7/d3d/a26378.html#a3971c195a279338253771675131b4802", null ],
-    [ "_spellId", "d7/d3d/a26378.html#ad49ea02800078c672747f4fdbbab1d20", null ]
+    [ "CheckProc", "d7/d3d/a26378.html#af82895c2ed07f43c28923b61427f4ddf", null ],
+    [ "HandleProc", "d7/d3d/a26378.html#ad1a13141720e0e605966c2304b0f8eb9", null ],
+    [ "PrepareAuraScript", "d7/d3d/a26378.html#af3ff786badfbb56f90bc3c8865c839bb", null ],
+    [ "Register", "d7/d3d/a26378.html#ac1fea3f63b5ffd742a83e8d45a26ae68", null ],
+    [ "Validate", "d7/d3d/a26378.html#a980784152abf41e91b5fe5a9c2e3d5dc", null ]
 ];

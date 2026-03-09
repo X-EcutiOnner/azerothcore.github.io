@@ -1,6 +1,8 @@
 var a19950 =
 [
-    [ "npc_assembly_lightningAI", "d7/d45/a19954.html", "d7/d45/a19954" ],
-    [ "npc_assembly_lightning", "db/dcd/a19950.html#ac9776fc8cb3dd3f8bfecb1d367afefd2", null ],
-    [ "GetAI", "db/dcd/a19950.html#a4054ea8bb68b2742847b359e19b477df", null ]
+    [ "HandleEffectPeriodic", "db/dcd/a19950.html#abb453e3d38677be7082f2cd4e43134cc", null ],
+    [ "HandleOnEffectApply", "db/dcd/a19950.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
+    [ "PrepareAuraScript", "db/dcd/a19950.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
+    [ "Register", "db/dcd/a19950.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
+    [ "Validate", "db/dcd/a19950.html#a09481646f8ec90b0135d93d83cc18929", null ]
 ];

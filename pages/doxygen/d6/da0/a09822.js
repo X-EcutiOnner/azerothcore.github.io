@@ -1,9 +1,12 @@
 var a09822 =
 [
-    [ "RectangleBoundary", "d6/da0/a09822.html#af401f84700a15fa1d4fcf78358a74735", null ],
-    [ "IsWithinBoundaryArea", "d6/da0/a09822.html#a2d6c735d080382263a401d91da37b934", null ],
-    [ "_maxX", "d6/da0/a09822.html#a3eff421dfe942634814e7526334f1c07", null ],
-    [ "_maxY", "d6/da0/a09822.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
-    [ "_minX", "d6/da0/a09822.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
-    [ "_minY", "d6/da0/a09822.html#af5a7e35d5d9ff23c722643141f01a916", null ]
+    [ "EventLogEntry", "d6/da0/a09822.html#a31726d40f7b89077b45ffbaca8396a9d", null ],
+    [ "EventLogEntry", "d6/da0/a09822.html#a96a2e3a6d565db452e7d0f1a152f63c7", null ],
+    [ "~EventLogEntry", "d6/da0/a09822.html#a8d6bf0a5a53fdc8e99ad53293d96af7c", null ],
+    [ "SaveToDB", "d6/da0/a09822.html#a2ca71e291a44f95bb42d51083aa84985", null ],
+    [ "WritePacket", "d6/da0/a09822.html#adffe90bd0265dea0ca2fd6bc83f3056e", null ],
+    [ "m_eventType", "d6/da0/a09822.html#a00216643e6856591402c21df490c1fec", null ],
+    [ "m_newRank", "d6/da0/a09822.html#ab733c92f478dc36e3b5ffc61799a6ce7", null ],
+    [ "m_playerGuid1", "d6/da0/a09822.html#a06a2b45d16860c711829f49f97624272", null ],
+    [ "m_playerGuid2", "d6/da0/a09822.html#a1f66e71f9536e484663e437bbcbcefca", null ]
 ];

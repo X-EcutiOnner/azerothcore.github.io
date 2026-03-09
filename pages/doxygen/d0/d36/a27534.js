@@ -1,5 +1,7 @@
 var a27534 =
 [
-    [ "go_sacred_fire_of_life", "d0/d36/a27534.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
-    [ "OnGossipHello", "d0/d36/a27534.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
+    [ "AfterRemove", "d0/d36/a27534.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
+    [ "PrepareAuraScript", "d0/d36/a27534.html#af338af238305f1872275e1e5e9fdee16", null ],
+    [ "Register", "d0/d36/a27534.html#aa266e794be35b51a399b13ee2d06199d", null ],
+    [ "Validate", "d0/d36/a27534.html#af58098eb7a904e20846cf728f5adc18b", null ]
 ];

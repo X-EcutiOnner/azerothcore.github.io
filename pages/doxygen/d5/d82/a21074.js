@@ -1,6 +1,5 @@
 var a21074 =
 [
-    [ "boss_yoggsaron_llaneAI", "dd/de4/a21078.html", "dd/de4/a21078" ],
-    [ "boss_yoggsaron_llane", "d5/d82/a21074.html#a671df488222583aa12bc1c75695918b9", null ],
-    [ "GetAI", "d5/d82/a21074.html#a1e7d1b4bce0ca1dbfbbe8c044b451b92", null ]
+    [ "AreaTrigger_at_celestial_planetarium_enterance", "d5/d82/a21074.html#ae1503a754a05a77991d9955a2fb74265", null ],
+    [ "OnTrigger", "d5/d82/a21074.html#aa7aa93e00170313de251af4e562c422c", null ]
 ];

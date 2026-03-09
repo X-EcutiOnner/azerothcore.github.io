@@ -1,11 +1,9 @@
 var a29442 =
 [
-    [ "_ACORE_REALM_CONFIG", "df/d90/a29442.html#a139668c786d564a415e0626b3344dc83", null ],
-    [ "BanExpiryHandler", "df/d90/a29442.html#a625d6480b04e88fcbc85e5b8d29502a6", null ],
-    [ "GetConsoleArguments", "df/d90/a29442.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "KeepDatabaseAliveHandler", "df/d90/a29442.html#a56e4613e7e60d171b9ce45f52758a057", null ],
-    [ "main", "df/d90/a29442.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "SignalHandler", "df/d90/a29442.html#abb73d9c1332263ddf049505e1b12672d", null ],
-    [ "StartDB", "df/d90/a29442.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "df/d90/a29442.html#ga927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "adtId", "df/d90/a29442.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
+    [ "areaId", "df/d90/a29442.html#a7f652c68036429350543fc5a2cc6861e", null ],
+    [ "Flags", "df/d90/a29442.html#a60f9a61948d1e28587c9d1a338730f37", null ],
+    [ "groupId", "df/d90/a29442.html#a09052bad3028899580ffedd556672b64", null ],
+    [ "Id", "df/d90/a29442.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
+    [ "rootId", "df/d90/a29442.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
 ];

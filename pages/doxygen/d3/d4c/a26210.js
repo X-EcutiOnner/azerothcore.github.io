@@ -1,7 +1,5 @@
 var a26210 =
 [
-    [ "CalcPeriodic", "d3/d4c/a26210.html#a404e5309016cfcaa3071c0216978699e", null ],
-    [ "PrepareAuraScript", "d3/d4c/a26210.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
-    [ "Register", "d3/d4c/a26210.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
-    [ "AuraEffectHandleModes", "d3/d4c/a26210.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
+    [ "PrepareSpellScript", "d3/d4c/a26210.html#ac08a5b38ac3012ad31c8ecdf4ca36585", null ],
+    [ "Register", "d3/d4c/a26210.html#a7d6187a7aa8f8d67efe15ffc74fa1873", null ]
 ];

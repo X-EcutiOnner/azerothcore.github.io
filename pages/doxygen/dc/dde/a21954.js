@@ -1,6 +1,7 @@
 var a21954 =
 [
-    [ "npc_heated_battleAI", "d4/d35/a21958.html", "d4/d35/a21958" ],
-    [ "npc_heated_battle", "dc/dde/a21954.html#aceafde04a60940c1027a6e838ffdc137", null ],
-    [ "GetAI", "dc/dde/a21954.html#af73fc1f330bf2fd224e53be39da1c9d3", null ]
+    [ "HandleAfterEffectApply", "dc/dde/a21954.html#ab54795dc49ca453db40494a694158a98", null ],
+    [ "PrepareAuraScript", "dc/dde/a21954.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
+    [ "Register", "dc/dde/a21954.html#addd4fac4cc8a93d800abacb144e3303c", null ],
+    [ "Validate", "dc/dde/a21954.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
 ];

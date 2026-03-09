@@ -1,6 +1,6 @@
 var a21146 =
 [
-    [ "OnEffect", "d0/d3c/a21146.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "d0/d3c/a21146.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "d0/d3c/a21146.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "npc_massive_jormungarAI", "d6/d07/a21150.html", "d6/d07/a21150" ],
+    [ "npc_massive_jormungar", "d0/d3c/a21146.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
+    [ "GetAI", "d0/d3c/a21146.html#a68e3557e967ef633ba59fa81e661b80c", null ]
 ];

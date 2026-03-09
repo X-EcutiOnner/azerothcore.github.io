@@ -1,6 +1,7 @@
 var a25062 =
 [
-    [ "CheckAreaTarget", "d0/d31/a25062.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
-    [ "PrepareAuraScript", "d0/d31/a25062.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
-    [ "Register", "d0/d31/a25062.html#a6647a8e35009cf8559e4957a666f037a", null ]
+    [ "CheckProc", "d0/d31/a25062.html#ab376febda606dba5e9f7f5639f867859", null ],
+    [ "HandleProc", "d0/d31/a25062.html#aa8dac7f0a238f6f131553cbc7a142594", null ],
+    [ "PrepareAuraScript", "d0/d31/a25062.html#a7693a86824050ff5615996d0d03d0292", null ],
+    [ "Register", "d0/d31/a25062.html#a458745913288889f687bb19a147cb0fb", null ]
 ];

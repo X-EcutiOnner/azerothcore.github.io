@@ -1,6 +1,6 @@
 var a17550 =
 [
-    [ "VampiricBiteTargetSelector", "dd/d0a/a17550.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
-    [ "operator()", "dd/d0a/a17550.html#ac16204f50f62cb2568998d1ea137f55d", null ],
-    [ "_source", "dd/d0a/a17550.html#af23a69491c915909566249b109b1f0e8", null ]
+    [ "npc_pos_leaderAI", "d2/d4b/a17554.html", "d2/d4b/a17554" ],
+    [ "npc_pos_leader", "dd/d0a/a17550.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
+    [ "GetAI", "dd/d0a/a17550.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
 ];

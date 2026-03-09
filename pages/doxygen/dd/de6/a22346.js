@@ -1,5 +1,7 @@
 var a22346 =
 [
-    [ "go_pressure_valve", "dd/de6/a22346.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
-    [ "OnGossipHello", "dd/de6/a22346.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
+    [ "HandleScript", "dd/de6/a22346.html#abd4542dc4fd3e21a25c5c3fe5cc6e534", null ],
+    [ "PrepareSpellScript", "dd/de6/a22346.html#a8400fb2e0955444aee21b994d78b78c3", null ],
+    [ "Register", "dd/de6/a22346.html#ae3b2b7d9745ed8b83268a8f57e66eb31", null ],
+    [ "Validate", "dd/de6/a22346.html#aa9c2280cbb38db2620db9869e4959153", null ]
 ];

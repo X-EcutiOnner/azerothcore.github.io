@@ -1,5 +1,6 @@
 var a23802 =
 [
-    [ "go_manticron_cube", "d8/d76/a23802.html#a87d9571aea57f16d38067ebd9e22200d", null ],
-    [ "OnGossipHello", "d8/d76/a23802.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
+    [ "AfterRemove", "d8/d76/a23802.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
+    [ "PrepareAuraScript", "d8/d76/a23802.html#ad5871ce865820456177362c6b790778f", null ],
+    [ "Register", "d8/d76/a23802.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
 ];

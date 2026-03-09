@@ -1,11 +1,8 @@
 var a20730 =
 [
-    [ "npc_ulduar_expedition_engineerAI", "de/d3a/a20730.html#a48e29edad38f8ecbab54579203c93044", null ],
-    [ "Reset", "de/d3a/a20730.html#a8a68e3a58133913d0eb0bf9fd2532db2", null ],
-    [ "SetData", "de/d3a/a20730.html#a31db1ae61777b8f1a38d381e785ce158", null ],
-    [ "UpdateAI", "de/d3a/a20730.html#ab6d29aaae95038282fece78479448459", null ],
-    [ "fixingGUID", "de/d3a/a20730.html#ae0ba3ddbff054a948709e70f0bf9961a", null ],
-    [ "pInstance", "de/d3a/a20730.html#a6b858d46eda05493ec0cac22e174854c", null ],
-    [ "timer", "de/d3a/a20730.html#a926b343da3d3953d386b18f24bc72867", null ],
-    [ "working", "de/d3a/a20730.html#ab8e436472efd91f2d400c02c1b500746", null ]
+    [ "npc_ulduar_dark_rune_guardian", "de/d3a/a20730.html#a225445f5593694dd6b7d9c338735690f", null ],
+    [ "CanAIAttack", "de/d3a/a20730.html#a0e739a36a33d7ab401a55d629230e2df", null ],
+    [ "Reset", "de/d3a/a20730.html#a4839f5722ba8d12beb679ac7edd0fe0e", null ],
+    [ "UpdateAI", "de/d3a/a20730.html#acecc92ef5ad06821854f3afe4f2b673e", null ],
+    [ "timer2", "de/d3a/a20730.html#a5a3af42aaff640e8e286eda5a658c411", null ]
 ];

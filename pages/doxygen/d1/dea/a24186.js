@@ -1,6 +1,5 @@
 var a24186 =
 [
-    [ "go_apexis_relic", "d1/dea/a24186.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
-    [ "OnGossipHello", "d1/dea/a24186.html#ae8f7167ba5b973881e32d604691dc15a", null ],
-    [ "OnGossipSelect", "d1/dea/a24186.html#a025cc7cc9c69f0eb461445170972ab52", null ]
+    [ "npc_karynaku", "d1/dea/a24186.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
+    [ "OnQuestAccept", "d1/dea/a24186.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
 ];

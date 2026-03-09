@@ -1,6 +1,6 @@
 var a08846 =
 [
-    [ "Reset", "da/d0a/a08846.html#acccf504073283011dc32b05a5a87b85a", null ],
-    [ "Guid", "da/d0a/a08846.html#a738a014abc8cb5df525642acc218576b", null ],
-    [ "IsUnselectable", "da/d0a/a08846.html#a037411c58c414d0c5a39915b7acd578d", null ]
+    [ "SkillStatusData", "da/d0a/a08846.html#a7594ceb20110da34f3aa68ac69996b94", null ],
+    [ "pos", "da/d0a/a08846.html#a51ccb328b807f2c7fd275d843218f466", null ],
+    [ "uState", "da/d0a/a08846.html#a232801ad25897a82739916d5be4fdc22", null ]
 ];

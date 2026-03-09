@@ -1,7 +1,7 @@
 var a20310 =
 [
-    [ "HandleEffectPeriodic", "d2/dcf/a20310.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
-    [ "PrepareAuraScript", "d2/dcf/a20310.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
-    [ "Register", "d2/dcf/a20310.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
-    [ "Validate", "d2/dcf/a20310.html#a16c536c913d003826ef4b86c7a497fec", null ]
+    [ "HandleScript", "d2/dcf/a20310.html#a9580f04e1543262026818f0944bb96c3", null ],
+    [ "PrepareSpellScript", "d2/dcf/a20310.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
+    [ "Register", "d2/dcf/a20310.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
+    [ "Validate", "d2/dcf/a20310.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
 ];

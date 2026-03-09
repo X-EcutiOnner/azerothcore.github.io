@@ -1,10 +1,7 @@
 var a27798 =
 [
-    [ "npc_dancing_flamesAI", "d6/df5/a27798.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
-    [ "JustEngagedWith", "d6/df5/a27798.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
-    [ "ReceiveEmote", "d6/df5/a27798.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
-    [ "Reset", "d6/df5/a27798.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
-    [ "UpdateAI", "d6/df5/a27798.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
-    [ "Active", "d6/df5/a27798.html#aa79036bed206327847bf5ad2e768e8f6", null ],
-    [ "CanIteract", "d6/df5/a27798.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
+    [ "HandleProc", "d6/df5/a27798.html#a4294ab4682ea26f78eb4c90c59e86953", null ],
+    [ "PrepareAuraScript", "d6/df5/a27798.html#ac5d22623791d195aa767d5a28e9639b7", null ],
+    [ "Register", "d6/df5/a27798.html#a135abc0548ba189fcf6bd662d7ae8940", null ],
+    [ "Validate", "d6/df5/a27798.html#ac10227e6423f61b0fd67803f01fd4a0e", null ]
 ];

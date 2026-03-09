@@ -1,9 +1,6 @@
 var a27874 =
 [
-    [ "npc_fireworkAI", "d9/d8a/a27874.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
-    [ "FindNearestLauncher", "d9/d8a/a27874.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
-    [ "GetFireworkGameObjectId", "d9/d8a/a27874.html#ae17b4abbbb2088799cec188457677d44", null ],
-    [ "GetFireworkSpell", "d9/d8a/a27874.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
-    [ "isCluster", "d9/d8a/a27874.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
-    [ "Reset", "d9/d8a/a27874.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
+    [ "HandleHeal", "d9/d8a/a27874.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
+    [ "PrepareSpellScript", "d9/d8a/a27874.html#a61a601108cd59e5d87634c02b002e20d", null ],
+    [ "Register", "d9/d8a/a27874.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
 ];

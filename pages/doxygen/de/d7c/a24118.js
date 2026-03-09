@@ -1,10 +1,10 @@
 var a24118 =
 [
-    [ "npc_raging_flames", "de/d7c/a24118.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
-    [ "EnterEvadeMode", "de/d7c/a24118.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
-    [ "FixateRandomTarget", "de/d7c/a24118.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
-    [ "InitializeAI", "de/d7c/a24118.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
-    [ "IsSummonedBy", "de/d7c/a24118.html#ae42c4329be355807af92c1c803e61500", null ],
-    [ "Reset", "de/d7c/a24118.html#a34ac2249e507784d81c4040e87a646e0", null ],
-    [ "UpdateAI", "de/d7c/a24118.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
+    [ "npc_maxx_a_million_escortAI", "de/d7c/a24118.html#ab827933527ed7b4a04b162034876ced8", null ],
+    [ "JustDied", "de/d7c/a24118.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
+    [ "Reset", "de/d7c/a24118.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
+    [ "UpdateAI", "de/d7c/a24118.html#a3b022feb2303875d32ad981e84f66854", null ],
+    [ "WaypointReached", "de/d7c/a24118.html#acd6f45abb93f3f043cd85647405a50f6", null ],
+    [ "bTake", "de/d7c/a24118.html#ac697fc6cbc20c7f316845ed26436049b", null ],
+    [ "uiTakeTimer", "de/d7c/a24118.html#a5d4826dcf893f444a42dedba57460110", null ]
 ];

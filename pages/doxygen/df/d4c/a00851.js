@@ -1,12 +1,12 @@
 var a00851 =
 [
-    [ "AchievementScript", "d5/d74/a10456.html", "d5/d74/a10456" ],
-    [ "AchievementHook", "df/d4c/a00851.html#a62b7eadebfd59858b2e2f1a8713a3ae1", [
-      [ "ACHIEVEMENTHOOK_SET_REALM_COMPLETED", "df/d4c/a00851.html#a62b7eadebfd59858b2e2f1a8713a3ae1ac3fc38cd750edf07c66cf42ae357a782", null ],
-      [ "ACHIEVEMENTHOOK_IS_COMPLETED_CRITERIA", "df/d4c/a00851.html#a62b7eadebfd59858b2e2f1a8713a3ae1a12f1bcc17681be9acc81dc3fb51e8f2e", null ],
-      [ "ACHIEVEMENTHOOK_IS_REALM_COMPLETED", "df/d4c/a00851.html#a62b7eadebfd59858b2e2f1a8713a3ae1a0f6e888313610e200011072afae5b8e7", null ],
-      [ "ACHIEVEMENTHOOK_ON_BEFORE_CHECK_CRITERIA", "df/d4c/a00851.html#a62b7eadebfd59858b2e2f1a8713a3ae1a5073468c76ad4823c32a7fe0cc113048", null ],
-      [ "ACHIEVEMENTHOOK_CAN_CHECK_CRITERIA", "df/d4c/a00851.html#a62b7eadebfd59858b2e2f1a8713a3ae1aa9d01d0837118bf75263bb54b21f18b1", null ],
-      [ "ACHIEVEMENTHOOK_END", "df/d4c/a00851.html#a62b7eadebfd59858b2e2f1a8713a3ae1a2df8c3284122e09fda0d8f4b7789732c", null ]
+    [ "WorldObjectScript", "d0/d90/a10698.html", "d0/d90/a10698" ],
+    [ "WorldObjectHook", "df/d4c/a00851.html#ab8a14556853bd2637a19973d68ba6d1c", [
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_DESTROY", "df/d4c/a00851.html#ab8a14556853bd2637a19973d68ba6d1ca19911e8e8d81b83808647214673201ce", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_CREATE", "df/d4c/a00851.html#ab8a14556853bd2637a19973d68ba6d1caa4f7a14c3e5de3e6ace4c9a4bacc656c", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_SET_MAP", "df/d4c/a00851.html#ab8a14556853bd2637a19973d68ba6d1ca06f900f1b11de87d54d283b4433d5100", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_RESET_MAP", "df/d4c/a00851.html#ab8a14556853bd2637a19973d68ba6d1cac1f7c2d5eb2a8755ef8e628c8c769241", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_UPDATE", "df/d4c/a00851.html#ab8a14556853bd2637a19973d68ba6d1ca7fcc241c6d7db7844d86f1d88fb06144", null ],
+      [ "WORLDOBJECTHOOK_END", "df/d4c/a00851.html#ab8a14556853bd2637a19973d68ba6d1ca4efa80e98b34555980ec0b06142a4c59", null ]
     ] ]
 ];

@@ -1,14 +1,20 @@
 var a13282 =
 [
-    [ "boss_kirtonos_the_heraldAI", "d1/d6e/a13282.html#af68c553db0889c22b7b4b76c868d38e7", null ],
-    [ "DoAction", "d1/d6e/a13282.html#ade11c2ff67c93f09f34b7b0e59766cc3", null ],
-    [ "EnterEvadeMode", "d1/d6e/a13282.html#a92ee25d349cc1ae3e46e4696a01697c3", null ],
-    [ "JustDied", "d1/d6e/a13282.html#a7ecf7396ebcb6f541586435996094f56", null ],
-    [ "JustEngagedWith", "d1/d6e/a13282.html#abcf09a75bed393e5fc03ef184e5c2918", null ],
-    [ "MovementInform", "d1/d6e/a13282.html#a16379320eebb8223a79cf3927bdc507e", null ],
-    [ "UpdateAI", "d1/d6e/a13282.html#a7eedcb1416d05b95f6110751119aea02", null ],
-    [ "events", "d1/d6e/a13282.html#a5dd38f68ce8745484cbc00dadde439dc", null ],
-    [ "events2", "d1/d6e/a13282.html#aaf9216da4f5394953d0316be8d8e8c4f", null ],
-    [ "instance", "d1/d6e/a13282.html#acae39cf7bc9a6d68834d3916fa75a006", null ],
-    [ "TransformsCount", "d1/d6e/a13282.html#aa0834b23d00463ae36bb0ec6a2067257", null ]
+    [ "boss_julianne", "d1/d6e/a13282.html#a6433d08be0d5562e876e00225ebf7398", null ],
+    [ "DamageTaken", "d1/d6e/a13282.html#a8ff7675405322c2d55bd01cec340f6b8", null ],
+    [ "DoAction", "d1/d6e/a13282.html#a985c9c1f77b2769461bf42ddaab302d3", null ],
+    [ "EnterEvadeMode", "d1/d6e/a13282.html#af2499ba9d9c25555c82d8d7ae95c7249", null ],
+    [ "JustDied", "d1/d6e/a13282.html#abdfaf6fa147c6b35bed28bb2e3ed3c14", null ],
+    [ "JustEngagedWith", "d1/d6e/a13282.html#a6c5bd97ad402cc5f5dcda421c5d2bad1", null ],
+    [ "JustReachedHome", "d1/d6e/a13282.html#a6bda02d5534b9087741ee7146ec314b5", null ],
+    [ "KilledUnit", "d1/d6e/a13282.html#a7430fb4f315ee5dcf5f9c49b2daa66b0", null ],
+    [ "Reset", "d1/d6e/a13282.html#a1047e28950098b35bd8a8fc5bec4ed26", null ],
+    [ "ScheduleCombat", "d1/d6e/a13282.html#ab0939f8fe0fc34cafbe2dab4ef449895", null ],
+    [ "SpellHit", "d1/d6e/a13282.html#a1e142c56a514640dab0d5d7711085f9d", null ],
+    [ "UpdateAI", "d1/d6e/a13282.html#ad1e1d5bb27fed12a203c8b10f6ea92a6", null ],
+    [ "_scheduler", "d1/d6e/a13282.html#aae4be9b1035626ecc9ad2f3e5b918cbe", null ],
+    [ "instance", "d1/d6e/a13282.html#acdc787ba6908e716517683a8536ecf3e", null ],
+    [ "isFakingDeath", "d1/d6e/a13282.html#a7a1b3b2ead47a49e80f9ba2b49144a91", null ],
+    [ "phase", "d1/d6e/a13282.html#a5b0b680916cd38b2e20a6a1b1a530362", null ],
+    [ "summonedRomulo", "d1/d6e/a13282.html#a6938adccd5c781df04dabe6d860f9357", null ]
 ];

@@ -1,7 +1,8 @@
 var a13890 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "df/ded/a13894.html", "df/ded/a13894" ],
-    [ "npc_lady_sylvanas_windrunner", "d5/dd2/a13890.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
-    [ "GetAI", "d5/dd2/a13890.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
-    [ "OnQuestReward", "d5/dd2/a13890.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
+    [ "FilterTargets", "d5/dd2/a13890.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
+    [ "HandleScriptEffect", "d5/dd2/a13890.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
+    [ "PrepareSpellScript", "d5/dd2/a13890.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
+    [ "Register", "d5/dd2/a13890.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
+    [ "Validate", "d5/dd2/a13890.html#a5493864b068de82015bc157f3d0899b3", null ]
 ];

@@ -1,6 +1,10 @@
 var a21562 =
 [
-    [ "instance_violet_hold_InstanceMapScript", "dd/d8d/a21566.html", "dd/d8d/a21566" ],
-    [ "instance_violet_hold", "d9/da4/a21562.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
-    [ "GetInstanceScript", "d9/da4/a21562.html#aeedcbb24b0709bd172ebbbc6d9851532", null ]
+    [ "npc_jenny", "d9/da4/a21562.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "d9/da4/a21562.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "d9/da4/a21562.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "d9/da4/a21562.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "d9/da4/a21562.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "d9/da4/a21562.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "d9/da4/a21562.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

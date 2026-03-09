@@ -1,7 +1,10 @@
 var a22102 =
 [
-    [ "HandleScriptEffect", "df/d1d/a22102.html#a2d39a073c351860db735301b4cf9c79f", null ],
-    [ "PrepareSpellScript", "df/d1d/a22102.html#a3674adaef23f1531af360a65c14efadd", null ],
-    [ "Register", "df/d1d/a22102.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
-    [ "Validate", "df/d1d/a22102.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
+    [ "npc_infra_green_bomber_genericAI", "df/d1d/a22102.html#aed712ea3625971e059e2ecd158227287", null ],
+    [ "DamageTaken", "df/d1d/a22102.html#a8f860368df96e430b441c8316db99c93", null ],
+    [ "GetSummoner", "df/d1d/a22102.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
+    [ "IsSummonedBy", "df/d1d/a22102.html#a79676717b7c6219ea74ebe5a580eab28", null ],
+    [ "SpreadFire", "df/d1d/a22102.html#a5727c839b7dd02ea64eccce3606688d1", null ],
+    [ "UpdateAI", "df/d1d/a22102.html#a252875777655e963965676a24c15e766", null ],
+    [ "events", "df/d1d/a22102.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
 ];

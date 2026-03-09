@@ -1,8 +1,8 @@
 var a23702 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "d4/d58/a23702.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
-    [ "GetData", "d4/d58/a23702.html#a410630dbbe00acf0b69603cfc357d503", null ],
-    [ "SetBossState", "d4/d58/a23702.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
-    [ "SetData", "d4/d58/a23702.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
-    [ "_addsKilled", "d4/d58/a23702.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
+    [ "HandleEffectApply", "d4/d58/a23702.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
+    [ "HandleEffectRemove", "d4/d58/a23702.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
+    [ "PrepareAuraScript", "d4/d58/a23702.html#a438a8ba3688e0832853bae4183695494", null ],
+    [ "Register", "d4/d58/a23702.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
+    [ "Validate", "d4/d58/a23702.html#ab07b244e53b397bc9e9842655617a80d", null ]
 ];

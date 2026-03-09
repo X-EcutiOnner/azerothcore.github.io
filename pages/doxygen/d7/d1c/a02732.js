@@ -1,6 +1,8 @@
 var a02732 =
 [
-    [ "trigger_periodic", "df/de2/a28336.html", "df/de2/a28336" ],
-    [ "trigger_periodic::trigger_periodicAI", "d1/d2a/a28340.html", "d1/d2a/a28340" ],
-    [ "AddSC_generic_creature", "d7/d1c/a02732.html#a50f66c4d6429b38157e35a75a0daa31d", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "d8/d45/a28646.html", "d8/d45/a28646" ],
+    [ "ApprenticeAnglerQuestEnum", "d7/d1c/a02732.html#a6d8279401bbf1ce28fa9c35fbcf1970c", [
+      [ "QUEST_APPRENTICE_ANGLER", "d7/d1c/a02732.html#a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba", null ]
+    ] ],
+    [ "AddSC_player_scripts", "d7/d1c/a02732.html#a1f476a8466c12651b57fd55bf13b9617", null ]
 ];

@@ -1,9 +1,24 @@
 var a10498 =
 [
-    [ "fX", "d2/d5f/a10498.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
-    [ "fY", "d2/d5f/a10498.html#a9b158e247014eec0d35e465ab9469ac7", null ],
-    [ "fZ", "d2/d5f/a10498.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
-    [ "uiCreatureEntry", "d2/d5f/a10498.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
-    [ "uiPointId", "d2/d5f/a10498.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
-    [ "uiWaitTime", "d2/d5f/a10498.html#a305620aad71152c1139a88dea05a1887", null ]
+    [ "AllBattlegroundScript", "d2/d5f/a10498.html#af2c4a52b8bfc4a0ac7ac1a081e4cdd03", null ],
+    [ "CanAddGroupToMatchingPool", "d2/d5f/a10498.html#abc41913ad3720d0dcd6d04da2588c7e5", null ],
+    [ "CanFillPlayersToBG", "d2/d5f/a10498.html#a3c70c7c71f2b941cf42607806ea19874", null ],
+    [ "CanSendMessageBGQueue", "d2/d5f/a10498.html#a1407ab7e2b4630ec8def2f7e6e532831", null ],
+    [ "GetPlayerMatchmakingRating", "d2/d5f/a10498.html#af4db50326e855d8fcfd9cbf2f216b934", null ],
+    [ "IsCheckNormalMatch", "d2/d5f/a10498.html#a638cd6beb9edf2c538f4ac079560a07c", null ],
+    [ "IsDatabaseBound", "d2/d5f/a10498.html#a91c57b646aae6467e06b4cc13b89cfb4", null ],
+    [ "OnAddGroup", "d2/d5f/a10498.html#ae315ebbf606d85f59b6c0e6558283088", null ],
+    [ "OnBattlegroundAddPlayer", "d2/d5f/a10498.html#aa6affc2d98448a93ac15a2a54327cba9", null ],
+    [ "OnBattlegroundBeforeAddPlayer", "d2/d5f/a10498.html#a30ec158dc1fdc13712de9db261eac589", null ],
+    [ "OnBattlegroundCreate", "d2/d5f/a10498.html#adea000f8e6470a2d69843c2894102086", null ],
+    [ "OnBattlegroundDestroy", "d2/d5f/a10498.html#a1991c567eb8578f1874613987526ce10", null ],
+    [ "OnBattlegroundEnd", "d2/d5f/a10498.html#a8c2588bb5b7c193b0c85b26de5210dd5", null ],
+    [ "OnBattlegroundEndReward", "d2/d5f/a10498.html#a91225952a9567a2408ea8b1f52660599", null ],
+    [ "OnBattlegroundRemovePlayerAtLeave", "d2/d5f/a10498.html#acf48de938b3535c1d64d5e69b7e4c3cc", null ],
+    [ "OnBattlegroundStart", "d2/d5f/a10498.html#a00e6e5d7ec0925a28b84719f1ef32b8d", null ],
+    [ "OnBattlegroundUpdate", "d2/d5f/a10498.html#a4a5c88793e3147af07482f5081106173", null ],
+    [ "OnBeforeSendExitMessageArenaQueue", "d2/d5f/a10498.html#a53eb5af1d9dc2a4bfbba33ce75170f34", null ],
+    [ "OnBeforeSendJoinMessageArenaQueue", "d2/d5f/a10498.html#a159e7e138cb75f57f013cd50a4a16a49", null ],
+    [ "OnQueueUpdate", "d2/d5f/a10498.html#a46675aeb8e2d066d0efaf2559ec6754c", null ],
+    [ "OnQueueUpdateValidity", "d2/d5f/a10498.html#a39a66e14a6e18f233ce33a86492142f7", null ]
 ];

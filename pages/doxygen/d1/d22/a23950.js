@@ -1,7 +1,6 @@
 var a23950 =
 [
-    [ "boss_warp_splinter", "d1/d22/a23950.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
-    [ "JustDied", "d1/d22/a23950.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
-    [ "JustEngagedWith", "d1/d22/a23950.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
-    [ "KilledUnit", "d1/d22/a23950.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
+    [ "npc_deaths_fel_cannonAI", "d7/d64/a23954.html", "d7/d64/a23954" ],
+    [ "npc_deaths_fel_cannon", "d1/d22/a23950.html#a87ecaca75061928600b5114d3913dd26", null ],
+    [ "GetAI", "d1/d22/a23950.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
 ];

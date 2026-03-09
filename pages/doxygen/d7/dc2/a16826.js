@@ -1,6 +1,6 @@
 var a16826 =
 [
-    [ "HandleEffectPeriodic", "d7/dc2/a16826.html#a8775f4e2cb6be96f57596413d560206c", null ],
-    [ "PrepareAuraScript", "d7/dc2/a16826.html#a45118f9887d248a5eb840b945dee5b79", null ],
-    [ "Register", "d7/dc2/a16826.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
+    [ "instance_trial_of_the_champion_InstanceMapScript", "d5/d1b/a16830.html", "d5/d1b/a16830" ],
+    [ "instance_trial_of_the_champion", "d7/dc2/a16826.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
+    [ "GetInstanceScript", "d7/dc2/a16826.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
 ];

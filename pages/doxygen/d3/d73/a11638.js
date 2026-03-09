@@ -1,6 +1,5 @@
 var a11638 =
 [
-    [ "FieldGuidType", "d3/d73/a11638.html#a88e763ed9715ad76a0eb1c1a9ad7a59b", null ],
-    [ "FieldName", "d3/d73/a11638.html#a669f1ecf12148799e59e7b3e3124d681", null ],
-    [ "IsDependentField", "d3/d73/a11638.html#a241b9e8f5672e30732f0b938b02046d4", null ]
+    [ "WorldObjectSpellTrajTargetCheck", "d3/d73/a11638.html#a0c08b6b4c7878678eb419a556f718be0", null ],
+    [ "operator()", "d3/d73/a11638.html#aa1f7772cdb19914cc365a325f801b5d5", null ]
 ];

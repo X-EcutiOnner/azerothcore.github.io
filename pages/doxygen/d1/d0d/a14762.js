@@ -1,5 +1,6 @@
 var a14762 =
 [
-    [ "achievement_pb_terokkar_turkey_time", "d1/d0d/a14762.html#a68e536379b04e060f44819c9831766c2", null ],
-    [ "OnCheck", "d1/d0d/a14762.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
+    [ "npc_direbrew_antagonist", "d1/d0d/a14762.html#a30fed4e6888d98af576dea8e13c510d3", null ],
+    [ "DoAction", "d1/d0d/a14762.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
+    [ "JustEngagedWith", "d1/d0d/a14762.html#aaf54b03d66d726901c289ff28d362787", null ]
 ];

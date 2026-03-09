@@ -1,8 +1,7 @@
 var a16546 =
 [
-    [ "npc_frost_sphereAI", "dd/d32/a16546.html#ae697a98d23d94315768dc866852b6e07", null ],
-    [ "DamageTaken", "dd/d32/a16546.html#a3960f19b456f29a33016d799809a82a8", null ],
-    [ "SpellHit", "dd/d32/a16546.html#af842d47f1e8462fb6368e9dc7a070b84", null ],
-    [ "UpdateAI", "dd/d32/a16546.html#a4e866332045135c867f2b9ee871db0c2", null ],
-    [ "permafrostTimer", "dd/d32/a16546.html#adf7b1b447d0d05a498dd8603dbfab1ab", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "dd/d32/a16546.html#aed531e61508d4d404827f47c6348a5e6", null ],
+    [ "JustEngagedWith", "dd/d32/a16546.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
+    [ "UpdateAI", "dd/d32/a16546.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
+    [ "_events", "dd/d32/a16546.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
 ];

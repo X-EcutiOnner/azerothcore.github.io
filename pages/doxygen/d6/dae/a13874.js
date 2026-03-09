@@ -1,6 +1,10 @@
 var a13874 =
 [
-    [ "npc_tyrion_spybotAI", "d7/d8d/a13878.html", "d7/d8d/a13878" ],
-    [ "npc_tyrion_spybot", "d6/dae/a13874.html#a7e0eed1b51ffe1df2d8ae2ad37f26528", null ],
-    [ "GetAI", "d6/dae/a13874.html#af81b70437703edc8d99fe24249891dd6", null ]
+    [ "MoveDelayed", "d6/dae/a13874.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
+    [ "Execute", "d6/dae/a13874.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
+    [ "_o", "d6/dae/a13874.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
+    [ "_owner", "d6/dae/a13874.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
+    [ "_x", "d6/dae/a13874.html#aa490d19022c27932e76af38281fe158b", null ],
+    [ "_y", "d6/dae/a13874.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
+    [ "_z", "d6/dae/a13874.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
 ];

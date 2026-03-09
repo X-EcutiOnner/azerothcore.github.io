@@ -1,11 +1,8 @@
 var a15986 =
 [
-    [ "boss_amanitar", "dd/dc8/a15986.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
-    [ "EnterEvadeMode", "dd/dc8/a15986.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
-    [ "JustDied", "dd/dc8/a15986.html#a138049712649ff414950d9d0ca05d712", null ],
-    [ "JustEngagedWith", "dd/dc8/a15986.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
-    [ "Reset", "dd/dc8/a15986.html#aab3faca4526947a72d8ca049a605f5be", null ],
-    [ "SummonedCreatureDespawn", "dd/dc8/a15986.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
-    [ "SummonMushroom", "dd/dc8/a15986.html#afc5b4942931f6020b2894b901650fc35", null ],
-    [ "_mushroomsDeque", "dd/dc8/a15986.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
+    [ "FilterTargets", "dd/dc8/a15986.html#a47b8055fa1b28968e8323ca98613aa83", null ],
+    [ "HandleScript", "dd/dc8/a15986.html#a8f7984e510d8947a2ae4b0734409866b", null ],
+    [ "PrepareSpellScript", "dd/dc8/a15986.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
+    [ "Register", "dd/dc8/a15986.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
+    [ "Validate", "dd/dc8/a15986.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
 ];

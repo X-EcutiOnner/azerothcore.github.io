@@ -1,44 +1,45 @@
 var a01277 =
 [
-    [ "GameObjectValue", "df/d65/a08388.html", "df/d65/a08388" ],
-    [ "GameObject", "d3/d27/a08408.html", "d3/d27/a08408" ],
-    [ "FISHING_BOBBER_READY_TIME", "d2/d1d/a01277.html#aa7242bc5664b993aa0dfe458bf845b13", null ],
-    [ "GameObjectAddonContainer", "d2/d1d/a01277.html#a7c5d40f7f9665e8525be2f1e94b0af47", null ],
-    [ "GameObjectQuestItemList", "d2/d1d/a01277.html#a85906ca8ea219640b7ed904559623a4a", null ],
-    [ "GameObjectQuestItemMap", "d2/d1d/a01277.html#a0695d839f891819d32d9cba1550e5ebb", null ],
-    [ "GameObjectTemplateAddonContainer", "d2/d1d/a01277.html#a43048463c1bc7ccdbb447dd3f791b2ba", null ],
-    [ "GameObjectTemplateContainer", "d2/d1d/a01277.html#a5997afee8ff417f22a5fc03453c0a3d8", null ],
-    [ "goEventFlag", "d2/d1d/a01277.html#a5d69fabbfa5abca4bb03fba46cd1bef0", null ],
-    [ "GameObjectActions", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837", [
-      [ "None", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837a6adf97f83acf6453d4a6a4b1070f3754", null ],
-      [ "AnimateCustom0", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837a85821009c4561ff2dd394e76875f41e4", null ],
-      [ "AnimateCustom1", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837a20097ab004d5809f0181ff76c095d00d", null ],
-      [ "AnimateCustom2", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837a6bd3a49dc3c0acde22f7fb6d717c5ba6", null ],
-      [ "AnimateCustom3", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837a96ccf53c55fa14a630d1ebf1814d5500", null ],
-      [ "Disturb", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837ada8bbd8aa09878c8c831cfa4d16cb1e3", null ],
-      [ "Unlock", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837a7e7123b0d269ad5d9ec8d12c52a8ed8a", null ],
-      [ "Lock", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837ab485167c5b0e59d47009a16f90fe2659", null ],
-      [ "Open", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837ac3bf447eabe632720a3aa1a7ce401274", null ],
-      [ "OpenAndUnlock", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837a309e99e8adfb532df3ef87568ef7b4dd", null ],
-      [ "Close", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837ad3d2e617335f08df83599665eef8a418", null ],
-      [ "ToggleOpen", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837a4918a8673999bfdede87be4025674076", null ],
-      [ "Destroy", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837a0e181f89f47654b86f3beb42f5cc08b8", null ],
-      [ "Rebuild", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837a1c6aac0280240c97962b30423f1f852b", null ],
-      [ "Creation", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837a67d5168b4f2b5424a3d118ea9ef99372", null ],
-      [ "Despawn", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837a573a38c8ee30e1c0d6ad84ce4f965cf0", null ],
-      [ "MakeInert", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837aabb80dcaf182e2078c504e15fee2a31f", null ],
-      [ "MakeActive", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837a403b23a8bfa05cf441c3e9dd632d4974", null ],
-      [ "CloseAndLock", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837a395c884e23324c8a881736508abb7d05", null ],
-      [ "UseArtKit0", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837ae2a0fa972f9687e4bc206809d3398c8c", null ],
-      [ "UseArtKit1", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837a77d0a472e8fb879ecb2cb0f5e95d66be", null ],
-      [ "UseArtKit2", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837a7c616a85741d0083402758d77385cf12", null ],
-      [ "UseArtKit3", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837ac0d4e2c0fde8b58757dadda7ae262ca8", null ],
-      [ "SetTapList", "d2/d1d/a01277.html#af16a38362829ad78e87eae277ce8b837ab98a44aedde3ad68a77221bb4ba8d8e0", null ]
+    [ "PassengerInfo", "d0/d7c/a09058.html", "d0/d7c/a09058" ],
+    [ "VehicleSeatAddon", "dd/d89/a09062.html", "dd/d89/a09062" ],
+    [ "VehicleSeat", "dc/d3e/a09066.html", "dc/d3e/a09066" ],
+    [ "VehicleAccessory", "de/d96/a09070.html", "de/d96/a09070" ],
+    [ "TransportBase", "d5/d1d/a09074.html", "d5/d1d/a09074" ],
+    [ "SeatMap", "d2/d1d/a01277.html#a2dadb2596b27d20ebbc12696cb7b9a74", null ],
+    [ "VehicleAccessoryContainer", "d2/d1d/a01277.html#a5b46179616c0e205a7c933e02f87160b", null ],
+    [ "VehicleAccessoryList", "d2/d1d/a01277.html#af5d682a742080008bd21db9bba6e162f", null ],
+    [ "PowerType", "d2/d1d/a01277.html#a0d0e3226055ad5266e487b58fd01cebd", [
+      [ "POWER_STEAM", "d2/d1d/a01277.html#a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f", null ],
+      [ "POWER_PYRITE", "d2/d1d/a01277.html#a0d0e3226055ad5266e487b58fd01cebda80a2f688d9270400c0a412df595754d9", null ],
+      [ "POWER_HEAT", "d2/d1d/a01277.html#a0d0e3226055ad5266e487b58fd01cebda84c681da1fcd67b223f97fd81f534434", null ],
+      [ "POWER_OOZE", "d2/d1d/a01277.html#a0d0e3226055ad5266e487b58fd01cebda9bc45bf37416c880275746bf261a4097", null ],
+      [ "POWER_BLOOD", "d2/d1d/a01277.html#a0d0e3226055ad5266e487b58fd01cebda73464121f88e583ed4c4f89280fd7d68", null ],
+      [ "POWER_WRATH", "d2/d1d/a01277.html#a0d0e3226055ad5266e487b58fd01cebda94e6111f7ab9d0e57b77b1b3f70faab1", null ]
     ] ],
-    [ "LootState", "d2/d1d/a01277.html#a08733f20cea1f77cc9f1a549f8ce9f07", [
-      [ "GO_NOT_READY", "d2/d1d/a01277.html#a08733f20cea1f77cc9f1a549f8ce9f07aa7f58536a66a38d2bb42502424d69a79", null ],
-      [ "GO_READY", "d2/d1d/a01277.html#a08733f20cea1f77cc9f1a549f8ce9f07a8708de424ecaae41eb7271d399f1d5fc", null ],
-      [ "GO_ACTIVATED", "d2/d1d/a01277.html#a08733f20cea1f77cc9f1a549f8ce9f07a3e50ac5f6829b981fdff39a85a48959e", null ],
-      [ "GO_JUST_DEACTIVATED", "d2/d1d/a01277.html#a08733f20cea1f77cc9f1a549f8ce9f07af69d13b3580b3c24d26f66bcf0db43d5", null ]
+    [ "VehicleExitParameters", "d2/d1d/a01277.html#a7f17d71c7e2664769a8e8a8b40cb5116", [
+      [ "VehicleExitParamNone", "d2/d1d/a01277.html#a7f17d71c7e2664769a8e8a8b40cb5116aa81d7ce24590f0cf3b5de2218dc4b2eb", null ],
+      [ "VehicleExitParamOffset", "d2/d1d/a01277.html#a7f17d71c7e2664769a8e8a8b40cb5116aa79483bd0c086e5f24b906b5e4b28427", null ],
+      [ "VehicleExitParamDest", "d2/d1d/a01277.html#a7f17d71c7e2664769a8e8a8b40cb5116a0f2b1d49adc9bb508c54af39ddb0b99d", null ],
+      [ "VehicleExitParamMax", "d2/d1d/a01277.html#a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0", null ]
+    ] ],
+    [ "VehicleFlags", "d2/d1d/a01277.html#a6f71ae83254cc7417ec04e6ac2a55f7a", [
+      [ "VEHICLE_FLAG_NO_STRAFE", "d2/d1d/a01277.html#a6f71ae83254cc7417ec04e6ac2a55f7aa42ade3ec25a77cbf106f1da2cc732a6b", null ],
+      [ "VEHICLE_FLAG_NO_JUMPING", "d2/d1d/a01277.html#a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f", null ],
+      [ "VEHICLE_FLAG_FULLSPEEDTURNING", "d2/d1d/a01277.html#a6f71ae83254cc7417ec04e6ac2a55f7aa8eb5fb073cde2366b27d7726b55593b1", null ],
+      [ "VEHICLE_FLAG_ALLOW_PITCHING", "d2/d1d/a01277.html#a6f71ae83254cc7417ec04e6ac2a55f7aa929f5dba0c217566377740ffbde2195f", null ],
+      [ "VEHICLE_FLAG_FULLSPEEDPITCHING", "d2/d1d/a01277.html#a6f71ae83254cc7417ec04e6ac2a55f7aaeeead2f047ca8fa51f9fb779867cd2c5", null ],
+      [ "VEHICLE_FLAG_CUSTOM_PITCH", "d2/d1d/a01277.html#a6f71ae83254cc7417ec04e6ac2a55f7aaadfdb0e47bbca692a5cada5b07577a22", null ],
+      [ "VEHICLE_FLAG_ADJUST_AIM_ANGLE", "d2/d1d/a01277.html#a6f71ae83254cc7417ec04e6ac2a55f7aa2cdd4b1bec19233a8162dc420ecde103", null ],
+      [ "VEHICLE_FLAG_ADJUST_AIM_POWER", "d2/d1d/a01277.html#a6f71ae83254cc7417ec04e6ac2a55f7aadf965323e550d3307799178679544dd5", null ]
+    ] ],
+    [ "VehicleNPCs", "d2/d1d/a01277.html#aecacfdf074f78c4655fc7b038cce5c06", [
+      [ "NPC_EIDOLON_WATCHER", "d2/d1d/a01277.html#aecacfdf074f78c4655fc7b038cce5c06a1ad291a45a8ceaff91f636890e29dcb8", null ],
+      [ "NPC_LITHE_STALKER", "d2/d1d/a01277.html#aecacfdf074f78c4655fc7b038cce5c06a5a7d35fc890662fca47daf84cc7c0612", null ]
+    ] ],
+    [ "VehicleSpells", "d2/d1d/a01277.html#a5829b6d4bd25b5c2a56495142fa8ca54", [
+      [ "VEHICLE_SPELL_RIDE_HARDCODED", "d2/d1d/a01277.html#a5829b6d4bd25b5c2a56495142fa8ca54adc19864d7c866905ca0c5bcec8b60119", null ],
+      [ "VEHICLE_SPELL_PARACHUTE", "d2/d1d/a01277.html#a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae", null ],
+      [ "VEHICLE_SPELL_GEIST_CONTROL_END", "d2/d1d/a01277.html#a5829b6d4bd25b5c2a56495142fa8ca54ac4b6447ce07cbd236c81e6cc097a42fe", null ],
+      [ "VEHICLE_SPELL_SHADE_CONTROL_END", "d2/d1d/a01277.html#a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b", null ]
     ] ]
 ];

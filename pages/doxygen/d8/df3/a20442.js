@@ -1,6 +1,29 @@
 var a20442 =
 [
-    [ "HandleAfterEffectApply", "d8/df3/a20442.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
-    [ "PrepareAuraScript", "d8/df3/a20442.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
-    [ "Register", "d8/df3/a20442.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
+    [ "boss_hodir", "d8/df3/a20442.html#ad5c0eb001737b1fc9f33e01a53aaa1e0", null ],
+    [ "CanAIAttack", "d8/df3/a20442.html#a6d12ec37b287d5e283f3207593435d60", null ],
+    [ "DamageTaken", "d8/df3/a20442.html#a388eaf944b07001390f4f1796a8918b7", null ],
+    [ "DoAction", "d8/df3/a20442.html#af12f631de82a8668d77728ccb7ace4f1", null ],
+    [ "GetData", "d8/df3/a20442.html#a35dd93db8580c4b8a971f129e3fd3827", null ],
+    [ "GetHardmodeChest", "d8/df3/a20442.html#a4e075098d5ae6f553efcac0b76e777b5", null ],
+    [ "GetHelper", "d8/df3/a20442.html#a7cdb38932e616696f96008c321f9189c", null ],
+    [ "JustEngagedWith", "d8/df3/a20442.html#a9ac83d7503d1f4703ea022bdcf52fcde", null ],
+    [ "KilledUnit", "d8/df3/a20442.html#a95f6ef35af40713c02c7f52b05bf9c11", null ],
+    [ "MoveInLineOfSight", "d8/df3/a20442.html#afdaf742fe150b4d58a596c5be52ae00d", null ],
+    [ "Reset", "d8/df3/a20442.html#a31c3693cdf73d684a5a39963ff5a4121", null ],
+    [ "SetData", "d8/df3/a20442.html#abb26187af8b74a3564b1208d9d4d6518", null ],
+    [ "SmallIcicles", "d8/df3/a20442.html#ac7f18efccc5bdf3802ca264b31ddc4f0", null ],
+    [ "SpawnHelpers", "d8/df3/a20442.html#a33f6771817e47bda0fc2067a40258cc1", null ],
+    [ "SpellHit", "d8/df3/a20442.html#a319c9a0bb8e9771b8fb89df5055628ef", null ],
+    [ "SpellHitTarget", "d8/df3/a20442.html#a6196c82c6e23563f91a8b149cacbef04", null ],
+    [ "UpdateAI", "d8/df3/a20442.html#a0fb16b675ef36f3453cb78adcecdf00f", null ],
+    [ "addSpawnTimer", "d8/df3/a20442.html#a90af0893d62f1e71067a356de64e7fc2", null ],
+    [ "bAchievCacheRare", "d8/df3/a20442.html#a9e82c04f57105550e3c21c66d98829f5", null ],
+    [ "bAchievCheese", "d8/df3/a20442.html#af1faea8be0fe1468f6f313ea143501cf", null ],
+    [ "bAchievCoolestFriends", "d8/df3/a20442.html#a42f8a10a8b148d9f0bfd9eb943a15f03", null ],
+    [ "bAchievGettingCold", "d8/df3/a20442.html#af9d9bedc4f11ce4fe264fe77afd7e717", null ],
+    [ "berserk", "d8/df3/a20442.html#a918879c9b92e410ebe14b9be24a86a11", null ],
+    [ "ENTRANCE_DOOR", "d8/df3/a20442.html#aca3d3a6e9270504e480fea9e0b0e6eca", null ],
+    [ "EXIT_DOOR", "d8/df3/a20442.html#a915932a765429de58135aca9568de88a", null ],
+    [ "Helpers", "d8/df3/a20442.html#aa0d0e0eb72500f5c99285fcf90a727c0", null ]
 ];

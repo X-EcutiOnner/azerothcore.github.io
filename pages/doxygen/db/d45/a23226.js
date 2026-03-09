@@ -1,8 +1,10 @@
 var a23226 =
 [
-    [ "instance_black_temple_InstanceMapScript", "db/d45/a23226.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
-    [ "OnCreatureCreate", "db/d45/a23226.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
-    [ "OnGameObjectCreate", "db/d45/a23226.html#a564a49814ceb3b3161a6476335ab653a", null ],
-    [ "SetBossState", "db/d45/a23226.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
-    [ "ashtongueGUIDs", "db/d45/a23226.html#a85fa9c5231f13529a0741b0f92266c90", null ]
+    [ "boss_morogrim_tidewalker", "db/d45/a23226.html#a138a200da298f64697e2e47fb8004ccb", null ],
+    [ "JustDied", "db/d45/a23226.html#a139d87e7cffe03183538eb493e063195", null ],
+    [ "JustEngagedWith", "db/d45/a23226.html#a3244672aeb994673e1f46708699bcc2c", null ],
+    [ "JustSummoned", "db/d45/a23226.html#a2b669007520094948138c95468b77f9f", null ],
+    [ "KilledUnit", "db/d45/a23226.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
+    [ "Reset", "db/d45/a23226.html#a78ed1d1f8c55407497a4fb679587975d", null ],
+    [ "_recentlySpoken", "db/d45/a23226.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
 ];

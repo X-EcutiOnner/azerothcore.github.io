@@ -1,19 +1,6 @@
 var a10286 =
 [
-    [ "AllGameObjectScript", "da/d94/a10286.html#ac6640c81043e19d7c73ed6208dd119dd", null ],
-    [ "CanGameObjectGossipHello", "da/d94/a10286.html#a33efc883fe64cdc52aa9b03f9377da97", null ],
-    [ "CanGameObjectGossipSelect", "da/d94/a10286.html#a317305c7dc81fede50d73f65fbc2bb42", null ],
-    [ "CanGameObjectGossipSelectCode", "da/d94/a10286.html#ac0b0ce8b06f371a6adfb69b926797790", null ],
-    [ "CanGameObjectQuestAccept", "da/d94/a10286.html#a0c99183b04355ecfb3460bc371b58805", null ],
-    [ "CanGameObjectQuestReward", "da/d94/a10286.html#a55eb61a5e4386908db998ceff1dff359", null ],
-    [ "GetGameObjectAI", "da/d94/a10286.html#afe0c610693bc883415952ba350596788", null ],
-    [ "OnGameObjectAddWorld", "da/d94/a10286.html#ae07275a83e4e1ae65371739bdc342d7f", null ],
-    [ "OnGameObjectDamaged", "da/d94/a10286.html#ab551bd870ab2e6513d95fcfb3e62d8c5", null ],
-    [ "OnGameObjectDestroyed", "da/d94/a10286.html#a3861b881456c1af3e9231d90519367d6", null ],
-    [ "OnGameObjectLootStateChanged", "da/d94/a10286.html#a599b35bb426d3c91c5457c838bfe910d", null ],
-    [ "OnGameObjectModifyHealth", "da/d94/a10286.html#a4d5607d755f044fed3a23c122bceddff", null ],
-    [ "OnGameObjectRemoveWorld", "da/d94/a10286.html#aca2171a8521195f06ea00c21f219d8f5", null ],
-    [ "OnGameObjectSaveToDB", "da/d94/a10286.html#ae4bb28ae318f13a72109a3874f2ca12d", null ],
-    [ "OnGameObjectStateChanged", "da/d94/a10286.html#ab0ab47240bdb815d404f8bd41fb3bdaa", null ],
-    [ "OnGameObjectUpdate", "da/d94/a10286.html#ada8cc5373b75025199ca62856242d0ab", null ]
+    [ "AssistanceMovementGenerator", "da/d94/a10286.html#a649b7d2833aaf895a5f6f290131c88f5", null ],
+    [ "Finalize", "da/d94/a10286.html#a6fc296a5283726cca409d7df1137743d", null ],
+    [ "GetMovementGeneratorType", "da/d94/a10286.html#a1d4b6fe8693fdd21c364b53075c27439", null ]
 ];

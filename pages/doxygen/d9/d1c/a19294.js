@@ -1,6 +1,6 @@
 var a19294 =
 [
-    [ "boss_maexxnaAI", "d9/d1e/a19298.html", "d9/d1e/a19298" ],
-    [ "boss_maexxna", "d9/d1c/a19294.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
-    [ "GetAI", "d9/d1c/a19294.html#ab438df4cb61625da35552ca7c867dc64", null ]
+    [ "npc_icc_skybreaker_vicarAI", "d9/d1e/a19298.html", "d9/d1e/a19298" ],
+    [ "npc_icc_skybreaker_vicar", "d9/d1c/a19294.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
+    [ "GetAI", "d9/d1c/a19294.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
 ];

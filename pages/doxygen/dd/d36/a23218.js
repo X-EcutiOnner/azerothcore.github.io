@@ -1,6 +1,9 @@
 var a23218 =
 [
-    [ "PrepareSpellScript", "dd/d36/a23218.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
-    [ "Register", "dd/d36/a23218.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
-    [ "RemoveSpines", "dd/d36/a23218.html#a076b056328ba6181a6ec907f21258f9d", null ]
+    [ "CalcPeriodic", "dd/d36/a23218.html#a5cd39919a088cab2fd160ea6e16ee7c8", null ],
+    [ "HandleEffectApply", "dd/d36/a23218.html#adb983cc531fa666648bbdb432684ff1d", null ],
+    [ "HandleEffectRemove", "dd/d36/a23218.html#a99c1bfc5aa4b67318bb3572589a42b1a", null ],
+    [ "OnPeriodic", "dd/d36/a23218.html#aecefab535157dbe8e42aff3b23cd685b", null ],
+    [ "PrepareAuraScript", "dd/d36/a23218.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7", null ],
+    [ "Register", "dd/d36/a23218.html#a3771abcc829883ba0cbae9587adbe751", null ]
 ];

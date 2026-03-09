@@ -1,13 +1,15 @@
 var a19566 =
 [
-    [ "boss_drakosAI", "d6/df4/a19566.html#a75d771095897081457353be898b332c3", null ],
-    [ "JustDied", "d6/df4/a19566.html#a7235760bd407f49802bc9e26e8f3f22c", null ],
-    [ "JustEngagedWith", "d6/df4/a19566.html#a4bc15075d9e9a913783da482a7a167c7", null ],
-    [ "JustSummoned", "d6/df4/a19566.html#a06e21c4e5bd1a882ada074b9595d4088", null ],
-    [ "KilledUnit", "d6/df4/a19566.html#a4bd3e45b45660311d7510f58a1850648", null ],
-    [ "MoveInLineOfSight", "d6/df4/a19566.html#a10b2ca39887e906e6e1e33df82afc1da", null ],
-    [ "Reset", "d6/df4/a19566.html#a6fd78f4f45b9f2104acc481fb0f2763f", null ],
-    [ "UpdateAI", "d6/df4/a19566.html#abf761c7cda4031c31354d8c8d42963e0", null ],
-    [ "events", "d6/df4/a19566.html#ae86ad4fcc57cc1137411c881355f2f51", null ],
-    [ "pInstance", "d6/df4/a19566.html#adc9461ae5334634a9140f338547688b4", null ]
+    [ "boss_heigan", "d6/df4/a19566.html#a402b76bd927dd738bdbdf7faff93394c", null ],
+    [ "CheckSafetyDance", "d6/df4/a19566.html#a378397cc91408b812c76f657a96285e1", null ],
+    [ "JustDied", "d6/df4/a19566.html#a259c99e12b92ccb99af16949e37b5c48", null ],
+    [ "JustEngagedWith", "d6/df4/a19566.html#a55f1fd72fefe1a47cbc9390ad7c2831d", null ],
+    [ "KilledUnit", "d6/df4/a19566.html#a5210d37ca829ff81ca25478a0c27a8ea", null ],
+    [ "Reset", "d6/df4/a19566.html#a11035ab423fd556ccdb1ec8f85160df3", null ],
+    [ "StartFightPhase", "d6/df4/a19566.html#ab1ae2d814f7258aed760a1644d2de69a", null ],
+    [ "UpdateAI", "d6/df4/a19566.html#a36c0bc5abff61b435f2a8163687b122a", null ],
+    [ "_currentPhase", "d6/df4/a19566.html#a1065c6221b30536344e7d4d0779abd17", null ],
+    [ "_currentSection", "d6/df4/a19566.html#adcf2448a0868ea3e900609c8e7e34154", null ],
+    [ "_eruptionScheduler", "d6/df4/a19566.html#a53ed837f6a898551bc7daa4be8b05ee6", null ],
+    [ "_moveRight", "d6/df4/a19566.html#a43d360ff1b8e569a5f9f894b456cb751", null ]
 ];

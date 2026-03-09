@@ -1,6 +1,6 @@
 var a14138 =
 [
-    [ "npc_zulian_prowlerAI", "dc/d1e/a14142.html", "dc/d1e/a14142" ],
-    [ "npc_zulian_prowler", "da/dc0/a14138.html#a27ae990985976d02bb221b6d669fa849", null ],
-    [ "GetAI", "da/dc0/a14138.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
+    [ "npc_grand_magister_rommathAI", "dc/d1e/a14142.html", "dc/d1e/a14142" ],
+    [ "npc_grand_magister_rommath", "da/dc0/a14138.html#a63b9786bfbd9c7b462b0549e2f6941ea", null ],
+    [ "GetAI", "da/dc0/a14138.html#abd64eff4712e8209e39e938b1813250c", null ]
 ];

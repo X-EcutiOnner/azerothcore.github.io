@@ -1,7 +1,5 @@
 var a14466 =
 [
-    [ "PeriodicTick", "da/d8b/a14466.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
-    [ "PrepareAuraScript", "da/d8b/a14466.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
-    [ "Register", "da/d8b/a14466.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
-    [ "Validate", "da/d8b/a14466.html#a68247c2afa553411fac34582e83635c9", null ]
+    [ "go_gong_of_bethekk", "da/d8b/a14466.html#ae261467be63f1a744eb20f81473c2239", null ],
+    [ "OnGossipHello", "da/d8b/a14466.html#a82072ff8c030aec1a5ed447865680788", null ]
 ];

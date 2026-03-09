@@ -1,11 +1,16 @@
 var a10870 =
 [
-    [ "BuyItemInSlot", "d8/d8c/a10870.html#a9a15be940d8eb216614dca5055be094a", null ],
-    [ "Read", "d8/d8c/a10870.html#a2608e83a41fb44c8469d2b9196702627", null ],
-    [ "BagGuid", "d8/d8c/a10870.html#abb9a1c7ac98c1cd848e4da8faf4e3925", null ],
-    [ "BagSlot", "d8/d8c/a10870.html#abdcb3b7e8a633b59d264ff1c860ec9c9", null ],
-    [ "Count", "d8/d8c/a10870.html#a3d057f2bdafb46887a97dbba8bb5aa04", null ],
-    [ "Item", "d8/d8c/a10870.html#a1fdfad3b4dd000c0f6d6d60f30bdd981", null ],
-    [ "Slot", "d8/d8c/a10870.html#aae1dba7644a82933a801f581551479bc", null ],
-    [ "VendorGuid", "d8/d8c/a10870.html#ac65b0fc2609531c8657c4d83cf50dbfe", null ]
+    [ "AreaID", "d8/d8c/a10870.html#a7bd695ba9365b53703204e45c930b254", null ],
+    [ "ClassID", "d8/d8c/a10870.html#a794961a2e9f4773254b2439837150b50", null ],
+    [ "Gender", "d8/d8c/a10870.html#aadb29895c835e820168ad7d3f608d3b8", null ],
+    [ "Guid", "d8/d8c/a10870.html#a9dad860d61da34048ab2d52ada0cb43f", null ],
+    [ "LastSave", "d8/d8c/a10870.html#acb553637ff289603411fa5795a361deb", null ],
+    [ "Level", "d8/d8c/a10870.html#a585acb139537e8def9e4ba076a332b6b", null ],
+    [ "Name", "d8/d8c/a10870.html#ad50c43162525d8ad2ea33e48c01e838e", null ],
+    [ "Note", "d8/d8c/a10870.html#aa351a270de4cba2faddc5179cb854b94", null ],
+    [ "OfficerNote", "d8/d8c/a10870.html#aedaee0b4511ddd82cc75e91cb04e175a", null ],
+    [ "RankID", "d8/d8c/a10870.html#a02f6f0dcf1be3a6befe959388d9aedd8", null ],
+    [ "Status", "d8/d8c/a10870.html#aa6342565a23693718b5ef84f90b83350", null ],
+    [ "TotalXP", "d8/d8c/a10870.html#ad3ee1ba956ea725db8588e3be3c57b18", null ],
+    [ "WeeklyXP", "d8/d8c/a10870.html#a7fb40a5bce99fcf70176ebe344424ed2", null ]
 ];

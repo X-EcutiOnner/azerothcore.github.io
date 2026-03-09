@@ -1,9 +1,6 @@
 var a15314 =
 [
-    [ "npc_claw_tentacle", "d7/d1b/a15314.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
-    [ "JustDied", "d7/d1b/a15314.html#aa566b417d1b766668133dd1d6a58293f", null ],
-    [ "JustEngagedWith", "d7/d1b/a15314.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
-    [ "Reset", "d7/d1b/a15314.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
-    [ "UpdateAI", "d7/d1b/a15314.html#ae7d521445680167add653717c7ae4c86", null ],
-    [ "_portalGUID", "d7/d1b/a15314.html#ab979781a8f77267348595cfa17341bae", null ]
+    [ "instance_culling_of_stratholme_InstanceMapScript", "d5/df8/a15318.html", "d5/df8/a15318" ],
+    [ "instance_culling_of_stratholme", "d7/d1b/a15314.html#a0b07e751032e15e7fcf2f86bf29a39be", null ],
+    [ "GetInstanceScript", "d7/d1b/a15314.html#ad8cbcb198666d44d79d6255d066c8315", null ]
 ];

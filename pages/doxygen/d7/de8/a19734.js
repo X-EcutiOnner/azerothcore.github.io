@@ -1,12 +1,10 @@
 var a19734 =
 [
-    [ "boss_krystallusAI", "d7/de8/a19734.html#adfa2ab8498279937bf497292d6e7cba5", null ],
-    [ "JustDied", "d7/de8/a19734.html#a5b77186f7c0920142a64a03c508dcc3e", null ],
-    [ "JustEngagedWith", "d7/de8/a19734.html#aaba17094bfe43c9ad63076f84d10a83a", null ],
-    [ "KilledUnit", "d7/de8/a19734.html#acf9101c5b776820039fd80e5d6e0c138", null ],
-    [ "RemoveStonedEffect", "d7/de8/a19734.html#ae8bdb2bca7c01c564adab93f1dd67720", null ],
-    [ "Reset", "d7/de8/a19734.html#ae163fbd682f09f2a49fa71309284ed3b", null ],
-    [ "UpdateAI", "d7/de8/a19734.html#a79095e25f1d9dac927f63cef67db60ec", null ],
-    [ "events", "d7/de8/a19734.html#afcd06280f8c7640ff9a56223f5bf3555", null ],
-    [ "pInstance", "d7/de8/a19734.html#aec9cf7053476298f72dccf3bd1579c63", null ]
+    [ "npc_power_spark", "d7/de8/a19734.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
+    [ "DamageTaken", "d7/de8/a19734.html#afe33d511823666929232bfd0179ee72a", null ],
+    [ "DoAction", "d7/de8/a19734.html#ab99a859ee718d49ce59171e7e7159abc", null ],
+    [ "UpdateAI", "d7/de8/a19734.html#ab36e75c87aa262a57be1594289284730", null ],
+    [ "_checkTimer", "d7/de8/a19734.html#ae63f0f359037363b840fe51a797969b5", null ],
+    [ "_instance", "d7/de8/a19734.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
+    [ "_moveTimer", "d7/de8/a19734.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
 ];

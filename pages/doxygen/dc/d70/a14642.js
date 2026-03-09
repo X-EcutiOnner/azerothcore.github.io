@@ -1,7 +1,10 @@
 var a14642 =
 [
-    [ "OnApply", "dc/d70/a14642.html#a42148069675e663456bb5495fa5c8702", null ],
-    [ "OnPeriodic", "dc/d70/a14642.html#ad3582b02b369e3029e20817dd19aede0", null ],
-    [ "PrepareAuraScript", "dc/d70/a14642.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
-    [ "Register", "dc/d70/a14642.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
+    [ "npc_zealot_lorkhan", "dc/d70/a14642.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
+    [ "JustDied", "dc/d70/a14642.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
+    [ "JustEngagedWith", "dc/d70/a14642.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
+    [ "Reset", "dc/d70/a14642.html#abecbd4a2ea2cf3281244933fe7484239", null ],
+    [ "UpdateAI", "dc/d70/a14642.html#a68c35734f8886b2c241dcbc178899206", null ],
+    [ "_scheduler", "dc/d70/a14642.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
+    [ "instance", "dc/d70/a14642.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
 ];

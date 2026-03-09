@@ -1,6 +1,6 @@
 var a12774 =
 [
-    [ "HandleTriggerSpell", "df/d72/a12774.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
-    [ "PrepareSpellScript", "df/d72/a12774.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
-    [ "Register", "df/d72/a12774.html#a7e9c140aecea892ee6971bc97d385640", null ]
+    [ "boss_flamegorAI", "df/d72/a12774.html#a4b3d46c3faa566095b0cedad3df9f057", null ],
+    [ "JustEngagedWith", "df/d72/a12774.html#a6005dca71e2f20ee599e053e531377d6", null ],
+    [ "UpdateAI", "df/d72/a12774.html#a2e5146815e533cf62e0084a54aa222d5", null ]
 ];

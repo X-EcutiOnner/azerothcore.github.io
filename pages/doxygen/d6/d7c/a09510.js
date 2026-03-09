@@ -1,7 +1,8 @@
 var a09510 =
 [
-    [ "PlayerAtMinimumRangeAway", "d6/d7c/a09510.html#a12eb5ff486232f88c7303741ebd8e65e", null ],
-    [ "operator()", "d6/d7c/a09510.html#a1cfda97a0590e033f9b6043c8de2d0a0", null ],
-    [ "fRange", "d6/d7c/a09510.html#a0c58929de429694f24877525287f15a6", null ],
-    [ "unit", "d6/d7c/a09510.html#a4ea0f83c3287079cff40fac15272fa94", null ]
+    [ "GameObjectWorker", "d6/d7c/a09510.html#a79dd3983b007d982bbb1f0b33c5c7a54", null ],
+    [ "Visit", "d6/d7c/a09510.html#a754197d7a9aa3203cda964cbee81ae9a", null ],
+    [ "Visit", "d6/d7c/a09510.html#a47a10a6790179eb5b78cbb66dd9d7b54", null ],
+    [ "_func", "d6/d7c/a09510.html#abeaa251f909368e3ebeeff4dcefbda94", null ],
+    [ "_phaseMask", "d6/d7c/a09510.html#accfe66385f5bbfb461d0493c22fde20e", null ]
 ];

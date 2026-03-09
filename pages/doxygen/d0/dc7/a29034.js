@@ -1,16 +1,11 @@
 var a29034 =
 [
-    [ "TileBuilder", "d0/dc7/a29034.html#a11941bfac809a75cc1b523fe0ce25c55", null ],
-    [ "TileBuilder", "d0/dc7/a29034.html#ac7ed1b1c9fdff7fc933fa6029fa9ff9d", null ],
-    [ "~TileBuilder", "d0/dc7/a29034.html#a7fabcd86a5679f19ad69e9c69f1d5885", null ],
-    [ "buildMoveMapTile", "d0/dc7/a29034.html#add45abc9c1f79f95dae9d7616b100dc0", null ],
-    [ "buildTile", "d0/dc7/a29034.html#ab7eca8778fd61ecbfe5f07bba0b38857", null ],
-    [ "shouldSkipTile", "d0/dc7/a29034.html#a77ecbab0c34dfe69c414304768b20ea3", null ],
-    [ "WaitCompletion", "d0/dc7/a29034.html#ae386f742fed7d2b66bcf3750abf91daf", null ],
-    [ "WorkerThread", "d0/dc7/a29034.html#a4c0497cde74883557ec841233376f95c", null ],
-    [ "m_debugOutput", "d0/dc7/a29034.html#a4c881a6e6ec66b315f72f84da5c534c2", null ],
-    [ "m_mapBuilder", "d0/dc7/a29034.html#aa83fbc484835a6d1a4c7bf6201b46639", null ],
-    [ "m_rcContext", "d0/dc7/a29034.html#a160c3ad76146488175c6ae228ad4ef83", null ],
-    [ "m_terrainBuilder", "d0/dc7/a29034.html#ade1605fb1b68693516c9fb27f94b278d", null ],
-    [ "m_workerThread", "d0/dc7/a29034.html#a4e03cb818b108400737e3a54df24945d", null ]
+    [ "icon", "d0/dc7/a29034.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
+    [ "id", "d0/dc7/a29034.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
+    [ "mapId", "d0/dc7/a29034.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
+    [ "worldState", "d0/dc7/a29034.html#a9d745d26316726c861cc5a242f6a4f57", null ],
+    [ "x", "d0/dc7/a29034.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
+    [ "y", "d0/dc7/a29034.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
+    [ "z", "d0/dc7/a29034.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
+    [ "zoneId", "d0/dc7/a29034.html#a0cc33089981237694ca550cba6793a3e", null ]
 ];

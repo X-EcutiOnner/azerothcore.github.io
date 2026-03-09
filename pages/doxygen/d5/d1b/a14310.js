@@ -1,6 +1,5 @@
 var a14310 =
 [
-    [ "boss_renatakiAI", "d8/d73/a14314.html", "d8/d73/a14314" ],
-    [ "boss_renataki", "d5/d1b/a14310.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
-    [ "GetAI", "d5/d1b/a14310.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
+    [ "npc_mikhail", "d5/d1b/a14310.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
+    [ "OnQuestAccept", "d5/d1b/a14310.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
 ];

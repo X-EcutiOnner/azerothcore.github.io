@@ -1,5 +1,6 @@
 var a00680 =
 [
-    [ "BuildPartyLockDungeonBlock", "d4/d9b/a00680.html#ad66b117794d47e10cfd7ba8bd40d4291", null ],
-    [ "BuildPlayerLockDungeonBlock", "d4/d9b/a00680.html#aded010efcdae2fc43acfab5ff8fbf4ad", null ]
+    [ "Acore::WorldWorldTextBuilder", "dc/d09/a12038.html", "dc/d09/a12038" ],
+    [ "getWorldInstance", "d8/d36/a04984.html#ga6bf640d0ef6703c32d9fa1618826319b", null ],
+    [ "realm", "d8/d36/a04984.html#gab842e78f86995775c494437356620779", null ]
 ];

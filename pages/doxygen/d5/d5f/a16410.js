@@ -1,13 +1,19 @@
 var a16410 =
 [
-    [ "boss_eadricAI", "d5/d5f/a16410.html#a461043fe1bff0f5478e2a57504e7477c", null ],
-    [ "DamageTaken", "d5/d5f/a16410.html#a440899ffdeda7794ef4fa5530638eecc", null ],
-    [ "JustEngagedWith", "d5/d5f/a16410.html#a09a0cebcdffb00e37e9d60111c582669", null ],
-    [ "KilledUnit", "d5/d5f/a16410.html#a0bc5d9ba3f45460e62eebdad4e68b8bd", null ],
-    [ "MovementInform", "d5/d5f/a16410.html#aa20253b3f0aec2678b2e3b1c3a9d1a47", null ],
-    [ "Reset", "d5/d5f/a16410.html#a8776bc2937ed9dc4decd1e71929edf65", null ],
-    [ "SpellHit", "d5/d5f/a16410.html#aef7c66b9ff0a728c140899940a2d7e85", null ],
-    [ "UpdateAI", "d5/d5f/a16410.html#a38e8052f3e5d8d81bb4b79fb41717efb", null ],
-    [ "events", "d5/d5f/a16410.html#a5804ea238fd1c32201c3be943d2fe5ca", null ],
-    [ "pInstance", "d5/d5f/a16410.html#a43a8f2beebae9bb27ff03e0e9af2d36b", null ]
+    [ "boss_hadronox", "d5/d5f/a16410.html#a5f99247a1eb3ca11741c656db9f91864", null ],
+    [ "DamageTaken", "d5/d5f/a16410.html#a4c74557d814776061fe6df4c234885f1", null ],
+    [ "DoAction", "d5/d5f/a16410.html#a822059f4efa5e311bf3f79698ed3aa6e", null ],
+    [ "GetData", "d5/d5f/a16410.html#a9666b5af984f15afd52b9a81a12fd334", null ],
+    [ "IsInCombatWithPlayer", "d5/d5f/a16410.html#a00d15de04d2f63c71b762d8c05161295", null ],
+    [ "JustEngagedWith", "d5/d5f/a16410.html#a0ecc876405753200c1c2fe575635ffb0", null ],
+    [ "JustSummoned", "d5/d5f/a16410.html#a3a5680abcef0529dcfca6c27f42f8f61", null ],
+    [ "KilledUnit", "d5/d5f/a16410.html#a721fabc47cb7416879e73e143898ddef", null ],
+    [ "MovementInform", "d5/d5f/a16410.html#a5e7c5226b0fb26a3c2d75726d5323af6", null ],
+    [ "Reset", "d5/d5f/a16410.html#a0d73acbe4061d48c2c5deb4203d0c9fb", null ],
+    [ "SummonCrusherPack", "d5/d5f/a16410.html#ab58a7949dd4797849cf98152e541b9a9", null ],
+    [ "SummonedCreatureEvade", "d5/d5f/a16410.html#a23fb17d6eb7a03e7efe0bffb28adee0c", null ],
+    [ "UpdateAI", "d5/d5f/a16410.html#aef361a41c7a3db94c00b594dd82ffabd", null ],
+    [ "_crushersLeft", "d5/d5f/a16410.html#a386cafa7de8fcaf6ac5d823af01fc443", null ],
+    [ "_doorsWebbed", "d5/d5f/a16410.html#a1515f5161e04e97734c538d7dede2902", null ],
+    [ "_lastPlayerCombatState", "d5/d5f/a16410.html#a0cd1b2eae097b327e845e5a3038c6342", null ]
 ];

@@ -1,6 +1,7 @@
 var a26502 =
 [
-    [ "CheckCast", "d7/d83/a26502.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
-    [ "PrepareSpellScript", "d7/d83/a26502.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
-    [ "Register", "d7/d83/a26502.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
+    [ "OnRemove", "d7/d83/a26502.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
+    [ "PrepareAuraScript", "d7/d83/a26502.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
+    [ "Register", "d7/d83/a26502.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
+    [ "Validate", "d7/d83/a26502.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
 ];

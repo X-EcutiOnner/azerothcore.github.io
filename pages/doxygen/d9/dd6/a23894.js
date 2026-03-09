@@ -1,8 +1,7 @@
 var a23894 =
 [
-    [ "HandleEffectApply", "d9/dd6/a23894.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
-    [ "HandleEffectRemove", "d9/dd6/a23894.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
-    [ "PrepareAuraScript", "d9/dd6/a23894.html#a438a8ba3688e0832853bae4183695494", null ],
-    [ "Register", "d9/dd6/a23894.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
-    [ "Validate", "d9/dd6/a23894.html#ab07b244e53b397bc9e9842655617a80d", null ]
+    [ "boss_gatewatcher_gyrokill", "d9/dd6/a23894.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "d9/dd6/a23894.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "d9/dd6/a23894.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "d9/dd6/a23894.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

@@ -1,7 +1,5 @@
 var a10858 =
 [
-    [ "ReadItem", "de/de2/a10858.html#a099da7490ccf30ee0bde5f85e6197a76", null ],
-    [ "Read", "de/de2/a10858.html#a61ae8ba19d04f3001614f8dd2ad408ed", null ],
-    [ "Bag", "de/de2/a10858.html#a16c02f27e986ac3d093668092d67a3c9", null ],
-    [ "Slot", "de/de2/a10858.html#a1d181a1cec1021cf68a5d9b80d2753c3", null ]
+    [ "GuildGetInfo", "de/de2/a10858.html#a585a6a49fe9747d5044ac185f1236cf5", null ],
+    [ "Read", "de/de2/a10858.html#aa2b107f35fcf348fb7f84c2971c5fa00", null ]
 ];

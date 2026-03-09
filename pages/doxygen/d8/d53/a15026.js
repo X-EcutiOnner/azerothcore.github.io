@@ -1,7 +1,7 @@
 var a15026 =
 [
-    [ "npc_tarethaAI", "d4/d5f/a15030.html", "d4/d5f/a15030" ],
-    [ "npc_taretha", "d8/d53/a15026.html#a54379e06518ff972e91e25e295731f5a", null ],
-    [ "GetAI", "d8/d53/a15026.html#a5045bb7119b12800ee0053818fcae5fe", null ],
-    [ "OnGossipHello", "d8/d53/a15026.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
+    [ "HandleFinish", "d8/d53/a15026.html#a8927aaa07145b46067d5807c2048330a", null ],
+    [ "PrepareSpellScript", "d8/d53/a15026.html#a5a0bfef668242fc5f21ad5a4e3e714b5", null ],
+    [ "Register", "d8/d53/a15026.html#a1ffdc199a04bd6ead1a09bc977ae964c", null ],
+    [ "Validate", "d8/d53/a15026.html#a3fd3265e5a08f81b3e9e789f1799abd4", null ]
 ];

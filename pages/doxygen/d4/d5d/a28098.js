@@ -1,6 +1,9 @@
 var a28098 =
 [
-    [ "ChannelID", "d4/d5d/a28098.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
-    [ "flags", "d4/d5d/a28098.html#aa77db644555e336ccbb8dd138c192425", null ],
-    [ "pattern", "d4/d5d/a28098.html#ad8b550cf444d66eede00abcf2cefec22", null ]
+    [ "boss_lethonAI", "d4/d5d/a28098.html#ac5d53a746f5286776b2e510f1de86790", null ],
+    [ "DamageTaken", "d4/d5d/a28098.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
+    [ "JustEngagedWith", "d4/d5d/a28098.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
+    [ "Reset", "d4/d5d/a28098.html#a0e53d139f64d104557e157a91176a47a", null ],
+    [ "SpellHitTarget", "d4/d5d/a28098.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
+    [ "_stage", "d4/d5d/a28098.html#aa267296ee60efc7d39a20dc05afec081", null ]
 ];

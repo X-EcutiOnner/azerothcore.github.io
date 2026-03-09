@@ -1,6 +1,8 @@
 var a22246 =
 [
-    [ "npc_boneguard_footmanAI", "d8/d65/a22246.html#a04eff1976824724b321f0c0d95e0940a", null ],
-    [ "UpdateAI", "d8/d65/a22246.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
-    [ "checkTimer", "d8/d65/a22246.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
+    [ "npc_time_lost_proto_drakeAI", "d8/d65/a22246.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "InitializeAI", "d8/d65/a22246.html#a6b99780951a126a97db88e7307c1d1b9", null ],
+    [ "JustEngagedWith", "d8/d65/a22246.html#ab95266d60769aa4099ca0f1bf678f237", null ],
+    [ "Reset", "d8/d65/a22246.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "UpdateAI", "d8/d65/a22246.html#abb28428b77beada6a378541ba11d090b", null ]
 ];

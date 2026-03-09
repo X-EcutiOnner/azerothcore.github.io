@@ -1,7 +1,12 @@
 var a17370 =
 [
-    [ "HandleDummy", "de/d5f/a17370.html#a367f4ebd296aa0fd54ff9ef6185a1c92", null ],
-    [ "PrepareSpellScript", "de/d5f/a17370.html#ab6e33bf137a54c9cd792aefb0ecd2ef1", null ],
-    [ "Register", "de/d5f/a17370.html#a371073fb37337719115242fc8758026f", null ],
-    [ "Validate", "de/d5f/a17370.html#ad5df08da54defc89a7a552c39de089c3", null ]
+    [ "npc_ghostly_priestAI", "de/d5f/a17370.html#abb6815d1395b68654eeb6ab8b4217388", null ],
+    [ "AttackStart", "de/d5f/a17370.html#a9719d1ad6e58b727bc1720cb815be3e9", null ],
+    [ "DoAction", "de/d5f/a17370.html#a89c991a1d4c07f1229436871f503c949", null ],
+    [ "EnterEvadeMode", "de/d5f/a17370.html#ab8fd2df32ef12f5f648b8af9abcc3201", null ],
+    [ "JustDied", "de/d5f/a17370.html#a004e8aec05741b9ee36b0695840e6c2a", null ],
+    [ "JustEngagedWith", "de/d5f/a17370.html#a780d530e224ca1f72e26db17cd57f44a", null ],
+    [ "Reset", "de/d5f/a17370.html#ab8f7559110be76633153842e0714554a", null ],
+    [ "UpdateAI", "de/d5f/a17370.html#ab431f451963d0b608f11129934496700", null ],
+    [ "events", "de/d5f/a17370.html#a9b49c143b5a29b4f9b4ce34ce0aecca7", null ]
 ];

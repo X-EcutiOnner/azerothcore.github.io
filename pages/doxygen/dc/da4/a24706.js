@@ -1,6 +1,6 @@
 var a24706 =
 [
-    [ "HandleProc", "dc/da4/a24706.html#a8fb0e7e5e50fcb201e8e55ee9621034e", null ],
-    [ "PrepareAuraScript", "dc/da4/a24706.html#a2f42e70482f71a4c275f70897b90ed72", null ],
-    [ "Register", "dc/da4/a24706.html#a048f59b6b0d52232e3a953f173324fc2", null ]
+    [ "HandleEffectCalcSpellMod", "dc/da4/a24706.html#afbeb38535f9330cb1e74345f0c3a833a", null ],
+    [ "PrepareAuraScript", "dc/da4/a24706.html#a911a292f535abda7b56d837a05c66d0d", null ],
+    [ "Register", "dc/da4/a24706.html#a46493bf3521a0427a63596734d592c61", null ]
 ];

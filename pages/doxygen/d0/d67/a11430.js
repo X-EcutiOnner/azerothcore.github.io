@@ -1,7 +1,6 @@
 var a11430 =
 [
-    [ "CategoryRecoveryTime", "d0/d67/a11430.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
-    [ "RecoveryTime", "d0/d67/a11430.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
-    [ "StartRecoveryCategory", "d0/d67/a11430.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
-    [ "StartRecoveryTime", "d0/d67/a11430.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
+    [ "ClientOpcodeHandler", "da/de7/a04983.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
+    [ "Call", "da/de7/a04983.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
+    [ "ProcessingPlace", "da/de7/a04983.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
 ];

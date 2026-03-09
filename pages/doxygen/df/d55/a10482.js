@@ -1,18 +1,13 @@
 var a10482 =
 [
-    [ "EnabledHooksVector", "df/d55/a10482.html#ac9d98df16d3857ca556acda331064063", null ],
-    [ "EnabledHooksVectorIterator", "df/d55/a10482.html#a575c2a2974f9e002a8a3bb1b858a2912", null ],
-    [ "ScriptMap", "df/d55/a10482.html#a0f8009ac0cd91574f0bf4ac92ef90ce0", null ],
-    [ "ScriptMapIterator", "df/d55/a10482.html#ad1fcde41ec854314c5e1cc50b916ac5d", null ],
-    [ "ScriptVector", "df/d55/a10482.html#abf04ad36ed630be4499f0be2d53016a9", null ],
-    [ "ScriptVectorIterator", "df/d55/a10482.html#ac0554c5200368592f5d0bfb1025935fe", null ],
-    [ "_checkMemory", "df/d55/a10482.html#a8d784f25a47c9ca4be72fca0215bf1c8", null ],
-    [ "AddALScripts", "df/d55/a10482.html#aa86b74a2560deae81f5c2a38cf1f72c8", null ],
-    [ "AddScript", "df/d55/a10482.html#a4a25c0e3b90f6af4563baf0e7a1c0622", null ],
-    [ "GetScriptById", "df/d55/a10482.html#a22226c545e7975d4c612e7adcc766d05", null ],
-    [ "InitEnabledHooksIfNeeded", "df/d55/a10482.html#a44238d9b122f50192b989b1efe2107bd", null ],
-    [ "_scriptIdCounter", "df/d55/a10482.html#aa66e44e9291be980d12f4167f699c680", null ],
-    [ "ALScripts", "df/d55/a10482.html#ac67b828a489c483ceaaa745b2dd7ef57", null ],
-    [ "EnabledHooks", "df/d55/a10482.html#a4274e01ddb2659f125970b97014da00e", null ],
-    [ "ScriptPointerList", "df/d55/a10482.html#a57e93b2fa2db2a29fa4c12714e217d43", null ]
+    [ "AccountScript", "df/d55/a10482.html#a3720bf412499a13ba4b41fc5c9f96b7c", null ],
+    [ "CanAccountCreateCharacter", "df/d55/a10482.html#a6b5b94c1ac64bf8d926928d8401cd533", null ],
+    [ "OnAccountLogin", "df/d55/a10482.html#afbebc7186ba77b0fefe0a6d32a774601", null ],
+    [ "OnBeforeAccountDelete", "df/d55/a10482.html#a631f7deca08644da2613142c667618a8", null ],
+    [ "OnEmailChange", "df/d55/a10482.html#adf20bd20cdc97b91db664dca95f82670", null ],
+    [ "OnFailedAccountLogin", "df/d55/a10482.html#aae3401d74bdc9e8328a5f084462ae740", null ],
+    [ "OnFailedEmailChange", "df/d55/a10482.html#a23261a238db9ddd618ebb6a45aaabcbf", null ],
+    [ "OnFailedPasswordChange", "df/d55/a10482.html#a45d58c0f669f37b24e3dabf0ac4b2423", null ],
+    [ "OnLastIpUpdate", "df/d55/a10482.html#a3de6453c132bb3d76b6888b87f988d2d", null ],
+    [ "OnPasswordChange", "df/d55/a10482.html#aefa30b298f52d7c1a44e7648d088c3f0", null ]
 ];

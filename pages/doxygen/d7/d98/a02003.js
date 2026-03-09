@@ -1,6 +1,9 @@
 var a02003 =
 [
-    [ "instance_hellfire_ramparts", "da/de5/a23496.html", "da/de5/a23496" ],
-    [ "instance_hellfire_ramparts::instance_hellfire_ramparts_InstanceMapScript", "d5/dd4/a23500.html", "d5/dd4/a23500" ],
-    [ "AddSC_instance_hellfire_ramparts", "d7/d98/a02003.html#a4172290a7e1e8ffcbf19519225978acf", null ]
+    [ "WorldPackets::NPC::Hello", "d1/d17/a11254.html", "d1/d17/a11254" ],
+    [ "WorldPackets::NPC::TrainerListSpell", "d7/d4e/a11258.html", "d7/d4e/a11258" ],
+    [ "WorldPackets::NPC::TrainerList", "dd/d1f/a11262.html", "dd/d1f/a11262" ],
+    [ "WorldPackets::NPC::TrainerBuySpell", "d3/d5c/a11266.html", "d3/d5c/a11266" ],
+    [ "WorldPackets::NPC::TrainerBuyFailed", "d9/d3d/a11270.html", "d9/d3d/a11270" ],
+    [ "WorldPackets::NPC::TrainerBuySucceeded", "d8/dc5/a11274.html", "d8/dc5/a11274" ]
 ];

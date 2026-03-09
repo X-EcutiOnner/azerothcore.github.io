@@ -1,5 +1,7 @@
 var a08598 =
 [
-    [ "PlayerLevelInfo", "d4/d46/a08598.html#af0d716577a3645fe1cef95968382ec80", null ],
-    [ "stats", "d4/d46/a08598.html#a796af7d07604474adebf5a6f3518ca30", null ]
+    [ "EnchStoreItem", "d4/d46/a08598.html#a89019e156774c5b978251479264e5463", null ],
+    [ "EnchStoreItem", "d4/d46/a08598.html#aca83bb20eb6153faeaf599b07b97e357", null ],
+    [ "chance", "d4/d46/a08598.html#a2d3d0cd28c79402b3625694d4676ed8b", null ],
+    [ "ench", "d4/d46/a08598.html#ac2346b6c6c5c09bb63676d72c798d848", null ]
 ];

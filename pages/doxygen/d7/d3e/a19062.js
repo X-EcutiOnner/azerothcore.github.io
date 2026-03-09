@@ -1,5 +1,8 @@
 var a19062 =
 [
-    [ "at_icc_spire_frostwyrm", "d7/d3e/a19062.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
-    [ "_OnTrigger", "d7/d3e/a19062.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
+    [ "DecayPeriodicTimer", "d7/d3e/a19062.html#a314ac33692cc352c490ec3d87177d67a", null ],
+    [ "Load", "d7/d3e/a19062.html#af5a498253c4c382df3b2462a30448a64", null ],
+    [ "PrepareAuraScript", "d7/d3e/a19062.html#ac5d4ee199b49e04499997355ac054554", null ],
+    [ "Register", "d7/d3e/a19062.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
+    [ "_decayRate", "d7/d3e/a19062.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
 ];

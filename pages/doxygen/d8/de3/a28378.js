@@ -1,5 +1,5 @@
 var a28378 =
 [
-    [ "BitIndex", "d8/de3/a28378.html#a55fdf966aec0ca687cd6074683af6e7f", null ],
-    [ "ItemId", "d8/de3/a28378.html#a998c1f6dadb823fbba56bb2154396635", null ]
+    [ "item_captured_frog", "d8/de3/a28378.html#ad41b743c98c9534453eca8cf1f367366", null ],
+    [ "OnUse", "d8/de3/a28378.html#a1156467ca046a077ea494f92c488bf54", null ]
 ];

@@ -1,6 +1,7 @@
 var a21286 =
 [
-    [ "boss_palehoofAI", "db/d50/a21290.html", "db/d50/a21290" ],
-    [ "boss_palehoof", "d0/d9c/a21286.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
-    [ "GetAI", "d0/d9c/a21286.html#ae33ca6e71b251214be50168a5940d058", null ]
+    [ "HandleDummy", "d0/d9c/a21286.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
+    [ "PrepareSpellScript", "d0/d9c/a21286.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
+    [ "Register", "d0/d9c/a21286.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
+    [ "Validate", "d0/d9c/a21286.html#a92f99501ee1582873586d2405b224f4f", null ]
 ];

@@ -1,7 +1,6 @@
 var a19278 =
 [
-    [ "HandleScript", "d8/dad/a19278.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
-    [ "PrepareAuraScript", "d8/dad/a19278.html#aa3053519be0101f55450d76b1291f0f7", null ],
-    [ "Register", "d8/dad/a19278.html#ada596a7f19115c7178fd07fb9e956f58", null ],
-    [ "Validate", "d8/dad/a19278.html#a768dec18bc0e879c457a64135ec27ad9", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "d6/d68/a19282.html", "d6/d68/a19282" ],
+    [ "npc_icc_skybreaker_hierophant", "d8/dad/a19278.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
+    [ "GetAI", "d8/dad/a19278.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
 ];

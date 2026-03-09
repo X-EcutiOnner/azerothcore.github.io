@@ -1,8 +1,7 @@
 var a21018 =
 [
-    [ "boss_yoggsaron_crusher_tentacleAI", "dd/d3f/a21018.html#a63d63a0b981c278fcfadfdda1feb5a12", null ],
-    [ "DamageTaken", "dd/d3f/a21018.html#ac2458922b2530929ee1adbcc0da834a0", null ],
-    [ "DoAction", "dd/d3f/a21018.html#abcc42381f37256e5c5ab2a42f8ef2c29", null ],
-    [ "Reset", "dd/d3f/a21018.html#af33db4e2ce1bb85e38437db6ca7982f7", null ],
-    [ "UpdateAI", "dd/d3f/a21018.html#a8329bc78fc037655d48cb9bf0abd8447", null ]
+    [ "HandleProc", "dd/d3f/a21018.html#a1b8782a4f22522cfe224073515abdf45", null ],
+    [ "PrepareAuraScript", "dd/d3f/a21018.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
+    [ "Register", "dd/d3f/a21018.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
+    [ "Validate", "dd/d3f/a21018.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
 ];

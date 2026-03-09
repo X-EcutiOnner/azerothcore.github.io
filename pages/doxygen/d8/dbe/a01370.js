@@ -1,14 +1,14 @@
 var a01370 =
 [
-    [ "ArenaScript", "d4/d25/a10472.html", "d4/d25/a10472" ],
-    [ "ArenaHook", "d8/dbe/a01370.html#a93515f145fed15b3645f2240f39214ba", [
-      [ "ARENAHOOK_CAN_ADD_MEMBER", "d8/dbe/a01370.html#a93515f145fed15b3645f2240f39214baa0eec08769f1e2848ef510ae5bc1980d0", null ],
-      [ "ARENAHOOK_ON_GET_POINTS", "d8/dbe/a01370.html#a93515f145fed15b3645f2240f39214baab3934eeceaededbb59ec277bc4275588", null ],
-      [ "ARENAHOOK_CAN_SAVE_TO_DB", "d8/dbe/a01370.html#a93515f145fed15b3645f2240f39214baa707580e05d247690d89335a46d576657", null ],
-      [ "ARENAHOOK_ON_BEFORE_CHECK_WIN_CONDITION", "d8/dbe/a01370.html#a93515f145fed15b3645f2240f39214baa8f35d3e6970c95df27f631f3f5558a5e", null ],
-      [ "ARENAHOOK_ON_ARENA_START", "d8/dbe/a01370.html#a93515f145fed15b3645f2240f39214baac02079e51af3fd7c3507a8a6f88fee09", null ],
-      [ "ARENAHOOK_ON_BEFORE_TEAM_MEMBER_UPDATE", "d8/dbe/a01370.html#a93515f145fed15b3645f2240f39214baade4a09676bcc54d050070c72869f1a03", null ],
-      [ "ARENAHOOK_CAN_SAVE_ARENA_STATS_FOR_MEMBER", "d8/dbe/a01370.html#a93515f145fed15b3645f2240f39214baad43433f7b2150f062d884904a861ede7", null ],
-      [ "ARENAHOOK_END", "d8/dbe/a01370.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58", null ]
-    ] ]
+    [ "BeforeVisibilityDestroy", "d8/dbe/a01370.html#a8172910e1dfdc7b56ca3931dd2fab1fb", null ],
+    [ "BeforeVisibilityDestroy< Creature >", "d8/dbe/a01370.html#a62188ab6a72d08b62bf37442dbbfdaa6", null ],
+    [ "getProbabilityOfLevelUp", "d8/dbe/a01370.html#aa890f698ac89e4049e1107c05d065495", null ],
+    [ "SkillGainChance", "d8/dbe/a01370.html#a66adde9ba6a85d585f6e6e8355499aa6", null ],
+    [ "UpdateVisibilityOf_helper", "d8/dbe/a01370.html#a74b7f95092456b1438f82ae741c77e3b", null ],
+    [ "UpdateVisibilityOf_helper", "d8/dbe/a01370.html#ac66d5bddb2e8a54da47fa75b3fedc154", null ],
+    [ "UpdateVisibilityOf_helper", "d8/dbe/a01370.html#a9ad7cb34613338094db01b886d54cf25", null ],
+    [ "UpdateVisibilityOf_helper", "d8/dbe/a01370.html#a6b71c41b4869661630086bd26c35b630", null ],
+    [ "bonusSkillLevels", "d8/dbe/a01370.html#a72b3624ee55553e28f82ef06d7c74c6a", null ],
+    [ "bonusSkillLevelsSize", "d8/dbe/a01370.html#ad103e97f7db0cfd188ab64f5748c7464", null ],
+    [ "ZONE_UPDATE_INTERVAL", "d8/dbe/a01370.html#afabbcd46bf6f03c5dca10b117810b710", null ]
 ];

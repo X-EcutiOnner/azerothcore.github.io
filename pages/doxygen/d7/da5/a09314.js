@@ -1,8 +1,8 @@
 var a09314 =
 [
-    [ "CreatureListSearcher", "d7/da5/a09314.html#a7b16bf9b7a847a08fa6582b81b607e20", null ],
-    [ "Visit", "d7/da5/a09314.html#a48c084b8fbcbf7db7c051d1aa2aff523", null ],
-    [ "Visit", "d7/da5/a09314.html#a91fcbdcfb08964ebaacec8acae13476b", null ],
-    [ "i_check", "d7/da5/a09314.html#a985d622243d5c7c6c91eb01377b0f91b", null ],
-    [ "i_phaseMask", "d7/da5/a09314.html#a10e4e1fb5749d2b1065dd6a1245783d0", null ]
+    [ "DungeonEncounter", "d7/da5/a09314.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
+    [ "creditEntry", "d7/da5/a09314.html#a700a0792973678339f33ab85e7396918", null ],
+    [ "creditType", "d7/da5/a09314.html#a66a077e193f099bb7aef363dc75672d6", null ],
+    [ "dbcEntry", "d7/da5/a09314.html#a262bdd0ba443739456fc14bcad83ecda", null ],
+    [ "lastEncounterDungeon", "d7/da5/a09314.html#a67e29b891887e339dbb40515d082e781", null ]
 ];

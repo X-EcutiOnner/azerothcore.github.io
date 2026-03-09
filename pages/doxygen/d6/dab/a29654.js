@@ -1,11 +1,8 @@
 var a29654 =
 [
-    [ "_ACORE_REALM_CONFIG", "d6/dab/a29654.html#a139668c786d564a415e0626b3344dc83", null ],
-    [ "BanExpiryHandler", "d6/dab/a29654.html#a625d6480b04e88fcbc85e5b8d29502a6", null ],
-    [ "GetConsoleArguments", "d6/dab/a29654.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "KeepDatabaseAliveHandler", "d6/dab/a29654.html#a56e4613e7e60d171b9ce45f52758a057", null ],
-    [ "main", "d6/dab/a29654.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "SignalHandler", "d6/dab/a29654.html#abb73d9c1332263ddf049505e1b12672d", null ],
-    [ "StartDB", "d6/dab/a29654.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "d6/dab/a29654.html#ga927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "bp0", "d6/dab/a29654.html#ada8e047c960181610ff1942cbdfa2e27", null ],
+    [ "bp1", "d6/dab/a29654.html#aaf81afde542db481bde1e26fcc21b945", null ],
+    [ "bp2", "d6/dab/a29654.html#a36b28d1bc821bfd3970b6af0f38a9f10", null ],
+    [ "spellId", "d6/dab/a29654.html#a3f8e88d4761c5247c2cb9bff94d548aa", null ],
+    [ "triggered", "d6/dab/a29654.html#a0ee8feba0856c5497612e15128ba8273", null ]
 ];

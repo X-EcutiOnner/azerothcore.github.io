@@ -1,7 +1,7 @@
 var a22070 =
 [
-    [ "OnRemove", "d6/df3/a22070.html#a335bc64860227122e0536f61144e2003", null ],
-    [ "PrepareAuraScript", "d6/df3/a22070.html#ae38bdeb74493f73bed1246c011bb2076", null ],
-    [ "Register", "d6/df3/a22070.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
-    [ "Validate", "d6/df3/a22070.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
+    [ "npc_tirions_gambit_tirionAI", "d4/d54/a22074.html", "d4/d54/a22074" ],
+    [ "npc_tirions_gambit_tirion", "d6/df3/a22070.html#ad52abd46ccdd3b4409671679434c193c", null ],
+    [ "GetAI", "d6/df3/a22070.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
+    [ "OnGossipSelect", "d6/df3/a22070.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
 ];

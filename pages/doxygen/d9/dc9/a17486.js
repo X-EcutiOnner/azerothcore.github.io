@@ -1,10 +1,7 @@
 var a17486 =
 [
-    [ "npc_dark_nucleusAI", "d9/dc9/a17486.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
-    [ "AttackStart", "d9/dc9/a17486.html#a3dec28dd13257b944df0c559d26a76e0", null ],
-    [ "DamageTaken", "d9/dc9/a17486.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
-    [ "JustDied", "d9/dc9/a17486.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
-    [ "Reset", "d9/dc9/a17486.html#ac84f79f84e721ab1306c8eed8658b143", null ],
-    [ "UpdateAI", "d9/dc9/a17486.html#a3a08457c34d4dd904a99a78875d6318c", null ],
-    [ "timer", "d9/dc9/a17486.html#ac5f9824276987b81aef5cfee05158049", null ]
+    [ "UtherBatteredHiltEvent", "d9/dc9/a17486.html#a7bb34b75a3e371260a231aea72f75b40", null ],
+    [ "Execute", "d9/dc9/a17486.html#ad2eb37877155b6dbc9916338e30d0306", null ],
+    [ "_eventId", "d9/dc9/a17486.html#a5045e057b2c5d468aa579751d2c799b8", null ],
+    [ "_owner", "d9/dc9/a17486.html#a588974708f4a48f5a7b097a63a0c0899", null ]
 ];

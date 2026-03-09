@@ -1,7 +1,11 @@
 var a19822 =
 [
-    [ "HandleEffectRemove", "d9/db3/a19822.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
-    [ "PrepareAuraScript", "d9/db3/a19822.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
-    [ "Register", "d9/db3/a19822.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
-    [ "Validate", "d9/db3/a19822.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
+    [ "boss_ormorok", "d9/db3/a19822.html#aa4862339ed41d5c593a93ef605d85a39", null ],
+    [ "JustDied", "d9/db3/a19822.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
+    [ "JustEngagedWith", "d9/db3/a19822.html#a22ac203db7c3b445e653798743e48764", null ],
+    [ "JustSummoned", "d9/db3/a19822.html#acc149b49e6658454610a7871e3c82b5e", null ],
+    [ "KilledUnit", "d9/db3/a19822.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
+    [ "Reset", "d9/db3/a19822.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
+    [ "UpdateAI", "d9/db3/a19822.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
+    [ "_spikesCount", "d9/db3/a19822.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
 ];

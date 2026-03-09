@@ -1,6 +1,10 @@
 var a11098 =
 [
-    [ "CorpseMapPositionQuery", "dc/da6/a11098.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
-    [ "Read", "dc/da6/a11098.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
-    [ "unk", "dc/da6/a11098.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
+    [ "SplitItem", "dc/da6/a11098.html#a805c2c75e93d7ef839b3758ffd59f6c6", null ],
+    [ "Read", "dc/da6/a11098.html#a59edb1d3445897bfaff1e97d703b42bb", null ],
+    [ "Count", "dc/da6/a11098.html#a097ed361c33f7415ed4d7efe6ab985e8", null ],
+    [ "DestinationBag", "dc/da6/a11098.html#ac60d1b0b51ef1b91fd51d900bb825153", null ],
+    [ "DestinationSlot", "dc/da6/a11098.html#aaf03b2ba6c3519008515c75f6f09aa60", null ],
+    [ "SourceBag", "dc/da6/a11098.html#aa87bc282a672ae8f9a747ad65400ef03", null ],
+    [ "SourceSlot", "dc/da6/a11098.html#a82dbf4e94d9bb1a352bf03d76a14950b", null ]
 ];

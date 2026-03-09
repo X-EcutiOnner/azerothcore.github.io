@@ -1,7 +1,6 @@
 var a28506 =
 [
-    [ "AllocationPct", "d1/d3a/a28506.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
-    [ "Enchantment", "d1/d3a/a28506.html#a45e694082c1dbdeef5229561f617d584", null ],
-    [ "ID", "d1/d3a/a28506.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
-    [ "Name", "d1/d3a/a28506.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
+    [ "npc_air_force_botsAI", "df/d57/a28510.html", "df/d57/a28510" ],
+    [ "npc_air_force_bots", "d1/d3a/a28506.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
+    [ "GetAI", "d1/d3a/a28506.html#ae971e34d61b0f960d8f5940f9015523d", null ]
 ];

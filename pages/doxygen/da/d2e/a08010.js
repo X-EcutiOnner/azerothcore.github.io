@@ -1,9 +1,10 @@
 var a08010 =
 [
-    [ "cancelTime", "da/d2e/a08010.html#ac1d5edf075556c488aff36799ee6cb96", null ],
-    [ "dungeons", "da/d2e/a08010.html#a1e6c1deaf47dc835bbab7a1741a57fe2", null ],
-    [ "leader", "da/d2e/a08010.html#ad92b0bd391dae5f934b7d6f8a39351d8", null ],
-    [ "rDungeonId", "da/d2e/a08010.html#af07fdfed0b56211af723db06959013f6", null ],
-    [ "roles", "da/d2e/a08010.html#a3759dc8140194b09be842365dc0053d7", null ],
-    [ "state", "da/d2e/a08010.html#aa70ef2d83084359af7bcc9e2de60ce77", null ]
+    [ "Achievement", "da/d2e/a08010.html#a03caf33cfc9f75dfdbba2dedc747e0ce", null ],
+    [ "CharacterId", "da/d2e/a08010.html#a0ec541a4e11d9e19f7cced7e839b1ebb", null ],
+    [ "Criteria", "da/d2e/a08010.html#a4eae1ba9b211d8c8307000ddae428348", null ],
+    [ "Day", "da/d2e/a08010.html#a216aaf4eed90eeb05662631e8f89b4ab", null ],
+    [ "IsFinished", "da/d2e/a08010.html#a1aff3d0a28a12f0e4ee10bca376f335c", null ],
+    [ "Month", "da/d2e/a08010.html#a9be9cfb6a40c527e8f6b6ad381ed5b42", null ],
+    [ "Year", "da/d2e/a08010.html#a85612eac22d3233e620eb11e6e1b48b0", null ]
 ];

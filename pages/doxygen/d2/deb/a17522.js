@@ -1,6 +1,8 @@
 var a17522 =
 [
-    [ "ModAuraStack", "d2/deb/a17522.html#a7535ef148e047e32a5f7a1944585e396", null ],
-    [ "PrepareSpellScript", "d2/deb/a17522.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
-    [ "Register", "d2/deb/a17522.html#ab44b362197e74b98b3ffeb98eff52742", null ]
+    [ "boss_krickAI", "d2/deb/a17522.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
+    [ "DoAction", "d2/deb/a17522.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
+    [ "UpdateAI", "d2/deb/a17522.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
+    [ "events", "d2/deb/a17522.html#a75349e2fc35832e7944fa4f772380baa", null ],
+    [ "pInstance", "d2/deb/a17522.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
 ];

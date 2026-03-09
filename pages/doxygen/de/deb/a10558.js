@@ -1,6 +1,5 @@
 var a10558 =
 [
-    [ "ShowingHelm", "de/deb/a10558.html#a67e25a4a39b14e488b5176b02e8dc995", null ],
-    [ "Read", "de/deb/a10558.html#a9e6d525a7104f2a8f81564d3796c6211", null ],
-    [ "ShowHelm", "de/deb/a10558.html#a9f3d52d5d6a6fa76b29afbd5a56d5622", null ]
+    [ "CommandScript", "de/deb/a10558.html#afb9ef0145bb5eedee7fd61609868ba20", null ],
+    [ "GetCommands", "de/deb/a10558.html#a97dc7d00b78e0030ba2a950d23b2ebd2", null ]
 ];

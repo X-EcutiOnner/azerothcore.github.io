@@ -1,6 +1,9 @@
 var a14262 =
 [
-    [ "npc_ohganAI", "d4/d9a/a14266.html", "d4/d9a/a14266" ],
-    [ "npc_ohgan", "d5/d44/a14262.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
-    [ "GetAI", "d5/d44/a14262.html#a129dc2fcd449850403e0dcb99725da90", null ]
+    [ "npc_thrall_bfuAI", "d4/d9a/a14266.html", "d4/d9a/a14266" ],
+    [ "npc_thrall_bfu", "d5/d44/a14262.html#a43eb37b9a0cf06be0e2cb6180730b09f", null ],
+    [ "GetAI", "d5/d44/a14262.html#a28b4030d189e4d967a1b16f3464c14ba", null ],
+    [ "OnGossipHello", "d5/d44/a14262.html#a71a7108464de9245879c8a1c08932e2a", null ],
+    [ "OnGossipSelect", "d5/d44/a14262.html#aea62ed8489bea23772a52ddefbf9c60e", null ],
+    [ "OnQuestReward", "d5/d44/a14262.html#aee56e54615e2696dcd0e7299e4f416b5", null ]
 ];

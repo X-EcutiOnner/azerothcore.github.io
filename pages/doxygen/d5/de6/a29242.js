@@ -1,7 +1,17 @@
 var a29242 =
 [
-    [ "MPQArchive", "d5/dcc/a28258.html", "d5/dcc/a28258" ],
-    [ "MPQFile", "de/d4a/a28262.html", "de/d4a/a28262" ],
-    [ "ArchiveSet", "d5/de6/a29242.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "d5/de6/a29242.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "Entry", "d5/de6/a29242.html#a4e8689fabe6b3ef5c495bf84fa1945b7", null ],
+    [ "Difficulty", "d5/de6/a29242.html#aa85e97ced86b0d27c753ca924eba074b", null ],
+    [ "ExpansionLevel", "d5/de6/a29242.html#a5bbacc248aa127b889d60b3a25b12b83", null ],
+    [ "Flags", "d5/de6/a29242.html#a9481c296a064ec400b0f050097903557", null ],
+    [ "GroupID", "d5/de6/a29242.html#a7a6c2971a61b171d00c885ce452601ce", null ],
+    [ "ID", "d5/de6/a29242.html#ae0fdf0d9afd2f99e9b7e6094960e86e0", null ],
+    [ "MapID", "d5/de6/a29242.html#a6c947b111d7d356ba02eb6fffc77f5cb", null ],
+    [ "MaxLevel", "d5/de6/a29242.html#aa4fbfd45d4319c9e8319508821bf4a65", null ],
+    [ "MinLevel", "d5/de6/a29242.html#a17ae5fe60486c54a3becb2b14d5953c9", null ],
+    [ "Name", "d5/de6/a29242.html#a7cb21e4e996be24d531b03fea66ecd27", null ],
+    [ "TargetLevel", "d5/de6/a29242.html#a2e6456d16cce98666b0ac63cebf0eb82", null ],
+    [ "TargetLevelMax", "d5/de6/a29242.html#ae4a27f7bc0563f606f40d955a40fab1e", null ],
+    [ "TargetLevelMin", "d5/de6/a29242.html#a7558f3dc7d695fb17bc3b64e0c381de7", null ],
+    [ "TypeID", "d5/de6/a29242.html#a84a498b44063cc95ba1a3b565c44a81b", null ]
 ];

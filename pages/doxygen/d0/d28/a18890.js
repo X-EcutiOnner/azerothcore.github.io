@@ -1,6 +1,6 @@
 var a18890 =
 [
-    [ "HandleEvent", "d0/d28/a18890.html#a7936a64a1142a47b2addfd746dccfcef", null ],
-    [ "PrepareSpellScript", "d0/d28/a18890.html#a00e2be07131c674558d0364df98849ab", null ],
-    [ "Register", "d0/d28/a18890.html#a89364583504d2eaa75473586850bc3d5", null ]
+    [ "npc_spirit_wardenAI", "d5/dc7/a18894.html", "d5/dc7/a18894" ],
+    [ "npc_spirit_warden", "d0/d28/a18890.html#ab585d20eadb7876752d731702db44293", null ],
+    [ "GetAI", "d0/d28/a18890.html#ab33ab494d7fee64eed7c75464ce60489", null ]
 ];

@@ -1,6 +1,6 @@
 var a27178 =
 [
-    [ "HandleHeal", "d9/d24/a27178.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
-    [ "PrepareSpellScript", "d9/d24/a27178.html#a61a601108cd59e5d87634c02b002e20d", null ],
-    [ "Register", "d9/d24/a27178.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
+    [ "OnApply", "d9/d24/a27178.html#a50ced6d5a475ccad9429dfbb05130394", null ],
+    [ "PrepareAuraScript", "d9/d24/a27178.html#abd02e129b1201449d473a66aea77d569", null ],
+    [ "Register", "d9/d24/a27178.html#a8c09775f642335252c6e548900dc9d3a", null ]
 ];

@@ -1,8 +1,8 @@
 var a08810 =
 [
-    [ "PowerPctOrderPred", "d0/dd0/a08810.html#a4e765952cfbc1c83413a8f1c148b1fe4", null ],
-    [ "operator()", "d0/dd0/a08810.html#a215b641a9364c7fcb82778c98f214271", null ],
-    [ "operator()", "d0/dd0/a08810.html#a42cec64c5eaf01f8b6b7e334f57b1d4a", null ],
-    [ "_ascending", "d0/dd0/a08810.html#aed7be288f876fdd35c1cdba53626b03c", null ],
-    [ "_power", "d0/dd0/a08810.html#ad3d61a7c5c84d91bc26c99e778105b7c", null ]
+    [ "PlayerCreateInfoAction", "d0/dd0/a08810.html#a50d56595c71374e132dfe9f988144e75", null ],
+    [ "PlayerCreateInfoAction", "d0/dd0/a08810.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
+    [ "action", "d0/dd0/a08810.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
+    [ "button", "d0/dd0/a08810.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
+    [ "type", "d0/dd0/a08810.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
 ];

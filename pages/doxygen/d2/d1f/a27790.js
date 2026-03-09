@@ -1,9 +1,8 @@
 var a27790 =
 [
-    [ "npc_chicken_cluckAI", "d2/d1f/a27790.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "d2/d1f/a27790.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "d2/d1f/a27790.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "d2/d1f/a27790.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "d2/d1f/a27790.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "d2/d1f/a27790.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "CheckProc", "d2/d1f/a27790.html#a88fc4939e903f4914a41cf18b34ad344", null ],
+    [ "HandleProc", "d2/d1f/a27790.html#a607054f11843147a09b202ea65f68b65", null ],
+    [ "PrepareAuraScript", "d2/d1f/a27790.html#affe76b0d20d431ba459ceb42934689fc", null ],
+    [ "Register", "d2/d1f/a27790.html#a99345afecc0612c33db996cebab99e09", null ],
+    [ "Validate", "d2/d1f/a27790.html#a9b0a80cc044d198178bd629eb8731260", null ]
 ];

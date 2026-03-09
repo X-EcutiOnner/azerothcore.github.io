@@ -1,6 +1,7 @@
 var a17010 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "d7/d3b/a17014.html", "d7/d3b/a17014" ],
-    [ "instance_forge_of_souls", "d0/d7c/a17010.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "d0/d7c/a17010.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "npc_toc_retro_paladinAI", "d0/d7c/a17010.html#afe933281cea61c9a4f3ded76290a3b72", null ],
+    [ "myCanCast", "d0/d7c/a17010.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
+    [ "UpdateAI", "d0/d7c/a17010.html#a105d6b9c133c1147b310826d7be416f5", null ],
+    [ "events", "d0/d7c/a17010.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
 ];

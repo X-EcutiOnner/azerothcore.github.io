@@ -1,5 +1,6 @@
 var a27910 =
 [
-    [ "npc_controller", "dd/d1f/a27910.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
-    [ "OnCharmed", "dd/d1f/a27910.html#a69628677de225d76a8c89b4626e0f32b", null ]
+    [ "HandleEffectCalcSpellMod", "dd/d1f/a27910.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
+    [ "PrepareAuraScript", "dd/d1f/a27910.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
+    [ "Register", "dd/d1f/a27910.html#af60592a9f1e595f31814eae405d03d5a", null ]
 ];

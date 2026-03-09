@@ -1,6 +1,8 @@
 var a09538 =
 [
-    [ "RandomCheck", "d7/dc0/a09538.html#aca7a234c6eef8876abb02af723e9485d", null ],
-    [ "operator()", "d7/dc0/a09538.html#a9886987fa2b675ab404102ebe828c9f3", null ],
-    [ "_chance", "d7/dc0/a09538.html#aad026a0ad4539dd5336c3a6b820e351d", null ]
+    [ "CreatureWorker", "d7/dc0/a09538.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
+    [ "Visit", "d7/dc0/a09538.html#ae67044250380c521055f80c55de0bba5", null ],
+    [ "Visit", "d7/dc0/a09538.html#aa9a450b147aafe46a49135f5c5be668e", null ],
+    [ "i_do", "d7/dc0/a09538.html#ac22f86d9a41701e7527d4840da256f11", null ],
+    [ "i_phaseMask", "d7/dc0/a09538.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
 ];

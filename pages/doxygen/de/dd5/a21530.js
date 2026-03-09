@@ -1,12 +1,10 @@
 var a21530 =
 [
-    [ "boss_moraggAI", "de/dd5/a21530.html#a3ae881c9adca20a2cb894af85297d53e", null ],
-    [ "EnterEvadeMode", "de/dd5/a21530.html#a4e70e42407f452c4685c732949fd2b52", null ],
-    [ "JustDied", "de/dd5/a21530.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
-    [ "JustEngagedWith", "de/dd5/a21530.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
-    [ "MoveInLineOfSight", "de/dd5/a21530.html#a52a99d72dfa017baacb76717e6db931b", null ],
-    [ "Reset", "de/dd5/a21530.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
-    [ "UpdateAI", "de/dd5/a21530.html#aec7645eaae190d1e7982aae181ff9224", null ],
-    [ "events", "de/dd5/a21530.html#acd021e4216e3920f0534da95d69ba5eb", null ],
-    [ "pInstance", "de/dd5/a21530.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
+    [ "npc_sinkhole_kill_creditAI", "de/dd5/a21530.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
+    [ "Reset", "de/dd5/a21530.html#a677990d64d2963ff995d9d8522c5aa81", null ],
+    [ "SpellHit", "de/dd5/a21530.html#a95eaf518fb18b67820d6195cd525b017", null ],
+    [ "UpdateAI", "de/dd5/a21530.html#a75611004a543bece9d3f51914547f2fe", null ],
+    [ "casterGuid", "de/dd5/a21530.html#a147921788b07f5e776e03aaf15049cf0", null ],
+    [ "phase", "de/dd5/a21530.html#aa45455a8d540d6f942c948cf56d11f05", null ],
+    [ "phaseTimer", "de/dd5/a21530.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
 ];

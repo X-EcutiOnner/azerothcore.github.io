@@ -1,8 +1,9 @@
 var a08246 =
 [
-    [ "Reset", "d3/d99/a08246.html#a28a5bd110553457c86d7f77e78041713", null ],
-    [ "cosAngle", "d3/d99/a08246.html#a37f49fc816f37dff8c1947f4de7f04d5", null ],
-    [ "sinAngle", "d3/d99/a08246.html#af2a184b7c8e7f324607a0b7468bcb8f6", null ],
-    [ "xyspeed", "d3/d99/a08246.html#a6fada60d677d89580c3a718d42a75d17", null ],
-    [ "zspeed", "d3/d99/a08246.html#ad0a5a36aeabc9b8d8ea27cecae30ae31", null ]
+    [ "LFGPlayerScript", "d3/d99/a08246.html#ad27ca48d9e573ad0ba155a3f7eb1ae88", null ],
+    [ "OnPlayerBindToInstance", "d3/d99/a08246.html#aeb3fd4e39ed8ba345cf3c76a232f241d", null ],
+    [ "OnPlayerLevelChanged", "d3/d99/a08246.html#afd530a2823a7187b49645c9d0625c8ba", null ],
+    [ "OnPlayerLogin", "d3/d99/a08246.html#a3b4e8775787feb8266edc52fddc7ab3a", null ],
+    [ "OnPlayerLogout", "d3/d99/a08246.html#a13c365770c90d1a44f72ab4cb8c7f903", null ],
+    [ "OnPlayerMapChanged", "d3/d99/a08246.html#ab3022d19b8d32bf0f269b2e991150a1c", null ]
 ];

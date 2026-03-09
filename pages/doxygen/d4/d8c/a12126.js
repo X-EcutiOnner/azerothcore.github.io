@@ -1,14 +1,14 @@
 var a12126 =
 [
-    [ "boss_general_angerforgeAI", "d4/d8c/a12126.html#af5537ccebc7ac6af49f9b6612d3a6138", null ],
-    [ "JustEngagedWith", "d4/d8c/a12126.html#ae99e11630596c62c4155a18f5a0a3dd5", null ],
-    [ "Reset", "d4/d8c/a12126.html#aff55a804bdca840016e0f6b1d11f7106", null ],
-    [ "SummonAdds", "d4/d8c/a12126.html#a218f4de2d057505f60b2977835e5fd91", null ],
-    [ "SummonMedics", "d4/d8c/a12126.html#aeabe71bde9b03a944beedeac68cffd19", null ],
-    [ "UpdateAI", "d4/d8c/a12126.html#a751c0d0015c235c8716a2a8ff18500ba", null ],
-    [ "Adds_Timer", "d4/d8c/a12126.html#a069f0008735b38c249ddfe5246025438", null ],
-    [ "Cleave_Timer", "d4/d8c/a12126.html#af80ac4df7aaab1469ee62ac8b054a0b9", null ],
-    [ "HamString_Timer", "d4/d8c/a12126.html#a04c51b1400d17454ca529d6aa257697b", null ],
-    [ "Medics", "d4/d8c/a12126.html#a06fc801b89c53430603f1a33bb3e7bd8", null ],
-    [ "MightyBlow_Timer", "d4/d8c/a12126.html#aeea6bb264e2d175d1906d8606eced529", null ]
+    [ "deserter_commandscript", "d4/d8c/a12126.html#aebaaf99b9c5959f3f3418e13e252fb95", null ],
+    [ "GetCommands", "d4/d8c/a12126.html#ab5b48b9dde89c9215c51560f26324649", null ],
+    [ "HandleDeserterAdd", "d4/d8c/a12126.html#abe8c428ec09d341bb9f49882b7c071e2", null ],
+    [ "HandleDeserterBGAdd", "d4/d8c/a12126.html#a11fba09d369e7244244887947a91369e", null ],
+    [ "HandleDeserterBGRemove", "d4/d8c/a12126.html#a9bf4e146ef0f4f0cb2508c4953f8a647", null ],
+    [ "HandleDeserterBGRemoveAll", "d4/d8c/a12126.html#a419d404315e91b6cac1bfd3ac225a8fd", null ],
+    [ "HandleDeserterInstanceAdd", "d4/d8c/a12126.html#aabd2b23e2dc61fac10890077b41d8179", null ],
+    [ "HandleDeserterInstanceRemove", "d4/d8c/a12126.html#a3197e5228284ba50da7f3a31b3e76060", null ],
+    [ "HandleDeserterInstanceRemoveAll", "d4/d8c/a12126.html#adc6ad2f406fcb58ba64d2b6fd47281e2", null ],
+    [ "HandleDeserterRemove", "d4/d8c/a12126.html#a210dc9a7eddede6fe976157d6b22b683", null ],
+    [ "HandleDeserterRemoveAll", "d4/d8c/a12126.html#a6274f79b9884586069f94137b44d89e9", null ]
 ];

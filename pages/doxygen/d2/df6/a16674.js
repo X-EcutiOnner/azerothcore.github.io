@@ -1,7 +1,6 @@
 var a16674 =
 [
-    [ "npc_toc_rogueAI", "d2/df6/a16674.html#a34027e7d10edbfba8e046f4785e37899", null ],
-    [ "myCanCast", "d2/df6/a16674.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
-    [ "UpdateAI", "d2/df6/a16674.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
-    [ "events", "d2/df6/a16674.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
+    [ "PrepareSpellScript", "d2/df6/a16674.html#a743f910c3854e2c4e726e97c55fa7038", null ],
+    [ "Register", "d2/df6/a16674.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
+    [ "RemoveNotBetween", "d2/df6/a16674.html#aba462e5b8e9336a508d19606f98750b5", null ]
 ];

@@ -1,12 +1,8 @@
 var a19214 =
 [
-    [ "npc_gothik_triggerAI", "d4/dbd/a19214.html#ae45c6de238755eb069e0c182943da58c", null ],
-    [ "DamageTaken", "d4/dbd/a19214.html#ada8e501edfadbb55162532f081a4b48b", null ],
-    [ "EnterEvadeMode", "d4/dbd/a19214.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
-    [ "JustEngagedWith", "d4/dbd/a19214.html#ab5403383f1fcd539cacf975dffbe2817", null ],
-    [ "JustSummoned", "d4/dbd/a19214.html#a35be0135b77a3e62ac8d421910cf0674", null ],
-    [ "SelectRandomSkullPile", "d4/dbd/a19214.html#aeafc63047c9059afdf668b8c22d2937f", null ],
-    [ "SpellHit", "d4/dbd/a19214.html#a18a8135ab0395991afc4896950783ae5", null ],
-    [ "SummonedCreatureDespawn", "d4/dbd/a19214.html#ad7ed092509dd41fddd44a4024c011364", null ],
-    [ "UpdateAI", "d4/dbd/a19214.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
+    [ "CountTargets", "d4/dbd/a19214.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "d4/dbd/a19214.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "d4/dbd/a19214.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "d4/dbd/a19214.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "d4/dbd/a19214.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

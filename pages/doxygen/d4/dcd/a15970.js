@@ -1,6 +1,7 @@
 var a15970 =
 [
-    [ "npc_weegli_blastfuseAI", "d8/d94/a15974.html", "d8/d94/a15974" ],
-    [ "npc_weegli_blastfuse", "d4/dcd/a15970.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
-    [ "GetAI", "d4/dcd/a15970.html#a701681d8771756dac20d30c2e03a1349", null ]
+    [ "HandleDummy", "d4/dcd/a15970.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
+    [ "PrepareSpellScript", "d4/dcd/a15970.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
+    [ "Register", "d4/dcd/a15970.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
+    [ "Validate", "d4/dcd/a15970.html#a041c84fd605abd36b8f774903a5200dc", null ]
 ];

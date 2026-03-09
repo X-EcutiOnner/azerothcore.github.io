@@ -1,6 +1,6 @@
 var a12890 =
 [
-    [ "npc_sanguine_spirit", "d9/dd9/a12890.html#a1e9a9a8dfaf5475b99d53b6b14db25f0", null ],
-    [ "Reset", "d9/dd9/a12890.html#ab92451fe70fd8c444a1c9d0bc318f624", null ],
-    [ "UpdateAI", "d9/dd9/a12890.html#abb07fe0308c3cce7ab5e239e66d65c52", null ]
+    [ "boss_garrAI", "dc/de4/a12894.html", "dc/de4/a12894" ],
+    [ "boss_garr", "d9/dd9/a12890.html#ab489eb068430a6aaa83c93104dd54d65", null ],
+    [ "GetAI", "d9/dd9/a12890.html#abc673a3db7fce0101a0b95d5efbdefa3", null ]
 ];

@@ -1,5 +1,6 @@
 var a22298 =
 [
-    [ "npc_guardian_pavilionAI", "da/d26/a22298.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
-    [ "MoveInLineOfSight", "da/d26/a22298.html#aeae26e28be93120062d9f77c069ff32a", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "da/d26/a22298.html#afd54b130725aa724b80f150f968ce09d", null ],
+    [ "MovementInform", "da/d26/a22298.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
+    [ "PassengerBoarded", "da/d26/a22298.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
 ];

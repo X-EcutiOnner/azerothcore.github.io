@@ -1,8 +1,7 @@
 var a14294 =
 [
-    [ "npc_spawn_of_marli", "d4/d2c/a14294.html#a1dcd5066de108203903f5767c4b375ea", null ],
-    [ "JustEngagedWith", "d4/d2c/a14294.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
-    [ "Reset", "d4/d2c/a14294.html#a79ef192d41af75e0dad0494776c75189", null ],
-    [ "UpdateAI", "d4/d2c/a14294.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
-    [ "_scheduler", "d4/d2c/a14294.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
+    [ "npc_daphne_stilwellAI", "d2/dea/a14298.html", "d2/dea/a14298" ],
+    [ "npc_daphne_stilwell", "d4/d2c/a14294.html#ad844c5f0409936d7068ee55271506041", null ],
+    [ "GetAI", "d4/d2c/a14294.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
+    [ "OnQuestAccept", "d4/d2c/a14294.html#ad7b293efc802506a825f202e34cb0f4d", null ]
 ];

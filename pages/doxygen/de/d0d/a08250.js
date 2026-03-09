@@ -1,9 +1,9 @@
 var a08250 =
 [
-    [ "artKits", "de/d0d/a08250.html#a7ae038f7051f3da177d3cdc95ef608d2", null ],
-    [ "entry", "de/d0d/a08250.html#ae1378dcb4327a4d000c3299a32f9d23f", null ],
-    [ "faction", "de/d0d/a08250.html#a77e0b2613b7a1cda1bd306f066e63a39", null ],
-    [ "flags", "de/d0d/a08250.html#a4120c9184b4cfab7afada48ccf8e713e", null ],
-    [ "maxgold", "de/d0d/a08250.html#ae80fd304ee4d02d5e0d13ec6136ec736", null ],
-    [ "mingold", "de/d0d/a08250.html#a3b1c3dd6f223bd93cda6e993a64b61d1", null ]
+    [ "LFGGroupScript", "de/d0d/a08250.html#adb7730ba67910121a255a6da535d2fc2", null ],
+    [ "OnAddMember", "de/d0d/a08250.html#a43c29f1c4b0f78b203a8798e34e9bc4c", null ],
+    [ "OnChangeLeader", "de/d0d/a08250.html#a3616c537eb39fe130c8fb24d93a0ead9", null ],
+    [ "OnDisband", "de/d0d/a08250.html#a7d8d28f1919e407ed93474d970733d86", null ],
+    [ "OnInviteMember", "de/d0d/a08250.html#a25add922fa708babe08c3bdaaa0c0d92", null ],
+    [ "OnRemoveMember", "de/d0d/a08250.html#a1385adec817221a83653a6fa03e57858", null ]
 ];

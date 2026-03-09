@@ -1,5 +1,6 @@
 var a17330 =
 [
-    [ "endPosition", "d9/da1/a17330.html#a8a88b0191d28ef6af8f41db627552602", null ],
-    [ "entry", "d9/da1/a17330.html#ac4e55af666e269440953ced038c1a8de", null ]
+    [ "instance_forge_of_souls_InstanceScript", "d3/dda/a17334.html", "d3/dda/a17334" ],
+    [ "instance_forge_of_souls", "d9/da1/a17330.html#a504896f6e191c87ce77231c4ef267b27", null ],
+    [ "GetInstanceScript", "d9/da1/a17330.html#a64982b527cfa6057315b8e628549480b", null ]
 ];

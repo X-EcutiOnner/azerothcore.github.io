@@ -1,6 +1,8 @@
 var a16498 =
 [
-    [ "boss_grand_championAI", "de/dd3/a16502.html", "de/dd3/a16502" ],
-    [ "boss_grand_champion", "dd/d15/a16498.html#a9577f8af5e234b3aebd7567841b867e2", null ],
-    [ "GetAI", "dd/d15/a16498.html#aa60972482ef16329d7ffc0a7ccf2d03e", null ]
+    [ "boss_sartharion_vesperon", "dd/d15/a16498.html#a3ce6d2036faa108cb97ebf75bdb6ad33", null ],
+    [ "ClearInstance", "dd/d15/a16498.html#a0c45127e9eb2be20765f92e1161e2e5a", null ],
+    [ "ExecuteEvent", "dd/d15/a16498.html#aefc42452e75c476aef39ba0df3a03d70", null ],
+    [ "Reset", "dd/d15/a16498.html#a948bfddea4eb3c0fe471d8f501a88d6c", null ],
+    [ "SummonedCreatureDies", "dd/d15/a16498.html#a9df29b4c71c93da8cf7ae9f81b870345", null ]
 ];

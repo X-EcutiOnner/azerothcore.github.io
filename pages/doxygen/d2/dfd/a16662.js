@@ -1,6 +1,8 @@
 var a16662 =
 [
-    [ "npc_toc_dkAI", "da/df8/a16666.html", "da/df8/a16666" ],
-    [ "npc_toc_dk", "d2/dfd/a16662.html#ac8b2c11f64f9cc6f4be91be1e3184b8a", null ],
-    [ "GetAI", "d2/dfd/a16662.html#ac5252f0f7ab993c8187aff17dac7a795", null ]
+    [ "OnApply", "d2/dfd/a16662.html#a7165da94ce589afcd24411a308802c18", null ],
+    [ "OnRemove", "d2/dfd/a16662.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49", null ],
+    [ "PrepareAuraScript", "d2/dfd/a16662.html#ab8361bc1d2cc786b52f1fc2b7ff09527", null ],
+    [ "Register", "d2/dfd/a16662.html#a0ff7bbd0dea458b15231ecf419b1c49c", null ],
+    [ "Validate", "d2/dfd/a16662.html#acf29b80b7b74c3f409e1f046b8062994", null ]
 ];

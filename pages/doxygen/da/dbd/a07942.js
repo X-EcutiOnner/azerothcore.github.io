@@ -1,5 +1,5 @@
 var a07942 =
 [
-    [ "locations", "da/dbd/a07942.html#a6470ea69a14e24337aa6b0c05093b6d2", null ],
-    [ "timeStamp", "da/dbd/a07942.html#a5fed6b0484c1553a17b5303facaeb61b", null ]
+    [ "value_type", "da/dbd/a07942.html#a72f92e01d1f385cf8d6ba7c31faa77e2", null ],
+    [ "TryConsume", "da/dbd/a07942.html#a7320475f165952ef8ebf69407b533248", null ]
 ];

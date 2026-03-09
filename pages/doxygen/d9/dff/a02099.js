@@ -1,13 +1,21 @@
 var a02099 =
 [
-    [ "FollowerAI", "dd/d1b/a06456.html", "dd/d1b/a06456" ],
-    [ "eFollowState", "d9/dff/a02099.html#a1ec9c3a60a913ecbf16778626ccf0138", [
-      [ "STATE_FOLLOW_NONE", "d9/dff/a02099.html#a1ec9c3a60a913ecbf16778626ccf0138a8d3724990b83869077eeef397588a9ae", null ],
-      [ "STATE_FOLLOW_INPROGRESS", "d9/dff/a02099.html#a1ec9c3a60a913ecbf16778626ccf0138aa4c302e4ec6ca00eb8d737e1b43e9e0b", null ],
-      [ "STATE_FOLLOW_RETURNING", "d9/dff/a02099.html#a1ec9c3a60a913ecbf16778626ccf0138abc2b0083c7efe88c6be3c67e20de2523", null ],
-      [ "STATE_FOLLOW_PAUSED", "d9/dff/a02099.html#a1ec9c3a60a913ecbf16778626ccf0138ab64828a6eee48ed5f0060f66fef4dbe6", null ],
-      [ "STATE_FOLLOW_COMPLETE", "d9/dff/a02099.html#a1ec9c3a60a913ecbf16778626ccf0138a73636e044fe9883bf259a17bc617e7c9", null ],
-      [ "STATE_FOLLOW_PREEVENT", "d9/dff/a02099.html#a1ec9c3a60a913ecbf16778626ccf0138a5ed17b2670a724e36c47de32fa5e821b", null ],
-      [ "STATE_FOLLOW_POSTEVENT", "d9/dff/a02099.html#a1ec9c3a60a913ecbf16778626ccf0138a77b50e5da22490d74b38dcebae6e6c6a", null ]
-    ] ]
+    [ "SummonList", "d1/d9c/a06450.html", "d1/d9c/a06450" ],
+    [ "EntryCheckPredicate", "d3/d89/a06454.html", "d3/d89/a06454" ],
+    [ "PlayerOrPetCheck", "d1/d0b/a06458.html", "d1/d0b/a06458" ],
+    [ "ScriptedAI", "d2/df6/a06462.html", "d2/df6/a06462" ],
+    [ "HealthCheckEventData", "d7/dbb/a06466.html", "d7/dbb/a06466" ],
+    [ "BossAI", "d3/dd6/a06470.html", "d3/dd6/a06470" ],
+    [ "WorldBossAI", "dd/d80/a06474.html", "dd/d80/a06474" ],
+    [ "ObjectList", "d9/dff/a02099.html#acc68161fe019b33e9356ea1473fba71d", null ],
+    [ "HealthCheckStatus", "d9/dff/a02099.html#a1384618281f5e166102c6c947f81ddee", [
+      [ "HEALTH_CHECK_PROCESSED", "d9/dff/a02099.html#a1384618281f5e166102c6c947f81ddeeac0619e7e216f157ecace46cdd98b4b6d", null ],
+      [ "HEALTH_CHECK_SCHEDULED", "d9/dff/a02099.html#a1384618281f5e166102c6c947f81ddeeadd90ee3dba1f8df8726a251aeb1cbc9c", null ],
+      [ "HEALTH_CHECK_PENDING", "d9/dff/a02099.html#a1384618281f5e166102c6c947f81ddeeaa1fd3ee62e2876302ec5bd08ff822ec7", null ]
+    ] ],
+    [ "GetClosestCreatureWithEntry", "d9/dff/a02099.html#a9ffd6f6c01576a8d3369c3a4f6dbaa0b", null ],
+    [ "GetClosestGameObjectWithEntry", "d9/dff/a02099.html#acaba34b4ac104e5289c265c1f8524b15", null ],
+    [ "GetCreatureListWithEntryInGrid", "d9/dff/a02099.html#ab6a8246d473139627106be4651f6329d", null ],
+    [ "GetDeadCreatureListInGrid", "d9/dff/a02099.html#a4a92c9585e18b56cdbe0d0c0976de7d1", null ],
+    [ "GetGameObjectListWithEntryInGrid", "d9/dff/a02099.html#ae9abb80c4e811509bca88e65cf817276", null ]
 ];

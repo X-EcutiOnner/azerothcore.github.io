@@ -1,7 +1,9 @@
 var a08882 =
 [
-    [ "EquipementIdPrev", "d1/d90/a08882.html#a719c716f8914a200bfde4f5bb3275f26", null ],
-    [ "EquipmentId", "d1/d90/a08882.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
-    [ "ModelId", "d1/d90/a08882.html#ade2b2413020be410428b9fee9aa284d6", null ],
-    [ "ModelIdPrev", "d1/d90/a08882.html#a9de7aa11788b22692738b72718193057", null ]
+    [ "PendingSpellCastRequest", "d1/d90/a08882.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
+    [ "cancelInProgress", "d1/d90/a08882.html#a726b6e423b23f8c12c65e07809462ad1", null ],
+    [ "category", "d1/d90/a08882.html#a51a702f257b784dac4556397dd1c0be4", null ],
+    [ "isItem", "d1/d90/a08882.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
+    [ "requestPacket", "d1/d90/a08882.html#a6ee868c6161e49dc8774ab357f313116", null ],
+    [ "spellId", "d1/d90/a08882.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
 ];

@@ -1,5 +1,7 @@
 var a20018 =
 [
-    [ "achievement_auriaya_nine_lives", "d2/ddf/a20018.html#a750304bc946a7ecefec29dc18c429d3b", null ],
-    [ "OnCheck", "d2/ddf/a20018.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
+    [ "HandleScript", "d2/ddf/a20018.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
+    [ "PrepareSpellScript", "d2/ddf/a20018.html#a34337690029eedb60a17572dbbf1e1f9", null ],
+    [ "Register", "d2/ddf/a20018.html#ad554d79e1a98490085b22f5038d058da", null ],
+    [ "Validate", "d2/ddf/a20018.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
 ];

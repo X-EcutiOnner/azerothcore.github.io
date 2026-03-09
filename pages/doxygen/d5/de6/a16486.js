@@ -1,8 +1,20 @@
 var a16486 =
 [
-    [ "npc_toc5_player_vehicleAI", "d5/de6/a16486.html#afa00a6254b482aae5397be04860ac8ba", null ],
-    [ "BeforeSpellClick", "d5/de6/a16486.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
-    [ "OnCharmed", "d5/de6/a16486.html#ace805882a25a9d075d811714e607fa2b", null ],
-    [ "PassengerBoarded", "d5/de6/a16486.html#aca35804df751185193ff5865255d3687", null ],
-    [ "Reset", "d5/de6/a16486.html#a5439b98d544124836d2cf9762f764cea", null ]
+    [ "boss_sartharion_dragonAI", "d5/de6/a16486.html#ac77eaacb9a5360802e862c95e54ec8ef", null ],
+    [ "ClearInstance", "d5/de6/a16486.html#a9e1fb29994441dd2d41aeb2c04205d7b", null ],
+    [ "DoAction", "d5/de6/a16486.html#aeb49e63300a317f0e969159266fd8ea1", null ],
+    [ "HandleExtraEvent", "d5/de6/a16486.html#a152126a6deb6b79943f667e1dccfe7e5", null ],
+    [ "JustDied", "d5/de6/a16486.html#a9c664ff661a3e83b98e1a28c81d662b0", null ],
+    [ "JustEngagedWith", "d5/de6/a16486.html#a2988e9a5a8edd9aa807d8b13867fe6d7", null ],
+    [ "JustSummoned", "d5/de6/a16486.html#a16582179f25ddc130f97bb70fe80316f", null ],
+    [ "KilledUnit", "d5/de6/a16486.html#a09428ec63c8589a527accf8b024f6666", null ],
+    [ "MoveInLineOfSight", "d5/de6/a16486.html#a75cd7f27019e4013adde104e7663e5bc", null ],
+    [ "MovementInform", "d5/de6/a16486.html#a6870b91b1d36c79add8bd86a8e1fac4d", null ],
+    [ "RemoveTwilightPortal", "d5/de6/a16486.html#a26aff742f99b04bfaf56fa46158ce306", null ],
+    [ "Reset", "d5/de6/a16486.html#a86acfe30f898bd6b709c4743ae808867", null ],
+    [ "UpdateAI", "d5/de6/a16486.html#a0e9382d8dce8251336d81539b7d82e15", null ],
+    [ "currentPatrolPoint", "d5/de6/a16486.html#a308e282df080758c41c70f49f8977098", null ],
+    [ "extraEvents", "d5/de6/a16486.html#a0018fdf6e4567a74e5b16e4e09a00836", null ],
+    [ "isCalledBySartharion", "d5/de6/a16486.html#a45a92a0754572b8d619fddbd1bdb234f", null ],
+    [ "portalGUID", "d5/de6/a16486.html#a852ab0dabe5b6d8e6b0a53e6425ff085", null ]
 ];

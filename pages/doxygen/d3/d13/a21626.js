@@ -1,9 +1,9 @@
 var a21626 =
 [
-    [ "npc_azure_stalkerAI", "d3/d13/a21626.html#a1499e734f0d95d491bcd23c2e858a1ee", null ],
-    [ "Reset", "d3/d13/a21626.html#a9bd36e95ce7c3157a2ac53400da51d23", null ],
-    [ "UpdateAI", "d3/d13/a21626.html#a8c4ea046d69b269e886960ba9562fd0c", null ],
-    [ "TacticalBlinkCasted", "d3/d13/a21626.html#a875a272380251fcc7f98e5c0f84bb41a", null ],
-    [ "uiBackstabTimer", "d3/d13/a21626.html#ad03ba957706a62e3d8091d025ddd50dc", null ],
-    [ "uiTacticalBlinkTimer", "d3/d13/a21626.html#ab817fb9f2f06715f0a08a99e12693697", null ]
+    [ "npc_bloodmage_laurithAI", "d3/d13/a21626.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
+    [ "Reset", "d3/d13/a21626.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
+    [ "SetGUID", "d3/d13/a21626.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
+    [ "UpdateAI", "d3/d13/a21626.html#a9752f518441071dd4a60cd63423bf9a3", null ],
+    [ "_events", "d3/d13/a21626.html#a35facab84094071d952792a4c3e5015d", null ],
+    [ "_playerGUID", "d3/d13/a21626.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
 ];

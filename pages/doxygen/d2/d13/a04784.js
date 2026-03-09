@@ -1,6 +1,7 @@
 var a04784 =
 [
-    [ "mean", "d2/d13/a04784.html#a64ba279a3d3edca415239118167c0206", null ],
-    [ "median", "d2/d13/a04784.html#a4840fd449eb626bea901860e4c1be22a", null ],
-    [ "standard_deviation", "d2/d13/a04784.html#a60ce9c7718ec2901f037e2368f93026d", null ]
+    [ "inventory_commandscript", "dc/d79/a12170.html", "dc/d79/a12170" ],
+    [ "AddSC_inventory_commandscript", "d2/d13/a04784.html#a8917ab2c5001702c3dc7a14313dbc562", null ],
+    [ "bagSpecsColors", "d2/d13/a04784.html#aabf9a2b965ae6153eb18635be4468eb6", null ],
+    [ "bagSpecsToString", "d2/d13/a04784.html#ac004d76eb746ea415b16f1b512a057b6", null ]
 ];

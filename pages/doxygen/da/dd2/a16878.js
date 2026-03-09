@@ -1,7 +1,6 @@
 var a16878 =
 [
-    [ "HandleScript", "da/dd2/a16878.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
-    [ "PrepareSpellScript", "da/dd2/a16878.html#a71b28156c628aacbc6cb481038c0e76c", null ],
-    [ "Register", "da/dd2/a16878.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
-    [ "Validate", "da/dd2/a16878.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
+    [ "npc_anubarak_spikeAI", "d7/d94/a16882.html", "d7/d94/a16882" ],
+    [ "npc_anubarak_spike", "da/dd2/a16878.html#a4e96de1910c23311ad4644960ccd5022", null ],
+    [ "GetAI", "da/dd2/a16878.html#a7d55b321eb7e595fe5886dc382134947", null ]
 ];

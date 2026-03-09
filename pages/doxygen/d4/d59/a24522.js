@@ -1,7 +1,7 @@
 var a24522 =
 [
-    [ "npc_isla_starmaneAI", "d8/d70/a24526.html", "d8/d70/a24526" ],
-    [ "npc_isla_starmane", "d4/d59/a24522.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
-    [ "GetAI", "d4/d59/a24522.html#a0ea2dbaab4115772f92849e06aa85575", null ],
-    [ "OnQuestAccept", "d4/d59/a24522.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
+    [ "HandleProc", "d4/d59/a24522.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
+    [ "PrepareAuraScript", "d4/d59/a24522.html#a2840931b939b95e6a476c07f08ca66b5", null ],
+    [ "Register", "d4/d59/a24522.html#ae769fddc14aed4d1055d2f947d292fcf", null ],
+    [ "lastChargeUsedTime", "d4/d59/a24522.html#a69e1d242b6d4bfc752e7e0921aa0f90c", null ]
 ];

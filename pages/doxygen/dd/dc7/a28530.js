@@ -1,5 +1,7 @@
 var a28530 =
 [
-    [ "content", "dd/dc7/a28530.html#a936eb07adb8a41480dfc196127b7e5c0", null ],
-    [ "ID", "dd/dc7/a28530.html#a1a33aff67b979c3c7a76c26debb5fc25", null ]
+    [ "npc_doctorAI", "d4/dcf/a28534.html", "d4/dcf/a28534" ],
+    [ "npc_doctor", "dd/dc7/a28530.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
+    [ "GetAI", "dd/dc7/a28530.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
+    [ "OnQuestAccept", "dd/dc7/a28530.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
 ];

@@ -1,5 +1,5 @@
 var a13726 =
 [
-    [ "npc_maredis_firestarAI", "d8/d17/a13730.html", "d8/d17/a13730" ],
-    [ "npc_maredis_firestar", "d7/d5e/a13726.html#a91015d70203597db3dda10b695565740", null ]
+    [ "at_malfurion_stormrage", "d7/d5e/a13726.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
+    [ "OnTrigger", "d7/d5e/a13726.html#a0aa7818bd09b8a456d1ebbaa7d5f5c1d", null ]
 ];

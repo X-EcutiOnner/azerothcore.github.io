@@ -1,7 +1,6 @@
 var a28522 =
 [
-    [ "Id", "db/d20/a28522.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
-    [ "SoundBank", "db/d20/a28522.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
-    [ "SpellId", "db/d20/a28522.html#aa010947f5fbec6867b005b25728e720b", null ],
-    [ "Type", "db/d20/a28522.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
+    [ "npc_dancing_flamesAI", "d2/d51/a28526.html", "d2/d51/a28526" ],
+    [ "npc_dancing_flames", "db/d20/a28522.html#adec0401f876ddf159f28fdda8bc4d563", null ],
+    [ "GetAI", "db/d20/a28522.html#a1000d0b95dab3a6e73efa0ca088ce4e6", null ]
 ];

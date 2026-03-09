@@ -1,19 +1,12 @@
 var a11222 =
 [
-    [ "PacketThrottlingMap", "d0/d8f/a11222.html#aa41dd21032403490c49a400651c98855", null ],
-    [ "Policy", "d0/d8f/a11222.html#abdee2870dbaa3341ecd6f682f87a63aa", [
-      [ "Process", "d0/d8f/a11222.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe", null ],
-      [ "Kick", "d0/d8f/a11222.html#abdee2870dbaa3341ecd6f682f87a63aaa3e07960fcc45408894cf1402257bd9fd", null ],
-      [ "Ban", "d0/d8f/a11222.html#abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9", null ],
-      [ "Log", "d0/d8f/a11222.html#abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b", null ],
-      [ "BlockingThrottle", "d0/d8f/a11222.html#abdee2870dbaa3341ecd6f682f87a63aaa1974493f69f8fbf2eb0a63a852d132bb", null ],
-      [ "DropPacket", "d0/d8f/a11222.html#abdee2870dbaa3341ecd6f682f87a63aaa3bd03342168b3845d34fccaf6543c970", null ]
-    ] ],
-    [ "DosProtection", "d0/d8f/a11222.html#a8e43f21b9c729db604c9afd90f68dc20", null ],
-    [ "DosProtection", "d0/d8f/a11222.html#a8850d18ae254633f6bde5c85cbcef830", null ],
-    [ "EvaluateOpcode", "d0/d8f/a11222.html#a575c7bcb895ad0a3d0456f0a99ee5ec7", null ],
-    [ "operator=", "d0/d8f/a11222.html#a98394089b867ff6e8107b7975a67737d", null ],
-    [ "World", "d0/d8f/a11222.html#a7b4bcdf992c21ae83363f25df05b1d25", null ],
-    [ "_PacketThrottlingMap", "d0/d8f/a11222.html#ab74f0cf257d3db9076e3a8771de63eb3", null ],
-    [ "Session", "d0/d8f/a11222.html#a3f3f5397fb30cdf14141480659b18208", null ]
+    [ "StartMirrorTimer", "d0/d8f/a11222.html#a86039d4a721636477f266712682883f0", null ],
+    [ "StartMirrorTimer", "d0/d8f/a11222.html#a5202945882fb3cb5dd8574b6e6f8d5b0", null ],
+    [ "Write", "d0/d8f/a11222.html#afa6cc6032804e3d8f3f7797b2231847f", null ],
+    [ "MaxValue", "d0/d8f/a11222.html#a3f26c682d547be40d2800eff2189348d", null ],
+    [ "Paused", "d0/d8f/a11222.html#af3994b2c6a57e734f9d1ebeedcab7759", null ],
+    [ "Scale", "d0/d8f/a11222.html#a5879b6c796d7d7c2fd59001d2813a6b3", null ],
+    [ "SpellID", "d0/d8f/a11222.html#a3d90aa3046eb6272249f8fe171d7cd2f", null ],
+    [ "Timer", "d0/d8f/a11222.html#abb9dbec2c5df4b2dfbc96314a0465011", null ],
+    [ "Value", "d0/d8f/a11222.html#ad0f2f8f95fdea9a7555e3056bb49cc53", null ]
 ];

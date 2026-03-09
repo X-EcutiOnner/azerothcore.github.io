@@ -1,5 +1,8 @@
 var a13990 =
 [
-    [ "npc_mikhail", "d7/de6/a13990.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
-    [ "OnQuestAccept", "d7/de6/a13990.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
+    [ "npc_sunblade_arch_mage", "d7/de6/a13990.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
+    [ "JustEngagedWith", "d7/de6/a13990.html#aadeae32d691229b7b7b531175b8a5018", null ],
+    [ "Reset", "d7/de6/a13990.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
+    [ "UpdateAI", "d7/de6/a13990.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
+    [ "scheduler", "d7/de6/a13990.html#aa6680f06651316996868907b1d28126c", null ]
 ];
