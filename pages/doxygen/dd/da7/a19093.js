@@ -1,7 +1,7 @@
 var a19093 =
 [
-    [ "HandleDummy", "dd/da7/a19093.html#a4bfc155129bd80c94b4b59474f30d748", null ],
-    [ "PrepareSpellScript", "dd/da7/a19093.html#a9c72772f9d17b34562bd11418d67872d", null ],
-    [ "Register", "dd/da7/a19093.html#a10c9f511da4eb366117d356c118408c6", null ],
-    [ "Validate", "dd/da7/a19093.html#a655f2081d17c06c155641efc45efc1f8", null ]
+    [ "npc_frost_freeze_trapAI", "dd/da7/a19093.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
+    [ "DoAction", "dd/da7/a19093.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
+    [ "UpdateAI", "dd/da7/a19093.html#ae8efccb090f38968f3c0ca51f022013b", null ],
+    [ "_events", "dd/da7/a19093.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
 ];

@@ -1,5 +1,4 @@
 var a19065 =
 [
-    [ "at_icc_start_frostwing_gauntlet", "d4/d05/a19065.html#a285cd9046d5658fc5d917c3427bbbe83", null ],
-    [ "OnTrigger", "d4/d05/a19065.html#a7137166f281876f00d4e03c846875d85", null ]
+    [ "operator()", "d4/d05/a19065.html#ac13ad1cce91fa28dc81250672c125490", null ]
 ];

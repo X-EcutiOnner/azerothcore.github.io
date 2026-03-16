@@ -1,5 +1,5 @@
 var a19213 =
 [
-    [ "creatureEntry", "d6/d84/a19213.html#afab12c40af70303dff2a9553d47dbb7d", null ],
-    [ "questId", "d6/d84/a19213.html#ace2a7dd58d442b6afb2173311c89593b", null ]
+    [ "at_icc_saurfang_portal", "d6/d84/a19213.html#a7f30058251c520634a0b7bad08380e5d", null ],
+    [ "OnTrigger", "d6/d84/a19213.html#a8980fe0e67aa33335f0fdb947a294213", null ]
 ];

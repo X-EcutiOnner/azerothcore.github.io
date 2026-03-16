@@ -1,9 +1,6 @@
 var a12721 =
 [
-    [ "HandleAfterApply", "d1/d8e/a12721.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
-    [ "HandleAfterRemove", "d1/d8e/a12721.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
-    [ "PeriodicTick", "d1/d8e/a12721.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
-    [ "PrepareAuraScript", "d1/d8e/a12721.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
-    [ "Register", "d1/d8e/a12721.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
-    [ "Validate", "d1/d8e/a12721.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
+    [ "go_chromaggus_leverAI", "d5/d99/a12725.html", "d5/d99/a12725" ],
+    [ "go_chromaggus_lever", "d1/d8e/a12721.html#a88f8078cd5aa1863ca20c9b02a0e52d2", null ],
+    [ "GetAI", "d1/d8e/a12721.html#ae307b36029147b8385b3c40878d1a3e4", null ]
 ];

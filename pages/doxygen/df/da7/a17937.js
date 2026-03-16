@@ -1,8 +1,6 @@
 var a17937 =
 [
-    [ "npc_gunship_mageAI", "df/da7/a17937.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
-    [ "AttackStart", "df/da7/a17937.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
-    [ "CanAIAttack", "df/da7/a17937.html#aadcb217a9df96bee02287d75a23e32c2", null ],
-    [ "MovementInform", "df/da7/a17937.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
-    [ "UpdateAI", "df/da7/a17937.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
+    [ "ModAuraValue", "df/da7/a17937.html#a359453c6253beb6f729209c6d3d79af7", null ],
+    [ "PrepareSpellScript", "df/da7/a17937.html#a4f916abef69782be10cc6be9ba0124f5", null ],
+    [ "Register", "df/da7/a17937.html#a4a387df07c88144288c4327ce86b730a", null ]
 ];

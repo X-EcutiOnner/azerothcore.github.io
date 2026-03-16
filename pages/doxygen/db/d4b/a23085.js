@@ -1,10 +1,11 @@
 var a23085 =
 [
-    [ "npc_frozen_core", "db/d4b/a23085.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
-    [ "DoAction", "db/d4b/a23085.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
-    [ "Initialize", "db/d4b/a23085.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
-    [ "JustDied", "db/d4b/a23085.html#a476e086b0379e0cef3a44d250b020d6a", null ],
-    [ "UpdateAI", "db/d4b/a23085.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
-    [ "_events", "db/d4b/a23085.html#a3a5efec3279644ef713722e1556a3c84", null ],
-    [ "_instance", "db/d4b/a23085.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
+    [ "boss_doomwalker", "db/d4b/a23085.html#a47811086ff98b1a09af5300af94b6c0e", null ],
+    [ "JustDied", "db/d4b/a23085.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
+    [ "JustEngagedWith", "db/d4b/a23085.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
+    [ "KilledUnit", "db/d4b/a23085.html#a2335eb642940397f73ee2a8051624e8e", null ],
+    [ "MoveInLineOfSight", "db/d4b/a23085.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
+    [ "Reset", "db/d4b/a23085.html#aba08b227d629c9f35e59f465e29c267b", null ],
+    [ "UpdateAI", "db/d4b/a23085.html#a3105c50e512c6f709985cece619b131f", null ],
+    [ "_inEnrage", "db/d4b/a23085.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
 ];

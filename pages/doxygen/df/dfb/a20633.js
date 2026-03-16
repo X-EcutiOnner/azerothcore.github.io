@@ -1,5 +1,9 @@
 var a20633 =
 [
-    [ "achievement_thorim_lose_your_illusion", "df/dfb/a20633.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
-    [ "OnCheck", "df/dfb/a20633.html#a322df4f30445a84085615925f74a8a6b", null ]
+    [ "npc_ulduar_bot_summon_trigger", "df/dfb/a20633.html#a0d489ab4f401fc44fbc712fb84f87ec7", null ],
+    [ "DoAction", "df/dfb/a20633.html#a776782a85892d2d674773573be25bfa0", null ],
+    [ "Reset", "df/dfb/a20633.html#a4ec8487028b188347cf0c9a080076fe6", null ],
+    [ "UpdateAI", "df/dfb/a20633.html#a788d3eaba382e3af897678f6709a0242", null ],
+    [ "option", "df/dfb/a20633.html#ac44b792e3b86372bbdc7033b14f1aefc", null ],
+    [ "timer", "df/dfb/a20633.html#a05dc6f7034c1b83869d2498e51e3a928", null ]
 ];

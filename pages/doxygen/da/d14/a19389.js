@@ -1,6 +1,6 @@
 var a19389 =
 [
-    [ "boss_kelthuzadAI", "df/d78/a19393.html", "df/d78/a19393" ],
-    [ "boss_kelthuzad", "da/d14/a19389.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
-    [ "GetAI", "da/d14/a19389.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
+    [ "npc_isle_of_conquest_turretAI", "df/d78/a19393.html", "df/d78/a19393" ],
+    [ "npc_isle_of_conquest_turret", "da/d14/a19389.html#ac080845203adef25e6841133b7e2f4dc", null ],
+    [ "GetAI", "da/d14/a19389.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
 ];

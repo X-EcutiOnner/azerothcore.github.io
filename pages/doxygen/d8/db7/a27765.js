@@ -1,7 +1,8 @@
 var a27765 =
 [
-    [ "AfterRemove", "d8/db7/a27765.html#a9dc5ef5c5545fc382e221ca9473ac3bd", null ],
-    [ "PrepareAuraScript", "d8/db7/a27765.html#a0fd3e297a66df888f6e30f93b9f60947", null ],
-    [ "Register", "d8/db7/a27765.html#a2b1872fa0342e0f530b61fc7a5bf876b", null ],
-    [ "Validate", "d8/db7/a27765.html#ae08f33e0271166afa87208faa30684c4", null ]
+    [ "CheckProc", "d8/db7/a27765.html#a4713f3cdce1ee793a8f2232202314ff7", null ],
+    [ "HandleProc", "d8/db7/a27765.html#ab892bc268feccba594a5b4b0be3e86f7", null ],
+    [ "PrepareAuraScript", "d8/db7/a27765.html#a92a141fcf24f63bc41f6f828f72bf277", null ],
+    [ "Register", "d8/db7/a27765.html#a93806efcc1e5976cca2eab57c9e55a7e", null ],
+    [ "Validate", "d8/db7/a27765.html#a28801b99335380a7e366e766b6aaea2c", null ]
 ];

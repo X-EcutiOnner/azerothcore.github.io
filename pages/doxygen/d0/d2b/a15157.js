@@ -1,12 +1,7 @@
 var a15157 =
 [
-    [ "boss_lieutenant_drake", "d0/d2b/a15157.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
-    [ "InitializeAI", "d0/d2b/a15157.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
-    [ "JustDied", "d0/d2b/a15157.html#aca7654e30aac96fa509f99f3447121ec", null ],
-    [ "JustEngagedWith", "d0/d2b/a15157.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
-    [ "KilledUnit", "d0/d2b/a15157.html#a833c889c28ea35a6198fe753b604a8ed", null ],
-    [ "MovementInform", "d0/d2b/a15157.html#aec6e332bc5739552cbbec27569c55759", null ],
-    [ "UpdateAI", "d0/d2b/a15157.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
-    [ "pathId", "d0/d2b/a15157.html#ac63f9c885296a797799c0cd83b0ade64", null ],
-    [ "runSecondPath", "d0/d2b/a15157.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
+    [ "OnPeriodic", "d0/d2b/a15157.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
+    [ "PrepareAuraScript", "d0/d2b/a15157.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
+    [ "Register", "d0/d2b/a15157.html#aeb388d608830aeb3b30f707304403b41", null ],
+    [ "Validate", "d0/d2b/a15157.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
 ];

@@ -1,9 +1,7 @@
 var a14361 =
 [
-    [ "boss_hazzarah", "d9/d5e/a14361.html#a73ba49b91addc9c03e1692587fe66a52", null ],
-    [ "CanAIAttack", "d9/d5e/a14361.html#a9038a5b4276fda8a6865217a7c494eec", null ],
-    [ "JustEngagedWith", "d9/d5e/a14361.html#a18e382c03ff923bb851a9cd8e2541788", null ],
-    [ "JustSummoned", "d9/d5e/a14361.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
-    [ "SummonedCreatureDies", "d9/d5e/a14361.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
-    [ "UpdateAI", "d9/d5e/a14361.html#a61d92f1650a84ed9684d33879e54bd09", null ]
+    [ "HandleScript", "d9/d5e/a14361.html#ac45614416a710794b3e3a5cee239e28a", null ],
+    [ "PrepareSpellScript", "d9/d5e/a14361.html#a832aee6557e27bfa418957297a05bea3", null ],
+    [ "Register", "d9/d5e/a14361.html#a2f5d255de09818203e498c0090bdd3fb", null ],
+    [ "Validate", "d9/d5e/a14361.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
 ];

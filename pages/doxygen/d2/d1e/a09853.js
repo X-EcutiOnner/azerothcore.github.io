@@ -1,10 +1,9 @@
 var a09853 =
 [
-    [ "MailReceiver", "d2/d1e/a09853.html#a6fba3ff0ab3167197f569631d766ce14", null ],
-    [ "MailReceiver", "d2/d1e/a09853.html#af0b094a704463ed76b1c08bc3cab0380", null ],
-    [ "MailReceiver", "d2/d1e/a09853.html#a9f69a0951c2b9d9152685632c744cf4e", null ],
-    [ "GetPlayer", "d2/d1e/a09853.html#a0113e33ef82e9f3112f8cd5793581a36", null ],
-    [ "GetPlayerGUIDLow", "d2/d1e/a09853.html#a0e29fba37b58c7bc92065b0221b8e31e", null ],
-    [ "m_receiver", "d2/d1e/a09853.html#a377b896e1dc7a0e89440efbc2b811ae7", null ],
-    [ "m_receiver_lowguid", "d2/d1e/a09853.html#a46b62a2b8dd0ebac981e0a1752e88743", null ]
+    [ "LoginQueryHolder", "d2/d1e/a09853.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
+    [ "GetAccountId", "d2/d1e/a09853.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
+    [ "GetGuid", "d2/d1e/a09853.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
+    [ "Initialize", "d2/d1e/a09853.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
+    [ "m_accountId", "d2/d1e/a09853.html#abc8056182803af44a062fe6153fdd009", null ],
+    [ "m_guid", "d2/d1e/a09853.html#ab4696408b2e649dcdaae0bc4330c0b9e", null ]
 ];

@@ -1,6 +1,7 @@
 var a13809 =
 [
-    [ "instance_sunwell_plateau_InstanceMapScript", "da/d38/a13813.html", "da/d38/a13813" ],
-    [ "instance_sunwell_plateau", "d9/d70/a13809.html#a31d2245a9237c8dc4480b9d26ff3557c", null ],
-    [ "GetInstanceScript", "d9/d70/a13809.html#a5960785a845c87e2e1730cfd865b44b4", null ]
+    [ "boss_kalec", "d9/d70/a13809.html#a9c36e31c750e93840f30f001cdaca0da", null ],
+    [ "JustDied", "d9/d70/a13809.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
+    [ "JustEngagedWith", "d9/d70/a13809.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
+    [ "UpdateAI", "d9/d70/a13809.html#ab55da7584fa7f545761a5bd547245747", null ]
 ];

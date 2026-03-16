@@ -1,6 +1,6 @@
 var a21525 =
 [
-    [ "npc_conversing_with_the_depths_triggerAI", "d1/da7/a21529.html", "d1/da7/a21529" ],
-    [ "npc_conversing_with_the_depths_trigger", "d4/d85/a21525.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
-    [ "GetAI", "d4/d85/a21525.html#a61c337bfe1efb3589cf0df91d9082236", null ]
+    [ "npc_iruk", "d4/d85/a21525.html#a721aeefd23371cc6bc16738a797bf50a", null ],
+    [ "OnGossipHello", "d4/d85/a21525.html#a774669099330c75ab5e0bea8d460f517", null ],
+    [ "OnGossipSelect", "d4/d85/a21525.html#ae6f7d54d224488a9e29c59c560eba471", null ]
 ];

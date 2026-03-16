@@ -1,5 +1,6 @@
 var a15437 =
 [
-    [ "boss_yauj", "d6/d51/a15437.html#a15ab7b6b35d29fb1552b11586163320e", null ],
-    [ "JustEngagedWith", "d6/d51/a15437.html#a94a2fa960e6924bde9ba6934a56ed684", null ]
+    [ "npc_idol_room_spawnerAI", "d4/d0f/a15441.html", "d4/d0f/a15441" ],
+    [ "npc_idol_room_spawner", "d6/d51/a15437.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
+    [ "GetAI", "d6/d51/a15437.html#a3017caa645e98a7647ec42a43c025624", null ]
 ];

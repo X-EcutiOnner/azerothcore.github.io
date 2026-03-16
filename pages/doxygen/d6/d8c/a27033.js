@@ -1,5 +1,7 @@
 var a27033 =
 [
-    [ "MarkOfNatureTargetSelector", "d6/d8c/a27033.html#ae737da5ff93360fde8c4c818f41d7853", null ],
-    [ "operator()", "d6/d8c/a27033.html#a1515fd40dcccaba5947e93eabf241336", null ]
+    [ "CheckTarget", "d6/d8c/a27033.html#abaef73201d2e0bd1d6789309442019e0", null ],
+    [ "HandleScriptEffect", "d6/d8c/a27033.html#a545196cd976bfabbd85ba48942012e1e", null ],
+    [ "PrepareSpellScript", "d6/d8c/a27033.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
+    [ "Register", "d6/d8c/a27033.html#a36563a197b7377660b7c3f9e85d478bd", null ]
 ];

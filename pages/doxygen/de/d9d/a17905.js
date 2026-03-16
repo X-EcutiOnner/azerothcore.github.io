@@ -1,6 +1,8 @@
 var a17905 =
 [
-    [ "npc_igb_ship_crewAI", "de/d9d/a17905.html#a3ca741b305e3235b0521f094d7abe732", null ],
-    [ "CanAIAttack", "de/d9d/a17905.html#a2c834dc151493957fc116865699ae7f5", null ],
-    [ "_instance", "de/d9d/a17905.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
+    [ "npc_high_overlord_saurfangAI", "d1/d24/a17909.html", "d1/d24/a17909" ],
+    [ "npc_high_overlord_saurfang_icc", "de/d9d/a17905.html#ac02fe80550572e142406c2d80c0392df", null ],
+    [ "GetAI", "de/d9d/a17905.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
+    [ "OnGossipHello", "de/d9d/a17905.html#a515a87f751527412222cfdd968febe7c", null ],
+    [ "OnGossipSelect", "de/d9d/a17905.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
 ];

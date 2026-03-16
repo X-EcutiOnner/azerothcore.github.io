@@ -1,6 +1,5 @@
 var a20669 =
 [
-    [ "PrepareSpellScript", "d0/dba/a20669.html#a525025d429743f9d606289ca1a660796", null ],
-    [ "Register", "d0/dba/a20669.html#a66f565c07d495f27aaba393fdcce9d24", null ],
-    [ "SelectTarget", "d0/dba/a20669.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
+    [ "npc_ulduar_rocket_strike_trigger", "d0/dba/a20669.html#aeed5dd446c67bba7edac698fe5e237c8", null ],
+    [ "SpellHitTarget", "d0/dba/a20669.html#ad4a438c5143a6de2b469baa28f0893c5", null ]
 ];

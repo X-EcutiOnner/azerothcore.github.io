@@ -1,7 +1,7 @@
 var a15253 =
 [
-    [ "npc_onyxian_lair_guard", "db/d9d/a15253.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
-    [ "JustEngagedWith", "db/d9d/a15253.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
-    [ "UpdateAI", "db/d9d/a15253.html#ac8649636d5847813e49d2ada05f78645", null ],
-    [ "events", "db/d9d/a15253.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
+    [ "OnRemove", "db/d9d/a15253.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
+    [ "PrepareAuraScript", "db/d9d/a15253.html#ab082adc51983f124d0467cbff63cffb7", null ],
+    [ "Register", "db/d9d/a15253.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
+    [ "Validate", "db/d9d/a15253.html#a73421b82f483e73314dbb862fb0a11c7", null ]
 ];

@@ -1,5 +1,6 @@
 var a27177 =
 [
-    [ "go_tele_to_violet_stand", "db/dba/a27177.html#a63350db1dfd400c565e30775378d48cc", null ],
-    [ "OnGossipHello", "db/dba/a27177.html#a4d075584f065501a2c3be9ef82387f43", null ]
+    [ "HandleTriggerSpell", "db/dba/a27177.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
+    [ "PrepareAuraScript", "db/dba/a27177.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
+    [ "Register", "db/dba/a27177.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
 ];

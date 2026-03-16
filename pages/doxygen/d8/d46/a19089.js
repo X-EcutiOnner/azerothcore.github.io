@@ -1,7 +1,6 @@
 var a19089 =
 [
-    [ "HandleDummyLaunch", "d8/d46/a19089.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
-    [ "PrepareSpellScript", "d8/d46/a19089.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
-    [ "Register", "d8/d46/a19089.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
-    [ "Validate", "d8/d46/a19089.html#a577166695c1479e3730a70637bc18cf1", null ]
+    [ "npc_frost_freeze_trapAI", "dd/da7/a19093.html", "dd/da7/a19093" ],
+    [ "npc_frost_freeze_trap", "d8/d46/a19089.html#ac58ed2598fd4250f220208a91343f9b8", null ],
+    [ "GetAI", "d8/d46/a19089.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
 ];

@@ -1,16 +1,13 @@
 var a23697 =
 [
-    [ "instance_the_eye_InstanceMapScript", "d2/d9f/a23697.html#a0c2b90c0f155e279aece7cd36d9de6d7", null ],
-    [ "GetGuidData", "d2/d9f/a23697.html#a882432d126cc9e90322eaa16f5ef15c8", null ],
-    [ "OnCreatureCreate", "d2/d9f/a23697.html#a8a89f56945022e34cc5d9ead06a58b63", null ],
-    [ "OnGameObjectCreate", "d2/d9f/a23697.html#a56c6933c2c231c228ca147107fbfc930", null ],
-    [ "AlarGUID", "d2/d9f/a23697.html#a2a5323d92963da3b4b99ef1f7debaa4d", null ],
-    [ "BridgeWindowGUID", "d2/d9f/a23697.html#a1fa987352d6c4c5f11d5415d4b886aaa", null ],
-    [ "GrandAstromancerCapernianGUID", "d2/d9f/a23697.html#aa8e267617231a7816a43e9957c745c58", null ],
-    [ "KaelStateLeftGUID", "d2/d9f/a23697.html#ab2ca710f119fbfc1a7b57a88462d145b", null ],
-    [ "KaelStateRightGUID", "d2/d9f/a23697.html#a25ba703325800d2976eff860437f3d57", null ],
-    [ "KaelthasGUID", "d2/d9f/a23697.html#a547528fbfe31974759b0e6fbdf12df31", null ],
-    [ "LordSanguinarGUID", "d2/d9f/a23697.html#a5794e1c326ad2eb4fee2bdfab8261257", null ],
-    [ "MasterEngineerTelonicusGUID", "d2/d9f/a23697.html#abded7dc13c226ccad53c151d75ced243", null ],
-    [ "ThaladredTheDarkenerGUID", "d2/d9f/a23697.html#ada64ef9f71d61ea19144cec596ba06e2", null ]
+    [ "boss_wrath_scryer_soccothrates", "d2/d9f/a23697.html#a771980c1022e7699c3eb02baccb68a93", null ],
+    [ "InitializeAI", "d2/d9f/a23697.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
+    [ "JustDied", "d2/d9f/a23697.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
+    [ "JustEngagedWith", "d2/d9f/a23697.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
+    [ "KilledUnit", "d2/d9f/a23697.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
+    [ "MoveInLineOfSight", "d2/d9f/a23697.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
+    [ "Reset", "d2/d9f/a23697.html#a85435a23d36f13e348112348a26e7d12", null ],
+    [ "UpdateAI", "d2/d9f/a23697.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
+    [ "events2", "d2/d9f/a23697.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
+    [ "preFight", "d2/d9f/a23697.html#a193889ee2815b93a1c9aeee394170fc4", null ]
 ];

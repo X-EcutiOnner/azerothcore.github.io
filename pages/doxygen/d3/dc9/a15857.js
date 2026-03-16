@@ -1,7 +1,6 @@
 var a15857 =
 [
-    [ "npc_giant_spotlightAI", "d3/dc9/a15857.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
-    [ "Reset", "d3/dc9/a15857.html#a79f6703107eed52a3aeae30393507c0f", null ],
-    [ "UpdateAI", "d3/dc9/a15857.html#a8567f936dd15933300497d5abe80a272", null ],
-    [ "events", "d3/dc9/a15857.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
+    [ "npc_webbed_creatureAI", "d6/d7d/a15861.html", "d6/d7d/a15861" ],
+    [ "npc_webbed_creature", "d3/dc9/a15857.html#ae52152939766c411e45e827e9ab52d4f", null ],
+    [ "GetAI", "d3/dc9/a15857.html#a30fd53b81260b7fd6ca06881930b79e9", null ]
 ];

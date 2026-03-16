@@ -1,6 +1,7 @@
 var a25793 =
 [
-    [ "OnPeriodic", "dc/da4/a25793.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
-    [ "PrepareAuraScript", "dc/da4/a25793.html#ad3d091510685ebc2d87aadb658cacf58", null ],
-    [ "Register", "dc/da4/a25793.html#a9552ba0f4c18623b6b00ababa034942c", null ]
+    [ "HandleScriptEffect", "dc/da4/a25793.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
+    [ "PrepareSpellScript", "dc/da4/a25793.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
+    [ "Register", "dc/da4/a25793.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
+    [ "SelectTarget", "dc/da4/a25793.html#a6a59b7ce696f959b2026cf8088079e89", null ]
 ];

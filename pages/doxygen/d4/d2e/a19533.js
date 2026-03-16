@@ -1,5 +1,7 @@
 var a19533 =
 [
-    [ "npc_mr_bigglesworth", "d4/d2e/a19533.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
-    [ "JustDied", "d4/d2e/a19533.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
+    [ "HandleRemove", "d4/d2e/a19533.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
+    [ "PrepareAuraScript", "d4/d2e/a19533.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
+    [ "Register", "d4/d2e/a19533.html#ad7ba015a7878adad0820cf378d2632ca", null ],
+    [ "Validate", "d4/d2e/a19533.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
 ];

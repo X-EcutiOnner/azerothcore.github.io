@@ -1,6 +1,6 @@
 var a15569 =
 [
-    [ "HandleOnHit", "dc/d2e/a15569.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
-    [ "PrepareSpellScript", "dc/d2e/a15569.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
-    [ "Register", "dc/d2e/a15569.html#a1e608d67914c0071a913d96d70c625d6", null ]
+    [ "HandleScript", "dc/d2e/a15569.html#a88551ffd3dbe4fb9cc122a68813234f0", null ],
+    [ "PrepareSpellScript", "dc/d2e/a15569.html#ae4d8cad1b5de248a30085142fcc2cc7b", null ],
+    [ "Register", "dc/d2e/a15569.html#a434f0aef7f32edb6990efb992e4d57af", null ]
 ];

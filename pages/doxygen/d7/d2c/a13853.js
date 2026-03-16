@@ -1,6 +1,6 @@
 var a13853 =
 [
-    [ "HandleSendEvent", "d7/d2c/a13853.html#af62c176d53589228d5e0077c9fc268a3", null ],
-    [ "PrepareSpellScript", "d7/d2c/a13853.html#acea8e256f267dd496e5f573e982dba5f", null ],
-    [ "Register", "d7/d2c/a13853.html#a0827e177a8268994bb4e63f07993a354", null ]
+    [ "FixOrientation", "d7/d2c/a13853.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
+    [ "Execute", "d7/d2c/a13853.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
+    [ "_owner", "d7/d2c/a13853.html#a5f12db3774bdeef25a300780c00db1fb", null ]
 ];

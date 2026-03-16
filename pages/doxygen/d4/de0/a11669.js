@@ -1,6 +1,4 @@
 var a11669 =
 [
-    [ "EffectAbsorbHandler", "d4/de0/a11669.html#a29bb773b8271acf651b08f33ce358720", null ],
-    [ "Call", "d4/de0/a11669.html#a56bfb0fd0d860678920445d1182c09ef", null ],
-    [ "pEffectHandlerScript", "d4/de0/a11669.html#a519489b8d951173a806e86cfe075faf1", null ]
+    [ "operator()", "d4/de0/a11669.html#ac27052eb73a3723e8678c92aeeb2f499", null ]
 ];

@@ -1,5 +1,6 @@
 var a24033 =
 [
-    [ "go_crystal_prison", "d1/d9b/a24033.html#a0faca8b76f9650ee5cc7825b90463365", null ],
-    [ "OnQuestAccept", "d1/d9b/a24033.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
+    [ "go_beaconAI", "d1/d9b/a24033.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
+    [ "OnStateChanged", "d1/d9b/a24033.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
+    [ "creatureList", "d1/d9b/a24033.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
 ];

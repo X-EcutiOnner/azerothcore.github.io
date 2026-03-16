@@ -1,4 +1,7 @@
 var a10309 =
 [
-    [ "RewardText", "d0/d81/a10309.html#afa9f5200ef634323d719794e1d1aa4d2", null ]
+    [ "WriteCommonMonsterMovePart", "d0/d81/a10309.html#a5dcdbeb513f6da51b0af20d9acd2ac58", null ],
+    [ "WriteCreate", "d0/d81/a10309.html#ae5682d7012cca35bd8643b01ce558eb5", null ],
+    [ "WriteMonsterMove", "d0/d81/a10309.html#a4c4294e3fed32aca35078dd4975b057d", null ],
+    [ "WriteStopMovement", "d0/d81/a10309.html#a1b960c1141ab9b4dca932e0eddaee204", null ]
 ];

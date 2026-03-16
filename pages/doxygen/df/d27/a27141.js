@@ -1,6 +1,7 @@
 var a27141 =
 [
-    [ "go_midsummer_musicAI", "db/d1e/a27145.html", "db/d1e/a27145" ],
-    [ "go_midsummer_music", "df/d27/a27141.html#a39c38fc78b47b16be9eebee0ccd5041d", null ],
-    [ "GetAI", "df/d27/a27141.html#a1baf09bdbf67c0a85219454c1cd61d2b", null ]
+    [ "HandleDummy", "df/d27/a27141.html#a1abe1e04be6b6c410e0ff273d8aa15c9", null ],
+    [ "Load", "df/d27/a27141.html#a249e9c3c74bcc20ea2c0d5ce63fbd88c", null ],
+    [ "PrepareSpellScript", "df/d27/a27141.html#aeffcc8db6125a35227545911fa03a850", null ],
+    [ "Register", "df/d27/a27141.html#a1de981482ebb05b8507b308dba7a426b", null ]
 ];

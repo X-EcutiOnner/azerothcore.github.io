@@ -1,6 +1,7 @@
 var a14937 =
 [
-    [ "instance_blackfathom_deeps_InstanceMapScript", "d0/dfe/a14941.html", "d0/dfe/a14941" ],
-    [ "instance_blackfathom_deeps", "d0/d12/a14937.html#a4600a7e6191582c1bee684989a970e0f", null ],
-    [ "GetInstanceScript", "d0/d12/a14937.html#a62cdab4f3118ab030b4ef55243690f73", null ]
+    [ "OnApply", "d0/d12/a14937.html#a42148069675e663456bb5495fa5c8702", null ],
+    [ "OnPeriodic", "d0/d12/a14937.html#ad3582b02b369e3029e20817dd19aede0", null ],
+    [ "PrepareAuraScript", "d0/d12/a14937.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
+    [ "Register", "d0/d12/a14937.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
 ];

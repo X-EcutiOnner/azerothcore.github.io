@@ -1,5 +1,7 @@
 var a13629 =
 [
-    [ "at_sunwell_eredar_twins", "db/ded/a13629.html#afc183c384bc87321186b20e0ac168c1f", null ],
-    [ "_OnTrigger", "db/ded/a13629.html#aa862756c9905e2cb10d60c70b47919aa", null ]
+    [ "HandleAfterCast", "db/ded/a13629.html#afa662fbe1b777047259ac6212961f7a5", null ],
+    [ "HandleScript", "db/ded/a13629.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
+    [ "PrepareSpellScript", "db/ded/a13629.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
+    [ "Register", "db/ded/a13629.html#a4a898b0b096583af33f1f691a252b2ed", null ]
 ];

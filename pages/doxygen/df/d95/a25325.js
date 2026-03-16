@@ -1,7 +1,8 @@
 var a25325 =
 [
-    [ "FilterTargets", "df/d95/a25325.html#affede599b86e05e6475fd64a60268e8e", null ],
-    [ "Load", "df/d95/a25325.html#a1343407ca8b571140ed2ecf5501bf378", null ],
-    [ "PrepareSpellScript", "df/d95/a25325.html#a12ff05520225209b476b3ba8422de1c6", null ],
-    [ "Register", "df/d95/a25325.html#ac99786385187e21fb02e65e9b9719400", null ]
+    [ "CheckCast", "df/d95/a25325.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
+    [ "HandleScript", "df/d95/a25325.html#a2c1702398e4cbdcc106679d534a27743", null ],
+    [ "PrepareSpellScript", "df/d95/a25325.html#a613bdf7841744632c1e6de147e0352b9", null ],
+    [ "Register", "df/d95/a25325.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
+    [ "Validate", "df/d95/a25325.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
 ];

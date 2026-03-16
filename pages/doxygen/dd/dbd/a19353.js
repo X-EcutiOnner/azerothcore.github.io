@@ -1,7 +1,5 @@
 var a19353 =
 [
-    [ "FilterTargets", "dd/dbd/a19353.html#a56ff062a6014099623466145a66284cc", null ],
-    [ "PrepareSpellScript", "dd/dbd/a19353.html#aa14623bb948ff457e52979facf74ffab", null ],
-    [ "Register", "dd/dbd/a19353.html#a9494bea35088161c9a520395d714fde1", null ],
-    [ "Validate", "dd/dbd/a19353.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
+    [ "at_icc_spire_frostwyrm", "dd/dbd/a19353.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
+    [ "_OnTrigger", "dd/dbd/a19353.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
 ];

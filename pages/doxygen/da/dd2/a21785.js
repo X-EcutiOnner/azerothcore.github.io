@@ -1,7 +1,5 @@
 var a21785 =
 [
-    [ "HandleScript", "da/dd2/a21785.html#a7fec959237546201ea94d5f87068e1c5", null ],
-    [ "PrepareSpellScript", "da/dd2/a21785.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
-    [ "Register", "da/dd2/a21785.html#a0aab07a4950f60a290491aa13103b332", null ],
-    [ "Validate", "da/dd2/a21785.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
+    [ "at_q24545_frostmourne_cavern", "da/dd2/a21785.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
+    [ "OnTrigger", "da/dd2/a21785.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
 ];

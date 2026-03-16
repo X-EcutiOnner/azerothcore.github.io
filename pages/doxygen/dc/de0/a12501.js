@@ -1,6 +1,6 @@
 var a12501 =
 [
-    [ "boss_warmastervooneAI", "d2/d1c/a12505.html", "d2/d1c/a12505" ],
-    [ "boss_warmaster_voone", "dc/de0/a12501.html#ac363118e4201adccd4be0028a558442f", null ],
-    [ "GetAI", "dc/de0/a12501.html#a560469e60fda04b2c7d8fd3994493868", null ]
+    [ "RestoreAttack", "dc/de0/a12501.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
+    [ "Execute", "dc/de0/a12501.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
+    [ "_boss", "dc/de0/a12501.html#a493ef909da834b0befd90f57f54fb10c", null ]
 ];

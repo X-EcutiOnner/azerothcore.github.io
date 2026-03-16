@@ -1,14 +1,15 @@
 var a29561 =
 [
-    [ "ConfigEnvTest", "d0/da5/a28459.html", "d0/da5/a28459" ],
-    [ "CreateConfigWithMap", "d2/d94/a29561.html#a9239326ecbf694576c285ae8b4245e7e", null ],
-    [ "TEST_F", "d2/d94/a29561.html#a94c823774c857d4e496d49e57fc81ec7", null ],
-    [ "TEST_F", "d2/d94/a29561.html#a7b3e2d5178272c45ffc59b429efb470b", null ],
-    [ "TEST_F", "d2/d94/a29561.html#a405895a1a3d48885bc76d0cd476ef18e", null ],
-    [ "TEST_F", "d2/d94/a29561.html#a78acdeb7f8d994b9bea8032b95492f55", null ],
-    [ "TEST_F", "d2/d94/a29561.html#ad6d9eb985ed7e700cdc58e66caf1832c", null ],
-    [ "TEST_F", "d2/d94/a29561.html#ab2a3d3e7561c71ed4adc32ff482bc6c8", null ],
-    [ "TEST_F", "d2/d94/a29561.html#a2b2a3a2a1f46aa789759315c29d5af6c", null ],
-    [ "TEST_F", "d2/d94/a29561.html#ae31e3b13342d4ea071f29961ab4a1775", null ],
-    [ "TEST_F", "d2/d94/a29561.html#aabed1171286f2b1b05cc4380a00c5df7", null ]
+    [ "DamageInfoStubBuilder", "d2/d94/a29561.html#a282b4f92722f9cf12358a9f603df6902", null ],
+    [ "Build", "d2/d94/a29561.html#ad50ac35ca7a10f0eb20383fbde4a54dc", null ],
+    [ "WithAbsorb", "d2/d94/a29561.html#a3533bbda604c4ed6ac467f28ecb60fbe", null ],
+    [ "WithAttackType", "d2/d94/a29561.html#a4fd9332aa42002056d3f9191cd4435d7", null ],
+    [ "WithBlock", "d2/d94/a29561.html#a81381d471627ddd6e86678551ca4ab5b", null ],
+    [ "WithDamage", "d2/d94/a29561.html#abf9d30cde831f2094a181a312bcfe9df", null ],
+    [ "WithHitMask", "d2/d94/a29561.html#a161f5ea9ae33541dfcfd600fc5546b20", null ],
+    [ "WithOriginalDamage", "d2/d94/a29561.html#a3265aa4aa273cc9ededb6c9673f6c9e3", null ],
+    [ "WithResist", "d2/d94/a29561.html#a76827724d8b8d780dc5d136ca01e51e6", null ],
+    [ "WithSchoolMask", "d2/d94/a29561.html#ab540fcb56c4034daea104a1b844bdb3a", null ],
+    [ "WithSpellInfo", "d2/d94/a29561.html#a681fe7d0c7f3b4136ad4ba2a662e6393", null ],
+    [ "_stub", "d2/d94/a29561.html#abf06c6b638dcd9489fa0e3d755433514", null ]
 ];

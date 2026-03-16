@@ -1,7 +1,11 @@
 var a14793 =
 [
-    [ "OnApply", "d4/d8f/a14793.html#a42148069675e663456bb5495fa5c8702", null ],
-    [ "OnPeriodic", "d4/d8f/a14793.html#ad3582b02b369e3029e20817dd19aede0", null ],
-    [ "PrepareAuraScript", "d4/d8f/a14793.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
-    [ "Register", "d4/d8f/a14793.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
+    [ "npc_the_etymidian", "d4/d8f/a14793.html#af491016ac89b67947650a5ca9c379875", null ],
+    [ "MoveInLineOfSight", "d4/d8f/a14793.html#adde2d86e30442eb1b47219e934e24407", null ],
+    [ "Reset", "d4/d8f/a14793.html#a714edf3ba5f7a6d59242c991764effc5", null ],
+    [ "UpdateAI", "d4/d8f/a14793.html#a1f3cfddae43e443c5cd4a8a0f9f87a89", null ],
+    [ "orphanGUID", "d4/d8f/a14793.html#a9ba2c34b08d0fe61e18037b02f352d08", null ],
+    [ "phase", "d4/d8f/a14793.html#a7086e9a8a8a7287cf90688270e9933a7", null ],
+    [ "playerGUID", "d4/d8f/a14793.html#a7371e361c018360315e20086b0b99079", null ],
+    [ "timer", "d4/d8f/a14793.html#a8508a2c89eeeee2d235e1178ca77e895", null ]
 ];

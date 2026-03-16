@@ -1,8 +1,9 @@
 var a05877 =
 [
-    [ "UpdateResult", "d1/dc8/a05877.html#af32cdf09d32607955c98353fbfa7d392", null ],
-    [ "UpdateResult", "d1/dc8/a05877.html#a225eb6b9ff745dcd72d623ca79c007c6", null ],
-    [ "archived", "d1/dc8/a05877.html#adee274af5f5d6981e28b3587008d690c", null ],
-    [ "recent", "d1/dc8/a05877.html#aea54f4388b659def734957a47e9cca8c", null ],
-    [ "updated", "d1/dc8/a05877.html#a12b3fffe01639493fc405bd5a797f463", null ]
+    [ "A", "d1/dc8/a05877.html#ab94666c9208b481061cd81382ce94a5a", null ],
+    [ "clientM", "d1/dc8/a05877.html#a65b25700c577d338e902dc47b4712433", null ],
+    [ "cmd", "d1/dc8/a05877.html#a51b29f49e940bffa67988d9bc2b16aa4", null ],
+    [ "crc_hash", "d1/dc8/a05877.html#af2ce94f814a0008c953229fb9cdff454", null ],
+    [ "number_of_keys", "d1/dc8/a05877.html#ad8f9f53d462f1abd5c81413e0ed8b0a7", null ],
+    [ "securityFlags", "d1/dc8/a05877.html#ae2ab466af9513c15cbcea7a20e97ddc5", null ]
 ];

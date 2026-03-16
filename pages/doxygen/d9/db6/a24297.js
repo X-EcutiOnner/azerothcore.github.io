@@ -1,6 +1,6 @@
 var a24297 =
 [
-    [ "HandleSummon", "d9/db6/a24297.html#a00e265d830ea3e8a0a1952984c438071", null ],
-    [ "PrepareSpellScript", "d9/db6/a24297.html#a96df13b19964b6e89babb312465b90bc", null ],
-    [ "Register", "d9/db6/a24297.html#a5341e4ddf1b1ef94099c337114164ba8", null ]
+    [ "PrepareSpellScript", "d9/db6/a24297.html#ac781a5ff389268d1f18867ff5585ca71", null ],
+    [ "Register", "d9/db6/a24297.html#a5cb9e02774ea6c307e76183253ffb472", null ],
+    [ "SetDest", "d9/db6/a24297.html#a5fec9885b1dd6cf80fb47af321fad98e", null ]
 ];

@@ -1,7 +1,7 @@
 var a23405 =
 [
-    [ "HandleDummyApply", "dc/d19/a23405.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
-    [ "HandleDummyRemove", "dc/d19/a23405.html#a5d68d9e15600119deca7179ffe00acda", null ],
-    [ "PrepareAuraScript", "dc/d19/a23405.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
-    [ "Register", "dc/d19/a23405.html#a094004ccf6b4cae4d27bca639b76b899", null ]
+    [ "HandleScript", "dc/d19/a23405.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
+    [ "PrepareSpellScript", "dc/d19/a23405.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
+    [ "Register", "dc/d19/a23405.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
+    [ "Validate", "dc/d19/a23405.html#a46aca18049e02d50f57579b3fdc705bd", null ]
 ];

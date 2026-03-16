@@ -1,8 +1,8 @@
 var a28013 =
 [
-    [ "DamagedDisplayId", "db/d62/a28013.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
-    [ "DestroyedDisplayId", "db/d62/a28013.html#afc891df0c9491a34f784e8f141434be5", null ],
-    [ "Id", "db/d62/a28013.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
-    [ "RebuildingDisplayId", "db/d62/a28013.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
-    [ "SmokeDisplayId", "db/d62/a28013.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
+    [ "CharacterActionIpLogger", "db/d62/a28013.html#a39861f7348a79031a8215b435ba81059", null ],
+    [ "CharacterIPLogAction", "db/d62/a28013.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
+    [ "OnPlayerCreate", "db/d62/a28013.html#a48844efac9d9af9c6415ad49d2473688", null ],
+    [ "OnPlayerLogin", "db/d62/a28013.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
+    [ "OnPlayerLogout", "db/d62/a28013.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
 ];

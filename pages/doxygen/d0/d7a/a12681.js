@@ -1,6 +1,6 @@
 var a12681 =
 [
-    [ "HandleOnHit", "d0/d7a/a12681.html#a804097903354ab3a730f0fe3eb5ec863", null ],
-    [ "PrepareSpellScript", "d0/d7a/a12681.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
-    [ "Register", "d0/d7a/a12681.html#a53bed6f1af71fd309a04bc004d07be80", null ]
+    [ "OnEffect", "d0/d7a/a12681.html#a1b5999f392cec9fea4431c3f746ee034", null ],
+    [ "PrepareSpellScript", "d0/d7a/a12681.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
+    [ "Register", "d0/d7a/a12681.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
 ];

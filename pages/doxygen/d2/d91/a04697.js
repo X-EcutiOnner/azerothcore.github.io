@@ -1,5 +1,5 @@
 var a04697 =
 [
-    [ "arena_commandscript", "dc/d30/a12082.html", "dc/d30/a12082" ],
-    [ "AddSC_arena_commandscript", "d2/d91/a04697.html#aa94d37f012ac02e97a1021713b7dbeeb", null ]
+    [ "cache_commandscript", "d8/d2e/a12081.html", "d8/d2e/a12081" ],
+    [ "AddSC_cache_commandscript", "d2/d91/a04697.html#a293f65606c1750692d4046d4fe4c4adc", null ]
 ];

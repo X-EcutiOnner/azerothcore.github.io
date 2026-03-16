@@ -1,8 +1,10 @@
 var a08881 =
 [
-    [ "RedirectSpellEvent", "df/d37/a08881.html#a77d243d64c2fc651d71c42e10a315161", null ],
-    [ "Execute", "df/d37/a08881.html#a34ae2bc23904558bd5f5b99e8f1c5fdc", null ],
-    [ "_auraEffect", "df/d37/a08881.html#a010f14a7d389b4e9ae9896061fa18a65", null ],
-    [ "_auraOwnerGUID", "df/d37/a08881.html#a1b3fb598748362379fef15b3172d8e2b", null ],
-    [ "_self", "df/d37/a08881.html#aecfa190843c1493b47652ccdac7ae9c3", null ]
+    [ "Index", "df/d37/a08881.html#a28b25d822326a1b7d5ec7f95ce084bac", [
+      [ "REGULAR", "df/d37/a08881.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
+      [ "ADDON", "df/d37/a08881.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
+      [ "MAX", "df/d37/a08881.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
+    ] ],
+    [ "Count", "df/d37/a08881.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
+    [ "Time", "df/d37/a08881.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
 ];

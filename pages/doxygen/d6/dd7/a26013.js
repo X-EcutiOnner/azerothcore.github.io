@@ -1,9 +1,6 @@
 var a26013 =
 [
-    [ "CheckCast", "d6/dd7/a26013.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
-    [ "HandleTriggerSpellHit", "d6/dd7/a26013.html#aca027bb2995456bfcedd33c06966eb88", null ],
-    [ "HandleTriggerSpellLaunch", "d6/dd7/a26013.html#aa67bf9f81086a3837037d67306979072", null ],
-    [ "PrepareSpellScript", "d6/dd7/a26013.html#a9247b5f3a376bebdcf857565b5049944", null ],
-    [ "Register", "d6/dd7/a26013.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
-    [ "Validate", "d6/dd7/a26013.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
+    [ "HandleProc", "d6/dd7/a26013.html#aa333d52d905e722554d8d61c4b9cb656", null ],
+    [ "PrepareAuraScript", "d6/dd7/a26013.html#aac4320b061d627e4ffef737d2e858ef3", null ],
+    [ "Register", "d6/dd7/a26013.html#ad58fea9afa6a3596437a324ec525982e", null ]
 ];

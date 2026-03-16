@@ -1,6 +1,5 @@
 var a19693 =
 [
-    [ "boss_varosAI", "d0/d47/a19697.html", "d0/d47/a19697" ],
-    [ "boss_varos", "d5/d09/a19693.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
-    [ "GetAI", "d5/d09/a19693.html#a36733c4eb6179e43d61a1c37480666ea", null ]
+    [ "npc_living_poison", "d5/d09/a19693.html#a277440068846eac71c795880a16475dd", null ],
+    [ "UpdateAI", "d5/d09/a19693.html#a2a6af8a9ef14e65ba9e44f2228b09ba5", null ]
 ];

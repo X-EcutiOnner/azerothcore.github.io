@@ -1,6 +1,7 @@
 var a19121 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "de/d24/a19125.html", "de/d24/a19125" ],
-    [ "npc_icc_skybreaker_luminary", "d3/d93/a19121.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
-    [ "GetAI", "d3/d93/a19121.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
+    [ "npc_captain_arnathAI", "d3/d93/a19121.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
+    [ "FindFriendlyCreature", "d3/d93/a19121.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
+    [ "Reset", "d3/d93/a19121.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
+    [ "UpdateAI", "d3/d93/a19121.html#a020efd7adc0d60152007906e3229988d", null ]
 ];

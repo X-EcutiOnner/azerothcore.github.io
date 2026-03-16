@@ -1,7 +1,6 @@
 var a13653 =
 [
-    [ "HandleScriptEffect", "d8/db4/a13653.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
-    [ "PrepareSpellScript", "d8/db4/a13653.html#af9deee89e837e07486a7555632008eb2", null ],
-    [ "Register", "d8/db4/a13653.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
-    [ "Validate", "d8/db4/a13653.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "dd/df7/a13657.html", "dd/df7/a13657" ],
+    [ "instance_shadowfang_keep", "d8/db4/a13653.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
+    [ "GetInstanceScript", "d8/db4/a13653.html#a5c076ed86470247de5b4e3733b70fa25", null ]
 ];

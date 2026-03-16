@@ -1,8 +1,7 @@
 var a25905 =
 [
-    [ "HandleDummy", "d9/d6b/a25905.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
-    [ "PrepareSpellScript", "d9/d6b/a25905.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
-    [ "Register", "d9/d6b/a25905.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
-    [ "Validate", "d9/d6b/a25905.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
-    [ "PolymorhForms", "d9/d6b/a25905.html#a1443d2532a060514e697a8d5e0c21b20", null ]
+    [ "OnRemove", "d9/d6b/a25905.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
+    [ "PrepareAuraScript", "d9/d6b/a25905.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
+    [ "Register", "d9/d6b/a25905.html#a35a8adc4944fc2333488e72498f6d252", null ],
+    [ "Validate", "d9/d6b/a25905.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
 ];

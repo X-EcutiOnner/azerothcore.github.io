@@ -1,7 +1,7 @@
 var a24909 =
 [
-    [ "HandleDummy", "de/df5/a24909.html#af5d0fc4e596c04c6ca3faf4079f6b602", null ],
-    [ "Load", "de/df5/a24909.html#a4098aa621012c5e3623ee905d2d2c8eb", null ],
-    [ "PrepareSpellScript", "de/df5/a24909.html#ad9d1823fa4302334419e6f9a01f0a728", null ],
-    [ "Register", "de/df5/a24909.html#a4d683270dc086454630475d39f0105e8", null ]
+    [ "HandleProc", "de/df5/a24909.html#a537f3badee8fee83ff5b1aaa26bdf96d", null ],
+    [ "PrepareAuraScript", "de/df5/a24909.html#ac234a738270dbe0d991e55da4d497490", null ],
+    [ "Register", "de/df5/a24909.html#a8033ae66f1c92fdf596add2985d0a6b3", null ],
+    [ "Validate", "de/df5/a24909.html#a039e765c38eb63116a546b9c541da949", null ]
 ];

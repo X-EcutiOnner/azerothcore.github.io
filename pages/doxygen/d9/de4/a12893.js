@@ -1,6 +1,7 @@
 var a12893 =
 [
-    [ "boss_mr_smiteAI", "d6/dcc/a12897.html", "d6/dcc/a12897" ],
-    [ "boss_mr_smite", "d9/de4/a12893.html#a011d41112ef7376b71d2959f806be262", null ],
-    [ "GetAI", "d9/de4/a12893.html#a619ca0aede1eb33f992328048319c4f0", null ]
+    [ "HandleHit", "d9/de4/a12893.html#a18f86449945ade16140ee934a7d8703e", null ],
+    [ "PrepareSpellScript", "d9/de4/a12893.html#abaf09043858db27b05fbe544d7a15a8f", null ],
+    [ "Register", "d9/de4/a12893.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
+    [ "Validate", "d9/de4/a12893.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
 ];

@@ -1,6 +1,7 @@
 var a22733 =
 [
-    [ "FilterTargets", "d4/d39/a22733.html#a04973145ed594b88afe2acc0cacb10c6", null ],
-    [ "PrepareSpellScript", "d4/d39/a22733.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
-    [ "Register", "d4/d39/a22733.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
+    [ "HandleEffectRemove", "d4/d39/a22733.html#a0d8d042e6e9bf8fd26b6f283f6da6194", null ],
+    [ "PrepareAuraScript", "d4/d39/a22733.html#a84ec7db2aab055bc4328a4d8862bd3f5", null ],
+    [ "Register", "d4/d39/a22733.html#a9ee8e71020c17f593472de5a9c130753", null ],
+    [ "Validate", "d4/d39/a22733.html#a08be3cb2bef2f4697b7e258b231bd35b", null ]
 ];

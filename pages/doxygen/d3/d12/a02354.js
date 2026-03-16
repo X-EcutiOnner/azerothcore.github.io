@@ -1,4 +1,6 @@
 var a02354 =
 [
-    [ "GetMinPlayersPerTeam", "d3/d12/a02354.html#ab22bdb52b0357434faced9df19db9d81", null ]
+    [ "BG_SA_BOAT_START", "d3/d12/a02354.html#a2ec6635cf59771fcfd56b16cd670eebc", null ],
+    [ "BG_SA_ROUNDLENGTH", "d3/d12/a02354.html#a1197e8f288608511601a41e8e8ea80ce", null ],
+    [ "BG_SA_WARMUPLENGTH", "d3/d12/a02354.html#a7447506b77b9babea7568349335ea705", null ]
 ];

@@ -1,6 +1,6 @@
 var a19669 =
 [
-    [ "npc_oculus_unstable_sphereAI", "d7/d1f/a19673.html", "d7/d1f/a19673" ],
-    [ "npc_oculus_unstable_sphere", "da/de9/a19669.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
-    [ "GetAI", "da/de9/a19669.html#adda2a9e7eab03444742e85729673ab2f", null ]
+    [ "npc_teslaAI", "d7/d1f/a19673.html", "d7/d1f/a19673" ],
+    [ "npc_tesla", "da/de9/a19669.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
+    [ "GetAI", "da/de9/a19669.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
 ];

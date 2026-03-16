@@ -1,8 +1,6 @@
 var a10749 =
 [
-    [ "GuildEvent", "d1/d1a/a10749.html#a78be16122c01d4c68d67e050ede92006", null ],
-    [ "Write", "d1/d1a/a10749.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
-    [ "Guid", "d1/d1a/a10749.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
-    [ "Params", "d1/d1a/a10749.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
-    [ "Type", "d1/d1a/a10749.html#a961ae90991fa23bfc94a054dba357392", null ]
+    [ "GetEvent", "d1/d1a/a10749.html#aabf338a9824038abbd0934a3bef0a269", null ],
+    [ "Read", "d1/d1a/a10749.html#a344db9b28e7247dc0285a3468a789721", null ],
+    [ "EventId", "d1/d1a/a10749.html#a31de21c2af87d174d139eef870cbb5fd", null ]
 ];

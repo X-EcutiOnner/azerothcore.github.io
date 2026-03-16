@@ -1,7 +1,6 @@
 var a24265 =
 [
-    [ "CheckCast", "d7/d5a/a24265.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
-    [ "HandleDummy", "d7/d5a/a24265.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
-    [ "PrepareSpellScript", "d7/d5a/a24265.html#a465da282630352a289d5daae7ccb1d01", null ],
-    [ "Register", "d7/d5a/a24265.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
+    [ "PrepareSpellScript", "d7/d5a/a24265.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
+    [ "Register", "d7/d5a/a24265.html#ac57aee08a131bcf7db11bc105f32242c", null ],
+    [ "SetDest", "d7/d5a/a24265.html#a26362c4873890bb60c2526bf07058746", null ]
 ];

@@ -1,6 +1,12 @@
 var a17385 =
 [
-    [ "npc_pos_after_first_bossAI", "d7/dd2/a17389.html", "d7/dd2/a17389" ],
-    [ "npc_pos_after_first_boss", "d5/d0e/a17385.html#a76ae57195ceca454928245f2db12f68c", null ],
-    [ "GetAI", "d5/d0e/a17385.html#a3f807335f79218ecc70c32f5496267a6", null ]
+    [ "npc_tortured_riflemanAI", "d5/d0e/a17385.html#a65dc1d2ba5769aed1a0b2487322ff2b1", null ],
+    [ "AttackStart", "d5/d0e/a17385.html#aaf2b73d0b60791f887207842580d91dc", null ],
+    [ "DoAction", "d5/d0e/a17385.html#acb941c20d911a567c93bb0f92105fdfd", null ],
+    [ "EnterEvadeMode", "d5/d0e/a17385.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50", null ],
+    [ "JustDied", "d5/d0e/a17385.html#a5796a96626937e1026cc1fec0eba4e0b", null ],
+    [ "JustEngagedWith", "d5/d0e/a17385.html#ac5d8f17c48269da06c14643e82c88567", null ],
+    [ "Reset", "d5/d0e/a17385.html#a04f9c7056e063d436df66f079127d1a7", null ],
+    [ "UpdateAI", "d5/d0e/a17385.html#a194a615eef3651cdc97d4e4ad57bf017", null ],
+    [ "events", "d5/d0e/a17385.html#a958f27c1f917dc1ae0a9f84549481f93", null ]
 ];

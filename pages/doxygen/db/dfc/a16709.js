@@ -1,7 +1,6 @@
 var a16709 =
 [
-    [ "HandleEffectPeriodic", "db/dfc/a16709.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
-    [ "PrepareAuraScript", "db/dfc/a16709.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
-    [ "Register", "db/dfc/a16709.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
-    [ "Validate", "db/dfc/a16709.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
+    [ "boss_paletressAI", "d2/dca/a16713.html", "d2/dca/a16713" ],
+    [ "boss_paletress", "db/dfc/a16709.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
+    [ "GetAI", "db/dfc/a16709.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
 ];

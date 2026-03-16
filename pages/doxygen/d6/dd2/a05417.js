@@ -1,5 +1,7 @@
 var a05417 =
 [
-    [ "Decode", "d6/dd2/a05417.html#a9c18a834b227a8f60104100bd5c47df5", null ],
-    [ "Encode", "d6/dd2/a05417.html#a2b0f76655d4e56d8a7aa9a98de87f6cf", null ]
+    [ "Secret", "d6/dd2/a05417.html#aae38427994c1f4ddf3838c4e1f3f7e03", null ],
+    [ "GenerateToken", "d6/dd2/a05417.html#a44829d44e78247991d9c3dde270cab5c", null ],
+    [ "ValidateToken", "d6/dd2/a05417.html#ab6b27542814e577106ad587a5807d663", null ],
+    [ "RECOMMENDED_SECRET_LENGTH", "d6/dd2/a05417.html#a885fc6c1a5bda166416f161ea202eb72", null ]
 ];

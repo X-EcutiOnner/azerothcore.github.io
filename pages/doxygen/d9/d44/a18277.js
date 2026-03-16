@@ -1,6 +1,7 @@
 var a18277 =
 [
-    [ "boss_rotfaceAI", "d6/d03/a18281.html", "d6/d03/a18281" ],
-    [ "boss_rotface", "d9/d44/a18277.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
-    [ "GetAI", "d9/d44/a18277.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
+    [ "npc_coldflameAI", "d9/d44/a18277.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
+    [ "IsSummonedBy", "d9/d44/a18277.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
+    [ "UpdateAI", "d9/d44/a18277.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
+    [ "events", "d9/d44/a18277.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
 ];

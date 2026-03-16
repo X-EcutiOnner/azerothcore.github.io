@@ -1,18 +1,16 @@
 var a21249 =
 [
-    [ "violet_hold_trashAI", "d2/dc4/a21249.html#a87011739810f39291655bc835f9995bd", null ],
-    [ "AttackStart", "d2/dc4/a21249.html#ab2d2157977ae2482217fa8ac344b30af", null ],
-    [ "ClearDoorSealAura", "d2/dc4/a21249.html#ad0c756eb5bef8036cb47ebcc9e6915df", null ],
-    [ "CreatureStartAttackDoor", "d2/dc4/a21249.html#a1e64a9f7c82275969e099b5012a32924", null ],
-    [ "EnterEvadeMode", "d2/dc4/a21249.html#ab189607a468514d6c472ac40e6f3d85b", null ],
-    [ "JustDied", "d2/dc4/a21249.html#acd512cd3722a2edf0ca539272ded3c79", null ],
-    [ "JustEngagedWith", "d2/dc4/a21249.html#a16e7677aa9597dda938a67c51febde6c", null ],
-    [ "JustReachedHome", "d2/dc4/a21249.html#ae98d0cd977d59cbfe567fa6e294cde7e", null ],
-    [ "MoveInLineOfSight", "d2/dc4/a21249.html#ab0e73a03d6e36a35eb393127bce3dad3", null ],
-    [ "UpdateAI", "d2/dc4/a21249.html#a8647797343650fcd4f6304bce3742883", null ],
-    [ "WaypointReached", "d2/dc4/a21249.html#ac218e3761b79d4d8186ad8d12e0d0b57", null ],
-    [ "bAddedWP", "d2/dc4/a21249.html#ad2e8841054cece73bdc7c2e7782c96a8", null ],
-    [ "bAlt", "d2/dc4/a21249.html#ad84ecad1a57f0af44af2795a252d2214", null ],
-    [ "pInstance", "d2/dc4/a21249.html#a0a5f5b86cd54c28a828db2ac3e83126b", null ],
-    [ "PLoc", "d2/dc4/a21249.html#a9e9ca535b9d2fa1b246975f984c96998", null ]
+    [ "boss_emalonAI", "d2/dc4/a21249.html#ac87b3ea34e9781f3843321ef874321fe", null ],
+    [ "AttackStart", "d2/dc4/a21249.html#ab08f49aabe76b623496da2fc0198a6c1", null ],
+    [ "JustDied", "d2/dc4/a21249.html#a79a05156b690140e955a6e850ac41e5b", null ],
+    [ "JustEngagedWith", "d2/dc4/a21249.html#a9a3b4e6df73586125c0369aa2d3666df", null ],
+    [ "JustSummoned", "d2/dc4/a21249.html#a895f302d336faa0c3f93854314d3b427", null ],
+    [ "Reset", "d2/dc4/a21249.html#ae5d33f728077d5bbc3b7d74db8015f5d", null ],
+    [ "ResetSummons", "d2/dc4/a21249.html#a7df4da85c40ba1c34063df9b2df5874b", null ],
+    [ "SpellHitTarget", "d2/dc4/a21249.html#a2c60642848b73bc00d1a8244d4fb4733", null ],
+    [ "SummonedCreatureDies", "d2/dc4/a21249.html#a25a18c4d110b407c5fcf09c14444e8b0", null ],
+    [ "UpdateAI", "d2/dc4/a21249.html#a4701d5a77b6ae7ce3432c81b7b6d14cf", null ],
+    [ "events", "d2/dc4/a21249.html#a78312371e28b4be3c072dc870370b577", null ],
+    [ "pInstance", "d2/dc4/a21249.html#af4cc6489905f9702999cc23fd6a920c2", null ],
+    [ "summons", "d2/dc4/a21249.html#a1b6ccd418114e57a0c843cc980a56243", null ]
 ];

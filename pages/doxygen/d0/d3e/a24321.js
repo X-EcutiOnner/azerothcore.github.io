@@ -1,6 +1,6 @@
 var a24321 =
 [
-    [ "HandleProc", "d0/d3e/a24321.html#a8fb0e7e5e50fcb201e8e55ee9621034e", null ],
-    [ "PrepareAuraScript", "d0/d3e/a24321.html#a2f42e70482f71a4c275f70897b90ed72", null ],
-    [ "Register", "d0/d3e/a24321.html#a048f59b6b0d52232e3a953f173324fc2", null ]
+    [ "go_ancient_skull_pile", "d0/d3e/a24321.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
+    [ "OnGossipHello", "d0/d3e/a24321.html#afc258eaeb7586f0f539223c21f82ea63", null ],
+    [ "OnGossipSelect", "d0/d3e/a24321.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
 ];

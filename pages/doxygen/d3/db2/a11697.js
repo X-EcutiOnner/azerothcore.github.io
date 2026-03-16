@@ -1,7 +1,4 @@
 var a11697 =
 [
-    [ "ScriptStateStore", "d3/db2/a11697.html#a51baffee5c9dbf255591db8ea13ee516", null ],
-    [ "_auraApplication", "d3/db2/a11697.html#af5098bcedac048808e11bf2f82d705a7", null ],
-    [ "_currentScriptState", "d3/db2/a11697.html#adddf594d9468b16455da6e2aef683d44", null ],
-    [ "_defaultActionPrevented", "d3/db2/a11697.html#a63cf373d469af72bc96a3e72351e3256", null ]
+    [ "spellid", "d3/db2/a11697.html#a14f5dd3b53f06437074965e9b7753e89", null ]
 ];

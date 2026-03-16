@@ -1,6 +1,7 @@
 var a21941 =
 [
-    [ "npc_blessed_bannerAI", "db/d42/a21945.html", "db/d42/a21945" ],
-    [ "npc_blessed_banner", "d2/db5/a21941.html#a779a0c653088b2d206226e146a19101f", null ],
-    [ "GetAI", "d2/db5/a21941.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
+    [ "HandleDummy", "d2/db5/a21941.html#abb5726c8afa66a946eefc8767094ea9b", null ],
+    [ "PrepareSpellScript", "d2/db5/a21941.html#ab5d9f8125c75bbd8fbb2717516d3eddd", null ],
+    [ "Register", "d2/db5/a21941.html#a38efc59fcbb40469521419723a1dceb3", null ],
+    [ "Validate", "d2/db5/a21941.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e", null ]
 ];

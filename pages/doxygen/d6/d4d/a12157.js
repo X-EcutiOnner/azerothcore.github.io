@@ -1,12 +1,10 @@
 var a12157 =
 [
-    [ "boss_balinda", "d6/d4d/a12157.html#a2f3ce696dbc66843cddc13196800866b", null ],
-    [ "DamageTaken", "d6/d4d/a12157.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
-    [ "JustDied", "d6/d4d/a12157.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
-    [ "JustEngagedWith", "d6/d4d/a12157.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
-    [ "JustSummoned", "d6/d4d/a12157.html#a3c2306326d2f85fbb6766352117a1f91", null ],
-    [ "Reset", "d6/d4d/a12157.html#a1ecfa5d743682997076a47cce44b19f5", null ],
-    [ "UpdateAI", "d6/d4d/a12157.html#af3506dd75baef12fd0328aed21636978", null ],
-    [ "_hasCastIceBlock", "d6/d4d/a12157.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
-    [ "summons", "d6/d4d/a12157.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
+    [ "item_commandscript", "d6/d4d/a12157.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
+    [ "GetCommands", "d6/d4d/a12157.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
+    [ "HandleItemMoveCommand", "d6/d4d/a12157.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
+    [ "HandleItemRefundCommand", "d6/d4d/a12157.html#af914e33be05148062abd89c754d939c9", null ],
+    [ "HandleItemRestoreCommand", "d6/d4d/a12157.html#a84c67a46c513c1aac2b9d2563d693929", null ],
+    [ "HandleItemRestoreListCommand", "d6/d4d/a12157.html#a40181310f4187a71a6f5f5f600a8f468", null ],
+    [ "HasItemDeletionConfig", "d6/d4d/a12157.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
 ];

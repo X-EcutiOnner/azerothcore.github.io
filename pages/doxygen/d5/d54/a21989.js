@@ -1,6 +1,7 @@
 var a21989 =
 [
-    [ "npc_avatar_of_freya", "d5/d54/a21989.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
-    [ "OnGossipHello", "d5/d54/a21989.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
-    [ "OnGossipSelect", "d5/d54/a21989.html#aba1b13e922873e939b2510b4bc77f49d", null ]
+    [ "npc_rodin_lightning_enabler", "d5/d54/a21989.html#ae014b208af7664acd2147663d9338583", null ],
+    [ "Reset", "d5/d54/a21989.html#ac3ff539380f8fdd5827c6868815b39cc", null ],
+    [ "UpdateAI", "d5/d54/a21989.html#a5f900d97eec245bf3c27cde5c78b71e3", null ],
+    [ "_scheduler", "d5/d54/a21989.html#a06434f538bd89d429a329bbd24e5fcdf", null ]
 ];

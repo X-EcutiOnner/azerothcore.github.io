@@ -1,6 +1,11 @@
 var a18741 =
 [
-    [ "ActivateSpirit", "d1/d60/a18741.html#ae5c9f8e693a98c828e0e922870552952", null ],
-    [ "PrepareSpellScript", "d1/d60/a18741.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
-    [ "Register", "d1/d60/a18741.html#a2b1d27e93a879681098a83d17c4d686a", null ]
+    [ "AddMissingStack", "d1/d60/a18741.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
+    [ "CheckAura", "d1/d60/a18741.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
+    [ "FilterTargets", "d1/d60/a18741.html#ab6c86c3680823329d5f3aad985aa316a", null ],
+    [ "Load", "d1/d60/a18741.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
+    [ "PrepareSpellScript", "d1/d60/a18741.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
+    [ "Register", "d1/d60/a18741.html#af0e6f1fc6687de1abcc1689116150088", null ],
+    [ "_hadInitialAura", "d1/d60/a18741.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
+    [ "_hadJumpingAura", "d1/d60/a18741.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
 ];

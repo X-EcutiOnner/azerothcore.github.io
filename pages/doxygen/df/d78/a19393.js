@@ -1,17 +1,9 @@
 var a19393 =
 [
-    [ "boss_kelthuzadAI", "df/d78/a19393.html#a3fa1e67bf942824cd40c5591f4e63a08", null ],
-    [ "EnterEvadeMode", "df/d78/a19393.html#ac99064d95afff73680df1fe96749665a", null ],
-    [ "JustDied", "df/d78/a19393.html#a49066a2fa1dc424a27262706c8af046a", null ],
-    [ "JustEngagedWith", "df/d78/a19393.html#a8fd3938c0e91a0773eacba9fbdb4a60e", null ],
-    [ "JustSummoned", "df/d78/a19393.html#a0b305ec3029d149c3ca273cb7ba52e1b", null ],
-    [ "KilledUnit", "df/d78/a19393.html#ad2fa9b4d11b158e3fadf0c304be6b431", null ],
-    [ "MoveInLineOfSight", "df/d78/a19393.html#a440b758486cd95b7884fe2ce9bdfb28f", null ],
-    [ "NormalizeOrientation", "df/d78/a19393.html#a21ac290b79119d47b7509b04b34ea16e", null ],
-    [ "Reset", "df/d78/a19393.html#a5df92ebc5bd4ee8d06b17e31381be8c4", null ],
-    [ "SpawnHelpers", "df/d78/a19393.html#ad81fa9c3449ba347de09b1519be6d408", null ],
-    [ "SummonHelper", "df/d78/a19393.html#a3a21a45072144b6f0421733466770267", null ],
-    [ "UpdateAI", "df/d78/a19393.html#a3004d23e6eaa3f2ef5942e96e0c17308", null ],
-    [ "events", "df/d78/a19393.html#a1ac1341c022c65f46b30a9c70b3f37ba", null ],
-    [ "summons", "df/d78/a19393.html#a4b8a2fcda2e9f4e3944c3527dd6afb1e", null ]
+    [ "npc_isle_of_conquest_turretAI", "df/d78/a19393.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
+    [ "JustDied", "df/d78/a19393.html#a88390da94298bea9c445bb422a806d23", null ],
+    [ "SpellHit", "df/d78/a19393.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
+    [ "UpdateAI", "df/d78/a19393.html#a81c039a2a230b261967842161757b6f8", null ],
+    [ "events", "df/d78/a19393.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
+    [ "faction", "df/d78/a19393.html#aca941c070a97278c8ec27d7e6b4edede", null ]
 ];

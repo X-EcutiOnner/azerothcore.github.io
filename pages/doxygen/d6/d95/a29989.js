@@ -1,7 +1,9 @@
 var a29989 =
 [
-    [ "MPQArchive", "dc/dd1/a28980.html", "dc/dd1/a28980" ],
-    [ "MPQFile", "dc/d0c/a28984.html", "dc/d0c/a28984" ],
-    [ "ArchiveSet", "d6/d95/a29989.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "d6/d95/a29989.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "WDT_file", "d6/d95/a29989.html#afa32849d31abde3cb2c9f3b558816368", null ],
+    [ "~WDT_file", "d6/d95/a29989.html#a29bf710b8346204eb848017450afebe1", null ],
+    [ "free", "d6/d95/a29989.html#aee6c7e1e402cf986e754753c5e8aee72", null ],
+    [ "prepareLoadedData", "d6/d95/a29989.html#add675f96f010e67ca1df01b029c9ebfb", null ],
+    [ "main", "d6/d95/a29989.html#a89ddf5d1527ac16a5d05790769d266b3", null ],
+    [ "mphd", "d6/d95/a29989.html#a1d216a266e5e6390e9bd2e02c9d3c7f2", null ]
 ];

@@ -1,6 +1,6 @@
 var a26201 =
 [
-    [ "CheckRequirement", "df/dda/a26201.html#acaae3858de4d56028e3cb4581a57450c", null ],
-    [ "PrepareSpellScript", "df/dda/a26201.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
-    [ "Register", "df/dda/a26201.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
+    [ "OnPeriodic", "df/dda/a26201.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
+    [ "PrepareAuraScript", "df/dda/a26201.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
+    [ "Register", "df/dda/a26201.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
 ];

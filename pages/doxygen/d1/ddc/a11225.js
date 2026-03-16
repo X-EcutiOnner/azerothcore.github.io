@@ -1,7 +1,6 @@
 var a11225 =
 [
-    [ "TimeQueryResponse", "d1/ddc/a11225.html#abefcc15670a85ae023d24bfa5dc26a11", null ],
-    [ "Write", "d1/ddc/a11225.html#a5fbfca11889684a0ab6b437eb30527cc", null ],
-    [ "ServerTime", "d1/ddc/a11225.html#a9dfc03a60bb8a1f20eb850e3f8a00b88", null ],
-    [ "TimeResponse", "d1/ddc/a11225.html#a4f528e5c08dc67a2c6f7826b21a771ed", null ]
+    [ "UITime", "d1/ddc/a11225.html#a24311ce7df9e9a0f40a3c5473cef34b3", null ],
+    [ "Write", "d1/ddc/a11225.html#ab24cdd76abd5914c3a30ee42c7681855", null ],
+    [ "Time", "d1/ddc/a11225.html#ac4ad6c7c425167e90fd2497f7ebaec4c", null ]
 ];

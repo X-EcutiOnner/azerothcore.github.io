@@ -1,15 +1,8 @@
 var a22305 =
 [
-    [ "OutdoorPvPEP", "de/d54/a22305.html#ab4915dfc03de08cad83eb48c4c789cb8", null ],
-    [ "BuffTeams", "de/d54/a22305.html#ac6a61c19ba96ca843eb12952d0c09078", null ],
-    [ "FillInitialWorldStates", "de/d54/a22305.html#ac1b185125fa1f8864d1062b65be24bdc", null ],
-    [ "HandlePlayerEnterZone", "de/d54/a22305.html#a9e7404160b1220dc3cc2766a07f42ad2", null ],
-    [ "HandlePlayerLeaveZone", "de/d54/a22305.html#a251b154abfaec9cbfb1a56e657ac5214", null ],
-    [ "SendRemoveWorldStates", "de/d54/a22305.html#afad47628bb4cfcc6060ce35396e33d9d", null ],
-    [ "SetControlledState", "de/d54/a22305.html#abef30d5cbe7c2cd52cd32ae29da1c9ce", null ],
-    [ "SetupOutdoorPvP", "de/d54/a22305.html#acecc8126180c027cb3d685231e55d873", null ],
-    [ "Update", "de/d54/a22305.html#a974910b2f7f2d8cfaf43b6694bf4c2c7", null ],
-    [ "EP_ControlsId", "de/d54/a22305.html#a7e8fcf50f88bdb56b189877721a1f006", null ],
-    [ "m_AllianceTowersControlled", "de/d54/a22305.html#a09e5cf029656af3fc740b236596d42ee", null ],
-    [ "m_HordeTowersControlled", "de/d54/a22305.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1", null ]
+    [ "spell_loosen_grip", "de/d54/a22305.html#ae35f230e0c66e88f59558748c80470dd", null ],
+    [ "HandleScript", "de/d54/a22305.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
+    [ "PrepareSpellScript", "de/d54/a22305.html#a219dc7d735f82d8e3b85390f0a881743", null ],
+    [ "Register", "de/d54/a22305.html#a8b446d8b5ab00b984272c74b06663326", null ],
+    [ "_stacksToLose", "de/d54/a22305.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
 ];

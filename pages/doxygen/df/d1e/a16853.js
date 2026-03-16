@@ -1,6 +1,6 @@
 var a16853 =
 [
-    [ "boss_jaraxxusAI", "d0/d14/a16857.html", "d0/d14/a16857" ],
-    [ "boss_jaraxxus", "df/d1e/a16853.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
-    [ "GetAI", "df/d1e/a16853.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
+    [ "npc_anubarak_spikeAI", "d0/d14/a16857.html", "d0/d14/a16857" ],
+    [ "npc_anubarak_spike", "df/d1e/a16853.html#a4e96de1910c23311ad4644960ccd5022", null ],
+    [ "GetAI", "df/d1e/a16853.html#a7d55b321eb7e595fe5886dc382134947", null ]
 ];

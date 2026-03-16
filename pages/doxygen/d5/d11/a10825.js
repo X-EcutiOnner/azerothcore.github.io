@@ -1,9 +1,6 @@
 var a10825 =
 [
-    [ "GuildBankUpdateTab", "d5/d11/a10825.html#a2950da8bfc40df57a3f5a66eee47a7ef", null ],
-    [ "Read", "d5/d11/a10825.html#ac261ff0102489efb4d69bd866ffc9283", null ],
-    [ "Banker", "d5/d11/a10825.html#a7ab950cee095221f9114224a624d46db", null ],
-    [ "BankTab", "d5/d11/a10825.html#a66284a4d9cb40b025ef265d443e6e62f", null ],
-    [ "Icon", "d5/d11/a10825.html#a75a219a9e2ab677a41920f39a1613a1b", null ],
-    [ "Name", "d5/d11/a10825.html#a44261fbc379b3137548922faf4b5cbda", null ]
+    [ "QueryGuildInfo", "d5/d11/a10825.html#a34b129b3c9fef61aa4211a9bc2783aef", null ],
+    [ "Read", "d5/d11/a10825.html#a0396a58ca114706f7de91f51c5ab949d", null ],
+    [ "GuildId", "d5/d11/a10825.html#ad221eecdb16233251306fff3d9801f38", null ]
 ];

@@ -1,6 +1,7 @@
 var a26025 =
 [
-    [ "CheckCast", "d4/dc0/a26025.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
-    [ "PrepareSpellScript", "d4/dc0/a26025.html#a33e86d770e926247c58c00143b55c418", null ],
-    [ "Register", "d4/dc0/a26025.html#a453c7fa25baf458c9a319053ca726621", null ]
+    [ "HandleDummy", "d4/dc0/a26025.html#a02bb860f6d077d4c295ad8b82179174d", null ],
+    [ "PrepareSpellScript", "d4/dc0/a26025.html#ad9eeff5aa428dabff7f2181d2819681d", null ],
+    [ "Register", "d4/dc0/a26025.html#a2c699d4d848a01a80143d6fcc01b64a8", null ],
+    [ "Validate", "d4/dc0/a26025.html#a9fd765b2c48f11837dbeb4caeedc0ae1", null ]
 ];

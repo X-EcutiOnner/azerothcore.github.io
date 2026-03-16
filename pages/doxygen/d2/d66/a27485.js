@@ -1,6 +1,8 @@
 var a27485 =
 [
-    [ "npc_pet_trainerAI", "d7/dca/a27489.html", "d7/dca/a27489" ],
-    [ "npc_pet_trainer", "d2/d66/a27485.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "d2/d66/a27485.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "CheckProc", "d2/d66/a27485.html#a33412f2b5abb1ce2160408ef13e7f0cb", null ],
+    [ "HandleProc", "d2/d66/a27485.html#ab24c3d3f697a7ebd146d6135305c7741", null ],
+    [ "PrepareAuraScript", "d2/d66/a27485.html#a8eccfbb749b85bbb850874324f17bbde", null ],
+    [ "Register", "d2/d66/a27485.html#a482dd09de6cba9f5a36a6cdad1b82a0a", null ],
+    [ "Validate", "d2/d66/a27485.html#a0c3020d44608920a2820e73e0b9e4b42", null ]
 ];

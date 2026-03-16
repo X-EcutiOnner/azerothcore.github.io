@@ -1,9 +1,8 @@
 var a27533 =
 [
-    [ "npc_arcanite_dragonling", "d0/ddf/a27533.html#a9b7e4cefa312a16c90018d655ad94758", null ],
-    [ "CanAIAttack", "d0/ddf/a27533.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
-    [ "IsSummonedBy", "d0/ddf/a27533.html#a921b35a91c4f21258efdb41fd87413db", null ],
-    [ "JustEngagedWith", "d0/ddf/a27533.html#a65f6d779681861117f750b70154b3e0d", null ],
-    [ "Reset", "d0/ddf/a27533.html#a4468d91430add821bf7a7ab11d8063da", null ],
-    [ "UpdateAI", "d0/ddf/a27533.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
+    [ "CheckProc", "d0/ddf/a27533.html#ae89ba0083a1dfe6887daef9af86107a3", null ],
+    [ "HandleProc", "d0/ddf/a27533.html#a92b6def8938d4909d241e5dc45cda240", null ],
+    [ "PrepareAuraScript", "d0/ddf/a27533.html#af1ac6b3e8f6a482d03029f5b38376180", null ],
+    [ "Register", "d0/ddf/a27533.html#a739a759d67ab038b1d883ae716337473", null ],
+    [ "Validate", "d0/ddf/a27533.html#a546aa2e3f3e76847de07e310f60be20b", null ]
 ];

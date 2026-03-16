@@ -1,17 +1,13 @@
 var a10049 =
 [
-    [ "MoveSplineInitArgs", "d8/d45/a10049.html#aa2b6c8940e7dc8bdd4ea6047a5ff1a68", null ],
-    [ "_checkPathBounds", "d8/d45/a10049.html#a984db18cdbd061605a9d486b061dc7c0", null ],
-    [ "Validate", "d8/d45/a10049.html#a17beca23a7a7eaa298debb5e9638daca", null ],
-    [ "facing", "d8/d45/a10049.html#a8800fca5b50ab5123e92b28e921ec8b0", null ],
-    [ "flags", "d8/d45/a10049.html#ac4271ed0434fc8e7f7a70e8869d81a0e", null ],
-    [ "HasVelocity", "d8/d45/a10049.html#acad05815ff039fe1fea3d7cf56afb4f2", null ],
-    [ "initialOrientation", "d8/d45/a10049.html#ab0b66cba791fc206be5b64310480cb88", null ],
-    [ "parabolic_amplitude", "d8/d45/a10049.html#a133d1d0172fde0564a58a004cb354ed0", null ],
-    [ "path", "d8/d45/a10049.html#a3857df1ab2d6dafef4a6d796e6593341", null ],
-    [ "path_Idx_offset", "d8/d45/a10049.html#a6b6aaf43685649798db46d7b409d3e32", null ],
-    [ "splineId", "d8/d45/a10049.html#ac8c84e828c23801a68524c9811f0336b", null ],
-    [ "time_perc", "d8/d45/a10049.html#afe51d24d71b71e87015eeb4851418503", null ],
-    [ "TransformForTransport", "d8/d45/a10049.html#ad9e8518e61b2f5f6ff8380518a6ad0cc", null ],
-    [ "velocity", "d8/d45/a10049.html#af042454593bfd4dc888c1700af437933", null ]
+    [ "ParallelogramBoundary", "d8/d45/a10049.html#ace1e1ffbcb84343ca2641541fe000691", null ],
+    [ "IsWithinBoundaryArea", "d8/d45/a10049.html#af29e70a9febaa9d80d0ce7223e2c6fc3", null ],
+    [ "_a", "d8/d45/a10049.html#ad81a1a1f4e82de0e7a31bf13a87bac2b", null ],
+    [ "_abx", "d8/d45/a10049.html#a855c7ea39698f7dac80d72ea6962e9c7", null ],
+    [ "_aby", "d8/d45/a10049.html#ad81b9baeb70d5856ea8cdd3f787abf29", null ],
+    [ "_b", "d8/d45/a10049.html#a9d5d06cc3673f89644e45e62f96510db", null ],
+    [ "_c", "d8/d45/a10049.html#a6c19d4ed0a1c1b6ff042c4bbd64f0a8a", null ],
+    [ "_d", "d8/d45/a10049.html#a5214ac0f79f1d90492a77fbd251d1361", null ],
+    [ "_dax", "d8/d45/a10049.html#aab72030dfa3dd4e4bef03180bd0a306c", null ],
+    [ "_day", "d8/d45/a10049.html#a3b3e3993d09af62bae7fbfe65f6d641a", null ]
 ];

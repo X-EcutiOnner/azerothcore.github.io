@@ -1,11 +1,22 @@
 var a18217 =
 [
-    [ "Load", "d6/db5/a18217.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
-    [ "PrepareSpellScript", "d6/db5/a18217.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
-    [ "Register", "d6/db5/a18217.html#a9adbad7cc2185b22fb16135e78114548", null ],
-    [ "SelectTarget", "d6/db5/a18217.html#a296ec09cec9661123ea5c86f3f262f32", null ],
-    [ "SetTarget", "d6/db5/a18217.html#a15373dc2a0767e011faf504f6377e24d", null ],
-    [ "StartAttack", "d6/db5/a18217.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
-    [ "Validate", "d6/db5/a18217.html#a7619f7ec6dc0ce14293414729731ed00", null ],
-    [ "_target", "d6/db5/a18217.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
+    [ "boss_lady_deathwhisperAI", "d6/db5/a18217.html#a277180410090d1857bcc8962e22d965d", null ],
+    [ "AttackStart", "d6/db5/a18217.html#a95268fc3088ecb1e0689bc502389eed1", null ],
+    [ "DamageTaken", "d6/db5/a18217.html#a929dea6ce420f201341a20ab5d9273ed", null ],
+    [ "DoAction", "d6/db5/a18217.html#a563f30e5e2a46c514cb114ef72dfa9e8", null ],
+    [ "EmpowerCultist", "d6/db5/a18217.html#afc8a2df592e16bbac65a7aee4e6c7c95", null ],
+    [ "JustDied", "d6/db5/a18217.html#a974094ecbdc1149ca3d1eec9211438df", null ],
+    [ "JustEngagedWith", "d6/db5/a18217.html#ac56045f2aa26423bd69e97d8f279cf5e", null ],
+    [ "JustSummoned", "d6/db5/a18217.html#a6ab4dc86911debb47e9d1784cb65dbb8", null ],
+    [ "KilledUnit", "d6/db5/a18217.html#a325834b73d181e0506e1ea40380cddac", null ],
+    [ "Reset", "d6/db5/a18217.html#a7eec8900602522cf39dd3a8dba733649", null ],
+    [ "SpellHitTarget", "d6/db5/a18217.html#a868b18df67744868a8f694e7df7f1e66", null ],
+    [ "Summon", "d6/db5/a18217.html#a933a9e13ca59d1d1049038f9f182470b", null ],
+    [ "SummonedCreatureDespawn", "d6/db5/a18217.html#aa630ff1884cf1ebaa189c094d2278a1f", null ],
+    [ "SummonWaveP1", "d6/db5/a18217.html#ad0cf8e10b041409868b8b75558f07e1b", null ],
+    [ "SummonWaveP2", "d6/db5/a18217.html#a72971bdfe394da6fe94ce340143ab060", null ],
+    [ "UpdateAI", "d6/db5/a18217.html#af602295a448fca10719861983a567d99", null ],
+    [ "_darnavanGUID", "d6/db5/a18217.html#af4f251406b3a4ae3db32e83005993dfa", null ],
+    [ "_introDone", "d6/db5/a18217.html#a162870aad6c99276f760b2e37b42c6c9", null ],
+    [ "_waveCounter", "d6/db5/a18217.html#ab2819e4ade2c7a07d1d0a67d86063f16", null ]
 ];

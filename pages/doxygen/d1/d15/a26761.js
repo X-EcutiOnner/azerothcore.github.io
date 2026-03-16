@@ -1,7 +1,7 @@
 var a26761 =
 [
-    [ "HandleApplyAura", "d1/d15/a26761.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
-    [ "PrepareSpellScript", "d1/d15/a26761.html#adf09900347264bc341884092ea0fee40", null ],
-    [ "Register", "d1/d15/a26761.html#ac56484d4048817a164963e519a97d137", null ],
-    [ "Validate", "d1/d15/a26761.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
+    [ "CheckProc", "d1/d15/a26761.html#ad9511694733ed76ed2e55ffc1005345e", null ],
+    [ "HandleProc", "d1/d15/a26761.html#a8021759730e413476d768495e856c544", null ],
+    [ "PrepareAuraScript", "d1/d15/a26761.html#a2d226a3b38dbe3da64f3ae9a3c47f9ea", null ],
+    [ "Register", "d1/d15/a26761.html#a2d8e2b52076b519e083c71b99b482c32", null ]
 ];

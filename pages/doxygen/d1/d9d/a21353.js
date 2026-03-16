@@ -1,6 +1,6 @@
 var a21353 =
 [
-    [ "npc_iruk", "d1/d9d/a21353.html#a721aeefd23371cc6bc16738a797bf50a", null ],
-    [ "OnGossipHello", "d1/d9d/a21353.html#a774669099330c75ab5e0bea8d460f517", null ],
-    [ "OnGossipSelect", "d1/d9d/a21353.html#ae6f7d54d224488a9e29c59c560eba471", null ]
+    [ "boss_lavanthorAI", "db/d67/a21357.html", "db/d67/a21357" ],
+    [ "boss_lavanthor", "d1/d9d/a21353.html#aa935ffe07f59db59b9b8484f22927026", null ],
+    [ "GetAI", "d1/d9d/a21353.html#aae09ecbe56efac6538bdfb6120e0be40", null ]
 ];

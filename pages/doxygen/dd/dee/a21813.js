@@ -1,6 +1,6 @@
 var a21813 =
 [
-    [ "npc_razael_and_lyana", "dd/dee/a21813.html#aec7257a1136a3580e2b4542e032429d6", null ],
-    [ "OnGossipHello", "dd/dee/a21813.html#a9c9085db92853d5275c12e804a68b0fc", null ],
-    [ "OnGossipSelect", "dd/dee/a21813.html#a407d8344280e8e38efb3991fda1d52cd", null ]
+    [ "npc_q24545_vegard_dummyAI", "d3/d01/a21817.html", "d3/d01/a21817" ],
+    [ "npc_q24545_vegard_dummy", "dd/dee/a21813.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
+    [ "GetAI", "dd/dee/a21813.html#a201d1dec206887c26e33f795a0fd0887", null ]
 ];

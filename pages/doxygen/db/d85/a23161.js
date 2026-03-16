@@ -1,15 +1,12 @@
 var a23161 =
 [
-    [ "instance_the_slave_pens_InstanceMapScript", "db/d85/a23161.html#a70db3eeeb55784250a13032728220005", null ],
-    [ "GetGuidData", "db/d85/a23161.html#a77e77209e779b774608f739b258ae419", null ],
-    [ "OnCreatureCreate", "db/d85/a23161.html#aca6b8148602b8fb95c9a467dc9400b8b", null ],
-    [ "SetGuidData", "db/d85/a23161.html#a21a29973bcf5ef6925239213ce50bab0", null ],
-    [ "AhuneBunnyGUID", "db/d85/a23161.html#ad57cefe116f2da6e7c85f36091fe0e94", null ],
-    [ "AhuneGUID", "db/d85/a23161.html#a8ad4dab281db87bb2d14b925b450f09c", null ],
-    [ "BeamBunnyGUIDs", "db/d85/a23161.html#a09e3d1ca5d040268578fa770b7153a81", null ],
-    [ "BonfireBunnyGUIDs", "db/d85/a23161.html#a9de605ffd8092f83af8df5c1725c5d2b", null ],
-    [ "counter", "db/d85/a23161.html#a4ea85debc35e91668723222e8ea90071", null ],
-    [ "FlameCallerGUIDs", "db/d85/a23161.html#a50af0f1eaaa4e40d729e797212cf3ba0", null ],
-    [ "FrozenCoreGUID", "db/d85/a23161.html#a6ac47d1f3eb4d199afdda9ad2a2cc73e", null ],
-    [ "LumaGUID", "db/d85/a23161.html#a0e9e294b4140dc8b8a5567a54d7b0c42", null ]
+    [ "boss_leotheras_the_blind", "db/d85/a23161.html#a9229850f996812366a20508931965a87", null ],
+    [ "AttackStart", "db/d85/a23161.html#a678ed3eba7d53976fd6efa9051d11124", null ],
+    [ "DemonTime", "db/d85/a23161.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
+    [ "DoAction", "db/d85/a23161.html#a4f3fd791f12b3f176ce109237c516889", null ],
+    [ "ElfTime", "db/d85/a23161.html#a52f101530de8883231faa7f5fe689691", null ],
+    [ "MoveToTargetIfOutOfRange", "db/d85/a23161.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
+    [ "Reset", "db/d85/a23161.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
+    [ "UpdateAI", "db/d85/a23161.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
+    [ "_recentlySpoken", "db/d85/a23161.html#ad5231f13a247247dd7095b16c381fc7c", null ]
 ];

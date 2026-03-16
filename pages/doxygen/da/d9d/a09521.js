@@ -1,8 +1,9 @@
 var a09521 =
 [
-    [ "NearestHostileUnitInAttackDistanceCheck", "da/d9d/a09521.html#a0b1d14f1347a3749a91ef6e888ccb23e", null ],
-    [ "NearestHostileUnitInAttackDistanceCheck", "da/d9d/a09521.html#a5645c9808db082b0301ec8b2ea93ce7f", null ],
-    [ "operator()", "da/d9d/a09521.html#adc28281742cd1f6a49152481b48f944e", null ],
-    [ "m_range", "da/d9d/a09521.html#ab79296a88ed07257edbe3449c2515b40", null ],
-    [ "me", "da/d9d/a09521.html#a298d2489b9bf30aa510407afca79a374", null ]
+    [ "CreatureLastSearcher", "da/d9d/a09521.html#a422c7a5a2cd4e93f7b0ad31cc4c6555d", null ],
+    [ "Visit", "da/d9d/a09521.html#ae6774df4ffff18cd4f3b4c07724db4f4", null ],
+    [ "Visit", "da/d9d/a09521.html#a08635cefbba5dca34734569816d2edb8", null ],
+    [ "i_check", "da/d9d/a09521.html#a2b9afe2c43af6e68f7fa5ba661790ef9", null ],
+    [ "i_object", "da/d9d/a09521.html#ab8a14acb8d0fc9835d1325430fa1a367", null ],
+    [ "i_phaseMask", "da/d9d/a09521.html#a9dd25e3437e1c1e5e4c8d68ab3548500", null ]
 ];

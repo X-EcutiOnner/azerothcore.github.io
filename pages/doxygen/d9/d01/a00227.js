@@ -1,9 +1,9 @@
 var a00227 =
 [
-    [ "VMAP::AreaAndLiquidData", "d8/d35/a05178.html", "d8/d35/a05178" ],
-    [ "VMAP::AreaAndLiquidData::AreaInfo", "da/d1b/a05182.html", "da/d1b/a05182" ],
-    [ "VMAP::AreaAndLiquidData::LiquidInfo", "db/d21/a05186.html", "db/d21/a05186" ],
-    [ "VMAP::IVMapMgr", "d2/d72/a05190.html", "d2/d72/a05190" ],
+    [ "VMAP::AreaAndLiquidData", "d1/da1/a05169.html", "d1/da1/a05169" ],
+    [ "VMAP::AreaAndLiquidData::AreaInfo", "d6/d5f/a05173.html", "d6/d5f/a05173" ],
+    [ "VMAP::AreaAndLiquidData::LiquidInfo", "d3/dda/a05177.html", "d3/dda/a05177" ],
+    [ "VMAP::IVMapMgr", "d1/d2b/a05181.html", "d1/d2b/a05181" ],
     [ "VMAP_INVALID_HEIGHT", "d9/d01/a00227.html#aa3e862468079e7d1ca850fab429fb316", null ],
     [ "VMAP_INVALID_HEIGHT_VALUE", "d9/d01/a00227.html#a6d0d846568e1fbb60e05aacfa9c1c73c", null ],
     [ "LoadResult", "d9/d01/a00227.html#a3ca4e45c9be5012fb1af06ea12b759c2", [

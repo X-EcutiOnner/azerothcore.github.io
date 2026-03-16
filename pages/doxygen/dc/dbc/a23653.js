@@ -1,6 +1,8 @@
 var a23653 =
 [
-    [ "HandlePeriodic", "dc/dbc/a23653.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
-    [ "PrepareAuraScript", "dc/dbc/a23653.html#a75d72d196ded2ee109d0231d4342890a", null ],
-    [ "Register", "dc/dbc/a23653.html#a148013ea68bbc573bddc1c3639dba019", null ]
+    [ "FilterTargets", "dc/dbc/a23653.html#ae366594b668331a19f384ceb48654c0c", null ],
+    [ "HandleOnHit", "dc/dbc/a23653.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
+    [ "PrepareSpellScript", "dc/dbc/a23653.html#a71aa4018d293391a73d3317c1e80951d", null ],
+    [ "Register", "dc/dbc/a23653.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
+    [ "Validate", "dc/dbc/a23653.html#a3747ad271dc659436ae7a8203b964554", null ]
 ];

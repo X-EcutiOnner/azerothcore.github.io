@@ -1,6 +1,7 @@
 var a17209 =
 [
-    [ "npc_shadowy_mercenaryAI", "d1/dd7/a17213.html", "d1/dd7/a17213" ],
-    [ "npc_shadowy_mercenary", "d0/da9/a17209.html#a3ace4bb80f6771c586caa7f2dedf2b93", null ],
-    [ "GetAI", "d0/da9/a17209.html#ada4b63bf708b3d19ce6d3a2b36c96672", null ]
+    [ "HandleScriptEffect", "d0/da9/a17209.html#a62cef31900cd61167823f3e66aa2d64b", null ],
+    [ "PrepareSpellScript", "d0/da9/a17209.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
+    [ "Register", "d0/da9/a17209.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
+    [ "Validate", "d0/da9/a17209.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
 ];

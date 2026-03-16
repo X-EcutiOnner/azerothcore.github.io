@@ -1,8 +1,7 @@
 var a09449 =
 [
-    [ "MostHPMissingInRange", "d4/d03/a09449.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
-    [ "operator()", "d4/d03/a09449.html#a420388204d8a1420552b902fbcb2bebe", null ],
-    [ "i_hp", "d4/d03/a09449.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
-    [ "i_obj", "d4/d03/a09449.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
-    [ "i_range", "d4/d03/a09449.html#acef63da9004997c7f25056651284efa9", null ]
+    [ "PlayerRelocationNotifier", "d4/d03/a09449.html#afa316348fb6151cc992b0da7aab39ec3", null ],
+    [ "Visit", "d4/d03/a09449.html#ab9b3ad469216db3a7a49176b41b0b1ea", null ],
+    [ "Visit", "d4/d03/a09449.html#acffc7490cb9b0cf171a1cfc6e1dbdc79", null ],
+    [ "Visit", "d4/d03/a09449.html#aa92ab4dcd81b669f41f6ab1029b791df", null ]
 ];

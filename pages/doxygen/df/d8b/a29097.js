@@ -1,6 +1,8 @@
 var a29097 =
 [
-    [ "guard_shattrath_scryerAI", "d4/d09/a29101.html", "d4/d09/a29101" ],
-    [ "guard_shattrath_scryer", "df/d8b/a29097.html#a2ee4d6881d7c24cd848c590b84207663", null ],
-    [ "GetAI", "df/d8b/a29097.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
+    [ "difficulty", "df/d8b/a29097.html#a2a04df701c13dc49053b09a9587a72a8", null ],
+    [ "encounterIndex", "df/d8b/a29097.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
+    [ "encounterName", "df/d8b/a29097.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
+    [ "id", "df/d8b/a29097.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
+    [ "mapId", "df/d8b/a29097.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
 ];

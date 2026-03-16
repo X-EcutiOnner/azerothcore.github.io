@@ -1,6 +1,7 @@
 var a26381 =
 [
-    [ "ModDest", "db/d6e/a26381.html#ab03387aec0a02a6b3bac1014443554b6", null ],
-    [ "PrepareSpellScript", "db/d6e/a26381.html#a53f7da301759fb18686bc73281c4a321", null ],
-    [ "Register", "db/d6e/a26381.html#a266198fbc6203517f9845ef6212ddf13", null ]
+    [ "HandleProc", "db/d6e/a26381.html#abb1bbc7a8b6e57a6192085030e62ca6f", null ],
+    [ "PrepareAuraScript", "db/d6e/a26381.html#ae84b15a718f04a1f2bebde2f7f837f55", null ],
+    [ "Register", "db/d6e/a26381.html#a12259e9c26439694b04a1c30bd5c3ad1", null ],
+    [ "Validate", "db/d6e/a26381.html#ae08e0e83b7494a5c24fd14980d0644eb", null ]
 ];

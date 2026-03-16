@@ -1,9 +1,8 @@
 var a23577 =
 [
-    [ "HandleEffectApply", "dc/d9b/a23577.html#ac9e030810cc1ffb3927943353bcbb764", null ],
-    [ "HandleEffectRemove", "dc/d9b/a23577.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
-    [ "Load", "dc/d9b/a23577.html#a60f41c19f5104eef82048fd1e3416abd", null ],
-    [ "PrepareAuraScript", "dc/d9b/a23577.html#a277d9865108acafac4b1a42bc5b5714b", null ],
-    [ "Register", "dc/d9b/a23577.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
-    [ "_falconSet", "dc/d9b/a23577.html#a1a20f75d251936bff7a0777831d79140", null ]
+    [ "HandleDummyApply", "dc/d9b/a23577.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
+    [ "HandleDummyRemove", "dc/d9b/a23577.html#a368376fe4262815b9b9a9811178cec6d", null ],
+    [ "HandlePeriodicRemove", "dc/d9b/a23577.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
+    [ "PrepareAuraScript", "dc/d9b/a23577.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
+    [ "Register", "dc/d9b/a23577.html#afeb47a40cfea3d958fee7a410e83857f", null ]
 ];

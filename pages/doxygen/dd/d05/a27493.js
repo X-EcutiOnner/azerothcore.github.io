@@ -1,6 +1,7 @@
 var a27493 =
 [
-    [ "npc_locksmith", "dd/d05/a27493.html#af959a6395ebc33109405f18f262e4ecb", null ],
-    [ "OnGossipHello", "dd/d05/a27493.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
-    [ "OnGossipSelect", "dd/d05/a27493.html#a62ec02e226255ff1f81895391a6494b8", null ]
+    [ "HandleEffectProc", "dd/d05/a27493.html#a7f2ddbf54a4932277ad91eb0036915ab", null ],
+    [ "PrepareAuraScript", "dd/d05/a27493.html#a47d844a9700cd8add793e3f3088d1b82", null ],
+    [ "Register", "dd/d05/a27493.html#ad40dfc164ab98fc9734e1ed15ea14c17", null ],
+    [ "Validate", "dd/d05/a27493.html#a97f5239399e7135b02000722eaf837ad", null ]
 ];

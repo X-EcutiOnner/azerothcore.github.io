@@ -1,7 +1,6 @@
 var a12813 =
 [
-    [ "HandlePeriodic", "d3/d0d/a12813.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
-    [ "PrepareAuraScript", "d3/d0d/a12813.html#a5dca8e116c05d11961cbd7995314441e", null ],
-    [ "Register", "d3/d0d/a12813.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
-    [ "Validate", "d3/d0d/a12813.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
+    [ "boss_razorgoreAI", "dd/d47/a12817.html", "dd/d47/a12817" ],
+    [ "boss_razorgore", "d3/d0d/a12813.html#aee534a04797c5938e6da00f2ab119943", null ],
+    [ "GetAI", "d3/d0d/a12813.html#a4683a5deefdb9d3219638189e9a99c2a", null ]
 ];

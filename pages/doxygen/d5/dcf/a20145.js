@@ -1,6 +1,5 @@
 var a20145 =
 [
-    [ "CheckAreaTarget", "d5/dcf/a20145.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
-    [ "PrepareAuraScript", "d5/dcf/a20145.html#a921b2f67c417244310398bd93061d61c", null ],
-    [ "Register", "d5/dcf/a20145.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
+    [ "achievement_algalon_he_feeds_on_your_tears", "d5/dcf/a20145.html#a91f4ddbce55a50e563df701eb0bcfff7", null ],
+    [ "OnCheck", "d5/dcf/a20145.html#affea33614581545c65513bfe533d7246", null ]
 ];

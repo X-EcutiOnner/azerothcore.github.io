@@ -1,8 +1,7 @@
 var a08829 =
 [
-    [ "CleanDamage", "d0/d6b/a08829.html#ad25ab816a679e323c07873efbc1c2f20", null ],
-    [ "absorbed_damage", "d0/d6b/a08829.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
-    [ "attackType", "d0/d6b/a08829.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
-    [ "hitOutCome", "d0/d6b/a08829.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
-    [ "mitigated_damage", "d0/d6b/a08829.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
+    [ "SetRuneState", "d0/d6b/a08829.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
+    [ "lastUsedRune", "d0/d6b/a08829.html#a88c702716eb3032c20ae5ed74922d923", null ],
+    [ "runes", "d0/d6b/a08829.html#aac485530bfa81d54d9da3213fe917c29", null ],
+    [ "runeState", "d0/d6b/a08829.html#ae58297e0766578b234604a97641501a1", null ]
 ];

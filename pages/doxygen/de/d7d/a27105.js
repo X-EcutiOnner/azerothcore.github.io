@@ -1,7 +1,8 @@
 var a27105 =
 [
-    [ "go_bear_trapAI", "de/d7d/a27105.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "de/d7d/a27105.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "de/d7d/a27105.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "de/d7d/a27105.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "HandleDummy", "de/d7d/a27105.html#a923fa966dc7109f7cb02c25bbd23b0ff", null ],
+    [ "Load", "de/d7d/a27105.html#a5b336f402a256c80d8d3f8c5b1cbda2f", null ],
+    [ "PrepareSpellScript", "de/d7d/a27105.html#a79dc24ba1f2f059d77a06b457a78fcf1", null ],
+    [ "Register", "de/d7d/a27105.html#afb1c744f263b21c30a5dfd3675acb364", null ],
+    [ "Validate", "de/d7d/a27105.html#acaaeacf371538cafbbb4cc7cc036280e", null ]
 ];

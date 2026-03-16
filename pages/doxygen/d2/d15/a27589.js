@@ -1,7 +1,8 @@
 var a27589 =
 [
-    [ "npc_flameshocker", "d2/d15/a27589.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
-    [ "JustDied", "d2/d15/a27589.html#aba94a5bcec75c649049d5816a53ace58", null ],
-    [ "Reset", "d2/d15/a27589.html#a13cb88e2b33df2d910fb73053684b420", null ],
-    [ "UpdateAI", "d2/d15/a27589.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
+    [ "CheckProc", "d2/d15/a27589.html#a11d7fe14f7b3cca93578926f157ef0d5", null ],
+    [ "HandleProc", "d2/d15/a27589.html#ac18d7286dd26ebbb868e01d17a412124", null ],
+    [ "PrepareAuraScript", "d2/d15/a27589.html#a8af3179c6688cfe0940bcd932f6766fa", null ],
+    [ "Register", "d2/d15/a27589.html#a239b3daf5f03f5e5930c7b6712a63d8a", null ],
+    [ "Validate", "d2/d15/a27589.html#a9919c0a8d284a36b3162ed435d2f7711", null ]
 ];

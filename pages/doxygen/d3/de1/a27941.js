@@ -1,7 +1,5 @@
 var a27941 =
 [
-    [ "cutPercent", "d3/de1/a27941.html#a8581a6a5198dab10680f477a477a7c80", null ],
-    [ "depositPercent", "d3/de1/a27941.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
-    [ "faction", "d3/de1/a27941.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
-    [ "houseId", "d3/de1/a27941.html#a1bf77c1b14731def0e3de44143df2eed", null ]
+    [ "achievement_resilient_victory", "d3/de1/a27941.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
+    [ "OnCheck", "d3/de1/a27941.html#a21445d406f67771a20608260b3f9b033", null ]
 ];

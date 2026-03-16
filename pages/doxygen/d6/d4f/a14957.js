@@ -1,7 +1,5 @@
 var a14957 =
 [
-    [ "HandleOnHit", "d6/d4f/a14957.html#a9f1d78b4a98bc76877903b79923c1634", null ],
-    [ "PrepareSpellScript", "d6/d4f/a14957.html#afb0a8a16850da30b0fbdb3d10a935f21", null ],
-    [ "Register", "d6/d4f/a14957.html#ab923488eb891e1f9b1f5cb8ed61f3865", null ],
-    [ "Validate", "d6/d4f/a14957.html#a57d85b1702e5c89d72972505121180ed", null ]
+    [ "PrepareSpellScript", "d6/d4f/a14957.html#a50ee42c11937759b6c52c2ab994481c4", null ],
+    [ "Register", "d6/d4f/a14957.html#a8dc12a723c2da948c38119e3fc34df35", null ]
 ];

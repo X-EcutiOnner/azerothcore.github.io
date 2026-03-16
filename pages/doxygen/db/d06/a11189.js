@@ -1,8 +1,7 @@
 var a11189 =
 [
-    [ "PetSpellAutocast", "db/d06/a11189.html#ab858647d14031a2a6109d1e923402d08", null ],
-    [ "Read", "db/d06/a11189.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
-    [ "AutocastEnabled", "db/d06/a11189.html#a3c04543dcd5382682654b3860b84c6a3", null ],
-    [ "PetGUID", "db/d06/a11189.html#aeed828abebf683078ee61204c91e28c9", null ],
-    [ "SpellID", "db/d06/a11189.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
+    [ "MinimapPingClient", "db/d06/a11189.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
+    [ "Read", "db/d06/a11189.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
+    [ "MapX", "db/d06/a11189.html#ad4ff3977c260035145d6acd00429d81e", null ],
+    [ "MapY", "db/d06/a11189.html#abd8640cb98238f339218c3b945885c97", null ]
 ];

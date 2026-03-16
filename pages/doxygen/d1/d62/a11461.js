@@ -1,7 +1,7 @@
 var a11461 =
 [
-    [ "chance", "d1/d62/a11461.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
-    [ "triggeredByAura", "d1/d62/a11461.html#abb48d6093570ba9c5488f200544a1e83", null ],
-    [ "triggeredByEffIdx", "d1/d62/a11461.html#a82d752dedab39f417af225add6af1403", null ],
-    [ "triggeredSpell", "d1/d62/a11461.html#a02ac12119655f9ab82347d21cc68803a", null ]
+    [ "MapSessionFilter", "d1/d62/a11461.html#ad11a700c36f8f45640402e96edc74b49", null ],
+    [ "~MapSessionFilter", "d1/d62/a11461.html#a82960e741c8f64d24a764a915f14e2b8", null ],
+    [ "Process", "d1/d62/a11461.html#a54483596fe2a5a0d30fab9a13506b375", null ],
+    [ "ProcessUnsafe", "d1/d62/a11461.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
 ];

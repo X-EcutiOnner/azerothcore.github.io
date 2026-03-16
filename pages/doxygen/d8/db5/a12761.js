@@ -1,6 +1,7 @@
 var a12761 =
 [
-    [ "boss_golemaggAI", "d3/db2/a12765.html", "d3/db2/a12765" ],
-    [ "boss_golemagg", "d8/db5/a12761.html#a66720a143f8987dfa5d6e2acb7cd73cd", null ],
-    [ "GetAI", "d8/db5/a12761.html#a6899f30975e0984306feabe47bbc8317", null ]
+    [ "ClassCallSelector", "d8/db5/a12761.html#a223895c97121b0727aac258c12c89e0b", null ],
+    [ "operator()", "d8/db5/a12761.html#ab0d2ab1d94d72c6a202ed0cb2900dd2e", null ],
+    [ "_me", "d8/db5/a12761.html#a5347a24609a21ae0a342682104b1dc14", null ],
+    [ "_targetClass", "d8/db5/a12761.html#a7ce861956ec8d216d2f8cba82c69ea50", null ]
 ];

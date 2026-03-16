@@ -1,8 +1,9 @@
 var a08821 =
 [
-    [ "DiminishingReturn", "d6/db6/a08821.html#acd4828637710636d0164fced285c854d", null ],
-    [ "DRGroup", "d6/db6/a08821.html#add3ab95d65e283a326e1922129941ae4", null ],
-    [ "hitCount", "d6/db6/a08821.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
-    [ "hitTime", "d6/db6/a08821.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
-    [ "stack", "d6/db6/a08821.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
+    [ "areaFlag", "d6/db6/a08821.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
+    [ "areaID", "d6/db6/a08821.html#a455a890a1d82d31873873ac497cb83b7", null ],
+    [ "x1", "d6/db6/a08821.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
+    [ "x2", "d6/db6/a08821.html#aebdb021c0b9c40d624d5115b24616a12", null ],
+    [ "y1", "d6/db6/a08821.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
+    [ "y2", "d6/db6/a08821.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
 ];

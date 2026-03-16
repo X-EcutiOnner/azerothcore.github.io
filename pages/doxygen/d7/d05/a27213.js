@@ -1,5 +1,8 @@
 var a27213 =
 [
-    [ "go_dragonflayer_cage", "d7/d05/a27213.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
-    [ "OnGossipHello", "d7/d05/a27213.html#a542530a0b84879b21a4b9982cf4300d0", null ]
+    [ "HandleScript", "d7/d05/a27213.html#a1e096b2b2f5a285e660f64fb133f4f8b", null ],
+    [ "Load", "d7/d05/a27213.html#ad4e3fecb64bbb0f5c63b90d445c0b9f3", null ],
+    [ "PrepareSpellScript", "d7/d05/a27213.html#a5c4b2a46dfd6bdc2d14ee02f673628c1", null ],
+    [ "Register", "d7/d05/a27213.html#aa823af94e3366ae799ebaf03e52411dd", null ],
+    [ "Validate", "d7/d05/a27213.html#ad6985954002f88436a2681e758f41fb2", null ]
 ];

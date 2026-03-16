@@ -1,7 +1,7 @@
 var a18833 =
 [
-    [ "npc_blazing_skeletonAI", "d6/dc5/a18833.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
-    [ "Reset", "d6/dc5/a18833.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
-    [ "UpdateAI", "d6/dc5/a18833.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
-    [ "_events", "d6/dc5/a18833.html#aab1b04989d5e3fc289f00bc121df193d", null ]
+    [ "CheckTargetCount", "d6/dc5/a18833.html#a44f558248f944464c773105728cffbca", null ],
+    [ "PrepareSpellScript", "d6/dc5/a18833.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
+    [ "Register", "d6/dc5/a18833.html#aeda833ca8483d337311086b9d0a14081", null ],
+    [ "Validate", "d6/dc5/a18833.html#aee84751e352dbfc12472fc15924c48fa", null ]
 ];

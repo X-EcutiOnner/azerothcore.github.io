@@ -1,7 +1,9 @@
 var a05201 =
 [
-    [ "operator()", "da/d0e/a05201.html#af1b2d9b7517b57a5a0a598f58b470c33", null ],
-    [ "closestEntity", "da/d0e/a05201.html#ab377424b7edd0274f61967619700f841", null ],
-    [ "hitLocation", "da/d0e/a05201.html#a00e778dd78dca96391d200e18dfc2c9d", null ],
-    [ "hitNormal", "da/d0e/a05201.html#a57f40f48c26829f7da9e48efd839d773", null ]
+    [ "ManagedModel", "da/d0e/a05201.html#ab641724be7e7791c2c95982acc13f3b0", null ],
+    [ "decRefCount", "da/d0e/a05201.html#a5a104acbc0661b19ba2a662dc669b73d", null ],
+    [ "getModel", "da/d0e/a05201.html#a053fc6647a16746fba19a0795610fea2", null ],
+    [ "setModel", "da/d0e/a05201.html#aa450ae6be22d507c36a746850629831d", null ],
+    [ "iModel", "da/d0e/a05201.html#a5e20d0157691bd6036247a83eea8d19b", null ],
+    [ "iRefCount", "da/d0e/a05201.html#afb30ad900a5979f98276324a1ab1c328", null ]
 ];

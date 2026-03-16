@@ -1,7 +1,6 @@
 var a17017 =
 [
-    [ "HandleScript", "d5/d12/a17017.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
-    [ "PrepareSpellScript", "d5/d12/a17017.html#a71b28156c628aacbc6cb481038c0e76c", null ],
-    [ "Register", "d5/d12/a17017.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
-    [ "Validate", "d5/d12/a17017.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
+    [ "npc_fel_infernalAI", "dd/d39/a17021.html", "dd/d39/a17021" ],
+    [ "npc_fel_infernal", "d5/d12/a17017.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
+    [ "GetAI", "d5/d12/a17017.html#a768201a7516c9972800c941cf2079a11", null ]
 ];

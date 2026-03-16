@@ -1,6 +1,6 @@
 var a00623 =
 [
-    [ "SpellProcDisableEffectsTest", "db/dd1/a29790.html", "db/dd1/a29790" ],
+    [ "SpellProcDisableEffectsTest", "d8/d69/a29777.html", "d8/d69/a29777" ],
     [ "TEST_F", "df/d6f/a00623.html#a83593ff4e5f0d4bbf17f3d89a11ad41b", null ],
     [ "TEST_F", "df/d6f/a00623.html#ada6aa7946b5b1650643d1101a7b0a6a1", null ],
     [ "TEST_F", "df/d6f/a00623.html#a209cf89313651785788473e379b84a84", null ],

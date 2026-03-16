@@ -1,8 +1,6 @@
 var a24521 =
 [
-    [ "AfterRemove", "d4/d6d/a24521.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
-    [ "HandleDispel", "d4/d6d/a24521.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
-    [ "PrepareAuraScript", "d4/d6d/a24521.html#a44e66753516d693c31dba27c9d1ad250", null ],
-    [ "Register", "d4/d6d/a24521.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
-    [ "Validate", "d4/d6d/a24521.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
+    [ "HandleEffectApply", "d4/d6d/a24521.html#a4bc121ecc9357709ec2f1ea395d0b6b1", null ],
+    [ "PrepareAuraScript", "d4/d6d/a24521.html#ac7f16aed55aedba6da0672c3102a5fae", null ],
+    [ "Register", "d4/d6d/a24521.html#a83e15d7db1b9aa4ce4fbc8a359795091", null ]
 ];

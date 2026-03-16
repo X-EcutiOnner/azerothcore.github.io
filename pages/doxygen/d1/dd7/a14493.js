@@ -1,6 +1,8 @@
 var a14493 =
 [
-    [ "instance_zulgurub_InstanceMapScript", "dc/d14/a14497.html", "dc/d14/a14497" ],
-    [ "instance_zulgurub", "d1/dd7/a14493.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
-    [ "GetInstanceScript", "d1/dd7/a14493.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
+    [ "FilterTargets", "d1/dd7/a14493.html#a28450a72f3d8510bdf35390f56a67f71", null ],
+    [ "HandleScriptEffect", "d1/dd7/a14493.html#af97c3c43da4b099bc37e2cf4f2733dce", null ],
+    [ "PrepareSpellScript", "d1/dd7/a14493.html#ac9298a59bc8b9735c210b630c68a536e", null ],
+    [ "Register", "d1/dd7/a14493.html#a3bfc71bb504a0eb0f63ff307c943c23e", null ],
+    [ "Validate", "d1/dd7/a14493.html#a41b2f12ebf919b781fdefab3a42bdb84", null ]
 ];

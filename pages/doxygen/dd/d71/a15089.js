@@ -1,6 +1,7 @@
 var a15089 =
 [
-    [ "boss_meathookAI", "dc/d89/a15093.html", "dc/d89/a15093" ],
-    [ "boss_meathook", "dd/d71/a15089.html#a044c8ec4a419e5c5a8b290df9c0ad169", null ],
-    [ "GetAI", "dd/d71/a15089.html#ae8ee3631ff1f80f4fad99e4eca042ad8", null ]
+    [ "boss_azuregosAI", "dc/d89/a15093.html", "dc/d89/a15093" ],
+    [ "boss_azuregos", "dd/d71/a15089.html#a48590db0037870ca5c9425a468e5ea3a", null ],
+    [ "GetAI", "dd/d71/a15089.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
+    [ "OnGossipSelect", "dd/d71/a15089.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
 ];

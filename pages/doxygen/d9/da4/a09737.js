@@ -1,6 +1,7 @@
 var a09737 =
 [
-    [ "NpcTextLocale", "d9/da4/a09737.html#af1ddddeff75a1a51c51ebb1fec3f4f05", null ],
-    [ "Text_0", "d9/da4/a09737.html#adf17307b9d00e0b63b9c2827fca96320", null ],
-    [ "Text_1", "d9/da4/a09737.html#a40f69a13a202c350fdce2177288727e9", null ]
+    [ "ObjectGUIDCheck", "d9/da4/a09737.html#a4932b3610ddc148ee5a30a6ce91c6f27", null ],
+    [ "operator()", "d9/da4/a09737.html#a0f3f6e89a9e621a208cd6795722ae4ef", null ],
+    [ "_equals", "d9/da4/a09737.html#a413d991eeee0294a54f3c803e296c3ac", null ],
+    [ "_GUID", "d9/da4/a09737.html#a0e97bfe0e160177549a831df8e9b4555", null ]
 ];

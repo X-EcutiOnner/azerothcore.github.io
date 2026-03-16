@@ -1,8 +1,12 @@
 var a11553 =
 [
-    [ "first", "db/d60/a11553.html#a49aea8bfed353c2c552f6195b8e9f60a", null ],
-    [ "last", "db/d60/a11553.html#a05a8077c7ec39bcca66fe84aa1da7040", null ],
-    [ "next", "db/d60/a11553.html#a0a7791b7069912a013299e7afaf4142f", null ],
-    [ "prev", "db/d60/a11553.html#ae27b7d0aa5a2ae5cb75a7f0d397c849f", null ],
-    [ "rank", "db/d60/a11553.html#a0b58cef8fc18f91fa59b8c7d7b9f9872", null ]
+    [ "UnitAura", "db/d60/a11553.html#ada4033955271dfb21d16a95b316087f5", null ],
+    [ "_ApplyForTarget", "db/d60/a11553.html#a920549cf55c8def37149b00ae971127d", null ],
+    [ "_UnapplyForTarget", "db/d60/a11553.html#af4d453cee6758e633bdcae0049581898", null ],
+    [ "FillTargetMap", "db/d60/a11553.html#add5ce04446338e078c5986420abfd16e", null ],
+    [ "GetDiminishGroup", "db/d60/a11553.html#a8ebf7b01e7f324938f68ad4ce74d56b5", null ],
+    [ "Remove", "db/d60/a11553.html#a28f714404942bb5c614ac844cf937546", null ],
+    [ "SetDiminishGroup", "db/d60/a11553.html#a6d858a153c5d3046574f3387ab852050", null ],
+    [ "Aura::Create", "db/d60/a11553.html#ae2c0fdfb409846fec5e861de60797112", null ],
+    [ "m_AuraDRGroup", "db/d60/a11553.html#a4b413c5e62eee76875a22345059e6124", null ]
 ];

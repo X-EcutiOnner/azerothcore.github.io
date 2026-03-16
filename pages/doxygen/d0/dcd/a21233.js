@@ -1,5 +1,6 @@
 var a21233 =
 [
-    [ "go_vh_activation_crystal", "d0/dcd/a21233.html#a4af485ac7ab6144282f3204a6d045cea", null ],
-    [ "OnGossipHello", "d0/dcd/a21233.html#a47a61ba67086580135559332931e9c6e", null ]
+    [ "boss_archavonAI", "d6/d58/a21237.html", "d6/d58/a21237" ],
+    [ "boss_archavon", "d0/dcd/a21233.html#a44e20480f8d86cf763afe67de49c6c33", null ],
+    [ "GetAI", "d0/dcd/a21233.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
 ];

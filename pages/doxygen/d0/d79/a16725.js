@@ -1,7 +1,6 @@
 var a16725 =
 [
-    [ "npc_toc_druidAI", "d0/d79/a16725.html#adb456f1f93be5329174a3199c9092825", null ],
-    [ "myCanCast", "d0/d79/a16725.html#af82baa22ae49ba268f494cb07287845e", null ],
-    [ "UpdateAI", "d0/d79/a16725.html#a82a22a557db647f73690d8838a635eaf", null ],
-    [ "events", "d0/d79/a16725.html#a6bb27baf17f0286db3222287a8073bd7", null ]
+    [ "npc_argent_soldierAI", "d4/dff/a16729.html", "d4/dff/a16729" ],
+    [ "npc_argent_soldier", "d0/d79/a16725.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
+    [ "GetAI", "d0/d79/a16725.html#adfeed3d533104b9617dfbb06925a3d44", null ]
 ];

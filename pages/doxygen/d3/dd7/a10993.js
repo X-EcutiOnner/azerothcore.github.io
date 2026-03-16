@@ -1,9 +1,12 @@
 var a10993 =
 [
-    [ "EnchantmentLog", "d3/dd7/a10993.html#a4427184d166b18e984dc301a6786aac3", null ],
-    [ "Write", "d3/dd7/a10993.html#a17752d3e862c1915f8479058a4be1eb7", null ],
-    [ "Caster", "d3/dd7/a10993.html#ae35a0c689357cf4b5a031f40314a7045", null ],
-    [ "EnchantId", "d3/dd7/a10993.html#a72a85b9f0d40c9406d64a9bf0b06581e", null ],
-    [ "ItemId", "d3/dd7/a10993.html#ad393d5f227bb81738582572bd2601650", null ],
-    [ "Target", "d3/dd7/a10993.html#a9ef981f750bee2101c1f886fa2514913", null ]
+    [ "Charges", "d3/dd7/a10993.html#ada45d7e00efb3bf27afcf9db1ad4d813", null ],
+    [ "Count", "d3/dd7/a10993.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9", null ],
+    [ "EnchantmentID", "d3/dd7/a10993.html#a249a204f5d72d42f562c989b1cb92fc9", null ],
+    [ "Flags", "d3/dd7/a10993.html#a3ca816132a756d3dc939877c57f6045d", null ],
+    [ "ItemID", "d3/dd7/a10993.html#a5dc7e8b40834dba07c63322d80ed73ae", null ],
+    [ "RandomPropertiesID", "d3/dd7/a10993.html#ad98a20548478fe99f9d6d345c5a3b732", null ],
+    [ "RandomPropertiesSeed", "d3/dd7/a10993.html#ae5d493dd4798e11f02d8f02a57ba4274", null ],
+    [ "Slot", "d3/dd7/a10993.html#afcc0a78c2f9a3061830679fece476a64", null ],
+    [ "SocketEnchant", "d3/dd7/a10993.html#a55545d4d1b752e4f08bd05350b22892c", null ]
 ];

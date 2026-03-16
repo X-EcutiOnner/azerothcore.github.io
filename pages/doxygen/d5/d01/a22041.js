@@ -1,16 +1,9 @@
 var a22041 =
 [
-    [ "npc_frosthound", "d5/d01/a22041.html#a90dc4d1debb64354154760b52f8b1129", null ],
-    [ "AttackStart", "d5/d01/a22041.html#adf6969c7670584747e407a3bede8c928", null ],
-    [ "EnterEvadeMode", "d5/d01/a22041.html#ad0a16989c8c65eaa58deec6f885719f3", null ],
-    [ "JustDied", "d5/d01/a22041.html#a5a20cbca9da2f80c02d0697c84689c7a", null ],
-    [ "JustEngagedWith", "d5/d01/a22041.html#a8c9d22bfd32c12b3cf60f89f6856b5a5", null ],
-    [ "JustSummoned", "d5/d01/a22041.html#a93858959a06e4f1aa014fca3044949bc", null ],
-    [ "OnCharmed", "d5/d01/a22041.html#aaf081193bdae7ef30c153a3d40dcefe7", null ],
-    [ "PassengerBoarded", "d5/d01/a22041.html#a0126be35e4bbb613c9e0a1a04bef3681", null ],
-    [ "Reset", "d5/d01/a22041.html#ac2056fafcb04a827c83bc199a89a8a74", null ],
-    [ "UpdateAI", "d5/d01/a22041.html#ab163e819369b6b90b5782ab8d1cecbaf", null ],
-    [ "WaypointReached", "d5/d01/a22041.html#a9f6238bd211a1a465815c8cdd9bac1d2", null ],
-    [ "_completionWaypoint", "d5/d01/a22041.html#adfeb6a7a2755ebc0d1252cedf0f54727", null ],
-    [ "_summons", "d5/d01/a22041.html#a103a499ecce73bc4505a85a21c143e73", null ]
+    [ "npc_lord_areteAI", "d5/d01/a22041.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
+    [ "InitializeAI", "d5/d01/a22041.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
+    [ "UpdateAI", "d5/d01/a22041.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
+    [ "_landgrenGUID", "d5/d01/a22041.html#ac0e3753096dfe779024acc8400791171", null ],
+    [ "_landgrenSoulGUID", "d5/d01/a22041.html#aaa28c67691610136f0b418b30892f3cd", null ],
+    [ "events", "d5/d01/a22041.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
 ];

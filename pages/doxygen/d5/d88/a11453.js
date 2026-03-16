@@ -1,7 +1,6 @@
 var a11453 =
 [
-    [ "effectMask", "d5/d88/a11453.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
-    [ "processed", "d5/d88/a11453.html#aedfa36678be863a558ecd0ecc07cc544", null ],
-    [ "targetGUID", "d5/d88/a11453.html#a619f98bf094d2667048204f733d64d0c", null ],
-    [ "timeDelay", "d5/d88/a11453.html#ab552326c0780fe62ff95b02249458492", null ]
+    [ "AccountData", "d5/d88/a11453.html#a593303fb86ec3ac592ee933b8d057fe8", null ],
+    [ "Data", "d5/d88/a11453.html#aa45f3f93f643b4dd9ea4d269e3b5462d", null ],
+    [ "Time", "d5/d88/a11453.html#a38b2049e50845641cc380b6786e68ac5", null ]
 ];

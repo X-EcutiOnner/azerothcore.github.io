@@ -1,9 +1,9 @@
 var a24445 =
 [
-    [ "Absorb", "d7/de7/a24445.html#ae5101c9adc7b9d09daf9c78d5e6d9d14", null ],
-    [ "CalculateAmount", "d7/de7/a24445.html#a0e88abc0dfc1f0aa5c52f3602f99d45a", null ],
-    [ "Load", "d7/de7/a24445.html#ab7eae0747736dea5633ef51eb0945fae", null ],
-    [ "PrepareAuraScript", "d7/de7/a24445.html#a760b72149ee11ad88e290c9537b3094b", null ],
-    [ "Register", "d7/de7/a24445.html#a0d25efee128ee95f9ad268b53358f376", null ],
-    [ "absorbPct", "d7/de7/a24445.html#a31091ef6a0d39e1d498420a85f6c84fa", null ]
+    [ "npc_pet_shaman_fire_elemental", "d7/de7/a24445.html#a3428642963fc9e7588ec92fd838f1af9", null ],
+    [ "InitializeAI", "d7/de7/a24445.html#aef4865f83ce0c73efe0c47a11ac87594", null ],
+    [ "JustEngagedWith", "d7/de7/a24445.html#ac274b9edb03ab13a8e95d8c4fe5055db", null ],
+    [ "UpdateAI", "d7/de7/a24445.html#a2280e5cc5187a91917a1e517e80e960d", null ],
+    [ "_events", "d7/de7/a24445.html#aa4578cdbe41d28e399247c84c9fe8049", null ],
+    [ "_initAttack", "d7/de7/a24445.html#a2df79acc05dd8489e9e994e044b45404", null ]
 ];

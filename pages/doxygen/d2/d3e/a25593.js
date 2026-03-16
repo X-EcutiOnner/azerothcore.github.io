@@ -1,7 +1,6 @@
 var a25593 =
 [
-    [ "HandleScript", "d2/d3e/a25593.html#a7c7f92d21898322c501f582a524f4052", null ],
-    [ "Load", "d2/d3e/a25593.html#a600eb87e8bbedd3504e3d259f89e3785", null ],
-    [ "PrepareSpellScript", "d2/d3e/a25593.html#a8ae826705bd1a1f1da3160be73926d7b", null ],
-    [ "Register", "d2/d3e/a25593.html#abda715e38cf19fa7276ec4f4a12d3b63", null ]
+    [ "CalculateAmount", "d2/d3e/a25593.html#a83bf0327aade6f6a33293a442ad10911", null ],
+    [ "PrepareAuraScript", "d2/d3e/a25593.html#aa964f4eb7391dab54ff744fc94306de1", null ],
+    [ "Register", "d2/d3e/a25593.html#a37d29d87bec2fe2908b7d3e47f5e1caa", null ]
 ];

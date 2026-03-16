@@ -1,7 +1,6 @@
 var a12505 =
 [
-    [ "boss_warmastervooneAI", "d2/d1c/a12505.html#aa22519c8d3037cf07c275080b9bedcaf", null ],
-    [ "DamageTaken", "d2/d1c/a12505.html#adce28de25fa74557000d60188346e2d2", null ],
-    [ "ExecuteEvent", "d2/d1c/a12505.html#ac9dc6ef78503a87ea68d0e232b0376da", null ],
-    [ "JustEngagedWith", "d2/d1c/a12505.html#ac419c5118a45264e24e391f7575d90fb", null ]
+    [ "instance_blackrock_depths_InstanceMapScript", "d8/d8e/a12509.html", "d8/d8e/a12509" ],
+    [ "instance_blackrock_depths", "d2/d1c/a12505.html#a8d906bdb520b2c7907b94b0e22b5cdf4", null ],
+    [ "GetInstanceScript", "d2/d1c/a12505.html#af8f8c9929cae50c098efc5a0dbdd727a", null ]
 ];

@@ -1,9 +1,12 @@
 var a09393 =
 [
-    [ "PlayerSearcher", "dc/dc6/a09393.html#a7247fcab3841996ed5d699696fb21557", null ],
-    [ "Visit", "dc/dc6/a09393.html#ab2544b79869ba4de9772b1bff7c40704", null ],
-    [ "Visit", "dc/dc6/a09393.html#abdb4dfeb80101e9e4bf0e46cab5a1f7b", null ],
-    [ "i_check", "dc/dc6/a09393.html#a58c24b81eec33c9ba8fe8145ee3679b4", null ],
-    [ "i_object", "dc/dc6/a09393.html#a70b071a2fccb4ff29fd614d1447e87ad", null ],
-    [ "i_phaseMask", "dc/dc6/a09393.html#a6dd83612b7f0d00035a7efb8d970afc6", null ]
+    [ "FloatHeightData", "dd/d76/a09405.html", "dd/d76/a09405" ],
+    [ "Uint16HeightData", "d6/d8f/a09397.html", "d6/d8f/a09397" ],
+    [ "Uint8HeightData", "d3/dd5/a09401.html", "d3/dd5/a09401" ],
+    [ "HeightPlanesType", "dc/dc6/a09393.html#ab64c3cfcd01805f43ec4ef41fb3bc48d", null ],
+    [ "floatHeightData", "dc/dc6/a09393.html#abd47b99dfa1f23b0741b66cfd4837eaa", null ],
+    [ "gridHeight", "dc/dc6/a09393.html#a1f989ab0921de350dc2410129028201f", null ],
+    [ "minHeightPlanes", "dc/dc6/a09393.html#aa04f68f079e1f488cf69acd24dcd7899", null ],
+    [ "uint16HeightData", "dc/dc6/a09393.html#aec022a29ba14a18fdd33e8f65e1cd977", null ],
+    [ "uint8HeightData", "dc/dc6/a09393.html#a60a4a267b4164347e9f3ead6b5abfe14", null ]
 ];

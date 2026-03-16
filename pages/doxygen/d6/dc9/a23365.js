@@ -1,6 +1,6 @@
 var a23365 =
 [
-    [ "HandleScriptEffect", "d6/dc9/a23365.html#adf350bccc5862252f6928faa4ae3a001", null ],
-    [ "PrepareSpellScript", "d6/dc9/a23365.html#a0d1ff479da3b8f50ed698da9f9029589", null ],
-    [ "Register", "d6/dc9/a23365.html#afaf23967ede6e120caa7758ff2d3c974", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d3/d93/a23369.html", "d3/d93/a23369" ],
+    [ "instance_steam_vault", "d6/dc9/a23365.html#aa3417083841ccb50c8a2f29ba343e115", null ],
+    [ "GetInstanceScript", "d6/dc9/a23365.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
 ];

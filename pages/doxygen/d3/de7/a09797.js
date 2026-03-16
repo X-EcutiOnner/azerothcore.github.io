@@ -1,16 +1,16 @@
 var a09797 =
 [
-    [ "StoredLootItem", "d3/de7/a09797.html#a32da4030f3e58b7fae5001511c6caa40", null ],
-    [ "conditionLootId", "d3/de7/a09797.html#a9be27c3407923df6b15bef993dd58830", null ],
-    [ "count", "d3/de7/a09797.html#a25c63cc5a94ecc3bf803e83be5aabc39", null ],
-    [ "follow_loot_rules", "d3/de7/a09797.html#ac945688a64f92c40ada1abd5847d9b0d", null ],
-    [ "freeforall", "d3/de7/a09797.html#a41a3c4caf90fc8c42d2e0e5192201d19", null ],
-    [ "is_blocked", "d3/de7/a09797.html#a895cc61dd542959c3726dbc54abf7434", null ],
-    [ "is_counted", "d3/de7/a09797.html#a801a125a5035167f3f511560a29808c4", null ],
-    [ "is_underthreshold", "d3/de7/a09797.html#ae11badaeeccbb3af7f150d4ca55347a3", null ],
-    [ "itemid", "d3/de7/a09797.html#afac1addff36f4cd08626ac7ae1ce0cff", null ],
-    [ "itemIndex", "d3/de7/a09797.html#a076564a43a586c6b6d17cd64fca8e9fb", null ],
-    [ "needs_quest", "d3/de7/a09797.html#ae7530d417ac10c5766fc25664b427d50", null ],
-    [ "randomPropertyId", "d3/de7/a09797.html#a12e1cb9403cc4f6ceb770c8cf50a1d17", null ],
-    [ "randomSuffix", "d3/de7/a09797.html#a2588c810dcd51a5c0c6558b99493602b", null ]
+    [ "GuildBankRightsAndSlots", "d3/de7/a09797.html#ae00a8b8f227d7afdcf08847e3787ee0d", null ],
+    [ "GuildBankRightsAndSlots", "d3/de7/a09797.html#af5f0087090a7145a22baa1396822318b", null ],
+    [ "GuildBankRightsAndSlots", "d3/de7/a09797.html#a4bdf40d99704211b9e80b554ebade54f", null ],
+    [ "GetRights", "d3/de7/a09797.html#a19b76bebdb62434191189ba789c2810f", null ],
+    [ "GetSlots", "d3/de7/a09797.html#a51780060b5699bed6b78cc9ba4e95371", null ],
+    [ "GetTabId", "d3/de7/a09797.html#a6ba7c49480a1c5325d3702fb61d397cc", null ],
+    [ "SetGuildMasterValues", "d3/de7/a09797.html#a1399f191b3b0a44dc1e76fc49adc1412", null ],
+    [ "SetRights", "d3/de7/a09797.html#abf4e1f1556554e7f756dc566fbdd7f40", null ],
+    [ "SetSlots", "d3/de7/a09797.html#a8ed33a4e1d2a957d61c5f7556533f225", null ],
+    [ "SetTabId", "d3/de7/a09797.html#abe84f6bcdfd48d70b894470d025f3aae", null ],
+    [ "rights", "d3/de7/a09797.html#a2a8f5acf21828bfa15d0b3dd6874b5cb", null ],
+    [ "slots", "d3/de7/a09797.html#a5a327399d94704bc290199baa21ff8d7", null ],
+    [ "tabId", "d3/de7/a09797.html#ab09825a02a7a21a4915595230d2a5839", null ]
 ];

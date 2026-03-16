@@ -1,6 +1,9 @@
 var a14921 =
 [
-    [ "HandleScriptEffect", "d2/d90/a14921.html#aebd700897688157ca62405c92fe58680", null ],
-    [ "PrepareSpellScript", "d2/d90/a14921.html#a09e11d1938279a2302fb8805e71c6c36", null ],
-    [ "Register", "d2/d90/a14921.html#aa0679665ba2c496e0a5aa5f6864d7230", null ]
+    [ "npc_love_in_air_snivel", "d2/d90/a14921.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
+    [ "AllowAction", "d2/d90/a14921.html#af1097317f62bbb8f8456124001c73576", null ],
+    [ "MoveInLineOfSight", "d2/d90/a14921.html#ae6537707109b95fad20e521d07867cdd", null ],
+    [ "Reset", "d2/d90/a14921.html#a2385ea44d9f44735b193add4a0d0485b", null ],
+    [ "UpdateAI", "d2/d90/a14921.html#a9e712994663e3442359d2f574ebc812c", null ],
+    [ "delay", "d2/d90/a14921.html#a548db6245ef875ec47279246e437934c", null ]
 ];

@@ -1,6 +1,7 @@
 var a18733 =
 [
-    [ "npc_lk_spirit_bombAI", "d0/d7b/a18737.html", "d0/d7b/a18737" ],
-    [ "npc_lk_spirit_bomb", "df/d36/a18733.html#acc08d41aa1761c450de782e92307ad7c", null ],
-    [ "GetAI", "df/d36/a18733.html#ade74c00beb2da69dafb0ae93d771c430", null ]
+    [ "OnPeriodic", "df/d36/a18733.html#accd12b06341f3168c74cb18926614f7f", null ],
+    [ "OnUpdate", "df/d36/a18733.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
+    [ "PrepareAuraScript", "df/d36/a18733.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
+    [ "Register", "df/d36/a18733.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
 ];

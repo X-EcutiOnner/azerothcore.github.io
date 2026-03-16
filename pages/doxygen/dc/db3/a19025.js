@@ -1,6 +1,6 @@
 var a19025 =
 [
-    [ "HandleEvent", "dc/db3/a19025.html#a7936a64a1142a47b2addfd746dccfcef", null ],
-    [ "PrepareSpellScript", "dc/db3/a19025.html#a00e2be07131c674558d0364df98849ab", null ],
-    [ "Register", "dc/db3/a19025.html#a89364583504d2eaa75473586850bc3d5", null ]
+    [ "HandleScript", "dc/db3/a19025.html#a930b8a515b5d156c16925dc218cf8172", null ],
+    [ "PrepareSpellScript", "dc/db3/a19025.html#a892b0ba0f6541b3557a0200be5028479", null ],
+    [ "Register", "dc/db3/a19025.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
 ];

@@ -1,6 +1,6 @@
 var a14593 =
 [
-    [ "npc_direbrew_antagonist", "d9/dac/a14593.html#a30fed4e6888d98af576dea8e13c510d3", null ],
-    [ "DoAction", "d9/dac/a14593.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
-    [ "JustEngagedWith", "d9/dac/a14593.html#aaf54b03d66d726901c289ff28d362787", null ]
+    [ "HandleObjectAreaTargetSelect", "d9/dac/a14593.html#aa7695bddd766d5adefb04710d41894f6", null ],
+    [ "PrepareSpellScript", "d9/dac/a14593.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
+    [ "Register", "d9/dac/a14593.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
 ];

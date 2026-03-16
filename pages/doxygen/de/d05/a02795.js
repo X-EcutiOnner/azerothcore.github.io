@@ -1,61 +1,18 @@
 var a02795 =
 [
-    [ "AreaTrigger_at_coilfang_waterfall", "db/d4d/a28038.html", "db/d4d/a28038" ],
-    [ "AreaTrigger_at_legion_teleporter", "d8/d21/a28042.html", "d8/d21/a28042" ],
-    [ "AreaTrigger_at_stormwright_shelf", "df/d29/a28046.html", "df/d29/a28046" ],
-    [ "AreaTrigger_at_scent_larkorwi", "d6/d71/a28050.html", "d6/d71/a28050" ],
-    [ "AreaTrigger_at_last_rites", "d6/d5b/a28054.html", "d6/d5b/a28054" ],
-    [ "AreaTrigger_at_nats_landing", "dd/d36/a28058.html", "dd/d36/a28058" ],
-    [ "AreaTrigger_at_sentry_point", "da/d65/a28062.html", "da/d65/a28062" ],
-    [ "AreaTrigger_at_brewfest", "d5/d16/a28066.html", "d5/d16/a28066" ],
-    [ "AreaTrigger_at_area_52_entrance", "db/d24/a28070.html", "db/d24/a28070" ],
-    [ "Area52Entrance", "de/d05/a02795.html#a7ef276a75040392ab3315082a3518c67", [
-      [ "SPELL_A52_NEURALYZER", "de/d05/a02795.html#a7ef276a75040392ab3315082a3518c67afa491a434774607e1e712c2f79ac322a", null ],
-      [ "NPC_SPOTLIGHT", "de/d05/a02795.html#a7ef276a75040392ab3315082a3518c67acded8211c601c5b237d60a58f65b56ac", null ],
-      [ "SUMMON_COOLDOWN", "de/d05/a02795.html#a7ef276a75040392ab3315082a3518c67aa4b7173ec61f2859f8649f0adcbb37d1", null ],
-      [ "AT_AREA_52_SOUTH", "de/d05/a02795.html#a7ef276a75040392ab3315082a3518c67ac9b6a7b98c7a4b2013ccd61f637851f9", null ],
-      [ "AT_AREA_52_NORTH", "de/d05/a02795.html#a7ef276a75040392ab3315082a3518c67a7eb1ed4b6c4f3ef99e5cdd9b1505a09e", null ],
-      [ "AT_AREA_52_WEST", "de/d05/a02795.html#a7ef276a75040392ab3315082a3518c67a69d8c4647a15efe238a70b1f049ff97f", null ],
-      [ "AT_AREA_52_EAST", "de/d05/a02795.html#a7ef276a75040392ab3315082a3518c67a3173f419da9cf80efa68ca3e99c10528", null ]
+    [ "OutdoorPvPSI", "de/d9f/a22529.html", "de/d9f/a22529" ],
+    [ "OutdoorPvPSISpells", "de/d05/a02795.html#a62a8c4b8a007cc2da63e91f039a9b0f5", [
+      [ "SI_SILITHYST_FLAG_GO_SPELL", "de/d05/a02795.html#a62a8c4b8a007cc2da63e91f039a9b0f5add71e365726ced6250de08c4c883f055", null ],
+      [ "SI_SILITHYST_FLAG", "de/d05/a02795.html#a62a8c4b8a007cc2da63e91f039a9b0f5a1bf0ed27bacc509ec19e1648e1a9ec74", null ],
+      [ "SI_TRACES_OF_SILITHYST", "de/d05/a02795.html#a62a8c4b8a007cc2da63e91f039a9b0f5a8f61c4e11367451aa4b95455a9086410", null ],
+      [ "SI_CENARION_FAVOR", "de/d05/a02795.html#a62a8c4b8a007cc2da63e91f039a9b0f5a113a47f651228b031a6d40c36d34d2fb", null ]
     ] ],
-    [ "AtLastRites", "de/d05/a02795.html#aedd9d40d0b524b4a5da323938c6f1c99", [
-      [ "QUEST_LAST_RITES", "de/d05/a02795.html#aedd9d40d0b524b4a5da323938c6f1c99af622e93bef1f891f43c910aec65feef2", null ],
-      [ "QUEST_BREAKING_THROUGH", "de/d05/a02795.html#aedd9d40d0b524b4a5da323938c6f1c99a0d528966459def04c2372cb96fb03057", null ]
-    ] ],
-    [ "Brewfest", "de/d05/a02795.html#a9b234b18092b711f6f11cda755fe0bfd", [
-      [ "NPC_TAPPER_SWINDLEKEG", "de/d05/a02795.html#a9b234b18092b711f6f11cda755fe0bfda91dfef2ce070232ed51a69d9c6399130", null ],
-      [ "NPC_IPFELKOFER_IRONKEG", "de/d05/a02795.html#a9b234b18092b711f6f11cda755fe0bfda39440d09522df095e726cb1da7ab817e", null ],
-      [ "AT_BREWFEST_DUROTAR", "de/d05/a02795.html#a9b234b18092b711f6f11cda755fe0bfda6dbf4e730fdb44d7ceb232e60cee3091", null ],
-      [ "AT_BREWFEST_DUN_MOROGH", "de/d05/a02795.html#a9b234b18092b711f6f11cda755fe0bfda91d9e35e7360f1d853d2f54f54548c61", null ],
-      [ "SAY_WELCOME", "de/d05/a02795.html#a9b234b18092b711f6f11cda755fe0bfda53e43b5d6a57facfdbe1b6559295a32f", null ],
-      [ "AREATRIGGER_TALK_COOLDOWN", "de/d05/a02795.html#a9b234b18092b711f6f11cda755fe0bfda7105e5d2474e31860a9bc9f5075c31e4", null ]
-    ] ],
-    [ "CoilfangGOs", "de/d05/a02795.html#a9670aee8aef02c60b84d4c3d11c963b5", [
-      [ "GO_COILFANG_WATERFALL", "de/d05/a02795.html#a9670aee8aef02c60b84d4c3d11c963b5a30520dfb9388b8cc7b4cbc9b3420d65d", null ]
-    ] ],
-    [ "LegionTeleporter", "de/d05/a02795.html#ad9a6ea877cb24dbb530ccf0e03cb7012", [
-      [ "SPELL_TELE_A_TO", "de/d05/a02795.html#ad9a6ea877cb24dbb530ccf0e03cb7012a09569d3491e5bf73c2d9e897077cd162", null ],
-      [ "QUEST_GAINING_ACCESS_A", "de/d05/a02795.html#ad9a6ea877cb24dbb530ccf0e03cb7012a1746dcba888866f4914d5fa112323879", null ],
-      [ "SPELL_TELE_H_TO", "de/d05/a02795.html#ad9a6ea877cb24dbb530ccf0e03cb7012a0373689ced7bf6fcd5453719eff7dff9", null ],
-      [ "QUEST_GAINING_ACCESS_H", "de/d05/a02795.html#ad9a6ea877cb24dbb530ccf0e03cb7012a90bff047b5c92fa8418685d95440c5ea", null ]
-    ] ],
-    [ "NatsLanding", "de/d05/a02795.html#a5ee4c50b08414290f73ada43c1c71151", [
-      [ "QUEST_NATS_BARGAIN", "de/d05/a02795.html#a5ee4c50b08414290f73ada43c1c71151aeff02bfb540090dbb759b896b3b3627e", null ],
-      [ "SPELL_FISH_PASTE", "de/d05/a02795.html#a5ee4c50b08414290f73ada43c1c71151a84c85ea415f324f0acec6a0e8d8eb8a6", null ],
-      [ "NPC_LURKING_SHARK", "de/d05/a02795.html#a5ee4c50b08414290f73ada43c1c71151af67d7adb069812fe8e3d79aff3f18900", null ]
-    ] ],
-    [ "ScentLarkorwi", "de/d05/a02795.html#a743ca0b810fe5b376233e725f346d416", [
-      [ "QUEST_SCENT_OF_LARKORWI", "de/d05/a02795.html#a743ca0b810fe5b376233e725f346d416a105afbe1f1e3510efdd8ef9fbfe153ee", null ],
-      [ "NPC_LARKORWI_MATE", "de/d05/a02795.html#a743ca0b810fe5b376233e725f346d416adb746f23675f0b248d264a0557ceff5d", null ]
-    ] ],
-    [ "SentryPoint", "de/d05/a02795.html#a24ef89c28423d02750eff95a35b3a275", [
-      [ "SPELL_TELEPORT_VISUAL", "de/d05/a02795.html#a24ef89c28423d02750eff95a35b3a275a73cc106ecf58fcd3a75fa23f9ff7a21c", null ],
-      [ "QUEST_MISSING_DIPLO_PT14", "de/d05/a02795.html#a24ef89c28423d02750eff95a35b3a275a378a874d36260f01327d51d537b33d94", null ],
-      [ "NPC_TERVOSH", "de/d05/a02795.html#a24ef89c28423d02750eff95a35b3a275a0ef56679b82214bad2e052fb8e979c50", null ]
-    ] ],
-    [ "StormwrightShelf", "de/d05/a02795.html#abdd676bd524ed3ea6915b8b1348861dd", [
-      [ "QUEST_STRENGTH_OF_THE_TEMPEST", "de/d05/a02795.html#abdd676bd524ed3ea6915b8b1348861ddae6b91cb73e581fe9558469357a90ec24", null ],
-      [ "SPELL_CREATE_TRUE_POWER_OF_THE_TEMPEST", "de/d05/a02795.html#abdd676bd524ed3ea6915b8b1348861dda55079b9b218f67c0dcae1b7da0dcb277", null ]
-    ] ],
-    [ "AddSC_areatrigger_scripts", "de/d05/a02795.html#a992f2da647f1f8748c7c9239b52079ad", null ]
+    [ "OutdoorPvPSIBuffZones", "de/d05/a02795.html#a155bfb73bcc562d8eaaa4d62d52e59bc", null ],
+    [ "OutdoorPvPSIBuffZonesNum", "de/d05/a02795.html#aaf633cff2fc1b3449acb7753f698c4d4", null ],
+    [ "SI_AREATRIGGER_A", "de/d05/a02795.html#aca1406dea9e721dc32c834e8b85b2d9a", null ],
+    [ "SI_AREATRIGGER_H", "de/d05/a02795.html#abb17804eb9913c298a5dae804e1c7206", null ],
+    [ "SI_MAX_RESOURCES", "de/d05/a02795.html#a9558d0ea12ff1048686daf5bf0ff999c", null ],
+    [ "SI_SILITHYST_MOUND", "de/d05/a02795.html#a5a6a1265e5e65971f8d86be718ea3bb3", null ],
+    [ "SI_TURNIN_QUEST_CM_A", "de/d05/a02795.html#a18c47c74867642b4bd8cc166d9fe1e79", null ],
+    [ "SI_TURNIN_QUEST_CM_H", "de/d05/a02795.html#ad1787da9136bc956357571149e1f6b60", null ]
 ];

@@ -1,9 +1,7 @@
 var a12641 =
 [
-    [ "FilterTargets", "d5/db4/a12641.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "d5/db4/a12641.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "d5/db4/a12641.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "d5/db4/a12641.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "d5/db4/a12641.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "d5/db4/a12641.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "boss_urok_doomhowlAI", "d5/db4/a12641.html#ade3d87a05eed0fd077b2e3245099ed74", null ],
+    [ "InitializeAI", "d5/db4/a12641.html#a530bef523a27523827d3a94aa5f88698", null ],
+    [ "JustEngagedWith", "d5/db4/a12641.html#abd74d844bcae5f9bd8fdd3797323af2c", null ],
+    [ "UpdateAI", "d5/db4/a12641.html#a6ab5793a48534b7c338a915a7ed8faf9", null ]
 ];

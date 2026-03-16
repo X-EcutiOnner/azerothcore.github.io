@@ -1,5 +1,6 @@
 var a14765 =
 [
-    [ "go_loosely_turned_soilAI", "d4/d5c/a14765.html#a603641bc52d26521d64afaaeed3abc4d", null ],
-    [ "CanBeSeen", "d4/d5c/a14765.html#a424b51b08d17ceb04b015cd535256889", null ]
+    [ "PeriodicTick", "d4/d5c/a14765.html#a0832c36a9497674374b2998398bfc3a4", null ],
+    [ "PrepareAuraScript", "d4/d5c/a14765.html#a89acb64235da1ff59da90a509fbeec9d", null ],
+    [ "Register", "d4/d5c/a14765.html#aab689a2cb84dcd064736171035640584", null ]
 ];

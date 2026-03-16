@@ -1,5 +1,6 @@
 var a23149 =
 [
-    [ "boss_quagmirran", "d2/de6/a23149.html#a7f6289b86216b052f434a1417023e22c", null ],
-    [ "JustEngagedWith", "d2/de6/a23149.html#a28253b6653bd2e26e7f246c71a88b625", null ]
+    [ "HandleScriptEffect", "d2/de6/a23149.html#a766edc5924124c869b04ec82cd2bc693", null ],
+    [ "PrepareSpellScript", "d2/de6/a23149.html#a1eac10c673b8f43ae08f8bbdf949f82f", null ],
+    [ "Register", "d2/de6/a23149.html#a60d4e21bf31c997ef4105ad72c8b4e85", null ]
 ];

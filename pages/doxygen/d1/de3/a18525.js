@@ -1,8 +1,6 @@
 var a18525 =
 [
-    [ "NecroticPlagueTargetCheck", "d1/de3/a18525.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
-    [ "operator()", "d1/de3/a18525.html#a801a176e367a9f4446fe080845477654", null ],
-    [ "_notAura1", "d1/de3/a18525.html#a4f52417f233e1ab06210726670f719f3", null ],
-    [ "_notAura2", "d1/de3/a18525.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
-    [ "_sourceObj", "d1/de3/a18525.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
+    [ "npc_ice_tombAI", "d2/d06/a18529.html", "d2/d06/a18529" ],
+    [ "npc_ice_tomb", "d1/de3/a18525.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
+    [ "GetAI", "d1/de3/a18525.html#ac99b7c9887e54a1764310bd3e079811a", null ]
 ];

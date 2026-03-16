@@ -1,7 +1,6 @@
 var a21765 =
 [
-    [ "HandleAfterEffectApply", "df/d73/a21765.html#ab54795dc49ca453db40494a694158a98", null ],
-    [ "PrepareAuraScript", "df/d73/a21765.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
-    [ "Register", "df/d73/a21765.html#addd4fac4cc8a93d800abacb144e3303c", null ],
-    [ "Validate", "df/d73/a21765.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
+    [ "HandleSendEvent", "df/d73/a21765.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
+    [ "PrepareSpellScript", "df/d73/a21765.html#aa632d381ac415feaf226f55fc2cd8520", null ],
+    [ "Register", "df/d73/a21765.html#a72673f5054cf269cc8da511441f7bd66", null ]
 ];

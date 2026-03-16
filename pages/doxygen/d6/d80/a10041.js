@@ -1,10 +1,8 @@
 var a10041 =
 [
-    [ "CreateWorldPacket", "d6/d80/a10041.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
-    [ "GetMotd", "d6/d80/a10041.html#ab589dd8bfad950e02ee716ea9005253f", null ],
-    [ "GetMotdPacket", "d6/d80/a10041.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
-    [ "instance", "d6/d80/a10041.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
-    [ "LoadMotd", "d6/d80/a10041.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
-    [ "LoadMotdLocale", "d6/d80/a10041.html#a21aa89787d5b0bbf69158f799122edd5", null ],
-    [ "SetMotd", "d6/d80/a10041.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
+    [ "EllipseBoundary", "d6/d80/a10041.html#aeb8c822a8c4c745de0c848721a624545", null ],
+    [ "IsWithinBoundaryArea", "d6/d80/a10041.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
+    [ "_center", "d6/d80/a10041.html#aa84bae8bced77e38fec652e473cf39c7", null ],
+    [ "_radiusYSq", "d6/d80/a10041.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
+    [ "_scaleXSq", "d6/d80/a10041.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
 ];

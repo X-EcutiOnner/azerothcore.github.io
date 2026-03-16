@@ -1,6 +1,7 @@
 var a26889 =
 [
-    [ "achievement_arena_by_type", "d5/d24/a26889.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "d5/d24/a26889.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "d5/d24/a26889.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "HandleHeal", "d5/d24/a26889.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
+    [ "PrepareSpellScript", "d5/d24/a26889.html#a9de9260bc1e2582138c58a708e5d899c", null ],
+    [ "Register", "d5/d24/a26889.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
+    [ "Validate", "d5/d24/a26889.html#aa300822cf5455404482124a6853fb314", null ]
 ];

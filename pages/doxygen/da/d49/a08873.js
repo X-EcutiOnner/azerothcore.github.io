@@ -1,8 +1,9 @@
 var a08873 =
 [
-    [ "PowerPctOrderPred", "da/d49/a08873.html#a4e765952cfbc1c83413a8f1c148b1fe4", null ],
-    [ "operator()", "da/d49/a08873.html#a215b641a9364c7fcb82778c98f214271", null ],
-    [ "operator()", "da/d49/a08873.html#a42cec64c5eaf01f8b6b7e334f57b1d4a", null ],
-    [ "_ascending", "da/d49/a08873.html#aed7be288f876fdd35c1cdba53626b03c", null ],
-    [ "_power", "da/d49/a08873.html#ad3d61a7c5c84d91bc26c99e778105b7c", null ]
+    [ "PendingSpellCastRequest", "da/d49/a08873.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
+    [ "cancelInProgress", "da/d49/a08873.html#a726b6e423b23f8c12c65e07809462ad1", null ],
+    [ "category", "da/d49/a08873.html#a51a702f257b784dac4556397dd1c0be4", null ],
+    [ "isItem", "da/d49/a08873.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
+    [ "requestPacket", "da/d49/a08873.html#a6ee868c6161e49dc8774ab357f313116", null ],
+    [ "spellId", "da/d49/a08873.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
 ];

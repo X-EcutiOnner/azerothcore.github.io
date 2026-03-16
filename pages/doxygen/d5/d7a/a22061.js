@@ -1,7 +1,7 @@
 var a22061 =
 [
-    [ "HandleDummy", "d5/d7a/a22061.html#a68c638c6e056cbadb101ddd025909f54", null ],
-    [ "PrepareSpellScript", "d5/d7a/a22061.html#a5a857bace5232d259145a0a095f70eec", null ],
-    [ "Register", "d5/d7a/a22061.html#af9c657e1fac6ee630af0bea337fbff62", null ],
-    [ "Validate", "d5/d7a/a22061.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
+    [ "GetSeatNumber", "d5/d7a/a22061.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
+    [ "HandleDummy", "d5/d7a/a22061.html#ac5945381452559e1d5655f5345bdeff3", null ],
+    [ "PrepareSpellScript", "d5/d7a/a22061.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
+    [ "Register", "d5/d7a/a22061.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
 ];

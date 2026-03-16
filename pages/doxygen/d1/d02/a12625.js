@@ -1,18 +1,12 @@
 var a12625 =
 [
-    [ "boss_victor_nefariusAI", "d1/d02/a12625.html#a640261332db1736e27d93067fb83c959", null ],
-    [ "BeginEvent", "d1/d02/a12625.html#a53b0953667a42290ed4ab7e71f2dd509", null ],
-    [ "DoAction", "d1/d02/a12625.html#ac30157884fa02dce34051d2f76f94d0a", null ],
-    [ "Initialize", "d1/d02/a12625.html#a68a5a2c9f0b603a52c2e69ef9559d278", null ],
-    [ "JustDied", "d1/d02/a12625.html#a4104a8f6b91f568d537447cf9a9339b5", null ],
-    [ "JustReachedHome", "d1/d02/a12625.html#a4e5e6b636918dcf4cc93cd2ce3c53192", null ],
-    [ "JustSummoned", "d1/d02/a12625.html#a8ca86c4fee920d07cfafad3227e2203a", null ],
-    [ "Reset", "d1/d02/a12625.html#a4374199f776618afaf00934c93e6e0f4", null ],
-    [ "SetData", "d1/d02/a12625.html#af9dbc9026fe7baa41c6cf41b59ed81dc", null ],
-    [ "sGossipSelect", "d1/d02/a12625.html#ad3d7333e624c70c9c635073a1909c67d", null ],
-    [ "SummonedCreatureDies", "d1/d02/a12625.html#a704489a361ac2034ac65c95e9517772f", null ],
-    [ "UpdateAI", "d1/d02/a12625.html#a5a043856458c34b47a1dc16e27eac4c9", null ],
-    [ "_nefarianLeftTunnel", "d1/d02/a12625.html#a2b6132a6a89ed8f9fc215b1342642fed", null ],
-    [ "_nefarianRightTunnel", "d1/d02/a12625.html#ad7e3b70d671080294811e9fb191e880a", null ],
-    [ "KilledAdds", "d1/d02/a12625.html#a88f7040db2bf60fb165a406571471fbb", null ]
+    [ "boss_thebeastAI", "d1/d02/a12625.html#a51b7d4ec10d2616d99fb21e680ff17b4", null ],
+    [ "FindNearbyOrcs", "d1/d02/a12625.html#ad832a878880ac32e05d360262546422a", null ],
+    [ "JustEngagedWith", "d1/d02/a12625.html#ab107354f10d0af4b840ab5ff8d3d0eaf", null ],
+    [ "Reset", "d1/d02/a12625.html#abfa1bca308a02ef0e80d2baf11670305", null ],
+    [ "SetData", "d1/d02/a12625.html#a6f30ed7c0451613998660b258145f801", null ],
+    [ "UpdateAI", "d1/d02/a12625.html#a0f490e907ce632e1fb921a6eb46b49c0", null ],
+    [ "_beastReached", "d1/d02/a12625.html#a01271598b4b3c85a7066e66d8150e522", null ],
+    [ "_nearbyOrcsGUIDs", "d1/d02/a12625.html#af32fb34f4c76cfe292da9bc84a5d6372", null ],
+    [ "_orcYelled", "d1/d02/a12625.html#a16df847475ea220b8ac4ea944e8d1ca4", null ]
 ];

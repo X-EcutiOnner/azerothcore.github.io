@@ -1,8 +1,9 @@
 var a13785 =
 [
-    [ "HandleApply", "df/d90/a13785.html#a9dce02909356193476e66586aee87f1d", null ],
-    [ "OnPeriodic", "df/d90/a13785.html#add4f000f81d5d4112719c6dd7464163c", null ],
-    [ "PrepareAuraScript", "df/d90/a13785.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
-    [ "Register", "df/d90/a13785.html#abc349f12f375b1f284eb78a363e8172a", null ],
-    [ "Validate", "df/d90/a13785.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
+    [ "npc_demonic_vapor_trail", "df/d90/a13785.html#a5bd024ea050372e982a183da59b45904", null ],
+    [ "JustSummoned", "df/d90/a13785.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
+    [ "Reset", "df/d90/a13785.html#a9da762ab640abfaf5092034f284239af", null ],
+    [ "SpellHitTarget", "df/d90/a13785.html#a21e2223f58156da2fbe1803554623ecd", null ],
+    [ "UpdateAI", "df/d90/a13785.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
+    [ "_timer", "df/d90/a13785.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
 ];

@@ -1,4 +1,6 @@
 var a05101 =
 [
-    [ "GetBounds", "db/dfb/a05101.html#aa539d8da20d440e595ceec02dcd2e4f3", null ]
+    [ "Resolver", "db/dfb/a05101.html#ad1a3a95744d64df722a6fb4b267316e6", null ],
+    [ "Resolve", "db/dfb/a05101.html#ab190f885c84753fe65405db6fb04bf7c", null ],
+    [ "_impl", "db/dfb/a05101.html#a08ed9183a6338606524c44f0fd5695a0", null ]
 ];

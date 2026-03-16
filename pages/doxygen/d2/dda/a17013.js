@@ -1,6 +1,16 @@
 var a17013 =
 [
-    [ "HandleEffectApply", "d2/dda/a17013.html#aaea2c3733dadc19072c81774468e345a", null ],
-    [ "PrepareAuraScript", "d2/dda/a17013.html#a3848997e9f775add50d40342b6211ff0", null ],
-    [ "Register", "d2/dda/a17013.html#a775b1cf494049ed13d149ca6318142c3", null ]
+    [ "boss_jaraxxusAI", "d2/dda/a17013.html#af05dd6ee301cfe4fdfbc511b07f21b48", null ],
+    [ "EnterEvadeMode", "d2/dda/a17013.html#a45fc8cbc3b1e59be8f13f1ebae73bfa1", null ],
+    [ "JustDied", "d2/dda/a17013.html#a5fce156ec839c4799e3585e9674636c1", null ],
+    [ "JustEngagedWith", "d2/dda/a17013.html#a59f21f25fbe83c9710ac6377753ce8d3", null ],
+    [ "JustReachedHome", "d2/dda/a17013.html#a5961b5563c1d140f31a348a1ea8dc4ba", null ],
+    [ "JustSummoned", "d2/dda/a17013.html#a6efea02e03c4d7e97c357afbc320b5bf", null ],
+    [ "MoveInLineOfSight", "d2/dda/a17013.html#aee8b894518e9091f4e52c4048562d08a", null ],
+    [ "Reset", "d2/dda/a17013.html#ad4a2bce95988f030387d74b5cf90f223", null ],
+    [ "SpellHit", "d2/dda/a17013.html#a5103f7808134a67f06af4be1d848aa91", null ],
+    [ "UpdateAI", "d2/dda/a17013.html#a5e733b9e5b63801a1ca2778e58fedb61", null ],
+    [ "events", "d2/dda/a17013.html#a6aff4c78989d99d49d697e9900375e28", null ],
+    [ "pInstance", "d2/dda/a17013.html#aa9d9cb25b827c48e1fd5cd8e75ac92a0", null ],
+    [ "summons", "d2/dda/a17013.html#abeddfd1bb9b5391da578f794d6c618b7", null ]
 ];

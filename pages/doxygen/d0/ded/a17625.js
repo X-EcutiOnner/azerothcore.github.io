@@ -1,6 +1,5 @@
 var a17625 =
 [
-    [ "npc_ball_of_flameAI", "d6/dcb/a17629.html", "d6/dcb/a17629" ],
-    [ "npc_ball_of_flame", "d0/ded/a17625.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
-    [ "GetAI", "d0/ded/a17625.html#ac0309668f9f0ca85a644d4928966e577", null ]
+    [ "endPosition", "d0/ded/a17625.html#a8a88b0191d28ef6af8f41db627552602", null ],
+    [ "entry", "d0/ded/a17625.html#ac4e55af666e269440953ced038c1a8de", null ]
 ];

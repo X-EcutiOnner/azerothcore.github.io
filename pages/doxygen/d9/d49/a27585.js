@@ -1,8 +1,7 @@
 var a27585 =
 [
-    [ "npc_cultist_engineer", "d9/d49/a27585.html#a02675a96d20902d147b0370fa1715d81", null ],
-    [ "JustDied", "d9/d49/a27585.html#a4b4d561f827553998caa204e0e1b9e54", null ],
-    [ "Reset", "d9/d49/a27585.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
-    [ "sGossipSelect", "d9/d49/a27585.html#ab26d124cbfdc4d649fef6058e9637845", null ],
-    [ "UpdateAI", "d9/d49/a27585.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
+    [ "HandleProc", "d9/d49/a27585.html#a9531d72f68dfc46cb6a49c9d10ee14dc", null ],
+    [ "PrepareAuraScript", "d9/d49/a27585.html#a4bd22c4f4cbd80ca26b0e27081dcb406", null ],
+    [ "Register", "d9/d49/a27585.html#a5cdc48d549e97060e837c6396e19cfb4", null ],
+    [ "Validate", "d9/d49/a27585.html#ad69695289aca17548b11199a84bbaf37", null ]
 ];

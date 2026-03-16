@@ -1,8 +1,8 @@
 var a23401 =
 [
-    [ "HandleDummyApply", "d0/da2/a23401.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
-    [ "HandleDummyRemove", "d0/da2/a23401.html#a368376fe4262815b9b9a9811178cec6d", null ],
-    [ "HandlePeriodicRemove", "d0/da2/a23401.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
-    [ "PrepareAuraScript", "d0/da2/a23401.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
-    [ "Register", "d0/da2/a23401.html#afeb47a40cfea3d958fee7a410e83857f", null ]
+    [ "boss_the_black_stalker", "d0/da2/a23401.html#ac33519b374509cefe43b8e97701719ee", null ],
+    [ "JustEngagedWith", "d0/da2/a23401.html#ad118347103ec463a09492e81dbd61418", null ],
+    [ "JustSummoned", "d0/da2/a23401.html#a9e0299a99df83abb7de476a765b667b9", null ],
+    [ "SummonedCreatureDies", "d0/da2/a23401.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
+    [ "UpdateAI", "d0/da2/a23401.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
 ];

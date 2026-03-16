@@ -1,6 +1,9 @@
 var a10117 =
 [
-    [ "AssistanceDistractMovementGenerator", "dd/d23/a10117.html#ae472d28ebb4624855632ac7f0bd7b219", null ],
-    [ "Finalize", "dd/d23/a10117.html#a1511f74a52e5ad92471e554eb77c235a", null ],
-    [ "GetMovementGeneratorType", "dd/d23/a10117.html#a233eb9333ea365955589932ddbd18d8a", null ]
+    [ "MapUpdateRequest", "dd/d23/a10117.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
+    [ "call", "dd/d23/a10117.html#a2cb96db357347d47596725e5c345b02f", null ],
+    [ "m_diff", "dd/d23/a10117.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
+    [ "m_map", "dd/d23/a10117.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
+    [ "m_updater", "dd/d23/a10117.html#aeb063738175aa8ddc751290f922ffef2", null ],
+    [ "s_diff", "dd/d23/a10117.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
 ];

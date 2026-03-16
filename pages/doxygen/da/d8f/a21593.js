@@ -1,6 +1,6 @@
 var a21593 =
 [
-    [ "HandleSendEvent", "da/d8f/a21593.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
-    [ "PrepareSpellScript", "da/d8f/a21593.html#aa632d381ac415feaf226f55fc2cd8520", null ],
-    [ "Register", "da/d8f/a21593.html#a72673f5054cf269cc8da511441f7bd66", null ]
+    [ "npc_hidden_cultistAI", "d9/d7c/a21597.html", "d9/d7c/a21597" ],
+    [ "npc_hidden_cultist", "da/d8f/a21593.html#ab455b35fea966360e01fb8975adad989", null ],
+    [ "GetAI", "da/d8f/a21593.html#a4897006d9416f1177b0bc0e41df60293", null ]
 ];

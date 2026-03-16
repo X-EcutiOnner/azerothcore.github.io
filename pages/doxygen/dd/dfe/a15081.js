@@ -1,6 +1,6 @@
 var a15081 =
 [
-    [ "boss_mal_ganisAI", "da/dd3/a15085.html", "da/dd3/a15085" ],
-    [ "boss_mal_ganis", "dd/dfe/a15081.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
-    [ "GetAI", "dd/dfe/a15081.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
+    [ "instance_blackfathom_deeps_InstanceMapScript", "da/dd3/a15085.html", "da/dd3/a15085" ],
+    [ "instance_blackfathom_deeps", "dd/dfe/a15081.html#a4600a7e6191582c1bee684989a970e0f", null ],
+    [ "GetInstanceScript", "dd/dfe/a15081.html#a62cdab4f3118ab030b4ef55243690f73", null ]
 ];

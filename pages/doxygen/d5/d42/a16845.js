@@ -1,8 +1,6 @@
 var a16845 =
 [
-    [ "npc_toc_pet_hunterAI", "d5/d42/a16845.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
-    [ "EnterEvadeMode", "d5/d42/a16845.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
-    [ "myCanCast", "d5/d42/a16845.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
-    [ "UpdateAI", "d5/d42/a16845.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
-    [ "events", "d5/d42/a16845.html#ade038312363f976b34868ed2cbebb58d", null ]
+    [ "npc_nerubian_burrowerAI", "d8/dbc/a16849.html", "d8/dbc/a16849" ],
+    [ "npc_nerubian_burrower", "d5/d42/a16845.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
+    [ "GetAI", "d5/d42/a16845.html#a145ebac6f95f9190429b9bfa37e23312", null ]
 ];

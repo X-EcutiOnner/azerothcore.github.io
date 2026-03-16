@@ -1,6 +1,6 @@
 var a16333 =
 [
-    [ "HandleLeapBack", "de/dd1/a16333.html#a71a9b9967528c1153ad1215635bc7d01", null ],
-    [ "PrepareSpellScript", "de/dd1/a16333.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
-    [ "Register", "de/dd1/a16333.html#a6ef11d0538616315fa7cf098748aa01f", null ]
+    [ "ModDestHeight", "de/dd1/a16333.html#a8bda9327c4244af41c513528ad5c818c", null ],
+    [ "PrepareSpellScript", "de/dd1/a16333.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
+    [ "Register", "de/dd1/a16333.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
 ];

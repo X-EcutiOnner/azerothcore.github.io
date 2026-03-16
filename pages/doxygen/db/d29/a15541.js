@@ -1,6 +1,7 @@
 var a15541 =
 [
-    [ "boss_veknilash", "db/d29/a15541.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
-    [ "IAmVeklor", "db/d29/a15541.html#a454027d829b962ee0feebb6fd5687714", null ],
-    [ "JustEngagedWith", "db/d29/a15541.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
+    [ "boss_rajaxx", "db/d29/a15541.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
+    [ "JustDied", "db/d29/a15541.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
+    [ "JustEngagedWith", "db/d29/a15541.html#a8dad79921559359b6aa7149641925fe5", null ],
+    [ "UpdateAI", "db/d29/a15541.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
 ];

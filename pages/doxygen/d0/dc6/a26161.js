@@ -1,8 +1,6 @@
 var a26161 =
 [
-    [ "HandleDummy", "d0/dc6/a26161.html#ae396c96647e36da357bdc70e11e3145f", null ],
-    [ "Load", "d0/dc6/a26161.html#a2b4811bf7e60361e13bc382e62173cee", null ],
-    [ "PrepareSpellScript", "d0/dc6/a26161.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
-    [ "Register", "d0/dc6/a26161.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
-    [ "count", "d0/dc6/a26161.html#a73358b2272ad12faef006b1ef633cac0", null ]
+    [ "CalculateDamage", "d0/dc6/a26161.html#a05c6a249b32f41d8d33b40d07bd3c44d", null ],
+    [ "PrepareSpellScript", "d0/dc6/a26161.html#ace682a64f3ca32e4f4151034ad936ea6", null ],
+    [ "Register", "d0/dc6/a26161.html#a6dc3beb1f857c2c2a719bd882cc3568d", null ]
 ];

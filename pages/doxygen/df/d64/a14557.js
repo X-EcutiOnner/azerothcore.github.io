@@ -1,7 +1,6 @@
 var a14557 =
 [
-    [ "GetEmptyEntry", "df/d64/a14557.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "df/d64/a14557.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "df/d64/a14557.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "df/d64/a14557.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "npc_ohganAI", "d9/dfd/a14561.html", "d9/dfd/a14561" ],
+    [ "npc_ohgan", "df/d64/a14557.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
+    [ "GetAI", "df/d64/a14557.html#a129dc2fcd449850403e0dcb99725da90", null ]
 ];

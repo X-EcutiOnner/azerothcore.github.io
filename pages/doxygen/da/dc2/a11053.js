@@ -1,8 +1,8 @@
 var a11053 =
 [
-    [ "MinimapPing", "da/dc2/a11053.html#a846074f55e6224bf322b96c7bfe9e008", null ],
-    [ "Write", "da/dc2/a11053.html#a94eb49e309ce83b04ccaf8f7e3e8bde7", null ],
-    [ "MapX", "da/dc2/a11053.html#ab747a36a7dfefb0692e8c6abb1d161e2", null ],
-    [ "MapY", "da/dc2/a11053.html#a2f8504ddba41dd09f69763d66331373b", null ],
-    [ "SourceGuid", "da/dc2/a11053.html#abf5d5980b360cbf9332460b01d5816f5", null ]
+    [ "SetDungeonDifficulty", "da/dc2/a11053.html#a3adea4e58ba48bc438e11056cb49e5ab", null ],
+    [ "Write", "da/dc2/a11053.html#a9e3eaebd002b3ed9599c9c2671f9b78e", null ],
+    [ "Difficulty", "da/dc2/a11053.html#a5e216ba7ada0d073b5aebaaa3f221752", null ],
+    [ "IsInGroup", "da/dc2/a11053.html#aff9bae997a9ff6dc64b7b60f736527d7", null ],
+    [ "Unk", "da/dc2/a11053.html#aea436cf338c4bd6b0d2dbc11edda9e3e", null ]
 ];

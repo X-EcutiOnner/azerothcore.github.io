@@ -1,12 +1,9 @@
 var a22725 =
 [
-    [ "boss_essence_of_angerAI", "df/d46/a22725.html#a25eed717395b4e1ca5504d2d473e2500", null ],
-    [ "DoAction", "df/d46/a22725.html#a81576aaf465dfc99d199aaf6a182df52", null ],
-    [ "JustDied", "df/d46/a22725.html#a997d75ad388e790f9863e1b15fa1c899", null ],
-    [ "JustEngagedWith", "df/d46/a22725.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
-    [ "KilledUnit", "df/d46/a22725.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
-    [ "Reset", "df/d46/a22725.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
-    [ "UpdateAI", "df/d46/a22725.html#a67e9f5a361894aa227f2a74f9222740d", null ],
-    [ "_recentlySpoken", "df/d46/a22725.html#a056aa8fd704d832e83735cf2a1a22888", null ],
-    [ "targetGUID", "df/d46/a22725.html#adc3867a4446375f1217809299f3dd9bb", null ]
+    [ "npc_flame_of_azzinoth", "df/d46/a22725.html#acdeb046c2214bd449257ba1b932c8a5c", null ],
+    [ "IsSummonedBy", "df/d46/a22725.html#a5254057af0371a08ea01fe91502c2a20", null ],
+    [ "JustEngagedWith", "df/d46/a22725.html#a24eba1a6cdea4971573a6f4b2dd34fb3", null ],
+    [ "JustSummoned", "df/d46/a22725.html#ad2e7085fcd985a08cc2e317485a8fff1", null ],
+    [ "UpdateAI", "df/d46/a22725.html#a7a1c9b967e6a79721dea8cbca44cbb5b", null ],
+    [ "_bladeGUID", "df/d46/a22725.html#ae797d929b0e9c8953a4c9efd392a21f3", null ]
 ];

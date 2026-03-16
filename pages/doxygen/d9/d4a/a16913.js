@@ -1,6 +1,7 @@
 var a16913 =
 [
-    [ "boss_dreadscaleAI", "d3/dd8/a16917.html", "d3/dd8/a16917" ],
-    [ "boss_dreadscale", "d9/d4a/a16913.html#ab3276e515419303358b0ee59bc92c12e", null ],
-    [ "GetAI", "d9/d4a/a16913.html#ab8c8cebfa6843404338ea5bc3ac8f3f7", null ]
+    [ "npc_toc_shadow_priestAI", "d9/d4a/a16913.html#af13a18be542fb314c19af52f89d216b8", null ],
+    [ "myCanCast", "d9/d4a/a16913.html#a83422ff3e140b57a484d98876a9a8070", null ],
+    [ "UpdateAI", "d9/d4a/a16913.html#afc23ba15d3ee925212e77b5211504c2b", null ],
+    [ "events", "d9/d4a/a16913.html#a31665a22920b416d7423958a3e2928ec", null ]
 ];

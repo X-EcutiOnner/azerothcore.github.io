@@ -1,16 +1,11 @@
 var a23469 =
 [
-    [ "boss_warchief_kargath_bladefist", "d1/d2f/a23469.html#a0957dbfd6c085575fa862f38c87b6b3d", null ],
-    [ "InitializeAI", "d1/d2f/a23469.html#a86d9b5b1500960235e76ae71337a6c90", null ],
-    [ "IsInRoom", "d1/d2f/a23469.html#af9d4bd9d94115a1040e1e4a4dbf8df83", null ],
-    [ "JustDied", "d1/d2f/a23469.html#a436b90336c90f6662f3ce704a62f0d90", null ],
-    [ "JustEngagedWith", "d1/d2f/a23469.html#ab3d7b0ebca4f8134e5c2f31422ff006b", null ],
-    [ "JustSummoned", "d1/d2f/a23469.html#aaa69f064d7eb3a0d107c835c806fa1de", null ],
-    [ "KilledUnit", "d1/d2f/a23469.html#a730bbd2f95a2919fba1a7300b4307b84", null ],
-    [ "MovementInform", "d1/d2f/a23469.html#a716eab9bda2b697252dde90aa513d7df", null ],
-    [ "Reset", "d1/d2f/a23469.html#a50fa7a5aed8d3f4916f0449c4fb075ac", null ],
-    [ "RespawnAssassins", "d1/d2f/a23469.html#a1397317259589ea69f77f52f60852043", null ],
-    [ "SummonedCreatureDies", "d1/d2f/a23469.html#a325da34f78d202708a58c1a543ecb8ca", null ],
-    [ "UpdateAI", "d1/d2f/a23469.html#acd463cac8e2fa8289ecb5567709db678", null ],
-    [ "_danceCount", "d1/d2f/a23469.html#af4a60caaef6388caff973295e3397a7d", null ]
+    [ "boss_high_king_maulgar", "d1/d2f/a23469.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
+    [ "DoAction", "d1/d2f/a23469.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
+    [ "JustDied", "d1/d2f/a23469.html#ad235febd755745313b72394c633c3723", null ],
+    [ "JustEngagedWith", "d1/d2f/a23469.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
+    [ "KilledUnit", "d1/d2f/a23469.html#a2059016597039929103c053d6524ebf7", null ],
+    [ "Reset", "d1/d2f/a23469.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
+    [ "UpdateAI", "d1/d2f/a23469.html#ae540909dbbb3cf93e37503cd755c3001", null ],
+    [ "_recentlySpoken", "d1/d2f/a23469.html#a306f8492d83703b339a8fbe044e0cbbd", null ]
 ];

@@ -1,12 +1,8 @@
 var a29249 =
 [
-    [ "npc_elder_clearwaterAI", "d4/d97/a29249.html#a4de89cf4a18918d577be4ac5cc55ba5a", null ],
-    [ "DoAction", "d4/d97/a29249.html#ac46b0f66be3074f73f5a69cffee6d354", null ],
-    [ "GetData", "d4/d97/a29249.html#a077c02bf06b16439225a5cf8d83babf2", null ],
-    [ "UpdateAI", "d4/d97/a29249.html#afbec3c78d34ce4d11a11b56064f343f3", null ],
-    [ "events", "d4/d97/a29249.html#a267fec22dc3d7272cae74267d0567618", null ],
-    [ "finished", "d4/d97/a29249.html#af51d6abb8fc8b59d068156a4859a377e", null ],
-    [ "finishWarning", "d4/d97/a29249.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc", null ],
-    [ "preWarning", "d4/d97/a29249.html#a64abe15565c7e97a3a0ef195d436fedc", null ],
-    [ "startWarning", "d4/d97/a29249.html#a01545211dec4338ac44304ebc7f18a97", null ]
+    [ "areaTriggerText", "d4/d97/a29249.html#a32bb8c4a4defce661d108627e25b645a", null ],
+    [ "Difficulty", "d4/d97/a29249.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
+    [ "MapId", "d4/d97/a29249.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
+    [ "maxPlayers", "d4/d97/a29249.html#a7ab33229ffee11a27861439053c79831", null ],
+    [ "resetTime", "d4/d97/a29249.html#a891a741efb049b51996e1a6110efc52d", null ]
 ];

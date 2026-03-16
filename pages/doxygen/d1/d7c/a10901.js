@@ -1,6 +1,6 @@
 var a10901 =
 [
-    [ "PlayerSaveGuildEmblem", "d1/d7c/a10901.html#ae1269fb7583f0ce1703cd89d592b1485", null ],
-    [ "Write", "d1/d7c/a10901.html#a0427be2f46cba4ff6b2ca072924bca7b", null ],
-    [ "Error", "d1/d7c/a10901.html#a76930d3b74bf7b84a311b24b53d03b21", null ]
+    [ "GuildEventLogQueryResults", "d1/d7c/a10901.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
+    [ "Write", "d1/d7c/a10901.html#aa24738cdd040a883782b50189abdf240", null ],
+    [ "Entry", "d1/d7c/a10901.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
 ];

@@ -1,8 +1,8 @@
 var a22605 =
 [
-    [ "HandleScriptEffect", "d8/d07/a22605.html#a8e5b81581fff787f691521d03fed66fc", null ],
-    [ "Load", "d8/d07/a22605.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
-    [ "PrepareSpellScript", "d8/d07/a22605.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
-    [ "Register", "d8/d07/a22605.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
-    [ "Validate", "d8/d07/a22605.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
+    [ "boss_tavarok", "d8/d07/a22605.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
+    [ "JustDied", "d8/d07/a22605.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
+    [ "JustEngagedWith", "d8/d07/a22605.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
+    [ "KilledUnit", "d8/d07/a22605.html#a2c99df9457c548ee562fde920592ea88", null ],
+    [ "Reset", "d8/d07/a22605.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
 ];

@@ -1,8 +1,7 @@
 var a23385 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "d5/d79/a23385.html#aebc047b45cb4560a38df89db75f8efab", null ],
-    [ "Initialize", "d5/d79/a23385.html#a115a36ec26e15e23be4d78250d86d814", null ],
-    [ "OnGameObjectCreate", "d5/d79/a23385.html#a0639fcd867616d1f04aacde44020bb30", null ],
-    [ "SetBossState", "d5/d79/a23385.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
-    [ "felIronChestGUID", "d5/d79/a23385.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
+    [ "npc_underbog_mushroom", "d5/d79/a23385.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
+    [ "InitializeAI", "d5/d79/a23385.html#a7c192010cc63715eaa3f38b1d1372936", null ],
+    [ "UpdateAI", "d5/d79/a23385.html#a9a8ed51b12809152ebe78dda69944d77", null ],
+    [ "_scheduler", "d5/d79/a23385.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
 ];

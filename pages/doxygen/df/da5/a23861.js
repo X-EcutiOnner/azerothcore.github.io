@@ -1,6 +1,6 @@
 var a23861 =
 [
-    [ "go_magtheridons_head", "df/da5/a23861.html#af5816b083f1856196bec7a75f0a995f3", null ],
-    [ "InitializeAI", "df/da5/a23861.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
-    [ "OnStateChanged", "df/da5/a23861.html#a28682d161074b71e1f2d70236ff2b897", null ]
+    [ "HandleScriptEffect", "df/da5/a23861.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
+    [ "PrepareSpellScript", "df/da5/a23861.html#af475c0968aabaf56e8ca38950ad651f0", null ],
+    [ "Register", "df/da5/a23861.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
 ];

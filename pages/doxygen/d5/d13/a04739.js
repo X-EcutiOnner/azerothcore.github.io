@@ -1,5 +1,6 @@
 var a04739 =
 [
-    [ "disable_commandscript", "d1/de7/a12130.html", "d1/de7/a12130" ],
-    [ "AddSC_disable_commandscript", "d5/d13/a04739.html#a232e1ddbf34ceae5a317df69255bc8de", null ]
+    [ "debug_commandscript", "d3/d54/a12101.html", "d3/d54/a12101" ],
+    [ "debug_commandscript::CreatureCountWorker", "dd/dad/a12105.html", "dd/dad/a12105" ],
+    [ "AddSC_debug_commandscript", "d5/d13/a04739.html#abae44bbc8eb2fb66a5596017ea83583f", null ]
 ];

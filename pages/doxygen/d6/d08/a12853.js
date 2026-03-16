@@ -1,6 +1,5 @@
 var a12853 =
 [
-    [ "boss_sulfuronAI", "d6/d08/a12853.html#a63c76fb94131830924e2bf77477261ba", null ],
-    [ "ExecuteEvent", "d6/d08/a12853.html#ae038aa8140f5b4128c39c592966321f1", null ],
-    [ "JustEngagedWith", "d6/d08/a12853.html#a35394690b8d25529c91c147025f6ad92", null ]
+    [ "at_orb_of_command", "d6/d08/a12853.html#a1f0b196362b76e050eba66d3ce612623", null ],
+    [ "OnTrigger", "d6/d08/a12853.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
 ];

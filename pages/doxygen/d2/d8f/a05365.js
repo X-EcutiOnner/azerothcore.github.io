@@ -1,13 +1,17 @@
 var a05365 =
 [
-    [ "MPSCQueueIntrusive", "d2/d8f/a05365.html#a8e05361abed759932c49b0fc71ed09c1", null ],
-    [ "~MPSCQueueIntrusive", "d2/d8f/a05365.html#a8155857825ceb1b7154ea82a63dbce08", null ],
-    [ "MPSCQueueIntrusive", "d2/d8f/a05365.html#afaee06af7734e53ce50674e4ef7277b2", null ],
-    [ "Dequeue", "d2/d8f/a05365.html#a798e36f41ef34c226690f76e9dc03fd6", null ],
-    [ "Enqueue", "d2/d8f/a05365.html#a233004b906cfa66cdd285233105dddf7", null ],
-    [ "operator=", "d2/d8f/a05365.html#a93cdd07d00b7dff8a7da5bf4846b26c7", null ],
-    [ "_dummy", "d2/d8f/a05365.html#ad4d3a9cebe46fc524e474b7854a20b03", null ],
-    [ "_dummyPtr", "d2/d8f/a05365.html#a115e9affe6159ae8aa08c6fc358e400c", null ],
-    [ "_head", "d2/d8f/a05365.html#a7fb32fbb507e82f9e8a6c1691e281fcd", null ],
-    [ "_tail", "d2/d8f/a05365.html#ac7e333db415e6301a02052c53779d1d4", null ]
+    [ "Reloadable", "d2/d8f/a05365.html#a5ce3ea201b2a7f6bc16e5594e001680b", [
+      [ "No", "d2/d8f/a05365.html#a5ce3ea201b2a7f6bc16e5594e001680babafd7322c6e97d25b6299b5d6fe8920b", null ],
+      [ "Yes", "d2/d8f/a05365.html#a5ce3ea201b2a7f6bc16e5594e001680ba93cba07454f06a4a960172bbd6e2a435", null ]
+    ] ],
+    [ "ConfigValueCache", "d2/d8f/a05365.html#afc10aa10787175aac1155ab576c44868", null ],
+    [ "BuildConfigCache", "d2/d8f/a05365.html#a8e49c987c471c98f707ffc8c697d959d", null ],
+    [ "GetConfigValue", "d2/d8f/a05365.html#a274d23acbfb0b10d6b1482bf37b41b0c", null ],
+    [ "GetConfigValue", "d2/d8f/a05365.html#a9a3a6bb71fd3c695625d5dc64525fb51", null ],
+    [ "Initialize", "d2/d8f/a05365.html#a3645d00d7d88bac526ab2da095e2893e", null ],
+    [ "OverwriteConfigValue", "d2/d8f/a05365.html#a38f4fd18a5b1bcf1a87736b6e7bf52cf", null ],
+    [ "SetConfigValue", "d2/d8f/a05365.html#a2fd376bdf015db27133e636c3051410f", null ],
+    [ "VerifyAllConfigsLoaded", "d2/d8f/a05365.html#a69bceb7d8f714b478dfe6e6aea29c65a", null ],
+    [ "_configs", "d2/d8f/a05365.html#aaca9aa5722cca588ed3149dc5b5098f3", null ],
+    [ "_reloading", "d2/d8f/a05365.html#a70b2a229ff1caa9924f404f5b98cf801", null ]
 ];

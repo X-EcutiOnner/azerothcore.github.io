@@ -1,9 +1,8 @@
 var a13929 =
 [
-    [ "npc_partygoer", "d2/da7/a13929.html#af053caedfd1fa8173b875f521d279418", null ],
-    [ "Initialize", "d2/da7/a13929.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
-    [ "Reset", "d2/da7/a13929.html#ad1936099ec5696a2a593e5041b0360c6", null ],
-    [ "UpdateAI", "d2/da7/a13929.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
-    [ "_events", "d2/da7/a13929.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
-    [ "_facing", "d2/da7/a13929.html#a9e934091894987ec091b03090bf733e5", null ]
+    [ "HandleApply", "d2/da7/a13929.html#a717e3428afd59fa3a5e9916887d88273", null ],
+    [ "HandleRemove", "d2/da7/a13929.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
+    [ "PrepareAuraScript", "d2/da7/a13929.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
+    [ "Register", "d2/da7/a13929.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
+    [ "Validate", "d2/da7/a13929.html#a393a46618a4e1928b8149e04b4823726", null ]
 ];

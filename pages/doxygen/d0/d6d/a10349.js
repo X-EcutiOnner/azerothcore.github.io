@@ -1,8 +1,12 @@
 var a10349 =
 [
-    [ "AllCommandScript", "d0/d6d/a10349.html#a7ff235b904eecdd4d02d2025c4078980", null ],
-    [ "IsDatabaseBound", "d0/d6d/a10349.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
-    [ "OnBeforeIsInvokerVisible", "d0/d6d/a10349.html#a6f85dc271c1b61244978aa4474e708b0", null ],
-    [ "OnHandleDevCommand", "d0/d6d/a10349.html#aba983f0e052ece230617573f04a35c92", null ],
-    [ "OnTryExecuteCommand", "d0/d6d/a10349.html#a3a116836453073e77bbd8ab974f36f47", null ]
+    [ "FacingInfo", "d0/d6d/a10349.html#a1ac825c359704924c66e46eada64e34e", null ],
+    [ "FacingInfo", "d0/d6d/a10349.html#a7820b3ce134dcca05b9b15299eb3b33f", null ],
+    [ "FacingInfo", "d0/d6d/a10349.html#add6411db27c1d313d2f133adf0c35755", null ],
+    [ "angle", "d0/d6d/a10349.html#ac56b304c2c5df7ab72c6fcbd2f845b02", null ],
+    [ "f", "d0/d6d/a10349.html#af41097f42424a48c36a0fde07bd13d4a", null ],
+    [ "target", "d0/d6d/a10349.html#a064b5265b4bb2a0053908bf6031b8f65", null ],
+    [ "x", "d0/d6d/a10349.html#ac08687158cc0bcfbc9814b1cbbe95684", null ],
+    [ "y", "d0/d6d/a10349.html#ad7fcfb6b1c5402a0570748d343eadfcc", null ],
+    [ "z", "d0/d6d/a10349.html#a5ff017b732d47684f675041e44227754", null ]
 ];

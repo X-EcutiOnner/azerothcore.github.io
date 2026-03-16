@@ -1,6 +1,6 @@
 var a24973 =
 [
-    [ "HandleScript", "d5/dd6/a24973.html#af6d3dd97d3254dbfcd6b611b26e0e61d", null ],
-    [ "PrepareSpellScript", "d5/dd6/a24973.html#a59b5637aa8a29611463fbaabc6db2bb8", null ],
-    [ "Register", "d5/dd6/a24973.html#a54bb0fe145f99ea484724052c8bb1227", null ]
+    [ "PrepareSpellScript", "d5/dd6/a24973.html#ae8ef8bea1a6afa3f810c476e038bacc6", null ],
+    [ "RecalculateDamage", "d5/dd6/a24973.html#a856fdecdde1c68a163caf61afb2b0b90", null ],
+    [ "Register", "d5/dd6/a24973.html#a7f8c5c4920a87605b716e9e85b43ef47", null ]
 ];

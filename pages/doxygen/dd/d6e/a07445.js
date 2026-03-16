@@ -1,5 +1,10 @@
 var a07445 =
 [
-    [ "CanAnnounce", "dd/d6e/a07445.html#ab791cf85fc2e08330d3f777e1797c01c", null ],
-    [ "instance", "dd/d6e/a07445.html#ad76f570ce82ffcde5484e612c10c6f59", null ]
+    [ "CreatureBottom", "dd/d6e/a07445.html#aaa8fe59aa58bf02934bf87f636582637", null ],
+    [ "CreatureTop", "dd/d6e/a07445.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
+    [ "GameObject", "dd/d6e/a07445.html#abc26a328692fc048d9040c44f360f4c4", null ],
+    [ "nbCreatureBottom", "dd/d6e/a07445.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
+    [ "nbCreatureTop", "dd/d6e/a07445.html#a38ab7536e0682efd7080b823569d504b", null ],
+    [ "nbObject", "dd/d6e/a07445.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
+    [ "towerEntry", "dd/d6e/a07445.html#a1c0edf97a599773b688954f2e966e794", null ]
 ];

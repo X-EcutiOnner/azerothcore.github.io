@@ -1,8 +1,7 @@
 var a11389 =
 [
-    [ "SkillPerfectItemEntry", "d2/dbf/a11389.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
-    [ "SkillPerfectItemEntry", "d2/dbf/a11389.html#a678f9908440187faad38c0e1ffaf82de", null ],
-    [ "perfectCreateChance", "d2/dbf/a11389.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
-    [ "perfectItemType", "d2/dbf/a11389.html#a057605f8867d4df5cb290318598a2908", null ],
-    [ "requiredSpecialization", "d2/dbf/a11389.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
+    [ "UpdateWorldState", "d2/dbf/a11389.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
+    [ "Write", "d2/dbf/a11389.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
+    [ "Value", "d2/dbf/a11389.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
+    [ "VariableID", "d2/dbf/a11389.html#aa73278b324822f509f48e6edcdaed457", null ]
 ];

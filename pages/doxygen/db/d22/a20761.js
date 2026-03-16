@@ -1,11 +1,9 @@
 var a20761 =
 [
-    [ "boss_yoggsaron_neltharion", "db/d22/a20761.html#ac7ef088876e15e5edc94e4bd92b7f39d", null ],
-    [ "NextStep", "db/d22/a20761.html#ac0824d322b7e5825686e8a5c2dd4ec94", null ],
-    [ "Reset", "db/d22/a20761.html#ab26d57690c1d2477678dc9759aefeab2", null ],
-    [ "Say", "db/d22/a20761.html#a79d315f37b0f0beceddcae85dcb8697f", null ],
-    [ "UpdateAI", "db/d22/a20761.html#a3728f095ee83c3ea9063b1679f1b3dc9", null ],
-    [ "_checkTimer", "db/d22/a20761.html#a2adcf3f46d4003ae2044eda474e51983", null ],
-    [ "_running", "db/d22/a20761.html#acd807afae6aa88c2e385765231a56a86", null ],
-    [ "_step", "db/d22/a20761.html#a4e4265f17cbc8cfc3dbe09dca7af7939", null ]
+    [ "boss_thorim_gauntlet_npcs", "db/d22/a20761.html#a72ed22f7536d488f886fb42ab3fc84bb", null ],
+    [ "JustEngagedWith", "db/d22/a20761.html#af10a444bada5743c837a9979726c79c9", null ],
+    [ "Reset", "db/d22/a20761.html#a22fcffcc05f155524cadade389ec3607", null ],
+    [ "UpdateAI", "db/d22/a20761.html#a86cec45bbbb8e904200ee0bcc6e44822", null ],
+    [ "_isCaster", "db/d22/a20761.html#a1562e3ba5a7559f6eba9c3a0240a1e20", null ],
+    [ "events", "db/d22/a20761.html#aec35e2b91841c386f083681673e15598", null ]
 ];

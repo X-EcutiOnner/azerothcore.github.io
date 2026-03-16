@@ -1,6 +1,5 @@
 var a10905 =
 [
-    [ "InstanceReset", "d1/d23/a10905.html#ab1ff5009dc40f18c30941e327e5c3863", null ],
-    [ "Write", "d1/d23/a10905.html#a0809c4de226d3aaab9817c393cef6055", null ],
-    [ "MapId", "d1/d23/a10905.html#a7b80bb32e524fe1d0ddadf955f1ec4a2", null ]
+    [ "GuildPermissionsQuery", "d1/d23/a10905.html#a6ab30e173d26362db0065f4f9f8fa5f8", null ],
+    [ "Read", "d1/d23/a10905.html#aec20af8c3c8236627353287fe2eaa0a7", null ]
 ];

@@ -1,6 +1,6 @@
 var a23029 =
 [
-    [ "FilterTargets", "de/d83/a23029.html#af545460920658bc8ee0444f7c0d51970", null ],
-    [ "PrepareSpellScript", "de/d83/a23029.html#a0bf365a43b99905fb7ae8152fe5b2687", null ],
-    [ "Register", "de/d83/a23029.html#ac12cde698f5b0bbcdf433821772c7519", null ]
+    [ "HandleEffectRemove", "de/d83/a23029.html#a99f96034b5976615c38e13e5e55c61b6", null ],
+    [ "PrepareAuraScript", "de/d83/a23029.html#a0515a72abd37df13606876021659b995", null ],
+    [ "Register", "de/d83/a23029.html#ad7c8338ae3f3e6680405652c3e5f7f06", null ]
 ];

@@ -1,7 +1,7 @@
 var a23881 =
 [
-    [ "npc_kurenai_captiveAI", "dc/d32/a23885.html", "dc/d32/a23885" ],
-    [ "npc_kurenai_captive", "d0/d92/a23881.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
-    [ "GetAI", "d0/d92/a23881.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
-    [ "OnQuestAccept", "d0/d92/a23881.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
+    [ "boss_gatewatcher_iron_hand", "d0/d92/a23881.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "d0/d92/a23881.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "d0/d92/a23881.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "d0/d92/a23881.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

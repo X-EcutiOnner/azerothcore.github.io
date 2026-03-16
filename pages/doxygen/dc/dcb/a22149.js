@@ -1,7 +1,5 @@
 var a22149 =
 [
-    [ "HandleDummy", "dc/dcb/a22149.html#acdf98990ad575fec751a541cac3bcffa", null ],
-    [ "PrepareSpellScript", "dc/dcb/a22149.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
-    [ "Register", "dc/dcb/a22149.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
-    [ "Validate", "dc/dcb/a22149.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
+    [ "go_pressure_valve", "dc/dcb/a22149.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
+    [ "OnGossipHello", "dc/dcb/a22149.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
 ];

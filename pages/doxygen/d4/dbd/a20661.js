@@ -1,7 +1,5 @@
 var a20661 =
 [
-    [ "npc_xt002_life_spark", "d4/dbd/a20661.html#ac524bfb0dd21bb59d4c602db04f14f64", null ],
-    [ "Reset", "d4/dbd/a20661.html#aa1bd9ed78b8586b46d297f186c9c430c", null ],
-    [ "UpdateAI", "d4/dbd/a20661.html#ab6f284dd4d5dad3d38bae062abe544fa", null ],
-    [ "_attackTimer", "d4/dbd/a20661.html#aa8b46e7a044c90fe9e342e9bffe7e4dc", null ]
+    [ "npc_ulduar_flames_spread", "d4/dbd/a20661.html#a8309d2c6a0d7ad7a7dc2111c709bf45f", null ],
+    [ "SpellHit", "d4/dbd/a20661.html#af8cad4be1736f377721b7a0a63cfafe7", null ]
 ];

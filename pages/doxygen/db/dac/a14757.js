@@ -1,10 +1,7 @@
 var a14757 =
 [
-    [ "boss_headless_horseman_pumpkin", "db/dac/a14757.html#a62191ae523401ac57a947db96a245f7a", null ],
-    [ "AttackStart", "db/dac/a14757.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
-    [ "MoveInLineOfSight", "db/dac/a14757.html#a212f9803f66d297cd276ef842247776a", null ],
-    [ "Reset", "db/dac/a14757.html#a9d5f6922a52146b61168f1c50b378294", null ],
-    [ "SpellHit", "db/dac/a14757.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
-    [ "UpdateAI", "db/dac/a14757.html#aca53b8839bce5e180ba8583490d694c3", null ],
-    [ "timer", "db/dac/a14757.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
+    [ "HandleScriptEffect", "db/dac/a14757.html#ae758c224878aebdde0124b5d4ec902a5", null ],
+    [ "PrepareSpellScript", "db/dac/a14757.html#ac3755ef09a905d90ce7df328b83d51aa", null ],
+    [ "Register", "db/dac/a14757.html#a051d0fe383e5675e39e4ac8ed7a6e329", null ],
+    [ "Validate", "db/dac/a14757.html#a56f71954e122f651c6e2ec68453e16cc", null ]
 ];

@@ -1,9 +1,6 @@
 var a20157 =
 [
-    [ "Absorb", "dc/df0/a20157.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
-    [ "CalculateAmount", "dc/df0/a20157.html#a9166627cbaa536405975444c4ef601de", null ],
-    [ "Load", "dc/df0/a20157.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
-    [ "PrepareAuraScript", "dc/df0/a20157.html#aa5793741c2f8179db68a9fb1222a9085", null ],
-    [ "Register", "dc/df0/a20157.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
-    [ "_absorbPct", "dc/df0/a20157.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
+    [ "CastRunesEvent", "dc/df0/a20157.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
+    [ "Execute", "dc/df0/a20157.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
+    [ "_owner", "dc/df0/a20157.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
 ];

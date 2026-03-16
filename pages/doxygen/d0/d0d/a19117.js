@@ -1,9 +1,6 @@
 var a19117 =
 [
-    [ "npc_icc_skybreaker_vicarAI", "d0/d0d/a19117.html#ae74a306850b328f536b55e5c24c040ab", null ],
-    [ "AttackStart", "d0/d0d/a19117.html#a52b753e1f599eb02385d980a78cd3c78", null ],
-    [ "JustEngagedWith", "d0/d0d/a19117.html#afdb4215cd0578de7342b152783666ed6", null ],
-    [ "Reset", "d0/d0d/a19117.html#aeb11687534fa7c1e76ea22cc07deb73d", null ],
-    [ "UpdateAI", "d0/d0d/a19117.html#af1726169fe63eb3ff1ed95eb0e10d2f0", null ],
-    [ "events", "d0/d0d/a19117.html#a711d9571b4edb87f77eeebbd12e248b3", null ]
+    [ "npc_captain_arnathAI", "d3/d93/a19121.html", "d3/d93/a19121" ],
+    [ "npc_captain_arnath", "d0/d0d/a19117.html#ab96afce64a7714ea84bab932f80c9302", null ],
+    [ "GetAI", "d0/d0d/a19117.html#a302ec007389e677011334d78f410207b", null ]
 ];

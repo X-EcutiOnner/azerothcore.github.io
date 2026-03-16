@@ -1,7 +1,6 @@
 var a02636 =
 [
-    [ "FieldTypeToString", "dd/d32/a02636.html#a9b1d39b7abfe176191c0ed27188ed310", null ],
-    [ "InitializeDatabaseFieldMetadata", "dd/d32/a02636.html#a5e0e57902060d1fcd32688acb949b98e", null ],
-    [ "MysqlTypeToFieldType", "dd/d32/a02636.html#a1a26932646b97d033efdf53078561a90", null ],
-    [ "SizeForType", "dd/d32/a02636.html#ae077e892df09ce687a0a50be949ad69f", null ]
+    [ "DatabaseWorkerPool< T >", "d9/d67/a05937.html", "d9/d67/a05937" ],
+    [ "MIN_MYSQL_CLIENT_VERSION", "dd/d32/a02636.html#abfde8cf59610848eff4ea61d09bb8ca7", null ],
+    [ "MIN_MYSQL_SERVER_VERSION", "dd/d32/a02636.html#acd4a83e86313ca0bb35cb66497bc79b2", null ]
 ];

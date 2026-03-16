@@ -1,7 +1,6 @@
 var a17825 =
 [
-    [ "ExtraEffect", "d8/d16/a17825.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
-    [ "PrepareAuraScript", "d8/d16/a17825.html#a53d6013e5ec473854e1537969cb31988", null ],
-    [ "Register", "d8/d16/a17825.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
-    [ "Validate", "d8/d16/a17825.html#ab14e7410cf542d9f4043800a3b86c664", null ]
+    [ "OnAbsorb", "d8/d16/a17825.html#aa6582457cd0502ca263433d04b40b64f", null ],
+    [ "PrepareAuraScript", "d8/d16/a17825.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
+    [ "Register", "d8/d16/a17825.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
 ];

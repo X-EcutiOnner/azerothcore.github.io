@@ -1,7 +1,8 @@
 var a21897 =
 [
-    [ "Absorb", "dc/d88/a21897.html#a784b48553696734abac77545df2fc045", null ],
-    [ "CalculateAmount", "dc/d88/a21897.html#a456ee99a71062f6217bda7561e4e7766", null ],
-    [ "PrepareAuraScript", "dc/d88/a21897.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
-    [ "Register", "dc/d88/a21897.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
+    [ "npc_ravenous_worgAI", "dc/d88/a21897.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "dc/d88/a21897.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "dc/d88/a21897.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "dc/d88/a21897.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "dc/d88/a21897.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

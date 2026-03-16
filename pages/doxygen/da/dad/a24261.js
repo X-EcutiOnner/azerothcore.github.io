@@ -1,6 +1,5 @@
 var a24261 =
 [
-    [ "FilterTargets", "da/dad/a24261.html#adab73c94c659d7421c9c6887d956cd83", null ],
-    [ "PrepareSpellScript", "da/dad/a24261.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
-    [ "Register", "da/dad/a24261.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
+    [ "npc_shattrath_daily_quest", "da/dad/a24261.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "da/dad/a24261.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

@@ -1,7 +1,6 @@
 var a17441 =
 [
-    [ "HandleEffectPeriodic", "d6/de0/a17441.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
-    [ "PrepareAuraScript", "d6/de0/a17441.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
-    [ "Register", "d6/de0/a17441.html#a5a44978cec95fef30c9ea4308bda2508", null ],
-    [ "Validate", "d6/de0/a17441.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
+    [ "npc_hor_lumbering_abominationAI", "d3/d17/a17445.html", "d3/d17/a17445" ],
+    [ "npc_hor_lumbering_abomination", "d6/de0/a17441.html#a0d394d1ba52a05a6db0ae983daea7123", null ],
+    [ "GetAI", "d6/de0/a17441.html#a0601ac0af85e545617013846c48de29a", null ]
 ];

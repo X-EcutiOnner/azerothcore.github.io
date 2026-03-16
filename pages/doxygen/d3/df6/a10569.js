@@ -1,9 +1,13 @@
 var a10569 =
 [
-    [ "fX", "d3/df6/a10569.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
-    [ "fY", "d3/df6/a10569.html#a9b158e247014eec0d35e465ab9469ac7", null ],
-    [ "fZ", "d3/df6/a10569.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
-    [ "uiCreatureEntry", "d3/df6/a10569.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
-    [ "uiPointId", "d3/df6/a10569.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
-    [ "uiWaitTime", "d3/df6/a10569.html#a305620aad71152c1139a88dea05a1887", null ]
+    [ "FormulaScript", "d3/df6/a10569.html#a0c850c1a09bc78a4ceee5f27615d50d7", null ],
+    [ "OnAfterArenaRatingCalculation", "d3/df6/a10569.html#aa3510b1cfb4661cf6028e1b9f443c865", null ],
+    [ "OnBaseGainCalculation", "d3/df6/a10569.html#ab154eaf469d5fe3e86c364940816270a", null ],
+    [ "OnBeforeUpdatingPersonalRating", "d3/df6/a10569.html#a2208a5684c95b936aa9ca1ae863d9682", null ],
+    [ "OnColorCodeCalculation", "d3/df6/a10569.html#a83893099062d1fb7ce69fe38bf8c4699", null ],
+    [ "OnGainCalculation", "d3/df6/a10569.html#aa83fab65cc89bd03021da2805e935ffb", null ],
+    [ "OnGrayLevelCalculation", "d3/df6/a10569.html#affeb57234f961b9e01f5898c7738f38f", null ],
+    [ "OnGroupRateCalculation", "d3/df6/a10569.html#a1098d29595b4f9206cccf3c3c1dad5f3", null ],
+    [ "OnHonorCalculation", "d3/df6/a10569.html#a54a5e523ad5a9d3eb2dd061ced2d209f", null ],
+    [ "OnZeroDifferenceCalculation", "d3/df6/a10569.html#a7755c35bc56e6645e36de08c12a4847d", null ]
 ];

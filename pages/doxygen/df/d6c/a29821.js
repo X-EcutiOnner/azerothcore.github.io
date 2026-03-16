@@ -1,7 +1,25 @@
 var a29821 =
 [
-    [ "EmoteType", "df/d6c/a29821.html#a2d319652021081fdb02472c32a28e318", null ],
-    [ "Flags", "df/d6c/a29821.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
-    [ "Id", "df/d6c/a29821.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
-    [ "UnitStandState", "df/d6c/a29821.html#ada83e548faa01917a5db19eaa15dbbec", null ]
+    [ "AddsValueBeyondDBC", "df/d6c/a29821.html#ada68807ba3950313c5a7652a7fe85c40", null ],
+    [ "HasDBCData", "df/d6c/a29821.html#a70c20b8efd966a3051591e4292957f21", null ],
+    [ "ToSpellProcEntry", "df/d6c/a29821.html#a70ebb9c47633f6c55f863593d1f1b0d7", null ],
+    [ "AttributesMask", "df/d6c/a29821.html#a32a562ccd8812c33b385fb6a4812693f", null ],
+    [ "Chance", "df/d6c/a29821.html#a9e4e897bb784e63d991e76f8efd393ab", null ],
+    [ "Charges", "df/d6c/a29821.html#a1795067c9622f90fe10afaa9086729d2", null ],
+    [ "Cooldown", "df/d6c/a29821.html#a8ae054e7700edebf204b6b9d5285b570", null ],
+    [ "DBC_ProcChance", "df/d6c/a29821.html#a687725337f68ab28c9f862997666b979", null ],
+    [ "DBC_ProcCharges", "df/d6c/a29821.html#a674bdd693e94bea55c93985a04a3cde5", null ],
+    [ "DBC_ProcFlags", "df/d6c/a29821.html#aba345f90612d66a1ae8ff83b863c3752", null ],
+    [ "DisableEffectsMask", "df/d6c/a29821.html#a255f45e42d9ad7f4a1a71b12289f6280", null ],
+    [ "HitMask", "df/d6c/a29821.html#aac7528939d9f28432649a5e947cb112b", null ],
+    [ "ProcFlags", "df/d6c/a29821.html#ac62ba46b22a759991731a15b17ccf3d9", null ],
+    [ "ProcsPerMinute", "df/d6c/a29821.html#a1005dd21ca315c4ee18cc1f0b1147590", null ],
+    [ "SchoolMask", "df/d6c/a29821.html#ab76502dd0f6d6e9fa8608800547b097c", null ],
+    [ "SpellFamilyMask0", "df/d6c/a29821.html#a8b316b64763de61fabe8eee119a3c33b", null ],
+    [ "SpellFamilyMask1", "df/d6c/a29821.html#a0f2454783d5fcd2b751b40b8e32d8476", null ],
+    [ "SpellFamilyMask2", "df/d6c/a29821.html#a74093101a8fe41b8bb641da9957d6ef2", null ],
+    [ "SpellFamilyName", "df/d6c/a29821.html#a11a0c26f6d3e6f3b8e47e1c968841094", null ],
+    [ "SpellId", "df/d6c/a29821.html#ad78ff047d8971788febae990abc86698", null ],
+    [ "SpellPhaseMask", "df/d6c/a29821.html#ab2356da98d2b2c9d250d1c86056a427c", null ],
+    [ "SpellTypeMask", "df/d6c/a29821.html#a8ac8ca4ac8ed7eb60de720bb0bac36b1", null ]
 ];

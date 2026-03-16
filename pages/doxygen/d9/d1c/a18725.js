@@ -1,5 +1,6 @@
 var a18725 =
 [
-    [ "npc_icc_lk_checktargetAI", "d9/d1c/a18725.html#a9a5953a9353be61a3fa96eaf7df7c489", null ],
-    [ "CanAIAttack", "d9/d1c/a18725.html#a4dfce75e23f1093c3de0ce75b049a20a", null ]
+    [ "npc_shambling_horror_iccAI", "d5/dea/a18729.html", "d5/dea/a18729" ],
+    [ "npc_shambling_horror_icc", "d9/d1c/a18725.html#a68219e0c6e79f5e7bed1f353d7bb5bcb", null ],
+    [ "GetAI", "d9/d1c/a18725.html#a96fd525fcb34e793b1fc3fc5179e92ec", null ]
 ];

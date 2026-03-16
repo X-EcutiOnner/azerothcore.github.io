@@ -1,5 +1,5 @@
 var a28025 =
 [
-    [ "Id", "d1/d9f/a28025.html#a79e4b857b811a044aed0ce33422df801", null ],
-    [ "quality_mod", "d1/d9f/a28025.html#a756e7b316cc365f15f24e5e4637303a6", null ]
+    [ "AreaTrigger_at_legion_teleporter", "d1/d9f/a28025.html#a2b648bd038f41025c19338367c696d25", null ],
+    [ "OnTrigger", "d1/d9f/a28025.html#ae8239e5ad56d93627102dbd02989353d", null ]
 ];

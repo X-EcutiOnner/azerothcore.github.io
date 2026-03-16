@@ -1,6 +1,6 @@
 var a12997 =
 [
-    [ "FilterTargets", "dc/d21/a12997.html#adae7a812a222a60f9c89cac4ea327011", null ],
-    [ "PrepareSpellScript", "dc/d21/a12997.html#a9576a48a3aa761c103f72586cd93970c", null ],
-    [ "Register", "dc/d21/a12997.html#aaadad68c322eac268ea7a45f9c369c59", null ]
+    [ "boss_sulfuronAI", "dc/d21/a12997.html#a63c76fb94131830924e2bf77477261ba", null ],
+    [ "ExecuteEvent", "dc/d21/a12997.html#ae038aa8140f5b4128c39c592966321f1", null ],
+    [ "JustEngagedWith", "dc/d21/a12997.html#a35394690b8d25529c91c147025f6ad92", null ]
 ];

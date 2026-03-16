@@ -1,6 +1,6 @@
 var a21129 =
 [
-    [ "npc_frozen_orb_stalkerAI", "d8/d81/a21129.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
-    [ "JustSummoned", "d8/d81/a21129.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
-    [ "Reset", "d8/d81/a21129.html#a064ccb90afeb9b36d501850482c60bc4", null ]
+    [ "npc_massive_jormungarAI", "d7/d3f/a21133.html", "d7/d3f/a21133" ],
+    [ "npc_massive_jormungar", "d8/d81/a21129.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
+    [ "GetAI", "d8/d81/a21129.html#a68e3557e967ef633ba59fa81e661b80c", null ]
 ];

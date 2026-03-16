@@ -1,10 +1,6 @@
 var a15717 =
 [
-    [ "npc_murkdeepAI", "dd/df2/a15717.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
-    [ "JustEngagedWith", "dd/df2/a15717.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
-    [ "Reset", "dd/df2/a15717.html#aa89316a0fe4f99630a4a129aed305e24", null ],
-    [ "UpdateAI", "dd/df2/a15717.html#aeca85a1324791d18ac825401fb8a31e8", null ],
-    [ "events", "dd/df2/a15717.html#ae3d344829aeba22ef0c5947863720390", null ],
-    [ "phase", "dd/df2/a15717.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
-    [ "spawnTimer", "dd/df2/a15717.html#a6b139fb5cc0776103934f14be15c34d1", null ]
+    [ "HandleOnHit", "dd/df2/a15717.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
+    [ "PrepareSpellScript", "dd/df2/a15717.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
+    [ "Register", "dd/df2/a15717.html#a1e608d67914c0071a913d96d70c625d6", null ]
 ];

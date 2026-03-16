@@ -1,6 +1,5 @@
 var a17689 =
 [
-    [ "boss_blood_queen_lana_thelAI", "d2/d0b/a17693.html", "d2/d0b/a17693" ],
-    [ "boss_blood_queen_lana_thel", "d2/d41/a17689.html#a9f8fa906f01082caacd106abc2707b07", null ],
-    [ "GetAI", "d2/d41/a17689.html#a7873efd945bdb24228866f639e32879b", null ]
+    [ "achievement_share_the_love", "d2/d41/a17689.html#a3eaa89eaa356b0e2f8b5c688439baf9c", null ],
+    [ "OnCheck", "d2/d41/a17689.html#a9d6b6d19611d1482111692de9f2b1cc8", null ]
 ];

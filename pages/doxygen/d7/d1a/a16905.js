@@ -1,6 +1,7 @@
 var a16905 =
 [
-    [ "boss_acidmawAI", "d4/dbe/a16909.html", "d4/dbe/a16909" ],
-    [ "boss_acidmaw", "d7/d1a/a16905.html#a86e71bf9ae950a4f8efa58d6f679e8bf", null ],
-    [ "GetAI", "d7/d1a/a16905.html#aacbd4c83e6e9c9790e6cf9a87e3aa9a0", null ]
+    [ "npc_toc_priestAI", "d7/d1a/a16905.html#aa362d2136193a8738e311bba18b87c90", null ],
+    [ "myCanCast", "d7/d1a/a16905.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
+    [ "UpdateAI", "d7/d1a/a16905.html#ae51d2ac95320909150c673b76c9856c7", null ],
+    [ "events", "d7/d1a/a16905.html#aa5be20e87351424e0e4698540fc1fef4", null ]
 ];

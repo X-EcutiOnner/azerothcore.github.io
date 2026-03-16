@@ -1,13 +1,9 @@
 var a09325 =
 [
-    [ "MessageDistDelivererToHostile", "d9/dbf/a09325.html#a4e1642660288eeb46867d4e19944cc78", null ],
-    [ "SendPacket", "d9/dbf/a09325.html#aced79e7b19918408fa4d81667fbeb7f0", null ],
-    [ "Visit", "d9/dbf/a09325.html#af9c5269b0266e9e28a70118e62d25e58", null ],
-    [ "Visit", "d9/dbf/a09325.html#a224eeb339614d7a9f5e43d498b245958", null ],
-    [ "Visit", "d9/dbf/a09325.html#a304c0be3c55bd2817abeaa1d53563a27", null ],
-    [ "Visit", "d9/dbf/a09325.html#ae2a44055a4363eeff81a799b8a93d74d", null ],
-    [ "i_distSq", "d9/dbf/a09325.html#a0fc7e00f191801869c3fd8eeae032af8", null ],
-    [ "i_message", "d9/dbf/a09325.html#ae10ac98c489ec48ed49daf835e7a361d", null ],
-    [ "i_phaseMask", "d9/dbf/a09325.html#a0a932cd193e847ee0cfddae0946e39d1", null ],
-    [ "i_source", "d9/dbf/a09325.html#a174aade6dc85233e8481a452f800ec0e", null ]
+    [ "CellArea", "d9/dbf/a09325.html#ace8ca84753b4ec8681415386fb135053", null ],
+    [ "CellArea", "d9/dbf/a09325.html#a547aa2c544abb8de2c6defdd6ec77fa3", null ],
+    [ "operator!", "d9/dbf/a09325.html#a386d4a562c27155012daedc361541e3b", null ],
+    [ "ResizeBorders", "d9/dbf/a09325.html#aebb8a0eb3210fa09d647d89ce8a0c7b8", null ],
+    [ "high_bound", "d9/dbf/a09325.html#a0c90f0474902deaafc4a64faaf6e8071", null ],
+    [ "low_bound", "d9/dbf/a09325.html#a374fe9802c798e6ece359a8025b6e1df", null ]
 ];

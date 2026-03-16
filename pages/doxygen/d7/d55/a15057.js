@@ -1,6 +1,5 @@
 var a15057 =
 [
-    [ "instance_mount_hyjal_InstanceMapScript", "d6/dff/a15061.html", "d6/dff/a15061" ],
-    [ "instance_hyjal", "d7/d55/a15057.html#ade946c0fcaa4bad790bfcb4b6ffb6420", null ],
-    [ "GetInstanceScript", "d7/d55/a15057.html#ae6e39933d7cfd6563f6d37636f1c6f68", null ]
+    [ "achievement_pb_terokkar_turkey_time", "d7/d55/a15057.html#a68e536379b04e060f44819c9831766c2", null ],
+    [ "OnCheck", "d7/d55/a15057.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
 ];

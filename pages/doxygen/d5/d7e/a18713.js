@@ -1,7 +1,7 @@
 var a18713 =
 [
-    [ "HandleProc", "d5/d7e/a18713.html#af06730a865009127c7d3e5423afd4d44", null ],
-    [ "PrepareAuraScript", "d5/d7e/a18713.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
-    [ "Register", "d5/d7e/a18713.html#a6c97b787ce00491a259c575d26189f8c", null ],
-    [ "Validate", "d5/d7e/a18713.html#aed9c98e20d916359629e119d6dd2a94f", null ]
+    [ "HandleScript", "d5/d7e/a18713.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
+    [ "PrepareSpellScript", "d5/d7e/a18713.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
+    [ "Register", "d5/d7e/a18713.html#ad83d563da98ad189f2198a061b1cd50f", null ],
+    [ "Validate", "d5/d7e/a18713.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
 ];

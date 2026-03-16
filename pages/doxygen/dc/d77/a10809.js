@@ -1,6 +1,6 @@
 var a10809 =
 [
-    [ "GuildOfficerRemoveMember", "dc/d77/a10809.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
-    [ "Read", "dc/d77/a10809.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
-    [ "Removee", "dc/d77/a10809.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
+    [ "EmoteClient", "dc/d77/a10809.html#af98c098cb1019057d8027f39c168e1a9", null ],
+    [ "Read", "dc/d77/a10809.html#abad5fca865b7b99e595ce95137e8105c", null ],
+    [ "EmoteID", "dc/d77/a10809.html#a24503de36535106220984ffbf6ba0338", null ]
 ];

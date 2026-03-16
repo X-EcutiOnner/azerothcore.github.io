@@ -1,9 +1,14 @@
 var a05737 =
 [
-    [ "A", "d0/d2b/a05737.html#ab94666c9208b481061cd81382ce94a5a", null ],
-    [ "clientM", "d0/d2b/a05737.html#a65b25700c577d338e902dc47b4712433", null ],
-    [ "cmd", "d0/d2b/a05737.html#a51b29f49e940bffa67988d9bc2b16aa4", null ],
-    [ "crc_hash", "d0/d2b/a05737.html#af2ce94f814a0008c953229fb9cdff454", null ],
-    [ "number_of_keys", "d0/d2b/a05737.html#ad8f9f53d462f1abd5c81413e0ed8b0a7", null ],
-    [ "securityFlags", "d0/d2b/a05737.html#ae2ab466af9513c15cbcea7a20e97ddc5", null ]
+    [ "SFMTRand", "d0/d2b/a05737.html#aa40843ec8c3162e4be6cbf8067f93c9b", null ],
+    [ "operator delete", "d0/d2b/a05737.html#a20ef76641899ebf23ecfdfa03933d1d9", null ],
+    [ "operator delete", "d0/d2b/a05737.html#ac6267ac04c03814f574a155a4a0cffcb", null ],
+    [ "operator delete[]", "d0/d2b/a05737.html#a5051cdb95e18230b7fee753beb621603", null ],
+    [ "operator delete[]", "d0/d2b/a05737.html#a7cfe99d3c100b6ba124b82fce756960f", null ],
+    [ "operator new", "d0/d2b/a05737.html#a73dfbe0b1545b5604dfde603517efbfb", null ],
+    [ "operator new", "d0/d2b/a05737.html#a3dc4f4d003c77547117ec7c31486f884", null ],
+    [ "operator new[]", "d0/d2b/a05737.html#a61d2b3bc61bfa640c8b0241d09347d2b", null ],
+    [ "operator new[]", "d0/d2b/a05737.html#ace8e8802bdb710f3354d3ff7d619497c", null ],
+    [ "RandomUInt32", "d0/d2b/a05737.html#a8d129952ad2916419cdf54aa474c23c0", null ],
+    [ "_state", "d0/d2b/a05737.html#a9bc20836138e5dd4db93f7d03a9e856b", null ]
 ];

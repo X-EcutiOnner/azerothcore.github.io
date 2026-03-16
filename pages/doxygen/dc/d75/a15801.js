@@ -1,8 +1,6 @@
 var a15801 =
 [
-    [ "CheckRequirement", "dc/d75/a15801.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "dc/d75/a15801.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "dc/d75/a15801.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "dc/d75/a15801.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "dc/d75/a15801.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "npc_draenei_survivorAI", "d8/d88/a15805.html", "d8/d88/a15805" ],
+    [ "npc_draenei_survivor", "dc/d75/a15801.html#a1dca668a7c3f868677a9bf306288430c", null ],
+    [ "GetAI", "dc/d75/a15801.html#aa8dde30279bb898a4412491faca79267", null ]
 ];

@@ -1,7 +1,10 @@
 var a14617 =
 [
-    [ "PeriodicTick", "d7/d65/a14617.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
-    [ "PrepareAuraScript", "d7/d65/a14617.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
-    [ "Register", "d7/d65/a14617.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
-    [ "Validate", "d7/d65/a14617.html#a68247c2afa553411fac34582e83635c9", null ]
+    [ "npc_zealot_lorkhan", "d7/d65/a14617.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
+    [ "JustDied", "d7/d65/a14617.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
+    [ "JustEngagedWith", "d7/d65/a14617.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
+    [ "Reset", "d7/d65/a14617.html#abecbd4a2ea2cf3281244933fe7484239", null ],
+    [ "UpdateAI", "d7/d65/a14617.html#a68c35734f8886b2c241dcbc178899206", null ],
+    [ "_scheduler", "d7/d65/a14617.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
+    [ "instance", "d7/d65/a14617.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
 ];

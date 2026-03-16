@@ -1,12 +1,6 @@
 var a21185 =
 [
-    [ "boss_lavanthorAI", "d9/d76/a21185.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
-    [ "EnterEvadeMode", "d9/d76/a21185.html#a0334d92f1ddf30235efe298df622535b", null ],
-    [ "JustDied", "d9/d76/a21185.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
-    [ "JustEngagedWith", "d9/d76/a21185.html#a9820ec47af72af19f00b172ee138f908", null ],
-    [ "MoveInLineOfSight", "d9/d76/a21185.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
-    [ "Reset", "d9/d76/a21185.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
-    [ "UpdateAI", "d9/d76/a21185.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
-    [ "events", "d9/d76/a21185.html#a273adc56adefe9810013bc80950f2624", null ],
-    [ "pInstance", "d9/d76/a21185.html#ad6059577c5e131523f39316c2291b421", null ]
+    [ "boss_svalaAI", "d9/d79/a21189.html", "d9/d79/a21189" ],
+    [ "boss_svala", "d9/d76/a21185.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
+    [ "GetAI", "d9/d76/a21185.html#a0c3b94635eca667a28496cf799efad25", null ]
 ];

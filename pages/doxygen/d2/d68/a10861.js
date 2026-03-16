@@ -1,13 +1,9 @@
 var a10861 =
 [
-    [ "GuildBankQueryResults", "d2/d68/a10861.html#a8203a35b76fdc674794c5bd3c1acb9ed", null ],
-    [ "SetWithdrawalsRemaining", "d2/d68/a10861.html#a52af0d2b4e092daf0719bdf325c51652", null ],
-    [ "Write", "d2/d68/a10861.html#a4598c0c9d1f94c5aa0671f210e1597d4", null ],
-    [ "_withdrawalsRemainingPos", "d2/d68/a10861.html#abe711cd2da225fdc73eabe2ad6bd3f5d", null ],
-    [ "FullUpdate", "d2/d68/a10861.html#a42ca9b48981d7d338aecb7840c248f0f", null ],
-    [ "ItemInfo", "d2/d68/a10861.html#ad799195b259f92aa4e71e1ee8fd99741", null ],
-    [ "Money", "d2/d68/a10861.html#ad401eb3444f5ae50781e634e1f55eba1", null ],
-    [ "Tab", "d2/d68/a10861.html#a72ac06ace5e7974d666e3fc3d626e3c0", null ],
-    [ "TabInfo", "d2/d68/a10861.html#ad36f0ae1d897ef504ad9761c00db77ca", null ],
-    [ "WithdrawalsRemaining", "d2/d68/a10861.html#a211288bde5a15f2d21df65acf087c7d0", null ]
+    [ "GuildRoster", "d2/d68/a10861.html#a2161128d6fb6fa53a5129a95ded2b5fc", null ],
+    [ "Write", "d2/d68/a10861.html#a544a539999827d4eb8923cbbcdf42bac", null ],
+    [ "InfoText", "d2/d68/a10861.html#a9d457ee8feb6c173d960b360aca90fc6", null ],
+    [ "MemberData", "d2/d68/a10861.html#a964fc72bf3ada77c171fd1f691449241", null ],
+    [ "RankData", "d2/d68/a10861.html#a67b0a12fae93c5807030c1062f328abb", null ],
+    [ "WelcomeText", "d2/d68/a10861.html#a5ec2c209558d2c34feee4bfd8cda201c", null ]
 ];

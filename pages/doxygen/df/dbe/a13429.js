@@ -1,6 +1,16 @@
 var a13429 =
 [
-    [ "boss_kirtonos_the_heraldAI", "d4/dc3/a13433.html", "d4/dc3/a13433" ],
-    [ "boss_kirtonos_the_herald", "df/dbe/a13429.html#a0e81153a0da7910cda4c9b6d32544318", null ],
-    [ "GetAI", "df/dbe/a13429.html#aa5e0fe2386aae52fd53ff309282db652", null ]
+    [ "npc_unworthy_initiateAI", "df/dbe/a13429.html#ae535d3335eb7865400f9e5c24b1dd3b5", null ],
+    [ "EventStart", "df/dbe/a13429.html#a1973d5a14a1ac19be1d74cf57693cabe", null ],
+    [ "JustEngagedWith", "df/dbe/a13429.html#aeedb0af23823ec5c7ff4f951c872552e", null ],
+    [ "MovementInform", "df/dbe/a13429.html#afbf6d71b196067400256df98949ae963", null ],
+    [ "Reset", "df/dbe/a13429.html#aba37cb6291a2e7436f8af796c50dead9", null ],
+    [ "UpdateAI", "df/dbe/a13429.html#a485695877f48aea0bb191e8b312f9c99", null ],
+    [ "anchorGUID", "df/dbe/a13429.html#acb1b338fae07b3ececfc8c15cc5ea80b", null ],
+    [ "anchorX", "df/dbe/a13429.html#a69455d3e3f822c2f2a4f8c3f89e4586d", null ],
+    [ "anchorY", "df/dbe/a13429.html#a67bbfac4014f2907cc9ad9caca80a4be", null ],
+    [ "events", "df/dbe/a13429.html#a4eff6a50c098c3f851274ece860fb6fb", null ],
+    [ "phase", "df/dbe/a13429.html#a299de7b4e1992edebd0a87c119d06d0a", null ],
+    [ "playerGUID", "df/dbe/a13429.html#a02d1e6dd7a302e170b08f0c90f038ca9", null ],
+    [ "wait_timer", "df/dbe/a13429.html#a9270c6e57cf77805769cfe692beefbe0", null ]
 ];

@@ -1,7 +1,7 @@
 var a16961 =
 [
-    [ "HandleAfterEffectAbsorb", "d7/d08/a16961.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
-    [ "PrepareAuraScript", "d7/d08/a16961.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
-    [ "Register", "d7/d08/a16961.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
-    [ "Validate", "d7/d08/a16961.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
+    [ "npc_toc_dkAI", "d7/d08/a16961.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
+    [ "myCanCast", "d7/d08/a16961.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
+    [ "UpdateAI", "d7/d08/a16961.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
+    [ "events", "d7/d08/a16961.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
 ];

@@ -1,7 +1,10 @@
 var a12917 =
 [
-    [ "npc_kernobeeAI", "d2/dcd/a12921.html", "d2/dcd/a12921" ],
-    [ "npc_kernobee", "d2/d46/a12917.html#a325aa3f9962cb99b4af362a23c1b16d8", null ],
-    [ "GetAI", "d2/d46/a12917.html#a13da5b7e79ada7c5a88e84ca551ce8eb", null ],
-    [ "OnQuestAccept", "d2/d46/a12917.html#aa830285cf19211b8233620257735ab62", null ]
+    [ "npc_core_ragerAI", "d2/d46/a12917.html#a3c5125e0a10043f6181c10ba749fa579", null ],
+    [ "DamageTaken", "d2/d46/a12917.html#a758eb158eb9d232d74514281028efcb3", null ],
+    [ "Reset", "d2/d46/a12917.html#acf83e469d3d8108276227a942fda28b3", null ],
+    [ "UpdateAI", "d2/d46/a12917.html#a2183cf5ab22b737413b86a657fde6d3c", null ],
+    [ "instance", "d2/d46/a12917.html#a7cfddba62f737214b8cfc7fbffa8c2e2", null ],
+    [ "mangleTimer", "d2/d46/a12917.html#a081333b967abb3812b9ddae2f933a324", null ],
+    [ "rangeCheckTimer", "d2/d46/a12917.html#ade427bdd9ec99807b6f190c890136414", null ]
 ];

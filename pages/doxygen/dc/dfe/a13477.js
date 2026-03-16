@@ -1,14 +1,11 @@
 var a13477 =
 [
-    [ "boss_apothecary_hummelAI", "dc/dfe/a13477.html#a75796eb8dc83729f2f726ff51317bd66", null ],
-    [ "DamageTaken", "dc/dfe/a13477.html#a2af77fbe7f089b5da20d2ff693cfcedf", null ],
-    [ "DoAction", "dc/dfe/a13477.html#a03fb543ba20f92d5528bf4667c457631", null ],
-    [ "JustDied", "dc/dfe/a13477.html#a3c7bc5f9aa04f155debbdacafed6163d", null ],
-    [ "Reset", "dc/dfe/a13477.html#a31381343d2533af670941baf872b3635", null ],
-    [ "sGossipSelect", "dc/dfe/a13477.html#a1a9953c37286fd40c0aa0eebfec3eb86", null ],
-    [ "SummonedCreatureDies", "dc/dfe/a13477.html#a8947cbd1c2856334a0d6529bc664f71b", null ],
-    [ "UpdateAI", "dc/dfe/a13477.html#a61e4d85ecd592142ba07588512505990", null ],
-    [ "_deadCount", "dc/dfe/a13477.html#aaac2018e16b80997f884745732605559", null ],
-    [ "_isDead", "dc/dfe/a13477.html#aa3c37a38b95c6b3bec4e3b787d2155df", null ],
-    [ "_phase", "dc/dfe/a13477.html#a951d68d4e645860cdb5c5e348bf1fff4", null ]
+    [ "npc_a_special_surpriseAI", "dc/dfe/a13477.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
+    [ "MeetQuestCondition", "dc/dfe/a13477.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
+    [ "MoveInLineOfSight", "dc/dfe/a13477.html#af0b183b951f1eba8114da1f7a1284d09", null ],
+    [ "Reset", "dc/dfe/a13477.html#a9526f6b257eade275b828d2b30328533", null ],
+    [ "UpdateAI", "dc/dfe/a13477.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
+    [ "ExecuteSpeech_Counter", "dc/dfe/a13477.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
+    [ "ExecuteSpeech_Timer", "dc/dfe/a13477.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
+    [ "PlayerGUID", "dc/dfe/a13477.html#a683cdbd0ef9d0562842aace5b440594f", null ]
 ];

@@ -1,8 +1,9 @@
 var a24393 =
 [
-    [ "HandleDamage", "d4/d1c/a24393.html#a2c5149eb0b6698240c25b63e71af0854", null ],
-    [ "PrepareSpellScript", "d4/d1c/a24393.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
-    [ "Register", "d4/d1c/a24393.html#ad29179d9159700b52b0c21a779cd060b", null ],
-    [ "Suicide", "d4/d1c/a24393.html#a981f8547eae9b317111bf9a7016510ab", null ],
-    [ "Validate", "d4/d1c/a24393.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
+    [ "npc_pet_gen_toxic_wasteling", "d4/d1c/a24393.html#a550a1a9324f605b1a9fd715571f819b7", null ],
+    [ "EnterEvadeMode", "d4/d1c/a24393.html#abe25deca7fd1c319085995657d62f22a", null ],
+    [ "MovementInform", "d4/d1c/a24393.html#aec73d567c3bd178ffee3bdece83a409e", null ],
+    [ "Reset", "d4/d1c/a24393.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
+    [ "UpdateAI", "d4/d1c/a24393.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
+    [ "checkTimer", "d4/d1c/a24393.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
 ];

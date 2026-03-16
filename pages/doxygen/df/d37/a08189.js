@@ -1,10 +1,8 @@
 var a08189 =
 [
-    [ "FormationMgr", "df/d37/a08189.html#ade1aa22473c112aed65d537929b07908", null ],
-    [ "~FormationMgr", "df/d37/a08189.html#a8f3ee00e25ebacfb71b71b9e7d63f6e0", null ],
-    [ "AddCreatureToGroup", "df/d37/a08189.html#aef758bdbc8f93c8981aedd51d7e10a07", null ],
-    [ "instance", "df/d37/a08189.html#a871fec234a94e4adae07315a008acec3", null ],
-    [ "LoadCreatureFormations", "df/d37/a08189.html#af0ecde62fc5c4a3a2b3be16c58f51fde", null ],
-    [ "RemoveCreatureFromGroup", "df/d37/a08189.html#a6ecac2b9dcdc8db2cd7a0bd1be0fd364", null ],
-    [ "CreatureGroupMap", "df/d37/a08189.html#ac11a3dfbe6a4f7df01d966f14b0aecd9", null ]
+    [ "LfgPlayerRewardData", "df/d37/a08189.html#afe99288f8d7028a5a54317e73e3f2c01", null ],
+    [ "done", "df/d37/a08189.html#a91ba12acf66d631af2de45513f20b702", null ],
+    [ "quest", "df/d37/a08189.html#abd051091fec6835f63bafa98a045142b", null ],
+    [ "rdungeonEntry", "df/d37/a08189.html#a87623ce14ef1d123d226e37e227a566d", null ],
+    [ "sdungeonEntry", "df/d37/a08189.html#abe9c93ab7f3a421dd3c44414a0987277", null ]
 ];

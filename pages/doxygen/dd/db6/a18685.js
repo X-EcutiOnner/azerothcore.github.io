@@ -1,12 +1,8 @@
 var a18685 =
 [
-    [ "npc_strangulate_vehicleAI", "dd/db6/a18685.html#a58e79834ed3f463ad51eca703d1c99ef", null ],
-    [ "DoAction", "dd/db6/a18685.html#acf9d5a9e2f8b07f5ceb5ca75634e58fb", null ],
-    [ "IsHeroic", "dd/db6/a18685.html#adb6ae2cefeec245196d21dc1112b2d5c", null ],
-    [ "IsSummonedBy", "dd/db6/a18685.html#a381aec40cdcdf546d70b57a43978dbe9", null ],
-    [ "OnCharmed", "dd/db6/a18685.html#a40e5537897c452d35093920ddd3669b0", null ],
-    [ "PassengerBoarded", "dd/db6/a18685.html#a819746e13af95fa964c6da3d765a7c21", null ],
-    [ "UpdateAI", "dd/db6/a18685.html#a53f567b77b7dfd0ccb5a0d98c0f5ef26", null ],
-    [ "_events", "dd/db6/a18685.html#a19b493e994d246128f63d9109e87737a", null ],
-    [ "_instance", "dd/db6/a18685.html#a7a16fbe4723a95293db01d3a2d80b569", null ]
+    [ "NecroticPlagueTargetCheck", "dd/db6/a18685.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
+    [ "operator()", "dd/db6/a18685.html#a801a176e367a9f4446fe080845477654", null ],
+    [ "_notAura1", "dd/db6/a18685.html#a4f52417f233e1ab06210726670f719f3", null ],
+    [ "_notAura2", "dd/db6/a18685.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
+    [ "_sourceObj", "dd/db6/a18685.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
 ];

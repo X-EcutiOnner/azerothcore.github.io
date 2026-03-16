@@ -1,8 +1,8 @@
 var a09565 =
 [
-    [ "AllCreaturesOfEntryInRange", "d9/d7c/a09565.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
-    [ "operator()", "d9/d7c/a09565.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
-    [ "m_fRange", "d9/d7c/a09565.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
-    [ "m_pObject", "d9/d7c/a09565.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
-    [ "m_uiEntry", "d9/d7c/a09565.html#abf653360d2ee482728fb137a37fe0512", null ]
+    [ "RespawnDo", "d9/d7c/a09565.html#a79f6424f2849c4c05998fe29a8510aeb", null ],
+    [ "operator()", "d9/d7c/a09565.html#ac15ff63f29e313556b8f66e0cd80514f", null ],
+    [ "operator()", "d9/d7c/a09565.html#a23408bf4da497d1007e4e88e0d9c0e19", null ],
+    [ "operator()", "d9/d7c/a09565.html#a66335f45bb1f3c770887b263e9d84236", null ],
+    [ "operator()", "d9/d7c/a09565.html#a4551ca2e0fdb6540a724c9c2b43484c6", null ]
 ];

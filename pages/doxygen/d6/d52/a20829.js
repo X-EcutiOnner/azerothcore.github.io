@@ -1,6 +1,6 @@
 var a20829 =
 [
-    [ "CheckCast", "d6/d52/a20829.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "d6/d52/a20829.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "d6/d52/a20829.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "PrepareSpellScript", "d6/d52/a20829.html#a525025d429743f9d606289ca1a660796", null ],
+    [ "Register", "d6/d52/a20829.html#a66f565c07d495f27aaba393fdcce9d24", null ],
+    [ "SelectTarget", "d6/d52/a20829.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
 ];

@@ -1,5 +1,6 @@
 var a14829 =
 [
-    [ "PrepareSpellScript", "de/dff/a14829.html#af219083d127afe24b2541a95bfd449ff", null ],
-    [ "Register", "de/dff/a14829.html#a03f7ac8d5968970f769191c7df7f5899", null ]
+    [ "gameobjectId", "de/dff/a14829.html#a5cebf652fccc66cb5f98968036405d14", null ],
+    [ "spawnIndex", "de/dff/a14829.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
+    [ "timestamp", "de/dff/a14829.html#a0c49f62b35e906637890fee896c74951", null ]
 ];

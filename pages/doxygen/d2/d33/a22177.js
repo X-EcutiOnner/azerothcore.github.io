@@ -1,6 +1,9 @@
 var a22177 =
 [
-    [ "npc_wg_queueAI", "d2/d33/a22177.html#a3760738d61b6148042fc30bd96b88fdc", null ],
-    [ "UpdateAI", "d2/d33/a22177.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
-    [ "events", "d2/d33/a22177.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
+    [ "npc_engineer_heliceAI", "d2/d33/a22177.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
+    [ "JustDied", "d2/d33/a22177.html#aba224727b86a2bfc39a47b70b424ccef", null ],
+    [ "Reset", "d2/d33/a22177.html#ade3f7f526dd8973c155aafb939db3778", null ],
+    [ "UpdateAI", "d2/d33/a22177.html#a1c333511dd6e82cd22af111e12a701c4", null ],
+    [ "WaypointReached", "d2/d33/a22177.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
+    [ "m_uiChatTimer", "d2/d33/a22177.html#aa305bc2b5711d0745650f80275204ea8", null ]
 ];

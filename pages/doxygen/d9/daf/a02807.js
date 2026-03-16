@@ -1,5 +1,5 @@
 var a02807 =
 [
-    [ "OutdoorPvP_grizzly_hills", "d0/d35/a22498.html", "d0/d35/a22498" ],
-    [ "AddSC_outdoorpvp_gh", "d9/daf/a02807.html#a04eaa29ec2e34f71e4f7addacc0405c0", null ]
+    [ "OutdoorPvP_eastern_plaguelands", "d7/d17/a22457.html", "d7/d17/a22457" ],
+    [ "AddSC_outdoorpvp_ep", "d9/daf/a02807.html#ac97adfc1efbcf82840cffa915a55fecb", null ]
 ];

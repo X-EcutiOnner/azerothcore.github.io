@@ -1,5 +1,6 @@
 var a27225 =
 [
-    [ "go_massive_seaforium_charge", "d5/d16/a27225.html#adae43b764f237932923cd18207e4d23c", null ],
-    [ "OnGossipHello", "d5/d16/a27225.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
+    [ "ModDest", "d5/d16/a27225.html#ab03387aec0a02a6b3bac1014443554b6", null ],
+    [ "PrepareSpellScript", "d5/d16/a27225.html#a53f7da301759fb18686bc73281c4a321", null ],
+    [ "Register", "d5/d16/a27225.html#a266198fbc6203517f9845ef6212ddf13", null ]
 ];

@@ -1,6 +1,12 @@
 var a13805 =
 [
-    [ "ChangeSummonPos", "dd/dc4/a13805.html#ae24a7c8279a92f1018748a0e930736ac", null ],
-    [ "PrepareSpellScript", "dd/dc4/a13805.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
-    [ "Register", "dd/dc4/a13805.html#a03a1a1e5501452eacaceadd9725f2287", null ]
+    [ "boss_kalecgos", "dd/dc4/a13805.html#a9a3eaee76ada967445cc0ed3d5ed21d2", null ],
+    [ "CanAIAttack", "dd/dc4/a13805.html#aa810a7eae5a6b1102e2e96022eaf5085", null ],
+    [ "CheckInRoom", "dd/dc4/a13805.html#a99cf385b11044c364b23fa8fc7e755ee", null ],
+    [ "ClearPlayerAuras", "dd/dc4/a13805.html#a17ffb7ec1b591acb0e5c359cb73ed2f6", null ],
+    [ "DoAction", "dd/dc4/a13805.html#aaccfa519a7290eb56990e43de4beea97", null ],
+    [ "JustEngagedWith", "dd/dc4/a13805.html#ab4d440dd0b66002b840bc4b3d3a8f7ef", null ],
+    [ "KilledUnit", "dd/dc4/a13805.html#a9844d54a8334ae5d20689593cd8a5e1a", null ],
+    [ "Reset", "dd/dc4/a13805.html#ad30cbd6d6fe343b9eb44fb96b0779551", null ],
+    [ "_sathBanished", "dd/dc4/a13805.html#a595eb66eb6f820efa29fcc5d631fe159", null ]
 ];

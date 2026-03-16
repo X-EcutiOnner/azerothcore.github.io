@@ -1,8 +1,8 @@
 var a24405 =
 [
-    [ "HandleEffectApply", "db/da5/a24405.html#a88e98bcb11fb16696f789878f79c665c", null ],
-    [ "HandleEffectRemove", "db/da5/a24405.html#ab2d5f1dccd9bdf9f087ee3203b0d18c2", null ],
-    [ "PrepareAuraScript", "db/da5/a24405.html#a64f9e0f3d0376342767b912e32642c6c", null ],
-    [ "Register", "db/da5/a24405.html#a72d6639589588282ea15cfe83c9e9b76", null ],
-    [ "Validate", "db/da5/a24405.html#ac936c92c3a24fba95505243cd3e79c21", null ]
+    [ "npc_pet_darting_hatchling", "db/da5/a24405.html#a7ae5973061068396bf382dc21e88cd44", null ],
+    [ "SpellHit", "db/da5/a24405.html#a29ea5438bab7e606175c02165a607f9b", null ],
+    [ "UpdateAI", "db/da5/a24405.html#a23196d05aebe5fa4a65455c55368820a", null ],
+    [ "checkTimer", "db/da5/a24405.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
+    [ "goFast", "db/da5/a24405.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
 ];

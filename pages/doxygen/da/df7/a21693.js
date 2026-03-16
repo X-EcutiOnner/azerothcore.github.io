@@ -1,8 +1,7 @@
 var a21693 =
 [
-    [ "OnRemove", "da/df7/a21693.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
-    [ "PrepareAuraScript", "da/df7/a21693.html#a183b5a3b1332695e3c047bb63435389a", null ],
-    [ "Register", "da/df7/a21693.html#aad41ab76cc0a882f272e8f79867a7015", null ],
-    [ "Validate", "da/df7/a21693.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
-    [ "spellIds", "da/df7/a21693.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
+    [ "npc_cosmetic_toy_plane", "da/df7/a21693.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
+    [ "Reset", "da/df7/a21693.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
+    [ "UpdateAI", "da/df7/a21693.html#a41d62b314510fbd6637d8eddbea16f96", null ],
+    [ "_movementArray", "da/df7/a21693.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
 ];

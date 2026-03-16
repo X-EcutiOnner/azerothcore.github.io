@@ -1,5 +1,6 @@
 var a29781 =
 [
-    [ "DisplayRaceID", "de/d94/a29781.html#a5f3897281f18061c4508d752b2291552", null ],
-    [ "DisplaySexID", "de/d94/a29781.html#ae2c166b3de841da8f5848a6a79135b7f", null ]
+    [ "CreateArmorProcConfig", "de/d94/a29781.html#aae16272567352cb8730edcba3908a08f", null ],
+    [ "CreateWeaponProcConfig", "de/d94/a29781.html#adf86db9c66739b705bde4daf1fd0efd1", null ],
+    [ "SetUp", "de/d94/a29781.html#aaf1d0e6aed255fca2ec0b37e75e9b231", null ]
 ];

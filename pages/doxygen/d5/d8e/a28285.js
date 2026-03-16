@@ -1,8 +1,6 @@
 var a28285 =
 [
-    [ "Color", "d5/d8e/a28285.html#a670fb4e2a31958f81d46047f74d9916f", null ],
-    [ "Comparator", "d5/d8e/a28285.html#ace0bdad11edd9db12e45d374da623793", null ],
-    [ "CompareColor", "d5/d8e/a28285.html#a801e2221bbb1b6aab67a57381901cf08", null ],
-    [ "ID", "d5/d8e/a28285.html#aae73769db40326d298bb1d04eef38871", null ],
-    [ "Value", "d5/d8e/a28285.html#ac314a9a6b447d386e31a286811f66538", null ]
+    [ "go_soulwellAI", "da/d7c/a28289.html", "da/d7c/a28289" ],
+    [ "go_soulwell", "d5/d8e/a28285.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
+    [ "GetAI", "d5/d8e/a28285.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
 ];

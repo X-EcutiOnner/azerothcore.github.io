@@ -1,5 +1,5 @@
 var a20521 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_12", "db/d39/a20521.html#adc7f5769894c59710fa70604878b1e2c", null ],
-    [ "OnCheck", "db/d39/a20521.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
+    [ "achievement_staying_buffed_all_winter_25", "db/d39/a20521.html#a91f0ab3bada837cff6414350b98a27a3", null ],
+    [ "OnCheck", "db/d39/a20521.html#a36591082184bc8466e124bad9a910545", null ]
 ];

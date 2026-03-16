@@ -1,11 +1,12 @@
 var a13073 =
 [
-    [ "npc_kilrek", "d8/d15/a13073.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
-    [ "JustDied", "d8/d15/a13073.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
-    [ "JustEngagedWith", "d8/d15/a13073.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
-    [ "Reset", "d8/d15/a13073.html#ae0b375abe5ec909cfaff96c257da0325", null ],
-    [ "UpdateAI", "d8/d15/a13073.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
-    [ "_scheduler", "d8/d15/a13073.html#a93663ee806385f617e81a03062dd94d6", null ],
-    [ "instance", "d8/d15/a13073.html#a13b969fa86ef57f9508117a73252a36b", null ],
-    [ "TerestianGUID", "d8/d15/a13073.html#a411476da379bf687cd007e25ba11280e", null ]
+    [ "BoardCell", "d8/d15/a13073.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
+    [ "Reset", "d8/d15/a13073.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
+    [ "SetData", "d8/d15/a13073.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
+    [ "SetPiece", "d8/d15/a13073.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
+    [ "col", "d8/d15/a13073.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
+    [ "pieceEntry", "d8/d15/a13073.html#a7697506ccc800d38968e457c44bfa019", null ],
+    [ "pieceGUID", "d8/d15/a13073.html#a74f494e406c56d4c61d79539acea684c", null ],
+    [ "row", "d8/d15/a13073.html#a195c187e134be546f224cbb0eef8c844", null ],
+    [ "triggerGUID", "d8/d15/a13073.html#a9cafdea50739b014a97e60611adcd3f1", null ]
 ];

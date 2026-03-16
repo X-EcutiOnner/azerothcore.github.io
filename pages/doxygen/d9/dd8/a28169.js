@@ -1,8 +1,6 @@
 var a28169 =
 [
-    [ "areaTriggerText", "d9/dd8/a28169.html#a32bb8c4a4defce661d108627e25b645a", null ],
-    [ "Difficulty", "d9/dd8/a28169.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
-    [ "MapId", "d9/dd8/a28169.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
-    [ "maxPlayers", "d9/dd8/a28169.html#a7ab33229ffee11a27861439053c79831", null ],
-    [ "resetTime", "d9/dd8/a28169.html#a891a741efb049b51996e1a6110efc52d", null ]
+    [ "go_flamesAI", "d9/dd8/a28169.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
+    [ "UpdateAI", "d9/dd8/a28169.html#a2d4c91f0bff924335881d1096c0af313", null ],
+    [ "timer", "d9/dd8/a28169.html#ae53c7c6c669e982babf304f173b58b1a", null ]
 ];

@@ -1,12 +1,13 @@
 var a10017 =
 [
-    [ "BanAccount", "d7/d5b/a10017.html#af85ceffee2ae6a143df5e36f6a004f07", null ],
-    [ "BanAccountByPlayerName", "d7/d5b/a10017.html#a35f92762d69fe32e49b9b239c74e4734", null ],
-    [ "BanCharacter", "d7/d5b/a10017.html#ad5048b36828bfe20a95dfb85515de831", null ],
-    [ "BanIP", "d7/d5b/a10017.html#a404890eab19b97773e6c9aef8cc65707", null ],
-    [ "instance", "d7/d5b/a10017.html#aa495dfaab6af98c43f645acf516a5630", null ],
-    [ "RemoveBanAccount", "d7/d5b/a10017.html#ae831e6227442edc70469229d5d73fa3f", null ],
-    [ "RemoveBanAccountByPlayerName", "d7/d5b/a10017.html#a7b5e1ae6d34ae4f6a15e03c434953aea", null ],
-    [ "RemoveBanCharacter", "d7/d5b/a10017.html#afbde6c0b26802f684ecf78c2f493cc67", null ],
-    [ "RemoveBanIP", "d7/d5b/a10017.html#afcf4857007432ebff042c85c5daf2325", null ]
+    [ "ServerMail", "d7/d5b/a10017.html#a50cf3e6929e397a3c1de83b9fcf83416", null ],
+    [ "active", "d7/d5b/a10017.html#a24a12fcafd0b0f4a7c0558737d8fd71f", null ],
+    [ "body", "d7/d5b/a10017.html#a58d352611dcb35126f6ec93622ddc4b9", null ],
+    [ "conditions", "d7/d5b/a10017.html#a818b993f72f82a022277e1c8d9160011", null ],
+    [ "id", "d7/d5b/a10017.html#a6b47994eff9201a6a75f8c621b64716c", null ],
+    [ "itemsA", "d7/d5b/a10017.html#a0992466672427c1d24c686bd8fa39378", null ],
+    [ "itemsH", "d7/d5b/a10017.html#ad120200ba47bf8ea8511a46d56f0daec", null ],
+    [ "moneyA", "d7/d5b/a10017.html#a6a84ca583beef891422f67bef7919c47", null ],
+    [ "moneyH", "d7/d5b/a10017.html#a0e899ce54283bc000cc6afb96e6a3244", null ],
+    [ "subject", "d7/d5b/a10017.html#a246e499c69c57a436aac4c039ea37d31", null ]
 ];

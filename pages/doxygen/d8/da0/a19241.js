@@ -1,6 +1,7 @@
 var a19241 =
 [
-    [ "npc_four_car_garageAI", "dc/d87/a19245.html", "dc/d87/a19245" ],
-    [ "npc_four_car_garage", "d8/da0/a19241.html#ae9b811544ab5cbdcb9c44abdc2da41a8", null ],
-    [ "GetAI", "d8/da0/a19241.html#ac55346f9733c5502a9e9f2d6d48feefb", null ]
+    [ "HandleEffectPeriodic", "d8/da0/a19241.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
+    [ "PrepareAuraScript", "d8/da0/a19241.html#ae040da0db1147652266e1f373838df37", null ],
+    [ "Register", "d8/da0/a19241.html#ab11b84522134ee4d13504df3c19f69b8", null ],
+    [ "Validate", "d8/da0/a19241.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
 ];

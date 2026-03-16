@@ -1,7 +1,7 @@
 var a14353 =
 [
-    [ "OnRemove", "d8/db0/a14353.html#ab909660f32a77e86fde5da35e2f69302", null ],
-    [ "PrepareAuraScript", "d8/db0/a14353.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
-    [ "Register", "d8/db0/a14353.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
-    [ "Validate", "d8/db0/a14353.html#abd1254c53c04f72f848d8641affc729d", null ]
+    [ "npc_zuljin_vortex", "d8/db0/a14353.html#af3af996adc0a0dba4af992234f8356fb", null ],
+    [ "ChangeToNewPlayer", "d8/db0/a14353.html#ab353794ef978151999fdd2294783e757", null ],
+    [ "Reset", "d8/db0/a14353.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
+    [ "UpdateAI", "d8/db0/a14353.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
 ];

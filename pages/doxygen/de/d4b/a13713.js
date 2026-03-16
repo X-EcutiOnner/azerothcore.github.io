@@ -1,10 +1,9 @@
 var a13713 =
 [
-    [ "MoveDelayed", "de/d4b/a13713.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
-    [ "Execute", "de/d4b/a13713.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
-    [ "_o", "de/d4b/a13713.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
-    [ "_owner", "de/d4b/a13713.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
-    [ "_x", "de/d4b/a13713.html#aa490d19022c27932e76af38281fe158b", null ],
-    [ "_y", "de/d4b/a13713.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
-    [ "_z", "de/d4b/a13713.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
+    [ "boss_brutallus", "de/d4b/a13713.html#a501c898505eb4265edee1546bc54713e", null ],
+    [ "AttackStart", "de/d4b/a13713.html#a05edf7010f4e7364399bc81582502219", null ],
+    [ "JustDied", "de/d4b/a13713.html#a48ae6589613f2ac90a499b9b6ae07d01", null ],
+    [ "JustEngagedWith", "de/d4b/a13713.html#a04ff0c07c578c3b92cf45d1ed27fb883", null ],
+    [ "KilledUnit", "de/d4b/a13713.html#a608607d83680da85f91324ce0035804b", null ],
+    [ "Reset", "de/d4b/a13713.html#a20ad64739072e39e7ff3132c6f637af7", null ]
 ];

@@ -1,6 +1,7 @@
 var a14073 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d5/d0a/a14077.html", "d5/d0a/a14077" ],
-    [ "npc_jaina_proudmoore_bfu", "dd/d48/a14073.html#af96c4fac318f44cf6e70817b6960999f", null ],
-    [ "GetAI", "dd/d48/a14073.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
+    [ "npc_ranger_lilatha", "dd/d48/a14073.html#abd13a89b41a289edefb9bc21588f8d29", null ],
+    [ "Reset", "dd/d48/a14073.html#a3e804e483b51961193ee1079caba40be", null ],
+    [ "sQuestAccept", "dd/d48/a14073.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
+    [ "WaypointReached", "dd/d48/a14073.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
 ];

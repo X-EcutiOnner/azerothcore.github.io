@@ -1,8 +1,6 @@
 var a23173 =
 [
-    [ "boss_mekgineer_steamrigger", "da/d6a/a23173.html#a930dcbade7135d0c689bcc0718815547", null ],
-    [ "JustDied", "da/d6a/a23173.html#a79272c233bc0256cca62700fc7a01421", null ],
-    [ "JustEngagedWith", "da/d6a/a23173.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
-    [ "JustSummoned", "da/d6a/a23173.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
-    [ "KilledUnit", "da/d6a/a23173.html#a84374438458cb7e034f91d4b65cd22f1", null ]
+    [ "HandleDummy", "da/d6a/a23173.html#a3347413822ce083085bcf1418fbdbae2", null ],
+    [ "PrepareSpellScript", "da/d6a/a23173.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
+    [ "Register", "da/d6a/a23173.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
 ];

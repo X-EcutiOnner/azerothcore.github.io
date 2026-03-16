@@ -1,16 +1,9 @@
 var a23981 =
 [
-    [ "npc_dragonmaw_peonAI", "de/dc5/a23981.html#a6f1255fead5357001ec85fdaa6980249", null ],
-    [ "CreditPlayer", "de/dc5/a23981.html#a5cf28e156cab2e2066bb94bc99233a2b", null ],
-    [ "JustEngagedWith", "de/dc5/a23981.html#abd5b37793aa2fb150c808b7dc7270763", null ],
-    [ "MovementInform", "de/dc5/a23981.html#a0ee4038f90d54c75c48b2448dacb5724", null ],
-    [ "Reset", "de/dc5/a23981.html#a9d876ec76b51f743c71e67749c21d939", null ],
-    [ "SpellHit", "de/dc5/a23981.html#abe5162608ba0acd7360a630562ff5935", null ],
-    [ "UpdateAI", "de/dc5/a23981.html#a98a045606d9e689ef25a5068b81b1ebf", null ],
-    [ "events", "de/dc5/a23981.html#a7d6fb37d1953630aa79f8665eca0db61", null ],
-    [ "PlayerGUID", "de/dc5/a23981.html#ad6838d98e34a32cbed42c77cdf096070", null ],
-    [ "Tapped", "de/dc5/a23981.html#ae393f8d3cb47f38a4c4314a262826d03", null ],
-    [ "x", "de/dc5/a23981.html#acebbfa8da88d8d683ba5ea6463f6b5f7", null ],
-    [ "y", "de/dc5/a23981.html#ae5a1d416c712803ec0b80ae7ccf29e2d", null ],
-    [ "z", "de/dc5/a23981.html#a7722420716c030b5abe7b760199df14d", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "de/dc5/a23981.html#a273d585416dc92d39d5ec3824c08504d", null ],
+    [ "IsSummonedBy", "de/dc5/a23981.html#a5f002d36c492ed2caf2290f4a073a7d0", null ],
+    [ "Reset", "de/dc5/a23981.html#a06fa50580efeab8d847a05f20956d175", null ],
+    [ "UpdateAI", "de/dc5/a23981.html#a8261a259cfbee0d3610ee441406fafcd", null ],
+    [ "playerGuid", "de/dc5/a23981.html#aab717dd49284c483759a6223dbd7e6ea", null ],
+    [ "timer", "de/dc5/a23981.html#afba1b71178c563a3db906057cd20de45", null ]
 ];

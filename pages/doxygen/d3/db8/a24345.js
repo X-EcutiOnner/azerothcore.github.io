@@ -1,9 +1,5 @@
 var a24345 =
 [
-    [ "Absorb", "d3/db8/a24345.html#ade7f8805491a627cf3e8accdee178f3e", null ],
-    [ "CalculateAmount", "d3/db8/a24345.html#a1194d2bd96632cbc3eab58300a5f9a46", null ],
-    [ "Load", "d3/db8/a24345.html#a49277dbcc2d7cc79f29226e9b242120b", null ],
-    [ "PrepareAuraScript", "d3/db8/a24345.html#a9eb3dc519bd595b7c0193ae3519c136e", null ],
-    [ "Register", "d3/db8/a24345.html#a730528baddf2087fb1c0898ac7ad76c5", null ],
-    [ "absorbPct", "d3/db8/a24345.html#a58c03a57bdfcba203159ae38683fdf14", null ]
+    [ "npc_pet_dk_dancing_rune_weapon", "d3/db8/a24345.html#ac838b907d56c97a911d7c7454c65e180", null ],
+    [ "InitializeAI", "d3/db8/a24345.html#aafeac4a22f366591d6d66b6150e099e2", null ]
 ];

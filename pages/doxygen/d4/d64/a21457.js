@@ -1,7 +1,6 @@
 var a21457 =
 [
-    [ "npc_warmage_violetstand", "d4/d64/a21457.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "d4/d64/a21457.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "d4/d64/a21457.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "d4/d64/a21457.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_azure_stalkerAI", "d3/dc6/a21461.html", "d3/dc6/a21461" ],
+    [ "npc_azure_stalker", "d4/d64/a21457.html#ad069edc43b4f489e0b2c7aa4952eeb63", null ],
+    [ "GetAI", "d4/d64/a21457.html#a1c067809f98a4d7845d2fb4269742274", null ]
 ];

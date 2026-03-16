@@ -1,5 +1,5 @@
 var a04673 =
 [
-    [ "bf_commandscript", "df/dac/a12094.html", "df/dac/a12094" ],
-    [ "AddSC_bf_commandscript", "da/d54/a04673.html#a55cfeb06fb5af5d31e3c2627d0db8da8", null ]
+    [ "worldstate_commandscript", "de/d51/a12281.html", "de/d51/a12281" ],
+    [ "AddSC_worldstate_commandscript", "da/d54/a04673.html#a2ff66ad19f50180b9878cf95696fd09b", null ]
 ];

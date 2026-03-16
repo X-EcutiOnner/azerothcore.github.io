@@ -1,12 +1,10 @@
 var a16001 =
 [
-    [ "npc_wizzlecrank_shredderAI", "d8/d6a/a16001.html#a055c4b426219aa3372a83d2e2021d916", null ],
-    [ "JustSummoned", "d8/d6a/a16001.html#a7cad21f0b3286ed75256a49c315069ce", null ],
-    [ "Reset", "d8/d6a/a16001.html#a86929e8a2f3433f37e4dda03e3011193", null ],
-    [ "UpdateEscortAI", "d8/d6a/a16001.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
-    [ "WaypointReached", "d8/d6a/a16001.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
-    [ "WaypointStart", "d8/d6a/a16001.html#a00857e372e53950338ed71d672edb780", null ],
-    [ "IsPostEvent", "d8/d6a/a16001.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
-    [ "PostEventCount", "d8/d6a/a16001.html#aa5284a284c074f32cee85d29aea00f2f", null ],
-    [ "PostEventTimer", "d8/d6a/a16001.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
+    [ "npc_omenAI", "d8/d6a/a16001.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
+    [ "JustDied", "d8/d6a/a16001.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
+    [ "JustEngagedWith", "d8/d6a/a16001.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
+    [ "MovementInform", "d8/d6a/a16001.html#a92e59bde1f0da2ee537a836304a3c385", null ],
+    [ "SpellHit", "d8/d6a/a16001.html#a4e3960d506fd0435de055a365906a9c9", null ],
+    [ "UpdateAI", "d8/d6a/a16001.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
+    [ "events", "d8/d6a/a16001.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
 ];

@@ -1,6 +1,10 @@
 var a24313 =
 [
-    [ "PrepareSpellScript", "d4/d21/a24313.html#a6c49fad4dc5d080b9a5550f8f30cae4d", null ],
-    [ "RecalculateDamage", "d4/d21/a24313.html#ab6a781160532d7cbb3bb3304eb412514", null ],
-    [ "Register", "d4/d21/a24313.html#a82395d00066e90abc58103b18a5ef4dc", null ]
+    [ "npc_isla_starmaneAI", "d4/d21/a24313.html#a0cb655d324ddde173dcfdee069c0f694", null ],
+    [ "JustDied", "d4/d21/a24313.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
+    [ "JustEngagedWith", "d4/d21/a24313.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
+    [ "JustRespawned", "d4/d21/a24313.html#a69b395a9b9504737109870c5e8db74c8", null ],
+    [ "UpdateEscortAI", "d4/d21/a24313.html#af4b8c80e7443bb671be253238b124910", null ],
+    [ "WaypointReached", "d4/d21/a24313.html#a5d00583afa4e811e4f3cb8400787a990", null ],
+    [ "events", "d4/d21/a24313.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
 ];

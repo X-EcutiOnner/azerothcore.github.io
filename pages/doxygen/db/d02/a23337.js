@@ -1,7 +1,15 @@
 var a23337 =
 [
-    [ "boss_the_maker", "db/d02/a23337.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
-    [ "JustDied", "db/d02/a23337.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
-    [ "JustEngagedWith", "db/d02/a23337.html#a6b0a4442dbabde69ca9352017ee23675", null ],
-    [ "KilledUnit", "db/d02/a23337.html#a40643ca00fe7d7029a291335e47c722a", null ]
+    [ "instance_the_slave_pens_InstanceMapScript", "db/d02/a23337.html#a70db3eeeb55784250a13032728220005", null ],
+    [ "GetGuidData", "db/d02/a23337.html#a77e77209e779b774608f739b258ae419", null ],
+    [ "OnCreatureCreate", "db/d02/a23337.html#aca6b8148602b8fb95c9a467dc9400b8b", null ],
+    [ "SetGuidData", "db/d02/a23337.html#a21a29973bcf5ef6925239213ce50bab0", null ],
+    [ "AhuneBunnyGUID", "db/d02/a23337.html#ad57cefe116f2da6e7c85f36091fe0e94", null ],
+    [ "AhuneGUID", "db/d02/a23337.html#a8ad4dab281db87bb2d14b925b450f09c", null ],
+    [ "BeamBunnyGUIDs", "db/d02/a23337.html#a09e3d1ca5d040268578fa770b7153a81", null ],
+    [ "BonfireBunnyGUIDs", "db/d02/a23337.html#a9de605ffd8092f83af8df5c1725c5d2b", null ],
+    [ "counter", "db/d02/a23337.html#a4ea85debc35e91668723222e8ea90071", null ],
+    [ "FlameCallerGUIDs", "db/d02/a23337.html#a50af0f1eaaa4e40d729e797212cf3ba0", null ],
+    [ "FrozenCoreGUID", "db/d02/a23337.html#a6ac47d1f3eb4d199afdda9ad2a2cc73e", null ],
+    [ "LumaGUID", "db/d02/a23337.html#a0e9e294b4140dc8b8a5567a54d7b0c42", null ]
 ];

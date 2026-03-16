@@ -1,11 +1,7 @@
 var a18289 =
 [
-    [ "npc_little_oozeAI", "d7/dac/a18289.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
-    [ "EnterEvadeMode", "d7/dac/a18289.html#a0bd4bfcc8c373a449f297011289e5530", null ],
-    [ "IsSummonedBy", "d7/dac/a18289.html#afb9763ade36bd742398a8bca961c136b", null ],
-    [ "JustDied", "d7/dac/a18289.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
-    [ "UpdateAI", "d7/dac/a18289.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
-    [ "events", "d7/dac/a18289.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
-    [ "firstUpdate", "d7/dac/a18289.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
-    [ "instance", "d7/dac/a18289.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
+    [ "HandleScriptEffect", "d7/dac/a18289.html#abeb703f8f050677bafb8f5ce4173751a", null ],
+    [ "PrepareSpellScript", "d7/dac/a18289.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
+    [ "Register", "d7/dac/a18289.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
+    [ "SelectTarget", "d7/dac/a18289.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
 ];

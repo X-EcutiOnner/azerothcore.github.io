@@ -1,7 +1,6 @@
 var a25705 =
 [
-    [ "HandleEnergize", "db/d1e/a25705.html#a283e713252166a863aa96530d6e7608b", null ],
-    [ "Load", "db/d1e/a25705.html#a89847e0e9435a708c5722ff928f7033f", null ],
-    [ "PrepareSpellScript", "db/d1e/a25705.html#a8847e05e6eeafd801fca5423d0689432", null ],
-    [ "Register", "db/d1e/a25705.html#ae0778ffd8cf203e22510ee91b0394303", null ]
+    [ "CheckCast", "db/d1e/a25705.html#ac1bc3f881c31c5ab90785a62a5f5b5ae", null ],
+    [ "PrepareSpellScript", "db/d1e/a25705.html#a2a9c657ccffbacfc661c6bb1dc41d9de", null ],
+    [ "Register", "db/d1e/a25705.html#a4b34bd5ce9d3e948d6c712d71ed71b2d", null ]
 ];

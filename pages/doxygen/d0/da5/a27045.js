@@ -1,9 +1,6 @@
 var a27045 =
 [
-    [ "ChatLogScript", "d0/da5/a27045.html#ade8c407083cf094f0767412e7b6d7730", null ],
-    [ "OnPlayerCanUseChat", "d0/da5/a27045.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
-    [ "OnPlayerCanUseChat", "d0/da5/a27045.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
-    [ "OnPlayerCanUseChat", "d0/da5/a27045.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
-    [ "OnPlayerCanUseChat", "d0/da5/a27045.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
-    [ "OnPlayerCanUseChat", "d0/da5/a27045.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
+    [ "CheckRequirement", "d0/da5/a27045.html#acaae3858de4d56028e3cb4581a57450c", null ],
+    [ "PrepareSpellScript", "d0/da5/a27045.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
+    [ "Register", "d0/da5/a27045.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
 ];

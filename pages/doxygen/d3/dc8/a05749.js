@@ -1,8 +1,7 @@
 var a05749 =
 [
-    [ "cmd", "d3/dc8/a05749.html#a14df856ae931474a7c58d0e35caf6ad0", null ],
-    [ "number_of_keys", "d3/dc8/a05749.html#aaa44734bb96b91894c038b3f34b4db0d", null ],
-    [ "R1", "d3/dc8/a05749.html#a054648a96d1c66bae6fdb9a174e7b1e6", null ],
-    [ "R2", "d3/dc8/a05749.html#a72fa4a4d0b6098fdf8e5c8f9a33f08ad", null ],
-    [ "R3", "d3/dc8/a05749.html#a819a5ba3a19583fd0cfd0558cf218e54", null ]
+    [ "Count", "d3/dc8/a05749.html#aeeb13e953eff5fde8c9edff41ee17806", null ],
+    [ "FromIndex", "d3/dc8/a05749.html#a8c6cb9f0a8d3488956904e2141405cf7", null ],
+    [ "ToIndex", "d3/dc8/a05749.html#a25cc4ea08020adcf6deac42e2912b1f9", null ],
+    [ "ToString", "d3/dc8/a05749.html#a8d3379c79f103655dd49d993402b741d", null ]
 ];

@@ -1,8 +1,9 @@
 var a24853 =
 [
-    [ "HandleScript", "d6/d64/a24853.html#a2376d12f379f75f5decfdc133c18403e", null ],
-    [ "Load", "d6/d64/a24853.html#aa70bfd2e614f9bf68ad2972990f0f7f5", null ],
-    [ "PrepareSpellScript", "d6/d64/a24853.html#ae4ce8cf3670a85bbaedbfcdc6cacd5b1", null ],
-    [ "Register", "d6/d64/a24853.html#a0b32bf9d565d7d6f606150f70fc244a0", null ],
-    [ "Validate", "d6/d64/a24853.html#a1aee8ca0cc33f949371fa5cbb4745ccd", null ]
+    [ "FilterTargets", "d6/d64/a24853.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
+    [ "PrepareSpellScript", "d6/d64/a24853.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
+    [ "Register", "d6/d64/a24853.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
+    [ "SetTargets", "d6/d64/a24853.html#ac77e95af9b08118e87e3329eab5515ea", null ],
+    [ "Validate", "d6/d64/a24853.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
+    [ "_targets", "d6/d64/a24853.html#acc66768f54c514552f0ab01274c24f17", null ]
 ];

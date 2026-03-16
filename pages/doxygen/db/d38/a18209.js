@@ -1,6 +1,6 @@
 var a18209 =
 [
-    [ "FilterTargets", "db/d38/a18209.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
-    [ "PrepareSpellScript", "db/d38/a18209.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
-    [ "Register", "db/d38/a18209.html#a32e04a1110d651701b8eab1648c69a57", null ]
+    [ "DaranavanMoveEvent", "db/d38/a18209.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
+    [ "Execute", "db/d38/a18209.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
+    [ "_darnavan", "db/d38/a18209.html#a7585edb957755efbc6064f232d50ea4e", null ]
 ];

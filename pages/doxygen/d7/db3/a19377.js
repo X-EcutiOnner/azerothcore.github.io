@@ -1,7 +1,7 @@
 var a19377 =
 [
-    [ "HandleRemove", "d7/db3/a19377.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
-    [ "PrepareAuraScript", "d7/db3/a19377.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
-    [ "Register", "d7/db3/a19377.html#ad7ba015a7878adad0820cf378d2632ca", null ],
-    [ "Validate", "d7/db3/a19377.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
+    [ "DelayedCastMincharEvent", "d7/db3/a19377.html#a76d8a08ca273eec5b2e083d136336a15", null ],
+    [ "Execute", "d7/db3/a19377.html#a12aeff246d07e541ed192974320842cb", null ],
+    [ "_spellId", "d7/db3/a19377.html#af4ea90407b2c8a283f137d213ffe97be", null ],
+    [ "_trigger", "d7/db3/a19377.html#a9f3cd02e77ad35b98a6753b792383548", null ]
 ];

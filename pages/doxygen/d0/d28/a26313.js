@@ -1,9 +1,7 @@
 var a26313 =
 [
-    [ "CheckCast", "d0/d28/a26313.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
-    [ "HandleActiveObject", "d0/d28/a26313.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
-    [ "HandleDummy", "d0/d28/a26313.html#a39dd06ae92d04060ee41897318a701fd", null ],
-    [ "Load", "d0/d28/a26313.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
-    [ "PrepareSpellScript", "d0/d28/a26313.html#a016e480d7b2267c9bf824c9cb029f134", null ],
-    [ "Register", "d0/d28/a26313.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
+    [ "HandlePeriodicDummy", "d0/d28/a26313.html#ac8ca6a69b47cb2316b93e1953e233f8f", null ],
+    [ "PrepareAuraScript", "d0/d28/a26313.html#a1c85329bcafd6c327d1862feabc1eed0", null ],
+    [ "Register", "d0/d28/a26313.html#a0c43d96bf2e59fd67790f327cf14d71e", null ],
+    [ "Validate", "d0/d28/a26313.html#a7c3f4223a709e3cbb7d4a5b4b6a9e1c5", null ]
 ];

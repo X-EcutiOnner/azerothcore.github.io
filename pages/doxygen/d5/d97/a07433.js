@@ -1,12 +1,9 @@
 var a07433 =
 [
-    [ "BGQueueInviteEvent", "d5/d97/a07433.html#acee27900339fdcebbfd21bb0e602654d", null ],
-    [ "~BGQueueInviteEvent", "d5/d97/a07433.html#a09f9f27ecbc273b25e5941966a4fa925", null ],
-    [ "Abort", "d5/d97/a07433.html#a07f5520ab61cdfd4eadc5d0815067135", null ],
-    [ "Execute", "d5/d97/a07433.html#a444aceb1c29c951271bab5186a7f3064", null ],
-    [ "m_ArenaType", "d5/d97/a07433.html#a1b7d1161d46578606396efd515ab1739", null ],
-    [ "m_BgInstanceGUID", "d5/d97/a07433.html#ad9adc44cc1cde3b0b820740852bdb3ce", null ],
-    [ "m_BgTypeId", "d5/d97/a07433.html#a608c24288f24bc4da77124257320c741", null ],
-    [ "m_PlayerGuid", "d5/d97/a07433.html#a200b4bcd336846df60ec11de8d829d7d", null ],
-    [ "m_RemoveTime", "d5/d97/a07433.html#a4c78e5a74eaf859db40772008557201f", null ]
+    [ "entryAlliance", "d5/d97/a07433.html#a0e5dba26d6d335a9d1e5f40e737acddd", null ],
+    [ "entryHorde", "d5/d97/a07433.html#a374fff4b069e89489395246f378b4900", null ],
+    [ "o", "d5/d97/a07433.html#af8a4ec46795bcdbc77c76302a4cfe639", null ],
+    [ "x", "d5/d97/a07433.html#ab557bbe497fc769b390cf0799b6aaed9", null ],
+    [ "y", "d5/d97/a07433.html#a44a8f3fd8d3cac7cfe61471d8b785ad4", null ],
+    [ "z", "d5/d97/a07433.html#adebb903a00687e17d9088f5da2c97f4a", null ]
 ];

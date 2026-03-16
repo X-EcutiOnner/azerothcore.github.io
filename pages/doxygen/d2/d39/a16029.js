@@ -1,6 +1,6 @@
 var a16029 =
 [
-    [ "HandleDummy", "d2/d39/a16029.html#a2750ae788168e7496ea2345c5535509c", null ],
-    [ "PrepareSpellScript", "d2/d39/a16029.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
-    [ "Register", "d2/d39/a16029.html#ab6c961d89d22761402eb4f5881cbd318", null ]
+    [ "Creature", "d2/d39/a16029.html#a77b33f8998f85808b58052079b1cab54", null ],
+    [ "TextId", "d2/d39/a16029.html#ad691f3cd40035e96547adf7528229119", null ],
+    [ "Timer", "d2/d39/a16029.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
 ];

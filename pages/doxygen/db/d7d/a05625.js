@@ -1,20 +1,12 @@
 var a05625 =
 [
-    [ "AsyncProcessResultImplementation", "db/d7d/a05625.html#a1af6678b7ebf6402df0961cac5ba9ffe", null ],
-    [ "AsyncProcessResultImplementation", "db/d7d/a05625.html#a6b2ff159a1bfcaf531d0345dbc93c2bd", null ],
-    [ "AsyncProcessResultImplementation", "db/d7d/a05625.html#acde599a3b98f50b0432b0a067a00ecf8", null ],
-    [ "GetFutureResult", "db/d7d/a05625.html#a202ec00d726449fea26b3ee0d5bd7025", null ],
-    [ "operator=", "db/d7d/a05625.html#a4fb3bbb8c65e0baee35fc94cb17b1f3f", null ],
-    [ "operator=", "db/d7d/a05625.html#a82f3834506db5ed9eda323390bbdf36a", null ],
-    [ "SetFuture", "db/d7d/a05625.html#a1619a398624976e15c7926b57c9484bc", null ],
-    [ "StartProcess", "db/d7d/a05625.html#a908c5a545ab501f93a8a2525bbad6317", null ],
-    [ "Terminate", "db/d7d/a05625.html#a3ddce3d7de8eda350636f0ea8ddfde53", null ],
-    [ "args", "db/d7d/a05625.html#a2fe2cc9a0a02e6fc8ba383ecccf18060", null ],
-    [ "executable", "db/d7d/a05625.html#a7fbbe1d2ede5eac4f7bd814d4bfe8983", null ],
-    [ "input_file", "db/d7d/a05625.html#a30ac6b4cb91d8f4e63f8ff0ba47f7c9c", null ],
-    [ "is_secure", "db/d7d/a05625.html#a4a8891a13f997d26b6daf9eead76f219", null ],
-    [ "logger", "db/d7d/a05625.html#a5d60fa7b6e4277f2dfc8d743ea756ff2", null ],
-    [ "my_child", "db/d7d/a05625.html#a7aaa7f31e23947aca109871572875f4d", null ],
-    [ "result", "db/d7d/a05625.html#a9a8efa6f7ad48797c28691c08b4ede9b", null ],
-    [ "was_terminated", "db/d7d/a05625.html#a9868b0110f4db8a1d099243003c83753", null ]
+    [ "Node", "d9/d36/a05629.html", "d9/d36/a05629" ],
+    [ "MPSCQueueNonIntrusive", "db/d7d/a05625.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
+    [ "~MPSCQueueNonIntrusive", "db/d7d/a05625.html#a599e2093215f70dc4f2f7db08965d816", null ],
+    [ "MPSCQueueNonIntrusive", "db/d7d/a05625.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
+    [ "Dequeue", "db/d7d/a05625.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
+    [ "Enqueue", "db/d7d/a05625.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
+    [ "operator=", "db/d7d/a05625.html#a75063e89049903fb5305d67ea1a02034", null ],
+    [ "_head", "db/d7d/a05625.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
+    [ "_tail", "db/d7d/a05625.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
 ];

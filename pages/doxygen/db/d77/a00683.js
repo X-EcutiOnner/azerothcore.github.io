@@ -1,6 +1,6 @@
 var a00683 =
 [
-    [ "WorldConfig", "d0/d69/a12050.html", "d0/d69/a12050" ],
+    [ "WorldConfig", "de/deb/a12033.html", "de/deb/a12033" ],
     [ "ServerConfigs", "db/d77/a00683.html#a468ad15992691eb97dd20680046832e0", [
       [ "CONFIG_DURABILITY_LOSS_IN_PVP", "db/d77/a00683.html#a468ad15992691eb97dd20680046832e0a9bd963cd4dbd7aa4f601fc5a69f582c7", null ],
       [ "CONFIG_ADDON_CHANNEL", "db/d77/a00683.html#a468ad15992691eb97dd20680046832e0a57f0703f8632960432f25f4969896d27", null ],

@@ -1,11 +1,7 @@
 var a16133 =
 [
-    [ "boss_amanitar", "d8/dd7/a16133.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
-    [ "EnterEvadeMode", "d8/dd7/a16133.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
-    [ "JustDied", "d8/dd7/a16133.html#a138049712649ff414950d9d0ca05d712", null ],
-    [ "JustEngagedWith", "d8/dd7/a16133.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
-    [ "Reset", "d8/dd7/a16133.html#aab3faca4526947a72d8ca049a605f5be", null ],
-    [ "SummonedCreatureDespawn", "d8/dd7/a16133.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
-    [ "SummonMushroom", "d8/dd7/a16133.html#afc5b4942931f6020b2894b901650fc35", null ],
-    [ "_mushroomsDeque", "d8/dd7/a16133.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
+    [ "npc_giltharesAI", "d8/dd7/a16133.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "d8/dd7/a16133.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "d8/dd7/a16133.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "d8/dd7/a16133.html#a9308c73760e50e0f3d04031b508526d1", null ]
 ];

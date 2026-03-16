@@ -1,5 +1,7 @@
 var a08321 =
 [
-    [ "InventoryType", "d4/d15/a08321.html#a5d2733f6b8e3fda906f18fb45330d437", null ],
-    [ "name", "d4/d15/a08321.html#a67245cff18aad700717b7b7af9f07458", null ]
+    [ "VendorItemCount", "d4/d15/a08321.html#abdf2d2900f75bb2b8d9727bab8fcbbc3", null ],
+    [ "count", "d4/d15/a08321.html#aff4c062138792ffb37dadb19b725c87c", null ],
+    [ "itemId", "d4/d15/a08321.html#a225158bbb56d6666ba4918155f08f993", null ],
+    [ "lastIncrementTime", "d4/d15/a08321.html#a0b88ba4ea590abbdc9234ff4a2a335fa", null ]
 ];

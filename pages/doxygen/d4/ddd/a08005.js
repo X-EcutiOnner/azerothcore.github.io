@@ -1,5 +1,5 @@
 var a08005 =
 [
-    [ "number", "d4/ddd/a08005.html#af111e542d7a276e27d2b14757293bc42", null ],
-    [ "offset_elements", "d4/ddd/a08005.html#ad633b2e9afc82762c6b43675844f8fea", null ]
+    [ "Glyph", "d4/ddd/a08005.html#a99ef57f9c0bbab04953bd6edcf5b83f2", null ],
+    [ "Slot", "d4/ddd/a08005.html#acc79672f4bddb27eb980b6aac19f83ec", null ]
 ];

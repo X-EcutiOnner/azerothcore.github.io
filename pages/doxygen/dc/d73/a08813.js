@@ -1,9 +1,10 @@
 var a08813 =
 [
-    [ "ProcTriggeredData", "dc/d73/a08813.html#a37c5cbfd0b916b950a0e638223394de4", null ],
-    [ "operator==", "dc/d73/a08813.html#a787760cbd8a6ee5192975bc514886159", null ],
-    [ "aura", "dc/d73/a08813.html#a5138144d49900690bb15a5f66b763eac", null ],
-    [ "effMask", "dc/d73/a08813.html#a1c2bfb3e0016ba823e12b3defe373790", null ],
-    [ "spellProcEvent", "dc/d73/a08813.html#ac6e491a7ef478d271d3c74d7b9df577e", null ],
-    [ "triggerSpelId", "dc/d73/a08813.html#abfd99a1e3beb871a3cbf83d7578ec98a", null ]
+    [ "PvPInfo", "dc/d73/a08813.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
+    [ "EndTimer", "dc/d73/a08813.html#ae06b5030552c02f30fe8386633a753df", null ],
+    [ "FFAPvPEndTimer", "dc/d73/a08813.html#a739dfc63dfe39429a44ea682d9120522", null ],
+    [ "IsHostile", "dc/d73/a08813.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
+    [ "IsInFFAPvPArea", "dc/d73/a08813.html#a8a654926248b3974587af1eb9c064d15", null ],
+    [ "IsInHostileArea", "dc/d73/a08813.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
+    [ "IsInNoPvPArea", "dc/d73/a08813.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
 ];

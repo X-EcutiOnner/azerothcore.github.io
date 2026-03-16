@@ -1,6 +1,7 @@
 var a18293 =
 [
-    [ "npc_big_oozeAI", "df/da6/a18297.html", "df/da6/a18297" ],
-    [ "npc_big_ooze", "df/d77/a18293.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
-    [ "GetAI", "df/d77/a18293.html#ad06308602d69b51ff3f269bda6c465b5", null ]
+    [ "HandleSpikes", "df/d77/a18293.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
+    [ "PrepareSpellScript", "df/d77/a18293.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
+    [ "Register", "df/d77/a18293.html#a893345cf191d084a0f97a8464b7d381a", null ],
+    [ "Validate", "df/d77/a18293.html#aa6545760706d8695aefd4064c3c71c6b", null ]
 ];

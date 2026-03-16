@@ -1,6 +1,7 @@
 var a14541 =
 [
-    [ "HandleEffectRemove", "d7/da9/a14541.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
-    [ "PrepareAuraScript", "d7/da9/a14541.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
-    [ "Register", "d7/da9/a14541.html#aa436788f638fedacb217ca508da5f426", null ]
+    [ "HandleOnHit", "d7/da9/a14541.html#a561799e6241b1fe17cd09f17c447107b", null ],
+    [ "PrepareSpellScript", "d7/da9/a14541.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
+    [ "Register", "d7/da9/a14541.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
+    [ "Validate", "d7/da9/a14541.html#adb339686c5e9dcb298712455dc8435bf", null ]
 ];

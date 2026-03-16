@@ -1,11 +1,14 @@
 var a08185 =
 [
-    [ "FormationInfo", "db/d85/a08185.html#ad00d7dd0ac811a3805a8ba2c9c1e73df", null ],
-    [ "HasGroupFlag", "db/d85/a08185.html#afc612acf30e8d0a047aac5b0fc2dc07b", null ],
-    [ "follow_angle", "db/d85/a08185.html#a928ce7047d511c316a5367faf7f96673", null ],
-    [ "follow_dist", "db/d85/a08185.html#a3b59ee5129e208cc3df407a921362393", null ],
-    [ "groupAI", "db/d85/a08185.html#af9f6dc52999efef6f0819bb8d1670fec", null ],
-    [ "leaderGUID", "db/d85/a08185.html#ad5af23397ae1ae835a72ce125d102ef0", null ],
-    [ "point_1", "db/d85/a08185.html#a84298ff533bebc633689742c7f9299ae", null ],
-    [ "point_2", "db/d85/a08185.html#acc308b497de18211b99eec4311b256a4", null ]
+    [ "LfgQueueStatusData", "db/d85/a08185.html#af50fc3422feb137a7ccd820e2ac2fe44", null ],
+    [ "dps", "db/d85/a08185.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a", null ],
+    [ "dungeonId", "db/d85/a08185.html#a9a6288f9e14e593e147b4f60a1dc8991", null ],
+    [ "healers", "db/d85/a08185.html#a61b2c2f4391022c7e4ba3972c4467a74", null ],
+    [ "queuedTime", "db/d85/a08185.html#a398efafa1ef7faa6600d6fdb28306f49", null ],
+    [ "tanks", "db/d85/a08185.html#a74f54d22ca9e2b6711bf363737b9ff06", null ],
+    [ "waitTime", "db/d85/a08185.html#aa794f234bf93e66916f7eadb986f17ef", null ],
+    [ "waitTimeAvg", "db/d85/a08185.html#af44b91dd7ddfb702662663f989f026fc", null ],
+    [ "waitTimeDps", "db/d85/a08185.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf", null ],
+    [ "waitTimeHealer", "db/d85/a08185.html#abf57fbbaac89b08bacf0731e3a8b65e3", null ],
+    [ "waitTimeTank", "db/d85/a08185.html#a73cdcd16181375a7d428e6b50cb1e1e6", null ]
 ];

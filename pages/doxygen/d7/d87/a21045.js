@@ -1,18 +1,11 @@
 var a21045 =
 [
-    [ "boss_ymironAI", "d7/d87/a21045.html#a3a4d81b7a0f3f27f94fea60eff043696", null ],
-    [ "EnterEvadeMode", "d7/d87/a21045.html#a8fbc8526e82efea3e2eddedc421b85a2", null ],
-    [ "JustDied", "d7/d87/a21045.html#ad1da47485b8f17ea550a1b6bc943eb9a", null ],
-    [ "JustEngagedWith", "d7/d87/a21045.html#aed0cc8f034454db0046a5adce7f9d8a0", null ],
-    [ "KilledUnit", "d7/d87/a21045.html#ae1d69402520e1cf4d3a17c0ca9af35bd", null ],
-    [ "MovementInform", "d7/d87/a21045.html#a6e3c14da21d45bb7ddfba25d4487bba7", null ],
-    [ "Reset", "d7/d87/a21045.html#a2b6619a51641a82109e98fd4decd22e3", null ],
-    [ "SpellHitTarget", "d7/d87/a21045.html#a2f2782926ee9a59fc5188d02347f9ca8", null ],
-    [ "UpdateAI", "d7/d87/a21045.html#aaa447c1c6092bfc7c1d117d32b2c5673", null ],
-    [ "BoatNum", "d7/d87/a21045.html#ac5663f283d1a97fea1646c1ec230a7dc", null ],
-    [ "BoatOrder", "d7/d87/a21045.html#a319095910309b0a78d321c4d33994542", null ],
-    [ "events", "d7/d87/a21045.html#af2d8d9a2ec7ec5876c99ae909d3befd2", null ],
-    [ "pInstance", "d7/d87/a21045.html#a115529fcbc5a0c8b57152be49915d575", null ],
-    [ "summons", "d7/d87/a21045.html#aaa5d90d3940c84adebce772c594b0ee2", null ],
-    [ "summons2", "d7/d87/a21045.html#aa82280ec0e02924d653b62298ed7e471", null ]
+    [ "npc_ulduar_storm_tempered_keeper", "d7/d87/a21045.html#ae4dc8352fd0ff41974a33a4500d19e74", null ],
+    [ "JustDied", "d7/d87/a21045.html#a8051e2b824a6c0df08dafab6e25d6bc7", null ],
+    [ "JustEngagedWith", "d7/d87/a21045.html#a1bd5ba0e92e09953bc1ecb69a61c98f1", null ],
+    [ "JustSummoned", "d7/d87/a21045.html#a9b1f8cd15790dbd179e313546f9754bf", null ],
+    [ "Reset", "d7/d87/a21045.html#a5bbb71bfbeb2c4e09d20a94ed7913183", null ],
+    [ "UpdateAI", "d7/d87/a21045.html#a9f36f099f7db4c3e1a06b8d4082e58c5", null ],
+    [ "events", "d7/d87/a21045.html#a4a79bd561fa63230a52730da20d7143c", null ],
+    [ "otherGUID", "d7/d87/a21045.html#a4fb550c7e49ea5078ec0ab59cda2c6d8", null ]
 ];

@@ -1,9 +1,6 @@
 var a17845 =
 [
-    [ "npc_stinky_iccAI", "de/d2f/a17845.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
-    [ "JustDied", "de/d2f/a17845.html#a7fa392980e2d30c935b79377df8dc694", null ],
-    [ "JustEngagedWith", "de/d2f/a17845.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
-    [ "Reset", "de/d2f/a17845.html#ac66e3398598576fdc889a7b56646eecf", null ],
-    [ "UpdateAI", "de/d2f/a17845.html#af6e04824ea1682c529e8579a306d34ca", null ],
-    [ "events", "de/d2f/a17845.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
+    [ "boss_blood_queen_lana_thelAI", "de/db2/a17849.html", "de/db2/a17849" ],
+    [ "boss_blood_queen_lana_thel", "de/d2f/a17845.html#a9f8fa906f01082caacd106abc2707b07", null ],
+    [ "GetAI", "de/d2f/a17845.html#a7873efd945bdb24228866f639e32879b", null ]
 ];

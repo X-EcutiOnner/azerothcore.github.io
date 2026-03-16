@@ -1,7 +1,6 @@
 var a18213 =
 [
-    [ "HandleExtraEffect", "d9/d81/a18213.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
-    [ "PrepareAuraScript", "d9/d81/a18213.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
-    [ "Register", "d9/d81/a18213.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
-    [ "Validate", "d9/d81/a18213.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
+    [ "boss_lady_deathwhisperAI", "d6/db5/a18217.html", "d6/db5/a18217" ],
+    [ "boss_lady_deathwhisper", "d9/d81/a18213.html#a979411cb834611b1239f3bf9058d316d", null ],
+    [ "GetAI", "d9/d81/a18213.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
 ];

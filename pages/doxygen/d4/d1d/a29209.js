@@ -1,8 +1,6 @@
 var a29209 =
 [
-    [ "DBCFile", "de/df0/a28210.html", "de/df0/a28210" ],
-    [ "DBCFile::Exception", "d6/d5b/a28214.html", "d6/d5b/a28214" ],
-    [ "DBCFile::NotFound", "da/d91/a28218.html", "da/d91/a28218" ],
-    [ "DBCFile::Record", "de/d9b/a28222.html", "de/d9b/a28222" ],
-    [ "DBCFile::Iterator", "df/d25/a28226.html", "df/d25/a28226" ]
+    [ "ID", "d4/d1d/a29209.html#a7d40e334785d96a2e57d28f87a59778a", null ],
+    [ "maxCount", "d4/d1d/a29209.html#a5edc6442e026b12dae654fa86440a11a", null ],
+    [ "mode", "d4/d1d/a29209.html#a76553ecf9f880a5e5967f818123742fd", null ]
 ];

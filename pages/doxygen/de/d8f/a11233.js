@@ -1,6 +1,6 @@
 var a11233 =
 [
-    [ "TotemDestroyed", "de/d8f/a11233.html#a3bcaa030b2c15d54617564cf0f5e4c36", null ],
-    [ "Read", "de/d8f/a11233.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2", null ],
-    [ "Slot", "de/d8f/a11233.html#a41eebde65aa696c2dec812da0aeab633", null ]
+    [ "ComplainResult", "de/d8f/a11233.html#a9c0f7cf8600887fdbc5283fa23f77857", null ],
+    [ "Write", "de/d8f/a11233.html#a1b74c82acbfae8d62c7b1d6ef59caa1e", null ],
+    [ "Unk", "de/d8f/a11233.html#a88445c8e01e64f89176dd6c1ebb1a986", null ]
 ];

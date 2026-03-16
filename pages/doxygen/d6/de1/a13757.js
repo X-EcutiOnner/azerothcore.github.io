@@ -1,6 +1,7 @@
 var a13757 =
 [
-    [ "PrepareSpellScript", "d6/de1/a13757.html#a6a9436d744865971e635f23c2b331688", null ],
-    [ "Register", "d6/de1/a13757.html#a5f8a755040c9972e1bd6f68ceacf3dff", null ],
-    [ "SetDest", "d6/de1/a13757.html#a2d43c0d5230f7be2d9a33e8527fd8c02", null ]
+    [ "HandleScript", "d6/de1/a13757.html#aae2f572a523431f6764f08e4719adbcf", null ],
+    [ "PrepareSpellScript", "d6/de1/a13757.html#a20fdb423d5db4f1fa629a0f0480e2a9f", null ],
+    [ "Register", "d6/de1/a13757.html#ae3b002197564318cc92242bd925d35af", null ],
+    [ "Validate", "d6/de1/a13757.html#a98d9d84fd26d110efbbbaba9a19ef423", null ]
 ];

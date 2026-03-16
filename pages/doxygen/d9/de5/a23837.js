@@ -1,9 +1,6 @@
 var a23837 =
 [
-    [ "npc_wounded_blood_elfAI", "d9/de5/a23837.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
-    [ "JustEngagedWith", "d9/de5/a23837.html#aba950ba77ff71508263cc54b28c7725b", null ],
-    [ "JustSummoned", "d9/de5/a23837.html#aa97f5294981c44b530efca1411458a97", null ],
-    [ "Reset", "d9/de5/a23837.html#a8e6be35a3079998f3bab829f5d963c71", null ],
-    [ "sQuestAccept", "d9/de5/a23837.html#a56c157928c24daae6edacd5a126ef171", null ],
-    [ "WaypointReached", "d9/de5/a23837.html#a5affcb00e28a582f8926ab2226001cd0", null ]
+    [ "lapseTeleport", "d9/de5/a23837.html#a55c4330397214bf3a43628b3067d4634", null ],
+    [ "Execute", "d9/de5/a23837.html#a122023ed13fce2f5bb3721e459964443", null ],
+    [ "_owner", "d9/de5/a23837.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
 ];

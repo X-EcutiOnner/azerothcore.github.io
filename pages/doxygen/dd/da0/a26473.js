@@ -1,11 +1,12 @@
 var a26473 =
 [
-    [ "CheckProc", "dd/da0/a26473.html#a7a6eea8debb09c4c9086a92d8e6ee59c", null ],
-    [ "HandleProc", "dd/da0/a26473.html#af29b1d6d8553003514918a383cb08b4a", null ],
-    [ "Load", "dd/da0/a26473.html#a8861c2415c0f705cb4a06c02eabb54d2", null ],
-    [ "OnRemove", "dd/da0/a26473.html#a9227147dd6e621deddd0088b95e9db2f", null ],
-    [ "PrepareAuraScript", "dd/da0/a26473.html#a149881d517edbb15032452554fc64948", null ],
-    [ "Register", "dd/da0/a26473.html#ac81d60d54a87a23bd9481934f5753de0", null ],
-    [ "Validate", "dd/da0/a26473.html#a7a4d1bddd1dbeb41e0f6f8fe272b4ad6", null ],
-    [ "_redirectTarget", "dd/da0/a26473.html#af3ee2a283d8942ab3652a6386c26f737", null ]
+    [ "CalcPeriodic", "dd/da0/a26473.html#a5b57273e0d9fc39a000c7bf4e232acb4", null ],
+    [ "CalculateAPAmount", "dd/da0/a26473.html#a65b6f1a2b322c928fd9a5992380d2e95", null ],
+    [ "CalculateResistanceAmount", "dd/da0/a26473.html#a3860e12ea334cb61a437941b6f9b81e0", null ],
+    [ "CalculateSPAmount", "dd/da0/a26473.html#abf0d76c220911d88990f3071f14a9d5a", null ],
+    [ "CalculateStatAmount", "dd/da0/a26473.html#a56489b52592e63dd00640de388926512", null ],
+    [ "HandleEffectApply", "dd/da0/a26473.html#a5180cc8beb5244bd0b957dfc89dc9cf4", null ],
+    [ "HandlePeriodic", "dd/da0/a26473.html#a67cb7b817f29dd41aa7d0dc8c87dc820", null ],
+    [ "PrepareAuraScript", "dd/da0/a26473.html#a5b65221c67283a29cbeb63cafe64457a", null ],
+    [ "Register", "dd/da0/a26473.html#acc22795ea812f31b0b9e21e6494c2d19", null ]
 ];

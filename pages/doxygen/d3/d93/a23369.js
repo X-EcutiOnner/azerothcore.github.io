@@ -1,6 +1,6 @@
 var a23369 =
 [
-    [ "HandleScriptEffect", "d3/d93/a23369.html#afae95a49843aa956d627e9bd92f8820f", null ],
-    [ "PrepareSpellScript", "d3/d93/a23369.html#a434945da0a6b64db79cab0e09cbbb286", null ],
-    [ "Register", "d3/d93/a23369.html#a396acb663b8c9151196b8fedea3660c7", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d3/d93/a23369.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
+    [ "OnGameObjectCreate", "d3/d93/a23369.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
+    [ "SetBossState", "d3/d93/a23369.html#ab1e344fbf169ee40f28741217f3dca14", null ]
 ];

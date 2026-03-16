@@ -1,8 +1,6 @@
 var a18925 =
 [
-    [ "npc_rotting_frost_giantAI", "d4/d34/a18925.html#a7b412075e17a81bf50aba63f96c16e53", null ],
-    [ "JustDied", "d4/d34/a18925.html#a68b4e823de82fdfd31ccf765192e8768", null ],
-    [ "Reset", "d4/d34/a18925.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
-    [ "UpdateAI", "d4/d34/a18925.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
-    [ "_events", "d4/d34/a18925.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
+    [ "ManaVoidSelector", "d4/d34/a18925.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "d4/d34/a18925.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "d4/d34/a18925.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

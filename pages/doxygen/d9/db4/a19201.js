@@ -1,9 +1,7 @@
 var a19201 =
 [
-    [ "spell_trigger_spell_from_caster", "d9/db4/a19201.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
-    [ "HandleTrigger", "d9/db4/a19201.html#afc11c9408ea11cb04e476999a9bdf522", null ],
-    [ "PrepareSpellScript", "d9/db4/a19201.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
-    [ "Register", "d9/db4/a19201.html#ae44cc1a87267c1d08603d1aff2384957", null ],
-    [ "Validate", "d9/db4/a19201.html#a3aace9a309bc848b887b03c949c921bd", null ],
-    [ "_triggerId", "d9/db4/a19201.html#a29af52a9035f18936515a464889fefe5", null ]
+    [ "Land", "d9/db4/a19201.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
+    [ "PrepareSpellScript", "d9/db4/a19201.html#a31e45adb87719c311fb5b94b2b744487", null ],
+    [ "Register", "d9/db4/a19201.html#a652eca6ec8079b2835d911807857c8a8", null ],
+    [ "RemoveAliveTarget", "d9/db4/a19201.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
 ];

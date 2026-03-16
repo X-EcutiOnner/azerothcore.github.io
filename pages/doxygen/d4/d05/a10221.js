@@ -1,18 +1,15 @@
 var a10221 =
 [
-    [ "MoveSplineInitArgs", "d4/d05/a10221.html#aa2b6c8940e7dc8bdd4ea6047a5ff1a68", null ],
-    [ "_checkPathBounds", "d4/d05/a10221.html#a984db18cdbd061605a9d486b061dc7c0", null ],
-    [ "Validate", "d4/d05/a10221.html#a17beca23a7a7eaa298debb5e9638daca", null ],
-    [ "facing", "d4/d05/a10221.html#a8800fca5b50ab5123e92b28e921ec8b0", null ],
-    [ "flags", "d4/d05/a10221.html#ac4271ed0434fc8e7f7a70e8869d81a0e", null ],
-    [ "HasVelocity", "d4/d05/a10221.html#acad05815ff039fe1fea3d7cf56afb4f2", null ],
-    [ "initialOrientation", "d4/d05/a10221.html#ab0b66cba791fc206be5b64310480cb88", null ],
-    [ "parabolic_amplitude", "d4/d05/a10221.html#a133d1d0172fde0564a58a004cb354ed0", null ],
-    [ "path", "d4/d05/a10221.html#a3857df1ab2d6dafef4a6d796e6593341", null ],
-    [ "path_Idx_offset", "d4/d05/a10221.html#a6b6aaf43685649798db46d7b409d3e32", null ],
-    [ "splineId", "d4/d05/a10221.html#ac8c84e828c23801a68524c9811f0336b", null ],
-    [ "time_perc", "d4/d05/a10221.html#afe51d24d71b71e87015eeb4851418503", null ],
-    [ "TransformForTransport", "d4/d05/a10221.html#ad9e8518e61b2f5f6ff8380518a6ad0cc", null ],
-    [ "velocity", "d4/d05/a10221.html#af042454593bfd4dc888c1700af437933", null ],
-    [ "walk", "d4/d05/a10221.html#aa58f23e75134e46a9ccbb2c563ecdc22", null ]
+    [ "EscortMovementGenerator", "d4/d05/a10221.html#a91a6caae81e7715fdcf4c7134f88bc0b", null ],
+    [ "DoFinalize", "d4/d05/a10221.html#a4c191a86f5ecc30ae5b34d7578d58d3e", null ],
+    [ "DoInitialize", "d4/d05/a10221.html#ad068798c6e186c1eb1a79f3872955e97", null ],
+    [ "DoReset", "d4/d05/a10221.html#ac4934d70ab62e08488cfc29c13355a7f", null ],
+    [ "DoUpdate", "d4/d05/a10221.html#a524bb8f72836dc5d1b63e429436b3a77", null ],
+    [ "GetMovementGeneratorType", "d4/d05/a10221.html#a0733162a5a0cab2593150f288edeb27b", null ],
+    [ "GetSplineId", "d4/d05/a10221.html#a61d74b098d1ae692ce305fa493aaa6d2", null ],
+    [ "unitSpeedChanged", "d4/d05/a10221.html#a235e330c4c3368af00d37028915684ff", null ],
+    [ "_forcedMovement", "d4/d05/a10221.html#a44019e4185abeb123a163a20c8f47d18", null ],
+    [ "_splineId", "d4/d05/a10221.html#af6286fa4ed6afcc8a6c5f03575c774e6", null ],
+    [ "i_recalculateSpeed", "d4/d05/a10221.html#a9f7048c5e49cc09f809496312a0c6550", null ],
+    [ "m_precomputedPath", "d4/d05/a10221.html#a46eb2812a1b2a56e584b925cae2169eb", null ]
 ];

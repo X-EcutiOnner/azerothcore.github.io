@@ -1,11 +1,12 @@
 var a28457 =
 [
-    [ "SetUp", "d2/dd0/a28457.html#abb28ef64461635a540dad471b7b12ebc", null ],
-    [ "TearDown", "d2/dd0/a28457.html#ace0b9a0c578a6b8ec1d33ad584aaf911", null ],
-    [ "_previousWorld", "d2/dd0/a28457.html#a2633d21816e5aa3e4a649292f07a3369", null ],
-    [ "_worldMock", "d2/dd0/a28457.html#ae1629c69438e29ea7be460120132b68b", null ],
-    [ "arenaTeams", "d2/dd0/a28457.html#ab40dacafdb3c5de73cf66426d014a4fe", null ],
-    [ "team1", "d2/dd0/a28457.html#a325d8058950e53d17e16fd90cd105776", null ],
-    [ "team2", "d2/dd0/a28457.html#ac6336ffa31e59a5d3acc227c674e9ea8", null ],
-    [ "team3", "d2/dd0/a28457.html#af3c2e86874e53ae812debbe1abfbcf05", null ]
+    [ "npc_elder_clearwaterAI", "d2/dd0/a28457.html#a4de89cf4a18918d577be4ac5cc55ba5a", null ],
+    [ "DoAction", "d2/dd0/a28457.html#ac46b0f66be3074f73f5a69cffee6d354", null ],
+    [ "GetData", "d2/dd0/a28457.html#a077c02bf06b16439225a5cf8d83babf2", null ],
+    [ "UpdateAI", "d2/dd0/a28457.html#afbec3c78d34ce4d11a11b56064f343f3", null ],
+    [ "events", "d2/dd0/a28457.html#a267fec22dc3d7272cae74267d0567618", null ],
+    [ "finished", "d2/dd0/a28457.html#af51d6abb8fc8b59d068156a4859a377e", null ],
+    [ "finishWarning", "d2/dd0/a28457.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc", null ],
+    [ "preWarning", "d2/dd0/a28457.html#a64abe15565c7e97a3a0ef195d436fedc", null ],
+    [ "startWarning", "d2/dd0/a28457.html#a01545211dec4338ac44304ebc7f18a97", null ]
 ];

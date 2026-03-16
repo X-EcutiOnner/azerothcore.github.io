@@ -1,6 +1,6 @@
 var a21677 =
 [
-    [ "npc_torturer_lecraftAI", "d2/d8b/a21681.html", "d2/d8b/a21681" ],
-    [ "npc_torturer_lecraft", "d6/d61/a21677.html#a789f8bdafe96d5cb01225b940a80c651", null ],
-    [ "GetAI", "d6/d61/a21677.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
+    [ "npc_dalaran_mageAI", "d2/d8b/a21681.html", "d2/d8b/a21681" ],
+    [ "npc_dalaran_mage", "d6/d61/a21677.html#a764d637ab0c64e2a0cc0459269974d6d", null ],
+    [ "GetAI", "d6/d61/a21677.html#ae2deef0546e2bf0df562e0a67b8b0b93", null ]
 ];

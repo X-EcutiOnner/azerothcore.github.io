@@ -1,7 +1,8 @@
 var a11109 =
 [
-    [ "TrainerBuySpell", "d8/d94/a11109.html#a8afb92fb908d5efd54bcb78269069d39", null ],
-    [ "Read", "d8/d94/a11109.html#aa916b9d01157f5f8e98efbcacb3bb5a2", null ],
-    [ "SpellID", "d8/d94/a11109.html#ae342c806c8faabae54260a26659d49ea", null ],
-    [ "TrainerGUID", "d8/d94/a11109.html#aca1d9dc89b96415a5065a67f7083423c", null ]
+    [ "SellItem", "d8/d94/a11109.html#a5c7bdfba6d948b9fdaea3416bce03e5e", null ],
+    [ "Read", "d8/d94/a11109.html#a7387e53c30f41dc8f5fd3ffbe4e4a347", null ],
+    [ "Count", "d8/d94/a11109.html#a0116f5d02f18bf1a315fbf81b6467239", null ],
+    [ "ItemGuid", "d8/d94/a11109.html#a92ae3a3dc04a699c4f201026c08974ca", null ],
+    [ "VendorGuid", "d8/d94/a11109.html#a13200b200096a11e93a6d23fd6122378", null ]
 ];

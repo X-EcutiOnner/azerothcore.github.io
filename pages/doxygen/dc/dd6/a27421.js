@@ -1,9 +1,9 @@
 var a27421 =
 [
-    [ "npc_chicken_cluckAI", "dc/dd6/a27421.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "dc/dd6/a27421.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "dc/dd6/a27421.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "dc/dd6/a27421.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "dc/dd6/a27421.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "dc/dd6/a27421.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "Absorb", "dc/dd6/a27421.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
+    [ "CalculateAmount", "dc/dd6/a27421.html#a820c27c2161063307a10903cbbc5c0fa", null ],
+    [ "Load", "dc/dd6/a27421.html#a7b71990051faaa083110408c13b8401f", null ],
+    [ "PrepareAuraScript", "dc/dd6/a27421.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
+    [ "Register", "dc/dd6/a27421.html#aa443ab0eed74229883884fbced0426d7", null ],
+    [ "absorbPct", "dc/dd6/a27421.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
 ];

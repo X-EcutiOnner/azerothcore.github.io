@@ -1,6 +1,6 @@
 var a25601 =
 [
-    [ "HandleProc", "d0/d71/a25601.html#aa333d52d905e722554d8d61c4b9cb656", null ],
-    [ "PrepareAuraScript", "d0/d71/a25601.html#aac4320b061d627e4ffef737d2e858ef3", null ],
-    [ "Register", "d0/d71/a25601.html#ad58fea9afa6a3596437a324ec525982e", null ]
+    [ "CalculateAmount", "d0/d71/a25601.html#ac0018b57967a3d3ae71aa81745032f15", null ],
+    [ "PrepareAuraScript", "d0/d71/a25601.html#ab249a493050c5527eeec8913e94cfc64", null ],
+    [ "Register", "d0/d71/a25601.html#a8f078f8370eacba197ceb2068b6a538d", null ]
 ];

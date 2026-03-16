@@ -1,6 +1,7 @@
 var a25433 =
 [
-    [ "OnRemove", "d6/d84/a25433.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
-    [ "PrepareAuraScript", "d6/d84/a25433.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
-    [ "Register", "d6/d84/a25433.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
+    [ "HandleDummy", "d6/d84/a25433.html#a704a2f1c36b32809b22bc3edc87b3414", null ],
+    [ "PrepareSpellScript", "d6/d84/a25433.html#aad01f2888176e8a555fe7acd1bc3fd8b", null ],
+    [ "Register", "d6/d84/a25433.html#ae12fa2b2f9859b465a64fbec04345c9e", null ],
+    [ "Validate", "d6/d84/a25433.html#ad4bb369ef46122cd45c38d876884d350", null ]
 ];

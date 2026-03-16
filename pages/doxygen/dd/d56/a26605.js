@@ -1,6 +1,8 @@
 var a26605 =
 [
-    [ "HandleKnockBack", "dd/d56/a26605.html#abad9f9293260a3e99be98b43aabb321b", null ],
-    [ "PrepareSpellScript", "dd/d56/a26605.html#a65787b78165631898458264e6ee310f4", null ],
-    [ "Register", "dd/d56/a26605.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
+    [ "ApplyPermafrost", "dd/d56/a26605.html#a06bb458e038b97696362681a6fd28104", null ],
+    [ "PrepareAuraScript", "dd/d56/a26605.html#a3d96d6f5f798efc92572e2a52349102d", null ],
+    [ "Register", "dd/d56/a26605.html#a613e5af53064357f4e8e4d6260c6856a", null ],
+    [ "RemovePermafrost", "dd/d56/a26605.html#a9414746a76f53a5258cf617abefd5bd6", null ],
+    [ "Validate", "dd/d56/a26605.html#addd58a0138e3cdb5cb274c8a38151a45", null ]
 ];

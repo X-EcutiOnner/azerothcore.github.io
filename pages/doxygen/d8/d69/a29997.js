@@ -1,7 +1,15 @@
 var a29997 =
 [
-    [ "MPQArchive", "d3/d0e/a28988.html", "d3/d0e/a28988" ],
-    [ "MPQFile", "de/dc5/a28992.html", "de/dc5/a28992" ],
-    [ "ArchiveSet", "d8/d69/a29997.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "d8/d69/a29997.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "toMMAPTileRecastConfig", "d8/d69/a29997.html#ad46c79822cfc2af7b0fbcab1f4c617fa", null ],
+    [ "baseUnitDim", "d8/d69/a29997.html#a9e09d86e08925e501f9f9a5d73f9119c", null ],
+    [ "cellSizeHorizontal", "d8/d69/a29997.html#a4dfcfc16d4c854bc210d8c6827d27ba7", null ],
+    [ "cellSizeVertical", "d8/d69/a29997.html#a0b49e8a9b40c7bed81a28fb5b284c735", null ],
+    [ "maxSimplificationError", "d8/d69/a29997.html#a37fbb64246708db0e7c9788d8f06c04b", null ],
+    [ "tilesPerMapEdge", "d8/d69/a29997.html#a14a858b17d96f6d5945ecfa77bc0fb00", null ],
+    [ "vertexPerMapEdge", "d8/d69/a29997.html#adba40fb00d24af999a1970e3a5fed198", null ],
+    [ "vertexPerTileEdge", "d8/d69/a29997.html#ae7421270c917171607ff972483df0ba1", null ],
+    [ "walkableClimb", "d8/d69/a29997.html#a5501534adbc4018b5047599c12a2e582", null ],
+    [ "walkableHeight", "d8/d69/a29997.html#a3513a1b33d8682303eae1eaa30615a07", null ],
+    [ "walkableRadius", "d8/d69/a29997.html#a0fd92998a753ea4ae76fac8c649645ac", null ],
+    [ "walkableSlopeAngle", "d8/d69/a29997.html#afa96a254067d2173288479cc60a6c97c", null ]
 ];

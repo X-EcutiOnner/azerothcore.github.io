@@ -1,14 +1,9 @@
 var a22245 =
 [
-    [ "npc_finklesteinAI", "d1/d58/a22245.html#a075481689af110f8c20cd5ca13258ba3", null ],
-    [ "ClearPlayerOnTask", "d1/d58/a22245.html#ad6ec9c020ba2f8eae9250a89fbe9490d", null ],
-    [ "GetTaskAura", "d1/d58/a22245.html#ae3a1b7fbdd9aba64e8f853f53d9c261c", null ],
-    [ "GetTaskCounter", "d1/d58/a22245.html#a240e8f556176b9571bd08407276402be", null ],
-    [ "GetTaskItemEntry", "d1/d58/a22245.html#a08a3005db6d192663a835b9ee192352b", null ],
-    [ "GetTaskItemName", "d1/d58/a22245.html#adce990629aa1833dc07c7dbb1297cead", null ],
-    [ "IsPlayerOnTask", "d1/d58/a22245.html#ad815f0d79ab73d95e9fbf3a659aea2ce", null ],
-    [ "RightClickCauldron", "d1/d58/a22245.html#a71fea2fdf5079fbc1d8baa72e7e4ae82", null ],
-    [ "SelectRandomCode", "d1/d58/a22245.html#a16c9ddf6f2f858f4147a0188e0df7250", null ],
-    [ "StartNextTask", "d1/d58/a22245.html#a89c5c3a90fad1719bc4d2e2cb611e8c7", null ],
-    [ "questList", "d1/d58/a22245.html#a5c3a3237579721b94dd433841b83bb02", null ]
+    [ "npc_brunnhildar_prisonerAI", "d1/d58/a22245.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "d1/d58/a22245.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "d1/d58/a22245.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "d1/d58/a22245.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "d1/d58/a22245.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "d1/d58/a22245.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

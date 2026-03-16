@@ -1,19 +1,6 @@
 var a11353 =
 [
-    [ "PacketThrottlingMap", "de/d77/a11353.html#aa41dd21032403490c49a400651c98855", null ],
-    [ "Policy", "de/d77/a11353.html#abdee2870dbaa3341ecd6f682f87a63aa", [
-      [ "Process", "de/d77/a11353.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe", null ],
-      [ "Kick", "de/d77/a11353.html#abdee2870dbaa3341ecd6f682f87a63aaa3e07960fcc45408894cf1402257bd9fd", null ],
-      [ "Ban", "de/d77/a11353.html#abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9", null ],
-      [ "Log", "de/d77/a11353.html#abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b", null ],
-      [ "BlockingThrottle", "de/d77/a11353.html#abdee2870dbaa3341ecd6f682f87a63aaa1974493f69f8fbf2eb0a63a852d132bb", null ],
-      [ "DropPacket", "de/d77/a11353.html#abdee2870dbaa3341ecd6f682f87a63aaa3bd03342168b3845d34fccaf6543c970", null ]
-    ] ],
-    [ "DosProtection", "de/d77/a11353.html#a8e43f21b9c729db604c9afd90f68dc20", null ],
-    [ "DosProtection", "de/d77/a11353.html#a8850d18ae254633f6bde5c85cbcef830", null ],
-    [ "EvaluateOpcode", "de/d77/a11353.html#a575c7bcb895ad0a3d0456f0a99ee5ec7", null ],
-    [ "operator=", "de/d77/a11353.html#a98394089b867ff6e8107b7975a67737d", null ],
-    [ "World", "de/d77/a11353.html#a7b4bcdf992c21ae83363f25df05b1d25", null ],
-    [ "_PacketThrottlingMap", "de/d77/a11353.html#ab74f0cf257d3db9076e3a8771de63eb3", null ],
-    [ "Session", "de/d77/a11353.html#a3f3f5397fb30cdf14141480659b18208", null ]
+    [ "NameQuery", "de/d77/a11353.html#a7dc5a2dceb475303db4b4ab0c0a6d23c", null ],
+    [ "Read", "de/d77/a11353.html#ae4a16ebe5372214d3aec65b056a9426e", null ],
+    [ "Guid", "de/d77/a11353.html#a52528a68f1c86196e7428f196f93d12b", null ]
 ];

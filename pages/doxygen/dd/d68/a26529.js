@@ -1,9 +1,8 @@
 var a26529 =
 [
-    [ "HandleHeal", "dd/d68/a26529.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
-    [ "Load", "dd/d68/a26529.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
-    [ "PrepareSpellScript", "dd/d68/a26529.html#a91eb46af707897f228e5d1bbd199a833", null ],
-    [ "Register", "dd/d68/a26529.html#ae28f1b0c23511153eafc037cae067bc0", null ],
-    [ "firstHeal", "dd/d68/a26529.html#a405326e6e1cd82816aef1712fdf335a0", null ],
-    [ "riptide", "dd/d68/a26529.html#acaec32f6730bc2e04e613aa982d285bf", null ]
+    [ "CheckProc", "dd/d68/a26529.html#a23dc61d8a007832a37ab7da71c36537d", null ],
+    [ "HandleProc", "dd/d68/a26529.html#a613182c741769d0983206bdfa89242f6", null ],
+    [ "PrepareAuraScript", "dd/d68/a26529.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
+    [ "Register", "dd/d68/a26529.html#acd807de02a83a97a78572d672fb16027", null ],
+    [ "Validate", "dd/d68/a26529.html#a3d2d6f1a00825ac66f507a790f468198", null ]
 ];

@@ -1,6 +1,6 @@
 var a23597 =
 [
-    [ "HandleCast", "d3/d8b/a23597.html#a912dc3b17ab7d0818089c32610d82a16", null ],
-    [ "PrepareSpellScript", "d3/d8b/a23597.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
-    [ "Register", "d3/d8b/a23597.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "dc/d51/a23601.html", "dc/d51/a23601" ],
+    [ "instance_magtheridons_lair", "d3/d8b/a23597.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
+    [ "GetInstanceScript", "d3/d8b/a23597.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
 ];

@@ -1,6 +1,5 @@
 var a20793 =
 [
-    [ "FilterTargets", "d0/d83/a20793.html#a7efa78a7991b7ca859c7d622f973265d", null ],
-    [ "PrepareSpellScript", "d0/d83/a20793.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
-    [ "Register", "d0/d83/a20793.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
+    [ "achievement_thorim_lose_your_illusion", "d0/d83/a20793.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
+    [ "OnCheck", "d0/d83/a20793.html#a322df4f30445a84085615925f74a8a6b", null ]
 ];

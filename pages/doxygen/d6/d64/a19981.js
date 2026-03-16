@@ -1,5 +1,6 @@
 var a19981 =
 [
-    [ "achievement_algalon_he_feeds_on_your_tears", "d6/d64/a19981.html#a91f4ddbce55a50e563df701eb0bcfff7", null ],
-    [ "OnCheck", "d6/d64/a19981.html#affea33614581545c65513bfe533d7246", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "d9/d2d/a19985.html", "d9/d2d/a19985" ],
+    [ "instance_halls_of_lightning", "d6/d64/a19981.html#a24395866efe2c7d1f7727be2557a8b46", null ],
+    [ "GetInstanceScript", "d6/d64/a19981.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
 ];

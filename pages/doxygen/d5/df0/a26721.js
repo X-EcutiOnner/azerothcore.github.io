@@ -1,8 +1,11 @@
 var a26721 =
 [
-    [ "Load", "d5/df0/a26721.html#af6c19828b80a6cc06e4c9c207e7c52b8", null ],
-    [ "OnRemove", "d5/df0/a26721.html#a097cf2a2abecda1e89f85bc4bd4ec029", null ],
-    [ "PrepareAuraScript", "d5/df0/a26721.html#a2161d27a90b3f87fd07f75723b6d9e13", null ],
-    [ "Register", "d5/df0/a26721.html#a932760326c822f1b47df1afdec6bb9cb", null ],
-    [ "Validate", "d5/df0/a26721.html#a69bcfedb7f566c572201aadc9e75df08", null ]
+    [ "CheckCast", "d5/df0/a26721.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
+    [ "HandleMaxHealthHeal", "d5/df0/a26721.html#a019833641487ac07cb2c8740d5686a41", null ],
+    [ "HandleScript", "d5/df0/a26721.html#a35b9d69b8147ef06527b8533ef376e72", null ],
+    [ "Load", "d5/df0/a26721.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
+    [ "PrepareSpellScript", "d5/df0/a26721.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
+    [ "Register", "d5/df0/a26721.html#afd716f555ac73287bd268c6124b15b1c", null ],
+    [ "Validate", "d5/df0/a26721.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
+    [ "_manaAmount", "d5/df0/a26721.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
 ];

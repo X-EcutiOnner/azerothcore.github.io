@@ -1,6 +1,7 @@
 var a21933 =
 [
-    [ "npc_tournament_training_dummyAI", "dc/de9/a21937.html", "dc/de9/a21937" ],
-    [ "npc_tournament_training_dummy", "de/de8/a21933.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
-    [ "GetAI", "de/de8/a21933.html#a31257c155c3a49c69771156800cf6340", null ]
+    [ "HandleScript", "de/de8/a21933.html#a95de3ae27cfd764380ab1648b49af38d", null ],
+    [ "Load", "de/de8/a21933.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
+    [ "PrepareSpellScript", "de/de8/a21933.html#a442138710213b9b120d8ce57b733205a", null ],
+    [ "Register", "de/de8/a21933.html#af9d8f764a6a02737f8b559f067156df6", null ]
 ];

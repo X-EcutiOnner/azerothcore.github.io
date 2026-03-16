@@ -1,6 +1,6 @@
 var a17733 =
 [
-    [ "HandleScript", "db/d61/a17733.html#acd11d50f398857dc2a24bd2d63e52222", null ],
-    [ "PrepareSpellScript", "db/d61/a17733.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
-    [ "Register", "db/d61/a17733.html#ad7f12515dc21ab6b19148370fd491629", null ]
+    [ "StandUpEvent", "db/d61/a17733.html#a2f68b19898c65b9229159d9133b3d7cf", null ],
+    [ "Execute", "db/d61/a17733.html#a56bc1071300ff8f81e62839685e8f53a", null ],
+    [ "_owner", "db/d61/a17733.html#a456a494140657d81b203834f7b88d5d1", null ]
 ];

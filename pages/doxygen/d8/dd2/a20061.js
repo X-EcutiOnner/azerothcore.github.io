@@ -1,11 +1,6 @@
 var a20061 =
 [
-    [ "boss_flame_leviathan_defense_turret", "d8/dd2/a20061.html#a47ccbb6d0b4429763606b5a1e5719e79", null ],
-    [ "CanAIAttack", "d8/dd2/a20061.html#a17020dc7facabb0cacac3209277a73f7", null ],
-    [ "DamageTaken", "d8/dd2/a20061.html#ac15aadce1954d827b7e833ed761faf10", null ],
-    [ "JustDied", "d8/dd2/a20061.html#a6865c79397cb1c6efcba9952c9a9b61f", null ],
-    [ "KilledUnit", "d8/dd2/a20061.html#ae5e411c86e88c4da2a74c7281a7c7e6b", null ],
-    [ "UpdateAI", "d8/dd2/a20061.html#a9d6e48e613a65f7a3bec76ce6ea73574", null ],
-    [ "_instance", "d8/dd2/a20061.html#a5f4fe282b2a9e1ba1f8dacd38572c94f", null ],
-    [ "_setHealth", "d8/dd2/a20061.html#a413187aa01c119d088846a216f093baa", null ]
+    [ "HandleScript", "d8/dd2/a20061.html#a992dbad02eab01824d870bdd3fca93d0", null ],
+    [ "PrepareSpellScript", "d8/dd2/a20061.html#a0e6b4d1f59896a255929556baa943bdb", null ],
+    [ "Register", "d8/dd2/a20061.html#a6bd2b3f20ee88fbba18ea6da6e8a23ab", null ]
 ];

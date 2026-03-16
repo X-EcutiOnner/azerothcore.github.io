@@ -1,6 +1,6 @@
 var a17069 =
 [
-    [ "instance_drak_tharon_keep", "dc/dff/a17069.html#ac3aca003330592eae06a1d843c0ae9ce", null ],
-    [ "OnGameObjectCreate", "dc/dff/a17069.html#acf6da22dd55ac945360a6c40d2b55ccf", null ],
-    [ "OnGameObjectRemove", "dc/dff/a17069.html#a0acbb86696d31eb2ef4bdd868ca03351", null ]
+    [ "boss_dreadscaleAI", "d1/de2/a17073.html", "d1/de2/a17073" ],
+    [ "boss_dreadscale", "dc/dff/a17069.html#ab3276e515419303358b0ee59bc92c12e", null ],
+    [ "GetAI", "dc/dff/a17069.html#ab8c8cebfa6843404338ea5bc3ac8f3f7", null ]
 ];

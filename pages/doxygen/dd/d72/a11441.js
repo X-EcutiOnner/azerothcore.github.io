@@ -1,13 +1,8 @@
 var a11441 =
 [
-    [ "alive", "dd/d72/a11441.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
-    [ "crit", "dd/d72/a11441.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
-    [ "damage", "dd/d72/a11441.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
-    [ "effectMask", "dd/d72/a11441.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
-    [ "missCondition", "dd/d72/a11441.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
-    [ "processed", "dd/d72/a11441.html#a2de96d62297ff614fc3702bec035ce5b", null ],
-    [ "reflectResult", "dd/d72/a11441.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
-    [ "scaleAura", "dd/d72/a11441.html#a89bba366b26686d41288e9b2e725eb75", null ],
-    [ "targetGUID", "dd/d72/a11441.html#acf55c1dd6f00c94296c592d988f959cf", null ],
-    [ "timeDelay", "dd/d72/a11441.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
+    [ "ServerPktHeader", "dd/d72/a11441.html#a761e294fccc02055a46bfc46656da706", null ],
+    [ "getHeaderLength", "dd/d72/a11441.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
+    [ "isLargePacket", "dd/d72/a11441.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
+    [ "header", "dd/d72/a11441.html#adc69128832b16124c284c584e7540b11", null ],
+    [ "size", "dd/d72/a11441.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
 ];

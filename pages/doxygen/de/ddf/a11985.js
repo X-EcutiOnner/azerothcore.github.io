@@ -1,13 +1,12 @@
 var a11985 =
 [
-    [ "gm_commandscript", "de/ddf/a11985.html#a1b24112b70818778755ef9b5b062b2e8", null ],
-    [ "GetCommands", "de/ddf/a11985.html#a17c725e18324de7aadff260c77d75c45", null ],
-    [ "HandleGMChatCommand", "de/ddf/a11985.html#a15a18b1179a602da3eeba7e8247fbbac", null ],
-    [ "HandleGMFlyCommand", "de/ddf/a11985.html#a29829660f39c9bfa4190bbb118f482ba", null ],
-    [ "HandleGMListFullCommand", "de/ddf/a11985.html#add9bd1e64f98964e68cd1be3df6295e7", null ],
-    [ "HandleGMListIngameCommand", "de/ddf/a11985.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
-    [ "HandleGMOffCommand", "de/ddf/a11985.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
-    [ "HandleGMOnCommand", "de/ddf/a11985.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
-    [ "HandleGMSpectatorCommand", "de/ddf/a11985.html#ab05933bfefd1f5727bef430eeac2cee9", null ],
-    [ "HandleGMVisibleCommand", "de/ddf/a11985.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
+    [ "WardenMac", "de/ddf/a11985.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
+    [ "~WardenMac", "de/ddf/a11985.html#a5f3832580c73a0af34fa83669a92ceab", null ],
+    [ "GetModuleForClient", "de/ddf/a11985.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
+    [ "HandleData", "de/ddf/a11985.html#a024be47d39641cb0e7654b0e0999e444", null ],
+    [ "HandleHashResult", "de/ddf/a11985.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
+    [ "Init", "de/ddf/a11985.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
+    [ "InitializeModule", "de/ddf/a11985.html#a4fceef34e83db1a357d9eadce35efdef", null ],
+    [ "RequestChecks", "de/ddf/a11985.html#a2437a3a5650305b05fc22d312d0006da", null ],
+    [ "RequestHash", "de/ddf/a11985.html#af031f18554c5a96b4eb39371a92b9c51", null ]
 ];

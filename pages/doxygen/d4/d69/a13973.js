@@ -1,10 +1,6 @@
 var a13973 =
 [
-    [ "npc_grand_magister_rommathAI", "d4/d69/a13973.html#a5e9404dd8bf4b513e05daac53c076314", null ],
-    [ "DoAction", "d4/d69/a13973.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
-    [ "MoveInLineOfSight", "d4/d69/a13973.html#ad35b64b37915484b133bcd185a832011", null ],
-    [ "UpdateAI", "d4/d69/a13973.html#ac687bd20f0ae66b21ce52c21561af417", null ],
-    [ "announced", "d4/d69/a13973.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
-    [ "events", "d4/d69/a13973.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
-    [ "playerGUID", "d4/d69/a13973.html#ad0ac0647feb998e837a44b0a688694e9", null ]
+    [ "instance_the_stockade_InstanceMapScript", "d7/dce/a13977.html", "d7/dce/a13977" ],
+    [ "instance_the_stockade", "d4/d69/a13973.html#a533049c10a72da4b94f9807017f28c0d", null ],
+    [ "GetInstanceScript", "d4/d69/a13973.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
 ];

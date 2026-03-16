@@ -1,9 +1,8 @@
 var a25741 =
 [
-    [ "OnEffectHitTargetDisarm", "d8/d5f/a25741.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
-    [ "OnEffectHitTargetStun", "d8/d5f/a25741.html#a5a5253b6d152b1af78de663c09451536", null ],
-    [ "OnEffectLaunchTargetDisarm", "d8/d5f/a25741.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
-    [ "OnEffectLaunchTargetStun", "d8/d5f/a25741.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
-    [ "PrepareSpellScript", "d8/d5f/a25741.html#a113219d3376a23f8889f26f10744e7cb", null ],
-    [ "Register", "d8/d5f/a25741.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
+    [ "HandleRapidFireProc", "d8/d5f/a25741.html#a174eb1d766c0ae7f59fabdefe565e1de", null ],
+    [ "HandleRapidKillingProc", "d8/d5f/a25741.html#a12f24814d41837c8ddb8a42c8e932077", null ],
+    [ "PrepareAuraScript", "d8/d5f/a25741.html#aa75ea03f718a90a49d81ff49d765c74d", null ],
+    [ "Register", "d8/d5f/a25741.html#af1d93d8ea32a74f7bb6c115f21c5c6c3", null ],
+    [ "Validate", "d8/d5f/a25741.html#a01598fbd355dfdd4517d4221ad5ae323", null ]
 ];

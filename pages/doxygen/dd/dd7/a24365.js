@@ -1,7 +1,7 @@
 var a24365 =
 [
-    [ "CorpseExplosionCheck", "dd/dd7/a24365.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
-    [ "operator()", "dd/dd7/a24365.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
-    [ "_allowGhoul", "dd/dd7/a24365.html#abd42a0731af969ceccdfceae722ba276", null ],
-    [ "_casterGUID", "dd/dd7/a24365.html#a497df87745f452716c652e9b1be6d46f", null ]
+    [ "npc_pet_gen_target_following_bomb", "dd/dd7/a24365.html#a447c2cd258d784ca1d79c79412a1a426", null ],
+    [ "UpdateAI", "dd/dd7/a24365.html#ac68f18d68a313623c04e885f9506f287", null ],
+    [ "bombSpellId", "dd/dd7/a24365.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
+    [ "checkTimer", "dd/dd7/a24365.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
 ];

@@ -1,6 +1,6 @@
 var a28133 =
 [
-    [ "Enchantment", "d4/d91/a28133.html#a480ab806214bb138d56dfd5e9e43936f", null ],
-    [ "ID", "d4/d91/a28133.html#acb673be771124b84dd3fdd5deb300de7", null ],
-    [ "Name", "d4/d91/a28133.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
+    [ "go_witherbark_totem_bundleAI", "d7/d00/a28137.html", "d7/d00/a28137" ],
+    [ "go_witherbark_totem_bundle", "d4/d91/a28133.html#affcdff7ec6894add0acec842028efd2e", null ],
+    [ "GetAI", "d4/d91/a28133.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
 ];

@@ -1,7 +1,8 @@
 var a14589 =
 [
-    [ "npc_direbrew_minion", "df/d82/a14589.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
-    [ "IsSummonedBy", "df/d82/a14589.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
-    [ "Reset", "df/d82/a14589.html#a21fb7a778e9025ca4185951460a96d08", null ],
-    [ "_instance", "df/d82/a14589.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
+    [ "npc_spawn_of_marli", "df/d82/a14589.html#a1dcd5066de108203903f5767c4b375ea", null ],
+    [ "JustEngagedWith", "df/d82/a14589.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
+    [ "Reset", "df/d82/a14589.html#a79ef192d41af75e0dad0494776c75189", null ],
+    [ "UpdateAI", "df/d82/a14589.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
+    [ "_scheduler", "df/d82/a14589.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
 ];

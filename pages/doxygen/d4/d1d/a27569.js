@@ -1,6 +1,8 @@
 var a27569 =
 [
-    [ "npc_necropolis_proxy", "d4/d1d/a27569.html#a73f92ee73673172989d48064e5984db0", null ],
-    [ "SpellHit", "d4/d1d/a27569.html#a90d1ab55683a6409403e24291643cca5", null ],
-    [ "SpellHitTarget", "d4/d1d/a27569.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
+    [ "CheckProc", "d4/d1d/a27569.html#addcb648b62f4503f090c248b8d97eb4e", null ],
+    [ "HandleProc", "d4/d1d/a27569.html#ad37f40743c1435df6e89187e2677a3f8", null ],
+    [ "PrepareAuraScript", "d4/d1d/a27569.html#ac1f447ca57dd6410d9c8686c7c2b7b2a", null ],
+    [ "Register", "d4/d1d/a27569.html#a9b8c97a29af60ec4a72d2ea85f5c08c4", null ],
+    [ "Validate", "d4/d1d/a27569.html#afec1afc80df1793d98371609e31b1401", null ]
 ];

@@ -1,6 +1,6 @@
 var a15041 =
 [
-    [ "HandleHeal", "d4/d9a/a15041.html#a953536a9a393af9472bdd89018449df0", null ],
-    [ "PrepareSpellScript", "d4/d9a/a15041.html#a70503fc6042001a860d361f2597b7153", null ],
-    [ "Register", "d4/d9a/a15041.html#a383479896e6deb96e50b827370ccfd4d", null ]
+    [ "OnAuraRemove", "d4/d9a/a15041.html#ad16e8b64999771154360afad71454c07", null ],
+    [ "PrepareAuraScript", "d4/d9a/a15041.html#a70963be80861e10ecd093e40b77e7078", null ],
+    [ "Register", "d4/d9a/a15041.html#a7381cbea873fb57485e4539aa478d236", null ]
 ];

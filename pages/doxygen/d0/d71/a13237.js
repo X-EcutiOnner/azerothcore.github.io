@@ -1,12 +1,13 @@
 var a13237 =
 [
-    [ "boss_vexallus", "d0/d71/a13237.html#a68c32ed70274e9f135b7a9107f888c91", null ],
-    [ "JustDied", "d0/d71/a13237.html#a5e67671becf3c1ac4ca9f04c79d82cf1", null ],
-    [ "JustEngagedWith", "d0/d71/a13237.html#aa9d37e8132c715552e2ce0102ac9a59b", null ],
-    [ "JustSummoned", "d0/d71/a13237.html#a9bc7808889da754bae9c935418975f90", null ],
-    [ "KilledUnit", "d0/d71/a13237.html#a48d44cc3ed6f0e7f97f76cd325e5c48e", null ],
-    [ "Reset", "d0/d71/a13237.html#a6ecf0817f6b1811fe9c62ac83d4b3dcc", null ],
-    [ "SummonedCreatureDies", "d0/d71/a13237.html#a4bd88222143d8db098312cff8a2fc969", null ],
-    [ "_energyCooldown", "d0/d71/a13237.html#a395d2186d70d1b7e29dbada7750da354", null ],
-    [ "_energyCount", "d0/d71/a13237.html#a4afa4a245b8863c7b0898773932642c8", null ]
+    [ "boss_roar", "d0/d71/a13237.html#a93e1d81bcff8b31841ae65628759ee7e", null ],
+    [ "DoAction", "d0/d71/a13237.html#a9a2778a803d6d41b256759b29452cc51", null ],
+    [ "EnterEvadeMode", "d0/d71/a13237.html#a198044653632b93838c0f79c06cb7640", null ],
+    [ "JustDied", "d0/d71/a13237.html#a3c79bea69740601ad89f0765f3af99f2", null ],
+    [ "JustEngagedWith", "d0/d71/a13237.html#a1db42b2b1a19ac4a959a51ce17c8ae32", null ],
+    [ "JustReachedHome", "d0/d71/a13237.html#a632929b026815a524bd79748e768e3fc", null ],
+    [ "KilledUnit", "d0/d71/a13237.html#aaaa0d33697fe1abc0df5bf9ecb249ffc", null ],
+    [ "UpdateAI", "d0/d71/a13237.html#a255d406f8bab62593a3eeda0e4e3d646", null ],
+    [ "_scheduler", "d0/d71/a13237.html#a54b45b1fdacc2b3982e21580b9b4d26a", null ],
+    [ "instance", "d0/d71/a13237.html#a67df04e89c877d565753ac077aa923c7", null ]
 ];

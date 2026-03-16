@@ -1,6 +1,6 @@
 var a14309 =
 [
-    [ "OnEffect", "d8/dc6/a14309.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
-    [ "PrepareSpellScript", "d8/dc6/a14309.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
-    [ "Register", "d8/dc6/a14309.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
+    [ "cooldown", "d8/dc6/a14309.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
+    [ "spell", "d8/dc6/a14309.html#a00ee3238030686e1cc66562f7cefb27a", null ],
+    [ "target", "d8/dc6/a14309.html#a16e54dbd059baac1b6e7229621339d83", null ]
 ];

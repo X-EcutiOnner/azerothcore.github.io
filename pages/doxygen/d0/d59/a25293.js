@@ -1,6 +1,6 @@
 var a25293 =
 [
-    [ "CheckCast", "d0/d59/a25293.html#a849de7a9bc8d22ca1556e4e798807eaa", null ],
-    [ "PrepareSpellScript", "d0/d59/a25293.html#aadbfe7c69dac7cbc76aee2bfb790b612", null ],
-    [ "Register", "d0/d59/a25293.html#a2ca1fd7353e69d1028b8a9b2882d7931", null ]
+    [ "HandleScriptEffect", "d0/d59/a25293.html#a422a77760004d6d6fac6bacdb1d436ff", null ],
+    [ "PrepareSpellScript", "d0/d59/a25293.html#a1d7e2beafb55464f928ea5904441d698", null ],
+    [ "Register", "d0/d59/a25293.html#aeaa8321255f377b85884df25a455554f", null ]
 ];

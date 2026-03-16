@@ -1,31 +1,32 @@
 var a02867 =
 [
-    [ "npcs_riverbreeze_and_silversky", "d9/d77/a15990.html", "d9/d77/a15990" ],
-    [ "at_ancient_leaf", "d2/d17/a15994.html", "d2/d17/a15994" ],
-    [ "AncientMisc", "d6/d92/a02867.html#adaffe09a7c2b9f9bfdc48d5068c18068", [
-      [ "QUEST_ANCIENT_LEAF", "d6/d92/a02867.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3", null ],
-      [ "NPC_VARTRUS", "d6/d92/a02867.html#adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99", null ],
-      [ "NPC_STOMA", "d6/d92/a02867.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81", null ],
-      [ "NPC_HASTAT", "d6/d92/a02867.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04", null ],
-      [ "CREATURE_GROUP_ANCIENTS", "d6/d92/a02867.html#adaffe09a7c2b9f9bfdc48d5068c18068a929e77d337e49edf4de033ddb8ccf149", null ]
+    [ "npc_muglash", "d3/d8b/a15793.html", "d3/d8b/a15793" ],
+    [ "npc_muglash::npc_muglashAI", "da/dc9/a15797.html", "da/dc9/a15797" ],
+    [ "Muglash", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057", [
+      [ "SAY_MUG_START1", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057a8f1263c089dd81c8bfe0e50dd08dbc3e", null ],
+      [ "SAY_MUG_START2", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057aa6ecd378ab24d862f8be4be085be2ac1", null ],
+      [ "SAY_MUG_BRAZIER", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057aa75eb8f63b1e11239c3e7692821201a5", null ],
+      [ "SAY_MUG_BRAZIER_WAIT", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057afc6a19f6790fbcaf0a7e0ea5e61e269a", null ],
+      [ "SAY_MUG_ON_GUARD", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057ad1908a7f2392471a96c8a4e2667812b8", null ],
+      [ "SAY_MUG_REST", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057acd07a7572fede15eb4c95479b05525ce", null ],
+      [ "SAY_MUG_DONE", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057aed6fe5718e188a37d7504397b80d2d1b", null ],
+      [ "SAY_MUG_GRATITUDE", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057ab4abdfdeeb30fa160aa35ae49a25ef63", null ],
+      [ "SAY_MUG_PATROL", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057a6d2374968adcf8d86491777fc2307c10", null ],
+      [ "SAY_MUG_RETURN", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057a513450df3bcff9f9b4909822f155d70d", null ],
+      [ "QUEST_VORSHA", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057ab7c8b31c047de9d4412c596681ff61e0", null ],
+      [ "GO_NAGA_BRAZIER", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057a09fae02b8c393729769fda6c507d80ab", null ],
+      [ "NPC_WRATH_RIDER", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057a776d3cf4369298d5e3f3c55c57d801c4", null ],
+      [ "NPC_WRATH_SORCERESS", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057a28edd059b13bec6dd1f8092d648fb5ff", null ],
+      [ "NPC_WRATH_RAZORTAIL", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057a9834947da78f9cbb0c1566379757a203", null ],
+      [ "NPC_WRATH_PRIESTESS", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057ae8f0e387b20dcfe4a4c0b3cf93196d8a", null ],
+      [ "NPC_WRATH_MYRMIDON", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057ac97e09870c98309d157f3b8243ea0a46", null ],
+      [ "NPC_WRATH_SEAWITCH", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057a28087f57cf60fb8024089f4fa9bd2494", null ],
+      [ "NPC_VORSHA", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057ab963d604f08a6fd8540d9711cfb91964", null ],
+      [ "NPC_MUGLASH", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057af96a3875f2bb850fcf7901fd8c6e3af7", null ],
+      [ "ACTION_EXTINGUISH_BLAZIER", "d6/d92/a02867.html#a61aa1bf847260f3b69320f14a98eb057a591d41376c012165076387e91c32d4d9", null ]
     ] ],
-    [ "RiverbreezeAndSilversky", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427", [
-      [ "SPELL_CENARION_BEACON", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427aefb9fe5d61b5fc5b810f077e47334d49", null ],
-      [ "ITEM_CENARION_BEACON", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427a677781938bceb63690d56c2e2c445f46", null ],
-      [ "ACTION_CREATE_CENARION_BEACON", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427acc340298bf9880e22b326c208affb4a1", null ],
-      [ "NPC_ARATHANDRIS_SILVERSKY", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427a15af7b53355112caefafe032f27b15d6", null ],
-      [ "NPC_MAYBESS_RIVERBREEZE", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427a3362be702aaaa11f11e1df72d0a8e149", null ],
-      [ "QUEST_CLEASING_FELWOOD_A", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427ab52d337e733144a5a21fce9825f80fff", null ],
-      [ "QUEST_CLEASING_FELWOOD_H", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427a24da8ad4e5cec47c9a66a1e03e07383f", null ],
-      [ "GOSSIP_MENU_SILVERSKY", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427a201df035f33936e3020580c82101e7f8", null ],
-      [ "GOSSIP_MENU_RIVERBREEZE", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427ac00e8bf57bf7a4be3444d02de30309dc", null ],
-      [ "GOSSIP_OPTION_BEACON", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427a0999bd0707a4dbe03c5715081af725e1", null ],
-      [ "TEXT_SILVERSKY_1", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427a3148f1367e563486599162f32be4af21", null ],
-      [ "TEXT_SILVERSKY_2", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427a62011283d742f7947270994268e055de", null ],
-      [ "TEXT_SILVERSKY_3", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427af033b1f55bfbe0ccfd66cd1df7b50289", null ],
-      [ "TEXT_RIVERBREEZE_1", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427ac53b44e51816fbef84a98123a317125e", null ],
-      [ "TEXT_RIVERBREEZE_2", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427a06658a3d493565d3f8a42555e037fa40", null ],
-      [ "TEXT_RIVERBREEZE_3", "d6/d92/a02867.html#acc75d54553750c832fe50b6cb0c42427a1d15502f6a496af4174cb3c5960818b5", null ]
-    ] ],
-    [ "AddSC_felwood", "d6/d92/a02867.html#a63ae28c9f250057b35a18fb585c6a2cf", null ]
+    [ "AddSC_ashenvale", "d6/d92/a02867.html#a5bc25863ec332eb1c8498f84556810c2", null ],
+    [ "FirstNagaCoord", "d6/d92/a02867.html#a44aaebd71b577ea90de1a8b853f557ed", null ],
+    [ "SecondNagaCoord", "d6/d92/a02867.html#a2381a800b34807e7f0d47d7b60feb025", null ],
+    [ "VorshaCoord", "d6/d92/a02867.html#ab15d952fc1bf94911661206ead25b5b1", null ]
 ];

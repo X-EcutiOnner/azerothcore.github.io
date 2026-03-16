@@ -1,7 +1,12 @@
 var a18961 =
 [
-    [ "npc_captain_arnathAI", "d9/dbb/a18961.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
-    [ "FindFriendlyCreature", "d9/dbb/a18961.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
-    [ "Reset", "d9/dbb/a18961.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
-    [ "UpdateAI", "d9/dbb/a18961.html#a020efd7adc0d60152007906e3229988d", null ]
+    [ "npc_the_lich_king_controllerAI", "d9/dbb/a18961.html#a211c370e9c370e00fba3c83e51738886", null ],
+    [ "AttackStart", "d9/dbb/a18961.html#a58e11746c14f6bbb1b5c56c1d0136d9f", null ],
+    [ "DoAction", "d9/dbb/a18961.html#aaf940a0ca812d84dbde81fc7e41feaca", null ],
+    [ "JustSummoned", "d9/dbb/a18961.html#aa610e24316505165cbb826ff5bece5c5", null ],
+    [ "MoveInLineOfSight", "d9/dbb/a18961.html#a0ee33ab5733c12163e92213376e893e4", null ],
+    [ "Reset", "d9/dbb/a18961.html#a2c4410cc2ad995452f742f79e8e4af8b", null ],
+    [ "UpdateAI", "d9/dbb/a18961.html#a34a0295ad1a45a9bc060ff8595c22e14", null ],
+    [ "_events", "d9/dbb/a18961.html#a90c3d818318004c7c21ec66d4d080615", null ],
+    [ "_instance", "d9/dbb/a18961.html#a480a284881ba5f56bc6222607bd01a76", null ]
 ];

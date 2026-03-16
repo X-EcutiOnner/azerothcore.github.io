@@ -1,6 +1,6 @@
 var a11673 =
 [
-    [ "EffectManaShieldHandler", "de/dc1/a11673.html#a234fb0f6749072f9cc6310f80b3b9583", null ],
-    [ "Call", "de/dc1/a11673.html#a30ac72ee0a22ac3e71bcb2eeda903dbc", null ],
-    [ "pEffectHandlerScript", "de/dc1/a11673.html#a1aec2af2a69a90b8038d612d9ebddc2b", null ]
+    [ "apPctMod", "de/dc1/a11673.html#a35f5f8f7a3ac33768299913fecc1cf8d", null ],
+    [ "flatMod", "de/dc1/a11673.html#a0d66e48d986f246e6aea08dd00837158", null ],
+    [ "pctMod", "de/dc1/a11673.html#af13802a7f6872cfce3a1d14655f30287", null ]
 ];

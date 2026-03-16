@@ -1,9 +1,10 @@
 var a29273 =
 [
-    [ "npc_target_dummyAI", "db/ddc/a29273.html#a117e45559ea721877d73df4b3c18a259", null ],
-    [ "EnterEvadeMode", "db/ddc/a29273.html#a8f7f2e4decc676e378b4929516f8a147", null ],
-    [ "MoveInLineOfSight", "db/ddc/a29273.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
-    [ "Reset", "db/ddc/a29273.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
-    [ "UpdateAI", "db/ddc/a29273.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
-    [ "deathTimer", "db/ddc/a29273.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
+    [ "PvPDifficultyEntry", "db/ddc/a29273.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
+    [ "GetBracketId", "db/ddc/a29273.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
+    [ "bracketId", "db/ddc/a29273.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
+    [ "difficulty", "db/ddc/a29273.html#a33ac017d785a4586a78e715d97836720", null ],
+    [ "mapId", "db/ddc/a29273.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
+    [ "maxLevel", "db/ddc/a29273.html#a1385166568239f2118b65377df8b4b55", null ],
+    [ "minLevel", "db/ddc/a29273.html#acd07e8d759af1b73ec7543f6e70df242", null ]
 ];

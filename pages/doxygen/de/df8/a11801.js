@@ -1,7 +1,7 @@
 var a11801 =
 [
-    [ "Command", "de/df8/a11801.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
-    [ "ModuleId", "de/df8/a11801.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
-    [ "ModuleKey", "de/df8/a11801.html#aba0f236c39186022816bd86f8e8e9093", null ],
-    [ "Size", "de/df8/a11801.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
+    [ "EffectApplyHandler", "de/df8/a11801.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
+    [ "Call", "de/df8/a11801.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
+    [ "mode", "de/df8/a11801.html#ac776375c5a5de321edc572c87e983193", null ],
+    [ "pEffectHandlerScript", "de/df8/a11801.html#acd715556a7661f688ce0de9afe62250a", null ]
 ];

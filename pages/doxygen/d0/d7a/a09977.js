@@ -1,9 +1,10 @@
 var a09977 =
 [
-    [ "MapUpdateRequest", "d0/d7a/a09977.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
-    [ "call", "d0/d7a/a09977.html#a2cb96db357347d47596725e5c345b02f", null ],
-    [ "m_diff", "d0/d7a/a09977.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
-    [ "m_map", "d0/d7a/a09977.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
-    [ "m_updater", "d0/d7a/a09977.html#aeb063738175aa8ddc751290f922ffef2", null ],
-    [ "s_diff", "d0/d7a/a09977.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
+    [ "iterator", "d0/d7a/a09977.html#a9fada63aa17222fc5e216f3904affafd", null ],
+    [ "begin", "d0/d7a/a09977.html#aee3a4701c5bc51f4028fe53f18675989", null ],
+    [ "end", "d0/d7a/a09977.html#ad61defd77296790a6c5d0a43bacbbe4b", null ],
+    [ "getFirst", "d0/d7a/a09977.html#ae47bba95a17db31a42231da948245387", null ],
+    [ "getLast", "d0/d7a/a09977.html#ac03e93ac8ad6fc91ec9d2961b8904217", null ],
+    [ "rbegin", "d0/d7a/a09977.html#af68f1d93a80e13976798dfed0063a1e4", null ],
+    [ "rend", "d0/d7a/a09977.html#a92c30fb269bc99820b6964a99ee86d98", null ]
 ];

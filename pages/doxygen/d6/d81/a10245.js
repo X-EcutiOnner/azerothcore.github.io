@@ -1,9 +1,8 @@
 var a10245 =
 [
-    [ "entry", "d6/d81/a10245.html#a63e9b557b5e712d30580376ad811ff6c", null ],
-    [ "map", "d6/d81/a10245.html#a762951c4230f0b40a59071e20852bf77", null ],
-    [ "o", "d6/d81/a10245.html#a70e425f84949f6964a33250e6e9650ef", null ],
-    [ "x", "d6/d81/a10245.html#a46b691dd3a31a59f56a4a7b36a35a982", null ],
-    [ "y", "d6/d81/a10245.html#a38be6df7cf824ed47991c9fabb6fb06b", null ],
-    [ "z", "d6/d81/a10245.html#ade7151bc8f29d91e33e7c78790d7ea55", null ]
+    [ "Finalize", "d6/d81/a10245.html#abf4c6547449605e703b424d8aa7f46b5", null ],
+    [ "GetMovementGeneratorType", "d6/d81/a10245.html#aa1eb3228e14c5b145f7074e97ccdab5f", null ],
+    [ "Initialize", "d6/d81/a10245.html#a68c249f25ef86f2e50d69698e190ed03", null ],
+    [ "Reset", "d6/d81/a10245.html#a124e4f9506ef6f31e991e905ce38dc43", null ],
+    [ "Update", "d6/d81/a10245.html#a4d96b744fa55fa11764873a2c4a891c5", null ]
 ];

@@ -1,12 +1,6 @@
 var a09301 =
 [
-    [ "VisibleNotifier", "dc/d7d/a09301.html#ae449b96de3eff1759869438dd90f6513", null ],
-    [ "SendToSelf", "dc/d7d/a09301.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
-    [ "Visit", "dc/d7d/a09301.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
-    [ "Visit", "dc/d7d/a09301.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
-    [ "Visit", "dc/d7d/a09301.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
-    [ "i_data", "dc/d7d/a09301.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
-    [ "i_gobjOnly", "dc/d7d/a09301.html#a019182fa8a629d796982f9cc565d9bc3", null ],
-    [ "i_player", "dc/d7d/a09301.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
-    [ "i_visibleNow", "dc/d7d/a09301.html#a34d766816baaad7b1b3623360ec9abeb", null ]
+    [ "lang_id", "dc/d7d/a09301.html#a1fa900a467834103ac595a8a96dd28c0", null ],
+    [ "skill_id", "dc/d7d/a09301.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
+    [ "spell_id", "dc/d7d/a09301.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
 ];

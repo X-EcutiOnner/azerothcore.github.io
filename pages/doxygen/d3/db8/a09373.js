@@ -1,9 +1,14 @@
 var a09373 =
 [
-    [ "UnitListSearcher", "d3/db8/a09373.html#a24c0de32dc3baa927962626421a343ae", null ],
-    [ "Visit", "d3/db8/a09373.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d", null ],
-    [ "Visit", "d3/db8/a09373.html#a92f9b0407e609b6c61f10d93aa49912f", null ],
-    [ "Visit", "d3/db8/a09373.html#a5fddd281a9f9cd10cf3948d4bf7b626f", null ],
-    [ "i_check", "d3/db8/a09373.html#a508a47e6261e7ae6e5669aee853ff99e", null ],
-    [ "i_phaseMask", "d3/db8/a09373.html#a43c863350bea423cf4a720c4c680fd4c", null ]
+    [ "areaMapOffset", "d3/db8/a09373.html#a70f82337112bb8cbff0b3344666885a1", null ],
+    [ "areaMapSize", "d3/db8/a09373.html#adfbbb622974b7942f47dd16d2300246f", null ],
+    [ "buildMagic", "d3/db8/a09373.html#a82d0f500f9e84cf6c8bf917a98f92115", null ],
+    [ "heightMapOffset", "d3/db8/a09373.html#a7623bee6b8cf7d6e39b8716aa72f8514", null ],
+    [ "heightMapSize", "d3/db8/a09373.html#a71c9cd42801697a927543e3acd4c3daf", null ],
+    [ "holesOffset", "d3/db8/a09373.html#a876d70dcd6ccec9ad09de77718c02150", null ],
+    [ "holesSize", "d3/db8/a09373.html#a3c3cc1895a47dc69265f4b58166c3f6b", null ],
+    [ "liquidMapOffset", "d3/db8/a09373.html#ac62deafcc7b435caf4a0f6aafd3d85be", null ],
+    [ "liquidMapSize", "d3/db8/a09373.html#a5aa18af3a8e029e8842ddf72fc5d5267", null ],
+    [ "mapMagic", "d3/db8/a09373.html#a2691fbc981b2ed5e1d748cd9c0859548", null ],
+    [ "versionMagic", "d3/db8/a09373.html#abe722f653ba057fbba84401acbaffbfa", null ]
 ];

@@ -1,6 +1,8 @@
 var a12493 =
 [
-    [ "boss_urok_doomhowlAI", "db/d77/a12497.html", "db/d77/a12497" ],
-    [ "boss_urok_doomhowl", "dc/d4d/a12493.html#a0ca9cea9919648baa5ff7db2d5a5b530", null ],
-    [ "GetAI", "dc/d4d/a12493.html#ac77756af77191e02df49161da0ace268", null ]
+    [ "boss_doomrelAI", "db/d77/a12497.html", "db/d77/a12497" ],
+    [ "boss_doomrel", "dc/d4d/a12493.html#aee45a59f9a62f1d32a7dc344bd3c46c6", null ],
+    [ "GetAI", "dc/d4d/a12493.html#a1b8a95208506f79c00ed40be2d51eb38", null ],
+    [ "OnGossipHello", "dc/d4d/a12493.html#a3c544ae70c46a62ac7dd2fc5cca97c8b", null ],
+    [ "OnGossipSelect", "dc/d4d/a12493.html#ae430a8fef70bd46267482a70084049c1", null ]
 ];

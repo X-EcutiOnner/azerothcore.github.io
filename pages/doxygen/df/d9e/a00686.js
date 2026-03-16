@@ -1,10 +1,10 @@
 var a00686 =
 [
-    [ "ScourgeInvasionData", "df/db4/a12054.html", "df/db4/a12054" ],
-    [ "ScourgeInvasionData::InvasionZone", "d9/dc7/a12058.html", "d9/dc7/a12058" ],
-    [ "ScourgeInvasionData::CityAttack", "d5/d24/a12062.html", "d5/d24/a12062" ],
-    [ "SunsReachReclamationData", "dd/d80/a12066.html", "dd/d80/a12066" ],
-    [ "WorldState", "d5/d30/a12070.html", "d5/d30/a12070" ],
+    [ "ScourgeInvasionData", "df/d0b/a12037.html", "df/d0b/a12037" ],
+    [ "ScourgeInvasionData::InvasionZone", "d3/dc5/a12041.html", "d3/dc5/a12041" ],
+    [ "ScourgeInvasionData::CityAttack", "d2/d53/a12045.html", "d2/d53/a12045" ],
+    [ "SunsReachReclamationData", "db/d69/a12049.html", "db/d69/a12049" ],
+    [ "WorldState", "d9/d4d/a12053.html", "d9/d4d/a12053" ],
     [ "sWorldState", "df/d9e/a00686.html#a3a4f495a024c9f1774c913dd8ac4929f", null ],
     [ "SICityTimers", "df/d9e/a00686.html#af7ef7f40d622ea6710b785d8b251ff2a", [
       [ "ZONE_ATTACK_TIMER_MIN", "df/d9e/a00686.html#af7ef7f40d622ea6710b785d8b251ff2aa55c39bb2d19b6331e7e6bd0d68185646", null ],

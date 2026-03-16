@@ -1,26 +1,5 @@
 var a28697 =
 [
-    [ "TerrainBuilder", "df/dca/a28697.html#a915ff1fba60d09fd0e3fc9d89fe7fa1d", null ],
-    [ "~TerrainBuilder", "df/dca/a28697.html#a731cd606fd85b176b116512a2ccf86ee", null ],
-    [ "TerrainBuilder", "df/dca/a28697.html#a8f23adef45880c3cd771ce9d29054bd8", null ],
-    [ "cleanVertices", "df/dca/a28697.html#a7a3f53367758b6effcc7899894c148de", null ],
-    [ "copyIndices", "df/dca/a28697.html#a5f4139193ad3708e234414131aa3be55", null ],
-    [ "copyIndices", "df/dca/a28697.html#a8d5bfc11e790aae74d7b81fb7db27061", null ],
-    [ "copyVertices", "df/dca/a28697.html#a26207130b8e5807986b36ea148e84457", null ],
-    [ "getHeightCoord", "df/dca/a28697.html#aecdd8a0ae2dab523925111197afe8835", null ],
-    [ "getHeightTriangle", "df/dca/a28697.html#ab15913dd11a60078205a9fc76ce99203", null ],
-    [ "getLiquidCoord", "df/dca/a28697.html#ae29c5c0538049382e6b75d0393a7714f", null ],
-    [ "getLiquidType", "df/dca/a28697.html#a2d7e5ef7722ce2f78fda293af4e2d08d", null ],
-    [ "getLoopVars", "df/dca/a28697.html#af47da985fc495b4a5fd8b32774e36b82", null ],
-    [ "isHole", "df/dca/a28697.html#a219be095026945890d4f76163903ea2c", null ],
-    [ "loadHeightMap", "df/dca/a28697.html#a5ddd947c48dae0acf29c952eca5ebe56", null ],
-    [ "loadMap", "df/dca/a28697.html#ab6f3b100ee1a40173c2e77c6ee5a0da9", null ],
-    [ "loadMap", "df/dca/a28697.html#a4071ed1464f7beb4d8567def275139e4", null ],
-    [ "loadOffMeshConnections", "df/dca/a28697.html#a8df6feed791e1b6ca3ab46e6001c0f32", null ],
-    [ "loadVMap", "df/dca/a28697.html#ae816d445265bde3c3866069bcd9e5184", null ],
-    [ "transform", "df/dca/a28697.html#a6c25e949e12eba48d7e250ba99ce6e85", null ],
-    [ "usesLiquids", "df/dca/a28697.html#ab869d655ea5cb7f9d32dff63ed4df779", null ],
-    [ "m_mapsPath", "df/dca/a28697.html#a3870ff6d7c9614cadca3d9d89f3fd810", null ],
-    [ "m_skipLiquid", "df/dca/a28697.html#aa4feec2075cdb31e940f2cf3dc0d136a", null ],
-    [ "m_vmapsPath", "df/dca/a28697.html#ab4c289c4c91d84378e531ebbef85988f", null ]
+    [ "npc_suns_reach_reclamation", "df/dca/a28697.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
+    [ "OnQuestReward", "df/dca/a28697.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
 ];

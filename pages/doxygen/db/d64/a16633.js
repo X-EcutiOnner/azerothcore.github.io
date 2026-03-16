@@ -1,12 +1,7 @@
 var a16633 =
 [
-    [ "npc_toc5_grand_champion_minionAI", "db/d64/a16633.html#a06ff16fe0076de4e34ba20e0bbc49009", null ],
-    [ "JustDied", "db/d64/a16633.html#a23e5001255c6d49a6b217b9606aa53c5", null ],
-    [ "JustEngagedWith", "db/d64/a16633.html#a37a04ac2d6f30e415410f3806abaabb8", null ],
-    [ "MoveInLineOfSight", "db/d64/a16633.html#a527113ecd490c937fc1f3e34b6b1d32d", null ],
-    [ "Reset", "db/d64/a16633.html#ad35a26c28485b1976c55d49fcd32fb19", null ],
-    [ "UpdateAI", "db/d64/a16633.html#a2b9fdd3daa725921819ae2acee418d51", null ],
-    [ "events", "db/d64/a16633.html#a1b405c2acd53a4e5f1179f52c8c2261b", null ],
-    [ "pInstance", "db/d64/a16633.html#a6edd3dc8070edd031143e7a750f4d7a8", null ],
-    [ "ShieldTimer", "db/d64/a16633.html#a080916d385f4157afbe4c455033b88ba", null ]
+    [ "OnApply", "db/d64/a16633.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
+    [ "PrepareAuraScript", "db/d64/a16633.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
+    [ "Register", "db/d64/a16633.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
+    [ "Validate", "db/d64/a16633.html#a2c9e4d82bd25f439e01a05700563b122", null ]
 ];

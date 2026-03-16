@@ -1,12 +1,10 @@
 var a10453 =
 [
-    [ "GroupScript", "d6/df0/a10453.html#a0680f82522424afc364e9b94e1c6f686", null ],
-    [ "CanGroupJoinBattlegroundQueue", "d6/df0/a10453.html#a931b4a94a2f95958579b37c0af6ece03", null ],
-    [ "IsDatabaseBound", "d6/df0/a10453.html#acb561e8a2d5b3542e228a7beb8122fbf", null ],
-    [ "OnAddMember", "d6/df0/a10453.html#adb279c4c0ba60ffea994f35cd7e91ad1", null ],
-    [ "OnChangeLeader", "d6/df0/a10453.html#a64a1441fd3db3f25236691efcff4a80b", null ],
-    [ "OnCreate", "d6/df0/a10453.html#a18973a7e5f260712f032ca1129d4a0bc", null ],
-    [ "OnDisband", "d6/df0/a10453.html#a3cb94966ba1d02180fb3e7cf95000e5f", null ],
-    [ "OnInviteMember", "d6/df0/a10453.html#a2ae925dc27708fdaa4d5909b582b77a7", null ],
-    [ "OnRemoveMember", "d6/df0/a10453.html#adf640b01746ee92fed31670ee5cc8d0f", null ]
+    [ "QuestStatusData", "d6/df0/a10453.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
+    [ "CreatureOrGOCount", "d6/df0/a10453.html#aa5892dc0744a41ac565568307f12ad35", null ],
+    [ "Explored", "d6/df0/a10453.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
+    [ "ItemCount", "d6/df0/a10453.html#a466999cea52f65bf58916bc34750bf95", null ],
+    [ "PlayerCount", "d6/df0/a10453.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
+    [ "Status", "d6/df0/a10453.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
+    [ "Timer", "d6/df0/a10453.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
 ];

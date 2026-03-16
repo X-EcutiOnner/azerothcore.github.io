@@ -1,7 +1,7 @@
 var a00692 =
 [
-    [ "CliCommandHolder", "d5/d88/a12030.html", "d5/d88/a12030" ],
-    [ "IWorld", "df/d72/a12034.html", "df/d72/a12034" ],
+    [ "CliCommandHolder", "df/d89/a12013.html", "df/d89/a12013" ],
+    [ "IWorld", "dc/dc6/a12017.html", "dc/dc6/a12017" ],
     [ "ServerMessageType", "d0/db6/a00692.html#a08e6f7cfaf7929274a1908b0e95c798f", [
       [ "SERVER_MSG_SHUTDOWN_TIME", "d0/db6/a00692.html#a08e6f7cfaf7929274a1908b0e95c798fa06a96ab329b402934a6bd8d22fbd930c", null ],
       [ "SERVER_MSG_RESTART_TIME", "d0/db6/a00692.html#a08e6f7cfaf7929274a1908b0e95c798fae8f145f08fb30710c968e3a9951d8b68", null ],

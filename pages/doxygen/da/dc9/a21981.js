@@ -1,5 +1,6 @@
 var a21981 =
 [
-    [ "go_brazier", "da/dc9/a21981.html#a432a07256fde679a889de7ba0f64f092", null ],
-    [ "OnGossipHello", "da/dc9/a21981.html#a3e0be690d58be4d7bbbb5b624ac4bd5b", null ]
+    [ "npc_plaguehound_trackerAI", "da/dc9/a21981.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "da/dc9/a21981.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "da/dc9/a21981.html#a67c345f49572cde76d9109a1baff6788", null ]
 ];

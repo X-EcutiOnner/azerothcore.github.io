@@ -1,11 +1,7 @@
 var a12465 =
 [
-    [ "boss_solakar_flamewreathAI", "d2/dd1/a12465.html#ada12a91bedec9be8923f9dc74fce07d0", null ],
-    [ "ExecuteEvent", "d2/dd1/a12465.html#aa1fca22d30b15ee93cc02084ebab0c2c", null ],
-    [ "InitializeAI", "d2/dd1/a12465.html#a7a8a5d3c453e29ec746422e1ba8e4d34", null ],
-    [ "JustDied", "d2/dd1/a12465.html#aceb580afa2329ada3236dc759f3a3c20", null ],
-    [ "JustEngagedWith", "d2/dd1/a12465.html#a47f8a133b6f8c0de11a66b712bb8e266", null ],
-    [ "Reset", "d2/dd1/a12465.html#a25ae2943a7ce9a1f459cfd1313c84c49", null ],
-    [ "UpdateAI", "d2/dd1/a12465.html#ac5f908584251455c720ce3f25ed07dae", null ],
-    [ "resetTimer", "d2/dd1/a12465.html#acd7fdd30767a7863f265eb96e29c221e", null ]
+    [ "boss_moira_bronzebeardAI", "d2/dd1/a12465.html#a11265b6aad76574c2c76253128c79165", null ],
+    [ "CastOnEmperorIfPossible", "d2/dd1/a12465.html#a0df43e5c605783312291bd4ba1921f8c", null ],
+    [ "JustEngagedWith", "d2/dd1/a12465.html#a40ae00eb86e2bec048a9394d4deef106", null ],
+    [ "UpdateAI", "d2/dd1/a12465.html#ae3f22a059330fb564cd30e581fc0198d", null ]
 ];

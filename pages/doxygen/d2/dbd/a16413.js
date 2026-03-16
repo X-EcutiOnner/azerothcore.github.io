@@ -1,6 +1,7 @@
 var a16413 =
 [
-    [ "boss_twilight_halionAI", "dd/d55/a16417.html", "dd/d55/a16417" ],
-    [ "boss_twilight_halion", "d2/dbd/a16413.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
-    [ "GetAI", "d2/dbd/a16413.html#a56842d74b16cbd5636649cbc643c50d8", null ]
+    [ "HandleEffectRemove", "d2/dbd/a16413.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
+    [ "PrepareAuraScript", "d2/dbd/a16413.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
+    [ "Register", "d2/dbd/a16413.html#a7c0533650e772713233ea45b0264cbff", null ],
+    [ "Validate", "d2/dbd/a16413.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
 ];

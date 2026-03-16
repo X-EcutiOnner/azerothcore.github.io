@@ -1,6 +1,5 @@
 var a23593 =
 [
-    [ "HandlePeriodic", "de/d8b/a23593.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
-    [ "PrepareAuraScript", "de/d8b/a23593.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
-    [ "Register", "de/d8b/a23593.html#acf77c76f02671da215c7103b60ed77ac", null ]
+    [ "go_manticron_cube", "de/d8b/a23593.html#a87d9571aea57f16d38067ebd9e22200d", null ],
+    [ "OnGossipHello", "de/d8b/a23593.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
 ];

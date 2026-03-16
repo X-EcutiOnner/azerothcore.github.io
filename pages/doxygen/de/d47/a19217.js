@@ -1,6 +1,5 @@
 var a19217 =
 [
-    [ "RespawnEvent", "de/d47/a19217.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
-    [ "Execute", "de/d47/a19217.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
-    [ "_owner", "de/d47/a19217.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
+    [ "at_icc_shutdown_traps", "de/d47/a19217.html#aa13f5d78d3032e8114e9978f42468f64", null ],
+    [ "OnTrigger", "de/d47/a19217.html#abb31b3f6d0b159b625d731ac47127005", null ]
 ];

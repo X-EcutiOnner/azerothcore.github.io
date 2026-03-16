@@ -1,16 +1,11 @@
 var a10713 =
 [
-    [ "AreaID", "de/db0/a10713.html#a7bd695ba9365b53703204e45c930b254", null ],
-    [ "ClassID", "de/db0/a10713.html#a794961a2e9f4773254b2439837150b50", null ],
-    [ "Gender", "de/db0/a10713.html#aadb29895c835e820168ad7d3f608d3b8", null ],
-    [ "Guid", "de/db0/a10713.html#a9dad860d61da34048ab2d52ada0cb43f", null ],
-    [ "LastSave", "de/db0/a10713.html#acb553637ff289603411fa5795a361deb", null ],
-    [ "Level", "de/db0/a10713.html#a585acb139537e8def9e4ba076a332b6b", null ],
-    [ "Name", "de/db0/a10713.html#ad50c43162525d8ad2ea33e48c01e838e", null ],
-    [ "Note", "de/db0/a10713.html#aa351a270de4cba2faddc5179cb854b94", null ],
-    [ "OfficerNote", "de/db0/a10713.html#aedaee0b4511ddd82cc75e91cb04e175a", null ],
-    [ "RankID", "de/db0/a10713.html#a02f6f0dcf1be3a6befe959388d9aedd8", null ],
-    [ "Status", "de/db0/a10713.html#aa6342565a23693718b5ef84f90b83350", null ],
-    [ "TotalXP", "de/db0/a10713.html#ad3ee1ba956ea725db8588e3be3c57b18", null ],
-    [ "WeeklyXP", "de/db0/a10713.html#a7fb40a5bce99fcf70176ebe344424ed2", null ]
+    [ "PointMoveMap", "de/db0/a10713.html#a777e97ebcf367638578d1c189480ad99", null ],
+    [ "SystemMgr", "de/db0/a10713.html#ac7fd54676b46afcbc520e4c58fcdce75", null ],
+    [ "~SystemMgr", "de/db0/a10713.html#ab192b30aa7ff1edd27bb23e87a7ac4c5", null ],
+    [ "GetPointMoveList", "de/db0/a10713.html#af9f998f9778cebce3edb39b7296994d5", null ],
+    [ "instance", "de/db0/a10713.html#a71b78a44a3656802d55211d68fb19e12", null ],
+    [ "LoadScriptWaypoints", "de/db0/a10713.html#af8097171a2ffc49600397c6a519dddc3", null ],
+    [ "_empty", "de/db0/a10713.html#a4c90cb038afeb09c107979348bd3ca01", null ],
+    [ "m_mPointMoveMap", "de/db0/a10713.html#a3603d019adf647df9f314a7ca61a25dd", null ]
 ];

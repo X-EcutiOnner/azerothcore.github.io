@@ -1,6 +1,8 @@
 var a21029 =
 [
-    [ "HandleDummyEffect", "d5/da7/a21029.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
-    [ "PrepareSpellScript", "d5/da7/a21029.html#a07376c95cb2ec41d86a24be59094d207", null ],
-    [ "Register", "d5/da7/a21029.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
+    [ "npc_ulduar_keeperAI", "d8/df6/a21033.html", "d8/df6/a21033" ],
+    [ "npc_ulduar_keeper", "d5/da7/a21029.html#a252b781061a2e21dc961ea94f7120d59", null ],
+    [ "GetAI", "d5/da7/a21029.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
+    [ "OnGossipHello", "d5/da7/a21029.html#a4db12efd22c7d2a5f18144fd16543230", null ],
+    [ "OnGossipSelect", "d5/da7/a21029.html#acf8681577117107d16d45705e4b8463f", null ]
 ];

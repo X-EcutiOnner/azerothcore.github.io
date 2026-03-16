@@ -1,10 +1,9 @@
 var a18649 =
 [
-    [ "HandleScript", "d4/db3/a18649.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
-    [ "Load", "d4/db3/a18649.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
-    [ "PrepareSpellScript", "d4/db3/a18649.html#afcc1efc69d73086a9ab686855911e516", null ],
-    [ "Register", "d4/db3/a18649.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
-    [ "ReplaceTarget", "d4/db3/a18649.html#a01cb7d25bef14a2266d81594544f6283", null ],
-    [ "SelectTarget", "d4/db3/a18649.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
-    [ "_target", "d4/db3/a18649.html#a3a84a9d7109845d201b395f05f66d109", null ]
+    [ "ShadowTrapLKTargetSelector", "d4/db3/a18649.html#a33561775948e07ac6ade2037f237441d", null ],
+    [ "operator()", "d4/db3/a18649.html#a3770329509c6ab2f16ae369ea8d72645", null ],
+    [ "_maxDist", "d4/db3/a18649.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
+    [ "_playerOnly", "d4/db3/a18649.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
+    [ "_reqLOS", "d4/db3/a18649.html#a7911be23196f59d55028affc3be23c20", null ],
+    [ "_source", "d4/db3/a18649.html#af416013aabf3b217b07228072076603d", null ]
 ];

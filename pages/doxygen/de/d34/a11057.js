@@ -1,7 +1,6 @@
 var a11057 =
 [
-    [ "RandomRollClient", "de/d34/a11057.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
-    [ "Read", "de/d34/a11057.html#ab682763f35a40f776b1742927df0a336", null ],
-    [ "Max", "de/d34/a11057.html#a45a1e140ed402f54deb4c0798360a43a", null ],
-    [ "Min", "de/d34/a11057.html#a3cd07e7891b43b453b56013d76f51f71", null ]
+    [ "SetDungeonDifficultyClient", "de/d34/a11057.html#ae3bb2ac16b8712a3eb731913af26961c", null ],
+    [ "Read", "de/d34/a11057.html#a6f92ee86dc73b1a51a9c4683997e6c4f", null ],
+    [ "Mode", "de/d34/a11057.html#a3cb1f62fba1849dfb59c9b8f46fe4c27", null ]
 ];

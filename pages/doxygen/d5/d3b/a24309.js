@@ -1,7 +1,7 @@
 var a24309 =
 [
-    [ "CheckProc", "d5/d3b/a24309.html#abd74252153fc4fc9a4e561005ea58b3f", null ],
-    [ "HandleProc", "d5/d3b/a24309.html#a911b81552e7193dbf1cfc11037b44d84", null ],
-    [ "PrepareAuraScript", "d5/d3b/a24309.html#ae169eb2c0e194f8f34ee2a0d5fd973d3", null ],
-    [ "Register", "d5/d3b/a24309.html#a72d89db31c1fbd5c3b49b4c05a2d90f4", null ]
+    [ "npc_isla_starmaneAI", "d4/d21/a24313.html", "d4/d21/a24313" ],
+    [ "npc_isla_starmane", "d5/d3b/a24309.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
+    [ "GetAI", "d5/d3b/a24309.html#a0ea2dbaab4115772f92849e06aa85575", null ],
+    [ "OnQuestAccept", "d5/d3b/a24309.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
 ];

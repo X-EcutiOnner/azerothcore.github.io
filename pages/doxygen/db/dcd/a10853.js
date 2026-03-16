@@ -1,12 +1,16 @@
 var a10853 =
 [
-    [ "Charges", "db/dcd/a10853.html#ada45d7e00efb3bf27afcf9db1ad4d813", null ],
-    [ "Count", "db/dcd/a10853.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9", null ],
-    [ "EnchantmentID", "db/dcd/a10853.html#a249a204f5d72d42f562c989b1cb92fc9", null ],
-    [ "Flags", "db/dcd/a10853.html#a3ca816132a756d3dc939877c57f6045d", null ],
-    [ "ItemID", "db/dcd/a10853.html#a5dc7e8b40834dba07c63322d80ed73ae", null ],
-    [ "RandomPropertiesID", "db/dcd/a10853.html#ad98a20548478fe99f9d6d345c5a3b732", null ],
-    [ "RandomPropertiesSeed", "db/dcd/a10853.html#ae5d493dd4798e11f02d8f02a57ba4274", null ],
-    [ "Slot", "db/dcd/a10853.html#afcc0a78c2f9a3061830679fece476a64", null ],
-    [ "SocketEnchant", "db/dcd/a10853.html#a55545d4d1b752e4f08bd05350b22892c", null ]
+    [ "AreaID", "db/dcd/a10853.html#a7bd695ba9365b53703204e45c930b254", null ],
+    [ "ClassID", "db/dcd/a10853.html#a794961a2e9f4773254b2439837150b50", null ],
+    [ "Gender", "db/dcd/a10853.html#aadb29895c835e820168ad7d3f608d3b8", null ],
+    [ "Guid", "db/dcd/a10853.html#a9dad860d61da34048ab2d52ada0cb43f", null ],
+    [ "LastSave", "db/dcd/a10853.html#acb553637ff289603411fa5795a361deb", null ],
+    [ "Level", "db/dcd/a10853.html#a585acb139537e8def9e4ba076a332b6b", null ],
+    [ "Name", "db/dcd/a10853.html#ad50c43162525d8ad2ea33e48c01e838e", null ],
+    [ "Note", "db/dcd/a10853.html#aa351a270de4cba2faddc5179cb854b94", null ],
+    [ "OfficerNote", "db/dcd/a10853.html#aedaee0b4511ddd82cc75e91cb04e175a", null ],
+    [ "RankID", "db/dcd/a10853.html#a02f6f0dcf1be3a6befe959388d9aedd8", null ],
+    [ "Status", "db/dcd/a10853.html#aa6342565a23693718b5ef84f90b83350", null ],
+    [ "TotalXP", "db/dcd/a10853.html#ad3ee1ba956ea725db8588e3be3c57b18", null ],
+    [ "WeeklyXP", "db/dcd/a10853.html#a7fb40a5bce99fcf70176ebe344424ed2", null ]
 ];

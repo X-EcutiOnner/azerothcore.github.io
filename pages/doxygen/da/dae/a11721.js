@@ -1,15 +1,7 @@
 var a11721 =
 [
-    [ "BroadcastTextId", "da/dae/a11721.html#a12ff00d59ce642d3c27978e919f6ca17", null ],
-    [ "duration", "da/dae/a11721.html#a00b6d7cbf9ff377d30cd9e6cfab084b7", null ],
-    [ "emote", "da/dae/a11721.html#aad433a0bc12717103936e6f89b5b31ea", null ],
-    [ "entry", "da/dae/a11721.html#a3d1c888b73edee2474004de9d8714903", null ],
-    [ "group", "da/dae/a11721.html#ae2161d1dc874efacd0131baa74b4e44a", null ],
-    [ "id", "da/dae/a11721.html#ab80181d53770a2f64bd6898498b3e76e", null ],
-    [ "lang", "da/dae/a11721.html#a8405ab49781ba0cbcd8680ff6715b675", null ],
-    [ "probability", "da/dae/a11721.html#a9bec9c2053f2efbac076831d4e928045", null ],
-    [ "sound", "da/dae/a11721.html#af312efff61026445caeb4be4b52c4e66", null ],
-    [ "text", "da/dae/a11721.html#a82b3db36b60a343d340677e8df6c7925", null ],
-    [ "TextRange", "da/dae/a11721.html#a2bb58a07abc9eb7ffeb4db131de03924", null ],
-    [ "type", "da/dae/a11721.html#a5675f6bcf159e1da503029771557e2a6", null ]
+    [ "EffectAuraNameCheck", "da/dae/a11721.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
+    [ "Check", "da/dae/a11721.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
+    [ "ToString", "da/dae/a11721.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
+    [ "effAurName", "da/dae/a11721.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
 ];

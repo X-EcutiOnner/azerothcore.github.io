@@ -1,12 +1,14 @@
 var a13985 =
 [
-    [ "npc_corporal_keeshanAI", "d3/d62/a13985.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
-    [ "Reset", "d3/d62/a13985.html#a311488932a3de9153490d41e3fae92fb", null ],
-    [ "sQuestAccept", "d3/d62/a13985.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
-    [ "UpdateAI", "d3/d62/a13985.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
-    [ "WaypointReached", "d3/d62/a13985.html#a3edc9ab54068e47f955116db70454f6c", null ],
-    [ "mockingBlowTimer", "d3/d62/a13985.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
-    [ "phase", "d3/d62/a13985.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
-    [ "shieldBashTimer", "d3/d62/a13985.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
-    [ "timer", "d3/d62/a13985.html#a3107368f175aa7f4e8c405248ef917df", null ]
+    [ "instance_uldaman_InstanceMapScript", "d3/d62/a13985.html#ab2607f229d1e34852c82139ddb597712", null ],
+    [ "GetData", "d3/d62/a13985.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
+    [ "Initialize", "d3/d62/a13985.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
+    [ "OnCreatureCreate", "d3/d62/a13985.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
+    [ "OnGameObjectCreate", "d3/d62/a13985.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
+    [ "ReadSaveDataMore", "d3/d62/a13985.html#a8e0e03189463039dd31d883ad9c40e51", null ],
+    [ "SetData", "d3/d62/a13985.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
+    [ "WriteSaveDataMore", "d3/d62/a13985.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
+    [ "_encounters", "d3/d62/a13985.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
+    [ "ancientVaultDoorGUID", "d3/d62/a13985.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
+    [ "archaedasTempleDoorGUID", "d3/d62/a13985.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
 ];

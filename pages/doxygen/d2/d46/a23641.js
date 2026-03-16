@@ -1,6 +1,7 @@
 var a23641 =
 [
-    [ "HandlePeriodic", "d2/d46/a23641.html#aec3f36e2c5fedddd84478b9e3a59e6f4", null ],
-    [ "PrepareAuraScript", "d2/d46/a23641.html#a2b809a60626119f6bcf595bd3581c2be", null ],
-    [ "Register", "d2/d46/a23641.html#a299f84e9c12406c79a56999a13de5c1c", null ]
+    [ "HandleOnApply", "d2/d46/a23641.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
+    [ "HandleOnRemove", "d2/d46/a23641.html#aed5f87523c58d94c8f98b76c06abb140", null ],
+    [ "PrepareAuraScript", "d2/d46/a23641.html#ab32413873bec92540f9e85e8013b7ea2", null ],
+    [ "Register", "d2/d46/a23641.html#a0653d8688f98822580a3243a0d47c17a", null ]
 ];

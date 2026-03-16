@@ -1,6 +1,7 @@
 var a25317 =
 [
-    [ "CheckProc", "df/d79/a25317.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
-    [ "PrepareAuraScript", "df/d79/a25317.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
-    [ "Register", "df/d79/a25317.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
+    [ "PrepareSpellScript", "df/d79/a25317.html#aad8061898087fbf5eb6527cbaa70927d", null ],
+    [ "RecalculateDamage", "df/d79/a25317.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
+    [ "Register", "df/d79/a25317.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
+    [ "_damagePct", "df/d79/a25317.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
 ];

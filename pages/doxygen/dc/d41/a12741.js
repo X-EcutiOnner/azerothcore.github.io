@@ -1,5 +1,7 @@
 var a12741 =
 [
-    [ "npc_garr_fireswornAI", "dc/d41/a12741.html#af2454b2ddf93102378ebf9780d260e56", null ],
-    [ "DamageTaken", "dc/d41/a12741.html#ae9582b14e82b163ff97b99cb603e0179", null ]
+    [ "boss_ebonrocAI", "dc/d41/a12741.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
+    [ "JustEngagedWith", "dc/d41/a12741.html#a2c74e0030b1093d79245978939043d53", null ],
+    [ "MovementInform", "dc/d41/a12741.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
+    [ "UpdateAI", "dc/d41/a12741.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
 ];

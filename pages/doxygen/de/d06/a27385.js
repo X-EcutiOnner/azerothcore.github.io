@@ -1,7 +1,8 @@
 var a27385 =
 [
-    [ "npc_riggle_bassbaitAI", "de/d06/a27385.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "de/d06/a27385.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "de/d06/a27385.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "de/d06/a27385.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "CheckProc", "de/d06/a27385.html#a2e564758a050827108955f73a08e72e7", null ],
+    [ "PrepareAuraScript", "de/d06/a27385.html#a5993871d8837b43580818fa94e1bccc2", null ],
+    [ "Register", "de/d06/a27385.html#a24faa9992523bc87df7f5ebccfb42233", null ],
+    [ "WasUsedByMutilate", "de/d06/a27385.html#af31c8d77307f3cf3acee06e0b159925e", null ],
+    [ "_usedByMutilate", "de/d06/a27385.html#a3f5cde7b3af5c3a6b75d76b742cae54b", null ]
 ];

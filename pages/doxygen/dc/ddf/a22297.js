@@ -1,13 +1,9 @@
 var a22297 =
 [
-    [ "OPvPCapturePointEP_CGT", "dc/ddf/a22297.html#a82d8e9bff56eed1870b098dcf21f77cd", null ],
-    [ "ChangeState", "dc/ddf/a22297.html#ab9d32c9a60bbdca9fc54d7e0b2bf8a5d", null ],
-    [ "FillInitialWorldStates", "dc/ddf/a22297.html#ae7d57fe449bb38de013b18ecf2f9f07c", null ],
-    [ "HandlePlayerEnter", "dc/ddf/a22297.html#a48cb29473f25ed9b469c7ff54acc9d88", null ],
-    [ "HandlePlayerLeave", "dc/ddf/a22297.html#ad1886046ecf8c382e1fd0e01d6394614", null ],
-    [ "LinkGraveyard", "dc/ddf/a22297.html#ada14179a31fb6235b7882a190dc96c40", null ],
-    [ "SendChangePhase", "dc/ddf/a22297.html#a30d9f8701dd6a78740f7df0d2c7ceb9d", null ],
-    [ "UpdateTowerState", "dc/ddf/a22297.html#a764284d6143d4879b5bc003acc52048c", null ],
-    [ "m_GraveyardSide", "dc/ddf/a22297.html#aaf1f8440dc891ed45857bb7d15149d9a", null ],
-    [ "m_TowerState", "dc/ddf/a22297.html#a6f434f86ed97f88368e3194a3bc3183b", null ]
+    [ "HandlePeriodic", "dc/ddf/a22297.html#a0943e7887ff935ccea21d913429e25a0", null ],
+    [ "OnRemove", "dc/ddf/a22297.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
+    [ "PrepareAuraScript", "dc/ddf/a22297.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
+    [ "Register", "dc/ddf/a22297.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
+    [ "_tickNumber", "dc/ddf/a22297.html#a3f8943e288e96f639fb805869749879b", null ],
+    [ "_warning", "dc/ddf/a22297.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
 ];

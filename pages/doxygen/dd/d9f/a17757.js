@@ -1,8 +1,6 @@
 var a17757 =
 [
-    [ "npc_muradin_bronzebeard_iccAI", "de/da3/a17761.html", "de/da3/a17761" ],
-    [ "npc_muradin_bronzebeard_icc", "dd/d9f/a17757.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
-    [ "GetAI", "dd/d9f/a17757.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
-    [ "OnGossipHello", "dd/d9f/a17757.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
-    [ "OnGossipSelect", "dd/d9f/a17757.html#a46c4893be723a848d985ff55e28d55a2", null ]
+    [ "boss_prince_valanarAI", "de/da3/a17761.html", "de/da3/a17761" ],
+    [ "boss_prince_valanar_icc", "dd/d9f/a17757.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
+    [ "GetAI", "dd/d9f/a17757.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
 ];

@@ -1,9 +1,10 @@
 var a10521 =
 [
-    [ "TransportScript", "d3/dd9/a10521.html#a4b83123b122fa98831d304670a3de50a", null ],
-    [ "IsDatabaseBound", "d3/dd9/a10521.html#a956f0d757e5d974566fa8fac0df731e5", null ],
-    [ "OnAddCreaturePassenger", "d3/dd9/a10521.html#a5afb1f1dca2264089238ddd68b38a86d", null ],
-    [ "OnAddPassenger", "d3/dd9/a10521.html#a806f4829b47429900271f6dde7eaa625", null ],
-    [ "OnRelocate", "d3/dd9/a10521.html#a10334c1929c80fc80c76791cbd52f6dd", null ],
-    [ "OnRemovePassenger", "d3/dd9/a10521.html#a6d6a3af4fcde46101b78cfdb787a2248", null ]
+    [ "ArenaTeamScript", "d3/dd9/a10521.html#ab86543c6ce76ff21e4306c799b99c896", null ],
+    [ "IsDatabaseBound", "d3/dd9/a10521.html#a4d30f94084ae63eadd952c05b13f3ff4", null ],
+    [ "OnGetArenaPoints", "d3/dd9/a10521.html#aa4b2d40921443cefee2775da6ca31b3e", null ],
+    [ "OnGetSlotByType", "d3/dd9/a10521.html#a1ff67b327073bb8ebf10e7fddce92835", null ],
+    [ "OnQueueIdToArenaType", "d3/dd9/a10521.html#a2a26e8c87c5fa7e85eb2f0517ced29e8", null ],
+    [ "OnSetArenaMaxPlayersPerTeam", "d3/dd9/a10521.html#a776548946a09dcb3e76bd97f3c425e7f", null ],
+    [ "OnTypeIDToQueueID", "d3/dd9/a10521.html#abcdd905b695f926e503db610d80ada3c", null ]
 ];

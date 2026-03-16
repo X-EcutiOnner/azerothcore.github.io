@@ -1,8 +1,10 @@
 var a21333 =
 [
-    [ "HandleEffectRemove", "d6/d9b/a21333.html#aa2b05befb775244423264f6b5e2387c1", null ],
-    [ "Load", "d6/d9b/a21333.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
-    [ "PrepareAuraScript", "d6/d9b/a21333.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
-    [ "Register", "d6/d9b/a21333.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
-    [ "Validate", "d6/d9b/a21333.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
+    [ "npc_erekem_guardAI", "d6/d9b/a21333.html#a1ce40b70a35fc76e6ac0af449b7f4ded", null ],
+    [ "JustEngagedWith", "d6/d9b/a21333.html#a93819c5c76821b1c9559be55359d677e", null ],
+    [ "MoveInLineOfSight", "d6/d9b/a21333.html#aa1140892c13f4c070b1f3f1bf2230bb5", null ],
+    [ "Reset", "d6/d9b/a21333.html#a079be6dd45e96184d66e95f031dc9c5f", null ],
+    [ "UpdateAI", "d6/d9b/a21333.html#ab2c55e384f624b0f671e42e381aa3a37", null ],
+    [ "events", "d6/d9b/a21333.html#a15afc8dd6d6e15fcd1a632728ad8d16e", null ],
+    [ "pInstance", "d6/d9b/a21333.html#a81985b8522111f2aae540353cd5641fe", null ]
 ];

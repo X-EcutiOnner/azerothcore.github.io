@@ -1,8 +1,13 @@
 var a05593 =
 [
-    [ "result_type", "df/d1e/a05593.html#a20f96383bade76c6185d8f20f458784e", null ],
-    [ "Instance", "df/d1e/a05593.html#a5ff7fcb1f8d34861b0c210eddc450681", null ],
-    [ "max", "df/d1e/a05593.html#ad5dcf280f768ebd79210caf6ecff4290", null ],
-    [ "min", "df/d1e/a05593.html#ab153ffca65139db4084745302dd4db7f", null ],
-    [ "operator()", "df/d1e/a05593.html#afe5f6dd94cbc6add3fd13fa3fe37b60d", null ]
+    [ "Logger", "df/d1e/a05593.html#a79033d763c69dbfb95b1c591f1cc680b", null ],
+    [ "addAppender", "df/d1e/a05593.html#aabacae0a84994e5567f9c87829909fdd", null ],
+    [ "delAppender", "df/d1e/a05593.html#a1fb8747bf7b652b9dfbf9ee830a82c8b", null ],
+    [ "getLogLevel", "df/d1e/a05593.html#aba945b0f037b7de27976d3a6e1a0fbbd", null ],
+    [ "getName", "df/d1e/a05593.html#ae95167d7bb330ecc0a49779a5635d1e2", null ],
+    [ "setLogLevel", "df/d1e/a05593.html#a00fdcdbeb39a2d5d4fb27cc36c35c101", null ],
+    [ "write", "df/d1e/a05593.html#a3627f98e8676ee7b68a34a4d9439082e", null ],
+    [ "appenders", "df/d1e/a05593.html#aa93931f2386ebc6dbf2464f536ed54f9", null ],
+    [ "level", "df/d1e/a05593.html#a3b1d9dd7bd391ac7bed560918f82a03b", null ],
+    [ "name", "df/d1e/a05593.html#ada299a7dd268085371557213e36695a9", null ]
 ];

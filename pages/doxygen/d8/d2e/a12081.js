@@ -1,6 +1,8 @@
 var a12081 =
 [
-    [ "player_settings_commandscript", "d8/d2e/a12081.html#ab8585064d4d358d7d48eed97379a3a78", null ],
-    [ "GetCommands", "d8/d2e/a12081.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
-    [ "HandleSettingsAnnouncerFlags", "d8/d2e/a12081.html#af505117caa66ed4222e52ff91c486b6e", null ]
+    [ "cache_commandscript", "d8/d2e/a12081.html#a709e1d02632aed18113c1adb52e962b5", null ],
+    [ "GetCommands", "d8/d2e/a12081.html#ae62aed5b701a408460d8fedcd08bb3a4", null ],
+    [ "HandleCacheDeleteCommand", "d8/d2e/a12081.html#a9ee0f4aceb031ad1c6b1870320fca88b", null ],
+    [ "HandleCacheInfoCommand", "d8/d2e/a12081.html#aa9bce5578450a35909a4e481bc21867f", null ],
+    [ "HandleCacheRefreshCommand", "d8/d2e/a12081.html#abf02cad15dabdcc5ed3df1fab0e87b6f", null ]
 ];

@@ -1,6 +1,7 @@
 var a21241 =
 [
-    [ "npc_vh_teleportation_portalAI", "dc/dd5/a21245.html", "dc/dd5/a21245" ],
-    [ "npc_vh_teleportation_portal", "db/d5e/a21241.html#a9a554058f594f992a17dbb3887117a6f", null ],
-    [ "GetAI", "db/d5e/a21241.html#a0721c64c01ae69bd78dfc15637c97f49", null ]
+    [ "HandleScript", "db/d5e/a21241.html#a47b991c20c523d151893fefd9d487714", null ],
+    [ "PrepareSpellScript", "db/d5e/a21241.html#ab2db47d0a2694c0734db600e810e190d", null ],
+    [ "Register", "db/d5e/a21241.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
+    [ "Validate", "db/d5e/a21241.html#a89d601f6036fe38238767281f3427e54", null ]
 ];

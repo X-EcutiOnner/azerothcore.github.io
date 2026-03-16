@@ -1,6 +1,7 @@
 var a21561 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "df/d80/a21565.html", "df/d80/a21565" ],
-    [ "npc_injured_7th_legion_soldier", "d8/de1/a21561.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
-    [ "GetAI", "d8/de1/a21561.html#a0feca7aedcf3c07253d4d402266189cc", null ]
+    [ "npc_mootoo_the_youngerAI", "df/d80/a21565.html", "df/d80/a21565" ],
+    [ "npc_mootoo_the_younger", "d8/de1/a21561.html#a91e10489ed6a98cfa764fd4de8448317", null ],
+    [ "GetAI", "d8/de1/a21561.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
+    [ "OnQuestAccept", "d8/de1/a21561.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
 ];

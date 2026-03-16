@@ -1,15 +1,12 @@
 var a09813 =
 [
-    [ "LootStoreItem", "dc/d33/a09813.html#a10250dce57b2b8103c6ac11aa1ac2f0f", null ],
-    [ "IsValid", "dc/d33/a09813.html#ae5fc113c31d96bc7ca31a5bc36ab2fcf", null ],
-    [ "Roll", "dc/d33/a09813.html#a87cc7956b131a16aee7bd5d4808193df", null ],
-    [ "chance", "dc/d33/a09813.html#a20411103b449a9176b3bc665f909f06f", null ],
-    [ "conditions", "dc/d33/a09813.html#a88812a51fb467a189f2824ad8b3198e8", null ],
-    [ "groupid", "dc/d33/a09813.html#abc6df381782d25490dff0e54bec63b3a", null ],
-    [ "itemid", "dc/d33/a09813.html#a5df1d4fde5f3358470bd16f7ad9154c1", null ],
-    [ "lootmode", "dc/d33/a09813.html#ab5f7b258bd5cfe4263acd9e0b253b166", null ],
-    [ "maxcount", "dc/d33/a09813.html#a96012059cc6affa8120ef544682781d2", null ],
-    [ "mincount", "dc/d33/a09813.html#ada6a4d427187361c6bc33bdde789e809", null ],
-    [ "needs_quest", "dc/d33/a09813.html#a5a2fe7ae48508b88bbdfc70fc4035f31", null ],
-    [ "reference", "dc/d33/a09813.html#a374a94e34095a1beb38abca43069d0b6", null ]
+    [ "EventLogEntry", "dc/d33/a09813.html#a31726d40f7b89077b45ffbaca8396a9d", null ],
+    [ "EventLogEntry", "dc/d33/a09813.html#a96a2e3a6d565db452e7d0f1a152f63c7", null ],
+    [ "~EventLogEntry", "dc/d33/a09813.html#a8d6bf0a5a53fdc8e99ad53293d96af7c", null ],
+    [ "SaveToDB", "dc/d33/a09813.html#a2ca71e291a44f95bb42d51083aa84985", null ],
+    [ "WritePacket", "dc/d33/a09813.html#adffe90bd0265dea0ca2fd6bc83f3056e", null ],
+    [ "m_eventType", "dc/d33/a09813.html#a00216643e6856591402c21df490c1fec", null ],
+    [ "m_newRank", "dc/d33/a09813.html#ab733c92f478dc36e3b5ffc61799a6ce7", null ],
+    [ "m_playerGuid1", "dc/d33/a09813.html#a06a2b45d16860c711829f49f97624272", null ],
+    [ "m_playerGuid2", "dc/d33/a09813.html#a1f66e71f9536e484663e437bbcbcefca", null ]
 ];

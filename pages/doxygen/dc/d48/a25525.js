@@ -1,8 +1,5 @@
 var a25525 =
 [
-    [ "HandleProc", "dc/d48/a25525.html#ad92c7804b26bd29d135e55c8adad9093", null ],
-    [ "OnRemove", "dc/d48/a25525.html#afa8e065ed835243f3ebb95c10792adf8", null ],
-    [ "PrepareAuraScript", "dc/d48/a25525.html#a5e986f77b23fd0402089ea36f0360c79", null ],
-    [ "Register", "dc/d48/a25525.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
-    [ "Validate", "dc/d48/a25525.html#a51f81afec6ff0918530208d9de9dae24", null ]
+    [ "PrepareSpellScript", "dc/d48/a25525.html#aa07fade62e79ccc8ad969de44b886332", null ],
+    [ "Register", "dc/d48/a25525.html#a1c20e492be2655e8547d36fedb29cfdc", null ]
 ];

@@ -1,6 +1,8 @@
 var a12877 =
 [
-    [ "npc_mc_core_houndAI", "dc/d49/a12881.html", "dc/d49/a12881" ],
-    [ "npc_mc_core_hound", "da/d15/a12877.html#aee1ef71447dbd1494de5e0065bd5ae78", null ],
-    [ "GetAI", "da/d15/a12877.html#a3aa8c5332b509b4d5498cd726ab47e40", null ]
+    [ "boss_garrAI", "da/d15/a12877.html#a12d403a90bf4920763ddd87b252f544a", null ],
+    [ "JustEngagedWith", "da/d15/a12877.html#a3b2bf0e6d3b6b32c450d03b1c88f3850", null ],
+    [ "Reset", "da/d15/a12877.html#acb14e869dac8e7df83b5b9d858cd2b21", null ],
+    [ "UpdateAI", "da/d15/a12877.html#aca82837e143f4509db221de15276b90c", null ],
+    [ "massEruptionTimer", "da/d15/a12877.html#ab807c47afd1ba8320730c3aa733e1b15", null ]
 ];

@@ -1,8 +1,11 @@
 var a14781 =
 [
-    [ "npc_love_in_air_snivel_real", "d4/d8b/a14781.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
-    [ "Talk", "d4/d8b/a14781.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
-    [ "UpdateAI", "d4/d8b/a14781.html#a22ed25da8fe3441ef0e4183390983f40", null ],
-    [ "actionCounter", "d4/d8b/a14781.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
-    [ "actionTimer", "d4/d8b/a14781.html#a3bbee1ff355581772b337268775b8fbc", null ]
+    [ "npc_the_biggest_tree", "d4/d8b/a14781.html#a7366f46c4864fa0f1372c920b94c6e97", null ],
+    [ "MoveInLineOfSight", "d4/d8b/a14781.html#a572c0b146d461b6a8504163452570954", null ],
+    [ "Reset", "d4/d8b/a14781.html#a3fd4c5e522e8945925124426a8ff870b", null ],
+    [ "UpdateAI", "d4/d8b/a14781.html#a3d1b33ab7cd28de5438f53a00657170a", null ],
+    [ "orphanGUID", "d4/d8b/a14781.html#a36c170fb178a19256fd41fb2cbbb7830", null ],
+    [ "phase", "d4/d8b/a14781.html#a7101fe10b15ce1779d3d131e597ef636", null ],
+    [ "playerGUID", "d4/d8b/a14781.html#ab39af61d9ab7d9f7210f96b65971654d", null ],
+    [ "timer", "d4/d8b/a14781.html#a7525783692c3bc9642f534296b71a5f5", null ]
 ];

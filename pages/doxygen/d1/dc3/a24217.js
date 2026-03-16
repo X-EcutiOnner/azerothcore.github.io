@@ -1,9 +1,9 @@
 var a24217 =
 [
-    [ "npc_pet_gen_toxic_wasteling", "d1/dc3/a24217.html#a550a1a9324f605b1a9fd715571f819b7", null ],
-    [ "EnterEvadeMode", "d1/dc3/a24217.html#abe25deca7fd1c319085995657d62f22a", null ],
-    [ "MovementInform", "d1/dc3/a24217.html#aec73d567c3bd178ffee3bdece83a409e", null ],
-    [ "Reset", "d1/dc3/a24217.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
-    [ "UpdateAI", "d1/dc3/a24217.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
-    [ "checkTimer", "d1/dc3/a24217.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
+    [ "npc_enraged_spiritAI", "d1/dc3/a24217.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
+    [ "JustDied", "d1/dc3/a24217.html#a9322622f679dbc311bd8983f5037bd2e", null ],
+    [ "JustEngagedWith", "d1/dc3/a24217.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
+    [ "Reset", "d1/dc3/a24217.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
+    [ "UpdateAI", "d1/dc3/a24217.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
+    [ "_scheduler", "d1/dc3/a24217.html#afa6825696b0622849f877b392df4b326", null ]
 ];

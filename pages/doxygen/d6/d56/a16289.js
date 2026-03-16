@@ -1,6 +1,11 @@
 var a16289 =
 [
-    [ "HandleScriptEffect", "d6/d56/a16289.html#aaa650972803d14e4d74be977430b04f6", null ],
-    [ "PrepareSpellScript", "d6/d56/a16289.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
-    [ "Register", "d6/d56/a16289.html#a3405c1b04f2e623662c7acaa6810278c", null ]
+    [ "boss_amanitar", "d6/d56/a16289.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
+    [ "EnterEvadeMode", "d6/d56/a16289.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
+    [ "JustDied", "d6/d56/a16289.html#a138049712649ff414950d9d0ca05d712", null ],
+    [ "JustEngagedWith", "d6/d56/a16289.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
+    [ "Reset", "d6/d56/a16289.html#aab3faca4526947a72d8ca049a605f5be", null ],
+    [ "SummonedCreatureDespawn", "d6/d56/a16289.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
+    [ "SummonMushroom", "d6/d56/a16289.html#afc5b4942931f6020b2894b901650fc35", null ],
+    [ "_mushroomsDeque", "d6/d56/a16289.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
 ];

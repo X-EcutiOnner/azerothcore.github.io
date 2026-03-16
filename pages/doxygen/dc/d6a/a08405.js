@@ -1,7 +1,12 @@
 var a08405 =
 [
-    [ "UsedPos", "dc/d6a/a08405.html#aef230e392619ad4abc2da649d11b2394", null ],
-    [ "dist", "dc/d6a/a08405.html#ae73cbe8b0cf3ce714f6654df3a8874de", null ],
-    [ "sign", "dc/d6a/a08405.html#a2b5f97425309d56482a1f287b6d5be69", null ],
-    [ "size", "dc/d6a/a08405.html#a4ad5a2df36ae9c1cd9130c5efd27af58", null ]
+    [ "GameObjectModelOwnerImpl", "dc/d6a/a08405.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
+    [ "DebugVisualizeCorner", "dc/d6a/a08405.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
+    [ "GetDisplayId", "dc/d6a/a08405.html#a4a694456955c19e76d8c84befc02c920", null ],
+    [ "GetOrientation", "dc/d6a/a08405.html#acb968e3bd921aac111a2e06f2604b040", null ],
+    [ "GetPhaseMask", "dc/d6a/a08405.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
+    [ "GetPosition", "dc/d6a/a08405.html#a9ba2b29d30b38895effe97637e050988", null ],
+    [ "GetScale", "dc/d6a/a08405.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
+    [ "IsSpawned", "dc/d6a/a08405.html#ae47eb25d16de37122042402443db6f3d", null ],
+    [ "_owner", "dc/d6a/a08405.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
 ];

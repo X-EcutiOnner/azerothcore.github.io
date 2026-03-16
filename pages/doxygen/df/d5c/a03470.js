@@ -1,8 +1,6 @@
 var a03470 =
 [
-    [ "instance_the_botanica", "d9/d64/a23762.html", "d9/d64/a23762" ],
-    [ "instance_the_botanica::instance_the_botanica_InstanceMapScript", "d1/d58/a23766.html", "d1/d58/a23766" ],
-    [ "spell_botanica_call_of_the_falcon_aura", "dc/dd9/a23770.html", "dc/dd9/a23770" ],
-    [ "spell_botanica_shift_form_aura", "d7/d01/a23774.html", "d7/d01/a23774" ],
-    [ "AddSC_instance_the_botanica", "df/d5c/a03470.html#a42bac8d93a9aac296390fec4cb6b94cb", null ]
+    [ "fireworkShowGameobjectIronforge", "df/d5c/a03470.html#a1c510ef56353251fbd84e641155e90f8", null ],
+    [ "fireworkShowIronforge", "df/d5c/a03470.html#aac2063b01976ab49960c5cde832a70dc", null ],
+    [ "fireworkShowScheduleIronforge", "df/d5c/a03470.html#ac473aa81696d6b6374a3062efff6b146", null ]
 ];

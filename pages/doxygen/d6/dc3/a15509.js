@@ -1,8 +1,7 @@
 var a15509 =
 [
-    [ "npc_ouro_spawner", "d6/dc3/a15509.html#acb18739e5a1734312ffdda35321e5f34", null ],
-    [ "JustSummoned", "d6/dc3/a15509.html#a722dada5bf97c730462a0de2b082d5ff", null ],
-    [ "MoveInLineOfSight", "d6/dc3/a15509.html#a83c0972db4435ccf1af069574e4056f4", null ],
-    [ "Reset", "d6/dc3/a15509.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
-    [ "hasSummoned", "d6/dc3/a15509.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
+    [ "FilterTargets", "d6/dc3/a15509.html#a59e477333a54ec828a429d15b35d4936", null ],
+    [ "HandleScript", "d6/dc3/a15509.html#a983fe53aa52e53a45685055fde04a3b7", null ],
+    [ "PrepareSpellScript", "d6/dc3/a15509.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
+    [ "Register", "d6/dc3/a15509.html#a45ac61990990f16c98eaa7136297afc5", null ]
 ];

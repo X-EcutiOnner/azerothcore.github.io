@@ -1,6 +1,6 @@
 var a25409 =
 [
-    [ "HandleDummy", "d3/d76/a25409.html#a8b9510efa5af25ef698fc6eb49b19b69", null ],
-    [ "PrepareSpellScript", "d3/d76/a25409.html#a80b89fbd2506191b897dcf367ff11500", null ],
-    [ "Register", "d3/d76/a25409.html#a522730e5ba844728c0b3d6f423cd123a", null ]
+    [ "CheckRequirement", "d3/d76/a25409.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
+    [ "PrepareSpellScript", "d3/d76/a25409.html#aebb88f5ea803a590a099e4e6427d8276", null ],
+    [ "Register", "d3/d76/a25409.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
 ];

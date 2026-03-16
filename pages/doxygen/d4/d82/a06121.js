@@ -1,10 +1,7 @@
 var a06121 =
 [
-    [ "FarthestTargetSelector", "d4/d82/a06121.html#a5a6d387d905d275436dd9c3eecc138c0", null ],
-    [ "operator()", "d4/d82/a06121.html#a58e92f40745a4d43ae1a8b8664e4c786", null ],
-    [ "_inLos", "d4/d82/a06121.html#abbb788a7e01deeea70affecf3bf8d83d", null ],
-    [ "_maxDist", "d4/d82/a06121.html#a5dc107de2b6a710a68b2a1e99acb734d", null ],
-    [ "_me", "d4/d82/a06121.html#a3d2e66e08659d8fecba34fc3175a4ed0", null ],
-    [ "_minDist", "d4/d82/a06121.html#ad09cd6e99a1ab46d0dc2d7b43416b40c", null ],
-    [ "_playerOnly", "d4/d82/a06121.html#a9f4cadccae7804019542743fdc65fddf", null ]
+    [ "TransactionWithResultTask", "d4/d82/a06121.html#a98dfb255e7be9d5cf9ed9215b0d5e0e4", null ],
+    [ "Execute", "d4/d82/a06121.html#a2a05fb2aa69032797f2065cb46fe7dc4", null ],
+    [ "GetFuture", "d4/d82/a06121.html#a5bc976207b1d695c8e8c052b0eacc7a6", null ],
+    [ "m_result", "d4/d82/a06121.html#aaf4d587b83977e65089bdbf92fa09ae1", null ]
 ];

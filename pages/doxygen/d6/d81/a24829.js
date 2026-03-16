@@ -1,6 +1,6 @@
 var a24829 =
 [
-    [ "HandleScript", "d6/d81/a24829.html#a913c8c461f291ccaad2f48614c0146c6", null ],
-    [ "PrepareSpellScript", "d6/d81/a24829.html#a18913a7455cf3f158136f2d3bb415779", null ],
-    [ "Register", "d6/d81/a24829.html#ac24208b646e95d87fbb340d7779cb7c5", null ]
+    [ "CheckCast", "d6/d81/a24829.html#aefa91f15300520de7cffad4f4ca82ccf", null ],
+    [ "PrepareSpellScript", "d6/d81/a24829.html#a605e7b8849186c3c2df731cac743a208", null ],
+    [ "Register", "d6/d81/a24829.html#a62533bff915db8323b53352f17c4825f", null ]
 ];

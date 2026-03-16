@@ -1,9 +1,7 @@
 var a18149 =
 [
-    [ "CountTargets", "d2/d88/a18149.html#aa72b762d802c27047d485a8a314c6c6d", null ],
-    [ "Load", "d2/d88/a18149.html#a80a5d0f997f5d68a4fb438a81295fa52", null ],
-    [ "PrepareSpellScript", "d2/d88/a18149.html#acfd2927786a5bcefa0889d7e8aa40f72", null ],
-    [ "Register", "d2/d88/a18149.html#a86cad92c07fa31c730a3b560d33ed824", null ],
-    [ "SplitDamage", "d2/d88/a18149.html#a501a46b3e3988ae8cb8af1ff87eeac65", null ],
-    [ "_targetCount", "d2/d88/a18149.html#a39b8e5443250777594e3b4417d5ea1ec", null ]
+    [ "FilterTargets", "d2/d88/a18149.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
+    [ "Load", "d2/d88/a18149.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
+    [ "PrepareSpellScript", "d2/d88/a18149.html#a7526a6df4c25136f4be78e753c6abf62", null ],
+    [ "Register", "d2/d88/a18149.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
 ];

@@ -1,6 +1,6 @@
 var a12541 =
 [
-    [ "npc_vaelastrasz_the_redAI", "d9/d6c/a12545.html", "d9/d6c/a12545" ],
-    [ "npc_vaelastrasz_the_red", "d7/def/a12541.html#af39fcaa29b200e3b7933f97de277df6b", null ],
-    [ "GetAI", "d7/def/a12541.html#a59e7630d5060986dc4209d2d2b5ef42b", null ]
+    [ "boss_highlordomokkAI", "d9/d6c/a12545.html", "d9/d6c/a12545" ],
+    [ "boss_highlord_omokk", "d7/def/a12541.html#af5174587ed3cd1c46f604183a75de99e", null ],
+    [ "GetAI", "d7/def/a12541.html#afb8efb012791c6a2fc18975a1ec7f984", null ]
 ];

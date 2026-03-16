@@ -1,6 +1,8 @@
 var a15885 =
 [
-    [ "SpellId", "d2/dbe/a15885.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "d2/dbe/a15885.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "d2/dbe/a15885.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "npc_prospector_remtravelAI", "d2/dbe/a15885.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d2/dbe/a15885.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d2/dbe/a15885.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d2/dbe/a15885.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d2/dbe/a15885.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
 ];

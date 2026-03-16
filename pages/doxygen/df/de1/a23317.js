@@ -1,8 +1,7 @@
 var a23317 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "df/de1/a23317.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
-    [ "GetData", "df/de1/a23317.html#a410630dbbe00acf0b69603cfc357d503", null ],
-    [ "SetBossState", "df/de1/a23317.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
-    [ "SetData", "df/de1/a23317.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
-    [ "_addsKilled", "df/de1/a23317.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
+    [ "HandleScriptEffect", "df/de1/a23317.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
+    [ "PrepareSpellScript", "df/de1/a23317.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
+    [ "Register", "df/de1/a23317.html#a14772c25b70078c0034b8de17de5b77a", null ],
+    [ "Validate", "df/de1/a23317.html#a8318385367bf6c6b09e0978c461f5d59", null ]
 ];

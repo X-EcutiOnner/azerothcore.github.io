@@ -1,10 +1,5 @@
 var a16309 =
 [
-    [ "boss_sartharion_tenebron", "de/d30/a16309.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
-    [ "ClearInstance", "de/d30/a16309.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
-    [ "ExecuteEvent", "de/d30/a16309.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
-    [ "JustDied", "de/d30/a16309.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
-    [ "JustSummoned", "de/d30/a16309.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
-    [ "Reset", "de/d30/a16309.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
-    [ "summons2", "de/d30/a16309.html#a59b131fcd2298640390fcd0f662f132d", null ]
+    [ "achievement_respect_your_elders", "de/d30/a16309.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
+    [ "OnCheck", "de/d30/a16309.html#a770922be3ab19848f7a8f43a82d78b88", null ]
 ];

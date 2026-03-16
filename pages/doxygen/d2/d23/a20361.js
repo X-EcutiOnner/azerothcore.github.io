@@ -1,5 +1,7 @@
 var a20361 =
 [
-    [ "achievement_staying_buffed_all_winter_10", "d2/d23/a20361.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
-    [ "OnCheck", "d2/d23/a20361.html#a67587b1659a8d026e73b42311148541a", null ]
+    [ "boss_freya_healthy_spore", "d2/d23/a20361.html#abc2492b9cf96cb00940b18fac549fb00", null ],
+    [ "Reset", "d2/d23/a20361.html#abe3f794707aa722e73b1728700876083", null ],
+    [ "UpdateAI", "d2/d23/a20361.html#ac8c952848687cd883aaefe466b799e3b", null ],
+    [ "_despawnTimer", "d2/d23/a20361.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
 ];

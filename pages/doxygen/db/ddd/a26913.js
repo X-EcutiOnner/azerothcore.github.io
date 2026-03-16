@@ -1,5 +1,8 @@
 var a26913 =
 [
-    [ "achievement_not_even_a_scratch", "db/ddd/a26913.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "db/ddd/a26913.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "AfterCheckProc", "db/ddd/a26913.html#ad817bc9b07538434956bf64ea1dd0367", null ],
+    [ "HandleProc", "db/ddd/a26913.html#af972e6ed5524dadd618d6cd907c0241b", null ],
+    [ "PrepareAuraScript", "db/ddd/a26913.html#a0fbc28d9a524b6dff6783077ecd0b3b9", null ],
+    [ "Register", "db/ddd/a26913.html#a2cab6b2b0ff567fca6530fa4d917aec1", null ],
+    [ "Validate", "db/ddd/a26913.html#aa15febbd22621da12b567fc429917bf0", null ]
 ];

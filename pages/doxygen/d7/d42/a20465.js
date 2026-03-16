@@ -1,11 +1,10 @@
 var a20465 =
 [
-    [ "npc_ulduar_proximity_mine", "d7/d42/a20465.html#ab9ce5859157d12f4577eda515a183ef6", null ],
-    [ "AttackStart", "d7/d42/a20465.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
-    [ "CanAIAttack", "d7/d42/a20465.html#a18311072271a18b279c5bf21f7da2482", null ],
-    [ "MoveInLineOfSight", "d7/d42/a20465.html#a6a406f8098dac7038173f51e9f85a79b", null ],
-    [ "UpdateAI", "d7/d42/a20465.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
-    [ "exploded", "d7/d42/a20465.html#a3e291553aa853ebb5ff002599c68376c", null ],
-    [ "timer", "d7/d42/a20465.html#a8c69d475914fb11c149fea527d31f758", null ],
-    [ "timer2", "d7/d42/a20465.html#a8feed3514cc188da930ef45bbaa2ff50", null ]
+    [ "HandleEffectPeriodic", "d7/d42/a20465.html#aa62be73e00d9cb512806787eaf1c4144", null ],
+    [ "Load", "d7/d42/a20465.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
+    [ "PrepareAuraScript", "d7/d42/a20465.html#ad9664bff267b330565d3c706e1752e9d", null ],
+    [ "Register", "d7/d42/a20465.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
+    [ "Validate", "d7/d42/a20465.html#a3f6653b4ca202d9b0971189930e8b463", null ],
+    [ "_counter", "d7/d42/a20465.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
+    [ "_prev", "d7/d42/a20465.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
 ];

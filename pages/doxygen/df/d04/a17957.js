@@ -1,8 +1,6 @@
 var a17957 =
 [
-    [ "HandlePeriodic", "df/d04/a17957.html#a5ff571c616b69bb50c736622feb9ed96", null ],
-    [ "HandleRemove", "df/d04/a17957.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
-    [ "PrepareAuraScript", "df/d04/a17957.html#a1b140274e283dd95e28fcb773e30f965", null ],
-    [ "Register", "df/d04/a17957.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
-    [ "Validate", "df/d04/a17957.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
+    [ "npc_icc_blood_beastAI", "d6/d45/a17961.html", "d6/d45/a17961" ],
+    [ "npc_icc_blood_beast", "df/d04/a17957.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
+    [ "GetAI", "df/d04/a17957.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
 ];

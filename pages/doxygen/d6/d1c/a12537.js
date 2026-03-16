@@ -1,6 +1,8 @@
 var a12537 =
 [
-    [ "OnEffect", "d6/d1c/a12537.html#a1b5999f392cec9fea4431c3f746ee034", null ],
-    [ "PrepareSpellScript", "d6/d1c/a12537.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
-    [ "Register", "d6/d1c/a12537.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
+    [ "boss_halyconAI", "d6/d1c/a12537.html#acc110d5d802fc0da3ea630f667167748", null ],
+    [ "JustDied", "d6/d1c/a12537.html#a7d71e135a8edf3d3b99ccfcb3b071eaa", null ],
+    [ "JustEngagedWith", "d6/d1c/a12537.html#a5735567462167fffa4d01800d696296e", null ],
+    [ "Reset", "d6/d1c/a12537.html#ac5622260b0b40cb584cf3037521cc5b8", null ],
+    [ "UpdateAI", "d6/d1c/a12537.html#a6e72949b63de3d32d8369c7122b6060d", null ]
 ];

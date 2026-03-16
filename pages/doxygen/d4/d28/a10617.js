@@ -1,6 +1,5 @@
 var a10617 =
 [
-    [ "ArenaTeam", "d4/d28/a10617.html#ab199427a8f1a5c4063aef2aeb390714f", null ],
-    [ "Read", "d4/d28/a10617.html#a9953d33b35eca1b91ed1618609c6acea", null ],
-    [ "ArenaTeamId", "d4/d28/a10617.html#aecda79f3715bd7ff5a6e872800ef256d", null ]
+    [ "MailScript", "d4/d28/a10617.html#a009eaf9dd8d44427e8e5c91a92ebb5c5", null ],
+    [ "OnBeforeMailDraftSendMailTo", "d4/d28/a10617.html#ab4e3f0552ffc705ef44e8ca6c36f2be7", null ]
 ];

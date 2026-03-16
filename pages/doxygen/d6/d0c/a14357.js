@@ -1,6 +1,7 @@
 var a14357 =
 [
-    [ "HandleOnHit", "d6/d0c/a14357.html#a1f133ab9e85f80c225276bf744da6898", null ],
-    [ "PrepareSpellScript", "d6/d0c/a14357.html#ae554f8be36eabc6d23f823e6d153be2b", null ],
-    [ "Register", "d6/d0c/a14357.html#a1063358ed71ded8454f35f43442354ab", null ]
+    [ "OnPeriodic", "d6/d0c/a14357.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
+    [ "PrepareAuraScript", "d6/d0c/a14357.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
+    [ "Register", "d6/d0c/a14357.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
+    [ "Validate", "d6/d0c/a14357.html#a7ed214de6769314a45540e9afdb82949", null ]
 ];

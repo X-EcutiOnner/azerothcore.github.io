@@ -1,5 +1,5 @@
 var a04676 =
 [
-    [ "spectator_commandscript", "d0/d48/a12278.html", "d0/d48/a12278" ],
-    [ "AddSC_spectator_commandscript", "d5/def/a04676.html#a223cb7b19bd79c486919c41509ea6ddf", null ]
+    [ "go_commandscript", "dc/d71/a12129.html", "dc/d71/a12129" ],
+    [ "AddSC_go_commandscript", "d5/def/a04676.html#a95fcb467686a27e069827ed3775df197", null ]
 ];

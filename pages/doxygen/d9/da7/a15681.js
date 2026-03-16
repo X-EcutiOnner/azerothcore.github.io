@@ -1,6 +1,6 @@
 var a15681 =
 [
-    [ "npc_death_ravagerAI", "de/dab/a15685.html", "de/dab/a15685" ],
-    [ "npc_death_ravager", "d9/da7/a15681.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
-    [ "GetAI", "d9/da7/a15681.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
+    [ "FilterTargets", "d9/da7/a15681.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
+    [ "PrepareSpellScript", "d9/da7/a15681.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
+    [ "Register", "d9/da7/a15681.html#aaf7b4fba94d94331f6b35add2b836061", null ]
 ];

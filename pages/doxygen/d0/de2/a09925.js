@@ -1,7 +1,6 @@
 var a09925 =
 [
-    [ "resetNotify", "d0/de2/a09925.html#a1472e21d9af04662f3574bc2c7d3890c", null ],
-    [ "Visit", "d0/de2/a09925.html#adfcdcf148b002c641638ddc70d577b14", null ],
-    [ "Visit", "d0/de2/a09925.html#adf95512d4304962a5740b38c32ea28a7", null ],
-    [ "Visit", "d0/de2/a09925.html#a725fc2c2504eecaa15841c27b367cd55", null ]
+    [ "DoorInfo", "d0/de2/a09925.html#a26f4849a1d68df466e6db0ccbb8d001b", null ],
+    [ "bossInfo", "d0/de2/a09925.html#a14f7742a1b272d0cd76dda6ce28cde26", null ],
+    [ "type", "d0/de2/a09925.html#ad77a91752ea10a11c8e73655e63dd5c1", null ]
 ];

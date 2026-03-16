@@ -1,8 +1,8 @@
 var a01877 =
 [
-    [ "Petition", "d5/d43/a10418.html", "d5/d43/a10418" ],
-    [ "Signatures", "d5/d45/a10422.html", "d5/d45/a10422" ],
-    [ "PetitionMgr", "d7/dff/a10426.html", "d7/dff/a10426" ],
+    [ "Petition", "d1/dba/a10401.html", "d1/dba/a10401" ],
+    [ "Signatures", "da/df3/a10405.html", "da/df3/a10405" ],
+    [ "PetitionMgr", "d8/d3e/a10409.html", "d8/d3e/a10409" ],
     [ "CHARTER_DISPLAY_ID", "d9/d63/a01877.html#a33856c1d078b61fa0516a63176297c49", null ],
     [ "sPetitionMgr", "d9/d63/a01877.html#a2910b9c8b8c58925b562acf66b3e46d2", null ],
     [ "PetitionContainer", "d9/d63/a01877.html#a223a8d1b8f865a0d4e8f100758e36bce", null ],

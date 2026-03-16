@@ -1,6 +1,16 @@
 var a09937 =
 [
-    [ "AllowMount", "db/dc0/a09937.html#a611108f0c1f623bb0761a174e477df22", null ],
-    [ "Parent", "db/dc0/a09937.html#a6298c3dd0c8939b1cf228727c363918e", null ],
-    [ "ScriptId", "db/dc0/a09937.html#ac9cdaf7fc486bc89b5c5d95ac13146da", null ]
+    [ "StoredLootItem", "db/dc0/a09937.html#a32da4030f3e58b7fae5001511c6caa40", null ],
+    [ "conditionLootId", "db/dc0/a09937.html#a9be27c3407923df6b15bef993dd58830", null ],
+    [ "count", "db/dc0/a09937.html#a25c63cc5a94ecc3bf803e83be5aabc39", null ],
+    [ "follow_loot_rules", "db/dc0/a09937.html#ac945688a64f92c40ada1abd5847d9b0d", null ],
+    [ "freeforall", "db/dc0/a09937.html#a41a3c4caf90fc8c42d2e0e5192201d19", null ],
+    [ "is_blocked", "db/dc0/a09937.html#a895cc61dd542959c3726dbc54abf7434", null ],
+    [ "is_counted", "db/dc0/a09937.html#a801a125a5035167f3f511560a29808c4", null ],
+    [ "is_underthreshold", "db/dc0/a09937.html#ae11badaeeccbb3af7f150d4ca55347a3", null ],
+    [ "itemid", "db/dc0/a09937.html#afac1addff36f4cd08626ac7ae1ce0cff", null ],
+    [ "itemIndex", "db/dc0/a09937.html#a076564a43a586c6b6d17cd64fca8e9fb", null ],
+    [ "needs_quest", "db/dc0/a09937.html#ae7530d417ac10c5766fc25664b427d50", null ],
+    [ "randomPropertyId", "db/dc0/a09937.html#a12e1cb9403cc4f6ceb770c8cf50a1d17", null ],
+    [ "randomSuffix", "db/dc0/a09937.html#a2588c810dcd51a5c0c6558b99493602b", null ]
 ];

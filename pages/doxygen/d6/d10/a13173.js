@@ -1,6 +1,7 @@
 var a13173 =
 [
-    [ "HandleProc", "d6/d10/a13173.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
-    [ "PrepareAuraScript", "d6/d10/a13173.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
-    [ "Register", "d6/d10/a13173.html#a24df76ff0933685bade58deff98856d2", null ]
+    [ "OnRemove", "d6/d10/a13173.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
+    [ "PrepareAuraScript", "d6/d10/a13173.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
+    [ "Register", "d6/d10/a13173.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
+    [ "Validate", "d6/d10/a13173.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
 ];

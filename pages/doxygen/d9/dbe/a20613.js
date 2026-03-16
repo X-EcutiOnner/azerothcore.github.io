@@ -1,11 +1,24 @@
 var a20613 =
 [
-    [ "boss_thorim_arena_npcs", "d9/dbe/a20613.html#a849567e412254aa8d0d7da33b6b1522f", null ],
-    [ "CanAIAttack", "d9/dbe/a20613.html#aa4f90aadf8a9705fea03433195d41ad0", null ],
-    [ "JustEngagedWith", "d9/dbe/a20613.html#a2f23cddcf5a0db42ba24730dfbe54976", null ],
-    [ "Reset", "d9/dbe/a20613.html#a7b118ec6fa25c0f452419d1f5b4a698f", null ],
-    [ "SelectT", "d9/dbe/a20613.html#a3fa38189c886a486aabb39a372834938", null ],
-    [ "UpdateAI", "d9/dbe/a20613.html#a6a8489763ca223c749aa71c2da05b3cf", null ],
-    [ "_isCaster", "d9/dbe/a20613.html#abfd184437df3983659a9ae21a13638fb", null ],
-    [ "events", "d9/dbe/a20613.html#aad99dd6ca7d3595222ce42b5b859e462", null ]
+    [ "npc_ulduar_vx001", "d9/dbe/a20613.html#a513c2610c3a87698b2c535f18c441ecb", null ],
+    [ "AttackStart", "d9/dbe/a20613.html#a47d955c4db0c8ceb30ae770a82aaf424", null ],
+    [ "DamageTaken", "d9/dbe/a20613.html#ad1d0ec1e6a3905f3ede091383ce02116", null ],
+    [ "DoAction", "d9/dbe/a20613.html#ae988d7c48b11e72b5d8e02966fd432ed", null ],
+    [ "EnterEvadeMode", "d9/dbe/a20613.html#a4f019ff2bb5897c0c088f417f8ba4d45", null ],
+    [ "GetData", "d9/dbe/a20613.html#aa5d26dcde4346e8f803c9461ef053a8c", null ],
+    [ "KilledUnit", "d9/dbe/a20613.html#ab25d0f2a79708c86d798f83e68100d03", null ],
+    [ "MoveInLineOfSight", "d9/dbe/a20613.html#a0f02c02bcc93afe1059152e72f981ffd", null ],
+    [ "PassengerBoarded", "d9/dbe/a20613.html#a34837d8ab0335605d7bf61eae5c29c2a", null ],
+    [ "Reset", "d9/dbe/a20613.html#a27f5a5fe661fd896a89e534b109fc329", null ],
+    [ "SetData", "d9/dbe/a20613.html#a8ae4ce7110f8ad7f7b800924220133b0", null ],
+    [ "SpellHit", "d9/dbe/a20613.html#a10fe94210982e31e3cb48614d74a8e67", null ],
+    [ "UpdateAI", "d9/dbe/a20613.html#ab8f9d5f73674dd351731210f5e053fd9", null ],
+    [ "bIsEvading", "d9/dbe/a20613.html#a8a28ca9a6420e6074eef79871b220400", null ],
+    [ "events", "d9/dbe/a20613.html#abf40f67c5768094f50b51a74e4501694", null ],
+    [ "fighting", "d9/dbe/a20613.html#ab294e5733f2f27a8846a10d78aff2f05", null ],
+    [ "instance", "d9/dbe/a20613.html#a720b4fdc32d067cdb91589bdc1724299", null ],
+    [ "leftarm", "d9/dbe/a20613.html#a65f34247f41eb03420bda684844ae627", null ],
+    [ "Phase", "d9/dbe/a20613.html#a8ab3cc297213380846090ab086a6a34f", null ],
+    [ "spinningUpOrientation", "d9/dbe/a20613.html#a9430de7bd29421a89fee5c626db79b17", null ],
+    [ "spinningUpTimer", "d9/dbe/a20613.html#a1c1225d4710df3209b54295009e25592", null ]
 ];

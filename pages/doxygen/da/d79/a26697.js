@@ -1,8 +1,8 @@
 var a26697 =
 [
-    [ "HandleDummyTick", "da/d79/a26697.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
-    [ "HandleRemove", "da/d79/a26697.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
-    [ "PrepareAuraScript", "da/d79/a26697.html#a06e45d5f63ef1395b5949482e8393098", null ],
-    [ "Register", "da/d79/a26697.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
-    [ "Validate", "da/d79/a26697.html#a9a2da4d163a96526e14f5de76798a784", null ]
+    [ "Load", "da/d79/a26697.html#a7662d85a5469c20edf6d2eefca820db3", null ],
+    [ "PrepareAuraScript", "da/d79/a26697.html#a252bd975a7639eab4e151249db974b7c", null ],
+    [ "Register", "da/d79/a26697.html#a51723a22f1062f44e8eb6848e1398595", null ],
+    [ "Split", "da/d79/a26697.html#a08e982eae6030fdc679663bfd38bca47", null ],
+    [ "remainingAmount", "da/d79/a26697.html#afaab88988769ddc720deb44f06de3d7d", null ]
 ];

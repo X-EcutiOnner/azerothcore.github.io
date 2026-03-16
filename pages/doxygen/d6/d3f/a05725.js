@@ -1,10 +1,9 @@
 var a05725 =
 [
-    [ "ListIterator", "d6/d3f/a05725.html#a2d6f26f422402c3dcc0e026587201f9e", null ],
-    [ "begin", "d6/d3f/a05725.html#ab7d2c8fa95d8256bba7b6b3ccdcff251", null ],
-    [ "end", "d6/d3f/a05725.html#a6dffd4b0ef103e34fca8d474856ca8d3", null ],
-    [ "operator+=", "d6/d3f/a05725.html#a3a4a52377c59e360b9aa164940b06285", null ],
-    [ "operator-=", "d6/d3f/a05725.html#ae5c430c031dffae3c3b270c527b0cc70", null ],
-    [ "size", "d6/d3f/a05725.html#a13d85caabd15541389f8e93e99b768b0", null ],
-    [ "m_list", "d6/d3f/a05725.html#a5bb439ae8dd02302f19581d2771c570c", null ]
+    [ "IteratorPair", "d6/d3f/a05725.html#ad2e586dfd291c34c82ec71d66e59f36c", null ],
+    [ "IteratorPair", "d6/d3f/a05725.html#a446d4e8dd1146b053987d48d0dcef59d", null ],
+    [ "IteratorPair", "d6/d3f/a05725.html#ae8b79501762f0c0ba6e2d769c56e9f8f", null ],
+    [ "begin", "d6/d3f/a05725.html#a59ff07f1663a3f98f2e10a895ab37ae4", null ],
+    [ "end", "d6/d3f/a05725.html#aa515ca48852213fb51a4d83e9d5c91d2", null ],
+    [ "_iterators", "d6/d3f/a05725.html#a9b08728bc90076dd1db392982840c31e", null ]
 ];

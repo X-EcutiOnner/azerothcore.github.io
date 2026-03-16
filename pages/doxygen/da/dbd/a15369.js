@@ -1,18 +1,8 @@
 var a15369 =
 [
-    [ "boss_ossirian", "da/dbd/a15369.html#ab03a53ee2c0dc70ab86328e9a7ad1495", null ],
-    [ "InitializeAI", "da/dbd/a15369.html#a76731e2594cfadf5305d8abc502f665a", null ],
-    [ "JustEngagedWith", "da/dbd/a15369.html#a78616bb875bd51d5727e85d0b65d1a73", null ],
-    [ "JustSummoned", "da/dbd/a15369.html#ad462996cd1b12395f6cdaa33a7b876f1", null ],
-    [ "KilledUnit", "da/dbd/a15369.html#a716acecfc8e38eb663557fafb56719fd", null ],
-    [ "MoveInLineOfSight", "da/dbd/a15369.html#a16aa4ac59c1c8f6f844c311745b6e969", null ],
-    [ "Reset", "da/dbd/a15369.html#a17a31cf7827cdb904efa64d954b19c4a", null ],
-    [ "SetGUID", "da/dbd/a15369.html#a87369e8995c096301908ec209e17b274", null ],
-    [ "SpawnNextCrystal", "da/dbd/a15369.html#a2a95c315af6a9e2bcedc8a9c9a9d9789", null ],
-    [ "SpellHit", "da/dbd/a15369.html#a0b5b92a9bce9a5dd0054cb833a56d32f", null ],
-    [ "SummonedCreatureDespawn", "da/dbd/a15369.html#a5c3ac7bddf52e2390f91599bb3ce3a64", null ],
-    [ "UpdateAI", "da/dbd/a15369.html#a8f3822d1cc3354efa5292d88fedd4087", null ],
-    [ "_crystalIterator", "da/dbd/a15369.html#adc049248fa851c954d5fcbf643d47c16", null ],
-    [ "_firstCrystalGUID", "da/dbd/a15369.html#a498d562d4ceeaecc6a01047bc4559235", null ],
-    [ "_saidIntro", "da/dbd/a15369.html#a5a9b0b7ae7421a4554f4c4abc8850220", null ]
+    [ "Load", "da/dbd/a15369.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
+    [ "PeriodicTick", "da/dbd/a15369.html#ae4761ac3bce02903a7266511d80503f9", null ],
+    [ "PrepareAuraScript", "da/dbd/a15369.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
+    [ "Register", "da/dbd/a15369.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
+    [ "_ticks", "da/dbd/a15369.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
 ];

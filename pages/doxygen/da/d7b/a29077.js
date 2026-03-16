@@ -1,5 +1,10 @@
 var a29077 =
 [
-    [ "go_massive_seaforium_charge", "da/d7b/a29077.html#adae43b764f237932923cd18207e4d23c", null ],
-    [ "OnGossipHello", "da/d7b/a29077.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
+    [ "HasFlag", "da/d7b/a29077.html#abe23ca5437589a38ea57bc93a6197911", null ],
+    [ "CollisionHeight", "da/d7b/a29077.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
+    [ "CollisionWidth", "da/d7b/a29077.html#ab79497759cf169348b8922301fc43b2f", null ],
+    [ "Flags", "da/d7b/a29077.html#a3bb96e232124771e78f8b5db53405106", null ],
+    [ "Id", "da/d7b/a29077.html#aa19fec147703c7542be260c8ec5a0446", null ],
+    [ "MountHeight", "da/d7b/a29077.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
+    [ "Scale", "da/d7b/a29077.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
 ];

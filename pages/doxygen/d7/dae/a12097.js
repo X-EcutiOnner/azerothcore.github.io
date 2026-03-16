@@ -1,11 +1,13 @@
 var a12097 =
 [
-    [ "pooltools_commandscript", "d7/dae/a12097.html#a3428978e91000cbe46dd2b84a30eee2d", null ],
-    [ "GetCommands", "d7/dae/a12097.html#aebd69a3ae0a0e0833f3eaeeb637d97e6", null ],
-    [ "HandlePoolAdd", "d7/dae/a12097.html#afb113b7673dbddf804f9384fbc400d67", null ],
-    [ "HandlePoolClear", "d7/dae/a12097.html#a4bde765f2949ae2db1601e8f5a103ed2", null ],
-    [ "HandlePoolDef", "d7/dae/a12097.html#a12edd3f4697bba8e03594ceed8c6c289", null ],
-    [ "HandlePoolEnd", "d7/dae/a12097.html#a039862a0ca89201187f4e06ce792cae8", null ],
-    [ "HandlePoolRemove", "d7/dae/a12097.html#a158f83f814cba8328dcb81f02525dcdb", null ],
-    [ "HandlePoolStart", "d7/dae/a12097.html#a13629c50653c80b949bdf80485e51d59", null ]
+    [ "cheat_commandscript", "d7/dae/a12097.html#a7449cfba3578956a09b67e569e7e6083", null ],
+    [ "GetCommands", "d7/dae/a12097.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
+    [ "HandleCasttimeCheatCommand", "d7/dae/a12097.html#a119ad06c5b8be235853bb13c7cff724b", null ],
+    [ "HandleCheatStatusCommand", "d7/dae/a12097.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
+    [ "HandleCoolDownCheatCommand", "d7/dae/a12097.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
+    [ "HandleExploreCheatCommand", "d7/dae/a12097.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
+    [ "HandleGodModeCheatCommand", "d7/dae/a12097.html#ac398dbacf025830dc871bc77938d47d6", null ],
+    [ "HandlePowerCheatCommand", "d7/dae/a12097.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
+    [ "HandleTaxiCheatCommand", "d7/dae/a12097.html#ab9bd840c9622d173e710058eeb763388", null ],
+    [ "HandleWaterWalkCheatCommand", "d7/dae/a12097.html#a9162d89c049f14f29bc5ba257964df34", null ]
 ];

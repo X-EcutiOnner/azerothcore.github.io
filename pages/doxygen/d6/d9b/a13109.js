@@ -1,8 +1,8 @@
 var a13109 =
 [
-    [ "npc_cyclone", "d6/d9b/a13109.html#afdc4f98b031f832702929c6a7f192ab5", null ],
-    [ "JustEngagedWith", "d6/d9b/a13109.html#a61d0710868c91f707643a436c0d79485", null ],
-    [ "Reset", "d6/d9b/a13109.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
-    [ "UpdateAI", "d6/d9b/a13109.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
-    [ "_scheduler", "d6/d9b/a13109.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
+    [ "HandleEffectRemove", "d6/d9b/a13109.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
+    [ "if", "d6/d9b/a13109.html#a8596fc98402bf952484c9567f61c7820", null ],
+    [ "PrepareAuraScript", "d6/d9b/a13109.html#a4055f781a914de631187b00ba7aefeef", null ],
+    [ "Register", "d6/d9b/a13109.html#aefb4bbae43558abde871548088784613", null ],
+    [ "AuraEffectHandleModes", "d6/d9b/a13109.html#a7d419ba41e68b70740a867a2265824bd", null ]
 ];

@@ -1,7 +1,6 @@
 var a17525 =
 [
-    [ "HandleApplyAura", "d2/d84/a17525.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
-    [ "PrepareSpellScript", "d2/d84/a17525.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
-    [ "Register", "d2/d84/a17525.html#a80638966202cb9e27d204ea621e379ef", null ],
-    [ "Validate", "d2/d84/a17525.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
+    [ "npc_pos_leaderAI", "de/d61/a17529.html", "de/d61/a17529" ],
+    [ "npc_pos_leader", "d2/d84/a17525.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
+    [ "GetAI", "d2/d84/a17525.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
 ];

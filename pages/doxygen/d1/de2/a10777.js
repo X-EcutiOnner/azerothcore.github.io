@@ -1,11 +1,7 @@
 var a10777 =
 [
-    [ "GuildSetRankPermissions", "d1/de2/a10777.html#a8b3fd3e4da77c6fb70db28721ec46714", null ],
-    [ "Read", "d1/de2/a10777.html#a534550862a3c634697e8277f31ad4c25", null ],
-    [ "Flags", "d1/de2/a10777.html#adea48131efa7c05b84c4de596933bfbe", null ],
-    [ "RankID", "d1/de2/a10777.html#a0c4a8b29918d69580c749e3b48485515", null ],
-    [ "RankName", "d1/de2/a10777.html#a24dde2aa8dd0ae1b9e8b37317334e0d4", null ],
-    [ "TabFlags", "d1/de2/a10777.html#af19e6fd8ddfe980f8c1f1110e9332bad", null ],
-    [ "TabWithdrawItemLimit", "d1/de2/a10777.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c", null ],
-    [ "WithdrawGoldLimit", "d1/de2/a10777.html#a1c02002facce05010028ac8dcae7fa3f", null ]
+    [ "LogoutResponse", "d1/de2/a10777.html#a434ee19fbc4d3e336444b1c62ac2be84", null ],
+    [ "Write", "d1/de2/a10777.html#a0b08225b6ac303afd20ec213aafe4bcb", null ],
+    [ "Instant", "d1/de2/a10777.html#aad6819dc426b91b6ad43f180a53e12ef", null ],
+    [ "LogoutResult", "d1/de2/a10777.html#a5543bf1a6342e9a217cd906e4a185b2e", null ]
 ];

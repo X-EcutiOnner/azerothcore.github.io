@@ -1,7 +1,6 @@
 var a25973 =
 [
-    [ "OnProc", "d1/d2e/a25973.html#a304fd48cc79d3e7371212632d276b2ff", null ],
-    [ "PrepareAuraScript", "d1/d2e/a25973.html#a239f9448d36bee4cfb46d95bf20c0148", null ],
-    [ "Register", "d1/d2e/a25973.html#a28be437c5f3e8bca0f54be97cb5c5a1f", null ],
-    [ "Validate", "d1/d2e/a25973.html#adc217147d7c150d66dad4d3e922cff96", null ]
+    [ "HandleScript", "d1/d2e/a25973.html#ab923050ce4613538ee4837daba09dd33", null ],
+    [ "PrepareSpellScript", "d1/d2e/a25973.html#a9fa37b95f9c3788764922f4414c383f5", null ],
+    [ "Register", "d1/d2e/a25973.html#a4bacedda40b04934e7473f7a92f6a314", null ]
 ];

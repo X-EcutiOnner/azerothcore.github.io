@@ -1,7 +1,6 @@
 var a14277 =
 [
-    [ "HandleEffect", "de/de0/a14277.html#a8cda8eff109af7441d6990a236a52b80", null ],
-    [ "PrepareSpellScript", "de/de0/a14277.html#acc2698ba702be211bef63cefa41005f4", null ],
-    [ "Register", "de/de0/a14277.html#a5d6dccbb44a5d95055755673ad70707f", null ],
-    [ "Validate", "de/de0/a14277.html#a0b106298aa550e4fe9e8a449ed7eaa51", null ]
+    [ "npc_tapoke_slim_jahnAI", "d8/d6f/a14281.html", "d8/d6f/a14281" ],
+    [ "npc_tapoke_slim_jahn", "de/de0/a14277.html#a61e36b57f8ba78c371d454efb1512579", null ],
+    [ "GetAI", "de/de0/a14277.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
 ];

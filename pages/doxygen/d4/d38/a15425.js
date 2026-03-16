@@ -1,19 +1,12 @@
 var a15425 =
 [
-    [ "boss_bug_trio", "d4/d38/a15425.html#acfef187b77a745686cb64bec64398dd4", null ],
-    [ "CheckInRoom", "d4/d38/a15425.html#a9b78f1f7beee555460bd24338a25506d", null ],
-    [ "DamageTaken", "d4/d38/a15425.html#a41e1d62badcad8d360983f07b4101f7e", null ],
-    [ "DoAction", "d4/d38/a15425.html#a808939fbc1a9f2bc9e3a6dda5dce02f4", null ],
-    [ "DoFinalSpell", "d4/d38/a15425.html#a46b943e5d5f5b0972b42edc4134c1f98", null ],
-    [ "EnterCombatWithTrio", "d4/d38/a15425.html#af7d3159f505f5f3dd6e273d47fd9bc80", null ],
-    [ "EnterEvadeMode", "d4/d38/a15425.html#ae6809cc35969618ecfaf1767e8c9ae92", null ],
-    [ "EvadeAllBosses", "d4/d38/a15425.html#a09c60b117f2cb194eeb1a2b13b7e5d37", null ],
-    [ "JustDied", "d4/d38/a15425.html#a2d4d6a43de7ce16b6cf5b7603fbacd87", null ],
-    [ "MovementInform", "d4/d38/a15425.html#aa24ae95cbe50f24abef4ab4ac30278b8", null ],
-    [ "Reset", "d4/d38/a15425.html#a8f07a98ed21c3e362bec3c8d3bd5ea09", null ],
-    [ "UpdateAI", "d4/d38/a15425.html#a26896dd5f3f2e0ca6251bd96f8199e10", null ],
-    [ "_creatureDying", "d4/d38/a15425.html#a89dbaf8c1bba75369b978dd366806bb4", null ],
-    [ "_dying", "d4/d38/a15425.html#a4ad80d1c623a86396d180bc6a6f14bb5", null ],
-    [ "_isEating", "d4/d38/a15425.html#a331eb32e0713aee8d5a84ed32c72de12", null ],
-    [ "_scheduler", "d4/d38/a15425.html#a121d3abe2854c5b798ee1eebdaea699f", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "d4/d38/a15425.html#a04d36b66a5570d03bb95ef2225a5c902", null ],
+    [ "GetData", "d4/d38/a15425.html#a3d1611870945cd0c8cd7d4e7728cfd84", null ],
+    [ "Initialize", "d4/d38/a15425.html#aed9ab9542badb0296ca0660c39541cb8", null ],
+    [ "OnGameObjectCreate", "d4/d38/a15425.html#a567ac5d9a17514ede5b84c5d78204072", null ],
+    [ "ReadSaveDataMore", "d4/d38/a15425.html#a7d6fefed563b0b9763b9c63136c65952", null ],
+    [ "SetData", "d4/d38/a15425.html#a1dfd39d65b16bb6e1373fe83ba4053c5", null ],
+    [ "WriteSaveDataMore", "d4/d38/a15425.html#ae5cd5cf84e8db976f3006dc52bb5fab4", null ],
+    [ "_firesState", "d4/d38/a15425.html#a74809429d3d2b1db5374dacf34d8a1b7", null ],
+    [ "_gongPhase", "d4/d38/a15425.html#a23485a35f0aa2f2ffad53398882d163a", null ]
 ];

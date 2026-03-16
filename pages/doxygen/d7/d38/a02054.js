@@ -1,6 +1,6 @@
 var a02054 =
 [
-    [ "AutobroadcastMgr", "d4/d87/a07406.html", "d4/d87/a07406" ],
+    [ "AutobroadcastMgr", "d6/da8/a07397.html", "d6/da8/a07397" ],
     [ "sAutobroadcastMgr", "d7/d38/a02054.html#a34abff2dadcb74370b0749fe9fda3878", null ],
     [ "AnnounceType", "d7/d38/a02054.html#a28a4ef2f64643c76d8be05bf9eafc731", [
       [ "World", "d7/d38/a02054.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6", null ],

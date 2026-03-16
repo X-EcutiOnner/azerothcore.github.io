@@ -1,13 +1,12 @@
 var a08357 =
 [
-    [ "FlaggedValuesArray32", "df/d98/a08357.html#a0680f7b67001783f20d89989a49cbead", null ],
-    [ "AddFlag", "df/d98/a08357.html#a273ab3607b23881628eb0c5d6a4da288", null ],
-    [ "AddValue", "df/d98/a08357.html#aacca1261b2a22525e5fd40e5f479aa06", null ],
-    [ "DelFlag", "df/d98/a08357.html#a3a674b2a7b8d5874f7210372b3e92123", null ],
-    [ "GetFlags", "df/d98/a08357.html#a314a315eb1c1a76116fe3a31f7be9c68", null ],
-    [ "GetValue", "df/d98/a08357.html#a87e5949bc041f15449331aceb277e8c4", null ],
-    [ "HasFlag", "df/d98/a08357.html#a0ea5d977caef5152c71c515259a91f06", null ],
-    [ "SetValue", "df/d98/a08357.html#ad0d385589befe52103f077723fa2463c", null ],
-    [ "m_flags", "df/d98/a08357.html#abab31b77efb46fa796275c36964eab91", null ],
-    [ "m_values", "df/d98/a08357.html#aabd025f47ad522e574f603eb559500f0", null ]
+    [ "QuestMenu", "df/d98/a08357.html#a60ba5b35499c6a9ed510300d3300421e", null ],
+    [ "~QuestMenu", "df/d98/a08357.html#a14df9b6699c327853121ae032704db8d", null ],
+    [ "AddMenuItem", "df/d98/a08357.html#ac8735756bbf9f2fa799c505bd740e070", null ],
+    [ "ClearMenu", "df/d98/a08357.html#ab3d3881aabe000694acab37a3774507e", null ],
+    [ "Empty", "df/d98/a08357.html#a1a850cb70956f299ea91cb0d732ad202", null ],
+    [ "GetItem", "df/d98/a08357.html#a08240a8d18dce0cb96db19f54c67dd2c", null ],
+    [ "GetMenuItemCount", "df/d98/a08357.html#a2338a6fb88c32bfb66fe524a8ffaa0d7", null ],
+    [ "HasItem", "df/d98/a08357.html#a7fe36e4a4acfc66a00f08034c470b5e3", null ],
+    [ "_questMenuItems", "df/d98/a08357.html#a49279a3943009f2d1475d792c2c3d21a", null ]
 ];

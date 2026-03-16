@@ -1,7 +1,6 @@
 var a25825 =
 [
-    [ "CheckProc", "de/d79/a25825.html#a325336c96dad74ec221c07817222fee1", null ],
-    [ "HandleProc", "de/d79/a25825.html#a35a1ce56b84b2d8017dbaba626660d70", null ],
-    [ "PrepareAuraScript", "de/d79/a25825.html#a30f6dd531d4316b4bbb3297af2c17e2e", null ],
-    [ "Register", "de/d79/a25825.html#a6c86a4cf273d90086c4ebdbcaa6b6632", null ]
+    [ "HandleDummy", "de/d79/a25825.html#a8b9510efa5af25ef698fc6eb49b19b69", null ],
+    [ "PrepareSpellScript", "de/d79/a25825.html#a80b89fbd2506191b897dcf367ff11500", null ],
+    [ "Register", "de/d79/a25825.html#a522730e5ba844728c0b3d6f423cd123a", null ]
 ];

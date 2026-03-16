@@ -1,7 +1,7 @@
 var a23457 =
 [
-    [ "FilterTargets", "da/d69/a23457.html#a834163302ff10875227806d7d4945988", null ],
-    [ "HandleScriptEffect", "da/d69/a23457.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
-    [ "PrepareSpellScript", "da/d69/a23457.html#a079e72d57550e03956088b4be1d11422", null ],
-    [ "Register", "da/d69/a23457.html#abd4e0f268652652d3828ba8d350de849", null ]
+    [ "OnApply", "da/d69/a23457.html#a301e47da9be4b4a449701c59c19bc62b", null ],
+    [ "PrepareAuraScript", "da/d69/a23457.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
+    [ "Register", "da/d69/a23457.html#aaf38547f7fa233b03429734dbe374f13", null ],
+    [ "Validate", "da/d69/a23457.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
 ];

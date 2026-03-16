@@ -1,7 +1,7 @@
 var a24113 =
 [
-    [ "HandlePeriodic", "d6/da2/a24113.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
-    [ "PrepareAuraScript", "d6/da2/a24113.html#a58dc6668172d046cef3046649928c124", null ],
-    [ "Register", "d6/da2/a24113.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
-    [ "Validate", "d6/da2/a24113.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
+    [ "CheckRequirement", "d6/da2/a24113.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
+    [ "PrepareSpellScript", "d6/da2/a24113.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
+    [ "Register", "d6/da2/a24113.html#a25f275e84570f674071bfae03aeb0ddc", null ],
+    [ "Validate", "d6/da2/a24113.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
 ];

@@ -1,8 +1,16 @@
 var a14305 =
 [
-    [ "FilterTargets", "de/db3/a14305.html#a3405b21202d423c649e0b8d341b42d9c", null ],
-    [ "HandleWipeThreat", "de/db3/a14305.html#a2bbcce83bffebc509e9ec54778e82639", null ],
-    [ "PrepareSpellScript", "de/db3/a14305.html#a59948484b528cab69c695f08b39b886d", null ],
-    [ "Register", "de/db3/a14305.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
-    [ "_wipeThreat", "de/db3/a14305.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
+    [ "boss_halazzi", "de/db3/a14305.html#aed961a9e12b44dfd97bd31c981184be5", null ],
+    [ "AttackStart", "de/db3/a14305.html#a000c3b6b8a73fd8f858b87724dfcf123", null ],
+    [ "DamageTaken", "de/db3/a14305.html#aaa698dfa4d4a991968eebee3330e967a", null ],
+    [ "DoAction", "de/db3/a14305.html#a1685c7c99a797ec332b67797a294d83a", null ],
+    [ "EnterPhase", "de/db3/a14305.html#a951a0c9fc4fc737abbaaae77dfd4e43b", null ],
+    [ "JustDied", "de/db3/a14305.html#aa607a13fef1b8c195ba0aa09fafdaaae", null ],
+    [ "JustEngagedWith", "de/db3/a14305.html#a1dd4992bfca0bf658bd7a385300578ae", null ],
+    [ "JustSummoned", "de/db3/a14305.html#a152267cb31912106443ceea9488fee0a", null ],
+    [ "KilledUnit", "de/db3/a14305.html#a4d69fa8e754f823a599c52e227361600", null ],
+    [ "Reset", "de/db3/a14305.html#a9d9a82e5ae8dadfefcf2c929325cb60e", null ],
+    [ "SpellHit", "de/db3/a14305.html#a36141673391a423174db874ca425ea07", null ],
+    [ "_phase", "de/db3/a14305.html#a1f76fd0c02eec20aa2c222b278420dd8", null ],
+    [ "_transformCount", "de/db3/a14305.html#a9a86487f20e48d6be123bd61aaf13f7f", null ]
 ];

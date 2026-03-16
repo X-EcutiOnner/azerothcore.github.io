@@ -1,10 +1,6 @@
 var a10981 =
 [
-    [ "BuyItem", "dd/d60/a10981.html#a3069d333bccadf53310ce86118b2c224", null ],
-    [ "Read", "dd/d60/a10981.html#aeeda3c4a9200cfdc3372f1a3510f453b", null ],
-    [ "Count", "dd/d60/a10981.html#a72fee9e84781ae2be25f9f15a2bb6de2", null ],
-    [ "Item", "dd/d60/a10981.html#a07c03ec8db8e498b417b7dbabb9412b3", null ],
-    [ "Slot", "dd/d60/a10981.html#a7db43e484bf82fb81ccca197c24df2d1", null ],
-    [ "Unk", "dd/d60/a10981.html#aaf2b6aefb11379325b8cf9931abff638", null ],
-    [ "VendorGuid", "dd/d60/a10981.html#aab9a5ff8f6f71a311e58e78b81ef7021", null ]
+    [ "GuildBankRemainingWithdrawMoney", "dd/d60/a10981.html#afdb4e226091e8280b4ef26bd51edebdd", null ],
+    [ "Write", "dd/d60/a10981.html#aecc28f8734a66c562c7baa1575b07ff9", null ],
+    [ "RemainingWithdrawMoney", "dd/d60/a10981.html#a015ba615ebe4ea09df8233f6a85332f4", null ]
 ];

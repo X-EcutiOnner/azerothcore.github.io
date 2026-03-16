@@ -1,6 +1,6 @@
 var a23313 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "df/de1/a23317.html", "df/de1/a23317" ],
-    [ "instance_gruuls_lair", "da/dbf/a23313.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
-    [ "GetInstanceScript", "da/dbf/a23313.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
+    [ "HandleScript", "da/dbf/a23313.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
+    [ "PrepareSpellScript", "da/dbf/a23313.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
+    [ "Register", "da/dbf/a23313.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
 ];

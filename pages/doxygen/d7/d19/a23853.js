@@ -1,6 +1,6 @@
 var a23853 =
 [
-    [ "go_beaconAI", "d6/d52/a23857.html", "d6/d52/a23857" ],
-    [ "go_beacon", "d7/d19/a23853.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
-    [ "GetAI", "d7/d19/a23853.html#abd168f0c1ac9a64cece280758f3120d4", null ]
+    [ "FilterTargets", "d7/d19/a23853.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
+    [ "PrepareSpellScript", "d7/d19/a23853.html#afa186c0b0728e3462f8984189613f9a7", null ],
+    [ "Register", "d7/d19/a23853.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
 ];

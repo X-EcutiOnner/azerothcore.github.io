@@ -1,7 +1,6 @@
 var a18773 =
 [
-    [ "AuraRemoveEvent", "d3/d79/a18773.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "d3/d79/a18773.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "d3/d79/a18773.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "d3/d79/a18773.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "npc_raging_spiritAI", "d0/d99/a18777.html", "d0/d99/a18777" ],
+    [ "npc_raging_spirit", "d3/d79/a18773.html#ad1a580bd394adc8c58575b600c16f9db", null ],
+    [ "GetAI", "d3/d79/a18773.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
 ];

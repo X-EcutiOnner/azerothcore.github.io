@@ -1,6 +1,10 @@
 var a14517 =
 [
-    [ "npc_brewfest_bark_trigger", "d5/d1b/a14517.html#a110d654792e1f5dae8b17f014ea3d425", null ],
-    [ "GetTextFor", "d5/d1b/a14517.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
-    [ "MoveInLineOfSight", "d5/d1b/a14517.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
+    [ "npc_batrider", "d5/d1b/a14517.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
+    [ "DamageTaken", "d5/d1b/a14517.html#ad4818b1363082a91223526908c38777c", null ],
+    [ "JustEngagedWith", "d5/d1b/a14517.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
+    [ "Reset", "d5/d1b/a14517.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
+    [ "UpdateAI", "d5/d1b/a14517.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
+    [ "_mode", "d5/d1b/a14517.html#acd53ec78a754219511af1ad2f11422a9", null ],
+    [ "_scheduler", "d5/d1b/a14517.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
 ];

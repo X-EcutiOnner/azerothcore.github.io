@@ -1,6 +1,7 @@
 var a25461 =
 [
-    [ "PrepareSpellScript", "d1/d65/a25461.html#a3a77016a3a8314969ce41cc6483761ec", null ],
-    [ "Register", "d1/d65/a25461.html#ae1fa8b9e4a11c884d10b1f4cc0afd09e", null ],
-    [ "SetDest", "d1/d65/a25461.html#a724217c09faa57ec2e6dad034e8709ed", null ]
+    [ "HandleScript", "d1/d65/a25461.html#a27e2575e538732ac76add53f2f8f6832", null ],
+    [ "PrepareSpellScript", "d1/d65/a25461.html#ad7c98be6cca23fb1484a6b77bcc7bc9d", null ],
+    [ "Register", "d1/d65/a25461.html#a4ee74f6d8a61a8ba38ece33176c18f84", null ],
+    [ "Validate", "d1/d65/a25461.html#aef9eef1819652e0fce1cd4b3ba9c387c", null ]
 ];

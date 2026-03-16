@@ -1,5 +1,5 @@
 var a07993 =
 [
-    [ "locations", "d8/d67/a07993.html#a6470ea69a14e24337aa6b0c05093b6d2", null ],
-    [ "timeStamp", "d8/d67/a07993.html#a5fed6b0484c1553a17b5303facaeb61b", null ]
+    [ "IsColorValid", "d8/d67/a07993.html#a4bb1cd2a247136daadfa36f85b50a65d", null ],
+    [ "IsTextValid", "d8/d67/a07993.html#a25b0d16c232ab67fc75a81a494fb5815", null ]
 ];

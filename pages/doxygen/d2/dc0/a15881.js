@@ -1,10 +1,7 @@
 var a15881 =
 [
-    [ "CreatureId", "d2/dc0/a15881.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
-    [ "DespTimer", "d2/dc0/a15881.html#a0dfec745982b346ac1cd0af672be31fb", null ],
-    [ "SpawnCount", "d2/dc0/a15881.html#ad5347ee83eaa00fe0721279099c48433", null ],
-    [ "SpawnTimer", "d2/dc0/a15881.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
-    [ "UsedSpawnPoint", "d2/dc0/a15881.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
-    [ "WaveTextId", "d2/dc0/a15881.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
-    [ "YellTimer", "d2/dc0/a15881.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
+    [ "npc_prospector_remtravelAI", "d2/dbe/a15885.html", "d2/dbe/a15885" ],
+    [ "npc_prospector_remtravel", "d2/dc0/a15881.html#aa213161fc60e615682252125f6c58f7f", null ],
+    [ "GetAI", "d2/dc0/a15881.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
+    [ "OnQuestAccept", "d2/dc0/a15881.html#a5e11149b6359927a71c98242d979e65b", null ]
 ];

@@ -1,9 +1,9 @@
 var a14705 =
 [
-    [ "spell_hallows_end_put_costume", "d3/de0/a14705.html#ac1fcd0a32142744f353cdc01bce740e3", null ],
-    [ "HandleScript", "d3/de0/a14705.html#ac4be92e73c08c06c1c9954547bfe8013", null ],
-    [ "PrepareSpellScript", "d3/de0/a14705.html#ac0e4692be1527f052a23ed52af32d042", null ],
-    [ "Register", "d3/de0/a14705.html#ac38299892d02c497e3bbae3c73a095ab", null ],
-    [ "_femaleSpell", "d3/de0/a14705.html#a5ccb30abd83ed1d0be104bffc91deca2", null ],
-    [ "_maleSpell", "d3/de0/a14705.html#af9b285133389942bea6738e518d34e48", null ]
+    [ "CheckCast", "d3/de0/a14705.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
+    [ "FilterTargets", "d3/de0/a14705.html#a9638048b4107db116474abf8e18d7760", null ],
+    [ "HandleBeforeHit", "d3/de0/a14705.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
+    [ "HandleScriptEffect", "d3/de0/a14705.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
+    [ "PrepareSpellScript", "d3/de0/a14705.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
+    [ "Register", "d3/de0/a14705.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
 ];

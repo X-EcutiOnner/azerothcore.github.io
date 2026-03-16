@@ -1,7 +1,9 @@
 var a13029 =
 [
-    [ "OnRemove", "d6/d16/a13029.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
-    [ "PrepareAuraScript", "d6/d16/a13029.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
-    [ "Register", "d6/d16/a13029.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
-    [ "Validate", "d6/d16/a13029.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
+    [ "HandleEffectApply", "d6/d16/a13029.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
+    [ "HandleEffectRemove", "d6/d16/a13029.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
+    [ "Load", "d6/d16/a13029.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
+    [ "PrepareAuraScript", "d6/d16/a13029.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
+    [ "Register", "d6/d16/a13029.html#a201bafab6c483b08a6ae27054392dea9", null ],
+    [ "Validate", "d6/d16/a13029.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
 ];

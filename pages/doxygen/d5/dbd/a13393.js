@@ -1,8 +1,7 @@
 var a13393 =
 [
-    [ "HandleHit", "d5/dbd/a13393.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
-    [ "PrepareSpellScript", "d5/dbd/a13393.html#a53f170244b390f7035e131fb5c79cb3f", null ],
-    [ "Register", "d5/dbd/a13393.html#a248124b837cf71f7d422154db4581747", null ],
-    [ "Validate", "d5/dbd/a13393.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
-    [ "_emote", "d5/dbd/a13393.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
+    [ "HandleScriptEffect", "d5/dbd/a13393.html#a1b196f3817c16fac48392981b58c1a05", null ],
+    [ "PrepareSpellScript", "d5/dbd/a13393.html#ad44566ff9a44057679e7ce8e1959776d", null ],
+    [ "Register", "d5/dbd/a13393.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
+    [ "Validate", "d5/dbd/a13393.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
 ];

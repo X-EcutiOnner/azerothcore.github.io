@@ -1,6 +1,7 @@
 var a18937 =
 [
-    [ "npc_crok_scourgebaneAI", "d1/d03/a18941.html", "d1/d03/a18941" ],
-    [ "npc_crok_scourgebane", "d9/d41/a18937.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
-    [ "GetAI", "d9/d41/a18937.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
+    [ "ValithriaDespawner", "d9/d41/a18937.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
+    [ "Execute", "d9/d41/a18937.html#a4f8c63f52996da14078a7196cae3a00d", null ],
+    [ "operator()", "d9/d41/a18937.html#a05bae39d642f294f2ef98151d66ba382", null ],
+    [ "_creature", "d9/d41/a18937.html#a64bf6181ad867efd987edec141ca3bf0", null ]
 ];

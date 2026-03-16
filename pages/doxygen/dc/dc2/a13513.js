@@ -1,7 +1,8 @@
 var a13513 =
 [
-    [ "OnPeriodic", "dc/dc2/a13513.html#ab193b7cf8a8fe91879317e7d21522976", null ],
-    [ "PrepareAuraScript", "dc/dc2/a13513.html#a5dca6bc670612f0b0e8e99381c97bf11", null ],
-    [ "Register", "dc/dc2/a13513.html#ac6e0621064e5e0a77e1cdbfa8dbb6a54", null ],
-    [ "Validate", "dc/dc2/a13513.html#a290b864756ceff85d52ba3f974a28217", null ]
+    [ "DelayedSummonEvent", "dc/dc2/a13513.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
+    [ "Execute", "dc/dc2/a13513.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
+    [ "_entry", "dc/dc2/a13513.html#a24d72110a070eb0bd03af081ef616de4", null ],
+    [ "_owner", "dc/dc2/a13513.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
+    [ "_pos", "dc/dc2/a13513.html#aef19987803a1cce47cbd8d9005a288ac", null ]
 ];

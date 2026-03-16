@@ -1,11 +1,10 @@
 var a08817 =
 [
-    [ "AuraMunchingQueue", "d7/de6/a08817.html#abf9787bcfa9393619ffebe2ad7b5cd46", null ],
-    [ "Execute", "d7/de6/a08817.html#a8f025a0ea1db81fb283db563402d1c40", null ],
-    [ "_auraType", "d7/de6/a08817.html#add694e24c38d585784f236acf9118b76", null ],
-    [ "_aurEff", "d7/de6/a08817.html#a8ac00964608170d5375242c1b19c4be3", null ],
-    [ "_basePoints", "d7/de6/a08817.html#a9cf03046c9595e81bf119b7aacb1a81a", null ],
-    [ "_owner", "d7/de6/a08817.html#a472aaf46c2f167a10ce38267ace0b8bb", null ],
-    [ "_spellId", "d7/de6/a08817.html#a6674c43b906e45e2ad29100a7ff06f44", null ],
-    [ "_targetGUID", "d7/de6/a08817.html#a441b328296f0b7a75bdaee06d2cb94f1", null ]
+    [ "DuelInfo", "d7/de6/a08817.html#a183f336e52fe7cdaa34dbb43991d0c39", null ],
+    [ "Initiator", "d7/de6/a08817.html#ae1a6667f934c88ad8f0b160e6a8b1190", null ],
+    [ "IsMounted", "d7/de6/a08817.html#ad80e3507a7bdfc8f7dbebd07697c464f", null ],
+    [ "Opponent", "d7/de6/a08817.html#a2765770367c839ad28f804e2df3205cb", null ],
+    [ "OutOfBoundsTime", "d7/de6/a08817.html#a8ff9ae1c990674b6ac0cd929f5114f23", null ],
+    [ "StartTime", "d7/de6/a08817.html#a1b8b4c373b2e4243f8e33a391821528f", null ],
+    [ "State", "d7/de6/a08817.html#ae8492a9857d819fcec56a10cfd5051e2", null ]
 ];

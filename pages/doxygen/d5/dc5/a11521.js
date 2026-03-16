@@ -1,15 +1,15 @@
 var a11521 =
 [
-    [ "AttributesMask", "d5/dc5/a11521.html#a7cc9dfa91e034f5052ebd3bf8eaea42a", null ],
-    [ "Chance", "d5/dc5/a11521.html#aea5ca609c75ea7b314aec8ae0246297e", null ],
-    [ "Charges", "d5/dc5/a11521.html#a75f0484dad60eec59b399a188fd9908f", null ],
-    [ "Cooldown", "d5/dc5/a11521.html#a4e6185aea35599a3efc2e806145cb1d2", null ],
-    [ "HitMask", "d5/dc5/a11521.html#a8ac3331576b4eb761157fa3d0d622bea", null ],
-    [ "ProcFlags", "d5/dc5/a11521.html#a9e5de790c4f61537397a1ce2bce8a9b0", null ],
-    [ "ProcsPerMinute", "d5/dc5/a11521.html#a3815765c08f6b95cae6efb93fa98623b", null ],
-    [ "SchoolMask", "d5/dc5/a11521.html#acf72c4a783235770bbff952bdc002324", null ],
-    [ "SpellFamilyMask", "d5/dc5/a11521.html#a8688e9282cb78d4f24b310cc2521c22b", null ],
-    [ "SpellFamilyName", "d5/dc5/a11521.html#a2cb738b0d4579503fcb9bca7988f7e36", null ],
-    [ "SpellPhaseMask", "d5/dc5/a11521.html#ab4c4bfa1493a7a5924d3cd094127f973", null ],
-    [ "SpellTypeMask", "d5/dc5/a11521.html#a99e20d3979a532e1ca90ee83edcff3eb", null ]
+    [ "BaseSocketMgr", "d5/dc5/a11521.html#a6f9671b94ae64c0c3482e085cb2a252f", null ],
+    [ "WorldSocketMgr", "d5/dc5/a11521.html#a8e46ddcf7ba33a66c7226150400cc08b", null ],
+    [ "CreateThreads", "d5/dc5/a11521.html#a04e98fcb25c09ff85e9536cf43fd4e6e", null ],
+    [ "GetApplicationSendBufferSize", "d5/dc5/a11521.html#a8deeaffd7d25bacd8bfa15d29dff6aeb", null ],
+    [ "Instance", "d5/dc5/a11521.html#aaa32a527707cb66916b1499a2e283250", null ],
+    [ "OnSocketAccept", "d5/dc5/a11521.html#add84a09a7111cca079a11289c7ef672d", null ],
+    [ "OnSocketOpen", "d5/dc5/a11521.html#a916e6d479b7281c26fc7820a2ed0255d", null ],
+    [ "StartWorldNetwork", "d5/dc5/a11521.html#acaf85b16b490bfda8532b49456a38b71", null ],
+    [ "StopNetwork", "d5/dc5/a11521.html#aede126ecfe75f2917aaf730330ea3b82", null ],
+    [ "_socketApplicationSendBufferSize", "d5/dc5/a11521.html#a7a5ca8c2c9165d3cb1f46adbdfe917b0", null ],
+    [ "_socketSystemSendBufferSize", "d5/dc5/a11521.html#a043da77b04a29c4c5fe81698ae279985", null ],
+    [ "_tcpNoDelay", "d5/dc5/a11521.html#a6f440c4cde2deaa72cbc5dbd348a00b6", null ]
 ];

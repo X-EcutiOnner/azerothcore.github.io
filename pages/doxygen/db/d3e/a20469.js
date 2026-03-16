@@ -1,6 +1,6 @@
 var a20469 =
 [
-    [ "HandleDamage", "db/d3e/a20469.html#af2578478e83eb2f6c2de32a692e9be91", null ],
-    [ "PrepareSpellScript", "db/d3e/a20469.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
-    [ "Register", "db/d3e/a20469.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
+    [ "FilterTargets", "db/d3e/a20469.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
+    [ "PrepareSpellScript", "db/d3e/a20469.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
+    [ "Register", "db/d3e/a20469.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
 ];

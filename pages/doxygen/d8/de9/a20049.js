@@ -1,5 +1,7 @@
 var a20049 =
 [
-    [ "achievement_auriaya_nine_lives", "d8/de9/a20049.html#a750304bc946a7ecefec29dc18c429d3b", null ],
-    [ "OnCheck", "d8/de9/a20049.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
+    [ "creature", "d8/de9/a20049.html#a55a6ee677ab51120867f542e5a5745b0", null ],
+    [ "sound", "d8/de9/a20049.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
+    [ "text", "d8/de9/a20049.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
+    [ "timer", "d8/de9/a20049.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
 ];

@@ -1,15 +1,18 @@
 var a19605 =
 [
-    [ "boss_anomalus", "d3/ddd/a19605.html#aa4dd8fac7c360beb834382f624ed2246", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d3/ddd/a19605.html#ada0735330bff29a8c04706c980e6bbfc", null ],
-    [ "GetData", "d3/ddd/a19605.html#ad48aebb50cda7ee621f71803669f04c2", null ],
-    [ "JustDied", "d3/ddd/a19605.html#a41e257481921a122dba30348559e05fb", null ],
-    [ "JustEngagedWith", "d3/ddd/a19605.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
-    [ "JustSummoned", "d3/ddd/a19605.html#a3c0413f30d96268cab724856334e61ee", null ],
-    [ "Reset", "d3/ddd/a19605.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
-    [ "SetData", "d3/ddd/a19605.html#aa79ec9829862b573cd0f38f965d737e8", null ],
-    [ "UpdateAI", "d3/ddd/a19605.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
-    [ "_empowered", "d3/ddd/a19605.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
-    [ "achievement", "d3/ddd/a19605.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
-    [ "activeRifts", "d3/ddd/a19605.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
+    [ "boss_nothAI", "d3/ddd/a19605.html#a0a1f8e88396b04d070c4034b2419f0bb", null ],
+    [ "EnterEvadeMode", "d3/ddd/a19605.html#af0c4cfb04564b23840ee88dfa1badf55", null ],
+    [ "IsInRoom", "d3/ddd/a19605.html#a8e9c27804ae01e46285a3bed42091754", null ],
+    [ "JustDied", "d3/ddd/a19605.html#a18dd73c178eff3170d371c4bd4062b76", null ],
+    [ "JustEngagedWith", "d3/ddd/a19605.html#aed044bf36d56b2241e591eb45999900b", null ],
+    [ "JustSummoned", "d3/ddd/a19605.html#a61e814ce0a861ba98ccc21d8d6df128a", null ],
+    [ "KilledUnit", "d3/ddd/a19605.html#a1d5b013cdbaab702a85fc1d344ad6f6a", null ],
+    [ "Reset", "d3/ddd/a19605.html#a311754fa1fa1b112272395179e3b1bff", null ],
+    [ "StartBalconyPhase", "d3/ddd/a19605.html#ac890e5f4e6e9e40d78e75d2c86bd6740", null ],
+    [ "StartGroundPhase", "d3/ddd/a19605.html#a3ae5f948e2faf051b1cb88cd638c612e", null ],
+    [ "SummonHelper", "d3/ddd/a19605.html#abfe6252bec42fdc3d7738aef3dd2ec74", null ],
+    [ "UpdateAI", "d3/ddd/a19605.html#a87f4e825fb8f9f48991d5dcf94af78e3", null ],
+    [ "events", "d3/ddd/a19605.html#a3f3e282c6ee1d259f1f2a401f6195251", null ],
+    [ "summons", "d3/ddd/a19605.html#a4e95ad18274331e402124d4a8424cb18", null ],
+    [ "timesInBalcony", "d3/ddd/a19605.html#a249c96d4230bd2b43c4be733317c4bc4", null ]
 ];

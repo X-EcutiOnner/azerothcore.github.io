@@ -1,7 +1,7 @@
 var a18553 =
 [
-    [ "HandleScript", "db/d3f/a18553.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
-    [ "PrepareSpellScript", "db/d3f/a18553.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
-    [ "Register", "db/d3f/a18553.html#ad83d563da98ad189f2198a061b1cd50f", null ],
-    [ "Validate", "db/d3f/a18553.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
+    [ "HandleScript", "db/d3f/a18553.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
+    [ "PrepareSpellScript", "db/d3f/a18553.html#a7e6b56f426be7925255da3ebc239f909", null ],
+    [ "Register", "db/d3f/a18553.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
+    [ "Validate", "db/d3f/a18553.html#a86b4296eab73fc63b38558871f16a889", null ]
 ];

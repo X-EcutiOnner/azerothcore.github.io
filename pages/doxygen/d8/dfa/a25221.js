@@ -1,6 +1,10 @@
 var a25221 =
 [
-    [ "PrepareAuraScript", "d8/dfa/a25221.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
-    [ "Register", "d8/dfa/a25221.html#abb54f08b1932e3638537656360d3aad8", null ],
-    [ "AuraEffectHandleModes", "d8/dfa/a25221.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
+    [ "Load", "d8/dfa/a25221.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
+    [ "OnApply", "d8/dfa/a25221.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
+    [ "OnRemove", "d8/dfa/a25221.html#a29834c598d6ef8299d54e48a3461e603", null ],
+    [ "PrepareAuraScript", "d8/dfa/a25221.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
+    [ "Register", "d8/dfa/a25221.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
+    [ "Validate", "d8/dfa/a25221.html#aeaf16594f569af671d221234a4aa2c8b", null ],
+    [ "prevItem", "d8/dfa/a25221.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
 ];

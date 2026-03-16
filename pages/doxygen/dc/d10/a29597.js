@@ -1,7 +1,6 @@
 var a29597 =
 [
-    [ "MPQArchive", "dd/d78/a28608.html", "dd/d78/a28608" ],
-    [ "MPQFile", "db/dca/a28612.html", "db/dca/a28612" ],
-    [ "ArchiveSet", "dc/d10/a29597.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "dc/d10/a29597.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "conditionsMet", "dc/d10/a29597.html#ade58814e6b27763d1bb6c1f730ef53e0", null ],
+    [ "hasConditions", "dc/d10/a29597.html#a160ac902a994fdaaa36b66dbaa4c8282", null ],
+    [ "sourceType", "dc/d10/a29597.html#abbfa5f40abb5713e15311f8259d70dc6", null ]
 ];

@@ -1,7 +1,7 @@
 var a18933 =
 [
-    [ "npc_frost_freeze_trapAI", "de/d85/a18933.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
-    [ "DoAction", "de/d85/a18933.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
-    [ "UpdateAI", "de/d85/a18933.html#ae8efccb090f38968f3c0ca51f022013b", null ],
-    [ "_events", "de/d85/a18933.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
+    [ "AuraRemoveEvent", "de/d85/a18933.html#a094b9437c7cadb465738daf5684c9725", null ],
+    [ "Execute", "de/d85/a18933.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
+    [ "_spellId", "de/d85/a18933.html#a6fad41839e07e9545859be7c3afcfc36", null ],
+    [ "_trigger", "de/d85/a18933.html#aad8c27befc102dae6823d5d74fed50b4", null ]
 ];

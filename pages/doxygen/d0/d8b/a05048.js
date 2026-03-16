@@ -1,8 +1,12 @@
 var a05048 =
 [
-    [ "GmVisibleCommandTest", "d7/df9/a29644.html", "d7/df9/a29644" ],
-    [ "TestPlayer", "da/d19/a29640.html", "da/d19/a29640" ],
-    [ "TestVisibilityScript", "d8/d36/a29636.html", "d8/d36/a29636" ],
-    [ "TEST_F", "d0/d8b/a05048.html#ab69ef1935950dc8de0cefd60510d681d", null ],
-    [ "TEST_F", "d0/d8b/a05048.html#af70d9dbfad6d1852aa5b7ea680a70928", null ]
+    [ "InstanceLockResponse", "d1/d3d/a11077.html", "d1/d3d/a11077" ],
+    [ "InstanceReset", "d4/dcb/a11045.html", "d4/dcb/a11045" ],
+    [ "InstanceResetFailed", "de/d67/a11049.html", "de/d67/a11049" ],
+    [ "ResetFailedNotify", "db/d13/a11061.html", "db/d13/a11061" ],
+    [ "ResetInstances", "d2/d1e/a11073.html", "d2/d1e/a11073" ],
+    [ "SetDungeonDifficulty", "da/dc2/a11053.html", "da/dc2/a11053" ],
+    [ "SetDungeonDifficultyClient", "de/d34/a11057.html", "de/d34/a11057" ],
+    [ "SetRaidDifficulty", "db/d7f/a11065.html", "db/d7f/a11065" ],
+    [ "SetRaidDifficultyClient", "d0/d19/a11069.html", "d0/d19/a11069" ]
 ];

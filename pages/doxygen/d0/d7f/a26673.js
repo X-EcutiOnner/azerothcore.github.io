@@ -1,6 +1,9 @@
 var a26673 =
 [
-    [ "FilterTargets", "d0/d7f/a26673.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
-    [ "PrepareSpellScript", "d0/d7f/a26673.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
-    [ "Register", "d0/d7f/a26673.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
+    [ "Load", "d0/d7f/a26673.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
+    [ "PrepareSpellScript", "d0/d7f/a26673.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
+    [ "Register", "d0/d7f/a26673.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
+    [ "TriggerHeal", "d0/d7f/a26673.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
+    [ "Validate", "d0/d7f/a26673.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
+    [ "healPct", "d0/d7f/a26673.html#a33b4d26c34903e45b7274e369f096ce1", null ]
 ];

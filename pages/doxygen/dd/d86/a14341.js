@@ -1,5 +1,5 @@
 var a14341 =
 [
-    [ "at_zulgurub_bloodfire_pit_speech", "dd/d86/a14341.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
-    [ "_OnTrigger", "dd/d86/a14341.html#a8f1e477942ba9a5f653077632a98930f", null ]
+    [ "entry", "dd/d86/a14341.html#ad7431eb64907aed0a03205a37c65a735", null ],
+    [ "pos", "dd/d86/a14341.html#ab60283e91e81c141f3b31218aa4442a3", null ]
 ];

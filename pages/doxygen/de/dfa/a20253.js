@@ -1,7 +1,7 @@
 var a20253 =
 [
-    [ "HandleAfterHit", "de/dfa/a20253.html#a75953cbb3a288fd373e602ed07d84441", null ],
-    [ "PrepareSpellScript", "de/dfa/a20253.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
-    [ "Register", "de/dfa/a20253.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
-    [ "Validate", "de/dfa/a20253.html#aea2b951dd2353800958f654df58d8fd8", null ]
+    [ "npc_storm_beacon_spawn", "de/dfa/a20253.html#a999b6421a0ef6eec2987716a60352a5e", null ],
+    [ "UpdateAI", "de/dfa/a20253.html#a93dbd7a26d6333f18329142280cc743d", null ],
+    [ "_amount", "de/dfa/a20253.html#acb5d1f2b6590da32f36882339729c4e9", null ],
+    [ "_checkTimer", "de/dfa/a20253.html#a9717b52f26045707fd852b955d29a5e6", null ]
 ];

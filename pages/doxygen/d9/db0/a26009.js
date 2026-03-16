@@ -1,11 +1,8 @@
 var a26009 =
 [
-    [ "CheckCast", "d9/db0/a26009.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
-    [ "HandleMaxHealthHeal", "d9/db0/a26009.html#a019833641487ac07cb2c8740d5686a41", null ],
-    [ "HandleScript", "d9/db0/a26009.html#a35b9d69b8147ef06527b8533ef376e72", null ],
-    [ "Load", "d9/db0/a26009.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
-    [ "PrepareSpellScript", "d9/db0/a26009.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
-    [ "Register", "d9/db0/a26009.html#afd716f555ac73287bd268c6124b15b1c", null ],
-    [ "Validate", "d9/db0/a26009.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
-    [ "_manaAmount", "d9/db0/a26009.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
+    [ "CheckProc", "d9/db0/a26009.html#a8b3f8cf17dda2322d0e9f8f4211cbd20", null ],
+    [ "HandleProc", "d9/db0/a26009.html#ae034bd626880858c9701ed963de993c9", null ],
+    [ "isException", "d9/db0/a26009.html#aa5f4fcd1b9b710e2931460207cfc6dea", null ],
+    [ "PrepareAuraScript", "d9/db0/a26009.html#a50348fd27947f67df03bf4ddbec89cca", null ],
+    [ "Register", "d9/db0/a26009.html#aaa14b34ac54b4caee76ff72d07dd5c2d", null ]
 ];

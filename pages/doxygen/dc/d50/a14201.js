@@ -1,7 +1,6 @@
 var a14201 =
 [
-    [ "spell", "dc/d50/a14201.html#a55423d09b2f1775dc386a36168ad764d", null ],
-    [ "spiritEntry", "dc/d50/a14201.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
-    [ "text", "dc/d50/a14201.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
-    [ "unaura", "dc/d50/a14201.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
+    [ "npc_parqual_fintallas", "dc/d50/a14201.html#a9edaf1f7cf4e81ce24c54faa4aed6cf6", null ],
+    [ "OnGossipHello", "dc/d50/a14201.html#af7c1f119d91aa63ee96765f2092b0a6c", null ],
+    [ "OnGossipSelect", "dc/d50/a14201.html#a39276ef82ec5214a1727ebd60235a506", null ]
 ];

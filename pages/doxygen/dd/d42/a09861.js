@@ -1,5 +1,5 @@
 var a09861 =
 [
-    [ "item_guid", "dd/d42/a09861.html#a4033ef7b03b28881e28434ae796fb6ed", null ],
-    [ "item_template", "dd/d42/a09861.html#ac7e05ac4dcc5d4f94b3291d819c7c86b", null ]
+    [ "_Delay", "dd/d42/a09861.html#a8c4024f5818f327f29b44a26892b89a1", null ],
+    [ "_Emote", "dd/d42/a09861.html#a701c902af6f7f472511727bcc88ceeef", null ]
 ];

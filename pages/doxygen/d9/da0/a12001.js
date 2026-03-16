@@ -1,12 +1,6 @@
 var a12001 =
 [
-    [ "guild_commandscript", "d9/da0/a12001.html#a4394d242740505ad128e4cebf4b617f0", null ],
-    [ "GetCommands", "d9/da0/a12001.html#a6b0a700e7fa3251373c1405d245f6931", null ],
-    [ "HandleGuildCreateCommand", "d9/da0/a12001.html#a2d2c2414b9b08a5d510fccd223b34a36", null ],
-    [ "HandleGuildDeleteCommand", "d9/da0/a12001.html#a4bbef641c86de37611e7ff1c906b4048", null ],
-    [ "HandleGuildInfoCommand", "d9/da0/a12001.html#adbe43a3a362608e37dd7d6652a83adfc", null ],
-    [ "HandleGuildInviteCommand", "d9/da0/a12001.html#a67210b9845ca4475e6ab3d0d7cc0dbab", null ],
-    [ "HandleGuildRankCommand", "d9/da0/a12001.html#adbea3b610c98354866fec52a43fedda0", null ],
-    [ "HandleGuildRenameCommand", "d9/da0/a12001.html#ac946b4284c85e43b1ca29f69df9a8f27", null ],
-    [ "HandleGuildUninviteCommand", "d9/da0/a12001.html#aa7b134de9c3632cc1e147064c9ffcb5f", null ]
+    [ "rainChance", "de/d42/a04975.html#ga8c3d9f1d251a9b167c9adc99101e5612", null ],
+    [ "snowChance", "de/d42/a04975.html#ga474650c5237c4a7428e858775fea7b86", null ],
+    [ "stormChance", "de/d42/a04975.html#gaa50e5243877e8283f30ee9376b2d519e", null ]
 ];

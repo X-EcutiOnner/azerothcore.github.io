@@ -1,26 +1,10 @@
 var a08341 =
 [
-    [ "JumpInfo", "de/df0/a08349.html", "de/df0/a08349" ],
-    [ "TransportInfo", "de/d91/a08345.html", "de/d91/a08345" ],
-    [ "MovementInfo", "d9/de9/a08341.html#a809340998de55a9ffa895f7b27e1f2c3", null ],
-    [ "AddExtraMovementFlag", "d9/de9/a08341.html#aff0e449eb1567041f1a44c34e5fa85bc", null ],
-    [ "AddMovementFlag", "d9/de9/a08341.html#ae02908de40bf25e5d07d3bb248448a68", null ],
-    [ "GetExtraMovementFlags", "d9/de9/a08341.html#a7a9353ff367c80cddeaddd63fcd32ddb", null ],
-    [ "GetMovementFlags", "d9/de9/a08341.html#ade08354701baa32b9ff232d6b07e6097", null ],
-    [ "HasExtraMovementFlag", "d9/de9/a08341.html#afad84c80474a806e8abb4626ccfbcfaf", null ],
-    [ "HasMovementFlag", "d9/de9/a08341.html#ad9571cb899d58cc60fbe2412be79116e", null ],
-    [ "OutDebug", "d9/de9/a08341.html#af8c4c6db42364ec712398b317238c90b", null ],
-    [ "RemoveMovementFlag", "d9/de9/a08341.html#ab38114c14a8848a082b4f265eab11c72", null ],
-    [ "SetFallTime", "d9/de9/a08341.html#a683565ad0865709083e81d07a8ce1395", null ],
-    [ "SetMovementFlags", "d9/de9/a08341.html#ace324e7171c3520efdce76d2bbc75c67", null ],
-    [ "fallTime", "d9/de9/a08341.html#abcf42fcf7d61044fd9fb5e6857e21ab5", null ],
-    [ "flags", "d9/de9/a08341.html#ab64213c21ac3cdfd769a5acdc7fce200", null ],
-    [ "flags2", "d9/de9/a08341.html#aa8dc40a9829334f2ca7fa4e7347f91a5", null ],
-    [ "guid", "d9/de9/a08341.html#a10c1c9721558fd98d33bb43b3bfff837", null ],
-    [ "jump", "d9/de9/a08341.html#a920a536b873fcc63dd6bb22882a7a8ea", null ],
-    [ "pitch", "d9/de9/a08341.html#af2945943a91efc4cd5f2f9a0b86424cf", null ],
-    [ "pos", "d9/de9/a08341.html#afc5605f3e357e6ca4f2c681329bb0302", null ],
-    [ "splineElevation", "d9/de9/a08341.html#ac524b47fa52b05e7c6a6b7c577c9291f", null ],
-    [ "time", "d9/de9/a08341.html#a90c332cb1b99ce1ac6eab39bc2a6e4b2", null ],
-    [ "transport", "d9/de9/a08341.html#ac2b0f738ec695f4c9f032daad3e1f041", null ]
+    [ "BoxMessage", "d9/de9/a08341.html#a450f6063a89db2d152370bc997c844a3", null ],
+    [ "BoxMoney", "d9/de9/a08341.html#a52a12645b55f5757cc61e9a014a71f32", null ],
+    [ "IsCoded", "d9/de9/a08341.html#accca334730f578bd28c0e9a7fe7ec0ab", null ],
+    [ "MenuItemIcon", "d9/de9/a08341.html#a987724c4673be20f5386f44245267bc9", null ],
+    [ "Message", "d9/de9/a08341.html#af130b33294cd49261b3c093cf6f9542c", null ],
+    [ "OptionType", "d9/de9/a08341.html#a3df0c5fedb028b4fcce8ad5884cc0e6f", null ],
+    [ "Sender", "d9/de9/a08341.html#aacc07cb5c755d698fe4cb2e228185e34", null ]
 ];

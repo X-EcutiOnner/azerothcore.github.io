@@ -1,10 +1,6 @@
 var a11577 =
 [
-    [ "EffectHook", "d0/db4/a11577.html#a4a197e061d918dfba2bc486f3393b00d", null ],
-    [ "~EffectHook", "d0/db4/a11577.html#aa234f63b530764d12064acbe3f5c9299", null ],
-    [ "CheckEffect", "d0/db4/a11577.html#ae8823c5d649d182f572818bf3db72902", null ],
-    [ "EffIndexToString", "d0/db4/a11577.html#ab818ed274cfd66ecc565b8535b751517", null ],
-    [ "GetAffectedEffectsMask", "d0/db4/a11577.html#a31faa86590e22f5ab3ca518f4df02840", null ],
-    [ "IsEffectAffected", "d0/db4/a11577.html#a697041ffa562bb6fff792beb159c7af2", null ],
-    [ "effIndex", "d0/db4/a11577.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
+    [ "ChannelTargetData", "d0/db4/a11577.html#a26f2a2037750712d8718d9537603e3a1", null ],
+    [ "channelGUID", "d0/db4/a11577.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
+    [ "spellDst", "d0/db4/a11577.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
 ];

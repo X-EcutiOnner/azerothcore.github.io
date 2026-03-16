@@ -1,6 +1,10 @@
 var a17401 =
 [
-    [ "npc_pos_icicle_triggerAI", "d1/d51/a17405.html", "d1/d51/a17405" ],
-    [ "npc_pos_icicle_trigger", "df/dde/a17401.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
-    [ "GetAI", "df/dde/a17401.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
+    [ "npc_hor_spiritual_reflectionAI", "df/dde/a17401.html#aac0a916bfa325284b354e7241fe857ab", null ],
+    [ "EnterEvadeMode", "df/dde/a17401.html#a49f1c93206bfff53090c138a3dbf79e5", null ],
+    [ "JustDied", "df/dde/a17401.html#a72073c44f881d4a78552de4119a716d7", null ],
+    [ "JustEngagedWith", "df/dde/a17401.html#ac35e648b93bb39ca831390bf88f6a3e7", null ],
+    [ "Reset", "df/dde/a17401.html#ad1f523fad45c34077e6d6ce7b9a4aefd", null ],
+    [ "UpdateAI", "df/dde/a17401.html#af9613e9309b85317bc6e3a84013dcf89", null ],
+    [ "events", "df/dde/a17401.html#a89a466917aa5634c4c86ecbce21280b7", null ]
 ];

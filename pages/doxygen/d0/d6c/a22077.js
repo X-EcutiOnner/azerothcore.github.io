@@ -1,6 +1,6 @@
 var a22077 =
 [
-    [ "npc_freed_protodrakeAI", "d2/d49/a22081.html", "d2/d49/a22081" ],
-    [ "npc_freed_protodrake", "d0/d6c/a22077.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
-    [ "GetAI", "d0/d6c/a22077.html#a9680bf65cb97327396f58c297df1c8f5", null ]
+    [ "HandleDummy", "d0/d6c/a22077.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
+    [ "PrepareSpellScript", "d0/d6c/a22077.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
+    [ "Register", "d0/d6c/a22077.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
 ];

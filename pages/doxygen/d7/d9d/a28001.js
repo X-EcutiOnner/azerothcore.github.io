@@ -1,5 +1,5 @@
 var a28001 =
 [
-    [ "ID", "d7/d9d/a28001.html#a01bcdc3543d3ff250354acf5e0724c14", null ],
-    [ "spellId", "d7/d9d/a28001.html#aabbb95c091e0b0946bcb05746b1c23f3", null ]
+    [ "achievement_flirt_with_disaster_perf_check", "d7/d9d/a28001.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
+    [ "OnCheck", "d7/d9d/a28001.html#a15e620be2f37f930477ba94293dbaf63", null ]
 ];

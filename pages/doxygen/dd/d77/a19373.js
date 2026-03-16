@@ -1,6 +1,6 @@
 var a19373 =
 [
-    [ "FilterTargets", "dd/d77/a19373.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
-    [ "PrepareSpellScript", "dd/d77/a19373.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
-    [ "Register", "dd/d77/a19373.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
+    [ "RespawnEvent", "dd/d77/a19373.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
+    [ "Execute", "dd/d77/a19373.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
+    [ "_owner", "dd/d77/a19373.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
 ];

@@ -1,6 +1,8 @@
 var a15833 =
 [
-    [ "npc_silva_filnaveth", "d3/d42/a15833.html#a5998381865214a7b3af7823bd2557cb0", null ],
-    [ "OnGossipHello", "d3/d42/a15833.html#a32019c17271a3f504d86cd694262fd53", null ],
-    [ "OnGossipSelect", "d3/d42/a15833.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
+    [ "npc_death_ravagerAI", "d3/d42/a15833.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "d3/d42/a15833.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "d3/d42/a15833.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "d3/d42/a15833.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "d3/d42/a15833.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

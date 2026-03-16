@@ -1,7 +1,7 @@
 var a20485 =
 [
-    [ "HandleEffectPeriodic", "df/de4/a20485.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
-    [ "PrepareAuraScript", "df/de4/a20485.html#af432e810a46e35f95bb0b3b2eaada132", null ],
-    [ "Register", "df/de4/a20485.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
-    [ "Validate", "df/de4/a20485.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
+    [ "HandleAfterEffectApply", "df/de4/a20485.html#adab765d78094eec673abce5140145267", null ],
+    [ "OnApply", "df/de4/a20485.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
+    [ "PrepareAuraScript", "df/de4/a20485.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
+    [ "Register", "df/de4/a20485.html#ac1007ce2ee5e046639829558855f0188", null ]
 ];

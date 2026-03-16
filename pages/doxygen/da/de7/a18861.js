@@ -1,6 +1,9 @@
 var a18861 =
 [
-    [ "HandleScript", "da/de7/a18861.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
-    [ "PrepareSpellScript", "da/de7/a18861.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
-    [ "Register", "da/de7/a18861.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
+    [ "FilterTargets", "da/de7/a18861.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
+    [ "Load", "da/de7/a18861.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
+    [ "PrepareSpellScript", "da/de7/a18861.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
+    [ "Register", "da/de7/a18861.html#afad887fba0d97512a7a13a31977cf42d", null ],
+    [ "Validate", "da/de7/a18861.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
+    [ "_instance", "da/de7/a18861.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
 ];

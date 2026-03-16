@@ -1,7 +1,8 @@
 var a24833 =
 [
-    [ "HandleScript", "dd/d74/a24833.html#a9fb69011ce5245925eb6a4fd011d18b2", null ],
-    [ "PrepareSpellScript", "dd/d74/a24833.html#ab9300ff0efc4a36d652a1b56c031dc2f", null ],
-    [ "Register", "dd/d74/a24833.html#aa0828fa1a3cf75e8222607a4f2fff950", null ],
-    [ "Validate", "dd/d74/a24833.html#a9469ebca2d40dd2944f2fb7286fc64ff", null ]
+    [ "AfterApply", "dd/d74/a24833.html#a9c2591beacd941893338109719c03e3f", null ],
+    [ "AfterRemove", "dd/d74/a24833.html#a0be2a66b615dd926de7073392a8e5062", null ],
+    [ "PrepareAuraScript", "dd/d74/a24833.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
+    [ "Register", "dd/d74/a24833.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
+    [ "Validate", "dd/d74/a24833.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
 ];

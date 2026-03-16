@@ -1,5 +1,7 @@
 var a19053 =
 [
-    [ "at_icc_saurfang_portal", "db/dfa/a19053.html#a7f30058251c520634a0b7bad08380e5d", null ],
-    [ "OnTrigger", "db/dfa/a19053.html#a8980fe0e67aa33335f0fdb947a294213", null ]
+    [ "OnApply", "db/dfa/a19053.html#ac35f5d98980f54470a75a72b3578681f", null ],
+    [ "OnRemove", "db/dfa/a19053.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
+    [ "PrepareAuraScript", "db/dfa/a19053.html#a83c90d16fa151026a1e02927e31922ee", null ],
+    [ "Register", "db/dfa/a19053.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
 ];

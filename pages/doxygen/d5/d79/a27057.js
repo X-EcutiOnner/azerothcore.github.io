@@ -1,6 +1,6 @@
 var a27057 =
 [
-    [ "go_witherbark_totem_bundleAI", "d5/d79/a27057.html#a955625e2315008a2e36936d44f825060", null ],
-    [ "UpdateAI", "d5/d79/a27057.html#af688bab2dc3d938951adb303e8b8d88b", null ],
-    [ "_timer", "d5/d79/a27057.html#a509e6d8401380c326a0f565a6b903d7a", null ]
+    [ "CheckProc", "d5/d79/a27057.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
+    [ "PrepareAuraScript", "d5/d79/a27057.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
+    [ "Register", "d5/d79/a27057.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
 ];

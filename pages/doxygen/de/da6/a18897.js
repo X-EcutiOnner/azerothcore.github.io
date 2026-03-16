@@ -1,5 +1,8 @@
 var a18897 =
 [
-    [ "achievement_portal_jockey", "de/da6/a18897.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
-    [ "OnCheck", "de/da6/a18897.html#a2695b1fee353be7340f319c632a43efc", null ]
+    [ "npc_lk_spirit_bombAI", "de/da6/a18897.html#a366fb54e68c0e603000183cd68daf6b7", null ],
+    [ "IsSummonedBy", "de/da6/a18897.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
+    [ "MovementInform", "de/da6/a18897.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
+    [ "UpdateAI", "de/da6/a18897.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
+    [ "timer", "de/da6/a18897.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
 ];

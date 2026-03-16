@@ -1,11 +1,15 @@
 var a30958 =
 [
-    [ "_ACORE_REALM_CONFIG", "d9/da6/a30958.html#a139668c786d564a415e0626b3344dc83", null ],
-    [ "BanExpiryHandler", "d9/da6/a30958.html#a625d6480b04e88fcbc85e5b8d29502a6", null ],
-    [ "GetConsoleArguments", "d9/da6/a30958.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "KeepDatabaseAliveHandler", "d9/da6/a30958.html#a56e4613e7e60d171b9ce45f52758a057", null ],
-    [ "main", "d9/da6/a30958.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "SignalHandler", "d9/da6/a30958.html#abb73d9c1332263ddf049505e1b12672d", null ],
-    [ "StartDB", "d9/da6/a30958.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "d9/da6/a30958.html#ga927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "GetGameTime", "d9/da6/a30958.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
+    [ "GetGameTimeMS", "d9/da6/a30958.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
+    [ "GetStartTime", "d9/da6/a30958.html#a872d34d3f9d420cfc749073c809931f9", null ],
+    [ "GetSystemTime", "d9/da6/a30958.html#a443eccf314fe436192278d425d6d8220", null ],
+    [ "GetUptime", "d9/da6/a30958.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
+    [ "Now", "d9/da6/a30958.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
+    [ "UpdateGameTimers", "d9/da6/a30958.html#a45712735241c9563a12fc3da54fb144d", null ],
+    [ "GameMSTime", "d9/da6/a30958.html#ad5fc2a056410eeac2e2717f91cb8295c", null ],
+    [ "GameTime", "d9/da6/a30958.html#a9a28ffdb4bb387919d2dd70a51080ce0", null ],
+    [ "GameTimeSteadyPoint", "d9/da6/a30958.html#a874057035d37aa57afc5064acffba119", null ],
+    [ "GameTimeSystemPoint", "d9/da6/a30958.html#aa393fef2187ebdd6aa34379b0f1504d7", null ],
+    [ "StartTime", "d9/da6/a30958.html#a78088a0637670a1ab5125a1388f7ca52", null ]
 ];

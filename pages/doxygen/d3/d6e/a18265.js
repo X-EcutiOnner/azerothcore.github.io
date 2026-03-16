@@ -1,8 +1,6 @@
 var a18265 =
 [
-    [ "HandleScript", "d3/d6e/a18265.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
-    [ "PrepareSpellScript", "d3/d6e/a18265.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
-    [ "Register", "d3/d6e/a18265.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
-    [ "SelectTarget", "d3/d6e/a18265.html#a36d575c6a63e94905bf435bc9d39e588", null ],
-    [ "Validate", "d3/d6e/a18265.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
+    [ "BoneStormMoveTargetSelector", "d3/d6e/a18265.html#acd13e67fbbc29137ca2b77aaf9dc0e77", null ],
+    [ "operator()", "d3/d6e/a18265.html#a5b53c140d38db0df8faef3dfaf5c458d", null ],
+    [ "_source", "d3/d6e/a18265.html#a03d8b1ec5f18398fe2963418bb319973", null ]
 ];

@@ -1,7 +1,6 @@
 var a12725 =
 [
-    [ "HandleAfterApply", "d5/d99/a12725.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
-    [ "HandleAfterRemove", "d5/d99/a12725.html#a7970613f1668294f29f61c1f10a9ba37", null ],
-    [ "PrepareAuraScript", "d5/d99/a12725.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
-    [ "Register", "d5/d99/a12725.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
+    [ "go_chromaggus_leverAI", "d5/d99/a12725.html#a51406a7e313702282cebfbf067c9ce4e", null ],
+    [ "GossipHello", "d5/d99/a12725.html#a44ece597fcfcf290234cc1ef073fbf18", null ],
+    [ "_instance", "d5/d99/a12725.html#a364f66c7cf0a7bc4a3ea97b87ebe9f90", null ]
 ];

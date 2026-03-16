@@ -1,6 +1,7 @@
 var a21873 =
 [
-    [ "npc_boneguard_footmanAI", "de/d88/a21877.html", "de/d88/a21877" ],
-    [ "npc_boneguard_footman", "d5/da6/a21873.html#aba17f89b9546deff5401ad33224b2b3e", null ],
-    [ "GetAI", "d5/da6/a21873.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
+    [ "OnRemove", "d5/da6/a21873.html#a335bc64860227122e0536f61144e2003", null ],
+    [ "PrepareAuraScript", "d5/da6/a21873.html#ae38bdeb74493f73bed1246c011bb2076", null ],
+    [ "Register", "d5/da6/a21873.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
+    [ "Validate", "d5/da6/a21873.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
 ];

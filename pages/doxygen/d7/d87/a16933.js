@@ -1,6 +1,6 @@
 var a16933 =
 [
-    [ "boss_eydisAI", "d9/d9d/a16937.html", "d9/d9d/a16937" ],
-    [ "boss_eydis", "d7/d87/a16933.html#aa555f80882499bc4627e622fbb48b2a4", null ],
-    [ "GetAI", "d7/d87/a16933.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
+    [ "npc_toc_hunterAI", "d9/d9d/a16937.html", "d9/d9d/a16937" ],
+    [ "npc_toc_hunter", "d7/d87/a16933.html#a73d4113df71626af7b8294e08373965e", null ],
+    [ "GetAI", "d7/d87/a16933.html#a8b9d2a8186aefb3e411bd20c006207d4", null ]
 ];

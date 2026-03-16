@@ -1,6 +1,8 @@
 var a11677 =
 [
-    [ "EffectSplitHandler", "d4/d06/a11677.html#a1e31c0f06961aba66f6737c4b4aca7f6", null ],
-    [ "Call", "d4/d06/a11677.html#ae0ef79af01cce82ed3cbe208d98b325a", null ],
-    [ "pEffectHandlerScript", "d4/d06/a11677.html#a181c0f987789f3725e7ba7e023cfc4e7", null ]
+    [ "target_mapId", "d4/d06/a11677.html#a6dbbb558810388e0d051d84a0279a444", null ],
+    [ "target_Orientation", "d4/d06/a11677.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
+    [ "target_X", "d4/d06/a11677.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
+    [ "target_Y", "d4/d06/a11677.html#a6f432d8770adebf513346713b7890b5c", null ],
+    [ "target_Z", "d4/d06/a11677.html#a3af706b81f8fbef12277c518964f717a", null ]
 ];

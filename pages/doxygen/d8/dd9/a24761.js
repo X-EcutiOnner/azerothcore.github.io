@@ -1,6 +1,9 @@
 var a24761 =
 [
-    [ "OnPeriodic", "d8/dd9/a24761.html#a5fdf44f34765d0386d5c5490620c944a", null ],
-    [ "PrepareAuraScript", "d8/dd9/a24761.html#a3c3044795e183eef2c801781100b11c7", null ],
-    [ "Register", "d8/dd9/a24761.html#a1221c3287c3fd7add356e84430508684", null ]
+    [ "HandleApply", "d8/dd9/a24761.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
+    [ "HandleRemove", "d8/dd9/a24761.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
+    [ "PrepareAuraScript", "d8/dd9/a24761.html#af2b8e669737cd4282beb6a5035f496fc", null ],
+    [ "RecalculateBaseArmor", "d8/dd9/a24761.html#a693720558c7b2b22c41a49a402522014", null ],
+    [ "Register", "d8/dd9/a24761.html#aff9bc58342383afe5a08be696cddedf6", null ],
+    [ "Validate", "d8/dd9/a24761.html#ad712e1e05d94372defdfa4fe67e65716", null ]
 ];

@@ -1,12 +1,8 @@
 var a11065 =
 [
-    [ "StartMirrorTimer", "db/d7f/a11065.html#a86039d4a721636477f266712682883f0", null ],
-    [ "StartMirrorTimer", "db/d7f/a11065.html#a5202945882fb3cb5dd8574b6e6f8d5b0", null ],
-    [ "Write", "db/d7f/a11065.html#afa6cc6032804e3d8f3f7797b2231847f", null ],
-    [ "MaxValue", "db/d7f/a11065.html#a3f26c682d547be40d2800eff2189348d", null ],
-    [ "Paused", "db/d7f/a11065.html#af3994b2c6a57e734f9d1ebeedcab7759", null ],
-    [ "Scale", "db/d7f/a11065.html#a5879b6c796d7d7c2fd59001d2813a6b3", null ],
-    [ "SpellID", "db/d7f/a11065.html#a3d90aa3046eb6272249f8fe171d7cd2f", null ],
-    [ "Timer", "db/d7f/a11065.html#abb9dbec2c5df4b2dfbc96314a0465011", null ],
-    [ "Value", "db/d7f/a11065.html#ad0f2f8f95fdea9a7555e3056bb49cc53", null ]
+    [ "SetRaidDifficulty", "db/d7f/a11065.html#af8d6189ed0209b4f70e32f92c00e13fb", null ],
+    [ "Write", "db/d7f/a11065.html#a3da812593b22ef506a9d61e16b5485d1", null ],
+    [ "Difficulty", "db/d7f/a11065.html#a1952e2d54b77437731b693f4eace83ac", null ],
+    [ "IsInGroup", "db/d7f/a11065.html#a8833543c4f179be97476a26152ec049b", null ],
+    [ "Unk", "db/d7f/a11065.html#a61a4f0fb74db04cdc11c0729bc104f7a", null ]
 ];

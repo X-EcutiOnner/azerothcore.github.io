@@ -1,10 +1,10 @@
 var a17029 =
 [
-    [ "boss_tharon_jaAI", "d2/d7b/a17029.html#a03025fa529e932f23479ff19b0cd8238", null ],
-    [ "DoAction", "d2/d7b/a17029.html#a655fd83c2d671847fea9ae393c132fb9", null ],
-    [ "JustDied", "d2/d7b/a17029.html#a7928b5db061f1073e1decc2d40601195", null ],
-    [ "JustEngagedWith", "d2/d7b/a17029.html#aab194a8f802eeb625d1a74960acbe154", null ],
-    [ "KilledUnit", "d2/d7b/a17029.html#a41e929a3768768eb06bafdee3269fd24", null ],
-    [ "Reset", "d2/d7b/a17029.html#a272e8565a9b00a27505b301d52814eee", null ],
-    [ "UpdateAI", "d2/d7b/a17029.html#a6f482cabcb0bd56711878a5ea297b950", null ]
+    [ "npc_mistress_of_painAI", "d2/d7b/a17029.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
+    [ "EnterEvadeMode", "d2/d7b/a17029.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
+    [ "JustDied", "d2/d7b/a17029.html#ae60f294f902a2f687446f7599d071e42", null ],
+    [ "Reset", "d2/d7b/a17029.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
+    [ "SpellHit", "d2/d7b/a17029.html#a077843a7ead2034da695be816de42f9e", null ],
+    [ "UpdateAI", "d2/d7b/a17029.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
+    [ "events", "d2/d7b/a17029.html#a941ae1faab010551db6a8e6749993357", null ]
 ];

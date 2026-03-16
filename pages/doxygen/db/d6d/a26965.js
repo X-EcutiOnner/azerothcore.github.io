@@ -1,5 +1,7 @@
 var a26965 =
 [
-    [ "AreaTrigger_at_sentry_point", "db/d6d/a26965.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
-    [ "OnTrigger", "db/d6d/a26965.html#ab59fb74f4f988c208359855d2e4d9918", null ]
+    [ "HandleProc", "db/d6d/a26965.html#ac65d59f4632194120b58b34561f2c812", null ],
+    [ "PrepareAuraScript", "db/d6d/a26965.html#ac9ab849c618fb1172dbde50876a4f5f3", null ],
+    [ "Register", "db/d6d/a26965.html#aea263594afe1d0e2fe3fac906dfb7e4e", null ],
+    [ "Validate", "db/d6d/a26965.html#afe98e7e6dfbe3bcdaaa353e608dc69d6", null ]
 ];

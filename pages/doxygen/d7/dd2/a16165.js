@@ -1,8 +1,7 @@
 var a16165 =
 [
-    [ "HandleScriptEffect", "d7/dd2/a16165.html#af3e18fa5befc7124f2a3dbcd36259e6b", null ],
-    [ "Load", "d7/dd2/a16165.html#ab293f8b536957558fa8886e1f4a23e74", null ],
-    [ "PrepareSpellScript", "d7/dd2/a16165.html#ae4a1abf2e39c6806d804dea9ce5808ef", null ],
-    [ "Register", "d7/dd2/a16165.html#a9fb54f0662982dec90c2e6f8568421ed", null ],
-    [ "Validate", "d7/dd2/a16165.html#a2bee81d684c4739bb6247bfbdb74a21b", null ]
+    [ "npc_lakota_windsongAI", "d7/dd2/a16165.html#a922172a38ca75adef66a2653eda7fa98", null ],
+    [ "DoSpawnBandits", "d7/dd2/a16165.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
+    [ "Reset", "d7/dd2/a16165.html#aee7a86275f93021e0e5db249b636bcd4", null ],
+    [ "WaypointReached", "d7/dd2/a16165.html#a6435c8b1521206789131889e5fa527a6", null ]
 ];

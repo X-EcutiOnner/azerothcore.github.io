@@ -1,11 +1,5 @@
 var a28301 =
 [
-    [ "addToSpellBook", "d7/d5e/a28301.html#ad312934d24abcc78c02d50cc5cb5403f", null ],
-    [ "Col", "d7/d5e/a28301.html#a0bc589c5b1425d5e889cd290b805169e", null ],
-    [ "DependsOn", "d7/d5e/a28301.html#a7b1aa1384777b8d94dceed3c387bb628", null ],
-    [ "DependsOnRank", "d7/d5e/a28301.html#a608f232669981da3423b959479ca8683", null ],
-    [ "RankID", "d7/d5e/a28301.html#a96d0fd120ed3aa7fbd287d104fd87c26", null ],
-    [ "Row", "d7/d5e/a28301.html#a136b889d2e8875b01fc7aa2be06847ac", null ],
-    [ "TalentID", "d7/d5e/a28301.html#aa769574106b0e5afdbc7c71c51c3b9a2", null ],
-    [ "TalentTab", "d7/d5e/a28301.html#acefe6f8c0a5b3893e2a9f828d500df68", null ]
+    [ "go_hive_pod", "d7/d5e/a28301.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
+    [ "OnGossipHello", "d7/d5e/a28301.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
 ];

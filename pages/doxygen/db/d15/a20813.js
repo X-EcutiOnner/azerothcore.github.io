@@ -1,7 +1,6 @@
 var a20813 =
 [
-    [ "HandleEffectCalcPeriodic", "db/d15/a20813.html#af01eb94174952de52615734055b17c1a", null ],
-    [ "HandleEffectPeriodic", "db/d15/a20813.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
-    [ "PrepareAuraScript", "db/d15/a20813.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
-    [ "Register", "db/d15/a20813.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
+    [ "BoomEvent", "db/d15/a20813.html#aa9b7a8785f382068bb4510ffc0b43004", null ],
+    [ "Execute", "db/d15/a20813.html#a1a870bea5c8e0a24a8ecd347a862ee75", null ],
+    [ "_me", "db/d15/a20813.html#a30de77ee751f1c10231088cb84942342", null ]
 ];

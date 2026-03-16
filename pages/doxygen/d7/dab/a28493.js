@@ -1,6 +1,10 @@
 var a28493 =
 [
-    [ "OffsetAttributes", "d7/dab/a28493.html#a072918c298b316823e784c2e5779be2a", null ],
-    [ "OffsetInstances", "d7/dab/a28493.html#abb618c81b9ee9de03c3d4cf8689f5cd4", null ],
-    [ "used", "d7/dab/a28493.html#a20a458e613639ea26255dd772824a642", null ]
+    [ "npc_air_force_botsAI", "d7/dab/a28493.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "d7/dab/a28493.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "d7/dab/a28493.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "d7/dab/a28493.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "d7/dab/a28493.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "d7/dab/a28493.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "d7/dab/a28493.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

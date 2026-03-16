@@ -1,6 +1,7 @@
 var a17165 =
 [
-    [ "boss_marwynAI", "d3/df9/a17169.html", "d3/df9/a17169" ],
-    [ "boss_marwyn", "dc/de1/a17165.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
-    [ "GetAI", "dc/de1/a17165.html#af1c83878d2121163994bc327ae8e04f7", null ]
+    [ "HandleScriptEffect", "dc/de1/a17165.html#a51064b3a11f453724ae0879c80eaf8df", null ],
+    [ "PrepareSpellScript", "dc/de1/a17165.html#aac26002ff107e609fb7258306b430f1b", null ],
+    [ "Register", "dc/de1/a17165.html#a0efef7644706940e3929ce99cd162c91", null ],
+    [ "Validate", "dc/de1/a17165.html#a7110d4136337d44aa0300ec82e5a6511", null ]
 ];

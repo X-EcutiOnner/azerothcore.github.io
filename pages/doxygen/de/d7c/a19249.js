@@ -1,6 +1,7 @@
 var a19249 =
 [
-    [ "npc_ioc_gunship_captainAI", "d4/df6/a19253.html", "d4/df6/a19253" ],
-    [ "npc_ioc_gunship_captain", "de/d7c/a19249.html#a6463d7bc12d5fe4fc8921ba5916ec906", null ],
-    [ "GetAI", "de/d7c/a19249.html#a43f3ce178df31fbf693acbfa8c32a339", null ]
+    [ "HandleDummy", "de/d7c/a19249.html#a4bfc155129bd80c94b4b59474f30d748", null ],
+    [ "PrepareSpellScript", "de/d7c/a19249.html#a9c72772f9d17b34562bd11418d67872d", null ],
+    [ "Register", "de/d7c/a19249.html#a10c9f511da4eb366117d356c118408c6", null ],
+    [ "Validate", "de/d7c/a19249.html#a655f2081d17c06c155641efc45efc1f8", null ]
 ];

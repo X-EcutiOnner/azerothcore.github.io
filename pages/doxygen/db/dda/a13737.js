@@ -1,7 +1,12 @@
 var a13737 =
 [
-    [ "HandleSchoolDamage", "db/dda/a13737.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
-    [ "PrepareSpellScript", "db/dda/a13737.html#a8063f3d669e07dc0768607feb9a2f763", null ],
-    [ "Register", "db/dda/a13737.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
-    [ "Validate", "db/dda/a13737.html#af90ae09274b0082bd8bd674ca43596f6", null ]
+    [ "boss_sacrolash", "db/dda/a13737.html#a6e251340b2ba8a8300611cf229b93095", null ],
+    [ "CheckInRoom", "db/dda/a13737.html#ae650b6019d2f9191e1b532176159804d", null ],
+    [ "DoAction", "db/dda/a13737.html#adbcbd24a90549978032d31d1beeaa4e6", null ],
+    [ "JustDied", "db/dda/a13737.html#a17c995220572cf803c36470ca80840e2", null ],
+    [ "JustEngagedWith", "db/dda/a13737.html#a822576bf8588d4e45f1532e1980cc7c7", null ],
+    [ "JustSummoned", "db/dda/a13737.html#a94214bc45414f61ff53102d6136b7b5c", null ],
+    [ "KilledUnit", "db/dda/a13737.html#a4d99da498db0e5a60c7c25fcb91e5270", null ],
+    [ "Reset", "db/dda/a13737.html#aa3128dae87d181e7ab93cf3a13723982", null ],
+    [ "_isSisterDead", "db/dda/a13737.html#a248d37df91c82069321fc5ea8b1e885d", null ]
 ];

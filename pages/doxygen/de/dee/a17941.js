@@ -1,6 +1,6 @@
 var a17941 =
 [
-    [ "npc_gunship_gunnerAI", "d3/dfe/a17945.html", "d3/dfe/a17945" ],
-    [ "npc_gunship_gunner", "de/dee/a17941.html#a409711f22b35eae0c0d48bc23545e592", null ],
-    [ "GetAI", "de/dee/a17941.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
+    [ "PrepareAuraScript", "de/dee/a17941.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
+    [ "RecalculateHook", "de/dee/a17941.html#a829e96cabbb565922f7183adb3edf13c", null ],
+    [ "Register", "de/dee/a17941.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
 ];

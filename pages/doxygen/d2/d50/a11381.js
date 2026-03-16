@@ -1,15 +1,10 @@
 var a11381 =
 [
-    [ "BaseSocketMgr", "d2/d50/a11381.html#a6f9671b94ae64c0c3482e085cb2a252f", null ],
-    [ "WorldSocketMgr", "d2/d50/a11381.html#a8e46ddcf7ba33a66c7226150400cc08b", null ],
-    [ "CreateThreads", "d2/d50/a11381.html#a04e98fcb25c09ff85e9536cf43fd4e6e", null ],
-    [ "GetApplicationSendBufferSize", "d2/d50/a11381.html#a8deeaffd7d25bacd8bfa15d29dff6aeb", null ],
-    [ "Instance", "d2/d50/a11381.html#aaa32a527707cb66916b1499a2e283250", null ],
-    [ "OnSocketAccept", "d2/d50/a11381.html#add84a09a7111cca079a11289c7ef672d", null ],
-    [ "OnSocketOpen", "d2/d50/a11381.html#a916e6d479b7281c26fc7820a2ed0255d", null ],
-    [ "StartWorldNetwork", "d2/d50/a11381.html#acaf85b16b490bfda8532b49456a38b71", null ],
-    [ "StopNetwork", "d2/d50/a11381.html#aede126ecfe75f2917aaf730330ea3b82", null ],
-    [ "_socketApplicationSendBufferSize", "d2/d50/a11381.html#a7a5ca8c2c9165d3cb1f46adbdfe917b0", null ],
-    [ "_socketSystemSendBufferSize", "d2/d50/a11381.html#a043da77b04a29c4c5fe81698ae279985", null ],
-    [ "_tcpNoDelay", "d2/d50/a11381.html#a6f440c4cde2deaa72cbc5dbd348a00b6", null ]
+    [ "WorldStateInfo", "d9/dab/a11385.html", "d9/dab/a11385" ],
+    [ "InitWorldStates", "d2/d50/a11381.html#a9b1f27c7a07df6629473a6e9d6aa45b5", null ],
+    [ "Write", "d2/d50/a11381.html#ad40588a16c7430a633c0537c82ea3a5b", null ],
+    [ "AreaID", "d2/d50/a11381.html#a98ac08c68b5c004fd352f38c7084531f", null ],
+    [ "MapID", "d2/d50/a11381.html#a657c3043204c6957e8438c3c3c7068f3", null ],
+    [ "Worldstates", "d2/d50/a11381.html#a29ffba2a130f0b93d61b2025255502fb", null ],
+    [ "ZoneID", "d2/d50/a11381.html#add07a226b1fe8ea752306b0e04d4ef71", null ]
 ];

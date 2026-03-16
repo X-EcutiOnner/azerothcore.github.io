@@ -1,6 +1,30 @@
 var a12249 =
 [
-    [ "boss_anubshiahAI", "d6/d4c/a12253.html", "d6/d4c/a12253" ],
-    [ "boss_anubshiah", "df/da7/a12249.html#a7176d98f966dac62f7ac1a10d3f2afa1", null ],
-    [ "GetAI", "df/da7/a12249.html#a157420b5f0c4c05e7dc2ee327ef81cb9", null ]
+    [ "reset_commandscript", "df/da7/a12249.html#a99bbf26ae77112821fa951010dd5d32b", null ],
+    [ "GetCommands", "df/da7/a12249.html#ac19cfe7c8192194024fb38ad93a64056", null ],
+    [ "GetPlayerFromIdentifierOrSelectedTarget", "df/da7/a12249.html#a37e3548b0b652761611c32859a1c0d23", null ],
+    [ "HandleResetAchievementsCommand", "df/da7/a12249.html#aef935fde80c3e524c54346ddd7223d53", null ],
+    [ "HandleResetAllCommand", "df/da7/a12249.html#acac4e720d43d35784e78654ff154f08e", null ],
+    [ "HandleResetHonorCommand", "df/da7/a12249.html#aa198f0ca643a3a1e9817d2b86da83952", null ],
+    [ "HandleResetItemsAllAndDeleteBagsCommand", "df/da7/a12249.html#a3f22818d2acf934dc1fd26dd915d2098", null ],
+    [ "HandleResetItemsAllCommand", "df/da7/a12249.html#adac167fc519833b393f687ee5d7693b6", null ],
+    [ "HandleResetItemsEquippedCommand", "df/da7/a12249.html#abe473ba8a7dff2e6fb6e9985e43ae6db", null ],
+    [ "HandleResetItemsInBagsCommand", "df/da7/a12249.html#a150bbf4e942dc62008561e3b4dada12c", null ],
+    [ "HandleResetItemsInBankCommand", "df/da7/a12249.html#a8f622cd5602b05506186e6197eae9f6c", null ],
+    [ "HandleResetItemsInCurrenciesListCommand", "df/da7/a12249.html#ae2b78f33dbf9698aa7a7348cb4f12a22", null ],
+    [ "HandleResetItemsInVendorBuyBackTabCommand", "df/da7/a12249.html#a95f99a6670c3cfecfd4d762c4fb229f2", null ],
+    [ "HandleResetItemsKeyringCommand", "df/da7/a12249.html#ae96d6cbcf0293640f6502cbb5577f192", null ],
+    [ "HandleResetLevelCommand", "df/da7/a12249.html#ac112df4937a52d270fb5edb4a8b89438", null ],
+    [ "HandleResetSpellsCommand", "df/da7/a12249.html#a6621c7de961a1734c1f8c330546773a5", null ],
+    [ "HandleResetStatsCommand", "df/da7/a12249.html#a9b9159122e066644cddad3b19f692736", null ],
+    [ "HandleResetStatsOrLevelHelper", "df/da7/a12249.html#ab0290d3677ef62f8d7391902780a3f9e", null ],
+    [ "HandleResetTalentsCommand", "df/da7/a12249.html#a1d3d7844bda77877cac027e670de6257", null ],
+    [ "ResetItemsDeleteBankBags", "df/da7/a12249.html#a831ccdc042337fb279bea03aeba51cbe", null ],
+    [ "ResetItemsDeleteStandardBags", "df/da7/a12249.html#a11a7aa6687283f9273a788b85ec9b6c0", null ],
+    [ "ResetItemsEquipped", "df/da7/a12249.html#af05ec486dc31b443c3556ab651b501c9", null ],
+    [ "ResetItemsInBags", "df/da7/a12249.html#abc9486fd0d75fbaba14c228d6feb92d0", null ],
+    [ "ResetItemsInBank", "df/da7/a12249.html#a948b9bfb26cb728ef75ac465db1f2d93", null ],
+    [ "ResetItemsInCurrenciesList", "df/da7/a12249.html#ad324ac7796afa9f30267141e4749d9ca", null ],
+    [ "ResetItemsInKeyring", "df/da7/a12249.html#a99b70e6826b373fbd0124a4da9b1b9b5", null ],
+    [ "ResetItemsInVendorBuyBackTab", "df/da7/a12249.html#ab7ac47d4f420da508d987c6beeb4b659", null ]
 ];

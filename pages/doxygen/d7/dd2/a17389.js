@@ -1,9 +1,6 @@
 var a17389 =
 [
-    [ "npc_pos_after_first_bossAI", "d7/dd2/a17389.html#a622df71849da1e10e2b73068f0adea98", null ],
-    [ "MovementInform", "d7/dd2/a17389.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
-    [ "Reset", "d7/dd2/a17389.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
-    [ "UpdateAI", "d7/dd2/a17389.html#ac45111887fd7833a041355658dd26158", null ],
-    [ "events", "d7/dd2/a17389.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
-    [ "pInstance", "d7/dd2/a17389.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
+    [ "boss_frostsworn_generalAI", "d8/d2c/a17393.html", "d8/d2c/a17393" ],
+    [ "boss_frostsworn_general", "d7/dd2/a17389.html#a33023712cf056eedfed1cb38e18af5dd", null ],
+    [ "GetAI", "d7/dd2/a17389.html#a8e958e13999f23a81a7230fa9ece276b", null ]
 ];

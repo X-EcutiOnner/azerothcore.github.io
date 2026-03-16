@@ -1,6 +1,6 @@
 var a07897 =
 [
-    [ "value_type", "dc/d00/a07897.html#a8ce1d08e5d320ef2c6301475fba4a7c2", null ],
-    [ "StoreTo", "dc/d00/a07897.html#ac01b3840e65515853e26c16dd3caaf58", null ],
-    [ "tag", "dc/d00/a07897.html#abd9c16378ed02e10a25cd45111e6fc69", null ]
+    [ "operator bool", "dc/d00/a07897.html#a02878c282dfcfd2b9f4eddf99a805fa3", null ],
+    [ "tail", "dc/d00/a07897.html#a0bd839d0c7a8b7ce84612c80f3ca84e7", null ],
+    [ "token", "dc/d00/a07897.html#a55e214db8a01ac3c427874d03f1bda54", null ]
 ];

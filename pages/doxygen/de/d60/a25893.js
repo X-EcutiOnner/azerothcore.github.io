@@ -1,7 +1,6 @@
 var a25893 =
 [
-    [ "AfterRemove", "de/d60/a25893.html#a9dc5ef5c5545fc382e221ca9473ac3bd", null ],
-    [ "PrepareAuraScript", "de/d60/a25893.html#a0fd3e297a66df888f6e30f93b9f60947", null ],
-    [ "Register", "de/d60/a25893.html#a2b1872fa0342e0f530b61fc7a5bf876b", null ],
-    [ "Validate", "de/d60/a25893.html#ae08f33e0271166afa87208faa30684c4", null ]
+    [ "HandlePeriodicTick", "de/d60/a25893.html#a058eeb1e0489340763a58d92d4bed832", null ],
+    [ "PrepareAuraScript", "de/d60/a25893.html#a3d71859b7e7f914a395f131dd4a6b4ab", null ],
+    [ "Register", "de/d60/a25893.html#ae5a8adc3fe7cc5c5d7dd715449d3442f", null ]
 ];

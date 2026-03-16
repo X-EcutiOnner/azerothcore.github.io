@@ -1,8 +1,14 @@
 var a23537 =
 [
-    [ "boss_commander_sarannis", "da/d61/a23537.html#ace0957feb37f864798008849be25f607", null ],
-    [ "JustDied", "da/d61/a23537.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
-    [ "JustEngagedWith", "da/d61/a23537.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
-    [ "KilledUnit", "da/d61/a23537.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
-    [ "ScheduleReinforcements", "da/d61/a23537.html#a293f0b860a66396a30c6d255eef85309", null ]
+    [ "boss_vazruden", "da/d61/a23537.html#a9908d6082a09d55dd0d8bb801784a151", null ],
+    [ "DamageTaken", "da/d61/a23537.html#a44b1e4d43bbf0d7faec7f4ee277db811", null ],
+    [ "EnterEvadeMode", "da/d61/a23537.html#aba006e8e9aefe522ea5c36c638bb5c3b", null ],
+    [ "JustDied", "da/d61/a23537.html#a525025b41b53a577bdff1eb818191ed7", null ],
+    [ "JustEngagedWith", "da/d61/a23537.html#a5dbbe80fcfe191ac5ae03f943496ad02", null ],
+    [ "KilledUnit", "da/d61/a23537.html#a8f430a0d7edb0285156c6bf68ba0aa07", null ],
+    [ "Reset", "da/d61/a23537.html#a11b5091dafe2f0de9afd81de7b6fde90", null ],
+    [ "UpdateAI", "da/d61/a23537.html#aebaf147a1a2e723cb0cb8e46f3d01e68", null ],
+    [ "_hasSpoken", "da/d61/a23537.html#af5b9aa9c7a343486b4dc05819e8d3ccf", null ],
+    [ "_nazanCalled", "da/d61/a23537.html#a44d53934c743e9beb539681719997852", null ],
+    [ "_scheduler", "da/d61/a23537.html#a60382206e378c2f2c493d1ee25c4ff8c", null ]
 ];

@@ -1,11 +1,7 @@
 var a26929 =
 [
-    [ "AccountActionIpLogger", "d2/d5d/a26929.html#a73cad77bd83243cb10c4a1b4d7081e0b", null ],
-    [ "AccountIPLogAction", "d2/d5d/a26929.html#a9c978dafb71e67b8b278806df507e34b", null ],
-    [ "OnAccountLogin", "d2/d5d/a26929.html#a2952adcd73d775b924671e5a69adaccb", null ],
-    [ "OnEmailChange", "d2/d5d/a26929.html#aa15d0cc4e6ed3818fa18a927074f5f0c", null ],
-    [ "OnFailedAccountLogin", "d2/d5d/a26929.html#a8225c45bcb83e1ddd91a8dcd0f7da9cd", null ],
-    [ "OnFailedEmailChange", "d2/d5d/a26929.html#a9fd73dc7b6954dfb4fc94a1f1288ccd2", null ],
-    [ "OnFailedPasswordChange", "d2/d5d/a26929.html#a0663e15ea1a29b3daa672c8b6a25548f", null ],
-    [ "OnPasswordChange", "d2/d5d/a26929.html#a4b71aa9c1790e6d4033d884a17ce0a2f", null ]
+    [ "CheckProc", "d2/d5d/a26929.html#a068e3d66059d0d34b39ef43bc259eb70", null ],
+    [ "HandleProc", "d2/d5d/a26929.html#ac3da721ff9df529738eeb33e95fb0dac", null ],
+    [ "PrepareAuraScript", "d2/d5d/a26929.html#ab346f33f7d467f89c9bc9ecc569a8c8c", null ],
+    [ "Register", "d2/d5d/a26929.html#afa041c16f5d6c80aa74402fbdbea1701", null ]
 ];

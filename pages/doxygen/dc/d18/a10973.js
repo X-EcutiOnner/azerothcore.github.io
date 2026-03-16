@@ -1,7 +1,8 @@
 var a10973 =
 [
-    [ "BuybackItem", "dc/d18/a10973.html#a05dec559746537669fcf32f52a171b44", null ],
-    [ "Read", "dc/d18/a10973.html#aefe27701674c75f8937f72ee418a6692", null ],
-    [ "Slot", "dc/d18/a10973.html#ac4faf4646da9a9fe7c1567527ca28a27", null ],
-    [ "VendorGuid", "dc/d18/a10973.html#a6be9d8d3f564621780e458c4a785b709", null ]
+    [ "GuildBankQueryTab", "dc/d18/a10973.html#a29fc27016b597f051898db7bb30214c8", null ],
+    [ "Read", "dc/d18/a10973.html#ab4e17c592b05ce041f5f52f2bc711d41", null ],
+    [ "Banker", "dc/d18/a10973.html#af21ec3aa4cf912fd5b82e6ae16459e06", null ],
+    [ "FullUpdate", "dc/d18/a10973.html#a4f9758c10f7c7294dffaa01b8e0b723f", null ],
+    [ "Tab", "dc/d18/a10973.html#a949488c1696f92cb0a081cf28bffb48f", null ]
 ];

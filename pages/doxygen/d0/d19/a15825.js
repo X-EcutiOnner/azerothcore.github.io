@@ -1,6 +1,5 @@
 var a15825 =
 [
-    [ "npc_bunthen_plainswind", "d0/d19/a15825.html#ad9b789ad3e958dee4733b142813b6302", null ],
-    [ "OnGossipHello", "d0/d19/a15825.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
-    [ "OnGossipSelect", "d0/d19/a15825.html#a117f28d513ac645b9d3d908d052d2146", null ]
+    [ "go_ravager_cage", "d0/d19/a15825.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
+    [ "OnGossipHello", "d0/d19/a15825.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
 ];

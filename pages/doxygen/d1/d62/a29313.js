@@ -1,4 +1,5 @@
 var a29313 =
 [
-    [ "gOpenArchives", "d1/d62/a29313.html#a8ae40ebe73635e831bc65b70e7f97f3c", null ]
+    [ "ID", "d1/d62/a29313.html#a142c8a5e22234e6317ff113618559b8b", null ],
+    [ "Value", "d1/d62/a29313.html#a693631ac3ce915a1c4adf565517eacf9", null ]
 ];

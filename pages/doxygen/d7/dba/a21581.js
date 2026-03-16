@@ -1,7 +1,7 @@
 var a21581 =
 [
-    [ "CheckRequirement", "d7/dba/a21581.html#a41beb2c890137328734d6adb14e08302", null ],
-    [ "PrepareSpellScript", "d7/dba/a21581.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
-    [ "Register", "d7/dba/a21581.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
-    [ "SetDest", "d7/dba/a21581.html#a431a556ab73f91ed63f5983e537834a5", null ]
+    [ "npc_valiance_keep_cannoneerAI", "d7/dba/a21581.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
+    [ "Reset", "d7/dba/a21581.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
+    [ "UpdateAI", "d7/dba/a21581.html#a75f16f2b028ca341db6e08536be06bfa", null ],
+    [ "uiTimer", "d7/dba/a21581.html#a0cf5f0413b1cded835252a38e272f835", null ]
 ];

@@ -1,9 +1,7 @@
 var a09405 =
 [
-    [ "PlayerLastSearcher", "dd/d76/a09405.html#a0a4c736bbde38ccb0a0a8ceafdb751c7", null ],
-    [ "Visit", "dd/d76/a09405.html#a25785fbe4cb8ac9a8753705b9df3b507", null ],
-    [ "Visit", "dd/d76/a09405.html#a19e60fc9fc43ad3a718132a2884e41b0", null ],
-    [ "i_check", "dd/d76/a09405.html#a93f5e1dd1f680cc9467671b59d2c5a12", null ],
-    [ "i_object", "dd/d76/a09405.html#a2d9af6a6ef1105b19c49852fce17b8e6", null ],
-    [ "i_phaseMask", "dd/d76/a09405.html#ad5bfaa4154c99e34515da98db7dccadf", null ]
+    [ "V8Type", "dd/d76/a09405.html#a385ac15640b76e43eda077c451dcd745", null ],
+    [ "V9Type", "dd/d76/a09405.html#a9b7daa2ba0e72e137243ac061efaa2a5", null ],
+    [ "v8", "dd/d76/a09405.html#a55d7b001e047c31686b110cc4b1aa295", null ],
+    [ "v9", "dd/d76/a09405.html#ab4f6ec9aefc2721bd216582d7a882aa3", null ]
 ];

@@ -1,6 +1,8 @@
 var a16809 =
 [
-    [ "npc_toc_rogueAI", "d8/d14/a16813.html", "d8/d14/a16813" ],
-    [ "npc_toc_rogue", "d1/dfb/a16809.html#a925840be9698e381358235a827c20b8a", null ],
-    [ "GetAI", "d1/dfb/a16809.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
+    [ "npc_announcer_toc5AI", "d8/d14/a16813.html", "d8/d14/a16813" ],
+    [ "npc_announcer_toc5", "d1/dfb/a16809.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
+    [ "GetAI", "d1/dfb/a16809.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
+    [ "OnGossipHello", "d1/dfb/a16809.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
+    [ "OnGossipSelect", "d1/dfb/a16809.html#a9017488c652fd75882db75914f4a2db2", null ]
 ];

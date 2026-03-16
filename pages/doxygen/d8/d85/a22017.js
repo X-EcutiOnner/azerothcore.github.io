@@ -1,8 +1,5 @@
 var a22017 =
 [
-    [ "npc_adventurous_dwarfAI", "d4/d04/a22021.html", "d4/d04/a22021" ],
-    [ "npc_adventurous_dwarf", "d8/d85/a22017.html#a15c39e217907189db9be7799e696f310", null ],
-    [ "GetAI", "d8/d85/a22017.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
-    [ "OnGossipHello", "d8/d85/a22017.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
-    [ "OnGossipSelect", "d8/d85/a22017.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
+    [ "npc_black_knight_graveyardAI", "d8/d85/a22017.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
+    [ "MoveInLineOfSight", "d8/d85/a22017.html#aa5c80b5759656e3865d6721161f9f005", null ]
 ];

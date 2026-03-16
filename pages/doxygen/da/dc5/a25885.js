@@ -1,7 +1,6 @@
 var a25885 =
 [
-    [ "CalculateSpellAmount", "da/dc5/a25885.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
-    [ "CheckCast", "da/dc5/a25885.html#af043f7ee0f80baf667e64225effd57d1", null ],
-    [ "PrepareSpellScript", "da/dc5/a25885.html#a233ac4020722078d865cf980d7fa76cf", null ],
-    [ "Register", "da/dc5/a25885.html#a3648ecd94430e21dd014795156c1eb98", null ]
+    [ "HandleSummon", "da/dc5/a25885.html#ad1ee0eb347454d50216610a266226d68", null ],
+    [ "PrepareSpellScript", "da/dc5/a25885.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
+    [ "Register", "da/dc5/a25885.html#aa145041af68291f107c3ff11ce15b85e", null ]
 ];

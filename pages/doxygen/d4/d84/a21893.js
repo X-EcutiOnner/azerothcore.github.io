@@ -1,7 +1,6 @@
 var a21893 =
 [
-    [ "HandleDummy", "d4/d84/a21893.html#abfb58e49821e6a563940e8ba518db850", null ],
-    [ "PrepareSpellScript", "d4/d84/a21893.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
-    [ "Register", "d4/d84/a21893.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
-    [ "Validate", "d4/d84/a21893.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
+    [ "npc_ravenous_worgAI", "dc/d88/a21897.html", "dc/d88/a21897" ],
+    [ "npc_ravenous_worg", "d4/d84/a21893.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
+    [ "GetAI", "d4/d84/a21893.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
 ];

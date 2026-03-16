@@ -1,15 +1,14 @@
 var a07337 =
 [
-    [ "ArenaSeasonRewardGroup", "d9/da9/a07337.html#a128e78db84f099d91e21da77b2147e82", null ],
-    [ "operator==", "d9/da9/a07337.html#a625ef69db8523e1a5e6e5ea16bdacc2f", null ],
-    [ "achievementRewards", "d9/da9/a07337.html#a1b89c847e86b29671f86dbbef1c9a1b6", null ],
-    [ "criteriaType", "d9/da9/a07337.html#a16261356df6f5aed35bc3ec06ab49560", null ],
-    [ "goldReward", "d9/da9/a07337.html#a582c7d51c2ab4bb5cf0e45b773dd20ee", null ],
-    [ "itemRewards", "d9/da9/a07337.html#a24e7afcf5a95fba7f2cdc5914baac392", null ],
-    [ "maxCriteria", "d9/da9/a07337.html#aa3cf9a0ad2ed2170542ec360e61682e2", null ],
-    [ "minCriteria", "d9/da9/a07337.html#a07507bd59265508a463aa328f343afa0", null ],
-    [ "rewardMailBody", "d9/da9/a07337.html#afa55d982d4f2ef5f2eccf48ed305b649", null ],
-    [ "rewardMailSubject", "d9/da9/a07337.html#a0574cf3fc910f13413ea7eb1c0f08166", null ],
-    [ "rewardMailTemplateID", "d9/da9/a07337.html#ade97a1ea3355cd19aaf65ab80a26e4bf", null ],
-    [ "season", "d9/da9/a07337.html#a2e6a5d2ca970d3921142b497d351c50f", null ]
+    [ "getAll", "d9/da9/a07337.html#a736642258b38fa05f04df4f4ac9069db", null ],
+    [ "inventoryType", "d9/da9/a07337.html#a521224ce63856745ed64c39f6cbdddc4", null ],
+    [ "itemClass", "d9/da9/a07337.html#a97bc36937a55f3e9a88dabf9a4e4f0b5", null ],
+    [ "itemSubClass", "d9/da9/a07337.html#acf154bf30417c1a202ae85b4dd1adead", null ],
+    [ "levelmax", "d9/da9/a07337.html#a902d715d89a5ca66072393ccefbb1ead", null ],
+    [ "levelmin", "d9/da9/a07337.html#ac437de5977b177a586381c8665439a56", null ],
+    [ "listfrom", "d9/da9/a07337.html#a2be6266f0bbc631d476710cbe291fab1", null ],
+    [ "quality", "d9/da9/a07337.html#a1f234ab443ed5e14aafa02ec3ba5cfde", null ],
+    [ "sorting", "d9/da9/a07337.html#a6f2e07af2aafb8eb53d845acd7f5ad71", null ],
+    [ "usable", "d9/da9/a07337.html#ad81a5f3c2c58e620673539b6271ff8e9", null ],
+    [ "wsearchedname", "d9/da9/a07337.html#a0a3764bd2ad869d9fe04aaced1f271ba", null ]
 ];

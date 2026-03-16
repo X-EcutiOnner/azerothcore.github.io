@@ -1,4 +1,5 @@
 var a22341 =
 [
-    [ "idPatrol", "d5/d01/a22341.html#a1fbc40a9798b89ae8b903b1f5a6a8e67", null ]
+    [ "npc_wg_spirit_guideAI", "d5/d01/a22341.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
+    [ "UpdateAI", "d5/d01/a22341.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
 ];

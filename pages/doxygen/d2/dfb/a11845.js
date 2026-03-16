@@ -1,12 +1,10 @@
 var a11845 =
 [
-    [ "WardenMac", "d2/dfb/a11845.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
-    [ "~WardenMac", "d2/dfb/a11845.html#a5f3832580c73a0af34fa83669a92ceab", null ],
-    [ "GetModuleForClient", "d2/dfb/a11845.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
-    [ "HandleData", "d2/dfb/a11845.html#a024be47d39641cb0e7654b0e0999e444", null ],
-    [ "HandleHashResult", "d2/dfb/a11845.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
-    [ "Init", "d2/dfb/a11845.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
-    [ "InitializeModule", "d2/dfb/a11845.html#a4fceef34e83db1a357d9eadce35efdef", null ],
-    [ "RequestChecks", "d2/dfb/a11845.html#a2437a3a5650305b05fc22d312d0006da", null ],
-    [ "RequestHash", "d2/dfb/a11845.html#af031f18554c5a96b4eb39371a92b9c51", null ]
+    [ "CustomChatTextBuilder", "d2/dfb/a11845.html#a47b3e24f7100d13180ad1946647999ae", null ],
+    [ "operator()", "d2/dfb/a11845.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
+    [ "_language", "d2/dfb/a11845.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
+    [ "_msgType", "d2/dfb/a11845.html#a0db1501da33fde77ab3c50943666b1fd", null ],
+    [ "_source", "d2/dfb/a11845.html#ad75f22d7eb6a62d59730918f4336768c", null ],
+    [ "_target", "d2/dfb/a11845.html#aa45be322836be588d8df2b253a22ee5c", null ],
+    [ "_text", "d2/dfb/a11845.html#ab59c9b938b564329483e38466169a92c", null ]
 ];

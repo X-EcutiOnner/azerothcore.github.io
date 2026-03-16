@@ -1,7 +1,8 @@
 var a22189 =
 [
-    [ "npc_wg_siege_machineAI", "df/da3/a22189.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
-    [ "CanControlVehicle", "df/da3/a22189.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
-    [ "UpdateAI", "df/da3/a22189.html#a8ddd21047a857facc767a9edc0ec5408", null ],
-    [ "checkTimer", "df/da3/a22189.html#abf4b06eae50adeefedba02e2186ea48a", null ]
+    [ "npc_adventurous_dwarfAI", "de/da2/a22193.html", "de/da2/a22193" ],
+    [ "npc_adventurous_dwarf", "df/da3/a22189.html#a15c39e217907189db9be7799e696f310", null ],
+    [ "GetAI", "df/da3/a22189.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
+    [ "OnGossipHello", "df/da3/a22189.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
+    [ "OnGossipSelect", "df/da3/a22189.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
 ];

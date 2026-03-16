@@ -1,6 +1,6 @@
 var a27109 =
 [
-    [ "go_l70_etc_musicAI", "d6/d10/a27113.html", "d6/d10/a27113" ],
-    [ "go_l70_etc_music", "d4/d06/a27109.html#a766dccca12fc7959273ba1e3a278564f", null ],
-    [ "GetAI", "d4/d06/a27109.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
+    [ "HandleDummy", "d4/d06/a27109.html#a39c913c3e3225a9b27d17d4ceadd3c70", null ],
+    [ "PrepareSpellScript", "d4/d06/a27109.html#a7936186af106ae3ddeec3bc9b39ff127", null ],
+    [ "Register", "d4/d06/a27109.html#aa8ce1f0413e19d8f6d403b220fc6749c", null ]
 ];

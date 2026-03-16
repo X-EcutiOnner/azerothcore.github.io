@@ -1,6 +1,6 @@
 var a17149 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "d7/db5/a17153.html", "d7/db5/a17153" ],
-    [ "instance_forge_of_souls", "d3/d8c/a17149.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "d3/d8c/a17149.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "OnPeriodic", "d3/d8c/a17149.html#a6f2e191d76f894517aed395866b7e508", null ],
+    [ "PrepareAuraScript", "d3/d8c/a17149.html#a571ee1c735b6095408973bfe5f91bcf7", null ],
+    [ "Register", "d3/d8c/a17149.html#a6094dc303c034e49fb4e543874db080b", null ]
 ];

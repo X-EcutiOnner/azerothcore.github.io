@@ -1,8 +1,8 @@
 var a09921 =
 [
-    [ "BoundaryIntersectBoundary", "de/dfb/a09921.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
-    [ "~BoundaryIntersectBoundary", "de/dfb/a09921.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
-    [ "IsWithinBoundaryArea", "de/dfb/a09921.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
-    [ "_b1", "de/dfb/a09921.html#ab0239437fa92e39d144bf3856eb347c7", null ],
-    [ "_b2", "de/dfb/a09921.html#a41e100c17db99990981293399660824c", null ]
+    [ "BossInfo", "de/dfb/a09921.html#a455f533d647927d182176c3cceb21f42", null ],
+    [ "boundary", "de/dfb/a09921.html#aa4fb2bc78efb3393004c0f827000e4f1", null ],
+    [ "door", "de/dfb/a09921.html#a858af8825ed4fe183ee19b6f10239304", null ],
+    [ "minion", "de/dfb/a09921.html#abec1469d41f286d02c34223171373cd3", null ],
+    [ "state", "de/dfb/a09921.html#a1e4413b3a8bac20ed9e7ac878e3066f7", null ]
 ];

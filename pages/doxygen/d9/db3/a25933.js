@@ -1,6 +1,10 @@
 var a25933 =
 [
-    [ "CheckProc", "d9/db3/a25933.html#a0f1461140b08deac3f044142067368e7", null ],
-    [ "PrepareAuraScript", "d9/db3/a25933.html#a04e0ebe416e94912d7f1ec529da7980d", null ],
-    [ "Register", "d9/db3/a25933.html#a05e31c2252c9054a18b4267be84895b9", null ]
+    [ "spell_item_defibrillate", "d9/db3/a25933.html#ab64fdd36fc646ca0bcb2010380199ede", null ],
+    [ "HandleScript", "d9/db3/a25933.html#a7abbc5b8e5c5231d5c6809c45b815b69", null ],
+    [ "PrepareSpellScript", "d9/db3/a25933.html#a6a7ad6c9bb9bee3b093bd06b1b259468", null ],
+    [ "Register", "d9/db3/a25933.html#ad2faa26a2874f68e8e419e59cafbf10b", null ],
+    [ "Validate", "d9/db3/a25933.html#ad871a6bef7ba074f32abe1bf062dffe1", null ],
+    [ "_chance", "d9/db3/a25933.html#a680092f30ebc6b322e5d01a1100b308c", null ],
+    [ "_failSpell", "d9/db3/a25933.html#a4cb3e7f0b0b85c57f27fe2f3ab70647b", null ]
 ];

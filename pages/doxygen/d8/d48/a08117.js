@@ -1,7 +1,6 @@
 var a08117 =
 [
-    [ "ForcedDespawnDelayEvent", "d8/d48/a08117.html#ad3cf785f62ec0d7069493fee39227bc3", null ],
-    [ "Execute", "d8/d48/a08117.html#a735c709b269458911bd93da1902cbe25", null ],
-    [ "m_owner", "d8/d48/a08117.html#aa4fa09703f39ae8bbe0b7483a27d9cc3", null ],
-    [ "m_respawnTimer", "d8/d48/a08117.html#a5db78930a1fda07f2020b23158ebb93d", null ]
+    [ "ConditionSourceInfo", "d8/d48/a08117.html#adc6441ec52fab3ab8d2b58a146a3fef3", null ],
+    [ "mConditionTargets", "d8/d48/a08117.html#acb67deba44021698a447e8288bca0bd4", null ],
+    [ "mLastFailedCondition", "d8/d48/a08117.html#a099d3457a0a15d8feeacc0dc8c32d439", null ]
 ];

@@ -1,21 +1,8 @@
 var a09689 =
 [
-    [ "BankTab", "d9/dce/a09689.html#a4cc137e35b63b86c5d436e6bc15ad590", null ],
-    [ "Delete", "d9/dce/a09689.html#a834715b072cf26a56933a971de7bdde4", null ],
-    [ "GetIcon", "d9/dce/a09689.html#a2406a477fff518690b1a9656d0c2129b", null ],
-    [ "GetItem", "d9/dce/a09689.html#a9c5baa8eb92520b73c646488e3b38caa", null ],
-    [ "GetName", "d9/dce/a09689.html#a0360f82663e5f9e073bcb28affcdf0b3", null ],
-    [ "GetText", "d9/dce/a09689.html#ace1887dd0ef166be4fc6f8cb894d80b3", null ],
-    [ "LoadFromDB", "d9/dce/a09689.html#a016c23dc9710058e969ccfc51501afd6", null ],
-    [ "LoadItemFromDB", "d9/dce/a09689.html#aa7bd9e67c6685878fa7bf158c09fae51", null ],
-    [ "SendText", "d9/dce/a09689.html#ac3ca58dcc1997788226c6fe0d5b690c7", null ],
-    [ "SetInfo", "d9/dce/a09689.html#afb645aa2e4219558eb2f493782804657", null ],
-    [ "SetItem", "d9/dce/a09689.html#a3013ae191efb43063162f4cbb5508392", null ],
-    [ "SetText", "d9/dce/a09689.html#a5945b66216eebcb4ac68a6e429c15972", null ],
-    [ "m_guildId", "d9/dce/a09689.html#abc272a367b69a90207dbf10580a55038", null ],
-    [ "m_icon", "d9/dce/a09689.html#a25217a0d4f9dc91c853f7007f63f140b", null ],
-    [ "m_items", "d9/dce/a09689.html#a80cc2a64638722401276263d01e5ee27", null ],
-    [ "m_name", "d9/dce/a09689.html#a5555e808bc4597ad9a74e69b95e56149", null ],
-    [ "m_tabId", "d9/dce/a09689.html#ab055a2b7500c83c96a78c396dc60588a", null ],
-    [ "m_text", "d9/dce/a09689.html#afc7ac5ed7c4c2d79170548fe061917eb", null ]
+    [ "NearestPlayerInObjectRangeCheck", "d9/dce/a09689.html#ae8e57c69baf8bdaf0448864d4afbb1a4", null ],
+    [ "NearestPlayerInObjectRangeCheck", "d9/dce/a09689.html#aac3d406d10a036b92a55bcd955411165", null ],
+    [ "operator()", "d9/dce/a09689.html#a5d7ed3141c03d2209d5a3b1a689d1668", null ],
+    [ "i_obj", "d9/dce/a09689.html#a9cd17091269bcfc2b48fefc12ac9b127", null ],
+    [ "i_range", "d9/dce/a09689.html#ab55f93d7c5d6ca3461bcbe49010fcb83", null ]
 ];

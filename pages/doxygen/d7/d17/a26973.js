@@ -1,6 +1,6 @@
 var a26973 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "d7/d17/a26973.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "d7/d17/a26973.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "d7/d17/a26973.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "HandleDummyEffect", "d7/d17/a26973.html#a6340c91d8419755386cb3e138cb3c171", null ],
+    [ "PrepareSpellScript", "d7/d17/a26973.html#a67d08252c8b8deee312f17affb557df8", null ],
+    [ "Register", "d7/d17/a26973.html#a262bb06ac1d6a55e886d1226ad7bb583", null ]
 ];

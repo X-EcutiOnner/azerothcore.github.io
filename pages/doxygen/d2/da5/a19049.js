@@ -1,6 +1,7 @@
 var a19049 =
 [
-    [ "PrepareSpellScript", "d2/da5/a19049.html#aac12da39c503615036120e3e0cd55622", null ],
-    [ "Register", "d2/da5/a19049.html#a808d2283be9714c14f22a2df0a52dd61", null ],
-    [ "RelocateDest", "d2/da5/a19049.html#a843c9dc403404ddd2de667e57e01f00c", null ]
+    [ "HandleForceCast", "d2/da5/a19049.html#accc757e0a23103242865f0ce3085f9d9", null ],
+    [ "Load", "d2/da5/a19049.html#a7206571378a0196a8648659628bdeece", null ],
+    [ "PrepareSpellScript", "d2/da5/a19049.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
+    [ "Register", "d2/da5/a19049.html#ace665321732f59f13b2ef831c71c2f18", null ]
 ];

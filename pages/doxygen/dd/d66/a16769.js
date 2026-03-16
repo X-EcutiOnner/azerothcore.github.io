@@ -1,6 +1,6 @@
 var a16769 =
 [
-    [ "npc_toc_mageAI", "d2/db8/a16773.html", "d2/db8/a16773" ],
-    [ "npc_toc_mage", "dd/d66/a16769.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
-    [ "GetAI", "dd/d66/a16769.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
+    [ "HandleSpellHit", "dd/d66/a16769.html#a8c801b92f6e405668edae54989dd58e8", null ],
+    [ "PrepareSpellScript", "dd/d66/a16769.html#abae02a74f626b890f61df551318dcc81", null ],
+    [ "Register", "dd/d66/a16769.html#a2d5b57bbf51aadfc3eb56f8f756d04ef", null ]
 ];

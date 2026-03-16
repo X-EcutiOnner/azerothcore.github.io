@@ -1,10 +1,7 @@
 var a26649 =
 [
-    [ "CalculateAPAmount", "df/d84/a26649.html#ae76d10c68df1f149f83d4247122b47a7", null ],
-    [ "CalculateResistanceAmount", "df/d84/a26649.html#ab21a4b135dfd70963f75eff7bffbf476", null ],
-    [ "CalculateSPAmount", "df/d84/a26649.html#a421996ca946d5b04c264718e6dd63fa9", null ],
-    [ "CalculateStatAmount", "df/d84/a26649.html#ae695515c915f2452dccb71aeb018f3a3", null ],
-    [ "HandleEffectApply", "df/d84/a26649.html#a207864c73e485e0db0fe47bde97d87a2", null ],
-    [ "PrepareAuraScript", "df/d84/a26649.html#a4179be48195872410bda69cac3454812", null ],
-    [ "Register", "df/d84/a26649.html#a94b34a7e4c36bf1336b5611e82e2dd58", null ]
+    [ "CheckAreaTarget", "df/d84/a26649.html#a2d240518259d2452d263fc436de5056e", null ],
+    [ "PrepareAuraScript", "df/d84/a26649.html#a0b97b273f13805f027e5f5113d4a8e40", null ],
+    [ "Register", "df/d84/a26649.html#a50406feea1b2cf34ad101a3b1fd25d7c", null ],
+    [ "Validate", "df/d84/a26649.html#adfd1ccae4029680415409df737aa2533", null ]
 ];

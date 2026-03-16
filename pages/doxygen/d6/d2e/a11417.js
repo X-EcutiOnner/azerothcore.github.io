@@ -1,7 +1,4 @@
 var a11417 =
 [
-    [ "DynObjAura", "d6/d2e/a11417.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
-    [ "FillTargetMap", "d6/d2e/a11417.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
-    [ "Remove", "d6/d2e/a11417.html#ada3f65b4a817e2337da43da437b93a3b", null ],
-    [ "Aura::Create", "d6/d2e/a11417.html#ae2c0fdfb409846fec5e861de60797112", null ]
+    [ "ServerOpcodeHandler", "d3/d64/a04974.html#ga15d54f5e037e138c90bd0c9bf9628ac9", null ]
 ];

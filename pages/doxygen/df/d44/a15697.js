@@ -1,5 +1,5 @@
 var a15697 =
 [
-    [ "go_bristlelimb_cage", "df/d44/a15697.html#ab965b9c529577a5e58639285fa35d3d7", null ],
-    [ "OnGossipHello", "df/d44/a15697.html#a6f29e07550767c1c0610f46e4921503f", null ]
+    [ "at_twin_emperors", "df/d44/a15697.html#a343d482857fa0a45c42f593e591f7754", null ],
+    [ "_OnTrigger", "df/d44/a15697.html#adf3120b7bf611e0246abb2970711ada3", null ]
 ];

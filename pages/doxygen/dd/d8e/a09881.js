@@ -1,14 +1,7 @@
 var a09881 =
 [
-    [ "ServerMailMgr", "dd/d8e/a09881.html#aeec2235e9dd9b36b868634d850f02a5b", null ],
-    [ "~ServerMailMgr", "dd/d8e/a09881.html#adba54af38e90ecae21e79835910ba195", null ],
-    [ "ConditionTypeUsesConditionState", "dd/d8e/a09881.html#a2e7a8cdc7ebdb51204823fd30a0449b3", null ],
-    [ "GetAllServerMailStore", "dd/d8e/a09881.html#acb4521f696c6f11c977dc9d8b76e0c16", null ],
-    [ "GetServerMailConditionType", "dd/d8e/a09881.html#a57f8aea4b5bb15ff77b9ebd8e65e8092", null ],
-    [ "instance", "dd/d8e/a09881.html#abc85cb07f717384fac09f4e2b0f59af1", null ],
-    [ "LoadMailServerTemplates", "dd/d8e/a09881.html#a1a01dd7a8e5c45bc7c97203e4a04a768", null ],
-    [ "LoadMailServerTemplatesConditions", "dd/d8e/a09881.html#a6bb75bdb34a25dd01fdc7e81b4e9b897", null ],
-    [ "LoadMailServerTemplatesItems", "dd/d8e/a09881.html#a49aea924f27804d21fbe06e72e159df3", null ],
-    [ "SendServerMail", "dd/d8e/a09881.html#af615430a40e9ddfff49bc338b31d6c1b", null ],
-    [ "_serverMailStore", "dd/d8e/a09881.html#a96ae3a78694ca97d112c5d92884f2415", null ]
+    [ "InstancePlayerBind", "dd/d8e/a09881.html#abc20bba094d04eb724d03b8290102981", null ],
+    [ "extended", "dd/d8e/a09881.html#a9327f62b74eea3a1a525b2fec6d90b69", null ],
+    [ "perm", "dd/d8e/a09881.html#ab35249eb791941b484ecc321b1102b24", null ],
+    [ "save", "dd/d8e/a09881.html#a24ef1e0e0a38033a16b697c32e3d8234", null ]
 ];

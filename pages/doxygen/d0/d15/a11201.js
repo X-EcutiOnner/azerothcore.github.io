@@ -1,5 +1,9 @@
 var a11201 =
 [
-    [ "RequestPetInfo", "d0/d15/a11201.html#ae0861d1fb77fe39bb48c26505e36ed2b", null ],
-    [ "Read", "d0/d15/a11201.html#a5cc9bb57bce7dc7f24243fdc63e17870", null ]
+    [ "RandomRoll", "d0/d15/a11201.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
+    [ "Write", "d0/d15/a11201.html#aab5879874745603dd448a7f5084d60d4", null ],
+    [ "Max", "d0/d15/a11201.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
+    [ "Min", "d0/d15/a11201.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
+    [ "Result", "d0/d15/a11201.html#a34fd2c1d018bb292836724671163ff07", null ],
+    [ "Roller", "d0/d15/a11201.html#af02aa97826259885791d0f4afc0c1a84", null ]
 ];

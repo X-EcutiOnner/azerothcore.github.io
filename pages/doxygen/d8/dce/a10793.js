@@ -1,7 +1,5 @@
 var a10793 =
 [
-    [ "GuildSetMemberNote", "d8/dce/a10793.html#a4747c3d015cb1b0d0056928fd75e4d18", null ],
-    [ "Read", "d8/dce/a10793.html#a3d90b6ce26d55a55bac1d953dd39b049", null ],
-    [ "Note", "d8/dce/a10793.html#a33b7b73bd5d26c2a0ac99d6dc0131c41", null ],
-    [ "NoteeName", "d8/dce/a10793.html#acf6beb0a5b122a04162e9d2c027203af", null ]
+    [ "PlayerLogout", "d8/dce/a10793.html#afacee5b02c2adc4bec608b6f280fbcf1", null ],
+    [ "Read", "d8/dce/a10793.html#accbe1ced6a10ea2fa699df5e74575795", null ]
 ];

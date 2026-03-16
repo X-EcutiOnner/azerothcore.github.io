@@ -1,13 +1,15 @@
 var a09345 =
 [
-    [ "WorldObjectWorker", "d1/d28/a09345.html#a15dd68579f1a92f015cfac8577db7422", null ],
-    [ "Visit", "d1/d28/a09345.html#ae264461e49602fd0b8a17e30ed554c64", null ],
-    [ "Visit", "d1/d28/a09345.html#a3021825347d132f1368a77d29a8318df", null ],
-    [ "Visit", "d1/d28/a09345.html#a7b7869c7d151e8abc924f517ecfdef82", null ],
-    [ "Visit", "d1/d28/a09345.html#a7de6ea339a8113d242dd099ca4d36927", null ],
-    [ "Visit", "d1/d28/a09345.html#a29196fa36ce32a0cec68d0d67372a400", null ],
-    [ "Visit", "d1/d28/a09345.html#a17097541c49264c15ebfe474f54aeca2", null ],
-    [ "i_do", "d1/d28/a09345.html#aa16ce8cce21d4590ef6612e14fb48919", null ],
-    [ "i_mapTypeMask", "d1/d28/a09345.html#a6f8e447b9693154f56ce010869acadb9", null ],
-    [ "i_phaseMask", "d1/d28/a09345.html#affa6245985c5d271900be12104ab6bb6", null ]
+    [ "CoordPair", "d1/d28/a09345.html#a53b5f24cfdf13b246549a0c1543924c9", null ],
+    [ "CoordPair", "d1/d28/a09345.html#aab92ece0f01ebc00cdac4966e02fa8fd", null ],
+    [ "dec_x", "d1/d28/a09345.html#a69be5b72b710722120104f0c502fbb70", null ],
+    [ "dec_y", "d1/d28/a09345.html#aefa33f8766212bb71e5fd19a318142cc", null ],
+    [ "GetId", "d1/d28/a09345.html#ae4f7f304faf2c2363cffe2170b4c5c97", null ],
+    [ "inc_x", "d1/d28/a09345.html#aa6a4942253e87ae57e2d69a2563ddef1", null ],
+    [ "inc_y", "d1/d28/a09345.html#a120946c5a8c8b49bbdf9a1ee54ded9ec", null ],
+    [ "IsCoordValid", "d1/d28/a09345.html#a082960c54e2077df370f891c0534b44f", null ],
+    [ "normalize", "d1/d28/a09345.html#afac8086374bfc499e3a8d74d6afc58db", null ],
+    [ "operator=", "d1/d28/a09345.html#a27f81c359c4ae278d663e85eccbeebb9", null ],
+    [ "x_coord", "d1/d28/a09345.html#a101dd71af6a2cba18140aea2e502ef8b", null ],
+    [ "y_coord", "d1/d28/a09345.html#aacae12844cc0c0d70e26b137ad28f700", null ]
 ];

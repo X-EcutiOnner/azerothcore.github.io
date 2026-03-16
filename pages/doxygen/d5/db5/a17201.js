@@ -1,6 +1,6 @@
 var a17201 =
 [
-    [ "npc_phantom_hallucinationAI", "d2/d8d/a17205.html", "d2/d8d/a17205" ],
-    [ "npc_phantom_hallucination", "d5/db5/a17201.html#a685889c090152a2562ee9adef7efbf71", null ],
-    [ "GetAI", "d5/db5/a17201.html#a771ee338f87ca0a2e9a7d02d1322c5d5", null ]
+    [ "boss_trollgoreAI", "d2/d8d/a17205.html", "d2/d8d/a17205" ],
+    [ "boss_trollgore", "d5/db5/a17201.html#a95102f1fae6c667e0780b8b388fc156b", null ],
+    [ "GetAI", "d5/db5/a17201.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
 ];

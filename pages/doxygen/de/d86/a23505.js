@@ -1,14 +1,7 @@
 var a23505 =
 [
-    [ "npc_warden_mellicharAI", "de/d86/a23505.html#a3486b015ccb8fecfe5e215f45e45f15e", null ],
-    [ "AttackStart", "de/d86/a23505.html#a2b16dc3ad358e4179fe20e2066ba5c64", null ],
-    [ "DamageTaken", "de/d86/a23505.html#a07e7b215ed7653fe7e1ee44d34a74bbd", null ],
-    [ "JustDied", "de/d86/a23505.html#a867404a125aeb4ee3332a4e2b5a8f547", null ],
-    [ "JustEngagedWith", "de/d86/a23505.html#ad584a3c2dd8f108cc9b4e66a6917f97b", null ],
-    [ "JustSummoned", "de/d86/a23505.html#a3fe95a64b640fb61459da2c8621fbc9c", null ],
-    [ "MoveInLineOfSight", "de/d86/a23505.html#aa4edaf9534e7232526fd9c7bd097b7c4", null ],
-    [ "Reset", "de/d86/a23505.html#aebd55a8e6e618e4dc37cf253c60c3a94", null ],
-    [ "SetData", "de/d86/a23505.html#a0d0e8d1af5179aea73aa60e060ba751a", null ],
-    [ "SummonedCreatureDies", "de/d86/a23505.html#a58e1011986be65725d4db3d782bc72ac", null ],
-    [ "UpdateAI", "de/d86/a23505.html#a944cff5367213d561a7e6df5faf2a216", null ]
+    [ "PeriodicTick", "de/d86/a23505.html#a53541105e40202e4a73ecc38d84e9eca", null ],
+    [ "PrepareAuraScript", "de/d86/a23505.html#a79c8829a86db535e254db009d5286430", null ],
+    [ "Register", "de/d86/a23505.html#a58cd762eb10d224bb188aaf167c816b9", null ],
+    [ "Validate", "de/d86/a23505.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f", null ]
 ];

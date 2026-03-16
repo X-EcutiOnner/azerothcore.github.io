@@ -1,5 +1,4 @@
 var a07841 =
 [
-    [ "IsColorValid", "d6/de3/a07841.html#ad9f1623f6e04696a0e3520d3996170e4", null ],
-    [ "IsTextValid", "d6/de3/a07841.html#a3b729ae39753a31c38c16e5186fe7f46", null ]
+    [ "TryConsume", "d6/de3/a07841.html#a2b70efed48ab12a8924e4a815c7dbee6", null ]
 ];

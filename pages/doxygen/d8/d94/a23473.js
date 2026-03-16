@@ -1,8 +1,13 @@
 var a23473 =
 [
-    [ "npc_warchief_portal", "d8/d94/a23473.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
-    [ "JustSummoned", "d8/d94/a23473.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
-    [ "SetData", "d8/d94/a23473.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
-    [ "UpdateAI", "d8/d94/a23473.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
-    [ "_scheduler", "d8/d94/a23473.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
+    [ "boss_olm_the_summoner", "d8/d94/a23473.html#aa8fe3804d4e2a1a1150975f5e9832ce6", null ],
+    [ "AttackStart", "d8/d94/a23473.html#a334ab95cfc3320db1a568bcb5a1d9542", null ],
+    [ "JustDied", "d8/d94/a23473.html#a07cde4fc7bc882db40b51426dc40ab93", null ],
+    [ "JustEngagedWith", "d8/d94/a23473.html#a68db779bb7ffffa7621caedd7f52d93f", null ],
+    [ "JustSummoned", "d8/d94/a23473.html#a546bede780b7d67b98ec251ae2e1b812", null ],
+    [ "Reset", "d8/d94/a23473.html#a8dcdc816276a1932612d554cff703a45", null ],
+    [ "UpdateAI", "d8/d94/a23473.html#a967f330966fdb29f26ab24e8f40d2152", null ],
+    [ "_scheduler", "d8/d94/a23473.html#a448ba3a88156e80eebad44585791ab21", null ],
+    [ "instance", "d8/d94/a23473.html#a8caabc31bb7a8548eb936c34c655df68", null ],
+    [ "summons", "d8/d94/a23473.html#ae9187928c74fa1cfafaea4df25a55e41", null ]
 ];

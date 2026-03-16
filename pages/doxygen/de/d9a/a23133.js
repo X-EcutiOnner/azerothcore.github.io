@@ -1,7 +1,19 @@
 var a23133 =
 [
-    [ "HandleProc", "de/d9a/a23133.html#a03b2be5894d489a6021aff2744aee0e0", null ],
-    [ "PrepareAuraScript", "de/d9a/a23133.html#a0ff401cd6d8e32ff458b7383b76a92a1", null ],
-    [ "Register", "de/d9a/a23133.html#a804e1bc3d570d28cb2e06155054f3169", null ],
-    [ "Validate", "de/d9a/a23133.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb", null ]
+    [ "boss_lady_vashj", "de/d9a/a23133.html#a3934fc6c6363f7c2ee235a58a262135f", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "de/d9a/a23133.html#ad424f1c23cc893e7e48c3e854bf20936", null ],
+    [ "JustDied", "de/d9a/a23133.html#a8f0074b650b6e0a245726ebdeb8651b6", null ],
+    [ "JustEngagedWith", "de/d9a/a23133.html#a2b3b3a3bacd8042eb64a49cc9ca8847f", null ],
+    [ "JustSummoned", "de/d9a/a23133.html#ac577c4f0d0c3e9d1635a1ca9a0954095", null ],
+    [ "KilledUnit", "de/d9a/a23133.html#a0418ead0213eeea16a531baca96db704", null ],
+    [ "MoveInLineOfSight", "de/d9a/a23133.html#a4780e7cbcb7984c5742a5c072acfe252", null ],
+    [ "MovementInform", "de/d9a/a23133.html#ad2d58872d657b3a81c6be0e69d8bff1f", null ],
+    [ "Reset", "de/d9a/a23133.html#a114729e5a3caa70c89d8c8b53eba5af3", null ],
+    [ "ScheduleSpells", "de/d9a/a23133.html#ac4821984e5b5310877204fdb93810029", null ],
+    [ "UpdateAI", "de/d9a/a23133.html#a6ec56730a2735b1d9d35c63242c310b2", null ],
+    [ "_batTimer", "de/d9a/a23133.html#a0ccfbf23e8f47b77496d35cdeae5e3ac", null ],
+    [ "_count", "de/d9a/a23133.html#a2c4c2ecaa4b3ad859f46e36be34b1076", null ],
+    [ "_intro", "de/d9a/a23133.html#a2aafb94d956182723ccc9374854c7fb0", null ],
+    [ "_playerAngle", "de/d9a/a23133.html#a005515a4f2ad0661d5faff9107ea068b", null ],
+    [ "_recentlySpoken", "de/d9a/a23133.html#ac7dd5e6962e72a0eb56c89d417bda37a", null ]
 ];

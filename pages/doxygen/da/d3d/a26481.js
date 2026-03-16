@@ -1,6 +1,6 @@
 var a26481 =
 [
-    [ "CheckCast", "da/d3d/a26481.html#a97f479cccecc6f37c75b47122b47e333", null ],
-    [ "PrepareSpellScript", "da/d3d/a26481.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
-    [ "Register", "da/d3d/a26481.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
+    [ "OnRemove", "da/d3d/a26481.html#ae1f257e43effcb396d57d42db3063afd", null ],
+    [ "PrepareAuraScript", "da/d3d/a26481.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
+    [ "Register", "da/d3d/a26481.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
 ];

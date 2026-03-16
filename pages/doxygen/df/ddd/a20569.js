@@ -1,5 +1,7 @@
 var a20569 =
 [
-    [ "achievement_iron_dwarf_medium_rare", "df/ddd/a20569.html#afb3716aab7693ba0493db24999e4b1ee", null ],
-    [ "OnCheck", "df/ddd/a20569.html#aabef3a345057265ac70c6cc0c98d552d", null ]
+    [ "StoneGripTargetSelector", "df/ddd/a20569.html#a74fc772e2bc0694dee05fe82de4463e2", null ],
+    [ "operator()", "df/ddd/a20569.html#ae40653def55e656f2347029a97605395", null ],
+    [ "_me", "df/ddd/a20569.html#ae5781d6b553491a1e3e8bfde2b965c3a", null ],
+    [ "_victim", "df/ddd/a20569.html#a09c3c6f832c20776f11b72a468a4b0bb", null ]
 ];

@@ -1,5 +1,8 @@
 var a28429 =
 [
-    [ "type", "dc/de5/a28429.html#af749459df7757d1bab17a54be813f6b6", null ],
-    [ "_type", "dc/de5/a28429.html#ab0344571616786baef4511c647a3abea", null ]
+    [ "npc_nelsonAI", "da/db5/a28433.html", "da/db5/a28433" ],
+    [ "npc_nelson", "dc/de5/a28429.html#ada597926a6db1aa7823ddabc19945b11", null ],
+    [ "GetAI", "dc/de5/a28429.html#a75fea281fb49249345c48236bf44b1c8", null ],
+    [ "OnGossipHello", "dc/de5/a28429.html#aa693b365a15d4617f214f9c3c229bf89", null ],
+    [ "OnGossipSelect", "dc/de5/a28429.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
 ];

@@ -1,6 +1,6 @@
 var a16569 =
 [
-    [ "npc_argent_soldierAI", "df/d81/a16573.html", "df/d81/a16573" ],
-    [ "npc_argent_soldier", "d9/d62/a16569.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
-    [ "GetAI", "d9/d62/a16569.html#adfeed3d533104b9617dfbb06925a3d44", null ]
+    [ "boss_twilight_halionAI", "df/d81/a16573.html", "df/d81/a16573" ],
+    [ "boss_twilight_halion", "d9/d62/a16569.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
+    [ "GetAI", "d9/d62/a16569.html#a56842d74b16cbd5636649cbc643c50d8", null ]
 ];

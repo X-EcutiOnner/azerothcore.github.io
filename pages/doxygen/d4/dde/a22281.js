@@ -1,6 +1,6 @@
 var a22281 =
 [
-    [ "FilterTargets", "d4/dde/a22281.html#a4d81860c41daab44851da605d38b4753", null ],
-    [ "PrepareSpellScript", "d4/dde/a22281.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
-    [ "Register", "d4/dde/a22281.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "d4/dde/a22281.html#afd54b130725aa724b80f150f968ce09d", null ],
+    [ "MovementInform", "d4/dde/a22281.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
+    [ "PassengerBoarded", "d4/dde/a22281.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
 ];

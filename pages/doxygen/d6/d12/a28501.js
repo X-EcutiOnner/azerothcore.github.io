@@ -1,11 +1,9 @@
 var a28501 =
 [
-    [ "CalcPeriodic", "d6/d12/a28501.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
-    [ "CalculateAPAmount", "d6/d12/a28501.html#a72bd308dbeaa7eca5685f3e5055d7fad", null ],
-    [ "CalculateResistanceAmount", "d6/d12/a28501.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
-    [ "CalculateSPAmount", "d6/d12/a28501.html#a114c868f0dc31f3370588b1bd1f18894", null ],
-    [ "CalculateStatAmount", "d6/d12/a28501.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
-    [ "HandlePeriodic", "d6/d12/a28501.html#af5076795e8bf6abd45590a060f9e5b52", null ],
-    [ "PrepareAuraScript", "d6/d12/a28501.html#aa512873852c0eea9947472fcb60fbfc2", null ],
-    [ "Register", "d6/d12/a28501.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
+    [ "npc_chicken_cluckAI", "d6/d12/a28501.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
+    [ "JustEngagedWith", "d6/d12/a28501.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
+    [ "ReceiveEmote", "d6/d12/a28501.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
+    [ "Reset", "d6/d12/a28501.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
+    [ "UpdateAI", "d6/d12/a28501.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
+    [ "ResetFlagTimer", "d6/d12/a28501.html#a0d0507ae7a1eca369df288515856e1b5", null ]
 ];

@@ -1,6 +1,5 @@
 var a20685 =
 [
-    [ "OnRemove", "dd/dc8/a20685.html#a492bd9e9c82937e00897e19362b40901", null ],
-    [ "PrepareAuraScript", "dd/dc8/a20685.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
-    [ "Register", "dd/dc8/a20685.html#adfcaf82ff48225ea0e0314d421795644", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_13", "dd/dc8/a20685.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
+    [ "OnCheck", "dd/dc8/a20685.html#ac91196d094f159932ad871ffa9c0f405", null ]
 ];

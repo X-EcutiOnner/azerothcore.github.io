@@ -1,6 +1,7 @@
 var a27573 =
 [
-    [ "npc_necropolis_relay", "d3/dc9/a27573.html#a044958acd1449d664532aeea7d0cb2fd", null ],
-    [ "SpellHit", "d3/dc9/a27573.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
-    [ "SpellHitTarget", "d3/dc9/a27573.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
+    [ "CheckProc", "d3/dc9/a27573.html#a982264a8ea20344b66269a3edd814db7", null ],
+    [ "HandleProc", "d3/dc9/a27573.html#adf79a132d1ae20e27b07dc77e103fb3c", null ],
+    [ "PrepareAuraScript", "d3/dc9/a27573.html#abd0ac0c324e3323140812c7d4c937e1e", null ],
+    [ "Register", "d3/dc9/a27573.html#ac24fe502aa899f953b694fe3ebf46012", null ]
 ];

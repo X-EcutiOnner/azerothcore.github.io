@@ -1,7 +1,8 @@
 var a19041 =
 [
-    [ "Land", "d6/dab/a19041.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
-    [ "PrepareSpellScript", "d6/dab/a19041.html#a31e45adb87719c311fb5b94b2b744487", null ],
-    [ "Register", "d6/dab/a19041.html#a652eca6ec8079b2835d911807857c8a8", null ],
-    [ "RemoveAliveTarget", "d6/dab/a19041.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
+    [ "FilterTargets", "d6/dab/a19041.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
+    [ "HandleForceCast", "d6/dab/a19041.html#ae783cf255be823bf7c9125f288479e97", null ],
+    [ "Load", "d6/dab/a19041.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
+    [ "PrepareSpellScript", "d6/dab/a19041.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
+    [ "Register", "d6/dab/a19041.html#a454a8909be4bb85f255ea696041ea447", null ]
 ];

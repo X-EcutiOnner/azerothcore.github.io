@@ -1,5 +1,6 @@
 var a25125 =
 [
-    [ "PrepareSpellScript", "df/d23/a25125.html#a7478d96ac24bc4b70a10bc83335c9b76", null ],
-    [ "Register", "df/d23/a25125.html#ab3ab9557cd1969fd977a3df6f2c59d7c", null ]
+    [ "CheckAreaTarget", "df/d23/a25125.html#a90761b0145ea9d4178e77eb5e15a8ba6", null ],
+    [ "PrepareAuraScript", "df/d23/a25125.html#afbc45652033397067a439b45afd2e90e", null ],
+    [ "Register", "df/d23/a25125.html#aa24679e1243470056f74249e1b26767d", null ]
 ];

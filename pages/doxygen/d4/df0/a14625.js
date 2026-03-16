@@ -1,8 +1,8 @@
 var a14625 =
 [
-    [ "OnApply", "d4/df0/a14625.html#a6f3f05316f025ef638672a82cc855136", null ],
-    [ "PeriodicTick", "d4/df0/a14625.html#a051d292f9483e6b82d773fba3ab52460", null ],
-    [ "PrepareAuraScript", "d4/df0/a14625.html#ab8face95be60d7c5ba3fe15f0d05de25", null ],
-    [ "Register", "d4/df0/a14625.html#a0004de73250b8523db2b9ab714c8a246", null ],
-    [ "Validate", "d4/df0/a14625.html#aae1809dd5bc8baa06ee079a6d2a8b940", null ]
+    [ "boss_venoxis", "d4/df0/a14625.html#a3e91a9022163a726cbc077d38459a5f5", null ],
+    [ "InitializeAI", "d4/df0/a14625.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
+    [ "JustDied", "d4/df0/a14625.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
+    [ "JustEngagedWith", "d4/df0/a14625.html#afaa68ffbd5fecae48a044009326bcaed", null ],
+    [ "Reset", "d4/df0/a14625.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
 ];

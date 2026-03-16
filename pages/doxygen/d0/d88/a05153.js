@@ -1,6 +1,9 @@
 var a05153 =
 [
-    [ "TriBoundFunc", "d0/d88/a05153.html#a42711c10595c048420a09e35e3345229", null ],
-    [ "operator()", "d0/d88/a05153.html#a026d443e9156f884a21351700b6c69dd", null ],
-    [ "vertices", "d0/d88/a05153.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb", null ]
+    [ "DynamicTreeIntersectionCallback", "d0/d88/a05153.html#a77d71c68e20f4d19059317b307c27441", null ],
+    [ "didHit", "d0/d88/a05153.html#a616d15c3cce00574d604591bc8af4140", null ],
+    [ "operator()", "d0/d88/a05153.html#a9927d15de557ef58b7e4046e830f8dad", null ],
+    [ "_didHit", "d0/d88/a05153.html#a1805d508be79660d90f991e4453c2c9a", null ],
+    [ "_ignoreFlags", "d0/d88/a05153.html#a6559c66c8451c32078187a1c43b3a85e", null ],
+    [ "_phaseMask", "d0/d88/a05153.html#a52e7470145db9cc4c2369024fbf7bbb8", null ]
 ];

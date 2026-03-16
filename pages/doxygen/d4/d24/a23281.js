@@ -1,7 +1,6 @@
 var a23281 =
 [
-    [ "OnApply", "d4/d24/a23281.html#a301e47da9be4b4a449701c59c19bc62b", null ],
-    [ "PrepareAuraScript", "d4/d24/a23281.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
-    [ "Register", "d4/d24/a23281.html#aaf38547f7fa233b03429734dbe374f13", null ],
-    [ "Validate", "d4/d24/a23281.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
+    [ "go_ahune_ice_stone", "d4/d24/a23281.html#ab7b665f01da80751ea97705c5113bde7", null ],
+    [ "GossipSelect", "d4/d24/a23281.html#aadb4db41ed84922c0a2d0463b8616876", null ],
+    [ "_instance", "d4/d24/a23281.html#a43651f471ac777b59fb8ba67b830cd35", null ]
 ];

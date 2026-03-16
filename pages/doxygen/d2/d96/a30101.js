@@ -1,10 +1,7 @@
 var a30101 =
 [
-    [ "ID", "d2/d96/a30101.html#a090069d13cbbcc5762ecca600c506492", null ],
-    [ "map_id", "d2/d96/a30101.html#a685931e2a361f9e0fc81c004c7467d19", null ],
-    [ "MountCreatureID", "d2/d96/a30101.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
-    [ "name", "d2/d96/a30101.html#ae00db3ea736c3a470f6f0690c178e758", null ],
-    [ "x", "d2/d96/a30101.html#a7cbd40848094fa367862d653b0f7170d", null ],
-    [ "y", "d2/d96/a30101.html#a9380befd45cab3104003b2487464bd71", null ],
-    [ "z", "d2/d96/a30101.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
+    [ "Paths", "d2/d96/a30101.html#aff167c694a55441bcf5504f5d1933f41", null ],
+    [ "References", "d2/d96/a30101.html#a07f0d7daa9cd934768b8a603dc52bea3", null ],
+    [ "Sets", "d2/d96/a30101.html#a43774f8dd70e85e16aa8d49b5c6a25b6", null ],
+    [ "Spawns", "d2/d96/a30101.html#a51f24c059516683f0744b81819186c0e", null ]
 ];

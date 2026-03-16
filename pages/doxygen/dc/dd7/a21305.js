@@ -1,8 +1,6 @@
 var a21305 =
 [
-    [ "npc_azure_captainAI", "dc/dd7/a21305.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
-    [ "Reset", "dc/dd7/a21305.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
-    [ "UpdateAI", "dc/dd7/a21305.html#ae50ac21138e12be43caa93e37062051e", null ],
-    [ "uiMortalStrikeTimer", "dc/dd7/a21305.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
-    [ "uiWhirlwindTimer", "dc/dd7/a21305.html#a2e3439976a6e84a60be765cb0b929798", null ]
+    [ "instance_vault_of_archavon_InstanceMapScript", "de/df5/a21309.html", "de/df5/a21309" ],
+    [ "instance_vault_of_archavon", "dc/dd7/a21305.html#a0be8d95ff0f3b751e6f833689e436310", null ],
+    [ "GetInstanceScript", "dc/dd7/a21305.html#abb955a8873a3a3021e164225dd1f857a", null ]
 ];

@@ -1,6 +1,7 @@
 var a18189 =
 [
-    [ "npc_gas_cloudAI", "dd/d36/a18189.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
-    [ "CastMainSpell", "dd/d36/a18189.html#a61681f6f9616fe33274302d4160c709b", null ],
-    [ "_newTargetSelectTimer", "dd/d36/a18189.html#a6989b904abaa5b71362e43664f4b084d", null ]
+    [ "DamageGunship", "dd/d36/a18189.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
+    [ "PrepareSpellScript", "dd/d36/a18189.html#aa698d016ae58d665c081976f20ec0385", null ],
+    [ "Register", "dd/d36/a18189.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
+    [ "Validate", "dd/d36/a18189.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
 ];

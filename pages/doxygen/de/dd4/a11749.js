@@ -1,25 +1,10 @@
 var a11749 =
 [
-    [ "DiffTableArray", "de/dd4/a11749.html#a38ae34827b0de71df0eeb31c1af9e07e", null ],
-    [ "UpdateTime", "de/dd4/a11749.html#a5ca37c4eb70f9131276099b65256243b", null ],
-    [ "GetAverageUpdateTime", "de/dd4/a11749.html#a12ec461e5d33845ed375c0965fb024ae", null ],
-    [ "GetDatasetSize", "de/dd4/a11749.html#a2073ed7e673a5db381432267861d64ec", null ],
-    [ "GetLastUpdateTime", "de/dd4/a11749.html#a28ab3fb6bd445bf1b36f7cb3b73acff2", null ],
-    [ "GetMaxUpdateTime", "de/dd4/a11749.html#ab5b77fcf7746e613e2997601fac659fc", null ],
-    [ "GetMaxUpdateTimeOfCurrentTable", "de/dd4/a11749.html#ab5f1c144429d1a8fe3937fd22cab8206", null ],
-    [ "GetPercentile", "de/dd4/a11749.html#a45b460f5fec335763e20bfe06fa33980", null ],
-    [ "GetTimeWeightedAverageUpdateTime", "de/dd4/a11749.html#a29b8d4c5394820b71aaf8864ba4b8327", null ],
-    [ "RecordUpdateTimeReset", "de/dd4/a11749.html#a9089665d344f9b0b4e85351dd04e0a5b", null ],
-    [ "SortUpdateTimeDataTable", "de/dd4/a11749.html#a451d39365491ae8d38816783865d2a75", null ],
-    [ "UpdateWithDiff", "de/dd4/a11749.html#a8837b608acde446f1eda813ca530c63f", null ],
-    [ "_averageUpdateTime", "de/dd4/a11749.html#a61337ef6e640cd4ce48019ba6cd4fafd", null ],
-    [ "_maxUpdateTime", "de/dd4/a11749.html#a65ff51e1503e11ac8f218876afb7afce", null ],
-    [ "_maxUpdateTimeOfCurrentTable", "de/dd4/a11749.html#ad44ab22d8f9cdbad920887109e52609a", null ],
-    [ "_maxUpdateTimeOfLastTable", "de/dd4/a11749.html#ae013fcb0d7df86c35d9caf355a6968ff", null ],
-    [ "_needsReorder", "de/dd4/a11749.html#ac3ccabe6dee6e0e2343fab39a971e888", null ],
-    [ "_orderedUpdateTimeDataTable", "de/dd4/a11749.html#a6cf15deccacbceff85216c7ceecd98b3", null ],
-    [ "_recordedTime", "de/dd4/a11749.html#a8736328e4f88bad027298a6d0bbf416c", null ],
-    [ "_totalUpdateTime", "de/dd4/a11749.html#a1158e0c65b46bd16c782b007bfc2fa3e", null ],
-    [ "_updateTimeDataTable", "de/dd4/a11749.html#abb8749ed72a0bd159034132fb2a8b628", null ],
-    [ "_updateTimeTableIndex", "de/dd4/a11749.html#acee0682ebe0d6c2097209262ebee6f80", null ]
+    [ "TargetHook", "de/dd4/a11749.html#afcada203ddd8752107c74bbf0e7c24eb", null ],
+    [ "CheckEffect", "de/dd4/a11749.html#af02ad1f1fb914aac52095d7e41f12c94", null ],
+    [ "GetTarget", "de/dd4/a11749.html#a238979ffaaa644bd65ffd4e7cb20d797", null ],
+    [ "ToString", "de/dd4/a11749.html#a424e03e457dc15a2689f344e614a882f", null ],
+    [ "area", "de/dd4/a11749.html#aceec6f0ea91d45a11233122c3bc843ed", null ],
+    [ "dest", "de/dd4/a11749.html#a28f2f6f3338a2c261ee754508ee48e60", null ],
+    [ "targetType", "de/dd4/a11749.html#aed2e0e651bdd5453d716db464ac0ab55", null ]
 ];

@@ -1,6 +1,7 @@
 var a10601 =
 [
-    [ "BuyBankSlotResult", "de/d3c/a10601.html#a93b60814becc451c38f06f9702a9e027", null ],
-    [ "Write", "de/d3c/a10601.html#a55a6609863b0d3ef966f222526268acb", null ],
-    [ "Result", "de/d3c/a10601.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
+    [ "InstanceMapScript", "de/d3c/a10601.html#a350d328f82cc5e7ea43f3c8779d25a67", null ],
+    [ "checkValidity", "de/d3c/a10601.html#a221dd91e2d2f761e66d990a6cae42306", null ],
+    [ "GetInstanceScript", "de/d3c/a10601.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8", null ],
+    [ "IsDatabaseBound", "de/d3c/a10601.html#ab77651bb427813a7e119057c3dc53ca8", null ]
 ];

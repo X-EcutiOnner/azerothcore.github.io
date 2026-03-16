@@ -1,7 +1,8 @@
 var a09457 =
 [
-    [ "FriendlyCCedInRange", "d4/d2c/a09457.html#ae8dcff3f285f208b0db8aa3efed202a1", null ],
-    [ "operator()", "d4/d2c/a09457.html#a0e241f930cee855664aeac3604d5c023", null ],
-    [ "i_obj", "d4/d2c/a09457.html#a73d3e29bbdc7fd4aa162be3cb7ecbe08", null ],
-    [ "i_range", "d4/d2c/a09457.html#a49e79f3aea0c7e8c321c9f297b71a9b2", null ]
+    [ "AIRelocationNotifier", "d4/d2c/a09457.html#ab19dba99802231bc1ba7b3ae3cb4bdb3", null ],
+    [ "Visit", "d4/d2c/a09457.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
+    [ "Visit", "d4/d2c/a09457.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
+    [ "i_unit", "d4/d2c/a09457.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
+    [ "isCreature", "d4/d2c/a09457.html#a199f4b91d00dd4db90855e5521d87a95", null ]
 ];

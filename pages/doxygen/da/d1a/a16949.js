@@ -1,5 +1,6 @@
 var a16949 =
 [
-    [ "npc_essence_of_twin", "da/d1a/a16949.html#a019de64e5e01e611acfda5db4c279b19", null ],
-    [ "OnGossipHello", "da/d1a/a16949.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
+    [ "npc_toc_warriorAI", "d5/da3/a16953.html", "d5/da3/a16953" ],
+    [ "npc_toc_warrior", "da/d1a/a16949.html#a3e969be07603ef59389106769010660c", null ],
+    [ "GetAI", "da/d1a/a16949.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
 ];

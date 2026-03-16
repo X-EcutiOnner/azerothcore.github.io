@@ -1,7 +1,7 @@
 var a18349 =
 [
-    [ "IceTombSummonEvent", "d5/dff/a18349.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
-    [ "Execute", "d5/dff/a18349.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
-    [ "_owner", "d5/dff/a18349.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
-    [ "_sindragosaGUID", "d5/dff/a18349.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
+    [ "HandleScript", "d5/dff/a18349.html#afc76149cb44a4d2aab48350fb4392036", null ],
+    [ "PrepareSpellScript", "d5/dff/a18349.html#a8598de219c2402596fe97b5dd32c534e", null ],
+    [ "Register", "d5/dff/a18349.html#ac9d4842632431e52932f66d09042ea70", null ],
+    [ "ScaleRange", "d5/dff/a18349.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
 ];

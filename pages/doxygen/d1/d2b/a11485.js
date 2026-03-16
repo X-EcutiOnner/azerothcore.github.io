@@ -1,8 +1,5 @@
 var a11485 =
 [
-    [ "ReflectEvent", "d1/d2b/a11485.html#a1669aec08a3a09143c57e4889c8fad08", null ],
-    [ "Execute", "d1/d2b/a11485.html#a37fb766d70932e8a431dba363c603531", null ],
-    [ "_caster", "d1/d2b/a11485.html#a67ec85597bb887e7b8cb31b818910d1a", null ],
-    [ "_spellInfo", "d1/d2b/a11485.html#ae05fc2092226695fa22dd1e72d58bc7b", null ],
-    [ "_targetGUID", "d1/d2b/a11485.html#aa9f8c7bf1e22c74f3d134df2cfc014b5", null ]
+    [ "amountCounter", "d1/d2b/a11485.html#af652ffc837bde625aa39e913ec2e2eec", null ],
+    [ "lastReceiveTime", "d1/d2b/a11485.html#ae0f3f2a90a24b48d239e3df3525f8fdc", null ]
 ];

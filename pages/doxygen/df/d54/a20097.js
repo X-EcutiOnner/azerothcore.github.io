@@ -1,7 +1,11 @@
 var a20097 =
 [
-    [ "boss_flame_leviathan_safety_container", "df/d54/a20097.html#a4519a6bf9c96ff13df4ae019b02f3593", null ],
-    [ "MovementInform", "df/d54/a20097.html#a42842de299fd9346cc0d61b649b652a4", null ],
-    [ "UpdateAI", "df/d54/a20097.html#a55119d077f905a8207ad2afbe31f17a4", null ],
-    [ "_allowTimer", "df/d54/a20097.html#a70134398c054c837407d6a22591a2d96", null ]
+    [ "npc_living_constellation", "df/d54/a20097.html#afb5daeb17d2a7c1ae6093ebac41addb7", null ],
+    [ "DoAction", "df/d54/a20097.html#a45ba20e86f9d3c041260c88130521a61", null ],
+    [ "GetData", "df/d54/a20097.html#ad698d91c81b0872385d9c5bee9ca8dd7", null ],
+    [ "Reset", "df/d54/a20097.html#a66e2b985ccc92ff996017ece6d4ef74c", null ],
+    [ "SpellHit", "df/d54/a20097.html#a402c1da5e1dfbeadd8413fa0d77146d5", null ],
+    [ "UpdateAI", "df/d54/a20097.html#a0f7faec1aa3c67b8f03076ae0a52169d", null ],
+    [ "_isActive", "df/d54/a20097.html#a810c918ac2523f04d8364f507e6c01bb", null ],
+    [ "events", "df/d54/a20097.html#aaa9152db699878d67e8b8288d729fca3", null ]
 ];

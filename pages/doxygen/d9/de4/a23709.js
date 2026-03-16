@@ -1,8 +1,10 @@
 var a23709 =
 [
-    [ "boss_mechano_lord_capacitus", "d9/de4/a23709.html#ab5867184d4e50a89a1afe25eb40e6bc3", null ],
-    [ "JustDied", "d9/de4/a23709.html#a596314e7aebcc9e2e7311b4e0850b817", null ],
-    [ "JustEngagedWith", "d9/de4/a23709.html#a4aa9ee50a942fe123acfdeee0350fa2d", null ],
-    [ "JustSummoned", "d9/de4/a23709.html#a9a0b2cac08002db63162f95b9476c251", null ],
-    [ "KilledUnit", "d9/de4/a23709.html#a6a408c654f91a44a40b3df52c0f2b093", null ]
+    [ "instance_arcatraz_InstanceMapScript", "d9/de4/a23709.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
+    [ "GetGuidData", "d9/de4/a23709.html#aa4bedf168359eaf5332476a6de99c830", null ],
+    [ "OnGameObjectCreate", "d9/de4/a23709.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
+    [ "SetBossState", "d9/de4/a23709.html#a2937e4ea47af542a476bd3399ecc7233", null ],
+    [ "SetData", "d9/de4/a23709.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
+    [ "StasisPodGUIDs", "d9/de4/a23709.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
+    [ "WardensShieldGUID", "d9/de4/a23709.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
 ];

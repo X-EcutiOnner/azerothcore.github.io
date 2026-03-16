@@ -1,8 +1,6 @@
 var a11069 =
 [
-    [ "PauseMirrorTimer", "d0/d19/a11069.html#a05ccc52cb56d38cadb27fbde2563df45", null ],
-    [ "PauseMirrorTimer", "d0/d19/a11069.html#ad6e7a6eb3edadc235dc5bb97802381ac", null ],
-    [ "Write", "d0/d19/a11069.html#aea61f9e668173b65eac3b9f42ddd68a1", null ],
-    [ "Paused", "d0/d19/a11069.html#a7adf6dcd7e712792ea94bad77f8be232", null ],
-    [ "Timer", "d0/d19/a11069.html#a4a041bf772ef3f145bde6be9f8ecdc13", null ]
+    [ "SetRaidDifficultyClient", "d0/d19/a11069.html#afba49b9e3994eb461ac1b827d0c0fac7", null ],
+    [ "Read", "d0/d19/a11069.html#a347a86f33f0c31a1c3279028d7dfc46c", null ],
+    [ "Mode", "d0/d19/a11069.html#a445a55f5069f60a184b119c57cfedf9a", null ]
 ];

@@ -1,6 +1,7 @@
 var a21117 =
 [
-    [ "npc_frozen_orbAI", "de/d49/a21121.html", "de/d49/a21121" ],
-    [ "npc_frozen_orb", "de/dce/a21117.html#ac14966722e39b2b6b3a907756701ed98", null ],
-    [ "GetAI", "de/dce/a21117.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
+    [ "HandleOnEffectRemove", "de/dce/a21117.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
+    [ "PrepareAuraScript", "de/dce/a21117.html#a72e6468602d40eb479a80c611d60eb2e", null ],
+    [ "Register", "de/dce/a21117.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
+    [ "Validate", "de/dce/a21117.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
 ];

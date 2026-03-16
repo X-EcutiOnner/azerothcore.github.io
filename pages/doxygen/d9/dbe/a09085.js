@@ -1,6 +1,7 @@
 var a09085 =
 [
-    [ "AreaMapType", "d9/dbe/a09085.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6", null ],
-    [ "areaMap", "d9/dbe/a09085.html#a21673b134ee6b5fb20bab06c3e1b2238", null ],
-    [ "gridArea", "d9/dbe/a09085.html#a37e8598e7a22dcb17637243fbeeecb0c", null ]
+    [ "EquipementIdPrev", "d9/dbe/a09085.html#a719c716f8914a200bfde4f5bb3275f26", null ],
+    [ "EquipmentId", "d9/dbe/a09085.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
+    [ "ModelId", "d9/dbe/a09085.html#ade2b2413020be410428b9fee9aa284d6", null ],
+    [ "ModelIdPrev", "d9/dbe/a09085.html#a9de7aa11788b22692738b72718193057", null ]
 ];

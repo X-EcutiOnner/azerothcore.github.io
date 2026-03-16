@@ -1,5 +1,6 @@
 var a22285 =
 [
-    [ "OutdoorPvP_eastern_plaguelands", "da/dfa/a22285.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
-    [ "GetOutdoorPvP", "da/dfa/a22285.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
+    [ "CheckCast", "da/dfa/a22285.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
+    [ "PrepareSpellScript", "da/dfa/a22285.html#ab4025d8a4acee4723dcca972bce01f45", null ],
+    [ "Register", "da/dfa/a22285.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
 ];

@@ -1,6 +1,5 @@
 var a29373 =
 [
-    [ "npc_fireworkAI", "d0/d36/a29377.html", "d0/d36/a29377" ],
-    [ "npc_firework", "d0/de2/a29373.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
-    [ "GetAI", "d0/de2/a29373.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
+    [ "Price", "d0/de2/a29373.html#a9cf01cf0d41d49613b4ceaf1eeb1716b", null ],
+    [ "Slot", "d0/de2/a29373.html#aa53247914bda0ceca015b8b9ca117379", null ]
 ];

@@ -1,6 +1,7 @@
 var a24897 =
 [
-    [ "CheckRequirement", "d2/da0/a24897.html#a8a1367ad6c51a74e7cefbc2440eab697", null ],
-    [ "PrepareSpellScript", "d2/da0/a24897.html#a859ac50e6774471c232113e5c007f602", null ],
-    [ "Register", "d2/da0/a24897.html#aceafb7d6cfa300011935026f4d7ac491", null ]
+    [ "HandleProc", "d2/da0/a24897.html#a0f6b9ad6208ff008ac71161e6062158f", null ],
+    [ "PrepareAuraScript", "d2/da0/a24897.html#a3dad1a05159064843463c3d043f2c161", null ],
+    [ "Register", "d2/da0/a24897.html#a0ab7dd9dc217b31ca1f9b25505f6b22e", null ],
+    [ "Validate", "d2/da0/a24897.html#ab7b1f2a007eef4dca7194dc534a5e6fe", null ]
 ];

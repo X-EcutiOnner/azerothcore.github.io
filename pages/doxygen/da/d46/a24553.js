@@ -1,9 +1,9 @@
 var a24553 =
 [
-    [ "Absorb", "da/d46/a24553.html#a8f6e773840274e07d685c891561f72d8", null ],
-    [ "CalculateAmount", "da/d46/a24553.html#af337ef5d5cea283f4e43b943961838d6", null ],
-    [ "Load", "da/d46/a24553.html#a65f51613dd3614f5b0e3e1dc938f56cf", null ],
-    [ "PrepareAuraScript", "da/d46/a24553.html#a5c2eca05834a29fa6d5d7dd3c75e52ed", null ],
-    [ "Register", "da/d46/a24553.html#a80982626e1b67374629cb6e0800ccaea", null ],
-    [ "absorbPct", "da/d46/a24553.html#a7ce98d22bb4a28f94366b4c08f76b61a", null ]
+    [ "HandleAfterHit", "da/d46/a24553.html#ae1b4b01bd1a6903bcd594d2191e2770b", null ],
+    [ "Load", "da/d46/a24553.html#a7f0dae9dd4ead6ea10e8343810671282", null ],
+    [ "PrepareSpellScript", "da/d46/a24553.html#a293ff5d232851bce7cbc4a83aa8253b5", null ],
+    [ "Register", "da/d46/a24553.html#ae9eeb78d006bc01dd05fdd726dea9b90", null ],
+    [ "Validate", "da/d46/a24553.html#afdbb71f81aacc9ac1a5119707952ec52", null ],
+    [ "_executed", "da/d46/a24553.html#a2fe77cc280a5fa3bb324d969f1081b65", null ]
 ];

@@ -1,6 +1,7 @@
 var a11633 =
 [
-    [ "CheckAreaTargetHandler", "d7/d9e/a11633.html#a641b633e37079949c8b1b71a32f4222e", null ],
-    [ "Call", "d7/d9e/a11633.html#ab434cb7ba8927c16e2b63c2ad8ae9a25", null ],
-    [ "pHandlerScript", "d7/d9e/a11633.html#a7c1e677d10a89ea7f1ea06f8de10e0f9", null ]
+    [ "SpellImmune", "d7/d9e/a11633.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
+    [ "blockType", "d7/d9e/a11633.html#a13a353d02a7330820df170eb46e7a26d", null ],
+    [ "spellId", "d7/d9e/a11633.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
+    [ "type", "d7/d9e/a11633.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
 ];

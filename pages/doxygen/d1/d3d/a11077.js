@@ -1,5 +1,6 @@
 var a11077 =
 [
-    [ "DurabilityDamageDeath", "d1/d3d/a11077.html#a9b4350d37291b9b714be1563b28dcb43", null ],
-    [ "Write", "d1/d3d/a11077.html#a35a93d9abeeb029f3da080487423f495", null ]
+    [ "InstanceLockResponse", "d1/d3d/a11077.html#a375d48ef2bc703f0223db82738016c6e", null ],
+    [ "Read", "d1/d3d/a11077.html#a954b3d4521bc48ba5ee9807cc935e484", null ],
+    [ "Accept", "d1/d3d/a11077.html#a23cd7f483abfaede6df7a51b083a4477", null ]
 ];

@@ -1,9 +1,8 @@
 var a10057 =
 [
-    [ "ChaseAngle", "d5/d56/a10057.html#a0744c615f437514a52b5a26fb717013a", null ],
-    [ "IsAngleOkay", "d5/d56/a10057.html#aec86c653850655b723e5224ea20b0e21", null ],
-    [ "LowerBound", "d5/d56/a10057.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
-    [ "UpperBound", "d5/d56/a10057.html#a275d01ce57b23d42d4150b10c8433dee", null ],
-    [ "RelativeAngle", "d5/d56/a10057.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
-    [ "Tolerance", "d5/d56/a10057.html#a2bb42885da594380cb742c29b6518ea3", null ]
+    [ "BoundaryUnionBoundary", "d5/d56/a10057.html#a074536112fffc805dec44bd9cd602642", null ],
+    [ "~BoundaryUnionBoundary", "d5/d56/a10057.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
+    [ "IsWithinBoundaryArea", "d5/d56/a10057.html#a8dc91861fa6641008236e5a83030e0d1", null ],
+    [ "_b1", "d5/d56/a10057.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
+    [ "_b2", "d5/d56/a10057.html#ae70530673803bd2ee85bf722fe42718b", null ]
 ];

@@ -1,18 +1,8 @@
 var a08961 =
 [
-    [ "CalculateAutumnEquinox", "d5/da8/a08961.html#a266780f29cf8969f74aa1e7ba56c71f6", null ],
-    [ "CalculateEasterSunday", "d5/da8/a08961.html#a7877b9590552f951cebda62021634445", null ],
-    [ "CalculateHolidayDate", "d5/da8/a08961.html#a101d5befdf785359441da4cf7b577b32", null ],
-    [ "CalculateLunarNewYear", "d5/da8/a08961.html#a341be2e060a41c0be7a70fdabe608c6b", null ],
-    [ "CalculateNewMoon", "d5/da8/a08961.html#a6db890c706217c35c8579a0d14e240c4", null ],
-    [ "CalculateNthWeekday", "d5/da8/a08961.html#a4e98186819af811251e80e69ae96c13b", null ],
-    [ "CalculateWeekdayOnOrAfter", "d5/da8/a08961.html#af29aa127743e914f29ed413a13fca808", null ],
-    [ "CalculateWinterSolstice", "d5/da8/a08961.html#aeeb30fa2ae99b92963b2c7309d0314e7", null ],
-    [ "DateToJulianDay", "d5/da8/a08961.html#a8895f79fb06caa15c3bd4b7341dc769d", null ],
-    [ "GetDarkmoonFaireDates", "d5/da8/a08961.html#a6e27a5ec3e65f21f17a9f2a61cc23022", null ],
-    [ "GetHolidayRules", "d5/da8/a08961.html#af9cc71880618916280c3b783001f9a09", null ],
-    [ "GetPackedHolidayDate", "d5/da8/a08961.html#a787a8a7a5316fee2f488ba60e62ac6ea", null ],
-    [ "JulianDayToDate", "d5/da8/a08961.html#a133ee41b0b50d9eed90cd185aeec24c1", null ],
-    [ "PackDate", "d5/da8/a08961.html#ab39f6c1b37867d57464a6243c14e3610", null ],
-    [ "UnpackDate", "d5/da8/a08961.html#a9a1229709b2406953d4627e753a543b3", null ]
+    [ "DiminishingReturn", "d5/da8/a08961.html#acd4828637710636d0164fced285c854d", null ],
+    [ "DRGroup", "d5/da8/a08961.html#add3ab95d65e283a326e1922129941ae4", null ],
+    [ "hitCount", "d5/da8/a08961.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
+    [ "hitTime", "d5/da8/a08961.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
+    [ "stack", "d5/da8/a08961.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
 ];

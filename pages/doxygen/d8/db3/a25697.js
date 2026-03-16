@@ -1,9 +1,10 @@
 var a25697 =
 [
-    [ "CheckCast", "d8/db3/a25697.html#af92fe276563a8ca0d939d881dba8adda", null ],
-    [ "HandleDummy", "d8/db3/a25697.html#a86b4413dd25f96fb197604007171a8d1", null ],
-    [ "Load", "d8/db3/a25697.html#ab1800d2550b944dcfa9967cc0e79c5ee", null ],
-    [ "PrepareSpellScript", "d8/db3/a25697.html#a47aa868fbabee8a3988bcc93402b8cfb", null ],
-    [ "Register", "d8/db3/a25697.html#a1b4ff1b3b518a2e4bad1836de6793561", null ],
-    [ "Validate", "d8/db3/a25697.html#a8d0c2f18927e811f3d3cdee94e3623c0", null ]
+    [ "CheckPeriodicProc", "d8/db3/a25697.html#abd7673f268b80681b27a862bd8013de3", null ],
+    [ "CheckProc", "d8/db3/a25697.html#a439aa5395d222291fbd5943f853d8961", null ],
+    [ "CheckTrapProc", "d8/db3/a25697.html#a0cbe419bde5ebc30dc599bbdd99d04eb", null ],
+    [ "HandleProc", "d8/db3/a25697.html#a70fbabc5f07bfff080fe9af6f12d440e", null ],
+    [ "PrepareAuraScript", "d8/db3/a25697.html#a475320d20875b2d710ed3734b78f4645", null ],
+    [ "Register", "d8/db3/a25697.html#aca7649a87ace4e22793ca33705b1500c", null ],
+    [ "Validate", "d8/db3/a25697.html#a45630b6dc703996321286ff16a17e3e3", null ]
 ];

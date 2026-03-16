@@ -1,7 +1,6 @@
 var a10949 =
 [
-    [ "AutoEquipItemSlot", "d6/d4d/a10949.html#aa51f40a4172ac41548ec6199bc84375d", null ],
-    [ "Read", "d6/d4d/a10949.html#ade6a15026e9c461b38301edf79f367be", null ],
-    [ "DestinationSlot", "d6/d4d/a10949.html#a683a9bd141b2f99db431de2ae7d213e3", null ],
-    [ "ItemGuid", "d6/d4d/a10949.html#a9d4da587061833262acff66674d3ac41", null ]
+    [ "GuildOfficerRemoveMember", "d6/d4d/a10949.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
+    [ "Read", "d6/d4d/a10949.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
+    [ "Removee", "d6/d4d/a10949.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
 ];

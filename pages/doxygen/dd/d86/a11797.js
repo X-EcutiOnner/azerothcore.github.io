@@ -1,9 +1,6 @@
 var a11797 =
 [
-    [ "bytes", "dd/d86/a11797.html#a3a2997d203c186bc3cd54a9ba4235319", null ],
-    [ "bytes", "dd/d86/a11797.html#a8484412ccb13cf396a4dc28b86f65b4e", null ],
-    [ "bytes", "dd/d86/a11797.html#a2743b5da8366ea651923bf7f3332bc32", null ],
-    [ "ints", "dd/d86/a11797.html#a0518eb4b0a91697500a5a370068425a8", null ],
-    [ "ints", "dd/d86/a11797.html#a08efba5e78b64fef020453f689bcc5f0", null ],
-    [ "ints", "dd/d86/a11797.html#a0506a09adc966923adb490153f095f84", null ]
+    [ "EffectCalcSpellModHandler", "dd/d86/a11797.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
+    [ "Call", "dd/d86/a11797.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
+    [ "pEffectHandlerScript", "dd/d86/a11797.html#a15c0b24641cb04f31bb3d651dae59448", null ]
 ];

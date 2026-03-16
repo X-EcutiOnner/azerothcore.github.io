@@ -1,7 +1,9 @@
 var a22817 =
 [
-    [ "HandleOnHit", "d1/dac/a22817.html#a9f368396cef39ba3bd70480f11c44700", null ],
-    [ "PrepareSpellScript", "d1/dac/a22817.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
-    [ "Register", "d1/dac/a22817.html#a99f80adcebdd9726a8df51f99d415651", null ],
-    [ "Validate", "d1/dac/a22817.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
+    [ "HandleAfterCast", "d1/dac/a22817.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
+    [ "HandleDummy", "d1/dac/a22817.html#ae94594e337c2e0e6864f3723df8349bf", null ],
+    [ "Load", "d1/dac/a22817.html#a301008eff6b13a43070b3916925391ae", null ],
+    [ "PrepareSpellScript", "d1/dac/a22817.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
+    [ "Register", "d1/dac/a22817.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
+    [ "_targetCount", "d1/dac/a22817.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
 ];

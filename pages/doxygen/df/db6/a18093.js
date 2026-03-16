@@ -1,12 +1,8 @@
 var a18093 =
 [
-    [ "npc_darnavanAI", "df/db6/a18093.html#ae06019c24910c873877398f29f5a1737", null ],
-    [ "JustDied", "df/db6/a18093.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
-    [ "JustEngagedWith", "df/db6/a18093.html#acbaedacea5ad19d82002c25b68623a27", null ],
-    [ "MovementInform", "df/db6/a18093.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
-    [ "Reset", "df/db6/a18093.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
-    [ "UpdateAI", "df/db6/a18093.html#a2b3b5e168989db21fc047acaf01413d9", null ],
-    [ "_canCharge", "df/db6/a18093.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
-    [ "_canShatter", "df/db6/a18093.html#aa7750edc8051c8ee453143491dccf122", null ],
-    [ "events", "df/db6/a18093.html#aa8a022ccb1367432480f72d305c752ac", null ]
+    [ "npc_gunship_mageAI", "df/db6/a18093.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
+    [ "AttackStart", "df/db6/a18093.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
+    [ "CanAIAttack", "df/db6/a18093.html#aadcb217a9df96bee02287d75a23e32c2", null ],
+    [ "MovementInform", "df/db6/a18093.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
+    [ "UpdateAI", "df/db6/a18093.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
 ];

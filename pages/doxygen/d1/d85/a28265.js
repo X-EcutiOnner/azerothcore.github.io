@@ -1,7 +1,6 @@
 var a28265 =
 [
-    [ "Flags", "d1/d85/a28265.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
-    [ "ID", "d1/d85/a28265.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
-    [ "RangeMax", "d1/d85/a28265.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
-    [ "RangeMin", "d1/d85/a28265.html#a127a46f2382edea750ca567d5ea3d304", null ]
+    [ "go_bashir_crystalforge", "d1/d85/a28265.html#a8b68a63933e14d82198580912fddc280", null ],
+    [ "OnGossipHello", "d1/d85/a28265.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
+    [ "OnGossipSelect", "d1/d85/a28265.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
 ];

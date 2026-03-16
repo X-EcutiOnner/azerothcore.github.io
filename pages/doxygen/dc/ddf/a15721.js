@@ -1,7 +1,6 @@
 var a15721 =
 [
-    [ "npc_kerlonianAI", "d3/d8b/a15725.html", "d3/d8b/a15725" ],
-    [ "npc_kerlonian", "dc/ddf/a15721.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
-    [ "GetAI", "dc/ddf/a15721.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
-    [ "OnQuestAccept", "dc/ddf/a15721.html#a257d24295318605ac2fd5554315dfd63", null ]
+    [ "HandleOnHit", "dc/ddf/a15721.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
+    [ "PrepareSpellScript", "dc/ddf/a15721.html#a9e568a1608715973fc438ff5e4356714", null ],
+    [ "Register", "dc/ddf/a15721.html#a752d697aada626440fdff2bd889f890f", null ]
 ];

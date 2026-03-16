@@ -1,4 +1,4 @@
 var a04835 =
 [
-    [ "DBCStorageIterator< T >", "dd/d27/a28742.html", "dd/d27/a28742" ]
+    [ "DBCDatabaseLoader", "db/d0c/a28717.html", "db/d0c/a28717" ]
 ];

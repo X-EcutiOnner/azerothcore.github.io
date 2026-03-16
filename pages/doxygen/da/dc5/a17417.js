@@ -1,6 +1,7 @@
 var a17417 =
 [
-    [ "npc_pos_martin_or_gorkun_secondAI", "d9/d3d/a17421.html", "d9/d3d/a17421" ],
-    [ "npc_pos_martin_or_gorkun_second", "da/dc5/a17417.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
-    [ "GetAI", "da/dc5/a17417.html#a180936e3bb98eb55d29ebd51350906c0", null ]
+    [ "npc_hor_leader_secondAI", "d9/d3d/a17421.html", "d9/d3d/a17421" ],
+    [ "npc_hor_leader_second", "da/dc5/a17417.html#a9fa1f38ab8a0b5d2207857b75e272ee0", null ],
+    [ "GetAI", "da/dc5/a17417.html#af5b97ecca35501a75658919d384a18f7", null ],
+    [ "OnGossipSelect", "da/dc5/a17417.html#a8355f7f2f8e7655c7ebc7145a847ab87", null ]
 ];

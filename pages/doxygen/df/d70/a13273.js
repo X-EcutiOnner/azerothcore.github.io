@@ -1,6 +1,6 @@
 var a13273 =
 [
-    [ "npc_scarlet_ghoulAI", "d8/d20/a13277.html", "d8/d20/a13277" ],
-    [ "npc_scarlet_ghoul", "df/d70/a13273.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
-    [ "GetAI", "df/d70/a13273.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
+    [ "instance_karazhan_InstanceMapScript", "d8/d20/a13277.html", "d8/d20/a13277" ],
+    [ "instance_karazhan", "df/d70/a13273.html#a219fa0f5d691c2ae06a45d167c89d419", null ],
+    [ "GetInstanceScript", "df/d70/a13273.html#a4ce148ba13d0541ad2aaecdd1ed2f3a5", null ]
 ];

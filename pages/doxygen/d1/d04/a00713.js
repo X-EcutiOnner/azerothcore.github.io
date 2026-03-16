@@ -1,10 +1,10 @@
 var a00713 =
 [
-    [ "BfCapturePoint", "d9/d20/a07410.html", "d9/d20/a07410" ],
-    [ "BfGraveyard", "d4/da1/a07414.html", "d4/da1/a07414" ],
-    [ "Battlefield", "d8/d85/a07418.html", "d8/d85/a07418" ],
-    [ "GraveyardVect", "d1/d04/a00713.html#a3c001cdd2e1b762c5c2bdd6814e59f6c", null ],
-    [ "PlayerTimerMap", "d1/d04/a00713.html#a0467dc30f5bb6a1c9ee1487a3aced1a1", null ],
+    [ "BfCapturePoint", "d4/dd6/a07401.html", "d4/dd6/a07401" ],
+    [ "BfGraveyard", "d0/d3b/a07405.html", "d0/d3b/a07405" ],
+    [ "Battlefield", "da/d3a/a07409.html", "da/d3a/a07409" ],
+    [ "GraveyardVect", "d1/d04/a00713.html#a9d81160ef5262b2f7a9dc65170d7f3e5", null ],
+    [ "PlayerTimerMap", "d1/d04/a00713.html#afedbb171b4e4bd0bce549b015440ce95", null ],
     [ "BattlefieldIDs", "d1/d04/a00713.html#aff53bf428d550c270744c9a188d4187f", [
       [ "BATTLEFIELD_BATTLEID_WG", "d1/d04/a00713.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010", null ]
     ] ],

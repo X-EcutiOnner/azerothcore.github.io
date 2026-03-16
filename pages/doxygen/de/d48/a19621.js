@@ -1,5 +1,19 @@
 var a19621 =
 [
-    [ "achievement_intense_cold", "de/d48/a19621.html#a2377357d6bfc03e5b91354428d3da3de", null ],
-    [ "OnCheck", "de/d48/a19621.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
+    [ "boss_razuviousAI", "de/d48/a19621.html#a6c5b5a7bc419b30a8814ada3f95f0c3a", null ],
+    [ "DamageTaken", "de/d48/a19621.html#a4d20aa2066110c45ea06024dda04bb32", null ],
+    [ "JustDied", "de/d48/a19621.html#addd5c34675473b78e1785a8122a6ccd2", null ],
+    [ "JustEngagedWith", "de/d48/a19621.html#a9e9137c0c730435f2b2b3e8a731878e8", null ],
+    [ "JustSummoned", "de/d48/a19621.html#a3126cc2c35dc81a76b43d615bfa1bc4f", null ],
+    [ "KilledUnit", "de/d48/a19621.html#ab49711d40ea8ecbbf3a1fbab96569cc4", null ],
+    [ "MovementInform", "de/d48/a19621.html#a40a022ee337caaf0bb59f4beb8d9d3e8", null ],
+    [ "Reset", "de/d48/a19621.html#ae5b2e00b170a57b194b21445484c10bc", null ],
+    [ "ScheduleInteractWithDeathKnight", "de/d48/a19621.html#a5cdc692e17c3d331f1f1b12c8160408e", null ],
+    [ "ScheduleRP", "de/d48/a19621.html#a298fca0637eb5191e39f6010adc78c43", null ],
+    [ "SpawnHelpers", "de/d48/a19621.html#af2ec0fb6a5d5fe0c165f309a5ca22ff3", null ],
+    [ "SpellHit", "de/d48/a19621.html#a1c80a6d94af3ed794c25351484ae08ac", null ],
+    [ "UpdateAI", "de/d48/a19621.html#a4ea0982f190aa21077b6237cac4e4368", null ],
+    [ "_rpBuddyGUID", "de/d48/a19621.html#a06f80f3eac58b1cdc800bd4174244af5", null ],
+    [ "events", "de/d48/a19621.html#a5b73fdcb503cef89e87a1e50cc11e825", null ],
+    [ "summons", "de/d48/a19621.html#a6d3bb24f1b0475a04182d959f2f41b5d", null ]
 ];

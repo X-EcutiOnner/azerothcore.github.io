@@ -1,6 +1,6 @@
 var a09973 =
 [
-    [ "UpdateRequest", "d0/d4b/a09973.html#a23b3dbcff54691b2710109a822a486a0", null ],
-    [ "~UpdateRequest", "d0/d4b/a09973.html#a240bdc56685c270c597588231c3bf8f8", null ],
-    [ "call", "d0/d4b/a09973.html#a8221fa415f828a4866f85f3983f7dab9", null ]
+    [ "LootValidatorRef", "d0/d4b/a09973.html#acce3ced73583bf8dbf04232cddd6ebd8", null ],
+    [ "sourceObjectDestroyLink", "d0/d4b/a09973.html#a8833022cf1acf786c06f1580fbe11c24", null ],
+    [ "targetObjectDestroyLink", "d0/d4b/a09973.html#a93baac45dcb801215c28ac0dba097eba", null ]
 ];

@@ -1,9 +1,12 @@
 var a16341 =
 [
-    [ "instance_obsidian_sanctum_InstanceMapScript", "d3/dd6/a16341.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
-    [ "CheckAchievementCriteriaMeet", "d3/dd6/a16341.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
-    [ "DoAction", "d3/dd6/a16341.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
-    [ "GetGuidData", "d3/dd6/a16341.html#a01da8216f57e19b5bf8697700089118c", null ],
-    [ "m_uiPortalGUID", "d3/dd6/a16341.html#a166db22fd409d0387085053852e5ad30", null ],
-    [ "portalCount", "d3/dd6/a16341.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
+    [ "npc_taldaram_flamesphere", "d3/dd6/a16341.html#aad7d6696b54e39c6abd27a7252353360", null ],
+    [ "DoAction", "d3/dd6/a16341.html#aa79e370c1c30eccb44a46b622e2d5f2a", null ],
+    [ "IsSummonedBy", "d3/dd6/a16341.html#acb232931bc181eedf4b39d5519dd45e2", null ],
+    [ "JustDied", "d3/dd6/a16341.html#ae6dfff3df39257c55495707934d5d38b", null ],
+    [ "SetVictimPos", "d3/dd6/a16341.html#a51f1683806095c760d4accff9e23f8b6", null ],
+    [ "UpdateAI", "d3/dd6/a16341.html#a163341c0ff0f56986e2486e06e21b4b2", null ],
+    [ "instance", "d3/dd6/a16341.html#afd0ff83cb5fba1fbeb85b7d600f1b1de", null ],
+    [ "moveTimer", "d3/dd6/a16341.html#afe50ac59ec441ab11745ca9461158a00", null ],
+    [ "victimPos", "d3/dd6/a16341.html#ae681d84f2324faf22296dcb6e08484b0", null ]
 ];

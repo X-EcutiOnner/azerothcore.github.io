@@ -1,6 +1,6 @@
 var a12233 =
 [
-    [ "boss_ambassador_flamelashAI", "d0/dbf/a12237.html", "d0/dbf/a12237" ],
-    [ "boss_ambassador_flamelash", "d6/dc7/a12233.html#a53d24a240e48033b0474970e8acac1f4", null ],
-    [ "GetAI", "d6/dc7/a12233.html#a332e347d803a58989445ec57d75361ab", null ]
+    [ "CapturedGroups", "d6/dc7/a12233.html#a6842947e5fbe26c2c4aadc1209395902", null ],
+    [ "CurrentTemplate", "d6/dc7/a12233.html#a6915499b95c29a00cde15c5a7f562158", null ],
+    [ "ZoneName", "d6/dc7/a12233.html#a62633be7d11b2937b301e63f6d1e94e2", null ]
 ];

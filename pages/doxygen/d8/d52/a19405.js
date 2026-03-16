@@ -1,7 +1,6 @@
 var a19405 =
 [
-    [ "FilterTargets", "d8/d52/a19405.html#af92aec0df6c962a10ccbebb366081cfd", null ],
-    [ "PrepareSpellScript", "d8/d52/a19405.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
-    [ "Register", "d8/d52/a19405.html#af59416debfc7685bec92541a00e1dafe", null ],
-    [ "Validate", "d8/d52/a19405.html#abbe7ae557fb510457504f72adfa0aedc", null ]
+    [ "npc_ioc_gunship_captainAI", "de/d17/a19409.html", "de/d17/a19409" ],
+    [ "npc_ioc_gunship_captain", "d8/d52/a19405.html#a6463d7bc12d5fe4fc8921ba5916ec906", null ],
+    [ "GetAI", "d8/d52/a19405.html#a43f3ce178df31fbf693acbfa8c32a339", null ]
 ];

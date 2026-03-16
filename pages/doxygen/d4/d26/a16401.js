@@ -1,6 +1,6 @@
 var a16401 =
 [
-    [ "SendEncounterUnit", "d4/d26/a16401.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
-    [ "Execute", "d4/d26/a16401.html#ae21b67f8fe8a0677778436563872495f", null ],
-    [ "_owner", "d4/d26/a16401.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
+    [ "npc_anub_ar_crusher_crypt_fiend", "d4/d26/a16401.html#a89abbce738f115c26dae9dacb065cc3d", null ],
+    [ "DoEngagedWith", "d4/d26/a16401.html#a20cdbe7eb580cd9f9763019d8927182f", null ],
+    [ "DoEvent", "d4/d26/a16401.html#a276eca6e65b32905f6919d49530ccc2f", null ]
 ];

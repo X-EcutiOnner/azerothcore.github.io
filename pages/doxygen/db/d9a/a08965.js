@@ -1,10 +1,11 @@
 var a08965 =
 [
-    [ "MapType", "db/d9a/a08965.html#a8fa5f0aca9316901f42b2df8251c5a5d", null ],
-    [ "HashMapHolder", "db/d9a/a08965.html#ad10240097462af2a8a76c9429bd7cbca", null ],
-    [ "Find", "db/d9a/a08965.html#a314b4ce3265136fe326b909fe6ef6716", null ],
-    [ "GetContainer", "db/d9a/a08965.html#ad9dfe5d223496a379a4aec0fc12c42d9", null ],
-    [ "GetLock", "db/d9a/a08965.html#a52cc052c8d73d5b700c7f9253138942f", null ],
-    [ "Insert", "db/d9a/a08965.html#af5c618228c141e28ffa11468cfffb21a", null ],
-    [ "Remove", "db/d9a/a08965.html#a7b9c3761746641133d4a9837559c0bb0", null ]
+    [ "DispelInfo", "db/d9a/a08965.html#ab6e88e6fc168d22a8b31754a9b1bf2e5", null ],
+    [ "GetDispeller", "db/d9a/a08965.html#a1c6f02de66ffa847c09d19922b02bc20", null ],
+    [ "GetDispellerSpellId", "db/d9a/a08965.html#a0d09f205ff9374fddc694a66ccf0c31d", null ],
+    [ "GetRemovedCharges", "db/d9a/a08965.html#a9c0bd34ebe7d0a0839b7bdee31ef3f3d", null ],
+    [ "SetRemovedCharges", "db/d9a/a08965.html#a3c249e2b70b9f4d8bb3bd9fed07a1bd7", null ],
+    [ "_chargesRemoved", "db/d9a/a08965.html#a5b6105f37470acb57bbda3e14ee664be", null ],
+    [ "_dispellerSpell", "db/d9a/a08965.html#a484e6d516c5de30413e97f2c4abb5515", null ],
+    [ "_dispellerUnit", "db/d9a/a08965.html#ab14d6e0df8bbb89ef0d3550724209040", null ]
 ];

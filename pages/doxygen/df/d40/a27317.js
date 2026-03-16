@@ -1,10 +1,11 @@
 var a27317 =
 [
-    [ "npc_prof_tailor", "df/d40/a27317.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
-    [ "HasTailorSpell", "df/d40/a27317.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
-    [ "OnGossipHello", "df/d40/a27317.html#a686098ac43916ea2f82b7c321527863d", null ],
-    [ "OnGossipSelect", "df/d40/a27317.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
-    [ "SendActionMenu", "df/d40/a27317.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
-    [ "SendConfirmLearn", "df/d40/a27317.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
-    [ "SendConfirmUnlearn", "df/d40/a27317.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
+    [ "CheckProc", "df/d40/a27317.html#a7a6eea8debb09c4c9086a92d8e6ee59c", null ],
+    [ "HandleProc", "df/d40/a27317.html#af29b1d6d8553003514918a383cb08b4a", null ],
+    [ "Load", "df/d40/a27317.html#a8861c2415c0f705cb4a06c02eabb54d2", null ],
+    [ "OnRemove", "df/d40/a27317.html#a9227147dd6e621deddd0088b95e9db2f", null ],
+    [ "PrepareAuraScript", "df/d40/a27317.html#a149881d517edbb15032452554fc64948", null ],
+    [ "Register", "df/d40/a27317.html#ac81d60d54a87a23bd9481934f5753de0", null ],
+    [ "Validate", "df/d40/a27317.html#a7a4d1bddd1dbeb41e0f6f8fe272b4ad6", null ],
+    [ "_redirectTarget", "df/d40/a27317.html#af3ee2a283d8942ab3652a6386c26f737", null ]
 ];

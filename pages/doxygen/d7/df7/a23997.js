@@ -1,5 +1,9 @@
 var a23997 =
 [
-    [ "creature", "d7/df7/a23997.html#ab4b8f837dbfb42bcbb161f81f846aad9", null ],
-    [ "Timer", "d7/df7/a23997.html#a2be497dc190c1f01f939e12083739882", null ]
+    [ "npc_aeranasAI", "d7/df7/a23997.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "Reset", "d7/df7/a23997.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "d7/df7/a23997.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "envelopingWinds_Timer", "d7/df7/a23997.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "d7/df7/a23997.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "d7/df7/a23997.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

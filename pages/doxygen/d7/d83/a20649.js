@@ -1,9 +1,9 @@
 var a20649 =
 [
-    [ "npc_xt002_pummeller", "d7/d83/a20649.html#a5e6fe72dbdedef5526704656c58a9e35", null ],
-    [ "Reset", "d7/d83/a20649.html#a6140f9b246abeba75c291aa7e9624217", null ],
-    [ "UpdateAI", "d7/d83/a20649.html#a90c16a2da7c6c28759a89580736d34e8", null ],
-    [ "_arcingSmashTimer", "d7/d83/a20649.html#ae6118dc72cac8f8f7509999fcdbc219e", null ],
-    [ "_trampleTimer", "d7/d83/a20649.html#a5999bcaf51e20265e7b74d6e47803c69", null ],
-    [ "_uppercutTimer", "d7/d83/a20649.html#a4a2427392e5531a4cab88243150f1ecf", null ]
+    [ "HandleEffectPeriodic", "d7/d83/a20649.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
+    [ "Load", "d7/d83/a20649.html#a60deabce505dd3993dca0e71402dc190", null ],
+    [ "PrepareAuraScript", "d7/d83/a20649.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
+    [ "Register", "d7/d83/a20649.html#a524c071390365b7dab59bc7a79b50f15", null ],
+    [ "_lastMSTime", "d7/d83/a20649.html#a013e9e0eef93583722f7d347c2ebbc49", null ],
+    [ "_lastOrientation", "d7/d83/a20649.html#a2537b325ff57b867092f3d9a1bd0fa8b", null ]
 ];

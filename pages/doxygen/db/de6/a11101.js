@@ -1,11 +1,11 @@
 var a11101 =
 [
-    [ "MoneyCost", "db/de6/a11101.html#a8f88c27f149bf304f46b00dec2aa4a30", null ],
-    [ "PointCost", "db/de6/a11101.html#aebcad3f23dbca753ad970081af0a78c9", null ],
-    [ "ReqAbility", "db/de6/a11101.html#acc13f04eb19a4555ae1a54594f1d858b", null ],
-    [ "ReqLevel", "db/de6/a11101.html#a9478dc1065bc10ebc591ff8022e43993", null ],
-    [ "ReqSkillLine", "db/de6/a11101.html#a5267f4615e01571a4a16d17d6914981b", null ],
-    [ "ReqSkillRank", "db/de6/a11101.html#ae6f9640e257d83d633c48168edc658b6", null ],
-    [ "SpellID", "db/de6/a11101.html#accf0f9aa4c8f2130f6926235dca69476", null ],
-    [ "Usable", "db/de6/a11101.html#a35d7186073a231f0dd1fe5920eec175b", null ]
+    [ "DestroyItem", "db/de6/a11101.html#a581e8c0f5f580e812bc0988e35786ee2", null ],
+    [ "Read", "db/de6/a11101.html#a9f7fa7614db176262437478b4d92e9f9", null ],
+    [ "Bag", "db/de6/a11101.html#aef97bbc66f92d73b4ebd3fcf0a81c0d6", null ],
+    [ "Count", "db/de6/a11101.html#af18875aa85f12191a47d97380f459c45", null ],
+    [ "Data1", "db/de6/a11101.html#a34fa30122f101e15de6252c289b82680", null ],
+    [ "Data2", "db/de6/a11101.html#a227470a5932383e0ab7b9a369dfb3445", null ],
+    [ "Data3", "db/de6/a11101.html#a019a891e4906ce9dafef6e276d635df7", null ],
+    [ "Slot", "db/de6/a11101.html#af8274f1ded5565dc0f79e28948825ea2", null ]
 ];

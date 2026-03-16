@@ -1,5 +1,6 @@
 var a23185 =
 [
-    [ "go_main_chambers_access_panel", "d3/ded/a23185.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "d3/ded/a23185.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "OnPeriodic", "d3/ded/a23185.html#adfd5a3a6d9c16cd6acdb1f24e7874f20", null ],
+    [ "PrepareAuraScript", "d3/ded/a23185.html#a8444053fa146a4163ea905634be78dfc", null ],
+    [ "Register", "d3/ded/a23185.html#aad8868dc3d00fd3ea648abe7b536970d", null ]
 ];

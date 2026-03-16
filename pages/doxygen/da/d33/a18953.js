@@ -1,17 +1,14 @@
 var a18953 =
 [
-    [ "npc_argent_captainAI", "da/d33/a18953.html#a4e9d65fa7c870c98d79ff30ae262385d", null ],
-    [ "CanAIAttack", "da/d33/a18953.html#a542075fcf2d487dedc6f11672e3507ba", null ],
-    [ "DoAction", "da/d33/a18953.html#a77f0b2d41d631f3ff7a3ea8d13716de1", null ],
-    [ "EnterEvadeMode", "da/d33/a18953.html#afaebff86ad9be5835c2e289625c07d16", null ],
-    [ "JustDied", "da/d33/a18953.html#a7f132fa843ba292cc89a64c77ce48bc4", null ],
-    [ "JustEngagedWith", "da/d33/a18953.html#a43818e75274cad597fd883f75119d63c", null ],
-    [ "KilledUnit", "da/d33/a18953.html#abc2dbc233082f9d7626759fbcccb34a2", null ],
-    [ "Reset", "da/d33/a18953.html#a0709350a6841b6008935c050a1db7784", null ],
-    [ "SpellHit", "da/d33/a18953.html#a8aee635d2739564281b5af04955e4d4a", null ],
-    [ "Events", "da/d33/a18953.html#a1cffce3d371bef959d76270608247def", null ],
-    [ "FollowAngle", "da/d33/a18953.html#a059c34261439fc80b0bff9d62b537489", null ],
-    [ "FollowDist", "da/d33/a18953.html#a4fde069032f7c6578f7f518b45f141d2", null ],
-    [ "instance", "da/d33/a18953.html#a131f11a8a67e3eb60759c699fc2cec1b", null ],
-    [ "IsUndead", "da/d33/a18953.html#a9eaf5d2c9e52650c28b8f7feef0e681c", null ]
+    [ "npc_green_dragon_combat_triggerAI", "da/d33/a18953.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
+    [ "AttackStart", "da/d33/a18953.html#a5457c18c60a8301ea60ef34d810a14c9", null ],
+    [ "CanAIAttack", "da/d33/a18953.html#aaf12ae21dddfa6b47ffa7880f65487a4", null ],
+    [ "DoAction", "da/d33/a18953.html#abbd08537ed245084ca7d4cf852a749a2", null ],
+    [ "EnterEvadeMode", "da/d33/a18953.html#a32bd4ed61bc62206ccedcf4acaeb8df8", null ],
+    [ "JustEngagedWith", "da/d33/a18953.html#ad7385306f8058699ee004b7bc5f1b538", null ],
+    [ "JustReachedHome", "da/d33/a18953.html#a2ae1c178a84c6d6899cf6400cb963e44", null ],
+    [ "MoveInLineOfSight", "da/d33/a18953.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
+    [ "Reset", "da/d33/a18953.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ],
+    [ "UpdateAI", "da/d33/a18953.html#a89ce158e08b3da1e54b0be6caa3950b8", null ],
+    [ "checkTimer", "da/d33/a18953.html#ae5c238e2e201c431ceccc59a3a26078b", null ]
 ];

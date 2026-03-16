@@ -1,7 +1,6 @@
 var a21409 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "df/d7a/a21409.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
-    [ "Reset", "df/d7a/a21409.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
-    [ "UpdateAI", "df/d7a/a21409.html#a75f16f2b028ca341db6e08536be06bfa", null ],
-    [ "uiTimer", "df/d7a/a21409.html#a0cf5f0413b1cded835252a38e272f835", null ]
+    [ "npc_vh_sinclari", "df/d7a/a21409.html#ad0235f207a3031420532174c04e0c348", null ],
+    [ "OnGossipHello", "df/d7a/a21409.html#a95f0d094d417d9d6ce99d7c8aa83496f", null ],
+    [ "OnGossipSelect", "df/d7a/a21409.html#af0a260d7868f601ae239c226b10d4de3", null ]
 ];

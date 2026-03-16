@@ -1,6 +1,6 @@
 var a01019 =
 [
-    [ "WorldScript", "d3/d32/a10702.html", "d3/d32/a10702" ],
+    [ "WorldScript", "d0/da7/a10685.html", "d0/da7/a10685" ],
     [ "WorldHook", "db/daf/a01019.html#a4d497fc434376a9edca1897eabc39493", [
       [ "WORLDHOOK_ON_OPEN_STATE_CHANGE", "db/daf/a01019.html#a4d497fc434376a9edca1897eabc39493a1115383e9c9ccf62f08548733c8f5f1c", null ],
       [ "WORLDHOOK_ON_AFTER_CONFIG_LOAD", "db/daf/a01019.html#a4d497fc434376a9edca1897eabc39493af6efa892b7f5bfd295f23a9b8afc6ad7", null ],

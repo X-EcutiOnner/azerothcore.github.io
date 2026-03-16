@@ -1,7 +1,7 @@
 var a19045 =
 [
-    [ "HandleScript", "d1/df4/a19045.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
-    [ "PrepareSpellScript", "d1/df4/a19045.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
-    [ "Register", "d1/df4/a19045.html#afb0289c9906d0383a22dfd0e848573f8", null ],
-    [ "Validate", "d1/df4/a19045.html#a69344370af56f033e1c1ba16f4dee174", null ]
+    [ "PeriodicTick", "d1/df4/a19045.html#ac1bace4fc66349364c84b5784967e9bf", null ],
+    [ "PrepareAuraScript", "d1/df4/a19045.html#a358193e3340112c04f79c043548c3de0", null ],
+    [ "Register", "d1/df4/a19045.html#a28f52bc253899aa407e67f9a089c815c", null ],
+    [ "Validate", "d1/df4/a19045.html#a0dde3447e38e45cea94df44449a19a01", null ]
 ];

@@ -1,5 +1,6 @@
 var a27489 =
 [
-    [ "npc_pet_trainerAI", "d7/dca/a27489.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
-    [ "sGossipSelect", "d7/dca/a27489.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
+    [ "CheckProc", "d7/dca/a27489.html#a3b98aef2d745773a55ac10daded629e7", null ],
+    [ "PrepareAuraScript", "d7/dca/a27489.html#ab49dc1c178c4089fe8f708da3cd22bf2", null ],
+    [ "Register", "d7/dca/a27489.html#a5c0c53a39fdc770f8c6e9a86cd87c74a", null ]
 ];

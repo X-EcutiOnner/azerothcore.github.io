@@ -1,8 +1,8 @@
 var a27417 =
 [
-    [ "npc_chicken_cluckAI", "dc/dd6/a27421.html", "dc/dd6/a27421" ],
-    [ "npc_chicken_cluck", "dd/d60/a27417.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
-    [ "GetAI", "dd/d60/a27417.html#abf986f555672823477c3c17e0f59bdbe", null ],
-    [ "OnQuestAccept", "dd/d60/a27417.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
-    [ "OnQuestComplete", "dd/d60/a27417.html#a8f22520166a557e066502eb16bdae774", null ]
+    [ "FilterTargets", "dd/d60/a27417.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
+    [ "HandleDummy", "dd/d60/a27417.html#a2214b10da042a3af2fd3311872cc5286", null ],
+    [ "PrepareSpellScript", "dd/d60/a27417.html#a9959966856601f79a83931a7a7ecff91", null ],
+    [ "Register", "dd/d60/a27417.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
+    [ "Validate", "dd/d60/a27417.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
 ];

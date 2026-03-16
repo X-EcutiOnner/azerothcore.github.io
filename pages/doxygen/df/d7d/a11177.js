@@ -1,6 +1,7 @@
 var a11177 =
 [
-    [ "DismissCritter", "df/d7d/a11177.html#a87e35583063b340f014d21cd02c54cab", null ],
-    [ "Read", "df/d7d/a11177.html#a411b65505e8a332ecf9291a670dc38c4", null ],
-    [ "CritterGUID", "df/d7d/a11177.html#a89c071e81c9d39c099c32c4976f15304", null ]
+    [ "PlayMusic", "df/d7d/a11177.html#afee4b7ae9ac5f4f2b7365d3d00e7b581", null ],
+    [ "PlayMusic", "df/d7d/a11177.html#ad3d833f70de5937365c2351aa5206bbf", null ],
+    [ "Write", "df/d7d/a11177.html#ad01a67d76fe9dff269eac9108a27c75a", null ],
+    [ "SoundKitID", "df/d7d/a11177.html#ad2342dd0c1461283c595af29c3bc9fe6", null ]
 ];

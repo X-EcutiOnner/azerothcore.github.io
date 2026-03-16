@@ -1,7 +1,6 @@
 var a13989 =
 [
-    [ "npc_deathstalker_erlandAI", "d0/d0e/a13993.html", "d0/d0e/a13993" ],
-    [ "npc_deathstalker_erland", "df/da7/a13989.html#ad49faf068e982f245f0d1e21f0700c40", null ],
-    [ "GetAI", "df/da7/a13989.html#ab59235f212ddb985056cb8e32719b723", null ],
-    [ "OnQuestAccept", "df/da7/a13989.html#a81b20bc8c7249a59d69ba63ab32a5f06", null ]
+    [ "HandleSendEvent", "df/da7/a13989.html#af62c176d53589228d5e0077c9fc268a3", null ],
+    [ "PrepareSpellScript", "df/da7/a13989.html#acea8e256f267dd496e5f573e982dba5f", null ],
+    [ "Register", "df/da7/a13989.html#a0827e177a8268994bb4e63f07993a354", null ]
 ];

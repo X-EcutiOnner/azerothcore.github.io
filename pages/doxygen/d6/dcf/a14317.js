@@ -1,8 +1,10 @@
 var a14317 =
 [
-    [ "boss_grilekAI", "d6/dcf/a14317.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
-    [ "JustEngagedWith", "d6/dcf/a14317.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
-    [ "Reset", "d6/dcf/a14317.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
-    [ "UpdateAI", "d6/dcf/a14317.html#a19438103c9a582a7d36d805c80131e8c", null ],
-    [ "_pursuitTargetGUID", "d6/dcf/a14317.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
+    [ "boss_alyson_antille", "d6/dcf/a14317.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
+    [ "GetNearbyFriendlies", "d6/dcf/a14317.html#ab99596d5c2eafac8c678378d509bf585", null ],
+    [ "JustEngagedWith", "d6/dcf/a14317.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
+    [ "RandomReverseFriendlyList", "d6/dcf/a14317.html#afef27de229ba2c3b8beb30809a313237", null ],
+    [ "Reset", "d6/dcf/a14317.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
+    [ "UpdateAI", "d6/dcf/a14317.html#a15157be42d166a239ab658fc04292e44", null ],
+    [ "_friendlyList", "d6/dcf/a14317.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
 ];

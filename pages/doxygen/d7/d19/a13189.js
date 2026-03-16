@@ -1,6 +1,6 @@
 var a13189 =
 [
-    [ "HandleAfterCast", "d7/d19/a13189.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
-    [ "PrepareSpellScript", "d7/d19/a13189.html#aa0956db2d03405a54893bc30516f5839", null ],
-    [ "Register", "d7/d19/a13189.html#a45726adacf1d30b5488df54f57447c0c", null ]
+    [ "HandleHit", "d7/d19/a13189.html#ae6dbaebdc4b0248215416e8d4550d2cb", null ],
+    [ "PrepareSpellScript", "d7/d19/a13189.html#ae08237f9eb95cc8a4b53a7de50af7b91", null ],
+    [ "Register", "d7/d19/a13189.html#a84853f416eb8250dc3d863dbe22a157f", null ]
 ];

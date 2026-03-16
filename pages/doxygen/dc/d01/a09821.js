@@ -1,7 +1,15 @@
 var a09821 =
 [
-    [ "QuestItem", "dc/d01/a09821.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
-    [ "QuestItem", "dc/d01/a09821.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
-    [ "index", "dc/d01/a09821.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
-    [ "is_looted", "dc/d01/a09821.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
+    [ "LogHolder", "dc/d01/a09821.html#a3432ee2f32857bd02e75fdb5ba922bd1", null ],
+    [ "AddEvent", "dc/d01/a09821.html#a5f6d81d9048290815053bb4aa3531d73", null ],
+    [ "CanInsert", "dc/d01/a09821.html#aefdb4e57b5bf35b00564491547e6e2a9", null ],
+    [ "GetGuildId", "dc/d01/a09821.html#ada98449548b389a1cd8177087e3aa5e8", null ],
+    [ "GetGuildLog", "dc/d01/a09821.html#a17593c12663e8c4251f94636e511c73a", null ],
+    [ "GetGuildLog", "dc/d01/a09821.html#ae43929001324d6bece4e45bc95115535", null ],
+    [ "GetNextGUID", "dc/d01/a09821.html#aed00250b6a1036a91dd971af510f7750", null ],
+    [ "LoadEvent", "dc/d01/a09821.html#a22e87750252d1c4f62f2e5686a2e008d", null ],
+    [ "m_guildId", "dc/d01/a09821.html#a3827f9fb3fc13300f60d9f7dd27154c7", null ],
+    [ "m_log", "dc/d01/a09821.html#aca25adbc1c1e9397c837a53793568b64", null ],
+    [ "m_maxRecords", "dc/d01/a09821.html#a755788eaede72a131f74ae7de88c37b4", null ],
+    [ "m_nextGUID", "dc/d01/a09821.html#a267cecce9b2f244235800c93a086e8e2", null ]
 ];

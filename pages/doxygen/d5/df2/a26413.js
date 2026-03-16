@@ -1,8 +1,7 @@
 var a26413 =
 [
-    [ "CheckCast", "d5/df2/a26413.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
-    [ "CheckQuest", "d5/df2/a26413.html#abc927d932c1d5e05eab1918364d68ed5", null ],
-    [ "HandleActiveObject", "d5/df2/a26413.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
-    [ "PrepareSpellScript", "d5/df2/a26413.html#a96e69476965cc2466213a5371a57093a", null ],
-    [ "Register", "d5/df2/a26413.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
+    [ "HandleProc", "d5/df2/a26413.html#a88510ad234c654bbe3316f6557742f77", null ],
+    [ "PrepareAuraScript", "d5/df2/a26413.html#adff2a6b6161cc6fa6a49bd55c088394c", null ],
+    [ "Register", "d5/df2/a26413.html#aeaae510592ba20f76e322701a9c30c17", null ],
+    [ "Validate", "d5/df2/a26413.html#a1d9dc752bd385ff99ee4c39094c68d8a", null ]
 ];

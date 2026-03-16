@@ -1,6 +1,6 @@
 var a19397 =
 [
-    [ "boss_kelthuzad_minionAI", "df/df1/a19401.html", "df/df1/a19401" ],
-    [ "boss_kelthuzad_minion", "d1/d3c/a19397.html#a4c6d430035c964b4063139c0cda6bfff", null ],
-    [ "GetAI", "d1/d3c/a19397.html#ab951068fedced148653ebf9124ba5e3d", null ]
+    [ "npc_four_car_garageAI", "df/df1/a19401.html", "df/df1/a19401" ],
+    [ "npc_four_car_garage", "d1/d3c/a19397.html#ae9b811544ab5cbdcb9c44abdc2da41a8", null ],
+    [ "GetAI", "d1/d3c/a19397.html#ac55346f9733c5502a9e9f2d6d48feefb", null ]
 ];

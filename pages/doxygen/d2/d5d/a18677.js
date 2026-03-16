@@ -1,8 +1,6 @@
 var a18677 =
 [
-    [ "Load", "d2/d5d/a18677.html#aabd997d6db5fd38b1fdd97d90b1347e9", null ],
-    [ "OnRemove", "d2/d5d/a18677.html#a43b23e5c53cca872a26737d790f2893d", null ],
-    [ "PrepareAuraScript", "d2/d5d/a18677.html#ae51bcb37894240c6fd064cd329698a55", null ],
-    [ "Register", "d2/d5d/a18677.html#ad6247c7f8abf41cd6190d5252ed6834e", null ],
-    [ "Validate", "d2/d5d/a18677.html#a45696018a8810cf1f11fbddcd853d1f4", null ]
+    [ "LichKingDeathEvent", "d2/d5d/a18677.html#a9aa328b60358034355b1eed5caacb9f8", null ],
+    [ "Execute", "d2/d5d/a18677.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
+    [ "_owner", "d2/d5d/a18677.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
 ];

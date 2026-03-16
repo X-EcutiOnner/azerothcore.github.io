@@ -1,6 +1,7 @@
 var a27769 =
 [
-    [ "CalculateAmount", "df/de9/a27769.html#a3491a0a1d2f00f76730ddc53a66c8179", null ],
-    [ "PrepareAuraScript", "df/de9/a27769.html#a667883298cee173af941cfc07022f318", null ],
-    [ "Register", "df/de9/a27769.html#a22514461b79f736e3ab595fa7fb48b68", null ]
+    [ "HandleProc", "df/de9/a27769.html#a9296b52700f070af311047166f6a913b", null ],
+    [ "PrepareAuraScript", "df/de9/a27769.html#a067cc24e65f79bab10b9d1258fad3460", null ],
+    [ "Register", "df/de9/a27769.html#affbd8840159048b6ea55ab98900d38c0", null ],
+    [ "Validate", "df/de9/a27769.html#a31af0dd20daa2892f7c0a6baf2bf4485", null ]
 ];

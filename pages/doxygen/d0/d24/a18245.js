@@ -1,7 +1,6 @@
 var a18245 =
 [
-    [ "CheckRequirement", "d0/d24/a18245.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
-    [ "CheckRequirementInternal", "d0/d24/a18245.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
-    [ "PrepareSpellScript", "d0/d24/a18245.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
-    [ "Register", "d0/d24/a18245.html#a95a250aeb3a41922c529f476d39f18e4", null ]
+    [ "npc_darnavanAI", "d8/df7/a18249.html", "d8/df7/a18249" ],
+    [ "npc_darnavan", "d0/d24/a18245.html#ac358ca123155165395fa5f7ec02c9dab", null ],
+    [ "GetAI", "d0/d24/a18245.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
 ];

@@ -1,6 +1,6 @@
 var a24461 =
 [
-    [ "CheckProc", "df/d93/a24461.html#a4838d728bddfb320ad4b30166fefb6f9", null ],
-    [ "PrepareAuraScript", "df/d93/a24461.html#a2e572b677ad3b754316066f3e53edbbb", null ],
-    [ "Register", "df/d93/a24461.html#acecdc9e5079c49b312521a65682b602a", null ]
+    [ "FilterTargets", "df/d93/a24461.html#a991a944f31680e4d53cc2a46d8c8b8bf", null ],
+    [ "PrepareSpellScript", "df/d93/a24461.html#aea49df3f6b93223ed72c3a9875232b74", null ],
+    [ "Register", "df/d93/a24461.html#a8f0e0b6363303def780d35415c88b4d6", null ]
 ];

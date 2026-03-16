@@ -1,7 +1,6 @@
 var a26229 =
 [
-    [ "HandleEffectPeriodic", "df/d52/a26229.html#a9347200565cb858cf0cc9cdb897fe1dc", null ],
-    [ "PrepareAuraScript", "df/d52/a26229.html#a5fc89b09fb226d0d9315081d64f4103e", null ],
-    [ "Register", "df/d52/a26229.html#ac3741617faacf83a707f1359aab1886e", null ],
-    [ "Validate", "df/d52/a26229.html#a9378252b6711cc0bec3e63efce026495", null ]
+    [ "OnRemove", "df/d52/a26229.html#a3803e6bbdb17e9a848376481581c993d", null ],
+    [ "PrepareAuraScript", "df/d52/a26229.html#a6f1340b824af4604e310666e89d05b7a", null ],
+    [ "Register", "df/d52/a26229.html#a3b361a478f1c035b706ac2e17499fb37", null ]
 ];

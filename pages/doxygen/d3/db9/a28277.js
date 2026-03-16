@@ -1,5 +1,5 @@
 var a28277 =
 [
-    [ "Duration", "d3/db9/a28277.html#a20417b0f394c08c779fd3851c2cde87d", null ],
-    [ "ID", "d3/db9/a28277.html#a04f9304093a15b4b7f6596993f2e86d9", null ]
+    [ "go_jotunheim_cage", "d3/db9/a28277.html#a28c9312de97a822e34f05c7358b42df4", null ],
+    [ "OnGossipHello", "d3/db9/a28277.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
 ];

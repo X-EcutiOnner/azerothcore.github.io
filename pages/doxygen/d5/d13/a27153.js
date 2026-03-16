@@ -1,9 +1,7 @@
 var a27153 =
 [
-    [ "go_gilded_brazierAI", "d5/d13/a27153.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
-    [ "GossipHello", "d5/d13/a27153.html#afac9e217c294e72ff5f2526422e6321e", null ],
-    [ "Initialize", "d5/d13/a27153.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
-    [ "UpdateAI", "d5/d13/a27153.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
-    [ "_events", "d5/d13/a27153.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
-    [ "_playerGUID", "d5/d13/a27153.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
+    [ "HandleScriptEffect", "d5/d13/a27153.html#ae7bfcdf3306fe4c8532649ff7e892c57", null ],
+    [ "PrepareSpellScript", "d5/d13/a27153.html#ad2bfab00a973366af32388e40b9d2566", null ],
+    [ "Register", "d5/d13/a27153.html#acbf74d85d9d8ce8e9ce0546c90cb7efa", null ],
+    [ "Validate", "d5/d13/a27153.html#a487fa0e6b5f2682349b22737ceeae50c", null ]
 ];

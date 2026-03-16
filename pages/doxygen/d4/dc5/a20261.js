@@ -1,5 +1,5 @@
 var a20261 =
 [
-    [ "achievement_shadowdodger", "d4/dc5/a20261.html#a8389a4972968fcc6cd7807e96ee5e527", null ],
-    [ "OnCheck", "d4/dc5/a20261.html#a3ee0baca0c9163a601cd4bcfa9ebeb04", null ]
+    [ "go_ulduar_tower", "d4/dc5/a20261.html#afc1add1a0543921f52afe1eb907f5de3", null ],
+    [ "OnDestroyed", "d4/dc5/a20261.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
 ];

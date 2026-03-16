@@ -1,4 +1,5 @@
 var a07365 =
 [
-    [ "Filter", "de/d03/a07365.html#a1fcb023fe0dee17790b3636bf1ff3e9a", null ]
+    [ "packet", "de/d03/a07365.html#ad266cc5bd8e3637534055a7564047f87", null ],
+    [ "playerGuid", "de/d03/a07365.html#a824393dda7676d4a5268d2d7d2e9d17b", null ]
 ];

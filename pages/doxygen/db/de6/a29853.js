@@ -1,6 +1,5 @@
 var a29853 =
 [
-    [ "Id", "db/de6/a29853.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
-    [ "Order", "db/de6/a29853.html#a16fca42d9a0a98e034a93984c4362b53", null ],
-    [ "TypeFlags", "db/de6/a29853.html#ac7246adc7c6c3217de8ac093983b7553", null ]
+    [ "height", "db/de6/a29853.html#a9ee8f132a89d37d9b202c7f49d2c3a49", null ],
+    [ "light", "db/de6/a29853.html#a53c2edf09fb56334d1c3621d3630de5d", null ]
 ];

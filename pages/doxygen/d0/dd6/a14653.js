@@ -1,12 +1,6 @@
 var a14653 =
 [
-    [ "npc_alexstraza_the_lifebinder", "d0/dd6/a14653.html#a7c30258540803bde75843cb070b6a288", null ],
-    [ "MoveInLineOfSight", "d0/dd6/a14653.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
-    [ "Reset", "d0/dd6/a14653.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
-    [ "SetData", "d0/dd6/a14653.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
-    [ "UpdateAI", "d0/dd6/a14653.html#ad13b21d571833210b1c069b7ea8bea05", null ],
-    [ "orphanGUID", "d0/dd6/a14653.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
-    [ "phase", "d0/dd6/a14653.html#a98216e43888854ac93f22169a0e253e5", null ],
-    [ "playerGUID", "d0/dd6/a14653.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
-    [ "timer", "d0/dd6/a14653.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
+    [ "npc_brewfest_keg_thrower", "d0/dd6/a14653.html#a29da1efd21fe6737684607e5b360ea84", null ],
+    [ "CanBeSeen", "d0/dd6/a14653.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
+    [ "MoveInLineOfSight", "d0/dd6/a14653.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
 ];

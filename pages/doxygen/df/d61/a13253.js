@@ -1,7 +1,8 @@
 var a13253 =
 [
-    [ "HandleScriptEffect", "df/d61/a13253.html#a1cdba27f7311021407307bcd35235fed", null ],
-    [ "PrepareSpellScript", "df/d61/a13253.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
-    [ "Register", "df/d61/a13253.html#a9794991aa1710ce37112888eeb572796", null ],
-    [ "Validate", "df/d61/a13253.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
+    [ "npc_cyclone", "df/d61/a13253.html#afdc4f98b031f832702929c6a7f192ab5", null ],
+    [ "JustEngagedWith", "df/d61/a13253.html#a61d0710868c91f707643a436c0d79485", null ],
+    [ "Reset", "df/d61/a13253.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
+    [ "UpdateAI", "df/d61/a13253.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
+    [ "_scheduler", "df/d61/a13253.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
 ];

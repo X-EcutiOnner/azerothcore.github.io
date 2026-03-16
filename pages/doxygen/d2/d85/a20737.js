@@ -1,9 +1,11 @@
 var a20737 =
 [
-    [ "boss_yoggsaron_keeper", "d2/d85/a20737.html#ad2098933656371b1bf80ec3ea859c418", null ],
-    [ "DoAction", "d2/d85/a20737.html#a9e3d251810b55072458003356213ae15", null ],
-    [ "JustEngagedWith", "d2/d85/a20737.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
-    [ "JustSummoned", "d2/d85/a20737.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
-    [ "UpdateAI", "d2/d85/a20737.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
-    [ "_summons", "d2/d85/a20737.html#aa840eff5f3d8b24225046113737936b4", null ]
+    [ "boss_thorim_sif", "d2/d85/a20737.html#a9762a5d386897bcd6d42b3c36d9fc18f", null ],
+    [ "AttackStart", "d2/d85/a20737.html#a3da2809c4e7aa0c051647be354ade759", null ],
+    [ "DoAction", "d2/d85/a20737.html#a61fec6c7b91d5f34339ebabd18b94e5d", null ],
+    [ "MoveInLineOfSight", "d2/d85/a20737.html#a5c1dfc697a84d4eb3ea6074514034343", null ],
+    [ "Reset", "d2/d85/a20737.html#a3f747b6da8db72fd61c50a24096834c2", null ],
+    [ "UpdateAI", "d2/d85/a20737.html#adbe7effa0bab5046f26f8d7df0f82a04", null ],
+    [ "_allowCast", "d2/d85/a20737.html#a6081345415b9ae3892d4f150a195908c", null ],
+    [ "events", "d2/d85/a20737.html#a5d64d273a6aefdd9359b71963271b4ee", null ]
 ];

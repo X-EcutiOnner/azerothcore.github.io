@@ -1,12 +1,7 @@
 var a17229 =
 [
-    [ "npc_tortured_riflemanAI", "d1/d9c/a17229.html#a65dc1d2ba5769aed1a0b2487322ff2b1", null ],
-    [ "AttackStart", "d1/d9c/a17229.html#aaf2b73d0b60791f887207842580d91dc", null ],
-    [ "DoAction", "d1/d9c/a17229.html#acb941c20d911a567c93bb0f92105fdfd", null ],
-    [ "EnterEvadeMode", "d1/d9c/a17229.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50", null ],
-    [ "JustDied", "d1/d9c/a17229.html#a5796a96626937e1026cc1fec0eba4e0b", null ],
-    [ "JustEngagedWith", "d1/d9c/a17229.html#ac5d8f17c48269da06c14643e82c88567", null ],
-    [ "Reset", "d1/d9c/a17229.html#a04f9c7056e063d436df66f079127d1a7", null ],
-    [ "UpdateAI", "d1/d9c/a17229.html#a194a615eef3651cdc97d4e4ad57bf017", null ],
-    [ "events", "d1/d9c/a17229.html#a958f27c1f917dc1ae0a9f84549481f93", null ]
+    [ "HandleEffectRemove", "d1/d9c/a17229.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
+    [ "Load", "d1/d9c/a17229.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
+    [ "PrepareAuraScript", "d1/d9c/a17229.html#a97411ddf89a10a962ba74d294eb653e7", null ],
+    [ "Register", "d1/d9c/a17229.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
 ];

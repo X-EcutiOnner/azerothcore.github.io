@@ -1,8 +1,10 @@
 var a13665 =
 [
-    [ "FilterTargets", "d8/d76/a13665.html#ac7f7287b88cde82fbf8a625f002c86fa", null ],
-    [ "HandleAfterCast", "d8/d76/a13665.html#aa28714ce9ac251fe7c3bdec17b47deb3", null ],
-    [ "Load", "d8/d76/a13665.html#aecfa38940ea3dd287179bdef3d290487", null ],
-    [ "PrepareSpellScript", "d8/d76/a13665.html#a222e2c8e5401c132e89b29bbd22d46a6", null ],
-    [ "Register", "d8/d76/a13665.html#a1a3607dd7e3d56bde3b92cbf4bcd0e78", null ]
+    [ "HandleDummyTick", "d8/d76/a13665.html#a036291aee8b08212ecead4afce01adf4", null ],
+    [ "Load", "d8/d76/a13665.html#aaecea41af42790dfe9aeba3c56480668", null ],
+    [ "OnApply", "d8/d76/a13665.html#a37b425f877e7415b245c119c29521c4b", null ],
+    [ "PrepareAuraScript", "d8/d76/a13665.html#ade7bfbc3400fb620956d1e8dff7d4a8a", null ],
+    [ "Register", "d8/d76/a13665.html#a9b32995b6e324a6c779bbd742de6cce2", null ],
+    [ "Validate", "d8/d76/a13665.html#a72595ee3cd995d7bed2bcf8c9f5199fb", null ],
+    [ "_forsakenSpell", "d8/d76/a13665.html#ae2aee05482e4854120fc581ecec41f95", null ]
 ];

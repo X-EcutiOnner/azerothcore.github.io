@@ -1,7 +1,6 @@
 var a16293 =
 [
-    [ "OnRemove", "d9/dd4/a16293.html#afb0821bc8774e634eefdd87efe6af945", null ],
-    [ "PrepareAuraScript", "d9/dd4/a16293.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
-    [ "Register", "d9/dd4/a16293.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
-    [ "Validate", "d9/dd4/a16293.html#aa794b76c4d9590b867dda57f02724d95", null ]
+    [ "HandleApply", "d9/dd4/a16293.html#aee4d5908035d06be2f1469a50db02e26", null ],
+    [ "PrepareAuraScript", "d9/dd4/a16293.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
+    [ "Register", "d9/dd4/a16293.html#ac83962bef84b68cef6d7937769730598", null ]
 ];

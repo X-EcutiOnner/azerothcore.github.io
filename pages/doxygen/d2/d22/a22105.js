@@ -1,6 +1,6 @@
 var a22105 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "d2/d3f/a22109.html", "d2/d3f/a22109" ],
-    [ "npc_vehicle_d16_propelled_delivery", "d2/d22/a22105.html#a93bed362ae78231b21327994a3e4cafd", null ],
-    [ "GetAI", "d2/d22/a22105.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
+    [ "npc_tournament_training_dummyAI", "d2/d3f/a22109.html", "d2/d3f/a22109" ],
+    [ "npc_tournament_training_dummy", "d2/d22/a22105.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
+    [ "GetAI", "d2/d22/a22105.html#a31257c155c3a49c69771156800cf6340", null ]
 ];

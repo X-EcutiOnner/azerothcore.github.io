@@ -1,6 +1,9 @@
 var a12865 =
 [
-    [ "bossId", "d8/db5/a12865.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
-    [ "circleId", "d8/db5/a12865.html#aaa379e61fda2f7225ab4089757df5d24", null ],
-    [ "runeId", "d8/db5/a12865.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
+    [ "HandleAfterApply", "d8/db5/a12865.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
+    [ "HandleAfterRemove", "d8/db5/a12865.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
+    [ "PeriodicTick", "d8/db5/a12865.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
+    [ "PrepareAuraScript", "d8/db5/a12865.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
+    [ "Register", "d8/db5/a12865.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
+    [ "Validate", "d8/db5/a12865.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
 ];

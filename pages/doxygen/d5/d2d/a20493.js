@@ -1,5 +1,6 @@
 var a20493 =
 [
-    [ "go_ulduar_do_not_push_this_button", "d5/d2d/a20493.html#aa204af213a643c001161e0c2f173ee6b", null ],
-    [ "OnGossipHello", "d5/d2d/a20493.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
+    [ "HandleAfterEffectApply", "d5/d2d/a20493.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
+    [ "PrepareAuraScript", "d5/d2d/a20493.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
+    [ "Register", "d5/d2d/a20493.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
 ];

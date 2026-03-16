@@ -1,6 +1,8 @@
 var a15121 =
 [
-    [ "npc_crate_helperAI", "d2/d94/a15121.html#ad58a2f3746da7862658fb3b9e1580836", null ],
-    [ "SpellHit", "d2/d94/a15121.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
-    [ "_marked", "d2/d94/a15121.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
+    [ "npc_doomfire_spirit", "d2/d94/a15121.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
+    [ "Reset", "d2/d94/a15121.html#a0600718fad91723eba74b903583c5942", null ],
+    [ "TryTeleportInDirection", "d2/d94/a15121.html#a7fc48df636df66a006a8179fd63e2a65", null ],
+    [ "UpdateAI", "d2/d94/a15121.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
+    [ "turnConstant", "d2/d94/a15121.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
 ];

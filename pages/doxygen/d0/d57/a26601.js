@@ -1,7 +1,6 @@
 var a26601 =
 [
-    [ "AfterRemove", "d0/d57/a26601.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
-    [ "PrepareAuraScript", "d0/d57/a26601.html#af338af238305f1872275e1e5e9fdee16", null ],
-    [ "Register", "d0/d57/a26601.html#aa266e794be35b51a399b13ee2d06199d", null ],
-    [ "Validate", "d0/d57/a26601.html#af58098eb7a904e20846cf728f5adc18b", null ]
+    [ "CheckProc", "d0/d57/a26601.html#a0158185a5c1c3b3d1d79f93bbb9c6fa7", null ],
+    [ "PrepareAuraScript", "d0/d57/a26601.html#a50084bc759ee453a3f5552ca2e039de2", null ],
+    [ "Register", "d0/d57/a26601.html#ab79fcdd56767e0199b96d24d71bea452", null ]
 ];

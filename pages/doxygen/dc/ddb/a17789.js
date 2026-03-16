@@ -1,6 +1,6 @@
 var a17789 =
 [
-    [ "PrepareAuraScript", "dc/ddb/a17789.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
-    [ "RecalculateHook", "dc/ddb/a17789.html#a829e96cabbb565922f7183adb3edf13c", null ],
-    [ "Register", "dc/ddb/a17789.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
+    [ "npc_kinetic_bombAI", "d1/dc1/a17793.html", "d1/dc1/a17793" ],
+    [ "npc_kinetic_bomb", "dc/ddb/a17789.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
+    [ "GetAI", "dc/ddb/a17789.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
 ];

@@ -1,5 +1,6 @@
 var a17801 =
 [
-    [ "achievement_ive_gone_and_made_a_mess", "dc/dc2/a17801.html#a0e71ea3afae02176f81231e51155c038", null ],
-    [ "OnCheck", "dc/dc2/a17801.html#a638cead986783523c7c35ecb9d885b11", null ]
+    [ "AddExtraDamage", "dc/dc2/a17801.html#adeedfdd7555dfd009c99db6f002f7488", null ],
+    [ "PrepareSpellScript", "dc/dc2/a17801.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
+    [ "Register", "dc/dc2/a17801.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
 ];

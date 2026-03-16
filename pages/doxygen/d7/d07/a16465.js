@@ -1,7 +1,10 @@
 var a16465 =
 [
-    [ "HandleScriptEffect", "d7/d07/a16465.html#a9582a8faa1b8ba973a76d651a7479348", null ],
-    [ "PrepareSpellScript", "d7/d07/a16465.html#a681102507df3aa365ee2e2f064be5e54", null ],
-    [ "Register", "d7/d07/a16465.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
-    [ "Validate", "d7/d07/a16465.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
+    [ "boss_sartharion_tenebron", "d7/d07/a16465.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
+    [ "ClearInstance", "d7/d07/a16465.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
+    [ "ExecuteEvent", "d7/d07/a16465.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
+    [ "JustDied", "d7/d07/a16465.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
+    [ "JustSummoned", "d7/d07/a16465.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
+    [ "Reset", "d7/d07/a16465.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
+    [ "summons2", "d7/d07/a16465.html#a59b131fcd2298640390fcd0f662f132d", null ]
 ];

@@ -1,6 +1,8 @@
 var a26185 =
 [
-    [ "HandleDummy", "db/dac/a26185.html#a42f48b9d7d657da75c8a4f5b6468011e", null ],
-    [ "PrepareSpellScript", "db/dac/a26185.html#a5efc666af2cb73c376706c20e41ace68", null ],
-    [ "Register", "db/dac/a26185.html#a46e61697212a43532e148ccb12a7d8e5", null ]
+    [ "HandleScript", "db/dac/a26185.html#ad99c741ef4bf707ec4b4726a3610d827", null ],
+    [ "Load", "db/dac/a26185.html#ab7aac5c557c76fdd195565a99d746dc9", null ],
+    [ "PrepareSpellScript", "db/dac/a26185.html#abb6e76d537d61b5b38ce4488d230d6de", null ],
+    [ "Register", "db/dac/a26185.html#a2f7e819dfa30f4f0d3645fde9c87408c", null ],
+    [ "Validate", "db/dac/a26185.html#a0767c66cbc288bee6ee0eb3a4fde315f", null ]
 ];

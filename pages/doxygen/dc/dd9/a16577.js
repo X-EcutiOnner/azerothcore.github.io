@@ -1,6 +1,6 @@
 var a16577 =
 [
-    [ "FilterTargets", "dc/dd9/a16577.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
-    [ "PrepareSpellScript", "dc/dd9/a16577.html#a5ede43deece629a38f5482280983b59a", null ],
-    [ "Register", "dc/dd9/a16577.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
+    [ "npc_halion_controllerAI", "d0/d64/a16581.html", "d0/d64/a16581" ],
+    [ "npc_halion_controller", "dc/dd9/a16577.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
+    [ "GetAI", "dc/dd9/a16577.html#a3c5ea3f0597c070005744ea788a05383", null ]
 ];

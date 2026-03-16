@@ -1,8 +1,13 @@
 var a05633 =
 [
-    [ "BaseSocketMgr", "d1/d03/a05633.html#a55ca5c800a783d89fbe05bd945374b84", null ],
-    [ "CreateThreads", "d1/d03/a05633.html#a98a0866ae616017010f639f0ad9fc72d", null ],
-    [ "Instance", "d1/d03/a05633.html#a9c56ed247f209709221a3e592f4d010f", null ],
-    [ "OnSocketAccept", "d1/d03/a05633.html#ac8169c9c11a33336d08acb0532e917bc", null ],
-    [ "StartNetwork", "d1/d03/a05633.html#a345e4f8cc1c216ed7eb9c3e96748170f", null ]
+    [ "MPSCQueueIntrusive", "d1/d03/a05633.html#a8e05361abed759932c49b0fc71ed09c1", null ],
+    [ "~MPSCQueueIntrusive", "d1/d03/a05633.html#a8155857825ceb1b7154ea82a63dbce08", null ],
+    [ "MPSCQueueIntrusive", "d1/d03/a05633.html#afaee06af7734e53ce50674e4ef7277b2", null ],
+    [ "Dequeue", "d1/d03/a05633.html#a798e36f41ef34c226690f76e9dc03fd6", null ],
+    [ "Enqueue", "d1/d03/a05633.html#a233004b906cfa66cdd285233105dddf7", null ],
+    [ "operator=", "d1/d03/a05633.html#a93cdd07d00b7dff8a7da5bf4846b26c7", null ],
+    [ "_dummy", "d1/d03/a05633.html#ad4d3a9cebe46fc524e474b7854a20b03", null ],
+    [ "_dummyPtr", "d1/d03/a05633.html#a115e9affe6159ae8aa08c6fc358e400c", null ],
+    [ "_head", "d1/d03/a05633.html#a7fb32fbb507e82f9e8a6c1691e281fcd", null ],
+    [ "_tail", "d1/d03/a05633.html#ac7e333db415e6301a02052c53779d1d4", null ]
 ];

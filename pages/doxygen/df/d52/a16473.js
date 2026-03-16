@@ -1,7 +1,8 @@
 var a16473 =
 [
-    [ "OnApply", "df/d52/a16473.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
-    [ "OnRemove", "df/d52/a16473.html#a781994b0be4588f4df29399fc900ec69", null ],
-    [ "PrepareAuraScript", "df/d52/a16473.html#aee648b80e7352edffb20fd60697e1d88", null ],
-    [ "Register", "df/d52/a16473.html#a53c56711e31500f827123c08f44072cb", null ]
+    [ "boss_sartharion_vesperon", "df/d52/a16473.html#a3ce6d2036faa108cb97ebf75bdb6ad33", null ],
+    [ "ClearInstance", "df/d52/a16473.html#a0c45127e9eb2be20765f92e1161e2e5a", null ],
+    [ "ExecuteEvent", "df/d52/a16473.html#aefc42452e75c476aef39ba0df3a03d70", null ],
+    [ "Reset", "df/d52/a16473.html#a948bfddea4eb3c0fe471d8f501a88d6c", null ],
+    [ "SummonedCreatureDies", "df/d52/a16473.html#a9df29b4c71c93da8cf7ae9f81b870345", null ]
 ];

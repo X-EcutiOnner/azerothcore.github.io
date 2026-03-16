@@ -1,7 +1,18 @@
 var a16345 =
 [
-    [ "DelayedTalk", "dc/dea/a16345.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
-    [ "Execute", "dc/dea/a16345.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
-    [ "_owner", "dc/dea/a16345.html#a9d13769bb3fbaed32919fc919da35006", null ],
-    [ "_talkId", "dc/dea/a16345.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
+    [ "boss_taldaram", "dc/dea/a16345.html#a6438d3534aca5e4a92afb3e6c6e24f73", null ],
+    [ "DamageTaken", "dc/dea/a16345.html#a2252fef717c2da047dc2d823e70660c0", null ],
+    [ "DoAction", "dc/dea/a16345.html#aee1cf0553e8c7ebebea4a83f2d7e6d5d", null ],
+    [ "InitializeAI", "dc/dea/a16345.html#a3d5b4628d6fb2db91ed073b042eefdc4", null ],
+    [ "JustDied", "dc/dea/a16345.html#a4b6c0f51fd3a2a8c00ef095eeeea785d", null ],
+    [ "JustEngagedWith", "dc/dea/a16345.html#a07e1cb5b53906f92a1f485340aa004e5", null ],
+    [ "JustSummoned", "dc/dea/a16345.html#a5ae9201a71fa665908f924647b262825", null ],
+    [ "KilledUnit", "dc/dea/a16345.html#a8fe516a08547ec03e8114b07e9c87d1f", null ],
+    [ "MovementInform", "dc/dea/a16345.html#a17ca98f742a06b1496b2216e984811d8", null ],
+    [ "OnAuraRemove", "dc/dea/a16345.html#ab8c64f75675db04f9ed8a37939e882e4", null ],
+    [ "Reset", "dc/dea/a16345.html#ae26fec572206d2f1f9acc229ee797496", null ],
+    [ "ScheduleCombatEvents", "dc/dea/a16345.html#a247e5357fcdf8da8e00bef09f3568ca3", null ],
+    [ "SpellHitTarget", "dc/dea/a16345.html#a0f228ea10a538a9ecf70b9f54d399150", null ],
+    [ "vanishDamage", "dc/dea/a16345.html#a85d8c95320e6f1f486a39043218f0350", null ],
+    [ "victimSperePos", "dc/dea/a16345.html#a06efb376b0d08207a0efce74770f21dc", null ]
 ];

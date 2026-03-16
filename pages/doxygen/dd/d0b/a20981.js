@@ -1,6 +1,6 @@
 var a20981 =
 [
-    [ "npc_frenzied_worgenAI", "df/d35/a20985.html", "df/d35/a20985" ],
-    [ "npc_frenzied_worgen", "dd/d0b/a20981.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
-    [ "GetAI", "dd/d0b/a20981.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
+    [ "OnEffect", "dd/d0b/a20981.html#aa24cfd6feec65f466e74c68484815c1e", null ],
+    [ "PrepareSpellScript", "dd/d0b/a20981.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
+    [ "Register", "dd/d0b/a20981.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
 ];

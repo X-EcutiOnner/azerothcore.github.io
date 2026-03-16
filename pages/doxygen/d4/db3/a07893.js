@@ -1,6 +1,4 @@
 var a07893 =
 [
-    [ "value_type", "d4/db3/a07893.html#a9297944511f34279a6439ade9d83b0c6", null ],
-    [ "StoreTo", "d4/db3/a07893.html#a1f5494d3c3472abbf8783026015b5f70", null ],
-    [ "tag", "d4/db3/a07893.html#a08484916162055a368e768b9f5300047", null ]
+    [ "type", "d4/db3/a07893.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9", null ]
 ];

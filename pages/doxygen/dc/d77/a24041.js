@@ -1,9 +1,7 @@
 var a24041 =
 [
-    [ "npc_enraged_spiritAI", "dc/d77/a24041.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
-    [ "JustDied", "dc/d77/a24041.html#a9322622f679dbc311bd8983f5037bd2e", null ],
-    [ "JustEngagedWith", "dc/d77/a24041.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
-    [ "Reset", "dc/d77/a24041.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
-    [ "UpdateAI", "dc/d77/a24041.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
-    [ "_scheduler", "dc/d77/a24041.html#afa6825696b0622849f877b392df4b326", null ]
+    [ "npc_maghar_captiveAI", "d4/d16/a24045.html", "d4/d16/a24045" ],
+    [ "npc_maghar_captive", "dc/d77/a24041.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
+    [ "GetAI", "dc/d77/a24041.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
+    [ "OnQuestAccept", "dc/d77/a24041.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
 ];

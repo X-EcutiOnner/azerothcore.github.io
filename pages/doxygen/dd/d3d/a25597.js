@@ -1,8 +1,6 @@
 var a25597 =
 [
-    [ "CheckProc", "dd/d3d/a25597.html#a8b3f8cf17dda2322d0e9f8f4211cbd20", null ],
-    [ "HandleProc", "dd/d3d/a25597.html#ae034bd626880858c9701ed963de993c9", null ],
-    [ "isException", "dd/d3d/a25597.html#aa5f4fcd1b9b710e2931460207cfc6dea", null ],
-    [ "PrepareAuraScript", "dd/d3d/a25597.html#a50348fd27947f67df03bf4ddbec89cca", null ],
-    [ "Register", "dd/d3d/a25597.html#aaa14b34ac54b4caee76ff72d07dd5c2d", null ]
+    [ "PrepareAuraScript", "dd/d3d/a25597.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
+    [ "Register", "dd/d3d/a25597.html#abb54f08b1932e3638537656360d3aad8", null ],
+    [ "AuraEffectHandleModes", "dd/d3d/a25597.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
 ];

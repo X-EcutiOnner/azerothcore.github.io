@@ -1,8 +1,6 @@
 var a24857 =
 [
-    [ "OnApply", "d0/d35/a24857.html#a6aa83e925a93dc7ff89c0357debc75d1", null ],
-    [ "OnRemove", "d0/d35/a24857.html#a3ced5941c25fce087699aa095cd487c9", null ],
-    [ "PrepareAuraScript", "d0/d35/a24857.html#a497776c6ffdda8670fa255b76057bf2c", null ],
-    [ "Register", "d0/d35/a24857.html#ac05f2898ebbb78bf55d70d8a660fb22d", null ],
-    [ "Validate", "d0/d35/a24857.html#a44fc9ff07b9db5b2a1263d244916c79f", null ]
+    [ "HandleAfterCast", "d0/d35/a24857.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
+    [ "PrepareSpellScript", "d0/d35/a24857.html#a602d7c920aa73a9c3c69222854093036", null ],
+    [ "Register", "d0/d35/a24857.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
 ];

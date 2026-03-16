@@ -1,6 +1,7 @@
 var a24633 =
 [
-    [ "PrepareSpellScript", "db/d60/a24633.html#ae8ef8bea1a6afa3f810c476e038bacc6", null ],
-    [ "RecalculateDamage", "db/d60/a24633.html#a856fdecdde1c68a163caf61afb2b0b90", null ],
-    [ "Register", "db/d60/a24633.html#a7f8c5c4920a87605b716e9e85b43ef47", null ]
+    [ "HandleProc", "db/d60/a24633.html#a6bfa44b7adfff5aebbfe96bd7b983744", null ],
+    [ "PrepareAuraScript", "db/d60/a24633.html#adf8a9d15a105bb639ae240d6062a7041", null ],
+    [ "Register", "db/d60/a24633.html#a7e63aa6af08411ad8e75fc69bdb84de5", null ],
+    [ "Validate", "db/d60/a24633.html#a6a70833aaae84cbb512d3ebaa79fe301", null ]
 ];

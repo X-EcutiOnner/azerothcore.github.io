@@ -1,7 +1,6 @@
 var a27009 =
 [
-    [ "npc_spirit_shadeAI", "d0/d97/a27009.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "d0/d97/a27009.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "d0/d97/a27009.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "d0/d97/a27009.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "HandleScriptEffect", "d0/d97/a27009.html#ab958c74ba8b40488751e5137eb0b6a66", null ],
+    [ "PrepareSpellScript", "d0/d97/a27009.html#a810fcbfe27f3c6991d1c5f599609b6f7", null ],
+    [ "Register", "d0/d97/a27009.html#a12c61c9057250f12ea50be74ba74c948", null ]
 ];

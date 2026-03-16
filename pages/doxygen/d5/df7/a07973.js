@@ -1,6 +1,5 @@
 var a07973 =
 [
-    [ "ConditionSourceInfo", "d5/df7/a07973.html#adc6441ec52fab3ab8d2b58a146a3fef3", null ],
-    [ "mConditionTargets", "d5/df7/a07973.html#acb67deba44021698a447e8288bca0bd4", null ],
-    [ "mLastFailedCondition", "d5/df7/a07973.html#a099d3457a0a15d8feeacc0dc8c32d439", null ]
+    [ "IsColorValid", "d5/df7/a07973.html#a537a2beaa8321095d2d67b8fb655acea", null ],
+    [ "IsTextValid", "d5/df7/a07973.html#aeaa47302a91b5882afae3950ffc460cc", null ]
 ];

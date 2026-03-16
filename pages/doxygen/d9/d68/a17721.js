@@ -1,7 +1,5 @@
 var a17721 =
 [
-    [ "OnProc", "d9/d68/a17721.html#a5b6e96abb900da33657cdbbd137138e3", null ],
-    [ "PrepareAuraScript", "d9/d68/a17721.html#a5502476536a923e77af67c4bbcf005e3", null ],
-    [ "Register", "d9/d68/a17721.html#aca08edf219504156d6157c95702bb815", null ],
-    [ "Validate", "d9/d68/a17721.html#a52b1231f37e8b3d810614365659a98b6", null ]
+    [ "achievement_snakes_whyd_it_have_to_be_snakes", "d9/d68/a17721.html#a4245e53260b83f77f9b4313e13f1f7d3", null ],
+    [ "OnCheck", "d9/d68/a17721.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0", null ]
 ];

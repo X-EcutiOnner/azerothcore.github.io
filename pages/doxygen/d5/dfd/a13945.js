@@ -1,6 +1,6 @@
 var a13945 =
 [
-    [ "x", "d5/dfd/a13945.html#afeb59642abc7d5114668b2c27e315228", null ],
-    [ "y", "d5/dfd/a13945.html#a3e2454dd579de689289003a343e7f29c", null ],
-    [ "z", "d5/dfd/a13945.html#a4fbcf991d732545b4f9c19689ff9d805", null ]
+    [ "instance_sunwell_plateau_InstanceMapScript", "db/d85/a13949.html", "db/d85/a13949" ],
+    [ "instance_sunwell_plateau", "d5/dfd/a13945.html#a31d2245a9237c8dc4480b9d26ff3557c", null ],
+    [ "GetInstanceScript", "d5/dfd/a13945.html#a5960785a845c87e2e1730cfd865b44b4", null ]
 ];

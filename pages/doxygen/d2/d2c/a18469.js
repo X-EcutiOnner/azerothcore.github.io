@@ -1,6 +1,7 @@
 var a18469 =
 [
-    [ "OrderWhelpTargetSelector", "d2/d2c/a18469.html#a5e433367ebbf88c6bb8fef9d43eafcfa", null ],
-    [ "operator()", "d2/d2c/a18469.html#abf98b730a2b794012c28b61ab8bb6b6c", null ],
-    [ "_owner", "d2/d2c/a18469.html#ae475da3cca3d6288ce7df0b84d59005e", null ]
+    [ "HandleScript", "d2/d2c/a18469.html#a37b261d0df2829788d8290a9194913f5", null ],
+    [ "PrepareSpellScript", "d2/d2c/a18469.html#a69386dbef57322393a38eec90662135f", null ],
+    [ "Register", "d2/d2c/a18469.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
+    [ "Validate", "d2/d2c/a18469.html#a63c446574c700a895d7fbc5bb2b81508", null ]
 ];

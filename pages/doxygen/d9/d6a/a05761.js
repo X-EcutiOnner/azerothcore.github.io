@@ -1,6 +1,8 @@
 var a05761 =
 [
-    [ "handler", "d9/d6a/a05761.html#a8074991652af9e5c8752dd4ff5e6e6cc", null ],
-    [ "packetSize", "d9/d6a/a05761.html#a952f7f7ff3017efa4c3d127baa848785", null ],
-    [ "status", "d9/d6a/a05761.html#aaf1066ba6414c519c889e3e8e52d38f2", null ]
+    [ "category", "d9/d6a/a05761.html#a6a53b4b68647fdde65e3c2363127fc4f", null ],
+    [ "char_type", "d9/d6a/a05761.html#aaecf7407fc4cff91008168377114d7cd", null ],
+    [ "ACLogSink", "d9/d6a/a05761.html#a070880d742fd84b44c4614a76952e589", null ],
+    [ "write", "d9/d6a/a05761.html#adad5e421ed10b296eae8b9c52f5e76f5", null ],
+    [ "callback_", "d9/d6a/a05761.html#a360b91b740efaa05309725f6678eb22a", null ]
 ];

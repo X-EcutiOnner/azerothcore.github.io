@@ -1,7 +1,11 @@
 var a20917 =
 [
-    [ "HandleEffectPeriodic", "dc/d7e/a20917.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
-    [ "PrepareAuraScript", "dc/d7e/a20917.html#a748cd347867557b5048d9ba0c112cd80", null ],
-    [ "Register", "dc/d7e/a20917.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
-    [ "Validate", "dc/d7e/a20917.html#afa86789ef14b1d06094705ba6cfb9205", null ]
+    [ "boss_yoggsaron_lich_king", "dc/d7e/a20917.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
+    [ "NextStep", "dc/d7e/a20917.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
+    [ "Reset", "dc/d7e/a20917.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
+    [ "Say", "dc/d7e/a20917.html#ac7687fe1253701c702cf2c17986727ec", null ],
+    [ "UpdateAI", "dc/d7e/a20917.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
+    [ "_checkTimer", "dc/d7e/a20917.html#a196ffc443569494bed79f623dd9cdca3", null ],
+    [ "_running", "dc/d7e/a20917.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
+    [ "_step", "dc/d7e/a20917.html#a97244534b8c6a69807388b620df2263f", null ]
 ];

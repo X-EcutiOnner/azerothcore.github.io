@@ -1,5 +1,7 @@
 var a20257 =
 [
-    [ "achievement_smell_saronite", "d7/df4/a20257.html#a42dce2aefa2561952dcf5289126035a8", null ],
-    [ "OnCheck", "d7/df4/a20257.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
+    [ "boss_flame_leviathan_safety_container", "d7/df4/a20257.html#a4519a6bf9c96ff13df4ae019b02f3593", null ],
+    [ "MovementInform", "d7/df4/a20257.html#a42842de299fd9346cc0d61b649b652a4", null ],
+    [ "UpdateAI", "d7/df4/a20257.html#a55119d077f905a8207ad2afbe31f17a4", null ],
+    [ "_allowTimer", "d7/df4/a20257.html#a70134398c054c837407d6a22591a2d96", null ]
 ];

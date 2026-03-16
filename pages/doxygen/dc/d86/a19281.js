@@ -1,7 +1,9 @@
 var a19281 =
 [
-    [ "HandleScript", "dc/d86/a19281.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
-    [ "Launch", "dc/d86/a19281.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
-    [ "PrepareSpellScript", "dc/d86/a19281.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
-    [ "Register", "dc/d86/a19281.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "dc/d86/a19281.html#a91868021309239f5582bb7ee89baec13", null ],
+    [ "AttackStart", "dc/d86/a19281.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
+    [ "JustEngagedWith", "dc/d86/a19281.html#a12927240144022174e3d190be6b34976", null ],
+    [ "Reset", "dc/d86/a19281.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
+    [ "UpdateAI", "dc/d86/a19281.html#a969a36e147006971a93711349f90c193", null ],
+    [ "events", "dc/d86/a19281.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
 ];

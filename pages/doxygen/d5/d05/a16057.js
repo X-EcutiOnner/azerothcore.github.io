@@ -1,6 +1,6 @@
 var a16057 =
 [
-    [ "npc_rivern_frostwind", "d5/d05/a16057.html#a0675c120fc28b26c7ea3c35f8d3f2a64", null ],
-    [ "OnGossipHello", "d5/d05/a16057.html#a90a6582633336de422c9f98973562b32", null ],
-    [ "OnGossipSelect", "d5/d05/a16057.html#a067ff91179f551633594d488eda269ed", null ]
+    [ "npc_anachronos_quest_triggerAI", "d5/df0/a16061.html", "d5/df0/a16061" ],
+    [ "npc_anachronos_quest_trigger", "d5/d05/a16057.html#ad39871952acd3152b51820fe360f4ebd", null ],
+    [ "GetAI", "d5/d05/a16057.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
 ];

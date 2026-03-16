@@ -1,15 +1,13 @@
 var a03248 =
 [
-    [ "boss_hydromancer_thespia", "d3/df6/a23362.html", "d3/df6/a23362" ],
-    [ "HydromancerThespia", "d9/d01/a03248.html#a3f4b673ff8add0ad1c96080f6252130d", [
-      [ "SAY_SUMMON", "d9/d01/a03248.html#a3f4b673ff8add0ad1c96080f6252130dacebbfa1f13b8de4f039f5d550063c7bf", null ],
-      [ "SAY_AGGRO", "d9/d01/a03248.html#a3f4b673ff8add0ad1c96080f6252130da47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_SLAY", "d9/d01/a03248.html#a3f4b673ff8add0ad1c96080f6252130da9e64f6e600dd42567d18006912811f75", null ],
-      [ "SAY_DEAD", "d9/d01/a03248.html#a3f4b673ff8add0ad1c96080f6252130dafeeb59e6533ea7f2f818422052e0b671", null ],
-      [ "SAY_SPELL", "d9/d01/a03248.html#a3f4b673ff8add0ad1c96080f6252130dad25383e2c00eeae2e4b15e33298d79a2", null ],
-      [ "SPELL_LIGHTNING_CLOUD", "d9/d01/a03248.html#a3f4b673ff8add0ad1c96080f6252130dae91e1d3d8c305d3f37313774206628f2", null ],
-      [ "SPELL_LUNG_BURST", "d9/d01/a03248.html#a3f4b673ff8add0ad1c96080f6252130da56e2d21d9894c6b11ae15da9572894c6", null ],
-      [ "SPELL_ENVELOPING_WINDS", "d9/d01/a03248.html#a3f4b673ff8add0ad1c96080f6252130dacf98b779c795324d47e44b043eeacf92", null ]
+    [ "npc_underbat", "dc/d85/a23429.html", "dc/d85/a23429" ],
+    [ "spell_fungal_decay", "dc/d46/a23433.html", "dc/d46/a23433" ],
+    [ "spell_allergies", "d8/d9f/a23437.html", "d8/d9f/a23437" ],
+    [ "AllergiesEnum", "d9/d01/a03248.html#a597f861031d65ff9c7c3da68293f6847", [
+      [ "SPELL_SNEEZE", "d9/d01/a03248.html#a597f861031d65ff9c7c3da68293f6847aca231923ca4e3560754e0ead3753c7e3", null ]
     ] ],
-    [ "AddSC_boss_hydromancer_thespia", "d9/d01/a03248.html#a0a9bb9014bd5526d13141dcef207c234", null ]
+    [ "UnderbatSpells", "d9/d01/a03248.html#aba9ed07daed7ae7df6becb96f5194f52", [
+      [ "SPELL_TENTACLE_LASH", "d9/d01/a03248.html#aba9ed07daed7ae7df6becb96f5194f52a8fb7d802a437e3e383ba2095ae12b96a", null ]
+    ] ],
+    [ "AddSC_underbog", "d9/d01/a03248.html#a8c9725cac978bfa0eb0405faa6588549", null ]
 ];

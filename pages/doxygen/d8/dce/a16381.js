@@ -1,5 +1,6 @@
 var a16381 =
 [
-    [ "at_baltharus_plateau", "d8/dce/a16381.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
-    [ "OnTrigger", "d8/dce/a16381.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
+    [ "PrepareSpellScript", "d8/dce/a16381.html#a2a3602af522bb8658c1bfdede1234efd", null ],
+    [ "Register", "d8/dce/a16381.html#aba235111ea4e186064a85295466f2a3f", null ],
+    [ "SetDest", "d8/dce/a16381.html#a89827e4db37bea4847c79265d95386c6", null ]
 ];

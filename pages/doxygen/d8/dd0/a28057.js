@@ -1,6 +1,9 @@
 var a28057 =
 [
-    [ "Id", "d8/dd0/a28057.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
-    [ "SpellId", "d8/dd0/a28057.html#ae8c119bacf706916f331d3f316fb1347", null ],
-    [ "TypeFlags", "d8/dd0/a28057.html#aae92871758e9a738a888cacf0946f16b", null ]
+    [ "emerald_dragonAI", "d8/dd0/a28057.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
+    [ "ExecuteEvent", "d8/dd0/a28057.html#a6e60f146c7b86a119f269bf755831ac6", null ],
+    [ "JustSummoned", "d8/dd0/a28057.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
+    [ "KilledUnit", "d8/dd0/a28057.html#a69b24bf865ecd38822d5602314cddf11", null ],
+    [ "Reset", "d8/dd0/a28057.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
+    [ "UpdateAI", "d8/dd0/a28057.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
 ];

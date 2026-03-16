@@ -1,15 +1,5 @@
 var a02312 =
 [
-    [ "MonsterMoveType", "df/d73/a02312.html#afd3f02560404659d901713e1228d9339", [
-      [ "MonsterMoveNormal", "df/d73/a02312.html#afd3f02560404659d901713e1228d9339aba693dab24bf78b0173914ecf339c558", null ],
-      [ "MonsterMoveStop", "df/d73/a02312.html#afd3f02560404659d901713e1228d9339a6520302858321c3083951d598e05a167", null ],
-      [ "MonsterMoveFacingSpot", "df/d73/a02312.html#afd3f02560404659d901713e1228d9339a395aabd5641c37343d08506cfc4e4323", null ],
-      [ "MonsterMoveFacingTarget", "df/d73/a02312.html#afd3f02560404659d901713e1228d9339a61f5156f5db570fd9f5db194179ea7f9", null ],
-      [ "MonsterMoveFacingAngle", "df/d73/a02312.html#afd3f02560404659d901713e1228d9339ac65e2c863bd6cadc1dc72c4720e61642", null ]
-    ] ],
-    [ "operator<<", "df/d73/a02312.html#ac2e9418dfdb25149170911f2cd0dd948", null ],
-    [ "operator>>", "df/d73/a02312.html#ae394b26156a3fa0d1d828d30cee475b1", null ],
-    [ "WriteCatmullRomCyclicPath", "df/d73/a02312.html#ae740cc738fed507e64b3243ce62c5952", null ],
-    [ "WriteCatmullRomPath", "df/d73/a02312.html#a92efeab3fe080f348fa91cb9bc5a1b05", null ],
-    [ "WriteLinearPath", "df/d73/a02312.html#ad0db2c4fd496c84301b43d46fbffb460", null ]
+    [ "Movement::Location", "df/d92/a10325.html", "df/d92/a10325" ],
+    [ "Movement::MoveSpline", "de/d6a/a10329.html", "de/d6a/a10329" ]
 ];

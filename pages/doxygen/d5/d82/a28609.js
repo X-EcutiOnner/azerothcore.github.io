@@ -1,13 +1,6 @@
 var a28609 =
 [
-    [ "MPQArchive", "d5/d82/a28609.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "d5/d82/a28609.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "MPQArchive", "d5/d82/a28609.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "d5/d82/a28609.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "close", "d5/d82/a28609.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "close", "d5/d82/a28609.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "GetFileListTo", "d5/d82/a28609.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "GetFileListTo", "d5/d82/a28609.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "isOpened", "d5/d82/a28609.html#a2026335b9ede29197acfaac8513456d5", null ],
-    [ "mpq_a", "d5/d82/a28609.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
+    [ "npc_venomhide_hatchlingAI", "d5/d82/a28609.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "d5/d82/a28609.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "d5/d82/a28609.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

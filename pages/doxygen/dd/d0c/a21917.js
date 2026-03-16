@@ -1,6 +1,6 @@
 var a21917 =
 [
-    [ "ChangeSummonPos", "dd/d0c/a21917.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "dd/d0c/a21917.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "dd/d0c/a21917.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "npc_venture_co_stragglerAI", "da/d04/a21921.html", "da/d04/a21921" ],
+    [ "npc_venture_co_straggler", "dd/d0c/a21917.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
+    [ "GetAI", "dd/d0c/a21917.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
 ];

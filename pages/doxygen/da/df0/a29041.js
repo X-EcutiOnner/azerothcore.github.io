@@ -1,5 +1,7 @@
 var a29041 =
 [
-    [ "go_scourge_cage", "da/df0/a29041.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
-    [ "OnGossipHello", "da/df0/a29041.html#ab4e97cd290342d623d212cc7cec227d5", null ]
+    [ "bit_index", "da/df0/a29041.html#a1e5cb3fc001169a204507a084435a211", null ],
+    [ "ID", "da/df0/a29041.html#a63fe7a87e019780d20e86e48efb02eac", null ],
+    [ "nameFemale", "da/df0/a29041.html#ad0380caf2526715faaddc9330062d90a", null ],
+    [ "nameMale", "da/df0/a29041.html#a74a767731c96d3d815ddde5a06f68599", null ]
 ];

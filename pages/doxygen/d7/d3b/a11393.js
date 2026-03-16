@@ -1,8 +1,5 @@
 var a11393 =
 [
-    [ "SkillExtraItemEntry", "d7/d3b/a11393.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
-    [ "SkillExtraItemEntry", "d7/d3b/a11393.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
-    [ "additionalCreateChance", "d7/d3b/a11393.html#a299d886468e9caf22f9d6ce80a64c247", null ],
-    [ "newMaxOrEntry", "d7/d3b/a11393.html#adfda967d36154b039495f0b289a5c9d1", null ],
-    [ "requiredSpecialization", "d7/d3b/a11393.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
+    [ "PacketHandler", "d7/d3b/a11393.html#ae28d6ea18799c4dc90be8225fd2fad66", null ],
+    [ "Call", "d7/d3b/a11393.html#a9468be560aba807419fb7e28bf0d6a41", null ]
 ];

@@ -1,5 +1,6 @@
 var a10077 =
 [
-    [ "IdleMovementFactory", "d1/d50/a10077.html#af2bb5ef9fe67f3dda64d6ce44e825f52", null ],
-    [ "Create", "d1/d50/a10077.html#a5e99eab3436482927bc83100f85581cd", null ]
+    [ "AllowMount", "d1/d50/a10077.html#a611108f0c1f623bb0761a174e477df22", null ],
+    [ "Parent", "d1/d50/a10077.html#a6298c3dd0c8939b1cf228727c363918e", null ],
+    [ "ScriptId", "d1/d50/a10077.html#ac9cdaf7fc486bc89b5c5d95ac13146da", null ]
 ];

@@ -1,12 +1,17 @@
 var a09285 =
 [
-    [ "GridTerrainLoader", "da/d46/a09285.html#a9f5094ad19163dc8ac3f3c4bada48ee9", null ],
-    [ "ExistMap", "da/d46/a09285.html#a980cb9f6537642db8ae0825d14b6bb68", null ],
-    [ "ExistVMap", "da/d46/a09285.html#a17bdde445c48738ade280bd1cdda0619", null ],
-    [ "LoadMap", "da/d46/a09285.html#ac220ce61dd0c3e514dcff2465c61af0f", null ],
-    [ "LoadMMap", "da/d46/a09285.html#a8b3be4eb509393af8a2a927bc15947c9", null ],
-    [ "LoadTerrain", "da/d46/a09285.html#a097556a8a778efa22ab9d50cbda2649a", null ],
-    [ "LoadVMap", "da/d46/a09285.html#ac4e66140ef37fb3dc0f990cc196d106f", null ],
-    [ "_grid", "da/d46/a09285.html#a1ec8202457f9df4fdc3b356e30f1a15d", null ],
-    [ "_map", "da/d46/a09285.html#a2547ac0b9ee6ae7b760227d5051dea85", null ]
+    [ "ActionMenuID", "da/d46/a09285.html#a486f9af68a02ae52d51772a3421db377", null ],
+    [ "ActionPoiID", "da/d46/a09285.html#a9a20a64e29d0464c40f57286b9c1804d", null ],
+    [ "BoxBroadcastTextID", "da/d46/a09285.html#a12882942190a9a568b9dc30214ee6a88", null ],
+    [ "BoxCoded", "da/d46/a09285.html#a4f7ba04e2d1078909d9587569504f4cd", null ],
+    [ "BoxMoney", "da/d46/a09285.html#ab00c368181ccaba98e878d49de6138e2", null ],
+    [ "BoxText", "da/d46/a09285.html#ad794b3c4e84dedce43ff2c80d3c38d4a", null ],
+    [ "Conditions", "da/d46/a09285.html#aa1632404bbc869b17dab8833f660c52b", null ],
+    [ "MenuID", "da/d46/a09285.html#a6e5b1b2c86bd05b81626a7230349be9a", null ],
+    [ "OptionBroadcastTextID", "da/d46/a09285.html#af8af4b4c27405908482db73797cd2d49", null ],
+    [ "OptionIcon", "da/d46/a09285.html#a0b73f7ce36e7703725e6b0d01c2a4564", null ],
+    [ "OptionID", "da/d46/a09285.html#adf2a8d247a88a062a75eb726dd43d019", null ],
+    [ "OptionNpcFlag", "da/d46/a09285.html#a6f41e9adfcb11adabdd79b55c1d47bfc", null ],
+    [ "OptionText", "da/d46/a09285.html#a2606ac76a4f3607e45676ed3f1df3a83", null ],
+    [ "OptionType", "da/d46/a09285.html#af53a42c8d4ec23be46dfdb16abc9c4ff", null ]
 ];

@@ -1,7 +1,15 @@
 var a19541 =
 [
-    [ "npc_naxxramas_trigger", "d2/dc8/a19541.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
-    [ "Reset", "d2/dc8/a19541.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
-    [ "UpdateAI", "d2/dc8/a19541.html#acd051dd7790aa37cd2375479433509cb", null ],
-    [ "_events", "d2/dc8/a19541.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
+    [ "boss_heigan", "d2/dc8/a19541.html#a402b76bd927dd738bdbdf7faff93394c", null ],
+    [ "CheckSafetyDance", "d2/dc8/a19541.html#a378397cc91408b812c76f657a96285e1", null ],
+    [ "JustDied", "d2/dc8/a19541.html#a259c99e12b92ccb99af16949e37b5c48", null ],
+    [ "JustEngagedWith", "d2/dc8/a19541.html#a55f1fd72fefe1a47cbc9390ad7c2831d", null ],
+    [ "KilledUnit", "d2/dc8/a19541.html#a5210d37ca829ff81ca25478a0c27a8ea", null ],
+    [ "Reset", "d2/dc8/a19541.html#a11035ab423fd556ccdb1ec8f85160df3", null ],
+    [ "StartFightPhase", "d2/dc8/a19541.html#ab1ae2d814f7258aed760a1644d2de69a", null ],
+    [ "UpdateAI", "d2/dc8/a19541.html#a36c0bc5abff61b435f2a8163687b122a", null ],
+    [ "_currentPhase", "d2/dc8/a19541.html#a1065c6221b30536344e7d4d0779abd17", null ],
+    [ "_currentSection", "d2/dc8/a19541.html#adcf2448a0868ea3e900609c8e7e34154", null ],
+    [ "_eruptionScheduler", "d2/dc8/a19541.html#a53ed837f6a898551bc7daa4be8b05ee6", null ],
+    [ "_moveRight", "d2/dc8/a19541.html#a43d360ff1b8e569a5f9f894b456cb751", null ]
 ];

@@ -1,5 +1,6 @@
 var a19521 =
 [
-    [ "at_thaddius_entrance", "d0/d39/a19521.html#ad81a60cac337baad82ea526de1d151d1", null ],
-    [ "_OnTrigger", "d0/d39/a19521.html#acc869cade2b48ceb782d78aa7df6f246", null ]
+    [ "boss_grobbulus_poison_cloudAI", "d2/d64/a19525.html", "d2/d64/a19525" ],
+    [ "boss_grobbulus_poison_cloud", "d0/d39/a19521.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
+    [ "GetAI", "d0/d39/a19521.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
 ];

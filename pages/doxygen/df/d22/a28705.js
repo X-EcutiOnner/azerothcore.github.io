@@ -1,12 +1,5 @@
 var a28705 =
 [
-    [ "Bounds", "df/d22/a28705.html#a1e982b341ac3859fad38b2efc81ab8ea", null ],
-    [ "DoodadSet", "df/d22/a28705.html#abbf6e50e76b120be17215cfcf227a524", null ],
-    [ "Flags", "df/d22/a28705.html#a06f5e96119239356eea45b9acdadf6e1", null ],
-    [ "Id", "df/d22/a28705.html#a952442c180e8d3710af31272b54eb6ec", null ],
-    [ "NameSet", "df/d22/a28705.html#a55df9aed38d8cf1503b21f5fd9d5e5d0", null ],
-    [ "Position", "df/d22/a28705.html#a7e6463db89eaf53bc20832afb1842a5b", null ],
-    [ "Rotation", "df/d22/a28705.html#a2c04715e800b9f375c287cced96643d1", null ],
-    [ "Scale", "df/d22/a28705.html#a142716fecae07abc013c7f3bd053c0ea", null ],
-    [ "UniqueId", "df/d22/a28705.html#a749e920740b9e91547fe1f87933d1c7d", null ]
+    [ "go_transport_the_iron_eagle", "df/d22/a28705.html#aba17edc2e3ac8e1b9996116c6f9bdc6f", null ],
+    [ "EventInform", "df/d22/a28705.html#af1970d07730ab0e5f688200289f48b69", null ]
 ];

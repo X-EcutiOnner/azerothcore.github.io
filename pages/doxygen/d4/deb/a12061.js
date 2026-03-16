@@ -1,5 +1,7 @@
 var a12061 =
 [
-    [ "flag", "d4/deb/a12061.html#a4ea67fc10eedfaa2e5e029e242e1c32f", null ],
-    [ "text", "d4/deb/a12061.html#a492e5e3c2373adba005034514b0a5a1e", null ]
+    [ "achievement_commandscript", "d4/deb/a12061.html#ac1c40d7b3b628cc206c44eae18592292", null ],
+    [ "GetCommands", "d4/deb/a12061.html#adeac4e6f74f006daa76b0ebb8ea1469c", null ],
+    [ "HandleAchievementAddCommand", "d4/deb/a12061.html#ac4f6addfb0c52d584bf8081436aa3d7a", null ],
+    [ "HandleAchievementCheckAllCommand", "d4/deb/a12061.html#a0e3b83961ff20899a8492c8d8b7c13be", null ]
 ];

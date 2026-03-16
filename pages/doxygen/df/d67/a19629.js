@@ -1,9 +1,10 @@
 var a19629 =
 [
-    [ "HandleApply", "df/d67/a19629.html#a29679ed64fc288dc0e85beed2971d4be", null ],
-    [ "HandleRemove", "df/d67/a19629.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
-    [ "Load", "df/d67/a19629.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
-    [ "PrepareAuraScript", "df/d67/a19629.html#a2804f25643e59f3922291abcb055b641", null ],
-    [ "Register", "df/d67/a19629.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
-    [ "Validate", "df/d67/a19629.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
+    [ "boss_razuvious_minionAI", "df/d67/a19629.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
+    [ "DoAction", "df/d67/a19629.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
+    [ "JustEngagedWith", "df/d67/a19629.html#ada2e7a5ac1f129572a0689afce49d310", null ],
+    [ "KilledUnit", "df/d67/a19629.html#ab1a6f582098c9d1218551af0aae1815d", null ],
+    [ "Reset", "df/d67/a19629.html#a170de8517a03a0e78b1e67652869fd9a", null ],
+    [ "ScheduleAttackDummy", "df/d67/a19629.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
+    [ "UpdateAI", "df/d67/a19629.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
 ];

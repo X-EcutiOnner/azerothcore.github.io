@@ -1,6 +1,6 @@
 var a10881 =
 [
-    [ "GuildBankTextQuery", "d1/d55/a10881.html#ab74c6b61182349e3697d6b8f2f3393d2", null ],
-    [ "Read", "d1/d55/a10881.html#af20bd5c8e58b891028613625fb14807d", null ],
-    [ "Tab", "d1/d55/a10881.html#a368054d83fb99317ffd14b4d79ffd0af", null ]
+    [ "GuildInviteByName", "d1/d55/a10881.html#a5e0bab98d87000ad796ebb2753cd566b", null ],
+    [ "Read", "d1/d55/a10881.html#a91f3fba33e265cbb119f1d3e69d4a8ca", null ],
+    [ "Name", "d1/d55/a10881.html#a048c7ed9de19bcb57c0cdb10e2cf3bef", null ]
 ];

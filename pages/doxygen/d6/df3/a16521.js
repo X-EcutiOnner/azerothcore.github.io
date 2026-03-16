@@ -1,11 +1,7 @@
 var a16521 =
 [
-    [ "boss_saviana_ragefireAI", "d6/df3/a16521.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
-    [ "JustDied", "d6/df3/a16521.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
-    [ "JustEngagedWith", "d6/df3/a16521.html#a458eb370872c20441b5ec6ecd2c97500", null ],
-    [ "JustReachedHome", "d6/df3/a16521.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
-    [ "KilledUnit", "d6/df3/a16521.html#ac07513681c72d6748246cc7c349d117c", null ],
-    [ "MovementInform", "d6/df3/a16521.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
-    [ "Reset", "d6/df3/a16521.html#a4b7f103331c566cbf007a075161505af", null ],
-    [ "UpdateAI", "d6/df3/a16521.html#af36ca2a359f950a10214d07aad240324", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "d6/df3/a16521.html#aed531e61508d4d404827f47c6348a5e6", null ],
+    [ "JustEngagedWith", "d6/df3/a16521.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
+    [ "UpdateAI", "d6/df3/a16521.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
+    [ "_events", "d6/df3/a16521.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
 ];

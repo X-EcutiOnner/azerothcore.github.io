@@ -1,5 +1,7 @@
 var a22353 =
 [
-    [ "OutdoorPvP_silithus", "da/dcf/a22353.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
-    [ "GetOutdoorPvP", "da/dcf/a22353.html#a126d6acc77218addd10072199ccd2470", null ]
+    [ "npc_wg_quest_giver", "da/dcf/a22353.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "da/dcf/a22353.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "da/dcf/a22353.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "da/dcf/a22353.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

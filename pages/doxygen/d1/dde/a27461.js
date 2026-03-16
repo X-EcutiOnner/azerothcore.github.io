@@ -1,7 +1,8 @@
 var a27461 =
 [
-    [ "npc_guardianAI", "d1/dde/a27461.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
-    [ "JustEngagedWith", "d1/dde/a27461.html#a50257f80245bc59437e53083badcb056", null ],
-    [ "Reset", "d1/dde/a27461.html#a217df9bae079f56ffd70d27958fb2756", null ],
-    [ "UpdateAI", "d1/dde/a27461.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
+    [ "CheckFireTotem", "d1/dde/a27461.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "d1/dde/a27461.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "d1/dde/a27461.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "d1/dde/a27461.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "d1/dde/a27461.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

@@ -1,7 +1,5 @@
 var a24437 =
 [
-    [ "HandleProc", "d7/da6/a24437.html#a6bfa44b7adfff5aebbfe96bd7b983744", null ],
-    [ "PrepareAuraScript", "d7/da6/a24437.html#adf8a9d15a105bb639ae240d6062a7041", null ],
-    [ "Register", "d7/da6/a24437.html#a7e63aa6af08411ad8e75fc69bdb84de5", null ],
-    [ "Validate", "d7/da6/a24437.html#a6a70833aaae84cbb512d3ebaa79fe301", null ]
+    [ "npc_pet_pri_lightwell", "d7/da6/a24437.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
+    [ "InitializeAI", "d7/da6/a24437.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
 ];

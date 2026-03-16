@@ -1,12 +1,10 @@
 var a23353 =
 [
-    [ "boss_vazruden_the_herald", "d6/df7/a23353.html#a97f761b2e3477a22cdc65c68700de72c", null ],
-    [ "AttackStart", "d6/df7/a23353.html#a190621f4130b913348a49d6dfe76b591", null ],
-    [ "JustSummoned", "d6/df7/a23353.html#a66d8c6252e6baf88144da3af57bf65a4", null ],
-    [ "MovementInform", "d6/df7/a23353.html#abd89aa3911c626864f8aada889ce99c9", null ],
-    [ "Reset", "d6/df7/a23353.html#a18076b0fd12bc9a002394d5fe3aa5f81", null ],
-    [ "SetData", "d6/df7/a23353.html#a7dcbec1c99fdf4f740656a8379a99080", null ],
-    [ "SummonedCreatureDespawn", "d6/df7/a23353.html#a7621077082a3b53d1d21265e6dd00dce", null ],
-    [ "SummonedCreatureDies", "d6/df7/a23353.html#a336feba0d88e4fccce28b2730a9aea9e", null ],
-    [ "UpdateAI", "d6/df7/a23353.html#adc98e358a751fd9881589aada4baf320", null ]
+    [ "boss_warlord_kalithresh", "d6/df7/a23353.html#afcf2288fbea2d5010c41344ce0247559", null ],
+    [ "JustDied", "d6/df7/a23353.html#a1947562aa9dafea371e2f2da824a3f65", null ],
+    [ "JustEngagedWith", "d6/df7/a23353.html#a2712f5c363c3929550b77ef2536b1385", null ],
+    [ "KilledUnit", "d6/df7/a23353.html#a06855288497f5335a236867ef681d3f8", null ],
+    [ "MoveInLineOfSight", "d6/df7/a23353.html#a544da19b6c3a6f159ed6b1639def1071", null ],
+    [ "Reset", "d6/df7/a23353.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
+    [ "_introDone", "d6/df7/a23353.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
 ];

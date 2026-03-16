@@ -1,4 +1,8 @@
 var a10485 =
 [
-    [ "ModuleScript", "da/d5a/a10485.html#a145c67a6c12a18527a4e7011a66b1760", null ]
+    [ "AllCommandScript", "da/d5a/a10485.html#a7ff235b904eecdd4d02d2025c4078980", null ],
+    [ "IsDatabaseBound", "da/d5a/a10485.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
+    [ "OnBeforeIsInvokerVisible", "da/d5a/a10485.html#a6f85dc271c1b61244978aa4474e708b0", null ],
+    [ "OnHandleDevCommand", "da/d5a/a10485.html#aba983f0e052ece230617573f04a35c92", null ],
+    [ "OnTryExecuteCommand", "da/d5a/a10485.html#a3a116836453073e77bbd8ab974f36f47", null ]
 ];

@@ -1,6 +1,10 @@
 var a21513 =
 [
-    [ "npc_dalaran_warriorAI", "d2/de9/a21517.html", "d2/de9/a21517" ],
-    [ "npc_dalaran_warrior", "db/ddd/a21513.html#a13d44b85173232ddedcc35184d50549c", null ],
-    [ "GetAI", "db/ddd/a21513.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
+    [ "npc_sinkhole_kill_creditAI", "db/ddd/a21513.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
+    [ "Reset", "db/ddd/a21513.html#a677990d64d2963ff995d9d8522c5aa81", null ],
+    [ "SpellHit", "db/ddd/a21513.html#a95eaf518fb18b67820d6195cd525b017", null ],
+    [ "UpdateAI", "db/ddd/a21513.html#a75611004a543bece9d3f51914547f2fe", null ],
+    [ "casterGuid", "db/ddd/a21513.html#a147921788b07f5e776e03aaf15049cf0", null ],
+    [ "phase", "db/ddd/a21513.html#aa45455a8d540d6f942c948cf56d11f05", null ],
+    [ "phaseTimer", "db/ddd/a21513.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
 ];

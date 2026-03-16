@@ -1,14 +1,7 @@
 var a08765 =
 [
-    [ "SocialMap", "d1/de9/a08765.html#a2b80fa18a6f1ed54fda7719867f45ebd", null ],
-    [ "SocialMgr", "d1/de9/a08765.html#a3cff8262ce10d2e8c8c38dc834230545", null ],
-    [ "~SocialMgr", "d1/de9/a08765.html#aef859e6c923a6ba4bb7ac0049f17463d", null ],
-    [ "BroadcastToFriendListers", "d1/de9/a08765.html#a55b35ea17ebfea4ff31710186b87865f", null ],
-    [ "GetFriendInfo", "d1/de9/a08765.html#a7d0c4638b6fde1bf614d90492160ee55", null ],
-    [ "instance", "d1/de9/a08765.html#a223f3d7811d8c360da7f467b70af808f", null ],
-    [ "LoadFromDB", "d1/de9/a08765.html#aab17f5c27494cfdf2b1c5d5038f446a0", null ],
-    [ "MakeFriendStatusPacket", "d1/de9/a08765.html#af30fe2f3223dc7ad9094e44393420d3a", null ],
-    [ "RemovePlayerSocial", "d1/de9/a08765.html#af537c83cc3d481dde68d0a60aa122289", null ],
-    [ "SendFriendStatus", "d1/de9/a08765.html#acf245ca689bd5c0efe4a791b9e0e3c5f", null ],
-    [ "m_socialMap", "d1/de9/a08765.html#a2f8a276598ad01d350aa245fcef82a7a", null ]
+    [ "IsInSpec", "d1/de9/a08765.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
+    [ "Active", "d1/de9/a08765.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
+    [ "specMask", "d1/de9/a08765.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
+    [ "State", "d1/de9/a08765.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
 ];

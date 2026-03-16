@@ -1,9 +1,5 @@
 var a28345 =
 [
-    [ "adtId", "d8/d78/a28345.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
-    [ "areaId", "d8/d78/a28345.html#a7f652c68036429350543fc5a2cc6861e", null ],
-    [ "Flags", "d8/d78/a28345.html#a60f9a61948d1e28587c9d1a338730f37", null ],
-    [ "groupId", "d8/d78/a28345.html#a09052bad3028899580ffedd556672b64", null ],
-    [ "Id", "d8/d78/a28345.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
-    [ "rootId", "d8/d78/a28345.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
+    [ "item_incendiary_explosives", "d8/d78/a28345.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
+    [ "OnUse", "d8/d78/a28345.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
 ];

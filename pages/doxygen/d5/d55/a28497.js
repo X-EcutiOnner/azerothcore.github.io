@@ -1,13 +1,8 @@
 var a28497 =
 [
-    [ "liquid_data", "dd/d25/a28505.html", "dd/d25/a28505" ],
-    [ "prepareLoadedData", "d5/d55/a28497.html#a999cde9ad5c0e4ee49e620c2ff52cb06", null ],
-    [ "data", "d5/d55/a28497.html#aa3f6e6de7453b4a1acc7dfe4c83eac69", null ],
-    [ "fcc", "d5/d55/a28497.html#ab0181729f82eb0f02da5cb95ec48cda1", null ],
-    [ "fcc_txt", "d5/d55/a28497.html#a9a2576f7b8923089b3b6020d4f8d97fc", null ],
-    [ "flags", "d5/d55/a28497.html#ac21d785a3a457baa84cbfd33ebb69bd4", null ],
-    [ "height1", "d5/d55/a28497.html#a7b4a59ac372261c74236b2b4cfc3626a", null ],
-    [ "height2", "d5/d55/a28497.html#ab03dc912a304c0585d2725596adb4b49", null ],
-    [ "liquid", "d5/d55/a28497.html#aae29940e6fdf046f9a29cf519ef61936", null ],
-    [ "size", "d5/d55/a28497.html#a11581f9fb52a4ca433765e6312168288", null ]
+    [ "npc_chicken_cluckAI", "d6/d12/a28501.html", "d6/d12/a28501" ],
+    [ "npc_chicken_cluck", "d5/d55/a28497.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
+    [ "GetAI", "d5/d55/a28497.html#abf986f555672823477c3c17e0f59bdbe", null ],
+    [ "OnQuestAccept", "d5/d55/a28497.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
+    [ "OnQuestComplete", "d5/d55/a28497.html#a8f22520166a557e066502eb16bdae774", null ]
 ];

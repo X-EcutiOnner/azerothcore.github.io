@@ -1,6 +1,6 @@
 var a15593 =
 [
-    [ "OnPeriodic", "d1/db6/a15593.html#a5945e24db52c6bacae7221b085dc877b", null ],
-    [ "PrepareAuraScript", "d1/db6/a15593.html#acc987aa864a8333de7bd0b770eb9018d", null ],
-    [ "Register", "d1/db6/a15593.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
+    [ "FilterTargets", "d1/db6/a15593.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
+    [ "PrepareSpellScript", "d1/db6/a15593.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
+    [ "Register", "d1/db6/a15593.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
 ];

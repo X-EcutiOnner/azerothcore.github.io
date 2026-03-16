@@ -1,8 +1,15 @@
 var a18625 =
 [
-    [ "ChangeDamageAndGrow", "da/d05/a18625.html#a017ade08eca93f326d2e5115c4d88c33", null ],
-    [ "CorrectRange", "da/d05/a18625.html#a9022b9efab89bc562428520b3551ff37", null ],
-    [ "PrepareSpellScript", "da/d05/a18625.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
-    [ "Register", "da/d05/a18625.html#a998b810cdbecbca2bf65f18cee14d286", null ],
-    [ "Validate", "da/d05/a18625.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
+    [ "npc_sindragosa_trashAI", "da/d05/a18625.html#a7401a422bc4c2140c631bc118f396f25", null ],
+    [ "GetData", "da/d05/a18625.html#a701b8189869bf20d2b3da31b73aed9da", null ],
+    [ "InitializeAI", "da/d05/a18625.html#a3a8b341c7304faa2c238305f9dde29b0", null ],
+    [ "JustEngagedWith", "da/d05/a18625.html#a0a7a0012105dea55fe4c8b51d9df5fc7", null ],
+    [ "JustRespawned", "da/d05/a18625.html#a6438b9f864f178dc4e35e24a48066980", null ],
+    [ "Reset", "da/d05/a18625.html#a823df6bb8b36ab38aa059e6d1313f2c0", null ],
+    [ "SetData", "da/d05/a18625.html#a4aaa7f3963b24ac03e2fb8aaea7b62b2", null ],
+    [ "UpdateAI", "da/d05/a18625.html#a12b995cc8c836efbf0eecc6591c85ff4", null ],
+    [ "_events", "da/d05/a18625.html#ab789c21e742fe261f9f8aa63509a7d45", null ],
+    [ "_frostwyrmId", "da/d05/a18625.html#ac2853246532bd913211fc743f4723ce0", null ],
+    [ "_instance", "da/d05/a18625.html#aa2199507fdabe850b6af9a5ae0283fdc", null ],
+    [ "_isTaunted", "da/d05/a18625.html#a50632ee1a85936748aabc5fb10f5e982", null ]
 ];

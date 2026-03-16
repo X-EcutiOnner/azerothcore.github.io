@@ -1,6 +1,7 @@
 var a27101 =
 [
-    [ "go_bear_trapAI", "de/d7d/a27105.html", "de/d7d/a27105" ],
-    [ "go_bear_trap", "d7/d63/a27101.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
-    [ "GetAI", "d7/d63/a27101.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
+    [ "HandleDummy", "d7/d63/a27101.html#aa9b579a8a7a23b94d9a2c8c7f932ff78", null ],
+    [ "PrepareSpellScript", "d7/d63/a27101.html#ae1dfa086c89a4180d42d231064d88602", null ],
+    [ "Register", "d7/d63/a27101.html#a256c152beadbfce6bf245779295b8758", null ],
+    [ "Validate", "d7/d63/a27101.html#acb4144be3326bcaae9c559d8e7b9d7ec", null ]
 ];

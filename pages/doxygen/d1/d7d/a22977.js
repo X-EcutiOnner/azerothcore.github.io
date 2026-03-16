@@ -1,6 +1,7 @@
 var a22977 =
 [
-    [ "HandleScriptEffect", "d1/d7d/a22977.html#a766edc5924124c869b04ec82cd2bc693", null ],
-    [ "PrepareSpellScript", "d1/d7d/a22977.html#a1eac10c673b8f43ae08f8bbdf949f82f", null ],
-    [ "Register", "d1/d7d/a22977.html#a60d4e21bf31c997ef4105ad72c8b4e85", null ]
+    [ "CalculateAmount", "d1/d7d/a22977.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
+    [ "PrepareAuraScript", "d1/d7d/a22977.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
+    [ "Register", "d1/d7d/a22977.html#a6d0d47536e6ef74a88c97019843d478c", null ],
+    [ "Update", "d1/d7d/a22977.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
 ];

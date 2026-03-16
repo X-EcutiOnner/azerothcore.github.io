@@ -1,11 +1,8 @@
 var a23301 =
 [
-    [ "boss_kiggler_the_crazed", "da/d8e/a23301.html#a6f6cd74a8d2b12809f2710f784340fda", null ],
-    [ "AttackStart", "da/d8e/a23301.html#a47c18487637dcb911852573e3aec85a2", null ],
-    [ "JustDied", "da/d8e/a23301.html#acf82f68ccfeabd33bc387dbe7ea0e997", null ],
-    [ "JustEngagedWith", "da/d8e/a23301.html#acd10951a5b148579d0bd4196cc2e686e", null ],
-    [ "Reset", "da/d8e/a23301.html#a3bd8ca2488b2db298a198038a849189e", null ],
-    [ "UpdateAI", "da/d8e/a23301.html#a16e2b767ca4b05eba79726ccb6e11204", null ],
-    [ "_scheduler", "da/d8e/a23301.html#af041c254910df663a03fcc815db635da", null ],
-    [ "instance", "da/d8e/a23301.html#aa78db443f19814c66b977fe008de74fa", null ]
+    [ "FilterTargets", "da/d8e/a23301.html#a8687ba9c22299e62e5911a3729fa4a0a", null ],
+    [ "HandleDummy", "da/d8e/a23301.html#addb3580259be74126b7de36d1b0a8a97", null ],
+    [ "PrepareSpellScript", "da/d8e/a23301.html#aba82de0886d03037de4564f9908b8c89", null ],
+    [ "Register", "da/d8e/a23301.html#a1650962493d48f5553a9e2771e594f1f", null ],
+    [ "Validate", "da/d8e/a23301.html#a0a29926e43bd5ff58ca7ad79df6f8cc1", null ]
 ];

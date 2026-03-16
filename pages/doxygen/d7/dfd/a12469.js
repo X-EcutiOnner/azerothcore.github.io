@@ -1,6 +1,6 @@
 var a12469 =
 [
-    [ "OrcMoveEvent", "d7/dfd/a12469.html#a71f7fe243741a1629bdd846fc97f0112", null ],
-    [ "Execute", "d7/dfd/a12469.html#a58a3c88ed3c6b534016179949b85ff9e", null ],
-    [ "_me", "d7/dfd/a12469.html#ad8d09bbb659d44e9f4b9171cea7ef7e8", null ]
+    [ "boss_high_priestess_thaurissanAI", "d7/dfd/a12469.html#acbc89b59865a5fda5a4143dd8c690b37", null ],
+    [ "JustEngagedWith", "d7/dfd/a12469.html#a6602682950aab4e9932bf6cdfac9886b", null ],
+    [ "UpdateAI", "d7/dfd/a12469.html#a216a5bc7a38aa5e13f9d025f44e04779", null ]
 ];

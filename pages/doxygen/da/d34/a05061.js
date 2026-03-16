@@ -1,9 +1,8 @@
 var a05061 =
 [
-    [ "Hello", "d1/d17/a11254.html", "d1/d17/a11254" ],
-    [ "TrainerBuyFailed", "d9/d3d/a11270.html", "d9/d3d/a11270" ],
-    [ "TrainerBuySpell", "d3/d5c/a11266.html", "d3/d5c/a11266" ],
-    [ "TrainerBuySucceeded", "d8/dc5/a11274.html", "d8/dc5/a11274" ],
-    [ "TrainerList", "dd/d1f/a11262.html", "dd/d1f/a11262" ],
-    [ "TrainerListSpell", "d7/d4e/a11258.html", "d7/d4e/a11258" ]
+    [ "anonymous_namespace{WeatherMgr.cpp}", "d8/d59/a05062.html", [
+      [ "_weatherData", "d8/d59/a05062.html#ab7d0026c60fbd90f9833172d25e7037f", null ]
+    ] ],
+    [ "GetWeatherData", "de/d42/a04975.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],
+    [ "LoadWeatherData", "de/d42/a04975.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ]
 ];

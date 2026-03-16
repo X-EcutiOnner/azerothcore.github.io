@@ -1,7 +1,12 @@
 var a16329 =
 [
-    [ "HandleHit", "d4/d01/a16329.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
-    [ "PrepareSpellScript", "d4/d01/a16329.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
-    [ "Register", "d4/d01/a16329.html#af132eee38064c5123f4e01d52efb9314", null ],
-    [ "Validate", "d4/d01/a16329.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
+    [ "npc_twilight_volunteer", "d4/d01/a16329.html#a3062041fcabf972e0a3d4753363c37b3", null ],
+    [ "AttackStart", "d4/d01/a16329.html#abc2e12fb7be5b1a7dabc4c2211e7de13", null ],
+    [ "DoAction", "d4/d01/a16329.html#ae95bcb02ee4f0ead76e249de0cba2d88", null ],
+    [ "EnterEvadeMode", "d4/d01/a16329.html#abd88e6fe0565babb92ccae17df0421d6", null ],
+    [ "MovementInform", "d4/d01/a16329.html#a4f27ae97ccf2c349a6352a0f5ba1681a", null ],
+    [ "UpdateAI", "d4/d01/a16329.html#a93288a45982b172c201e2442a4c91114", null ],
+    [ "events", "d4/d01/a16329.html#ad8cc52c1462d7adbfbe566c55c0ed244", null ],
+    [ "isSacraficeTarget", "d4/d01/a16329.html#a8350dba2c41754a2e5d15c94731ef27d", null ],
+    [ "pInstance", "d4/d01/a16329.html#ad58453e078520fa23238a96115e5f38f", null ]
 ];

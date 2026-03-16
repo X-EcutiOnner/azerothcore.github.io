@@ -1,15 +1,13 @@
 var a16573 =
 [
-    [ "npc_argent_soldierAI", "df/d81/a16573.html#abbfbb5a1e116c6deb3db23f12ff8994f", null ],
-    [ "DamageTaken", "df/d81/a16573.html#afb48cc1c2e254c292c33eade74b6fad7", null ],
-    [ "JustDied", "df/d81/a16573.html#aedf4dcd909c1009fedfde593522454ec", null ],
-    [ "JustEngagedWith", "df/d81/a16573.html#a0aa59fdf0668d64f3b670c595579ba81", null ],
-    [ "Reset", "df/d81/a16573.html#a1a0c00c09c348f746730c9743d4b7b6b", null ],
-    [ "SetData", "df/d81/a16573.html#a20b62b48f5cf92106fcd1860d9e91956", null ],
-    [ "UpdateAI", "df/d81/a16573.html#aed2921c1f6bc0507bf9e6f02f224ab44", null ],
-    [ "WaypointReached", "df/d81/a16573.html#af70fb91477dbeaa7e6e409f3381f0770", null ],
-    [ "bCheck", "df/d81/a16573.html#af570597c33add7ac5ebf3d01e8c9b2df", null ],
-    [ "events", "df/d81/a16573.html#ac458fc9a331dc7edfdc764215b1926e8", null ],
-    [ "pInstance", "df/d81/a16573.html#ac9951514f27f343ae96e856f484e7baf", null ],
-    [ "uiWaypoint", "df/d81/a16573.html#a87382571221c608017fd2d4cb99193dc", null ]
+    [ "boss_twilight_halionAI", "df/d81/a16573.html#aab05bab963d603c3cb70edfd62a84b49", null ],
+    [ "DamageTaken", "df/d81/a16573.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
+    [ "EnterEvadeMode", "df/d81/a16573.html#af7076251fc1fad1dc259d747934910e2", null ],
+    [ "JustDied", "df/d81/a16573.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
+    [ "JustEngagedWith", "df/d81/a16573.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
+    [ "KilledUnit", "df/d81/a16573.html#ada770d51f63c841c500ffc3197a7a89f", null ],
+    [ "Reset", "df/d81/a16573.html#a9c945841926d5b08f37c6a720dd25a14", null ],
+    [ "UpdateAI", "df/d81/a16573.html#a6ab1d215ed077883781b0c0188282c5e", null ],
+    [ "_events", "df/d81/a16573.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
+    [ "_instance", "df/d81/a16573.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
 ];

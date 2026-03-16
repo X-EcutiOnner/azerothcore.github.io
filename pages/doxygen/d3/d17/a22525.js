@@ -1,6 +1,5 @@
 var a22525 =
 [
-    [ "HandleScriptEffect", "d3/d17/a22525.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
-    [ "PrepareSpellScript", "d3/d17/a22525.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
-    [ "Register", "d3/d17/a22525.html#aad6959f74932db219e991efd3b3af44a", null ]
+    [ "OutdoorPvP_silithus", "d3/d17/a22525.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
+    [ "GetOutdoorPvP", "d3/d17/a22525.html#a126d6acc77218addd10072199ccd2470", null ]
 ];

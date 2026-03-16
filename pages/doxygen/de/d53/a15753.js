@@ -1,7 +1,7 @@
 var a15753 =
 [
-    [ "npc_cork_gizeltonAI", "dd/d5b/a15757.html", "dd/d5b/a15757" ],
-    [ "npc_cork_gizelton", "de/d53/a15753.html#a915aa2abc18109e7d0197863f59536f2", null ],
-    [ "GetAI", "de/d53/a15753.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
-    [ "OnQuestAccept", "de/d53/a15753.html#a11dc1fea0a24add451272b537298fc13", null ]
+    [ "npc_vekniss_stinger", "de/d53/a15753.html#ad48098961715a924270cb8bbbe77e4b0", null ],
+    [ "JustEngagedWith", "de/d53/a15753.html#ae7c758687c81cfb223066f0a9348eab8", null ],
+    [ "Reset", "de/d53/a15753.html#a2a79f3775aad83410ff2670aa438e811", null ],
+    [ "UpdateAI", "de/d53/a15753.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
 ];

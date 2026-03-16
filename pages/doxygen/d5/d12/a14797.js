@@ -1,8 +1,12 @@
 var a14797 =
 [
-    [ "OnApply", "d5/d12/a14797.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
-    [ "OnRemove", "d5/d12/a14797.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
-    [ "PrepareAuraScript", "d5/d12/a14797.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
-    [ "Register", "d5/d12/a14797.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
-    [ "Validate", "d5/d12/a14797.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
+    [ "npc_alexstraza_the_lifebinder", "d5/d12/a14797.html#a7c30258540803bde75843cb070b6a288", null ],
+    [ "MoveInLineOfSight", "d5/d12/a14797.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
+    [ "Reset", "d5/d12/a14797.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
+    [ "SetData", "d5/d12/a14797.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
+    [ "UpdateAI", "d5/d12/a14797.html#ad13b21d571833210b1c069b7ea8bea05", null ],
+    [ "orphanGUID", "d5/d12/a14797.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
+    [ "phase", "d5/d12/a14797.html#a98216e43888854ac93f22169a0e253e5", null ],
+    [ "playerGUID", "d5/d12/a14797.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
+    [ "timer", "d5/d12/a14797.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
 ];

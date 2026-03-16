@@ -1,7 +1,6 @@
 var a22893 =
 [
-    [ "HandleScriptEffect", "d3/d11/a22893.html#a0038e566bc5054e4208fd727fcc266fa", null ],
-    [ "PrepareSpellScript", "d3/d11/a22893.html#abb661bacf4cec1f2e15f4aeda2ab991e", null ],
-    [ "Register", "d3/d11/a22893.html#a416b811c2676c598df0ac0e5906a94d3", null ],
-    [ "Validate", "d3/d11/a22893.html#a11e82a2b40dbbd9949a1dda3bd715679", null ]
+    [ "boss_essence_of_angerAI", "d5/d85/a22897.html", "d5/d85/a22897" ],
+    [ "boss_essence_of_anger", "d3/d11/a22893.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
+    [ "GetAI", "d3/d11/a22893.html#a70a460f31b7f878e532b695ca822ab5d", null ]
 ];

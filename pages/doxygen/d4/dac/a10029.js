@@ -1,10 +1,14 @@
 var a10029 =
 [
-    [ "ID", "d4/dac/a10029.html#a3bd2bf63526b6ee4a15cf7a2244ff06b", null ],
-    [ "Map", "d4/dac/a10029.html#af4e60380e8434e5b8f573d2172ddf656", null ],
-    [ "name", "d4/dac/a10029.html#ae1dd7ba1294653756ea4af9d9b66fa2c", null ],
-    [ "wnameLow", "d4/dac/a10029.html#a148ead3270ad02213204792d6063cead", null ],
-    [ "x", "d4/dac/a10029.html#ae8f23fc9e53f6357d56b3a25ed514330", null ],
-    [ "y", "d4/dac/a10029.html#af2e239c4c76dff49090f8f1d8eb4d455", null ],
-    [ "z", "d4/dac/a10029.html#adf56d09898752230a4fa1629849ac945", null ]
+    [ "DoublePosition", "d4/dac/a10029.html#a59190a2456f052c6ffa6e181ced94a4f", null ],
+    [ "DoublePosition", "d4/dac/a10029.html#a9900e06c36c6ebc4edd0ba45264990b8", null ],
+    [ "DoublePosition", "d4/dac/a10029.html#a543ff52f7b278f68cc36ee880932e744", null ],
+    [ "GetDoubleExactDist2dSq", "d4/dac/a10029.html#ae17b4e695ff23a8ec323405801f2013a", null ],
+    [ "GetDoublePositionX", "d4/dac/a10029.html#a7c769d1762f99150a46ceaa2b2bfa8e8", null ],
+    [ "GetDoublePositionY", "d4/dac/a10029.html#a201096c85022d54b1d9dbe9264df901f", null ],
+    [ "GetDoublePositionZ", "d4/dac/a10029.html#a01fc3985229b6bd03e6d1da95f871c17", null ],
+    [ "sync", "d4/dac/a10029.html#a75e75187d6663591a39c87bc1086aebd", null ],
+    [ "DoublePosX", "d4/dac/a10029.html#a4f9ffbbe4396f3ec26a81139f5868e2e", null ],
+    [ "DoublePosY", "d4/dac/a10029.html#a90839893f3a58a72a07177d3eee1d691", null ],
+    [ "DoublePosZ", "d4/dac/a10029.html#a19af503e9623ccaeb032bfe9f0a0ed63", null ]
 ];

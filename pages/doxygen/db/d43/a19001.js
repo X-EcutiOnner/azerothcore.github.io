@@ -1,7 +1,8 @@
 var a19001 =
 [
-    [ "npc_impaling_spearAI", "db/d43/a19001.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
-    [ "Reset", "db/d43/a19001.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
-    [ "UpdateAI", "db/d43/a19001.html#acb187a58b0ba256b4e003655ac36db34", null ],
-    [ "_vehicleCheckTimer", "db/d43/a19001.html#a264874b9f6f0609792d4b3a325e54f59", null ]
+    [ "npc_suppresserAI", "db/d43/a19001.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
+    [ "AttackStart", "db/d43/a19001.html#ae36105de1df1dd9841332d9a8e7799be", null ],
+    [ "IsSummonedBy", "db/d43/a19001.html#a35ec340b2d02a14707fc353428b1298d", null ],
+    [ "UpdateAI", "db/d43/a19001.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
+    [ "_instance", "db/d43/a19001.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
 ];

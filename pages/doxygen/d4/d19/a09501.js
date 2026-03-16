@@ -1,10 +1,8 @@
 var a09501 =
 [
-    [ "AnyAoETargetUnitInObjectRangeCheck", "d4/d19/a09501.html#a93d850e2d5f094b97ca5c09bf1d236a9", null ],
-    [ "operator()", "d4/d19/a09501.html#af9a0c32593544a73aae22cd397eef63a", null ],
-    [ "_spellInfo", "d4/d19/a09501.html#a1317c9df0d5792ad3122ff1ed1a31458", null ],
-    [ "i_funit", "d4/d19/a09501.html#aa00b184a24ea73293114f92126f58f24", null ],
-    [ "i_obj", "d4/d19/a09501.html#aa4acf0089c978408e30b08d539f2512f", null ],
-    [ "i_range", "d4/d19/a09501.html#ad386efa8206906fd99816694a6a8d69b", null ],
-    [ "i_targetForPlayer", "d4/d19/a09501.html#af5ce329f3493b97f59c61c3e87af48b1", null ]
+    [ "GameObjectWorker", "d4/d19/a09501.html#a79dd3983b007d982bbb1f0b33c5c7a54", null ],
+    [ "Visit", "d4/d19/a09501.html#a754197d7a9aa3203cda964cbee81ae9a", null ],
+    [ "Visit", "d4/d19/a09501.html#a47a10a6790179eb5b78cbb66dd9d7b54", null ],
+    [ "_func", "d4/d19/a09501.html#abeaa251f909368e3ebeeff4dcefbda94", null ],
+    [ "_phaseMask", "d4/d19/a09501.html#accfe66385f5bbfb461d0493c22fde20e", null ]
 ];

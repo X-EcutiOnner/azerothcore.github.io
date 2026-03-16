@@ -1,7 +1,6 @@
 var a20249 =
 [
-    [ "HandleAfterEffectApply", "d0/de7/a20249.html#a672526de2c71dcae79bacef88f34dc26", null ],
-    [ "PrepareAuraScript", "d0/de7/a20249.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
-    [ "Register", "d0/de7/a20249.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
-    [ "Validate", "d0/de7/a20249.html#ab5833f6218760a7d9829b5d453436302", null ]
+    [ "npc_pool_of_tar", "d0/de7/a20249.html#a03de46dfa133992d094ab607a49b7236", null ],
+    [ "DamageTaken", "d0/de7/a20249.html#ac72ad742cb16e27abf25fe0e88408315", null ],
+    [ "SpellHit", "d0/de7/a20249.html#a61886862df88b41bf0c6959c9a564cea", null ]
 ];

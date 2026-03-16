@@ -1,6 +1,5 @@
 var a23801 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "df/db2/a23805.html", "df/db2/a23805" ],
-    [ "npc_oscillating_frequency_scanner_master_bunny", "d3/dbb/a23801.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
-    [ "GetAI", "d3/dbb/a23801.html#a60d55e2eda4484ceea4e475ac8653977", null ]
+    [ "npc_lord_sanguinar", "d3/dbb/a23801.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
+    [ "ScheduleEvents", "d3/dbb/a23801.html#af9231da98547875527a519c5884cbec0", null ]
 ];

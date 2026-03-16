@@ -1,6 +1,7 @@
 var a17685 =
 [
-    [ "VampiricBiteTargetSelector", "d6/dbc/a17685.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
-    [ "operator()", "d6/dbc/a17685.html#ac16204f50f62cb2568998d1ea137f55d", null ],
-    [ "_source", "d6/dbc/a17685.html#af23a69491c915909566249b109b1f0e8", null ]
+    [ "HandleScriptEffect", "d6/dbc/a17685.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
+    [ "PrepareSpellScript", "d6/dbc/a17685.html#aac410690d906867216b40a49d8f15318", null ],
+    [ "Register", "d6/dbc/a17685.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
+    [ "Validate", "d6/dbc/a17685.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
 ];

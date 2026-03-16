@@ -1,8 +1,6 @@
 var a16653 =
 [
-    [ "npc_announcer_toc5AI", "d1/d15/a16657.html", "d1/d15/a16657" ],
-    [ "npc_announcer_toc5", "dd/df4/a16653.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
-    [ "GetAI", "dd/df4/a16653.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
-    [ "OnGossipHello", "dd/df4/a16653.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
-    [ "OnGossipSelect", "dd/df4/a16653.html#a9017488c652fd75882db75914f4a2db2", null ]
+    [ "OnSummon", "dd/df4/a16653.html#ae2766d12fb686356b46126848f356c5a", null ],
+    [ "PrepareSpellScript", "dd/df4/a16653.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
+    [ "Register", "dd/df4/a16653.html#a717394bfbea621ae637f9e87efddda62", null ]
 ];

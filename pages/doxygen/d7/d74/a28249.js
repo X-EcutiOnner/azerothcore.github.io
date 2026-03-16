@@ -1,5 +1,5 @@
 var a28249 =
 [
-    [ "Flags", "d7/d74/a28249.html#a0cb97c73af91dcfdd151c38aa46828cc", null ],
-    [ "Id", "d7/d74/a28249.html#a85e0e36dbc79f309d7f50b087ebcd166", null ]
+    [ "go_southfury_moonstone", "d7/d74/a28249.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
+    [ "OnGossipHello", "d7/d74/a28249.html#a9d9708da940c1ee37f9eb4558ed97737", null ]
 ];

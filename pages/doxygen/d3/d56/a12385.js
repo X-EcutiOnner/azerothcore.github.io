@@ -1,8 +1,6 @@
 var a12385 =
 [
-    [ "CheckProc", "d3/d56/a12385.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "d3/d56/a12385.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "d3/d56/a12385.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "d3/d56/a12385.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "d3/d56/a12385.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "npc_burning_spiritAI", "d5/d58/a12389.html", "d5/d58/a12389" ],
+    [ "npc_burning_spirit", "d3/d56/a12385.html#a596e654486c82d15d7a37b069a99856d", null ],
+    [ "GetAI", "d3/d56/a12385.html#a3c704a0856d669a1e684e5a858bc4334", null ]
 ];

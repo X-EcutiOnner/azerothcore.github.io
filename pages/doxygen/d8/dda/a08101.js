@@ -1,26 +1,8 @@
 var a08101 =
 [
-    [ "Corpse", "d8/dda/a08101.html#a2f7783ce9a9be85c3212fe86a349766d", null ],
-    [ "~Corpse", "d8/dda/a08101.html#a38729445517f20d2427c115364da045f", null ],
-    [ "AddToWorld", "d8/dda/a08101.html#a8c5111652979636e59e655eedf47f978", null ],
-    [ "BuildValuesUpdate", "d8/dda/a08101.html#ab30d247f740518529f51dc8bccdd8a75", null ],
-    [ "Create", "d8/dda/a08101.html#a34e2fc9d1f64dedd9da4428b532f145c", null ],
-    [ "Create", "d8/dda/a08101.html#a0f709c964269b438fcc2562868e72834", null ],
-    [ "DeleteFromDB", "d8/dda/a08101.html#af1d47fcea8651554eb239bb7d9816491", null ],
-    [ "DeleteFromDB", "d8/dda/a08101.html#a0797893bed1654fac3a6bd7a0cbd7225", null ],
-    [ "GetCellCoord", "d8/dda/a08101.html#a9345be6ba96317ba7efc9ef1bbbf9b44", null ],
-    [ "GetGhostTime", "d8/dda/a08101.html#a92e3fd5bebe85204829e5ff97bd3c44f", null ],
-    [ "GetOwnerGUID", "d8/dda/a08101.html#a50a75a8cf344fdb395d456d5cc947489", null ],
-    [ "GetType", "d8/dda/a08101.html#ade09571ad69b115ad968e11fd85c480c", null ],
-    [ "IsExpired", "d8/dda/a08101.html#a025404f6d3fcd7392960b48d636236d4", null ],
-    [ "LoadCorpseFromDB", "d8/dda/a08101.html#ab2a0905d1f24692065227e7bbfe4e5c4", null ],
-    [ "RemoveFromWorld", "d8/dda/a08101.html#a659f796ae11a5872226a6aa64323be59", null ],
-    [ "ResetGhostTime", "d8/dda/a08101.html#a28d222b38b604d2ecc566ef78b4eb8f9", null ],
-    [ "SaveToDB", "d8/dda/a08101.html#a10bff6f7d0e2597ef9db67aafd8249ea", null ],
-    [ "SetCellCoord", "d8/dda/a08101.html#abc0a2bc92c1344f9af6b53e8ecdf70f1", null ],
-    [ "_cellCoord", "d8/dda/a08101.html#a0196d9ba2d908262a65ff8fa8f34b76b", null ],
-    [ "loot", "d8/dda/a08101.html#a7f839a667b4a10014760a0f4451298b1", null ],
-    [ "lootRecipient", "d8/dda/a08101.html#a57a9b6a244d82265bd625bb465e6cc9d", null ],
-    [ "m_time", "d8/dda/a08101.html#a97122518c52f502e7c38753805d76472", null ],
-    [ "m_type", "d8/dda/a08101.html#a6017c84645e7e633871c92786ed25838", null ]
+    [ "UnitBaseEvent", "d8/dda/a08101.html#a2d4586c59a7595374d427a15924c34fd", null ],
+    [ "getType", "d8/dda/a08101.html#a7619b09043a8a729df77502786216aff", null ],
+    [ "matchesTypeMask", "d8/dda/a08101.html#a05103aacf99310a6c9e602296d56f168", null ],
+    [ "setType", "d8/dda/a08101.html#a1a3ae3042df9ca91d17a1c3320579867", null ],
+    [ "iType", "d8/dda/a08101.html#a528a4023be375f43f4ac33b55f5c95d9", null ]
 ];

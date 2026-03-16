@@ -1,5 +1,7 @@
 var a14297 =
 [
-    [ "go_gong_of_bethekk", "d0/dc5/a14297.html#ae261467be63f1a744eb20f81473c2239", null ],
-    [ "OnGossipHello", "d0/dc5/a14297.html#a82072ff8c030aec1a5ed447865680788", null ]
+    [ "Load", "d0/dc5/a14297.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
+    [ "OnRemove", "d0/dc5/a14297.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
+    [ "PrepareAuraScript", "d0/dc5/a14297.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
+    [ "Register", "d0/dc5/a14297.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
 ];

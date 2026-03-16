@@ -1,7 +1,7 @@
 var a11249 =
 [
-    [ "UpdateWorldState", "d6/df7/a11249.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
-    [ "Write", "d6/df7/a11249.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
-    [ "Value", "d6/df7/a11249.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
-    [ "VariableID", "d6/df7/a11249.html#aa73278b324822f509f48e6edcdaed457", null ]
+    [ "TrainerBuySpell", "d6/df7/a11249.html#a8afb92fb908d5efd54bcb78269069d39", null ],
+    [ "Read", "d6/df7/a11249.html#aa916b9d01157f5f8e98efbcacb3bb5a2", null ],
+    [ "SpellID", "d6/df7/a11249.html#ae342c806c8faabae54260a26659d49ea", null ],
+    [ "TrainerGUID", "d6/df7/a11249.html#aca1d9dc89b96415a5065a67f7083423c", null ]
 ];

@@ -1,7 +1,10 @@
 var a23209 =
 [
-    [ "npc_underbog_mushroom", "de/df7/a23209.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
-    [ "InitializeAI", "de/df7/a23209.html#a7c192010cc63715eaa3f38b1d1372936", null ],
-    [ "UpdateAI", "de/df7/a23209.html#a9a8ed51b12809152ebe78dda69944d77", null ],
-    [ "_scheduler", "de/df7/a23209.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
+    [ "boss_morogrim_tidewalker", "de/df7/a23209.html#a138a200da298f64697e2e47fb8004ccb", null ],
+    [ "JustDied", "de/df7/a23209.html#a139d87e7cffe03183538eb493e063195", null ],
+    [ "JustEngagedWith", "de/df7/a23209.html#a3244672aeb994673e1f46708699bcc2c", null ],
+    [ "JustSummoned", "de/df7/a23209.html#a2b669007520094948138c95468b77f9f", null ],
+    [ "KilledUnit", "de/df7/a23209.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
+    [ "Reset", "de/df7/a23209.html#a78ed1d1f8c55407497a4fb679587975d", null ],
+    [ "_recentlySpoken", "de/df7/a23209.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
 ];

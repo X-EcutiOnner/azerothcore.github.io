@@ -1,6 +1,12 @@
 var a20021 =
 [
-    [ "achievement_assembly_of_iron", "de/dad/a20021.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
-    [ "OnCheck", "de/dad/a20021.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
-    [ "_targetEntry", "de/dad/a20021.html#a20e8938ff30b18737fb96cf0277b5680", null ]
+    [ "boss_sjonnirAI", "de/dad/a20021.html#a53127766553d1bee4d7331e6f4fcda05", null ],
+    [ "ActivatePipe", "de/dad/a20021.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
+    [ "DoAction", "de/dad/a20021.html#afb2f73908bc17c763a8028af4b499481", null ],
+    [ "JustDied", "de/dad/a20021.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
+    [ "JustEngagedWith", "de/dad/a20021.html#aade776baf55155bb3814129ddc2f9632", null ],
+    [ "KilledUnit", "de/dad/a20021.html#ac79740a8c5e4263f2917647c74e995aa", null ],
+    [ "Reset", "de/dad/a20021.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
+    [ "ScheduleTasks", "de/dad/a20021.html#a5c3c31c5be424795e4e96291c910c73c", null ],
+    [ "SlugeCount", "de/dad/a20021.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
 ];

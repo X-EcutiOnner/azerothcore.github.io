@@ -1,8 +1,6 @@
 var a18849 =
 [
-    [ "npc_blistering_zombieAI", "db/de2/a18849.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
-    [ "DamageTaken", "db/de2/a18849.html#adf031992078214f90d859df2b54aac91", null ],
-    [ "UpdateAI", "db/de2/a18849.html#ae081898b8dcaf45cd3069e79021de452", null ],
-    [ "casted", "db/de2/a18849.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
-    [ "timer", "db/de2/a18849.html#a8b865c2a87b1fc020d8250767febab0a", null ]
+    [ "npc_terenas_menethilAI", "d0/d9a/a18853.html", "d0/d9a/a18853" ],
+    [ "npc_terenas_menethil", "db/de2/a18849.html#a6b6850598c582e3d44c13275302fd32d", null ],
+    [ "GetAI", "db/de2/a18849.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
 ];

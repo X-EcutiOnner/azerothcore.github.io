@@ -1,6 +1,6 @@
 var a23933 =
 [
-    [ "HandleEffectRemove", "d5/d2b/a23933.html#a2e73fd55dd7e6e658bc6c6623b650732", null ],
-    [ "PrepareAuraScript", "d5/d2b/a23933.html#a9aabae3a6c57be9b17394d4a39fe24ec", null ],
-    [ "Register", "d5/d2b/a23933.html#ac02217c103db141d75377e233e1e4242", null ]
+    [ "npc_deaths_fel_cannonAI", "d0/d43/a23937.html", "d0/d43/a23937" ],
+    [ "npc_deaths_fel_cannon", "d5/d2b/a23933.html#a87ecaca75061928600b5114d3913dd26", null ],
+    [ "GetAI", "d5/d2b/a23933.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
 ];

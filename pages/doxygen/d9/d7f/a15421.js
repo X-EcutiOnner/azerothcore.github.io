@@ -1,6 +1,6 @@
 var a15421 =
 [
-    [ "HandleScript", "d9/d7f/a15421.html#a88551ffd3dbe4fb9cc122a68813234f0", null ],
-    [ "PrepareSpellScript", "d9/d7f/a15421.html#ae4d8cad1b5de248a30085142fcc2cc7b", null ],
-    [ "Register", "d9/d7f/a15421.html#a434f0aef7f32edb6990efb992e4d57af", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "d4/d38/a15425.html", "d4/d38/a15425" ],
+    [ "instance_razorfen_downs", "d9/d7f/a15421.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
+    [ "GetInstanceScript", "d9/d7f/a15421.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
 ];

@@ -1,7 +1,6 @@
 var a21837 =
 [
-    [ "HandleScript", "d4/d56/a21837.html#a359814a44d4fe58c9f6e7a31c75d7c49", null ],
-    [ "PrepareSpellScript", "d4/d56/a21837.html#a4c6c0903180f3f18d6d9e715efc9f391", null ],
-    [ "Register", "d4/d56/a21837.html#a713b82bc3d82a8324ce4dd090059f463", null ],
-    [ "Validate", "d4/d56/a21837.html#ac8e362d9f76350da106e128138737c5c", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "d4/df2/a21841.html", "d4/df2/a21841" ],
+    [ "npc_commander_eligor_dawnbringer", "d4/d56/a21837.html#a71d919af98464d6d63f948507f3ff08c", null ],
+    [ "GetAI", "d4/d56/a21837.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
 ];

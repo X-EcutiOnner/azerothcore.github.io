@@ -1,6 +1,7 @@
 var a25429 =
 [
-    [ "HandleScriptEffect", "d9/d3c/a25429.html#a94bbfc928beab8c8f27d84d1c9ab1558", null ],
-    [ "PrepareSpellScript", "d9/d3c/a25429.html#a479832175a4c77ce0c0a2f3d3f98f08c", null ],
-    [ "Register", "d9/d3c/a25429.html#aff9efad03d94958c29c84ea3c0d19fdb", null ]
+    [ "HandleDamage", "d9/d3c/a25429.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
+    [ "PrepareSpellScript", "d9/d3c/a25429.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
+    [ "Register", "d9/d3c/a25429.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
+    [ "Validate", "d9/d3c/a25429.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
 ];

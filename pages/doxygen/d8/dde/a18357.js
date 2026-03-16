@@ -1,6 +1,7 @@
 var a18357 =
 [
-    [ "boss_sindragosaAI", "d3/de4/a18361.html", "d3/de4/a18361" ],
-    [ "boss_sindragosa", "d8/dde/a18357.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
-    [ "GetAI", "d8/dde/a18357.html#a005a6da9f4f9690416a108872b3c2b36", null ]
+    [ "HandleTriggerSpell", "d8/dde/a18357.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "d8/dde/a18357.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "d8/dde/a18357.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "d8/dde/a18357.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

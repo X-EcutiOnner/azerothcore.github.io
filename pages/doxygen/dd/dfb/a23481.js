@@ -1,6 +1,10 @@
 var a23481 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "de/d72/a23485.html", "de/d72/a23485" ],
-    [ "instance_shattered_halls", "dd/dfb/a23481.html#a9d0d3b6baec34c679151791610cff3a7", null ],
-    [ "GetInstanceScript", "dd/dfb/a23481.html#a82388466811b022a725ba721845cadf3", null ]
+    [ "boss_blindeye_the_seer", "dd/dfb/a23481.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
+    [ "JustDied", "dd/dfb/a23481.html#ad70a72b18587da82d26bde8f10d63700", null ],
+    [ "JustEngagedWith", "dd/dfb/a23481.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
+    [ "Reset", "dd/dfb/a23481.html#aabbda75266615f64ce88ce092e68bfa4", null ],
+    [ "UpdateAI", "dd/dfb/a23481.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
+    [ "_scheduler", "dd/dfb/a23481.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
+    [ "instance", "dd/dfb/a23481.html#a74462f26d66da3ca370825858060b1c2", null ]
 ];

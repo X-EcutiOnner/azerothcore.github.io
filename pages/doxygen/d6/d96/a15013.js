@@ -1,10 +1,8 @@
 var a15013 =
 [
-    [ "boss_rage_winterchill", "d6/d96/a15013.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
-    [ "DoAction", "d6/d96/a15013.html#a45333aea6d6a180473ca4823ea83920a", null ],
-    [ "JustDied", "d6/d96/a15013.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
-    [ "JustEngagedWith", "d6/d96/a15013.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
-    [ "KilledUnit", "d6/d96/a15013.html#a69d69530a080379add7be73c552f4937", null ],
-    [ "PathEndReached", "d6/d96/a15013.html#aec47befdf3246710a5158780fa797fa7", null ],
-    [ "_recentlySpoken", "d6/d96/a15013.html#ae2141b4ea1d10cb74146aec63d65214c", null ]
+    [ "CheckCast", "d6/d96/a15013.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
+    [ "HandleDummy", "d6/d96/a15013.html#ad39da0510c21855dd74abd93f33621c9", null ],
+    [ "PrepareSpellScript", "d6/d96/a15013.html#a727093fec8cc8422cbbaa79d821338c8", null ],
+    [ "Register", "d6/d96/a15013.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
+    [ "Validate", "d6/d96/a15013.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
 ];

@@ -1,6 +1,6 @@
 var a21965 =
 [
-    [ "npc_still_at_it_triggerAI", "db/d43/a21969.html", "db/d43/a21969" ],
-    [ "npc_still_at_it_trigger", "dd/d22/a21965.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
-    [ "GetAI", "dd/d22/a21965.html#ae273ea6295f50248d303983d4b4137df", null ]
+    [ "npc_attracted_reef_bullAI", "dd/d22/a21965.html#aa8917a912fb31a5987332e53e8d268e7", null ],
+    [ "MovementInform", "dd/d22/a21965.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
+    [ "SpellHit", "dd/d22/a21965.html#ab06ee7ef84d881262ae682b69fae3135", null ]
 ];

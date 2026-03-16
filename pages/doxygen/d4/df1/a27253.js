@@ -1,6 +1,6 @@
 var a27253 =
 [
-    [ "guard_shattrath_aldorAI", "d3/dcb/a27257.html", "d3/dcb/a27257" ],
-    [ "guard_shattrath_aldor", "d4/df1/a27253.html#ab965295d9c3828ad814f658670b5f185", null ],
-    [ "GetAI", "d4/df1/a27253.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
+    [ "HandleFinish", "d4/df1/a27253.html#ac4c50220d86f809644e339fc578d9b4a", null ],
+    [ "PrepareSpellScript", "d4/df1/a27253.html#a5a14594ed93150e34626a7e0edb8171b", null ],
+    [ "Register", "d4/df1/a27253.html#a9d28a3b88d57e2f89921d59f56148f74", null ]
 ];

@@ -1,8 +1,9 @@
 var a19937 =
 [
-    [ "npc_algalon_worm_hole", "d9/d46/a19937.html#a546bd0ede2586fcbe3812698b68528d4", null ],
-    [ "JustSummoned", "d9/d46/a19937.html#a077425b35d86c007daa93fc8b1fd9717", null ],
-    [ "Reset", "d9/d46/a19937.html#a363814abdee714faddfd966b11a4fddc", null ],
-    [ "UpdateAI", "d9/d46/a19937.html#a16f644be53169adc67fc971bdeaa7263", null ],
-    [ "_summonTimer", "d9/d46/a19937.html#a033382dbd57714e815eed8ef6e4adfaf", null ]
+    [ "HandleOnEffectApply", "d9/d46/a19937.html#a6ab047004cc901331d747641f218cf6a", null ],
+    [ "HandleOnEffectRemove", "d9/d46/a19937.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
+    [ "PrepareAuraScript", "d9/d46/a19937.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
+    [ "Register", "d9/d46/a19937.html#a83b0d414a6e97b434f82492fa01ac385", null ],
+    [ "Validate", "d9/d46/a19937.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
+    [ "_drakeGUID", "d9/d46/a19937.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
 ];

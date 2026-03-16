@@ -1,6 +1,8 @@
 var a14449 =
 [
-    [ "HandleObjectAreaTargetSelect", "d7/d3a/a14449.html#aa7695bddd766d5adefb04710d41894f6", null ],
-    [ "PrepareSpellScript", "d7/d3a/a14449.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
-    [ "Register", "d7/d3a/a14449.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
+    [ "FilterTargets", "d7/d3a/a14449.html#a3405b21202d423c649e0b8d341b42d9c", null ],
+    [ "HandleWipeThreat", "d7/d3a/a14449.html#a2bbcce83bffebc509e9ec54778e82639", null ],
+    [ "PrepareSpellScript", "d7/d3a/a14449.html#a59948484b528cab69c695f08b39b886d", null ],
+    [ "Register", "d7/d3a/a14449.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
+    [ "_wipeThreat", "d7/d3a/a14449.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
 ];

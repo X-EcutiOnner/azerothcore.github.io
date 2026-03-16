@@ -1,6 +1,6 @@
 var a00923 =
 [
-    [ "GlobalScript", "de/d5d/a10606.html", "de/d5d/a10606" ],
+    [ "GlobalScript", "d1/d44/a10589.html", "d1/d44/a10589" ],
     [ "GlobalHook", "df/de9/a00923.html#a9442fcdfa182319eedd41c65183aa54f", [
       [ "GLOBALHOOK_ON_ITEM_DEL_FROM_DB", "df/de9/a00923.html#a9442fcdfa182319eedd41c65183aa54fa3fee3c5c76e67faee134aa5f3004fb3a", null ],
       [ "GLOBALHOOK_ON_MIRRORIMAGE_DISPLAY_ITEM", "df/de9/a00923.html#a9442fcdfa182319eedd41c65183aa54fa54996842f471924462c858b424771301", null ],

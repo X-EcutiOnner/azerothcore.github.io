@@ -1,6 +1,8 @@
 var a25209 =
 [
-    [ "FilterTargets", "d2/d8d/a25209.html#a80d2ffcd64161e53fd795bd40d2b38e0", null ],
-    [ "PrepareSpellScript", "d2/d8d/a25209.html#a9fb910382c89750e38cb36bed48a1597", null ],
-    [ "Register", "d2/d8d/a25209.html#a667b10129d2d23f72712be523dc93180", null ]
+    [ "CheckRequirement", "d2/d8d/a25209.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
+    [ "HandleScript", "d2/d8d/a25209.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
+    [ "Load", "d2/d8d/a25209.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
+    [ "PrepareSpellScript", "d2/d8d/a25209.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
+    [ "Register", "d2/d8d/a25209.html#a89d053e0ee793017c74188aac32d99d5", null ]
 ];

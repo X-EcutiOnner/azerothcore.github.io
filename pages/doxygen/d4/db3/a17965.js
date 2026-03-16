@@ -1,6 +1,7 @@
 var a17965 =
 [
-    [ "PrepareSpellScript", "d4/db3/a17965.html#a47df21229183b628c1d82bf34cbbe396", null ],
-    [ "Register", "d4/db3/a17965.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
-    [ "RelocateTransportOffset", "d4/db3/a17965.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
+    [ "HandleProc", "d4/db3/a17965.html#a235f04bd360ba7219aa2e1bc1a249047", null ],
+    [ "PrepareAuraScript", "d4/db3/a17965.html#a7cfa73ed3280d518baee1b0fa6bb4e76", null ],
+    [ "Register", "d4/db3/a17965.html#acc0881cf7379525a0841426867d2d850", null ],
+    [ "Validate", "d4/db3/a17965.html#a9be1b3b57bd2ee5995ad101369dac17c", null ]
 ];

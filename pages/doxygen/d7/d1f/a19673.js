@@ -1,13 +1,8 @@
 var a19673 =
 [
-    [ "npc_oculus_unstable_sphereAI", "d7/d1f/a19673.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
-    [ "AttackStart", "d7/d1f/a19673.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
-    [ "MoveInLineOfSight", "d7/d1f/a19673.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
-    [ "MovementInform", "d7/d1f/a19673.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
-    [ "PickNewLocation", "d7/d1f/a19673.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
-    [ "Reset", "d7/d1f/a19673.html#ac2e391d0149b62823ac9074d45c694cf", null ],
-    [ "UpdateAI", "d7/d1f/a19673.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
-    [ "gonext", "d7/d1f/a19673.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
-    [ "located", "d7/d1f/a19673.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
-    [ "timer", "d7/d1f/a19673.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
+    [ "npc_teslaAI", "d7/d1f/a19673.html#a7281220648af1357b1377d6f7874d663", null ],
+    [ "DamageTaken", "d7/d1f/a19673.html#aa3ab570e86261bc3178e17109d76af12", null ],
+    [ "EnterEvadeMode", "d7/d1f/a19673.html#acc8115216989b34593a9435eeb051eda", null ],
+    [ "JustEngagedWith", "d7/d1f/a19673.html#add93f68bc96b3c93dc0a3271543711e6", null ],
+    [ "UpdateAI", "d7/d1f/a19673.html#a962745569b07e368067ee483d2379840", null ]
 ];

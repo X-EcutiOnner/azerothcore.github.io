@@ -1,16 +1,8 @@
 var a11329 =
 [
-    [ "Player", "d4/d5b/a11329.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "d4/d5b/a11329.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "CharCount", "d4/d5b/a11329.html#aad61b8ca0caf09d6b62ee9fffd78cceb", null ],
-    [ "Class", "d4/d5b/a11329.html#a41e354593f59bc8546688a37c2a5e504", null ],
-    [ "Face", "d4/d5b/a11329.html#aba49d87691e9d2b10d430450c3f66493", null ],
-    [ "FacialHair", "d4/d5b/a11329.html#a5a88b2c2556dd1239c417ea4fcc55287", null ],
-    [ "Gender", "d4/d5b/a11329.html#ac4ed75d1527549051a92cbb958fa8eb4", null ],
-    [ "HairColor", "d4/d5b/a11329.html#a0ded70bbcf30bba4de4ac0ee88fb6eb6", null ],
-    [ "HairStyle", "d4/d5b/a11329.html#aa4b2800384a89a5c30c2edb7ff567865", null ],
-    [ "Name", "d4/d5b/a11329.html#a4f81603fda1ae148e6d6174ea8d861fe", null ],
-    [ "OutfitId", "d4/d5b/a11329.html#a15baddc70b46d48bd9f128e73aaac606", null ],
-    [ "Race", "d4/d5b/a11329.html#aeee5ee1a2dc34e1b2ad1f8edd31679ff", null ],
-    [ "Skin", "d4/d5b/a11329.html#a0fbfb41f3fd0c9d0ba2bfc7f04df648e", null ]
+    [ "PetSpellAutocast", "d4/d5b/a11329.html#ab858647d14031a2a6109d1e923402d08", null ],
+    [ "Read", "d4/d5b/a11329.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
+    [ "AutocastEnabled", "d4/d5b/a11329.html#a3c04543dcd5382682654b3860b84c6a3", null ],
+    [ "PetGUID", "d4/d5b/a11329.html#aeed828abebf683078ee61204c91e28c9", null ],
+    [ "SpellID", "d4/d5b/a11329.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
 ];

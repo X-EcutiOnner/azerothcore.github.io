@@ -1,7 +1,6 @@
 var a20141 =
 [
-    [ "OnPeriodic", "d4/d5f/a20141.html#a9407d5477a40e36863e5fb5775dda122", null ],
-    [ "PrepareAuraScript", "d4/d5f/a20141.html#a1ecb6e617976cdfbeb534849db41d57a", null ],
-    [ "Register", "d4/d5f/a20141.html#a34a31e96b21de9b9320d8276f7beb45e", null ],
-    [ "Validate", "d4/d5f/a20141.html#a2c2ca2c0425ab3b815d246b1caebf588", null ]
+    [ "PrepareSpellScript", "d4/d5f/a20141.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
+    [ "RecalculateDamage", "d4/d5f/a20141.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
+    [ "Register", "d4/d5f/a20141.html#aac131aa2d2e5342cf0303b918a077b45", null ]
 ];

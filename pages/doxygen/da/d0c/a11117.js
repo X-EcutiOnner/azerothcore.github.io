@@ -1,7 +1,11 @@
 var a11117 =
 [
-    [ "TrainerBuySucceeded", "da/d0c/a11117.html#ae00367a55429030c107fc8f6bb7db288", null ],
-    [ "Write", "da/d0c/a11117.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
-    [ "SpellID", "da/d0c/a11117.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
-    [ "TrainerGUID", "da/d0c/a11117.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
+    [ "BuyItemInSlot", "da/d0c/a11117.html#a9a15be940d8eb216614dca5055be094a", null ],
+    [ "Read", "da/d0c/a11117.html#a2608e83a41fb44c8469d2b9196702627", null ],
+    [ "BagGuid", "da/d0c/a11117.html#abb9a1c7ac98c1cd848e4da8faf4e3925", null ],
+    [ "BagSlot", "da/d0c/a11117.html#abdcb3b7e8a633b59d264ff1c860ec9c9", null ],
+    [ "Count", "da/d0c/a11117.html#a3d057f2bdafb46887a97dbba8bb5aa04", null ],
+    [ "Item", "da/d0c/a11117.html#a1fdfad3b4dd000c0f6d6d60f30bdd981", null ],
+    [ "Slot", "da/d0c/a11117.html#aae1dba7644a82933a801f581551479bc", null ],
+    [ "VendorGuid", "da/d0c/a11117.html#ac65b0fc2609531c8657c4d83cf50dbfe", null ]
 ];

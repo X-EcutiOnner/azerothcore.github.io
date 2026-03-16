@@ -1,8 +1,6 @@
 var a15733 =
 [
-    [ "npc_prospector_remtravelAI", "d5/df8/a15733.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
-    [ "JustEngagedWith", "d5/df8/a15733.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
-    [ "JustSummoned", "d5/df8/a15733.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
-    [ "Reset", "d5/df8/a15733.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
-    [ "WaypointReached", "d5/df8/a15733.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
+    [ "aqsentinelAI", "d7/dfe/a15737.html", "d7/dfe/a15737" ],
+    [ "npc_anubisath_sentinel", "d5/df8/a15733.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
+    [ "GetAI", "d5/df8/a15733.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
 ];

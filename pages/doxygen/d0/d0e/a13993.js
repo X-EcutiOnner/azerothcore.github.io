@@ -1,7 +1,8 @@
 var a13993 =
 [
-    [ "npc_deathstalker_erlandAI", "d0/d0e/a13993.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
-    [ "JustEngagedWith", "d0/d0e/a13993.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
-    [ "Reset", "d0/d0e/a13993.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
-    [ "WaypointReached", "d0/d0e/a13993.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ]
+    [ "HandleEffectApply", "d0/d0e/a13993.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
+    [ "HandleEffectRemove", "d0/d0e/a13993.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
+    [ "Load", "d0/d0e/a13993.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
+    [ "PrepareAuraScript", "d0/d0e/a13993.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
+    [ "Register", "d0/d0e/a13993.html#a6a90296c9903ce65913f3bba29dea176", null ]
 ];

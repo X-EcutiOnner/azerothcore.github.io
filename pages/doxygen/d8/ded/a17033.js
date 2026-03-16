@@ -1,6 +1,7 @@
 var a17033 =
 [
-    [ "OnPeriodic", "d8/ded/a17033.html#ab71faf6fb2900e176aac245317113758", null ],
-    [ "PrepareAuraScript", "d8/ded/a17033.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
-    [ "Register", "d8/ded/a17033.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
+    [ "HandleEffectPeriodic", "d8/ded/a17033.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
+    [ "PrepareAuraScript", "d8/ded/a17033.html#a66dcb98f38ed6b040928543015f59c9b", null ],
+    [ "Register", "d8/ded/a17033.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
+    [ "Validate", "d8/ded/a17033.html#a1131f0014f298b87483412d960bc0221", null ]
 ];

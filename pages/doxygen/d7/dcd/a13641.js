@@ -1,16 +1,7 @@
 var a13641 =
 [
-    [ "boss_felmyst", "d7/dcd/a13641.html#a96aa8f038e3f93aa7628ce3f28ef39ff", null ],
-    [ "InitializeAI", "d7/dcd/a13641.html#af29021c428a9c7ffcea517d91b1d4b39", null ],
-    [ "JustDied", "d7/dcd/a13641.html#a2269784b565f6a9d18bd9124cf4b8472", null ],
-    [ "JustEngagedWith", "d7/dcd/a13641.html#a6fc19cd8b8c7891a912a50fcd673d96f", null ],
-    [ "KilledUnit", "d7/dcd/a13641.html#a0233ebbcbb21d100425ac76223e839be", null ],
-    [ "MovementInform", "d7/dcd/a13641.html#adf8cd17c20be6acbe381777e8c0efdba", null ],
-    [ "Reset", "d7/dcd/a13641.html#ae5181c789809a859edb40488e206c0d3", null ],
-    [ "ScheduleGroundAbilities", "d7/dcd/a13641.html#a2d77aab0f9c403e130f0513a0b3013ce", null ],
-    [ "SpellHitTarget", "d7/dcd/a13641.html#a9b603cd704126cc6a6bbd65e2bb702e5", null ],
-    [ "StartIntro", "d7/dcd/a13641.html#a55e6defd1bc7f8f1dfd2376cb4589356", null ],
-    [ "UpdateAI", "d7/dcd/a13641.html#a0e429d8cf49946c0232b9c405c340356", null ],
-    [ "_currentLane", "d7/dcd/a13641.html#a7b4230a28ad7d8136ae16ada9d471a39", null ],
-    [ "_strafeCount", "d7/dcd/a13641.html#adc58c6e8aef0debe6689e42cebff5aa2", null ]
+    [ "HandleScript", "d7/dcd/a13641.html#ab705220b48be16090107135f9e2272cf", null ],
+    [ "PrepareSpellScript", "d7/dcd/a13641.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
+    [ "Register", "d7/dcd/a13641.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
+    [ "Validate", "d7/dcd/a13641.html#ad1d90693a427a52fa728e5ae455932a3", null ]
 ];

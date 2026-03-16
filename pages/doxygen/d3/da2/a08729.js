@@ -1,10 +1,13 @@
 var a08729 =
 [
-    [ "TradeStatusInfo", "d3/da2/a08729.html#ae0dff14036e00d3c62c181fcc306faf2", null ],
-    [ "IsTargetResult", "d3/da2/a08729.html#a10427d72e5bafd643648638a1fe7e854", null ],
-    [ "ItemLimitedByLimitCategory", "d3/da2/a08729.html#ad6b7e2f6d974b06388d1f30f82d207e8", null ],
-    [ "Result", "d3/da2/a08729.html#ac90552353a0fb8ff175fec99bf573981", null ],
-    [ "Slot", "d3/da2/a08729.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a", null ],
-    [ "Status", "d3/da2/a08729.html#a265172d89cdc4c6fc4df20ad5df45c64", null ],
-    [ "TraderGuid", "d3/da2/a08729.html#afc3926b9ff7dda3eb3505b225b74409d", null ]
+    [ "UpdateData", "d3/da2/a08729.html#a7164bb9338d6362f427d75025c9026b6", null ],
+    [ "AddOutOfRangeGUID", "d3/da2/a08729.html#a4c68f187e2f6e65da3bdb6a443ebcacf", null ],
+    [ "AddUpdateBlock", "d3/da2/a08729.html#a620f0036078833a3b5ce1245274595f8", null ],
+    [ "AddUpdateBlock", "d3/da2/a08729.html#af770dbf9bc4e4da1b97aba73b152b23b", null ],
+    [ "BuildPacket", "d3/da2/a08729.html#a3bea592b01b6c9e41b863c26fd602d45", null ],
+    [ "Clear", "d3/da2/a08729.html#adc0750db190d94fed3bfef72da75066c", null ],
+    [ "HasData", "d3/da2/a08729.html#a067577372028ad59aea7942f0cd4a5c2", null ],
+    [ "m_blockCount", "d3/da2/a08729.html#a791f9606867a40d018f67600e338a08e", null ],
+    [ "m_data", "d3/da2/a08729.html#ac21a3bda51f8d1d2b71be6d00d760e38", null ],
+    [ "m_outOfRangeGUIDs", "d3/da2/a08729.html#a60f7b1745f84b24b25c94625145dd5a2", null ]
 ];

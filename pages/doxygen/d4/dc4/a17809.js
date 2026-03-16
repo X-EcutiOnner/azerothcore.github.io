@@ -1,7 +1,7 @@
 var a17809 =
 [
-    [ "npc_icc_blood_beastAI", "d4/dc4/a17809.html#af52eff9f66451444c5acba6930c1bff6", null ],
-    [ "DoAction", "d4/dc4/a17809.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
-    [ "UpdateAI", "d4/dc4/a17809.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
-    [ "timer1", "d4/dc4/a17809.html#a1074059162f818088808795119f081be", null ]
+    [ "HandleScript", "d4/dc4/a17809.html#a4b1e392acea30a9259e65a75667704c5", null ],
+    [ "Load", "d4/dc4/a17809.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
+    [ "PrepareSpellScript", "d4/dc4/a17809.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
+    [ "Register", "d4/dc4/a17809.html#a77632d11a172e5552c0c49de830a1639", null ]
 ];

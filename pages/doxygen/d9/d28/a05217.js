@@ -1,26 +1,9 @@
 var a05217 =
 [
-    [ "ConfigMgr", "d9/d28/a05217.html#af5206e9fdadc2123af20aba4534d2988", null ],
-    [ "ConfigMgr", "d9/d28/a05217.html#a809bc22f24f6330edac8f95bbdc1be2e", null ],
-    [ "~ConfigMgr", "d9/d28/a05217.html#a25f0f8dba4b71b9679ec631339ef5a57", null ],
-    [ "Configure", "d9/d28/a05217.html#a60f49e7efc21c7278e5f18debde6d174", null ],
-    [ "GetArguments", "d9/d28/a05217.html#a824a06c1dc274c92c33d1f5681994be0", null ],
-    [ "GetConfigPath", "d9/d28/a05217.html#a104bef8d83f8c3b643f7538ac7bf5c30", null ],
-    [ "GetFilename", "d9/d28/a05217.html#ad002777983ff9399976fc5d4447536de", null ],
-    [ "GetKeysByString", "d9/d28/a05217.html#a6172d618b5f96b7f58c8dca984afecb4", null ],
-    [ "GetOption", "d9/d28/a05217.html#ac30a389fa563bf0360ac833a4a029573", null ],
-    [ "GetOption", "d9/d28/a05217.html#a711be8eda4077d967a3677bd138998ac", null ],
-    [ "GetValueDefault", "d9/d28/a05217.html#a4a122373714bb95f10e6532e30735e55", null ],
-    [ "instance", "d9/d28/a05217.html#a775439020c2e5577206c2559bbb2b042", null ],
-    [ "isDryRun", "d9/d28/a05217.html#a951307027c22fea8c88c3d0e78232413", null ],
-    [ "LoadAdditionalFile", "d9/d28/a05217.html#a58c320a6a1cf51bbeb51b90f0e4f2a71", null ],
-    [ "LoadAppConfigs", "d9/d28/a05217.html#ae8b4473b24540d12468cb994b89b78b8", null ],
-    [ "LoadInitial", "d9/d28/a05217.html#ab44a44b2613fc787f60937835bf4878f", null ],
-    [ "LoadModulesConfigs", "d9/d28/a05217.html#a4752375243302e81a5e8fb3f5615e776", null ],
-    [ "operator=", "d9/d28/a05217.html#ac7257754613b850d43951a0d6e1074b9", null ],
-    [ "OverrideWithEnvVariablesIfAny", "d9/d28/a05217.html#a03a1bed0e7b07a3fb3e41ea5fd80d983", null ],
-    [ "Reload", "d9/d28/a05217.html#a66363d8377945f4b29061ce9e4ea6dc7", null ],
-    [ "setDryRun", "d9/d28/a05217.html#ac2d5c14f32b1d8dfb3e8736f5aef5e7e", null ],
-    [ "_moduleConfigFiles", "d9/d28/a05217.html#aa5a8c891e53c6d76cf63d0a40fd799e1", null ],
-    [ "dryRun", "d9/d28/a05217.html#a555709e27a884d16ef6dd91cc21b806b", null ]
+    [ "MapRayCallback", "d9/d28/a05217.html#a1a4a654bc929dab5b5a2804c4b88389d", null ],
+    [ "didHit", "d9/d28/a05217.html#a9d9abb0a5ffff131d2c19e88c3c8b836", null ],
+    [ "operator()", "d9/d28/a05217.html#a0f218465b321da5f8289dfa815acbfd4", null ],
+    [ "flags", "d9/d28/a05217.html#a88d1e6d6fa43608bcee21a822488f061", null ],
+    [ "hit", "d9/d28/a05217.html#a6fc14ac7ae20effec9d2657a46b838fc", null ],
+    [ "prims", "d9/d28/a05217.html#a389d8ee31e0cb665bfd9084d786750c5", null ]
 ];

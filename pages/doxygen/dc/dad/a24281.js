@@ -1,6 +1,6 @@
 var a24281 =
 [
-    [ "HandlePeriodic", "dc/dad/a24281.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
-    [ "PrepareAuraScript", "dc/dad/a24281.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
-    [ "Register", "dc/dad/a24281.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
+    [ "HandleSendEvent", "dc/dad/a24281.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
+    [ "PrepareSpellScript", "dc/dad/a24281.html#aed8815b1d068ba04f12c7714a64af769", null ],
+    [ "Register", "dc/dad/a24281.html#aa55fa06e76b1f34e319e16984405ed20", null ]
 ];

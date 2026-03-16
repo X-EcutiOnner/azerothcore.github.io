@@ -1,6 +1,13 @@
 var a11681 =
 [
-    [ "CheckProcHandler", "d1/d96/a11681.html#a1b5bfc85cb9a81a64ebd4b769e3d3651", null ],
-    [ "Call", "d1/d96/a11681.html#a977558dc8838a05259effc268235696a", null ],
-    [ "_HandlerScript", "d1/d96/a11681.html#abcb28d1a2f32402511c1e659b2f3b443", null ]
+    [ "PetAuraMap", "d1/d96/a11681.html#a6c020340ff467b5f2d00c3b5f9fee817", null ],
+    [ "PetAura", "d1/d96/a11681.html#a8cd7e3284837b30a8a3c6739ab5cb9b3", null ],
+    [ "PetAura", "d1/d96/a11681.html#a79a2f086e2d8dbe1af47716b53df0524", null ],
+    [ "AddAura", "d1/d96/a11681.html#ae33bb99ab341f66fb2f296ccd6617e63", null ],
+    [ "GetAura", "d1/d96/a11681.html#a6f8318410229a89e0b3aa2af28d6cb2b", null ],
+    [ "GetDamage", "d1/d96/a11681.html#a38087712cef92ad55dc84f96e2b9e300", null ],
+    [ "IsRemovedOnChangePet", "d1/d96/a11681.html#adc1b329e1f303b5ad3f353abb4343cdf", null ],
+    [ "auras", "d1/d96/a11681.html#abacd738dfb04687810b981297b1a1567", null ],
+    [ "damage", "d1/d96/a11681.html#a216021a7ad893ae6ca65ea068dd6eedb", null ],
+    [ "removeOnChangePet", "d1/d96/a11681.html#aa5b3219cd2021341ce0910dce81d8b56", null ]
 ];

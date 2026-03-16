@@ -1,6 +1,6 @@
 var a23669 =
 [
-    [ "HandleScriptEffect", "dc/d31/a23669.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
-    [ "PrepareSpellScript", "dc/d31/a23669.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
-    [ "Register", "dc/d31/a23669.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
+    [ "npc_millhouse_manastormAI", "d7/dd7/a23673.html", "d7/dd7/a23673" ],
+    [ "npc_millhouse_manastorm", "dc/d31/a23669.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
+    [ "GetAI", "dc/d31/a23669.html#ac4516785f7daf544718fc201197ba977", null ]
 ];

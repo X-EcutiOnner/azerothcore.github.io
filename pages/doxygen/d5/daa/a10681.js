@@ -1,6 +1,10 @@
 var a10681 =
 [
-    [ "SetSheathed", "d5/daa/a10681.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
-    [ "Read", "d5/daa/a10681.html#ae2158689450e3a9207b6992ea5223106", null ],
-    [ "CurrentSheathState", "d5/daa/a10681.html#a8363787ac7959f19234def2707ef0b32", null ]
+    [ "WorldObjectScript", "d5/daa/a10681.html#af044c3699a591c137abc5e03c772890b", null ],
+    [ "IsDatabaseBound", "d5/daa/a10681.html#a48f037dd6152ff68ebef672de68df45e", null ],
+    [ "OnWorldObjectCreate", "d5/daa/a10681.html#a2b32bc661e5a377de98902f3bc16679b", null ],
+    [ "OnWorldObjectDestroy", "d5/daa/a10681.html#a7856d4b561cd99a7f405f86fffd57fef", null ],
+    [ "OnWorldObjectResetMap", "d5/daa/a10681.html#a32e6b907a20d84377e1ddfce79b5cfe1", null ],
+    [ "OnWorldObjectSetMap", "d5/daa/a10681.html#a12cf83d65dded66b41ca54a3c1bd31cb", null ],
+    [ "OnWorldObjectUpdate", "d5/daa/a10681.html#abc139d1aa728f8a70886eed65d28f566", null ]
 ];

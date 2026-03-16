@@ -1,9 +1,11 @@
 var a08681 =
 [
-    [ "areaFlag", "d4/dd0/a08681.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
-    [ "areaID", "d4/dd0/a08681.html#a455a890a1d82d31873873ac497cb83b7", null ],
-    [ "x1", "d4/dd0/a08681.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
-    [ "x2", "d4/dd0/a08681.html#aebdb021c0b9c40d624d5115b24616a12", null ],
-    [ "y1", "d4/dd0/a08681.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
-    [ "y2", "d4/dd0/a08681.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
+    [ "PackedGuid", "d4/dd0/a08681.html#a9268f8d34f24ef52369d605f94986a8d", null ],
+    [ "PackedGuid", "d4/dd0/a08681.html#a6d4559bc2a1d8c27247329c95c2b6156", null ],
+    [ "PackedGuid", "d4/dd0/a08681.html#adf388e273472f2699348c7a4361ebac4", null ],
+    [ "Set", "d4/dd0/a08681.html#aecbb8650ca713c175c30cd3ebe86b5d5", null ],
+    [ "Set", "d4/dd0/a08681.html#ae5d174d63a0b9d33b919f05760290bea", null ],
+    [ "size", "d4/dd0/a08681.html#a22ac06b7072951e84bbf69abcd7d58f6", null ],
+    [ "operator<<", "d4/dd0/a08681.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
+    [ "_packedGuid", "d4/dd0/a08681.html#aeb0e51f1667a2627aabffd6d7cb1779c", null ]
 ];

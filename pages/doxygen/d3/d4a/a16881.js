@@ -1,7 +1,7 @@
 var a16881 =
 [
-    [ "FilterTargets", "d3/d4a/a16881.html#a304da18e36ff67c34b80ab39583f8c96", null ],
-    [ "HandleScript", "d3/d4a/a16881.html#adf99670bcf862288f513d2a26cbc256a", null ],
-    [ "PrepareSpellScript", "d3/d4a/a16881.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
-    [ "Register", "d3/d4a/a16881.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
+    [ "npc_toc_druidAI", "d3/d4a/a16881.html#adb456f1f93be5329174a3199c9092825", null ],
+    [ "myCanCast", "d3/d4a/a16881.html#af82baa22ae49ba268f494cb07287845e", null ],
+    [ "UpdateAI", "d3/d4a/a16881.html#a82a22a557db647f73690d8838a635eaf", null ],
+    [ "events", "d3/d4a/a16881.html#a6bb27baf17f0286db3222287a8073bd7", null ]
 ];

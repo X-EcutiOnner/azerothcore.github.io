@@ -1,6 +1,6 @@
 var a27245 =
 [
-    [ "guard_shattrath_scryerAI", "d4/dee/a27249.html", "d4/dee/a27249" ],
-    [ "guard_shattrath_scryer", "d8/d78/a27245.html#a2ee4d6881d7c24cd848c590b84207663", null ],
-    [ "GetAI", "d8/d78/a27245.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
+    [ "HandleScript", "d8/d78/a27245.html#acde0ae837d0cd3af0f38481027200291", null ],
+    [ "PrepareSpellScript", "d8/d78/a27245.html#ac1237e0af7f88f75ebc551af52fc301c", null ],
+    [ "Register", "d8/d78/a27245.html#a2dc2628984358628afe7d9b62ced7794", null ]
 ];

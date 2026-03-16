@@ -1,6 +1,10 @@
 var a26825 =
 [
-    [ "HandleScript", "d0/dbf/a26825.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
-    [ "PrepareSpellScript", "d0/dbf/a26825.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
-    [ "Register", "d0/dbf/a26825.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
+    [ "CalculateAPAmount", "d0/dbf/a26825.html#a611247fcbdaeeb416a8cfbaf1a0fc415", null ],
+    [ "CalculateResistanceAmount", "d0/dbf/a26825.html#aa3fd9aa18ea2afa20c7c2298a8699812", null ],
+    [ "CalculateSPAmount", "d0/dbf/a26825.html#a9ae59870127884029a938684786e67a9", null ],
+    [ "CalculateStatAmount", "d0/dbf/a26825.html#a4ac5ffabf820d73d4a92a4a0628370e9", null ],
+    [ "HandleEffectApply", "d0/dbf/a26825.html#aaca0801f75839ebd9568c4cd31011a1e", null ],
+    [ "PrepareAuraScript", "d0/dbf/a26825.html#aa90952337607986eaf7485200a32c353", null ],
+    [ "Register", "d0/dbf/a26825.html#a88520214bd87511b615965593f1b927f", null ]
 ];

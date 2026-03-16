@@ -1,17 +1,8 @@
 var a17913 =
 [
-    [ "npc_gunship_boarding_addAI", "d8/df4/a17913.html#accf0e65592983cc0199cb445aea55f99", null ],
-    [ "CanAIAttack", "d8/df4/a17913.html#a7d30e525342d1cb13103a4d7ebe1bb39", null ],
-    [ "DamageTaken", "d8/df4/a17913.html#a3b4eac0143e3c9eb2730c9bcf54f90b0", null ],
-    [ "EnterEvadeMode", "d8/df4/a17913.html#a5350433e352e0302d03c750a143880cf", null ],
-    [ "MovementInform", "d8/df4/a17913.html#aa2bd88e4539ddc99f888d41fcb78c383", null ],
-    [ "SetData", "d8/df4/a17913.html#a4fd0655356a2f9b5820e0f42f267715e", null ],
-    [ "SetSlotInfo", "d8/df4/a17913.html#adb50c92c76763733dbec025769d62a40", null ],
-    [ "UpdateAI", "d8/df4/a17913.html#af25bee85b38d70d1b792d7c1752e45f5", null ],
-    [ "_usedDesperateResolve", "d8/df4/a17913.html#aaf154d9774154e868d563b3c47916746", null ],
-    [ "anyValid", "d8/df4/a17913.html#a7fafebb9c6076dbe7fc621788910f63b", null ],
-    [ "checkTimer", "d8/df4/a17913.html#a9a6b6d68743b1e1e993fa32435ba6722", null ],
-    [ "Index", "d8/df4/a17913.html#a18b570e7bae0e2c4d0dcfc788d9deec3", null ],
-    [ "Instance", "d8/df4/a17913.html#a07eeeedf7c1315a41c073cfc83361c9f", null ],
-    [ "Slot", "d8/df4/a17913.html#a1aef6abcddaca26da2d09d3d2e6e1152", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "d3/d5f/a17917.html", "d3/d5f/a17917" ],
+    [ "npc_muradin_bronzebeard_icc", "d8/df4/a17913.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
+    [ "GetAI", "d8/df4/a17913.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
+    [ "OnGossipHello", "d8/df4/a17913.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
+    [ "OnGossipSelect", "d8/df4/a17913.html#a46c4893be723a848d985ff55e28d55a2", null ]
 ];

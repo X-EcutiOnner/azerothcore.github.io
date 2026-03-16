@@ -1,6 +1,6 @@
 var a12841 =
 [
-    [ "boss_shazzrahAI", "db/ddc/a12841.html#a984b3d32d5f231a019f2c0f1bb027907", null ],
-    [ "ExecuteEvent", "db/ddc/a12841.html#a0f6e3e6876b9b769ea53db5c9028c6ff", null ],
-    [ "JustEngagedWith", "db/ddc/a12841.html#aaa8111d42cacd58f767513026976668c", null ]
+    [ "instance_blackwing_lair_InstanceMapScript", "db/d61/a12845.html", "db/d61/a12845" ],
+    [ "instance_blackwing_lair", "db/ddc/a12841.html#afb9a7ce1ac297b023aa8364cc1383336", null ],
+    [ "GetInstanceScript", "db/ddc/a12841.html#a70aff4e1bb406f232d0b4961037ed0a1", null ]
 ];

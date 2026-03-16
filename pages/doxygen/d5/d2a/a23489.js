@@ -1,5 +1,6 @@
 var a23489 =
 [
-    [ "at_shattered_halls_execution", "d5/d2a/a23489.html#a73f1d1f03960acd070b7996257f7a526", null ],
-    [ "OnTrigger", "d5/d2a/a23489.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "db/d53/a23493.html", "db/d53/a23493" ],
+    [ "instance_gruuls_lair", "d5/d2a/a23489.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
+    [ "GetInstanceScript", "d5/d2a/a23489.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
 ];

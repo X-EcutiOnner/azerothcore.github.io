@@ -1,6 +1,15 @@
 var a17317 =
 [
-    [ "boss_garfrostAI", "de/d8c/a17321.html", "de/d8c/a17321" ],
-    [ "boss_garfrost", "da/d45/a17317.html#ac116491cf252ee476cedee55ea292827", null ],
-    [ "GetAI", "da/d45/a17317.html#a8a67bb09249655a8706868bb26b5124d", null ]
+    [ "boss_falricAI", "da/d45/a17317.html#a8b333fe1571f98b4e9f44152d130a22d", null ],
+    [ "DoAction", "da/d45/a17317.html#a2a7de8f939cd3cdc113c841da36e28c8", null ],
+    [ "EnterEvadeMode", "da/d45/a17317.html#aacb6a3b13fe5ea08ab2ff0e77ff841a4", null ],
+    [ "JustDied", "da/d45/a17317.html#a4ee3163afcda23102d639740fd628f39", null ],
+    [ "JustEngagedWith", "da/d45/a17317.html#ae5a8b14e1984dbd2866af7c442c02df2", null ],
+    [ "KilledUnit", "da/d45/a17317.html#a4a8b45eb85c1328af6beec69f2db1842", null ],
+    [ "Reset", "da/d45/a17317.html#a0af8ef161bc2a37a5c7f7fa880194251", null ],
+    [ "UpdateAI", "da/d45/a17317.html#a640036111dcd14e40016342ffdef7d63", null ],
+    [ "events", "da/d45/a17317.html#aa94ca00db157378071b78142b213de23", null ],
+    [ "pInstance", "da/d45/a17317.html#aebeae3541bbbf392c44fd52516bb2d98", null ],
+    [ "startFightTimer", "da/d45/a17317.html#addd560074b840aed36f41883f893340e", null ],
+    [ "uiHopelessnessCount", "da/d45/a17317.html#a0ad83fb57263116a59976834c6667ea9", null ]
 ];

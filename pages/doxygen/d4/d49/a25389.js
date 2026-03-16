@@ -1,7 +1,7 @@
 var a25389 =
 [
-    [ "HandleDummy", "d4/d49/a25389.html#a5a82cbe58f57c94441cfda618e0eecca", null ],
-    [ "HandleScriptEffect", "d4/d49/a25389.html#a30d760a8708b49a185eb000249a9a5eb", null ],
-    [ "PrepareSpellScript", "d4/d49/a25389.html#a102d8493d285757c789cbba4a1bdc688", null ],
-    [ "Register", "d4/d49/a25389.html#ab4031ddb745995128854c149f7706045", null ]
+    [ "EjectPassenger", "d4/d49/a25389.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
+    [ "PrepareSpellScript", "d4/d49/a25389.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
+    [ "Register", "d4/d49/a25389.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
+    [ "Validate", "d4/d49/a25389.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
 ];

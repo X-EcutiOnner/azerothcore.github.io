@@ -1,8 +1,9 @@
 var a16021 =
 [
-    [ "npc_pluckyAI", "df/d86/a16025.html", "df/d86/a16025" ],
-    [ "npc_plucky", "d9/d64/a16021.html#a86bb2992b8af5893987145117aaf3608", null ],
-    [ "GetAI", "d9/d64/a16021.html#a51e73f4e1f618aee5a000e31328efefc", null ],
-    [ "OnGossipHello", "d9/d64/a16021.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
-    [ "OnGossipSelect", "d9/d64/a16021.html#a88fa465246b4c657b921ebdc96f7a112", null ]
+    [ "npc_thrall_warchiefAI", "df/d86/a16025.html", "df/d86/a16025" ],
+    [ "npc_thrall_warchief", "d9/d64/a16021.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
+    [ "GetAI", "d9/d64/a16021.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
+    [ "OnGossipHello", "d9/d64/a16021.html#a5cd40c062fb07d2ddfffdc159f2935d3", null ],
+    [ "OnGossipSelect", "d9/d64/a16021.html#a63367ca0b252c148f625b305575fd768", null ],
+    [ "OnQuestReward", "d9/d64/a16021.html#a6576664c201d62cab1fa2f073cddee6e", null ]
 ];

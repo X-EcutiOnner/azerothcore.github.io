@@ -1,6 +1,7 @@
 var a16645 =
 [
-    [ "instance_trial_of_the_champion_InstanceMapScript", "d4/d7b/a16649.html", "d4/d7b/a16649" ],
-    [ "instance_trial_of_the_champion", "d3/d43/a16645.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
-    [ "GetInstanceScript", "d3/d43/a16645.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
+    [ "TwilightCutterSelector", "d3/d43/a16645.html#accea6e932c44d083fbb4dc41c5102b3d", null ],
+    [ "operator()", "d3/d43/a16645.html#a6374425df156bdf202d53a2c73ef784c", null ],
+    [ "_caster", "d3/d43/a16645.html#a784c95ef6472e711f4200f194222d179", null ],
+    [ "_cutterCaster", "d3/d43/a16645.html#a7f713777a36a8d127c2865e4610b1288", null ]
 ];

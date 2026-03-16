@@ -1,6 +1,6 @@
 var a17669 =
 [
-    [ "OnAbsorb", "db/dd5/a17669.html#aa6582457cd0502ca263433d04b40b64f", null ],
-    [ "PrepareAuraScript", "db/dd5/a17669.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
-    [ "Register", "db/dd5/a17669.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
+    [ "HandleScriptEffect", "db/dd5/a17669.html#ab9c289e946cfaf2b63f2526914d79812", null ],
+    [ "PrepareSpellScript", "db/dd5/a17669.html#a832f8ab737254760fe2b91f19d119781", null ],
+    [ "Register", "db/dd5/a17669.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
 ];

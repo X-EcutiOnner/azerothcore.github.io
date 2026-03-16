@@ -1,9 +1,9 @@
 var a09517 =
 [
-    [ "NearestHostileUnitCheck", "d6/de2/a09517.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
-    [ "NearestHostileUnitCheck", "d6/de2/a09517.html#a2fe620370289850eb0362823de2072d1", null ],
-    [ "operator()", "d6/de2/a09517.html#a04c85a77d660bbc74279d1062dabc375", null ],
-    [ "i_playerOnly", "d6/de2/a09517.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
-    [ "m_range", "d6/de2/a09517.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
-    [ "me", "d6/de2/a09517.html#a67cef25e6f725ea42f0377df34d48495", null ]
+    [ "CreatureSearcher", "d6/de2/a09517.html#ac6fc899c41c2a93f530fa53c693f0df8", null ],
+    [ "Visit", "d6/de2/a09517.html#a50630891bfb459c6c526b3e4e7e29136", null ],
+    [ "Visit", "d6/de2/a09517.html#a503aab809be6f5d60c020e89c64dce7b", null ],
+    [ "i_check", "d6/de2/a09517.html#abc72e56d9453d798fcb457aff023d3ac", null ],
+    [ "i_object", "d6/de2/a09517.html#af31c7a1cf3f03a42d7fe66836e306b85", null ],
+    [ "i_phaseMask", "d6/de2/a09517.html#a5fa5777da405c57700a7e1ea7d5f94cf", null ]
 ];

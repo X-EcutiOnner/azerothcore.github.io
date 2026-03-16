@@ -1,10 +1,8 @@
 var a20309 =
 [
-    [ "HandleEffectPeriodic", "de/dfd/a20309.html#aa62be73e00d9cb512806787eaf1c4144", null ],
-    [ "Load", "de/dfd/a20309.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
-    [ "PrepareAuraScript", "de/dfd/a20309.html#ad9664bff267b330565d3c706e1752e9d", null ],
-    [ "Register", "de/dfd/a20309.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
-    [ "Validate", "de/dfd/a20309.html#a3f6653b4ca202d9b0971189930e8b463", null ],
-    [ "_counter", "de/dfd/a20309.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
-    [ "_prev", "de/dfd/a20309.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
+    [ "HandleOnEffectApply", "de/dfd/a20309.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "de/dfd/a20309.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "de/dfd/a20309.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "de/dfd/a20309.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "de/dfd/a20309.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

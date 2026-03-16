@@ -1,6 +1,5 @@
 var a02270 =
 [
-    [ "PLAYER_FLIGHT_SPEED", "d4/de7/a02270.html#a2efde26aed42919892139c2ffb51b279", null ],
-    [ "SKIP_SPLINE_POINT_DISTANCE_SQ", "d4/de7/a02270.html#a55b33fb4c6265551b0327903da9bff4c", null ],
-    [ "IsNodeIncludedInShortenedPath", "d4/de7/a02270.html#a47a5affa854677472690918c4d16f998", null ]
+    [ "ConfusedMovementGenerator< T >", "d4/da3/a10217.html", "d4/da3/a10217" ],
+    [ "MAX_CONF_WAYPOINTS", "d4/de7/a02270.html#ad4f7a217e114623ec80b1743f39ed3ea", null ]
 ];

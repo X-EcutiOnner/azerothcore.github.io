@@ -1,6 +1,7 @@
 var a27609 =
 [
-    [ "CheckCast", "dc/dad/a27609.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
-    [ "PrepareSpellScript", "dc/dad/a27609.html#aa3c18907c79309a8924a98bce41e27f1", null ],
-    [ "Register", "dc/dad/a27609.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
+    [ "HandleProc", "dc/dad/a27609.html#aa28268bdb7e3063cff0880baefe02824", null ],
+    [ "PrepareAuraScript", "dc/dad/a27609.html#a8b19c9d128d568be695f985e5ed28b2d", null ],
+    [ "Register", "dc/dad/a27609.html#a5a0f0e1558c1d4c687b94fe8874512ef", null ],
+    [ "Validate", "dc/dad/a27609.html#a8461f9dc90d1df9a91350d3e277fffeb", null ]
 ];

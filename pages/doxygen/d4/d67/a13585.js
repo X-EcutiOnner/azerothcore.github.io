@@ -1,6 +1,6 @@
 var a13585 =
 [
-    [ "HandleActivateObject", "d4/d67/a13585.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
-    [ "PrepareSpellScript", "d4/d67/a13585.html#ad55914fdc6771e09a508572d59ad30ed", null ],
-    [ "Register", "d4/d67/a13585.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
+    [ "instance_scholomance_InstanceMapScript", "db/d1c/a13589.html", "db/d1c/a13589" ],
+    [ "instance_scholomance", "d4/d67/a13585.html#ace7a781c45623419daad6143480d8fe2", null ],
+    [ "GetInstanceScript", "d4/d67/a13585.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
 ];

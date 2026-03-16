@@ -1,8 +1,8 @@
 var a00362 =
 [
-    [ "MetricData", "dc/d69/a05614.html", "dc/d69/a05614" ],
-    [ "Metric", "d4/dff/a05618.html", "d4/dff/a05618" ],
-    [ "MetricStopWatch< LoggerType >", "d4/dc8/a05622.html", "d4/dc8/a05622" ],
+    [ "MetricData", "d4/d64/a05605.html", "d4/d64/a05605" ],
+    [ "Metric", "d5/d6f/a05609.html", "d5/d6f/a05609" ],
+    [ "MetricStopWatch< LoggerType >", "dc/daa/a05613.html", "dc/daa/a05613" ],
     [ "METRIC_CONCAT", "de/dd7/a00362.html#ad81585df46d4cee988a1222012dbabf1", null ],
     [ "METRIC_DETAILED_EVENT", "de/dd7/a00362.html#ac782d1c3265f7b707782545777d49d05", null ],
     [ "METRIC_DETAILED_NO_THRESHOLD_TIMER", "de/dd7/a00362.html#a281633f6f8b252d96029ce8fd29da746", null ],

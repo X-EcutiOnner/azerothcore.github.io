@@ -1,12 +1,13 @@
 var a28717 =
 [
-    [ "Model", "db/d0c/a28717.html#ae102b5fc584185113e89fb7b39a72bd1", null ],
-    [ "~Model", "db/d0c/a28717.html#ad6ebd2062a0b823db841a0b88baac4c0", null ],
-    [ "_unload", "db/d0c/a28717.html#a9b02ed73fa006bc057157b636029ab6f", null ],
-    [ "ConvertToVMAPModel", "db/d0c/a28717.html#ae6fd5d754d9a880359b8afaf50c5753e", null ],
-    [ "open", "db/d0c/a28717.html#a6ed3a71ff468f5acaccc61f5c2c87a0e", null ],
-    [ "filename", "db/d0c/a28717.html#a4c43746e9c460e29cabd1ba2db6ba222", null ],
-    [ "header", "db/d0c/a28717.html#a2f6e66bbf4acc662d73e8fe8e5a0e085", null ],
-    [ "indices", "db/d0c/a28717.html#a3b61d3316481e7b9c38bf50806ebded6", null ],
-    [ "vertices", "db/d0c/a28717.html#a1af9857df4d0e16ab9940846300fa8fe", null ]
+    [ "DBCDatabaseLoader", "db/d0c/a28717.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
+    [ "DBCDatabaseLoader", "db/d0c/a28717.html#a7d93e6d37796f341edcf25062743c5b5", null ],
+    [ "CloneStringToPool", "db/d0c/a28717.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
+    [ "Load", "db/d0c/a28717.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
+    [ "operator=", "db/d0c/a28717.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
+    [ "_dbcFormat", "db/d0c/a28717.html#aa749118514d0b784ac6df295bd820d8e", null ],
+    [ "_recordSize", "db/d0c/a28717.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
+    [ "_sqlIndexPos", "db/d0c/a28717.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
+    [ "_sqlTableName", "db/d0c/a28717.html#ab6590071edf5311ccf484d48e4fd125e", null ],
+    [ "_stringPool", "db/d0c/a28717.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
 ];

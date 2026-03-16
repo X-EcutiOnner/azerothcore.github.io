@@ -1,6 +1,6 @@
 var a27865 =
 [
-    [ "CalculateAmount", "d6/dea/a27865.html#a9c4a38bb60cc61156da5bd1b89b3e116", null ],
-    [ "PrepareAuraScript", "d6/dea/a27865.html#a5bd55cb8b992f7ceb52f7193bcdbf210", null ],
-    [ "Register", "d6/dea/a27865.html#a1f717d941f8d100eb73d7e2a3b638bad", null ]
+    [ "FilterTargets", "d6/dea/a27865.html#a6224b3193474f569d09edaf29b40c2fb", null ],
+    [ "PrepareSpellScript", "d6/dea/a27865.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
+    [ "Register", "d6/dea/a27865.html#a2fab1592d19331239b1ef63045389886", null ]
 ];

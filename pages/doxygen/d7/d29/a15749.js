@@ -1,13 +1,10 @@
 var a15749 =
 [
-    [ "npc_tharnarianAI", "d7/d29/a15749.html#a8e22d45f6420aa8079f8fb7150a2a53a", null ],
-    [ "Initialize", "d7/d29/a15749.html#ad1d89491b42a56406273a04045e7e91d", null ],
-    [ "Reset", "d7/d29/a15749.html#a7de1f46bee4e79effc5dbb405854a7da", null ],
-    [ "SetGUID", "d7/d29/a15749.html#a8717a30828b91853ceba1b5e62126f29", null ],
-    [ "sGossipSelect", "d7/d29/a15749.html#a33b5898def48e17ba27363b98f51849b", null ],
-    [ "UpdateAI", "d7/d29/a15749.html#a1e58a89064bdfb69e4445db72184d8b3", null ],
-    [ "_bearGUID", "d7/d29/a15749.html#af7a116b8226ddb51e9f0f118f2d8fa22", null ],
-    [ "_events", "d7/d29/a15749.html#aff73052a4b7407d760af3dde09fa8a07", null ],
-    [ "_facing", "d7/d29/a15749.html#ad2120fffc0ffa93d4fca1e9e8c0a4371", null ],
-    [ "_scriptRunning", "d7/d29/a15749.html#a5be50b02cc8ce2e7b4dd334e923a7c10", null ]
+    [ "npc_anubisath_defender", "d7/d29/a15749.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
+    [ "DamageTaken", "d7/d29/a15749.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
+    [ "JustDied", "d7/d29/a15749.html#a225ca1b3144953bcc5890caf0d32b606", null ],
+    [ "JustEngagedWith", "d7/d29/a15749.html#a6505fcae0e99cae44750f16daddc3309", null ],
+    [ "Reset", "d7/d29/a15749.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
+    [ "UpdateAI", "d7/d29/a15749.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
+    [ "_enraged", "d7/d29/a15749.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
 ];

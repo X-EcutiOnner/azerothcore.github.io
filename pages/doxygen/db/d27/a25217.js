@@ -1,6 +1,6 @@
 var a25217 =
 [
-    [ "CalculateAmount", "db/d27/a25217.html#a83bf0327aade6f6a33293a442ad10911", null ],
-    [ "PrepareAuraScript", "db/d27/a25217.html#aa964f4eb7391dab54ff744fc94306de1", null ],
-    [ "Register", "db/d27/a25217.html#a37d29d87bec2fe2908b7d3e47f5e1caa", null ]
+    [ "HandleScriptEffect", "db/d27/a25217.html#ab3f415ae783f2a778178cc3319b32773", null ],
+    [ "PrepareSpellScript", "db/d27/a25217.html#a4ba7f7935c4acda891190dc375086dee", null ],
+    [ "Register", "db/d27/a25217.html#ad9b1571b4faf7d0fc6df7f6a8eb05c8a", null ]
 ];

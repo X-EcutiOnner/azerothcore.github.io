@@ -1,9 +1,9 @@
 var a15341 =
 [
-    [ "npc_buru_egg", "d9/dc1/a15341.html#a6aa2896342b802caecde1c1dffcf4907", null ],
-    [ "JustDied", "d9/dc1/a15341.html#a3de169b252374f0b2daed3ecb5a11502", null ],
-    [ "JustEngagedWith", "d9/dc1/a15341.html#a8cde6848569671876a17b00d75228ebe", null ],
-    [ "JustSummoned", "d9/dc1/a15341.html#abebb96dcb3d653bddd4210da6567fb87", null ],
-    [ "UpdateAI", "d9/dc1/a15341.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
-    [ "_instance", "d9/dc1/a15341.html#a5b168226755a57368f17827e3457a0ca", null ]
+    [ "boss_temporus", "d9/dc1/a15341.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
+    [ "JustDied", "d9/dc1/a15341.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
+    [ "JustEngagedWith", "d9/dc1/a15341.html#abe7f18497c1c8b31693980e98b1d1859", null ],
+    [ "KilledUnit", "d9/dc1/a15341.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
+    [ "MoveInLineOfSight", "d9/dc1/a15341.html#a18a0279036324498a9daf8c7d0296ffc", null ],
+    [ "OwnTalk", "d9/dc1/a15341.html#a99356589a048debbc308b8431259da5c", null ]
 ];

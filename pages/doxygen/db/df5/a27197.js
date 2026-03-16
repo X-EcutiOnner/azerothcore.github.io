@@ -1,5 +1,6 @@
 var a27197 =
 [
-    [ "go_jotunheim_cage", "db/df5/a27197.html#a28c9312de97a822e34f05c7358b42df4", null ],
-    [ "OnGossipHello", "db/df5/a27197.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
+    [ "PrepareSpellScript", "db/df5/a27197.html#a882d87de64d0e2c64b17c26d9e40d616", null ],
+    [ "Register", "db/df5/a27197.html#ab58938808e460e843e42f2b6fa644e8a", null ],
+    [ "SetDest", "db/df5/a27197.html#ab87932c73a2e53647bda584aeb58f789", null ]
 ];

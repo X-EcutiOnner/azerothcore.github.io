@@ -1,5 +1,6 @@
 var a10477 =
 [
-    [ "MailScript", "d7/d4f/a10477.html#a009eaf9dd8d44427e8e5c91a92ebb5c5", null ],
-    [ "OnBeforeMailDraftSendMailTo", "d7/d4f/a10477.html#ab4e3f0552ffc705ef44e8ca6c36f2be7", null ]
+    [ "ALEScript", "d7/d4f/a10477.html#a3949e8bd9d83297871c60778f3fe9f9e", null ],
+    [ "CanAreaTrigger", "d7/d4f/a10477.html#ad5d8f66949b0f7638dd85ccba4c569d0", null ],
+    [ "OnWeatherChange", "d7/d4f/a10477.html#a109b1cb14f602065ce4346d0370407a7", null ]
 ];

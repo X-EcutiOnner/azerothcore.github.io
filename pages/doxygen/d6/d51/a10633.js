@@ -1,5 +1,6 @@
 var a10633 =
 [
-    [ "LogoutRequest", "d6/d51/a10633.html#ab92b0a8a5d3d076adbd465fcf24b7975", null ],
-    [ "Read", "d6/d51/a10633.html#a84701a16603f8b0f1e8dda1020ec1161", null ]
+    [ "OutdoorPvPScript", "d6/d51/a10633.html#ad7882db48419888c7968007e30c2f3f7", null ],
+    [ "GetOutdoorPvP", "d6/d51/a10633.html#aa213974f384c88ab65f7b7308dadb026", null ],
+    [ "IsDatabaseBound", "d6/d51/a10633.html#ac22c6a9945738270452848f997d2818f", null ]
 ];

@@ -1,7 +1,6 @@
 var a19277 =
 [
-    [ "HandleTriggerSpell", "da/daa/a19277.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
-    [ "PrepareAuraScript", "da/daa/a19277.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
-    [ "Register", "da/daa/a19277.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
-    [ "Validate", "da/daa/a19277.html#a813bad39641956fff697580f271416d2", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "dc/d86/a19281.html", "dc/d86/a19281" ],
+    [ "npc_icc_skybreaker_luminary", "da/daa/a19277.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
+    [ "GetAI", "da/daa/a19277.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
 ];

@@ -1,6 +1,7 @@
 var a21277 =
 [
-    [ "npc_azure_raiderAI", "d8/d73/a21281.html", "d8/d73/a21281" ],
-    [ "npc_azure_raider", "da/d85/a21277.html#a249abee0df263e183341193b828a310c", null ],
-    [ "GetAI", "da/d85/a21277.html#a88a45e3b117c5105f7541d640dda8470", null ]
+    [ "PrepareAuraScript", "da/d85/a21277.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
+    [ "Register", "da/d85/a21277.html#a7225d1f83921e4de06516c1db5a5038a", null ],
+    [ "TriggerFists", "da/d85/a21277.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
+    [ "Validate", "da/d85/a21277.html#a977897c569245148eb94892bb42d4ca5", null ]
 ];

@@ -1,8 +1,14 @@
 var a15685 =
 [
-    [ "npc_death_ravagerAI", "de/dab/a15685.html#ad18242b078db0883029537562a41cc20", null ],
-    [ "Reset", "de/dab/a15685.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
-    [ "UpdateAI", "de/dab/a15685.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
-    [ "EnragingBiteTimer", "de/dab/a15685.html#af33898ebd9bea6b1a58b673373de3c64", null ],
-    [ "RendTimer", "de/dab/a15685.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
+    [ "boss_twinemperorsAI", "de/dab/a15685.html#ae0857b191dbbf086533062aee5885237", null ],
+    [ "DamageTaken", "de/dab/a15685.html#a118151851f36de9dfc22971a965cb047", null ],
+    [ "DoAction", "de/dab/a15685.html#a2b5e585749b7a59663813c7a9d56c223", null ],
+    [ "EnterEvadeMode", "de/dab/a15685.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
+    [ "GetTwin", "de/dab/a15685.html#af23aa54bca9752c242e80331862ace4d", null ],
+    [ "IAmVeklor", "de/dab/a15685.html#acdccdde2ee573f51e1783ea493577258", null ],
+    [ "JustDied", "de/dab/a15685.html#a9cc74619908c2aa9f8deda2689616735", null ],
+    [ "JustEngagedWith", "de/dab/a15685.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
+    [ "KilledUnit", "de/dab/a15685.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
+    [ "UpdateAI", "de/dab/a15685.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
+    [ "_introDone", "de/dab/a15685.html#a1b4689b0c403f7246ae100e4f716b138", null ]
 ];

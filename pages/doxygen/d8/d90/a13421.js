@@ -1,6 +1,8 @@
 var a13421 =
 [
-    [ "npc_risen_guardianAI", "d7/dd5/a13425.html", "d7/dd5/a13425" ],
-    [ "npc_risen_guardian", "d8/d90/a13421.html#a472274c69abe912f5781c60911204eb5", null ],
-    [ "GetAI", "d8/d90/a13421.html#a568f57a442adcd64c8c3d2e4d5df729f", null ]
+    [ "npc_dkc1_gothikAI", "d8/d90/a13421.html#a35e65bd943f86ba3a1d6841569289df6", null ],
+    [ "DoAction", "d8/d90/a13421.html#a3193c562973bbf995ab5e0173a93d01f", null ],
+    [ "MoveInLineOfSight", "d8/d90/a13421.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
+    [ "UpdateAI", "d8/d90/a13421.html#a346d32c9831babe6fb5f675b70b7a897", null ],
+    [ "spoken", "d8/d90/a13421.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
 ];

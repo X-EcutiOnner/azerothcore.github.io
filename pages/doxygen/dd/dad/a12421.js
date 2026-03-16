@@ -1,9 +1,14 @@
 var a12421 =
 [
-    [ "boss_overlordwyrmthalakAI", "dd/dad/a12421.html#a76f9bd309e1c5045c74bb0ba8d8bce5c", null ],
-    [ "JustDied", "dd/dad/a12421.html#ade379755d256c4c290e6dc8bbd862261", null ],
-    [ "JustEngagedWith", "dd/dad/a12421.html#af7780f467df92c9218700773d1257a8c", null ],
-    [ "Reset", "dd/dad/a12421.html#a9dbc4cc1830703c393fbeb9c0385b709", null ],
-    [ "UpdateAI", "dd/dad/a12421.html#a950b2161ed4c2441fb73f8b009c5ba30", null ],
-    [ "Summoned", "dd/dad/a12421.html#a8183e3f02d931809440adc8cc0cd3654", null ]
+    [ "boss_general_angerforgeAI", "dd/dad/a12421.html#af5537ccebc7ac6af49f9b6612d3a6138", null ],
+    [ "JustEngagedWith", "dd/dad/a12421.html#ae99e11630596c62c4155a18f5a0a3dd5", null ],
+    [ "Reset", "dd/dad/a12421.html#aff55a804bdca840016e0f6b1d11f7106", null ],
+    [ "SummonAdds", "dd/dad/a12421.html#a218f4de2d057505f60b2977835e5fd91", null ],
+    [ "SummonMedics", "dd/dad/a12421.html#aeabe71bde9b03a944beedeac68cffd19", null ],
+    [ "UpdateAI", "dd/dad/a12421.html#a751c0d0015c235c8716a2a8ff18500ba", null ],
+    [ "Adds_Timer", "dd/dad/a12421.html#a069f0008735b38c249ddfe5246025438", null ],
+    [ "Cleave_Timer", "dd/dad/a12421.html#af80ac4df7aaab1469ee62ac8b054a0b9", null ],
+    [ "HamString_Timer", "dd/dad/a12421.html#a04c51b1400d17454ca529d6aa257697b", null ],
+    [ "Medics", "dd/dad/a12421.html#a06fc801b89c53430603f1a33bb3e7bd8", null ],
+    [ "MightyBlow_Timer", "dd/dad/a12421.html#aeea6bb264e2d175d1906d8606eced529", null ]
 ];

@@ -1,7 +1,6 @@
 var a24977 =
 [
-    [ "PrepareSpellScript", "d5/dad/a24977.html#aad8061898087fbf5eb6527cbaa70927d", null ],
-    [ "RecalculateDamage", "d5/dad/a24977.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
-    [ "Register", "d5/dad/a24977.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
-    [ "_damagePct", "d5/dad/a24977.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
+    [ "CalculateAmount", "d5/dad/a24977.html#af913c896771e238ef62898f67af61cc4", null ],
+    [ "PrepareAuraScript", "d5/dad/a24977.html#a4be139ae22c20468be1930195097d98a", null ],
+    [ "Register", "d5/dad/a24977.html#a90d6446ed05f9dfedb43d689e8de0614", null ]
 ];

@@ -1,7 +1,6 @@
 var a11045 =
 [
-    [ "Playsound", "d4/dcb/a11045.html#a955f91d0d65c64f154f99b3b9472e273", null ],
-    [ "Playsound", "d4/dcb/a11045.html#aa242d4ca729d67d7fd58dc81985f22f9", null ],
-    [ "Write", "d4/dcb/a11045.html#acb4bdd9a1613a158832115e4c18bfcd9", null ],
-    [ "SoundKitID", "d4/dcb/a11045.html#a922cb6d06285bdf9f3d89ff990c40b0a", null ]
+    [ "InstanceReset", "d4/dcb/a11045.html#ab1ff5009dc40f18c30941e327e5c3863", null ],
+    [ "Write", "d4/dcb/a11045.html#a0809c4de226d3aaab9817c393cef6055", null ],
+    [ "MapId", "d4/dcb/a11045.html#a7b80bb32e524fe1d0ddadf955f1ec4a2", null ]
 ];

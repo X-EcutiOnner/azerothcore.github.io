@@ -1,5 +1,7 @@
 var a20197 =
 [
-    [ "boss_freya_iron_root", "d2/dfd/a20197.html#af35a268c89c025d95c13ea8c87d6516e", null ],
-    [ "JustDied", "d2/dfd/a20197.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ]
+    [ "npc_auriaya_sanctum_sentry", "d2/dfd/a20197.html#ae5ed159c476c8b4569de7e2730edf447", null ],
+    [ "JustEngagedWith", "d2/dfd/a20197.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
+    [ "Reset", "d2/dfd/a20197.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
+    [ "UpdateAI", "d2/dfd/a20197.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
 ];

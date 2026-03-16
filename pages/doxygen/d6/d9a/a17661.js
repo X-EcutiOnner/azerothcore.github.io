@@ -1,6 +1,7 @@
 var a17661 =
 [
-    [ "ChangeSummonPos", "d6/d9a/a17661.html#a2c3d69419762c7f78688a22017a8c535", null ],
-    [ "PrepareSpellScript", "d6/d9a/a17661.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
-    [ "Register", "d6/d9a/a17661.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
+    [ "HandleDummy", "d6/d9a/a17661.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
+    [ "PrepareSpellScript", "d6/d9a/a17661.html#a3ef0564565ea49265800422c835432b0", null ],
+    [ "Register", "d6/d9a/a17661.html#a7b685926a8d511397889616e97bbd563", null ],
+    [ "Validate", "d6/d9a/a17661.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
 ];

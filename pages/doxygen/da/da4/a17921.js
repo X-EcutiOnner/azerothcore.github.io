@@ -1,7 +1,6 @@
 var a17921 =
 [
-    [ "npc_gunship_boarding_leaderAI", "da/da4/a17921.html#ac20099905fd6fddda2561b88cf077b77", null ],
-    [ "JustEngagedWith", "da/da4/a17921.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
-    [ "UpdateAI", "da/da4/a17921.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
-    [ "_events", "da/da4/a17921.html#affb899bbaa288e72a48d5518367b023d", null ]
+    [ "npc_saurfang_eventAI", "db/dcf/a17925.html", "db/dcf/a17925" ],
+    [ "npc_saurfang_event", "da/da4/a17921.html#a3bfce5457466360458498833098d660c", null ],
+    [ "GetAI", "da/da4/a17921.html#a953842d2fa3380a8331faf3a42cb3177", null ]
 ];

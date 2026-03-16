@@ -1,43 +1,31 @@
 var a02858 =
 [
-    [ "npc_cork_gizelton", "d4/d18/a15930.html", "d4/d18/a15930" ],
-    [ "npc_cork_gizelton::npc_cork_gizeltonAI", "dc/d0b/a15934.html", "dc/d0b/a15934" ],
-    [ "npc_aged_dying_ancient_kodo", "d0/d29/a15938.html", "d0/d29/a15938" ],
-    [ "Caravan", "d7/de8/a02858.html#aec2c916c560ca6ceedd660d3b140e728", [
-      [ "QUEST_BODYGUARD_FOR_HIRE", "d7/de8/a02858.html#aec2c916c560ca6ceedd660d3b140e728a07d8fdc2ba6f3382ab9a9c0ccb910712", null ],
-      [ "QUEST_GIZELTON_CARAVAN", "d7/de8/a02858.html#aec2c916c560ca6ceedd660d3b140e728af1f220a5094995c40054b8afcfc956f9", null ],
-      [ "EVENT_RESUME_PATH", "d7/de8/a02858.html#aec2c916c560ca6ceedd660d3b140e728a69f42ceba9244cdbe2e7dfc9e833acc9", null ],
-      [ "EVENT_WAIT_FOR_ASSIST", "d7/de8/a02858.html#aec2c916c560ca6ceedd660d3b140e728ac88ffb83ceecf13ef48bd0988529cba7", null ],
-      [ "EVENT_RESTART_ESCORT", "d7/de8/a02858.html#aec2c916c560ca6ceedd660d3b140e728a7410480ad3fe5ae4742c8d12f885e2d1", null ],
-      [ "NPC_CORK_GIZELTON", "d7/de8/a02858.html#aec2c916c560ca6ceedd660d3b140e728a3ac8ce9d7c78aa74818eb286eb1530ba", null ],
-      [ "NPC_RIGGER_GIZELTON", "d7/de8/a02858.html#aec2c916c560ca6ceedd660d3b140e728a73d4fb993cb56f5e539c1255d432d1a5", null ],
-      [ "NPC_CARAVAN_KODO", "d7/de8/a02858.html#aec2c916c560ca6ceedd660d3b140e728ae4dd98db048a9b333326fb52a0a08858", null ],
-      [ "NPC_VENDOR_TRON", "d7/de8/a02858.html#aec2c916c560ca6ceedd660d3b140e728acb0c2bc0eea43af8bd0e1801fac8846f", null ],
-      [ "NPC_SUPER_SELLER", "d7/de8/a02858.html#aec2c916c560ca6ceedd660d3b140e728a8329377778d66d3c939420b04264e573", null ],
-      [ "SAY_CARAVAN_LEAVE", "d7/de8/a02858.html#aec2c916c560ca6ceedd660d3b140e728a52926a8d01b0b50f89cc5fb99e6919aa", null ],
-      [ "SAY_CARAVAN_HIRE", "d7/de8/a02858.html#aec2c916c560ca6ceedd660d3b140e728ab0f9b346c5f60c1ec44e45615f360ef3", null ],
-      [ "MAX_CARAVAN_SUMMONS", "d7/de8/a02858.html#aec2c916c560ca6ceedd660d3b140e728a4466b99c64cd47f91aec55ce7ef75362", null ],
-      [ "NPC_KOLKAR_WAYLAYER", "d7/de8/a02858.html#aec2c916c560ca6ceedd660d3b140e728af42ec3a8ba079cb93c6ad5406dcc4ece", null ],
-      [ "NPC_KOLKAR_AMBUSHER", "d7/de8/a02858.html#aec2c916c560ca6ceedd660d3b140e728a7a9eb27a8fb0e7ef6c66a86720d9233c", null ],
-      [ "NPC_LESSER_INFERNAL", "d7/de8/a02858.html#aec2c916c560ca6ceedd660d3b140e728aae0903900c838cf1102ca86baa598224", null ],
-      [ "NPC_DOOMWARDER", "d7/de8/a02858.html#aec2c916c560ca6ceedd660d3b140e728ae43176493b6aa526db1f2f2912bf6027", null ],
-      [ "NPC_NETHER", "d7/de8/a02858.html#aec2c916c560ca6ceedd660d3b140e728ac95afd23fdda714496e33c6aab109eda", null ]
+    [ "npcs_riverbreeze_and_silversky", "d9/d95/a15965.html", "d9/d95/a15965" ],
+    [ "at_ancient_leaf", "da/da3/a15969.html", "da/da3/a15969" ],
+    [ "AncientMisc", "d7/de8/a02858.html#adaffe09a7c2b9f9bfdc48d5068c18068", [
+      [ "QUEST_ANCIENT_LEAF", "d7/de8/a02858.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3", null ],
+      [ "NPC_VARTRUS", "d7/de8/a02858.html#adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99", null ],
+      [ "NPC_STOMA", "d7/de8/a02858.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81", null ],
+      [ "NPC_HASTAT", "d7/de8/a02858.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04", null ],
+      [ "CREATURE_GROUP_ANCIENTS", "d7/de8/a02858.html#adaffe09a7c2b9f9bfdc48d5068c18068a929e77d337e49edf4de033ddb8ccf149", null ]
     ] ],
-    [ "DyingKodo", "d7/de8/a02858.html#af45ec6fee60329d3c66726e0fa939663", [
-      [ "SAY_SMEED_HOME", "d7/de8/a02858.html#af45ec6fee60329d3c66726e0fa939663a07ed71cb461662af72c9811505b9c955", null ],
-      [ "QUEST_KODO", "d7/de8/a02858.html#af45ec6fee60329d3c66726e0fa939663a8019fb9754f039595728a149d4c3214f", null ],
-      [ "NPC_TEXT_KODO", "d7/de8/a02858.html#af45ec6fee60329d3c66726e0fa939663a934cabb76d1cbddd53e5a682b3560c7e", null ],
-      [ "NPC_SMEED", "d7/de8/a02858.html#af45ec6fee60329d3c66726e0fa939663ab289aa3f772d2e87dad418d075ab8dce", null ],
-      [ "NPC_AGED_KODO", "d7/de8/a02858.html#af45ec6fee60329d3c66726e0fa939663ab93894e9256e085d45fb24b0d544e154", null ],
-      [ "NPC_DYING_KODO", "d7/de8/a02858.html#af45ec6fee60329d3c66726e0fa939663a6116f630ddd9390420cc6aa4230a862e", null ],
-      [ "NPC_ANCIENT_KODO", "d7/de8/a02858.html#af45ec6fee60329d3c66726e0fa939663a1267b33b446af4c80d35df16c24e2ac3", null ],
-      [ "NPC_TAMED_KODO", "d7/de8/a02858.html#af45ec6fee60329d3c66726e0fa939663a47e69d141a6091158f3102f0ebc301e3", null ],
-      [ "SPELL_KODO_KOMBO_ITEM", "d7/de8/a02858.html#af45ec6fee60329d3c66726e0fa939663ad0806f22dfe303368c6bfef3b25bdbe9", null ],
-      [ "SPELL_KODO_KOMBO_PLAYER_BUFF", "d7/de8/a02858.html#af45ec6fee60329d3c66726e0fa939663a77343420c8740b50963dbc05382dc5ea", null ],
-      [ "SPELL_KODO_KOMBO_DESPAWN_BUFF", "d7/de8/a02858.html#af45ec6fee60329d3c66726e0fa939663abf5a59eb8d83eefa21ea7e9b53e96ad5", null ],
-      [ "SPELL_KODO_KOMBO_GOSSIP", "d7/de8/a02858.html#af45ec6fee60329d3c66726e0fa939663a08489d27d91546512009b1555fa59de3", null ]
+    [ "RiverbreezeAndSilversky", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427", [
+      [ "SPELL_CENARION_BEACON", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427aefb9fe5d61b5fc5b810f077e47334d49", null ],
+      [ "ITEM_CENARION_BEACON", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427a677781938bceb63690d56c2e2c445f46", null ],
+      [ "ACTION_CREATE_CENARION_BEACON", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427acc340298bf9880e22b326c208affb4a1", null ],
+      [ "NPC_ARATHANDRIS_SILVERSKY", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427a15af7b53355112caefafe032f27b15d6", null ],
+      [ "NPC_MAYBESS_RIVERBREEZE", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427a3362be702aaaa11f11e1df72d0a8e149", null ],
+      [ "QUEST_CLEASING_FELWOOD_A", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427ab52d337e733144a5a21fce9825f80fff", null ],
+      [ "QUEST_CLEASING_FELWOOD_H", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427a24da8ad4e5cec47c9a66a1e03e07383f", null ],
+      [ "GOSSIP_MENU_SILVERSKY", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427a201df035f33936e3020580c82101e7f8", null ],
+      [ "GOSSIP_MENU_RIVERBREEZE", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427ac00e8bf57bf7a4be3444d02de30309dc", null ],
+      [ "GOSSIP_OPTION_BEACON", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427a0999bd0707a4dbe03c5715081af725e1", null ],
+      [ "TEXT_SILVERSKY_1", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427a3148f1367e563486599162f32be4af21", null ],
+      [ "TEXT_SILVERSKY_2", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427a62011283d742f7947270994268e055de", null ],
+      [ "TEXT_SILVERSKY_3", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427af033b1f55bfbe0ccfd66cd1df7b50289", null ],
+      [ "TEXT_RIVERBREEZE_1", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427ac53b44e51816fbef84a98123a317125e", null ],
+      [ "TEXT_RIVERBREEZE_2", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427a06658a3d493565d3f8a42555e037fa40", null ],
+      [ "TEXT_RIVERBREEZE_3", "d7/de8/a02858.html#acc75d54553750c832fe50b6cb0c42427a1d15502f6a496af4174cb3c5960818b5", null ]
     ] ],
-    [ "AddSC_desolace", "d7/de8/a02858.html#a626ec1db47701aabca9f7bda1c8b7c7a", null ],
-    [ "TIME_HIRE_STOP", "d7/de8/a02858.html#a4242da8a27377879882360b83ee517d5", null ],
-    [ "TIME_SHOP_STOP", "d7/de8/a02858.html#a74a579d621e86ff3a69ffef7b34efe7e", null ]
+    [ "AddSC_felwood", "d7/de8/a02858.html#a63ae28c9f250057b35a18fb585c6a2cf", null ]
 ];

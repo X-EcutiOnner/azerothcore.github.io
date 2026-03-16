@@ -1,6 +1,9 @@
 var a09553 =
 [
-    [ "AllFriendlyCreaturesInGrid", "df/d7a/a09553.html#a6ad66997d093ffa52e2d80337dcb5460", null ],
-    [ "operator()", "df/d7a/a09553.html#aca2b8ed7de69c57bb270e0c663781f97", null ],
-    [ "unit", "df/d7a/a09553.html#a3842fa1eceabaa2d40b2bab4393cb431", null ]
+    [ "PlayerDistWorker", "df/d7a/a09553.html#a53c207607485724ba7c3aa5e9fd02b51", null ],
+    [ "Visit", "df/d7a/a09553.html#a6cb5d9bdf26bc96a24e5660ca3b3758b", null ],
+    [ "Visit", "df/d7a/a09553.html#a2658f12f90953f1057a9377b21824879", null ],
+    [ "i_dist", "df/d7a/a09553.html#aad16511b6a9aaa3eb561f636475ffe97", null ],
+    [ "i_do", "df/d7a/a09553.html#a0e1738a71d7feda9f607ee964ff1fff2", null ],
+    [ "i_searcher", "df/d7a/a09553.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f", null ]
 ];

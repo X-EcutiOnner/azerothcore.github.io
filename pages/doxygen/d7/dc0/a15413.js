@@ -1,7 +1,6 @@
 var a15413 =
 [
-    [ "npc_hivezara_stinger", "d7/dc0/a15413.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
-    [ "JustEngagedWith", "d7/dc0/a15413.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
-    [ "Reset", "d7/dc0/a15413.html#ae8e893c90942a469628c393d5b5380cc", null ],
-    [ "UpdateAI", "d7/dc0/a15413.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
+    [ "instance_ragefire_chasm_InstanceMapScript", "d5/d83/a15417.html", "d5/d83/a15417" ],
+    [ "instance_ragefire_chasm", "d7/dc0/a15413.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
+    [ "GetInstanceScript", "d7/dc0/a15413.html#a0568996a61ef91688b9f223cb3782e5a", null ]
 ];

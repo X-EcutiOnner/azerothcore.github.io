@@ -1,6 +1,8 @@
 var a24665 =
 [
-    [ "PrepareSpellScript", "db/da3/a24665.html#acfa320b33c00883a78c3696bbbeb7eb0", null ],
-    [ "Register", "db/da3/a24665.html#a6d251ba1e88d4349dcffa96978389a7f", null ],
-    [ "SelectTarget", "db/da3/a24665.html#a0d95f8ad8d05d2c0b100dc10988d00c9", null ]
+    [ "CheckProc", "db/da3/a24665.html#af8ecd189601dbbc34a1d633e1de3eed8", null ],
+    [ "HandleProc", "db/da3/a24665.html#a03f5428462b132c438b40575182e5081", null ],
+    [ "PrepareAuraScript", "db/da3/a24665.html#a301947c8053d4a4ee4de2a05f58b7505", null ],
+    [ "Register", "db/da3/a24665.html#a9b3793739de21b5117e4a66e2951f939", null ],
+    [ "Validate", "db/da3/a24665.html#acc50882146bad569108852b207d519fd", null ]
 ];

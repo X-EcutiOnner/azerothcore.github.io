@@ -1,12 +1,13 @@
 var a15225 =
 [
-    [ "boss_isalien", "d2/d66/a15225.html#a736a25e60ae367a45c7d6451be96126d", null ],
-    [ "DamageTaken", "d2/d66/a15225.html#a95d461e099193b5e2c1363acb1b5939a", null ],
-    [ "JustDied", "d2/d66/a15225.html#a6544b5eb398eb2fc9cae05709e4a5cc1", null ],
-    [ "JustEngagedWith", "d2/d66/a15225.html#ad6714da515db77c7299ee80b3268433e", null ],
-    [ "JustSummoned", "d2/d66/a15225.html#a84a94a1a8889b48cd02d5cb6a205a487", null ],
-    [ "Reset", "d2/d66/a15225.html#a4995c18e2baa62d05717617d0b1e3529", null ],
-    [ "UpdateAI", "d2/d66/a15225.html#aa067bea34557a4b2fe840ef305852bc0", null ],
-    [ "_phase", "d2/d66/a15225.html#a954bbd32948e6c416197199d96142056", null ],
-    [ "_scheduler", "d2/d66/a15225.html#a8eb56a907e3395b9e81588aab7c07ca6", null ]
+    [ "boss_infinite_corruptorAI", "d2/d66/a15225.html#add36192941eaabf7f3d1d41c572783bd", null ],
+    [ "DoAction", "d2/d66/a15225.html#a8ff0a9731ad7bc118a1014bdbb0e1daf", null ],
+    [ "JustDied", "d2/d66/a15225.html#a6d2f445bf0819ac644d7de14d3b7034d", null ],
+    [ "JustEngagedWith", "d2/d66/a15225.html#a644725505db4fc7a98c4255d0eb34616", null ],
+    [ "JustSummoned", "d2/d66/a15225.html#a2b12c03184b169a56a0e6696a107dc35", null ],
+    [ "Reset", "d2/d66/a15225.html#a4dbff495bfcda6fb715dec68616e1764", null ],
+    [ "UpdateAI", "d2/d66/a15225.html#aaa0a45066ab7ad7d5a7543822d399947", null ],
+    [ "beamTimer", "d2/d66/a15225.html#a2f8048e591a818f073a65bfcfa49e66c", null ],
+    [ "events", "d2/d66/a15225.html#a5491db8f5e063ca84f18f1ca63c1e846", null ],
+    [ "summons", "d2/d66/a15225.html#aa5de5f986f8a6d3ba5f3aad84422eab6", null ]
 ];

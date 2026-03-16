@@ -1,7 +1,4 @@
 var a21773 =
 [
-    [ "HandleDummy", "d3/dd4/a21773.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
-    [ "PrepareSpellScript", "d3/dd4/a21773.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
-    [ "Register", "d3/dd4/a21773.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
-    [ "Validate", "d3/dd4/a21773.html#aeec15705a41ad2ac0e59d90086591d96", null ]
+    [ "operator()", "d3/dd4/a21773.html#a8176fb574f0eac852ed3528dcadac288", null ]
 ];

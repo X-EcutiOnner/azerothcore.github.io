@@ -1,10 +1,16 @@
 var a16045 =
 [
-    [ "npc_ameAI", "d6/db0/a16045.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
-    [ "JustDied", "d6/db0/a16045.html#a9b77f94f112477509c3163945ceb8201", null ],
-    [ "JustSummoned", "d6/db0/a16045.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
-    [ "Reset", "d6/db0/a16045.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
-    [ "UpdateAI", "d6/db0/a16045.html#a0a073e4c216985607aa51099044ff6c5", null ],
-    [ "WaypointReached", "d6/db0/a16045.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
-    [ "DemoralizingShoutTimer", "d6/db0/a16045.html#ab5d1786735adea4bce1bba8adf42a877", null ]
+    [ "npc_anachronos_the_ancientAI", "d6/db0/a16045.html#aad6fbdc3cf33f2deb6dd3cc741e4aec4", null ],
+    [ "HandleAnimation", "d6/db0/a16045.html#a0bd43e2482a12cda79566f761d448109", null ],
+    [ "Reset", "d6/db0/a16045.html#a3bd2380cfd18b14aae1ae72a452299bb", null ],
+    [ "UpdateAI", "d6/db0/a16045.html#a5a55cfec1d204b6657779938e93b6be5", null ],
+    [ "AnachronosQuestTriggerGUID", "d6/db0/a16045.html#aa51b7cdfb2a37310196c81a01f89a7dd", null ],
+    [ "AnimationCount", "d6/db0/a16045.html#a504038880b7e837f63f99d477c8a0bba", null ],
+    [ "AnimationTimer", "d6/db0/a16045.html#a4ca3807429ffa2caca6199ecd66c4015", null ],
+    [ "ArygosGUID", "d6/db0/a16045.html#a4f2917c85d41d3b5015d6eed56fe9e12", null ],
+    [ "CaelestraszGUID", "d6/db0/a16045.html#adceafa1ad19ecb7df59f87b501d4622c", null ],
+    [ "eventEnd", "d6/db0/a16045.html#ad125b9eb7052449a6b75eebde7a192e0", null ],
+    [ "FandralGUID", "d6/db0/a16045.html#a157af7db82bf943c298b63d8294067ce", null ],
+    [ "MerithraGUID", "d6/db0/a16045.html#af7088f79687a4109f5701488e9019aeb", null ],
+    [ "PlayerGUID", "d6/db0/a16045.html#a7e1777ca319e4f6dafc1a035d05dabc0", null ]
 ];

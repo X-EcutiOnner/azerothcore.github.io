@@ -1,7 +1,7 @@
 var a21769 =
 [
-    [ "HandleDummy", "d9/dcc/a21769.html#abb5726c8afa66a946eefc8767094ea9b", null ],
-    [ "PrepareSpellScript", "d9/dcc/a21769.html#ab5d9f8125c75bbd8fbb2717516d3eddd", null ],
-    [ "Register", "d9/dcc/a21769.html#a38efc59fcbb40469521419723a1dceb3", null ],
-    [ "Validate", "d9/dcc/a21769.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e", null ]
+    [ "HandleApplyEffect", "d9/dcc/a21769.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
+    [ "HandleRemoveEffect", "d9/dcc/a21769.html#a243933fec9ccd650303ea5badbea725b", null ],
+    [ "PrepareAuraScript", "d9/dcc/a21769.html#ac0e1fc0694dd51e245340d3658592447", null ],
+    [ "Register", "d9/dcc/a21769.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
 ];

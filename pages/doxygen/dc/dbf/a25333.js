@@ -1,6 +1,7 @@
 var a25333 =
 [
-    [ "HandleItemRemove", "dc/dbf/a25333.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
-    [ "PrepareSpellScript", "dc/dbf/a25333.html#a8b43e146724a2c8b3c495e886a79d021", null ],
-    [ "Register", "dc/dbf/a25333.html#af8b02c31b81dce516ea47d6a1235d683", null ]
+    [ "HandleEffectApply", "dc/dbf/a25333.html#abf780eeca61aef7e44617aa0ed2ff8b8", null ],
+    [ "OnRemove", "dc/dbf/a25333.html#af2cfa66cd7dbc7c671efa06c497cc03e", null ],
+    [ "PrepareAuraScript", "dc/dbf/a25333.html#ab6c5d1fd94c763126ef77f9efd4a7116", null ],
+    [ "Register", "dc/dbf/a25333.html#a473189971d0a03e7305b7b9e41dc5207", null ]
 ];

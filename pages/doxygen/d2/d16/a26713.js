@@ -1,7 +1,9 @@
 var a26713 =
 [
-    [ "HandleRemove", "d2/d16/a26713.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
-    [ "PrepareAuraScript", "d2/d16/a26713.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
-    [ "Register", "d2/d16/a26713.html#a338ee9c0eddd309ce2a791160059bad6", null ],
-    [ "Validate", "d2/d16/a26713.html#ae8272b65a070fc959af003f701567c3c", null ]
+    [ "spell_pal_judgement", "d2/d16/a26713.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
+    [ "HandleScriptEffect", "d2/d16/a26713.html#add419a824dbebdc168d2b6dc49d07913", null ],
+    [ "PrepareSpellScript", "d2/d16/a26713.html#a2cffed69c16a1a6189048ed52af35152", null ],
+    [ "Register", "d2/d16/a26713.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
+    [ "Validate", "d2/d16/a26713.html#a3971c195a279338253771675131b4802", null ],
+    [ "_spellId", "d2/d16/a26713.html#ad49ea02800078c672747f4fdbbab1d20", null ]
 ];

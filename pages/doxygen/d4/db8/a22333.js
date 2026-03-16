@@ -1,5 +1,7 @@
 var a22333 =
 [
-    [ "OutdoorPvP_nagrand", "d4/db8/a22333.html#ac6e0f41eafb915604bd1b1d84e915f87", null ],
-    [ "GetOutdoorPvP", "d4/db8/a22333.html#ae8ce0bf210e2be8229b9ac4d8615b058", null ]
+    [ "npc_wg_demolisher_engineer", "d4/db8/a22333.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "d4/db8/a22333.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "d4/db8/a22333.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "d4/db8/a22333.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

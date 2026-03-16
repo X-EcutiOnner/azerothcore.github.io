@@ -1,5 +1,5 @@
 var a07965 =
 [
-    [ "PackedGuidReader", "dd/dde/a07965.html#aec7af2ed383e06998a0fa12b94da90e3", null ],
-    [ "Guid", "dd/dde/a07965.html#a4de5d725a22f0a8ae4bb83cb51a72588", null ]
+    [ "IsColorValid", "dd/dde/a07965.html#a5b13574c40a78f28d15e6b11bc7bd5bc", null ],
+    [ "IsTextValid", "dd/dde/a07965.html#a1c9a027ff1f355b16fe629b7c4af7b98", null ]
 ];

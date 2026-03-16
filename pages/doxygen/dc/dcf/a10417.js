@@ -1,5 +1,6 @@
 var a10417 =
 [
-    [ "FactoryCreatureScript", "dc/dcf/a10417.html#a62cd4db9e8dd3dab606f1166fdf0ce44", null ],
-    [ "GetAI", "dc/dcf/a10417.html#a0e491e4cda2b03456d798f6726dbde54", null ]
+    [ "PoolObject", "dc/dcf/a10417.html#a772dc7bc9e1ce25edba89977bf87e3f0", null ],
+    [ "chance", "dc/dcf/a10417.html#ae129795bb2f358af900dbc8892502123", null ],
+    [ "guid", "dc/dcf/a10417.html#ae10fa01f5959e231fe2c16d38d9f3615", null ]
 ];

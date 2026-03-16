@@ -1,18 +1,14 @@
 var a16141 =
 [
-    [ "boss_elder_nadox", "dd/d2d/a16141.html#a718d8fffde11b1df5a44650096c474cc", null ],
-    [ "DamageTaken", "dd/d2d/a16141.html#a34dd3a07faeee096b1c8574f63353893", null ],
-    [ "GetData", "dd/d2d/a16141.html#ad2f80bcefb6c43370546d867fd4fc951", null ],
-    [ "JustDied", "dd/d2d/a16141.html#a1342dbd6de10197c6ba4bc8e43cceace", null ],
-    [ "JustEngagedWith", "dd/d2d/a16141.html#a659f83714070b7358b43d1c7eb46ac1c", null ],
-    [ "KilledUnit", "dd/d2d/a16141.html#a78310e83e518b64c1373b60a946f9748", null ],
-    [ "Reset", "dd/d2d/a16141.html#ab5e492f39552b64c0333b6fbce89c1ae", null ],
-    [ "SummonedCreatureDies", "dd/d2d/a16141.html#a77d9861b2e2de593d0b44c2fd9449f17", null ],
-    [ "SummonHelpers", "dd/d2d/a16141.html#ae65044c111e514a3050ea14f1155a7dc", null ],
-    [ "UpdateAI", "dd/d2d/a16141.html#abbb783581208c76fa371f01efd481b66", null ],
-    [ "guardianEggs", "dd/d2d/a16141.html#aae96b622766ab4478a8510bd1c7a9f1f", null ],
-    [ "guardianSummoned", "dd/d2d/a16141.html#a5543be0c08bf1d432b36bfdb2d532f0d", null ],
-    [ "previousSwarmEgg_GUID", "dd/d2d/a16141.html#add5ff92f92b8d01caef0b12a98569535", null ],
-    [ "respectYourElders", "dd/d2d/a16141.html#aac97ef9511e64692a152077b43e83e75", null ],
-    [ "swarmEggs", "dd/d2d/a16141.html#a28c8b6826ed86e30b573883cab83168f", null ]
+    [ "npc_taskmaster_fizzuleAI", "dd/d2d/a16141.html#ac792f91930c869ce919f8fd96b3fb076", null ],
+    [ "DoFriend", "dd/d2d/a16141.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
+    [ "JustEngagedWith", "dd/d2d/a16141.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
+    [ "ReceiveEmote", "dd/d2d/a16141.html#a21d0d70086f085b715a12d05fbe5d611", null ],
+    [ "Reset", "dd/d2d/a16141.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
+    [ "SpellHit", "dd/d2d/a16141.html#a4c35104935a3a6264c853a657dc42244", null ],
+    [ "UpdateAI", "dd/d2d/a16141.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
+    [ "factionNorm", "dd/d2d/a16141.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
+    [ "FlareCount", "dd/d2d/a16141.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
+    [ "IsFriend", "dd/d2d/a16141.html#ab7e6bd2e023545c73fba758267551eee", null ],
+    [ "ResetTimer", "dd/d2d/a16141.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
 ];

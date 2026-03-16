@@ -1,6 +1,7 @@
 var a09073 =
 [
-    [ "flags", "dd/dd5/a09073.html#a953acfd67349f028a839390ebe7fc398", null ],
-    [ "fourcc", "dd/dd5/a09073.html#a14d0e9cf761aae3ef914f3bff86ef216", null ],
-    [ "gridArea", "dd/dd5/a09073.html#a4ee571320d5d346bbf74709677bbee05", null ]
+    [ "Done", "dd/dd5/a09073.html#abc88850d392fb4b62e778d09445de0be", null ],
+    [ "DoneWorldState", "dd/dd5/a09073.html#a380755d90c958b6532bae7f8a4d70b44", null ],
+    [ "MaxWorldState", "dd/dd5/a09073.html#a8c144531f876b6def613c0011e0efe47", null ],
+    [ "ReqNum", "dd/dd5/a09073.html#ae1d182aef449388993e4965de447d971", null ]
 ];

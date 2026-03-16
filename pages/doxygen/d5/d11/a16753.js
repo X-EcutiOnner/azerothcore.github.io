@@ -1,6 +1,6 @@
 var a16753 =
 [
-    [ "npc_toc_shadow_priestAI", "dc/d19/a16757.html", "dc/d19/a16757" ],
-    [ "npc_toc_shadow_priest", "d5/d11/a16753.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
-    [ "GetAI", "d5/d11/a16753.html#a93b38d23759da3b7417dbb94b4a951da", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "dc/d19/a16757.html", "dc/d19/a16757" ],
+    [ "npc_black_knight_skeletal_gryphon", "d5/d11/a16753.html#a5dc83a92fbe2eb4d6faa30f23a9ac777", null ],
+    [ "GetAI", "d5/d11/a16753.html#aad244f95877a208b56a2b6544984d724", null ]
 ];

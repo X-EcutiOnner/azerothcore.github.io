@@ -1,6 +1,6 @@
 var a21329 =
 [
-    [ "npc_violet_hold_defense_system", "df/d88/a21329.html#abb5eb275e803201aad3010ad77aa4b41", null ],
-    [ "Reset", "df/d88/a21329.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
-    [ "UpdateAI", "df/d88/a21329.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ]
+    [ "npc_erekem_guardAI", "d6/d9b/a21333.html", "d6/d9b/a21333" ],
+    [ "npc_erekem_guard", "df/d88/a21329.html#a78592996e90f77f81eec0325a7f11956", null ],
+    [ "GetAI", "df/d88/a21329.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
 ];

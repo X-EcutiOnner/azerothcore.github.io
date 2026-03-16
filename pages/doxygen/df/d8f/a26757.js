@@ -1,6 +1,6 @@
 var a26757 =
 [
-    [ "HandleCast", "df/d8f/a26757.html#ac6afa94be0da1f99b12afebe935bcb5d", null ],
-    [ "PrepareSpellScript", "df/d8f/a26757.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
-    [ "Register", "df/d8f/a26757.html#a81bc86c83ffc70602410912870e61700", null ]
+    [ "CheckCast", "df/d8f/a26757.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
+    [ "PrepareSpellScript", "df/d8f/a26757.html#a33e86d770e926247c58c00143b55c418", null ],
+    [ "Register", "df/d8f/a26757.html#a453c7fa25baf458c9a319053ca726621", null ]
 ];

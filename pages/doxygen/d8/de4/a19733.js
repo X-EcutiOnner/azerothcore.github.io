@@ -1,7 +1,7 @@
 var a19733 =
 [
-    [ "Apply", "d8/de4/a19733.html#add8e95d38b0c437833c11cded72fe2a7", null ],
-    [ "PrepareAuraScript", "d8/de4/a19733.html#ad2112b571d97e537983b4d11207015e6", null ],
-    [ "Register", "d8/de4/a19733.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
-    [ "Validate", "d8/de4/a19733.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
+    [ "HandleScript", "d8/de4/a19733.html#a8e54c3526406fcb6963667c05b5f2cce", null ],
+    [ "Load", "d8/de4/a19733.html#a94661c7652572b1671a611b35c8f68a7", null ],
+    [ "PrepareSpellScript", "d8/de4/a19733.html#a269f558a231a4c9af55a54c6c7090d1b", null ],
+    [ "Register", "d8/de4/a19733.html#a09352bd458fe3dbeacea38c5104656ff", null ]
 ];

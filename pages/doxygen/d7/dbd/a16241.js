@@ -1,6 +1,6 @@
 var a16241 =
 [
-    [ "npc_anub_ar_crusher_champion", "d7/dbd/a16241.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
-    [ "DoEngagedWith", "d7/dbd/a16241.html#a2dcef4fe57880ba725dff52455a7a428", null ],
-    [ "DoEvent", "d7/dbd/a16241.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
+    [ "instance_zulfarrak_InstanceMapScript", "d8/d42/a16245.html", "d8/d42/a16245" ],
+    [ "instance_zulfarrak", "d7/dbd/a16241.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
+    [ "GetInstanceScript", "d7/dbd/a16241.html#a5f092341e49848c9d321452be2193d56", null ]
 ];

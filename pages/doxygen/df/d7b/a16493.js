@@ -1,6 +1,6 @@
 var a16493 =
 [
-    [ "PrepareSpellScript", "df/d7b/a16493.html#a743f910c3854e2c4e726e97c55fa7038", null ],
-    [ "Register", "df/d7b/a16493.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
-    [ "RemoveNotBetween", "df/d7b/a16493.html#aba462e5b8e9336a508d19606f98750b5", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d4/d59/a16497.html", "d4/d59/a16497" ],
+    [ "instance_obsidian_sanctum", "df/d7b/a16493.html#a6cf2121c4167156f5748c144372b3c0b", null ],
+    [ "GetInstanceScript", "df/d7b/a16493.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
 ];

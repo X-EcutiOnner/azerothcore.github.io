@@ -1,6 +1,7 @@
 var a29341 =
 [
-    [ "npc_steam_tonkAI", "df/d42/a29345.html", "df/d42/a29345" ],
-    [ "npc_steam_tonk", "d7/d47/a29341.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
-    [ "GetAI", "d7/d47/a29341.html#a38e51485a3610a204a45677fce15c943", null ]
+    [ "ID", "d7/d47/a29341.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
+    [ "RadiusMax", "d7/d47/a29341.html#ab82c1acb9309b17104958182d80b01d1", null ],
+    [ "RadiusMin", "d7/d47/a29341.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
+    [ "RadiusPerLevel", "d7/d47/a29341.html#a74bb59afb808af45ceff6367468fca1e", null ]
 ];

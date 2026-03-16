@@ -1,6 +1,8 @@
 var a19929 =
 [
-    [ "npc_collapsing_star", "d4/d56/a19929.html#a6660bd7f397d7a3cd7ee5d3580b6bb78", null ],
-    [ "DamageTaken", "d4/d56/a19929.html#ad19c1a3c033b0d97fe42c492634f9cd4", null ],
-    [ "JustSummoned", "d4/d56/a19929.html#a56e0bb55d903b6e7e5c493292512bebe", null ]
+    [ "HandleOnEffectApply", "d4/d56/a19929.html#ac852d761940494f78b50ba3b060057a2", null ],
+    [ "HandleOnEffectRemove", "d4/d56/a19929.html#a6764750586be8b57d52a2dba87d89e76", null ],
+    [ "PrepareAuraScript", "d4/d56/a19929.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
+    [ "Register", "d4/d56/a19929.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
+    [ "Validate", "d4/d56/a19929.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
 ];

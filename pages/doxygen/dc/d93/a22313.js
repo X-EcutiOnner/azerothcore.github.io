@@ -1,7 +1,6 @@
 var a22313 =
 [
-    [ "OutdoorPvPGH", "dc/d93/a22313.html#a619492e0a1fdf75f37554a2f19268660", null ],
-    [ "HandleKill", "dc/d93/a22313.html#a78cf572faf727c302f9be496d91004e0", null ],
-    [ "SendRemoveWorldStates", "dc/d93/a22313.html#a92c7e489717072ddc34f707fbe462cb2", null ],
-    [ "SetupOutdoorPvP", "dc/d93/a22313.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
+    [ "HandleDamage", "dc/d93/a22313.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
+    [ "PrepareSpellScript", "dc/d93/a22313.html#a23b6afe1e35edc4013767b119b8e0218", null ],
+    [ "Register", "dc/d93/a22313.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
 ];

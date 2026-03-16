@@ -1,5 +1,6 @@
 var a20317 =
 [
-    [ "FlashFreezeCheck", "d0/d83/a20317.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
-    [ "operator()", "d0/d83/a20317.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
+    [ "CheckCast", "d0/d83/a20317.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "d0/d83/a20317.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "d0/d83/a20317.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

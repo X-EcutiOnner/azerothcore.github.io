@@ -1,8 +1,8 @@
 var a09573 =
 [
-    [ "MostHPMissingGroupInRange", "dc/ddc/a09573.html#ab7cd80daa30d8a39289c704cc0a2064f", null ],
-    [ "operator()", "dc/ddc/a09573.html#ad1b4a4894dd652237a7a789ef5619f4b", null ],
-    [ "i_hp", "dc/ddc/a09573.html#ae61cafc52cb6d33cd78422c41bd3bb08", null ],
-    [ "i_obj", "dc/ddc/a09573.html#ae0d85f9738301b40c3e950b02ee20026", null ],
-    [ "i_range", "dc/ddc/a09573.html#a712e9b1ff341ccde4a6d6962ba6002a4", null ]
+    [ "NearestGameObjectFishingHole", "dc/ddc/a09573.html#ab0e4734202edf26b69881ab85abe1d93", null ],
+    [ "NearestGameObjectFishingHole", "dc/ddc/a09573.html#a256c64e6c82d98349b958647d98bf4ce", null ],
+    [ "operator()", "dc/ddc/a09573.html#a52e2c64f8209ab364f4e85e1f4e947dc", null ],
+    [ "i_obj", "dc/ddc/a09573.html#a182fbf6b5cc68fb0eba6be26568c9d78", null ],
+    [ "i_range", "dc/ddc/a09573.html#af27a870fb654a130bf1e4ac1472fdffc", null ]
 ];

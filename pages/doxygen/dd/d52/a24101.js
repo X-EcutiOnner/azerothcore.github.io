@@ -1,7 +1,10 @@
 var a24101 =
 [
-    [ "HandleEffectRemove", "dd/d52/a24101.html#a317c238b165ad331beb447ea5d0de7e1", null ],
-    [ "PrepareAuraScript", "dd/d52/a24101.html#a7481f017a1382eb75e0101cb49fb4fcf", null ],
-    [ "Register", "dd/d52/a24101.html#a13fdde1557249328306a57e159d821a7", null ],
-    [ "Validate", "dd/d52/a24101.html#a58a383bd4e3062a5c5b1df97192b4b7e", null ]
+    [ "npc_maxx_a_million_escortAI", "dd/d52/a24101.html#ab827933527ed7b4a04b162034876ced8", null ],
+    [ "JustDied", "dd/d52/a24101.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
+    [ "Reset", "dd/d52/a24101.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
+    [ "UpdateAI", "dd/d52/a24101.html#a3b022feb2303875d32ad981e84f66854", null ],
+    [ "WaypointReached", "dd/d52/a24101.html#acd6f45abb93f3f043cd85647405a50f6", null ],
+    [ "bTake", "dd/d52/a24101.html#ac697fc6cbc20c7f316845ed26436049b", null ],
+    [ "uiTakeTimer", "dd/d52/a24101.html#a5d4826dcf893f444a42dedba57460110", null ]
 ];

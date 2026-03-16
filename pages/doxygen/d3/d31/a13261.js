@@ -1,14 +1,12 @@
 var a13261 =
 [
-    [ "npc_death_knight_initiateAI", "d3/d31/a13261.html#aa03a128068072b85bf0926cdececaaf2", null ],
-    [ "DamageTaken", "d3/d31/a13261.html#ac83f7d28886eaf5fb44c3c6ce44a7acd", null ],
-    [ "GetData", "d3/d31/a13261.html#ac3216c0cf7284fd7a8d5ece153467b41", null ],
-    [ "Reset", "d3/d31/a13261.html#ad152856d614c8f4c900f77749ac55dd9", null ],
-    [ "SpellHit", "d3/d31/a13261.html#a308f2f29ec7f9277d102564ff6d39e32", null ],
-    [ "UpdateAI", "d3/d31/a13261.html#a6e67cda0b83578818a5e3b34ed9517cf", null ],
-    [ "_duelGUID", "d3/d31/a13261.html#a32dd4a91841f2e75c8bca109015fc56a", null ],
-    [ "_duelInProgress", "d3/d31/a13261.html#a3fdcf062b22c08b1dd616dad591a1021", null ],
-    [ "events", "d3/d31/a13261.html#aa1c6d513e04253d0b83522c9c1cc2ac8", null ],
-    [ "playerGUIDs", "d3/d31/a13261.html#ac12adec2cb751e2e41008954bbe20248", null ],
-    [ "timer", "d3/d31/a13261.html#ad22e8bc9e0d22a5ba164a60e438d98a7", null ]
+    [ "boss_bigbadwolf", "d3/d31/a13261.html#a1e4ad63c96d64f81e8b9ea82f118cdcc", null ],
+    [ "EnterEvadeMode", "d3/d31/a13261.html#a4f2d5307f5d05ed58bfc200f53bf2969", null ],
+    [ "JustDied", "d3/d31/a13261.html#a167083a43e00a60e9c3792cadaf6e80c", null ],
+    [ "JustEngagedWith", "d3/d31/a13261.html#a529fad938a0ef7261f1c2d589b6ff29c", null ],
+    [ "JustReachedHome", "d3/d31/a13261.html#a7755bf925d919c73075a41f8774280c0", null ],
+    [ "KilledUnit", "d3/d31/a13261.html#a8e004a1feac796ed467eba744f211827", null ],
+    [ "UpdateAI", "d3/d31/a13261.html#ab788a0155a3ffe6535d58263eea16dee", null ],
+    [ "_scheduler", "d3/d31/a13261.html#a661d9b619be30764ba5b89d71de870e9", null ],
+    [ "instance", "d3/d31/a13261.html#aed0e9edc52f13b7b0cfa5047849c26a9", null ]
 ];

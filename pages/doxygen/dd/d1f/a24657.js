@@ -1,13 +1,7 @@
 var a24657 =
 [
-    [ "CalcPeriodic", "dd/d1f/a24657.html#a08dca1818a687bb5862779e261dafb00", null ],
-    [ "CalculateExpertiseAmount", "dd/d1f/a24657.html#a44703f4a1c5cfb74083bf74d7b77c23c", null ],
-    [ "CalculateHitAmount", "dd/d1f/a24657.html#af6e9dda7381a80d4de93c1a7402a2e2b", null ],
-    [ "CalculateSpellHitAmount", "dd/d1f/a24657.html#ab31dfffdf449c1eef74c2bcd43469109", null ],
-    [ "HandleEffectApply", "dd/d1f/a24657.html#a6ba389f156263462f5e80e3a9fb6f62e", null ],
-    [ "HandlePeriodic", "dd/d1f/a24657.html#ac97a33580dc873af7b580d4fdf7ed9f6", null ],
-    [ "PrepareAuraScript", "dd/d1f/a24657.html#ad9aeb68e7d512f55f38f5a64d1d80f7f", null ],
-    [ "Register", "dd/d1f/a24657.html#a803e26c6a4c06feedd80a4d94452aca5", null ],
-    [ "cap", "dd/d1f/a24657.html#a9c3e35d01ad863d146566efe7cca2637", null ],
-    [ "maxChance", "dd/d1f/a24657.html#a34933c7fe8b570214c821347f4ba974b", null ]
+    [ "HandleProc", "dd/d1f/a24657.html#a60def76554cd5cf94d84ec1240d651dc", null ],
+    [ "PrepareAuraScript", "dd/d1f/a24657.html#ae78484c4af6ddfcd6bf60df191f9db48", null ],
+    [ "Register", "dd/d1f/a24657.html#a276526f7f988ce579dc67dc37eebbe87", null ],
+    [ "Validate", "dd/d1f/a24657.html#a65986abd9db0dcfb70c8c8b21ff208ac", null ]
 ];

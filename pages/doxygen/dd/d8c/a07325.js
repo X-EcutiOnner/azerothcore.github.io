@@ -1,9 +1,6 @@
 var a07325 =
 [
-    [ "ArenaScore", "dd/d8c/a07325.html#a58f1391de4e67750dad211b10704499f", null ],
-    [ "AppendToPacket", "dd/d8c/a07325.html#a3fe2ab34a9abc4d8c4ff863334cf2c84", null ],
-    [ "BuildObjectivesBlock", "dd/d8c/a07325.html#ac96461b865fc7a9ba0cdfad6ae3fa96f", null ],
-    [ "ToString", "dd/d8c/a07325.html#ab04b30f4bfa6b1aa89e08e3195ad3b0b", null ],
-    [ "Arena", "dd/d8c/a07325.html#a5f488c25aa439166d145713c67e7d085", null ],
-    [ "PvPTeamId", "dd/d8c/a07325.html#a486ee0e05ac5160f0fb174e2a1e061bb", null ]
+    [ "charges", "dd/d8c/a07325.html#a583aee5baaad873bcbcc2acad403d0bf", null ],
+    [ "duration", "dd/d8c/a07325.html#a36445b0d9d75886a0697c75513eb6c41", null ],
+    [ "id", "dd/d8c/a07325.html#ab19975d2dd203aa1124f2e06fb637171", null ]
 ];

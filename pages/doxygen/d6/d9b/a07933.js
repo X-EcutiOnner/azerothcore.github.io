@@ -1,5 +1,5 @@
 var a07933 =
 [
-    [ "calcThreat", "d6/d9b/a07933.html#a0f3da2af1c68a535ac2396dd600ee00b", null ],
-    [ "isValidProcess", "d6/d9b/a07933.html#a86dca4bc12138bef3dd53d4b3356f5d2", null ]
+    [ "value_type", "d6/d9b/a07933.html#a72f92e01d1f385cf8d6ba7c31faa77e2", null ],
+    [ "TryConsume", "d6/d9b/a07933.html#a7320475f165952ef8ebf69407b533248", null ]
 ];

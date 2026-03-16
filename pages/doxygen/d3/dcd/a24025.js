@@ -1,6 +1,11 @@
 var a24025 =
 [
-    [ "npc_illidari_spawnAI", "d5/d44/a24029.html", "d5/d44/a24029" ],
-    [ "npc_illidari_spawn", "d3/dcd/a24025.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
-    [ "GetAI", "d3/dcd/a24025.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
+    [ "npc_magister_aledis", "d3/dcd/a24025.html#a0e30c5d4f9fe023537a1b29258967630", null ],
+    [ "DamageTaken", "d3/dcd/a24025.html#a3c3b72de2dc3e2a1e2bdeab908f0691f", null ],
+    [ "Reset", "d3/dcd/a24025.html#ae0a701eeaacc5188b382c59ecef14518", null ],
+    [ "sGossipSelect", "d3/dcd/a24025.html#a9960de0b5be8b75e8b7bcc8f12c4f187", null ],
+    [ "StartFight", "d3/dcd/a24025.html#a9149ce0a1df781043a5590fe4612511a", null ],
+    [ "UpdateAI", "d3/dcd/a24025.html#aef885088193e2597e6990e3051a31ef7", null ],
+    [ "_events", "d3/dcd/a24025.html#a5b4cd0ab4d214547dca28b8b384f83df", null ],
+    [ "_playerGUID", "d3/dcd/a24025.html#a0954d3d1c9ad4eaff387bc2cf4f52aeb", null ]
 ];

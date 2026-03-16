@@ -1,6 +1,6 @@
 var a26389 =
 [
-    [ "HandleEffectPeriodic", "df/d5c/a26389.html#a29eb3f3dadd45ccab069222fc36cea09", null ],
-    [ "PrepareAuraScript", "df/d5c/a26389.html#aaa8296439ffe69eafdd1cece8ec346ad", null ],
-    [ "Register", "df/d5c/a26389.html#a0a62a0bcf39a781289e1467384ac82cb", null ]
+    [ "CheckProc", "df/d5c/a26389.html#adb21bbda83cf0fdc30e64cabc0fb0d1c", null ],
+    [ "PrepareAuraScript", "df/d5c/a26389.html#a5fd08c4ff5ba410458a67eb91e612267", null ],
+    [ "Register", "df/d5c/a26389.html#a13c9e5a0a2a6945dfa5a4425be08703d", null ]
 ];

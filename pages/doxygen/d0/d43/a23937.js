@@ -1,7 +1,6 @@
 var a23937 =
 [
-    [ "CheckRequirement", "d0/d43/a23937.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
-    [ "PrepareSpellScript", "d0/d43/a23937.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
-    [ "Register", "d0/d43/a23937.html#a25f275e84570f674071bfae03aeb0ddc", null ],
-    [ "Validate", "d0/d43/a23937.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
+    [ "npc_deaths_fel_cannonAI", "d0/d43/a23937.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
+    [ "Reset", "d0/d43/a23937.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
+    [ "UpdateAI", "d0/d43/a23937.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
 ];

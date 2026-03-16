@@ -1,6 +1,8 @@
 var a11193 =
 [
-    [ "PetLearnedSpell", "df/d03/a11193.html#a5d105cca08515b9550998f2c86b13a1a", null ],
-    [ "Write", "df/d03/a11193.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
-    [ "SpellID", "df/d03/a11193.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
+    [ "MinimapPing", "df/d03/a11193.html#a846074f55e6224bf322b96c7bfe9e008", null ],
+    [ "Write", "df/d03/a11193.html#a94eb49e309ce83b04ccaf8f7e3e8bde7", null ],
+    [ "MapX", "df/d03/a11193.html#ab747a36a7dfefb0692e8c6abb1d161e2", null ],
+    [ "MapY", "df/d03/a11193.html#a2f8504ddba41dd09f69763d66331373b", null ],
+    [ "SourceGuid", "df/d03/a11193.html#abf5d5980b360cbf9332460b01d5816f5", null ]
 ];

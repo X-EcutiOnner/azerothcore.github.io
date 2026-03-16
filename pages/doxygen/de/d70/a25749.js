@@ -1,6 +1,8 @@
 var a25749 =
 [
-    [ "CalculateDamage", "de/d70/a25749.html#a05c6a249b32f41d8d33b40d07bd3c44d", null ],
-    [ "PrepareSpellScript", "de/d70/a25749.html#ace682a64f3ca32e4f4151034ad936ea6", null ],
-    [ "Register", "de/d70/a25749.html#a6dc3beb1f857c2c2a719bd882cc3568d", null ]
+    [ "CheckProc", "de/d70/a25749.html#adbd524ef767a8b5cde13a5358969e344", null ],
+    [ "HandleProc", "de/d70/a25749.html#ab208e39ea63158688a6a028696b9adc5", null ],
+    [ "PrepareAuraScript", "de/d70/a25749.html#ad078ad76f0d0f88b9d52c88127d1aae7", null ],
+    [ "Register", "de/d70/a25749.html#a834868e504beece0ce5e1e1745f96f63", null ],
+    [ "Validate", "de/d70/a25749.html#a779b560a877ac0e731fe50c25af3d4d9", null ]
 ];

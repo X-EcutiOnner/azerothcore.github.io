@@ -1,10 +1,11 @@
 var a18373 =
 [
-    [ "CountTargets", "d2/d39/a18373.html#a042c3f2ee73533b397a2d697d1da6563", null ],
-    [ "HandleDummy", "d2/d39/a18373.html#ab314680d5349c0c3e449694b92ab7311", null ],
-    [ "Load", "d2/d39/a18373.html#a534e9f5ee9aa29603cfc205c2c2d580f", null ],
-    [ "PrepareSpellScript", "d2/d39/a18373.html#a8b831c01cd9fd997279f6a81170786de", null ],
-    [ "Register", "d2/d39/a18373.html#ab0d87ba23eb252075cb0779b06813a31", null ],
-    [ "SelectDest", "d2/d39/a18373.html#a6061486d0067af51c8ef079224ea63f1", null ],
-    [ "_targetCount", "d2/d39/a18373.html#a58f839370a885c450e6742cbb3116784", null ]
+    [ "Load", "d2/d39/a18373.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
+    [ "PrepareSpellScript", "d2/d39/a18373.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
+    [ "Register", "d2/d39/a18373.html#a9adbad7cc2185b22fb16135e78114548", null ],
+    [ "SelectTarget", "d2/d39/a18373.html#a296ec09cec9661123ea5c86f3f262f32", null ],
+    [ "SetTarget", "d2/d39/a18373.html#a15373dc2a0767e011faf504f6377e24d", null ],
+    [ "StartAttack", "d2/d39/a18373.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
+    [ "Validate", "d2/d39/a18373.html#a7619f7ec6dc0ce14293414729731ed00", null ],
+    [ "_target", "d2/d39/a18373.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
 ];

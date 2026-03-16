@@ -1,6 +1,7 @@
 var a24089 =
 [
-    [ "PrepareSpellScript", "dc/d7a/a24089.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
-    [ "Register", "dc/d7a/a24089.html#ac57aee08a131bcf7db11bc105f32242c", null ],
-    [ "SetDest", "dc/d7a/a24089.html#a26362c4873890bb60c2526bf07058746", null ]
+    [ "npc_bessyAI", "d3/d92/a24093.html", "d3/d92/a24093" ],
+    [ "npc_bessy", "dc/d7a/a24089.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "dc/d7a/a24089.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "dc/d7a/a24089.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

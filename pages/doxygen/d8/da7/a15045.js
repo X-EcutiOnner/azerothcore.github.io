@@ -1,11 +1,6 @@
 var a15045 =
 [
-    [ "npc_hyjal_ground_trash", "d8/da7/a15045.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
-    [ "AttackStart", "d8/da7/a15045.html#a0ab86d651644dcc579585176c2b5c07e", null ],
-    [ "DoAction", "d8/da7/a15045.html#aa92481bcf993c4eda5ef271145200d77", null ],
-    [ "GetNearbyFriendlyTrashCreature", "d8/da7/a15045.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
-    [ "JustEngagedWith", "d8/da7/a15045.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
-    [ "PathEndReached", "d8/da7/a15045.html#a035610284a56e690200f978b0fd496ab", null ],
-    [ "Reset", "d8/da7/a15045.html#aa38b45f63841c049a2add0a9832268ef", null ],
-    [ "UpdateAI", "d8/da7/a15045.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
+    [ "PrepareAuraScript", "d8/da7/a15045.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
+    [ "RecalculateHook", "d8/da7/a15045.html#af3952993947dfb24381083d21a9e64cb", null ],
+    [ "Register", "d8/da7/a15045.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
 ];

@@ -1,5 +1,6 @@
 var a27165 =
 [
-    [ "go_sacred_fire_of_life", "d6/def/a27165.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
-    [ "OnGossipHello", "d6/def/a27165.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
+    [ "HandleDummy", "d6/def/a27165.html#abac8aa528d6d83748cf4cdbdaa8313f6", null ],
+    [ "PrepareSpellScript", "d6/def/a27165.html#ae80dda98f66c1fbaa37741ffd52a1108", null ],
+    [ "Register", "d6/def/a27165.html#a90fbc5d1b22cbc59550a430a63c08032", null ]
 ];

@@ -1,6 +1,7 @@
 var a19433 =
 [
-    [ "boss_maexxna_webwrapAI", "d6/d4a/a19437.html", "d6/d4a/a19437" ],
-    [ "boss_maexxna_webwrap", "da/da6/a19433.html#afebd8c00234fe6cdd93af8ae443bb637", null ],
-    [ "GetAI", "da/da6/a19433.html#a6d86d58a86b831a219ecc598044be4f3", null ]
+    [ "HandleTriggerSpell", "da/da6/a19433.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
+    [ "PrepareAuraScript", "da/da6/a19433.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
+    [ "Register", "da/da6/a19433.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
+    [ "Validate", "da/da6/a19433.html#a813bad39641956fff697580f271416d2", null ]
 ];

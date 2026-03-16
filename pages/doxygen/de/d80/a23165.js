@@ -1,5 +1,13 @@
 var a23165 =
 [
-    [ "at_quagmirran_lair", "de/d80/a23165.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
-    [ "OnTrigger", "de/d80/a23165.html#aa0aab42516efaf842923b8a820942ac4", null ]
+    [ "npc_inner_demon", "de/d80/a23165.html#a12063a0125e0e9b5ba5a73f669bfcd84", null ],
+    [ "CanAIAttack", "de/d80/a23165.html#a7498fd32b0ace832b38dc624d07478ed", null ],
+    [ "CanBeSeen", "de/d80/a23165.html#a5e61d5fc45bf95efaa06f81df58b5fab", null ],
+    [ "CanReceiveDamage", "de/d80/a23165.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2", null ],
+    [ "IsSummonedBy", "de/d80/a23165.html#a5ed405dd9315cb255d14d3e5f808dc9d", null ],
+    [ "JustDied", "de/d80/a23165.html#a15ab3cd6576055ec7ba29a5ed44e73db", null ],
+    [ "OnCalculateMeleeDamageReceived", "de/d80/a23165.html#ae95022548b44b23ef93fae24729b5af5", null ],
+    [ "OnCalculatePeriodicTickReceived", "de/d80/a23165.html#a546281a2257d0407d294fba1f7d3426f", null ],
+    [ "OnCalculateSpellDamageReceived", "de/d80/a23165.html#aa40ee81a4456e1a1f7254d2169f50e88", null ],
+    [ "UpdateAI", "de/d80/a23165.html#a977a76b54c4eae6461559d7b15cfc4b2", null ]
 ];

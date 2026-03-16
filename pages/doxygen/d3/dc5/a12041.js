@@ -1,5 +1,9 @@
 var a12041 =
 [
-    [ "flag", "d3/dc5/a12041.html#abde26bce31a9153038294f78e9fdc18c", null ],
-    [ "text", "d3/dc5/a12041.html#a3bf2ae3fd8a347ee70e2c537d909ce30", null ]
+    [ "map", "d3/dc5/a12041.html#a274c6d61203c24b3c680055244e1f590", null ],
+    [ "mouth", "d3/dc5/a12041.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
+    [ "mouthGuid", "d3/dc5/a12041.html#a2245c14e379c83bdd47165e829de2e41", null ],
+    [ "necropolisCount", "d3/dc5/a12041.html#aec44e315616920ba8224be8c4831f5e9", null ],
+    [ "remainingNecropoli", "d3/dc5/a12041.html#a3c18c61fcd44c32f9e0009479db85399", null ],
+    [ "zoneId", "d3/dc5/a12041.html#a98e1490705f74627cf9e5483857f3f25", null ]
 ];

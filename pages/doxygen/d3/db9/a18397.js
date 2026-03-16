@@ -1,6 +1,6 @@
 var a18397 =
 [
-    [ "HandleSpecial", "d3/db9/a18397.html#afa540e8c748ca3083667528e2449bc65", null ],
-    [ "PrepareSpellScript", "d3/db9/a18397.html#a9472211ffdaa33802099b22b2a721645", null ],
-    [ "Register", "d3/db9/a18397.html#ab868b10372ff2ef401d19b126acf00c6", null ]
+    [ "HandleScript", "d3/db9/a18397.html#abd766c298f8aa363d28198b6a5d7e374", null ],
+    [ "PrepareSpellScript", "d3/db9/a18397.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
+    [ "Register", "d3/db9/a18397.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
 ];

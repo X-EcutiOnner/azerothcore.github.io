@@ -1,6 +1,6 @@
 var a28477 =
 [
-    [ "SetUp", "dc/de6/a28477.html#ac7db18817aa330aedefd1f688d53219b", null ],
-    [ "TearDown", "dc/de6/a28477.html#a0cb70a624f55509497866a1fac787800", null ],
-    [ "_previousWorld", "dc/de6/a28477.html#afec905a799e8fe7522a2fa6756fa41d9", null ]
+    [ "npc_target_dummyAI", "d9/dcf/a28481.html", "d9/dcf/a28481" ],
+    [ "npc_target_dummy", "dc/de6/a28477.html#a04847f9893a40c0f1c1879f448cc228d", null ],
+    [ "GetAI", "dc/de6/a28477.html#a1aff9199c160e20f9e92ee9f90178d63", null ]
 ];

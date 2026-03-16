@@ -1,7 +1,7 @@
 var a23941 =
 [
-    [ "HandleScriptEffect", "de/d43/a23941.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
-    [ "PrepareSpellScript", "de/d43/a23941.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
-    [ "Register", "de/d43/a23941.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
-    [ "Validate", "de/d43/a23941.html#a5209de3456c374010502a94f67ff4544", null ]
+    [ "OnPeriodic", "de/d43/a23941.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "de/d43/a23941.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "de/d43/a23941.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "de/d43/a23941.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

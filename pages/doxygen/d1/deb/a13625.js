@@ -1,11 +1,8 @@
 var a13625 =
 [
-    [ "spell_eredar_twins_handle_touch_periodic", "d1/deb/a13625.html#aa41bba6ce2889eb2a58409b611f53e49", null ],
-    [ "OnPeriodic", "d1/deb/a13625.html#a8d863af82300eacc1456a08f8461d5a7", null ],
-    [ "PrepareAuraScript", "d1/deb/a13625.html#af04b38478379a10c5d94a7e4216ad9fa", null ],
-    [ "Register", "d1/deb/a13625.html#a4908c5c3e6afdf0305dfb4729cfba503", null ],
-    [ "Validate", "d1/deb/a13625.html#aebeee23df951737b99e7a4ab026cbb1b", null ],
-    [ "_aura", "d1/deb/a13625.html#a0b1df96674584554d53688e993c2a310", null ],
-    [ "_effectIndex", "d1/deb/a13625.html#aa873d0475c70db5c5ba9cea802dc3569", null ],
-    [ "_touchSpell", "d1/deb/a13625.html#ae60a5c2918105785805dc45b3942ee4a", null ]
+    [ "npc_apothecary_baxter", "d1/deb/a13625.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
+    [ "JustDied", "d1/deb/a13625.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
+    [ "Reset", "d1/deb/a13625.html#afee5103029bd761c48cbf6a11655c44a", null ],
+    [ "UpdateAI", "d1/deb/a13625.html#ad06090f599d0fda3a88f3182c990a49f", null ],
+    [ "_scheduler", "d1/deb/a13625.html#a6d813041e055f3c2b28be7cba3acde13", null ]
 ];

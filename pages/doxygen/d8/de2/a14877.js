@@ -1,16 +1,13 @@
 var a14877 =
 [
-    [ "npc_pilgrims_bounty_chair", "d8/de2/a14877.html#a896c9efee388d7cb5d6dc82e7c537021", null ],
-    [ "AttackStart", "d8/de2/a14877.html#ad2ed9436e8c6d3afa4ac747b925e66a4", null ],
-    [ "DamageTaken", "d8/de2/a14877.html#a29b012b8fc4e7cb30072b2c4a935dd3a", null ],
-    [ "DoAction", "d8/de2/a14877.html#a8a7c49f28df937e90dbaa83be85b595e", null ],
-    [ "GetPlate", "d8/de2/a14877.html#ad3cbb85577ca0f7b596d1882c71f2371", null ],
-    [ "MoveInLineOfSight", "d8/de2/a14877.html#aa44fc14f98ac00cfe098516963cc3c8b", null ],
-    [ "PassengerBoarded", "d8/de2/a14877.html#a9a43ccc98f2e184f709b1af6992acea8", null ],
-    [ "SpellHit", "d8/de2/a14877.html#a681323ae3100f46dd0aba595159d7daf", null ],
-    [ "SpellHitTarget", "d8/de2/a14877.html#affd51da83859b962977ed6b51c74d01e", null ],
-    [ "UpdateAI", "d8/de2/a14877.html#aebe6eb7aca62faece6dfb6dff27d775e", null ],
-    [ "plateGUID", "d8/de2/a14877.html#a23b35fee8255073c7b94d7bac54d9b22", null ],
-    [ "timerRotateChair", "d8/de2/a14877.html#a2b9c9bc4d9f4abc53dc717ab3aa9865e", null ],
-    [ "timerSpawnPlate", "d8/de2/a14877.html#a907cb3d22f4e0daf92dada09fdc16b94", null ]
+    [ "npc_costumed_orphan_matron", "d8/de2/a14877.html#a0b913090588613ac00ea928f6273d56f", null ],
+    [ "DoAction", "d8/de2/a14877.html#a7a7739f89604ffb5afc6bab75118340e", null ],
+    [ "GetInitXYZ", "d8/de2/a14877.html#a3c6d0e6cecd1c4ef85b3d77c45ef6533", null ],
+    [ "Reset", "d8/de2/a14877.html#a962de50b13079f3337c4e41eb2d98b55", null ],
+    [ "sGossipHello", "d8/de2/a14877.html#a1a9c58c087b8addf8e482375737d6c49", null ],
+    [ "sQuestAccept", "d8/de2/a14877.html#adac5d514261a210a701442da13ba1587", null ],
+    [ "UpdateAI", "d8/de2/a14877.html#a4679d807df8749265ba0453c5b7588f1", null ],
+    [ "allowQuest", "d8/de2/a14877.html#a722f4bfd0fb8b2665ff2b79d3208bc90", null ],
+    [ "eventStarted", "d8/de2/a14877.html#a5292ab4e45fe3a858b3a59ef4a79bb34", null ],
+    [ "horseGUID", "d8/de2/a14877.html#a92cfd09cefd26933ae322f2cc2716927", null ]
 ];

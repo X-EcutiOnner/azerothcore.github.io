@@ -1,12 +1,7 @@
 var a13705 =
 [
-    [ "npc_kiljaeden_controller", "db/daa/a13705.html#aabe4e5af5ad142bac6cdaa4f6787a7bc", null ],
-    [ "JustDied", "db/daa/a13705.html#a86c4d79a8caf8a838e353bbf1b78c56d", null ],
-    [ "JustSummoned", "db/daa/a13705.html#af28211012d8398a450439b8e24bf60ce", null ],
-    [ "Reset", "db/daa/a13705.html#a11f6f8e86c3ecdecf8e4c5bcb76f8664", null ],
-    [ "ResetOrbs", "db/daa/a13705.html#a4daacfe92ddb39ade57df3a1bbcd79fd", null ],
-    [ "SummonedCreatureDies", "db/daa/a13705.html#aed2772552dd500c180c3db4aeef8359a", null ],
-    [ "UpdateAI", "db/daa/a13705.html#a9f24328d9ffd94ecf3d15303a71acb9b", null ],
-    [ "instance", "db/daa/a13705.html#a2cb872334b9dd6a4f87468b41f164fc4", null ],
-    [ "summons", "db/daa/a13705.html#a116a739b2bff3257b35ff7946a3d1995", null ]
+    [ "OnRemove", "db/daa/a13705.html#a55460c6393c165e3096c967c81136032", null ],
+    [ "PrepareAuraScript", "db/daa/a13705.html#afd4e4483f704169e6d213ced134d4c62", null ],
+    [ "Register", "db/daa/a13705.html#a8458f77fde6eaddc273b3fe5f4e49ae0", null ],
+    [ "Validate", "db/daa/a13705.html#af580258d287f5db6103b89d3085669bc", null ]
 ];

@@ -1,6 +1,7 @@
 var a20281 =
 [
-    [ "npc_ulduar_toasty_fire", "df/d7a/a20281.html#aa4447547d1689440813877ddd0347d5a", null ],
-    [ "DoAction", "df/d7a/a20281.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
-    [ "SpellHit", "df/d7a/a20281.html#ad1ac241490db52177ae13640d7ae3eec", null ]
+    [ "FilterTargets", "df/d7a/a20281.html#a3d864f0428b7e53774d06069037ca5b2", null ],
+    [ "HandleScript", "df/d7a/a20281.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
+    [ "PrepareSpellScript", "df/d7a/a20281.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
+    [ "Register", "df/d7a/a20281.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
 ];

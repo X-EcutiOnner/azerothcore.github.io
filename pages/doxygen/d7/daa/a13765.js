@@ -1,6 +1,5 @@
 var a13765 =
 [
-    [ "HandleEffectApply", "d7/daa/a13765.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
-    [ "PrepareAuraScript", "d7/daa/a13765.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
-    [ "Register", "d7/daa/a13765.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
+    [ "at_sunwell_eredar_twins", "d7/daa/a13765.html#afc183c384bc87321186b20e0ac168c1f", null ],
+    [ "_OnTrigger", "d7/daa/a13765.html#aa862756c9905e2cb10d60c70b47919aa", null ]
 ];

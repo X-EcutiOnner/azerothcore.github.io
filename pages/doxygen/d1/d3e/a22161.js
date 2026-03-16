@@ -1,7 +1,6 @@
 var a22161 =
 [
-    [ "npc_wg_demolisher_engineer", "d1/d3e/a22161.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "d1/d3e/a22161.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "d1/d3e/a22161.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "d1/d3e/a22161.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "npc_avatar_of_freya", "d1/d3e/a22161.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
+    [ "OnGossipHello", "d1/d3e/a22161.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
+    [ "OnGossipSelect", "d1/d3e/a22161.html#aba1b13e922873e939b2510b4bc77f49d", null ]
 ];

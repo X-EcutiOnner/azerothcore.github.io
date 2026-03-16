@@ -1,12 +1,11 @@
 var a20921 =
 [
-    [ "boss_skarvald_the_constructor", "d6/d74/a20921.html#a32d092ecf17aaafc61cefb4c0efce639", null ],
-    [ "DoAction", "d6/d74/a20921.html#a63c9e981a198f6fefe8d1fa4d8ede20e", null ],
-    [ "JustDied", "d6/d74/a20921.html#a9180dcb3c22944c75e5e424dc1a78339", null ],
-    [ "JustEngagedWith", "d6/d74/a20921.html#a529439d257abf78f76db0043549964e6", null ],
-    [ "KilledUnit", "d6/d74/a20921.html#a9d65e24161dd1f7bac9fe991624c5c80", null ],
-    [ "Reset", "d6/d74/a20921.html#ada2068f8b5d125062ec0b7fde0d05c7f", null ],
-    [ "UpdateAI", "d6/d74/a20921.html#a9c1f74c20a5a9f47f9430450742938a2", null ],
-    [ "events", "d6/d74/a20921.html#a28837280e161f6971564a4725c97a154", null ],
-    [ "pInstance", "d6/d74/a20921.html#ab5b773a9960f611a6383578a607ba258", null ]
+    [ "boss_yoggsaron_llane", "d6/d74/a20921.html#a42e3d189cff0da5995401e4bc8dfffdd", null ],
+    [ "NextStep", "d6/d74/a20921.html#ab8b6446fe7d424ad7d943af915cc4b8a", null ],
+    [ "Reset", "d6/d74/a20921.html#a0df3a85717ab26ad1ac889d6fe4d8007", null ],
+    [ "Say", "d6/d74/a20921.html#a0ae3106eac830ed9f14f17e5fa1d45ec", null ],
+    [ "UpdateAI", "d6/d74/a20921.html#a58ec957cd59b944439fe514e728e2902", null ],
+    [ "_checkTimer", "d6/d74/a20921.html#a3043382e2727bc78a74acaec28697045", null ],
+    [ "_running", "d6/d74/a20921.html#ab7e1b1ed82f311b12f28f1622e6ad378", null ],
+    [ "_step", "d6/d74/a20921.html#a91a71f85bab9e4d1234964ef534e51c2", null ]
 ];

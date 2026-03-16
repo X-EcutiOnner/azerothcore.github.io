@@ -1,14 +1,7 @@
 var a13097 =
 [
-    [ "boss_strawman", "dc/dd8/a13097.html#a1789cdafc2ce03e156ac686e6859e25f", null ],
-    [ "DoAction", "dc/dd8/a13097.html#a57f9519f87bc8e7446632a49f56a02ca", null ],
-    [ "EnterEvadeMode", "dc/dd8/a13097.html#a67fd9b85406512cef4f3ae581461f0c4", null ],
-    [ "JustDied", "dc/dd8/a13097.html#ab175b0104d316b8929e32d9eb939780f", null ],
-    [ "JustEngagedWith", "dc/dd8/a13097.html#a40657516c4f1b049dd0514a50e299a10", null ],
-    [ "JustReachedHome", "dc/dd8/a13097.html#a4235b2de2540199f9570cbadb7326871", null ],
-    [ "KilledUnit", "dc/dd8/a13097.html#a06b92dbb6907ace60df7e10893be7af0", null ],
-    [ "SpellHit", "dc/dd8/a13097.html#a5bf558765b59a7950bd55ece14c07a4f", null ],
-    [ "UpdateAI", "dc/dd8/a13097.html#adcb7db7cb3f938b492a28c3540251ea9", null ],
-    [ "_scheduler", "dc/dd8/a13097.html#a409539c771b373c165bdbccac8a59e7f", null ],
-    [ "instance", "dc/dd8/a13097.html#a157a6faacf83432b8227173f6b14a7d3", null ]
+    [ "boss_maiden_of_virtue", "dc/dd8/a13097.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
+    [ "JustDied", "dc/dd8/a13097.html#a6eded246318f6b47b46f45168e4a8069", null ],
+    [ "JustEngagedWith", "dc/dd8/a13097.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
+    [ "KilledUnit", "dc/dd8/a13097.html#a32dd66a297d11f5ffac1841bae15727a", null ]
 ];

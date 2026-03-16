@@ -1,14 +1,10 @@
 var a08889 =
 [
-    [ "SafeUnitPointer", "d9/d89/a08889.html#a05ee5199683b1e68189a7d122bf3f5f4", null ],
-    [ "SafeUnitPointer", "d9/d89/a08889.html#a9ac4023d6ec32f96c757206dd4aa3fd6", null ],
-    [ "~SafeUnitPointer", "d9/d89/a08889.html#ad9c2be82f67eb4e825a9ffd07307983a", null ],
-    [ "Initialize", "d9/d89/a08889.html#a40f6e04585ca487c457d17ce10cc7b8c", null ],
-    [ "operator Unit *", "d9/d89/a08889.html#afee1d290f436472dd719ff83f41721f5", null ],
-    [ "operator->", "d9/d89/a08889.html#af63a04a7c6e6cb3002f5a99f90f70328", null ],
-    [ "operator=", "d9/d89/a08889.html#a44f522d9c22861f853df0286a3764d3e", null ],
-    [ "SetPointedTo", "d9/d89/a08889.html#a6603c67b736224a8e6559340afa8b275", null ],
-    [ "UnitDeleted", "d9/d89/a08889.html#a872b0a86328fb03e5feccdf364ea5cce", null ],
-    [ "defaultValue", "d9/d89/a08889.html#a38dce117cb135c9b84918a9bbc884f28", null ],
-    [ "ptr", "d9/d89/a08889.html#aa8bf5e4728aeb1ca7a8de1a727a84884", null ]
+    [ "PlayerSetting", "d9/d89/a08889.html#a77d1fb11aa0039bbdae3ccc523f391ea", null ],
+    [ "PlayerSetting", "d9/d89/a08889.html#a93a30a0d6104bdda8fd9b5778179a353", null ],
+    [ "AddFlag", "d9/d89/a08889.html#a1e81343732cd86cdf9974a1d96b73ba7", null ],
+    [ "HasFlag", "d9/d89/a08889.html#af6e3149ff40b6b4ea2310b5c3254fce0", null ],
+    [ "IsEnabled", "d9/d89/a08889.html#a3621021d9c0c41c08b6300cd5dfcaf71", null ],
+    [ "RemoveFlag", "d9/d89/a08889.html#a4ca3645233a466345d6be217d7a0df2b", null ],
+    [ "value", "d9/d89/a08889.html#a74592e45f8ae4c5f411a982227f809f3", null ]
 ];

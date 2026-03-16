@@ -1,6 +1,6 @@
 var a11805 =
 [
-    [ "Command", "de/dc1/a11805.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
-    [ "Data", "de/dc1/a11805.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
-    [ "DataSize", "de/dc1/a11805.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
+    [ "EffectAbsorbHandler", "de/dc1/a11805.html#a29bb773b8271acf651b08f33ce358720", null ],
+    [ "Call", "de/dc1/a11805.html#a56bfb0fd0d860678920445d1182c09ef", null ],
+    [ "pEffectHandlerScript", "de/dc1/a11805.html#a519489b8d951173a806e86cfe075faf1", null ]
 ];

@@ -1,8 +1,5 @@
 var a20277 =
 [
-    [ "npc_ulduar_flash_freeze", "d4/d4b/a20277.html#a71c3a5c17af15cc75955d565a5d32b05", null ],
-    [ "DamageTaken", "d4/d4b/a20277.html#af381d671e1b64c6135ed6c76b1eef213", null ],
-    [ "UpdateAI", "d4/d4b/a20277.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
-    [ "pInstance", "d4/d4b/a20277.html#aa763071062842e656c5db9f7ba6bbafe", null ],
-    [ "timer", "d4/d4b/a20277.html#a016272492e1843b09c7c8b40537a463a", null ]
+    [ "FlameLeviathanPursuedTargetSelector", "d4/d4b/a20277.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
+    [ "operator()", "d4/d4b/a20277.html#aaa2a49366fb651f7486b463ce597f364", null ]
 ];

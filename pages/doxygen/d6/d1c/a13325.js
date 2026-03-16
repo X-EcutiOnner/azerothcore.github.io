@@ -1,12 +1,8 @@
 var a13325 =
 [
-    [ "npc_koltira_deathweaverAI", "d6/d1c/a13325.html#adbc46fce90170aec986faacf012bd2b2", null ],
-    [ "MovementInform", "d6/d1c/a13325.html#afed53c190d875d0e59775ebfeb749fcf", null ],
-    [ "Reset", "d6/d1c/a13325.html#ac07053d3798d57449c23bfff68e12f1b", null ],
-    [ "sGossipSelect", "d6/d1c/a13325.html#af481beffaeb97a69483a62fd5f110616", null ],
-    [ "sQuestAccept", "d6/d1c/a13325.html#a83fa04558bc7617b561ec05da9f2a6a1", null ],
-    [ "StartEvent", "d6/d1c/a13325.html#aa4f0df71fb88f6685f2c27f19a34b2b3", null ],
-    [ "SummonedCreatureDies", "d6/d1c/a13325.html#a967575fafe29db364b4e6a00a5e0457b", null ],
-    [ "UpdateAI", "d6/d1c/a13325.html#ac90ed956ba45b6363a21af76393126ac", null ],
-    [ "_valrothGUID", "d6/d1c/a13325.html#ad041942412fb8288ff5f850ee6472e78", null ]
+    [ "CheckProc", "d6/d1c/a13325.html#a085f6affd2bf76fe66f9023e67725848", null ],
+    [ "HandleProc", "d6/d1c/a13325.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
+    [ "PrepareAuraScript", "d6/d1c/a13325.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
+    [ "Register", "d6/d1c/a13325.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
+    [ "Validate", "d6/d1c/a13325.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
 ];

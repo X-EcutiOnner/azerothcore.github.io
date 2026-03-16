@@ -1,7 +1,13 @@
 var a16705 =
 [
-    [ "HandleEffectPeriodic", "dd/d9a/a16705.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
-    [ "PrepareAuraScript", "dd/d9a/a16705.html#a4506f7d723b85c7555296f5ade11cd29", null ],
-    [ "Register", "dd/d9a/a16705.html#aeac7e6abc89209e14451439cdf1d416e", null ],
-    [ "Validate", "dd/d9a/a16705.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
+    [ "boss_eadricAI", "dd/d9a/a16705.html#a461043fe1bff0f5478e2a57504e7477c", null ],
+    [ "DamageTaken", "dd/d9a/a16705.html#a440899ffdeda7794ef4fa5530638eecc", null ],
+    [ "JustEngagedWith", "dd/d9a/a16705.html#a09a0cebcdffb00e37e9d60111c582669", null ],
+    [ "KilledUnit", "dd/d9a/a16705.html#a0bc5d9ba3f45460e62eebdad4e68b8bd", null ],
+    [ "MovementInform", "dd/d9a/a16705.html#aa20253b3f0aec2678b2e3b1c3a9d1a47", null ],
+    [ "Reset", "dd/d9a/a16705.html#a8776bc2937ed9dc4decd1e71929edf65", null ],
+    [ "SpellHit", "dd/d9a/a16705.html#aef7c66b9ff0a728c140899940a2d7e85", null ],
+    [ "UpdateAI", "dd/d9a/a16705.html#a38e8052f3e5d8d81bb4b79fb41717efb", null ],
+    [ "events", "dd/d9a/a16705.html#a5804ea238fd1c32201c3be943d2fe5ca", null ],
+    [ "pInstance", "dd/d9a/a16705.html#a43a8f2beebae9bb27ff03e0e9af2d36b", null ]
 ];

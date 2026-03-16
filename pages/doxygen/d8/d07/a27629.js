@@ -1,5 +1,6 @@
 var a27629 =
 [
-    [ "go_transport_the_thundercaller", "d8/d07/a27629.html#a79d5ed60a112c5f352f9f0b94f9f3a17", null ],
-    [ "EventInform", "d8/d07/a27629.html#ad2e981ff6223ec2cbd8a897485a61204", null ]
+    [ "HandleSchoolDMG", "d8/d07/a27629.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
+    [ "PrepareSpellScript", "d8/d07/a27629.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
+    [ "Register", "d8/d07/a27629.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
 ];

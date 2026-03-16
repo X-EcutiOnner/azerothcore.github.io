@@ -1,6 +1,7 @@
 var a18665 =
 [
-    [ "ModDestHeight", "d9/d74/a18665.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
-    [ "PrepareSpellScript", "d9/d74/a18665.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
-    [ "Register", "d9/d74/a18665.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
+    [ "StartMovementEvent", "d9/d74/a18665.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
+    [ "Execute", "d9/d74/a18665.html#af1a043d953bcffe9341292e85cae2f55", null ],
+    [ "_owner", "d9/d74/a18665.html#ac2f4166af128a161c471b243144856ba", null ],
+    [ "_summoner", "d9/d74/a18665.html#afe1f7bcb3569758bc075380a24527067", null ]
 ];

@@ -1,5 +1,5 @@
 var a28353 =
 [
-    [ "areatableID", "dc/d61/a28353.html#a991f3242c87939be42d107d6908f441d", null ],
-    [ "ID", "dc/d61/a28353.html#ac57c444da58dea7227bd26e0f6b7bbff", null ]
+    [ "item_disgusting_jar", "dc/d61/a28353.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
+    [ "OnExpire", "dc/d61/a28353.html#a4f6967035a4d247914a6034fcebac5c5", null ]
 ];

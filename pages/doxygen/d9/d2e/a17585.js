@@ -1,6 +1,6 @@
 var a17585 =
 [
-    [ "boss_prince_kelesethAI", "d1/ddd/a17589.html", "d1/ddd/a17589" ],
-    [ "boss_prince_keleseth_icc", "d9/d2e/a17585.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
-    [ "GetAI", "d9/d2e/a17585.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
+    [ "npc_pos_freed_slaveAI", "d9/d2e/a17585.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
+    [ "CanAIAttack", "d9/d2e/a17585.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
+    [ "EnterEvadeMode", "d9/d2e/a17585.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
 ];

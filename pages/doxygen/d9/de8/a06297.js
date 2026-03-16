@@ -1,5 +1,6 @@
 var a06297 =
 [
-    [ "Effects", "d9/de8/a06297.html#a7ae062fbfacc6d848f5570a3bae3230f", null ],
-    [ "Targets", "d9/de8/a06297.html#a390ced58f1c1981c05cc2aec32a4d579", null ]
+    [ "SavedAddon", "d9/de8/a06297.html#a6252c2ac491d0ebd9e84556f26cfa8cd", null ],
+    [ "CRC", "d9/de8/a06297.html#a7d04d21a29aa589429aab0d95172ca95", null ],
+    [ "Name", "d9/de8/a06297.html#a075de88ce6e643cffb7c5bb55f7b1095", null ]
 ];

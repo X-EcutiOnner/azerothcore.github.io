@@ -1,7 +1,7 @@
 var a16009 =
 [
-    [ "npc_lakota_windsongAI", "d2/dfb/a16009.html#a922172a38ca75adef66a2653eda7fa98", null ],
-    [ "DoSpawnBandits", "d2/dfb/a16009.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
-    [ "Reset", "d2/dfb/a16009.html#aee7a86275f93021e0e5db249b636bcd4", null ],
-    [ "WaypointReached", "d2/dfb/a16009.html#a6435c8b1521206789131889e5fa527a6", null ]
+    [ "npc_giant_spotlightAI", "d2/dfb/a16009.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
+    [ "Reset", "d2/dfb/a16009.html#a79f6703107eed52a3aeae30393507c0f", null ],
+    [ "UpdateAI", "d2/dfb/a16009.html#a8567f936dd15933300497d5abe80a272", null ],
+    [ "events", "d2/dfb/a16009.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
 ];

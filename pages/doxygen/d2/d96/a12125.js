@@ -1,14 +1,13 @@
 var a12125 =
 [
-    [ "tele_commandscript", "d2/d96/a12125.html#a13d522c3480c5b82071d5f77bd41f942", null ],
-    [ "DoNameTeleport", "d2/d96/a12125.html#aeab9bf62f33fd1d55055ba2ae7925f82", null ],
-    [ "GetCommands", "d2/d96/a12125.html#a296b26e39d5d575ebe68728ff1b49f68", null ],
-    [ "HandleTeleAddCommand", "d2/d96/a12125.html#a8d429a38c01a19f8c89c87937ef24248", null ],
-    [ "HandleTeleCommand", "d2/d96/a12125.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa", null ],
-    [ "HandleTeleDelCommand", "d2/d96/a12125.html#ad3d85b0057797de2aceeb620cf62efc0", null ],
-    [ "HandleTeleGroupCommand", "d2/d96/a12125.html#af83e529b482654851a7a1ee77beb107e", null ],
-    [ "HandleTeleNameCommand", "d2/d96/a12125.html#a70fcde1c7c5a9e5297035862adca55c4", null ],
-    [ "HandleTeleNameNpcIdCommand", "d2/d96/a12125.html#a52852b7f3d7a6bbf68164e6918b9a141", null ],
-    [ "HandleTeleNameNpcNameCommand", "d2/d96/a12125.html#a2f68bad0f1af5d40fcefb8c394472b65", null ],
-    [ "HandleTeleNameNpcSpawnIdCommand", "d2/d96/a12125.html#a7a45fa39afa6bae2359a68b11a504bc5", null ]
+    [ "gm_commandscript", "d2/d96/a12125.html#a1b24112b70818778755ef9b5b062b2e8", null ],
+    [ "GetCommands", "d2/d96/a12125.html#a17c725e18324de7aadff260c77d75c45", null ],
+    [ "HandleGMChatCommand", "d2/d96/a12125.html#a15a18b1179a602da3eeba7e8247fbbac", null ],
+    [ "HandleGMFlyCommand", "d2/d96/a12125.html#a29829660f39c9bfa4190bbb118f482ba", null ],
+    [ "HandleGMListFullCommand", "d2/d96/a12125.html#add9bd1e64f98964e68cd1be3df6295e7", null ],
+    [ "HandleGMListIngameCommand", "d2/d96/a12125.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
+    [ "HandleGMOffCommand", "d2/d96/a12125.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
+    [ "HandleGMOnCommand", "d2/d96/a12125.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
+    [ "HandleGMSpectatorCommand", "d2/d96/a12125.html#ab05933bfefd1f5727bef430eeac2cee9", null ],
+    [ "HandleGMVisibleCommand", "d2/d96/a12125.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
 ];

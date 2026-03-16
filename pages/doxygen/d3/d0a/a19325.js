@@ -1,6 +1,12 @@
 var a19325 =
 [
-    [ "NotOnSameSide", "d3/d0a/a19325.html#ac3189b202a8c0ca4c8f52799ed54e284", null ],
-    [ "operator()", "d3/d0a/a19325.html#a59ea48b9633049180ec62d3616fe4dea", null ],
-    [ "m_inLiveSide", "d3/d0a/a19325.html#a77c1d18f54609a5f4da2e9c13f62293d", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "d3/d0a/a19325.html#a2e3abb6f8889b8df818e8260e6428375", null ],
+    [ "InitializeAI", "d3/d0a/a19325.html#ac39bb8074ebb7106b426f507b73b368e", null ],
+    [ "JustEngagedWith", "d3/d0a/a19325.html#ae69a8fd357856d0ec6a944ca8c0007ca", null ],
+    [ "MoveInLineOfSight", "d3/d0a/a19325.html#a846fe2784308eb694f5f482133a33a7f", null ],
+    [ "MovementInform", "d3/d0a/a19325.html#a9a5584eea4bc08f55ddfd7efe23bce2e", null ],
+    [ "Reset", "d3/d0a/a19325.html#afbb260e4968865e7c4141e73a050e663", null ],
+    [ "UpdateAI", "d3/d0a/a19325.html#ad63d3a91bdd677a9cdd497198860cac6", null ],
+    [ "_didWebBeam", "d3/d0a/a19325.html#a8772cf938d30ddcc439d3912db578dfa", null ],
+    [ "events", "d3/d0a/a19325.html#ac1b5b05f9fbaf1879c95bc7127fcb6e9", null ]
 ];

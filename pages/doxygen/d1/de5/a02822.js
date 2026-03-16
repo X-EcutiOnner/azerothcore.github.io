@@ -1,69 +1,49 @@
 var a02822 =
 [
-    [ "HalaaIds", "d5/d89/a22530.html", "d5/d89/a22530" ],
-    [ "OPvPCapturePointNA", "da/de5/a22534.html", "da/de5/a22534" ],
-    [ "OutdoorPvPNA", "d6/d1d/a22538.html", "d6/d1d/a22538" ],
-    [ "HalaaNPCS", "d1/de5/a02822.html#a3951c5b11bab0eeb9b06c1e19b25c036", null ],
-    [ "ControlGOTypes", "d1/de5/a02822.html#a671e2c9be7783733226427ebd264eb19", [
-      [ "NA_ROOST_S", "d1/de5/a02822.html#a671e2c9be7783733226427ebd264eb19afa875929ebc8b1c2db3a195ee37095ad", null ],
-      [ "NA_ROOST_W", "d1/de5/a02822.html#a671e2c9be7783733226427ebd264eb19a237f904232faee9c60bf01b3e5d27623", null ],
-      [ "NA_ROOST_N", "d1/de5/a02822.html#a671e2c9be7783733226427ebd264eb19ad182fca04bd07e7f4b7a924bf476a520", null ],
-      [ "NA_ROOST_E", "d1/de5/a02822.html#a671e2c9be7783733226427ebd264eb19ac2360c16ea760d37dcec325a5165ec8c", null ],
-      [ "NA_BOMB_WAGON_S", "d1/de5/a02822.html#a671e2c9be7783733226427ebd264eb19a8fe4900cb979a36257cc3ee70cfcd56e", null ],
-      [ "NA_BOMB_WAGON_W", "d1/de5/a02822.html#a671e2c9be7783733226427ebd264eb19a7ff23be34578fcc2d55e1f088b3e00cb", null ],
-      [ "NA_BOMB_WAGON_N", "d1/de5/a02822.html#a671e2c9be7783733226427ebd264eb19a7b1be1932fafd2586d4706e8541b85b8", null ],
-      [ "NA_BOMB_WAGON_E", "d1/de5/a02822.html#a671e2c9be7783733226427ebd264eb19a2447af22ca220eab12dbc987125a6870", null ],
-      [ "NA_DESTROYED_ROOST_S", "d1/de5/a02822.html#a671e2c9be7783733226427ebd264eb19a6267ce0c271fd7e77fcebb63e09b4099", null ],
-      [ "NA_DESTROYED_ROOST_W", "d1/de5/a02822.html#a671e2c9be7783733226427ebd264eb19ab023c62e57c5d189c91a4babd13525cf", null ],
-      [ "NA_DESTROYED_ROOST_N", "d1/de5/a02822.html#a671e2c9be7783733226427ebd264eb19a9cbe15da02cd0024dbedf82b2c752f0f", null ],
-      [ "NA_DESTROYED_ROOST_E", "d1/de5/a02822.html#a671e2c9be7783733226427ebd264eb19a81fe1a37a84a9d647898f65913718e3e", null ],
-      [ "NA_CONTROL_GO_NUM", "d1/de5/a02822.html#a671e2c9be7783733226427ebd264eb19ac9ebedb94fb10e2eb33d411be0865bd7", null ]
+    [ "zm_beacon", "dd/d92/a22553.html", "dd/d92/a22553" ],
+    [ "OPvPCapturePointZM_Beacon", "dc/d2f/a22557.html", "dc/d2f/a22557" ],
+    [ "OPvPCapturePointZM_Graveyard", "da/d0c/a22561.html", "da/d0c/a22561" ],
+    [ "OutdoorPvPZM", "d0/d50/a22565.html", "d0/d50/a22565" ],
+    [ "OutdoorPvPZMSpells", "d1/de5/a02822.html#ac31cd7a23fe2f82e25ababd3a8b700a1", [
+      [ "ZM_CAPTURE_BUFF", "d1/de5/a02822.html#ac31cd7a23fe2f82e25ababd3a8b700a1a5039b0bd2a7689f857a4ecc871d5b16d", null ],
+      [ "ZM_BATTLE_STANDARD_A", "d1/de5/a02822.html#ac31cd7a23fe2f82e25ababd3a8b700a1a2b2887aade90aad310f6f859f8482aa5", null ],
+      [ "ZM_BATTLE_STANDARD_H", "d1/de5/a02822.html#ac31cd7a23fe2f82e25ababd3a8b700a1a0513ef6309adc490c793ee1dc5bc8614", null ],
+      [ "ZM_AlliancePlayerKillReward", "d1/de5/a02822.html#ac31cd7a23fe2f82e25ababd3a8b700a1a53fad383bb7058d8c1a272bd6d9523a3", null ],
+      [ "ZM_HordePlayerKillReward", "d1/de5/a02822.html#ac31cd7a23fe2f82e25ababd3a8b700a1a6f9de137a24ee5d457ee7e2c093b398b", null ]
     ] ],
-    [ "FlightSpellsNA", "d1/de5/a02822.html#a68fd902d513cc8e7bf37946f9d26a80b", [
-      [ "NA_SPELL_FLY_SOUTH", "d1/de5/a02822.html#a68fd902d513cc8e7bf37946f9d26a80ba86e4e8c951657bc667c88d574dcbdb8f", null ],
-      [ "NA_SPELL_FLY_WEST", "d1/de5/a02822.html#a68fd902d513cc8e7bf37946f9d26a80ba9a9deaeede3e488499190b425fd3bdc2", null ],
-      [ "NA_SPELL_FLY_NORTH", "d1/de5/a02822.html#a68fd902d513cc8e7bf37946f9d26a80bafd6b9390ea045f8cfa5feef209cb9be3", null ],
-      [ "NA_SPELL_FLY_EAST", "d1/de5/a02822.html#a68fd902d513cc8e7bf37946f9d26a80bab97171fab8df1e600228b3da1456452d", null ]
+    [ "ZM_BeaconType", "d1/de5/a02822.html#a8493feec67db9c938c31465f24f60fe1", [
+      [ "ZM_BEACON_EAST", "d1/de5/a02822.html#a8493feec67db9c938c31465f24f60fe1a034b065f7219f5b4a6d983ed694e7a80", null ],
+      [ "ZM_BEACON_WEST", "d1/de5/a02822.html#a8493feec67db9c938c31465f24f60fe1a36b102e6d45f41b4db14e889ffac46e2", null ],
+      [ "ZM_NUM_BEACONS", "d1/de5/a02822.html#a8493feec67db9c938c31465f24f60fe1a9e566b7b7f64cae5ea6a37a289f16ce3", null ]
     ] ],
-    [ "HalaaCreaturesSpawn", "d1/de5/a02822.html#a394f453184d3eefd51298b772b4c789a", [
-      [ "NA_HALAA_CREATURES", "d1/de5/a02822.html#a394f453184d3eefd51298b772b4c789aa40c5b092548e0e873f1dbe1ff48a0910", null ],
-      [ "NA_HALAA_CREATURE_TEAM_SPAWN", "d1/de5/a02822.html#a394f453184d3eefd51298b772b4c789aa79500d69d3c666a75f664fa63f63de94", null ],
-      [ "NA_HALAA_MAX_CREATURE_SPAWN", "d1/de5/a02822.html#a394f453184d3eefd51298b772b4c789aa3d72e7f62a2349039b0c269f0c469553", null ]
+    [ "Zm_GraveyardState", "d1/de5/a02822.html#ad13518df9718347908929a97748d3636", [
+      [ "ZM_GRAVEYARD_N", "d1/de5/a02822.html#ad13518df9718347908929a97748d3636a87f32a40b9ae4243e7977085b4dab7c0", null ],
+      [ "ZM_GRAVEYARD_A", "d1/de5/a02822.html#ad13518df9718347908929a97748d3636aef470c9322dded10641afcc6a153e329", null ],
+      [ "ZM_GRAVEYARD_H", "d1/de5/a02822.html#ad13518df9718347908929a97748d3636a115a6845b9e0fbabbef2f3e28599f065", null ]
     ] ],
-    [ "HalaaGuardsNA", "d1/de5/a02822.html#a4e91f98214fe304c148fea20beaa5fae", [
-      [ "NA_HALAANI_GUARD_A", "d1/de5/a02822.html#a4e91f98214fe304c148fea20beaa5faeaa2b1c68dc890890449426eb6d46ff6c0", null ],
-      [ "NA_HALAANI_GUARD_H", "d1/de5/a02822.html#a4e91f98214fe304c148fea20beaa5faea6486eb6f2da8e52df614e7728a1f4304", null ]
+    [ "ZM_TowerStateMask", "d1/de5/a02822.html#a5d44e96b24b1f1215d1b3788b212f11c", [
+      [ "ZM_TOWERSTATE_N", "d1/de5/a02822.html#a5d44e96b24b1f1215d1b3788b212f11ca03d2918a6a9915b33da0f120feb7d5da", null ],
+      [ "ZM_TOWERSTATE_A", "d1/de5/a02822.html#a5d44e96b24b1f1215d1b3788b212f11cab51c5d640c62f5336ec7c5a1028f73d0", null ],
+      [ "ZM_TOWERSTATE_H", "d1/de5/a02822.html#a5d44e96b24b1f1215d1b3788b212f11ca206f55050d03bbc30f690c7e669e1831", null ]
     ] ],
-    [ "HalaaStates", "d1/de5/a02822.html#a2c40def86e302e716c09a15f01e5b809", [
-      [ "HALAA_N", "d1/de5/a02822.html#a2c40def86e302e716c09a15f01e5b809a255888833d6c2bfcb48d6300e3a00e76", null ],
-      [ "HALAA_N_A", "d1/de5/a02822.html#a2c40def86e302e716c09a15f01e5b809a5e75a8ea3c221ca8d430a5c3a059ffba", null ],
-      [ "HALAA_A", "d1/de5/a02822.html#a2c40def86e302e716c09a15f01e5b809a7e97d445255ae31253d61c6042240799", null ],
-      [ "HALAA_N_H", "d1/de5/a02822.html#a2c40def86e302e716c09a15f01e5b809a83d195b2954e67659ed1f1c246d2a889", null ],
-      [ "HALAA_H", "d1/de5/a02822.html#a2c40def86e302e716c09a15f01e5b809a7159ad16ee5d51946529c3cd325c6547", null ]
+    [ "ZMCreatureTypes", "d1/de5/a02822.html#aa6fc4a297b329d62073dd503d4f647c5", [
+      [ "ZM_ALLIANCE_FIELD_SCOUT", "d1/de5/a02822.html#aa6fc4a297b329d62073dd503d4f647c5ab0f9fb0eee307b47658f6742db0a4d82", null ],
+      [ "ZM_HORDE_FIELD_SCOUT", "d1/de5/a02822.html#aa6fc4a297b329d62073dd503d4f647c5a51001197c09a749a8d042df6fc5d0d62", null ],
+      [ "ZM_CREATURE_NUM", "d1/de5/a02822.html#aa6fc4a297b329d62073dd503d4f647c5a47e8909e9a6a41604775c672ec3587ae", null ]
     ] ],
-    [ "OutdoorPvPNASpells", "d1/de5/a02822.html#a933dca48e43f02c2e7846375e0e3a3e2", [
-      [ "NA_KILL_TOKEN_ALLIANCE", "d1/de5/a02822.html#a933dca48e43f02c2e7846375e0e3a3e2aae0070f813d277d5864226d25a571413", null ],
-      [ "NA_KILL_TOKEN_HORDE", "d1/de5/a02822.html#a933dca48e43f02c2e7846375e0e3a3e2aacbd3b5420e976421bab93b50cfa1f0c", null ],
-      [ "NA_CAPTURE_BUFF", "d1/de5/a02822.html#a933dca48e43f02c2e7846375e0e3a3e2a734083143cec178f24ecabb449f0637c", null ]
-    ] ],
-    [ "WyvernStates", "d1/de5/a02822.html#a408ccf9c409baffb9c6d03f2edde557c", [
-      [ "WYVERN_NEU_HORDE", "d1/de5/a02822.html#a408ccf9c409baffb9c6d03f2edde557ca9069d119becf81d131d0212caf8c6ab5", null ],
-      [ "WYVERN_NEU_ALLIANCE", "d1/de5/a02822.html#a408ccf9c409baffb9c6d03f2edde557ca98723680d7ec1dc91030d50df4603200", null ],
-      [ "WYVERN_HORDE", "d1/de5/a02822.html#a408ccf9c409baffb9c6d03f2edde557cafdcbf2305711075969d48e3a56c2a578", null ],
-      [ "WYVERN_ALLIANCE", "d1/de5/a02822.html#a408ccf9c409baffb9c6d03f2edde557cabc4cc5f16edf95d854b436d27ce77c8e", null ]
-    ] ],
-    [ "AllianceControlGOs", "d1/de5/a02822.html#a6da5d6b9a0ecd5b15ced61c27d1c8aa4", null ],
-    [ "FLIGHT_NODES_NUM", "d1/de5/a02822.html#a767a89853ad9fbcea5e94bae963b3168", null ],
-    [ "FlightPathEndNodes", "d1/de5/a02822.html#aa4cf9c47955c274ca0bdce61e98a3a5a", null ],
-    [ "FlightPathStartNodes", "d1/de5/a02822.html#ac9bda252b1c34c9a478d3251069384b8", null ],
-    [ "HordeControlGOs", "d1/de5/a02822.html#a2ca90cdca32c0c9a0fef5ece362bb3e6", null ],
-    [ "NA_BUFF_ZONE", "d1/de5/a02822.html#ae9287f13e383331fe53c5a514989ca99", null ],
-    [ "NA_CREDIT_MARKER", "d1/de5/a02822.html#a8c04516b1462a78d64563849fe3136a1", null ],
-    [ "NA_GUARD_CHECK_TIME", "d1/de5/a02822.html#a0f69597d7fce786cae5202cb06be06cf", null ],
-    [ "NA_GUARDS_MAX", "d1/de5/a02822.html#a3fba4585a3d42e96191aa62b6938472f", null ],
-    [ "NA_HALAA_BOMB", "d1/de5/a02822.html#a793a1d2d8d6683df19de9b728d2af1de", null ],
-    [ "NA_HALAA_GRAVEYARD", "d1/de5/a02822.html#a23eddcc072a261674acb3acb48f637cb", null ],
-    [ "NA_HALAA_GRAVEYARD_ZONE", "d1/de5/a02822.html#a74f493038b14c5e7e5a00c661339278e", null ],
-    [ "NA_RESPAWN_TIME", "d1/de5/a02822.html#a6fd5686dd6cf4251b3b33513928f44bd", null ],
-    [ "PatrolCreatureEntry", "d1/de5/a02822.html#aac17891901d073bcbdc4b9b919bb8f43", null ]
+    [ "OutdoorPvPZMBuffZones", "d1/de5/a02822.html#a42debbed89bc9a37f04d7da9f1ba5362", null ],
+    [ "OutdoorPvPZMBuffZonesNum", "d1/de5/a02822.html#afd164ef928ed19895648e76207433805", null ],
+    [ "ZM_AllianceFieldScout", "d1/de5/a02822.html#a308db265dfb26d8d04ea2b44077d3b42", null ],
+    [ "ZM_Banner_A", "d1/de5/a02822.html#a986fade5573769277e5c9e99dc243d78", null ],
+    [ "ZM_Banner_H", "d1/de5/a02822.html#a5eae372f5bc43c36af04c8833002ca79", null ],
+    [ "ZM_Banner_N", "d1/de5/a02822.html#a9bf0e9dee2e0ae4731dd302373e18542", null ],
+    [ "ZM_GRAVEYARD_ID", "d1/de5/a02822.html#adc060a8578a0685e98f94a0d51c3613b", null ],
+    [ "ZM_GRAVEYARD_ZONE", "d1/de5/a02822.html#a32c62572b4ea0ef1930cffc3e9e2c6fe", null ],
+    [ "ZM_HordeFieldScout", "d1/de5/a02822.html#aa18435dfdf68c3f5ac5218ce2e4909d0", null ],
+    [ "ZMBeaconCaptureA", "d1/de5/a02822.html#aefc7683d5c310d6513a4bc64e0562f24", null ],
+    [ "ZMBeaconCaptureH", "d1/de5/a02822.html#a3cf4b21d832f1993b7bbef74516f4690", null ],
+    [ "ZMBeaconInfo", "d1/de5/a02822.html#af392c2c0a8da38f6782ab0ed0501a448", null ],
+    [ "ZMBeaconLoseA", "d1/de5/a02822.html#ace5e051bf69a2b4be978b04c832c5592", null ],
+    [ "ZMBeaconLoseH", "d1/de5/a02822.html#a32e1a277d31ee3f4a23f291ccb4798e6", null ],
+    [ "ZMCapturePoints", "d1/de5/a02822.html#a397f5867c1a3f99cf044124a4a621324", null ]
 ];

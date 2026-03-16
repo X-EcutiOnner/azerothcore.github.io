@@ -1,9 +1,6 @@
 var a18669 =
 [
-    [ "HandleScript", "d2/d28/a18669.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
-    [ "Load", "d2/d28/a18669.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
-    [ "PrepareSpellScript", "d2/d28/a18669.html#a73931c9434114749b9db648665153083", null ],
-    [ "Register", "d2/d28/a18669.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
-    [ "SelectTarget", "d2/d28/a18669.html#a95be527c43ceeb4801f4e494753c1b59", null ],
-    [ "_target", "d2/d28/a18669.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
+    [ "VileSpiritActivateEvent", "d2/d28/a18669.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
+    [ "Execute", "d2/d28/a18669.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
+    [ "_owner", "d2/d28/a18669.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
 ];

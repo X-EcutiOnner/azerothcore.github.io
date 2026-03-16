@@ -1,6 +1,7 @@
 var a15949 =
 [
-    [ "npc_custodian_of_timeAI", "db/d6e/a15953.html", "db/d6e/a15953" ],
-    [ "npc_custodian_of_time", "dc/dc8/a15949.html#a6018b30119ce819853a3c662b3d5347e", null ],
-    [ "GetAI", "dc/dc8/a15949.html#a57217b2dab1cab110f1c59526ca13c86", null ]
+    [ "HandleDummy", "dc/dc8/a15949.html#a38dafff805471b19ca3cca4ff5273a87", null ],
+    [ "PrepareSpellScript", "dc/dc8/a15949.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
+    [ "Register", "dc/dc8/a15949.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
+    [ "Validate", "dc/dc8/a15949.html#abb7946f53e6271ae69d34caacef61f47", null ]
 ];

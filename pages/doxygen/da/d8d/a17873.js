@@ -1,14 +1,8 @@
 var a17873 =
 [
-    [ "npc_gunshipAI", "da/d8d/a17873.html#a75444497ffd6b7365827eea57fd946f9", null ],
-    [ "DamageTaken", "da/d8d/a17873.html#a9c1825ec51aaecedd1035ae9a1ded6a0", null ],
-    [ "GetData", "da/d8d/a17873.html#a0142bec2427c1256431e55d3f74b8948", null ],
-    [ "JustDied", "da/d8d/a17873.html#aa19c815ad64f81fb5240c5e0667bccc9", null ],
-    [ "SetGUID", "da/d8d/a17873.html#a7f336843c54de072cf58bc87ff08b068", null ],
-    [ "UpdateAI", "da/d8d/a17873.html#a8bab1a755c2262e9f36f295781d30909", null ],
-    [ "_died", "da/d8d/a17873.html#af4480427460748bccae214737469ddb7", null ],
-    [ "_instance", "da/d8d/a17873.html#a21f9c24e80145db0c6847c81261d0e8d", null ],
-    [ "_shipVisits", "da/d8d/a17873.html#a6f9730b746e195a99dc11357fd0387ba", null ],
-    [ "_summonedFirstMage", "da/d8d/a17873.html#a721cc96cc76a27574a1a4eb1996b100e", null ],
-    [ "_teamIdInInstance", "da/d8d/a17873.html#a195ff7ab2c2e96ab0bcd0a96c1e21512", null ]
+    [ "OnApply", "da/d8d/a17873.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
+    [ "OnRemove", "da/d8d/a17873.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
+    [ "PrepareAuraScript", "da/d8d/a17873.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
+    [ "Register", "da/d8d/a17873.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
+    [ "Validate", "da/d8d/a17873.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
 ];

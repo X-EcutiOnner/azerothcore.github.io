@@ -1,6 +1,7 @@
 var a11213 =
 [
-    [ "NameQuery", "da/dfa/a11213.html#a7dc5a2dceb475303db4b4ab0c0a6d23c", null ],
-    [ "Read", "da/dfa/a11213.html#ae4a16ebe5372214d3aec65b056a9426e", null ],
-    [ "Guid", "da/dfa/a11213.html#a52528a68f1c86196e7428f196f93d12b", null ]
+    [ "StopMirrorTimer", "da/dfa/a11213.html#aabd646c82f3dcdff2eef2158c6724dff", null ],
+    [ "StopMirrorTimer", "da/dfa/a11213.html#a25f930852c7124cdfbf73687e62a26d1", null ],
+    [ "Write", "da/dfa/a11213.html#ae99dab4406316eac99a6e0e0146d879e", null ],
+    [ "Timer", "da/dfa/a11213.html#a5e5cf56b83aca514cff34c1a17f2d3b1", null ]
 ];

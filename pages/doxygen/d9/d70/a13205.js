@@ -1,5 +1,5 @@
 var a13205 =
 [
-    [ "boss_ellris_duskhallow", "d9/d70/a13205.html#a85dc1f923c8211180cc5b250fb509ba7", null ],
-    [ "JustEngagedWith", "d9/d70/a13205.html#a5bb5bc51b62ad371bf086c6ced2eee89", null ]
+    [ "at_karazhan_mirkblood_entrance", "d9/d70/a13205.html#aa5537dc8616c1f748b6be4b1e2870ca7", null ],
+    [ "OnTrigger", "d9/d70/a13205.html#ad99c85de36a369752fa61bab761a402e", null ]
 ];

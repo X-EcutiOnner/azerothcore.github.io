@@ -1,7 +1,6 @@
 var a16733 =
 [
-    [ "npc_toc_shamanAI", "da/d46/a16733.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
-    [ "myCanCast", "da/d46/a16733.html#a993739662d2687c27219853669b8a485", null ],
-    [ "UpdateAI", "da/d46/a16733.html#a2ad17245685feb3f085ef9a669459c61", null ],
-    [ "events", "da/d46/a16733.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
+    [ "FilterTargets", "da/d46/a16733.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
+    [ "PrepareSpellScript", "da/d46/a16733.html#a5ede43deece629a38f5482280983b59a", null ],
+    [ "Register", "da/d46/a16733.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
 ];

@@ -1,6 +1,6 @@
 var a13861 =
 [
-    [ "HandleSendEvent", "d2/d9b/a13861.html#a1be975f4440b823c34cc3e790fcff608", null ],
-    [ "PrepareSpellScript", "d2/d9b/a13861.html#a91ac4a392fcf5b6e833fb3f5103d8e06", null ],
-    [ "Register", "d2/d9b/a13861.html#a217fb7cb47b08999d49ec04b345b77fe", null ]
+    [ "HandlePeriodic", "d2/d9b/a13861.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
+    [ "PrepareAuraScript", "d2/d9b/a13861.html#a7ac99d626990f068a00f403847bfa6bc", null ],
+    [ "Register", "d2/d9b/a13861.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
 ];

@@ -1,6 +1,7 @@
 var a10985 =
 [
-    [ "ListInventory", "d2/d5c/a10985.html#a7b0432d3b1243bdf6d70f9f55ee0f614", null ],
-    [ "Read", "d2/d5c/a10985.html#a2fd1298c1da842824fca7d971cb2028b", null ],
-    [ "VendorGuid", "d2/d5c/a10985.html#a9c6288866c870b4a82169fe7fbef4512", null ]
+    [ "GuildBankWithdrawMoney", "d2/d5c/a10985.html#a7bd310d1fa4fb332cd815a259de3ef2d", null ],
+    [ "Read", "d2/d5c/a10985.html#a420aac24befdc5ac26171faa15c3c350", null ],
+    [ "Banker", "d2/d5c/a10985.html#a68f9a4191c349702881774bff4069f03", null ],
+    [ "Money", "d2/d5c/a10985.html#a349f8608d589ac3a5697c7c1cf73723e", null ]
 ];

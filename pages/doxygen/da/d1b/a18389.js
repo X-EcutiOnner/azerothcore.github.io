@@ -1,7 +1,6 @@
 var a18389 =
 [
-    [ "OnRemove", "da/d1b/a18389.html#aa096174465120bde1994c85f72682be1", null ],
-    [ "PrepareAuraScript", "da/d1b/a18389.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
-    [ "Register", "da/d1b/a18389.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
-    [ "Validate", "da/d1b/a18389.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
+    [ "HandlePeriodic", "da/d1b/a18389.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
+    [ "PrepareAuraScript", "da/d1b/a18389.html#a5d855d79247dff6f949a5e099abb9352", null ],
+    [ "Register", "da/d1b/a18389.html#ae797de0ed29b3ca179c07d759b469228", null ]
 ];

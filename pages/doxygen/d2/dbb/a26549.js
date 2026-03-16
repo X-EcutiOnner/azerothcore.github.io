@@ -1,6 +1,7 @@
 var a26549 =
 [
-    [ "FilterTargets", "d2/dbb/a26549.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
-    [ "PrepareSpellScript", "d2/dbb/a26549.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
-    [ "Register", "d2/dbb/a26549.html#abe63ec69fe15fd8924fb63235489e088", null ]
+    [ "CheckProc", "d2/dbb/a26549.html#a4aadc249b5c568b5317c4eb41abeb6b4", null ],
+    [ "PrepareAuraScript", "d2/dbb/a26549.html#acc3d194b3f23ecfe42c40d011c957138", null ],
+    [ "Register", "d2/dbb/a26549.html#a0b104698a7c763bee1af656e127591bd", null ],
+    [ "Validate", "d2/dbb/a26549.html#a493e63aafcbfd4279cabe91aaa21cee2", null ]
 ];

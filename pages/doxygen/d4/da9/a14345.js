@@ -1,5 +1,7 @@
 var a14345 =
 [
-    [ "at_zulgurub_edge_of_madness_speech", "d4/da9/a14345.html#a7d4007716e3ed634ac7e3d3dba26e6f7", null ],
-    [ "_OnTrigger", "d4/da9/a14345.html#a725de49be12116f2f7e77edd31a096ae", null ]
+    [ "spell", "d4/da9/a14345.html#a55423d09b2f1775dc386a36168ad764d", null ],
+    [ "spiritEntry", "d4/da9/a14345.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
+    [ "text", "d4/da9/a14345.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
+    [ "unaura", "d4/da9/a14345.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
 ];

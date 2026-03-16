@@ -1,9 +1,8 @@
 var a09601 =
 [
-    [ "UnitAuraCheck", "df/d69/a09601.html#acbc0c969db8b768720ab3b8235c28352", null ],
-    [ "operator()", "df/d69/a09601.html#abc385cad226ac51c09a908864d360fd3", null ],
-    [ "operator()", "df/d69/a09601.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
-    [ "_casterGUID", "df/d69/a09601.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
-    [ "_present", "df/d69/a09601.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
-    [ "_spellId", "df/d69/a09601.html#a0dd71c851f803fb70a4543c77b672889", null ]
+    [ "FriendlyMissingBuffInRange", "df/d69/a09601.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
+    [ "operator()", "df/d69/a09601.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
+    [ "i_obj", "df/d69/a09601.html#aba43edf48b2b0184b52143707c3531f4", null ],
+    [ "i_range", "df/d69/a09601.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
+    [ "i_spell", "df/d69/a09601.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
 ];

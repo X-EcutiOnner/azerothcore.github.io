@@ -1,6 +1,7 @@
 var a23717 =
 [
-    [ "HandleAfterRemove", "dd/d47/a23717.html#ac9756a8f206c114ff6443331ca266184", null ],
-    [ "PrepareAuraScript", "dd/d47/a23717.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
-    [ "Register", "dd/d47/a23717.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
+    [ "AfterApply", "dd/d47/a23717.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
+    [ "PrepareAuraScript", "dd/d47/a23717.html#aa98346e5f5b23fe016148426a19a719f", null ],
+    [ "Register", "dd/d47/a23717.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
+    [ "Validate", "dd/d47/a23717.html#a616d1758aa257140f4941fe12ef21e87", null ]
 ];

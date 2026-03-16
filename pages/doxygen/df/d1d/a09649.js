@@ -1,5 +1,8 @@
 var a09649 =
 [
-    [ "getFirst", "df/d1d/a09649.html#ab6524f9fba08d034c78a38ab1045ace9", null ],
-    [ "getFirst", "df/d1d/a09649.html#a74a687ba16e352c3fa5eafd1cfdd7b0e", null ]
+    [ "CallOfHelpCreatureInRangeDo", "df/d1d/a09649.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
+    [ "operator()", "df/d1d/a09649.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
+    [ "i_enemy", "df/d1d/a09649.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
+    [ "i_funit", "df/d1d/a09649.html#aff1768cd844e4e23821cf78f9d360e06", null ],
+    [ "i_range", "df/d1d/a09649.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
 ];

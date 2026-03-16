@@ -1,7 +1,6 @@
 var a11473 =
 [
-    [ "WorldObjectSpellAreaTargetCheck", "db/d04/a11473.html#a2b017300220426ac42de18e3a8699219", null ],
-    [ "operator()", "db/d04/a11473.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
-    [ "_position", "db/d04/a11473.html#a680c45dd148161657da011a1772375ca", null ],
-    [ "_range", "db/d04/a11473.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ]
+    [ "WorldSession", "db/d04/a11473.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Guid", "db/d04/a11473.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
+    [ "Name", "db/d04/a11473.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
 ];

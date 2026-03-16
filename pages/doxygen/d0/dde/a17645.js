@@ -1,6 +1,6 @@
 var a17645 =
 [
-    [ "AddExtraDamage", "d0/dde/a17645.html#adeedfdd7555dfd009c99db6f002f7488", null ],
-    [ "PrepareSpellScript", "d0/dde/a17645.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
-    [ "Register", "d0/dde/a17645.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
+    [ "boss_drakkari_elementalAI", "dc/d37/a17649.html", "dc/d37/a17649" ],
+    [ "boss_drakkari_elemental", "d0/dde/a17645.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
+    [ "GetAI", "d0/dde/a17645.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
 ];

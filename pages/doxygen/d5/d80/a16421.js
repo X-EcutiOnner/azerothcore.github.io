@@ -1,6 +1,5 @@
 var a16421 =
 [
-    [ "npc_halion_controllerAI", "d9/dbf/a16425.html", "d9/dbf/a16425" ],
-    [ "npc_halion_controller", "d5/d80/a16421.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
-    [ "GetAI", "d5/d80/a16421.html#a3c5ea3f0597c070005744ea788a05383", null ]
+    [ "achievement_hadronox_denied", "d5/d80/a16421.html#aeb1dcb0cee9cfe1bd149aa070a9ab7a0", null ],
+    [ "OnCheck", "d5/d80/a16421.html#a0ee9c8fb90a43bc011c75026d6bcc2e5", null ]
 ];

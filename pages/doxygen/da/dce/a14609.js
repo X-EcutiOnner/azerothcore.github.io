@@ -1,7 +1,16 @@
 var a14609 =
 [
-    [ "FilterTargets", "da/dce/a14609.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
-    [ "HandleDummy", "da/dce/a14609.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
-    [ "PrepareSpellScript", "da/dce/a14609.html#a6ac4db072beae6ae7a700774667da613", null ],
-    [ "Register", "da/dce/a14609.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
+    [ "boss_renatakiAI", "da/dce/a14609.html#ac154bfadeb99d67f59e1682de257e8bf", null ],
+    [ "CanAIAttack", "da/dce/a14609.html#af20dc14dc56500e568a3a11bfb34a227", null ],
+    [ "CanAlwaysBeDetectable", "da/dce/a14609.html#af75108eacb982586f43a175beede78ef", null ],
+    [ "CanBeSeen", "da/dce/a14609.html#ac79db0d4488702be0cd12b5e03a9bcb9", null ],
+    [ "CanSeeAlways", "da/dce/a14609.html#a6e4a1e9bec67a1bdac4c9cef3da4b17d", null ],
+    [ "DamageTaken", "da/dce/a14609.html#a62d97adb310b55a2235737b854dc4aca", null ],
+    [ "JustEngagedWith", "da/dce/a14609.html#a72e9a85d2215d3da197d50b6aa0b769e", null ],
+    [ "Reset", "da/dce/a14609.html#ad50d8e24fb4168186497c5cdb5b39a68", null ],
+    [ "UpdateAI", "da/dce/a14609.html#a3a1abaef460d9abe1298080080d74c9d", null ],
+    [ "_dynamicFlags", "da/dce/a14609.html#a502bfa737cf97ae909144278a3e39bd0", null ],
+    [ "_enraged", "da/dce/a14609.html#a71e717a2ea732729762aff7970439f74", null ],
+    [ "_thousandBladesCount", "da/dce/a14609.html#a29dd57c66245f30d12f32d31cc25cd55", null ],
+    [ "_thousandBladesTargets", "da/dce/a14609.html#ab8b2b52a2ef8ea6586381234c9a3e3fc", null ]
 ];

@@ -1,6 +1,7 @@
 var a23289 =
 [
-    [ "CalculateDamage", "dd/dbf/a23289.html#a170fb61e3a7358d42cc6506067fb978a", null ],
-    [ "PrepareSpellScript", "dd/dbf/a23289.html#a197fce87e22a3e4055cabbb925b13aa1", null ],
-    [ "Register", "dd/dbf/a23289.html#aac3c6a6b34af795cb08fc299e763f6a8", null ]
+    [ "PeriodicTick", "dd/dbf/a23289.html#a789d2d4d2bc75e412abe80a33102fa06", null ],
+    [ "PrepareAuraScript", "dd/dbf/a23289.html#a49db8ade3bc3a3da9e043e8b9ad1759d", null ],
+    [ "Register", "dd/dbf/a23289.html#aec2d7f564107f5b294a5d5c3dd3f9b25", null ],
+    [ "Validate", "dd/dbf/a23289.html#a7c2309d3192b2a18d8035c8067849d6d", null ]
 ];

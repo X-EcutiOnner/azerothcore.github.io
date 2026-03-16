@@ -1,4 +1,6 @@
 var a18905 =
 [
-    [ "operator()", "db/dfb/a18905.html#ac13ad1cce91fa28dc81250672c125490", null ]
+    [ "npc_lk_wicked_spiritAI", "d0/d13/a18909.html", "d0/d13/a18909" ],
+    [ "npc_lk_wicked_spirit", "db/dfb/a18905.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
+    [ "GetAI", "db/dfb/a18905.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
 ];

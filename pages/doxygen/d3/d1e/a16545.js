@@ -1,6 +1,11 @@
 var a16545 =
 [
-    [ "boss_eadricAI", "db/d0d/a16549.html", "db/d0d/a16549" ],
-    [ "boss_eadric", "d3/d1e/a16545.html#ad32a08ec9fc2a31b5bcdcff67d0127d2", null ],
-    [ "GetAI", "d3/d1e/a16545.html#a15235e86d0bdff0bd3fef5dbff3abb27", null ]
+    [ "boss_general_zarithrianAI", "d3/d1e/a16545.html#a4168a5883052810d137f59d3b104bc24", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d3/d1e/a16545.html#a22f6ff041e61c94df73a938162fa26f5", null ],
+    [ "JustDied", "d3/d1e/a16545.html#a49be533142c82a95a136dc2dcbf4843c", null ],
+    [ "JustEngagedWith", "d3/d1e/a16545.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
+    [ "JustSummoned", "d3/d1e/a16545.html#acb694d20b35d57a315aa4662562af210", null ],
+    [ "KilledUnit", "d3/d1e/a16545.html#ad385477740b728e63acff7c184df3c09", null ],
+    [ "Reset", "d3/d1e/a16545.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
+    [ "UpdateAI", "d3/d1e/a16545.html#a3a7e578d64a760cd38712c725eecc97d", null ]
 ];

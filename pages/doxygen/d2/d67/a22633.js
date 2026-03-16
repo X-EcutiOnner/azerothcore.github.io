@@ -1,7 +1,8 @@
 var a22633 =
 [
-    [ "boss_lady_malande", "d2/d67/a22633.html#a8cb693d203463dcba809e7ffc23c6868", null ],
-    [ "AttackStart", "d2/d67/a22633.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
-    [ "JustEngagedWith", "d2/d67/a22633.html#af4b5f376e387851e15517de03636acde", null ],
-    [ "UpdateAI", "d2/d67/a22633.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
+    [ "FilterTargets", "d2/d67/a22633.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
+    [ "HandleDummyHitTarget", "d2/d67/a22633.html#ae892090a9bd48aa447224c9f96801d37", null ],
+    [ "PrepareSpellScript", "d2/d67/a22633.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
+    [ "Register", "d2/d67/a22633.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
+    [ "Validate", "d2/d67/a22633.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
 ];

@@ -1,6 +1,6 @@
 var a15837 =
 [
-    [ "npc_clintar_spiritAI", "df/d45/a15841.html", "df/d45/a15841" ],
-    [ "npc_clintar_spirit", "dc/dfe/a15837.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
-    [ "GetAI", "dc/dfe/a15837.html#a118198504f6f93c86302275a11582d60", null ]
+    [ "npc_stillpine_capitiveAI", "df/d45/a15841.html", "df/d45/a15841" ],
+    [ "npc_stillpine_capitive", "dc/dfe/a15837.html#a6c9ce06ffe8cafaea2f428ba610d6964", null ],
+    [ "GetAI", "dc/dfe/a15837.html#ad1d81ae43d3c417b8817da61afef4e4b", null ]
 ];

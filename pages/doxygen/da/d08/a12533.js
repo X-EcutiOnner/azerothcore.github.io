@@ -1,5 +1,6 @@
 var a12533 =
 [
-    [ "at_scarshield_infiltrator", "da/d08/a12533.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
-    [ "OnTrigger", "da/d08/a12533.html#a607c3ee2bd4716cf1e0499e202d379fc", null ]
+    [ "boss_halyconAI", "d6/d1c/a12537.html", "d6/d1c/a12537" ],
+    [ "boss_halycon", "da/d08/a12533.html#aa149c5f8b34b9c00102f9a0758dcbd9a", null ],
+    [ "GetAI", "da/d08/a12533.html#a861f1b0213ad9bcf572c9d59eabba699", null ]
 ];

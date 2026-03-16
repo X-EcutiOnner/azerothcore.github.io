@@ -1,14 +1,15 @@
 var a29549 =
 [
-    [ "ConfigEnvTest", "d3/d74/a28464.html", "d3/d74/a28464" ],
-    [ "CreateConfigWithMap", "de/da2/a29549.html#a9239326ecbf694576c285ae8b4245e7e", null ],
-    [ "TEST_F", "de/da2/a29549.html#a94c823774c857d4e496d49e57fc81ec7", null ],
-    [ "TEST_F", "de/da2/a29549.html#a7b3e2d5178272c45ffc59b429efb470b", null ],
-    [ "TEST_F", "de/da2/a29549.html#a405895a1a3d48885bc76d0cd476ef18e", null ],
-    [ "TEST_F", "de/da2/a29549.html#a78acdeb7f8d994b9bea8032b95492f55", null ],
-    [ "TEST_F", "de/da2/a29549.html#ad6d9eb985ed7e700cdc58e66caf1832c", null ],
-    [ "TEST_F", "de/da2/a29549.html#ab2a3d3e7561c71ed4adc32ff482bc6c8", null ],
-    [ "TEST_F", "de/da2/a29549.html#a2b2a3a2a1f46aa789759315c29d5af6c", null ],
-    [ "TEST_F", "de/da2/a29549.html#ae31e3b13342d4ea071f29961ab4a1775", null ],
-    [ "TEST_F", "de/da2/a29549.html#aabed1171286f2b1b05cc4380a00c5df7", null ]
+    [ "AuraStubBuilder", "de/da2/a29549.html#a534384a8763b8c95fab8158e83db2def", null ],
+    [ "Build", "de/da2/a29549.html#a7d5b970e591a239849e42a0c444f62d4", null ],
+    [ "BuildRaw", "de/da2/a29549.html#a6d18b0c3762b471fba8cf895e9a07b50", null ],
+    [ "WithCharges", "de/da2/a29549.html#a0e11ce060ed827bfc2b72d2b26a6693b", null ],
+    [ "WithDuration", "de/da2/a29549.html#ac5c74952acab3c54a79e28355f423a8f", null ],
+    [ "WithEffect", "de/da2/a29549.html#ad25896a25811e0e563dcac1c46e77ff3", null ],
+    [ "WithId", "de/da2/a29549.html#aa8dc59189364f6be82822588a47d32fd", null ],
+    [ "WithPassive", "de/da2/a29549.html#a056bd26636b67b54562306a42b3d7c3e", null ],
+    [ "WithPeriodicEffect", "de/da2/a29549.html#a93fd0ed97589e98446251f9b078a3f9d", null ],
+    [ "WithSpellFamilyName", "de/da2/a29549.html#afa4a16fb9c020c568472102fff972408", null ],
+    [ "WithStackAmount", "de/da2/a29549.html#a04b37ad66dde7b61695a80db00c9ab66", null ],
+    [ "_stub", "de/da2/a29549.html#a22cc8b0309b64c1ecc482d77170a2b09", null ]
 ];

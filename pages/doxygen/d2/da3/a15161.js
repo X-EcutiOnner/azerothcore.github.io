@@ -1,6 +1,10 @@
 var a15161 =
 [
-    [ "instance_old_hillsbrad_InstanceMapScript", "dc/de6/a15165.html", "dc/de6/a15165" ],
-    [ "instance_old_hillsbrad", "d2/da3/a15161.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
-    [ "GetInstanceScript", "d2/da3/a15161.html#a1929c38b1c745b2df1ccaf462113e220", null ]
+    [ "boss_rage_winterchill", "d2/da3/a15161.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
+    [ "DoAction", "d2/da3/a15161.html#a45333aea6d6a180473ca4823ea83920a", null ],
+    [ "JustDied", "d2/da3/a15161.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
+    [ "JustEngagedWith", "d2/da3/a15161.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
+    [ "KilledUnit", "d2/da3/a15161.html#a69d69530a080379add7be73c552f4937", null ],
+    [ "PathEndReached", "d2/da3/a15161.html#aec47befdf3246710a5158780fa797fa7", null ],
+    [ "_recentlySpoken", "d2/da3/a15161.html#ae2141b4ea1d10cb74146aec63d65214c", null ]
 ];

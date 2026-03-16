@@ -1,8 +1,7 @@
 var a25609 =
 [
-    [ "OnRemove", "d9/da6/a25609.html#a645e869079e711a87f1a957b42a35e98", null ],
-    [ "OnStackChange", "d9/da6/a25609.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b", null ],
-    [ "PrepareAuraScript", "d9/da6/a25609.html#a5f9e9d07879705917e1cd261808f0a8f", null ],
-    [ "Register", "d9/da6/a25609.html#ac86068a892255e38244c487a7456cd9f", null ],
-    [ "Validate", "d9/da6/a25609.html#a74cb62725d939000a1c4ab32b4f4335f", null ]
+    [ "HandleOnEffectApply", "d9/da6/a25609.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
+    [ "HandleOnEffectRemove", "d9/da6/a25609.html#a094d788d157474a9683387d5c340538f", null ],
+    [ "PrepareAuraScript", "d9/da6/a25609.html#aad378b8c45f11af51faf9128878c01df", null ],
+    [ "Register", "d9/da6/a25609.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
 ];

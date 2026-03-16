@@ -1,8 +1,7 @@
 var a27581 =
 [
-    [ "npc_minion_spawner", "dd/d4f/a27581.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
-    [ "CanSpawnRareMinion", "dd/d4f/a27581.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
-    [ "JustSummoned", "dd/d4f/a27581.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
-    [ "Reset", "dd/d4f/a27581.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
-    [ "UpdateAI", "dd/d4f/a27581.html#a24f93f1314bb73edb369e188eda83104", null ]
+    [ "HandleBonus", "dd/d4f/a27581.html#a2bf167d8561f2ef36e44fa9754f0d9a3", null ],
+    [ "PrepareAuraScript", "dd/d4f/a27581.html#aebf4afa25b50be9b99900ef830f26f04", null ],
+    [ "Register", "dd/d4f/a27581.html#ad69315b8eca4173a1e0db21cd98e9c3c", null ],
+    [ "Validate", "dd/d4f/a27581.html#aef0e4a0474718f61f89ff4c825923fc1", null ]
 ];

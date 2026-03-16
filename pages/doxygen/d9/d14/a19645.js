@@ -1,8 +1,6 @@
 var a19645 =
 [
-    [ "npc_crystal_spike", "d9/d14/a19645.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
-    [ "Reset", "d9/d14/a19645.html#a8cdca606ce482147d87ad5248665099e", null ],
-    [ "UpdateAI", "d9/d14/a19645.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
-    [ "_damageTimer", "d9/d14/a19645.html#a36c70729a0c0281d467f870bfcde80ae", null ],
-    [ "_gameObjectGUID", "d9/d14/a19645.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
+    [ "boss_thaddiusAI", "d6/dd1/a19649.html", "d6/dd1/a19649" ],
+    [ "boss_thaddius", "d9/d14/a19645.html#aff97b030b861feb646e1b22f60ee3605", null ],
+    [ "GetAI", "d9/d14/a19645.html#acf841c6897396f517a74932fc3480e69", null ]
 ];

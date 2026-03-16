@@ -1,5 +1,6 @@
 var a17473 =
 [
-    [ "entry", "d8/d10/a17473.html#a44c7a625896d6fddc15da39988e0b042", null ],
-    [ "pathId", "d8/d10/a17473.html#accd6af0ddfa248a972612d802a1e641e", null ]
+    [ "boss_garfrostAI", "d5/d2d/a17477.html", "d5/d2d/a17477" ],
+    [ "boss_garfrost", "d8/d10/a17473.html#ac116491cf252ee476cedee55ea292827", null ],
+    [ "GetAI", "d8/d10/a17473.html#a8a67bb09249655a8706868bb26b5124d", null ]
 ];

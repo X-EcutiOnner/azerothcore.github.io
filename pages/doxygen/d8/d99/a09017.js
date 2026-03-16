@@ -1,7 +1,7 @@
 var a09017 =
 [
-    [ "GetAntiDosPolicyForOpcode", "d8/d99/a09017.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
-    [ "instance", "d8/d99/a09017.html#a859596f153aa470fa503f67092e26160", null ],
-    [ "LoadAntiDosOpcodePolicies", "d8/d99/a09017.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
-    [ "_antiDosOpcodePolicies", "d8/d99/a09017.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
+    [ "HealthPctOrderPred", "d8/d99/a09017.html#a5c83c0ba35b9febbe6a62dae63995f97", null ],
+    [ "operator()", "d8/d99/a09017.html#a2c7f4043e5268b13bf0d9f46e9709a9b", null ],
+    [ "operator()", "d8/d99/a09017.html#a23f2dc594fd531d02cd6eae0faa7f6b7", null ],
+    [ "_ascending", "d8/d99/a09017.html#a4c34feefafc014b50ba2869a9bdb9959", null ]
 ];

@@ -1,6 +1,8 @@
 var a23449 =
 [
-    [ "boss_porung", "df/db8/a23449.html#acef31010461bbf716ac9b13d950807ee", null ],
-    [ "JustDied", "df/db8/a23449.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
-    [ "JustEngagedWith", "df/db8/a23449.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
+    [ "ApplyStun", "df/db8/a23449.html#a5a5b921dc45418485919e599e80f8ca8", null ],
+    [ "HandleScriptEffect", "df/db8/a23449.html#a32619710179250a6a0b408856a888153", null ],
+    [ "PrepareSpellScript", "df/db8/a23449.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
+    [ "Register", "df/db8/a23449.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
+    [ "Validate", "df/db8/a23449.html#a66d91a87078c663903cd836344eec867", null ]
 ];

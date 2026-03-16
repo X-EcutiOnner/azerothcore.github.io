@@ -1,8 +1,8 @@
 var a21825 =
 [
-    [ "CheckCast", "dc/db8/a21825.html#a49e425fa95e5107f38aa16e546674b7d", null ],
-    [ "HandleScript", "dc/db8/a21825.html#a38e8d469e10470b448c0947c6bdbe4bb", null ],
-    [ "PrepareSpellScript", "dc/db8/a21825.html#a9e7a1239e165131b70c437793b5371d0", null ],
-    [ "Register", "dc/db8/a21825.html#a3d80b43080e0d81cbb45ed665efcda2a", null ],
-    [ "Validate", "dc/db8/a21825.html#aa3153a940a762a7ee09e7c62b6b61053", null ]
+    [ "npc_q24545_vegardAI", "dc/db8/a21825.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "dc/db8/a21825.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "dc/db8/a21825.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "dc/db8/a21825.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "dc/db8/a21825.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

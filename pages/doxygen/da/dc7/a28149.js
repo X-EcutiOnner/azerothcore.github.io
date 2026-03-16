@@ -1,8 +1,5 @@
 var a28149 =
 [
-    [ "Id", "da/dc7/a28149.html#a6943bf760d15b3f8af4109d131652d72", null ],
-    [ "MapId", "da/dc7/a28149.html#ab0cccd760636a3b42af693d6c483bed9", null ],
-    [ "X", "da/dc7/a28149.html#a91183890254546efeb3162173cc60dad", null ],
-    [ "Y", "da/dc7/a28149.html#a19ab4d026b45d74f006479641afbc4d3", null ],
-    [ "Z", "da/dc7/a28149.html#aaa23c59f20fc96aec148b82516f30036", null ]
+    [ "go_ethereum_stasis", "da/dc7/a28149.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
+    [ "OnGossipHello", "da/dc7/a28149.html#ac36da8dccbebcaee605a878df3904c60", null ]
 ];

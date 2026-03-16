@@ -1,11 +1,9 @@
 var a17437 =
 [
-    [ "npc_pos_leader_secondAI", "da/d04/a17437.html#a2ded8591da2548921cd016d592d1f1c8", null ],
-    [ "DoAction", "da/d04/a17437.html#a941d3b42d6a0e58496b724af56fee44a", null ],
-    [ "MovementInform", "da/d04/a17437.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
-    [ "SpellHitTarget", "da/d04/a17437.html#ae630b7b225379831d15a11f66507bc6a", null ],
-    [ "UpdateAI", "da/d04/a17437.html#a640aea9ce4a47dd13d417748e533fc33", null ],
-    [ "barrierGUID", "da/d04/a17437.html#a452c096475581c12bf2f4ccb12448026", null ],
-    [ "events", "da/d04/a17437.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
-    [ "pInstance", "da/d04/a17437.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
+    [ "npc_hor_risen_witch_doctorAI", "da/d04/a17437.html#acd33d4811521f6d41bce21270198db45", null ],
+    [ "JustDied", "da/d04/a17437.html#a49eb1c20ef810d0e4aeea8f99fcabebb", null ],
+    [ "JustEngagedWith", "da/d04/a17437.html#a54378daf294fcbee4ba1abf14927cc52", null ],
+    [ "Reset", "da/d04/a17437.html#a20742bb0fe610367283cd5dc7e8b36ff", null ],
+    [ "UpdateAI", "da/d04/a17437.html#af9baaf71fa53a42ab5d1507fdd6aa9fd", null ],
+    [ "events", "da/d04/a17437.html#abb39744cdcdc8e1fbf8fd06508af35f9", null ]
 ];

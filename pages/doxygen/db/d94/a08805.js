@@ -1,6 +1,5 @@
 var a08805 =
 [
-    [ "SplineHandler", "db/d94/a08805.html#a7c5aac2d12e13bad1c38c4e8860ed27f", null ],
-    [ "operator()", "db/d94/a08805.html#aa5d1bddc2435eee76f493229740ecf9e", null ],
-    [ "_unit", "db/d94/a08805.html#aaafb07271736d8bc89d07aafbbae7f25", null ]
+    [ "Rank", "db/d94/a08805.html#a61797c7cb799308a7c20a954d287be17", null ],
+    [ "SkillId", "db/d94/a08805.html#a3f28221b1c8e91bf9f2fa6337e81c952", null ]
 ];

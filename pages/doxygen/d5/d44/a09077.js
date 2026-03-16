@@ -1,7 +1,6 @@
 var a09077 =
 [
-    [ "flags", "d5/d44/a09077.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
-    [ "fourcc", "d5/d44/a09077.html#a93b48dd741d13ff036eac8a77df9f916", null ],
-    [ "gridHeight", "d5/d44/a09077.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
-    [ "gridMaxHeight", "d5/d44/a09077.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
+    [ "Condition", "d5/d44/a09077.html#a78172859719e85a21c0a39e41c692cf4", null ],
+    [ "EventId", "d5/d44/a09077.html#aa5d7e88828c9f44b5913d4593496894f", null ],
+    [ "Num", "d5/d44/a09077.html#a7cf6141e00b1a33063409c9828773b94", null ]
 ];

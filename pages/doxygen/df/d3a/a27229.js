@@ -1,5 +1,7 @@
 var a27229 =
 [
-    [ "go_veil_skith_cage", "df/d3a/a27229.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
-    [ "OnGossipHello", "df/d3a/a27229.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
+    [ "HandleDummy", "df/d3a/a27229.html#ab046ef0adc63c32a153ba4ea866f8dcd", null ],
+    [ "PrepareSpellScript", "df/d3a/a27229.html#ac293d1c1aac41808f81cad2974424c2e", null ],
+    [ "Register", "df/d3a/a27229.html#ab145e1826eb63d0b6b1ea39a6c3c4d36", null ],
+    [ "Validate", "df/d3a/a27229.html#aa725a6ee483dfac46724d291de4ee54b", null ]
 ];

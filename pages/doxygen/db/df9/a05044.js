@@ -1,9 +1,13 @@
 var a05044 =
 [
-    [ "ManagedModel", "db/df9/a05044.html#ab641724be7e7791c2c95982acc13f3b0", null ],
-    [ "decRefCount", "db/df9/a05044.html#a5a104acbc0661b19ba2a662dc669b73d", null ],
-    [ "getModel", "db/df9/a05044.html#a053fc6647a16746fba19a0795610fea2", null ],
-    [ "setModel", "db/df9/a05044.html#aa450ae6be22d507c36a746850629831d", null ],
-    [ "iModel", "db/df9/a05044.html#a5e20d0157691bd6036247a83eea8d19b", null ],
-    [ "iRefCount", "db/df9/a05044.html#afb30ad900a5979f98276324a1ab1c328", null ]
+    [ "LogoutCancel", "de/d45/a10785.html", "de/d45/a10785" ],
+    [ "LogoutCancelAck", "db/d79/a10789.html", "db/d79/a10789" ],
+    [ "LogoutComplete", "df/d73/a10781.html", "df/d73/a10781" ],
+    [ "LogoutRequest", "df/d5f/a10773.html", "df/d5f/a10773" ],
+    [ "LogoutResponse", "d1/de2/a10777.html", "d1/de2/a10777" ],
+    [ "PlayedTime", "dc/da0/a10801.html", "dc/da0/a10801" ],
+    [ "PlayedTimeClient", "d6/d8a/a10797.html", "d6/d8a/a10797" ],
+    [ "PlayerLogout", "d8/dce/a10793.html", "d8/dce/a10793" ],
+    [ "ShowingCloak", "dd/d54/a10765.html", "dd/d54/a10765" ],
+    [ "ShowingHelm", "d6/d77/a10769.html", "d6/d77/a10769" ]
 ];

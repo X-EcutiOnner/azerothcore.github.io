@@ -1,8 +1,6 @@
 var a24793 =
 [
-    [ "CheckIfCorpseNear", "d7/db5/a24793.html#afdf1bca2e23057d99962fb1000e9245e", null ],
-    [ "HandleDummy", "d7/db5/a24793.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
-    [ "PrepareSpellScript", "d7/db5/a24793.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
-    [ "Register", "d7/db5/a24793.html#a22f4c5321769384b2b708f19edea1a66", null ],
-    [ "Validate", "d7/db5/a24793.html#a855fdba79c4fa087253505ed419b9966", null ]
+    [ "CalculateAmount", "d7/db5/a24793.html#a60d451e6b359501b138564085c87a99f", null ],
+    [ "PrepareAuraScript", "d7/db5/a24793.html#a22059b71bcfdfb9a3be59feaf8005d3f", null ],
+    [ "Register", "d7/db5/a24793.html#ab33586608d444404c07edc4ffbb717ee", null ]
 ];

@@ -1,7 +1,7 @@
 var a27465 =
 [
-    [ "npc_sayge", "d9/d5a/a27465.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
-    [ "OnGossipHello", "d9/d5a/a27465.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
-    [ "OnGossipSelect", "d9/d5a/a27465.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
-    [ "SendAction", "d9/d5a/a27465.html#aed1988335672423d024546654aa95298", null ]
+    [ "HandleDispel", "d9/d5a/a27465.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
+    [ "PrepareAuraScript", "d9/d5a/a27465.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
+    [ "Register", "d9/d5a/a27465.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
+    [ "Validate", "d9/d5a/a27465.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
 ];

@@ -1,6 +1,8 @@
 var a16921 =
 [
-    [ "boss_icehowlAI", "df/d58/a16925.html", "df/d58/a16925" ],
-    [ "boss_icehowl", "dc/df6/a16921.html#ab3c9711fa6af17be9dc7331b42c408be", null ],
-    [ "GetAI", "dc/df6/a16921.html#ac77bf3b9d954b8c6be01d0209a80cc6a", null ]
+    [ "npc_toc_warlockAI", "dc/df6/a16921.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
+    [ "JustSummoned", "dc/df6/a16921.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
+    [ "myCanCast", "dc/df6/a16921.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
+    [ "UpdateAI", "dc/df6/a16921.html#a554849d02d923439bd810b7d8c242afa", null ],
+    [ "events", "dc/df6/a16921.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
 ];

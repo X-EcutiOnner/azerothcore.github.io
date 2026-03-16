@@ -1,6 +1,6 @@
 var a12757 =
 [
-    [ "boss_gehennasAI", "d3/d44/a12757.html#aaefd1f10d03957477863df95143a95a9", null ],
-    [ "ExecuteEvent", "d3/d44/a12757.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
-    [ "JustEngagedWith", "d3/d44/a12757.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
+    [ "boss_flamegorAI", "d3/d44/a12757.html#a4b3d46c3faa566095b0cedad3df9f057", null ],
+    [ "JustEngagedWith", "d3/d44/a12757.html#a6005dca71e2f20ee599e053e531377d6", null ],
+    [ "UpdateAI", "d3/d44/a12757.html#a2e5146815e533cf62e0084a54aa222d5", null ]
 ];

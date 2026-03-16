@@ -1,10 +1,6 @@
 var a23517 =
 [
-    [ "boss_harbinger_skyriss", "d0/d71/a23517.html#a245179f74d61c2671b397e8f2473b599", null ],
-    [ "EnterEvadeMode", "d0/d71/a23517.html#a873413da06569343225e6659f8277b2c", null ],
-    [ "JustDied", "d0/d71/a23517.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
-    [ "JustEngagedWith", "d0/d71/a23517.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
-    [ "JustSummoned", "d0/d71/a23517.html#a97d84139a3e970e22d7d422f2f825f12", null ],
-    [ "KilledUnit", "d0/d71/a23517.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
-    [ "Reset", "d0/d71/a23517.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "d3/db9/a23521.html", "d3/db9/a23521" ],
+    [ "instance_blood_furnace", "d0/d71/a23517.html#a925a045fa518e72c1eff02fe3c66202b", null ],
+    [ "GetInstanceScript", "d0/d71/a23517.html#a885ba94e1777dfd6586daca304622d3d", null ]
 ];

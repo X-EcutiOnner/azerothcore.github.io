@@ -1,7 +1,6 @@
 var a17861 =
 [
-    [ "DelayedMovementEvent", "d7/d37/a17861.html#a21241cde30f66ae42edb311542f7405c", null ],
-    [ "Execute", "d7/d37/a17861.html#a8287761226ee671905151891779b6efb", null ],
-    [ "_dest", "d7/d37/a17861.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
-    [ "_owner", "d7/d37/a17861.html#a046942728282a997068de447271f3cbe", null ]
+    [ "FilterTargets", "d7/d37/a17861.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
+    [ "PrepareSpellScript", "d7/d37/a17861.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
+    [ "Register", "d7/d37/a17861.html#add40d7731b07b30b595f76f7d4e983f4", null ]
 ];

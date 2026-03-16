@@ -1,7 +1,9 @@
 var a21573 =
 [
-    [ "CheckCast", "df/df0/a21573.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
-    [ "HandleScript", "df/df0/a21573.html#a8128bb2d7588409dae73bed78d5285a7", null ],
-    [ "PrepareSpellScript", "df/df0/a21573.html#aee17a8a21ec5df027082c6990189dccc", null ],
-    [ "Register", "df/df0/a21573.html#a2a97265e102e9ce31997d99275b42973", null ]
+    [ "npc_bonker_togglevoltAI", "df/df0/a21573.html#adfd43a6a804a35e235262e55f0155ffe", null ],
+    [ "JustDied", "df/df0/a21573.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
+    [ "Reset", "df/df0/a21573.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
+    [ "UpdateEscortAI", "df/df0/a21573.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
+    [ "WaypointReached", "df/df0/a21573.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
+    [ "Bonker_agro", "df/df0/a21573.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
 ];

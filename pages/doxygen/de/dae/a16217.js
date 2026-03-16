@@ -1,5 +1,6 @@
 var a16217 =
 [
-    [ "PrepareAuraScript", "de/dae/a16217.html#a912a1aa9a77edfa672b70588c17e8002", null ],
-    [ "Register", "de/dae/a16217.html#a92ee242ff7e474858465b5d4cd408a48", null ]
+    [ "SayerEntry", "de/dae/a16217.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
+    [ "SayTimer", "de/dae/a16217.html#a942073f24fd12da712184243d9f098f2", null ],
+    [ "TextEntry", "de/dae/a16217.html#a360822e4c069be6019c0a465cb2499cf", null ]
 ];

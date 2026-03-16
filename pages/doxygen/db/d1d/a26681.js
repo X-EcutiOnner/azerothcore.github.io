@@ -1,8 +1,6 @@
 var a26681 =
 [
-    [ "Detonate", "db/d1d/a26681.html#a89f46334c78fc190afd7b03706fa2513", null ],
-    [ "HandleProc", "db/d1d/a26681.html#a82ad88c757eed35f7e0f2af38ceb2273", null ],
-    [ "PrepareAuraScript", "db/d1d/a26681.html#a7268602da6dc74d7c501fb90c8167226", null ],
-    [ "Register", "db/d1d/a26681.html#ac1574e943840e5f15a808ed4d338cd5f", null ],
-    [ "Validate", "db/d1d/a26681.html#abbc5c9d069e716d9356ec366713abb84", null ]
+    [ "HandleEffectCalcSpellMod", "db/d1d/a26681.html#a81395c735b9546632af71319067b575b", null ],
+    [ "PrepareAuraScript", "db/d1d/a26681.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
+    [ "Register", "db/d1d/a26681.html#ae49a0ec525819981595c12839133a35b", null ]
 ];

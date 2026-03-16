@@ -1,7 +1,5 @@
 var a23809 =
 [
-    [ "HandleEffect", "d0/dc2/a23809.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "d0/dc2/a23809.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "d0/dc2/a23809.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "d0/dc2/a23809.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "npc_telonicus", "d0/dc2/a23809.html#af8ba6be2d39463725bbbaf7770319a93", null ],
+    [ "ScheduleEvents", "d0/dc2/a23809.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
 ];

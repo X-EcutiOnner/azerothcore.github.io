@@ -1,7 +1,5 @@
 var a21705 =
 [
-    [ "npc_emilyAI", "de/d01/a21709.html", "de/d01/a21709" ],
-    [ "npc_emily", "db/d06/a21705.html#ab40f581fad087b3d32a7724fca97895d", null ],
-    [ "GetAI", "db/d06/a21705.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
-    [ "OnQuestAccept", "db/d06/a21705.html#ad434e7bf2427b3575a8459021e792152", null ]
+    [ "go_the_pearl_of_the_depths", "db/d06/a21705.html#a0e09ddcde0eef050400d90e9a268823a", null ],
+    [ "OnGossipHello", "db/d06/a21705.html#a745ea14136a78759a3afd7714c6d784a", null ]
 ];

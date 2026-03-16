@@ -1,8 +1,6 @@
 var a23393 =
 [
-    [ "npc_target_trigger", "d8/d2a/a23393.html#a238058ba80130c6239b7267db3247196", null ],
-    [ "Reset", "d8/d2a/a23393.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
-    [ "UpdateAI", "d8/d2a/a23393.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
-    [ "_cast", "d8/d2a/a23393.html#a4ec89ca960323f7ad135d5a425a82416", null ],
-    [ "_scheduler", "d8/d2a/a23393.html#a9b418b09e25c8f96692b4e2626339c96", null ]
+    [ "HandleScript", "d8/d2a/a23393.html#ae45f8a366c1594d3723b83ee6e006957", null ],
+    [ "PrepareSpellScript", "d8/d2a/a23393.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
+    [ "Register", "d8/d2a/a23393.html#a6b9e449a64747f0a5715424295b1c30f", null ]
 ];

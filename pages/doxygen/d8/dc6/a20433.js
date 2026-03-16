@@ -1,6 +1,8 @@
 var a20433 =
 [
-    [ "OnPeriodic", "d8/dc6/a20433.html#a8a12342f694499043e8ed4446fd92d36", null ],
-    [ "PrepareAuraScript", "d8/dc6/a20433.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
-    [ "Register", "d8/dc6/a20433.html#a381709d53101832de6b2161c4a33a0d4", null ]
+    [ "npc_ulduar_flash_freeze", "d8/dc6/a20433.html#a71c3a5c17af15cc75955d565a5d32b05", null ],
+    [ "DamageTaken", "d8/dc6/a20433.html#af381d671e1b64c6135ed6c76b1eef213", null ],
+    [ "UpdateAI", "d8/dc6/a20433.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
+    [ "pInstance", "d8/dc6/a20433.html#aa763071062842e656c5db9f7ba6bbafe", null ],
+    [ "timer", "d8/dc6/a20433.html#a016272492e1843b09c7c8b40537a463a", null ]
 ];

@@ -1,5 +1,5 @@
 var a25861 =
 [
-    [ "Trigger", "dd/d0c/a25861.html#aa16aba75a066e83cb56660a0e29e7453", null ],
-    [ "Validate", "dd/d0c/a25861.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
+    [ "PrepareSpellScript", "dd/d0c/a25861.html#a64c8a9156181a78dfcb413eedc47f0ed", null ],
+    [ "Register", "dd/d0c/a25861.html#af8f8b5901a068bef3e2663809180b3e2", null ]
 ];

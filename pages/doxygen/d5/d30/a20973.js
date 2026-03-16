@@ -1,6 +1,6 @@
 var a20973 =
 [
-    [ "npc_ravenous_furbolgAI", "d1/df2/a20977.html", "d1/df2/a20977" ],
-    [ "npc_ravenous_furbolg", "d5/d30/a20973.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
-    [ "GetAI", "d5/d30/a20973.html#a284c366e6f5bd024d9627a83dd966669", null ]
+    [ "OnRemove", "d5/d30/a20973.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
+    [ "PrepareAuraScript", "d5/d30/a20973.html#a5fb0837417b915676549370cc76c477d", null ],
+    [ "Register", "d5/d30/a20973.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
 ];

@@ -1,7 +1,10 @@
 var a27737 =
 [
-    [ "HandleKnockBack", "db/d16/a27737.html#a860fb74000a42a7d6f22d17dde93cdf6", null ],
-    [ "PrepareSpellScript", "db/d16/a27737.html#ab951d6403188f178f79311cead8a0a8f", null ],
-    [ "Register", "db/d16/a27737.html#ac62f4fdf003cdd53650fe632b3ed3ef1", null ],
-    [ "Validate", "db/d16/a27737.html#add1bd8f583772d4dfeb20f01b9fac8ed", null ]
+    [ "CheckProc", "db/d16/a27737.html#a257202ac9b80a67ce58d9e3491164d22", null ],
+    [ "HandleProc", "db/d16/a27737.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
+    [ "HandleTick", "db/d16/a27737.html#a5e436c530e5ef70bc4de4305676ed196", null ],
+    [ "PrepareAuraScript", "db/d16/a27737.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
+    [ "Register", "db/d16/a27737.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
+    [ "RemoveEffect", "db/d16/a27737.html#a333ad80d8478f59713ee049f935d7885", null ],
+    [ "Validate", "db/d16/a27737.html#aed3cb37f0230463978b210add84bd31d", null ]
 ];

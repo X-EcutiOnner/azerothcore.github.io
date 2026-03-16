@@ -1,7 +1,7 @@
 var a20329 =
 [
-    [ "HandleAfterEffectApply", "de/d8d/a20329.html#adab765d78094eec673abce5140145267", null ],
-    [ "OnApply", "de/d8d/a20329.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
-    [ "PrepareAuraScript", "de/d8d/a20329.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
-    [ "Register", "de/d8d/a20329.html#ac1007ce2ee5e046639829558855f0188", null ]
+    [ "achievement_flame_leviathan_garage", "de/d8d/a20329.html#a1893b4059d7212d023c45bb828bb1905", null ],
+    [ "OnCheck", "de/d8d/a20329.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
+    [ "_entry1", "de/d8d/a20329.html#af482d6c1b2681b9fec572281620a86b7", null ],
+    [ "_entry2", "de/d8d/a20329.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
 ];

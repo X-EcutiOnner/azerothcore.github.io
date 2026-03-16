@@ -1,5 +1,7 @@
 var a11481 =
 [
-    [ "WorldObjectSpellTrajTargetCheck", "db/d9c/a11481.html#a0c08b6b4c7878678eb419a556f718be0", null ],
-    [ "operator()", "db/d9c/a11481.html#aa1f7772cdb19914cc365a325f801b5d5", null ]
+    [ "Player", "db/d9c/a11481.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "db/d9c/a11481.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "FactionChange", "db/d9c/a11481.html#adff657ead29df26ead5e20a8ecf44e87", null ],
+    [ "Race", "db/d9c/a11481.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
 ];

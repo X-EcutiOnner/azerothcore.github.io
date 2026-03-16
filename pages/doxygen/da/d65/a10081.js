@@ -1,17 +1,10 @@
 var a10081 =
 [
-    [ "ConfusedMovementGenerator", "da/d65/a10081.html#a694dd083a1c01378e4877939f78309b8", null ],
-    [ "_InitSpecific", "da/d65/a10081.html#aea922e45838ab8a9cfe1787f0f7c169c", null ],
-    [ "_InitSpecific", "da/d65/a10081.html#a212665e4306ca335181c255573d30a06", null ],
-    [ "_InitSpecific", "da/d65/a10081.html#af597e5c544e56c255b179a08290f4ccb", null ],
-    [ "DoFinalize", "da/d65/a10081.html#a9e2a3f0e1a99436b33a883a1ac797f43", null ],
-    [ "DoFinalize", "da/d65/a10081.html#a82c2458b43334f06cae1a91224753fd3", null ],
-    [ "DoFinalize", "da/d65/a10081.html#ab18018803d8e194e9d2220eb8c6450ac", null ],
-    [ "DoInitialize", "da/d65/a10081.html#a8f1e9d0e00517b0d7f88b4213fd25104", null ],
-    [ "DoReset", "da/d65/a10081.html#a734a73ffa4008898a170b913aafce899", null ],
-    [ "DoUpdate", "da/d65/a10081.html#a8703ba139d90194a481388a543a14de6", null ],
-    [ "GetMovementGeneratorType", "da/d65/a10081.html#a3f0760b38745b9e065e069d6ad984d51", null ],
-    [ "i_nextMove", "da/d65/a10081.html#ad36fe1fd2d07af01691a319c425dc92c", null ],
-    [ "i_nextMoveTime", "da/d65/a10081.html#ad7b5bb65d55f6149e8df8cb4e2cdda50", null ],
-    [ "i_waypoints", "da/d65/a10081.html#a02b83b879cc31fb1a0e2f90e97556ba1", null ]
+    [ "ZoneDynamicInfo", "da/d65/a10081.html#a0542940fdcc273a4ff8a8e8bb6a40b1f", null ],
+    [ "DefaultWeather", "da/d65/a10081.html#a8c2c7772596ec58413bee2077e46790f", null ],
+    [ "LightFadeInTime", "da/d65/a10081.html#a0be8cff9a7e74add7bba8af3be993e48", null ],
+    [ "MusicId", "da/d65/a10081.html#a3ab0244b34c30cc7d929b418da31d7d3", null ],
+    [ "OverrideLightId", "da/d65/a10081.html#a0d43acd5539d3449b7c36ee88518346e", null ],
+    [ "WeatherGrade", "da/d65/a10081.html#a923c3231c49554addd1522f0ccc50e2d", null ],
+    [ "WeatherId", "da/d65/a10081.html#a4df1e694992a3c2638460601e4c4d7c9", null ]
 ];

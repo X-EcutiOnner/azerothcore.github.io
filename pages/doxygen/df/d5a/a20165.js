@@ -1,6 +1,12 @@
 var a20165 =
 [
-    [ "achievement_flame_leviathan_towers", "df/d5a/a20165.html#a491d66bdd373b6044e406126719ef910", null ],
-    [ "OnCheck", "df/d5a/a20165.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
-    [ "_towerCount", "df/d5a/a20165.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
+    [ "npc_assembly_lightning", "df/d5a/a20165.html#a8fcec558ec18de7bd9545779ded9e909", null ],
+    [ "AttackStart", "df/d5a/a20165.html#a140d4166e99c223b674e55b67d709613", null ],
+    [ "EnterEvadeMode", "df/d5a/a20165.html#a287f1e4fad8c8a046acc15952e2cb0b9", null ],
+    [ "MoveInLineOfSight", "df/d5a/a20165.html#a3b3ec1402907a84c0ec17522568348c6", null ],
+    [ "MovementInform", "df/d5a/a20165.html#a3117383b1d3bce6a3bbc8445e5ea7a71", null ],
+    [ "OnCharmed", "df/d5a/a20165.html#a72e93f6e1ca82e82f8f3cc051f0f1345", null ],
+    [ "Reset", "df/d5a/a20165.html#aee99895b9c4d1b5f4d1a2ae7f4bd09a8", null ],
+    [ "UpdateAI", "df/d5a/a20165.html#a0ae73d6c38064d80a7297045f2b829dd", null ],
+    [ "_boomed", "df/d5a/a20165.html#a13074c840c7e4dc94a2b30741f62ec00", null ]
 ];

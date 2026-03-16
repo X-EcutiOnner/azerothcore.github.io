@@ -1,6 +1,6 @@
 var a18049 =
 [
-    [ "CheckProc", "d9/d1f/a18049.html#a86e62fa26606a77284c80583e7b35d27", null ],
-    [ "PrepareAuraScript", "d9/d1f/a18049.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
-    [ "Register", "d9/d1f/a18049.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
+    [ "npc_zafod_boomboxAI", "d0/dac/a18053.html", "d0/dac/a18053" ],
+    [ "npc_zafod_boombox", "d9/d1f/a18049.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
+    [ "GetAI", "d9/d1f/a18049.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
 ];

@@ -1,6 +1,8 @@
 var a16361 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "d0/db2/a16365.html", "d0/db2/a16365" ],
-    [ "npc_baltharus_the_warborn_clone", "d4/d04/a16361.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
-    [ "GetAI", "d4/d04/a16361.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
+    [ "instance_ahnkahet_InstanceScript", "d4/d04/a16361.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
+    [ "IsAllSpheresActivated", "d4/d04/a16361.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
+    [ "OnGameObjectCreate", "d4/d04/a16361.html#ad00fdc90a61e1c927323daa2149f8466", null ],
+    [ "SetData", "d4/d04/a16361.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
+    [ "taldaramPlatform_GUID", "d4/d04/a16361.html#a840ce69595c384be321c1167513d151e", null ]
 ];

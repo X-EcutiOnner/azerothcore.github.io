@@ -1,9 +1,14 @@
 var a20869 =
 [
-    [ "npc_ulduar_keeperAI", "d0/de0/a20869.html#ac69d21f3820f2c01a80ff664c317d111", null ],
-    [ "DoAction", "d0/de0/a20869.html#a03011d04761926d67e43c0bea5a0901f", null ],
-    [ "Reset", "d0/de0/a20869.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
-    [ "SpellHit", "d0/de0/a20869.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
-    [ "UpdateAI", "d0/de0/a20869.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
-    [ "_keeper", "d0/de0/a20869.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
+    [ "boss_yoggsaron_cloud", "d0/de0/a20869.html#a905612697cf1c1d4fd155af61bf6866d", null ],
+    [ "AttackStart", "d0/de0/a20869.html#a280ad77f30f06c01ee16434794814767", null ],
+    [ "DoAction", "d0/de0/a20869.html#ad7452d20420fc1fc30088e455a9cdfc3", null ],
+    [ "InitWaypoint", "d0/de0/a20869.html#a390c25b21c29aafb616bd2c827352ffe", null ],
+    [ "JustSummoned", "d0/de0/a20869.html#a2c321419548e8ce151d639c3fbd7b1b4", null ],
+    [ "MoveInLineOfSight", "d0/de0/a20869.html#a798009bca30677a645529b1313cc89ae", null ],
+    [ "Reset", "d0/de0/a20869.html#ad548ae65a05f600487a57899760ebab0", null ],
+    [ "UpdateEscortAI", "d0/de0/a20869.html#aba8043fca75864e583da9c5167efce3b", null ],
+    [ "WaypointReached", "d0/de0/a20869.html#aae9f3ac55a3008fcc88d78c907056827", null ],
+    [ "_checkTimer", "d0/de0/a20869.html#aa6fda2f2b1d3405bd1aca66e37abbcd8", null ],
+    [ "_isSummoning", "d0/de0/a20869.html#a339bf4c5ef6449d42aa3c36759a99aa4", null ]
 ];

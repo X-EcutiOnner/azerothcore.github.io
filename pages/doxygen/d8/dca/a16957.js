@@ -1,9 +1,6 @@
 var a16957 =
 [
-    [ "npc_concentrated_ballAI", "d8/dca/a16957.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
-    [ "DoAction", "d8/dca/a16957.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
-    [ "MovementInform", "d8/dca/a16957.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
-    [ "MoveToNextPoint", "d8/dca/a16957.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
-    [ "UpdateAI", "d8/dca/a16957.html#a6509ff14639bca29b6877db54102d004", null ],
-    [ "despawning", "d8/dca/a16957.html#a24145c6c4c38b5a1853647d24871090d", null ]
+    [ "npc_toc_dkAI", "d7/d08/a16961.html", "d7/d08/a16961" ],
+    [ "npc_toc_dk", "d8/dca/a16957.html#ac8b2c11f64f9cc6f4be91be1e3184b8a", null ],
+    [ "GetAI", "d8/dca/a16957.html#ac5252f0f7ab993c8187aff17dac7a795", null ]
 ];

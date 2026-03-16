@@ -1,12 +1,17 @@
 var a10577 =
 [
-    [ "Packet", "d2/d02/a10577.html#a316af2b7ce1ac7189fb1e57f534bad11", null ],
-    [ "~Packet", "d2/d02/a10577.html#a2ca1e6377bb2fb10bf042311e72eb5d4", null ],
-    [ "Packet", "d2/d02/a10577.html#a00213b64110a99004b3d9a6b38876cd4", null ],
-    [ "GetRawPacket", "d2/d02/a10577.html#a9d8649e1b035fe7387dcee3e0b062a5e", null ],
-    [ "GetSize", "d2/d02/a10577.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a", null ],
-    [ "operator=", "d2/d02/a10577.html#a6d2afd0d4b0d7daff11868854b7c4715", null ],
-    [ "Read", "d2/d02/a10577.html#a94afc4d66c2b5bced3063bab5a666bfd", null ],
-    [ "Write", "d2/d02/a10577.html#af7c79156d7b6cfe3142fc530f9ed262a", null ],
-    [ "_worldPacket", "d2/d02/a10577.html#ab85f1c9f20117bc5015180165c7b458a", null ]
+    [ "GameObjectScript", "d2/d02/a10577.html#a9d9cf73435a16d7fef450134c03980bb", null ],
+    [ "GetAI", "d2/d02/a10577.html#a05492473fa28c0f7c80770aa3445ce4e", null ],
+    [ "GetDialogStatus", "d2/d02/a10577.html#ac526fbe66b9b1e9edca51f9fd20a40b9", null ],
+    [ "IsDatabaseBound", "d2/d02/a10577.html#a020e07dfd6e99b55bf5c8e56cfdd3948", null ],
+    [ "OnDamaged", "d2/d02/a10577.html#a2fb7d0f8f01ce083643bc0cb810fc612", null ],
+    [ "OnDestroyed", "d2/d02/a10577.html#a042676e98453494ab49bb90216755052", null ],
+    [ "OnGameObjectStateChanged", "d2/d02/a10577.html#a4992d88f026bf906852f085db4e8768e", null ],
+    [ "OnGossipHello", "d2/d02/a10577.html#a58b56fc92ae87aea0530eceba1f3088d", null ],
+    [ "OnGossipSelect", "d2/d02/a10577.html#a612884c70eed9c56958ab49dc1e2bb1f", null ],
+    [ "OnGossipSelectCode", "d2/d02/a10577.html#ac9c9feb4d08ea0e5ad202ada205a9772", null ],
+    [ "OnLootStateChanged", "d2/d02/a10577.html#ab93c178f2137e92da28665d28bfec1d5", null ],
+    [ "OnModifyHealth", "d2/d02/a10577.html#a1ff457beae2b6249a9d3ecd08fd1b5a4", null ],
+    [ "OnQuestAccept", "d2/d02/a10577.html#afd22217feca39340d68b9c7fd6c1caa8", null ],
+    [ "OnQuestReward", "d2/d02/a10577.html#a233712ff412081583a8295cf512da48d", null ]
 ];

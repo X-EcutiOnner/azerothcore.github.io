@@ -1,5 +1,6 @@
 var a04754 =
 [
-    [ "player_commandscript", "df/d52/a12234.html", "df/d52/a12234" ],
-    [ "AddSC_player_commandscript", "d2/d6c/a04754.html#a3a4a77162d5b304dab9a8c8e397c3516", null ]
+    [ "character_commandscript", "df/d41/a12089.html", "df/d41/a12089" ],
+    [ "character_commandscript::DeletedInfo", "d3/d8b/a12093.html", "d3/d8b/a12093" ],
+    [ "AddSC_character_commandscript", "d2/d6c/a04754.html#a97f9cac12c34068d5e63b2ed28ddf9e2", null ]
 ];

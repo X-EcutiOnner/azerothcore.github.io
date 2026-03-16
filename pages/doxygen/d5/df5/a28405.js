@@ -1,16 +1,8 @@
 var a28405 =
 [
-    [ "GetAddressForClient", "d5/df5/a28405.html#a2a3f3db57bb7e6f69ca4f030b65c7331", null ],
-    [ "AllowedSecurityLevel", "d5/df5/a28405.html#a25e953d80aa3c80e068afe6b57f67d99", null ],
-    [ "Build", "d5/df5/a28405.html#a64533e919d8c3a37bd5668af77d09166", null ],
-    [ "ExternalAddress", "d5/df5/a28405.html#a703504aaf54f1ecf934b9184e9737367", null ],
-    [ "Flags", "d5/df5/a28405.html#a1984cc9564b01b6456f31f77fd65a6d6", null ],
-    [ "Id", "d5/df5/a28405.html#ab0ccda7e7a58eee0965261767f3ee2ee", null ],
-    [ "LocalAddress", "d5/df5/a28405.html#a61f429ddc92895e66dff2808e17cc322", null ],
-    [ "LocalSubnetMask", "d5/df5/a28405.html#a52a4b2704e7f76d8ea296148cefb9482", null ],
-    [ "Name", "d5/df5/a28405.html#a9381717fdc924158ecd61a8f00488fc0", null ],
-    [ "PopulationLevel", "d5/df5/a28405.html#a63cdbd47c50f368974b43c3db2f32cee", null ],
-    [ "Port", "d5/df5/a28405.html#a0131d758f10cbae0c610c2c088299feb", null ],
-    [ "Timezone", "d5/df5/a28405.html#a377055c4729f21beecb8601cd79017db", null ],
-    [ "Type", "d5/df5/a28405.html#af77452a4cf7f632d692079615af4737c", null ]
+    [ "npc_artoriusAI", "d2/df6/a28409.html", "d2/df6/a28409" ],
+    [ "npc_artorius", "d5/df5/a28405.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
+    [ "GetAI", "d5/df5/a28405.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
+    [ "OnGossipHello", "d5/df5/a28405.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
+    [ "OnGossipSelect", "d5/df5/a28405.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
 ];

@@ -1,8 +1,6 @@
 var a12401 =
 [
-    [ "boss_highlordomokkAI", "d3/d59/a12401.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
-    [ "JustDied", "d3/d59/a12401.html#ac7e125b4350880d3d195b915c8be9de0", null ],
-    [ "JustEngagedWith", "d3/d59/a12401.html#a072dc582f931deb7d1e0db9ad535f146", null ],
-    [ "Reset", "d3/d59/a12401.html#a627390013798de7a53a95817624417e3", null ],
-    [ "UpdateAI", "d3/d59/a12401.html#a38e6008d616131d2876ae5a085a083ff", null ]
+    [ "boss_draganthaurissanAI", "d5/d77/a12405.html", "d5/d77/a12405" ],
+    [ "boss_emperor_dagran_thaurissan", "d3/d59/a12401.html#a8332d74b5aa1528d5687084932419ad1", null ],
+    [ "GetAI", "d3/d59/a12401.html#aca2c4ca4e32ce75d95b42ddd88c4dc99", null ]
 ];

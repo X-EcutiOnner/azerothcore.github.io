@@ -1,6 +1,5 @@
 var a11649 =
 [
-    [ "EffectUpdatePeriodicHandler", "d7/da4/a11649.html#a6b18a259aa84c847bcc064c5243eb590", null ],
-    [ "Call", "d7/da4/a11649.html#a38802863e7859453cbbe58ad91018c67", null ],
-    [ "pEffectHandlerScript", "d7/da4/a11649.html#a0e51245e089fcd9532d5789056ab944c", null ]
+    [ "ImplicitTargetType", "d7/da4/a11649.html#adc4268d74a3f0b47902e16eea2fc854a", null ],
+    [ "UsedTargetObjectType", "d7/da4/a11649.html#a7bbc11d4a7a68f9441d393c7b48f5231", null ]
 ];

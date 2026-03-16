@@ -1,9 +1,10 @@
 var a21437 =
 [
-    [ "npc_bloodmage_laurithAI", "d4/d45/a21437.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "d4/d45/a21437.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "d4/d45/a21437.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
-    [ "UpdateAI", "d4/d45/a21437.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "d4/d45/a21437.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "d4/d45/a21437.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "npc_azure_binderAI", "d4/d45/a21437.html#ad532d350493a35804660f90a9f00f3cf", null ],
+    [ "Reset", "d4/d45/a21437.html#aa317ce32f3439286e9a4ac0928d48b3a", null ],
+    [ "UpdateAI", "d4/d45/a21437.html#a322ae0210ccb24206aee49c4fa7fe2bc", null ],
+    [ "uiArcainBarrageTimer", "d4/d45/a21437.html#a0e577611e3e11209cc175cd71cd86bc9", null ],
+    [ "uiArcaneExplosionTimer", "d4/d45/a21437.html#aa5cc777f777166e88a21e98a4ce2b8d3", null ],
+    [ "uiFrostboltTimer", "d4/d45/a21437.html#a405ec0f2d92e4a1f5f7901e725465604", null ],
+    [ "uiFrostNovaTimer", "d4/d45/a21437.html#a0f6396376e14711f87f1a046728ce386", null ]
 ];

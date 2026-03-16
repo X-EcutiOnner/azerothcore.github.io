@@ -1,7 +1,15 @@
 var a23117 =
 [
-    [ "PeriodicTick", "de/d9a/a23117.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
-    [ "PrepareAuraScript", "de/d9a/a23117.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
-    [ "Register", "de/d9a/a23117.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
-    [ "Validate", "de/d9a/a23117.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
+    [ "boss_hydross_the_unstable", "de/d9a/a23117.html#a8e385f4f7f448033b00828540aa16cde", null ],
+    [ "JustDied", "de/d9a/a23117.html#ad05fa00eade9614ed54b03a9a4d5d348", null ],
+    [ "JustEngagedWith", "de/d9a/a23117.html#a4fd2138ce9962d89410b57702d7df33d", null ],
+    [ "JustReachedHome", "de/d9a/a23117.html#a03cbe48effc4cd3a2821312e60578ed4", null ],
+    [ "JustSummoned", "de/d9a/a23117.html#a3e9031d95c9e62cbd83eeba4af6c965a", null ],
+    [ "KilledUnit", "de/d9a/a23117.html#a252d3abdf24c06922c88823bc5e535f3", null ],
+    [ "Reset", "de/d9a/a23117.html#a0bcad41c74800ab58df8b5ea54d2ec8e", null ],
+    [ "SetForm", "de/d9a/a23117.html#ac80b0611533998d15406d45385d37629", null ],
+    [ "SummonedCreatureDespawn", "de/d9a/a23117.html#afe4b76f528045506586f8289eaee27aa", null ],
+    [ "SummonMovementInform", "de/d9a/a23117.html#af74b63bf239de38f8dd04e69a6ea2b54", null ],
+    [ "SummonTaintedElementalOOC", "de/d9a/a23117.html#a219094dc5a81acb7d7ae86d5d7945da8", null ],
+    [ "_recentlySpoken", "de/d9a/a23117.html#acfd0f1a6331b08659c5fffa7850d30b4", null ]
 ];

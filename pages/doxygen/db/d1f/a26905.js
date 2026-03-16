@@ -1,5 +1,7 @@
 var a26905 =
 [
-    [ "achievement_sa_defense_of_the_ancients", "db/d1f/a26905.html#a678cffdece32710a42a92db0c092f3a5", null ],
-    [ "OnCheck", "db/d1f/a26905.html#af23e346f9b022f490b84c8081f847a2f", null ]
+    [ "HandleApplyEffect", "db/d1f/a26905.html#af95120b26a165196e0310956c245f36f", null ],
+    [ "HandleRemoveEffect", "db/d1f/a26905.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
+    [ "PrepareAuraScript", "db/d1f/a26905.html#ae19e002407db1466f0655db3d14fe0d7", null ],
+    [ "Register", "db/d1f/a26905.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
 ];

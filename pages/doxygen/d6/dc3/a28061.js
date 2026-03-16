@@ -1,6 +1,6 @@
 var a28061 =
 [
-    [ "Id", "d6/dc3/a28061.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
-    [ "Order", "d6/dc3/a28061.html#a16fca42d9a0a98e034a93984c4362b53", null ],
-    [ "TypeFlags", "d6/dc3/a28061.html#ac7246adc7c6c3217de8ac093983b7553", null ]
+    [ "npc_dream_fogAI", "db/d37/a28065.html", "db/d37/a28065" ],
+    [ "npc_dream_fog", "d6/dc3/a28061.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
+    [ "GetAI", "d6/dc3/a28061.html#a48c45fec086e3a50462deed44734ba38", null ]
 ];

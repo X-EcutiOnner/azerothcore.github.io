@@ -1,6 +1,6 @@
 var a17109 =
 [
-    [ "FilterTargets", "d7/dee/a17109.html#a36879a2920f43562bb0ff89c76d758e4", null ],
-    [ "PrepareSpellScript", "d7/dee/a17109.html#afeb95c5fe970ebc147d509981b026e98", null ],
-    [ "Register", "d7/dee/a17109.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
+    [ "npc_concentrated_ballAI", "d0/d9e/a17113.html", "d0/d9e/a17113" ],
+    [ "npc_concentrated_ball", "d7/dee/a17109.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
+    [ "GetAI", "d7/dee/a17109.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
 ];

@@ -1,4 +1,6 @@
 var a11125 =
 [
-    [ "InvalidUtf8ValueException", "de/d7a/a11125.html#ad629b46d769fbf8784ce3c4a04c1f121", null ]
+    [ "ListInventory", "de/d7a/a11125.html#a7b0432d3b1243bdf6d70f9f55ee0f614", null ],
+    [ "Read", "de/d7a/a11125.html#a2fd1298c1da842824fca7d971cb2028b", null ],
+    [ "VendorGuid", "de/d7a/a11125.html#a9c6288866c870b4a82169fe7fbef4512", null ]
 ];

@@ -1,7 +1,6 @@
 var a20837 =
 [
-    [ "HandleProc", "de/ddc/a20837.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "de/ddc/a20837.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "de/ddc/a20837.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "de/ddc/a20837.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "HandleScript", "de/ddc/a20837.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
+    [ "PrepareSpellScript", "de/ddc/a20837.html#a4fd05478a145157dbd8377532033ab95", null ],
+    [ "Register", "de/ddc/a20837.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
 ];

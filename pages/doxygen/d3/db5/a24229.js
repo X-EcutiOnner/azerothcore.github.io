@@ -1,8 +1,9 @@
 var a24229 =
 [
-    [ "npc_pet_darting_hatchling", "d3/db5/a24229.html#a7ae5973061068396bf382dc21e88cd44", null ],
-    [ "SpellHit", "d3/db5/a24229.html#a29ea5438bab7e606175c02165a607f9b", null ],
-    [ "UpdateAI", "d3/db5/a24229.html#a23196d05aebe5fa4a65455c55368820a", null ],
-    [ "checkTimer", "d3/db5/a24229.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
-    [ "goFast", "d3/db5/a24229.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
+    [ "npc_korkron_or_wildhammer", "d3/db5/a24229.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
+    [ "IsSummonedBy", "d3/db5/a24229.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
+    [ "JustDied", "d3/db5/a24229.html#a2b216f372b3681b4c96a711568c2a93b", null ],
+    [ "MovementInform", "d3/db5/a24229.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
+    [ "Reset", "d3/db5/a24229.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
+    [ "_playerGUID", "d3/db5/a24229.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
 ];

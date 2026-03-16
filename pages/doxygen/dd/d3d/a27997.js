@@ -1,10 +1,5 @@
 var a27997 =
 [
-    [ "HasFlag", "dd/d3d/a27997.html#abe23ca5437589a38ea57bc93a6197911", null ],
-    [ "CollisionHeight", "dd/d3d/a27997.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
-    [ "CollisionWidth", "dd/d3d/a27997.html#ab79497759cf169348b8922301fc43b2f", null ],
-    [ "Flags", "dd/d3d/a27997.html#a3bb96e232124771e78f8b5db53405106", null ],
-    [ "Id", "dd/d3d/a27997.html#aa19fec147703c7542be260c8ec5a0446", null ],
-    [ "MountHeight", "dd/d3d/a27997.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
-    [ "Scale", "dd/d3d/a27997.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
+    [ "achievement_killed_exp_or_honor_target", "dd/d3d/a27997.html#aad432878c97af698dd1cc4019d716281", null ],
+    [ "OnCheck", "dd/d3d/a27997.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
 ];

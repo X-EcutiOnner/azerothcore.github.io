@@ -1,10 +1,7 @@
 var a05537 =
 [
-    [ "AsyncCallbackProcessor", "d0/d8e/a05537.html#aee6f273ab86fad749de85cd12ea32a98", null ],
-    [ "~AsyncCallbackProcessor", "d0/d8e/a05537.html#a0a1b8fb7112485c9461387b6effcd56b", null ],
-    [ "AsyncCallbackProcessor", "d0/d8e/a05537.html#af575ef04d5b2440ad3a787348e5baf9a", null ],
-    [ "AddCallback", "d0/d8e/a05537.html#a47ef165fe4c31f46998f69e8e16625f1", null ],
-    [ "operator=", "d0/d8e/a05537.html#ae95508c8bd67d6246279f37cbe6ca8d3", null ],
-    [ "ProcessReadyCallbacks", "d0/d8e/a05537.html#a4fce127f587a9da913a9e9061ba538e7", null ],
-    [ "_callbacks", "d0/d8e/a05537.html#a372d9496b9a1b3e3f718cefe50164209", null ]
+    [ "TypeContainerVisitor", "d0/d8e/a05537.html#a1dd5b1ac8e4703358a32431efed8faa2", null ],
+    [ "Visit", "d0/d8e/a05537.html#adf0874fc1f8bb38d2f62530f5667c836", null ],
+    [ "Visit", "d0/d8e/a05537.html#af8110dd70655223f06fb08b552420a6d", null ],
+    [ "i_visitor", "d0/d8e/a05537.html#a7be8eccd05fd489da52e587f51555891", null ]
 ];

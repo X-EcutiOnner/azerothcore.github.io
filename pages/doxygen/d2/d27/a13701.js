@@ -1,6 +1,5 @@
 var a13701 =
 [
-    [ "CastArmageddon", "d2/d27/a13701.html#a2e90929b63e6151252aa01a55dbd801f", null ],
-    [ "Execute", "d2/d27/a13701.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
-    [ "_caster", "d2/d27/a13701.html#a1e70887099a7a47b7c26517d4363ad93", null ]
+    [ "at_malfurion_stormrage", "d2/d27/a13701.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
+    [ "OnTrigger", "d2/d27/a13701.html#a0aa7818bd09b8a456d1ebbaa7d5f5c1d", null ]
 ];

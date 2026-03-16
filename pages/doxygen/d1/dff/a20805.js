@@ -1,8 +1,9 @@
 var a20805 =
 [
-    [ "FilterTargets", "d1/dff/a20805.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
-    [ "HandleDummyEffect", "d1/dff/a20805.html#ab1f662fa107d176386067ffc6467d90f", null ],
-    [ "PrepareSpellScript", "d1/dff/a20805.html#a069cc54bf009830ad781c790b4fcedad", null ],
-    [ "Register", "d1/dff/a20805.html#ac91532151b689bde35d7120b1e9aec5b", null ],
-    [ "Validate", "d1/dff/a20805.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
+    [ "npc_xt002_scrapbot", "d1/dff/a20805.html#a0c7270ccbac5c12af8aaec998408046f", null ],
+    [ "JustDied", "d1/dff/a20805.html#ac6c9cf84bf11e31bcaf620d4c92fa3d0", null ],
+    [ "MovementInform", "d1/dff/a20805.html#a7c167b396927f73736531b53056bc262", null ],
+    [ "Reset", "d1/dff/a20805.html#aa9753f72910da1bb56a090e77fc029fb", null ],
+    [ "UpdateAI", "d1/dff/a20805.html#a3f5cffc3225ced1ccdf3fc0964cc2c05", null ],
+    [ "_locked", "d1/dff/a20805.html#aaa4e129ebea658b0f2e224e024f6010f", null ]
 ];

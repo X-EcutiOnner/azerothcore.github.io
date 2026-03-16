@@ -1,10 +1,15 @@
 var a19557 =
 [
-    [ "npc_power_spark", "d6/daf/a19557.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
-    [ "DamageTaken", "d6/daf/a19557.html#afe33d511823666929232bfd0179ee72a", null ],
-    [ "DoAction", "d6/daf/a19557.html#ab99a859ee718d49ce59171e7e7159abc", null ],
-    [ "UpdateAI", "d6/daf/a19557.html#ab36e75c87aa262a57be1594289284730", null ],
-    [ "_checkTimer", "d6/daf/a19557.html#ae63f0f359037363b840fe51a797969b5", null ],
-    [ "_instance", "d6/daf/a19557.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
-    [ "_moveTimer", "d6/daf/a19557.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
+    [ "boss_kelthuzad_minionAI", "d6/daf/a19557.html#addeb3112e8b6da5713e6c25878c7e785", null ],
+    [ "AttackStart", "d6/daf/a19557.html#ae6e2b0dd529f819b5b62348059dacb02", null ],
+    [ "DoAction", "d6/daf/a19557.html#acd08aa78c1620f5552bbbc77c06b4344", null ],
+    [ "JustDied", "d6/daf/a19557.html#abc6db76c9dcdbdb1c51b7f67d4c39551", null ],
+    [ "JustEngagedWith", "d6/daf/a19557.html#a135dd028f95eeb34b2852e8dafebbe63", null ],
+    [ "JustReachedHome", "d6/daf/a19557.html#aedfaf037ddf66d0e3aa990b4ea5b171c", null ],
+    [ "KilledUnit", "d6/daf/a19557.html#ac8a2297a89310f4902fdc544ef71b673", null ],
+    [ "MoveInLineOfSight", "d6/daf/a19557.html#aee871ff356bcfd38162a5f6c9bd3c994", null ],
+    [ "Reset", "d6/daf/a19557.html#a01db0df4ec5f49d0915e90c418ebba75", null ],
+    [ "UpdateAI", "d6/daf/a19557.html#ad60ec485144e447fd9d43b0cd5d6c87c", null ],
+    [ "callHelp", "d6/daf/a19557.html#a6c6935e058bc18c013bc31f03f5a914b", null ],
+    [ "events", "d6/daf/a19557.html#a2885d65bfaf345e7c3dfa42d8c80a892", null ]
 ];

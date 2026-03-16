@@ -1,9 +1,6 @@
 var a26977 =
 [
-    [ "emerald_dragonAI", "df/ddd/a26977.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
-    [ "ExecuteEvent", "df/ddd/a26977.html#a6e60f146c7b86a119f269bf755831ac6", null ],
-    [ "JustSummoned", "df/ddd/a26977.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
-    [ "KilledUnit", "df/ddd/a26977.html#a69b24bf865ecd38822d5602314cddf11", null ],
-    [ "Reset", "df/ddd/a26977.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
-    [ "UpdateAI", "df/ddd/a26977.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
+    [ "CheckCast", "df/ddd/a26977.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
+    [ "PrepareSpellScript", "df/ddd/a26977.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
+    [ "Register", "df/ddd/a26977.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
 ];

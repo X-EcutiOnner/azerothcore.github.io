@@ -1,19 +1,9 @@
 var a14529 =
 [
-    [ "npc_dark_iron_guzzler", "db/dfa/a14529.html#a53ce152d0bf8e727ed0b385bb2293363", null ],
-    [ "AttackStart", "db/dfa/a14529.html#a47295b69eaecf3c001c43a1550dd1a80", null ],
-    [ "DamageTaken", "db/dfa/a14529.html#affd1f78b5c1df26824b08416d6bd03a1", null ],
-    [ "FindNextKeg", "db/dfa/a14529.html#ac063799097f89c09f30bed79151e8ed6", null ],
-    [ "GetTarget", "db/dfa/a14529.html#a076305d37ce348b24b35f7956385e8fc", null ],
-    [ "JustEngagedWith", "db/dfa/a14529.html#ae8142b745e493ab4a77b9df12ea9474d", null ],
-    [ "KilledUnit", "db/dfa/a14529.html#a018513f23158fcd6f929a90cfecfde4c", null ],
-    [ "MoveInLineOfSight", "db/dfa/a14529.html#aaa4df56f1f587029b24626ae1aca552a", null ],
-    [ "MovementInform", "db/dfa/a14529.html#ada6c7f97e25eb545926d6531495bb397", null ],
-    [ "Reset", "db/dfa/a14529.html#af608024d4b41fa218a7baeae9bee72ef", null ],
-    [ "SayText", "db/dfa/a14529.html#a872bdd2e2ff2b72c983658c63d74e2c3", null ],
-    [ "SpellHit", "db/dfa/a14529.html#ae195867416885e570c2c9a4837ac33c1", null ],
-    [ "UpdateAI", "db/dfa/a14529.html#a5decab6f76369ec9ce037dd050898423", null ],
-    [ "attacking", "db/dfa/a14529.html#a18a1d7e61b99819666366c6791154e01", null ],
-    [ "targetGUID", "db/dfa/a14529.html#a620df1502373954020a910853cb6dd3a", null ],
-    [ "timer", "db/dfa/a14529.html#a9748d587b61c148a27be690a6354473f", null ]
+    [ "npc_healing_ward", "db/dfa/a14529.html#a3d3c35f61502d3a83cb2581119e08903", null ],
+    [ "JustEngagedWith", "db/dfa/a14529.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
+    [ "Reset", "db/dfa/a14529.html#a756d27a43d86c7ecde859df255c6bd62", null ],
+    [ "UpdateAI", "db/dfa/a14529.html#a8b8635af33ce814602206064e0815520", null ],
+    [ "_instance", "db/dfa/a14529.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
+    [ "_scheduler", "db/dfa/a14529.html#a0c62fe945b491cab76175217a7d10c06", null ]
 ];

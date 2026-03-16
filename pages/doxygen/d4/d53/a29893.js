@@ -1,8 +1,6 @@
 var a29893 =
 [
-    [ "DBCFile", "dc/df6/a28882.html", "dc/df6/a28882" ],
-    [ "DBCFile::Exception", "d6/de5/a28886.html", "d6/de5/a28886" ],
-    [ "DBCFile::NotFound", "d1/df5/a28890.html", "d1/df5/a28890" ],
-    [ "DBCFile::Record", "da/d6d/a28894.html", "da/d6d/a28894" ],
-    [ "DBCFile::Iterator", "da/dcf/a28898.html", "da/dcf/a28898" ]
+    [ "OffsetAttributes", "d4/d53/a29893.html#a072918c298b316823e784c2e5779be2a", null ],
+    [ "OffsetInstances", "d4/d53/a29893.html#abb618c81b9ee9de03c3d4cf8689f5cd4", null ],
+    [ "used", "d4/d53/a29893.html#a20a458e613639ea26255dd772824a642", null ]
 ];

@@ -1,6 +1,11 @@
 var a17593 =
 [
-    [ "boss_prince_taldaramAI", "dc/d74/a17597.html", "dc/d74/a17597" ],
-    [ "boss_prince_taldaram_icc", "df/d59/a17593.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
-    [ "GetAI", "df/d59/a17593.html#a2a8c89206ab72afc68260f41a246da3b", null ]
+    [ "npc_pos_leader_secondAI", "df/d59/a17593.html#a2ded8591da2548921cd016d592d1f1c8", null ],
+    [ "DoAction", "df/d59/a17593.html#a941d3b42d6a0e58496b724af56fee44a", null ],
+    [ "MovementInform", "df/d59/a17593.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
+    [ "SpellHitTarget", "df/d59/a17593.html#ae630b7b225379831d15a11f66507bc6a", null ],
+    [ "UpdateAI", "df/d59/a17593.html#a640aea9ce4a47dd13d417748e533fc33", null ],
+    [ "barrierGUID", "df/d59/a17593.html#a452c096475581c12bf2f4ccb12448026", null ],
+    [ "events", "df/d59/a17593.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
+    [ "pInstance", "df/d59/a17593.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
 ];

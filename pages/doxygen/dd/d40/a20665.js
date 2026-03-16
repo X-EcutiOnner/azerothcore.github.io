@@ -1,7 +1,9 @@
 var a20665 =
 [
-    [ "FilterTargets", "dd/d40/a20665.html#a582691eca81b6db6d78ca925ad8fb084", null ],
-    [ "PrepareSpellScript", "dd/d40/a20665.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
-    [ "RecalculateDamage", "dd/d40/a20665.html#a02c1af0414de344056b2375488f23c01", null ],
-    [ "Register", "dd/d40/a20665.html#a1e030067944878000b731edf456d6bc8", null ]
+    [ "npc_ulduar_emergency_fire_bot", "dd/d40/a20665.html#a1b74d8fc5c0e37a1f2c54be11d6afffc", null ],
+    [ "AttackStart", "dd/d40/a20665.html#ab319353cab89d6f1bcb9be7f8e273600", null ],
+    [ "MoveInLineOfSight", "dd/d40/a20665.html#a1d217847b4aa4d199bc7060820b2d0fb", null ],
+    [ "MovementInform", "dd/d40/a20665.html#a6f7306e3da54511ddbef772044f76950", null ],
+    [ "UpdateAI", "dd/d40/a20665.html#a653df31873aca5acb86020cc1e14f4a0", null ],
+    [ "events", "dd/d40/a20665.html#a4afecd5bc403cd4a2bee1aa3b62612a7", null ]
 ];

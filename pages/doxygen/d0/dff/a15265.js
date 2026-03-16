@@ -1,6 +1,6 @@
 var a15265 =
 [
-    [ "instance_ragefire_chasm_InstanceMapScript", "db/dd4/a15269.html", "db/dd4/a15269" ],
-    [ "instance_ragefire_chasm", "d0/dff/a15265.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
-    [ "GetInstanceScript", "d0/dff/a15265.html#a0568996a61ef91688b9f223cb3782e5a", null ]
+    [ "npc_crate_helperAI", "db/dd4/a15269.html", "db/dd4/a15269" ],
+    [ "npc_crate_helper", "d0/dff/a15265.html#ae08751928234656dcda84dd5c7e4cc37", null ],
+    [ "GetAI", "d0/dff/a15265.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
 ];

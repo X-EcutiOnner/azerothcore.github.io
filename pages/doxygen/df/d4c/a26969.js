@@ -1,6 +1,6 @@
 var a26969 =
 [
-    [ "AreaTrigger_at_brewfest", "df/d4c/a26969.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
-    [ "OnTrigger", "df/d4c/a26969.html#a17e4a8d671136466c7673789e4f69a84", null ],
-    [ "_triggerTimes", "df/d4c/a26969.html#ab763765427796ad17338bcc8d63cf891", null ]
+    [ "CheckCast", "df/d4c/a26969.html#a624ee45c92b37da12204dcc95dc815ca", null ],
+    [ "PrepareSpellScript", "df/d4c/a26969.html#acdbb427ed3ebe9e2b8089a5bb50489a9", null ],
+    [ "Register", "df/d4c/a26969.html#abc4e276c4759bad63b692a467f2f88f2", null ]
 ];

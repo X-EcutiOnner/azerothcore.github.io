@@ -1,10 +1,10 @@
 var a27413 =
 [
-    [ "npc_air_force_botsAI", "d6/d92/a27413.html#a062eb272826d52ffd9b72054f970b761", null ],
-    [ "GetSummonedGuard", "d6/d92/a27413.html#ac4f39049ba15caf314939f12b82ccd05", null ],
-    [ "MoveInLineOfSight", "d6/d92/a27413.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
-    [ "Reset", "d6/d92/a27413.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
-    [ "SummonGuard", "d6/d92/a27413.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
-    [ "SpawnAssoc", "d6/d92/a27413.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
-    [ "SpawnedGUID", "d6/d92/a27413.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
+    [ "CalculateAPAmount", "d6/d92/a27413.html#abba0772c18bf98696dc1f236da79401e", null ],
+    [ "CalculateResistanceAmount", "d6/d92/a27413.html#a2db04d2d4af16e34cb69b71dbcd0c066", null ],
+    [ "CalculateSPAmount", "d6/d92/a27413.html#a4ecc412bb7d5e89a886c9ad4cc562187", null ],
+    [ "CalculateStatAmount", "d6/d92/a27413.html#a9269eee5ef676c466e662305389988f0", null ],
+    [ "HandleEffectApply", "d6/d92/a27413.html#aa818ca9c4e7b1320f97931525faff1c4", null ],
+    [ "PrepareAuraScript", "d6/d92/a27413.html#a5b35686a2ddd761343d811a8472c1c3b", null ],
+    [ "Register", "d6/d92/a27413.html#a9bf7cd6309b4724462b03c1080324f83", null ]
 ];

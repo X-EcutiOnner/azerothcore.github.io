@@ -1,5 +1,7 @@
 var a30085 =
 [
-    [ "Price", "de/d1c/a30085.html#a9cf01cf0d41d49613b4ceaf1eeb1716b", null ],
-    [ "Slot", "de/d1c/a30085.html#aa53247914bda0ceca015b8b9ca117379", null ]
+    [ "W", "de/d1c/a30085.html#adc2e55b935dcc2daefd60739bdb31cec", null ],
+    [ "X", "de/d1c/a30085.html#a2676f1a5ec3a2f69ebb953e4b5741c4b", null ],
+    [ "Y", "de/d1c/a30085.html#aa3353a9f5afdf3614e37f9681441ae05", null ],
+    [ "Z", "de/d1c/a30085.html#a533b5e90b6333d89190828f28721e61d", null ]
 ];

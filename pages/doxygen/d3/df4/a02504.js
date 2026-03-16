@@ -1,9 +1,8 @@
 var a02504 =
 [
-    [ "MapType", "d3/df4/a02504.html#a2a540ae6cb73c9914f0253464b155227", null ],
-    [ "Find", "d3/df4/a02504.html#a42d065468e6e62b7161ba0c17e1d75ea", null ],
-    [ "Insert", "d3/df4/a02504.html#a3ba44f9ba2a1ff4fd122944f95ef06bd", null ],
-    [ "Remove", "d3/df4/a02504.html#a8f833a3f02f1e431170dd5d052b0f919", null ],
-    [ "RemoveByName", "d3/df4/a02504.html#a9c5298580060e7a6078ffb5f4008c549", null ],
-    [ "PlayerNameMap", "d3/df4/a02504.html#aa8fcdd0ac947e92edddddd4e2daf61dd", null ]
+    [ "StoredLootItem", "db/dc0/a09937.html", "db/dc0/a09937" ],
+    [ "LootItemStorage", "d6/dc8/a09941.html", "d6/dc8/a09941" ],
+    [ "sLootItemStorage", "d3/df4/a02504.html#a06515a8a4bd76cd02aa0ab99d3d7c64e", null ],
+    [ "LootItemContainer", "d3/df4/a02504.html#a06cc23df363d1d767959d7ab5ec29ad5", null ],
+    [ "StoredLootItemList", "d3/df4/a02504.html#aa16defe92374d7db2d28958ee8fce21d", null ]
 ];

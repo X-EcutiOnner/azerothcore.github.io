@@ -1,9 +1,7 @@
 var a24505 =
 [
-    [ "HandleApply", "dd/dae/a24505.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
-    [ "HandleRemove", "dd/dae/a24505.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
-    [ "PrepareAuraScript", "dd/dae/a24505.html#af2b8e669737cd4282beb6a5035f496fc", null ],
-    [ "RecalculateBaseArmor", "dd/dae/a24505.html#a693720558c7b2b22c41a49a402522014", null ],
-    [ "Register", "dd/dae/a24505.html#aff9bc58342383afe5a08be696cddedf6", null ],
-    [ "Validate", "dd/dae/a24505.html#ad712e1e05d94372defdfa4fe67e65716", null ]
+    [ "HandleProc", "dd/dae/a24505.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
+    [ "PrepareAuraScript", "dd/dae/a24505.html#a2840931b939b95e6a476c07f08ca66b5", null ],
+    [ "Register", "dd/dae/a24505.html#ae769fddc14aed4d1055d2f947d292fcf", null ],
+    [ "lastChargeUsedTime", "dd/dae/a24505.html#a69e1d242b6d4bfc752e7e0921aa0f90c", null ]
 ];

@@ -1,7 +1,7 @@
 var a15861 =
 [
-    [ "npc_shenthulAI", "d1/db1/a15865.html", "d1/db1/a15865" ],
-    [ "npc_shenthul", "d6/d7d/a15861.html#a77815503c7d9c811fe3821232e308714", null ],
-    [ "GetAI", "d6/d7d/a15861.html#a1683f8c89add6270277c59951c74027e", null ],
-    [ "OnQuestAccept", "d6/d7d/a15861.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
+    [ "npc_webbed_creatureAI", "d6/d7d/a15861.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
+    [ "JustDied", "d6/d7d/a15861.html#a153d461124ec9266ffcac147a217f6d9", null ],
+    [ "JustEngagedWith", "d6/d7d/a15861.html#ac52ad6512bcaee35932f856abdac80d4", null ],
+    [ "Reset", "d6/d7d/a15861.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
 ];

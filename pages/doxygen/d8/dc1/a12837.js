@@ -1,6 +1,7 @@
 var a12837 =
 [
-    [ "boss_shazzrahAI", "db/ddc/a12841.html", "db/ddc/a12841" ],
-    [ "boss_shazzrah", "d8/dc1/a12837.html#a99a162d6eac5c9046a27f53ec05af7e4", null ],
-    [ "GetAI", "d8/dc1/a12837.html#a8135f6ab246dbce4c2ebebe0e7f137d5", null ]
+    [ "HandleRemove", "d8/dc1/a12837.html#a754b44b62c131e20e1be94b3407e2006", null ],
+    [ "PrepareAuraScript", "d8/dc1/a12837.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
+    [ "Register", "d8/dc1/a12837.html#a02cd375ec140f7614104b7e56df13430", null ],
+    [ "Validate", "d8/dc1/a12837.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
 ];

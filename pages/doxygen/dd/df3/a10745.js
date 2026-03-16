@@ -1,7 +1,6 @@
 var a10745 =
 [
-    [ "GuildInvite", "dd/df3/a10745.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
-    [ "Write", "dd/df3/a10745.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
-    [ "GuildName", "dd/df3/a10745.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
-    [ "InviterName", "dd/df3/a10745.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
+    [ "ShowBank", "dd/df3/a10745.html#a57c189db7f6338f73d4e0028d846cfcf", null ],
+    [ "Write", "dd/df3/a10745.html#a39e1b86a7d4d6163ab504797be1af505", null ],
+    [ "Banker", "dd/df3/a10745.html#aeceda879d837508d95b79fbd3ee8d892", null ]
 ];

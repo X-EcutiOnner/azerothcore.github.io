@@ -1,8 +1,10 @@
 var a10025 =
 [
-    [ "GetAINotifyDelay", "dd/d67/a10025.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6", null ],
-    [ "GetReqMoveDistSq", "dd/d67/a10025.html#a58687646bbf83723e8ad2925ee50452c", null ],
-    [ "GetVisibilityNotifyDelay", "dd/d67/a10025.html#ac402ec0cb86192ce264d7909e09da5ac", null ],
-    [ "Update", "dd/d67/a10025.html#aa95443d7050249a44cad2f16fa0026e5", null ],
-    [ "visibilitySettingsIndex", "dd/d67/a10025.html#a35ebd0fcbdec8a3287f714cbe9becbcc", null ]
+    [ "DoublePosition", "d4/dac/a10029.html", "d4/dac/a10029" ],
+    [ "~AreaBoundary", "dd/d67/a10025.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
+    [ "AreaBoundary", "dd/d67/a10025.html#adf670910c492c08d3384c2dd1824e7ce", null ],
+    [ "IsWithinBoundary", "dd/d67/a10025.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
+    [ "IsWithinBoundary", "dd/d67/a10025.html#a1d407f77ce0388263fc0ee6224734213", null ],
+    [ "IsWithinBoundaryArea", "dd/d67/a10025.html#ae5580b0044dba24d100831fe51ee1abc", null ],
+    [ "_isInvertedBoundary", "dd/d67/a10025.html#ad416f29594688ce670549d6fdcce4314", null ]
 ];

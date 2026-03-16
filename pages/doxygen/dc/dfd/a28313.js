@@ -1,7 +1,6 @@
 var a28313 =
 [
-    [ "from", "dc/dfd/a28313.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
-    [ "ID", "dc/dfd/a28313.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
-    [ "price", "dc/dfd/a28313.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
-    [ "to", "dc/dfd/a28313.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
+    [ "go_bellsAI", "d6/dd9/a28317.html", "d6/dd9/a28317" ],
+    [ "go_bells", "dc/dfd/a28313.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
+    [ "GetAI", "dc/dfd/a28313.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
 ];

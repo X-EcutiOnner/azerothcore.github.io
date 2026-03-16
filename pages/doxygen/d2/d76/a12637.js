@@ -1,9 +1,6 @@
 var a12637 =
 [
-    [ "npc_drakonid_spawner", "d2/d76/a12637.html#a2b657e800dc5cc30c618391413ded116", null ],
-    [ "DoAction", "d2/d76/a12637.html#ab013cff0430c09fe1045fdc735e45182", null ],
-    [ "IsSummonedBy", "d2/d76/a12637.html#a6a2170e0f20736d69006ce6d6c769476", null ],
-    [ "SummonedCreatureDies", "d2/d76/a12637.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
-    [ "UpdateAI", "d2/d76/a12637.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
-    [ "_owner", "d2/d76/a12637.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
+    [ "boss_urok_doomhowlAI", "d5/db4/a12641.html", "d5/db4/a12641" ],
+    [ "boss_urok_doomhowl", "d2/d76/a12637.html#a0ca9cea9919648baa5ff7db2d5a5b530", null ],
+    [ "GetAI", "d2/d76/a12637.html#ac77756af77191e02df49161da0ace268", null ]
 ];

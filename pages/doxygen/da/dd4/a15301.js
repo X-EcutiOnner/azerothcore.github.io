@@ -1,4 +1,7 @@
 var a15301 =
 [
-    [ "instance_razorfen_kraul_InstanceMapScript", "da/dd4/a15301.html#a60715ab6220e798f16b16bcaa3714ad9", null ]
+    [ "boss_epoch_hunter", "da/dd4/a15301.html#a652d14ebfced39b8164687a713780600", null ],
+    [ "JustDied", "da/dd4/a15301.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
+    [ "JustEngagedWith", "da/dd4/a15301.html#a2571f98f36d1271f3911617e0fdfba54", null ],
+    [ "KilledUnit", "da/dd4/a15301.html#a61456e680e9108dd841e83d97536ef1b", null ]
 ];

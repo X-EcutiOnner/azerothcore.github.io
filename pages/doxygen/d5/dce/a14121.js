@@ -1,5 +1,6 @@
 var a14121 =
 [
-    [ "npc_andorhal_towerAI", "d5/dce/a14121.html#ad2f8a14f2adfe1418a23de274493f85e", null ],
-    [ "MoveInLineOfSight", "d5/dce/a14121.html#a1165ee0e066dcaeb300096e55758389b", null ]
+    [ "CheckProc", "d5/dce/a14121.html#af6d00234388ceb5d1c9acd8775c66788", null ],
+    [ "PrepareAuraScript", "d5/dce/a14121.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
+    [ "Register", "d5/dce/a14121.html#acad1e829a317d15e73549047ece67eda", null ]
 ];

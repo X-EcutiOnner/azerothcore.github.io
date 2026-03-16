@@ -1,6 +1,6 @@
 var a16137 =
 [
-    [ "HandleApply", "d8/d5e/a16137.html#aee4d5908035d06be2f1469a50db02e26", null ],
-    [ "PrepareAuraScript", "d8/d5e/a16137.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
-    [ "Register", "d8/d5e/a16137.html#ac83962bef84b68cef6d7937769730598", null ]
+    [ "npc_taskmaster_fizzuleAI", "dd/d2d/a16141.html", "dd/d2d/a16141" ],
+    [ "npc_taskmaster_fizzule", "d8/d5e/a16137.html#aa42e6cc1a3ac58ea79f5184f7bb293a9", null ],
+    [ "GetAI", "d8/d5e/a16137.html#a6281de7424932fe6580ffefa199498d9", null ]
 ];

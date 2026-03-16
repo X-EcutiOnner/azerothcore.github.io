@@ -1,7 +1,10 @@
 var a05605 =
 [
-    [ "EnumText", "d4/d64/a05605.html#a8eaf5ce52dcc9fd44476f9add1140e0d", null ],
-    [ "Constant", "d4/d64/a05605.html#a020a7ebf3b1ee476d5f7ee605f43525d", null ],
-    [ "Description", "d4/d64/a05605.html#ab08504e4ec70c5495f5a45856f2e6976", null ],
-    [ "Title", "d4/d64/a05605.html#a7326575ea4083e28ac62556526a092a4", null ]
+    [ "Category", "d4/d64/a05605.html#a6a7956fedac99271428968ba339f464f", null ],
+    [ "Tags", "d4/d64/a05605.html#ac22787b2dadd4d3991f72f6ccab5c225", null ],
+    [ "Text", "d4/d64/a05605.html#ab63598f64896186fde81048550767b28", null ],
+    [ "Timestamp", "d4/d64/a05605.html#a8248a27d920ca431493750e3f2dec48b", null ],
+    [ "Title", "d4/d64/a05605.html#a857d2d4843480b9967334f079351292a", null ],
+    [ "Type", "d4/d64/a05605.html#af9962592650ba24fd9b3c0ee9ce06f7f", null ],
+    [ "Value", "d4/d64/a05605.html#a09832a09e989c3851e72f4ec198f0e20", null ]
 ];

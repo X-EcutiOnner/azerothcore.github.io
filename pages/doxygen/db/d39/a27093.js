@@ -1,6 +1,7 @@
 var a27093 =
 [
-    [ "go_heatAI", "d6/d28/a27097.html", "d6/d28/a27097" ],
-    [ "go_heat", "db/d39/a27093.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
-    [ "GetAI", "db/d39/a27093.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
+    [ "HandleDummy", "db/d39/a27093.html#a367bd26543382ad71668fbe4f524d823", null ],
+    [ "PrepareSpellScript", "db/d39/a27093.html#a71cde3f81fdb253d8e93a19be104e9db", null ],
+    [ "Register", "db/d39/a27093.html#a7c73e3381592bef44d2265aff296b301", null ],
+    [ "Validate", "db/d39/a27093.html#a03d59b6859286dbe460b348df6de63d7", null ]
 ];

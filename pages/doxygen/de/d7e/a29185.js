@@ -1,4 +1,4 @@
 var a29185 =
 [
-    [ "_CRT_SECURE_NO_DEPRECATE", "de/d7e/a29185.html#a411c46599e926f8cdf49c63957255359", null ]
+    [ "ratio", "de/d7e/a29185.html#a614fdab0bf0be8c91775b49d020cdc7c", null ]
 ];

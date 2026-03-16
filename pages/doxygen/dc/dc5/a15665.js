@@ -1,8 +1,13 @@
 var a15665 =
 [
-    [ "npc_injured_draeneiAI", "dc/dc5/a15665.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
-    [ "JustEngagedWith", "dc/dc5/a15665.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
-    [ "MoveInLineOfSight", "dc/dc5/a15665.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
-    [ "Reset", "dc/dc5/a15665.html#adcb601f739a91ce71926791885152471", null ],
-    [ "UpdateAI", "dc/dc5/a15665.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
+    [ "npc_dirt_mound", "dc/dc5/a15665.html#add7daefa1c96fb9d843248f8ca4796f6", null ],
+    [ "ChaseNewTarget", "dc/dc5/a15665.html#a16656fb7ad8cda5916e8da0002cf0292", null ],
+    [ "EnterEvadeMode", "dc/dc5/a15665.html#ac5fdeea9dc5553b689d3a8a9b0b73d34", null ],
+    [ "JustEngagedWith", "dc/dc5/a15665.html#abf39fb8d63325eea7928b88b2b486ad2", null ],
+    [ "JustSummoned", "dc/dc5/a15665.html#a5da17256d0cd4f6cb0e1256afe4b6539", null ],
+    [ "Reset", "dc/dc5/a15665.html#ae1662eb73f21351e07d00a717421de68", null ],
+    [ "SetData", "dc/dc5/a15665.html#a4faa65dd3260104202e4bdd34bc0b67d", null ],
+    [ "UpdateAI", "dc/dc5/a15665.html#a88447191070cf8b84df96db565eef48d", null ],
+    [ "_instance", "dc/dc5/a15665.html#ac9f138567a4367aeb5d7b1f6caea90c6", null ],
+    [ "_ouroHealth", "dc/dc5/a15665.html#ac83391fa5069ae4574748f82d15e833d", null ]
 ];

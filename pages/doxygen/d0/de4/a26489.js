@@ -1,7 +1,5 @@
 var a26489 =
 [
-    [ "HandleEffect", "d0/de4/a26489.html#ab33c9312c9ac4096140a82f381d83235", null ],
-    [ "PrepareSpellScript", "d0/de4/a26489.html#a6117d7b2720f719d801b5f6e0e719f5f", null ],
-    [ "Register", "d0/de4/a26489.html#a1f5983124756eca5666ca6adbe5a4544", null ],
-    [ "Validate", "d0/de4/a26489.html#a08f7e508b50fc44ced0b7ff04e22b333", null ]
+    [ "Trigger", "d0/de4/a26489.html#aa16aba75a066e83cb56660a0e29e7453", null ],
+    [ "Validate", "d0/de4/a26489.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
 ];

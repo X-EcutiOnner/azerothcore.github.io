@@ -1,6 +1,7 @@
 var a11017 =
 [
-    [ "ItemRefund", "da/d84/a11017.html#aa257d579519d45da88694ff6306395da", null ],
-    [ "Read", "da/d84/a11017.html#a6d031070a4832bdc716f8b73629ebc8d", null ],
-    [ "ItemGuid", "da/d84/a11017.html#ac394336b15540248770f81d748206f7b", null ]
+    [ "GuildBankLogQueryResults", "da/d84/a11017.html#a878f9545b3141a327de85771de4f1779", null ],
+    [ "Write", "da/d84/a11017.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
+    [ "Entry", "da/d84/a11017.html#a5f3704df5311f06833c3243201d35930", null ],
+    [ "Tab", "da/d84/a11017.html#a214db612bb08e557dd41d3962c827dca", null ]
 ];

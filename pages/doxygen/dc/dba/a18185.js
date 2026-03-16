@@ -1,6 +1,7 @@
 var a18185 =
 [
-    [ "npc_gas_cloudAI", "dd/d36/a18189.html", "dd/d36/a18189" ],
-    [ "npc_gas_cloud", "dc/dba/a18185.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
-    [ "GetAI", "dc/dba/a18185.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
+    [ "HandleScript", "dc/dba/a18185.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
+    [ "PrepareSpellScript", "dc/dba/a18185.html#ab69926839f72ee76eba2b225aba9690c", null ],
+    [ "Register", "dc/dba/a18185.html#aad8925e891d7537993f02f3bc2552fea", null ],
+    [ "SelectRandomTarget", "dc/dba/a18185.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
 ];

@@ -1,6 +1,7 @@
 var a23989 =
 [
-    [ "npcs_flanis_swiftwing_and_kagrosh", "de/d44/a23989.html#aa95eceea94521947bd443805c8ddb52d", null ],
-    [ "OnGossipHello", "de/d44/a23989.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
-    [ "OnGossipSelect", "de/d44/a23989.html#aff34165955ba93e1fcd2b9731894d871", null ]
+    [ "HandleDummy", "de/d44/a23989.html#a08f2f0aef00ce075572ff84643905a0a", null ],
+    [ "PrepareSpellScript", "de/d44/a23989.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
+    [ "Register", "de/d44/a23989.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
+    [ "Validate", "de/d44/a23989.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
 ];

@@ -1,6 +1,7 @@
 var a21085 =
 [
-    [ "HandleOnHit", "d6/d41/a21085.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "d6/d41/a21085.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "d6/d41/a21085.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "HandleEffectPeriodic", "d6/d41/a21085.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
+    [ "PrepareAuraScript", "d6/d41/a21085.html#a748cd347867557b5048d9ba0c112cd80", null ],
+    [ "Register", "d6/d41/a21085.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
+    [ "Validate", "d6/d41/a21085.html#afa86789ef14b1d06094705ba6cfb9205", null ]
 ];

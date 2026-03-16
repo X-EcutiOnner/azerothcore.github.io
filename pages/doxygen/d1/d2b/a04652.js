@@ -1,5 +1,6 @@
 var a04652 =
 [
-    [ "HandleLearnSpellCommand", "d1/d2b/a04652.html#acbe37f872cbc981a27671ebdf10904de", null ],
-    [ "HandleUnlearnSpellCommand", "d1/d2b/a04652.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
+    [ "lfg_commandscript", "db/d41/a12165.html", "db/d41/a12165" ],
+    [ "AddSC_lfg_commandscript", "d1/d2b/a04652.html#a484938015a7f5ffa8f5b1d0e259d355b", null ],
+    [ "GetPlayerInfo", "d1/d2b/a04652.html#a1d2591add059e8c4daf04b9f706da765", null ]
 ];

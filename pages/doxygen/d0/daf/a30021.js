@@ -1,7 +1,9 @@
 var a30021 =
 [
-    [ "MPQArchive", "d6/db6/a29012.html", "d6/db6/a29012" ],
-    [ "MPQFile", "d3/dd2/a29016.html", "d3/dd2/a29016" ],
-    [ "ArchiveSet", "d0/daf/a30021.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "d0/daf/a30021.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "MapTiles", "d0/daf/a30021.html#abc58d7154eab45ae26df27e2e82dac63", null ],
+    [ "MapTiles", "d0/daf/a30021.html#a406efc53593b5bceb0a491c0b7553350", null ],
+    [ "~MapTiles", "d0/daf/a30021.html#aec1baac21c06380ba71ff5e610152519", null ],
+    [ "operator==", "d0/daf/a30021.html#a3e7a87f421e8eb23926afe1d0978c3b4", null ],
+    [ "m_mapId", "d0/daf/a30021.html#a2fc10edf226a6f4548c2175e1013c1b9", null ],
+    [ "m_tiles", "d0/daf/a30021.html#ab80305bb73234e35a528701d775954b5", null ]
 ];

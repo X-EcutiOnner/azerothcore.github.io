@@ -1,5 +1,6 @@
 var a12709 =
 [
-    [ "at_orb_of_command", "d8/de0/a12709.html#a1f0b196362b76e050eba66d3ce612623", null ],
-    [ "OnTrigger", "d8/de0/a12709.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
+    [ "FilterTargets", "d8/de0/a12709.html#ac630fb5f068e4d26adb078b118994c45", null ],
+    [ "PrepareSpellScript", "d8/de0/a12709.html#a5f4986bfad79573e65d56ff276c49914", null ],
+    [ "Register", "d8/de0/a12709.html#aa1f5838d43871fd7908ea3b914666000", null ]
 ];

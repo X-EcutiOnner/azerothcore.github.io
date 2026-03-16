@@ -1,5 +1,6 @@
 var a26885 =
 [
-    [ "achievement_bg_sa_artillery", "da/de6/a26885.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
-    [ "OnCheck", "da/de6/a26885.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
+    [ "CheckCast", "da/de6/a26885.html#a2edd0bcaa3b026cc70f9f6b58f53f486", null ],
+    [ "PrepareSpellScript", "da/de6/a26885.html#aaf1e16dbc8d33aadcbf74dc4cebe715b", null ],
+    [ "Register", "da/de6/a26885.html#a32aaab12105c9b1c09edfa8a444ced9c", null ]
 ];

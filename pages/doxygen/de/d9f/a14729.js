@@ -1,8 +1,10 @@
 var a14729 =
 [
-    [ "CalcPeriodic", "de/d9f/a14729.html#ae2ce9c161a25385c6de1f4b7607c9935", null ],
-    [ "HandleEffectApply", "de/d9f/a14729.html#a4321da69ee59416bd50e621b804e5423", null ],
-    [ "HandleEffectPeriodicUpdate", "de/d9f/a14729.html#a3f23e4a8fecf83ba580c904f15e1e98b", null ],
-    [ "PrepareAuraScript", "de/d9f/a14729.html#a956136be8cb484efc9af2429d8779a03", null ],
-    [ "Register", "de/d9f/a14729.html#a1d4b1c43305b3133e4ac7f8b6ce70727", null ]
+    [ "npc_coren_direbrew_sisters", "de/d9f/a14729.html#a415ea0ebd044236f5f4c4d6c28896e00", null ],
+    [ "GetGUID", "de/d9f/a14729.html#a61863117e71ebfb7f1c4c83780ece7bc", null ],
+    [ "JustEngagedWith", "de/d9f/a14729.html#a34e0b6af032240c152c463c221d99335", null ],
+    [ "SetGUID", "de/d9f/a14729.html#a8b25691671f4a65e990e9f39c92214ae", null ],
+    [ "UpdateAI", "de/d9f/a14729.html#a7434b08d12d3f0902d1944b75323560c", null ],
+    [ "_scheduler", "de/d9f/a14729.html#a9d8ca85e7bbd3cc9c61c2bbb38b7d222", null ],
+    [ "_targetGUID", "de/d9f/a14729.html#a801a6811124a7db3a31ec492ef954b20", null ]
 ];

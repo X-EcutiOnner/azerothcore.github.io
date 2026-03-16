@@ -1,7 +1,15 @@
 var a20241 =
 [
-    [ "HandleEffectPeriodic", "d3/df7/a20241.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
-    [ "PrepareAuraScript", "d3/df7/a20241.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
-    [ "Register", "d3/df7/a20241.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
-    [ "Validate", "d3/df7/a20241.html#a16c536c913d003826ef4b86c7a497fec", null ]
+    [ "npc_mimirons_inferno", "d3/df7/a20241.html#aedcded9302c0cb9e29475f471bd0612e", null ],
+    [ "AttackStart", "d3/df7/a20241.html#a43a03388c06ef38ab29a1b4d5bc701c6", null ],
+    [ "DoAction", "d3/df7/a20241.html#ade97188bb54f7b5a15a8a596355e4170", null ],
+    [ "JustSummoned", "d3/df7/a20241.html#a77ddb0fbd9f0c2334df122d91913300b", null ],
+    [ "MoveInLineOfSight", "d3/df7/a20241.html#acc2e756af50ebde8300c46ec6f369760", null ],
+    [ "Reset", "d3/df7/a20241.html#afbd0bcdbb24bf1dbdaacecf4b602922b", null ],
+    [ "SummonedCreatureDespawn", "d3/df7/a20241.html#a9b5176d6f1712d36283b0ebeeddee5b2", null ],
+    [ "UpdateAI", "d3/df7/a20241.html#afd800c3a1430fe19edf6fe21763b15d8", null ],
+    [ "WaypointReached", "d3/df7/a20241.html#a13cda9fcb49493477e4a4111d9858ec1", null ],
+    [ "_recastTimer", "d3/df7/a20241.html#ac74ee90383d6ac140d6187c6115716ed", null ],
+    [ "_spellTimer", "d3/df7/a20241.html#a0683c956325801b63e7e31b8485f35bd", null ],
+    [ "summons", "d3/df7/a20241.html#a7a0be8291200404285277c3689c54106", null ]
 ];

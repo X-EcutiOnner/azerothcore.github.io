@@ -1,9 +1,5 @@
 var a28701 =
 [
-    [ "Flags", "d0/d59/a28701.html#a4471edebd870d3dfaaf34292341e5f60", null ],
-    [ "Id", "d0/d59/a28701.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
-    [ "Position", "d0/d59/a28701.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
-    [ "Rotation", "d0/d59/a28701.html#a986c3ea05d510db03ec969f0d116fb34", null ],
-    [ "Scale", "d0/d59/a28701.html#af8bcb02c541b9261dbf879353ba6893a", null ],
-    [ "UniqueId", "d0/d59/a28701.html#a374c9893af515badc54b22b2a4d5e024", null ]
+    [ "npc_sunwell_gate", "d0/d59/a28701.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
+    [ "OnQuestReward", "d0/d59/a28701.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
 ];

@@ -1,5 +1,6 @@
 var a14037 =
 [
-    [ "npc_king_varian_wrynn", "d8/dc2/a14037.html#a33b7c492a7435b3f80e508be9e3440e9", null ],
-    [ "OnQuestReward", "d8/dc2/a14037.html#a1255cca95a7a2b039702b30db377a19f", null ]
+    [ "npc_balance_of_light_and_shadowAI", "dc/da3/a14041.html", "dc/da3/a14041" ],
+    [ "npc_balance_of_light_and_shadow", "d8/dc2/a14037.html#a55229e3ea8dd9c52972185b36c08908b", null ],
+    [ "GetAI", "d8/dc2/a14037.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
 ];

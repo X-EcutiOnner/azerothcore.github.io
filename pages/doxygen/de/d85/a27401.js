@@ -1,9 +1,7 @@
 var a27401 =
 [
-    [ "npc_target_dummyAI", "de/d85/a27401.html#a117e45559ea721877d73df4b3c18a259", null ],
-    [ "EnterEvadeMode", "de/d85/a27401.html#a8f7f2e4decc676e378b4929516f8a147", null ],
-    [ "MoveInLineOfSight", "de/d85/a27401.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
-    [ "Reset", "de/d85/a27401.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
-    [ "UpdateAI", "de/d85/a27401.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
-    [ "deathTimer", "de/d85/a27401.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
+    [ "CheckProc", "de/d85/a27401.html#aa03bd8b92debda29f0b236fdbef73f16", null ],
+    [ "HandleProc", "de/d85/a27401.html#a91ee1b654a3a26e027407635a45b80b3", null ],
+    [ "PrepareAuraScript", "de/d85/a27401.html#ad2796a924fbe36dc9cd1c9de60eb9b16", null ],
+    [ "Register", "de/d85/a27401.html#ab06a732203303d5533bdc4b217640d2d", null ]
 ];

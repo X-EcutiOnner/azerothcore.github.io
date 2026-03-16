@@ -1,7 +1,8 @@
 var a09709 =
 [
-    [ "AddonHandler", "db/d7b/a09709.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
-    [ "~AddonHandler", "db/d7b/a09709.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
-    [ "BuildAddonPacket", "db/d7b/a09709.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
-    [ "instance", "db/d7b/a09709.html#a2925b829b803dd07e96685086357ef85", null ]
+    [ "AllCreaturesMatchingOneEntryInRange", "db/d7b/a09709.html#a440899ae5e52fedea316b7caa550455e", null ],
+    [ "operator()", "db/d7b/a09709.html#a95c87356617b135cc3ab0aec74e9f9c9", null ],
+    [ "m_fRange", "db/d7b/a09709.html#ac3ca671167fe5dbc8f9798327a8a3fcf", null ],
+    [ "m_pObject", "db/d7b/a09709.html#a1a7b27a1b2f0d623829605e42bf98900", null ],
+    [ "m_uiEntries", "db/d7b/a09709.html#a8411b275c6aad74eac83147a6d06fb0b", null ]
 ];

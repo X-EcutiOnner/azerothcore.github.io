@@ -1,5 +1,7 @@
 var a27201 =
 [
-    [ "go_table_theka", "d4/d28/a27201.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
-    [ "OnGossipHello", "d4/d28/a27201.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
+    [ "HandleEffectPeriodic", "d4/d28/a27201.html#a2fab66e86d3c0207183db72ecbb6fc6c", null ],
+    [ "PrepareAuraScript", "d4/d28/a27201.html#ae0e3b459c71933c25da8136cdcddf200", null ],
+    [ "Register", "d4/d28/a27201.html#ac924ebbc893476cabab5f05120d0cd8d", null ],
+    [ "Validate", "d4/d28/a27201.html#ada327cf500aec62fdf34f9d8a4ccd6e2", null ]
 ];

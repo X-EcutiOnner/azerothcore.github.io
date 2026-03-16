@@ -1,9 +1,9 @@
 var a29377 =
 [
-    [ "npc_fireworkAI", "d0/d36/a29377.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
-    [ "FindNearestLauncher", "d0/d36/a29377.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
-    [ "GetFireworkGameObjectId", "d0/d36/a29377.html#ae17b4abbbb2088799cec188457677d44", null ],
-    [ "GetFireworkSpell", "d0/d36/a29377.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
-    [ "isCluster", "d0/d36/a29377.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
-    [ "Reset", "d0/d36/a29377.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
+    [ "Category", "d0/d36/a29377.html#acd933f251a1faa1f705420307136681d", null ],
+    [ "Faction", "d0/d36/a29377.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
+    [ "Flags", "d0/d36/a29377.html#a8b41ed573eae71196664a61bac83fe3e", null ],
+    [ "Id", "d0/d36/a29377.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
+    [ "Slot", "d0/d36/a29377.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
+    [ "Type", "d0/d36/a29377.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
 ];

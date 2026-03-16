@@ -1,6 +1,11 @@
 var a08997 =
 [
-    [ "lang_id", "df/d8a/a08997.html#a1fa900a467834103ac595a8a96dd28c0", null ],
-    [ "skill_id", "df/d8a/a08997.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
-    [ "spell_id", "df/d8a/a08997.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
+    [ "SpellPeriodicAuraLogInfo", "df/d8a/a08997.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
+    [ "absorb", "df/d8a/a08997.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
+    [ "auraEff", "df/d8a/a08997.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
+    [ "critical", "df/d8a/a08997.html#a51041b901727b4f595d2a886520626ff", null ],
+    [ "damage", "df/d8a/a08997.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
+    [ "multiplier", "df/d8a/a08997.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
+    [ "overDamage", "df/d8a/a08997.html#a51904be3790c99bded697b2cf7c8db23", null ],
+    [ "resist", "df/d8a/a08997.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
 ];

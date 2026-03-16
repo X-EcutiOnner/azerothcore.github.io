@@ -1,6 +1,6 @@
 var a12925 =
 [
-    [ "HandleTriggerSpell", "dc/d2d/a12925.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
-    [ "PrepareSpellScript", "dc/d2d/a12925.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
-    [ "Register", "dc/d2d/a12925.html#a7e9c140aecea892ee6971bc97d385640", null ]
+    [ "boss_lucifronAI", "dc/d2d/a12925.html#ab93792bd7798b9ee9cf869fa20190554", null ],
+    [ "ExecuteEvent", "dc/d2d/a12925.html#a0ba286f037c07032488d6763daeaf130", null ],
+    [ "JustEngagedWith", "dc/d2d/a12925.html#aba3256ec99e56e3051045391fceedc7f", null ]
 ];

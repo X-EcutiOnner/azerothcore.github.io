@@ -1,10 +1,9 @@
 var a26677 =
 [
-    [ "CalculateAmount", "d8/d82/a26677.html#a9e0e28d871f9d3c89cf2dc862971321d", null ],
-    [ "Detonate", "d8/d82/a26677.html#adc622aae157984546dfe3d8373c0c413", null ],
-    [ "HandleProc", "d8/d82/a26677.html#a3b5812649b67830d8dc6d10b5dd1c937", null ],
-    [ "OnRemove", "d8/d82/a26677.html#a5067cef0afc99d487f995f8d6edea21f", null ],
-    [ "PrepareAuraScript", "d8/d82/a26677.html#abc23ebb3761e3505486ac578bdeaeeed", null ],
-    [ "Register", "d8/d82/a26677.html#acc4819698e175889a0491d7f7cc680fd", null ],
-    [ "Validate", "d8/d82/a26677.html#a0649826ce0d66c9f21be8d47c76f4941", null ]
+    [ "CountTargets", "d8/d82/a26677.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
+    [ "HandleDummy", "d8/d82/a26677.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
+    [ "PrepareSpellScript", "d8/d82/a26677.html#adfb7e3fbb52aa349573b95c457823900", null ],
+    [ "Register", "d8/d82/a26677.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
+    [ "Validate", "d8/d82/a26677.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
+    [ "_targetCount", "d8/d82/a26677.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
 ];

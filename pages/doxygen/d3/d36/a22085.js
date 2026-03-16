@@ -1,6 +1,10 @@
 var a22085 =
 [
-    [ "npc_icefangAI", "dd/dc7/a22089.html", "dd/dc7/a22089" ],
-    [ "npc_icefang", "d3/d36/a22085.html#a2e13be89b110abaa2509e597e4cf883a", null ],
-    [ "GetAI", "d3/d36/a22085.html#ad1a936b1eef30271912054a817e0c9f8", null ]
+    [ "npc_infra_green_bomber_genericAI", "d3/d36/a22085.html#aed712ea3625971e059e2ecd158227287", null ],
+    [ "DamageTaken", "d3/d36/a22085.html#a8f860368df96e430b441c8316db99c93", null ],
+    [ "GetSummoner", "d3/d36/a22085.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
+    [ "IsSummonedBy", "d3/d36/a22085.html#a79676717b7c6219ea74ebe5a580eab28", null ],
+    [ "SpreadFire", "d3/d36/a22085.html#a5727c839b7dd02ea64eccce3606688d1", null ],
+    [ "UpdateAI", "d3/d36/a22085.html#a252875777655e963965676a24c15e766", null ],
+    [ "events", "d3/d36/a22085.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
 ];

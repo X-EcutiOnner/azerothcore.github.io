@@ -1,6 +1,8 @@
 var a15769 =
 [
-    [ "npc_tiger_matriarch_creditAI", "d6/d8c/a15769.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
-    [ "UpdateAI", "d6/d8c/a15769.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
-    [ "events", "d6/d8c/a15769.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
+    [ "npc_ahnqiraji_critter", "d6/d8c/a15769.html#a60e2dc1c52579a410d3435126bf39684", null ],
+    [ "JustDied", "d6/d8c/a15769.html#a71d3d5262bde847a18932fea89cb6648", null ],
+    [ "JustEngagedWith", "d6/d8c/a15769.html#aca1df706306f9181db26cd77e5b66452", null ],
+    [ "Reset", "d6/d8c/a15769.html#a645e16e9da29f6579320394201d0ada7", null ],
+    [ "UpdateAI", "d6/d8c/a15769.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
 ];

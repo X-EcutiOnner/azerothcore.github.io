@@ -1,7 +1,10 @@
 var a10817 =
 [
-    [ "GuildBankActivate", "dc/d5e/a10817.html#a5b27541a26ada694d9635f6d6873ef20", null ],
-    [ "Read", "dc/d5e/a10817.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
-    [ "Banker", "dc/d5e/a10817.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
-    [ "FullUpdate", "dc/d5e/a10817.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
+    [ "EnvironmentalDamageLog", "dc/d5e/a10817.html#ab4311f6516d9b7491abf5cb2ba9a0ee0", null ],
+    [ "Write", "dc/d5e/a10817.html#af7d49b8d57100cf2c3048d5415a4edc7", null ],
+    [ "Absorbed", "dc/d5e/a10817.html#a443df04be3afe2021532716140ffb099", null ],
+    [ "Amount", "dc/d5e/a10817.html#a073e22176d44f5806313c2a4bd3e263a", null ],
+    [ "Resisted", "dc/d5e/a10817.html#ad20a9730af3088d93ac56d89b6f66b12", null ],
+    [ "Type", "dc/d5e/a10817.html#a51df177d9ce6a8459bc8fa41f80cdb7a", null ],
+    [ "Victim", "dc/d5e/a10817.html#a020fffe9517d30e965a4d6f6602dd05f", null ]
 ];

@@ -1,7 +1,6 @@
 var a20009 =
 [
-    [ "OnRemove", "d0/d7b/a20009.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
-    [ "PrepareAuraScript", "d0/d7b/a20009.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
-    [ "Register", "d0/d7b/a20009.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
-    [ "Validate", "d0/d7b/a20009.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
+    [ "boss_maiden_of_griefAI", "d1/d58/a20013.html", "d1/d58/a20013" ],
+    [ "boss_maiden_of_grief", "d0/d7b/a20009.html#a8361e4961ac1da09b803ca9e7fc67f95", null ],
+    [ "GetAI", "d0/d7b/a20009.html#af8d2e6392a0c73add801910945b2558e", null ]
 ];

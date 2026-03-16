@@ -1,7 +1,9 @@
 var a10845 =
 [
-    [ "GuildBankWithdrawMoney", "d8/d0b/a10845.html#a7bd310d1fa4fb332cd815a259de3ef2d", null ],
-    [ "Read", "d8/d0b/a10845.html#a420aac24befdc5ac26171faa15c3c350", null ],
-    [ "Banker", "d8/d0b/a10845.html#a68f9a4191c349702881774bff4069f03", null ],
-    [ "Money", "d8/d0b/a10845.html#a349f8608d589ac3a5697c7c1cf73723e", null ]
+    [ "GuildInfoResponse", "d8/d0b/a10845.html#a256cb81ad2e08050be99c9e1061c2009", null ],
+    [ "Write", "d8/d0b/a10845.html#a3222d0018c9593400d3d01258b82371e", null ],
+    [ "CreateDate", "d8/d0b/a10845.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
+    [ "GuildName", "d8/d0b/a10845.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
+    [ "NumAccounts", "d8/d0b/a10845.html#a21b42f1654aa10f7872d87635fea66ac", null ],
+    [ "NumMembers", "d8/d0b/a10845.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
 ];

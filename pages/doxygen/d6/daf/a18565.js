@@ -1,6 +1,5 @@
 var a18565 =
 [
-    [ "npc_shambling_horror_iccAI", "da/d36/a18569.html", "da/d36/a18569" ],
-    [ "npc_shambling_horror_icc", "d6/daf/a18565.html#a68219e0c6e79f5e7bed1f353d7bb5bcb", null ],
-    [ "GetAI", "d6/daf/a18565.html#a96fd525fcb34e793b1fc3fc5179e92ec", null ]
+    [ "operator()", "d6/daf/a18565.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
+    [ "operator()", "d6/daf/a18565.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
 ];

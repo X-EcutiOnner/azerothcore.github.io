@@ -1,10 +1,6 @@
 var a10941 =
 [
-    [ "SplitItem", "d1/df8/a10941.html#a805c2c75e93d7ef839b3758ffd59f6c6", null ],
-    [ "Read", "d1/df8/a10941.html#a59edb1d3445897bfaff1e97d703b42bb", null ],
-    [ "Count", "d1/df8/a10941.html#a097ed361c33f7415ed4d7efe6ab985e8", null ],
-    [ "DestinationBag", "d1/df8/a10941.html#ac60d1b0b51ef1b91fd51d900bb825153", null ],
-    [ "DestinationSlot", "d1/df8/a10941.html#aaf03b2ba6c3519008515c75f6f09aa60", null ],
-    [ "SourceBag", "d1/df8/a10941.html#aa87bc282a672ae8f9a747ad65400ef03", null ],
-    [ "SourceSlot", "d1/df8/a10941.html#a82dbf4e94d9bb1a352bf03d76a14950b", null ]
+    [ "GuildDemoteMember", "d1/df8/a10941.html#aa3d68021828c516d7b1995811e8df7d7", null ],
+    [ "Read", "d1/df8/a10941.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
+    [ "Demotee", "d1/df8/a10941.html#a60c7e56c201d794fb473a62fccc160bb", null ]
 ];

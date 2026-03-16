@@ -1,5 +1,6 @@
 var a08569 =
 [
-    [ "PositionXYStreamer", "d8/d3d/a08569.html#a6f165ea30ccb7cdeba0c4e197b3a0e5b", null ],
-    [ "Pos", "d8/d3d/a08569.html#afb17e60540233b8861b6e967d0e44e07", null ]
+    [ "invisibilityType", "d8/d3d/a08569.html#ac1e874a76fecd4d3eb061722713f6634", null ],
+    [ "InvisibilityValue", "d8/d3d/a08569.html#a8e1741fca7c49f0618a3999e69ae5c81", null ],
+    [ "ParentRotation", "d8/d3d/a08569.html#a5ae35d326afcb1b80847761c0376deaf", null ]
 ];

@@ -1,7 +1,6 @@
 var a17009 =
 [
-    [ "HandleScriptEffect", "df/d33/a17009.html#a51064b3a11f453724ae0879c80eaf8df", null ],
-    [ "PrepareSpellScript", "df/d33/a17009.html#aac26002ff107e609fb7258306b430f1b", null ],
-    [ "Register", "df/d33/a17009.html#a0efef7644706940e3929ce99cd162c91", null ],
-    [ "Validate", "df/d33/a17009.html#a7110d4136337d44aa0300ec82e5a6511", null ]
+    [ "boss_jaraxxusAI", "d2/dda/a17013.html", "d2/dda/a17013" ],
+    [ "boss_jaraxxus", "df/d33/a17009.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
+    [ "GetAI", "df/d33/a17009.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
 ];

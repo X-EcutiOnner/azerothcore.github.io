@@ -1,8 +1,6 @@
 var a29213 =
 [
-    [ "DBCFile", "d6/d5b/a28214.html", "d6/d5b/a28214" ],
-    [ "DBCFile::Exception", "da/d91/a28218.html", "da/d91/a28218" ],
-    [ "DBCFile::NotFound", "de/d9b/a28222.html", "de/d9b/a28222" ],
-    [ "DBCFile::Record", "df/d25/a28226.html", "df/d25/a28226" ],
-    [ "DBCFile::Iterator", "d0/d12/a28230.html", "d0/d12/a28230" ]
+    [ "Enchantment", "dd/df9/a29213.html#a480ab806214bb138d56dfd5e9e43936f", null ],
+    [ "ID", "dd/df9/a29213.html#acb673be771124b84dd3fdd5deb300de7", null ],
+    [ "Name", "dd/df9/a29213.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
 ];

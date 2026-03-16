@@ -1,5 +1,6 @@
 var a27265 =
 [
-    [ "item_incendiary_explosives", "de/d11/a27265.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "de/d11/a27265.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "HandleSendEvent", "de/d11/a27265.html#a8126102215aa6eedd638b89d1a6b7110", null ],
+    [ "PrepareSpellScript", "de/d11/a27265.html#abc57ba05637e2c51bf2d1fb918a93667", null ],
+    [ "Register", "de/d11/a27265.html#ac37abad48c398bdb22529c1a44327d34", null ]
 ];

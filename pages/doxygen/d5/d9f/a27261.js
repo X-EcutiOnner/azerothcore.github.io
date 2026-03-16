@@ -1,5 +1,6 @@
 var a27261 =
 [
-    [ "item_only_for_flight", "d5/d9f/a27261.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
-    [ "OnUse", "d5/d9f/a27261.html#a88cdf17a85630aef703f93143ba41d4d", null ]
+    [ "HandleScript", "d5/d9f/a27261.html#a54c724bd8786c894ecaa584c164c2e53", null ],
+    [ "PrepareSpellScript", "d5/d9f/a27261.html#a4505b9196609ae9339fe7e5948963663", null ],
+    [ "Register", "d5/d9f/a27261.html#ae293d6a2a477f716f357516781246069", null ]
 ];

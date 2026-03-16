@@ -1,6 +1,6 @@
 var a28565 =
 [
-    [ "id", "d9/d01/a28565.html#a5acc1b246a76073e1c97513251a4143d", null ],
-    [ "id", "d9/d01/a28565.html#aaf844f570afdf7439ae7fbe0bbdc39e7", null ],
-    [ "name", "d9/d01/a28565.html#ae5d1244981224aed1b7477caedd70175", null ]
+    [ "npc_pet_trainerAI", "d5/d5a/a28569.html", "d5/d5a/a28569" ],
+    [ "npc_pet_trainer", "d9/d01/a28565.html#ac2279bce52e911b1c339da5e68aa2501", null ],
+    [ "GetAI", "d9/d01/a28565.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
 ];

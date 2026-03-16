@@ -1,6 +1,6 @@
 var a12433 =
 [
-    [ "npc_blackhand_incarceratorAI", "d6/d02/a12437.html", "d6/d02/a12437" ],
-    [ "npc_blackhand_incarcerator", "db/d6b/a12433.html#a0c6bb8ea789e81803a11be57ac1b68e2", null ],
-    [ "GetAI", "db/d6b/a12433.html#a021ddf6442812f7fb698ba7fb45b9ffb", null ]
+    [ "boss_grizzleAI", "d6/d02/a12437.html", "d6/d02/a12437" ],
+    [ "boss_grizzle", "db/d6b/a12433.html#a6c9913cec9503a86e2f5358f65b97b26", null ],
+    [ "GetAI", "db/d6b/a12433.html#aa0bf6c89f13fbd20695ebb7ce965b0f5", null ]
 ];

@@ -1,6 +1,8 @@
 var a13865 =
 [
-    [ "npc_professor_phizzlethorpeAI", "dd/dad/a13869.html", "dd/dad/a13869" ],
-    [ "npc_professor_phizzlethorpe", "dd/d64/a13865.html#a8d32b4a107533c81033c617b0b97027d", null ],
-    [ "GetAI", "dd/d64/a13865.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
+    [ "FilterTargets", "dd/d64/a13865.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
+    [ "HandleScriptEffect", "dd/d64/a13865.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
+    [ "PrepareSpellScript", "dd/d64/a13865.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
+    [ "Register", "dd/d64/a13865.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
+    [ "Validate", "dd/d64/a13865.html#a5493864b068de82015bc157f3d0899b3", null ]
 ];

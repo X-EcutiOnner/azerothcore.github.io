@@ -1,7 +1,8 @@
 var a09613 =
 [
-    [ "PowerCheck", "d8/d14/a09613.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
-    [ "operator()", "d8/d14/a09613.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
-    [ "_equals", "d8/d14/a09613.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
-    [ "_power", "d8/d14/a09613.html#a922a57b62b4289835b539a69b0f58fa1", null ]
+    [ "NearestAttackableNoTotemUnitInObjectRangeCheck", "d8/d14/a09613.html#a1f0bf90a7b9c57d05c54e3db6827aec1", null ],
+    [ "operator()", "d8/d14/a09613.html#a08f8e473914c8a7bddbf26568294c18b", null ],
+    [ "i_obj", "d8/d14/a09613.html#a949ff3bcc3530206d83512d293647a2b", null ],
+    [ "i_owner", "d8/d14/a09613.html#a64f58427bbab3276bdc53450b33eca12", null ],
+    [ "i_range", "d8/d14/a09613.html#af52388830cec17e32b1d368739b4555a", null ]
 ];

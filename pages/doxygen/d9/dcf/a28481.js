@@ -1,9 +1,9 @@
 var a28481 =
 [
-    [ "CountQuestOnCreature", "d9/dcf/a28481.html#a4bf05b65d940e61567667d0939e177e5", null ],
-    [ "SetUp", "d9/dcf/a28481.html#a4788953a58bbea222cf59662b4427e72", null ],
-    [ "SimulateReload", "d9/dcf/a28481.html#a8eab2618428296763f8fd3d2159ce7a3", null ],
-    [ "SimulateSpawn1Object", "d9/dcf/a28481.html#a82c53349ba3754a75b2c1570fe413d09", null ],
-    [ "TearDown", "d9/dcf/a28481.html#acf6a952f91cf2eaeea693aaf761cde91", null ],
-    [ "creatureQuestMap", "d9/dcf/a28481.html#a7bdf871c2e47b693c1ede58c1f596ae1", null ]
+    [ "npc_target_dummyAI", "d9/dcf/a28481.html#a117e45559ea721877d73df4b3c18a259", null ],
+    [ "EnterEvadeMode", "d9/dcf/a28481.html#a8f7f2e4decc676e378b4929516f8a147", null ],
+    [ "MoveInLineOfSight", "d9/dcf/a28481.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
+    [ "Reset", "d9/dcf/a28481.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
+    [ "UpdateAI", "d9/dcf/a28481.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
+    [ "deathTimer", "d9/dcf/a28481.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
 ];

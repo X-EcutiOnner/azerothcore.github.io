@@ -1,15 +1,10 @@
 var a09681 =
 [
-    [ "LogHolder", "d0/d46/a09681.html#a3432ee2f32857bd02e75fdb5ba922bd1", null ],
-    [ "AddEvent", "d0/d46/a09681.html#a5f6d81d9048290815053bb4aa3531d73", null ],
-    [ "CanInsert", "d0/d46/a09681.html#aefdb4e57b5bf35b00564491547e6e2a9", null ],
-    [ "GetGuildId", "d0/d46/a09681.html#ada98449548b389a1cd8177087e3aa5e8", null ],
-    [ "GetGuildLog", "d0/d46/a09681.html#a17593c12663e8c4251f94636e511c73a", null ],
-    [ "GetGuildLog", "d0/d46/a09681.html#ae43929001324d6bece4e45bc95115535", null ],
-    [ "GetNextGUID", "d0/d46/a09681.html#aed00250b6a1036a91dd971af510f7750", null ],
-    [ "LoadEvent", "d0/d46/a09681.html#a22e87750252d1c4f62f2e5686a2e008d", null ],
-    [ "m_guildId", "d0/d46/a09681.html#a3827f9fb3fc13300f60d9f7dd27154c7", null ],
-    [ "m_log", "d0/d46/a09681.html#aca25adbc1c1e9397c837a53793568b64", null ],
-    [ "m_maxRecords", "d0/d46/a09681.html#a755788eaede72a131f74ae7de88c37b4", null ],
-    [ "m_nextGUID", "d0/d46/a09681.html#a267cecce9b2f244235800c93a086e8e2", null ]
+    [ "AnyPlayerInObjectRangeCheck", "d0/d46/a09681.html#ae636bd72045687920ec1d460508bc74b", null ],
+    [ "operator()", "d0/d46/a09681.html#ac1eda8f85259230fb382a3b6e58b6798", null ],
+    [ "operator()", "d0/d46/a09681.html#a70c477213c8b271d3402857edd87ef8b", null ],
+    [ "_disallowGM", "d0/d46/a09681.html#a9c43efd575de2edfdaa0b84def91c727", null ],
+    [ "_obj", "d0/d46/a09681.html#a07a346225f675433792d2298673acd1f", null ],
+    [ "_range", "d0/d46/a09681.html#ae372500b3a21cb65a11045dcc6f094a8", null ],
+    [ "_reqAlive", "d0/d46/a09681.html#af1e397c5033711e65d9ac5b35311e893", null ]
 ];

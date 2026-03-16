@@ -1,9 +1,7 @@
 var a11901 =
 [
-    [ "map", "df/dcc/a11901.html#a274c6d61203c24b3c680055244e1f590", null ],
-    [ "mouth", "df/dcc/a11901.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
-    [ "mouthGuid", "df/dcc/a11901.html#a2245c14e379c83bdd47165e829de2e41", null ],
-    [ "necropolisCount", "df/dcc/a11901.html#aec44e315616920ba8224be8c4831f5e9", null ],
-    [ "remainingNecropoli", "df/dcc/a11901.html#a3c18c61fcd44c32f9e0009479db85399", null ],
-    [ "zoneId", "df/dcc/a11901.html#a98e1490705f74627cf9e5483857f3f25", null ]
+    [ "PlayerGuid", "df/dcc/a11901.html#a629a600c48376d04293c225390f747ff", null ],
+    [ "PrimaryKey", "df/dcc/a11901.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
+    [ "StoredType", "df/dcc/a11901.html#a9bea7cf549813010b55c23417d65edc6", null ],
+    [ "TableName", "df/dcc/a11901.html#a0f308af88812c110c490c94368bda482", null ]
 ];

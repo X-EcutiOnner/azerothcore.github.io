@@ -1,8 +1,9 @@
 var a23321 =
 [
-    [ "boss_broggok", "df/d64/a23321.html#ae20c04793116d3e8eab62d2ee27010df", null ],
-    [ "DoAction", "df/d64/a23321.html#af5de5a1747c502f72af015c09d050354", null ],
-    [ "JustEngagedWith", "df/d64/a23321.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
-    [ "JustSummoned", "df/d64/a23321.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
-    [ "Reset", "df/d64/a23321.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
+    [ "boss_mennu_the_betrayer", "df/d64/a23321.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
+    [ "JustDied", "df/d64/a23321.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
+    [ "JustEngagedWith", "df/d64/a23321.html#a535b9af1677b8af50515818a18e88d27", null ],
+    [ "JustSummoned", "df/d64/a23321.html#a59949872270890ef794a77029074210b", null ],
+    [ "KilledUnit", "df/d64/a23321.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
+    [ "Reset", "df/d64/a23321.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
 ];

@@ -1,5 +1,6 @@
 var a14881 =
 [
-    [ "npc_pilgrims_bounty_plate", "de/d46/a14881.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
-    [ "SpellHit", "de/d46/a14881.html#a7797b7a532336542ef37f0643df8dec0", null ]
+    [ "npc_soh_fire_trigger", "de/d46/a14881.html#a8bddde264f4848c9a8ed83dcad190223", null ],
+    [ "Reset", "de/d46/a14881.html#acbec442907a8b40ae04496c53f210aa2", null ],
+    [ "SpellHit", "de/d46/a14881.html#a6b96cc998d38c9fbf0ce93e0529c0f4c", null ]
 ];

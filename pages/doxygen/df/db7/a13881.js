@@ -1,6 +1,7 @@
 var a13881 =
 [
-    [ "npc_maredis_firestarAI", "df/db7/a13881.html#ac2d4ed4b205146524dcf11585d65ae12", null ],
-    [ "sGossipHello", "df/db7/a13881.html#a72790dc9525249a4b558c37c4a0bd03f", null ],
-    [ "sGossipSelect", "df/db7/a13881.html#acefb2bc09fe8f7ad77d53ee6eb8bbb71", null ]
+    [ "HandleScriptEffect", "df/db7/a13881.html#ae631c634c77cc207338e3549a664969b", null ],
+    [ "PrepareSpellScript", "df/db7/a13881.html#ac9f825f10512be5849c46460e9cdbec8", null ],
+    [ "Register", "df/db7/a13881.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
+    [ "Validate", "df/db7/a13881.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
 ];

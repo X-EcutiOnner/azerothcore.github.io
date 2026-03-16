@@ -1,15 +1,9 @@
 var a21609 =
 [
-    [ "npc_q24545_lich_kingAI", "db/d6e/a21609.html#abebe71c6cfb705ce4409dd7fae3842e3", null ],
-    [ "CleanAll", "db/d6e/a21609.html#a2720994f88a2706a2f0b4fb361f81f2c", null ],
-    [ "JustSummoned", "db/d6e/a21609.html#a6049433795be30eb31e240a4939ad42f", null ],
-    [ "Reset", "db/d6e/a21609.html#aebd396de51edef790cd0b599c94f78a0", null ],
-    [ "SetData", "db/d6e/a21609.html#a8ee3a4f85aebe9b9a8e18858b76042a6", null ],
-    [ "SetGUID", "db/d6e/a21609.html#ac7c41ebfa7979907aea246af20bcf368", null ],
-    [ "SpellHitTarget", "db/d6e/a21609.html#adb8be583a14c8d0951b45dc027cf31d9", null ],
-    [ "SummonedCreatureDespawn", "db/d6e/a21609.html#ae8049cc5b58c6647b37941fb98c51fe5", null ],
-    [ "UpdateAI", "db/d6e/a21609.html#a24f17e0954e498e4a4b73b4cdffea6a3", null ],
-    [ "events", "db/d6e/a21609.html#a3e89e187c08f45a51fb69b647dcc766d", null ],
-    [ "playerGUID", "db/d6e/a21609.html#ac84b9efb3ee2eaa2160afe5d0217a884", null ],
-    [ "summons", "db/d6e/a21609.html#a1de76ab7f3304f8373c633fa7d0aa533", null ]
+    [ "npc_bloodmage_laurithAI", "db/d6e/a21609.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
+    [ "Reset", "db/d6e/a21609.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
+    [ "SetGUID", "db/d6e/a21609.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
+    [ "UpdateAI", "db/d6e/a21609.html#a9752f518441071dd4a60cd63423bf9a3", null ],
+    [ "_events", "db/d6e/a21609.html#a35facab84094071d952792a4c3e5015d", null ],
+    [ "_playerGUID", "db/d6e/a21609.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
 ];

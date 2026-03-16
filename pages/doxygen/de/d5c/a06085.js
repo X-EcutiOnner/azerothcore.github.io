@@ -1,6 +1,9 @@
 var a06085 =
 [
-    [ "TriggerAI", "de/d5c/a06085.html#ad8cc7eae28b11af049db88e0d8ff149b", null ],
-    [ "IsSummonedBy", "de/d5c/a06085.html#a0bcffd9eab068e35d71e3176c33359f1", null ],
-    [ "Permissible", "de/d5c/a06085.html#aa979e7a4774b35bf83ed137543d517b1", null ]
+    [ "SQLQueryHolderTask", "de/d5c/a06085.html#a017ab0275ea42132bb1e4ece7111572e", null ],
+    [ "~SQLQueryHolderTask", "de/d5c/a06085.html#a0d1122160565c8f20f9a48390352c770", null ],
+    [ "Execute", "de/d5c/a06085.html#a1dc2cdfee574ecbb8fd7bc595ca2f170", null ],
+    [ "GetFuture", "de/d5c/a06085.html#a73199c4e5805933c9f79091797dedc5d", null ],
+    [ "m_holder", "de/d5c/a06085.html#a64b624b8e77c819f5b47d592edc0979d", null ],
+    [ "m_result", "de/d5c/a06085.html#ab27ce22bdb505509662d862e92fe7e77", null ]
 ];

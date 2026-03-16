@@ -1,8 +1,8 @@
 var a01970 =
 [
-    [ "WorldPackets::Bank::AutoBankItem", "d2/d13/a10746.html", "d2/d13/a10746" ],
-    [ "WorldPackets::Bank::AutoStoreBankItem", "db/d29/a10750.html", "db/d29/a10750" ],
-    [ "WorldPackets::Bank::BuyBankSlot", "d1/d5e/a10754.html", "d1/d5e/a10754" ],
-    [ "WorldPackets::Bank::BuyBankSlotResult", "d2/d7a/a10758.html", "d2/d7a/a10758" ],
-    [ "WorldPackets::Bank::ShowBank", "d9/d21/a10762.html", "d9/d21/a10762" ]
+    [ "WorldPackets::Bank::AutoBankItem", "d4/d94/a10729.html", "d4/d94/a10729" ],
+    [ "WorldPackets::Bank::AutoStoreBankItem", "de/d4d/a10733.html", "de/d4d/a10733" ],
+    [ "WorldPackets::Bank::BuyBankSlot", "d8/d5d/a10737.html", "d8/d5d/a10737" ],
+    [ "WorldPackets::Bank::BuyBankSlotResult", "d4/d37/a10741.html", "d4/d37/a10741" ],
+    [ "WorldPackets::Bank::ShowBank", "dd/df3/a10745.html", "dd/df3/a10745" ]
 ];

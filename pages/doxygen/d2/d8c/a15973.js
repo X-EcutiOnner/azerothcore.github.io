@@ -1,7 +1,6 @@
 var a15973 =
 [
-    [ "npc_giltharesAI", "dd/d53/a15977.html", "dd/d53/a15977" ],
-    [ "npc_gilthares", "d2/d8c/a15973.html#af1e0746350b32b68825710e1c3ed91a5", null ],
-    [ "GetAI", "d2/d8c/a15973.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
-    [ "OnQuestAccept", "d2/d8c/a15973.html#a018cc6240a79216acb371241f63e3234", null ]
+    [ "HandleDummy", "d2/d8c/a15973.html#af9c26a7e5f6cba4f1146cb626dbcf8ed", null ],
+    [ "PrepareSpellScript", "d2/d8c/a15973.html#adc581ed46587afcc8be3800ae79105f6", null ],
+    [ "Register", "d2/d8c/a15973.html#a7d09808ea2fdec450fcd129e996bd245", null ]
 ];

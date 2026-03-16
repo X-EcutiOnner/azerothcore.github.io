@@ -1,9 +1,8 @@
 var a18709 =
 [
-    [ "npc_spirit_wardenAI", "d7/d36/a18709.html#a3391168478345d8b5c1fee151f6e9f04", null ],
-    [ "JustDied", "d7/d36/a18709.html#aa762c0bea6361107312e8231508dc655", null ],
-    [ "Reset", "d7/d36/a18709.html#ad6076663f65f43874feb0ecfc57718a4", null ],
-    [ "UpdateAI", "d7/d36/a18709.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
-    [ "_events", "d7/d36/a18709.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
-    [ "_instance", "d7/d36/a18709.html#a58ebb8e42e77add79fc888248013eb24", null ]
+    [ "FilterTargets", "d7/d36/a18709.html#a242fa53c2da9ac557623281bccf2af92", null ],
+    [ "HandleSendEvent", "d7/d36/a18709.html#a6120e057e2ee39d34eaeab79782add8d", null ],
+    [ "Load", "d7/d36/a18709.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
+    [ "PrepareSpellScript", "d7/d36/a18709.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
+    [ "Register", "d7/d36/a18709.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
 ];

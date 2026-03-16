@@ -1,5 +1,6 @@
 var a24233 =
 [
-    [ "npc_pet_proto_drake_whelp", "d4/d86/a24233.html#adfe4251e85cbc018628480c02e7bfd8c", null ],
-    [ "Reset", "d4/d86/a24233.html#a4c7697ea29c172dcedbbf84d0b5b1d6f", null ]
+    [ "PrepareSpellScript", "d4/d86/a24233.html#aa858fff409e5c75d865c91cb5fbef679", null ],
+    [ "Register", "d4/d86/a24233.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
+    [ "SetDest", "d4/d86/a24233.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
 ];

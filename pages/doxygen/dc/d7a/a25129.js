@@ -1,7 +1,6 @@
 var a25129 =
 [
-    [ "OnApply", "dc/d7a/a25129.html#a455a885611978a390cd4bfa76b05f82b", null ],
-    [ "PrepareAuraScript", "dc/d7a/a25129.html#ac8f269db5d77cf38bdfcbcfef75a62ff", null ],
-    [ "Register", "dc/d7a/a25129.html#a4b1a28052f11b47646dafbcd60b9dad8", null ],
-    [ "Validate", "dc/d7a/a25129.html#af1174bbbaab1d170a0dcd030d2f1e990", null ]
+    [ "HandleEffectPeriodicUpdate", "dc/d7a/a25129.html#a554353fede78b89bf488230254d7892b", null ],
+    [ "PrepareAuraScript", "dc/d7a/a25129.html#adf20aaafff83bae614ff3c614a08a54b", null ],
+    [ "Register", "dc/d7a/a25129.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5", null ]
 ];

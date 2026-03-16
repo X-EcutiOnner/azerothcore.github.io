@@ -1,8 +1,6 @@
 var a19137 =
 [
-    [ "Class", "df/d50/a19137.html#a095390e9023609f5836c4481ed79e1af", null ],
-    [ "cooldown_ms", "df/d50/a19137.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
-    [ "id", "df/d50/a19137.html#ae9fdf89271339b93f306c4aa0871f844", null ],
-    [ "range", "df/d50/a19137.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
-    [ "targetType", "df/d50/a19137.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
+    [ "npc_captain_grondelAI", "df/d50/a19137.html#afbc971fc03584b87229318309d51a2f5", null ],
+    [ "Reset", "df/d50/a19137.html#a7d3878822e77fba66891e87e23bd3740", null ],
+    [ "UpdateAI", "df/d50/a19137.html#a4af8548092b49653805224bd4c0ac0a2", null ]
 ];

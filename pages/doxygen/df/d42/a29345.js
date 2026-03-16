@@ -1,7 +1,7 @@
 var a29345 =
 [
-    [ "npc_steam_tonkAI", "df/d42/a29345.html#a64bc74af412304d50526e5c93e01a333", null ],
-    [ "JustEngagedWith", "df/d42/a29345.html#a95b023adf0a2e62788e0d5646b17b319", null ],
-    [ "OnPossess", "df/d42/a29345.html#a954208c1a9826ae84a7402f59e1d7055", null ],
-    [ "Reset", "df/d42/a29345.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
+    [ "Flags", "df/d42/a29345.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
+    [ "ID", "df/d42/a29345.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
+    [ "RangeMax", "df/d42/a29345.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
+    [ "RangeMin", "df/d42/a29345.html#a127a46f2382edea750ca567d5ea3d304", null ]
 ];

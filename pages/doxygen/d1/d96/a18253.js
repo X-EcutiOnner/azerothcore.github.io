@@ -1,7 +1,6 @@
 var a18253 =
 [
-    [ "HandleSummon", "d1/d96/a18253.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "d1/d96/a18253.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "d1/d96/a18253.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "d1/d96/a18253.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "HandlePeriodicTick", "d1/d96/a18253.html#a29bf443cdb53b10032ba382b8ae44828", null ],
+    [ "PrepareAuraScript", "d1/d96/a18253.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
+    [ "Register", "d1/d96/a18253.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
 ];

@@ -1,8 +1,7 @@
 var a11601 =
 [
-    [ "EffectHandler", "db/d8c/a11601.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
-    [ "Call", "db/d8c/a11601.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
-    [ "CheckEffect", "db/d8c/a11601.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
-    [ "ToString", "db/d8c/a11601.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
-    [ "pEffectHandlerScript", "db/d8c/a11601.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
+    [ "chance", "db/d8c/a11601.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
+    [ "triggeredByAura", "db/d8c/a11601.html#abb48d6093570ba9c5488f200544a1e83", null ],
+    [ "triggeredByEffIdx", "db/d8c/a11601.html#a82d752dedab39f417af225add6af1403", null ],
+    [ "triggeredSpell", "db/d8c/a11601.html#a02ac12119655f9ab82347d21cc68803a", null ]
 ];

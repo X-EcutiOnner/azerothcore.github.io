@@ -1,6 +1,7 @@
 var a16117 =
 [
-    [ "npc_weegli_blastfuseAI", "de/de6/a16121.html", "de/de6/a16121" ],
-    [ "npc_weegli_blastfuse", "d2/ddb/a16117.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
-    [ "GetAI", "d2/ddb/a16117.html#a701681d8771756dac20d30c2e03a1349", null ]
+    [ "npc_toogaAI", "de/de6/a16121.html", "de/de6/a16121" ],
+    [ "npc_tooga", "d2/ddb/a16117.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
+    [ "GetAI", "d2/ddb/a16117.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
+    [ "OnQuestAccept", "d2/ddb/a16117.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
 ];

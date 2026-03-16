@@ -1,5 +1,6 @@
 var a28189 =
 [
-    [ "Id", "dd/d8c/a28189.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
-    [ "PowerType", "dd/d8c/a28189.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
+    [ "go_l70_etc_musicAI", "dd/d1a/a28193.html", "dd/d1a/a28193" ],
+    [ "go_l70_etc_music", "dd/d8c/a28189.html#a766dccca12fc7959273ba1e3a278564f", null ],
+    [ "GetAI", "dd/d8c/a28189.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
 ];

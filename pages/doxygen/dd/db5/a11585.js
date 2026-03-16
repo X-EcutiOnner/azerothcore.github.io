@@ -1,7 +1,10 @@
 var a11585 =
 [
-    [ "EffectAuraNameCheck", "dd/db5/a11585.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
-    [ "Check", "dd/db5/a11585.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
-    [ "ToString", "dd/db5/a11585.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
-    [ "effAurName", "dd/db5/a11585.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
+    [ "TriggeredByAuraSpellData", "dd/db5/a11585.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
+    [ "Init", "dd/db5/a11585.html#a782e0056967e006748318af3112c0e43", null ],
+    [ "operator bool", "dd/db5/a11585.html#a85d4782b76b060c172aaa6f914d400da", null ],
+    [ "operator!", "dd/db5/a11585.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
+    [ "effectIndex", "dd/db5/a11585.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
+    [ "spellInfo", "dd/db5/a11585.html#af58f62fb168e9da7011f7b570f08e977", null ],
+    [ "tickNumber", "dd/db5/a11585.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
 ];

@@ -1,8 +1,6 @@
 var a25585 =
 [
-    [ "HandleDummy", "df/d98/a25585.html#a57897df074b7766c022526e082b4a13b", null ],
-    [ "Load", "df/d98/a25585.html#a47cbade67be124496c6194391ab51794", null ],
-    [ "PrepareSpellScript", "df/d98/a25585.html#af5e5a22976adfa5588ca8e054e19a669", null ],
-    [ "Register", "df/d98/a25585.html#ab0c3be8436b79288bb45899448fd6c1b", null ],
-    [ "Validate", "df/d98/a25585.html#a97d037267e385e0d3fd80543a5ddb366", null ]
+    [ "FilterTargets", "df/d98/a25585.html#a80d2ffcd64161e53fd795bd40d2b38e0", null ],
+    [ "PrepareSpellScript", "df/d98/a25585.html#a9fb910382c89750e38cb36bed48a1597", null ],
+    [ "Register", "df/d98/a25585.html#a667b10129d2d23f72712be523dc93180", null ]
 ];

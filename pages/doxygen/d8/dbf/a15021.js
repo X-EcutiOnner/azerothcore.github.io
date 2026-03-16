@@ -1,10 +1,16 @@
 var a15021 =
 [
-    [ "hyjalJainaAI", "d8/dbf/a15021.html#aa7532b691e85fd9bd467e20db39c59da", null ],
-    [ "IsSummonedBy", "d8/dbf/a15021.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
-    [ "JustDied", "d8/dbf/a15021.html#a605687080e5149b3f08ce8349ba9b336", null ],
-    [ "JustEngagedWith", "d8/dbf/a15021.html#a187efe775b1e2a35637638507e77352e", null ],
-    [ "PathEndReached", "d8/dbf/a15021.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
-    [ "Reset", "d8/dbf/a15021.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
-    [ "UpdateAI", "d8/dbf/a15021.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
+    [ "npc_pilgrims_bounty_chair", "d8/dbf/a15021.html#a896c9efee388d7cb5d6dc82e7c537021", null ],
+    [ "AttackStart", "d8/dbf/a15021.html#ad2ed9436e8c6d3afa4ac747b925e66a4", null ],
+    [ "DamageTaken", "d8/dbf/a15021.html#a29b012b8fc4e7cb30072b2c4a935dd3a", null ],
+    [ "DoAction", "d8/dbf/a15021.html#a8a7c49f28df937e90dbaa83be85b595e", null ],
+    [ "GetPlate", "d8/dbf/a15021.html#ad3cbb85577ca0f7b596d1882c71f2371", null ],
+    [ "MoveInLineOfSight", "d8/dbf/a15021.html#aa44fc14f98ac00cfe098516963cc3c8b", null ],
+    [ "PassengerBoarded", "d8/dbf/a15021.html#a9a43ccc98f2e184f709b1af6992acea8", null ],
+    [ "SpellHit", "d8/dbf/a15021.html#a681323ae3100f46dd0aba595159d7daf", null ],
+    [ "SpellHitTarget", "d8/dbf/a15021.html#affd51da83859b962977ed6b51c74d01e", null ],
+    [ "UpdateAI", "d8/dbf/a15021.html#aebe6eb7aca62faece6dfb6dff27d775e", null ],
+    [ "plateGUID", "d8/dbf/a15021.html#a23b35fee8255073c7b94d7bac54d9b22", null ],
+    [ "timerRotateChair", "d8/dbf/a15021.html#a2b9c9bc4d9f4abc53dc717ab3aa9865e", null ],
+    [ "timerSpawnPlate", "d8/dbf/a15021.html#a907cb3d22f4e0daf92dada09fdc16b94", null ]
 ];

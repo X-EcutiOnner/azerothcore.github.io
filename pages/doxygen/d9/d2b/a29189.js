@@ -1,10 +1,12 @@
 var a29189 =
 [
-    [ "npc_prof_tailor", "d9/d2b/a29189.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
-    [ "HasTailorSpell", "d9/d2b/a29189.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
-    [ "OnGossipHello", "d9/d2b/a29189.html#a686098ac43916ea2f82b7c321527863d", null ],
-    [ "OnGossipSelect", "d9/d2b/a29189.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
-    [ "SendActionMenu", "d9/d2b/a29189.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
-    [ "SendConfirmLearn", "d9/d2b/a29189.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
-    [ "SendConfirmUnlearn", "d9/d2b/a29189.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
+    [ "CalendarFilterType", "d9/d2b/a29189.html#a082b59a0ead8223e590cbb371f3ad122", null ],
+    [ "CalendarFlags", "d9/d2b/a29189.html#a6f9cf483200ac982bab7a66ff8bef33d", null ],
+    [ "Date", "d9/d2b/a29189.html#ac5b08b086ef0668508ea9da48642e95b", null ],
+    [ "Duration", "d9/d2b/a29189.html#a10cae1b1fbb91930209a714c545b129b", null ],
+    [ "Id", "d9/d2b/a29189.html#a1119824959b87fb312209a998a5869b1", null ],
+    [ "Looping", "d9/d2b/a29189.html#afa2d93998650f88e62bfa76807961274", null ],
+    [ "Priority", "d9/d2b/a29189.html#a6d82bc7a66d227f61c3be2260a3d03f5", null ],
+    [ "Region", "d9/d2b/a29189.html#a96a8e5ceae0f4b0d8cc6cf3aa59802a0", null ],
+    [ "TextureFilename", "d9/d2b/a29189.html#a2209ecbb78f1f467491506cc97df57e4", null ]
 ];

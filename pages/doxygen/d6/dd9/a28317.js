@@ -1,13 +1,8 @@
 var a28317 =
 [
-    [ "actionFlag", "d6/dd9/a28317.html#a6257ae486eff937cf12be64f0e850ca6", null ],
-    [ "arrivalEventID", "d6/dd9/a28317.html#a1ffe17f529066091b18451a1121ce6ac", null ],
-    [ "delay", "d6/dd9/a28317.html#aef005db912b0a57ecc5d62c66d838826", null ],
-    [ "departureEventID", "d6/dd9/a28317.html#a670a033aaf0ff48676373baf9235d670", null ],
-    [ "index", "d6/dd9/a28317.html#af9f8e03c2d9c1bdf266b3d62f1174224", null ],
-    [ "mapid", "d6/dd9/a28317.html#aa2c6fb8a785e297c72384043698dd401", null ],
-    [ "path", "d6/dd9/a28317.html#aa0692acbae0d4639c89ece77265d7858", null ],
-    [ "x", "d6/dd9/a28317.html#a9acd2aad6b8820c04f6749bd2944b54f", null ],
-    [ "y", "d6/dd9/a28317.html#a08778d3ef9a9a87fd731b54d5501daab", null ],
-    [ "z", "d6/dd9/a28317.html#af48d85940d7f204091e8438427a72e2d", null ]
+    [ "go_bellsAI", "d6/dd9/a28317.html#a6f22847c66a3b5faded35da799359846", null ],
+    [ "UpdateAI", "d6/dd9/a28317.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
+    [ "_events", "d6/dd9/a28317.html#a46c66442078cee28a76fc412746ca026", null ],
+    [ "_soundId", "d6/dd9/a28317.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
+    [ "once", "d6/dd9/a28317.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
 ];

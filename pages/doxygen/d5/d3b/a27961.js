@@ -1,7 +1,5 @@
 var a27961 =
 [
-    [ "bit_index", "d5/d3b/a27961.html#a1e5cb3fc001169a204507a084435a211", null ],
-    [ "ID", "d5/d3b/a27961.html#a63fe7a87e019780d20e86e48efb02eac", null ],
-    [ "nameFemale", "d5/d3b/a27961.html#ad0380caf2526715faaddc9330062d90a", null ],
-    [ "nameMale", "d5/d3b/a27961.html#a74a767731c96d3d815ddde5a06f68599", null ]
+    [ "achievement_bg_ic_mowed_down", "d5/d3b/a27961.html#ab05387d1e14958e87123bd0fc2188445", null ],
+    [ "OnCheck", "d5/d3b/a27961.html#a385e09c605084900f374090e5e19c24f", null ]
 ];

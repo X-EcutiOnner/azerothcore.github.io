@@ -1,14 +1,7 @@
 var a16889 =
 [
-    [ "npc_snobold_vassalAI", "df/dd0/a16889.html#a2ecc5e8289252b2936f36de9921294e0", null ],
-    [ "AttackStart", "df/dd0/a16889.html#a50afc82c80cede8dcf3240a116463411", null ],
-    [ "DoAction", "df/dd0/a16889.html#a8beac97ea5f7c797d2ae52e2f3c3be50", null ],
-    [ "JustDied", "df/dd0/a16889.html#aef408460584a17f15a84e8a6435c6348", null ],
-    [ "JustEngagedWith", "df/dd0/a16889.html#a60c1704617e99239d60d24d6b7513c1a", null ],
-    [ "MoveInLineOfSight", "df/dd0/a16889.html#aae75a4e69e27c1e4778a7f76caff04ba", null ],
-    [ "Reset", "df/dd0/a16889.html#af794f46b1a7af97b52683954b556c27d", null ],
-    [ "UpdateAI", "df/dd0/a16889.html#ac1d282da6f2d9133619a212a349c777f", null ],
-    [ "events", "df/dd0/a16889.html#adfb6df0ee8ab19b58de24da8d4e6d9df", null ],
-    [ "pInstance", "df/dd0/a16889.html#afc140e6f9fc1ec78914aecc5150345b0", null ],
-    [ "TargetGUID", "df/dd0/a16889.html#a0d36e4903448c5a03115df0dff3480c8", null ]
+    [ "npc_toc_shamanAI", "df/dd0/a16889.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
+    [ "myCanCast", "df/dd0/a16889.html#a993739662d2687c27219853669b8a485", null ],
+    [ "UpdateAI", "df/dd0/a16889.html#a2ad17245685feb3f085ef9a669459c61", null ],
+    [ "events", "df/dd0/a16889.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
 ];

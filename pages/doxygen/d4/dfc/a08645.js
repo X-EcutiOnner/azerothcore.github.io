@@ -1,6 +1,7 @@
 var a08645 =
 [
-    [ "PlayerCreateInfoItem", "d4/dfc/a08645.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
-    [ "item_amount", "d4/dfc/a08645.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
-    [ "item_id", "d4/dfc/a08645.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
+    [ "AddToGrid", "d4/dfc/a08645.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
+    [ "IsInGrid", "d4/dfc/a08645.html#a996724d21d62e478f50031faa7637cd5", null ],
+    [ "RemoveFromGrid", "d4/dfc/a08645.html#a29740a98fea7db66cdffd824940a2ec2", null ],
+    [ "_gridRef", "d4/dfc/a08645.html#aa44ba47734267ac07b733f218623f3c5", null ]
 ];

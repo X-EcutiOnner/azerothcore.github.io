@@ -1,7 +1,8 @@
 var a26021 =
 [
-    [ "HandleScriptEffect", "d7/df9/a26021.html#a8c7ede10a8f7d0c1ea04c21166807995", null ],
-    [ "PrepareSpellScript", "d7/df9/a26021.html#af52663b01774372d3e6f695d2f395cb5", null ],
-    [ "Register", "d7/df9/a26021.html#abcefab06ff481fad88be4d7ad9289808", null ],
-    [ "Validate", "d7/df9/a26021.html#af269a7085412b5a889dfb802d1dc7fbe", null ]
+    [ "OnRemove", "d7/df9/a26021.html#a645e869079e711a87f1a957b42a35e98", null ],
+    [ "OnStackChange", "d7/df9/a26021.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b", null ],
+    [ "PrepareAuraScript", "d7/df9/a26021.html#a5f9e9d07879705917e1cd261808f0a8f", null ],
+    [ "Register", "d7/df9/a26021.html#ac86068a892255e38244c487a7456cd9f", null ],
+    [ "Validate", "d7/df9/a26021.html#a74cb62725d939000a1c4ab32b4f4335f", null ]
 ];

@@ -1,10 +1,10 @@
 var a19709 =
 [
-    [ "npc_oculus_drakegiverAI", "d1/dc9/a19713.html", "d1/dc9/a19713" ],
-    [ "npc_oculus_drakegiver", "dd/d5e/a19709.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
-    [ "GetAI", "dd/d5e/a19709.html#aa26a2b82c5e4076ce704d5884895d903", null ],
-    [ "OnGossipHello", "dd/d5e/a19709.html#ac00d09d2d81121d562e3303704229c18", null ],
-    [ "OnGossipSelect", "dd/d5e/a19709.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
-    [ "RemoveEssence", "dd/d5e/a19709.html#a70513d873111c590ca4e33cb446a4438", null ],
-    [ "StoreEssence", "dd/d5e/a19709.html#ac8bbe890722aa924a7f0dee161d342c4", null ]
+    [ "npc_power_spark", "dd/d5e/a19709.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
+    [ "DamageTaken", "dd/d5e/a19709.html#afe33d511823666929232bfd0179ee72a", null ],
+    [ "DoAction", "dd/d5e/a19709.html#ab99a859ee718d49ce59171e7e7159abc", null ],
+    [ "UpdateAI", "dd/d5e/a19709.html#ab36e75c87aa262a57be1594289284730", null ],
+    [ "_checkTimer", "dd/d5e/a19709.html#ae63f0f359037363b840fe51a797969b5", null ],
+    [ "_instance", "dd/d5e/a19709.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
+    [ "_moveTimer", "dd/d5e/a19709.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
 ];

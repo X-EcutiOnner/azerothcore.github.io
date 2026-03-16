@@ -1,7 +1,7 @@
 var a14861 =
 [
-    [ "HandleDummy", "db/dab/a14861.html#a05c3589ee04eed87449f652db065f0e9", null ],
-    [ "PrepareSpellScript", "db/dab/a14861.html#afb79a2cf5359e7ec69746cd89d8cd727", null ],
-    [ "Register", "db/dab/a14861.html#a51207fcd4f272e120fe1af2ac78c1f80", null ],
-    [ "Validate", "db/dab/a14861.html#a5fc6dae87ffb634cc0de389196751b22", null ]
+    [ "HandleEffectApply", "db/dab/a14861.html#a22f3143b10155635194abe22994a397c", null ],
+    [ "HandleEffectRemove", "db/dab/a14861.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
+    [ "PrepareAuraScript", "db/dab/a14861.html#abb4f53a42e701323b2fc66598ec3503c", null ],
+    [ "Register", "db/dab/a14861.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
 ];

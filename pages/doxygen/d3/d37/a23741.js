@@ -1,6 +1,7 @@
 var a23741 =
 [
-    [ "instance_mechanar_InstanceMapScript", "d0/d93/a23745.html", "d0/d93/a23745" ],
-    [ "instance_mechanar", "d3/d37/a23741.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
-    [ "GetInstanceScript", "d3/d37/a23741.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
+    [ "boss_warp_splinter", "d3/d37/a23741.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "d3/d37/a23741.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "d3/d37/a23741.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "d3/d37/a23741.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

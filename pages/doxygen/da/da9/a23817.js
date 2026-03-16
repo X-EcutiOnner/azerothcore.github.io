@@ -1,6 +1,6 @@
 var a23817 =
 [
-    [ "npc_aeranasAI", "da/d23/a23821.html", "da/d23/a23821" ],
-    [ "npc_aeranas", "da/da9/a23817.html#a6ea71481ef6a223a329b805081122537", null ],
-    [ "GetAI", "da/da9/a23817.html#a81167df6665bdca81ee13468dec19643", null ]
+    [ "HandlePeriodic", "da/da9/a23817.html#aec3f36e2c5fedddd84478b9e3a59e6f4", null ],
+    [ "PrepareAuraScript", "da/da9/a23817.html#a2b809a60626119f6bcf595bd3581c2be", null ],
+    [ "Register", "da/da9/a23817.html#a299f84e9c12406c79a56999a13de5c1c", null ]
 ];

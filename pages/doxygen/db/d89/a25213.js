@@ -1,6 +1,6 @@
 var a25213 =
 [
-    [ "CheckCast", "db/d89/a25213.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
-    [ "PrepareSpellScript", "db/d89/a25213.html#a0bc2de519e0c84688fad609444d28afa", null ],
-    [ "Register", "db/d89/a25213.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
+    [ "HandleScriptEffect", "db/d89/a25213.html#a514697f3fdcbf9274453d6d71c0c4816", null ],
+    [ "PrepareSpellScript", "db/d89/a25213.html#a5bcff624e9a396a2f90115dc99d93ae9", null ],
+    [ "Register", "db/d89/a25213.html#aebcc23e4f4a1c5ab90fb06a47755ec2b", null ]
 ];

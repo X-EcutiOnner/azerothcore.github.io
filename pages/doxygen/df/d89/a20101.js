@@ -1,8 +1,8 @@
 var a20101 =
 [
-    [ "npc_mechanolift", "df/d89/a20101.html#a49a58f64f5ea9da1959e3cda778abe79", null ],
-    [ "Reset", "df/d89/a20101.html#a1cc7147022120779b53a9d61e11703f5", null ],
-    [ "UpdateAI", "df/d89/a20101.html#adcddee44e440887f2261539e30f22a82", null ],
-    [ "_evadeTimer", "df/d89/a20101.html#aff669400962b113bf48cee147bc88ed8", null ],
-    [ "_startTimer", "df/d89/a20101.html#a3d0f747ce72f523ac11daaec89afa844", null ]
+    [ "npc_algalon_worm_hole", "df/d89/a20101.html#a546bd0ede2586fcbe3812698b68528d4", null ],
+    [ "JustSummoned", "df/d89/a20101.html#a077425b35d86c007daa93fc8b1fd9717", null ],
+    [ "Reset", "df/d89/a20101.html#a363814abdee714faddfd966b11a4fddc", null ],
+    [ "UpdateAI", "df/d89/a20101.html#a16f644be53169adc67fc971bdeaa7263", null ],
+    [ "_summonTimer", "df/d89/a20101.html#a033382dbd57714e815eed8ef6e4adfaf", null ]
 ];

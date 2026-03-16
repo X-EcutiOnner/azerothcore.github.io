@@ -1,5 +1,6 @@
 var a26869 =
 [
-    [ "achievement_save_the_day", "db/de1/a26869.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
-    [ "OnCheck", "db/de1/a26869.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
+    [ "FilterTargets", "db/de1/a26869.html#a23c7b977f7e213322b3702367d6a28c7", null ],
+    [ "PrepareSpellScript", "db/de1/a26869.html#a7000b2fd940c914933c486e847932b62", null ],
+    [ "Register", "db/de1/a26869.html#a870ee08d0341f6640710a87c97a6b98b", null ]
 ];

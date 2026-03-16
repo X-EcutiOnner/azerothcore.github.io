@@ -1,7 +1,6 @@
 var a15793 =
 [
-    [ "HandleDummy", "d3/d8b/a15793.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
-    [ "PrepareSpellScript", "d3/d8b/a15793.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
-    [ "Register", "d3/d8b/a15793.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
-    [ "Validate", "d3/d8b/a15793.html#a041c84fd605abd36b8f774903a5200dc", null ]
+    [ "npc_muglashAI", "da/dc9/a15797.html", "da/dc9/a15797" ],
+    [ "npc_muglash", "d3/d8b/a15793.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
+    [ "GetAI", "d3/d8b/a15793.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
 ];

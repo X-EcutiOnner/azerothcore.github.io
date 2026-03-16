@@ -1,9 +1,9 @@
 var a14385 =
 [
-    [ "npc_healing_ward", "d2/d01/a14385.html#a3d3c35f61502d3a83cb2581119e08903", null ],
-    [ "JustEngagedWith", "d2/d01/a14385.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
-    [ "Reset", "d2/d01/a14385.html#a756d27a43d86c7ecde859df255c6bd62", null ],
-    [ "UpdateAI", "d2/d01/a14385.html#a8b8635af33ce814602206064e0815520", null ],
-    [ "_instance", "d2/d01/a14385.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
-    [ "_scheduler", "d2/d01/a14385.html#a0c62fe945b491cab76175217a7d10c06", null ]
+    [ "npc_zulaman_hostageAI", "d2/d01/a14385.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
+    [ "JustDied", "d2/d01/a14385.html#af87bdebb039f1da5736408cf3aad6487", null ],
+    [ "JustEngagedWith", "d2/d01/a14385.html#af0aa229973da1a6230a854439658e9ed", null ],
+    [ "UpdateAI", "d2/d01/a14385.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
+    [ "IsLoot", "d2/d01/a14385.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
+    [ "PlayerGUID", "d2/d01/a14385.html#a49f15c5a94d005c56218d00ac6732b82", null ]
 ];

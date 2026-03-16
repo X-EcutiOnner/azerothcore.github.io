@@ -1,12 +1,12 @@
 var a11425 =
 [
-    [ "SpellDestination", "dd/d54/a11425.html#aa91f31101de3139b2e2d2976dac94686", null ],
-    [ "SpellDestination", "dd/d54/a11425.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
-    [ "SpellDestination", "dd/d54/a11425.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
-    [ "SpellDestination", "dd/d54/a11425.html#a7b8949fa80249aee8bebc56620ec746c", null ],
-    [ "Relocate", "dd/d54/a11425.html#ab565861d5013130639013e3c4d22d712", null ],
-    [ "RelocateOffset", "dd/d54/a11425.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
-    [ "_position", "dd/d54/a11425.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
-    [ "_transportGUID", "dd/d54/a11425.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
-    [ "_transportOffset", "dd/d54/a11425.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
+    [ "Build", "dd/d54/a11425.html#aa5ed2806342a36723f1317105ebc13fa", null ],
+    [ "FormatVersion", "dd/d54/a11425.html#abf0c90aa56c9f74e4139b4a1ead3115e", null ],
+    [ "Locale", "dd/d54/a11425.html#acdcbe4c10ad6143b756638349c185ae5", null ],
+    [ "OptionalDataSize", "dd/d54/a11425.html#a88c79f6e69197e23ce191bcef187c0fe", null ],
+    [ "SessionKey", "dd/d54/a11425.html#aff4e4f46725d72923bac3e197ae7d2e3", null ],
+    [ "Signature", "dd/d54/a11425.html#a34b88d6d83daeee7827176993c152de4", null ],
+    [ "SnifferId", "dd/d54/a11425.html#a95d3f116ef30a096970ee4f3dd10e2ed", null ],
+    [ "SniffStartTicks", "dd/d54/a11425.html#a1884076ea4fe5af08964471d0058fd4d", null ],
+    [ "SniffStartUnixtime", "dd/d54/a11425.html#a8923983e21b7a7f1dd3ee4f21b7df592", null ]
 ];

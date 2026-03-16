@@ -1,8 +1,10 @@
 var a09561 =
 [
-    [ "AllGameObjectsMatchingOneEntryInRange", "d7/dd2/a09561.html#ad64e96c8484be1354ad4a3c0b6754d95", null ],
-    [ "operator()", "d7/dd2/a09561.html#afc81f329be9d6d8eb8bfd2ade94c5665", null ],
-    [ "m_fRange", "d7/dd2/a09561.html#aa76b1a6c8a919c1e5b37c74b33859464", null ],
-    [ "m_pObject", "d7/dd2/a09561.html#ac2bae147199d0b1b592a560017128c4e", null ],
-    [ "m_uiEntries", "d7/dd2/a09561.html#a3eb95fd72147ab8195da44a46c2cf0e6", null ]
+    [ "AnyDeadUnitSpellTargetInRangeCheck", "d7/dd2/a09561.html#a212c308a02716ff382e820e86e233ed3", null ],
+    [ "operator()", "d7/dd2/a09561.html#af328df880d17a62e2dbed0ff4231fc39", null ],
+    [ "operator()", "d7/dd2/a09561.html#adcc69b9ef03a68aa235e40449a80b701", null ],
+    [ "operator()", "d7/dd2/a09561.html#a2f2483cf7078681cb3acf28560e61184", null ],
+    [ "operator()", "d7/dd2/a09561.html#aba0bf4c320a684b68743a06e724a369e", null ],
+    [ "i_check", "d7/dd2/a09561.html#aa2223ad31acf47a1608ded6b5cbc2f03", null ],
+    [ "i_spellInfo", "d7/dd2/a09561.html#afeb889f6cee596b2c2229f86e0a8a3f1", null ]
 ];

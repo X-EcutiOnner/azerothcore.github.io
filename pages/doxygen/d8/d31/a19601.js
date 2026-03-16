@@ -1,6 +1,6 @@
 var a19601 =
 [
-    [ "ChargeRifts", "d8/d31/a19601.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
-    [ "Execute", "d8/d31/a19601.html#a8d01bf861d37c25413dc14eee16a2939", null ],
-    [ "_caster", "d8/d31/a19601.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
+    [ "boss_nothAI", "d3/ddd/a19605.html", "d3/ddd/a19605" ],
+    [ "boss_noth", "d8/d31/a19601.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
+    [ "GetAI", "d8/d31/a19601.html#a534f30792c051ab44c6c07c9347893e5", null ]
 ];

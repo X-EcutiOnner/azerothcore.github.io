@@ -1,9 +1,8 @@
 var a23025 =
 [
-    [ "CalcPeriodic", "df/dad/a23025.html#a5cd39919a088cab2fd160ea6e16ee7c8", null ],
-    [ "HandleEffectApply", "df/dad/a23025.html#adb983cc531fa666648bbdb432684ff1d", null ],
-    [ "HandleEffectRemove", "df/dad/a23025.html#a99c1bfc5aa4b67318bb3572589a42b1a", null ],
-    [ "OnPeriodic", "df/dad/a23025.html#aecefab535157dbe8e42aff3b23cd685b", null ],
-    [ "PrepareAuraScript", "df/dad/a23025.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7", null ],
-    [ "Register", "df/dad/a23025.html#a3771abcc829883ba0cbae9587adbe751", null ]
+    [ "CalcPeriodic", "df/dad/a23025.html#aad87c25b9b3255a4871bec39d9787299", null ],
+    [ "PrepareAuraScript", "df/dad/a23025.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
+    [ "Register", "df/dad/a23025.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
+    [ "Update", "df/dad/a23025.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
+    [ "Validate", "df/dad/a23025.html#ae4f7bfb1cd95666acada217173876352", null ]
 ];

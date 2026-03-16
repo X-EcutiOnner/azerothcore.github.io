@@ -1,6 +1,5 @@
 var a22493 =
 [
-    [ "PrepareSpellScript", "d5/d7b/a22493.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
-    [ "Register", "d5/d7b/a22493.html#aa41700bf097963c5a352442723181037", null ],
-    [ "SelectTarget", "d5/d7b/a22493.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
+    [ "OutdoorPvP_hellfire_peninsula", "d5/d7b/a22493.html#a8ef74076d03225c889c6f027fbbfe25d", null ],
+    [ "GetOutdoorPvP", "d5/d7b/a22493.html#aee93a8191457d7a264053809a5c082e8", null ]
 ];

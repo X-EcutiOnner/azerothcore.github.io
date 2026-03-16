@@ -1,7 +1,7 @@
 var a19797 =
 [
-    [ "OnRemove", "d5/d11/a19797.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
-    [ "PrepareAuraScript", "d5/d11/a19797.html#a2d278e60b34870110dab188896109e24", null ],
-    [ "Register", "d5/d11/a19797.html#ac15847527cc4d162b3b34b8ca8628864", null ],
-    [ "Validate", "d5/d11/a19797.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
+    [ "HandlePull", "d5/d11/a19797.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
+    [ "PrepareSpellScript", "d5/d11/a19797.html#ac192245513e162a2842e47f5b0d64338", null ],
+    [ "Register", "d5/d11/a19797.html#af6c7a881c2fcf07461006fef63074e5e", null ],
+    [ "SelectTarget", "d5/d11/a19797.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
 ];

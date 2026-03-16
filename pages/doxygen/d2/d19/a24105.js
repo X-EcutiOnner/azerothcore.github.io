@@ -1,6 +1,6 @@
 var a24105 =
 [
-    [ "HandleSendEvent", "d2/d19/a24105.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
-    [ "PrepareSpellScript", "d2/d19/a24105.html#aed8815b1d068ba04f12c7714a64af769", null ],
-    [ "Register", "d2/d19/a24105.html#aa55fa06e76b1f34e319e16984405ed20", null ]
+    [ "CheckCast", "d2/d19/a24105.html#ae13cc2d3da1c9911c88402d05679d447", null ],
+    [ "PrepareSpellScript", "d2/d19/a24105.html#afbed81273aa23d355c64579c71e9761d", null ],
+    [ "Register", "d2/d19/a24105.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
 ];

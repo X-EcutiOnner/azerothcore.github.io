@@ -1,18 +1,12 @@
 var a19449 =
 [
-    [ "boss_nothAI", "d0/d4d/a19449.html#a0a1f8e88396b04d070c4034b2419f0bb", null ],
-    [ "EnterEvadeMode", "d0/d4d/a19449.html#af0c4cfb04564b23840ee88dfa1badf55", null ],
-    [ "IsInRoom", "d0/d4d/a19449.html#a8e9c27804ae01e46285a3bed42091754", null ],
-    [ "JustDied", "d0/d4d/a19449.html#a18dd73c178eff3170d371c4bd4062b76", null ],
-    [ "JustEngagedWith", "d0/d4d/a19449.html#aed044bf36d56b2241e591eb45999900b", null ],
-    [ "JustSummoned", "d0/d4d/a19449.html#a61e814ce0a861ba98ccc21d8d6df128a", null ],
-    [ "KilledUnit", "d0/d4d/a19449.html#a1d5b013cdbaab702a85fc1d344ad6f6a", null ],
-    [ "Reset", "d0/d4d/a19449.html#a311754fa1fa1b112272395179e3b1bff", null ],
-    [ "StartBalconyPhase", "d0/d4d/a19449.html#ac890e5f4e6e9e40d78e75d2c86bd6740", null ],
-    [ "StartGroundPhase", "d0/d4d/a19449.html#a3ae5f948e2faf051b1cb88cd638c612e", null ],
-    [ "SummonHelper", "d0/d4d/a19449.html#abfe6252bec42fdc3d7738aef3dd2ec74", null ],
-    [ "UpdateAI", "d0/d4d/a19449.html#a87f4e825fb8f9f48991d5dcf94af78e3", null ],
-    [ "events", "d0/d4d/a19449.html#a3f3e282c6ee1d259f1f2a401f6195251", null ],
-    [ "summons", "d0/d4d/a19449.html#a4e95ad18274331e402124d4a8424cb18", null ],
-    [ "timesInBalcony", "d0/d4d/a19449.html#a249c96d4230bd2b43c4be733317c4bc4", null ]
+    [ "boss_faerlinaAI", "d0/d4d/a19449.html#a3a97178599b9053c23a079ed1a2ed163", null ],
+    [ "JustDied", "d0/d4d/a19449.html#a7ac2e510568a9dad710beaad42db0544", null ],
+    [ "JustEngagedWith", "d0/d4d/a19449.html#a830dfa4fed62b4588ea8866174d3653a", null ],
+    [ "KilledUnit", "d0/d4d/a19449.html#a6f7a6e66abcf4f4dd685bbb805920900", null ],
+    [ "MoveInLineOfSight", "d0/d4d/a19449.html#aa5cd735c22d46e1b756f87f3952033a1", null ],
+    [ "Reset", "d0/d4d/a19449.html#acee81492b9b751df587a3a2cdd691ab3", null ],
+    [ "SpellHit", "d0/d4d/a19449.html#aa4fac163e31dcd9353238f993259d5ec", null ],
+    [ "SummonHelpers", "d0/d4d/a19449.html#af2fbf866f87d568ee6028f0931d3b74e", null ],
+    [ "_introDone", "d0/d4d/a19449.html#a9febd1d69c27140ddd2ac018181c67ec", null ]
 ];

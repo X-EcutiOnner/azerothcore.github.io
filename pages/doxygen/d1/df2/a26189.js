@@ -1,7 +1,6 @@
 var a26189 =
 [
-    [ "CheckTarget", "d1/df2/a26189.html#abaef73201d2e0bd1d6789309442019e0", null ],
-    [ "HandleScriptEffect", "d1/df2/a26189.html#a545196cd976bfabbd85ba48942012e1e", null ],
-    [ "PrepareSpellScript", "d1/df2/a26189.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
-    [ "Register", "d1/df2/a26189.html#a36563a197b7377660b7c3f9e85d478bd", null ]
+    [ "PrepareSpellScript", "d1/df2/a26189.html#a7099b8d28128cfea49288792ea02606c", null ],
+    [ "Register", "d1/df2/a26189.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
+    [ "UpdateTarget", "d1/df2/a26189.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
 ];

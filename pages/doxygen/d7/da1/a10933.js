@@ -1,5 +1,7 @@
 var a10933 =
 [
-    [ "ResetInstances", "d7/da1/a10933.html#a64d9627a48ae2bfcda68b7d04273fe18", null ],
-    [ "Read", "d7/da1/a10933.html#a7f190f2bb133fa18e46830f68695b050", null ]
+    [ "GuildSetMemberNote", "d7/da1/a10933.html#a4747c3d015cb1b0d0056928fd75e4d18", null ],
+    [ "Read", "d7/da1/a10933.html#a3d90b6ce26d55a55bac1d953dd39b049", null ],
+    [ "Note", "d7/da1/a10933.html#a33b7b73bd5d26c2a0ac99d6dc0131c41", null ],
+    [ "NoteeName", "d7/da1/a10933.html#acf6beb0a5b122a04162e9d2c027203af", null ]
 ];

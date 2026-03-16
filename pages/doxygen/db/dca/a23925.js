@@ -1,10 +1,6 @@
 var a23925 =
 [
-    [ "npc_maxx_a_million_escortAI", "db/dca/a23925.html#ab827933527ed7b4a04b162034876ced8", null ],
-    [ "JustDied", "db/dca/a23925.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
-    [ "Reset", "db/dca/a23925.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
-    [ "UpdateAI", "db/dca/a23925.html#a3b022feb2303875d32ad981e84f66854", null ],
-    [ "WaypointReached", "db/dca/a23925.html#acd6f45abb93f3f043cd85647405a50f6", null ],
-    [ "bTake", "db/dca/a23925.html#ac697fc6cbc20c7f316845ed26436049b", null ],
-    [ "uiTakeTimer", "db/dca/a23925.html#a5d4826dcf893f444a42dedba57460110", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d5/ded/a23929.html", "d5/ded/a23929" ],
+    [ "npc_deaths_door_fell_cannon_target_bunny", "db/dca/a23925.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
+    [ "GetAI", "db/dca/a23925.html#a250707096229da28024960beeb7725bf", null ]
 ];

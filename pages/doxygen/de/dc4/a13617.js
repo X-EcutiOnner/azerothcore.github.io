@@ -1,6 +1,7 @@
 var a13617 =
 [
-    [ "FilterTargets", "de/dc4/a13617.html#a78675c3421e0243de9e136b646c56be1", null ],
-    [ "PrepareSpellScript", "de/dc4/a13617.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
-    [ "Register", "de/dc4/a13617.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
+    [ "npc_apothecary_genericAI", "de/dc4/a13617.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "de/dc4/a13617.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "de/dc4/a13617.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "de/dc4/a13617.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

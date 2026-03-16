@@ -1,8 +1,9 @@
 var a19949 =
 [
-    [ "HandlePeriodic", "d9/df2/a19949.html#a2724a85983561a14db8b06ae492ead55", null ],
-    [ "OnRemove", "d9/df2/a19949.html#a6d0f941f30d8c850e48396fffd13768d", null ],
-    [ "PrepareAuraScript", "d9/df2/a19949.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
-    [ "Register", "d9/df2/a19949.html#a85270947972be9c299a642b31969ef68", null ],
-    [ "Validate", "d9/df2/a19949.html#a91ebb4e69d02deb5129965f543c474d1", null ]
+    [ "npc_stormforged_lieutenant", "d9/df2/a19949.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
+    [ "JustEngagedWith", "d9/df2/a19949.html#a262ac995279b1a936534c858e21122a9", null ],
+    [ "Reset", "d9/df2/a19949.html#abc359564370152b28a002a801ba1ab3d", null ],
+    [ "UpdateAI", "d9/df2/a19949.html#a4c207f0ef172585b97695b63e119d1bc", null ],
+    [ "BjarngrimGUID", "d9/df2/a19949.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
+    [ "events", "d9/df2/a19949.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
 ];

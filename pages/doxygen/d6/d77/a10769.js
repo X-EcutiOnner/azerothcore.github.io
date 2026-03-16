@@ -1,11 +1,6 @@
 var a10769 =
 [
-    [ "GuildRankTabPermissions", "df/d5f/a10773.html", "df/d5f/a10773" ],
-    [ "GuildPermissionsQueryResults", "d6/d77/a10769.html#aa643af51780fc550f3947936266d54f5", null ],
-    [ "Write", "d6/d77/a10769.html#a4a5937a8daab44b5000a5308ed0be06a", null ],
-    [ "Flags", "d6/d77/a10769.html#a368162426ab526adafc7ecb223fdf865", null ],
-    [ "NumTabs", "d6/d77/a10769.html#ab797ef0f0081c4520a6333afbe6cd5b4", null ],
-    [ "RankID", "d6/d77/a10769.html#a795ba45650991bd5c1aa03c17886d86b", null ],
-    [ "Tab", "d6/d77/a10769.html#ae54eeb1a76f5eeaf4a63bcb58bab3460", null ],
-    [ "WithdrawGoldLimit", "d6/d77/a10769.html#a9d175a8de69f15c3f8eadf237f68e84a", null ]
+    [ "ShowingHelm", "d6/d77/a10769.html#a67e25a4a39b14e488b5176b02e8dc995", null ],
+    [ "Read", "d6/d77/a10769.html#a9e6d525a7104f2a8f81564d3796c6211", null ],
+    [ "ShowHelm", "d6/d77/a10769.html#a9f3d52d5d6a6fa76b29afbd5a56d5622", null ]
 ];

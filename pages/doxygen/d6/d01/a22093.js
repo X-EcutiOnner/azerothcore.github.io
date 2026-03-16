@@ -1,7 +1,7 @@
 var a22093 =
 [
-    [ "npc_hyldsmeet_protodrake", "d6/d01/a22093.html#a409a5f5eace583ef874421819c975ed8", null ],
-    [ "PassengerBoarded", "d6/d01/a22093.html#a0067d3b394c967946e329ea25c2dc315", null ],
-    [ "UpdateAI", "d6/d01/a22093.html#a49ce0b6b324b968b1b2902c1db037a53", null ],
-    [ "_accessoryRespawnTimer", "d6/d01/a22093.html#a724645a3d05ba26d99a8bc1668d1dc3a", null ]
+    [ "HandleScriptEffect", "d6/d01/a22093.html#ad20cf97a7dd442d5670a22095b487a01", null ],
+    [ "PrepareSpellScript", "d6/d01/a22093.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
+    [ "Register", "d6/d01/a22093.html#a996ea344ea2a3312cb8886565b80972d", null ],
+    [ "Validate", "d6/d01/a22093.html#a29bf5a9615e02281f426bf521a045567", null ]
 ];

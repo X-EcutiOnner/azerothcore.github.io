@@ -1,9 +1,7 @@
 var a25961 =
 [
-    [ "Load", "d5/d34/a25961.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
-    [ "PrepareSpellScript", "d5/d34/a25961.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
-    [ "Register", "d5/d34/a25961.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
-    [ "TriggerHeal", "d5/d34/a25961.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
-    [ "Validate", "d5/d34/a25961.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
-    [ "healPct", "d5/d34/a25961.html#a33b4d26c34903e45b7274e369f096ce1", null ]
+    [ "HandleDummy", "d5/d34/a25961.html#a3f9d43d11b344e3eb02fdc088506008e", null ],
+    [ "PrepareSpellScript", "d5/d34/a25961.html#a1fb13b562c5d4f905739e193bc5292dd", null ],
+    [ "Register", "d5/d34/a25961.html#a581e04721eb9564d1300ddd78c805368", null ],
+    [ "Validate", "d5/d34/a25961.html#a18a648ebf1dbc9a11d09e457a33d0e33", null ]
 ];

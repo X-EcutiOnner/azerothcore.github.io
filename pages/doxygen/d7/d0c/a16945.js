@@ -1,5 +1,8 @@
 var a16945 =
 [
-    [ "boss_fjolaAI", "d7/d0c/a16945.html#aa46fdff841d01f28ef50aa5363082f71", null ],
-    [ "JustSummoned", "d7/d0c/a16945.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
+    [ "npc_toc_boomkinAI", "d7/d0c/a16945.html#a12c586d57aa6dd3893889f103dbfee20", null ],
+    [ "JustSummoned", "d7/d0c/a16945.html#a0d049885773b7f1abd7e03f9200852f4", null ],
+    [ "myCanCast", "d7/d0c/a16945.html#a691a0250db77cc4def2bf67b25a1298c", null ],
+    [ "UpdateAI", "d7/d0c/a16945.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
+    [ "events", "d7/d0c/a16945.html#a0b367855092884b2ce30834e89fced87", null ]
 ];

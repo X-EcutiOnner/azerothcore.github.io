@@ -1,5 +1,9 @@
 var a09065 =
 [
-    [ "asChar", "d5/dc4/a09065.html#a3c1546425a9287498d23753f51e27de2", null ],
-    [ "asUInt", "d5/dc4/a09065.html#a87b4e38a5c10dba382bd0761b70c2234", null ]
+    [ "TransportBase", "d5/dc4/a09065.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
+    [ "~TransportBase", "d5/dc4/a09065.html#a81dca3435a1a1666a90acd8e154e3287", null ],
+    [ "CalculatePassengerOffset", "d5/dc4/a09065.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
+    [ "CalculatePassengerOffset", "d5/dc4/a09065.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
+    [ "CalculatePassengerPosition", "d5/dc4/a09065.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
+    [ "CalculatePassengerPosition", "d5/dc4/a09065.html#a328fbc464c56eca89138380182a0108c", null ]
 ];

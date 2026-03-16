@@ -1,6 +1,5 @@
 var a25541 =
 [
-    [ "FilterTargets", "d1/d78/a25541.html#abe299fbad07f800e90b1614ec661c185", null ],
-    [ "PrepareSpellScript", "d1/d78/a25541.html#a53bae2b6575436705adff74caf9225b7", null ],
-    [ "Register", "d1/d78/a25541.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
+    [ "PrepareSpellScript", "d1/d78/a25541.html#a800936a311c05236dbd0c9c2f0edd5d9", null ],
+    [ "Register", "d1/d78/a25541.html#ae176a1f643797b5367a593bbb2acc506", null ]
 ];

@@ -1,9 +1,6 @@
 var a26169 =
 [
-    [ "HandleAfterCast", "d2/db3/a26169.html#ac08e632064c407346649f525d030d335", null ],
-    [ "HandleDummy", "d2/db3/a26169.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
-    [ "Load", "d2/db3/a26169.html#a177525c755b036a79263c0fa6fa4082e", null ],
-    [ "PrepareSpellScript", "d2/db3/a26169.html#aed99b07a53068b19bddb4daff3449a52", null ],
-    [ "Register", "d2/db3/a26169.html#a946e56a325d83656d9b43af80d065e45", null ],
-    [ "_triggerSpellId", "d2/db3/a26169.html#a6697a22b684784853cb1999d41fcaaa7", null ]
+    [ "CheckCast", "d2/db3/a26169.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
+    [ "PrepareSpellScript", "d2/db3/a26169.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
+    [ "Register", "d2/db3/a26169.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
 ];

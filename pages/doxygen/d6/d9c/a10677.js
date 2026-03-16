@@ -1,10 +1,6 @@
 var a10677 =
 [
-    [ "EnvironmentalDamageLog", "d6/d9c/a10677.html#ab4311f6516d9b7491abf5cb2ba9a0ee0", null ],
-    [ "Write", "d6/d9c/a10677.html#af7d49b8d57100cf2c3048d5415a4edc7", null ],
-    [ "Absorbed", "d6/d9c/a10677.html#a443df04be3afe2021532716140ffb099", null ],
-    [ "Amount", "d6/d9c/a10677.html#a073e22176d44f5806313c2a4bd3e263a", null ],
-    [ "Resisted", "d6/d9c/a10677.html#ad20a9730af3088d93ac56d89b6f66b12", null ],
-    [ "Type", "d6/d9c/a10677.html#a51df177d9ce6a8459bc8fa41f80cdb7a", null ],
-    [ "Victim", "d6/d9c/a10677.html#a020fffe9517d30e965a4d6f6602dd05f", null ]
+    [ "WorldMapScript", "d6/d9c/a10677.html#a49300e796ceb6ab1a40ed9cbb89a9e4d", null ],
+    [ "checkValidity", "d6/d9c/a10677.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
+    [ "isAfterLoadScript", "d6/d9c/a10677.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
 ];

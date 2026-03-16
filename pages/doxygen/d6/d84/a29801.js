@@ -1,5 +1,7 @@
 var a29801 =
 [
-    [ "BitIndex", "d6/d84/a29801.html#a55fdf966aec0ca687cd6074683af6e7f", null ],
-    [ "ItemId", "d6/d84/a29801.html#a998c1f6dadb823fbba56bb2154396635", null ]
+    [ "SetUp", "d6/d84/a29801.html#ab58c026bc6bbcf94aaec896c654e949f", null ],
+    [ "DAGGER_SPEED", "d6/d84/a29801.html#a2e9b2005f350f0aec0a905eef5bc0bb6", null ],
+    [ "SWORD_SPEED", "d6/d84/a29801.html#ac960eb9c5e15274b63b684d8908ed68b", null ],
+    [ "TWO_HANDED_SPEED", "d6/d84/a29801.html#a7dbbfc5825a36bf3950a8dff54e0ca5a", null ]
 ];

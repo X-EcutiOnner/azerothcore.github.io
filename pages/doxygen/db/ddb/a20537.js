@@ -1,7 +1,7 @@
 var a20537 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "db/ddb/a20537.html#a100678bddd6a0e859c72035d4642d8e2", null ],
-    [ "MoveInLineOfSight", "db/ddb/a20537.html#a870bdc842d8d7078302a36a20ef661e4", null ],
-    [ "_instance", "db/ddb/a20537.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
-    [ "_introSpoken", "db/ddb/a20537.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
+    [ "HandleScript", "db/ddb/a20537.html#a760bb60198017605111d02af98c827b1", null ],
+    [ "PrepareSpellScript", "db/ddb/a20537.html#a6128956f1037b62fff2e6f10ec22d956", null ],
+    [ "Register", "db/ddb/a20537.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
+    [ "Validate", "db/ddb/a20537.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
 ];

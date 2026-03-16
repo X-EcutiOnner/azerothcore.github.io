@@ -1,6 +1,6 @@
 var a12605 =
 [
-    [ "boss_firemawAI", "d5/df9/a12605.html#ab3f56c97119676b1a75662e52caecb75", null ],
-    [ "JustEngagedWith", "d5/df9/a12605.html#a04cb1d2fa18dba82b9c881b09406a076", null ],
-    [ "UpdateAI", "d5/df9/a12605.html#a6e35e47b23d713263ef00769324bbbed", null ]
+    [ "boss_solakar_flamewreathAI", "da/dde/a12609.html", "da/dde/a12609" ],
+    [ "boss_solakar_flamewreath", "d5/df9/a12605.html#a0d5a9f9525303014e72cd98d45bf302f", null ],
+    [ "GetAI", "d5/df9/a12605.html#a0bd7971406392f15f68828ed217f4d06", null ]
 ];

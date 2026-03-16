@@ -1,6 +1,6 @@
 var a15237 =
 [
-    [ "instance_maraudon_InstanceMapScript", "d7/da5/a15241.html", "d7/da5/a15241" ],
-    [ "instance_maraudon", "d1/da2/a15237.html#aaae11d2569d04b42840b101a5702cf24", null ],
-    [ "GetInstanceScript", "d1/da2/a15237.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
+    [ "boss_meathookAI", "d7/da5/a15241.html", "d7/da5/a15241" ],
+    [ "boss_meathook", "d1/da2/a15237.html#a044c8ec4a419e5c5a8b290df9c0ad169", null ],
+    [ "GetAI", "d1/da2/a15237.html#ae8ee3631ff1f80f4fad99e4eca042ad8", null ]
 ];

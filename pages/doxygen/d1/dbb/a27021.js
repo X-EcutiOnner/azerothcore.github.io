@@ -1,6 +1,8 @@
 var a27021 =
 [
-    [ "boss_taerarAI", "da/dd0/a27025.html", "da/dd0/a27025" ],
-    [ "boss_taerar", "d1/dbb/a27021.html#a100c1b80a50faf93088db870faa21b58", null ],
-    [ "GetAI", "d1/dbb/a27021.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
+    [ "HandleEffectRemove", "d1/dbb/a27021.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
+    [ "if", "d1/dbb/a27021.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
+    [ "PrepareAuraScript", "d1/dbb/a27021.html#a531f51626ae4527282ad1e628911a9ea", null ],
+    [ "Register", "d1/dbb/a27021.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
+    [ "AuraEffectHandleModes", "d1/dbb/a27021.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
 ];

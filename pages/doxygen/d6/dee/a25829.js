@@ -1,6 +1,6 @@
 var a25829 =
 [
-    [ "CheckProc", "d6/dee/a25829.html#aa8a8c89cf55ab6796a81671d0312a481", null ],
-    [ "PrepareAuraScript", "d6/dee/a25829.html#a9c88f86a4edafda286725008ecfeab6c", null ],
-    [ "Register", "d6/dee/a25829.html#ad75f33c72dff282e4a8976c92e0b4e76", null ]
+    [ "HandleDummy", "d6/dee/a25829.html#aafc9efb0f8070566579724853a88ab03", null ],
+    [ "PrepareSpellScript", "d6/dee/a25829.html#a248c1203a4f15b2cd60afed9fa33cb59", null ],
+    [ "Register", "d6/dee/a25829.html#a362e2ab6921aaa0c10b70795a5eda0de", null ]
 ];

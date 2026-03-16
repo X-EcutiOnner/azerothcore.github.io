@@ -1,5 +1,14 @@
 var a20445 =
 [
-    [ "achievement_kologarn_with_open_arms", "d7/de6/a20445.html#a94af961be5bbdf7783925148731ce7e4", null ],
-    [ "OnCheck", "d7/de6/a20445.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
+    [ "npc_ulduar_hodir_druid", "d7/de6/a20445.html#afab822c1363aaf51a94bb002a531b4a8", null ],
+    [ "AttackStart", "d7/de6/a20445.html#a67884f16c32f849bc68d68256c19d21a", null ],
+    [ "CanAIAttack", "d7/de6/a20445.html#a81b0f60596e63ec618a9a9e1d8bc6c9d", null ],
+    [ "EnterEvadeMode", "d7/de6/a20445.html#a22a10571e9cfe69200fd4a8fd383e500", null ],
+    [ "JustDied", "d7/de6/a20445.html#a6cfefe7ccb156a658e8e2dad603b3fce", null ],
+    [ "MoveInLineOfSight", "d7/de6/a20445.html#aa2e3e904c5f7fee4236a9395b95ef3e9", null ],
+    [ "ScheduleAbilities", "d7/de6/a20445.html#ac8bee382634e20a49178be8b224eca2d", null ],
+    [ "SpellHit", "d7/de6/a20445.html#a1053d484f30df43fba465981cd3cfa38", null ],
+    [ "UpdateAI", "d7/de6/a20445.html#abcd580306a3abb5663bbac33f68115eb", null ],
+    [ "events", "d7/de6/a20445.html#a323184c52fcbc3e18eb74c96db716327", null ],
+    [ "pInstance", "d7/de6/a20445.html#a2c5e8b14d1feedc6ff6f4634653e9b47", null ]
 ];

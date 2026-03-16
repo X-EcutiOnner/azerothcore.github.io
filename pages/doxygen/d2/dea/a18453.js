@@ -1,7 +1,6 @@
 var a18453 =
 [
-    [ "HandleTriggerMissile", "d2/dea/a18453.html#af6370594be48d35a12009fa10a38d91d", null ],
-    [ "PrepareSpellScript", "d2/dea/a18453.html#aeeca4381273f382c3abb68f34d229213", null ],
-    [ "Register", "d2/dea/a18453.html#a0b79f5ee23e53c18277712f1b26e13f3", null ],
-    [ "Validate", "d2/dea/a18453.html#abe0b9290ddf9beaa60a583840d90d914", null ]
+    [ "npc_big_oozeAI", "d8/def/a18457.html", "d8/def/a18457" ],
+    [ "npc_big_ooze", "d2/dea/a18453.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
+    [ "GetAI", "d2/dea/a18453.html#ad06308602d69b51ff3f269bda6c465b5", null ]
 ];

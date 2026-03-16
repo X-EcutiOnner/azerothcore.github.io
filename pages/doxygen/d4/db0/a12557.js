@@ -1,7 +1,14 @@
 var a12557 =
 [
-    [ "go_suppression_deviceAI", "df/d14/a12561.html", "df/d14/a12561" ],
-    [ "go_suppression_device", "d4/db0/a12557.html#a900713d6b029015f8868a96e5e1b9018", null ],
-    [ "GetAI", "d4/db0/a12557.html#aa51bb6f9616022c1f4e1e711ca1130e8", null ],
-    [ "OnLootStateChanged", "d4/db0/a12557.html#a684546c3ce0c0785d52a87eb011ef313", null ]
+    [ "boss_mor_grayhoof", "d4/db0/a12557.html#aef1001233a51ad3bb9963c540d39d79b", null ],
+    [ "CastRandomSpell", "d4/db0/a12557.html#a00756d64d24088ebf408153fcb59ff13", null ],
+    [ "DamageTaken", "d4/db0/a12557.html#a164a911eb9a86964a61866c05d44512f", null ],
+    [ "JustDied", "d4/db0/a12557.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
+    [ "JustEngagedWith", "d4/db0/a12557.html#a043f6ee099efd0d49982b2966604e65a", null ],
+    [ "Reset", "d4/db0/a12557.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
+    [ "UpdateAI", "d4/db0/a12557.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
+    [ "_phase", "d4/db0/a12557.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
+    [ "_scheduler", "d4/db0/a12557.html#ad2a897281d308475957e2636c6536fdd", null ],
+    [ "_sleepTargetGUID", "d4/db0/a12557.html#a8baa606696dc8acf532e8badfc6c624b", null ],
+    [ "_sleepTargetThreat", "d4/db0/a12557.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
 ];

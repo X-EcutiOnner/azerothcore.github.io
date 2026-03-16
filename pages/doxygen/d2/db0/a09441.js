@@ -1,10 +1,12 @@
 var a09441 =
 [
-    [ "NearestGameObjectEntryInObjectRangeCheck", "d2/db0/a09441.html#a7d57ae865868d4848caf088c4520b2a7", null ],
-    [ "NearestGameObjectEntryInObjectRangeCheck", "d2/db0/a09441.html#a28d97af524c2bab39e1bd2e5508e434b", null ],
-    [ "operator()", "d2/db0/a09441.html#ad0c6798e28784ed547102414f4c6a31f", null ],
-    [ "i_entry", "d2/db0/a09441.html#a5d19a23e7da2e5e5ed417d0a9623ffbb", null ],
-    [ "i_obj", "d2/db0/a09441.html#a104b8bece6ea78ba049dc592e54311be", null ],
-    [ "i_onlySpawned", "d2/db0/a09441.html#a2a58a6bcff73142e21c082bf2c11eff2", null ],
-    [ "i_range", "d2/db0/a09441.html#a94fc995a14f84060f3bfe5827f17b95e", null ]
+    [ "VisibleNotifier", "d2/db0/a09441.html#ae449b96de3eff1759869438dd90f6513", null ],
+    [ "SendToSelf", "d2/db0/a09441.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
+    [ "Visit", "d2/db0/a09441.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
+    [ "Visit", "d2/db0/a09441.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
+    [ "Visit", "d2/db0/a09441.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
+    [ "i_data", "d2/db0/a09441.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
+    [ "i_gobjOnly", "d2/db0/a09441.html#a019182fa8a629d796982f9cc565d9bc3", null ],
+    [ "i_player", "d2/db0/a09441.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
+    [ "i_visibleNow", "d2/db0/a09441.html#a34d766816baaad7b1b3623360ec9abeb", null ]
 ];

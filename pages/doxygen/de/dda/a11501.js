@@ -1,8 +1,14 @@
 var a11501 =
 [
-    [ "DirectionType", "de/dda/a11501.html#a8491033c0286895c2d4d3280cfd529f0", null ],
-    [ "ObjectType", "de/dda/a11501.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
-    [ "ReferenceType", "de/dda/a11501.html#a44e310a789c4c5a288f07c9254ad389a", null ],
-    [ "SelectionCategory", "de/dda/a11501.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
-    [ "SelectionCheckType", "de/dda/a11501.html#a35c8d221b47de13408a0256598fa9d63", null ]
+    [ "Account", "de/dda/a11501.html#acb9382abe66dd43176fb7af1f3020388", null ],
+    [ "AddonInfo", "de/dda/a11501.html#ad39c1b9e73d5bbbe45114e3358126d73", null ],
+    [ "BattlegroupID", "de/dda/a11501.html#aa09cd28d82e9d96d96a1ccefc4a313ca", null ],
+    [ "Build", "de/dda/a11501.html#ae4a83f8e8c81c1d797512245392fd582", null ],
+    [ "Digest", "de/dda/a11501.html#a6b795f38fb996534f502e1fa5de9e48e", null ],
+    [ "DosResponse", "de/dda/a11501.html#afe2b4146ef592a7067ddaeac449b0644", null ],
+    [ "LocalChallenge", "de/dda/a11501.html#a5c8c57127a0b1cd3cfa63503018c8ae3", null ],
+    [ "LoginServerID", "de/dda/a11501.html#a155f8107ac5a637501a169cfaf43c4b9", null ],
+    [ "LoginServerType", "de/dda/a11501.html#aea79adfcdb6acd5b6bf34fc9175cca3c", null ],
+    [ "RealmID", "de/dda/a11501.html#a944915bd95665075fdf4b6fa01de9a9f", null ],
+    [ "RegionID", "de/dda/a11501.html#a4052be051b41e931747b1956dc145d64", null ]
 ];

@@ -1,7 +1,5 @@
 var a10877 =
 [
-    [ "GuildBankLogQueryResults", "db/d3b/a10877.html#a878f9545b3141a327de85771de4f1779", null ],
-    [ "Write", "db/d3b/a10877.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
-    [ "Entry", "db/d3b/a10877.html#a5f3704df5311f06833c3243201d35930", null ],
-    [ "Tab", "db/d3b/a10877.html#a214db612bb08e557dd41d3962c827dca", null ]
+    [ "GuildDeclineInvitation", "db/d3b/a10877.html#a11a70a9974bb139e53f76c8b78944fe7", null ],
+    [ "Read", "db/d3b/a10877.html#ad034438e18a7feddbac376a599c1e01a", null ]
 ];

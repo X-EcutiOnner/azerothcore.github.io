@@ -1,12 +1,12 @@
 var a20657 =
 [
-    [ "npc_xt002_boombot", "d7/db7/a20657.html#a40d523365cd398085b7f8dc96c3a52a1", null ],
-    [ "DamageTaken", "d7/db7/a20657.html#a6686960dcf9050c62f707f80f8e378e9", null ],
-    [ "Explode", "d7/db7/a20657.html#a4c0c94a400b20cb910cb6c10e18af31a", null ],
-    [ "JustDied", "d7/db7/a20657.html#ae0de009da55f76fc28aea4bf2c3853da", null ],
-    [ "MovementInform", "d7/db7/a20657.html#ab112bdd9d3e2cd680d2a937d5ce37af6", null ],
-    [ "Reset", "d7/db7/a20657.html#a0b5e372dc3c7fadb6d0ccf5138487a9d", null ],
-    [ "UpdateAI", "d7/db7/a20657.html#a2a8b91db7af5f9f935623fe2b2ba3455", null ],
-    [ "_boomed", "d7/db7/a20657.html#a4307aaf92856d146095497cf74ef3e67", null ],
-    [ "_locked", "d7/db7/a20657.html#ad46600f129729931422b5c9c70568e3f", null ]
+    [ "npc_ulduar_flames_initial", "d7/db7/a20657.html#afccccada26b0cc4dc2d40eb2a500f433", null ],
+    [ "DoAction", "d7/db7/a20657.html#ae0b262371dfc00ca168afc9e4d28b133", null ],
+    [ "RemoveAll", "d7/db7/a20657.html#a604fee1e371ffd6efe8f80c6db61318f", null ],
+    [ "RemoveFlame", "d7/db7/a20657.html#ad676a542b40b554027fc2ab491fa083d", null ],
+    [ "SpreadFlame", "d7/db7/a20657.html#af50c950610f5277a755d1786b596b9d7", null ],
+    [ "UpdateAI", "d7/db7/a20657.html#a34c1ffd2bc07c2a736a7d6dc103a8afe", null ],
+    [ "CreateTime", "d7/db7/a20657.html#a3c144d00dde48bf3ff5c50f458015951", null ],
+    [ "events", "d7/db7/a20657.html#aef4e95ffc9c7abb15d932e7abd926972", null ],
+    [ "FlameList", "d7/db7/a20657.html#abb7318634b633756a2fa23fda81d4fd8", null ]
 ];

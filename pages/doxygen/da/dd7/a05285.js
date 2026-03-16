@@ -1,11 +1,13 @@
 var a05285 =
 [
-    [ "Record", "da/dd7/a05285.html#a3303a6b7ba364777e368158052dbe1db", null ],
-    [ "getFloat", "da/dd7/a05285.html#a1647694079553a20a7c6621aa6d4ecf6", null ],
-    [ "getString", "da/dd7/a05285.html#a833c7017749b6b3109ebdee2ff0d3517", null ],
-    [ "getUInt", "da/dd7/a05285.html#a6f22775adc36b8955009f3f0bd51f355", null ],
-    [ "getUInt8", "da/dd7/a05285.html#af6a95de37b34f0204f57323d9a39d110", null ],
-    [ "DBCFileLoader", "da/dd7/a05285.html#aa9814b507b472e781e08c803e025cc72", null ],
-    [ "file", "da/dd7/a05285.html#a146dc23a5f24a0d8a1a34f29375b9bcd", null ],
-    [ "offset", "da/dd7/a05285.html#a06e2c90771be91d9ca948840a07125e8", null ]
+    [ "ModelInstance", "da/dd7/a05285.html#a7a4efa321915b77801e9fc87924df572", null ],
+    [ "ModelInstance", "da/dd7/a05285.html#a1d29459f4f79da938ae969509246fcf1", null ],
+    [ "GetLiquidLevel", "da/dd7/a05285.html#a6150e52c7fdff3cba536e04e115d86ba", null ],
+    [ "GetLocationInfo", "da/dd7/a05285.html#a2e756866245d8131d5fc040489a563e3", null ],
+    [ "getWorldModel", "da/dd7/a05285.html#a464922875649215b0b60aafc1ff70c3c", null ],
+    [ "intersectRay", "da/dd7/a05285.html#aca8a2a07911eba5ec362080e2790453c", null ],
+    [ "setUnloaded", "da/dd7/a05285.html#a1797ec305f365e58cd92c8cd3f3094ba", null ],
+    [ "iInvRot", "da/dd7/a05285.html#a9ac1d8dbfc566a2b5e508cae92ef4019", null ],
+    [ "iInvScale", "da/dd7/a05285.html#adc23d9c9a79ac7cfdb1f90b96485b089", null ],
+    [ "iModel", "da/dd7/a05285.html#ac0b95c6fde838667e007781bde2f2917", null ]
 ];

@@ -1,6 +1,7 @@
 var a25645 =
 [
-    [ "HandleDummy", "d9/ddf/a25645.html#ab146c4026bc8ad129bb3d421891d344b", null ],
-    [ "PrepareSpellScript", "d9/ddf/a25645.html#aa9743f357b9800ab2990fb584011b0a6", null ],
-    [ "Register", "d9/ddf/a25645.html#a3ca7b1dd1187fd39e362b3451b246a4c", null ]
+    [ "HandleDummy", "d9/ddf/a25645.html#a5b25d03bb22995e1ba9deb7eec4ee35a", null ],
+    [ "Load", "d9/ddf/a25645.html#a833d9abe12cb4fff1700b97bc7215c1d", null ],
+    [ "PrepareSpellScript", "d9/ddf/a25645.html#a547b3f71f9fc502dc589ad7b9b6f3cc2", null ],
+    [ "Register", "d9/ddf/a25645.html#ae7d502253b0c47921e40da4aa87b0eef", null ]
 ];

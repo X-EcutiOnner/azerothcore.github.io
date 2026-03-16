@@ -1,7 +1,6 @@
 var a09289 =
 [
-    [ "GridTerrainUnloader", "d7/d36/a09289.html#a2cae372520a8e6d6a54ad79381a844e9", null ],
-    [ "UnloadTerrain", "d7/d36/a09289.html#ad6648cf97602141fcc64bbb6c688f6a0", null ],
-    [ "_grid", "d7/d36/a09289.html#a94d346bc8d44f285d8cdb97736859201", null ],
-    [ "_map", "d7/d36/a09289.html#aac1ea80c5210b25ad26f52558336c20d", null ]
+    [ "Conditions", "d7/d36/a09289.html#a93edc2f0d71164b683c844b713befa85", null ],
+    [ "MenuID", "d7/d36/a09289.html#a732aa82f621c312745ddbd6fe2e3e906", null ],
+    [ "TextID", "d7/d36/a09289.html#a6ec8df5fcc5126bdee656ca08c0a5edc", null ]
 ];

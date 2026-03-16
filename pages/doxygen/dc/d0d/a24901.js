@@ -1,6 +1,7 @@
 var a24901 =
 [
-    [ "CheckSeat", "dc/d0d/a24901.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
-    [ "PrepareSpellScript", "dc/d0d/a24901.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
-    [ "Register", "dc/d0d/a24901.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
+    [ "HandleProc", "dc/d0d/a24901.html#affff04bf12559312333c70672dc8407f", null ],
+    [ "PrepareAuraScript", "dc/d0d/a24901.html#aa604bb8cc1fd9d94ee494c7bc96c5a5b", null ],
+    [ "Register", "dc/d0d/a24901.html#ae2ee810101bd32c061c3e06dea99d7cb", null ],
+    [ "Validate", "dc/d0d/a24901.html#afc60c67af40f55b7a0017e5143bb52f7", null ]
 ];

@@ -1,8 +1,10 @@
 var a17777 =
 [
-    [ "CheckProc", "d6/d76/a17777.html#a11620e4d645b3bfd35924700b5dad289", null ],
-    [ "HandleProc", "d6/d76/a17777.html#aa80a032f2ec80aba36f6fe0208412587", null ],
-    [ "PrepareAuraScript", "d6/d76/a17777.html#afe04f0cb6539238412253b63dd3c82b9", null ],
-    [ "Register", "d6/d76/a17777.html#ac18d1d1a1d19b0dfa5cb1565377ba273", null ],
-    [ "Validate", "d6/d76/a17777.html#ac42fe3248fadf0ecca95893e06c490ee", null ]
+    [ "npc_dark_nucleusAI", "d6/d76/a17777.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
+    [ "AttackStart", "d6/d76/a17777.html#a3dec28dd13257b944df0c559d26a76e0", null ],
+    [ "DamageTaken", "d6/d76/a17777.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
+    [ "JustDied", "d6/d76/a17777.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
+    [ "Reset", "d6/d76/a17777.html#ac84f79f84e721ab1306c8eed8658b143", null ],
+    [ "UpdateAI", "d6/d76/a17777.html#a3a08457c34d4dd904a99a78875d6318c", null ],
+    [ "timer", "d6/d76/a17777.html#ac5f9824276987b81aef5cfee05158049", null ]
 ];

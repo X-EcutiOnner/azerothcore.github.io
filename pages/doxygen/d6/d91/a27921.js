@@ -1,7 +1,7 @@
 var a27921 =
 [
-    [ "cutPercent", "d6/d91/a27921.html#a8581a6a5198dab10680f477a477a7c80", null ],
-    [ "depositPercent", "d6/d91/a27921.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
-    [ "faction", "d6/d91/a27921.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
-    [ "houseId", "d6/d91/a27921.html#a1bf77c1b14731def0e3de44143df2eed", null ]
+    [ "HandleProc", "d6/d91/a27921.html#a41b42a2d219904cdaf2a714d97e500f7", null ],
+    [ "PrepareAuraScript", "d6/d91/a27921.html#a95c26300614ecdab588ddcc256fc1fd6", null ],
+    [ "Register", "d6/d91/a27921.html#afb32150ac10ad392b63f40db05433835", null ],
+    [ "Validate", "d6/d91/a27921.html#ab012775206fb6011eff8fbed293319c8", null ]
 ];

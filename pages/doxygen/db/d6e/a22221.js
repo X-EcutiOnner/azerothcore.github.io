@@ -1,6 +1,11 @@
 var a22221 =
 [
-    [ "HandlePeriodicDummy", "db/d6e/a22221.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "db/d6e/a22221.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "db/d6e/a22221.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "npc_iron_watcherAI", "db/d6e/a22221.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
+    [ "MovementInform", "db/d6e/a22221.html#aaf329f0160efa778abdebf86b1cf230b", null ],
+    [ "Reset", "db/d6e/a22221.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
+    [ "SpellHit", "db/d6e/a22221.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
+    [ "UpdateAI", "db/d6e/a22221.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
+    [ "charging", "db/d6e/a22221.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
+    [ "hpTimer", "db/d6e/a22221.html#afcbb113387345361baf0351a19e6eb1d", null ],
+    [ "spellTimer", "db/d6e/a22221.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
 ];

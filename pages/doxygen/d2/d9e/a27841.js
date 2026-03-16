@@ -1,6 +1,7 @@
 var a27841 =
 [
-    [ "HandleEffectCalcSpellMod", "d2/d9e/a27841.html#a81395c735b9546632af71319067b575b", null ],
-    [ "PrepareAuraScript", "d2/d9e/a27841.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
-    [ "Register", "d2/d9e/a27841.html#ae49a0ec525819981595c12839133a35b", null ]
+    [ "OnProc", "d2/d9e/a27841.html#a7ab183d734c543be2866c57f1e5cc508", null ],
+    [ "PrepareAuraScript", "d2/d9e/a27841.html#a31118cda9f29318f4620caf38c09522a", null ],
+    [ "Register", "d2/d9e/a27841.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
+    [ "Validate", "d2/d9e/a27841.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
 ];

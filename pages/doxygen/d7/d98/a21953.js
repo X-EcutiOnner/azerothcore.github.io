@@ -1,9 +1,6 @@
 var a21953 =
 [
-    [ "npc_frostbrood_skytalonAI", "d7/d98/a21953.html#afc14c60466f9f0f1b20062758f18c00d", null ],
-    [ "IsSummonedBy", "d7/d98/a21953.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
-    [ "MovementInform", "d7/d98/a21953.html#ae763333503176eb7e8ce407868243958", null ],
-    [ "SpellHit", "d7/d98/a21953.html#a24bb49f47dcf85c95039d0495a89e126", null ],
-    [ "UpdateAI", "d7/d98/a21953.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
-    [ "events", "d7/d98/a21953.html#a8575d258d63e28626cffd7fc2160bee6", null ]
+    [ "HandleOnEffectRemove", "d7/d98/a21953.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "d7/d98/a21953.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "d7/d98/a21953.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

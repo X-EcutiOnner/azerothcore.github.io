@@ -1,5 +1,8 @@
 var a19189 =
 [
-    [ "at_icc_gauntlet_event", "da/dbd/a19189.html#ae8790bad655661aeda887f56b9393847", null ],
-    [ "OnTrigger", "da/dbd/a19189.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
+    [ "CountTargets", "da/dbd/a19189.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "da/dbd/a19189.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "da/dbd/a19189.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "da/dbd/a19189.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "da/dbd/a19189.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

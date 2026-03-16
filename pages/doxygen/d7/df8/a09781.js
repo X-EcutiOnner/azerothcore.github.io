@@ -1,8 +1,18 @@
 var a09781 =
 [
-    [ "BossInfo", "d7/df8/a09781.html#a455f533d647927d182176c3cceb21f42", null ],
-    [ "boundary", "d7/df8/a09781.html#aa4fb2bc78efb3393004c0f827000e4f1", null ],
-    [ "door", "d7/df8/a09781.html#a858af8825ed4fe183ee19b6f10239304", null ],
-    [ "minion", "d7/df8/a09781.html#abec1469d41f286d02c34223171373cd3", null ],
-    [ "state", "d7/df8/a09781.html#a1e4413b3a8bac20ed9e7ac878e3066f7", null ]
+    [ "GroupContainer", "d7/df8/a09781.html#a417c5798d50cac5c1bc5b0eae13945cc", null ],
+    [ "GroupIds", "d7/df8/a09781.html#ad3a9005c50a5957d3f47adf60624b9aa", null ],
+    [ "GroupMgr", "d7/df8/a09781.html#a663dbeb2e20161d8d6cf72f322c05f0e", null ],
+    [ "~GroupMgr", "d7/df8/a09781.html#ad5a5efeed7f78146983611c2349c111f", null ],
+    [ "AddGroup", "d7/df8/a09781.html#abb97c613417573dc4cafa117065e7cf8", null ],
+    [ "GenerateGroupId", "d7/df8/a09781.html#ad881433a3836a70e44734bde5a1afc6f", null ],
+    [ "GetGroupByGUID", "d7/df8/a09781.html#a2af93882e217f762df95ba21af191c89", null ],
+    [ "InitGroupIds", "d7/df8/a09781.html#a6881453ec34dc2d9416069a87b1a3234", null ],
+    [ "instance", "d7/df8/a09781.html#a1b7275cfd70d46216df8c353e70d64c8", null ],
+    [ "LoadGroups", "d7/df8/a09781.html#ab8548ce88b015ae3040cd5f2cd7b1990", null ],
+    [ "RegisterGroupId", "d7/df8/a09781.html#a8bface2b6600801ebcd1cbb9070ec3ef", null ],
+    [ "RemoveGroup", "d7/df8/a09781.html#a654b7c795c9c3d77a7a39bce58dec2c7", null ],
+    [ "_groupIds", "d7/df8/a09781.html#af260c73ba61242f741103bdfe6d6fb9e", null ],
+    [ "_nextGroupId", "d7/df8/a09781.html#a4e41d7444f8b7d3dbb54569be80b65f9", null ],
+    [ "GroupStore", "d7/df8/a09781.html#ae897c661dd4b185d205c3a12d17ccb2b", null ]
 ];

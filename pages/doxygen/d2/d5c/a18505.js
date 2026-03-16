@@ -1,7 +1,7 @@
 var a18505 =
 [
-    [ "StartMovementEvent", "d2/d5c/a18505.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
-    [ "Execute", "d2/d5c/a18505.html#af1a043d953bcffe9341292e85cae2f55", null ],
-    [ "_owner", "d2/d5c/a18505.html#ac2f4166af128a161c471b243144856ba", null ],
-    [ "_summoner", "d2/d5c/a18505.html#afe1f7bcb3569758bc075380a24527067", null ]
+    [ "FrostBombExplosion", "d2/d5c/a18505.html#ac7d318e241e6442e8aa084b27ea50236", null ],
+    [ "Execute", "d2/d5c/a18505.html#a0b6521266f18b621260286c530ff3f36", null ],
+    [ "_owner", "d2/d5c/a18505.html#aa9ff39ce43c351e8815f895896fa759b", null ],
+    [ "_sindragosaGUID", "d2/d5c/a18505.html#a5afc3d543c8fa457c90735f841aa161c", null ]
 ];

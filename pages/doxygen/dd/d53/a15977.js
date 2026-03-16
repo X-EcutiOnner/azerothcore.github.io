@@ -1,7 +1,6 @@
 var a15977 =
 [
-    [ "npc_giltharesAI", "dd/d53/a15977.html#af22e42b2180987febd964784b6d49b5e", null ],
-    [ "JustEngagedWith", "dd/d53/a15977.html#ae9ba65652db3d2d32920d1a98594727a", null ],
-    [ "Reset", "dd/d53/a15977.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
-    [ "WaypointReached", "dd/d53/a15977.html#a9308c73760e50e0f3d04031b508526d1", null ]
+    [ "npc_bunthen_plainswind", "dd/d53/a15977.html#ad9b789ad3e958dee4733b142813b6302", null ],
+    [ "OnGossipHello", "dd/d53/a15977.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
+    [ "OnGossipSelect", "dd/d53/a15977.html#a117f28d513ac645b9d3d908d052d2146", null ]
 ];

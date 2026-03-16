@@ -1,9 +1,9 @@
 var a13025 =
 [
-    [ "FilterTargets", "da/d34/a13025.html#a88b91e40b330d39bd04a7873128fb858", null ],
-    [ "HandleFinish", "da/d34/a13025.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
-    [ "PrepareSpellScript", "da/d34/a13025.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
-    [ "Register", "da/d34/a13025.html#ab2008e585589cbf313170064d37c4aa9", null ],
-    [ "Validate", "da/d34/a13025.html#af4963be6c544a1706a6dc30dcbf18309", null ],
-    [ "_targets", "da/d34/a13025.html#a2f75199a90e52cff770f46bce76d5149", null ]
+    [ "npc_mc_core_houndAI", "da/d34/a13025.html#a9b07d662e32a342419a848ecd59d6391", null ],
+    [ "DamageTaken", "da/d34/a13025.html#aaf2b0ac9b723bb16bfaf8481165e6b4f", null ],
+    [ "Reset", "da/d34/a13025.html#a9f4b06230ae2e4fc2fe150eb9e9d1f12", null ],
+    [ "UpdateAI", "da/d34/a13025.html#aaba8ef0b33b9bb9acf74223ef0e9aaad", null ],
+    [ "instance", "da/d34/a13025.html#ab47451dfeff84c8467be2b76554df897", null ],
+    [ "serratedBiteTimer", "da/d34/a13025.html#a3a49df32c788497d3e82912d423683b7", null ]
 ];

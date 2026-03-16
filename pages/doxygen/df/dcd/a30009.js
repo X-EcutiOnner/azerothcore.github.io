@@ -1,13 +1,12 @@
 var a30009 =
 [
-    [ "ConfigPolicy", "d9/dff/a05196.html", "d9/dff/a05196" ],
-    [ "ConfigMgr", "d6/d6a/a05200.html", "d6/d6a/a05200" ],
-    [ "ConfigException", "d6/d3f/a05204.html", "d6/d3f/a05204" ],
-    [ "sConfigMgr", "df/dcd/a30009.html#a7236988e98bdd405bf435a029b70a26f", null ],
-    [ "ConfigSeverity", "df/dcd/a30009.html#a05eaca858744a1f9f0e309e7867383e3", [
-      [ "Skip", "df/dcd/a30009.html#a05eaca858744a1f9f0e309e7867383e3a72ef2b9b6965d078e3c7f95487a82d1c", null ],
-      [ "Warn", "df/dcd/a30009.html#a05eaca858744a1f9f0e309e7867383e3a56525ae64d370c0b448ac0d60710ef17", null ],
-      [ "Error", "df/dcd/a30009.html#a05eaca858744a1f9f0e309e7867383e3a902b0d55fddef6f8d651fe1035b7d4bd", null ],
-      [ "Fatal", "df/dcd/a30009.html#a05eaca858744a1f9f0e309e7867383e3a882384ec38ce8d9582b57e70861730e4", null ]
-    ] ]
+    [ "cellSizeHorizontal", "df/dcd/a30009.html#a5356c03dab90621b69de7a79ed4ab195", null ],
+    [ "cellSizeVertical", "df/dcd/a30009.html#a47b5a920afa39ae27a80241d58f152a3", null ],
+    [ "tileOverrides", "df/dcd/a30009.html#a129437291e75a919e4158bf1df0f7f0a", null ],
+    [ "vertexPerMapEdge", "df/dcd/a30009.html#a9d32da8787f54a7dadb86458319e0238", null ],
+    [ "vertexPerTileEdge", "df/dcd/a30009.html#a8dd6b0146358fcbbb6b7c56a96c467c9", null ],
+    [ "walkableClimb", "df/dcd/a30009.html#a2bd854b374d67d53b03a7bacf0785726", null ],
+    [ "walkableHeight", "df/dcd/a30009.html#a1de27edad5c45f8033ce74352c563f52", null ],
+    [ "walkableRadius", "df/dcd/a30009.html#a232dd51ab056c5e836fe1bb84eeee90e", null ],
+    [ "walkableSlopeAngle", "df/dcd/a30009.html#ad66e0a04ba9087304cf3909bb85b622a", null ]
 ];

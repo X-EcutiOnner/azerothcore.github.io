@@ -1,7 +1,8 @@
 var a22001 =
 [
-    [ "npc_engineer_heliceAI", "d6/d05/a22005.html", "d6/d05/a22005" ],
-    [ "npc_engineer_helice", "d7/d18/a22001.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
-    [ "GetAI", "d7/d18/a22001.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
-    [ "OnQuestAccept", "d7/d18/a22001.html#ae0979d68744372d5d4669b6f014eb123", null ]
+    [ "AfterApply", "d7/d18/a22001.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
+    [ "AfterRemove", "d7/d18/a22001.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
+    [ "PrepareAuraScript", "d7/d18/a22001.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
+    [ "Register", "d7/d18/a22001.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
+    [ "Validate", "d7/d18/a22001.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
 ];

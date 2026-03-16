@@ -1,5 +1,6 @@
 var a10269 =
 [
-    [ "petitionGuid", "db/dba/a10269.html#adafc1020d722bd3885429041ce9a292c", null ],
-    [ "signatureMap", "db/dba/a10269.html#a70bd865a5b11ffc0ceed08b683548b42", null ]
+    [ "AssistanceMovementGenerator", "db/dba/a10269.html#a649b7d2833aaf895a5f6f290131c88f5", null ],
+    [ "Finalize", "db/dba/a10269.html#a6fc296a5283726cca409d7df1137743d", null ],
+    [ "GetMovementGeneratorType", "db/dba/a10269.html#a1d4b6fe8693fdd21c364b53075c27439", null ]
 ];

@@ -1,6 +1,6 @@
 var a12901 =
 [
-    [ "instance_deadmines_InstanceMapScript", "d7/d33/a12905.html", "d7/d33/a12905" ],
-    [ "instance_deadmines", "d6/d0e/a12901.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
-    [ "GetInstanceScript", "d6/d0e/a12901.html#ac5cb65972d52324cedf662cc44dca626", null ]
+    [ "boss_gehennasAI", "d6/d0e/a12901.html#aaefd1f10d03957477863df95143a95a9", null ],
+    [ "ExecuteEvent", "d6/d0e/a12901.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
+    [ "JustEngagedWith", "d6/d0e/a12901.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
 ];

@@ -1,6 +1,6 @@
 var a27185 =
 [
-    [ "go_bashir_crystalforge", "d2/d56/a27185.html#a8b68a63933e14d82198580912fddc280", null ],
-    [ "OnGossipHello", "d2/d56/a27185.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
-    [ "OnGossipSelect", "d2/d56/a27185.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
+    [ "HandleEffectPeriodic", "d2/d56/a27185.html#ab283b40ceb6dcd0a835550531321ce92", null ],
+    [ "PrepareAuraScript", "d2/d56/a27185.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
+    [ "Register", "d2/d56/a27185.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
 ];

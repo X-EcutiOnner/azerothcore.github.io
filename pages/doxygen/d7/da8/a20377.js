@@ -1,7 +1,6 @@
 var a20377 =
 [
-    [ "HandleEffectPeriodic", "d7/da8/a20377.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
-    [ "PrepareAuraScript", "d7/da8/a20377.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
-    [ "Register", "d7/da8/a20377.html#aed86a298340cc05fbe2a8a68396423bb", null ],
-    [ "Validate", "d7/da8/a20377.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
+    [ "achievement_freya_knock_on_wood", "d7/da8/a20377.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
+    [ "OnCheck", "d7/da8/a20377.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
+    [ "_elderCount", "d7/da8/a20377.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
 ];

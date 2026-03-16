@@ -1,6 +1,6 @@
 var a05027 =
 [
-    [ "ChatServerMessage", "dc/da5/a10796.html", "dc/da5/a10796" ],
-    [ "Emote", "d8/ded/a10788.html", "d8/ded/a10788" ],
-    [ "EmoteClient", "d3/df1/a10792.html", "d3/df1/a10792" ]
+    [ "hash< ObjectGuid >", "d1/d10/a08693.html", "d1/d10/a08693" ],
+    [ "hash< SpellGroup >", "d4/de0/a11669.html", "d4/de0/a11669" ],
+    [ "hash< std::pair< uint32_t, uint32_t > >", "d5/d2c/a29993.html", "d5/d2c/a29993" ]
 ];

@@ -1,9 +1,9 @@
 var a12861 =
 [
-    [ "npc_flamewaker_priestAI", "d9/df0/a12861.html#aa0508dda5bc365896128f088b6de30f4", null ],
-    [ "JustDied", "d9/df0/a12861.html#ad1f51c4589abe6ef5bcf513d70e34a4c", null ],
-    [ "JustEngagedWith", "d9/df0/a12861.html#a15fefb756ad1ae20257d4ed9cb1d3eca", null ],
-    [ "Reset", "d9/df0/a12861.html#a3c3629a6c6987e861e40a893363d2508", null ],
-    [ "UpdateAI", "d9/df0/a12861.html#a28c0ed65521f3d2150874ddc1b913933", null ],
-    [ "events", "d9/df0/a12861.html#a7d769cc852a69fdf719cb7958c3d890c", null ]
+    [ "boss_baron_geddonAI", "d9/df0/a12861.html#a3a85b2a6e958a965e52a9fde87c08177", null ],
+    [ "DamageTaken", "d9/df0/a12861.html#ad339cb7149b50cf5accc24b5a2d0bf82", null ],
+    [ "ExecuteEvent", "d9/df0/a12861.html#a2c3ed57dd0336ce8ac1a85c957da9e4a", null ],
+    [ "JustEngagedWith", "d9/df0/a12861.html#a8c5e43b4b4e0583db7dcc93694202bd8", null ],
+    [ "Reset", "d9/df0/a12861.html#aaf47fc993e672877f51b5095f682906c", null ],
+    [ "armageddonCasted", "d9/df0/a12861.html#a1a034601a7dda94becbf1801bda63d55", null ]
 ];

@@ -1,6 +1,10 @@
 var a15389 =
 [
-    [ "FilterTargets", "dc/d4e/a15389.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
-    [ "PrepareSpellScript", "dc/d4e/a15389.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
-    [ "Register", "dc/d4e/a15389.html#a3168a3f97ddb38b261a0730405ba27db", null ]
+    [ "instance_maraudon_InstanceMapScript", "dc/d4e/a15389.html#a9c46508320d3973006561444feae0586", null ],
+    [ "Initialize", "dc/d4e/a15389.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
+    [ "OnGameObjectCreate", "dc/d4e/a15389.html#a3a287b97db58c3489815f20ee0d37977", null ],
+    [ "ReadSaveDataMore", "dc/d4e/a15389.html#ac2cd336874b25ad20dac104037de1df5", null ],
+    [ "SetData", "dc/d4e/a15389.html#a6e90bf60a076c164e432128f7ec62fba", null ],
+    [ "WriteSaveDataMore", "dc/d4e/a15389.html#a6e4072342e66689d343912de85e66b34", null ],
+    [ "_encounters", "dc/d4e/a15389.html#af2e752a791d75e50001060c4a9f18173", null ]
 ];

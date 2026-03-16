@@ -1,9 +1,7 @@
 var a15473 =
 [
-    [ "npc_giant_eye_tentacle", "d6/d27/a15473.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
-    [ "JustDied", "d6/d27/a15473.html#a72cac50a711868256a41c543d0cef3da", null ],
-    [ "JustEngagedWith", "d6/d27/a15473.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
-    [ "Reset", "d6/d27/a15473.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
-    [ "UpdateAI", "d6/d27/a15473.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
-    [ "_portalGUID", "d6/d27/a15473.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
+    [ "HandleScript", "d6/d27/a15473.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
+    [ "Load", "d6/d27/a15473.html#a2dc1edf537f58133fb4daabde9f43843", null ],
+    [ "PrepareSpellScript", "d6/d27/a15473.html#ae856c6e70ededa95c0308596a9f980af", null ],
+    [ "Register", "d6/d27/a15473.html#ac2e82c7e626658faa968f75c26688b43", null ]
 ];

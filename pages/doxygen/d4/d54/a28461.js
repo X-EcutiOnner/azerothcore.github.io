@@ -1,12 +1,8 @@
 var a28461 =
 [
-    [ "TestVisibilityScript", "d4/d54/a28461.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
-    [ "EnsureRegistered", "d4/d54/a28461.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
-    [ "OnPlayerSetServerSideVisibility", "d4/d54/a28461.html#a6b3701188303b644b28a52ec42bec846", null ],
-    [ "Reset", "d4/d54/a28461.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
-    [ "CallCount", "d4/d54/a28461.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
-    [ "Instance", "d4/d54/a28461.html#adcf0326aa1e32db109ec920857868138", null ],
-    [ "LastPlayer", "d4/d54/a28461.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
-    [ "LastSecurity", "d4/d54/a28461.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
-    [ "LastType", "d4/d54/a28461.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
+    [ "npc_riggle_bassbaitAI", "d3/d04/a28465.html", "d3/d04/a28465" ],
+    [ "npc_riggle_bassbait", "d4/d54/a28461.html#afc4280099cda3c28c4634d649e636839", null ],
+    [ "GetAI", "d4/d54/a28461.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
+    [ "OnGossipHello", "d4/d54/a28461.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
+    [ "OnQuestReward", "d4/d54/a28461.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
 ];

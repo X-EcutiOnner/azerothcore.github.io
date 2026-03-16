@@ -1,9 +1,6 @@
 var a18041 =
 [
-    [ "CheckAreaTarget", "d1/d9c/a18041.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
-    [ "HandleApply", "d1/d9c/a18041.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
-    [ "Load", "d1/d9c/a18041.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
-    [ "PrepareAuraScript", "d1/d9c/a18041.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
-    [ "Register", "d1/d9c/a18041.html#a8f476129e0678149463c4b16232f6cb6", null ],
-    [ "_teamIdInInstance", "d1/d9c/a18041.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
+    [ "npc_muradin_bronzebeard_igbAI", "db/d77/a18045.html", "db/d77/a18045" ],
+    [ "npc_muradin_bronzebeard_igb", "d1/d9c/a18041.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
+    [ "GetAI", "d1/d9c/a18041.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
 ];

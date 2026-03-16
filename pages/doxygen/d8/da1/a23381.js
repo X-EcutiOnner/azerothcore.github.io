@@ -1,6 +1,8 @@
 var a23381 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "d5/d79/a23385.html", "d5/d79/a23385" ],
-    [ "instance_hellfire_ramparts", "d8/da1/a23381.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
-    [ "GetInstanceScript", "d8/da1/a23381.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
+    [ "boss_hungarfen", "d8/da1/a23381.html#a009b8d34731d2310a53195024b434935", null ],
+    [ "JustEngagedWith", "d8/da1/a23381.html#a3612bb373ecdba4245587fd94257ba62", null ],
+    [ "Reset", "d8/da1/a23381.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
+    [ "UpdateAI", "d8/da1/a23381.html#a1765bd54c04a3479e837b3d0e241300e", null ],
+    [ "_scheduler", "d8/da1/a23381.html#a702185681abb6cfc4add7078ff5bbb52", null ]
 ];

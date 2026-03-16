@@ -1,6 +1,5 @@
 var a24337 =
 [
-    [ "CheckProc", "d3/db4/a24337.html#ace3662e092d02de975929741c470230d", null ],
-    [ "PrepareAuraScript", "d3/db4/a24337.html#aed547ead2b8822f08eb1530f4b29e2f8", null ],
-    [ "Register", "d3/db4/a24337.html#ae6432106538261827c3eac3dde1450f2", null ]
+    [ "npc_pet_dk_risen_ally", "d3/db4/a24337.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
+    [ "OnCharmed", "d3/db4/a24337.html#ac3927becc1ed929c384b3413bfee9330", null ]
 ];

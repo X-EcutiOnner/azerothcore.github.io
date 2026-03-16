@@ -1,7 +1,8 @@
 var a05601 =
 [
-    [ "~SignalHandler", "de/dc2/a05601.html#a9c515cb60b156629c43d1a6fce81d58e", null ],
-    [ "handle_signal", "de/dc2/a05601.html#a56782d1718cb243bb5b0c6dc2d100042", null ],
-    [ "_handled", "de/dc2/a05601.html#a21b208a696ed4a320a7cf312006a787f", null ],
-    [ "_mutex", "de/dc2/a05601.html#a0c4d6ba642dd3877c3333b067db22db6", null ]
+    [ "LogOperation", "de/dc2/a05601.html#a19e5e4731bd71697876110348f86d737", null ],
+    [ "~LogOperation", "de/dc2/a05601.html#aae305e293044badac1a628edd501ed35", null ],
+    [ "call", "de/dc2/a05601.html#a966a4bfb45430860fa5be56fe8b48f79", null ],
+    [ "logger", "de/dc2/a05601.html#af1d8611d116a3575e59a99e8cba5fc84", null ],
+    [ "msg", "de/dc2/a05601.html#a665effc48367f396f3e714f5d3d56d75", null ]
 ];

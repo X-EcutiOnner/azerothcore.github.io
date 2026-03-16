@@ -1,7 +1,6 @@
 var a23169 =
 [
-    [ "boss_hydromancer_thespia", "df/def/a23169.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
-    [ "JustDied", "df/def/a23169.html#ad0662daabd636bbf544a6791187d71fa", null ],
-    [ "JustEngagedWith", "df/def/a23169.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
-    [ "KilledUnit", "df/def/a23169.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
+    [ "HandleScriptEffect", "df/def/a23169.html#a18fb2e73a00f1de7c62049eadfcbc658", null ],
+    [ "PrepareSpellScript", "df/def/a23169.html#ae80b4ca96692035c399d1621b632fe66", null ],
+    [ "Register", "df/def/a23169.html#ac655157c74104a51f045e114fc63a42d", null ]
 ];

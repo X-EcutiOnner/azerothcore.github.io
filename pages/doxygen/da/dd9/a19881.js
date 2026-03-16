@@ -1,9 +1,6 @@
 var a19881 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "da/dd9/a19881.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
-    [ "JustEngagedWith", "da/dd9/a19881.html#a9e6527bc46d7b685d938833d18796cee", null ],
-    [ "MoveInLineOfSight", "da/dd9/a19881.html#a7449e135f088a2d4b22a423c71118093", null ],
-    [ "MovementInform", "da/dd9/a19881.html#ac04d90e974f85282737bb5081a123106", null ],
-    [ "UpdateAI", "da/dd9/a19881.html#afccd77c8e90d129fb3a347205a2102db", null ],
-    [ "events", "da/dd9/a19881.html#a73c135ec94b41a752fc203c5e20128d0", null ]
+    [ "npc_oculus_drakeAI", "d6/dac/a19885.html", "d6/dac/a19885" ],
+    [ "npc_oculus_drake", "da/dd9/a19881.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
+    [ "GetAI", "da/dd9/a19881.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
 ];

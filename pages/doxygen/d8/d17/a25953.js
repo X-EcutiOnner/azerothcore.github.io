@@ -1,10 +1,6 @@
 var a25953 =
 [
-    [ "CheckProc", "d8/d17/a25953.html#a23dfb39522f7a5437af439ef567d6ec6", null ],
-    [ "HandleEffectApply", "d8/d17/a25953.html#ab83f17b45edc5dba8f4b3f3fbc88c626", null ],
-    [ "HandleEffectRemove", "d8/d17/a25953.html#a7bab07fde0fb18e89388e1bc4c72c165", null ],
-    [ "HandleProc", "d8/d17/a25953.html#a8352d7d9376f149fa227f7ca983e2660", null ],
-    [ "PrepareAuraScript", "d8/d17/a25953.html#a309dabfa452d3279e7fb47a8e4784779", null ],
-    [ "Register", "d8/d17/a25953.html#a3d020d3025f0ad086c43b4239205cd94", null ],
-    [ "Validate", "d8/d17/a25953.html#ac3a5505808b3a7e718071f1202805ac5", null ]
+    [ "FilterTargets", "d8/d17/a25953.html#abe299fbad07f800e90b1614ec661c185", null ],
+    [ "PrepareSpellScript", "d8/d17/a25953.html#a53bae2b6575436705adff74caf9225b7", null ],
+    [ "Register", "d8/d17/a25953.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
 ];

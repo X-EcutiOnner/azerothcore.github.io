@@ -1,9 +1,8 @@
 var a13825 =
 [
-    [ "spell_sunwell_teleport", "db/da2/a13825.html#a6c61c9bb6cb5737469686a7976207f1d", null ],
-    [ "HandleScript", "db/da2/a13825.html#a4bd9ef50ecc45c792feb8e4d820298b5", null ],
-    [ "PrepareSpellScript", "db/da2/a13825.html#afc3c927b4bd5ec19074a0ee6d59783f2", null ],
-    [ "Register", "db/da2/a13825.html#a3a82c7a6d6673c5860b196e0cd644aab", null ],
-    [ "Validate", "db/da2/a13825.html#a351a2beced058f9354515baa38b0292e", null ],
-    [ "_triggeredSpellId", "db/da2/a13825.html#a66d97a0028b8a0c430ac5152213f60eb", null ]
+    [ "OnPeriodic", "db/da2/a13825.html#acd400b0a061d1814591e33d16bf4180a", null ],
+    [ "OnRemove", "db/da2/a13825.html#a3da85c726007690220e9b4f81d30f185", null ],
+    [ "PrepareAuraScript", "db/da2/a13825.html#a216d723f309ffa46df4bba7af79752c8", null ],
+    [ "Register", "db/da2/a13825.html#a43fe84c2717d73e20a2562f596a84f36", null ],
+    [ "Validate", "db/da2/a13825.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
 ];

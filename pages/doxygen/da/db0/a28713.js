@@ -1,5 +1,5 @@
 var a28713 =
 [
-    [ "achievement_bg_ic_resource_glut", "da/db0/a28713.html#ace247962dccee2601ceade593b0874d4", null ],
-    [ "OnCheck", "da/db0/a28713.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
+    [ "go_transport_the_purple_princess", "da/db0/a28713.html#ab0c79197964857d578036693a2c18e8a", null ],
+    [ "EventInform", "da/db0/a28713.html#ac5b73f1bea180797169138f8e9228783", null ]
 ];

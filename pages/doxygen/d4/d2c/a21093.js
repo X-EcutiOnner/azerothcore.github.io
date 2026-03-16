@@ -1,12 +1,14 @@
 var a21093 =
 [
-    [ "boss_koralonAI", "d4/d2c/a21093.html#a3f5bc42a141011e543d1215eac09dc74", null ],
-    [ "AttackStart", "d4/d2c/a21093.html#aa84e6e9a302172e134163cd07ca57864", null ],
-    [ "JustDied", "d4/d2c/a21093.html#a102c10792d9e7df61d920b5a43f58e51", null ],
-    [ "JustEngagedWith", "d4/d2c/a21093.html#aa7503618dd09e0aebac44394595f4715", null ],
-    [ "Reset", "d4/d2c/a21093.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
-    [ "UpdateAI", "d4/d2c/a21093.html#aa944aad2eb68adc917cba743d1e530c7", null ],
-    [ "events", "d4/d2c/a21093.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
-    [ "pInstance", "d4/d2c/a21093.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
-    [ "rotateTimer", "d4/d2c/a21093.html#ad4b766094f28e940b0b7971d6dadc277", null ]
+    [ "boss_dalronn_the_controller", "d4/d2c/a21093.html#a57718e928fa273bba3c40a05d5888a3d", null ],
+    [ "DoAction", "d4/d2c/a21093.html#ad11e43d40a61f093b5e51482437467b8", null ],
+    [ "JustDied", "d4/d2c/a21093.html#a28a669b56392b599e124573778e33134", null ],
+    [ "JustEngagedWith", "d4/d2c/a21093.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
+    [ "JustSummoned", "d4/d2c/a21093.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
+    [ "KilledUnit", "d4/d2c/a21093.html#a96a173e30ad81c77217b0693d1d15839", null ],
+    [ "Reset", "d4/d2c/a21093.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
+    [ "UpdateAI", "d4/d2c/a21093.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
+    [ "events", "d4/d2c/a21093.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
+    [ "pInstance", "d4/d2c/a21093.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
+    [ "summons", "d4/d2c/a21093.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
 ];

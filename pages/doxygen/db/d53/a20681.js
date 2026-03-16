@@ -1,6 +1,5 @@
 var a20681 =
 [
-    [ "PrepareSpellScript", "db/d53/a20681.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
-    [ "Register", "db/d53/a20681.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
-    [ "SelectTarget", "db/d53/a20681.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_12", "db/d53/a20681.html#adc7f5769894c59710fa70604878b1e2c", null ],
+    [ "OnCheck", "db/d53/a20681.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
 ];

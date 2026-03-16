@@ -1,6 +1,7 @@
 var a16449 =
 [
-    [ "HandleForceCast", "dd/d22/a16449.html#a975b69649aba9de341f4e52c82a3c111", null ],
-    [ "PrepareSpellScript", "dd/d22/a16449.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
-    [ "Register", "dd/d22/a16449.html#a794a59e5fd3bda75f30d559f422895b5", null ]
+    [ "OnRemove", "dd/d22/a16449.html#afb0821bc8774e634eefdd87efe6af945", null ],
+    [ "PrepareAuraScript", "dd/d22/a16449.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
+    [ "Register", "dd/d22/a16449.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
+    [ "Validate", "dd/d22/a16449.html#aa794b76c4d9590b867dda57f02724d95", null ]
 ];

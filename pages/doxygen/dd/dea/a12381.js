@@ -1,11 +1,17 @@
 var a12381 =
 [
-    [ "boss_gythAI", "dd/dea/a12381.html#aeec049af24b3a6f94051f1008ce107e6", null ],
-    [ "EnterEvadeMode", "dd/dea/a12381.html#a20296c618ad366d7ac956f16671cc408", null ],
-    [ "IsSummonedBy", "dd/dea/a12381.html#a6800421a2e9e889e649e792ee642d8ac", null ],
-    [ "JustDied", "dd/dea/a12381.html#a979da1f3922d9575b6c237b85952fb6c", null ],
-    [ "JustEngagedWith", "dd/dea/a12381.html#a6c0ca15d87851c205d94679ea65e5193", null ],
-    [ "JustSummoned", "dd/dea/a12381.html#ab9024ce261129c82d4304d2a13834a5f", null ],
-    [ "Reset", "dd/dea/a12381.html#aa3c86b403af5394a4e4cb30781bcb46b", null ],
-    [ "UpdateAI", "dd/dea/a12381.html#a66f27f6d49b40dcc2894f177b281570f", null ]
+    [ "boss_ambassador_flamelashAI", "dd/dea/a12381.html#a33afad6262abe2a0c9224a4b5bb3ce28", null ],
+    [ "DoAction", "dd/dea/a12381.html#a6466b6b4a275849a813a362ef6b1d518", null ],
+    [ "getValidRandomPosition", "dd/dea/a12381.html#ae9faa36cdc7a0d6faf0b7d4ec5b380e9", null ],
+    [ "JustDied", "dd/dea/a12381.html#a2d2a162132b7f4c0a5faf1f86a476002", null ],
+    [ "JustEngagedWith", "dd/dea/a12381.html#a79138cf6c886c843544b948778f91145", null ],
+    [ "JustSummoned", "dd/dea/a12381.html#a9ec61ccf9984a9a68091ca9fba7582df", null ],
+    [ "Reset", "dd/dea/a12381.html#ae2dd71a0edfc489645de130a8b731392", null ],
+    [ "SummonSpirits", "dd/dea/a12381.html#a6c88f2f38d3072f5192fc0b9bd2c6e04", null ],
+    [ "TurnRunes", "dd/dea/a12381.html#aefcdf4c5b663671fb96395e280141bbb", null ],
+    [ "UpdateAI", "dd/dea/a12381.html#a528436b7e4e55910d1eb6e00831e7e41", null ],
+    [ "_events", "dd/dea/a12381.html#a80aaeb0ce3a5fe101aedbdfc2489bafe", null ],
+    [ "foundValidPosition", "dd/dea/a12381.html#a4b3a75fa687361efc85ebc0da7bf2b75", null ],
+    [ "summons", "dd/dea/a12381.html#a6c1a07a1a59b46d65683436f32f76bf9", null ],
+    [ "validPosition", "dd/dea/a12381.html#af11a0cddced13c34a012c8df964ab68a", null ]
 ];

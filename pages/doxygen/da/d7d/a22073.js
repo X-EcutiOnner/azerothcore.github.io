@@ -1,9 +1,7 @@
 var a22073 =
 [
-    [ "npc_brunnhildar_prisonerAI", "da/d7d/a22073.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
-    [ "JustRespawned", "da/d7d/a22073.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
-    [ "Reset", "da/d7d/a22073.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
-    [ "SpellHit", "da/d7d/a22073.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
-    [ "UpdateAI", "da/d7d/a22073.html#a0702d4cf577ac00688a7b93bfe656952", null ],
-    [ "freed", "da/d7d/a22073.html#a46e03a19bac91a800154e3c873235800", null ]
+    [ "HandleDummy", "da/d7d/a22073.html#a85874062bceced2694fff725649df892", null ],
+    [ "PrepareSpellScript", "da/d7d/a22073.html#a47bae4bdc488480f91517465d8e1b784", null ],
+    [ "Register", "da/d7d/a22073.html#a7131340678ca685db98e2087661321a9", null ],
+    [ "Validate", "da/d7d/a22073.html#af1b74ceee10fc48a0b85d4a284103950", null ]
 ];

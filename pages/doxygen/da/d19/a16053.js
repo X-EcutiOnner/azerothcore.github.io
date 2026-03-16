@@ -1,14 +1,16 @@
 var a16053 =
 [
-    [ "npc_ringoAI", "da/d19/a16053.html#a816dcad96afa6bec595f4b2dfe6fb11c", null ],
-    [ "ClearFaint", "da/d19/a16053.html#abd24108debcafafa601958824d44abbb", null ],
-    [ "MoveInLineOfSight", "da/d19/a16053.html#a6758ef2fe371338826dfc8582d6d03f0", null ],
-    [ "Reset", "da/d19/a16053.html#a5b2cf17642bd4a560abb54b8d42bcd25", null ],
-    [ "SetFaint", "da/d19/a16053.html#a09d3770aade34afe5a3a15e17cc64933", null ],
-    [ "SpellHit", "da/d19/a16053.html#ad30d1a9fb84cc777d48b1363cf571d72", null ],
-    [ "UpdateFollowerAI", "da/d19/a16053.html#a3b0effa8ec4d335a1d24d2238346b04a", null ],
-    [ "EndEventProgress", "da/d19/a16053.html#a4df563b83103bbd7e1f0d81a78f6401a", null ],
-    [ "EndEventTimer", "da/d19/a16053.html#a03f20114ca340c7c710bd77ee3c905ef", null ],
-    [ "FaintTimer", "da/d19/a16053.html#a37d12c7edf3100837c99e3fb572f4bf1", null ],
-    [ "SpraggleGUID", "da/d19/a16053.html#a3b58d34a1263355e7b11e22e0eef00a5", null ]
+    [ "npc_qiraj_war_spawnAI", "da/d19/a16053.html#a1122bc3961300ba39c02613ba0fcd909", null ],
+    [ "JustDied", "da/d19/a16053.html#ada3362722a2f7a4ac5e3e807385c30fc", null ],
+    [ "JustEngagedWith", "da/d19/a16053.html#a628da97f8b8bda848880c53a509ad1f5", null ],
+    [ "Reset", "da/d19/a16053.html#a617104afe4d5cca5cd0d98fe12cb1608", null ],
+    [ "UpdateAI", "da/d19/a16053.html#afeed6ddc214d7d6ba6156a90e4465cb2", null ],
+    [ "hasTarget", "da/d19/a16053.html#ad36ad196f757d6014f7aa7cf7afb167b", null ],
+    [ "MobGUID", "da/d19/a16053.html#a4148121a56275770ee84744a0288b6c5", null ],
+    [ "PlayerGUID", "da/d19/a16053.html#a9e4294e9b7ce773263e0bd16512602ce", null ],
+    [ "SpellTimer1", "da/d19/a16053.html#a8979a90473c62aad604857d92574e5f1", null ],
+    [ "SpellTimer2", "da/d19/a16053.html#a91cb2356a92ef987bd1ba6d31b560ec1", null ],
+    [ "SpellTimer3", "da/d19/a16053.html#aeea20bb2f78ece03df38a3e9aa5d8b59", null ],
+    [ "SpellTimer4", "da/d19/a16053.html#a301971cf821e68e6be3223d4076f8b49", null ],
+    [ "Timers", "da/d19/a16053.html#a460bbddfe94e9c84eaa0ad83e087ebf4", null ]
 ];

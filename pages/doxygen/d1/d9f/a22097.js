@@ -1,9 +1,6 @@
 var a22097 =
 [
-    [ "HandlePeriodic", "d1/d9f/a22097.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
-    [ "Load", "d1/d9f/a22097.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
-    [ "PrepareAuraScript", "d1/d9f/a22097.html#a1057e5262d413149a023bc904a3c3751", null ],
-    [ "Register", "d1/d9f/a22097.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
-    [ "Validate", "d1/d9f/a22097.html#a85d7ac258d50f690574ad7656256cd05", null ],
-    [ "_counter", "d1/d9f/a22097.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
+    [ "npc_guardian_pavilionAI", "d1/d2a/a22101.html", "d1/d2a/a22101" ],
+    [ "npc_guardian_pavilion", "d1/d9f/a22097.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "d1/d9f/a22097.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

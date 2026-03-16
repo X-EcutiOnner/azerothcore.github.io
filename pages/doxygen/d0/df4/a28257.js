@@ -1,4 +1,5 @@
 var a28257 =
 [
-    [ "ID", "d0/df4/a28257.html#a34a2bcafda3bfe22d829f1782031bb4b", null ]
+    [ "go_tele_to_violet_stand", "d0/df4/a28257.html#a63350db1dfd400c565e30775378d48cc", null ],
+    [ "OnGossipHello", "d0/df4/a28257.html#a4d075584f065501a2c3be9ef82387f43", null ]
 ];

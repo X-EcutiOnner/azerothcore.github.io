@@ -1,10 +1,10 @@
 var a24137 =
 [
-    [ "npc_isla_starmaneAI", "de/d44/a24137.html#a0cb655d324ddde173dcfdee069c0f694", null ],
-    [ "JustDied", "de/d44/a24137.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
-    [ "JustEngagedWith", "de/d44/a24137.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
-    [ "JustRespawned", "de/d44/a24137.html#a69b395a9b9504737109870c5e8db74c8", null ],
-    [ "UpdateEscortAI", "de/d44/a24137.html#af4b8c80e7443bb671be253238b124910", null ],
-    [ "WaypointReached", "de/d44/a24137.html#a5d00583afa4e811e4f3cb8400787a990", null ],
-    [ "events", "de/d44/a24137.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
+    [ "npc_infernal_attackerAI", "de/d44/a24137.html#ae04c4e026f22bd650bb33940b923df9a", null ],
+    [ "IsSummonedBy", "de/d44/a24137.html#a926e6cd6772784872a905de7245007ac", null ],
+    [ "JustDied", "de/d44/a24137.html#a1822131520f98dd5f1dd637282f20ae3", null ],
+    [ "Reset", "de/d44/a24137.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
+    [ "SpellHit", "de/d44/a24137.html#a956f3fb1e341519817599df08afc2589", null ],
+    [ "UpdateAI", "de/d44/a24137.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
+    [ "casterGUID", "de/d44/a24137.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
 ];

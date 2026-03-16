@@ -1,10 +1,17 @@
 var a19457 =
 [
-    [ "boss_patchwerkAI", "d3/dd3/a19457.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
-    [ "JustDied", "d3/dd3/a19457.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
-    [ "JustEngagedWith", "d3/dd3/a19457.html#a1317cb819d6247f62e0c6c725157db30", null ],
-    [ "KilledUnit", "d3/dd3/a19457.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
-    [ "Reset", "d3/dd3/a19457.html#a1d03058bf53e670f4fe9384e9f047891", null ],
-    [ "UpdateAI", "d3/dd3/a19457.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
-    [ "events", "d3/dd3/a19457.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
+    [ "boss_four_horsemenAI", "d3/dd3/a19457.html#a828a858c3337791bd2acb3d6ba730233", null ],
+    [ "AttackStart", "d3/dd3/a19457.html#aeb7e82fe20d4f6c4c5379c060beee161", null ],
+    [ "EnterEvadeMode", "d3/dd3/a19457.html#a86f458f0413cab4c8129affff1b73a70", null ],
+    [ "JustDied", "d3/dd3/a19457.html#a3ba69ed84d129a1a48952880c77bcf53", null ],
+    [ "JustEngagedWith", "d3/dd3/a19457.html#a17b8ca30ceb0efb87be77f970c526444", null ],
+    [ "KilledUnit", "d3/dd3/a19457.html#a87bdde27a69a020a26da31f01286593a", null ],
+    [ "MovementInform", "d3/dd3/a19457.html#aa900c075c04673341b3100488c45f9e7", null ],
+    [ "MoveToCorner", "d3/dd3/a19457.html#a7891dc79980c67d82867f6181685b359", null ],
+    [ "Reset", "d3/dd3/a19457.html#a8f41a8eadb6b01d32b177640b91d929f", null ],
+    [ "UpdateAI", "d3/dd3/a19457.html#ac3a1f33bf9823e2171180c3311f647f1", null ],
+    [ "currentWaypoint", "d3/dd3/a19457.html#ab3c2643e1b3c58452661255979e67e63", null ],
+    [ "events", "d3/dd3/a19457.html#a5c135d69b30853e2eb8a52a1a5e230f7", null ],
+    [ "horsemanId", "d3/dd3/a19457.html#ab0c4162177096e7bd007996e8677fd8b", null ],
+    [ "movementPhase", "d3/dd3/a19457.html#a09b826c28e9bf6c417a650dfe710a2dd", null ]
 ];

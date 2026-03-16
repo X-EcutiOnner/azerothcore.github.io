@@ -1,9 +1,6 @@
 var a08849 =
 [
-    [ "CreatureLastSearcher", "d3/d58/a08849.html#a422c7a5a2cd4e93f7b0ad31cc4c6555d", null ],
-    [ "Visit", "d3/d58/a08849.html#ae6774df4ffff18cd4f3b4c07724db4f4", null ],
-    [ "Visit", "d3/d58/a08849.html#a08635cefbba5dca34734569816d2edb8", null ],
-    [ "i_check", "d3/d58/a08849.html#a2b9afe2c43af6e68f7fa5ba661790ef9", null ],
-    [ "i_object", "d3/d58/a08849.html#ab8a14acb8d0fc9835d1325430fa1a367", null ],
-    [ "i_phaseMask", "d3/d58/a08849.html#a9dd25e3437e1c1e5e4c8d68ab3548500", null ]
+    [ "SavedItem", "d3/d58/a08849.html#a7261d44eefdbd56df651a57a71f5af6e", null ],
+    [ "dstpos", "d3/d58/a08849.html#af844c8b955858b1ead94798c6326fa03", null ],
+    [ "item", "d3/d58/a08849.html#afaa651441e306c13acc3cd1aa3084170", null ]
 ];

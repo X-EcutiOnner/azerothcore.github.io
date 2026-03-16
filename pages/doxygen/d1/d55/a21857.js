@@ -1,6 +1,8 @@
 var a21857 =
 [
-    [ "npc_llod_genericAI", "d4/d59/a21861.html", "d4/d59/a21861" ],
-    [ "npc_llod_generic", "d1/d55/a21857.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
-    [ "GetAI", "d1/d55/a21857.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
+    [ "AfterApply", "d1/d55/a21857.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "d1/d55/a21857.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "d1/d55/a21857.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "d1/d55/a21857.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "d1/d55/a21857.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

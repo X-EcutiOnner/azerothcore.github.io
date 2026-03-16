@@ -1,6 +1,6 @@
 var a15385 =
 [
-    [ "FilterTargets", "d3/df4/a15385.html#ac4f353ac54e7a461d5411fd8eae33cc1", null ],
-    [ "PrepareSpellScript", "d3/df4/a15385.html#a8cb8041b71dd3175b627fe7ec5b2c2f3", null ],
-    [ "Register", "d3/df4/a15385.html#a07d56d19b95c8d24f6908815e4ceb13f", null ]
+    [ "instance_maraudon_InstanceMapScript", "dc/d4e/a15389.html", "dc/d4e/a15389" ],
+    [ "instance_maraudon", "d3/df4/a15385.html#aaae11d2569d04b42840b101a5702cf24", null ],
+    [ "GetInstanceScript", "d3/df4/a15385.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
 ];

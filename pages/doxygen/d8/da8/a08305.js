@@ -1,10 +1,8 @@
 var a08305 =
 [
-    [ "SpellCategory", "d8/da8/a08305.html#ad170ffceb499879a4b0d638e9c922703", null ],
-    [ "SpellCategoryCooldown", "d8/da8/a08305.html#a8a33274d71b410f24f110e9a5921ff18", null ],
-    [ "SpellCharges", "d8/da8/a08305.html#a16909465a3a20dbab6e3ca2e3c807f17", null ],
-    [ "SpellCooldown", "d8/da8/a08305.html#a8ef7106595ed25ce23ca2163258d769a", null ],
-    [ "SpellId", "d8/da8/a08305.html#af6973a8a9a258a87a916bcd431c33d8d", null ],
-    [ "SpellPPMRate", "d8/da8/a08305.html#a5b208a667802e4c3766619c96d267287", null ],
-    [ "SpellTrigger", "d8/da8/a08305.html#a39657ff9e561a3c86a671f7b3c78ef98", null ]
+    [ "bounding_radius", "d8/da8/a08305.html#a9f4a794b06bcbe31fc0a104cc97b91a4", null ],
+    [ "combat_reach", "d8/da8/a08305.html#ac271edb10093db19e4df1396053f820d", null ],
+    [ "gender", "d8/da8/a08305.html#aa5c8134851ff4f7ab6ad2af3b6e1dc1e", null ],
+    [ "is_trigger", "d8/da8/a08305.html#a52dbfa82e1525df681b87ab07ba8ead0", null ],
+    [ "modelid_other_gender", "d8/da8/a08305.html#a222b3c513a64b385954ea549e67f4255", null ]
 ];

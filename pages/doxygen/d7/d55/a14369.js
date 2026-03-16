@@ -1,10 +1,6 @@
 var a14369 =
 [
-    [ "boss_jeklik", "d7/d55/a14369.html#a826bdba66fee3bb82b64ca6174b66c44", null ],
-    [ "EnterEvadeMode", "d7/d55/a14369.html#a70dc363e0690e72846db5f779375edc1", null ],
-    [ "JustDied", "d7/d55/a14369.html#ae648ba9ff49f4970612a8c3351789b66", null ],
-    [ "JustEngagedWith", "d7/d55/a14369.html#aeb57cfc66104f6e2b2e36b6551207dd8", null ],
-    [ "PathEndReached", "d7/d55/a14369.html#a689e8f91361de45e6f885fea0dec900a", null ],
-    [ "Reset", "d7/d55/a14369.html#a7959106123e60e3584b32b50a272746c", null ],
-    [ "batRidersCount", "d7/d55/a14369.html#a3d81395ec4518d4e2ca7f273fc658395", null ]
+    [ "instance_zulaman_InstanceMapScript", "d6/dad/a14373.html", "d6/dad/a14373" ],
+    [ "instance_zulaman", "d7/d55/a14369.html#a5a81dddc07dea599e2a197737206427b", null ],
+    [ "GetInstanceScript", "d7/d55/a14369.html#a2144a517b22c5d6e7f6cc31d344669fc", null ]
 ];

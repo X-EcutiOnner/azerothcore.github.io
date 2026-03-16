@@ -1,6 +1,6 @@
 var a18813 =
 [
-    [ "npc_valithria_portalAI", "d5/df8/a18817.html", "d5/df8/a18817" ],
-    [ "npc_valithria_portal", "d0/d28/a18813.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
-    [ "GetAI", "d0/d28/a18813.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
+    [ "HandleScript", "d0/d28/a18813.html#a9489c3454830d3826cb077c95947bf2d", null ],
+    [ "PrepareSpellScript", "d0/d28/a18813.html#a19492e616ac6e69187bca4499175071e", null ],
+    [ "Register", "d0/d28/a18813.html#a3446174d3308f535c27581b63ade9e8a", null ]
 ];

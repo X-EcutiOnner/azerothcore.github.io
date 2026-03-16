@@ -1,7 +1,6 @@
 var a27029 =
 [
-    [ "FilterTargets", "db/d2a/a27029.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "db/d2a/a27029.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "db/d2a/a27029.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "db/d2a/a27029.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "HandleDummy", "db/d2a/a27029.html#a42f48b9d7d657da75c8a4f5b6468011e", null ],
+    [ "PrepareSpellScript", "db/d2a/a27029.html#a5efc666af2cb73c376706c20e41ace68", null ],
+    [ "Register", "db/d2a/a27029.html#a46e61697212a43532e148ccb12a7d8e5", null ]
 ];

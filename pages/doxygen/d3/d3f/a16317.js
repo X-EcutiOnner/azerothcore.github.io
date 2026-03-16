@@ -1,8 +1,8 @@
 var a16317 =
 [
-    [ "boss_sartharion_vesperon", "d3/d3f/a16317.html#a3ce6d2036faa108cb97ebf75bdb6ad33", null ],
-    [ "ClearInstance", "d3/d3f/a16317.html#a0c45127e9eb2be20765f92e1161e2e5a", null ],
-    [ "ExecuteEvent", "d3/d3f/a16317.html#aefc42452e75c476aef39ba0df3a03d70", null ],
-    [ "Reset", "d3/d3f/a16317.html#a948bfddea4eb3c0fe471d8f501a88d6c", null ],
-    [ "SummonedCreatureDies", "d3/d3f/a16317.html#a9df29b4c71c93da8cf7ae9f81b870345", null ]
+    [ "HandleAfterCast", "d3/d3f/a16317.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
+    [ "HandleDummyEffect", "d3/d3f/a16317.html#a539c233fc820248930e1988c4074b9c8", null ],
+    [ "Load", "d3/d3f/a16317.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
+    [ "PrepareSpellScript", "d3/d3f/a16317.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
+    [ "Register", "d3/d3f/a16317.html#ae90184fd34636b33755b732ec82fd52f", null ]
 ];

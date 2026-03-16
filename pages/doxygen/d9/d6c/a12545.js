@@ -1,9 +1,8 @@
 var a12545 =
 [
-    [ "npc_vaelastrasz_the_redAI", "d9/d6c/a12545.html#aa800617f887a21d8a61cac099c86faed", null ],
-    [ "IsSummonedBy", "d9/d6c/a12545.html#ab0eb414e7c9385e4831c4fbc6ba1de49", null ],
-    [ "UpdateAI", "d9/d6c/a12545.html#a4dd74c81dc67291ed04861cf542b0d24", null ],
-    [ "_combatEnabled", "d9/d6c/a12545.html#ae82e9f70dbfd6a4a75206d358de4504e", null ],
-    [ "_events2", "d9/d6c/a12545.html#aa31a968cb89f2c4bb4fde836fd600ab9", null ],
-    [ "_victorGUID", "d9/d6c/a12545.html#a8a4af969b8d340d5492f89499e3e90c2", null ]
+    [ "boss_highlordomokkAI", "d9/d6c/a12545.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
+    [ "JustDied", "d9/d6c/a12545.html#ac7e125b4350880d3d195b915c8be9de0", null ],
+    [ "JustEngagedWith", "d9/d6c/a12545.html#a072dc582f931deb7d1e0db9ad535f146", null ],
+    [ "Reset", "d9/d6c/a12545.html#a627390013798de7a53a95817624417e3", null ],
+    [ "UpdateAI", "d9/d6c/a12545.html#a38e6008d616131d2876ae5a085a083ff", null ]
 ];

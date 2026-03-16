@@ -1,5 +1,9 @@
 var a26877 =
 [
-    [ "achievement_bg_ic_glaive_grave", "d0/d2b/a26877.html#a97e1cead0102a120b3bd14592ea26034", null ],
-    [ "OnCheck", "d0/d2b/a26877.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
+    [ "CheckCast", "d0/d2b/a26877.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
+    [ "HandleDummy", "d0/d2b/a26877.html#a7f79495525687fba6229f48935b2558a", null ],
+    [ "Load", "d0/d2b/a26877.html#a0c73457e44a3d64bdccee78d28893672", null ],
+    [ "PrepareSpellScript", "d0/d2b/a26877.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
+    [ "Register", "d0/d2b/a26877.html#ab9f09394ab301350a2abaefde90632fe", null ],
+    [ "Validate", "d0/d2b/a26877.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
 ];

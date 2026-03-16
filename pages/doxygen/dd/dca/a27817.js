@@ -1,8 +1,7 @@
 var a27817 =
 [
-    [ "HandleApply", "dd/dca/a27817.html#aafdf3712f163919f010d11d0becb398f", null ],
-    [ "HandleRemove", "dd/dca/a27817.html#ac3e33cb37d13b633f3938a48917a4975", null ],
-    [ "PrepareAuraScript", "dd/dca/a27817.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
-    [ "Register", "dd/dca/a27817.html#a84e7337494dc2e1772ca10dea26c675f", null ],
-    [ "Validate", "dd/dca/a27817.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
+    [ "FilterTargets", "dd/dca/a27817.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
+    [ "PrepareSpellScript", "dd/dca/a27817.html#a954f00317eab544dd57e657368aab7fb", null ],
+    [ "Register", "dd/dca/a27817.html#a1804684c8685372faf2e88e56b48f5be", null ],
+    [ "Validate", "dd/dca/a27817.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
 ];

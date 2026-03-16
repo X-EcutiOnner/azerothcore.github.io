@@ -1,5 +1,7 @@
 var a10561 =
 [
-    [ "UpdatableScript", "d7/d0f/a10561.html#a2d6cf85d1eb98438b5022804296eff11", null ],
-    [ "OnUpdate", "d7/d0f/a10561.html#abf328325e08aa0d6adf36e6f70b02328", null ]
+    [ "DatabaseScript", "d7/d0f/a10561.html#aab34b85df1a5ccdf17fede64baca4994", null ],
+    [ "IsDatabaseBound", "d7/d0f/a10561.html#af4321bb95ed9bb3bb0e5a8a93c89c235", null ],
+    [ "OnAfterDatabaseLoadCreatureTemplates", "d7/d0f/a10561.html#a2f4e91e2b1192c0ceb399cd93eb33ee3", null ],
+    [ "OnAfterDatabasesLoaded", "d7/d0f/a10561.html#ab52afc833cb462693f5e0d79cff6bb3f", null ]
 ];

@@ -1,6 +1,8 @@
 var a14461 =
 [
-    [ "boss_renatakiAI", "d7/d19/a14465.html", "d7/d19/a14465" ],
-    [ "boss_renataki", "d0/db4/a14461.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
-    [ "GetAI", "d0/db4/a14461.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
+    [ "boss_grilekAI", "d0/db4/a14461.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
+    [ "JustEngagedWith", "d0/db4/a14461.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
+    [ "Reset", "d0/db4/a14461.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
+    [ "UpdateAI", "d0/db4/a14461.html#a19438103c9a582a7d36d805c80131e8c", null ],
+    [ "_pursuitTargetGUID", "d0/db4/a14461.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
 ];

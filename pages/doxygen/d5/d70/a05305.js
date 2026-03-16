@@ -1,9 +1,7 @@
 var a05305 =
 [
-    [ "FactoryHolderRegistry", "d5/d70/a05305.html#a5384598eca62a35bc617a4c395353ecd", null ],
-    [ "FactoryHolder", "d5/d70/a05305.html#a5e7097c2a475378023f33ec430f4ca85", null ],
-    [ "~FactoryHolder", "d5/d70/a05305.html#a78673bd2f3d857127c1a91c49e3cd62f", null ],
-    [ "Create", "d5/d70/a05305.html#a7072fb7dfe99890dea89b1ba661eb3ce", null ],
-    [ "RegisterSelf", "d5/d70/a05305.html#a9e173f9daaf5c2de36bb8b46da4249e1", null ],
-    [ "_key", "d5/d70/a05305.html#a98c0e66f8caaa207771efd82b2c2f9aa", null ]
+    [ "WModelAreaCallback", "d5/d70/a05305.html#aef7e8c21f6be4d6889faddda6b3be326", null ],
+    [ "operator()", "d5/d70/a05305.html#a8024f924c258932c874c0ac3539d2755", null ],
+    [ "hit", "d5/d70/a05305.html#a92b907262a6e2fa630148580da43c612", null ],
+    [ "prims", "d5/d70/a05305.html#abe509366e68fff92e07c1aacb90da04f", null ]
 ];

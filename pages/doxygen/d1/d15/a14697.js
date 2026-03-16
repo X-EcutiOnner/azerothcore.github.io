@@ -1,6 +1,6 @@
 var a14697 =
 [
-    [ "instance_old_hillsbrad_InstanceMapScript", "d5/dc3/a14701.html", "d5/dc3/a14701" ],
-    [ "instance_old_hillsbrad", "d1/d15/a14697.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
-    [ "GetInstanceScript", "d1/d15/a14697.html#a1929c38b1c745b2df1ccaf462113e220", null ]
+    [ "HandleAfterHit", "d1/d15/a14697.html#a4a3122d1b69baeae76f1ae3b6818bfb5", null ],
+    [ "PrepareSpellScript", "d1/d15/a14697.html#a284796ec70bdfaea9919f54da94f0021", null ],
+    [ "Register", "d1/d15/a14697.html#a30dcb608c20df17de9597ece1930d59d", null ]
 ];

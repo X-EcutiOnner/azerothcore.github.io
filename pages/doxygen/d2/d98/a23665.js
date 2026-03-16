@@ -1,8 +1,5 @@
 var a23665 =
 [
-    [ "HandleScriptEffect", "d2/d98/a23665.html#a7cde39fc0844f19604c8026a853e8216", null ],
-    [ "Load", "d2/d98/a23665.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
-    [ "PrepareSpellScript", "d2/d98/a23665.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
-    [ "Register", "d2/d98/a23665.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
-    [ "_currentSpellId", "d2/d98/a23665.html#a0ad25535ba345fe9672150af67687305", null ]
+    [ "at_shattered_halls_execution", "d2/d98/a23665.html#a73f1d1f03960acd070b7996257f7a526", null ],
+    [ "OnTrigger", "d2/d98/a23665.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
 ];

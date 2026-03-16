@@ -1,7 +1,6 @@
 var a19073 =
 [
-    [ "OnPeriodic", "d7/dc0/a19073.html#a32c4b856d6248062fbdc1dea13d876ac", null ],
-    [ "PrepareAuraScript", "d7/dc0/a19073.html#a87260a1cd06190f5412f3cab0f448a01", null ],
-    [ "Register", "d7/dc0/a19073.html#a00827210671b959a030655f6be5edac6", null ],
-    [ "Validate", "d7/dc0/a19073.html#a7163fb09fd8568a7ef5a5c37147ed5b0", null ]
+    [ "npc_highlord_tirion_fordringAI", "d3/d97/a19077.html", "d3/d97/a19077" ],
+    [ "npc_highlord_tirion_fordring_lh", "d7/dc0/a19073.html#a96102a488330c54a3e3654c767e8e1a5", null ],
+    [ "GetAI", "d7/dc0/a19073.html#aea42394c04c1763cffe10eb5eba09854", null ]
 ];

@@ -1,11 +1,7 @@
 var a13917 =
 [
-    [ "npc_supervisor_raelen", "db/dbb/a13917.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
-    [ "CallPeasent", "db/dbb/a13917.html#a0b8d661a86ec334adeb502d6936135ee", null ],
-    [ "Reset", "db/dbb/a13917.html#a656029c56da84d2d3cee7380d6032e3d", null ],
-    [ "SetData", "db/dbb/a13917.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
-    [ "UpdateAI", "db/dbb/a13917.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
-    [ "_events", "db/dbb/a13917.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
-    [ "_PeasentId", "db/dbb/a13917.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
-    [ "peasentGUIDs", "db/dbb/a13917.html#a6e290a29c8205b22bd668f0516e8904a", null ]
+    [ "npc_singularity", "db/dbb/a13917.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "FindAndFollowTarget", "db/dbb/a13917.html#a76c21129756dec05f6f2d88cebe948c5", null ],
+    [ "Reset", "db/dbb/a13917.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "db/dbb/a13917.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

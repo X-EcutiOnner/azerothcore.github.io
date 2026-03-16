@@ -1,11 +1,8 @@
 var a27329 =
 [
-    [ "npc_artoriusAI", "db/d5d/a27329.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
-    [ "DamageTaken", "db/d5d/a27329.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
-    [ "DoAction", "db/d5d/a27329.html#abbfc9ee752d97f1694dbd739719843c2", null ],
-    [ "JustEngagedWith", "db/d5d/a27329.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
-    [ "Reset", "db/d5d/a27329.html#a862cc52a9251e2dfe486f1152dae9500", null ],
-    [ "SpellHit", "db/d5d/a27329.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
-    [ "UpdateAI", "db/d5d/a27329.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
-    [ "events", "db/d5d/a27329.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
+    [ "HandleRootRemove", "db/d5d/a27329.html#a9678ce2254825b67eb7a16312e960ba9", null ],
+    [ "HandleSnareRemove", "db/d5d/a27329.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
+    [ "PrepareSpellScript", "db/d5d/a27329.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
+    [ "Register", "db/d5d/a27329.html#a119675dccea898932ca090577022b6ba", null ],
+    [ "Validate", "db/d5d/a27329.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
 ];

@@ -1,12 +1,24 @@
 var a17761 =
 [
-    [ "npc_muradin_bronzebeard_iccAI", "de/da3/a17761.html#a4313164857ebd174fe33a9a16340b332", null ],
-    [ "DoAction", "de/da3/a17761.html#a16eeb7d0ed6c943c088285462131cd51", null ],
-    [ "MovementInform", "de/da3/a17761.html#a9a2e367f30ee16ca55e634de8e22551e", null ],
-    [ "Reset", "de/da3/a17761.html#ad5d5a9de05e472d24fe399b4de79a3d0", null ],
-    [ "SpellHit", "de/da3/a17761.html#a19b42ca678e7bf93c86891b4ea0a2dce", null ],
-    [ "UpdateAI", "de/da3/a17761.html#a1ae2393871e0f4ebeb86521f06959a7a", null ],
-    [ "_events", "de/da3/a17761.html#ae7079b335373cc06a040756328e7f714", null ],
-    [ "_guardList", "de/da3/a17761.html#a1cbd87af34584979b37dfff8b29f9623", null ],
-    [ "_instance", "de/da3/a17761.html#af1d8694678b10e5393c658ba0b20f47a", null ]
+    [ "boss_prince_valanarAI", "de/da3/a17761.html#a2fea965d45c5ca8646d87634daf63fbe", null ],
+    [ "CheckRoom", "de/da3/a17761.html#a679228ccb0e31f463b04cd873fa7e16f", null ],
+    [ "DamageDealt", "de/da3/a17761.html#a06a216b9f75f50bf0e738398da37082c", null ],
+    [ "DamageTaken", "de/da3/a17761.html#afc12adf72a109be78d5ff936e3432a8f", null ],
+    [ "DoAction", "de/da3/a17761.html#a51d020ef915d72366303fbb86892b3bf", null ],
+    [ "EnterEvadeMode", "de/da3/a17761.html#a6ab536425fe96d4e4e027d12acecb8e6", null ],
+    [ "InitializeAI", "de/da3/a17761.html#aca7e1c2437c3c06d504f617f9d7babc5", null ],
+    [ "JustDied", "de/da3/a17761.html#a4e92d6eab67bc52d685528bcba96e603", null ],
+    [ "JustEngagedWith", "de/da3/a17761.html#a251205825e07fb27a20b5995b94ea6f4", null ],
+    [ "JustReachedHome", "de/da3/a17761.html#ab053f54a54b080992598b3c0991f0d9b", null ],
+    [ "JustRespawned", "de/da3/a17761.html#ab23663b51d21bf4ce6d46dc6e08c632e", null ],
+    [ "JustSummoned", "de/da3/a17761.html#a3a9bad35893608e8580c0fd64db5bd37", null ],
+    [ "KilledUnit", "de/da3/a17761.html#a3a2d2290213fff1baf8946166fed72ac", null ],
+    [ "Reset", "de/da3/a17761.html#a9208c67592cfdcea597a58184eaf9c2d", null ],
+    [ "SpellHit", "de/da3/a17761.html#a878db347de46937a10603d8d04d42025", null ],
+    [ "UpdateAI", "de/da3/a17761.html#a485b5124a59447ac4b0b6b0a61ae297f", null ],
+    [ "_canDie", "de/da3/a17761.html#afc02a2d3c722a22a98bbb2ba14ba7b5b", null ],
+    [ "_evading", "de/da3/a17761.html#a77f05795428fa50c20a83ca926918e89", null ],
+    [ "_isEmpowered", "de/da3/a17761.html#ae7a8b27e0de0d15ddd43a5075d8f5125", null ],
+    [ "currentInvocationIndex", "de/da3/a17761.html#a1a686457e3000211f966f4d22370552d", null ],
+    [ "invocationOrder", "de/da3/a17761.html#a8b6d8fd932bfc5dd3f40a4506aab065a", null ]
 ];

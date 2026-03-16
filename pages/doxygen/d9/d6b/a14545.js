@@ -1,7 +1,5 @@
 var a14545 =
 [
-    [ "FilterTargets", "d9/d6b/a14545.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
-    [ "HandleDummyEffect", "d9/d6b/a14545.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
-    [ "PrepareSpellScript", "d9/d6b/a14545.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
-    [ "Register", "d9/d6b/a14545.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
+    [ "npc_brain_wash_totem", "d9/d6b/a14545.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
+    [ "EnterEvadeMode", "d9/d6b/a14545.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
 ];

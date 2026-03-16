@@ -1,7 +1,8 @@
 var a24093 =
 [
-    [ "HandleEffectRemove", "d3/d92/a24093.html#a63c0fede080591df9ebf8b3de2cd2fc3", null ],
-    [ "PrepareAuraScript", "d3/d92/a24093.html#a19ce53b5731b0789896612fa55f38849", null ],
-    [ "Register", "d3/d92/a24093.html#a7d60c5b18bbf77a18ab683a101782ada", null ],
-    [ "Validate", "d3/d92/a24093.html#ae3c3c1bce38882cd5de32295813b1a47", null ]
+    [ "npc_bessyAI", "d3/d92/a24093.html#ad1300a563888b34689bedf97c387707c", null ],
+    [ "JustDied", "d3/d92/a24093.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
+    [ "JustSummoned", "d3/d92/a24093.html#a4197fb122299fd152e5da335bb832ae5", null ],
+    [ "Reset", "d3/d92/a24093.html#aed64386629e52c3b65abadde54a63cc4", null ],
+    [ "WaypointReached", "d3/d92/a24093.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
 ];

@@ -1,6 +1,6 @@
 var a16737 =
 [
-    [ "npc_toc_paladinAI", "da/def/a16741.html", "da/def/a16741" ],
-    [ "npc_toc_paladin", "d6/d8f/a16737.html#af11025a2a4be2b2c982ad31241d47180", null ],
-    [ "GetAI", "d6/d8f/a16737.html#a15766ea4414701040c738251302177af", null ]
+    [ "FilterTargets", "d6/d8f/a16737.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
+    [ "PrepareSpellScript", "d6/d8f/a16737.html#a697a52cbc50eafd2b0377621afb01557", null ],
+    [ "Register", "d6/d8f/a16737.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
 ];

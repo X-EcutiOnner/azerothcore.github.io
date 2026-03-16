@@ -1,13 +1,10 @@
 var a09909 =
 [
-    [ "ParallelogramBoundary", "d4/ddf/a09909.html#ace1e1ffbcb84343ca2641541fe000691", null ],
-    [ "IsWithinBoundaryArea", "d4/ddf/a09909.html#af29e70a9febaa9d80d0ce7223e2c6fc3", null ],
-    [ "_a", "d4/ddf/a09909.html#ad81a1a1f4e82de0e7a31bf13a87bac2b", null ],
-    [ "_abx", "d4/ddf/a09909.html#a855c7ea39698f7dac80d72ea6962e9c7", null ],
-    [ "_aby", "d4/ddf/a09909.html#ad81b9baeb70d5856ea8cdd3f787abf29", null ],
-    [ "_b", "d4/ddf/a09909.html#a9d5d06cc3673f89644e45e62f96510db", null ],
-    [ "_c", "d4/ddf/a09909.html#a6c19d4ed0a1c1b6ff042c4bbd64f0a8a", null ],
-    [ "_d", "d4/ddf/a09909.html#a5214ac0f79f1d90492a77fbd251d1361", null ],
-    [ "_dax", "d4/ddf/a09909.html#aab72030dfa3dd4e4bef03180bd0a306c", null ],
-    [ "_day", "d4/ddf/a09909.html#a3b3e3993d09af62bae7fbfe65f6d641a", null ]
+    [ "const_iterator", "d4/ddf/a09909.html#ac52d3ebfa7eaeb9d6fd08f0089b13918", null ],
+    [ "StorageType", "d4/ddf/a09909.html#a6825a379d1af4254b920c14ab0068e7b", null ],
+    [ "BossBoundaryData", "d4/ddf/a09909.html#a3f80cd89e43eae1a74e2b0a6a674d0cb", null ],
+    [ "~BossBoundaryData", "d4/ddf/a09909.html#a446a3ec16cdce76058761fce972f1e57", null ],
+    [ "begin", "d4/ddf/a09909.html#a326930360d22d5fdf9a895991f2c4e49", null ],
+    [ "end", "d4/ddf/a09909.html#ab3dc9905d861b62c4551f45ee8b08ba5", null ],
+    [ "_data", "d4/ddf/a09909.html#af60e90664c434a8d36115ca5dec889b5", null ]
 ];

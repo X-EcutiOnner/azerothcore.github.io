@@ -1,8 +1,27 @@
 var a22545 =
 [
-    [ "npc_parasitic_shadowfiend", "db/ded/a22545.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
-    [ "CanAIAttack", "db/ded/a22545.html#ac7600aed313f1413cb9b522d60d30329", null ],
-    [ "EnterEvadeMode", "db/ded/a22545.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
-    [ "IsSummonedBy", "db/ded/a22545.html#a306c696d4243c4525d0a3908a212135d", null ],
-    [ "UpdateAI", "db/ded/a22545.html#a2706a4ba7876f299b02d2e720f512af2", null ]
+    [ "OutdoorPvPTF", "db/ded/a22545.html#a66b822334b04a8a2d72b4fe24cb9c9d5", null ],
+    [ "FillInitialWorldStates", "db/ded/a22545.html#a54856e667989fda0c208783691acb3f5", null ],
+    [ "GetAllianceTowersControlled", "db/ded/a22545.html#a45402ed7b4a58a6dcd94e7d4320fd313", null ],
+    [ "GetHordeTowersControlled", "db/ded/a22545.html#a3ea3cd44ae7cbfc5b8dc641f2023e1ed", null ],
+    [ "HandlePlayerEnterZone", "db/ded/a22545.html#a23ef36361746c9fae0a14b1094914d22", null ],
+    [ "HandlePlayerLeaveZone", "db/ded/a22545.html#a6ff61d4338983b61f653d6780c96c8d0", null ],
+    [ "IsLocked", "db/ded/a22545.html#a531956513de1703c5017193cd6d5f04b", null ],
+    [ "RecalculateClientUILockTime", "db/ded/a22545.html#a025bf734eb6357a72f2286822f7cc7c6", null ],
+    [ "ResetZoneToTeamControlled", "db/ded/a22545.html#aff6e736e4a6d9bd5868a3c0ad599cb5b", null ],
+    [ "SaveRequiredWorldStates", "db/ded/a22545.html#aeafe05bb2ef984a411436f3971239ae4", null ],
+    [ "SendRemoveWorldStates", "db/ded/a22545.html#a2c79f67ee87306c7944c86e745e1bfc9", null ],
+    [ "SetAllianceTowersControlled", "db/ded/a22545.html#aff6c829b47c073150e5f5bf5d58477da", null ],
+    [ "SetHordeTowersControlled", "db/ded/a22545.html#a36f7e385fa4ca85ec31f96f8ff9b3048", null ],
+    [ "SetupOutdoorPvP", "db/ded/a22545.html#a993b5e28423be75745c13d3514defe15", null ],
+    [ "Update", "db/ded/a22545.html#abc72dff4380cfef895c0cd535e69d5c3", null ],
+    [ "first_digit", "db/ded/a22545.html#aea70b0297157e9cab3faf182e339ee3f", null ],
+    [ "hours_left", "db/ded/a22545.html#ac8833f965d6138db3c3f3dc53754a1e9", null ],
+    [ "m_AllianceTowersControlled", "db/ded/a22545.html#a63cbdec29b584c5744b8676489609ecf", null ],
+    [ "m_HordeTowersControlled", "db/ded/a22545.html#a50576e4a5957a45205341bcb503f045b", null ],
+    [ "m_IsLocked", "db/ded/a22545.html#a4836d80df43fb3af7f3c0fd76cbaf20b", null ],
+    [ "m_JustLocked", "db/ded/a22545.html#a7a99a565db9930f322071e667df913d8", null ],
+    [ "m_LockTimer", "db/ded/a22545.html#a6ae15350f6d7b65a1bdacc6a7df9696d", null ],
+    [ "m_LockTimerUpdate", "db/ded/a22545.html#aa99c8348cd06f182cdeabbde02ae1e76", null ],
+    [ "second_digit", "db/ded/a22545.html#a643ab6b5318aa1fd16ef26119696fefd", null ]
 ];

@@ -1,6 +1,7 @@
 var a17681 =
 [
-    [ "PrepareSpellScript", "d1/ddc/a17681.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
-    [ "Register", "d1/ddc/a17681.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
-    [ "SetDest", "d1/ddc/a17681.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
+    [ "HandleApplyAura", "d1/ddc/a17681.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
+    [ "PrepareSpellScript", "d1/ddc/a17681.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
+    [ "Register", "d1/ddc/a17681.html#a80638966202cb9e27d204ea621e379ef", null ],
+    [ "Validate", "d1/ddc/a17681.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
 ];

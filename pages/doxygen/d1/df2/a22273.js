@@ -1,5 +1,6 @@
 var a22273 =
 [
-    [ "go_scourge_enclosure", "d1/df2/a22273.html#a3611232cb735f336087d4d3c90f66b8d", null ],
-    [ "OnGossipHello", "d1/df2/a22273.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
+    [ "HandleScriptEffect", "d1/df2/a22273.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
+    [ "PrepareSpellScript", "d1/df2/a22273.html#afa4ad1b205bf963b4230881738baf938", null ],
+    [ "Register", "d1/df2/a22273.html#a0d8925effced854471e2fbec9c631b91", null ]
 ];

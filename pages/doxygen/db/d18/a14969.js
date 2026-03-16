@@ -1,9 +1,17 @@
 var a14969 =
 [
-    [ "npc_ancient_wisp", "db/d18/a14969.html#a70e45e500b3490a034b058ca2ec16d39", null ],
-    [ "DamageTaken", "db/d18/a14969.html#ad7d96e6b54cdc23a5101338474125e71", null ],
-    [ "JustEngagedWith", "db/d18/a14969.html#a755ed852b3149ada65c5750410776fc8", null ],
-    [ "Reset", "db/d18/a14969.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
-    [ "UpdateAI", "db/d18/a14969.html#a51ca214de826d7126f32e49f6852bca3", null ],
-    [ "_instance", "db/d18/a14969.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
+    [ "npc_midsummer_ribbon_pole_target", "db/d18/a14969.html#ac09222eff300a11e03e8a3a1c9a3fd5f", null ],
+    [ "DoCleanupChecks", "db/d18/a14969.html#a5e5a67ed5492db34fd6c2e28a2cd7f74", null ],
+    [ "DoDancingFLameChecks", "db/d18/a14969.html#af4e76d832c3fd47eb88c1a69d0cdf9ff", null ],
+    [ "DoFireworkChecks", "db/d18/a14969.html#a19eb48c537d58ad8f2021e9eabe4fae2", null ],
+    [ "DoFlameCircleChecks", "db/d18/a14969.html#af37e104b67dcf9a2c181c142d56cc708", null ],
+    [ "DoGroundFlowerChecks", "db/d18/a14969.html#a0a9961eb0c2d5afde8f96bb0580d1974", null ],
+    [ "DoSpewLavaChecks", "db/d18/a14969.html#a94086429fe5cf506c64ea79ebcf03317", null ],
+    [ "LocateRibbonPole", "db/d18/a14969.html#a55f16f2ced0045ea373e9d0a239301d1", null ],
+    [ "SpawnFireSpiralBunny", "db/d18/a14969.html#ae91d1899212fa391f6ae4ec3a1de6e85", null ],
+    [ "SpellHit", "db/d18/a14969.html#ab732995946655894611eb1c12ce4e8a8", null ],
+    [ "UpdateAI", "db/d18/a14969.html#affeb3025627dd5697f0c4dccab66d3b6", null ],
+    [ "_bunny", "db/d18/a14969.html#a0161d569d4c1fb2e1bf69936312be8df", null ],
+    [ "_dancerList", "db/d18/a14969.html#a41e453f742a06bc7485e290756dbc746", null ],
+    [ "_ribbonPole", "db/d18/a14969.html#aeea38608ae98cd5597c104ea04e32523", null ]
 ];

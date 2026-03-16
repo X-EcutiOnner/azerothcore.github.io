@@ -1,6 +1,8 @@
 var a27913 =
 [
-    [ "AreaGroupId", "dc/dce/a27913.html#a2868a59574e635d5f5859cfa01811151", null ],
-    [ "AreaId", "dc/dce/a27913.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
-    [ "nextGroup", "dc/dce/a27913.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
+    [ "CheckProc", "dc/dce/a27913.html#a77739dee36e546ff0e91a2a266a8e107", null ],
+    [ "HandleProc", "dc/dce/a27913.html#a2cde3c808e4ad060bb34c30507f210b7", null ],
+    [ "PrepareAuraScript", "dc/dce/a27913.html#a796c2a915069385cdca89cf3f7d09c82", null ],
+    [ "Register", "dc/dce/a27913.html#af144533458a912ac19c6b772114586cd", null ],
+    [ "Validate", "dc/dce/a27913.html#ac6bde14a034888642aa97de6b2d4a21d", null ]
 ];

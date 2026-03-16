@@ -1,6 +1,6 @@
 var a25397 =
 [
-    [ "HandleHeal", "db/d72/a25397.html#a3d315ab6d76d45f3d0f5de4a312377ff", null ],
-    [ "PrepareSpellScript", "db/d72/a25397.html#ad77d816c82714fe2cafb4dbf48691937", null ],
-    [ "Register", "db/d72/a25397.html#a313abe6367e5494bd81a557ab42f9f50", null ]
+    [ "OnApply", "db/d72/a25397.html#a476bf6fc1a91784dbc8534c0e57005d6", null ],
+    [ "PrepareAuraScript", "db/d72/a25397.html#a159ee8a9b0af729ed01f7632adb58863", null ],
+    [ "Register", "db/d72/a25397.html#a0f33043317402119aa14e50a1eb6c227", null ]
 ];

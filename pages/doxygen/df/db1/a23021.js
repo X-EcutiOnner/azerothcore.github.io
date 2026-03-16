@@ -1,5 +1,6 @@
 var a23021 =
 [
-    [ "go_strange_pool", "df/db1/a23021.html#aa44feb353ad1cb440e5b6707112af680", null ],
-    [ "OnGossipHello", "df/db1/a23021.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
+    [ "HandleScriptEffect", "df/db1/a23021.html#a0810dd4ad4d324c1a53e192fc99d1d35", null ],
+    [ "PrepareSpellScript", "df/db1/a23021.html#a0ece61d7bed3e19ee6f6175a55c0733d", null ],
+    [ "Register", "df/db1/a23021.html#a827cefe322562f0e8ea7cfa58b9a776b", null ]
 ];

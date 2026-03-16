@@ -1,7 +1,7 @@
 var a27481 =
 [
-    [ "npc_wormholeAI", "de/db0/a27481.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
-    [ "GetData", "de/db0/a27481.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
-    [ "InitializeAI", "de/db0/a27481.html#aa0a903014ec7243036604ffcc67e0a36", null ],
-    [ "_showUnderground", "de/db0/a27481.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
+    [ "HandleProc", "de/db0/a27481.html#a46726e3e05e386892ea86d74d161e8d0", null ],
+    [ "PrepareAuraScript", "de/db0/a27481.html#acda7b1b6e91a433b72c2a5dd0e165685", null ],
+    [ "Register", "de/db0/a27481.html#a33cd336a6ca68e66e6046cfdac776fee", null ],
+    [ "Validate", "de/db0/a27481.html#a5f2c7d754a37e6ae02d4aaec758841e5", null ]
 ];

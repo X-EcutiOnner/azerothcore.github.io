@@ -1,6 +1,6 @@
 var a15273 =
 [
-    [ "instance_razorfen_downs_InstanceMapScript", "d1/d4e/a15277.html", "d1/d4e/a15277" ],
-    [ "instance_razorfen_downs", "dd/d99/a15273.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
-    [ "GetInstanceScript", "dd/d99/a15273.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
+    [ "npc_cos_chromie_start", "dd/d99/a15273.html#ae8f810af1e593ad16958049f6ad19616", null ],
+    [ "OnGossipSelect", "dd/d99/a15273.html#a80db05062f24dd2d5bc0bb6996cf8a30", null ],
+    [ "OnQuestAccept", "dd/d99/a15273.html#a038e046773718f5cd55d2b4eb98b3d24", null ]
 ];

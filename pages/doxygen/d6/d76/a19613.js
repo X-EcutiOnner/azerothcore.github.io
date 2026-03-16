@@ -1,7 +1,10 @@
 var a19613 =
 [
-    [ "boss_commander_stoutbeard", "d6/d76/a19613.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
-    [ "JustDied", "d6/d76/a19613.html#a2fd835408045715058ba476aa56cb4f7", null ],
-    [ "JustEngagedWith", "d6/d76/a19613.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
-    [ "KilledUnit", "d6/d76/a19613.html#acf7016c65f020dca9228bd2d2fd89299", null ]
+    [ "boss_patchwerkAI", "d6/d76/a19613.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "d6/d76/a19613.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "d6/d76/a19613.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "d6/d76/a19613.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "d6/d76/a19613.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "d6/d76/a19613.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "d6/d76/a19613.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

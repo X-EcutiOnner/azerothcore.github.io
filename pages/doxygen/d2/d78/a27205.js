@@ -1,6 +1,7 @@
 var a27205 =
 [
-    [ "go_soulwellAI", "db/d34/a27209.html", "db/d34/a27209" ],
-    [ "go_soulwell", "d2/d78/a27205.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
-    [ "GetAI", "d2/d78/a27205.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
+    [ "HandleDummy", "d2/d78/a27205.html#a2ea424e6c740305340001b1c09bfec91", null ],
+    [ "PrepareSpellScript", "d2/d78/a27205.html#afe722c970155b47eac94bb9861a4eb46", null ],
+    [ "Register", "d2/d78/a27205.html#a2c2b96f1c00da9884ec9d01fe897c8c1", null ],
+    [ "Validate", "d2/d78/a27205.html#ac5f782da8b5e387c31e048759baf3e16", null ]
 ];

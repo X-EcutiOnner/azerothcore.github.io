@@ -1,8 +1,5 @@
 var a10925 =
 [
-    [ "SetRaidDifficulty", "d5/d93/a10925.html#af8d6189ed0209b4f70e32f92c00e13fb", null ],
-    [ "Write", "d5/d93/a10925.html#a3da812593b22ef506a9d61e16b5485d1", null ],
-    [ "Difficulty", "d5/d93/a10925.html#a1952e2d54b77437731b693f4eace83ac", null ],
-    [ "IsInGroup", "d5/d93/a10925.html#a8833543c4f179be97476a26152ec049b", null ],
-    [ "Unk", "d5/d93/a10925.html#a61a4f0fb74db04cdc11c0729bc104f7a", null ]
+    [ "GuildDeleteRank", "d5/d93/a10925.html#ae21057ea5cc30ed07deaa736149617b3", null ],
+    [ "Read", "d5/d93/a10925.html#a91a7883299fe09e08c247c96987a8333", null ]
 ];

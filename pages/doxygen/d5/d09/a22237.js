@@ -1,5 +1,6 @@
 var a22237 =
 [
-    [ "achievement_wg_within_our_grasp", "d5/d09/a22237.html#a9edbd15bc6989c6948e21391a683d22d", null ],
-    [ "OnCheck", "d5/d09/a22237.html#a10b659c4b52322536333e3d191796c27", null ]
+    [ "npc_roxi_ramrocket", "d5/d09/a22237.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
+    [ "OnGossipHello", "d5/d09/a22237.html#adec28f778921246c56f11d09753e566e", null ],
+    [ "OnGossipSelect", "d5/d09/a22237.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
 ];

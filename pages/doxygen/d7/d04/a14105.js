@@ -1,10 +1,16 @@
 var a14105 =
 [
-    [ "npc_lady_sylvanas_windrunner_bfuAI", "d7/d04/a14105.html#af7d495f489979690615d091bbd9d539b", null ],
-    [ "CanAIAttack", "d7/d04/a14105.html#af332a66852c9499912d8ef4959f394f5", null ],
-    [ "InitializeAI", "d7/d04/a14105.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
-    [ "JustRespawned", "d7/d04/a14105.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
-    [ "Reset", "d7/d04/a14105.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
-    [ "UpdateAI", "d7/d04/a14105.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
-    [ "_events", "d7/d04/a14105.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
+    [ "npc_bh_thalorien_dawnseekerAI", "d7/d04/a14105.html#aa0fc35194d16d63854926d4266569d77", null ],
+    [ "DamageTaken", "d7/d04/a14105.html#a46f47c937db63c2cd12331bce4e251cf", null ],
+    [ "EnterEvadeMode", "d7/d04/a14105.html#a55b6176ee579f5f320ce36b63f83d314", null ],
+    [ "JustSummoned", "d7/d04/a14105.html#aa23391bbed38571a86508b4c87e5c66c", null ],
+    [ "MovementInform", "d7/d04/a14105.html#a5f47c72447c197642a0081e544095489", null ],
+    [ "Reset", "d7/d04/a14105.html#a6a9beaf984d954bc11a5f7dff17ca442", null ],
+    [ "SetData", "d7/d04/a14105.html#a24293b807b8999acbb6fbe59e3c06232", null ],
+    [ "SummonedCreatureDespawn", "d7/d04/a14105.html#a095587a925d6054da2e2fdc9de2b415e", null ],
+    [ "UpdateAI", "d7/d04/a14105.html#aa432d9d89eed150f0b3cf0beaef144d2", null ],
+    [ "events", "d7/d04/a14105.html#a5b98f3bcba320cbec0116d3f4a8e4d05", null ],
+    [ "morlenGUID", "d7/d04/a14105.html#aefe243dea75b1aac366fae1395e0e398", null ],
+    [ "playerGUID", "d7/d04/a14105.html#ab93ca177abc21647a1162006ed50a551", null ],
+    [ "summons", "d7/d04/a14105.html#af36ccbeaec6bc0157cb8cac6d705c3c3", null ]
 ];

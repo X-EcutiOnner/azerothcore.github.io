@@ -1,8 +1,6 @@
 var a22433 =
 [
-    [ "boss_tavarok", "d2/d90/a22433.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
-    [ "JustDied", "d2/d90/a22433.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
-    [ "JustEngagedWith", "d2/d90/a22433.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
-    [ "KilledUnit", "d2/d90/a22433.html#a2c99df9457c548ee562fde920592ea88", null ],
-    [ "Reset", "d2/d90/a22433.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
+    [ "npc_released_offspring_harkoaAI", "d2/d90/a22433.html#ab1002f002987b6ea2366129afd48d65c", null ],
+    [ "MovementInform", "d2/d90/a22433.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
+    [ "Reset", "d2/d90/a22433.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
 ];

@@ -1,6 +1,7 @@
 var a18645 =
 [
-    [ "ModDest", "d3/d1b/a18645.html#a71638bdecb0f580dceff7858441056d8", null ],
-    [ "PrepareSpellScript", "d3/d1b/a18645.html#a741227928e07585b156ec716ae8b13da", null ],
-    [ "Register", "d3/d1b/a18645.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
+    [ "HandleInfusion", "d3/d1b/a18645.html#a9f77330d81fef646dd5d5399800cba66", null ],
+    [ "PrepareSpellScript", "d3/d1b/a18645.html#ae0a272902b0a9f74058c1dbe62974358", null ],
+    [ "Register", "d3/d1b/a18645.html#ad759f6215e722f799156b4bdddcb7af1", null ],
+    [ "Validate", "d3/d1b/a18645.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
 ];

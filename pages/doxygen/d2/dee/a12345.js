@@ -1,6 +1,5 @@
 var a12345 =
 [
-    [ "boss_gloomrel", "d2/dee/a12345.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
-    [ "OnGossipHello", "d2/dee/a12345.html#a6ce6898142d767a130ec09769f2be488", null ],
-    [ "OnGossipSelect", "d2/dee/a12345.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
+    [ "at_ring_of_law", "d2/dee/a12345.html#ad9bb44e898f90fb489b50cad0a711976", null ],
+    [ "OnTrigger", "d2/dee/a12345.html#a613471caae75ab3d82ce915101a20108", null ]
 ];

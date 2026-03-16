@@ -1,8 +1,9 @@
 var a10661 =
 [
-    [ "PlayedTime", "d0/d50/a10661.html#abc477d90a27dc41a7c643448302464cf", null ],
-    [ "Write", "d0/d50/a10661.html#a147071f2545cd91213d6c92dab7438c7", null ],
-    [ "LevelTime", "d0/d50/a10661.html#a2bf832827f9497a59bbfac714799b4b5", null ],
-    [ "TotalTime", "d0/d50/a10661.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
-    [ "TriggerScriptEvent", "d0/d50/a10661.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
+    [ "TransportScript", "d0/d50/a10661.html#a4b83123b122fa98831d304670a3de50a", null ],
+    [ "IsDatabaseBound", "d0/d50/a10661.html#a956f0d757e5d974566fa8fac0df731e5", null ],
+    [ "OnAddCreaturePassenger", "d0/d50/a10661.html#a5afb1f1dca2264089238ddd68b38a86d", null ],
+    [ "OnAddPassenger", "d0/d50/a10661.html#a806f4829b47429900271f6dde7eaa625", null ],
+    [ "OnRelocate", "d0/d50/a10661.html#a10334c1929c80fc80c76791cbd52f6dd", null ],
+    [ "OnRemovePassenger", "d0/d50/a10661.html#a6d6a3af4fcde46101b78cfdb787a2248", null ]
 ];

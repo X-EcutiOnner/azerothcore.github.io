@@ -1,8 +1,6 @@
 var a17865 =
 [
-    [ "ResetEncounterEvent", "d6/dc1/a17865.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
-    [ "Execute", "d6/dc1/a17865.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
-    [ "_caster", "d6/dc1/a17865.html#abb37778222749b27791baa329e268c32", null ],
-    [ "_otherTransport", "d6/dc1/a17865.html#a7f2d0aaade5833381e3e7624745fc504", null ],
-    [ "_spellId", "d6/dc1/a17865.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
+    [ "BloodboltHitCheck", "d6/dc1/a17865.html#a84873f1ec2c1e214e35d32954622e9af", null ],
+    [ "operator()", "d6/dc1/a17865.html#a1eddfd7bbea8def20dcc080413af6364", null ],
+    [ "_ai", "d6/dc1/a17865.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
 ];

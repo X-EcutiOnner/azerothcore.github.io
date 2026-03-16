@@ -1,5 +1,9 @@
 var a29049 =
 [
-    [ "go_jotunheim_cage", "df/d05/a29049.html#a28c9312de97a822e34f05c7358b42df4", null ],
-    [ "OnGossipHello", "df/d05/a29049.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
+    [ "CinematicSequence", "df/d05/a29049.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
+    [ "ClassID", "df/d05/a29049.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
+    [ "expansion", "df/d05/a29049.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
+    [ "name", "df/d05/a29049.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
+    [ "powerType", "df/d05/a29049.html#a74aec35dc161a7e830453b9365a6f107", null ],
+    [ "spellfamily", "df/d05/a29049.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
 ];

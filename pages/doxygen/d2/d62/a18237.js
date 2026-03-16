@@ -1,6 +1,6 @@
 var a18237 =
 [
-    [ "HandleScript", "d2/d62/a18237.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
-    [ "PrepareSpellScript", "d2/d62/a18237.html#a50560d754709e6b9ec6863142c1ffce3", null ],
-    [ "Register", "d2/d62/a18237.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
+    [ "npc_vengeful_shadeAI", "d2/df6/a18241.html", "d2/df6/a18241" ],
+    [ "npc_vengeful_shade", "d2/d62/a18237.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
+    [ "GetAI", "d2/d62/a18237.html#afa2c672015b43d83bd55050ed020f7e5", null ]
 ];

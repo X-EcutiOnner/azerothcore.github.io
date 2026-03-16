@@ -1,10 +1,12 @@
 var a23533 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "d8/d7f/a23533.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
-    [ "GetGuidData", "d8/d7f/a23533.html#aa4bedf168359eaf5332476a6de99c830", null ],
-    [ "OnGameObjectCreate", "d8/d7f/a23533.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
-    [ "SetBossState", "d8/d7f/a23533.html#a2937e4ea47af542a476bd3399ecc7233", null ],
-    [ "SetData", "d8/d7f/a23533.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
-    [ "StasisPodGUIDs", "d8/d7f/a23533.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
-    [ "WardensShieldGUID", "d8/d7f/a23533.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
+    [ "boss_nazan", "d8/d7f/a23533.html#a4390d3e181c4db46e364df3302612763", null ],
+    [ "AttackStart", "d8/d7f/a23533.html#a7acea69f908e7a004c2a78c103528975", null ],
+    [ "DoAction", "d8/d7f/a23533.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
+    [ "EnterEvadeMode", "d8/d7f/a23533.html#ab6338a7d240014e548b22044b788ce8f", null ],
+    [ "JustEngagedWith", "d8/d7f/a23533.html#a4d44b759530f32207a46a608fb7d6209", null ],
+    [ "MovementInform", "d8/d7f/a23533.html#ad35866322ff55263b1f8b105d2cad952", null ],
+    [ "Reset", "d8/d7f/a23533.html#a5c10e932075130399a9127869f45ce1d", null ],
+    [ "UpdateAI", "d8/d7f/a23533.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
+    [ "_scheduler", "d8/d7f/a23533.html#a8915d84ec4ffb8dade18041d5e910018", null ]
 ];

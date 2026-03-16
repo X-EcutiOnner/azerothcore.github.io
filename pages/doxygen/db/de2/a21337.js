@@ -1,6 +1,6 @@
 var a21337 =
 [
-    [ "npc_sinkhole_kill_creditAI", "de/d11/a21341.html", "de/d11/a21341" ],
-    [ "npc_sinkhole_kill_credit", "db/de2/a21337.html#a627d01aaaa3408986f2b4d171624e680", null ],
-    [ "GetAI", "db/de2/a21337.html#a4d734432f132bea2c4525d049fbcfa67", null ]
+    [ "boss_ichoronAI", "de/d11/a21341.html", "de/d11/a21341" ],
+    [ "boss_ichoron", "db/de2/a21337.html#ad4390da77a130edaf050d0bef3926882", null ],
+    [ "GetAI", "db/de2/a21337.html#a68051088dc2d2c738b042e2df0436b28", null ]
 ];

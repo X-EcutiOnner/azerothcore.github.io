@@ -1,9 +1,10 @@
 var a20557 =
 [
-    [ "npc_ulduar_dark_rune_watcher", "da/dc8/a20557.html#aaddea3969eaab06df6b7e5d08f6ad626", null ],
-    [ "CanAIAttack", "da/dc8/a20557.html#ae87ae4e671855f9e18eef6ba7f455463", null ],
-    [ "Reset", "da/dc8/a20557.html#a66ac44c21691994b0b45c096dd7a0d56", null ],
-    [ "UpdateAI", "da/dc8/a20557.html#a008399ff99fbf7c298485450cd3bd4e3", null ],
-    [ "timer1", "da/dc8/a20557.html#a8e7520f4f33604ebd8177b12ca610ea3", null ],
-    [ "timer2", "da/dc8/a20557.html#a1be016384a7fd92e96786ff6caf6c77d", null ]
+    [ "boss_kologarn_eyebeam", "da/dc8/a20557.html#ae51ea98b22b3a0734347825b3a0346be", null ],
+    [ "DamageDealt", "da/dc8/a20557.html#ab5dfd2cd38ee64a2cd94d8dec28ccc0d", null ],
+    [ "IsSummonedBy", "da/dc8/a20557.html#a1640ef2ca2a58803786a6c675191676c", null ],
+    [ "UpdateAI", "da/dc8/a20557.html#a7c64f096f0c9eb4c1bb9f63a0cf907a3", null ],
+    [ "_damaged", "da/dc8/a20557.html#a62d025ceaa080f78e587ee08c6f780ef", null ],
+    [ "_timer", "da/dc8/a20557.html#a0d324467d4d02d7bd204f66fcadc52ea", null ],
+    [ "m_pInstance", "da/dc8/a20557.html#a3725453f7a0d7b307cdbb9b63d990e5b", null ]
 ];

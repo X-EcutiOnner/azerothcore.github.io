@@ -1,29 +1,7 @@
 var a02534 =
 [
-    [ "HashMapHolder< T >", "d4/d6b/a09114.html", "d4/d6b/a09114" ],
-    [ "AddObject", "db/df5/a02534.html#a0726eba7e71a7c6d4f6f90b4dfb410f8", null ],
-    [ "AddObject", "db/df5/a02534.html#a2f3be0f1bc71493623f991ad879c8be4", null ],
-    [ "FindConnectedPlayer", "db/df5/a02534.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0", null ],
-    [ "FindPlayer", "db/df5/a02534.html#a9ede56180a13f102ad195136eadb97ee", null ],
-    [ "FindPlayerByLowGUID", "db/df5/a02534.html#a106c85352229fc2c097d9e021b4ce297", null ],
-    [ "FindPlayerByName", "db/df5/a02534.html#af5cb6806842c9689cf1d5f43ffdc4b0a", null ],
-    [ "GetCorpse", "db/df5/a02534.html#ad7a6a08850b890d65a5e38a77ef92502", null ],
-    [ "GetCreature", "db/df5/a02534.html#a8d1cda6b98832b29fcb437c654fd8ae9", null ],
-    [ "GetCreatureOrPetOrVehicle", "db/df5/a02534.html#ae98f0c5bc69acfddbb05d43599b07195", null ],
-    [ "GetDynamicObject", "db/df5/a02534.html#aad91cd58924cc8a34170b5a5c34ebe77", null ],
-    [ "GetGameObject", "db/df5/a02534.html#a351a9637e0759a657f3e8fbe3ad0f19f", null ],
-    [ "GetObjectByTypeMask", "db/df5/a02534.html#a1de63315bb66841e4273ec610b884939", null ],
-    [ "GetPet", "db/df5/a02534.html#ace68e06f8fc640d94eca642f91b4598e", null ],
-    [ "GetPlayer", "db/df5/a02534.html#a86236181ddfead8560067378e385f244", null ],
-    [ "GetPlayer", "db/df5/a02534.html#a46ef20a69ae5c8540a899fe8cdaa999e", null ],
-    [ "GetPlayers", "db/df5/a02534.html#a868ecab21b3e6e3ac68beed32f4ea793", null ],
-    [ "GetSpawnedCreatureByDBGUID", "db/df5/a02534.html#a4cebdea9476a004a8a1bd57c40d1f3ae", null ],
-    [ "GetSpawnedGameObjectByDBGUID", "db/df5/a02534.html#a6639665d2704cbd06727004567caac15", null ],
-    [ "GetTransport", "db/df5/a02534.html#a4ba6a4a32822e288697d9afd5e67fca7", null ],
-    [ "GetUnit", "db/df5/a02534.html#a1cb1e2f3906c3bd150a0d18377253d16", null ],
-    [ "GetWorldObject", "db/df5/a02534.html#a970c7277a8e1bb7b65f78fdee825b2cc", null ],
-    [ "RemoveObject", "db/df5/a02534.html#a43f4538cfa587672688705f6f7a60edc", null ],
-    [ "RemoveObject", "db/df5/a02534.html#ad72db398e2ff25a82a93e89fb67c56ff", null ],
-    [ "SaveAllPlayers", "db/df5/a02534.html#a0fba0222d2e46026727c6e898a7f35bc", null ],
-    [ "UpdatePlayerNameMapReference", "db/df5/a02534.html#a8a088e6967b9972662d788beffba14d4", null ]
+    [ "GetExplicitDiscoverySpell", "db/df5/a02534.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
+    [ "GetSkillDiscoverySpell", "db/df5/a02534.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
+    [ "HasDiscoveredAllSpells", "db/df5/a02534.html#abdf3c2fcf65212466dfb54053e35024c", null ],
+    [ "LoadSkillDiscoveryTable", "db/df5/a02534.html#addd95f0a239a27ed32cd943aa1052019", null ]
 ];

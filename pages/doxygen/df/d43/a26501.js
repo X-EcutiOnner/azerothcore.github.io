@@ -1,7 +1,8 @@
 var a26501 =
 [
-    [ "CheckProc", "df/d43/a26501.html#aa03bd8b92debda29f0b236fdbef73f16", null ],
-    [ "HandleProc", "df/d43/a26501.html#a91ee1b654a3a26e027407635a45b80b3", null ],
-    [ "PrepareAuraScript", "df/d43/a26501.html#ad2796a924fbe36dc9cd1c9de60eb9b16", null ],
-    [ "Register", "df/d43/a26501.html#ab06a732203303d5533bdc4b217640d2d", null ]
+    [ "Absorb", "df/d43/a26501.html#a9378cde1cc6daab0dc111b94aef4f6c8", null ],
+    [ "CalculateAmount", "df/d43/a26501.html#a20d5b4776ebeb859b0641af640e41d80", null ],
+    [ "PrepareAuraScript", "df/d43/a26501.html#ae1a70e11e89c4252e481ad737ad00ae0", null ],
+    [ "Register", "df/d43/a26501.html#a8c5399ba68554f4c2e842c5492ad715c", null ],
+    [ "Validate", "df/d43/a26501.html#aa6264e4dbff71b0d82e3403984c59c03", null ]
 ];

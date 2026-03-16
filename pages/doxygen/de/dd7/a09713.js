@@ -1,9 +1,8 @@
 var a09713 =
 [
-    [ "LoginQueryHolder", "de/dd7/a09713.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
-    [ "GetAccountId", "de/dd7/a09713.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
-    [ "GetGuid", "de/dd7/a09713.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
-    [ "Initialize", "de/dd7/a09713.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
-    [ "m_accountId", "de/dd7/a09713.html#abc8056182803af44a062fe6153fdd009", null ],
-    [ "m_guid", "de/dd7/a09713.html#ab4696408b2e649dcdaae0bc4330c0b9e", null ]
+    [ "MostHPMissingGroupInRange", "de/dd7/a09713.html#ab7cd80daa30d8a39289c704cc0a2064f", null ],
+    [ "operator()", "de/dd7/a09713.html#ad1b4a4894dd652237a7a789ef5619f4b", null ],
+    [ "i_hp", "de/dd7/a09713.html#ae61cafc52cb6d33cd78422c41bd3bb08", null ],
+    [ "i_obj", "de/dd7/a09713.html#ae0d85f9738301b40c3e950b02ee20026", null ],
+    [ "i_range", "de/dd7/a09713.html#a712e9b1ff341ccde4a6d6962ba6002a4", null ]
 ];

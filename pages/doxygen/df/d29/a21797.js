@@ -1,7 +1,6 @@
 var a21797 =
 [
-    [ "npc_Apothecary_HanesAI", "dc/d32/a21801.html", "dc/d32/a21801" ],
-    [ "npc_apothecary_hanes", "df/d29/a21797.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
-    [ "GetAI", "df/d29/a21797.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
-    [ "OnQuestAccept", "df/d29/a21797.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
+    [ "npc_q24545_wretched_ghoulAI", "dc/d32/a21801.html", "dc/d32/a21801" ],
+    [ "npc_q24545_wretched_ghoul", "df/d29/a21797.html#a3842b5bd89c911d29d561307113fb032", null ],
+    [ "GetAI", "df/d29/a21797.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
 ];

@@ -1,9 +1,8 @@
 var a14381 =
 [
-    [ "boss_jindo", "d2/db5/a14381.html#a9aafe0282e0b5de90ce62b3f8b3cfb14", null ],
-    [ "EnterEvadeMode", "d2/db5/a14381.html#a8b80f12d0b9b8e9c7aa7ec46fbb71500", null ],
-    [ "JustEngagedWith", "d2/db5/a14381.html#a7f612a1e5033c5097856222cee41f2af", null ],
-    [ "JustSummoned", "d2/db5/a14381.html#ac7382289d174ec70703b76dc4e451d39", null ],
-    [ "UpdateAI", "d2/db5/a14381.html#aad8885f79fc527954102fc1b78ca8ad7", null ],
-    [ "_scheduler", "d2/db5/a14381.html#a7ddbdc4d85936fd54fced20ff31e91cd", null ]
+    [ "npc_zulaman_hostageAI", "d2/d01/a14385.html", "d2/d01/a14385" ],
+    [ "npc_zulaman_hostage", "d2/db5/a14381.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
+    [ "GetAI", "d2/db5/a14381.html#a0ae144dc154dd028b409c9d2393f890c", null ],
+    [ "OnGossipHello", "d2/db5/a14381.html#a89d68a976f916a4de2196b57ec0026b0", null ],
+    [ "OnGossipSelect", "d2/db5/a14381.html#a114f6fbfab90944fd49babcba4b48a11", null ]
 ];

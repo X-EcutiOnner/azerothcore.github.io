@@ -1,9 +1,9 @@
 var a18009 =
 [
-    [ "CalculateDamage", "d8/d10/a18009.html#a6a9e90d9463825b38b69afc234b35b39", null ],
-    [ "PrepareSpellScript", "d8/d10/a18009.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
-    [ "Register", "d8/d10/a18009.html#a2722814a55469e5bae572766ed36309b", null ],
-    [ "RemoveEnergy", "d8/d10/a18009.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
-    [ "StoreEnergy", "d8/d10/a18009.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
-    [ "_energyLeft", "d8/d10/a18009.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
+    [ "BattleExperienceEvent", "d8/d10/a18009.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
+    [ "Execute", "d8/d10/a18009.html#a3971962ec90f682baeae96fe6098fa97", null ],
+    [ "_creature", "d8/d10/a18009.html#a0155536d5c2be329a1f3b57c4d852098", null ],
+    [ "_level", "d8/d10/a18009.html#a22f0d7e59f579362be4576180d0977b8", null ],
+    [ "ExperiencedSpells", "d8/d10/a18009.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
+    [ "ExperiencedTimes", "d8/d10/a18009.html#af682cc246c7fdae39cc2a1e57110badc", null ]
 ];

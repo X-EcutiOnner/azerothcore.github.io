@@ -1,6 +1,6 @@
 var a19309 =
 [
-    [ "boss_gluthAI", "d9/ddb/a19313.html", "d9/ddb/a19313" ],
-    [ "boss_gluth", "d8/d85/a19309.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
-    [ "GetAI", "d8/d85/a19309.html#a3b19c938aaecc897d6552715064be7f8", null ]
+    [ "npc_icc_vengeful_fleshreaperAI", "d9/ddb/a19313.html", "d9/ddb/a19313" ],
+    [ "npc_icc_vengeful_fleshreaper", "d8/d85/a19309.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
+    [ "GetAI", "d8/d85/a19309.html#abf1903616dbf52718313c8b404b504a5", null ]
 ];

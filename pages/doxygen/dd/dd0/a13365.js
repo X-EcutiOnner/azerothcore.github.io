@@ -1,8 +1,6 @@
 var a13365 =
 [
-    [ "CheckCast", "dd/dd0/a13365.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
-    [ "HandleScriptEffect", "dd/dd0/a13365.html#a36bb2b95651889eaa0321a7a327e173f", null ],
-    [ "PrepareSpellScript", "dd/dd0/a13365.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
-    [ "Register", "dd/dd0/a13365.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
-    [ "Validate", "dd/dd0/a13365.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
+    [ "boss_garaxxas", "dd/dd0/a13365.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
+    [ "JustEngagedWith", "dd/dd0/a13365.html#aebfd7b63d714468ed69e920fb89c345d", null ],
+    [ "Reset", "dd/dd0/a13365.html#a56e6489ce49971cb066444888355626e", null ]
 ];

@@ -1,8 +1,6 @@
 var a28489 =
 [
-    [ "prepareLoadedData", "dd/dff/a28489.html#a696cfebd8fe66840b316919519e9b319", null ],
-    [ "fcc", "dd/dff/a28489.html#a83cb69fb9eb6eff82a513c75301e5bf6", null ],
-    [ "fcc_txt", "dd/dff/a28489.html#a9c7e27f948978d771115ca4f88f70b5d", null ],
-    [ "height_map", "dd/dff/a28489.html#a50a7fa80b59ba9c0fcd8d93bd924a13f", null ],
-    [ "size", "dd/dff/a28489.html#add2809c6e520cf4aa43807d61f973f0e", null ]
+    [ "npc_air_force_botsAI", "d7/dab/a28493.html", "d7/dab/a28493" ],
+    [ "npc_air_force_bots", "dd/dff/a28489.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
+    [ "GetAI", "dd/dff/a28489.html#ae971e34d61b0f960d8f5940f9015523d", null ]
 ];

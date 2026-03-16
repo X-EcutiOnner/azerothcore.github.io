@@ -1,11 +1,8 @@
 var a15693 =
 [
-    [ "npc_stillpine_capitiveAI", "d3/d97/a15693.html#a98560e7fc360dbfa3166805d9ab3feb4", null ],
-    [ "MovementInform", "d3/d97/a15693.html#a1e930b49da85a64aa87ba79b5fe72391", null ],
-    [ "Reset", "d3/d97/a15693.html#a9c884f892e64044057d477bdc0f89eed", null ],
-    [ "StartMoving", "d3/d97/a15693.html#a2552a79cf384cca1203afa7f241c1cb9", null ],
-    [ "UpdateAI", "d3/d97/a15693.html#a25dc06767382b5fee2a7098b58726fb2", null ],
-    [ "_events", "d3/d97/a15693.html#a93dd55d392836d8d085e34293344b700", null ],
-    [ "_movementComplete", "d3/d97/a15693.html#ae8e39ca782aee412e39d65a33d14014e", null ],
-    [ "_playerGUID", "d3/d97/a15693.html#a3fe9a4f01aebb602095d60eb606ce763", null ]
+    [ "boss_veklor", "d3/d97/a15693.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "d3/d97/a15693.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "d3/d97/a15693.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "d3/d97/a15693.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "d3/d97/a15693.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

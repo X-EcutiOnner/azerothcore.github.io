@@ -1,6 +1,7 @@
 var a11929 =
 [
-    [ "bg_commandscript", "de/da2/a11929.html#a86ffdfaed58149f5036f5c1e1040507a", null ],
-    [ "GetCommands", "de/da2/a11929.html#a911ccd6445b08c05069f7f196556c891", null ],
-    [ "HandleBagsClearCommand", "de/da2/a11929.html#a92347e90c2f78d0dfeb41eb033366319", null ]
+    [ "PlayerDumpReader", "de/da2/a11929.html#ad630b61e298fb1ddf165481c9a14e077", null ],
+    [ "LoadDump", "de/da2/a11929.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
+    [ "LoadDumpFromFile", "de/da2/a11929.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
+    [ "LoadDumpFromString", "de/da2/a11929.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
 ];

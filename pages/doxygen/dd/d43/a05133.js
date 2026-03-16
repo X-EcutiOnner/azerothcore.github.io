@@ -1,11 +1,9 @@
 var a05133 =
 [
-    [ "~GameObjectModelOwnerBase", "dd/d43/a05133.html#a307c744710782fcb0d5c287b23c74d69", null ],
-    [ "DebugVisualizeCorner", "dd/d43/a05133.html#acf130fbdfb086a9c6d35d145116357c8", null ],
-    [ "GetDisplayId", "dd/d43/a05133.html#ae3eddc6c841c3644f50cb3300f80cee2", null ],
-    [ "GetOrientation", "dd/d43/a05133.html#a35c11d2346c5156b95558729d84b3fe8", null ],
-    [ "GetPhaseMask", "dd/d43/a05133.html#a6b55de1c8de5a50245d7e5a833766d0f", null ],
-    [ "GetPosition", "dd/d43/a05133.html#a82e89b7fac5f46a25519674930294ed8", null ],
-    [ "GetScale", "dd/d43/a05133.html#abf8e9a74f58ec34bc6f1f8d853100f69", null ],
-    [ "IsSpawned", "dd/d43/a05133.html#ad824da6970d512c344160714cd7ec434", null ]
+    [ "MDLCallback", "dd/d43/a05133.html#a241899d601778892a72080cceaa96318", null ],
+    [ "operator()", "dd/d43/a05133.html#a7e65ac1aebc8ac951303ee8e7cd85623", null ],
+    [ "operator()", "dd/d43/a05133.html#a2130223692a9d0f8491f7ea7ae24270c", null ],
+    [ "_callback", "dd/d43/a05133.html#a8eae05fc208dcc7f50147bf55c47764c", null ],
+    [ "objects", "dd/d43/a05133.html#a297d43aa55ffbb4f69f8e5888c8e116f", null ],
+    [ "objects_size", "dd/d43/a05133.html#a92fa352db4ba43afd590677d0ae1e5d9", null ]
 ];

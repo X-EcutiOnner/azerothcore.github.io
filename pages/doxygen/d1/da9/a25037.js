@@ -1,5 +1,6 @@
 var a25037 =
 [
-    [ "PrepareSpellScript", "d1/da9/a25037.html#a096abf53c6e622875c463060e986b5ef", null ],
-    [ "Register", "d1/da9/a25037.html#a68905cc33f09dbb42db67139193530cb", null ]
+    [ "CheckProc", "d1/da9/a25037.html#a3c4f64fc51367ebb549282b068458f4c", null ],
+    [ "PrepareAuraScript", "d1/da9/a25037.html#a72dc7c7b8bc842a7feb6857cbec34d25", null ],
+    [ "Register", "d1/da9/a25037.html#ac84b357828094a42aab1c8bfee83d298", null ]
 ];

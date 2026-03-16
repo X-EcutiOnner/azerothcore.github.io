@@ -1,7 +1,6 @@
 var a17781 =
 [
-    [ "HandleDummy", "dd/d3d/a17781.html#a89c0706f21fe92fd443c3638181044ec", null ],
-    [ "PrepareSpellScript", "dd/d3d/a17781.html#a957e29d2458fd90228ef9c53e997c642", null ],
-    [ "Register", "dd/d3d/a17781.html#a250c95310503cd59d73e45a9b9372268", null ],
-    [ "Validate", "dd/d3d/a17781.html#a1c67a262eb95def51661919a3bad3437", null ]
+    [ "npc_ball_of_flameAI", "d9/d94/a17785.html", "d9/d94/a17785" ],
+    [ "npc_ball_of_flame", "dd/d3d/a17781.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
+    [ "GetAI", "dd/d3d/a17781.html#ac0309668f9f0ca85a644d4928966e577", null ]
 ];

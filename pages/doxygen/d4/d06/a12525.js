@@ -1,5 +1,11 @@
 var a12525 =
 [
-    [ "go_father_flame", "d4/d06/a12525.html#aa992bd7029a56faca4b92637688fe845", null ],
-    [ "OnLootStateChanged", "d4/d06/a12525.html#a84c7055e791a3dac66b75d327c7662c3", null ]
+    [ "boss_gythAI", "d4/d06/a12525.html#aeec049af24b3a6f94051f1008ce107e6", null ],
+    [ "EnterEvadeMode", "d4/d06/a12525.html#a20296c618ad366d7ac956f16671cc408", null ],
+    [ "IsSummonedBy", "d4/d06/a12525.html#a6800421a2e9e889e649e792ee642d8ac", null ],
+    [ "JustDied", "d4/d06/a12525.html#a979da1f3922d9575b6c237b85952fb6c", null ],
+    [ "JustEngagedWith", "d4/d06/a12525.html#a6c0ca15d87851c205d94679ea65e5193", null ],
+    [ "JustSummoned", "d4/d06/a12525.html#ab9024ce261129c82d4304d2a13834a5f", null ],
+    [ "Reset", "d4/d06/a12525.html#aa3c86b403af5394a4e4cb30781bcb46b", null ],
+    [ "UpdateAI", "d4/d06/a12525.html#a66f27f6d49b40dcc2894f177b281570f", null ]
 ];

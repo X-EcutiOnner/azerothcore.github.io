@@ -1,6 +1,11 @@
 var a14669 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "de/d33/a14673.html", "de/d33/a14673" ],
-    [ "npc_grizzlemaw_cw_trigger", "d1/d96/a14669.html#a4514796784d974ba6de09b5a5d4e5f3b", null ],
-    [ "GetAI", "d1/d96/a14669.html#a1a834bda866033a3cca4fc4ece447313", null ]
+    [ "npc_dark_iron_attack_mole_machine", "d1/d96/a14669.html#a473a8fb4905e5d1333196797d7d0f371", null ],
+    [ "AttackStart", "d1/d96/a14669.html#a999dd932fbaf22a8275dfdba150c3291", null ],
+    [ "JustEngagedWith", "d1/d96/a14669.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
+    [ "MoveInLineOfSight", "d1/d96/a14669.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
+    [ "Reset", "d1/d96/a14669.html#a0727aab751ddfbd94ae070e60e47e768", null ],
+    [ "UpdateAI", "d1/d96/a14669.html#a1217ed510a846d011143ae0a386c6236", null ],
+    [ "goTimer", "d1/d96/a14669.html#a8686845ebef564c9fcaa115866c99749", null ],
+    [ "summonTimer", "d1/d96/a14669.html#a4713da02f4a86547a0f796167e24d8bb", null ]
 ];

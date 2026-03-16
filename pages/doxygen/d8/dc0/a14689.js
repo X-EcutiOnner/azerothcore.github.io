@@ -1,9 +1,7 @@
 var a14689 =
 [
-    [ "entries", "d8/dc0/a14689.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
-    [ "entries", "d8/dc0/a14689.html#a953850b267eb6f599bb49d82080bdf64", null ],
-    [ "revelerId", "d8/dc0/a14689.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
-    [ "schedule", "d8/dc0/a14689.html#a318d5e1c78e24df88077fe33ba5d9b5b", null ],
-    [ "size", "d8/dc0/a14689.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
-    [ "spawns", "d8/dc0/a14689.html#a54ef87964b52bb4fc2cc2846afd7e7d3", null ]
+    [ "FilterTargets", "d8/dc0/a14689.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
+    [ "HandleDummyEffect", "d8/dc0/a14689.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
+    [ "PrepareSpellScript", "d8/dc0/a14689.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
+    [ "Register", "d8/dc0/a14689.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
 ];

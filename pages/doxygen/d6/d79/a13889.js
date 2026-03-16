@@ -1,5 +1,6 @@
 var a13889 =
 [
-    [ "at_twilight_grove", "d6/d79/a13889.html#a2ef32dbac0a35aa7dc6ebbafe926125f", null ],
-    [ "OnTrigger", "d6/d79/a13889.html#a8ee7239b8429df38a237926a7252322b", null ]
+    [ "HandlePeriodic", "d6/d79/a13889.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
+    [ "PrepareAuraScript", "d6/d79/a13889.html#a2722b97e12e9371745d7f38504d9efdf", null ],
+    [ "Register", "d6/d79/a13889.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
 ];

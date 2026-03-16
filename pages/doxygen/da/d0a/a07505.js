@@ -1,12 +1,6 @@
 var a07505 =
 [
-    [ "CapturePointInfo", "da/d0a/a07505.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
-    [ "IsUncontrolled", "da/d0a/a07505.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
-    [ "IsUnderControl", "da/d0a/a07505.html#a3f33897525f5104e2e7733dd6247c090", null ],
-    [ "IsUnderControl", "da/d0a/a07505.html#af6b021020b120b87c300981b8bb60992", null ],
-    [ "_areaTrigger", "da/d0a/a07505.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
-    [ "_barStatus", "da/d0a/a07505.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
-    [ "_ownerTeamId", "da/d0a/a07505.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
-    [ "_playersCount", "da/d0a/a07505.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
-    [ "player", "da/d0a/a07505.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
+    [ "ArenaTeamFilterByTypes", "da/d0a/a07505.html#ac28ee86767c48219dbe141620c87e129", null ],
+    [ "Filter", "da/d0a/a07505.html#a7c04437788359b40db1c0d4492d51497", null ],
+    [ "_validTypes", "da/d0a/a07505.html#aa3b5ce8932b00b092813af239d83b7d1", null ]
 ];

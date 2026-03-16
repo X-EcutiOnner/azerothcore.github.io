@@ -1,4 +1,5 @@
 var a28321 =
 [
-    [ "value", "d3/dda/a28321.html#a30d3b489f743df8aa828b6e5bb847ea2", null ]
+    [ "go_duskwither_spire_power_source", "d3/dda/a28321.html#aab69de16e8b744af2671e2ed882ee94a", null ],
+    [ "OnGossipHello", "d3/dda/a28321.html#a2c7fd017e7985b99bff187119157a041", null ]
 ];

@@ -1,9 +1,7 @@
 var a05741 =
 [
-    [ "AccountFlags", "d9/d6a/a05741.html#aa8e111f748d165f854b2deff5a81577f", null ],
-    [ "cmd", "d9/d6a/a05741.html#a5846630b9df94b9f4784e59e7f320257", null ],
-    [ "error", "d9/d6a/a05741.html#a5cbbda99be5cd0549dd43fc0e546007e", null ],
-    [ "LoginFlags", "d9/d6a/a05741.html#adb807963195c0abbb840aca64499f630", null ],
-    [ "M2", "d9/d6a/a05741.html#a2199b33bc93fb6a8add5ba36eab0514e", null ],
-    [ "SurveyId", "d9/d6a/a05741.html#ad05c428ccd8fbdce40dc4f337de19fb8", null ]
+    [ "~SignalHandler", "d9/d6a/a05741.html#a9c515cb60b156629c43d1a6fce81d58e", null ],
+    [ "handle_signal", "d9/d6a/a05741.html#a56782d1718cb243bb5b0c6dc2d100042", null ],
+    [ "_handled", "d9/d6a/a05741.html#a21b208a696ed4a320a7cf312006a787f", null ],
+    [ "_mutex", "d9/d6a/a05741.html#a0c4d6ba642dd3877c3333b067db22db6", null ]
 ];

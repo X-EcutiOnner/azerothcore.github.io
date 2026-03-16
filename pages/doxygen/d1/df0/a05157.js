@@ -1,8 +1,10 @@
 var a05157 =
 [
-    [ "GModelRayCallback", "d1/df0/a05157.html#a39bc53ae3bf18800ea215a5a54568606", null ],
-    [ "operator()", "d1/df0/a05157.html#af0072bed861fb89a63c37fd72482ed42", null ],
-    [ "hit", "d1/df0/a05157.html#ad8861bd8f8c15ff9955c62f5cb1e13bf", null ],
-    [ "triangles", "d1/df0/a05157.html#a09ef515a1b16d184071e708ed9245b3d", null ],
-    [ "vertices", "d1/df0/a05157.html#af80815b123c6611f38e3d5b41e501546", null ]
+    [ "DynamicTreeLocationInfoCallback", "d1/df0/a05157.html#a3fcb6d535b2207e2bfedb961de856e6d", null ],
+    [ "GetHitModel", "d1/df0/a05157.html#ac939625c44c7be8ba8b96d55545b657c", null ],
+    [ "GetLocationInfo", "d1/df0/a05157.html#ac1c3839aa1f0e9b64390502c4ce7bb3e", null ],
+    [ "operator()", "d1/df0/a05157.html#a4d2569c48cfa431282119ed5bd53ffb4", null ],
+    [ "_hitModel", "d1/df0/a05157.html#adef79d7627daa66d88c7146704984622", null ],
+    [ "_locationInfo", "d1/df0/a05157.html#a3c9be93de73520942a8d52b78fe72438", null ],
+    [ "_phaseMask", "d1/df0/a05157.html#aebe4c7cfc47b3bd2701b2b9cda2ed71e", null ]
 ];

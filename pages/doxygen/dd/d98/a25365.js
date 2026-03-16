@@ -1,5 +1,7 @@
 var a25365 =
 [
-    [ "PrepareSpellScript", "dd/d98/a25365.html#adaaa520c889970d91f3f38c958efdad4", null ],
-    [ "Register", "dd/d98/a25365.html#a80fe694c669aa86494bd73bfa7b8ffc8", null ]
+    [ "PrepareSpellScript", "dd/d98/a25365.html#a65d5717a25e371e09c44148c679dd390", null ],
+    [ "Register", "dd/d98/a25365.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
+    [ "RemoveInvalidTargets", "dd/d98/a25365.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
+    [ "Validate", "dd/d98/a25365.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
 ];

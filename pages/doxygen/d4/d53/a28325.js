@@ -1,6 +1,6 @@
 var a28325 =
 [
-    [ "categoryMask", "d4/d53/a28325.html#abd8816e5dda7bda455ccd6932647c4be", null ],
-    [ "categoryType", "d4/d53/a28325.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
-    [ "ID", "d4/d53/a28325.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
+    [ "guard_shattrath_scryerAI", "dd/d60/a28329.html", "dd/d60/a28329" ],
+    [ "guard_shattrath_scryer", "d4/d53/a28325.html#a2ee4d6881d7c24cd848c590b84207663", null ],
+    [ "GetAI", "d4/d53/a28325.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
 ];

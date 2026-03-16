@@ -1,7 +1,7 @@
 var a24849 =
 [
-    [ "HandleScript", "da/d16/a24849.html#a8ec57aed0788f58e2c50fc08793a5749", null ],
-    [ "PrepareSpellScript", "da/d16/a24849.html#a56c9ab120239252982cab8b96ac8c5fe", null ],
-    [ "Register", "da/d16/a24849.html#a8c727b2b00858abcce058b16d66ca62a", null ],
-    [ "Validate", "da/d16/a24849.html#af3ffb9930eaba8703065719bbcf02f56", null ]
+    [ "FilterTargets", "da/d16/a24849.html#a9abf4baaba572636dba3980e5ae777c5", null ],
+    [ "Load", "da/d16/a24849.html#a812e4e461c0ebed6f7c4cc36e88a3367", null ],
+    [ "PrepareSpellScript", "da/d16/a24849.html#a4e98fbf669c030263ed2e5759a5bd6e8", null ],
+    [ "Register", "da/d16/a24849.html#a2d72f5771d6563260a6e81122e4a2be5", null ]
 ];

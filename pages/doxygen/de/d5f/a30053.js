@@ -1,7 +1,12 @@
 var a30053 =
 [
-    [ "ID", "de/d5f/a30053.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
-    [ "RadiusMax", "de/d5f/a30053.html#ab82c1acb9309b17104958182d80b01d1", null ],
-    [ "RadiusMin", "de/d5f/a30053.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
-    [ "RadiusPerLevel", "de/d5f/a30053.html#a74bb59afb808af45ceff6367468fca1e", null ]
+    [ "Bounds", "de/d5f/a30053.html#a1e982b341ac3859fad38b2efc81ab8ea", null ],
+    [ "DoodadSet", "de/d5f/a30053.html#abbf6e50e76b120be17215cfcf227a524", null ],
+    [ "Flags", "de/d5f/a30053.html#a06f5e96119239356eea45b9acdadf6e1", null ],
+    [ "Id", "de/d5f/a30053.html#a952442c180e8d3710af31272b54eb6ec", null ],
+    [ "NameSet", "de/d5f/a30053.html#a55df9aed38d8cf1503b21f5fd9d5e5d0", null ],
+    [ "Position", "de/d5f/a30053.html#a7e6463db89eaf53bc20832afb1842a5b", null ],
+    [ "Rotation", "de/d5f/a30053.html#a2c04715e800b9f375c287cced96643d1", null ],
+    [ "Scale", "de/d5f/a30053.html#a142716fecae07abc013c7f3bd053c0ea", null ],
+    [ "UniqueId", "de/d5f/a30053.html#a749e920740b9e91547fe1f87933d1c7d", null ]
 ];

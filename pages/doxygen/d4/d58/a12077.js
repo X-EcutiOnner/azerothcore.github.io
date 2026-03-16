@@ -1,7 +1,11 @@
 var a12077 =
 [
-    [ "player_commandscript", "d4/d58/a12077.html#a1565aa67743cfd3e5fe5179b4100bd20", null ],
-    [ "GetCommands", "d4/d58/a12077.html#a0e1e8eec0fe449c95c5cf9dd06a0fced", null ],
-    [ "HandlePlayerLearnCommand", "d4/d58/a12077.html#a6ca511bcecf73049665772cb80dbcf40", null ],
-    [ "HandlePlayerUnLearnCommand", "d4/d58/a12077.html#a22fddb5da1278fe794a78a899c423bfd", null ]
+    [ "bf_commandscript", "d4/d58/a12077.html#a806ca440ae1b51fffefee9d298dab3df", null ],
+    [ "GetCommands", "d4/d58/a12077.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
+    [ "HandleBattlefieldEnable", "d4/d58/a12077.html#a08dd3bdd279c760fe0f126200a01619e", null ],
+    [ "HandleBattlefieldEnd", "d4/d58/a12077.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
+    [ "HandleBattlefieldQueue", "d4/d58/a12077.html#a23f6e8d14c511f3e9c3c070be14477e4", null ],
+    [ "HandleBattlefieldStart", "d4/d58/a12077.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
+    [ "HandleBattlefieldSwitch", "d4/d58/a12077.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
+    [ "HandleBattlefieldTimer", "d4/d58/a12077.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
 ];

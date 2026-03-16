@@ -1,8 +1,8 @@
 var a29305 =
 [
-    [ "DBCFile", "d2/db2/a28302.html", "d2/db2/a28302" ],
-    [ "DBCFile::Exception", "d1/d97/a28306.html", "d1/d97/a28306" ],
-    [ "DBCFile::NotFound", "db/d59/a28310.html", "db/d59/a28310" ],
-    [ "DBCFile::Record", "db/d97/a28314.html", "db/d97/a28314" ],
-    [ "DBCFile::Iterator", "d6/df1/a28318.html", "d6/df1/a28318" ]
+    [ "canLink", "d9/db7/a29305.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
+    [ "categoryId", "d9/db7/a29305.html#abf285e69e8e2a90626a157cb0c50d158", null ],
+    [ "id", "d9/db7/a29305.html#a7740b26f1bde19a05b002c00eded25e3", null ],
+    [ "name", "d9/db7/a29305.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
+    [ "spellIcon", "d9/db7/a29305.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
 ];

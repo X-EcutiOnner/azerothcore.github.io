@@ -1,5 +1,7 @@
 var a13877 =
 [
-    [ "npc_maredis_firestarAI", "df/db7/a13881.html", "df/db7/a13881" ],
-    [ "npc_maredis_firestar", "de/df7/a13877.html#a91015d70203597db3dda10b695565740", null ]
+    [ "HandleRemove", "de/df7/a13877.html#a4484cf33e423f23cad9559a6a16ed9b4", null ],
+    [ "PrepareAuraScript", "de/df7/a13877.html#a6fa407996b59d98d0eeef877ee89784d", null ],
+    [ "Register", "de/df7/a13877.html#a7dc81b47954ee8c10b99f389740de0be", null ],
+    [ "Validate", "de/df7/a13877.html#afd94a159c0f429f2a63ffbd0a38d32e3", null ]
 ];

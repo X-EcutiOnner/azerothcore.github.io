@@ -1,10 +1,7 @@
 var a10053 =
 [
-    [ "ChaseRange", "d2/d89/a10053.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
-    [ "ChaseRange", "d2/d89/a10053.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
-    [ "ChaseRange", "d2/d89/a10053.html#a397b3789449b1c178f11f64313498c4d", null ],
-    [ "MaxRange", "d2/d89/a10053.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
-    [ "MaxTolerance", "d2/d89/a10053.html#a7909b18028d43c84eca5feee3e41469c", null ],
-    [ "MinRange", "d2/d89/a10053.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
-    [ "MinTolerance", "d2/d89/a10053.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
+    [ "ZRangeBoundary", "d2/d89/a10053.html#ab9c77783e059de4478625f7c97713c49", null ],
+    [ "IsWithinBoundaryArea", "d2/d89/a10053.html#af1410b3eeb9e7096b1cc53caa7edd68f", null ],
+    [ "_maxZ", "d2/d89/a10053.html#a7226d6a69b9fb922a2ac06300ab060d8", null ],
+    [ "_minZ", "d2/d89/a10053.html#aee142d5bc4cfae80584b84ae451da05c", null ]
 ];

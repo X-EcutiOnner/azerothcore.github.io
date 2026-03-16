@@ -1,6 +1,5 @@
 var a20149 =
 [
-    [ "PrepareSpellScript", "dc/de7/a20149.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
-    [ "RecalculateDamage", "dc/de7/a20149.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
-    [ "Register", "dc/de7/a20149.html#af2b5382122be41a6b1ee4ab721b417da", null ]
+    [ "achievement_algalon_herald_of_the_titans", "dc/de7/a20149.html#a13c75b878f4669d212eeb09b55336384", null ],
+    [ "OnCheck", "dc/de7/a20149.html#a20811d7bb453b1758967c11545e630e9", null ]
 ];

@@ -1,7 +1,6 @@
 var a12749 =
 [
-    [ "HandleHit", "d0/d98/a12749.html#a18f86449945ade16140ee934a7d8703e", null ],
-    [ "PrepareSpellScript", "d0/d98/a12749.html#abaf09043858db27b05fbe544d7a15a8f", null ],
-    [ "Register", "d0/d98/a12749.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
-    [ "Validate", "d0/d98/a12749.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
+    [ "boss_firemawAI", "d0/d98/a12749.html#ab3f56c97119676b1a75662e52caecb75", null ],
+    [ "JustEngagedWith", "d0/d98/a12749.html#a04cb1d2fa18dba82b9c881b09406a076", null ],
+    [ "UpdateAI", "d0/d98/a12749.html#a6e35e47b23d713263ef00769324bbbed", null ]
 ];

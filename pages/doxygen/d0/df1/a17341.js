@@ -1,8 +1,6 @@
 var a17341 =
 [
-    [ "boss_krickAI", "d0/df1/a17341.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
-    [ "DoAction", "d0/df1/a17341.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
-    [ "UpdateAI", "d0/df1/a17341.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
-    [ "events", "d0/df1/a17341.html#a75349e2fc35832e7944fa4f772380baa", null ],
-    [ "pInstance", "d0/df1/a17341.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
+    [ "npc_ghostly_priestAI", "d2/d89/a17345.html", "d2/d89/a17345" ],
+    [ "npc_ghostly_priest", "d0/df1/a17341.html#a7c03bb327cfc65f4df515969da482ddb", null ],
+    [ "GetAI", "d0/df1/a17341.html#a0fab76345c5459efcedff02123e4fc8d", null ]
 ];

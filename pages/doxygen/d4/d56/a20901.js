@@ -1,18 +1,9 @@
 var a20901 =
 [
-    [ "boss_ingvar_the_plunderer", "d4/d56/a20901.html#af37159882b0faabe46e6f7c26ea84913", null ],
-    [ "DamageTaken", "d4/d56/a20901.html#a14ec746bb57e77373e4c3f924dd9f952", null ],
-    [ "EnterEvadeMode", "d4/d56/a20901.html#a5bd8e575292b487a3381854f5ae87306", null ],
-    [ "FeignDeath", "d4/d56/a20901.html#afb732c1e7c74e88f63b2c3eee5ba3dd3", null ],
-    [ "JustDied", "d4/d56/a20901.html#ab3b0ea55dfb6bb90f7d60fec7f2ff8ff", null ],
-    [ "JustEngagedWith", "d4/d56/a20901.html#aedd8ccb3ab3b89cae9d80443ffa3edaa", null ],
-    [ "JustSummoned", "d4/d56/a20901.html#a9101d4c988585f221b503971df87621b", null ],
-    [ "KilledUnit", "d4/d56/a20901.html#ae8d5a148c7089f644db8ee686a04a2a8", null ],
-    [ "Reset", "d4/d56/a20901.html#a57ecf5f8008714c3f067afe5a2ec2ffe", null ],
-    [ "UpdateAI", "d4/d56/a20901.html#a59ee4cc1cf9cfe95ac77bdb637d01f71", null ],
-    [ "events", "d4/d56/a20901.html#ae2155e079dc748bfa1026a05916a8534", null ],
-    [ "pInstance", "d4/d56/a20901.html#ad4855d14fe94168f454a6b77a1ce5fde", null ],
-    [ "summons", "d4/d56/a20901.html#a687b5cd37794ff530180f6ba5c208162", null ],
-    [ "ThrowGUID", "d4/d56/a20901.html#af3b3c0ff36d28a3a7151a27a13879fe2", null ],
-    [ "ValkyrGUID", "d4/d56/a20901.html#a556e9720346ba84a858170bfd8e9f358", null ]
+    [ "boss_yoggsaron_keeper", "d4/d56/a20901.html#ad2098933656371b1bf80ec3ea859c418", null ],
+    [ "DoAction", "d4/d56/a20901.html#a9e3d251810b55072458003356213ae15", null ],
+    [ "JustEngagedWith", "d4/d56/a20901.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
+    [ "JustSummoned", "d4/d56/a20901.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
+    [ "UpdateAI", "d4/d56/a20901.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
+    [ "_summons", "d4/d56/a20901.html#aa840eff5f3d8b24225046113737936b4", null ]
 ];

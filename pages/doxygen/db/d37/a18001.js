@@ -1,9 +1,9 @@
 var a18001 =
 [
-    [ "HandleApply", "db/d37/a18001.html#a5f23d41765ec949486094a0da45be7e8", null ],
-    [ "HandleRemove", "db/d37/a18001.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
-    [ "Load", "db/d37/a18001.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
-    [ "PrepareAuraScript", "db/d37/a18001.html#aabf5fdf4578935db11e041e638fba187", null ],
-    [ "Register", "db/d37/a18001.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
-    [ "SendClientControl", "db/d37/a18001.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
+    [ "npc_stinky_iccAI", "db/d37/a18001.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
+    [ "JustDied", "db/d37/a18001.html#a7fa392980e2d30c935b79377df8dc694", null ],
+    [ "JustEngagedWith", "db/d37/a18001.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
+    [ "Reset", "db/d37/a18001.html#ac66e3398598576fdc889a7b56646eecf", null ],
+    [ "UpdateAI", "db/d37/a18001.html#af6e04824ea1682c529e8579a306d34ca", null ],
+    [ "events", "db/d37/a18001.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
 ];

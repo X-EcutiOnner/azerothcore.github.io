@@ -1,6 +1,6 @@
 var a19841 =
 [
-    [ "CalculateDamage", "d0/d45/a19841.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
-    [ "PrepareSpellScript", "d0/d45/a19841.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
-    [ "Register", "d0/d45/a19841.html#a02851f0b94687512a8e016bfb9b826e3", null ]
+    [ "boss_eregosAI", "d7/d2e/a19845.html", "d7/d2e/a19845" ],
+    [ "boss_eregos", "d0/d45/a19841.html#a105820f29aa1391d77a56e024c4b5637", null ],
+    [ "GetAI", "d0/d45/a19841.html#aee43f0dfee70ab9618c560a27504cb02", null ]
 ];

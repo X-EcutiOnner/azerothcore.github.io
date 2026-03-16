@@ -1,10 +1,11 @@
 var a06129 =
 [
-    [ "Storage", "d8/d6b/a06129.html#a49a70316b169e50ad64ff51d6a568bbc", null ],
-    [ "AchievementCriteriaDataSet", "d8/d6b/a06129.html#a5055f8710c48379035e132e8f20577dc", null ],
-    [ "Add", "d8/d6b/a06129.html#a297f02665679b19961998fb529d064e4", null ],
-    [ "Meets", "d8/d6b/a06129.html#a8edbe32d695308633fa7abfc91d2a1a1", null ],
-    [ "SetCriteriaId", "d8/d6b/a06129.html#addedfd39d9948923a2704b51eaacecbc", null ],
-    [ "_criteria_id", "d8/d6b/a06129.html#a0abc37729d2f3c400bb7cfde212f51c0", null ],
-    [ "_storage", "d8/d6b/a06129.html#a6abf189d95226b370cfcfe7b628ed7c0", null ]
+    [ "AppenderDB", "d8/d6b/a06129.html#af8e48076d47a06c73f6b8ae054955a83", null ],
+    [ "~AppenderDB", "d8/d6b/a06129.html#a7da848083d02833acc632051a2d938bf", null ],
+    [ "_write", "d8/d6b/a06129.html#af38ab76e4d3ea9ebe864582c0030c49a", null ],
+    [ "getType", "d8/d6b/a06129.html#a96221ceed23435556df03c5f7ffab61e", null ],
+    [ "setRealmId", "d8/d6b/a06129.html#a769ff59f4dbbff1b77398dd20c016ace", null ],
+    [ "enabled", "d8/d6b/a06129.html#a55e70394d0a7f321e0cf75a9b822b482", null ],
+    [ "realmId", "d8/d6b/a06129.html#a5c9bf2ae429c0903cffe9a01c03b6028", null ],
+    [ "type", "d8/d6b/a06129.html#a8d9968c073ee16a8fe082254ec232ebb", null ]
 ];

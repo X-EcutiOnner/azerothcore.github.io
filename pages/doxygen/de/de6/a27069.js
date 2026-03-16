@@ -1,5 +1,6 @@
 var a27069 =
 [
-    [ "go_ethereum_stasis", "de/de6/a27069.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
-    [ "OnGossipHello", "de/de6/a27069.html#ac36da8dccbebcaee605a878df3904c60", null ]
+    [ "HandleScriptEffect", "de/de6/a27069.html#a703b5a1725e05bfbfccc3b6ee5107d95", null ],
+    [ "PrepareSpellScript", "de/de6/a27069.html#ab2bb14aac4758dac46aae636ba09e50d", null ],
+    [ "Register", "de/de6/a27069.html#ae2fca7fde9af90dd7d461c2d046d9783", null ]
 ];

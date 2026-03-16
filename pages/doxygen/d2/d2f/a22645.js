@@ -1,9 +1,17 @@
 var a22645 =
 [
-    [ "HandleAfterCast", "d2/d2f/a22645.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
-    [ "HandleDummy", "d2/d2f/a22645.html#ae94594e337c2e0e6864f3723df8349bf", null ],
-    [ "Load", "d2/d2f/a22645.html#a301008eff6b13a43070b3916925391ae", null ],
-    [ "PrepareSpellScript", "d2/d2f/a22645.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
-    [ "Register", "d2/d2f/a22645.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
-    [ "_targetCount", "d2/d2f/a22645.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
+    [ "boss_ambassador_hellmaw", "d2/d2f/a22645.html#ae774dfa4379b7321ff194a796c9eb842", null ],
+    [ "AttackStart", "d2/d2f/a22645.html#aa072ff0e9ce6e68f3ba0b4e51fb92f04", null ],
+    [ "CanAIAttack", "d2/d2f/a22645.html#a35579b31dec1d0c110b459230ee129e4", null ],
+    [ "DoAction", "d2/d2f/a22645.html#a3cbd58fb11fe8d297907bb40d69e4ccb", null ],
+    [ "DoMeleeAttackIfReady", "d2/d2f/a22645.html#a8dd75d368f0f567561db45e1c53ad785", null ],
+    [ "InitializeAI", "d2/d2f/a22645.html#a9b0170a49751def614126265240bb87c", null ],
+    [ "JustDied", "d2/d2f/a22645.html#ae0e04500073a4c02c9656b4bcd63be9c", null ],
+    [ "JustEngagedWith", "d2/d2f/a22645.html#a9ea9d60b8fa90a228951a38fc2f59325", null ],
+    [ "KilledUnit", "d2/d2f/a22645.html#a5f7564ef25a36395cddf4e2c2dbc2dfc", null ],
+    [ "MoveInLineOfSight", "d2/d2f/a22645.html#af3949b46f82863af699396729e88928b", null ],
+    [ "PathEndReached", "d2/d2f/a22645.html#a46b9b96ec5e4c121d994560e85266dfe", null ],
+    [ "Reset", "d2/d2f/a22645.html#a4881f868ac11eb66f3d15b44c94938bf", null ],
+    [ "UpdateAI", "d2/d2f/a22645.html#a44dae5d6517e22dd2be399d08fa67a71", null ],
+    [ "isBanished", "d2/d2f/a22645.html#a4805244997c42f5791400c5b1f5e6204", null ]
 ];

@@ -1,7 +1,6 @@
 var a15553 =
 [
-    [ "FilterTargets", "da/d04/a15553.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
-    [ "HandleOnHit", "da/d04/a15553.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
-    [ "PrepareSpellScript", "da/d04/a15553.html#ad7372e543391a23c003b4121e0dd8a09", null ],
-    [ "Register", "da/d04/a15553.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
+    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "d4/dab/a15557.html", "d4/dab/a15557" ],
+    [ "instance_ruins_of_ahnqiraj", "da/d04/a15553.html#adeacb1c68e4b12995a335d1bedde075a", null ],
+    [ "GetInstanceScript", "da/d04/a15553.html#a6a661e961c2599498de0ccd41c0763b4", null ]
 ];

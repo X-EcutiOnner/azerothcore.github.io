@@ -1,11 +1,7 @@
 var a18369 =
 [
-    [ "npc_ice_tombAI", "d3/d92/a18369.html#ab2cd26a6f50f42f2773f8a7b522289ec", null ],
-    [ "DamageTaken", "d3/d92/a18369.html#aa1451254b5eaa1332b87f2d817e1f3a7", null ],
-    [ "JustDied", "d3/d92/a18369.html#a237f27260aaa9176d81b67b11d063660", null ],
-    [ "SetGUID", "d3/d92/a18369.html#ac406bece1d1f1517b5837e311feef9ae", null ],
-    [ "UpdateAI", "d3/d92/a18369.html#a2f613f1f4fd51dac767b97fd9b96af44", null ],
-    [ "_asphyxiationTimer", "d3/d92/a18369.html#a6790d9c852279624a549f60bf26e1eb2", null ],
-    [ "_existenceCheckTimer", "d3/d92/a18369.html#ab3dbf40235549be89e42951d93593ea2", null ],
-    [ "_trappedPlayerGUID", "d3/d92/a18369.html#a8a7666594e59bdac449f2284387b8e2c", null ]
+    [ "HandleExtraEffect", "d3/d92/a18369.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "d3/d92/a18369.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "d3/d92/a18369.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "d3/d92/a18369.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

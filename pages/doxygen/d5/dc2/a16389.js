@@ -1,11 +1,17 @@
 var a16389 =
 [
-    [ "boss_general_zarithrianAI", "d5/dc2/a16389.html#a4168a5883052810d137f59d3b104bc24", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d5/dc2/a16389.html#a22f6ff041e61c94df73a938162fa26f5", null ],
-    [ "JustDied", "d5/dc2/a16389.html#a49be533142c82a95a136dc2dcbf4843c", null ],
-    [ "JustEngagedWith", "d5/dc2/a16389.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
-    [ "JustSummoned", "d5/dc2/a16389.html#acb694d20b35d57a315aa4662562af210", null ],
-    [ "KilledUnit", "d5/dc2/a16389.html#ad385477740b728e63acff7c184df3c09", null ],
-    [ "Reset", "d5/dc2/a16389.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
-    [ "UpdateAI", "d5/dc2/a16389.html#a3a7e578d64a760cd38712c725eecc97d", null ]
+    [ "npc_hadronox_crusherPackAI", "d5/dc2/a16389.html#a87d2baf69aecf42ad9b40ff993462e2c", null ],
+    [ "DoAction", "d5/dc2/a16389.html#a37b0af619fe374f809c0a41d340e5772", null ],
+    [ "DoEngagedWith", "d5/dc2/a16389.html#a4a6a7b835357fa63d3fc95b3676a5451", null ],
+    [ "DoEvent", "d5/dc2/a16389.html#a7ed620b7288a89f83150f49f0883f38b", null ],
+    [ "GetData", "d5/dc2/a16389.html#ae6a622e916a8e957eb3a4bf1b6563736", null ],
+    [ "JustEngagedWith", "d5/dc2/a16389.html#abc2842315c49bad32ea04b0d67e7d903", null ],
+    [ "MoveInLineOfSight", "d5/dc2/a16389.html#a1801b218fe0ad79b8e8710f2ffd177ad", null ],
+    [ "MovementInform", "d5/dc2/a16389.html#a810f890a7c57811e683f063f4c9fdcf4", null ],
+    [ "SetData", "d5/dc2/a16389.html#a99c1bcd23e068cba7e663fba2953b059", null ],
+    [ "UpdateAI", "d5/dc2/a16389.html#a0c84d3d559791416cdbc316cc3e8edfc", null ],
+    [ "_doFacing", "d5/dc2/a16389.html#a522540365169c2e73aa69914c350cbd0", null ],
+    [ "_instance", "d5/dc2/a16389.html#a050359a9f4a7556c6793337d7f654543", null ],
+    [ "_myPack", "d5/dc2/a16389.html#a4c297d590ec5e7e1efb079a61d34d437", null ],
+    [ "_positions", "d5/dc2/a16389.html#a811105fc340ac25bdc61ede98387e430", null ]
 ];

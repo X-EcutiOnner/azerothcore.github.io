@@ -1,7 +1,6 @@
 var a15153 =
 [
-    [ "boss_epoch_hunter", "d2/d6e/a15153.html#a652d14ebfced39b8164687a713780600", null ],
-    [ "JustDied", "d2/d6e/a15153.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
-    [ "JustEngagedWith", "d2/d6e/a15153.html#a2571f98f36d1271f3911617e0fdfba54", null ],
-    [ "KilledUnit", "d2/d6e/a15153.html#a61456e680e9108dd841e83d97536ef1b", null ]
+    [ "FilterTargets", "d2/d6e/a15153.html#a45b0713b2942199bf0e19752fe765aac", null ],
+    [ "PrepareSpellScript", "d2/d6e/a15153.html#a7f7177d7754a99743202f69a0342f587", null ],
+    [ "Register", "d2/d6e/a15153.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
 ];

@@ -1,8 +1,6 @@
 var a20477 =
 [
-    [ "npc_ulduar_magnetic_core", "d4/d2a/a20477.html#a47ea345b2d95ed8498de27223a58298f", null ],
-    [ "SetData", "d4/d2a/a20477.html#a19e1f13897e39667b4bd27c50973f008", null ],
-    [ "UpdateAI", "d4/d2a/a20477.html#a73982851a7d5b6acfd187119f5a2b7fa", null ],
-    [ "despawnTimer", "d4/d2a/a20477.html#a9be3f2a9cd0ed46ca298d69457aa8fd1", null ],
-    [ "instance", "d4/d2a/a20477.html#a39c06e09431565d6ce03db0970c51dac", null ]
+    [ "FilterTargets", "d4/d2a/a20477.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
+    [ "PrepareSpellScript", "d4/d2a/a20477.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
+    [ "Register", "d4/d2a/a20477.html#af6704b0789566b2b385ac573eaa50f06", null ]
 ];

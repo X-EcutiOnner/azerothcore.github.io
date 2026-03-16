@@ -1,5 +1,6 @@
 var a10837 =
 [
-    [ "GuildBankRemainingWithdrawMoneyQuery", "d2/d6c/a10837.html#afb45f29d4a280c4cc02ee2ab3c055824", null ],
-    [ "Read", "d2/d6c/a10837.html#a3e03f6f23a989d6f105c397f8ecfeb87", null ]
+    [ "GuildCreate", "d2/d6c/a10837.html#a4dd11d2c4d009b1e495f792f4842d598", null ],
+    [ "Read", "d2/d6c/a10837.html#a7d4573196f53d1f068c43b4e7e466fce", null ],
+    [ "GuildName", "d2/d6c/a10837.html#a95a0859dd32b6eaf31ea53311ffaa293", null ]
 ];

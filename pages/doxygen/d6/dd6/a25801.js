@@ -1,8 +1,6 @@
 var a25801 =
 [
-    [ "CheckQuest", "d6/dd6/a25801.html#ab7ebff0894832ac009cda89b7c28e252", null ],
-    [ "HandleDummy", "d6/dd6/a25801.html#a365df14504a54e95e7d68d22a284e441", null ],
-    [ "HandleOpenObject", "d6/dd6/a25801.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
-    [ "PrepareSpellScript", "d6/dd6/a25801.html#a479e313031a2e71473238d8f645bf2d4", null ],
-    [ "Register", "d6/dd6/a25801.html#a70f1a91e611cc2092aad44a909cd53db", null ]
+    [ "OnBaseRemove", "d6/dd6/a25801.html#aa6d10399bba721ff7a3651508fcdf449", null ],
+    [ "PrepareAuraScript", "d6/dd6/a25801.html#a34ad4890c7ce30427537e36980057e57", null ],
+    [ "Register", "d6/dd6/a25801.html#a713e694cad6f1cf533d45f5d633da36e", null ]
 ];

@@ -1,7 +1,6 @@
 var a18321 =
 [
-    [ "HandleCast", "d9/d0b/a18321.html#aaa3262bc782e342825d4caba2954e95d", null ],
-    [ "PrepareSpellScript", "d9/d0b/a18321.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
-    [ "Register", "d9/d0b/a18321.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
-    [ "Validate", "d9/d0b/a18321.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
+    [ "boss_professor_putricideAI", "d2/d1d/a18325.html", "d2/d1d/a18325" ],
+    [ "boss_professor_putricide", "d9/d0b/a18321.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "d9/d0b/a18321.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

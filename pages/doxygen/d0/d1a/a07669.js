@@ -1,6 +1,11 @@
 var a07669 =
 [
-    [ "value_type", "d0/d1a/a07669.html#ac51f8d3476c4a938e81dfae8656ac70b", null ],
-    [ "operator()", "d0/d1a/a07669.html#af40bcad820dec0ab0cf2758281f8a604", null ],
-    [ "operator()", "d0/d1a/a07669.html#a4d601f73c9ab190a46438f34db4e04e6", null ]
+    [ "BattlegroundICScore", "d0/d1a/a07669.html#a3b8798fdb479885fbe4b7cecb2f84f68", null ],
+    [ "BuildObjectivesBlock", "d0/d1a/a07669.html#a4a10d0be9c318048feb4e76ffae9472c", null ],
+    [ "GetAttr1", "d0/d1a/a07669.html#af6c42bbd1b8f3f94fe838ce5df610a80", null ],
+    [ "GetAttr2", "d0/d1a/a07669.html#a758fa51038f232c7d65cd0168a4608c2", null ],
+    [ "UpdateScore", "d0/d1a/a07669.html#a690ede108b8ce8dfa45a2b7457e53a3c", null ],
+    [ "BattlegroundIC", "d0/d1a/a07669.html#a2d7503354e4bdce9f2a06d48b649da2f", null ],
+    [ "BasesAssaulted", "d0/d1a/a07669.html#a5050b80f9d1855cb8b97830f9e80124f", null ],
+    [ "BasesDefended", "d0/d1a/a07669.html#a70c2965b6b1e99239e0dcc1c03ccb552", null ]
 ];

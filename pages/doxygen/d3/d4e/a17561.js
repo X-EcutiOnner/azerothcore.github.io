@@ -1,7 +1,7 @@
 var a17561 =
 [
-    [ "HandlePeriodic", "d3/d4e/a17561.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
-    [ "PrepareAuraScript", "d3/d4e/a17561.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
-    [ "Register", "d3/d4e/a17561.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
-    [ "Validate", "d3/d4e/a17561.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
+    [ "npc_pos_icicle_triggerAI", "d3/d4e/a17561.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
+    [ "UpdateAI", "d3/d4e/a17561.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
+    [ "pInstance", "d3/d4e/a17561.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
+    [ "timer", "d3/d4e/a17561.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
 ];

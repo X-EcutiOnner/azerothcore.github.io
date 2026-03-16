@@ -1,7 +1,5 @@
 var a18593 =
 [
-    [ "CheckTargetCount", "d8/d87/a18593.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
-    [ "PrepareSpellScript", "d8/d87/a18593.html#abd32198867e7f01b21b7de6224a597d4", null ],
-    [ "Register", "d8/d87/a18593.html#a671bede7fbc68085cd6075f412822869", null ],
-    [ "Validate", "d8/d87/a18593.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
+    [ "achievement_all_you_can_eat", "d8/d87/a18593.html#a0995024862a445ea1f0ff5c82475fc64", null ],
+    [ "OnCheck", "d8/d87/a18593.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
 ];

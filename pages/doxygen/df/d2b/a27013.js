@@ -1,6 +1,9 @@
 var a27013 =
 [
-    [ "boss_emerissAI", "d4/d91/a27017.html", "d4/d91/a27017" ],
-    [ "boss_emeriss", "df/d2b/a27013.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "df/d2b/a27013.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "HandleAfterCast", "df/d2b/a27013.html#ac08e632064c407346649f525d030d335", null ],
+    [ "HandleDummy", "df/d2b/a27013.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
+    [ "Load", "df/d2b/a27013.html#a177525c755b036a79263c0fa6fa4082e", null ],
+    [ "PrepareSpellScript", "df/d2b/a27013.html#aed99b07a53068b19bddb4daff3449a52", null ],
+    [ "Register", "df/d2b/a27013.html#a946e56a325d83656d9b43af80d065e45", null ],
+    [ "_triggerSpellId", "df/d2b/a27013.html#a6697a22b684784853cb1999d41fcaaa7", null ]
 ];

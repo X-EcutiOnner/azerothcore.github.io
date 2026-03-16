@@ -1,7 +1,13 @@
 var a16017 =
 [
-    [ "npc_paoka_swiftmountainAI", "d7/dfc/a16017.html#a92a229f76de3bc46ae14910439db0004", null ],
-    [ "DoSpawnWyvern", "d7/dfc/a16017.html#a7997a3d398db82c205e3a8af77ac1684", null ],
-    [ "Reset", "d7/dfc/a16017.html#acae0427957aba04a54e6001823bc7eb4", null ],
-    [ "WaypointReached", "d7/dfc/a16017.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
+    [ "npc_shenthulAI", "d7/dfc/a16017.html#ae056474022c27be5565bf018a1b56f0b", null ],
+    [ "JustEngagedWith", "d7/dfc/a16017.html#acb202ef530bc11ea807f580ff5dfc621", null ],
+    [ "ReceiveEmote", "d7/dfc/a16017.html#ab2ddc3e447b36cb0fceffdaff0fca592", null ],
+    [ "Reset", "d7/dfc/a16017.html#af077e96eb8bf89af2d6eb79907444a17", null ],
+    [ "UpdateAI", "d7/dfc/a16017.html#a2ae643c11c6ea3808be922de96a24e8f", null ],
+    [ "CanEmote", "d7/dfc/a16017.html#a920209c374e611e96347d209337c044f", null ],
+    [ "CanTalk", "d7/dfc/a16017.html#a82ea8d2ee50538135add120be7616f86", null ],
+    [ "PlayerGUID", "d7/dfc/a16017.html#a4b262388aca789d19231426a8cb73379", null ],
+    [ "ResetTimer", "d7/dfc/a16017.html#a475a141d639f0136ac943e6afb1ecd15", null ],
+    [ "SaluteTimer", "d7/dfc/a16017.html#ae76b4bbde77b6029a788abfbbbe84df8", null ]
 ];

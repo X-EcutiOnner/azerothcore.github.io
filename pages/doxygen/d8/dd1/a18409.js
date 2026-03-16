@@ -1,6 +1,7 @@
 var a18409 =
 [
-    [ "FilterTargets", "d8/dd1/a18409.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
-    [ "PrepareSpellScript", "d8/dd1/a18409.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
-    [ "Register", "d8/dd1/a18409.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
+    [ "HandleSummon", "d8/dd1/a18409.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
+    [ "PrepareSpellScript", "d8/dd1/a18409.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
+    [ "Register", "d8/dd1/a18409.html#a01281869dc98a0af5027695391f1221f", null ],
+    [ "Validate", "d8/dd1/a18409.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
 ];

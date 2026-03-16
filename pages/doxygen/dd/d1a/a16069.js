@@ -1,7 +1,7 @@
 var a16069 =
 [
-    [ "npc_ranshallaAI", "d6/d38/a16073.html", "d6/d38/a16073" ],
-    [ "npc_ranshalla", "dd/d1a/a16069.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
-    [ "GetAI", "dd/d1a/a16069.html#a1a81651366cc05d3ad6e9929160fe059", null ],
-    [ "OnQuestAccept", "dd/d1a/a16069.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
+    [ "DelayedWindstoneSummonEvent", "dd/d1a/a16069.html#aa97daf8cf3479395ffd6558b6699436a", null ],
+    [ "Execute", "dd/d1a/a16069.html#aa413bc8709bc543b89ffb3df42185475", null ],
+    [ "_playerGUID", "dd/d1a/a16069.html#ad83bb6d87b569f59e99abcc16517745b", null ],
+    [ "_summon", "dd/d1a/a16069.html#af9804d276da5daebab3a37f2c75301ea", null ]
 ];

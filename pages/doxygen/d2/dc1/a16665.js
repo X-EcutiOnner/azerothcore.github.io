@@ -1,6 +1,6 @@
 var a16665 =
 [
-    [ "boss_anubarak_trialAI", "dd/da7/a16669.html", "dd/da7/a16669" ],
-    [ "boss_anubarak_trial", "d2/dc1/a16665.html#a5204e33a412608b53cc155a043356d58", null ],
-    [ "GetAI", "d2/dc1/a16665.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
+    [ "npc_living_infernoAI", "dd/da7/a16669.html", "dd/da7/a16669" ],
+    [ "npc_living_inferno", "d2/dc1/a16665.html#a7df2bb522e67b6f1864604c7b0182078", null ],
+    [ "GetAI", "d2/dc1/a16665.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
 ];

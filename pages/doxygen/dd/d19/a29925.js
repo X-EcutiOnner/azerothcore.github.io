@@ -1,8 +1,10 @@
 var a29925 =
 [
-    [ "_ACORE_DB_IMPORT_CONFIG", "dd/d19/a29925.html#a97392c73658eeeb49d256527b19ad90f", null ],
-    [ "GetConsoleArguments", "dd/d19/a29925.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "main", "dd/d19/a29925.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "StartDB", "dd/d19/a29925.html#a1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "dd/d19/a29925.html#a927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "Exception", "dd/d19/a29925.html#a414c3d1a58dc27f84f70db7372c71394", null ],
+    [ "~Exception", "dd/d19/a29925.html#a1af5fa940a44522664bf8032b0ec164a", null ],
+    [ "Exception", "dd/d19/a29925.html#a414c3d1a58dc27f84f70db7372c71394", null ],
+    [ "~Exception", "dd/d19/a29925.html#a1af5fa940a44522664bf8032b0ec164a", null ],
+    [ "getMessage", "dd/d19/a29925.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
+    [ "getMessage", "dd/d19/a29925.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
+    [ "message", "dd/d19/a29925.html#aeb732542a0ba63cde3d9b3bff93f4eda", null ]
 ];

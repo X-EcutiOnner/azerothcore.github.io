@@ -1,7 +1,6 @@
 var a18889 =
 [
-    [ "HandleForceCast", "d3/de1/a18889.html#accc757e0a23103242865f0ce3085f9d9", null ],
-    [ "Load", "d3/de1/a18889.html#a7206571378a0196a8648659628bdeece", null ],
-    [ "PrepareSpellScript", "d3/de1/a18889.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
-    [ "Register", "d3/de1/a18889.html#ace665321732f59f13b2ef831c71c2f18", null ]
+    [ "HandleScript", "d3/de1/a18889.html#a910663e3fb2534c0e3aefcfd0adfe2fb", null ],
+    [ "PrepareSpellScript", "d3/de1/a18889.html#a2c6acef52962f606130d643cbd93104b", null ],
+    [ "Register", "d3/de1/a18889.html#a03ed4f257c313ba33361c16f313fdfcc", null ]
 ];

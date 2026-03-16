@@ -1,6 +1,9 @@
 var a18117 =
 [
-    [ "npc_coldflameAI", "d3/dbd/a18121.html", "d3/dbd/a18121" ],
-    [ "npc_coldflame", "d0/da4/a18117.html#a573b887358e2ba2281c4c119a267c33f", null ],
-    [ "GetAI", "d0/da4/a18117.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
+    [ "CheckAreaTarget", "d0/da4/a18117.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
+    [ "HandleApply", "d0/da4/a18117.html#a9ce86d32957af07313af379b4176d0b3", null ],
+    [ "HandleRemove", "d0/da4/a18117.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
+    [ "Load", "d0/da4/a18117.html#aa10821981f3e80262850e5c46449d5d0", null ],
+    [ "PrepareAuraScript", "d0/da4/a18117.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
+    [ "Register", "d0/da4/a18117.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
 ];

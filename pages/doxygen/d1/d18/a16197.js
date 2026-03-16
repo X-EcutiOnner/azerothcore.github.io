@@ -1,6 +1,7 @@
 var a16197 =
 [
-    [ "PrepareSpellScript", "d1/d18/a16197.html#a74a2601e2c160bb4a9b18d421775e6b3", null ],
-    [ "Register", "d1/d18/a16197.html#a17a07973a3c043683fc4fe0d1fc45156", null ],
-    [ "SetDest", "d1/d18/a16197.html#a3751a14d6e36140ee368d8ded6df03ee", null ]
+    [ "npc_ameAI", "d6/d4d/a16201.html", "d6/d4d/a16201" ],
+    [ "npc_ame", "d1/d18/a16197.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
+    [ "GetAI", "d1/d18/a16197.html#a09f7688c38d56319791f7543eb32f317", null ],
+    [ "OnQuestAccept", "d1/d18/a16197.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
 ];

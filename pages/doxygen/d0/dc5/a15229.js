@@ -1,6 +1,6 @@
 var a15229 =
 [
-    [ "instance_dire_maul_InstanceMapScript", "d9/d28/a15233.html", "d9/d28/a15233" ],
-    [ "instance_dire_maul", "d0/dc5/a15229.html#a54ac2c7095a99481c7efbe4237533fac", null ],
-    [ "GetInstanceScript", "d0/dc5/a15229.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
+    [ "boss_mal_ganisAI", "d9/d28/a15233.html", "d9/d28/a15233" ],
+    [ "boss_mal_ganis", "d0/dc5/a15229.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
+    [ "GetAI", "d0/dc5/a15229.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
 ];

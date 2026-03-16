@@ -1,9 +1,11 @@
 var a22649 =
 [
-    [ "HandleAfterCast", "dc/d2e/a22649.html#a32928b579ef42f377e911ef27197ed61", null ],
-    [ "HandleDummy", "dc/d2e/a22649.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
-    [ "Load", "dc/d2e/a22649.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
-    [ "PrepareSpellScript", "dc/d2e/a22649.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
-    [ "Register", "dc/d2e/a22649.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
-    [ "_targetCount", "dc/d2e/a22649.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
+    [ "boss_blackheart_the_inciter", "dc/d2e/a22649.html#a772b2b4574fa6ccd445924193985859b", null ],
+    [ "EnterEvadeMode", "dc/d2e/a22649.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
+    [ "JustDied", "dc/d2e/a22649.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
+    [ "JustEngagedWith", "dc/d2e/a22649.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
+    [ "KilledUnit", "dc/d2e/a22649.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
+    [ "Reset", "dc/d2e/a22649.html#add75633d1c04d0be91e7e80f28213917", null ],
+    [ "UpdateAI", "dc/d2e/a22649.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
+    [ "InciteChaos", "dc/d2e/a22649.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
 ];

@@ -1,7 +1,6 @@
 var a12617 =
 [
-    [ "ClassCallSelector", "df/da0/a12617.html#a223895c97121b0727aac258c12c89e0b", null ],
-    [ "operator()", "df/da0/a12617.html#ab0d2ab1d94d72c6a202ed0cb2900dd2e", null ],
-    [ "_me", "df/da0/a12617.html#a5347a24609a21ae0a342682104b1dc14", null ],
-    [ "_targetClass", "df/da0/a12617.html#a7ce861956ec8d216d2f8cba82c69ea50", null ]
+    [ "OrcDeathEvent", "df/da0/a12617.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
+    [ "Execute", "df/da0/a12617.html#a293ec6667da669a27fe75965f919cd68", null ],
+    [ "_me", "df/da0/a12617.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
 ];

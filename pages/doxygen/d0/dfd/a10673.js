@@ -1,7 +1,6 @@
 var a10673 =
 [
-    [ "ChatServerMessage", "d0/dfd/a10673.html#aa649857ceeba6b2f9e060f7d502cdb7a", null ],
-    [ "Write", "d0/dfd/a10673.html#af8bad4d39693290674bda2e2ad8685bf", null ],
-    [ "MessageID", "d0/dfd/a10673.html#afde854fc17313d214fa0f0cdc48ca9a9", null ],
-    [ "StringParam", "d0/dfd/a10673.html#ac39a08d84c8f5934d0fe26e91809e60a", null ]
+    [ "WeatherScript", "d0/dfd/a10673.html#a4f86b051364c95f5389d7ed473429b7b", null ],
+    [ "IsDatabaseBound", "d0/dfd/a10673.html#a2547902149ce080711ccacb709b10e8a", null ],
+    [ "OnChange", "d0/dfd/a10673.html#a10c105f1e1bff1e9fe484e98b00cf76c", null ]
 ];

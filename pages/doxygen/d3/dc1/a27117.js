@@ -1,6 +1,6 @@
 var a27117 =
 [
-    [ "go_brewfest_musicAI", "d9/deb/a27121.html", "d9/deb/a27121" ],
-    [ "go_brewfest_music", "d3/dc1/a27117.html#a787963a5ee591933d62fdb52911f9a77", null ],
-    [ "GetAI", "d3/dc1/a27117.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
+    [ "HandleDummy", "d3/dc1/a27117.html#aee5967205738ebaef70e1105e8d91b2c", null ],
+    [ "PrepareSpellScript", "d3/dc1/a27117.html#a1ef5914adfd2c951a68f50658852e095", null ],
+    [ "Register", "d3/dc1/a27117.html#af42b6d5a5fbb5eb84773818594813afc", null ]
 ];

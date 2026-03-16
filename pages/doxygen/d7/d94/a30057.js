@@ -1,7 +1,10 @@
 var a30057 =
 [
-    [ "Flags", "d7/d94/a30057.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
-    [ "ID", "d7/d94/a30057.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
-    [ "RangeMax", "d7/d94/a30057.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
-    [ "RangeMin", "d7/d94/a30057.html#a127a46f2382edea750ca567d5ea3d304", null ]
+    [ "ADTFile", "d7/d94/a30057.html#a763f0f9c1106700987797864b2fdb006", null ],
+    [ "~ADTFile", "d7/d94/a30057.html#ad1533f5b630a70b6ff95861e64960de0", null ],
+    [ "init", "d7/d94/a30057.html#ab9ba3b1a2aac611bec5bfe4a454e4042", null ],
+    [ "_file", "d7/d94/a30057.html#a7f3071e63be08fe3288d5ab03b5b8acf", null ],
+    [ "Adtfilename", "d7/d94/a30057.html#a07c82112e26b96a87e22f1c7bec9c72e", null ],
+    [ "ModelInstanceNames", "d7/d94/a30057.html#a6601e20fed78c54bb281ad3bd0ce7800", null ],
+    [ "WmoInstanceNames", "d7/d94/a30057.html#acd96c287a01828bf3e49fb599a3b5d81", null ]
 ];

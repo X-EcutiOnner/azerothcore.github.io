@@ -1,7 +1,9 @@
 var a07641 =
 [
-    [ "value_type", "d5/d87/a07641.html#a7a7bb2f2de595ea6ca37885da6f63b9f", null ],
-    [ "TryConsume", "d5/d87/a07641.html#ad98dd12bf2b9d4c5a3812d91232c4b8e", null ],
-    [ "_storage", "d5/d87/a07641.html#a0480bb23bf5c47ac03935901211952b5", null ],
-    [ "_string", "d5/d87/a07641.html#ae0538263243f423c8f86459300aec8d7", null ]
+    [ "BattlegroundEYScore", "d5/d87/a07641.html#a91c17f1ff1924439b05840cd11ede36f", null ],
+    [ "BuildObjectivesBlock", "d5/d87/a07641.html#a8a915f38f28ee3929c7922b9fa8f38d6", null ],
+    [ "GetAttr1", "d5/d87/a07641.html#a43d4b01a1f3c8325795d90f2a97c230c", null ],
+    [ "UpdateScore", "d5/d87/a07641.html#afad034f453c54587b86532a37335ab18", null ],
+    [ "BattlegroundEY", "d5/d87/a07641.html#a5d809f1fdf1bb7a29d7504e432e10b8f", null ],
+    [ "FlagCaptures", "d5/d87/a07641.html#a057a335c7491c1031666e6d10cf314b2", null ]
 ];

@@ -1,17 +1,6 @@
 var a02459 =
 [
-    [ "GroupQueueInfo", "d0/d94/a07544.html", "d0/d94/a07544" ],
-    [ "BattlegroundQueue", "d4/d81/a07548.html", "d4/d81/a07548" ],
-    [ "BattlegroundQueue::SelectionPool", "d6/d61/a07552.html", "d6/d61/a07552" ],
-    [ "BGQueueInviteEvent", "da/d8f/a07556.html", "da/d8f/a07556" ],
-    [ "BGQueueRemoveEvent", "dc/d12/a07560.html", "dc/d12/a07560" ],
-    [ "BattlegroundQueueGroupTypes", "dc/d5c/a02459.html#a589e9d4a3badd48f91fddc2afa661b17", [
-      [ "BG_QUEUE_PREMADE_ALLIANCE", "dc/d5c/a02459.html#a589e9d4a3badd48f91fddc2afa661b17a8f1f06d0124e05efcb390e0e9a29ddf4", null ],
-      [ "BG_QUEUE_PREMADE_HORDE", "dc/d5c/a02459.html#a589e9d4a3badd48f91fddc2afa661b17a39d0b398e1bcd59620eb0f8701139d1c", null ],
-      [ "BG_QUEUE_NORMAL_ALLIANCE", "dc/d5c/a02459.html#a589e9d4a3badd48f91fddc2afa661b17a4b31b889f93f89bfaacde424717c2697", null ],
-      [ "BG_QUEUE_NORMAL_HORDE", "dc/d5c/a02459.html#a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d", null ],
-      [ "BG_QUEUE_CFBG", "dc/d5c/a02459.html#a589e9d4a3badd48f91fddc2afa661b17ab87d2294b56bc938b1c7bc14c5040239", null ],
-      [ "BG_QUEUE_MAX", "dc/d5c/a02459.html#a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992", null ]
-    ] ],
-    [ "COUNT_OF_PLAYERS_TO_AVERAGE_WAIT_TIME", "dc/d5c/a02459.html#aebc536d6c303d31049ad05f333c275ba", null ]
+    [ "ArenaSeasonTeamRewarder", "d0/d55/a07489.html", "d0/d55/a07489" ],
+    [ "ArenaSeasonTeamRewarderImpl", "d5/df8/a07493.html", "d5/df8/a07493" ],
+    [ "ArenaSeasonRewardDistributor", "d7/d9f/a07497.html", "d7/d9f/a07497" ]
 ];

@@ -1,7 +1,6 @@
 var a24525 =
 [
-    [ "HandleProc", "de/d0c/a24525.html#a2d38c32b4eb2ba91c657801b21a3b90d", null ],
-    [ "PrepareAuraScript", "de/d0c/a24525.html#ac5988a79ab42ec1bbcc9b69bb649fc29", null ],
-    [ "Register", "de/d0c/a24525.html#affd88326ea293f82055700ec7183d194", null ],
-    [ "Validate", "de/d0c/a24525.html#acc8797afece569e68c6d754ca09e206d", null ]
+    [ "CheckProc", "de/d0c/a24525.html#ace3662e092d02de975929741c470230d", null ],
+    [ "PrepareAuraScript", "de/d0c/a24525.html#aed547ead2b8822f08eb1530f4b29e2f8", null ],
+    [ "Register", "de/d0c/a24525.html#ae6432106538261827c3eac3dde1450f2", null ]
 ];

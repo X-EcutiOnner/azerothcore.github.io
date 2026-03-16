@@ -1,12 +1,8 @@
 var a17213 =
 [
-    [ "npc_shadowy_mercenaryAI", "d1/dd7/a17213.html#ac631624615653a4f82ecfae2aa418455", null ],
-    [ "AttackStart", "d1/dd7/a17213.html#a001fa53e29cf8a20ed2e3312058ceb0a", null ],
-    [ "DoAction", "d1/dd7/a17213.html#a62f4e98e1dadfa0a2aeea43af9d26234", null ],
-    [ "EnterEvadeMode", "d1/dd7/a17213.html#a31a9ddf038046534fad1d41afcf76548", null ],
-    [ "JustDied", "d1/dd7/a17213.html#a33e576c92d1b10492cb6e65000ca8198", null ],
-    [ "JustEngagedWith", "d1/dd7/a17213.html#ae12ade5e863a0022ea99620f354ca51b", null ],
-    [ "Reset", "d1/dd7/a17213.html#afad174f812e2aadf6db86703a46f61d2", null ],
-    [ "UpdateAI", "d1/dd7/a17213.html#a7a0238f32aa0d608b9d883db5f170052", null ],
-    [ "events", "d1/dd7/a17213.html#a4c6e5a49dc4364477187a0189a166578", null ]
+    [ "HandleRemove", "d1/dd7/a17213.html#a362b16f69a19adae6b673bd9ead55a83", null ],
+    [ "PeriodicTick", "d1/dd7/a17213.html#aa432052d61dc48066433b41b84ffbe5f", null ],
+    [ "PrepareAuraScript", "d1/dd7/a17213.html#a3ffbd618820adf77b2c64a29816f5204", null ],
+    [ "Register", "d1/dd7/a17213.html#ac2ac207d2e193a9c2f9904b394113c4d", null ],
+    [ "Validate", "d1/dd7/a17213.html#abed6574398a7d005e95feba6b54243a1", null ]
 ];

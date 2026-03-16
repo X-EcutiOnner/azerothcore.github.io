@@ -1,8 +1,8 @@
 var a09897 =
 [
-    [ "CircleBoundary", "d5/df6/a09897.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
-    [ "CircleBoundary", "d5/df6/a09897.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
-    [ "IsWithinBoundaryArea", "d5/df6/a09897.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
-    [ "_center", "d5/df6/a09897.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
-    [ "_radiusSq", "d5/df6/a09897.html#acbb3cc0c546f0e557a48a45425355950", null ]
+    [ "InstResetEvent", "d5/df6/a09897.html#aefa8f2b1b2cf29ad3472712278741fa4", null ],
+    [ "InstResetEvent", "d5/df6/a09897.html#af6f80b924e52cd5296d21f4a5d1374c2", null ],
+    [ "difficulty", "d5/df6/a09897.html#a67afe513dd42370ac4bb385a7128a324", null ],
+    [ "mapid", "d5/df6/a09897.html#ad02e00b2782304fbd75973fe58eefd33", null ],
+    [ "type", "d5/df6/a09897.html#ad211513c7ed39269d464190398dabaed", null ]
 ];

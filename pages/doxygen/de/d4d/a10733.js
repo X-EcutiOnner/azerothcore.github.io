@@ -1,5 +1,7 @@
 var a10733 =
 [
-    [ "AcceptGuildInvite", "de/d4d/a10733.html#a4453fc550871082f6295d9229eef265a", null ],
-    [ "Read", "de/d4d/a10733.html#a3d39b917ca2650f645ccce12cdc1a1e0", null ]
+    [ "AutoStoreBankItem", "de/d4d/a10733.html#a1cdb7e9c7da7e646af14ac4ac3b7e950", null ],
+    [ "Read", "de/d4d/a10733.html#a2a482b716f537866a815085ead9cfd38", null ],
+    [ "Bag", "de/d4d/a10733.html#a08d2992816ee94b6757c2811b54ed437", null ],
+    [ "Slot", "de/d4d/a10733.html#aaf2cd8c1c3d67301cc40af78f138daa0", null ]
 ];

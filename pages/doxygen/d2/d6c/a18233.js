@@ -1,6 +1,10 @@
 var a18233 =
 [
-    [ "HandlePeriodic", "d2/d6c/a18233.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
-    [ "PrepareAuraScript", "d2/d6c/a18233.html#a5d855d79247dff6f949a5e099abb9352", null ],
-    [ "Register", "d2/d6c/a18233.html#ae797de0ed29b3ca179c07d759b469228", null ]
+    [ "npc_cult_adherentAI", "d2/d6c/a18233.html#a1ea249a25b188a949213788614f4049e", null ],
+    [ "JustEngagedWith", "d2/d6c/a18233.html#ab97e0177fbc9fc7135dc7a7de0e6e31a", null ],
+    [ "Reset", "d2/d6c/a18233.html#ab0b54e45468b5ebed0194c441cce434e", null ],
+    [ "SpellHit", "d2/d6c/a18233.html#ab0d83d53a7f0d14cb15e133e426f2f02", null ],
+    [ "UpdateAI", "d2/d6c/a18233.html#ad89638cf5859615ba2e3a0deb6701751", null ],
+    [ "_instance", "d2/d6c/a18233.html#a970e99fba28d6e3e0cb759c87a866273", null ],
+    [ "events", "d2/d6c/a18233.html#aa53025d3fe95086dc0c23d5d563df7c4", null ]
 ];

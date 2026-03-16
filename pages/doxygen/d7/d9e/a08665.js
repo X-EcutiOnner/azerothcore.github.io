@@ -1,5 +1,7 @@
 var a08665 =
 [
-    [ "Rank", "d7/d9e/a08665.html#a61797c7cb799308a7c20a954d287be17", null ],
-    [ "SkillId", "d7/d9e/a08665.html#a3f28221b1c8e91bf9f2fa6337e81c952", null ]
+    [ "ObjectDistanceOrderPred", "d7/d9e/a08665.html#adced3fdc6d99b7506361eb7700fa4cec", null ],
+    [ "operator()", "d7/d9e/a08665.html#aaa5023735568f6df28a177fbd9ed866e", null ],
+    [ "m_ascending", "d7/d9e/a08665.html#a313cd0450096e49716bfb52f8f238bfc", null ],
+    [ "m_refObj", "d7/d9e/a08665.html#aec421fd45a60545bf92b7236e0d0b360", null ]
 ];

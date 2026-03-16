@@ -1,5 +1,6 @@
 var a13209 =
 [
-    [ "boss_eramas_brightblaze", "d4/df4/a13209.html#a14d1528750036f27948f5de8a2b44bd3", null ],
-    [ "JustEngagedWith", "d4/df4/a13209.html#ad34613d2795f7371a43891488044392a", null ]
+    [ "go_blood_drenched_doorAI", "df/d19/a13213.html", "df/d19/a13213" ],
+    [ "go_blood_drenched_door", "d4/df4/a13209.html#a32451e046236bc66b605088cab35fefc", null ],
+    [ "GetAI", "d4/df4/a13209.html#a983405ff279eabe0bc607fb85bd47eb9", null ]
 ];

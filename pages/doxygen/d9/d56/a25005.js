@@ -1,10 +1,6 @@
 var a25005 =
 [
-    [ "spell_gen_summon_elemental", "d9/d56/a25005.html#ae2dece3ac20afe16430e741fab909fa1", null ],
-    [ "AfterApply", "d9/d56/a25005.html#a97fbc7e3f60b6aae5d9783bbd9a2415d", null ],
-    [ "AfterRemove", "d9/d56/a25005.html#aeec3688e66a7e9f0207b219e9dcdb265", null ],
-    [ "PrepareAuraScript", "d9/d56/a25005.html#a3ad6e5615bb080abae4e18673cd40b6d", null ],
-    [ "Register", "d9/d56/a25005.html#ac364e1a3c4b5a1cfd35d8dcec0a42345", null ],
-    [ "Validate", "d9/d56/a25005.html#ac2284d4f192fe402ebcf6ad75e777c2a", null ],
-    [ "_spellId", "d9/d56/a25005.html#a6ac27b65f909a8c832cf3d301c8db0ce", null ]
+    [ "PrepareSpellScript", "d9/d56/a25005.html#acfa320b33c00883a78c3696bbbeb7eb0", null ],
+    [ "Register", "d9/d56/a25005.html#a6d251ba1e88d4349dcffa96978389a7f", null ],
+    [ "SelectTarget", "d9/d56/a25005.html#a0d95f8ad8d05d2c0b100dc10988d00c9", null ]
 ];

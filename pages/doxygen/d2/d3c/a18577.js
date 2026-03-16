@@ -1,7 +1,9 @@
 var a18577 =
 [
-    [ "OnRemove", "d2/d3c/a18577.html#ac1a58d605156c03d05eb99605287e762", null ],
-    [ "PrepareAuraScript", "d2/d3c/a18577.html#a2db820022631647e942b5ec84e63717e", null ],
-    [ "Register", "d2/d3c/a18577.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
-    [ "Validate", "d2/d3c/a18577.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
+    [ "AfterApply", "d2/d3c/a18577.html#a0ee1a701f75e9f0a70dc21528ffea683", null ],
+    [ "ExtraRemoveEffect", "d2/d3c/a18577.html#a9f427761fcca9029eb75d586e5876fcd", null ],
+    [ "PeriodicTick", "d2/d3c/a18577.html#a82430399e44001343f322b2c3b7769a5", null ],
+    [ "PrepareAuraScript", "d2/d3c/a18577.html#a9c8e0ed8fde28588e11ebf5e8abd02dc", null ],
+    [ "Register", "d2/d3c/a18577.html#a68be7f7edecd1bae8c962aaa9d556c3e", null ],
+    [ "Validate", "d2/d3c/a18577.html#ae20873e93fbace6272a793993fb45349", null ]
 ];

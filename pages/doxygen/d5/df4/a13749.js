@@ -1,8 +1,7 @@
 var a13749 =
 [
-    [ "HandleApply", "d5/df4/a13749.html#a2c64240e8675fc76598600ae2632570f", null ],
-    [ "HandleRemove", "d5/df4/a13749.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
-    [ "PrepareAuraScript", "d5/df4/a13749.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
-    [ "Register", "d5/df4/a13749.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
-    [ "Validate", "d5/df4/a13749.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
+    [ "CheckCast", "d5/df4/a13749.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
+    [ "PrepareSpellScript", "d5/df4/a13749.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
+    [ "Register", "d5/df4/a13749.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
+    [ "Validate", "d5/df4/a13749.html#a9208b9c010bb9cc379c195939351aa45", null ]
 ];

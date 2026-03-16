@@ -1,5 +1,9 @@
 var a27157 =
 [
-    [ "go_tablet_of_the_seven", "df/da3/a27157.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
-    [ "OnGossipHello", "df/da3/a27157.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
+    [ "CheckCast", "df/da3/a27157.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
+    [ "HandleActiveObject", "df/da3/a27157.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
+    [ "HandleDummy", "df/da3/a27157.html#a39dd06ae92d04060ee41897318a701fd", null ],
+    [ "Load", "df/da3/a27157.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
+    [ "PrepareSpellScript", "df/da3/a27157.html#a016e480d7b2267c9bf824c9cb029f134", null ],
+    [ "Register", "df/da3/a27157.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
 ];

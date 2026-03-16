@@ -1,6 +1,6 @@
 var a24165 =
 [
-    [ "npc_pet_dk_army_of_the_dead", "d4/df5/a24165.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
-    [ "InitializeAI", "d4/df5/a24165.html#add16c667f3e614f9d6ceebbe17cf0515", null ],
-    [ "IsSummonedBy", "d4/df5/a24165.html#a4f1acbbccd68c83a7c3ea14b26a56305", null ]
+    [ "npcs_flanis_swiftwing_and_kagrosh", "d4/df5/a24165.html#aa95eceea94521947bd443805c8ddb52d", null ],
+    [ "OnGossipHello", "d4/df5/a24165.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
+    [ "OnGossipSelect", "d4/df5/a24165.html#aff34165955ba93e1fcd2b9731894d871", null ]
 ];

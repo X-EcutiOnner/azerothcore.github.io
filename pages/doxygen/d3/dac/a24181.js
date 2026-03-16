@@ -1,6 +1,8 @@
 var a24181 =
 [
-    [ "achievement", "d3/dac/a24181.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "d3/dac/a24181.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "d3/dac/a24181.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
+    [ "CreatureId", "d3/dac/a24181.html#a127341c70f8785ceb556b1c11b23f477", null ],
+    [ "SpawnCount", "d3/dac/a24181.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
+    [ "SpawnTimer", "d3/dac/a24181.html#aa57ff686c5fde12269e231333d8a8bef", null ],
+    [ "UsedSpawnPoint", "d3/dac/a24181.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
+    [ "YellTimer", "d3/dac/a24181.html#a6346259269af7f2936f959f87288dd69", null ]
 ];

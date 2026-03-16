@@ -1,8 +1,8 @@
 var a29349 =
 [
-    [ "npc_wormholeAI", "d6/d82/a29353.html", "d6/d82/a29353" ],
-    [ "npc_wormhole", "d4/d1a/a29349.html#aeace4cbf665409786b86140709191cb0", null ],
-    [ "GetAI", "d4/d1a/a29349.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
-    [ "OnGossipHello", "d4/d1a/a29349.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
-    [ "OnGossipSelect", "d4/d1a/a29349.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
+    [ "NoRuneCost", "d4/d1a/a29349.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
+    [ "NoRunicPowerGain", "d4/d1a/a29349.html#a97da075ecd116ef27fd4265bb8380667", null ],
+    [ "ID", "d4/d1a/a29349.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
+    [ "RuneCost", "d4/d1a/a29349.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
+    [ "runePowerGain", "d4/d1a/a29349.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
 ];

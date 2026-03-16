@@ -1,6 +1,10 @@
 var a16033 =
 [
-    [ "npc_cairne_bloodhoofAI", "d2/d64/a16037.html", "d2/d64/a16037" ],
-    [ "npc_cairne_bloodhoof", "da/d67/a16033.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
-    [ "GetAI", "da/d67/a16033.html#a1c34470c46ae9e98684de0e786be28b7", null ]
+    [ "CreatureId", "da/d67/a16033.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
+    [ "DespTimer", "da/d67/a16033.html#a0dfec745982b346ac1cd0af672be31fb", null ],
+    [ "SpawnCount", "da/d67/a16033.html#ad5347ee83eaa00fe0721279099c48433", null ],
+    [ "SpawnTimer", "da/d67/a16033.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
+    [ "UsedSpawnPoint", "da/d67/a16033.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
+    [ "WaveTextId", "da/d67/a16033.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
+    [ "YellTimer", "da/d67/a16033.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
 ];

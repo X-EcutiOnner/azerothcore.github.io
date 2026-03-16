@@ -1,6 +1,7 @@
 var a15097 =
 [
-    [ "boss_salrammAI", "d8/dc7/a15101.html", "d8/dc7/a15101" ],
-    [ "boss_salramm", "d9/d96/a15097.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
-    [ "GetAI", "d9/d96/a15097.html#ab6b400f0d329d4def074d012de47f53d", null ]
+    [ "HandleOnHit", "d9/d96/a15097.html#ae3241486a612293b5421a523f6d854d9", null ],
+    [ "PrepareSpellScript", "d9/d96/a15097.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
+    [ "Register", "d9/d96/a15097.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
+    [ "Validate", "d9/d96/a15097.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
 ];

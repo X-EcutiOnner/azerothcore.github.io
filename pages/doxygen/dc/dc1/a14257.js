@@ -1,6 +1,8 @@
 var a14257 =
 [
-    [ "npc_eagle_trash_aggro_trigger", "dc/dc1/a14257.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
-    [ "MoveInLineOfSight", "dc/dc1/a14257.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
-    [ "_instance", "dc/dc1/a14257.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
+    [ "npc_the_scourge_cauldronAI", "dc/dc1/a14257.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
+    [ "DoDie", "dc/dc1/a14257.html#a9f720a27db2943a66b11ad6355690bf5", null ],
+    [ "JustEngagedWith", "dc/dc1/a14257.html#a89954dec2f7d57d933c18822333243ac", null ],
+    [ "MoveInLineOfSight", "dc/dc1/a14257.html#a256195dbe75859d72afcd0defb9ff76e", null ],
+    [ "Reset", "dc/dc1/a14257.html#ab18bb2eb344f45827685786c665b1750", null ]
 ];

@@ -1,6 +1,6 @@
 var a22225 =
 [
-    [ "PrepareSpellScript", "d6/d8a/a22225.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
-    [ "RecalculateDamage", "d6/d8a/a22225.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
-    [ "Register", "d6/d8a/a22225.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
+    [ "npc_time_lost_proto_drakeAI", "d9/d82/a22229.html", "d9/d82/a22229" ],
+    [ "npc_time_lost_proto_drake", "d6/d8a/a22225.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
+    [ "GetAI", "d6/d8a/a22225.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
 ];

@@ -1,8 +1,5 @@
 var a08713 =
 [
-    [ "checkLeaderOnly", "d8/d72/a08713.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
-    [ "faction", "d8/d72/a08713.html#a23c649e494795b27856b67225370a820", null ],
-    [ "id", "d8/d72/a08713.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
-    [ "note", "d8/d72/a08713.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
-    [ "priority", "d8/d72/a08713.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
+    [ "PositionXYStreamer", "d8/d72/a08713.html#a6f165ea30ccb7cdeba0c4e197b3a0e5b", null ],
+    [ "Pos", "d8/d72/a08713.html#afb17e60540233b8861b6e967d0e44e07", null ]
 ];

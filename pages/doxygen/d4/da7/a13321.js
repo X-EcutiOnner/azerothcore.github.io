@@ -1,6 +1,7 @@
 var a13321 =
 [
-    [ "npc_koltira_deathweaverAI", "d6/d1c/a13325.html", "d6/d1c/a13325" ],
-    [ "npc_koltira_deathweaver", "d4/da7/a13321.html#a5e9fdbc8dc70ce3480906b86aed381a3", null ],
-    [ "GetAI", "d4/da7/a13321.html#afddc561b88679f3dd6ca8b374807b0f0", null ]
+    [ "HandleDummy", "d4/da7/a13321.html#ac2889b1744117f8c0bffcce04952d7c2", null ],
+    [ "PrepareSpellScript", "d4/da7/a13321.html#a5738144c85424e11f33aada38273e24e", null ],
+    [ "Register", "d4/da7/a13321.html#a206a4d40e082246193ba36c9080cdac1", null ],
+    [ "Validate", "d4/da7/a13321.html#a0718461731d563d2c948848f60101d49", null ]
 ];

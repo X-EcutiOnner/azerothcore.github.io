@@ -1,12 +1,5 @@
 var a17221 =
 [
-    [ "npc_spectral_footmanAI", "dc/d51/a17221.html#a746b1d15b70be293f61669ce4a945732", null ],
-    [ "AttackStart", "dc/d51/a17221.html#ac6f9dadff44c805adfac855778b1c9d2", null ],
-    [ "DoAction", "dc/d51/a17221.html#a466b878e60c1bf89603c261110d88b25", null ],
-    [ "EnterEvadeMode", "dc/d51/a17221.html#a66c9cceae4c2ae5574369744486e3e57", null ],
-    [ "JustDied", "dc/d51/a17221.html#afbab6772ff97ca9355ca5f4ac194ce0d", null ],
-    [ "JustEngagedWith", "dc/d51/a17221.html#a3d3eff22cb453e2ea0164e7f45bb6e5b", null ],
-    [ "Reset", "dc/d51/a17221.html#a3a8151da7ec1d63966ffc5e5b7e9e931", null ],
-    [ "UpdateAI", "dc/d51/a17221.html#ad1da2bc8fdc3a3fce51b9a633fd56574", null ],
-    [ "events", "dc/d51/a17221.html#aa5420d5e57447c7f89c0560ae07b3503", null ]
+    [ "achievement_consumption_junction", "dc/d51/a17221.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
+    [ "OnCheck", "dc/d51/a17221.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
 ];

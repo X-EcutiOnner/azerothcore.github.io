@@ -1,7 +1,10 @@
 var a25613 =
 [
-    [ "HandleDummy", "d8/dde/a25613.html#a02bb860f6d077d4c295ad8b82179174d", null ],
-    [ "PrepareSpellScript", "d8/dde/a25613.html#ad9eeff5aa428dabff7f2181d2819681d", null ],
-    [ "Register", "d8/dde/a25613.html#a2c699d4d848a01a80143d6fcc01b64a8", null ],
-    [ "Validate", "d8/dde/a25613.html#a9fd765b2c48f11837dbeb4caeedc0ae1", null ]
+    [ "Load", "d8/dde/a25613.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
+    [ "OnApply", "d8/dde/a25613.html#a83d922c434442e22482410d61aa0198f", null ],
+    [ "OnPetApply", "d8/dde/a25613.html#a6df5e59e29cb89310a1c78bf93029545", null ],
+    [ "OnRemove", "d8/dde/a25613.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
+    [ "PrepareAuraScript", "d8/dde/a25613.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
+    [ "Register", "d8/dde/a25613.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
+    [ "Validate", "d8/dde/a25613.html#ab318472ea9f4aaa79e45f18783586eed", null ]
 ];

@@ -1,7 +1,6 @@
 var a28157 =
 [
-    [ "ID", "d6/da0/a28157.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
-    [ "Index", "d6/da0/a28157.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
-    [ "Skill", "d6/da0/a28157.html#aed5e58cf605d3c28cd0d26015722be03", null ],
-    [ "Type", "d6/da0/a28157.html#a39b0b548efd795c162926bddcdd301b5", null ]
+    [ "go_tadpole_cageAI", "de/d40/a28161.html", "de/d40/a28161" ],
+    [ "go_tadpole_cage", "d6/da0/a28157.html#a1a9acacd0ebff33d402018d4205e415b", null ],
+    [ "GetAI", "d6/da0/a28157.html#a38990dc5edd725623b6c35dba7802612", null ]
 ];

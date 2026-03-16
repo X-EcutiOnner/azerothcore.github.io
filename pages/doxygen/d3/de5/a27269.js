@@ -1,5 +1,7 @@
 var a27269 =
 [
-    [ "item_mysterious_egg", "d3/de5/a27269.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
-    [ "OnExpire", "d3/de5/a27269.html#a5ea72284626826b75819f89b3b91c540", null ]
+    [ "CalcPeriodic", "d3/de5/a27269.html#af787d0c8738284e757f808e7d138bdc6", null ],
+    [ "PrepareAuraScript", "d3/de5/a27269.html#a383db196133bbecee06fe443fdb1bc24", null ],
+    [ "Register", "d3/de5/a27269.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
+    [ "Update", "d3/de5/a27269.html#af3f4a7b82e099313d609df7f85f02d00", null ]
 ];

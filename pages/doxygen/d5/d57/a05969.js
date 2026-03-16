@@ -1,11 +1,8 @@
 var a05969 =
 [
-    [ "SQLOperation", "d5/d57/a05969.html#a0f69657715b7d24458227b22a3b40b1a", null ],
-    [ "~SQLOperation", "d5/d57/a05969.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
-    [ "SQLOperation", "d5/d57/a05969.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
-    [ "call", "d5/d57/a05969.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
-    [ "Execute", "d5/d57/a05969.html#aff1090554bc4a6fe7a33270e63416e19", null ],
-    [ "operator=", "d5/d57/a05969.html#ac31349ed45ea051540ac345bd4b814d5", null ],
-    [ "SetConnection", "d5/d57/a05969.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
-    [ "m_conn", "d5/d57/a05969.html#adf322db48064fcf4528f713f857f1b40", null ]
+    [ "Statements", "d5/d57/a05969.html#a6dc31cb64a22e90cc5275bf6fcaaf000", null ],
+    [ "LoginDatabaseConnection", "d5/d57/a05969.html#aed22866380f9331ff73d4437a779206c", null ],
+    [ "LoginDatabaseConnection", "d5/d57/a05969.html#a27fa1397706cf8b986fe0a05a82a910b", null ],
+    [ "~LoginDatabaseConnection", "d5/d57/a05969.html#a7514a6e42889d5d75dcce2e804fff7b8", null ],
+    [ "DoPrepareStatements", "d5/d57/a05969.html#a3f826d59e4efa55d7825f90f434ae889", null ]
 ];

@@ -1,6 +1,9 @@
 var a20313 =
 [
-    [ "FilterTargets", "d8/dbf/a20313.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
-    [ "PrepareSpellScript", "d8/dbf/a20313.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
-    [ "Register", "d8/dbf/a20313.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
+    [ "Absorb", "d8/dbf/a20313.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
+    [ "CalculateAmount", "d8/dbf/a20313.html#a9166627cbaa536405975444c4ef601de", null ],
+    [ "Load", "d8/dbf/a20313.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
+    [ "PrepareAuraScript", "d8/dbf/a20313.html#aa5793741c2f8179db68a9fb1222a9085", null ],
+    [ "Register", "d8/dbf/a20313.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
+    [ "_absorbPct", "d8/dbf/a20313.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
 ];

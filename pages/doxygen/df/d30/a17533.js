@@ -1,5 +1,6 @@
 var a17533 =
 [
-    [ "achievement_share_the_love", "df/d30/a17533.html#a3eaa89eaa356b0e2f8b5c688439baf9c", null ],
-    [ "OnCheck", "df/d30/a17533.html#a9d6b6d19611d1482111692de9f2b1cc8", null ]
+    [ "npc_pos_deathwhisper_necrolyteAI", "dc/d29/a17537.html", "dc/d29/a17537" ],
+    [ "npc_pos_deathwhisper_necrolyte", "df/d30/a17533.html#a0dcdb5b1dfed44f74b04663758b531a0", null ],
+    [ "GetAI", "df/d30/a17533.html#ae765669f95f4f14b393b88bf7ecbbfd6", null ]
 ];

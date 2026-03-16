@@ -1,4 +1,9 @@
 var a30049 =
 [
-    [ "ID", "db/d59/a30049.html#a34a2bcafda3bfe22d829f1782031bb4b", null ]
+    [ "Flags", "db/d59/a30049.html#a4471edebd870d3dfaaf34292341e5f60", null ],
+    [ "Id", "db/d59/a30049.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
+    [ "Position", "db/d59/a30049.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
+    [ "Rotation", "db/d59/a30049.html#a986c3ea05d510db03ec969f0d116fb34", null ],
+    [ "Scale", "db/d59/a30049.html#af8bcb02c541b9261dbf879353ba6893a", null ],
+    [ "UniqueId", "db/d59/a30049.html#a374c9893af515badc54b22b2a4d5e024", null ]
 ];

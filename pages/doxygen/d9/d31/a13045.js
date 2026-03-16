@@ -1,6 +1,6 @@
 var a13045 =
 [
-    [ "HandleHit", "d9/d31/a13045.html#ae6dbaebdc4b0248215416e8d4550d2cb", null ],
-    [ "PrepareSpellScript", "d9/d31/a13045.html#ae08237f9eb95cc8a4b53a7de50af7b91", null ],
-    [ "Register", "d9/d31/a13045.html#a84853f416eb8250dc3d863dbe22a157f", null ]
+    [ "instance_deadmines_InstanceMapScript", "d4/d57/a13049.html", "d4/d57/a13049" ],
+    [ "instance_deadmines", "d9/d31/a13045.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
+    [ "GetInstanceScript", "d9/d31/a13045.html#ac5cb65972d52324cedf662cc44dca626", null ]
 ];

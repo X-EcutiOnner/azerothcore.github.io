@@ -1,13 +1,13 @@
 var a01922 =
 [
-    [ "WorldPackets::Character::ShowingCloak", "d6/d2f/a10782.html", "d6/d2f/a10782" ],
-    [ "WorldPackets::Character::ShowingHelm", "d4/da3/a10786.html", "d4/da3/a10786" ],
-    [ "WorldPackets::Character::LogoutRequest", "de/d50/a10790.html", "de/d50/a10790" ],
-    [ "WorldPackets::Character::LogoutResponse", "df/d4a/a10794.html", "df/d4a/a10794" ],
-    [ "WorldPackets::Character::LogoutComplete", "d4/d87/a10798.html", "d4/d87/a10798" ],
-    [ "WorldPackets::Character::LogoutCancel", "d3/d9a/a10802.html", "d3/d9a/a10802" ],
-    [ "WorldPackets::Character::LogoutCancelAck", "d5/db1/a10806.html", "d5/db1/a10806" ],
-    [ "WorldPackets::Character::PlayerLogout", "d9/d7c/a10810.html", "d9/d7c/a10810" ],
-    [ "WorldPackets::Character::PlayedTimeClient", "df/d90/a10814.html", "df/d90/a10814" ],
-    [ "WorldPackets::Character::PlayedTime", "d3/d26/a10818.html", "d3/d26/a10818" ]
+    [ "WorldPackets::Character::ShowingCloak", "dd/d54/a10765.html", "dd/d54/a10765" ],
+    [ "WorldPackets::Character::ShowingHelm", "d6/d77/a10769.html", "d6/d77/a10769" ],
+    [ "WorldPackets::Character::LogoutRequest", "df/d5f/a10773.html", "df/d5f/a10773" ],
+    [ "WorldPackets::Character::LogoutResponse", "d1/de2/a10777.html", "d1/de2/a10777" ],
+    [ "WorldPackets::Character::LogoutComplete", "df/d73/a10781.html", "df/d73/a10781" ],
+    [ "WorldPackets::Character::LogoutCancel", "de/d45/a10785.html", "de/d45/a10785" ],
+    [ "WorldPackets::Character::LogoutCancelAck", "db/d79/a10789.html", "db/d79/a10789" ],
+    [ "WorldPackets::Character::PlayerLogout", "d8/dce/a10793.html", "d8/dce/a10793" ],
+    [ "WorldPackets::Character::PlayedTimeClient", "d6/d8a/a10797.html", "d6/d8a/a10797" ],
+    [ "WorldPackets::Character::PlayedTime", "dc/da0/a10801.html", "dc/da0/a10801" ]
 ];

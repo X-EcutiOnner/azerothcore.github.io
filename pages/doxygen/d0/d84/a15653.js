@@ -1,6 +1,6 @@
 var a15653 =
 [
-    [ "npc_draenei_survivorAI", "d6/d68/a15657.html", "d6/d68/a15657" ],
-    [ "npc_draenei_survivor", "d0/d84/a15653.html#a1dca668a7c3f868677a9bf306288430c", null ],
-    [ "GetAI", "d0/d84/a15653.html#aa8dde30279bb898a4412491faca79267", null ]
+    [ "FilterTargets", "d0/d84/a15653.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
+    [ "PrepareSpellScript", "d0/d84/a15653.html#a32b0be74a9127f920e22aa03c910a005", null ],
+    [ "Register", "d0/d84/a15653.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
 ];

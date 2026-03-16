@@ -1,6 +1,8 @@
 var a20265 =
 [
-    [ "id", "d7/d1f/a20265.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
-    [ "x", "d7/d1f/a20265.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
-    [ "y", "d7/d1f/a20265.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
+    [ "OnApply", "d7/d1f/a20265.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
+    [ "OnRemove", "d7/d1f/a20265.html#ab967233994aa3ff07b272f010b2c1545", null ],
+    [ "PrepareAuraScript", "d7/d1f/a20265.html#a788480ec4aaa57e643f55daca17c6ded", null ],
+    [ "Register", "d7/d1f/a20265.html#a63a3e30704b282a430dcdbb9073a66df", null ],
+    [ "Validate", "d7/d1f/a20265.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
 ];

@@ -1,6 +1,6 @@
 var a26053 =
 [
-    [ "FilterTargets", "d6/d4b/a26053.html#a17626abdbc4066956b76945b11b3f0c6", null ],
-    [ "PrepareSpellScript", "d6/d4b/a26053.html#abfeb75060c1f930b33003dd1e458f882", null ],
-    [ "Register", "d6/d4b/a26053.html#a8e5146a57f181b17280d198bcd2e216d", null ]
+    [ "HandleTriggerSpell", "d6/d4b/a26053.html#a2c9f565aec4c42900037dd387549df18", null ],
+    [ "PrepareAuraScript", "d6/d4b/a26053.html#a5864bbba50001cdb84b0015d08134c56", null ],
+    [ "Register", "d6/d4b/a26053.html#a5a41ac9e41201ec3defc05c324a792c9", null ]
 ];

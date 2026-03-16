@@ -1,14 +1,10 @@
 var a30013 =
 [
-    [ "file_MVER", "d6/da4/a29004.html", "d6/da4/a29004" ],
-    [ "FileLoader", "d6/db6/a29012.html", "d6/db6/a29012" ],
-    [ "FILE_FORMAT_VERSION", "d9/d45/a30013.html#a82680783457cdcbe83db9eefe68f8a9b", null ],
-    [ "int16", "d9/d45/a30013.html#aa0d0fdc87fd135ef2bedb030901cdb9c", null ],
-    [ "int32", "d9/d45/a30013.html#ab7903878916593daecbeb95b98115ab0", null ],
-    [ "int64", "d9/d45/a30013.html#a7cde0074dfd288f2d70c0e035dacb28a", null ],
-    [ "int8", "d9/d45/a30013.html#aa79c2d3de4fcd200458c406f40b2ae64", null ],
-    [ "uint16", "d9/d45/a30013.html#ac2a9e79eb120216f855626495b7bd18a", null ],
-    [ "uint32", "d9/d45/a30013.html#acbd4acd0d29e2d6c43104827f77d9cd2", null ],
-    [ "uint64", "d9/d45/a30013.html#abc0f5bc07737e498f287334775dff2b6", null ],
-    [ "uint8", "d9/d45/a30013.html#a33a5e996e7a90acefb8b1c0bea47e365", null ]
+    [ "maxSimplificationError", "d9/d45/a30013.html#a010878a247d639234d2bb8571280aca6", null ],
+    [ "vertexPerMapEdge", "d9/d45/a30013.html#af620af11a09215f106fc6704c88fa411", null ],
+    [ "vertexPerTileEdge", "d9/d45/a30013.html#a5a801e68fac6d59c1a236aeaf374bc9e", null ],
+    [ "walkableClimb", "d9/d45/a30013.html#aa5f6c5daf51b6390b7146f9a8d6de7ec", null ],
+    [ "walkableHeight", "d9/d45/a30013.html#a42b9a553cb3cd5d9c39d4cb7f0f59486", null ],
+    [ "walkableRadius", "d9/d45/a30013.html#a43f00aacc5e1497c169d4ba908883140", null ],
+    [ "walkableSlopeAngle", "d9/d45/a30013.html#a9792dfe730bfc437797a359896a14528", null ]
 ];

@@ -1,14 +1,23 @@
 var a03251 =
 [
-    [ "go_main_chambers_access_panel", "dd/d8e/a23378.html", "dd/d8e/a23378" ],
-    [ "instance_steam_vault", "d6/d49/a23382.html", "d6/d49/a23382" ],
-    [ "instance_steam_vault::instance_steam_vault_InstanceMapScript", "d8/da5/a23386.html", "d8/da5/a23386" ],
-    [ "MainChambersAccessPanelSays", "db/dd3/a03251.html#aa8d293574a308aad41f620556eb63b6a", [
-      [ "SAY_FAINT_ECHO", "db/dd3/a03251.html#aa8d293574a308aad41f620556eb63b6aadbbafef44899cd7d93e10aaa27f52992", null ],
-      [ "SAY_LOUD_RUMBLE", "db/dd3/a03251.html#aa8d293574a308aad41f620556eb63b6aa420e4ca090aea66dfe08994ddce97884", null ]
+    [ "boss_ghazan", "d6/dbd/a23373.html", "d6/dbd/a23373" ],
+    [ "at_underbog_ghazan", "df/d93/a23377.html", "df/d93/a23377" ],
+    [ "eBlackStalker", "db/dd3/a03251.html#afbee42c6927db9ad2cf9d9096eeac954", [
+      [ "SPELL_ACID_BREATH", "db/dd3/a03251.html#afbee42c6927db9ad2cf9d9096eeac954af39adcb38f10e84d7ff9bac76f41031c", null ],
+      [ "SPELL_ACID_SPIT", "db/dd3/a03251.html#afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806", null ],
+      [ "SPELL_TAIL_SWEEP", "db/dd3/a03251.html#afbee42c6927db9ad2cf9d9096eeac954addcb3daa6cdc61ef04c65580e44ef823", null ],
+      [ "SPELL_ENRAGE", "db/dd3/a03251.html#afbee42c6927db9ad2cf9d9096eeac954a2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "ACTION_MOVE_TO_PLATFORM", "db/dd3/a03251.html#afbee42c6927db9ad2cf9d9096eeac954a7e5366df9a5dd5e5bca840226b0755fa", null ],
+      [ "SPELL_LEVITATE", "d5/d08/a03254.html#afbee42c6927db9ad2cf9d9096eeac954ad2a574f606c6448dd086526c15b6fdd2", null ],
+      [ "SPELL_CHAIN_LIGHTNING", "d5/d08/a03254.html#afbee42c6927db9ad2cf9d9096eeac954ac0997e72929070d8e30cc0f49cc4539d", null ],
+      [ "SPELL_STATIC_CHARGE", "d5/d08/a03254.html#afbee42c6927db9ad2cf9d9096eeac954ad174c0c15c17e6a55eec42eab77d89e0", null ],
+      [ "SPELL_SUMMON_SPORE_STRIDER", "d5/d08/a03254.html#afbee42c6927db9ad2cf9d9096eeac954a754dcc3138f3b4acb829bc54bc02b9ed", null ],
+      [ "SPELL_LEVITATION_PULSE", "d5/d08/a03254.html#afbee42c6927db9ad2cf9d9096eeac954ade4ad87d3a67412155f3ce6b143275b1", null ],
+      [ "SPELL_SOMEONE_GRAB_ME", "d5/d08/a03254.html#afbee42c6927db9ad2cf9d9096eeac954aa07d1c28d9fea727b3885a967461d13b", null ],
+      [ "SPELL_MAGNETIC_PULL", "d5/d08/a03254.html#afbee42c6927db9ad2cf9d9096eeac954a3917f87779ff3a60876e0373a10855d5", null ],
+      [ "SPELL_SUSPENSION_PRIMER", "d5/d08/a03254.html#afbee42c6927db9ad2cf9d9096eeac954a38589209a4f90f4db2f89b249f6840de", null ],
+      [ "SPELL_SUSPENSION", "d5/d08/a03254.html#afbee42c6927db9ad2cf9d9096eeac954a0b7462c628390d15bd33088fb3d2a6a0", null ],
+      [ "ENTRY_SPORE_STRIDER", "d5/d08/a03254.html#afbee42c6927db9ad2cf9d9096eeac954a461a6686eb7320e609d5675753241cd2", null ]
     ] ],
-    [ "AddSC_instance_steam_vault", "db/dd3/a03251.html#a944f7f7f41e047f2a4f82fb9af0b4829", null ],
-    [ "creatureData", "db/dd3/a03251.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "minionData", "db/dd3/a03251.html#a6720238df140a3c574a711042b7f5bd3", null ],
-    [ "objectData", "db/dd3/a03251.html#a59ddfa91084111da23b5d47482e4ff8d", null ]
+    [ "AddSC_boss_ghazan", "db/dd3/a03251.html#a6b7605f750dab7f676edcd83f54c249a", null ]
 ];

@@ -1,6 +1,6 @@
 var a13981 =
 [
-    [ "npc_corporal_keeshanAI", "d3/d62/a13985.html", "d3/d62/a13985" ],
-    [ "npc_corporal_keeshan", "da/d74/a13981.html#a0ca9459a7f283e040f14e0052762f587", null ],
-    [ "GetAI", "da/d74/a13981.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
+    [ "instance_uldaman_InstanceMapScript", "d3/d62/a13985.html", "d3/d62/a13985" ],
+    [ "instance_uldaman", "da/d74/a13981.html#a854807db729d15aa4a09aad051fe3bda", null ],
+    [ "GetInstanceScript", "da/d74/a13981.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
 ];

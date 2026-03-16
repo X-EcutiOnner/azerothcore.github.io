@@ -1,13 +1,10 @@
 var a27637 =
 [
-    [ "DBCDatabaseLoader", "da/d9e/a27637.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
-    [ "DBCDatabaseLoader", "da/d9e/a27637.html#a7d93e6d37796f341edcf25062743c5b5", null ],
-    [ "CloneStringToPool", "da/d9e/a27637.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
-    [ "Load", "da/d9e/a27637.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
-    [ "operator=", "da/d9e/a27637.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
-    [ "_dbcFormat", "da/d9e/a27637.html#aa749118514d0b784ac6df295bd820d8e", null ],
-    [ "_recordSize", "da/d9e/a27637.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
-    [ "_sqlIndexPos", "da/d9e/a27637.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
-    [ "_sqlTableName", "da/d9e/a27637.html#ab6590071edf5311ccf484d48e4fd125e", null ],
-    [ "_stringPool", "da/d9e/a27637.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
+    [ "CalcPeriodic", "da/d9e/a27637.html#abd23b7e24d9688dd4b9cbe70cdd45d75", null ],
+    [ "CalculateAmount", "da/d9e/a27637.html#a55aa6c6a23e4db0f407b86bcf95d3761", null ],
+    [ "HandleEffectCalcSpellMod", "da/d9e/a27637.html#a8c888218fde2176a3c3b5cb97fdce5de", null ],
+    [ "HandlePeriodic", "da/d9e/a27637.html#ae2c4de235fc727039a50f1b6ba729422", null ],
+    [ "Load", "da/d9e/a27637.html#a9e1a5a07db18f6ff238276f9e1c44321", null ],
+    [ "PrepareAuraScript", "da/d9e/a27637.html#a847c1db1bf92baeba47260ffbacbcdd9", null ],
+    [ "Register", "da/d9e/a27637.html#a9241ab85d616f4f17c52b3730c5434e1", null ]
 ];

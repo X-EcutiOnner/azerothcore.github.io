@@ -1,6 +1,8 @@
 var a18837 =
 [
-    [ "npc_suppresserAI", "da/dae/a18841.html", "da/dae/a18841" ],
-    [ "npc_suppresser", "d8/da7/a18837.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
-    [ "GetAI", "d8/da7/a18837.html#a48869515abbac1491337a93b987231da", null ]
+    [ "Load", "d8/da7/a18837.html#aabd997d6db5fd38b1fdd97d90b1347e9", null ],
+    [ "OnRemove", "d8/da7/a18837.html#a43b23e5c53cca872a26737d790f2893d", null ],
+    [ "PrepareAuraScript", "d8/da7/a18837.html#ae51bcb37894240c6fd064cd329698a55", null ],
+    [ "Register", "d8/da7/a18837.html#ad6247c7f8abf41cd6190d5252ed6834e", null ],
+    [ "Validate", "d8/da7/a18837.html#a45696018a8810cf1f11fbddcd853d1f4", null ]
 ];

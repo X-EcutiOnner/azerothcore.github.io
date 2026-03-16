@@ -1,5 +1,7 @@
 var a11257 =
 [
-    [ "PacketHandler", "dc/d9d/a11257.html#a7ca20eda3de42ab35ef45c56f1d6d73e", null ],
-    [ "Call", "dc/d9d/a11257.html#a42ac77b81d5280c7f1c54991649ab501", null ]
+    [ "TrainerBuySucceeded", "dc/d9d/a11257.html#ae00367a55429030c107fc8f6bb7db288", null ],
+    [ "Write", "dc/d9d/a11257.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
+    [ "SpellID", "dc/d9d/a11257.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
+    [ "TrainerGUID", "dc/d9d/a11257.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
 ];

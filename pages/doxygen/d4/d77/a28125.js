@@ -1,10 +1,9 @@
 var a28125 =
 [
-    [ "ID", "d4/d77/a28125.html#a906c42770a619884f08b67e2870bff93", null ],
-    [ "reqarenapoints", "d4/d77/a28125.html#a5d45007a832d6120e29c7821c07646de", null ],
-    [ "reqarenaslot", "d4/d77/a28125.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
-    [ "reqhonorpoints", "d4/d77/a28125.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
-    [ "reqitem", "d4/d77/a28125.html#a9cba8872c909260a55dcfdf7f4726899", null ],
-    [ "reqitemcount", "d4/d77/a28125.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
-    [ "reqpersonalarenarating", "d4/d77/a28125.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
+    [ "ChatLogScript", "d4/d77/a28125.html#ade8c407083cf094f0767412e7b6d7730", null ],
+    [ "OnPlayerCanUseChat", "d4/d77/a28125.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
+    [ "OnPlayerCanUseChat", "d4/d77/a28125.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
+    [ "OnPlayerCanUseChat", "d4/d77/a28125.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
+    [ "OnPlayerCanUseChat", "d4/d77/a28125.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
+    [ "OnPlayerCanUseChat", "d4/d77/a28125.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
 ];

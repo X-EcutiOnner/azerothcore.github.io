@@ -1,10 +1,6 @@
 var a21257 =
 [
-    [ "npc_azure_invaderAI", "d9/dfa/a21257.html#a85f164a6ba24d7a14d77264441a78f46", null ],
-    [ "Reset", "d9/dfa/a21257.html#ada44600272b19d9416d957bc52bc3be4", null ],
-    [ "UpdateAI", "d9/dfa/a21257.html#a7dfdcb2a88930c6b4150f7f7c825a2df", null ],
-    [ "uiBrutalStrikeTimer", "d9/dfa/a21257.html#a4b88a85f3344edbdadde0104668509aa", null ],
-    [ "uiCleaveTimer", "d9/dfa/a21257.html#a8b1792a8a405651d602d9ed634f52689", null ],
-    [ "uiImpaleTimer", "d9/dfa/a21257.html#aa709ee8919a2d0317d563259c7630c99", null ],
-    [ "uiSunderArmorTimer", "d9/dfa/a21257.html#ab2e6d01df033985ac29e963cf2895466", null ]
+    [ "HandleOnHit", "d9/dfa/a21257.html#aa3f90eb49ae947b5729f722750cb8711", null ],
+    [ "PrepareSpellScript", "d9/dfa/a21257.html#a3b62711a0ba478d6321a93d436359939", null ],
+    [ "Register", "d9/dfa/a21257.html#af7bdde31f1221d5679983a41e3eca204", null ]
 ];

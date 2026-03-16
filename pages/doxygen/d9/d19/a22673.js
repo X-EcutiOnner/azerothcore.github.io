@@ -1,7 +1,6 @@
 var a22673 =
 [
-    [ "PrepareAuraScript", "d9/d19/a22673.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
-    [ "Register", "d9/d19/a22673.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
-    [ "Update", "d9/d19/a22673.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
-    [ "Validate", "d9/d19/a22673.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
+    [ "PrepareSpellScript", "d9/d19/a22673.html#abd6b61e7efbed1427b7603640ac7d474", null ],
+    [ "RecalculateDamage", "d9/d19/a22673.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
+    [ "Register", "d9/d19/a22673.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
 ];

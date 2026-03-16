@@ -1,14 +1,6 @@
 var a19617 =
 [
-    [ "boss_keristrasza", "d8/d0e/a19617.html#a5f83fee9a5616751601f0c1155afab36", null ],
-    [ "CanRemovePrison", "d8/d0e/a19617.html#a900a4a8428a04b880462b20196e94858", null ],
-    [ "GetData", "d8/d0e/a19617.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
-    [ "JustDied", "d8/d0e/a19617.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
-    [ "JustEngagedWith", "d8/d0e/a19617.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
-    [ "KilledUnit", "d8/d0e/a19617.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
-    [ "RemovePrison", "d8/d0e/a19617.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
-    [ "Reset", "d8/d0e/a19617.html#a13dce974fa83577397a80ff52de5d835", null ],
-    [ "SetData", "d8/d0e/a19617.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
-    [ "UpdateAI", "d8/d0e/a19617.html#a46a2e61e27cc72710c7aa14212673eae", null ],
-    [ "aGuids", "d8/d0e/a19617.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
+    [ "boss_razuviousAI", "de/d48/a19621.html", "de/d48/a19621" ],
+    [ "boss_razuvious", "d8/d0e/a19617.html#ac1a2942f4a7957c671b075df7bf20215", null ],
+    [ "GetAI", "d8/d0e/a19617.html#a350a7cf0c3e21e29c3c28155d63dcb87", null ]
 ];

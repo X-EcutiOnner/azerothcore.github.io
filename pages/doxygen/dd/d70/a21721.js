@@ -1,6 +1,8 @@
 var a21721 =
 [
-    [ "npc_ravenous_worgAI", "dc/de3/a21725.html", "dc/de3/a21725" ],
-    [ "npc_ravenous_worg", "dd/d70/a21721.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
-    [ "GetAI", "dd/d70/a21721.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
+    [ "npc_future_youAI", "dd/d70/a21721.html#a7608c050dd198e3133050e222b42f62b", null ],
+    [ "EnterEvadeMode", "dd/d70/a21721.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
+    [ "MoveInLineOfSight", "dd/d70/a21721.html#a35b67f9e948f5ffbde8a423190ece603", null ],
+    [ "Reset", "dd/d70/a21721.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
+    [ "UpdateAI", "dd/d70/a21721.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
 ];

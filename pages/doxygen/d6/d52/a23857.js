@@ -1,6 +1,6 @@
 var a23857 =
 [
-    [ "go_beaconAI", "d6/d52/a23857.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
-    [ "OnStateChanged", "d6/d52/a23857.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
-    [ "creatureList", "d6/d52/a23857.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
+    [ "HandleScriptEffect", "d6/d52/a23857.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
+    [ "PrepareSpellScript", "d6/d52/a23857.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
+    [ "Register", "d6/d52/a23857.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
 ];

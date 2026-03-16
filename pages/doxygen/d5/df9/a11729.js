@@ -1,8 +1,6 @@
 var a11729 =
 [
-    [ "CreatureTextId", "d5/df9/a11729.html#ae8058e922bafc69b718ca4be1be39688", null ],
-    [ "operator<", "d5/df9/a11729.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
-    [ "entry", "d5/df9/a11729.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
-    [ "textGroup", "d5/df9/a11729.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
-    [ "textId", "d5/df9/a11729.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
+    [ "CastHandler", "d5/df9/a11729.html#aad22cf4791a20b9cb6704712ec3d9339", null ],
+    [ "Call", "d5/df9/a11729.html#afdbd455bd010bd93e84c334fe3987bf1", null ],
+    [ "pCastHandlerScript", "d5/df9/a11729.html#a091c494c18bc81968a386bc5f2565905", null ]
 ];

@@ -1,5 +1,6 @@
 var a19321 =
 [
-    [ "PrepareSpellScript", "d8/d0c/a19321.html#a09b852666752f6adde3f9e5bb1f107bc", null ],
-    [ "Register", "d8/d0c/a19321.html#a80c3077f8f689367276e1054a6236681", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "d3/d0a/a19325.html", "d3/d0a/a19325" ],
+    [ "npc_icc_nerubar_broodkeeper", "d8/d0c/a19321.html#adf9c3bfb444fed50420c2e780b373f34", null ],
+    [ "GetAI", "d8/d0c/a19321.html#ad12186da36f7bbf99275a746bc874bfc", null ]
 ];

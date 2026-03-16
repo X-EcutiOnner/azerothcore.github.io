@@ -1,6 +1,9 @@
 var a14849 =
 [
-    [ "HandleAfterEffectRemove", "d5/d02/a14849.html#acf650fe6fe65164c12fbb06b45e092c9", null ],
-    [ "PrepareAuraScript", "d5/d02/a14849.html#a3b54e232c0502eaa03b314a05dce1835", null ],
-    [ "Register", "d5/d02/a14849.html#a9bacd9538b1ab1cf9aa74e7675ff5b6b", null ]
+    [ "spell_hallows_end_put_costume", "d5/d02/a14849.html#ac1fcd0a32142744f353cdc01bce740e3", null ],
+    [ "HandleScript", "d5/d02/a14849.html#ac4be92e73c08c06c1c9954547bfe8013", null ],
+    [ "PrepareSpellScript", "d5/d02/a14849.html#ac0e4692be1527f052a23ed52af32d042", null ],
+    [ "Register", "d5/d02/a14849.html#ac38299892d02c497e3bbae3c73a095ab", null ],
+    [ "_femaleSpell", "d5/d02/a14849.html#a5ccb30abd83ed1d0be104bffc91deca2", null ],
+    [ "_maleSpell", "d5/d02/a14849.html#af9b285133389942bea6738e518d34e48", null ]
 ];

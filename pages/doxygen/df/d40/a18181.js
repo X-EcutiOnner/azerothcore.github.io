@@ -1,5 +1,6 @@
 var a18181 =
 [
-    [ "npc_volatile_oozeAI", "df/d40/a18181.html#af042d4c22482aabcdad6fa867dfe093f", null ],
-    [ "CastMainSpell", "df/d40/a18181.html#a91890785174ecc60c9553a0aedf1961b", null ]
+    [ "IgbArtilleryCheck", "df/d40/a18181.html#a78b65928551ed799cf3f446f0603c50e", null ],
+    [ "operator()", "df/d40/a18181.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
+    [ "_entry", "df/d40/a18181.html#a98a6a0836414da82c288e372e982f69f", null ]
 ];

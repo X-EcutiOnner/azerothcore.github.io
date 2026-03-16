@@ -1,8 +1,8 @@
 var a21477 =
 [
-    [ "npc_shandy_dalaranAI", "da/dbb/a21481.html", "da/dbb/a21481" ],
-    [ "npc_shandy_dalaran", "db/d08/a21477.html#a7077c769a252af8ba37b5ff5d524463e", null ],
-    [ "GetAI", "db/d08/a21477.html#a641551a2aef739e1679912ae27ddb888", null ],
-    [ "OnGossipHello", "db/d08/a21477.html#a91287aaba09fce091c9d826e75208f84", null ],
-    [ "OnGossipSelect", "db/d08/a21477.html#ad005a17da187e0cfd03d2faf0099c448", null ]
+    [ "npc_azure_captainAI", "db/d08/a21477.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
+    [ "Reset", "db/d08/a21477.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
+    [ "UpdateAI", "db/d08/a21477.html#ae50ac21138e12be43caa93e37062051e", null ],
+    [ "uiMortalStrikeTimer", "db/d08/a21477.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
+    [ "uiWhirlwindTimer", "db/d08/a21477.html#a2e3439976a6e84a60be765cb0b929798", null ]
 ];

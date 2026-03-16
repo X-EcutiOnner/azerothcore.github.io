@@ -1,6 +1,5 @@
 var a25533 =
 [
-    [ "PartyTimeEmoteEvent", "d2/d68/a25533.html#a525efd58fc8465658208058e6dc5d31c", null ],
-    [ "Execute", "d2/d68/a25533.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
-    [ "_player", "d2/d68/a25533.html#a61ecb44828c6e4c868def8899791feb3", null ]
+    [ "PrepareSpellScript", "d2/d68/a25533.html#ac83289482a8f83a2af80e2f9f35b6716", null ],
+    [ "Register", "d2/d68/a25533.html#a5e2cdc942b9972f79ff0a4fac2f0d77d", null ]
 ];

@@ -1,17 +1,15 @@
 var a06325 =
 [
-    [ "WorldBossAI", "dd/dee/a06325.html#aad7ffc5fb8215f6bf36fe72aef40c9e1", null ],
-    [ "~WorldBossAI", "dd/dee/a06325.html#a2877e6056f3ff51c625d46d5b7d7d008", null ],
-    [ "_JustDied", "dd/dee/a06325.html#a72e92da9585e41f742ee0ff964340230", null ],
-    [ "_JustEngagedWith", "dd/dee/a06325.html#a451c933079bd3b887079b15b74c22b5e", null ],
-    [ "_Reset", "dd/dee/a06325.html#ac11f7b51038891d8e10427ca10aa516c", null ],
-    [ "ExecuteEvent", "dd/dee/a06325.html#a477e7bc0bcf1ba99d64cffddbfa0c6d2", null ],
-    [ "JustDied", "dd/dee/a06325.html#a012c70e390c46b8f326b91014091b3d7", null ],
-    [ "JustEngagedWith", "dd/dee/a06325.html#ab84cb945e773c41d22b682996c744768", null ],
-    [ "JustSummoned", "dd/dee/a06325.html#aa783665ce6e43e76a18515f511f82efb", null ],
-    [ "Reset", "dd/dee/a06325.html#ad19a91bf2344f531e01db07efd04c395", null ],
-    [ "SummonedCreatureDespawn", "dd/dee/a06325.html#af7a1e062b13d997def99c077a79cd12f", null ],
-    [ "UpdateAI", "dd/dee/a06325.html#a31686947c399d780ea5220dae5e4820b", null ],
-    [ "events", "dd/dee/a06325.html#abba6c74269442b0bbfe94ab583904485", null ],
-    [ "summons", "dd/dee/a06325.html#adb0612a97ccab6c817d9fa69b63cfff7", null ]
+    [ "VehicleAI", "dd/dee/a06325.html#aeb8d08eeea0ac12a72ff5dbaf40e9835", null ],
+    [ "AttackStart", "dd/dee/a06325.html#ad06972054ef4525411e859d291226783", null ],
+    [ "CheckConditions", "dd/dee/a06325.html#afcee52b5173ec8b9850da63c1d58cded", null ],
+    [ "LoadConditions", "dd/dee/a06325.html#a2c49067fa9953ba4db4cc6b03a7a9fb0", null ],
+    [ "MoveInLineOfSight", "dd/dee/a06325.html#a48213b69fa4f0034cdc3cd60841d0636", null ],
+    [ "OnCharmed", "dd/dee/a06325.html#a2a593f895c6296c4100af075d971b5b3", null ],
+    [ "Permissible", "dd/dee/a06325.html#a39ad0764dce6586aef86fcd96c2c221c", null ],
+    [ "UpdateAI", "dd/dee/a06325.html#aac593372592d33fa008a66c6dcec1840", null ],
+    [ "conditions", "dd/dee/a06325.html#ae95dc46465404271faaae4b2dc61277a", null ],
+    [ "m_ConditionsTimer", "dd/dee/a06325.html#a3a46c5f18b019852460170e1200b11b4", null ],
+    [ "m_DismissTimer", "dd/dee/a06325.html#a34000f32495dbee3a550147e1e86d761", null ],
+    [ "m_DoDismiss", "dd/dee/a06325.html#a505c1bacb159950e19518ad3b5740a3e", null ]
 ];

@@ -1,9 +1,10 @@
 var a19873 =
 [
-    [ "boss_sjonnir_iron_sludgeAI", "d7/d89/a19873.html#aac57ae32188c47ca97b7331d62986e66", null ],
-    [ "JustDied", "d7/d89/a19873.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
-    [ "JustEngagedWith", "d7/d89/a19873.html#a772d279407d724477560898559710433", null ],
-    [ "Reset", "d7/d89/a19873.html#a5b4a726aa496923d81c41b038e5f7449", null ],
-    [ "UpdateAI", "d7/d89/a19873.html#a2745ff26c165851c367e080d28652984", null ],
-    [ "events", "d7/d89/a19873.html#a468d45f9b9c2172f326068d59a74121a", null ]
+    [ "npc_oculus_drakegiverAI", "d9/d3e/a19877.html", "d9/d3e/a19877" ],
+    [ "npc_oculus_drakegiver", "d7/d89/a19873.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
+    [ "GetAI", "d7/d89/a19873.html#aa26a2b82c5e4076ce704d5884895d903", null ],
+    [ "OnGossipHello", "d7/d89/a19873.html#ac00d09d2d81121d562e3303704229c18", null ],
+    [ "OnGossipSelect", "d7/d89/a19873.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
+    [ "RemoveEssence", "d7/d89/a19873.html#a70513d873111c590ca4e33cb446a4438", null ],
+    [ "StoreEssence", "d7/d89/a19873.html#ac8bbe890722aa924a7f0dee161d342c4", null ]
 ];

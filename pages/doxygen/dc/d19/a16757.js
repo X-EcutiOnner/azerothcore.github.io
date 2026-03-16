@@ -1,7 +1,8 @@
 var a16757 =
 [
-    [ "npc_toc_shadow_priestAI", "dc/d19/a16757.html#af13a18be542fb314c19af52f89d216b8", null ],
-    [ "myCanCast", "dc/d19/a16757.html#a83422ff3e140b57a484d98876a9a8070", null ],
-    [ "UpdateAI", "dc/d19/a16757.html#afc23ba15d3ee925212e77b5211504c2b", null ],
-    [ "events", "dc/d19/a16757.html#a31665a22920b416d7423958a3e2928ec", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "dc/d19/a16757.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
+    [ "DoAction", "dc/d19/a16757.html#af38e129cdf4af99e99c41b6a98448e56", null ],
+    [ "Reset", "dc/d19/a16757.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
+    [ "UpdateAI", "dc/d19/a16757.html#a851008790128831c5c10710b4cccb196", null ],
+    [ "WaypointReached", "dc/d19/a16757.html#a74b5fb1d3631c404e7797085e45e6159", null ]
 ];

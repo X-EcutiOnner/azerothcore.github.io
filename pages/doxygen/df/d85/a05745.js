@@ -1,7 +1,7 @@
 var a05745 =
 [
-    [ "cmd", "df/d85/a05745.html#a91e8e56c304147b88db250259ff0a87c", null ],
-    [ "error", "df/d85/a05745.html#a0872e20a5adcd52a94036bdc6eddc6e6", null ],
-    [ "M2", "df/d85/a05745.html#a9bb7dca6b62d35ecae97197c4c9693b7", null ],
-    [ "unk2", "df/d85/a05745.html#a47d83719b502236fdad41e2d07b535a0", null ]
+    [ "EnumText", "df/d85/a05745.html#a8eaf5ce52dcc9fd44476f9add1140e0d", null ],
+    [ "Constant", "df/d85/a05745.html#a020a7ebf3b1ee476d5f7ee605f43525d", null ],
+    [ "Description", "df/d85/a05745.html#ab08504e4ec70c5495f5a45856f2e6976", null ],
+    [ "Title", "df/d85/a05745.html#a7326575ea4083e28ac62556526a092a4", null ]
 ];

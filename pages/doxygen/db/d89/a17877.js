@@ -1,6 +1,7 @@
 var a17877 =
 [
-    [ "npc_high_overlord_saurfang_igbAI", "dc/d09/a17881.html", "dc/d09/a17881" ],
-    [ "npc_high_overlord_saurfang_igb", "db/d89/a17877.html#ae68d42f65851a753874705511bb83330", null ],
-    [ "GetAI", "db/d89/a17877.html#a54b6da97a40665232d28a20bac9b7ef3", null ]
+    [ "OnProc", "db/d89/a17877.html#a5b6e96abb900da33657cdbbd137138e3", null ],
+    [ "PrepareAuraScript", "db/d89/a17877.html#a5502476536a923e77af67c4bbcf005e3", null ],
+    [ "Register", "db/d89/a17877.html#aca08edf219504156d6157c95702bb815", null ],
+    [ "Validate", "db/d89/a17877.html#a52b1231f37e8b3d810614365659a98b6", null ]
 ];

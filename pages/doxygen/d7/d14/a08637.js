@@ -1,9 +1,9 @@
 var a08637 =
 [
-    [ "category", "d7/d14/a08637.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
-    [ "end", "d7/d14/a08637.html#a8cc857ef51745900398765164a450a50", null ],
-    [ "itemid", "d7/d14/a08637.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
-    [ "maxduration", "d7/d14/a08637.html#a94b98afb7651e2c6b99ee79f85702259", null ],
-    [ "needSendToClient", "d7/d14/a08637.html#a678f56b6723567f984a0188b85a6f9df", null ],
-    [ "sendToSpectator", "d7/d14/a08637.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
+    [ "Reset", "d7/d14/a08637.html#a9c210ff536b49481f71bc6c3f60ee864", null ],
+    [ "guid", "d7/d14/a08637.html#ac115013e34f67bc1444fef4fc96c843e", null ],
+    [ "pos", "d7/d14/a08637.html#adff317cbf0c2d159d8ffddf52b4751b3", null ],
+    [ "seat", "d7/d14/a08637.html#ad57bea2ae3beb6a086a116989b0d528f", null ],
+    [ "time", "d7/d14/a08637.html#acec3991f0d19fd9f72e9837eef516057", null ],
+    [ "time2", "d7/d14/a08637.html#a426c651d2f359847b033a4d7f278a191", null ]
 ];

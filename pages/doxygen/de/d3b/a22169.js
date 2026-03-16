@@ -1,5 +1,6 @@
 var a22169 =
 [
-    [ "npc_wg_spirit_guideAI", "de/d3b/a22169.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
-    [ "UpdateAI", "de/d3b/a22169.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
+    [ "npc_bushwhackerAI", "de/d3b/a22169.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "de/d3b/a22169.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "de/d3b/a22169.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

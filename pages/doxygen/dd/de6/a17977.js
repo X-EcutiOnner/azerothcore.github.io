@@ -1,8 +1,8 @@
 var a17977 =
 [
-    [ "Load", "dd/de6/a17977.html#ad1105149d5e42318382af6c07149d522", null ],
-    [ "PeriodicTick", "dd/de6/a17977.html#a8e675178256746d08af50a6b75ec582e", null ],
-    [ "PrepareAuraScript", "dd/de6/a17977.html#a88f4baca7ceac44e5d148b73386a10a7", null ],
-    [ "Register", "dd/de6/a17977.html#a0fa7d86214827711edd019dd3b40c667", null ],
-    [ "_tickNo", "dd/de6/a17977.html#a418212d2daa873d69a83b4c1341a8903", null ]
+    [ "HandleHit", "dd/de6/a17977.html#ace9793d64d5378ef33bf30e8d0be8bd6", null ],
+    [ "HandleScript", "dd/de6/a17977.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
+    [ "Load", "dd/de6/a17977.html#ab1d81386ae3ccd332c01864d7f456017", null ],
+    [ "PrepareSpellScript", "dd/de6/a17977.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
+    [ "Register", "dd/de6/a17977.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
 ];

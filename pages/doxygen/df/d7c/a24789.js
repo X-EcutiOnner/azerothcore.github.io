@@ -1,6 +1,9 @@
 var a24789 =
 [
-    [ "HandleEffectPeriodicUpdate", "df/d7c/a24789.html#a554353fede78b89bf488230254d7892b", null ],
-    [ "PrepareAuraScript", "df/d7c/a24789.html#adf20aaafff83bae614ff3c614a08a54b", null ],
-    [ "Register", "df/d7c/a24789.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5", null ]
+    [ "Absorb", "df/d7c/a24789.html#a5d4b54569b16175ae84d3c94a1a6fcff", null ],
+    [ "CalculateAmount", "df/d7c/a24789.html#a3800ed0d14eacf39a3930c1b5e139f85", null ],
+    [ "Load", "df/d7c/a24789.html#a79e3012cb5c78851809d9f4c4d6c4487", null ],
+    [ "PrepareAuraScript", "df/d7c/a24789.html#a1bdab939c229c466ce6b71a7e00dedf9", null ],
+    [ "Register", "df/d7c/a24789.html#a47bd5ef93255a2d926874d6d70861374", null ],
+    [ "absorbPct", "df/d7c/a24789.html#a0c067ba7bbfd5cde53f1323b5c2f47cb", null ]
 ];

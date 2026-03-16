@@ -1,6 +1,7 @@
 var a23061 =
 [
-    [ "HandleApplyAura", "d3/dc1/a23061.html#a4fde347d339f08cd01e2a47883d4b988", null ],
-    [ "PrepareSpellScript", "d3/dc1/a23061.html#ab22bd56638a6adc8d111250780221cb9", null ],
-    [ "Register", "d3/dc1/a23061.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
+    [ "HandleScriptEffect", "d3/dc1/a23061.html#a0038e566bc5054e4208fd727fcc266fa", null ],
+    [ "PrepareSpellScript", "d3/dc1/a23061.html#abb661bacf4cec1f2e15f4aeda2ab991e", null ],
+    [ "Register", "d3/dc1/a23061.html#a416b811c2676c598df0ac0e5906a94d3", null ],
+    [ "Validate", "d3/dc1/a23061.html#a11e82a2b40dbbd9949a1dda3bd715679", null ]
 ];

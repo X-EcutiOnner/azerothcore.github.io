@@ -1,6 +1,8 @@
 var a27725 =
 [
-    [ "OnRemove", "d4/ddb/a27725.html#ae1f257e43effcb396d57d42db3063afd", null ],
-    [ "PrepareAuraScript", "d4/ddb/a27725.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
-    [ "Register", "d4/ddb/a27725.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
+    [ "ApplyEffect", "d4/ddb/a27725.html#a0c303c58064236969e17d1f2df3e0556", null ],
+    [ "PrepareAuraScript", "d4/ddb/a27725.html#a716a483282946f840ac15d73c6e21a94", null ],
+    [ "Register", "d4/ddb/a27725.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
+    [ "RemoveEffect", "d4/ddb/a27725.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
+    [ "Validate", "d4/ddb/a27725.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
 ];

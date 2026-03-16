@@ -1,10 +1,12 @@
 var a21265 =
 [
-    [ "npc_azure_binderAI", "d6/db6/a21265.html#ad532d350493a35804660f90a9f00f3cf", null ],
-    [ "Reset", "d6/db6/a21265.html#aa317ce32f3439286e9a4ac0928d48b3a", null ],
-    [ "UpdateAI", "d6/db6/a21265.html#a322ae0210ccb24206aee49c4fa7fe2bc", null ],
-    [ "uiArcainBarrageTimer", "d6/db6/a21265.html#a0e577611e3e11209cc175cd71cd86bc9", null ],
-    [ "uiArcaneExplosionTimer", "d6/db6/a21265.html#aa5cc777f777166e88a21e98a4ce2b8d3", null ],
-    [ "uiFrostboltTimer", "d6/db6/a21265.html#a405ec0f2d92e4a1f5f7901e725465604", null ],
-    [ "uiFrostNovaTimer", "d6/db6/a21265.html#a0f6396376e14711f87f1a046728ce386", null ]
+    [ "boss_koralonAI", "d6/db6/a21265.html#a3f5bc42a141011e543d1215eac09dc74", null ],
+    [ "AttackStart", "d6/db6/a21265.html#aa84e6e9a302172e134163cd07ca57864", null ],
+    [ "JustDied", "d6/db6/a21265.html#a102c10792d9e7df61d920b5a43f58e51", null ],
+    [ "JustEngagedWith", "d6/db6/a21265.html#aa7503618dd09e0aebac44394595f4715", null ],
+    [ "Reset", "d6/db6/a21265.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
+    [ "UpdateAI", "d6/db6/a21265.html#aa944aad2eb68adc917cba743d1e530c7", null ],
+    [ "events", "d6/db6/a21265.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
+    [ "pInstance", "d6/db6/a21265.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
+    [ "rotateTimer", "d6/db6/a21265.html#ad4b766094f28e940b0b7971d6dadc277", null ]
 ];

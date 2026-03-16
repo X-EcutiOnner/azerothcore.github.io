@@ -1,7 +1,7 @@
 var a10069 =
 [
-    [ "Finalize", "dc/db9/a10069.html#a90c8b42ef67968bf58acae5678dc7496", null ],
-    [ "Initialize", "dc/db9/a10069.html#ad6b97c3e2884dfbe3f17e2579b31ac66", null ],
-    [ "Reset", "dc/db9/a10069.html#a6db99ea9863dc60d032bacda37afa078", null ],
-    [ "Update", "dc/db9/a10069.html#af044c8725ef11e8a152987225521ef8b", null ]
+    [ "ownerGUID", "dc/db9/a10069.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
+    [ "script", "dc/db9/a10069.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
+    [ "sourceGUID", "dc/db9/a10069.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
+    [ "targetGUID", "dc/db9/a10069.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
 ];

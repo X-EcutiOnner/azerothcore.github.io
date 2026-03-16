@@ -1,5 +1,8 @@
 var a12989 =
 [
-    [ "go_blackened_urn", "d8/d78/a12989.html#aaa311353e693a0dd7fd9a6f8e617e0ab", null ],
-    [ "OnGossipHello", "d8/d78/a12989.html#ab091bd54734acc65532303a391441ee2", null ]
+    [ "FilterTargets", "d8/d78/a12989.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
+    [ "HandleScript", "d8/d78/a12989.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
+    [ "PrepareSpellScript", "d8/d78/a12989.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
+    [ "Register", "d8/d78/a12989.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
+    [ "Validate", "d8/d78/a12989.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
 ];

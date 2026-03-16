@@ -1,7 +1,7 @@
 var a23765 =
 [
-    [ "OnPeriodic", "d9/de6/a23765.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
-    [ "PrepareAuraScript", "d9/de6/a23765.html#a6f7db06cc1ace68ee0076077773b1659", null ],
-    [ "Register", "d9/de6/a23765.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
-    [ "Validate", "d9/de6/a23765.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
+    [ "CastQuill", "d9/de6/a23765.html#a923234809186bcbdf02457f4be095519", null ],
+    [ "Execute", "d9/de6/a23765.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
+    [ "_caster", "d9/de6/a23765.html#af809b9279aff141ce4007c8d1fbcc331", null ],
+    [ "_spellId", "d9/de6/a23765.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
 ];

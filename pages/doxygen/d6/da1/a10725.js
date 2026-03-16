@@ -1,6 +1,7 @@
 var a10725 =
 [
-    [ "GuildUpdateMotdText", "d6/da1/a10725.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
-    [ "Read", "d6/da1/a10725.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
-    [ "MotdText", "d6/da1/a10725.html#a5b2ee458a919be7f912d49cf984490ac", null ]
+    [ "ClientPacket", "d6/da1/a10725.html#aa1d1946c07e248bae5927e83fdad9500", null ],
+    [ "ClientPacket", "d6/da1/a10725.html#a1cdaaacca2695c4366647c7611073ff0", null ],
+    [ "GetOpcode", "d6/da1/a10725.html#aa51558bb8faa96a665fe40b1bddf9d14", null ],
+    [ "Write", "d6/da1/a10725.html#a16e5b9fa05e35fa1e32e33bef2688487", null ]
 ];

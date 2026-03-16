@@ -1,9 +1,6 @@
 var a19125 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "de/d24/a19125.html#a91868021309239f5582bb7ee89baec13", null ],
-    [ "AttackStart", "de/d24/a19125.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
-    [ "JustEngagedWith", "de/d24/a19125.html#a12927240144022174e3d190be6b34976", null ],
-    [ "Reset", "de/d24/a19125.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
-    [ "UpdateAI", "de/d24/a19125.html#a969a36e147006971a93711349f90c193", null ],
-    [ "events", "de/d24/a19125.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
+    [ "npc_captain_brandonAI", "d4/d86/a19129.html", "d4/d86/a19129" ],
+    [ "npc_captain_brandon", "de/d24/a19125.html#ad522dd280882d894b5d32e7c888f2360", null ],
+    [ "GetAI", "de/d24/a19125.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
 ];

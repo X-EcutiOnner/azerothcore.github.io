@@ -1,7 +1,6 @@
 var a23541 =
 [
-    [ "AfterApply", "d2/df3/a23541.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
-    [ "PrepareAuraScript", "d2/df3/a23541.html#aa98346e5f5b23fe016148426a19a719f", null ],
-    [ "Register", "d2/df3/a23541.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
-    [ "Validate", "d2/df3/a23541.html#a616d1758aa257140f4941fe12ef21e87", null ]
+    [ "HandleScriptEffect", "d2/df3/a23541.html#adf350bccc5862252f6928faa4ae3a001", null ],
+    [ "PrepareSpellScript", "d2/df3/a23541.html#a0d1ff479da3b8f50ed698da9f9029589", null ],
+    [ "Register", "d2/df3/a23541.html#afaf23967ede6e120caa7758ff2d3c974", null ]
 ];

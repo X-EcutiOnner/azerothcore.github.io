@@ -1,8 +1,8 @@
 var a20109 =
 [
-    [ "OnApply", "db/d46/a20109.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
-    [ "OnRemove", "db/d46/a20109.html#ab967233994aa3ff07b272f010b2c1545", null ],
-    [ "PrepareAuraScript", "db/d46/a20109.html#a788480ec4aaa57e643f55daca17c6ded", null ],
-    [ "Register", "db/d46/a20109.html#a63a3e30704b282a430dcdbb9073a66df", null ],
-    [ "Validate", "db/d46/a20109.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
+    [ "go_celestial_planetarium_accessAI", "db/d46/a20109.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
+    [ "GossipHello", "db/d46/a20109.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
+    [ "UpdateAI", "db/d46/a20109.html#a9b2bfb74a12e3258476387fc78cde574", null ],
+    [ "_locked", "db/d46/a20109.html#a37f83dbbb05e461d613a4c38001f785c", null ],
+    [ "events", "db/d46/a20109.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
 ];

@@ -1,10 +1,9 @@
 var a17945 =
 [
-    [ "npc_gunship_gunnerAI", "d3/dfe/a17945.html#a3001e77b4a20feb0eee5a9605f13ba81", null ],
-    [ "AttackStart", "d3/dfe/a17945.html#ac21b90c1892c15882794384517ef9fd2", null ],
-    [ "CanAIAttack", "d3/dfe/a17945.html#aef351305ef34fa316809697125a3bc9a", null ],
-    [ "MovementInform", "d3/dfe/a17945.html#a94d81b882dd59dd00b0952b45d61a7cb", null ],
-    [ "UpdateAI", "d3/dfe/a17945.html#a8fbb601c3accdf3b0494d317bc0d5733", null ],
-    [ "anyValid", "d3/dfe/a17945.html#a00c7dc23618c60826241133a0067c1c4", null ],
-    [ "checkTimer", "d3/dfe/a17945.html#af80cee9c2c86fa8b4c643d262042ba3c", null ]
+    [ "FilterTargetsInitial", "d3/dfe/a17945.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
+    [ "FilterTargetsSubsequent", "d3/dfe/a17945.html#a11732039155235c287757980129d5a8e", null ],
+    [ "Load", "d3/dfe/a17945.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
+    [ "PrepareSpellScript", "d3/dfe/a17945.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
+    [ "Register", "d3/dfe/a17945.html#a56a4e65df08a95fddde75162358155c2", null ],
+    [ "_target", "d3/dfe/a17945.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
 ];

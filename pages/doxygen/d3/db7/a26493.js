@@ -1,6 +1,7 @@
 var a26493 =
 [
-    [ "HandleAfterCast", "d3/db7/a26493.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "d3/db7/a26493.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "d3/db7/a26493.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "HandleKnockBack", "d3/db7/a26493.html#a860fb74000a42a7d6f22d17dde93cdf6", null ],
+    [ "PrepareSpellScript", "d3/db7/a26493.html#ab951d6403188f178f79311cead8a0a8f", null ],
+    [ "Register", "d3/db7/a26493.html#ac62f4fdf003cdd53650fe632b3ed3ef1", null ],
+    [ "Validate", "d3/db7/a26493.html#add1bd8f583772d4dfeb20f01b9fac8ed", null ]
 ];

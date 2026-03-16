@@ -1,6 +1,7 @@
 var a27113 =
 [
-    [ "go_l70_etc_musicAI", "d6/d10/a27113.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
-    [ "UpdateAI", "d6/d10/a27113.html#a182a5a9bbe53ced25740de9a4a368469", null ],
-    [ "_events", "d6/d10/a27113.html#aa0cda672b4491b3cfc75214038aa2132", null ]
+    [ "HandleDummy", "d6/d10/a27113.html#ad2367c1fd551187b6f19f795abb15ea6", null ],
+    [ "PrepareSpellScript", "d6/d10/a27113.html#a125f7550ce826f74ac14902bc82d5021", null ],
+    [ "Register", "d6/d10/a27113.html#a35e9132e2414383caafbde699de6061d", null ],
+    [ "Validate", "d6/d10/a27113.html#a530489a10287a6dd281d518683b1a3f3", null ]
 ];

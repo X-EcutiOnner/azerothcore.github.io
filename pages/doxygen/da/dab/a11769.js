@@ -1,7 +1,6 @@
 var a11769 =
 [
-    [ "StringTransaction", "da/dab/a11769.html#aef82d603733e7cb0636d95abea9e6cdc", null ],
-    [ "Append", "da/dab/a11769.html#a0d1d9db61a1b3658c3d0fde37e2a4c5e", null ],
-    [ "GetBuffer", "da/dab/a11769.html#a7cb52c3e029cdb971dfbb4048ade25a0", null ],
-    [ "_buf", "da/dab/a11769.html#a4ec7dd27d7a2321cd1cead11ca78c1ef", null ]
+    [ "CheckAreaTargetHandler", "da/dab/a11769.html#a641b633e37079949c8b1b71a32f4222e", null ],
+    [ "Call", "da/dab/a11769.html#ab434cb7ba8927c16e2b63c2ad8ae9a25", null ],
+    [ "pHandlerScript", "da/dab/a11769.html#a7c1e677d10a89ea7f1ea06f8de10e0f9", null ]
 ];

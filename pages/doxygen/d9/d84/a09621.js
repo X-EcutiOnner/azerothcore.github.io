@@ -1,8 +1,9 @@
 var a09621 =
 [
-    [ "LocalizedPacketDo", "d9/d84/a09621.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
-    [ "~LocalizedPacketDo", "d9/d84/a09621.html#a4296260b2011e1f7c300987073863ca9", null ],
-    [ "operator()", "d9/d84/a09621.html#a43449bdf0302e426b8cb4341326196b1", null ],
-    [ "i_builder", "d9/d84/a09621.html#a2c794905898feb502bfc5d3760f962b8", null ],
-    [ "i_data_cache", "d9/d84/a09621.html#a2bbff655e1a5268981c48e3ee028b104", null ]
+    [ "AnyFriendlyUnitInObjectRangeCheck", "d9/d84/a09621.html#a4ed3a469f35cb7b64ad5f144281b7910", null ],
+    [ "operator()", "d9/d84/a09621.html#a6e1026191fd4b1b45696a60f45b1b7b8", null ],
+    [ "i_funit", "d9/d84/a09621.html#a9ebd1a1d9716dfda55509396947c1a83", null ],
+    [ "i_obj", "d9/d84/a09621.html#adacade7450b0af19540ea705e1bd438b", null ],
+    [ "i_playerOnly", "d9/d84/a09621.html#a6b0d852333ee74a20281ce7de5a45b98", null ],
+    [ "i_range", "d9/d84/a09621.html#a2af638499152888a698b0fc1570e46ed", null ]
 ];

@@ -1,9 +1,6 @@
 var a19969 =
 [
-    [ "CheckTargets", "da/dd3/a19969.html#a9340c167ef70508635092e273c23dcde", null ],
-    [ "CountTargets", "da/dd3/a19969.html#a996db37b678143fbc0a392032d29fff5", null ],
-    [ "Load", "da/dd3/a19969.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
-    [ "PrepareSpellScript", "da/dd3/a19969.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
-    [ "Register", "da/dd3/a19969.html#aed312a4408134589fd02bbcb844fd1b7", null ],
-    [ "_targetCount", "da/dd3/a19969.html#ac780614674e748274081f9f99a5165fe", null ]
+    [ "CalculateDamage", "da/dd3/a19969.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "da/dd3/a19969.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "da/dd3/a19969.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

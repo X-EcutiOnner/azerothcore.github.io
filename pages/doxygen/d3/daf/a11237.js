@@ -1,9 +1,6 @@
 var a11237 =
 [
-    [ "TotemCreated", "d3/daf/a11237.html#a24c9e483d1edb526330311c719d750df", null ],
-    [ "Write", "d3/daf/a11237.html#a554900ae7442f00a63c983ea7ea74510", null ],
-    [ "Duration", "d3/daf/a11237.html#aff6335b86ac051bccb623124905c7180", null ],
-    [ "Slot", "d3/daf/a11237.html#a0889c816fbef728f1a0a6c530c801eac", null ],
-    [ "SpellID", "d3/daf/a11237.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
-    [ "Totem", "d3/daf/a11237.html#a684d15c5368e8065c78e9320eebb676b", null ]
+    [ "Hello", "d3/daf/a11237.html#ad5db4a2f7844da17680932ef154f6ecc", null ],
+    [ "Read", "d3/daf/a11237.html#a23da60884c312ba0c4da2aeba3385b53", null ],
+    [ "Unit", "d3/daf/a11237.html#a611072003e33b830146fa158646e8ac5", null ]
 ];

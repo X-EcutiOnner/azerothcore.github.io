@@ -1,8 +1,8 @@
 var a26101 =
 [
-    [ "HandleApplyEffect", "db/df9/a26101.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
-    [ "Load", "db/df9/a26101.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
-    [ "PrepareAuraScript", "db/df9/a26101.html#a6e212284f72320356cfa2f0c2a59999d", null ],
-    [ "Register", "db/df9/a26101.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
-    [ "Validate", "db/df9/a26101.html#a985a52f71371443454d6dd36f7fe83b2", null ]
+    [ "HandleDummy", "db/df9/a26101.html#a60a374efc8b47bfdd8ffded2ff1e10d1", null ],
+    [ "Load", "db/df9/a26101.html#a9ecd5d24b96d1cde3ad07e76992f5e1f", null ],
+    [ "PrepareSpellScript", "db/df9/a26101.html#ad4605cd07b702a660556a8150b44c621", null ],
+    [ "Register", "db/df9/a26101.html#a9cc594c2b85156f1482398af6d0bca5b", null ],
+    [ "Validate", "db/df9/a26101.html#a954ae38fd04985b9851a09b416ba59bc", null ]
 ];

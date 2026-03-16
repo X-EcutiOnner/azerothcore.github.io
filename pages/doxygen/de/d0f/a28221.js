@@ -1,8 +1,6 @@
 var a28221 =
 [
-    [ "ClassMask", "de/d0f/a28221.html#a563ba1618ffefa5470696e37f65c70d4", null ],
-    [ "Flags", "de/d0f/a28221.html#af89c32a22f018557fe016e0784a82384", null ],
-    [ "RaceMask", "de/d0f/a28221.html#acff47bf5c075d669f95b0d229674f9bc", null ],
-    [ "SkillID", "de/d0f/a28221.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
-    [ "SkillTierID", "de/d0f/a28221.html#ab6153043461b71336e12b00957499075", null ]
+    [ "go_midsummer_musicAI", "da/d58/a28225.html", "da/d58/a28225" ],
+    [ "go_midsummer_music", "de/d0f/a28221.html#a39c38fc78b47b16be9eebee0ccd5041d", null ],
+    [ "GetAI", "de/d0f/a28221.html#a1baf09bdbf67c0a85219454c1cd61d2b", null ]
 ];

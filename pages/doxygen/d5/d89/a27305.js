@@ -1,10 +1,7 @@
 var a27305 =
 [
-    [ "npc_prof_blacksmith", "d5/d89/a27305.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
-    [ "HasWeaponSub", "d5/d89/a27305.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
-    [ "OnGossipHello", "d5/d89/a27305.html#a9a432c1ec33578949110c877fc6a686d", null ],
-    [ "OnGossipSelect", "d5/d89/a27305.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
-    [ "SendActionMenu", "d5/d89/a27305.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
-    [ "SendConfirmLearn", "d5/d89/a27305.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
-    [ "SendConfirmUnlearn", "d5/d89/a27305.html#a851dc241d944bc888a00df85bff17e3a", null ]
+    [ "HandleEffectPeriodic", "d5/d89/a27305.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
+    [ "PrepareAuraScript", "d5/d89/a27305.html#ae151331af09510cc91b63b65a30bdcbf", null ],
+    [ "Register", "d5/d89/a27305.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
+    [ "Validate", "d5/d89/a27305.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
 ];

@@ -1,6 +1,10 @@
 var a10473 =
 [
-    [ "LootScript", "d5/de8/a10473.html#a57fd5dffc97f62a595f0ff4c2856dbd4", null ],
-    [ "IsDatabaseBound", "d5/de8/a10473.html#ad60b605eac89be48efd339127e9cb9cd", null ],
-    [ "OnLootMoney", "d5/de8/a10473.html#a56a57baead49f6815a9979b181a55375", null ]
+    [ "AchievementScript", "d5/de8/a10473.html#a85f0d7a676e7e31bc87ca64040b29489", null ],
+    [ "CanCheckCriteria", "d5/de8/a10473.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
+    [ "IsCompletedCriteria", "d5/de8/a10473.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
+    [ "IsDatabaseBound", "d5/de8/a10473.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
+    [ "IsRealmCompleted", "d5/de8/a10473.html#abc54c295c1bcad45e21aed99e43a3713", null ],
+    [ "OnBeforeCheckCriteria", "d5/de8/a10473.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
+    [ "SetRealmCompleted", "d5/de8/a10473.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
 ];

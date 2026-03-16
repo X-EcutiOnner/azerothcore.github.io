@@ -1,9 +1,7 @@
 var a17961 =
 [
-    [ "CheckAreaTarget", "d6/d45/a17961.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
-    [ "HandleApply", "d6/d45/a17961.html#a9ce86d32957af07313af379b4176d0b3", null ],
-    [ "HandleRemove", "d6/d45/a17961.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
-    [ "Load", "d6/d45/a17961.html#aa10821981f3e80262850e5c46449d5d0", null ],
-    [ "PrepareAuraScript", "d6/d45/a17961.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
-    [ "Register", "d6/d45/a17961.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
+    [ "npc_icc_blood_beastAI", "d6/d45/a17961.html#af52eff9f66451444c5acba6930c1bff6", null ],
+    [ "DoAction", "d6/d45/a17961.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
+    [ "UpdateAI", "d6/d45/a17961.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
+    [ "timer1", "d6/d45/a17961.html#a1074059162f818088808795119f081be", null ]
 ];

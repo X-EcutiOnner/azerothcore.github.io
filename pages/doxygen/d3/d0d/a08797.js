@@ -1,11 +1,5 @@
 var a08797 =
 [
-    [ "UnitActionBarEntry", "d3/d0d/a08797.html#a41f9020c4811b14fc543ddece6af86d7", null ],
-    [ "GetAction", "d3/d0d/a08797.html#afd77e2f64ec856059759d05ddf77876e", null ],
-    [ "GetType", "d3/d0d/a08797.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
-    [ "IsActionBarForSpell", "d3/d0d/a08797.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
-    [ "SetAction", "d3/d0d/a08797.html#aa00953783b0b3de3beb755a054c77730", null ],
-    [ "SetActionAndType", "d3/d0d/a08797.html#a110840d38445795957ee0425175b4fb6", null ],
-    [ "SetType", "d3/d0d/a08797.html#a38e0dcad391d09e475f90be5a5382f78", null ],
-    [ "packedData", "d3/d0d/a08797.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
+    [ "PlayerLevelInfo", "d3/d0d/a08797.html#af0d716577a3645fe1cef95968382ec80", null ],
+    [ "stats", "d3/d0d/a08797.html#a796af7d07604474adebf5a6f3518ca30", null ]
 ];

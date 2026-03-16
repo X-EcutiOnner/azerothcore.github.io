@@ -1,10 +1,10 @@
 var a24617 =
 [
-    [ "HandleEffectApply", "d2/db0/a24617.html#ac977d07e0b054af33345538f10d80c56", null ],
-    [ "HandleEffectRemove", "d2/db0/a24617.html#acd9c460acb60eae5db8874c246014147", null ],
-    [ "PrepareAuraScript", "d2/db0/a24617.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
-    [ "Register", "d2/db0/a24617.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
-    [ "_hasFlag", "d2/db0/a24617.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
-    [ "_itemId", "d2/db0/a24617.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
-    [ "_modelId", "d2/db0/a24617.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
+    [ "HandleEffectRemove", "d2/db0/a24617.html#a3b43cfcbbfa8fdbf170c76dd12b72074", null ],
+    [ "HandleImprovedBloodPresence", "d2/db0/a24617.html#a020c0ae1f74856ae070ab2104232a079", null ],
+    [ "HandleImprovedFrostPresence", "d2/db0/a24617.html#a262bfd40ee2f2d8ed793f999f660ba28", null ],
+    [ "HandleImprovedUnholyPresence", "d2/db0/a24617.html#a5da86bb3686327787da5f46fc756f0a0", null ],
+    [ "PrepareAuraScript", "d2/db0/a24617.html#a96453bb078359e46665e0eaa2a6cf6d1", null ],
+    [ "Register", "d2/db0/a24617.html#a6534d2b5bca9a50830d20b08bfc1b84e", null ],
+    [ "Validate", "d2/db0/a24617.html#afc23187a3a6dd48f2ad84ef354e36f3a", null ]
 ];

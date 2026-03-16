@@ -1,12 +1,6 @@
 var a12561 =
 [
-    [ "go_suppression_deviceAI", "df/d14/a12561.html#a32767442eeabab896032333e42d3e496", null ],
-    [ "Activate", "df/d14/a12561.html#aa52ca9fb60793e33ae3fe911cd4be379", null ],
-    [ "Deactivate", "df/d14/a12561.html#aec459270ff4965b79430c5bb66cb18f6", null ],
-    [ "DoAction", "df/d14/a12561.html#a60bcafdf76e6735756a43c780bda7baf", null ],
-    [ "InitializeAI", "df/d14/a12561.html#a1dd83a1e393ef47d8bd4917aff5df13f", null ],
-    [ "UpdateAI", "df/d14/a12561.html#afaa70c968a0994fbcd01dd40b6d060a5", null ],
-    [ "_active", "df/d14/a12561.html#a00fb57e180148622e564712611705218", null ],
-    [ "_events", "df/d14/a12561.html#a0c6436834b4aca4bed2a8361941c553c", null ],
-    [ "_instance", "df/d14/a12561.html#a69dbc36ce80cf12cdcee5c42fe4f0a72", null ]
+    [ "boss_overlordwyrmthalakAI", "df/d49/a12565.html", "df/d49/a12565" ],
+    [ "boss_overlord_wyrmthalak", "df/d14/a12561.html#a2af6edf776c189d43cb82cc35bb838fe", null ],
+    [ "GetAI", "df/d14/a12561.html#a56de538f25cbabc9346b987dbfe680a1", null ]
 ];

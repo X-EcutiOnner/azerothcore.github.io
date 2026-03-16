@@ -1,8 +1,7 @@
 var a19509 =
 [
-    [ "HandleAfterCast", "db/d16/a19509.html#ac816f81a668ac3018be8f5dc4698039b", null ],
-    [ "HandleDummy", "db/d16/a19509.html#a3009faa525c22779a0b2534b96821cfd", null ],
-    [ "PrepareSpellScript", "db/d16/a19509.html#aca38f23f080314ab73ec2494bf877716", null ],
-    [ "Register", "db/d16/a19509.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
-    [ "Validate", "db/d16/a19509.html#af945e399992deb3aef5c81ad393ee50f", null ]
+    [ "FilterTargets", "db/d16/a19509.html#a56ff062a6014099623466145a66284cc", null ],
+    [ "PrepareSpellScript", "db/d16/a19509.html#aa14623bb948ff457e52979facf74ffab", null ],
+    [ "Register", "db/d16/a19509.html#a9494bea35088161c9a520395d714fde1", null ],
+    [ "Validate", "db/d16/a19509.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
 ];

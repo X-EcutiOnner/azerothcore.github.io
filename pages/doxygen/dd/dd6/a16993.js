@@ -1,6 +1,8 @@
 var a16993 =
 [
-    [ "OnPeriodic", "dd/dd6/a16993.html#a6f2e191d76f894517aed395866b7e508", null ],
-    [ "PrepareAuraScript", "dd/dd6/a16993.html#a571ee1c735b6095408973bfe5f91bcf7", null ],
-    [ "Register", "dd/dd6/a16993.html#a6094dc303c034e49fb4e543874db080b", null ]
+    [ "npc_toc_pet_warlockAI", "dd/dd6/a16993.html#a0f4128d5fd7a855f1fb2870465bc1ce7", null ],
+    [ "EnterEvadeMode", "dd/dd6/a16993.html#a62219f63e82fc67f63db2cbd713647a0", null ],
+    [ "myCanCast", "dd/dd6/a16993.html#a81607ebd90d8f511bb18b03ff497d9eb", null ],
+    [ "UpdateAI", "dd/dd6/a16993.html#a05a150e01f519675ac7b69d3c2a97ed4", null ],
+    [ "events", "dd/dd6/a16993.html#a8edadebd7e6660041233a24fb07173bf", null ]
 ];

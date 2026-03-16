@@ -1,6 +1,7 @@
 var a25045 =
 [
-    [ "PrepareSpellScript", "d1/d61/a25045.html#abb178100d4e5fa4032118f86aa34127d", null ],
-    [ "Register", "d1/d61/a25045.html#a50e902cc281b909259097a8bed5651f2", null ],
-    [ "RemoveVehicleAuras", "d1/d61/a25045.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
+    [ "CheckProc", "d1/d61/a25045.html#ab376febda606dba5e9f7f5639f867859", null ],
+    [ "HandleProc", "d1/d61/a25045.html#aa8dac7f0a238f6f131553cbc7a142594", null ],
+    [ "PrepareAuraScript", "d1/d61/a25045.html#a7693a86824050ff5615996d0d03d0292", null ],
+    [ "Register", "d1/d61/a25045.html#a458745913288889f687bb19a147cb0fb", null ]
 ];

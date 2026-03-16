@@ -1,10 +1,12 @@
 var a30065 =
 [
-    [ "attackSpeed", "da/de5/a30065.html#a3ed307380e02b4fd94d5270b223b3cd1", null ],
-    [ "creatureType", "da/de5/a30065.html#ad6fed69c6a454cb8b5dc485c9bdf2a9c", null ],
-    [ "flags1", "da/de5/a30065.html#aff9bcd8c0bcc91b237ae9cced99beda2", null ],
-    [ "ID", "da/de5/a30065.html#a44ec31a0e9a853e9e62c8c755f226853", null ],
-    [ "modelID_A", "da/de5/a30065.html#a137e83bf250ed8ceac7ad362044d0a55", null ],
-    [ "modelID_H", "da/de5/a30065.html#a0f1c32f6dbf9397eb2349ab4fb1aa8f8", null ],
-    [ "stanceSpell", "da/de5/a30065.html#a18f4d6a3a157eab436fa5790b6eeb520", null ]
+    [ "Model", "da/de5/a30065.html#ae102b5fc584185113e89fb7b39a72bd1", null ],
+    [ "~Model", "da/de5/a30065.html#ad6ebd2062a0b823db841a0b88baac4c0", null ],
+    [ "_unload", "da/de5/a30065.html#a9b02ed73fa006bc057157b636029ab6f", null ],
+    [ "ConvertToVMAPModel", "da/de5/a30065.html#ae6fd5d754d9a880359b8afaf50c5753e", null ],
+    [ "open", "da/de5/a30065.html#a6ed3a71ff468f5acaccc61f5c2c87a0e", null ],
+    [ "filename", "da/de5/a30065.html#a4c43746e9c460e29cabd1ba2db6ba222", null ],
+    [ "header", "da/de5/a30065.html#a2f6e66bbf4acc662d73e8fe8e5a0e085", null ],
+    [ "indices", "da/de5/a30065.html#a3b61d3316481e7b9c38bf50806ebded6", null ],
+    [ "vertices", "da/de5/a30065.html#a1af9857df4d0e16ab9940846300fa8fe", null ]
 ];

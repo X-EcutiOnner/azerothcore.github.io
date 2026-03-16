@@ -1,15 +1,10 @@
 var a19417 =
 [
-    [ "boss_loathebAI", "da/d14/a19417.html#a60256114947b0e9c01f5308108485935", null ],
-    [ "IsInRoom", "da/d14/a19417.html#a617d45ab3bde4184aa31c1b2c70c1a6f", null ],
-    [ "JustDied", "da/d14/a19417.html#acf24e563d4876fb9f899a4250b19b6f5", null ],
-    [ "JustEngagedWith", "da/d14/a19417.html#a1abcf157e05eeb634f8e857a2de35538", null ],
-    [ "JustSummoned", "da/d14/a19417.html#a8a28f9fe6c087c230103d1139ddb73dc", null ],
-    [ "KilledUnit", "da/d14/a19417.html#a4dac78bba24069050dd9df729dd58b45", null ],
-    [ "Reset", "da/d14/a19417.html#a709a4c2fe45fd757ecae6afa402e4728", null ],
-    [ "SummonedCreatureDies", "da/d14/a19417.html#aeddc6bd981a13ec133e5481b36668b0e", null ],
-    [ "UpdateAI", "da/d14/a19417.html#ab009008f892493b822e5ea5491c58525", null ],
-    [ "doomCounter", "da/d14/a19417.html#aed5c631ede2eea27451a74ae21221325", null ],
-    [ "events", "da/d14/a19417.html#adc49463bbe227f892e31716516032c64", null ],
-    [ "summons", "da/d14/a19417.html#a37ef117714403002afb4faa4978f136b", null ]
+    [ "boss_isle_of_conquestAI", "da/d14/a19417.html#a7880ea86e7a03f5b14875065a83a206a", null ],
+    [ "CheckRageBuff", "da/d14/a19417.html#a6d60480e39fa89dbcc0facce9f0b69a3", null ],
+    [ "JustEngagedWith", "da/d14/a19417.html#a878635ef0673325943e6026ad76c2b06", null ],
+    [ "Reset", "da/d14/a19417.html#add59669e5f6c3c882ac008c720349573", null ],
+    [ "UpdateAI", "da/d14/a19417.html#ab33aa7e735c5837428a4cf2b76e4275e", null ],
+    [ "events", "da/d14/a19417.html#a38e308b66b0f35d3efe6916b03e4391c", null ],
+    [ "rage", "da/d14/a19417.html#aa16ebdd6e2f486d3a6e4b58f4cb5e696", null ]
 ];

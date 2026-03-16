@@ -1,7 +1,11 @@
 var a28525 =
 [
-    [ "asyncId", "db/d4a/a28525.html#afd18849875b4562e4a532903676ce25d", null ],
-    [ "flags", "db/d4a/a28525.html#a9b9c3cec4acbd87911aa047dd52ae443", null ],
-    [ "offsMCNK", "db/d4a/a28525.html#a063c5dc62c44038e882340221bf8228a", null ],
-    [ "size", "db/d4a/a28525.html#a47a5eeb595d53de009651ae02d2b416d", null ]
+    [ "npc_injured_patientAI", "db/d4a/a28525.html#a0973487623f1771c598648bc06a6d9a3", null ],
+    [ "JustEngagedWith", "db/d4a/a28525.html#a621a8cc3f6b9655760431d52766ca589", null ],
+    [ "Reset", "db/d4a/a28525.html#a007c9c7a4047374574cad17e9309d7c1", null ],
+    [ "SpellHit", "db/d4a/a28525.html#ac9381e7c958348ae7a5e98fea7dcbe37", null ],
+    [ "UpdateAI", "db/d4a/a28525.html#a54d0a5574175747779878dce0ebfd44f", null ],
+    [ "_scheduler", "db/d4a/a28525.html#a60428fa97c8f6520338d53ed368c4c35", null ],
+    [ "Coord", "db/d4a/a28525.html#af5a6f87c0379edd07a8756018b0c8661", null ],
+    [ "DoctorGUID", "db/d4a/a28525.html#ad1de0d556a784aa16d87b8367fdb38e3", null ]
 ];

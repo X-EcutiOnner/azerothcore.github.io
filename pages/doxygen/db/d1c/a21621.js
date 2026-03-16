@@ -1,6 +1,7 @@
 var a21621 =
 [
-    [ "SACDeactivateEvent", "db/d1c/a21621.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
-    [ "Execute", "db/d1c/a21621.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
-    [ "_owner", "db/d1c/a21621.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
+    [ "HandleEffectHit", "db/d1c/a21621.html#a8d7dd2411c3b786e682260eb30862602", null ],
+    [ "PrepareSpellScript", "db/d1c/a21621.html#a49b6d005013e480f8161779119bc9b2d", null ],
+    [ "Register", "db/d1c/a21621.html#a017ae25fead98a5c18cdb83128085ddd", null ],
+    [ "Validate", "db/d1c/a21621.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
 ];

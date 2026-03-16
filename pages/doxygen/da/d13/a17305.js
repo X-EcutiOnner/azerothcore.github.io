@@ -1,7 +1,6 @@
 var a17305 =
 [
-    [ "UtherBatteredHiltEvent", "da/d13/a17305.html#a7bb34b75a3e371260a231aea72f75b40", null ],
-    [ "Execute", "da/d13/a17305.html#ad2eb37877155b6dbc9916338e30d0306", null ],
-    [ "_eventId", "da/d13/a17305.html#a5045e057b2c5d468aa579751d2c799b8", null ],
-    [ "_owner", "da/d13/a17305.html#a588974708f4a48f5a7b097a63a0c0899", null ]
+    [ "instance_forge_of_souls_InstanceScript", "d8/df9/a17309.html", "d8/df9/a17309" ],
+    [ "instance_forge_of_souls", "da/d13/a17305.html#a504896f6e191c87ce77231c4ef267b27", null ],
+    [ "GetInstanceScript", "da/d13/a17305.html#a64982b527cfa6057315b8e628549480b", null ]
 ];

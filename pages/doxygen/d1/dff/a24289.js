@@ -1,6 +1,7 @@
 var a24289 =
 [
-    [ "HandleAfterCast", "d1/dff/a24289.html#aaa65e67362ded5318e89272acf073bf3", null ],
-    [ "PrepareSpellScript", "d1/dff/a24289.html#a7d0dd936965845c14e7b54846facdb89", null ],
-    [ "Register", "d1/dff/a24289.html#ab7b767743d62d9763bea710b7552a8cf", null ]
+    [ "HandlePeriodic", "d1/dff/a24289.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
+    [ "PrepareAuraScript", "d1/dff/a24289.html#a58dc6668172d046cef3046649928c124", null ],
+    [ "Register", "d1/dff/a24289.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
+    [ "Validate", "d1/dff/a24289.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
 ];

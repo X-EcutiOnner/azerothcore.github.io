@@ -1,10 +1,14 @@
 var a04772 =
 [
-    [ "AccountFlagText", "df/d96/a12198.html", "df/d96/a12198" ],
-    [ "misc_commandscript", "d2/db3/a12202.html", "d2/db3/a12202" ],
-    [ "AddSC_misc_commandscript", "d0/d95/a04772.html#ac722d20c86b9502b7c4c8ae711cc3917", null ],
-    [ "GetLocalizeCreatureName", "d0/d95/a04772.html#aaedbdfd3cae227b11684151f41e3b977", null ],
-    [ "accountFlagText", "d0/d95/a04772.html#a704344ab0c20d3674c76d1dcf177ec9a", null ],
-    [ "SPELL_FREEZE", "d0/d95/a04772.html#a181bdc61e4eb1d21db975ca0227cb086", null ],
-    [ "SPELL_STUCK", "d0/d95/a04772.html#a1706df7feb0ef4f693c388033ace5fb7", null ]
+    [ "NpcFlagText", "d9/d6b/a12197.html", "d9/d6b/a12197" ],
+    [ "MechanicImmune", "d2/df3/a12201.html", "d2/df3/a12201" ],
+    [ "SpellSchoolImmune", "de/ddc/a12205.html", "de/ddc/a12205" ],
+    [ "npc_commandscript", "d5/d8c/a12209.html", "d5/d8c/a12209" ],
+    [ "NPCFLAG_COUNT", "d0/d95/a04772.html#afc1ed6083684621f30fbabb23d2986c0", null ],
+    [ "CreatureEntry", "d0/d95/a04772.html#a220449830f7fe293c9d82dcd3b84acd9", null ],
+    [ "CreatureSpawnId", "d0/d95/a04772.html#a5e5fd5f7a85fd4ad7fe92f2125f17acc", null ],
+    [ "AddSC_npc_commandscript", "d0/d95/a04772.html#ae99689f5e8e57f75adfcf54370ed979d", null ],
+    [ "mechanicImmunes", "d0/d95/a04772.html#a9e8359f68aec0f69f42fe7aee7934859", null ],
+    [ "npcFlagTexts", "d0/d95/a04772.html#a048bdd249b6deeed66fba6bad126b30b", null ],
+    [ "spellSchoolImmunes", "d0/d95/a04772.html#a8708a11856730666b04e749bc0952c8f", null ]
 ];

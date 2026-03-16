@@ -1,8 +1,13 @@
 var a09465 =
 [
-    [ "AnyUnfriendlyUnitInObjectRangeCheck", "de/df5/a09465.html#a2d83b68a7991d3b3dc2355ecde1efa5d", null ],
-    [ "operator()", "de/df5/a09465.html#a5b02b45b937d6b2b0b141967c70f93d9", null ],
-    [ "i_funit", "de/df5/a09465.html#a55222acf6dbb538a213eb604f67f40ce", null ],
-    [ "i_obj", "de/df5/a09465.html#a5d7e5e8898bd092c1055739fae82f693", null ],
-    [ "i_range", "de/df5/a09465.html#aa1c728ceea2ddc2e88ea07132a3fe250", null ]
+    [ "MessageDistDelivererToHostile", "de/df5/a09465.html#a4e1642660288eeb46867d4e19944cc78", null ],
+    [ "SendPacket", "de/df5/a09465.html#aced79e7b19918408fa4d81667fbeb7f0", null ],
+    [ "Visit", "de/df5/a09465.html#af9c5269b0266e9e28a70118e62d25e58", null ],
+    [ "Visit", "de/df5/a09465.html#a224eeb339614d7a9f5e43d498b245958", null ],
+    [ "Visit", "de/df5/a09465.html#a304c0be3c55bd2817abeaa1d53563a27", null ],
+    [ "Visit", "de/df5/a09465.html#ae2a44055a4363eeff81a799b8a93d74d", null ],
+    [ "i_distSq", "de/df5/a09465.html#a0fc7e00f191801869c3fd8eeae032af8", null ],
+    [ "i_message", "de/df5/a09465.html#ae10ac98c489ec48ed49daf835e7a361d", null ],
+    [ "i_phaseMask", "de/df5/a09465.html#a0a932cd193e847ee0cfddae0946e39d1", null ],
+    [ "i_source", "de/df5/a09465.html#a174aade6dc85233e8481a452f800ec0e", null ]
 ];

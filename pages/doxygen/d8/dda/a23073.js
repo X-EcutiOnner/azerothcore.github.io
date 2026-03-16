@@ -1,10 +1,11 @@
 var a23073 =
 [
-    [ "Spells", "d8/dda/a23073.html#a70ca1841fb1db54e6f76b96331e05cf1", [
-      [ "SPELL_GROW", "d8/dda/a23073.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
-      [ "SPELL_SPORE_CLOUD", "d8/dda/a23073.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
-    ] ],
-    [ "npc_rancid_mushroom", "d8/dda/a23073.html#a15896957b94de57de9eda5a199a05d4c", null ],
-    [ "InitializeAI", "d8/dda/a23073.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
-    [ "UpdateAI", "d8/dda/a23073.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
+    [ "boss_doomlordkazzakAI", "d8/dda/a23073.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
+    [ "JustDied", "d8/dda/a23073.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
+    [ "JustEngagedWith", "d8/dda/a23073.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
+    [ "JustRespawned", "d8/dda/a23073.html#a174912c149657f4d88446f4ac0631598", null ],
+    [ "KilledUnit", "d8/dda/a23073.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
+    [ "Reset", "d8/dda/a23073.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
+    [ "UpdateAI", "d8/dda/a23073.html#a28a0a8345fcd5411491409854acef729", null ],
+    [ "_inBerserk", "d8/dda/a23073.html#a996d17128aca96c00c8416957ebc24d0", null ]
 ];

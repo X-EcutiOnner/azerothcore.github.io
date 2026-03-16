@@ -1,10 +1,7 @@
 var a10321 =
 [
-    [ "Flags", "d7/d59/a10321.html#abf9c2701e766951e5a211bf6bf85b175", null ],
-    [ "ID", "d7/d59/a10321.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
-    [ "needSave", "d7/d59/a10321.html#aae888b1bf10f654ee212f3d687c111e9", null ],
-    [ "needSend", "d7/d59/a10321.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
-    [ "ReputationListID", "d7/d59/a10321.html#a052caeeae1ecdca831097591e0fddaf6", null ],
-    [ "roundedUp", "d7/d59/a10321.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
-    [ "Standing", "d7/d59/a10321.html#ae87da6cada559e11a9607e194013d671", null ]
+    [ "CommonInitializer", "d7/d59/a10321.html#ab472ff63e0178a3414630f743d4de906", null ],
+    [ "operator()", "d7/d59/a10321.html#aba4cce84b89416f54a0a25b1702a322c", null ],
+    [ "_time", "d7/d59/a10321.html#a483d83836ccbe90a842c09f7d4906436", null ],
+    [ "velocityInv", "d7/d59/a10321.html#ac2f731afc2aae338bb8b1b616b0a39c1", null ]
 ];

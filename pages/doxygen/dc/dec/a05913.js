@@ -1,7 +1,10 @@
 var a05913 =
 [
-    [ "ToString", "dc/dec/a05913.html#a252569604d54dedfbe28b320911aa7b7", null ],
-    [ "ToString", "dc/dec/a05913.html#ab114258f0dc260983aceea6ca63c1a5c", null ],
-    [ "ToString", "dc/dec/a05913.html#a61c3f0b723ff92ab388b5cd27cea3151", null ],
-    [ "data", "dc/dec/a05913.html#ac0fb35a34d9ef399f00ab0bb146afd18", null ]
+    [ "FreezeDetector", "df/d76/a04973.html#gae4bea4699ff716ee22295d12bc9f1b9b", null ],
+    [ "Handler", "df/d76/a04973.html#gad4c4e5b291e0c6c2dc169a7dbffdfabb", null ],
+    [ "Start", "df/d76/a04973.html#ga6a90ff702a8d363bd23334c81e2e5770", null ],
+    [ "_lastChangeMsTime", "df/d76/a04973.html#ga0a2b971b7ea733d846be71abf7b5dc1d", null ],
+    [ "_maxCoreStuckTimeInMs", "df/d76/a04973.html#ga54077eab38ea5d0db27f08c50fd0652e", null ],
+    [ "_timer", "df/d76/a04973.html#ga2377cec7cca6dbb9133a3d48b4d376c3", null ],
+    [ "_worldLoopCounter", "df/d76/a04973.html#ga0ea988a0e070d056c16d7c9f3b1035f4", null ]
 ];

@@ -1,8 +1,8 @@
 var a24005 =
 [
-    [ "CreatureId", "db/dad/a24005.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "db/dad/a24005.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "db/dad/a24005.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "db/dad/a24005.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "db/dad/a24005.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "npc_ancestral_wolfAI", "db/dad/a24005.html#a59ccca7093575f4bcac57a4751d977d4", null ],
+    [ "MoveInLineOfSight", "db/dad/a24005.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
+    [ "Reset", "db/dad/a24005.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
+    [ "WaypointReached", "db/dad/a24005.html#a2b553c29823e5ef888ee02a3ed413386", null ],
+    [ "ryga", "db/dad/a24005.html#ac238214604720e298124b58c35d58e05", null ]
 ];

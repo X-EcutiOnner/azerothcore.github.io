@@ -1,7 +1,11 @@
 var a24981 =
 [
-    [ "HandleDummy", "d6/db7/a24981.html#a9037eddf4c9ce96c15c57e8906bd9a5f", null ],
-    [ "Load", "d6/db7/a24981.html#a738318535196b3d55e8f1b3da4f76c95", null ],
-    [ "PrepareSpellScript", "d6/db7/a24981.html#a941a097124ed9b4917faa18ff23fc366", null ],
-    [ "Register", "d6/db7/a24981.html#aaf9d269e7d052515f31b463999e92cf4", null ]
+    [ "spell_gen_relocaste_dest", "d6/db7/a24981.html#a5b839f3bd5571ff3b23701c0cd862568", null ],
+    [ "PrepareSpellScript", "d6/db7/a24981.html#a135638c19c130f43f7f3c3c14f1d1570", null ],
+    [ "Register", "d6/db7/a24981.html#a9fd403a48ac9cec79fdf4ac485bbaa6a", null ],
+    [ "RelocateDest", "d6/db7/a24981.html#a1efeb8d17fa6f7cfd9d098d7e97381d9", null ],
+    [ "_o", "d6/db7/a24981.html#a31ecfa99e580c8fb828c1a4ee988ac94", null ],
+    [ "_x", "d6/db7/a24981.html#aa0d6afcc49e6fa41b6ae37d16e0c25e5", null ],
+    [ "_y", "d6/db7/a24981.html#a0152bc47b5950546d9e9505512ed842b", null ],
+    [ "_z", "d6/db7/a24981.html#a40136ab0219829dfb0dcfe234aa73af7", null ]
 ];

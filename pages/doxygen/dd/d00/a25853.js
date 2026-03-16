@@ -1,6 +1,6 @@
 var a25853 =
 [
-    [ "OnRemove", "dd/d00/a25853.html#ae1f257e43effcb396d57d42db3063afd", null ],
-    [ "PrepareAuraScript", "dd/d00/a25853.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
-    [ "Register", "dd/d00/a25853.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
+    [ "HandleActivateObject", "dd/d00/a25853.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
+    [ "PrepareSpellScript", "dd/d00/a25853.html#a684079434128bacd3d8b8b71c14dc56a", null ],
+    [ "Register", "dd/d00/a25853.html#a266301f59c809c03d0ccfc48a2ace302", null ]
 ];

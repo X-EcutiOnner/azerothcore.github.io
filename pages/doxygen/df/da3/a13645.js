@@ -1,8 +1,7 @@
 var a13645 =
 [
-    [ "npc_demonic_vapor", "df/da3/a13645.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
-    [ "IsSummonedBy", "df/da3/a13645.html#ace56fe54dc6d3f597df0d1e28924082f", null ],
-    [ "Reset", "df/da3/a13645.html#a7d2b88ab26904cedaac34f03567806bc", null ],
-    [ "UpdateAI", "df/da3/a13645.html#a6637d2d5fc6615c2d76aa0d04c36a047", null ],
-    [ "_timer", "df/da3/a13645.html#ab067f5b9b9f37db4db9ab6e5295e5d52", null ]
+    [ "OnPeriodic", "df/da3/a13645.html#aa48b6f35302a8857465c6567f811dec6", null ],
+    [ "PrepareAuraScript", "df/da3/a13645.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
+    [ "Register", "df/da3/a13645.html#aa7708067531131738b86077638eda7ac", null ],
+    [ "Validate", "df/da3/a13645.html#a665698b54201184185d96bd33f53e584", null ]
 ];

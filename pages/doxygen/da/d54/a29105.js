@@ -1,6 +1,5 @@
 var a29105 =
 [
-    [ "guard_shattrath_aldorAI", "de/d6d/a29109.html", "de/d6d/a29109" ],
-    [ "guard_shattrath_aldor", "da/d54/a29105.html#ab965295d9c3828ad814f658670b5f185", null ],
-    [ "GetAI", "da/d54/a29105.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
+    [ "Id", "da/d54/a29105.html#a79e4b857b811a044aed0ce33422df801", null ],
+    [ "quality_mod", "da/d54/a29105.html#a756e7b316cc365f15f24e5e4637303a6", null ]
 ];

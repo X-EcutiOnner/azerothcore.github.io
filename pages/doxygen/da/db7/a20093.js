@@ -1,7 +1,6 @@
 var a20093 =
 [
-    [ "npc_storm_beacon_spawn", "da/db7/a20093.html#a999b6421a0ef6eec2987716a60352a5e", null ],
-    [ "UpdateAI", "da/db7/a20093.html#a93dbd7a26d6333f18329142280cc743d", null ],
-    [ "_amount", "da/db7/a20093.html#acb5d1f2b6590da32f36882339729c4e9", null ],
-    [ "_checkTimer", "da/db7/a20093.html#a9717b52f26045707fd852b955d29a5e6", null ]
+    [ "npc_collapsing_star", "da/db7/a20093.html#a6660bd7f397d7a3cd7ee5d3580b6bb78", null ],
+    [ "DamageTaken", "da/db7/a20093.html#ad19c1a3c033b0d97fe42c492634f9cd4", null ],
+    [ "JustSummoned", "da/db7/a20093.html#a56e0bb55d903b6e7e5c493292512bebe", null ]
 ];

@@ -1,6 +1,7 @@
 var a24725 =
 [
-    [ "CheckLevel", "d5/d2a/a24725.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
-    [ "PrepareSpellScript", "d5/d2a/a24725.html#abc2bcce83810661ab462f56594066df3", null ],
-    [ "Register", "d5/d2a/a24725.html#add6731563bd9a26d8f286bd29ffc8709", null ]
+    [ "AfterApply", "d5/d2a/a24725.html#aee69eceead7e31cce2638ff252f6653d", null ],
+    [ "AfterRemove", "d5/d2a/a24725.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
+    [ "PrepareAuraScript", "d5/d2a/a24725.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
+    [ "Register", "d5/d2a/a24725.html#ab5f8afbfa688ebd548a5508543498b55", null ]
 ];

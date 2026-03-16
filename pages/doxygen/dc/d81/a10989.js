@@ -1,8 +1,5 @@
 var a10989 =
 [
-    [ "AutoStoreBagItem", "dc/d81/a10989.html#a09e4b117d8789d513a0e766986340140", null ],
-    [ "Read", "dc/d81/a10989.html#a172832ec72012278b000f38d761823b4", null ],
-    [ "DestinationBag", "dc/d81/a10989.html#a7472dfd7ccd78051bc8808832f8e74cb", null ],
-    [ "SourceBag", "dc/d81/a10989.html#a27e27653e6f00869070de7354adff52d", null ],
-    [ "SourceSlot", "dc/d81/a10989.html#a517202ccb270d78289630404beb61afc", null ]
+    [ "SocketEnchantID", "dc/d81/a10989.html#ae682a8405a5fa1c70033d190dde25d99", null ],
+    [ "SocketIndex", "dc/d81/a10989.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
 ];

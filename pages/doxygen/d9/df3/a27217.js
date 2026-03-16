@@ -1,6 +1,9 @@
 var a27217 =
 [
-    [ "go_amberpine_outhouse", "d9/df3/a27217.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
-    [ "OnGossipHello", "d9/df3/a27217.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
-    [ "OnGossipSelect", "d9/df3/a27217.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
+    [ "HandleKnockBack", "d9/df3/a27217.html#acaa8f445874270f34ea5b42a506671db", null ],
+    [ "HandleScript", "d9/df3/a27217.html#a29e47298601cb55c5442a3fa59bb3646", null ],
+    [ "Load", "d9/df3/a27217.html#a45700aba665b601b2c860af5a869d1af", null ],
+    [ "PrepareSpellScript", "d9/df3/a27217.html#aad1c175a2611152278d847ac59f93090", null ],
+    [ "Register", "d9/df3/a27217.html#ad790d435f422fabd128e601fb2dff103", null ],
+    [ "Validate", "d9/df3/a27217.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
 ];

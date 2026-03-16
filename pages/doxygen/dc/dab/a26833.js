@@ -1,13 +1,8 @@
 var a26833 =
 [
-    [ "CheckProc", "dc/dab/a26833.html#abb43619da8154c1c9ebc9d164a2f6dc6", null ],
-    [ "HandleAfterApply", "dc/dab/a26833.html#ac3c12801bde3bd259b573eeca6dc4d5b", null ],
-    [ "HandleApply", "dc/dab/a26833.html#aaa07858f0604965fad5c1189125a822b", null ],
-    [ "HandleProc", "dc/dab/a26833.html#a9fd416a5f8f8a405f40c41b9ef8b734e", null ],
-    [ "HandleRemove", "dc/dab/a26833.html#a3da984d172878110b77549b51409d7e0", null ],
-    [ "Load", "dc/dab/a26833.html#a644aaf343b41f049f34ff7387c613bf1", null ],
-    [ "PrepareAuraScript", "dc/dab/a26833.html#aea23ff608c74017d98edcc146d3ba35a", null ],
-    [ "Register", "dc/dab/a26833.html#a624d09c6f1a177912a1c7cab30d89c7b", null ],
-    [ "Validate", "dc/dab/a26833.html#a34f1b7782dbf2dcc18eb803497104a13", null ],
-    [ "_procTarget", "dc/dab/a26833.html#ac6c81bc1f9008c3861f99f4e89626969", null ]
+    [ "CheckProc", "dc/dab/a26833.html#a9e7b83ffd7e8d5ff4cf3b59cfbc40b0e", null ],
+    [ "HandleProc", "dc/dab/a26833.html#a772385aab5f9917d0d3fb456e0ed55e1", null ],
+    [ "PrepareAuraScript", "dc/dab/a26833.html#a876c1bda52c99c52249444414196b1d4", null ],
+    [ "Register", "dc/dab/a26833.html#a1409e9c24827ee51a83d732bb99dd27b", null ],
+    [ "Validate", "dc/dab/a26833.html#a8e36353d5296c609cbe0ce63db4e7dcb", null ]
 ];

@@ -1,7 +1,6 @@
 var a15917 =
 [
-    [ "DelayedWindstoneSummonEvent", "df/d6a/a15917.html#aa97daf8cf3479395ffd6558b6699436a", null ],
-    [ "Execute", "df/d6a/a15917.html#aa413bc8709bc543b89ffb3df42185475", null ],
-    [ "_playerGUID", "df/d6a/a15917.html#ad83bb6d87b569f59e99abcc16517745b", null ],
-    [ "_summon", "df/d6a/a15917.html#af9804d276da5daebab3a37f2c75301ea", null ]
+    [ "npc_tiger_matriarch_creditAI", "dd/d2c/a15921.html", "dd/d2c/a15921" ],
+    [ "npc_tiger_matriarch_credit", "df/d6a/a15917.html#a9d76e8e808c828da501551025eecd8ea", null ],
+    [ "GetAI", "df/d6a/a15917.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
 ];

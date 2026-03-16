@@ -1,11 +1,11 @@
 var a29505 =
 [
-    [ "_ACORE_REALM_CONFIG", "d6/dd9/a29505.html#a139668c786d564a415e0626b3344dc83", null ],
-    [ "BanExpiryHandler", "d6/dd9/a29505.html#a625d6480b04e88fcbc85e5b8d29502a6", null ],
-    [ "GetConsoleArguments", "d6/dd9/a29505.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "KeepDatabaseAliveHandler", "d6/dd9/a29505.html#a56e4613e7e60d171b9ce45f52758a057", null ],
-    [ "main", "d6/dd9/a29505.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "SignalHandler", "d6/dd9/a29505.html#abb73d9c1332263ddf049505e1b12672d", null ],
-    [ "StartDB", "d6/dd9/a29505.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "d6/dd9/a29505.html#ga927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "IsAvailable", "d6/dd9/a29505.html#adfebd7a162ebae8396669de031c768a6", null ],
+    [ "operator bool", "d6/dd9/a29505.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
+    [ "operator*", "d6/dd9/a29505.html#a24733bf06b4a91abcf4945aa5303a275", null ],
+    [ "operator->", "d6/dd9/a29505.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
+    [ "SecretMgr", "d6/dd9/a29505.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
+    [ "lock", "d6/dd9/a29505.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
+    [ "state", "d6/dd9/a29505.html#a87dfa4e0dea4892689d328d4ca27af75", null ],
+    [ "value", "d6/dd9/a29505.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
 ];

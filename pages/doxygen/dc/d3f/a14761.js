@@ -1,7 +1,7 @@
 var a14761 =
 [
-    [ "go_loosely_turned_soilAI", "d4/d5c/a14765.html", "d4/d5c/a14765" ],
-    [ "go_loosely_turned_soil", "dc/d3f/a14761.html#a3b4d51e2b3a604e030962127269236f1", null ],
-    [ "GetAI", "dc/d3f/a14761.html#acead5810a848f8837fa65af1f2ac00bd", null ],
-    [ "OnQuestReward", "dc/d3f/a14761.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
+    [ "PeriodicTick", "dc/d3f/a14761.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
+    [ "PrepareAuraScript", "dc/d3f/a14761.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
+    [ "Register", "dc/d3f/a14761.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
+    [ "Validate", "dc/d3f/a14761.html#a68247c2afa553411fac34582e83635c9", null ]
 ];

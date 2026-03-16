@@ -1,8 +1,11 @@
 var a12373 =
 [
-    [ "boss_drakkisathAI", "d5/d0c/a12373.html#a7c347bcdb092afcd64b481b87d0895ea", null ],
-    [ "JustEngagedWith", "d5/d0c/a12373.html#a09f7c704579bdb8dad951ce63b5a54c9", null ],
-    [ "UpdateAI", "d5/d0c/a12373.html#a02ffab01744c0dbb8b5a60794e82bdb0", null ],
-    [ "_conflagrateTarget", "d5/d0c/a12373.html#a6a74b74e4e4b45aec86f70a5211ddd28", null ],
-    [ "_conflagrateThreat", "d5/d0c/a12373.html#aae3762b27c3d99b32f47293c544e4afe", null ]
+    [ "npc_rocknotAI", "d5/d0c/a12373.html#a4daa5104eabb6d38c22274b48a8514be", null ],
+    [ "DoGo", "d5/d0c/a12373.html#a7591520e06782feddb98a86107fbcb27", null ],
+    [ "Reset", "d5/d0c/a12373.html#a4d855a23c638e835de6f1c4644350166", null ],
+    [ "UpdateAI", "d5/d0c/a12373.html#a1d3bce3248766393be5f84c5ca5030b1", null ],
+    [ "WaypointReached", "d5/d0c/a12373.html#ae7d6f0b1e52767c61ad014accb1cec7a", null ],
+    [ "BreakDoor_Timer", "d5/d0c/a12373.html#a3ae6edef4812fd3161c3b8ad5aa5cac2", null ],
+    [ "BreakKeg_Timer", "d5/d0c/a12373.html#a6f380ad58cf55fe2ea9fc1f56118b454", null ],
+    [ "instance", "d5/d0c/a12373.html#a4328c25f12f562cfdf41740e908cb3bd", null ]
 ];

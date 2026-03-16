@@ -1,6 +1,9 @@
 var a17481 =
 [
-    [ "boss_drakkari_colossusAI", "d1/d70/a17485.html", "d1/d70/a17485" ],
-    [ "boss_drakkari_colossus", "d2/d17/a17481.html#abe1bf28b9147b72c81e5c5efcdeeaf84", null ],
-    [ "GetAI", "d2/d17/a17481.html#a75c6c9c56fe11342dd8aece031059e77", null ]
+    [ "FilterTargets", "d2/d17/a17481.html#aefebf504286394cf3caffa566543e4a4", null ],
+    [ "FilterTargetsNext", "d2/d17/a17481.html#a356b6ace97d07df22a232d2287072b5e", null ],
+    [ "PrepareSpellScript", "d2/d17/a17481.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
+    [ "Register", "d2/d17/a17481.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
+    [ "Unload", "d2/d17/a17481.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
+    [ "targetList", "d2/d17/a17481.html#a3c839185938e0b67b97f652d1d15e213", null ]
 ];

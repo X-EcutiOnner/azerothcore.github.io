@@ -1,7 +1,6 @@
 var a25701 =
 [
-    [ "HandleHeal", "d3/d5e/a25701.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
-    [ "Load", "d3/d5e/a25701.html#a4dd5016439e8798083fe3d4fa5458731", null ],
-    [ "PrepareSpellScript", "d3/d5e/a25701.html#a248ae6d2c8f8d6c014a0164105773836", null ],
-    [ "Register", "d3/d5e/a25701.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
+    [ "CheckProc", "d3/d5e/a25701.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
+    [ "PrepareAuraScript", "d3/d5e/a25701.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
+    [ "Register", "d3/d5e/a25701.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
 ];

@@ -1,12 +1,12 @@
 var a14293 =
 [
-    [ "npc_zulian_prowlerAI", "de/df4/a14293.html#a367613efead335b060173011267ddcff", null ],
-    [ "JustDied", "de/df4/a14293.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
-    [ "JustEngagedWith", "de/df4/a14293.html#a207504b15ecd22b78088593b80433581", null ],
-    [ "Reset", "de/df4/a14293.html#a62d14bae970d8a70a997c683e0e94259", null ],
-    [ "SpellHit", "de/df4/a14293.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
-    [ "UpdateAI", "de/df4/a14293.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
-    [ "_events", "de/df4/a14293.html#a994ae5b4e72429141155d1342830e5ad", null ],
-    [ "_instance", "de/df4/a14293.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
-    [ "_sideData", "de/df4/a14293.html#afa44e09c5677c2fc567be6a67b766bde", null ]
+    [ "npc_akilzon_eagle", "de/df4/a14293.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
+    [ "JustEngagedWith", "de/df4/a14293.html#aa5c3d77a1086ad90397d47f081b25476", null ],
+    [ "MoveInLineOfSight", "de/df4/a14293.html#adefd384b8a273ca52343d836a399f3cb", null ],
+    [ "MovementInform", "de/df4/a14293.html#abf69be0c32356e65e6d451c33fb389f0", null ],
+    [ "Reset", "de/df4/a14293.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
+    [ "UpdateAI", "de/df4/a14293.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
+    [ "arrived", "de/df4/a14293.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
+    [ "EagleSwoop_Timer", "de/df4/a14293.html#a37a5861ef690729e2a8bfafddce168be", null ],
+    [ "TargetGUID", "de/df4/a14293.html#a14d4f82f932569d24f6014ad39640619", null ]
 ];

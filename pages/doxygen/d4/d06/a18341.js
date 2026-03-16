@@ -1,7 +1,6 @@
 var a18341 =
 [
-    [ "FrostwyrmLandEvent", "d4/d06/a18341.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
-    [ "Execute", "d4/d06/a18341.html#a4da77796a223e6233ac6d908f7700623", null ],
-    [ "_dest", "d4/d06/a18341.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
-    [ "_owner", "d4/d06/a18341.html#a6336050092606ebb27a180abff55dfa2", null ]
+    [ "npc_gas_cloudAI", "db/d9c/a18345.html", "db/d9c/a18345" ],
+    [ "npc_gas_cloud", "d4/d06/a18341.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
+    [ "GetAI", "d4/d06/a18341.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
 ];

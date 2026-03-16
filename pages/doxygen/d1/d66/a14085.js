@@ -1,7 +1,6 @@
 var a14085 =
 [
-    [ "boss_blight_wormAI", "d1/d66/a14085.html#af267e395fbd539f871e498dc6745c610", null ],
-    [ "Reset", "d1/d66/a14085.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
-    [ "UpdateAI", "d1/d66/a14085.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
-    [ "_events", "d1/d66/a14085.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
+    [ "x", "d1/d66/a14085.html#afeb59642abc7d5114668b2c27e315228", null ],
+    [ "y", "d1/d66/a14085.html#a3e2454dd579de689289003a343e7f29c", null ],
+    [ "z", "d1/d66/a14085.html#a4fbcf991d732545b4f9c19689ff9d805", null ]
 ];

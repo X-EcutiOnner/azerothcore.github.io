@@ -1,9 +1,10 @@
 var a30089 =
 [
-    [ "Category", "df/dc7/a30089.html#acd933f251a1faa1f705420307136681d", null ],
-    [ "Faction", "df/dc7/a30089.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
-    [ "Flags", "df/dc7/a30089.html#a8b41ed573eae71196664a61bac83fe3e", null ],
-    [ "Id", "df/dc7/a30089.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
-    [ "Slot", "df/dc7/a30089.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
-    [ "Type", "df/dc7/a30089.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
+    [ "WDTFile", "df/dc7/a30089.html#a10c133d9b2f8d39cb6c2b3d8c2791b78", null ],
+    [ "~WDTFile", "df/dc7/a30089.html#a445fe73204fd378e2b63a83d9f5dca0a", null ],
+    [ "GetMap", "df/dc7/a30089.html#aa952c5bfe52a1aa851984a7e6dc963c9", null ],
+    [ "init", "df/dc7/a30089.html#a91a33f89cae35254f52e8c4f1c33e2cb", null ],
+    [ "_file", "df/dc7/a30089.html#a54ab64288144b9cf4904e67bb359e524", null ],
+    [ "_wmoNames", "df/dc7/a30089.html#a6ec4f95ff866585403670b620a42a857", null ],
+    [ "filename", "df/dc7/a30089.html#ab3dac8623598bac1152a514a00126bf6", null ]
 ];

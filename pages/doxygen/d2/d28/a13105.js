@@ -1,13 +1,14 @@
 var a13105 =
 [
-    [ "boss_crone", "d2/d28/a13105.html#a710bdf6fac05be54cf10e40cd661c837", null ],
-    [ "EnterEvadeMode", "d2/d28/a13105.html#a4dcdde0b699f445cfa6be7e0c7dbb8d0", null ],
-    [ "JustDied", "d2/d28/a13105.html#a545de2a25b48590d11896c41b6e94df0", null ],
-    [ "JustEngagedWith", "d2/d28/a13105.html#a9801cd39667d1a08770820bd17beac00", null ],
-    [ "JustReachedHome", "d2/d28/a13105.html#a59d40cda923cb8b72413b9d5f267f52a", null ],
-    [ "KilledUnit", "d2/d28/a13105.html#ae4d343636955589d740d1df4e21fba99", null ],
-    [ "Reset", "d2/d28/a13105.html#a247db7fc1329ef00e48fd9bd09fb27a1", null ],
-    [ "UpdateAI", "d2/d28/a13105.html#a8bd505acd55ca5292d29c96916a461e5", null ],
-    [ "_scheduler", "d2/d28/a13105.html#a7f9e2e45c0bbb60fc19dd54bc380f814", null ],
-    [ "instance", "d2/d28/a13105.html#a3795fe3185005693ed9bba49177bb35a", null ]
+    [ "boss_midnight", "d2/d28/a13105.html#aacf45b21a30d671d5e9720a30336f72c", null ],
+    [ "CanMeleeHit", "d2/d28/a13105.html#ad46a3726f398e5db56612d78d33fb13f", null ],
+    [ "DamageTaken", "d2/d28/a13105.html#a47be6bc98217cf32a54dc522b7983bdb", null ],
+    [ "DoAction", "d2/d28/a13105.html#a6831149d56f432aa3116d4172ef95a18", null ],
+    [ "EnterEvadeMode", "d2/d28/a13105.html#a7ef9e935ac932f5a9e4fd435b8180783", null ],
+    [ "JustEngagedWith", "d2/d28/a13105.html#afbb95384e6c747e73c87c5a5eb40843e", null ],
+    [ "JustSummoned", "d2/d28/a13105.html#a2644deaf0a2970835b0cd508565e7279", null ],
+    [ "KilledUnit", "d2/d28/a13105.html#a14dcbec9dc43cc12a124b6f140e0e8e6", null ],
+    [ "Reset", "d2/d28/a13105.html#a4f9cb414779705c179bc5447975b35e9", null ],
+    [ "UpdateAI", "d2/d28/a13105.html#a17c86571df6263fe1cc3657ca596e3ae", null ],
+    [ "_phase", "d2/d28/a13105.html#ae5f3f452f5141cecab1b99616eb2bf74", null ]
 ];

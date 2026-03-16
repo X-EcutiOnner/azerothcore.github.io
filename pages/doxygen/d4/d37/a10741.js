@@ -1,6 +1,6 @@
 var a10741 =
 [
-    [ "GuildInviteByName", "d4/d37/a10741.html#a5e0bab98d87000ad796ebb2753cd566b", null ],
-    [ "Read", "d4/d37/a10741.html#a91f3fba33e265cbb119f1d3e69d4a8ca", null ],
-    [ "Name", "d4/d37/a10741.html#a048c7ed9de19bcb57c0cdb10e2cf3bef", null ]
+    [ "BuyBankSlotResult", "d4/d37/a10741.html#a93b60814becc451c38f06f9702a9e027", null ],
+    [ "Write", "d4/d37/a10741.html#a55a6609863b0d3ef966f222526268acb", null ],
+    [ "Result", "d4/d37/a10741.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
 ];

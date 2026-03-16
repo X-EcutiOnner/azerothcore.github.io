@@ -1,6 +1,6 @@
 var a16973 =
 [
-    [ "instance_trial_of_the_crusader_InstanceMapScript", "d9/d6e/a16977.html", "d9/d6e/a16977" ],
-    [ "instance_trial_of_the_crusader", "da/de0/a16973.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
-    [ "GetInstanceScript", "da/de0/a16973.html#a792034e9e5687bf5fa543175692bed66", null ]
+    [ "npc_toc_enh_shamanAI", "d9/d6e/a16977.html", "d9/d6e/a16977" ],
+    [ "npc_toc_enh_shaman", "da/de0/a16973.html#ac328b63a988d2cd8640237b250c338a8", null ],
+    [ "GetAI", "da/de0/a16973.html#a4501c9289a06750d8f153f89565b12f3", null ]
 ];

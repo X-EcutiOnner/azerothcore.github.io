@@ -1,7 +1,10 @@
 var a09581 =
 [
-    [ "PlayerAtMinimumRangeAway", "d9/d70/a09581.html#a12eb5ff486232f88c7303741ebd8e65e", null ],
-    [ "operator()", "d9/d70/a09581.html#a1cfda97a0590e033f9b6043c8de2d0a0", null ],
-    [ "fRange", "d9/d70/a09581.html#a0c58929de429694f24877525287f15a6", null ],
-    [ "unit", "d9/d70/a09581.html#a4ea0f83c3287079cff40fac15272fa94", null ]
+    [ "NearestGameObjectEntryInObjectRangeCheck", "d9/d70/a09581.html#a7d57ae865868d4848caf088c4520b2a7", null ],
+    [ "NearestGameObjectEntryInObjectRangeCheck", "d9/d70/a09581.html#a28d97af524c2bab39e1bd2e5508e434b", null ],
+    [ "operator()", "d9/d70/a09581.html#ad0c6798e28784ed547102414f4c6a31f", null ],
+    [ "i_entry", "d9/d70/a09581.html#a5d19a23e7da2e5e5ed417d0a9623ffbb", null ],
+    [ "i_obj", "d9/d70/a09581.html#a104b8bece6ea78ba049dc592e54311be", null ],
+    [ "i_onlySpawned", "d9/d70/a09581.html#a2a58a6bcff73142e21c082bf2c11eff2", null ],
+    [ "i_range", "d9/d70/a09581.html#a94fc995a14f84060f3bfe5827f17b95e", null ]
 ];

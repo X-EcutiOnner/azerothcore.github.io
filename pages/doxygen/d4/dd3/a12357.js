@@ -1,6 +1,6 @@
 var a12357 =
 [
-    [ "RestoreAttack", "d4/dd3/a12357.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
-    [ "Execute", "d4/dd3/a12357.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
-    [ "_boss", "d4/dd3/a12357.html#a493ef909da834b0befd90f57f54fb10c", null ]
+    [ "npc_phalanxAI", "dc/d92/a12361.html", "dc/d92/a12361" ],
+    [ "npc_phalanx", "d4/dd3/a12357.html#a947ee4659fe2a46d775119ddcefeb939", null ],
+    [ "GetAI", "d4/dd3/a12357.html#ab1e2a0950ab286d5abae3d46aef3c623", null ]
 ];

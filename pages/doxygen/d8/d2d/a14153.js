@@ -1,7 +1,6 @@
 var a14153 =
 [
-    [ "Load", "d8/d2d/a14153.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
-    [ "OnRemove", "d8/d2d/a14153.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
-    [ "PrepareAuraScript", "d8/d2d/a14153.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
-    [ "Register", "d8/d2d/a14153.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
+    [ "npc_lord_gregor_lescovarAI", "da/d7c/a14157.html", "da/d7c/a14157" ],
+    [ "npc_lord_gregor_lescovar", "d8/d2d/a14153.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
+    [ "GetAI", "d8/d2d/a14153.html#a4cf39729bb687c7db3538575a799283e", null ]
 ];

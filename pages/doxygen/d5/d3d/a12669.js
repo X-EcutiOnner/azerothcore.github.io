@@ -1,6 +1,5 @@
 var a12669 =
 [
-    [ "boss_razorgoreAI", "d6/d6a/a12673.html", "d6/d6a/a12673" ],
-    [ "boss_razorgore", "d5/d3d/a12669.html#aee534a04797c5938e6da00f2ab119943", null ],
-    [ "GetAI", "d5/d3d/a12669.html#a4683a5deefdb9d3219638189e9a99c2a", null ]
+    [ "go_father_flame", "d5/d3d/a12669.html#aa992bd7029a56faca4b92637688fe845", null ],
+    [ "OnLootStateChanged", "d5/d3d/a12669.html#a84c7055e791a3dac66b75d327c7662c3", null ]
 ];

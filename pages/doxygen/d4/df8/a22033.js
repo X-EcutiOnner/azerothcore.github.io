@@ -1,6 +1,8 @@
 var a22033 =
 [
-    [ "HandleScript", "d4/df8/a22033.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
-    [ "PrepareSpellScript", "d4/df8/a22033.html#a5a4ce9453638d61fe52514240f0a9384", null ],
-    [ "Register", "d4/df8/a22033.html#a889f931aaa37d3a283f4d585b384a68e", null ]
+    [ "npc_llod_genericAI", "d4/df8/a22033.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "d4/df8/a22033.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "d4/df8/a22033.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "d4/df8/a22033.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "d4/df8/a22033.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

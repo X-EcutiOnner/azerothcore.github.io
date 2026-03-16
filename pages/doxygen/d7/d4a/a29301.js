@@ -1,8 +1,8 @@
 var a29301 =
 [
-    [ "DBCFile", "d3/d84/a28298.html", "d3/d84/a28298" ],
-    [ "DBCFile::Exception", "d2/db2/a28302.html", "d2/db2/a28302" ],
-    [ "DBCFile::NotFound", "d1/d97/a28306.html", "d1/d97/a28306" ],
-    [ "DBCFile::Record", "db/d59/a28310.html", "db/d59/a28310" ],
-    [ "DBCFile::Iterator", "db/d97/a28314.html", "db/d97/a28314" ]
+    [ "ClassMask", "d7/d4a/a29301.html#a563ba1618ffefa5470696e37f65c70d4", null ],
+    [ "Flags", "d7/d4a/a29301.html#af89c32a22f018557fe016e0784a82384", null ],
+    [ "RaceMask", "d7/d4a/a29301.html#acff47bf5c075d669f95b0d229674f9bc", null ],
+    [ "SkillID", "d7/d4a/a29301.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
+    [ "SkillTierID", "d7/d4a/a29301.html#ab6153043461b71336e12b00957499075", null ]
 ];

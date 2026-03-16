@@ -1,7 +1,7 @@
 var a19409 =
 [
-    [ "HandleScript", "de/d17/a19409.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
-    [ "PrepareAuraScript", "de/d17/a19409.html#aa3053519be0101f55450d76b1291f0f7", null ],
-    [ "Register", "de/d17/a19409.html#ada596a7f19115c7178fd07fb9e956f58", null ],
-    [ "Validate", "de/d17/a19409.html#a768dec18bc0e879c457a64135ec27ad9", null ]
+    [ "npc_ioc_gunship_captainAI", "de/d17/a19409.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
+    [ "DoAction", "de/d17/a19409.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
+    [ "UpdateAI", "de/d17/a19409.html#a222b304633143bba47d3edde67ea093b", null ],
+    [ "_events", "de/d17/a19409.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
 ];

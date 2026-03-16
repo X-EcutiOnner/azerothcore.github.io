@@ -1,8 +1,8 @@
 var a29229 =
 [
-    [ "npc_franklinAI", "d5/d16/a29233.html", "d5/d16/a29233" ],
-    [ "npc_franklin", "da/dc7/a29229.html#aab059dfa69e52083892e3170c8838e0a", null ],
-    [ "GetAI", "da/dc7/a29229.html#a10933878afe9d0cc78fa1113341fd522", null ],
-    [ "OnGossipHello", "da/dc7/a29229.html#a318d512914b135800caabe0efbb1c467", null ],
-    [ "OnGossipSelect", "da/dc7/a29229.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
+    [ "Id", "da/dc7/a29229.html#a6943bf760d15b3f8af4109d131652d72", null ],
+    [ "MapId", "da/dc7/a29229.html#ab0cccd760636a3b42af693d6c483bed9", null ],
+    [ "X", "da/dc7/a29229.html#a91183890254546efeb3162173cc60dad", null ],
+    [ "Y", "da/dc7/a29229.html#a19ab4d026b45d74f006479641afbc4d3", null ],
+    [ "Z", "da/dc7/a29229.html#aaa23c59f20fc96aec148b82516f30036", null ]
 ];

@@ -1,9 +1,11 @@
 var a05425 =
 [
-    [ "IpLocationRecord", "d7/dde/a05425.html#a1dba2f8a7697c7e6fd427089d556c19a", null ],
-    [ "IpLocationRecord", "d7/dde/a05425.html#a10ffefef6ba7d81a23d5d29bc2ee599d", null ],
-    [ "CountryCode", "d7/dde/a05425.html#a9b54a497801e9da396955893473eb7da", null ],
-    [ "CountryName", "d7/dde/a05425.html#acbc8ea139970e7acbad06302d5666eb9", null ],
-    [ "IpFrom", "d7/dde/a05425.html#a97d36332086a339e07b73955f23acd57", null ],
-    [ "IpTo", "d7/dde/a05425.html#a844dfff114f6ce64b79c459527965bfb", null ]
+    [ "Record", "d7/dde/a05425.html#a3303a6b7ba364777e368158052dbe1db", null ],
+    [ "getFloat", "d7/dde/a05425.html#a1647694079553a20a7c6621aa6d4ecf6", null ],
+    [ "getString", "d7/dde/a05425.html#a833c7017749b6b3109ebdee2ff0d3517", null ],
+    [ "getUInt", "d7/dde/a05425.html#a6f22775adc36b8955009f3f0bd51f355", null ],
+    [ "getUInt8", "d7/dde/a05425.html#af6a95de37b34f0204f57323d9a39d110", null ],
+    [ "DBCFileLoader", "d7/dde/a05425.html#aa9814b507b472e781e08c803e025cc72", null ],
+    [ "file", "d7/dde/a05425.html#a146dc23a5f24a0d8a1a34f29375b9bcd", null ],
+    [ "offset", "d7/dde/a05425.html#a06e2c90771be91d9ca948840a07125e8", null ]
 ];

@@ -1,7 +1,13 @@
 var a14157 =
 [
-    [ "FilterTargets", "da/d7c/a14157.html#aebe9055301495dd3a21736b9a2a35f31", null ],
-    [ "HandleDamageCalc", "da/d7c/a14157.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
-    [ "PrepareSpellScript", "da/d7c/a14157.html#a03b8e21e58988d9fc774205263c0817f", null ],
-    [ "Register", "da/d7c/a14157.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
+    [ "npc_lord_gregor_lescovarAI", "da/d7c/a14157.html#ab3ed8a9536fc6be948f280e319d4fec7", null ],
+    [ "DoGuardsDisappearAndDie", "da/d7c/a14157.html#a8588cae3dc8aa3dd46c55439d355df9b", null ],
+    [ "EnterEvadeMode", "da/d7c/a14157.html#a95e60614808191e4c1f909f5e38e4741", null ],
+    [ "JustEngagedWith", "da/d7c/a14157.html#ad0ca7d80d68b9623b99c644daa8f4c57", null ],
+    [ "Reset", "da/d7c/a14157.html#a06df695e9acd96b07f4e58c9461a708c", null ],
+    [ "UpdateAI", "da/d7c/a14157.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
+    [ "WaypointReached", "da/d7c/a14157.html#ad91850dc72d0307e28b881717bfba6db", null ],
+    [ "MarzonGUID", "da/d7c/a14157.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
+    [ "uiPhase", "da/d7c/a14157.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
+    [ "uiTimer", "da/d7c/a14157.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]
 ];

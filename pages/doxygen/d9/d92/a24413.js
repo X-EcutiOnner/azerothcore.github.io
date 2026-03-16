@@ -1,8 +1,10 @@
 var a24413 =
 [
-    [ "HandleEffectApply", "d9/d92/a24413.html#a8134145c22b99c7b75537091c386bcd1", null ],
-    [ "HandleEffectRemove", "d9/d92/a24413.html#a5d24ca41dcc75a11077da691abd902e0", null ],
-    [ "PrepareAuraScript", "d9/d92/a24413.html#ae5f1b77a6aed21faf3ad9c168a8fcaa2", null ],
-    [ "Register", "d9/d92/a24413.html#acff27aac4af2b0a0530348371fcb55b2", null ],
-    [ "Validate", "d9/d92/a24413.html#af656fbf06181436bbb020282160c1293", null ]
+    [ "npc_pet_hunter_snake_trap", "d9/d92/a24413.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
+    [ "EnterEvadeMode", "d9/d92/a24413.html#a819add0c7b968063403d10275fdc289f", null ],
+    [ "MoveInLineOfSight", "d9/d92/a24413.html#a32d5ed7f4d436f2678b34f4a1d572721", null ],
+    [ "Reset", "d9/d92/a24413.html#a831cf6eea8bd03247cd9877d3be6e1ee", null ],
+    [ "UpdateAI", "d9/d92/a24413.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
+    [ "_init", "d9/d92/a24413.html#a1b5c1301389749f82667c35f3daff847", null ],
+    [ "_spellTimer", "d9/d92/a24413.html#ab9397451e2e8320ca77560a19baeee3f", null ]
 ];

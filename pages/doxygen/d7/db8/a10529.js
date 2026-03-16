@@ -1,10 +1,10 @@
 var a10529 =
 [
-    [ "VehicleScript", "d7/db8/a10529.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
-    [ "OnAddPassenger", "d7/db8/a10529.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
-    [ "OnInstall", "d7/db8/a10529.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
-    [ "OnInstallAccessory", "d7/db8/a10529.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
-    [ "OnRemovePassenger", "d7/db8/a10529.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
-    [ "OnReset", "d7/db8/a10529.html#a38fca3fec8785f015084b832f9e3b08c", null ],
-    [ "OnUninstall", "d7/db8/a10529.html#a7d4bafe42756ee73b5ce79783842c243", null ]
+    [ "BattlefieldScript", "d7/db8/a10529.html#a5d852a5ae3f62631280ca9f4b97b1734", null ],
+    [ "IsDatabaseBound", "d7/db8/a10529.html#a3d02622460b0fcc0ae0d5d559fe5f436", null ],
+    [ "OnBattlefieldBeforeInvitePlayerToWar", "d7/db8/a10529.html#ac0c199050fba1f6e991783bd2d2efdc2", null ],
+    [ "OnBattlefieldPlayerEnterZone", "d7/db8/a10529.html#adf7c217eadc6106b1ce3c353a411edf8", null ],
+    [ "OnBattlefieldPlayerJoinWar", "d7/db8/a10529.html#a2f2a9de94a8e8f60d04e956b4479cf16", null ],
+    [ "OnBattlefieldPlayerLeaveWar", "d7/db8/a10529.html#a3e88ff9ad3772d558ab72123127a550e", null ],
+    [ "OnBattlefieldPlayerLeaveZone", "d7/db8/a10529.html#a3b274755aaded2d99bcf5e12a2f2de4c", null ]
 ];

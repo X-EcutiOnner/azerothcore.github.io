@@ -1,5 +1,6 @@
 var a12489 =
 [
-    [ "at_the_beast_room", "df/dcf/a12489.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
-    [ "OnTrigger", "df/dcf/a12489.html#a366c5e35c4030f998404886f1526ae37", null ]
+    [ "boss_gloomrel", "df/dcf/a12489.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
+    [ "OnGossipHello", "df/dcf/a12489.html#a6ce6898142d767a130ec09769f2be488", null ],
+    [ "OnGossipSelect", "df/dcf/a12489.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
 ];

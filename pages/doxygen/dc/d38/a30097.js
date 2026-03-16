@@ -1,7 +1,8 @@
 var a30097 =
 [
-    [ "ClassMask", "dc/d38/a30097.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
-    [ "petTalentMask", "dc/d38/a30097.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
-    [ "tabpage", "dc/d38/a30097.html#aa6389276582adeb4cae76c257734795c", null ],
-    [ "TalentTabID", "dc/d38/a30097.html#ae3a71c61223b59185365819164715dc2", null ]
+    [ "Color", "dc/d38/a30097.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
+    [ "NameIndex", "dc/d38/a30097.html#add893e045d13a3633fd7346457a10477", null ],
+    [ "Position", "dc/d38/a30097.html#afae9056582e71160c151de2c172bc60a", null ],
+    [ "Rotation", "dc/d38/a30097.html#a48d372bc1371fa5f94db9aa39669942a", null ],
+    [ "Scale", "dc/d38/a30097.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
 ];

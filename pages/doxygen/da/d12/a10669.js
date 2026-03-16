@@ -1,6 +1,10 @@
 var a10669 =
 [
-    [ "EmoteClient", "da/d12/a10669.html#af98c098cb1019057d8027f39c168e1a9", null ],
-    [ "Read", "da/d12/a10669.html#abad5fca865b7b99e595ce95137e8105c", null ],
-    [ "EmoteID", "da/d12/a10669.html#a24503de36535106220984ffbf6ba0338", null ]
+    [ "VehicleScript", "da/d12/a10669.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
+    [ "OnAddPassenger", "da/d12/a10669.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
+    [ "OnInstall", "da/d12/a10669.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
+    [ "OnInstallAccessory", "da/d12/a10669.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
+    [ "OnRemovePassenger", "da/d12/a10669.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
+    [ "OnReset", "da/d12/a10669.html#a38fca3fec8785f015084b832f9e3b08c", null ],
+    [ "OnUninstall", "da/d12/a10669.html#a7d4bafe42756ee73b5ce79783842c243", null ]
 ];

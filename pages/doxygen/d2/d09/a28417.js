@@ -1,9 +1,12 @@
 var a28417 =
 [
-    [ "flags", "d2/d09/a28417.html#a064de2e88c563121bbb78549a7bab868", null ],
-    [ "_flags", "d2/d09/a28417.html#a16f1b30a57eb6703e8073ef55d988391", null ],
-    [ "bits", "d2/d09/a28417.html#a529f1856635132646457c57f3546f4ec", null ],
-    [ "configKey", "d2/d09/a28417.html#af14d118016b9e01612769c00f13aa2d6", null ],
-    [ "oldKey", "d2/d09/a28417.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
-    [ "owner", "d2/d09/a28417.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
+    [ "npc_preciousAI", "d2/d09/a28417.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
+    [ "FlagForDespawn", "d2/d09/a28417.html#a934a5147c1cc9937189011fb061657da", null ],
+    [ "InitializeAI", "d2/d09/a28417.html#aa15843c4029f2df2ee04d21b5157602a", null ],
+    [ "JustEngagedWith", "d2/d09/a28417.html#a58bc4149111605850f070a77ee776313", null ],
+    [ "JustReachedHome", "d2/d09/a28417.html#a31893e9441b24398554370a58ef8bd78", null ],
+    [ "Reset", "d2/d09/a28417.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
+    [ "UpdateAI", "d2/d09/a28417.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
+    [ "events", "d2/d09/a28417.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
+    [ "flaggedForDespawn", "d2/d09/a28417.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
 ];

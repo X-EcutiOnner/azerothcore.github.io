@@ -1,18 +1,14 @@
 var a20453 =
 [
-    [ "npc_ulduar_leviathan_mkii", "da/db3/a20453.html#ac38c065bfdcd0496c3a7da58b1fcf833", null ],
-    [ "DamageTaken", "da/db3/a20453.html#ac2443db8d15b5ee3597fefdc6389f114", null ],
-    [ "EnterEvadeMode", "da/db3/a20453.html#a47ceec21f91030a1810392ecc0adafd2", null ],
-    [ "GetS3", "da/db3/a20453.html#aba4be715815acca2ace025002750277e", null ],
-    [ "KilledUnit", "da/db3/a20453.html#a8f40ca6bd9515e6d645e6140f21adb06", null ],
-    [ "MoveInLineOfSight", "da/db3/a20453.html#abb2cbb6e0999fbd0eacba4c414458b8a", null ],
-    [ "PassengerBoarded", "da/db3/a20453.html#a2ea5689299a108e729bde24de63e71aa", null ],
-    [ "Reset", "da/db3/a20453.html#afaa3072c296341693ef4803330a13929", null ],
-    [ "SetData", "da/db3/a20453.html#a83a6d7d5c94c4cf8b76474ef8f3b0608", null ],
-    [ "SpellHit", "da/db3/a20453.html#a790900963d9e073f4f8e4a0546721f52", null ],
-    [ "UpdateAI", "da/db3/a20453.html#a79b9146be412e5862b47cd34073a2fd7", null ],
-    [ "bIsEvading", "da/db3/a20453.html#a5ab6a4c7fa03325ce1ff0239ca1edea9", null ],
-    [ "events", "da/db3/a20453.html#a00d34da081bec623539deaec859c6079", null ],
-    [ "instance", "da/db3/a20453.html#a1756b869c05920f3b9d64931c036fdb7", null ],
-    [ "Phase", "da/db3/a20453.html#a76f134acc3e0f40b3d8f5b88927140c4", null ]
+    [ "npc_ulduar_hodir_mage", "da/db3/a20453.html#a0d307cd24431bdc2d8e4a20eca3b74e5", null ],
+    [ "AttackStart", "da/db3/a20453.html#aa486b501aefeb70beb325feece5ec34c", null ],
+    [ "CanAIAttack", "da/db3/a20453.html#afe11d15da8769f50db470460cf759c2d", null ],
+    [ "EnterEvadeMode", "da/db3/a20453.html#a7c942a1ad420731a6e57ede7720d164b", null ],
+    [ "JustDied", "da/db3/a20453.html#a411b6a3b456fb216f96a9426a13e3369", null ],
+    [ "MoveInLineOfSight", "da/db3/a20453.html#aab476b5a585b30d429bdcae64a18424c", null ],
+    [ "ScheduleAbilities", "da/db3/a20453.html#add40de5492e4ec9bd19260669b4bbb22", null ],
+    [ "SpellHit", "da/db3/a20453.html#af35bcc1ee03dd8128ff0fe7329eb980d", null ],
+    [ "UpdateAI", "da/db3/a20453.html#ae9aa4904f3deaa6cae56853f8541eb40", null ],
+    [ "events", "da/db3/a20453.html#a8c89348ce80bc9e4ac72dec41855db8a", null ],
+    [ "pInstance", "da/db3/a20453.html#af7b337ac852b19ea3d866c5ca2623873", null ]
 ];

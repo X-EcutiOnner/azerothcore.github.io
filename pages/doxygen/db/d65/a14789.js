@@ -1,7 +1,11 @@
 var a14789 =
 [
-    [ "HandleScript", "db/d65/a14789.html#a78899a874a645d531dd4d89f2bd5478a", null ],
-    [ "PrepareSpellScript", "db/d65/a14789.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
-    [ "Register", "db/d65/a14789.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
-    [ "Validate", "db/d65/a14789.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
+    [ "npc_elder_kekek", "db/d65/a14789.html#a6084af39be5c70699c9fdcf3cd58e954", null ],
+    [ "MoveInLineOfSight", "db/d65/a14789.html#a0c673e4fdf8e75d3bc8570db166bcd95", null ],
+    [ "Reset", "db/d65/a14789.html#a97e615bdefba5baf459960fc2987cd69", null ],
+    [ "UpdateAI", "db/d65/a14789.html#a5823bc7164d797c40d48b9b74642d9b5", null ],
+    [ "orphanGUID", "db/d65/a14789.html#a98c79e46e051c35819c6025828a519cb", null ],
+    [ "phase", "db/d65/a14789.html#a99fd9d984f92d5ba8b5876675855d4f6", null ],
+    [ "playerGUID", "db/d65/a14789.html#a614ed3332f4af3c5178aa69da968a3d3", null ],
+    [ "timer", "db/d65/a14789.html#a445c048d8858f5dc7c1e88308ed7e5ab", null ]
 ];

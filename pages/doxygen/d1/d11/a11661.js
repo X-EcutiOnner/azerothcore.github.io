@@ -1,6 +1,7 @@
 var a11661 =
 [
-    [ "EffectCalcSpellModHandler", "d1/d11/a11661.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
-    [ "Call", "d1/d11/a11661.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
-    [ "pEffectHandlerScript", "d1/d11/a11661.html#a15c0b24641cb04f31bb3d651dae59448", null ]
+    [ "attributeMask", "d1/d11/a11661.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
+    [ "customChance", "d1/d11/a11661.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
+    [ "PPMChance", "d1/d11/a11661.html#adb76c11f0073a2738374c98c01fda009", null ],
+    [ "procEx", "d1/d11/a11661.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
 ];

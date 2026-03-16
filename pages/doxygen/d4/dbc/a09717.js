@@ -1,9 +1,8 @@
 var a09717 =
 [
-    [ "EmoteChatBuilder", "d4/dbc/a09717.html#ae1aeb36aad24d5ef28074edfbf2f9e7e", null ],
-    [ "operator()", "d4/dbc/a09717.html#a133a7bb35e86cf40425910c4f19a3337", null ],
-    [ "i_emote_num", "d4/dbc/a09717.html#a966b8afcbf5afca3a3466d8e075a9437", null ],
-    [ "i_player", "d4/dbc/a09717.html#ae09dbfe01b2a24e57b63b2b1df5ad232", null ],
-    [ "i_target", "d4/dbc/a09717.html#abc538e056d91ea1ee8d6203c96174b1d", null ],
-    [ "i_text_emote", "d4/dbc/a09717.html#add0630dc3fc76fb4fdb79095e13b2fc0", null ]
+    [ "AllDeadCreaturesInRange", "d4/dbc/a09717.html#a31b4976c3ea6203b9a1e7f7970a97977", null ],
+    [ "operator()", "d4/dbc/a09717.html#a3638a8d3c5791b590ec717e4f1ba9cef", null ],
+    [ "_obj", "d4/dbc/a09717.html#a4ca7fcf9945e698a790d01d3fadae98e", null ],
+    [ "_range", "d4/dbc/a09717.html#a431ada86a2b864d53773a85b05d8da4f", null ],
+    [ "_reqAlive", "d4/dbc/a09717.html#aefd0d77b69b5df9b99c148e0254fda09", null ]
 ];

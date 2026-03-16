@@ -1,6 +1,5 @@
 var a19365 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "da/da4/a19369.html", "da/da4/a19369" ],
-    [ "boss_grobbulus_poison_cloud", "dd/dd2/a19365.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
-    [ "GetAI", "dd/dd2/a19365.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
+    [ "at_frozen_throne_teleport", "dd/dd2/a19365.html#a8065b9f9b55b267be1757775f84de349", null ],
+    [ "OnTrigger", "dd/dd2/a19365.html#ae1f9476b7f47320f545e702e9317bd03", null ]
 ];

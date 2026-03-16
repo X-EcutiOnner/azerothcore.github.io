@@ -1,8 +1,6 @@
 var a23917 =
 [
-    [ "npc_bessyAI", "d0/dc8/a23917.html#ad1300a563888b34689bedf97c387707c", null ],
-    [ "JustDied", "d0/dc8/a23917.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
-    [ "JustSummoned", "d0/dc8/a23917.html#a4197fb122299fd152e5da335bb832ae5", null ],
-    [ "Reset", "d0/dc8/a23917.html#aed64386629e52c3b65abadde54a63cc4", null ],
-    [ "WaypointReached", "d0/dc8/a23917.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
+    [ "instance_mechanar_InstanceMapScript", "d0/d84/a23921.html", "d0/d84/a23921" ],
+    [ "instance_mechanar", "d0/dc8/a23917.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
+    [ "GetInstanceScript", "d0/dc8/a23917.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
 ];

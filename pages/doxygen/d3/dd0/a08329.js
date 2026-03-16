@@ -1,12 +1,11 @@
 var a08329 =
 [
-    [ "WorldObjectChangeAccumulator", "d3/dd0/a08329.html#a853a5c84dec75f115eddd3e1b7ff0b78", null ],
-    [ "BuildPacket", "d3/dd0/a08329.html#ab4b9da3effe2a4f6e2cb6ecf268f429c", null ],
-    [ "Visit", "d3/dd0/a08329.html#ae18ca5886c95a6c4c00bdbc1920a5655", null ],
-    [ "Visit", "d3/dd0/a08329.html#a9afa50ac9e36cd357706e8e838df56a0", null ],
-    [ "Visit", "d3/dd0/a08329.html#aec62fc91f4b364e72a3d5afd5a1a7276", null ],
-    [ "Visit", "d3/dd0/a08329.html#a9815c06dbd29710cac2c99301c17b01c", null ],
-    [ "i_object", "d3/dd0/a08329.html#ab94d7f943107060caf742f9b6cca92e4", null ],
-    [ "i_playerSet", "d3/dd0/a08329.html#a0e17c2bf7a78cf5ef68e6fc7b29f0262", null ],
-    [ "i_updateDatas", "d3/dd0/a08329.html#a1446b9dae0dfc0325228870c815da23a", null ]
+    [ "FormationInfo", "d3/dd0/a08329.html#ad00d7dd0ac811a3805a8ba2c9c1e73df", null ],
+    [ "HasGroupFlag", "d3/dd0/a08329.html#afc612acf30e8d0a047aac5b0fc2dc07b", null ],
+    [ "follow_angle", "d3/dd0/a08329.html#a928ce7047d511c316a5367faf7f96673", null ],
+    [ "follow_dist", "d3/dd0/a08329.html#a3b59ee5129e208cc3df407a921362393", null ],
+    [ "groupAI", "d3/dd0/a08329.html#af9f6dc52999efef6f0819bb8d1670fec", null ],
+    [ "leaderGUID", "d3/dd0/a08329.html#ad5af23397ae1ae835a72ce125d102ef0", null ],
+    [ "point_1", "d3/dd0/a08329.html#a84298ff533bebc633689742c7f9299ae", null ],
+    [ "point_2", "d3/dd0/a08329.html#acc308b497de18211b99eec4311b256a4", null ]
 ];

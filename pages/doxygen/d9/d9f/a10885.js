@@ -1,7 +1,7 @@
 var a10885 =
 [
-    [ "GuildBankTextQueryResult", "d9/d9f/a10885.html#aa1e25895e246c3a688d7850e517858d3", null ],
-    [ "Write", "d9/d9f/a10885.html#acb6b28dcf56b821e3c0d5b58f6baa2dd", null ],
-    [ "Tab", "d9/d9f/a10885.html#abfc5522a0f94086474493db85ed1ef73", null ],
-    [ "Text", "d9/d9f/a10885.html#ae78c1d1b802e12efd058987117158ec3", null ]
+    [ "GuildInvite", "d9/d9f/a10885.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
+    [ "Write", "d9/d9f/a10885.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
+    [ "GuildName", "d9/d9f/a10885.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
+    [ "InviterName", "d9/d9f/a10885.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
 ];

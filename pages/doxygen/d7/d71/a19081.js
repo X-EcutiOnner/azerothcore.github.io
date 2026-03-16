@@ -1,7 +1,6 @@
 var a19081 =
 [
-    [ "HandleEffectPeriodic", "d7/d71/a19081.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
-    [ "PrepareAuraScript", "d7/d71/a19081.html#af1d284c4686f739b02b350a6c0a166c2", null ],
-    [ "Register", "d7/d71/a19081.html#a006a97823ac07346771ec4ab61bd0763", null ],
-    [ "Validate", "d7/d71/a19081.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
+    [ "npc_rotting_frost_giantAI", "d3/d7d/a19085.html", "d3/d7d/a19085" ],
+    [ "npc_rotting_frost_giant", "d7/d71/a19081.html#ad4440216e11a00d97af43dc5f3957e95", null ],
+    [ "GetAI", "d7/d71/a19081.html#aabc388b3690f2d03e903c7f480d52842", null ]
 ];

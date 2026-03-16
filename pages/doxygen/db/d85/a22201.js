@@ -1,7 +1,8 @@
 var a22201 =
 [
-    [ "HandleScript", "db/d85/a22201.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "db/d85/a22201.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "db/d85/a22201.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "db/d85/a22201.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "CheckCast", "db/d85/a22201.html#ab1584c391ac81b8338387acc6187001f", null ],
+    [ "HandleDummy", "db/d85/a22201.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
+    [ "PrepareSpellScript", "db/d85/a22201.html#a08d9ffb7dcbe786071979166e0489336", null ],
+    [ "Register", "db/d85/a22201.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
+    [ "Validate", "db/d85/a22201.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
 ];

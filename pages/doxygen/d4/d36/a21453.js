@@ -1,13 +1,8 @@
 var a21453 =
 [
-    [ "npc_preparations_for_war_vehicle", "d4/d36/a21453.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
-    [ "MovementInform", "d4/d36/a21453.html#a5380670d521c7805a045aeac26c7c686", null ],
-    [ "PassengerBoarded", "d4/d36/a21453.html#a84b4af01c9854cbae3fca5a59aa83763", null ],
-    [ "SpellHit", "d4/d36/a21453.html#acf861b4dae849862241f6a6a8abdcdd8", null ],
-    [ "UpdateAI", "d4/d36/a21453.html#ae40a23070d96ecf122e9de5571a845ef", null ],
-    [ "passenger_x", "d4/d36/a21453.html#ac2eb8ea5fa8f5c5206ae799e4b74b213", null ],
-    [ "passenger_y", "d4/d36/a21453.html#afd99c49b3c3b996c92def21229f1ec87", null ],
-    [ "passenger_z", "d4/d36/a21453.html#a18d051868134d8c62f64923905bf19db", null ],
-    [ "searchForShipTimer", "d4/d36/a21453.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
-    [ "transportEntry", "d4/d36/a21453.html#aa0083566387cd42750aaa56b1fa23fed", null ]
+    [ "npc_azure_raiderAI", "d4/d36/a21453.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
+    [ "Reset", "d4/d36/a21453.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
+    [ "UpdateAI", "d4/d36/a21453.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
+    [ "uiConcussionBlowTimer", "d4/d36/a21453.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
+    [ "uiMagicReflectionTimer", "d4/d36/a21453.html#acb262ab506ea58201abfe2057525c548", null ]
 ];

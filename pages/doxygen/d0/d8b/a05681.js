@@ -1,11 +1,17 @@
 var a05681 =
 [
-    [ "PeriodicTimer", "d0/d8b/a05681.html#a82820c45f47f423315fe761f9c45c3b5", null ],
-    [ "SetPeriodic", "d0/d8b/a05681.html#abea9c11f88ef0ef48c16a24584774b5b", null ],
-    [ "TPassed", "d0/d8b/a05681.html#a3fdac0a26ee6f5db8d536ae44907930d", null ],
-    [ "TReset", "d0/d8b/a05681.html#af4e78fc1284797b50c2951c10f92b641", null ],
-    [ "TUpdate", "d0/d8b/a05681.html#a1b013fe47a2dfb131110d3a29ccf9868", null ],
-    [ "Update", "d0/d8b/a05681.html#a535bd070d606ba5a8621469a7ddd3449", null ],
-    [ "i_expireTime", "d0/d8b/a05681.html#a7b889a1fbbf905c952834fb8d745f4a6", null ],
-    [ "i_period", "d0/d8b/a05681.html#a5b45d28e36d665190323f34776b87796", null ]
+    [ "CircularBuffer", "d0/d8b/a05681.html#a169d3975fbe8eda83c02f62b34347bc9", null ],
+    [ "capacity", "d0/d8b/a05681.html#aed04549e911fb6ecebbac1cbd01e9dcd", null ],
+    [ "content", "d0/d8b/a05681.html#ad364f8ee7c9176b912ea053e2f3c928f", null ],
+    [ "empty", "d0/d8b/a05681.html#a7509cc5ef0dd0a9f731c47b05929580c", null ],
+    [ "full", "d0/d8b/a05681.html#a2a2f13f00dca028142c250b5f2183097", null ],
+    [ "peak_back", "d0/d8b/a05681.html#ad4bb17889033526da4605ebddd60f3c7", null ],
+    [ "put", "d0/d8b/a05681.html#a2a5e093804731b69969c18e49a206572", null ],
+    [ "size", "d0/d8b/a05681.html#af429f831da3fd31618d1c1612cd94ce7", null ],
+    [ "buf_", "d0/d8b/a05681.html#aa2b9389da6cd912b4dd54d89ca1d69ee", null ],
+    [ "full_", "d0/d8b/a05681.html#a1dfcbf9f9d2760d7d82144c57ff8a60e", null ],
+    [ "head_", "d0/d8b/a05681.html#a43ba1c722307cdbbf38f8ba1ec7f64c6", null ],
+    [ "max_size_", "d0/d8b/a05681.html#a4ad34b67dc4924addf79905732203d2a", null ],
+    [ "mutex_", "d0/d8b/a05681.html#aa4762ba2167d8b9560ff39328b4b3afa", null ],
+    [ "tail_", "d0/d8b/a05681.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f", null ]
 ];

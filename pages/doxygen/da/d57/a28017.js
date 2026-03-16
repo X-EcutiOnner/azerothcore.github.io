@@ -1,8 +1,7 @@
 var a28017 =
 [
-    [ "difficulty", "da/d57/a28017.html#a2a04df701c13dc49053b09a9587a72a8", null ],
-    [ "encounterIndex", "da/d57/a28017.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
-    [ "encounterName", "da/d57/a28017.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
-    [ "id", "da/d57/a28017.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
-    [ "mapId", "da/d57/a28017.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
+    [ "CharacterDeleteActionIpLogger", "da/d57/a28017.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "da/d57/a28017.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "da/d57/a28017.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "da/d57/a28017.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

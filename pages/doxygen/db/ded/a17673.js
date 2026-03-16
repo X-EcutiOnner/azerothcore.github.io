@@ -1,6 +1,8 @@
 var a17673 =
 [
-    [ "KnockIntoAir", "db/ded/a17673.html#a1f9fb1f258613ca6657abba26969961f", null ],
-    [ "PrepareSpellScript", "db/ded/a17673.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
-    [ "Register", "db/ded/a17673.html#a35a7758630c1769228fedff84ad929e8", null ]
+    [ "boss_eck", "db/ded/a17673.html#a665b54f72e674c8f65dd09daba5413db", null ],
+    [ "InitializeAI", "db/ded/a17673.html#a92e5117337d372e1700d074f02c06df6", null ],
+    [ "JustEngagedWith", "db/ded/a17673.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
+    [ "MovementInform", "db/ded/a17673.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
+    [ "SpellHitTarget", "db/ded/a17673.html#a63125d970933d6fa1f196aa28c588f40", null ]
 ];

@@ -1,6 +1,9 @@
 var a16721 =
 [
-    [ "npc_toc_druidAI", "d0/d79/a16725.html", "d0/d79/a16725" ],
-    [ "npc_toc_druid", "d8/dd9/a16721.html#a07321d5ee164b8e47f652f9bad65216b", null ],
-    [ "GetAI", "d8/dd9/a16721.html#a4f33e8f3649c0b398448cd01666cf92b", null ]
+    [ "npc_memoryAI", "d8/dd9/a16721.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "d8/dd9/a16721.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "d8/dd9/a16721.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "d8/dd9/a16721.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "d8/dd9/a16721.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "d8/dd9/a16721.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

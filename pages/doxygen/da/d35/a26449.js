@@ -1,9 +1,9 @@
 var a26449 =
 [
-    [ "CheckCast", "da/d35/a26449.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
-    [ "FilterTargets", "da/d35/a26449.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
-    [ "HandleDummy", "da/d35/a26449.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
-    [ "PrepareSpellScript", "da/d35/a26449.html#a9c992e732b525e29f684947398d20efb", null ],
-    [ "Register", "da/d35/a26449.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
-    [ "Validate", "da/d35/a26449.html#abca1e5aa46e7753588c8120090775195", null ]
+    [ "HandleAfterCast", "da/d35/a26449.html#afd2fbc51ac1e99789994021af36688f3", null ],
+    [ "HandleTriggerSpell", "da/d35/a26449.html#ae140ab00101f081454b55e12a7c54440", null ],
+    [ "Load", "da/d35/a26449.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
+    [ "PrepareSpellScript", "da/d35/a26449.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
+    [ "Register", "da/d35/a26449.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
+    [ "_triggerSpellId", "da/d35/a26449.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
 ];

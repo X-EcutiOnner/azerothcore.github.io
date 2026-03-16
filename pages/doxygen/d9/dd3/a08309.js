@@ -1,5 +1,10 @@
 var a08309 =
 [
-    [ "Color", "d9/dd3/a08309.html#ad6232c851b72ce04d2dcfa00596fc1df", null ],
-    [ "Content", "d9/dd3/a08309.html#a5437849d9b7f229c4466e174d619d057", null ]
+    [ "auras", "d9/dd3/a08309.html#a20695ff7997e1ebd6fe898a8b41aeddb", null ],
+    [ "bytes1", "d9/dd3/a08309.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9", null ],
+    [ "bytes2", "d9/dd3/a08309.html#aedf06568867bbb5db5ca8017727dab9d", null ],
+    [ "emote", "d9/dd3/a08309.html#a82f7be10807af7b25dd41c643be066fc", null ],
+    [ "mount", "d9/dd3/a08309.html#a4d84276a45de1b62e507ac5c763dce3a", null ],
+    [ "path_id", "d9/dd3/a08309.html#aa86bac734e0e652b6bb4ea273cf62571", null ],
+    [ "visibilityDistanceType", "d9/dd3/a08309.html#ad3ae39b8c5be151e15ab6f1494943bc3", null ]
 ];

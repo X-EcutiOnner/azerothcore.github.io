@@ -1,6 +1,6 @@
 var a14577 =
 [
-    [ "CheckItem", "dd/d76/a14577.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
-    [ "PrepareSpellScript", "dd/d76/a14577.html#a0fa160f1218cf838444f894716cb8aed", null ],
-    [ "Register", "dd/d76/a14577.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
+    [ "LaunchHit", "dd/d76/a14577.html#a715c86c4057fe8c60abf02d895ac3c5a", null ],
+    [ "PrepareSpellScript", "dd/d76/a14577.html#a4ad316b68d84921255577aedabb5ad3f", null ],
+    [ "Register", "dd/d76/a14577.html#a50fa3ede9bebb2b54c4ec10091017c07", null ]
 ];

@@ -1,9 +1,7 @@
 var a24257 =
 [
-    [ "npc_pet_shaman_fire_elemental", "d0/d74/a24257.html#a3428642963fc9e7588ec92fd838f1af9", null ],
-    [ "InitializeAI", "d0/d74/a24257.html#aef4865f83ce0c73efe0c47a11ac87594", null ],
-    [ "JustEngagedWith", "d0/d74/a24257.html#ac274b9edb03ab13a8e95d8c4fe5055db", null ],
-    [ "UpdateAI", "d0/d74/a24257.html#a2280e5cc5187a91917a1e517e80e960d", null ],
-    [ "_events", "d0/d74/a24257.html#aa4578cdbe41d28e399247c84c9fe8049", null ],
-    [ "_initAttack", "d0/d74/a24257.html#a2df79acc05dd8489e9e994e044b45404", null ]
+    [ "npc_kservantAI", "d0/d74/a24257.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "d0/d74/a24257.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "d0/d74/a24257.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "WaypointReached", "d0/d74/a24257.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
 ];

@@ -1,6 +1,6 @@
 var a20957 =
 [
-    [ "npc_massive_jormungarAI", "df/dff/a20961.html", "df/dff/a20961" ],
-    [ "npc_massive_jormungar", "dc/d2c/a20957.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
-    [ "GetAI", "dc/d2c/a20957.html#a68e3557e967ef633ba59fa81e661b80c", null ]
+    [ "FilterTargets", "dc/d2c/a20957.html#a7efa78a7991b7ca859c7d622f973265d", null ],
+    [ "PrepareSpellScript", "dc/d2c/a20957.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
+    [ "Register", "dc/d2c/a20957.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
 ];

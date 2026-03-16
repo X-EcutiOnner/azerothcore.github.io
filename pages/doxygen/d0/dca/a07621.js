@@ -1,15 +1,10 @@
 var a07621 =
 [
-    [ "Print", "d0/dca/a07621.html#a7a3f746595d9ca126747f5e0ba52c71b", null ],
-    [ "CliHandler", "d0/dca/a07621.html#a6a7ba928db9d41743d7cebd1ad98b084", null ],
-    [ "GetAcoreString", "d0/dca/a07621.html#ab12ec41c55bc5f92461abff538a76b66", null ],
-    [ "GetNameLink", "d0/dca/a07621.html#ae879bbfa69992caa7a0b1b2b3c7d939c", null ],
-    [ "GetSessionDbcLocale", "d0/dca/a07621.html#a610f7431dc7b064c964e0d446160d19f", null ],
-    [ "GetSessionDbLocaleIndex", "d0/dca/a07621.html#a5a2118d9227aa53818d736e387d77dea", null ],
-    [ "HasSession", "d0/dca/a07621.html#a1cd4aabe4c61e3899a1e6d6785742abe", null ],
-    [ "needReportToTarget", "d0/dca/a07621.html#ad8c4ee6e45afff55d94dea9704bd2097", null ],
-    [ "ParseCommands", "d0/dca/a07621.html#abbd02247d6094bf39b2791ba45e9942e", null ],
-    [ "SendSysMessage", "d0/dca/a07621.html#a636be10a282a8d100b807dac119b3ff6", null ],
-    [ "m_callbackArg", "d0/dca/a07621.html#aa1fafd68fca180506cc15680b695db9e", null ],
-    [ "m_print", "d0/dca/a07621.html#aadeaa84ce5d26951f506a2656c1d64d2", null ]
+    [ "BattlegroundBE", "d0/dca/a07621.html#a4b29ebe897de3109b165607de957fae2", null ],
+    [ "FillInitialWorldStates", "d0/dca/a07621.html#a15f4e4a79c5a1ee594811aa1cd1786f7", null ],
+    [ "HandleAreaTrigger", "d0/dca/a07621.html#a6216e25edd0057b9599efc787045505e", null ],
+    [ "HandlePlayerUnderMap", "d0/dca/a07621.html#ab004984d4b882e72471b0b5a8fca9632", null ],
+    [ "SetupBattleground", "d0/dca/a07621.html#a2eed1be4672539674e092edb6a6a9627", null ],
+    [ "StartingEventCloseDoors", "d0/dca/a07621.html#a2379fda6296fcdbde68fad362e858621", null ],
+    [ "StartingEventOpenDoors", "d0/dca/a07621.html#a09be55b7b6a1559a657bdfbd672021f0", null ]
 ];

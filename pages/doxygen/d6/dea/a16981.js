@@ -1,6 +1,6 @@
 var a16981 =
 [
-    [ "npc_announcer_toc10", "d6/dea/a16981.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
-    [ "OnGossipHello", "d6/dea/a16981.html#afcc5262e7c49b7456af146de14805a06", null ],
-    [ "OnGossipSelect", "d6/dea/a16981.html#a9a2bf1d3a215332744ca473041cc0520", null ]
+    [ "npc_toc_retro_paladinAI", "d4/dc9/a16985.html", "d4/dc9/a16985" ],
+    [ "npc_toc_retro_paladin", "d6/dea/a16981.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
+    [ "GetAI", "d6/dea/a16981.html#a1213c99792aa4362275bc827aa2f037e", null ]
 ];

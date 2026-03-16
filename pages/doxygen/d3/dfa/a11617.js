@@ -1,6 +1,6 @@
 var a11617 =
 [
-    [ "ObjectAreaTargetSelectHandler", "d3/dfa/a11617.html#a89b86436bb1de38223165e7ef60f2b61", null ],
-    [ "Call", "d3/dfa/a11617.html#a11d2070610d178006231bac274d1f311", null ],
-    [ "pObjectAreaTargetSelectHandlerScript", "d3/dfa/a11617.html#a118ca963c6319802806913762c4d1fec", null ]
+    [ "WorldObjectSpellConeTargetCheck", "d3/dfa/a11617.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
+    [ "operator()", "d3/dfa/a11617.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
+    [ "_coneAngle", "d3/dfa/a11617.html#a8f946789292320ea8b205dec5d1e1975", null ]
 ];

@@ -1,20 +1,11 @@
 var a07421 =
 [
-    [ "ArenaMatchmakerRating", "df/d98/a07421.html#aebaba68d0d75e08eb909975d70ab7084", null ],
-    [ "ArenaTeamId", "df/d98/a07421.html#a62d4963600711b2476d6de964fc51f5e", null ],
-    [ "ArenaTeamRating", "df/d98/a07421.html#a167a97bcd0ee298dfc49cabc4193fd3e", null ],
-    [ "ArenaType", "df/d98/a07421.html#a607a585ca374dc2cf9e8f5e460465f22", null ],
-    [ "BgTypeId", "df/d98/a07421.html#aad98458292aca41fc7feb2e63ba5125f", null ],
-    [ "BracketId", "df/d98/a07421.html#a99ed2f2dc9510c77cbe1fdf1497ce5d4", null ],
-    [ "GroupType", "df/d98/a07421.html#af4ad41d00ee448097eb4b7e468f336f8", null ],
-    [ "IsInvitedToBGInstanceGUID", "df/d98/a07421.html#a0261df1066e01602f475e9a08e142883", null ],
-    [ "IsRated", "df/d98/a07421.html#af6bac7c32a8e3e7faf647a4f6b6722a0", null ],
-    [ "JoinTime", "df/d98/a07421.html#a44939a98ff1ec940e42e79faf31a2e9a", null ],
-    [ "OpponentsMatchmakerRating", "df/d98/a07421.html#a558a2febf6dcc2aed2ddedfd1f5d342a", null ],
-    [ "OpponentsTeamRating", "df/d98/a07421.html#adf219cc12cebeaddebf8c04c5004c30a", null ],
-    [ "Players", "df/d98/a07421.html#ae5912a881a5ecaa761ea28c87e6c45ad", null ],
-    [ "PreviousOpponentsTeamId", "df/d98/a07421.html#a2fac6fffa7bec4507fdde7632e2b4df0", null ],
-    [ "RealTeamID", "df/d98/a07421.html#a972df7095f38b6f2617bc12a67ac30f7", null ],
-    [ "RemoveInviteTime", "df/d98/a07421.html#aefe5994744194e7db9110fb36fa9c4bb", null ],
-    [ "teamId", "df/d98/a07421.html#a2303f13880bbac9faf4b1fd4fc6334d5", null ]
+    [ "gyid", "df/d98/a07421.html#a742fcc91d2daf1a9331f02a90496328c", null ],
+    [ "o", "df/d98/a07421.html#a9c761e77b7194ab1bb80d28f2b1e1f6d", null ],
+    [ "startcontrol", "df/d98/a07421.html#a8b0aed9e6973ce6efc5d89a0d10a4139", null ],
+    [ "textid", "df/d98/a07421.html#a87d80377ad632b9d667eecf11ae8faae", null ],
+    [ "type", "df/d98/a07421.html#ae1a4b69ea4edabe51f1378c6cb066cad", null ],
+    [ "x", "df/d98/a07421.html#ad69833b4e2a27999dcd13e5ac5bda892", null ],
+    [ "y", "df/d98/a07421.html#a405e8098772e77250683985f957ce5f3", null ],
+    [ "z", "df/d98/a07421.html#a844e4c9c9b1a9a22a817025ccda7f08d", null ]
 ];

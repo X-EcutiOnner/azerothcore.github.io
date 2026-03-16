@@ -1,8 +1,7 @@
 var a09569 =
 [
-    [ "AllCreaturesMatchingOneEntryInRange", "dc/d83/a09569.html#a440899ae5e52fedea316b7caa550455e", null ],
-    [ "operator()", "dc/d83/a09569.html#a95c87356617b135cc3ab0aec74e9f9c9", null ],
-    [ "m_fRange", "dc/d83/a09569.html#ac3ca671167fe5dbc8f9798327a8a3fcf", null ],
-    [ "m_pObject", "dc/d83/a09569.html#a1a7b27a1b2f0d623829605e42bf98900", null ],
-    [ "m_uiEntries", "dc/d83/a09569.html#a8411b275c6aad74eac83147a6d06fb0b", null ]
+    [ "GameObjectFocusCheck", "dc/d83/a09569.html#a06607ffa0ebf51c230f4584632a7444a", null ],
+    [ "operator()", "dc/d83/a09569.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b", null ],
+    [ "i_focusId", "dc/d83/a09569.html#ace009546c2dcc6dac5de98b3c34152a5", null ],
+    [ "i_unit", "dc/d83/a09569.html#a0afc07e086f5aa3301c2b46a0004213e", null ]
 ];

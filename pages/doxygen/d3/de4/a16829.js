@@ -1,7 +1,6 @@
 var a16829 =
 [
-    [ "npc_toc_retro_paladinAI", "d3/de4/a16829.html#afe933281cea61c9a4f3ded76290a3b72", null ],
-    [ "myCanCast", "d3/de4/a16829.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
-    [ "UpdateAI", "d3/de4/a16829.html#a105d6b9c133c1147b310826d7be416f5", null ],
-    [ "events", "d3/de4/a16829.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
+    [ "npc_swarm_scarabAI", "d7/de4/a16833.html", "d7/de4/a16833" ],
+    [ "npc_swarm_scarab", "d3/de4/a16829.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
+    [ "GetAI", "d3/de4/a16829.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
 ];

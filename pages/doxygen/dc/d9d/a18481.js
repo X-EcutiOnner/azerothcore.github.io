@@ -1,6 +1,7 @@
 var a18481 =
 [
-    [ "PeriodicTick", "dc/d9d/a18481.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
-    [ "PrepareAuraScript", "dc/d9d/a18481.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
-    [ "Register", "dc/d9d/a18481.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
+    [ "HandleCast", "dc/d9d/a18481.html#aaa3262bc782e342825d4caba2954e95d", null ],
+    [ "PrepareSpellScript", "dc/d9d/a18481.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
+    [ "Register", "dc/d9d/a18481.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
+    [ "Validate", "dc/d9d/a18481.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
 ];

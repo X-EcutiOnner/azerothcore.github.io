@@ -1,9 +1,8 @@
 var a27837 =
 [
-    [ "CountTargets", "d9/d1c/a27837.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
-    [ "HandleDummy", "d9/d1c/a27837.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
-    [ "PrepareSpellScript", "d9/d1c/a27837.html#adfb7e3fbb52aa349573b95c457823900", null ],
-    [ "Register", "d9/d1c/a27837.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
-    [ "Validate", "d9/d1c/a27837.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
-    [ "_targetCount", "d9/d1c/a27837.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
+    [ "HandleDummy", "d9/d1c/a27837.html#ad2eec86cff225cc0bd806e31596fb127", null ],
+    [ "PrepareSpellScript", "d9/d1c/a27837.html#a59a04dcfee911c70e13ea8d27b4a49c4", null ],
+    [ "Register", "d9/d1c/a27837.html#a6c72b4c813368774283ae94036a43ee2", null ],
+    [ "SendMiss", "d9/d1c/a27837.html#a7c6d300e60ed492c82d5c017d3e73ed1", null ],
+    [ "Validate", "d9/d1c/a27837.html#a9a5014de08f73ad5dad29354812030ac", null ]
 ];

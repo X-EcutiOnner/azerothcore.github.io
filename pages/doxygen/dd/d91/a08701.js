@@ -1,10 +1,7 @@
 var a08701 =
 [
-    [ "EquipmentSet", "dd/d91/a08701.html#acd3085c12c795daceae86e94448109e2", null ],
-    [ "Guid", "dd/d91/a08701.html#aae529ea61a2ad4f114b6a108564f5474", null ],
-    [ "IconName", "dd/d91/a08701.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
-    [ "IgnoreMask", "dd/d91/a08701.html#af116e824d23f000f424f3b261618e827", null ],
-    [ "Items", "dd/d91/a08701.html#a113e6e5883afe38d446a6d435cd34a01", null ],
-    [ "Name", "dd/d91/a08701.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
-    [ "state", "dd/d91/a08701.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
+    [ "UsedPos", "dd/d91/a08701.html#aef230e392619ad4abc2da649d11b2394", null ],
+    [ "dist", "dd/d91/a08701.html#ae73cbe8b0cf3ce714f6654df3a8874de", null ],
+    [ "sign", "dd/d91/a08701.html#a2b5f97425309d56482a1f287b6d5be69", null ],
+    [ "size", "dd/d91/a08701.html#a4ad5a2df36ae9c1cd9130c5efd27af58", null ]
 ];

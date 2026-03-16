@@ -1,7 +1,8 @@
 var a16813 =
 [
-    [ "npc_toc_rogueAI", "d8/d14/a16813.html#a34027e7d10edbfba8e046f4785e37899", null ],
-    [ "myCanCast", "d8/d14/a16813.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
-    [ "UpdateAI", "d8/d14/a16813.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
-    [ "events", "d8/d14/a16813.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
+    [ "npc_announcer_toc5AI", "d8/d14/a16813.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
+    [ "DamageTaken", "d8/d14/a16813.html#a53458483699ac026ff2cd36b5f061571", null ],
+    [ "MovementInform", "d8/d14/a16813.html#acdcf4110b3815635ad173a70e7a1e603", null ],
+    [ "Reset", "d8/d14/a16813.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
+    [ "UpdateAI", "d8/d14/a16813.html#ad2c596253d67d051f497a8d77859846d", null ]
 ];

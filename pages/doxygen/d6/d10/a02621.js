@@ -1,7 +1,8 @@
 var a02621 =
 [
-    [ "GetCleanAliasName", "d6/d10/a02621.html#ae187308862c39923e2b843bc9d4c989c", null ],
-    [ "GetDefaultValue", "d6/d10/a02621.html#a2ea1ae2c2289bdc9068ec9c886d124c8", null ],
-    [ "IsCorrectAlias", "d6/d10/a02621.html#a56e834d391c0eb5187d3c7dd0dad88b7", null ],
-    [ "IsCorrectFieldType", "d6/d10/a02621.html#a61bef7957f008e8cd937746ba03feb73", null ]
+    [ "PingOperation", "d6/da4/a05949.html", "d6/da4/a05949" ],
+    [ "DatabaseIncompatibleVersion", "d6/d10/a02621.html#a31d71bc4748fa66e040eb20dc995e12e", null ],
+    [ "DatabaseWorkerPool< CharacterDatabaseConnection >", "d6/d10/a02621.html#aa3cb93fc2ebcb628d94ae0dd8ddf8a18", null ],
+    [ "DatabaseWorkerPool< LoginDatabaseConnection >", "d6/d10/a02621.html#a8751940b74a554bf0a86046325e0c5ed", null ],
+    [ "DatabaseWorkerPool< WorldDatabaseConnection >", "d6/d10/a02621.html#a25e66781580e4e7fcbd8e8ca6ef9f13a", null ]
 ];

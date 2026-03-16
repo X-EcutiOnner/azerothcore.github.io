@@ -1,12 +1,12 @@
 var a17909 =
 [
-    [ "gunship_npc_AI", "d1/d24/a17909.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
-    [ "EnterEvadeMode", "d1/d24/a17909.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
-    [ "JustDied", "d1/d24/a17909.html#ad40c976be4decd9054dad031a4caab78", null ],
-    [ "MovementInform", "d1/d24/a17909.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
-    [ "SetData", "d1/d24/a17909.html#acfd5e331155d7787ada33acbca73fece", null ],
-    [ "SetSlotInfo", "d1/d24/a17909.html#afdfc3f9add2952f90baf24d55425670f", null ],
-    [ "Index", "d1/d24/a17909.html#ae120874514cf5921136821b820a04da7", null ],
-    [ "Instance", "d1/d24/a17909.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
-    [ "Slot", "d1/d24/a17909.html#a59d237475ae309755d429cfac77d6630", null ]
+    [ "npc_high_overlord_saurfangAI", "d1/d24/a17909.html#a5c31259d9eb26e09d2b645d826e75328", null ],
+    [ "DoAction", "d1/d24/a17909.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
+    [ "MovementInform", "d1/d24/a17909.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
+    [ "Reset", "d1/d24/a17909.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
+    [ "SpellHit", "d1/d24/a17909.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
+    [ "UpdateAI", "d1/d24/a17909.html#a92124e7490a066bf63836397a3bdc71b", null ],
+    [ "_events", "d1/d24/a17909.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
+    [ "_guardList", "d1/d24/a17909.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
+    [ "_instance", "d1/d24/a17909.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
 ];

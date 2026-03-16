@@ -1,7 +1,10 @@
 var a28401 =
 [
-    [ "RealmHandle", "d1/d7c/a28401.html#a120fb45f2301188a843ab2e712f768e4", null ],
-    [ "RealmHandle", "d1/d7c/a28401.html#ac3e04e9790e1ae75b9701f1a84b9f6e2", null ],
-    [ "operator<", "d1/d7c/a28401.html#ad414bab23a3ecfb3cabb146d5f43bf3e", null ],
-    [ "Realm", "d1/d7c/a28401.html#a31af0d9064a295b1579fce3c80217bfd", null ]
+    [ "go_evil_book_for_dummies", "d1/d7c/a28401.html#a69f599910bce0070c6b1af547c459b72", null ],
+    [ "HasLeatherSpecialty", "d1/d7c/a28401.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
+    [ "OnGossipHello", "d1/d7c/a28401.html#aeb29351e2faf135298419488eb16cc7e", null ],
+    [ "OnGossipSelect", "d1/d7c/a28401.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
+    [ "SendActionMenu", "d1/d7c/a28401.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
+    [ "SendConfirmLearn", "d1/d7c/a28401.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
+    [ "SendConfirmUnlearn", "d1/d7c/a28401.html#af9c10b0423327d8644020e8f5e26a603", null ]
 ];

@@ -1,6 +1,6 @@
 var a18097 =
 [
-    [ "HandlePeriodicTick", "dc/dda/a18097.html#a29bf443cdb53b10032ba382b8ae44828", null ],
-    [ "PrepareAuraScript", "dc/dda/a18097.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
-    [ "Register", "dc/dda/a18097.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
+    [ "npc_gunship_gunnerAI", "d7/dba/a18101.html", "d7/dba/a18101" ],
+    [ "npc_gunship_gunner", "dc/dda/a18097.html#a409711f22b35eae0c0d48bc23545e592", null ],
+    [ "GetAI", "dc/dda/a18097.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
 ];

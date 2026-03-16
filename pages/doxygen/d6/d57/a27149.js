@@ -1,6 +1,6 @@
 var a27149 =
 [
-    [ "go_gilded_brazierAI", "d5/d13/a27153.html", "d5/d13/a27153" ],
-    [ "go_gilded_brazier", "d6/d57/a27149.html#a778c753a8432131601371da8849ef004", null ],
-    [ "GetAI", "d6/d57/a27149.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
+    [ "HandleDummy", "d6/d57/a27149.html#aa530b0e27c9b9ba1978a80fd4a47f68d", null ],
+    [ "PrepareSpellScript", "d6/d57/a27149.html#a22adac71d2693d17313e506f1d12532f", null ],
+    [ "Register", "d6/d57/a27149.html#a2680afcbe3d7e95404c614e2f0f93bf4", null ]
 ];

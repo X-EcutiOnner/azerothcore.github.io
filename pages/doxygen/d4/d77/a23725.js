@@ -1,9 +1,9 @@
 var a23725 =
 [
-    [ "boss_nethermancer_sepethrea", "d4/d77/a23725.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "EnterEvadeMode", "d4/d77/a23725.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
-    [ "JustDied", "d4/d77/a23725.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
-    [ "JustEngagedWith", "d4/d77/a23725.html#a89851b9f6eb94270fe22151d3a968bec", null ],
-    [ "JustSummoned", "d4/d77/a23725.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
-    [ "KilledUnit", "d4/d77/a23725.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
+    [ "boss_high_botanist_freywinn", "d4/d77/a23725.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
+    [ "JustDied", "d4/d77/a23725.html#a7b370482ea195d0305cba339ce0cbab3", null ],
+    [ "JustEngagedWith", "d4/d77/a23725.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
+    [ "KilledUnit", "d4/d77/a23725.html#a80a997e0d12c175da0a46d7362890b9c", null ],
+    [ "ResumeEncounter", "d4/d77/a23725.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
+    [ "SummonedCreatureDies", "d4/d77/a23725.html#a7f1a02d4b944191471f59ba728b6372e", null ]
 ];

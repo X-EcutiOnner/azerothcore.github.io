@@ -1,13 +1,6 @@
 var a17357 =
 [
-    [ "boss_tyrannusAI", "d9/df6/a17357.html#a753de14d2cecaaed2c7b24e09397b008", null ],
-    [ "CanAIAttack", "d9/df6/a17357.html#a0cb60f308637cbd152faf274b3e5f636", null ],
-    [ "DoAction", "d9/df6/a17357.html#ab4d899ab5da283c8d256df8cb0d4e312", null ],
-    [ "EnterEvadeMode", "d9/df6/a17357.html#a9d18bab323c676020dede77a498a5b77", null ],
-    [ "JustDied", "d9/df6/a17357.html#a249b7dc28dfc40c2a782ef32b88dbb48", null ],
-    [ "KilledUnit", "d9/df6/a17357.html#abf7c8909143dac641c00cca160bef964", null ],
-    [ "Reset", "d9/df6/a17357.html#aec686cffccd8d95a341e320ffc7d5b7e", null ],
-    [ "UpdateAI", "d9/df6/a17357.html#a4357dc2e9b1d714d780db6ce3f60728b", null ],
-    [ "events", "d9/df6/a17357.html#a2168a2e1b36607b76614bdef54b02bc3", null ],
-    [ "pInstance", "d9/df6/a17357.html#ad4a8282849aaa1ce8b4702b5af55d35b", null ]
+    [ "npc_phantom_hallucinationAI", "d6/da0/a17361.html", "d6/da0/a17361" ],
+    [ "npc_phantom_hallucination", "d9/df6/a17357.html#a685889c090152a2562ee9adef7efbf71", null ],
+    [ "GetAI", "d9/df6/a17357.html#a771ee338f87ca0a2e9a7d02d1322c5d5", null ]
 ];

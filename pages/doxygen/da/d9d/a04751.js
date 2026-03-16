@@ -1,5 +1,5 @@
 var a04751 =
 [
-    [ "message_commandscript", "d9/d3d/a12194.html", "d9/d3d/a12194" ],
-    [ "AddSC_message_commandscript", "da/d9d/a04751.html#a85760eb92ac87e8dcb18c91d31f09fc0", null ]
+    [ "modify_commandscript", "d8/d18/a12193.html", "d8/d18/a12193" ],
+    [ "AddSC_modify_commandscript", "da/d9d/a04751.html#a9cbb6ad3c630cbeb9ba39b4552f72e87", null ]
 ];

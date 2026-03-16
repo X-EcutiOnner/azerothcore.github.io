@@ -1,9 +1,7 @@
 var a11365 =
 [
-    [ "EncryptableAndCompressiblePacket", "db/dbd/a11365.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
-    [ "CompressIfNeeded", "db/dbd/a11365.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
-    [ "NeedsCompression", "db/dbd/a11365.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
-    [ "NeedsEncryption", "db/dbd/a11365.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
-    [ "_encrypt", "db/dbd/a11365.html#a37a68eddad23001a85a4a2f77e237810", null ],
-    [ "SocketQueueLink", "db/dbd/a11365.html#a88f11ce75f439fd290bdc09156d559c2", null ]
+    [ "TimeQueryResponse", "db/dbd/a11365.html#abefcc15670a85ae023d24bfa5dc26a11", null ],
+    [ "Write", "db/dbd/a11365.html#a5fbfca11889684a0ab6b437eb30527cc", null ],
+    [ "ServerTime", "db/dbd/a11365.html#a9dfc03a60bb8a1f20eb850e3f8a00b88", null ],
+    [ "TimeResponse", "db/dbd/a11365.html#a4f528e5c08dc67a2c6f7826b21a771ed", null ]
 ];

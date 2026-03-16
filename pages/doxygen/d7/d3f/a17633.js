@@ -1,6 +1,6 @@
 var a17633 =
 [
-    [ "npc_kinetic_bombAI", "d3/d00/a17637.html", "d3/d00/a17637" ],
-    [ "npc_kinetic_bomb", "d7/d3f/a17633.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
-    [ "GetAI", "d7/d3f/a17633.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
+    [ "entry", "d7/d3f/a17633.html#af2cf5df64adf9ac1575a8217b103e738", null ],
+    [ "x", "d7/d3f/a17633.html#aad21475d521921ea30cc0ae5d260ce69", null ],
+    [ "y", "d7/d3f/a17633.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
 ];

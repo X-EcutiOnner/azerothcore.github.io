@@ -1,26 +1,9 @@
 var a09865 =
 [
-    [ "AddItem", "dd/d92/a09865.html#ab39b529b190bafe093a7931311c24626", null ],
-    [ "HasItems", "dd/d92/a09865.html#a0997971db668abca530f1869d71828dc", null ],
-    [ "IsCODPayment", "dd/d92/a09865.html#a113aef1ace737f4bf119ee9cec9d69bd", null ],
-    [ "IsReturnedMail", "dd/d92/a09865.html#adb7b77433c2ac76939d3fa9aa7ba5972", null ],
-    [ "IsSentByGM", "dd/d92/a09865.html#a0e07f4b90ae44b9dc2a2cac9589196db", null ],
-    [ "IsSentByPlayer", "dd/d92/a09865.html#a387fbf2f51eb9414bbcead134f59fa53", null ],
-    [ "RemoveItem", "dd/d92/a09865.html#ab96701f1ab95184d78a1a91c87d0076c", null ],
-    [ "body", "dd/d92/a09865.html#aaa91a94ee92b2712218a9cae389554f7", null ],
-    [ "checked", "dd/d92/a09865.html#ae3198d4379f7f783aa40b180311ca970", null ],
-    [ "COD", "dd/d92/a09865.html#ac6db3ffc26e23cc0aea607633390bb66", null ],
-    [ "deliver_time", "dd/d92/a09865.html#ac418d7eae438c2c3cd297477a760f0b1", null ],
-    [ "expire_time", "dd/d92/a09865.html#a5d7d7251c7a6021d9dc8b9406c0c20ff", null ],
-    [ "items", "dd/d92/a09865.html#aab1074d26d11d3216df8f7e6e9b8c1f7", null ],
-    [ "mailTemplateId", "dd/d92/a09865.html#afefffec74369d920ce395f1a04d8838c", null ],
-    [ "messageID", "dd/d92/a09865.html#a3ee287f59b36f3154cd977a1e92c4d47", null ],
-    [ "messageType", "dd/d92/a09865.html#a240dfdc4b89b7cb806330460d5256a44", null ],
-    [ "money", "dd/d92/a09865.html#af326068e66a3091aa731186e5e3295ed", null ],
-    [ "receiver", "dd/d92/a09865.html#a1cc9173228e34a23b635dfdb6fdf58a1", null ],
-    [ "removedItems", "dd/d92/a09865.html#a4299fd5b84f08ff8b1a8fa7caadf531b", null ],
-    [ "sender", "dd/d92/a09865.html#a62b403874a8e34a2ab99bc77dbe2996d", null ],
-    [ "state", "dd/d92/a09865.html#ae81b243e0ef55683b282e8bfae1d7a42", null ],
-    [ "stationery", "dd/d92/a09865.html#a88588149be95899c2fc30b144c4425a6", null ],
-    [ "subject", "dd/d92/a09865.html#a8bc2e13257b7a771c9065e35aaf02744", null ]
+    [ "BroadcastTextID", "dd/d92/a09865.html#a756f24dbee852a7fbe152c0cb082c412", null ],
+    [ "Emotes", "dd/d92/a09865.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
+    [ "Language", "dd/d92/a09865.html#a33bc5a0c156918b00380710aeb275d3d", null ],
+    [ "Probability", "dd/d92/a09865.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
+    [ "Text_0", "dd/d92/a09865.html#a046d637b91807db067c6e7050184322d", null ],
+    [ "Text_1", "dd/d92/a09865.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
 ];

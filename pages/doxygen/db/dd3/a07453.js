@@ -1,11 +1,7 @@
 var a07453 =
 [
-    [ "BattlegroundABScore", "db/dd3/a07453.html#ae219ecb551c89ad5a5cb22f1996a598b", null ],
-    [ "BuildObjectivesBlock", "db/dd3/a07453.html#a86ac6e9b19eaa7ed257f25f9f73c22cf", null ],
-    [ "GetAttr1", "db/dd3/a07453.html#af0f066f76f4d84e844946862ae819b4f", null ],
-    [ "GetAttr2", "db/dd3/a07453.html#a8ac00679dd8dfeef81f159b7a2b22027", null ],
-    [ "UpdateScore", "db/dd3/a07453.html#a43aaefd97c8880cbf70381282d81f7cf", null ],
-    [ "BattlegroundAB", "db/dd3/a07453.html#ad5365fcb2edd84180065badd1572ba8e", null ],
-    [ "BasesAssaulted", "db/dd3/a07453.html#a25643abf67d1ae2f8498951c11833994", null ],
-    [ "BasesDefended", "db/dd3/a07453.html#a450504481d335230b3e035d4337694be", null ]
+    [ "attackText", "db/dd3/a07453.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
+    [ "id", "db/dd3/a07453.html#a7f28adc30e9293df2f2c124469550d75", null ],
+    [ "takenText", "db/dd3/a07453.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
+    [ "worldstate", "db/dd3/a07453.html#a342ef087df4f9326952728c2192a3da3", null ]
 ];

@@ -1,7 +1,6 @@
 var a25061 =
 [
-    [ "OnApply", "d7/d96/a25061.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
-    [ "OnRemove", "d7/d96/a25061.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
-    [ "PrepareAuraScript", "d7/d96/a25061.html#a9a7b549e059b6bd2d22802f60e952658", null ],
-    [ "Register", "d7/d96/a25061.html#aae603735281daf02ceca157e218d5c9f", null ]
+    [ "PrepareAuraScript", "d7/d96/a25061.html#a8a60db6939ba71ddcf723fb4e48b3146", null ],
+    [ "Register", "d7/d96/a25061.html#a8ab913cf84f55428d2b0615172f3da3b", null ],
+    [ "AuraEffectHandleModes", "d7/d96/a25061.html#aed1cfe63d82450b526e154678fb97ac4", null ]
 ];

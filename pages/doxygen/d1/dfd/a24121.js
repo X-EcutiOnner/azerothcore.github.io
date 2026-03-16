@@ -1,6 +1,7 @@
 var a24121 =
 [
-    [ "PrepareSpellScript", "d1/dfd/a24121.html#ac781a5ff389268d1f18867ff5585ca71", null ],
-    [ "Register", "d1/dfd/a24121.html#a5cb9e02774ea6c307e76183253ffb472", null ],
-    [ "SetDest", "d1/dfd/a24121.html#a5fec9885b1dd6cf80fb47af321fad98e", null ]
+    [ "HandleEffectApply", "d1/dfd/a24121.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
+    [ "HandleEffectRemove", "d1/dfd/a24121.html#a96769390468dc132df62b5a0ec3a2da4", null ],
+    [ "PrepareAuraScript", "d1/dfd/a24121.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
+    [ "Register", "d1/dfd/a24121.html#a95905ec163c42463314a5f5bb023b4d6", null ]
 ];

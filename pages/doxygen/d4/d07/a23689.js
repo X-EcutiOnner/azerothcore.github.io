@@ -1,9 +1,9 @@
 var a23689 =
 [
-    [ "boss_void_reaver", "d4/d07/a23689.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
-    [ "JustDied", "d4/d07/a23689.html#a49e6f52b11177bdac07adff92c2675f5", null ],
-    [ "JustEngagedWith", "d4/d07/a23689.html#a9260d05e11f4dec6fc25432a0524706b", null ],
-    [ "KilledUnit", "d4/d07/a23689.html#adc234fc43308771a42d99049876cad1b", null ],
-    [ "Reset", "d4/d07/a23689.html#a02c36ea960de24991f879943991a93c6", null ],
-    [ "_recentlySpoken", "d4/d07/a23689.html#adc1bb9a6a3340f157c3ffcbd7dcd71ac", null ]
+    [ "boss_dalliah_the_doomsayer", "d4/d07/a23689.html#ad6edf9623942297b28bc7420ec0cc733", null ],
+    [ "InitializeAI", "d4/d07/a23689.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
+    [ "JustDied", "d4/d07/a23689.html#a431edc9c25fb125d7d267073eb1c1423", null ],
+    [ "JustEngagedWith", "d4/d07/a23689.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
+    [ "KilledUnit", "d4/d07/a23689.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
+    [ "Reset", "d4/d07/a23689.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
 ];

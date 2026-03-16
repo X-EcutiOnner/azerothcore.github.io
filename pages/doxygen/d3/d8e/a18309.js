@@ -1,7 +1,6 @@
 var a18309 =
 [
-    [ "HandleScript", "d3/d8e/a18309.html#a37b261d0df2829788d8290a9194913f5", null ],
-    [ "PrepareSpellScript", "d3/d8e/a18309.html#a69386dbef57322393a38eec90662135f", null ],
-    [ "Register", "d3/d8e/a18309.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
-    [ "Validate", "d3/d8e/a18309.html#a63c446574c700a895d7fbc5bb2b81508", null ]
+    [ "AbominationDespawner", "d3/d8e/a18309.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "d3/d8e/a18309.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "d3/d8e/a18309.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

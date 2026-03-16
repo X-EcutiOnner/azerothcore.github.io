@@ -1,18 +1,12 @@
 var a15233 =
 [
-    [ "instance_dire_maul_InstanceMapScript", "d9/d28/a15233.html#aacdc6a4029fceddfa56155b296012aa3", null ],
-    [ "GetData", "d9/d28/a15233.html#ad3eaa065114b6a0d2a38844df9289dc7", null ],
-    [ "Initialize", "d9/d28/a15233.html#a5b0977c0b20d6302ce6c5f8a14e78e90", null ],
-    [ "OnCreatureCreate", "d9/d28/a15233.html#aa903356acce9401a139e30fb6839f4df", null ],
-    [ "OnGameObjectCreate", "d9/d28/a15233.html#aad49d9f3f3c974e5c2f3a42b22759b9a", null ],
-    [ "ReadSaveDataMore", "d9/d28/a15233.html#ae8c49e7531b89074cc07ac0555650f05", null ],
-    [ "SetData", "d9/d28/a15233.html#a93e7b63eae8d1e21b7e5c57fa370e801", null ],
-    [ "WriteSaveDataMore", "d9/d28/a15233.html#ad6f52ef932cc09e377325e83482a3b5c", null ],
-    [ "_eastWingProgress", "d9/d28/a15233.html#a7f9d7f14c3223fa7bf7b7999d1f41105", null ],
-    [ "_immoltharGUID", "d9/d28/a15233.html#a4b63e6062765fc1df53c6a95b366e9f1", null ],
-    [ "_northWingBosses", "d9/d28/a15233.html#ab7130c806073258f4efae9e9177587be", null ],
-    [ "_northWingProgress", "d9/d28/a15233.html#a55e78ac91cf6073192594758e447cb19", null ],
-    [ "_pylonsState", "d9/d28/a15233.html#a5a16e7c47b42d1f8da9dde7b14f5c513", null ],
-    [ "_westWingProgress", "d9/d28/a15233.html#ab4d27deece6b8274300904571fb62e90", null ],
-    [ "HighborneSummoners", "d9/d28/a15233.html#af0e2c615ca136f4fffd1ed41e471f492", null ]
+    [ "boss_mal_ganisAI", "d9/d28/a15233.html#aa8b70930372cd0729686f7c6032d3152", null ],
+    [ "DamageTaken", "d9/d28/a15233.html#a4873386266ce3b4b849377028ff746a5", null ],
+    [ "JustDied", "d9/d28/a15233.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
+    [ "JustEngagedWith", "d9/d28/a15233.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
+    [ "KilledUnit", "d9/d28/a15233.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
+    [ "Reset", "d9/d28/a15233.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
+    [ "UpdateAI", "d9/d28/a15233.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
+    [ "events", "d9/d28/a15233.html#a194c002efe244b8c94a072faf72be771", null ],
+    [ "finished", "d9/d28/a15233.html#ac4c90c814aa55781f863c958253e9df2", null ]
 ];

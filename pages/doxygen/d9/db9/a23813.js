@@ -1,7 +1,5 @@
 var a23813 =
 [
-    [ "HandleDummy", "d9/db9/a23813.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "d9/db9/a23813.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "d9/db9/a23813.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "d9/db9/a23813.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "npc_thaladred", "d9/db9/a23813.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
+    [ "ScheduleEvents", "d9/db9/a23813.html#a24febff1fc8b155bca0fb177a8119dbb", null ]
 ];

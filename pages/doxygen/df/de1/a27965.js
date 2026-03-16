@@ -1,6 +1,5 @@
 var a27965 =
 [
-    [ "ChannelID", "df/de1/a27965.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
-    [ "flags", "df/de1/a27965.html#aa77db644555e336ccbb8dd138c192425", null ],
-    [ "pattern", "df/de1/a27965.html#ad8b550cf444d66eede00abcf2cefec22", null ]
+    [ "achievement_bg_sa_artillery", "df/de1/a27965.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
+    [ "OnCheck", "df/de1/a27965.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
 ];

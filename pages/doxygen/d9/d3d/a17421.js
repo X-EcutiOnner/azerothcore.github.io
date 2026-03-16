@@ -1,13 +1,13 @@
 var a17421 =
 [
-    [ "npc_pos_martin_or_gorkun_secondAI", "d9/d3d/a17421.html#a2b8f5479565297c95ecdc4882e7d27ae", null ],
-    [ "DoAction", "d9/d3d/a17421.html#aa1df5c0f5612a9fc9a4e78fb901dc8e7", null ],
-    [ "JustSummoned", "d9/d3d/a17421.html#acdfc5d370da977ab69752016368cc9b0", null ],
-    [ "MovementInform", "d9/d3d/a17421.html#a95c033e4e2ca224be09ce993f4e7996d", null ],
-    [ "SummonedCreatureDespawn", "d9/d3d/a17421.html#af31de5c7f901baf4d8c62964fee8ead8", null ],
-    [ "UpdateAI", "d9/d3d/a17421.html#ad22fbcd52404c1e9c1fc71f3bc6b7525", null ],
-    [ "events", "d9/d3d/a17421.html#a44045ae5151625a4d7aacb69e9c934e5", null ],
-    [ "i", "d9/d3d/a17421.html#aa185914ee8a2352e4d233f1fc4800390", null ],
-    [ "pInstance", "d9/d3d/a17421.html#ac38febd0bce9338346d0c1aa6ba50de3", null ],
-    [ "summons", "d9/d3d/a17421.html#ad0f2097f168ea5983e3eece24cb82bfa", null ]
+    [ "npc_hor_leader_secondAI", "d9/d3d/a17421.html#a54a5094dc533755efc249ebc96663b62", null ],
+    [ "DamageTaken", "d9/d3d/a17421.html#ae534779315b04b3dde495b13a1cb28e4", null ],
+    [ "DoAction", "d9/d3d/a17421.html#a4185259006017e85fade721796851dd0", null ],
+    [ "MovementInform", "d9/d3d/a17421.html#afe93165a3e96496b52a2be8de5022164", null ],
+    [ "MoveToNextStopPoint", "d9/d3d/a17421.html#a6d9f65386d6f40a5cf96b09ecaf54871", null ],
+    [ "Reset", "d9/d3d/a17421.html#ae5d125deab31e6425e94b4523d8251eb", null ],
+    [ "UpdateAI", "d9/d3d/a17421.html#ae991e18a6729a1b088c60060802c01c2", null ],
+    [ "currentStopPoint", "d9/d3d/a17421.html#ae4bf31530e701f9e0aa4f253452f9881", null ],
+    [ "events", "d9/d3d/a17421.html#a3510e246908f4e5b758e05ca06a29e47", null ],
+    [ "pInstance", "d9/d3d/a17421.html#a32cebea12e13c87b45dd2a4c6cf495e5", null ]
 ];

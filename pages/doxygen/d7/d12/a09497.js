@@ -1,9 +1,8 @@
 var a09497 =
 [
-    [ "NearestAttackableUnitInObjectRangeCheck", "d7/d12/a09497.html#ae2f43e2036047622ec88de3db08ea668", null ],
-    [ "NearestAttackableUnitInObjectRangeCheck", "d7/d12/a09497.html#a8deef14a2c11f9ccd9613614124a7d8e", null ],
-    [ "operator()", "d7/d12/a09497.html#a2f966e38682e6a02a120ad90ba19f7a4", null ],
-    [ "i_funit", "d7/d12/a09497.html#a88be7342d10008fc394f21b9a5e14162", null ],
-    [ "i_obj", "d7/d12/a09497.html#a6c1c4e5b85f6f7958578afb6c6f2af98", null ],
-    [ "i_range", "d7/d12/a09497.html#a26242657d6f2eb61d6f8fcac30357381", null ]
+    [ "GameObjectListSearcher", "d7/d12/a09497.html#a28282af745f658ad38a9492acc22b194", null ],
+    [ "Visit", "d7/d12/a09497.html#a1dea8a4d12e916ae64f4d1129ea6d185", null ],
+    [ "Visit", "d7/d12/a09497.html#a82522912fde5ea92f70fa76bb127504c", null ],
+    [ "i_check", "d7/d12/a09497.html#a85a67a285acadc451978e134d80180e7", null ],
+    [ "i_phaseMask", "d7/d12/a09497.html#aba5302d04dad7dfe3ed8dce1ec87bfbd", null ]
 ];

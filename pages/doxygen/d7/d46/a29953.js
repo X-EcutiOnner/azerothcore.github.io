@@ -1,14 +1,20 @@
 var a29953 =
 [
-    [ "file_MVER", "d8/d18/a28944.html", "d8/d18/a28944" ],
-    [ "FileLoader", "d5/d3b/a28952.html", "d5/d3b/a28952" ],
-    [ "FILE_FORMAT_VERSION", "d7/d46/a29953.html#a82680783457cdcbe83db9eefe68f8a9b", null ],
-    [ "int16", "d7/d46/a29953.html#aa0d0fdc87fd135ef2bedb030901cdb9c", null ],
-    [ "int32", "d7/d46/a29953.html#ab7903878916593daecbeb95b98115ab0", null ],
-    [ "int64", "d7/d46/a29953.html#a7cde0074dfd288f2d70c0e035dacb28a", null ],
-    [ "int8", "d7/d46/a29953.html#aa79c2d3de4fcd200458c406f40b2ae64", null ],
-    [ "uint16", "d7/d46/a29953.html#ac2a9e79eb120216f855626495b7bd18a", null ],
-    [ "uint32", "d7/d46/a29953.html#acbd4acd0d29e2d6c43104827f77d9cd2", null ],
-    [ "uint64", "d7/d46/a29953.html#abc0f5bc07737e498f287334775dff2b6", null ],
-    [ "uint8", "d7/d46/a29953.html#a33a5e996e7a90acefb8b1c0bea47e365", null ]
+    [ "FileLoader", "d7/d46/a29953.html#a51313b536560d1d89d8350475d2bc749", null ],
+    [ "~FileLoader", "d7/d46/a29953.html#a0954776182dd01364bdb216539ce398b", null ],
+    [ "FileLoader", "d7/d46/a29953.html#a51313b536560d1d89d8350475d2bc749", null ],
+    [ "~FileLoader", "d7/d46/a29953.html#a0954776182dd01364bdb216539ce398b", null ],
+    [ "free", "d7/d46/a29953.html#a738aeb2ebe751c9fc75013dbce30dcc4", null ],
+    [ "free", "d7/d46/a29953.html#aef98564821c8e63b6d484179cda0b380", null ],
+    [ "GetData", "d7/d46/a29953.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
+    [ "GetData", "d7/d46/a29953.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
+    [ "GetDataSize", "d7/d46/a29953.html#a2a07adb0692a51af06ccd31d449ae444", null ],
+    [ "GetDataSize", "d7/d46/a29953.html#a2a07adb0692a51af06ccd31d449ae444", null ],
+    [ "loadFile", "d7/d46/a29953.html#a11908109042f93ddde393e7a874683c9", null ],
+    [ "loadFile", "d7/d46/a29953.html#a11908109042f93ddde393e7a874683c9", null ],
+    [ "prepareLoadedData", "d7/d46/a29953.html#ab66347098d7c9ac470339c232f9b7588", null ],
+    [ "prepareLoadedData", "d7/d46/a29953.html#a498a33d80768843b4ab1ff2d5ffe68d9", null ],
+    [ "data", "d7/d46/a29953.html#aff1880ac2038f17f4d1f63bc9f7d9afd", null ],
+    [ "data_size", "d7/d46/a29953.html#a355891fc980538e74080b9b83a95dec8", null ],
+    [ "version", "d7/d46/a29953.html#a41cedec185e5909d83c8a185d1476dee", null ]
 ];

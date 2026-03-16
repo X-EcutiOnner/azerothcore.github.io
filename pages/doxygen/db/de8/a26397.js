@@ -1,7 +1,7 @@
 var a26397 =
 [
-    [ "HandleScript", "db/de8/a26397.html#ad22b87be8f47886650d7bf9e98eee495", null ],
-    [ "PrepareSpellScript", "db/de8/a26397.html#a806f934cd684039425ce3fca037b0e8c", null ],
-    [ "Register", "db/de8/a26397.html#a9bd3ea5aa5fb16aac87f6097db31e113", null ],
-    [ "Validate", "db/de8/a26397.html#a96d189c452a969850121323faef1d9c1", null ]
+    [ "HandleProc", "db/de8/a26397.html#adb54fb9014a1a5fffae3cb67fcb924a9", null ],
+    [ "PrepareAuraScript", "db/de8/a26397.html#adfc37ee6f995323b97f75b6c17ad6379", null ],
+    [ "Register", "db/de8/a26397.html#ac30f4c2af665c6589be24e60d3f84dad", null ],
+    [ "Validate", "db/de8/a26397.html#a42b0f4c6259f7b972f600e7c28855d1d", null ]
 ];

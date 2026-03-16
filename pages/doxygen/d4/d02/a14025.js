@@ -1,6 +1,5 @@
 var a14025 =
 [
-    [ "npc_tyrion_spybotAI", "d6/d50/a14029.html", "d6/d50/a14029" ],
-    [ "npc_tyrion_spybot", "d4/d02/a14025.html#a7e0eed1b51ffe1df2d8ae2ad37f26528", null ],
-    [ "GetAI", "d4/d02/a14025.html#af81b70437703edc8d99fe24249891dd6", null ]
+    [ "at_twilight_grove", "d4/d02/a14025.html#a2ef32dbac0a35aa7dc6ebbafe926125f", null ],
+    [ "OnTrigger", "d4/d02/a14025.html#a8ee7239b8429df38a237926a7252322b", null ]
 ];

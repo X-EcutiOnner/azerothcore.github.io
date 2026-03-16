@@ -1,7 +1,8 @@
 var a27845 =
 [
-    [ "OnProc", "d0/de3/a27845.html#a304fd48cc79d3e7371212632d276b2ff", null ],
-    [ "PrepareAuraScript", "d0/de3/a27845.html#a239f9448d36bee4cfb46d95bf20c0148", null ],
-    [ "Register", "d0/de3/a27845.html#a28be437c5f3e8bca0f54be97cb5c5a1f", null ],
-    [ "Validate", "d0/de3/a27845.html#adc217147d7c150d66dad4d3e922cff96", null ]
+    [ "HandleEffect", "d0/de3/a27845.html#a1c1a06362742abcf83e1817c468de3d3", null ],
+    [ "PrepareSpellScript", "d0/de3/a27845.html#a0e2cce13a3b2c8b8e9ace8876def8b9c", null ],
+    [ "Register", "d0/de3/a27845.html#a56108b37bc69809ce80d424e2bcb3f55", null ],
+    [ "SendMiss", "d0/de3/a27845.html#afda727460aebc8fe97d5c18d0195ea2c", null ],
+    [ "Validate", "d0/de3/a27845.html#ab9533351a176f4e0d641a6e36a75d6b9", null ]
 ];

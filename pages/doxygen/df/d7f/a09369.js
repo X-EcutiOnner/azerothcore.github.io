@@ -1,10 +1,5 @@
 var a09369 =
 [
-    [ "UnitLastSearcher", "df/d7f/a09369.html#a7924240df139cf0814282eaff8a898b6", null ],
-    [ "Visit", "df/d7f/a09369.html#a95a5148e040daf44ed19e3118621a4ca", null ],
-    [ "Visit", "df/d7f/a09369.html#ae9992afc09771d4f1e1517642075f17e", null ],
-    [ "Visit", "df/d7f/a09369.html#aadfcfdd95a9f2b61cb9ff4c7db43a014", null ],
-    [ "i_check", "df/d7f/a09369.html#a6cf23e7ed9198798da03e6ec3526ee97", null ],
-    [ "i_object", "df/d7f/a09369.html#a7bd2407800c461de70b217a4b48f9921", null ],
-    [ "i_phaseMask", "df/d7f/a09369.html#aee39e2b567813e1e7420de07b3fe9b08", null ]
+    [ "asChar", "df/d7f/a09369.html#a3c1546425a9287498d23753f51e27de2", null ],
+    [ "asUInt", "df/d7f/a09369.html#a87b4e38a5c10dba382bd0761b70c2234", null ]
 ];

@@ -1,16 +1,11 @@
 var a23485 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "de/d72/a23485.html#aa438091d2868b26d961ee4f81e9cea11", null ],
-    [ "GetGuidData", "de/d72/a23485.html#a1a0623204ecaaa3623fc503783c4d766", null ],
-    [ "Initialize", "de/d72/a23485.html#a3761d56e59d5bf1147986978c9fdf2e3", null ],
-    [ "OnCreatureCreate", "de/d72/a23485.html#a9fa5637791d249553472b31c024f9fc1", null ],
-    [ "ReadSaveDataMore", "de/d72/a23485.html#a67bc6a2dde5c649d16ef7e2c26c6069b", null ],
-    [ "SetData", "de/d72/a23485.html#a566090f29d13977354fb50e68d92f046", null ],
-    [ "SetGuidData", "de/d72/a23485.html#aba8c1ea3be2a6199cefa47c52ecf7f31", null ],
-    [ "Update", "de/d72/a23485.html#aad1666c364feff4e2b7654f5894c129f", null ],
-    [ "WriteSaveDataMore", "de/d72/a23485.html#aaa8b1b054df41a79ac074ae48e180ee9", null ],
-    [ "ExecutionerGUID", "de/d72/a23485.html#aa879398b1732952eba7b2b8a822a959e", null ],
-    [ "LastArrowGUID", "de/d72/a23485.html#a602015bb20d74f6d3aac07b23ad48aea", null ],
-    [ "PrisonerGUID", "de/d72/a23485.html#a0648efa6b0bbf4860d55f9b11f138e39", null ],
-    [ "RescueTimer", "de/d72/a23485.html#a8df2961264a192ab2692e3c8ca507666", null ]
+    [ "boss_krosh_firehand", "de/d72/a23485.html#a1ef3618844f086de7875f26e7e6190f9", null ],
+    [ "AttackStart", "de/d72/a23485.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
+    [ "JustDied", "de/d72/a23485.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
+    [ "JustEngagedWith", "de/d72/a23485.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
+    [ "Reset", "de/d72/a23485.html#a989c4b762a7cdb228b245e91881d97a2", null ],
+    [ "UpdateAI", "de/d72/a23485.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
+    [ "_scheduler", "de/d72/a23485.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
+    [ "instance", "de/d72/a23485.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
 ];

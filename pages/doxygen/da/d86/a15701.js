@@ -1,7 +1,7 @@
 var a15701 =
 [
-    [ "HandleEffectRemove", "da/d86/a15701.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
-    [ "PrepareAuraScript", "da/d86/a15701.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
-    [ "Register", "da/d86/a15701.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
-    [ "AuraEffectHandleModes", "da/d86/a15701.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
+    [ "FilterTargets", "da/d86/a15701.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
+    [ "HandleOnHit", "da/d86/a15701.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
+    [ "PrepareSpellScript", "da/d86/a15701.html#ad7372e543391a23c003b4121e0dd8a09", null ],
+    [ "Register", "da/d86/a15701.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
 ];

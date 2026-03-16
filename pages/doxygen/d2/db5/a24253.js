@@ -1,9 +1,6 @@
 var a24253 =
 [
-    [ "npc_pet_shaman_earth_elemental", "d2/db5/a24253.html#a07f3792cb3b5264d209f1b4726867773", null ],
-    [ "InitializeAI", "d2/db5/a24253.html#a8bbca6686ae324a50cd1598125280446", null ],
-    [ "JustEngagedWith", "d2/db5/a24253.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
-    [ "UpdateAI", "d2/db5/a24253.html#ab28951b483cab31bf5672fc74e7323e1", null ],
-    [ "_events", "d2/db5/a24253.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
-    [ "_initAttack", "d2/db5/a24253.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
+    [ "npc_kservantAI", "d0/d74/a24257.html", "d0/d74/a24257" ],
+    [ "npc_kservant", "d2/db5/a24253.html#af04c8a87516e41f7d35071664034af9d", null ],
+    [ "GetAI", "d2/db5/a24253.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
 ];

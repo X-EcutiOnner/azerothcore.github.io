@@ -1,11 +1,6 @@
 var a26985 =
 [
-    [ "npc_dream_fogAI", "d3/d58/a26985.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
-    [ "GetRandomUnitFromDragonThreatList", "d3/d58/a26985.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
-    [ "Reset", "d3/d58/a26985.html#a595eeeae54d4bf323287fc408f706ac6", null ],
-    [ "ScheduleEvents", "d3/d58/a26985.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
-    [ "SetGUID", "d3/d58/a26985.html#a3666423921a5405ea220ba098f3f91fe", null ],
-    [ "UpdateAI", "d3/d58/a26985.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
-    [ "_dragonGUID", "d3/d58/a26985.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
-    [ "_targetGUID", "d3/d58/a26985.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
+    [ "HandleDummyEffect", "d3/d58/a26985.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
+    [ "PrepareSpellScript", "d3/d58/a26985.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
+    [ "Register", "d3/d58/a26985.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
 ];

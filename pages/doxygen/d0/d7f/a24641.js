@@ -1,11 +1,9 @@
 var a24641 =
 [
-    [ "spell_gen_relocaste_dest", "d0/d7f/a24641.html#a5b839f3bd5571ff3b23701c0cd862568", null ],
-    [ "PrepareSpellScript", "d0/d7f/a24641.html#a135638c19c130f43f7f3c3c14f1d1570", null ],
-    [ "Register", "d0/d7f/a24641.html#a9fd403a48ac9cec79fdf4ac485bbaa6a", null ],
-    [ "RelocateDest", "d0/d7f/a24641.html#a1efeb8d17fa6f7cfd9d098d7e97381d9", null ],
-    [ "_o", "d0/d7f/a24641.html#a31ecfa99e580c8fb828c1a4ee988ac94", null ],
-    [ "_x", "d0/d7f/a24641.html#aa0d6afcc49e6fa41b6ae37d16e0c25e5", null ],
-    [ "_y", "d0/d7f/a24641.html#a0152bc47b5950546d9e9505512ed842b", null ],
-    [ "_z", "d0/d7f/a24641.html#a40136ab0219829dfb0dcfe234aa73af7", null ]
+    [ "Absorb", "d0/d7f/a24641.html#ae5101c9adc7b9d09daf9c78d5e6d9d14", null ],
+    [ "CalculateAmount", "d0/d7f/a24641.html#a0e88abc0dfc1f0aa5c52f3602f99d45a", null ],
+    [ "Load", "d0/d7f/a24641.html#ab7eae0747736dea5633ef51eb0945fae", null ],
+    [ "PrepareAuraScript", "d0/d7f/a24641.html#a760b72149ee11ad88e290c9537b3094b", null ],
+    [ "Register", "d0/d7f/a24641.html#a0d25efee128ee95f9ad268b53358f376", null ],
+    [ "absorbPct", "d0/d7f/a24641.html#a31091ef6a0d39e1d498420a85f6c84fa", null ]
 ];

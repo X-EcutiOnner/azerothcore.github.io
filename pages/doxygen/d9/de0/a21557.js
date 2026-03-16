@@ -1,6 +1,10 @@
 var a21557 =
 [
-    [ "npc_mindless_ghoulAI", "d9/de0/a21557.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
-    [ "CanAIAttack", "d9/de0/a21557.html#a18fbc44ad760a69d952d003622ec75b2", null ],
-    [ "JustDied", "d9/de0/a21557.html#a272067bef6dbab24024f7de990c10b64", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "d9/de0/a21557.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
+    [ "GotStinged", "d9/de0/a21557.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
+    [ "JustEngagedWith", "d9/de0/a21557.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
+    [ "Reset", "d9/de0/a21557.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
+    [ "SpellHit", "d9/de0/a21557.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
+    [ "UpdateAI", "d9/de0/a21557.html#a21def23073eeec051c1c97a813e0ea84", null ],
+    [ "rebuff", "d9/de0/a21557.html#ac83c25091fdd3c7876a88927b758261f", null ]
 ];

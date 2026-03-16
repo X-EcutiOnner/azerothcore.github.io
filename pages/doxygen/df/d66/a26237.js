@@ -1,7 +1,7 @@
 var a26237 =
 [
-    [ "HandleDummy", "df/d66/a26237.html#a123ddc812fb358b7517eba60d1f90eba", null ],
-    [ "Load", "df/d66/a26237.html#a64ca188f58b4f34827f03ae2878deef0", null ],
-    [ "PrepareSpellScript", "df/d66/a26237.html#a7068dd9e6f7838d9ad7023c2d61482cc", null ],
-    [ "Register", "df/d66/a26237.html#aff7ea1c5c569022ece56ecdb3f434723", null ]
+    [ "HandleProc", "df/d66/a26237.html#aebfe42c802e0abb628b5dee769e44235", null ],
+    [ "PrepareAuraScript", "df/d66/a26237.html#a74f6874be6f97566495ee4c5df790897", null ],
+    [ "Register", "df/d66/a26237.html#a662623c5bf43d0dc3404337ef3c30eb6", null ],
+    [ "Validate", "df/d66/a26237.html#a114692bbf6fd7600c56e794a5f6ddb29", null ]
 ];

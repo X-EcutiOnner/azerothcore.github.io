@@ -1,6 +1,6 @@
 var a25393 =
 [
-    [ "CheckProc", "d2/d8b/a25393.html#a8158e7338b29b072f0c851771d0e8eee", null ],
-    [ "PrepareAuraScript", "d2/d8b/a25393.html#a44a18144e276e7bdc80c5a19f1d442e2", null ],
-    [ "Register", "d2/d8b/a25393.html#ae24336f87db322e546bd858bc50f2351", null ]
+    [ "HandleCast", "d2/d8b/a25393.html#ac6f7b9650d0a55834dafb09555692243", null ],
+    [ "PrepareSpellScript", "d2/d8b/a25393.html#ab3dc21aa63f0fb9202233603106eef87", null ],
+    [ "Register", "d2/d8b/a25393.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
 ];

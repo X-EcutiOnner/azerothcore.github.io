@@ -1,6 +1,6 @@
 var a08789 =
 [
-    [ "GlobalCooldown", "d1/d2c/a08789.html#a5859ccec9d1fdf0a8f11f5ab77c135a9", null ],
-    [ "cast_time", "d1/d2c/a08789.html#a7e2fe46367bad59669b0f2fd33736b30", null ],
-    [ "duration", "d1/d2c/a08789.html#a7fbf3127e4a2cc93171934148275ae1d", null ]
+    [ "PlayerClassLevelInfo", "d1/d2c/a08789.html#a60153094e3179bfc6c028d2b76775805", null ],
+    [ "basehealth", "d1/d2c/a08789.html#a034ae3d2b5b14ce454710ca8f92ffee0", null ],
+    [ "basemana", "d1/d2c/a08789.html#a939a8d8739a553c919d84e399ce17d22", null ]
 ];

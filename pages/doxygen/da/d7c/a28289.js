@@ -1,5 +1,5 @@
 var a28289 =
 [
-    [ "HasMissile", "da/d7c/a28289.html#af8f9e79164ee3c7a617f63552bb23816", null ],
-    [ "MissileModel", "da/d7c/a28289.html#ae9ab544537448113f628c22ed8c91a27", null ]
+    [ "go_soulwellAI", "da/d7c/a28289.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
+    [ "GossipHello", "da/d7c/a28289.html#a3df147478af8930d9b6108a183e9478f", null ]
 ];

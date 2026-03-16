@@ -1,6 +1,6 @@
 var a27641 =
 [
-    [ "X", "df/d4b/a27641.html#a55bda49b2eb919415afaf780ca1977de", null ],
-    [ "Y", "df/d4b/a27641.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
-    [ "Z", "df/d4b/a27641.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
+    [ "CheckCast", "df/d4b/a27641.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
+    [ "PrepareSpellScript", "df/d4b/a27641.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
+    [ "Register", "df/d4b/a27641.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
 ];

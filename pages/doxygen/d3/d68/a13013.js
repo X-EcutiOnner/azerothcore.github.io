@@ -1,7 +1,6 @@
 var a13013 =
 [
-    [ "FilterTargets", "d3/d68/a13013.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
-    [ "Load", "d3/d68/a13013.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
-    [ "PrepareSpellScript", "d3/d68/a13013.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
-    [ "Register", "d3/d68/a13013.html#ae366530ddacf45a92eaa36be7e706a84", null ]
+    [ "instance_molten_core_InstanceMapScript", "d7/dc3/a13017.html", "d7/dc3/a13017" ],
+    [ "instance_molten_core", "d3/d68/a13013.html#ad83dac834feb2fcae872dfe09b833950", null ],
+    [ "GetInstanceScript", "d3/d68/a13013.html#ab7c794f1503f0ecad8d41ace72737a5d", null ]
 ];

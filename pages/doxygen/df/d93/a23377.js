@@ -1,6 +1,5 @@
 var a23377 =
 [
-    [ "CheckProc", "df/d93/a23377.html#add583b34b9052fbb37c43c558f0f8b96", null ],
-    [ "PrepareAuraScript", "df/d93/a23377.html#a3d7ed0fa175daffcf11fc3ee04b189bf", null ],
-    [ "Register", "df/d93/a23377.html#ab91f611f59e83d4f1b7c71b1595db667", null ]
+    [ "at_underbog_ghazan", "df/d93/a23377.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
+    [ "_OnTrigger", "df/d93/a23377.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
 ];

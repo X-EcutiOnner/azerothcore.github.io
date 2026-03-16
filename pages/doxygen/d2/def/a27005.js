@@ -1,6 +1,8 @@
 var a27005 =
 [
-    [ "npc_spirit_shadeAI", "d0/d97/a27009.html", "d0/d97/a27009" ],
-    [ "npc_spirit_shade", "d2/def/a27005.html#a891ede5651789274496d6426daf9937d", null ],
-    [ "GetAI", "d2/def/a27005.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
+    [ "HandleDummy", "d2/def/a27005.html#ae396c96647e36da357bdc70e11e3145f", null ],
+    [ "Load", "d2/def/a27005.html#a2b4811bf7e60361e13bc382e62173cee", null ],
+    [ "PrepareSpellScript", "d2/def/a27005.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
+    [ "Register", "d2/def/a27005.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
+    [ "count", "d2/def/a27005.html#a73358b2272ad12faef006b1ef633cac0", null ]
 ];

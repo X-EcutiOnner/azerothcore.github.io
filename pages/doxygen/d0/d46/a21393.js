@@ -1,7 +1,11 @@
 var a21393 =
 [
-    [ "npc_mootoo_the_youngerAI", "d0/d46/a21393.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "d0/d46/a21393.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "d0/d46/a21393.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "d0/d46/a21393.html#ac758a992ed0d62a272930c84d617b348", null ]
+    [ "npc_vh_void_sentryAI", "d0/d46/a21393.html#a312f4bbc07e6d786e85c2b4e89d36344", null ],
+    [ "DoAction", "d0/d46/a21393.html#a0bc95eea54b5cdc16a4d3f588f3ff900", null ],
+    [ "JustDied", "d0/d46/a21393.html#add5121ed38a74be9ae168df5f893f89e", null ],
+    [ "SummonedCreatureDespawn", "d0/d46/a21393.html#a24ff36cdb049da7c67c1f041361e17e4", null ],
+    [ "UpdateAI", "d0/d46/a21393.html#ae1f683d5ef920213c9c86da35c626381", null ],
+    [ "checkTimer", "d0/d46/a21393.html#a675bcae4119e45490403013534c731ef", null ],
+    [ "pInstance", "d0/d46/a21393.html#a7527473944681143bab89fd12b475645", null ],
+    [ "SummonedGUID", "d0/d46/a21393.html#a4420eb2cf4d3b6d161355b0f4ad9516d", null ]
 ];

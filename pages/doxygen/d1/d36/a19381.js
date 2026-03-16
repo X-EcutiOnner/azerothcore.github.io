@@ -1,6 +1,6 @@
 var a19381 =
 [
-    [ "HandleHit", "d1/d36/a19381.html#aa6302d9372bf6ea514d49d8c8e280781", null ],
-    [ "PrepareSpellScript", "d1/d36/a19381.html#a87b57541a36d711ecbca6f485915c9ab", null ],
-    [ "Register", "d1/d36/a19381.html#ad7290a8d786f64fdf7b5b04a7770ff6d", null ]
+    [ "instance_icecrown_citadel_InstanceMapScript", "d5/d0b/a19385.html", "d5/d0b/a19385" ],
+    [ "instance_icecrown_citadel", "d1/d36/a19381.html#a0901e23025cff08d1a7516bbef099ffa", null ],
+    [ "GetInstanceScript", "d1/d36/a19381.html#a787c32626681f15f5515385a9ba6b848", null ]
 ];

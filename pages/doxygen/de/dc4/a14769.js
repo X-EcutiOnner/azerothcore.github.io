@@ -1,5 +1,8 @@
 var a14769 =
 [
-    [ "go_pumpkin_shrine", "de/dc4/a14769.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
-    [ "OnGossipSelect", "de/dc4/a14769.html#a35763a67d39c1d68974a9602ce26b699", null ]
+    [ "OnApply", "de/dc4/a14769.html#a6f3f05316f025ef638672a82cc855136", null ],
+    [ "PeriodicTick", "de/dc4/a14769.html#a051d292f9483e6b82d773fba3ab52460", null ],
+    [ "PrepareAuraScript", "de/dc4/a14769.html#ab8face95be60d7c5ba3fe15f0d05de25", null ],
+    [ "Register", "de/dc4/a14769.html#a0004de73250b8523db2b9ab714c8a246", null ],
+    [ "Validate", "de/dc4/a14769.html#aae1809dd5bc8baa06ee079a6d2a8b940", null ]
 ];

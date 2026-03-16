@@ -1,10 +1,7 @@
 var a23581 =
 [
-    [ "CheckProc", "d8/d8a/a23581.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
-    [ "Load", "d8/d8a/a23581.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
-    [ "PrepareAuraScript", "d8/d8a/a23581.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
-    [ "Register", "d8/d8a/a23581.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
-    [ "_lastForm", "d8/d8a/a23581.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
-    [ "_lastSchool", "d8/d8a/a23581.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
-    [ "_swapTime", "d8/d8a/a23581.html#af832dc200e928df3849ab7d7f93cb412", null ]
+    [ "HandleDummyApply", "d8/d8a/a23581.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
+    [ "HandleDummyRemove", "d8/d8a/a23581.html#a5d68d9e15600119deca7179ffe00acda", null ],
+    [ "PrepareAuraScript", "d8/d8a/a23581.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
+    [ "Register", "d8/d8a/a23581.html#a094004ccf6b4cae4d27bca639b76b899", null ]
 ];

@@ -1,10 +1,7 @@
 var a17501 =
 [
-    [ "npc_living_mojoAI", "d2/dd6/a17501.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
-    [ "AttackStart", "d2/dd6/a17501.html#ad3f73a040176cd804f9715141063d176", null ],
-    [ "DoAction", "d2/dd6/a17501.html#a9d942e99f358a7488d473969ab461d6f", null ],
-    [ "MoveInLineOfSight", "d2/dd6/a17501.html#a7981568666269e25580ae839f1f97f09", null ],
-    [ "Reset", "d2/dd6/a17501.html#a139df1207438dbd3793a2fbc58c2396c", null ],
-    [ "UpdateAI", "d2/dd6/a17501.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
-    [ "events", "d2/dd6/a17501.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
+    [ "HandlePeriodicTick", "d2/dd6/a17501.html#ac8b3f1a826e3491d4315983a89d23d2e", null ],
+    [ "PrepareAuraScript", "d2/dd6/a17501.html#ad54c3014195c5b848ab1f9cc978f72b3", null ],
+    [ "Register", "d2/dd6/a17501.html#af8e1ee8ddf7ed8290eb71fb7697428fb", null ],
+    [ "Validate", "d2/dd6/a17501.html#a6de2140f17790b63314f653b7dd0ddd3", null ]
 ];

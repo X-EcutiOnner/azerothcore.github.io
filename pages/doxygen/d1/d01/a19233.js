@@ -1,6 +1,6 @@
 var a19233 =
 [
-    [ "npc_isle_of_conquest_turretAI", "d5/dd2/a19237.html", "d5/dd2/a19237" ],
-    [ "npc_isle_of_conquest_turret", "d1/d01/a19233.html#ac080845203adef25e6841133b7e2f4dc", null ],
-    [ "GetAI", "d1/d01/a19233.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
+    [ "HandleScript", "d1/d01/a19233.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
+    [ "PrepareSpellScript", "d1/d01/a19233.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
+    [ "Register", "d1/d01/a19233.html#ad0c6d34103244cded41481c745dafe58", null ]
 ];

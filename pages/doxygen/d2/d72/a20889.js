@@ -1,6 +1,8 @@
 var a20889 =
 [
-    [ "HandleEffectPeriodic", "d2/d72/a20889.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
-    [ "PrepareAuraScript", "d2/d72/a20889.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
-    [ "Register", "d2/d72/a20889.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
+    [ "boss_yoggsaron_crusher_tentacle", "d2/d72/a20889.html#aa550582ebb2fddc8574f1ca96faeb9a5", null ],
+    [ "DamageTaken", "d2/d72/a20889.html#aa38dbd7050000d3aab774a7b719912f4", null ],
+    [ "DoAction", "d2/d72/a20889.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
+    [ "Reset", "d2/d72/a20889.html#aba082f8d2fa200eca9c52336df544221", null ],
+    [ "UpdateAI", "d2/d72/a20889.html#ae22a12401dc98534da1cb771468a58ce", null ]
 ];

@@ -1,8 +1,6 @@
 var a18841 =
 [
-    [ "npc_suppresserAI", "da/dae/a18841.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
-    [ "AttackStart", "da/dae/a18841.html#ae36105de1df1dd9841332d9a8e7799be", null ],
-    [ "IsSummonedBy", "da/dae/a18841.html#a35ec340b2d02a14707fc353428b1298d", null ],
-    [ "UpdateAI", "da/dae/a18841.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
-    [ "_instance", "da/dae/a18841.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
+    [ "npc_strangulate_vehicleAI", "d0/dea/a18845.html", "d0/dea/a18845" ],
+    [ "npc_strangulate_vehicle", "da/dae/a18841.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
+    [ "GetAI", "da/dae/a18841.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
 ];

@@ -1,5 +1,5 @@
 var a24085 =
 [
-    [ "npc_shattrath_daily_quest", "d9/dcc/a24085.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
-    [ "DoAction", "d9/dcc/a24085.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
+    [ "at_commander_dawnforge", "d9/dcc/a24085.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
+    [ "OnTrigger", "d9/dcc/a24085.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
 ];

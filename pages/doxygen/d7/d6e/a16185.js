@@ -1,12 +1,6 @@
 var a16185 =
 [
-    [ "npc_taldaram_flamesphere", "d7/d6e/a16185.html#aad7d6696b54e39c6abd27a7252353360", null ],
-    [ "DoAction", "d7/d6e/a16185.html#aa79e370c1c30eccb44a46b622e2d5f2a", null ],
-    [ "IsSummonedBy", "d7/d6e/a16185.html#acb232931bc181eedf4b39d5519dd45e2", null ],
-    [ "JustDied", "d7/d6e/a16185.html#ae6dfff3df39257c55495707934d5d38b", null ],
-    [ "SetVictimPos", "d7/d6e/a16185.html#a51f1683806095c760d4accff9e23f8b6", null ],
-    [ "UpdateAI", "d7/d6e/a16185.html#a163341c0ff0f56986e2486e06e21b4b2", null ],
-    [ "instance", "d7/d6e/a16185.html#afd0ff83cb5fba1fbeb85b7d600f1b1de", null ],
-    [ "moveTimer", "d7/d6e/a16185.html#afe50ac59ec441ab11745ca9461158a00", null ],
-    [ "victimPos", "d7/d6e/a16185.html#ae681d84f2324faf22296dcb6e08484b0", null ]
+    [ "HandleDummy", "d7/d6e/a16185.html#a2750ae788168e7496ea2345c5535509c", null ],
+    [ "PrepareSpellScript", "d7/d6e/a16185.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
+    [ "Register", "d7/d6e/a16185.html#ab6c961d89d22761402eb4f5881cbd318", null ]
 ];

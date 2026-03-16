@@ -1,6 +1,7 @@
 var a19425 =
 [
-    [ "boss_maexxnaAI", "d2/d8c/a19429.html", "d2/d8c/a19429" ],
-    [ "boss_maexxna", "dc/dbf/a19425.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
-    [ "GetAI", "dc/dbf/a19425.html#ab438df4cb61625da35552ca7c867dc64", null ]
+    [ "HandleGameObjectDamage", "dc/dbf/a19425.html#a811edfe01c1784664b5b4253d2305b4e", null ],
+    [ "PrepareSpellScript", "dc/dbf/a19425.html#a0cfedeba2a747777de292b8f30b6752b", null ],
+    [ "Register", "dc/dbf/a19425.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
+    [ "Validate", "dc/dbf/a19425.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
 ];

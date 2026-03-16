@@ -1,15 +1,12 @@
 var a16157 =
 [
-    [ "boss_volazj", "d0/d48/a16157.html#ac1f0bc7b55a554d29e55a376680bf747", null ],
-    [ "CheckPhaseMinions", "d0/d48/a16157.html#aa79bf97b6772956795bd2f16b85e061f", null ],
-    [ "GetPlrInsanityAuraId", "d0/d48/a16157.html#a5b6936cedb3fc411ae58f3dc3f6b689a", null ],
-    [ "JustDied", "d0/d48/a16157.html#a6c85c56c2483c3e8b4de67b94a45e0a6", null ],
-    [ "JustEngagedWith", "d0/d48/a16157.html#a135c5606742474e77ffd0ee0a3c3ee69", null ],
-    [ "KilledUnit", "d0/d48/a16157.html#abdf2cb95f0d3d7756584c338f2e2db25", null ],
-    [ "Reset", "d0/d48/a16157.html#a0377375b89b02db3cae01390fdd13ee2", null ],
-    [ "ResetPlayersPhaseMask", "d0/d48/a16157.html#afbfa62f2b72a95434348f74fdda46da6", null ],
-    [ "ScheduleTasks", "d0/d48/a16157.html#a44a8aa836a45e5a9827814bb731d2882", null ],
-    [ "SetData", "d0/d48/a16157.html#aa8b5ae6214f0c764f15b096876d614d7", null ],
-    [ "UpdateAI", "d0/d48/a16157.html#aceac85fb06c81ccd171b024ad0d57ffe", null ],
-    [ "insanityPhase", "d0/d48/a16157.html#ae90de1e956eb3653c8c2f0c04d89585b", null ]
+    [ "npc_wizzlecrank_shredderAI", "d0/d48/a16157.html#a055c4b426219aa3372a83d2e2021d916", null ],
+    [ "JustSummoned", "d0/d48/a16157.html#a7cad21f0b3286ed75256a49c315069ce", null ],
+    [ "Reset", "d0/d48/a16157.html#a86929e8a2f3433f37e4dda03e3011193", null ],
+    [ "UpdateEscortAI", "d0/d48/a16157.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
+    [ "WaypointReached", "d0/d48/a16157.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
+    [ "WaypointStart", "d0/d48/a16157.html#a00857e372e53950338ed71d672edb780", null ],
+    [ "IsPostEvent", "d0/d48/a16157.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
+    [ "PostEventCount", "d0/d48/a16157.html#aa5284a284c074f32cee85d29aea00f2f", null ],
+    [ "PostEventTimer", "d0/d48/a16157.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
 ];

@@ -1,7 +1,9 @@
 var a14833 =
 [
-    [ "HandleEffectApply", "df/d46/a14833.html#a404f2134734e1d21201033b3f26e611e", null ],
-    [ "HandleEffectPeriodic", "df/d46/a14833.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
-    [ "PrepareAuraScript", "df/d46/a14833.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
-    [ "Register", "df/d46/a14833.html#ad239472c15ca0c73b053d112f538ecff", null ]
+    [ "entries", "df/d46/a14833.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
+    [ "entries", "df/d46/a14833.html#a953850b267eb6f599bb49d82080bdf64", null ],
+    [ "revelerId", "df/d46/a14833.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
+    [ "schedule", "df/d46/a14833.html#abf912f0df4468a233292020c71d70f78", null ],
+    [ "size", "df/d46/a14833.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
+    [ "spawns", "df/d46/a14833.html#a09a3d07fa1b5ce5026b6191d43e8682c", null ]
 ];

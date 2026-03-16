@@ -1,8 +1,9 @@
 var a09637 =
 [
-    [ "flags", "d2/d38/a09637.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
-    [ "group", "d2/d38/a09637.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
-    [ "guid", "d2/d38/a09637.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
-    [ "name", "d2/d38/a09637.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
-    [ "roles", "d2/d38/a09637.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
+    [ "NearestAttackableUnitInObjectRangeCheck", "d2/d38/a09637.html#ae2f43e2036047622ec88de3db08ea668", null ],
+    [ "NearestAttackableUnitInObjectRangeCheck", "d2/d38/a09637.html#a8deef14a2c11f9ccd9613614124a7d8e", null ],
+    [ "operator()", "d2/d38/a09637.html#a2f966e38682e6a02a120ad90ba19f7a4", null ],
+    [ "i_funit", "d2/d38/a09637.html#a88be7342d10008fc394f21b9a5e14162", null ],
+    [ "i_obj", "d2/d38/a09637.html#a6c1c4e5b85f6f7958578afb6c6f2af98", null ],
+    [ "i_range", "d2/d38/a09637.html#a26242657d6f2eb61d6f8fcac30357381", null ]
 ];

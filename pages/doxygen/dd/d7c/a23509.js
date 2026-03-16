@@ -1,8 +1,10 @@
 var a23509 =
 [
-    [ "HandleEffectApply", "dd/d7c/a23509.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
-    [ "HandleEffectRemove", "dd/d7c/a23509.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
-    [ "PrepareAuraScript", "dd/d7c/a23509.html#a438a8ba3688e0832853bae4183695494", null ],
-    [ "Register", "dd/d7c/a23509.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
-    [ "Validate", "dd/d7c/a23509.html#ab07b244e53b397bc9e9842655617a80d", null ]
+    [ "boss_kelidan_the_breaker", "dd/d7c/a23509.html#a6774e4a0315b30266f6c55da608cd193", null ],
+    [ "ApplyImmunities", "dd/d7c/a23509.html#adc84fae23d68c0c75ac21c3f3b32973a", null ],
+    [ "DoAction", "dd/d7c/a23509.html#a3fa0117ce1079f651025116684f5e2f4", null ],
+    [ "JustDied", "dd/d7c/a23509.html#a4d3f0171b7889a96f19999b28e549866", null ],
+    [ "JustEngagedWith", "dd/d7c/a23509.html#a12eb8fb73353042e4bb4ea31cbdc1c3c", null ],
+    [ "KilledUnit", "dd/d7c/a23509.html#a1c1613b165c25025a2a11bf3c38d6747", null ],
+    [ "Reset", "dd/d7c/a23509.html#a46c592f6c46ea568ad368702e1640e06", null ]
 ];

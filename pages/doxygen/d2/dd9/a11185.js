@@ -1,6 +1,7 @@
 var a11185 =
 [
-    [ "PetStopAttack", "d2/dd9/a11185.html#a4a68127f3290d4f2e288600757dd3282", null ],
-    [ "Read", "d2/dd9/a11185.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
-    [ "PetGUID", "d2/dd9/a11185.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
+    [ "Playsound", "d2/dd9/a11185.html#a955f91d0d65c64f154f99b3b9472e273", null ],
+    [ "Playsound", "d2/dd9/a11185.html#aa242d4ca729d67d7fd58dc81985f22f9", null ],
+    [ "Write", "d2/dd9/a11185.html#acb4bdd9a1613a158832115e4c18bfcd9", null ],
+    [ "SoundKitID", "d2/dd9/a11185.html#a922cb6d06285bdf9f3d89ff990c40b0a", null ]
 ];

@@ -1,13 +1,19 @@
 var a11873 =
 [
-    [ "CommandFinished", "d3/dab/a11873.html#af7ce6ffac9fa11ce0db6fd10919c4e4a", null ],
-    [ "Print", "d3/dab/a11873.html#ab10379cf266b38f4d81e2477b727471e", null ],
-    [ "CliCommandHolder", "d3/dab/a11873.html#a5a45e891607114cd070721fd51926cd5", null ],
-    [ "~CliCommandHolder", "d3/dab/a11873.html#a44ca7e8af5c717b1cff7b143afc077ee", null ],
-    [ "CliCommandHolder", "d3/dab/a11873.html#ad9c7b2da92d97c464fb14ad1e0b9a4a9", null ],
-    [ "operator=", "d3/dab/a11873.html#aaca241ecd81dc25788eaccbdc4aa5f60", null ],
-    [ "m_callbackArg", "d3/dab/a11873.html#a4579ce86ff43da89524b62eefe308a59", null ],
-    [ "m_command", "d3/dab/a11873.html#ae333918e09a9de4c9e402c334e076674", null ],
-    [ "m_commandFinished", "d3/dab/a11873.html#a416a66ac78f1d2cb1ee2d0d93f276f43", null ],
-    [ "m_print", "d3/dab/a11873.html#aa49897105905b9812fcf962326486d5d", null ]
+    [ "CreatureTextMgr", "d3/dab/a11873.html#a00cc7ebfdb0702de8af841dcbbddcc3b", null ],
+    [ "~CreatureTextMgr", "d3/dab/a11873.html#a6f77e1f030bb16b585f9a75059a06f31", null ],
+    [ "GetLocalizedChatString", "d3/dab/a11873.html#a169c53804fb5bf4ecd509ee90482ebf5", null ],
+    [ "GetRangeForChatType", "d3/dab/a11873.html#aeddebd7d3fcf604ee4d11b77ff87fd53", null ],
+    [ "GetTextMap", "d3/dab/a11873.html#a5237341864a3082126bed703d68312b2", null ],
+    [ "instance", "d3/dab/a11873.html#a92acbdab30a8942859e01526144b9989", null ],
+    [ "LoadCreatureTextLocales", "d3/dab/a11873.html#a826a3cd2e991c358a98fced5512297dd", null ],
+    [ "LoadCreatureTexts", "d3/dab/a11873.html#a129039b5a7d2de067656cd6e47de43dd", null ],
+    [ "SendChat", "d3/dab/a11873.html#a93c7fa546a0f41e7d59c6782aecee070", null ],
+    [ "SendChatPacket", "d3/dab/a11873.html#a0b94720ae3ab22ba8bb961f26f47548b", null ],
+    [ "SendEmote", "d3/dab/a11873.html#a8b9dc67f09242b5ade7405663ca52fda", null ],
+    [ "SendNonChatPacket", "d3/dab/a11873.html#a2303c6343e233beb3f7a1ebda40e080e", null ],
+    [ "SendSound", "d3/dab/a11873.html#aa36b6dd5010eea049973122bec4fceb1", null ],
+    [ "TextExist", "d3/dab/a11873.html#aa92d99a93a387193a10eb7a30c59b86e", null ],
+    [ "mLocaleTextMap", "d3/dab/a11873.html#a12ecf289ef6d78691b6ab23f3cdd9fd8", null ],
+    [ "mTextMap", "d3/dab/a11873.html#ad25faab453d0f5d6270797eeeb5e2e40", null ]
 ];

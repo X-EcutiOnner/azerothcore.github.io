@@ -1,11 +1,17 @@
 var a13341 =
 [
-    [ "npc_a_special_surpriseAI", "d1/dc4/a13341.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
-    [ "MeetQuestCondition", "d1/dc4/a13341.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
-    [ "MoveInLineOfSight", "d1/dc4/a13341.html#af0b183b951f1eba8114da1f7a1284d09", null ],
-    [ "Reset", "d1/dc4/a13341.html#a9526f6b257eade275b828d2b30328533", null ],
-    [ "UpdateAI", "d1/dc4/a13341.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
-    [ "ExecuteSpeech_Counter", "d1/dc4/a13341.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
-    [ "ExecuteSpeech_Timer", "d1/dc4/a13341.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
-    [ "PlayerGUID", "d1/dc4/a13341.html#a683cdbd0ef9d0562842aace5b440594f", null ]
+    [ "boss_priestess_lackey_commonAI", "d1/dc4/a13341.html#acf122076823631cef5d66e03a9f607aa", null ],
+    [ "AttackStart", "d1/dc4/a13341.html#a6056ef3425f39208e5731b25fc94a335", null ],
+    [ "EnterEvadeMode", "d1/dc4/a13341.html#a6935410d7a4ce8e9dec9feed9f5351d7", null ],
+    [ "GetThreatMod", "d1/dc4/a13341.html#a2e0e387ae4645c9bbd4625d1469403a8", null ],
+    [ "JustDied", "d1/dc4/a13341.html#a8b06ee0a3e22d495a41ccf4c7009ad2d", null ],
+    [ "JustEngagedWith", "d1/dc4/a13341.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7", null ],
+    [ "JustSummoned", "d1/dc4/a13341.html#a9a7bcf641bae31827872faf7666635d5", null ],
+    [ "KilledUnit", "d1/dc4/a13341.html#a23aaa0a619470898dd617a18130ca17b", null ],
+    [ "RecalculateThreat", "d1/dc4/a13341.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2", null ],
+    [ "Reset", "d1/dc4/a13341.html#aa2ef03d73c43668c97205fa72414e71b", null ],
+    [ "UpdateAI", "d1/dc4/a13341.html#adf87bd797da345e49700265319d808cc", null ],
+    [ "aiType", "d1/dc4/a13341.html#a2b7ccbf195658e402ba6f276b18e3551", null ],
+    [ "instance", "d1/dc4/a13341.html#ac71aa86c97fe11d934f09d62c4ed8eab", null ],
+    [ "summons", "d1/dc4/a13341.html#a498ef73fcc7995113318c5f0b6efa23e", null ]
 ];

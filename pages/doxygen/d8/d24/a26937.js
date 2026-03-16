@@ -1,7 +1,6 @@
 var a26937 =
 [
-    [ "CharacterDeleteActionIpLogger", "d8/d24/a26937.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "d8/d24/a26937.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnPlayerDelete", "d8/d24/a26937.html#adb16e45e425fa816b2572692349d0005", null ],
-    [ "OnPlayerFailedDelete", "d8/d24/a26937.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
+    [ "HandleProc", "d8/d24/a26937.html#ac81521531646341356525465bac2a816", null ],
+    [ "PrepareAuraScript", "d8/d24/a26937.html#aa57cede2bfc6354c8b95410d8fb50575", null ],
+    [ "Register", "d8/d24/a26937.html#a8daf8414ff4705741dfed0e818607741", null ]
 ];

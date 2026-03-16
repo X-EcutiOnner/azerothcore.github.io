@@ -1,5 +1,8 @@
 var a10073 =
 [
-    [ "MovementGeneratorFactory", "d0/d7d/a10073.html#a8b473ae9fa2af60a7fa92727ce163305", null ],
-    [ "Create", "d0/d7d/a10073.html#af3a494507c8d910bd98bb0989d42ba6f", null ]
+    [ "PositionFullTerrainStatus", "d0/d7d/a10073.html#ae0349ed89530b35af91b7b1862acaffe", null ],
+    [ "areaId", "d0/d7d/a10073.html#ac04966fa31b30f341a937906223463d4", null ],
+    [ "floorZ", "d0/d7d/a10073.html#abbd186ca681e532d567b5a221a62c02b", null ],
+    [ "liquidInfo", "d0/d7d/a10073.html#ac96230ad8521342ec97cf4f94013d0b4", null ],
+    [ "outdoors", "d0/d7d/a10073.html#ae531eb0a4abc029f82d699c98d6aa565", null ]
 ];

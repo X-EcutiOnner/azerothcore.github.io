@@ -1,19 +1,11 @@
 var a07341 =
 [
-    [ "ArenaSeasonRewardGroupsBySeasonContainer", "da/dea/a07341.html#a510f51e8cd7ad494dc2f0dd25640e924", null ],
-    [ "BroadcastUpdatedWorldState", "da/dea/a07341.html#ae40b9d3ff73604045d1d7f6c59487f95", null ],
-    [ "CanDeleteArenaTeams", "da/dea/a07341.html#a6d2302f89f8756d7ceaf210cdabea9e8", null ],
-    [ "ChangeCurrentSeason", "da/dea/a07341.html#a05f9e4be327f8ecb65729cec2d811851", null ],
-    [ "DeleteArenaTeams", "da/dea/a07341.html#ad28595c2f09c2cecd46ba8811374ae21", null ],
-    [ "GameEventForArenaSeason", "da/dea/a07341.html#a3bef72c5136e9920f8b4e0438f3f1628", null ],
-    [ "GetCurrentSeason", "da/dea/a07341.html#ae07db874a46e7d1cc8c60105635bbdf0", null ],
-    [ "GetSeasonState", "da/dea/a07341.html#abff2ff6a3e08f37b00405f5f688cb08d", null ],
-    [ "instance", "da/dea/a07341.html#ad9299d5394ee20830fe9aca038575ce0", null ],
-    [ "LoadActiveSeason", "da/dea/a07341.html#a81c47f17e571dd5ba2c2617bdef09694", null ],
-    [ "LoadRewards", "da/dea/a07341.html#a495f7d12cbe5a4bfb09a9a6de45c17e1", null ],
-    [ "RewardTeamsForTheSeason", "da/dea/a07341.html#a4c1069779f69aa3eae885540fa2b31e6", null ],
-    [ "SetSeasonState", "da/dea/a07341.html#a118910793bb11fba35b0cd6b28e248a8", null ],
-    [ "_arenaSeasonRewardGroupsStore", "da/dea/a07341.html#a90d508c6ffb7c7277d0e6c6f27bafc33", null ],
-    [ "_currentSeason", "da/dea/a07341.html#a168a36d3ae1818f22acfb168e932c10c", null ],
-    [ "_currentSeasonState", "da/dea/a07341.html#af73eb610ed7b0e908c206aac14f2c452", null ]
+    [ "GetSkillValue", "da/dea/a07341.html#a8f5894a5729d4c8d26376bbe1a2ac29e", null ],
+    [ "HasSpell", "da/dea/a07341.html#a3400ad05d8423ae6878fab815521ec6f", null ],
+    [ "PlayerCanUseItem", "da/dea/a07341.html#aee11f4f45f83664483344e3bbfba7463", null ],
+    [ "classMask", "da/dea/a07341.html#a41a57c372871c84a572d2f3697cb18aa", null ],
+    [ "level", "da/dea/a07341.html#a870f632b54e4638b1f5a4e93b6bd9e52", null ],
+    [ "raceMask", "da/dea/a07341.html#a96e56943da42f1a1258fc1d716259e1a", null ],
+    [ "skills", "da/dea/a07341.html#a55c2ad9d1cdea4913cb35deb4adc87fd", null ],
+    [ "spells", "da/dea/a07341.html#ac83cc019ceb1752ce8d6b5a3aa3d350f", null ]
 ];

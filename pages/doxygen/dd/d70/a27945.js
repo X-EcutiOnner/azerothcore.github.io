@@ -1,5 +1,5 @@
 var a27945 =
 [
-    [ "ID", "dd/d70/a27945.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
-    [ "price", "dd/d70/a27945.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
+    [ "achievement_bg_control_all_nodes", "dd/d70/a27945.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
+    [ "OnCheck", "dd/d70/a27945.html#a69609eb5488519fa5a1f43b13a80e280", null ]
 ];

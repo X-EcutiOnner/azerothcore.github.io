@@ -1,10 +1,12 @@
 var a10517 =
 [
-    [ "TicketScript", "d9/d8e/a10517.html#aec2b310ba0b26aa84a245207256edb0e", null ],
-    [ "IsDatabaseBound", "d9/d8e/a10517.html#afa21fa5aaf58c4ff964bcb3f81afbb32", null ],
-    [ "OnTicketClose", "d9/d8e/a10517.html#add082bd9a2d3a068bbb8f3a97d130887", null ],
-    [ "OnTicketCreate", "d9/d8e/a10517.html#a3436bbc78425bf5144c81f6309060b33", null ],
-    [ "OnTicketResolve", "d9/d8e/a10517.html#abd4d9cdf0fd99c10d6d86c395adecb9a", null ],
-    [ "OnTicketStatusUpdate", "d9/d8e/a10517.html#ae30b28cef4497cbed153c3e98e26d00d", null ],
-    [ "OnTicketUpdateLastChange", "d9/d8e/a10517.html#a3535e5592bc5f9ceb6b642b80a4f46b7", null ]
+    [ "ArenaScript", "d9/d8e/a10517.html#acba88d9008e08873f3f20b92d69e8912", null ],
+    [ "CanAddMember", "d9/d8e/a10517.html#aa85728dd471c2f4d58ed1794e741d060", null ],
+    [ "CanSaveArenaStatsForMember", "d9/d8e/a10517.html#a73719d3e62d1f7cf1f174292975f0f4f", null ],
+    [ "CanSaveToDB", "d9/d8e/a10517.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
+    [ "IsDatabaseBound", "d9/d8e/a10517.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
+    [ "OnArenaStart", "d9/d8e/a10517.html#ae67b000b16f56309da56f672a9f2b423", null ],
+    [ "OnBeforeArenaCheckWinConditions", "d9/d8e/a10517.html#a2b46190a3243f2306a74295975dca317", null ],
+    [ "OnBeforeArenaTeamMemberUpdate", "d9/d8e/a10517.html#a548ac21d5bd9be263935a298a3b5cd16", null ],
+    [ "OnGetPoints", "d9/d8e/a10517.html#a13b22ad00d3742589532e6e522258834", null ]
 ];

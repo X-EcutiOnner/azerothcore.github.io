@@ -1,6 +1,6 @@
 var a18541 =
 [
-    [ "npc_tirion_fordringAI", "d9/d48/a18545.html", "d9/d48/a18545" ],
-    [ "npc_tirion_fordring_tft", "dc/df9/a18541.html#a04036d958e7ac643c9ba8d9073bca404", null ],
-    [ "GetAI", "dc/df9/a18541.html#a41dcfa415831091531cbf46e946f442d", null ]
+    [ "FilterTargets", "dc/df9/a18541.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
+    [ "PrepareSpellScript", "dc/df9/a18541.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
+    [ "Register", "dc/df9/a18541.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
 ];

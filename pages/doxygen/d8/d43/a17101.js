@@ -1,7 +1,5 @@
 var a17101 =
 [
-    [ "HandlePeriodicTick", "d8/d43/a17101.html#a7fa0334a0a33b15758b6362aa0a9bd7d", null ],
-    [ "PrepareAuraScript", "d8/d43/a17101.html#aabaef31a3c699c322e24e064f357f82f", null ],
-    [ "Register", "d8/d43/a17101.html#ae9602bc623422c124dfc37a18c0dbfec", null ],
-    [ "Validate", "d8/d43/a17101.html#a18d92a82760992bc5d8503e3f774f208", null ]
+    [ "boss_fjolaAI", "d8/d43/a17101.html#aa46fdff841d01f28ef50aa5363082f71", null ],
+    [ "JustSummoned", "d8/d43/a17101.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
 ];

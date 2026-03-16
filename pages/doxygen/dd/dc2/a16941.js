@@ -1,6 +1,6 @@
 var a16941 =
 [
-    [ "boss_fjolaAI", "d7/d0c/a16945.html", "d7/d0c/a16945" ],
-    [ "boss_fjola", "dd/dc2/a16941.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f", null ],
-    [ "GetAI", "dd/dc2/a16941.html#a96d9ea0716199758b60ad933ade28de4", null ]
+    [ "npc_toc_boomkinAI", "d7/d0c/a16945.html", "d7/d0c/a16945" ],
+    [ "npc_toc_boomkin", "dd/dc2/a16941.html#a17274ff748cd364592a551ad2c547eac", null ],
+    [ "GetAI", "dd/dc2/a16941.html#a626fe854faade9bd96cd60b9e6e970bd", null ]
 ];

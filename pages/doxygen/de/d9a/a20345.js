@@ -1,5 +1,11 @@
 var a20345 =
 [
-    [ "achievement_cheese_the_freeze", "de/d9a/a20345.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
-    [ "OnCheck", "de/d9a/a20345.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
+    [ "boss_freya_elder_brightleaf", "de/d9a/a20345.html#a7454f4dec1f1ccc471f42eeee513f272", null ],
+    [ "JustDied", "de/d9a/a20345.html#a98aed4b2a4ebf10c807d9bb54c65a273", null ],
+    [ "JustEngagedWith", "de/d9a/a20345.html#ad0f003e5b57b7c7df4b860df2f8e1e85", null ],
+    [ "KilledUnit", "de/d9a/a20345.html#a3c45c1c87f793cb4dbd447065b09d108", null ],
+    [ "Reset", "de/d9a/a20345.html#ae9687c330856da6d5e7bed9bccbe8e52", null ],
+    [ "UpdateAI", "de/d9a/a20345.html#aa53a5a5ada35c8717c58553b397d58d9", null ],
+    [ "events", "de/d9a/a20345.html#aaa459ae8f2e0f83330359d45259d9f79", null ],
+    [ "summons", "de/d9a/a20345.html#a0c11c362ecc29e91f21c87ca0fb3d92e", null ]
 ];

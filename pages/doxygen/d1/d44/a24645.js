@@ -1,6 +1,6 @@
 var a24645 =
 [
-    [ "CheckProc", "d1/d44/a24645.html#a68d2d8168e405ea4250e2e43a1a350fa", null ],
-    [ "PrepareAuraScript", "d1/d44/a24645.html#a9d797e7bc7133f4a626f4352b2fe7141", null ],
-    [ "Register", "d1/d44/a24645.html#a5b96bb8c2ff456b63bbd200f54294251", null ]
+    [ "CalculateAmount", "d1/d44/a24645.html#ada4514ba7769ebceeed1e0ab1c3a33e8", null ],
+    [ "PrepareAuraScript", "d1/d44/a24645.html#a1faa084b17776e826242293e2aaef2f4", null ],
+    [ "Register", "d1/d44/a24645.html#a94b21c91954385201d4bad6aff2205fc", null ]
 ];

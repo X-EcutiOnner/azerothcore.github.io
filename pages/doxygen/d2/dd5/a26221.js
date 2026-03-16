@@ -1,5 +1,6 @@
 var a26221 =
 [
-    [ "spell_q55_sacred_cleansing", "d2/dd5/a26221.html#a4aa8a16350a7a55706841471fd985ca2", null ],
-    [ "GetSpellScript", "d2/dd5/a26221.html#a50a8f2d777169aaeef88533b66b88fb2", null ]
+    [ "CalculateAmount", "d2/dd5/a26221.html#a2010f58ba86d6266e9549753fdec52ed", null ],
+    [ "PrepareAuraScript", "d2/dd5/a26221.html#aa9ddc9f2a0ded66e81be51cec24a0e4b", null ],
+    [ "Register", "d2/dd5/a26221.html#acf737f74e3cb9340f3449b491e923b7f", null ]
 ];

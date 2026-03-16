@@ -1,12 +1,13 @@
 var a14149 =
 [
-    [ "npc_akilzon_eagle", "da/dd9/a14149.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
-    [ "JustEngagedWith", "da/dd9/a14149.html#aa5c3d77a1086ad90397d47f081b25476", null ],
-    [ "MoveInLineOfSight", "da/dd9/a14149.html#adefd384b8a273ca52343d836a399f3cb", null ],
-    [ "MovementInform", "da/dd9/a14149.html#abf69be0c32356e65e6d451c33fb389f0", null ],
-    [ "Reset", "da/dd9/a14149.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
-    [ "UpdateAI", "da/dd9/a14149.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
-    [ "arrived", "da/dd9/a14149.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
-    [ "EagleSwoop_Timer", "da/dd9/a14149.html#a37a5861ef690729e2a8bfafddce168be", null ],
-    [ "TargetGUID", "da/dd9/a14149.html#a14d4f82f932569d24f6014ad39640619", null ]
+    [ "npc_ravenclaw_apparitionAI", "da/dd9/a14149.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
+    [ "EmoteCrowd", "da/dd9/a14149.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
+    [ "JustDied", "da/dd9/a14149.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
+    [ "JustSummoned", "da/dd9/a14149.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
+    [ "SummonCrowd", "da/dd9/a14149.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
+    [ "UpdateAI", "da/dd9/a14149.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
+    [ "events", "da/dd9/a14149.html#a27522107b5e1f54909294f800f26663f", null ],
+    [ "HasEnded", "da/dd9/a14149.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
+    [ "summons", "da/dd9/a14149.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
+    [ "TalkRNG", "da/dd9/a14149.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
 ];

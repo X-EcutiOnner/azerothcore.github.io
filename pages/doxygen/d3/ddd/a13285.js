@@ -1,8 +1,7 @@
 var a13285 =
 [
-    [ "npc_dkc1_gothikAI", "d3/ddd/a13285.html#a35e65bd943f86ba3a1d6841569289df6", null ],
-    [ "DoAction", "d3/ddd/a13285.html#a3193c562973bbf995ab5e0173a93d01f", null ],
-    [ "MoveInLineOfSight", "d3/ddd/a13285.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
-    [ "UpdateAI", "d3/ddd/a13285.html#a346d32c9831babe6fb5f675b70b7a897", null ],
-    [ "spoken", "d3/ddd/a13285.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
+    [ "PeriodicTick", "d3/ddd/a13285.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
+    [ "PrepareAuraScript", "d3/ddd/a13285.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
+    [ "Register", "d3/ddd/a13285.html#a2681d44b149e9f1d797df4147e20e686", null ],
+    [ "Validate", "d3/ddd/a13285.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
 ];

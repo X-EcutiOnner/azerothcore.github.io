@@ -1,7 +1,6 @@
 var a16437 =
 [
-    [ "HandleDummy", "db/d51/a16437.html#ad0782bfbd977954aac6170ee9111aef6", null ],
-    [ "PrepareSpellScript", "db/d51/a16437.html#ac456524856c4a3c4913423693a8fd50c", null ],
-    [ "Register", "db/d51/a16437.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
-    [ "Validate", "db/d51/a16437.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
+    [ "instance_azjol_nerub_InstanceScript", "d3/ddf/a16441.html", "d3/ddf/a16441" ],
+    [ "instance_azjol_nerub", "db/d51/a16437.html#a61476a0d15136d2bdb3a65eca72963da", null ],
+    [ "GetInstanceScript", "db/d51/a16437.html#a8bb8477669c6369afe508a400bd4d489", null ]
 ];

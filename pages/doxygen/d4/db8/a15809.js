@@ -1,8 +1,6 @@
 var a15809 =
 [
-    [ "FilterTargets", "d4/db8/a15809.html#a47b8055fa1b28968e8323ca98613aa83", null ],
-    [ "HandleScript", "d4/db8/a15809.html#a8f7984e510d8947a2ae4b0734409866b", null ],
-    [ "PrepareSpellScript", "d4/db8/a15809.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
-    [ "Register", "d4/db8/a15809.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
-    [ "Validate", "d4/db8/a15809.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
+    [ "npc_injured_draeneiAI", "d1/dc7/a15813.html", "d1/dc7/a15813" ],
+    [ "npc_injured_draenei", "d4/db8/a15809.html#a660c0f0c4ed41d70ad0a50cde25c1d14", null ],
+    [ "GetAI", "d4/db8/a15809.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb", null ]
 ];

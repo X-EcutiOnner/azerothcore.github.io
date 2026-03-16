@@ -1,7 +1,8 @@
 var a23921 =
 [
-    [ "npc_maxx_a_million_escortAI", "db/dca/a23925.html", "db/dca/a23925" ],
-    [ "npc_maxx_a_million_escort", "d0/d84/a23921.html#a958a88b495594dd8e14919d950ac917a", null ],
-    [ "GetAI", "d0/d84/a23921.html#af79619087908d442f503e0b0d633937d", null ],
-    [ "OnQuestAccept", "d0/d84/a23921.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
+    [ "instance_mechanar_InstanceMapScript", "d0/d84/a23921.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "d0/d84/a23921.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "d0/d84/a23921.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "d0/d84/a23921.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "d0/d84/a23921.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

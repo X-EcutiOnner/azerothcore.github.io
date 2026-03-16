@@ -1,7 +1,8 @@
 var a20273 =
 [
-    [ "npc_ulduar_icicle", "d2/d6f/a20273.html#af52ccbf93e54673f8a91dcea682d9e9b", null ],
-    [ "UpdateAI", "d2/d6f/a20273.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
-    [ "timer1", "d2/d6f/a20273.html#ae277d302131abd17cef018872b12da06", null ],
-    [ "timer2", "d2/d6f/a20273.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
+    [ "OnApply", "d2/d6f/a20273.html#a5aec8606684637bbdb1e819254f5d483", null ],
+    [ "OnRemove", "d2/d6f/a20273.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
+    [ "PrepareAuraScript", "d2/d6f/a20273.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
+    [ "Register", "d2/d6f/a20273.html#af1db6ca387cf0733ba4b9c324172d692", null ],
+    [ "Validate", "d2/d6f/a20273.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
 ];

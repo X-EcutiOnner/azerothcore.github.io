@@ -1,6 +1,6 @@
 var a16081 =
 [
-    [ "creatureID", "dc/d96/a16081.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
-    [ "pos", "dc/d96/a16081.html#a9705a858cc2c3867e104514d3a0a1866", null ],
-    [ "waveID", "dc/d96/a16081.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
+    [ "npc_braug_dimspirit", "dc/d96/a16081.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
+    [ "OnGossipHello", "dc/d96/a16081.html#aeaed026edf5a1fa82c941f667c05815b", null ],
+    [ "OnGossipSelect", "dc/d96/a16081.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
 ];

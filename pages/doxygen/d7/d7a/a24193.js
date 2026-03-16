@@ -1,8 +1,6 @@
 var a24193 =
 [
-    [ "npc_pet_gen_gnomish_flame_turret", "d7/d7a/a24193.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
-    [ "AttackStart", "d7/d7a/a24193.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
-    [ "Reset", "d7/d7a/a24193.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
-    [ "UpdateAI", "d7/d7a/a24193.html#ae3db08323af4b82009ffd660b3e78474", null ],
-    [ "checkTimer", "d7/d7a/a24193.html#ac6705f4980ca561a5fd33c2917488439", null ]
+    [ "npc_lord_illidan_stormrageAI", "df/df0/a24197.html", "df/df0/a24197" ],
+    [ "npc_lord_illidan_stormrage", "d7/d7a/a24193.html#ad2f213749e170ec4f9903396d132f5f3", null ],
+    [ "GetAI", "d7/d7a/a24193.html#a9aaedc4326b90621965dad522f4af897", null ]
 ];

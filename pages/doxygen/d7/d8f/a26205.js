@@ -1,5 +1,6 @@
 var a26205 =
 [
-    [ "PrepareSpellScript", "d7/d8f/a26205.html#aa2d9d885e55c1685c2ce9cbc5b4d4279", null ],
-    [ "Register", "d7/d8f/a26205.html#a721430db1738b255f114483bdddef5e2", null ]
+    [ "OnPeriodic", "d7/d8f/a26205.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
+    [ "PrepareAuraScript", "d7/d8f/a26205.html#ad3d091510685ebc2d87aadb658cacf58", null ],
+    [ "Register", "d7/d8f/a26205.html#a9552ba0f4c18623b6b00ababa034942c", null ]
 ];

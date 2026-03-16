@@ -1,8 +1,8 @@
 var a13829 =
 [
-    [ "npc_sunblade_arch_mage", "d8/dfc/a13829.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
-    [ "JustEngagedWith", "d8/dfc/a13829.html#aadeae32d691229b7b7b531175b8a5018", null ],
-    [ "Reset", "d8/dfc/a13829.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
-    [ "UpdateAI", "d8/dfc/a13829.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
-    [ "scheduler", "d8/dfc/a13829.html#aa6680f06651316996868907b1d28126c", null ]
+    [ "CheckCast", "d8/dfc/a13829.html#a414c603646c1a6be9bbb7059abbb7e71", null ],
+    [ "HandleScriptEffect", "d8/dfc/a13829.html#a22f630cb9df4b435a5624f2865915753", null ],
+    [ "PrepareSpellScript", "d8/dfc/a13829.html#a6e6b27ade1cac743946a976dbf343066", null ],
+    [ "Register", "d8/dfc/a13829.html#a4afae0bafceeb6e6a9a26aea2162d4d9", null ],
+    [ "Validate", "d8/dfc/a13829.html#a85779288126b21f516f2feb0238ee65b", null ]
 ];

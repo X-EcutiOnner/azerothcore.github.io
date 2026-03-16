@@ -1,5 +1,9 @@
 var a10709 =
 [
-    [ "GuildGetRoster", "d5/da6/a10709.html#a9beccc6ee2416633c57d2da31fdc021a", null ],
-    [ "Read", "d5/da6/a10709.html#af795ad992ec1b55d741227bd2d4a62d1", null ]
+    [ "fX", "d5/da6/a10709.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
+    [ "fY", "d5/da6/a10709.html#a9b158e247014eec0d35e465ab9469ac7", null ],
+    [ "fZ", "d5/da6/a10709.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
+    [ "uiCreatureEntry", "d5/da6/a10709.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
+    [ "uiPointId", "d5/da6/a10709.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
+    [ "uiWaitTime", "d5/da6/a10709.html#a305620aad71152c1139a88dea05a1887", null ]
 ];

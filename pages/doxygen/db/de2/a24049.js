@@ -1,11 +1,6 @@
 var a24049 =
 [
-    [ "npc_shadowmoon_tuber_nodeAI", "db/de2/a24049.html#af24a8d5ead256d158c86379e032aa889", null ],
-    [ "Reset", "db/de2/a24049.html#a9bcbd0b0b6b12058a8356ce274b6a597", null ],
-    [ "SetData", "db/de2/a24049.html#aca6ad097bd7b8e5f1a0cde6bdebb23ad", null ],
-    [ "SpellHit", "db/de2/a24049.html#a14523a24042d23efbafc7924f394dd04", null ],
-    [ "UpdateAI", "db/de2/a24049.html#ae5cd38aa2a9cc1727141298323639660", null ],
-    [ "resetTimer", "db/de2/a24049.html#a0d2649de651279fa6bbe3ae2f18571bb", null ],
-    [ "tapped", "db/de2/a24049.html#af6412de701f14a7eb325e1aaf33f28cc", null ],
-    [ "tuberGUID", "db/de2/a24049.html#a2deaa1aeed26b862e93055d90c9139d6", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "d5/d0d/a24053.html", "d5/d0d/a24053" ],
+    [ "npc_creditmarker_visit_with_ancestors", "db/de2/a24049.html#a60f7abac7198d8504d944828dceb1ffa", null ],
+    [ "GetAI", "db/de2/a24049.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
 ];

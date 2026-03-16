@@ -1,6 +1,8 @@
 var a09761 =
 [
-    [ "bossId", "d6/ddb/a09761.html#ac7ce1fcc568ad1fe6bc8a20957357ed8", null ],
-    [ "entry", "d6/ddb/a09761.html#a1a199d022692efe54e29a7cb90e73dee", null ],
-    [ "type", "d6/ddb/a09761.html#ab5654860b5c27654fa0346e9e92a71fc", null ]
+    [ "LocalizedPacketDo", "d6/ddb/a09761.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
+    [ "~LocalizedPacketDo", "d6/ddb/a09761.html#a4296260b2011e1f7c300987073863ca9", null ],
+    [ "operator()", "d6/ddb/a09761.html#a43449bdf0302e426b8cb4341326196b1", null ],
+    [ "i_builder", "d6/ddb/a09761.html#a2c794905898feb502bfc5d3760f962b8", null ],
+    [ "i_data_cache", "d6/ddb/a09761.html#a2bbff655e1a5268981c48e3ee028b104", null ]
 ];

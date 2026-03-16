@@ -1,11 +1,12 @@
 var a20757 =
 [
-    [ "boss_yoggsaron_llane", "d3/dca/a20757.html#a42e3d189cff0da5995401e4bc8dfffdd", null ],
-    [ "NextStep", "d3/dca/a20757.html#ab8b6446fe7d424ad7d943af915cc4b8a", null ],
-    [ "Reset", "d3/dca/a20757.html#a0df3a85717ab26ad1ac889d6fe4d8007", null ],
-    [ "Say", "d3/dca/a20757.html#a0ae3106eac830ed9f14f17e5fa1d45ec", null ],
-    [ "UpdateAI", "d3/dca/a20757.html#a58ec957cd59b944439fe514e728e2902", null ],
-    [ "_checkTimer", "d3/dca/a20757.html#a3043382e2727bc78a74acaec28697045", null ],
-    [ "_running", "d3/dca/a20757.html#ab7e1b1ed82f311b12f28f1622e6ad378", null ],
-    [ "_step", "d3/dca/a20757.html#a91a71f85bab9e4d1234964ef534e51c2", null ]
+    [ "boss_thorim_start_npcs", "d3/dca/a20757.html#a3ed7da48fc86ea00124181bb943a778d", null ],
+    [ "DamageTaken", "d3/dca/a20757.html#a4821ee0619dac4cdcd9434f57d83f0c9", null ],
+    [ "JustDied", "d3/dca/a20757.html#af5a00c3bc633464e9fd5d02991845294", null ],
+    [ "JustEngagedWith", "d3/dca/a20757.html#a636dd7264dd01aa5fc3c69af17425103", null ],
+    [ "Reset", "d3/dca/a20757.html#a37092466e579fe54a1dffe2ae0a2f689", null ],
+    [ "UpdateAI", "d3/dca/a20757.html#a7cca60ceab19727e68fcd4a3629978c4", null ],
+    [ "_isCaster", "d3/dca/a20757.html#aa3c48c6d8d548cb39a6c7eea8f807dde", null ],
+    [ "_playerAttack", "d3/dca/a20757.html#ab1bf0c011692377fc591610c5131d5e2", null ],
+    [ "events", "d3/dca/a20757.html#affdeecbfa6bb62659c4a2f5ef1d1fafa", null ]
 ];

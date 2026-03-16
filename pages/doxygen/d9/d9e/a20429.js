@@ -1,6 +1,7 @@
 var a20429 =
 [
-    [ "FilterTargets", "d9/d9e/a20429.html#ae8d940a89be9b63286911bd55dcd3844", null ],
-    [ "PrepareSpellScript", "d9/d9e/a20429.html#a8f4b4d82e53c8f820b620896478681a9", null ],
-    [ "Register", "d9/d9e/a20429.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
+    [ "npc_ulduar_icicle", "d9/d9e/a20429.html#af52ccbf93e54673f8a91dcea682d9e9b", null ],
+    [ "UpdateAI", "d9/d9e/a20429.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
+    [ "timer1", "d9/d9e/a20429.html#ae277d302131abd17cef018872b12da06", null ],
+    [ "timer2", "d9/d9e/a20429.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
 ];

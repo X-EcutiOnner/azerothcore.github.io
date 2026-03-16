@@ -1,13 +1,12 @@
 var a10157 =
 [
-    [ "AccountScript", "de/d6a/a10157.html#a3720bf412499a13ba4b41fc5c9f96b7c", null ],
-    [ "CanAccountCreateCharacter", "de/d6a/a10157.html#a6b5b94c1ac64bf8d926928d8401cd533", null ],
-    [ "OnAccountLogin", "de/d6a/a10157.html#afbebc7186ba77b0fefe0a6d32a774601", null ],
-    [ "OnBeforeAccountDelete", "de/d6a/a10157.html#a631f7deca08644da2613142c667618a8", null ],
-    [ "OnEmailChange", "de/d6a/a10157.html#adf20bd20cdc97b91db664dca95f82670", null ],
-    [ "OnFailedAccountLogin", "de/d6a/a10157.html#aae3401d74bdc9e8328a5f084462ae740", null ],
-    [ "OnFailedEmailChange", "de/d6a/a10157.html#a23261a238db9ddd618ebb6a45aaabcbf", null ],
-    [ "OnFailedPasswordChange", "de/d6a/a10157.html#a45d58c0f669f37b24e3dabf0ac4b2423", null ],
-    [ "OnLastIpUpdate", "de/d6a/a10157.html#a3de6453c132bb3d76b6888b87f988d2d", null ],
-    [ "OnPasswordChange", "de/d6a/a10157.html#aefa30b298f52d7c1a44e7648d088c3f0", null ]
+    [ "BanAccount", "de/d6a/a10157.html#af85ceffee2ae6a143df5e36f6a004f07", null ],
+    [ "BanAccountByPlayerName", "de/d6a/a10157.html#a35f92762d69fe32e49b9b239c74e4734", null ],
+    [ "BanCharacter", "de/d6a/a10157.html#ad5048b36828bfe20a95dfb85515de831", null ],
+    [ "BanIP", "de/d6a/a10157.html#a404890eab19b97773e6c9aef8cc65707", null ],
+    [ "instance", "de/d6a/a10157.html#aa495dfaab6af98c43f645acf516a5630", null ],
+    [ "RemoveBanAccount", "de/d6a/a10157.html#ae831e6227442edc70469229d5d73fa3f", null ],
+    [ "RemoveBanAccountByPlayerName", "de/d6a/a10157.html#a7b5e1ae6d34ae4f6a15e03c434953aea", null ],
+    [ "RemoveBanCharacter", "de/d6a/a10157.html#afbde6c0b26802f684ecf78c2f493cc67", null ],
+    [ "RemoveBanIP", "de/d6a/a10157.html#afcf4857007432ebff042c85c5daf2325", null ]
 ];

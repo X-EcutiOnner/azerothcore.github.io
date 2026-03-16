@@ -1,7 +1,7 @@
 var a18817 =
 [
-    [ "npc_valithria_portalAI", "d5/df8/a18817.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
-    [ "GetData", "d5/df8/a18817.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
-    [ "OnSpellClick", "d5/df8/a18817.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
-    [ "_used", "d5/df8/a18817.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
+    [ "PrepareSpellScript", "d5/df8/a18817.html#a3283e829757b50bb52f66ee1e64033ae", null ],
+    [ "Register", "d5/df8/a18817.html#a0162c92c32210f2873686610f4f00b87", null ],
+    [ "TriggerHeal", "d5/df8/a18817.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
+    [ "Validate", "d5/df8/a18817.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
 ];

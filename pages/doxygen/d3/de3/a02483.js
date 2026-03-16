@@ -1,62 +1,59 @@
 var a02483 =
 [
-    [ "ArenaTeamMember", "d7/d7c/a07526.html", "d7/d7c/a07526" ],
-    [ "ArenaTeamStats", "d1/da9/a07530.html", "d1/da9/a07530" ],
-    [ "ArenaTeam", "d1/dd6/a07534.html", "d1/dd6/a07534" ],
-    [ "MAX_ARENA_SLOT", "d3/de3/a02483.html#a3ed680b9b5f263a9c57435bf412b89f6", null ],
-    [ "ArenaSlot", "d3/de3/a02483.html#af7e171357dbfd0fedfa2da950cf6abbf", [
-      [ "ARENA_SLOT_2v2", "d3/de3/a02483.html#af7e171357dbfd0fedfa2da950cf6abbfa91adb8a9823496c7b8bbece5e5a3a74e", null ],
-      [ "ARENA_SLOT_3v3", "d3/de3/a02483.html#af7e171357dbfd0fedfa2da950cf6abbfab5c77731583aa5a2ef36073e297be240", null ],
-      [ "ARENA_SLOT_5v5", "d3/de3/a02483.html#af7e171357dbfd0fedfa2da950cf6abbfaa750824f1390167b2db96f7a04288990", null ]
+    [ "AchievementOfflinePlayerUpdate", "de/d38/a06165.html", "de/d38/a06165" ],
+    [ "CriteriaProgress", "da/dba/a06169.html", "da/dba/a06169" ],
+    [ "AchievementCriteriaData", "df/da5/a06173.html", "df/da5/a06173" ],
+    [ "AchievementCriteriaDataSet", "da/daf/a06269.html", "da/daf/a06269" ],
+    [ "AchievementReward", "de/d6a/a06273.html", "de/d6a/a06273" ],
+    [ "AchievementRewardLocale", "dd/d78/a06277.html", "dd/d78/a06277" ],
+    [ "CompletedAchievementData", "d3/dd4/a06281.html", "d3/dd4/a06281" ],
+    [ "AchievementMgr", "d7/d3e/a06285.html", "d7/d3e/a06285" ],
+    [ "AchievementGlobalMgr", "d5/d89/a06289.html", "d5/d89/a06289" ],
+    [ "MAX_ACHIEVEMENT_CRITERIA_DATA_TYPE", "d3/de3/a02483.html#aa36806d2931b69d34909b50f40ca8c0e", null ],
+    [ "sAchievementMgr", "d3/de3/a02483.html#af422afe119839b631fd67247eddff1e6", null ],
+    [ "AchievementCriteriaDataMap", "d3/de3/a02483.html#ac16b4d5f47fe0db16d59dc67e86e42be", null ],
+    [ "AchievementCriteriaEntryList", "d3/de3/a02483.html#a7a5f365d092f508da6ae8d510f0e3117", null ],
+    [ "AchievementCriteriaListByAchievement", "d3/de3/a02483.html#ad5e4b1cd98f21804a508642d8475033f", null ],
+    [ "AchievementEntryList", "d3/de3/a02483.html#a9d70fd67a3069b6a55c0145265bffc4b", null ],
+    [ "AchievementListByReferencedId", "d3/de3/a02483.html#af3b606f4c218a7e68902cd9ff9470f5b", null ],
+    [ "AchievementRewardLocales", "d3/de3/a02483.html#a3d51ce6b9e37b72772cea78f064e5a77", null ],
+    [ "AchievementRewards", "d3/de3/a02483.html#a471572afc0467790ccff565b39f61720", null ],
+    [ "CompletedAchievementMap", "d3/de3/a02483.html#aee097fd9426b25c1101af73a551a37e1", null ],
+    [ "CriteriaProgressMap", "d3/de3/a02483.html#a649527d8ab61f39ad17fe709d2b1aabc", null ],
+    [ "AchievementCommonCategories", "d3/de3/a02483.html#ac0bc114e07c706c7192e14e80355a213", [
+      [ "ACHIEVEMENT_CATEOGRY_GENERAL", "d3/de3/a02483.html#ac0bc114e07c706c7192e14e80355a213a4c91db703d7b5c8f8756bc6136bc5207", null ],
+      [ "ACHIEVEMENT_CATEGORY_STATISTICS", "d3/de3/a02483.html#ac0bc114e07c706c7192e14e80355a213a142173b7c79b8a90cd7854fd7b03509a", null ]
     ] ],
-    [ "ArenaTeamCommandErrors", "d3/de3/a02483.html#aaef5689eecf34c2bfc684e272a576b3c", [
-      [ "ERR_ARENA_TEAM_INTERNAL", "d3/de3/a02483.html#aaef5689eecf34c2bfc684e272a576b3ca41e9ff94d6d37e25de05fa381e169070", null ],
-      [ "ERR_ALREADY_IN_ARENA_TEAM", "d3/de3/a02483.html#aaef5689eecf34c2bfc684e272a576b3ca604ef0adfa5d8d26e1cd06c96443d7c0", null ],
-      [ "ERR_ALREADY_IN_ARENA_TEAM_S", "d3/de3/a02483.html#aaef5689eecf34c2bfc684e272a576b3ca2129fd8e1a3016d3f24f87345a5904a6", null ],
-      [ "ERR_INVITED_TO_ARENA_TEAM", "d3/de3/a02483.html#aaef5689eecf34c2bfc684e272a576b3ca4d75a01959fade0df3db076bd7c5690a", null ],
-      [ "ERR_ALREADY_INVITED_TO_ARENA_TEAM_S", "d3/de3/a02483.html#aaef5689eecf34c2bfc684e272a576b3cad93a3c8f9993d960fbd8235dc752d6f2", null ],
-      [ "ERR_ARENA_TEAM_NAME_INVALID", "d3/de3/a02483.html#aaef5689eecf34c2bfc684e272a576b3ca1b9f5d1c1c937e0303c5e3704e20101b", null ],
-      [ "ERR_ARENA_TEAM_NAME_EXISTS_S", "d3/de3/a02483.html#aaef5689eecf34c2bfc684e272a576b3caedbaa3d036cb3b5652762b91df5f908a", null ],
-      [ "ERR_ARENA_TEAM_LEADER_LEAVE_S", "d3/de3/a02483.html#aaef5689eecf34c2bfc684e272a576b3ca99b876d236d6a86261af0113b161657d", null ],
-      [ "ERR_ARENA_TEAM_PERMISSIONS", "d3/de3/a02483.html#aaef5689eecf34c2bfc684e272a576b3caa30839ed27dd1a23b9d26bd4cefb58bd", null ],
-      [ "ERR_ARENA_TEAM_PLAYER_NOT_IN_TEAM", "d3/de3/a02483.html#aaef5689eecf34c2bfc684e272a576b3ca906a0bd0de6f0ccbd36238309675f75a", null ],
-      [ "ERR_ARENA_TEAM_PLAYER_NOT_IN_TEAM_SS", "d3/de3/a02483.html#aaef5689eecf34c2bfc684e272a576b3caf6d4ab0d0f708627e4661270079cf5bc", null ],
-      [ "ERR_ARENA_TEAM_PLAYER_NOT_FOUND_S", "d3/de3/a02483.html#aaef5689eecf34c2bfc684e272a576b3caca502d97b4ce3a42b0c4c4b097ea5872", null ],
-      [ "ERR_ARENA_TEAM_NOT_ALLIED", "d3/de3/a02483.html#aaef5689eecf34c2bfc684e272a576b3cab073d31d5c2050eb02fa4c8bcbde744b", null ],
-      [ "ERR_ARENA_TEAM_IGNORING_YOU_S", "d3/de3/a02483.html#aaef5689eecf34c2bfc684e272a576b3ca6c97f9288f5c74a49df5fd3beda71f7d", null ],
-      [ "ERR_ARENA_TEAM_TARGET_TOO_LOW_S", "d3/de3/a02483.html#aaef5689eecf34c2bfc684e272a576b3cac8c7b33482e44350c2bd5e8dec713ad9", null ],
-      [ "ERR_ARENA_TEAM_TARGET_TOO_HIGH_S", "d3/de3/a02483.html#aaef5689eecf34c2bfc684e272a576b3ca17bc7cae6e897ba316ede8d045e1e478", null ],
-      [ "ERR_ARENA_TEAM_TOO_MANY_MEMBERS_S", "d3/de3/a02483.html#aaef5689eecf34c2bfc684e272a576b3ca00fe0fff5f647873a102d0ff5aafa713", null ],
-      [ "ERR_ARENA_TEAM_NOT_FOUND", "d3/de3/a02483.html#aaef5689eecf34c2bfc684e272a576b3ca6f8d79650a20ea97beef68557013afbc", null ],
-      [ "ERR_ARENA_TEAMS_LOCKED", "d3/de3/a02483.html#aaef5689eecf34c2bfc684e272a576b3ca6ffa2803290c499255e02a15ac6056af", null ]
+    [ "AchievementCriteriaDataType", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0", [
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_NONE", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0ae9d5b8759c2ee53b9e210a15ad049943", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_CREATURE", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0abc70f9063061689cbf95c04df5a9a448", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_CLASS_RACE", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0a22786f73e7cc8966c60614e88f0d5cb1", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_LESS_HEALTH", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0ac6775a92c029d4c2be529461e23e4ca3", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_DEAD", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0adc76e0c15e881d6848994a911d1a8ef6", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AURA", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0a9507639d721e63f182ebd53d593d5465", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AREA", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0a19b830790eb46adb27e8a65b85eceed1", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_AURA", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0aa0b32101ef67881083e58a6a6c55c75b", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_VALUE", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0a3fd659753b9d41caa4b58c51d2cb6ea7", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_LEVEL", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0ab055e5273ac4250d273fa5592af3ed39", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_GENDER", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0a10fc4cfb0da2c0c72c12d5e6e4a1bdd6", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_SCRIPT", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0a0578b3122b1b69df3af04c2d45df266c", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_DIFFICULTY", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0a5813a09c9977d3d5f80595d529f7f420", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_PLAYER_COUNT", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0a1046e477766a7c60f4446fef1b13a6f5", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_TEAM", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0ad5967db594cc30c247c785d5c753cc18", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_DRUNK", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0a7fcb85cf04be09a3a5f1214553bf329a", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_HOLIDAY", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0a9dba74c8f01c9292cf8afa6b77be2a34", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_LOSS_TEAM_SCORE", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0aab81f29c4cb17f066e8d2bd95f37d954", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_INSTANCE_SCRIPT", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0adb7d56866cf7afe8c4145c300a06ec4c", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_EQUIPPED_ITEM", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0a77677f4d00c6fab053e7f632ef59b4e5", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_ID", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0a84b46b516fde8adcd492cb856d32e722", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_PLAYER_CLASS_RACE", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0aaa861458fcfe5aed7f8714be2b68a1db", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_NTH_BIRTHDAY", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0a003a15517532a95903cb8c6673db418f", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_KNOWN_TITLE", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0a158d186341dd9798da3921a4a6bd2fda", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_TEAMS_SCORES", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0af734713c1c6764e61fddab192904518a", null ],
+      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_ITEM_QUALITY", "d3/de3/a02483.html#a72f8a725cd1b257556ae7aa080f477c0af53705f7958654cf4ca99c99dd320735", null ]
     ] ],
-    [ "ArenaTeamCommandTypes", "d3/de3/a02483.html#a1fcb206499884c4432a2fb3f1bc2e9f8", [
-      [ "ERR_ARENA_TEAM_CREATE_S", "d3/de3/a02483.html#a1fcb206499884c4432a2fb3f1bc2e9f8acf8f425d01f57269e321e56e23327c6c", null ],
-      [ "ERR_ARENA_TEAM_INVITE_SS", "d3/de3/a02483.html#a1fcb206499884c4432a2fb3f1bc2e9f8a6db086a93e3a2cef750fa4611d0599c8", null ],
-      [ "ERR_ARENA_TEAM_QUIT_S", "d3/de3/a02483.html#a1fcb206499884c4432a2fb3f1bc2e9f8a94c61be43bc38d745d50cb849e7c677c", null ],
-      [ "ERR_ARENA_TEAM_FOUNDER_S", "d3/de3/a02483.html#a1fcb206499884c4432a2fb3f1bc2e9f8a37f9df0d4f22190b5310924b6ac930f1", null ]
-    ] ],
-    [ "ArenaTeamEvents", "d3/de3/a02483.html#ac0a8573a87f770ea7c10df9b77e51c8a", [
-      [ "ERR_ARENA_TEAM_JOIN_SS", "d3/de3/a02483.html#ac0a8573a87f770ea7c10df9b77e51c8aa87a592f39d8b998672029e2ede3bc7d9", null ],
-      [ "ERR_ARENA_TEAM_LEAVE_SS", "d3/de3/a02483.html#ac0a8573a87f770ea7c10df9b77e51c8aa483c8031ec08a7c47b67b55b8dd949da", null ],
-      [ "ERR_ARENA_TEAM_REMOVE_SSS", "d3/de3/a02483.html#ac0a8573a87f770ea7c10df9b77e51c8aa44614d25e1c22b45bd4c11f09f69b6ae", null ],
-      [ "ERR_ARENA_TEAM_LEADER_IS_SS", "d3/de3/a02483.html#ac0a8573a87f770ea7c10df9b77e51c8aac6e559df2f09cd936ce6ff89d53ce87c", null ],
-      [ "ERR_ARENA_TEAM_LEADER_CHANGED_SSS", "d3/de3/a02483.html#ac0a8573a87f770ea7c10df9b77e51c8aa1e0474620fe85d5a5073c37c645ff612", null ],
-      [ "ERR_ARENA_TEAM_DISBANDED_S", "d3/de3/a02483.html#ac0a8573a87f770ea7c10df9b77e51c8aa80c970a7a9b0d59fc7dd0435bbd13c97", null ]
-    ] ],
-    [ "ArenaTeamInfoType", "d3/de3/a02483.html#a70db3aa0de523db72170532f1968f53a", [
-      [ "ARENA_TEAM_ID", "d3/de3/a02483.html#a70db3aa0de523db72170532f1968f53aa7417fe6be6e65f6c6624065d21d8a67d", null ],
-      [ "ARENA_TEAM_TYPE", "d3/de3/a02483.html#a70db3aa0de523db72170532f1968f53aa4405261c9e2ef19502e7e683f5d50599", null ],
-      [ "ARENA_TEAM_MEMBER", "d3/de3/a02483.html#a70db3aa0de523db72170532f1968f53aaa0f054a6e3ee861880e5b5d5456534d5", null ],
-      [ "ARENA_TEAM_GAMES_WEEK", "d3/de3/a02483.html#a70db3aa0de523db72170532f1968f53aa0381830df98ba279e8144613469980af", null ],
-      [ "ARENA_TEAM_GAMES_SEASON", "d3/de3/a02483.html#a70db3aa0de523db72170532f1968f53aabdca49c47f5919deea0cbc99e949e39a", null ],
-      [ "ARENA_TEAM_WINS_SEASON", "d3/de3/a02483.html#a70db3aa0de523db72170532f1968f53aaa218bd11a0df7666bff40edceccdc7e3", null ],
-      [ "ARENA_TEAM_PERSONAL_RATING", "d3/de3/a02483.html#a70db3aa0de523db72170532f1968f53aa8f3ee63b5df0172896a6f69385928d9e", null ],
-      [ "ARENA_TEAM_END", "d3/de3/a02483.html#a70db3aa0de523db72170532f1968f53aa79d6199c026b36a46345fd73dd98211f", null ]
-    ] ],
-    [ "ArenaTeamTypes", "d3/de3/a02483.html#a4bcf5153b4e15b706a3ff2dada112cae", [
-      [ "ARENA_TEAM_2v2", "d3/de3/a02483.html#a4bcf5153b4e15b706a3ff2dada112caea6f737fce1aaa0bd705adbd47d6797614", null ],
-      [ "ARENA_TEAM_3v3", "d3/de3/a02483.html#a4bcf5153b4e15b706a3ff2dada112caea76932d9f9aa71ed9e8f709d14e8512bd", null ],
-      [ "ARENA_TEAM_5v5", "d3/de3/a02483.html#a4bcf5153b4e15b706a3ff2dada112caea2ccfa6a14f64fde9ef92b9fc7e0417cc", null ]
+    [ "AchievementOfflinePlayerUpdateType", "d3/de3/a02483.html#a9c52752c50b87261f43020b3cfaa06e6", [
+      [ "ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_COMPLETE_ACHIEVEMENT", "d3/de3/a02483.html#a9c52752c50b87261f43020b3cfaa06e6a2976d6d0cc93ac389d7683d092aff8ee", null ],
+      [ "ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_UPDATE_CRITERIA", "d3/de3/a02483.html#a9c52752c50b87261f43020b3cfaa06e6a7d91d50e1acd06739fbc20bd87c8a4a3", null ]
     ] ]
 ];

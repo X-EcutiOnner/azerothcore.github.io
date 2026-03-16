@@ -1,10 +1,11 @@
 var a28409 =
 [
-    [ "BugfixVersion", "d2/df6/a28409.html#a461f8c749a874405584dc1fd3fe1d805", null ],
-    [ "Build", "d2/df6/a28409.html#a6cc7aff1b397df7333b9bb0003282abd", null ],
-    [ "HotfixVersion", "d2/df6/a28409.html#a0df61c036a57b8a3efde5d180dc38131", null ],
-    [ "MacHash", "d2/df6/a28409.html#ad59772e86371318fe975760e303fa7d9", null ],
-    [ "MajorVersion", "d2/df6/a28409.html#a0eb78564680f771e325536a0ab77382a", null ],
-    [ "MinorVersion", "d2/df6/a28409.html#a7140f7ef9540eff08fabf74ded68b9cc", null ],
-    [ "WindowsHash", "d2/df6/a28409.html#a96abd69a458dfc4363c4e545fc7fabab", null ]
+    [ "npc_artoriusAI", "d2/df6/a28409.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
+    [ "DamageTaken", "d2/df6/a28409.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
+    [ "DoAction", "d2/df6/a28409.html#abbfc9ee752d97f1694dbd739719843c2", null ],
+    [ "JustEngagedWith", "d2/df6/a28409.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
+    [ "Reset", "d2/df6/a28409.html#a862cc52a9251e2dfe486f1152dae9500", null ],
+    [ "SpellHit", "d2/df6/a28409.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
+    [ "UpdateAI", "d2/df6/a28409.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
+    [ "events", "d2/df6/a28409.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
 ];

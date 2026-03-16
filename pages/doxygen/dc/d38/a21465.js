@@ -1,5 +1,6 @@
 var a21465 =
 [
-    [ "npc_steam_powered_auctioneerAI", "dc/d38/a21465.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
-    [ "CanBeSeen", "dc/d38/a21465.html#a3352588abda326f7c72d0764a3f53370", null ]
+    [ "npc_azure_spellbreakerAI", "da/ddd/a21469.html", "da/ddd/a21469" ],
+    [ "npc_azure_spellbreaker", "dc/d38/a21465.html#a36f09ff7a60a04e6dd99bc37146000f8", null ],
+    [ "GetAI", "dc/d38/a21465.html#a7b2e89c33deef7fb5237b271dd5b0d12", null ]
 ];

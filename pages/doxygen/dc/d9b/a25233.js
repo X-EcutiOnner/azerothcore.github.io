@@ -1,7 +1,6 @@
 var a25233 =
 [
-    [ "HandleOnEffectApply", "dc/d9b/a25233.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
-    [ "HandleOnEffectRemove", "dc/d9b/a25233.html#a094d788d157474a9683387d5c340538f", null ],
-    [ "PrepareAuraScript", "dc/d9b/a25233.html#aad378b8c45f11af51faf9128878c01df", null ],
-    [ "Register", "dc/d9b/a25233.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
+    [ "CalculateAmount", "dc/d9b/a25233.html#a66b009487462241e573ea23f081a140a", null ],
+    [ "PrepareAuraScript", "dc/d9b/a25233.html#a0eee16c77a3c3cea882b67c78826a140", null ],
+    [ "Register", "dc/d9b/a25233.html#afeafc6922b0a0389fec969e3c7191dda", null ]
 ];

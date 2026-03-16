@@ -1,6 +1,6 @@
 var a23677 =
 [
-    [ "FilterTargets", "d6/d03/a23677.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
-    [ "PrepareSpellScript", "d6/d03/a23677.html#afa186c0b0728e3462f8984189613f9a7", null ],
-    [ "Register", "d6/d03/a23677.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
+    [ "npc_warden_mellicharAI", "dc/d0d/a23681.html", "dc/d0d/a23681" ],
+    [ "npc_warden_mellichar", "d6/d03/a23677.html#aba5c3d005097430941bd40bbbb0d3562", null ],
+    [ "GetAI", "d6/d03/a23677.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
 ];

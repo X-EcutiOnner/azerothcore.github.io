@@ -1,5 +1,6 @@
 var a17137 =
 [
-    [ "npc_fos_leader_secondAI", "db/d60/a17137.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
-    [ "MovementInform", "db/d60/a17137.html#a9cc0b500f1289dc8b764b3755468e639", null ]
+    [ "npc_announcer_toc10", "db/d60/a17137.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
+    [ "OnGossipHello", "db/d60/a17137.html#afcc5262e7c49b7456af146de14805a06", null ],
+    [ "OnGossipSelect", "db/d60/a17137.html#a9a2bf1d3a215332744ca473041cc0520", null ]
 ];

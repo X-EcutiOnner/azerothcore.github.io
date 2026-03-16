@@ -1,6 +1,6 @@
 var a27389 =
 [
-    [ "npc_training_dummyAI", "db/dfe/a27393.html", "db/dfe/a27393" ],
-    [ "npc_training_dummy", "d6/d1b/a27389.html#acfed4da3b1a01bc58e599d2dc134cb7d", null ],
-    [ "GetAI", "d6/d1b/a27389.html#a87a48a42e8349ce9125de91a429d4ffa", null ]
+    [ "HandleAfterCast", "d6/d1b/a27389.html#aacd4954973c8157ca65958b9ec08155b", null ],
+    [ "PrepareSpellScript", "d6/d1b/a27389.html#a45629d348275833930bc5180e9a347f9", null ],
+    [ "Register", "d6/d1b/a27389.html#a9c43529cea77a4be86048616ebc64b2c", null ]
 ];

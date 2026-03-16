@@ -1,6 +1,8 @@
 var a13281 =
 [
-    [ "npc_dkc1_gothikAI", "d3/ddd/a13285.html", "d3/ddd/a13285" ],
-    [ "npc_dkc1_gothik", "d2/df2/a13281.html#ae4a6aec0235b01044ebd5c9c71d400d9", null ],
-    [ "GetAI", "d2/df2/a13281.html#aeb285cf6977cfab5d337f51ae41907ec", null ]
+    [ "CalcPeriodic", "d2/df2/a13281.html#a493609298c152df8216641ba2e5861cd", null ],
+    [ "PrepareAuraScript", "d2/df2/a13281.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
+    [ "Register", "d2/df2/a13281.html#a44002db5980dfc1db816cf61fd446491", null ],
+    [ "Update", "d2/df2/a13281.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
+    [ "Validate", "d2/df2/a13281.html#a060e189aaa4396681d42906b65c9196f", null ]
 ];

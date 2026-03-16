@@ -1,5 +1,6 @@
 var a27273 =
 [
-    [ "item_disgusting_jar", "da/de8/a27273.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
-    [ "OnExpire", "da/de8/a27273.html#a4f6967035a4d247914a6034fcebac5c5", null ]
+    [ "CheckProc", "da/de8/a27273.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
+    [ "PrepareAuraScript", "da/de8/a27273.html#af15109e926eb717c3f3cb2f7f617428c", null ],
+    [ "Register", "da/de8/a27273.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
 ];

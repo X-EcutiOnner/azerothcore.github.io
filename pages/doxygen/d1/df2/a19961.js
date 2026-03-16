@@ -1,7 +1,7 @@
 var a19961 =
 [
-    [ "HandleDummyEffect", "d1/df2/a19961.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
-    [ "PrepareSpellScript", "d1/df2/a19961.html#a84a4f52928873e58b1fc49e783c5083a", null ],
-    [ "Register", "d1/df2/a19961.html#a90c00bcb1768d696addab407425e406a", null ],
-    [ "SelectTarget", "d1/df2/a19961.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
+    [ "OnRemove", "d1/df2/a19961.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
+    [ "PrepareAuraScript", "d1/df2/a19961.html#a2d278e60b34870110dab188896109e24", null ],
+    [ "Register", "d1/df2/a19961.html#ac15847527cc4d162b3b34b8ca8628864", null ],
+    [ "Validate", "d1/df2/a19961.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
 ];

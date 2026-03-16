@@ -1,6 +1,5 @@
 var a23501 =
 [
-    [ "npc_warden_mellicharAI", "de/d86/a23505.html", "de/d86/a23505" ],
-    [ "npc_warden_mellichar", "d8/df8/a23501.html#aba5c3d005097430941bd40bbbb0d3562", null ],
-    [ "GetAI", "d8/df8/a23501.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
+    [ "go_broggok_lever", "d8/df8/a23501.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
+    [ "OnGossipHello", "d8/df8/a23501.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
 ];

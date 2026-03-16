@@ -1,7 +1,6 @@
 var a10173 =
 [
-    [ "WriteCommonMonsterMovePart", "d8/d41/a10173.html#a5dcdbeb513f6da51b0af20d9acd2ac58", null ],
-    [ "WriteCreate", "d8/d41/a10173.html#ae5682d7012cca35bd8643b01ce558eb5", null ],
-    [ "WriteMonsterMove", "d8/d41/a10173.html#a4c4294e3fed32aca35078dd4975b057d", null ],
-    [ "WriteStopMovement", "d8/d41/a10173.html#a1b960c1141ab9b4dca932e0eddaee204", null ]
+    [ "IsNeutralOrFriendlyToTeam", "d8/d41/a10173.html#aeeea8efaff8fe3f5044a7d5627a89cb6", null ],
+    [ "safeLocId", "d8/d41/a10173.html#a4f6003cc76b70c83fbb8301cc9d5a7ad", null ],
+    [ "teamId", "d8/d41/a10173.html#a287b04900d70f8ff8c6f6542edbd40a6", null ]
 ];

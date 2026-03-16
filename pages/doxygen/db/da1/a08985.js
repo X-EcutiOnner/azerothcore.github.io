@@ -1,6 +1,18 @@
 var a08985 =
 [
-    [ "Conditions", "db/da1/a08985.html#a93edc2f0d71164b683c844b713befa85", null ],
-    [ "MenuID", "db/da1/a08985.html#a732aa82f621c312745ddbd6fe2e3e906", null ],
-    [ "TextID", "db/da1/a08985.html#a6ec8df5fcc5126bdee656ca08c0a5edc", null ]
+    [ "absorb", "db/da1/a08985.html#a7298afcc76b856c5427f5e123030a797", null ],
+    [ "attacker", "db/da1/a08985.html#aebe14d91f54da0b25a07ff3d59df6ec2", null ],
+    [ "attackType", "db/da1/a08985.html#afd18e43bd78a9144c02ba0493921c506", null ],
+    [ "blocked_amount", "db/da1/a08985.html#a0ce1e1ff406264c7283979fe4fc70148", null ],
+    [ "cleanDamage", "db/da1/a08985.html#a452ac9be1f6e9c10616a62a128573358", null ],
+    [ "damage", "db/da1/a08985.html#ab95e1e4746b966f1301d997fdac99c94", null ],
+    [ "damages", "db/da1/a08985.html#a707ae69dcd96a0537202ed19baa4aeae", null ],
+    [ "damageSchoolMask", "db/da1/a08985.html#a01f1cc6661ef5f4e7d657ba59d06108f", null ],
+    [ "HitInfo", "db/da1/a08985.html#ae42a8a3750633d94e661ac9d5a9aa8df", null ],
+    [ "hitOutCome", "db/da1/a08985.html#a114dcabcb8bff10c2452cb27e75da115", null ],
+    [ "procAttacker", "db/da1/a08985.html#a21bed657c7e3d2338f30fb5237884d5f", null ],
+    [ "procVictim", "db/da1/a08985.html#a236b06649e715fab9dbddb074ef2f075", null ],
+    [ "resist", "db/da1/a08985.html#ab57d348b500203649bf532405cd9ceec", null ],
+    [ "target", "db/da1/a08985.html#af2976fa1245b3e3177dcbac464345829", null ],
+    [ "TargetState", "db/da1/a08985.html#a73ef30ca87444da617b8c2e05b70e9fc", null ]
 ];

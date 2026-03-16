@@ -1,7 +1,6 @@
 var a28137 =
 [
-    [ "AllocationPct", "d7/d00/a28137.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
-    [ "Enchantment", "d7/d00/a28137.html#a45e694082c1dbdeef5229561f617d584", null ],
-    [ "ID", "d7/d00/a28137.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
-    [ "Name", "d7/d00/a28137.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
+    [ "go_witherbark_totem_bundleAI", "d7/d00/a28137.html#a955625e2315008a2e36936d44f825060", null ],
+    [ "UpdateAI", "d7/d00/a28137.html#af688bab2dc3d938951adb303e8b8d88b", null ],
+    [ "_timer", "d7/d00/a28137.html#a509e6d8401380c326a0f565a6b903d7a", null ]
 ];

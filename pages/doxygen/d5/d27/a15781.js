@@ -1,6 +1,5 @@
 var a15781 =
 [
-    [ "npc_troll_volunteerAI", "d4/dcf/a15785.html", "d4/dcf/a15785" ],
-    [ "npc_troll_volunteer", "d5/d27/a15781.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
-    [ "GetAI", "d5/d27/a15781.html#aba0208b0910ace75686941c462ecca56", null ]
+    [ "at_battleguard_sartura", "d5/d27/a15781.html#a9247cdebeb57d2ddbfa75f60da125d36", null ],
+    [ "OnTrigger", "d5/d27/a15781.html#a6a7b9f210ce0c2844b4f2412c0fe440e", null ]
 ];

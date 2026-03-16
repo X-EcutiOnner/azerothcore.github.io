@@ -1,7 +1,7 @@
 var a20821 =
 [
-    [ "HandleScriptEffect", "d9/d9a/a20821.html#aae469190c1edc1fe45914bad1dac4e93", null ],
-    [ "PrepareSpellScript", "d9/d9a/a20821.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
-    [ "Register", "d9/d9a/a20821.html#a97265071f226fbd17c37d432cf9e2350", null ],
-    [ "Validate", "d9/d9a/a20821.html#aeec0bdd2e39db2da657247376ddcd195", null ]
+    [ "npc_xt002_life_spark", "d9/d9a/a20821.html#ac524bfb0dd21bb59d4c602db04f14f64", null ],
+    [ "Reset", "d9/d9a/a20821.html#aa1bd9ed78b8586b46d297f186c9c430c", null ],
+    [ "UpdateAI", "d9/d9a/a20821.html#ab6f284dd4d5dad3d38bae062abe544fa", null ],
+    [ "_attackTimer", "d9/d9a/a20821.html#aa8b46e7a044c90fe9e342e9bffe7e4dc", null ]
 ];

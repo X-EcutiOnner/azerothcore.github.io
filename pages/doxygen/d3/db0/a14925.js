@@ -1,6 +1,8 @@
 var a14925 =
 [
-    [ "HandleTriggerSpell", "d3/db0/a14925.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
-    [ "PrepareSpellScript", "d3/db0/a14925.html#a76a070da8e719198463010499f595599", null ],
-    [ "Register", "d3/db0/a14925.html#ae237c4972167a5a17b59800983496a9d", null ]
+    [ "npc_love_in_air_snivel_real", "d3/db0/a14925.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
+    [ "Talk", "d3/db0/a14925.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
+    [ "UpdateAI", "d3/db0/a14925.html#a22ed25da8fe3441ef0e4183390983f40", null ],
+    [ "actionCounter", "d3/db0/a14925.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
+    [ "actionTimer", "d3/db0/a14925.html#a3bbee1ff355581772b337268775b8fbc", null ]
 ];

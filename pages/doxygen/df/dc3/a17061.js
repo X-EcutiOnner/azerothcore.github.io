@@ -1,6 +1,6 @@
 var a17061 =
 [
-    [ "HandleScriptEffect", "df/dc3/a17061.html#a90b13b2a093fdd430a383d7ea4126290", null ],
-    [ "PrepareSpellScript", "df/dc3/a17061.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
-    [ "Register", "df/dc3/a17061.html#a53c8d47ee21637055ad901946be1e2c2", null ]
+    [ "boss_acidmawAI", "d6/d6b/a17065.html", "d6/d6b/a17065" ],
+    [ "boss_acidmaw", "df/dc3/a17061.html#a86e71bf9ae950a4f8efa58d6f679e8bf", null ],
+    [ "GetAI", "df/dc3/a17061.html#aacbd4c83e6e9c9790e6cf9a87e3aa9a0", null ]
 ];

@@ -1,6 +1,18 @@
 var a08809 =
 [
-    [ "spellIdImmunityPredicate", "db/d14/a08809.html#a04893e34d418a0649d51dfa82b559d9c", null ],
-    [ "operator()", "db/d14/a08809.html#ae97afff7a6b3ea5dca917d3dbb9ef818", null ],
-    [ "_type", "db/d14/a08809.html#a125dfe727d668b5b9820adf1f7f0e0a8", null ]
+    [ "PlayerInfo", "db/d14/a08809.html#a8a26bdeb267824135b3f84baa2585baa", null ],
+    [ "action", "db/d14/a08809.html#a0f68412598a9741e9b5ce7a42c82d129", null ],
+    [ "areaId", "db/d14/a08809.html#a60d086c6e6879e6c5d8b5a24c0ae7bf8", null ],
+    [ "castSpells", "db/d14/a08809.html#a35ab273058db0828c91f01d823467e02", null ],
+    [ "customSpells", "db/d14/a08809.html#ab40e5fd724fab03afbbd38713e1dd4bf", null ],
+    [ "displayId_f", "db/d14/a08809.html#adf14854368c9351fe2fba3215194f2f9", null ],
+    [ "displayId_m", "db/d14/a08809.html#a2ce7d9aa7fc52bd9768c75b88f88b256", null ],
+    [ "item", "db/d14/a08809.html#ad76819034c64c0c691561eff683b7e57", null ],
+    [ "levelInfo", "db/d14/a08809.html#abbff546bbe2cc0ea643c41456c1f0d9f", null ],
+    [ "mapId", "db/d14/a08809.html#ad8d359374f74de40c1c591bb61976405", null ],
+    [ "orientation", "db/d14/a08809.html#a041a37c356d50860cab9f1ced33a28d0", null ],
+    [ "positionX", "db/d14/a08809.html#a55a076dc53e8c2d0b2ab11b1087ebccd", null ],
+    [ "positionY", "db/d14/a08809.html#a7314ecd469357e2eb46ed3d133a5a7a0", null ],
+    [ "positionZ", "db/d14/a08809.html#ad21a8dd3353d3f141bcc9af65e607aee", null ],
+    [ "skills", "db/d14/a08809.html#a3bec7891e115ab3cff40c3d95174981c", null ]
 ];

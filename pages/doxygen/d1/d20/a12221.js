@@ -1,6 +1,6 @@
 var a12221 =
 [
-    [ "npc_lokhtos_darkbargainer", "d1/d20/a12221.html#af91685ecf0f63313968b3d82373668d2", null ],
-    [ "OnGossipHello", "d1/d20/a12221.html#a39547487ef7db8a3942556665099893f", null ],
-    [ "OnGossipSelect", "d1/d20/a12221.html#a5a4640678a5669c75b1fa5d787999c02", null ]
+    [ "player_settings_commandscript", "d1/d20/a12221.html#ab8585064d4d358d7d48eed97379a3a78", null ],
+    [ "GetCommands", "d1/d20/a12221.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
+    [ "HandleSettingsAnnouncerFlags", "d1/d20/a12221.html#af505117caa66ed4222e52ff91c486b6e", null ]
 ];

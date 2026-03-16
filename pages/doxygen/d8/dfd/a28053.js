@@ -1,6 +1,6 @@
 var a28053 =
 [
-    [ "color", "d8/dfd/a28053.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
-    [ "ID", "d8/dfd/a28053.html#ac125147c2dc5546a0116f48e08f36e59", null ],
-    [ "spellitemenchantement", "d8/dfd/a28053.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
+    [ "AreaTrigger_at_area_52_entrance", "d8/dfd/a28053.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "d8/dfd/a28053.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "d8/dfd/a28053.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

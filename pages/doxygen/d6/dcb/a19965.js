@@ -1,6 +1,12 @@
 var a19965 =
 [
-    [ "PrepareSpellScript", "d6/dcb/a19965.html#af7426e99a49f8618fc38242ded7132f1", null ],
-    [ "RecalculateDamage", "d6/dcb/a19965.html#a94e70b20f2139f668227dccb623c1af6", null ],
-    [ "Register", "d6/dcb/a19965.html#acd911f78780e052d88f5f47574092d62", null ]
+    [ "boss_loken", "d6/dcb/a19965.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
+    [ "JustDied", "d6/dcb/a19965.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
+    [ "JustEngagedWith", "d6/dcb/a19965.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
+    [ "KilledUnit", "d6/dcb/a19965.html#a85ae3094927f7484216b44582f9a2bf6", null ],
+    [ "MoveInLineOfSight", "d6/dcb/a19965.html#ac9f3115629e5595d06c213d3e04afa68", null ],
+    [ "OnAuraRemove", "d6/dcb/a19965.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
+    [ "Reset", "d6/dcb/a19965.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
+    [ "ScheduleTasks", "d6/dcb/a19965.html#a600e211be40226679212a7078b26f3ed", null ],
+    [ "_introDone", "d6/dcb/a19965.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
 ];

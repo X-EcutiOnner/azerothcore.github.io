@@ -1,6 +1,6 @@
 var a10537 =
 [
-    [ "WorldMapScript", "d7/d36/a10537.html#a49300e796ceb6ab1a40ed9cbb89a9e4d", null ],
-    [ "checkValidity", "d7/d36/a10537.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
-    [ "isAfterLoadScript", "d7/d36/a10537.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
+    [ "BattlegroundScript", "d7/d36/a10537.html#a306231f1c7346a00a3f877c7cef3897b", null ],
+    [ "GetBattleground", "d7/d36/a10537.html#a782c6e81f4ed9a63f9276dcc4f0f9116", null ],
+    [ "IsDatabaseBound", "d7/d36/a10537.html#a35b571d570c85a861af6f949b51453cb", null ]
 ];

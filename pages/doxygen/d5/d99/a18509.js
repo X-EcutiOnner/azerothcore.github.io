@@ -1,6 +1,7 @@
 var a18509 =
 [
-    [ "VileSpiritActivateEvent", "d5/d99/a18509.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
-    [ "Execute", "d5/d99/a18509.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
-    [ "_owner", "d5/d99/a18509.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
+    [ "IceTombSummonEvent", "d5/d99/a18509.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
+    [ "Execute", "d5/d99/a18509.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
+    [ "_owner", "d5/d99/a18509.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
+    [ "_sindragosaGUID", "d5/d99/a18509.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
 ];

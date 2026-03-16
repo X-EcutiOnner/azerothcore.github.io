@@ -1,7 +1,8 @@
 var a10185 =
 [
-    [ "CommonInitializer", "d0/de3/a10185.html#ab472ff63e0178a3414630f743d4de906", null ],
-    [ "operator()", "d0/de3/a10185.html#aba4cce84b89416f54a0a25b1702a322c", null ],
-    [ "_time", "d0/de3/a10185.html#a483d83836ccbe90a842c09f7d4906436", null ],
-    [ "velocityInv", "d0/de3/a10185.html#ac2f731afc2aae338bb8b1b616b0a39c1", null ]
+    [ "AbstractFollower", "d0/de3/a10185.html#a08d292896f2419dd73ae68c8e1238d4b", null ],
+    [ "~AbstractFollower", "d0/de3/a10185.html#acb394f5326ab5ea5146c79788a085647", null ],
+    [ "GetTarget", "d0/de3/a10185.html#a43f037557454528a956c379d9efb42ac", null ],
+    [ "SetTarget", "d0/de3/a10185.html#ad49748abec4bb2fe06cc8ba2699bdbd0", null ],
+    [ "_target", "d0/de3/a10185.html#aa4e43d8e60442eee41398648fd7fd45d", null ]
 ];

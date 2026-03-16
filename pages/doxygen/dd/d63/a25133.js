@@ -1,6 +1,8 @@
 var a25133 =
 [
-    [ "CalculateDamage", "dd/d63/a25133.html#a2b0d2465c42bb32a2e0a2be1884eddb6", null ],
-    [ "PrepareSpellScript", "dd/d63/a25133.html#a4271f026fd9cddeb109761e9b864c381", null ],
-    [ "Register", "dd/d63/a25133.html#a03bb4cf19328efa783600273663b609a", null ]
+    [ "CheckIfCorpseNear", "dd/d63/a25133.html#afdf1bca2e23057d99962fb1000e9245e", null ],
+    [ "HandleDummy", "dd/d63/a25133.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
+    [ "PrepareSpellScript", "dd/d63/a25133.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
+    [ "Register", "dd/d63/a25133.html#a22f4c5321769384b2b708f19edea1a66", null ],
+    [ "Validate", "dd/d63/a25133.html#a855fdba79c4fa087253505ed419b9966", null ]
 ];

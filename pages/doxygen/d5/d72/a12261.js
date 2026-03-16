@@ -1,11 +1,11 @@
 var a12261 =
 [
-    [ "boss_draganthaurissanAI", "d5/d72/a12261.html#a2ecd55ed9e7e48829cb85862e965b7d8", null ],
-    [ "JustDied", "d5/d72/a12261.html#a7a7d4737c4825cfabc1012f9cce0e38a", null ],
-    [ "JustEngagedWith", "d5/d72/a12261.html#a00604bed2c13a7b470d950059122f018", null ],
-    [ "KilledUnit", "d5/d72/a12261.html#acec58686917d6e5aff9a51a96b023174", null ],
-    [ "SetData", "d5/d72/a12261.html#aaa43aa340f946f3b8361f2bb7b29ef40", null ],
-    [ "UpdateAI", "d5/d72/a12261.html#a04eaea53b78d490373f9bb911cc92596", null ],
-    [ "hasYelled", "d5/d72/a12261.html#aef5ede4f444e85fafd30faab6043672b", null ],
-    [ "SenatorYells", "d5/d72/a12261.html#ab4b27bf33b58b44ac604ca6bf6b5e424", null ]
+    [ "spectator_commandscript", "d5/d72/a12261.html#a1bf79d739a6af02405bc268c9bb50c26", null ],
+    [ "GetCommands", "d5/d72/a12261.html#a3451bcda07b51a33fd8368cf00ac190f", null ],
+    [ "HandleSpectatorCommand", "d5/d72/a12261.html#aaf331e54c3c19b5d16d9d5f5c9d28721", null ],
+    [ "HandleSpectatorLeaveCommand", "d5/d72/a12261.html#a15e661891f4e08c3efa0bd844c3954aa", null ],
+    [ "HandleSpectatorResetCommand", "d5/d72/a12261.html#a23a1a3740609a6d0caa6e0f10c7e8653", null ],
+    [ "HandleSpectatorSpectateCommand", "d5/d72/a12261.html#ad1f117a77c0154fc25e937dfe21870a2", null ],
+    [ "HandleSpectatorVersionCommand", "d5/d72/a12261.html#aaf7c57603d263f7ab919f12d9680f058", null ],
+    [ "HandleSpectatorWatchCommand", "d5/d72/a12261.html#a1ee822e332374b375962d1ae87adbc61", null ]
 ];

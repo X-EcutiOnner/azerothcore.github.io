@@ -1,19 +1,12 @@
 var a16121 =
 [
-    [ "npc_weegli_blastfuseAI", "de/de6/a16121.html#acde6b3e037d3c297e5d1beccdbe3d03a", null ],
-    [ "AttackStart", "de/de6/a16121.html#a5e9140b38021ed6a2808e026fd77f8f1", null ],
-    [ "DestroyDoor", "de/de6/a16121.html#a0cf76693b1af179c9857abdccc6931ee", null ],
-    [ "InitializeAI", "de/de6/a16121.html#a61490f8c63f8056ac9f145ed8dd789c7", null ],
-    [ "JustReachedHome", "de/de6/a16121.html#a4a88bc4bff8b5b2f75e3dd0c25927815", null ],
-    [ "MovementInform", "de/de6/a16121.html#a33470a45eba0cbb62b041010f6aed302", null ],
-    [ "Reset", "de/de6/a16121.html#abec9f353a1430afae12c21273bf32197", null ],
-    [ "sGossipHello", "de/de6/a16121.html#a3a8381fa5e5d4daf19f312166247bea5", null ],
-    [ "sGossipSelect", "de/de6/a16121.html#a0927116dcc55a1107dce7c65d1295e2a", null ],
-    [ "UpdateAI", "de/de6/a16121.html#a73e482ebbb1566738e6775a574500dc8", null ],
-    [ "Bomb_Timer", "de/de6/a16121.html#af6f68e291ce7d8cf25105ac64d7eebff", null ],
-    [ "destroyingDoor", "de/de6/a16121.html#a0c7f207666da8ad74ff9dc64b582a042", null ],
-    [ "instance", "de/de6/a16121.html#a609616e5136cf11bc16f9bb30ba92879", null ],
-    [ "LandMine_Timer", "de/de6/a16121.html#ad9bab1d2c7a2baf35f6f7fb2cb4a27c7", null ],
-    [ "outroStage", "de/de6/a16121.html#a30cdbce7bddb4d1d221925de86329a41", null ],
-    [ "outroTimer", "de/de6/a16121.html#a08ef419fbef2ec38b7bcd408f135cd29", null ]
+    [ "npc_toogaAI", "de/de6/a16121.html#a4db363c7e787f5fbbd61b418cfa87367", null ],
+    [ "MoveInLineOfSight", "de/de6/a16121.html#aff15508b97bce5f5fad9cf9750e89ff1", null ],
+    [ "MovementInform", "de/de6/a16121.html#a9315e8ba2688903aaf5b871a7490a700", null ],
+    [ "Reset", "de/de6/a16121.html#acfedaf5cc989451a4259a65661685f66", null ],
+    [ "UpdateFollowerAI", "de/de6/a16121.html#a742791e714be1ff713ab87e7d515bd9e", null ],
+    [ "CheckSpeechTimer", "de/de6/a16121.html#a938852d834c5eb8ba4abceaf49e9a5da", null ],
+    [ "PhasePostEvent", "de/de6/a16121.html#a4996291afa64e35f3604b2a85ea03dda", null ],
+    [ "PostEventTimer", "de/de6/a16121.html#abea9fa4d2623dab4f14978a7f94b595f", null ],
+    [ "TortaGUID", "de/de6/a16121.html#a4531aa0e2c7fe7f3207e56fc2ed67c25", null ]
 ];

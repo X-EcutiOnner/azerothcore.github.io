@@ -1,8 +1,7 @@
 var a23273 =
 [
-    [ "ApplyStun", "d2/d40/a23273.html#a5a5b921dc45418485919e599e80f8ca8", null ],
-    [ "HandleScriptEffect", "d2/d40/a23273.html#a32619710179250a6a0b408856a888153", null ],
-    [ "PrepareSpellScript", "d2/d40/a23273.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
-    [ "Register", "d2/d40/a23273.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
-    [ "Validate", "d2/d40/a23273.html#a66d91a87078c663903cd836344eec867", null ]
+    [ "npc_ahune_ice_spear_bunny", "d2/d40/a23273.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
+    [ "InitializeAI", "d2/d40/a23273.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
+    [ "UpdateAI", "d2/d40/a23273.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
+    [ "_scheduler", "d2/d40/a23273.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
 ];

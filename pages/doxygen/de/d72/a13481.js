@@ -1,7 +1,6 @@
 var a13481 =
 [
-    [ "npc_apothecary_genericAI", "de/d72/a13481.html#afb2b04b51e28d0795e7781effa68dffd", null ],
-    [ "DoAction", "de/d72/a13481.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
-    [ "MovementInform", "de/d72/a13481.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
-    [ "_movePos", "de/d72/a13481.html#a53d10ab64df212b043cc21e054f6528c", null ]
+    [ "npc_acherus_necromancerAI", "d7/def/a13485.html", "d7/def/a13485" ],
+    [ "npc_acherus_necromancer", "de/d72/a13481.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
+    [ "GetAI", "de/d72/a13481.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
 ];

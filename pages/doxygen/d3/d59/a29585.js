@@ -1,11 +1,13 @@
 var a29585 =
 [
-    [ "_ACORE_REALM_CONFIG", "d3/d59/a29585.html#a139668c786d564a415e0626b3344dc83", null ],
-    [ "BanExpiryHandler", "d3/d59/a29585.html#a625d6480b04e88fcbc85e5b8d29502a6", null ],
-    [ "GetConsoleArguments", "d3/d59/a29585.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "KeepDatabaseAliveHandler", "d3/d59/a29585.html#a56e4613e7e60d171b9ce45f52758a057", null ],
-    [ "main", "d3/d59/a29585.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "SignalHandler", "d3/d59/a29585.html#abb73d9c1332263ddf049505e1b12672d", null ],
-    [ "StartDB", "d3/d59/a29585.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "d3/d59/a29585.html#ga927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "attackType", "d3/d59/a29585.html#a4715e7e37c120d791e6a32cd275b8cbd", null ],
+    [ "equippedItemClass", "d3/d59/a29585.html#aceba901b7f666b4a3806c35b6d8697ad", null ],
+    [ "equippedItemSubClassMask", "d3/d59/a29585.html#a3384bf3ae58fb0977f8fa81f84d940e2", null ],
+    [ "hasEquippedItem", "d3/d59/a29585.html#a5d7780265fe18a0657f2a68d9c737fe7", null ],
+    [ "hasNoEquipRequirementAttr", "d3/d59/a29585.html#ab754fdbbb49982e7152057341fc3e3af", null ],
+    [ "isInFeralForm", "d3/d59/a29585.html#a3d8d88f4640c3100a88efee52ecf5822", null ],
+    [ "isPassive", "d3/d59/a29585.html#ad56881b893a29dc5d6be193c6720c4e0", null ],
+    [ "isPlayer", "d3/d59/a29585.html#a7de2ea9efe7606f26e2c11d8963357d0", null ],
+    [ "itemFitsRequirements", "d3/d59/a29585.html#a760a3b39c124c3f408f0541744b6b34a", null ],
+    [ "itemIsBroken", "d3/d59/a29585.html#a3b53871ecd10bd1f6d624431b0907b90", null ]
 ];

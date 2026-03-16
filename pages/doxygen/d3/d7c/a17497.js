@@ -1,6 +1,8 @@
 var a17497 =
 [
-    [ "npc_living_mojoAI", "d2/dd6/a17501.html", "d2/dd6/a17501" ],
-    [ "npc_living_mojo", "d3/d7c/a17497.html#af24190023549b4ec5fa47b5959618a8a", null ],
-    [ "GetAI", "d3/d7c/a17497.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
+    [ "boss_krickAI", "d3/d7c/a17497.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
+    [ "DoAction", "d3/d7c/a17497.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
+    [ "UpdateAI", "d3/d7c/a17497.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
+    [ "events", "d3/d7c/a17497.html#a75349e2fc35832e7944fa4f772380baa", null ],
+    [ "pInstance", "d3/d7c/a17497.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
 ];

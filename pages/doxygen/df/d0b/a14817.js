@@ -1,6 +1,5 @@
 var a14817 =
 [
-    [ "OnApply", "df/d0b/a14817.html#a30d33268b58507c228a4628031bffca0", null ],
-    [ "PrepareAuraScript", "df/d0b/a14817.html#a16dc3f52152d63b5512690c761f9915a", null ],
-    [ "Register", "df/d0b/a14817.html#a6494e4d7277e910ffa3b30c333117f00", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "df/d0b/a14817.html#a40207493c75d8a63284e08f1f75d56c4", null ],
+    [ "MoveInLineOfSight", "df/d0b/a14817.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
 ];

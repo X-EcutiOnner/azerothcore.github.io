@@ -1,7 +1,6 @@
 var a17653 =
 [
-    [ "HandleScript", "da/d74/a17653.html#a4b1e392acea30a9259e65a75667704c5", null ],
-    [ "Load", "da/d74/a17653.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
-    [ "PrepareSpellScript", "da/d74/a17653.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
-    [ "Register", "da/d74/a17653.html#a77632d11a172e5552c0c49de830a1639", null ]
+    [ "npc_living_mojoAI", "da/d38/a17657.html", "da/d38/a17657" ],
+    [ "npc_living_mojo", "da/d74/a17653.html#af24190023549b4ec5fa47b5959618a8a", null ],
+    [ "GetAI", "da/d74/a17653.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
 ];

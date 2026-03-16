@@ -1,7 +1,6 @@
 var a27525 =
 [
-    [ "npc_venomhide_hatchlingAI", "d1/dd4/a27529.html", "d1/dd4/a27529" ],
-    [ "npc_venomhide_hatchling", "d3/d31/a27525.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
-    [ "GetAI", "d3/d31/a27525.html#a96110b752965d751ab7b466c4f67e333", null ],
-    [ "OnGossipHello", "d3/d31/a27525.html#a404d875592b847ddb9f3250c9d954bfc", null ]
+    [ "HandleKnockBack", "d3/d31/a27525.html#abad9f9293260a3e99be98b43aabb321b", null ],
+    [ "PrepareSpellScript", "d3/d31/a27525.html#a65787b78165631898458264e6ee310f4", null ],
+    [ "Register", "d3/d31/a27525.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
 ];

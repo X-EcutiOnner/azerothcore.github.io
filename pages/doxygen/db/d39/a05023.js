@@ -1,13 +1,14 @@
 var a05023 =
 [
-    [ "anonymous_namespace{AddonMgr.cpp}", "d7/d17/a05024.html", [
-      [ "SavedAddonsList", "d7/d17/a05024.html#afa468163a23ed58507a89e5724c06eac", null ],
-      [ "m_bannedAddons", "d7/d17/a05024.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
-      [ "m_knownAddons", "d7/d17/a05024.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
-    ] ],
-    [ "BannedAddonList", "db/d39/a05023.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
-    [ "GetAddonInfo", "db/d39/a05023.html#a65cb6a88902972060e44c57d7d9ec738", null ],
-    [ "GetBannedAddons", "db/d39/a05023.html#ad7d0938e7463238a86e8c811e1a58800", null ],
-    [ "LoadFromDB", "db/d39/a05023.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
-    [ "SaveAddon", "db/d39/a05023.html#a85021021149b7eb4d78cbe81e43d3d45", null ]
+    [ "LinkTags", "d7/d17/a05024.html", "d7/d17/a05024" ],
+    [ "AchievementLinkData", "d5/d1a/a08001.html", "d5/d1a/a08001" ],
+    [ "GlyphLinkData", "d4/ddd/a08005.html", "d4/ddd/a08005" ],
+    [ "HyperlinkColor", "d9/d19/a08061.html", "d9/d19/a08061" ],
+    [ "HyperlinkInfo", "d6/dea/a08065.html", "d6/dea/a08065" ],
+    [ "ItemLinkData", "d1/d26/a08009.html", "d1/d26/a08009" ],
+    [ "QuestLinkData", "dd/d9e/a08013.html", "dd/d9e/a08013" ],
+    [ "TalentLinkData", "d2/d77/a08017.html", "d2/d77/a08017" ],
+    [ "TradeskillLinkData", "da/d5d/a08021.html", "da/d5d/a08021" ],
+    [ "CheckAllLinks", "db/d39/a05023.html#a02761d9aa335689ff1b8dc1155b2a3c6", null ],
+    [ "ParseSingleHyperlink", "db/d39/a05023.html#a2c5596879f4531eeedbe15d1e4987918", null ]
 ];

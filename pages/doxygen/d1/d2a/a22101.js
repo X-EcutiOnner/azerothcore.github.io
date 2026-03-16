@@ -1,6 +1,5 @@
 var a22101 =
 [
-    [ "HandleScriptEffect", "d1/d2a/a22101.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
-    [ "PrepareSpellScript", "d1/d2a/a22101.html#afa4ad1b205bf963b4230881738baf938", null ],
-    [ "Register", "d1/d2a/a22101.html#a0d8925effced854471e2fbec9c631b91", null ]
+    [ "npc_guardian_pavilionAI", "d1/d2a/a22101.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "d1/d2a/a22101.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

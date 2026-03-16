@@ -1,8 +1,8 @@
 var a12797 =
 [
-    [ "MajordomoAddData", "d9/d27/a12797.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
-    [ "MajordomoAddData", "d9/d27/a12797.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
-    [ "creatureEntry", "d9/d27/a12797.html#ae3a0444e88158123f4d6359328e89a1d", null ],
-    [ "guid", "d9/d27/a12797.html#a2f2b0aaace557361a21d1072f36933dc", null ],
-    [ "spawnPos", "d9/d27/a12797.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
+    [ "FilterTargets", "d9/d27/a12797.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
+    [ "FilterTargetsEff", "d9/d27/a12797.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
+    [ "PrepareSpellScript", "d9/d27/a12797.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
+    [ "Register", "d9/d27/a12797.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
+    [ "targetList", "d9/d27/a12797.html#a874dc7877ecfae332c9f826f01afce0f", null ]
 ];

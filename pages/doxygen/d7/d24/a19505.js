@@ -1,8 +1,12 @@
 var a19505 =
 [
-    [ "HandleDamage", "d7/d24/a19505.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
-    [ "HandleTargets", "d7/d24/a19505.html#ac36e689bad93aa17738f390680764a7e", null ],
-    [ "PrepareSpellScript", "d7/d24/a19505.html#a149db071722ce12cded16087c8eec1df", null ],
-    [ "Register", "d7/d24/a19505.html#abd073f34a414fab7ee23ee933863f1c7", null ],
-    [ "Validate", "d7/d24/a19505.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
+    [ "npc_gothik_triggerAI", "d7/d24/a19505.html#ae45c6de238755eb069e0c182943da58c", null ],
+    [ "DamageTaken", "d7/d24/a19505.html#ada8e501edfadbb55162532f081a4b48b", null ],
+    [ "EnterEvadeMode", "d7/d24/a19505.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
+    [ "JustEngagedWith", "d7/d24/a19505.html#ab5403383f1fcd539cacf975dffbe2817", null ],
+    [ "JustSummoned", "d7/d24/a19505.html#a35be0135b77a3e62ac8d421910cf0674", null ],
+    [ "SelectRandomSkullPile", "d7/d24/a19505.html#aeafc63047c9059afdf668b8c22d2937f", null ],
+    [ "SpellHit", "d7/d24/a19505.html#a18a8135ab0395991afc4896950783ae5", null ],
+    [ "SummonedCreatureDespawn", "d7/d24/a19505.html#ad7ed092509dd41fddd44a4024c011364", null ],
+    [ "UpdateAI", "d7/d24/a19505.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
 ];

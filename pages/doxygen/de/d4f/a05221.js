@@ -1,4 +1,8 @@
 var a05221 =
 [
-    [ "ConfigException", "de/d4f/a05221.html#af1f2b8eb0acd137a05eb4417d7e9d626", null ]
+    [ "LocationInfoCallback", "de/d4f/a05221.html#a81b8c00fcc0a1780445ffbdf85decfdf", null ],
+    [ "operator()", "de/d4f/a05221.html#ac2ccfe87fa33cae7d2513c24ba8bfbeb", null ],
+    [ "locInfo", "de/d4f/a05221.html#a9a8b8529a571b3652cd898b2888d8027", null ],
+    [ "prims", "de/d4f/a05221.html#a19c87ad1c9665c3ddfbfa89ccdee5c10", null ],
+    [ "result", "de/d4f/a05221.html#a1ada8b8a1742f02b2d1f28ee82903246", null ]
 ];

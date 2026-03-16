@@ -1,6 +1,11 @@
 var a12149 =
 [
-    [ "npc_av_marshal_or_warmasterAI", "d0/dcf/a12153.html", "d0/dcf/a12153" ],
-    [ "npc_av_marshal_or_warmaster", "da/d9b/a12149.html#a7ffc93248d66d50d5d75d1fcf1f907ee", null ],
-    [ "GetAI", "da/d9b/a12149.html#a295eee4baef6a53cf291fdf155cfdf4a", null ]
+    [ "instance_commandscript", "da/d9b/a12149.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
+    [ "GetCommands", "da/d9b/a12149.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
+    [ "HandleInstanceGetBossStateCommand", "da/d9b/a12149.html#a0530ca6481073d6bafd11596546140b0", null ],
+    [ "HandleInstanceListBindsCommand", "da/d9b/a12149.html#abf42411f9c78ce59b21b34691e3d4233", null ],
+    [ "HandleInstanceSaveDataCommand", "da/d9b/a12149.html#a4b494a8b1de470612436fbb9fa433416", null ],
+    [ "HandleInstanceSetBossStateCommand", "da/d9b/a12149.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
+    [ "HandleInstanceStatsCommand", "da/d9b/a12149.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
+    [ "HandleInstanceUnbindCommand", "da/d9b/a12149.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
 ];

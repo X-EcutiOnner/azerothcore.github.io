@@ -1,7 +1,5 @@
 var a28153 =
 [
-    [ "Id", "d2/d16/a28153.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
-    [ "SoundBank", "d2/d16/a28153.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
-    [ "SpellId", "d2/d16/a28153.html#aa010947f5fbec6867b005b25728e720b", null ],
-    [ "Type", "d2/d16/a28153.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
+    [ "go_resonite_cask", "d2/d16/a28153.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
+    [ "OnGossipHello", "d2/d16/a28153.html#aae8591d53a6983886b52d404acdba293", null ]
 ];

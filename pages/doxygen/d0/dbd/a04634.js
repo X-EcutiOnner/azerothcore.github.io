@@ -1,5 +1,5 @@
 var a04634 =
 [
-    [ "guild_commandscript", "da/d62/a12158.html", "da/d62/a12158" ],
-    [ "AddSC_guild_commandscript", "d0/dbd/a04634.html#af4f585942ab79df7bff025b621beef86", null ]
+    [ "titles_commandscript", "d3/d60/a12277.html", "d3/d60/a12277" ],
+    [ "AddSC_titles_commandscript", "d0/dbd/a04634.html#abd13948cbed6e10bdbf797847a0f6839", null ]
 ];

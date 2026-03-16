@@ -1,7 +1,6 @@
 var a23329 =
 [
-    [ "PeriodicTick", "db/d41/a23329.html#a53541105e40202e4a73ecc38d84e9eca", null ],
-    [ "PrepareAuraScript", "db/d41/a23329.html#a79c8829a86db535e254db009d5286430", null ],
-    [ "Register", "db/d41/a23329.html#a58cd762eb10d224bb188aaf167c816b9", null ],
-    [ "Validate", "db/d41/a23329.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f", null ]
+    [ "boss_rokmar_the_crackler", "db/d41/a23329.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
+    [ "JustEngagedWith", "db/d41/a23329.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
+    [ "Reset", "db/d41/a23329.html#aed9cf4a866d5e70647125a08885fb809", null ]
 ];

@@ -1,9 +1,9 @@
 var a09061 =
 [
-    [ "GridReference", "dc/d04/a09061.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
-    [ "~GridReference", "dc/d04/a09061.html#afd6a4f88eb066818afde1b752600bb12", null ],
-    [ "next", "dc/d04/a09061.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
-    [ "sourceObjectDestroyLink", "dc/d04/a09061.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
-    [ "targetObjectBuildLink", "dc/d04/a09061.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
-    [ "targetObjectDestroyLink", "dc/d04/a09061.html#ac4c863d059b5c826e9597056dc7c887a", null ]
+    [ "VehicleAccessory", "dc/d04/a09061.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
+    [ "AccessoryEntry", "dc/d04/a09061.html#a6e3cd6b20680974235c146d34b16295a", null ],
+    [ "IsMinion", "dc/d04/a09061.html#ace3fd27311370e4db4103f2c3ac70410", null ],
+    [ "SeatId", "dc/d04/a09061.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
+    [ "SummonedType", "dc/d04/a09061.html#afc843c62c580c860471b0e49f5901363", null ],
+    [ "SummonTime", "dc/d04/a09061.html#a13a024b3ceacf38ce4907b079d732420", null ]
 ];

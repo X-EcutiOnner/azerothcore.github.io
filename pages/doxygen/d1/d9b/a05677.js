@@ -1,9 +1,10 @@
 var a05677 =
 [
-    [ "TimeTrackerSmall", "d1/d9b/a05677.html#a38a962c928eac8546d1fd37a094077cc", null ],
-    [ "GetExpiry", "d1/d9b/a05677.html#a2ebcfabed1bf252b6afb6c3182142c7b", null ],
-    [ "Passed", "d1/d9b/a05677.html#af4455d0ebb784497e9fd1a08cc915062", null ],
-    [ "Reset", "d1/d9b/a05677.html#ab8a3c45ffe0e83132e708b5e87625c02", null ],
-    [ "Update", "d1/d9b/a05677.html#a6c10a37051caf7c16f1aa057bf2bf7da", null ],
-    [ "i_expiryTime", "d1/d9b/a05677.html#a332f650bcfc81fb4b0de1b58ff1e0c9b", null ]
+    [ "AsyncCallbackProcessor", "d1/d9b/a05677.html#aee6f273ab86fad749de85cd12ea32a98", null ],
+    [ "~AsyncCallbackProcessor", "d1/d9b/a05677.html#a0a1b8fb7112485c9461387b6effcd56b", null ],
+    [ "AsyncCallbackProcessor", "d1/d9b/a05677.html#af575ef04d5b2440ad3a787348e5baf9a", null ],
+    [ "AddCallback", "d1/d9b/a05677.html#a47ef165fe4c31f46998f69e8e16625f1", null ],
+    [ "operator=", "d1/d9b/a05677.html#ae95508c8bd67d6246279f37cbe6ca8d3", null ],
+    [ "ProcessReadyCallbacks", "d1/d9b/a05677.html#a4fce127f587a9da913a9e9061ba538e7", null ],
+    [ "_callbacks", "d1/d9b/a05677.html#a372d9496b9a1b3e3f718cefe50164209", null ]
 ];

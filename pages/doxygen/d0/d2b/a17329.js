@@ -1,6 +1,7 @@
 var a17329 =
 [
-    [ "boss_ickAI", "da/db4/a17333.html", "da/db4/a17333" ],
-    [ "boss_ick", "d0/d2b/a17329.html#af97d7f96bc48ba245e28c18614b9369e", null ],
-    [ "GetAI", "d0/d2b/a17329.html#a355285766712a31b704c23fe85d19e5f", null ]
+    [ "OnRemove", "d0/d2b/a17329.html#a4b95717cb19116b81f3eec798089abad", null ],
+    [ "PrepareAuraScript", "d0/d2b/a17329.html#a581645fa151531aaf7b562a8739d5616", null ],
+    [ "Register", "d0/d2b/a17329.html#a01304c556d79001e290707551bee7622", null ],
+    [ "Validate", "d0/d2b/a17329.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
 ];

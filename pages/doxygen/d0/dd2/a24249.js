@@ -1,5 +1,6 @@
 var a24249 =
 [
-    [ "npc_pet_pri_lightwell", "d0/dd2/a24249.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
-    [ "InitializeAI", "d0/dd2/a24249.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
+    [ "npc_zephyr", "d0/dd2/a24249.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
+    [ "OnGossipHello", "d0/dd2/a24249.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
+    [ "OnGossipSelect", "d0/dd2/a24249.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
 ];

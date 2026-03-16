@@ -1,6 +1,15 @@
 var a13573 =
 [
-    [ "HandleSendEvent", "df/d7d/a13573.html#ad245a7dcf129774b8ef3e3653b3e3026", null ],
-    [ "PrepareSpellScript", "df/d7d/a13573.html#ad9dfe5b2702540eb119ec86cfbd0ff30", null ],
-    [ "Register", "df/d7d/a13573.html#a0b5ac8cfc4eb4adadb653a81a59a8287", null ]
+    [ "boss_kormok", "df/d7d/a13573.html#a2bacfd366d084cae31b8cc689fb26d0b", null ],
+    [ "DamageTaken", "df/d7d/a13573.html#a2aa7fedea09b4d0526028826be2cb360", null ],
+    [ "IsSummonedBy", "df/d7d/a13573.html#a641bd06b5da44e04534150fc1fc6f9e0", null ],
+    [ "JustDied", "df/d7d/a13573.html#a219bc4f5e13e58bb4a8f79cbc36b5ad7", null ],
+    [ "JustEngagedWith", "df/d7d/a13573.html#a7fc5bb05831e5b8e22c7d59c5c71f87a", null ],
+    [ "JustSummoned", "df/d7d/a13573.html#a49ba1031e5639c3d8fdaf9ae9884a038", null ],
+    [ "Reset", "df/d7d/a13573.html#a70252bf1680510294f62e2c42220156e", null ],
+    [ "SummonedCreatureDespawn", "df/d7d/a13573.html#a6f23b4b006de4b8b5fda6e0203e2f8a7", null ],
+    [ "UpdateAI", "df/d7d/a13573.html#aea5651a98492885eb4d598714df4fd40", null ],
+    [ "_mages", "df/d7d/a13573.html#ae0de3f9848cb9051a18ba15347af3e7a", null ],
+    [ "_scheduler", "df/d7d/a13573.html#a540ef7a05a503a989f93d4b53daacb4b", null ],
+    [ "_summons", "df/d7d/a13573.html#aefaac0c5af45f63faeac6bf9ef1ca7fc", null ]
 ];

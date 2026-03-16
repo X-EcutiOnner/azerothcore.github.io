@@ -1,6 +1,7 @@
 var a23277 =
 [
-    [ "HandleScriptEffect", "d5/d77/a23277.html#abba5817280db6579e3e6e0b964655c6e", null ],
-    [ "PrepareSpellScript", "d5/d77/a23277.html#a846fa43c9907ddb6243c006327757a1c", null ],
-    [ "Register", "d5/d77/a23277.html#a7daa26f4035912bff4811b0bfee35fee", null ]
+    [ "go_ahune_ice_spear", "d5/d77/a23277.html#a22922e47b819bc60e331cffbc7c353b3", null ],
+    [ "Reset", "d5/d77/a23277.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
+    [ "UpdateAI", "d5/d77/a23277.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
+    [ "_scheduler", "d5/d77/a23277.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
 ];

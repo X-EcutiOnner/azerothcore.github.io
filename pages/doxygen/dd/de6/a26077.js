@@ -1,6 +1,8 @@
 var a26077 =
 [
-    [ "FilterTargets", "dd/de6/a26077.html#a23c7b977f7e213322b3702367d6a28c7", null ],
-    [ "PrepareSpellScript", "dd/de6/a26077.html#a7000b2fd940c914933c486e847932b62", null ],
-    [ "Register", "dd/de6/a26077.html#a870ee08d0341f6640710a87c97a6b98b", null ]
+    [ "HandleDummy", "dd/de6/a26077.html#ae5487bc9e4c7444468d076785af473ca", null ],
+    [ "Load", "dd/de6/a26077.html#a3bf16100687a002a0d3b95bea11dc90f", null ],
+    [ "PrepareSpellScript", "dd/de6/a26077.html#a8586b480a304f19741de62b606c9f456", null ],
+    [ "Register", "dd/de6/a26077.html#a4698eab378b8cf6d4aeb595b53a9df13", null ],
+    [ "Validate", "dd/de6/a26077.html#ab3e697ba71654bf9b67e1d1660b3a7ea", null ]
 ];

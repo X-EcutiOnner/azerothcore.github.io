@@ -1,10 +1,9 @@
 var a27429 =
 [
-    [ "npc_dancing_flamesAI", "d8/d47/a27429.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
-    [ "JustEngagedWith", "d8/d47/a27429.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
-    [ "ReceiveEmote", "d8/d47/a27429.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
-    [ "Reset", "d8/d47/a27429.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
-    [ "UpdateAI", "d8/d47/a27429.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
-    [ "Active", "d8/d47/a27429.html#aa79036bed206327847bf5ad2e768e8f6", null ],
-    [ "CanIteract", "d8/d47/a27429.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
+    [ "HandleHeal", "d8/d47/a27429.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
+    [ "Load", "d8/d47/a27429.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
+    [ "PrepareSpellScript", "d8/d47/a27429.html#a91eb46af707897f228e5d1bbd199a833", null ],
+    [ "Register", "d8/d47/a27429.html#ae28f1b0c23511153eafc037cae067bc0", null ],
+    [ "firstHeal", "d8/d47/a27429.html#a405326e6e1cd82816aef1712fdf335a0", null ],
+    [ "riptide", "d8/d47/a27429.html#acaec32f6730bc2e04e613aa982d285bf", null ]
 ];

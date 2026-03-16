@@ -1,6 +1,9 @@
 var a26277 =
 [
-    [ "HandleEffectApply", "d1/dc4/a26277.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
-    [ "PrepareAuraScript", "d1/dc4/a26277.html#a707504eccf42af77f6e6e927d208bc8c", null ],
-    [ "Register", "d1/dc4/a26277.html#a7aeaa28997bbe966274a738cf45323ed", null ]
+    [ "CheckCaster", "d1/dc4/a26277.html#afc48d6f2d2d23b6ba996c76eda1d8d47", null ],
+    [ "OnApply", "d1/dc4/a26277.html#a34e2585c500c5975d6549cd1b7602b18", null ],
+    [ "OnRemove", "d1/dc4/a26277.html#a8d95ba91e4f358bd0abbecf2fe85dfb8", null ],
+    [ "PrepareAuraScript", "d1/dc4/a26277.html#ad905a91348b92007774c69467c24d40e", null ],
+    [ "Register", "d1/dc4/a26277.html#ada9610c7d5d1236ccb509ac7ca4a8b3d", null ],
+    [ "Validate", "d1/dc4/a26277.html#a0f9174b9cf14dd8bf0c8c444600511b1", null ]
 ];

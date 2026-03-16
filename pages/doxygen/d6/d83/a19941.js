@@ -1,6 +1,7 @@
 var a19941 =
 [
-    [ "go_celestial_planetarium_accessAI", "d9/d1a/a19945.html", "d9/d1a/a19945" ],
-    [ "go_celestial_planetarium_access", "d6/d83/a19941.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
-    [ "GetAI", "d6/d83/a19941.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
+    [ "HandleOnEffectApply", "d6/d83/a19941.html#a4841f7a44f5df964c4eb9965383fd747", null ],
+    [ "PrepareAuraScript", "d6/d83/a19941.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
+    [ "Register", "d6/d83/a19941.html#a68fba646552678744f49d10b59704a35", null ],
+    [ "Validate", "d6/d83/a19941.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
 ];

@@ -1,10 +1,6 @@
 var a16989 =
 [
-    [ "boss_dredAI", "d0/d76/a16989.html#a4ad04fe31990a37fd6d3a23329350248", null ],
-    [ "GetData", "d0/d76/a16989.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
-    [ "JustEngagedWith", "d0/d76/a16989.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
-    [ "Reset", "d0/d76/a16989.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
-    [ "ScheduleTasks", "d0/d76/a16989.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
-    [ "SetData", "d0/d76/a16989.html#a884f48aabc26b054dcd303a91cb88301", null ],
-    [ "_raptorCount", "d0/d76/a16989.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
+    [ "npc_toc_pet_warlockAI", "dd/dd6/a16993.html", "dd/dd6/a16993" ],
+    [ "npc_toc_pet_warlock", "d0/d76/a16989.html#a4703f506d677d7e490c6813c6d9b060b", null ],
+    [ "GetAI", "d0/d76/a16989.html#aebcaff82726508a14028cb22a1ef944b", null ]
 ];

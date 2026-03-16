@@ -1,8 +1,8 @@
 var a09261 =
 [
-    [ "V8Type", "d1/d42/a09261.html#a004cbcd4de33cc555da6f6036d735dc0", null ],
-    [ "V9Type", "d1/d42/a09261.html#a3ec26bc3c9f2e579bf920bf169f3a223", null ],
-    [ "gridIntHeightMultiplier", "d1/d42/a09261.html#a626b7ad6821722d17bab6e21db618615", null ],
-    [ "v8", "d1/d42/a09261.html#a8b352fc11c1e705277f8d81b512e3103", null ],
-    [ "v9", "d1/d42/a09261.html#a37d2628b9fd45b5d5a12baa9eb6efc3c", null ]
+    [ "MailLevelReward", "d1/d42/a09261.html#accd52642cbbab457b69dba54a6ffa23b", null ],
+    [ "MailLevelReward", "d1/d42/a09261.html#a3e98aa5c30b0b5648784f9aaf5349a76", null ],
+    [ "mailTemplateId", "d1/d42/a09261.html#afdf6684bcd2751822bd00ba1509ef933", null ],
+    [ "raceMask", "d1/d42/a09261.html#a341088acd89b79161d932367f4f1798d", null ],
+    [ "senderEntry", "d1/d42/a09261.html#a2b678ac953209691b38d583cffab55b5", null ]
 ];

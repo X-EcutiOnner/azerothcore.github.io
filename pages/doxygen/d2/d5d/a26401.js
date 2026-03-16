@@ -1,6 +1,6 @@
 var a26401 =
 [
-    [ "HandleScript", "d2/d5d/a26401.html#acde0ae837d0cd3af0f38481027200291", null ],
-    [ "PrepareSpellScript", "d2/d5d/a26401.html#ac1237e0af7f88f75ebc551af52fc301c", null ],
-    [ "Register", "d2/d5d/a26401.html#a2dc2628984358628afe7d9b62ced7794", null ]
+    [ "CheckProc", "d2/d5d/a26401.html#a1642e1c445baac2be49a32797f21ca31", null ],
+    [ "PrepareAuraScript", "d2/d5d/a26401.html#a116d2bc302ca74ae39d98f8d5849e757", null ],
+    [ "Register", "d2/d5d/a26401.html#a8c0d81f8480be1853679d1f2a20ecfbb", null ]
 ];

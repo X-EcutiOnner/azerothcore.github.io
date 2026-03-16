@@ -1,7 +1,7 @@
 var a18193 =
 [
-    [ "HandleScript", "de/d5a/a18193.html#afc76149cb44a4d2aab48350fb4392036", null ],
-    [ "PrepareSpellScript", "de/d5a/a18193.html#a8598de219c2402596fe97b5dd32c534e", null ],
-    [ "Register", "de/d5a/a18193.html#ac9d4842632431e52932f66d09042ea70", null ],
-    [ "ScaleRange", "de/d5a/a18193.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
+    [ "PrepareSpellScript", "de/d5a/a18193.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
+    [ "Register", "de/d5a/a18193.html#aff4f05a5a4742a408646000b7cece38c", null ],
+    [ "RemovePassengers", "de/d5a/a18193.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
+    [ "Validate", "de/d5a/a18193.html#a2a8da9d150804f979f2313f623ad7760", null ]
 ];

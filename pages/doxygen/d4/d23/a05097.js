@@ -1,10 +1,11 @@
 var a05097 =
 [
-    [ "AreaInfo", "d4/d23/a05097.html#a1f45e5e030aaf5b16fb6c58097fa8b14", null ],
-    [ "adtId", "d4/d23/a05097.html#a95c1c986b14dfeba867fa55e77553499", null ],
-    [ "flags", "d4/d23/a05097.html#a780bdbb606fe694941d2105e14a29d70", null ],
-    [ "ground_Z", "d4/d23/a05097.html#aca4fada3b2062f74cf66cd34a63c0c86", null ],
-    [ "groupId", "d4/d23/a05097.html#a76ac6ccec6ff67f16689a6735e644e07", null ],
-    [ "result", "d4/d23/a05097.html#ab9e9a7658d5fb76be208835f786036b0", null ],
-    [ "rootId", "d4/d23/a05097.html#a6f60501d22be8c1d374a46e598d0f2e3", null ]
+    [ "IoContext", "d4/d23/a05097.html#a6ba4b629a3704fcb5d110a71f09900be", null ],
+    [ "IoContext", "d4/d23/a05097.html#a8dc945d02df9d28f3dda6c17f1c91502", null ],
+    [ "get_executor", "d4/d23/a05097.html#aa642c9d6e49d2396c267c6fc404b2a6b", null ],
+    [ "operator IoContextBaseNamespace::IoContextBase &", "d4/d23/a05097.html#a51e3067d9ba9b0b4a557a7e586b1ef91", null ],
+    [ "operator IoContextBaseNamespace::IoContextBase const &", "d4/d23/a05097.html#af4aa281948ab71b76bc8f66b735425b3", null ],
+    [ "run", "d4/d23/a05097.html#a086cd2ed56d61cf1ec0dbfdec16c50fe", null ],
+    [ "stop", "d4/d23/a05097.html#a1165b11f60d138d56eba43657fc299cd", null ],
+    [ "_impl", "d4/d23/a05097.html#a22cdb3c45a6dbacb13f90f654bc0c65d", null ]
 ];

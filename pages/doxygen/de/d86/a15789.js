@@ -1,7 +1,13 @@
 var a15789 =
 [
-    [ "HandleEffectPeriodic", "de/d86/a15789.html#ac47c157dbd193bc131d281666ae2097f", null ],
-    [ "PrepareAuraScript", "de/d86/a15789.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
-    [ "Register", "de/d86/a15789.html#ac3c158fdddd007d1d7986470032bfc25", null ],
-    [ "Validate", "de/d86/a15789.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "de/d86/a15789.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
+    [ "GetData", "de/d86/a15789.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
+    [ "Initialize", "de/d86/a15789.html#a870ab2322971767fa37986743b31d20c", null ],
+    [ "OnCreatureCreate", "de/d86/a15789.html#aed3807432711105589d0b060a21836cc", null ],
+    [ "ReadSaveDataMore", "de/d86/a15789.html#ad348102f71e070e7ef12da62238c7b0f", null ],
+    [ "SetData", "de/d86/a15789.html#a0333b4728e9288937711174743f19f60", null ],
+    [ "WriteSaveDataMore", "de/d86/a15789.html#a78bece51279e3f9e62800e4d80b00f64", null ],
+    [ "_encounters", "de/d86/a15789.html#a0f049806007e59363418d4e39f9e389b", null ],
+    [ "DiscipleOfNaralexGUID", "de/d86/a15789.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
+    [ "SerpentisGUID", "de/d86/a15789.html#a7ba205e4988a20404f5e597331dd5d56", null ]
 ];

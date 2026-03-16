@@ -1,13 +1,7 @@
 var a15101 =
 [
-    [ "boss_salrammAI", "d8/dc7/a15101.html#ae1055878b3919e29d44ee26efcbe044f", null ],
-    [ "ExplodeGhoul", "d8/dc7/a15101.html#adc64d8b10b28b98254c528732fff0516", null ],
-    [ "JustDied", "d8/dc7/a15101.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
-    [ "JustEngagedWith", "d8/dc7/a15101.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
-    [ "JustSummoned", "d8/dc7/a15101.html#afd70403a8644f310f37335c6c9bf5b55", null ],
-    [ "KilledUnit", "d8/dc7/a15101.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
-    [ "Reset", "d8/dc7/a15101.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
-    [ "UpdateAI", "d8/dc7/a15101.html#aa2350dc05884593b1361f9f09b8d9392", null ],
-    [ "events", "d8/dc7/a15101.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
-    [ "summons", "d8/dc7/a15101.html#a813c09e121730d4ae2e623ac3c37d570", null ]
+    [ "HandleOnHit", "d8/dc7/a15101.html#a9f1d78b4a98bc76877903b79923c1634", null ],
+    [ "PrepareSpellScript", "d8/dc7/a15101.html#afb0a8a16850da30b0fbdb3d10a935f21", null ],
+    [ "Register", "d8/dc7/a15101.html#ab923488eb891e1f9b1f5cb8ed61f3865", null ],
+    [ "Validate", "d8/dc7/a15101.html#a57d85b1702e5c89d72972505121180ed", null ]
 ];

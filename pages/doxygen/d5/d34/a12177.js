@@ -1,6 +1,12 @@
 var a12177 =
 [
-    [ "boss_vanndarAI", "d3/d37/a12181.html", "d3/d37/a12181" ],
-    [ "boss_vanndar", "d5/d34/a12177.html#a66d190d1b48fd2259a95d88235ffb7d2", null ],
-    [ "GetAI", "d5/d34/a12177.html#ad1879cc6123a323ada04c49a2c691349", null ]
+    [ "message_commandscript", "d5/d34/a12177.html#a2b0b67076e1cb4c51964d13ec4ab9829", null ],
+    [ "GetCommands", "d5/d34/a12177.html#a9fc83cb2d161a4158f98ec0b580bcc32", null ],
+    [ "HandleAnnounceCommand", "d5/d34/a12177.html#a85e2965e4a8fe01ba4a7775a28ef0005", null ],
+    [ "HandleGMAnnounceCommand", "d5/d34/a12177.html#ac927dceadf96feebf4301ea37b5aec1d", null ],
+    [ "HandleGMNameAnnounceCommand", "d5/d34/a12177.html#aa667bd6e81cf7c3dbabfa40d08c45475", null ],
+    [ "HandleGMNotifyCommand", "d5/d34/a12177.html#a0ff57aadce36fddb3c0d36adea8a3e28", null ],
+    [ "HandleNameAnnounceCommand", "d5/d34/a12177.html#a786902b70345712c6dba9f638695dd9e", null ],
+    [ "HandleNotifyCommand", "d5/d34/a12177.html#a0d53b2414931451b30abd2fe5acee1af", null ],
+    [ "HandleWhispersCommand", "d5/d34/a12177.html#a9a02c97677250136f9717968a9f47b73", null ]
 ];

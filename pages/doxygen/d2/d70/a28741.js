@@ -1,10 +1,12 @@
 var a28741 =
 [
-    [ "WDTFile", "d2/d70/a28741.html#a10c133d9b2f8d39cb6c2b3d8c2791b78", null ],
-    [ "~WDTFile", "d2/d70/a28741.html#a445fe73204fd378e2b63a83d9f5dca0a", null ],
-    [ "GetMap", "d2/d70/a28741.html#aa952c5bfe52a1aa851984a7e6dc963c9", null ],
-    [ "init", "d2/d70/a28741.html#a91a33f89cae35254f52e8c4f1c33e2cb", null ],
-    [ "_file", "d2/d70/a28741.html#a54ab64288144b9cf4904e67bb359e524", null ],
-    [ "_wmoNames", "d2/d70/a28741.html#a6ec4f95ff866585403670b620a42a857", null ],
-    [ "filename", "d2/d70/a28741.html#ab3dac8623598bac1152a514a00126bf6", null ]
+    [ "categoryId", "d2/d70/a28741.html#a1de0e4302757f18c08b90b40e059737b", null ],
+    [ "count", "d2/d70/a28741.html#a93aac150067979467f56d9919ff665a4", null ],
+    [ "flags", "d2/d70/a28741.html#a5c0dfb5b3c0711aff47d3d604ded2d1a", null ],
+    [ "ID", "d2/d70/a28741.html#a843fee247948d02f7aaf04144cb37ef5", null ],
+    [ "mapID", "d2/d70/a28741.html#ab3d41381808c8bdc163554f7c46f6bc6", null ],
+    [ "name", "d2/d70/a28741.html#a806cfeddc475994f1b421679bd9699e6", null ],
+    [ "points", "d2/d70/a28741.html#abc2b4cf9c6580c6bc99d5c47d7539374", null ],
+    [ "refAchievement", "d2/d70/a28741.html#a858661b2e3479fa3fc2e029ae0d8a145", null ],
+    [ "requiredFaction", "d2/d70/a28741.html#a722dbda5ed8d74f5a1e75bdec8841aa3", null ]
 ];

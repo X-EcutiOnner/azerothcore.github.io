@@ -1,9 +1,8 @@
 var a11737 =
 [
-    [ "CreatureTextLocalizer", "dc/db6/a11737.html#a799f1007b9977224d71da1451c3454e1", null ],
-    [ "~CreatureTextLocalizer", "dc/db6/a11737.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
-    [ "operator()", "dc/db6/a11737.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
-    [ "_builder", "dc/db6/a11737.html#a1d8d97d3e423810d044a8155b182899d", null ],
-    [ "_msgType", "dc/db6/a11737.html#adf9260955b0141e85ff47c66350244e2", null ],
-    [ "_packetCache", "dc/db6/a11737.html#a660b352a1c1855f4b10a8aebef88133f", null ]
+    [ "EffectHandler", "dc/db6/a11737.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
+    [ "Call", "dc/db6/a11737.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
+    [ "CheckEffect", "dc/db6/a11737.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
+    [ "ToString", "dc/db6/a11737.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
+    [ "pEffectHandlerScript", "dc/db6/a11737.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
 ];

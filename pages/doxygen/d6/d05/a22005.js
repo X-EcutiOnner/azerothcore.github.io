@@ -1,9 +1,7 @@
 var a22005 =
 [
-    [ "npc_engineer_heliceAI", "d6/d05/a22005.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
-    [ "JustDied", "d6/d05/a22005.html#aba224727b86a2bfc39a47b70b424ccef", null ],
-    [ "Reset", "d6/d05/a22005.html#ade3f7f526dd8973c155aafb939db3778", null ],
-    [ "UpdateAI", "d6/d05/a22005.html#a1c333511dd6e82cd22af111e12a701c4", null ],
-    [ "WaypointReached", "d6/d05/a22005.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
-    [ "m_uiChatTimer", "d6/d05/a22005.html#aa305bc2b5711d0745650f80275204ea8", null ]
+    [ "HandleScript", "d6/d05/a22005.html#ac55fd613d1ea17ae89361fbf8759fec3", null ],
+    [ "PrepareSpellScript", "d6/d05/a22005.html#a26e704fd016cdf9b1d47fb9edcff7a72", null ],
+    [ "Register", "d6/d05/a22005.html#a9b8efef83b515f2250bda500ff741aa3", null ],
+    [ "Validate", "d6/d05/a22005.html#ad5e9b0ae8a8103b7d901dd333e62fc35", null ]
 ];

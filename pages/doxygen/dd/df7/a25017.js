@@ -1,7 +1,6 @@
 var a25017 =
 [
-    [ "HandleScript", "dd/df7/a25017.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
-    [ "PrepareSpellScript", "dd/df7/a25017.html#a7909f23da8385abdabb62e5196d88d38", null ],
-    [ "Register", "dd/df7/a25017.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
-    [ "Validate", "dd/df7/a25017.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
+    [ "CheckAreaTarget", "dd/df7/a25017.html#a545323b9964ee4cb3c8d054fac4e2d55", null ],
+    [ "PrepareAuraScript", "dd/df7/a25017.html#a2b6dbd33e34357917f662000a1cd932f", null ],
+    [ "Register", "dd/df7/a25017.html#a7b4a2301b3a608ea5b2dd2504e02741d", null ]
 ];

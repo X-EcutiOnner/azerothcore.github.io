@@ -1,11 +1,10 @@
 var a23737 =
 [
-    [ "boss_pathaleon_the_calculator", "d1/daa/a23737.html#a679dc3ccc23c6def44e0f0669822e146", null ],
-    [ "CanAIAttack", "d1/daa/a23737.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
-    [ "DoAction", "d1/daa/a23737.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
-    [ "JustDied", "d1/daa/a23737.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
-    [ "JustEngagedWith", "d1/daa/a23737.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
-    [ "KilledUnit", "d1/daa/a23737.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
-    [ "Reset", "d1/daa/a23737.html#adc48067c3656bf768c3013ff266565c0", null ],
-    [ "_isEnraged", "d1/daa/a23737.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
+    [ "boss_thorngrin_the_tender", "d1/daa/a23737.html#ad960b1084fc08d2870975c7c6c44ab2b", null ],
+    [ "JustDied", "d1/daa/a23737.html#a4bc13108f7cb240fedb44ccae2b54047", null ],
+    [ "JustEngagedWith", "d1/daa/a23737.html#a647ed5b29861b719d3c4a11fd110c512", null ],
+    [ "KilledUnit", "d1/daa/a23737.html#ab3731c5b56e1c01aa5d78d84a5e60234", null ],
+    [ "MoveInLineOfSight", "d1/daa/a23737.html#a9467e59287b3e917907de82507d1a16d", null ],
+    [ "Reset", "d1/daa/a23737.html#af3f1471cbcdadfe3a86421d7232fb4b9", null ],
+    [ "_intro", "d1/daa/a23737.html#a48fc89c7e9814d90a8724ca38c5e2fe8", null ]
 ];

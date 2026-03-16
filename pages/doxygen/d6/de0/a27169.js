@@ -1,5 +1,6 @@
 var a27169 =
 [
-    [ "go_southfury_moonstone", "d6/de0/a27169.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
-    [ "OnGossipHello", "d6/de0/a27169.html#a9d9708da940c1ee37f9eb4558ed97737", null ]
+    [ "HandleDummy", "d6/de0/a27169.html#a904038167c9ba270cb54cd6adbe22563", null ],
+    [ "PrepareSpellScript", "d6/de0/a27169.html#a326656405c3400225a4ce10567c1c482", null ],
+    [ "Register", "d6/de0/a27169.html#a2d83815d44543686525238723a3ab39a", null ]
 ];

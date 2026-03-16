@@ -1,6 +1,7 @@
 var a23437 =
 [
-    [ "PrepareSpellScript", "d8/d9f/a23437.html#a5b17110b189b7134939aea9dbf2d724b", null ],
-    [ "Register", "d8/d9f/a23437.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
-    [ "SelectRandomPlayer", "d8/d9f/a23437.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
+    [ "CalcPeriodic", "d8/d9f/a23437.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
+    [ "PrepareAuraScript", "d8/d9f/a23437.html#a290913502dfe3dfb42b44a964468b97c", null ],
+    [ "Register", "d8/d9f/a23437.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
+    [ "Update", "d8/d9f/a23437.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
 ];

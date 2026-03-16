@@ -1,6 +1,10 @@
 var a17145 =
 [
-    [ "entry", "db/d51/a17145.html#a80e1510436336f4ed17748a06b27178d", null ],
-    [ "pathId", "db/d51/a17145.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
-    [ "startPosition", "db/d51/a17145.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
+    [ "boss_dredAI", "db/d51/a17145.html#a4ad04fe31990a37fd6d3a23329350248", null ],
+    [ "GetData", "db/d51/a17145.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
+    [ "JustEngagedWith", "db/d51/a17145.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
+    [ "Reset", "db/d51/a17145.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
+    [ "ScheduleTasks", "db/d51/a17145.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
+    [ "SetData", "db/d51/a17145.html#a884f48aabc26b054dcd303a91cb88301", null ],
+    [ "_raptorCount", "db/d51/a17145.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
 ];

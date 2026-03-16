@@ -1,9 +1,7 @@
 var a09381 =
 [
-    [ "CreatureLastSearcher", "db/d82/a09381.html#a422c7a5a2cd4e93f7b0ad31cc4c6555d", null ],
-    [ "Visit", "db/d82/a09381.html#ae6774df4ffff18cd4f3b4c07724db4f4", null ],
-    [ "Visit", "db/d82/a09381.html#a08635cefbba5dca34734569816d2edb8", null ],
-    [ "i_check", "db/d82/a09381.html#a2b9afe2c43af6e68f7fa5ba661790ef9", null ],
-    [ "i_object", "db/d82/a09381.html#ab8a14acb8d0fc9835d1325430fa1a367", null ],
-    [ "i_phaseMask", "db/d82/a09381.html#a9dd25e3437e1c1e5e4c8d68ab3548500", null ]
+    [ "flags", "db/d82/a09381.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
+    [ "fourcc", "db/d82/a09381.html#a93b48dd741d13ff036eac8a77df9f916", null ],
+    [ "gridHeight", "db/d82/a09381.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
+    [ "gridMaxHeight", "db/d82/a09381.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
 ];

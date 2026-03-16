@@ -1,6 +1,5 @@
 var a19677 =
 [
-    [ "boss_eregosAI", "d8/d26/a19681.html", "d8/d26/a19681" ],
-    [ "boss_eregos", "de/dc4/a19677.html#a105820f29aa1391d77a56e024c4b5637", null ],
-    [ "GetAI", "de/dc4/a19677.html#aee43f0dfee70ab9618c560a27504cb02", null ]
+    [ "at_thaddius_entrance", "de/dc4/a19677.html#ad81a60cac337baad82ea526de1d151d1", null ],
+    [ "_OnTrigger", "de/dc4/a19677.html#acc869cade2b48ceb782d78aa7df6f246", null ]
 ];

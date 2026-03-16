@@ -1,16 +1,11 @@
 var a16857 =
 [
-    [ "boss_jaraxxusAI", "d0/d14/a16857.html#af05dd6ee301cfe4fdfbc511b07f21b48", null ],
-    [ "EnterEvadeMode", "d0/d14/a16857.html#a45fc8cbc3b1e59be8f13f1ebae73bfa1", null ],
-    [ "JustDied", "d0/d14/a16857.html#a5fce156ec839c4799e3585e9674636c1", null ],
-    [ "JustEngagedWith", "d0/d14/a16857.html#a59f21f25fbe83c9710ac6377753ce8d3", null ],
-    [ "JustReachedHome", "d0/d14/a16857.html#a5961b5563c1d140f31a348a1ea8dc4ba", null ],
-    [ "JustSummoned", "d0/d14/a16857.html#a6efea02e03c4d7e97c357afbc320b5bf", null ],
-    [ "MoveInLineOfSight", "d0/d14/a16857.html#aee8b894518e9091f4e52c4048562d08a", null ],
-    [ "Reset", "d0/d14/a16857.html#ad4a2bce95988f030387d74b5cf90f223", null ],
-    [ "SpellHit", "d0/d14/a16857.html#a5103f7808134a67f06af4be1d848aa91", null ],
-    [ "UpdateAI", "d0/d14/a16857.html#a5e733b9e5b63801a1ca2778e58fedb61", null ],
-    [ "events", "d0/d14/a16857.html#a6aff4c78989d99d49d697e9900375e28", null ],
-    [ "pInstance", "d0/d14/a16857.html#aa9d9cb25b827c48e1fd5cd8e75ac92a0", null ],
-    [ "summons", "d0/d14/a16857.html#abeddfd1bb9b5391da578f794d6c618b7", null ]
+    [ "npc_anubarak_spikeAI", "d0/d14/a16857.html#a1982ce33ce76e15d33bfcc222f5ad734", null ],
+    [ "DamageTaken", "d0/d14/a16857.html#a3b548e629d2c6217f21644136ca7ba4b", null ],
+    [ "DoAction", "d0/d14/a16857.html#ab583d97745ea69e95a1ecc0b68ac9878", null ],
+    [ "Reset", "d0/d14/a16857.html#af5b4a1227467d86d9dbba57362fdf360", null ],
+    [ "SelectNewTarget", "d0/d14/a16857.html#ab9ed5d53703464c488267f578a214fb8", null ],
+    [ "UpdateAI", "d0/d14/a16857.html#af8d6d840785c718d963c7b150cd12d9c", null ],
+    [ "events", "d0/d14/a16857.html#a52ff0006b5194edcb55f49e970a15ab8", null ],
+    [ "TargetGUID", "d0/d14/a16857.html#a2f7cbaf81e159035476ee9576a0e3990", null ]
 ];

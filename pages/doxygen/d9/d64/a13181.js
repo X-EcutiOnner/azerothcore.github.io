@@ -1,8 +1,11 @@
 var a13181 =
 [
-    [ "CheckProc", "d9/d64/a13181.html#a085f6affd2bf76fe66f9023e67725848", null ],
-    [ "HandleProc", "d9/d64/a13181.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
-    [ "PrepareAuraScript", "d9/d64/a13181.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
-    [ "Register", "d9/d64/a13181.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
-    [ "Validate", "d9/d64/a13181.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
+    [ "boss_tenris_mirkblood", "d9/d64/a13181.html#ae626332a437983bbb0219bbe2d4b75dc", null ],
+    [ "DamageTaken", "d9/d64/a13181.html#a0316d2d936f10928fe01d1d5a532e9e0", null ],
+    [ "EnterEvadeMode", "d9/d64/a13181.html#a5da11ca73a280c08d1ab0ab4df66d836", null ],
+    [ "JustEngagedWith", "d9/d64/a13181.html#ad95106bbe08589a5ca1d0f2f30aab0ec", null ],
+    [ "KilledUnit", "d9/d64/a13181.html#ab0a5fedbd8714326a948163d7bcc0838", null ],
+    [ "Reset", "d9/d64/a13181.html#a88d46f6e972525979687b315db90dc30", null ],
+    [ "SpellHit", "d9/d64/a13181.html#a5d69e0cf2a394ac9eed94bb82ab35949", null ],
+    [ "_mirrorTarget", "d9/d64/a13181.html#a1e9a1c361046b12fe0569fbdef4a7033", null ]
 ];

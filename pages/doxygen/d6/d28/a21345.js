@@ -1,6 +1,6 @@
 var a21345 =
 [
-    [ "npc_khunok_the_behemothAI", "d0/dfd/a21349.html", "d0/dfd/a21349" ],
-    [ "npc_khunok_the_behemoth", "d6/d28/a21345.html#a0370959631c00581495dbd7c37263236", null ],
-    [ "GetAI", "d6/d28/a21345.html#a201aa35dd119d23126b192a1e3786c09", null ]
+    [ "npc_ichor_globuleAI", "d0/dfd/a21349.html", "d0/dfd/a21349" ],
+    [ "npc_ichor_globule", "d6/d28/a21345.html#a4dbd3b057e319ba83e0e1c94b99cd2ab", null ],
+    [ "GetAI", "d6/d28/a21345.html#a4fed5ebd2e1b6ff6867a9488a6e1aef2", null ]
 ];

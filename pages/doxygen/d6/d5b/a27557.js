@@ -1,9 +1,6 @@
 var a27557 =
 [
-    [ "npc_herald_of_the_lich_king", "d6/d5b/a27557.html#a62e373796ce4e6509692e6837cdb561f", null ],
-    [ "ChangeZoneEventStatus", "d6/d5b/a27557.html#a30c44f2f62badd27b105a55527d40670", null ],
-    [ "DoAction", "d6/d5b/a27557.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
-    [ "InitializeAI", "d6/d5b/a27557.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
-    [ "UpdateAI", "d6/d5b/a27557.html#a21a5093a46959f4b69777b63de12c557", null ],
-    [ "UpdateWeather", "d6/d5b/a27557.html#a3c6d076171596c9ce472cddda18a42be", null ]
+    [ "PeriodicTick", "d6/d5b/a27557.html#a8765e8f662c4279669c955108ff356e3", null ],
+    [ "PrepareAuraScript", "d6/d5b/a27557.html#a15f077618950e4526ffcee9ee172d89f", null ],
+    [ "Register", "d6/d5b/a27557.html#aeeca3a2be368025147702c4aa8c518ce", null ]
 ];

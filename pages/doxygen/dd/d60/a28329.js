@@ -1,8 +1,10 @@
 var a28329 =
 [
-    [ "TimeSeg", "dd/d60/a28329.html#ab94639ba8e26b215ebd31163967574d3", null ],
-    [ "TransportEntry", "dd/d60/a28329.html#a859d25b3c11839ad7e37facd40dc79df", null ],
-    [ "X", "dd/d60/a28329.html#a8fbd166503396e33a4ad77448bf307ea", null ],
-    [ "Y", "dd/d60/a28329.html#a67c279b26cebd8e5c81c36576b145af6", null ],
-    [ "Z", "dd/d60/a28329.html#a680689c57479a2cc1ec72ab97204d3e7", null ]
+    [ "guard_shattrath_scryerAI", "dd/d60/a28329.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "dd/d60/a28329.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "dd/d60/a28329.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "dd/d60/a28329.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "dd/d60/a28329.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "dd/d60/a28329.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "dd/d60/a28329.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

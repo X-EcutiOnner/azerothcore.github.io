@@ -1,6 +1,7 @@
 var a21745 =
 [
-    [ "npc_venture_co_stragglerAI", "d0/da2/a21749.html", "d0/da2/a21749" ],
-    [ "npc_venture_co_straggler", "d8/dce/a21745.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
-    [ "GetAI", "d8/dce/a21745.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
+    [ "CheckCast", "d8/dce/a21745.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
+    [ "HandleScript", "d8/dce/a21745.html#a8128bb2d7588409dae73bed78d5285a7", null ],
+    [ "PrepareSpellScript", "d8/dce/a21745.html#aee17a8a21ec5df027082c6990189dccc", null ],
+    [ "Register", "d8/dce/a21745.html#a2a97265e102e9ce31997d99275b42973", null ]
 ];

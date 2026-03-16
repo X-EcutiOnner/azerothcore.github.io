@@ -1,5 +1,7 @@
 var a07797 =
 [
-    [ "value_type", "d6/d7b/a07797.html#ab102122dc913801a43be2fc6e4d5b2b4", null ],
-    [ "TryConsume", "d6/d7b/a07797.html#a4916376e89113eea20071f4f584c6a75", null ]
+    [ "CommandPermissions", "d6/d7b/a07797.html#ad1242d9067778298c44501b5d5a962f8", null ],
+    [ "CommandPermissions", "d6/d7b/a07797.html#a47f284c63f10b6c3479624845b696aa6", null ],
+    [ "AllowConsole", "d6/d7b/a07797.html#a8b419033e8dff0307a22a32bc57a1dc8", null ],
+    [ "RequiredLevel", "d6/d7b/a07797.html#a4918f2c3b1913eb76d09d859479ebbae", null ]
 ];

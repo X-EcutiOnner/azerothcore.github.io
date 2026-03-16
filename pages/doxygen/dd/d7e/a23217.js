@@ -1,6 +1,7 @@
 var a23217 =
 [
-    [ "HandleScript", "dd/d7e/a23217.html#ae45f8a366c1594d3723b83ee6e006957", null ],
-    [ "PrepareSpellScript", "dd/d7e/a23217.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
-    [ "Register", "dd/d7e/a23217.html#a6b9e449a64747f0a5715424295b1c30f", null ]
+    [ "FilterTargets", "dd/d7e/a23217.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
+    [ "HandleDummy", "dd/d7e/a23217.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
+    [ "PrepareSpellScript", "dd/d7e/a23217.html#ae7714acbe0a08781e3bc297847c47870", null ],
+    [ "Register", "dd/d7e/a23217.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
 ];

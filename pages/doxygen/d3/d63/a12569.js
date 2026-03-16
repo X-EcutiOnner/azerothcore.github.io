@@ -1,6 +1,6 @@
 var a12569 =
 [
-    [ "boss_chromaggusAI", "d8/de1/a12573.html", "d8/de1/a12573" ],
-    [ "boss_chromaggus", "d3/d63/a12569.html#a55847fc0d5430d3f22074b53d7caca4b", null ],
-    [ "GetAI", "d3/d63/a12569.html#ace78172cafb122ce5961ed837201c32b", null ]
+    [ "boss_pyroguard_emberseerAI", "d8/de1/a12573.html", "d8/de1/a12573" ],
+    [ "boss_pyroguard_emberseer", "d3/d63/a12569.html#af9f55c012880404e2e6f8278763af194", null ],
+    [ "GetAI", "d3/d63/a12569.html#a060c52f53760e60a022a7034dd785b1d", null ]
 ];

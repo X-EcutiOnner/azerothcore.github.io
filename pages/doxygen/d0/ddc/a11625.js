@@ -1,6 +1,8 @@
 var a11625 =
 [
-    [ "DestinationTargetSelectHandler", "d0/ddc/a11625.html#ab5ffcc89b7232afddd6bc47e7c347b79", null ],
-    [ "Call", "d0/ddc/a11625.html#a81ae2eb856507ee22308ae2739854382", null ],
-    [ "DestinationTargetSelectHandlerScript", "d0/ddc/a11625.html#a95e882b892a79b464a521a8367b2e9b7", null ]
+    [ "ReflectEvent", "d0/ddc/a11625.html#a1669aec08a3a09143c57e4889c8fad08", null ],
+    [ "Execute", "d0/ddc/a11625.html#a37fb766d70932e8a431dba363c603531", null ],
+    [ "_caster", "d0/ddc/a11625.html#a67ec85597bb887e7b8cb31b818910d1a", null ],
+    [ "_spellInfo", "d0/ddc/a11625.html#ae05fc2092226695fa22dd1e72d58bc7b", null ],
+    [ "_targetGUID", "d0/ddc/a11625.html#aa9f8c7bf1e22c74f3d134df2cfc014b5", null ]
 ];

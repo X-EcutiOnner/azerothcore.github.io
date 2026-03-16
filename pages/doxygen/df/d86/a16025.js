@@ -1,9 +1,11 @@
 var a16025 =
 [
-    [ "npc_pluckyAI", "df/d86/a16025.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
-    [ "ReceiveEmote", "df/d86/a16025.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
-    [ "Reset", "df/d86/a16025.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
-    [ "UpdateAI", "df/d86/a16025.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
-    [ "NormFaction", "df/d86/a16025.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
-    [ "ResetTimer", "df/d86/a16025.html#ac9808c21666cd17b0603e7e67a61d015", null ]
+    [ "npc_thrall_warchiefAI", "df/d86/a16025.html#ada9c79c1591a8bd28c66329dc7c5d3dc", null ],
+    [ "DoAction", "df/d86/a16025.html#a511da19703e30f6e82e59c5223bf2770", null ],
+    [ "JustDied", "df/d86/a16025.html#a5e6da0a5f5190d7959faff60851e679a", null ],
+    [ "JustEngagedWith", "df/d86/a16025.html#a994a9030e2d8c5afaa66c21897e54f82", null ],
+    [ "Reset", "df/d86/a16025.html#a920a29258228c9c2e7e0791d38b648e1", null ],
+    [ "UpdateAI", "df/d86/a16025.html#a537ed9f2d0a638d01e877d9ca1e7fdf0", null ],
+    [ "ChainLightningTimer", "df/d86/a16025.html#ab30df9277fc84f098e0bdd70a2ab3795", null ],
+    [ "ShockTimer", "df/d86/a16025.html#aa8609f8824f68ce7259465284c01dd35", null ]
 ];

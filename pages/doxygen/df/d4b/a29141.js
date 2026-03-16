@@ -1,5 +1,6 @@
 var a29141 =
 [
-    [ "item_generic_limit_chance_above_60", "df/d4b/a29141.html#abc18809810f0a7668020d01c482be84b", null ],
-    [ "OnCastItemCombatSpell", "df/d4b/a29141.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
+    [ "Id", "df/d4b/a29141.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
+    [ "Order", "df/d4b/a29141.html#a16fca42d9a0a98e034a93984c4362b53", null ],
+    [ "TypeFlags", "df/d4b/a29141.html#ac7246adc7c6c3217de8ac093983b7553", null ]
 ];

@@ -1,6 +1,7 @@
 var a23181 =
 [
-    [ "HandleAfterRemove", "d2/d17/a23181.html#a74610b06095572aa2c898cd84e0fb229", null ],
-    [ "PrepareAuraScript", "d2/d17/a23181.html#ac0d686490ff37810e0116dea4d0b6077", null ],
-    [ "Register", "d2/d17/a23181.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
+    [ "HandleEffectApply", "d2/d17/a23181.html#a3893fffea480b47d06c4903deb051aa9", null ],
+    [ "HandleEffectRemove", "d2/d17/a23181.html#a8f120ed0d8cbce6dd0640f02ea488669", null ],
+    [ "PrepareAuraScript", "d2/d17/a23181.html#a246c20ab26d1490fe38afd558a7ae406", null ],
+    [ "Register", "d2/d17/a23181.html#aea639a3ae0f003c6213143427f3b1d23", null ]
 ];

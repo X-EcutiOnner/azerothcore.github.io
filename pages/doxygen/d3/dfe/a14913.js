@@ -1,5 +1,5 @@
 var a14913 =
 [
-    [ "achievement_pb_terokkar_turkey_time", "d3/dfe/a14913.html#a68e536379b04e060f44819c9831766c2", null ],
-    [ "OnCheck", "d3/dfe/a14913.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
+    [ "go_pumpkin_shrine", "d3/dfe/a14913.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
+    [ "OnGossipSelect", "d3/dfe/a14913.html#a35763a67d39c1d68974a9602ce26b699", null ]
 ];

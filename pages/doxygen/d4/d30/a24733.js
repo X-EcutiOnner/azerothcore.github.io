@@ -1,6 +1,8 @@
 var a24733 =
 [
-    [ "HandleScriptEffect", "d4/d30/a24733.html#a142d6a512ba6e937985a9c21725d8d33", null ],
-    [ "PrepareSpellScript", "d4/d30/a24733.html#af46fd8adaf8fef92984376ad6aa4f9a2", null ],
-    [ "Register", "d4/d30/a24733.html#a9cbf1c0678bd0775a452aa3270dff6a0", null ]
+    [ "CheckProc", "d4/d30/a24733.html#a1b7b855383b04bd1b627c6f1e33ad7a5", null ],
+    [ "HandleProc", "d4/d30/a24733.html#a726af9faf0170050f662cb1cc99e6ec8", null ],
+    [ "PrepareAuraScript", "d4/d30/a24733.html#a204655e4eea1cf8694c62ddae6d5a760", null ],
+    [ "Register", "d4/d30/a24733.html#a23e8088d6d9626ec4c3f8fc6e66c1e24", null ],
+    [ "Validate", "d4/d30/a24733.html#a5a3006bb5d54d68b8eb529a8c680c5c0", null ]
 ];

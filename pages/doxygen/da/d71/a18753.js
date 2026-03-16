@@ -1,5 +1,7 @@
 var a18753 =
 [
-    [ "achievement_been_waiting_long_time", "da/d71/a18753.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
-    [ "OnCheck", "da/d71/a18753.html#a5e72304220d3a649d2182cb287215da6", null ]
+    [ "CheckTargetCount", "da/d71/a18753.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
+    [ "PrepareSpellScript", "da/d71/a18753.html#abd32198867e7f01b21b7de6224a597d4", null ],
+    [ "Register", "da/d71/a18753.html#a671bede7fbc68085cd6075f412822869", null ],
+    [ "Validate", "da/d71/a18753.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
 ];

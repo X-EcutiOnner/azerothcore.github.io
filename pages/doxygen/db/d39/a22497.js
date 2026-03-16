@@ -1,7 +1,10 @@
 var a22497 =
 [
-    [ "HandleOnHit", "db/d39/a22497.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
-    [ "PrepareSpellScript", "db/d39/a22497.html#a734b735c7e87938bff185be91f9de6e8", null ],
-    [ "Register", "db/d39/a22497.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
-    [ "Validate", "db/d39/a22497.html#a162f60784fdec6b748151e5c2a7ed257", null ]
+    [ "OPvPCapturePointHP", "db/d39/a22497.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
+    [ "ChangeState", "db/d39/a22497.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
+    [ "FillInitialWorldStates", "db/d39/a22497.html#aa8d725422951485970d9106450fb6a38", null ],
+    [ "HandlePlayerEnter", "db/d39/a22497.html#ad9738c621df084d5a3f0070c80403642", null ],
+    [ "HandlePlayerLeave", "db/d39/a22497.html#a86e849e5387383a6c751e69350ffa07c", null ],
+    [ "SendChangePhase", "db/d39/a22497.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
+    [ "m_TowerType", "db/d39/a22497.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
 ];

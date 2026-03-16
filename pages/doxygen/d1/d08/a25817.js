@@ -1,6 +1,7 @@
 var a25817 =
 [
-    [ "OnRemove", "d1/d08/a25817.html#a3803e6bbdb17e9a848376481581c993d", null ],
-    [ "PrepareAuraScript", "d1/d08/a25817.html#a6f1340b824af4604e310666e89d05b7a", null ],
-    [ "Register", "d1/d08/a25817.html#a3b361a478f1c035b706ac2e17499fb37", null ]
+    [ "CalculateDamageAmount", "d1/d08/a25817.html#a2f608e8391e61434ef1b164c023854fe", null ],
+    [ "CalculateManaLeechAmount", "d1/d08/a25817.html#a8a4946d1718d8045a72c92355ff38ecb", null ],
+    [ "PrepareAuraScript", "d1/d08/a25817.html#a63d24d3ca4b2de1aa7f67376ded7bc59", null ],
+    [ "Register", "d1/d08/a25817.html#aa6e74e89930fd3cc564c3cba86e3687e", null ]
 ];

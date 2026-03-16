@@ -1,5 +1,6 @@
 var a20177 =
 [
-    [ "achievement_flame_leviathan_unbroken", "d7/d09/a20177.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
-    [ "OnCheck", "d7/d09/a20177.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
+    [ "HandleInstaKill", "d7/d09/a20177.html#a9371a2cc86616fd04e47939d45f01cae", null ],
+    [ "PrepareSpellScript", "d7/d09/a20177.html#a38eed301f1db3ea7ac15b626e5927500", null ],
+    [ "Register", "d7/d09/a20177.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
 ];

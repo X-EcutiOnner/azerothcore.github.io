@@ -1,14 +1,9 @@
 var a15137 =
 [
-    [ "npc_cos_stratholme_citizienAI", "d7/db2/a15137.html#a591aaf16ef5befada12378acfbef9465", null ],
-    [ "DoAction", "d7/db2/a15137.html#af9d6fa1dfa83a75194797e99ee80ae0e", null ],
-    [ "InfectMe", "d7/db2/a15137.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b", null ],
-    [ "MoveInLineOfSight", "d7/db2/a15137.html#ab7a8f6423e12ca0ea9bcb085594013a2", null ],
-    [ "Reset", "d7/db2/a15137.html#a0dbb5f295aa9061fa3457c9590ea9b10", null ],
-    [ "SpellHit", "d7/db2/a15137.html#aa8b9a05d3c7d89aa054af919672a69ec", null ],
-    [ "UpdateAI", "d7/db2/a15137.html#a81a1382493091a99cae1c2bb580a7f32", null ],
-    [ "allowTimer", "d7/db2/a15137.html#ae92384763b3cfe4a4bc4180d1c404456", null ],
-    [ "changeTimer", "d7/db2/a15137.html#aa757ab2eef813dceaaad65d84681099b", null ],
-    [ "locked", "d7/db2/a15137.html#aa644050a5fc0b3cd04573e8b3def87ee", null ],
-    [ "pInstance", "d7/db2/a15137.html#aadae06c487a7755114f856a835d48c7e", null ]
+    [ "boss_azgalor", "d7/db2/a15137.html#ac794e0eacc2d543fa62e4b521089f080", null ],
+    [ "DoAction", "d7/db2/a15137.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
+    [ "JustDied", "d7/db2/a15137.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
+    [ "JustEngagedWith", "d7/db2/a15137.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
+    [ "KilledUnit", "d7/db2/a15137.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
+    [ "_recentlySpoken", "d7/db2/a15137.html#abea34396ddde0aa02a073b2f3119fec9", null ]
 ];

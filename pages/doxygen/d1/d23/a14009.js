@@ -1,6 +1,7 @@
 var a14009 =
 [
-    [ "npc_lord_gregor_lescovarAI", "d4/d45/a14013.html", "d4/d45/a14013" ],
-    [ "npc_lord_gregor_lescovar", "d1/d23/a14009.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
-    [ "GetAI", "d1/d23/a14009.html#a4cf39729bb687c7db3538575a799283e", null ]
+    [ "HandleScriptEffect", "d1/d23/a14009.html#aa537704c2066df4f5b4c60a775026a83", null ],
+    [ "PrepareSpellScript", "d1/d23/a14009.html#ac500902c22102ebfc6dcf6f78f0dd8c1", null ],
+    [ "Register", "d1/d23/a14009.html#a1d9cfdc65bd5ae76376e709d0ac891c0", null ],
+    [ "Validate", "d1/d23/a14009.html#a9ef5a491b5a06c31cdb0249dc086e32f", null ]
 ];

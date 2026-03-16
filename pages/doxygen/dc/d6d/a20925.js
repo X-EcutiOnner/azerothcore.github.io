@@ -1,14 +1,11 @@
 var a20925 =
 [
-    [ "boss_dalronn_the_controller", "dc/d6d/a20925.html#a57718e928fa273bba3c40a05d5888a3d", null ],
-    [ "DoAction", "dc/d6d/a20925.html#ad11e43d40a61f093b5e51482437467b8", null ],
-    [ "JustDied", "dc/d6d/a20925.html#a28a669b56392b599e124573778e33134", null ],
-    [ "JustEngagedWith", "dc/d6d/a20925.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
-    [ "JustSummoned", "dc/d6d/a20925.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
-    [ "KilledUnit", "dc/d6d/a20925.html#a96a173e30ad81c77217b0693d1d15839", null ],
-    [ "Reset", "dc/d6d/a20925.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
-    [ "UpdateAI", "dc/d6d/a20925.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
-    [ "events", "dc/d6d/a20925.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
-    [ "pInstance", "dc/d6d/a20925.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
-    [ "summons", "dc/d6d/a20925.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
+    [ "boss_yoggsaron_neltharion", "dc/d6d/a20925.html#ac7ef088876e15e5edc94e4bd92b7f39d", null ],
+    [ "NextStep", "dc/d6d/a20925.html#ac0824d322b7e5825686e8a5c2dd4ec94", null ],
+    [ "Reset", "dc/d6d/a20925.html#ab26d57690c1d2477678dc9759aefeab2", null ],
+    [ "Say", "dc/d6d/a20925.html#a79d315f37b0f0beceddcae85dcb8697f", null ],
+    [ "UpdateAI", "dc/d6d/a20925.html#a3728f095ee83c3ea9063b1679f1b3dc9", null ],
+    [ "_checkTimer", "dc/d6d/a20925.html#a2adcf3f46d4003ae2044eda474e51983", null ],
+    [ "_running", "dc/d6d/a20925.html#acd807afae6aa88c2e385765231a56a86", null ],
+    [ "_step", "dc/d6d/a20925.html#a4e4265f17cbc8cfc3dbe09dca7af7939", null ]
 ];

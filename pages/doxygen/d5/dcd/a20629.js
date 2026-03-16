@@ -1,5 +1,8 @@
 var a20629 =
 [
-    [ "achievement_thorim_stand_in_the_lightning", "d5/dcd/a20629.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
-    [ "OnCheck", "d5/dcd/a20629.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
+    [ "npc_ulduar_mimiron_rocket", "d5/dcd/a20629.html#aec8a2c9f653ddd1e8ea72093cb02d785", null ],
+    [ "InitializeAI", "d5/dcd/a20629.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
+    [ "Reset", "d5/dcd/a20629.html#a982da2f2392882a86e72de4c4769fa41", null ],
+    [ "SetData", "d5/dcd/a20629.html#a507124f21657b62ff2b68060b52503b1", null ],
+    [ "UpdateAI", "d5/dcd/a20629.html#ac26ec740ce5fa75f96babbe26e2263cc", null ]
 ];

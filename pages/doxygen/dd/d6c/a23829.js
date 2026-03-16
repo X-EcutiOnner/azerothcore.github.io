@@ -1,8 +1,6 @@
 var a23829 =
 [
-    [ "npc_ancestral_wolfAI", "dd/d6c/a23829.html#a59ccca7093575f4bcac57a4751d977d4", null ],
-    [ "MoveInLineOfSight", "dd/d6c/a23829.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
-    [ "Reset", "dd/d6c/a23829.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
-    [ "WaypointReached", "dd/d6c/a23829.html#a2b553c29823e5ef888ee02a3ed413386", null ],
-    [ "ryga", "dd/d6c/a23829.html#ac238214604720e298124b58c35d58e05", null ]
+    [ "HandlePeriodic", "dd/d6c/a23829.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
+    [ "PrepareAuraScript", "dd/d6c/a23829.html#a75d72d196ded2ee109d0231d4342890a", null ],
+    [ "Register", "dd/d6c/a23829.html#a148013ea68bbc573bddc1c3639dba019", null ]
 ];

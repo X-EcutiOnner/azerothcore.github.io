@@ -1,6 +1,6 @@
 var a15989 =
 [
-    [ "npc_twiggy_flatheadAI", "dd/d72/a15993.html", "dd/d72/a15993" ],
-    [ "npc_twiggy_flathead", "d6/dfb/a15989.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
-    [ "GetAI", "d6/dfb/a15989.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
+    [ "npc_clintar_spiritAI", "dd/d72/a15993.html", "dd/d72/a15993" ],
+    [ "npc_clintar_spirit", "d6/dfb/a15989.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
+    [ "GetAI", "d6/dfb/a15989.html#a118198504f6f93c86302275a11582d60", null ]
 ];

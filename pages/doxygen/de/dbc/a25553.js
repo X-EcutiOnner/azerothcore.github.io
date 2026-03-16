@@ -1,7 +1,7 @@
 var a25553 =
 [
-    [ "HandleDummy", "de/dbc/a25553.html#a7a8016e1403caa0432242c5c3240f107", null ],
-    [ "PrepareSpellScript", "de/dbc/a25553.html#ae2d2de36cceb037006eb4126f8e1778c", null ],
-    [ "Register", "de/dbc/a25553.html#abd09f5df3f31af619f24214f90791a53", null ],
-    [ "Validate", "de/dbc/a25553.html#ab14aedfdb61d54334f60e57968fcf081", null ]
+    [ "HandleProc", "de/dbc/a25553.html#a87508c28fead56ca60c947d78ff8bae2", null ],
+    [ "PrepareAuraScript", "de/dbc/a25553.html#a514ba9c8222312bb213fcebb418d2499", null ],
+    [ "Register", "de/dbc/a25553.html#aebe4db9304449686a544c8e4c4f26b81", null ],
+    [ "Validate", "de/dbc/a25553.html#a9888b4bf71e8bb9e4b1c3caf74c48b31", null ]
 ];

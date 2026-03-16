@@ -1,6 +1,6 @@
 var a07361 =
 [
-    [ "ArenaTeamFilterByTypes", "d5/d5d/a07361.html#ac28ee86767c48219dbe141620c87e129", null ],
-    [ "Filter", "d5/d5d/a07361.html#a7c04437788359b40db1c0d4492d51497", null ],
-    [ "_validTypes", "d5/d5d/a07361.html#aa3b5ce8932b00b092813af239d83b7d1", null ]
+    [ "AuctionSearchBidderListRequest", "d5/d5d/a07361.html#a193c39468959c998a2ccae74342983d2", null ],
+    [ "outbiddedAuctionIds", "d5/d5d/a07361.html#a6caf25d532b87d38b043cf3aa214f9cd", null ],
+    [ "ownerGuid", "d5/d5d/a07361.html#a6fb69f4996993f264466c50e7485c4a6", null ]
 ];

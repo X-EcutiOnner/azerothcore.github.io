@@ -1,6 +1,9 @@
 var a13909 =
 [
-    [ "npc_augustus_the_touched", "da/dd0/a13909.html#abc84c884345f44cf780410569cdee10c", null ],
-    [ "OnGossipHello", "da/dd0/a13909.html#a81e0d4f2aaa685cd5231ea430c86e7b4", null ],
-    [ "OnGossipSelect", "da/dd0/a13909.html#a992da9b22693c1fac1148b4ba545b819", null ]
+    [ "boss_entropius", "da/dd0/a13909.html#a458deaa80c9694cd2608150bc5519c76", null ],
+    [ "EnterEvadeMode", "da/dd0/a13909.html#a01889b192525af082471d092bff28c88", null ],
+    [ "JustDied", "da/dd0/a13909.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
+    [ "JustEngagedWith", "da/dd0/a13909.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
+    [ "Reset", "da/dd0/a13909.html#ad9da990a540703d38cb45dd2da72c179", null ],
+    [ "UpdateAI", "da/dd0/a13909.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
 ];

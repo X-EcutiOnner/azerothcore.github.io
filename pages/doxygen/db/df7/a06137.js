@@ -1,5 +1,6 @@
 var a06137 =
 [
-    [ "Subject", "db/df7/a06137.html#ad9bd686973c6e59518889bd5d9b6a11f", null ],
-    [ "Text", "db/df7/a06137.html#a95f203f9e53a61988a4d2af6ac6820a2", null ]
+    [ "CheckExecutable", "db/df7/a06137.html#a65cf44a18a72ba92f91a667e41f9da80", null ],
+    [ "corrected_path", "db/df7/a06137.html#a31499b458f0ff0ec518980f51d6a242a", null ],
+    [ "GetCorrectedMySQLExecutable", "db/df7/a06137.html#a8ab8efffe5408f97f438e06766f65ec9", null ]
 ];

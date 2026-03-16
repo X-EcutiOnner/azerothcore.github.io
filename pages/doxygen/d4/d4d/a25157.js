@@ -1,6 +1,8 @@
 var a25157 =
 [
-    [ "OnProc", "d4/d4d/a25157.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
-    [ "PrepareAuraScript", "d4/d4d/a25157.html#a6a7b011f151ff81672221b84eb4456b8", null ],
-    [ "Register", "d4/d4d/a25157.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
+    [ "CheckProc", "d4/d4d/a25157.html#a1ba43a41ca6909f2bd377290b1b0b12b", null ],
+    [ "HandleProc", "d4/d4d/a25157.html#a9d0df8ec96c17661daaf620dd88cecd5", null ],
+    [ "PrepareAuraScript", "d4/d4d/a25157.html#af474a768c441fb666163f4ebd5068393", null ],
+    [ "Register", "d4/d4d/a25157.html#ae533e87550b1aedc67b67c217495286d", null ],
+    [ "Validate", "d4/d4d/a25157.html#ab6e36f24dea949c8cedaaed0d5fa9517", null ]
 ];

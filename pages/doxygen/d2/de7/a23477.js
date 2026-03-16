@@ -1,8 +1,11 @@
 var a23477 =
 [
-    [ "FilterTargets", "d2/de7/a23477.html#ae366594b668331a19f384ceb48654c0c", null ],
-    [ "HandleOnHit", "d2/de7/a23477.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
-    [ "PrepareSpellScript", "d2/de7/a23477.html#a71aa4018d293391a73d3317c1e80951d", null ],
-    [ "Register", "d2/de7/a23477.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
-    [ "Validate", "d2/de7/a23477.html#a3747ad271dc659436ae7a8203b964554", null ]
+    [ "boss_kiggler_the_crazed", "d2/de7/a23477.html#a6f6cd74a8d2b12809f2710f784340fda", null ],
+    [ "AttackStart", "d2/de7/a23477.html#a47c18487637dcb911852573e3aec85a2", null ],
+    [ "JustDied", "d2/de7/a23477.html#acf82f68ccfeabd33bc387dbe7ea0e997", null ],
+    [ "JustEngagedWith", "d2/de7/a23477.html#acd10951a5b148579d0bd4196cc2e686e", null ],
+    [ "Reset", "d2/de7/a23477.html#a3bd8ca2488b2db298a198038a849189e", null ],
+    [ "UpdateAI", "d2/de7/a23477.html#a16e2b767ca4b05eba79726ccb6e11204", null ],
+    [ "_scheduler", "d2/de7/a23477.html#af041c254910df663a03fcc815db635da", null ],
+    [ "instance", "d2/de7/a23477.html#aa78db443f19814c66b977fe008de74fa", null ]
 ];

@@ -1,7 +1,10 @@
 var a24961 =
 [
-    [ "CheckIfLanceEquipped", "d1/d48/a24961.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
-    [ "PrepareSpellScript", "d1/d48/a24961.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
-    [ "Register", "d1/d48/a24961.html#a4421ceaedce16777f8f04b9c40855782", null ],
-    [ "Validate", "d1/d48/a24961.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
+    [ "FilterTargets", "d1/d48/a24961.html#a033c63470d406ad2249c5aa223c00b2f", null ],
+    [ "HandleFinish", "d1/d48/a24961.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
+    [ "HandleScript", "d1/d48/a24961.html#a2c26838015f1b21715fc1438537e15d3", null ],
+    [ "Load", "d1/d48/a24961.html#a669aefa81d57358ef452f4c247b2ceff", null ],
+    [ "PrepareSpellScript", "d1/d48/a24961.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
+    [ "Register", "d1/d48/a24961.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
+    [ "haveTarget", "d1/d48/a24961.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
 ];

@@ -1,10 +1,6 @@
 var a12905 =
 [
-    [ "instance_deadmines_InstanceMapScript", "d7/d33/a12905.html#afa12491c1b276d0d643822da562320c3", null ],
-    [ "GetSaveData", "d7/d33/a12905.html#a775c7d564b931e157a32b0909efed859", null ],
-    [ "Initialize", "d7/d33/a12905.html#a8b8bca7a1d7880bc53b8002934ceeb7a", null ],
-    [ "Load", "d7/d33/a12905.html#afff7e04cc632e2d4ddb438d03e561560", null ],
-    [ "OnGameObjectCreate", "d7/d33/a12905.html#a095202af8915f8a1d8888c045e18d6c4", null ],
-    [ "SetData", "d7/d33/a12905.html#a8cd5bf5302b1a7221c69dd9fdc9518dc", null ],
-    [ "_encounters", "d7/d33/a12905.html#a01d69e135cbd2dd885dfc84c98ed8be1", null ]
+    [ "boss_golemaggAI", "d1/dec/a12909.html", "d1/dec/a12909" ],
+    [ "boss_golemagg", "d7/d33/a12905.html#a66720a143f8987dfa5d6e2acb7cd73cd", null ],
+    [ "GetAI", "d7/d33/a12905.html#a6899f30975e0984306feabe47bbc8317", null ]
 ];

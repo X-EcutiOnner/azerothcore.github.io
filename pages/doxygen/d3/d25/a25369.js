@@ -1,6 +1,7 @@
 var a25369 =
 [
-    [ "HandleDummyTick", "d3/d25/a25369.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
-    [ "PrepareAuraScript", "d3/d25/a25369.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
-    [ "Register", "d3/d25/a25369.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
+    [ "CalculateAmount", "d3/d25/a25369.html#a074a7de6cd4d930c1f23f6398c738bad", null ],
+    [ "Load", "d3/d25/a25369.html#a777803a61286e0eba31246d4771630df", null ],
+    [ "PrepareAuraScript", "d3/d25/a25369.html#ab76bc3927d3ce31ae061fe8577ca25f0", null ],
+    [ "Register", "d3/d25/a25369.html#a335e1629b98bfacf6e4e565b94d4991e", null ]
 ];

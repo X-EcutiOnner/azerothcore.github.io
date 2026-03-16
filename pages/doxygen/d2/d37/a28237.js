@@ -1,4 +1,5 @@
 var a28237 =
 [
-    [ "Id", "d2/d37/a28237.html#aebb809589854147a8a521263968ed6d9", null ]
+    [ "go_tablet_of_the_seven", "d2/d37/a28237.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
+    [ "OnGossipHello", "d2/d37/a28237.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
 ];

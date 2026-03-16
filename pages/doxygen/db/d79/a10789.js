@@ -1,6 +1,5 @@
 var a10789 =
 [
-    [ "GuildUpdateInfoText", "db/d79/a10789.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
-    [ "Read", "db/d79/a10789.html#a7019344fef99c5479602d7bc1176e9ee", null ],
-    [ "InfoText", "db/d79/a10789.html#a786802ce427465d66a4cea1365743975", null ]
+    [ "LogoutCancelAck", "db/d79/a10789.html#a2c261c1cdd4c29658c5160e8fe44ac58", null ],
+    [ "Write", "db/d79/a10789.html#a12f9e56c2ee59f5a084e8aef3fdfad97", null ]
 ];

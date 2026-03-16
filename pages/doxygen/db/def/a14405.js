@@ -1,6 +1,15 @@
 var a14405 =
 [
-    [ "boss_mandokirAI", "d3/dc2/a14409.html", "d3/dc2/a14409" ],
-    [ "boss_mandokir", "db/def/a14405.html#aad13c8302cef7fb4981f0d2178630def", null ],
-    [ "GetAI", "db/def/a14405.html#a215842d5ab23824ec20db64e2fa4407e", null ]
+    [ "npc_amanishi_tempest", "db/def/a14405.html#a8e15b39501998e9f8c45baef0963d160", null ],
+    [ "DoAction", "db/def/a14405.html#a50963cc0aac2560f6ddbf81000943ac3", null ],
+    [ "EnterEvadeMode", "db/def/a14405.html#a66c787bd318fdcad83b7b5008b4979f9", null ],
+    [ "JustDied", "db/def/a14405.html#aadda903d17a5f4560ce2db896bd7b257", null ],
+    [ "JustEngagedWith", "db/def/a14405.html#af277f5d1f73cf79ea8cfcb1e4fc744e3", null ],
+    [ "JustSummoned", "db/def/a14405.html#aac72fdc33051370c3cffa388f466b6be", null ],
+    [ "Reset", "db/def/a14405.html#aa921f85142f9103bea839bdc0330e1cc", null ],
+    [ "ScheduleEvents", "db/def/a14405.html#a09ba0ce51ad981578adcc1950c89d5ae", null ],
+    [ "SummonedCreatureEvade", "db/def/a14405.html#a61eebb122c9288c826cdf352c17e0590", null ],
+    [ "UpdateAI", "db/def/a14405.html#ad8f6b32c3f08eb2a4ac36a8d91434a4d", null ],
+    [ "_instance", "db/def/a14405.html#ab88e1d1ad979192f0519045d8ed2e14f", null ],
+    [ "_summons", "db/def/a14405.html#a4337b2bc417d8dafc4a6d5d10bbd0db9", null ]
 ];

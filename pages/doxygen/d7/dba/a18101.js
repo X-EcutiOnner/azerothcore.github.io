@@ -1,7 +1,10 @@
 var a18101 =
 [
-    [ "OnPeriodic", "d7/dba/a18101.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
-    [ "PrepareAuraScript", "d7/dba/a18101.html#a0e87dae1be4f69e6412129f14056eb79", null ],
-    [ "Register", "d7/dba/a18101.html#a1b26d102252bf7e0fd480076820d343f", null ],
-    [ "Validate", "d7/dba/a18101.html#a211d52aa385a874730abc43b083f2d22", null ]
+    [ "npc_gunship_gunnerAI", "d7/dba/a18101.html#a3001e77b4a20feb0eee5a9605f13ba81", null ],
+    [ "AttackStart", "d7/dba/a18101.html#ac21b90c1892c15882794384517ef9fd2", null ],
+    [ "CanAIAttack", "d7/dba/a18101.html#aef351305ef34fa316809697125a3bc9a", null ],
+    [ "MovementInform", "d7/dba/a18101.html#a94d81b882dd59dd00b0952b45d61a7cb", null ],
+    [ "UpdateAI", "d7/dba/a18101.html#a8fbb601c3accdf3b0494d317bc0d5733", null ],
+    [ "anyValid", "d7/dba/a18101.html#a00c7dc23618c60826241133a0067c1c4", null ],
+    [ "checkTimer", "d7/dba/a18101.html#af80cee9c2c86fa8b4c643d262042ba3c", null ]
 ];

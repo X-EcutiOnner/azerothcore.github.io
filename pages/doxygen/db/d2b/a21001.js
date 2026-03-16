@@ -1,6 +1,7 @@
 var a21001 =
 [
-    [ "boss_skadi_graufAI", "d8/de8/a21005.html", "d8/de8/a21005" ],
-    [ "boss_skadi_grauf", "db/d2b/a21001.html#a571db2d2ae21f38b7051319da0f042f6", null ],
-    [ "GetAI", "db/d2b/a21001.html#a9b637a93a572d21691b81b80ec45206d", null ]
+    [ "HandleProc", "db/d2b/a21001.html#a1b8782a4f22522cfe224073515abdf45", null ],
+    [ "PrepareAuraScript", "db/d2b/a21001.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
+    [ "Register", "db/d2b/a21001.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
+    [ "Validate", "db/d2b/a21001.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
 ];

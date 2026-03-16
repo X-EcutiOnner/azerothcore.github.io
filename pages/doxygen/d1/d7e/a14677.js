@@ -1,13 +1,10 @@
 var a14677 =
 [
-    [ "go_firework_show", "d1/d7e/a14677.html#a42123490a9752f2187023f3f3ae56333", null ],
-    [ "InitShow", "d1/d7e/a14677.html#a27dc501894beaeb88b2ff0d940c7d129", null ],
-    [ "SpawnNextFirework", "d1/d7e/a14677.html#a6e9ce552bf040f2acce49c2e3eb70bab", null ],
-    [ "StartShow", "d1/d7e/a14677.html#af637d1436655e44738b55040196533d3", null ],
-    [ "StopShow", "d1/d7e/a14677.html#ad84f3dbb4692d03933d972ec7be6287d", null ],
-    [ "UpdateAI", "d1/d7e/a14677.html#ad1bcb7a47652d62ed8633abdafc56881", null ],
-    [ "_curIdx", "d1/d7e/a14677.html#a92613337cf2473e585b98b92bdcbce92", null ],
-    [ "_scheduler", "d1/d7e/a14677.html#a6248d36087d8fae9cfa47f473613f886", null ],
-    [ "_show", "d1/d7e/a14677.html#a4392d7e2cffa2342b53092cbd9ccea3f", null ],
-    [ "_showRunning", "d1/d7e/a14677.html#ae7e870de692c61630d0fd2f44d487aa4", null ]
+    [ "npc_brewfest_super_brew_trigger", "d1/d7e/a14677.html#a3d2189978683150b1c431fa0fd637358", null ],
+    [ "AttackStart", "d1/d7e/a14677.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
+    [ "JustEngagedWith", "d1/d7e/a14677.html#a61be52cb8ba0cc10285820ad5324816e", null ],
+    [ "MoveInLineOfSight", "d1/d7e/a14677.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
+    [ "Reset", "d1/d7e/a14677.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
+    [ "UpdateAI", "d1/d7e/a14677.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
+    [ "timer", "d1/d7e/a14677.html#a2ebb06175e3142cca156e57e8386fe02", null ]
 ];

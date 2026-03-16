@@ -1,8 +1,15 @@
 var a19769 =
 [
-    [ "HandleEffectPeriodic", "d6/dfb/a19769.html#abb453e3d38677be7082f2cd4e43134cc", null ],
-    [ "HandleOnEffectApply", "d6/dfb/a19769.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
-    [ "PrepareAuraScript", "d6/dfb/a19769.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
-    [ "Register", "d6/dfb/a19769.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
-    [ "Validate", "d6/dfb/a19769.html#a09481646f8ec90b0135d93d83cc18929", null ]
+    [ "boss_anomalus", "d6/dfb/a19769.html#aa4dd8fac7c360beb834382f624ed2246", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d6/dfb/a19769.html#ada0735330bff29a8c04706c980e6bbfc", null ],
+    [ "GetData", "d6/dfb/a19769.html#ad48aebb50cda7ee621f71803669f04c2", null ],
+    [ "JustDied", "d6/dfb/a19769.html#a41e257481921a122dba30348559e05fb", null ],
+    [ "JustEngagedWith", "d6/dfb/a19769.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
+    [ "JustSummoned", "d6/dfb/a19769.html#a3c0413f30d96268cab724856334e61ee", null ],
+    [ "Reset", "d6/dfb/a19769.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
+    [ "SetData", "d6/dfb/a19769.html#aa79ec9829862b573cd0f38f965d737e8", null ],
+    [ "UpdateAI", "d6/dfb/a19769.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
+    [ "_empowered", "d6/dfb/a19769.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
+    [ "achievement", "d6/dfb/a19769.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
+    [ "activeRifts", "d6/dfb/a19769.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
 ];

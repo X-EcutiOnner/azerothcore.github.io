@@ -1,6 +1,6 @@
 var a13901 =
 [
-    [ "npc_balance_of_light_and_shadowAI", "d3/d9e/a13905.html", "d3/d9e/a13905" ],
-    [ "npc_balance_of_light_and_shadow", "d7/d30/a13901.html#a55229e3ea8dd9c52972185b36c08908b", null ],
-    [ "GetAI", "d7/d30/a13901.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
+    [ "HandleEffectApply", "d7/d30/a13901.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
+    [ "PrepareAuraScript", "d7/d30/a13901.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
+    [ "Register", "d7/d30/a13901.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
 ];

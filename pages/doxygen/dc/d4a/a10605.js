@@ -1,6 +1,5 @@
 var a10605 =
 [
-    [ "ShowBank", "dc/d4a/a10605.html#a57c189db7f6338f73d4e0028d846cfcf", null ],
-    [ "Write", "dc/d4a/a10605.html#a39e1b86a7d4d6163ab504797be1af505", null ],
-    [ "Banker", "dc/d4a/a10605.html#aeceda879d837508d95b79fbd3ee8d892", null ]
+    [ "GenericInstanceMapScript", "dc/d4a/a10605.html#a39aef4c434d791f18fc04ea692bf2255", null ],
+    [ "GetInstanceScript", "dc/d4a/a10605.html#a8ca7180c1d2f8fb213e8b52bb73b2f76", null ]
 ];

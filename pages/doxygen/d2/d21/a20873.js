@@ -1,7 +1,8 @@
 var a20873 =
 [
-    [ "HandleEffectPeriodic", "d2/d21/a20873.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
-    [ "PrepareAuraScript", "d2/d21/a20873.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
-    [ "Register", "d2/d21/a20873.html#a74052d7da1523b3c4010465510e5fe04", null ],
-    [ "Validate", "d2/d21/a20873.html#a587a469c649877f80e8fe80062e8b5d4", null ]
+    [ "boss_yoggsaron_guardian_of_ys", "d2/d21/a20873.html#a7035228621422651cc0f40f3f8b7952b", null ],
+    [ "JustDied", "d2/d21/a20873.html#a12ce3fef2fba8d92945249cf8920a0b4", null ],
+    [ "Reset", "d2/d21/a20873.html#ac803a9da5223db459b9ec48435e59c30", null ],
+    [ "UpdateAI", "d2/d21/a20873.html#a573576eaff2cbd4f779675e19ad53dea", null ],
+    [ "_spellTimer", "d2/d21/a20873.html#a5922d21c4606ab9a41e20948dc926cea", null ]
 ];

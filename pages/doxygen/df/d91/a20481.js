@@ -1,9 +1,7 @@
 var a20481 =
 [
-    [ "npc_ulduar_bot_summon_trigger", "df/d91/a20481.html#a0d489ab4f401fc44fbc712fb84f87ec7", null ],
-    [ "DoAction", "df/d91/a20481.html#a776782a85892d2d674773573be25bfa0", null ],
-    [ "Reset", "df/d91/a20481.html#a4ec8487028b188347cf0c9a080076fe6", null ],
-    [ "UpdateAI", "df/d91/a20481.html#a788d3eaba382e3af897678f6709a0242", null ],
-    [ "option", "df/d91/a20481.html#ac44b792e3b86372bbdc7033b14f1aefc", null ],
-    [ "timer", "df/d91/a20481.html#a05dc6f7034c1b83869d2498e51e3a928", null ]
+    [ "HandleEffectPeriodic", "df/d91/a20481.html#af6c50396e9b47cd909184aea80244728", null ],
+    [ "PrepareAuraScript", "df/d91/a20481.html#aeb41825334049c8e3a39b48cbf271477", null ],
+    [ "Register", "df/d91/a20481.html#aaa44ceb54aa928c4436120f435bcdc4b", null ],
+    [ "Validate", "df/d91/a20481.html#a0098e4949fc75b1a2464128f4df869aa", null ]
 ];

@@ -1,5 +1,7 @@
 var a18757 =
 [
-    [ "achievement_neck_deep_in_vile", "df/ddc/a18757.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
-    [ "OnCheck", "df/ddc/a18757.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
+    [ "CheckTargetCount", "df/ddc/a18757.html#a637ba0717ae0f6f736f5532ed65ca301", null ],
+    [ "PrepareSpellScript", "df/ddc/a18757.html#af560e5c4e985e9b139999f5ef618fe3c", null ],
+    [ "Register", "df/ddc/a18757.html#a86e7512496fd38201d458c03a7a60296", null ],
+    [ "Validate", "df/ddc/a18757.html#a744c4aa76387be4aa76a69fbcaa7932e", null ]
 ];

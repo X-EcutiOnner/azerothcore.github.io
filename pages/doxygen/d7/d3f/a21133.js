@@ -1,6 +1,14 @@
 var a21133 =
 [
-    [ "instance_vault_of_archavon_InstanceMapScript", "d3/dcc/a21137.html", "d3/dcc/a21137" ],
-    [ "instance_vault_of_archavon", "d7/d3f/a21133.html#a0be8d95ff0f3b751e6f833689e436310", null ],
-    [ "GetInstanceScript", "d7/d3f/a21133.html#abb955a8873a3a3021e164225dd1f857a", null ]
+    [ "npc_massive_jormungarAI", "d7/d3f/a21133.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
+    [ "DoAction", "d7/d3f/a21133.html#a8084994ba056c907b2e487568fa7502a", null ],
+    [ "JustDied", "d7/d3f/a21133.html#a02b4e75227811250e2210f754e6e04f2", null ],
+    [ "JustEngagedWith", "d7/d3f/a21133.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
+    [ "JustReachedHome", "d7/d3f/a21133.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
+    [ "MoveInLineOfSight", "d7/d3f/a21133.html#a55c817111fab479c3abcfca8942f16e8", null ],
+    [ "Reset", "d7/d3f/a21133.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
+    [ "UpdateAI", "d7/d3f/a21133.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
+    [ "events", "d7/d3f/a21133.html#a92334b8178317a91a7d4336096d75f33", null ],
+    [ "m_pInstance", "d7/d3f/a21133.html#ad50a9852370798817fda318f71f27653", null ],
+    [ "summons", "d7/d3f/a21133.html#acfa84efc38b994706015e6d82fe1f653", null ]
 ];

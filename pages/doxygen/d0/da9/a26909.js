@@ -1,5 +1,7 @@
 var a26909 =
 [
-    [ "achievement_tilted", "d0/da9/a26909.html#a868d7b8a437434d6dc34b5000c429e66", null ],
-    [ "OnCheck", "d0/da9/a26909.html#a61d3eb78450383485699532d96f79d93", null ]
+    [ "HandleProc", "d0/da9/a26909.html#ad5bf7ab28ac2f359c65606a1772a40d2", null ],
+    [ "PrepareAuraScript", "d0/da9/a26909.html#af4fec7fb65e1327b1a74d48453b9fddd", null ],
+    [ "Register", "d0/da9/a26909.html#a44a82b94d509eeb04f3520ded1d62891", null ],
+    [ "Validate", "d0/da9/a26909.html#a7b222bba8f0c4ced50bf4945bf0423ca", null ]
 ];

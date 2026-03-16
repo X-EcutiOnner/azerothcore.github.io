@@ -1,6 +1,6 @@
 var a14365 =
 [
-    [ "FilterTargets", "d4/df4/a14365.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
-    [ "PrepareSpellScript", "d4/df4/a14365.html#a0a1cbde8aff10303d91a791276a865f4", null ],
-    [ "Register", "d4/df4/a14365.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
+    [ "go", "d4/df4/a14365.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
+    [ "npc", "d4/df4/a14365.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
+    [ "pos", "d4/df4/a14365.html#a51175880a326101b29879d7a6a62c48d", null ]
 ];

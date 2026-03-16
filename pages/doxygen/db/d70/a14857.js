@@ -1,7 +1,6 @@
 var a14857 =
 [
-    [ "HandleFinish", "db/d70/a14857.html#a8927aaa07145b46067d5807c2048330a", null ],
-    [ "PrepareSpellScript", "db/d70/a14857.html#a5a0bfef668242fc5f21ad5a4e3e714b5", null ],
-    [ "Register", "db/d70/a14857.html#a1ffdc199a04bd6ead1a09bc977ae964c", null ],
-    [ "Validate", "db/d70/a14857.html#a3fd3265e5a08f81b3e9e789f1799abd4", null ]
+    [ "HandleDummy", "db/d70/a14857.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
+    [ "PrepareSpellScript", "db/d70/a14857.html#a87a787c6ab3804847c90266f570381c6", null ],
+    [ "Register", "db/d70/a14857.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
 ];

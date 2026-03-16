@@ -1,7 +1,7 @@
 var a26113 =
 [
-    [ "HandleApplyEffect", "de/d8a/a26113.html#af95120b26a165196e0310956c245f36f", null ],
-    [ "HandleRemoveEffect", "de/d8a/a26113.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
-    [ "PrepareAuraScript", "de/d8a/a26113.html#ae19e002407db1466f0655db3d14fe0d7", null ],
-    [ "Register", "de/d8a/a26113.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
+    [ "HandleHeal", "de/d8a/a26113.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
+    [ "Load", "de/d8a/a26113.html#a4dd5016439e8798083fe3d4fa5458731", null ],
+    [ "PrepareSpellScript", "de/d8a/a26113.html#a248ae6d2c8f8d6c014a0164105773836", null ],
+    [ "Register", "de/d8a/a26113.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
 ];

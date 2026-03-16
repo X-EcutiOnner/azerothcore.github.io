@@ -1,7 +1,9 @@
 var a19017 =
 [
-    [ "OnApply", "db/df9/a19017.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
-    [ "OnRemove", "db/df9/a19017.html#a697a7c76f944b5df956a9de07746b7a9", null ],
-    [ "PrepareAuraScript", "db/df9/a19017.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
-    [ "Register", "db/df9/a19017.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
+    [ "npc_gluttonous_abominationAI", "db/df9/a19017.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
+    [ "JustDied", "db/df9/a19017.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
+    [ "JustSummoned", "db/df9/a19017.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
+    [ "Reset", "db/df9/a19017.html#a45588181429a74ac024e0390c76fa57a", null ],
+    [ "UpdateAI", "db/df9/a19017.html#a33ef03a9f005ff187493275a9c2683a7", null ],
+    [ "_events", "db/df9/a19017.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
 ];

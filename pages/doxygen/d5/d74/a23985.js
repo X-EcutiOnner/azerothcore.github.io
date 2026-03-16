@@ -1,6 +1,7 @@
 var a23985 =
 [
-    [ "npc_drake_dealer_hurlunk", "d5/d74/a23985.html#ae6d095365d23c30d5b772b047b459ddb", null ],
-    [ "OnGossipHello", "d5/d74/a23985.html#ad04b7f906f029d9935e29c585b0de421", null ],
-    [ "OnGossipSelect", "d5/d74/a23985.html#aa23833dcdefb909899120c25d5376111", null ]
+    [ "HandleEffect", "d5/d74/a23985.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
+    [ "PrepareSpellScript", "d5/d74/a23985.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
+    [ "Register", "d5/d74/a23985.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
+    [ "Validate", "d5/d74/a23985.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
 ];

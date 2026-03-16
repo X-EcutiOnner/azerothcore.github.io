@@ -1,7 +1,8 @@
 var a24317 =
 [
-    [ "HandleProc", "d8/db4/a24317.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
-    [ "PrepareAuraScript", "d8/db4/a24317.html#a2840931b939b95e6a476c07f08ca66b5", null ],
-    [ "Register", "d8/db4/a24317.html#ae769fddc14aed4d1055d2f947d292fcf", null ],
-    [ "lastChargeUsedTime", "d8/db4/a24317.html#a69e1d242b6d4bfc752e7e0921aa0f90c", null ]
+    [ "go_skull_pile", "d8/db4/a24317.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "d8/db4/a24317.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "d8/db4/a24317.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "d8/db4/a24317.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "d8/db4/a24317.html#af74fcd75404c0886128401d661067394", null ]
 ];

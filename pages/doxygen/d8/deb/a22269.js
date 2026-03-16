@@ -1,9 +1,9 @@
 var a22269 =
 [
-    [ "npc_crusade_recruitAI", "d8/deb/a22269.html#aa5d5e8cc4fe612fda84d971d9cee987f", null ],
-    [ "Reset", "d8/deb/a22269.html#a183360b99ecbd784b4dabbf5158f59d1", null ],
-    [ "sGossipSelect", "d8/deb/a22269.html#ab7bfdc4cc8c86645174ac154ee5db541", null ],
-    [ "UpdateAI", "d8/deb/a22269.html#a0b4dad62e1adf04013d8fbcefe310400", null ],
-    [ "_events", "d8/deb/a22269.html#a32060a04ba73fbf9ae2df8417e826ce9", null ],
-    [ "_heading", "d8/deb/a22269.html#a6e260a6e085962d54b765bff4cb17963", null ]
+    [ "HandlePeriodic", "d8/deb/a22269.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "d8/deb/a22269.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "d8/deb/a22269.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "d8/deb/a22269.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "d8/deb/a22269.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "d8/deb/a22269.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

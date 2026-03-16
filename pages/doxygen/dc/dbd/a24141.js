@@ -1,8 +1,6 @@
 var a24141 =
 [
-    [ "go_skull_pile", "dc/dbd/a24141.html#a9cf8dfef432c4967c60f66e645585770", null ],
-    [ "OnGossipHello", "dc/dbd/a24141.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
-    [ "OnGossipSelect", "dc/dbd/a24141.html#afb8e8db2705355e975fa48c98e09f20b", null ],
-    [ "SendActionMenu", "dc/dbd/a24141.html#a048dd224b46ead864958ad524d76167f", null ],
-    [ "_result", "dc/dbd/a24141.html#af74fcd75404c0886128401d661067394", null ]
+    [ "npc_mature_netherwing_drakeAI", "d7/d3f/a24145.html", "d7/d3f/a24145" ],
+    [ "npc_mature_netherwing_drake", "dc/dbd/a24141.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
+    [ "GetAI", "dc/dbd/a24141.html#ac5a1dad24920396156f22ab02bfab84b", null ]
 ];

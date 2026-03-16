@@ -1,9 +1,10 @@
 var a09349 =
 [
-    [ "GameObjectSearcher", "dd/ded/a09349.html#a6625a6afd81bea2f9cdd10fad6d4a5a4", null ],
-    [ "Visit", "dd/ded/a09349.html#a16685c62e1e69fdc5df55b2b3920a579", null ],
-    [ "Visit", "dd/ded/a09349.html#a1105dd396e4fe8c366fc453b5a4bec02", null ],
-    [ "i_check", "dd/ded/a09349.html#a71152e100ea7c72eceb5cda470d5a2f3", null ],
-    [ "i_object", "dd/ded/a09349.html#ad1c14442e0f1b5d9ee43639077c75876", null ],
-    [ "i_phaseMask", "dd/ded/a09349.html#ac11e036da088f6e62556c42965530040", null ]
+    [ "GridObjectLoader", "dd/ded/a09349.html#a57cd46fee6f747221761aa3114c40ba6", null ],
+    [ "AddObjectHelper", "dd/ded/a09349.html#a4e857363f544e91918b22df7fb6b1fe8", null ],
+    [ "LoadAllCellsInGrid", "dd/ded/a09349.html#a2f4aac240f93354a4a1cd22a7144fb91", null ],
+    [ "LoadCreatures", "dd/ded/a09349.html#a000e7ba83cc08e6c5b34a9bff222a809", null ],
+    [ "LoadGameObjects", "dd/ded/a09349.html#ad577dbb6544e806d25b496796651ba5b", null ],
+    [ "_grid", "dd/ded/a09349.html#abe551354634514fa3998eccb10fcbefe", null ],
+    [ "_map", "dd/ded/a09349.html#a1d3ca2b103b23a95fb208ee64fe4037b", null ]
 ];

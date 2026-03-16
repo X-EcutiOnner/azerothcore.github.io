@@ -1,6 +1,6 @@
 var a27529 =
 [
-    [ "npc_venomhide_hatchlingAI", "d1/dd4/a27529.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "d1/dd4/a27529.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "d1/dd4/a27529.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "CheckProc", "d1/dd4/a27529.html#a945c4617cba249ee76045ce032f12c3c", null ],
+    [ "PrepareAuraScript", "d1/dd4/a27529.html#abdcb401acb80eb732dbf56bbbcf79801", null ],
+    [ "Register", "d1/dd4/a27529.html#a912dd7ea10038103bb6d242bb7723830", null ]
 ];

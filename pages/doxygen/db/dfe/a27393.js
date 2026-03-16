@@ -1,10 +1,6 @@
 var a27393 =
 [
-    [ "npc_training_dummyAI", "db/dfe/a27393.html#a2f10fd0b4365e99446f728883a47eb6a", null ],
-    [ "DamageTaken", "db/dfe/a27393.html#a641c40906a6365f068ccbdba9d033923", null ],
-    [ "EnterEvadeMode", "db/dfe/a27393.html#adb1de124bdb2a986efcfcfc287b6d824", null ],
-    [ "MoveInLineOfSight", "db/dfe/a27393.html#a52f3516e9da6895eeddcdef7a198a6b1", null ],
-    [ "Reset", "db/dfe/a27393.html#af63f500cb3179964c90afab0d4a2c9b7", null ],
-    [ "UpdateAI", "db/dfe/a27393.html#a5e7892a64cd1a5cf678b401b62497bfb", null ],
-    [ "resetTimer", "db/dfe/a27393.html#a443f2f7de257af473d6e9793f34a2071", null ]
+    [ "HandleAfterCast", "db/dfe/a27393.html#a6f21938e84e45848fad74a16f1f52c48", null ],
+    [ "PrepareSpellScript", "db/dfe/a27393.html#ac7abeee05c117595696faf1ec55e11bd", null ],
+    [ "Register", "db/dfe/a27393.html#a9e90a6fa037627ac682f4ea050f557de", null ]
 ];

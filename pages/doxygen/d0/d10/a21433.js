@@ -1,6 +1,6 @@
 var a21433 =
 [
-    [ "npc_bloodmage_laurithAI", "d4/d45/a21437.html", "d4/d45/a21437" ],
-    [ "npc_bloodmage_laurith", "d0/d10/a21433.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
-    [ "GetAI", "d0/d10/a21433.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
+    [ "npc_azure_binderAI", "d4/d45/a21437.html", "d4/d45/a21437" ],
+    [ "npc_azure_binder", "d0/d10/a21433.html#a25b8b19b6ccdae92418c47fe68537c42", null ],
+    [ "GetAI", "d0/d10/a21433.html#aad091206a8bd06a1064b68b81510eb56", null ]
 ];

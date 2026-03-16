@@ -1,14 +1,8 @@
 var a13233 =
 [
-    [ "boss_selin_fireheart", "d2/dbd/a13233.html#ae3270a227550391fd752d3f241e5ea46", null ],
-    [ "CanAIAttack", "d2/dbd/a13233.html#a36f409a006a09812452052d554d5e810", null ],
-    [ "JustDied", "d2/dbd/a13233.html#a1330c499c04aee849bcbb3ebfe30eb1e", null ],
-    [ "JustEngagedWith", "d2/dbd/a13233.html#ad414ec34127bffbae1b6b5f9a794f28c", null ],
-    [ "KilledUnit", "d2/dbd/a13233.html#a0fc74ba75a482a67d19f4323df1f5e6c", null ],
-    [ "MovementInform", "d2/dbd/a13233.html#a8072412acc5f52fdeea3b4f740021a91", null ],
-    [ "OnPowerUpdate", "d2/dbd/a13233.html#a71677fbd88ab14b6fb40e3bc9897c982", null ],
-    [ "Reset", "d2/dbd/a13233.html#a6d6cab76647794f971c9a6837d8fbf8c", null ],
-    [ "SelectNearestCrystal", "d2/dbd/a13233.html#afe01bdf64e5f84c7aa5ee0f164ac29c0", null ],
-    [ "SpawnCrystals", "d2/dbd/a13233.html#a5c874662b9bf518782b2dc824f1eb03d", null ],
-    [ "SummonedCreatureDies", "d2/dbd/a13233.html#a396341d39bead723a7c6f716c08aa447", null ]
+    [ "npc_tito", "d2/dbd/a13233.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
+    [ "JustEngagedWith", "d2/dbd/a13233.html#a71335c1474e8a29edf76addacb737fa9", null ],
+    [ "UpdateAI", "d2/dbd/a13233.html#ac357c29e68d8480d94349da844efd3ad", null ],
+    [ "_scheduler", "d2/dbd/a13233.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
+    [ "instance", "d2/dbd/a13233.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
 ];

@@ -1,17 +1,13 @@
 var a22473 =
 [
-    [ "boss_ambassador_hellmaw", "d2/ddf/a22473.html#ae774dfa4379b7321ff194a796c9eb842", null ],
-    [ "AttackStart", "d2/ddf/a22473.html#aa072ff0e9ce6e68f3ba0b4e51fb92f04", null ],
-    [ "CanAIAttack", "d2/ddf/a22473.html#a35579b31dec1d0c110b459230ee129e4", null ],
-    [ "DoAction", "d2/ddf/a22473.html#a3cbd58fb11fe8d297907bb40d69e4ccb", null ],
-    [ "DoMeleeAttackIfReady", "d2/ddf/a22473.html#a8dd75d368f0f567561db45e1c53ad785", null ],
-    [ "InitializeAI", "d2/ddf/a22473.html#a9b0170a49751def614126265240bb87c", null ],
-    [ "JustDied", "d2/ddf/a22473.html#ae0e04500073a4c02c9656b4bcd63be9c", null ],
-    [ "JustEngagedWith", "d2/ddf/a22473.html#a9ea9d60b8fa90a228951a38fc2f59325", null ],
-    [ "KilledUnit", "d2/ddf/a22473.html#a5f7564ef25a36395cddf4e2c2dbc2dfc", null ],
-    [ "MoveInLineOfSight", "d2/ddf/a22473.html#af3949b46f82863af699396729e88928b", null ],
-    [ "PathEndReached", "d2/ddf/a22473.html#a46b9b96ec5e4c121d994560e85266dfe", null ],
-    [ "Reset", "d2/ddf/a22473.html#a4881f868ac11eb66f3d15b44c94938bf", null ],
-    [ "UpdateAI", "d2/ddf/a22473.html#a44dae5d6517e22dd2be399d08fa67a71", null ],
-    [ "isBanished", "d2/ddf/a22473.html#a4805244997c42f5791400c5b1f5e6204", null ]
+    [ "OPvPCapturePointEP_PWT", "d2/ddf/a22473.html#a17e3d11c9b282f203bb0e1511fb5af02", null ],
+    [ "ChangeState", "d2/ddf/a22473.html#a1e26a3ed8d700533df0a51d8db510a4f", null ],
+    [ "FillInitialWorldStates", "d2/ddf/a22473.html#ab5faf124f53394a4a54a86a7bf5d0626", null ],
+    [ "HandlePlayerEnter", "d2/ddf/a22473.html#ab9bf289c0814e60fd75902b4e87d1e46", null ],
+    [ "HandlePlayerLeave", "d2/ddf/a22473.html#a5772e54263c613eee365856def5e74e6", null ],
+    [ "SendChangePhase", "d2/ddf/a22473.html#af1cffc64adac5b64c04175ad1685d0b8", null ],
+    [ "SummonFlightMaster", "d2/ddf/a22473.html#ab3808f8d756cc5f0b48db9375ae2fa1c", null ],
+    [ "UpdateTowerState", "d2/ddf/a22473.html#af30325b43d2861eb667b33dcb23ffc1e", null ],
+    [ "m_FlightMasterSpawnedId", "d2/ddf/a22473.html#afeefd804849b925e6d0a880d8efb5319", null ],
+    [ "m_TowerState", "d2/ddf/a22473.html#a914dcbb37baf457750cfe9829d95d88c", null ]
 ];

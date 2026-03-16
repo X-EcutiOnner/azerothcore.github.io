@@ -1,6 +1,11 @@
 var a11477 =
 [
-    [ "WorldObjectSpellConeTargetCheck", "dd/d5a/a11477.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
-    [ "operator()", "dd/d5a/a11477.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
-    [ "_coneAngle", "dd/d5a/a11477.html#a8f946789292320ea8b205dec5d1e1975", null ]
+    [ "Player", "dd/d5a/a11477.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "dd/d5a/a11477.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Face", "dd/d5a/a11477.html#a6334464eea38be514f3faa7538b39a5a", null ],
+    [ "FacialHair", "dd/d5a/a11477.html#a44643270b211d275eb94283842791407", null ],
+    [ "Gender", "dd/d5a/a11477.html#a14321ea3595debe2836eceab8a82f944", null ],
+    [ "HairColor", "dd/d5a/a11477.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
+    [ "HairStyle", "dd/d5a/a11477.html#ade5b2dff213547ab4d707070f8979085", null ],
+    [ "Skin", "dd/d5a/a11477.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
 ];

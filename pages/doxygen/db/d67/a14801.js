@@ -1,5 +1,5 @@
 var a14801 =
 [
-    [ "MidsummerPlayerScript", "db/d67/a14801.html#ace19c3dfaec5aa5bdfab46552a759306", null ],
-    [ "OnPlayerUpdateZone", "db/d67/a14801.html#af512e1744264ac69fe2b7f7ba3836760", null ]
+    [ "at_bring_your_orphan_to", "db/d67/a14801.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
+    [ "OnTrigger", "db/d67/a14801.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
 ];

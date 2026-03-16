@@ -1,6 +1,8 @@
 var a11641 =
 [
-    [ "EffectBase", "d7/ddf/a11641.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
-    [ "CheckEffect", "d7/ddf/a11641.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
-    [ "ToString", "d7/ddf/a11641.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
+    [ "DirectionType", "d7/ddf/a11641.html#a8491033c0286895c2d4d3280cfd529f0", null ],
+    [ "ObjectType", "d7/ddf/a11641.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
+    [ "ReferenceType", "d7/ddf/a11641.html#a44e310a789c4c5a288f07c9254ad389a", null ],
+    [ "SelectionCategory", "d7/ddf/a11641.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
+    [ "SelectionCheckType", "d7/ddf/a11641.html#a35c8d221b47de13408a0256598fa9d63", null ]
 ];

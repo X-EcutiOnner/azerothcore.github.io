@@ -1,5 +1,5 @@
 var a28293 =
 [
-    [ "Price", "dd/dd5/a28293.html#a9cf01cf0d41d49613b4ceaf1eeb1716b", null ],
-    [ "Slot", "dd/dd5/a28293.html#aa53247914bda0ceca015b8b9ca117379", null ]
+    [ "go_dragonflayer_cage", "dd/dd5/a28293.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
+    [ "OnGossipHello", "dd/dd5/a28293.html#a542530a0b84879b21a4b9982cf4300d0", null ]
 ];

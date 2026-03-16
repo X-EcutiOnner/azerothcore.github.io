@@ -1,8 +1,8 @@
 var a25937 =
 [
-    [ "CalculateAmount", "dc/df5/a25937.html#a8751483423726ffa8a33c70b7e55db23", null ],
-    [ "CheckProc", "dc/df5/a25937.html#a046cd1087342cdcbd2e6b0f8ded7c03a", null ],
-    [ "HandleProc", "dc/df5/a25937.html#abda070e7dfbb4ddc8d18cb3d180edc2e", null ],
-    [ "PrepareAuraScript", "dc/df5/a25937.html#a6bb54cea419145875c4086a69e1e55e8", null ],
-    [ "Register", "dc/df5/a25937.html#a8e92638bbdd786ef77b17f00dcf0f643", null ]
+    [ "HandleProc", "dc/df5/a25937.html#ad92c7804b26bd29d135e55c8adad9093", null ],
+    [ "OnRemove", "dc/df5/a25937.html#afa8e065ed835243f3ebb95c10792adf8", null ],
+    [ "PrepareAuraScript", "dc/df5/a25937.html#a5e986f77b23fd0402089ea36f0360c79", null ],
+    [ "Register", "dc/df5/a25937.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
+    [ "Validate", "dc/df5/a25937.html#a51f81afec6ff0918530208d9de9dae24", null ]
 ];

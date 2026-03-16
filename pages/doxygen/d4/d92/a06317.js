@@ -1,13 +1,8 @@
 var a06317 =
 [
-    [ "HealthCheckEventData", "d4/d92/a06317.html#a2610f9688b27212eb3470f55718c61f0", null ],
-    [ "GetDelay", "d4/d92/a06317.html#a9bab6c9834517c4260f814f258d52d5c", null ],
-    [ "HasBeenProcessed", "d4/d92/a06317.html#abe8549b1e96fc3ea7e4154cd30ff5389", null ],
-    [ "IsPending", "d4/d92/a06317.html#a367c865eb488a2a95ce7e98536ccb311", null ],
-    [ "UpdateStatus", "d4/d92/a06317.html#aae2283a58be68424fbe01c37a29e1c5e", null ],
-    [ "_allowedWhileCasting", "d4/d92/a06317.html#aff327c455fbd912579725956c99c3a2d", null ],
-    [ "_delay", "d4/d92/a06317.html#ad23fcf00ca53ef2772185b2008a84de5", null ],
-    [ "_exec", "d4/d92/a06317.html#a66c38460690d77fb021c91fa676c3a12", null ],
-    [ "_healthPct", "d4/d92/a06317.html#a420edc39ff982d55ae82207a0cfe7689", null ],
-    [ "_status", "d4/d92/a06317.html#a787509d0963c134539e4dec7525b5608", null ]
+    [ "ArcherAI", "d4/d92/a06317.html#a113c138958054716182c15ee9f2b47da", null ],
+    [ "AttackStart", "d4/d92/a06317.html#adc79f7ead63ecaf8fed9ea4f81d27f76", null ],
+    [ "Permissible", "d4/d92/a06317.html#ac5b3d144b0d71a5e527d53f33c3d31cc", null ],
+    [ "UpdateAI", "d4/d92/a06317.html#aa6e072e239549d337de61670a05eb6f8", null ],
+    [ "m_minRange", "d4/d92/a06317.html#ab449efcd81769888ff8d8bc5f348cbe7", null ]
 ];

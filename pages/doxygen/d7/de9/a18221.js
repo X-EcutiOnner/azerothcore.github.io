@@ -1,7 +1,6 @@
 var a18221 =
 [
-    [ "HandleDummy", "d7/de9/a18221.html#aa61db53d7395fd45b8569e12978fed0b", null ],
-    [ "PrepareSpellScript", "d7/de9/a18221.html#ab63054debe6763027ab52ad122277719", null ],
-    [ "Register", "d7/de9/a18221.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
-    [ "Validate", "d7/de9/a18221.html#adb7e30d10c2071de5d5070b64a10af30", null ]
+    [ "npc_cult_fanaticAI", "d6/dca/a18225.html", "d6/dca/a18225" ],
+    [ "npc_cult_fanatic", "d7/de9/a18221.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
+    [ "GetAI", "d7/de9/a18221.html#ae4d22bac12d17d79669d3fccd4029952", null ]
 ];

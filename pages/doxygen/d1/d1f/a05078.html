@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: anonymous_namespace{BinarySpellDetectionTest.cpp} Namespace Reference</title>
+<title>AzerothCore: MapObject Namespace Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,44 +106,57 @@ $(document).ready(function(){initNavTree('d1/d1f/a05078.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">anonymous_namespace{BinarySpellDetectionTest.cpp} Namespace Reference</div></div>
+  <div class="headertitle"><div class="title">MapObject Namespace Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p>Tests for the binary spell detection condition used in <a class="el" href="../../dc/d7d/a11722.html#a57a52b9d7490bc3e73d5906c6c7780a0">SpellMgr::LoadSpellInfoCustomAttributes</a>.  
-<a href="../../d1/d1f/a05078.html#details">More...</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ab2154405a408271aa60863454b0303fe"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d1f/a05078.html#ab2154405a408271aa60863454b0303fe">ShouldMarkBinary</a> (<a class="el" href="../../d0/d1c/a11670.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> effIndex)</td></tr>
-<tr class="separator:ab2154405a408271aa60863454b0303fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9148b3ef5b412564a285737b0bd104dd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d1f/a05078.html#a9148b3ef5b412564a285737b0bd104dd">Extract</a> (<a class="el" href="../../de/d5f/a30053.html">ADT::MODF</a> const &amp;mapObjDef, char const *WmoInstName, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mapID, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileX, <a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileY, FILE *pDirfile)</td></tr>
+<tr class="separator:a9148b3ef5b412564a285737b0bd104dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Tests for the binary spell detection condition used in <a class="el" href="../../dc/d7d/a11722.html#a57a52b9d7490bc3e73d5906c6c7780a0">SpellMgr::LoadSpellInfoCustomAttributes</a>. </p>
-<p >The condition determines whether a non-damage aura effect should mark a spell as binary (fully resistable via spell resistance).</p>
-<p >Correct logic: CalcValue() || ((INTERRUPT_CAST || DONT_BREAK_STEALTH) &amp;&amp; !NO_IMMUNITIES)</p>
-<p >A spell should be marked binary if:</p><ul>
-<li>Its effect has a non-zero CalcValue (e.g. Fear, Polymorph, Frost Nova), OR</li>
-<li>It is an interrupt/stealth spell without the NO_IMMUNITIES attribute </li>
-</ul>
-</div><h2 class="groupheader">Function Documentation</h2>
-<a id="ab2154405a408271aa60863454b0303fe" name="ab2154405a408271aa60863454b0303fe"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab2154405a408271aa60863454b0303fe">&#9670;&#160;</a></span>ShouldMarkBinary()</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a9148b3ef5b412564a285737b0bd104dd" name="a9148b3ef5b412564a285737b0bd104dd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9148b3ef5b412564a285737b0bd104dd">&#9670;&#160;</a></span>Extract()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool anonymous_namespace{BinarySpellDetectionTest.cpp}::ShouldMarkBinary </td>
+          <td class="memname">void MapObject::Extract </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d1c/a11670.html">SpellInfo</a> const *&#160;</td>
-          <td class="paramname"><em>spellInfo</em>, </td>
+          <td class="paramtype"><a class="el" href="../../de/d5f/a30053.html">ADT::MODF</a> const &amp;&#160;</td>
+          <td class="paramname"><em>mapObjDef</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>effIndex</em>&#160;</td>
+          <td class="paramtype">char const *&#160;</td>
+          <td class="paramname"><em>WmoInstName</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>mapID</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>tileX</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>tileY</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">FILE *&#160;</td>
+          <td class="paramname"><em>pDirfile</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -152,19 +165,84 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   42</span>    {</div>
-<div class="line"><span class="lineno">   43</span>        <span class="keywordflow">return</span> spellInfo-&gt;Effects[effIndex].CalcValue() ||</div>
-<div class="line"><span class="lineno">   44</span>            ((spellInfo-&gt;Effects[effIndex].Effect == <a class="code hl_enumvalue" href="../../d6/ddb/a04853.html#a292c893150c454dd75628b719db1fe97ae2d17b59f752f772b7a79a2643a1d45f">SPELL_EFFECT_INTERRUPT_CAST</a> ||</div>
-<div class="line"><span class="lineno">   45</span>              spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../dd/ddc/a01802.html#a93795b2131c8cbe38a7b23768a5a146da6e135d0f3f1ffad609c7a52988db5d0e">SPELL_ATTR0_CU_DONT_BREAK_STEALTH</a>)) &amp;&amp;</div>
-<div class="line"><span class="lineno">   46</span>             !spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../d6/ddb/a04853.html#a9dcd0ba8d94905ba214797c12e7c44ada6a12b14654225a9ccea65799ce6fc780">SPELL_ATTR0_NO_IMMUNITIES</a>));</div>
-<div class="line"><span class="lineno">   47</span>    }</div>
-<div class="ttc" id="aa01802_html_a93795b2131c8cbe38a7b23768a5a146da6e135d0f3f1ffad609c7a52988db5d0e"><div class="ttname"><a href="../../dd/ddc/a01802.html#a93795b2131c8cbe38a7b23768a5a146da6e135d0f3f1ffad609c7a52988db5d0e">SPELL_ATTR0_CU_DONT_BREAK_STEALTH</a></div><div class="ttdeci">@ SPELL_ATTR0_CU_DONT_BREAK_STEALTH</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:182</div></div>
-<div class="ttc" id="aa04853_html_a292c893150c454dd75628b719db1fe97ae2d17b59f752f772b7a79a2643a1d45f"><div class="ttname"><a href="../../d6/ddb/a04853.html#a292c893150c454dd75628b719db1fe97ae2d17b59f752f772b7a79a2643a1d45f">SPELL_EFFECT_INTERRUPT_CAST</a></div><div class="ttdeci">@ SPELL_EFFECT_INTERRUPT_CAST</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:834</div></div>
-<div class="ttc" id="aa04853_html_a9dcd0ba8d94905ba214797c12e7c44ada6a12b14654225a9ccea65799ce6fc780"><div class="ttname"><a href="../../d6/ddb/a04853.html#a9dcd0ba8d94905ba214797c12e7c44ada6a12b14654225a9ccea65799ce6fc780">SPELL_ATTR0_NO_IMMUNITIES</a></div><div class="ttdeci">@ SPELL_ATTR0_NO_IMMUNITIES</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:399</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  533</span>{</div>
+<div class="line"><span class="lineno">  534</span>    <span class="comment">// destructible wmo, do not dump. we can handle the vmap for these</span></div>
+<div class="line"><span class="lineno">  535</span>    <span class="comment">// in dynamic tree (gameobject vmaps)</span></div>
+<div class="line"><span class="lineno">  536</span>    <span class="keywordflow">if</span> ((mapObjDef.Flags &amp; 0x1) != 0)</div>
+<div class="line"><span class="lineno">  537</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  538</span> </div>
+<div class="line"><span class="lineno">  539</span>    <span class="comment">//-----------add_in _dir_file----------------</span></div>
+<div class="line"><span class="lineno">  540</span> </div>
+<div class="line"><span class="lineno">  541</span>    <span class="keywordtype">char</span> tempname[1036];</div>
+<div class="line"><span class="lineno">  542</span>    sprintf(tempname, <span class="stringliteral">&quot;%s/%s&quot;</span>, <a class="code hl_variable" href="../../d9/d75/a04934.html#ae79cb6c3493a63f0e1058be3bd5ba328">szWorkDirWmo</a>, WmoInstName);</div>
+<div class="line"><span class="lineno">  543</span>    FILE* input;</div>
+<div class="line"><span class="lineno">  544</span>    input = fopen(tempname, <span class="stringliteral">&quot;r+b&quot;</span>);</div>
+<div class="line"><span class="lineno">  545</span> </div>
+<div class="line"><span class="lineno">  546</span>    <span class="keywordflow">if</span> (!input)</div>
+<div class="line"><span class="lineno">  547</span>    {</div>
+<div class="line"><span class="lineno">  548</span>        printf(<span class="stringliteral">&quot;WMOInstance::WMOInstance: couldn&#39;t open %s\n&quot;</span>, tempname);</div>
+<div class="line"><span class="lineno">  549</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  550</span>    }</div>
+<div class="line"><span class="lineno">  551</span> </div>
+<div class="line"><span class="lineno">  552</span>    fseek(input, 8, SEEK_SET); <span class="comment">// get the correct no of vertices</span></div>
+<div class="line"><span class="lineno">  553</span>    <span class="keywordtype">int</span> nVertices;</div>
+<div class="line"><span class="lineno">  554</span>    <span class="keywordtype">int</span> count = fread(&amp;nVertices, <span class="keyword">sizeof</span> (<span class="keywordtype">int</span>), 1, input);</div>
+<div class="line"><span class="lineno">  555</span>    fclose(input);</div>
+<div class="line"><span class="lineno">  556</span> </div>
+<div class="line"><span class="lineno">  557</span>    <span class="keywordflow">if</span> (count != 1 || nVertices == 0)</div>
+<div class="line"><span class="lineno">  558</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  559</span> </div>
+<div class="line"><span class="lineno">  560</span>    <a class="code hl_class" href="../../d9/d73/a30073.html">Vec3D</a> position = mapObjDef.Position;</div>
+<div class="line"><span class="lineno">  561</span> </div>
+<div class="line"><span class="lineno">  562</span>    <span class="keywordtype">float</span> x, z;</div>
+<div class="line"><span class="lineno">  563</span>    x = position.<a class="code hl_variable" href="../../d9/d73/a30073.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a>;</div>
+<div class="line"><span class="lineno">  564</span>    z = position.<a class="code hl_variable" href="../../d9/d73/a30073.html#a5a619f14529e714231bff4cc6fd36614">z</a>;</div>
+<div class="line"><span class="lineno">  565</span>    <span class="keywordflow">if</span> (x == 0 &amp;&amp; z == 0)</div>
+<div class="line"><span class="lineno">  566</span>    {</div>
+<div class="line"><span class="lineno">  567</span>        position.<a class="code hl_variable" href="../../d9/d73/a30073.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a> = 533.33333f * 32;</div>
+<div class="line"><span class="lineno">  568</span>        position.<a class="code hl_variable" href="../../d9/d73/a30073.html#a5a619f14529e714231bff4cc6fd36614">z</a> = 533.33333f * 32;</div>
+<div class="line"><span class="lineno">  569</span>    }</div>
+<div class="line"><span class="lineno">  570</span>    position = <a class="code hl_function" href="../../d5/de6/a04910.html#ab265837fe64577975f97318431c69e9c">fixCoords</a>(position);</div>
+<div class="line"><span class="lineno">  571</span>    <a class="code hl_class" href="../../d2/d81/a30077.html">AaBox3D</a> bounds;</div>
+<div class="line"><span class="lineno">  572</span>    bounds.<a class="code hl_variable" href="../../d2/d81/a30077.html#a7277258d8bdc471a007814fadf91780a">min</a> = <a class="code hl_function" href="../../d5/de6/a04910.html#ab265837fe64577975f97318431c69e9c">fixCoords</a>(mapObjDef.Bounds.min);</div>
+<div class="line"><span class="lineno">  573</span>    bounds.<a class="code hl_variable" href="../../d2/d81/a30077.html#a3d87d5fa5e887282fa76a4a4b77eb097">max</a> = <a class="code hl_function" href="../../d5/de6/a04910.html#ab265837fe64577975f97318431c69e9c">fixCoords</a>(mapObjDef.Bounds.max);</div>
+<div class="line"><span class="lineno">  574</span> </div>
+<div class="line"><span class="lineno">  575</span>    <span class="keywordtype">float</span> scale = 1.0f;</div>
+<div class="line"><span class="lineno">  576</span>    <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> uniqueId = <a class="code hl_function" href="../../d9/d75/a04934.html#a6a3d179f34597554b17a122f27cd6be5">GenerateUniqueObjectId</a>(mapObjDef.UniqueId, 0);</div>
+<div class="line"><span class="lineno">  577</span>    <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> flags = <a class="code hl_enumvalue" href="../../dd/dcf/a04913.html#a829dc978e29d88ada1059ea4ca6c4cd3ae86efc863566bd1ba59ca8ad8cb72851">MOD_HAS_BOUND</a>;</div>
+<div class="line"><span class="lineno">  578</span>    <span class="keywordflow">if</span> (tileX == 65 &amp;&amp; tileY == 65) flags |= <a class="code hl_enumvalue" href="../../dd/dcf/a04913.html#a829dc978e29d88ada1059ea4ca6c4cd3aa5609345ab3d1b82637666503b9bb0b4">MOD_WORLDSPAWN</a>;</div>
+<div class="line"><span class="lineno">  579</span>    <span class="comment">//write mapID, tileX, tileY, Flags, NameSet, UniqueId, Pos, Rot, Scale, Bound_lo, Bound_hi, name</span></div>
+<div class="line"><span class="lineno">  580</span>    fwrite(&amp;mapID, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, pDirfile);</div>
+<div class="line"><span class="lineno">  581</span>    fwrite(&amp;tileX, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, pDirfile);</div>
+<div class="line"><span class="lineno">  582</span>    fwrite(&amp;tileY, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, pDirfile);</div>
+<div class="line"><span class="lineno">  583</span>    fwrite(&amp;flags, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, pDirfile);</div>
+<div class="line"><span class="lineno">  584</span>    fwrite(&amp;mapObjDef.NameSet, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d6/d1a/a00485.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>), 1, pDirfile);</div>
+<div class="line"><span class="lineno">  585</span>    fwrite(&amp;uniqueId, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, pDirfile);</div>
+<div class="line"><span class="lineno">  586</span>    fwrite(&amp;position, <span class="keyword">sizeof</span>(<a class="code hl_class" href="../../d9/d73/a30073.html">Vec3D</a>), 1, pDirfile);</div>
+<div class="line"><span class="lineno">  587</span>    fwrite(&amp;mapObjDef.Rotation, <span class="keyword">sizeof</span>(<a class="code hl_class" href="../../d9/d73/a30073.html">Vec3D</a>), 1, pDirfile);</div>
+<div class="line"><span class="lineno">  588</span>    fwrite(&amp;scale, <span class="keyword">sizeof</span>(<span class="keywordtype">float</span>), 1, pDirfile);</div>
+<div class="line"><span class="lineno">  589</span>    fwrite(&amp;bounds, <span class="keyword">sizeof</span>(<a class="code hl_class" href="../../d2/d81/a30077.html">AaBox3D</a>), 1, pDirfile);</div>
+<div class="line"><span class="lineno">  590</span>    <a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> nlen = strlen(WmoInstName);</div>
+<div class="line"><span class="lineno">  591</span>    fwrite(&amp;nlen, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, pDirfile);</div>
+<div class="line"><span class="lineno">  592</span>    fwrite(WmoInstName, <span class="keyword">sizeof</span>(<span class="keywordtype">char</span>), nlen, pDirfile);</div>
+<div class="line"><span class="lineno">  593</span>}</div>
+<div class="ttc" id="aa00485_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d6/d1a/a00485.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa00485_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d6/d1a/a00485.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
+<div class="ttc" id="aa04910_html_ab265837fe64577975f97318431c69e9c"><div class="ttname"><a href="../../d5/de6/a04910.html#ab265837fe64577975f97318431c69e9c">fixCoords</a></div><div class="ttdeci">static Vec3D fixCoords(const Vec3D &amp;v)</div><div class="ttdef"><b>Definition:</b> wmo.h:68</div></div>
+<div class="ttc" id="aa04913_html_a829dc978e29d88ada1059ea4ca6c4cd3aa5609345ab3d1b82637666503b9bb0b4"><div class="ttname"><a href="../../dd/dcf/a04913.html#a829dc978e29d88ada1059ea4ca6c4cd3aa5609345ab3d1b82637666503b9bb0b4">MOD_WORLDSPAWN</a></div><div class="ttdeci">@ MOD_WORLDSPAWN</div><div class="ttdef"><b>Definition:</b> vmapexport.h:34</div></div>
+<div class="ttc" id="aa04913_html_a829dc978e29d88ada1059ea4ca6c4cd3ae86efc863566bd1ba59ca8ad8cb72851"><div class="ttname"><a href="../../dd/dcf/a04913.html#a829dc978e29d88ada1059ea4ca6c4cd3ae86efc863566bd1ba59ca8ad8cb72851">MOD_HAS_BOUND</a></div><div class="ttdeci">@ MOD_HAS_BOUND</div><div class="ttdef"><b>Definition:</b> vmapexport.h:35</div></div>
+<div class="ttc" id="aa04934_html_a6a3d179f34597554b17a122f27cd6be5"><div class="ttname"><a href="../../d9/d75/a04934.html#a6a3d179f34597554b17a122f27cd6be5">GenerateUniqueObjectId</a></div><div class="ttdeci">uint32 GenerateUniqueObjectId(uint32 clientId, uint16 clientDoodadId)</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:72</div></div>
+<div class="ttc" id="aa04934_html_ae79cb6c3493a63f0e1058be3bd5ba328"><div class="ttname"><a href="../../d9/d75/a04934.html#ae79cb6c3493a63f0e1058be3bd5ba328">szWorkDirWmo</a></div><div class="ttdeci">char const  * szWorkDirWmo</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:68</div></div>
+<div class="ttc" id="aa30073_html"><div class="ttname"><a href="../../d9/d73/a30073.html">Vec3D</a></div><div class="ttdef"><b>Definition:</b> vec3d.h:25</div></div>
+<div class="ttc" id="aa30073_html_a0f061b9d5ea2a680f64bed8b5be9116d"><div class="ttname"><a href="../../d9/d73/a30073.html#a0f061b9d5ea2a680f64bed8b5be9116d">Vec3D::x</a></div><div class="ttdeci">float x</div><div class="ttdef"><b>Definition:</b> vec3d.h:27</div></div>
+<div class="ttc" id="aa30073_html_a5a619f14529e714231bff4cc6fd36614"><div class="ttname"><a href="../../d9/d73/a30073.html#a5a619f14529e714231bff4cc6fd36614">Vec3D::z</a></div><div class="ttdeci">float z</div><div class="ttdef"><b>Definition:</b> vec3d.h:27</div></div>
+<div class="ttc" id="aa30077_html"><div class="ttname"><a href="../../d2/d81/a30077.html">AaBox3D</a></div><div class="ttdef"><b>Definition:</b> vec3d.h:141</div></div>
+<div class="ttc" id="aa30077_html_a3d87d5fa5e887282fa76a4a4b77eb097"><div class="ttname"><a href="../../d2/d81/a30077.html#a3d87d5fa5e887282fa76a4a4b77eb097">AaBox3D::max</a></div><div class="ttdeci">Vec3D max</div><div class="ttdef"><b>Definition:</b> vec3d.h:144</div></div>
+<div class="ttc" id="aa30077_html_a7277258d8bdc471a007814fadf91780a"><div class="ttname"><a href="../../d2/d81/a30077.html#a7277258d8bdc471a007814fadf91780a">AaBox3D::min</a></div><div class="ttdeci">Vec3D min</div><div class="ttdef"><b>Definition:</b> vec3d.h:143</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00393">SpellInfo::Effects</a>, <a class="el" href="../../#l00415">SpellInfo::HasAttribute()</a>, <a class="el" href="../../#l00182">SPELL_ATTR0_CU_DONT_BREAK_STEALTH</a>, <a class="el" href="../../#l00399">SPELL_ATTR0_NO_IMMUNITIES</a>, and <a class="el" href="../../#l00834">SPELL_EFFECT_INTERRUPT_CAST</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00044">ADT::MODF::Bounds</a>, <a class="el" href="../../#l00068">fixCoords()</a>, <a class="el" href="../../#l00045">ADT::MODF::Flags</a>, <a class="el" href="../../#l00072">GenerateUniqueObjectId()</a>, <a class="el" href="../../#l00144">AaBox3D::max</a>, <a class="el" href="../../#l00143">AaBox3D::min</a>, <a class="el" href="../../#l00035">MOD_HAS_BOUND</a>, <a class="el" href="../../#l00034">MOD_WORLDSPAWN</a>, <a class="el" href="../../#l00047">ADT::MODF::NameSet</a>, <a class="el" href="../../#l00042">ADT::MODF::Position</a>, <a class="el" href="../../#l00043">ADT::MODF::Rotation</a>, <a class="el" href="../../#l00068">szWorkDirWmo</a>, <a class="el" href="../../#l00041">ADT::MODF::UniqueId</a>, <a class="el" href="../../#l00027">Vec3D::x</a>, and <a class="el" href="../../#l00027">Vec3D::z</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00057">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00084">ADTFile::init()</a>, and <a class="el" href="../../#l00038">WDTFile::init()</a>.</p>
 
 </div>
 </div>
@@ -173,8 +251,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d1/d1f/a05078.html">anonymous_namespace{BinarySpellDetectionTest.cpp}</a></li>
-    <li class="footer">Generated on Mon Mar 9 2026 21:05:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d1/d1f/a05078.html">MapObject</a></li>
+    <li class="footer">Generated on Mon Mar 16 2026 21:10:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

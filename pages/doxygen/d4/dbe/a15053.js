@@ -1,10 +1,5 @@
 var a15053 =
 [
-    [ "npc_hyjal_frost_wyrm", "d4/dbe/a15053.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "d4/dbe/a15053.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "d4/dbe/a15053.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "d4/dbe/a15053.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "d4/dbe/a15053.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "d4/dbe/a15053.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "d4/dbe/a15053.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "achievement_pb_pilgrims_peril", "d4/dbe/a15053.html#a9516eab18d7e1401a5637913d8ec9595", null ],
+    [ "OnCheck", "d4/dbe/a15053.html#a78c92eab532448080c1d28dc8fcabaca", null ]
 ];

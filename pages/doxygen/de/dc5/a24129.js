@@ -1,12 +1,11 @@
 var a24129 =
 [
-    [ "npc_unkor_the_ruthlessAI", "de/dc5/a24129.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
-    [ "DamageTaken", "de/dc5/a24129.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
-    [ "DoNice", "de/dc5/a24129.html#aa673fc892b9c0d59b2789271140e6054", null ],
-    [ "JustEngagedWith", "de/dc5/a24129.html#a537225016bfeba51b607d250c0a09be5", null ],
-    [ "Reset", "de/dc5/a24129.html#a14ca75417c623d6d6e5fce50521963da", null ],
-    [ "UpdateAI", "de/dc5/a24129.html#a744ea41d7f9450965419085a296c8df2", null ],
-    [ "CanDoQuest", "de/dc5/a24129.html#a98d7d45b450f3464291ecbc05ab31f21", null ],
-    [ "Pulverize_Timer", "de/dc5/a24129.html#a2ddc09c9241bbf95cddb6c1c4ddfc6bd", null ],
-    [ "UnkorUnfriendly_Timer", "de/dc5/a24129.html#ae6eeb6177d655f5a0bede45183758f1f", null ]
+    [ "npc_invis_infernal_casterAI", "de/dc5/a24129.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
+    [ "Reset", "de/dc5/a24129.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
+    [ "SetData", "de/dc5/a24129.html#aee88dc141757384f96da969fcdc20671", null ],
+    [ "SummonInfernal", "de/dc5/a24129.html#a78d53d09e5544b3fe8301da4415d297b", null ],
+    [ "UpdateAI", "de/dc5/a24129.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
+    [ "events", "de/dc5/a24129.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
+    [ "ground", "de/dc5/a24129.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
+    [ "infernalGUID", "de/dc5/a24129.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
 ];

@@ -1,7 +1,7 @@
 var a15325 =
 [
-    [ "HandleScript", "d2/d24/a15325.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
-    [ "Load", "d2/d24/a15325.html#a2dc1edf537f58133fb4daabde9f43843", null ],
-    [ "PrepareSpellScript", "d2/d24/a15325.html#ae856c6e70ededa95c0308596a9f980af", null ],
-    [ "Register", "d2/d24/a15325.html#ac2e82c7e626658faa968f75c26688b43", null ]
+    [ "npc_tarethaAI", "d8/d27/a15329.html", "d8/d27/a15329" ],
+    [ "npc_taretha", "d2/d24/a15325.html#a54379e06518ff972e91e25e295731f5a", null ],
+    [ "GetAI", "d2/d24/a15325.html#a5045bb7119b12800ee0053818fcae5fe", null ],
+    [ "OnGossipHello", "d2/d24/a15325.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
 ];

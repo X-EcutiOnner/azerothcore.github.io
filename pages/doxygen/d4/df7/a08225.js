@@ -1,7 +1,13 @@
 var a08225 =
 [
-    [ "entry", "d4/df7/a08225.html#ad0d74d6216c9b6cb6fbeda55fb002072", null ],
-    [ "pos", "d4/df7/a08225.html#af264c1262d9fcd204a2a536847a613b1", null ],
-    [ "respawnTime", "d4/df7/a08225.html#abeadd86c92a8c301626dde6943da1b9b", null ],
-    [ "rot", "d4/df7/a08225.html#a776668c1b71e0cf9f3e0f0619498ae72", null ]
+    [ "LfgQueueData", "d4/df7/a08225.html#a1d0b74e82f50dc6baaf6b5a79b0af0cd", null ],
+    [ "LfgQueueData", "d4/df7/a08225.html#a363aa2cc53bce304893335ca93755103", null ],
+    [ "bestCompatible", "d4/df7/a08225.html#a10fe592a7d0b3fc53701d1946d55f0af", null ],
+    [ "dps", "d4/df7/a08225.html#ab78711eaf7285a5d4821e52354124646", null ],
+    [ "dungeons", "d4/df7/a08225.html#a6b115f3a5e0ff996279db044f47f5823", null ],
+    [ "healers", "d4/df7/a08225.html#a8b2049474102332ddca53f0892565216", null ],
+    [ "joinTime", "d4/df7/a08225.html#a240fcc11f3fd9d27fa913f80828522f2", null ],
+    [ "lastRefreshTime", "d4/df7/a08225.html#a727d35760b716270c5f326f343106d0c", null ],
+    [ "roles", "d4/df7/a08225.html#a20218584ba5c3dbaf9ff7ae520eba9a3", null ],
+    [ "tanks", "d4/df7/a08225.html#a500f93175d7a25f7c2e0dc0f3943e639", null ]
 ];

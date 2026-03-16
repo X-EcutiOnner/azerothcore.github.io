@@ -1,6 +1,6 @@
 var a18437 =
 [
-    [ "npc_spinestalkerAI", "d0/d97/a18441.html", "d0/d97/a18441" ],
-    [ "npc_spinestalker", "d9/d80/a18437.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
-    [ "GetAI", "d9/d80/a18437.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
+    [ "boss_rotfaceAI", "d0/d97/a18441.html", "d0/d97/a18441" ],
+    [ "boss_rotface", "d9/d80/a18437.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "d9/d80/a18437.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

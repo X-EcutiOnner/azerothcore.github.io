@@ -1,7 +1,7 @@
 var a23701 =
 [
-    [ "boss_gatewatcher_gyrokill", "da/df7/a23701.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
-    [ "JustDied", "da/df7/a23701.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
-    [ "JustEngagedWith", "da/df7/a23701.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
-    [ "KilledUnit", "da/df7/a23701.html#a274355d0303d9bf5761758f175826bd1", null ]
+    [ "boss_zereketh_the_unbound", "da/df7/a23701.html#abb2fc5cbe7514142160818016fda1936", null ],
+    [ "JustDied", "da/df7/a23701.html#ac5d96da9a33a536f2002cce11453ded3", null ],
+    [ "JustEngagedWith", "da/df7/a23701.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
+    [ "KilledUnit", "da/df7/a23701.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
 ];

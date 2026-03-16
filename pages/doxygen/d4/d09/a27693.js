@@ -1,9 +1,9 @@
 var a27693 =
 [
-    [ "HandleAfterCast", "d4/d09/a27693.html#afd2fbc51ac1e99789994021af36688f3", null ],
-    [ "HandleTriggerSpell", "d4/d09/a27693.html#ae140ab00101f081454b55e12a7c54440", null ],
-    [ "Load", "d4/d09/a27693.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
-    [ "PrepareSpellScript", "d4/d09/a27693.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
-    [ "Register", "d4/d09/a27693.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
-    [ "_triggerSpellId", "d4/d09/a27693.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
+    [ "CheckCast", "d4/d09/a27693.html#a846862b62f5750801cd804133f290d5d", null ],
+    [ "HandleDummy", "d4/d09/a27693.html#aa56609d3c75a69fb62e302622fd11c3c", null ],
+    [ "Load", "d4/d09/a27693.html#acec7437ba80e4ae491020448a36e4559", null ],
+    [ "PrepareSpellScript", "d4/d09/a27693.html#ab5e281028c009a4b317111de9a0a17e3", null ],
+    [ "Register", "d4/d09/a27693.html#a865fa526f2131703a668e113ba0d7849", null ],
+    [ "Validate", "d4/d09/a27693.html#a6c6dee3de2c54536765cfdd97f4fd0c0", null ]
 ];

@@ -1,9 +1,6 @@
 var a27969 =
 [
-    [ "CinematicSequence", "d6/dcb/a27969.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
-    [ "ClassID", "d6/dcb/a27969.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
-    [ "expansion", "d6/dcb/a27969.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
-    [ "name", "d6/dcb/a27969.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
-    [ "powerType", "d6/dcb/a27969.html#a74aec35dc161a7e830453b9365a6f107", null ],
-    [ "spellfamily", "d6/dcb/a27969.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
+    [ "achievement_arena_by_type", "d6/dcb/a27969.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "d6/dcb/a27969.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "d6/dcb/a27969.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

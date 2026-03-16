@@ -1,6 +1,11 @@
 var a12453 =
 [
-    [ "npc_rookery_hatcherAI", "d4/dd0/a12457.html", "d4/dd0/a12457" ],
-    [ "npc_rookery_hatcher", "de/d9d/a12453.html#aa385f8a93384d4db9b92eecd1b152ce0", null ],
-    [ "GetAI", "de/d9d/a12453.html#a76e27f10dd58ec15a8e8f9d579f1c176", null ]
+    [ "boss_high_interrogator_gerstahnAI", "de/d9d/a12453.html#a557fda67d1d1de268ba661350ba915dc", null ],
+    [ "JustEngagedWith", "de/d9d/a12453.html#a80e01faa471f9e83e85c3c47fd815dea", null ],
+    [ "Reset", "de/d9d/a12453.html#ab63099f83037b3716d1e2b9c21d7d607", null ],
+    [ "UpdateAI", "de/d9d/a12453.html#a67b34f7cf4c62a57bc9fb556f5fb0b81", null ],
+    [ "ManaBurn_Timer", "de/d9d/a12453.html#aede307f972942c15c4b2bfa90e75856d", null ],
+    [ "PsychicScream_Timer", "de/d9d/a12453.html#a291f3484e4d125fefe437d96b12153f1", null ],
+    [ "ShadowShield_Timer", "de/d9d/a12453.html#a7ba151c46b097825dca9b8e3ac2cdee9", null ],
+    [ "ShadowWordPain_Timer", "de/d9d/a12453.html#aec0eab93e8494bc1abc87d81460fac31", null ]
 ];

@@ -1,6 +1,6 @@
 var a19105 =
 [
-    [ "npc_icc_skybreaker_marksmanAI", "d5/d1a/a19109.html", "d5/d1a/a19109" ],
-    [ "npc_icc_skybreaker_marksman", "d6/d20/a19105.html#a1d870b78e1acf2d17782265e28698d1c", null ],
-    [ "GetAI", "d6/d20/a19105.html#a374017d37da15705d51ab8edc75683ff", null ]
+    [ "boss_sister_svalnaAI", "d5/d1a/a19109.html", "d5/d1a/a19109" ],
+    [ "boss_sister_svalna", "d6/d20/a19105.html#a233a9606db61f6ab945350e98a0929ff", null ],
+    [ "GetAI", "d6/d20/a19105.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
 ];

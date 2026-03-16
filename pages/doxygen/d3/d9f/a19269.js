@@ -1,7 +1,6 @@
 var a19269 =
 [
-    [ "HandleGameObjectDamage", "d3/d9f/a19269.html#a811edfe01c1784664b5b4253d2305b4e", null ],
-    [ "PrepareSpellScript", "d3/d9f/a19269.html#a0cfedeba2a747777de292b8f30b6752b", null ],
-    [ "Register", "d3/d9f/a19269.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
-    [ "Validate", "d3/d9f/a19269.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
+    [ "npc_icc_skybreaker_vicarAI", "d5/d63/a19273.html", "d5/d63/a19273" ],
+    [ "npc_icc_skybreaker_vicar", "d3/d9f/a19269.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
+    [ "GetAI", "d3/d9f/a19269.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
 ];

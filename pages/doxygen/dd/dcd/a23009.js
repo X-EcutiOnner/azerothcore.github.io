@@ -1,6 +1,6 @@
 var a23009 =
 [
-    [ "OnPeriodic", "dd/dcd/a23009.html#adfd5a3a6d9c16cd6acdb1f24e7874f20", null ],
-    [ "PrepareAuraScript", "dd/dcd/a23009.html#a8444053fa146a4163ea905634be78dfc", null ],
-    [ "Register", "dd/dcd/a23009.html#aad8868dc3d00fd3ea648abe7b536970d", null ]
+    [ "instance_black_temple_InstanceMapScript", "d7/de0/a23013.html", "d7/de0/a23013" ],
+    [ "instance_black_temple", "dd/dcd/a23009.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
+    [ "GetInstanceScript", "dd/dcd/a23009.html#a947a1279eabde75d9884b1ef84b295a3", null ]
 ];

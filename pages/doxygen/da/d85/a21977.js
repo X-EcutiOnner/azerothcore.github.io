@@ -1,5 +1,6 @@
 var a21977 =
 [
-    [ "go_pressure_valve", "da/d85/a21977.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
-    [ "OnGossipHello", "da/d85/a21977.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
+    [ "npc_plaguehound_trackerAI", "da/dc9/a21981.html", "da/dc9/a21981" ],
+    [ "npc_plaguehound_tracker", "da/d85/a21977.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
+    [ "GetAI", "da/d85/a21977.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
 ];

@@ -1,5 +1,5 @@
 var a04643 =
 [
-    [ "titles_commandscript", "d1/d37/a12294.html", "d1/d37/a12294" ],
-    [ "AddSC_titles_commandscript", "da/de7/a04643.html#abd13948cbed6e10bdbf797847a0f6839", null ]
+    [ "HandleLearnSpellCommand", "da/de7/a04643.html#acbe37f872cbc981a27671ebdf10904de", null ],
+    [ "HandleUnlearnSpellCommand", "da/de7/a04643.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
 ];

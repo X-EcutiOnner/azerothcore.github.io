@@ -1,6 +1,6 @@
 var a24037 =
 [
-    [ "npc_enraged_spiritAI", "dc/d77/a24041.html", "dc/d77/a24041" ],
-    [ "npc_enraged_spirit", "d3/d3a/a24037.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
-    [ "GetAI", "d3/d3a/a24037.html#aa10d5f0147cf4064a49df735ac95575e", null ]
+    [ "go_magtheridons_head", "d3/d3a/a24037.html#af5816b083f1856196bec7a75f0a995f3", null ],
+    [ "InitializeAI", "d3/d3a/a24037.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
+    [ "OnStateChanged", "d3/d3a/a24037.html#a28682d161074b71e1f2d70236ff2b897", null ]
 ];

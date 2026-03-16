@@ -1,11 +1,5 @@
 var a29941 =
 [
-    [ "_ACORE_REALM_CONFIG", "d9/de5/a29941.html#a139668c786d564a415e0626b3344dc83", null ],
-    [ "BanExpiryHandler", "d9/de5/a29941.html#a625d6480b04e88fcbc85e5b8d29502a6", null ],
-    [ "GetConsoleArguments", "d9/de5/a29941.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "KeepDatabaseAliveHandler", "d9/de5/a29941.html#a56e4613e7e60d171b9ce45f52758a057", null ],
-    [ "main", "d9/de5/a29941.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "SignalHandler", "d9/de5/a29941.html#abb73d9c1332263ddf049505e1b12672d", null ],
-    [ "StartDB", "d9/de5/a29941.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "d9/de5/a29941.html#ga927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "fcc", "d9/de5/a29941.html#a828a2845e666d6eb47d6d4705a663a3d", null ],
+    [ "fcc_txt", "d9/de5/a29941.html#acf0f4449ab5a64822833b86b41e2487c", null ]
 ];

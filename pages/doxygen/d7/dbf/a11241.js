@@ -1,10 +1,11 @@
 var a11241 =
 [
-    [ "WorldStateInfo", "d2/d49/a11245.html", "d2/d49/a11245" ],
-    [ "InitWorldStates", "d7/dbf/a11241.html#a9b1f27c7a07df6629473a6e9d6aa45b5", null ],
-    [ "Write", "d7/dbf/a11241.html#ad40588a16c7430a633c0537c82ea3a5b", null ],
-    [ "AreaID", "d7/dbf/a11241.html#a98ac08c68b5c004fd352f38c7084531f", null ],
-    [ "MapID", "d7/dbf/a11241.html#a657c3043204c6957e8438c3c3c7068f3", null ],
-    [ "Worldstates", "d7/dbf/a11241.html#a29ffba2a130f0b93d61b2025255502fb", null ],
-    [ "ZoneID", "d7/dbf/a11241.html#add07a226b1fe8ea752306b0e04d4ef71", null ]
+    [ "MoneyCost", "d7/dbf/a11241.html#a8f88c27f149bf304f46b00dec2aa4a30", null ],
+    [ "PointCost", "d7/dbf/a11241.html#aebcad3f23dbca753ad970081af0a78c9", null ],
+    [ "ReqAbility", "d7/dbf/a11241.html#acc13f04eb19a4555ae1a54594f1d858b", null ],
+    [ "ReqLevel", "d7/dbf/a11241.html#a9478dc1065bc10ebc591ff8022e43993", null ],
+    [ "ReqSkillLine", "d7/dbf/a11241.html#a5267f4615e01571a4a16d17d6914981b", null ],
+    [ "ReqSkillRank", "d7/dbf/a11241.html#ae6f9640e257d83d633c48168edc658b6", null ],
+    [ "SpellID", "d7/dbf/a11241.html#accf0f9aa4c8f2130f6926235dca69476", null ],
+    [ "Usable", "d7/dbf/a11241.html#a35d7186073a231f0dd1fe5920eec175b", null ]
 ];

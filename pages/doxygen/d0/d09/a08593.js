@@ -1,4 +1,6 @@
 var a08593 =
 [
-    [ "PetLoadQueryHolder", "d0/d09/a08593.html#a8dee71a2e729d239b7b05bc172c09e3b", null ]
+    [ "DamageMax", "d0/d09/a08593.html#afc0bd7960848f6434c182a3fadc1e256", null ],
+    [ "DamageMin", "d0/d09/a08593.html#acbab962cbc25ad032c97216feac281bb", null ],
+    [ "DamageType", "d0/d09/a08593.html#aecdcc73f2cb30ef5cc149607e01bbe34", null ]
 ];

@@ -1,7 +1,6 @@
 var a18893 =
 [
-    [ "OnApply", "d6/dbd/a18893.html#ac35f5d98980f54470a75a72b3578681f", null ],
-    [ "OnRemove", "d6/dbd/a18893.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
-    [ "PrepareAuraScript", "d6/dbd/a18893.html#a83c90d16fa151026a1e02927e31922ee", null ],
-    [ "Register", "d6/dbd/a18893.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
+    [ "npc_lk_spirit_bombAI", "de/da6/a18897.html", "de/da6/a18897" ],
+    [ "npc_lk_spirit_bomb", "d6/dbd/a18893.html#acc08d41aa1761c450de782e92307ad7c", null ],
+    [ "GetAI", "d6/dbd/a18893.html#ade74c00beb2da69dafb0ae93d771c430", null ]
 ];

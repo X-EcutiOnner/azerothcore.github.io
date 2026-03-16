@@ -1,7 +1,9 @@
 var a08557 =
 [
-    [ "UsedPos", "d7/d7a/a08557.html#aef230e392619ad4abc2da649d11b2394", null ],
-    [ "dist", "d7/d7a/a08557.html#ae73cbe8b0cf3ce714f6654df3a8874de", null ],
-    [ "sign", "d7/d7a/a08557.html#a2b5f97425309d56482a1f287b6d5be69", null ],
-    [ "size", "d7/d7a/a08557.html#a4ad5a2df36ae9c1cd9130c5efd27af58", null ]
+    [ "artKits", "d7/d7a/a08557.html#a7ae038f7051f3da177d3cdc95ef608d2", null ],
+    [ "entry", "d7/d7a/a08557.html#ae1378dcb4327a4d000c3299a32f9d23f", null ],
+    [ "faction", "d7/d7a/a08557.html#a77e0b2613b7a1cda1bd306f066e63a39", null ],
+    [ "flags", "d7/d7a/a08557.html#a4120c9184b4cfab7afada48ccf8e713e", null ],
+    [ "maxgold", "d7/d7a/a08557.html#ae80fd304ee4d02d5e0d13ec6136ec736", null ],
+    [ "mingold", "d7/d7a/a08557.html#a3b1c3dd6f223bd93cda6e993a64b61d1", null ]
 ];

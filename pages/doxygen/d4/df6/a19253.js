@@ -1,7 +1,6 @@
 var a19253 =
 [
-    [ "npc_ioc_gunship_captainAI", "d4/df6/a19253.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
-    [ "DoAction", "d4/df6/a19253.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
-    [ "UpdateAI", "d4/df6/a19253.html#a222b304633143bba47d3edde67ea093b", null ],
-    [ "_events", "d4/df6/a19253.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "df/d80/a19257.html", "df/d80/a19257" ],
+    [ "npc_icc_skybreaker_hierophant", "d4/df6/a19253.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
+    [ "GetAI", "d4/df6/a19253.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
 ];

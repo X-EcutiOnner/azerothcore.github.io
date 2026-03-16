@@ -1,9 +1,11 @@
 var a15193 =
 [
-    [ "boss_temporus", "d9/d31/a15193.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "d9/d31/a15193.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "d9/d31/a15193.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "d9/d31/a15193.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "d9/d31/a15193.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "d9/d31/a15193.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "npc_hyjal_ground_trash", "d9/d31/a15193.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
+    [ "AttackStart", "d9/d31/a15193.html#a0ab86d651644dcc579585176c2b5c07e", null ],
+    [ "DoAction", "d9/d31/a15193.html#aa92481bcf993c4eda5ef271145200d77", null ],
+    [ "GetNearbyFriendlyTrashCreature", "d9/d31/a15193.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
+    [ "JustEngagedWith", "d9/d31/a15193.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
+    [ "PathEndReached", "d9/d31/a15193.html#a035610284a56e690200f978b0fd496ab", null ],
+    [ "Reset", "d9/d31/a15193.html#aa38b45f63841c049a2add0a9832268ef", null ],
+    [ "UpdateAI", "d9/d31/a15193.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
 ];

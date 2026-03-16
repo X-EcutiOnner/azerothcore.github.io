@@ -1,6 +1,8 @@
 var a27425 =
 [
-    [ "npc_dancing_flamesAI", "d8/d47/a27429.html", "d8/d47/a27429" ],
-    [ "npc_dancing_flames", "d4/d7c/a27425.html#adec0401f876ddf159f28fdda8bc4d563", null ],
-    [ "GetAI", "d4/d7c/a27425.html#a1000d0b95dab3a6e73efa0ca088ce4e6", null ]
+    [ "ApplyDebuff", "d4/d7c/a27425.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
+    [ "PrepareSpellScript", "d4/d7c/a27425.html#aa37525d089348f58e3d871830caa3417", null ],
+    [ "Register", "d4/d7c/a27425.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
+    [ "RemoveInvalidTargets", "d4/d7c/a27425.html#a0451b75aa962065a01a5806992e01b16", null ],
+    [ "Validate", "d4/d7c/a27425.html#ac69d777fdf7a2d3c527621dee256690c", null ]
 ];

@@ -1,7 +1,6 @@
 var a16113 =
 [
-    [ "go_troll_cageAI", "da/d8e/a16113.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
-    [ "GossipHello", "da/d8e/a16113.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
-    [ "initBlyCrewMember", "da/d8e/a16113.html#a6bfb77ec97367d8704885acfef801b74", null ],
-    [ "instance", "da/d8e/a16113.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
+    [ "npc_stone_watcher_of_norgannon", "da/d8e/a16113.html#aa838e060c8ef6d7d85981c718328d9ef", null ],
+    [ "OnGossipHello", "da/d8e/a16113.html#a00f526b1b17b68f31a86e892e0997856", null ],
+    [ "OnGossipSelect", "da/d8e/a16113.html#a5b79ebae097266ec4e1a0e3dfaa87da5", null ]
 ];

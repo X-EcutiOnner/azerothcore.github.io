@@ -1,7 +1,6 @@
 var a25589 =
 [
-    [ "HandleScript", "de/d2c/a25589.html#a5b35bbac405dc2b03f195cb29786d5a6", null ],
-    [ "Load", "de/d2c/a25589.html#a61f1a4514e9900e4e14fded3c0b05593", null ],
-    [ "PrepareSpellScript", "de/d2c/a25589.html#abfac1629b7724a3b17b94480c31867af", null ],
-    [ "Register", "de/d2c/a25589.html#a62b9c194106e261245496441176c8d53", null ]
+    [ "CheckCast", "de/d2c/a25589.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
+    [ "PrepareSpellScript", "de/d2c/a25589.html#a0bc2de519e0c84688fad609444d28afa", null ],
+    [ "Register", "de/d2c/a25589.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
 ];

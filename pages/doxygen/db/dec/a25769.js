@@ -1,6 +1,5 @@
 var a25769 =
 [
-    [ "HandleEffect", "db/dec/a25769.html#a41b46d8918b59a1617f383b3eedfe343", null ],
-    [ "PrepareSpellScript", "db/dec/a25769.html#acfc69e6323292e6c64fbe8d2e10efcdc", null ],
-    [ "Register", "db/dec/a25769.html#a78f1476ed28eb1e80356dbf3d32918f5", null ]
+    [ "PrepareSpellScript", "db/dec/a25769.html#acb39fd85035670fb98dcea66c29b2ff7", null ],
+    [ "Register", "db/dec/a25769.html#a7fe416070962ba582d59ddff70c13590", null ]
 ];

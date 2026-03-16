@@ -1,6 +1,7 @@
 var a25329 =
 [
-    [ "HandleFinish", "d4/dfc/a25329.html#a97cef2944f3fcc11aa6898bc8455ab21", null ],
-    [ "PrepareSpellScript", "d4/dfc/a25329.html#a62920503172dc58ac864a23e90a98dd9", null ],
-    [ "Register", "d4/dfc/a25329.html#ab40419508a1903869aa2b36a590301ba", null ]
+    [ "HandleStun", "d4/dfc/a25329.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
+    [ "PrepareAuraScript", "d4/dfc/a25329.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
+    [ "Register", "d4/dfc/a25329.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
+    [ "Validate", "d4/dfc/a25329.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
 ];

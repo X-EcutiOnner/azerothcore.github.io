@@ -1,7 +1,7 @@
 var a11049 =
 [
-    [ "MinimapPingClient", "de/d67/a11049.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
-    [ "Read", "de/d67/a11049.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
-    [ "MapX", "de/d67/a11049.html#ad4ff3977c260035145d6acd00429d81e", null ],
-    [ "MapY", "de/d67/a11049.html#abd8640cb98238f339218c3b945885c97", null ]
+    [ "InstanceResetFailed", "de/d67/a11049.html#a246b4ab5e9567b99ba83b2a3c9b6c039", null ],
+    [ "Write", "de/d67/a11049.html#a29506768ce5a5312e659ec787dbc2f8e", null ],
+    [ "MapId", "de/d67/a11049.html#a3a14b2f4eb5e6d1ce768fe45881e2206", null ],
+    [ "Reason", "de/d67/a11049.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0", null ]
 ];

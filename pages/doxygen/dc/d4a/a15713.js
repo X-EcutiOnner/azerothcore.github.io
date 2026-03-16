@@ -1,6 +1,5 @@
 var a15713 =
 [
-    [ "npc_murkdeepAI", "dd/df2/a15717.html", "dd/df2/a15717" ],
-    [ "npc_murkdeep", "dc/d4a/a15713.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
-    [ "GetAI", "dc/d4a/a15713.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
+    [ "npc_toxic_slime", "dc/d4a/a15713.html#a4c3a03916280342ec9aec07049de161f", null ],
+    [ "InitializeAI", "dc/d4a/a15713.html#ae69f228040aaa5bc4df40a652f551992", null ]
 ];

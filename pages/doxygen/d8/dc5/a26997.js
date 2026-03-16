@@ -1,6 +1,6 @@
 var a26997 =
 [
-    [ "boss_lethonAI", "db/d7d/a27001.html", "db/d7d/a27001" ],
-    [ "boss_lethon", "d8/dc5/a26997.html#a5d758979b061646830373de64b2b3af4", null ],
-    [ "GetAI", "d8/dc5/a26997.html#a493baf37aac400635dd0409e79375a1c", null ]
+    [ "HandleScriptEffect", "d8/dc5/a26997.html#a8b60ae77f13045a582548fe5d1186d54", null ],
+    [ "PrepareSpellScript", "d8/dc5/a26997.html#ad68619783c4a1aad5a24826bf5d89858", null ],
+    [ "Register", "d8/dc5/a26997.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
 ];

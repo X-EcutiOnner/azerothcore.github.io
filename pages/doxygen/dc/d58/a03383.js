@@ -1,12 +1,8 @@
 var a03383 =
 [
-    [ "ACScriptName", "dc/d58/a03383.html#a44e28f969fff2c33cf76b8eaaff1898c", null ],
-    [ "DataHeader", "dc/d58/a03383.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "RegisterAuchenaiCryptsCreatureAI", "dc/d58/a03383.html#abf97bec93b670890ad0eaa7d6b4bd4b9", null ],
-    [ "ACDataTypes", "dc/d58/a03383.html#aae3060cf5aa0b4d27bcbbfeee3db2856", [
-      [ "DATA_SHIRRAK_THE_DEAD_WATCHER", "dc/d58/a03383.html#aae3060cf5aa0b4d27bcbbfeee3db2856a5d80917a3a5f108f9e625372181b85fe", null ],
-      [ "DATA_EXARCH_MALADAAR", "dc/d58/a03383.html#aae3060cf5aa0b4d27bcbbfeee3db2856aa54edd3601b7953b0bf046fa8b1bd3f8", null ]
-    ] ],
-    [ "GetAuchenaiCryptsAI", "dc/d58/a03383.html#a8c9b9cbd7dca7c2e86d7ad3fe7bfd961", null ],
-    [ "EncounterCount", "dc/d58/a03383.html#a31d630c40753c29f94ceac2db5e451a8", null ]
+    [ "instance_arcatraz", "dd/d70/a23705.html", "dd/d70/a23705" ],
+    [ "instance_arcatraz::instance_arcatraz_InstanceMapScript", "d9/de4/a23709.html", "d9/de4/a23709" ],
+    [ "AddSC_instance_arcatraz", "dc/d58/a03383.html#a80dfeb7f0ba2aa2c6cde3f26e3c50be4", null ],
+    [ "creatureData", "dc/d58/a03383.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "dc/d58/a03383.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

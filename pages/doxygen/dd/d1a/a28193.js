@@ -1,10 +1,6 @@
 var a28193 =
 [
-    [ "PvPDifficultyEntry", "dd/d1a/a28193.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
-    [ "GetBracketId", "dd/d1a/a28193.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
-    [ "bracketId", "dd/d1a/a28193.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
-    [ "difficulty", "dd/d1a/a28193.html#a33ac017d785a4586a78e715d97836720", null ],
-    [ "mapId", "dd/d1a/a28193.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
-    [ "maxLevel", "dd/d1a/a28193.html#a1385166568239f2118b65377df8b4b55", null ],
-    [ "minLevel", "dd/d1a/a28193.html#acd07e8d759af1b73ec7543f6e70df242", null ]
+    [ "go_l70_etc_musicAI", "dd/d1a/a28193.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
+    [ "UpdateAI", "dd/d1a/a28193.html#a182a5a9bbe53ced25740de9a4a368469", null ],
+    [ "_events", "dd/d1a/a28193.html#aa0cda672b4491b3cfc75214038aa2132", null ]
 ];

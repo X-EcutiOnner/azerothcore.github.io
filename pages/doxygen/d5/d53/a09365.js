@@ -1,10 +1,9 @@
 var a09365 =
 [
-    [ "UnitSearcher", "d5/d53/a09365.html#a4c50b4594650d9f3f83a40ac02f1a954", null ],
-    [ "Visit", "d5/d53/a09365.html#a5e419d2cb0de5ae58373e521d3a84ac6", null ],
-    [ "Visit", "d5/d53/a09365.html#a4bf8a315ab9464bbc5b0c8cae5c27fed", null ],
-    [ "Visit", "d5/d53/a09365.html#ac65516ed337b509ff5c316fb29727854", null ],
-    [ "i_check", "d5/d53/a09365.html#a3618df5a6ae33e76b802eae9cac1e1bd", null ],
-    [ "i_object", "d5/d53/a09365.html#a3029760131a6f50883246afe2533c062", null ],
-    [ "i_phaseMask", "d5/d53/a09365.html#ab94911f3f275de6a9ce9f15f1169c81c", null ]
+    [ "GridReference", "d5/d53/a09365.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
+    [ "~GridReference", "d5/d53/a09365.html#afd6a4f88eb066818afde1b752600bb12", null ],
+    [ "next", "d5/d53/a09365.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
+    [ "sourceObjectDestroyLink", "d5/d53/a09365.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
+    [ "targetObjectBuildLink", "d5/d53/a09365.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
+    [ "targetObjectDestroyLink", "d5/d53/a09365.html#ac4c863d059b5c826e9597056dc7c887a", null ]
 ];

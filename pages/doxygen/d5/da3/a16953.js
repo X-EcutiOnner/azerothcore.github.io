@@ -1,6 +1,7 @@
 var a16953 =
 [
-    [ "npc_concentrated_ballAI", "d8/dca/a16957.html", "d8/dca/a16957" ],
-    [ "npc_concentrated_ball", "d5/da3/a16953.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
-    [ "GetAI", "d5/da3/a16953.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
+    [ "npc_toc_warriorAI", "d5/da3/a16953.html#a6eee7e4fc83ed56a0f775b6892dc8dcb", null ],
+    [ "myCanCast", "d5/da3/a16953.html#ac815e13cbbe9a8833330e15213420c65", null ],
+    [ "UpdateAI", "d5/da3/a16953.html#aa787deda09d9bbf2c54d51e618eb2a82", null ],
+    [ "events", "d5/da3/a16953.html#ae8f9d3f5f2c9172442c7ba4a83275cc1", null ]
 ];

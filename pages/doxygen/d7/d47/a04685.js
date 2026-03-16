@@ -1,5 +1,5 @@
 var a04685 =
 [
-    [ "go_commandscript", "df/d9d/a12146.html", "df/d9d/a12146" ],
-    [ "AddSC_go_commandscript", "d7/d47/a04685.html#a95fcb467686a27e069827ed3775df197", null ]
+    [ "cast_commandscript", "d4/d79/a12085.html", "d4/d79/a12085" ],
+    [ "AddSC_cast_commandscript", "d7/d47/a04685.html#a7b374923a29bdbff68b6e78d2ef4a3e0", null ]
 ];

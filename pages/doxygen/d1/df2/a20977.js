@@ -1,13 +1,7 @@
 var a20977 =
 [
-    [ "npc_ravenous_furbolgAI", "d1/df2/a20977.html#a3e2a0cac8a02d2d6105b06b5c21f1628", null ],
-    [ "DoAction", "d1/df2/a20977.html#a837b442d7812b0c5708995d35c0d45f6", null ],
-    [ "JustDied", "d1/df2/a20977.html#a03e5dd969fcc2e3dcebc714247e18bf2", null ],
-    [ "JustEngagedWith", "d1/df2/a20977.html#a003eb350a11f3f5c2355a58958633f36", null ],
-    [ "JustReachedHome", "d1/df2/a20977.html#a09fc5ba4680c1e5a7a49a81c50cee540", null ],
-    [ "MoveInLineOfSight", "d1/df2/a20977.html#a0b4db9708b9b0288ddb1be2f2205e03a", null ],
-    [ "Reset", "d1/df2/a20977.html#aca5ae47050590ec22e6e929f44e09276", null ],
-    [ "UpdateAI", "d1/df2/a20977.html#ad044c04381a8d61a8fefc55129453ddf", null ],
-    [ "events", "d1/df2/a20977.html#a8bf068c63d7ae10c6edf0af3aab1a6c3", null ],
-    [ "m_pInstance", "d1/df2/a20977.html#aeb0a7644ada4d44e649b4ae45e0d2dc2", null ]
+    [ "HandleEffectCalcPeriodic", "d1/df2/a20977.html#af01eb94174952de52615734055b17c1a", null ],
+    [ "HandleEffectPeriodic", "d1/df2/a20977.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
+    [ "PrepareAuraScript", "d1/df2/a20977.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
+    [ "Register", "d1/df2/a20977.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
 ];

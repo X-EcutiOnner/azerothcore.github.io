@@ -1,6 +1,8 @@
 var a29057 =
 [
-    [ "go_soulwellAI", "df/d37/a29061.html", "df/d37/a29061" ],
-    [ "go_soulwell", "d3/d7e/a29057.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
-    [ "GetAI", "d3/d7e/a29057.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
+    [ "ID", "d3/d7e/a29057.html#a36958c346c8554d9ab1cfb73ac583818", null ],
+    [ "Model", "d3/d7e/a29057.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
+    [ "Origin", "d3/d7e/a29057.html#a684c69add50ee545ee606ae456a93336", null ],
+    [ "OriginFacing", "d3/d7e/a29057.html#a460723250353c7720cd87677991283cf", null ],
+    [ "SoundID", "d3/d7e/a29057.html#aa56be05c7ab4015738e049d75ff365c6", null ]
 ];

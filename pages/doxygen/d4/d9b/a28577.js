@@ -1,10 +1,6 @@
 var a28577 =
 [
-    [ "Exception", "d4/d9b/a28577.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "d4/d9b/a28577.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "Exception", "d4/d9b/a28577.html#a414c3d1a58dc27f84f70db7372c71394", null ],
-    [ "~Exception", "d4/d9b/a28577.html#a1af5fa940a44522664bf8032b0ec164a", null ],
-    [ "getMessage", "d4/d9b/a28577.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
-    [ "getMessage", "d4/d9b/a28577.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
-    [ "message", "d4/d9b/a28577.html#aeb732542a0ba63cde3d9b3bff93f4eda", null ]
+    [ "npc_experience", "d4/d9b/a28577.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
+    [ "OnGossipHello", "d4/d9b/a28577.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
+    [ "OnGossipSelect", "d4/d9b/a28577.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
 ];

@@ -1,6 +1,6 @@
 var a17089 =
 [
-    [ "npc_fos_corrupted_soul_fragmentAI", "d6/d91/a17093.html", "d6/d91/a17093" ],
-    [ "npc_fos_corrupted_soul_fragment", "df/d24/a17089.html#a4caefccfdfee2e906eb94e34bceb064c", null ],
-    [ "GetAI", "df/d24/a17089.html#aed663e0a313223fcaa988b89b1b02df3", null ]
+    [ "boss_eydisAI", "d6/d91/a17093.html", "d6/d91/a17093" ],
+    [ "boss_eydis", "df/d24/a17089.html#aa555f80882499bc4627e622fbb48b2a4", null ],
+    [ "GetAI", "df/d24/a17089.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
 ];

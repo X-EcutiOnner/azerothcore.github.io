@@ -1,6 +1,6 @@
 var a15829 =
 [
-    [ "npc_great_bear_spirit", "d2/d22/a15829.html#a141470a3623aa1152d3505661f1532c8", null ],
-    [ "OnGossipHello", "d2/d22/a15829.html#a2307b8d56fc117d918adc9814fa86f8f", null ],
-    [ "OnGossipSelect", "d2/d22/a15829.html#aae026f4cf8b0de61d36a841dcfdbd92e", null ]
+    [ "npc_death_ravagerAI", "d3/d42/a15833.html", "d3/d42/a15833" ],
+    [ "npc_death_ravager", "d2/d22/a15829.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
+    [ "GetAI", "d2/d22/a15829.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
 ];

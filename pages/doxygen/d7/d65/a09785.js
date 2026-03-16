@@ -1,6 +1,13 @@
 var a09785 =
 [
-    [ "DoorInfo", "d7/d65/a09785.html#a26f4849a1d68df466e6db0ccbb8d001b", null ],
-    [ "bossInfo", "d7/d65/a09785.html#a14f7742a1b272d0cd76dda6ce28cde26", null ],
-    [ "type", "d7/d65/a09785.html#ad77a91752ea10a11c8e73655e63dd5c1", null ]
+    [ "GroupReference", "d7/d65/a09785.html#ab1a008e85d413c67696d4d568a98bde7", null ],
+    [ "~GroupReference", "d7/d65/a09785.html#ab586405a850b0985e6b9f08cc6bdf32e", null ],
+    [ "getSubGroup", "d7/d65/a09785.html#a8217ca810bc251005dfe8a2e3b810e1e", null ],
+    [ "next", "d7/d65/a09785.html#a6f8f406f1209dd7060904d40f5424b41", null ],
+    [ "next", "d7/d65/a09785.html#ac913ec0703c28cda068375d01c9cd72d", null ],
+    [ "setSubGroup", "d7/d65/a09785.html#a303caf55ea463398237e6a825f30b143", null ],
+    [ "sourceObjectDestroyLink", "d7/d65/a09785.html#a458157654c27def9b36b68ae099ca7b3", null ],
+    [ "targetObjectBuildLink", "d7/d65/a09785.html#aa7c8acd113fefc7b6d2b9dff94bb047c", null ],
+    [ "targetObjectDestroyLink", "d7/d65/a09785.html#a4c15e8dbb9f990f9ab66c5e1466d0616", null ],
+    [ "iSubGroup", "d7/d65/a09785.html#a528073b16a119cfa81e6f37c6e72cc03", null ]
 ];

@@ -1,6 +1,6 @@
 var a24293 =
 [
-    [ "HandlePeriodic", "dc/d8b/a24293.html#adc387a1b001119b95179856c030853ad", null ],
-    [ "PrepareAuraScript", "dc/d8b/a24293.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
-    [ "Register", "dc/d8b/a24293.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
+    [ "PrepareSpellScript", "dc/d8b/a24293.html#a190f6dc3d9b336324da29f627a743fe9", null ],
+    [ "Register", "dc/d8b/a24293.html#a3afc8035b852bc31abd3228e88d59819", null ],
+    [ "SetDest", "dc/d8b/a24293.html#a85d66a58597954501305ad5b674cc8a2", null ]
 ];

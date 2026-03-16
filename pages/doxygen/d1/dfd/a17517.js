@@ -1,8 +1,6 @@
 var a17517 =
 [
-    [ "boss_eck", "d1/dfd/a17517.html#a665b54f72e674c8f65dd09daba5413db", null ],
-    [ "InitializeAI", "d1/dfd/a17517.html#a92e5117337d372e1700d074f02c06df6", null ],
-    [ "JustEngagedWith", "d1/dfd/a17517.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
-    [ "MovementInform", "d1/dfd/a17517.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
-    [ "SpellHitTarget", "d1/dfd/a17517.html#a63125d970933d6fa1f196aa28c588f40", null ]
+    [ "instance_pit_of_saron_InstanceScript", "dd/d5f/a17521.html", "dd/d5f/a17521" ],
+    [ "instance_pit_of_saron", "d1/dfd/a17517.html#a84526dbb5ac7eb6ff5ebe24ed339826b", null ],
+    [ "GetInstanceScript", "d1/dfd/a17517.html#a2a1bc125bfe653a1da8b8c36b86aae67", null ]
 ];

@@ -1,8 +1,12 @@
 var a10105 =
 [
-    [ "Finalize", "d1/dd8/a10105.html#abf4c6547449605e703b424d8aa7f46b5", null ],
-    [ "GetMovementGeneratorType", "d1/dd8/a10105.html#aa1eb3228e14c5b145f7074e97ccdab5f", null ],
-    [ "Initialize", "d1/dd8/a10105.html#a68c249f25ef86f2e50d69698e190ed03", null ],
-    [ "Reset", "d1/dd8/a10105.html#a124e4f9506ef6f31e991e905ce38dc43", null ],
-    [ "Update", "d1/dd8/a10105.html#a4d96b744fa55fa11764873a2c4a891c5", null ]
+    [ "MapReference", "d1/dd8/a10105.html#abfbeb2ab5831f1f2a52bcb506318d85e", null ],
+    [ "~MapReference", "d1/dd8/a10105.html#a1e93b44871737991140718322fd1cd69", null ],
+    [ "next", "d1/dd8/a10105.html#a352ef695a8968a17e921861b7d6242c1", null ],
+    [ "next", "d1/dd8/a10105.html#ae0383c7748749a344bb2395fd6e8baa4", null ],
+    [ "nocheck_prev", "d1/dd8/a10105.html#a6cfff18295cf049ff554b0f140680890", null ],
+    [ "nockeck_prev", "d1/dd8/a10105.html#adcb903a8a67951fe3da8e99e270b5c91", null ],
+    [ "sourceObjectDestroyLink", "d1/dd8/a10105.html#ade5aa7b9b67ab49e523e4885460c3917", null ],
+    [ "targetObjectBuildLink", "d1/dd8/a10105.html#acc64fa182a97583a2d9b78d54ec07ca0", null ],
+    [ "targetObjectDestroyLink", "d1/dd8/a10105.html#aaa51bc8d8b47e0bbe5cfa828e4ae6604", null ]
 ];

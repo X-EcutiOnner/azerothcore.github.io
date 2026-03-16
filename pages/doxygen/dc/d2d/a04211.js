@@ -1,7 +1,7 @@
 var a04211 =
 [
-    [ "instance_forge_of_souls", "d9/da1/a17330.html", "d9/da1/a17330" ],
-    [ "instance_forge_of_souls::instance_forge_of_souls_InstanceScript", "d3/dda/a17334.html", "d3/dda/a17334" ],
-    [ "AddSC_instance_forge_of_souls", "dc/d2d/a04211.html#a1ec461fda59c652788d1a38e62cdea20", null ],
-    [ "boundaries", "dc/d2d/a04211.html#aa75d7d0ffe0cef214f982966c33db1c1", null ]
+    [ "UtherBatteredHiltEvent", "dc/dfd/a17461.html", "dc/dfd/a17461" ],
+    [ "instance_halls_of_reflection", "d3/d73/a17465.html", "d3/d73/a17465" ],
+    [ "instance_halls_of_reflection::instance_halls_of_reflection_InstanceMapScript", "d1/d04/a17469.html", "d1/d04/a17469" ],
+    [ "AddSC_instance_halls_of_reflection", "dc/d2d/a04211.html#a0f581d4a1a046db6b8b7729c87457646", null ]
 ];

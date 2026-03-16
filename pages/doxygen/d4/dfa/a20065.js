@@ -1,5 +1,7 @@
 var a20065 =
 [
-    [ "boss_flame_leviathan_overload_device", "d4/dfa/a20065.html#a6cd506d0615b1db9d42bf4d4858f6b05", null ],
-    [ "OnSpellClick", "d4/dfa/a20065.html#a3f313a637fd95e28db1265ae84f349a8", null ]
+    [ "HandleEffectRemove", "d4/dfa/a20065.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
+    [ "PrepareAuraScript", "d4/dfa/a20065.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
+    [ "Register", "d4/dfa/a20065.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
+    [ "Validate", "d4/dfa/a20065.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
 ];

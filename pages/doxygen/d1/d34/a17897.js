@@ -1,5 +1,6 @@
 var a17897 =
 [
-    [ "npc_zafod_boomboxAI", "d1/d34/a17897.html#a6540d8f5787ce1da211123721ef659f3", null ],
-    [ "sGossipSelect", "d1/d34/a17897.html#a6378748a168e4e668f696bd9c6dfbc31", null ]
+    [ "boss_deathbringer_saurfangAI", "d3/df0/a17901.html", "d3/df0/a17901" ],
+    [ "boss_deathbringer_saurfang", "d1/d34/a17897.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
+    [ "GetAI", "d1/d34/a17897.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
 ];

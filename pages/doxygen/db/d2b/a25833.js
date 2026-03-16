@@ -1,7 +1,6 @@
 var a25833 =
 [
-    [ "CalcPeriodic", "db/d2b/a25833.html#a404e5309016cfcaa3071c0216978699e", null ],
-    [ "PrepareAuraScript", "db/d2b/a25833.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
-    [ "Register", "db/d2b/a25833.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
-    [ "AuraEffectHandleModes", "db/d2b/a25833.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
+    [ "HandleDummy", "db/d2b/a25833.html#ad086618ff3caadcf5126e12a1359503f", null ],
+    [ "PrepareSpellScript", "db/d2b/a25833.html#a4b3a79a9ba01226038a1da886f6a2f7c", null ],
+    [ "Register", "db/d2b/a25833.html#a214526ddc986ee829daf9090678e3a7b", null ]
 ];

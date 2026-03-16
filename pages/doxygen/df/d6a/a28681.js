@@ -1,8 +1,7 @@
 var a28681 =
 [
-    [ "TileInfo", "df/d6a/a28681.html#af1a25ded4212f141ab4f32db95709210", null ],
-    [ "m_mapId", "df/d6a/a28681.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
-    [ "m_navMeshParams", "df/d6a/a28681.html#a9d7c909370359edafa8a9b6a91cef354", null ],
-    [ "m_tileX", "df/d6a/a28681.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
-    [ "m_tileY", "df/d6a/a28681.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
+    [ "HandleDummy", "df/d6a/a28681.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
+    [ "PrepareSpellScript", "df/d6a/a28681.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
+    [ "Register", "df/d6a/a28681.html#a3fda4d652c1264b3cfababdd98297c61", null ],
+    [ "Validate", "df/d6a/a28681.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
 ];

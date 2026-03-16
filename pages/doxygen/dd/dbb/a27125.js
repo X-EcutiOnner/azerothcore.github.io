@@ -1,6 +1,8 @@
 var a27125 =
 [
-    [ "go_pirate_day_musicAI", "df/d2f/a27129.html", "df/d2f/a27129" ],
-    [ "go_pirate_day_music", "dd/dbb/a27125.html#aa8d19102357639bd160eae9e90a87505", null ],
-    [ "GetAI", "dd/dbb/a27125.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
+    [ "Load", "dd/dbb/a27125.html#a510f81e77597ef55a87b4f77fa324b2b", null ],
+    [ "OnRemove", "dd/dbb/a27125.html#a8b3a3678d1864e630173ab8eb4d504da", null ],
+    [ "PrepareAuraScript", "dd/dbb/a27125.html#a1a98b0d8059d5ae47688c2c9bd0486bd", null ],
+    [ "Register", "dd/dbb/a27125.html#ae7ed739883e30015e99b6ab5d6cb3f39", null ],
+    [ "Validate", "dd/dbb/a27125.html#a3820e716d20809896c84c1ca781af4d1", null ]
 ];

@@ -1,7 +1,7 @@
 var a27793 =
 [
-    [ "CheckProc", "d5/db8/a27793.html#a2052750b91de67b330a2ae6a190a5d4e", null ],
-    [ "HandleProc", "d5/db8/a27793.html#a5b404a07ccb13cabf5fa6ab90db92129", null ],
-    [ "PrepareAuraScript", "d5/db8/a27793.html#af16eec48ab0f469ca3cefd149bb0d925", null ],
-    [ "Register", "d5/db8/a27793.html#a4f31c76184e4ae5bc03763e04cdac72e", null ]
+    [ "HandleProc", "d5/db8/a27793.html#a5046d3b14fcf4260da937032c043fe42", null ],
+    [ "PrepareAuraScript", "d5/db8/a27793.html#abcc31343fd53057e8116b47dd56033c1", null ],
+    [ "Register", "d5/db8/a27793.html#a9a04291ffb75010ccaa46801d06e2080", null ],
+    [ "Validate", "d5/db8/a27793.html#a13ecea64673f78b4b384a411a7aa8ca7", null ]
 ];

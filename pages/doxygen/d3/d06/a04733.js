@@ -1,5 +1,5 @@
 var a04733 =
 [
-    [ "reload_commandscript", "da/d0a/a12262.html", "da/d0a/a12262" ],
-    [ "AddSC_reload_commandscript", "d3/d06/a04733.html#ab72bc0a4ad4d6f90fa1e05f5591ed68f", null ]
+    [ "lookup_commandscript", "dd/d3b/a12173.html", "dd/d3b/a12173" ],
+    [ "AddSC_lookup_commandscript", "d3/d06/a04733.html#aae75b0f1415c6529e5837e3b27d054f6", null ]
 ];

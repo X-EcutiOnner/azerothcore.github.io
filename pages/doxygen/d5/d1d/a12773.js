@@ -1,10 +1,13 @@
 var a12773 =
 [
-    [ "npc_core_ragerAI", "d5/d1d/a12773.html#a3c5125e0a10043f6181c10ba749fa579", null ],
-    [ "DamageTaken", "d5/d1d/a12773.html#a758eb158eb9d232d74514281028efcb3", null ],
-    [ "Reset", "d5/d1d/a12773.html#acf83e469d3d8108276227a942fda28b3", null ],
-    [ "UpdateAI", "d5/d1d/a12773.html#a2183cf5ab22b737413b86a657fde6d3c", null ],
-    [ "instance", "d5/d1d/a12773.html#a7cfddba62f737214b8cfc7fbffa8c2e2", null ],
-    [ "mangleTimer", "d5/d1d/a12773.html#a081333b967abb3812b9ddae2f933a324", null ],
-    [ "rangeCheckTimer", "d5/d1d/a12773.html#ade427bdd9ec99807b6f190c890136414", null ]
+    [ "boss_nefarian", "d5/d1d/a12773.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
+    [ "JustDied", "d5/d1d/a12773.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
+    [ "JustEngagedWith", "d5/d1d/a12773.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
+    [ "KilledUnit", "d5/d1d/a12773.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
+    [ "MovementInform", "d5/d1d/a12773.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
+    [ "PathEndReached", "d5/d1d/a12773.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
+    [ "Reset", "d5/d1d/a12773.html#a5d687fce34b17e22c605c263395e823b", null ],
+    [ "UpdateAI", "d5/d1d/a12773.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
+    [ "_introDone", "d5/d1d/a12773.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
+    [ "classesPresent", "d5/d1d/a12773.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
 ];

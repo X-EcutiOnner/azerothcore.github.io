@@ -1,7 +1,6 @@
 var a12597 =
 [
-    [ "boss_ebonrocAI", "d3/d17/a12597.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
-    [ "JustEngagedWith", "d3/d17/a12597.html#a2c74e0030b1093d79245978939043d53", null ],
-    [ "MovementInform", "d3/d17/a12597.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
-    [ "UpdateAI", "d3/d17/a12597.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
+    [ "npc_rookery_hatcherAI", "d7/d5b/a12601.html", "d7/d5b/a12601" ],
+    [ "npc_rookery_hatcher", "d3/d17/a12597.html#aa385f8a93384d4db9b92eecd1b152ce0", null ],
+    [ "GetAI", "d3/d17/a12597.html#a76e27f10dd58ec15a8e8f9d579f1c176", null ]
 ];

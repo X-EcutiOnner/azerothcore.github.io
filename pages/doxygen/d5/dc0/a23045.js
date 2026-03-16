@@ -1,6 +1,8 @@
 var a23045 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "dc/d5d/a23049.html", "dc/d5d/a23049" ],
-    [ "instance_serpent_shrine", "d5/dc0/a23045.html#aac4fc7113307805138ba4ce4a9adff09", null ],
-    [ "GetInstanceScript", "d5/dc0/a23045.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
+    [ "Absorb", "d5/dc0/a23045.html#a1c054ce067a620e16611cbb9e784cee1", null ],
+    [ "CalculateAmount", "d5/dc0/a23045.html#abd828dd3493339db9c0613e960792941", null ],
+    [ "PrepareAuraScript", "d5/dc0/a23045.html#a1075139fc82cd8e1b30d4bc0f89fbfe0", null ],
+    [ "Register", "d5/dc0/a23045.html#a85840e7d27a7ed256c45de87f4486d45", null ],
+    [ "Update", "d5/dc0/a23045.html#afbf28fd4eb66899a424e0b542d561656", null ]
 ];

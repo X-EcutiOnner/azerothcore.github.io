@@ -1,6 +1,6 @@
 var a18089 =
 [
-    [ "npc_darnavanAI", "df/db6/a18093.html", "df/db6/a18093" ],
-    [ "npc_darnavan", "d2/d7f/a18089.html#ac358ca123155165395fa5f7ec02c9dab", null ],
-    [ "GetAI", "d2/d7f/a18089.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
+    [ "npc_gunship_mageAI", "df/db6/a18093.html", "df/db6/a18093" ],
+    [ "npc_gunship_mage", "d2/d7f/a18089.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
+    [ "GetAI", "d2/d7f/a18089.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
 ];

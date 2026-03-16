@@ -1,15 +1,17 @@
 var a13101 =
 [
-    [ "boss_tinhead", "dd/d53/a13101.html#aa56375e9b031db15bee833375b7a4405", null ],
-    [ "DoAction", "dd/d53/a13101.html#ab27d93fd2b58e3f1c9e14d5bc6c788ff", null ],
-    [ "EnterEvadeMode", "dd/d53/a13101.html#ae83464d571103a67980b413325988921", null ],
-    [ "JustDied", "dd/d53/a13101.html#a5a641c0e96f271540e4642b5bb4e4c9e", null ],
-    [ "JustEngagedWith", "dd/d53/a13101.html#a74f51f155fdfb9ecc70245380b740d9c", null ],
-    [ "JustReachedHome", "dd/d53/a13101.html#a6c930c6cb2116cf16f3e4002e333f585", null ],
-    [ "KilledUnit", "dd/d53/a13101.html#ac0f281f1e4b985174f4c5c9b7fcf278d", null ],
-    [ "Reset", "dd/d53/a13101.html#ac22d86f58d59c81429e45fba9393fd37", null ],
-    [ "UpdateAI", "dd/d53/a13101.html#aec0d558cf82eb6bbf0d5626126b10233", null ],
-    [ "_rustCount", "dd/d53/a13101.html#a48901503085fd3d4ee5624626a526ce2", null ],
-    [ "_scheduler", "dd/d53/a13101.html#ababc9f32611a9ea35ef41725bce22df5", null ],
-    [ "instance", "dd/d53/a13101.html#a00b2ebbb009c700e38bbffbb035b4bfa", null ]
+    [ "boss_attumen", "dd/d53/a13101.html#a394925c2a44b0bfe8931ae88dd9868ae", null ],
+    [ "CanMeleeHit", "dd/d53/a13101.html#ae685929086090928802854cc93f9934a", null ],
+    [ "DamageTaken", "dd/d53/a13101.html#a0b426b760d9ace05211c3383e7628022", null ],
+    [ "EnterEvadeMode", "dd/d53/a13101.html#af00f91294c04d0fe932c922fd270c5dc", null ],
+    [ "Initialize", "dd/d53/a13101.html#ac89445e6a04c2d8cd04e53f4aea30c58", null ],
+    [ "IsSummonedBy", "dd/d53/a13101.html#a1fa6827c323cbda15e2a438bc376e74c", null ],
+    [ "JustDied", "dd/d53/a13101.html#a375a95d46f8db8a53ea6420dd557855e", null ],
+    [ "JustSummoned", "dd/d53/a13101.html#af91018e54244864ca4cd1b9d40c569df", null ],
+    [ "KilledUnit", "dd/d53/a13101.html#ad167a1ec5ff737ad77b0c492efc022f0", null ],
+    [ "Reset", "dd/d53/a13101.html#ab8815ed9b1068e748e43346725cd9281", null ],
+    [ "ScheduleTasks", "dd/d53/a13101.html#ae63d0a3c7ae4ad755f091f2d31342a57", null ],
+    [ "SpellHit", "dd/d53/a13101.html#a1181ae1d50d6c52483b0d90423997c90", null ],
+    [ "UpdateAI", "dd/d53/a13101.html#aac982f13b35e7c37b49a4e76ace5fccd", null ],
+    [ "_phase", "dd/d53/a13101.html#a8a668537dc5b7c01e6d9d91c67d6da72", null ]
 ];

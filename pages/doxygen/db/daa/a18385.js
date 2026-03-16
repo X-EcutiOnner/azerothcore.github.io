@@ -1,6 +1,8 @@
 var a18385 =
 [
-    [ "CheckProc", "db/daa/a18385.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "db/daa/a18385.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "db/daa/a18385.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "FilterTargets", "db/daa/a18385.html#a1b125c887db7d2030838d0ac8e38c4e3", null ],
+    [ "HandleScript", "db/daa/a18385.html#a4c7be5a65b1fb7e8db62691f5ef6b38d", null ],
+    [ "PrepareSpellScript", "db/daa/a18385.html#ae6b30b8da52141c385f985435cac99a1", null ],
+    [ "Register", "db/daa/a18385.html#a17dc25670b0f21525a01f6e7aa7eb572", null ],
+    [ "Validate", "db/daa/a18385.html#accff1f03fb7c0d56cb197bb18348635c", null ]
 ];

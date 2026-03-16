@@ -1,7 +1,6 @@
 var a10945 =
 [
-    [ "SwapInventoryItem", "d7/d4e/a10945.html#a26e2887fe352de8a8c5d9d65ba598460", null ],
-    [ "Read", "d7/d4e/a10945.html#ae81c9c5566e1f7e1c8d6915f9620d5b4", null ],
-    [ "DestinationSlot", "d7/d4e/a10945.html#aaaca9b79b11d152cf1c4b273e8f47679", null ],
-    [ "SourceSlot", "d7/d4e/a10945.html#a59117b7ce21919acc55b3da079050dc3", null ]
+    [ "GuildPromoteMember", "d7/d4e/a10945.html#af623a381aa80e827c2c29987501626ae", null ],
+    [ "Read", "d7/d4e/a10945.html#a3350c1a8c81aa1368a254288849b462b", null ],
+    [ "Promotee", "d7/d4e/a10945.html#af8addf6e9bc45364f595582e8f285cde", null ]
 ];

@@ -1,12 +1,13 @@
 var a23373 =
 [
-    [ "boss_watchkeeper_gargolmar", "d6/dbd/a23373.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
-    [ "JustDied", "d6/dbd/a23373.html#a39be5796b39bea913105fc48dda0d186", null ],
-    [ "JustEngagedWith", "d6/dbd/a23373.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
-    [ "KilledUnit", "d6/dbd/a23373.html#a22736c2680f41cfd3443a76cd4de9352", null ],
-    [ "MoveInLineOfSight", "d6/dbd/a23373.html#adec9837fdb2595ce57acffb279a7d011", null ],
-    [ "Reset", "d6/dbd/a23373.html#a356b7fe9071b073b74b21913e35e7408", null ],
-    [ "UpdateAI", "d6/dbd/a23373.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
-    [ "_hasSpoken", "d6/dbd/a23373.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
-    [ "_taunted", "d6/dbd/a23373.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
+    [ "boss_ghazan", "d6/dbd/a23373.html#ae730362fcf3606c67b6b85147de98fb6", null ],
+    [ "DoAction", "d6/dbd/a23373.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
+    [ "InitializeAI", "d6/dbd/a23373.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
+    [ "JustEngagedWith", "d6/dbd/a23373.html#ad4136f0f63d267284f36756793c0efa7", null ],
+    [ "JustReachedHome", "d6/dbd/a23373.html#af9f2dd854036d5c8b9c6703499836199", null ],
+    [ "MovementInform", "d6/dbd/a23373.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
+    [ "Reset", "d6/dbd/a23373.html#afc9522a26060643f2f9d25a8a98691b7", null ],
+    [ "UpdateAI", "d6/dbd/a23373.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
+    [ "_movedToPlatform", "d6/dbd/a23373.html#aa6c0c391355ac0b698d67796efd63062", null ],
+    [ "_reachedPlatform", "d6/dbd/a23373.html#af3476318b4721bd52facaf735eabb1f9", null ]
 ];

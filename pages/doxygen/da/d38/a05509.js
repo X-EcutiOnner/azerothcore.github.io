@@ -1,8 +1,5 @@
 var a05509 =
 [
-    [ "GeneralLock", "da/d38/a05509.html#ad0fac66b181e166108c871274bce7a93", null ],
-    [ "~GeneralLock", "da/d38/a05509.html#a455c73434c26cac8bf9761900d648589", null ],
-    [ "GeneralLock", "da/d38/a05509.html#aecc7bf4d8ac0c4bc16a89a16e196330c", null ],
-    [ "operator=", "da/d38/a05509.html#a876a9be3c642991811028892bcae42c4", null ],
-    [ "i_mutex", "da/d38/a05509.html#a80b98e278d3afb1867ff5f159eda5055", null ]
+    [ "_elements", "da/d38/a05509.html#adca71d306b9b5ee6b1dc0dc75cec1f2c", null ],
+    [ "_TailElements", "da/d38/a05509.html#a7d3b640a8d68089436c3792b3db088f1", null ]
 ];

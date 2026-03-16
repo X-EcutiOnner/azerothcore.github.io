@@ -1,5 +1,5 @@
 var a21533 =
 [
-    [ "go_the_pearl_of_the_depths", "d0/d13/a21533.html#a0e09ddcde0eef050400d90e9a268823a", null ],
-    [ "OnGossipHello", "d0/d13/a21533.html#a745ea14136a78759a3afd7714c6d784a", null ]
+    [ "npc_nerubar_victimAI", "d0/d13/a21533.html#a494976030dd48544742dd14fc09ffdbd", null ],
+    [ "JustDied", "d0/d13/a21533.html#abe3813465cad08800708726cb7ffa021", null ]
 ];

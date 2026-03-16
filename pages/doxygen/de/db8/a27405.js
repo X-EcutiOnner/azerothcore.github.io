@@ -1,6 +1,6 @@
 var a27405 =
 [
-    [ "spawnedCreatureEntry", "de/db8/a27405.html#a32b390dfff99d5fd3c49359779718af4", null ],
-    [ "spawnType", "de/db8/a27405.html#a056dabf4092da4ef3155a661607ca772", null ],
-    [ "thisCreatureEntry", "de/db8/a27405.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
+    [ "HandlePeriodic", "de/db8/a27405.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
+    [ "PrepareAuraScript", "de/db8/a27405.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
+    [ "Register", "de/db8/a27405.html#ac90afe9f5d9d55faba2282a875469311", null ]
 ];

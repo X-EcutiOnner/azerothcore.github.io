@@ -1,6 +1,7 @@
 var a21565 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "df/d80/a21565.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
-    [ "MovementInform", "df/d80/a21565.html#a999bc868db485578fcc70ae7e056b778", null ],
-    [ "Reset", "df/d80/a21565.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
+    [ "npc_mootoo_the_youngerAI", "df/d80/a21565.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "df/d80/a21565.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "df/d80/a21565.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "df/d80/a21565.html#ac758a992ed0d62a272930c84d617b348", null ]
 ];

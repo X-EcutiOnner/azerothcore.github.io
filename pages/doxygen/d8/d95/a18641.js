@@ -1,6 +1,6 @@
 var a18641 =
 [
-    [ "ModDestHeight", "d8/d95/a18641.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
-    [ "PrepareSpellScript", "d8/d95/a18641.html#a288f8917d73be30234e465778b1f6544", null ],
-    [ "Register", "d8/d95/a18641.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
+    [ "PeriodicTick", "d8/d95/a18641.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
+    [ "PrepareAuraScript", "d8/d95/a18641.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
+    [ "Register", "d8/d95/a18641.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
 ];

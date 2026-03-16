@@ -1,6 +1,5 @@
 var a24173 =
 [
-    [ "HandleDamageCalc", "d4/d2c/a24173.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
-    [ "PrepareSpellScript", "d4/d2c/a24173.html#a183477b6269dbc705a10e60ab36c13b1", null ],
-    [ "Register", "d4/d2c/a24173.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
+    [ "creature", "d4/d2c/a24173.html#ab4b8f837dbfb42bcbb161f81f846aad9", null ],
+    [ "Timer", "d4/d2c/a24173.html#a2be497dc190c1f01f939e12083739882", null ]
 ];

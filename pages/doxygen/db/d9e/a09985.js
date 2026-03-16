@@ -1,7 +1,7 @@
 var a09985 =
 [
-    [ "LFGUpdateRequest", "db/d9e/a09985.html#a85900fc44d5dfb5595fbe7dc3422dfaa", null ],
-    [ "call", "db/d9e/a09985.html#a15258001db5870a0f52bb0c72cba3587", null ],
-    [ "m_diff", "db/d9e/a09985.html#a27e818e5d985ac91be6eca14a1ebd73f", null ],
-    [ "m_updater", "db/d9e/a09985.html#a1bb4423241495aebab83ebc1acf66510", null ]
+    [ "LootView", "db/d9e/a09985.html#a4cfc8ca1034e941a85d2955f38b2e894", null ],
+    [ "loot", "db/d9e/a09985.html#ac95fa4805c79923b292e8984b00de929", null ],
+    [ "permission", "db/d9e/a09985.html#a33d7eeebd6fbc854300275a4138d9030", null ],
+    [ "viewer", "db/d9e/a09985.html#af9a6926c6c871dee245f876038e49995", null ]
 ];

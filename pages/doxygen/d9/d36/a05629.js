@@ -1,6 +1,7 @@
 var a05629 =
 [
-    [ "~AsyncProcessResult", "d9/d36/a05629.html#a16f0ce13c7401ce07e91b349c91365e0", null ],
-    [ "GetFutureResult", "d9/d36/a05629.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8", null ],
-    [ "Terminate", "d9/d36/a05629.html#af3951c38d2b368c15c0ac7d415b96ebd", null ]
+    [ "Node", "d9/d36/a05629.html#aa4dcacffb32f3e739604ab6ef39b5031", null ],
+    [ "Node", "d9/d36/a05629.html#aa5f116e3d84286f313ee8730bde7b936", null ],
+    [ "Data", "d9/d36/a05629.html#aa7cdbff9817871b548fe639e0956f1f4", null ],
+    [ "Next", "d9/d36/a05629.html#a7508e249dd3ff2b3ac291d67ddf87a71", null ]
 ];

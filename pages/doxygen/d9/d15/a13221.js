@@ -1,6 +1,11 @@
 var a13221 =
 [
-    [ "boss_garaxxas", "d9/d15/a13221.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
-    [ "JustEngagedWith", "d9/d15/a13221.html#aebfd7b63d714468ed69e920fb89c345d", null ],
-    [ "Reset", "d9/d15/a13221.html#a56e6489ce49971cb066444888355626e", null ]
+    [ "npc_demon_chain", "d9/d15/a13221.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
+    [ "AttackStart", "d9/d15/a13221.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
+    [ "IsSummonedBy", "d9/d15/a13221.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
+    [ "JustDied", "d9/d15/a13221.html#a35d1b7de8612f11cdf61b9d663990686", null ],
+    [ "JustEngagedWith", "d9/d15/a13221.html#a9743ebc31c5159a03889bfd40b09d749", null ],
+    [ "MoveInLineOfSight", "d9/d15/a13221.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
+    [ "Reset", "d9/d15/a13221.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
+    [ "sacrificeGUID", "d9/d15/a13221.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
 ];

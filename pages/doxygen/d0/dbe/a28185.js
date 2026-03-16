@@ -1,5 +1,7 @@
 var a28185 =
 [
-    [ "id", "d0/dbe/a28185.html#a22e48015dd880199e131089e35b1ce05", null ],
-    [ "spellId", "d0/dbe/a28185.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
+    [ "go_bear_trapAI", "d0/dbe/a28185.html#ad97484d73bcea6a84909004c099eec34", null ],
+    [ "Initialize", "d0/dbe/a28185.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
+    [ "UpdateAI", "d0/dbe/a28185.html#a8901922d736bb0391da5618593ced5c5", null ],
+    [ "_events", "d0/dbe/a28185.html#a59f37a130326818dd922763ae9058fe7", null ]
 ];

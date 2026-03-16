@@ -1,6 +1,8 @@
 var a10801 =
 [
-    [ "GuildDemoteMember", "dc/da0/a10801.html#aa3d68021828c516d7b1995811e8df7d7", null ],
-    [ "Read", "dc/da0/a10801.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
-    [ "Demotee", "dc/da0/a10801.html#a60c7e56c201d794fb473a62fccc160bb", null ]
+    [ "PlayedTime", "dc/da0/a10801.html#abc477d90a27dc41a7c643448302464cf", null ],
+    [ "Write", "dc/da0/a10801.html#a147071f2545cd91213d6c92dab7438c7", null ],
+    [ "LevelTime", "dc/da0/a10801.html#a2bf832827f9497a59bbfac714799b4b5", null ],
+    [ "TotalTime", "dc/da0/a10801.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
+    [ "TriggerScriptEvent", "dc/da0/a10801.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
 ];

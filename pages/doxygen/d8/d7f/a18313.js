@@ -1,7 +1,6 @@
 var a18313 =
 [
-    [ "HandleScript", "d8/d7f/a18313.html#a802f667b20bccd3395c233482aa2485b", null ],
-    [ "PrepareSpellScript", "d8/d7f/a18313.html#ad371e6387d5df422eaa05acc9efe2f46", null ],
-    [ "Register", "d8/d7f/a18313.html#a730fded490df68f501010f952ceea40b", null ],
-    [ "Validate", "d8/d7f/a18313.html#a8ec4a10d4d3c348029256fec28a19ed6", null ]
+    [ "UnboundPlagueTargetSelector", "d8/d7f/a18313.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
+    [ "operator()", "d8/d7f/a18313.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
+    [ "_source", "d8/d7f/a18313.html#a87eb77615e443ccec373d571708a156a", null ]
 ];

@@ -1,4 +1,5 @@
 var a08149 =
 [
-    [ "Name", "d2/d5d/a08149.html#a624a1c1204cbc15acfc810a7720b8ea0", null ]
+    [ "number", "d2/d5d/a08149.html#af111e542d7a276e27d2b14757293bc42", null ],
+    [ "offset_elements", "d2/d5d/a08149.html#ad633b2e9afc82762c6b43675844f8fea", null ]
 ];

@@ -1,5 +1,6 @@
 var a27209 =
 [
-    [ "go_soulwellAI", "db/d34/a27209.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
-    [ "GossipHello", "db/d34/a27209.html#a3df147478af8930d9b6108a183e9478f", null ]
+    [ "PrepareSpellScript", "db/d34/a27209.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
+    [ "Register", "db/d34/a27209.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
+    [ "SetDest", "db/d34/a27209.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
 ];

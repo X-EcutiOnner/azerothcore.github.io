@@ -1,7 +1,6 @@
 var a14125 =
 [
-    [ "npc_daphne_stilwellAI", "d5/df6/a14129.html", "d5/df6/a14129" ],
-    [ "npc_daphne_stilwell", "d3/d68/a14125.html#ad844c5f0409936d7068ee55271506041", null ],
-    [ "GetAI", "d3/d68/a14125.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
-    [ "OnQuestAccept", "d3/d68/a14125.html#ad7b293efc802506a825f202e34cb0f4d", null ]
+    [ "npc_corporal_keeshanAI", "d5/df6/a14129.html", "d5/df6/a14129" ],
+    [ "npc_corporal_keeshan", "d3/d68/a14125.html#a0ca9459a7f283e040f14e0052762f587", null ],
+    [ "GetAI", "d3/d68/a14125.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
 ];

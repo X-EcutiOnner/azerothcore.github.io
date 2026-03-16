@@ -1,6 +1,7 @@
 var a15941 =
 [
-    [ "npc_aquementasAI", "da/d3b/a15945.html", "da/d3b/a15945" ],
-    [ "npc_aquementas", "dc/db6/a15941.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
-    [ "GetAI", "dc/db6/a15941.html#a8a071b3073d69306feb84aca347a22c8", null ]
+    [ "HandleEffectPeriodic", "dc/db6/a15941.html#ac47c157dbd193bc131d281666ae2097f", null ],
+    [ "PrepareAuraScript", "dc/db6/a15941.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
+    [ "Register", "dc/db6/a15941.html#ac3c158fdddd007d1d7986470032bfc25", null ],
+    [ "Validate", "dc/db6/a15941.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
 ];

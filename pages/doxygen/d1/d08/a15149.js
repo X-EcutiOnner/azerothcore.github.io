@@ -1,14 +1,12 @@
 var a15149 =
 [
-    [ "boss_captain_skarloc", "d1/d08/a15149.html#a196477160ab6d07dc644ddadf756a1e0", null ],
-    [ "InitializeAI", "d1/d08/a15149.html#a1c67fb99984f666b63f8f79c6783341d", null ],
-    [ "JustDied", "d1/d08/a15149.html#aca0d536010a53efdf9270146f15f9058", null ],
-    [ "JustEngagedWith", "d1/d08/a15149.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
-    [ "JustSummoned", "d1/d08/a15149.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
-    [ "KilledUnit", "d1/d08/a15149.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
-    [ "MovementInform", "d1/d08/a15149.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
-    [ "Reset", "d1/d08/a15149.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
-    [ "UpdateAI", "d1/d08/a15149.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
-    [ "_spawnedAdds", "d1/d08/a15149.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
-    [ "summons", "d1/d08/a15149.html#a83a9e5971411de1c136cbad91f73f487", null ]
+    [ "boss_kazrogal", "d1/d08/a15149.html#a2b3cc0e99c478c55f907898fbec2b8b2", null ],
+    [ "DoAction", "d1/d08/a15149.html#a7721debceeefaeb69e71855b8e8742f8", null ],
+    [ "GetMarkRepeatTimer", "d1/d08/a15149.html#a0b54f8c935d09367d7e6b7dbf6c4ce61", null ],
+    [ "JustDied", "d1/d08/a15149.html#abc839abddfbb5fb1e1dd3a67e0b661cb", null ],
+    [ "JustEngagedWith", "d1/d08/a15149.html#a2c0aafd271b2500d32f5add7e75cd990", null ],
+    [ "KilledUnit", "d1/d08/a15149.html#ab1439114a84d85947106d979f38d12fa", null ],
+    [ "Reset", "d1/d08/a15149.html#acb9f4ee5d97b43082bf6fc0c424685ab", null ],
+    [ "_markCounter", "d1/d08/a15149.html#a54ef8b88bf62e260e19a964d1926ef4a", null ],
+    [ "_recentlySpoken", "d1/d08/a15149.html#ad7401abae1b25d58ed93cc800d75bc26", null ]
 ];

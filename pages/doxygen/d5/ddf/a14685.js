@@ -1,6 +1,6 @@
 var a14685 =
 [
-    [ "gameobjectId", "d5/ddf/a14685.html#a5cebf652fccc66cb5f98968036405d14", null ],
-    [ "spawnIndex", "d5/ddf/a14685.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
-    [ "timestamp", "d5/ddf/a14685.html#a0c49f62b35e906637890fee896c74951", null ]
+    [ "HandleEffectRemove", "d5/ddf/a14685.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
+    [ "PrepareAuraScript", "d5/ddf/a14685.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
+    [ "Register", "d5/ddf/a14685.html#aa436788f638fedacb217ca508da5f426", null ]
 ];

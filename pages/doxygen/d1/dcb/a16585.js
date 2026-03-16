@@ -1,7 +1,6 @@
 var a16585 =
 [
-    [ "HandleAfterEffectAbsorb", "d1/dcb/a16585.html#ab3d9f3679931b4b3b29713602d08701d", null ],
-    [ "PrepareAuraScript", "d1/dcb/a16585.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
-    [ "Register", "d1/dcb/a16585.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
-    [ "Validate", "d1/dcb/a16585.html#a87750183d2b2d6adb67bba4a1f767029", null ]
+    [ "npc_orb_carrierAI", "de/dd2/a16589.html", "de/dd2/a16589" ],
+    [ "npc_orb_carrier", "d1/dcb/a16585.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
+    [ "GetAI", "d1/dcb/a16585.html#ab5b7bbffc43b840c686dc889805ea401", null ]
 ];

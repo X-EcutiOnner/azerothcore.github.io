@@ -1,15 +1,20 @@
 var a13165 =
 [
-    [ "npc_image_of_medivhAI", "d8/da4/a13165.html#a1afe3245dc18db3c0bf6801b5ca20d31", null ],
-    [ "JustEngagedWith", "d8/da4/a13165.html#a1013be426b3567d8cbd1c45debc914c5", null ],
-    [ "NextStep", "d8/da4/a13165.html#a87160b37ba61af4866fe3f410813fe9f", null ],
-    [ "Reset", "d8/da4/a13165.html#af2e7dd7f1038bb5662fe7375a7e052c4", null ],
-    [ "UpdateAI", "d8/da4/a13165.html#a321d689d645b4630e2e93e6251d5130c", null ],
-    [ "ArcanagosGUID", "d8/da4/a13165.html#a877c693b6ac736aa874926d8efe0d79a", null ],
-    [ "ATimer", "d8/da4/a13165.html#a28aef0767b6adb0ccf0479dd50dc11a8", null ],
-    [ "EventStarted", "d8/da4/a13165.html#a9a662b435218a3e13ca58eb4a6b3af86", null ],
-    [ "instance", "d8/da4/a13165.html#a2e02aa8d441426aa51f46121eec0becb", null ],
-    [ "MTimer", "d8/da4/a13165.html#a16c3f6d5bd1cc288590bd096233e0bfb", null ],
-    [ "Step", "d8/da4/a13165.html#a9d7b9bdcf9e185284dba5251a0deb0b3", null ],
-    [ "YellTimer", "d8/da4/a13165.html#a34ad7cabe4cb86e23deb30ca0ce77db0", null ]
+    [ "boss_shade_of_aran", "d8/da4/a13165.html#a581351036c7e09de447f065a4ef82e03", null ],
+    [ "AttackStart", "d8/da4/a13165.html#a140ec9e0f968c42f9f003d9a52693884", null ],
+    [ "CheckAranInRoom", "d8/da4/a13165.html#a64779949875ab0d812746adb78123f7a", null ],
+    [ "DamageTaken", "d8/da4/a13165.html#a837e9284a2e2b3fe5467cca4fd09c60f", null ],
+    [ "JustDied", "d8/da4/a13165.html#ac79c249652f1de37b0c7d31a86dd0e51", null ],
+    [ "JustEngagedWith", "d8/da4/a13165.html#a11a9b1a8a24b9bc9965d655a6f856ef0", null ],
+    [ "KilledUnit", "d8/da4/a13165.html#ad7470576e9dd08d5fc47259d8de943b2", null ],
+    [ "OnPowerUpdate", "d8/da4/a13165.html#a3ac487d431bc444cd8c39bb813260737", null ],
+    [ "Reset", "d8/da4/a13165.html#a03def93f3e3f33d4f760e9f7c7c85d86", null ],
+    [ "SetGUID", "d8/da4/a13165.html#ad9c71eebc6ba734e1e0d2684a19f1cda", null ],
+    [ "UpdateAI", "d8/da4/a13165.html#ae80c5bc869136e2ce2c5b4f6cfdc6ea4", null ],
+    [ "_atieshReaction", "d8/da4/a13165.html#a88c6677edc8a37ac1e36fe6f1688d847", null ],
+    [ "_currentNormalSpell", "d8/da4/a13165.html#a4384769fb6eb868c612ed34cbb6b2409", null ],
+    [ "_drinking", "d8/da4/a13165.html#a84a6941826c6c2f1f70965e8909f796e", null ],
+    [ "_drinkScheduler", "d8/da4/a13165.html#a47e88dcf0027bd197350df7f80bc42d3", null ],
+    [ "_hasDrunk", "d8/da4/a13165.html#a93bec133a8a1ba41aa9eb86ff19e5eca", null ],
+    [ "_lastSuperSpell", "d8/da4/a13165.html#afe99b96811ff1e61ea6bbdce42fe8d7d", null ]
 ];

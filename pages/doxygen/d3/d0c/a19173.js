@@ -1,6 +1,8 @@
 var a19173 =
 [
-    [ "npc_icc_gauntlet_controllerAI", "de/d07/a19177.html", "de/d07/a19177" ],
-    [ "npc_icc_gauntlet_controller", "d3/d0c/a19173.html#a5fc4c941842e25bc3da93686e588627b", null ],
-    [ "GetAI", "d3/d0c/a19173.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
+    [ "npc_arthas_teleport_visualAI", "d3/d0c/a19173.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
+    [ "Reset", "d3/d0c/a19173.html#a27155b8880a2a86b733bcd074e977b59", null ],
+    [ "UpdateAI", "d3/d0c/a19173.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
+    [ "_events", "d3/d0c/a19173.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
+    [ "_instance", "d3/d0c/a19173.html#a25bc023e061a0845421a652b571a6e1e", null ]
 ];

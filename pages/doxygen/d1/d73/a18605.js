@@ -1,9 +1,6 @@
 var a18605 =
 [
-    [ "npc_icc_ice_sphereAI", "d1/d73/a18605.html#a685f45e5cd15b005646e596ff61088e8", null ],
-    [ "DoAction", "d1/d73/a18605.html#ac056ecdd93bc716964054f38ab81014e", null ],
-    [ "SelectNewTarget", "d1/d73/a18605.html#a9274e05e45c07d14c7df5c623e2769d4", null ],
-    [ "UpdateAI", "d1/d73/a18605.html#a5a4117de9e45cea9e9086b3b4daed404", null ],
-    [ "targetGUID", "d1/d73/a18605.html#a3e202f9bde2a202d329066f7aab8897c", null ],
-    [ "timer", "d1/d73/a18605.html#a42842e92926e18ef2589687d81a7d0d4", null ]
+    [ "npc_rimefangAI", "d3/db3/a18609.html", "d3/db3/a18609" ],
+    [ "npc_rimefang", "d1/d73/a18605.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
+    [ "GetAI", "d1/d73/a18605.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
 ];

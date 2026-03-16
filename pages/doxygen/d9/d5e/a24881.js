@@ -1,10 +1,8 @@
 var a24881 =
 [
-    [ "Load", "d9/d5e/a24881.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
-    [ "OnApply", "d9/d5e/a24881.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
-    [ "OnRemove", "d9/d5e/a24881.html#a29834c598d6ef8299d54e48a3461e603", null ],
-    [ "PrepareAuraScript", "d9/d5e/a24881.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
-    [ "Register", "d9/d5e/a24881.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
-    [ "Validate", "d9/d5e/a24881.html#aeaf16594f569af671d221234a4aa2c8b", null ],
-    [ "prevItem", "d9/d5e/a24881.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
+    [ "CheckProc", "d9/d5e/a24881.html#ab960abbaa9d2728ff1c471e491844e2f", null ],
+    [ "HandleProc", "d9/d5e/a24881.html#a23746c343ca01160b73822e3457514d5", null ],
+    [ "PrepareAuraScript", "d9/d5e/a24881.html#a2ddb4cb53c7aabb8e1e09eb1036fafe0", null ],
+    [ "Register", "d9/d5e/a24881.html#a78dbfa8833c8f8958e8e9a38cc9812a7", null ],
+    [ "Validate", "d9/d5e/a24881.html#a715de16d0510d8b2cbd9e281c3e3274a", null ]
 ];

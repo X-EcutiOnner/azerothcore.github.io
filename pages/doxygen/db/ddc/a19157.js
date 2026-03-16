@@ -1,14 +1,6 @@
 var a19157 =
 [
-    [ "npc_icc_vengeful_fleshreaperAI", "db/ddc/a19157.html#a4a459289a55871990abc0adc4ba8278c", null ],
-    [ "AttackStart", "db/ddc/a19157.html#a3412c5664c1c1354b615e8f798824b91", null ],
-    [ "JustReachedHome", "db/ddc/a19157.html#a161fd53eca71cb0a3b8fb8d483b7e49b", null ],
-    [ "MoveInLineOfSight", "db/ddc/a19157.html#acfbaa73491940a916f8d0a0b852bcc61", null ],
-    [ "MovementInform", "db/ddc/a19157.html#ad14a1d8cfe749d54a801a3902aa49e1d", null ],
-    [ "Reset", "db/ddc/a19157.html#aa60d5d2d534aa6e9fe7c77703bab5fce", null ],
-    [ "UpdateAI", "db/ddc/a19157.html#a8946357cad01050641bcdf51edce192f", null ],
-    [ "currPipeWP", "db/ddc/a19157.html#af8a298ccbd6f22a0a4416ed6cb082e67", null ],
-    [ "events", "db/ddc/a19157.html#aa39171910383c74583f24663d6c23f3b", null ],
-    [ "forward", "db/ddc/a19157.html#a28eb6d3f007f45b9db4eafafe71b779c", null ],
-    [ "needMove", "db/ddc/a19157.html#ae08f9c54d08b0eae5ad71d69f06a6544", null ]
+    [ "npc_impaling_spearAI", "d7/d4a/a19161.html", "d7/d4a/a19161" ],
+    [ "npc_impaling_spear", "db/ddc/a19157.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
+    [ "GetAI", "db/ddc/a19157.html#aad49164a3e7541b755c1c622b996bb9a", null ]
 ];

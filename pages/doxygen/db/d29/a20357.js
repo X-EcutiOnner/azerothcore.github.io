@@ -1,5 +1,7 @@
 var a20357 =
 [
-    [ "achievement_i_have_the_coolest_friends", "db/d29/a20357.html#a87fd2d5702fe33ee8b09042c66897636", null ],
-    [ "OnCheck", "db/d29/a20357.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
+    [ "boss_freya_lifebinder", "db/d29/a20357.html#a1784d6e975192a7442cabb14f688737d", null ],
+    [ "Reset", "db/d29/a20357.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
+    [ "UpdateAI", "db/d29/a20357.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
+    [ "_healTimer", "db/d29/a20357.html#a5545c496e9a1f9cc0da2824f695aa30e", null ]
 ];

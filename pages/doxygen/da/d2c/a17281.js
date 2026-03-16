@@ -1,9 +1,8 @@
 var a17281 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "da/d2c/a17281.html#acd33d4811521f6d41bce21270198db45", null ],
-    [ "JustDied", "da/d2c/a17281.html#a49eb1c20ef810d0e4aeea8f99fcabebb", null ],
-    [ "JustEngagedWith", "da/d2c/a17281.html#a54378daf294fcbee4ba1abf14927cc52", null ],
-    [ "Reset", "da/d2c/a17281.html#a20742bb0fe610367283cd5dc7e8b36ff", null ],
-    [ "UpdateAI", "da/d2c/a17281.html#af9baaf71fa53a42ab5d1507fdd6aa9fd", null ],
-    [ "events", "da/d2c/a17281.html#abb39744cdcdc8e1fbf8fd06508af35f9", null ]
+    [ "npc_fos_leaderAI", "de/d7d/a17285.html", "de/d7d/a17285" ],
+    [ "npc_fos_leader", "da/d2c/a17281.html#a4223072bc180e990ff9e01bf772def5b", null ],
+    [ "GetAI", "da/d2c/a17281.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
+    [ "OnGossipHello", "da/d2c/a17281.html#a3858054505d439902624378b9355f40d", null ],
+    [ "OnGossipSelect", "da/d2c/a17281.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
 ];

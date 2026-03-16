@@ -1,5 +1,6 @@
 var a20105 =
 [
-    [ "go_ulduar_tower", "db/d06/a20105.html#afc1add1a0543921f52afe1eb907f5de3", null ],
-    [ "OnDestroyed", "db/d06/a20105.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
+    [ "go_celestial_planetarium_accessAI", "db/d46/a20109.html", "db/d46/a20109" ],
+    [ "go_celestial_planetarium_access", "db/d06/a20105.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
+    [ "GetAI", "db/d06/a20105.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
 ];

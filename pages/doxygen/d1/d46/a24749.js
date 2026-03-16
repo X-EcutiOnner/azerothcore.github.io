@@ -1,6 +1,10 @@
 var a24749 =
 [
-    [ "ModDest", "d1/d46/a24749.html#a99d08536d2555390a7399a6d2fc199e6", null ],
-    [ "PrepareSpellScript", "d1/d46/a24749.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
-    [ "Register", "d1/d46/a24749.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
+    [ "CalculateAPAmount", "d1/d46/a24749.html#af1d4558f6132d3c2abc71ec1dabee2e8", null ],
+    [ "CalculateResistanceAmount", "d1/d46/a24749.html#a5d6e7b92f4335176388a877e72c0e92c", null ],
+    [ "CalculateSPAmount", "d1/d46/a24749.html#a40c96996d19b9f7eeed3fda4271b9f87", null ],
+    [ "CalculateStatAmount", "d1/d46/a24749.html#ae4f96de2c558a4b0fd7659442aa3d92b", null ],
+    [ "HandleEffectApply", "d1/d46/a24749.html#aeebb14424a6ae336edd4b66d824d648a", null ],
+    [ "PrepareAuraScript", "d1/d46/a24749.html#a7e3dc351574f6d6ad3424eb7df7092df", null ],
+    [ "Register", "d1/d46/a24749.html#ab5713a34ced4d2e2a67b43e98d7a55c0", null ]
 ];

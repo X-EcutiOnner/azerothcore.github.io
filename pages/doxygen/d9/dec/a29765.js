@@ -1,13 +1,18 @@
 var a29765 =
 [
-    [ "HasFlag", "d9/dec/a29765.html#a5d13e1af17cddf3acdbfc5387869e43f", null ],
-    [ "CinematicSequence", "d9/dec/a29765.html#a33a01b1c26b21706d9898af246f2a0df", null ],
-    [ "expansion", "d9/dec/a29765.html#ab6547f8b08d4d1bf57a37f9574b71e43", null ],
-    [ "FactionID", "d9/dec/a29765.html#a5c66801f2f89aeb847699a2dd87486c7", null ],
-    [ "Flags", "d9/dec/a29765.html#a8c2d30fb87284806a93d4c1da4a6edb0", null ],
-    [ "model_f", "d9/dec/a29765.html#a4807227fd863e247b18d29db0ea8236a", null ],
-    [ "model_m", "d9/dec/a29765.html#a50b5409352d7fe3e6f5919d83c9a0eae", null ],
-    [ "name", "d9/dec/a29765.html#a4970323e45feb3f74b47420648371ab6", null ],
-    [ "RaceID", "d9/dec/a29765.html#a853f3262af3408cf2791e7cd08ec8d32", null ],
-    [ "TeamID", "d9/dec/a29765.html#addd21f5fbf6868e7cf2cd3c54c7172a1", null ]
+    [ "CreateEventInfo", "d9/dec/a29765.html#a34bc192406fd9f489e57a7ad6e5aab6d", null ],
+    [ "FindMatchingScenario", "d9/dec/a29765.html#a9b31d6d9880ee54a17df6fb57f334396", null ],
+    [ "GetEffectiveHitMask", "d9/dec/a29765.html#a1a2a08ffb1b7750d8292d70baa22109d", null ],
+    [ "GetEffectiveSpellPhaseMask", "d9/dec/a29765.html#a84919c55f1ea5a3318982fe73e39c6f1", null ],
+    [ "GetEffectiveSpellTypeMask", "d9/dec/a29765.html#aada93a604c8e7f4b5a9d0c62fb134784", null ],
+    [ "IsSpellTypeProc", "d9/dec/a29765.html#afe8b7929c8489d9c19bbfef2daaa0e9a", null ],
+    [ "RequiresSpellFamilyMatch", "d9/dec/a29765.html#a483394c3827b435220ff73a22b202cbd", null ],
+    [ "SetUp", "d9/dec/a29765.html#a97a6a44cf781708f376088b8d755e51e", null ],
+    [ "TearDown", "d9/dec/a29765.html#aa7cf1e7c860169791235a8c83079b7c3", null ],
+    [ "_allEntries", "d9/dec/a29765.html#a863fca9ea018277f0f70f074cc5cbee0", null ],
+    [ "_damageInfo", "d9/dec/a29765.html#a79d9c97408a50b436bff5466b20de7fe", null ],
+    [ "_defaultSpellInfo", "d9/dec/a29765.html#affaa8e236d7ba203b1f2077ffbcad0c4", null ],
+    [ "_healInfo", "d9/dec/a29765.html#a3495fb2c09817a1605e46de9b5ab4a5a", null ],
+    [ "_originalWorld", "d9/dec/a29765.html#a1616643b4020ac84e039f96a535d3a7f", null ],
+    [ "_worldMock", "d9/dec/a29765.html#a5d64d7a5be1af3d13d67fd7ce82f7d58", null ]
 ];

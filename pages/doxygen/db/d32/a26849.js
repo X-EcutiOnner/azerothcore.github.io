@@ -1,8 +1,6 @@
 var a26849 =
 [
-    [ "CheckProc", "db/d32/a26849.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
-    [ "HandleEffectProc", "db/d32/a26849.html#af01d160cb2a55124361a2dd113acd0a7", null ],
-    [ "PrepareAuraScript", "db/d32/a26849.html#aeffb8490a7208ae6e32a505283afbc03", null ],
-    [ "Register", "db/d32/a26849.html#a5436413d098dde4b0fa1ed2259a47779", null ],
-    [ "Validate", "db/d32/a26849.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
+    [ "FilterTargets", "db/d32/a26849.html#a17626abdbc4066956b76945b11b3f0c6", null ],
+    [ "PrepareSpellScript", "db/d32/a26849.html#abfeb75060c1f930b33003dd1e458f882", null ],
+    [ "Register", "db/d32/a26849.html#a8e5146a57f181b17280d198bcd2e216d", null ]
 ];

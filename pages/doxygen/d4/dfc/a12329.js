@@ -1,5 +1,5 @@
 var a12329 =
 [
-    [ "boss_moira_bronzebeard", "d4/dfc/a12329.html#abb9a87023b8afa242e60f9694dea1c39", null ],
-    [ "GetAI", "d4/dfc/a12329.html#ad99554aac80c79933b78ab4b6d42cc4f", null ]
+    [ "go_shadowforge_brazier", "d4/dfc/a12329.html#aafc1d2e865294bb102c918d6016aab4b", null ],
+    [ "OnGossipHello", "d4/dfc/a12329.html#a83b188cd2ee68e1ebfe75060465f8f38", null ]
 ];

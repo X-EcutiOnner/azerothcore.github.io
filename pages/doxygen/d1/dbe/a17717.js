@@ -1,8 +1,7 @@
 var a17717 =
 [
-    [ "OnApply", "d1/dbe/a17717.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
-    [ "OnRemove", "d1/dbe/a17717.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
-    [ "PrepareAuraScript", "d1/dbe/a17717.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
-    [ "Register", "d1/dbe/a17717.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
-    [ "Validate", "d1/dbe/a17717.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
+    [ "HandlePeriodic", "d1/dbe/a17717.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
+    [ "PrepareAuraScript", "d1/dbe/a17717.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
+    [ "Register", "d1/dbe/a17717.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
+    [ "Validate", "d1/dbe/a17717.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
 ];

@@ -1,6 +1,7 @@
 var a25809 =
 [
-    [ "CalculateAmount", "d6/db5/a25809.html#a2010f58ba86d6266e9549753fdec52ed", null ],
-    [ "PrepareAuraScript", "d6/db5/a25809.html#aa9ddc9f2a0ded66e81be51cec24a0e4b", null ],
-    [ "Register", "d6/db5/a25809.html#acf737f74e3cb9340f3449b491e923b7f", null ]
+    [ "HandleDummy", "d6/db5/a25809.html#a5a82cbe58f57c94441cfda618e0eecca", null ],
+    [ "HandleScriptEffect", "d6/db5/a25809.html#a30d760a8708b49a185eb000249a9a5eb", null ],
+    [ "PrepareSpellScript", "d6/db5/a25809.html#a102d8493d285757c789cbba4a1bdc688", null ],
+    [ "Register", "d6/db5/a25809.html#ab4031ddb745995128854c149f7706045", null ]
 ];

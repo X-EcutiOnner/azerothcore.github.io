@@ -1,7 +1,6 @@
 var a28597 =
 [
-    [ "fcc", "df/d78/a28597.html#afbaa5fdd612d1c93f7f07aa299d144ad", null ],
-    [ "fcc_txt", "df/d78/a28597.html#a89ed22b0a63dae9f1443309e54e9e421", null ],
-    [ "size", "df/d78/a28597.html#a0b9002c302e4dfef6dc533bf8c5bcdcc", null ],
-    [ "ver", "df/d78/a28597.html#adb92d3e9f7e35255a2e6e147d51ba8fc", null ]
+    [ "npc_stable_masterAI", "d5/d35/a28601.html", "d5/d35/a28601" ],
+    [ "npc_stable_master", "df/d78/a28597.html#ad327340f47e10bec7f077192227b0899", null ],
+    [ "GetAI", "df/d78/a28597.html#a7e34e18d2dad465eb88b0388fa830490", null ]
 ];

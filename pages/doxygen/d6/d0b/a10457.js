@@ -1,17 +1,10 @@
 var a10457 =
 [
-    [ "GuildScript", "d6/d0b/a10457.html#a9f2e849a2fb4a1cb901080f129692482", null ],
-    [ "CanGuildSendBankList", "d6/d0b/a10457.html#a293f3d822ae075246f1a7552ce9b0424", null ],
-    [ "IsDatabaseBound", "d6/d0b/a10457.html#aae0601f04ec90533bb7699c68f68fe8f", null ],
-    [ "OnAddMember", "d6/d0b/a10457.html#a908df71c0d9be1258e624f4e977e8d75", null ],
-    [ "OnBankEvent", "d6/d0b/a10457.html#a8f29c847a68fb41dd3bca4ac257ee159", null ],
-    [ "OnCreate", "d6/d0b/a10457.html#acfc89fe841629beca8de15c23c48a6c7", null ],
-    [ "OnDisband", "d6/d0b/a10457.html#a5c840084ca74af0556ac5d6256bfd75d", null ],
-    [ "OnEvent", "d6/d0b/a10457.html#ad0733568cee8ded5c89d8404166201bb", null ],
-    [ "OnInfoChanged", "d6/d0b/a10457.html#a3ce284c112b61c6077b509d55a52f388", null ],
-    [ "OnItemMove", "d6/d0b/a10457.html#a2309a1ae2828cb7c758a5cf0329f1f5a", null ],
-    [ "OnMemberDepositMoney", "d6/d0b/a10457.html#a64d676d964b408b6fde7ab9185951eb0", null ],
-    [ "OnMemberWitdrawMoney", "d6/d0b/a10457.html#a503c5116512f8ac45506732674aa5635", null ],
-    [ "OnMOTDChanged", "d6/d0b/a10457.html#ac5886f63fbc5da499843677339f4944b", null ],
-    [ "OnRemoveMember", "d6/d0b/a10457.html#a0231be74a2625a91fc617980dfc41ca3", null ]
+    [ "Flags", "d6/d0b/a10457.html#abf9c2701e766951e5a211bf6bf85b175", null ],
+    [ "ID", "d6/d0b/a10457.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
+    [ "needSave", "d6/d0b/a10457.html#aae888b1bf10f654ee212f3d687c111e9", null ],
+    [ "needSend", "d6/d0b/a10457.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
+    [ "ReputationListID", "d6/d0b/a10457.html#a052caeeae1ecdca831097591e0fddaf6", null ],
+    [ "roundedUp", "d6/d0b/a10457.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
+    [ "Standing", "d6/d0b/a10457.html#ae87da6cada559e11a9607e194013d671", null ]
 ];

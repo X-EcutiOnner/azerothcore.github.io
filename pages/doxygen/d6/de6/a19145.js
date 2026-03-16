@@ -1,9 +1,6 @@
 var a19145 =
 [
-    [ "npc_icc_severed_essenceAI", "d6/de6/a19145.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
-    [ "CanAIAttack", "d6/de6/a19145.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
-    [ "DoAction", "d6/de6/a19145.html#a938af3a7de5b26432e1ad515a326a032", null ],
-    [ "UpdateAI", "d6/de6/a19145.html#a66e3324baa87ba109dd968a517ee82a5", null ],
-    [ "Class", "d6/de6/a19145.html#aa627713be3a2ac01336d158d96aaccc7", null ],
-    [ "events", "d6/de6/a19145.html#a1bab216925c4123d633d9613bb80365c", null ]
+    [ "npc_captain_rupertAI", "d6/de6/a19145.html#ae91de64c440e71e612f34e37b90076d5", null ],
+    [ "Reset", "d6/de6/a19145.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
+    [ "UpdateAI", "d6/de6/a19145.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
 ];

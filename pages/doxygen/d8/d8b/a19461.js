@@ -1,6 +1,7 @@
 var a19461 =
 [
-    [ "boss_razuviousAI", "d0/d3b/a19465.html", "d0/d3b/a19465" ],
-    [ "boss_razuvious", "d8/d8b/a19461.html#ac1a2942f4a7957c671b075df7bf20215", null ],
-    [ "GetAI", "d8/d8b/a19461.html#a350a7cf0c3e21e29c3c28155d63dcb87", null ]
+    [ "OnApply", "d8/d8b/a19461.html#a72a01dea703436b2a220a9976da60fa6", null ],
+    [ "PrepareAuraScript", "d8/d8b/a19461.html#adb17425258d4fb2c0c464236e15f32d7", null ],
+    [ "Register", "d8/d8b/a19461.html#af026c126029c68ed8b7c6c1886720e4c", null ],
+    [ "Validate", "d8/d8b/a19461.html#a5674396828adf4e80102ed2277f1e08a", null ]
 ];

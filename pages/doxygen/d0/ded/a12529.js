@@ -1,6 +1,8 @@
 var a12529 =
 [
-    [ "near_scarshield_infiltrator", "d0/ded/a12529.html#a38d2e75946c429b4d80b007f190406bc", null ],
-    [ "OnTrigger", "d0/ded/a12529.html#aeb761433e3210ce85c1de4dab653a87c", null ],
-    [ "whisperedTargets", "d0/ded/a12529.html#a5655e241d2551798a960cb6375c7df23", null ]
+    [ "CheckProc", "d0/ded/a12529.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "d0/ded/a12529.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "d0/ded/a12529.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "d0/ded/a12529.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "d0/ded/a12529.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

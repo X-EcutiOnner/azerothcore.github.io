@@ -1,7 +1,10 @@
 var a08181 =
 [
-    [ "CreatureSpellCooldown", "d1/d5d/a08181.html#a6d234a93951992640df5720a2885be3e", null ],
-    [ "CreatureSpellCooldown", "d1/d5d/a08181.html#a53364a501b0ce66e05ec0e6638f6cb6e", null ],
-    [ "category", "d1/d5d/a08181.html#a27330a80d711087f1894b2ce816c33b8", null ],
-    [ "end", "d1/d5d/a08181.html#a9c1c5f2b6e9a6cd015085e79b043e483", null ]
+    [ "LfgUpdateData", "d1/d5d/a08181.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
+    [ "LfgUpdateData", "d1/d5d/a08181.html#a656873ea6ef9b3f23791827617a000c6", null ],
+    [ "LfgUpdateData", "d1/d5d/a08181.html#a248682a712dd43b8c4601830aae4ddec", null ],
+    [ "comment", "d1/d5d/a08181.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
+    [ "dungeons", "d1/d5d/a08181.html#a0e9b49693248b438dbc508e230a870db", null ],
+    [ "state", "d1/d5d/a08181.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
+    [ "updateType", "d1/d5d/a08181.html#a146e43854f66bf57f703d7089a24481e", null ]
 ];

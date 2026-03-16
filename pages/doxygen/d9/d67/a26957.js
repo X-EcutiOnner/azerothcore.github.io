@@ -1,5 +1,8 @@
 var a26957 =
 [
-    [ "AreaTrigger_at_last_rites", "d9/d67/a26957.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
-    [ "OnTrigger", "d9/d67/a26957.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
+    [ "CheckProc", "d9/d67/a26957.html#ab37749506a197a97cb3cc567cdff199c", null ],
+    [ "HandleProc", "d9/d67/a26957.html#a4af1cc19b8ccc4ce0d3bdcaa93a3cce2", null ],
+    [ "PrepareAuraScript", "d9/d67/a26957.html#a0c7c91113f0a4a289dcc5e53450a635a", null ],
+    [ "Register", "d9/d67/a26957.html#af52bd6c3d698e3e1f7144431ee5c7d69", null ],
+    [ "Validate", "d9/d67/a26957.html#aa4639d482cfda229e0a6eaa53c320ea8", null ]
 ];

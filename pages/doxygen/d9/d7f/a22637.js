@@ -1,7 +1,6 @@
 var a22637 =
 [
-    [ "boss_veras_darkshadow", "d9/d7f/a22637.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
-    [ "JustEngagedWith", "d9/d7f/a22637.html#a5eec3e70a7950073eced60d680ff6298", null ],
-    [ "JustSummoned", "d9/d7f/a22637.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
-    [ "UpdateAI", "d9/d7f/a22637.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "d2/dec/a22641.html", "d2/dec/a22641" ],
+    [ "instance_sethekk_halls", "d9/d7f/a22637.html#ab50d296266cf377bfb34750ec36963ef", null ],
+    [ "GetInstanceScript", "d9/d7f/a22637.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
 ];

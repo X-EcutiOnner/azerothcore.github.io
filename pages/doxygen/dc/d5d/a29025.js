@@ -1,5 +1,5 @@
 var a29025 =
 [
-    [ "go_tele_to_dalaran_crystal", "dc/d5d/a29025.html#ab41268b7d568e8f189338f27cd90a62c", null ],
-    [ "OnGossipHello", "dc/d5d/a29025.html#a7f754a29249653ca7848494310ef1a8d", null ]
+    [ "ID", "dc/d5d/a29025.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
+    [ "price", "dc/d5d/a29025.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
 ];

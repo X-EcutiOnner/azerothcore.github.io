@@ -1,5 +1,6 @@
 var a07829 =
 [
-    [ "IsColorValid", "de/dfa/a07829.html#a537a2beaa8321095d2d67b8fb655acea", null ],
-    [ "IsTextValid", "de/dfa/a07829.html#aeaa47302a91b5882afae3950ffc460cc", null ]
+    [ "value_type", "de/dfa/a07829.html#aea5c629ecdcd9c2bfc1253ef8e775c3a", null ],
+    [ "operator()", "de/dfa/a07829.html#a864f3c2f78b80dbc4b65dffb0d38ab55", null ],
+    [ "operator()", "de/dfa/a07829.html#a4e13ed545328e052481a0379e7f027a5", null ]
 ];

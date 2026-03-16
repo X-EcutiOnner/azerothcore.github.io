@@ -1,6 +1,9 @@
 var a12785 =
 [
-    [ "boss_magmadarAI", "d0/da8/a12789.html", "d0/da8/a12789" ],
-    [ "boss_magmadar", "d1/d11/a12785.html#a26aeffebdf782013a2b5dc18a0937a9a", null ],
-    [ "GetAI", "d1/d11/a12785.html#a650d28d798042a2356dffaa357516504", null ]
+    [ "FilterTargets", "d1/d11/a12785.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
+    [ "HandleOnHitRogue", "d1/d11/a12785.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
+    [ "HandleOnHitWarlock", "d1/d11/a12785.html#a76f9e5e11a6f2e25868dba567d798002", null ],
+    [ "PrepareSpellScript", "d1/d11/a12785.html#a4792a25aa6fe6126a94900784798dbee", null ],
+    [ "Register", "d1/d11/a12785.html#a0f6146c64a86e953c042f8404bbfe683", null ],
+    [ "Validate", "d1/d11/a12785.html#af65d372cdbb365eff73edb8cf18734c8", null ]
 ];

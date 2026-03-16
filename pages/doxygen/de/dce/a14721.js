@@ -1,6 +1,6 @@
 var a14721 =
 [
-    [ "HandleScript", "de/dce/a14721.html#a4077b809530d28bed0a9419b5a745f42", null ],
-    [ "PrepareSpellScript", "de/dce/a14721.html#a97eb6d1fcdcf0628433e5bec68785932", null ],
-    [ "Register", "de/dce/a14721.html#ac09b1c86655eef0febaccff86533b28f", null ]
+    [ "CheckItem", "de/dce/a14721.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
+    [ "PrepareSpellScript", "de/dce/a14721.html#a0fa160f1218cf838444f894716cb8aed", null ],
+    [ "Register", "de/dce/a14721.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
 ];

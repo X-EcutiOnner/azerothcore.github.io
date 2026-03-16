@@ -1,7 +1,6 @@
 var a26173 =
 [
-    [ "CheckRequirement", "df/d31/a26173.html#afc9206b1d92834943c9825dfd97439c9", null ],
-    [ "HandleScriptEffect", "df/d31/a26173.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
-    [ "PrepareSpellScript", "df/d31/a26173.html#a0223c05b5832c64b248e82eba770f7fa", null ],
-    [ "Register", "df/d31/a26173.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
+    [ "HandleOpenObject", "df/d31/a26173.html#ab658c13615fac1861470bb4b853e76a4", null ],
+    [ "PrepareSpellScript", "df/d31/a26173.html#a0fd0a3dc06fc2140add9e3d86e544bef", null ],
+    [ "Register", "df/d31/a26173.html#a40ff1e10d366ca7183e4e8d027c92d1b", null ]
 ];

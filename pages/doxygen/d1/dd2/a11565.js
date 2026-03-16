@@ -1,7 +1,12 @@
 var a11565 =
 [
-    [ "CategoryRecoveryTime", "d1/dd2/a11565.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
-    [ "RecoveryTime", "d1/dd2/a11565.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
-    [ "StartRecoveryCategory", "d1/dd2/a11565.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
-    [ "StartRecoveryTime", "d1/dd2/a11565.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
+    [ "SpellDestination", "d1/dd2/a11565.html#aa91f31101de3139b2e2d2976dac94686", null ],
+    [ "SpellDestination", "d1/dd2/a11565.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
+    [ "SpellDestination", "d1/dd2/a11565.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
+    [ "SpellDestination", "d1/dd2/a11565.html#a7b8949fa80249aee8bebc56620ec746c", null ],
+    [ "Relocate", "d1/dd2/a11565.html#ab565861d5013130639013e3c4d22d712", null ],
+    [ "RelocateOffset", "d1/dd2/a11565.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
+    [ "_position", "d1/dd2/a11565.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
+    [ "_transportGUID", "d1/dd2/a11565.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
+    [ "_transportOffset", "d1/dd2/a11565.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
 ];

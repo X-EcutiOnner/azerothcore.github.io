@@ -1,6 +1,5 @@
 var a18261 =
 [
-    [ "FilterTargetsInitial", "d2/d4d/a18261.html#a92cc71f268793c616bed66d9a489a145", null ],
-    [ "PrepareSpellScript", "d2/d4d/a18261.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
-    [ "Register", "d2/d4d/a18261.html#a91b96940a9e72e632989b49f7e475dba", null ]
+    [ "at_lady_deathwhisper_entrance", "d2/d4d/a18261.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
+    [ "OnTrigger", "d2/d4d/a18261.html#a769c838c94a88af5492057909d88f3de", null ]
 ];

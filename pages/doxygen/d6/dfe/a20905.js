@@ -1,7 +1,6 @@
 var a20905 =
 [
-    [ "npc_frost_tomb", "d6/dfe/a20905.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "d6/dfe/a20905.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "d6/dfe/a20905.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "d6/dfe/a20905.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "boss_yoggsaron_descend_portal", "d6/dfe/a20905.html#aa64788351819e9c7f5505c929818770d", null ],
+    [ "OnSpellClick", "d6/dfe/a20905.html#af72e8c3611b5e134e39ab9695405e08e", null ],
+    [ "_instance", "d6/dfe/a20905.html#a6b430a5f4045cdf3c3524208f02d53d2", null ]
 ];

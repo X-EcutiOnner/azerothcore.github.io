@@ -1,6 +1,7 @@
 var a17933 =
 [
-    [ "npc_gunship_mageAI", "df/da7/a17937.html", "df/da7/a17937" ],
-    [ "npc_gunship_mage", "d6/de3/a17933.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
-    [ "GetAI", "d6/de3/a17933.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
+    [ "HandleDummy", "d6/de3/a17933.html#a89c0706f21fe92fd443c3638181044ec", null ],
+    [ "PrepareSpellScript", "d6/de3/a17933.html#a957e29d2458fd90228ef9c53e997c642", null ],
+    [ "Register", "d6/de3/a17933.html#a250c95310503cd59d73e45a9b9372268", null ],
+    [ "Validate", "d6/de3/a17933.html#a1c67a262eb95def51661919a3bad3437", null ]
 ];

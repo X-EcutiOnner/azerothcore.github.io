@@ -1,8 +1,6 @@
 var a20909 =
 [
-    [ "boss_keleseth", "d6/dd0/a20909.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
-    [ "AttackStart", "d6/dd0/a20909.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
-    [ "JustDied", "d6/dd0/a20909.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
-    [ "JustEngagedWith", "d6/dd0/a20909.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
-    [ "KilledUnit", "d6/dd0/a20909.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
+    [ "boss_yoggsaron_influence_tentacle", "d6/dd0/a20909.html#ad770f3c3e63240e50c965f277b2324ea", null ],
+    [ "DamageTaken", "d6/dd0/a20909.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
+    [ "JustDied", "d6/dd0/a20909.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
 ];

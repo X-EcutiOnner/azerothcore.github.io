@@ -1,8 +1,14 @@
 var a09029 =
 [
-    [ "AllCreaturesOfEntryInRange", "dc/d58/a09029.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
-    [ "operator()", "dc/d58/a09029.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
-    [ "m_fRange", "dc/d58/a09029.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
-    [ "m_pObject", "dc/d58/a09029.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
-    [ "m_uiEntry", "dc/d58/a09029.html#abf653360d2ee482728fb137a37fe0512", null ]
+    [ "SafeUnitPointer", "dc/d58/a09029.html#a05ee5199683b1e68189a7d122bf3f5f4", null ],
+    [ "SafeUnitPointer", "dc/d58/a09029.html#a9ac4023d6ec32f96c757206dd4aa3fd6", null ],
+    [ "~SafeUnitPointer", "dc/d58/a09029.html#ad9c2be82f67eb4e825a9ffd07307983a", null ],
+    [ "Initialize", "dc/d58/a09029.html#a40f6e04585ca487c457d17ce10cc7b8c", null ],
+    [ "operator Unit *", "dc/d58/a09029.html#afee1d290f436472dd719ff83f41721f5", null ],
+    [ "operator->", "dc/d58/a09029.html#af63a04a7c6e6cb3002f5a99f90f70328", null ],
+    [ "operator=", "dc/d58/a09029.html#a44f522d9c22861f853df0286a3764d3e", null ],
+    [ "SetPointedTo", "dc/d58/a09029.html#a6603c67b736224a8e6559340afa8b275", null ],
+    [ "UnitDeleted", "dc/d58/a09029.html#a872b0a86328fb03e5feccdf364ea5cce", null ],
+    [ "defaultValue", "dc/d58/a09029.html#a38dce117cb135c9b84918a9bbc884f28", null ],
+    [ "ptr", "dc/d58/a09029.html#aa8bf5e4728aeb1ca7a8de1a727a84884", null ]
 ];

@@ -1,5 +1,5 @@
 var a20353 =
 [
-    [ "achievement_i_could_say_that_this_cache_was_rare", "d9/d82/a20353.html#a8ec1949d92f21fe57f967e510453da3e", null ],
-    [ "OnCheck", "d9/d82/a20353.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
+    [ "boss_freya_iron_root", "d9/d82/a20353.html#af35a268c89c025d95c13ea8c87d6516e", null ],
+    [ "JustDied", "d9/d82/a20353.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ]
 ];

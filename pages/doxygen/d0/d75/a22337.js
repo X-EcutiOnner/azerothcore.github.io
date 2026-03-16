@@ -1,5 +1,8 @@
 var a22337 =
 [
-    [ "outdoorpvp_na_halaa_creatures", "d0/d75/a22337.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
-    [ "UpdateAI", "d0/d75/a22337.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
+    [ "npc_wg_spirit_guideAI", "d5/d01/a22341.html", "d5/d01/a22341" ],
+    [ "npc_wg_spirit_guide", "d0/d75/a22337.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
+    [ "GetAI", "d0/d75/a22337.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
+    [ "OnGossipHello", "d0/d75/a22337.html#a2d46078cb47f817239685d168f7f2e35", null ],
+    [ "OnGossipSelect", "d0/d75/a22337.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
 ];

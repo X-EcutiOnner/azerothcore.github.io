@@ -1,7 +1,12 @@
 var a23525 =
 [
-    [ "boss_zereketh_the_unbound", "d9/dcc/a23525.html#abb2fc5cbe7514142160818016fda1936", null ],
-    [ "JustDied", "d9/dcc/a23525.html#ac5d96da9a33a536f2002cce11453ded3", null ],
-    [ "JustEngagedWith", "d9/dcc/a23525.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
-    [ "KilledUnit", "d9/dcc/a23525.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
+    [ "boss_omor_the_unscarred", "d9/dcc/a23525.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
+    [ "JustDied", "d9/dcc/a23525.html#a9ddae483a0f8cefd8a19975b60002660", null ],
+    [ "JustEngagedWith", "d9/dcc/a23525.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
+    [ "JustSummoned", "d9/dcc/a23525.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
+    [ "KilledUnit", "d9/dcc/a23525.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
+    [ "Reset", "d9/dcc/a23525.html#a0ec22c50cd096677a20299ab45a3c344", null ],
+    [ "UpdateAI", "d9/dcc/a23525.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
+    [ "_hasSpoken", "d9/dcc/a23525.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
+    [ "_targetGUID", "d9/dcc/a23525.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
 ];

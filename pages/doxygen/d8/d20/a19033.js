@@ -1,7 +1,6 @@
 var a19033 =
 [
-    [ "HandleQuestComplete", "d8/d20/a19033.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
-    [ "HandleScript", "d8/d20/a19033.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
-    [ "PrepareSpellScript", "d8/d20/a19033.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
-    [ "Register", "d8/d20/a19033.html#a3258d4517cfc758080691bab429624d7", null ]
+    [ "PeriodicTick", "d8/d20/a19033.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
+    [ "PrepareAuraScript", "d8/d20/a19033.html#a0767ac60151517b803e871a0fcb25967", null ],
+    [ "Register", "d8/d20/a19033.html#afd1e28b224035aef5ac109f38d7e118d", null ]
 ];

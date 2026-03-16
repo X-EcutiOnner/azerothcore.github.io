@@ -1,14 +1,16 @@
 var a05597 =
 [
-    [ "SFMTRand", "da/d24/a05597.html#aa40843ec8c3162e4be6cbf8067f93c9b", null ],
-    [ "operator delete", "da/d24/a05597.html#a20ef76641899ebf23ecfdfa03933d1d9", null ],
-    [ "operator delete", "da/d24/a05597.html#ac6267ac04c03814f574a155a4a0cffcb", null ],
-    [ "operator delete[]", "da/d24/a05597.html#a5051cdb95e18230b7fee753beb621603", null ],
-    [ "operator delete[]", "da/d24/a05597.html#a7cfe99d3c100b6ba124b82fce756960f", null ],
-    [ "operator new", "da/d24/a05597.html#a73dfbe0b1545b5604dfde603517efbfb", null ],
-    [ "operator new", "da/d24/a05597.html#a3dc4f4d003c77547117ec7c31486f884", null ],
-    [ "operator new[]", "da/d24/a05597.html#a61d2b3bc61bfa640c8b0241d09347d2b", null ],
-    [ "operator new[]", "da/d24/a05597.html#ace8e8802bdb710f3354d3ff7d619497c", null ],
-    [ "RandomUInt32", "da/d24/a05597.html#a8d129952ad2916419cdf54aa474c23c0", null ],
-    [ "_state", "da/d24/a05597.html#a9bc20836138e5dd4db93f7d03a9e856b", null ]
+    [ "LogMessage", "da/d24/a05597.html#a563286e5cd6518e04b3069a86cf6e972", null ],
+    [ "LogMessage", "da/d24/a05597.html#a0a5626d481fe047437f213f1fa48a3aa", null ],
+    [ "LogMessage", "da/d24/a05597.html#a727fa3a719c50572711ada4e257102ab", null ],
+    [ "getTimeStr", "da/d24/a05597.html#aaeca452ae2fe32e7412f4abc30642da2", null ],
+    [ "getTimeStr", "da/d24/a05597.html#af40f502e57bf12f31fc7a2fe60584fc8", null ],
+    [ "operator=", "da/d24/a05597.html#af35b8fc183cb1848e965117497f50ab4", null ],
+    [ "Size", "da/d24/a05597.html#ad2947063f8263da27acc82ce0bba6bc2", null ],
+    [ "level", "da/d24/a05597.html#a44096654072d07e506ef6414a8ce4970", null ],
+    [ "mtime", "da/d24/a05597.html#a2dab9ed7c1aa8b784e74247667295e29", null ],
+    [ "param1", "da/d24/a05597.html#afcf2119e7c084339bd70e2ffb4c88d0e", null ],
+    [ "prefix", "da/d24/a05597.html#afe279a591acc9740457c3cd58d43a263", null ],
+    [ "text", "da/d24/a05597.html#a4ad799611980177ae87f3acbf2af8ff7", null ],
+    [ "type", "da/d24/a05597.html#a77105c721645df5654e3c48ce00c2b5a", null ]
 ];

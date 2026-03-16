@@ -1,10 +1,9 @@
 var a14533 =
 [
-    [ "npc_brewfest_super_brew_trigger", "dc/daa/a14533.html#a3d2189978683150b1c431fa0fd637358", null ],
-    [ "AttackStart", "dc/daa/a14533.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
-    [ "JustEngagedWith", "dc/daa/a14533.html#a61be52cb8ba0cc10285820ad5324816e", null ],
-    [ "MoveInLineOfSight", "dc/daa/a14533.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
-    [ "Reset", "dc/daa/a14533.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
-    [ "UpdateAI", "dc/daa/a14533.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
-    [ "timer", "dc/daa/a14533.html#a2ebb06175e3142cca156e57e8386fe02", null ]
+    [ "npc_shade_of_jindo", "dc/daa/a14533.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
+    [ "IsSummonedBy", "dc/daa/a14533.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
+    [ "JustEngagedWith", "dc/daa/a14533.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
+    [ "Reset", "dc/daa/a14533.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
+    [ "UpdateAI", "dc/daa/a14533.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
+    [ "_scheduler", "dc/daa/a14533.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
 ];

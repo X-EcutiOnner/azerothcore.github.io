@@ -1,5 +1,7 @@
 var a22309 =
 [
-    [ "OutdoorPvP_grizzly_hills", "df/ded/a22309.html#aa020d8120c62874fb15b4623bbb714d9", null ],
-    [ "GetOutdoorPvP", "df/ded/a22309.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
+    [ "HandleScript", "df/ded/a22309.html#ad38771460ddf0f95783718775690d1f0", null ],
+    [ "PrepareSpellScript", "df/ded/a22309.html#a9d3b65b251cc9680352bbf056bb74f05", null ],
+    [ "Register", "df/ded/a22309.html#a3ba23fd54c35c2d2866db647811c948d", null ],
+    [ "Validate", "df/ded/a22309.html#a6a58808356785c25032c2befd429ff2b", null ]
 ];

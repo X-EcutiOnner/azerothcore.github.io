@@ -1,8 +1,6 @@
 var a17129 =
 [
-    [ "npc_fos_leaderAI", "db/d96/a17129.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
-    [ "DoAction", "db/d96/a17129.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
-    [ "Reset", "db/d96/a17129.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
-    [ "UpdateAI", "db/d96/a17129.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
-    [ "events", "db/d96/a17129.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
+    [ "instance_trial_of_the_crusader_InstanceMapScript", "d5/db5/a17133.html", "d5/db5/a17133" ],
+    [ "instance_trial_of_the_crusader", "db/d96/a17129.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
+    [ "GetInstanceScript", "db/d96/a17129.html#a792034e9e5687bf5fa543175692bed66", null ]
 ];

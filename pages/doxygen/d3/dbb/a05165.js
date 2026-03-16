@@ -1,7 +1,8 @@
 var a05165 =
 [
-    [ "WModelAreaCallback", "d3/dbb/a05165.html#aef7e8c21f6be4d6889faddda6b3be326", null ],
-    [ "operator()", "d3/dbb/a05165.html#a8024f924c258932c874c0ac3539d2755", null ],
-    [ "hit", "d3/dbb/a05165.html#a92b907262a6e2fa630148580da43c612", null ],
-    [ "prims", "d3/dbb/a05165.html#abe509366e68fff92e07c1aacb90da04f", null ]
+    [ "IMMapMgr", "d3/dbb/a05165.html#a2292f2bdacfc627ab33f02d399221ad5", null ],
+    [ "~IMMapMgr", "d3/dbb/a05165.html#a8298d6b3fbce5ccd835af3c287c361b6", null ],
+    [ "isEnablePathFinding", "d3/dbb/a05165.html#a5d6bcb413c39e82da8e4924c4754c8b0", null ],
+    [ "setEnablePathFinding", "d3/dbb/a05165.html#afdc7e829a374c20b4d072290363c7c62", null ],
+    [ "iEnablePathFinding", "d3/dbb/a05165.html#a25f8900f4546990562fb048e956bb1e0", null ]
 ];

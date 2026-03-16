@@ -1,5 +1,7 @@
 var a26941 =
 [
-    [ "AreaTrigger_at_coilfang_waterfall", "d3/dbe/a26941.html#aa2e9a01adad7e195860bbc6c55131024", null ],
-    [ "OnTrigger", "d3/dbe/a26941.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
+    [ "CheckProc", "d3/dbe/a26941.html#adc34c24521c893499c72bc0fe8a946eb", null ],
+    [ "PrepareAuraScript", "d3/dbe/a26941.html#a1e7cf41ceb818d7d234c1b998e7280be", null ],
+    [ "Register", "d3/dbe/a26941.html#a60a2902196abf3239fe6b8f7defcd609", null ],
+    [ "Validate", "d3/dbe/a26941.html#a13e108f88a07f0b46291cdc718022437", null ]
 ];

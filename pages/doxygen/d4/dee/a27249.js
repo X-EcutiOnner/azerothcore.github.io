@@ -1,10 +1,6 @@
 var a27249 =
 [
-    [ "guard_shattrath_scryerAI", "d4/dee/a27249.html#a97accbf467ca1190f8a05512b3857164", null ],
-    [ "Reset", "d4/dee/a27249.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
-    [ "UpdateAI", "d4/dee/a27249.html#ad759cca08b0093522e190ddc038e2c73", null ],
-    [ "banishTimer", "d4/dee/a27249.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
-    [ "canTeleport", "d4/dee/a27249.html#a84188b40b44deae5714466bb23bf2f0d", null ],
-    [ "exileTimer", "d4/dee/a27249.html#a97fbc3f54c23049fd91ad432cd560698", null ],
-    [ "playerGUID", "d4/dee/a27249.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
+    [ "PrepareAuraScript", "d4/dee/a27249.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
+    [ "Register", "d4/dee/a27249.html#a91f4b2b8796c7efab2f622893a393619", null ],
+    [ "AuraEffectHandleModes", "d4/dee/a27249.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
 ];

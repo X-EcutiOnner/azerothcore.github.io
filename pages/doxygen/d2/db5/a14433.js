@@ -1,6 +1,6 @@
 var a14433 =
 [
-    [ "LaunchHit", "d2/db5/a14433.html#a715c86c4057fe8c60abf02d895ac3c5a", null ],
-    [ "PrepareSpellScript", "d2/db5/a14433.html#a4ad316b68d84921255577aedabb5ad3f", null ],
-    [ "Register", "d2/db5/a14433.html#a50fa3ede9bebb2b54c4ec10091017c07", null ]
+    [ "npc_zulian_prowlerAI", "d8/d07/a14437.html", "d8/d07/a14437" ],
+    [ "npc_zulian_prowler", "d2/db5/a14433.html#a27ae990985976d02bb221b6d669fa849", null ],
+    [ "GetAI", "d2/db5/a14433.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
 ];
